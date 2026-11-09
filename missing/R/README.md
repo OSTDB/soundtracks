@@ -2917,6 +2917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Steady Bang | 133859 | [133859-ready-steady-bang.json](./133859-ready-steady-bang.json) |
 | Ready Steady Go | 72597 | [72597-ready-steady-go.json](./72597-ready-steady-go.json) |
 | Ready Steady Play | 61073 | [61073-ready-steady-play.json](./61073-ready-steady-play.json) |
+| Ready to Run | 52697 | [52697-ready-to-run.json](./52697-ready-to-run.json) |
 | Ready, Aim, Splat! | 30432 | [30432-ready-aim-splat.json](./30432-ready-aim-splat.json) |
 | Ready, Set, Party Collection | 335510 | [335510-ready-set-party-collection.json](./335510-ready-set-party-collection.json) |
 | Ready, Set, Plumb! | 306352 | [306352-ready-set-plumb.json](./306352-ready-set-plumb.json) |
@@ -3099,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Scary | 117864 | [117864-real-scary.json](./117864-real-scary.json) |
 | Real School Girl Simulator | 296760 | [296760-real-school-girl-simulator.json](./296760-real-school-girl-simulator.json) |
 | Real Shot VR | 98477 | [98477-real-shot-vr.json](./98477-real-shot-vr.json) |
+| Real Soccer | 52696 | [52696-real-soccer.json](./52696-real-soccer.json) |
 | Real Soccer 2 | 91833 | [91833-real-soccer-2.json](./91833-real-soccer-2.json) |
 | Real Soccer 2007 | 116347 | [116347-real-soccer-2007.json](./116347-real-soccer-2007.json) |
 | Real Soccer 2008 | 93920 | [93920-real-soccer-2008.json](./93920-real-soccer-2008.json) |
@@ -3706,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recoil Gunner | 208019 | [208019-recoil-gunner.json](./208019-recoil-gunner.json) |
 | Recoil Rush | 360151 | [360151-recoil-rush.json](./360151-recoil-rush.json) |
 | Recoil vs. The World | 226975 | [226975-recoil-vs-the-world.json](./226975-recoil-vs-the-world.json) |
+| Recoil: Retrograd | 52692 | [52692-recoil-retrograd.json](./52692-recoil-retrograd.json) |
 | Recoiled | 149498 | [149498-recoiled.json](./149498-recoiled.json) |
 | Recolit | 152179 | [152179-recolit.json](./152179-recolit.json) |
 | Recollect: Coloring Book | 106002 | [106002-recollect-coloring-book.json](./106002-recollect-coloring-book.json) |
@@ -7335,6 +7338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricochet Bounce | 152816 | [152816-ricochet-bounce.json](./152816-ricochet-bounce.json) |
 | Ricochet Girls | 362865 | [362865-ricochet-girls.json](./362865-ricochet-girls.json) |
 | Ricochet Gun | 239536 | [239536-ricochet-gun.json](./239536-ricochet-gun.json) |
+| Ricochet HD | 52708 | [52708-ricochet-hd.json](./52708-ricochet-hd.json) |
 | Ricochet Infinity | 23820 | [23820-ricochet-infinity.json](./23820-ricochet-infinity.json) |
 | Ricochet Kills | 383201 | [383201-ricochet-kills.json](./383201-ricochet-kills.json) |
 | Ricochet Kills 2 | 235241 | [235241-ricochet-kills-2.json](./235241-ricochet-kills-2.json) |
@@ -7868,6 +7872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Racer | 259151 | [259151-ring-racer.json](./259151-ring-racer.json) |
 | Ring Rage | 39498 | [39498-ring-rage.json](./39498-ring-rage.json) |
 | Ring Ring | 135689 | [135689-ring-ring.json](./135689-ring-ring.json) |
+| Ring Run Circus | 52705 | [52705-ring-run-circus.json](./52705-ring-run-circus.json) |
 | Ring Sculptors | 313155 | [313155-ring-sculptors.json](./313155-ring-sculptors.json) |
 | Ring Stars | 261508 | [261508-ring-stars.json](./261508-ring-stars.json) |
 | Ring the City | 118005 | [118005-ring-the-city.json](./118005-ring-the-city.json) |
