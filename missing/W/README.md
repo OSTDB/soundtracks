@@ -7015,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry III & IV | 123081 | [123081-wizardry-iii-and-iv.json](./123081-wizardry-iii-and-iv.json) |
 | Wizardry III: Diamond no Kishi | 50046 | [50046-wizardry-iii-diamond-no-kishi.json](./50046-wizardry-iii-diamond-no-kishi.json) |
 | Wizardry Level C | 267783 | [267783-wizardry-level-c.json](./267783-wizardry-level-c.json) |
+| Wizardry Online | 27131 | [27131-wizardry-online.json](./27131-wizardry-online.json) |
 | Wizardry Perfect Pack | 136846 | [136846-wizardry-perfect-pack.json](./136846-wizardry-perfect-pack.json) |
 | Wizardry Scenario #1: Proving Grounds of the Mad Overlord | 370739 | [370739-wizardry-scenario-1-proving-grounds-of-the-mad-overlord.json](./370739-wizardry-scenario-1-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry Squared | 149567 | [149567-wizardry-squared.json](./149567-wizardry-squared.json) |
@@ -7858,6 +7859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Fun | 87165 | [87165-word-search-fun.json](./87165-word-search-fun.json) |
 | Word Search Game | 86915 | [86915-word-search-game.json](./86915-word-search-game.json) |
 | Word Search game ...made with love | 27363 | [27363-word-search-game-made-with-love.json](./27363-word-search-game-made-with-love.json) |
+| Word Search Game: Made with Love | 27968 | [27968-word-search-game-made-with-love.json](./27968-word-search-game-made-with-love.json) |
 | Word Search Joy | 88270 | [88270-word-search-joy.json](./88270-word-search-joy.json) |
 | Word Search Mania | 92918 | [92918-word-search-mania.json](./92918-word-search-mania.json) |
 | Word Search Pro | 87371 | [87371-word-search-pro.json](./87371-word-search-pro.json) |
