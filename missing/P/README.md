@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Kanzen Kouryaku: Universal Koushiki Guide Volume 4 | 402745 | [402745-pachi-slot-kanzen-kouryaku-universal-koushiki-guide-volume-4.json](./402745-pachi-slot-kanzen-kouryaku-universal-koushiki-guide-volume-4.json) |
 | Pachi-Slot Kanzen Kouryaku: Universal Shindai Nyuuka Volume 1 | 66960 | [66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json](./66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json) |
 | Pachi-Slot Kenkyuu | 37900 | [37900-pachi-slot-kenkyuu.json](./37900-pachi-slot-kenkyuu.json) |
+| Pachi-Slot King! Kagaku Ninja-Tai Gatchaman | 62232 | [62232-pachi-slot-king-kagaku-ninja-tai-gatchaman.json](./62232-pachi-slot-king-kagaku-ninja-tai-gatchaman.json) |
 | Pachi-Slot Land: Pachi-pachi Coin no Densetsu | 37899 | [37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json](./37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json) |
 | Pachi-Slot Love Story | 37898 | [37898-pachi-slot-love-story.json](./37898-pachi-slot-love-story.json) |
 | Pachi-Slot Monogatari: Paru Kougyou Special | 37897 | [37897-pachi-slot-monogatari-paru-kougyou-special.json](./37897-pachi-slot-monogatari-paru-kougyou-special.json) |
@@ -13877,6 +13878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Drome | 5985 | [5985-power-drome.json](./5985-power-drome.json) |
 | Power Eleven | 42043 | [42043-power-eleven.json](./42043-power-eleven.json) |
 | Power F1 | 93180 | [93180-power-f1.json](./93180-power-f1.json) |
+| Power Factor | 62298 | [62298-power-factor.json](./62298-power-factor.json) |
 | Power Factory Featuring C+C Music Factory | 5420 | [5420-power-factory-featuring-c-c-music-factory.json](./5420-power-factory-featuring-c-c-music-factory.json) |
 | Power Fail | 224855 | [224855-power-fail.json](./224855-power-fail.json) |
 | Power Fantasy | 258465 | [258465-power-fantasy.json](./258465-power-fantasy.json) |
@@ -15736,6 +15738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Team wo Tsukurou! 3 | 125555 | [125555-pro-yakyuu-team-wo-tsukurou-3.json](./125555-pro-yakyuu-team-wo-tsukurou-3.json) |
 | Pro Yakyuu Team wo Tsukurou! Advance | 49762 | [49762-pro-yakyuu-team-wo-tsukurou-advance.json](./49762-pro-yakyuu-team-wo-tsukurou-advance.json) |
 | Pro Yakyuu Virtual Stadium: Professional Baseball | 268523 | [268523-pro-yakyuu-virtual-stadium-professional-baseball.json](./268523-pro-yakyuu-virtual-stadium-professional-baseball.json) |
+| Pro Yakyuu World Stadium | 62299 | [62299-pro-yakyuu-world-stadium.json](./62299-pro-yakyuu-world-stadium.json) |
 | Pro Yakyuu World Stadium '91 | 37660 | [37660-pro-yakyuu-world-stadium-91.json](./37660-pro-yakyuu-world-stadium-91.json) |
 | Pro Yakyuu: Family Stadium '90 | 218387 | [218387-pro-yakyuu-family-stadium-90.json](./218387-pro-yakyuu-family-stadium-90.json) |
 | Pro Yakyuu: Famista Online 2010 | 218396 | [218396-pro-yakyuu-famista-online-2010.json](./218396-pro-yakyuu-famista-online-2010.json) |
@@ -15820,6 +15823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Baseball Tactics | 57753 | [57753-professional-baseball-tactics.json](./57753-professional-baseball-tactics.json) |
 | Professional BMX Simulator | 419890 | [419890-professional-bmx-simulator.json](./419890-professional-bmx-simulator.json) |
 | Professional Boyfriend | 239869 | [239869-professional-boyfriend.json](./239869-professional-boyfriend.json) |
+| Professional Bull Rider | 62230 | [62230-professional-bull-rider.json](./62230-professional-bull-rider.json) |
 | Professional Bull Rider 2 | 71445 | [71445-professional-bull-rider-2.json](./71445-professional-bull-rider-2.json) |
 | Professional Bull Riding: Out of the Chute | 315719 | [315719-professional-bull-riding-out-of-the-chute.json](./315719-professional-bull-riding-out-of-the-chute.json) |
 | Professional Bull Riding: Out of the Chute | 51113 | [51113-professional-bull-riding-out-of-the-chute.json](./51113-professional-bull-riding-out-of-the-chute.json) |
