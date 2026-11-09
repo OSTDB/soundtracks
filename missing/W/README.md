@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanting Wings | 278705 | [278705-wanting-wings.json](./278705-wanting-wings.json) |
 | Wantless: Solace at World’s End | 179999 | [179999-wantless-solace-at-world-s-end.json](./179999-wantless-solace-at-world-s-end.json) |
 | Wanton Destruction | 2532 | [2532-wanton-destruction.json](./2532-wanton-destruction.json) |
+| Wanwan Aijou Monogatari | 66250 | [66250-wanwan-aijou-monogatari.json](./66250-wanwan-aijou-monogatari.json) |
 | Wanwan Datte Uchuu No Shinpi | 325385 | [325385-wanwan-datte-uchuu-no-shinpi.json](./325385-wanwan-datte-uchuu-no-shinpi.json) |
 | WanYaoChao | 419756 | [419756-wanyaochao.json](./419756-wanyaochao.json) |
 | Waochi! Math Homerun | 395686 | [395686-waochi-math-homerun.json](./395686-waochi-math-homerun.json) |
