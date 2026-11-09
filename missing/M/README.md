@@ -10039,6 +10039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Fight Beyblade DS | 69169 | [69169-metal-fight-beyblade-ds.json](./69169-metal-fight-beyblade-ds.json) |
 | Metal Fight Beyblade Portable: Chouzetsu Tensei! Vulcan Horuseus | 65197 | [65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json](./65197-metal-fight-beyblade-portable-chouzetsu-tensei-vulcan-horuseus.json) |
 | Metal Fight Beyblade: Bakushin Susanow Attacks! | 394193 | [394193-metal-fight-beyblade-bakushin-susanow-attacks.json](./394193-metal-fight-beyblade-bakushin-susanow-attacks.json) |
+| Metal Fighter | 48171 | [48171-metal-fighter.json](./48171-metal-fighter.json) |
 | Metal Fighter Miku | 107633 | [107633-metal-fighter-miku.json](./107633-metal-fighter-miku.json) |
 | Metal Force | 48325 | [48325-metal-force.json](./48325-metal-force.json) |
 | Metal Force: Tank Games Online | 391935 | [391935-metal-force-tank-games-online.json](./391935-metal-force-tank-games-online.json) |
@@ -14371,6 +14372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission B | 120473 | [120473-mission-b.json](./120473-mission-b.json) |
 | Mission Biotech | 159792 | [159792-mission-biotech.json](./159792-mission-biotech.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
+| Mission Cobra | 48167 | [48167-mission-cobra.json](./48167-mission-cobra.json) |
 | Mission Commando | 223744 | [223744-mission-commando.json](./223744-mission-commando.json) |
 | Mission Control: NanoMech | 28585 | [28585-mission-control-nanomech.json](./28585-mission-control-nanomech.json) |
 | Mission Craft | 283402 | [283402-mission-craft.json](./283402-mission-craft.json) |
