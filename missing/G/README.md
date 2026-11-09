@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambling Lord | 64042 | [64042-gambling-lord.json](./64042-gambling-lord.json) |
 | Gambling Paradise: The Escape Call VR | 237017 | [237017-gambling-paradise-the-escape-call-vr.json](./237017-gambling-paradise-the-escape-call-vr.json) |
 | Gambol | 328063 | [328063-gambol.json](./328063-gambol.json) |
+| Gambol | 68217 | [68217-gambol.json](./68217-gambol.json) |
 | Gambol 2 | 328061 | [328061-gambol-2.json](./328061-gambol-2.json) |
 | Gambonanza | 335721 | [335721-gambonanza.json](./335721-gambonanza.json) |
 | Game | 346610 | [346610-game.json](./346610-game.json) |
@@ -8404,6 +8405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granyuu-shima! Daibouken | 274400 | [274400-granyuu-shima-daibouken.json](./274400-granyuu-shima-daibouken.json) |
 | Grape by Grape | 415349 | [415349-grape-by-grape.json](./415349-grape-by-grape.json) |
 | Grape Escape | 365398 | [365398-grape-escape.json](./365398-grape-escape.json) |
+| Grape Jelly | 68794 | [68794-grape-jelly.json](./68794-grape-jelly.json) |
 | Grape Juice City | 247676 | [247676-grape-juice-city.json](./247676-grape-juice-city.json) |
 | Grapefruit | 304203 | [304203-grapefruit.json](./304203-grapefruit.json) |
 | Graph TD: Cosmic | 395104 | [395104-graph-td-cosmic.json](./395104-graph-td-cosmic.json) |
