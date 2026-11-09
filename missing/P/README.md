@@ -7303,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball M: System Shock Pinball | 287179 | [287179-pinball-m-system-shock-pinball.json](./287179-pinball-m-system-shock-pinball.json) |
 | Pinball M: The Thing Pinball | 278535 | [278535-pinball-m-the-thing-pinball.json](./278535-pinball-m-the-thing-pinball.json) |
 | Pinball Madness 2 | 71225 | [71225-pinball-madness-2.json](./71225-pinball-madness-2.json) |
+| Pinball Madness 4 | 69788 | [69788-pinball-madness-4.json](./69788-pinball-madness-4.json) |
 | Pinball Magic | 38053 | [38053-pinball-magic.json](./38053-pinball-magic.json) |
 | Pinball Mania | 49073 | [49073-pinball-mania.json](./49073-pinball-mania.json) |
 | Pinball Mania Plus | 314912 | [314912-pinball-mania-plus.json](./314912-pinball-mania-plus.json) |
@@ -12519,6 +12520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polycar Blitz | 334266 | [334266-polycar-blitz.json](./334266-polycar-blitz.json) |
 | PolyCars | 176197 | [176197-polycars.json](./176197-polycars.json) |
 | Polychoron | 151664 | [151664-polychoron.json](./151664-polychoron.json) |
+| Polychromatic Funk Monkey | 69954 | [69954-polychromatic-funk-monkey.json](./69954-polychromatic-funk-monkey.json) |
 | Polychrome | 362975 | [362975-polychrome.json](./362975-polychrome.json) |
 | Polychromia | 177867 | [177867-polychromia.json](./177867-polychromia.json) |
 | Polycity | 404978 | [404978-polycity.json](./404978-polycity.json) |
@@ -15605,6 +15607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Philosopher 2: Governments & Grievances | 258026 | [258026-pro-philosopher-2-governments-and-grievances.json](./258026-pro-philosopher-2-governments-and-grievances.json) |
 | Pro Pilkki | 169332 | [169332-pro-pilkki.json](./169332-pro-pilkki.json) |
 | Pro Pilkki 2 | 93597 | [93597-pro-pilkki-2.json](./93597-pro-pilkki-2.json) |
+| Pro Pilot '99 | 69960 | [69960-pro-pilot-99.json](./69960-pro-pilot-99.json) |
 | Pro Pinball | 18333 | [18333-pro-pinball.json](./18333-pro-pinball.json) |
 | Pro Pinball Ultra | 36376 | [36376-pro-pinball-ultra.json](./36376-pro-pinball-ultra.json) |
 | Pro Pinball: Fantastic Journey | 43877 | [43877-pro-pinball-fantastic-journey.json](./43877-pro-pinball-fantastic-journey.json) |
