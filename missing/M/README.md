@@ -17688,6 +17688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Blitz: Combat Arena | 218536 | [218536-mortal-blitz-combat-arena.json](./218536-mortal-blitz-combat-arena.json) |
 | Mortal box | 84057 | [84057-mortal-box.json](./84057-mortal-box.json) |
 | Mortal Coil | 321942 | [321942-mortal-coil.json](./321942-mortal-coil.json) |
+| Mortal Coil: Adrenalin Intelligence | 71835 | [71835-mortal-coil-adrenalin-intelligence.json](./71835-mortal-coil-adrenalin-intelligence.json) |
 | Mortal Crusade: Sword of Knight | 146981 | [146981-mortal-crusade-sword-of-knight.json](./146981-mortal-crusade-sword-of-knight.json) |
 | Mortal Crux | 217445 | [217445-mortal-crux.json](./217445-mortal-crux.json) |
 | Mortal Cultivation Biography | 368504 | [368504-mortal-cultivation-biography.json](./368504-mortal-cultivation-biography.json) |
@@ -20418,6 +20419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Rage | 360884 | [360884-mutant-rage.json](./360884-mutant-rage.json) |
 | Mutant Rampage: Bodyslam | 45912 | [45912-mutant-rampage-bodyslam.json](./45912-mutant-rampage-bodyslam.json) |
 | Mutant Roadkill | 233532 | [233532-mutant-roadkill.json](./233532-mutant-roadkill.json) |
+| Mutant Storm | 71688 | [71688-mutant-storm.json](./71688-mutant-storm.json) |
 | Mutant Storm Empire | 21914 | [21914-mutant-storm-empire.json](./21914-mutant-storm-empire.json) |
 | Mutant Storm: Reloaded | 16266 | [16266-mutant-storm-reloaded.json](./16266-mutant-storm-reloaded.json) |
 | Mutant Survivors | 382324 | [382324-mutant-survivors.json](./382324-mutant-survivors.json) |
@@ -20522,6 +20524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MVP Baseball 2005 | 796 | [796-mvp-baseball-2005.json](./796-mvp-baseball-2005.json) |
 | MVP Bridge | 93081 | [93081-mvp-bridge.json](./93081-mvp-bridge.json) |
 | MVP Spades Deluxe | 93396 | [93396-mvp-spades-deluxe.json](./93396-mvp-spades-deluxe.json) |
+| MVP Word Search for Windows | 71830 | [71830-mvp-word-search-for-windows.json](./71830-mvp-word-search-for-windows.json) |
 | MVR | 286762 | [286762-mvr.json](./286762-mvr.json) |
 | Mwizz | 194870 | [194870-mwizz.json](./194870-mwizz.json) |
 | MWT: Tank Battles | 319848 | [319848-mwt-tank-battles.json](./319848-mwt-tank-battles.json) |
