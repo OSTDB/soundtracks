@@ -9320,6 +9320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cirque de Zale | 93327 | [93327-cirque-de-zale.json](./93327-cirque-de-zale.json) |
 | Cirque des Animaux | 383080 | [383080-cirque-des-animaux.json](./383080-cirque-des-animaux.json) |
 | Cirque du Flea | 366412 | [366412-cirque-du-flea.json](./366412-cirque-du-flea.json) |
+| Cirque du Soleil | 68867 | [68867-cirque-du-soleil.json](./68867-cirque-du-soleil.json) |
 | Cirque Eclipse: The Scarlet Curtain | 257163 | [257163-cirque-eclipse-the-scarlet-curtain.json](./257163-cirque-eclipse-the-scarlet-curtain.json) |
 | Cirrus | 165115 | [165115-cirrus.json](./165115-cirrus.json) |
 | Cirrus Business | 253987 | [253987-cirrus-business.json](./253987-cirrus-business.json) |
@@ -16571,6 +16572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackshot | 183982 | [183982-crackshot.json](./183982-crackshot.json) |
 | Cracksman | 346054 | [346054-cracksman.json](./346054-cracksman.json) |
 | CrackSword | 397823 | [397823-cracksword.json](./397823-cracksword.json) |
+| Crackwell Unhinged | 69427 | [69427-crackwell-unhinged.json](./69427-crackwell-unhinged.json) |
 | Cracky | 275226 | [275226-cracky.json](./275226-cracky.json) |
 | Cracky Mini | 327354 | [327354-cracky-mini.json](./327354-cracky-mini.json) |
 | Cradle | 11341 | [11341-cradle.json](./11341-cradle.json) |
@@ -20878,6 +20880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuter Kaizo World | 312344 | [312344-cuter-kaizo-world.json](./312344-cuter-kaizo-world.json) |
 | Cutesy - Quest of the Unicorn | 52333 | [52333-cutesy-quest-of-the-unicorn.json](./52333-cutesy-quest-of-the-unicorn.json) |
 | Cutesy Christmas: A Very Merry Rescue | 52332 | [52332-cutesy-christmas-a-very-merry-rescue.json](./52332-cutesy-christmas-a-very-merry-rescue.json) |
+| Cutey Honey FX | 69395 | [69395-cutey-honey-fx.json](./69395-cutey-honey-fx.json) |
 | Cuthbert and the Golden Chalice | 123067 | [123067-cuthbert-and-the-golden-chalice.json](./123067-cuthbert-and-the-golden-chalice.json) |
 | Cuthbert Enters the Tombs of Doom | 123061 | [123061-cuthbert-enters-the-tombs-of-doom.json](./123061-cuthbert-enters-the-tombs-of-doom.json) |
 | Cuthbert Goes Digging | 73989 | [73989-cuthbert-goes-digging.json](./73989-cuthbert-goes-digging.json) |
