@@ -10525,6 +10525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goracle | 107394 | [107394-the-goracle.json](./107394-the-goracle.json) |
 | The Gorcs' Forge | 158573 | [158573-the-gorcs-forge.json](./158573-the-gorcs-forge.json) |
 | The Gorge | 322392 | [322392-the-gorge.json](./322392-the-gorge.json) |
+| The Gorilla Man | 48760 | [48760-the-gorilla-man.json](./48760-the-gorilla-man.json) |
 | The Gostak | 60655 | [60655-the-gostak.json](./60655-the-gostak.json) |
 | The Goto Family's: The Island Murder Case | 150112 | [150112-the-goto-familys-the-island-murder-case.json](./150112-the-goto-familys-the-island-murder-case.json) |
 | The Gourmet Factor | 308897 | [308897-the-gourmet-factor.json](./308897-the-gourmet-factor.json) |
@@ -15531,6 +15532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pope: Power & Sin | 132697 | [132697-the-pope-power-and-sin.json](./132697-the-pope-power-and-sin.json) |
 | The Population Must Grow | 366738 | [366738-the-population-must-grow.json](./366738-the-population-must-grow.json) |
 | The Portal Dimension | 121323 | [121323-the-portal-dimension.json](./121323-the-portal-dimension.json) |
+| The Portopia Serial Murder Case | 48358 | [48358-the-portopia-serial-murder-case.json](./48358-the-portopia-serial-murder-case.json) |
 | The Possession Experiment | 402683 | [402683-the-possession-experiment.json](./402683-the-possession-experiment.json) |
 | The Posthumous Investigation | 255719 | [255719-the-posthumous-investigation.json](./255719-the-posthumous-investigation.json) |
 | The Postman Only Dies Once | 71245 | [71245-the-postman-only-dies-once.json](./71245-the-postman-only-dies-once.json) |
@@ -17690,6 +17692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sting! | 11851 | [11851-the-sting.json](./11851-the-sting.json) |
 | The Stinky Adventures of DungDung | 403365 | [403365-the-stinky-adventures-of-dungdung.json](./403365-the-stinky-adventures-of-dungdung.json) |
 | The Stochastic Dungeons of Apogee | 351360 | [351360-the-stochastic-dungeons-of-apogee.json](./351360-the-stochastic-dungeons-of-apogee.json) |
+| The Stock Speculation | 48750 | [48750-the-stock-speculation.json](./48750-the-stock-speculation.json) |
 | The Stockpile | 253770 | [253770-the-stockpile.json](./253770-the-stockpile.json) |
 | The Stoevi Curse | 247476 | [247476-the-stoevi-curse.json](./247476-the-stoevi-curse.json) |
 | The Stolen Venus | 208697 | [208697-the-stolen-venus.json](./208697-the-stolen-venus.json) |
