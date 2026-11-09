@@ -1252,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baku Baku | 69785 | [69785-baku-baku.json](./69785-baku-baku.json) |
 | Baku Funshiki | 340033 | [340033-baku-funshiki.json](./340033-baku-funshiki.json) |
 | Baku Maru | 369039 | [369039-baku-maru.json](./369039-baku-maru.json) |
+| Bakuchou Bar Hunter | 76092 | [76092-bakuchou-bar-hunter.json](./76092-bakuchou-bar-hunter.json) |
 | Bakuchou Retrieve Master | 228490 | [228490-bakuchou-retrieve-master.json](./228490-bakuchou-retrieve-master.json) |
 | Bakuchou Retsuden Shou: Hyper Fishing | 228491 | [228491-bakuchou-retsuden-shou-hyper-fishing.json](./228491-bakuchou-retsuden-shou-hyper-fishing.json) |
 | Bakudan Baku-tan | 319096 | [319096-bakudan-baku-tan.json](./319096-bakudan-baku-tan.json) |
@@ -13834,6 +13835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born to Kill | 167460 | [167460-born-to-kill.json](./167460-born-to-kill.json) |
 | Born to Rise | 256335 | [256335-born-to-rise.json](./256335-born-to-rise.json) |
 | Born to Rock | 60765 | [60765-born-to-rock.json](./60765-born-to-rock.json) |
+| Born Tubi Wild | 76105 | [76105-born-tubi-wild.json](./76105-born-tubi-wild.json) |
 | Born Under the Rain | 124529 | [124529-born-under-the-rain.json](./124529-born-under-the-rain.json) |
 | Borneo: A Jungle Nightmare | 197906 | [197906-borneo-a-jungle-nightmare.json](./197906-borneo-a-jungle-nightmare.json) |
 | Börnies Journey | 164506 | [164506-bornies-journey.json](./164506-bornies-journey.json) |
