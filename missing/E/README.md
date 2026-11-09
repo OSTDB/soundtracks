@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eevee x Tamagotchi | 230060 | [230060-eevee-x-tamagotchi.json](./230060-eevee-x-tamagotchi.json) |
 | Eevoo II | 233769 | [233769-eevoo-ii.json](./233769-eevoo-ii.json) |
 | Eexy Life: East End X Yuri | 252198 | [252198-eexy-life-east-end-x-yuri.json](./252198-eexy-life-east-end-x-yuri.json) |
+| EF 2000 | 46719 | [46719-ef-2000.json](./46719-ef-2000.json) |
 | EF Defense | 233408 | [233408-ef-defense.json](./233408-ef-defense.json) |
 | EF Universe: Reclaiming the World | 116179 | [116179-ef-universe-reclaiming-the-world.json](./116179-ef-universe-reclaiming-the-world.json) |
 | EF-12: Fighting Game Maker | 57074 | [57074-ef-12-fighting-game-maker.json](./57074-ef-12-fighting-game-maker.json) |
