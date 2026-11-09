@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jay and Silent Bob's: Joint Venture | 411541 | [411541-jay-and-silent-bobs-joint-venture.json](./411541-jay-and-silent-bobs-joint-venture.json) |
 | Jay Arnold's Immortal Quest | 179427 | [179427-jay-arnolds-immortal-quest.json](./179427-jay-arnolds-immortal-quest.json) |
 | Jay Fighter | 80118 | [80118-jay-fighter.json](./80118-jay-fighter.json) |
+| Jay Fighter: Remastered | 75363 | [75363-jay-fighter-remastered.json](./75363-jay-fighter-remastered.json) |
 | Jay Jay the Jet Plane: Sky Heroes to the Rescue | 408569 | [408569-jay-jay-the-jet-plane-sky-heroes-to-the-rescue.json](./408569-jay-jay-the-jet-plane-sky-heroes-to-the-rescue.json) |
 | Jay Jay: The Jet Plane - Jay Jay Earns His Wings | 71331 | [71331-jay-jay-the-jet-plane-jay-jay-earns-his-wings.json](./71331-jay-jay-the-jet-plane-jay-jay-earns-his-wings.json) |
 | Jay Schilling's Edge of Chaos | 189025 | [189025-jay-schillings-edge-of-chaos.json](./189025-jay-schillings-edge-of-chaos.json) |
@@ -3805,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkbot | 226067 | [226067-junkbot.json](./226067-junkbot.json) |
 | Junkbot Undercover | 244005 | [244005-junkbot-undercover.json](./244005-junkbot-undercover.json) |
 | Junkcity Factory Simulator | 326397 | [326397-junkcity-factory-simulator.json](./326397-junkcity-factory-simulator.json) |
+| JunkerBot | 75337 | [75337-junkerbot.json](./75337-junkerbot.json) |
 | Junkfood | 261958 | [261958-junkfood.json](./261958-junkfood.json) |
 | Junkfood 2: Summertime Slotter | 296185 | [296185-junkfood-2-summertime-slotter.json](./296185-junkfood-2-summertime-slotter.json) |
 | Junkfood 3: Wow Wow West | 307812 | [307812-junkfood-3-wow-wow-west.json](./307812-junkfood-3-wow-wow-west.json) |
