@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Pocket Dating | 290734 | [290734-galactic-pocket-dating.json](./290734-galactic-pocket-dating.json) |
 | Galactic Police 1: Lost | 372179 | [372179-galactic-police-1-lost.json](./372179-galactic-police-1-lost.json) |
 | Galactic Princess | 62553 | [62553-galactic-princess.json](./62553-galactic-princess.json) |
+| Galactic Protector | 45652 | [45652-galactic-protector.json](./45652-galactic-protector.json) |
 | Galactic Ravager | 187177 | [187177-galactic-ravager.json](./187177-galactic-ravager.json) |
 | Galactic Realms: Quest for the Forgotten | 400406 | [400406-galactic-realms-quest-for-the-forgotten.json](./400406-galactic-realms-quest-for-the-forgotten.json) |
 | Galactic Reign | 63665 | [63665-galactic-reign.json](./63665-galactic-reign.json) |
@@ -5197,6 +5198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Conquest | 69946 | [69946-global-conquest.json](./69946-global-conquest.json) |
 | Global Defence Force | 5581 | [5581-global-defence-force.json](./5581-global-defence-force.json) |
 | Global Defence Force: Tactics | 5582 | [5582-global-defence-force-tactics.json](./5582-global-defence-force-tactics.json) |
+| Global Defense | 45648 | [45648-global-defense.json](./45648-global-defense.json) |
 | Global Defense Network | 71961 | [71961-global-defense-network.json](./71961-global-defense-network.json) |
 | Global Domination | 15480 | [15480-global-domination.json](./15480-global-domination.json) |
 | Global Domination | 281325 | [281325-global-domination.json](./281325-global-domination.json) |
@@ -11401,7 +11403,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave VR U.N | 115562 | [115562-gungrave-vr-u-n.json](./115562-gungrave-vr-u-n.json) |
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
 | Gungrave: Overdose | 22452 | [22452-gungrave-overdose.json](./22452-gungrave-overdose.json) |
+| Gungriffon | 46054 | [46054-gungriffon.json](./46054-gungriffon.json) |
 | Gungriffon Blaze | 21978 | [21978-gungriffon-blaze.json](./21978-gungriffon-blaze.json) |
+| Gungriffon II | 46048 | [46048-gungriffon-ii.json](./46048-gungriffon-ii.json) |
 | GunGriffon: Allied Strike | 47355 | [47355-gungriffon-allied-strike.json](./47355-gungriffon-allied-strike.json) |
 | GunGun Online: Shooting Game | 108153 | [108153-gungun-online-shooting-game.json](./108153-gungun-online-shooting-game.json) |
 | GunGun: Race Against Time | 297514 | [297514-gungun-race-against-time.json](./297514-gungun-race-against-time.json) |
