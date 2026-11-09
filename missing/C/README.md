@@ -2099,6 +2099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Whiskers: Incremental Seas | 386443 | [386443-captain-whiskers-incremental-seas.json](./386443-captain-whiskers-incremental-seas.json) |
 | Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
 | Captain Zapp | 28958 | [28958-captain-zapp.json](./28958-captain-zapp.json) |
+| Captain Zins | 19824 | [19824-captain-zins.json](./19824-captain-zins.json) |
 | Captain:Training | 106439 | [106439-captain-training.json](./106439-captain-training.json) |
 | Captain's Big Day | 176259 | [176259-captains-big-day.json](./176259-captains-big-day.json) |
 | Captain's Call | 403130 | [403130-captains-call.json](./403130-captains-call.json) |
@@ -5242,6 +5243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Khafka | 25674 | [25674-caverns-of-khafka.json](./25674-caverns-of-khafka.json) |
 | Caverns of Kontonia | 293715 | [293715-caverns-of-kontonia.json](./293715-caverns-of-kontonia.json) |
 | Caverns of Kroz | 71356 | [71356-caverns-of-kroz.json](./71356-caverns-of-kroz.json) |
+| Caverns of Mars | 18677 | [18677-caverns-of-mars.json](./18677-caverns-of-mars.json) |
 | Caverns of Mars | 276524 | [276524-caverns-of-mars.json](./276524-caverns-of-mars.json) |
 | Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
 | Caverns of Minos | 22681 | [22681-caverns-of-minos.json](./22681-caverns-of-minos.json) |
@@ -8801,6 +8803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Mystery: Curse of the Ancient Temple | 21096 | [21096-chronicles-of-mystery-curse-of-the-ancient-temple.json](./21096-chronicles-of-mystery-curse-of-the-ancient-temple.json) |
 | Chronicles of Mystery: The Legend of the Sacred Treasure | 105441 | [105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json](./105441-chronicles-of-mystery-the-legend-of-the-sacred-treasure.json) |
 | Chronicles of Mystery: The Secret Tree of Life | 66175 | [66175-chronicles-of-mystery-the-secret-tree-of-life.json](./66175-chronicles-of-mystery-the-secret-tree-of-life.json) |
+| Chronicles of Osgorth: The Shattered Alliance | 18744 | [18744-chronicles-of-osgorth-the-shattered-alliance.json](./18744-chronicles-of-osgorth-the-shattered-alliance.json) |
 | Chronicles of Refugia | 213401 | [213401-chronicles-of-refugia.json](./213401-chronicles-of-refugia.json) |
 | Chronicles Of Sagrea | 287925 | [287925-chronicles-of-sagrea.json](./287925-chronicles-of-sagrea.json) |
 | Chronicles of Sarval: Bridges of Koni | 173052 | [173052-chronicles-of-sarval-bridges-of-koni.json](./173052-chronicles-of-sarval-bridges-of-koni.json) |
@@ -15696,6 +15699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Composer | 372630 | [372630-cosmic-composer.json](./372630-cosmic-composer.json) |
 | Cosmic Concealed | 367731 | [367731-cosmic-concealed.json](./367731-cosmic-concealed.json) |
 | Cosmic Conflict | 183880 | [183880-cosmic-conflict.json](./183880-cosmic-conflict.json) |
+| Cosmic Conflict! | 18710 | [18710-cosmic-conflict.json](./18710-cosmic-conflict.json) |
 | Cosmic Connection | 299691 | [299691-cosmic-connection.json](./299691-cosmic-connection.json) |
 | Cosmic Consciousness | 302225 | [302225-cosmic-consciousness.json](./302225-cosmic-consciousness.json) |
 | Cosmic Consensus | 68045 | [68045-cosmic-consensus.json](./68045-cosmic-consensus.json) |
@@ -17793,6 +17797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creators | 284985 | [284985-creators.json](./284985-creators.json) |
 | Creatorverse | 64497 | [64497-creatorverse.json](./64497-creatorverse.json) |
 | Creatura | 82351 | [82351-creatura.json](./82351-creatura.json) |
+| Creature Battle Lab | 18732 | [18732-creature-battle-lab.json](./18732-creature-battle-lab.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
 | Creature Capture | 230648 | [230648-creature-capture.json](./230648-creature-capture.json) |
 | Creature Chess | 142103 | [142103-creature-chess.json](./142103-creature-chess.json) |
@@ -19238,6 +19243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush Them All | 97523 | [97523-crush-them-all.json](./97523-crush-them-all.json) |
 | Crush Them! | 203780 | [203780-crush-them.json](./203780-crush-them.json) |
 | Crush Your Enemies: Complete Plundered Edition | 52856 | [52856-crush-your-enemies-complete-plundered-edition.json](./52856-crush-your-enemies-complete-plundered-edition.json) |
+| Crush, Crumble and Chomp! | 18709 | [18709-crush-crumble-and-chomp.json](./18709-crush-crumble-and-chomp.json) |
 | Crush! Deluxe | 71721 | [71721-crush-deluxe.json](./71721-crush-deluxe.json) |
 | Crush3D | 22922 | [22922-crush3d.json](./22922-crush3d.json) |
 | CrushBorgs | 199626 | [199626-crushborgs.json](./199626-crushborgs.json) |
@@ -21673,6 +21679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybex | 14022 | [14022-cybex.json](./14022-cybex.json) |
 | Cybloc | 155793 | [155793-cybloc.json](./155793-cybloc.json) |
 | Cybo War | 99898 | [99898-cybo-war.json](./99898-cybo-war.json) |
+| Cyborg | 18748 | [18748-cyborg.json](./18748-cyborg.json) |
 | Cyborg 009 | 45871 | [45871-cyborg-009.json](./45871-cyborg-009.json) |
 | Cyborg 009 | 84111 | [84111-cyborg-009.json](./84111-cyborg-009.json) |
 | Cyborg Arena 2 | 368432 | [368432-cyborg-arena-2.json](./368432-cyborg-arena-2.json) |
