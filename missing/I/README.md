@@ -4008,7 +4008,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4086,6 +4085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity | 319919 | [319919-infinity.json](./319919-infinity.json) |
 | Infinity | 382380 | [382380-infinity.json](./382380-infinity.json) |
 | Infinity Angel | 224035 | [224035-infinity-angel.json](./224035-infinity-angel.json) |
+| Infinity Assassin (VR) | 56626 | [56626-infinity-assassin-vr.json](./56626-infinity-assassin-vr.json) |
 | Infinity Attackers | 120415 | [120415-infinity-attackers.json](./120415-infinity-attackers.json) |
 | Infinity Ball | 213575 | [213575-infinity-ball.json](./213575-infinity-ball.json) |
 | Infinity Ball: Space | 108086 | [108086-infinity-ball-space.json](./108086-infinity-ball-space.json) |
@@ -4328,6 +4328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initiating Station Plus | 374225 | [374225-initiating-station-plus.json](./374225-initiating-station-plus.json) |
 | Initiation | 418189 | [418189-initiation.json](./418189-initiation.json) |
 | Initiation | 81027 | [81027-initiation.json](./81027-initiation.json) |
+| Initiative: Red Dawn | 56609 | [56609-initiative-red-dawn.json](./56609-initiative-red-dawn.json) |
 | Initium | 112219 | [112219-initium.json](./112219-initium.json) |
 | Initium | 342793 | [342793-initium.json](./342793-initium.json) |
 | Initium Legenda | 192972 | [192972-initium-legenda.json](./192972-initium-legenda.json) |
