@@ -6121,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oz Dàluàndòu: NS | 394124 | [394124-oz-daluandou-ns.json](./394124-oz-daluandou-ns.json) |
 | Oz no Mahoutsukai: Another World - RungRung | 63656 | [63656-oz-no-mahoutsukai-another-world-rungrung.json](./63656-oz-no-mahoutsukai-another-world-rungrung.json) |
 | Oz World | 186747 | [186747-oz-world.json](./186747-oz-world.json) |
+| Oz: Broken Kingdom | 57861 | [57861-oz-broken-kingdom.json](./57861-oz-broken-kingdom.json) |
 | Oz: The Magical Adventure | 78998 | [78998-oz-the-magical-adventure.json](./78998-oz-the-magical-adventure.json) |
 | Ozark | 151045 | [151045-ozark.json](./151045-ozark.json) |
 | Ozawa-Ken | 363765 | [363765-ozawa-ken.json](./363765-ozawa-ken.json) |
