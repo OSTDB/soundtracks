@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Force Harrier EX | 46599 | [46599-task-force-harrier-ex.json](./46599-task-force-harrier-ex.json) |
 | Task Force Kampas | 117141 | [117141-task-force-kampas.json](./117141-task-force-kampas.json) |
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
+| Task is to Survive | 74637 | [74637-task-is-to-survive.json](./74637-task-is-to-survive.json) |
 | Task Men | 160095 | [160095-task-men.json](./160095-task-men.json) |
 | Task Overflow | 341255 | [341255-task-overflow.json](./341255-task-overflow.json) |
 | Task: 312 | 144861 | [144861-task-312.json](./144861-task-312.json) |
@@ -6592,6 +6593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Beat: A Glam Noir Game | 108319 | [108319-the-beat-a-glam-noir-game.json](./108319-the-beat-a-glam-noir-game.json) |
 | The Beatles: Adventures in Pepperland | 198501 | [198501-the-beatles-adventures-in-pepperland.json](./198501-the-beatles-adventures-in-pepperland.json) |
 | The Beatles: Rock Band | 2693 | [2693-the-beatles-rock-band.json](./2693-the-beatles-rock-band.json) |
+| The beauties&zombies of beach for VR | 74623 | [74623-the-beauties-and-zombies-of-beach-for-vr.json](./74623-the-beauties-and-zombies-of-beach-for-vr.json) |
 | The Beautiful World | 384228 | [384228-the-beautiful-world.json](./384228-the-beautiful-world.json) |
 | The Beauty Cult's: Nectarmancer | 219547 | [219547-the-beauty-cults-nectarmancer.json](./219547-the-beauty-cults-nectarmancer.json) |
 | The Bed Above My Head | 407767 | [407767-the-bed-above-my-head.json](./407767-the-bed-above-my-head.json) |
@@ -12624,6 +12626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Stop | 290001 | [290001-the-last-stop.json](./290001-the-last-stop.json) |
 | The Last Story | 4966 | [4966-the-last-story.json](./4966-the-last-story.json) |
 | The Last Strand | 318621 | [318621-the-last-strand.json](./318621-the-last-strand.json) |
+| The last strategist | 74641 | [74641-the-last-strategist.json](./74641-the-last-strategist.json) |
 | The Last Summer | 400590 | [400590-the-last-summer.json](./400590-the-last-summer.json) |
 | The Last Sunshine | 131232 | [131232-the-last-sunshine.json](./131232-the-last-sunshine.json) |
 | The Last Sunshine | 34760 | [34760-the-last-sunshine.json](./34760-the-last-sunshine.json) |
@@ -15837,6 +15840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raphael Parable | 305306 | [305306-the-raphael-parable.json](./305306-the-raphael-parable.json) |
 | The Rapid Treasure Escape | 176325 | [176325-the-rapid-treasure-escape.json](./176325-the-rapid-treasure-escape.json) |
 | The Raptured | 289967 | [289967-the-raptured.json](./289967-the-raptured.json) |
+| The Rare Nine | 74612 | [74612-the-rare-nine.json](./74612-the-rare-nine.json) |
 | The Rat Plague | 212024 | [212024-the-rat-plague.json](./212024-the-rat-plague.json) |
 | The Ratchelor Season 2 | 191517 | [191517-the-ratchelor-season-2.json](./191517-the-ratchelor-season-2.json) |
 | The Ratchelor Season 3: Rats in the City | 279804 | [279804-the-ratchelor-season-3-rats-in-the-city.json](./279804-the-ratchelor-season-3-rats-in-the-city.json) |
@@ -23554,6 +23558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Jumper | 157094 | [157094-time-jumper.json](./157094-time-jumper.json) |
 | Time Keeper | 198459 | [198459-time-keeper.json](./198459-time-keeper.json) |
 | Time Killers | 8939 | [8939-time-killers.json](./8939-time-killers.json) |
+| Time Killers: CatchOut | 74634 | [74634-time-killers-catchout.json](./74634-time-killers-catchout.json) |
 | Time Killing of God | 98603 | [98603-time-killing-of-god.json](./98603-time-killing-of-god.json) |
 | Time Kings: Modern War in Medieval Age | 401093 | [401093-time-kings-modern-war-in-medieval-age.json](./401093-time-kings-modern-war-in-medieval-age.json) |
 | Time Knight Adventures | 164322 | [164322-time-knight-adventures.json](./164322-time-knight-adventures.json) |
