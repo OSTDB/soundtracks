@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face on Fire | 143936 | [143936-face-on-fire.json](./143936-face-on-fire.json) |
 | Face Paint Party Salon | 96314 | [96314-face-paint-party-salon.json](./96314-face-paint-party-salon.json) |
 | Face Pilot: Fly With Your Nintendo DSi Camera! | 85135 | [85135-face-pilot-fly-with-your-nintendo-dsi-camera.json](./85135-face-pilot-fly-with-your-nintendo-dsi-camera.json) |
+| Face Racers: Photo Finish | 44008 | [44008-face-racers-photo-finish.json](./44008-face-racers-photo-finish.json) |
 | Face Raiders | 66060 | [66060-face-raiders.json](./66060-face-raiders.json) |
 | Face Shot | 403485 | [403485-face-shot.json](./403485-face-shot.json) |
 | Face Shot 2 | 403487 | [403487-face-shot-2.json](./403487-face-shot-2.json) |
@@ -3226,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
 | Fatal Fury 2 | 4435 | [4435-fatal-fury-2.json](./4435-fatal-fury-2.json) |
 | Fatal Fury City of the Wolves: Fatal Fury 2 Terry costume | 341714 | [341714-fatal-fury-city-of-the-wolves-fatal-fury-2-terry-costume.json](./341714-fatal-fury-city-of-the-wolves-fatal-fury-2-terry-costume.json) |
+| Fatal Fury First Contact | 44004 | [44004-fatal-fury-first-contact.json](./44004-fatal-fury-first-contact.json) |
 | Fatal Fury First Contact (Best Collection) | 75460 | [75460-fatal-fury-first-contact-best-collection.json](./75460-fatal-fury-first-contact-best-collection.json) |
 | Fatal Fury One | 400426 | [400426-fatal-fury-one.json](./400426-fatal-fury-one.json) |
 | Fatal Fury Special | 5385 | [5385-fatal-fury-special.json](./5385-fatal-fury-special.json) |
@@ -3248,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fury: City of the Wolves - Season Pass 3 | 411285 | [411285-fatal-fury-city-of-the-wolves-season-pass-3.json](./411285-fatal-fury-city-of-the-wolves-season-pass-3.json) |
 | Fatal Fury: City of the Wolves - Special Edition | 327461 | [327461-fatal-fury-city-of-the-wolves-special-edition.json](./327461-fatal-fury-city-of-the-wolves-special-edition.json) |
 | Fatal Fury: City of the Wolves - Wolfgang Krauser | 388990 | [388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json](./388990-fatal-fury-city-of-the-wolves-wolfgang-krauser.json) |
+| Fatal Fury: First Contact | 44000 | [44000-fatal-fury-first-contact.json](./44000-fatal-fury-first-contact.json) |
 | Fatal Fury: Wild Ambition | 28138 | [28138-fatal-fury-wild-ambition.json](./28138-fatal-fury-wild-ambition.json) |
 | Fatal Fury: Wild Ambition | 346147 | [346147-fatal-fury-wild-ambition.json](./346147-fatal-fury-wild-ambition.json) |
 | Fatal Gaming | 417494 | [417494-fatal-gaming.json](./417494-fatal-gaming.json) |
@@ -4454,6 +4457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 14 | 240422 | [240422-fifa-14.json](./240422-fifa-14.json) |
 | FIFA 14 Mobile | 240417 | [240417-fifa-14-mobile.json](./240417-fifa-14-mobile.json) |
 | FIFA 14: Legacy Edition | 240420 | [240420-fifa-14-legacy-edition.json](./240420-fifa-14-legacy-edition.json) |
+| FIFA 14: Legacy Edition | 44009 | [44009-fifa-14-legacy-edition.json](./44009-fifa-14-legacy-edition.json) |
 | FIFA 15 | 240426 | [240426-fifa-15.json](./240426-fifa-15.json) |
 | FIFA 15 | 240427 | [240427-fifa-15.json](./240427-fifa-15.json) |
 | FIFA 15: Legacy Edition | 99945 | [99945-fifa-15-legacy-edition.json](./99945-fifa-15-legacy-edition.json) |
