@@ -5715,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmons 2 | 267004 | [267004-beatmons-2.json](./267004-beatmons-2.json) |
 | BeatMotor | 192841 | [192841-beatmotor.json](./192841-beatmotor.json) |
 | BeatNClean | 192792 | [192792-beatnclean.json](./192792-beatnclean.json) |
+| BeatNiks | 59548 | [59548-beatniks.json](./59548-beatniks.json) |
 | Beatoraja | 130770 | [130770-beatoraja.json](./130770-beatoraja.json) |
 | BeatPunk! | 235037 | [235037-beatpunk.json](./235037-beatpunk.json) |
 | Beatrect | 311897 | [311897-beatrect.json](./311897-beatrect.json) |
@@ -7825,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Red Hood: Halloween | 126894 | [126894-big-red-hood-halloween.json](./126894-big-red-hood-halloween.json) |
 | Big Red Racing | 19233 | [19233-big-red-racing.json](./19233-big-red-racing.json) |
 | Big Rig | 74021 | [74021-big-rig.json](./74021-big-rig.json) |
+| Big Rig Europe | 60097 | [60097-big-rig-europe.json](./60097-big-rig-europe.json) |
 | Big Rigs: Over the Road Racing | 7557 | [7557-big-rigs-over-the-road-racing.json](./7557-big-rigs-over-the-road-racing.json) |
 | Big Rumble Boxing: Creed Champions | 137129 | [137129-big-rumble-boxing-creed-champions.json](./137129-big-rumble-boxing-creed-champions.json) |
 | Big Rumble Boxing: Creed Champions - Day One Edition | 153022 | [153022-big-rumble-boxing-creed-champions-day-one-edition.json](./153022-big-rumble-boxing-creed-champions-day-one-edition.json) |
