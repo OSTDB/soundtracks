@@ -2591,11 +2591,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf | 12580 | [12580-elf.json](./12580-elf.json) |
 | Elf Adventure | 282715 | [282715-elf-adventure.json](./282715-elf-adventure.json) |
 | Elf Adventure: The Lost Castle | 344553 | [344553-elf-adventure-the-lost-castle.json](./344553-elf-adventure-the-lost-castle.json) |
+| Elf Bowling | 51319 | [51319-elf-bowling.json](./51319-elf-bowling.json) |
 | Elf Bowling 3 | 71862 | [71862-elf-bowling-3.json](./71862-elf-bowling-3.json) |
 | Elf Bowling 6: Air Biscuits | 71801 | [71801-elf-bowling-6-air-biscuits.json](./71801-elf-bowling-6-air-biscuits.json) |
 | Elf Bowling 7 1/7: The Last Insult | 56539 | [56539-elf-bowling-7-1-7-the-last-insult.json](./56539-elf-bowling-7-1-7-the-last-insult.json) |
 | Elf Bowling: Bocce Style | 73931 | [73931-elf-bowling-bocce-style.json](./73931-elf-bowling-bocce-style.json) |
 | Elf Bowling: Collector's Edition | 61343 | [61343-elf-bowling-collectors-edition.json](./61343-elf-bowling-collectors-edition.json) |
+| Elf Bowling: Hawaiian Vacation | 51318 | [51318-elf-bowling-hawaiian-vacation.json](./51318-elf-bowling-hawaiian-vacation.json) |
 | Elf Breeding Farm | 210399 | [210399-elf-breeding-farm.json](./210399-elf-breeding-farm.json) |
 | Elf Cat Jeff | 185425 | [185425-elf-cat-jeff.json](./185425-elf-cat-jeff.json) |
 | Elf Clash | 349741 | [349741-elf-clash.json](./349741-elf-clash.json) |
@@ -3348,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Deluxe: Mobile Edition | 200274 | [200274-empire-deluxe-mobile-edition.json](./200274-empire-deluxe-mobile-edition.json) |
 | Empire Earth II | 1608 | [1608-empire-earth-ii.json](./1608-empire-earth-ii.json) |
 | Empire Earth II: Gold Edition | 24492 | [24492-empire-earth-ii-gold-edition.json](./24492-empire-earth-ii-gold-edition.json) |
+| Empire Earth II: Platinum Edition | 50915 | [50915-empire-earth-ii-platinum-edition.json](./50915-empire-earth-ii-platinum-edition.json) |
 | Empire Earth II: The Art of Supremacy | 1607 | [1607-empire-earth-ii-the-art-of-supremacy.json](./1607-empire-earth-ii-the-art-of-supremacy.json) |
 | Empire Earth III | 1606 | [1606-empire-earth-iii.json](./1606-empire-earth-iii.json) |
 | Empire Earth: The Art of Conquest | 1609 | [1609-empire-earth-the-art-of-conquest.json](./1609-empire-earth-the-art-of-conquest.json) |
@@ -3415,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire: Total War - Elite Units of the West | 82086 | [82086-empire-total-war-elite-units-of-the-west.json](./82086-empire-total-war-elite-units-of-the-west.json) |
 | Empire: Total War - Gold Edition | 88503 | [88503-empire-total-war-gold-edition.json](./88503-empire-total-war-gold-edition.json) |
 | Empire: Total War - Special Forces Units & Bonus Content | 82087 | [82087-empire-total-war-special-forces-units-and-bonus-content.json](./82087-empire-total-war-special-forces-units-and-bonus-content.json) |
+| Empire: Total War & Napoleon: Total War - Gold Edition | 50914 | [50914-empire-total-war-and-napoleon-total-war-gold-edition.json](./50914-empire-total-war-and-napoleon-total-war-gold-edition.json) |
 | Empire: Wargame of the Century | 12583 | [12583-empire-wargame-of-the-century.json](./12583-empire-wargame-of-the-century.json) |
 | Empire! | 13640 | [13640-empire.json](./13640-empire.json) |
 | Empire's Order | 254713 | [254713-empires-order.json](./254713-empires-order.json) |
@@ -6223,6 +6227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Damnation | 66350 | [66350-eternal-damnation.json](./66350-eternal-damnation.json) |
 | Eternal Dark Winter | 370859 | [370859-eternal-dark-winter.json](./370859-eternal-dark-winter.json) |
 | Eternal Darkness | 176035 | [176035-eternal-darkness.json](./176035-eternal-darkness.json) |
+| Eternal Daughter | 51316 | [51316-eternal-daughter.json](./51316-eternal-daughter.json) |
 | Eternal Decay Souls | 387493 | [387493-eternal-decay-souls.json](./387493-eternal-decay-souls.json) |
 | Eternal Degrade | 383927 | [383927-eternal-degrade.json](./383927-eternal-degrade.json) |
 | Eternal Descent: Heavy Metal Heroes | 60849 | [60849-eternal-descent-heavy-metal-heroes.json](./60849-eternal-descent-heavy-metal-heroes.json) |
