@@ -1908,6 +1908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle | 194901 | [194901-tank-battle.json](./194901-tank-battle.json) |
 | Tank Battle Arena Combat | 395212 | [395212-tank-battle-arena-combat.json](./395212-tank-battle-arena-combat.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
+| Tank Battle Mania | 44253 | [44253-tank-battle-mania.json](./44253-tank-battle-mania.json) |
 | Tank Battle Resist | 266017 | [266017-tank-battle-resist.json](./266017-tank-battle-resist.json) |
 | Tank Battle Retro | 148094 | [148094-tank-battle-retro.json](./148094-tank-battle-retro.json) |
 | Tank Battle Royale | 169718 | [169718-tank-battle-royale.json](./169718-tank-battle-royale.json) |
@@ -5341,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TG Motocross 3 | 222858 | [222858-tg-motocross-3.json](./222858-tg-motocross-3.json) |
 | Th!nk Logic Trainer | 92057 | [92057-th-nk-logic-trainer.json](./92057-th-nk-logic-trainer.json) |
 | th!nk Logic Trainer: Kids | 81392 | [81392-th-nk-logic-trainer-kids.json](./81392-th-nk-logic-trainer-kids.json) |
+| Th3 Plan | 44698 | [44698-th3-plan.json](./44698-th3-plan.json) |
 | Th3_M1dday_L4dies | 392887 | [392887-th3-m1dday-l4dies.json](./392887-th3-m1dday-l4dies.json) |
 | Th3-M15 Guild | 268140 | [268140-th3-m15-guild.json](./268140-th3-m15-guild.json) |
 | Thailand Bus Simulator | 384617 | [384617-thailand-bus-simulator.json](./384617-thailand-bus-simulator.json) |
@@ -6191,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ark of Exodus | 284186 | [284186-the-ark-of-exodus.json](./284186-the-ark-of-exodus.json) |
 | The Ark of Horizon | 117162 | [117162-the-ark-of-horizon.json](./117162-the-ark-of-horizon.json) |
 | The Arkane Collection | 331402 | [331402-the-arkane-collection.json](./331402-the-arkane-collection.json) |
+| The Arland Atelier Trilogy | 44666 | [44666-the-arland-atelier-trilogy.json](./44666-the-arland-atelier-trilogy.json) |
 | The Arm Wrestling Classic | 214525 | [214525-the-arm-wrestling-classic.json](./214525-the-arm-wrestling-classic.json) |
 | The Armada SpaceShip Combat Fleet is Here! Help the Armada Fleet to Landing! | 175536 | [175536-the-armada-spaceship-combat-fleet-is-here-help-the-armada-fleet-to-landing.json](./175536-the-armada-spaceship-combat-fleet-is-here-help-the-armada-fleet-to-landing.json) |
 | The Armament Project | 63727 | [63727-the-armament-project.json](./63727-the-armament-project.json) |
@@ -20737,6 +20740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This is Football 2 | 44833 | [44833-this-is-football-2.json](./44833-this-is-football-2.json) |
 | This is Football 2002 | 44626 | [44626-this-is-football-2002.json](./44626-this-is-football-2002.json) |
 | This Is Football 2003 | 22067 | [22067-this-is-football-2003.json](./22067-this-is-football-2003.json) |
+| This Is Football 2004 | 44674 | [44674-this-is-football-2004.json](./44674-this-is-football-2004.json) |
 | This Is Football 2005 | 43444 | [43444-this-is-football-2005.json](./43444-this-is-football-2005.json) |
 | This is Football Management | 66974 | [66974-this-is-football-management.json](./66974-this-is-football-management.json) |
 | This is Forever | 148292 | [148292-this-is-forever.json](./148292-this-is-forever.json) |
@@ -20881,6 +20885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
 | Thomas Was Alone: Benjamin's Flight | 138347 | [138347-thomas-was-alone-benjamins-flight.json](./138347-thomas-was-alone-benjamins-flight.json) |
 | Thomas' Tales | 195614 | [195614-thomas-tales.json](./195614-thomas-tales.json) |
+| Thomaz | 44244 | [44244-thomaz.json](./44244-thomaz.json) |
 | Thome Wake | 287371 | [287371-thome-wake.json](./287371-thome-wake.json) |
 | Thoom | 311069 | [311069-thoom.json](./311069-thoom.json) |
 | Thor | 95414 | [95414-thor.json](./95414-thor.json) |
@@ -23812,6 +23817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time to Strike | 267139 | [267139-time-to-strike.json](./267139-time-to-strike.json) |
 | Time To Wake Up | 257932 | [257932-time-to-wake-up.json](./257932-time-to-wake-up.json) |
 | Time To Wake Up | 356259 | [356259-time-to-wake-up.json](./356259-time-to-wake-up.json) |
+| Time to Walk Alone | 44257 | [44257-time-to-walk-alone.json](./44257-time-to-walk-alone.json) |
 | Time Transit VR | 113727 | [113727-time-transit-vr.json](./113727-time-transit-vr.json) |
 | Time Trap 2: Search and Find Objects Game - Hidden Pictures | 173978 | [173978-time-trap-2-search-and-find-objects-game-hidden-pictures.json](./173978-time-trap-2-search-and-find-objects-game-hidden-pictures.json) |
 | Time Trap: Hidden Objects | 287108 | [287108-time-trap-hidden-objects.json](./287108-time-trap-hidden-objects.json) |
@@ -25357,6 +25363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokimeki Memorial 2: EVS Append Disc | 369848 | [369848-tokimeki-memorial-2-evs-append-disc.json](./369848-tokimeki-memorial-2-evs-append-disc.json) |
 | Tokimeki Memorial 2: Music Video Clips - Circus de Ai Imashou | 108741 | [108741-tokimeki-memorial-2-music-video-clips-circus-de-ai-imashou.json](./108741-tokimeki-memorial-2-music-video-clips-circus-de-ai-imashou.json) |
 | Tokimeki Memorial 2: Taisen Puzzle-Dama | 108744 | [108744-tokimeki-memorial-2-taisen-puzzle-dama.json](./108744-tokimeki-memorial-2-taisen-puzzle-dama.json) |
+| Tokimeki Memorial 3 | 44686 | [44686-tokimeki-memorial-3.json](./44686-tokimeki-memorial-3.json) |
 | Tokimeki Memorial 4 | 67379 | [67379-tokimeki-memorial-4.json](./67379-tokimeki-memorial-4.json) |
 | Tokimeki Memorial Drama Series Vol. 1: Niji-iro no Seishun | 108754 | [108754-tokimeki-memorial-drama-series-vol-1-niji-iro-no-seishun.json](./108754-tokimeki-memorial-drama-series-vol-1-niji-iro-no-seishun.json) |
 | Tokimeki Memorial Drama Series Vol. 2: Irodori no Love Song | 108751 | [108751-tokimeki-memorial-drama-series-vol-2-irodori-no-love-song.json](./108751-tokimeki-memorial-drama-series-vol-2-irodori-no-love-song.json) |
