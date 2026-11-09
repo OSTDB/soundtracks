@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Ura Eigyou: Kegasareta Stage Ishou | 409425 | [409425-idol-ura-eigyou-kegasareta-stage-ishou.json](./409425-idol-ura-eigyou-kegasareta-stage-ishou.json) |
 | Idol vs Furries | 264798 | [264798-idol-vs-furries.json](./264798-idol-vs-furries.json) |
 | Idol Wars Online | 110261 | [110261-idol-wars-online.json](./110261-idol-wars-online.json) |
+| Idol-Mahjong Final Romance | 56055 | [56055-idol-mahjong-final-romance.json](./56055-idol-mahjong-final-romance.json) |
 | Idol-Mahjong Final Romance 2 | 75471 | [75471-idol-mahjong-final-romance-2.json](./75471-idol-mahjong-final-romance-2.json) |
 | Idola Phantasy Star Saga | 106103 | [106103-idola-phantasy-star-saga.json](./106103-idola-phantasy-star-saga.json) |
 | Idolaters | 401470 | [401470-idolaters.json](./401470-idolaters.json) |
