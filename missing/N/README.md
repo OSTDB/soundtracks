@@ -3616,6 +3616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NewMe NuMe LuMe: Alien Wars | 292374 | [292374-newme-nume-lume-alien-wars.json](./292374-newme-nume-lume-alien-wars.json) |
 | NewMonster | 365349 | [365349-newmonster.json](./365349-newmonster.json) |
 | Newo Zero | 410890 | [410890-newo-zero.json](./410890-newo-zero.json) |
+| NewOld | 72401 | [72401-newold.json](./72401-newold.json) |
 | NewPark Simon XL | 101507 | [101507-newpark-simon-xl.json](./101507-newpark-simon-xl.json) |
 | News Agency Simulator | 127852 | [127852-news-agency-simulator.json](./127852-news-agency-simulator.json) |
 | News Company Simulator | 374867 | [374867-news-company-simulator.json](./374867-news-company-simulator.json) |
