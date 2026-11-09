@@ -2730,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite vs. Freedom | 34014 | [34014-elite-vs-freedom.json](./34014-elite-vs-freedom.json) |
 | Elite Warriors: Vietnam | 23786 | [23786-elite-warriors-vietnam.json](./23786-elite-warriors-vietnam.json) |
 | Elite X: Street Racer | 282842 | [282842-elite-x-street-racer.json](./282842-elite-x-street-racer.json) |
+| Elite: Dangerous - Arena | 58355 | [58355-elite-dangerous-arena.json](./58355-elite-dangerous-arena.json) |
 | Elite: Dangerous - Horizons | 15442 | [15442-elite-dangerous-horizons.json](./15442-elite-dangerous-horizons.json) |
 | Elite: Dangerous - Legendary Edition | 136034 | [136034-elite-dangerous-legendary-edition.json](./136034-elite-dangerous-legendary-edition.json) |
 | Elite: Dangerous - Odyssey | 134873 | [134873-elite-dangerous-odyssey.json](./134873-elite-dangerous-odyssey.json) |
