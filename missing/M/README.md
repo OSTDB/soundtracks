@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.C.E. Tower Defense 2 | 291792 | [291792-m-a-c-e-tower-defense-2.json](./291792-m-a-c-e-tower-defense-2.json) |
 | M.A.C.H | 44508 | [44508-m-a-c-h.json](./44508-m-a-c-h.json) |
 | M.A.C.H. - Maneuverable Armed Computer Humans | 73051 | [73051-m-a-c-h-maneuverable-armed-computer-humans.json](./73051-m-a-c-h-maneuverable-armed-computer-humans.json) |
+| M.A.C.H. 3 | 24406 | [24406-m-a-c-h-3.json](./24406-m-a-c-h-3.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
 | M.A.D. Cows | 279879 | [279879-m-a-d-cows.json](./279879-m-a-d-cows.json) |
 | M.A.D. Cows and D.U.M.B. Ducks Bundle | 331533 | [331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json](./331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json) |
@@ -16822,6 +16823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Slayers Incorporated | 372110 | [372110-monster-slayers-incorporated.json](./372110-monster-slayers-incorporated.json) |
 | Monster Slayers: Fire and Steel | 169330 | [169330-monster-slayers-fire-and-steel.json](./169330-monster-slayers-fire-and-steel.json) |
 | Monster Slider | 66392 | [66392-monster-slider.json](./66392-monster-slider.json) |
+| Monster Smash | 24448 | [24448-monster-smash.json](./24448-monster-smash.json) |
 | Monster Smoosh | 412307 | [412307-monster-smoosh.json](./412307-monster-smoosh.json) |
 | Monster Spa Center Simulator | 353974 | [353974-monster-spa-center-simulator.json](./353974-monster-spa-center-simulator.json) |
 | Monster Squad | 311649 | [311649-monster-squad.json](./311649-monster-squad.json) |
