@@ -1814,6 +1814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords | 17251 | [17251-warlords.json](./17251-warlords.json) |
 | Warlords | 294544 | [294544-warlords.json](./294544-warlords.json) |
 | Warlords | 411549 | [411549-warlords.json](./411549-warlords.json) |
+| Warlords | 69606 | [69606-warlords.json](./69606-warlords.json) |
 | WarLords | 196892 | [196892-warlords.json](./196892-warlords.json) |
 | Warlords 2: Rise of Demons | 301434 | [301434-warlords-2-rise-of-demons.json](./301434-warlords-2-rise-of-demons.json) |
 | Warlords Awakening | 103416 | [103416-warlords-awakening.json](./103416-warlords-awakening.json) |
@@ -2040,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors of Fate | 39414 | [39414-warriors-of-fate.json](./39414-warriors-of-fate.json) |
 | Warriors of Freedom | 267780 | [267780-warriors-of-freedom.json](./267780-warriors-of-freedom.json) |
 | Warriors of Glory | 58443 | [58443-warriors-of-glory.json](./58443-warriors-of-glory.json) |
+| Warriors of Legend | 69947 | [69947-warriors-of-legend.json](./69947-warriors-of-legend.json) |
 | Warriors of Nova Thera | 314443 | [314443-warriors-of-nova-thera.json](./314443-warriors-of-nova-thera.json) |
 | Warriors of Ragnarök | 123578 | [123578-warriors-of-ragnarok.json](./123578-warriors-of-ragnarok.json) |
 | Warriors of Ras | 68871 | [68871-warriors-of-ras.json](./68871-warriors-of-ras.json) |
@@ -8610,6 +8612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Piece and Peace | 191335 | [191335-world-piece-and-peace.json](./191335-world-piece-and-peace.json) |
 | World Ping Pong Championship | 118890 | [118890-world-ping-pong-championship.json](./118890-world-ping-pong-championship.json) |
 | World Poker Championship | 68635 | [68635-world-poker-championship.json](./68635-world-poker-championship.json) |
+| World Poker Championship 2: Final Table Showdown | 69956 | [69956-world-poker-championship-2-final-table-showdown.json](./69956-world-poker-championship-2-final-table-showdown.json) |
 | World Poker Tour | 220133 | [220133-world-poker-tour.json](./220133-world-poker-tour.json) |
 | World Poker Tour | 23148 | [23148-world-poker-tour.json](./23148-world-poker-tour.json) |
 | World Poker Tour: Texas Hold 'Em | 85498 | [85498-world-poker-tour-texas-hold-em.json](./85498-world-poker-tour-texas-hold-em.json) |
