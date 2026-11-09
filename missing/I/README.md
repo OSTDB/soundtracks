@@ -1939,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iffy Institute | 96238 | [96238-iffy-institute.json](./96238-iffy-institute.json) |
 | iFighter 1945 | 91940 | [91940-ifighter-1945.json](./91940-ifighter-1945.json) |
 | Ifighter 2: The Pacific 1942 | 341075 | [341075-ifighter-2-the-pacific-1942.json](./341075-ifighter-2-the-pacific-1942.json) |
+| iFishing | 64005 | [64005-ifishing.json](./64005-ifishing.json) |
 | iFishing 2: Saltwater Edition | 97446 | [97446-ifishing-2-saltwater-edition.json](./97446-ifishing-2-saltwater-edition.json) |
 | iFishing 3 | 97447 | [97447-ifishing-3.json](./97447-ifishing-3.json) |
 | IFO | 199772 | [199772-ifo.json](./199772-ifo.json) |
