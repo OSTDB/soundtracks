@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia: Trilogy | 133900 | [133900-mafia-trilogy.json](./133900-mafia-trilogy.json) |
 | Mafia.gg | 112288 | [112288-mafia-gg.json](./112288-mafia-gg.json) |
 | Mafiaens Hevn | 58368 | [58368-mafiaens-hevn.json](./58368-mafiaens-hevn.json) |
+| MafiaMatrix | 56015 | [56015-mafiamatrix.json](./56015-mafiamatrix.json) |
 | Mafiaspillet.no | 77693 | [77693-mafiaspillet-no.json](./77693-mafiaspillet-no.json) |
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
 | Mafioso | 388793 | [388793-mafioso.json](./388793-mafioso.json) |
@@ -1690,6 +1691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magician of Fire | 118047 | [118047-magician-of-fire.json](./118047-magician-of-fire.json) |
 | Magician's Apprentice | 34587 | [34587-magicians-apprentice.json](./34587-magicians-apprentice.json) |
 | Magician's Cat Diary | 258764 | [258764-magicians-cat-diary.json](./258764-magicians-cat-diary.json) |
+| Magician's Gambit | 55531 | [55531-magicians-gambit.json](./55531-magicians-gambit.json) |
 | Magician's Quest: Mysterious Times | 21183 | [21183-magicians-quest-mysterious-times.json](./21183-magicians-quest-mysterious-times.json) |
 | Magician's Saga | 54902 | [54902-magicians-saga.json](./54902-magicians-saga.json) |
 | Magicians & Looters | 17132 | [17132-magicians-and-looters.json](./17132-magicians-and-looters.json) |
@@ -1970,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Cop Ryuu: Hakurou no Yabou | 27990 | [27990-mahjong-cop-ryuu-hakurou-no-yabou.json](./27990-mahjong-cop-ryuu-hakurou-no-yabou.json) |
 | Mahjong Crimes | 91080 | [91080-mahjong-crimes.json](./91080-mahjong-crimes.json) |
 | Mahjong Cub3d | 6846 | [6846-mahjong-cub3d.json](./6846-mahjong-cub3d.json) |
+| Mahjong Daiyogen | 56054 | [56054-mahjong-daiyogen.json](./56054-mahjong-daiyogen.json) |
 | Mahjong Deluxe 2 | 89686 | [89686-mahjong-deluxe-2.json](./89686-mahjong-deluxe-2.json) |
 | Mahjong Deluxe 2: Astral Planes | 105996 | [105996-mahjong-deluxe-2-astral-planes.json](./105996-mahjong-deluxe-2-astral-planes.json) |
 | Mahjong Deluxe HD | 70900 | [70900-mahjong-deluxe-hd.json](./70900-mahjong-deluxe-hd.json) |
@@ -2429,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majaventure: Mahjong Senki | 48785 | [48785-majaventure-mahjong-senki.json](./48785-majaventure-mahjong-senki.json) |
 | Majesco's 3-in-1 Sports Pack | 56837 | [56837-majescos-3-in-1-sports-pack.json](./56837-majescos-3-in-1-sports-pack.json) |
 | Majesco's Rec Room Challenge | 70601 | [70601-majescos-rec-room-challenge.json](./70601-majescos-rec-room-challenge.json) |
+| Majestia | 56025 | [56025-majestia.json](./56025-majestia.json) |
 | Majestic | 94676 | [94676-majestic.json](./94676-majestic.json) |
 | Majestic Aristocrat | 294935 | [294935-majestic-aristocrat.json](./294935-majestic-aristocrat.json) |
 | Majestic Hero Pin | 205026 | [205026-majestic-hero-pin.json](./205026-majestic-hero-pin.json) |
@@ -14142,6 +14146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misremembered Memories | 236726 | [236726-misremembered-memories.json](./236726-misremembered-memories.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
 | Miss Agatha's Palace | 187199 | [187199-miss-agathas-palace.json](./187199-miss-agathas-palace.json) |
+| Miss Apple | 56047 | [56047-miss-apple.json](./56047-miss-apple.json) |
 | Miss Bellevue Never Heard the Whistle | 362961 | [362961-miss-bellevue-never-heard-the-whistle.json](./362961-miss-bellevue-never-heard-the-whistle.json) |
 | Miss Bingo | 215307 | [215307-miss-bingo.json](./215307-miss-bingo.json) |
 | Miss Bubble II | 278232 | [278232-miss-bubble-ii.json](./278232-miss-bubble-ii.json) |
@@ -17474,6 +17479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mooshie's Kitchen 3 | 273984 | [273984-mooshies-kitchen-3.json](./273984-mooshies-kitchen-3.json) |
 | Mooshie's Kitchen: Reheated | 379852 | [379852-mooshies-kitchen-reheated.json](./379852-mooshies-kitchen-reheated.json) |
 | Moot District | 114436 | [114436-moot-district.json](./114436-moot-district.json) |
+| Mootantz Escape | 56011 | [56011-mootantz-escape.json](./56011-mootantz-escape.json) |
 | Mootation | 412016 | [412016-mootation.json](./412016-mootation.json) |
 | Mop Boy | 120570 | [120570-mop-boy.json](./120570-mop-boy.json) |
 | Mop of the Dead | 249876 | [249876-mop-of-the-dead.json](./249876-mop-of-the-dead.json) |
@@ -19597,6 +19603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muck | 148397 | [148397-muck.json](./148397-muck.json) |
 | Mucorales | 285850 | [285850-mucorales.json](./285850-mucorales.json) |
 | Mud and Blood | 153415 | [153415-mud-and-blood.json](./153415-mud-and-blood.json) |
+| Mud and Blood 2 | 56020 | [56020-mud-and-blood-2.json](./56020-mud-and-blood-2.json) |
 | Mud and Blood: Recon | 109098 | [109098-mud-and-blood-recon.json](./109098-mud-and-blood-recon.json) |
 | Mud Monster Up Hill Madness | 104214 | [104214-mud-monster-up-hill-madness.json](./104214-mud-monster-up-hill-madness.json) |
 | Mud Pies | 322550 | [322550-mud-pies.json](./322550-mud-pies.json) |
