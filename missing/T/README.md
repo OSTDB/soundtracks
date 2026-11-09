@@ -2127,6 +2127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanks Etc. | 285934 | [285934-tanks-etc.json](./285934-tanks-etc.json) |
 | Tanks Fire Up:pocket wars hero | 103093 | [103093-tanks-fire-up-pocket-wars-hero.json](./103093-tanks-fire-up-pocket-wars-hero.json) |
 | Tanks for the Memories | 65264 | [65264-tanks-for-the-memories.json](./65264-tanks-for-the-memories.json) |
+| Tanks Furry | 37261 | [37261-tanks-furry.json](./37261-tanks-furry.json) |
 | Tanks in Labyrinth | 166942 | [166942-tanks-in-labyrinth.json](./166942-tanks-in-labyrinth.json) |
 | Tanks Logic Puzzle | 339418 | [339418-tanks-logic-puzzle.json](./339418-tanks-logic-puzzle.json) |
 | Tanks Meet Zombies | 81672 | [81672-tanks-meet-zombies.json](./81672-tanks-meet-zombies.json) |
@@ -26396,6 +26397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toonsters: Crossing Worlds | 272185 | [272185-toonsters-crossing-worlds.json](./272185-toonsters-crossing-worlds.json) |
 | Toonstruck | 916 | [916-toonstruck.json](./916-toonstruck.json) |
 | Toonsylvania | 49991 | [49991-toonsylvania.json](./49991-toonsylvania.json) |
+| ToonTime... In the Classroom | 37229 | [37229-toontime-in-the-classroom.json](./37229-toontime-in-the-classroom.json) |
 | Toontown Online | 25326 | [25326-toontown-online.json](./25326-toontown-online.json) |
 | Toontown Realms | 134489 | [134489-toontown-realms.json](./134489-toontown-realms.json) |
 | Toontown Rewritten | 134488 | [134488-toontown-rewritten.json](./134488-toontown-rewritten.json) |
@@ -34062,6 +34064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TUS | 160201 | [160201-tus.json](./160201-tus.json) |
 | Tuscany Hotel | 106759 | [106759-tuscany-hotel.json](./106759-tuscany-hotel.json) |
 | Tusk of Spirit | 157358 | [157358-tusk-of-spirit.json](./157358-tusk-of-spirit.json) |
+| Tusker | 37214 | [37214-tusker.json](./37214-tusker.json) |
 | Tusker's Number Adventure | 124354 | [124354-tuskers-number-adventure.json](./124354-tuskers-number-adventure.json) |
 | Tusks: The Orc Dating Sim | 77532 | [77532-tusks-the-orc-dating-sim.json](./77532-tusks-the-orc-dating-sim.json) |
 | Tusmo | 193528 | [193528-tusmo.json](./193528-tusmo.json) |
