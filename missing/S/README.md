@@ -2793,6 +2793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ScarFall: The Royale Combat | 138335 | [138335-scarfall-the-royale-combat.json](./138335-scarfall-the-royale-combat.json) |
 | Scarfell Pike | 184153 | [184153-scarfell-pike.json](./184153-scarfell-pike.json) |
 | Scarfinger | 41495 | [41495-scarfinger.json](./41495-scarfinger.json) |
+| Scarfman | 61203 | [61203-scarfman.json](./61203-scarfman.json) |
 | Scarfmemory | 128776 | [128776-scarfmemory.json](./128776-scarfmemory.json) |
 | Scarlet 7: The Mightiest Women | 70930 | [70930-scarlet-7-the-mightiest-women.json](./70930-scarlet-7-the-mightiest-women.json) |
 | Scarlet and Blank | 180674 | [180674-scarlet-and-blank.json](./180674-scarlet-and-blank.json) |
@@ -5325,6 +5326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seikai no Monshou | 214550 | [214550-seikai-no-monshou.json](./214550-seikai-no-monshou.json) |
 | Seikai no Senki | 214549 | [214549-seikai-no-senki.json](./214549-seikai-no-senki.json) |
 | Seiken Densetsu | 297610 | [297610-seiken-densetsu.json](./297610-seiken-densetsu.json) |
+| Seiken Densetsu: Circle of Mana | 61192 | [61192-seiken-densetsu-circle-of-mana.json](./61192-seiken-densetsu-circle-of-mana.json) |
 | Seiken Densetsu: Final Fantasy Gaiden | 306594 | [306594-seiken-densetsu-final-fantasy-gaiden.json](./306594-seiken-densetsu-final-fantasy-gaiden.json) |
 | Seiken Densetsu: Friends of Mana | 287438 | [287438-seiken-densetsu-friends-of-mana.json](./287438-seiken-densetsu-friends-of-mana.json) |
 | Seiken Densetsu: Rise of Mana | 62078 | [62078-seiken-densetsu-rise-of-mana.json](./62078-seiken-densetsu-rise-of-mana.json) |
@@ -8701,6 +8703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
 | Shin Taketori Monogatari | 77132 | [77132-shin-taketori-monogatari.json](./77132-shin-taketori-monogatari.json) |
 | Shin Tamatori Monogatari | 77517 | [77517-shin-tamatori-monogatari.json](./77517-shin-tamatori-monogatari.json) |
+| Shin Tennis no Ouji-sama: Go to the Top | 61212 | [61212-shin-tennis-no-ouji-sama-go-to-the-top.json](./61212-shin-tennis-no-ouji-sama-go-to-the-top.json) |
 | Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
 | Shin Tennis no Ouji-sama: RisingBeat | 77812 | [77812-shin-tennis-no-ouji-sama-risingbeat.json](./77812-shin-tennis-no-ouji-sama-risingbeat.json) |
 | Shin Togenkyo | 38252 | [38252-shin-togenkyo.json](./38252-shin-togenkyo.json) |
@@ -16723,6 +16726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban Land DX | 44206 | [44206-sokoban-land-dx.json](./44206-sokoban-land-dx.json) |
 | Sokoban Nanmon Shinan | 98180 | [98180-sokoban-nanmon-shinan.json](./98180-sokoban-nanmon-shinan.json) |
 | Sokoban Next | 99478 | [99478-sokoban-next.json](./99478-sokoban-next.json) |
+| Sokoban Perfect | 61202 | [61202-sokoban-perfect.json](./61202-sokoban-perfect.json) |
 | Sokoban Revenge | 98185 | [98185-sokoban-revenge.json](./98185-sokoban-revenge.json) |
 | Sokoban Revenge SX-68K: User no Gyakushuu-hen | 98184 | [98184-sokoban-revenge-sx-68k-user-no-gyakushuu-hen.json](./98184-sokoban-revenge-sx-68k-user-no-gyakushuu-hen.json) |
 | Sokoban World | 308565 | [308565-sokoban-world.json](./308565-sokoban-world.json) |
@@ -36780,6 +36784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords & Dragons | 116202 | [116202-swords-and-dragons.json](./116202-swords-and-dragons.json) |
 | Swords & Earrings: Tales of Andaria | 373853 | [373853-swords-and-earrings-tales-of-andaria.json](./373853-swords-and-earrings-tales-of-andaria.json) |
 | Swords & Monsters | 92083 | [92083-swords-and-monsters.json](./92083-swords-and-monsters.json) |
+| Swords & Poker Adventures | 61199 | [61199-swords-and-poker-adventures.json](./61199-swords-and-poker-adventures.json) |
 | Swords & Serpents | 18582 | [18582-swords-and-serpents.json](./18582-swords-and-serpents.json) |
 | Swords & Shadows | 182723 | [182723-swords-and-shadows.json](./182723-swords-and-shadows.json) |
 | Swords & Shields AdvBattleBoard | 273795 | [273795-swords-and-shields-advbattleboard.json](./273795-swords-and-shields-advbattleboard.json) |
@@ -36890,6 +36895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sydney 2000 | 323056 | [323056-sydney-2000.json](./323056-sydney-2000.json) |
 | Sydney 2000 | 8333 | [8333-sydney-2000.json](./8333-sydney-2000.json) |
 | Sydney and the Cicadas in: Immanentize | 339426 | [339426-sydney-and-the-cicadas-in-immanentize.json](./339426-sydney-and-the-cicadas-in-immanentize.json) |
+| Sydney Hunter and the Caverns of Death | 61219 | [61219-sydney-hunter-and-the-caverns-of-death.json](./61219-sydney-hunter-and-the-caverns-of-death.json) |
 | Sydney Hunter and the Curse of the Mayan | 59297 | [59297-sydney-hunter-and-the-curse-of-the-mayan.json](./59297-sydney-hunter-and-the-curse-of-the-mayan.json) |
 | Sydney Hunter and the Sacred Tribe | 56232 | [56232-sydney-hunter-and-the-sacred-tribe.json](./56232-sydney-hunter-and-the-sacred-tribe.json) |
 | Sydney Hunter and the Shrines of Peril | 59818 | [59818-sydney-hunter-and-the-shrines-of-peril.json](./59818-sydney-hunter-and-the-shrines-of-peril.json) |
