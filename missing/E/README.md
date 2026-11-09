@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
 | Emma's Story | 376167 | [376167-emmas-story.json](./376167-emmas-story.json) |
 | Emma's World | 299220 | [299220-emmas-world.json](./299220-emmas-world.json) |
+| Emmanuelle | 37238 | [37238-emmanuelle.json](./37238-emmanuelle.json) |
 | Emme Saves the Galaxy | 260204 | [260204-emme-saves-the-galaxy.json](./260204-emme-saves-the-galaxy.json) |
 | Emmensity | 356639 | [356639-emmensity.json](./356639-emmensity.json) |
 | Emmerdale DVD Game | 315194 | [315194-emmerdale-dvd-game.json](./315194-emmerdale-dvd-game.json) |
@@ -6060,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Fast Break Basketball | 245484 | [245484-espn-fast-break-basketball.json](./245484-espn-fast-break-basketball.json) |
 | ESPN Final Round Golf 2002 | 6397 | [6397-espn-final-round-golf-2002.json](./6397-espn-final-round-golf-2002.json) |
 | ESPN Golf: Lower Your Score with Tom Kite - Mental Messages | 38849 | [38849-espn-golf-lower-your-score-with-tom-kite-mental-messages.json](./38849-espn-golf-lower-your-score-with-tom-kite-mental-messages.json) |
+| ESPN Golf: Lower Your Score With Tom Kite - Shot Making | 37230 | [37230-espn-golf-lower-your-score-with-tom-kite-shot-making.json](./37230-espn-golf-lower-your-score-with-tom-kite-shot-making.json) |
 | ESPN Grand Slam Baseball | 245483 | [245483-espn-grand-slam-baseball.json](./245483-espn-grand-slam-baseball.json) |
 | ESPN Great Outdoor Games: Bass 2002 | 49302 | [49302-espn-great-outdoor-games-bass-2002.json](./49302-espn-great-outdoor-games-bass-2002.json) |
 | ESPN Gridiron Football | 245482 | [245482-espn-gridiron-football.json](./245482-espn-gridiron-football.json) |
