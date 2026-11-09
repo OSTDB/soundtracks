@@ -6608,6 +6608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Derby 3 | 184283 | [184283-demolition-derby-3.json](./184283-demolition-derby-3.json) |
 | Demolition Derby 3D | 100647 | [100647-demolition-derby-3d.json](./100647-demolition-derby-3d.json) |
 | Demolition Derby 4 | 200752 | [200752-demolition-derby-4.json](./200752-demolition-derby-4.json) |
+| Demolition Derby and Figure 8 Race | 61178 | [61178-demolition-derby-and-figure-8-race.json](./61178-demolition-derby-and-figure-8-race.json) |
 | Demolition Derby Multiplayer | 269087 | [269087-demolition-derby-multiplayer.json](./269087-demolition-derby-multiplayer.json) |
 | Demolition Derby Reloaded | 303219 | [303219-demolition-derby-reloaded.json](./303219-demolition-derby-reloaded.json) |
 | Demolition Derby: Arena of Death | 89193 | [89193-demolition-derby-arena-of-death.json](./89193-demolition-derby-arena-of-death.json) |
@@ -9922,6 +9923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
 | Dino Hunt | 265089 | [265089-dino-hunt.json](./265089-dino-hunt.json) |
 | Dino Hunt 2 | 265090 | [265090-dino-hunt-2.json](./265090-dino-hunt-2.json) |
+| Dino Hunter: Deadly Shores | 61205 | [61205-dino-hunter-deadly-shores.json](./61205-dino-hunter-deadly-shores.json) |
 | Dino Invasion | 146966 | [146966-dino-invasion.json](./146966-dino-invasion.json) |
 | Dino Island Adventure | 188795 | [188795-dino-island-adventure.json](./188795-dino-island-adventure.json) |
 | Dino Island: The Four Crystals | 194859 | [194859-dino-island-the-four-crystals.json](./194859-dino-island-the-four-crystals.json) |
@@ -15766,6 +15768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Sweeper | 182023 | [182023-dragon-sweeper.json](./182023-dragon-sweeper.json) |
 | Dragon Sword | 47739 | [47739-dragon-sword.json](./47739-dragon-sword.json) |
 | Dragon Syndicate | 363782 | [363782-dragon-syndicate.json](./363782-dragon-syndicate.json) |
+| Dragon Tactics | 61194 | [61194-dragon-tactics.json](./61194-dragon-tactics.json) |
 | Dragon Takers | 318302 | [318302-dragon-takers.json](./318302-dragon-takers.json) |
 | Dragon Tale 4: The Raven Plot - Collector's Edition | 337221 | [337221-dragon-tale-4-the-raven-plot-collectors-edition.json](./337221-dragon-tale-4-the-raven-plot-collectors-edition.json) |
 | Dragon Tale 5: The Queen's Destiny - Collector's Edition | 417525 | [417525-dragon-tale-5-the-queens-destiny-collectors-edition.json](./417525-dragon-tale-5-the-queens-destiny-collectors-edition.json) |
