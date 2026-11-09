@@ -4142,6 +4142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orden des Drachen | 314294 | [314294-orden-des-drachen.json](./314294-orden-des-drachen.json) |
 | Order & Chaos 2: Redemption | 38687 | [38687-order-and-chaos-2-redemption.json](./38687-order-and-chaos-2-redemption.json) |
 | Order & Chaos Duels | 38686 | [38686-order-and-chaos-duels.json](./38686-order-and-chaos-duels.json) |
+| Order & Chaos Online | 22940 | [22940-order-and-chaos-online.json](./22940-order-and-chaos-online.json) |
 | Order 13 | 329109 | [329109-order-13.json](./329109-order-13.json) |
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
 | Order A Pizza: A Visual Novel | 134805 | [134805-order-a-pizza-a-visual-novel.json](./134805-order-a-pizza-a-visual-novel.json) |
