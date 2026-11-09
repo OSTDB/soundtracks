@@ -3337,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire I: World Builders | 24892 | [24892-empire-i-world-builders.json](./24892-empire-i-world-builders.json) |
 | Empire Idle | 339745 | [339745-empire-idle.json](./339745-empire-idle.json) |
 | Empire II: Interstellar Sharks | 24893 | [24893-empire-ii-interstellar-sharks.json](./24893-empire-ii-interstellar-sharks.json) |
+| Empire II: The Art of War | 70484 | [70484-empire-ii-the-art-of-war.json](./70484-empire-ii-the-art-of-war.json) |
 | Empire III: Armageddon | 24894 | [24894-empire-iii-armageddon.json](./24894-empire-iii-armageddon.json) |
 | Empire in Decay | 352199 | [352199-empire-in-decay.json](./352199-empire-in-decay.json) |
 | Empire Invasion | 147135 | [147135-empire-invasion.json](./147135-empire-invasion.json) |
@@ -6940,6 +6941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ever Seen A Cat? 3 | 211179 | [211179-ever-seen-a-cat-3.json](./211179-ever-seen-a-cat-3.json) |
 | Ever Shrine | 268791 | [268791-ever-shrine.json](./268791-ever-shrine.json) |
 | Ever War | 349995 | [349995-ever-war.json](./349995-ever-war.json) |
+| Ever, Jane | 70139 | [70139-ever-jane.json](./70139-ever-jane.json) |
 | Ever17 | 221220 | [221220-ever17.json](./221220-ever17.json) |
 | Ever17: CrossOver Impression | 231449 | [231449-ever17-crossover-impression.json](./231449-ever17-crossover-impression.json) |
 | Ever17: The Out of Infinity | 18037 | [18037-ever17-the-out-of-infinity.json](./18037-ever17-the-out-of-infinity.json) |
