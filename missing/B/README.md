@@ -993,7 +993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1087,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BadukPop | 266954 | [266954-badukpop.json](./266954-badukpop.json) |
 | Badventure | 267257 | [267257-badventure.json](./267257-badventure.json) |
 | BadZone | 406203 | [406203-badzone.json](./406203-badzone.json) |
+| BAE | 52084 | [52084-bae.json](./52084-bae.json) |
 | BAE 2 | 81798 | [81798-bae-2.json](./81798-bae-2.json) |
 | Bae Bash! The Chaos Collection | 372066 | [372066-bae-bash-the-chaos-collection.json](./372066-bae-bash-the-chaos-collection.json) |
 | Bae Yong-joon to Manabu Kankokugo DS | 130480 | [130480-bae-yong-joon-to-manabu-kankokugo-ds.json](./130480-bae-yong-joon-to-manabu-kankokugo-ds.json) |
@@ -10499,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Trust | 32672 | [32672-blind-trust.json](./32672-blind-trust.json) |
 | Blind Trust: The City | 357383 | [357383-blind-trust-the-city.json](./357383-blind-trust-the-city.json) |
 | Blind Wars | 69795 | [69795-blind-wars.json](./69795-blind-wars.json) |
+| Blind Witch -Peek Window- | 52061 | [52061-blind-witch-peek-window.json](./52061-blind-witch-peek-window.json) |
 | Blind Wizard's Assistant | 195124 | [195124-blind-wizards-assistant.json](./195124-blind-wizards-assistant.json) |
 | Blind World | 183695 | [183695-blind-world.json](./183695-blind-world.json) |
 | Blind zum Bus | 383973 | [383973-blind-zum-bus.json](./383973-blind-zum-bus.json) |
@@ -10987,6 +10988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockDoc | 111172 | [111172-blockdoc.json](./111172-blockdoc.json) |
 | BlockDodge | 106882 | [106882-blockdodge.json](./106882-blockdodge.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
+| BlockDude | 52055 | [52055-blockdude.json](./52055-blockdude.json) |
 | Blocked and Loaded | 81890 | [81890-blocked-and-loaded.json](./81890-blocked-and-loaded.json) |
 | Blocked In | 278559 | [278559-blocked-in.json](./278559-blocked-in.json) |
 | Blocked Out: Red V Blue | 166881 | [166881-blocked-out-red-v-blue.json](./166881-blocked-out-red-v-blue.json) |
