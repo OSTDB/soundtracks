@@ -4536,6 +4536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminull Brigade | 325934 | [325934-terminull-brigade.json](./325934-terminull-brigade.json) |
 | Terminus | 171327 | [171327-terminus.json](./171327-terminus.json) |
 | Terminus | 352261 | [352261-terminus.json](./352261-terminus.json) |
+| Terminus | 69962 | [69962-terminus.json](./69962-terminus.json) |
 | Terminus Historia | 207484 | [207484-terminus-historia.json](./207484-terminus-historia.json) |
 | Terminus Machina | 230287 | [230287-terminus-machina.json](./230287-terminus-machina.json) |
 | Terminus: Survival | 120651 | [120651-terminus-survival.json](./120651-terminus-survival.json) |
@@ -14574,6 +14575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nations: Land of Legends | 49866 | [49866-the-nations-land-of-legends.json](./49866-the-nations-land-of-legends.json) |
 | The Nature | 105013 | [105013-the-nature.json](./105013-the-nature.json) |
 | The Naughty List Curse | 341360 | [341360-the-naughty-list-curse.json](./341360-the-naughty-list-curse.json) |
+| The Naval Battle of Tsushima | 69618 | [69618-the-naval-battle-of-tsushima.json](./69618-the-naval-battle-of-tsushima.json) |
 | The Navigator | 106505 | [106505-the-navigator.json](./106505-the-navigator.json) |
 | The Neath | 296588 | [296588-the-neath.json](./296588-the-neath.json) |
 | The Necessary Evil | 415102 | [415102-the-necessary-evil.json](./415102-the-necessary-evil.json) |
@@ -17523,6 +17525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Splitting: Chapter 1 | 102017 | [102017-the-splitting-chapter-1.json](./102017-the-splitting-chapter-1.json) |
 | The Splitting: Chapter 2 | 101780 | [101780-the-splitting-chapter-2.json](./101780-the-splitting-chapter-2.json) |
 | The Splitting: Chapter 3 | 201357 | [201357-the-splitting-chapter-3.json](./201357-the-splitting-chapter-3.json) |
+| The Spoiler | 69965 | [69965-the-spoiler.json](./69965-the-spoiler.json) |
 | The SpongeBob SquarePants Movie | 210725 | [210725-the-spongebob-squarepants-movie.json](./210725-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie | 248491 | [248491-the-spongebob-squarepants-movie.json](./248491-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie | 253744 | [253744-the-spongebob-squarepants-movie.json](./253744-the-spongebob-squarepants-movie.json) |
@@ -24563,6 +24566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic: Fall of a Legend | 190455 | [190455-titanic-fall-of-a-legend.json](./190455-titanic-fall-of-a-legend.json) |
 | Titanic: Honor and Glory | 57921 | [57921-titanic-honor-and-glory.json](./57921-titanic-honor-and-glory.json) |
 | Titanic: Iceberg Ahead | 91966 | [91966-titanic-iceberg-ahead.json](./91966-titanic-iceberg-ahead.json) |
+| Titanic: The Lost Mission | 69620 | [69620-titanic-the-lost-mission.json](./69620-titanic-the-lost-mission.json) |
 | Titanic: The Recovery Mission | 12962 | [12962-titanic-the-recovery-mission.json](./12962-titanic-the-recovery-mission.json) |
 | Titanic: The Unsinkable | 93650 | [93650-titanic-the-unsinkable.json](./93650-titanic-the-unsinkable.json) |
 | Titanigods | 328469 | [328469-titanigods.json](./328469-titanigods.json) |
@@ -26651,6 +26655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
 | TorqueL: Physics Modified Edition | 86458 | [86458-torquel-physics-modified-edition.json](./86458-torquel-physics-modified-edition.json) |
 | Torrente | 94496 | [94496-torrente.json](./94496-torrente.json) |
+| Torrente 3: The Protector | 69598 | [69598-torrente-3-the-protector.json](./69598-torrente-3-the-protector.json) |
 | Torrential | 232957 | [232957-torrential.json](./232957-torrential.json) |
 | Torres | 94251 | [94251-torres.json](./94251-torres.json) |
 | Torshtra Minkan Setsuwashuu yori: Kokuou no Musume | 386111 | [386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json](./386111-torshtra-minkan-setsuwashuu-yori-kokuou-no-musume.json) |
