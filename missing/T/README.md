@@ -14023,6 +14023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Martial World of Drinking: Wu Song | 390603 | [390603-the-martial-world-of-drinking-wu-song.json](./390603-the-martial-world-of-drinking-wu-song.json) |
 | The Martian Job | 110637 | [110637-the-martian-job.json](./110637-the-martian-job.json) |
 | The Martian VR Experience | 25814 | [25814-the-martian-vr-experience.json](./25814-the-martian-vr-experience.json) |
+| The Martian: Bring Him Home | 58373 | [58373-the-martian-bring-him-home.json](./58373-the-martian-bring-him-home.json) |
 | The Martian: Official Game | 102771 | [102771-the-martian-official-game.json](./102771-the-martian-official-game.json) |
 | The Marvellous Machine | 150540 | [150540-the-marvellous-machine.json](./150540-the-marvellous-machine.json) |
 | The Marvellous Miss Take | 8780 | [8780-the-marvellous-miss-take.json](./8780-the-marvellous-miss-take.json) |
