@@ -3732,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Crash Land | 66151 | [66151-jungle-crash-land.json](./66151-jungle-crash-land.json) |
 | Jungle Defence | 116208 | [116208-jungle-defence.json](./116208-jungle-defence.json) |
 | Jungle Defenders | 391623 | [391623-jungle-defenders.json](./391623-jungle-defenders.json) |
+| Jungle Dino VR | 29361 | [29361-jungle-dino-vr.json](./29361-jungle-dino-vr.json) |
 | Jungle Drummer | 305139 | [305139-jungle-drummer.json](./305139-jungle-drummer.json) |
 | Jungle Emperor Leo | 176031 | [176031-jungle-emperor-leo.json](./176031-jungle-emperor-leo.json) |
 | Jungle Fever | 14141 | [14141-jungle-fever.json](./14141-jungle-fever.json) |
