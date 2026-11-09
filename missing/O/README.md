@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oath of peak | 231920 | [231920-oath-of-peak.json](./231920-oath-of-peak.json) |
 | Oath of the Necromancer | 328330 | [328330-oath-of-the-necromancer.json](./328330-oath-of-the-necromancer.json) |
 | Oath: There is a You That Remains | 375414 | [375414-oath-there-is-a-you-that-remains.json](./375414-oath-there-is-a-you-that-remains.json) |
+| Oathborn: The Chronicle of Ruin | 25320 | [25320-oathborn-the-chronicle-of-ruin.json](./25320-oathborn-the-chronicle-of-ruin.json) |
 | Oathbound: Arena | 236445 | [236445-oathbound-arena.json](./236445-oathbound-arena.json) |
 | Oathbreaker | 178754 | [178754-oathbreaker.json](./178754-oathbreaker.json) |
 | Oathbreaker: Season 2 | 178745 | [178745-oathbreaker-season-2.json](./178745-oathbreaker-season-2.json) |
