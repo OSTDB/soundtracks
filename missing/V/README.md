@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault of The Vanquished | 391101 | [391101-vault-of-the-vanquished.json](./391101-vault-of-the-vanquished.json) |
 | Vault of the Void | 127617 | [127617-vault-of-the-void.json](./127617-vault-of-the-void.json) |
 | Vault of the Void: Developer Supporter Pack | 317755 | [317755-vault-of-the-void-developer-supporter-pack.json](./317755-vault-of-the-void-developer-supporter-pack.json) |
+| Vault Resort | 53312 | [53312-vault-resort.json](./53312-vault-resort.json) |
 | Vault Vandals | 390188 | [390188-vault-vandals.json](./390188-vault-vandals.json) |
 | Vault: Tomb of the King | 115303 | [115303-vault-tomb-of-the-king.json](./115303-vault-tomb-of-the-king.json) |
 | Vault! | 340817 | [340817-vault.json](./340817-vault.json) |
@@ -2155,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vidya Poker | 367836 | [367836-vidya-poker.json](./367836-vidya-poker.json) |
 | Vie: Itsuka no Natsu no Hi. | 131377 | [131377-vie-itsuka-no-natsu-no-hi.json](./131377-vie-itsuka-no-natsu-no-hi.json) |
 | Vie: Try Again | 382560 | [382560-vie-try-again.json](./382560-vie-try-again.json) |
+| Vienna Automobile Society | 53307 | [53307-vienna-automobile-society.json](./53307-vienna-automobile-society.json) |
 | Vier op een rij | 92991 | [92991-vier-op-een-rij.json](./92991-vier-op-een-rij.json) |
 | Vietcong | 101613 | [101613-vietcong.json](./101613-vietcong.json) |
 | Vietcong | 271 | [271-vietcong.json](./271-vietcong.json) |
