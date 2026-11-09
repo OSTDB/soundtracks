@@ -8486,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shift Happens | 401864 | [401864-shift-happens.json](./401864-shift-happens.json) |
 | Shift II | 291005 | [291005-shift-ii.json](./291005-shift-ii.json) |
 | Shift Legacy Collection | 298092 | [298092-shift-legacy-collection.json](./298092-shift-legacy-collection.json) |
+| Shift Orb | 33188 | [33188-shift-orb.json](./33188-shift-orb.json) |
 | Shift Shaft | 115633 | [115633-shift-shaft.json](./115633-shift-shaft.json) |
 | Shift Stack | 181695 | [181695-shift-stack.json](./181695-shift-stack.json) |
 | Shift'n Slay | 319738 | [319738-shiftn-slay.json](./319738-shiftn-slay.json) |
@@ -9007,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinsouban Mahoutsukai to Goshujin-sama: Wizard and The Master | 60251 | [60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json](./60251-shinsouban-mahoutsukai-to-goshujin-sama-wizard-and-the-master.json) |
 | Shinsouban Okashi na Shima no Peter Pan: Sweet Never Land | 60467 | [60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json](./60467-shinsouban-okashi-na-shima-no-peter-pan-sweet-never-land.json) |
 | Shiny | 23956 | [23956-shiny.json](./23956-shiny.json) |
+| Shiny Gauntlet | 33215 | [33215-shiny-gauntlet.json](./33215-shiny-gauntlet.json) |
 | Shiny Ninjas | 36479 | [36479-shiny-ninjas.json](./36479-shiny-ninjas.json) |
 | Shiny Sisters | 336596 | [336596-shiny-sisters.json](./336596-shiny-sisters.json) |
 | Shiny Ski Resort | 103936 | [103936-shiny-ski-resort.json](./103936-shiny-ski-resort.json) |
@@ -22077,6 +22079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Defender | 215715 | [215715-spell-defender.json](./215715-spell-defender.json) |
 | Spell Disk | 240803 | [240803-spell-disk.json](./240803-spell-disk.json) |
 | Spell Disk Survivor | 259580 | [259580-spell-disk-survivor.json](./259580-spell-disk-survivor.json) |
+| Spell Fighter VR | 33187 | [33187-spell-fighter-vr.json](./33187-spell-fighter-vr.json) |
 | Spell Fist | 383200 | [383200-spell-fist.json](./383200-spell-fist.json) |
 | Spell Fragments | 372174 | [372174-spell-fragments.json](./372174-spell-fragments.json) |
 | Spell Hell | 253518 | [253518-spell-hell.json](./253518-spell-hell.json) |
