@@ -4855,6 +4855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Park 2: Remaster | 375128 | [375128-death-park-2-remaster.json](./375128-death-park-2-remaster.json) |
 | Death Penalty | 401555 | [401555-death-penalty.json](./401555-death-penalty.json) |
 | Death Penalty Hero | 285008 | [285008-death-penalty-hero.json](./285008-death-penalty-hero.json) |
+| Death Penalty: Beginning | 26750 | [26750-death-penalty-beginning.json](./26750-death-penalty-beginning.json) |
 | Death Pipe | 227725 | [227725-death-pipe.json](./227725-death-pipe.json) |
 | Death Pirate | 35521 | [35521-death-pirate.json](./35521-death-pirate.json) |
 | Death Pit | 13578 | [13578-death-pit.json](./13578-death-pit.json) |
@@ -5221,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deception | 171413 | [171413-deception.json](./171413-deception.json) |
 | Deception | 215542 | [215542-deception.json](./215542-deception.json) |
 | Deception Engine | 315998 | [315998-deception-engine.json](./315998-deception-engine.json) |
+| Deception III: Dark Delusion | 26730 | [26730-deception-iii-dark-delusion.json](./26730-deception-iii-dark-delusion.json) |
 | Deception IV: The Nightmare Princess | 44650 | [44650-deception-iv-the-nightmare-princess.json](./44650-deception-iv-the-nightmare-princess.json) |
 | Deceptor | 38033 | [38033-deceptor.json](./38033-deceptor.json) |
 | Deceptus | 220011 | [220011-deceptus.json](./220011-deceptus.json) |
