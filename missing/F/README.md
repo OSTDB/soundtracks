@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.B.I.C | 342816 | [342816-f-b-i-c.json](./342816-f-b-i-c.json) |
 | F.E.A.R 3: Collector's Edition | 42974 | [42974-f-e-a-r-3-collectors-edition.json](./42974-f-e-a-r-3-collectors-edition.json) |
 | F.E.A.R. | 202149 | [202149-f-e-a-r.json](./202149-f-e-a-r.json) |
+| F.E.A.R. 2: Project Origin - Limited Edition | 46711 | [46711-f-e-a-r-2-project-origin-limited-edition.json](./46711-f-e-a-r-2-project-origin-limited-edition.json) |
 | F.E.A.R. 2: Reborn | 22886 | [22886-f-e-a-r-2-reborn.json](./22886-f-e-a-r-2-reborn.json) |
 | F.E.A.R. 3 | 514 | [514-f-e-a-r-3.json](./514-f-e-a-r-3.json) |
 | F.E.A.R. Combat | 77261 | [77261-f-e-a-r-combat.json](./77261-f-e-a-r-combat.json) |
