@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5324,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Bulwark | 351179 | [351179-beat-bulwark.json](./351179-beat-bulwark.json) |
 | Beat Champion | 109847 | [109847-beat-champion.json](./109847-beat-champion.json) |
 | Beat Craft | 320151 | [320151-beat-craft.json](./320151-beat-craft.json) |
+| Beat Crisis Up | 54632 | [54632-beat-crisis-up.json](./54632-beat-crisis-up.json) |
 | Beat Da Beat | 24207 | [24207-beat-da-beat.json](./24207-beat-da-beat.json) |
 | Beat Defender | 154806 | [154806-beat-defender.json](./154806-beat-defender.json) |
 | Beat Demon | 364644 | [364644-beat-demon.json](./364644-beat-demon.json) |
@@ -15119,6 +15121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bram the Toymaker | 165951 | [165951-bram-the-toymaker.json](./165951-bram-the-toymaker.json) |
 | Bramble Royale: A Meteorfall Story | 317991 | [317991-bramble-royale-a-meteorfall-story.json](./317991-bramble-royale-a-meteorfall-story.json) |
 | Bramble Sling | 421453 | [421453-bramble-sling.json](./421453-bramble-sling.json) |
+| BrambleLash | 55306 | [55306-bramblelash.json](./55306-bramblelash.json) |
 | Brambles in the Mist | 168338 | [168338-brambles-in-the-mist.json](./168338-brambles-in-the-mist.json) |
 | Bramblewood | 196968 | [196968-bramblewood.json](./196968-bramblewood.json) |
 | Braminar | 80614 | [80614-braminar.json](./80614-braminar.json) |
