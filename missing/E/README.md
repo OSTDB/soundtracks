@@ -7225,6 +7225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody 1-2-Switch | 251588 | [251588-everybody-1-2-switch.json](./251588-everybody-1-2-switch.json) |
 | Everybody Dance | 19997 | [19997-everybody-dance.json](./19997-everybody-dance.json) |
 | Everybody Dance 2 | 43002 | [43002-everybody-dance-2.json](./43002-everybody-dance-2.json) |
+| Everybody Dance 3 | 56044 | [56044-everybody-dance-3.json](./56044-everybody-dance-3.json) |
 | Everybody Dance: Digital | 336101 | [336101-everybody-dance-digital.json](./336101-everybody-dance-digital.json) |
 | Everybody Dies | 60102 | [60102-everybody-dies.json](./60102-everybody-dies.json) |
 | Everybody Edits | 74298 | [74298-everybody-edits.json](./74298-everybody-edits.json) |
