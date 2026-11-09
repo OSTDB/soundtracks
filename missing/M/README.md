@@ -2235,6 +2235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou Shoujo Desu ga, Dungeon de Mugen ni Tsuyoku Natte mo Ii Desu ka | 187152 | [187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json](./187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json) |
 | Mahou Shoujo Escape | 348019 | [348019-mahou-shoujo-escape.json](./348019-mahou-shoujo-escape.json) |
 | Mahou Shoujo Fancy Coco | 414381 | [414381-mahou-shoujo-fancy-coco.json](./414381-mahou-shoujo-fancy-coco.json) |
+| Mahou Shoujo Nanoha A's Portable: The Gears of Destiny | 38451 | [38451-mahou-shoujo-nanoha-as-portable-the-gears-of-destiny.json](./38451-mahou-shoujo-nanoha-as-portable-the-gears-of-destiny.json) |
 | Mahou Shoujo Pretty Sammy: Osorubeshi Shintai Sokutei! Kakubakuhatsu 5 Byou Mae!! | 61329 | [61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json](./61329-mahou-shoujo-pretty-sammy-osorubeshi-shintai-sokutei-kakubakuhatsu-5-byou-mae.json) |
 | Mahou Shoujo Sakana | 385883 | [385883-mahou-shoujo-sakana.json](./385883-mahou-shoujo-sakana.json) |
 | Mahou Shoujo wo Wasurenai | 396472 | [396472-mahou-shoujo-wo-wasurenai.json](./396472-mahou-shoujo-wo-wasurenai.json) |
