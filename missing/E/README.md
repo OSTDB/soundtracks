@@ -3700,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encrypted_Nightmares | 340946 | [340946-encrypted-nightmares.json](./340946-encrypted-nightmares.json) |
 | Encycle | 149937 | [149937-encycle.json](./149937-encycle.json) |
 | Encyclopedia Explosica | 185617 | [185617-encyclopedia-explosica.json](./185617-encyclopedia-explosica.json) |
+| Encyclopedia of War: Ancient Battles | 13319 | [13319-encyclopedia-of-war-ancient-battles.json](./13319-encyclopedia-of-war-ancient-battles.json) |
 | End Chess Arrow | 339747 | [339747-end-chess-arrow.json](./339747-end-chess-arrow.json) |
 | End Date | 315912 | [315912-end-date.json](./315912-end-date.json) |
 | End Game | 263407 | [263407-end-game.json](./263407-end-game.json) |
