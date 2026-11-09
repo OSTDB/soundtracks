@@ -16498,7 +16498,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadnought | 7336 | [7336-dreadnought.json](./7336-dreadnought.json) |
 | Dreadnought Sol | 75022 | [75022-dreadnought-sol.json](./75022-dreadnought-sol.json) |
 | Dreadnought Tartarus | 383481 | [383481-dreadnought-tartarus.json](./383481-dreadnought-tartarus.json) |
+| Dreadnoughts | 14769 | [14769-dreadnoughts.json](./14769-dreadnoughts.json) |
 | Dreadnoughts | 25033 | [25033-dreadnoughts.json](./25033-dreadnoughts.json) |
+| Dreadnoughts Data Disk: Bismarck | 14772 | [14772-dreadnoughts-data-disk-bismarck.json](./14772-dreadnoughts-data-disk-bismarck.json) |
+| Dreadnoughts Data Disk: Ironclads | 14773 | [14773-dreadnoughts-data-disk-ironclads.json](./14773-dreadnoughts-data-disk-ironclads.json) |
 | Dreadnoughts of Caelus | 269143 | [269143-dreadnoughts-of-caelus.json](./269143-dreadnoughts-of-caelus.json) |
 | Dreadnut | 390805 | [390805-dreadnut.json](./390805-dreadnut.json) |
 | DreadOut | 11712 | [11712-dreadout.json](./11712-dreadout.json) |
@@ -20080,7 +20083,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying: Sinner Escape | 63361 | [63361-dying-sinner-escape.json](./63361-dying-sinner-escape.json) |
 | Dylan Dog: Gli Uccisori | 73160 | [73160-dylan-dog-gli-uccisori.json](./73160-dylan-dog-gli-uccisori.json) |
 | Dylan Dog: Horror Luna Park | 70970 | [70970-dylan-dog-horror-luna-park.json](./70970-dylan-dog-horror-luna-park.json) |
+| Dylan Dog: La Mummia | 14670 | [14670-dylan-dog-la-mummia.json](./14670-dylan-dog-la-mummia.json) |
 | Dylan Dog: Le Notti della Luna Piena | 72140 | [72140-dylan-dog-le-notti-della-luna-piena.json](./72140-dylan-dog-le-notti-della-luna-piena.json) |
+| Dylan Dog: Maelstrom | 14671 | [14671-dylan-dog-maelstrom.json](./14671-dylan-dog-maelstrom.json) |
 | Dylan Dog: Through the Looking Glass | 12422 | [12422-dylan-dog-through-the-looking-glass.json](./12422-dylan-dog-through-the-looking-glass.json) |
 | Dylan the Driller | 232086 | [232086-dylan-the-driller.json](./232086-dylan-the-driller.json) |
 | Dylio's Adventures | 418546 | [418546-dylios-adventures.json](./418546-dylios-adventures.json) |
