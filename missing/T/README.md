@@ -20804,6 +20804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas Ireham in Crimson Spotlight | 390377 | [390377-thomas-ireham-in-crimson-spotlight.json](./390377-thomas-ireham-in-crimson-spotlight.json) |
 | Thomas M. Disch's Amnesia | 50491 | [50491-thomas-m-dischs-amnesia.json](./50491-thomas-m-dischs-amnesia.json) |
 | Thomas Scott | 143927 | [143927-thomas-scott.json](./143927-thomas-scott.json) |
+| Thomas the Tank Engine | 63507 | [63507-thomas-the-tank-engine.json](./63507-thomas-the-tank-engine.json) |
 | Thomas the Tank Engine & Friends | 128845 | [128845-thomas-the-tank-engine-and-friends.json](./128845-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends | 137268 | [137268-thomas-the-tank-engine-and-friends.json](./137268-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends | 261048 | [261048-thomas-the-tank-engine-and-friends.json](./261048-thomas-the-tank-engine-and-friends.json) |
