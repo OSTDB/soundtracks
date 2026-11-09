@@ -8849,6 +8849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Trap | 317462 | [317462-fly-trap.json](./317462-fly-trap.json) |
 | Fly Wars | 59662 | [59662-fly-wars.json](./59662-fly-wars.json) |
 | Fly Wheel | 272213 | [272213-fly-wheel.json](./272213-fly-wheel.json) |
+| Fly With Me | 64543 | [64543-fly-with-me.json](./64543-fly-with-me.json) |
 | Fly With The Yellow Crane | 266116 | [266116-fly-with-the-yellow-crane.json](./266116-fly-with-the-yellow-crane.json) |
 | Fly-High and Huggy: Unstoppable | 321807 | [321807-fly-high-and-huggy-unstoppable.json](./321807-fly-high-and-huggy-unstoppable.json) |
 | Fly-High and Huggy: Unstoppable | 321808 | [321808-fly-high-and-huggy-unstoppable.json](./321808-fly-high-and-huggy-unstoppable.json) |
@@ -8934,6 +8935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Hero | 64265 | [64265-flying-hero.json](./64265-flying-hero.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
 | Flying Hero X | 146684 | [146684-flying-hero-x.json](./146684-flying-hero-x.json) |
+| Flying Hero: Bugyuru no Daibouken | 64541 | [64541-flying-hero-bugyuru-no-daibouken.json](./64541-flying-hero-bugyuru-no-daibouken.json) |
 | Flying Hero: City on fire | 179308 | [179308-flying-hero-city-on-fire.json](./179308-flying-hero-city-on-fire.json) |
 | Flying Heroes | 24119 | [24119-flying-heroes.json](./24119-flying-heroes.json) |
 | Flying High | 297123 | [297123-flying-high.json](./297123-flying-high.json) |
