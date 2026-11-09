@@ -1639,6 +1639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family in Puzzle House | 261163 | [261163-family-in-puzzle-house.json](./261163-family-in-puzzle-house.json) |
 | Family Is Nothing | 217066 | [217066-family-is-nothing.json](./217066-family-is-nothing.json) |
 | Family Island | 213672 | [213672-family-island.json](./213672-family-island.json) |
+| Family Jewels | 75331 | [75331-family-jewels.json](./75331-family-jewels.json) |
 | Family Jigsaw Puzzle: Classic Mosaic Puzzles | 255188 | [255188-family-jigsaw-puzzle-classic-mosaic-puzzles.json](./255188-family-jigsaw-puzzle-classic-mosaic-puzzles.json) |
 | Family Jockey | 268128 | [268128-family-jockey.json](./268128-family-jockey.json) |
 | Family Jockey | 63542 | [63542-family-jockey.json](./63542-family-jockey.json) |
@@ -5804,6 +5805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Physics | 66426 | [66426-finger-physics.json](./66426-finger-physics.json) |
 | Finger Pump | 381990 | [381990-finger-pump.json](./381990-finger-pump.json) |
 | Finger Punch | 378802 | [378802-finger-punch.json](./378802-finger-punch.json) |
+| Finger Road | 75377 | [75377-finger-road.json](./75377-finger-road.json) |
 | Finger Safari | 60381 | [60381-finger-safari.json](./60381-finger-safari.json) |
 | Finger Shot RPG | 205007 | [205007-finger-shot-rpg.json](./205007-finger-shot-rpg.json) |
 | Finger Slayer | 341914 | [341914-finger-slayer.json](./341914-finger-slayer.json) |
