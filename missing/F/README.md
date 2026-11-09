@@ -4585,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA World Cup: Launch Edition | 404400 | [404400-fifa-world-cup-launch-edition.json](./404400-fifa-world-cup-launch-edition.json) |
 | FIFA: Road to World Cup 98 | 705 | [705-fifa-road-to-world-cup-98.json](./705-fifa-road-to-world-cup-98.json) |
 | Fifefer Island | 193172 | [193172-fifefer-island.json](./193172-fifefer-island.json) |
+| Fifi and the Flowertots | 67004 | [67004-fifi-and-the-flowertots.json](./67004-fifi-and-the-flowertots.json) |
 | Fifi and the Flowertots: Fifi's Garden Party | 336176 | [336176-fifi-and-the-flowertots-fifis-garden-party.json](./336176-fifi-and-the-flowertots-fifis-garden-party.json) |
 | Fifi's Fortunes: Reclamation | 253944 | [253944-fifis-fortunes-reclamation.json](./253944-fifis-fortunes-reclamation.json) |
 | Fifo's Night | 127763 | [127763-fifos-night.json](./127763-fifos-night.json) |
@@ -4813,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Hero | 48582 | [48582-fighting-hero.json](./48582-fighting-hero.json) |
 | Fighting Hero III | 48581 | [48581-fighting-hero-iii.json](./48581-fighting-hero-iii.json) |
 | Fighting Ice Hockey | 355122 | [355122-fighting-ice-hockey.json](./355122-fighting-ice-hockey.json) |
+| Fighting Illusion K-1 Grand Prix Shou | 66882 | [66882-fighting-illusion-k-1-grand-prix-shou.json](./66882-fighting-illusion-k-1-grand-prix-shou.json) |
 | Fighting Illusion: K-1 GP 2000 | 61440 | [61440-fighting-illusion-k-1-gp-2000.json](./61440-fighting-illusion-k-1-gp-2000.json) |
 | Fighting Illusion: K-1 Grand Prix '98 | 61434 | [61434-fighting-illusion-k-1-grand-prix-98.json](./61434-fighting-illusion-k-1-grand-prix-98.json) |
 | Fighting in Aden Gulf | 381253 | [381253-fighting-in-aden-gulf.json](./381253-fighting-in-aden-gulf.json) |
