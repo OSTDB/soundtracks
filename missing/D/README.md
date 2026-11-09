@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Apes: The Fate of Devolution | 52513 | [52513-dark-apes-the-fate-of-devolution.json](./52513-dark-apes-the-fate-of-devolution.json) |
 | Dark Arcana: The Carnival | 10137 | [10137-dark-arcana-the-carnival.json](./10137-dark-arcana-the-carnival.json) |
 | Dark Arena | 6367 | [6367-dark-arena.json](./6367-dark-arena.json) |
+| Dark Arms: Beast Buster 1999 | 43997 | [43997-dark-arms-beast-buster-1999.json](./43997-dark-arms-beast-buster-1999.json) |
 | Dark Army Resurrection | 250328 | [250328-dark-army-resurrection.json](./250328-dark-army-resurrection.json) |
 | Dark Around You | 149475 | [149475-dark-around-you.json](./149475-dark-around-you.json) |
 | Dark as Blood | 298508 | [298508-dark-as-blood.json](./298508-dark-as-blood.json) |
@@ -5777,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Captor | 51120 | [51120-deer-captor.json](./51120-deer-captor.json) |
 | Deer Crusade | 235826 | [235826-deer-crusade.json](./235826-deer-crusade.json) |
 | Deer Drive | 47771 | [47771-deer-drive.json](./47771-deer-drive.json) |
+| Deer Drive Legends | 44012 | [44012-deer-drive-legends.json](./44012-deer-drive-legends.json) |
 | Deer Force: The Sequence Breaker | 137182 | [137182-deer-force-the-sequence-breaker.json](./137182-deer-force-the-sequence-breaker.json) |
 | Deer God | 278527 | [278527-deer-god.json](./278527-deer-god.json) |
 | Deer Hero | 395777 | [395777-deer-hero.json](./395777-deer-hero.json) |
@@ -10892,6 +10894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Infinity 4.0 | 240940 | [240940-disney-infinity-4-0.json](./240940-disney-infinity-4-0.json) |
 | Disney Infinity: 2.0 | 47764 | [47764-disney-infinity-2-0.json](./47764-disney-infinity-2-0.json) |
 | Disney Infinity: Toy Box | 241155 | [241155-disney-infinity-toy-box.json](./241155-disney-infinity-toy-box.json) |
+| Disney Infinity: Toy Box Challenge | 44013 | [44013-disney-infinity-toy-box-challenge.json](./44013-disney-infinity-toy-box-challenge.json) |
 | Disney Junior Ready for Preschool: Forces in Motion | 267543 | [267543-disney-junior-ready-for-preschool-forces-in-motion.json](./267543-disney-junior-ready-for-preschool-forces-in-motion.json) |
 | Disney Learning: 2nd Grade | 59941 | [59941-disney-learning-2nd-grade.json](./59941-disney-learning-2nd-grade.json) |
 | Disney Learning: Math Quest with Aladdin | 70247 | [70247-disney-learning-math-quest-with-aladdin.json](./70247-disney-learning-math-quest-with-aladdin.json) |
@@ -14459,6 +14462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubts | 179613 | [179613-doubts.json](./179613-doubts.json) |
 | Doubumon | 259169 | [259169-doubumon.json](./259169-doubumon.json) |
 | Doubutsu Banchou | 151836 | [151836-doubutsu-banchou.json](./151836-doubutsu-banchou.json) |
+| Doubutsu no Mori | 44042 | [44042-doubutsu-no-mori.json](./44042-doubutsu-no-mori.json) |
 | Doubutsu no Mori Card e+: Series 1 | 356647 | [356647-doubutsu-no-mori-card-e-series-1.json](./356647-doubutsu-no-mori-card-e-series-1.json) |
 | Doubutsu no Mori e+: Card e Reader+ to Card e+ | 354778 | [354778-doubutsu-no-mori-e-card-e-reader-to-card-e.json](./354778-doubutsu-no-mori-e-card-e-reader-to-card-e.json) |
 | Doubutsu no Mori e+: D01 - Design Card: Jump Mario | 364444 | [364444-doubutsu-no-mori-e-d01-design-card-jump-mario.json](./364444-doubutsu-no-mori-e-d01-design-card-jump-mario.json) |
@@ -20059,6 +20063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Headdy Classic | 99292 | [99292-dynamite-headdy-classic.json](./99292-dynamite-headdy-classic.json) |
 | Dynamite It! | 297087 | [297087-dynamite-it.json](./297087-dynamite-it.json) |
 | Dynamite Joe | 300545 | [300545-dynamite-joe.json](./300545-dynamite-joe.json) |
+| Dynamite Slugger | 43999 | [43999-dynamite-slugger.json](./43999-dynamite-slugger.json) |
 | Dynamite Soccer 2000 | 61336 | [61336-dynamite-soccer-2000.json](./61336-dynamite-soccer-2000.json) |
 | Dynamite Soccer 2002 | 61340 | [61340-dynamite-soccer-2002.json](./61340-dynamite-soccer-2002.json) |
 | Dynamite Soccer 2004 Final | 61335 | [61335-dynamite-soccer-2004-final.json](./61335-dynamite-soccer-2004-final.json) |
