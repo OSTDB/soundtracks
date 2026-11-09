@@ -434,6 +434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Action 4 Pack | 85749 | [85749-ultimate-action-4-pack.json](./85749-ultimate-action-4-pack.json) |
 | Ultimate Action Hero | 124708 | [124708-ultimate-action-hero.json](./124708-ultimate-action-hero.json) |
 | Ultimate Action Hero | 306364 | [306364-ultimate-action-hero.json](./306364-ultimate-action-hero.json) |
+| Ultimate Action Triple Pack | 56722 | [56722-ultimate-action-triple-pack.json](./56722-ultimate-action-triple-pack.json) |
 | Ultimate Admiral: Age of Sail | 118323 | [118323-ultimate-admiral-age-of-sail.json](./118323-ultimate-admiral-age-of-sail.json) |
 | Ultimate Admiral: Dreadnoughts | 125374 | [125374-ultimate-admiral-dreadnoughts.json](./125374-ultimate-admiral-dreadnoughts.json) |
 | Ultimate ADOM: Caverns of Chaos | 110243 | [110243-ultimate-adom-caverns-of-chaos.json](./110243-ultimate-adom-caverns-of-chaos.json) |
@@ -521,6 +522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Dungeon: Kurenai | 286788 | [286788-ultimate-dungeon-kurenai.json](./286788-ultimate-dungeon-kurenai.json) |
 | Ultimate Dungeons & Dragons | 73282 | [73282-ultimate-dungeons-and-dragons.json](./73282-ultimate-dungeons-and-dragons.json) |
 | Ultimate Dunk Shooter | 360735 | [360735-ultimate-dunk-shooter.json](./360735-ultimate-dunk-shooter.json) |
+| Ultimate Dunker | 57203 | [57203-ultimate-dunker.json](./57203-ultimate-dunker.json) |
 | Ultimate Farm Simulator | 102478 | [102478-ultimate-farm-simulator.json](./102478-ultimate-farm-simulator.json) |
 | Ultimate Fatal Octopus | 289232 | [289232-ultimate-fatal-octopus.json](./289232-ultimate-fatal-octopus.json) |
 | Ultimate Fight Manager 2016 | 33207 | [33207-ultimate-fight-manager-2016.json](./33207-ultimate-fight-manager-2016.json) |
@@ -758,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Spider-Man: Ultimate Spider-Cycle | 61293 | [61293-ultimate-spider-man-ultimate-spider-cycle.json](./61293-ultimate-spider-man-ultimate-spider-cycle.json) |
 | Ultimate Spinner Simulator - Unstress Yourself | 74467 | [74467-ultimate-spinner-simulator-unstress-yourself.json](./74467-ultimate-spinner-simulator-unstress-yourself.json) |
 | Ultimate Starfighter | 201245 | [201245-ultimate-starfighter.json](./201245-ultimate-starfighter.json) |
+| Ultimate Stealth Triple Pack | 56723 | [56723-ultimate-stealth-triple-pack.json](./56723-ultimate-stealth-triple-pack.json) |
 | Ultimate Street Fighter: Fist of Fate | 368444 | [368444-ultimate-street-fighter-fist-of-fate.json](./368444-ultimate-street-fighter-fist-of-fate.json) |
 | Ultimate Street Football | 368804 | [368804-ultimate-street-football.json](./368804-ultimate-street-football.json) |
 | Ultimate Sudoku Collection | 100576 | [100576-ultimate-sudoku-collection.json](./100576-ultimate-sudoku-collection.json) |
@@ -1809,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undergoes | 312993 | [312993-undergoes.json](./312993-undergoes.json) |
 | Undergone: Before | 390658 | [390658-undergone-before.json](./390658-undergone-before.json) |
 | Undergrave | 187687 | [187687-undergrave.json](./187687-undergrave.json) |
+| Undergrave: Pixel Roguelike | 57208 | [57208-undergrave-pixel-roguelike.json](./57208-undergrave-pixel-roguelike.json) |
 | Underground | 195709 | [195709-underground.json](./195709-underground.json) |
 | Underground | 232018 | [232018-underground.json](./232018-underground.json) |
 | Underground | 245084 | [245084-underground.json](./245084-underground.json) |
