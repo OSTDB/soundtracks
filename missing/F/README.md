@@ -2113,6 +2113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Mountains | 401027 | [401027-fantasy-mountains.json](./401027-fantasy-mountains.json) |
 | Fantasy Network | 216645 | [216645-fantasy-network.json](./216645-fantasy-network.json) |
 | Fantasy of Alice | 133741 | [133741-fantasy-of-alice.json](./133741-fantasy-of-alice.json) |
+| Fantasy of Eden | 74643 | [74643-fantasy-of-eden.json](./74643-fantasy-of-eden.json) |
 | Fantasy of Esula | 292578 | [292578-fantasy-of-esula.json](./292578-fantasy-of-esula.json) |
 | Fantasy of Expedition | 113648 | [113648-fantasy-of-expedition.json](./113648-fantasy-of-expedition.json) |
 | Fantasy of Gun | 287340 | [287340-fantasy-of-gun.json](./287340-fantasy-of-gun.json) |
@@ -10223,6 +10224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Lectures: Fall of a Dynasty - The Beginning | 260447 | [260447-forgotten-lectures-fall-of-a-dynasty-the-beginning.json](./260447-forgotten-lectures-fall-of-a-dynasty-the-beginning.json) |
 | Forgotten Legends | 207631 | [207631-forgotten-legends.json](./207631-forgotten-legends.json) |
 | Forgotten Legions | 85149 | [85149-forgotten-legions.json](./85149-forgotten-legions.json) |
+| Forgotten Light | 74632 | [74632-forgotten-light.json](./74632-forgotten-light.json) |
 | Forgotten Lore | 34723 | [34723-forgotten-lore.json](./34723-forgotten-lore.json) |
 | Forgotten Magic Tower | 293381 | [293381-forgotten-magic-tower.json](./293381-forgotten-magic-tower.json) |
 | Forgotten Mechs | 295830 | [295830-forgotten-mechs.json](./295830-forgotten-mechs.json) |
