@@ -5110,6 +5110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris 64 | 3346 | [3346-tetris-64.json](./3346-tetris-64.json) |
 | Tetris 99 | 115282 | [115282-tetris-99.json](./115282-tetris-99.json) |
 | Tetris 99: Big Block DLC | 133960 | [133960-tetris-99-big-block-dlc.json](./133960-tetris-99-big-block-dlc.json) |
+| Tetris Advance | 49451 | [49451-tetris-advance.json](./49451-tetris-advance.json) |
 | Tetris Arcade in a Tin | 234079 | [234079-tetris-arcade-in-a-tin.json](./234079-tetris-arcade-in-a-tin.json) |
 | Tetris Attack | 133313 | [133313-tetris-attack.json](./133313-tetris-attack.json) |
 | Tetris Battle Fusion | 74305 | [74305-tetris-battle-fusion.json](./74305-tetris-battle-fusion.json) |
@@ -12595,6 +12596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Prayer | 401304 | [401304-the-last-prayer.json](./401304-the-last-prayer.json) |
 | The Last Premiere | 213422 | [213422-the-last-premiere.json](./213422-the-last-premiere.json) |
 | The Last Promise | 135599 | [135599-the-last-promise.json](./135599-the-last-promise.json) |
+| The Last Promise | 49462 | [49462-the-last-promise.json](./49462-the-last-promise.json) |
 | The Last Prompt | 342179 | [342179-the-last-prompt.json](./342179-the-last-prompt.json) |
 | The Last Purge | 359360 | [359360-the-last-purge.json](./359360-the-last-purge.json) |
 | The Last Pussy: Survival Lesson | 349275 | [349275-the-last-pussy-survival-lesson.json](./349275-the-last-pussy-survival-lesson.json) |
@@ -15555,6 +15557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Powerpuff Girls: Defenders of Townsville | 50484 | [50484-the-powerpuff-girls-defenders-of-townsville.json](./50484-the-powerpuff-girls-defenders-of-townsville.json) |
 | The Powerpuff Girls: Fast and Flurrious | 144131 | [144131-the-powerpuff-girls-fast-and-flurrious.json](./144131-the-powerpuff-girls-fast-and-flurrious.json) |
 | The Powerpuff Girls: Flipped Out | 90373 | [90373-the-powerpuff-girls-flipped-out.json](./90373-the-powerpuff-girls-flipped-out.json) |
+| The Powerpuff Girls: Him and Seek | 49433 | [49433-the-powerpuff-girls-him-and-seek.json](./49433-the-powerpuff-girls-him-and-seek.json) |
 | The Powerpuff Girls: Monkey Mania | 309101 | [309101-the-powerpuff-girls-monkey-mania.json](./309101-the-powerpuff-girls-monkey-mania.json) |
 | The Powerpuff Girls: Princess Snorebucks | 59381 | [59381-the-powerpuff-girls-princess-snorebucks.json](./59381-the-powerpuff-girls-princess-snorebucks.json) |
 | The PowerPuff Girls: Relish Rampage | 19415 | [19415-the-powerpuff-girls-relish-rampage.json](./19415-the-powerpuff-girls-relish-rampage.json) |
@@ -15685,6 +15688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prototype | 309174 | [309174-the-prototype.json](./309174-the-prototype.json) |
 | The Prototype | 94771 | [94771-the-prototype.json](./94771-the-prototype.json) |
 | The Proud and the Few | 59321 | [59321-the-proud-and-the-few.json](./59321-the-proud-and-the-few.json) |
+| The Proud Family | 49421 | [49421-the-proud-family.json](./49421-the-proud-family.json) |
 | The Prowler Hell | 244095 | [244095-the-prowler-hell.json](./244095-the-prowler-hell.json) |
 | The Psychedelic Quest | 177451 | [177451-the-psychedelic-quest.json](./177451-the-psychedelic-quest.json) |
 | The Psychiatrist: Major Depression | 115530 | [115530-the-psychiatrist-major-depression.json](./115530-the-psychiatrist-major-depression.json) |
@@ -16434,6 +16438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sands of Voltark | 131944 | [131944-the-sands-of-voltark.json](./131944-the-sands-of-voltark.json) |
 | The Sandwich Making Experience | 250798 | [250798-the-sandwich-making-experience.json](./250798-the-sandwich-making-experience.json) |
 | The Santa Challenge | 130641 | [130641-the-santa-challenge.json](./130641-the-santa-challenge.json) |
+| The Santa Clause 3: The Escape Clause | 49429 | [49429-the-santa-clause-3-the-escape-clause.json](./49429-the-santa-clause-3-the-escape-clause.json) |
 | The Santa Paradox | 156903 | [156903-the-santa-paradox.json](./156903-the-santa-paradox.json) |
 | The Sapling | 126479 | [126479-the-sapling.json](./126479-the-sapling.json) |
 | The Sapper | 74677 | [74677-the-sapper.json](./74677-the-sapper.json) |
@@ -26129,6 +26134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonka Town | 73786 | [73786-tonka-town.json](./73786-tonka-town.json) |
 | Tonka Workshop | 165293 | [165293-tonka-workshop.json](./165293-tonka-workshop.json) |
 | Tonka: Dig'n Rigs | 226412 | [226412-tonka-dign-rigs.json](./226412-tonka-dign-rigs.json) |
+| Tonka: On the Job | 49455 | [49455-tonka-on-the-job.json](./49455-tonka-on-the-job.json) |
 | Tonka: Rescue Patrol | 4202 | [4202-tonka-rescue-patrol.json](./4202-tonka-rescue-patrol.json) |
 | Tonkachi Mario | 200555 | [200555-tonkachi-mario.json](./200555-tonkachi-mario.json) |
 | Tonko | 159213 | [159213-tonko.json](./159213-tonko.json) |
@@ -27060,6 +27066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Smashed | 74304 | [74304-totally-smashed.json](./74304-totally-smashed.json) |
 | Totally Spies! | 359460 | [359460-totally-spies.json](./359460-totally-spies.json) |
 | Totally Spies! | 8021 | [8021-totally-spies.json](./8021-totally-spies.json) |
+| Totally Spies! 2: Undercover | 49454 | [49454-totally-spies-2-undercover.json](./49454-totally-spies-2-undercover.json) |
 | Totally Spies! 3: Secret Agents | 61468 | [61468-totally-spies-3-secret-agents.json](./61468-totally-spies-3-secret-agents.json) |
 | Totally Spies! 4: Around the World | 304040 | [304040-totally-spies-4-around-the-world.json](./304040-totally-spies-4-around-the-world.json) |
 | Totally Spies! Cyber Mission | 302511 | [302511-totally-spies-cyber-mission.json](./302511-totally-spies-cyber-mission.json) |
@@ -31890,6 +31897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick Shot Bowling | 87311 | [87311-trick-shot-bowling.json](./87311-trick-shot-bowling.json) |
 | Trick Shot Ping Pong | 193555 | [193555-trick-shot-ping-pong.json](./193555-trick-shot-ping-pong.json) |
 | Trick Solitaire | 337265 | [337265-trick-solitaire.json](./337265-trick-solitaire.json) |
+| Trick Star | 49456 | [49456-trick-star.json](./49456-trick-star.json) |
 | Trick the Ninjalinos | 359438 | [359438-trick-the-ninjalinos.json](./359438-trick-the-ninjalinos.json) |
 | Trick Trap | 46874 | [46874-trick-trap.json](./46874-trick-trap.json) |
 | Trick Trap 1771 | 66254 | [66254-trick-trap-1771.json](./66254-trick-trap-1771.json) |
