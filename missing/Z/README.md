@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zealot's Curse | 296150 | [296150-zealots-curse.json](./296150-zealots-curse.json) |
 | Zeb's Trap | 359454 | [359454-zebs-trap.json](./359454-zebs-trap.json) |
 | Zeba | 389027 | [389027-zeba.json](./389027-zeba.json) |
+| Zebco Fishing! | 49979 | [49979-zebco-fishing.json](./49979-zebco-fishing.json) |
 | Zebco Pro Fishing 3D: Tournament Edition | 202178 | [202178-zebco-pro-fishing-3d-tournament-edition.json](./202178-zebco-pro-fishing-3d-tournament-edition.json) |
 | Zebra | 342171 | [342171-zebra.json](./342171-zebra.json) |
 | Zebra Evolution | 206734 | [206734-zebra-evolution.json](./206734-zebra-evolution.json) |
@@ -1371,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZOA: The Zone of Avoidance | 339228 | [339228-zoa-the-zone-of-avoidance.json](./339228-zoa-the-zone-of-avoidance.json) |
 | Zoar | 39307 | [39307-zoar.json](./39307-zoar.json) |
 | Zoboomafoo: Leapin' Lemurs | 45308 | [45308-zoboomafoo-leapin-lemurs.json](./45308-zoboomafoo-leapin-lemurs.json) |
+| Zoboomafoo: Playtime in Zobooland | 49978 | [49978-zoboomafoo-playtime-in-zobooland.json](./49978-zoboomafoo-playtime-in-zobooland.json) |
 | Zobre Zombie | 275011 | [275011-zobre-zombie.json](./275011-zobre-zombie.json) |
 | Zockbox | 91610 | [91610-zockbox.json](./91610-zockbox.json) |
 | Zoda's Revenge: StarTropics II | 48062 | [48062-zodas-revenge-startropics-ii.json](./48062-zodas-revenge-startropics-ii.json) |
