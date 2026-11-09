@@ -1273,8 +1273,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1500 DS Spirits: Mahjong V | 268074 | [268074-1500-ds-spirits-mahjong-v.json](./268074-1500-ds-spirits-mahjong-v.json) |
 | 1500 DS Spirits: Shogi V | 268075 | [268075-1500-ds-spirits-shogi-v.json](./268075-1500-ds-spirits-shogi-v.json) |
 | 1500DS Spirits Vol. 10: Igo | 64692 | [64692-1500ds-spirits-vol-10-igo.json](./64692-1500ds-spirits-vol-10-igo.json) |
+| 1500DS Spirits Vol. 2: Shogi | 77020 | [77020-1500ds-spirits-vol-2-shogi.json](./77020-1500ds-spirits-vol-2-shogi.json) |
 | 1500DS Spirits Vol. 6: Trump | 79186 | [79186-1500ds-spirits-vol-6-trump.json](./79186-1500ds-spirits-vol-6-trump.json) |
 | 1500DS Spirits Vol. 7: Chess | 79959 | [79959-1500ds-spirits-vol-7-chess.json](./79959-1500ds-spirits-vol-7-chess.json) |
+| 1500DS Spirits Vol. 8: Darts | 77019 | [77019-1500ds-spirits-vol-8-darts.json](./77019-1500ds-spirits-vol-8-darts.json) |
+| 1500DS Spirits Vol. 9: 2 Nin-uchi Mahjong | 77018 | [77018-1500ds-spirits-vol-9-2-nin-uchi-mahjong.json](./77018-1500ds-spirits-vol-9-2-nin-uchi-mahjong.json) |
 | 153 Hand Video Poker | 84670 | [84670-153-hand-video-poker.json](./84670-153-hand-video-poker.json) |
 | 155th Anniversary of the Pony Express | 288131 | [288131-155th-anniversary-of-the-pony-express.json](./288131-155th-anniversary-of-the-pony-express.json) |
 | 15th Floor | 289335 | [289335-15th-floor.json](./289335-15th-floor.json) |
