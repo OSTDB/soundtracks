@@ -2430,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villains: Robot Battle Royale | 378613 | [378613-villains-robot-battle-royale.json](./378613-villains-robot-battle-royale.json) |
 | Villainville | 347447 | [347447-villainville.json](./347447-villainville.json) |
 | Villainy | 370562 | [370562-villainy.json](./370562-villainy.json) |
+| VilleTown | 31322 | [31322-villetown.json](./31322-villetown.json) |
 | Villion:Code | 387425 | [387425-villion-code.json](./387425-villion-code.json) |
 | Villnoire | 143562 | [143562-villnoire.json](./143562-villnoire.json) |
 | Villwars | 203575 | [203575-villwars.json](./203575-villwars.json) |
