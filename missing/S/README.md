@@ -6906,6 +6906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Burglar | 191864 | [191864-shadow-burglar.json](./191864-shadow-burglar.json) |
 | Shadow Chronicles: Collector's Edition | 201858 | [201858-shadow-chronicles-collectors-edition.json](./201858-shadow-chronicles-collectors-edition.json) |
 | Shadow Circuit | 29417 | [29417-shadow-circuit.json](./29417-shadow-circuit.json) |
+| Shadow Cities | 11632 | [11632-shadow-cities.json](./11632-shadow-cities.json) |
 | Shadow City Mysteries: A Clockwork Noir | 290546 | [290546-shadow-city-mysteries-a-clockwork-noir.json](./290546-shadow-city-mysteries-a-clockwork-noir.json) |
 | Shadow Cocoon | 348673 | [348673-shadow-cocoon.json](./348673-shadow-cocoon.json) |
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
