@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backpacker 3 | 28411 | [28411-backpacker-3.json](./28411-backpacker-3.json) |
 | Backpacker 3: Mediterraneo | 129782 | [129782-backpacker-3-mediterraneo.json](./129782-backpacker-3-mediterraneo.json) |
 | Backpacker Guild | 293449 | [293449-backpacker-guild.json](./293449-backpacker-guild.json) |
+| BackPacker Junior | 71270 | [71270-backpacker-junior.json](./71270-backpacker-junior.json) |
 | Backpacker: The Lost Florence Gold Mine | 73044 | [73044-backpacker-the-lost-florence-gold-mine.json](./73044-backpacker-the-lost-florence-gold-mine.json) |
 | Backpackers Guide to the Universe | 309344 | [309344-backpackers-guide-to-the-universe.json](./309344-backpackers-guide-to-the-universe.json) |
 | Backroom | 238458 | [238458-backroom.json](./238458-backroom.json) |
@@ -989,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1303,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-3-kai | 179958 | [179958-bakushou-mondai-no-totsugeki-star-pirates-dai-3-kai.json](./179958-bakushou-mondai-no-totsugeki-star-pirates-dai-3-kai.json) |
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-4-kai | 179959 | [179959-bakushou-mondai-no-totsugeki-star-pirates-dai-4-kai.json](./179959-bakushou-mondai-no-totsugeki-star-pirates-dai-4-kai.json) |
 | Bakushou Yoshimoto ShinkiGeki | 37579 | [37579-bakushou-yoshimoto-shinkigeki.json](./37579-bakushou-yoshimoto-shinkigeki.json) |
+| Bakushou! Star Monomane Shiten-ou | 71119 | [71119-bakushou-star-monomane-shiten-ou.json](./71119-bakushou-star-monomane-shiten-ou.json) |
 | Bakushou!! All Yoshimoto Quiz Ou Ketteisen DX | 45422 | [45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json](./45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json) |
 | Bakushou!! All Yoshimoto Quiz-Ou Ketteisen | 245247 | [245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json](./245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json) |
 | Bakushou!! Jinsei Kaidoh: Nova Usagi ga Miteru zo!! | 269387 | [269387-bakushou-jinsei-kaidoh-nova-usagi-ga-miteru-zo.json](./269387-bakushou-jinsei-kaidoh-nova-usagi-ga-miteru-zo.json) |
@@ -4575,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSound | 151739 | [151739-battlesound.json](./151739-battlesound.json) |
 | BattleSpace | 17530 | [17530-battlespace.json](./17530-battlespace.json) |
 | Battlespace Command | 408067 | [408067-battlespace-command.json](./408067-battlespace-command.json) |
+| BattleSphere | 71125 | [71125-battlesphere.json](./71125-battlesphere.json) |
 | BattleSphere Gold | 40813 | [40813-battlesphere-gold.json](./40813-battlesphere-gold.json) |
 | BattleSport | 19993 | [19993-battlesport.json](./19993-battlesport.json) |
 | Battlestage | 171396 | [171396-battlestage.json](./171396-battlestage.json) |
@@ -11164,6 +11168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Lace: A Gothic Novel | 69924 | [69924-blood-and-lace-a-gothic-novel.json](./69924-blood-and-lace-a-gothic-novel.json) |
 | Blood & Laurels | 141556 | [141556-blood-and-laurels.json](./141556-blood-and-laurels.json) |
 | Blood & Lust | 338256 | [338256-blood-and-lust.json](./338256-blood-and-lust.json) |
+| Blood & Magic | 71131 | [71131-blood-and-magic.json](./71131-blood-and-magic.json) |
 | Blood & Play | 317145 | [317145-blood-and-play.json](./317145-blood-and-play.json) |
 | Blood & Play: Consultation | 364359 | [364359-blood-and-play-consultation.json](./364359-blood-and-play-consultation.json) |
 | Blood 2: The Blood Group | 51704 | [51704-blood-2-the-blood-group.json](./51704-blood-2-the-blood-group.json) |
@@ -17009,6 +17014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Piles | 241615 | [241615-bubble-piles.json](./241615-bubble-piles.json) |
 | Bubble Pirate Shooter | 220812 | [220812-bubble-pirate-shooter.json](./220812-bubble-pirate-shooter.json) |
 | Bubble Pirates | 120256 | [120256-bubble-pirates.json](./120256-bubble-pirates.json) |
+| Bubble Plus | 71130 | [71130-bubble-plus.json](./71130-bubble-plus.json) |
 | Bubble Pong Pong | 278234 | [278234-bubble-pong-pong.json](./278234-bubble-pong-pong.json) |
 | Bubble Pop | 89466 | [89466-bubble-pop.json](./89466-bubble-pop.json) |
 | Bubble Pop It ASMR | 195838 | [195838-bubble-pop-it-asmr.json](./195838-bubble-pop-it-asmr.json) |
@@ -18894,6 +18900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz Lightyear of Star Command | 265047 | [265047-buzz-lightyear-of-star-command.json](./265047-buzz-lightyear-of-star-command.json) |
 | Buzz Lightyear of Star Command | 282150 | [282150-buzz-lightyear-of-star-command.json](./282150-buzz-lightyear-of-star-command.json) |
 | Buzz Off, Buddy | 383521 | [383521-buzz-off-buddy.json](./383521-buzz-off-buddy.json) |
+| Buzz Off! | 71265 | [71265-buzz-off.json](./71265-buzz-off.json) |
 | Buzz or Die | 295233 | [295233-buzz-or-die.json](./295233-buzz-or-die.json) |
 | Buzz Wars | 373808 | [373808-buzz-wars.json](./373808-buzz-wars.json) |
 | Buzz-Saw Blood House | 125260 | [125260-buzz-saw-blood-house.json](./125260-buzz-saw-blood-house.json) |
