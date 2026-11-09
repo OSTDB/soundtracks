@@ -1127,6 +1127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Escapes: Minnie Pets! | 245372 | [245372-hamster-escapes-minnie-pets.json](./245372-hamster-escapes-minnie-pets.json) |
 | Hamster Fighter | 246459 | [246459-hamster-fighter.json](./246459-hamster-fighter.json) |
 | Hamster Game | 133734 | [133734-hamster-game.json](./133734-hamster-game.json) |
+| Hamster Heroes | 4902 | [4902-hamster-heroes.json](./4902-hamster-heroes.json) |
 | Hamster Hunter: Rodent Rampage | 330556 | [330556-hamster-hunter-rodent-rampage.json](./330556-hamster-hunter-rodent-rampage.json) |
 | Hamster Hustle | 367082 | [367082-hamster-hustle.json](./367082-hamster-hustle.json) |
 | Hamster Inn | 297166 | [297166-hamster-inn.json](./297166-hamster-inn.json) |
@@ -3787,6 +3788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Battle | 32343 | [32343-heavenly-battle.json](./32343-heavenly-battle.json) |
 | Heavenly Bodies: Cleanup | 260747 | [260747-heavenly-bodies-cleanup.json](./260747-heavenly-bodies-cleanup.json) |
 | Heavenly Duels | 104869 | [104869-heavenly-duels.json](./104869-heavenly-duels.json) |
+| Heavenly Guardian | 4911 | [4911-heavenly-guardian.json](./4911-heavenly-guardian.json) |
 | Heavenly Guitars | 391226 | [391226-heavenly-guitars.json](./391226-heavenly-guitars.json) |
 | Heavenly Hammer | 173820 | [173820-heavenly-hammer.json](./173820-heavenly-hammer.json) |
 | Heavenly Heroes of Antidomi | 211784 | [211784-heavenly-heroes-of-antidomi.json](./211784-heavenly-heroes-of-antidomi.json) |
@@ -10085,6 +10087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hooked on You: A Dead by Daylight Dating Sim | 202141 | [202141-hooked-on-you-a-dead-by-daylight-dating-sim.json](./202141-hooked-on-you-a-dead-by-daylight-dating-sim.json) |
 | Hooked! | 306595 | [306595-hooked.json](./306595-hooked.json) |
 | Hooked! Again: Real Motion Fishing | 50627 | [50627-hooked-again-real-motion-fishing.json](./50627-hooked-again-real-motion-fishing.json) |
+| Hooked! Real Motion Fishing | 4914 | [4914-hooked-real-motion-fishing.json](./4914-hooked-real-motion-fishing.json) |
 | Hookeye | 417465 | [417465-hookeye.json](./417465-hookeye.json) |
 | Hooking Season | 211192 | [211192-hooking-season.json](./211192-hooking-season.json) |
 | Hooklings | 122590 | [122590-hooklings.json](./122590-hooklings.json) |
@@ -11088,6 +11091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: All Out | 49283 | [49283-hot-wheels-all-out.json](./49283-hot-wheels-all-out.json) |
 | Hot Wheels: Barbie Dream Camper | 262511 | [262511-hot-wheels-barbie-dream-camper.json](./262511-hot-wheels-barbie-dream-camper.json) |
 | Hot Wheels: Bash Arena | 70992 | [70992-hot-wheels-bash-arena.json](./70992-hot-wheels-bash-arena.json) |
+| Hot Wheels: Battle Force 5 | 4915 | [4915-hot-wheels-battle-force-5.json](./4915-hot-wheels-battle-force-5.json) |
 | Hot Wheels: Beat That! | 4916 | [4916-hot-wheels-beat-that.json](./4916-hot-wheels-beat-that.json) |
 | Hot Wheels: Beefed Up Pack | 263068 | [263068-hot-wheels-beefed-up-pack.json](./263068-hot-wheels-beefed-up-pack.json) |
 | Hot Wheels: Burnin' Rubber | 49295 | [49295-hot-wheels-burnin-rubber.json](./49295-hot-wheels-burnin-rubber.json) |
@@ -11111,6 +11115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Skaters Customization Pack | 248419 | [248419-hot-wheels-skaters-customization-pack.json](./248419-hot-wheels-skaters-customization-pack.json) |
 | Hot Wheels: Stunt Track Challenge | 248755 | [248755-hot-wheels-stunt-track-challenge.json](./248755-hot-wheels-stunt-track-challenge.json) |
 | Hot Wheels: Track Attack | 328299 | [328299-hot-wheels-track-attack.json](./328299-hot-wheels-track-attack.json) |
+| Hot Wheels: Track Attack | 4917 | [4917-hot-wheels-track-attack.json](./4917-hot-wheels-track-attack.json) |
 | Hot Wheels: Tropical Wave Customization Pack | 248417 | [248417-hot-wheels-tropical-wave-customization-pack.json](./248417-hot-wheels-tropical-wave-customization-pack.json) |
 | Hot Wheels: Ultimate Racing | 44482 | [44482-hot-wheels-ultimate-racing.json](./44482-hot-wheels-ultimate-racing.json) |
 | Hot Wheels: Unlimited | 335815 | [335815-hot-wheels-unlimited.json](./335815-hot-wheels-unlimited.json) |
