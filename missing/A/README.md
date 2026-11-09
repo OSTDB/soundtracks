@@ -3508,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advance Wars: Days of Ruin | 1694 | [1694-advance-wars-days-of-ruin.json](./1694-advance-wars-days-of-ruin.json) |
 | Advance Wars: Dual Strike | 1693 | [1693-advance-wars-dual-strike.json](./1693-advance-wars-dual-strike.json) |
 | Advance, Fish! | 379476 | [379476-advance-fish.json](./379476-advance-fish.json) |
+| Advanced Art Studio | 39099 | [39099-advanced-art-studio.json](./39099-advanced-art-studio.json) |
 | Advanced Basketball Simulator | 13791 | [13791-advanced-basketball-simulator.json](./13791-advanced-basketball-simulator.json) |
 | Advanced Battlegrounds: The Future of Combat | 73469 | [73469-advanced-battlegrounds-the-future-of-combat.json](./73469-advanced-battlegrounds-the-future-of-combat.json) |
 | Advanced Busterhawk Gley Lancer | 6470 | [6470-advanced-busterhawk-gley-lancer.json](./6470-advanced-busterhawk-gley-lancer.json) |
@@ -7917,6 +7918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almazz | 13799 | [13799-almazz.json](./13799-almazz.json) |
 | Almighty: God Idle Clicker | 132013 | [132013-almighty-god-idle-clicker.json](./132013-almighty-god-idle-clicker.json) |
 | Almighty: Kill Your Gods | 134781 | [134781-almighty-kill-your-gods.json](./134781-almighty-kill-your-gods.json) |
+| Almirante Graf Spee | 39098 | [39098-almirante-graf-spee.json](./39098-almirante-graf-spee.json) |
 | Almistice | 274010 | [274010-almistice.json](./274010-almistice.json) |
 | Almond Ridge | 270753 | [270753-almond-ridge.json](./270753-almond-ridge.json) |
 | Almora Darkosen | 180955 | [180955-almora-darkosen.json](./180955-almora-darkosen.json) |
@@ -8849,6 +8851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amelie | 190744 | [190744-amelie.json](./190744-amelie.json) |
 | Amelie And The Lost Spirit | 296263 | [296263-amelie-and-the-lost-spirit.json](./296263-amelie-and-the-lost-spirit.json) |
 | Amelie Falls Over and Over Again | 336831 | [336831-amelie-falls-over-and-over-again.json](./336831-amelie-falls-over-and-over-again.json) |
+| Amélie Minuit | 39065 | [39065-amelie-minuit.json](./39065-amelie-minuit.json) |
 | Amelie's Cafe | 52397 | [52397-amelies-cafe.json](./52397-amelies-cafe.json) |
 | Amelie's Cafe: Holiday Spirit | 52396 | [52396-amelies-cafe-holiday-spirit.json](./52396-amelies-cafe-holiday-spirit.json) |
 | Amelie's Café: Summer Time | 52398 | [52398-amelies-cafe-summer-time.json](./52398-amelies-cafe-summer-time.json) |
@@ -8995,6 +8998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Soccer | 41806 | [41806-american-soccer.json](./41806-american-soccer.json) |
 | American Speedway | 38524 | [38524-american-speedway.json](./38524-american-speedway.json) |
 | American Success | 289047 | [289047-american-success.json](./289047-american-success.json) |
+| American Tag Team Wrestling | 39074 | [39074-american-tag-team-wrestling.json](./39074-american-tag-team-wrestling.json) |
 | American Tag-Team Wrestling | 11899 | [11899-american-tag-team-wrestling.json](./11899-american-tag-team-wrestling.json) |
 | American Theft 80s | 168610 | [168610-american-theft-80s.json](./168610-american-theft-80s.json) |
 | American Truck | 94398 | [94398-american-truck.json](./94398-american-truck.json) |
@@ -16015,6 +16019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Odyssey - Medusa Edition | 109423 | [109423-assassins-creed-odyssey-medusa-edition.json](./109423-assassins-creed-odyssey-medusa-edition.json) |
 | Assassin's Creed: Odyssey - Spartan Edition | 125126 | [125126-assassins-creed-odyssey-spartan-edition.json](./125126-assassins-creed-odyssey-spartan-edition.json) |
 | Assassin's Creed: Odyssey - Ultimate Edition | 27567 | [27567-assassins-creed-odyssey-ultimate-edition.json](./27567-assassins-creed-odyssey-ultimate-edition.json) |
+| Assassin's Creed: Origins - Dawn of the Creed Legendary Edition | 39047 | [39047-assassins-creed-origins-dawn-of-the-creed-legendary-edition.json](./39047-assassins-creed-origins-dawn-of-the-creed-legendary-edition.json) |
 | Assassin's Creed: Origins - Deluxe Edition | 39034 | [39034-assassins-creed-origins-deluxe-edition.json](./39034-assassins-creed-origins-deluxe-edition.json) |
 | Assassin's Creed: Origins - God's Edition | 39045 | [39045-assassins-creed-origins-gods-edition.json](./39045-assassins-creed-origins-gods-edition.json) |
 | Assassin's Creed: Pirates | 20077 | [20077-assassins-creed-pirates.json](./20077-assassins-creed-pirates.json) |
@@ -17309,6 +17314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athanasia | 202129 | [202129-athanasia.json](./202129-athanasia.json) |
 | Athanasy | 187595 | [187595-athanasy.json](./187595-athanasy.json) |
 | Athanasy + Ceiba Bundle | 284946 | [284946-athanasy-ceiba-bundle.json](./284946-athanasy-ceiba-bundle.json) |
+| Athanor | 39072 | [39072-athanor.json](./39072-athanor.json) |
 | Athar: Echoes of Time | 387657 | [387657-athar-echoes-of-time.json](./387657-athar-echoes-of-time.json) |
 | Athelan Battlegrounds | 377989 | [377989-athelan-battlegrounds.json](./377989-athelan-battlegrounds.json) |
 | Athemore | 184147 | [184147-athemore.json](./184147-athemore.json) |
@@ -18971,6 +18977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axyn Adventure | 325873 | [325873-axyn-adventure.json](./325873-axyn-adventure.json) |
 | Axyos | 17740 | [17740-axyos.json](./17740-axyos.json) |
 | Axyos: Battlecards | 115522 | [115522-axyos-battlecards.json](./115522-axyos-battlecards.json) |
+| Axys: The Last Battle | 39071 | [39071-axys-the-last-battle.json](./39071-axys-the-last-battle.json) |
 | AxySnake | 93184 | [93184-axysnake.json](./93184-axysnake.json) |
 | Axyz | 293648 | [293648-axyz.json](./293648-axyz.json) |
 | Aya | 324963 | [324963-aya.json](./324963-aya.json) |
