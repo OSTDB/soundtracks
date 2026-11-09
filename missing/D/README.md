@@ -6784,6 +6784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Throttle | 152206 | [152206-demon-throttle.json](./152206-demon-throttle.json) |
 | Demon Tomb | 212152 | [212152-demon-tomb.json](./212152-demon-tomb.json) |
 | Demon Tormentor | 244042 | [244042-demon-tormentor.json](./244042-demon-tormentor.json) |
+| Demon Tribe | 63989 | [63989-demon-tribe.json](./63989-demon-tribe.json) |
 | Demon Tuner | 106711 | [106711-demon-tuner.json](./106711-demon-tuner.json) |
 | Demon Turf: Bundle | 203723 | [203723-demon-turf-bundle.json](./203723-demon-turf-bundle.json) |
 | Demon Turf: Neon Splash | 197868 | [197868-demon-turf-neon-splash.json](./197868-demon-turf-neon-splash.json) |
@@ -11136,6 +11137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dispatched | 415504 | [415504-dispatched.json](./415504-dispatched.json) |
 | Dispatcher | 11348 | [11348-dispatcher.json](./11348-dispatcher.json) |
 | Dispel | 272251 | [272251-dispel.json](./272251-dispel.json) |
+| Dispel | 63981 | [63981-dispel.json](./63981-dispel.json) |
 | Dispersal Vectors | 364364 | [364364-dispersal-vectors.json](./364364-dispersal-vectors.json) |
 | Dispersio | 26489 | [26489-dispersio.json](./26489-dispersio.json) |
 | Dispersio 2 | 143652 | [143652-dispersio-2.json](./143652-dispersio-2.json) |
@@ -12745,6 +12747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domo-kun no Card-e: Kyougi - Speed Skate (Domo-kun) | 352799 | [352799-domo-kun-no-card-e-kyougi-speed-skate-domo-kun.json](./352799-domo-kun-no-card-e-kyougi-speed-skate-domo-kun.json) |
 | Domo-kun no Card-e: Winter Pack | 352825 | [352825-domo-kun-no-card-e-winter-pack.json](./352825-domo-kun-no-card-e-winter-pack.json) |
 | Domo-kun no Fushigi Terebi | 6383 | [6383-domo-kun-no-fushigi-terebi.json](./6383-domo-kun-no-fushigi-terebi.json) |
+| Domo: The Journey | 63997 | [63997-domo-the-journey.json](./63997-domo-the-journey.json) |
 | Domovoy | 301478 | [301478-domovoy.json](./301478-domovoy.json) |
 | Domovoy | 316785 | [316785-domovoy.json](./316785-domovoy.json) |
 | DomSim: Therapeutic Domming | 140728 | [140728-domsim-therapeutic-domming.json](./140728-domsim-therapeutic-domming.json) |
@@ -14786,6 +14789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Robotnik's Ring Racers | 238878 | [238878-dr-robotniks-ring-racers.json](./238878-dr-robotniks-ring-racers.json) |
 | Dr. Rudy | 94262 | [94262-dr-rudy.json](./94262-dr-rudy.json) |
 | Dr. Ruth's Computer Game of Good Sex | 69669 | [69669-dr-ruths-computer-game-of-good-sex.json](./69669-dr-ruths-computer-game-of-good-sex.json) |
+| Dr. Sbaitso | 64002 | [64002-dr-sbaitso.json](./64002-dr-sbaitso.json) |
 | Dr. Schplot's Nanobots | 95548 | [95548-dr-schplots-nanobots.json](./95548-dr-schplots-nanobots.json) |
 | Dr. Science quest | 193632 | [193632-dr-science-quest.json](./193632-dr-science-quest.json) |
 | Dr. Seuss Band | 89762 | [89762-dr-seuss-band.json](./89762-dr-seuss-band.json) |
