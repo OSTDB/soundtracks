@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of Anxiety | 413128 | [413128-labyrinth-of-anxiety.json](./413128-labyrinth-of-anxiety.json) |
 | Labyrinth of AO | 84054 | [84054-labyrinth-of-ao.json](./84054-labyrinth-of-ao.json) |
 | Labyrinth of Axarith | 244697 | [244697-labyrinth-of-axarith.json](./244697-labyrinth-of-axarith.json) |
+| Labyrinth of Crete | 25327 | [25327-labyrinth-of-crete.json](./25327-labyrinth-of-crete.json) |
 | Labyrinth of death | 191177 | [191177-labyrinth-of-death.json](./191177-labyrinth-of-death.json) |
 | Labyrinth of Eclipse | 314301 | [314301-labyrinth-of-eclipse.json](./314301-labyrinth-of-eclipse.json) |
 | Labyrinth of Galleria: The Moon Society | 126008 | [126008-labyrinth-of-galleria-the-moon-society.json](./126008-labyrinth-of-galleria-the-moon-society.json) |
@@ -6505,6 +6506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Things Forever | 89132 | [89132-little-things-forever.json](./89132-little-things-forever.json) |
 | Little Things Remastered | 175935 | [175935-little-things-remastered.json](./175935-little-things-remastered.json) |
 | Little Tiger - Mini Kids Games | 104571 | [104571-little-tiger-mini-kids-games.json](./104571-little-tiger-mini-kids-games.json) |
+| Little Tomato: Age of Tomatoes | 25277 | [25277-little-tomato-age-of-tomatoes.json](./25277-little-tomato-age-of-tomatoes.json) |
 | Little Tournament Over Yonder | 67207 | [67207-little-tournament-over-yonder.json](./67207-little-tournament-over-yonder.json) |
 | Little Town Hero | 109459 | [109459-little-town-hero.json](./109459-little-town-hero.json) |
 | Little Town Secrets | 350307 | [350307-little-town-secrets.json](./350307-little-town-secrets.json) |
