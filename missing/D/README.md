@@ -5078,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeathWorm | 234941 | [234941-deathworm.json](./234941-deathworm.json) |
 | Debasing Grounds | 286682 | [286682-debasing-grounds.json](./286682-debasing-grounds.json) |
 | Debate | 296048 | [296048-debate.json](./296048-debate.json) |
+| Debate It! | 51337 | [51337-debate-it.json](./51337-debate-it.json) |
 | Debauchery & Magic | 420588 | [420588-debauchery-and-magic.json](./420588-debauchery-and-magic.json) |
 | Debbie's Diner Derby | 394889 | [394889-debbies-diner-derby.json](./394889-debbies-diner-derby.json) |
 | Deber | 294931 | [294931-deber.json](./294931-deber.json) |
@@ -8778,6 +8779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Craze | 248817 | [248817-diamond-craze.json](./248817-diamond-craze.json) |
 | Diamond Crush 2 | 343975 | [343975-diamond-crush-2.json](./343975-diamond-crush-2.json) |
 | Diamond Dan | 9821 | [9821-diamond-dan.json](./9821-diamond-dan.json) |
+| Diamond Dan and the Towers of Treasure | 51345 | [51345-diamond-dan-and-the-towers-of-treasure.json](./51345-diamond-dan-and-the-towers-of-treasure.json) |
 | Diamond Dash | 72688 | [72688-diamond-dash.json](./72688-diamond-dash.json) |
 | Diamond Dash: Plaid Peril | 276224 | [276224-diamond-dash-plaid-peril.json](./276224-diamond-dash-plaid-peril.json) |
 | Diamond Deeps | 35322 | [35322-diamond-deeps.json](./35322-diamond-deeps.json) |
@@ -9376,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig to the Stars | 113408 | [113408-dig-to-the-stars.json](./113408-dig-to-the-stars.json) |
 | Dig Too Deep | 402553 | [402553-dig-too-deep.json](./402553-dig-too-deep.json) |
 | Dig VR | 299295 | [299295-dig-vr.json](./299295-dig-vr.json) |
+| Dig-N-Rig | 51309 | [51309-dig-n-rig.json](./51309-dig-n-rig.json) |
 | Dig, Craft, Kill | 391547 | [391547-dig-craft-kill.json](./391547-dig-craft-kill.json) |
 | Dig, Dig, Die | 384126 | [384126-dig-dig-die.json](./384126-dig-dig-die.json) |
 | DIG: Deep In Galaxies | 228455 | [228455-dig-deep-in-galaxies.json](./228455-dig-deep-in-galaxies.json) |
