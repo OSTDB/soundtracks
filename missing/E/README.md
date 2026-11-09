@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East Legend | 39219 | [39219-east-legend.json](./39219-east-legend.json) |
 | East Prussia '14 | 59185 | [59185-east-prussia-14.json](./59185-east-prussia-14.json) |
 | East Scarp | 299612 | [299612-east-scarp.json](./299612-east-scarp.json) |
+| East Side Story | 10271 | [10271-east-side-story.json](./10271-east-side-story.json) |
 | East Tower - Akio | 35634 | [35634-east-tower-akio.json](./35634-east-tower-akio.json) |
 | East Tower - Kuon | 35600 | [35600-east-tower-kuon.json](./35600-east-tower-kuon.json) |
 | East Tower - Kurenai | 35601 | [35601-east-tower-kurenai.json](./35601-east-tower-kurenai.json) |
@@ -2941,6 +2942,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Forest | 369767 | [369767-elven-forest.json](./369767-elven-forest.json) |
 | Elven Legacy | 2028 | [2028-elven-legacy.json](./2028-elven-legacy.json) |
 | Elven Legacy Collection | 51764 | [51764-elven-legacy-collection.json](./51764-elven-legacy-collection.json) |
+| Elven Legacy: Magic | 10274 | [10274-elven-legacy-magic.json](./10274-elven-legacy-magic.json) |
+| Elven Legacy: Ranger | 10275 | [10275-elven-legacy-ranger.json](./10275-elven-legacy-ranger.json) |
 | Elven Legend | 29458 | [29458-elven-legend.json](./29458-elven-legend.json) |
 | Elven Legend 2: The Bewitched Tree | 28739 | [28739-elven-legend-2-the-bewitched-tree.json](./28739-elven-legend-2-the-bewitched-tree.json) |
 | Elven Legend 3: The New Menace - Collector's Edition | 416382 | [416382-elven-legend-3-the-new-menace-collectors-edition.json](./416382-elven-legend-3-the-new-menace-collectors-edition.json) |
@@ -4004,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Space 2: Vaulters | 82431 | [82431-endless-space-2-vaulters.json](./82431-endless-space-2-vaulters.json) |
 | Endless Space VIP | 339750 | [339750-endless-space-vip.json](./339750-endless-space-vip.json) |
 | Endless Space: Definitive Edition | 231650 | [231650-endless-space-definitive-edition.json](./231650-endless-space-definitive-edition.json) |
+| Endless Space: Disharmony | 10276 | [10276-endless-space-disharmony.json](./10276-endless-space-disharmony.json) |
 | Endless Space: Emperor Edition | 28083 | [28083-endless-space-emperor-edition.json](./28083-endless-space-emperor-edition.json) |
 | Endless Spaceship | 238687 | [238687-endless-spaceship.json](./238687-endless-spaceship.json) |
 | Endless Stars | 231750 | [231750-endless-stars.json](./231750-endless-stars.json) |
@@ -4496,6 +4500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropic Fracture | 369035 | [369035-entropic-fracture.json](./369035-entropic-fracture.json) |
 | Entropic Shop VR | 82036 | [82036-entropic-shop-vr.json](./82036-entropic-shop-vr.json) |
 | Entropoly | 236738 | [236738-entropoly.json](./236738-entropoly.json) |
+| Entropy | 10277 | [10277-entropy.json](./10277-entropy.json) |
 | Entropy | 188667 | [188667-entropy.json](./188667-entropy.json) |
 | Entropy | 222762 | [222762-entropy.json](./222762-entropy.json) |
 | Entropy | 285026 | [285026-entropy.json](./285026-entropy.json) |
@@ -6714,8 +6719,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis III: Collector's Edition | 52971 | [52971-europa-universalis-iii-collectors-edition.json](./52971-europa-universalis-iii-collectors-edition.json) |
 | Europa Universalis III: Heir to the Throne | 743 | [743-europa-universalis-iii-heir-to-the-throne.json](./743-europa-universalis-iii-heir-to-the-throne.json) |
 | Europa Universalis III: In Nomine | 684 | [684-europa-universalis-iii-in-nomine.json](./684-europa-universalis-iii-in-nomine.json) |
+| Europa Universalis III: Napoleon's Ambition | 10269 | [10269-europa-universalis-iii-napoleons-ambition.json](./10269-europa-universalis-iii-napoleons-ambition.json) |
 | Europa Universalis IV Collection | 52968 | [52968-europa-universalis-iv-collection.json](./52968-europa-universalis-iv-collection.json) |
 | Europa Universalis IV: American Dream | 170118 | [170118-europa-universalis-iv-american-dream.json](./170118-europa-universalis-iv-american-dream.json) |
+| Europa Universalis IV: Art of War | 10282 | [10282-europa-universalis-iv-art-of-war.json](./10282-europa-universalis-iv-art-of-war.json) |
 | Europa Universalis IV: Call-to-Arms Pack | 227864 | [227864-europa-universalis-iv-call-to-arms-pack.json](./227864-europa-universalis-iv-call-to-arms-pack.json) |
 | Europa Universalis IV: Catholic League Unit Pack | 155329 | [155329-europa-universalis-iv-catholic-league-unit-pack.json](./155329-europa-universalis-iv-catholic-league-unit-pack.json) |
 | Europa Universalis IV: Catholic Majors Unit Pack | 227865 | [227865-europa-universalis-iv-catholic-majors-unit-pack.json](./227865-europa-universalis-iv-catholic-majors-unit-pack.json) |
@@ -6735,6 +6742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Digital Extreme Edition | 53009 | [53009-europa-universalis-iv-digital-extreme-edition.json](./53009-europa-universalis-iv-digital-extreme-edition.json) |
 | Europa Universalis IV: Digital Extreme Edition Upgrade Pack | 178157 | [178157-europa-universalis-iv-digital-extreme-edition-upgrade-pack.json](./178157-europa-universalis-iv-digital-extreme-edition-upgrade-pack.json) |
 | Europa Universalis IV: Domination | 240892 | [240892-europa-universalis-iv-domination.json](./240892-europa-universalis-iv-domination.json) |
+| Europa Universalis IV: El Dorado | 10283 | [10283-europa-universalis-iv-el-dorado.json](./10283-europa-universalis-iv-el-dorado.json) |
 | Europa Universalis IV: El Dorado Content Pack | 227343 | [227343-europa-universalis-iv-el-dorado-content-pack.json](./227343-europa-universalis-iv-el-dorado-content-pack.json) |
 | Europa Universalis IV: Emperor | 133911 | [133911-europa-universalis-iv-emperor.json](./133911-europa-universalis-iv-emperor.json) |
 | Europa Universalis IV: Emperor Content Pack | 227344 | [227344-europa-universalis-iv-emperor-content-pack.json](./227344-europa-universalis-iv-emperor-content-pack.json) |
@@ -6775,12 +6783,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Ultimate Sprite Pack | 284902 | [284902-europa-universalis-iv-ultimate-sprite-pack.json](./284902-europa-universalis-iv-ultimate-sprite-pack.json) |
 | Europa Universalis IV: Ultimate Unit Pack | 155309 | [155309-europa-universalis-iv-ultimate-unit-pack.json](./155309-europa-universalis-iv-ultimate-unit-pack.json) |
 | Europa Universalis IV: Utopia Holy Roman Empire Music Pack | 285108 | [285108-europa-universalis-iv-utopia-holy-roman-empire-music-pack.json](./285108-europa-universalis-iv-utopia-holy-roman-empire-music-pack.json) |
+| Europa Universalis IV: Wealth of Nations | 10284 | [10284-europa-universalis-iv-wealth-of-nations.json](./10284-europa-universalis-iv-wealth-of-nations.json) |
 | Europa Universalis IV: Wealth of Nations Collection | 52995 | [52995-europa-universalis-iv-wealth-of-nations-collection.json](./52995-europa-universalis-iv-wealth-of-nations-collection.json) |
 | Europa Universalis IV: Winds of Change | 298306 | [298306-europa-universalis-iv-winds-of-change.json](./298306-europa-universalis-iv-winds-of-change.json) |
 | Europa Universalis V: Fate of the Phoenix | 408150 | [408150-europa-universalis-v-fate-of-the-phoenix.json](./408150-europa-universalis-v-fate-of-the-phoenix.json) |
 | Europa Universalis: Crown of the North | 24092 | [24092-europa-universalis-crown-of-the-north.json](./24092-europa-universalis-crown-of-the-north.json) |
 | Europa Universalis: Rome | 10285 | [10285-europa-universalis-rome.json](./10285-europa-universalis-rome.json) |
 | Europa Universalis: Rome - Gold Edition | 27829 | [27829-europa-universalis-rome-gold-edition.json](./27829-europa-universalis-rome-gold-edition.json) |
+| Europa Universalis: Rome - Vae Victis | 10286 | [10286-europa-universalis-rome-vae-victis.json](./10286-europa-universalis-rome-vae-victis.json) |
 | Europe 1300 | 9670 | [9670-europe-1300.json](./9670-europe-1300.json) |
 | Europe 2041: Resistance | 297094 | [297094-europe-2041-resistance.json](./297094-europe-2041-resistance.json) |
 | Europe Ablaze | 25978 | [25978-europe-ablaze.json](./25978-europe-ablaze.json) |
