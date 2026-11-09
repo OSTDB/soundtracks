@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daisy Chain | 104137 | [104137-daisy-chain.json](./104137-daisy-chain.json) |
 | Daisy Chain | 298311 | [298311-daisy-chain.json](./298311-daisy-chain.json) |
 | Daisy Flies to the Moon | 160237 | [160237-daisy-flies-to-the-moon.json](./160237-daisy-flies-to-the-moon.json) |
+| Daisy Fuentes Pilates | 6657 | [6657-daisy-fuentes-pilates.json](./6657-daisy-fuentes-pilates.json) |
 | Daisy Grotto | 264647 | [264647-daisy-grotto.json](./264647-daisy-grotto.json) |
 | Daisy Mae's Alien Buffet | 78422 | [78422-daisy-maes-alien-buffet.json](./78422-daisy-maes-alien-buffet.json) |
 | Daisy The Swimmer | 296882 | [296882-daisy-the-swimmer.json](./296882-daisy-the-swimmer.json) |
@@ -826,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution: Hello Kitty | 207264 | [207264-dance-dance-revolution-hello-kitty.json](./207264-dance-dance-revolution-hello-kitty.json) |
 | Dance Dance Revolution: Hottest Party 2 | 50719 | [50719-dance-dance-revolution-hottest-party-2.json](./50719-dance-dance-revolution-hottest-party-2.json) |
 | Dance Dance Revolution: Hottest Party 4 | 50733 | [50733-dance-dance-revolution-hottest-party-4.json](./50733-dance-dance-revolution-hottest-party-4.json) |
+| Dance Dance Revolution: Winx Club | 6659 | [6659-dance-dance-revolution-winx-club.json](./6659-dance-dance-revolution-winx-club.json) |
 | Dance Dash | 258593 | [258593-dance-dash.json](./258593-dance-dash.json) |
 | Dance DeLight | 284589 | [284589-dance-delight.json](./284589-dance-delight.json) |
 | Dance Eden | 301054 | [301054-dance-eden.json](./301054-dance-eden.json) |
@@ -7296,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Dativ ist dem Genitiv sein Tod | 269665 | [269665-der-dativ-ist-dem-genitiv-sein-tod.json](./269665-der-dativ-ist-dem-genitiv-sein-tod.json) |
 | Der einzig wahre Auserwählte | 83205 | [83205-der-einzig-wahre-auserwahlte.json](./83205-der-einzig-wahre-auserwahlte.json) |
 | Der flinke Architekt | 91870 | [91870-der-flinke-architekt.json](./91870-der-flinke-architekt.json) |
+| Der Fluch der Osterinsel | 6664 | [6664-der-fluch-der-osterinsel.json](./6664-der-fluch-der-osterinsel.json) |
 | Der Geisterjäger: The Ghost Hunter | 165924 | [165924-der-geisterjager-the-ghost-hunter.json](./165924-der-geisterjager-the-ghost-hunter.json) |
 | Der Geistermeister | 369648 | [369648-der-geistermeister.json](./369648-der-geistermeister.json) |
 | Der Gesundheits Coach: Wohlfuhlen jeden Tag | 269579 | [269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json](./269579-der-gesundheits-coach-wohlfuhlen-jeden-tag.json) |
@@ -7331,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Champion Club | 386250 | [386250-derby-champion-club.json](./386250-derby-champion-club.json) |
 | Derby Creek | 414024 | [414024-derby-creek.json](./414024-derby-creek.json) |
 | Derby Day | 356288 | [356288-derby-day.json](./356288-derby-day.json) |
+| Derby Dogs | 6663 | [6663-derby-dogs.json](./6663-derby-dogs.json) |
 | Derby Dynasty: Horse Racing RPG | 415194 | [415194-derby-dynasty-horse-racing-rpg.json](./415194-derby-dynasty-horse-racing-rpg.json) |
 | Derby Heroines: Run, Bet, Win! | 412502 | [412502-derby-heroines-run-bet-win.json](./412502-derby-heroines-run-bet-win.json) |
 | Derby Jockey 2 | 38137 | [38137-derby-jockey-2.json](./38137-derby-jockey-2.json) |
@@ -7572,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Runners | 130679 | [130679-desert-runners.json](./130679-desert-runners.json) |
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
 | Desert Skies | 116767 | [116767-desert-skies.json](./116767-desert-skies.json) |
+| Desert Speedtrap Starring Road Runner & Wile E. Coyote | 8098 | [8098-desert-speedtrap-starring-road-runner-and-wile-e-coyote.json](./8098-desert-speedtrap-starring-road-runner-and-wile-e-coyote.json) |
 | Desert Spirit Grave | 253978 | [253978-desert-spirit-grave.json](./253978-desert-spirit-grave.json) |
 | Desert Storm | 270687 | [270687-desert-storm.json](./270687-desert-storm.json) |
 | Desert Storm | 287500 | [287500-desert-storm.json](./287500-desert-storm.json) |
