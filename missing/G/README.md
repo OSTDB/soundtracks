@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia Maker | 373599 | [373599-gaia-maker.json](./373599-gaia-maker.json) |
 | Gaia Master | 59153 | [59153-gaia-master.json](./59153-gaia-master.json) |
 | Gaia Master Duel Card Attacks | 79384 | [79384-gaia-master-duel-card-attacks.json](./79384-gaia-master-duel-card-attacks.json) |
+| Gaia no Monshou | 42063 | [42063-gaia-no-monshou.json](./42063-gaia-no-monshou.json) |
 | Gaia Odyssey | 202898 | [202898-gaia-odyssey.json](./202898-gaia-odyssey.json) |
 | Gaia Online | 125884 | [125884-gaia-online.json](./125884-gaia-online.json) |
 | Gaia Project | 150247 | [150247-gaia-project.json](./150247-gaia-project.json) |
@@ -763,6 +764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaga | 239156 | [239156-galaga.json](./239156-galaga.json) |
 | Galaga | 254287 | [254287-galaga.json](./254287-galaga.json) |
 | Galaga '88 | 15535 | [15535-galaga-88.json](./15535-galaga-88.json) |
+| Galaga '90 | 42123 | [42123-galaga-90.json](./42123-galaga-90.json) |
 | Galaga '91 | 218364 | [218364-galaga-91.json](./218364-galaga-91.json) |
 | Galaga & Galaxian DX | 280708 | [280708-galaga-and-galaxian-dx.json](./280708-galaga-and-galaxian-dx.json) |
 | Galaga 2000 | 218365 | [218365-galaga-2000.json](./218365-galaga-2000.json) |
@@ -3133,6 +3135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genix Family | 38654 | [38654-genix-family.json](./38654-genix-family.json) |
 | Genji Koi Emaki | 130010 | [130010-genji-koi-emaki.json](./130010-genji-koi-emaki.json) |
 | Genji Reincarnation: The Seven Mysteries of Shirahata High | 391540 | [391540-genji-reincarnation-the-seven-mysteries-of-shirahata-high.json](./391540-genji-reincarnation-the-seven-mysteries-of-shirahata-high.json) |
+| Genji Tsuushin Agedama | 42073 | [42073-genji-tsuushin-agedama.json](./42073-genji-tsuushin-agedama.json) |
 | Genji: Dawn of the Samurai | 14407 | [14407-genji-dawn-of-the-samurai.json](./14407-genji-dawn-of-the-samurai.json) |
 | Genji: Days of the Blade | 7315 | [7315-genji-days-of-the-blade.json](./7315-genji-days-of-the-blade.json) |
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
