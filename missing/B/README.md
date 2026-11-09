@@ -7644,6 +7644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Brother: The Game | 139906 | [139906-big-brother-the-game.json](./139906-big-brother-the-game.json) |
 | Big Brother: The Game | 66035 | [66035-big-brother-the-game.json](./66035-big-brother-the-game.json) |
 | Big Buck Deer Hunting | 101469 | [101469-big-buck-deer-hunting.json](./101469-big-buck-deer-hunting.json) |
+| Big Buck HD | 63988 | [63988-big-buck-hd.json](./63988-big-buck-hd.json) |
 | Big Buck Hunter | 263652 | [263652-big-buck-hunter.json](./263652-big-buck-hunter.json) |
 | Big Buck Hunter Arcade | 33191 | [33191-big-buck-hunter-arcade.json](./33191-big-buck-hunter-arcade.json) |
 | Big Buck Hunter Arcade: Elk Adventure Pack | 226810 | [226810-big-buck-hunter-arcade-elk-adventure-pack.json](./226810-big-buck-hunter-arcade-elk-adventure-pack.json) |
@@ -12759,6 +12760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boll Deluxe | 134084 | [134084-boll-deluxe.json](./134084-boll-deluxe.json) |
 | Boll Tower | 344695 | [344695-boll-tower.json](./344695-boll-tower.json) |
 | Boll's Journey | 365065 | [365065-bolls-journey.json](./365065-bolls-journey.json) |
+| Bollywood Wannabe | 63970 | [63970-bollywood-wannabe.json](./63970-bollywood-wannabe.json) |
 | Bolmn | 401373 | [401373-bolmn.json](./401373-bolmn.json) |
 | Bolo | 21916 | [21916-bolo.json](./21916-bolo.json) |
 | Bolo | 307651 | [307651-bolo.json](./307651-bolo.json) |
@@ -14135,10 +14137,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash IV: The Game | 60874 | [60874-boulder-dash-iv-the-game.json](./60874-boulder-dash-iv-the-game.json) |
 | Boulder Dash Part 2 | 40026 | [40026-boulder-dash-part-2.json](./40026-boulder-dash-part-2.json) |
 | Boulder Dash UX | 41180 | [41180-boulder-dash-ux.json](./41180-boulder-dash-ux.json) |
+| Boulder Dash XMAS 2002 | 63967 | [63967-boulder-dash-xmas-2002.json](./63967-boulder-dash-xmas-2002.json) |
 | Boulder Dash-XL | 65854 | [65854-boulder-dash-xl.json](./65854-boulder-dash-xl.json) |
 | Boulder Dash-XL 3D | 47624 | [47624-boulder-dash-xl-3d.json](./47624-boulder-dash-xl-3d.json) |
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
+| Boulder Dash: Pirate's Quest | 63971 | [63971-boulder-dash-pirates-quest.json](./63971-boulder-dash-pirates-quest.json) |
+| Boulder Dash: The Collection | 63973 | [63973-boulder-dash-the-collection.json](./63973-boulder-dash-the-collection.json) |
+| Boulder Dash: Treasure Pleasure | 63968 | [63968-boulder-dash-treasure-pleasure.json](./63968-boulder-dash-treasure-pleasure.json) |
 | Boulder Dash: Ultimate Collection | 178765 | [178765-boulder-dash-ultimate-collection.json](./178765-boulder-dash-ultimate-collection.json) |
 | Boulder Escape | 236168 | [236168-boulder-escape.json](./236168-boulder-escape.json) |
 | Boulder Island | 205862 | [205862-boulder-island.json](./205862-boulder-island.json) |
