@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2507,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Groom and Glam Pups | 258864 | [258864-barbie-groom-and-glam-pups.json](./258864-barbie-groom-and-glam-pups.json) |
 | Barbie: Groom and Glam Pups | 258865 | [258865-barbie-groom-and-glam-pups.json](./258865-barbie-groom-and-glam-pups.json) |
 | Barbie: Groom and Glam Pups | 3316 | [3316-barbie-groom-and-glam-pups.json](./3316-barbie-groom-and-glam-pups.json) |
+| Barbie: Groovy Games | 67729 | [67729-barbie-groovy-games.json](./67729-barbie-groovy-games.json) |
 | Barbie: Horse Ride & Rescue | 398424 | [398424-barbie-horse-ride-and-rescue.json](./398424-barbie-horse-ride-and-rescue.json) |
 | Barbie: Horse Trails | 359887 | [359887-barbie-horse-trails.json](./359887-barbie-horse-trails.json) |
 | Barbie: Jet, Set & Style! | 17450 | [17450-barbie-jet-set-and-style.json](./17450-barbie-jet-set-and-style.json) |
