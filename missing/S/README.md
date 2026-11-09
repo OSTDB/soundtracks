@@ -20478,7 +20478,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space I | 78821 | [78821-space-i.json](./78821-space-i.json) |
 | Space II | 84202 | [84202-space-ii.json](./84202-space-ii.json) |
 | Space Impact | 282457 | [282457-space-impact.json](./282457-space-impact.json) |
+| Space Impact 2 | 10209 | [10209-space-impact-2.json](./10209-space-impact-2.json) |
+| Space Impact 303 | 10211 | [10211-space-impact-303.json](./10211-space-impact-303.json) |
+| Space Impact Evolution | 10212 | [10212-space-impact-evolution.json](./10212-space-impact-evolution.json) |
+| Space Impact Evolution X | 10213 | [10213-space-impact-evolution-x.json](./10213-space-impact-evolution-x.json) |
 | Space Impact Glitch | 29762 | [29762-space-impact-glitch.json](./29762-space-impact-glitch.json) |
+| Space Impact Light | 10214 | [10214-space-impact-light.json](./10214-space-impact-light.json) |
+| Space Impact: Kappa Base | 10215 | [10215-space-impact-kappa-base.json](./10215-space-impact-kappa-base.json) |
+| Space Impact: Meteor Shield | 10216 | [10216-space-impact-meteor-shield.json](./10216-space-impact-meteor-shield.json) |
+| Space Impact+ | 10210 | [10210-space-impact.json](./10210-space-impact.json) |
 | Space Imperia 4X | 391570 | [391570-space-imperia-4x.json](./391570-space-imperia-4x.json) |
 | Space Impossible | 34246 | [34246-space-impossible.json](./34246-space-impossible.json) |
 | Space Inc | 190878 | [190878-space-inc.json](./190878-space-inc.json) |
@@ -25773,6 +25781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Republic Squadron | 220265 | [220265-star-wars-republic-squadron.json](./220265-star-wars-republic-squadron.json) |
 | Star Wars: Return of the Jedi | 12842 | [12842-star-wars-return-of-the-jedi.json](./12842-star-wars-return-of-the-jedi.json) |
 | Star Wars: Return of the Jedi - Death Star Battle | 10204 | [10204-star-wars-return-of-the-jedi-death-star-battle.json](./10204-star-wars-return-of-the-jedi-death-star-battle.json) |
+| Star Wars: Return of the Jedi - Ewok Adventure | 10205 | [10205-star-wars-return-of-the-jedi-ewok-adventure.json](./10205-star-wars-return-of-the-jedi-ewok-adventure.json) |
 | Star Wars: Revenge of the Sith | 220263 | [220263-star-wars-revenge-of-the-sith.json](./220263-star-wars-revenge-of-the-sith.json) |
 | Star Wars: Rivals | 39751 | [39751-star-wars-rivals.json](./39751-star-wars-rivals.json) |
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
@@ -26161,6 +26170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate SG-1: Unleashed - Episode 1 | 1984 | [1984-stargate-sg-1-unleashed-episode-1.json](./1984-stargate-sg-1-unleashed-episode-1.json) |
 | Stargate SG-1: Unleashed - Episode 2 | 308352 | [308352-stargate-sg-1-unleashed-episode-2.json](./308352-stargate-sg-1-unleashed-episode-2.json) |
 | Stargate Worlds | 14534 | [14534-stargate-worlds.json](./14534-stargate-worlds.json) |
+| Stargate: Resistance | 10197 | [10197-stargate-resistance.json](./10197-stargate-resistance.json) |
 | Stargate: TC SG-1 Missions | 259427 | [259427-stargate-tc-sg-1-missions.json](./259427-stargate-tc-sg-1-missions.json) |
 | Stargate: Timekeepers | 147164 | [147164-stargate-timekeepers.json](./147164-stargate-timekeepers.json) |
 | StarGather | 98487 | [98487-stargather.json](./98487-stargather.json) |
