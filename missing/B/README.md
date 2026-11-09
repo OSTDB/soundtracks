@@ -741,6 +741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backsteine | 421412 | [421412-backsteine.json](./421412-backsteine.json) |
 | Backstory | 406102 | [406102-backstory.json](./406102-backstory.json) |
 | Backstreet Billiards | 94359 | [94359-backstreet-billiards.json](./94359-backstreet-billiards.json) |
+| Backstreet Boys: Puzzles In Motion | 73920 | [73920-backstreet-boys-puzzles-in-motion.json](./73920-backstreet-boys-puzzles-in-motion.json) |
 | Backstreet Warriors | 351158 | [351158-backstreet-warriors.json](./351158-backstreet-warriors.json) |
 | Backstreets of the Mind | 18152 | [18152-backstreets-of-the-mind.json](./18152-backstreets-of-the-mind.json) |
 | Backswamp | 258632 | [258632-backswamp.json](./258632-backswamp.json) |
