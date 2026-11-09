@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raining Blood: Hellfire | 219491 | [219491-raining-blood-hellfire.json](./219491-raining-blood-hellfire.json) |
 | Raining Cats and Dogs | 180357 | [180357-raining-cats-and-dogs.json](./180357-raining-cats-and-dogs.json) |
 | Raining City: Millions Recollections | 305310 | [305310-raining-city-millions-recollections.json](./305310-raining-city-millions-recollections.json) |
+| Raining Coins | 76108 | [76108-raining-coins.json](./76108-raining-coins.json) |
 | Raining Lead | 400410 | [400410-raining-lead.json](./400410-raining-lead.json) |
 | Rainmaker | 355467 | [355467-rainmaker.json](./355467-rainmaker.json) |
 | Rainmaker | 397612 | [397612-rainmaker.json](./397612-rainmaker.json) |
@@ -2316,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravendawn | 140863 | [140863-ravendawn.json](./140863-ravendawn.json) |
 | Ravenfall | 138421 | [138421-ravenfall.json](./138421-ravenfall.json) |
 | Ravenfield | 26481 | [26481-ravenfield.json](./26481-ravenfield.json) |
+| Ravengers | 76079 | [76079-ravengers.json](./76079-ravengers.json) |
 | Ravengrave: Iron Bonds | 335113 | [335113-ravengrave-iron-bonds.json](./335113-ravengrave-iron-bonds.json) |
 | Ravenhaul | 249470 | [249470-ravenhaul.json](./249470-ravenhaul.json) |
 | RavenHeart Hospital: A Medical Visual Novel | 165009 | [165009-ravenheart-hospital-a-medical-visual-novel.json](./165009-ravenheart-hospital-a-medical-visual-novel.json) |
@@ -9308,6 +9310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot War Mars Invasion | 338482 | [338482-robot-war-mars-invasion.json](./338482-robot-war-mars-invasion.json) |
 | Robot Warfare | 109205 | [109205-robot-warfare.json](./109205-robot-warfare.json) |
 | Robot Warlords | 72937 | [72937-robot-warlords.json](./72937-robot-warlords.json) |
+| Robot Warriors | 76267 | [76267-robot-warriors.json](./76267-robot-warriors.json) |
 | Robot Wars | 86212 | [86212-robot-wars.json](./86212-robot-wars.json) |
 | Robot Wars Game | 95326 | [95326-robot-wars-game.json](./95326-robot-wars-game.json) |
 | Robot Wars: Advanced Destruction | 6562 | [6562-robot-wars-advanced-destruction.json](./6562-robot-wars-advanced-destruction.json) |
@@ -12186,6 +12189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RubyDung | 262083 | [262083-rubydung.json](./262083-rubydung.json) |
 | Rucida's Dream | 202328 | [202328-rucidas-dream.json](./202328-rucidas-dream.json) |
 | Ruck | 232422 | [232422-ruck.json](./232422-ruck.json) |
+| Ruckball | 76123 | [76123-ruckball.json](./76123-ruckball.json) |
 | Rückblende | 81193 | [81193-ruckblende.json](./81193-ruckblende.json) |
 | Ruckingenur | 146499 | [146499-ruckingenur.json](./146499-ruckingenur.json) |
 | Ruckingenur CE | 401778 | [401778-ruckingenur-ce.json](./401778-ruckingenur-ce.json) |
