@@ -4666,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSwarm: Field of Honor | 67707 | [67707-battleswarm-field-of-honor.json](./67707-battleswarm-field-of-honor.json) |
 | BattleSweeper | 92617 | [92617-battlesweeper.json](./92617-battlesweeper.json) |
 | BattleTabs | 140591 | [140591-battletabs.json](./140591-battletabs.json) |
+| Battletank LOBA | 36052 | [36052-battletank-loba.json](./36052-battletank-loba.json) |
 | Battletank: L.O.B.A. | 52635 | [52635-battletank-l-o-b-a.json](./52635-battletank-l-o-b-a.json) |
 | BattleTanks | 125876 | [125876-battletanks.json](./125876-battletanks.json) |
 | BattleTanks: Animal Wars | 298368 | [298368-battletanks-animal-wars.json](./298368-battletanks-animal-wars.json) |
@@ -10130,6 +10131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastboard: Casso | 203907 | [203907-blastboard-casso.json](./203907-blastboard-casso.json) |
 | Blasted | 46862 | [46862-blasted.json](./46862-blasted.json) |
 | Blasted Dice | 325920 | [325920-blasted-dice.json](./325920-blasted-dice.json) |
+| Blasted Fortress | 36029 | [36029-blasted-fortress.json](./36029-blasted-fortress.json) |
 | Blasted GutZ | 391619 | [391619-blasted-gutz.json](./391619-blasted-gutz.json) |
 | Blasted Road Terror | 34658 | [34658-blasted-road-terror.json](./34658-blasted-road-terror.json) |
 | Blasten!! | 161408 | [161408-blasten.json](./161408-blasten.json) |
@@ -13998,6 +14000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borzoi | 333839 | [333839-borzoi.json](./333839-borzoi.json) |
 | Borzoi Adventure | 284783 | [284783-borzoi-adventure.json](./284783-borzoi-adventure.json) |
 | Bos Wars | 153760 | [153760-bos-wars.json](./153760-bos-wars.json) |
+| Bosch's Damnation | 36095 | [36095-boschs-damnation.json](./36095-boschs-damnation.json) |
 | Bosconian '87 | 13425 | [13425-bosconian-87.json](./13425-bosconian-87.json) |
 | Bosconian in 3-D | 378436 | [378436-bosconian-in-3-d.json](./378436-bosconian-in-3-d.json) |
 | Bosei Kanojo: Shikyuu Kikan-hen | 194638 | [194638-bosei-kanojo-shikyuu-kikan-hen.json](./194638-bosei-kanojo-shikyuu-kikan-hen.json) |
@@ -18217,6 +18220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Adventure | 147918 | [147918-bunny-adventure.json](./147918-bunny-adventure.json) |
 | Bunny Adventure | 86397 | [86397-bunny-adventure.json](./86397-bunny-adventure.json) |
 | Bunny Alice in Wonderland | 302913 | [302913-bunny-alice-in-wonderland.json](./302913-bunny-alice-in-wonderland.json) |
+| Bunny Bash | 35973 | [35973-bunny-bash.json](./35973-bunny-bash.json) |
 | Bunny Bastion | 419379 | [419379-bunny-bastion.json](./419379-bunny-bastion.json) |
 | Bunny Battle Arena | 103763 | [103763-bunny-battle-arena.json](./103763-bunny-battle-arena.json) |
 | Bunny Battle Nemesis | 255612 | [255612-bunny-battle-nemesis.json](./255612-bunny-battle-nemesis.json) |
@@ -18944,6 +18948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busy Sweets Factory | 44499 | [44499-busy-sweets-factory.json](./44499-busy-sweets-factory.json) |
 | Busy With Holes | 365561 | [365561-busy-with-holes.json](./365561-busy-with-holes.json) |
 | But That Was [Yesterday] | 203353 | [203353-but-that-was-yesterday.json](./203353-but-that-was-yesterday.json) |
+| But to Paint a Universe | 36080 | [36080-but-to-paint-a-universe.json](./36080-but-to-paint-a-universe.json) |
 | But to Paint a Universe Deluxe | 52698 | [52698-but-to-paint-a-universe-deluxe.json](./52698-but-to-paint-a-universe-deluxe.json) |
 | But Why Penguin? | 389515 | [389515-but-why-penguin.json](./389515-but-why-penguin.json) |
 | But Why? | 391821 | [391821-but-why.json](./391821-but-why.json) |
