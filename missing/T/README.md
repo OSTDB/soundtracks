@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talented | 260636 | [260636-talented.json](./260636-talented.json) |
 | Talentless. | 229656 | [229656-talentless.json](./229656-talentless.json) |
 | Talents | 248320 | [248320-talents.json](./248320-talents.json) |
+| Tales | 25303 | [25303-tales.json](./25303-tales.json) |
 | Tales (Tentative Title) | 86373 | [86373-tales-tentative-title.json](./86373-tales-tentative-title.json) |
 | Tales & Dragons: Merge Puzzle | 254178 | [254178-tales-and-dragons-merge-puzzle.json](./254178-tales-and-dragons-merge-puzzle.json) |
 | Tales & Tactics | 244842 | [244842-tales-and-tactics.json](./244842-tales-and-tactics.json) |
@@ -2657,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tartarus | 29147 | [29147-tartarus.json](./29147-tartarus.json) |
 | Tartarus Longo Itinere | 238656 | [238656-tartarus-longo-itinere.json](./238656-tartarus-longo-itinere.json) |
 | Tarthenia | 171788 | [171788-tarthenia.json](./171788-tarthenia.json) |
+| Tarturian | 25325 | [25325-tarturian.json](./25325-tarturian.json) |
 | Taruko Deluxe | 109948 | [109948-taruko-deluxe.json](./109948-taruko-deluxe.json) |
 | Tarutobi | 371917 | [371917-tarutobi.json](./371917-tarutobi.json) |
 | Tarvos Desolation | 345044 | [345044-tarvos-desolation.json](./345044-tarvos-desolation.json) |
@@ -2868,6 +2870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavu | 276823 | [276823-tavu.json](./276823-tavu.json) |
 | Tavuti | 290640 | [290640-tavuti.json](./290640-tavuti.json) |
 | Tawako The Forest Hedgehog | 207188 | [207188-tawako-the-forest-hedgehog.json](./207188-tawako-the-forest-hedgehog.json) |
+| Tawala's Last Redoubt | 25346 | [25346-tawalas-last-redoubt.json](./25346-tawalas-last-redoubt.json) |
 | Tawamu i-call | 267173 | [267173-tawamu-i-call.json](./267173-tawamu-i-call.json) |
 | Tawara | 97809 | [97809-tawara.json](./97809-tawara.json) |
 | Tawawa Oku-san x Happening Gym: Mucchiri Body to Sukebe na Exercise | 97418 | [97418-tawawa-oku-san-x-happening-gym-mucchiri-body-to-sukebe-na-exercise.json](./97418-tawawa-oku-san-x-happening-gym-mucchiri-body-to-sukebe-na-exercise.json) |
@@ -4111,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenebra | 360014 | [360014-tenebra.json](./360014-tenebra.json) |
 | Tenebra 2 | 307564 | [307564-tenebra-2.json](./307564-tenebra-2.json) |
 | Tenebrae | 188876 | [188876-tenebrae.json](./188876-tenebrae.json) |
+| Tenebrae: Twilight of the Gods | 25305 | [25305-tenebrae-twilight-of-the-gods.json](./25305-tenebrae-twilight-of-the-gods.json) |
 | Tenebrarium | 408272 | [408272-tenebrarium.json](./408272-tenebrarium.json) |
 | Tenebrarium | 417965 | [417965-tenebrarium.json](./417965-tenebrarium.json) |
 | Tenebrea | 372096 | [372096-tenebrea.json](./372096-tenebrea.json) |
@@ -5039,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetrachroma | 298637 | [298637-tetrachroma.json](./298637-tetrachroma.json) |
 | Tetrack | 306889 | [306889-tetrack.json](./306889-tetrack.json) |
 | Tetracosm | 151585 | [151585-tetracosm.json](./151585-tetracosm.json) |
+| TetraCube | 25319 | [25319-tetracube.json](./25319-tetracube.json) |
 | Tetrad | 382526 | [382526-tetrad.json](./382526-tetrad.json) |
 | Tetradecagon | 32404 | [32404-tetradecagon.json](./32404-tetradecagon.json) |
 | Tetradome | 333872 | [333872-tetradome.json](./333872-tetradome.json) |
@@ -8574,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Descent | 278996 | [278996-the-descent.json](./278996-the-descent.json) |
 | The Descent of King Hesper | 413412 | [413412-the-descent-of-king-hesper.json](./413412-the-descent-of-king-hesper.json) |
 | The Descent of the Serpent | 230178 | [230178-the-descent-of-the-serpent.json](./230178-the-descent-of-the-serpent.json) |
+| The Desecration | 25330 | [25330-the-desecration.json](./25330-the-desecration.json) |
 | The Desert's Rose | 109710 | [109710-the-deserts-rose.json](./109710-the-deserts-rose.json) |
 | The Design | 185752 | [185752-the-design.json](./185752-the-design.json) |
 | The Designer's Curse | 120971 | [120971-the-designers-curse.json](./120971-the-designers-curse.json) |
@@ -11686,6 +11692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island | 287239 | [287239-the-island.json](./287239-the-island.json) |
 | The Island - Ethereal | 58833 | [58833-the-island-ethereal.json](./58833-the-island-ethereal.json) |
 | The Island 2 | 274189 | [274189-the-island-2.json](./274189-the-island-2.json) |
+| The Island Castaway | 25349 | [25349-the-island-castaway.json](./25349-the-island-castaway.json) |
 | The Island Castaway 2 | 89547 | [89547-the-island-castaway-2.json](./89547-the-island-castaway-2.json) |
 | The Island Castaway: Lost World | 107264 | [107264-the-island-castaway-lost-world.json](./107264-the-island-castaway-lost-world.json) |
 | The Island of Bad Women | 360082 | [360082-the-island-of-bad-women.json](./360082-the-island-of-bad-women.json) |
@@ -16464,6 +16471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sailor’s Guide to Game Design | 263140 | [263140-the-sailor-s-guide-to-game-design.json](./263140-the-sailor-s-guide-to-game-design.json) |
 | The Saint | 387384 | [387384-the-saint.json](./387384-the-saint.json) |
 | The Saint Wife’s Newlywed Trials | 376560 | [376560-the-saint-wife-s-newlywed-trials.json](./376560-the-saint-wife-s-newlywed-trials.json) |
+| The Saint: Abyss of Despair | 25477 | [25477-the-saint-abyss-of-despair.json](./25477-the-saint-abyss-of-despair.json) |
 | The Saint's Tomb | 132052 | [132052-the-saints-tomb.json](./132052-the-saints-tomb.json) |
 | The Saiyuki Saruden | 59277 | [59277-the-saiyuki-saruden.json](./59277-the-saiyuki-saruden.json) |
 | The Sakabashira Game | 376165 | [376165-the-sakabashira-game.json](./376165-the-sakabashira-game.json) |
@@ -16734,6 +16742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Serpent | 234184 | [234184-the-serpent.json](./234184-the-serpent.json) |
 | The Serpent and the Crow | 352473 | [352473-the-serpent-and-the-crow.json](./352473-the-serpent-and-the-crow.json) |
 | The Serpent of Isis | 206657 | [206657-the-serpent-of-isis.json](./206657-the-serpent-of-isis.json) |
+| The Serpent's Star | 25328 | [25328-the-serpents-star.json](./25328-the-serpents-star.json) |
 | The Server | 405527 | [405527-the-server.json](./405527-the-server.json) |
 | The Servers Are Shutting Down in 24 Hours but My Pull Rate's Been Set to 0.0001%?! | 382984 | [382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json](./382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json) |
 | The Settlements | 259430 | [259430-the-settlements.json](./259430-the-settlements.json) |
@@ -21026,6 +21035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
 | Thrax Lair | 23235 | [23235-thrax-lair.json](./23235-thrax-lair.json) |
 | Thread | 201455 | [201455-thread.json](./201455-thread.json) |
+| Thread | 25323 | [25323-thread.json](./25323-thread.json) |
 | thread and Needle | 301922 | [301922-thread-and-needle.json](./301922-thread-and-needle.json) |
 | Thread Fred | 149258 | [149258-thread-fred.json](./149258-thread-fred.json) |
 | Threadbare | 364664 | [364664-threadbare.json](./364664-threadbare.json) |
@@ -21126,6 +21136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Mazeketeers | 192869 | [192869-three-mazeketeers.json](./192869-three-mazeketeers.json) |
 | Three Men's Morris | 384169 | [384169-three-mens-morris.json](./384169-three-mens-morris.json) |
 | Three Methods to Unseat a Fairy Monarch | 360144 | [360144-three-methods-to-unseat-a-fairy-monarch.json](./360144-three-methods-to-unseat-a-fairy-monarch.json) |
+| Three Mile Island | 25297 | [25297-three-mile-island.json](./25297-three-mile-island.json) |
 | Three Minutes to Eight | 244610 | [244610-three-minutes-to-eight.json](./244610-three-minutes-to-eight.json) |
 | Three Minutes With Your Dog | 264453 | [264453-three-minutes-with-your-dog.json](./264453-three-minutes-with-your-dog.json) |
 | Three Misses Confectionery | 398455 | [398455-three-misses-confectionery.json](./398455-three-misses-confectionery.json) |
@@ -28603,6 +28614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track & Field: Running Type | 218294 | [218294-track-and-field-running-type.json](./218294-track-and-field-running-type.json) |
 | Track & Field: Throwing Type | 218293 | [218293-track-and-field-throwing-type.json](./218293-track-and-field-throwing-type.json) |
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
+| Track Attack! | 25322 | [25322-track-attack.json](./25322-track-attack.json) |
 | Track Craft | 318717 | [318717-track-craft.json](./318717-track-craft.json) |
 | Track Lab VR | 111831 | [111831-track-lab-vr.json](./111831-track-lab-vr.json) |
 | Track Masters Pro | 338953 | [338953-track-masters-pro.json](./338953-track-masters-pro.json) |
@@ -31826,6 +31838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Fusion: Empire of the Sky | 53001 | [53001-trials-fusion-empire-of-the-sky.json](./53001-trials-fusion-empire-of-the-sky.json) |
 | Trials Fusion: Fault One Zero | 165422 | [165422-trials-fusion-fault-one-zero.json](./165422-trials-fusion-fault-one-zero.json) |
 | Trials Fusion: Fire in the Deep | 165421 | [165421-trials-fusion-fire-in-the-deep.json](./165421-trials-fusion-fire-in-the-deep.json) |
+| Trials Fusion: Riders of the Rustlands | 25293 | [25293-trials-fusion-riders-of-the-rustlands.json](./25293-trials-fusion-riders-of-the-rustlands.json) |
 | Trials Fusion: The Awesome Max Edition | 11160 | [11160-trials-fusion-the-awesome-max-edition.json](./11160-trials-fusion-the-awesome-max-edition.json) |
 | Trials Fusion: Welcome to the Abyss | 165424 | [165424-trials-fusion-welcome-to-the-abyss.json](./165424-trials-fusion-welcome-to-the-abyss.json) |
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
