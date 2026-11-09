@@ -2932,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted: Attack of the Dead Men | 219813 | [219813-haunted-attack-of-the-dead-men.json](./219813-haunted-attack-of-the-dead-men.json) |
 | Haunted: Dungeons of Herwood | 114748 | [114748-haunted-dungeons-of-herwood.json](./114748-haunted-dungeons-of-herwood.json) |
 | Haunted: Escape the Dollhouse | 422779 | [422779-haunted-escape-the-dollhouse.json](./422779-haunted-escape-the-dollhouse.json) |
+| Haunted: Halloween '85 | 31003 | [31003-haunted-halloween-85.json](./31003-haunted-halloween-85.json) |
 | Haunted: Halloween '86 - The Curse of Possum Hollow | 29156 | [29156-haunted-halloween-86-the-curse-of-possum-hollow.json](./29156-haunted-halloween-86-the-curse-of-possum-hollow.json) |
 | Haunted: Live | 220868 | [220868-haunted-live.json](./220868-haunted-live.json) |
 | Haunted: Poppy's Nightmare | 126186 | [126186-haunted-poppys-nightmare.json](./126186-haunted-poppys-nightmare.json) |
@@ -10160,6 +10161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Step Sing VR Live: Hop Summer Tour 2020 | 149684 | [149684-hop-step-sing-vr-live-hop-summer-tour-2020.json](./149684-hop-step-sing-vr-live-hop-summer-tour-2020.json) |
 | Hop Step Sing! Astral Piece | 127818 | [127818-hop-step-sing-astral-piece.json](./127818-hop-step-sing-astral-piece.json) |
 | Hop Step Sing! Happy People | 165713 | [165713-hop-step-sing-happy-people.json](./165713-hop-step-sing-happy-people.json) |
+| Hop Step Sing! High Quality Edition | 30998 | [30998-hop-step-sing-high-quality-edition.json](./30998-hop-step-sing-high-quality-edition.json) |
 | Hop Step Sing! Kimamani Summer Vacation | 55335 | [55335-hop-step-sing-kimamani-summer-vacation.json](./55335-hop-step-sing-kimamani-summer-vacation.json) |
 | Hop Step Sing! Kiss x Kiss x Kiss | 43182 | [43182-hop-step-sing-kiss-x-kiss-x-kiss.json](./43182-hop-step-sing-kiss-x-kiss-x-kiss.json) |
 | Hop Step Sing! Nozokanaide Naked Heart | 109344 | [109344-hop-step-sing-nozokanaide-naked-heart.json](./109344-hop-step-sing-nozokanaide-naked-heart.json) |
@@ -11561,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoverbike Joust | 176219 | [176219-hoverbike-joust.json](./176219-hoverbike-joust.json) |
 | Hoverboard Chase | 154081 | [154081-hoverboard-chase.json](./154081-hoverboard-chase.json) |
 | Hoverboard Hero | 237381 | [237381-hoverboard-hero.json](./237381-hoverboard-hero.json) |
+| Hoverboards VR | 30975 | [30975-hoverboards-vr.json](./30975-hoverboards-vr.json) |
 | Hoverboy | 207472 | [207472-hoverboy.json](./207472-hoverboy.json) |
 | Hovercab Station | 262994 | [262994-hovercab-station.json](./262994-hovercab-station.json) |
 | Hovercars 3077: Underground racing | 192436 | [192436-hovercars-3077-underground-racing.json](./192436-hovercars-3077-underground-racing.json) |
