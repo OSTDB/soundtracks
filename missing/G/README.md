@@ -6370,6 +6370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godstrike | 141527 | [141527-godstrike.json](./141527-godstrike.json) |
 | Godstruction | 126276 | [126276-godstruction.json](./126276-godstruction.json) |
 | Godsvivors | 260518 | [260518-godsvivors.json](./260518-godsvivors.json) |
+| GodsWar Online | 67726 | [67726-godswar-online.json](./67726-godswar-online.json) |
 | Godsworn | 213612 | [213612-godsworn.json](./213612-godsworn.json) |
 | Godtail | 207755 | [207755-godtail.json](./207755-godtail.json) |
 | Godumas | 207628 | [207628-godumas.json](./207628-godumas.json) |
@@ -9478,6 +9479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid: Day One Edition | 136177 | [136177-grid-day-one-edition.json](./136177-grid-day-one-edition.json) |
 | Grid:Locked | 185956 | [185956-grid-locked.json](./185956-grid-locked.json) |
 | Grid16 | 270637 | [270637-grid16.json](./270637-grid16.json) |
+| Gridball | 68149 | [68149-gridball.json](./68149-gridball.json) |
 | GridBeat! | 366584 | [366584-gridbeat.json](./366584-gridbeat.json) |
 | Gridberd | 35212 | [35212-gridberd.json](./35212-gridberd.json) |
 | Gridblocked | 204719 | [204719-gridblocked.json](./204719-gridblocked.json) |
