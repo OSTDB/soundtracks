@@ -13255,6 +13255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnospace Outlaw | 99071 | [99071-hypnospace-outlaw.json](./99071-hypnospace-outlaw.json) |
 | Hypnospace Outlaw & Slayers X: Terminal Aftermath: Vengance of the Slayer Bundle | 251655 | [251655-hypnospace-outlaw-and-slayers-x-terminal-aftermath-vengance-of-the-slayer-bundle.json](./251655-hypnospace-outlaw-and-slayers-x-terminal-aftermath-vengance-of-the-slayer-bundle.json) |
 | Hypnostasis | 391781 | [391781-hypnostasis.json](./391781-hypnostasis.json) |
+| Hypnotic Lights | 41480 | [41480-hypnotic-lights.json](./41480-hypnotic-lights.json) |
 | Hypnotica Quest | 302509 | [302509-hypnotica-quest.json](./302509-hypnotica-quest.json) |
 | Hypogea | 303550 | [303550-hypogea.json](./303550-hypogea.json) |
 | Hypogeal | 401015 | [401015-hypogeal.json](./401015-hypogeal.json) |
