@@ -10100,6 +10100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinoland | 165672 | [165672-dinoland.json](./165672-dinoland.json) |
 | DinoLife | 212909 | [212909-dinolife.json](./212909-dinolife.json) |
 | Dinolords | 270548 | [270548-dinolords.json](./270548-dinolords.json) |
+| Dinolympics | 40842 | [40842-dinolympics.json](./40842-dinolympics.json) |
 | DinoMash | 58353 | [58353-dinomash.json](./58353-dinomash.json) |
 | Dinomaster Party | 64224 | [64224-dinomaster-party.json](./64224-dinomaster-party.json) |
 | DinoMight Baseball | 209019 | [209019-dinomight-baseball.json](./209019-dinomight-baseball.json) |
@@ -15127,6 +15128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragKnockFight | 218124 | [218124-dragknockfight.json](./218124-dragknockfight.json) |
 | Draglade | 21542 | [21542-draglade.json](./21542-draglade.json) |
 | Dragluttony | 190230 | [190230-dragluttony.json](./190230-dragluttony.json) |
+| Dragnet | 40861 | [40861-dragnet.json](./40861-dragnet.json) |
 | Drago Adventure | 295624 | [295624-drago-adventure.json](./295624-drago-adventure.json) |
 | Drago Noka | 203939 | [203939-drago-noka.json](./203939-drago-noka.json) |
 | Dragon | 216764 | [216764-dragon.json](./216764-dragon.json) |
