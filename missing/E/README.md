@@ -3119,6 +3119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency 2 | 112482 | [112482-emergency-2.json](./112482-emergency-2.json) |
 | Emergency 2: The Ultimate Fight for Life - Deluxe Edition | 70717 | [70717-emergency-2-the-ultimate-fight-for-life-deluxe-edition.json](./70717-emergency-2-the-ultimate-fight-for-life-deluxe-edition.json) |
 | Emergency 2012 | 27485 | [27485-emergency-2012.json](./27485-emergency-2012.json) |
+| Emergency 2012: The Quest for Peace | 66318 | [66318-emergency-2012-the-quest-for-peace.json](./66318-emergency-2012-the-quest-for-peace.json) |
 | Emergency 2013 | 2979 | [2979-emergency-2013.json](./2979-emergency-2013.json) |
 | Emergency 2014 | 52960 | [52960-emergency-2014.json](./52960-emergency-2014.json) |
 | Emergency 2016 | 52959 | [52959-emergency-2016.json](./52959-emergency-2016.json) |
@@ -7445,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil West | 141547 | [141547-evil-west.json](./141547-evil-west.json) |
 | Evil West: Signature Edition | 223534 | [223534-evil-west-signature-edition.json](./223534-evil-west-signature-edition.json) |
 | Evil Wizard | 309274 | [309274-evil-wizard.json](./309274-evil-wizard.json) |
+| Evil Woman Executive: Aku no Onna Kanbu "Kono Watashi ni Oshioki dato!? Fuzakeruna!" | 66810 | [66810-evil-woman-executive-aku-no-onna-kanbu-kono-watashi-ni-oshioki-dato-fuzakeruna.json](./66810-evil-woman-executive-aku-no-onna-kanbu-kono-watashi-ni-oshioki-dato-fuzakeruna.json) |
 | Evil World Hopsca | 336001 | [336001-evil-world-hopsca.json](./336001-evil-world-hopsca.json) |
 | Evil Zombies: Death on the Road | 232158 | [232158-evil-zombies-death-on-the-road.json](./232158-evil-zombies-death-on-the-road.json) |
 | Evil, My Friend | 185547 | [185547-evil-my-friend.json](./185547-evil-my-friend.json) |
