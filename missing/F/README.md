@@ -6450,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firework: A Modern Tale | 164744 | [164744-firework-a-modern-tale.json](./164744-firework-a-modern-tale.json) |
 | Fireworks | 216066 | [216066-fireworks.json](./216066-fireworks.json) |
 | Fireworks | 78085 | [78085-fireworks.json](./78085-fireworks.json) |
+| Fireworks Desert Blast | 30350 | [30350-fireworks-desert-blast.json](./30350-fireworks-desert-blast.json) |
 | Fireworks Extravaganza | 57611 | [57611-fireworks-extravaganza.json](./57611-fireworks-extravaganza.json) |
 | Fireworks Frenzy | 250727 | [250727-fireworks-frenzy.json](./250727-fireworks-frenzy.json) |
 | Fireworks Mania | 126512 | [126512-fireworks-mania.json](./126512-fireworks-mania.json) |
