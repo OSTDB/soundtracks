@@ -5708,6 +5708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Yoshi! | 227655 | [227655-rescue-yoshi.json](./227655-rescue-yoshi.json) |
 | Rescue your chickens | 30672 | [30672-rescue-your-chickens.json](./30672-rescue-your-chickens.json) |
 | Rescue Zone | 138616 | [138616-rescue-zone.json](./138616-rescue-zone.json) |
+| Rescue: Everyday Heroes | 16690 | [16690-rescue-everyday-heroes.json](./16690-rescue-everyday-heroes.json) |
 | Rescue: Heroes in Action | 76718 | [76718-rescue-heroes-in-action.json](./76718-rescue-heroes-in-action.json) |
 | Rescue: The Beagles | 290131 | [290131-rescue-the-beagles.json](./290131-rescue-the-beagles.json) |
 | Rescue: The Beagles | 67034 | [67034-rescue-the-beagles.json](./67034-rescue-the-beagles.json) |
