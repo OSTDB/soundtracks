@@ -2665,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3Dash Ultra | 412318 | [412318-3dash-ultra.json](./412318-3dash-ultra.json) |
 | 3DC | 274564 | [274564-3dc.json](./274564-3dc.json) |
 | 3DEins | 379147 | [379147-3deins.json](./379147-3deins.json) |
+| 3DO Action Pak | 37196 | [37196-3do-action-pak.json](./37196-3do-action-pak.json) |
 | 3DO Buffet | 38819 | [38819-3do-buffet.json](./38819-3do-buffet.json) |
 | 3DO Games: Decathlon | 100219 | [100219-3do-games-decathlon.json](./100219-3do-games-decathlon.json) |
 | 3DO Interactive Sampler 3 | 38822 | [38822-3do-interactive-sampler-3.json](./38822-3do-interactive-sampler-3.json) |
