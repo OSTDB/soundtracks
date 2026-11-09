@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO: The Ranch | 248886 | [248886-ufo-the-ranch.json](./248886-ufo-the-ranch.json) |
 | UFO: Trilogy | 203044 | [203044-ufo-trilogy.json](./203044-ufo-trilogy.json) |
 | UFO: Unidentified Falling Objects | 244473 | [244473-ufo-unidentified-falling-objects.json](./244473-ufo-unidentified-falling-objects.json) |
+| UFO! | 18712 | [18712-ufo.json](./18712-ufo.json) |
 | UFO/Sea Monsters/Break It Down/Rebuild/Shoot | 137926 | [137926-ufo-sea-monsters-break-it-down-rebuild-shoot.json](./137926-ufo-sea-monsters-break-it-down-rebuild-shoot.json) |
 | UFO2 Extraterrestrials: Shadows over Earth | 65459 | [65459-ufo2-extraterrestrials-shadows-over-earth.json](./65459-ufo2-extraterrestrials-shadows-over-earth.json) |
 | UFO99 | 208120 | [208120-ufo99.json](./208120-ufo99.json) |
