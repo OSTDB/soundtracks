@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VeLM | 117120 | [117120-velm.json](./117120-velm.json) |
 | Velmora Online | 423263 | [423263-velmora-online.json](./423263-velmora-online.json) |
 | Velo | 244347 | [244347-velo.json](./244347-velo.json) |
+| Velocibeasts | 28361 | [28361-velocibeasts.json](./28361-velocibeasts.json) |
 | Velocibox | 15548 | [15548-velocibox.json](./15548-velocibox.json) |
 | Velocide Overdrive | 393501 | [393501-velocide-overdrive.json](./393501-velocide-overdrive.json) |
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
