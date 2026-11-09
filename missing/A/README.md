@@ -5335,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Shogi | 79478 | [79478-ai-shogi.json](./79478-ai-shogi.json) |
 | AI Shogi 2 | 45445 | [45445-ai-shogi-2.json](./45445-ai-shogi-2.json) |
 | AI Shogi 2003 | 269328 | [269328-ai-shogi-2003.json](./269328-ai-shogi-2003.json) |
+| AI Shogi 3 | 44041 | [44041-ai-shogi-3.json](./44041-ai-shogi-3.json) |
 | AI Shoujo | 127944 | [127944-ai-shoujo.json](./127944-ai-shoujo.json) |
 | AI Slop Simulator | 398536 | [398536-ai-slop-simulator.json](./398536-ai-slop-simulator.json) |
 | AI Solitaire | 303127 | [303127-ai-solitaire.json](./303127-ai-solitaire.json) |
