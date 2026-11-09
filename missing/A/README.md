@@ -6776,6 +6776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfred Hitchcock’s Psycho Adventure Game | 320240 | [320240-alfred-hitchcock-s-psycho-adventure-game.json](./320240-alfred-hitchcock-s-psycho-adventure-game.json) |
 | Alfred is a Bad Guy | 318611 | [318611-alfred-is-a-bad-guy.json](./318611-alfred-is-a-bad-guy.json) |
 | Alfred Pelrock | 73801 | [73801-alfred-pelrock.json](./73801-alfred-pelrock.json) |
+| Alfred's Adventure | 49974 | [49974-alfreds-adventure.json](./49974-alfreds-adventure.json) |
 | Alfredo | 245124 | [245124-alfredo.json](./245124-alfredo.json) |
 | Alfredo's Sneaky Meal | 257814 | [257814-alfredos-sneaky-meal.json](./257814-alfredos-sneaky-meal.json) |
 | Alfredo's Stupendous Surprise | 71050 | [71050-alfredos-stupendous-surprise.json](./71050-alfredos-stupendous-surprise.json) |
@@ -10334,6 +10335,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Boxing | 68953 | [68953-animal-boxing.json](./68953-animal-boxing.json) |
 | Animal Breeder | 78715 | [78715-animal-breeder.json](./78715-animal-breeder.json) |
 | Animal Breeder 2 | 64295 | [64295-animal-breeder-2.json](./64295-animal-breeder-2.json) |
+| Animal Breeder 3 | 49976 | [49976-animal-breeder-3.json](./49976-animal-breeder-3.json) |
+| Animal Breeder 4 | 49973 | [49973-animal-breeder-4.json](./49973-animal-breeder-4.json) |
 | Animal Buddies: Party Beasts | 290438 | [290438-animal-buddies-party-beasts.json](./290438-animal-buddies-party-beasts.json) |
 | Animal Cafe | 173393 | [173393-animal-cafe.json](./173393-animal-cafe.json) |
 | Animal Cafe | 356711 | [356711-animal-cafe.json](./356711-animal-cafe.json) |
@@ -10609,6 +10612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaniacs: The Great Edgar Hunt | 3786 | [3786-animaniacs-the-great-edgar-hunt.json](./3786-animaniacs-the-great-edgar-hunt.json) |
 | Animarama | 217231 | [217231-animarama.json](./217231-animarama.json) |
 | Animas | 335259 | [335259-animas.json](./335259-animas.json) |
+| Animastar GB | 49972 | [49972-animastar-gb.json](./49972-animastar-gb.json) |
 | Animastar Puzzle | 364354 | [364354-animastar-puzzle.json](./364354-animastar-puzzle.json) |
 | Animatch | 194296 | [194296-animatch.json](./194296-animatch.json) |
 | AniMatch: Animal Matching Game | 86874 | [86874-animatch-animal-matching-game.json](./86874-animatch-animal-matching-game.json) |
