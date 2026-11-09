@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Therapist: Couples Therapy | 398340 | [398340-vampire-therapist-couples-therapy.json](./398340-vampire-therapist-couples-therapy.json) |
 | Vampire Tourist | 230199 | [230199-vampire-tourist.json](./230199-vampire-tourist.json) |
 | Vampire Vengeance | 184754 | [184754-vampire-vengeance.json](./184754-vampire-vengeance.json) |
+| Vampire Ventures | 61210 | [61210-vampire-ventures.json](./61210-vampire-ventures.json) |
 | Vampire vs. Devil | 145688 | [145688-vampire-vs-devil.json](./145688-vampire-vs-devil.json) |
 | Vampire vs. Pope Army | 354225 | [354225-vampire-vs-pope-army.json](./354225-vampire-vs-pope-army.json) |
 | Vampire Waifu Puzzles | 329434 | [329434-vampire-waifu-puzzles.json](./329434-vampire-waifu-puzzles.json) |
@@ -1303,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vekquence | 26694 | [26694-vekquence.json](./26694-vekquence.json) |
 | Vektar | 382791 | [382791-vektar.json](./382791-vektar.json) |
 | Vektor 2089 | 134661 | [134661-vektor-2089.json](./134661-vektor-2089.json) |
+| Vektor Prix | 60712 | [60712-vektor-prix.json](./60712-vektor-prix.json) |
 | Vektor Tank 3D+ | 85468 | [85468-vektor-tank-3d.json](./85468-vektor-tank-3d.json) |
 | Vektor Wars | 35359 | [35359-vektor-wars.json](./35359-vektor-wars.json) |
 | Vektor Z | 186672 | [186672-vektor-z.json](./186672-vektor-z.json) |
