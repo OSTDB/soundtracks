@@ -6178,6 +6178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No-good Noelle | 281242 | [281242-no-good-noelle.json](./281242-no-good-noelle.json) |
 | No-good Streamer Mirai-chan! (Now accepting lewd comments) | 354769 | [354769-no-good-streamer-mirai-chan-now-accepting-lewd-comments.json](./354769-no-good-streamer-mirai-chan-now-accepting-lewd-comments.json) |
 | No-Hi | 311204 | [311204-no-hi.json](./311204-no-hi.json) |
+| No-Ri-Ko | 64540 | [64540-no-ri-ko.json](./64540-no-ri-ko.json) |
 | No-Skin | 296046 | [296046-no-skin.json](./296046-no-skin.json) |
 | No-Snake Hotel | 198375 | [198375-no-snake-hotel.json](./198375-no-snake-hotel.json) |
 | No-Zero | 161585 | [161585-no-zero.json](./161585-no-zero.json) |
