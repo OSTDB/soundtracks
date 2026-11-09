@@ -1806,6 +1806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampartloom: PvP Tower Defense | 424033 | [424033-rampartloom-pvp-tower-defense.json](./424033-rampartloom-pvp-tower-defense.json) |
 | Ramparts | 40942 | [40942-ramparts.json](./40942-ramparts.json) |
 | Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
+| Rampo | 63409 | [63409-rampo.json](./63409-rampo.json) |
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
 | RamsaySnap | 299327 | [299327-ramsaysnap.json](./299327-ramsaysnap.json) |
 | Ramses Classic | 200444 | [200444-ramses-classic.json](./200444-ramses-classic.json) |
@@ -5236,6 +5237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai 0 Kilometer V | 216243 | [216243-renai-0-kilometer-v.json](./216243-renai-0-kilometer-v.json) |
 | Renai Bakudan | 337489 | [337489-renai-bakudan.json](./337489-renai-bakudan.json) |
 | Renai Bakumatsu Kareshi: Toki no Kanata de Hanasaku Koi | 163345 | [163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json](./163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json) |
+| Renai Banchou 2: Midnight Lesson!!! | 63413 | [63413-renai-banchou-2-midnight-lesson.json](./63413-renai-banchou-2-midnight-lesson.json) |
 | Renai Banchou! Inochi Mijikashi, Koiseyo Otome! Love is Power | 221887 | [221887-renai-banchou-inochi-mijikashi-koiseyo-otome-love-is-power.json](./221887-renai-banchou-inochi-mijikashi-koiseyo-otome-love-is-power.json) |
 | Renai Karichaimashita: Koikari - Love For Hire | 174072 | [174072-renai-karichaimashita-koikari-love-for-hire.json](./174072-renai-karichaimashita-koikari-love-for-hire.json) |
 | Renai Karichaimashita: Koikari - Love For Hire - After Hours | 376587 | [376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json](./376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json) |
