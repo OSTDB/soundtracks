@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Overlord | 352259 | [352259-galactic-overlord.json](./352259-galactic-overlord.json) |
 | Galactic Overthrow | 386820 | [386820-galactic-overthrow.json](./386820-galactic-overthrow.json) |
 | Galactic Panic | 367850 | [367850-galactic-panic.json](./367850-galactic-panic.json) |
+| Galactic Patrol | 60643 | [60643-galactic-patrol.json](./60643-galactic-patrol.json) |
 | Galactic Patrol | 95486 | [95486-galactic-patrol.json](./95486-galactic-patrol.json) |
 | Galactic Pawns | 348382 | [348382-galactic-pawns.json](./348382-galactic-pawns.json) |
 | Galactic Phantasy Prelude | 64473 | [64473-galactic-phantasy-prelude.json](./64473-galactic-phantasy-prelude.json) |
@@ -9527,6 +9528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridfall | 373119 | [373119-gridfall.json](./373119-gridfall.json) |
 | Gridfire | 84226 | [84226-gridfire.json](./84226-gridfire.json) |
 | Gridform | 164650 | [164650-gridform.json](./164650-gridform.json) |
+| Gridgate | 60645 | [60645-gridgate.json](./60645-gridgate.json) |
 | Gridhack | 325507 | [325507-gridhack.json](./325507-gridhack.json) |
 | Gridheart | 198047 | [198047-gridheart.json](./198047-gridheart.json) |
 | Gridiron | 85968 | [85968-gridiron.json](./85968-gridiron.json) |
