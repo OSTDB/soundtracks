@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragtag Rescue | 183914 | [183914-ragtag-rescue.json](./183914-ragtag-rescue.json) |
 | Raguna and the Crystal of Miracles | 225801 | [225801-raguna-and-the-crystal-of-miracles.json](./225801-raguna-and-the-crystal-of-miracles.json) |
 | Rahasya | 410058 | [410058-rahasya.json](./410058-rahasya.json) |
+| Rahxephon | 77549 | [77549-rahxephon.json](./77549-rahxephon.json) |
 | Rai-Net Access Battlers | 299721 | [299721-rai-net-access-battlers.json](./299721-rai-net-access-battlers.json) |
 | Raia Nova | 189911 | [189911-raia-nova.json](./189911-raia-nova.json) |
 | Raicing | 262821 | [262821-raicing.json](./262821-raicing.json) |
@@ -4452,6 +4453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Deal Casino: Shuffle Master Edition | 77390 | [77390-reel-deal-casino-shuffle-master-edition.json](./77390-reel-deal-casino-shuffle-master-edition.json) |
 | Reel Deal Casino: Valley of the Kings | 209210 | [209210-reel-deal-casino-valley-of-the-kings.json](./209210-reel-deal-casino-valley-of-the-kings.json) |
 | Reel Deal Poker Challenge | 66727 | [66727-reel-deal-poker-challenge.json](./66727-reel-deal-poker-challenge.json) |
+| Reel Deal Slots 2nd Vol. | 77524 | [77524-reel-deal-slots-2nd-vol.json](./77524-reel-deal-slots-2nd-vol.json) |
 | Reel Deal Slots Adventure | 131294 | [131294-reel-deal-slots-adventure.json](./131294-reel-deal-slots-adventure.json) |
 | Reel Deal Slots Adventure III: World Tour | 25465 | [25465-reel-deal-slots-adventure-iii-world-tour.json](./25465-reel-deal-slots-adventure-iii-world-tour.json) |
 | Reel Deal Slots: Blackbeard's Revenge | 131128 | [131128-reel-deal-slots-blackbeards-revenge.json](./131128-reel-deal-slots-blackbeards-revenge.json) |
@@ -11870,6 +11872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Randomizer | 342162 | [342162-royal-randomizer.json](./342162-royal-randomizer.json) |
 | Royal Rescue | 133201 | [133201-royal-rescue.json](./133201-royal-rescue.json) |
 | Royal Rescue SRPG | 137786 | [137786-royal-rescue-srpg.json](./137786-royal-rescue-srpg.json) |
+| Royal Revolt II | 77538 | [77538-royal-revolt-ii.json](./77538-royal-revolt-ii.json) |
 | Royal Revolt Survivors | 309810 | [309810-royal-revolt-survivors.json](./309810-royal-revolt-survivors.json) |
 | Royal Revolt! | 336181 | [336181-royal-revolt.json](./336181-royal-revolt.json) |
 | Royal Riders | 190943 | [190943-royal-riders.json](./190943-royal-riders.json) |
@@ -12233,6 +12236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby 2005 | 6019 | [6019-rugby-2005.json](./6019-rugby-2005.json) |
 | Rugby 22 | 182305 | [182305-rugby-22.json](./182305-rugby-22.json) |
 | Rugby 25 | 241246 | [241246-rugby-25.json](./241246-rugby-25.json) |
+| Rugby Boss | 77526 | [77526-rugby-boss.json](./77526-rugby-boss.json) |
 | Rugby Challenge | 3009 | [3009-rugby-challenge.json](./3009-rugby-challenge.json) |
 | Rugby Challenge 3 | 17275 | [17275-rugby-challenge-3.json](./17275-rugby-challenge-3.json) |
 | Rugby Challenge 3: Jonah Lomu Edition | 82433 | [82433-rugby-challenge-3-jonah-lomu-edition.json](./82433-rugby-challenge-3-jonah-lomu-edition.json) |
