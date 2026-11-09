@@ -6152,6 +6152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Escape | 132348 | [132348-fire-escape.json](./132348-fire-escape.json) |
 | Fire Escape | 62575 | [62575-fire-escape.json](./62575-fire-escape.json) |
 | Fire Farm VR | 31964 | [31964-fire-farm-vr.json](./31964-fire-farm-vr.json) |
+| Fire Fight | 11734 | [11734-fire-fight.json](./11734-fire-fight.json) |
 | Fire Fighter | 118511 | [118511-fire-fighter.json](./118511-fire-fighter.json) |
 | Fire Fighter | 18479 | [18479-fire-fighter.json](./18479-fire-fighter.json) |
 | Fire Fighter | 246332 | [246332-fire-fighter.json](./246332-fire-fighter.json) |
