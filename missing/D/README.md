@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Stage EuroMix 2 | 144894 | [144894-dancing-stage-euromix-2.json](./144894-dancing-stage-euromix-2.json) |
 | Dancing Stage featuring Dreams Come True | 69572 | [69572-dancing-stage-featuring-dreams-come-true.json](./69572-dancing-stage-featuring-dreams-come-true.json) |
 | Dancing Stage featuring True Kiss Destination | 132805 | [132805-dancing-stage-featuring-true-kiss-destination.json](./132805-dancing-stage-featuring-true-kiss-destination.json) |
+| Dancing Stage Fever | 73949 | [73949-dancing-stage-fever.json](./73949-dancing-stage-fever.json) |
 | Dancing Stage Fusion | 22296 | [22296-dancing-stage-fusion.json](./22296-dancing-stage-fusion.json) |
 | Dancing Stage Internet Ranking | 135392 | [135392-dancing-stage-internet-ranking.json](./135392-dancing-stage-internet-ranking.json) |
 | Dancing Stage Max | 62839 | [62839-dancing-stage-max.json](./62839-dancing-stage-max.json) |
@@ -6169,6 +6170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dekorating Blues | 73332 | [73332-dekorating-blues.json](./73332-dekorating-blues.json) |
 | Delares | 154383 | [154383-delares.json](./154383-delares.json) |
 | Delator | 273503 | [273503-delator.json](./273503-delator.json) |
+| Delaware St. John: Volume 1 - The Curse of Midnight Manor | 73970 | [73970-delaware-st-john-volume-1-the-curse-of-midnight-manor.json](./73970-delaware-st-john-volume-1-the-curse-of-midnight-manor.json) |
 | Delaware St. John: Volume 1 - The Curse of Midnight Manor / Volume 2: The Town with No Name | 93050 | [93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json](./93050-delaware-st-john-volume-1-the-curse-of-midnight-manor-volume-2-the-town-with-no-name.json) |
 | Delaware St. John: Volume 2 - The Town with No Name | 71043 | [71043-delaware-st-john-volume-2-the-town-with-no-name.json](./71043-delaware-st-john-volume-2-the-town-with-no-name.json) |
 | Delaware St. John: Volume 3 - The Seacliff Tragedy | 71352 | [71352-delaware-st-john-volume-3-the-seacliff-tragedy.json](./71352-delaware-st-john-volume-3-the-seacliff-tragedy.json) |
@@ -6201,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious 2 | 177111 | [177111-delicious-2.json](./177111-delicious-2.json) |
 | Delicious 2 Deluxe | 61382 | [61382-delicious-2-deluxe.json](./61382-delicious-2-deluxe.json) |
 | Delicious Burger | 274027 | [274027-delicious-burger.json](./274027-delicious-burger.json) |
+| Delicious Deluxe | 73935 | [73935-delicious-deluxe.json](./73935-delicious-deluxe.json) |
 | Delicious Donut | 290516 | [290516-delicious-donut.json](./290516-delicious-donut.json) |
 | Delicious Dungeon | 211241 | [211241-delicious-dungeon.json](./211241-delicious-dungeon.json) |
 | Delicious Foods | 247252 | [247252-delicious-foods.json](./247252-delicious-foods.json) |
@@ -15972,6 +15975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drain | 179560 | [179560-drain.json](./179560-drain.json) |
 | Drain Mania | 57166 | [57166-drain-mania.json](./57166-drain-mania.json) |
 | Drain Runner | 210885 | [210885-drain-runner.json](./210885-drain-runner.json) |
+| Drain Storm | 73938 | [73938-drain-storm.json](./73938-drain-storm.json) |
 | Drain the Galaxy | 423230 | [423230-drain-the-galaxy.json](./423230-drain-the-galaxy.json) |
 | Drained | 390699 | [390699-drained.json](./390699-drained.json) |
 | DrainLive | 126368 | [126368-drainlive.json](./126368-drainlive.json) |
@@ -19468,6 +19472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk of Confinement | 86486 | [86486-dusk-of-confinement.json](./86486-dusk-of-confinement.json) |
 | Dusk of Dragons: Survivors | 256953 | [256953-dusk-of-dragons-survivors.json](./256953-dusk-of-dragons-survivors.json) |
 | Dusk of the Cage | 237949 | [237949-dusk-of-the-cage.json](./237949-dusk-of-the-cage.json) |
+| Dusk of the Gods | 73941 | [73941-dusk-of-the-gods.json](./73941-dusk-of-the-gods.json) |
 | Dusk of the wasteland age | 163351 | [163351-dusk-of-the-wasteland-age.json](./163351-dusk-of-the-wasteland-age.json) |
 | Dusk Park | 400854 | [400854-dusk-park.json](./400854-dusk-park.json) |
 | Dusk Pub | 224771 | [224771-dusk-pub.json](./224771-dusk-pub.json) |
