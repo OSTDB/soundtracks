@@ -1669,6 +1669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Farts: Parody Smell Edition | 383045 | [383045-dark-farts-parody-smell-edition.json](./383045-dark-farts-parody-smell-edition.json) |
 | Dark Fear | 20143 | [20143-dark-fear.json](./20143-dark-fear.json) |
 | Dark Fiber | 242713 | [242713-dark-fiber.json](./242713-dark-fiber.json) |
+| Dark Flame | 28953 | [28953-dark-flame.json](./28953-dark-flame.json) |
 | Dark Flow | 220586 | [220586-dark-flow.json](./220586-dark-flow.json) |
 | Dark Flowers | 157135 | [157135-dark-flowers.json](./157135-dark-flowers.json) |
 | Dark Flowers: Tiny Starlight | 380211 | [380211-dark-flowers-tiny-starlight.json](./380211-dark-flowers-tiny-starlight.json) |
@@ -2236,6 +2237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Fear 3: Nightmare | 223006 | [223006-darkest-fear-3-nightmare.json](./223006-darkest-fear-3-nightmare.json) |
 | Darkest Hour | 148107 | [148107-darkest-hour.json](./148107-darkest-hour.json) |
 | Darkest Hour: A Hearts of Iron Game | 2012 | [2012-darkest-hour-a-hearts-of-iron-game.json](./2012-darkest-hour-a-hearts-of-iron-game.json) |
+| Darkest Hour: Europe '44-'45 | 28971 | [28971-darkest-hour-europe-44-45.json](./28971-darkest-hour-europe-44-45.json) |
 | Darkest Hunters | 115409 | [115409-darkest-hunters.json](./115409-darkest-hunters.json) |
 | Darkest Light | 294127 | [294127-darkest-light.json](./294127-darkest-light.json) |
 | Darkest Mana : Master of the Table | 102479 | [102479-darkest-mana-master-of-the-table.json](./102479-darkest-mana-master-of-the-table.json) |
@@ -6656,6 +6658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition Company: Gold Edition | 23397 | [23397-demolition-company-gold-edition.json](./23397-demolition-company-gold-edition.json) |
 | Demolition Crew | 119568 | [119568-demolition-crew.json](./119568-demolition-crew.json) |
 | Demolition Derby | 110847 | [110847-demolition-derby.json](./110847-demolition-derby.json) |
+| Demolition Derby | 28379 | [28379-demolition-derby.json](./28379-demolition-derby.json) |
 | Demolition Derby 2: Circuit | 234481 | [234481-demolition-derby-2-circuit.json](./234481-demolition-derby-2-circuit.json) |
 | Demolition Derby 3 | 184283 | [184283-demolition-derby-3.json](./184283-demolition-derby-3.json) |
 | Demolition Derby 3D | 100647 | [100647-demolition-derby-3d.json](./100647-demolition-derby-3d.json) |
@@ -16965,6 +16968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamless: The Madness from the Sea | 146846 | [146846-dreamless-the-madness-from-the-sea.json](./146846-dreamless-the-madness-from-the-sea.json) |
 | Dreamlight | 151025 | [151025-dreamlight.json](./151025-dreamlight.json) |
 | Dreamlike Love with Seira | 314376 | [314376-dreamlike-love-with-seira.json](./314376-dreamlike-love-with-seira.json) |
+| Dreamlike Worlds | 28349 | [28349-dreamlike-worlds.json](./28349-dreamlike-worlds.json) |
 | Dreamline 404 | 339567 | [339567-dreamline-404.json](./339567-dreamline-404.json) |
 | Dreamlords: The Reawakening | 21460 | [21460-dreamlords-the-reawakening.json](./21460-dreamlords-the-reawakening.json) |
 | Dreamly | 93706 | [93706-dreamly.json](./93706-dreamly.json) |
