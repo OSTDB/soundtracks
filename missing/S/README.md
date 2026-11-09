@@ -2585,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saving from the Devil | 405463 | [405463-saving-from-the-devil.json](./405463-saving-from-the-devil.json) |
 | Saving Ghost | 159710 | [159710-saving-ghost.json](./159710-saving-ghost.json) |
 | Saving Grace | 142201 | [142201-saving-grace.json](./142201-saving-grace.json) |
+| Saving Harmony | 31995 | [31995-saving-harmony.json](./31995-saving-harmony.json) |
 | Saving Healer | 223435 | [223435-saving-healer.json](./223435-saving-healer.json) |
 | Saving Money | 177725 | [177725-saving-money.json](./177725-saving-money.json) |
 | Saving Mr. Sparkles | 139363 | [139363-saving-mr-sparkles.json](./139363-saving-mr-sparkles.json) |
@@ -9638,6 +9639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shop Tycoon the Boss | 103537 | [103537-shop-tycoon-the-boss.json](./103537-shop-tycoon-the-boss.json) |
 | Shop Tycoon: Prepare Your Wallet | 142673 | [142673-shop-tycoon-prepare-your-wallet.json](./142673-shop-tycoon-prepare-your-wallet.json) |
 | Shop-Like: The Rogue-Like Item Shop Experience | 250649 | [250649-shop-like-the-rogue-like-item-shop-experience.json](./250649-shop-like-the-rogue-like-item-shop-experience.json) |
+| Shop-n-Spree: Shopping Paradise | 31332 | [31332-shop-n-spree-shopping-paradise.json](./31332-shop-n-spree-shopping-paradise.json) |
 | Shopenkraft's Quantum Curiosities | 411501 | [411501-shopenkrafts-quantum-curiosities.json](./411501-shopenkrafts-quantum-curiosities.json) |
 | ShopFront | 348568 | [348568-shopfront.json](./348568-shopfront.json) |
 | Shopkeeper Simulator | 117613 | [117613-shopkeeper-simulator.json](./117613-shopkeeper-simulator.json) |
@@ -14105,6 +14107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slider | 103172 | [103172-slider.json](./103172-slider.json) |
 | Slider | 199357 | [199357-slider.json](./199357-slider.json) |
 | Slider | 384824 | [384824-slider.json](./384824-slider.json) |
+| Slider Quest | 32012 | [32012-slider-quest.json](./32012-slider-quest.json) |
 | Slider Scouts | 340387 | [340387-slider-scouts.json](./340387-slider-scouts.json) |
 | Slider X | 241546 | [241546-slider-x.json](./241546-slider-x.json) |
 | Slidercrash | 251656 | [251656-slidercrash.json](./251656-slidercrash.json) |
@@ -19172,6 +19175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOS: Forgotten Planet | 293592 | [293592-sos-forgotten-planet.json](./293592-sos-forgotten-planet.json) |
 | SOS: Save Our Sandwiches | 343134 | [343134-sos-save-our-sandwiches.json](./343134-sos-save-our-sandwiches.json) |
 | SOS: Save Our Ship | 373184 | [373184-sos-save-our-ship.json](./373184-sos-save-our-ship.json) |
+| SOS: Special Operative Stories | 32059 | [32059-sos-special-operative-stories.json](./32059-sos-special-operative-stories.json) |
 | Soshiant | 67646 | [67646-soshiant.json](./67646-soshiant.json) |
 | Soshite Bokura ha... And He Said | 145449 | [145449-soshite-bokura-ha-and-he-said.json](./145449-soshite-bokura-ha-and-he-said.json) |
 | Soshite Kono Sora ni Kirameku Kimi no Uta | 221827 | [221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json](./221827-soshite-kono-sora-ni-kirameku-kimi-no-uta.json) |
@@ -23138,6 +23142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash | 94289 | [94289-splash.json](./94289-splash.json) |
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
 | Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
+| Splash Blast Panic | 31996 | [31996-splash-blast-panic.json](./31996-splash-blast-panic.json) |
 | Splash Carnival | 290210 | [290210-splash-carnival.json](./290210-splash-carnival.json) |
 | Splash Cars | 150307 | [150307-splash-cars.json](./150307-splash-cars.json) |
 | Splash Damage: Survive if you can | 41504 | [41504-splash-damage-survive-if-you-can.json](./41504-splash-damage-survive-if-you-can.json) |
@@ -26489,6 +26494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starry Trace | 388327 | [388327-starry-trace.json](./388327-starry-trace.json) |
 | Starryard | 243501 | [243501-starryard.json](./243501-starryard.json) |
 | StarryMonogatari: Student's Terminal | 302103 | [302103-starrymonogatari-students-terminal.json](./302103-starrymonogatari-students-terminal.json) |
+| Stars | 32056 | [32056-stars.json](./32056-stars.json) |
 | Stars and Empires: Colony Defense | 317078 | [317078-stars-and-empires-colony-defense.json](./317078-stars-and-empires-colony-defense.json) |
 | Stars and Ghosts | 90398 | [90398-stars-and-ghosts.json](./90398-stars-and-ghosts.json) |
 | Stars and Snowdrops | 115379 | [115379-stars-and-snowdrops.json](./115379-stars-and-snowdrops.json) |
@@ -26570,6 +26576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Defender | 268022 | [268022-starship-defender.json](./268022-starship-defender.json) |
 | Starship Defense | 67153 | [67153-starship-defense.json](./67153-starship-defense.json) |
 | Starship Dice | 373195 | [373195-starship-dice.json](./373195-starship-dice.json) |
+| Starship Disco | 31992 | [31992-starship-disco.json](./31992-starship-disco.json) |
 | Starship Eleven | 358805 | [358805-starship-eleven.json](./358805-starship-eleven.json) |
 | Starship Eleven Deluxe | 360605 | [360605-starship-eleven-deluxe.json](./360605-starship-eleven-deluxe.json) |
 | Starship Empire | 60404 | [60404-starship-empire.json](./60404-starship-empire.json) |
