@@ -4429,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entre-Deux: Cursed | 107437 | [107437-entre-deux-cursed.json](./107437-entre-deux-cursed.json) |
 | Entre.pontos | 180413 | [180413-entre-pontos.json](./180413-entre-pontos.json) |
 | Entrenched | 257229 | [257229-entrenched.json](./257229-entrenched.json) |
+| Entrepreneur | 62296 | [62296-entrepreneur.json](./62296-entrepreneur.json) |
 | Entrepreneurial tycoon | 236884 | [236884-entrepreneurial-tycoon.json](./236884-entrepreneurial-tycoon.json) |
 | Entropic Decay | 192622 | [192622-entropic-decay.json](./192622-entropic-decay.json) |
 | Entropic Fracture | 369035 | [369035-entropic-fracture.json](./369035-entropic-fracture.json) |
@@ -5525,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Work | 71258 | [71258-escape-from-work.json](./71258-escape-from-work.json) |
 | Escape from Work | 71264 | [71264-escape-from-work.json](./71264-escape-from-work.json) |
 | Escape from Wormwood | 396306 | [396306-escape-from-wormwood.json](./396306-escape-from-wormwood.json) |
+| Escape From XP | 61833 | [61833-escape-from-xp.json](./61833-escape-from-xp.json) |
 | Escape From Yandere | 388741 | [388741-escape-from-yandere.json](./388741-escape-from-yandere.json) |
 | Escape from Zellman Orbital | 31741 | [31741-escape-from-zellman-orbital.json](./31741-escape-from-zellman-orbital.json) |
 | Escape from Zeta Aurigae | 291240 | [291240-escape-from-zeta-aurigae.json](./291240-escape-from-zeta-aurigae.json) |
@@ -7250,6 +7252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyday Simulator | 184699 | [184699-everyday-simulator.json](./184699-everyday-simulator.json) |
 | Everyday Soccer | 61342 | [61342-everyday-soccer.json](./61342-everyday-soccer.json) |
 | Everyday Sororicide | 380679 | [380679-everyday-sororicide.json](./380679-everyday-sororicide.json) |
+| Everyday Spelunker | 62301 | [62301-everyday-spelunker.json](./62301-everyday-spelunker.json) |
 | Everyday Today's Menu for Emiya Family | 146416 | [146416-everyday-todays-menu-for-emiya-family.json](./146416-everyday-todays-menu-for-emiya-family.json) |
 | Everyday Today's Menu for Emiya Family: Lancer Scenario Pack | 238000 | [238000-everyday-todays-menu-for-emiya-family-lancer-scenario-pack.json](./238000-everyday-todays-menu-for-emiya-family-lancer-scenario-pack.json) |
 | Everyone Dies | 127684 | [127684-everyone-dies.json](./127684-everyone-dies.json) |
