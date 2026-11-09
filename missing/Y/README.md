@@ -1733,6 +1733,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu Suzuki Game Works Vol. 1 | 56453 | [56453-yu-suzuki-game-works-vol-1.json](./56453-yu-suzuki-game-works-vol-1.json) |
 | Yu Yu Hakusho: Dark Martial Arts Club | 208940 | [208940-yu-yu-hakusho-dark-martial-arts-club.json](./208940-yu-yu-hakusho-dark-martial-arts-club.json) |
 | Yu Yu Hakusho: Ghost Files - Dark Tournament | 43525 | [43525-yu-yu-hakusho-ghost-files-dark-tournament.json](./43525-yu-yu-hakusho-ghost-files-dark-tournament.json) |
+| Yu Yu Hakusho: Ghost Files - Tournament Tactics | 6695 | [6695-yu-yu-hakusho-ghost-files-tournament-tactics.json](./6695-yu-yu-hakusho-ghost-files-tournament-tactics.json) |
+| Yu Yu Hakusho: Spirit Detective | 6696 | [6696-yu-yu-hakusho-spirit-detective.json](./6696-yu-yu-hakusho-spirit-detective.json) |
 | Yu-Gi-Oh 2 | 385357 | [385357-yu-gi-oh-2.json](./385357-yu-gi-oh-2.json) |
 | Yu-Gi-Oh GX: The Beginning of Destiny | 21680 | [21680-yu-gi-oh-gx-the-beginning-of-destiny.json](./21680-yu-gi-oh-gx-the-beginning-of-destiny.json) |
 | Yu-Gi-Oh PokéDuel | 270787 | [270787-yu-gi-oh-pokeduel.json](./270787-yu-gi-oh-pokeduel.json) |
