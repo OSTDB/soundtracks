@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macheesmo: The Animated Series - The Game | 197580 | [197580-macheesmo-the-animated-series-the-game.json](./197580-macheesmo-the-animated-series-the-game.json) |
 | Machete | 257290 | [257290-machete.json](./257290-machete.json) |
 | Machi | 279747 | [279747-machi.json](./279747-machi.json) |
+| Machi Guile: Takareet Fighter II | 61179 | [61179-machi-guile-takareet-fighter-ii.json](./61179-machi-guile-takareet-fighter-ii.json) |
 | Machi Knights: Blood Bagos | 115662 | [115662-machi-knights-blood-bagos.json](./115662-machi-knights-blood-bagos.json) |
 | Machi Koro With Everyone | 266751 | [266751-machi-koro-with-everyone.json](./266751-machi-koro-with-everyone.json) |
 | Machi no Pet-Ya-San DS 2: Wannyan 333-Hiki Daishuugou! | 133796 | [133796-machi-no-pet-ya-san-ds-2-wannyan-333-hiki-daishuugou.json](./133796-machi-no-pet-ya-san-ds-2-wannyan-333-hiki-daishuugou.json) |
@@ -8632,6 +8633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megavaders 5000 | 110657 | [110657-megavaders-5000.json](./110657-megavaders-5000.json) |
 | MegaWars | 57974 | [57974-megawars.json](./57974-megawars.json) |
 | MegaWorld | 286568 | [286568-megaworld.json](./286568-megaworld.json) |
+| MegaZeux | 60709 | [60709-megazeux.json](./60709-megazeux.json) |
 | Megazone 23: Aoi Garland | 7366 | [7366-megazone-23-aoi-garland.json](./7366-megazone-23-aoi-garland.json) |
 | Megdan | 298549 | [298549-megdan.json](./298549-megdan.json) |
 | Megi Amantes | 314833 | [314833-megi-amantes.json](./314833-megi-amantes.json) |
@@ -8990,6 +8992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memora Wanderer | 298267 | [298267-memora-wanderer.json](./298267-memora-wanderer.json) |
 | Memorabilia | 177412 | [177412-memorabilia.json](./177412-memorabilia.json) |
 | Memorabilia | 202448 | [202448-memorabilia.json](./202448-memorabilia.json) |
+| Memorabilia: Mia's Mysterious Memory Machine | 61216 | [61216-memorabilia-mias-mysterious-memory-machine.json](./61216-memorabilia-mias-mysterious-memory-machine.json) |
 | Memoralia | 341398 | [341398-memoralia.json](./341398-memoralia.json) |
 | Memoralysis: The Scorched Home | 323230 | [323230-memoralysis-the-scorched-home.json](./323230-memoralysis-the-scorched-home.json) |
 | Memorama | 91258 | [91258-memorama.json](./91258-memorama.json) |
@@ -13680,6 +13683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minna no Mozoo | 302794 | [302794-minna-no-mozoo.json](./302794-minna-no-mozoo.json) |
 | Minna no Oekakiya-san | 276046 | [276046-minna-no-oekakiya-san.json](./276046-minna-no-oekakiya-san.json) |
 | Minna no Othello | 217925 | [217925-minna-no-othello.json](./217925-minna-no-othello.json) |
+| Minna no Ouji-sama: The Prince of Everyone | 61214 | [61214-minna-no-ouji-sama-the-prince-of-everyone.json](./61214-minna-no-ouji-sama-the-prince-of-everyone.json) |
 | Minna no Pokémon Bokujou: Platina Taiou-ban | 409122 | [409122-minna-no-pokemon-bokujou-platina-taiou-ban.json](./409122-minna-no-pokemon-bokujou-platina-taiou-ban.json) |
 | Minna no Radio Controlled GP | 165435 | [165435-minna-no-radio-controlled-gp.json](./165435-minna-no-radio-controlled-gp.json) |
 | Minna no Radio Controlled GP + Variety Set | 165434 | [165434-minna-no-radio-controlled-gp-variety-set.json](./165434-minna-no-radio-controlled-gp-variety-set.json) |
@@ -19497,6 +19501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MSSP 9: New Pietniemi | 308263 | [308263-mssp-9-new-pietniemi.json](./308263-mssp-9-new-pietniemi.json) |
 | MSSP8 | 308262 | [308262-mssp8.json](./308262-mssp8.json) |
 | Mstar | 137518 | [137518-mstar.json](./137518-mstar.json) |
+| Mstar Online | 61208 | [61208-mstar-online.json](./61208-mstar-online.json) |
 | MSX Baseball | 94321 | [94321-msx-baseball.json](./94321-msx-baseball.json) |
 | MSX Baseball II | 80059 | [80059-msx-baseball-ii.json](./80059-msx-baseball-ii.json) |
 | MSX Copycat | 352337 | [352337-msx-copycat.json](./352337-msx-copycat.json) |
