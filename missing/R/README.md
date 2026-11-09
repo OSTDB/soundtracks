@@ -6761,6 +6761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reveniev: A Day in Nassiriyah | 391978 | [391978-reveniev-a-day-in-nassiriyah.json](./391978-reveniev-a-day-in-nassiriyah.json) |
 | Revenis Prologue 01 | 116336 | [116336-revenis-prologue-01.json](./116336-revenis-prologue-01.json) |
 | Revenot | 144225 | [144225-revenot.json](./144225-revenot.json) |
+| Reventure | 118922 | [118922-reventure.json](./118922-reventure.json) |
 | Rever dun Manege | 118211 | [118211-rever-dun-manege.json](./118211-rever-dun-manege.json) |
 | Reverb | 304536 | [304536-reverb.json](./304536-reverb.json) |
 | Reverb Arcade | 256145 | [256145-reverb-arcade.json](./256145-reverb-arcade.json) |
@@ -7322,6 +7323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard & Alice | 10768 | [10768-richard-and-alice.json](./10768-richard-and-alice.json) |
 | Richard Burns Rally | 230466 | [230466-richard-burns-rally.json](./230466-richard-burns-rally.json) |
+| Richard Burns Rally | 6004 | [6004-richard-burns-rally.json](./6004-richard-burns-rally.json) |
 | Richard Petty's Talladega | 47187 | [47187-richard-pettys-talladega.json](./47187-richard-pettys-talladega.json) |
 | Richard Scarry's Best Neighborhood Disc Ever | 127322 | [127322-richard-scarrys-best-neighborhood-disc-ever.json](./127322-richard-scarrys-best-neighborhood-disc-ever.json) |
 | Richard Scarry's Best Reading Program Ever | 384182 | [384182-richard-scarrys-best-reading-program-ever.json](./384182-richard-scarrys-best-reading-program-ever.json) |
