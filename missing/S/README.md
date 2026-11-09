@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabrina the Animated Series: Spooked! | 49944 | [49944-sabrina-the-animated-series-spooked.json](./49944-sabrina-the-animated-series-spooked.json) |
 | Sabrina the Animated Series: Zapped! | 49943 | [49943-sabrina-the-animated-series-zapped.json](./49943-sabrina-the-animated-series-zapped.json) |
 | Sabrina the Teenage Witch: A Twitch in Time! | 44971 | [44971-sabrina-the-teenage-witch-a-twitch-in-time.json](./44971-sabrina-the-teenage-witch-a-twitch-in-time.json) |
+| Sabrina the Teenage Witch: Potion Commotion | 49430 | [49430-sabrina-the-teenage-witch-potion-commotion.json](./49430-sabrina-the-teenage-witch-potion-commotion.json) |
 | Sabrina, the Teenage Witch: Brat Attack | 80778 | [80778-sabrina-the-teenage-witch-brat-attack.json](./80778-sabrina-the-teenage-witch-brat-attack.json) |
 | Sabrina, the Teenage Witch: Spellbound | 80777 | [80777-sabrina-the-teenage-witch-spellbound.json](./80777-sabrina-the-teenage-witch-spellbound.json) |
 | Sabritas Pac-Man | 219449 | [219449-sabritas-pac-man.json](./219449-sabritas-pac-man.json) |
@@ -1357,6 +1358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Crawler | 189868 | [189868-samurai-crawler.json](./189868-samurai-crawler.json) |
 | Samurai Daisuke | 233502 | [233502-samurai-daisuke.json](./233502-samurai-daisuke.json) |
 | Samurai Deeper Kyo | 185741 | [185741-samurai-deeper-kyo.json](./185741-samurai-deeper-kyo.json) |
+| Samurai Deeper Kyo | 49424 | [49424-samurai-deeper-kyo.json](./49424-samurai-deeper-kyo.json) |
 | Samurai Defender | 84903 | [84903-samurai-defender.json](./84903-samurai-defender.json) |
 | Samurai Defender: Ninja Warfare | 104127 | [104127-samurai-defender-ninja-warfare.json](./104127-samurai-defender-ninja-warfare.json) |
 | Samurai Elemental | 329098 | [329098-samurai-elemental.json](./329098-samurai-elemental.json) |
@@ -12188,6 +12190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sitting around the world on a hot air balloon | 121576 | [121576-sitting-around-the-world-on-a-hot-air-balloon.json](./121576-sitting-around-the-world-on-a-hot-air-balloon.json) |
 | Sitting Ducks | 210727 | [210727-sitting-ducks.json](./210727-sitting-ducks.json) |
 | Sitting Ducks | 402482 | [402482-sitting-ducks.json](./402482-sitting-ducks.json) |
+| Sitting Ducks | 49428 | [49428-sitting-ducks.json](./49428-sitting-ducks.json) |
 | Situation Elevator | 97749 | [97749-situation-elevator.json](./97749-situation-elevator.json) |
 | Situation Normal | 236149 | [236149-situation-normal.json](./236149-situation-normal.json) |
 | Situation Outbreak | 91456 | [91456-situation-outbreak.json](./91456-situation-outbreak.json) |
@@ -23617,7 +23620,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
 | Sports Illustrated for Kids: Baseball | 49290 | [49290-sports-illustrated-for-kids-baseball.json](./49290-sports-illustrated-for-kids-baseball.json) |
 | Sports Illustrated for Kids: Football | 49220 | [49220-sports-illustrated-for-kids-football.json](./49220-sports-illustrated-for-kids-football.json) |
+| Sports Illustrated for Kids: The Ultimate Triple Dare | 49012 | [49012-sports-illustrated-for-kids-the-ultimate-triple-dare.json](./49012-sports-illustrated-for-kids-the-ultimate-triple-dare.json) |
 | Sports Illustrated: Championship Football & Baseball | 273410 | [273410-sports-illustrated-championship-football-and-baseball.json](./273410-sports-illustrated-championship-football-and-baseball.json) |
+| Sports Illustrated: Championship Football & Baseball | 49013 | [49013-sports-illustrated-championship-football-and-baseball.json](./49013-sports-illustrated-championship-football-and-baseball.json) |
 | Sports Illustrated: Golf Classic | 49086 | [49086-sports-illustrated-golf-classic.json](./49086-sports-illustrated-golf-classic.json) |
 | Sports Jam | 45841 | [45841-sports-jam.json](./45841-sports-jam.json) |
 | Sports Pad Football | 46122 | [46122-sports-pad-football.json](./46122-sports-pad-football.json) |
@@ -28187,6 +28192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop Sign Sprint | 263371 | [263371-stop-sign-sprint.json](./263371-stop-sign-sprint.json) |
 | Stop Slapping Tenshi! | 330364 | [330364-stop-slapping-tenshi.json](./330364-stop-slapping-tenshi.json) |
 | Stop Stress: A Day of Fury | 67253 | [67253-stop-stress-a-day-of-fury.json](./67253-stop-stress-a-day-of-fury.json) |
+| Stop That Roach! | 49016 | [49016-stop-that-roach.json](./49016-stop-that-roach.json) |
 | Stop the Blight | 338748 | [338748-stop-the-blight.json](./338748-stop-the-blight.json) |
 | Stop the Bus | 144454 | [144454-stop-the-bus.json](./144454-stop-the-bus.json) |
 | Stop the Bus | 83464 | [83464-stop-the-bus.json](./83464-stop-the-bus.json) |
@@ -31142,6 +31148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo | 110716 | [110716-sumo.json](./110716-sumo.json) |
 | Sumo | 281686 | [281686-sumo.json](./281686-sumo.json) |
 | Sumo | 303084 | [303084-sumo.json](./303084-sumo.json) |
+| Sumo Fighter | 49006 | [49006-sumo-fighter.json](./49006-sumo-fighter.json) |
 | Sumo Revise | 35024 | [35024-sumo-revise.json](./35024-sumo-revise.json) |
 | Sumo Rumble | 307974 | [307974-sumo-rumble.json](./307974-sumo-rumble.json) |
 | Sumo Seals | 211612 | [211612-sumo-seals.json](./211612-sumo-seals.json) |
@@ -31471,6 +31478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunsoft Collection | 79526 | [79526-sunsoft-collection.json](./79526-sunsoft-collection.json) |
 | Sunsoft Collection 1 | 251898 | [251898-sunsoft-collection-1.json](./251898-sunsoft-collection-1.json) |
 | Sunsoft Collection 2 | 291544 | [291544-sunsoft-collection-2.json](./291544-sunsoft-collection-2.json) |
+| Sunsoft Grand Prix | 48995 | [48995-sunsoft-grand-prix.json](./48995-sunsoft-grand-prix.json) |
 | Sunsoft is Back! Retro Game Selection | 297001 | [297001-sunsoft-is-back-retro-game-selection.json](./297001-sunsoft-is-back-retro-game-selection.json) |
 | Sunsoft is Back! Retro Game Selection 2 | 421447 | [421447-sunsoft-is-back-retro-game-selection-2.json](./421447-sunsoft-is-back-retro-game-selection-2.json) |
 | Sunsoft Mahjong Solitaire: Shanghai Legend | 276952 | [276952-sunsoft-mahjong-solitaire-shanghai-legend.json](./276952-sunsoft-mahjong-solitaire-shanghai-legend.json) |
