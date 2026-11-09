@@ -7396,6 +7396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Pot | 200355 | [200355-wonder-pot.json](./200355-wonder-pot.json) |
 | Wonder Project J2: Corlo no Mori no Josette | 47748 | [47748-wonder-project-j2-corlo-no-mori-no-josette.json](./47748-wonder-project-j2-corlo-no-mori-no-josette.json) |
 | Wonder Protocol | 413467 | [413467-wonder-protocol.json](./413467-wonder-protocol.json) |
+| Wonder Stadium | 37467 | [37467-wonder-stadium.json](./37467-wonder-stadium.json) |
 | Wonder Stick | 40162 | [40162-wonder-stick.json](./40162-wonder-stick.json) |
 | Wonder Tactics | 59030 | [59030-wonder-tactics.json](./59030-wonder-tactics.json) |
 | Wonder Trek | 186581 | [186581-wonder-trek.json](./186581-wonder-trek.json) |
