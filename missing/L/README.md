@@ -22,6 +22,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L: An Interactive Mystery | 178883 | [178883-l-an-interactive-mystery.json](./178883-l-an-interactive-mystery.json) |
 | L. Frank Baum's: The Wonderful Wizard of Oz | 64852 | [64852-l-frank-baums-the-wonderful-wizard-of-oz.json](./64852-l-frank-baums-the-wonderful-wizard-of-oz.json) |
 | L.3.3.T. | 248422 | [248422-l-3-3-t.json](./248422-l-3-3-t.json) |
+| L.A Gridlock | 61746 | [61746-l-a-gridlock.json](./61746-l-a-gridlock.json) |
 | L.A. 2 | 92125 | [92125-l-a-2.json](./92125-l-a-2.json) |
 | L.A. Blaster | 217620 | [217620-l-a-blaster.json](./217620-l-a-blaster.json) |
 | L.A. Crackdown | 55091 | [55091-l-a-crackdown.json](./55091-l-a-crackdown.json) |
@@ -2712,6 +2713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Marrow | 296933 | [296933-legend-of-marrow.json](./296933-legend-of-marrow.json) |
 | Legend of Master 2 | 63396 | [63396-legend-of-master-2.json](./63396-legend-of-master-2.json) |
 | Legend of Master 3 | 63395 | [63395-legend-of-master-3.json](./63395-legend-of-master-3.json) |
+| Legend of Max | 61261 | [61261-legend-of-max.json](./61261-legend-of-max.json) |
 | Legend of Merchant | 30756 | [30756-legend-of-merchant.json](./30756-legend-of-merchant.json) |
 | Legend of Merchant 2 | 306387 | [306387-legend-of-merchant-2.json](./306387-legend-of-merchant-2.json) |
 | Legend of Mercy | 96280 | [96280-legend-of-mercy.json](./96280-legend-of-mercy.json) |
@@ -10219,6 +10221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
 | Lunares Insaniam | 289582 | [289582-lunares-insaniam.json](./289582-lunares-insaniam.json) |
 | Lunaria Fantasia | 338101 | [338101-lunaria-fantasia.json](./338101-lunaria-fantasia.json) |
+| Lunaria Story | 61770 | [61770-lunaria-story.json](./61770-lunaria-story.json) |
 | Lunaris | 353947 | [353947-lunaris.json](./353947-lunaris.json) |
 | Lunarium | 301234 | [301234-lunarium.json](./301234-lunarium.json) |
 | Lunark | 119622 | [119622-lunark.json](./119622-lunark.json) |
