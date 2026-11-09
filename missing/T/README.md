@@ -26183,6 +26183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's American Sk8land | 364480 | [364480-tony-hawks-american-sk8land.json](./364480-tony-hawks-american-sk8land.json) |
 | Tony Hawk's American Sk8land | 6643 | [6643-tony-hawks-american-sk8land.json](./6643-tony-hawks-american-sk8land.json) |
 | Tony Hawk's American Wasteland | 248551 | [248551-tony-hawks-american-wasteland.json](./248551-tony-hawks-american-wasteland.json) |
+| Tony Hawk's American Wasteland: Collector's Edition | 43395 | [43395-tony-hawks-american-wasteland-collectors-edition.json](./43395-tony-hawks-american-wasteland-collectors-edition.json) |
 | Tony Hawk's Downhill Jam | 210449 | [210449-tony-hawks-downhill-jam.json](./210449-tony-hawks-downhill-jam.json) |
 | Tony Hawk's Downhill Jam | 210450 | [210450-tony-hawks-downhill-jam.json](./210450-tony-hawks-downhill-jam.json) |
 | Tony Hawk's Downhill Jam | 5231 | [5231-tony-hawks-downhill-jam.json](./5231-tony-hawks-downhill-jam.json) |
@@ -33275,6 +33276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki ha Higashi ni Hi ha Nishi ni: Operation Sanctuary | 165566 | [165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json](./165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json) |
 | Tsuki Journey | 416980 | [416980-tsuki-journey.json](./416980-tsuki-journey.json) |
 | Tsuki ni Yorisou Otome no Sahou | 86174 | [86174-tsuki-ni-yorisou-otome-no-sahou.json](./86174-tsuki-ni-yorisou-otome-no-sahou.json) |
+| Tsuki ni Yorisou Otome no Sahou: Hidamari no Hibi | 43368 | [43368-tsuki-ni-yorisou-otome-no-sahou-hidamari-no-hibi.json](./43368-tsuki-ni-yorisou-otome-no-sahou-hidamari-no-hibi.json) |
 | Tsuki no Hikari | 322241 | [322241-tsuki-no-hikari.json](./322241-tsuki-no-hikari.json) |
 | Tsuki no Hikari no Kusariya-san | 327075 | [327075-tsuki-no-hikari-no-kusariya-san.json](./327075-tsuki-no-hikari-no-kusariya-san.json) |
 | Tsuki no Hikari: Shizumeru Kane no Satsujin | 62539 | [62539-tsuki-no-hikari-shizumeru-kane-no-satsujin.json](./62539-tsuki-no-hikari-shizumeru-kane-no-satsujin.json) |
@@ -34249,6 +34251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Breaker: A Sacred Symbols Adventure | 130613 | [130613-twin-breaker-a-sacred-symbols-adventure.json](./130613-twin-breaker-a-sacred-symbols-adventure.json) |
 | Twin Bros | 30641 | [30641-twin-bros.json](./30641-twin-bros.json) |
 | Twin Brothers | 55473 | [55473-twin-brothers.json](./55473-twin-brothers.json) |
+| Twin Caliber | 43410 | [43410-twin-caliber.json](./43410-twin-caliber.json) |
 | Twin Calibre: 688 Attack Sub + Chuck Yeager's Air Combat | 86086 | [86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json](./86086-twin-calibre-688-attack-sub-chuck-yeagers-air-combat.json) |
 | Twin Cam Turbo | 295673 | [295673-twin-cam-turbo.json](./295673-twin-cam-turbo.json) |
 | Twin Cards | 277866 | [277866-twin-cards.json](./277866-twin-cards.json) |
