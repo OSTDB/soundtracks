@@ -1174,6 +1174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Tactics | 102593 | [102593-naval-tactics.json](./102593-naval-tactics.json) |
 | Naval Tactics | 391985 | [391985-naval-tactics.json](./391985-naval-tactics.json) |
 | Naval War: Arctic Circle | 2044 | [2044-naval-war-arctic-circle.json](./2044-naval-war-arctic-circle.json) |
+| Naval War: Arctic Circle - Operation Tarnhelm | 10590 | [10590-naval-war-arctic-circle-operation-tarnhelm.json](./10590-naval-war-arctic-circle-operation-tarnhelm.json) |
 | Naval Warfare Multi-shot | 344919 | [344919-naval-warfare-multi-shot.json](./344919-naval-warfare-multi-shot.json) |
 | Navalia | 30639 | [30639-navalia.json](./30639-navalia.json) |
 | Navalny: A Nightmare of Corrupt | 123572 | [123572-navalny-a-nightmare-of-corrupt.json](./123572-navalny-a-nightmare-of-corrupt.json) |
@@ -3794,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus Travelers: Hero of Elocea | 278980 | [278980-nexus-travelers-hero-of-elocea.json](./278980-nexus-travelers-hero-of-elocea.json) |
 | Nexus War: Civilization | 259624 | [259624-nexus-war-civilization.json](./259624-nexus-war-civilization.json) |
 | Nexus Wars | 295081 | [295081-nexus-wars.json](./295081-nexus-wars.json) |
+| NeXus: One Core | 10596 | [10596-nexus-one-core.json](./10596-nexus-one-core.json) |
 | Nexus: Quantum Industries | 414080 | [414080-nexus-quantum-industries.json](./414080-nexus-quantum-industries.json) |
 | Nexus: The Jupiter Incident | 14828 | [14828-nexus-the-jupiter-incident.json](./14828-nexus-the-jupiter-incident.json) |
 | Nexus: The Kingdom of the Winds | 80550 | [80550-nexus-the-kingdom-of-the-winds.json](./80550-nexus-the-kingdom-of-the-winds.json) |
@@ -4233,6 +4235,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nicktoons: Snap Shot | 308564 | [308564-nicktoons-snap-shot.json](./308564-nicktoons-snap-shot.json) |
 | Nicktoons: Summer Camp | 202081 | [202081-nicktoons-summer-camp.json](./202081-nicktoons-summer-camp.json) |
 | Nicktropolis | 313905 | [313905-nicktropolis.json](./313905-nicktropolis.json) |
+| Nicky 2 | 10598 | [10598-nicky-2.json](./10598-nicky-2.json) |
+| Nicky Boom | 10597 | [10597-nicky-boom.json](./10597-nicky-boom.json) |
 | Nicky: The Home Alone Golf Ball | 95614 | [95614-nicky-the-home-alone-golf-ball.json](./95614-nicky-the-home-alone-golf-ball.json) |
 | Nico Puchi Girls Runway | 222519 | [222519-nico-puchi-girls-runway.json](./222519-nico-puchi-girls-runway.json) |
 | Nico Yazawa is Dreaming | 242094 | [242094-nico-yazawa-is-dreaming.json](./242094-nico-yazawa-is-dreaming.json) |
@@ -4314,6 +4318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night at the Full Moon Motel | 253755 | [253755-night-at-the-full-moon-motel.json](./253755-night-at-the-full-moon-motel.json) |
 | Night at the Fun Park | 420345 | [420345-night-at-the-fun-park.json](./420345-night-at-the-fun-park.json) |
 | Night At the Gates of Hell | 207381 | [207381-night-at-the-gates-of-hell.json](./207381-night-at-the-gates-of-hell.json) |
+| Night at the Grindhouse | 10599 | [10599-night-at-the-grindhouse.json](./10599-night-at-the-grindhouse.json) |
 | Night at the Harbor | 377848 | [377848-night-at-the-harbor.json](./377848-night-at-the-harbor.json) |
 | Night at the Hospital | 170530 | [170530-night-at-the-hospital.json](./170530-night-at-the-hospital.json) |
 | Night at the Lake: Silent Watcher | 355036 | [355036-night-at-the-lake-silent-watcher.json](./355036-night-at-the-lake-silent-watcher.json) |
@@ -4616,6 +4621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightclub 69: Bunny Girls | 367032 | [367032-nightclub-69-bunny-girls.json](./367032-nightclub-69-bunny-girls.json) |
 | NightClub City | 337235 | [337235-nightclub-city.json](./337235-nightclub-city.json) |
 | Nightclub Emporium | 34788 | [34788-nightclub-emporium.json](./34788-nightclub-emporium.json) |
+| Nightclub Imperium | 10600 | [10600-nightclub-imperium.json](./10600-nightclub-imperium.json) |
 | Nightclub Manager Simulator | 326391 | [326391-nightclub-manager-simulator.json](./326391-nightclub-manager-simulator.json) |
 | Nightclub Royale: Let's Party! | 254608 | [254608-nightclub-royale-lets-party.json](./254608-nightclub-royale-lets-party.json) |
 | Nightclub Shufflepuck | 91516 | [91516-nightclub-shufflepuck.json](./91516-nightclub-shufflepuck.json) |
