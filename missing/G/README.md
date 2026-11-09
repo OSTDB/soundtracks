@@ -9671,6 +9671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griffin Simulator | 106778 | [106778-griffin-simulator.json](./106778-griffin-simulator.json) |
 | Griffinblade | 420010 | [420010-griffinblade.json](./420010-griffinblade.json) |
 | Griffophone Rider | 417562 | [417562-griffophone-rider.json](./417562-griffophone-rider.json) |
+| Griftlands | 37057 | [37057-griftlands.json](./37057-griftlands.json) |
 | Griftlands: Nintendo Switch Edition | 140501 | [140501-griftlands-nintendo-switch-edition.json](./140501-griftlands-nintendo-switch-edition.json) |
 | Grigala Runner | 110140 | [110140-grigala-runner.json](./110140-grigala-runner.json) |
 | Grigore’s Tales: Halloween | 315797 | [315797-grigore-s-tales-halloween.json](./315797-grigore-s-tales-halloween.json) |
