@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh No, Orcs! | 394623 | [394623-oh-no-orcs.json](./394623-oh-no-orcs.json) |
 | Oh no, u have to make a game | 179868 | [179868-oh-no-u-have-to-make-a-game.json](./179868-oh-no-u-have-to-make-a-game.json) |
 | Oh No! | 100080 | [100080-oh-no.json](./100080-oh-no.json) |
+| Oh No! | 57306 | [57306-oh-no.json](./57306-oh-no.json) |
 | Oh No! Bugs! | 31708 | [31708-oh-no-bugs.json](./31708-oh-no-bugs.json) |
 | Oh no! I'm about to fall in love! | 303326 | [303326-oh-no-im-about-to-fall-in-love.json](./303326-oh-no-im-about-to-fall-in-love.json) |
 | Oh No! It's An Alien Invasion: Turret Alert | 197643 | [197643-oh-no-its-an-alien-invasion-turret-alert.json](./197643-oh-no-its-an-alien-invasion-turret-alert.json) |
@@ -2123,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Road | 179664 | [179664-on-the-road.json](./179664-on-the-road.json) |
 | On the Road | 225522 | [225522-on-the-road.json](./225522-on-the-road.json) |
 | On the Run | 361697 | [361697-on-the-run.json](./361697-on-the-run.json) |
+| On the Run | 57778 | [57778-on-the-run.json](./57778-on-the-run.json) |
 | On the Run: Rogue Heroes | 285296 | [285296-on-the-run-rogue-heroes.json](./285296-on-the-run-rogue-heroes.json) |
 | On the Trail of the Whitetail | 127993 | [127993-on-the-trail-of-the-whitetail.json](./127993-on-the-trail-of-the-whitetail.json) |
 | On the Train | 392124 | [392124-on-the-train.json](./392124-on-the-train.json) |
