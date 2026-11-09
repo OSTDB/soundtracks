@@ -8572,7 +8572,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Collector's Edition | 136994 | [136994-world-of-warcraft-collectors-edition.json](./136994-world-of-warcraft-collectors-edition.json) |
 | World of Warcraft: Dragonflight - Embers of Neltharion | 363929 | [363929-world-of-warcraft-dragonflight-embers-of-neltharion.json](./363929-world-of-warcraft-dragonflight-embers-of-neltharion.json) |
 | World of Warcraft: Dragonflight - Guardians of the Dream | 275472 | [275472-world-of-warcraft-dragonflight-guardians-of-the-dream.json](./275472-world-of-warcraft-dragonflight-guardians-of-the-dream.json) |
-| World of Warcraft: Forever | 417650 | [417650-world-of-warcraft-forever.json](./417650-world-of-warcraft-forever.json) |
 | World of Warcraft: Legion - Collector's Edition | 136338 | [136338-world-of-warcraft-legion-collectors-edition.json](./136338-world-of-warcraft-legion-collectors-edition.json) |
 | World of Warcraft: Legion - Shadows of Argus | 345212 | [345212-world-of-warcraft-legion-shadows-of-argus.json](./345212-world-of-warcraft-legion-shadows-of-argus.json) |
 | World of Warcraft: Legion - The Tomb of Sargeras | 345208 | [345208-world-of-warcraft-legion-the-tomb-of-sargeras.json](./345208-world-of-warcraft-legion-the-tomb-of-sargeras.json) |
