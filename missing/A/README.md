@@ -6736,6 +6736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Algomancy | 303136 | [303136-algomancy.json](./303136-algomancy.json) |
 | Algor Pew Pew | 270858 | [270858-algor-pew-pew.json](./270858-algor-pew-pew.json) |
 | Algoremind | 369524 | [369524-algoremind.json](./369524-algoremind.json) |
+| Algorithm | 74621 | [74621-algorithm.json](./74621-algorithm.json) |
 | Algorithm Prescription | 393977 | [393977-algorithm-prescription.json](./393977-algorithm-prescription.json) |
 | Algos United: Live! | 336627 | [336627-algos-united-live.json](./336627-algos-united-live.json) |
 | Algotica Iterations | 113253 | [113253-algotica-iterations.json](./113253-algotica-iterations.json) |
