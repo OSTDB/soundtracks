@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valledi | 223209 | [223209-valledi.json](./223209-valledi.json) |
 | Vallen | 241955 | [241955-vallen.json](./241955-vallen.json) |
 | Valletine against Darkne | 159811 | [159811-valletine-against-darkne.json](./159811-valletine-against-darkne.json) |
+| Valley | 18859 | [18859-valley.json](./18859-valley.json) |
 | Valley | 377295 | [377295-valley.json](./377295-valley.json) |
 | Valley Dash | 194649 | [194649-valley-dash.json](./194649-valley-dash.json) |
 | Valley Knights | 178258 | [178258-valley-knights.json](./178258-valley-knights.json) |
