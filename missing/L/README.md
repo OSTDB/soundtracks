@@ -63,11 +63,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Abbaye des Morts | 270228 | [270228-labbaye-des-morts.json](./270228-labbaye-des-morts.json) |
 | L'Abbaye des Morts | 299101 | [299101-labbaye-des-morts.json](./299101-labbaye-des-morts.json) |
 | L'Abbaye des Morts | 93452 | [93452-labbaye-des-morts.json](./93452-labbaye-des-morts.json) |
+| L'Affaire Santa Fe | 39050 | [39050-laffaire-santa-fe.json](./39050-laffaire-santa-fe.json) |
 | L'Affaire... | 53925 | [53925-laffaire.json](./53925-laffaire.json) |
 | L'Agonie Finale | 274115 | [274115-lagonie-finale.json](./274115-lagonie-finale.json) |
 | L'Albero Azzurro | 317281 | [317281-lalbero-azzurro.json](./317281-lalbero-azzurro.json) |
+| L'Ange de Cristal | 39049 | [39049-lange-de-cristal.json](./39049-lange-de-cristal.json) |
 | L'Ange et le Demon | 202682 | [202682-lange-et-le-demon.json](./202682-lange-et-le-demon.json) |
 | L'Angolo Di Farenz: Avventure Vampiresche | 256922 | [256922-langolo-di-farenz-avventure-vampiresche.json](./256922-langolo-di-farenz-avventure-vampiresche.json) |
+| L'Arche du Captain Blood | 39056 | [39056-larche-du-captain-blood.json](./39056-larche-du-captain-blood.json) |
 | L'Artisan Meurtrier | 329060 | [329060-lartisan-meurtrier.json](./329060-lartisan-meurtrier.json) |
 | L’Automne | 394586 | [394586-l-automne.json](./394586-l-automne.json) |
 | L'Avancée du Désert | 203841 | [203841-lavancee-du-desert.json](./203841-lavancee-du-desert.json) |
@@ -125,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Dame de Monsoreau | 209442 | [209442-la-dame-de-monsoreau.json](./209442-la-dame-de-monsoreau.json) |
 | LA Deadzone | 121994 | [121994-la-deadzone.json](./121994-la-deadzone.json) |
 | La Dimensione Interna | 161636 | [161636-la-dimensione-interna.json](./161636-la-dimensione-interna.json) |
+| La Diosa de Cozumel | 39107 | [39107-la-diosa-de-cozumel.json](./39107-la-diosa-de-cozumel.json) |
 | La Divina Commedia | 361884 | [361884-la-divina-commedia.json](./361884-la-divina-commedia.json) |
 | La Douche | 140717 | [140717-la-douche.json](./140717-la-douche.json) |
 | La Escalera | 290332 | [290332-la-escalera.json](./290332-la-escalera.json) |
