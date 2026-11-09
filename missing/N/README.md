@@ -3414,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Slippery Samurai | 169715 | [169715-new-slippery-samurai.json](./169715-new-slippery-samurai.json) |
 | New Solitaire | 88871 | [88871-new-solitaire.json](./88871-new-solitaire.json) |
 | New Solitaire Card Game | 96973 | [96973-new-solitaire-card-game.json](./96973-new-solitaire-card-game.json) |
+| New Space Order | 62784 | [62784-new-space-order.json](./62784-new-space-order.json) |
 | New Spirits | 151964 | [151964-new-spirits.json](./151964-new-spirits.json) |
 | New Spring: Survival | 235907 | [235907-new-spring-survival.json](./235907-new-spring-survival.json) |
 | New Star Cricket | 234614 | [234614-new-star-cricket.json](./234614-new-star-cricket.json) |
