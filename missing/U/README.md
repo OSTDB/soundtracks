@@ -1697,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Map | 233689 | [233689-under-the-map.json](./233689-under-the-map.json) |
 | Under The Mask | 281914 | [281914-under-the-mask.json](./281914-under-the-mask.json) |
 | Under the Moon | 204327 | [204327-under-the-moon.json](./204327-under-the-moon.json) |
+| Under the Moon | 76833 | [76833-under-the-moon.json](./76833-under-the-moon.json) |
 | Under the Moon: Crescent | 203289 | [203289-under-the-moon-crescent.json](./203289-under-the-moon-crescent.json) |
 | Under the Moon: Tsukiiro Ehon | 72682 | [72682-under-the-moon-tsukiiro-ehon.json](./72682-under-the-moon-tsukiiro-ehon.json) |
 | Under the Ocean | 50821 | [50821-under-the-ocean.json](./50821-under-the-ocean.json) |
