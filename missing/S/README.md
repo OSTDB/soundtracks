@@ -2517,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Octo | 156225 | [156225-save-the-octo.json](./156225-save-the-octo.json) |
 | Save the Pencil | 216118 | [216118-save-the-pencil.json](./216118-save-the-pencil.json) |
 | Save the Pencil 2 | 175141 | [175141-save-the-pencil-2.json](./175141-save-the-pencil-2.json) |
+| Save the Penguins - Block Puzzle | 18733 | [18733-save-the-penguins-block-puzzle.json](./18733-save-the-penguins-block-puzzle.json) |
 | Save the Pet: Draw to Save | 223921 | [223921-save-the-pet-draw-to-save.json](./223921-save-the-pet-draw-to-save.json) |
 | Save the Pirate: Sea Story | 166764 | [166764-save-the-pirate-sea-story.json](./166764-save-the-pirate-sea-story.json) |
 | Save the Pirate: Sea Story - Ice Age | 172389 | [172389-save-the-pirate-sea-story-ice-age.json](./172389-save-the-pirate-sea-story-ice-age.json) |
@@ -3668,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramble All Fighters | 249888 | [249888-scramble-all-fighters.json](./249888-scramble-all-fighters.json) |
 | Scramble Animal Words | 327536 | [327536-scramble-animal-words.json](./327536-scramble-animal-words.json) |
 | Scramble Cobra | 4315 | [4315-scramble-cobra.json](./4315-scramble-cobra.json) |
+| Scramble Eggs | 19846 | [19846-scramble-eggs.json](./19846-scramble-eggs.json) |
 | Scramble Heart City | 319148 | [319148-scramble-heart-city.json](./319148-scramble-heart-city.json) |
 | Scramble Knights Online | 380980 | [380980-scramble-knights-online.json](./380980-scramble-knights-online.json) |
 | Scramble Mania | 401447 | [401447-scramble-mania.json](./401447-scramble-mania.json) |
@@ -7831,6 +7833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Assault Simulator | 202542 | [202542-shark-assault-simulator.json](./202542-shark-assault-simulator.json) |
 | Shark Attack | 134536 | [134536-shark-attack.json](./134536-shark-attack.json) |
 | Shark Attack | 160183 | [160183-shark-attack.json](./160183-shark-attack.json) |
+| Shark Attack | 18749 | [18749-shark-attack.json](./18749-shark-attack.json) |
 | Shark Attack | 281026 | [281026-shark-attack.json](./281026-shark-attack.json) |
 | Shark Attack | 365605 | [365605-shark-attack.json](./365605-shark-attack.json) |
 | Shark Attack Deathmatch | 80057 | [80057-shark-attack-deathmatch.json](./80057-shark-attack-deathmatch.json) |
@@ -15724,6 +15727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snayk 3+ | 411647 | [411647-snayk-3.json](./411647-snayk-3.json) |
 | Snazzy and Groovy in Crystal Town | 313205 | [313205-snazzy-and-groovy-in-crystal-town.json](./313205-snazzy-and-groovy-in-crystal-town.json) |
 | Sneak '95 | 284740 | [284740-sneak-95.json](./284740-sneak-95.json) |
+| Sneak 'n Peek | 18700 | [18700-sneak-n-peek.json](./18700-sneak-n-peek.json) |
 | Sneak & Snitch | 423372 | [423372-sneak-and-snitch.json](./423372-sneak-and-snitch.json) |
 | Sneak and Snatch | 78376 | [78376-sneak-and-snatch.json](./78376-sneak-and-snatch.json) |
 | Sneak Attack | 24865 | [24865-sneak-attack.json](./24865-sneak-attack.json) |
@@ -20564,6 +20568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Jelly | 297479 | [297479-space-jelly.json](./297479-space-jelly.json) |
 | Space Jet: War Galaxy Machines | 88633 | [88633-space-jet-war-galaxy-machines.json](./88633-space-jet-war-galaxy-machines.json) |
 | Space Job | 70219 | [70219-space-job.json](./70219-space-job.json) |
+| Space Jockey | 18679 | [18679-space-jockey.json](./18679-space-jockey.json) |
 | Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
 | Space Journey | 343777 | [343777-space-journey.json](./343777-space-journey.json) |
 | Space Jump Cat | 111586 | [111586-space-jump-cat.json](./111586-space-jump-cat.json) |
@@ -20725,6 +20730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Outpost Sigma | 331742 | [331742-space-outpost-sigma.json](./331742-space-outpost-sigma.json) |
 | Space Overlord: I got Isekai'd into a Sci-fi World | 195979 | [195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json](./195979-space-overlord-i-got-isekaid-into-a-sci-fi-world.json) |
 | Space Overlords | 25547 | [25547-space-overlords.json](./25547-space-overlords.json) |
+| Space Panic | 18678 | [18678-space-panic.json](./18678-space-panic.json) |
 | Space Panic Defense | 75306 | [75306-space-panic-defense.json](./75306-space-panic-defense.json) |
 | Space Panic VR (Room Escape) | 37405 | [37405-space-panic-vr-room-escape.json](./37405-space-panic-vr-room-escape.json) |
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
@@ -24433,8 +24439,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squidlit | 86574 | [86574-squidlit.json](./86574-squidlit.json) |
 | Squidly's Revenge | 373906 | [373906-squidlys-revenge.json](./373906-squidlys-revenge.json) |
 | Squidoku | 181075 | [181075-squidoku.json](./181075-squidoku.json) |
+| Squids | 19878 | [19878-squids.json](./19878-squids.json) |
 | Squids in a Pickle | 340924 | [340924-squids-in-a-pickle.json](./340924-squids-in-a-pickle.json) |
 | Squids Odyssey | 19877 | [19877-squids-odyssey.json](./19877-squids-odyssey.json) |
+| Squids Wild West | 19879 | [19879-squids-wild-west.json](./19879-squids-wild-west.json) |
 | Squids: Battle Arena | 217446 | [217446-squids-battle-arena.json](./217446-squids-battle-arena.json) |
 | Squidview | 381251 | [381251-squidview.json](./381251-squidview.json) |
 | Squidward Neighbor. Sponge Revenge of Bob | 100791 | [100791-squidward-neighbor-sponge-revenge-of-bob.json](./100791-squidward-neighbor-sponge-revenge-of-bob.json) |
@@ -24893,6 +24901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Burial Dragnir | 64848 | [64848-star-burial-dragnir.json](./64848-star-burial-dragnir.json) |
 | Star Cadre: Combat Class | 396216 | [396216-star-cadre-combat-class.json](./396216-star-cadre-combat-class.json) |
 | Star Carrier | 352785 | [352785-star-carrier.json](./352785-star-carrier.json) |
+| Star Castle | 18731 | [18731-star-castle.json](./18731-star-castle.json) |
 | Star Castle | 198903 | [198903-star-castle.json](./198903-star-castle.json) |
 | Star Castle | 200394 | [200394-star-castle.json](./200394-star-castle.json) |
 | Star Castle PC | 95420 | [95420-star-castle-pc.json](./95420-star-castle-pc.json) |
@@ -28239,6 +28248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Mirth on Earth | 197159 | [197159-stone-mirth-on-earth.json](./197159-stone-mirth-on-earth.json) |
 | Stone of Adventure | 421827 | [421827-stone-of-adventure.json](./421827-stone-of-adventure.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
+| Stone of Sisyphus | 18737 | [18737-stone-of-sisyphus.json](./18737-stone-of-sisyphus.json) |
 | Stone Protectors | 38433 | [38433-stone-protectors.json](./38433-stone-protectors.json) |
 | Stone Rage | 74256 | [74256-stone-rage.json](./74256-stone-rage.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
@@ -34518,6 +34528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stacker 2 | 165262 | [165262-super-stacker-2.json](./165262-super-stacker-2.json) |
 | Super Stacker 3 | 165263 | [165263-super-stacker-3.json](./165263-super-stacker-3.json) |
 | Super Stadia | 355884 | [355884-super-stadia.json](./355884-super-stadia.json) |
+| Super Stamp | 19826 | [19826-super-stamp.json](./19826-super-stamp.json) |
 | Super Star | 32027 | [32027-super-star.json](./32027-super-star.json) |
 | Super Star Adventure | 385286 | [385286-super-star-adventure.json](./385286-super-star-adventure.json) |
 | Super Star Battle | 350332 | [350332-super-star-battle.json](./350332-super-star-battle.json) |
@@ -37002,6 +37013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: Born of Blood | 10934 | [10934-sword-of-the-stars-born-of-blood.json](./10934-sword-of-the-stars-born-of-blood.json) |
 | Sword of the Stars: Ground Pounders | 10378 | [10378-sword-of-the-stars-ground-pounders.json](./10378-sword-of-the-stars-ground-pounders.json) |
 | Sword of the Stars: The Pit | 10938 | [10938-sword-of-the-stars-the-pit.json](./10938-sword-of-the-stars-the-pit.json) |
+| Sword of the Stars: The Pit - Healer | 19868 | [19868-sword-of-the-stars-the-pit-healer.json](./19868-sword-of-the-stars-the-pit-healer.json) |
 | Sword of the Stars: The Pit - Juggernaut | 8779 | [8779-sword-of-the-stars-the-pit-juggernaut.json](./8779-sword-of-the-stars-the-pit-juggernaut.json) |
 | Sword of the Stars: The Pit - Mind Games | 10950 | [10950-sword-of-the-stars-the-pit-mind-games.json](./10950-sword-of-the-stars-the-pit-mind-games.json) |
 | Sword of the Stars: The Pit - Osmium Edition | 124915 | [124915-sword-of-the-stars-the-pit-osmium-edition.json](./124915-sword-of-the-stars-the-pit-osmium-edition.json) |
