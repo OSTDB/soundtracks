@@ -6799,6 +6799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
 | Cheese Board | 165249 | [165249-cheese-board.json](./165249-cheese-board.json) |
 | Cheese Cat-Astrophe starring Speedy Gonzales | 4460 | [4460-cheese-cat-astrophe-starring-speedy-gonzales.json](./4460-cheese-cat-astrophe-starring-speedy-gonzales.json) |
+| Cheese Chase | 40280 | [40280-cheese-chase.json](./40280-cheese-chase.json) |
 | Cheese Co-op Clicker Simulator | 312453 | [312453-cheese-co-op-clicker-simulator.json](./312453-cheese-co-op-clicker-simulator.json) |
 | Cheese Collector | 309394 | [309394-cheese-collector.json](./309394-cheese-collector.json) |
 | Cheese Dreams | 220555 | [220555-cheese-dreams.json](./220555-cheese-dreams.json) |
@@ -7756,6 +7757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimera | 195033 | [195033-chimera.json](./195033-chimera.json) |
 | Chimera | 312718 | [312718-chimera.json](./312718-chimera.json) |
 | Chimera | 380063 | [380063-chimera.json](./380063-chimera.json) |
+| Chimera Beast | 40281 | [40281-chimera-beast.json](./40281-chimera-beast.json) |
 | Chimera Circuit | 370729 | [370729-chimera-circuit.json](./370729-chimera-circuit.json) |
 | Chimera Crusader: Defender of Dominicus | 134912 | [134912-chimera-crusader-defender-of-dominicus.json](./134912-chimera-crusader-defender-of-dominicus.json) |
 | Chimera Custom XG | 253994 | [253994-chimera-custom-xg.json](./253994-chimera-custom-xg.json) |
@@ -10428,6 +10430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay Hunt PRO | 87495 | [87495-clay-hunt-pro.json](./87495-clay-hunt-pro.json) |
 | Clay Jam | 299181 | [299181-clay-jam.json](./299181-clay-jam.json) |
 | Clay Knight | 316853 | [316853-clay-knight.json](./316853-clay-knight.json) |
+| Clay Pigeon | 40282 | [40282-clay-pigeon.json](./40282-clay-pigeon.json) |
 | Clay Puzzle | 391201 | [391201-clay-puzzle.json](./391201-clay-puzzle.json) |
 | Clay Shoot | 277502 | [277502-clay-shoot.json](./277502-clay-shoot.json) |
 | Clay Shoot | 328679 | [328679-clay-shoot.json](./328679-clay-shoot.json) |
@@ -10561,6 +10564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleo: A Pirate's Tale | 137216 | [137216-cleo-a-pirates-tale.json](./137216-cleo-a-pirates-tale.json) |
 | Cleo: A Pirate's Tale - Deluxe Edition | 186887 | [186887-cleo-a-pirates-tale-deluxe-edition.json](./186887-cleo-a-pirates-tale-deluxe-edition.json) |
 | Cleo's Lost Idols | 76068 | [76068-cleos-lost-idols.json](./76068-cleos-lost-idols.json) |
+| Cleopatra Fortune | 40283 | [40283-cleopatra-fortune.json](./40283-cleopatra-fortune.json) |
 | Cleopatra Fortune Plus | 254954 | [254954-cleopatra-fortune-plus.json](./254954-cleopatra-fortune-plus.json) |
 | Cleopatra Fortune: S-Tribute | 225886 | [225886-cleopatra-fortune-s-tribute.json](./225886-cleopatra-fortune-s-tribute.json) |
 | Cleopatra no Mahou | 41328 | [41328-cleopatra-no-mahou.json](./41328-cleopatra-no-mahou.json) |
