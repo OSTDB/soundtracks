@@ -4526,6 +4526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator: Resistance - Annihilation Line | 183127 | [183127-terminator-resistance-annihilation-line.json](./183127-terminator-resistance-annihilation-line.json) |
 | Terminator: Resistance Enhanced | 146146 | [146146-terminator-resistance-enhanced.json](./146146-terminator-resistance-enhanced.json) |
 | Terminator: Resistance Enhanced - Collector's Edition | 146147 | [146147-terminator-resistance-enhanced-collectors-edition.json](./146147-terminator-resistance-enhanced-collectors-edition.json) |
+| Terminator: Revenge | 73934 | [73934-terminator-revenge.json](./73934-terminator-revenge.json) |
 | Terminators: The Video Game | 62965 | [62965-terminators-the-video-game.json](./62965-terminators-the-video-game.json) |
 | Terminull | 185151 | [185151-terminull.json](./185151-terminull.json) |
 | Terminull Brigade | 325934 | [325934-terminull-brigade.json](./325934-terminull-brigade.json) |
@@ -13835,6 +13836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic School | 407103 | [407103-the-magic-school.json](./407103-the-magic-school.json) |
 | The Magic School Bus Explores Bugs | 70312 | [70312-the-magic-school-bus-explores-bugs.json](./70312-the-magic-school-bus-explores-bugs.json) |
 | The Magic School Bus Explores in the Age of Dinosaurs | 70456 | [70456-the-magic-school-bus-explores-in-the-age-of-dinosaurs.json](./70456-the-magic-school-bus-explores-in-the-age-of-dinosaurs.json) |
+| The Magic School Bus Explores Inside the Earth | 73958 | [73958-the-magic-school-bus-explores-inside-the-earth.json](./73958-the-magic-school-bus-explores-inside-the-earth.json) |
 | The Magic School Bus Explores the Human Body | 79495 | [79495-the-magic-school-bus-explores-the-human-body.json](./79495-the-magic-school-bus-explores-the-human-body.json) |
 | The Magic School Bus Explores the Ocean | 138253 | [138253-the-magic-school-bus-explores-the-ocean.json](./138253-the-magic-school-bus-explores-the-ocean.json) |
 | The Magic School Bus Explores the Rainforest | 66752 | [66752-the-magic-school-bus-explores-the-rainforest.json](./66752-the-magic-school-bus-explores-the-rainforest.json) |
@@ -15881,6 +15883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Realm of Insight Compass | 253513 | [253513-the-realm-of-insight-compass.json](./253513-the-realm-of-insight-compass.json) |
 | The Realm of Keren: Exploratio | 174691 | [174691-the-realm-of-keren-exploratio.json](./174691-the-realm-of-keren-exploratio.json) |
 | The Realm of Parthoris | 261184 | [261184-the-realm-of-parthoris.json](./261184-the-realm-of-parthoris.json) |
+| The Realm Online | 73936 | [73936-the-realm-online.json](./73936-the-realm-online.json) |
 | The Reap | 21562 | [21562-the-reap.json](./21562-the-reap.json) |
 | The Reaper | 327224 | [327224-the-reaper.json](./327224-the-reaper.json) |
 | The Reaper | 63755 | [63755-the-reaper.json](./63755-the-reaper.json) |
