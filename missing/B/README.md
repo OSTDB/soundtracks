@@ -2030,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BananaTron | 74066 | [74066-bananatron.json](./74066-bananatron.json) |
 | Bananaventure | 283563 | [283563-bananaventure.json](./283563-bananaventure.json) |
 | Bananner Nababber | 211089 | [211089-bananner-nababber.json](./211089-bananner-nababber.json) |
+| Banano Bros. | 74586 | [74586-banano-bros.json](./74586-banano-bros.json) |
 | Bananounce | 320974 | [320974-bananounce.json](./320974-bananounce.json) |
 | Banban Isle Rangers | 405584 | [405584-banban-isle-rangers.json](./405584-banban-isle-rangers.json) |
 | Banbard | 250842 | [250842-banbard.json](./250842-banbard.json) |
@@ -4000,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Plans | 417500 | [417500-battle-of-plans.json](./417500-battle-of-plans.json) |
 | Battle of Puppets | 66616 | [66616-battle-of-puppets.json](./66616-battle-of-puppets.json) |
 | Battle of Rebels | 266972 | [266972-battle-of-rebels.json](./266972-battle-of-rebels.json) |
+| Battle of Red Cliffs VR | 74604 | [74604-battle-of-red-cliffs-vr.json](./74604-battle-of-red-cliffs-vr.json) |
 | Battle of Ships 3D: Naval War | 88703 | [88703-battle-of-ships-3d-naval-war.json](./88703-battle-of-ships-3d-naval-war.json) |
 | Battle of Tanks | 207468 | [207468-battle-of-tanks.json](./207468-battle-of-tanks.json) |
 | Battle of Tarlis | 259587 | [259587-battle-of-tarlis.json](./259587-battle-of-tarlis.json) |
@@ -12878,6 +12880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombastic | 178493 | [178493-bombastic.json](./178493-bombastic.json) |
 | Bombastic | 22280 | [22280-bombastic.json](./22280-bombastic.json) |
 | Bombastic | 308253 | [308253-bombastic.json](./308253-bombastic.json) |
+| Bombastic Cars | 74601 | [74601-bombastic-cars.json](./74601-bombastic-cars.json) |
 | Bombastic Land | 267863 | [267863-bombastic-land.json](./267863-bombastic-land.json) |
 | Bombastic Memory | 90770 | [90770-bombastic-memory.json](./90770-bombastic-memory.json) |
 | Bombastic! | 103655 | [103655-bombastic.json](./103655-bombastic.json) |
