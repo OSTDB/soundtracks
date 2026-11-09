@@ -433,6 +433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki DS | 130481 | [130481-hakuoki-ds.json](./130481-hakuoki-ds.json) |
 | Hakuoki Ibun: Berezinskii no Majo | 287896 | [287896-hakuoki-ibun-berezinskii-no-majo.json](./287896-hakuoki-ibun-berezinskii-no-majo.json) |
 | Hakuoki Kaikoroku | 163340 | [163340-hakuoki-kaikoroku.json](./163340-hakuoki-kaikoroku.json) |
+| Hakuoki Reimeiroku | 62875 | [62875-hakuoki-reimeiroku.json](./62875-hakuoki-reimeiroku.json) |
 | Hakuoki Reimeiroku DS | 221017 | [221017-hakuoki-reimeiroku-ds.json](./221017-hakuoki-reimeiroku-ds.json) |
 | Hakuoki Reimeiroku Nagorigusa | 221018 | [221018-hakuoki-reimeiroku-nagorigusa.json](./221018-hakuoki-reimeiroku-nagorigusa.json) |
 | Hakuoki Reimeiroku Omohase Sora | 221019 | [221019-hakuoki-reimeiroku-omohase-sora.json](./221019-hakuoki-reimeiroku-omohase-sora.json) |
@@ -442,11 +443,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki Shinkai: Ginsei no Shou | 136838 | [136838-hakuoki-shinkai-ginsei-no-shou.json](./136838-hakuoki-shinkai-ginsei-no-shou.json) |
 | Hakuoki Shinkai: Ten'un no Shou | 221222 | [221222-hakuoki-shinkai-tenun-no-shou.json](./221222-hakuoki-shinkai-tenun-no-shou.json) |
 | Hakuoki Shinkai: Tsukikage no Shou | 148247 | [148247-hakuoki-shinkai-tsukikage-no-shou.json](./148247-hakuoki-shinkai-tsukikage-no-shou.json) |
+| Hakuoki SSL: Sweet School Life | 62882 | [62882-hakuoki-ssl-sweet-school-life.json](./62882-hakuoki-ssl-sweet-school-life.json) |
 | Hakuoki SSL: Sweet School Life for Nintendo Switch | 243921 | [243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json](./243921-hakuoki-ssl-sweet-school-life-for-nintendo-switch.json) |
 | Hakuoki Yuugiroku | 163342 | [163342-hakuoki-yuugiroku.json](./163342-hakuoki-yuugiroku.json) |
 | Hakuoki Yuugiroku 2: Matsuribayashi to Taishi-tachi | 221221 | [221221-hakuoki-yuugiroku-2-matsuribayashi-to-taishi-tachi.json](./221221-hakuoki-yuugiroku-2-matsuribayashi-to-taishi-tachi.json) |
 | Hakuoki Yuugiroku DS | 221219 | [221219-hakuoki-yuugiroku-ds.json](./221219-hakuoki-yuugiroku-ds.json) |
 | Hakuoki Yuugiroku Taishitachi no Daienkai | 124016 | [124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json](./124016-hakuoki-yuugiroku-taishitachi-no-daienkai.json) |
+| Hakuoki Zuisouroku | 62881 | [62881-hakuoki-zuisouroku.json](./62881-hakuoki-zuisouroku.json) |
 | Hakuoki Zuisouroku DS | 221014 | [221014-hakuoki-zuisouroku-ds.json](./221014-hakuoki-zuisouroku-ds.json) |
 | Hakuoki Zuisouroku Omokagebana | 221015 | [221015-hakuoki-zuisouroku-omokagebana.json](./221015-hakuoki-zuisouroku-omokagebana.json) |
 | Hakuoki Zuisouroku Portable | 221013 | [221013-hakuoki-zuisouroku-portable.json](./221013-hakuoki-zuisouroku-portable.json) |
