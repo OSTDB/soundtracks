@@ -6847,6 +6847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolution | 295995 | [295995-revolution.json](./295995-revolution.json) |
 | Revolution | 419597 | [419597-revolution.json](./419597-revolution.json) |
 | Revolution | 81387 | [81387-revolution.json](./81387-revolution.json) |
+| ReVolution | 73967 | [73967-revolution.json](./73967-revolution.json) |
 | Revolution '76 | 208785 | [208785-revolution-76.json](./208785-revolution-76.json) |
 | Revolution 3 | 261098 | [261098-revolution-3.json](./261098-revolution-3.json) |
 | Revolution Ace | 17033 | [17033-revolution-ace.json](./17033-revolution-ace.json) |
@@ -9247,6 +9248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Lord Rising | 158349 | [158349-robot-lord-rising.json](./158349-robot-lord-rising.json) |
 | Robot Maker | 385335 | [385335-robot-maker.json](./385335-robot-maker.json) |
 | Robot Master | 28788 | [28788-robot-master.json](./28788-robot-master.json) |
+| Robot Messiah | 73953 | [73953-robot-messiah.json](./73953-robot-messiah.json) |
 | Robot Mil | 387341 | [387341-robot-mil.json](./387341-robot-mil.json) |
 | Robot Multitool | 293868 | [293868-robot-multitool.json](./293868-robot-multitool.json) |
 | Robot Nest Escape | 315737 | [315737-robot-nest-escape.json](./315737-robot-nest-escape.json) |
