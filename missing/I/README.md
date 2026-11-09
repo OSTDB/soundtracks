@@ -4021,7 +4021,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4077,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitely Up 5 | 335336 | [335336-infinitely-up-5.json](./335336-infinitely-up-5.json) |
 | Infinitely Up: Skip Figure | 335333 | [335333-infinitely-up-skip-figure.json](./335333-infinitely-up-skip-figure.json) |
 | Infinitely Up: Turn the Figure | 335334 | [335334-infinitely-up-turn-the-figure.json](./335334-infinitely-up-turn-the-figure.json) |
+| Infinitesimal Point | 33629 | [33629-infinitesimal-point.json](./33629-infinitesimal-point.json) |
 | Infinitesimals | 26200 | [26200-infinitesimals.json](./26200-infinitesimals.json) |
 | InfiniteSpace - Space Game | 26173 | [26173-infinitespace-space-game.json](./26173-infinitespace-space-game.json) |
 | Infinitevania | 217229 | [217229-infinitevania.json](./217229-infinitevania.json) |
@@ -6960,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's T-Time | 230843 | [230843-its-t-time.json](./230843-its-t-time.json) |
 | It's Time | 201246 | [201246-its-time.json](./201246-its-time.json) |
 | It's Time | 23888 | [23888-its-time.json](./23888-its-time.json) |
+| It's time to get out from the solar system | 34534 | [34534-its-time-to-get-out-from-the-solar-system.json](./34534-its-time-to-get-out-from-the-solar-system.json) |
 | It's Time, Your Majesty | 347973 | [347973-its-time-your-majesty.json](./347973-its-time-your-majesty.json) |
 | It's Titanic | 89188 | [89188-its-titanic.json](./89188-its-titanic.json) |
 | It's Too Late to Apologize | 401642 | [401642-its-too-late-to-apologize.json](./401642-its-too-late-to-apologize.json) |
