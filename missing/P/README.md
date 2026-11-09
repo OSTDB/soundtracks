@@ -2871,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passage | 290289 | [290289-passage.json](./290289-passage.json) |
 | Passage | 36502 | [36502-passage.json](./36502-passage.json) |
 | Passage 3 | 210017 | [210017-passage-3.json](./210017-passage-3.json) |
+| Passage 4 | 30012 | [30012-passage-4.json](./30012-passage-4.json) |
 | Passage 4: Christmas Edition | 97132 | [97132-passage-4-christmas-edition.json](./97132-passage-4-christmas-edition.json) |
 | Passage IV: Race to the Grave | 342183 | [342183-passage-iv-race-to-the-grave.json](./342183-passage-iv-race-to-the-grave.json) |
 | Passage to Malkuth | 132744 | [132744-passage-to-malkuth.json](./132744-passage-to-malkuth.json) |
@@ -9155,6 +9156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixiel: Dreadwager | 277424 | [277424-pixiel-dreadwager.json](./277424-pixiel-dreadwager.json) |
 | Pixies 'n Crafts | 204218 | [204218-pixies-n-crafts.json](./204218-pixies-n-crafts.json) |
 | Pixiescape | 217389 | [217389-pixiescape.json](./217389-pixiescape.json) |
+| Piximalism | 30010 | [30010-piximalism.json](./30010-piximalism.json) |
 | Pixlaria | 420942 | [420942-pixlaria.json](./420942-pixlaria.json) |
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
 | Pixld | 64325 | [64325-pixld.json](./64325-pixld.json) |
@@ -10419,6 +10421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pleasure Cruise | 380789 | [380789-pleasure-cruise.json](./380789-pleasure-cruise.json) |
 | Pleasure Delving | 395748 | [395748-pleasure-delving.json](./395748-pleasure-delving.json) |
 | Pleasure Goal | 39950 | [39950-pleasure-goal.json](./39950-pleasure-goal.json) |
+| Pleasure in Dream | 29986 | [29986-pleasure-in-dream.json](./29986-pleasure-in-dream.json) |
 | Pleasure Kingdom | 190075 | [190075-pleasure-kingdom.json](./190075-pleasure-kingdom.json) |
 | Pleasure Party | 206318 | [206318-pleasure-party.json](./206318-pleasure-party.json) |
 | Pleasure Party 2 | 262000 | [262000-pleasure-party-2.json](./262000-pleasure-party-2.json) |
