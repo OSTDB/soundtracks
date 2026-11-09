@@ -426,6 +426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Dust: Hold it Together | 236939 | [236939-back-to-dust-hold-it-together.json](./236939-back-to-dust-hold-it-together.json) |
 | Back to Earth | 92876 | [92876-back-to-earth.json](./92876-back-to-earth.json) |
 | Back to Ebatoria | 106504 | [106504-back-to-ebatoria.json](./106504-back-to-ebatoria.json) |
+| Back to Gaya | 62304 | [62304-back-to-gaya.json](./62304-back-to-gaya.json) |
 | Back to Hearth | 273358 | [273358-back-to-hearth.json](./273358-back-to-hearth.json) |
 | Back to Hell | 120588 | [120588-back-to-hell.json](./120588-back-to-hell.json) |
 | Back to Home | 220350 | [220350-back-to-home.json](./220350-back-to-home.json) |
@@ -992,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3645,10 +3647,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
 | Battle Bears 1 Mac | 88639 | [88639-battle-bears-1-mac.json](./88639-battle-bears-1-mac.json) |
 | Battle Bears 1: Zombies | 171453 | [171453-battle-bears-1-zombies.json](./171453-battle-bears-1-zombies.json) |
+| Battle Bears Blast | 62321 | [62321-battle-bears-blast.json](./62321-battle-bears-blast.json) |
 | Battle Bears Comics | 62247 | [62247-battle-bears-comics.json](./62247-battle-bears-comics.json) |
 | Battle Bears Gold | 62423 | [62423-battle-bears-gold.json](./62423-battle-bears-gold.json) |
 | Battle Bears Pro | 61668 | [61668-battle-bears-pro.json](./61668-battle-bears-pro.json) |
 | Battle Bears Royale | 60837 | [60837-battle-bears-royale.json](./60837-battle-bears-royale.json) |
+| Battle Bears: GO | 62320 | [62320-battle-bears-go.json](./62320-battle-bears-go.json) |
+| Battle Bears: Zombies | 62329 | [62329-battle-bears-zombies.json](./62329-battle-bears-zombies.json) |
 | Battle Bears: Zombies AR | 89200 | [89200-battle-bears-zombies-ar.json](./89200-battle-bears-zombies-ar.json) |
 | Battle Beaster | 77563 | [77563-battle-beaster.json](./77563-battle-beaster.json) |
 | Battle Beaster 2 | 376728 | [376728-battle-beaster-2.json](./376728-battle-beaster-2.json) |
@@ -4795,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BCFX: The Doug Williams Edition | 70603 | [70603-bcfx-the-doug-williams-edition.json](./70603-bcfx-the-doug-williams-edition.json) |
 | BCI VR Horror Attraction: The Mad Trail | 202097 | [202097-bci-vr-horror-attraction-the-mad-trail.json](./202097-bci-vr-horror-attraction-the-mad-trail.json) |
 | Bckspce | 411576 | [411576-bckspce.json](./411576-bckspce.json) |
+| BCT Commander | 61834 | [61834-bct-commander.json](./61834-bct-commander.json) |
 | BCV: Battle Construction Vehicles | 43534 | [43534-bcv-battle-construction-vehicles.json](./43534-bcv-battle-construction-vehicles.json) |
 | BDef | 61130 | [61130-bdef.json](./61130-bdef.json) |
 | BDEF: Base Defenders | 179329 | [179329-bdef-base-defenders.json](./179329-bdef-base-defenders.json) |
