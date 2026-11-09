@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: Mind Games | 268483 | [268483-x-men-mind-games.json](./268483-x-men-mind-games.json) |
 | X-Men: Mojo World | 46326 | [46326-x-men-mojo-world.json](./46326-x-men-mojo-world.json) |
 | X-Men: Mutant Academy | 259648 | [259648-x-men-mutant-academy.json](./259648-x-men-mutant-academy.json) |
+| X-Men: Mutant Academy | 4109 | [4109-x-men-mutant-academy.json](./4109-x-men-mutant-academy.json) |
 | X-Men: Mutant Apocalypse | 42576 | [42576-x-men-mutant-apocalypse.json](./42576-x-men-mutant-apocalypse.json) |
 | X-Men: Mutant Wars | 49887 | [49887-x-men-mutant-wars.json](./49887-x-men-mutant-wars.json) |
 | X-Men: Next Dimension | 4577 | [4577-x-men-next-dimension.json](./4577-x-men-next-dimension.json) |
