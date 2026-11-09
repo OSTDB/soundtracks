@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namtir Raiders | 319589 | [319589-namtir-raiders.json](./319589-namtir-raiders.json) |
 | Nana | 201771 | [201771-nana.json](./201771-nana.json) |
 | Nana | 61424 | [61424-nana.json](./61424-nana.json) |
+| Nana in the Dark | 74630 | [74630-nana-in-the-dark.json](./74630-nana-in-the-dark.json) |
 | Nana Tan | 267395 | [267395-nana-tan.json](./267395-nana-tan.json) |
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
 | Nana-chan to Issho | 108145 | [108145-nana-chan-to-issho.json](./108145-nana-chan-to-issho.json) |
@@ -2338,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoBalls2 | 83560 | [83560-neoballs2.json](./83560-neoballs2.json) |
 | Neoblazer | 352249 | [352249-neoblazer.json](./352249-neoblazer.json) |
 | NeoBoom | 55780 | [55780-neoboom.json](./55780-neoboom.json) |
+| NeoBoom2 | 74620 | [74620-neoboom2.json](./74620-neoboom2.json) |
 | NeoCandy | 109900 | [109900-neocandy.json](./109900-neocandy.json) |
 | NeoCars | 258324 | [258324-neocars.json](./258324-neocars.json) |
 | Neocense | 157060 | [157060-neocense.json](./157060-neocense.json) |
@@ -2452,6 +2454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Dash Tales | 268970 | [268970-neon-dash-tales.json](./268970-neon-dash-tales.json) |
 | Neon Death Drop | 240658 | [240658-neon-death-drop.json](./240658-neon-death-drop.json) |
 | Neon Defenders Premium Defense | 200156 | [200156-neon-defenders-premium-defense.json](./200156-neon-defenders-premium-defense.json) |
+| Neon Defense 1 : Pink Power | 74644 | [74644-neon-defense-1-pink-power.json](./74644-neon-defense-1-pink-power.json) |
 | Neon Depth | 168333 | [168333-neon-depth.json](./168333-neon-depth.json) |
 | Neon Dimension | 157385 | [157385-neon-dimension.json](./157385-neon-dimension.json) |
 | Neon District | 124201 | [124201-neon-district.json](./124201-neon-district.json) |
