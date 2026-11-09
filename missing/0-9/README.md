@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-2-Fantastic Word Search! | 343493 | [343493-1-2-fantastic-word-search.json](./343493-1-2-fantastic-word-search.json) |
 | 1-2-Splendid Word Search! | 414432 | [414432-1-2-splendid-word-search.json](./414432-1-2-splendid-word-search.json) |
 | 1-2-Swift | 29690 | [29690-1-2-swift.json](./29690-1-2-swift.json) |
+| 1-2-Switch | 26762 | [26762-1-2-switch.json](./26762-1-2-switch.json) |
 | 1-2-Whopping Word Search! | 316806 | [316806-1-2-whopping-word-search.json](./316806-1-2-whopping-word-search.json) |
 | 1-2-Word Search! | 300728 | [300728-1-2-word-search.json](./300728-1-2-word-search.json) |
 | 1-800 Super | 175151 | [175151-1-800-super.json](./175151-1-800-super.json) |
