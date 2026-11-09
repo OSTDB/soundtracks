@@ -8362,6 +8362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: Chapter One - Saints and Sinners | 194958 | [194958-sherlock-holmes-chapter-one-saints-and-sinners.json](./194958-sherlock-holmes-chapter-one-saints-and-sinners.json) |
 | Sherlock Holmes: Chapter One - Victorian Starter Pack | 245164 | [245164-sherlock-holmes-chapter-one-victorian-starter-pack.json](./245164-sherlock-holmes-chapter-one-victorian-starter-pack.json) |
 | Sherlock Holmes: Consulting Detective | 5435 | [5435-sherlock-holmes-consulting-detective.json](./5435-sherlock-holmes-consulting-detective.json) |
+| Sherlock Holmes: Consulting Detective Vol. II | 5436 | [5436-sherlock-holmes-consulting-detective-vol-ii.json](./5436-sherlock-holmes-consulting-detective-vol-ii.json) |
 | Sherlock Holmes: Crimes & Punishments | 5541 | [5541-sherlock-holmes-crimes-and-punishments.json](./5541-sherlock-holmes-crimes-and-punishments.json) |
 | Sherlock Holmes: Crimes and Punishments + Sherlock Holmes: The Devil's Daughter Bundle | 196515 | [196515-sherlock-holmes-crimes-and-punishments-sherlock-holmes-the-devils-daughter-bundle.json](./196515-sherlock-holmes-crimes-and-punishments-sherlock-holmes-the-devils-daughter-bundle.json) |
 | Sherlock Holmes: Crimes and Punishments Redux | 164780 | [164780-sherlock-holmes-crimes-and-punishments-redux.json](./164780-sherlock-holmes-crimes-and-punishments-redux.json) |
@@ -13554,6 +13555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam 'n Jam 95 | 39017 | [39017-slam-n-jam-95.json](./39017-slam-n-jam-95.json) |
 | Slam and Roll | 220702 | [220702-slam-and-roll.json](./220702-slam-and-roll.json) |
 | Slam City with Scottie Pippen | 298559 | [298559-slam-city-with-scottie-pippen.json](./298559-slam-city-with-scottie-pippen.json) |
+| Slam City with Scottie Pippen | 5439 | [5439-slam-city-with-scottie-pippen.json](./5439-slam-city-with-scottie-pippen.json) |
 | Slam City with Scottie Pippen: Respect Edition | 375597 | [375597-slam-city-with-scottie-pippen-respect-edition.json](./375597-slam-city-with-scottie-pippen-respect-edition.json) |
 | Slam Dome | 211549 | [211549-slam-dome.json](./211549-slam-dome.json) |
 | Slam Dragon | 44982 | [44982-slam-dragon.json](./44982-slam-dragon.json) |
@@ -19641,6 +19643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulslinger: Envoy of Death | 259147 | [259147-soulslinger-envoy-of-death.json](./259147-soulslinger-envoy-of-death.json) |
 | Soulsmith | 89561 | [89561-soulsmith.json](./89561-soulsmith.json) |
 | Soulssss | 336952 | [336952-soulssss.json](./336952-soulssss.json) |
+| Soulstar | 5453 | [5453-soulstar.json](./5453-soulstar.json) |
 | Soulstar X | 46427 | [46427-soulstar-x.json](./46427-soulstar-x.json) |
 | Soulstation | 402447 | [402447-soulstation.json](./402447-soulstation.json) |
 | Soulstice | 152262 | [152262-soulstice.json](./152262-soulstice.json) |
@@ -29934,6 +29937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strung Up By Sketches | 340267 | [340267-strung-up-by-sketches.json](./340267-strung-up-by-sketches.json) |
 | Stryfe - The Everlasting Battle | 39136 | [39136-stryfe-the-everlasting-battle.json](./39136-stryfe-the-everlasting-battle.json) |
 | Stryke | 249805 | [249805-stryke.json](./249805-stryke.json) |
+| Stryker's Run | 5876 | [5876-strykers-run.json](./5876-strykers-run.json) |
 | Stryx | 12784 | [12784-stryx.json](./12784-stryx.json) |
 | STSP: Super Titty Space Prison | 260643 | [260643-stsp-super-titty-space-prison.json](./260643-stsp-super-titty-space-prison.json) |
 | Stu: The First AI | 207741 | [207741-stu-the-first-ai.json](./207741-stu-the-first-ai.json) |
@@ -35520,6 +35524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgery Simulator 3D - 2 | 188379 | [188379-surgery-simulator-3d-2.json](./188379-surgery-simulator-3d-2.json) |
 | Surgical Robot Simulator | 170543 | [170543-surgical-robot-simulator.json](./170543-surgical-robot-simulator.json) |
 | Surgical Strike | 298295 | [298295-surgical-strike.json](./298295-surgical-strike.json) |
+| Surgical Strike | 5456 | [5456-surgical-strike.json](./5456-surgical-strike.json) |
 | Surgineer | 223145 | [223145-surgineer.json](./223145-surgineer.json) |
 | Surging Blood | 386891 | [386891-surging-blood.json](./386891-surging-blood.json) |
 | Surgit | 302889 | [302889-surgit.json](./302889-surgit.json) |
