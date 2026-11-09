@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.C.H. - Maneuverable Armed Computer Humans | 73051 | [73051-m-a-c-h-maneuverable-armed-computer-humans.json](./73051-m-a-c-h-maneuverable-armed-computer-humans.json) |
 | M.A.C.H. 3 | 24406 | [24406-m-a-c-h-3.json](./24406-m-a-c-h-3.json) |
 | M.A.C.S. | 90645 | [90645-m-a-c-s.json](./90645-m-a-c-s.json) |
+| M.A.D. | 18680 | [18680-m-a-d.json](./18680-m-a-d.json) |
 | M.A.D. Cows | 279879 | [279879-m-a-d-cows.json](./279879-m-a-d-cows.json) |
 | M.A.D. Cows and D.U.M.B. Ducks Bundle | 331533 | [331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json](./331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json) |
 | M.A.I.D.s | 148360 | [148360-m-a-i-d-s.json](./148360-m-a-i-d-s.json) |
@@ -4041,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart 8: DLC Pack Two | 22146 | [22146-mario-kart-8-dlc-pack-two.json](./22146-mario-kart-8-dlc-pack-two.json) |
 | Mario Kart 8: Limited Edition | 45161 | [45161-mario-kart-8-limited-edition.json](./45161-mario-kart-8-limited-edition.json) |
 | Mario Kart Arcade GP | 45160 | [45160-mario-kart-arcade-gp.json](./45160-mario-kart-arcade-gp.json) |
+| Mario Kart Arcade GP DX | 19840 | [19840-mario-kart-arcade-gp-dx.json](./19840-mario-kart-arcade-gp-dx.json) |
 | Mario Kart Arcade GP DX | 229513 | [229513-mario-kart-arcade-gp-dx.json](./229513-mario-kart-arcade-gp-dx.json) |
 | Mario Kart Arcade GP DX: Baby Mario | 229517 | [229517-mario-kart-arcade-gp-dx-baby-mario.json](./229517-mario-kart-arcade-gp-dx-baby-mario.json) |
 | Mario Kart Arcade GP DX: Baby Peach | 229518 | [229518-mario-kart-arcade-gp-dx-baby-peach.json](./229518-mario-kart-arcade-gp-dx-baby-peach.json) |
@@ -17683,6 +17685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MorDobble: Spot The Match | 250738 | [250738-mordobble-spot-the-match.json](./250738-mordobble-spot-the-match.json) |
 | Mordon's Quest | 13018 | [13018-mordons-quest.json](./13018-mordons-quest.json) |
 | Mordor | 229109 | [229109-mordor.json](./229109-mordor.json) |
+| Mordor: The Depths of Dejenol | 19825 | [19825-mordor-the-depths-of-dejenol.json](./19825-mordor-the-depths-of-dejenol.json) |
 | Mordred | 97172 | [97172-mordred.json](./97172-mordred.json) |
 | More Adventures of Big Mac: The Mad Maintenance Man | 64143 | [64143-more-adventures-of-big-mac-the-mad-maintenance-man.json](./64143-more-adventures-of-big-mac-the-mad-maintenance-man.json) |
 | More and More | 113057 | [113057-more-and-more.json](./113057-more-and-more.json) |
@@ -19693,6 +19696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MTV Fan Attack | 75351 | [75351-mtv-fan-attack.json](./75351-mtv-fan-attack.json) |
 | MTV Jersey Shore | 281023 | [281023-mtv-jersey-shore.json](./281023-mtv-jersey-shore.json) |
 | MTV Music Generator | 45098 | [45098-mtv-music-generator.json](./45098-mtv-music-generator.json) |
+| MTV Music Generator 2 | 18725 | [18725-mtv-music-generator-2.json](./18725-mtv-music-generator-2.json) |
 | MTV Music Generator 3: This is the Remix | 24139 | [24139-mtv-music-generator-3-this-is-the-remix.json](./24139-mtv-music-generator-3-this-is-the-remix.json) |
 | MTV Remote Control | 18019 | [18019-mtv-remote-control.json](./18019-mtv-remote-control.json) |
 | MTV Sports Skateboarding | 45810 | [45810-mtv-sports-skateboarding.json](./45810-mtv-sports-skateboarding.json) |
