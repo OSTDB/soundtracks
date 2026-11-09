@@ -6548,6 +6548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goken | 36608 | [36608-goken.json](./36608-goken.json) |
 | Gokichi-kun Series: Igo Nyuumon Doujou | 239566 | [239566-gokichi-kun-series-igo-nyuumon-doujou.json](./239566-gokichi-kun-series-igo-nyuumon-doujou.json) |
 | Gokinjo Boukentai | 42398 | [42398-gokinjo-boukentai.json](./42398-gokinjo-boukentai.json) |
+| Goku Mahjong Deluxe: Mirai Senshi 21 | 49639 | [49639-goku-mahjong-deluxe-mirai-senshi-21.json](./49639-goku-mahjong-deluxe-mirai-senshi-21.json) |
 | Goku Makaimura Kai | 63644 | [63644-goku-makaimura-kai.json](./63644-goku-makaimura-kai.json) |
 | Gokuaku Doumei Dump Matsumoto | 409994 | [409994-gokuaku-doumei-dump-matsumoto.json](./409994-gokuaku-doumei-dump-matsumoto.json) |
 | Gokudou no Hanayome | 394081 | [394081-gokudou-no-hanayome.json](./394081-gokudou-no-hanayome.json) |
