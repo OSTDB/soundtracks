@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camelot 10000CE | 374244 | [374244-camelot-10000ce.json](./374244-camelot-10000ce.json) |
 | Camelot 2: The Holy Grail | 247766 | [247766-camelot-2-the-holy-grail.json](./247766-camelot-2-the-holy-grail.json) |
 | Camelot II: The Holy Grail - Collector's Edition | 417499 | [417499-camelot-ii-the-holy-grail-collectors-edition.json](./417499-camelot-ii-the-holy-grail-collectors-edition.json) |
+| Camelot Unchained | 63438 | [63438-camelot-unchained.json](./63438-camelot-unchained.json) |
 | Camelot Warriors | 13461 | [13461-camelot-warriors.json](./13461-camelot-warriors.json) |
 | Camelot: Wrath of the Green Knight | 189335 | [189335-camelot-wrath-of-the-green-knight.json](./189335-camelot-wrath-of-the-green-knight.json) |
 | Camelot: Wrath of the Green Knight - Collector's Edition | 249373 | [249373-camelot-wrath-of-the-green-knight-collectors-edition.json](./249373-camelot-wrath-of-the-green-knight-collectors-edition.json) |
@@ -7568,6 +7569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chikudenya Toubei | 59354 | [59354-chikudenya-toubei.json](./59354-chikudenya-toubei.json) |
 | ChikuTaku | 233035 | [233035-chikutaku.json](./233035-chikutaku.json) |
 | Chiky Poky | 221184 | [221184-chiky-poky.json](./221184-chiky-poky.json) |
+| Chikyu Kaimetsu teki B-kyu Kanojo | 63341 | [63341-chikyu-kaimetsu-teki-b-kyu-kanojo.json](./63341-chikyu-kaimetsu-teki-b-kyu-kanojo.json) |
 | Chikyuu Bouei Shoujo Iko-chan: UFO Daisakusen | 58781 | [58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json](./58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json) |
 | Chikyuu Kaihou Gun ZAS | 91883 | [91883-chikyuu-kaihou-gun-zas.json](./91883-chikyuu-kaihou-gun-zas.json) |
 | Chikyuu no Arukikata DS: Shanghai, Hangzhou, Suzhou '07-'08 | 269750 | [269750-chikyuu-no-arukikata-ds-shanghai-hangzhou-suzhou-07-08.json](./269750-chikyuu-no-arukikata-ds-shanghai-hangzhou-suzhou-07-08.json) |
@@ -20550,6 +20552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Fables: Twisted Tower - Collector's Edition | 236203 | [236203-cursed-fables-twisted-tower-collectors-edition.json](./236203-cursed-fables-twisted-tower-collectors-edition.json) |
 | Cursed Fables: White as Snow | 417775 | [417775-cursed-fables-white-as-snow.json](./417775-cursed-fables-white-as-snow.json) |
 | Cursed Fables: White as Snow - Collector's Edition | 195804 | [195804-cursed-fables-white-as-snow-collectors-edition.json](./195804-cursed-fables-white-as-snow-collectors-edition.json) |
+| Cursed Fates: The Headless Horseman | 63432 | [63432-cursed-fates-the-headless-horseman.json](./63432-cursed-fates-the-headless-horseman.json) |
 | Cursed Fates: The Headless Horseman - Collector's Edition | 417777 | [417777-cursed-fates-the-headless-horseman-collectors-edition.json](./417777-cursed-fates-the-headless-horseman-collectors-edition.json) |
 | Cursed Frontier | 374572 | [374572-cursed-frontier.json](./374572-cursed-frontier.json) |
 | Cursed Gem | 129411 | [129411-cursed-gem.json](./129411-cursed-gem.json) |
