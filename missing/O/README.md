@@ -3521,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenPop | 184869 | [184869-openpop.json](./184869-openpop.json) |
 | OpenQuest | 94550 | [94550-openquest.json](./94550-openquest.json) |
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
+| OpenRA | 57205 | [57205-openra.json](./57205-openra.json) |
 | OpenRCT2 | 80720 | [80720-openrct2.json](./80720-openrct2.json) |
 | OpenSandbox | 354902 | [354902-opensandbox.json](./354902-opensandbox.json) |
 | OpenSeason | 279154 | [279154-openseason.json](./279154-openseason.json) |
