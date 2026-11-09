@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C99 Games | 421188 | [421188-c99-games.json](./421188-c99-games.json) |
 | Cá Trê | 320632 | [320632-ca-tre.json](./320632-ca-tre.json) |
 | Caaahr! | 405654 | [405654-caaahr.json](./405654-caaahr.json) |
+| Caaargh! | 56116 | [56116-caaargh.json](./56116-caaargh.json) |
 | Caapora Adventure: Ojibe's Revenge | 171379 | [171379-caapora-adventure-ojibes-revenge.json](./171379-caapora-adventure-ojibes-revenge.json) |
 | Cab Driver | 267760 | [267760-cab-driver.json](./267760-cab-driver.json) |
 | Cab Driver Commander | 335319 | [335319-cab-driver-commander.json](./335319-cab-driver-commander.json) |
@@ -7612,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Childhood Friends | 150423 | [150423-childhood-friends.json](./150423-childhood-friends.json) |
 | Childhood Friends | 364958 | [364958-childhood-friends.json](./364958-childhood-friends.json) |
 | Childhood Gone: Shadowed Wand | 157536 | [157536-childhood-gone-shadowed-wand.json](./157536-childhood-gone-shadowed-wand.json) |
+| Childhood Grocery | 56627 | [56627-childhood-grocery.json](./56627-childhood-grocery.json) |
 | Childhood Heroes 3 in 1 | 340735 | [340735-childhood-heroes-3-in-1.json](./340735-childhood-heroes-3-in-1.json) |
 | Childhood Homes: And Why We Hate Them | 254091 | [254091-childhood-homes-and-why-we-hate-them.json](./254091-childhood-homes-and-why-we-hate-them.json) |
 | Childhood Watermelon | 366311 | [366311-childhood-watermelon.json](./366311-childhood-watermelon.json) |
@@ -8208,6 +8210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Strike | 304794 | [304794-chopper-strike.json](./304794-chopper-strike.json) |
 | Chopper to Hell | 117393 | [117393-chopper-to-hell.json](./117393-chopper-to-hell.json) |
 | Chopper X | 404195 | [404195-chopper-x.json](./404195-chopper-x.json) |
+| Chopper: Attack helicopters | 56645 | [56645-chopper-attack-helicopters.json](./56645-chopper-attack-helicopters.json) |
 | Chopper: Lethal darkness | 31281 | [31281-chopper-lethal-darkness.json](./31281-chopper-lethal-darkness.json) |
 | Chopper: Lethal darkness - Deluxe Edition | 52740 | [52740-chopper-lethal-darkness-deluxe-edition.json](./52740-chopper-lethal-darkness-deluxe-edition.json) |
 | Choppertchi | 230117 | [230117-choppertchi.json](./230117-choppertchi.json) |
@@ -9661,6 +9664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Night Carnage | 190417 | [190417-city-night-carnage.json](./190417-city-night-carnage.json) |
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
 | City Noodle Shop Simulator | 326451 | [326451-city-noodle-shop-simulator.json](./326451-city-noodle-shop-simulator.json) |
+| City of Ages: Picture Supportive Text MUD | 56628 | [56628-city-of-ages-picture-supportive-text-mud.json](./56628-city-of-ages-picture-supportive-text-mud.json) |
 | City of Atlantis | 153911 | [153911-city-of-atlantis.json](./153911-city-of-atlantis.json) |
 | City of Beats | 145845 | [145845-city-of-beats.json](./145845-city-of-beats.json) |
 | City of Brass | 44122 | [44122-city-of-brass.json](./44122-city-of-brass.json) |
