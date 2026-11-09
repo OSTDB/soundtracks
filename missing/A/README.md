@@ -1884,6 +1884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abalone | 9939 | [9939-abalone.json](./9939-abalone.json) |
 | Abalyte | 110692 | [110692-abalyte.json](./110692-abalyte.json) |
 | Aban Hawkins & the 1000 Spikes | 91756 | [91756-aban-hawkins-and-the-1000-spikes.json](./91756-aban-hawkins-and-the-1000-spikes.json) |
+| Aban Hawkins and the 1,001 Spikes | 52037 | [52037-aban-hawkins-and-the-1-001-spikes.json](./52037-aban-hawkins-and-the-1-001-spikes.json) |
 | Abandon | 222631 | [222631-abandon.json](./222631-abandon.json) |
 | Abandon | 91827 | [91827-abandon.json](./91827-abandon.json) |
 | Abandon 2 | 93092 | [93092-abandon-2.json](./93092-abandon-2.json) |
@@ -2116,6 +2117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above the Snow | 349373 | [349373-above-the-snow.json](./349373-above-the-snow.json) |
 | Above the Sun | 409353 | [409353-above-the-sun.json](./409353-above-the-sun.json) |
 | Above the Waters | 145510 | [145510-above-the-waters.json](./145510-above-the-waters.json) |
+| Above Top Secret | 51996 | [51996-above-top-secret.json](./51996-above-top-secret.json) |
 | Above VR | 30855 | [30855-above-vr.json](./30855-above-vr.json) |
 | Above: Colonies of the Mist | 388001 | [388001-above-colonies-of-the-mist.json](./388001-above-colonies-of-the-mist.json) |
 | Above: The Fallen | 68799 | [68799-above-the-fallen.json](./68799-above-the-fallen.json) |
@@ -2186,6 +2188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Drift: Premium Edition | 256036 | [256036-absolute-drift-premium-edition.json](./256036-absolute-drift-premium-edition.json) |
 | Absolute Drift: Zen Edition | 23835 | [23835-absolute-drift-zen-edition.json](./23835-absolute-drift-zen-edition.json) |
 | Absolute Duo | 92286 | [92286-absolute-duo.json](./92286-absolute-duo.json) |
+| Absolute E-Mahjong | 52036 | [52036-absolute-e-mahjong.json](./52036-absolute-e-mahjong.json) |
 | Absolute Fall | 119004 | [119004-absolute-fall.json](./119004-absolute-fall.json) |
 | Absolute Fear: Aooni | 296243 | [296243-absolute-fear-aooni.json](./296243-absolute-fear-aooni.json) |
 | Absolute Force Online | 64311 | [64311-absolute-force-online.json](./64311-absolute-force-online.json) |
@@ -4143,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero The Acro-Bat 2 | 312089 | [312089-aero-the-acro-bat-2.json](./312089-aero-the-acro-bat-2.json) |
 | Aero the Acro-Bat Collection | 375600 | [375600-aero-the-acro-bat-collection.json](./375600-aero-the-acro-bat-collection.json) |
 | Aero The Acro-Bat: Rascal Rival Revenge | 312090 | [312090-aero-the-acro-bat-rascal-rival-revenge.json](./312090-aero-the-acro-bat-rascal-rival-revenge.json) |
+| Aero-Cross | 52035 | [52035-aero-cross.json](./52035-aero-cross.json) |
 | Aero's Quest | 35321 | [35321-aeros-quest.json](./35321-aeros-quest.json) |
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
 | Aerobics Revolution | 269323 | [269323-aerobics-revolution.json](./269323-aerobics-revolution.json) |
@@ -4889,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Gods: Spirit Faction | 399101 | [399101-age-of-gods-spirit-faction.json](./399101-age-of-gods-spirit-faction.json) |
 | Age of Gods: Tribal Faction | 399098 | [399098-age-of-gods-tribal-faction.json](./399098-age-of-gods-tribal-faction.json) |
 | Age of Grit | 61074 | [61074-age-of-grit.json](./61074-age-of-grit.json) |
+| Age of Hammer Wars | 52033 | [52033-age-of-hammer-wars.json](./52033-age-of-hammer-wars.json) |
 | Age of Heroes II: Underground Horror | 320973 | [320973-age-of-heroes-ii-underground-horror.json](./320973-age-of-heroes-ii-underground-horror.json) |
 | Age of Heroes VR | 51381 | [51381-age-of-heroes-vr.json](./51381-age-of-heroes-vr.json) |
 | Age Of Heroes: Army Of Darkness | 320970 | [320970-age-of-heroes-army-of-darkness.json](./320970-age-of-heroes-army-of-darkness.json) |
@@ -5092,6 +5097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agents of Argus | 304415 | [304415-agents-of-argus.json](./304415-agents-of-argus.json) |
 | Agents of Groove | 325644 | [325644-agents-of-groove.json](./325644-agents-of-groove.json) |
 | Agents of Mayhem | 19440 | [19440-agents-of-mayhem.json](./19440-agents-of-mayhem.json) |
+| Agents of Mayhem: Day One Edition | 52015 | [52015-agents-of-mayhem-day-one-edition.json](./52015-agents-of-mayhem-day-one-edition.json) |
 | Agents of Mayhem: Johnny Gat | 118271 | [118271-agents-of-mayhem-johnny-gat.json](./118271-agents-of-mayhem-johnny-gat.json) |
 | Agents of Mayhem: Lazarus | 118270 | [118270-agents-of-mayhem-lazarus.json](./118270-agents-of-mayhem-lazarus.json) |
 | Agents of Mayhem: Lazarus Agent Pack | 169936 | [169936-agents-of-mayhem-lazarus-agent-pack.json](./169936-agents-of-mayhem-lazarus-agent-pack.json) |
@@ -6219,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akimbo Reaper | 425184 | [425184-akimbo-reaper.json](./425184-akimbo-reaper.json) |
 | Akimbo: Kung-Fu Hero | 1995 | [1995-akimbo-kung-fu-hero.json](./1995-akimbo-kung-fu-hero.json) |
 | Akimbot | 300484 | [300484-akimbot.json](./300484-akimbot.json) |
+| Akimi Village | 52032 | [52032-akimi-village.json](./52032-akimi-village.json) |
 | Akin | 32403 | [32403-akin.json](./32403-akin.json) |
 | Akin | 85902 | [85902-akin.json](./85902-akin.json) |
 | Akin Vol 2 | 50505 | [50505-akin-vol-2.json](./50505-akin-vol-2.json) |
@@ -7090,6 +7097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Evolution | 347457 | [347457-alien-evolution.json](./347457-alien-evolution.json) |
 | Alien Express | 416573 | [416573-alien-express.json](./416573-alien-express.json) |
 | Alien Extraction | 195691 | [195691-alien-extraction.json](./195691-alien-extraction.json) |
+| Alien Fear | 52031 | [52031-alien-fear.json](./52031-alien-fear.json) |
 | Alien Field | 113179 | [113179-alien-field.json](./113179-alien-field.json) |
 | Alien Fish Finger | 38858 | [38858-alien-fish-finger.json](./38858-alien-fish-finger.json) |
 | Alien Fish World VR | 379446 | [379446-alien-fish-world-vr.json](./379446-alien-fish-world-vr.json) |
@@ -7472,6 +7480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alive Sharks | 70285 | [70285-alive-sharks.json](./70285-alive-sharks.json) |
 | Alive! Jigsaw | 94344 | [94344-alive-jigsaw.json](./94344-alive-jigsaw.json) |
 | Alive? Dead? | 105514 | [105514-alive-dead.json](./105514-alive-dead.json) |
+| AliveInVR | 52060 | [52060-aliveinvr.json](./52060-aliveinvr.json) |
 | AliveZ | 327925 | [327925-alivez.json](./327925-alivez.json) |
 | Aliya | 278728 | [278728-aliya.json](./278728-aliya.json) |
 | Aliya: Timelink | 373257 | [373257-aliya-timelink.json](./373257-aliya-timelink.json) |
@@ -12107,6 +12116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apokerlypse | 348672 | [348672-apokerlypse.json](./348672-apokerlypse.json) |
 | Apollo | 344860 | [344860-apollo.json](./344860-apollo.json) |
 | Apollo | 377104 | [377104-apollo.json](./377104-apollo.json) |
+| Apollo 11 | 52047 | [52047-apollo-11.json](./52047-apollo-11.json) |
 | Apollo 11 VR | 33145 | [33145-apollo-11-vr.json](./33145-apollo-11-vr.json) |
 | Apollo 11 VR Experience | 19016 | [19016-apollo-11-vr-experience.json](./19016-apollo-11-vr-experience.json) |
 | Apollo 11 VR HD | 111144 | [111144-apollo-11-vr-hd.json](./111144-apollo-11-vr-hd.json) |
@@ -12261,6 +12271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apples Busy Day | 302085 | [302085-apples-busy-day.json](./302085-apples-busy-day.json) |
 | Apples in the Abyss | 379088 | [379088-apples-in-the-abyss.json](./379088-apples-in-the-abyss.json) |
 | Apples in the Tree | 380028 | [380028-apples-in-the-tree.json](./380028-apples-in-the-tree.json) |
+| Apples to Apples | 52046 | [52046-apples-to-apples.json](./52046-apples-to-apples.json) |
 | Appleseed | 245142 | [245142-appleseed.json](./245142-appleseed.json) |
 | Appleseed EX | 90931 | [90931-appleseed-ex.json](./90931-appleseed-ex.json) |
 | Appleseed: Prometheus no Shintaku | 38370 | [38370-appleseed-prometheus-no-shintaku.json](./38370-appleseed-prometheus-no-shintaku.json) |
@@ -13188,6 +13199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classics: Super Breakout / Battlezone | 79702 | [79702-arcade-classics-super-breakout-battlezone.json](./79702-arcade-classics-super-breakout-battlezone.json) |
 | Arcade Combat | 337964 | [337964-arcade-combat.json](./337964-arcade-combat.json) |
 | Arcade Crossy Road | 228367 | [228367-arcade-crossy-road.json](./228367-arcade-crossy-road.json) |
+| Arcade Darts | 52045 | [52045-arcade-darts.json](./52045-arcade-darts.json) |
 | Arcade Daze | 251088 | [251088-arcade-daze.json](./251088-arcade-daze.json) |
 | Arcade Drift | 167347 | [167347-arcade-drift.json](./167347-arcade-drift.json) |
 | Arcade Dungeon | 215525 | [215525-arcade-dungeon.json](./215525-arcade-dungeon.json) |
