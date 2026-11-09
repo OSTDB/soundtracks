@@ -4929,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equestrian Training | 155464 | [155464-equestrian-training.json](./155464-equestrian-training.json) |
 | Equestrian Training | 85122 | [85122-equestrian-training.json](./85122-equestrian-training.json) |
 | Equilibria | 80447 | [80447-equilibria.json](./80447-equilibria.json) |
+| Equilibrio | 6667 | [6667-equilibrio.json](./6667-equilibrio.json) |
 | Equilibrium | 170999 | [170999-equilibrium.json](./170999-equilibrium.json) |
 | Equilibrium | 178990 | [178990-equilibrium.json](./178990-equilibrium.json) |
 | Equilibrium | 345783 | [345783-equilibrium.json](./345783-equilibrium.json) |
