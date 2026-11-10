@@ -8305,6 +8305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Crown: Genesis | 221144 | [221144-the-dark-crown-genesis.json](./221144-the-dark-crown-genesis.json) |
 | The Dark Crown: Genesis Demake | 368531 | [368531-the-dark-crown-genesis-demake.json](./368531-the-dark-crown-genesis-demake.json) |
 | The Dark Crystal | 14575 | [14575-the-dark-crystal.json](./14575-the-dark-crystal.json) |
+| The Dark Crystal: Age of Resistance Tactics | 119384 | [119384-the-dark-crystal-age-of-resistance-tactics.json](./119384-the-dark-crystal-age-of-resistance-tactics.json) |
 | The Dark Curiosity | 381002 | [381002-the-dark-curiosity.json](./381002-the-dark-curiosity.json) |
 | The Dark Debt | 283769 | [283769-the-dark-debt.json](./283769-the-dark-debt.json) |
 | The Dark Defender | 199092 | [199092-the-dark-defender.json](./199092-the-dark-defender.json) |
@@ -13127,6 +13128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Sword and Fairy 5 Prequel | 78467 | [78467-the-legend-of-sword-and-fairy-5-prequel.json](./78467-the-legend-of-sword-and-fairy-5-prequel.json) |
 | The Legend of Sword and Fairy 6 | 57034 | [57034-the-legend-of-sword-and-fairy-6.json](./57034-the-legend-of-sword-and-fairy-6.json) |
 | The Legend of Sword and Fairy 6: Limited Edition | 167085 | [167085-the-legend-of-sword-and-fairy-6-limited-edition.json](./167085-the-legend-of-sword-and-fairy-6-limited-edition.json) |
+| The Legend of Sword and Fairy 7 | 122105 | [122105-the-legend-of-sword-and-fairy-7.json](./122105-the-legend-of-sword-and-fairy-7.json) |
 | The Legend of Sword and Fairy 7: Dreamlike World | 235192 | [235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json](./235192-the-legend-of-sword-and-fairy-7-dreamlike-world.json) |
 | The Legend of Tango | 34641 | [34641-the-legend-of-tango.json](./34641-the-legend-of-tango.json) |
 | The Legend Of Tartar | 316042 | [316042-the-legend-of-tartar.json](./316042-the-legend-of-tartar.json) |
@@ -17155,6 +17157,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 2: Celebration! Stuff | 13131 | [13131-the-sims-2-celebration-stuff.json](./13131-the-sims-2-celebration-stuff.json) |
 | The Sims 2: Family Fun Stuff | 13128 | [13128-the-sims-2-family-fun-stuff.json](./13128-the-sims-2-family-fun-stuff.json) |
 | The Sims 2: Glamour Life Stuff | 13129 | [13129-the-sims-2-glamour-life-stuff.json](./13129-the-sims-2-glamour-life-stuff.json) |
+| The Sims 2: Happy Holiday Pack | 13127 | [13127-the-sims-2-happy-holiday-pack.json](./13127-the-sims-2-happy-holiday-pack.json) |
+| The Sims 2: Happy Holiday Stuff | 13130 | [13130-the-sims-2-happy-holiday-stuff.json](./13130-the-sims-2-happy-holiday-stuff.json) |
 | The Sims 2: Holiday Party Pack | 22457 | [22457-the-sims-2-holiday-party-pack.json](./22457-the-sims-2-holiday-party-pack.json) |
 | The Sims 2: IKEA Home Stuff | 13135 | [13135-the-sims-2-ikea-home-stuff.json](./13135-the-sims-2-ikea-home-stuff.json) |
 | The Sims 2: Legacy Collection | 329955 | [329955-the-sims-2-legacy-collection.json](./329955-the-sims-2-legacy-collection.json) |
@@ -17176,6 +17180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: 70s, 80s, & 90s Stuff | 13124 | [13124-the-sims-3-70s-80s-and-90s-stuff.json](./13124-the-sims-3-70s-80s-and-90s-stuff.json) |
 | The Sims 3: Ambitions | 13098 | [13098-the-sims-3-ambitions.json](./13098-the-sims-3-ambitions.json) |
 | The Sims 3: Aurora Skies | 14583 | [14583-the-sims-3-aurora-skies.json](./14583-the-sims-3-aurora-skies.json) |
+| The Sims 3: Barnacle Bay | 14561 | [14561-the-sims-3-barnacle-bay.json](./14561-the-sims-3-barnacle-bay.json) |
 | The Sims 3: Diesel Stuff | 13123 | [13123-the-sims-3-diesel-stuff.json](./13123-the-sims-3-diesel-stuff.json) |
 | The Sims 3: Dragon Valley | 10982 | [10982-the-sims-3-dragon-valley.json](./10982-the-sims-3-dragon-valley.json) |
 | The Sims 3: Expansion Bundle | 136301 | [136301-the-sims-3-expansion-bundle.json](./136301-the-sims-3-expansion-bundle.json) |
@@ -17193,6 +17198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3: Outdoor Living Stuff | 13119 | [13119-the-sims-3-outdoor-living-stuff.json](./13119-the-sims-3-outdoor-living-stuff.json) |
 | The Sims 3: Pets | 13113 | [13113-the-sims-3-pets.json](./13113-the-sims-3-pets.json) |
 | The Sims 3: Pets | 228496 | [228496-the-sims-3-pets.json](./228496-the-sims-3-pets.json) |
+| The Sims 3: Riverview | 14559 | [14559-the-sims-3-riverview.json](./14559-the-sims-3-riverview.json) |
 | The Sims 3: Roaring Heights | 14585 | [14585-the-sims-3-roaring-heights.json](./14585-the-sims-3-roaring-heights.json) |
 | The Sims 3: Seasons | 13114 | [13114-the-sims-3-seasons.json](./13114-the-sims-3-seasons.json) |
 | The Sims 3: Showtime | 10980 | [10980-the-sims-3-showtime.json](./10980-the-sims-3-showtime.json) |
@@ -17285,6 +17291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Little Campers Kit | 202257 | [202257-the-sims-4-little-campers-kit.json](./202257-the-sims-4-little-campers-kit.json) |
 | The Sims 4: Live Lavishly Bundle | 159330 | [159330-the-sims-4-live-lavishly-bundle.json](./159330-the-sims-4-live-lavishly-bundle.json) |
 | The Sims 4: Lovestruck | 307067 | [307067-the-sims-4-lovestruck.json](./307067-the-sims-4-lovestruck.json) |
+| The Sims 4: Luxury Party Stuff | 13147 | [13147-the-sims-4-luxury-party-stuff.json](./13147-the-sims-4-luxury-party-stuff.json) |
 | The Sims 4: Mean Girls Capsule Kit | 421340 | [421340-the-sims-4-mean-girls-capsule-kit.json](./421340-the-sims-4-mean-girls-capsule-kit.json) |
 | The Sims 4: Modern Luxe Kit | 265706 | [265706-the-sims-4-modern-luxe-kit.json](./265706-the-sims-4-modern-luxe-kit.json) |
 | The Sims 4: Modern Menswear Kit | 183145 | [183145-the-sims-4-modern-menswear-kit.json](./183145-the-sims-4-modern-menswear-kit.json) |
@@ -17454,6 +17461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Slipgate Duplex | 271186 | [271186-the-slipgate-duplex.json](./271186-the-slipgate-duplex.json) |
 | The Slipgate Massacre | 309198 | [309198-the-slipgate-massacre.json](./309198-the-slipgate-massacre.json) |
 | The Slopes | 28790 | [28790-the-slopes.json](./28790-the-slopes.json) |
+| The Slormancer | 123764 | [123764-the-slormancer.json](./123764-the-slormancer.json) |
 | The Slothgate Experiment | 224712 | [224712-the-slothgate-experiment.json](./224712-the-slothgate-experiment.json) |
 | The Slothgate Experiment: Death's Door | 237564 | [237564-the-slothgate-experiment-deaths-door.json](./237564-the-slothgate-experiment-deaths-door.json) |
 | The Slovak Run | 199999 | [199999-the-slovak-run.json](./199999-the-slovak-run.json) |
@@ -19448,6 +19456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wanderer | 320033 | [320033-the-wanderer.json](./320033-the-wanderer.json) |
 | The Wanderer Vibes: Neon | 153792 | [153792-the-wanderer-vibes-neon.json](./153792-the-wanderer-vibes-neon.json) |
 | The Wanderer: Chosen One | 211752 | [211752-the-wanderer-chosen-one.json](./211752-the-wanderer-chosen-one.json) |
+| The Wanderer: Frankenstein's Creature | 122049 | [122049-the-wanderer-frankensteins-creature.json](./122049-the-wanderer-frankensteins-creature.json) |
 | The Wanderer: Frankenstein’s Creature | 251637 | [251637-the-wanderer-frankenstein-s-creature.json](./251637-the-wanderer-frankenstein-s-creature.json) |
 | The Wanderer's Rest | 391119 | [391119-the-wanderers-rest.json](./391119-the-wanderers-rest.json) |
 | The Wandering | 352768 | [352768-the-wandering.json](./352768-the-wandering.json) |
@@ -19930,6 +19939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Ends with You: Final Remix | 81143 | [81143-the-world-ends-with-you-final-remix.json](./81143-the-world-ends-with-you-final-remix.json) |
 | The World Ends With You: Live Remix | 288144 | [288144-the-world-ends-with-you-live-remix.json](./288144-the-world-ends-with-you-live-remix.json) |
 | The World Ends With You: Noise Busters | 306596 | [306596-the-world-ends-with-you-noise-busters.json](./306596-the-world-ends-with-you-noise-busters.json) |
+| The World Ends with You: Solo Remix | 121612 | [121612-the-world-ends-with-you-solo-remix.json](./121612-the-world-ends-with-you-solo-remix.json) |
 | The World Had Been Sad Since Tuesday | 139016 | [139016-the-world-had-been-sad-since-tuesday.json](./139016-the-world-had-been-sad-since-tuesday.json) |
 | The World Has Gone | 282040 | [282040-the-world-has-gone.json](./282040-the-world-has-gone.json) |
 | The World Hockey Championships | 242684 | [242684-the-world-hockey-championships.json](./242684-the-world-hockey-championships.json) |
@@ -20899,6 +20909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Is Snooker | 117975 | [117975-this-is-snooker.json](./117975-this-is-snooker.json) |
 | This Is Snooker: Pool Deluxe Edition | 117022 | [117022-this-is-snooker-pool-deluxe-edition.json](./117022-this-is-snooker-pool-deluxe-edition.json) |
 | This is the last time | 337550 | [337550-this-is-the-last-time.json](./337550-this-is-the-last-time.json) |
+| This is the Only Level | 121726 | [121726-this-is-the-only-level.json](./121726-this-is-the-only-level.json) |
 | This is the Only Level 3 | 141673 | [141673-this-is-the-only-level-3.json](./141673-this-is-the-only-level-3.json) |
 | This is the Only Level Too | 198112 | [198112-this-is-the-only-level-too.json](./198112-this-is-the-only-level-too.json) |
 | This Is the Police 2 | 84486 | [84486-this-is-the-police-2.json](./84486-this-is-the-police-2.json) |
@@ -31579,6 +31590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunter G | 15844 | [15844-treasure-hunter-g.json](./15844-treasure-hunter-g.json) |
 | Treasure Hunter Man | 272043 | [272043-treasure-hunter-man.json](./272043-treasure-hunter-man.json) |
 | Treasure Hunter Man 2 | 102977 | [102977-treasure-hunter-man-2.json](./102977-treasure-hunter-man-2.json) |
+| Treasure Hunter Simulator | 123656 | [123656-treasure-hunter-simulator.json](./123656-treasure-hunter-simulator.json) |
 | Treasure Hunter Simulator 2 | 153995 | [153995-treasure-hunter-simulator-2.json](./153995-treasure-hunter-simulator-2.json) |
 | Treasure Hunter VR | 235939 | [235939-treasure-hunter-vr.json](./235939-treasure-hunter-vr.json) |
 | Treasure Hunter X | 85522 | [85522-treasure-hunter-x.json](./85522-treasure-hunter-x.json) |
