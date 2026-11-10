@@ -5755,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescues | 202027 | [202027-rescues.json](./202027-rescues.json) |
 | RescueTeam | 172289 | [172289-rescueteam.json](./172289-rescueteam.json) |
 | Rescuing Ralph | 182043 | [182043-rescuing-ralph.json](./182043-rescuing-ralph.json) |
+| Rescuties! VR | 32711 | [32711-rescuties-vr.json](./32711-rescuties-vr.json) |
 | Research and Destroy | 154274 | [154274-research-and-destroy.json](./154274-research-and-destroy.json) |
 | Research and Development | 182643 | [182643-research-and-development.json](./182643-research-and-development.json) |
 | Research and Development 1 | 340699 | [340699-research-and-development-1.json](./340699-research-and-development-1.json) |
@@ -9974,6 +9975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Shooting | 403001 | [403001-rocket-shooting.json](./403001-rocket-shooting.json) |
 | Rocket Simulator | 326367 | [326367-rocket-simulator.json](./326367-rocket-simulator.json) |
 | Rocket Skates VR | 148773 | [148773-rocket-skates-vr.json](./148773-rocket-skates-vr.json) |
+| Rocket Ski Racing | 32618 | [32618-rocket-ski-racing.json](./32618-rocket-ski-racing.json) |
 | Rocket Sky! | 119647 | [119647-rocket-sky.json](./119647-rocket-sky.json) |
 | Rocket Smash | 273642 | [273642-rocket-smash.json](./273642-rocket-smash.json) |
 | Rocket Smash EX | 41174 | [41174-rocket-smash-ex.json](./41174-rocket-smash-ex.json) |
@@ -10937,6 +10939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollergames | 138793 | [138793-rollergames.json](./138793-rollergames.json) |
 | RollerGames | 40076 | [40076-rollergames.json](./40076-rollergames.json) |
 | RollerGirl | 253113 | [253113-rollergirl.json](./253113-rollergirl.json) |
+| RollerGirls From Beyond | 32652 | [32652-rollergirls-from-beyond.json](./32652-rollergirls-from-beyond.json) |
 | Rollerpede | 108809 | [108809-rollerpede.json](./108809-rollerpede.json) |
 | RollerPlay | 121017 | [121017-rollerplay.json](./121017-rollerplay.json) |
 | Rollers | 127223 | [127223-rollers.json](./127223-rollers.json) |
@@ -11254,6 +11257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rommel: Battles for North Africa | 68478 | [68478-rommel-battles-for-north-africa.json](./68478-rommel-battles-for-north-africa.json) |
 | Rommel: Battles for Tobruk | 26152 | [26152-rommel-battles-for-tobruk.json](./26152-rommel-battles-for-tobruk.json) |
 | Rommel's Revenge | 26304 | [26304-rommels-revenge.json](./26304-rommels-revenge.json) |
+| Romopolis | 32659 | [32659-romopolis.json](./32659-romopolis.json) |
 | Romp of Dump | 250253 | [250253-romp-of-dump.json](./250253-romp-of-dump.json) |
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
 | Rompechanchitos | 251346 | [251346-rompechanchitos.json](./251346-rompechanchitos.json) |
