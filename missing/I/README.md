@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Factory | 211625 | [211625-idle-factory.json](./211625-idle-factory.json) |
 | Idle Factory Tycoon | 99142 | [99142-idle-factory-tycoon.json](./99142-idle-factory-tycoon.json) |
 | Idle Farming Business | 340062 | [340062-idle-farming-business.json](./340062-idle-farming-business.json) |
+| Idle Farming Empire | 88124 | [88124-idle-farming-empire.json](./88124-idle-farming-empire.json) |
 | Idle Farming Tycoon Empire | 175877 | [175877-idle-farming-tycoon-empire.json](./175877-idle-farming-tycoon-empire.json) |
 | Idle Farmyard | 248433 | [248433-idle-farmyard.json](./248433-idle-farmyard.json) |
 | Idle Fields | 189873 | [189873-idle-fields.json](./189873-idle-fields.json) |
@@ -1625,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Medieval Tavern | 250743 | [250743-idle-medieval-tavern.json](./250743-idle-medieval-tavern.json) |
 | Idle Meteor | 295211 | [295211-idle-meteor.json](./295211-idle-meteor.json) |
 | Idle Military Factory Tycoon | 251443 | [251443-idle-military-factory-tycoon.json](./251443-idle-military-factory-tycoon.json) |
+| Idle Miner Tycoon | 87052 | [87052-idle-miner-tycoon.json](./87052-idle-miner-tycoon.json) |
 | Idle Mining Company | 255801 | [255801-idle-mining-company.json](./255801-idle-mining-company.json) |
 | Idle Mining Empire | 218700 | [218700-idle-mining-empire.json](./218700-idle-mining-empire.json) |
 | Idle Monkey Theorem | 386843 | [386843-idle-monkey-theorem.json](./386843-idle-monkey-theorem.json) |
@@ -2672,6 +2674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imp and Oaf Kick Off! | 350886 | [350886-imp-and-oaf-kick-off.json](./350886-imp-and-oaf-kick-off.json) |
 | Imp Dreams | 320189 | [320189-imp-dreams.json](./320189-imp-dreams.json) |
 | Imp Encounter | 296198 | [296198-imp-encounter.json](./296198-imp-encounter.json) |
+| Imp of the Sun | 144229 | [144229-imp-of-the-sun.json](./144229-imp-of-the-sun.json) |
 | Imp or Oaf? | 254259 | [254259-imp-or-oaf.json](./254259-imp-or-oaf.json) |
 | iMP: Surf the Music | 100197 | [100197-imp-surf-the-music.json](./100197-imp-surf-the-music.json) |
 | Impact | 132367 | [132367-impact.json](./132367-impact.json) |
@@ -6585,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Survival 2026: Craft, Build, Grow | 393047 | [393047-island-survival-2026-craft-build-grow.json](./393047-island-survival-2026-craft-build-grow.json) |
 | Island Survival: Craft, Build, Grow | 314858 | [314858-island-survival-craft-build-grow.json](./314858-island-survival-craft-build-grow.json) |
 | Island Survival: Escape from Paradise | 413088 | [413088-island-survival-escape-from-paradise.json](./413088-island-survival-escape-from-paradise.json) |
+| Island Time VR | 88301 | [88301-island-time-vr.json](./88301-island-time-vr.json) |
 | Island Town Zombie Paradise | 117478 | [117478-island-town-zombie-paradise.json](./117478-island-town-zombie-paradise.json) |
 | Island Treasure Chase | 369316 | [369316-island-treasure-chase.json](./369316-island-treasure-chase.json) |
 | Island Tribe | 54117 | [54117-island-tribe.json](./54117-island-tribe.json) |
