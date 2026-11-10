@@ -8281,6 +8281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcist | 411051 | [411051-exorcist.json](./411051-exorcist.json) |
 | Exorcist 2: Crow Magic | 236845 | [236845-exorcist-2-crow-magic.json](./236845-exorcist-2-crow-magic.json) |
 | Exorcist 3: Inception of Darkness | 201905 | [201905-exorcist-3-inception-of-darkness.json](./201905-exorcist-3-inception-of-darkness.json) |
+| Exorcist Candy | 410567 | [410567-exorcist-candy.json](./410567-exorcist-candy.json) |
 | Exorcist Fairy | 164084 | [164084-exorcist-fairy.json](./164084-exorcist-fairy.json) |
 | Exorcist Hotline | 399270 | [399270-exorcist-hotline.json](./399270-exorcist-hotline.json) |
 | Exorcist II | 209181 | [209181-exorcist-ii.json](./209181-exorcist-ii.json) |
