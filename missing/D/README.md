@@ -1666,6 +1666,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fairy Tale | 348332 | [348332-dark-fairy-tale.json](./348332-dark-fairy-tale.json) |
 | Dark Fairy Tales: The Boogeyman | 138405 | [138405-dark-fairy-tales-the-boogeyman.json](./138405-dark-fairy-tales-the-boogeyman.json) |
 | Dark Fall | 9817 | [9817-dark-fall.json](./9817-dark-fall.json) |
+| Dark Fall 2: Lights Out | 9818 | [9818-dark-fall-2-lights-out.json](./9818-dark-fall-2-lights-out.json) |
+| Dark Fall: Lost Souls | 10139 | [10139-dark-fall-lost-souls.json](./10139-dark-fall-lost-souls.json) |
 | Dark Fantasia | 390032 | [390032-dark-fantasia.json](./390032-dark-fantasia.json) |
 | Dark Fantasy 2: Jigsaw Puzzle | 118146 | [118146-dark-fantasy-2-jigsaw-puzzle.json](./118146-dark-fantasy-2-jigsaw-puzzle.json) |
 | Dark Fantasy Godhood | 385319 | [385319-dark-fantasy-godhood.json](./385319-dark-fantasy-godhood.json) |
@@ -3694,6 +3696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Cells: Return to Castlevania - Signature Edition | 387498 | [387498-dead-cells-return-to-castlevania-signature-edition.json](./387498-dead-cells-return-to-castlevania-signature-edition.json) |
 | Dead Cells: Return to Castlevania Bundle | 238273 | [238273-dead-cells-return-to-castlevania-bundle.json](./238273-dead-cells-return-to-castlevania-bundle.json) |
 | Dead Cells: Return to Castlevania Edition | 270582 | [270582-dead-cells-return-to-castlevania-edition.json](./270582-dead-cells-return-to-castlevania-edition.json) |
+| Dead Cells: Rise of the Giant | 116141 | [116141-dead-cells-rise-of-the-giant.json](./116141-dead-cells-rise-of-the-giant.json) |
 | Dead Cells: Road to the Sea | 186533 | [186533-dead-cells-road-to-the-sea.json](./186533-dead-cells-road-to-the-sea.json) |
 | Dead Cells: The Bad Seed | 127256 | [127256-dead-cells-the-bad-seed.json](./127256-dead-cells-the-bad-seed.json) |
 | Dead Cells: The End Is Near | 314131 | [314131-dead-cells-the-end-is-near.json](./314131-dead-cells-the-end-is-near.json) |
@@ -12247,6 +12250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dofus Émeraude | 110307 | [110307-dofus-emeraude.json](./110307-dofus-emeraude.json) |
 | Dofus Pets | 56165 | [56165-dofus-pets.json](./56165-dofus-pets.json) |
 | Dofus Pogo | 112339 | [112339-dofus-pogo.json](./112339-dofus-pogo.json) |
+| Dofus Retro | 122562 | [122562-dofus-retro.json](./122562-dofus-retro.json) |
 | Dofus Touch | 96289 | [96289-dofus-touch.json](./96289-dofus-touch.json) |
 | Dofus: Battles | 174334 | [174334-dofus-battles.json](./174334-dofus-battles.json) |
 | Dog | 271842 | [271842-dog.json](./271842-dog.json) |
@@ -18931,6 +18935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Defenders Ultimate Collection | 341661 | [341661-dungeon-defenders-ultimate-collection.json](./341661-dungeon-defenders-ultimate-collection.json) |
 | Dungeon Defenders: Anniversary Pack | 164356 | [164356-dungeon-defenders-anniversary-pack.json](./164356-dungeon-defenders-anniversary-pack.json) |
 | Dungeon Defenders: Assault Mission Pack | 164351 | [164351-dungeon-defenders-assault-mission-pack.json](./164351-dungeon-defenders-assault-mission-pack.json) |
+| Dungeon Defenders: Awakened | 116021 | [116021-dungeon-defenders-awakened.json](./116021-dungeon-defenders-awakened.json) |
 | Dungeon Defenders: Barbarian Hero DLC | 164362 | [164362-dungeon-defenders-barbarian-hero-dlc.json](./164362-dungeon-defenders-barbarian-hero-dlc.json) |
 | Dungeon Defenders: City in the Cliffs Mission Pack | 164360 | [164360-dungeon-defenders-city-in-the-cliffs-mission-pack.json](./164360-dungeon-defenders-city-in-the-cliffs-mission-pack.json) |
 | Dungeon Defenders: Etherian Festival of Love | 164347 | [164347-dungeon-defenders-etherian-festival-of-love.json](./164347-dungeon-defenders-etherian-festival-of-love.json) |
