@@ -9355,6 +9355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among the Zombies | 261739 | [261739-among-the-zombies.json](./261739-among-the-zombies.json) |
 | Among Thorns | 25959 | [25959-among-thorns.json](./25959-among-thorns.json) |
 | Among Trees | 106279 | [106279-among-trees.json](./106279-among-trees.json) |
+| Among Two Storms | 426082 | [426082-among-two-storms.json](./426082-among-two-storms.json) |
 | Among Us | 230236 | [230236-among-us.json](./230236-among-us.json) |
 | Among Us | 353925 | [353925-among-us.json](./353925-among-us.json) |
 | Among Us 2 | 145875 | [145875-among-us-2.json](./145875-among-us-2.json) |
@@ -11898,6 +11899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anxiety | 51572 | [51572-anxiety.json](./51572-anxiety.json) |
 | Anxiety Arcade | 381576 | [381576-anxiety-arcade.json](./381576-anxiety-arcade.json) |
 | Anxiety Attacks | 182598 | [182598-anxiety-attacks.json](./182598-anxiety-attacks.json) |
+| Anxiety Mori | 426026 | [426026-anxiety-mori.json](./426026-anxiety-mori.json) |
 | Anxiety Puppy | 347827 | [347827-anxiety-puppy.json](./347827-anxiety-puppy.json) |
 | Anxiety Treatment with Relaxation | 187252 | [187252-anxiety-treatment-with-relaxation.json](./187252-anxiety-treatment-with-relaxation.json) |
 | Anxiety: Lost Night | 179490 | [179490-anxiety-lost-night.json](./179490-anxiety-lost-night.json) |
@@ -16456,6 +16458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterism Online | 129351 | [129351-asterism-online.json](./129351-asterism-online.json) |
 | Asterism: Apex of War | 190088 | [190088-asterism-apex-of-war.json](./190088-asterism-apex-of-war.json) |
 | Asterism: Time & Space | 177714 | [177714-asterism-time-and-space.json](./177714-asterism-time-and-space.json) |
+| Asterium | 426076 | [426076-asterium.json](./426076-asterium.json) |
 | Asterius | 181723 | [181723-asterius.json](./181723-asterius.json) |
 | Asterix | 12242 | [12242-asterix.json](./12242-asterix.json) |
 | Asterix | 128475 | [128475-asterix.json](./128475-asterix.json) |
@@ -19074,6 +19077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Earl in SkateRock | 52196 | [52196-awesome-earl-in-skaterock.json](./52196-awesome-earl-in-skaterock.json) |
 | Awesome Game | 316872 | [316872-awesome-game.json](./316872-awesome-game.json) |
 | Awesome Golf | 12363 | [12363-awesome-golf.json](./12363-awesome-golf.json) |
+| Awesome Golf Simulator | 426042 | [426042-awesome-golf-simulator.json](./426042-awesome-golf-simulator.json) |
 | Awesome Land | 146029 | [146029-awesome-land.json](./146029-awesome-land.json) |
 | Awesome Memory | 87689 | [87689-awesome-memory.json](./87689-awesome-memory.json) |
 | Awesome Metal Detecting | 77371 | [77371-awesome-metal-detecting.json](./77371-awesome-metal-detecting.json) |
