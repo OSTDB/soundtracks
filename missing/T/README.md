@@ -14828,6 +14828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nanny Affair | 313727 | [313727-the-nanny-affair.json](./313727-the-nanny-affair.json) |
 | The Nanny Affair 2 | 313728 | [313728-the-nanny-affair-2.json](./313728-the-nanny-affair-2.json) |
 | The Nanny Affair 3 | 313729 | [313729-the-nanny-affair-3.json](./313729-the-nanny-affair-3.json) |
+| The Narrator | 420624 | [420624-the-narrator.json](./420624-the-narrator.json) |
 | The Narrator is a Dick | 32629 | [32629-the-narrator-is-a-dick.json](./32629-the-narrator-is-a-dick.json) |
 | The Narrator is a Dick: Longer, Harder, and Uncut | 132196 | [132196-the-narrator-is-a-dick-longer-harder-and-uncut.json](./132196-the-narrator-is-a-dick-longer-harder-and-uncut.json) |
 | The Narrator Says We're Meant to Be! | 394816 | [394816-the-narrator-says-were-meant-to-be.json](./394816-the-narrator-says-were-meant-to-be.json) |
@@ -23879,6 +23880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Bokan Series: Bokan Desuyo | 43759 | [43759-time-bokan-series-bokan-desuyo.json](./43759-time-bokan-series-bokan-desuyo.json) |
 | Time Bokan Series: Bokan Go Go Go | 67008 | [67008-time-bokan-series-bokan-go-go-go.json](./67008-time-bokan-series-bokan-go-go-go.json) |
 | Time Bokan Series: Bokan to Ippatsu! Doronbo | 43764 | [43764-time-bokan-series-bokan-to-ippatsu-doronbo.json](./43764-time-bokan-series-bokan-to-ippatsu-doronbo.json) |
+| Time Bokan Series: Bokan to Ippatsu! Doronbo Kanpekiban | 420628 | [420628-time-bokan-series-bokan-to-ippatsu-doronbo-kanpekiban.json](./420628-time-bokan-series-bokan-to-ippatsu-doronbo-kanpekiban.json) |
 | Time Bomb Race | 259689 | [259689-time-bomb-race.json](./259689-time-bomb-race.json) |
 | Time Break | 117244 | [117244-time-break.json](./117244-time-break.json) |
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
