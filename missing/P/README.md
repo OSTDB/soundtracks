@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemonic Issues | 26727 | [26727-pandemonic-issues.json](./26727-pandemonic-issues.json) |
 | Pandemonium | 128466 | [128466-pandemonium.json](./128466-pandemonium.json) |
 | Pandemonium 2 | 6269 | [6269-pandemonium-2.json](./6269-pandemonium-2.json) |
+| Pandemonium Line: Flipping on Borrowed Dime | 409185 | [409185-pandemonium-line-flipping-on-borrowed-dime.json](./409185-pandemonium-line-flipping-on-borrowed-dime.json) |
 | Pandemonium: Merge! | 380959 | [380959-pandemonium-merge.json](./380959-pandemonium-merge.json) |
 | Pandemos | 150543 | [150543-pandemos.json](./150543-pandemos.json) |
 | Pando Engines | 211193 | [211193-pando-engines.json](./211193-pando-engines.json) |
@@ -18734,6 +18735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrrifiers: Cleaning Chaos | 322196 | [322196-purrrifiers-cleaning-chaos.json](./322196-purrrifiers-cleaning-chaos.json) |
 | Purrs In Heaven | 146800 | [146800-purrs-in-heaven.json](./146800-purrs-in-heaven.json) |
 | Purrtopia | 413852 | [413852-purrtopia.json](./413852-purrtopia.json) |
+| Purrvivors | 409174 | [409174-purrvivors.json](./409174-purrvivors.json) |
 | Purry & Panther: Lost in Helsinki | 304646 | [304646-purry-and-panther-lost-in-helsinki.json](./304646-purry-and-panther-lost-in-helsinki.json) |
 | Pursuer | 115577 | [115577-pursuer.json](./115577-pursuer.json) |
 | Pursuing Susie | 84534 | [84534-pursuing-susie.json](./84534-pursuing-susie.json) |
