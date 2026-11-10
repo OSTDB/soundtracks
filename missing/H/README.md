@@ -2450,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harusame Youbi | 71191 | [71191-harusame-youbi.json](./71191-harusame-youbi.json) |
 | Harventure | 349279 | [349279-harventure.json](./349279-harventure.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
+| Harvest | 397463 | [397463-harvest.json](./397463-harvest.json) |
 | Harvest | 88389 | [88389-harvest.json](./88389-harvest.json) |
 | Harvest | 99400 | [99400-harvest.json](./99400-harvest.json) |
 | Harvest Bliss | 302374 | [302374-harvest-bliss.json](./302374-harvest-bliss.json) |
@@ -8100,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Way Race | 40060 | [40060-high-way-race.json](./40060-high-way-race.json) |
 | High Way Star | 41804 | [41804-high-way-star.json](./41804-high-way-star.json) |
 | High-Macs Simulator | 176723 | [176723-high-macs-simulator.json](./176723-high-macs-simulator.json) |
+| High-Pressure Brew 5:00 PM | 397464 | [397464-high-pressure-brew-5-00-pm.json](./397464-high-pressure-brew-5-00-pm.json) |
 | High/Low 2 | 263417 | [263417-high-low-2.json](./263417-high-low-2.json) |
 | High/Low 5 | 263414 | [263414-high-low-5.json](./263414-high-low-5.json) |
 | Highball | 119731 | [119731-highball.json](./119731-highball.json) |
@@ -13014,6 +13016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydroneer: Journey to Volcalidus | 285576 | [285576-hydroneer-journey-to-volcalidus.json](./285576-hydroneer-journey-to-volcalidus.json) |
 | Hydropawnics | 371893 | [371893-hydropawnics.json](./371893-hydropawnics.json) |
 | Hydrophobia | 210061 | [210061-hydrophobia.json](./210061-hydrophobia.json) |
+| Hydrophobia | 397433 | [397433-hydrophobia.json](./397433-hydrophobia.json) |
 | Hydrophobia: Prophecy | 7690 | [7690-hydrophobia-prophecy.json](./7690-hydrophobia-prophecy.json) |
 | Hydroplane: Riptide Racers | 278549 | [278549-hydroplane-riptide-racers.json](./278549-hydroplane-riptide-racers.json) |
 | Hydroplant Tycoon | 343289 | [343289-hydroplant-tycoon.json](./343289-hydroplant-tycoon.json) |
