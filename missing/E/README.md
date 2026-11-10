@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Skyfire | 356372 | [356372-echoes-of-the-skyfire.json](./356372-echoes-of-the-skyfire.json) |
 | Echoes of the Stars | 201586 | [201586-echoes-of-the-stars.json](./201586-echoes-of-the-stars.json) |
 | Echoes of the Sun | 289815 | [289815-echoes-of-the-sun.json](./289815-echoes-of-the-sun.json) |
+| Echoes of the Unread | 399321 | [399321-echoes-of-the-unread.json](./399321-echoes-of-the-unread.json) |
 | Echoes of the Wind | 366124 | [366124-echoes-of-the-wind.json](./366124-echoes-of-the-wind.json) |
 | Echoes of the Woods | 303512 | [303512-echoes-of-the-woods.json](./303512-echoes-of-the-woods.json) |
 | Echoes of Time | 363665 | [363665-echoes-of-time.json](./363665-echoes-of-time.json) |
@@ -1787,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egregor Indoctrination | 155781 | [155781-egregor-indoctrination.json](./155781-egregor-indoctrination.json) |
 | Egregore | 139230 | [139230-egregore.json](./139230-egregore.json) |
 | Egregore | 310046 | [310046-egregore.json](./310046-egregore.json) |
+| Egregore | 399560 | [399560-egregore.json](./399560-egregore.json) |
 | Egress - The Test of STS-417 | 168393 | [168393-egress-the-test-of-sts-417.json](./168393-egress-the-test-of-sts-417.json) |
 | Egress Protocol | 327940 | [327940-egress-protocol.json](./327940-egress-protocol.json) |
 | Egress Protocol | 375856 | [375856-egress-protocol.json](./375856-egress-protocol.json) |
