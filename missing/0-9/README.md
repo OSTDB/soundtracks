@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 03.04 | 113188 | [113188-03-04.json](./113188-03-04.json) |
 | 07Gorillas | 325492 | [325492-07gorillas.json](./325492-07gorillas.json) |
 | 07th Theater | 258995 | [258995-07th-theater.json](./258995-07th-theater.json) |
+| 0D Beat Drop | 6173 | [6173-0d-beat-drop.json](./6173-0d-beat-drop.json) |
 | 0Gravity | 120001 | [120001-0gravity.json](./120001-0gravity.json) |
 | 0h h1 | 135741 | [135741-0h-h1.json](./135741-0h-h1.json) |
 | 0h N0 | 229251 | [229251-0h-n0.json](./229251-0h-n0.json) |
