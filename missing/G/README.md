@@ -2569,6 +2569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearbits: Raider Expedition | 311094 | [311094-gearbits-raider-expedition.json](./311094-gearbits-raider-expedition.json) |
 | GearBlocks | 123193 | [123193-gearblocks.json](./123193-gearblocks.json) |
 | Gearcrack Arena | 8924 | [8924-gearcrack-arena.json](./8924-gearcrack-arena.json) |
+| GearDude | 402634 | [402634-geardude.json](./402634-geardude.json) |
 | Geared | 35961 | [35961-geared.json](./35961-geared.json) |
 | Geared 2! | 92145 | [92145-geared-2.json](./92145-geared-2.json) |
 | Geared for Fear | 219336 | [219336-geared-for-fear.json](./219336-geared-for-fear.json) |
@@ -11911,6 +11912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC boss "Kohaku Otori" from "COGEN: Sword of Rewind" | 301213 | [301213-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kohaku-otori-from-cogen-sword-of-rewind.json](./301213-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kohaku-otori-from-cogen-sword-of-rewind.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Kurona | 199876 | [199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json](./199876-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-kurona.json) |
 | Gunvolt Chronicles: Luminous Avenger iX 2 - Special DLC Boss: Yang Yumo | 199869 | [199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json](./199869-gunvolt-chronicles-luminous-avenger-ix-2-special-dlc-boss-yang-yumo.json) |
+| Gunvolt Chronicles: Luminous Avenger iX 3 | 402597 | [402597-gunvolt-chronicles-luminous-avenger-ix-3.json](./402597-gunvolt-chronicles-luminous-avenger-ix-3.json) |
 | Gunvolt Chronicles: Luminous Avenger iX2 - Special DLC Boss: Kirin | 199931 | [199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json](./199931-gunvolt-chronicles-luminous-avenger-ix2-special-dlc-boss-kirin.json) |
 | Gunvolt Records Cychronicle | 266561 | [266561-gunvolt-records-cychronicle.json](./266561-gunvolt-records-cychronicle.json) |
 | Gunvolt Records Cychronicle: Song Pack 2 | 292503 | [292503-gunvolt-records-cychronicle-song-pack-2.json](./292503-gunvolt-records-cychronicle-song-pack-2.json) |
