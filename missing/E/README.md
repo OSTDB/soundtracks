@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Generation 2 | 378228 | [378228-echo-generation-2.json](./378228-echo-generation-2.json) |
 | Echo Generation: Midnight Edition | 304747 | [304747-echo-generation-midnight-edition.json](./304747-echo-generation-midnight-edition.json) |
 | Echo Glass | 58215 | [58215-echo-glass.json](./58215-echo-glass.json) |
+| Echo Grotto | 59232 | [59232-echo-grotto.json](./59232-echo-grotto.json) |
 | Echo Harvest | 415160 | [415160-echo-harvest.json](./415160-echo-harvest.json) |
 | Echo in Capistrano | 303510 | [303510-echo-in-capistrano.json](./303510-echo-in-capistrano.json) |
 | Echo Lake | 30570 | [30570-echo-lake.json](./30570-echo-lake.json) |
@@ -7846,6 +7847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excavator Simulator VR | 151339 | [151339-excavator-simulator-vr.json](./151339-excavator-simulator-vr.json) |
 | Excavatorrr | 242574 | [242574-excavatorrr.json](./242574-excavatorrr.json) |
 | Excave | 82595 | [82595-excave.json](./82595-excave.json) |
+| Excave III: Tower of Destiny | 58726 | [58726-excave-iii-tower-of-destiny.json](./58726-excave-iii-tower-of-destiny.json) |
 | Exceed | 56117 | [56117-exceed.json](./56117-exceed.json) |
 | eXceed 2nd: Vampire | 229550 | [229550-exceed-2nd-vampire.json](./229550-exceed-2nd-vampire.json) |
 | Exceed 3rd Jade Penetrate | 80380 | [80380-exceed-3rd-jade-penetrate.json](./80380-exceed-3rd-jade-penetrate.json) |
