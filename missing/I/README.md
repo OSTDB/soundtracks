@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I, of the Mask | 26212 | [26212-i-of-the-mask.json](./26212-i-of-the-mask.json) |
 | I, Robot | 24633 | [24633-i-robot.json](./24633-i-robot.json) |
 | I, Robot | 335831 | [335831-i-robot.json](./335831-i-robot.json) |
+| I, Spy | 425424 | [425424-i-spy.json](./425424-i-spy.json) |
 | I, the Forgotten One | 244061 | [244061-i-the-forgotten-one.json](./244061-i-the-forgotten-one.json) |
 | I, the I-piece | 175112 | [175112-i-the-i-piece.json](./175112-i-the-i-piece.json) |
 | I, Toaster | 258758 | [258758-i-toaster.json](./258758-i-toaster.json) |
@@ -1344,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idili | 318972 | [318972-idili.json](./318972-idili.json) |
 | Idinaloq | 237300 | [237300-idinaloq.json](./237300-idinaloq.json) |
 | Idioctopus | 30072 | [30072-idioctopus.json](./30072-idioctopus.json) |
+| Idiom | 425429 | [425429-idiom.json](./425429-idiom.json) |
 | Idiom Royale | 392929 | [392929-idiom-royale.json](./392929-idiom-royale.json) |
 | Idiot | 158656 | [158656-idiot.json](./158656-idiot.json) |
 | Idiot Brain Evolution | 368013 | [368013-idiot-brain-evolution.json](./368013-idiot-brain-evolution.json) |
@@ -4063,7 +4065,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
