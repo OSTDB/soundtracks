@@ -9580,6 +9580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Average Day at the Cat Cafe | 227732 | [227732-an-average-day-at-the-cat-cafe.json](./227732-an-average-day-at-the-cat-cafe.json) |
 | An Average Day at the Cat Café | 221024 | [221024-an-average-day-at-the-cat-cafe.json](./221024-an-average-day-at-the-cat-cafe.json) |
 | An Aware Guy in the Past | 185621 | [185621-an-aware-guy-in-the-past.json](./185621-an-aware-guy-in-the-past.json) |
+| An Early Spring | 397439 | [397439-an-early-spring.json](./397439-an-early-spring.json) |
 | An Easter to Remember | 375298 | [375298-an-easter-to-remember.json](./375298-an-easter-to-remember.json) |
 | An Easy Lay | 178476 | [178476-an-easy-lay.json](./178476-an-easy-lay.json) |
 | An Ecospace of Epochs | 417210 | [417210-an-ecospace-of-epochs.json](./417210-an-ecospace-of-epochs.json) |
@@ -10109,6 +10110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Beats! Operation Wars | 125640 | [125640-angel-beats-operation-wars.json](./125640-angel-beats-operation-wars.json) |
 | Angel Blade: Neo Tokyo Guardians | 123291 | [123291-angel-blade-neo-tokyo-guardians.json](./123291-angel-blade-neo-tokyo-guardians.json) |
 | Angel Cat Sugar | 141423 | [141423-angel-cat-sugar.json](./141423-angel-cat-sugar.json) |
+| Angel Chaser | 397442 | [397442-angel-chaser.json](./397442-angel-chaser.json) |
 | Angel Clicker | 381320 | [381320-angel-clicker.json](./381320-angel-clicker.json) |
 | Angel Club | 385849 | [385849-angel-club.json](./385849-angel-club.json) |
 | Angel Code | 52405 | [52405-angel-code.json](./52405-angel-code.json) |
@@ -17728,6 +17730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -19425,6 +19428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayako's Mission | 254017 | [254017-ayakos-mission.json](./254017-ayakos-mission.json) |
 | Ayame no Machi to Ohime-sama | 194546 | [194546-ayame-no-machi-to-ohime-sama.json](./194546-ayame-no-machi-to-ohime-sama.json) |
 | Ayame: Ningyou Ingi | 97602 | [97602-ayame-ningyou-ingi.json](./97602-ayame-ningyou-ingi.json) |
+| Ayami's Little Game | 397621 | [397621-ayamis-little-game.json](./397621-ayamis-little-game.json) |
 | Ayano's Lovesick Labyrinth | 270509 | [270509-ayanos-lovesick-labyrinth.json](./270509-ayanos-lovesick-labyrinth.json) |
 | Ayasa: Shadows of Silence | 319650 | [319650-ayasa-shadows-of-silence.json](./319650-ayasa-shadows-of-silence.json) |
 | Ayatana | 211291 | [211291-ayatana.json](./211291-ayatana.json) |
