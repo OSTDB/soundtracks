@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Atlantis: Treasures of Poseidon - Collector's Edition | 355541 | [355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json](./355541-call-of-atlantis-treasures-of-poseidon-collectors-edition.json) |
 | Call of Beauty | 389044 | [389044-call-of-beauty.json](./389044-call-of-beauty.json) |
 | Call of Bieber | 392330 | [392330-call-of-bieber.json](./392330-call-of-bieber.json) |
+| Call of Blood | 418084 | [418084-call-of-blood.json](./418084-call-of-blood.json) |
 | Call of Boba | 244391 | [244391-call-of-boba.json](./244391-call-of-boba.json) |
 | Call of Booty | 105617 | [105617-call-of-booty.json](./105617-call-of-booty.json) |
 | Call of Champions | 13175 | [13175-call-of-champions.json](./13175-call-of-champions.json) |
@@ -8127,6 +8128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chivalry: Medieval Warfare | 2358 | [2358-chivalry-medieval-warfare.json](./2358-chivalry-medieval-warfare.json) |
 | Chivalware | 403821 | [403821-chivalware.json](./403821-chivalware.json) |
 | Chiyo | 266815 | [266815-chiyo.json](./266815-chiyo.json) |
+| Chiyoda | 418114 | [418114-chiyoda.json](./418114-chiyoda.json) |
 | Chiyokagi | 222356 | [222356-chiyokagi.json](./222356-chiyokagi.json) |
 | Chiyonofuji no Ooichou | 48536 | [48536-chiyonofuji-no-ooichou.json](./48536-chiyonofuji-no-ooichou.json) |
 | Chǐzǐ hé Xiàngpí | 99068 | [99068-chizi-he-xiangpi.json](./99068-chizi-he-xiangpi.json) |
@@ -12414,6 +12416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
 | Colina: Legacy | 35181 | [35181-colina-legacy.json](./35181-colina-legacy.json) |
 | Coliseum | 39101 | [39101-coliseum.json](./39101-coliseum.json) |
+| Coliseum | 418093 | [418093-coliseum.json](./418093-coliseum.json) |
 | Coliseum City Bride | 82750 | [82750-coliseum-city-bride.json](./82750-coliseum-city-bride.json) |
 | Collab Ball | 228207 | [228207-collab-ball.json](./228207-collab-ball.json) |
 | Collaborate | 184262 | [184262-collaborate.json](./184262-collaborate.json) |
