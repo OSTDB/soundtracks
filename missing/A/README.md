@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Father's Tale | 357791 | [357791-a-fathers-tale.json](./357791-a-fathers-tale.json) |
 | A Favor | 161748 | [161748-a-favor.json](./161748-a-favor.json) |
 | A Favor For The Alchemist | 385343 | [385343-a-favor-for-the-alchemist.json](./385343-a-favor-for-the-alchemist.json) |
+| A Fear of Heights, and Other Things | 31138 | [31138-a-fear-of-heights-and-other-things.json](./31138-a-fear-of-heights-and-other-things.json) |
 | A Femboy Polished My Knob | 385245 | [385245-a-femboy-polished-my-knob.json](./385245-a-femboy-polished-my-knob.json) |
 | A Few Billion Square Tiles | 104687 | [104687-a-few-billion-square-tiles.json](./104687-a-few-billion-square-tiles.json) |
 | A Few Days With: Bianca | 329203 | [329203-a-few-days-with-bianca.json](./329203-a-few-days-with-bianca.json) |
@@ -16523,6 +16524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Belt | 15602 | [15602-asteroid-belt.json](./15602-asteroid-belt.json) |
 | Asteroid Blaster | 178960 | [178960-asteroid-blaster.json](./178960-asteroid-blaster.json) |
 | Asteroid Blaster | 217824 | [217824-asteroid-blaster.json](./217824-asteroid-blaster.json) |
+| Asteroid Blaster VR | 31134 | [31134-asteroid-blaster-vr.json](./31134-asteroid-blaster-vr.json) |
 | Asteroid Blasters | 160125 | [160125-asteroid-blasters.json](./160125-asteroid-blasters.json) |
 | Asteroid Blockade | 359444 | [359444-asteroid-blockade.json](./359444-asteroid-blockade.json) |
 | Asteroid Boom Cosmic Courier | 373061 | [373061-asteroid-boom-cosmic-courier.json](./373061-asteroid-boom-cosmic-courier.json) |
@@ -17588,6 +17590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
