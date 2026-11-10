@@ -5392,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Battle | 302796 | [302796-beat-battle.json](./302796-beat-battle.json) |
 | Beat Biome | 158321 | [158321-beat-biome.json](./158321-beat-biome.json) |
 | Beat Blade: Dash Dance | 182317 | [182317-beat-blade-dash-dance.json](./182317-beat-blade-dash-dance.json) |
+| Beat Blast | 121595 | [121595-beat-blast.json](./121595-beat-blast.json) |
 | Beat Blaster | 114817 | [114817-beat-blaster.json](./114817-beat-blaster.json) |
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
 | Beat Blocks VR | 111609 | [111609-beat-blocks-vr.json](./111609-beat-blocks-vr.json) |
@@ -7018,6 +7019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Friend | 133110 | [133110-best-friend.json](./133110-best-friend.json) |
 | Best Friend | 157856 | [157856-best-friend.json](./157856-best-friend.json) |
 | Best Friend | 215489 | [215489-best-friend.json](./215489-best-friend.json) |
+| Best Friend Forever | 121749 | [121749-best-friend-forever.json](./121749-best-friend-forever.json) |
 | Best Friends | 313956 | [313956-best-friends.json](./313956-best-friends.json) |
 | Best Friends | 94526 | [94526-best-friends.json](./94526-best-friends.json) |
 | Best Friends Forever | 183442 | [183442-best-friends-forever.json](./183442-best-friends-forever.json) |
@@ -7349,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Kung-Fu | 263650 | [263650-beyond-kung-fu.json](./263650-beyond-kung-fu.json) |
 | Beyond Lost Planets | 386300 | [386300-beyond-lost-planets.json](./386300-beyond-lost-planets.json) |
 | Beyond Magic | 32941 | [32941-beyond-magic.json](./32941-beyond-magic.json) |
+| Beyond Mankind: The Awakening | 160002 | [160002-beyond-mankind-the-awakening.json](./160002-beyond-mankind-the-awakening.json) |
 | Beyond Melee | 294576 | [294576-beyond-melee.json](./294576-beyond-melee.json) |
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
 | Beyond Memories: Darkness of the Soul | 328568 | [328568-beyond-memories-darkness-of-the-soul.json](./328568-beyond-memories-darkness-of-the-soul.json) |
@@ -10059,6 +10062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blake Stone: Planet Strike | 8490 | [8490-blake-stone-planet-strike.json](./8490-blake-stone-planet-strike.json) |
 | Blake Strongflank | 182515 | [182515-blake-strongflank.json](./182515-blake-strongflank.json) |
 | Blake Turner: Ace Attorney | 308528 | [308528-blake-turner-ace-attorney.json](./308528-blake-turner-ace-attorney.json) |
+| Blake: The Visual Novel | 163826 | [163826-blake-the-visual-novel.json](./163826-blake-the-visual-novel.json) |
 | Blali | 418381 | [418381-blali.json](./418381-blali.json) |
 | Blaloon Blalympia | 187505 | [187505-blaloon-blalympia.json](./187505-blaloon-blalympia.json) |
 | Blaloon Blalympia 2 | 218374 | [218374-blaloon-blalympia-2.json](./218374-blaloon-blalympia-2.json) |
@@ -15863,6 +15867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakers | 28707 | [28707-breakers.json](./28707-breakers.json) |
 | Breakers | 315054 | [315054-breakers.json](./315054-breakers.json) |
 | Breakers | 72533 | [72533-breakers.json](./72533-breakers.json) |
+| Breakers Collection | 121730 | [121730-breakers-collection.json](./121730-breakers-collection.json) |
 | Breakers Revenge | 39558 | [39558-breakers-revenge.json](./39558-breakers-revenge.json) |
 | Breakers Revenge Chicago | 406501 | [406501-breakers-revenge-chicago.json](./406501-breakers-revenge-chicago.json) |
 | BreakEven: Idle | 409865 | [409865-breakeven-idle.json](./409865-breakeven-idle.json) |
