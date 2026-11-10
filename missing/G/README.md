@@ -4480,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigantic Army | 115300 | [115300-gigantic-army.json](./115300-gigantic-army.json) |
 | Gigantic Gear | 299729 | [299729-gigantic-gear.json](./299729-gigantic-gear.json) |
 | Gigantic Maidestruction | 401896 | [401896-gigantic-maidestruction.json](./401896-gigantic-maidestruction.json) |
+| Gigantic: Rampage Edition | 288025 | [288025-gigantic-rampage-edition.json](./288025-gigantic-rampage-edition.json) |
 | Gigantosaurus Dino Kart | 219436 | [219436-gigantosaurus-dino-kart.json](./219436-gigantosaurus-dino-kart.json) |
 | Gigantosaurus Dino Sports | 300466 | [300466-gigantosaurus-dino-sports.json](./300466-gigantosaurus-dino-sports.json) |
 | Gigantosaurus: The Game | 129274 | [129274-gigantosaurus-the-game.json](./129274-gigantosaurus-the-game.json) |
