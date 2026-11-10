@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voidspace | 128155 | [128155-voidspace.json](./128155-voidspace.json) |
 | Voidspawn | 259356 | [259356-voidspawn.json](./259356-voidspawn.json) |
 | Voidspeed Outlaw | 157026 | [157026-voidspeed-outlaw.json](./157026-voidspeed-outlaw.json) |
+| Voidspire Tactics | 34200 | [34200-voidspire-tactics.json](./34200-voidspire-tactics.json) |
 | Voidstalker | 381926 | [381926-voidstalker.json](./381926-voidstalker.json) |
 | Voidstepper | 384035 | [384035-voidstepper.json](./384035-voidstepper.json) |
 | Voidstorm | 309549 | [309549-voidstorm.json](./309549-voidstorm.json) |
@@ -4380,6 +4381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroom Racing | 230156 | [230156-vroom-racing.json](./230156-vroom-racing.json) |
 | Vroom Vroom !!! | 87527 | [87527-vroom-vroom.json](./87527-vroom-vroom.json) |
 | Vroom Vroom Valley | 253444 | [253444-vroom-vroom-valley.json](./253444-vroom-vroom-valley.json) |
+| Vroom: Galleon | 34188 | [34188-vroom-galleon.json](./34188-vroom-galleon.json) |
 | Vroom! | 165215 | [165215-vroom.json](./165215-vroom.json) |
 | Vroomies | 296734 | [296734-vroomies.json](./296734-vroomies.json) |
 | Vroomist | 32915 | [32915-vroomist.json](./32915-vroomist.json) |
