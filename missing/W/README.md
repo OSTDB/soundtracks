@@ -1880,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords.IO | 111729 | [111729-warlords-io.json](./111729-warlords-io.json) |
 | Warm | 134875 | [134875-warm.json](./134875-warm.json) |
 | Warm Gun | 9686 | [9686-warm-gun.json](./9686-warm-gun.json) |
+| Warm Like Flesh | 410548 | [410548-warm-like-flesh.json](./410548-warm-like-flesh.json) |
 | Warm Monkey | 331314 | [331314-warm-monkey.json](./331314-warm-monkey.json) |
 | Warm Potato | 307727 | [307727-warm-potato.json](./307727-warm-potato.json) |
 | Warm Snow | 167432 | [167432-warm-snow.json](./167432-warm-snow.json) |
@@ -7161,6 +7162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: Legacy of Llylgamyn - The Third Scenario | 2871 | [2871-wizardry-legacy-of-llylgamyn-the-third-scenario.json](./2871-wizardry-legacy-of-llylgamyn-the-third-scenario.json) |
 | Wizardry: Llylgamyn Saga | 78865 | [78865-wizardry-llylgamyn-saga.json](./78865-wizardry-llylgamyn-saga.json) |
 | Wizardry: New Age of Llylgamyn | 181493 | [181493-wizardry-new-age-of-llylgamyn.json](./181493-wizardry-new-age-of-llylgamyn.json) |
+| Wizardry: Prisoners of the Lost City | 410542 | [410542-wizardry-prisoners-of-the-lost-city.json](./410542-wizardry-prisoners-of-the-lost-city.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 370644 | [370644-wizardry-proving-grounds-of-the-mad-overlord.json](./370644-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 370647 | [370647-wizardry-proving-grounds-of-the-mad-overlord.json](./370647-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 370743 | [370743-wizardry-proving-grounds-of-the-mad-overlord.json](./370743-wizardry-proving-grounds-of-the-mad-overlord.json) |
