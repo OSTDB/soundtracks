@@ -626,6 +626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damaaz the Barbarian Warlock | 278713 | [278713-damaaz-the-barbarian-warlock.json](./278713-damaaz-the-barbarian-warlock.json) |
 | Damage Chess | 420501 | [420501-damage-chess.json](./420501-damage-chess.json) |
 | Damage Control | 33302 | [33302-damage-control.json](./33302-damage-control.json) |
+| Damage Inc. Pacific Squadron WWII | 16392 | [16392-damage-inc-pacific-squadron-wwii.json](./16392-damage-inc-pacific-squadron-wwii.json) |
 | Damage Inc. Pacific Squadron WWII: F4F-FM2 "Panther" Wildcat | 170719 | [170719-damage-inc-pacific-squadron-wwii-f4f-fm2-panther-wildcat.json](./170719-damage-inc-pacific-squadron-wwii-f4f-fm2-panther-wildcat.json) |
 | Damage Inc. Pacific Squadron WWII: F6F-5N "Crusader" Hellcat | 170723 | [170723-damage-inc-pacific-squadron-wwii-f6f-5n-crusader-hellcat.json](./170723-damage-inc-pacific-squadron-wwii-f6f-5n-crusader-hellcat.json) |
 | Damage Inc. Pacific Squadron WWII: P-40N "Blackfin" Warhawk | 170721 | [170721-damage-inc-pacific-squadron-wwii-p-40n-blackfin-warhawk.json](./170721-damage-inc-pacific-squadron-wwii-p-40n-blackfin-warhawk.json) |
@@ -3910,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Man's Country | 112096 | [112096-dead-mans-country.json](./112096-dead-mans-country.json) |
 | Dead Man's Day | 411684 | [411684-dead-mans-day.json](./411684-dead-mans-day.json) |
 | Dead Man's Diary | 194871 | [194871-dead-mans-diary.json](./194871-dead-mans-diary.json) |
+| Dead Man's Draw | 16822 | [16822-dead-mans-draw.json](./16822-dead-mans-draw.json) |
 | Dead Man's Drive | 346383 | [346383-dead-mans-drive.json](./346383-dead-mans-drive.json) |
 | Dead Man's Fault | 228082 | [228082-dead-mans-fault.json](./228082-dead-mans-fault.json) |
 | Dead Man's Hand | 5809 | [5809-dead-mans-hand.json](./5809-dead-mans-hand.json) |
@@ -7279,6 +7281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth Dwellers | 71423 | [71423-depth-dwellers.json](./71423-depth-dwellers.json) |
 | Depth Fantasia | 99155 | [99155-depth-fantasia.json](./99155-depth-fantasia.json) |
 | Depth Gun | 185024 | [185024-depth-gun.json](./185024-depth-gun.json) |
+| Depth Hunter 2: Deep Dive | 16642 | [16642-depth-hunter-2-deep-dive.json](./16642-depth-hunter-2-deep-dive.json) |
 | Depth Hunter 2: Ocean Mysteries | 167273 | [167273-depth-hunter-2-ocean-mysteries.json](./167273-depth-hunter-2-ocean-mysteries.json) |
 | Depth Hunter 2: Scuba Kids - Hidden Treasures | 167274 | [167274-depth-hunter-2-scuba-kids-hidden-treasures.json](./167274-depth-hunter-2-scuba-kids-hidden-treasures.json) |
 | Depth Hunter 2: Treasure Hunter | 167272 | [167272-depth-hunter-2-treasure-hunter.json](./167272-depth-hunter-2-treasure-hunter.json) |
@@ -12877,6 +12880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominion: Storm Over Gift 3 | 68207 | [68207-dominion-storm-over-gift-3.json](./68207-dominion-storm-over-gift-3.json) |
 | Dominions 2: The Ascension Wars | 71837 | [71837-dominions-2-the-ascension-wars.json](./71837-dominions-2-the-ascension-wars.json) |
 | Dominions 3: The Awakening | 16641 | [16641-dominions-3-the-awakening.json](./16641-dominions-3-the-awakening.json) |
+| Dominions 4: Thrones of Ascension | 16767 | [16767-dominions-4-thrones-of-ascension.json](./16767-dominions-4-thrones-of-ascension.json) |
 | Dominions 5 | 76074 | [76074-dominions-5.json](./76074-dominions-5.json) |
 | Dominions 5: Warriors of the Faith | 77769 | [77769-dominions-5-warriors-of-the-faith.json](./77769-dominions-5-warriors-of-the-faith.json) |
 | Dominions: Priests, Prophets, and Pretenders | 70631 | [70631-dominions-priests-prophets-and-pretenders.json](./70631-dominions-priests-prophets-and-pretenders.json) |
@@ -18133,6 +18137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Hog | 385950 | [385950-drunken-hog.json](./385950-drunken-hog.json) |
 | Drunken Nuke'em | 199266 | [199266-drunken-nukeem.json](./199266-drunken-nukeem.json) |
 | Drunken Ravings | 183850 | [183850-drunken-ravings.json](./183850-drunken-ravings.json) |
+| Drunken Robot Pornography | 16356 | [16356-drunken-robot-pornography.json](./16356-drunken-robot-pornography.json) |
 | Drunken Rogue | 310824 | [310824-drunken-rogue.json](./310824-drunken-rogue.json) |
 | Drunken Samurai | 157042 | [157042-drunken-samurai.json](./157042-drunken-samurai.json) |
 | Drunken Superhero | 289561 | [289561-drunken-superhero.json](./289561-drunken-superhero.json) |
@@ -20400,6 +20405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyschronia: Chronos Alternate - Episode II: The Eleventh Hour | 276037 | [276037-dyschronia-chronos-alternate-episode-ii-the-eleventh-hour.json](./276037-dyschronia-chronos-alternate-episode-ii-the-eleventh-hour.json) |
 | Dyschronia: Chronos Alternate - Episode III: End of Hallucinations | 253185 | [253185-dyschronia-chronos-alternate-episode-iii-end-of-hallucinations.json](./253185-dyschronia-chronos-alternate-episode-iii-end-of-hallucinations.json) |
 | Dyscourse | 16504 | [16504-dyscourse.json](./16504-dyscourse.json) |
+| Dysfunctional Systems: Learning to Manage Chaos | 16647 | [16647-dysfunctional-systems-learning-to-manage-chaos.json](./16647-dysfunctional-systems-learning-to-manage-chaos.json) |
 | Dysfunctional Systems: Orientation | 51951 | [51951-dysfunctional-systems-orientation.json](./51951-dysfunctional-systems-orientation.json) |
 | Dysis | 62817 | [62817-dysis.json](./62817-dysis.json) |
 | Dyskairos | 374771 | [374771-dyskairos.json](./374771-dyskairos.json) |
