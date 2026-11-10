@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babushka's Glitch Dungeon | 202482 | [202482-babushkas-glitch-dungeon.json](./202482-babushkas-glitch-dungeon.json) |
 | Baby Animals: Wooden Preschool Puzzle for Kids | 109981 | [109981-baby-animals-wooden-preschool-puzzle-for-kids.json](./109981-baby-animals-wooden-preschool-puzzle-for-kids.json) |
 | Baby Arms | 246432 | [246432-baby-arms.json](./246432-baby-arms.json) |
+| Baby Bananza Races | 404575 | [404575-baby-bananza-races.json](./404575-baby-bananza-races.json) |
 | Baby Bear's Big Day Out | 155707 | [155707-baby-bears-big-day-out.json](./155707-baby-bears-big-day-out.json) |
 | Baby Bee | 114233 | [114233-baby-bee.json](./114233-baby-bee.json) |
 | Baby Berks | 60533 | [60533-baby-berks.json](./60533-baby-berks.json) |
@@ -1006,7 +1007,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Range | 413968 | [413968-bad-range.json](./413968-bad-range.json) |
@@ -19269,6 +19269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BustyBiz: Anna Pack | 265252 | [265252-bustybiz-anna-pack.json](./265252-bustybiz-anna-pack.json) |
 | Busway Islands | 240609 | [240609-busway-islands.json](./240609-busway-islands.json) |
 | Busway Islands: Puzzle | 308646 | [308646-busway-islands-puzzle.json](./308646-busway-islands-puzzle.json) |
+| Busy Bar: World Tour | 405104 | [405104-busy-bar-world-tour.json](./405104-busy-bar-world-tour.json) |
 | Busy Bea's Halftime Hustle | 349295 | [349295-busy-beas-halftime-hustle.json](./349295-busy-beas-halftime-hustle.json) |
 | Busy Bee | 246866 | [246866-busy-bee.json](./246866-busy-bee.json) |
 | Busy Bong | 246320 | [246320-busy-bong.json](./246320-busy-bong.json) |
