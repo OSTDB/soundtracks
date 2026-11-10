@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defender One | 144273 | [144273-earth-defender-one.json](./144273-earth-defender-one.json) |
 | Earth Defenders | 295817 | [295817-earth-defenders.json](./295817-earth-defenders.json) |
 | Earth Defense Force | 46666 | [46666-earth-defense-force.json](./46666-earth-defense-force.json) |
+| Earth Defense Force | 84918 | [84918-earth-defense-force.json](./84918-earth-defense-force.json) |
 | Earth Defense Force 2 for Nintendo Switch | 222484 | [222484-earth-defense-force-2-for-nintendo-switch.json](./222484-earth-defense-force-2-for-nintendo-switch.json) |
 | Earth Defense Force 2: Invaders from Planet Space | 11001 | [11001-earth-defense-force-2-invaders-from-planet-space.json](./11001-earth-defense-force-2-invaders-from-planet-space.json) |
 | Earth Defense Force 2017 | 5583 | [5583-earth-defense-force-2017.json](./5583-earth-defense-force-2017.json) |
