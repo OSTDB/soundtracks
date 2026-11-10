@@ -6288,6 +6288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art Theft by Jay Doherty | 113131 | [113131-the-art-theft-by-jay-doherty.json](./113131-the-art-theft-by-jay-doherty.json) |
 | THE ART: Metamorphosis | 123492 | [123492-the-art-metamorphosis.json](./123492-the-art-metamorphosis.json) |
 | The Artefacts lost in the Galaxy | 128158 | [128158-the-artefacts-lost-in-the-galaxy.json](./128158-the-artefacts-lost-in-the-galaxy.json) |
+| The Artifact | 31061 | [31061-the-artifact.json](./31061-the-artifact.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
 | The Artifact Protocol | 365775 | [365775-the-artifact-protocol.json](./365775-the-artifact-protocol.json) |
 | The Artifactory | 334179 | [334179-the-artifactory.json](./334179-the-artifactory.json) |
@@ -17742,6 +17743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Space Between | 378418 | [378418-the-space-between.json](./378418-the-space-between.json) |
 | The Space Between Stars | 364379 | [364379-the-space-between-stars.json](./364379-the-space-between-stars.json) |
 | The Space Brigade: Space Raiders - Refueled | 261065 | [261065-the-space-brigade-space-raiders-refueled.json](./261065-the-space-brigade-space-raiders-refueled.json) |
+| The Space Garden | 31106 | [31106-the-space-garden.json](./31106-the-space-garden.json) |
 | The Space in Between | 142631 | [142631-the-space-in-between.json](./142631-the-space-in-between.json) |
 | The Space Mission | 272103 | [272103-the-space-mission.json](./272103-the-space-mission.json) |
 | The Space Opera "Dragon Eyes" | 125954 | [125954-the-space-opera-dragon-eyes.json](./125954-the-space-opera-dragon-eyes.json) |
@@ -28131,6 +28133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Defence Engineer | 323248 | [323248-tower-defence-engineer.json](./323248-tower-defence-engineer.json) |
 | Tower Defender: Hero Wars | 207270 | [207270-tower-defender-hero-wars.json](./207270-tower-defender-hero-wars.json) |
 | Tower Defense | 213813 | [213813-tower-defense.json](./213813-tower-defense.json) |
+| Tower Defense - Fantasy Tower Game | 29352 | [29352-tower-defense-fantasy-tower-game.json](./29352-tower-defense-fantasy-tower-game.json) |
 | Tower Defense Bundle | 199779 | [199779-tower-defense-bundle.json](./199779-tower-defense-bundle.json) |
 | Tower Defense for Virus | 418405 | [418405-tower-defense-for-virus.json](./418405-tower-defense-for-virus.json) |
 | Tower Defense Hero | 160032 | [160032-tower-defense-hero.json](./160032-tower-defense-hero.json) |
