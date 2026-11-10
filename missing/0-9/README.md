@@ -2465,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Creation Station | 64907 | [64907-3d-creation-station.json](./64907-3d-creation-station.json) |
 | 3D Cricket | 243753 | [243753-3d-cricket.json](./243753-3d-cricket.json) |
 | 3D Crosswords | 268507 | [268507-3d-crosswords.json](./268507-3d-crosswords.json) |
+| 3D Cube Hopper | 408462 | [408462-3d-cube-hopper.json](./408462-3d-cube-hopper.json) |
 | 3D Custom Girl | 92660 | [92660-3d-custom-girl.json](./92660-3d-custom-girl.json) |
 | 3D Cyber Puck | 300012 | [300012-3d-cyber-puck.json](./300012-3d-cyber-puck.json) |
 | 3D Deer Sniper Hunting Game 2017 | 94783 | [94783-3d-deer-sniper-hunting-game-2017.json](./94783-3d-deer-sniper-hunting-game-2017.json) |
