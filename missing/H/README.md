@@ -2217,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmonian Tales | 146535 | [146535-harmonian-tales.json](./146535-harmonian-tales.json) |
 | Harmonic Convergence | 353762 | [353762-harmonic-convergence.json](./353762-harmonic-convergence.json) |
 | Harmonic Depths | 266096 | [266096-harmonic-depths.json](./266096-harmonic-depths.json) |
+| Harmonic Drive | 409274 | [409274-harmonic-drive.json](./409274-harmonic-drive.json) |
 | Harmonic Odyssey: The Five Gods | 182050 | [182050-harmonic-odyssey-the-five-gods.json](./182050-harmonic-odyssey-the-five-gods.json) |
 | Harmonic Time-Bind Ritual Symphony | 259333 | [259333-harmonic-time-bind-ritual-symphony.json](./259333-harmonic-time-bind-ritual-symphony.json) |
 | Harmonies | 314626 | [314626-harmonies.json](./314626-harmonies.json) |
@@ -3750,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Racing | 227256 | [227256-heat-racing.json](./227256-heat-racing.json) |
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
 | Heat Retreat | 348159 | [348159-heat-retreat.json](./348159-heat-retreat.json) |
+| Heat Rush | 409267 | [409267-heat-rush.json](./409267-heat-rush.json) |
 | Heat Sand Race | 416357 | [416357-heat-sand-race.json](./416357-heat-sand-race.json) |
 | Heat wave | 180850 | [180850-heat-wave.json](./180850-heat-wave.json) |
 | Heat Wave | 336543 | [336543-heat-wave.json](./336543-heat-wave.json) |
@@ -3945,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Water Jogger | 73812 | [73812-heavy-water-jogger.json](./73812-heavy-water-jogger.json) |
 | Heavy Weapon | 20397 | [20397-heavy-weapon.json](./20397-heavy-weapon.json) |
 | Heavy Weapon Deluxe | 27812 | [27812-heavy-weapon-deluxe.json](./27812-heavy-weapon-deluxe.json) |
+| Heavy Weapons | 409261 | [409261-heavy-weapons.json](./409261-heavy-weapons.json) |
 | Heavy Works | 213482 | [213482-heavy-works.json](./213482-heavy-works.json) |
 | Heavydelic | 396660 | [396660-heavydelic.json](./396660-heavydelic.json) |
 | Heavyweight Champ | 172525 | [172525-heavyweight-champ.json](./172525-heavyweight-champ.json) |
