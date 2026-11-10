@@ -2220,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramorfosi | 274369 | [274369-paramorfosi.json](./274369-paramorfosi.json) |
 | Paramount Hero | 212843 | [212843-paramount-hero.json](./212843-paramount-hero.json) |
 | Paranatural | 310763 | [310763-paranatural.json](./310763-paranatural.json) |
+| Paranautical Activity: Deluxe Atonement Edition | 21864 | [21864-paranautical-activity-deluxe-atonement-edition.json](./21864-paranautical-activity-deluxe-atonement-edition.json) |
 | Paranecro | 201459 | [201459-paranecro.json](./201459-paranecro.json) |
 | Paranoia | 107149 | [107149-paranoia.json](./107149-paranoia.json) |
 | Paranoia | 165050 | [165050-paranoia.json](./165050-paranoia.json) |
@@ -5499,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online Blue Burst | 51302 | [51302-phantasy-star-online-blue-burst.json](./51302-phantasy-star-online-blue-burst.json) |
 | Phantasy Star Online Episode I & II | 9890 | [9890-phantasy-star-online-episode-i-and-ii.json](./9890-phantasy-star-online-episode-i-and-ii.json) |
 | Phantasy Star Online Episode I & II Plus | 79149 | [79149-phantasy-star-online-episode-i-and-ii-plus.json](./79149-phantasy-star-online-episode-i-and-ii-plus.json) |
+| Phantasy Star Online Episode III: C.A.R.D. Revolution | 23329 | [23329-phantasy-star-online-episode-iii-c-a-r-d-revolution.json](./23329-phantasy-star-online-episode-iii-c-a-r-d-revolution.json) |
 | Phantasy Star Online Ver. 2 | 45812 | [45812-phantasy-star-online-ver-2.json](./45812-phantasy-star-online-ver-2.json) |
 | Phantasy Star Portable | 21873 | [21873-phantasy-star-portable.json](./21873-phantasy-star-portable.json) |
 | Phantasy Star Portable 2 | 19256 | [19256-phantasy-star-portable-2.json](./19256-phantasy-star-portable-2.json) |
@@ -7964,6 +7966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate's Life | 35523 | [35523-pirates-life.json](./35523-pirates-life.json) |
 | Pirate's Pension | 176304 | [176304-pirates-pension.json](./176304-pirates-pension.json) |
 | Pirate's Solitaire | 195715 | [195715-pirates-solitaire.json](./195715-pirates-solitaire.json) |
+| Pirate101 | 23536 | [23536-pirate101.json](./23536-pirate101.json) |
 | Piratecraft | 150410 | [150410-piratecraft.json](./150410-piratecraft.json) |
 | Pirated Code | 179612 | [179612-pirated-code.json](./179612-pirated-code.json) |
 | Pirated Code: Admin Edition | 212187 | [212187-pirated-code-admin-edition.json](./212187-pirated-code-admin-edition.json) |
@@ -15080,6 +15083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: Rival Swords | 243129 | [243129-prince-of-persia-rival-swords.json](./243129-prince-of-persia-rival-swords.json) |
 | Prince of Persia: Rival Swords | 243130 | [243130-prince-of-persia-rival-swords.json](./243130-prince-of-persia-rival-swords.json) |
 | Prince of Persia: The Dagger of Time | 154143 | [154143-prince-of-persia-the-dagger-of-time.json](./154143-prince-of-persia-the-dagger-of-time.json) |
+| Prince of Persia: The Fallen King | 21267 | [21267-prince-of-persia-the-fallen-king.json](./21267-prince-of-persia-the-fallen-king.json) |
 | Prince of Persia: The Forgotten Sands | 142709 | [142709-prince-of-persia-the-forgotten-sands.json](./142709-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 142712 | [142712-prince-of-persia-the-forgotten-sands.json](./142712-prince-of-persia-the-forgotten-sands.json) |
 | Prince of Persia: The Forgotten Sands | 264363 | [264363-prince-of-persia-the-forgotten-sands.json](./264363-prince-of-persia-the-forgotten-sands.json) |
