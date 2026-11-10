@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gal Pani | 423971 | [423971-gal-pani.json](./423971-gal-pani.json) |
 | Gal Pani X | 250208 | [250208-gal-pani-x.json](./250208-gal-pani-x.json) |
 | Gal Vs Village | 390714 | [390714-gal-vs-village.json](./390714-gal-vs-village.json) |
+| Gal-X-E | 32633 | [32633-gal-x-e.json](./32633-gal-x-e.json) |
 | Gal, Geek and Summer | 364078 | [364078-gal-geek-and-summer.json](./364078-gal-geek-and-summer.json) |
 | Gal's Dungeon | 376186 | [376186-gals-dungeon.json](./376186-gals-dungeon.json) |
 | Gal*Gun | 304988 | [304988-gal-gun.json](./304988-gal-gun.json) |
@@ -4465,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giga Digger | 423890 | [423890-giga-digger.json](./423890-giga-digger.json) |
 | Giga Fighters Batman & Robin | 218016 | [218016-giga-fighters-batman-and-robin.json](./218016-giga-fighters-batman-and-robin.json) |
 | Giga Fighters WCW/nWo | 218017 | [218017-giga-fighters-wcw-nwo.json](./218017-giga-fighters-wcw-nwo.json) |
+| Giga Girl | 32598 | [32598-giga-girl.json](./32598-giga-girl.json) |
 | Giga Pets Explorer | 274249 | [274249-giga-pets-explorer.json](./274249-giga-pets-explorer.json) |
 | Giga Pets Plus: Rugrats | 198880 | [198880-giga-pets-plus-rugrats.json](./198880-giga-pets-plus-rugrats.json) |
 | Giga Pets: Barbie - Precious Kitty | 218051 | [218051-giga-pets-barbie-precious-kitty.json](./218051-giga-pets-barbie-precious-kitty.json) |
@@ -8496,6 +8498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandpa's Cheese | 200532 | [200532-grandpas-cheese.json](./200532-grandpas-cheese.json) |
 | Grandpa's House | 257900 | [257900-grandpas-house.json](./257900-grandpas-house.json) |
 | Grandpa's House | 426416 | [426416-grandpas-house.json](./426416-grandpas-house.json) |
+| Grandpa's Table | 32664 | [32664-grandpas-table.json](./32664-grandpas-table.json) |
 | Grandpa's Workshop | 68925 | [68925-grandpas-workshop.json](./68925-grandpas-workshop.json) |
 | GrandPaper | 322676 | [322676-grandpaper.json](./322676-grandpaper.json) |
 | Grandpurrents | 149469 | [149469-grandpurrents.json](./149469-grandpurrents.json) |
@@ -8737,6 +8740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravemyst | 336711 | [336711-gravemyst.json](./336711-gravemyst.json) |
 | Graven | 138982 | [138982-graven.json](./138982-graven.json) |
 | Graven: Deluxe Edition | 336046 | [336046-graven-deluxe-edition.json](./336046-graven-deluxe-edition.json) |
+| Graven: The Purple Moon Prophecy | 32694 | [32694-graven-the-purple-moon-prophecy.json](./32694-graven-the-purple-moon-prophecy.json) |
 | Gravenfall: Veil of Darkness | 323482 | [323482-gravenfall-veil-of-darkness.json](./323482-gravenfall-veil-of-darkness.json) |
 | GraveRun | 33286 | [33286-graverun.json](./33286-graverun.json) |
 | GraveRunners | 152637 | [152637-graverunners.json](./152637-graverunners.json) |
