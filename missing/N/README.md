@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco History Vol. 2 | 220151 | [220151-namco-history-vol-2.json](./220151-namco-history-vol-2.json) |
 | Namco History Vol. 3 | 220249 | [220249-namco-history-vol-3.json](./220249-namco-history-vol-3.json) |
 | Namco History Vol. 4 | 220250 | [220250-namco-history-vol-4.json](./220250-namco-history-vol-4.json) |
+| Namco Legendary Mountains | 405904 | [405904-namco-legendary-mountains.json](./405904-namco-legendary-mountains.json) |
 | Namco Logic | 343342 | [343342-namco-logic.json](./343342-namco-logic.json) |
 | Namco Museum | 131507 | [131507-namco-museum.json](./131507-namco-museum.json) |
 | Namco Museum | 177623 | [177623-namco-museum.json](./177623-namco-museum.json) |
@@ -865,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Rivals: Throwback Pack | 231254 | [231254-nascar-rivals-throwback-pack.json](./231254-nascar-rivals-throwback-pack.json) |
 | NASCAR Road Racing | 94292 | [94292-nascar-road-racing.json](./94292-nascar-road-racing.json) |
 | NASCAR Rumble | 44879 | [44879-nascar-rumble.json](./44879-nascar-rumble.json) |
+| NASCAR SimRacing | 807 | [807-nascar-simracing.json](./807-nascar-simracing.json) |
 | NASCAR Thunder 2002 | 5946 | [5946-nascar-thunder-2002.json](./5946-nascar-thunder-2002.json) |
 | NASCAR Thunder 2003 | 242427 | [242427-nascar-thunder-2003.json](./242427-nascar-thunder-2003.json) |
 | NASCAR Thunder 2003 | 4028 | [4028-nascar-thunder-2003.json](./4028-nascar-thunder-2003.json) |
@@ -4222,6 +4224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nickelodeon Director's Lab | 243145 | [243145-nickelodeon-directors-lab.json](./243145-nickelodeon-directors-lab.json) |
 | Nickelodeon DVD Bingo | 77045 | [77045-nickelodeon-dvd-bingo.json](./77045-nickelodeon-dvd-bingo.json) |
 | Nickelodeon Extreme Tennis | 194327 | [194327-nickelodeon-extreme-tennis.json](./194327-nickelodeon-extreme-tennis.json) |
+| Nickelodeon Extreme Tennis: Next! | 397633 | [397633-nickelodeon-extreme-tennis-next.json](./397633-nickelodeon-extreme-tennis-next.json) |
 | Nickelodeon Fit | 50706 | [50706-nickelodeon-fit.json](./50706-nickelodeon-fit.json) |
 | Nickelodeon Game Builder: Fanboy & Chum Chum | 326001 | [326001-nickelodeon-game-builder-fanboy-and-chum-chum.json](./326001-nickelodeon-game-builder-fanboy-and-chum-chum.json) |
 | Nickelodeon Game Builder: SpongeBob SquarePants | 210356 | [210356-nickelodeon-game-builder-spongebob-squarepants.json](./210356-nickelodeon-game-builder-spongebob-squarepants.json) |
@@ -4565,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Security | 245793 | [245793-night-security.json](./245793-night-security.json) |
 | Night Seeker | 378911 | [378911-night-seeker.json](./378911-night-seeker.json) |
 | Night Shift | 125262 | [125262-night-shift.json](./125262-night-shift.json) |
+| Night Shift | 195 | [195-night-shift.json](./195-night-shift.json) |
 | Night Shift | 225430 | [225430-night-shift.json](./225430-night-shift.json) |
 | Night Shift | 311609 | [311609-night-shift.json](./311609-night-shift.json) |
 | Night Shift | 376829 | [376829-night-shift.json](./376829-night-shift.json) |
