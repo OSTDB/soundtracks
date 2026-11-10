@@ -109,6 +109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.C.T. Eizou Play | 243471 | [243471-r-c-t-eizou-play.json](./243471-r-c-t-eizou-play.json) |
 | R.E.A.C.T | 195595 | [195595-r-e-a-c-t.json](./195595-r-e-a-c-t.json) |
 | R.E.E.L. | 133367 | [133367-r-e-e-l.json](./133367-r-e-e-l.json) |
+| R.E.G.O | 411917 | [411917-r-e-g-o.json](./411917-r-e-g-o.json) |
 | R.E.M. scape | 178432 | [178432-r-e-m-scape.json](./178432-r-e-m-scape.json) |
 | R.H. | 237198 | [237198-r-h.json](./237198-r-h.json) |
 | R.I.C.A | 115013 | [115013-r-i-c-a.json](./115013-r-i-c-a.json) |
@@ -12907,6 +12908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run from Bubol Horror | 359990 | [359990-run-from-bubol-horror.json](./359990-run-from-bubol-horror.json) |
 | Run from Duck | 379931 | [379931-run-from-duck.json](./379931-run-from-duck.json) |
 | Run From Mummies | 263873 | [263873-run-from-mummies.json](./263873-run-from-mummies.json) |
+| Run from the Cops! | 411911 | [411911-run-from-the-cops.json](./411911-run-from-the-cops.json) |
 | Run from the Feds! | 316019 | [316019-run-from-the-feds.json](./316019-run-from-the-feds.json) |
 | Run From the Hunt | 369260 | [369260-run-from-the-hunt.json](./369260-run-from-the-hunt.json) |
 | Run from the Light | 296017 | [296017-run-from-the-light.json](./296017-run-from-the-light.json) |
