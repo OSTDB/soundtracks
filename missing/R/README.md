@@ -4945,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnated As A Monster | 127158 | [127158-reincarnated-as-a-monster.json](./127158-reincarnated-as-a-monster.json) |
 | Reincarnated as a Noble | 217746 | [217746-reincarnated-as-a-noble.json](./217746-reincarnated-as-a-noble.json) |
 | Reincarnated as a Rookie | 302798 | [302798-reincarnated-as-a-rookie.json](./302798-reincarnated-as-a-rookie.json) |
+| Reincarnated as a Sword Brave Rush | 396179 | [396179-reincarnated-as-a-sword-brave-rush.json](./396179-reincarnated-as-a-sword-brave-rush.json) |
 | Reincarnated Souls | 370363 | [370363-reincarnated-souls.json](./370363-reincarnated-souls.json) |
 | Reincarnatio | 260270 | [260270-reincarnatio.json](./260270-reincarnatio.json) |
 | Reincarnation | 247901 | [247901-reincarnation.json](./247901-reincarnation.json) |
@@ -8084,6 +8085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringlorn Saga Gaiden | 240753 | [240753-ringlorn-saga-gaiden.json](./240753-ringlorn-saga-gaiden.json) |
 | Ringo Party | 296867 | [296867-ringo-party.json](./296867-ringo-party.json) |
 | Ringo Sour | 98032 | [98032-ringo-sour.json](./98032-ringo-sour.json) |
+| Ringo-san no Jump Action | 396254 | [396254-ringo-san-no-jump-action.json](./396254-ringo-san-no-jump-action.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
 | Ringognir | 55300 | [55300-ringognir.json](./55300-ringognir.json) |
 | Ringognir 2 | 63737 | [63737-ringognir-2.json](./63737-ringognir-2.json) |
@@ -8120,6 +8122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rinne Tsukihime | 282562 | [282562-rinne-tsukihime.json](./282562-rinne-tsukihime.json) |
 | Rinnetenjo | 342921 | [342921-rinnetenjo.json](./342921-rinnetenjo.json) |
 | Rinny Platformer Rage Game | 337531 | [337531-rinny-platformer-rage-game.json](./337531-rinny-platformer-rage-game.json) |
+| Rino Rush | 396613 | [396613-rino-rush.json](./396613-rino-rush.json) |
 | Rinse and Repeat | 13158 | [13158-rinse-and-repeat.json](./13158-rinse-and-repeat.json) |
 | Rinse and Repeat | 286576 | [286576-rinse-and-repeat.json](./286576-rinse-and-repeat.json) |
 | Rinth | 344029 | [344029-rinth.json](./344029-rinth.json) |
@@ -11633,6 +11636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Root: The Riverfolk Expansion | 221420 | [221420-root-the-riverfolk-expansion.json](./221420-root-the-riverfolk-expansion.json) |
 | Root: The Underworld Expansion | 243518 | [243518-root-the-underworld-expansion.json](./243518-root-the-underworld-expansion.json) |
 | Rootabasis | 422459 | [422459-rootabasis.json](./422459-rootabasis.json) |
+| Rootborn | 396621 | [396621-rootborn.json](./396621-rootborn.json) |
 | Rootbound | 315102 | [315102-rootbound.json](./315102-rootbound.json) |
 | Rootbound | 335047 | [335047-rootbound.json](./335047-rootbound.json) |
 | Rooted | 194616 | [194616-rooted.json](./194616-rooted.json) |
