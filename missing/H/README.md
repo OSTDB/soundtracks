@@ -2060,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Survival | 65811 | [65811-hardcore-survival.json](./65811-hardcore-survival.json) |
 | Hardcore Trivia | 169848 | [169848-hardcore-trivia.json](./169848-hardcore-trivia.json) |
 | Hardcore Weapon Challenge - FPS Action | 103834 | [103834-hardcore-weapon-challenge-fps-action.json](./103834-hardcore-weapon-challenge-fps-action.json) |
+| Hardcore ZBoy | 59139 | [59139-hardcore-zboy.json](./59139-hardcore-zboy.json) |
 | Hardcore: The Game | 181053 | [181053-hardcore-the-game.json](./181053-hardcore-the-game.json) |
 | HardCube | 32302 | [32302-hardcube.json](./32302-hardcube.json) |
 | HardCube + Mystery Mine Bundle | 164695 | [164695-hardcube-mystery-mine-bundle.json](./164695-hardcube-mystery-mine-bundle.json) |
@@ -3250,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Mode | 178948 | [178948-head-mode.json](./178948-head-mode.json) |
 | Head North | 180370 | [180370-head-north.json](./180370-head-north.json) |
 | Head North: The Inevitable | 269604 | [269604-head-north-the-inevitable.json](./269604-head-north-the-inevitable.json) |
+| Head of State | 57338 | [57338-head-of-state.json](./57338-head-of-state.json) |
 | Head of the Student Council Himeno: Lewd Manifesto | 82613 | [82613-head-of-the-student-council-himeno-lewd-manifesto.json](./82613-head-of-the-student-council-himeno-lewd-manifesto.json) |
 | Head On | 16971 | [16971-head-on.json](./16971-head-on.json) |
 | Head On | 339852 | [339852-head-on.json](./339852-head-on.json) |
