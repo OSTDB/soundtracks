@@ -1942,6 +1942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VICCP 2 Core | 244840 | [244840-viccp-2-core.json](./244840-viccp-2-core.json) |
 | Vice City Big Mission Pack | 403800 | [403800-vice-city-big-mission-pack.json](./403800-vice-city-big-mission-pack.json) |
 | Vice City Race | 272392 | [272392-vice-city-race.json](./272392-vice-city-race.json) |
+| Vice Club Simulator | 417145 | [417145-vice-club-simulator.json](./417145-vice-club-simulator.json) |
 | Vice Extended | 414843 | [414843-vice-extended.json](./414843-vice-extended.json) |
 | Vice Grill: Synthwave Survival | 297885 | [297885-vice-grill-synthwave-survival.json](./297885-vice-grill-synthwave-survival.json) |
 | Vice Signalling | 412097 | [412097-vice-signalling.json](./412097-vice-signalling.json) |
@@ -3507,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Islands | 288486 | [288486-void-islands.json](./288486-void-islands.json) |
 | Void Jump VR | 359051 | [359051-void-jump-vr.json](./359051-void-jump-vr.json) |
 | Void Keeper | 294508 | [294508-void-keeper.json](./294508-void-keeper.json) |
+| Void Keeper | 417150 | [417150-void-keeper.json](./417150-void-keeper.json) |
 | Void Lands | 322245 | [322245-void-lands.json](./322245-void-lands.json) |
 | Void Ledger | 423387 | [423387-void-ledger.json](./423387-void-ledger.json) |
 | Void Light | 387363 | [387363-void-light.json](./387363-void-light.json) |
