@@ -3219,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SchoolJump | 100539 | [100539-schooljump.json](./100539-schooljump.json) |
 | Schoolmare | 249381 | [249381-schoolmare.json](./249381-schoolmare.json) |
 | SchoolMate | 22464 | [22464-schoolmate.json](./22464-schoolmate.json) |
+| SchoolMate 2 | 22470 | [22470-schoolmate-2.json](./22470-schoolmate-2.json) |
 | SchoolMate Sweets! | 22466 | [22466-schoolmate-sweets.json](./22466-schoolmate-sweets.json) |
 | Schoolmates - The Mystery of the Magic Bracelet | 54347 | [54347-schoolmates-the-mystery-of-the-magic-bracelet.json](./54347-schoolmates-the-mystery-of-the-magic-bracelet.json) |
 | Schoolmates from Present to Past | 54346 | [54346-schoolmates-from-present-to-past.json](./54346-schoolmates-from-present-to-past.json) |
@@ -3665,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scram | 108557 | [108557-scram.json](./108557-scram.json) |
 | Scram 20 | 79316 | [79316-scram-20.json](./79316-scram-20.json) |
 | Scram 81 | 319528 | [319528-scram-81.json](./319528-scram-81.json) |
+| Scram Kitty and His Buddy on Rails | 22259 | [22259-scram-kitty-and-his-buddy-on-rails.json](./22259-scram-kitty-and-his-buddy-on-rails.json) |
 | Scram: Scrammer's Pack | 270035 | [270035-scram-scrammers-pack.json](./270035-scram-scrammers-pack.json) |
 | Scram! | 265294 | [265294-scram.json](./265294-scram.json) |
 | Scramball | 339900 | [339900-scramball.json](./339900-scramball.json) |
@@ -17942,6 +17944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic & Sega All-Stars Racing | 287013 | [287013-sonic-and-sega-all-stars-racing.json](./287013-sonic-and-sega-all-stars-racing.json) |
 | Sonic & Sega All-Stars Racing | 5165 | [5165-sonic-and-sega-all-stars-racing.json](./5165-sonic-and-sega-all-stars-racing.json) |
 | Sonic & Sega All-Stars Racing Arcade | 280800 | [280800-sonic-and-sega-all-stars-racing-arcade.json](./280800-sonic-and-sega-all-stars-racing-arcade.json) |
+| Sonic & Sega All-Stars Racing with Banjo-Kazooie | 24346 | [24346-sonic-and-sega-all-stars-racing-with-banjo-kazooie.json](./24346-sonic-and-sega-all-stars-racing-with-banjo-kazooie.json) |
 | Sonic & Shadow | 330516 | [330516-sonic-and-shadow.json](./330516-sonic-and-shadow.json) |
 | Sonic & Shadow | 336350 | [336350-sonic-and-shadow.json](./336350-sonic-and-shadow.json) |
 | Sonic & Tails | 317280 | [317280-sonic-and-tails.json](./317280-sonic-and-tails.json) |
@@ -29828,6 +29831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikers 1945 Plus Portable | 42753 | [42753-strikers-1945-plus-portable.json](./42753-strikers-1945-plus-portable.json) |
 | Strikers 2020 | 118840 | [118840-strikers-2020.json](./118840-strikers-2020.json) |
 | Strikers Club | 343323 | [343323-strikers-club.json](./343323-strikers-club.json) |
+| Strikers Edge | 22375 | [22375-strikers-edge.json](./22375-strikers-edge.json) |
 | Strikers1945: RE | 267316 | [267316-strikers1945-re.json](./267316-strikers1945-re.json) |
 | Strikes 'N' Spares | 94282 | [94282-strikes-n-spares.json](./94282-strikes-n-spares.json) |
 | Strikethrough | 252577 | [252577-strikethrough.json](./252577-strikethrough.json) |
@@ -31367,6 +31371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Night X: Tears Crown | 69297 | [69297-summon-night-x-tears-crown.json](./69297-summon-night-x-tears-crown.json) |
 | Summon Night: Swordcraft Story | 6615 | [6615-summon-night-swordcraft-story.json](./6615-summon-night-swordcraft-story.json) |
 | Summon Night: Swordcraft Story 2 | 6616 | [6616-summon-night-swordcraft-story-2.json](./6616-summon-night-swordcraft-story-2.json) |
+| Summon Night: Twin Age | 21477 | [21477-summon-night-twin-age.json](./21477-summon-night-twin-age.json) |
 | Summon of Asmodeus | 117652 | [117652-summon-of-asmodeus.json](./117652-summon-of-asmodeus.json) |
 | Summon Quest | 291980 | [291980-summon-quest.json](./291980-summon-quest.json) |
 | Summon The Dudes! | 339480 | [339480-summon-the-dudes.json](./339480-summon-the-dudes.json) |
@@ -34184,6 +34189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen Neo | 76902 | [76902-super-robot-taisen-neo.json](./76902-super-robot-taisen-neo.json) |
 | Super Robot Taisen OE: Operation Extend | 79344 | [79344-super-robot-taisen-oe-operation-extend.json](./79344-super-robot-taisen-oe-operation-extend.json) |
 | Super Robot Taisen OG Gaiden | 72741 | [72741-super-robot-taisen-og-gaiden.json](./72741-super-robot-taisen-og-gaiden.json) |
+| Super Robot Taisen OG Saga: Endless Frontier | 21187 | [21187-super-robot-taisen-og-saga-endless-frontier.json](./21187-super-robot-taisen-og-saga-endless-frontier.json) |
 | Super Robot Taisen OG Saga: Masou Kishin - The Lord of Elemental | 79343 | [79343-super-robot-taisen-og-saga-masou-kishin-the-lord-of-elemental.json](./79343-super-robot-taisen-og-saga-masou-kishin-the-lord-of-elemental.json) |
 | Super Robot Taisen OG Saga: Masou Kishin F - Coffin of the End | 61553 | [61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json](./61553-super-robot-taisen-og-saga-masou-kishin-f-coffin-of-the-end.json) |
 | Super Robot Taisen OG Saga: Masou Kishin I - The Lord of Elemental | 408411 | [408411-super-robot-taisen-og-saga-masou-kishin-i-the-lord-of-elemental.json](./408411-super-robot-taisen-og-saga-masou-kishin-i-the-lord-of-elemental.json) |
