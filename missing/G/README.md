@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.G. Series: Shin Hero Ouga | 67370 | [67370-g-g-series-shin-hero-ouga.json](./67370-g-g-series-shin-hero-ouga.json) |
 | G.H.O.S.T. Chronicles: Phantom of the Faire | 209598 | [209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json](./209598-g-h-o-s-t-chronicles-phantom-of-the-faire.json) |
 | G.H.O.S.T. Hunters: The Haunting of Majesty Manor | 209751 | [209751-g-h-o-s-t-hunters-the-haunting-of-majesty-manor.json](./209751-g-h-o-s-t-hunters-the-haunting-of-majesty-manor.json) |
+| G.H.O.S.T.: Ghost Hunt Ops Special Team | 405787 | [405787-g-h-o-s-t-ghost-hunt-ops-special-team.json](./405787-g-h-o-s-t-ghost-hunt-ops-special-team.json) |
 | G.I. Combat: Episode 1 - Battle of Normandy | 79387 | [79387-g-i-combat-episode-1-battle-of-normandy.json](./79387-g-i-combat-episode-1-battle-of-normandy.json) |
 | G.I. Joe | 178246 | [178246-g-i-joe.json](./178246-g-i-joe.json) |
 | G.I. Joe: A Real American Hero | 218433 | [218433-g-i-joe-a-real-american-hero.json](./218433-g-i-joe-a-real-american-hero.json) |
