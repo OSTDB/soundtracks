@@ -2142,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikuu Yuuden: Debias | 48610 | [48610-jikuu-yuuden-debias.json](./48610-jikuu-yuuden-debias.json) |
 | Jill O' Lantern | 320971 | [320971-jill-o-lantern.json](./320971-jill-o-lantern.json) |
 | Jill O' Lantern: Final Cut | 319360 | [319360-jill-o-lantern-final-cut.json](./319360-jill-o-lantern-final-cut.json) |
+| Jill of the Jungle | 9641 | [9641-jill-of-the-jungle.json](./9641-jill-of-the-jungle.json) |
 | Jill of the Jungle: Jill Goes Underground | 50338 | [50338-jill-of-the-jungle-jill-goes-underground.json](./50338-jill-of-the-jungle-jill-goes-underground.json) |
 | Jill of the Jungle: Jill Saves the Prince | 50337 | [50337-jill-of-the-jungle-jill-saves-the-prince.json](./50337-jill-of-the-jungle-jill-saves-the-prince.json) |
 | Jill of the Jungle: The Complete Trilogy | 69633 | [69633-jill-of-the-jungle-the-complete-trilogy.json](./69633-jill-of-the-jungle-the-complete-trilogy.json) |
