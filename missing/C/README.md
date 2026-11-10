@@ -2086,7 +2086,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa II: World Fighters - DLC Character Pack 1 | 407288 | [407288-captain-tsubasa-ii-world-fighters-dlc-character-pack-1.json](./407288-captain-tsubasa-ii-world-fighters-dlc-character-pack-1.json) |
 | Captain Tsubasa II: World Fighters - DLC Character Pack 2 | 407289 | [407289-captain-tsubasa-ii-world-fighters-dlc-character-pack-2.json](./407289-captain-tsubasa-ii-world-fighters-dlc-character-pack-2.json) |
 | Captain Tsubasa II: World Fighters - DLC Character Pack 3 | 407290 | [407290-captain-tsubasa-ii-world-fighters-dlc-character-pack-3.json](./407290-captain-tsubasa-ii-world-fighters-dlc-character-pack-3.json) |
+| Captain Tsubasa II: World Fighters - Save Data Bonus Pack | 409940 | [409940-captain-tsubasa-ii-world-fighters-save-data-bonus-pack.json](./409940-captain-tsubasa-ii-world-fighters-save-data-bonus-pack.json) |
+| Captain Tsubasa II: World Fighters - Season Pass Bonus | 409941 | [409941-captain-tsubasa-ii-world-fighters-season-pass-bonus.json](./409941-captain-tsubasa-ii-world-fighters-season-pass-bonus.json) |
 | Captain Tsubasa II: World Fighters - Ultimate Edition | 409961 | [409961-captain-tsubasa-ii-world-fighters-ultimate-edition.json](./409961-captain-tsubasa-ii-world-fighters-ultimate-edition.json) |
+| Captain Tsubasa II: World Fighters - Ultimate Pack | 409942 | [409942-captain-tsubasa-ii-world-fighters-ultimate-pack.json](./409942-captain-tsubasa-ii-world-fighters-ultimate-pack.json) |
 | Captain Tsubasa III: Koutei no Chousen | 38340 | [38340-captain-tsubasa-iii-koutei-no-chousen.json](./38340-captain-tsubasa-iii-koutei-no-chousen.json) |
 | Captain Tsubasa IV: Pro no Rival-tachi | 38184 | [38184-captain-tsubasa-iv-pro-no-rival-tachi.json](./38184-captain-tsubasa-iv-pro-no-rival-tachi.json) |
 | Captain Tsubasa J: Get in the Tomorrow | 45320 | [45320-captain-tsubasa-j-get-in-the-tomorrow.json](./45320-captain-tsubasa-j-get-in-the-tomorrow.json) |
@@ -4363,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat on a Diet | 33408 | [33408-cat-on-a-diet.json](./33408-cat-on-a-diet.json) |
 | Cat or Bread? | 29975 | [29975-cat-or-bread.json](./29975-cat-or-bread.json) |
 | Cat or Ice Cream? | 183543 | [183543-cat-or-ice-cream.json](./183543-cat-or-ice-cream.json) |
+| Cat Pack | 409900 | [409900-cat-pack.json](./409900-cat-pack.json) |
 | Cat Packs | 152690 | [152690-cat-packs.json](./152690-cat-packs.json) |
 | Cat Palette: Merging Colorful Kittens | 277755 | [277755-cat-palette-merging-colorful-kittens.json](./277755-cat-palette-merging-colorful-kittens.json) |
 | Cat Parents | 395178 | [395178-cat-parents.json](./395178-cat-parents.json) |
@@ -18910,6 +18914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Snake | 311957 | [311957-cross-snake.json](./311957-cross-snake.json) |
 | Cross Soul | 132453 | [132453-cross-soul.json](./132453-cross-soul.json) |
 | Cross Stitch Casper | 166893 | [166893-cross-stitch-casper.json](./166893-cross-stitch-casper.json) |
+| Cross Strike | 409912 | [409912-cross-strike.json](./409912-cross-strike.json) |
 | Cross Tails | 252437 | [252437-cross-tails.json](./252437-cross-tails.json) |
 | Cross Tantei Monogatari: Motsureta Nanatsu no Labyrinth | 122982 | [122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json](./122982-cross-tantei-monogatari-motsureta-nanatsu-no-labyrinth.json) |
 | Cross the Ages: Trading Card Game | 217807 | [217807-cross-the-ages-trading-card-game.json](./217807-cross-the-ages-trading-card-game.json) |
