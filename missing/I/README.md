@@ -3205,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven SD | 125201 | [125201-inazuma-eleven-sd.json](./125201-inazuma-eleven-sd.json) |
 | Inazuma Eleven Souls 3 | 383014 | [383014-inazuma-eleven-souls-3.json](./383014-inazuma-eleven-souls-3.json) |
 | Inazuma Eleven Strikers | 4930 | [4930-inazuma-eleven-strikers.json](./4930-inazuma-eleven-strikers.json) |
+| Inazuma Eleven Strikers 2012 Xtreme | 4931 | [4931-inazuma-eleven-strikers-2012-xtreme.json](./4931-inazuma-eleven-strikers-2012-xtreme.json) |
 | Inazuma Eleven: Balance of Ares | 90507 | [90507-inazuma-eleven-balance-of-ares.json](./90507-inazuma-eleven-balance-of-ares.json) |
 | Inazuma Eleven: Bold Revolution | 417336 | [417336-inazuma-eleven-bold-revolution.json](./417336-inazuma-eleven-bold-revolution.json) |
 | Inazuma Eleven: Cross | 397928 | [397928-inazuma-eleven-cross.json](./397928-inazuma-eleven-cross.json) |
@@ -4039,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5222,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Superstar Soccer | 131795 | [131795-international-superstar-soccer.json](./131795-international-superstar-soccer.json) |
 | International Superstar Soccer | 9861 | [9861-international-superstar-soccer.json](./9861-international-superstar-soccer.json) |
 | International Superstar Soccer '98 | 3514 | [3514-international-superstar-soccer-98.json](./3514-international-superstar-soccer-98.json) |
+| International Superstar Soccer 2 | 3957 | [3957-international-superstar-soccer-2.json](./3957-international-superstar-soccer-2.json) |
 | International Superstar Soccer 2000 | 220857 | [220857-international-superstar-soccer-2000.json](./220857-international-superstar-soccer-2000.json) |
 | International Superstar Soccer 2000 | 3515 | [3515-international-superstar-soccer-2000.json](./3515-international-superstar-soccer-2000.json) |
 | International Superstar Soccer 3 | 3958 | [3958-international-superstar-soccer-3.json](./3958-international-superstar-soccer-3.json) |
