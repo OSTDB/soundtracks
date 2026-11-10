@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari: Evolution | 97162 | [97162-safari-evolution.json](./97162-safari-evolution.json) |
 | Safari: I-Evolution | 239635 | [239635-safari-i-evolution.json](./239635-safari-i-evolution.json) |
 | Safe | 371850 | [371850-safe.json](./371850-safe.json) |
+| Safe at Home | 403242 | [403242-safe-at-home.json](./403242-safe-at-home.json) |
 | Safe Climbing | 127831 | [127831-safe-climbing.json](./127831-safe-climbing.json) |
 | Safe Cracker | 179084 | [179084-safe-cracker.json](./179084-safe-cracker.json) |
 | Safe Cracker | 340547 | [340547-safe-cracker.json](./340547-safe-cracker.json) |
@@ -8308,6 +8309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shell's Kitchen: Leo's Journey | 308377 | [308377-shells-kitchen-leos-journey.json](./308377-shells-kitchen-leos-journey.json) |
 | Shell's Kitchen: Nico's Journey | 308378 | [308378-shells-kitchen-nicos-journey.json](./308378-shells-kitchen-nicos-journey.json) |
 | Shell's Retriever | 268352 | [268352-shells-retriever.json](./268352-shells-retriever.json) |
+| Shellab | 403264 | [403264-shellab.json](./403264-shellab.json) |
 | Shellax | 328266 | [328266-shellax.json](./328266-shellax.json) |
 | ShellBlast | 54391 | [54391-shellblast.json](./54391-shellblast.json) |
 | Shellborne | 361597 | [361597-shellborne.json](./361597-shellborne.json) |
@@ -14726,6 +14728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sloptoberfest | 423070 | [423070-sloptoberfest.json](./423070-sloptoberfest.json) |
 | Slordax: The Unknown Enemy | 73244 | [73244-slordax-the-unknown-enemy.json](./73244-slordax-the-unknown-enemy.json) |
 | Slorpus Slaughter VII: Singular Shoot Soul | 391245 | [391245-slorpus-slaughter-vii-singular-shoot-soul.json](./391245-slorpus-slaughter-vii-singular-shoot-soul.json) |
+| Slot | 403279 | [403279-slot.json](./403279-slot.json) |
 | Slot & Dungeons | 333408 | [333408-slot-and-dungeons.json](./333408-slot-and-dungeons.json) |
 | Slot & Learn Country Names in Kanji | 308496 | [308496-slot-and-learn-country-names-in-kanji.json](./308496-slot-and-learn-country-names-in-kanji.json) |
 | Slot & Learn Hangul | 409555 | [409555-slot-and-learn-hangul.json](./409555-slot-and-learn-hangul.json) |
@@ -17882,6 +17885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Left | 369224 | [369224-something-left.json](./369224-something-left.json) |
 | Something Meaningful | 381613 | [381613-something-meaningful.json](./381613-something-meaningful.json) |
 | Something Nefarious Below | 231451 | [231451-something-nefarious-below.json](./231451-something-nefarious-below.json) |
+| Something Rush | 403245 | [403245-something-rush.json](./403245-something-rush.json) |
 | Something Something Soup Something | 77540 | [77540-something-something-soup-something.json](./77540-something-something-soup-something.json) |
 | Something Something Spaceship | 285847 | [285847-something-something-spaceship.json](./285847-something-something-spaceship.json) |
 | Something Special: Zoe's American Adventure | 208871 | [208871-something-special-zoes-american-adventure.json](./208871-something-special-zoes-american-adventure.json) |
@@ -23684,6 +23688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sponge Art | 223910 | [223910-sponge-art.json](./223910-sponge-art.json) |
 | Sponge Bridges | 423887 | [423887-sponge-bridges.json](./423887-sponge-bridges.json) |
 | Sponge Hospital. Five Nights at Bob 3D | 99362 | [99362-sponge-hospital-five-nights-at-bob-3d.json](./99362-sponge-hospital-five-nights-at-bob-3d.json) |
+| Sponge or Lime | 403295 | [403295-sponge-or-lime.json](./403295-sponge-or-lime.json) |
 | Sponge Pop | 243824 | [243824-sponge-pop.json](./243824-sponge-pop.json) |
 | Spongebob & Patrick: Dirty Bubble Busters | 338942 | [338942-spongebob-and-patrick-dirty-bubble-busters.json](./338942-spongebob-and-patrick-dirty-bubble-busters.json) |
 | SpongeBob Adventures: In A Jam | 300331 | [300331-spongebob-adventures-in-a-jam.json](./300331-spongebob-adventures-in-a-jam.json) |
@@ -27552,6 +27557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Tower 2 | 95113 | [95113-steampunk-tower-2.json](./95113-steampunk-tower-2.json) |
 | Steampunk Voyage | 270467 | [270467-steampunk-voyage.json](./270467-steampunk-voyage.json) |
 | Steampunker | 57781 | [57781-steampunker.json](./57781-steampunker.json) |
+| Steampunks vs. Skeletons: Adventure Puzzle Park | 403249 | [403249-steampunks-vs-skeletons-adventure-puzzle-park.json](./403249-steampunks-vs-skeletons-adventure-puzzle-park.json) |
 | Steamroll | 20361 | [20361-steamroll.json](./20361-steamroll.json) |
 | Steamroll: Rustless Edition | 147623 | [147623-steamroll-rustless-edition.json](./147623-steamroll-rustless-edition.json) |
 | Steamroller | 40911 | [40911-steamroller.json](./40911-steamroller.json) |
@@ -31914,6 +31920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sungka | 369459 | [369459-sungka.json](./369459-sungka.json) |
 | Sunken | 19347 | [19347-sunken.json](./19347-sunken.json) |
 | Sunken Brawl | 75147 | [75147-sunken-brawl.json](./75147-sunken-brawl.json) |
+| Sunken Cathedral | 403267 | [403267-sunken-cathedral.json](./403267-sunken-cathedral.json) |
 | Sunken Century | 188318 | [188318-sunken-century.json](./188318-sunken-century.json) |
 | Sunken Citadel | 137306 | [137306-sunken-citadel.json](./137306-sunken-citadel.json) |
 | Sunken Dragon | 356352 | [356352-sunken-dragon.json](./356352-sunken-dragon.json) |
