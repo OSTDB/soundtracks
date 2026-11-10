@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Steel | 149179 | [149179-savage-steel.json](./149179-savage-steel.json) |
 | Savage Tower Defense | 158715 | [158715-savage-tower-defense.json](./158715-savage-tower-defense.json) |
 | Savage Turret | 248074 | [248074-savage-turret.json](./248074-savage-turret.json) |
+| Savage Vessels | 108012 | [108012-savage-vessels.json](./108012-savage-vessels.json) |
 | Savage Warriors | 46929 | [46929-savage-warriors.json](./46929-savage-warriors.json) |
 | Savage Worlds | 58078 | [58078-savage-worlds.json](./58078-savage-worlds.json) |
 | Savage: Resurrection | 19277 | [19277-savage-resurrection.json](./19277-savage-resurrection.json) |
@@ -5904,6 +5905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinels Inc. | 279255 | [279255-sentinels-inc.json](./279255-sentinels-inc.json) |
 | Sentinels of Earth-Prime | 244019 | [244019-sentinels-of-earth-prime.json](./244019-sentinels-of-earth-prime.json) |
 | Sentinels of Earth-Prime: Magical Mysteries Mini-Pack | 273672 | [273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json](./273672-sentinels-of-earth-prime-magical-mysteries-mini-pack.json) |
+| Sentinels of Freedom | 109049 | [109049-sentinels-of-freedom.json](./109049-sentinels-of-freedom.json) |
 | Sentinels of the Multiverse: Infernal Relics | 170411 | [170411-sentinels-of-the-multiverse-infernal-relics.json](./170411-sentinels-of-the-multiverse-infernal-relics.json) |
 | Sentinels of the Multiverse: Mini-Pack 1 | 170410 | [170410-sentinels-of-the-multiverse-mini-pack-1.json](./170410-sentinels-of-the-multiverse-mini-pack-1.json) |
 | Sentinels of the Multiverse: Mini-Pack 5 - Void Guard | 170413 | [170413-sentinels-of-the-multiverse-mini-pack-5-void-guard.json](./170413-sentinels-of-the-multiverse-mini-pack-5-void-guard.json) |
@@ -6769,6 +6771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Invaders | 41355 | [41355-sexy-invaders.json](./41355-sexy-invaders.json) |
 | Sexy Iron Maidens | 279083 | [279083-sexy-iron-maidens.json](./279083-sexy-iron-maidens.json) |
 | Sexy Island Adventure | 302639 | [302639-sexy-island-adventure.json](./302639-sexy-island-adventure.json) |
+| Sexy Jigsaw | 108393 | [108393-sexy-jigsaw.json](./108393-sexy-jigsaw.json) |
 | Sexy Katana | 379546 | [379546-sexy-katana.json](./379546-sexy-katana.json) |
 | Sexy Ladies | 264633 | [264633-sexy-ladies.json](./264633-sexy-ladies.json) |
 | Sexy Match | 382281 | [382281-sexy-match.json](./382281-sexy-match.json) |
@@ -24659,6 +24662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sr. Empatia | 188174 | [188174-sr-empatia.json](./188174-sr-empatia.json) |
 | Sram | 131904 | [131904-sram.json](./131904-sram.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
+| SRC: Sprint Robot Championship | 108315 | [108315-src-sprint-robot-championship.json](./108315-src-sprint-robot-championship.json) |
 | SRG Mixtape Volume #1 | 209948 | [209948-srg-mixtape-volume-1.json](./209948-srg-mixtape-volume-1.json) |
 | SRG Mixtape Volume #2 | 194977 | [194977-srg-mixtape-volume-2.json](./194977-srg-mixtape-volume-2.json) |
 | SRG Mixtape Volume #3 | 222800 | [222800-srg-mixtape-volume-3.json](./222800-srg-mixtape-volume-3.json) |
@@ -26253,6 +26257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter Renegade | 149226 | [149226-starfighter-renegade.json](./149226-starfighter-renegade.json) |
 | Starfighter: Disputed Galaxy | 331174 | [331174-starfighter-disputed-galaxy.json](./331174-starfighter-disputed-galaxy.json) |
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
+| Starfighter: Infinity | 108170 | [108170-starfighter-infinity.json](./108170-starfighter-infinity.json) |
 | Starfinder: Afterlight | 358807 | [358807-starfinder-afterlight.json](./358807-starfinder-afterlight.json) |
 | Starfire | 246196 | [246196-starfire.json](./246196-starfire.json) |
 | Starfire | 95496 | [95496-starfire.json](./95496-starfire.json) |
@@ -30458,6 +30463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submerged Mystery: Takodachi | 327399 | [327399-submerged-mystery-takodachi.json](./327399-submerged-mystery-takodachi.json) |
 | Submerged: LaSol | 171784 | [171784-submerged-lasol.json](./171784-submerged-lasol.json) |
 | Submerged: Miku and the Sunken City | 91219 | [91219-submerged-miku-and-the-sunken-city.json](./91219-submerged-miku-and-the-sunken-city.json) |
+| Submerged: VR Escape the Room | 108074 | [108074-submerged-vr-escape-the-room.json](./108074-submerged-vr-escape-the-room.json) |
 | Submergent | 309318 | [309318-submergent.json](./309318-submergent.json) |
 | Submeris | 341931 | [341931-submeris.json](./341931-submeris.json) |
 | Submersa | 386144 | [386144-submersa.json](./386144-submersa.json) |
