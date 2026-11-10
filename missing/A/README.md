@@ -11349,6 +11349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anonymous Hunting Simulator | 274537 | [274537-anonymous-hunting-simulator.json](./274537-anonymous-hunting-simulator.json) |
 | Anonymous ME | 68670 | [68670-anonymous-me.json](./68670-anonymous-me.json) |
 | Anonymous Messages | 262649 | [262649-anonymous-messages.json](./262649-anonymous-messages.json) |
+| Anonymous Notes: Chapter 1 - From the Abyss | 84745 | [84745-anonymous-notes-chapter-1-from-the-abyss.json](./84745-anonymous-notes-chapter-1-from-the-abyss.json) |
 | Anonymous Notes: Chapter 2 - From the Abyss | 84746 | [84746-anonymous-notes-chapter-2-from-the-abyss.json](./84746-anonymous-notes-chapter-2-from-the-abyss.json) |
 | Anonymous Notes: Chapter 3 - From the Abyss | 84747 | [84747-anonymous-notes-chapter-3-from-the-abyss.json](./84747-anonymous-notes-chapter-3-from-the-abyss.json) |
 | Anonymous Player | 126878 | [126878-anonymous-player.json](./126878-anonymous-player.json) |
@@ -14761,6 +14762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armies of Riddle E.X. (Extreme) | 126440 | [126440-armies-of-riddle-e-x-extreme.json](./126440-armies-of-riddle-e-x-extreme.json) |
 | Armikrog | 11093 | [11093-armikrog.json](./11093-armikrog.json) |
 | Armikrog: Deluxe Edition | 51711 | [51711-armikrog-deluxe-edition.json](./51711-armikrog-deluxe-edition.json) |
+| Armillo | 84977 | [84977-armillo.json](./84977-armillo.json) |
 | Armis | 186039 | [186039-armis.json](./186039-armis.json) |
 | Armita's Search | 388506 | [388506-armitas-search.json](./388506-armitas-search.json) |
 | Armless Samurai | 296454 | [296454-armless-samurai.json](./296454-armless-samurai.json) |
@@ -15248,6 +15250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Strip Poker | 96021 | [96021-art-strip-poker.json](./96021-art-strip-poker.json) |
 | Art Studio Simulator | 407346 | [407346-art-studio-simulator.json](./407346-art-studio-simulator.json) |
 | Art Style: Aquia | 22537 | [22537-art-style-aquia.json](./22537-art-style-aquia.json) |
+| Art Style: Base 10 | 84764 | [84764-art-style-base-10.json](./84764-art-style-base-10.json) |
 | Art Style: Boxlife | 47826 | [47826-art-style-boxlife.json](./47826-art-style-boxlife.json) |
 | Art Style: Cubello | 21135 | [21135-art-style-cubello.json](./21135-art-style-cubello.json) |
 | Art Style: Digidrive | 29045 | [29045-art-style-digidrive.json](./29045-art-style-digidrive.json) |
@@ -17572,7 +17575,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
