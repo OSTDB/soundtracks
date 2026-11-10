@@ -14087,6 +14087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magical Quest of Molly the Marble | 403802 | [403802-the-magical-quest-of-molly-the-marble.json](./403802-the-magical-quest-of-molly-the-marble.json) |
 | The Magical Quest Starring Mickey Mouse | 6379 | [6379-the-magical-quest-starring-mickey-mouse.json](./6379-the-magical-quest-starring-mickey-mouse.json) |
 | The Magical Realms of Tír na Nóg: Escape from Necron 7 - Revenge of Cuchulainn: The Official Game of the Movie – Chapter 2 of the Hoopz Barkley SaGa | 98853 | [98853-the-magical-realms-of-tir-na-nog-escape-from-necron-7-revenge-of-cuchulainn-the-official-game-of-the-movie-chapter-2-of-the-hoopz-barkley-saga.json](./98853-the-magical-realms-of-tir-na-nog-escape-from-necron-7-revenge-of-cuchulainn-the-official-game-of-the-movie-chapter-2-of-the-hoopz-barkley-saga.json) |
+| The Magical Silence | 32603 | [32603-the-magical-silence.json](./32603-the-magical-silence.json) |
 | The Magical Unicorn | 145611 | [145611-the-magical-unicorn.json](./145611-the-magical-unicorn.json) |
 | The Magician Of Justice | 289986 | [289986-the-magician-of-justice.json](./289986-the-magician-of-justice.json) |
 | The Magician VR: The Cursed Wand | 406169 | [406169-the-magician-vr-the-cursed-wand.json](./406169-the-magician-vr-the-cursed-wand.json) |
@@ -14114,6 +14115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magpie Takes the Train | 216336 | [216336-the-magpie-takes-the-train.json](./216336-the-magpie-takes-the-train.json) |
 | The Magus Circle | 295074 | [295074-the-magus-circle.json](./295074-the-magus-circle.json) |
 | The Mahjong | 84459 | [84459-the-mahjong.json](./84459-the-mahjong.json) |
+| The Mahjong Huntress | 32608 | [32608-the-mahjong-huntress.json](./32608-the-mahjong-huntress.json) |
 | The Mahjong III | 385755 | [385755-the-mahjong-iii.json](./385755-the-mahjong-iii.json) |
 | The Mahjong Touhai-den | 37935 | [37935-the-mahjong-touhai-den.json](./37935-the-mahjong-touhai-den.json) |
 | The Mahjong: Tsuushin Taikyoku Kinoudzuke | 43046 | [43046-the-mahjong-tsuushin-taikyoku-kinoudzuke.json](./43046-the-mahjong-tsuushin-taikyoku-kinoudzuke.json) |
@@ -14829,6 +14831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neptunian Gaussian Auctions | 409827 | [409827-the-neptunian-gaussian-auctions.json](./409827-the-neptunian-gaussian-auctions.json) |
 | The Neroe | 199492 | [199492-the-neroe.json](./199492-the-neroe.json) |
 | The Nerve Game | 180256 | [180256-the-nerve-game.json](./180256-the-nerve-game.json) |
+| The Nest | 32593 | [32593-the-nest.json](./32593-the-nest.json) |
 | The Netcode Conflict | 301060 | [301060-the-netcode-conflict.json](./301060-the-netcode-conflict.json) |
 | The Netherworld | 327051 | [327051-the-netherworld.json](./327051-the-netherworld.json) |
 | The NetherWorld | 271766 | [271766-the-netherworld.json](./271766-the-netherworld.json) |
@@ -23908,6 +23911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Hunters: Curse of the Golden Idol | 277373 | [277373-time-hunters-curse-of-the-golden-idol.json](./277373-time-hunters-curse-of-the-golden-idol.json) |
 | Time Idle RPG | 189366 | [189366-time-idle-rpg.json](./189366-time-idle-rpg.json) |
 | Time in Place | 310819 | [310819-time-in-place.json](./310819-time-in-place.json) |
+| Time in Time | 32604 | [32604-time-in-time.json](./32604-time-in-time.json) |
 | Time Is An Island | 58710 | [58710-time-is-an-island.json](./58710-time-is-an-island.json) |
 | Time Is Honey | 285968 | [285968-time-is-honey.json](./285968-time-is-honey.json) |
 | Time is Life | 306345 | [306345-time-is-life.json](./306345-time-is-life.json) |
@@ -24932,6 +24936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titans Black Ops | 165596 | [165596-titans-black-ops.json](./165596-titans-black-ops.json) |
 | Titans Clinic | 329062 | [329062-titans-clinic.json](./329062-titans-clinic.json) |
 | Titans Clinic VR | 252105 | [252105-titans-clinic-vr.json](./252105-titans-clinic-vr.json) |
+| Titans of Space Plus | 32676 | [32676-titans-of-space-plus.json](./32676-titans-of-space-plus.json) |
 | Titans of Steel: Warring Suns | 69841 | [69841-titans-of-steel-warring-suns.json](./69841-titans-of-steel-warring-suns.json) |
 | Titans of the Past | 340565 | [340565-titans-of-the-past.json](./340565-titans-of-the-past.json) |
 | Titans Pinball | 124093 | [124093-titans-pinball.json](./124093-titans-pinball.json) |
