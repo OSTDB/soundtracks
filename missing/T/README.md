@@ -9609,6 +9609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Facility | 34646 | [34646-the-facility.json](./34646-the-facility.json) |
 | The Facility | 422081 | [422081-the-facility.json](./422081-the-facility.json) |
 | The Facility Project | 172942 | [172942-the-facility-project.json](./172942-the-facility-project.json) |
+| The Factory in the Shadows | 423067 | [423067-the-factory-in-the-shadows.json](./423067-the-factory-in-the-shadows.json) |
 | The Factory Must Fall | 394065 | [394065-the-factory-must-fall.json](./394065-the-factory-must-fall.json) |
 | The Factory Must Grow | 317295 | [317295-the-factory-must-grow.json](./317295-the-factory-must-grow.json) |
 | The Factory Must Survive | 105207 | [105207-the-factory-must-survive.json](./105207-the-factory-must-survive.json) |
@@ -12139,6 +12140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King & I: Coming Out of Your Shell | 141824 | [141824-the-king-and-i-coming-out-of-your-shell.json](./141824-the-king-and-i-coming-out-of-your-shell.json) |
 | The King and the Crown | 59684 | [59684-the-king-and-the-crown.json](./59684-the-king-and-the-crown.json) |
 | The King Cat Clicker | 312724 | [312724-the-king-cat-clicker.json](./312724-the-king-cat-clicker.json) |
+| The King Got Too Much Gold | 423085 | [423085-the-king-got-too-much-gold.json](./423085-the-king-got-too-much-gold.json) |
 | The King in the Shades | 259852 | [259852-the-king-in-the-shades.json](./259852-the-king-in-the-shades.json) |
 | The King is Dead | 310792 | [310792-the-king-is-dead.json](./310792-the-king-is-dead.json) |
 | The king is gone | 141715 | [141715-the-king-is-gone.json](./141715-the-king-is-gone.json) |
