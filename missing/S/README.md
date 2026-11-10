@@ -2312,6 +2312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday Night Slam Masters | 4504 | [4504-saturday-night-slam-masters.json](./4504-saturday-night-slam-masters.json) |
 | Saturday Night Speedway | 43648 | [43648-saturday-night-speedway.json](./43648-saturday-night-speedway.json) |
 | Saturday of Piercing Screams | 121317 | [121317-saturday-of-piercing-screams.json](./121317-saturday-of-piercing-screams.json) |
+| Saturday Sábado | 398922 | [398922-saturday-sabado.json](./398922-saturday-sabado.json) |
 | Saturday School | 171557 | [171557-saturday-school.json](./171557-saturday-school.json) |
 | Saturday: Arthur's Odyssey | 165496 | [165496-saturday-arthurs-odyssey.json](./165496-saturday-arthurs-odyssey.json) |
 | Saturdays | 145328 | [145328-saturdays.json](./145328-saturdays.json) |
@@ -7762,6 +7763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Escape | 90362 | [90362-shape-escape.json](./90362-shape-escape.json) |
 | Shape Fold Animals | 101926 | [101926-shape-fold-animals.json](./101926-shape-fold-animals.json) |
 | Shape Garden | 240834 | [240834-shape-garden.json](./240834-shape-garden.json) |
+| Shape Guy | 398730 | [398730-shape-guy.json](./398730-shape-guy.json) |
 | Shape Hunter | 267138 | [267138-shape-hunter.json](./267138-shape-hunter.json) |
 | Shape Invasion | 317445 | [317445-shape-invasion.json](./317445-shape-invasion.json) |
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
@@ -8053,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Earth | 315109 | [315109-shattered-earth.json](./315109-shattered-earth.json) |
 | Shattered Echoes | 278512 | [278512-shattered-echoes.json](./278512-shattered-echoes.json) |
 | Shattered Fate | 307270 | [307270-shattered-fate.json](./307270-shattered-fate.json) |
+| Shattered Frames | 398708 | [398708-shattered-frames.json](./398708-shattered-frames.json) |
 | Shattered Frames 2: Under the Sea | 409288 | [409288-shattered-frames-2-under-the-sea.json](./409288-shattered-frames-2-under-the-sea.json) |
 | Shattered Frames 3: Skies Above | 409289 | [409289-shattered-frames-3-skies-above.json](./409289-shattered-frames-3-skies-above.json) |
 | Shattered Frames 4: Micro Worlds | 401442 | [401442-shattered-frames-4-micro-worlds.json](./401442-shattered-frames-4-micro-worlds.json) |
@@ -16941,6 +16944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Socrates Chess 3 | 151916 | [151916-socrates-chess-3.json](./151916-socrates-chess-3.json) |
 | Socrates Jones: Pro Philosopher | 122894 | [122894-socrates-jones-pro-philosopher.json](./122894-socrates-jones-pro-philosopher.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
+| Socturnal | 398939 | [398939-socturnal.json](./398939-socturnal.json) |
 | Socxel | 180049 | [180049-socxel.json](./180049-socxel.json) |
 | Socxel \| Pixel Soccer | 29628 | [29628-socxel-pixel-soccer.json](./29628-socxel-pixel-soccer.json) |
 | Sod | 180238 | [180238-sod.json](./180238-sod.json) |
@@ -25533,6 +25537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Light Dynamics | 313961 | [313961-star-light-dynamics.json](./313961-star-light-dynamics.json) |
 | Star Loot | 348259 | [348259-star-loot.json](./348259-star-loot.json) |
 | Star Lover | 303280 | [303280-star-lover.json](./303280-star-lover.json) |
+| Star Luster | 398943 | [398943-star-luster.json](./398943-star-luster.json) |
 | Star Luster | 40541 | [40541-star-luster.json](./40541-star-luster.json) |
 | Star Made | 50812 | [50812-star-made.json](./50812-star-made.json) |
 | Star Maidens Chronicle: Definitive Edition | 169368 | [169368-star-maidens-chronicle-definitive-edition.json](./169368-star-maidens-chronicle-definitive-edition.json) |
@@ -29231,6 +29236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranger Heroes | 361426 | [361426-stranger-heroes.json](./361426-stranger-heroes.json) |
 | Stranger in Utopia | 273871 | [273871-stranger-in-utopia.json](./273871-stranger-in-utopia.json) |
 | Stranger Mahjong | 390892 | [390892-stranger-mahjong.json](./390892-stranger-mahjong.json) |
+| Stranger Maidens Please Protect Me! | 398920 | [398920-stranger-maidens-please-protect-me.json](./398920-stranger-maidens-please-protect-me.json) |
 | Stranger of Paradise: Final Fantasy Origin - Collector's Edition | 201028 | [201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json](./201028-stranger-of-paradise-final-fantasy-origin-collectors-edition.json) |
 | Stranger of Paradise: Final Fantasy Origin - Different Future | 227675 | [227675-stranger-of-paradise-final-fantasy-origin-different-future.json](./227675-stranger-of-paradise-final-fantasy-origin-different-future.json) |
 | Stranger of Paradise: Final Fantasy Origin - Digital Deluxe Edition | 173775 | [173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json](./173775-stranger-of-paradise-final-fantasy-origin-digital-deluxe-edition.json) |
