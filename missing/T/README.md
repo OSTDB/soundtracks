@@ -24548,6 +24548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Metal: Full Metal Rumble - Caesar's Rescue | 238261 | [238261-tiny-metal-full-metal-rumble-caesars-rescue.json](./238261-tiny-metal-full-metal-rumble-caesars-rescue.json) |
 | Tiny Metal: Full Metal Rumble - Caeser's Rescue | 172126 | [172126-tiny-metal-full-metal-rumble-caesers-rescue.json](./172126-tiny-metal-full-metal-rumble-caesers-rescue.json) |
 | Tiny Metal: Will of the Shogun | 165045 | [165045-tiny-metal-will-of-the-shogun.json](./165045-tiny-metal-will-of-the-shogun.json) |
+| Tiny Miner | 89031 | [89031-tiny-miner.json](./89031-tiny-miner.json) |
 | Tiny Mite | 412319 | [412319-tiny-mite.json](./412319-tiny-mite.json) |
 | Tiny Monster Haven | 348819 | [348819-tiny-monster-haven.json](./348819-tiny-monster-haven.json) |
 | Tiny Monsters | 368269 | [368269-tiny-monsters.json](./368269-tiny-monsters.json) |
@@ -29736,6 +29737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Plus: Keihan Denki Tetsudou | 92244 | [92244-train-simulator-plus-keihan-denki-tetsudou.json](./92244-train-simulator-plus-keihan-denki-tetsudou.json) |
 | Train Simulator Plus: Kyoto-shiei Chikatetsu Karasuma-sen & Kinki-nippon Tetsudou Kyoto-sen | 92248 | [92248-train-simulator-plus-kyoto-shiei-chikatetsu-karasuma-sen-and-kinki-nippon-tetsudou-kyoto-sen.json](./92248-train-simulator-plus-kyoto-shiei-chikatetsu-karasuma-sen-and-kinki-nippon-tetsudou-kyoto-sen.json) |
 | Train Simulator Plus: Odakyu Dentetsu Odawara-sen 2 | 92246 | [92246-train-simulator-plus-odakyu-dentetsu-odawara-sen-2.json](./92246-train-simulator-plus-odakyu-dentetsu-odawara-sen-2.json) |
+| Train Simulator Pro 2018 | 89100 | [89100-train-simulator-pro-2018.json](./89100-train-simulator-pro-2018.json) |
 | Train Simulator PRO USA | 232256 | [232256-train-simulator-pro-usa.json](./232256-train-simulator-pro-usa.json) |
 | Train Simulator Real: The Keihin Kyuukou | 79179 | [79179-train-simulator-real-the-keihin-kyuukou.json](./79179-train-simulator-real-the-keihin-kyuukou.json) |
 | Train Simulator VR | 74679 | [74679-train-simulator-vr.json](./74679-train-simulator-vr.json) |
@@ -32639,6 +32641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Fantasy | 370767 | [370767-trivia-fantasy.json](./370767-trivia-fantasy.json) |
 | Trivia for Dummies | 187456 | [187456-trivia-for-dummies.json](./187456-trivia-for-dummies.json) |
 | Trivia Genius | 358215 | [358215-trivia-genius.json](./358215-trivia-genius.json) |
+| Trivia King | 89040 | [89040-trivia-king.json](./89040-trivia-king.json) |
 | Trivia Machine | 53956 | [53956-trivia-machine.json](./53956-trivia-machine.json) |
 | Trivia Machine Reloaded | 416179 | [416179-trivia-machine-reloaded.json](./416179-trivia-machine-reloaded.json) |
 | Trivia Munchers Deluxe | 113908 | [113908-trivia-munchers-deluxe.json](./113908-trivia-munchers-deluxe.json) |
