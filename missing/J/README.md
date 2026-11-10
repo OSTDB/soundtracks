@@ -553,6 +553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Pond 2: Codename - RoboCod | 230868 | [230868-james-pond-2-codename-robocod.json](./230868-james-pond-2-codename-robocod.json) |
 | James Pond 2: Codename - RoboCod | 4443 | [4443-james-pond-2-codename-robocod.json](./4443-james-pond-2-codename-robocod.json) |
 | James Pond 3: Operation Starfish | 368902 | [368902-james-pond-3-operation-starfish.json](./368902-james-pond-3-operation-starfish.json) |
+| James Pond 3: Operation Starfish | 5926 | [5926-james-pond-3-operation-starfish.json](./5926-james-pond-3-operation-starfish.json) |
 | James Pond in the Deathly Shallows | 65874 | [65874-james-pond-in-the-deathly-shallows.json](./65874-james-pond-in-the-deathly-shallows.json) |
 | James Pond: Codename Robocod | 197941 | [197941-james-pond-codename-robocod.json](./197941-james-pond-codename-robocod.json) |
 | James Town Courier Frog MD | 127820 | [127820-james-town-courier-frog-md.json](./127820-james-town-courier-frog-md.json) |
