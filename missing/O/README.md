@@ -4677,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osomatsu-san: NEET Dasshutsu Spiral!! | 56253 | [56253-osomatsu-san-neet-dasshutsu-spiral.json](./56253-osomatsu-san-neet-dasshutsu-spiral.json) |
 | Osouji Sentai Clean Keeper | 91785 | [91785-osouji-sentai-clean-keeper.json](./91785-osouji-sentai-clean-keeper.json) |
 | Osouji Sentai Clean Keeper H | 91784 | [91784-osouji-sentai-clean-keeper-h.json](./91784-osouji-sentai-clean-keeper-h.json) |
+| Osozaki: Late Blooming - First | 32661 | [32661-osozaki-late-blooming-first.json](./32661-osozaki-late-blooming-first.json) |
 | OSP Entertainment Complete Archive | 63792 | [63792-osp-entertainment-complete-archive.json](./63792-osp-entertainment-complete-archive.json) |
 | Ospesjel | 297415 | [297415-ospesjel.json](./297415-ospesjel.json) |
 | OSR Unhinged | 91946 | [91946-osr-unhinged.json](./91946-osr-unhinged.json) |
