@@ -997,7 +997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2420,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbar Bar | 36828 | [36828-barbar-bar.json](./36828-barbar-bar.json) |
 | Barbara vs. Zombies | 232232 | [232232-barbara-vs-zombies.json](./232232-barbara-vs-zombies.json) |
 | Barbara-ian | 35006 | [35006-barbara-ian.json](./35006-barbara-ian.json) |
+| Barbarian | 11941 | [11941-barbarian.json](./11941-barbarian.json) |
 | Barbarian | 206238 | [206238-barbarian.json](./206238-barbarian.json) |
 | Barbarian | 217448 | [217448-barbarian.json](./217448-barbarian.json) |
 | Barbarian | 270239 | [270239-barbarian.json](./270239-barbarian.json) |
