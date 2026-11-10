@@ -4848,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare of the Snow | 150559 | [150559-nightmare-of-the-snow.json](./150559-nightmare-of-the-snow.json) |
 | Nightmare of the Webslinger | 338785 | [338785-nightmare-of-the-webslinger.json](./338785-nightmare-of-the-webslinger.json) |
 | Nightmare of Weakest Creature | 225560 | [225560-nightmare-of-weakest-creature.json](./225560-nightmare-of-weakest-creature.json) |
+| Nightmare on Azathoth | 34130 | [34130-nightmare-on-azathoth.json](./34130-nightmare-on-azathoth.json) |
 | Nightmare on Halloween | 421589 | [421589-nightmare-on-halloween.json](./421589-nightmare-on-halloween.json) |
 | Nightmare On Maple Road | 382589 | [382589-nightmare-on-maple-road.json](./382589-nightmare-on-maple-road.json) |
 | Nightmare on Ra Street | 75217 | [75217-nightmare-on-ra-street.json](./75217-nightmare-on-ra-street.json) |
