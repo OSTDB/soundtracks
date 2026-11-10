@@ -4187,6 +4187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Royal: Battlegrounds Call | 328569 | [328569-battle-royal-battlegrounds-call.json](./328569-battle-royal-battlegrounds-call.json) |
 | Battle Royale | 8938 | [8938-battle-royale.json](./8938-battle-royale.json) |
 | Battle Royale : Survival.io Zombie | 100800 | [100800-battle-royale-survival-io-zombie.json](./100800-battle-royale-survival-io-zombie.json) |
+| Battle Royale Bootcamp | 101313 | [101313-battle-royale-bootcamp.json](./101313-battle-royale-bootcamp.json) |
 | Battle Royale Craft | 156954 | [156954-battle-royale-craft.json](./156954-battle-royale-craft.json) |
 | Battle Royale Manager | 365253 | [365253-battle-royale-manager.json](./365253-battle-royale-manager.json) |
 | Battle Royale Run | 234478 | [234478-battle-royale-run.json](./234478-battle-royale-run.json) |
@@ -16637,6 +16638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broccoli Quest II: The Dark Sacrament | 176874 | [176874-broccoli-quest-ii-the-dark-sacrament.json](./176874-broccoli-quest-ii-the-dark-sacrament.json) |
 | BroChicken | 253806 | [253806-brochicken.json](./253806-brochicken.json) |
 | Brocula | 139651 | [139651-brocula.json](./139651-brocula.json) |
+| Brodefence | 101324 | [101324-brodefence.json](./101324-brodefence.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
 | Broghurt | 345229 | [345229-broghurt.json](./345229-broghurt.json) |
 | Brogue | 12516 | [12516-brogue.json](./12516-brogue.json) |
@@ -18381,6 +18383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker's Shadow | 293113 | [293113-bunkers-shadow.json](./293113-bunkers-shadow.json) |
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
 | Bunkered with Femboy | 388175 | [388175-bunkered-with-femboy.json](./388175-bunkered-with-femboy.json) |
+| BunkerRush | 101297 | [101297-bunkerrush.json](./101297-bunkerrush.json) |
 | BunkerSim | 77794 | [77794-bunkersim.json](./77794-bunkersim.json) |
 | BunkerZ | 373511 | [373511-bunkerz.json](./373511-bunkerz.json) |
 | Bunky | 97759 | [97759-bunky.json](./97759-bunky.json) |
