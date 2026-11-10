@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oharion | 413071 | [413071-oharion.json](./413071-oharion.json) |
 | Ohayo Gianthook!: Monster Fishing Adventure | 422074 | [422074-ohayo-gianthook-monster-fishing-adventure.json](./422074-ohayo-gianthook-monster-fishing-adventure.json) |
 | Ohayou, Somnia. | 395359 | [395359-ohayou-somnia.json](./395359-ohayou-somnia.json) |
+| Ohayou! Beginner's Japanese | 85319 | [85319-ohayou-beginners-japanese.json](./85319-ohayou-beginners-japanese.json) |
 | Ohenro-San | 4051 | [4051-ohenro-san.json](./4051-ohenro-san.json) |
 | Ohenro-San: Hosshin no Dojo | 111996 | [111996-ohenro-san-hosshin-no-dojo.json](./111996-ohenro-san-hosshin-no-dojo.json) |
 | Ohimesama: Jiku wo Koeru | 97694 | [97694-ohimesama-jiku-wo-koeru.json](./97694-ohimesama-jiku-wo-koeru.json) |
