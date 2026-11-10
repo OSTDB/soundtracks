@@ -4050,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heirs | 329072 | [329072-heirs.json](./329072-heirs.json) |
 | Heirs and Graces | 32497 | [32497-heirs-and-graces.json](./32497-heirs-and-graces.json) |
 | Heirs of Heaven | 346237 | [346237-heirs-of-heaven.json](./346237-heirs-of-heaven.json) |
+| Heirs of the Fountains | 418724 | [418724-heirs-of-the-fountains.json](./418724-heirs-of-the-fountains.json) |
 | Heirs of the Moon | 413922 | [413922-heirs-of-the-moon.json](./413922-heirs-of-the-moon.json) |
 | Heirs to the Throne | 69893 | [69893-heirs-to-the-throne.json](./69893-heirs-to-the-throne.json) |
 | Heise Biji | 330272 | [330272-heise-biji.json](./330272-heise-biji.json) |
@@ -5243,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Furry Sheepy | 396715 | [396715-hentai-furry-sheepy.json](./396715-hentai-furry-sheepy.json) |
 | Hentai Furry Unicorny | 347771 | [347771-hentai-furry-unicorny.json](./347771-hentai-furry-unicorny.json) |
 | Hentai Furry Wolfy | 368526 | [368526-hentai-furry-wolfy.json](./368526-hentai-furry-wolfy.json) |
+| Hentai Furry Wolfy 2 | 418717 | [418717-hentai-furry-wolfy-2.json](./418717-hentai-furry-wolfy-2.json) |
 | Hentai Galaxy | 240692 | [240692-hentai-galaxy.json](./240692-hentai-galaxy.json) |
 | Hentai Gallery: Hidden Charms | 380700 | [380700-hentai-gallery-hidden-charms.json](./380700-hentai-gallery-hidden-charms.json) |
 | Hentai Gallery: Hot Fantasy | 378805 | [378805-hentai-gallery-hot-fantasy.json](./378805-hentai-gallery-hot-fantasy.json) |
@@ -6639,6 +6641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroland | 103238 | [103238-heroland.json](./103238-heroland.json) |
 | Heroland: Knowble Edition | 136194 | [136194-heroland-knowble-edition.json](./136194-heroland-knowble-edition.json) |
 | Herolike | 26785 | [26785-herolike.json](./26785-herolike.json) |
+| Heroll: If | 418692 | [418692-heroll-if.json](./418692-heroll-if.json) |
 | Heromantic | 293561 | [293561-heromantic.json](./293561-heromantic.json) |
 | Heron: Steam Machine | 67239 | [67239-heron-steam-machine.json](./67239-heron-steam-machine.json) |
 | HeroQuest | 12142 | [12142-heroquest.json](./12142-heroquest.json) |
