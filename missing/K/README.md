@@ -3481,6 +3481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Table: The Legend of Ragnarok | 71137 | [71137-kings-table-the-legend-of-ragnarok.json](./71137-kings-table-the-legend-of-ragnarok.json) |
 | King's Throne: Royal Delights | 208592 | [208592-kings-throne-royal-delights.json](./208592-kings-throne-royal-delights.json) |
 | King's Valley | 19727 | [19727-kings-valley.json](./19727-kings-valley.json) |
+| King's Valley | 403270 | [403270-kings-valley.json](./403270-kings-valley.json) |
 | King's Valley II | 41693 | [41693-kings-valley-ii.json](./41693-kings-valley-ii.json) |
 | King's Vessel | 108176 | [108176-kings-vessel.json](./108176-kings-vessel.json) |
 | King's Well | 393931 | [393931-kings-well.json](./393931-kings-well.json) |
