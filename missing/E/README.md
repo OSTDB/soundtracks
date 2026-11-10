@@ -2101,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elbub | 76378 | [76378-elbub.json](./76378-elbub.json) |
 | ElChronicle | 130635 | [130635-elchronicle.json](./130635-elchronicle.json) |
 | Eldabyss | 290707 | [290707-eldabyss.json](./290707-eldabyss.json) |
+| Eldara | 403983 | [403983-eldara.json](./403983-eldara.json) |
 | Eldarya | 46949 | [46949-eldarya.json](./46949-eldarya.json) |
 | Eldegarde | 304346 | [304346-eldegarde.json](./304346-eldegarde.json) |
 | Elden Bling | 238532 | [238532-elden-bling.json](./238532-elden-bling.json) |
@@ -4286,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engine Evolution 2022 | 197496 | [197496-engine-evolution-2022.json](./197496-engine-evolution-2022.json) |
 | Engine Evolution 2023 | 226808 | [226808-engine-evolution-2023.json](./226808-engine-evolution-2023.json) |
 | Engine of Chaos | 405866 | [405866-engine-of-chaos.json](./405866-engine-of-chaos.json) |
+| Engine of Sin | 403993 | [403993-engine-of-sin.json](./403993-engine-of-sin.json) |
 | Engine Roar | 238475 | [238475-engine-roar.json](./238475-engine-roar.json) |
 | Engine Room | 305448 | [305448-engine-room.json](./305448-engine-room.json) |
 | Engine Room | 305449 | [305449-engine-room.json](./305449-engine-room.json) |
@@ -6087,6 +6089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escort Alia | 241363 | [241363-escort-alia.json](./241363-escort-alia.json) |
 | Escort Alia: Escort Rena | 241320 | [241320-escort-alia-escort-rena.json](./241320-escort-alia-escort-rena.json) |
 | Escort Commander | 80998 | [80998-escort-commander.json](./80998-escort-commander.json) |
+| Escort Simulator | 404463 | [404463-escort-simulator.json](./404463-escort-simulator.json) |
 | Escort Simulator 2 | 189984 | [189984-escort-simulator-2.json](./189984-escort-simulator-2.json) |
 | Escort Yourself Out | 134962 | [134962-escort-yourself-out.json](./134962-escort-yourself-out.json) |
 | Escort's Secrets 18+ | 275135 | [275135-escorts-secrets-18.json](./275135-escorts-secrets-18.json) |
