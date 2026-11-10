@@ -2544,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA NeoGeo Selection Vol. 9 | 376474 | [376474-aca-neogeo-selection-vol-9.json](./376474-aca-neogeo-selection-vol-9.json) |
 | ACA2 Neo Geo: The King of Fighters '98 | 333539 | [333539-aca2-neo-geo-the-king-of-fighters-98.json](./333539-aca2-neo-geo-the-king-of-fighters-98.json) |
 | Acacia Project | 188382 | [188382-acacia-project.json](./188382-acacia-project.json) |
+| Academagia: The Making of Mages | 31060 | [31060-academagia-the-making-of-mages.json](./31060-academagia-the-making-of-mages.json) |
 | Academia do Saber | 230672 | [230672-academia-do-saber.json](./230672-academia-do-saber.json) |
 | Academia Ovivim | 332287 | [332287-academia-ovivim.json](./332287-academia-ovivim.json) |
 | Academia: School Simulator | 55689 | [55689-academia-school-simulator.json](./55689-academia-school-simulator.json) |
@@ -6970,6 +6971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
 | Alice in Wonderland | 196846 | [196846-alice-in-wonderland.json](./196846-alice-in-wonderland.json) |
 | Alice in Wonderland | 296824 | [296824-alice-in-wonderland.json](./296824-alice-in-wonderland.json) |
+| Alice in Wonderland | 30787 | [30787-alice-in-wonderland.json](./30787-alice-in-wonderland.json) |
 | Alice in Wonderland | 4666 | [4666-alice-in-wonderland.json](./4666-alice-in-wonderland.json) |
 | Alice in Wonderland | 50016 | [50016-alice-in-wonderland.json](./50016-alice-in-wonderland.json) |
 | Alice in Wonderland AR quest D | 100694 | [100694-alice-in-wonderland-ar-quest-d.json](./100694-alice-in-wonderland-ar-quest-d.json) |
@@ -13867,6 +13869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archie's Ribs | 288808 | [288808-archies-ribs.json](./288808-archies-ribs.json) |
 | Archie's Riverdale Run | 64510 | [64510-archies-riverdale-run.json](./64510-archies-riverdale-run.json) |
 | Archimedean Dynasty | 2197 | [2197-archimedean-dynasty.json](./2197-archimedean-dynasty.json) |
+| Archimedes | 31228 | [31228-archimedes.json](./31228-archimedes.json) |
 | Archimedes II: Some Like It Hot | 409601 | [409601-archimedes-ii-some-like-it-hot.json](./409601-archimedes-ii-some-like-it-hot.json) |
 | Archipel Logic Infinite | 310261 | [310261-archipel-logic-infinite.json](./310261-archipel-logic-infinite.json) |
 | Archipelagates | 258224 | [258224-archipelagates.json](./258224-archipelagates.json) |
@@ -16568,6 +16571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Hyper 64 | 10664 | [10664-asteroids-hyper-64.json](./10664-asteroids-hyper-64.json) |
 | Asteroids Maneuvers | 149946 | [149946-asteroids-maneuvers.json](./149946-asteroids-maneuvers.json) |
 | Asteroids Millennium | 51716 | [51716-asteroids-millennium.json](./51716-asteroids-millennium.json) |
+| Asteroids Minesweeper | 25807 | [25807-asteroids-minesweeper.json](./25807-asteroids-minesweeper.json) |
 | Asteroids Mining Saga | 238974 | [238974-asteroids-mining-saga.json](./238974-asteroids-mining-saga.json) |
 | Asteroids Origin | 181982 | [181982-asteroids-origin.json](./181982-asteroids-origin.json) |
 | Asteroids Recharged: Pro Arcade Edition | 350549 | [350549-asteroids-recharged-pro-arcade-edition.json](./350549-asteroids-recharged-pro-arcade-edition.json) |
@@ -17753,6 +17757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atone: Heart of the Elder Tree | 84479 | [84479-atone-heart-of-the-elder-tree.json](./84479-atone-heart-of-the-elder-tree.json) |
 | Atonement | 379987 | [379987-atonement.json](./379987-atonement.json) |
 | Atonement | 379988 | [379988-atonement.json](./379988-atonement.json) |
+| Atonement 2: Ruptured by Despair | 31088 | [31088-atonement-2-ruptured-by-despair.json](./31088-atonement-2-ruptured-by-despair.json) |
 | Atonement: Scourge of Time | 9989 | [9989-atonement-scourge-of-time.json](./9989-atonement-scourge-of-time.json) |
 | Atoners: The Lost Epoch | 290517 | [290517-atoners-the-lost-epoch.json](./290517-atoners-the-lost-epoch.json) |
 | Atonia: Netorare Annals | 332612 | [332612-atonia-netorare-annals.json](./332612-atonia-netorare-annals.json) |
