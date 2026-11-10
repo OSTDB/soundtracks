@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Link 2111 AD | 393527 | [393527-war-link-2111-ad.json](./393527-war-link-2111-ad.json) |
 | War Lords | 323323 | [323323-war-lords.json](./323323-war-lords.json) |
 | War Lords | 377155 | [377155-war-lords.json](./377155-war-lords.json) |
+| War Machine | 416847 | [416847-war-machine.json](./416847-war-machine.json) |
 | War Machine | 93015 | [93015-war-machine.json](./93015-war-machine.json) |
 | War Machines | 86933 | [86933-war-machines.json](./86933-war-machines.json) |
 | War Machines: Tanks Battle Game | 260867 | [260867-war-machines-tanks-battle-game.json](./260867-war-machines-tanks-battle-game.json) |
@@ -2659,6 +2660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterscape Solitaire: American Falls | 416139 | [416139-waterscape-solitaire-american-falls.json](./416139-waterscape-solitaire-american-falls.json) |
 | Watership Down | 398498 | [398498-watership-down.json](./398498-watership-down.json) |
 | Waterside Chirping | 105017 | [105017-waterside-chirping.json](./105017-waterside-chirping.json) |
+| Waterski 3D | 416849 | [416849-waterski-3d.json](./416849-waterski-3d.json) |
 | Waterslide | 67021 | [67021-waterslide.json](./67021-waterslide.json) |
 | Waterslide Inferno | 397137 | [397137-waterslide-inferno.json](./397137-waterslide-inferno.json) |
 | Waterslide Island | 153615 | [153615-waterslide-island.json](./153615-waterslide-island.json) |
@@ -4899,6 +4901,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Paper | 207701 | [207701-white-paper.json](./207701-white-paper.json) |
 | White Pearl | 76663 | [76663-white-pearl.json](./76663-white-pearl.json) |
 | White Rabbit | 161356 | [161356-white-rabbit.json](./161356-white-rabbit.json) |
+| White Rabbit's Wonderland 2: Twisted Worlds | 416465 | [416465-white-rabbits-wonderland-2-twisted-worlds.json](./416465-white-rabbits-wonderland-2-twisted-worlds.json) |
+| White Rabbit's Wonderland 2: Twisted Worlds - Collector's Edition | 416466 | [416466-white-rabbits-wonderland-2-twisted-worlds-collectors-edition.json](./416466-white-rabbits-wonderland-2-twisted-worlds-collectors-edition.json) |
 | White Rectangle | 182778 | [182778-white-rectangle.json](./182778-white-rectangle.json) |
 | White Redemption | 289667 | [289667-white-redemption.json](./289667-white-redemption.json) |
 | White Room | 271526 | [271526-white-room.json](./271526-white-room.json) |
@@ -5491,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Rapids | 44737 | [44737-wild-rapids.json](./44737-wild-rapids.json) |
 | Wild Rat | 149309 | [149309-wild-rat.json](./149309-wild-rat.json) |
 | Wild Ride | 12973 | [12973-wild-ride.json](./12973-wild-ride.json) |
+| Wild Ride | 416858 | [416858-wild-ride.json](./416858-wild-ride.json) |
 | Wild Ride: Surf Shack | 73565 | [73565-wild-ride-surf-shack.json](./73565-wild-ride-surf-shack.json) |
 | Wild Riders | 58381 | [58381-wild-riders.json](./58381-wild-riders.json) |
 | Wild Rides: WaterPark Factory | 205807 | [205807-wild-rides-waterpark-factory.json](./205807-wild-rides-waterpark-factory.json) |
@@ -5517,6 +5522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Souls | 152740 | [152740-wild-souls.json](./152740-wild-souls.json) |
 | Wild Space | 360860 | [360860-wild-space.json](./360860-wild-space.json) |
 | Wild Squirrel Family Sim 3D | 234455 | [234455-wild-squirrel-family-sim-3d.json](./234455-wild-squirrel-family-sim-3d.json) |
+| Wild Story: Primal Secrets - Collector's Edition | 416475 | [416475-wild-story-primal-secrets-collectors-edition.json](./416475-wild-story-primal-secrets-collectors-edition.json) |
 | Wild Streets | 12827 | [12827-wild-streets.json](./12827-wild-streets.json) |
 | Wild Summer | 76135 | [76135-wild-summer.json](./76135-wild-summer.json) |
 | Wild Superman | 116819 | [116819-wild-superman.json](./116819-wild-superman.json) |
