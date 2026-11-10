@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel | 239161 | [239161-babel.json](./239161-babel.json) |
 | Babel | 378933 | [378933-babel.json](./378933-babel.json) |
 | Babel | 385394 | [385394-babel.json](./385394-babel.json) |
+| Babel | 398942 | [398942-babel.json](./398942-babel.json) |
 | Babel | 78908 | [78908-babel.json](./78908-babel.json) |
 | Babel Climbers | 126837 | [126837-babel-climbers.json](./126837-babel-climbers.json) |
 | Babel Defender | 318760 | [318760-babel-defender.json](./318760-babel-defender.json) |
@@ -18831,6 +18832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried Alive VR | 95123 | [95123-buried-alive-vr.json](./95123-buried-alive-vr.json) |
 | Buried Alive: Breathless Rescue | 258999 | [258999-buried-alive-breathless-rescue.json](./258999-buried-alive-breathless-rescue.json) |
 | Buried Alive: The Annihilation VR | 128911 | [128911-buried-alive-the-annihilation-vr.json](./128911-buried-alive-the-annihilation-vr.json) |
+| Buried Below | 398736 | [398736-buried-below.json](./398736-buried-below.json) |
 | Buried Beneath | 108849 | [108849-buried-beneath.json](./108849-buried-beneath.json) |
 | Buried Buck$ | 76595 | [76595-buried-buck.json](./76595-buried-buck.json) |
 | Buried Chambers | 129704 | [129704-buried-chambers.json](./129704-buried-chambers.json) |
