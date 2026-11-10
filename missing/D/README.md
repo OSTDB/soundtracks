@@ -17759,6 +17759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driver Dan's Story Train | 269827 | [269827-driver-dans-story-train.json](./269827-driver-dans-story-train.json) |
 | Driver Manager | 415422 | [415422-driver-manager.json](./415422-driver-manager.json) |
 | Driver Mini | 240107 | [240107-driver-mini.json](./240107-driver-mini.json) |
+| Driver Night Trip | 405110 | [405110-driver-night-trip.json](./405110-driver-night-trip.json) |
 | Driver Platinum | 24140 | [24140-driver-platinum.json](./24140-driver-platinum.json) |
 | Driver Pro: 2017 | 68602 | [68602-driver-pro-2017.json](./68602-driver-pro-2017.json) |
 | Driver Simulator Life | 245211 | [245211-driver-simulator-life.json](./245211-driver-simulator-life.json) |
