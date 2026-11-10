@@ -15007,6 +15007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SmartGo Player | 88188 | [88188-smartgo-player.json](./88188-smartgo-player.json) |
 | Smarties: Meltdown | 43670 | [43670-smarties-meltdown.json](./43670-smarties-meltdown.json) |
 | Smartphone | 418818 | [418818-smartphone.json](./418818-smartphone.json) |
+| Smartphone Tycoon | 101370 | [101370-smartphone-tycoon.json](./101370-smartphone-tycoon.json) |
 | Smartphone Tycoon 2 | 335809 | [335809-smartphone-tycoon-2.json](./335809-smartphone-tycoon-2.json) |
 | Smartplant | 336752 | [336752-smartplant.json](./336752-smartplant.json) |
 | SmartSoules | 236102 | [236102-smartsoules.json](./236102-smartsoules.json) |
@@ -22021,6 +22022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Heroes | 264160 | [264160-speed-heroes.json](./264160-speed-heroes.json) |
 | Speed High | 240355 | [240355-speed-high.json](./240355-speed-high.json) |
 | Speed Intense Island | 233514 | [233514-speed-intense-island.json](./233514-speed-intense-island.json) |
+| Speed Into Dino Valley 2 | 101205 | [101205-speed-into-dino-valley-2.json](./101205-speed-into-dino-valley-2.json) |
 | Speed is Key | 201473 | [201473-speed-is-key.json](./201473-speed-is-key.json) |
 | Speed Islands | 116449 | [116449-speed-islands.json](./116449-speed-islands.json) |
 | Speed Journey: Nitro | 221407 | [221407-speed-journey-nitro.json](./221407-speed-journey-nitro.json) |
@@ -22621,6 +22623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Fighter 3 | 289178 | [289178-spider-fighter-3.json](./289178-spider-fighter-3.json) |
 | Spider Fighter: Superhero Revenge | 196535 | [196535-spider-fighter-superhero-revenge.json](./196535-spider-fighter-superhero-revenge.json) |
 | Spider Fire | 181117 | [181117-spider-fire.json](./181117-spider-fire.json) |
+| Spider Flying Superhero City Survival Mission | 101296 | [101296-spider-flying-superhero-city-survival-mission.json](./101296-spider-flying-superhero-city-survival-mission.json) |
 | Spider Fox | 254558 | [254558-spider-fox.json](./254558-spider-fox.json) |
 | Spider Go Solitaire | 370351 | [370351-spider-go-solitaire.json](./370351-spider-go-solitaire.json) |
 | Spider Hero | 407886 | [407886-spider-hero.json](./407886-spider-hero.json) |
@@ -24076,6 +24079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint Cars Road to Knoxville | 15791 | [15791-sprint-cars-road-to-knoxville.json](./15791-sprint-cars-road-to-knoxville.json) |
 | Sprint City | 384167 | [384167-sprint-city.json](./384167-sprint-city.json) |
 | Sprint Daytona Duel for Nascar HD | 106831 | [106831-sprint-daytona-duel-for-nascar-hd.json](./106831-sprint-daytona-duel-for-nascar-hd.json) |
+| Sprint Dodge | 101437 | [101437-sprint-dodge.json](./101437-sprint-dodge.json) |
 | Sprint for Survival | 339056 | [339056-sprint-for-survival.json](./339056-sprint-for-survival.json) |
 | Sprint Journey | 217809 | [217809-sprint-journey.json](./217809-sprint-journey.json) |
 | Sprint Journey: Nitro | 216143 | [216143-sprint-journey-nitro.json](./216143-sprint-journey-nitro.json) |
@@ -28064,6 +28068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Downhill | 117758 | [117758-stickman-downhill.json](./117758-stickman-downhill.json) |
 | Stickman Downhill Monstertruck | 233228 | [233228-stickman-downhill-monstertruck.json](./233228-stickman-downhill-monstertruck.json) |
 | Stickman Escape | 148636 | [148636-stickman-escape.json](./148636-stickman-escape.json) |
+| Stickman Fight: The Game | 101209 | [101209-stickman-fight-the-game.json](./101209-stickman-fight-the-game.json) |
 | Stickman Fighter Infinity | 256172 | [256172-stickman-fighter-infinity.json](./256172-stickman-fighter-infinity.json) |
 | Stickman Fighting | 88021 | [88021-stickman-fighting.json](./88021-stickman-fighting.json) |
 | Stickman Flatout Epic | 96779 | [96779-stickman-flatout-epic.json](./96779-stickman-flatout-epic.json) |
@@ -28081,6 +28086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Insane Bullet | 324976 | [324976-stickman-insane-bullet.json](./324976-stickman-insane-bullet.json) |
 | Stickman jailbreak 2018 | 100798 | [100798-stickman-jailbreak-2018.json](./100798-stickman-jailbreak-2018.json) |
 | Stickman Jailbreak 2024 | 292160 | [292160-stickman-jailbreak-2024.json](./292160-stickman-jailbreak-2024.json) |
+| Stickman jailbreak 9 | 101293 | [101293-stickman-jailbreak-9.json](./101293-stickman-jailbreak-9.json) |
 | Stickman Jetpack | 81701 | [81701-stickman-jetpack.json](./81701-stickman-jetpack.json) |
 | Stickman Kill Sergeant | 220222 | [220222-stickman-kill-sergeant.json](./220222-stickman-kill-sergeant.json) |
 | Stickman Killing Zombie | 292346 | [292346-stickman-killing-zombie.json](./292346-stickman-killing-zombie.json) |
@@ -29267,6 +29273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreamerBeater | 308214 | [308214-streamerbeater.json](./308214-streamerbeater.json) |
 | StreamerFun | 413064 | [413064-streamerfun.json](./413064-streamerfun.json) |
 | Streamers Cleaning Simulator | 312422 | [312422-streamers-cleaning-simulator.json](./312422-streamers-cleaning-simulator.json) |
+| Streamers Company Tycoon | 101315 | [101315-streamers-company-tycoon.json](./101315-streamers-company-tycoon.json) |
 | Streamers Company Tycoon | 181537 | [181537-streamers-company-tycoon.json](./181537-streamers-company-tycoon.json) |
 | Streamers Interactive Quiz Game | 343454 | [343454-streamers-interactive-quiz-game.json](./343454-streamers-interactive-quiz-game.json) |
 | Streamers' Secret Life | 221582 | [221582-streamers-secret-life.json](./221582-streamers-secret-life.json) |
@@ -35891,6 +35898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: Fountain of Youth | 199136 | [199136-survival-fountain-of-youth.json](./199136-survival-fountain-of-youth.json) |
 | Survival: Fountain of Youth - Captain's Edition | 317209 | [317209-survival-fountain-of-youth-captains-edition.json](./317209-survival-fountain-of-youth-captains-edition.json) |
 | Survival: Fountain of Youth - Sea Wolf Pack | 298249 | [298249-survival-fountain-of-youth-sea-wolf-pack.json](./298249-survival-fountain-of-youth-sea-wolf-pack.json) |
+| Survival: Last Day | 101317 | [101317-survival-last-day.json](./101317-survival-last-day.json) |
 | Survival: Lost Way | 143206 | [143206-survival-lost-way.json](./143206-survival-lost-way.json) |
 | Survival: Man vs. Wild | 100492 | [100492-survival-man-vs-wild.json](./100492-survival-man-vs-wild.json) |
 | Survival: Man vs. Wild - Island Escape | 102685 | [102685-survival-man-vs-wild-island-escape.json](./102685-survival-man-vs-wild-island-escape.json) |
