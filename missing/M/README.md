@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MadPug | 418257 | [418257-madpug.json](./418257-madpug.json) |
 | Mądra Głowa | 272958 | [272958-madra-g-owa.json](./272958-madra-g-owa.json) |
 | Madrid Noir | 181050 | [181050-madrid-noir.json](./181050-madrid-noir.json) |
+| Madrid Zombi | 419427 | [419427-madrid-zombi.json](./419427-madrid-zombi.json) |
 | MADrigal CD Collection | 365110 | [365110-madrigal-cd-collection.json](./365110-madrigal-cd-collection.json) |
 | Madrobot X | 31793 | [31793-madrobot-x.json](./31793-madrobot-x.json) |
 | Madruga From Mars | 252899 | [252899-madruga-from-mars.json](./252899-madruga-from-mars.json) |
@@ -5396,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Maker 3D Ultimate | 284785 | [284785-master-maker-3d-ultimate.json](./284785-master-maker-3d-ultimate.json) |
 | Master Manager | 277972 | [277972-master-manager.json](./277972-master-manager.json) |
 | Master Mariner | 294404 | [294404-master-mariner.json](./294404-master-mariner.json) |
+| Master Mind | 419463 | [419463-master-mind.json](./419463-master-mind.json) |
 | Master Mind | 92855 | [92855-master-mind.json](./92855-master-mind.json) |
 | Master Miner | 73959 | [73959-master-miner.json](./73959-master-miner.json) |
 | Master Minesweeper | 90698 | [90698-master-minesweeper.json](./90698-master-minesweeper.json) |
@@ -5588,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MasterChef: Let's Cook | 165294 | [165294-masterchef-lets-cook.json](./165294-masterchef-lets-cook.json) |
 | MasterCube | 59901 | [59901-mastercube.json](./59901-mastercube.json) |
 | Mastermind | 341711 | [341711-mastermind.json](./341711-mastermind.json) |
+| Mastermind | 419462 | [419462-mastermind.json](./419462-mastermind.json) |
 | Mastermind | 95406 | [95406-mastermind.json](./95406-mastermind.json) |
 | Mastermind - Cows and Bulls Free Word Game | 89711 | [89711-mastermind-cows-and-bulls-free-word-game.json](./89711-mastermind-cows-and-bulls-free-word-game.json) |
 | Mastermind Classic | 135001 | [135001-mastermind-classic.json](./135001-mastermind-classic.json) |
@@ -19479,6 +19482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Jump S | 216439 | [216439-mr-jump-s.json](./216439-mr-jump-s.json) |
 | Mr Jump World | 217804 | [217804-mr-jump-world.json](./217804-mr-jump-world.json) |
 | Mr Love: Queen's Choice | 118949 | [118949-mr-love-queens-choice.json](./118949-mr-love-queens-choice.json) |
+| Mr Mageboy | 419460 | [419460-mr-mageboy.json](./419460-mr-mageboy.json) |
 | Mr Magpie's Harmless Card Game | 349047 | [349047-mr-magpies-harmless-card-game.json](./349047-mr-magpies-harmless-card-game.json) |
 | Mr Maker 3D Level Editor | 192072 | [192072-mr-maker-3d-level-editor.json](./192072-mr-maker-3d-level-editor.json) |
 | Mr Makeshifter | 34655 | [34655-mr-makeshifter.json](./34655-mr-makeshifter.json) |
