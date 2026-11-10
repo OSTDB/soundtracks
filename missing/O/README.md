@@ -2394,6 +2394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Fateful Night | 171875 | [171875-one-fateful-night.json](./171875-one-fateful-night.json) |
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
 | One Fenix Down | 297172 | [297172-one-fenix-down.json](./297172-one-fenix-down.json) |
+| One Fight Arena | 407635 | [407635-one-fight-arena.json](./407635-one-fight-arena.json) |
 | One Final Breath | 11644 | [11644-one-final-breath.json](./11644-one-final-breath.json) |
 | One Final Chaos | 34286 | [34286-one-final-chaos.json](./34286-one-final-chaos.json) |
 | One Fine Tourney | 277982 | [277982-one-fine-tourney.json](./277982-one-fine-tourney.json) |
@@ -3416,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oopils | 405937 | [405937-oopils.json](./405937-oopils.json) |
 | Oops | 254252 | [254252-oops.json](./254252-oops.json) |
 | Oops Airlines | 391222 | [391222-oops-airlines.json](./391222-oops-airlines.json) |
+| Oops Unit | 407632 | [407632-oops-unit.json](./407632-oops-unit.json) |
 | Oops You Started An Intergalactic War | 202020 | [202020-oops-you-started-an-intergalactic-war.json](./202020-oops-you-started-an-intergalactic-war.json) |
 | Oops, All Archers! | 263389 | [263389-oops-all-archers.json](./263389-oops-all-archers.json) |
 | Oops, All Tanks! | 417987 | [417987-oops-all-tanks.json](./417987-oops-all-tanks.json) |
