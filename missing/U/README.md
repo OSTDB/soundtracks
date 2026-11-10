@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted: The Lost Legacy - Remastered | 168669 | [168669-uncharted-the-lost-legacy-remastered.json](./168669-uncharted-the-lost-legacy-remastered.json) |
 | Uncharted: The Nathan Drake Collection - Special Edition | 89929 | [89929-uncharted-the-nathan-drake-collection-special-edition.json](./89929-uncharted-the-nathan-drake-collection-special-edition.json) |
 | Unchess | 423663 | [423663-unchess.json](./423663-unchess.json) |
+| Unchest | 412031 | [412031-unchest.json](./412031-unchest.json) |
 | Unchosen: Forsaken | 164592 | [164592-unchosen-forsaken.json](./164592-unchosen-forsaken.json) |
 | Unciv | 144487 | [144487-unciv.json](./144487-unciv.json) |
 | Uncivil War TCG: Trading Card Game | 99417 | [99417-uncivil-war-tcg-trading-card-game.json](./99417-uncivil-war-tcg-trading-card-game.json) |
