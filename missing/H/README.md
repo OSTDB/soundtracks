@@ -5997,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hercules: The Legendary Journeys | 245465 | [245465-hercules-the-legendary-journeys.json](./245465-hercules-the-legendary-journeys.json) |
 | Hercules: The Legendary Journeys | 3511 | [3511-hercules-the-legendary-journeys.json](./3511-hercules-the-legendary-journeys.json) |
 | Hercules: The True Story | 57439 | [57439-hercules-the-true-story.json](./57439-hercules-the-true-story.json) |
+| Herd | 406989 | [406989-herd.json](./406989-herd.json) |
 | Herd is Coming | 118300 | [118300-herd-is-coming.json](./118300-herd-is-coming.json) |
 | Herd League | 424636 | [424636-herd-league.json](./424636-herd-league.json) |
 | Herd!!! | 234004 | [234004-herd.json](./234004-herd.json) |
@@ -6616,6 +6617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes War | 200722 | [200722-heroes-war.json](./200722-heroes-war.json) |
 | Heroes War: Counterattack | 141119 | [141119-heroes-war-counterattack.json](./141119-heroes-war-counterattack.json) |
 | Heroes Will | 69517 | [69517-heroes-will.json](./69517-heroes-will.json) |
+| Heroes World Online | 406997 | [406997-heroes-world-online.json](./406997-heroes-world-online.json) |
 | Heroes, Warlords and Ruin | 398533 | [398533-heroes-warlords-and-ruin.json](./398533-heroes-warlords-and-ruin.json) |
 | Heroes: A Grail Quest | 61211 | [61211-heroes-a-grail-quest.json](./61211-heroes-a-grail-quest.json) |
 | Heroes: The Official Mobile Game | 264132 | [264132-heroes-the-official-mobile-game.json](./264132-heroes-the-official-mobile-game.json) |
@@ -6754,6 +6756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Gambit | 70704 | [70704-hex-gambit.json](./70704-hex-gambit.json) |
 | Hex Gambit: Respawned | 133136 | [133136-hex-gambit-respawned.json](./133136-hex-gambit-respawned.json) |
 | HEX Hacking Simulator | 156205 | [156205-hex-hacking-simulator.json](./156205-hex-hacking-simulator.json) |
+| Hex Harmony | 406994 | [406994-hex-harmony.json](./406994-hex-harmony.json) |
 | Hex Heroes | 61974 | [61974-hex-heroes.json](./61974-hex-heroes.json) |
 | Hex Judge | 408581 | [408581-hex-judge.json](./408581-hex-judge.json) |
 | Hex Jump | 264208 | [264208-hex-jump.json](./264208-hex-jump.json) |
