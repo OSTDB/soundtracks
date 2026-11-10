@@ -3943,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Monarchy | 118400 | [118400-dead-monarchy.json](./118400-dead-monarchy.json) |
 | Dead Moon | 42111 | [42111-dead-moon.json](./42111-dead-moon.json) |
 | Dead Moon: Revenge on Phobos | 51509 | [51509-dead-moon-revenge-on-phobos.json](./51509-dead-moon-revenge-on-phobos.json) |
+| Dead Mosaic | 428432 | [428432-dead-mosaic.json](./428432-dead-mosaic.json) |
 | Dead Motherland: Zombie Co-op | 127731 | [127731-dead-motherland-zombie-co-op.json](./127731-dead-motherland-zombie-co-op.json) |
 | Dead Mountaineer's Hotel | 14851 | [14851-dead-mountaineers-hotel.json](./14851-dead-mountaineers-hotel.json) |
 | Dead Names | 294647 | [294647-dead-names.json](./294647-dead-names.json) |
@@ -9950,6 +9951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensions 2 | 408955 | [408955-dimensions-2.json](./408955-dimensions-2.json) |
 | Dimensions of Mind | 328930 | [328930-dimensions-of-mind.json](./328930-dimensions-of-mind.json) |
 | Dimensions Puzzle | 163547 | [163547-dimensions-puzzle.json](./163547-dimensions-puzzle.json) |
+| Dimensions: The Catalyst | 428380 | [428380-dimensions-the-catalyst.json](./428380-dimensions-the-catalyst.json) |
 | DimensionsVS | 24442 | [24442-dimensionsvs.json](./24442-dimensionsvs.json) |
 | Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimeo's Jukebox | 143033 | [143033-dimeos-jukebox.json](./143033-dimeos-jukebox.json) |
@@ -17933,6 +17935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Point | 350156 | [350156-drop-point.json](./350156-drop-point.json) |
 | Drop Point: Alaska | 63688 | [63688-drop-point-alaska.json](./63688-drop-point-alaska.json) |
 | Drop Pop | 386981 | [386981-drop-pop.json](./386981-drop-pop.json) |
+| Drop Rivals | 428414 | [428414-drop-rivals.json](./428414-drop-rivals.json) |
 | Drop That Cat | 330399 | [330399-drop-that-cat.json](./330399-drop-that-cat.json) |
 | Drop the Ball! | 89736 | [89736-drop-the-ball.json](./89736-drop-the-ball.json) |
 | Drop the Ballz | 106866 | [106866-drop-the-ballz.json](./106866-drop-the-ballz.json) |
@@ -20037,6 +20040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dustwind | 76127 | [76127-dustwind.json](./76127-dustwind.json) |
 | Dustwind: Resistance | 347081 | [347081-dustwind-resistance.json](./347081-dustwind-resistance.json) |
 | Dustwind: The Last Resort | 171988 | [171988-dustwind-the-last-resort.json](./171988-dustwind-the-last-resort.json) |
+| Dustwire | 428389 | [428389-dustwire.json](./428389-dustwire.json) |
 | Dustwun | 83561 | [83561-dustwun.json](./83561-dustwun.json) |
 | Dustwun: A Starfighter's Ballad | 109973 | [109973-dustwun-a-starfighters-ballad.json](./109973-dustwun-a-starfighters-ballad.json) |
 | Dusty | 339580 | [339580-dusty.json](./339580-dusty.json) |
