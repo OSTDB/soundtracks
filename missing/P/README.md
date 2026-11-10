@@ -12796,6 +12796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyZen Drive | 278679 | [278679-polyzen-drive.json](./278679-polyzen-drive.json) |
 | Polyzonia | 412713 | [412713-polyzonia.json](./412713-polyzonia.json) |
 | Polzun | 110729 | [110729-polzun.json](./110729-polzun.json) |
+| Pom Gets Wi-Fi | 62942 | [62942-pom-gets-wi-fi.json](./62942-pom-gets-wi-fi.json) |
 | Pom Pom Purin: Koro-koro Daibouken | 222518 | [222518-pom-pom-purin-koro-koro-daibouken.json](./222518-pom-pom-purin-koro-koro-daibouken.json) |
 | Pom Simulator 9000 | 135006 | [135006-pom-simulator-9000.json](./135006-pom-simulator-9000.json) |
 | Pom-Bar: Weltenbauer | 330361 | [330361-pom-bar-weltenbauer.json](./330361-pom-bar-weltenbauer.json) |
