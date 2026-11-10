@@ -7090,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Wonderland: Cast in Shadow - Collector's Edition | 357108 | [357108-alices-wonderland-cast-in-shadow-collectors-edition.json](./357108-alices-wonderland-cast-in-shadow-collectors-edition.json) |
 | Alice's World | 303135 | [303135-alices-world.json](./303135-alices-world.json) |
 | Alice=Alice | 240565 | [240565-alice-alice.json](./240565-alice-alice.json) |
+| Alice＝Alice ＆ Bad Medicine 2 in 1 Pack for Nintendo Switch | 413715 | [413715-alice-alice-and-bad-medicine-2-in-1-pack-for-nintendo-switch.json](./413715-alice-alice-and-bad-medicine-2-in-1-pack-for-nintendo-switch.json) |
 | Alicemare | 26138 | [26138-alicemare.json](./26138-alicemare.json) |
 | Alicia Griffith: Lakeside Murder | 30050 | [30050-alicia-griffith-lakeside-murder.json](./30050-alicia-griffith-lakeside-murder.json) |
 | Alicia Online | 60233 | [60233-alicia-online.json](./60233-alicia-online.json) |
@@ -7193,6 +7194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Cat Story | 339059 | [339059-alien-cat-story.json](./339059-alien-cat-story.json) |
 | Alien Challenge | 39524 | [39524-alien-challenge.json](./39524-alien-challenge.json) |
 | Alien Chaos 3D | 47632 | [47632-alien-chaos-3d.json](./47632-alien-chaos-3d.json) |
+| Alien Chase | 413992 | [413992-alien-chase.json](./413992-alien-chase.json) |
 | Alien Cleaner | 299527 | [299527-alien-cleaner.json](./299527-alien-cleaner.json) |
 | Alien Clones | 263469 | [263469-alien-clones.json](./263469-alien-clones.json) |
 | Alien Colosseum | 211407 | [211407-alien-colosseum.json](./211407-alien-colosseum.json) |
@@ -9438,6 +9440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ampguard | 188678 | [188678-ampguard.json](./188678-ampguard.json) |
 | Amphibarium | 384858 | [384858-amphibarium.json](./384858-amphibarium.json) |
 | Amphibia: Locust Pocus | 334006 | [334006-amphibia-locust-pocus.json](./334006-amphibia-locust-pocus.json) |
+| Amphibian | 413972 | [413972-amphibian.json](./413972-amphibian.json) |
 | Amphibian Assault | 290331 | [290331-amphibian-assault.json](./290331-amphibian-assault.json) |
 | Amphigeum | 382443 | [382443-amphigeum.json](./382443-amphigeum.json) |
 | Amphis Game | 381122 | [381122-amphis-game.json](./381122-amphis-game.json) |
@@ -13385,6 +13388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Typhoon Gal | 173130 | [173130-arcade-archives-typhoon-gal.json](./173130-arcade-archives-typhoon-gal.json) |
 | Arcade Archives: Urban Champion | 68314 | [68314-arcade-archives-urban-champion.json](./68314-arcade-archives-urban-champion.json) |
 | Arcade Archives: USAAF Mustang | 194887 | [194887-arcade-archives-usaaf-mustang.json](./194887-arcade-archives-usaaf-mustang.json) |
+| Arcade Archives: V'Ball | 413942 | [413942-arcade-archives-vball.json](./413942-arcade-archives-vball.json) |
 | Arcade Archives: Vandyke | 165600 | [165600-arcade-archives-vandyke.json](./165600-arcade-archives-vandyke.json) |
 | Arcade Archives: Victory Road | 121357 | [121357-arcade-archives-victory-road.json](./121357-arcade-archives-victory-road.json) |
 | Arcade Archives: Vigilante | 121716 | [121716-arcade-archives-vigilante.json](./121716-arcade-archives-vigilante.json) |
@@ -14120,6 +14124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardubullets | 381726 | [381726-ardubullets.json](./381726-ardubullets.json) |
 | ArduGods | 227994 | [227994-ardugods.json](./227994-ardugods.json) |
 | ArduGolf: 18-Hole Mini Golf | 227997 | [227997-ardugolf-18-hole-mini-golf.json](./227997-ardugolf-18-hole-mini-golf.json) |
+| ArduLifts | 413964 | [413964-ardulifts.json](./413964-ardulifts.json) |
 | ArduLO | 414321 | [414321-ardulo.json](./414321-ardulo.json) |
 | Arduminer | 227998 | [227998-arduminer.json](./227998-arduminer.json) |
 | ArduRogue | 317192 | [317192-ardurogue.json](./317192-ardurogue.json) |
