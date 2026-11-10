@@ -1007,6 +1007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Range | 413968 | [413968-bad-range.json](./413968-bad-range.json) |
@@ -7243,6 +7244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Better Tomorrows | 180829 | [180829-better-tomorrows.json](./180829-better-tomorrows.json) |
 | Better With A Friend | 301255 | [301255-better-with-a-friend.json](./301255-better-with-a-friend.json) |
 | BetterEd Element Master | 106754 | [106754-bettered-element-master.json](./106754-bettered-element-master.json) |
+| BetterGH3 | 404482 | [404482-bettergh3.json](./404482-bettergh3.json) |
 | Betterified VI: Bestified | 278057 | [278057-betterified-vi-bestified.json](./278057-betterified-vi-bestified.json) |
 | BetterSADX | 260492 | [260492-bettersadx.json](./260492-bettersadx.json) |
 | BetterVR | 386425 | [386425-bettervr.json](./386425-bettervr.json) |
@@ -16565,6 +16567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigador: Up-Armored Deluxe | 124924 | [124924-brigador-up-armored-deluxe.json](./124924-brigador-up-armored-deluxe.json) |
 | Brigador: Up-Armored Edition | 154206 | [154206-brigador-up-armored-edition.json](./154206-brigador-up-armored-edition.json) |
 | Brigand: Battles | 221564 | [221564-brigand-battles.json](./221564-brigand-battles.json) |
+| Brigand: Gold | 404466 | [404466-brigand-gold.json](./404466-brigand-gold.json) |
 | Brigand: Nightmare | 314725 | [314725-brigand-nightmare.json](./314725-brigand-nightmare.json) |
 | Brigand: Oaxaca | 28045 | [28045-brigand-oaxaca.json](./28045-brigand-oaxaca.json) |
 | Brigand: Panama | 142756 | [142756-brigand-panama.json](./142756-brigand-panama.json) |
@@ -19497,6 +19500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bye-Bye Boxboy! | 26350 | [26350-bye-bye-boxboy.json](./26350-bye-bye-boxboy.json) |
 | Bye-Bye, Wacky Planet | 25787 | [25787-bye-bye-wacky-planet.json](./25787-bye-bye-wacky-planet.json) |
 | Bye, Bye Birdie | 385515 | [385515-bye-bye-birdie.json](./385515-bye-bye-birdie.json) |
+| Bye: Integral | 403994 | [403994-bye-integral.json](./403994-bye-integral.json) |
 | ByeByeObake! | 425849 | [425849-byebyeobake.json](./425849-byebyeobake.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
 | Bygg Båtar med Mulle Meck | 97733 | [97733-bygg-batar-med-mulle-meck.json](./97733-bygg-batar-med-mulle-meck.json) |
