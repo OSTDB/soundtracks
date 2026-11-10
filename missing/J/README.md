@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaded Journey | 180109 | [180109-jaded-journey.json](./180109-jaded-journey.json) |
 | Jaden & Jasmine: Lost Memories | 259600 | [259600-jaden-and-jasmine-lost-memories.json](./259600-jaden-and-jasmine-lost-memories.json) |
 | Jaden & Jasmine: The Curse of Deception | 152692 | [152692-jaden-and-jasmine-the-curse-of-deception.json](./152692-jaden-and-jasmine-the-curse-of-deception.json) |
+| Jaden Industries | 414005 | [414005-jaden-industries.json](./414005-jaden-industries.json) |
 | Jaden's Nether Expansion | 344016 | [344016-jadens-nether-expansion.json](./344016-jadens-nether-expansion.json) |
 | Jaderaze Inferno | 412465 | [412465-jaderaze-inferno.json](./412465-jaderaze-inferno.json) |
 | Jadoraki | 238574 | [238574-jadoraki.json](./238574-jadoraki.json) |
@@ -1977,6 +1978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle: Cozy Fantasy Worlds | 399908 | [399908-jigsaw-puzzle-cozy-fantasy-worlds.json](./399908-jigsaw-puzzle-cozy-fantasy-worlds.json) |
 | Jigsaw Puzzle: Delicious Foods | 282135 | [282135-jigsaw-puzzle-delicious-foods.json](./282135-jigsaw-puzzle-delicious-foods.json) |
 | Jigsaw puzzle: Evolution | 100720 | [100720-jigsaw-puzzle-evolution.json](./100720-jigsaw-puzzle-evolution.json) |
+| Jigsaw Puzzle: Frog | 413950 | [413950-jigsaw-puzzle-frog.json](./413950-jigsaw-puzzle-frog.json) |
 | Jigsaw Puzzle: Futanari Massage | 286495 | [286495-jigsaw-puzzle-futanari-massage.json](./286495-jigsaw-puzzle-futanari-massage.json) |
 | Jigsaw Puzzle: Futanari Threesome | 220834 | [220834-jigsaw-puzzle-futanari-threesome.json](./220834-jigsaw-puzzle-futanari-threesome.json) |
 | Jigsaw Puzzle: New Year Collection | 351599 | [351599-jigsaw-puzzle-new-year-collection.json](./351599-jigsaw-puzzle-new-year-collection.json) |
