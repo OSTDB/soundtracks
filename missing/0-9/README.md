@@ -646,6 +646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Gnomes | 150415 | [150415-100-hidden-gnomes.json](./150415-100-hidden-gnomes.json) |
 | 100 Hidden Hares | 195688 | [195688-100-hidden-hares.json](./195688-100-hidden-hares.json) |
 | 100 Hidden Kooky: Sand & Sun | 283032 | [283032-100-hidden-kooky-sand-and-sun.json](./283032-100-hidden-kooky-sand-and-sun.json) |
+| 100 Hidden Mice | 167526 | [167526-100-hidden-mice.json](./167526-100-hidden-mice.json) |
 | 100 Hidden Mushrooms | 150421 | [150421-100-hidden-mushrooms.json](./150421-100-hidden-mushrooms.json) |
 | 100 Hidden Pandas: Village | 343124 | [343124-100-hidden-pandas-village.json](./343124-100-hidden-pandas-village.json) |
 | 100 Hidden Rams | 163750 | [163750-100-hidden-rams.json](./163750-100-hidden-rams.json) |
