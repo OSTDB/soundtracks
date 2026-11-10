@@ -8486,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granny Smith | 61081 | [61081-granny-smith.json](./61081-granny-smith.json) |
 | Granny Strikes Back | 403086 | [403086-granny-strikes-back.json](./403086-granny-strikes-back.json) |
 | Granny Unleashed | 177561 | [177561-granny-unleashed.json](./177561-granny-unleashed.json) |
+| Granny: Chapter Two | 127767 | [127767-granny-chapter-two.json](./127767-granny-chapter-two.json) |
 | Granny: Escape Together | 324118 | [324118-granny-escape-together.json](./324118-granny-escape-together.json) |
 | Granny's Garden | 11848 | [11848-grannys-garden.json](./11848-grannys-garden.json) |
 | Granny's Gotcha | 343414 | [343414-grannys-gotcha.json](./343414-grannys-gotcha.json) |
