@@ -27388,7 +27388,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Upheaval | 250640 | [250640-total-upheaval.json](./250640-total-upheaval.json) |
 | Total Vengeance | 264577 | [264577-total-vengeance.json](./264577-total-vengeance.json) |
 | Total Vice | 112278 | [112278-total-vice.json](./112278-total-vice.json) |
-| Total War Battles: Kingdom | 12300 | [12300-total-war-battles-kingdom.json](./12300-total-war-battles-kingdom.json) |
 | Total War Battles: Shogun | 15318 | [15318-total-war-battles-shogun.json](./15318-total-war-battles-shogun.json) |
 | Total War Battles: Warhammer | 142610 | [142610-total-war-battles-warhammer.json](./142610-total-war-battles-warhammer.json) |
 | Total War Grand Master Collection | 53814 | [53814-total-war-grand-master-collection.json](./53814-total-war-grand-master-collection.json) |
