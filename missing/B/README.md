@@ -7747,6 +7747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Ambitions | 152779 | [152779-big-ambitions.json](./152779-big-ambitions.json) |
 | Big Babies: Argument | 324835 | [324835-big-babies-argument.json](./324835-big-babies-argument.json) |
 | Big Babies: Instructions | 324834 | [324834-big-babies-instructions.json](./324834-big-babies-instructions.json) |
+| Big Bad Pharma | 412656 | [412656-big-bad-pharma.json](./412656-big-bad-pharma.json) |
 | Big Bad Sudoku Book | 267334 | [267334-big-bad-sudoku-book.json](./267334-big-bad-sudoku-book.json) |
 | Big Ball Sports | 275876 | [275876-big-ball-sports.json](./275876-big-ball-sports.json) |
 | Big Ballers VR | 277509 | [277509-big-ballers-vr.json](./277509-big-ballers-vr.json) |
