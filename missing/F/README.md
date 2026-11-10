@@ -12152,6 +12152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy Frog | 152716 | [152716-freddy-frog.json](./152716-freddy-frog.json) |
 | Freddy Frog 2 | 224816 | [224816-freddy-frog-2.json](./224816-freddy-frog-2.json) |
 | Freddy Hardest in Manhattan South | 45333 | [45333-freddy-hardest-in-manhattan-south.json](./45333-freddy-hardest-in-manhattan-south.json) |
+| Freddy Hardest: Z Planet | 403861 | [403861-freddy-hardest-z-planet.json](./403861-freddy-hardest-z-planet.json) |
 | Freddy in Space 2 | 159286 | [159286-freddy-in-space-2.json](./159286-freddy-in-space-2.json) |
 | Freddy in Space 3: Chica in Space | 272691 | [272691-freddy-in-space-3-chica-in-space.json](./272691-freddy-in-space-3-chica-in-space.json) |
 | Freddy Or Not | 396697 | [396697-freddy-or-not.json](./396697-freddy-or-not.json) |
