@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UAC Invasion: The Supply Depot | 256868 | [256868-uac-invasion-the-supply-depot.json](./256868-uac-invasion-the-supply-depot.json) |
 | UAC Storage Surplus Project | 306864 | [306864-uac-storage-surplus-project.json](./306864-uac-storage-surplus-project.json) |
 | UAC Ultra | 140469 | [140469-uac-ultra.json](./140469-uac-ultra.json) |
+| Uagi-Saba | 95163 | [95163-uagi-saba.json](./95163-uagi-saba.json) |
 | UAL: Universal AIM League | 186478 | [186478-ual-universal-aim-league.json](./186478-ual-universal-aim-league.json) |
 | Uanamon: Rugly Invasion | 260001 | [260001-uanamon-rugly-invasion.json](./260001-uanamon-rugly-invasion.json) |
 | UAV Wars | 92672 | [92672-uav-wars.json](./92672-uav-wars.json) |
