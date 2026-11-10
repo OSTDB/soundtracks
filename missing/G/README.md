@@ -11030,7 +11030,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Crown | 208919 | [208919-guilty-crown.json](./208919-guilty-crown.json) |
 | Guilty Crown: Lost Christmas | 80569 | [80569-guilty-crown-lost-christmas.json](./80569-guilty-crown-lost-christmas.json) |
 | Guilty Gear | 9140 | [9140-guilty-gear.json](./9140-guilty-gear.json) |
-| Guilty Gear 2: Overture | 7004 | [7004-guilty-gear-2-overture.json](./7004-guilty-gear-2-overture.json) |
 | Guilty Gear 20th Anniversary Pack | 114135 | [114135-guilty-gear-20th-anniversary-pack.json](./114135-guilty-gear-20th-anniversary-pack.json) |
 | Guilty Gear 20th Anniversary Pack: Day One Edition | 386270 | [386270-guilty-gear-20th-anniversary-pack-day-one-edition.json](./386270-guilty-gear-20th-anniversary-pack-day-one-edition.json) |
 | Guilty Gear Dust Strikers | 9149 | [9149-guilty-gear-dust-strikers.json](./9149-guilty-gear-dust-strikers.json) |
