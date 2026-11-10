@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namnokh | 158880 | [158880-namnokh.json](./158880-namnokh.json) |
 | Nampa Forest | 104626 | [104626-nampa-forest.json](./104626-nampa-forest.json) |
 | Namtir Raiders | 319589 | [319589-namtir-raiders.json](./319589-namtir-raiders.json) |
+| Nan Creatures | 416875 | [416875-nan-creatures.json](./416875-nan-creatures.json) |
 | Nana | 201771 | [201771-nana.json](./201771-nana.json) |
 | Nana | 61424 | [61424-nana.json](./61424-nana.json) |
 | Nana in the Dark | 74630 | [74630-nana-in-the-dark.json](./74630-nana-in-the-dark.json) |
