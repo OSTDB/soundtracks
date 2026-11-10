@@ -3822,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReCore: Definitive Edition | 54787 | [54787-recore-definitive-edition.json](./54787-recore-definitive-edition.json) |
 | Recore: Eye of Obsidian | 139396 | [139396-recore-eye-of-obsidian.json](./139396-recore-eye-of-obsidian.json) |
 | Recoup | 373182 | [373182-recoup.json](./373182-recoup.json) |
+| Recourse | 34138 | [34138-recourse.json](./34138-recourse.json) |
 | Recovering Stolen | 336683 | [336683-recovering-stolen.json](./336683-recovering-stolen.json) |
 | Recovery Dog | 345211 | [345211-recovery-dog.json](./345211-recovery-dog.json) |
 | Recovery Phrase | 320580 | [320580-recovery-phrase.json](./320580-recovery-phrase.json) |
@@ -12928,6 +12929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run to Infinity: Impossible Mode | 230778 | [230778-run-to-infinity-impossible-mode.json](./230778-run-to-infinity-impossible-mode.json) |
 | Run to Nowhere | 206705 | [206705-run-to-nowhere.json](./206705-run-to-nowhere.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
+| Run Turn Die | 34140 | [34140-run-turn-die.json](./34140-run-turn-die.json) |
 | Run VR | 95731 | [95731-run-vr.json](./95731-run-vr.json) |
 | Run Willy! | 215866 | [215866-run-willy.json](./215866-run-willy.json) |
 | Run Witch | 281327 | [281327-run-witch.json](./281327-run-witch.json) |
