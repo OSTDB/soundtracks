@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Bill | 342993 | [342993-raging-bill.json](./342993-raging-bill.json) |
 | Raging Blades | 43324 | [43324-raging-blades.json](./43324-raging-blades.json) |
 | Raging Blasters | 142659 | [142659-raging-blasters.json](./142659-raging-blasters.json) |
+| Raging Blasters 2 | 418655 | [418655-raging-blasters-2.json](./418655-raging-blasters-2.json) |
 | Raging Blitz | 269152 | [269152-raging-blitz.json](./269152-raging-blitz.json) |
 | Raging Bytes | 246079 | [246079-raging-bytes.json](./246079-raging-bytes.json) |
 | Raging Fighter | 48921 | [48921-raging-fighter.json](./48921-raging-fighter.json) |
@@ -3089,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Football 2019 | 116353 | [116353-real-football-2019.json](./116353-real-football-2019.json) |
 | Real Gangsters Auto Theft | 99202 | [99202-real-gangsters-auto-theft.json](./99202-real-gangsters-auto-theft.json) |
 | Real Girl 3: Virtual Sex | 372120 | [372120-real-girl-3-virtual-sex.json](./372120-real-girl-3-virtual-sex.json) |
+| Real Girl VR | 418749 | [418749-real-girl-vr.json](./418749-real-girl-vr.json) |
 | Real Girls: Burning Whisper | 417278 | [417278-real-girls-burning-whisper.json](./417278-real-girls-burning-whisper.json) |
 | Real Girls: Midnight Desire | 420648 | [420648-real-girls-midnight-desire.json](./420648-real-girls-midnight-desire.json) |
 | Real Grand Gangster Mafia war | 231914 | [231914-real-grand-gangster-mafia-war.json](./231914-real-grand-gangster-mafia-war.json) |
@@ -8043,6 +8045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringognir | 55300 | [55300-ringognir.json](./55300-ringognir.json) |
 | Ringognir 2 | 63737 | [63737-ringognir-2.json](./63737-ringognir-2.json) |
 | Ringognir 3 | 68336 | [68336-ringognir-3.json](./68336-ringognir-3.json) |
+| RingOut | 418696 | [418696-ringout.json](./418696-ringout.json) |
 | RingoWord | 241335 | [241335-ringoword.json](./241335-ringoword.json) |
 | RingRacer | 193252 | [193252-ringracer.json](./193252-ringracer.json) |
 | RingRiker | 369822 | [369822-ringriker.json](./369822-ringriker.json) |
