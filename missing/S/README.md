@@ -10853,6 +10853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
 | Signal Pit | 402651 | [402651-signal-pit.json](./402651-signal-pit.json) |
 | Signal Simulator | 99625 | [99625-signal-simulator.json](./99625-signal-simulator.json) |
+| Signal Veil | 421169 | [421169-signal-veil.json](./421169-signal-veil.json) |
 | Signal Zero | 405137 | [405137-signal-zero.json](./405137-signal-zero.json) |
 | Signal Zero | 405139 | [405139-signal-zero.json](./405139-signal-zero.json) |
 | Signal Zero: Dispatch | 405136 | [405136-signal-zero-dispatch.json](./405136-signal-zero-dispatch.json) |
@@ -18358,6 +18359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Forces: Bonus Edition | 28538 | [28538-sonic-forces-bonus-edition.json](./28538-sonic-forces-bonus-edition.json) |
 | Sonic Forces: Day One Edition | 136167 | [136167-sonic-forces-day-one-edition.json](./136167-sonic-forces-day-one-edition.json) |
 | Sonic Forces: Episode Shadow | 112095 | [112095-sonic-forces-episode-shadow.json](./112095-sonic-forces-episode-shadow.json) |
+| Sonic Forces: Rival Rush | 421173 | [421173-sonic-forces-rival-rush.json](./421173-sonic-forces-rival-rush.json) |
 | Sonic Forces: Speed Battle | 69392 | [69392-sonic-forces-speed-battle.json](./69392-sonic-forces-speed-battle.json) |
 | Sonic Forces: Super Sonic | 255540 | [255540-sonic-forces-super-sonic.json](./255540-sonic-forces-super-sonic.json) |
 | Sonic Free Riders | 20118 | [20118-sonic-free-riders.json](./20118-sonic-free-riders.json) |
@@ -26122,6 +26124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star-Twine | 30800 | [30800-star-twine.json](./30800-star-twine.json) |
 | Star-Wired | 310939 | [310939-star-wired.json](./310939-star-wired.json) |
 | Star: M | 306059 | [306059-star-m.json](./306059-star-m.json) |
+| STAR: Super Tricky Amazing Run | 421281 | [421281-star-super-tricky-amazing-run.json](./421281-star-super-tricky-amazing-run.json) |
 | Star.Bit | 184898 | [184898-star-bit.json](./184898-star-bit.json) |
 | Star's Peaces Renai Ouen Tomodachi Kakutoku Keikaku | 389344 | [389344-stars-peaces-renai-ouen-tomodachi-kakutoku-keikaku.json](./389344-stars-peaces-renai-ouen-tomodachi-kakutoku-keikaku.json) |
 | Star'Shoot | 105327 | [105327-starshoot.json](./105327-starshoot.json) |
@@ -28523,6 +28526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Protectors | 38433 | [38433-stone-protectors.json](./38433-stone-protectors.json) |
 | Stone Rage | 74256 | [74256-stone-rage.json](./74256-stone-rage.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
+| Stone Run | 421260 | [421260-stone-run.json](./421260-stone-run.json) |
 | Stone Shire | 85535 | [85535-stone-shire.json](./85535-stone-shire.json) |
 | Stone Simulator | 333855 | [333855-stone-simulator.json](./333855-stone-simulator.json) |
 | Stone Skimming | 100718 | [100718-stone-skimming.json](./100718-stone-skimming.json) |
