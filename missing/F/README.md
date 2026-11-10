@@ -11934,6 +11934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Framed | 131508 | [131508-framed.json](./131508-framed.json) |
 | Framed | 229778 | [229778-framed.json](./229778-framed.json) |
 | Framed by the Yakuza | 210313 | [210313-framed-by-the-yakuza.json](./210313-framed-by-the-yakuza.json) |
+| Framed Collection: Deluxe Edition | 396833 | [396833-framed-collection-deluxe-edition.json](./396833-framed-collection-deluxe-edition.json) |
 | Framed Fear | 340953 | [340953-framed-fear.json](./340953-framed-fear.json) |
 | Framed Wings | 32528 | [32528-framed-wings.json](./32528-framed-wings.json) |
 | Frameland: A Binary Tale | 182034 | [182034-frameland-a-binary-tale.json](./182034-frameland-a-binary-tale.json) |
