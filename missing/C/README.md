@@ -6425,6 +6425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Metaverse | 267658 | [267658-chaos-metaverse.json](./267658-chaos-metaverse.json) |
 | Chaos Method | 378750 | [378750-chaos-method.json](./378750-chaos-method.json) |
 | Chaos Moon | 336839 | [336839-chaos-moon.json](./336839-chaos-moon.json) |
+| Chaos Movers | 427819 | [427819-chaos-movers.json](./427819-chaos-movers.json) |
 | Chaos of Destiny Remake | 346883 | [346883-chaos-of-destiny-remake.json](./346883-chaos-of-destiny-remake.json) |
 | Chaos of East | 101353 | [101353-chaos-of-east.json](./101353-chaos-of-east.json) |
 | Chaos of Fallen City | 159864 | [159864-chaos-of-fallen-city.json](./159864-chaos-of-fallen-city.json) |
@@ -19490,6 +19491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cry of Monster | 367403 | [367403-cry-of-monster.json](./367403-cry-of-monster.json) |
 | Cry On | 54647 | [54647-cry-on.json](./54647-cry-on.json) |
 | Cry Pic. | 351378 | [351378-cry-pic.json](./351378-cry-pic.json) |
+| Cry Wolf | 427825 | [427825-cry-wolf.json](./427825-cry-wolf.json) |
 | Cry: Hunter's Record - Chapter 1 | 179944 | [179944-cry-hunters-record-chapter-1.json](./179944-cry-hunters-record-chapter-1.json) |
 | Cryamore | 63785 | [63785-cryamore.json](./63785-cryamore.json) |
 | Cryaxion | 215862 | [215862-cryaxion.json](./215862-cryaxion.json) |
@@ -20889,6 +20891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed | 376637 | [376637-cursed.json](./376637-cursed.json) |
 | Cursed 2 | 196786 | [196786-cursed-2.json](./196786-cursed-2.json) |
 | Cursed 3 | 213534 | [213534-cursed-3.json](./213534-cursed-3.json) |
+| Cursed and Fading | 427807 | [427807-cursed-and-fading.json](./427807-cursed-and-fading.json) |
 | Cursed Angel: Time Paradox | 223283 | [223283-cursed-angel-time-paradox.json](./223283-cursed-angel-time-paradox.json) |
 | Cursed Apartment | 321951 | [321951-cursed-apartment.json](./321951-cursed-apartment.json) |
 | Cursed Armor | 106507 | [106507-cursed-armor.json](./106507-cursed-armor.json) |
