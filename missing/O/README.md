@@ -2157,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Train | 392124 | [392124-on-the-train.json](./392124-on-the-train.json) |
 | On the Verge II | 120595 | [120595-on-the-verge-ii.json](./120595-on-the-verge-ii.json) |
 | On the Way | 356580 | [356580-on-the-way.json](./356580-on-the-way.json) |
+| On the Way Home: Strange Incidents | 424244 | [424244-on-the-way-home-strange-incidents.json](./424244-on-the-way-home-strange-incidents.json) |
 | On the Western Front | 102411 | [102411-on-the-western-front.json](./102411-on-the-western-front.json) |
 | On the Wind | 233220 | [233220-on-the-wind.json](./233220-on-the-wind.json) |
 | On the Wind's Breath | 247864 | [247864-on-the-winds-breath.json](./247864-on-the-winds-breath.json) |
@@ -2499,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Military Camp: Commander Goals | 288214 | [288214-one-military-camp-commander-goals.json](./288214-one-military-camp-commander-goals.json) |
 | One Military Camp: Multiplayer Mode | 277370 | [277370-one-military-camp-multiplayer-mode.json](./277370-one-military-camp-multiplayer-mode.json) |
 | One Million Checkboxes | 307172 | [307172-one-million-checkboxes.json](./307172-one-million-checkboxes.json) |
+| One Million Coins | 424284 | [424284-one-million-coins.json](./424284-one-million-coins.json) |
 | One Million Kisses | 417967 | [417967-one-million-kisses.json](./417967-one-million-kisses.json) |
 | One Million Miles | 223610 | [223610-one-million-miles.json](./223610-one-million-miles.json) |
 | One Million Stars | 333652 | [333652-one-million-stars.json](./333652-one-million-stars.json) |
