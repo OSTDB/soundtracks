@@ -1834,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ken Uston BlackJack/Poker | 131153 | [131153-ken-uston-blackjack-poker.json](./131153-ken-uston-blackjack-poker.json) |
 | Ken's Labyrinth | 8743 | [8743-kens-labyrinth.json](./8743-kens-labyrinth.json) |
 | Ken's Labyrinth II | 309654 | [309654-kens-labyrinth-ii.json](./309654-kens-labyrinth-ii.json) |
+| Kena: Bridge of Spirits - Deluxe Edition | 173109 | [173109-kena-bridge-of-spirits-deluxe-edition.json](./173109-kena-bridge-of-spirits-deluxe-edition.json) |
 | Kena: Bridge of Spirits - Digital Deluxe | 169183 | [169183-kena-bridge-of-spirits-digital-deluxe.json](./169183-kena-bridge-of-spirits-digital-deluxe.json) |
 | Kena: Bridge of Spirits - Premium Edition | 324768 | [324768-kena-bridge-of-spirits-premium-edition.json](./324768-kena-bridge-of-spirits-premium-edition.json) |
 | Kena: Scars of Kosmora | 389419 | [389419-kena-scars-of-kosmora.json](./389419-kena-scars-of-kosmora.json) |
@@ -3482,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance - Saga Bundle | 402700 | [402700-kingdom-come-deliverance-saga-bundle.json](./402700-kingdom-come-deliverance-saga-bundle.json) |
 | Kingdom Come: Deliverance - Special Edition | 136164 | [136164-kingdom-come-deliverance-special-edition.json](./136164-kingdom-come-deliverance-special-edition.json) |
 | Kingdom Come: Deliverance - The Amorous Adventures of Bold Sir Hans Capon | 116991 | [116991-kingdom-come-deliverance-the-amorous-adventures-of-bold-sir-hans-capon.json](./116991-kingdom-come-deliverance-the-amorous-adventures-of-bold-sir-hans-capon.json) |
+| Kingdom Come: Deliverance - Treasures of the Past | 156157 | [156157-kingdom-come-deliverance-treasures-of-the-past.json](./156157-kingdom-come-deliverance-treasures-of-the-past.json) |
 | Kingdom Come: Deliverance II - Brushes with Death | 343669 | [343669-kingdom-come-deliverance-ii-brushes-with-death.json](./343669-kingdom-come-deliverance-ii-brushes-with-death.json) |
 | Kingdom Come: Deliverance II - Collectors' Edition | 326774 | [326774-kingdom-come-deliverance-ii-collectors-edition.json](./326774-kingdom-come-deliverance-ii-collectors-edition.json) |
 | Kingdom Come: Deliverance II - Day One Edition | 326773 | [326773-kingdom-come-deliverance-ii-day-one-edition.json](./326773-kingdom-come-deliverance-ii-day-one-edition.json) |
