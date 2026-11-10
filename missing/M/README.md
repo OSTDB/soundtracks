@@ -9048,6 +9048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melt Abyss | 353902 | [353902-melt-abyss.json](./353902-melt-abyss.json) |
 | Melt Away | 330896 | [330896-melt-away.json](./330896-melt-away.json) |
 | Melt Down | 294238 | [294238-melt-down.json](./294238-melt-down.json) |
+| Meltdown | 415681 | [415681-meltdown.json](./415681-meltdown.json) |
 | Meltdown | 80511 | [80511-meltdown.json](./80511-meltdown.json) |
 | Meltdown Crew | 417195 | [417195-meltdown-crew.json](./417195-meltdown-crew.json) |
 | Meltdown Masters | 415885 | [415885-meltdown-masters.json](./415885-meltdown-masters.json) |
@@ -15804,6 +15805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moment of Moonset | 284599 | [284599-moment-of-moonset.json](./284599-moment-of-moonset.json) |
 | Moment to Midnight | 229248 | [229248-moment-to-midnight.json](./229248-moment-to-midnight.json) |
 | Momenta | 346906 | [346906-momenta.json](./346906-momenta.json) |
+| Momentigrade | 415663 | [415663-momentigrade.json](./415663-momentigrade.json) |
 | Momento | 279123 | [279123-momento.json](./279123-momento.json) |
 | Momento Isles | 385393 | [385393-momento-isles.json](./385393-momento-isles.json) |
 | Momento Pole | 373767 | [373767-momento-pole.json](./373767-momento-pole.json) |
