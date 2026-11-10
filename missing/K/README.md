@@ -2205,6 +2205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khuga Bash! | 276196 | [276196-khuga-bash.json](./276196-khuga-bash.json) |
 | Khuga Rumble Arena | 340562 | [340562-khuga-rumble-arena.json](./340562-khuga-rumble-arena.json) |
 | Khumba: The Game | 61116 | [61116-khumba-the-game.json](./61116-khumba-the-game.json) |
+| Ki ni Naru Otoko no Ko? | 398061 | [398061-ki-ni-naru-otoko-no-ko.json](./398061-ki-ni-naru-otoko-no-ko.json) |
 | Ki_swpr | 184586 | [184586-ki-swpr.json](./184586-ki-swpr.json) |
 | Ki(n)ds | 27902 | [27902-ki-n-ds.json](./27902-ki-n-ds.json) |
 | Kiai Resonance | 35487 | [35487-kiai-resonance.json](./35487-kiai-resonance.json) |
@@ -2903,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killmage | 292452 | [292452-killmage.json](./292452-killmage.json) |
 | Killmaiden | 295895 | [295895-killmaiden.json](./295895-killmaiden.json) |
 | Killmist Enclave | 244579 | [244579-killmist-enclave.json](./244579-killmist-enclave.json) |
+| Killnetic | 398059 | [398059-killnetic.json](./398059-killnetic.json) |
 | Killon | 261718 | [261718-killon.json](./261718-killon.json) |
 | Killover | 361815 | [361815-killover.json](./361815-killover.json) |
 | Killpaku! | 321380 | [321380-killpaku.json](./321380-killpaku.json) |
@@ -2963,7 +2965,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
