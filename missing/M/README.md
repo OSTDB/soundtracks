@@ -8759,6 +8759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megaspectre | 70361 | [70361-megaspectre.json](./70361-megaspectre.json) |
 | MegaSphere | 34846 | [34846-megasphere.json](./34846-megasphere.json) |
 | Megastore Simulator | 372969 | [372969-megastore-simulator.json](./372969-megastore-simulator.json) |
+| Megastore: Tidy Up Together | 412653 | [412653-megastore-tidy-up-together.json](./412653-megastore-tidy-up-together.json) |
 | Megasuki: Love Through Lenses with Ayumu Sakura | 416598 | [416598-megasuki-love-through-lenses-with-ayumu-sakura.json](./416598-megasuki-love-through-lenses-with-ayumu-sakura.json) |
 | Megasuki: Love Through Lenses with Otoha Inami | 416599 | [416599-megasuki-love-through-lenses-with-otoha-inami.json](./416599-megasuki-love-through-lenses-with-otoha-inami.json) |
 | Megasuki: Love Through Lenses with Yuuki Hoshino | 416597 | [416597-megasuki-love-through-lenses-with-yuuki-hoshino.json](./416597-megasuki-love-through-lenses-with-yuuki-hoshino.json) |
@@ -10757,6 +10758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroid Prime 3: Corruption | 1111 | [1111-metroid-prime-3-corruption.json](./1111-metroid-prime-3-corruption.json) |
 | Metroid Prime Hunters | 1110 | [1110-metroid-prime-hunters.json](./1110-metroid-prime-hunters.json) |
 | Metroid Prime Hunters: First Hunt | 119521 | [119521-metroid-prime-hunters-first-hunt.json](./119521-metroid-prime-hunters-first-hunt.json) |
+| Metroid Prime Origins | 412673 | [412673-metroid-prime-origins.json](./412673-metroid-prime-origins.json) |
 | Metroid Prime Pinball | 1109 | [1109-metroid-prime-pinball.json](./1109-metroid-prime-pinball.json) |
 | Metroid Prime Remastered | 236663 | [236663-metroid-prime-remastered.json](./236663-metroid-prime-remastered.json) |
 | Metroid Prime: Blast Ball | 23492 | [23492-metroid-prime-blast-ball.json](./23492-metroid-prime-blast-ball.json) |
@@ -12148,6 +12150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Morphin Power Rangers: Tiger Barcodzz - 23: Pink Ranger | 362564 | [362564-mighty-morphin-power-rangers-tiger-barcodzz-23-pink-ranger.json](./362564-mighty-morphin-power-rangers-tiger-barcodzz-23-pink-ranger.json) |
 | Mighty Morphin Power Rangers: Tiger Barcodzz - 24: Green Ranger | 362554 | [362554-mighty-morphin-power-rangers-tiger-barcodzz-24-green-ranger.json](./362554-mighty-morphin-power-rangers-tiger-barcodzz-24-green-ranger.json) |
 | Mighty Morpho | 395081 | [395081-mighty-morpho.json](./395081-mighty-morpho.json) |
+| Mighty Moth and the Horrible, Terrible, Awful, No-Good Day! | 412683 | [412683-mighty-moth-and-the-horrible-terrible-awful-no-good-day.json](./412683-mighty-moth-and-the-horrible-terrible-awful-no-good-day.json) |
 | Mighty Mouse Cheese Hunt | 334115 | [334115-mighty-mouse-cheese-hunt.json](./334115-mighty-mouse-cheese-hunt.json) |
 | Mighty Muddy | 236982 | [236982-mighty-muddy.json](./236982-mighty-muddy.json) |
 | Mighty Mulan | 66940 | [66940-mighty-mulan.json](./66940-mighty-mulan.json) |
@@ -14354,6 +14357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miscrits: World of Creatures | 370628 | [370628-miscrits-world-of-creatures.json](./370628-miscrits-world-of-creatures.json) |
 | Miscrits: World of Creatures | 98466 | [98466-miscrits-world-of-creatures.json](./98466-miscrits-world-of-creatures.json) |
 | Misdamnation | 408489 | [408489-misdamnation.json](./408489-misdamnation.json) |
+| Misdealt | 412649 | [412649-misdealt.json](./412649-misdealt.json) |
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
 | Misdie: Into the Game | 351238 | [351238-misdie-into-the-game.json](./351238-misdie-into-the-game.json) |
 | Mise en War | 421766 | [421766-mise-en-war.json](./421766-mise-en-war.json) |
@@ -15698,6 +15702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moki | 149880 | [149880-moki.json](./149880-moki.json) |
 | Moki Moki | 77120 | [77120-moki-moki.json](./77120-moki-moki.json) |
 | Moki: The Escape | 238725 | [238725-moki-the-escape.json](./238725-moki-the-escape.json) |
+| Mokis | 412678 | [412678-mokis.json](./412678-mokis.json) |
 | MokMok | 54492 | [54492-mokmok.json](./54492-mokmok.json) |
 | Moko's Advice | 127079 | [127079-mokos-advice.json](./127079-mokos-advice.json) |
 | Mokoko | 127005 | [127005-mokoko.json](./127005-mokoko.json) |
