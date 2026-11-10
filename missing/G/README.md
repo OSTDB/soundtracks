@@ -3749,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Up In The Night | 304510 | [304510-get-up-in-the-night.json](./304510-get-up-in-the-night.json) |
 | Get Up North | 106998 | [106998-get-up-north.json](./106998-get-up-north.json) |
 | Get Up: Family Sports | 50645 | [50645-get-up-family-sports.json](./50645-get-up-family-sports.json) |
+| Get Upstairs | 418080 | [418080-get-upstairs.json](./418080-get-upstairs.json) |
 | Get Witchy | 184696 | [184696-get-witchy.json](./184696-get-witchy.json) |
 | Get X, Avoid Y | 128604 | [128604-get-x-avoid-y.json](./128604-get-x-avoid-y.json) |
 | Get Yoked: Extreme Bodybuilding | 341385 | [341385-get-yoked-extreme-bodybuilding.json](./341385-get-yoked-extreme-bodybuilding.json) |
@@ -8627,6 +8628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrappleApp | 107002 | [107002-grappleapp.json](./107002-grappleapp.json) |
 | GrappleBurger | 374383 | [374383-grappleburger.json](./374383-grappleburger.json) |
 | Grappledrome | 36453 | [36453-grappledrome.json](./36453-grappledrome.json) |
+| Grapplehook Midpoint Teleport Killer | 418097 | [418097-grapplehook-midpoint-teleport-killer.json](./418097-grapplehook-midpoint-teleport-killer.json) |
 | Grapplers: Relic Rivals | 297860 | [297860-grapplers-relic-rivals.json](./297860-grapplers-relic-rivals.json) |
 | Grapples Galore: Cosmetics Pack 2 | 293440 | [293440-grapples-galore-cosmetics-pack-2.json](./293440-grapples-galore-cosmetics-pack-2.json) |
 | Grapples Galore: Hat Pack 1 | 293439 | [293439-grapples-galore-hat-pack-1.json](./293439-grapples-galore-hat-pack-1.json) |
@@ -10955,6 +10957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilded Fools | 421809 | [421809-guilded-fools.json](./421809-guilded-fools.json) |
 | Guilded Hearts | 214037 | [214037-guilded-hearts.json](./214037-guilded-hearts.json) |
 | Guilded Youth | 172506 | [172506-guilded-youth.json](./172506-guilded-youth.json) |
+| Guildfall Heroes | 418066 | [418066-guildfall-heroes.json](./418066-guildfall-heroes.json) |
 | Guildfire | 423294 | [423294-guildfire.json](./423294-guildfire.json) |
 | Guildford Castle VR | 268043 | [268043-guildford-castle-vr.json](./268043-guildford-castle-vr.json) |
 | Guildlings | 96257 | [96257-guildlings.json](./96257-guildlings.json) |
