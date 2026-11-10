@@ -6761,6 +6761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikachu | 247269 | [247269-pikachu.json](./247269-pikachu.json) |
 | Pikachu Teeth Problem | 380551 | [380551-pikachu-teeth-problem.json](./380551-pikachu-teeth-problem.json) |
 | Pikachu Volleyball | 349641 | [349641-pikachu-volleyball.json](./349641-pikachu-volleyball.json) |
+| Pikapo | 427834 | [427834-pikapo.json](./427834-pikapo.json) |
 | Pikari Walk | 230503 | [230503-pikari-walk.json](./230503-pikari-walk.json) |
 | Pike & Shot | 368998 | [368998-pike-and-shot.json](./368998-pike-and-shot.json) |
 | Pike: Operacija Gromoverzhec | 72306 | [72306-pike-operacija-gromoverzhec.json](./72306-pike-operacija-gromoverzhec.json) |
