@@ -1128,8 +1128,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bag Boy Memory | 204209 | [204209-bag-boy-memory.json](./204209-bag-boy-memory.json) |
 | Bag Closure | 137975 | [137975-bag-closure.json](./137975-bag-closure.json) |
 | Bag Fight | 402299 | [402299-bag-fight.json](./402299-bag-fight.json) |
+| Bag Fight: Gem Chest Edition | 402611 | [402611-bag-fight-gem-chest-edition.json](./402611-bag-fight-gem-chest-edition.json) |
 | Bag Fight: Gem Satchel Edition | 412589 | [412589-bag-fight-gem-satchel-edition.json](./412589-bag-fight-gem-satchel-edition.json) |
 | Bag Fight: Handful Edition | 410852 | [410852-bag-fight-handful-edition.json](./410852-bag-fight-handful-edition.json) |
+| Bag Fight: Newman Pack | 402600 | [402600-bag-fight-newman-pack.json](./402600-bag-fight-newman-pack.json) |
+| Bag Fight: Speed Up Edition | 402605 | [402605-bag-fight-speed-up-edition.json](./402605-bag-fight-speed-up-edition.json) |
 | Bag Game | 411696 | [411696-bag-game.json](./411696-bag-game.json) |
 | Bag Hero | 345985 | [345985-bag-hero.json](./345985-bag-hero.json) |
 | Bag of Dreams | 381292 | [381292-bag-of-dreams.json](./381292-bag-of-dreams.json) |
@@ -2484,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
 | Barbarous: Family Secrets | 277263 | [277263-barbarous-family-secrets.json](./277263-barbarous-family-secrets.json) |
 | Barbarous: Survivor's Quest | 401104 | [401104-barbarous-survivors-quest.json](./401104-barbarous-survivors-quest.json) |
+| Barbarous: Survivor's Quest - Complete Edition | 402606 | [402606-barbarous-survivors-quest-complete-edition.json](./402606-barbarous-survivors-quest-complete-edition.json) |
 | Barbarous: Survivor's Quest - Hex Edition | 409957 | [409957-barbarous-survivors-quest-hex-edition.json](./409957-barbarous-survivors-quest-hex-edition.json) |
 | Barbarous: Survivor's Quest - Spell Edition | 409959 | [409959-barbarous-survivors-quest-spell-edition.json](./409959-barbarous-survivors-quest-spell-edition.json) |
 | Barbarous: Tavern of Emyr | 126471 | [126471-barbarous-tavern-of-emyr.json](./126471-barbarous-tavern-of-emyr.json) |
@@ -12856,6 +12860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodycam Shooter | 317436 | [317436-bodycam-shooter.json](./317436-bodycam-shooter.json) |
 | Bodycam Shooter 2025 | 330807 | [330807-bodycam-shooter-2025.json](./330807-bodycam-shooter-2025.json) |
 | Bodycam Stray Kitty | 349576 | [349576-bodycam-stray-kitty.json](./349576-bodycam-stray-kitty.json) |
+| Bodycam Stray Kitty: Gold Edition | 402610 | [402610-bodycam-stray-kitty-gold-edition.json](./402610-bodycam-stray-kitty-gold-edition.json) |
 | Bodycam Unrecord Shooter | 323681 | [323681-bodycam-unrecord-shooter.json](./323681-bodycam-unrecord-shooter.json) |
 | Bodycam Zombie Shooter | 323632 | [323632-bodycam-zombie-shooter.json](./323632-bodycam-zombie-shooter.json) |
 | BodyCam Zombie Waves | 343495 | [343495-bodycam-zombie-waves.json](./343495-bodycam-zombie-waves.json) |
@@ -14033,6 +14038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booze Masters: Freezing Moonshine | 266821 | [266821-booze-masters-freezing-moonshine.json](./266821-booze-masters-freezing-moonshine.json) |
 | Booze Shop Simulator | 344233 | [344233-booze-shop-simulator.json](./344233-booze-shop-simulator.json) |
 | BoozeBall | 219726 | [219726-boozeball.json](./219726-boozeball.json) |
+| Boozerker | 402589 | [402589-boozerker.json](./402589-boozerker.json) |
 | Boozy Dwarf | 30329 | [30329-boozy-dwarf.json](./30329-boozy-dwarf.json) |
 | Bop A Dork | 232587 | [232587-bop-a-dork.json](./232587-bop-a-dork.json) |
 | Bop It! Tetris | 229069 | [229069-bop-it-tetris.json](./229069-bop-it-tetris.json) |
@@ -17906,6 +17912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Off-Road Racing: Deluxe Edition | 308799 | [308799-buggy-off-road-racing-deluxe-edition.json](./308799-buggy-off-road-racing-deluxe-edition.json) |
 | Buggy Off-Road Racing: Epic Edition | 409960 | [409960-buggy-off-road-racing-epic-edition.json](./409960-buggy-off-road-racing-epic-edition.json) |
 | Buggy Off-Road Racing: Hyper Edition | 411180 | [411180-buggy-off-road-racing-hyper-edition.json](./411180-buggy-off-road-racing-hyper-edition.json) |
+| Buggy Off-Road Racing: Master Edition | 402608 | [402608-buggy-off-road-racing-master-edition.json](./402608-buggy-off-road-racing-master-edition.json) |
 | Buggy Off-Road Racing: Max Edition | 413578 | [413578-buggy-off-road-racing-max-edition.json](./413578-buggy-off-road-racing-max-edition.json) |
 | Buggy Off-Road Racing: Platinum Edition | 317262 | [317262-buggy-off-road-racing-platinum-edition.json](./317262-buggy-off-road-racing-platinum-edition.json) |
 | Buggy Off-Road Racing: Supreme Edition | 407115 | [407115-buggy-off-road-racing-supreme-edition.json](./407115-buggy-off-road-racing-supreme-edition.json) |
