@@ -2913,6 +2913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passengers of Execution | 143743 | [143743-passengers-of-execution.json](./143743-passengers-of-execution.json) |
 | Passengers on the Wind | 15335 | [15335-passengers-on-the-wind.json](./15335-passengers-on-the-wind.json) |
 | Passengers on the Wind II | 37173 | [37173-passengers-on-the-wind-ii.json](./37173-passengers-on-the-wind-ii.json) |
+| Passengers: Awakening | 29342 | [29342-passengers-awakening.json](./29342-passengers-awakening.json) |
 | Passeport du CE2 au CM1 | 376072 | [376072-passeport-du-ce2-au-cm1.json](./376072-passeport-du-ce2-au-cm1.json) |
 | Passer | 351394 | [351394-passer.json](./351394-passer.json) |
 | Passerines in End Times | 383193 | [383193-passerines-in-end-times.json](./383193-passerines-in-end-times.json) |
@@ -6063,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phrase Master | 93332 | [93332-phrase-master.json](./93332-phrase-master.json) |
 | Phrase Party! | 95916 | [95916-phrase-party.json](./95916-phrase-party.json) |
 | Phrase Passport Japan A Travel Japanese Quiz | 407270 | [407270-phrase-passport-japan-a-travel-japanese-quiz.json](./407270-phrase-passport-japan-a-travel-japanese-quiz.json) |
+| Phrase Shift | 31145 | [31145-phrase-shift.json](./31145-phrase-shift.json) |
 | Phrased Out | 185740 | [185740-phrased-out.json](./185740-phrased-out.json) |
 | Phrasefight | 106115 | [106115-phrasefight.json](./106115-phrasefight.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
