@@ -3107,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpathian Survival | 315263 | [315263-carpathian-survival.json](./315263-carpathian-survival.json) |
 | Carpe Diem | 33949 | [33949-carpe-diem.json](./33949-carpe-diem.json) |
 | Carpe Diem Project | 226297 | [226297-carpe-diem-project.json](./226297-carpe-diem-project.json) |
+| Carpe Diem: Reboot | 58360 | [58360-carpe-diem-reboot.json](./58360-carpe-diem-reboot.json) |
 | Carpe Dino: Seize the Date | 302906 | [302906-carpe-dino-seize-the-date.json](./302906-carpe-dino-seize-the-date.json) |
 | Carpe Noctem | 309372 | [309372-carpe-noctem.json](./309372-carpe-noctem.json) |
 | Carpenter Genzo: Robot Empire | 55937 | [55937-carpenter-genzo-robot-empire.json](./55937-carpenter-genzo-robot-empire.json) |
@@ -3329,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network Racing | 2785 | [2785-cartoon-network-racing.json](./2785-cartoon-network-racing.json) |
 | Cartoon Network Racing | 289039 | [289039-cartoon-network-racing.json](./289039-cartoon-network-racing.json) |
 | Cartoon Network Speedway | 2810 | [2810-cartoon-network-speedway.json](./2810-cartoon-network-speedway.json) |
+| Cartoon Network Superstar Soccer: Goal!!! | 57738 | [57738-cartoon-network-superstar-soccer-goal.json](./57738-cartoon-network-superstar-soccer-goal.json) |
 | Cartoon Network TKO | 234704 | [234704-cartoon-network-tko.json](./234704-cartoon-network-tko.json) |
 | Cartoon Network Universe: FusionFall | 2811 | [2811-cartoon-network-universe-fusionfall.json](./2811-cartoon-network-universe-fusionfall.json) |
 | Cartoon Network Universe: Project Exonaut | 210353 | [210353-cartoon-network-universe-project-exonaut.json](./210353-cartoon-network-universe-project-exonaut.json) |
@@ -17796,6 +17798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy School Simulator | 114228 | [114228-crazy-school-simulator.json](./114228-crazy-school-simulator.json) |
 | Crazy School: Schulverweis! | 327219 | [327219-crazy-school-schulverweis.json](./327219-crazy-school-schulverweis.json) |
 | Crazy Science: Long Run | 95628 | [95628-crazy-science-long-run.json](./95628-crazy-science-long-run.json) |
+| Crazy Scientist | 59140 | [59140-crazy-scientist.json](./59140-crazy-scientist.json) |
 | Crazy Seahorses | 241348 | [241348-crazy-seahorses.json](./241348-crazy-seahorses.json) |
 | Crazy Seasons | 12553 | [12553-crazy-seasons.json](./12553-crazy-seasons.json) |
 | Crazy Shark | 203799 | [203799-crazy-shark.json](./203799-crazy-shark.json) |
@@ -21867,6 +21870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg | 18748 | [18748-cyborg.json](./18748-cyborg.json) |
 | Cyborg 009 | 45871 | [45871-cyborg-009.json](./45871-cyborg-009.json) |
 | Cyborg 009 | 84111 | [84111-cyborg-009.json](./84111-cyborg-009.json) |
+| Cyborg Arena | 59228 | [59228-cyborg-arena.json](./59228-cyborg-arena.json) |
 | Cyborg Arena 2 | 368432 | [368432-cyborg-arena-2.json](./368432-cyborg-arena-2.json) |
 | Cyborg City | 339359 | [339359-cyborg-city.json](./339359-cyborg-city.json) |
 | Cyborg Detonator | 32984 | [32984-cyborg-detonator.json](./32984-cyborg-detonator.json) |
