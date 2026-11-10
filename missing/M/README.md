@@ -12718,6 +12718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Trap | 98378 | [98378-mind-trap.json](./98378-mind-trap.json) |
 | Mind Twins | 81832 | [81832-mind-twins.json](./81832-mind-twins.json) |
 | Mind Twist | 378766 | [378766-mind-twist.json](./378766-mind-twist.json) |
+| Mind Unleashed | 19014 | [19014-mind-unleashed.json](./19014-mind-unleashed.json) |
 | Mind VR Exploration | 168110 | [168110-mind-vr-exploration.json](./168110-mind-vr-exploration.json) |
 | Mind Walker | 26379 | [26379-mind-walker.json](./26379-mind-walker.json) |
 | Mind War | 267269 | [267269-mind-war.json](./267269-mind-war.json) |
