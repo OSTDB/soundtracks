@@ -21508,6 +21508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Tomb | 102957 | [102957-through-the-tomb.json](./102957-through-the-tomb.json) |
 | Through the Trap Door | 54718 | [54718-through-the-trap-door.json](./54718-through-the-trap-door.json) |
 | Through the Veil | 319291 | [319291-through-the-veil.json](./319291-through-the-veil.json) |
+| Through the Void: Echoes | 424848 | [424848-through-the-void-echoes.json](./424848-through-the-void-echoes.json) |
 | Through the Wall | 339294 | [339294-through-the-wall.json](./339294-through-the-wall.json) |
 | Through the Woods: Collector's Edition | 51920 | [51920-through-the-woods-collectors-edition.json](./51920-through-the-woods-collectors-edition.json) |
 | Through the Woods: Digital Collector's Edition | 53798 | [53798-through-the-woods-digital-collectors-edition.json](./53798-through-the-woods-digital-collectors-edition.json) |
@@ -24971,6 +24972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titans Black Ops | 165596 | [165596-titans-black-ops.json](./165596-titans-black-ops.json) |
 | Titans Clinic | 329062 | [329062-titans-clinic.json](./329062-titans-clinic.json) |
 | Titans Clinic VR | 252105 | [252105-titans-clinic-vr.json](./252105-titans-clinic-vr.json) |
+| Titans Most Wanted | 424832 | [424832-titans-most-wanted.json](./424832-titans-most-wanted.json) |
 | Titans of Space Plus | 32676 | [32676-titans-of-space-plus.json](./32676-titans-of-space-plus.json) |
 | Titans of Steel: Warring Suns | 69841 | [69841-titans-of-steel-warring-suns.json](./69841-titans-of-steel-warring-suns.json) |
 | Titans of the Past | 340565 | [340565-titans-of-the-past.json](./340565-titans-of-the-past.json) |
@@ -35249,6 +35251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
 | Typing Tales | 373004 | [373004-typing-tales.json](./373004-typing-tales.json) |
 | Typing Warrior | 134563 | [134563-typing-warrior.json](./134563-typing-warrior.json) |
+| Typing with Ghostie | 424819 | [424819-typing-with-ghostie.json](./424819-typing-with-ghostie.json) |
 | Typing with Jester | 32239 | [32239-typing-with-jester.json](./32239-typing-with-jester.json) |
 | Typing with Sharks | 150832 | [150832-typing-with-sharks.json](./150832-typing-with-sharks.json) |
 | Typingcommand | 317412 | [317412-typingcommand.json](./317412-typingcommand.json) |
