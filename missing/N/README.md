@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neco Drop 2 | 145351 | [145351-neco-drop-2.json](./145351-neco-drop-2.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
 | Necomen | 359550 | [359550-necomen.json](./359550-necomen.json) |
+| NecOrcMancer | 401996 | [401996-necorcmancer.json](./401996-necorcmancer.json) |
 | Necore Tower: Redux Edition | 176076 | [176076-necore-tower-redux-edition.json](./176076-necore-tower-redux-edition.json) |
 | Necore Warriors | 197171 | [197171-necore-warriors.json](./197171-necore-warriors.json) |
 | NECR: Chain Reaction Physics | 395779 | [395779-necr-chain-reaction-physics.json](./395779-necr-chain-reaction-physics.json) |
