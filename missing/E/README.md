@@ -8319,6 +8319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expand | 18474 | [18474-expand.json](./18474-expand.json) |
 | Expand & Exterminate: Terrytorial Disputes - Endless Base Defense | 367935 | [367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json](./367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json) |
 | Expand It! HD | 175554 | [175554-expand-it-hd.json](./175554-expand-it-hd.json) |
+| Expand TD | 422390 | [422390-expand-td.json](./422390-expand-td.json) |
 | Expandaball | 394809 | [394809-expandaball.json](./394809-expandaball.json) |
 | Expander | 34256 | [34256-expander.json](./34256-expander.json) |
 | Expanse | 343772 | [343772-expanse.json](./343772-expanse.json) |
