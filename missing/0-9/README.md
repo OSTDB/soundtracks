@@ -259,6 +259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 007 Legends: Eve | 28725 | [28725-007-legends-eve.json](./28725-007-legends-eve.json) |
 | 007 Legends: Patrice | 28726 | [28726-007-legends-patrice.json](./28726-007-legends-patrice.json) |
 | 007 Legends: Skyfall | 110398 | [110398-007-legends-skyfall.json](./110398-007-legends-skyfall.json) |
+| 007: Everything or Nothing - XBE Recomp | 426038 | [426038-007-everything-or-nothing-xbe-recomp.json](./426038-007-everything-or-nothing-xbe-recomp.json) |
 | 007: Licence to Spell Doom | 312971 | [312971-007-licence-to-spell-doom.json](./312971-007-licence-to-spell-doom.json) |
 | 007: Quantum of Solace | 156079 | [156079-007-quantum-of-solace.json](./156079-007-quantum-of-solace.json) |
 | 007: Quantum of Solace - Collector's Edition | 47468 | [47468-007-quantum-of-solace-collectors-edition.json](./47468-007-quantum-of-solace-collectors-edition.json) |
@@ -1203,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Letters: Deluxe Edition | 100897 | [100897-13-letters-deluxe-edition.json](./100897-13-letters-deluxe-edition.json) |
 | 13 Masca | 405725 | [405725-13-masca.json](./405725-13-masca.json) |
 | 13 Minutes of Light | 98413 | [98413-13-minutes-of-light.json](./98413-13-minutes-of-light.json) |
+| 13 Nights in the Mortuary | 426079 | [426079-13-nights-in-the-mortuary.json](./426079-13-nights-in-the-mortuary.json) |
 | 13 Page | 201304 | [201304-13-page.json](./201304-13-page.json) |
 | 13 Playing Cards of Demon | 264166 | [264166-13-playing-cards-of-demon.json](./264166-13-playing-cards-of-demon.json) |
 | 13 Puzzle Rooms | 134374 | [134374-13-puzzle-rooms.json](./134374-13-puzzle-rooms.json) |
