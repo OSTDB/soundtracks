@@ -32405,6 +32405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribocalypse VR | 31497 | [31497-tribocalypse-vr.json](./31497-tribocalypse-vr.json) |
 | Tribond | 206075 | [206075-tribond.json](./206075-tribond.json) |
 | Triboo | 85455 | [85455-triboo.json](./85455-triboo.json) |
+| Tribots | 404585 | [404585-tribots.json](./404585-tribots.json) |
 | Tribulation | 160105 | [160105-tribulation.json](./160105-tribulation.json) |
 | Tribulation Knights | 67176 | [67176-tribulation-knights.json](./67176-tribulation-knights.json) |
 | Tribulum | 410983 | [410983-tribulum.json](./410983-tribulum.json) |
@@ -34243,6 +34244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Granny | 396982 | [396982-turbo-granny.json](./396982-turbo-granny.json) |
 | Turbo Grid | 236981 | [236981-turbo-grid.json](./236981-turbo-grid.json) |
 | Turbo GT | 94635 | [94635-turbo-gt.json](./94635-turbo-gt.json) |
+| Turbo Hatchback Time Attack | 404574 | [404574-turbo-hatchback-time-attack.json](./404574-turbo-hatchback-time-attack.json) |
 | Turbo Hills | 409299 | [409299-turbo-hills.json](./409299-turbo-hills.json) |
 | Turbo Hovercraft | 359418 | [359418-turbo-hovercraft.json](./359418-turbo-hovercraft.json) |
 | Turbo Hyper Drive | 372764 | [372764-turbo-hyper-drive.json](./372764-turbo-hyper-drive.json) |
@@ -34324,6 +34326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurbOT Racing | 95204 | [95204-turbot-racing.json](./95204-turbot-racing.json) |
 | Turbotron | 184567 | [184567-turbotron.json](./184567-turbotron.json) |
 | Turbotz Testing 20XX | 329299 | [329299-turbotz-testing-20xx.json](./329299-turbotz-testing-20xx.json) |
+| Turbozod | 405113 | [405113-turbozod.json](./405113-turbozod.json) |
 | Turbulence: Airplane Survival Simulator | 161754 | [161754-turbulence-airplane-survival-simulator.json](./161754-turbulence-airplane-survival-simulator.json) |
 | Turdy | 172195 | [172195-turdy.json](./172195-turdy.json) |
 | Turf | 61590 | [61590-turf.json](./61590-turf.json) |
