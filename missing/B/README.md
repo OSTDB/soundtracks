@@ -1009,7 +1009,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1672,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball vs. Zombie | 239102 | [239102-ball-vs-zombie.json](./239102-ball-vs-zombie.json) |
 | Ball Wall | 246864 | [246864-ball-wall.json](./246864-ball-wall.json) |
 | Ball With Pistons | 204807 | [204807-ball-with-pistons.json](./204807-ball-with-pistons.json) |
+| Ball X Pit: The Shadow Update | 400629 | [400629-ball-x-pit-the-shadow-update.json](./400629-ball-x-pit-the-shadow-update.json) |
 | Ball-e | 229823 | [229823-ball-e.json](./229823-ball-e.json) |
 | Ball-Hop Bowling | 95015 | [95015-ball-hop-bowling.json](./95015-ball-hop-bowling.json) |
 | Ball-istic | 258436 | [258436-ball-istic.json](./258436-ball-istic.json) |
@@ -4981,6 +4981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Hunted | 143531 | [143531-be-hunted.json](./143531-be-hunted.json) |
 | Be Kind Rewind | 411148 | [411148-be-kind-rewind.json](./411148-be-kind-rewind.json) |
 | Be Kind To Yourself | 328241 | [328241-be-kind-to-yourself.json](./328241-be-kind-to-yourself.json) |
+| Be Kinder and, Like, Be a Rewinder, Dude! | 400047 | [400047-be-kinder-and-like-be-a-rewinder-dude.json](./400047-be-kinder-and-like-be-a-rewinder-dude.json) |
 | Be King | 254142 | [254142-be-king.json](./254142-be-king.json) |
 | Be King | 372786 | [372786-be-king.json](./372786-be-king.json) |
 | Be Like Pac-Man and the Ghostly Adventures | 185672 | [185672-be-like-pac-man-and-the-ghostly-adventures.json](./185672-be-like-pac-man-and-the-ghostly-adventures.json) |
@@ -9591,6 +9592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Mesa: Route to Evacuation - Part 1 | 374376 | [374376-black-mesa-route-to-evacuation-part-1.json](./374376-black-mesa-route-to-evacuation-part-1.json) |
 | Black Mesa: Xen | 229858 | [229858-black-mesa-xen.json](./229858-black-mesa-xen.json) |
 | Black Metal | 201380 | [201380-black-metal.json](./201380-black-metal.json) |
+| Black Metal | 400636 | [400636-black-metal.json](./400636-black-metal.json) |
 | Black Metal Man 2 | 197686 | [197686-black-metal-man-2.json](./197686-black-metal-man-2.json) |
 | Black Mirror | 54699 | [54699-black-mirror.json](./54699-black-mirror.json) |
 | Black Mirror III: Final Fear | 10049 | [10049-black-mirror-iii-final-fear.json](./10049-black-mirror-iii-final-fear.json) |
@@ -9629,6 +9631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Paradox | 104866 | [104866-black-paradox.json](./104866-black-paradox.json) |
 | Black Paradox Reloaded | 349393 | [349393-black-paradox-reloaded.json](./349393-black-paradox-reloaded.json) |
 | Black Parallax | 395206 | [395206-black-parallax.json](./395206-black-parallax.json) |
+| Black Parodius | 400638 | [400638-black-parodius.json](./400638-black-parodius.json) |
 | Black Pellet | 377784 | [377784-black-pellet.json](./377784-black-pellet.json) |
 | Black Pencil | 417944 | [417944-black-pencil.json](./417944-black-pencil.json) |
 | Black Penguin | 92958 | [92958-black-penguin.json](./92958-black-penguin.json) |
@@ -11614,6 +11617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Magic | 121569 | [121569-blood-magic.json](./121569-blood-magic.json) |
 | Blood Mall | 344852 | [344852-blood-mall.json](./344852-blood-mall.json) |
 | Blood Mall: Part II | 380553 | [380553-blood-mall-part-ii.json](./380553-blood-mall-part-ii.json) |
+| Blood Mall: Retaped | 400039 | [400039-blood-mall-retaped.json](./400039-blood-mall-retaped.json) |
 | Blood Maniac | 125265 | [125265-blood-maniac.json](./125265-blood-maniac.json) |
 | Blood Memery | 114948 | [114948-blood-memery.json](./114948-blood-memery.json) |
 | Blood Message | 350503 | [350503-blood-message.json](./350503-blood-message.json) |
@@ -12594,6 +12598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board Battlefield | 83186 | [83186-board-battlefield.json](./83186-board-battlefield.json) |
 | Board Defenders | 31648 | [31648-board-defenders.json](./31648-board-defenders.json) |
 | Board Fight | 169314 | [169314-board-fight.json](./169314-board-fight.json) |
+| Board Forge | 400645 | [400645-board-forge.json](./400645-board-forge.json) |
 | Board Game Cafe | 293522 | [293522-board-game-cafe.json](./293522-board-game-cafe.json) |
 | Board Game Classics | 19111 | [19111-board-game-classics.json](./19111-board-game-classics.json) |
 | Board Game Collection | 100743 | [100743-board-game-collection.json](./100743-board-game-collection.json) |
