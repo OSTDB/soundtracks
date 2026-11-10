@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10-Day Champion | 319123 | [319123-10-day-champion.json](./319123-10-day-champion.json) |
 | 10-in-1 Christmas Collection | 325891 | [325891-10-in-1-christmas-collection.json](./325891-10-in-1-christmas-collection.json) |
 | 10-in-1 Games Bundle for Kids & Toddlers | 324219 | [324219-10-in-1-games-bundle-for-kids-and-toddlers.json](./324219-10-in-1-games-bundle-for-kids-and-toddlers.json) |
+| 10-in-1: Arcade Collection | 84612 | [84612-10-in-1-arcade-collection.json](./84612-10-in-1-arcade-collection.json) |
 | 10-Lignes 4en1 by retropoke | 267215 | [267215-10-lignes-4en1-by-retropoke.json](./267215-10-lignes-4en1-by-retropoke.json) |
 | 10-Pin Bowling | 153453 | [153453-10-pin-bowling.json](./153453-10-pin-bowling.json) |
 | 10-Pin Bowling | 92273 | [92273-10-pin-bowling.json](./92273-10-pin-bowling.json) |
@@ -2435,6 +2436,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Classics: Kid Icarus | 84616 | [84616-3d-classics-kid-icarus.json](./84616-3d-classics-kid-icarus.json) |
 | 3D Classics: Kirby's Adventure | 84617 | [84617-3d-classics-kirbys-adventure.json](./84617-3d-classics-kirbys-adventure.json) |
 | 3D Classics: TwinBee | 84618 | [84618-3d-classics-twinbee.json](./84618-3d-classics-twinbee.json) |
+| 3D Classics: Urban Champion | 84619 | [84619-3d-classics-urban-champion.json](./84619-3d-classics-urban-champion.json) |
+| 3D Classics: Xevious | 84665 | [84665-3d-classics-xevious.json](./84665-3d-classics-xevious.json) |
 | 3D Color Labyrinth | 282158 | [282158-3d-color-labyrinth.json](./282158-3d-color-labyrinth.json) |
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
 | 3D Columns | 205835 | [205835-3d-columns.json](./205835-3d-columns.json) |
@@ -2484,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Grand Prix | 152608 | [152608-3d-grand-prix.json](./152608-3d-grand-prix.json) |
 | 3D Gravity Rocket | 102974 | [102974-3d-gravity-rocket.json](./102974-3d-gravity-rocket.json) |
 | 3D Gunner | 128551 | [128551-3d-gunner.json](./128551-3d-gunner.json) |
+| 3D Gunstar Heroes | 84662 | [84662-3d-gunstar-heroes.json](./84662-3d-gunstar-heroes.json) |
 | 3D Hardcore Cube | 55329 | [55329-3d-hardcore-cube.json](./55329-3d-hardcore-cube.json) |
 | 3D Havoc | 11110 | [11110-3d-havoc.json](./11110-3d-havoc.json) |
 | 3D Hearts Deluxe | 205937 | [205937-3d-hearts-deluxe.json](./205937-3d-hearts-deluxe.json) |
@@ -2513,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Mahjong | 65552 | [65552-3d-mahjong.json](./65552-3d-mahjong.json) |
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
 | 3D Mahjong Deluxe | 338903 | [338903-3d-mahjong-deluxe.json](./338903-3d-mahjong-deluxe.json) |
+| 3D MahJongg | 84661 | [84661-3d-mahjongg.json](./84661-3d-mahjongg.json) |
 | 3D Mania | 79028 | [79028-3d-mania.json](./79028-3d-mania.json) |
 | 3D Marble Flip | 71437 | [71437-3d-marble-flip.json](./71437-3d-marble-flip.json) |
 | 3D Maze | 382548 | [382548-3d-maze.json](./382548-3d-maze.json) |
@@ -2651,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Tank Attack | 217642 | [217642-3d-tank-attack.json](./217642-3d-tank-attack.json) |
 | 3D Tanx | 93378 | [93378-3d-tanx.json](./93378-3d-tanx.json) |
 | 3D Tennis | 260858 | [260858-3d-tennis.json](./260858-3d-tennis.json) |
+| 3D Thunder Blade | 84681 | [84681-3d-thunder-blade.json](./84681-3d-thunder-blade.json) |
 | 3D Thunder Ceptor II | 146255 | [146255-3d-thunder-ceptor-ii.json](./146255-3d-thunder-ceptor-ii.json) |
 | 3D Thunder Force III | 202924 | [202924-3d-thunder-force-iii.json](./202924-3d-thunder-force-iii.json) |
 | 3D Tic Tac Toe | 366976 | [366976-3d-tic-tac-toe.json](./366976-3d-tic-tac-toe.json) |
