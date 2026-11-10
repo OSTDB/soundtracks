@@ -11005,6 +11005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Season Pass 1 | 254962 | [254962-guilty-gear-strive-season-pass-1.json](./254962-guilty-gear-strive-season-pass-1.json) |
 | Guilty Gear: Strive - Season Pass 2 | 254967 | [254967-guilty-gear-strive-season-pass-2.json](./254967-guilty-gear-strive-season-pass-2.json) |
 | Guilty Gear: Strive - Season Pass 4 | 309271 | [309271-guilty-gear-strive-season-pass-4.json](./309271-guilty-gear-strive-season-pass-4.json) |
+| Guilty Gear: Strive - Season Pass 5 | 397773 | [397773-guilty-gear-strive-season-pass-5.json](./397773-guilty-gear-strive-season-pass-5.json) |
 | Guilty Gear: Strive - Special Colors for Sol and Ky | 254507 | [254507-guilty-gear-strive-special-colors-for-sol-and-ky.json](./254507-guilty-gear-strive-special-colors-for-sol-and-ky.json) |
 | Guilty Gear: Strive - Ultimate Edition | 139986 | [139986-guilty-gear-strive-ultimate-edition.json](./139986-guilty-gear-strive-ultimate-edition.json) |
 | Guilty Gear: Strive - Ultimate Edition 2022 | 255116 | [255116-guilty-gear-strive-ultimate-edition-2022.json](./255116-guilty-gear-strive-ultimate-edition-2022.json) |
