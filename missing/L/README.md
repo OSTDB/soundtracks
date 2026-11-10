@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lara Croft and the Temple of Osiris: Twisted Gears Pack | 226873 | [226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json](./226873-lara-croft-and-the-temple-of-osiris-twisted-gears-pack.json) |
 | Lara Croft Go | 11592 | [11592-lara-croft-go.json](./11592-lara-croft-go.json) |
 | Lara Croft: Reflections | 62481 | [62481-lara-croft-reflections.json](./62481-lara-croft-reflections.json) |
+| Lara Croft: Relic Run | 15384 | [15384-lara-croft-relic-run.json](./15384-lara-croft-relic-run.json) |
 | Lara Croft: The Last Plague | 252531 | [252531-lara-croft-the-last-plague.json](./252531-lara-croft-the-last-plague.json) |
 | Lara Croft's Poker Party | 299543 | [299543-lara-crofts-poker-party.json](./299543-lara-crofts-poker-party.json) |
 | Lara Gates: The Lost Talisman Hidden Object Game | 144761 | [144761-lara-gates-the-lost-talisman-hidden-object-game.json](./144761-lara-gates-the-lost-talisman-hidden-object-game.json) |
@@ -3561,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemmings 2: The Tribes | 243941 | [243941-lemmings-2-the-tribes.json](./243941-lemmings-2-the-tribes.json) |
 | Lemmings 2: The Tribes | 245307 | [245307-lemmings-2-the-tribes.json](./245307-lemmings-2-the-tribes.json) |
 | Lemmings 2: The Tribes | 8307 | [8307-lemmings-2-the-tribes.json](./8307-lemmings-2-the-tribes.json) |
+| Lemmings 3D | 13779 | [13779-lemmings-3d.json](./13779-lemmings-3d.json) |
 | Lemmings Paintball | 13780 | [13780-lemmings-paintball.json](./13780-lemmings-paintball.json) |
 | Lemmings Return | 240377 | [240377-lemmings-return.json](./240377-lemmings-return.json) |
 | Lemmings Touch | 23494 | [23494-lemmings-touch.json](./23494-lemmings-touch.json) |
