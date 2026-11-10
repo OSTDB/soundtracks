@@ -4045,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4921,6 +4922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Indie Collection: Vol. 5 | 82454 | [82454-instant-indie-collection-vol-5.json](./82454-instant-indie-collection-vol-5.json) |
 | Instant Sports | 123331 | [123331-instant-sports.json](./123331-instant-sports.json) |
 | Instant Sports + | 191350 | [191350-instant-sports.json](./191350-instant-sports.json) |
+| Instant Sports 2 | 397676 | [397676-instant-sports-2.json](./397676-instant-sports-2.json) |
 | Instant Sports Paradise | 154788 | [154788-instant-sports-paradise.json](./154788-instant-sports-paradise.json) |
 | Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Instant Sports Summer Games | 139969 | [139969-instant-sports-summer-games.json](./139969-instant-sports-summer-games.json) |
@@ -6421,6 +6423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai Training | 374346 | [374346-isekai-training.json](./374346-isekai-training.json) |
 | Isekai Truck Driver | 296941 | [296941-isekai-truck-driver.json](./296941-isekai-truck-driver.json) |
 | Isekai Valley | 296944 | [296944-isekai-valley.json](./296944-isekai-valley.json) |
+| Isekai Villain | 402304 | [402304-isekai-villain.json](./402304-isekai-villain.json) |
 | Isekai x Isekai: Tsugi ha Dono Sakuhin wo | 367445 | [367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json](./367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json) |
 | Isekai-ya | 321269 | [321269-isekai-ya.json](./321269-isekai-ya.json) |
 | Isekai: I'm an FPS Hero Who Was Summoned to Another World | 348287 | [348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json](./348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json) |
