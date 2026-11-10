@@ -3868,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortex Raider | 416723 | [416723-vortex-raider.json](./416723-vortex-raider.json) |
 | Vortex Rising | 133550 | [133550-vortex-rising.json](./133550-vortex-rising.json) |
 | Vortex Rolling | 152743 | [152743-vortex-rolling.json](./152743-vortex-rolling.json) |
+| Vortex Royale | 427220 | [427220-vortex-royale.json](./427220-vortex-royale.json) |
 | Vortex Rush | 98706 | [98706-vortex-rush.json](./98706-vortex-rush.json) |
 | Vortex: The Gateway | 34348 | [34348-vortex-the-gateway.json](./34348-vortex-the-gateway.json) |
 | Vortexika | 232612 | [232612-vortexika.json](./232612-vortexika.json) |
@@ -4236,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR RV | 99077 | [99077-vr-rv.json](./99077-vr-rv.json) |
 | VR Sailing | 338561 | [338561-vr-sailing.json](./338561-vr-sailing.json) |
 | VR Sand | 115150 | [115150-vr-sand.json](./115150-vr-sand.json) |
+| VR Sandbox | 427254 | [427254-vr-sandbox.json](./427254-vr-sandbox.json) |
 | VR Scape | 38790 | [38790-vr-scape.json](./38790-vr-scape.json) |
 | VR Secretary: Ailey Edition | 338560 | [338560-vr-secretary-ailey-edition.json](./338560-vr-secretary-ailey-edition.json) |
 | VR Shark | 156988 | [156988-vr-shark.json](./156988-vr-shark.json) |
