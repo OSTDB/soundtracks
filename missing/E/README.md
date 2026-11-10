@@ -6549,6 +6549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ether Quest | 97283 | [97283-ether-quest.json](./97283-ether-quest.json) |
 | Ether Saga Online | 51195 | [51195-ether-saga-online.json](./51195-ether-saga-online.json) |
 | Ether Vapor | 72588 | [72588-ether-vapor.json](./72588-ether-vapor.json) |
+| Ether Vapor Remaster | 10280 | [10280-ether-vapor-remaster.json](./10280-ether-vapor-remaster.json) |
 | Ether Versus | 262831 | [262831-ether-versus.json](./262831-ether-versus.json) |
 | Ether Void | 384030 | [384030-ether-void.json](./384030-ether-void.json) |
 | Etheral | 292971 | [292971-etheral.json](./292971-etheral.json) |
@@ -6748,6 +6749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EuroDrive | 414570 | [414570-eurodrive.json](./414570-eurodrive.json) |
 | EuroDrive: Bosnia And Herzegovina | 413823 | [413823-eurodrive-bosnia-and-herzegovina.json](./413823-eurodrive-bosnia-and-herzegovina.json) |
 | EuroDrive: Greece | 413822 | [413822-eurodrive-greece.json](./413822-eurodrive-greece.json) |
+| Eurofighter Typhoon | 10281 | [10281-eurofighter-typhoon.json](./10281-eurofighter-typhoon.json) |
 | EuroGoal 2012 | 343818 | [343818-eurogoal-2012.json](./343818-eurogoal-2012.json) |
 | EuroLeague Football | 24130 | [24130-euroleague-football.json](./24130-euroleague-football.json) |
 | Europa | 130893 | [130893-europa.json](./130893-europa.json) |
@@ -8384,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explobers | 130489 | [130489-explobers.json](./130489-explobers.json) |
 | Explode Bricks | 89530 | [89530-explode-bricks.json](./89530-explode-bricks.json) |
 | Explode on Contact | 148546 | [148546-explode-on-contact.json](./148546-explode-on-contact.json) |
+| Explodemon! | 10291 | [10291-explodemon.json](./10291-explodemon.json) |
 | Explodera | 388218 | [388218-explodera.json](./388218-explodera.json) |
 | Exploding Babies | 120165 | [120165-exploding-babies.json](./120165-exploding-babies.json) |
 | Exploding Fish | 183726 | [183726-exploding-fish.json](./183726-exploding-fish.json) |
