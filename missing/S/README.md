@@ -4362,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seagazer | 417937 | [417937-seagazer.json](./417937-seagazer.json) |
 | Seaglass | 225763 | [225763-seaglass.json](./225763-seaglass.json) |
 | Seagull Kart Racing | 258240 | [258240-seagull-kart-racing.json](./258240-seagull-kart-racing.json) |
+| Seagull Sauté | 427852 | [427852-seagull-saute.json](./427852-seagull-saute.json) |
 | Seagulls: Crappy Situation | 290755 | [290755-seagulls-crappy-situation.json](./290755-seagulls-crappy-situation.json) |
 | Seahaven Towers Solitaire | 83465 | [83465-seahaven-towers-solitaire.json](./83465-seahaven-towers-solitaire.json) |
 | Seaking Hunter | 188183 | [188183-seaking-hunter.json](./188183-seaking-hunter.json) |
@@ -5046,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed of Life | 117261 | [117261-seed-of-life.json](./117261-seed-of-life.json) |
 | Seed of Life | 225772 | [225772-seed-of-life.json](./225772-seed-of-life.json) |
 | Seed of Life | 225773 | [225773-seed-of-life.json](./225773-seed-of-life.json) |
+| Seed of Light | 427820 | [427820-seed-of-light.json](./427820-seed-of-light.json) |
 | Seed of Nostalgia | 334879 | [334879-seed-of-nostalgia.json](./334879-seed-of-nostalgia.json) |
 | Seed of Pandora: Legend of the Gaia Tree | 237051 | [237051-seed-of-pandora-legend-of-the-gaia-tree.json](./237051-seed-of-pandora-legend-of-the-gaia-tree.json) |
 | Seed of the Dead: Charm Song | 272726 | [272726-seed-of-the-dead-charm-song.json](./272726-seed-of-the-dead-charm-song.json) |
@@ -24558,6 +24560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sqube Darkness | 227543 | [227543-sqube-darkness.json](./227543-sqube-darkness.json) |
 | Sqube Escape | 313269 | [313269-sqube-escape.json](./313269-sqube-escape.json) |
 | Squeak | 296003 | [296003-squeak.json](./296003-squeak.json) |
+| Squeak | 427836 | [427836-squeak.json](./427836-squeak.json) |
 | Squeakers | 87781 | [87781-squeakers.json](./87781-squeakers.json) |
 | Squeakers II | 148370 | [148370-squeakers-ii.json](./148370-squeakers-ii.json) |
 | Squeakross: Free Content Update | 392279 | [392279-squeakross-free-content-update.json](./392279-squeakross-free-content-update.json) |
@@ -24828,6 +24831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack'em | 206976 | [206976-stackem.json](./206976-stackem.json) |
 | Stack'em HD | 355001 | [355001-stackem-hd.json](./355001-stackem-hd.json) |
 | Stackables | 340170 | [340170-stackables.json](./340170-stackables.json) |
+| Stackade | 427824 | [427824-stackade.json](./427824-stackade.json) |
 | Stackbound | 351255 | [351255-stackbound.json](./351255-stackbound.json) |
 | Stacked with Daniel Negreanu | 6157 | [6157-stacked-with-daniel-negreanu.json](./6157-stacked-with-daniel-negreanu.json) |
 | Stacked! | 374938 | [374938-stacked.json](./374938-stacked.json) |
