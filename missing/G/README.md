@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet Legends | 322268 | [322268-gauntlet-legends.json](./322268-gauntlet-legends.json) |
 | Gauntlet Legends | 322269 | [322269-gauntlet-legends.json](./322269-gauntlet-legends.json) |
 | Gauntlet Legends | 3501 | [3501-gauntlet-legends.json](./3501-gauntlet-legends.json) |
+| Gauntlet of IRE | 76271 | [76271-gauntlet-of-ire.json](./76271-gauntlet-of-ire.json) |
 | Gauntlet: Seven Sorrows | 5844 | [5844-gauntlet-seven-sorrows.json](./5844-gauntlet-seven-sorrows.json) |
 | Gauntlet: Slayer Edition | 20044 | [20044-gauntlet-slayer-edition.json](./20044-gauntlet-slayer-edition.json) |
 | Gauntlet: Slayer Edition - Lilith the Necromancer Pack | 226429 | [226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json](./226429-gauntlet-slayer-edition-lilith-the-necromancer-pack.json) |
