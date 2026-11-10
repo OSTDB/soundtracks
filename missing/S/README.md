@@ -2746,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaler | 312135 | [312135-scaler.json](./312135-scaler.json) |
 | Scaler | 4095 | [4095-scaler.json](./4095-scaler.json) |
 | Scales | 392585 | [392585-scales.json](./392585-scales.json) |
+| Scales of Gold | 421748 | [421748-scales-of-gold.json](./421748-scales-of-gold.json) |
 | Scales of Justice | 311879 | [311879-scales-of-justice.json](./311879-scales-of-justice.json) |
 | Scales of Silence | 398317 | [398317-scales-of-silence.json](./398317-scales-of-silence.json) |
 | Scales of Stardust | 185076 | [185076-scales-of-stardust.json](./185076-scales-of-stardust.json) |
@@ -4634,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Room | 302577 | [302577-second-room.json](./302577-second-room.json) |
 | Second Saga | 392251 | [392251-second-saga.json](./392251-second-saga.json) |
 | Second Samurai | 4422 | [4422-second-samurai.json](./4422-second-samurai.json) |
+| Second Screen Soccer | 421778 | [421778-second-screen-soccer.json](./421778-second-screen-soccer.json) |
 | Second Second | 110776 | [110776-second-second.json](./110776-second-second.json) |
 | Second Sight | 4101 | [4101-second-sight.json](./4101-second-sight.json) |
 | Second Sight Dilemma | 383073 | [383073-second-sight-dilemma.json](./383073-second-sight-dilemma.json) |
@@ -9476,6 +9478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shokuo Shoujo | 158152 | [158152-shokuo-shoujo.json](./158152-shokuo-shoujo.json) |
 | Shokutama | 97828 | [97828-shokutama.json](./97828-shokutama.json) |
 | Shokutte Night | 97844 | [97844-shokutte-night.json](./97844-shokutte-night.json) |
+| Shole Soccer | 421860 | [421860-shole-soccer.json](./421860-shole-soccer.json) |
 | Shonen Adventure: The Dual Blades Hero | 164859 | [164859-shonen-adventure-the-dual-blades-hero.json](./164859-shonen-adventure-the-dual-blades-hero.json) |
 | Shonen Idle | 101908 | [101908-shonen-idle.json](./101908-shonen-idle.json) |
 | Shonen Jump's One Piece | 75755 | [75755-shonen-jumps-one-piece.json](./75755-shonen-jumps-one-piece.json) |
@@ -10722,6 +10725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sif and the Labyrinth | 190474 | [190474-sif-and-the-labyrinth.json](./190474-sif-and-the-labyrinth.json) |
 | SIFC: Survival - In First Contact | 266022 | [266022-sifc-survival-in-first-contact.json](./266022-sifc-survival-in-first-contact.json) |
 | Sifera | 298147 | [298147-sifera.json](./298147-sifera.json) |
+| Sift | 421779 | [421779-sift.json](./421779-sift.json) |
 | Sift | 423044 | [423044-sift.json](./423044-sift.json) |
 | Sift Heads | 209633 | [209633-sift-heads.json](./209633-sift-heads.json) |
 | Sift Heads 0: The Starting Point | 357302 | [357302-sift-heads-0-the-starting-point.json](./357302-sift-heads-0-the-starting-point.json) |
@@ -14475,6 +14479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimes! | 406485 | [406485-slimes.json](./406485-slimes.json) |
 | SlimeSlider | 188453 | [188453-slimeslider.json](./188453-slimeslider.json) |
 | Slimesphere | 136632 | [136632-slimesphere.json](./136632-slimesphere.json) |
+| Slimestone | 421787 | [421787-slimestone.json](./421787-slimestone.json) |
 | Slimesventure: Your Destination | 199714 | [199714-slimesventure-your-destination.json](./199714-slimesventure-your-destination.json) |
 | SlimeTrials | 185607 | [185607-slimetrials.json](./185607-slimetrials.json) |
 | SlimeVille Online | 410585 | [410585-slimeville-online.json](./410585-slimeville-online.json) |
@@ -19806,6 +19811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstice: A Tale of Two Souls | 25119 | [25119-soulstice-a-tale-of-two-souls.json](./25119-soulstice-a-tale-of-two-souls.json) |
 | Soulstice: Ashen Blade Item Pack | 262738 | [262738-soulstice-ashen-blade-item-pack.json](./262738-soulstice-ashen-blade-item-pack.json) |
 | Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
+| Soulstone | 421785 | [421785-soulstone.json](./421785-soulstone.json) |
 | Soulstone of Hope | 266025 | [266025-soulstone-of-hope.json](./266025-soulstone-of-hope.json) |
 | Soulstone Survivors: Supporter Pack | 376150 | [376150-soulstone-survivors-supporter-pack.json](./376150-soulstone-survivors-supporter-pack.json) |
 | Soulstonia | 415792 | [415792-soulstonia.json](./415792-soulstonia.json) |
@@ -28497,6 +28503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Cold Sexy | 182999 | [182999-stone-cold-sexy.json](./182999-stone-cold-sexy.json) |
 | Stone Crawler | 136614 | [136614-stone-crawler.json](./136614-stone-crawler.json) |
 | Stone Crawler Plus | 335041 | [335041-stone-crawler-plus.json](./335041-stone-crawler-plus.json) |
+| Stone Creek | 421786 | [421786-stone-creek.json](./421786-stone-creek.json) |
 | Stone Defence | 113032 | [113032-stone-defence.json](./113032-stone-defence.json) |
 | Stone Flood | 87392 | [87392-stone-flood.json](./87392-stone-flood.json) |
 | Stone Flower | 308073 | [308073-stone-flower.json](./308073-stone-flower.json) |
@@ -29386,6 +29393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamline | 20178 | [20178-streamline.json](./20178-streamline.json) |
 | Streamline | 81180 | [81180-streamline.json](./81180-streamline.json) |
 | Streamonaire | 215310 | [215310-streamonaire.json](./215310-streamonaire.json) |
+| StreamQuiz | 421859 | [421859-streamquiz.json](./421859-streamquiz.json) |
 | Streams Masters | 422471 | [422471-streams-masters.json](./422471-streams-masters.json) |
 | StreamSavers | 160196 | [160196-streamsavers.json](./160196-streamsavers.json) |
 | Streamtubers | 370565 | [370565-streamtubers.json](./370565-streamtubers.json) |
@@ -30215,6 +30223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuck at Home | 355845 | [355845-stuck-at-home.json](./355845-stuck-at-home.json) |
 | Stuck at Home | 71004 | [71004-stuck-at-home.json](./71004-stuck-at-home.json) |
 | Stuck At Lv. 1 | 305126 | [305126-stuck-at-lv-1.json](./305126-stuck-at-lv-1.json) |
+| Stuck in a Broken Tutorial | 421852 | [421852-stuck-in-a-broken-tutorial.json](./421852-stuck-in-a-broken-tutorial.json) |
 | Stuck in a Well with a Frog | 386083 | [386083-stuck-in-a-well-with-a-frog.json](./386083-stuck-in-a-well-with-a-frog.json) |
 | Stuck in a Yandere Visual Novel... HELP!! | 306888 | [306888-stuck-in-a-yandere-visual-novel-help.json](./306888-stuck-in-a-yandere-visual-novel-help.json) |
 | Stuck in Fears: North-east | 383471 | [383471-stuck-in-fears-north-east.json](./383471-stuck-in-fears-north-east.json) |
