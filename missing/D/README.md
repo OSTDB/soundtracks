@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkOrbit: Reloaded | 23808 | [23808-darkorbit-reloaded.json](./23808-darkorbit-reloaded.json) |
 | Darkour | 125076 | [125076-darkour.json](./125076-darkour.json) |
 | Darkout | 10108 | [10108-darkout.json](./10108-darkout.json) |
+| Darkphobia | 406991 | [406991-darkphobia.json](./406991-darkphobia.json) |
 | DarkPrison | 115760 | [115760-darkprison.json](./115760-darkprison.json) |
 | DarkRanger | 344877 | [344877-darkranger.json](./344877-darkranger.json) |
 | DarkRay | 410492 | [410492-darkray.json](./410492-darkray.json) |
@@ -13247,6 +13248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Kill the Cow | 125080 | [125080-dont-kill-the-cow.json](./125080-dont-kill-the-cow.json) |
 | Don't Kill the King! | 189078 | [189078-dont-kill-the-king.json](./189078-dont-kill-the-king.json) |
 | Don't Kill Them All | 303088 | [303088-dont-kill-them-all.json](./303088-dont-kill-them-all.json) |
+| Don't Knife Me! | 407019 | [407019-dont-knife-me.json](./407019-dont-knife-me.json) |
 | Don't Knock Again, Sabrina! | 417215 | [417215-dont-knock-again-sabrina.json](./417215-dont-knock-again-sabrina.json) |
 | Don't Knock Twice | 25646 | [25646-dont-knock-twice.json](./25646-dont-knock-twice.json) |
 | Don't Leave | 285439 | [285439-dont-leave.json](./285439-dont-leave.json) |
