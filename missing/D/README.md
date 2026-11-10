@@ -8738,6 +8738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DEX : Speed Run - Level Maker - World Records | 380430 | [380430-dex-speed-run-level-maker-world-records.json](./380430-dex-speed-run-level-maker-world-records.json) |
 | Dex & Akane | 315824 | [315824-dex-and-akane.json](./315824-dex-and-akane.json) |
 | Dex Survival | 168603 | [168603-dex-survival.json](./168603-dex-survival.json) |
+| Dex: Enhanced Version | 22795 | [22795-dex-enhanced-version.json](./22795-dex-enhanced-version.json) |
 | Dexed | 24932 | [24932-dexed.json](./24932-dexed.json) |
 | Dexfusal | 415056 | [415056-dexfusal.json](./415056-dexfusal.json) |
 | Dexlinhale | 125963 | [125963-dexlinhale.json](./125963-dexlinhale.json) |
@@ -10630,6 +10631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc League | 29500 | [29500-disc-league.json](./29500-disc-league.json) |
 | Disc Ninja | 164886 | [164886-disc-ninja.json](./164886-disc-ninja.json) |
 | Disc Party | 134081 | [134081-disc-party.json](./134081-disc-party.json) |
+| Disc Room | 22700 | [22700-disc-room.json](./22700-disc-room.json) |
 | Disc Saga Extra Edition: The Tower of Muda | 238086 | [238086-disc-saga-extra-edition-the-tower-of-muda.json](./238086-disc-saga-extra-edition-the-tower-of-muda.json) |
 | Disc Saga: Burning Sword! | 238082 | [238082-disc-saga-burning-sword.json](./238082-disc-saga-burning-sword.json) |
 | Disc Saga: Dragon's Immorality | 237795 | [237795-disc-saga-dragons-immorality.json](./237795-disc-saga-dragons-immorality.json) |
@@ -14441,6 +14443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Clutch | 45710 | [45710-double-clutch.json](./45710-double-clutch.json) |
 | Double Cross | 96135 | [96135-double-cross.json](./96135-double-cross.json) |
 | Double Cubes | 34727 | [34727-double-cubes.json](./34727-double-cubes.json) |
+| Double D Dodgeball | 23043 | [23043-double-d-dodgeball.json](./23043-double-d-dodgeball.json) |
 | Double Damnation | 213981 | [213981-double-damnation.json](./213981-double-damnation.json) |
 | Double Dangerous | 330809 | [330809-double-dangerous.json](./330809-double-dangerous.json) |
 | Double Dangerous Dave | 11383 | [11383-double-dangerous-dave.json](./11383-double-dangerous-dave.json) |
@@ -19567,6 +19570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Vaults of the Artificers | 341949 | [341949-dungeons-and-dragons-online-vaults-of-the-artificers.json](./341949-dungeons-and-dragons-online-vaults-of-the-artificers.json) |
 | Dungeons & Dragons Online: Vecna Unleashed | 258958 | [258958-dungeons-and-dragons-online-vecna-unleashed.json](./258958-dungeons-and-dragons-online-vecna-unleashed.json) |
 | Dungeons & Dragons Online: White Plume Mountain and Other Tales | 349724 | [349724-dungeons-and-dragons-online-white-plume-mountain-and-other-tales.json](./349724-dungeons-and-dragons-online-white-plume-mountain-and-other-tales.json) |
+| Dungeons & Dragons Tactics | 23051 | [23051-dungeons-and-dragons-tactics.json](./23051-dungeons-and-dragons-tactics.json) |
 | Dungeons & Dragons: Dark Alliance | 127348 | [127348-dungeons-and-dragons-dark-alliance.json](./127348-dungeons-and-dragons-dark-alliance.json) |
 | Dungeons & Dragons: Dark Alliance - Day One Edition | 242924 | [242924-dungeons-and-dragons-dark-alliance-day-one-edition.json](./242924-dungeons-and-dragons-dark-alliance-day-one-edition.json) |
 | Dungeons & Dragons: Dark Alliance - Deluxe Edition | 148269 | [148269-dungeons-and-dragons-dark-alliance-deluxe-edition.json](./148269-dungeons-and-dragons-dark-alliance-deluxe-edition.json) |
