@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecio | 119674 | [119674-ecio.json](./119674-ecio.json) |
 | Ecity | 87099 | [87099-ecity.json](./87099-ecity.json) |
 | Eckn+ | 159177 | [159177-eckn.json](./159177-eckn.json) |
+| Ecks vs. Sever | 6396 | [6396-ecks-vs-sever.json](./6396-ecks-vs-sever.json) |
 | Eckspelled | 409883 | [409883-eckspelled.json](./409883-eckspelled.json) |
 | Eclectic Custom Night | 317220 | [317220-eclectic-custom-night.json](./317220-eclectic-custom-night.json) |
 | Eclectic Expansion Enterprise | 248088 | [248088-eclectic-expansion-enterprise.json](./248088-eclectic-expansion-enterprise.json) |
