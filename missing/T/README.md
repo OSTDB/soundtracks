@@ -7837,6 +7837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Computer Quiz | 78999 | [78999-the-computer-quiz.json](./78999-the-computer-quiz.json) |
 | The Computer Spiele Museum's Museum Guide | 254510 | [254510-the-computer-spiele-museums-museum-guide.json](./254510-the-computer-spiele-museums-museum-guide.json) |
 | The Comyths | 397078 | [397078-the-comyths.json](./397078-the-comyths.json) |
+| The Con | 22578 | [22578-the-con.json](./22578-the-con.json) |
 | The Con Simulator | 100559 | [100559-the-con-simulator.json](./100559-the-con-simulator.json) |
 | The Concentration of Lust | 311448 | [311448-the-concentration-of-lust.json](./311448-the-concentration-of-lust.json) |
 | The Concept | 334265 | [334265-the-concept.json](./334265-the-concept.json) |
@@ -16197,6 +16198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Reformatory | 330654 | [330654-the-reformatory.json](./330654-the-reformatory.json) |
 | The Refuge | 125097 | [125097-the-refuge.json](./125097-the-refuge.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
+| The Regiment | 22577 | [22577-the-regiment.json](./22577-the-regiment.json) |
 | The Regions | 244623 | [244623-the-regions.json](./244623-the-regions.json) |
 | The Regreening | 350554 | [350554-the-regreening.json](./350554-the-regreening.json) |
 | The Regular: Same Dog Every Time | 411750 | [411750-the-regular-same-dog-every-time.json](./411750-the-regular-same-dog-every-time.json) |
@@ -16357,6 +16359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ripper: Serial Killers | 242586 | [242586-the-ripper-serial-killers.json](./242586-the-ripper-serial-killers.json) |
 | The Ripping Friends: The World's Most Manly Men! | 49179 | [49179-the-ripping-friends-the-worlds-most-manly-men.json](./49179-the-ripping-friends-the-worlds-most-manly-men.json) |
 | The Rise | 289958 | [289958-the-rise.json](./289958-the-rise.json) |
+| The Rise & Rule of Ancient Empires | 22613 | [22613-the-rise-and-rule-of-ancient-empires.json](./22613-the-rise-and-rule-of-ancient-empires.json) |
 | The Rise and Fall of Odysseus Kent | 218992 | [218992-the-rise-and-fall-of-odysseus-kent.json](./218992-the-rise-and-fall-of-odysseus-kent.json) |
 | The Rise of Atlantis | 144509 | [144509-the-rise-of-atlantis.json](./144509-the-rise-of-atlantis.json) |
 | The Rise of Captain Longbeard | 31158 | [31158-the-rise-of-captain-longbeard.json](./31158-the-rise-of-captain-longbeard.json) |
@@ -23543,6 +23546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Woods PGA Tour 2007 | 42805 | [42805-tiger-woods-pga-tour-2007.json](./42805-tiger-woods-pga-tour-2007.json) |
 | Tiger Woods PGA Tour 2008 | 51234 | [51234-tiger-woods-pga-tour-2008.json](./51234-tiger-woods-pga-tour-2008.json) |
 | Tiger Woods PGA Tour Golf | 206788 | [206788-tiger-woods-pga-tour-golf.json](./206788-tiger-woods-pga-tour-golf.json) |
+| Tiger Woods PGA Tour Online | 21159 | [21159-tiger-woods-pga-tour-online.json](./21159-tiger-woods-pga-tour-online.json) |
 | Tiger-Heli | 364617 | [364617-tiger-heli.json](./364617-tiger-heli.json) |
 | Tiger's Baseball All-Stars | 217705 | [217705-tigers-baseball-all-stars.json](./217705-tigers-baseball-all-stars.json) |
 | Tigers on the Hunt | 59521 | [59521-tigers-on-the-hunt.json](./59521-tigers-on-the-hunt.json) |
@@ -29017,6 +29021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail Out: Legendary Cars | 255153 | [255153-trail-out-legendary-cars.json](./255153-trail-out-legendary-cars.json) |
 | Trail Out: Luxury Life | 268055 | [268055-trail-out-luxury-life.json](./268055-trail-out-luxury-life.json) |
 | Trail Out: Steel Wheels | 267408 | [267408-trail-out-steel-wheels.json](./267408-trail-out-steel-wheels.json) |
+| Trailblazer | 22517 | [22517-trailblazer.json](./22517-trailblazer.json) |
 | Trailblazer | 230469 | [230469-trailblazer.json](./230469-trailblazer.json) |
 | TrailBlazer | 146868 | [146868-trailblazer.json](./146868-trailblazer.json) |
 | TrailBlazer | 79138 | [79138-trailblazer.json](./79138-trailblazer.json) |
