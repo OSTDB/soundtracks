@@ -3823,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infees | 152904 | [152904-infees.json](./152904-infees.json) |
 | Infektor | 30561 | [30561-infektor.json](./30561-infektor.json) |
 | Inferiae | 399001 | [399001-inferiae.json](./399001-inferiae.json) |
+| Inferior | 418101 | [418101-inferior.json](./418101-inferior.json) |
 | Inferis: Dead Below | 359923 | [359923-inferis-dead-below.json](./359923-inferis-dead-below.json) |
 | Inferius | 272351 | [272351-inferius.json](./272351-inferius.json) |
 | Inferna | 126774 | [126774-inferna.json](./126774-inferna.json) |
