@@ -4596,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osananajimi no Iru Kurashi | 396954 | [396954-osananajimi-no-iru-kurashi.json](./396954-osananajimi-no-iru-kurashi.json) |
 | Osananajimi no Onee-chan wa Senzoku Maid!: Natsuyasumi Dousei Seikatsu | 280643 | [280643-osananajimi-no-onee-chan-wa-senzoku-maid-natsuyasumi-dousei-seikatsu.json](./280643-osananajimi-no-onee-chan-wa-senzoku-maid-natsuyasumi-dousei-seikatsu.json) |
 | Osananajimi Ojou-sama to H de Himitsu na Dousei Seikatsu | 396903 | [396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json](./396903-osananajimi-ojou-sama-to-h-de-himitsu-na-dousei-seikatsu.json) |
+| Osananajimi to Amaaku Ecchi ni Sugosu Houhou | 415675 | [415675-osananajimi-to-amaaku-ecchi-ni-sugosu-houhou.json](./415675-osananajimi-to-amaaku-ecchi-ni-sugosu-houhou.json) |
 | Osawari Hockey Enko-chan | 235769 | [235769-osawari-hockey-enko-chan.json](./235769-osawari-hockey-enko-chan.json) |
 | Osawari Tantei Ozawa Rina: Nameko Rhythm | 56934 | [56934-osawari-tantei-ozawa-rina-nameko-rhythm.json](./56934-osawari-tantei-ozawa-rina-nameko-rhythm.json) |
 | Osawari Tantei: Nameko Daihanshoku | 56935 | [56935-osawari-tantei-nameko-daihanshoku.json](./56935-osawari-tantei-nameko-daihanshoku.json) |
