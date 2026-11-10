@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantumleaper | 126807 | [126807-quantumleaper.json](./126807-quantumleaper.json) |
 | QuantumPulse 2A | 333349 | [333349-quantumpulse-2a.json](./333349-quantumpulse-2a.json) |
 | QuantumVR | 394625 | [394625-quantumvr.json](./394625-quantumvr.json) |
+| QuantZ | 10200 | [10200-quantz.json](./10200-quantz.json) |
 | QuaQua | 188778 | [188778-quaqua.json](./188778-quaqua.json) |
 | Quar: Battle for Gate 18 | 33649 | [33649-quar-battle-for-gate-18.json](./33649-quar-battle-for-gate-18.json) |
 | Quar: Infernal Machines | 116239 | [116239-quar-infernal-machines.json](./116239-quar-infernal-machines.json) |
@@ -980,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questris | 413871 | [413871-questris.json](./413871-questris.json) |
 | Questron | 24650 | [24650-questron.json](./24650-questron.json) |
 | Questron II | 55324 | [55324-questron-ii.json](./55324-questron-ii.json) |
+| QuestRun | 17160 | [17160-questrun.json](./17160-questrun.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
 | Questscape: Survival | 310128 | [310128-questscape-survival.json](./310128-questscape-survival.json) |
 | Questy Chess | 151976 | [151976-questy-chess.json](./151976-questy-chess.json) |
