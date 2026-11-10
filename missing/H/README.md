@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer of the Gods | 19703 | [19703-hammer-of-the-gods.json](./19703-hammer-of-the-gods.json) |
 | Hammer of Virtue | 189252 | [189252-hammer-of-virtue.json](./189252-hammer-of-virtue.json) |
 | Hammer Penguins | 340563 | [340563-hammer-penguins.json](./340563-hammer-penguins.json) |
+| Hammer these nails! | 428409 | [428409-hammer-these-nails.json](./428409-hammer-these-nails.json) |
 | Hammer time! | 178089 | [178089-hammer-time.json](./178089-hammer-time.json) |
 | Hammer vs. Evil D. in Soulfire | 201166 | [201166-hammer-vs-evil-d-in-soulfire.json](./201166-hammer-vs-evil-d-in-soulfire.json) |
 | Hammer World: Dimension Traveler | 110082 | [110082-hammer-world-dimension-traveler.json](./110082-hammer-world-dimension-traveler.json) |
