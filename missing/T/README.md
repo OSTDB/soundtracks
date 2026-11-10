@@ -10661,6 +10661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Ball | 36496 | [36496-the-grand-ball.json](./36496-the-grand-ball.json) |
 | The Grand Ball: Deluxe Edition | 53741 | [53741-the-grand-ball-deluxe-edition.json](./53741-the-grand-ball-deluxe-edition.json) |
 | The Grand Book Archive: Tidy Up | 415246 | [415246-the-grand-book-archive-tidy-up.json](./415246-the-grand-book-archive-tidy-up.json) |
+| The Grand Canyon VR Experience | 19025 | [19025-the-grand-canyon-vr-experience.json](./19025-the-grand-canyon-vr-experience.json) |
 | The Grand Guignol | 271733 | [271733-the-grand-guignol.json](./271733-the-grand-guignol.json) |
 | The Grand Heist | 121222 | [121222-the-grand-heist.json](./121222-the-grand-heist.json) |
 | The Grand Jump 5 | 99416 | [99416-the-grand-jump-5.json](./99416-the-grand-jump-5.json) |
@@ -13683,6 +13684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lonely Miner | 411121 | [411121-the-lonely-miner.json](./411121-the-lonely-miner.json) |
 | The Lonely People | 216446 | [216446-the-lonely-people.json](./216446-the-lonely-people.json) |
 | The Loner | 29712 | [29712-the-loner.json](./29712-the-loner.json) |
+| The Lonesome Fog | 18475 | [18475-the-lonesome-fog.json](./18475-the-lonesome-fog.json) |
 | The Lonesome Guild | 333042 | [333042-the-lonesome-guild.json](./333042-the-lonesome-guild.json) |
 | The Long Arc | 353787 | [353787-the-long-arc.json](./353787-the-long-arc.json) |
 | The Long August Longing | 319712 | [319712-the-long-august-longing.json](./319712-the-long-august-longing.json) |
@@ -19361,6 +19363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visit: Mizukawa | 388287 | [388287-the-visit-mizukawa.json](./388287-the-visit-mizukawa.json) |
 | The Visitor | 151752 | [151752-the-visitor.json](./151752-the-visitor.json) |
 | The Visitor | 159191 | [159191-the-visitor.json](./159191-the-visitor.json) |
+| The Visitor | 19021 | [19021-the-visitor.json](./19021-the-visitor.json) |
 | The Visitor | 232762 | [232762-the-visitor.json](./232762-the-visitor.json) |
 | The Visitor | 237262 | [237262-the-visitor.json](./237262-the-visitor.json) |
 | The Visitor 2 | 232763 | [232763-the-visitor-2.json](./232763-the-visitor-2.json) |
@@ -28666,6 +28669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Paradise | 181976 | [181976-toy-paradise.json](./181976-toy-paradise.json) |
 | Toy Party - Dazzling Puzzle | 87098 | [87098-toy-party-dazzling-puzzle.json](./87098-toy-party-dazzling-puzzle.json) |
 | Toy Party: Match 3 Hexa Blast! | 99920 | [99920-toy-party-match-3-hexa-blast.json](./99920-toy-party-match-3-hexa-blast.json) |
+| Toy Plane Heroes | 19034 | [19034-toy-plane-heroes.json](./19034-toy-plane-heroes.json) |
 | Toy Pop | 38037 | [38037-toy-pop.json](./38037-toy-pop.json) |
 | Toy Racer | 46369 | [46369-toy-racer.json](./46369-toy-racer.json) |
 | Toy Racer Turbo Wheels: Playground Zone | 261610 | [261610-toy-racer-turbo-wheels-playground-zone.json](./261610-toy-racer-turbo-wheels-playground-zone.json) |
