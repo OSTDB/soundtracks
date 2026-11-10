@@ -8036,6 +8036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleet Wars | 28812 | [28812-fleet-wars.json](./28812-fleet-wars.json) |
 | Fleetbreakers | 342190 | [342190-fleetbreakers.json](./342190-fleetbreakers.json) |
 | FleetComm | 35312 | [35312-fleetcomm.json](./35312-fleetcomm.json) |
+| Fleetfall: Galaxy Domination | 410528 | [410528-fleetfall-galaxy-domination.json](./410528-fleetfall-galaxy-domination.json) |
 | FleeTing | 371241 | [371241-fleeting.json](./371241-fleeting.json) |
 | Fleeting Ages | 35138 | [35138-fleeting-ages.json](./35138-fleeting-ages.json) |
 | Fleeting Iris | 129358 | [129358-fleeting-iris.json](./129358-fleeting-iris.json) |
@@ -10530,6 +10531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Sound 2: Destiny | 83545 | [83545-forgotten-sound-2-destiny.json](./83545-forgotten-sound-2-destiny.json) |
 | Forgotten Spirit | 327923 | [327923-forgotten-spirit.json](./327923-forgotten-spirit.json) |
 | Forgotten Spirits | 147024 | [147024-forgotten-spirits.json](./147024-forgotten-spirits.json) |
+| Forgotten Station | 410563 | [410563-forgotten-station.json](./410563-forgotten-station.json) |
 | Forgotten Symphony | 266420 | [266420-forgotten-symphony.json](./266420-forgotten-symphony.json) |
 | Forgotten Tales | 318150 | [318150-forgotten-tales.json](./318150-forgotten-tales.json) |
 | Forgotten Tales RPG | 318149 | [318149-forgotten-tales-rpg.json](./318149-forgotten-tales-rpg.json) |
