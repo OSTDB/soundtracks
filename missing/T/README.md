@@ -5825,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies | 248496 | [248496-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json](./248496-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json) |
 | The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies | 3779 | [3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json](./3779-the-adventures-of-jimmy-neutron-boy-genius-attack-of-the-twonkies.json) |
 | The Adventures of Jimmy Neutron Boy Genius: Jet Fusion | 242423 | [242423-the-adventures-of-jimmy-neutron-boy-genius-jet-fusion.json](./242423-the-adventures-of-jimmy-neutron-boy-genius-jet-fusion.json) |
+| The Adventures of Jimmy Neutron Boy Genius: Jet Fusion | 3780 | [3780-the-adventures-of-jimmy-neutron-boy-genius-jet-fusion.json](./3780-the-adventures-of-jimmy-neutron-boy-genius-jet-fusion.json) |
 | The Adventures of Jonny Quest | 73650 | [73650-the-adventures-of-jonny-quest.json](./73650-the-adventures-of-jonny-quest.json) |
 | The Adventures of JP and Cosmo: A Friend Indeed... | 58050 | [58050-the-adventures-of-jp-and-cosmo-a-friend-indeed.json](./58050-the-adventures-of-jp-and-cosmo-a-friend-indeed.json) |
 | The Adventures of King Dengotti | 206208 | [206208-the-adventures-of-king-dengotti.json](./206208-the-adventures-of-king-dengotti.json) |
@@ -11227,6 +11228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
 | The Horace Trilogy | 205746 | [205746-the-horace-trilogy.json](./205746-the-horace-trilogy.json) |
+| The Horde | 4263 | [4263-the-horde.json](./4263-the-horde.json) |
 | The Horde for Android | 110068 | [110068-the-horde-for-android.json](./110068-the-horde-for-android.json) |
 | The Horde of Gorak | 419372 | [419372-the-horde-of-gorak.json](./419372-the-horde-of-gorak.json) |
 | The Horde Wants You Dead | 339881 | [339881-the-horde-wants-you-dead.json](./339881-the-horde-wants-you-dead.json) |
@@ -33156,6 +33158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Galactic Mission | 381669 | [381669-true-galactic-mission.json](./381669-true-galactic-mission.json) |
 | True Game | 148308 | [148308-true-game.json](./148308-true-game.json) |
 | True Golf Classics: Pebble Beach Golf Links | 4533 | [4533-true-golf-classics-pebble-beach-golf-links.json](./4533-true-golf-classics-pebble-beach-golf-links.json) |
+| True Golf Classics: Waialae Country Club | 4284 | [4284-true-golf-classics-waialae-country-club.json](./4284-true-golf-classics-waialae-country-club.json) |
 | True Golf Classics: Wicked 18 | 38401 | [38401-true-golf-classics-wicked-18.json](./38401-true-golf-classics-wicked-18.json) |
 | True Hate | 149239 | [149239-true-hate.json](./149239-true-hate.json) |
 | True Hentai Puzzle | 163568 | [163568-true-hentai-puzzle.json](./163568-true-hentai-puzzle.json) |
