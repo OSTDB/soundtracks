@@ -7838,6 +7838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Battle Network 4: Red Sun | 1759 | [1759-mega-man-battle-network-4-red-sun.json](./1759-mega-man-battle-network-4-red-sun.json) |
 | Mega Man Battle Network 4: Red Sun | 352331 | [352331-mega-man-battle-network-4-red-sun.json](./352331-mega-man-battle-network-4-red-sun.json) |
 | Mega Man Battle Network 4: Red Sun | 352866 | [352866-mega-man-battle-network-4-red-sun.json](./352866-mega-man-battle-network-4-red-sun.json) |
+| Mega Man Battle Network 5: Double Team DS | 124791 | [124791-mega-man-battle-network-5-double-team-ds.json](./124791-mega-man-battle-network-5-double-team-ds.json) |
 | Mega Man Battle Network 5: Patch Card - Allowance from Mom | 351939 | [351939-mega-man-battle-network-5-patch-card-allowance-from-mom.json](./351939-mega-man-battle-network-5-patch-card-allowance-from-mom.json) |
 | Mega Man Battle Network 5: Patch Card - Alpha | 351930 | [351930-mega-man-battle-network-5-patch-card-alpha.json](./351930-mega-man-battle-network-5-patch-card-alpha.json) |
 | Mega Man Battle Network 5: Patch Card - Amulet from Raoul | 351944 | [351944-mega-man-battle-network-5-patch-card-amulet-from-raoul.json](./351944-mega-man-battle-network-5-patch-card-amulet-from-raoul.json) |
@@ -20723,6 +20724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Year Zero: Road to Eden | 89560 | [89560-mutant-year-zero-road-to-eden.json](./89560-mutant-year-zero-road-to-eden.json) |
 | Mutant Year Zero: Road to Eden - Deluxe Edition | 121623 | [121623-mutant-year-zero-road-to-eden-deluxe-edition.json](./121623-mutant-year-zero-road-to-eden-deluxe-edition.json) |
 | Mutant Year Zero: Road to Eden - Fan Edition | 154204 | [154204-mutant-year-zero-road-to-eden-fan-edition.json](./154204-mutant-year-zero-road-to-eden-fan-edition.json) |
+| Mutant Year Zero: Seed of Evil | 118972 | [118972-mutant-year-zero-seed-of-evil.json](./118972-mutant-year-zero-seed-of-evil.json) |
 | Mutant: War of Mercenaries | 208068 | [208068-mutant-war-of-mercenaries.json](./208068-mutant-war-of-mercenaries.json) |
 | MutantDungeon | 402862 | [402862-mutantdungeon.json](./402862-mutantdungeon.json) |
 | Mutantity | 250887 | [250887-mutantity.json](./250887-mutantity.json) |
@@ -21375,6 +21377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My French Coach Level 2: Intermediate | 92357 | [92357-my-french-coach-level-2-intermediate.json](./92357-my-french-coach-level-2-intermediate.json) |
 | My Friend Aki | 274353 | [274353-my-friend-aki.json](./274353-my-friend-aki.json) |
 | My Friend Barrington | 398323 | [398323-my-friend-barrington.json](./398323-my-friend-barrington.json) |
+| My Friend is a Raven | 127714 | [127714-my-friend-is-a-raven.json](./127714-my-friend-is-a-raven.json) |
 | My Friend Koo | 206771 | [206771-my-friend-koo.json](./206771-my-friend-koo.json) |
 | My Friend Pedro x Shotgun Cop Man Bundle | 349610 | [349610-my-friend-pedro-x-shotgun-cop-man-bundle.json](./349610-my-friend-pedro-x-shotgun-cop-man-bundle.json) |
 | My Friend Pedro: Arena | 289599 | [289599-my-friend-pedro-arena.json](./289599-my-friend-pedro-arena.json) |
