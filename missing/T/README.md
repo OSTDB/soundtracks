@@ -1681,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talos VR | 102170 | [102170-talos-vr.json](./102170-talos-vr.json) |
 | TalosFray | 130054 | [130054-talosfray.json](./130054-talosfray.json) |
 | Talparun | 268905 | [268905-talparun.json](./268905-talparun.json) |
+| Talpoida | 410520 | [410520-talpoida.json](./410520-talpoida.json) |
 | Talsaluq: Tower of Infinity | 76301 | [76301-talsaluq-tower-of-infinity.json](./76301-talsaluq-tower-of-infinity.json) |
 | Talshard | 127821 | [127821-talshard.json](./127821-talshard.json) |
 | Talus | 226012 | [226012-talus.json](./226012-talus.json) |
@@ -2585,6 +2586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taquero Simulator | 301806 | [301806-taquero-simulator.json](./301806-taquero-simulator.json) |
 | Tar Alterra Adventure Game | 165640 | [165640-tar-alterra-adventure-game.json](./165640-tar-alterra-adventure-game.json) |
 | Tarah | 397090 | [397090-tarah.json](./397090-tarah.json) |
+| Tarakannik 3 | 410521 | [410521-tarakannik-3.json](./410521-tarakannik-3.json) |
 | Taram Baba | 333821 | [333821-taram-baba.json](./333821-taram-baba.json) |
 | Tarantula Virus | 258620 | [258620-tarantula-virus.json](./258620-tarantula-virus.json) |
 | Tarareba | 194555 | [194555-tarareba.json](./194555-tarareba.json) |
@@ -2649,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarkus and the Crystal of Fear | 122954 | [122954-tarkus-and-the-crystal-of-fear.json](./122954-tarkus-and-the-crystal-of-fear.json) |
 | Tarlis World | 293667 | [293667-tarlis-world.json](./293667-tarlis-world.json) |
 | Tarmac Legends | 253545 | [253545-tarmac-legends.json](./253545-tarmac-legends.json) |
+| Tarnished | 410522 | [410522-tarnished.json](./410522-tarnished.json) |
 | Tarnished Blood | 250840 | [250840-tarnished-blood.json](./250840-tarnished-blood.json) |
 | Tarnsman's Projectile Hell | 262435 | [262435-tarnsmans-projectile-hell.json](./262435-tarnsmans-projectile-hell.json) |
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
@@ -3344,6 +3347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
 | Technician Ted: The Megamix | 133533 | [133533-technician-ted-the-megamix.json](./133533-technician-ted-the-megamix.json) |
 | Technicity | 186619 | [186619-technicity.json](./186619-technicity.json) |
+| Technicolor Antichrist Box | 410523 | [410523-technicolor-antichrist-box.json](./410523-technicolor-antichrist-box.json) |
 | Technictix | 69252 | [69252-technictix.json](./69252-technictix.json) |
 | Technikiller | 219567 | [219567-technikiller.json](./219567-technikiller.json) |
 | Technitive | 196997 | [196997-technitive.json](./196997-technitive.json) |
@@ -3790,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teladon | 54670 | [54670-teladon.json](./54670-teladon.json) |
 | TelAIphone | 310508 | [310508-telaiphone.json](./310508-telaiphone.json) |
 | Télé 7 Jeux: Mots Fléchés | 268415 | [268415-tele-7-jeux-mots-fleches.json](./268415-tele-7-jeux-mots-fleches.json) |
+| Tele-Direct Atlantic Doom: Re-Dialed | 410524 | [410524-tele-direct-atlantic-doom-re-dialed.json](./410524-tele-direct-atlantic-doom-re-dialed.json) |
 | Tele-Doodle | 220125 | [220125-tele-doodle.json](./220125-tele-doodle.json) |
 | Tele-Shibai Wii | 64427 | [64427-tele-shibai-wii.json](./64427-tele-shibai-wii.json) |
 | Telealiens | 333183 | [333183-telealiens.json](./333183-telealiens.json) |
@@ -5477,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That | 294538 | [294538-that.json](./294538-that.json) |
 | That Bastard is Trying to Steal Our Gold! | 33301 | [33301-that-bastard-is-trying-to-steal-our-gold.json](./33301-that-bastard-is-trying-to-steal-our-gold.json) |
 | That Blooming Feeling | 182510 | [182510-that-blooming-feeling.json](./182510-that-blooming-feeling.json) |
+| That Bomb Game | 410566 | [410566-that-bomb-game.json](./410566-that-bomb-game.json) |
 | That Castle | 190019 | [190019-that-castle.json](./190019-that-castle.json) |
 | That Cloud Looks Like | 415827 | [415827-that-cloud-looks-like.json](./415827-that-cloud-looks-like.json) |
 | That Coin Game | 138500 | [138500-that-coin-game.json](./138500-that-coin-game.json) |
@@ -10595,6 +10601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glitch Prison | 286038 | [286038-the-glitch-prison.json](./286038-the-glitch-prison.json) |
 | The Glitch Witch | 310829 | [310829-the-glitch-witch.json](./310829-the-glitch-witch.json) |
 | The Glitched Attraction | 221852 | [221852-the-glitched-attraction.json](./221852-the-glitched-attraction.json) |
+| The Glitcher 2D | 410564 | [410564-the-glitcher-2d.json](./410564-the-glitcher-2d.json) |
 | The Glob | 40005 | [40005-the-glob.json](./40005-the-glob.json) |
 | The Global Dilemma: Guns or Butter | 70047 | [70047-the-global-dilemma-guns-or-butter.json](./70047-the-global-dilemma-guns-or-butter.json) |
 | The Glorious Colony | 417239 | [417239-the-glorious-colony.json](./417239-the-glorious-colony.json) |
@@ -16104,6 +16111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quiet Flat | 416368 | [416368-the-quiet-flat.json](./416368-the-quiet-flat.json) |
 | The Quiet Lonely House | 186264 | [186264-the-quiet-lonely-house.json](./186264-the-quiet-lonely-house.json) |
 | The Quiet Man | 103313 | [103313-the-quiet-man.json](./103313-the-quiet-man.json) |
+| The Quiet Order | 410549 | [410549-the-quiet-order.json](./410549-the-quiet-order.json) |
 | The Quiet Pelagian | 401316 | [401316-the-quiet-pelagian.json](./401316-the-quiet-pelagian.json) |
 | The Quiet Sleep | 72385 | [72385-the-quiet-sleep.json](./72385-the-quiet-sleep.json) |
 | The Quintessential Princesses: Fantasy, Abyss, and Magic Academy | 342720 | [342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json](./342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json) |
@@ -16296,6 +16304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The redemption of pancakes | 106555 | [106555-the-redemption-of-pancakes.json](./106555-the-redemption-of-pancakes.json) |
 | The Redundant | 318979 | [318979-the-redundant.json](./318979-the-redundant.json) |
 | The Reeve | 298458 | [298458-the-reeve.json](./298458-the-reeve.json) |
+| The Referee Committee | 410568 | [410568-the-referee-committee.json](./410568-the-referee-committee.json) |
 | The Refinery | 271580 | [271580-the-refinery.json](./271580-the-refinery.json) |
 | The Reflection | 399671 | [399671-the-reflection.json](./399671-the-reflection.json) |
 | The Reflex Lab | 372410 | [372410-the-reflex-lab.json](./372410-the-reflex-lab.json) |
@@ -20922,6 +20931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Things on Wheels | 72727 | [72727-things-on-wheels.json](./72727-things-on-wheels.json) |
 | Things That Bounce and Explode | 149011 | [149011-things-that-bounce-and-explode.json](./149011-things-that-bounce-and-explode.json) |
 | Things That Go Bump | 194341 | [194341-things-that-go-bump.json](./194341-things-that-go-bump.json) |
+| Things That Never Were | 410572 | [410572-things-that-never-were.json](./410572-things-that-never-were.json) |
 | Things to Forget: Lighthouse | 395478 | [395478-things-to-forget-lighthouse.json](./395478-things-to-forget-lighthouse.json) |
 | Things to Get | 243489 | [243489-things-to-get.json](./243489-things-to-get.json) |
 | Things Too Ugly | 289948 | [289948-things-too-ugly.json](./289948-things-too-ugly.json) |
@@ -26553,6 +26563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonka Firefighter | 206757 | [206757-tonka-firefighter.json](./206757-tonka-firefighter.json) |
 | Tonka Garage | 7956 | [7956-tonka-garage.json](./7956-tonka-garage.json) |
 | Tonka Monster Trucks | 65703 | [65703-tonka-monster-trucks.json](./65703-tonka-monster-trucks.json) |
+| Tonka Power Tools | 410534 | [410534-tonka-power-tools.json](./410534-tonka-power-tools.json) |
 | Tonka Raceway | 7957 | [7957-tonka-raceway.json](./7957-tonka-raceway.json) |
 | Tonka Search & Rescue 2 | 137029 | [137029-tonka-search-and-rescue-2.json](./137029-tonka-search-and-rescue-2.json) |
 | Tonka Search and Rescue | 7955 | [7955-tonka-search-and-rescue.json](./7955-tonka-search-and-rescue.json) |
@@ -28050,6 +28061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Yukkuri Mountain | 399975 | [399975-touhou-yukkuri-mountain.json](./399975-touhou-yukkuri-mountain.json) |
 | Touhou Yumejikuu: Phantasmagoria of Dim. Dream | 45965 | [45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json](./45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json) |
 | Touhou Yuuyajaku -Solar Eclipse Night- | 335062 | [335062-touhou-yuuyajaku-solar-eclipse-night.json](./335062-touhou-yuuyajaku-solar-eclipse-night.json) |
+| Touhou: Beyond Gensokyo | 410558 | [410558-touhou-beyond-gensokyo.json](./410558-touhou-beyond-gensokyo.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
 | Touhou: Combinations With You | 214819 | [214819-touhou-combinations-with-you.json](./214819-touhou-combinations-with-you.json) |
 | Touhou: Dreamland of Infinity | 219356 | [219356-touhou-dreamland-of-infinity.json](./219356-touhou-dreamland-of-infinity.json) |
@@ -34620,6 +34632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TVs: The Revival | 233885 | [233885-tvs-the-revival.json](./233885-tvs-the-revival.json) |
 | Twaddle Paddle | 114320 | [114320-twaddle-paddle.json](./114320-twaddle-paddle.json) |
 | Twang | 289142 | [289142-twang.json](./289142-twang.json) |
+| Twango1 | 410519 | [410519-twango1.json](./410519-twango1.json) |
 | Twas The Night | 326207 | [326207-twas-the-night.json](./326207-twas-the-night.json) |
 | Tweak & Destroy | 364610 | [364610-tweak-and-destroy.json](./364610-tweak-and-destroy.json) |
 | Tweaked Revolution | 259029 | [259029-tweaked-revolution.json](./259029-tweaked-revolution.json) |
