@@ -9965,6 +9965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Samurai + The Second Samurai Bundle | 154183 | [154183-the-first-samurai-the-second-samurai-bundle.json](./154183-the-first-samurai-the-second-samurai-bundle.json) |
 | The First Scene | 360867 | [360867-the-first-scene.json](./360867-the-first-scene.json) |
 | The First Settlement VR | 311550 | [311550-the-first-settlement-vr.json](./311550-the-first-settlement-vr.json) |
+| The First Skunk Bundle | 57866 | [57866-the-first-skunk-bundle.json](./57866-the-first-skunk-bundle.json) |
 | The First SMW Hack that will Ever be so Lucky as to Gain the Luxury of Leaving My PC | 278628 | [278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json](./278628-the-first-smw-hack-that-will-ever-be-so-lucky-as-to-gain-the-luxury-of-leaving-my-pc.json) |
 | The First Spark | 32394 | [32394-the-first-spark.json](./32394-the-first-spark.json) |
 | The First Spine - Arena | 386865 | [386865-the-first-spine-arena.json](./386865-the-first-spine-arena.json) |
@@ -23939,6 +23940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Management | 366301 | [366301-time-management.json](./366301-time-management.json) |
 | Time Mysteries 3: The Final Enigma | 17764 | [17764-time-mysteries-3-the-final-enigma.json](./17764-time-mysteries-3-the-final-enigma.json) |
 | Time Mysteries Collection | 53801 | [53801-time-mysteries-collection.json](./53801-time-mysteries-collection.json) |
+| Time Mysteries: Inheritance | 58495 | [58495-time-mysteries-inheritance.json](./58495-time-mysteries-inheritance.json) |
 | Time Mysteries: Inheritance - Remastered | 35726 | [35726-time-mysteries-inheritance-remastered.json](./35726-time-mysteries-inheritance-remastered.json) |
 | Time Navigator | 152022 | [152022-time-navigator.json](./152022-time-navigator.json) |
 | Time Ninja Sakura | 54864 | [54864-time-ninja-sakura.json](./54864-time-ninja-sakura.json) |
@@ -27405,6 +27407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
 | Toten | 233486 | [233486-toten.json](./233486-toten.json) |
 | Totenkampf: Anime Waifus vs WW2 Zombies | 398414 | [398414-totenkampf-anime-waifus-vs-ww2-zombies.json](./398414-totenkampf-anime-waifus-vs-ww2-zombies.json) |
+| Totes the Goat | 57886 | [57886-totes-the-goat.json](./57886-totes-the-goat.json) |
 | Totm | 17865 | [17865-totm.json](./17865-totm.json) |
 | Toto a la Campagne | 137904 | [137904-toto-a-la-campagne.json](./137904-toto-a-la-campagne.json) |
 | Toto Quest | 204852 | [204852-toto-quest.json](./204852-toto-quest.json) |
@@ -28627,6 +28630,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Cowboy Royale: RPG Dragon's Challenge | 378955 | [378955-toy-cowboy-royale-rpg-dragons-challenge.json](./378955-toy-cowboy-royale-rpg-dragons-challenge.json) |
 | Toy Craft | 259887 | [259887-toy-craft.json](./259887-toy-craft.json) |
 | Toy Defense | 57791 | [57791-toy-defense.json](./57791-toy-defense.json) |
+| Toy Defense 2 | 57792 | [57792-toy-defense-2.json](./57792-toy-defense-2.json) |
+| Toy Defense 3: Fantasy | 57790 | [57790-toy-defense-3-fantasy.json](./57790-toy-defense-3-fantasy.json) |
 | Toy Defense. World War I | 88687 | [88687-toy-defense-world-war-i.json](./88687-toy-defense-world-war-i.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
 | Toy Drop Balance Challenge | 342152 | [342152-toy-drop-balance-challenge.json](./342152-toy-drop-balance-challenge.json) |
