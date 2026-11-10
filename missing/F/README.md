@@ -1308,8 +1308,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Frontier | 132621 | [132621-falling-frontier.json](./132621-falling-frontier.json) |
 | Falling Fruit | 359730 | [359730-falling-fruit.json](./359730-falling-fruit.json) |
 | Falling Guys | 361739 | [361739-falling-guys.json](./361739-falling-guys.json) |
+| Falling in Love With Oranges | 419412 | [419412-falling-in-love-with-oranges.json](./419412-falling-in-love-with-oranges.json) |
 | Falling in Love with Zetton | 396296 | [396296-falling-in-love-with-zetton.json](./396296-falling-in-love-with-zetton.json) |
 | Falling in Reverse Heardle | 371468 | [371468-falling-in-reverse-heardle.json](./371468-falling-in-reverse-heardle.json) |
+| Falling in Sorrow | 419413 | [419413-falling-in-sorrow.json](./419413-falling-in-sorrow.json) |
 | Falling Into Dreams | 247962 | [247962-falling-into-dreams.json](./247962-falling-into-dreams.json) |
 | Falling Into You | 218165 | [218165-falling-into-you.json](./218165-falling-into-you.json) |
 | Falling is Not the Same Thing as Dying | 135571 | [135571-falling-is-not-the-same-thing-as-dying.json](./135571-falling-is-not-the-same-thing-as-dying.json) |
