@@ -4698,6 +4698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Empires of Magic | 100471 | [100471-secret-empires-of-magic.json](./100471-secret-empires-of-magic.json) |
 | Secret Empires of the Ancient World | 84857 | [84857-secret-empires-of-the-ancient-world.json](./84857-secret-empires-of-the-ancient-world.json) |
 | Secret Files 2: Puritas Cordis | 5146 | [5146-secret-files-2-puritas-cordis.json](./5146-secret-files-2-puritas-cordis.json) |
+| Secret Files 3 | 16397 | [16397-secret-files-3.json](./16397-secret-files-3.json) |
 | Secret Files: Tunguska | 5145 | [5145-secret-files-tunguska.json](./5145-secret-files-tunguska.json) |
 | Secret Files: Tunguska - Remastered | 399165 | [399165-secret-files-tunguska-remastered.json](./399165-secret-files-tunguska-remastered.json) |
 | Secret Flirts | 206638 | [206638-secret-flirts.json](./206638-secret-flirts.json) |
@@ -5749,6 +5750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura | 102788 | [102788-senran-kagura.json](./102788-senran-kagura.json) |
 | Senran Kagura 2: Deep Crimson - Double D Edition | 47690 | [47690-senran-kagura-2-deep-crimson-double-d-edition.json](./47690-senran-kagura-2-deep-crimson-double-d-edition.json) |
 | Senran Kagura 7even | 53657 | [53657-senran-kagura-7even.json](./53657-senran-kagura-7even.json) |
+| Senran Kagura Bon Appétit! | 11530 | [11530-senran-kagura-bon-appetit.json](./11530-senran-kagura-bon-appetit.json) |
 | Senran Kagura Bon Appétit!: Full Course | 26008 | [26008-senran-kagura-bon-appetit-full-course.json](./26008-senran-kagura-bon-appetit-full-course.json) |
 | Senran Kagura Burst | 9915 | [9915-senran-kagura-burst.json](./9915-senran-kagura-burst.json) |
 | Senran Kagura Burst Re:Newal - At the Seams Edition | 136354 | [136354-senran-kagura-burst-re-newal-at-the-seams-edition.json](./136354-senran-kagura-burst-re-newal-at-the-seams-edition.json) |
@@ -5816,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sensible Soccer 2006 | 20535 | [20535-sensible-soccer-2006.json](./20535-sensible-soccer-2006.json) |
 | Sensible Soccer Skills | 165477 | [165477-sensible-soccer-skills.json](./165477-sensible-soccer-skills.json) |
 | Sensible Soccer Skillz | 165478 | [165478-sensible-soccer-skillz.json](./165478-sensible-soccer-skillz.json) |
+| Sensible Soccer: European Champions | 13257 | [13257-sensible-soccer-european-champions.json](./13257-sensible-soccer-european-champions.json) |
 | Sensible Soccer: European Champions | 165408 | [165408-sensible-soccer-european-champions.json](./165408-sensible-soccer-european-champions.json) |
 | Sensible Soccer: European Club Edition | 79250 | [79250-sensible-soccer-european-club-edition.json](./79250-sensible-soccer-european-club-edition.json) |
 | Sensible Train-Spotting | 77374 | [77374-sensible-train-spotting.json](./77374-sensible-train-spotting.json) |
@@ -9607,6 +9610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Trilogy | 61465 | [61465-shooting-trilogy.json](./61465-shooting-trilogy.json) |
 | Shooting Type | 163854 | [163854-shooting-type.json](./163854-shooting-type.json) |
 | Shooting Zombie | 245053 | [245053-shooting-zombie.json](./245053-shooting-zombie.json) |
+| ShootMania Storm | 16464 | [16464-shootmania-storm.json](./16464-shootmania-storm.json) |
 | Shootout | 245146 | [245146-shootout.json](./245146-shootout.json) |
 | Shootout | 253152 | [253152-shootout.json](./253152-shootout.json) |
 | Shootout | 287555 | [287555-shootout.json](./287555-shootout.json) |
@@ -16894,6 +16898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokobear: Winter | 171878 | [171878-sokobear-winter.json](./171878-sokobear-winter.json) |
 | Sokoblox | 299363 | [299363-sokoblox.json](./299363-sokoblox.json) |
 | Sokobomb | 381513 | [381513-sokobomb.json](./381513-sokobomb.json) |
+| Sokobond | 13544 | [13544-sokobond.json](./13544-sokobond.json) |
 | Sokobond Express | 164896 | [164896-sokobond-express.json](./164896-sokobond-express.json) |
 | Sokobos | 189863 | [189863-sokobos.json](./189863-sokobos.json) |
 | Sokobos 2 | 347350 | [347350-sokobos-2.json](./347350-sokobos-2.json) |
@@ -26262,6 +26267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarL2 | 274570 | [274570-starl2.json](./274570-starl2.json) |
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
 | Starlair | 321199 | [321199-starlair.json](./321199-starlair.json) |
+| StarLancer | 11230 | [11230-starlancer.json](./11230-starlancer.json) |
 | Starlaxis - Light Hunter | 64465 | [64465-starlaxis-light-hunter.json](./64465-starlaxis-light-hunter.json) |
 | Starlaxis Supernova Edition | 36072 | [36072-starlaxis-supernova-edition.json](./36072-starlaxis-supernova-edition.json) |
 | Starlaxy Cats | 321416 | [321416-starlaxy-cats.json](./321416-starlaxy-cats.json) |
