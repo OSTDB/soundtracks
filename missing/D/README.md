@@ -6983,6 +6983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Rise 2: Lords of Chaos | 104107 | [104107-demons-rise-2-lords-of-chaos.json](./104107-demons-rise-2-lords-of-chaos.json) |
 | Demon's Rise: War for the Deep | 99656 | [99656-demons-rise-war-for-the-deep.json](./99656-demons-rise-war-for-the-deep.json) |
 | Demon's Score | 27148 | [27148-demons-score.json](./27148-demons-score.json) |
+| Demon's Soulbound | 409906 | [409906-demons-soulbound.json](./409906-demons-soulbound.json) |
 | Demon's Souls: Black Phantom Edition | 23363 | [23363-demons-souls-black-phantom-edition.json](./23363-demons-souls-black-phantom-edition.json) |
 | Demon's Souls: Boletarian Royalty Armor | 344308 | [344308-demons-souls-boletarian-royalty-armor.json](./344308-demons-souls-boletarian-royalty-armor.json) |
 | Demon's Souls: Deluxe Edition | 43010 | [43010-demons-souls-deluxe-edition.json](./43010-demons-souls-deluxe-edition.json) |
@@ -9656,6 +9657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digging for Worms | 317443 | [317443-digging-for-worms.json](./317443-digging-for-worms.json) |
 | Digging Hours | 342749 | [342749-digging-hours.json](./342749-digging-hours.json) |
 | Digging Jim | 19222 | [19222-digging-jim.json](./19222-digging-jim.json) |
+| Digging Simulator | 409927 | [409927-digging-simulator.json](./409927-digging-simulator.json) |
 | Digging the Forgotten Cave | 365828 | [365828-digging-the-forgotten-cave.json](./365828-digging-the-forgotten-cave.json) |
 | Digging Together | 372405 | [372405-digging-together.json](./372405-digging-together.json) |
 | Digging Town | 364219 | [364219-digging-town.json](./364219-digging-town.json) |
@@ -16857,6 +16859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Fire | 241951 | [241951-dream-fire.json](./241951-dream-fire.json) |
 | Dream Fish | 295516 | [295516-dream-fish.json](./295516-dream-fish.json) |
 | Dream Fishing | 128823 | [128823-dream-fishing.json](./128823-dream-fishing.json) |
+| Dream Fishing | 409909 | [409909-dream-fishing.json](./409909-dream-fishing.json) |
 | Dream Flash | 118251 | [118251-dream-flash.json](./118251-dream-flash.json) |
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
 | Dream Frontier | 301902 | [301902-dream-frontier.json](./301902-dream-frontier.json) |
