@@ -2144,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuri Blossom! | 358314 | [358314-yuri-blossom.json](./358314-yuri-blossom.json) |
 | Yuri Dating Agency | 150818 | [150818-yuri-dating-agency.json](./150818-yuri-dating-agency.json) |
 | Yuri Kago no Sora | 133739 | [133739-yuri-kago-no-sora.json](./133739-yuri-kago-no-sora.json) |
+| Yuri Love Slave: Watashi dake no Iinchou | 397471 | [397471-yuri-love-slave-watashi-dake-no-iinchou.json](./397471-yuri-love-slave-watashi-dake-no-iinchou.json) |
 | Yuri Lowell Prints a Gun | 328431 | [328431-yuri-lowell-prints-a-gun.json](./328431-yuri-lowell-prints-a-gun.json) |
 | Yuri Ogibalov's Bizarre Adventure | 156032 | [156032-yuri-ogibalovs-bizarre-adventure.json](./156032-yuri-ogibalovs-bizarre-adventure.json) |
 | Yuri Paddle: An Anime Convention Murder Mystery | 318404 | [318404-yuri-paddle-an-anime-convention-murder-mystery.json](./318404-yuri-paddle-an-anime-convention-murder-mystery.json) |
