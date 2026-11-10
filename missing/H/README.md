@@ -3535,6 +3535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeats: A Galactic Requiem | 60473 | [60473-heartbeats-a-galactic-requiem.json](./60473-heartbeats-a-galactic-requiem.json) |
 | Heartbite: Dating by Daylight | 241852 | [241852-heartbite-dating-by-daylight.json](./241852-heartbite-dating-by-daylight.json) |
 | HeartBound | 377566 | [377566-heartbound.json](./377566-heartbound.json) |
+| Heartbreak High: A Break-Up Simulator | 101256 | [101256-heartbreak-high-a-break-up-simulator.json](./101256-heartbreak-high-a-break-up-simulator.json) |
 | Heartbreak Hysteria | 376519 | [376519-heartbreak-hysteria.json](./376519-heartbreak-hysteria.json) |
 | Heartbreak Land | 305603 | [305603-heartbreak-land.json](./305603-heartbreak-land.json) |
 | Heartbreaker: The Visual Novel | 306454 | [306454-heartbreaker-the-visual-novel.json](./306454-heartbreaker-the-visual-novel.json) |
