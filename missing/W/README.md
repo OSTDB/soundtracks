@@ -4002,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Bat?: Batty Goes to Battywood | 306932 | [306932-what-the-bat-batty-goes-to-battywood.json](./306932-what-the-bat-batty-goes-to-battywood.json) |
 | What the Block | 65327 | [65327-what-the-block.json](./65327-what-the-block.json) |
 | What the Box? | 23943 | [23943-what-the-box.json](./23943-what-the-box.json) |
+| What the Buck?! | 425412 | [425412-what-the-buck.json](./425412-what-the-buck.json) |
 | What the Bus? | 139606 | [139606-what-the-bus.json](./139606-what-the-bus.json) |
 | What the Car? | 248580 | [248580-what-the-car.json](./248580-what-the-car.json) |
 | What the Car? x Goat Simulator+ | 400246 | [400246-what-the-car-x-goat-simulator.json](./400246-what-the-car-x-goat-simulator.json) |
@@ -5822,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willows: A Dream of Shadows | 385330 | [385330-willows-a-dream-of-shadows.json](./385330-willows-a-dream-of-shadows.json) |
 | Wills and Wonders | 26360 | [26360-wills-and-wonders.json](./26360-wills-and-wonders.json) |
 | Wills test game | 82079 | [82079-wills-test-game.json](./82079-wills-test-game.json) |
+| Willy and Charlie: Solitaire | 425416 | [425416-willy-and-charlie-solitaire.json](./425416-willy-and-charlie-solitaire.json) |
 | Willy and Rosie: Bust Out of the Big House | 273387 | [273387-willy-and-rosie-bust-out-of-the-big-house.json](./273387-willy-and-rosie-bust-out-of-the-big-house.json) |
 | Willy Byte in the Digital Dimension | 319887 | [319887-willy-byte-in-the-digital-dimension.json](./319887-willy-byte-in-the-digital-dimension.json) |
 | Willy Crash | 225626 | [225626-willy-crash.json](./225626-willy-crash.json) |
@@ -6214,6 +6216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winnie Witch's Superbroom | 60047 | [60047-winnie-witchs-superbroom.json](./60047-winnie-witchs-superbroom.json) |
 | Winnie-the-Bear: Honey Run | 326697 | [326697-winnie-the-bear-honey-run.json](./326697-winnie-the-bear-honey-run.json) |
 | Winnie-the-Pooh Hops for Honey | 349335 | [349335-winnie-the-pooh-hops-for-honey.json](./349335-winnie-the-pooh-hops-for-honey.json) |
+| Winnie-the-Pooh Redux: Halloween Survivors | 425406 | [425406-winnie-the-pooh-redux-halloween-survivors.json](./425406-winnie-the-pooh-redux-halloween-survivors.json) |
 | Winnie-The-Pooh Taste Test | 289832 | [289832-winnie-the-pooh-taste-test.json](./289832-winnie-the-pooh-taste-test.json) |
 | Winnie-the-Pooh: Black Honey | 366261 | [366261-winnie-the-pooh-black-honey.json](./366261-winnie-the-pooh-black-honey.json) |
 | Winnie-the-Pooh: Realm of Torment | 253809 | [253809-winnie-the-pooh-realm-of-torment.json](./253809-winnie-the-pooh-realm-of-torment.json) |
@@ -9079,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldend Heroes | 364826 | [364826-worldend-heroes.json](./364826-worldend-heroes.json) |
 | Worldforge: Construct & Destroy | 413125 | [413125-worldforge-construct-and-destroy.json](./413125-worldforge-construct-and-destroy.json) |
 | WorldGuessr | 315679 | [315679-worldguessr.json](./315679-worldguessr.json) |
+| Worldkampf '72 | 425430 | [425430-worldkampf-72.json](./425430-worldkampf-72.json) |
 | Worldle | 193524 | [193524-worldle.json](./193524-worldle.json) |
 | Worldless | 214709 | [214709-worldless.json](./214709-worldless.json) |
 | Worldless - Mercenaries | 127598 | [127598-worldless-mercenaries.json](./127598-worldless-mercenaries.json) |
