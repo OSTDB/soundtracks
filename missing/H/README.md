@@ -788,6 +788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Night II | 209448 | [209448-halloween-night-ii.json](./209448-halloween-night-ii.json) |
 | Halloween Night Mahjong | 156831 | [156831-halloween-night-mahjong.json](./156831-halloween-night-mahjong.json) |
 | Halloween Night(Mare) | 145165 | [145165-halloween-night-mare.json](./145165-halloween-night-mare.json) |
+| Halloween on Goober Street | 423620 | [423620-halloween-on-goober-street.json](./423620-halloween-on-goober-street.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
 | Halloween Otome | 125569 | [125569-halloween-otome.json](./125569-halloween-otome.json) |
 | Halloween Panic! | 359458 | [359458-halloween-panic.json](./359458-halloween-panic.json) |
