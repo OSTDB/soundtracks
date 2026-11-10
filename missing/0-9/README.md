@@ -3072,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 Blockbuster Games Volume 2 | 259411 | [259411-50-blockbuster-games-volume-2.json](./259411-50-blockbuster-games-volume-2.json) |
 | 50 Cent: Blood on the Sand | 5472 | [5472-50-cent-blood-on-the-sand.json](./5472-50-cent-blood-on-the-sand.json) |
 | 50 Cent: Bulletproof | 4011 | [4011-50-cent-bulletproof.json](./4011-50-cent-bulletproof.json) |
+| 50 Cent: Bulletproof - G-Unit Edition | 23122 | [23122-50-cent-bulletproof-g-unit-edition.json](./23122-50-cent-bulletproof-g-unit-edition.json) |
 | 50 Cents Please | 367504 | [367504-50-cents-please.json](./367504-50-cents-please.json) |
 | 50 Classic Games | 48034 | [48034-50-classic-games.json](./48034-50-classic-games.json) |
 | 50 Classic Games 3D | 44027 | [44027-50-classic-games-3d.json](./44027-50-classic-games-3d.json) |
@@ -3398,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Dragon III Code: VFD | 11828 | [11828-7th-dragon-iii-code-vfd.json](./11828-7th-dragon-iii-code-vfd.json) |
 | 7th Dragon III Code: VFD - Launch Edition | 44019 | [44019-7th-dragon-iii-code-vfd-launch-edition.json](./44019-7th-dragon-iii-code-vfd-launch-edition.json) |
 | 7th Floor | 305696 | [305696-7th-floor.json](./305696-7th-floor.json) |
+| 7th Legion | 9895 | [9895-7th-legion.json](./9895-7th-legion.json) |
 | 7th Memory | 255428 | [255428-7th-memory.json](./255428-7th-memory.json) |
 | 7th Sea: A Pirate's Pact | 113865 | [113865-7th-sea-a-pirates-pact.json](./113865-7th-sea-a-pirates-pact.json) |
 | 7th Sector: Museum | 172115 | [172115-7th-sector-museum.json](./172115-7th-sector-museum.json) |
