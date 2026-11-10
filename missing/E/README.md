@@ -6595,6 +6595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etherium | 401481 | [401481-etherium.json](./401481-etherium.json) |
 | Etherium | 8923 | [8923-etherium.json](./8923-etherium.json) |
 | Etherjump | 219071 | [219071-etherjump.json](./219071-etherjump.json) |
+| Etherland Saga | 420620 | [420620-etherland-saga.json](./420620-etherland-saga.json) |
 | Etherlords | 11407 | [11407-etherlords.json](./11407-etherlords.json) |
 | Etherlords | 344027 | [344027-etherlords.json](./344027-etherlords.json) |
 | Etherlords II | 11408 | [11408-etherlords-ii.json](./11408-etherlords-ii.json) |
