@@ -2902,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Creatures 2 | 271374 | [271374-legendary-creatures-2.json](./271374-legendary-creatures-2.json) |
 | Legendary Dwarves: Retribution | 187893 | [187893-legendary-dwarves-retribution.json](./187893-legendary-dwarves-retribution.json) |
 | Legendary DXP | 69357 | [69357-legendary-dxp.json](./69357-legendary-dxp.json) |
+| Legendary Eleven | 101259 | [101259-legendary-eleven.json](./101259-legendary-eleven.json) |
 | Legendary Eleven: Epic Football | 102260 | [102260-legendary-eleven-epic-football.json](./102260-legendary-eleven-epic-football.json) |
 | Legendary Fighter: Battle of God | 208093 | [208093-legendary-fighter-battle-of-god.json](./208093-legendary-fighter-battle-of-god.json) |
 | Legendary Fighters | 188232 | [188232-legendary-fighters.json](./188232-legendary-fighters.json) |
