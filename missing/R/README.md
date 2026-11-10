@@ -8087,6 +8087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riptale | 28313 | [28313-riptale.json](./28313-riptale.json) |
 | Riptale: Deluxe Edition | 53509 | [53509-riptale-deluxe-edition.json](./53509-riptale-deluxe-edition.json) |
 | Riptide | 291236 | [291236-riptide.json](./291236-riptide.json) |
+| Riptide GP | 21607 | [21607-riptide-gp.json](./21607-riptide-gp.json) |
 | Riptide GP: Renegade | 21606 | [21606-riptide-gp-renegade.json](./21606-riptide-gp-renegade.json) |
 | Riptide GP2 | 16735 | [16735-riptide-gp2.json](./16735-riptide-gp2.json) |
 | Riptoff | 142367 | [142367-riptoff.json](./142367-riptoff.json) |
