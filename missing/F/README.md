@@ -9625,6 +9625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Heroes 2015 | 238305 | [238305-football-heroes-2015.json](./238305-football-heroes-2015.json) |
 | Football Heroes League | 342492 | [342492-football-heroes-league.json](./342492-football-heroes-league.json) |
 | Football Heroes Pro 2016 | 59730 | [59730-football-heroes-pro-2016.json](./59730-football-heroes-pro-2016.json) |
+| Football Heroes Turbo | 108281 | [108281-football-heroes-turbo.json](./108281-football-heroes-turbo.json) |
 | Football Highlights 2052 | 175096 | [175096-football-highlights-2052.json](./175096-football-highlights-2052.json) |
 | Football History Football Simulator | 208566 | [208566-football-history-football-simulator.json](./208566-football-history-football-simulator.json) |
 | Football International | 49079 | [49079-football-international.json](./49079-football-international.json) |
@@ -11706,6 +11707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragile Equilibrium | 113757 | [113757-fragile-equilibrium.json](./113757-fragile-equilibrium.json) |
 | Fragile Existence | 173020 | [173020-fragile-existence.json](./173020-fragile-existence.json) |
 | Fragile Feelings | 240688 | [240688-fragile-feelings.json](./240688-fragile-feelings.json) |
+| Fragile Fighter | 108327 | [108327-fragile-fighter.json](./108327-fragile-fighter.json) |
 | Fragile Frontier | 390372 | [390372-fragile-frontier.json](./390372-fragile-frontier.json) |
 | Fragile Hero and the Immortal Frog | 353830 | [353830-fragile-hero-and-the-immortal-frog.json](./353830-fragile-hero-and-the-immortal-frog.json) |
 | Fragile Love | 275419 | [275419-fragile-love.json](./275419-fragile-love.json) |
@@ -13504,6 +13506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
 | Fruit Switch | 265599 | [265599-fruit-switch.json](./265599-fruit-switch.json) |
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
+| Fruit Tower Defense | 108009 | [108009-fruit-tower-defense.json](./108009-fruit-tower-defense.json) |
 | Fruit Wand | 345413 | [345413-fruit-wand.json](./345413-fruit-wand.json) |
 | Fruit Warrior AR | 241047 | [241047-fruit-warrior-ar.json](./241047-fruit-warrior-ar.json) |
 | Fruit Wars | 344398 | [344398-fruit-wars.json](./344398-fruit-wars.json) |
