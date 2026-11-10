@@ -1362,6 +1362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Raetrethra: Legends of the Past - Chapter 1 | 186515 | [186515-tales-of-raetrethra-legends-of-the-past-chapter-1.json](./186515-tales-of-raetrethra-legends-of-the-past-chapter-1.json) |
 | Tales of Rebirth | 1205 | [1205-tales-of-rebirth.json](./1205-tales-of-rebirth.json) |
 | Tales of Rein Ravine | 319551 | [319551-tales-of-rein-ravine.json](./319551-tales-of-rein-ravine.json) |
+| Tales of Rome: Grand Empire | 426085 | [426085-tales-of-rome-grand-empire.json](./426085-tales-of-rome-grand-empire.json) |
 | Tales of Rome: Solitaire | 124389 | [124389-tales-of-rome-solitaire.json](./124389-tales-of-rome-solitaire.json) |
 | Tales of Sabotage | 226608 | [226608-tales-of-sabotage.json](./226608-tales-of-sabotage.json) |
 | Tales of SclObonia | 368806 | [368806-tales-of-sclobonia.json](./368806-tales-of-sclobonia.json) |
@@ -2700,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tashio Tempo | 403579 | [403579-tashio-tempo.json](./403579-tashio-tempo.json) |
 | Tashiro Masashi no Princess ga Ippai | 41709 | [41709-tashiro-masashi-no-princess-ga-ippai.json](./41709-tashiro-masashi-no-princess-ga-ippai.json) |
 | Task Attack | 106957 | [106957-task-attack.json](./106957-task-attack.json) |
+| Task Bar Isekai | 425980 | [425980-task-bar-isekai.json](./425980-task-bar-isekai.json) |
 | Task Bar of Ragnalis | 412476 | [412476-task-bar-of-ragnalis.json](./412476-task-bar-of-ragnalis.json) |
 | Task Control | 264989 | [264989-task-control.json](./264989-task-control.json) |
 | Task Force | 145462 | [145462-task-force.json](./145462-task-force.json) |
@@ -4071,6 +4073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Days to War | 122161 | [122161-ten-days-to-war.json](./122161-ten-days-to-war.json) |
 | Ten Deadly Games | 378271 | [378271-ten-deadly-games.json](./378271-ten-deadly-games.json) |
 | Ten Little Indians | 24695 | [24695-ten-little-indians.json](./24695-ten-little-indians.json) |
+| Ten Little Taffers | 426066 | [426066-ten-little-taffers.json](./426066-ten-little-taffers.json) |
 | Ten made Jack: Odoroki Mamenoki Daitoubou!! | 198364 | [198364-ten-made-jack-odoroki-mamenoki-daitoubou.json](./198364-ten-made-jack-odoroki-mamenoki-daitoubou.json) |
 | Ten ni Takaku Chi ni Fukaku | 191713 | [191713-ten-ni-takaku-chi-ni-fukaku.json](./191713-ten-ni-takaku-chi-ni-fukaku.json) |
 | Ten Nights of Killing and Mayhem at F.J.B. II | 2496 | [2496-ten-nights-of-killing-and-mayhem-at-f-j-b-ii.json](./2496-ten-nights-of-killing-and-mayhem-at-f-j-b-ii.json) |
@@ -5186,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Bliss | 260536 | [260536-tetris-bliss.json](./260536-tetris-bliss.json) |
 | Tetris Blitz | 63150 | [63150-tetris-blitz.json](./63150-tetris-blitz.json) |
 | Tetris Block Puzzle | 309098 | [309098-tetris-block-puzzle.json](./309098-tetris-block-puzzle.json) |
+| Tetris Burst | 426003 | [426003-tetris-burst.json](./426003-tetris-burst.json) |
 | Tetris Christmas | 236087 | [236087-tetris-christmas.json](./236087-tetris-christmas.json) |
 | Tetris City | 330701 | [330701-tetris-city.json](./330701-tetris-city.json) |
 | Tetris Classic | 79545 | [79545-tetris-classic.json](./79545-tetris-classic.json) |
@@ -8634,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demon Queen's Dire Dilemma | 347449 | [347449-the-demon-queens-dire-dilemma.json](./347449-the-demon-queens-dire-dilemma.json) |
 | The Demon Rush | 56032 | [56032-the-demon-rush.json](./56032-the-demon-rush.json) |
 | The Demon Rush: Legends Corrupt | 148064 | [148064-the-demon-rush-legends-corrupt.json](./148064-the-demon-rush-legends-corrupt.json) |
+| The Demon Wants to Marry the Princess or Lose Her at Poker | 425979 | [425979-the-demon-wants-to-marry-the-princess-or-lose-her-at-poker.json](./425979-the-demon-wants-to-marry-the-princess-or-lose-her-at-poker.json) |
 | The Demon Within Me | 221194 | [221194-the-demon-within-me.json](./221194-the-demon-within-me.json) |
 | The Demon's Apple: Otome Game | 374389 | [374389-the-demons-apple-otome-game.json](./374389-the-demons-apple-otome-game.json) |
 | The Demon's Exorcism | 296472 | [296472-the-demons-exorcism.json](./296472-the-demons-exorcism.json) |
@@ -10607,6 +10612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Harp | 176784 | [176784-the-golden-harp.json](./176784-the-golden-harp.json) |
 | The Golden Horde | 21482 | [21482-the-golden-horde.json](./21482-the-golden-horde.json) |
 | The Golden Horde: Story of Jambul | 427856 | [427856-the-golden-horde-story-of-jambul.json](./427856-the-golden-horde-story-of-jambul.json) |
+| The Golden Horde: Survival | 426025 | [426025-the-golden-horde-survival.json](./426025-the-golden-horde-survival.json) |
 | The Golden Idol Saga | 415347 | [415347-the-golden-idol-saga.json](./415347-the-golden-idol-saga.json) |
 | The Golden Mare | 364663 | [364663-the-golden-mare.json](./364663-the-golden-mare.json) |
 | The Golden Path of Plumeboom | 24736 | [24736-the-golden-path-of-plumeboom.json](./24736-the-golden-path-of-plumeboom.json) |
@@ -13539,6 +13545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lighthouse \| VR Escape Room | 111710 | [111710-the-lighthouse-vr-escape-room.json](./111710-the-lighthouse-vr-escape-room.json) |
 | The Lighthouse of São Bento do Oeste | 192894 | [192894-the-lighthouse-of-sao-bento-do-oeste.json](./192894-the-lighthouse-of-sao-bento-do-oeste.json) |
 | The Lighthouse Secrets | 348428 | [348428-the-lighthouse-secrets.json](./348428-the-lighthouse-secrets.json) |
+| The Lighthouse Whispers | 425991 | [425991-the-lighthouse-whispers.json](./425991-the-lighthouse-whispers.json) |
 | The Lighting Ages | 339189 | [339189-the-lighting-ages.json](./339189-the-lighting-ages.json) |
 | The Lightkeeper | 215737 | [215737-the-lightkeeper.json](./215737-the-lightkeeper.json) |
 | The Lightkeeper | 240553 | [240553-the-lightkeeper.json](./240553-the-lightkeeper.json) |
@@ -20729,6 +20736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheZone | 146225 | [146225-thezone.json](./146225-thezone.json) |
 | Thicc Wet Paper Layers | 178862 | [178862-thicc-wet-paper-layers.json](./178862-thicc-wet-paper-layers.json) |
 | THICC: The Himalayan Ice Climbing Challenge | 190021 | [190021-thicc-the-himalayan-ice-climbing-challenge.json](./190021-thicc-the-himalayan-ice-climbing-challenge.json) |
+| Thiccfoot | 426020 | [426020-thiccfoot.json](./426020-thiccfoot.json) |
 | Thick Air | 31392 | [31392-thick-air.json](./31392-thick-air.json) |
 | Thick as Thieves | 224511 | [224511-thick-as-thieves.json](./224511-thick-as-thieves.json) |
 | Thick Light | 334794 | [334794-thick-light.json](./334794-thick-light.json) |
@@ -21505,6 +21513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through Time | 206220 | [206220-through-time.json](./206220-through-time.json) |
 | Through Time the Girl Puzzle | 262933 | [262933-through-time-the-girl-puzzle.json](./262933-through-time-the-girl-puzzle.json) |
 | ThrounnelVR | 31877 | [31877-throunnelvr.json](./31877-throunnelvr.json) |
+| Throuple in Paradise | 426067 | [426067-throuple-in-paradise.json](./426067-throuple-in-paradise.json) |
 | Throw Anything | 86622 | [86622-throw-anything.json](./86622-throw-anything.json) |
 | Throw Anything: Zombie Invaders | 373090 | [373090-throw-anything-zombie-invaders.json](./373090-throw-anything-zombie-invaders.json) |
 | Throw Bro | 302350 | [302350-throw-bro.json](./302350-throw-bro.json) |
@@ -23654,6 +23663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Conquest | 424597 | [424597-tile-conquest.json](./424597-tile-conquest.json) |
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
 | Tile Crusher | 186221 | [186221-tile-crusher.json](./186221-tile-crusher.json) |
+| Tile Former | 426041 | [426041-tile-former.json](./426041-tile-former.json) |
 | Tile Game Classic | 88272 | [88272-tile-game-classic.json](./88272-tile-game-classic.json) |
 | Tile Garden | 214305 | [214305-tile-garden.json](./214305-tile-garden.json) |
 | Tile Garden | 234483 | [234483-tile-garden.json](./234483-tile-garden.json) |
@@ -32014,6 +32024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tret | 314932 | [314932-tret.json](./314932-tret.json) |
 | Tretis | 277980 | [277980-tretis.json](./277980-tretis.json) |
 | Tretrais | 346675 | [346675-tretrais.json](./346675-tretrais.json) |
+| Treug Dispute: Tabletop Interpretation | 425997 | [425997-treug-dispute-tabletop-interpretation.json](./425997-treug-dispute-tabletop-interpretation.json) |
 | Trev to the Rescue! | 263667 | [263667-trev-to-the-rescue.json](./263667-trev-to-the-rescue.json) |
 | Trevor Daison in Outer Space: Chapter One | 233130 | [233130-trevor-daison-in-outer-space-chapter-one.json](./233130-trevor-daison-in-outer-space-chapter-one.json) |
 | Trevor McFur in the Crescent Galaxy | 40830 | [40830-trevor-mcfur-in-the-crescent-galaxy.json](./40830-trevor-mcfur-in-the-crescent-galaxy.json) |
