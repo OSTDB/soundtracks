@@ -2965,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -6575,6 +6576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuroshio: Awakening | 188252 | [188252-kuroshio-awakening.json](./188252-kuroshio-awakening.json) |
 | Kuroshio: Neon Blood | 425456 | [425456-kuroshio-neon-blood.json](./425456-kuroshio-neon-blood.json) |
 | Kuroshitsuji: Phantom & Ghost | 36752 | [36752-kuroshitsuji-phantom-and-ghost.json](./36752-kuroshitsuji-phantom-and-ghost.json) |
+| Kurotsuki | 397468 | [397468-kurotsuki.json](./397468-kurotsuki.json) |
 | Kuroyuki Hime: Snow Black | 218951 | [218951-kuroyuki-hime-snow-black.json](./218951-kuroyuki-hime-snow-black.json) |
 | Kuroyuki Hime: Snow Magic | 218952 | [218952-kuroyuki-hime-snow-magic.json](./218952-kuroyuki-hime-snow-magic.json) |
 | Kurr Snaga | 117809 | [117809-kurr-snaga.json](./117809-kurr-snaga.json) |
