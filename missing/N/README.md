@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Clash of Ninja | 4026 | [4026-naruto-clash-of-ninja.json](./4026-naruto-clash-of-ninja.json) |
 | Naruto: Clash of Ninja 2 | 24289 | [24289-naruto-clash-of-ninja-2.json](./24289-naruto-clash-of-ninja-2.json) |
 | Naruto: Clash of Ninja Revolution | 19622 | [19622-naruto-clash-of-ninja-revolution.json](./19622-naruto-clash-of-ninja-revolution.json) |
+| Naruto: Clash of Ninja Revolution 2 | 21260 | [21260-naruto-clash-of-ninja-revolution-2.json](./21260-naruto-clash-of-ninja-revolution-2.json) |
 | Naruto: Gekitou Ninja Taisen! 3 | 75836 | [75836-naruto-gekitou-ninja-taisen-3.json](./75836-naruto-gekitou-ninja-taisen-3.json) |
 | Naruto: Gekitou Ninja Taisen! 4 | 75837 | [75837-naruto-gekitou-ninja-taisen-4.json](./75837-naruto-gekitou-ninja-taisen-4.json) |
 | Naruto: Konoha Ninpouchou | 37358 | [37358-naruto-konoha-ninpouchou.json](./37358-naruto-konoha-ninpouchou.json) |
@@ -1431,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 14 | 5330 | [5330-nba-live-14.json](./5330-nba-live-14.json) |
 | NBA Live 15 | 7717 | [7717-nba-live-15.json](./7717-nba-live-15.json) |
 | NBA Live 18: The One Edition | 82546 | [82546-nba-live-18-the-one-edition.json](./82546-nba-live-18-the-one-edition.json) |
+| NBA Live 19 | 103275 | [103275-nba-live-19.json](./103275-nba-live-19.json) |
 | NBA Live 19 Companion | 108456 | [108456-nba-live-19-companion.json](./108456-nba-live-19-companion.json) |
 | NBA Live 19: The One Edition | 118944 | [118944-nba-live-19-the-one-edition.json](./118944-nba-live-19-the-one-edition.json) |
 | NBA Live 20 | 114284 | [114284-nba-live-20.json](./114284-nba-live-20.json) |
