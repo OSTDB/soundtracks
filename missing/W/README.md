@@ -2097,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors Orochi 3 Hyper | 28368 | [28368-warriors-orochi-3-hyper.json](./28368-warriors-orochi-3-hyper.json) |
 | Warriors Orochi 3: Ultimate | 20058 | [20058-warriors-orochi-3-ultimate.json](./20058-warriors-orochi-3-ultimate.json) |
 | Warriors Orochi 4 | 93746 | [93746-warriors-orochi-4.json](./93746-warriors-orochi-4.json) |
+| Warriors Orochi 4 Ultimate | 122081 | [122081-warriors-orochi-4-ultimate.json](./122081-warriors-orochi-4-ultimate.json) |
 | Warriors Orochi 4: Deluxe Edition | 118941 | [118941-warriors-orochi-4-deluxe-edition.json](./118941-warriors-orochi-4-deluxe-edition.json) |
 | Warriors Orochi 4: Scenario Pack | 237975 | [237975-warriors-orochi-4-scenario-pack.json](./237975-warriors-orochi-4-scenario-pack.json) |
 | Warriors Orochi 4: Scenario Pack 1 | 252804 | [252804-warriors-orochi-4-scenario-pack-1.json](./252804-warriors-orochi-4-scenario-pack-1.json) |
@@ -2365,6 +2366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland 2: Director's Cut - Digital Classic Edition | 124999 | [124999-wasteland-2-directors-cut-digital-classic-edition.json](./124999-wasteland-2-directors-cut-digital-classic-edition.json) |
 | Wasteland 2: Director's Cut - Digital Deluxe Edition | 53134 | [53134-wasteland-2-directors-cut-digital-deluxe-edition.json](./53134-wasteland-2-directors-cut-digital-deluxe-edition.json) |
 | Wasteland 3: Colorado Collection | 165320 | [165320-wasteland-3-colorado-collection.json](./165320-wasteland-3-colorado-collection.json) |
+| Wasteland 3: Cult of the Holy Detonation | 165319 | [165319-wasteland-3-cult-of-the-holy-detonation.json](./165319-wasteland-3-cult-of-the-holy-detonation.json) |
 | Wasteland 3: Day One Edition | 139893 | [139893-wasteland-3-day-one-edition.json](./139893-wasteland-3-day-one-edition.json) |
 | Wasteland 3: Deluxe Edition | 154225 | [154225-wasteland-3-deluxe-edition.json](./154225-wasteland-3-deluxe-edition.json) |
 | Wasteland 3: The Battle of Steeltown | 145818 | [145818-wasteland-3-the-battle-of-steeltown.json](./145818-wasteland-3-the-battle-of-steeltown.json) |
@@ -3755,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westworld | 90565 | [90565-westworld.json](./90565-westworld.json) |
 | Westworld | 97841 | [97841-westworld.json](./97841-westworld.json) |
 | Westworld 2000 | 72304 | [72304-westworld-2000.json](./72304-westworld-2000.json) |
+| Westworld Awakening | 121924 | [121924-westworld-awakening.json](./121924-westworld-awakening.json) |
 | Wet | 331273 | [331273-wet.json](./331273-wet.json) |
 | Wet and Wild | 369893 | [369893-wet-and-wild.json](./369893-wet-and-wild.json) |
 | Wet Attack: The Empire Cums Back | 73159 | [73159-wet-attack-the-empire-cums-back.json](./73159-wet-attack-the-empire-cums-back.json) |
