@@ -2702,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Your Heart | 337624 | [337624-kill-your-heart.json](./337624-kill-your-heart.json) |
 | Kill Your Shapes | 243537 | [243537-kill-your-shapes.json](./243537-kill-your-shapes.json) |
 | Kill Yourself | 132690 | [132690-kill-yourself.json](./132690-kill-yourself.json) |
+| Kill Z: Battle Royale | 427238 | [427238-kill-z-battle-royale.json](./427238-kill-z-battle-royale.json) |
 | Kill Ze Bugs | 363688 | [363688-kill-ze-bugs.json](./363688-kill-ze-bugs.json) |
 | Kill.Switch | 248588 | [248588-kill-switch.json](./248588-kill-switch.json) |
 | Kill.Switch | 5881 | [5881-kill-switch.json](./5881-kill-switch.json) |
@@ -5106,6 +5107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knuckles' Week At Sonic's | 400429 | [400429-knuckles-week-at-sonics.json](./400429-knuckles-week-at-sonics.json) |
 | Knudde: World Sports Tournament | 138915 | [138915-knudde-world-sports-tournament.json](./138915-knudde-world-sports-tournament.json) |
 | Knuffi | 295900 | [295900-knuffi.json](./295900-knuffi.json) |
+| Knurlworm | 427251 | [427251-knurlworm.json](./427251-knurlworm.json) |
 | Knyaz' Vladimir | 306566 | [306566-knyaz-vladimir.json](./306566-knyaz-vladimir.json) |
 | Knytt | 95356 | [95356-knytt.json](./95356-knytt.json) |
 | Knytt Classic | 412975 | [412975-knytt-classic.json](./412975-knytt-classic.json) |
