@@ -9407,6 +9407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Ninja: Year of the Frog | 280914 | [280914-green-ninja-year-of-the-frog.json](./280914-green-ninja-year-of-the-frog.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Ogre Gives You Terrible Life Advice and Dies | 309507 | [309507-green-ogre-gives-you-terrible-life-advice-and-dies.json](./309507-green-ogre-gives-you-terrible-life-advice-and-dies.json) |
+| Green Paras | 412522 | [412522-green-paras.json](./412522-green-paras.json) |
 | Green Phoenix | 148095 | [148095-green-phoenix.json](./148095-green-phoenix.json) |
 | Green Planet | 183405 | [183405-green-planet.json](./183405-green-planet.json) |
 | Green Pond Town | 384294 | [384294-green-pond-town.json](./384294-green-pond-town.json) |
