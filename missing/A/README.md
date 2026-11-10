@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Storm Unsung | 296334 | [296334-a-storm-unsung.json](./296334-a-storm-unsung.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
 | A Story About My Uncle | 7211 | [7211-a-story-about-my-uncle.json](./7211-a-story-about-my-uncle.json) |
+| A Story About You | 420470 | [420470-a-story-about-you.json](./420470-a-story-about-you.json) |
 | A Story Beside | 110710 | [110710-a-story-beside.json](./110710-a-story-beside.json) |
 | A Story in Bronze Ware | 263820 | [263820-a-story-in-bronze-ware.json](./263820-a-story-in-bronze-ware.json) |
 | A Story In Space | 158612 | [158612-a-story-in-space.json](./158612-a-story-in-space.json) |
@@ -6570,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albion Online: Beyond the Veil | 227616 | [227616-albion-online-beyond-the-veil.json](./227616-albion-online-beyond-the-veil.json) |
 | Albion Online: Dragonfire | 415306 | [415306-albion-online-dragonfire.json](./415306-albion-online-dragonfire.json) |
 | Alboite | 288678 | [288678-alboite.json](./288678-alboite.json) |
+| Albor | 420631 | [420631-albor.json](./420631-albor.json) |
 | Alborada | 266322 | [266322-alborada.json](./266322-alborada.json) |
 | Album | 201619 | [201619-album.json](./201619-album.json) |
 | Album Club: Mune Kyun Saint Paulia Jogakuin | 45444 | [45444-album-club-mune-kyun-saint-paulia-jogakuin.json](./45444-album-club-mune-kyun-saint-paulia-jogakuin.json) |
@@ -12987,6 +12989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Midnight Landing | 375138 | [375138-arcade-archives-2-midnight-landing.json](./375138-arcade-archives-2-midnight-landing.json) |
 | Arcade Archives 2: Moon Shuttle | 408159 | [408159-arcade-archives-2-moon-shuttle.json](./408159-arcade-archives-2-moon-shuttle.json) |
 | Arcade Archives 2: Mouser | 411153 | [411153-arcade-archives-2-mouser.json](./411153-arcade-archives-2-mouser.json) |
+| Arcade Archives 2: Mr. Do!'s Castle | 420638 | [420638-arcade-archives-2-mr-do-s-castle.json](./420638-arcade-archives-2-mr-do-s-castle.json) |
 | Arcade Archives 2: Munch Mobile | 374668 | [374668-arcade-archives-2-munch-mobile.json](./374668-arcade-archives-2-munch-mobile.json) |
 | Arcade Archives 2: Ninja Emaki | 414797 | [414797-arcade-archives-2-ninja-emaki.json](./414797-arcade-archives-2-ninja-emaki.json) |
 | Arcade Archives 2: Pinball Action | 413936 | [413936-arcade-archives-2-pinball-action.json](./413936-arcade-archives-2-pinball-action.json) |
@@ -13157,6 +13160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Kangaroo | 147108 | [147108-arcade-archives-kangaroo.json](./147108-arcade-archives-kangaroo.json) |
 | Arcade Archives: Karate Blazers | 378998 | [378998-arcade-archives-karate-blazers.json](./378998-arcade-archives-karate-blazers.json) |
 | Arcade Archives: Karate Champ | 75705 | [75705-arcade-archives-karate-champ.json](./75705-arcade-archives-karate-champ.json) |
+| Arcade Archives: Karnov | 420642 | [420642-arcade-archives-karnov.json](./420642-arcade-archives-karnov.json) |
 | Arcade Archives: Kid Niki - Radical Ninja | 84759 | [84759-arcade-archives-kid-niki-radical-ninja.json](./84759-arcade-archives-kid-niki-radical-ninja.json) |
 | Arcade Archives: Kid's Horehore Daisakusen | 99544 | [99544-arcade-archives-kids-horehore-daisakusen.json](./99544-arcade-archives-kids-horehore-daisakusen.json) |
 | Arcade Archives: KiKi KaiKai | 99536 | [99536-arcade-archives-kiki-kaikai.json](./99536-arcade-archives-kiki-kaikai.json) |
@@ -13200,6 +13204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Moon Patrol | 95050 | [95050-arcade-archives-moon-patrol.json](./95050-arcade-archives-moon-patrol.json) |
 | Arcade Archives: Motos | 204873 | [204873-arcade-archives-motos.json](./204873-arcade-archives-motos.json) |
 | Arcade Archives: Mr. Goemon | 99763 | [99763-arcade-archives-mr-goemon.json](./99763-arcade-archives-mr-goemon.json) |
+| Arcade Archives: Mr.Do!'s Castle | 420643 | [420643-arcade-archives-mr-do-s-castle.json](./420643-arcade-archives-mr-do-s-castle.json) |
 | Arcade Archives: Mutant Night | 121427 | [121427-arcade-archives-mutant-night.json](./121427-arcade-archives-mutant-night.json) |
 | Arcade Archives: MX5000 | 99537 | [99537-arcade-archives-mx5000.json](./99537-arcade-archives-mx5000.json) |
 | Arcade Archives: Mystic Warriors | 282155 | [282155-arcade-archives-mystic-warriors.json](./282155-arcade-archives-mystic-warriors.json) |
