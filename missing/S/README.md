@@ -1204,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: Save the World - Episode 6: Bright Side of the Moon | 27825 | [27825-sam-and-max-save-the-world-episode-6-bright-side-of-the-moon.json](./27825-sam-and-max-save-the-world-episode-6-bright-side-of-the-moon.json) |
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
 | Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone | 106205 | [106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json](./106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json) |
+| Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak | 127131 | [127131-sam-and-max-the-devils-playhouse-episode-2-the-tomb-of-sammun-mak.json](./127131-sam-and-max-the-devils-playhouse-episode-2-the-tomb-of-sammun-mak.json) |
 | Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls | 127133 | [127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json](./127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json) |
 | Sam 0 | 360620 | [360620-sam-0.json](./360620-sam-0.json) |
 | Sam Glyph: Private Eye! | 17903 | [17903-sam-glyph-private-eye.json](./17903-sam-glyph-private-eye.json) |
@@ -9021,6 +9022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiki Odysselya | 42367 | [42367-shinseiki-odysselya.json](./42367-shinseiki-odysselya.json) |
 | Shinseiki Odysselya II | 42366 | [42366-shinseiki-odysselya-ii.json](./42366-shinseiki-odysselya-ii.json) |
 | Shinseiki Yuusha Taisen | 165911 | [165911-shinseiki-yuusha-taisen.json](./165911-shinseiki-yuusha-taisen.json) |
+| Shinsekai: Into the Depths | 121204 | [121204-shinsekai-into-the-depths.json](./121204-shinsekai-into-the-depths.json) |
 | Shinsen Renki | 163232 | [163232-shinsen-renki.json](./163232-shinsen-renki.json) |
 | Shinsen-den | 77406 | [77406-shinsen-den.json](./77406-shinsen-den.json) |
 | Shinsengumi Fukuchou no Yuuga na Hitotoki | 163348 | [163348-shinsengumi-fukuchou-no-yuuga-na-hitotoki.json](./163348-shinsengumi-fukuchou-no-yuuga-na-hitotoki.json) |
@@ -23039,6 +23041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Harem | 295341 | [295341-spirit-harem.json](./295341-spirit-harem.json) |
 | Spirit Hunter: Death Mark | 26624 | [26624-spirit-hunter-death-mark.json](./26624-spirit-hunter-death-mark.json) |
 | Spirit Hunter: Death Mark II | 133814 | [133814-spirit-hunter-death-mark-ii.json](./133814-spirit-hunter-death-mark-ii.json) |
+| Spirit Hunter: NG | 120556 | [120556-spirit-hunter-ng.json](./120556-spirit-hunter-ng.json) |
 | Spirit Hunters Inc. | 23587 | [23587-spirit-hunters-inc.json](./23587-spirit-hunters-inc.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
 | Spirit Hunters: Infinite Horde | 197480 | [197480-spirit-hunters-infinite-horde.json](./197480-spirit-hunters-infinite-horde.json) |
@@ -25263,6 +25266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ocean: Blue Sphere | 11211 | [11211-star-ocean-blue-sphere.json](./11211-star-ocean-blue-sphere.json) |
 | Star Ocean: Blue Sphere | 344165 | [344165-star-ocean-blue-sphere.json](./344165-star-ocean-blue-sphere.json) |
 | Star Ocean: First Departure | 24299 | [24299-star-ocean-first-departure.json](./24299-star-ocean-first-departure.json) |
+| Star Ocean: First Departure R | 119057 | [119057-star-ocean-first-departure-r.json](./119057-star-ocean-first-departure-r.json) |
 | Star Ocean: Integrity and Faithlessness | 11213 | [11213-star-ocean-integrity-and-faithlessness.json](./11213-star-ocean-integrity-and-faithlessness.json) |
 | Star Ocean: Second Evolution | 80504 | [80504-star-ocean-second-evolution.json](./80504-star-ocean-second-evolution.json) |
 | Star Ocean: The Divine Force | 178298 | [178298-star-ocean-the-divine-force.json](./178298-star-ocean-the-divine-force.json) |
@@ -33613,6 +33617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Meat Shooter | 75635 | [75635-super-meat-shooter.json](./75635-super-meat-shooter.json) |
 | Super Meat Shooter: Happy Meat Winter | 172116 | [172116-super-meat-shooter-happy-meat-winter.json](./172116-super-meat-shooter-happy-meat-winter.json) |
 | Super Meatball | 147779 | [147779-super-meatball.json](./147779-super-meatball.json) |
+| Super Mecha Champions | 123054 | [123054-super-mecha-champions.json](./123054-super-mecha-champions.json) |
 | Super Mecha Lifter 4000 | 363916 | [363916-super-mecha-lifter-4000.json](./363916-super-mecha-lifter-4000.json) |
 | Super Mechs | 58688 | [58688-super-mechs.json](./58688-super-mechs.json) |
 | Super Mega Awesome Typing | 270522 | [270522-super-mega-awesome-typing.json](./270522-super-mega-awesome-typing.json) |
@@ -34219,6 +34224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rolling Heroes | 190880 | [190880-super-rolling-heroes.json](./190880-super-rolling-heroes.json) |
 | Super Rolling Heroes Deluxe | 288055 | [288055-super-rolling-heroes-deluxe.json](./288055-super-rolling-heroes-deluxe.json) |
 | Super RPS | 270888 | [270888-super-rps.json](./270888-super-rps.json) |
+| Super Rub 'a' Dub | 13560 | [13560-super-rub-a-dub.json](./13560-super-rub-a-dub.json) |
 | Super Rude Bear Resurrection: Deluxe Edition | 53688 | [53688-super-rude-bear-resurrection-deluxe-edition.json](./53688-super-rude-bear-resurrection-deluxe-edition.json) |
 | Super Rugby | 267752 | [267752-super-rugby.json](./267752-super-rugby.json) |
 | Super Rugby | 48664 | [48664-super-rugby.json](./48664-super-rugby.json) |
@@ -34510,6 +34516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Z Broly Moveset | 394593 | [394593-super-smash-bros-ultimate-z-broly-moveset.json](./394593-super-smash-bros-ultimate-z-broly-moveset.json) |
 | Super Smash Bros. Ultimate: Zero Moveset | 395033 | [395033-super-smash-bros-ultimate-zero-moveset.json](./395033-super-smash-bros-ultimate-zero-moveset.json) |
 | Super Smash Bros. Ultimate: Zero's Armor and Helmet | 317937 | [317937-super-smash-bros-ultimate-zeros-armor-and-helmet.json](./317937-super-smash-bros-ultimate-zeros-armor-and-helmet.json) |
+| Super Smash Flash | 127051 | [127051-super-smash-flash.json](./127051-super-smash-flash.json) |
 | Super Smash Flash 2 | 14247 | [14247-super-smash-flash-2.json](./14247-super-smash-flash-2.json) |
 | Super Smash Kart | 269293 | [269293-super-smash-kart.json](./269293-super-smash-kart.json) |
 | Super Smash Land | 133944 | [133944-super-smash-land.json](./133944-super-smash-land.json) |
