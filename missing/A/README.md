@@ -4125,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Guard | 381196 | [381196-aeon-guard.json](./381196-aeon-guard.json) |
 | Aeon Must Die | 114037 | [114037-aeon-must-die.json](./114037-aeon-must-die.json) |
 | Aeon Nightmares | 282133 | [282133-aeon-nightmares.json](./282133-aeon-nightmares.json) |
+| Aeon of Sands: The Trail | 59104 | [59104-aeon-of-sands-the-trail.json](./59104-aeon-of-sands-the-trail.json) |
 | Aeon on Mosaic: Anemone | 284345 | [284345-aeon-on-mosaic-anemone.json](./284345-aeon-on-mosaic-anemone.json) |
 | Aeon Rivals | 27978 | [27978-aeon-rivals.json](./27978-aeon-rivals.json) |
 | Aeon Tempus | 365283 | [365283-aeon-tempus.json](./365283-aeon-tempus.json) |
@@ -7028,6 +7029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice: Adventures in Wonderland | 66129 | [66129-alice-adventures-in-wonderland.json](./66129-alice-adventures-in-wonderland.json) |
 | Alice: An Interactive Museum | 74064 | [74064-alice-an-interactive-museum.json](./74064-alice-an-interactive-museum.json) |
 | Alice: Asylum | 82393 | [82393-alice-asylum.json](./82393-alice-asylum.json) |
+| Alice: Behind the Mirror | 58038 | [58038-alice-behind-the-mirror.json](./58038-alice-behind-the-mirror.json) |
 | Alice: Dark Fairytale | 174656 | [174656-alice-dark-fairytale.json](./174656-alice-dark-fairytale.json) |
 | Alice: Madness Returns - Ultimate Edition | 99962 | [99962-alice-madness-returns-ultimate-edition.json](./99962-alice-madness-returns-ultimate-edition.json) |
 | Alice! | 186324 | [186324-alice.json](./186324-alice.json) |
@@ -9411,6 +9413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amphora Hell | 336556 | [336556-amphora-hell.json](./336556-amphora-hell.json) |
 | Amplitude | 11081 | [11081-amplitude.json](./11081-amplitude.json) |
 | Amplitude | 2141 | [2141-amplitude.json](./2141-amplitude.json) |
+| Amplitude: A Visual Novel | 57045 | [57045-amplitude-a-visual-novel.json](./57045-amplitude-a-visual-novel.json) |
 | Amplz Boss Fights | 224110 | [224110-amplz-boss-fights.json](./224110-amplz-boss-fights.json) |
 | Ampsball | 398443 | [398443-ampsball.json](./398443-ampsball.json) |
 | Ampu-Tea | 8378 | [8378-ampu-tea.json](./8378-ampu-tea.json) |
@@ -10970,6 +10973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Street Fight | 150851 | [150851-anime-street-fight.json](./150851-anime-street-fight.json) |
 | Anime Studio Saga | 287237 | [287237-anime-studio-saga.json](./287237-anime-studio-saga.json) |
+| Anime Studio Simulator | 57330 | [57330-anime-studio-simulator.json](./57330-anime-studio-simulator.json) |
 | Anime Studio Story | 58912 | [58912-anime-studio-story.json](./58912-anime-studio-story.json) |
 | Anime Sudoku | 263324 | [263324-anime-sudoku.json](./263324-anime-sudoku.json) |
 | Anime Sunset Ride | 153014 | [153014-anime-sunset-ride.json](./153014-anime-sunset-ride.json) |
@@ -15881,6 +15885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashland: Rebellion of Gods | 194013 | [194013-ashland-rebellion-of-gods.json](./194013-ashland-rebellion-of-gods.json) |
 | Ashlands | 333597 | [333597-ashlands.json](./333597-ashlands.json) |
 | Ashley Clark: Secret of the Ruby | 52422 | [52422-ashley-clark-secret-of-the-ruby.json](./52422-ashley-clark-secret-of-the-ruby.json) |
+| Ashley Clark: The Secrets of the Ancient Temple | 58006 | [58006-ashley-clark-the-secrets-of-the-ancient-temple.json](./58006-ashley-clark-the-secrets-of-the-ancient-temple.json) |
 | Ashley Jones and the Heart of Egypt | 52421 | [52421-ashley-jones-and-the-heart-of-egypt.json](./52421-ashley-jones-and-the-heart-of-egypt.json) |
 | Ashley: The Emptiness Inside | 134397 | [134397-ashley-the-emptiness-inside.json](./134397-ashley-the-emptiness-inside.json) |
 | Ashley: The One-Spell Mage | 318622 | [318622-ashley-the-one-spell-mage.json](./318622-ashley-the-one-spell-mage.json) |
@@ -18043,6 +18048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quads Bike Stunt Racing 3D | 296774 | [296774-atv-quads-bike-stunt-racing-3d.json](./296774-atv-quads-bike-stunt-racing-3d.json) |
 | ATV Racers | 62261 | [62261-atv-racers.json](./62261-atv-racers.json) |
 | ATV Racing | 142042 | [142042-atv-racing.json](./142042-atv-racing.json) |
+| ATV Renegades | 57887 | [57887-atv-renegades.json](./57887-atv-renegades.json) |
 | ATV Simulator | 13349 | [13349-atv-simulator.json](./13349-atv-simulator.json) |
 | ATV Simulator VR | 90158 | [90158-atv-simulator-vr.json](./90158-atv-simulator-vr.json) |
 | ATV Slam | 124433 | [124433-atv-slam.json](./124433-atv-slam.json) |
