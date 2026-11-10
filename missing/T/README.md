@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Kingdoms | 238525 | [238525-tank-kingdoms.json](./238525-tank-kingdoms.json) |
 | Tank Legend Online: League of Tanks | 237961 | [237961-tank-legend-online-league-of-tanks.json](./237961-tank-legend-online-league-of-tanks.json) |
 | Tank Man | 341798 | [341798-tank-man.json](./341798-tank-man.json) |
+| Tank Mania | 411189 | [411189-tank-mania.json](./411189-tank-mania.json) |
 | Tank Maniacs | 117710 | [117710-tank-maniacs.json](./117710-tank-maniacs.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
 | Tank Masters | 115191 | [115191-tank-masters.json](./115191-tank-masters.json) |
@@ -2726,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task: 312 | 144861 | [144861-task-312.json](./144861-task-312.json) |
 | Taskbar Chickens | 422408 | [422408-taskbar-chickens.json](./422408-taskbar-chickens.json) |
 | Taskbar Looters | 370626 | [370626-taskbar-looters.json](./370626-taskbar-looters.json) |
+| Taskbarn | 411226 | [411226-taskbarn.json](./411226-taskbarn.json) |
 | TaskFall | 422396 | [422396-taskfall.json](./422396-taskfall.json) |
 | TaskForce Gamma-13 : An SCP Tale | 127609 | [127609-taskforce-gamma-13-an-scp-tale.json](./127609-taskforce-gamma-13-an-scp-tale.json) |
 | Taskforce: The Mutants of October Morgane | 153493 | [153493-taskforce-the-mutants-of-october-morgane.json](./153493-taskforce-the-mutants-of-october-morgane.json) |
@@ -9409,6 +9411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Entity: Returning Home | 170366 | [170366-the-entity-returning-home.json](./170366-the-entity-returning-home.json) |
 | The Entrepreneur | 92753 | [92753-the-entrepreneur.json](./92753-the-entrepreneur.json) |
 | The Entropy Centre | 204543 | [204543-the-entropy-centre.json](./204543-the-entropy-centre.json) |
+| The Entropy Directive | 411227 | [411227-the-entropy-directive.json](./411227-the-entropy-directive.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
 | The Epic | 153869 | [153869-the-epic.json](./153869-the-epic.json) |
 | The Epic (Sort of Not Really) of Koneko: A Game Made in 4 Hours | 421258 | [421258-the-epic-sort-of-not-really-of-koneko-a-game-made-in-4-hours.json](./421258-the-epic-sort-of-not-really-of-koneko-a-game-made-in-4-hours.json) |
@@ -13068,6 +13071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Faty | 100557 | [100557-the-legend-of-faty.json](./100557-the-legend-of-faty.json) |
 | The Legend of Fidex | 145606 | [145606-the-legend-of-fidex.json](./145606-the-legend-of-fidex.json) |
 | The Legend of Fireball | 408921 | [408921-the-legend-of-fireball.json](./408921-the-legend-of-fireball.json) |
+| The Legend of Fireball: Beasts Edition | 411182 | [411182-the-legend-of-fireball-beasts-edition.json](./411182-the-legend-of-fireball-beasts-edition.json) |
 | The Legend of Fireball: Complete Edition | 409982 | [409982-the-legend-of-fireball-complete-edition.json](./409982-the-legend-of-fireball-complete-edition.json) |
 | The Legend of Fireball: Gem Vault Edition | 409984 | [409984-the-legend-of-fireball-gem-vault-edition.json](./409984-the-legend-of-fireball-gem-vault-edition.json) |
 | The Legend of Fjarri | 153369 | [153369-the-legend-of-fjarri.json](./153369-the-legend-of-fjarri.json) |
@@ -32979,6 +32983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trombone Champ: Unflattened! - Halloween Pack | 373879 | [373879-trombone-champ-unflattened-halloween-pack.json](./373879-trombone-champ-unflattened-halloween-pack.json) |
 | Trombone Champ: Unflattened! - Undertale + Deltarune Song Pack | 360779 | [360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json](./360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json) |
 | Trombone Hero | 232091 | [232091-trombone-hero.json](./232091-trombone-hero.json) |
+| Tromi | 411221 | [411221-tromi.json](./411221-tromi.json) |
 | Trompers | 296228 | [296228-trompers.json](./296228-trompers.json) |
 | Tron | 128730 | [128730-tron.json](./128730-tron.json) |
 | Tron | 284223 | [284223-tron.json](./284223-tron.json) |
