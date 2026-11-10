@@ -7734,6 +7734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Boy Adventure | 324340 | [324340-big-boy-adventure.json](./324340-big-boy-adventure.json) |
 | Big Boy Boxing | 145410 | [145410-big-boy-boxing.json](./145410-big-boy-boxing.json) |
 | Big Boy's Birthday Party | 309275 | [309275-big-boys-birthday-party.json](./309275-big-boys-birthday-party.json) |
+| Big Brain Academy: Brain vs. Brain | 166489 | [166489-big-brain-academy-brain-vs-brain.json](./166489-big-brain-academy-brain-vs-brain.json) |
 | Big Brain Academy: Wii Degree | 4713 | [4713-big-brain-academy-wii-degree.json](./4713-big-brain-academy-wii-degree.json) |
 | Big Brain Wolf | 14993 | [14993-big-brain-wolf.json](./14993-big-brain-wolf.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
@@ -16171,6 +16172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Game | 178164 | [178164-brick-game.json](./178164-brick-game.json) |
 | Brick Game | 288262 | [288262-brick-game.json](./288262-brick-game.json) |
 | Brick Hero Clash | 259627 | [259627-brick-hero-clash.json](./259627-brick-hero-clash.json) |
+| Brick Hill | 185905 | [185905-brick-hill.json](./185905-brick-hill.json) |
 | Brick Kick | 40757 | [40757-brick-kick.json](./40757-brick-kick.json) |
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
@@ -16548,6 +16550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brköut | 56602 | [56602-brkout.json](./56602-brkout.json) |
 | Brno Transit | 351502 | [351502-brno-transit.json](./351502-brno-transit.json) |
 | Bro Falls Deluxe | 267148 | [267148-bro-falls-deluxe.json](./267148-bro-falls-deluxe.json) |
+| Bro Falls: Ultimate Showdown | 153636 | [153636-bro-falls-ultimate-showdown.json](./153636-bro-falls-ultimate-showdown.json) |
 | Bro YuanShen Survivors | 292481 | [292481-bro-yuanshen-survivors.json](./292481-bro-yuanshen-survivors.json) |
 | Bro, Where's My Head? | 151445 | [151445-bro-wheres-my-head.json](./151445-bro-wheres-my-head.json) |
 | Broad City High Score | 99352 | [99352-broad-city-high-score.json](./99352-broad-city-high-score.json) |
