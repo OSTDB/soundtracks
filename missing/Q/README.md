@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quake: Dwell | 195992 | [195992-quake-dwell.json](./195992-quake-dwell.json) |
 | Quake: Egyptoagula | 196658 | [196658-quake-egyptoagula.json](./196658-quake-egyptoagula.json) |
 | Quake: Episode 5 - Dimension of the Past | 159171 | [159171-quake-episode-5-dimension-of-the-past.json](./159171-quake-episode-5-dimension-of-the-past.json) |
+| Quake: Episode 6 - Dimension of the Machine | 165241 | [165241-quake-episode-6-dimension-of-the-machine.json](./165241-quake-episode-6-dimension-of-the-machine.json) |
 | Quake: Five Rivers Land | 196706 | [196706-quake-five-rivers-land.json](./196706-quake-five-rivers-land.json) |
 | Quake: For My Babies | 196645 | [196645-quake-for-my-babies.json](./196645-quake-for-my-babies.json) |
 | Quake: Forgotten Sepulcher | 196638 | [196638-quake-forgotten-sepulcher.json](./196638-quake-forgotten-sepulcher.json) |
