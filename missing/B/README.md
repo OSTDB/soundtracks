@@ -1005,7 +1005,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2314,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
 | Bankshot | 344560 | [344560-bankshot.json](./344560-bankshot.json) |
 | Bankshot Billiards 2 | 20523 | [20523-bankshot-billiards-2.json](./20523-bankshot-billiards-2.json) |
+| Bankshot! | 425407 | [425407-bankshot.json](./425407-bankshot.json) |
 | Bankster | 76370 | [76370-bankster.json](./76370-bankster.json) |
 | Bankwave: Neon Networth | 258954 | [258954-bankwave-neon-networth.json](./258954-bankwave-neon-networth.json) |
 | Banmeng Yexing: A Journey on Limbus | 260864 | [260864-banmeng-yexing-a-journey-on-limbus.json](./260864-banmeng-yexing-a-journey-on-limbus.json) |
@@ -3966,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle in the City | 161623 | [161623-battle-in-the-city.json](./161623-battle-in-the-city.json) |
 | Battle in the Future | 321886 | [321886-battle-in-the-future.json](./321886-battle-in-the-future.json) |
 | Battle Insects | 52644 | [52644-battle-insects.json](./52644-battle-insects.json) |
+| Battle Investment Master | 425418 | [425418-battle-investment-master.json](./425418-battle-investment-master.json) |
 | Battle Ion | 87779 | [87779-battle-ion.json](./87779-battle-ion.json) |
 | Battle Island | 69491 | [69491-battle-island.json](./69491-battle-island.json) |
 | Battle Islands | 17502 | [17502-battle-islands.json](./17502-battle-islands.json) |
