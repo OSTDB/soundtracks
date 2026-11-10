@@ -5977,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here to There | 204419 | [204419-here-to-there.json](./204419-here-to-there.json) |
 | Here We Exist | 262846 | [262846-here-we-exist.json](./262846-here-we-exist.json) |
 | Here, Flower Picking, Manila North | 360460 | [360460-here-flower-picking-manila-north.json](./360460-here-flower-picking-manila-north.json) |
+| Here's My Target | 427815 | [427815-heres-my-target.json](./427815-heres-my-target.json) |
 | Here's the Champion Squirrel | 96805 | [96805-heres-the-champion-squirrel.json](./96805-heres-the-champion-squirrel.json) |
 | Hereafter | 287147 | [287147-hereafter.json](./287147-hereafter.json) |
 | Hereafter | 47988 | [47988-hereafter.json](./47988-hereafter.json) |
@@ -8994,6 +8995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobonichi Rozenzu | 80543 | [80543-hobonichi-rozenzu.json](./80543-hobonichi-rozenzu.json) |
 | Hobs | 121630 | [121630-hobs.json](./121630-hobs.json) |
 | Hoccer | 39311 | [39311-hoccer.json](./39311-hoccer.json) |
+| Hock | 427835 | [427835-hock.json](./427835-hock.json) |
 | Hockey | 131074 | [131074-hockey.json](./131074-hockey.json) |
 | Hockey | 175898 | [175898-hockey.json](./175898-hockey.json) |
 | Hockey | 18585 | [18585-hockey.json](./18585-hockey.json) |
@@ -13270,6 +13272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperoid | 80121 | [80121-hyperoid.json](./80121-hyperoid.json) |
 | Hyperons | 260542 | [260542-hyperons.json](./260542-hyperons.json) |
 | HyperParasite | 101257 | [101257-hyperparasite.json](./101257-hyperparasite.json) |
+| Hyperplane | 427850 | [427850-hyperplane.json](./427850-hyperplane.json) |
 | Hyperplasm | 142656 | [142656-hyperplasm.json](./142656-hyperplasm.json) |
 | HyperPop | 298664 | [298664-hyperpop.json](./298664-hyperpop.json) |
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
