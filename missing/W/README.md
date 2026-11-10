@@ -2732,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wavefront | 384120 | [384120-wavefront.json](./384120-wavefront.json) |
 | WaveLand | 31159 | [31159-waveland.json](./31159-waveland.json) |
 | Wavelength | 140902 | [140902-wavelength.json](./140902-wavelength.json) |
+| Waveling Island | 424834 | [424834-waveling-island.json](./424834-waveling-island.json) |
 | Waven | 109536 | [109536-waven.json](./109536-waven.json) |
 | Waven: Drhell's Bells Pack | 289458 | [289458-waven-drhells-bells-pack.json](./289458-waven-drhells-bells-pack.json) |
 | WaveOfTimeLite | 102893 | [102893-waveoftimelite.json](./102893-waveoftimelite.json) |
