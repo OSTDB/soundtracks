@@ -7179,6 +7179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RGB Rush | 218173 | [218173-rgb-rush.json](./218173-rgb-rush.json) |
 | RGB Rush 2 | 298393 | [298393-rgb-rush-2.json](./298393-rgb-rush-2.json) |
 | RGB Simulator | 237278 | [237278-rgb-simulator.json](./237278-rgb-simulator.json) |
+| RGB Switcher: Color Roguelike | 412042 | [412042-rgb-switcher-color-roguelike.json](./412042-rgb-switcher-color-roguelike.json) |
 | RGB: Execution | 388519 | [388519-rgb-execution.json](./388519-rgb-execution.json) |
 | RGBCells | 105641 | [105641-rgbcells.json](./105641-rgbcells.json) |
 | RGBounce | 275836 | [275836-rgbounce.json](./275836-rgbounce.json) |
