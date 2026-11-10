@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Mahjong | 79875 | [79875-ea-mahjong.json](./79875-ea-mahjong.json) |
 | EA Playground | 175780 | [175780-ea-playground.json](./175780-ea-playground.json) |
 | EA Playground | 4825 | [4825-ea-playground.json](./4825-ea-playground.json) |
+| EA Replay | 23084 | [23084-ea-replay.json](./23084-ea-replay.json) |
 | EA Replay 2 | 209176 | [209176-ea-replay-2.json](./209176-ea-replay-2.json) |
 | EA Speed & Seed Bundle | 164701 | [164701-ea-speed-and-seed-bundle.json](./164701-ea-speed-and-seed-bundle.json) |
 | EA Sports | 220088 | [220088-ea-sports.json](./220088-ea-sports.json) |
@@ -7312,6 +7313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Day's Different | 126930 | [126930-every-days-different.json](./126930-every-days-different.json) |
 | Every Ending Is A New Beginning | 184131 | [184131-every-ending-is-a-new-beginning.json](./184131-every-ending-is-a-new-beginning.json) |
 | Every Extend | 94573 | [94573-every-extend.json](./94573-every-extend.json) |
+| Every Extend Extra | 23106 | [23106-every-extend-extra.json](./23106-every-extend-extra.json) |
 | Every Extend Extra Extreme | 21835 | [21835-every-extend-extra-extreme.json](./21835-every-extend-extra-extreme.json) |
 | Every Extend Extra: Pico-8 Edition | 284307 | [284307-every-extend-extra-pico-8-edition.json](./284307-every-extend-extra-pico-8-edition.json) |
 | Every Farm | 227950 | [227950-every-farm.json](./227950-every-farm.json) |
@@ -8149,6 +8151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exophobia | 126756 | [126756-exophobia.json](./126756-exophobia.json) |
 | Exophobia: Fire & Ice Expedition | 369779 | [369779-exophobia-fire-and-ice-expedition.json](./369779-exophobia-fire-and-ice-expedition.json) |
 | Exoplanet War | 65873 | [65873-exoplanet-war.json](./65873-exoplanet-war.json) |
+| Exoplanet: First Contact | 22781 | [22781-exoplanet-first-contact.json](./22781-exoplanet-first-contact.json) |
 | Exoprimal | 194203 | [194203-exoprimal.json](./194203-exoprimal.json) |
 | Exoprimal: Barrage - Volcano | 332615 | [332615-exoprimal-barrage-volcano.json](./332615-exoprimal-barrage-volcano.json) |
 | Exoprimal: Barrage Splash! Set | 256550 | [256550-exoprimal-barrage-splash-set.json](./256550-exoprimal-barrage-splash-set.json) |
