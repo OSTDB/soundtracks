@@ -3245,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears of Viceroy | 363125 | [363125-tears-of-viceroy.json](./363125-tears-of-viceroy.json) |
 | Tears Rain: Tears of Goddess | 236887 | [236887-tears-rain-tears-of-goddess.json](./236887-tears-rain-tears-of-goddess.json) |
 | Tears Revolude | 32148 | [32148-tears-revolude.json](./32148-tears-revolude.json) |
+| Tears to Tiara | 24955 | [24955-tears-to-tiara.json](./24955-tears-to-tiara.json) |
 | Tears to Tiara Gaiden: Avalon no Nazo | 76907 | [76907-tears-to-tiara-gaiden-avalon-no-nazo.json](./76907-tears-to-tiara-gaiden-avalon-no-nazo.json) |
 | Tears To Tiara II: Heir Of The Overlord | 21874 | [21874-tears-to-tiara-ii-heir-of-the-overlord.json](./21874-tears-to-tiara-ii-heir-of-the-overlord.json) |
 | Tears to Tiara: Kakan no Daichi | 272670 | [272670-tears-to-tiara-kakan-no-daichi.json](./272670-tears-to-tiara-kakan-no-daichi.json) |
@@ -7176,6 +7177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Broken Vow | 322173 | [322173-the-broken-vow.json](./322173-the-broken-vow.json) |
 | The Bronx | 154914 | [154914-the-bronx.json](./154914-the-bronx.json) |
 | The Bronze Age | 206517 | [206517-the-bronze-age.json](./206517-the-bronze-age.json) |
+| The Brookhaven Experiment | 25261 | [25261-the-brookhaven-experiment.json](./25261-the-brookhaven-experiment.json) |
 | The Broston Saga | 143932 | [143932-the-broston-saga.json](./143932-the-broston-saga.json) |
 | The Brotherhood of Ruin | 142277 | [142277-the-brotherhood-of-ruin.json](./142277-the-brotherhood-of-ruin.json) |
 | The Brotherhood: The Way of the Sleeper | 398130 | [398130-the-brotherhood-the-way-of-the-sleeper.json](./398130-the-brotherhood-the-way-of-the-sleeper.json) |
@@ -7279,6 +7281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Caldecott Caper | 305872 | [305872-the-caldecott-caper.json](./305872-the-caldecott-caper.json) |
 | The California Raisins | 73306 | [73306-the-california-raisins.json](./73306-the-california-raisins.json) |
 | The California Raisins: The Grape Escape | 48702 | [48702-the-california-raisins-the-grape-escape.json](./48702-the-california-raisins-the-grape-escape.json) |
+| The Caligula Effect | 24954 | [24954-the-caligula-effect.json](./24954-the-caligula-effect.json) |
 | The Caligula Effect 2 | 143623 | [143623-the-caligula-effect-2.json](./143623-the-caligula-effect-2.json) |
 | The Caligula Effect 2: Complete Edition | 227183 | [227183-the-caligula-effect-2-complete-edition.json](./227183-the-caligula-effect-2-complete-edition.json) |
 | The Caligula Effect 2: Digital Deluxe Edition | 221497 | [221497-the-caligula-effect-2-digital-deluxe-edition.json](./221497-the-caligula-effect-2-digital-deluxe-edition.json) |
@@ -12188,6 +12191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters: Dream Match 1999 | 45861 | [45861-the-king-of-fighters-dream-match-1999.json](./45861-the-king-of-fighters-dream-match-1999.json) |
 | The King of Fighters: Heat of Battle | 191476 | [191476-the-king-of-fighters-heat-of-battle.json](./191476-the-king-of-fighters-heat-of-battle.json) |
 | The King of Fighters: Kyo | 43841 | [43841-the-king-of-fighters-kyo.json](./43841-the-king-of-fighters-kyo.json) |
+| The King of Fighters: Maximum Impact | 5897 | [5897-the-king-of-fighters-maximum-impact.json](./5897-the-king-of-fighters-maximum-impact.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
 | The King of Fighters: Maximum Impact Regulation A | 86164 | [86164-the-king-of-fighters-maximum-impact-regulation-a.json](./86164-the-king-of-fighters-maximum-impact-regulation-a.json) |
 | The King of Fighters: NESTS Collection | 63516 | [63516-the-king-of-fighters-nests-collection.json](./63516-the-king-of-fighters-nests-collection.json) |
@@ -12931,6 +12935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Cyber Cowboy | 322406 | [322406-the-legend-of-cyber-cowboy.json](./322406-the-legend-of-cyber-cowboy.json) |
 | The Legend of Dad: Quest for Milk | 383026 | [383026-the-legend-of-dad-quest-for-milk.json](./383026-the-legend-of-dad-quest-for-milk.json) |
 | The Legend of Damon and the Ongoing Infection | 28728 | [28728-the-legend-of-damon-and-the-ongoing-infection.json](./28728-the-legend-of-damon-and-the-ongoing-infection.json) |
+| The Legend of Dark Witch | 24568 | [24568-the-legend-of-dark-witch.json](./24568-the-legend-of-dark-witch.json) |
 | The Legend of Dark Witch Episode 2 -The Price of Desire- | 80710 | [80710-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./80710-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
 | The Legend of Dark Witch Episode 2: The Price of Desire | 313257 | [313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json](./313257-the-legend-of-dark-witch-episode-2-the-price-of-desire.json) |
 | The Legend of Dark Witch Episode 3: Wisdom and Lunacy | 79800 | [79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json](./79800-the-legend-of-dark-witch-episode-3-wisdom-and-lunacy.json) |
