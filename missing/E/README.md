@@ -2928,6 +2928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elroy's Costume Closet | 125541 | [125541-elroys-costume-closet.json](./125541-elroys-costume-closet.json) |
 | Elsa Gladiac Ultra | 24177 | [24177-elsa-gladiac-ultra.json](./24177-elsa-gladiac-ultra.json) |
 | Else Heart.Break() | 14395 | [14395-else-heart-break.json](./14395-else-heart-break.json) |
+| Else If: ReCurse | 420066 | [420066-else-if-recurse.json](./420066-else-if-recurse.json) |
 | Else Walker | 177947 | [177947-else-walker.json](./177947-else-walker.json) |
 | Elsewar | 415130 | [415130-elsewar.json](./415130-elsewar.json) |
 | Elsewhere | 182783 | [182783-elsewhere.json](./182783-elsewhere.json) |
