@@ -2203,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ki(n)ds | 27902 | [27902-ki-n-ds.json](./27902-ki-n-ds.json) |
 | Kiai Resonance | 35487 | [35487-kiai-resonance.json](./35487-kiai-resonance.json) |
 | Kiaidan 00 | 42011 | [42011-kiaidan-00.json](./42011-kiaidan-00.json) |
+| Kiana & Biscuit: Pirates on a Visit! | 411888 | [411888-kiana-and-biscuit-pirates-on-a-visit.json](./411888-kiana-and-biscuit-pirates-on-a-visit.json) |
 | Kiara and My Ara Ara Adventure | 156149 | [156149-kiara-and-my-ara-ara-adventure.json](./156149-kiara-and-my-ara-ara-adventure.json) |
 | Kiara and the Case of the Missing Chocolates | 181844 | [181844-kiara-and-the-case-of-the-missing-chocolates.json](./181844-kiara-and-the-case-of-the-missing-chocolates.json) |
 | KibaGames | 255478 | [255478-kibagames.json](./255478-kibagames.json) |
@@ -3120,6 +3121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinetic Edge | 139524 | [139524-kinetic-edge.json](./139524-kinetic-edge.json) |
 | Kinetic Neo Ornate Bout | 374220 | [374220-kinetic-neo-ornate-bout.json](./374220-kinetic-neo-ornate-bout.json) |
 | Kinetic Storm | 219882 | [219882-kinetic-storm.json](./219882-kinetic-storm.json) |
+| Kinetic TwinZ | 411916 | [411916-kinetic-twinz.json](./411916-kinetic-twinz.json) |
 | Kinetic: Break All Limits | 236730 | [236730-kinetic-break-all-limits.json](./236730-kinetic-break-all-limits.json) |
 | Kinetica | 8236 | [8236-kinetica.json](./8236-kinetica.json) |
 | Kinetika | 419204 | [419204-kinetika.json](./419204-kinetika.json) |
