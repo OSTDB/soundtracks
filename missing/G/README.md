@@ -4368,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Bundle | 193741 | [193741-giant-bundle.json](./193741-giant-bundle.json) |
 | Giant Celebration | 112707 | [112707-giant-celebration.json](./112707-giant-celebration.json) |
 | Giant Chase | 272446 | [272446-giant-chase.json](./272446-giant-chase.json) |
+| Giant Cop: Justice Above All | 18429 | [18429-giant-cop-justice-above-all.json](./18429-giant-cop-justice-above-all.json) |
 | Giant Crusher | 214310 | [214310-giant-crusher.json](./214310-giant-crusher.json) |
 | Giant Cutter | 124571 | [124571-giant-cutter.json](./124571-giant-cutter.json) |
 | Giant Dancing Plushies | 175140 | [175140-giant-dancing-plushies.json](./175140-giant-dancing-plushies.json) |
@@ -5404,6 +5405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorious Savior | 38972 | [38972-glorious-savior.json](./38972-glorious-savior.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
 | Glorious Tournius | 139675 | [139675-glorious-tournius.json](./139675-glorious-tournius.json) |
+| Glorkian Warrior: The Trials of Glork | 18444 | [18444-glorkian-warrior-the-trials-of-glork.json](./18444-glorkian-warrior-the-trials-of-glork.json) |
 | Glorp | 213290 | [213290-glorp.json](./213290-glorp.json) |
 | Glory | 171382 | [171382-glory.json](./171382-glory.json) |
 | Glory | 59015 | [59015-glory.json](./59015-glory.json) |
@@ -7721,6 +7723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOS: Gain Of Squad | 295854 | [295854-gos-gain-of-squad.json](./295854-gos-gain-of-squad.json) |
 | Gosaku ga Horu Mon | 214955 | [214955-gosaku-ga-horu-mon.json](./214955-gosaku-ga-horu-mon.json) |
 | Gosaku ga Horu Mon 2: Yoru no Jugyou Sankan Hen | 214958 | [214958-gosaku-ga-horu-mon-2-yoru-no-jugyou-sankan-hen.json](./214958-gosaku-ga-horu-mon-2-yoru-no-jugyou-sankan-hen.json) |
+| Goscurry | 18909 | [18909-goscurry.json](./18909-goscurry.json) |
 | Gosdooma | 292427 | [292427-gosdooma.json](./292427-gosdooma.json) |
 | Gosen-sou | 221413 | [221413-gosen-sou.json](./221413-gosen-sou.json) |
 | Gosh A Ghost | 188872 | [188872-gosh-a-ghost.json](./188872-gosh-a-ghost.json) |
@@ -11183,6 +11186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gum+ | 124590 | [124590-gum.json](./124590-gum.json) |
 | Gumball | 25612 | [25612-gumball.json](./25612-gumball.json) |
 | Gumball 3000 | 300795 | [300795-gumball-3000.json](./300795-gumball-3000.json) |
+| Gumball Drift | 19058 | [19058-gumball-drift.json](./19058-gumball-drift.json) |
 | Gumball Hero | 407353 | [407353-gumball-hero.json](./407353-gumball-hero.json) |
 | Gumball in Trick-or-Treat Land | 373763 | [373763-gumball-in-trick-or-treat-land.json](./373763-gumball-in-trick-or-treat-land.json) |
 | Gumball Rainbow Ruckus | 232856 | [232856-gumball-rainbow-ruckus.json](./232856-gumball-rainbow-ruckus.json) |
