@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hao x Sora: The Sky's Abound | 274005 | [274005-hao-x-sora-the-skys-abound.json](./274005-hao-x-sora-the-skys-abound.json) |
 | Hao-kun no Fushigi na Tabi | 215144 | [215144-hao-kun-no-fushigi-na-tabi.json](./215144-hao-kun-no-fushigi-na-tabi.json) |
 | Haos | 164086 | [164086-haos.json](./164086-haos.json) |
+| Haou no Tairiku | 398941 | [398941-haou-no-tairiku.json](./398941-haou-no-tairiku.json) |
 | Haou Taikei: Ryuu Knight | 42299 | [42299-haou-taikei-ryuu-knight.json](./42299-haou-taikei-ryuu-knight.json) |
 | HaoWei 1 | 372943 | [372943-haowei-1.json](./372943-haowei-1.json) |
 | Hàoyuè Kōnghuá | 112991 | [112991-haoyue-konghua.json](./112991-haoyue-konghua.json) |
