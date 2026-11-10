@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D8gn | 184433 | [184433-d8gn.json](./184433-d8gn.json) |
 | D96: Kansei | 258353 | [258353-d96-kansei.json](./258353-d96-kansei.json) |
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
+| Da Bridge Troll | 426022 | [426022-da-bridge-troll.json](./426022-da-bridge-troll.json) |
 | Da Capo 3 R | 27760 | [27760-da-capo-3-r.json](./27760-da-capo-3-r.json) |
 | Da Capo II: Plus Communication | 66239 | [66239-da-capo-ii-plus-communication.json](./66239-da-capo-ii-plus-communication.json) |
 | Da Capo Innocent Finale | 371576 | [371576-da-capo-innocent-finale.json](./371576-da-capo-innocent-finale.json) |
@@ -2101,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's Murders in the Rue Morgue | 120626 | [120626-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue.json](./120626-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue.json) |
 | Dark Tales: Edgar Allan Poe's Murders in the Rue Morgue - Collector's Edition | 209007 | [209007-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue-collectors-edition.json](./209007-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Speaking with the Dead | 187932 | [187932-dark-tales-edgar-allan-poes-speaking-with-the-dead.json](./187932-dark-tales-edgar-allan-poes-speaking-with-the-dead.json) |
+| Dark Tales: Edgar Allan Poe's Speaking with the Dead - Collector's Edition | 426031 | [426031-dark-tales-edgar-allan-poes-speaking-with-the-dead-collectors-edition.json](./426031-dark-tales-edgar-allan-poes-speaking-with-the-dead-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Bells | 187928 | [187928-dark-tales-edgar-allan-poes-the-bells.json](./187928-dark-tales-edgar-allan-poes-the-bells.json) |
 | Dark Tales: Edgar Allan Poe's The Bells - Collector's Edition | 170189 | [170189-dark-tales-edgar-allan-poes-the-bells-collectors-edition.json](./170189-dark-tales-edgar-allan-poes-the-bells-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat | 257823 | [257823-dark-tales-edgar-allan-poes-the-black-cat.json](./257823-dark-tales-edgar-allan-poes-the-black-cat.json) |
@@ -4076,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoning | 71536 | [71536-dead-reckoning.json](./71536-dead-reckoning.json) |
 | Dead Reckoning: Brassfield Manor | 22126 | [22126-dead-reckoning-brassfield-manor.json](./22126-dead-reckoning-brassfield-manor.json) |
 | Dead Reckoning: Brassfield Manor - Collector's Edition | 55782 | [55782-dead-reckoning-brassfield-manor-collectors-edition.json](./55782-dead-reckoning-brassfield-manor-collectors-edition.json) |
+| Dead Reckoning: Broadbeach Cove - Collector's Edition | 426061 | [426061-dead-reckoning-broadbeach-cove-collectors-edition.json](./426061-dead-reckoning-broadbeach-cove-collectors-edition.json) |
 | Dead Reckoning: Knowledge | 101957 | [101957-dead-reckoning-knowledge.json](./101957-dead-reckoning-knowledge.json) |
 | Dead Reckoning: Lethal Knowledge | 145298 | [145298-dead-reckoning-lethal-knowledge.json](./145298-dead-reckoning-lethal-knowledge.json) |
 | Dead Reckoning: Silvermoon Isle | 140127 | [140127-dead-reckoning-silvermoon-isle.json](./140127-dead-reckoning-silvermoon-isle.json) |
@@ -7746,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Bowling | 124984 | [124984-desktop-bowling.json](./124984-desktop-bowling.json) |
 | Desktop Cat | 354935 | [354935-desktop-cat.json](./354935-desktop-cat.json) |
 | Desktop Cat Cafe | 330383 | [330383-desktop-cat-cafe.json](./330383-desktop-cat-cafe.json) |
+| Desktop Cleaner 98 | 425996 | [425996-desktop-cleaner-98.json](./425996-desktop-cleaner-98.json) |
 | Desktop Clicker | 350513 | [350513-desktop-clicker.json](./350513-desktop-clicker.json) |
 | Desktop Colony | 372508 | [372508-desktop-colony.json](./372508-desktop-colony.json) |
 | Desktop Cube-Man | 368673 | [368673-desktop-cube-man.json](./368673-desktop-cube-man.json) |
@@ -8671,6 +8675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Wheel | 130619 | [130619-devils-wheel.json](./130619-devils-wheel.json) |
 | Devil's Wish | 330645 | [330645-devils-wish.json](./330645-devils-wish.json) |
 | Devilated | 95112 | [95112-devilated.json](./95112-devilated.json) |
+| Devilcoin | 426094 | [426094-devilcoin.json](./426094-devilcoin.json) |
 | DevilConnection | 312736 | [312736-devilconnection.json](./312736-devilconnection.json) |
 | DevilDark: The Fallen Kingdom | 343817 | [343817-devildark-the-fallen-kingdom.json](./343817-devildark-the-fallen-kingdom.json) |
 | Devileader | 152576 | [152576-devileader.json](./152576-devileader.json) |
@@ -12539,6 +12544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogz | 47777 | [47777-dogz.json](./47777-dogz.json) |
 | Dogz 2 | 49426 | [49426-dogz-2.json](./49426-dogz-2.json) |
 | Dogz 3: Your Virtual Petz | 151540 | [151540-dogz-3-your-virtual-petz.json](./151540-dogz-3-your-virtual-petz.json) |
+| Dogz 3D | 425998 | [425998-dogz-3d.json](./425998-dogz-3d.json) |
 | Dogz 4 | 151539 | [151539-dogz-4.json](./151539-dogz-4.json) |
 | Dogz 5 | 73681 | [73681-dogz-5.json](./73681-dogz-5.json) |
 | Dogz: Fashion | 49403 | [49403-dogz-fashion.json](./49403-dogz-fashion.json) |
