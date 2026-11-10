@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Large PonPon | 305064 | [305064-large-ponpon.json](./305064-large-ponpon.json) |
 | Largely Legal Monstrosity | 422128 | [422128-largely-legal-monstrosity.json](./422128-largely-legal-monstrosity.json) |
 | Larger Than Light | 157017 | [157017-larger-than-light.json](./157017-larger-than-light.json) |
+| Largitas: Fragments of War | 423665 | [423665-largitas-fragments-of-war.json](./423665-largitas-fragments-of-war.json) |
 | Largo | 292285 | [292285-largo.json](./292285-largo.json) |
 | Largo Winch .// Commando SAR | 78290 | [78290-largo-winch-commando-sar.json](./78290-largo-winch-commando-sar.json) |
 | Largo Winch: Empire Under Threat | 3971 | [3971-largo-winch-empire-under-threat.json](./3971-largo-winch-empire-under-threat.json) |
@@ -1372,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Escort: Kokuchou Special Night | 220567 | [220567-last-escort-kokuchou-special-night.json](./220567-last-escort-kokuchou-special-night.json) |
 | Last Escort: Shin'ya no Kokuchou Monogatari | 220566 | [220566-last-escort-shinya-no-kokuchou-monogatari.json](./220566-last-escort-shinya-no-kokuchou-monogatari.json) |
 | Last Evil | 135638 | [135638-last-evil.json](./135638-last-evil.json) |
+| Last Exit Diner: Edge of Known Space | 423639 | [423639-last-exit-diner-edge-of-known-space.json](./423639-last-exit-diner-edge-of-known-space.json) |
 | Last Expedition | 142310 | [142310-last-expedition.json](./142310-last-expedition.json) |
 | Last Explorer | 57394 | [57394-last-explorer.json](./57394-last-explorer.json) |
 | Last Fantasy | 234482 | [234482-last-fantasy.json](./234482-last-fantasy.json) |
@@ -3676,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
 | Leon&Suharto | 401867 | [401867-leon-and-suharto.json](./401867-leon-and-suharto.json) |
 | Leona's Tricky Adventures | 17518 | [17518-leonas-tricky-adventures.json](./17518-leonas-tricky-adventures.json) |
+| Leonard's Maze | 423655 | [423655-leonards-maze.json](./423655-leonards-maze.json) |
 | Leonardo | 133430 | [133430-leonardo.json](./133430-leonardo.json) |
 | Leonardo: The Inventor | 360281 | [360281-leonardo-the-inventor.json](./360281-leonardo-the-inventor.json) |
 | Leonardo's Cat | 175398 | [175398-leonardos-cat.json](./175398-leonardos-cat.json) |
