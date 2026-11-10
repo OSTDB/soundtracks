@@ -8372,6 +8372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alteira | 260727 | [260727-alteira.json](./260727-alteira.json) |
 | Alter | 264033 | [264033-alter.json](./264033-alter.json) |
 | Alter | 293935 | [293935-alter.json](./293935-alter.json) |
+| Alter A.I.L.A. | 416768 | [416768-alter-a-i-l-a.json](./416768-alter-a-i-l-a.json) |
 | Alter A.I.L.A. Genesis | 308425 | [308425-alter-a-i-l-a-genesis.json](./308425-alter-a-i-l-a-genesis.json) |
 | Alter Aeon | 228745 | [228745-alter-aeon.json](./228745-alter-aeon.json) |
 | Alter Age | 310513 | [310513-alter-age.json](./310513-alter-age.json) |
@@ -8810,6 +8811,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Thief | 134389 | [134389-amazing-thief.json](./134389-amazing-thief.json) |
 | Amazing Treasure Valley | 138327 | [138327-amazing-treasure-valley.json](./138327-amazing-treasure-valley.json) |
 | Amazing Trip to Europe | 241300 | [241300-amazing-trip-to-europe.json](./241300-amazing-trip-to-europe.json) |
+| Amazing Trip to Europe 4: Search for Cats | 416477 | [416477-amazing-trip-to-europe-4-search-for-cats.json](./416477-amazing-trip-to-europe-4-search-for-cats.json) |
+| Amazing Trip to Europe 4: Search for Cats - Collector's Edition | 416478 | [416478-amazing-trip-to-europe-4-search-for-cats-collectors-edition.json](./416478-amazing-trip-to-europe-4-search-for-cats-collectors-edition.json) |
 | Amazing Trivia | 81846 | [81846-amazing-trivia.json](./81846-amazing-trivia.json) |
 | Amazing Vacation: Chicago | 337253 | [337253-amazing-vacation-chicago.json](./337253-amazing-vacation-chicago.json) |
 | Amazing Vacation: Los Angeles | 337227 | [337227-amazing-vacation-los-angeles.json](./337227-amazing-vacation-los-angeles.json) |
@@ -8817,9 +8820,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Vacation: New York | 337233 | [337233-amazing-vacation-new-york.json](./337233-amazing-vacation-new-york.json) |
 | Amazing Vacation: San Francisco | 337234 | [337234-amazing-vacation-san-francisco.json](./337234-amazing-vacation-san-francisco.json) |
 | Amazing Vacation: Seattle | 337226 | [337226-amazing-vacation-seattle.json](./337226-amazing-vacation-seattle.json) |
+| Amazing Weekend 2: Search and Relax | 416896 | [416896-amazing-weekend-2-search-and-relax.json](./416896-amazing-weekend-2-search-and-relax.json) |
 | Amazing Weekend 2: Search and Relax - Collector's Edition | 337822 | [337822-amazing-weekend-2-search-and-relax-collectors-edition.json](./337822-amazing-weekend-2-search-and-relax-collectors-edition.json) |
+| Amazing Weekend 3: Search and Relax | 416897 | [416897-amazing-weekend-3-search-and-relax.json](./416897-amazing-weekend-3-search-and-relax.json) |
 | Amazing Weekend 3: Search and Relax - Collector's Edition | 360444 | [360444-amazing-weekend-3-search-and-relax-collectors-edition.json](./360444-amazing-weekend-3-search-and-relax-collectors-edition.json) |
+| Amazing Weekend 4: Search and Relax | 416898 | [416898-amazing-weekend-4-search-and-relax.json](./416898-amazing-weekend-4-search-and-relax.json) |
 | Amazing Weekend 4: Search and Relax - Collector's Edition | 386207 | [386207-amazing-weekend-4-search-and-relax-collectors-edition.json](./386207-amazing-weekend-4-search-and-relax-collectors-edition.json) |
+| Amazing Weekend: Search and Relax | 416895 | [416895-amazing-weekend-search-and-relax.json](./416895-amazing-weekend-search-and-relax.json) |
 | Amazing Weekend: Search and Relax - Collector's Edition | 293049 | [293049-amazing-weekend-search-and-relax-collectors-edition.json](./293049-amazing-weekend-search-and-relax-collectors-edition.json) |
 | Amazing Wire | 233526 | [233526-amazing-wire.json](./233526-amazing-wire.json) |
 | Amazing Wizard | 79642 | [79642-amazing-wizard.json](./79642-amazing-wizard.json) |
@@ -9740,6 +9747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Abyss | 107024 | [107024-ancient-abyss.json](./107024-ancient-abyss.json) |
 | Ancient Adventure | 406222 | [406222-ancient-adventure.json](./406222-ancient-adventure.json) |
 | Ancient Adventures | 205841 | [205841-ancient-adventures.json](./205841-ancient-adventures.json) |
+| Ancient Adventures: Gift of Zeus | 416900 | [416900-ancient-adventures-gift-of-zeus.json](./416900-ancient-adventures-gift-of-zeus.json) |
 | Ancient Aliens | 136707 | [136707-ancient-aliens.json](./136707-ancient-aliens.json) |
 | Ancient Aliens: Chapter 1 - The Roots of Sound | 58017 | [58017-ancient-aliens-chapter-1-the-roots-of-sound.json](./58017-ancient-aliens-chapter-1-the-roots-of-sound.json) |
 | Ancient Aliens: The Game | 211402 | [211402-ancient-aliens-the-game.json](./211402-ancient-aliens-the-game.json) |
@@ -9808,6 +9816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Islands | 192835 | [192835-ancient-islands.json](./192835-ancient-islands.json) |
 | Ancient Jewels 3: Cleopatra's Treasures | 99683 | [99683-ancient-jewels-3-cleopatras-treasures.json](./99683-ancient-jewels-3-cleopatras-treasures.json) |
 | Ancient Jewels 4: Babylon | 293955 | [293955-ancient-jewels-4-babylon.json](./293955-ancient-jewels-4-babylon.json) |
+| Ancient Jewels: The Mayan Legacy | 416476 | [416476-ancient-jewels-the-mayan-legacy.json](./416476-ancient-jewels-the-mayan-legacy.json) |
 | Ancient Journey | 101299 | [101299-ancient-journey.json](./101299-ancient-journey.json) |
 | Ancient Keys DX | 321448 | [321448-ancient-keys-dx.json](./321448-ancient-keys-dx.json) |
 | Ancient Kingdoms | 244176 | [244176-ancient-kingdoms.json](./244176-ancient-kingdoms.json) |
