@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hǎidǐ Xúnbǎo | 110136 | [110136-haidi-xunbao.json](./110136-haidi-xunbao.json) |
 | Haifa | 338098 | [338098-haifa.json](./338098-haifa.json) |
 | Haiiro no Umi nite Kimi wo Matsu | 285899 | [285899-haiiro-no-umi-nite-kimi-wo-matsu.json](./285899-haiiro-no-umi-nite-kimi-wo-matsu.json) |
+| Haikaburi to Bourei-tachi | 421259 | [421259-haikaburi-to-bourei-tachi.json](./421259-haikaburi-to-bourei-tachi.json) |
 | Haikei, Kanshu Hajimemashita | 135446 | [135446-haikei-kanshu-hajimemashita.json](./135446-haikei-kanshu-hajimemashita.json) |
 | Haiki | 141134 | [141134-haiki.json](./141134-haiki.json) |
 | Haiki Gas Circle | 151820 | [151820-haiki-gas-circle.json](./151820-haiki-gas-circle.json) |
@@ -6499,6 +6500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
 | Heroes of Shaola | 57770 | [57770-heroes-of-shaola.json](./57770-heroes-of-shaola.json) |
 | Heroes of Sokoban | 381991 | [381991-heroes-of-sokoban.json](./381991-heroes-of-sokoban.json) |
+| Heroes of Sokoban II: Monsters | 421256 | [421256-heroes-of-sokoban-ii-monsters.json](./421256-heroes-of-sokoban-ii-monsters.json) |
 | Heroes of Solitairea | 294862 | [294862-heroes-of-solitairea.json](./294862-heroes-of-solitairea.json) |
 | Heroes of SoulCraft | 17770 | [17770-heroes-of-soulcraft.json](./17770-heroes-of-soulcraft.json) |
 | Heroes of Spyria | 250462 | [250462-heroes-of-spyria.json](./250462-heroes-of-spyria.json) |
@@ -8945,6 +8947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HiYah! | 322832 | [322832-hiyah.json](./322832-hiyah.json) |
 | Hiyake no Omoide & Himekuri: Girls in Motion Puzzle Vol. 1 | 245615 | [245615-hiyake-no-omoide-and-himekuri-girls-in-motion-puzzle-vol-1.json](./245615-hiyake-no-omoide-and-himekuri-girls-in-motion-puzzle-vol-1.json) |
 | Hiyoku no Tori | 237758 | [237758-hiyoku-no-tori.json](./237758-hiyoku-no-tori.json) |
+| Hiyoru | 421255 | [421255-hiyoru.json](./421255-hiyoru.json) |
 | Hiyoshi Clinic | 341098 | [341098-hiyoshi-clinic.json](./341098-hiyoshi-clinic.json) |
 | Hiza no Ue no Partner: Kitty on Your Lap | 65494 | [65494-hiza-no-ue-no-partner-kitty-on-your-lap.json](./65494-hiza-no-ue-no-partner-kitty-on-your-lap.json) |
 | Hizca | 348929 | [348929-hizca.json](./348929-hizca.json) |
