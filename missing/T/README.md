@@ -4677,6 +4677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Nil Prototype | 123998 | [123998-terra-nil-prototype.json](./123998-terra-nil-prototype.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
 | Terra Nil: Heatwave | 360290 | [360290-terra-nil-heatwave.json](./360290-terra-nil-heatwave.json) |
+| Terra Ninfa | 427813 | [427813-terra-ninfa.json](./427813-terra-ninfa.json) |
 | Terra Nova | 123182 | [123182-terra-nova.json](./123182-terra-nova.json) |
 | Terra Nova Pinball | 289034 | [289034-terra-nova-pinball.json](./289034-terra-nova-pinball.json) |
 | Terra Nova: Strategy of Survival | 130533 | [130533-terra-nova-strategy-of-survival.json](./130533-terra-nova-strategy-of-survival.json) |
@@ -10603,6 +10604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Girls Take Manhattan DX | 241237 | [241237-the-golden-girls-take-manhattan-dx.json](./241237-the-golden-girls-take-manhattan-dx.json) |
 | The Golden Harp | 176784 | [176784-the-golden-harp.json](./176784-the-golden-harp.json) |
 | The Golden Horde | 21482 | [21482-the-golden-horde.json](./21482-the-golden-horde.json) |
+| The Golden Horde: Story of Jambul | 427856 | [427856-the-golden-horde-story-of-jambul.json](./427856-the-golden-horde-story-of-jambul.json) |
 | The Golden Idol Saga | 415347 | [415347-the-golden-idol-saga.json](./415347-the-golden-idol-saga.json) |
 | The Golden Mare | 364663 | [364663-the-golden-mare.json](./364663-the-golden-mare.json) |
 | The Golden Path of Plumeboom | 24736 | [24736-the-golden-path-of-plumeboom.json](./24736-the-golden-path-of-plumeboom.json) |
@@ -33907,6 +33909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
 | Tun Town | 68866 | [68866-tun-town.json](./68866-tun-town.json) |
 | Tun Town 2 | 92327 | [92327-tun-town-2.json](./92327-tun-town-2.json) |
+| Tuna Quest | 427857 | [427857-tuna-quest.json](./427857-tuna-quest.json) |
 | Tuna Rice | 268781 | [268781-tuna-rice.json](./268781-tuna-rice.json) |
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
 | Tuna The Cat | 249184 | [249184-tuna-the-cat.json](./249184-tuna-the-cat.json) |
@@ -34803,6 +34806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Draw | 199649 | [199649-twisted-draw.json](./199649-twisted-draw.json) |
 | Twisted Edge Extreme Snowboarding | 3622 | [3622-twisted-edge-extreme-snowboarding.json](./3622-twisted-edge-extreme-snowboarding.json) |
 | Twisted Fate | 382728 | [382728-twisted-fate.json](./382728-twisted-fate.json) |
+| Twisted Games | 427810 | [427810-twisted-games.json](./427810-twisted-games.json) |
 | Twisted Insurrection | 219009 | [219009-twisted-insurrection.json](./219009-twisted-insurrection.json) |
 | Twisted Jam | 329238 | [329238-twisted-jam.json](./329238-twisted-jam.json) |
 | Twisted Joke | 273548 | [273548-twisted-joke.json](./273548-twisted-joke.json) |
