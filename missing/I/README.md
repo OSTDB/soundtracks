@@ -3454,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiana Jones and The Relic of the Viking | 321096 | [321096-indiana-jones-and-the-relic-of-the-viking.json](./321096-indiana-jones-and-the-relic-of-the-viking.json) |
 | Indiana Jones and the Staff of Kings | 329026 | [329026-indiana-jones-and-the-staff-of-kings.json](./329026-indiana-jones-and-the-staff-of-kings.json) |
 | Indiana Jones and the Staff of Kings | 4932 | [4932-indiana-jones-and-the-staff-of-kings.json](./4932-indiana-jones-and-the-staff-of-kings.json) |
+| Indiana Jones and the Temple of Doom | 12156 | [12156-indiana-jones-and-the-temple-of-doom.json](./12156-indiana-jones-and-the-temple-of-doom.json) |
 | Indiana Jones and the Temple of Doom | 290273 | [290273-indiana-jones-and-the-temple-of-doom.json](./290273-indiana-jones-and-the-temple-of-doom.json) |
 | Indiana Jones and the Temple of the Spheres | 322929 | [322929-indiana-jones-and-the-temple-of-the-spheres.json](./322929-indiana-jones-and-the-temple-of-the-spheres.json) |
 | Indiana Jones in Revenge of the Ancients | 22218 | [22218-indiana-jones-in-revenge-of-the-ancients.json](./22218-indiana-jones-in-revenge-of-the-ancients.json) |
@@ -4036,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
