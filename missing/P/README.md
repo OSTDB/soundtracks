@@ -16465,6 +16465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Battle (working title) | 131440 | [131440-project-battle-working-title.json](./131440-project-battle-working-title.json) |
 | Project Battlefield | 342655 | [342655-project-battlefield.json](./342655-project-battlefield.json) |
 | Project BBQ | 126288 | [126288-project-bbq.json](./126288-project-bbq.json) |
+| Project Beat Stands | 399399 | [399399-project-beat-stands.json](./399399-project-beat-stands.json) |
 | Project Beauty | 72777 | [72777-project-beauty.json](./72777-project-beauty.json) |
 | Project Beksinski | 251137 | [251137-project-beksinski.json](./251137-project-beksinski.json) |
 | Project Below | 248843 | [248843-project-below.json](./248843-project-below.json) |
