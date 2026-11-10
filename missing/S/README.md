@@ -16311,6 +16311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Blower: Idle Game | 295744 | [295744-snow-blower-idle-game.json](./295744-snow-blower-idle-game.json) |
 | Snow Board Championship | 39801 | [39801-snow-board-championship.json](./39801-snow-board-championship.json) |
 | Snow Bound Land | 77419 | [77419-snow-bound-land.json](./77419-snow-bound-land.json) |
+| Snow Bowling | 397429 | [397429-snow-bowling.json](./397429-snow-bowling.json) |
 | Snow Break | 94210 | [94210-snow-break.json](./94210-snow-break.json) |
 | Snow Bros. | 212657 | [212657-snow-bros.json](./212657-snow-bros.json) |
 | Snow Bros. | 212658 | [212658-snow-bros.json](./212658-snow-bros.json) |
@@ -22697,6 +22698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunky 2 | 75239 | [75239-spelunky-2.json](./75239-spelunky-2.json) |
 | Spelunky64 | 316126 | [316126-spelunky64.json](./316126-spelunky64.json) |
 | Spelunx and the Caves of Mr. Seudo | 15067 | [15067-spelunx-and-the-caves-of-mr-seudo.json](./15067-spelunx-and-the-caves-of-mr-seudo.json) |
+| Spelvin Goolie, Private Eyeball | 397386 | [397386-spelvin-goolie-private-eyeball.json](./397386-spelvin-goolie-private-eyeball.json) |
 | Spencer | 90124 | [90124-spencer.json](./90124-spencer.json) |
 | Spend Bill Gates' Money | 409850 | [409850-spend-bill-gates-money.json](./409850-spend-bill-gates-money.json) |
 | Spend the Night with Kitty | 288122 | [288122-spend-the-night-with-kitty.json](./288122-spend-the-night-with-kitty.json) |
