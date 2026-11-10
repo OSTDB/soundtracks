@@ -7307,6 +7307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logam vs Ksi | 108344 | [108344-logam-vs-ksi.json](./108344-logam-vs-ksi.json) |
 | Logan Paul Adventure | 259418 | [259418-logan-paul-adventure.json](./259418-logan-paul-adventure.json) |
 | Logan's Treasure | 98208 | [98208-logans-treasure.json](./98208-logans-treasure.json) |
+| Logbook: Beneath the Storm | 402642 | [402642-logbook-beneath-the-storm.json](./402642-logbook-beneath-the-storm.json) |
 | Loggerhead | 216570 | [216570-loggerhead.json](./216570-loggerhead.json) |
 | Logi Box | 339630 | [339630-logi-box.json](./339630-logi-box.json) |
 | Logi. | 105719 | [105719-logi.json](./105719-logi.json) |
