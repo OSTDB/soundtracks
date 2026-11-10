@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Decadence - Collector's Edition | 153645 | [153645-danganronpa-decadence-collectors-edition.json](./153645-danganronpa-decadence-collectors-edition.json) |
 | Danganronpa: Despair Among Us | 411319 | [411319-danganronpa-despair-among-us.json](./411319-danganronpa-despair-among-us.json) |
 | Danganronpa: Despair's Loss | 411323 | [411323-danganronpa-despairs-loss.json](./411323-danganronpa-despairs-loss.json) |
+| Danganronpa: Dungeons & Despair | 399522 | [399522-danganronpa-dungeons-and-despair.json](./399522-danganronpa-dungeons-and-despair.json) |
 | Danganronpa: Eternal Endings | 304347 | [304347-danganronpa-eternal-endings.json](./304347-danganronpa-eternal-endings.json) |
 | Danganronpa: Fandom's Calling | 338724 | [338724-danganronpa-fandoms-calling.json](./338724-danganronpa-fandoms-calling.json) |
 | Danganronpa: Gods at Gunpoint | 341110 | [341110-danganronpa-gods-at-gunpoint.json](./341110-danganronpa-gods-at-gunpoint.json) |
@@ -5192,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debris | 372431 | [372431-debris.json](./372431-debris.json) |
 | Debris | 52017 | [52017-debris.json](./52017-debris.json) |
 | Debris 2x1 Hentai | 345782 | [345782-debris-2x1-hentai.json](./345782-debris-2x1-hentai.json) |
+| Debris 32 | 399533 | [399533-debris-32.json](./399533-debris-32.json) |
 | Debris Field | 113229 | [113229-debris-field.json](./113229-debris-field.json) |
 | Debris II | 151855 | [151855-debris-ii.json](./151855-debris-ii.json) |
 | Debris Infinity | 76331 | [76331-debris-infinity.json](./76331-debris-infinity.json) |
@@ -9644,6 +9646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digger Simulator 2011 | 52907 | [52907-digger-simulator-2011.json](./52907-digger-simulator-2011.json) |
 | Digger T. Rock: The Legend of the Lost City | 12932 | [12932-digger-t-rock-the-legend-of-the-lost-city.json](./12932-digger-t-rock-the-legend-of-the-lost-city.json) |
 | Digger: A Quest for Hidden Gems | 108111 | [108111-digger-a-quest-for-hidden-gems.json](./108111-digger-a-quest-for-hidden-gems.json) |
+| Digger: Goblin Caves | 399317 | [399317-digger-goblin-caves.json](./399317-digger-goblin-caves.json) |
 | Diggergun | 204370 | [204370-diggergun.json](./204370-diggergun.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
 | Diggers | 37101 | [37101-diggers.json](./37101-diggers.json) |
@@ -9695,6 +9698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon 20th Anniversary Digivice | 270626 | [270626-digimon-20th-anniversary-digivice.json](./270626-digimon-20th-anniversary-digivice.json) |
 | Digimon 6 | 247399 | [247399-digimon-6.json](./247399-digimon-6.json) |
 | Digimon Adventure | 247397 | [247397-digimon-adventure.json](./247397-digimon-adventure.json) |
+| Digimon Adventure | 399333 | [399333-digimon-adventure.json](./399333-digimon-adventure.json) |
 | Digimon Adventure 02: D-1 Tamers | 37553 | [37553-digimon-adventure-02-d-1-tamers.json](./37553-digimon-adventure-02-d-1-tamers.json) |
 | Digimon Adventure 02: Tag Tamers | 37518 | [37518-digimon-adventure-02-tag-tamers.json](./37518-digimon-adventure-02-tag-tamers.json) |
 | Digimon Adventure Trading Card Game | 276115 | [276115-digimon-adventure-trading-card-game.json](./276115-digimon-adventure-trading-card-game.json) |
