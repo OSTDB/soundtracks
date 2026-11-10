@@ -1461,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayaks Don't Climb | 355550 | [355550-kayaks-dont-climb.json](./355550-kayaks-dont-climb.json) |
 | Kayalina | 67911 | [67911-kayalina.json](./67911-kayalina.json) |
 | Kayden Garth | 229608 | [229608-kayden-garth.json](./229608-kayden-garth.json) |
+| Kayf-Life: Complete Edition | 416237 | [416237-kayf-life-complete-edition.json](./416237-kayf-life-complete-edition.json) |
 | Kayko & Kokosh Coloring Book | 219464 | [219464-kayko-and-kokosh-coloring-book.json](./219464-kayko-and-kokosh-coloring-book.json) |
 | Kayko & Kokosh Coloring Book: Deluxe Edition | 221082 | [221082-kayko-and-kokosh-coloring-book-deluxe-edition.json](./221082-kayko-and-kokosh-coloring-book-deluxe-edition.json) |
 | Kayleth | 36839 | [36839-kayleth.json](./36839-kayleth.json) |
