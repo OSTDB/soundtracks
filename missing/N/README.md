@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Rogue | 127573 | [127573-nasty-rogue.json](./127573-nasty-rogue.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
 | Nasu Pinball | 225438 | [225438-nasu-pinball.json](./225438-nasu-pinball.json) |
+| Nasubi | 409910 | [409910-nasubi.json](./409910-nasubi.json) |
 | Nasubi Room | 360622 | [360622-nasubi-room.json](./360622-nasubi-room.json) |
 | Nasway | 37434 | [37434-nasway.json](./37434-nasway.json) |
 | Nat Geo Challenge! Wild Life | 21573 | [21573-nat-geo-challenge-wild-life.json](./21573-nat-geo-challenge-wild-life.json) |
@@ -3271,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevermore VIII-XIII | 119498 | [119498-nevermore-viii-xiii.json](./119498-nevermore-viii-xiii.json) |
 | Nevermore: Documentary Kinetic Novel | 206511 | [206511-nevermore-documentary-kinetic-novel.json](./206511-nevermore-documentary-kinetic-novel.json) |
 | Nevermore: The Chamber Door | 149161 | [149161-nevermore-the-chamber-door.json](./149161-nevermore-the-chamber-door.json) |
+| Neverness to Everness: 999 Nights | 409904 | [409904-neverness-to-everness-999-nights.json](./409904-neverness-to-everness-999-nights.json) |
 | Neverness to Everness: For Whom the Verses Mourn | 421171 | [421171-neverness-to-everness-for-whom-the-verses-mourn.json](./421171-neverness-to-everness-for-whom-the-verses-mourn.json) |
 | Neverness to Everness: Rising from the Moonlit Fog | 412691 | [412691-neverness-to-everness-rising-from-the-moonlit-fog.json](./412691-neverness-to-everness-rising-from-the-moonlit-fog.json) |
 | NeveRossa: Mille e una notte | 316644 | [316644-neverossa-mille-e-una-notte.json](./316644-neverossa-mille-e-una-notte.json) |
@@ -4858,6 +4860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Knight: Sacred Maiden & Fallen Magic | 270955 | [270955-nightmare-knight-sacred-maiden-and-fallen-magic.json](./270955-nightmare-knight-sacred-maiden-and-fallen-magic.json) |
 | Nightmare Knock | 237518 | [237518-nightmare-knock.json](./237518-nightmare-knock.json) |
 | Nightmare Labyrinth | 274037 | [274037-nightmare-labyrinth.json](./274037-nightmare-labyrinth.json) |
+| Nightmare Loop | 409917 | [409917-nightmare-loop.json](./409917-nightmare-loop.json) |
 | Nightmare Manor | 257893 | [257893-nightmare-manor.json](./257893-nightmare-manor.json) |
 | Nightmare Materials | 274361 | [274361-nightmare-materials.json](./274361-nightmare-materials.json) |
 | Nightmare Maze | 13743 | [13743-nightmare-maze.json](./13743-nightmare-maze.json) |
