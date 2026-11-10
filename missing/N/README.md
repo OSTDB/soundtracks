@@ -4963,6 +4963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightork Adventures 2: Legacy of Chaos | 55346 | [55346-nightork-adventures-2-legacy-of-chaos.json](./55346-nightork-adventures-2-legacy-of-chaos.json) |
 | Nightout | 172503 | [172503-nightout.json](./172503-nightout.json) |
 | Nightowl | 182138 | [182138-nightowl.json](./182138-nightowl.json) |
+| Nightpiercer | 404568 | [404568-nightpiercer.json](./404568-nightpiercer.json) |
 | Nightpyre | 349726 | [349726-nightpyre.json](./349726-nightpyre.json) |
 | Nightraiders | 23948 | [23948-nightraiders.json](./23948-nightraiders.json) |
 | NightReaper2 | 388192 | [388192-nightreaper2.json](./388192-nightreaper2.json) |
