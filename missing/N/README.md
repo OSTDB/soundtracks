@@ -5285,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Blade | 7121 | [7121-ninja-blade.json](./7121-ninja-blade.json) |
 | Ninja Blast | 190809 | [190809-ninja-blast.json](./190809-ninja-blast.json) |
 | Ninja Box | 112080 | [112080-ninja-box.json](./112080-ninja-box.json) |
+| Ninja Boy | 419448 | [419448-ninja-boy.json](./419448-ninja-boy.json) |
 | Ninja Boy 2 | 48966 | [48966-ninja-boy-2.json](./48966-ninja-boy-2.json) |
 | Ninja Break | 203559 | [203559-ninja-break.json](./203559-ninja-break.json) |
 | Ninja Break: Head to Head | 204992 | [204992-ninja-break-head-to-head.json](./204992-ninja-break-head-to-head.json) |
