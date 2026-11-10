@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Bird Simulator | 87344 | [87344-ultimate-bird-simulator.json](./87344-ultimate-bird-simulator.json) |
 | Ultimate Blackball | 243383 | [243383-ultimate-blackball.json](./243383-ultimate-blackball.json) |
 | Ultimate BlackJack Reloaded | 91107 | [91107-ultimate-blackjack-reloaded.json](./91107-ultimate-blackjack-reloaded.json) |
+| Ultimate Blacksmith Tycoon | 406393 | [406393-ultimate-blacksmith-tycoon.json](./406393-ultimate-blacksmith-tycoon.json) |
 | Ultimate Block Party | 22574 | [22574-ultimate-block-party.json](./22574-ultimate-block-party.json) |
 | Ultimate Board Game Collection | 20553 | [20553-ultimate-board-game-collection.json](./20553-ultimate-board-game-collection.json) |
 | Ultimate Body Blows | 8495 | [8495-ultimate-body-blows.json](./8495-ultimate-body-blows.json) |
@@ -2931,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unseen Land: Into the Mist | 373054 | [373054-unseen-land-into-the-mist.json](./373054-unseen-land-into-the-mist.json) |
 | Unseen World: Magical Lense | 384290 | [384290-unseen-world-magical-lense.json](./384290-unseen-world-magical-lense.json) |
 | Unseen: 2002 | 292348 | [292348-unseen-2002.json](./292348-unseen-2002.json) |
+| Unseen: Someone | 406416 | [406416-unseen-someone.json](./406416-unseen-someone.json) |
 | Unsent | 343314 | [343314-unsent.json](./343314-unsent.json) |
 | Unsettled | 59244 | [59244-unsettled.json](./59244-unsettled.json) |
 | Unshaded | 167783 | [167783-unshaded.json](./167783-unshaded.json) |
