@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candle In Darkness | 158551 | [158551-candle-in-darkness.json](./158551-candle-in-darkness.json) |
 | Candle Knight | 192110 | [192110-candle-knight.json](./192110-candle-knight.json) |
 | Candle Prick | 185609 | [185609-candle-prick.json](./185609-candle-prick.json) |
+| Candle Route | 85020 | [85020-candle-route.json](./85020-candle-route.json) |
 | Candle Under Water | 124173 | [124173-candle-under-water.json](./124173-candle-under-water.json) |
 | Candle Wood | 315115 | [315115-candle-wood.json](./315115-candle-wood.json) |
 | Candlebook Island | 266059 | [266059-candlebook-island.json](./266059-candlebook-island.json) |
@@ -3714,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Conqueror Defender | 84592 | [84592-castle-conqueror-defender.json](./84592-castle-conqueror-defender.json) |
 | Castle Conqueror EX | 84591 | [84591-castle-conqueror-ex.json](./84591-castle-conqueror-ex.json) |
 | Castle Conqueror: Against | 85024 | [85024-castle-conqueror-against.json](./85024-castle-conqueror-against.json) |
+| Castle Conqueror: Heroes | 85023 | [85023-castle-conqueror-heroes.json](./85023-castle-conqueror-heroes.json) |
 | Castle Conqueror: Heroes 2 | 85022 | [85022-castle-conqueror-heroes-2.json](./85022-castle-conqueror-heroes-2.json) |
 | Castle Conqueror: Revolution | 84593 | [84593-castle-conqueror-revolution.json](./84593-castle-conqueror-revolution.json) |
 | Castle Constructor | 157818 | [157818-castle-constructor.json](./157818-castle-constructor.json) |
@@ -6818,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check vs. Mate: Dark Desert DLC | 142983 | [142983-check-vs-mate-dark-desert-dlc.json](./142983-check-vs-mate-dark-desert-dlc.json) |
 | Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
 | Check x Mate | 163133 | [163133-check-x-mate.json](./163133-check-x-mate.json) |
+| Check Your 6! | 84870 | [84870-check-your-6.json](./84870-check-your-6.json) |
 | Check-In | 169134 | [169134-check-in.json](./169134-check-in.json) |
 | Check-In | 180935 | [180935-check-in.json](./180935-check-in.json) |
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
@@ -11642,6 +11645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coaster Crash Course | 373065 | [373065-coaster-crash-course.json](./373065-coaster-crash-course.json) |
 | Coaster Crazy | 63522 | [63522-coaster-crazy.json](./63522-coaster-crazy.json) |
 | Coaster Crazy Deluxe | 85038 | [85038-coaster-crazy-deluxe.json](./85038-coaster-crazy-deluxe.json) |
+| Coaster Creator 3D | 85037 | [85037-coaster-creator-3d.json](./85037-coaster-creator-3d.json) |
 | Coaster Mania | 306926 | [306926-coaster-mania.json](./306926-coaster-mania.json) |
 | Coaster of Carnage VR | 75392 | [75392-coaster-of-carnage-vr.json](./75392-coaster-of-carnage-vr.json) |
 | Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
