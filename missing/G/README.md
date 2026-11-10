@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy of Games Red Edition | 205918 | [205918-galaxy-of-games-red-edition.json](./205918-galaxy-of-games-red-edition.json) |
 | Galaxy of Games: Yellow Edition | 209587 | [209587-galaxy-of-games-yellow-edition.json](./209587-galaxy-of-games-yellow-edition.json) |
 | Galaxy of MahJongg | 209588 | [209588-galaxy-of-mahjongg.json](./209588-galaxy-of-mahjongg.json) |
+| Galaxy of Pen and Paper | 44112 | [44112-galaxy-of-pen-and-paper.json](./44112-galaxy-of-pen-and-paper.json) |
 | Galaxy of Pen and Paper +1 Edition | 205270 | [205270-galaxy-of-pen-and-paper-1-edition.json](./205270-galaxy-of-pen-and-paper-1-edition.json) |
 | Galaxy of Trian | 175182 | [175182-galaxy-of-trian.json](./175182-galaxy-of-trian.json) |
 | Galaxy of Trian Board Game | 85603 | [85603-galaxy-of-trian-board-game.json](./85603-galaxy-of-trian-board-game.json) |
@@ -3474,6 +3475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | George Foreman's KO Boxing | 275022 | [275022-george-foremans-ko-boxing.json](./275022-george-foremans-ko-boxing.json) |
 | George Foreman's KO Boxing | 275023 | [275023-george-foremans-ko-boxing.json](./275023-george-foremans-ko-boxing.json) |
 | George Foreman's KO Boxing | 275024 | [275024-george-foremans-ko-boxing.json](./275024-george-foremans-ko-boxing.json) |
+| George Foreman's KO Boxing | 48164 | [48164-george-foremans-ko-boxing.json](./48164-george-foremans-ko-boxing.json) |
 | George Likes to Hide | 333586 | [333586-george-likes-to-hide.json](./333586-george-likes-to-hide.json) |
 | George Lopez: Lawn Art Bowling | 321237 | [321237-george-lopez-lawn-art-bowling.json](./321237-george-lopez-lawn-art-bowling.json) |
 | George McGeehan Gamer Hero | 260794 | [260794-george-mcgeehan-gamer-hero.json](./260794-george-mcgeehan-gamer-hero.json) |
