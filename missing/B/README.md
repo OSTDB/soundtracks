@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12531,6 +12532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board Kings | 86960 | [86960-board-kings.json](./86960-board-kings.json) |
 | Board of the Future | 406166 | [406166-board-of-the-future.json](./406166-board-of-the-future.json) |
 | Board Quizz Adventure | 117795 | [117795-board-quizz-adventure.json](./117795-board-quizz-adventure.json) |
+| Boardbite | 424829 | [424829-boardbite.json](./424829-boardbite.json) |
 | Boarder Zone | 288071 | [288071-boarder-zone.json](./288071-boarder-zone.json) |
 | Boardfall | 375945 | [375945-boardfall.json](./375945-boardfall.json) |
 | Boarding Denied | 422118 | [422118-boarding-denied.json](./422118-boarding-denied.json) |
