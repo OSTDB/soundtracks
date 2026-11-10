@@ -7705,6 +7705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gormiti: The Masters of the Gorm Island | 137260 | [137260-gormiti-the-masters-of-the-gorm-island.json](./137260-gormiti-the-masters-of-the-gorm-island.json) |
 | Gorn | 41047 | [41047-gorn.json](./41047-gorn.json) |
 | Gorn 2 | 333676 | [333676-gorn-2.json](./333676-gorn-2.json) |
+| Goro | 59129 | [59129-goro.json](./59129-goro.json) |
 | Goro 2 | 74655 | [74655-goro-2.json](./74655-goro-2.json) |
 | GoRogue | 199795 | [199795-gorogue.json](./199795-gorogue.json) |
 | Goronyan Puzzle: Nyanpi | 243267 | [243267-goronyan-puzzle-nyanpi.json](./243267-goronyan-puzzle-nyanpi.json) |
