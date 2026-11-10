@@ -2035,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazer Tag | 54536 | [54536-lazer-tag.json](./54536-lazer-tag.json) |
 | Lazer Tag Arena | 340907 | [340907-lazer-tag-arena.json](./340907-lazer-tag-arena.json) |
 | Lazer Wheel | 38920 | [38920-lazer-wheel.json](./38920-lazer-wheel.json) |
+| Lazerbait | 31273 | [31273-lazerbait.json](./31273-lazerbait.json) |
 | Lazerball | 217357 | [217357-lazerball.json](./217357-lazerball.json) |
 | LazerBlazer: Type A - Intercept | 271255 | [271255-lazerblazer-type-a-intercept.json](./271255-lazerblazer-type-a-intercept.json) |
 | LazerBlazer: Type B - Engage | 271256 | [271256-lazerblazer-type-b-engage.json](./271256-lazerblazer-type-b-engage.json) |
@@ -8594,6 +8595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Vivo | 111248 | [111248-lost-in-vivo.json](./111248-lost-in-vivo.json) |
 | Lost in Voice | 384831 | [384831-lost-in-voice.json](./384831-lost-in-voice.json) |
 | Lost In Winter | 258172 | [258172-lost-in-winter.json](./258172-lost-in-winter.json) |
+| Lost In Woods 2 | 31286 | [31286-lost-in-woods-2.json](./31286-lost-in-woods-2.json) |
 | Lost in Yomori | 382283 | [382283-lost-in-yomori.json](./382283-lost-in-yomori.json) |
 | Lost in You | 315817 | [315817-lost-in-you.json](./315817-lost-in-you.json) |
 | Lost Inca Prophecy 2: The Hollow Island | 273343 | [273343-lost-inca-prophecy-2-the-hollow-island.json](./273343-lost-inca-prophecy-2-the-hollow-island.json) |
@@ -10002,6 +10004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luke | 310612 | [310612-luke.json](./310612-luke.json) |
 | Luke & Rebecca | 111455 | [111455-luke-and-rebecca.json](./111455-luke-and-rebecca.json) |
 | Luke Jump | 412498 | [412498-luke-jump.json](./412498-luke-jump.json) |
+| Luke Sidewalker | 30856 | [30856-luke-sidewalker.json](./30856-luke-sidewalker.json) |
 | Lukewarm Ironclad | 113702 | [113702-lukewarm-ironclad.json](./113702-lukewarm-ironclad.json) |
 | Lukewarm Massacre: The Killer Who May or May Not Be a Moron. | 292760 | [292760-lukewarm-massacre-the-killer-who-may-or-may-not-be-a-moron.json](./292760-lukewarm-massacre-the-killer-who-may-or-may-not-be-a-moron.json) |
 | Lukewarm Massacre: The Spirit of Light | 303641 | [303641-lukewarm-massacre-the-spirit-of-light.json](./303641-lukewarm-massacre-the-spirit-of-light.json) |
