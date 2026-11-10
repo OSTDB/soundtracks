@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat or Fight | 314950 | [314950-eat-or-fight.json](./314950-eat-or-fight.json) |
 | Eat Sheep & Die | 179546 | [179546-eat-sheep-and-die.json](./179546-eat-sheep-and-die.json) |
 | Eat That Ice Cream | 339587 | [339587-eat-that-ice-cream.json](./339587-eat-that-ice-cream.json) |
+| Eat the Eldritch | 396251 | [396251-eat-the-eldritch.json](./396251-eat-the-eldritch.json) |
 | Eat the Fish 2016 | 90680 | [90680-eat-the-fish-2016.json](./90680-eat-the-fish-2016.json) |
 | Eat the Rich | 176802 | [176802-eat-the-rich.json](./176802-eat-the-rich.json) |
 | Eat the Rich | 285024 | [285024-eat-the-rich.json](./285024-eat-the-rich.json) |
@@ -1142,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EcoL tactics | 112312 | [112312-ecol-tactics.json](./112312-ecol-tactics.json) |
 | EcoMahjong | 247652 | [247652-ecomahjong.json](./247652-ecomahjong.json) |
 | Ecoman | 134920 | [134920-ecoman.json](./134920-ecoman.json) |
+| ECommerce '99 | 396604 | [396604-ecommerce-99.json](./396604-ecommerce-99.json) |
 | ECON | 112470 | [112470-econ.json](./112470-econ.json) |
 | Econia: Crypto Idle Tycoon! | 232376 | [232376-econia-crypto-idle-tycoon.json](./232376-econia-crypto-idle-tycoon.json) |
 | Economia: Millennium | 284834 | [284834-economia-millennium.json](./284834-economia-millennium.json) |
@@ -7431,6 +7433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Every Level Iggy! | 323064 | [323064-every-level-iggy.json](./323064-every-level-iggy.json) |
 | Every Morning My Alarm Clock Kills Me | 387001 | [387001-every-morning-my-alarm-clock-kills-me.json](./387001-every-morning-my-alarm-clock-kills-me.json) |
 | Every Second Counts | 13648 | [13648-every-second-counts.json](./13648-every-second-counts.json) |
+| Every Step Has a Sound | 396619 | [396619-every-step-has-a-sound.json](./396619-every-step-has-a-sound.json) |
 | Every Summer Holiday | 235812 | [235812-every-summer-holiday.json](./235812-every-summer-holiday.json) |
 | Every Wednesday | 387366 | [387366-every-wednesday.json](./387366-every-wednesday.json) |
 | Every Year Banjir | 254765 | [254765-every-year-banjir.json](./254765-every-year-banjir.json) |
