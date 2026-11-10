@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank: Rift Apart - Launch Edition | 145991 | [145991-ratchet-and-clank-rift-apart-launch-edition.json](./145991-ratchet-and-clank-rift-apart-launch-edition.json) |
 | Ratchet & Clank: Size Matters | 308039 | [308039-ratchet-and-clank-size-matters.json](./308039-ratchet-and-clank-size-matters.json) |
 | Ratchet & Clank: Special Limited Edition | 212322 | [212322-ratchet-and-clank-special-limited-edition.json](./212322-ratchet-and-clank-special-limited-edition.json) |
+| Ratchet & Clank: Up Your Arsenal | 253148 | [253148-ratchet-and-clank-up-your-arsenal.json](./253148-ratchet-and-clank-up-your-arsenal.json) |
 | Ratchet: Deadlocked | 1790 | [1790-ratchet-deadlocked.json](./1790-ratchet-deadlocked.json) |
 | Ratcheteer | 151977 | [151977-ratcheteer.json](./151977-ratcheteer.json) |
 | Ratcheteer DX | 362332 | [362332-ratcheteer-dx.json](./362332-ratcheteer-dx.json) |
@@ -2418,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw | 119581 | [119581-raw.json](./119581-raw.json) |
 | Raw April Day | 158912 | [158912-raw-april-day.json](./158912-raw-april-day.json) |
 | Raw Concrete | 369223 | [369223-raw-concrete.json](./369223-raw-concrete.json) |
+| Raw Data | 19169 | [19169-raw-data.json](./19169-raw-data.json) |
 | Raw Data/Sprint Vector | 139965 | [139965-raw-data-sprint-vector.json](./139965-raw-data-sprint-vector.json) |
 | Raw Egg Peeling | 420978 | [420978-raw-egg-peeling.json](./420978-raw-egg-peeling.json) |
 | Raw Element | 341307 | [341307-raw-element.json](./341307-raw-element.json) |
@@ -7621,6 +7623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge | 32363 | [32363-ridge.json](./32363-ridge.json) |
 | Ridge Hold | 414325 | [414325-ridge-hold.json](./414325-ridge-hold.json) |
 | Ridge Racer | 18696 | [18696-ridge-racer.json](./18696-ridge-racer.json) |
+| Ridge Racer | 18787 | [18787-ridge-racer.json](./18787-ridge-racer.json) |
 | Ridge Racer | 225743 | [225743-ridge-racer.json](./225743-ridge-racer.json) |
 | Ridge Racer | 386354 | [386354-ridge-racer.json](./386354-ridge-racer.json) |
 | Ridge Racer | 8546 | [8546-ridge-racer.json](./8546-ridge-racer.json) |
@@ -11266,6 +11269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Postgirl | 216756 | [216756-rooftop-postgirl.json](./216756-rooftop-postgirl.json) |
 | Rooftop Rascal: The Alien Cat | 393933 | [393933-rooftop-rascal-the-alien-cat.json](./393933-rooftop-rascal-the-alien-cat.json) |
 | Rooftop Rascal: The Claus Cat | 328386 | [328386-rooftop-rascal-the-claus-cat.json](./328386-rooftop-rascal-the-claus-cat.json) |
+| Rooftop Rascal: The Drizzle Cat | 316176 | [316176-rooftop-rascal-the-drizzle-cat.json](./316176-rooftop-rascal-the-drizzle-cat.json) |
 | Rooftop Rascal: The Glitch Cat | 324996 | [324996-rooftop-rascal-the-glitch-cat.json](./324996-rooftop-rascal-the-glitch-cat.json) |
 | Rooftop Rascal: The Midnight Cat | 315893 | [315893-rooftop-rascal-the-midnight-cat.json](./315893-rooftop-rascal-the-midnight-cat.json) |
 | Rooftop Rascal: The Pirate Cat | 394844 | [394844-rooftop-rascal-the-pirate-cat.json](./394844-rooftop-rascal-the-pirate-cat.json) |
