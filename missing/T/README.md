@@ -268,6 +268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TaCam | 412049 | [412049-tacam.json](./412049-tacam.json) |
 | Tacape | 185033 | [185033-tacape.json](./185033-tacape.json) |
 | Tachanka Simulator | 312906 | [312906-tachanka-simulator.json](./312906-tachanka-simulator.json) |
+| Tache Noire | 396857 | [396857-tache-noire.json](./396857-tache-noire.json) |
 | Tachie ga Hen na Pose no Renai Adventure | 285359 | [285359-tachie-ga-hen-na-pose-no-renai-adventure.json](./285359-tachie-ga-hen-na-pose-no-renai-adventure.json) |
 | Tachyon | 369771 | [369771-tachyon.json](./369771-tachyon.json) |
 | Tachyon Dreams I: The Radiant Fish of the Apocalypse | 238953 | [238953-tachyon-dreams-i-the-radiant-fish-of-the-apocalypse.json](./238953-tachyon-dreams-i-the-radiant-fish-of-the-apocalypse.json) |
@@ -8542,6 +8543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dawning Letters: Sunrise | 370475 | [370475-the-dawning-letters-sunrise.json](./370475-the-dawning-letters-sunrise.json) |
 | The Dawnless Days | 356246 | [356246-the-dawnless-days.json](./356246-the-dawnless-days.json) |
 | The Day | 242631 | [242631-the-day.json](./242631-the-day.json) |
+| The Day After Ever After | 396849 | [396849-the-day-after-ever-after.json](./396849-the-day-after-ever-after.json) |
 | The Day After: Origins | 76384 | [76384-the-day-after-origins.json](./76384-the-day-after-origins.json) |
 | The Day Before | 142901 | [142901-the-day-before.json](./142901-the-day-before.json) |
 | The Day Before You Gone | 235556 | [235556-the-day-before-you-gone.json](./235556-the-day-before-you-gone.json) |
@@ -10778,6 +10780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gray Garden | 118308 | [118308-the-gray-garden.json](./118308-the-gray-garden.json) |
 | The Gray Garden Remake | 212574 | [212574-the-gray-garden-remake.json](./212574-the-gray-garden-remake.json) |
 | The Gray Man | 226599 | [226599-the-gray-man.json](./226599-the-gray-man.json) |
+| The Gray Painter | 396848 | [396848-the-gray-painter.json](./396848-the-gray-painter.json) |
 | The Gray Wolf and The Little Lamb | 245003 | [245003-the-gray-wolf-and-the-little-lamb.json](./245003-the-gray-wolf-and-the-little-lamb.json) |
 | The Great | 211959 | [211959-the-great.json](./211959-the-great.json) |
 | The Great Ace Attorney 2: Resolve | 146081 | [146081-the-great-ace-attorney-2-resolve.json](./146081-the-great-ace-attorney-2-resolve.json) |
@@ -24127,6 +24130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Loop | 276590 | [276590-time-loop.json](./276590-time-loop.json) |
 | Time Loop Fighter | 117331 | [117331-time-loop-fighter.json](./117331-time-loop-fighter.json) |
 | Time Lord | 18536 | [18536-time-lord.json](./18536-time-lord.json) |
+| Time Lords | 396898 | [396898-time-lords.json](./396898-time-lords.json) |
 | Time Machine | 47173 | [47173-time-machine.json](./47173-time-machine.json) |
 | Time Machine VR | 19048 | [19048-time-machine-vr.json](./19048-time-machine-vr.json) |
 | Time Machine: Rogue Pilot | 52957 | [52957-time-machine-rogue-pilot.json](./52957-time-machine-rogue-pilot.json) |
@@ -25046,6 +25050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Hunter | 110621 | [110621-titan-hunter.json](./110621-titan-hunter.json) |
 | Titan Hunters | 409703 | [409703-titan-hunters.json](./409703-titan-hunters.json) |
 | Titan Isles | 335131 | [335131-titan-isles.json](./335131-titan-isles.json) |
+| Titan Lunch Retaliation | 396893 | [396893-titan-lunch-retaliation.json](./396893-titan-lunch-retaliation.json) |
 | Titan Nebula | 147560 | [147560-titan-nebula.json](./147560-titan-nebula.json) |
 | Titan Online | 67776 | [67776-titan-online.json](./67776-titan-online.json) |
 | Titan Outpost | 113507 | [113507-titan-outpost.json](./113507-titan-outpost.json) |
@@ -27076,6 +27081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToQger Maze Game | 60491 | [60491-toqger-maze-game.json](./60491-toqger-maze-game.json) |
 | Tor Eternum | 148496 | [148496-tor-eternum.json](./148496-tor-eternum.json) |
 | Tor-tor cubes | 186985 | [186985-tor-tor-cubes.json](./186985-tor-tor-cubes.json) |
+| Tor-Toss | 396894 | [396894-tor-toss.json](./396894-tor-toss.json) |
 | Tora | 114381 | [114381-tora.json](./114381-tora.json) |
 | Tora he no Michi | 37647 | [37647-tora-he-no-michi.json](./37647-tora-he-no-michi.json) |
 | Tora Tora! | 172257 | [172257-tora-tora.json](./172257-tora-tora.json) |
@@ -29414,6 +29420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Planet | 288572 | [288572-train-planet.json](./288572-train-planet.json) |
 | Train Plus 2 | 386378 | [386378-train-plus-2.json](./386378-train-plus-2.json) |
 | Train Plus Japan: Drive Western Japan Trains! - Rapid Service Edition | 412568 | [412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json](./412568-train-plus-japan-drive-western-japan-trains-rapid-service-edition.json) |
+| Train Plus Mini 1 | 396868 | [396868-train-plus-mini-1.json](./396868-train-plus-mini-1.json) |
 | Train Plus: Kowa Dentetsu Regular Colors Train | 355228 | [355228-train-plus-kowa-dentetsu-regular-colors-train.json](./355228-train-plus-kowa-dentetsu-regular-colors-train.json) |
 | Train Reaction | 373791 | [373791-train-reaction.json](./373791-train-reaction.json) |
 | Train Ride Simulator | 149709 | [149709-train-ride-simulator.json](./149709-train-ride-simulator.json) |
