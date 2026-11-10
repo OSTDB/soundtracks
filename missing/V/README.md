@@ -1679,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus One | 391755 | [391755-versus-one.json](./391755-versus-one.json) |
 | Versus Pixels Battle 3D | 103109 | [103109-versus-pixels-battle-3d.json](./103109-versus-pixels-battle-3d.json) |
 | Versus Purgatory | 305687 | [305687-versus-purgatory.json](./305687-versus-purgatory.json) |
+| Versus Squad | 32663 | [32663-versus-squad.json](./32663-versus-squad.json) |
 | Versus Tactics | 209237 | [209237-versus-tactics.json](./209237-versus-tactics.json) |
 | Versus Umbra | 165493 | [165493-versus-umbra.json](./165493-versus-umbra.json) |
 | Versus Vampire | 257923 | [257923-versus-vampire.json](./257923-versus-vampire.json) |
@@ -3802,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VonGarland Castle: Sacrilege of the Night | 264526 | [264526-vongarland-castle-sacrilege-of-the-night.json](./264526-vongarland-castle-sacrilege-of-the-night.json) |
 | VoodLoop | 364566 | [364566-voodloop.json](./364566-voodloop.json) |
 | Voodolls | 226576 | [226576-voodolls.json](./226576-voodolls.json) |
+| Voodoo | 32698 | [32698-voodoo.json](./32698-voodoo.json) |
 | Voodoo Castle | 18517 | [18517-voodoo-castle.json](./18517-voodoo-castle.json) |
 | Voodoo Chronicles: First Sign - Collector's Edition | 53154 | [53154-voodoo-chronicles-first-sign-collectors-edition.json](./53154-voodoo-chronicles-first-sign-collectors-edition.json) |
 | Voodoo Chronicles: The First Sign | 63601 | [63601-voodoo-chronicles-the-first-sign.json](./63601-voodoo-chronicles-the-first-sign.json) |
@@ -4207,6 +4209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Racing on Dinosaur Island | 236175 | [236175-vr-racing-on-dinosaur-island.json](./236175-vr-racing-on-dinosaur-island.json) |
 | VR Racket Ball | 68770 | [68770-vr-racket-ball.json](./68770-vr-racket-ball.json) |
 | VR Refuse Classification | 127659 | [127659-vr-refuse-classification.json](./127659-vr-refuse-classification.json) |
+| VR Regatta - The Sailing Game | 32717 | [32717-vr-regatta-the-sailing-game.json](./32717-vr-regatta-the-sailing-game.json) |
 | VR Regatta: The Sailing Game - Arctic | 168072 | [168072-vr-regatta-the-sailing-game-arctic.json](./168072-vr-regatta-the-sailing-game-arctic.json) |
 | VR Regatta: The Sailing Game - Lake in Japan | 168073 | [168073-vr-regatta-the-sailing-game-lake-in-japan.json](./168073-vr-regatta-the-sailing-game-lake-in-japan.json) |
 | VR Relaxation Space Room | 182782 | [182782-vr-relaxation-space-room.json](./182782-vr-relaxation-space-room.json) |
