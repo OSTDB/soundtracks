@@ -15367,6 +15367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ouroborous Incident | 330695 | [330695-the-ouroborous-incident.json](./330695-the-ouroborous-incident.json) |
 | The Out Door | 312723 | [312723-the-out-door.json](./312723-the-out-door.json) |
 | The Outbound Ghost | 132449 | [132449-the-outbound-ghost.json](./132449-the-outbound-ghost.json) |
+| The Outbound Ghost: Reborn | 403241 | [403241-the-outbound-ghost-reborn.json](./403241-the-outbound-ghost-reborn.json) |
 | The Outbreak | 140970 | [140970-the-outbreak.json](./140970-the-outbreak.json) |
 | The Outbreak | 302632 | [302632-the-outbreak.json](./302632-the-outbreak.json) |
 | The Outbreak Guardian | 168185 | [168185-the-outbreak-guardian.json](./168185-the-outbreak-guardian.json) |
@@ -27231,6 +27232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
 | TorqueL | 16654 | [16654-torquel.json](./16654-torquel.json) |
 | TorqueL: Physics Modified Edition | 86458 | [86458-torquel-physics-modified-edition.json](./86458-torquel-physics-modified-edition.json) |
+| Torr | 403252 | [403252-torr.json](./403252-torr.json) |
 | Torrente | 94496 | [94496-torrente.json](./94496-torrente.json) |
 | Torrente 3: The Protector | 69598 | [69598-torrente-3-the-protector.json](./69598-torrente-3-the-protector.json) |
 | Torrential | 232957 | [232957-torrential.json](./232957-torrential.json) |
@@ -28090,6 +28092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Yukkuri Mountain | 399975 | [399975-touhou-yukkuri-mountain.json](./399975-touhou-yukkuri-mountain.json) |
 | Touhou Yumejikuu: Phantasmagoria of Dim. Dream | 45965 | [45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json](./45965-touhou-yumejikuu-phantasmagoria-of-dim-dream.json) |
 | Touhou Yuuyajaku -Solar Eclipse Night- | 335062 | [335062-touhou-yuuyajaku-solar-eclipse-night.json](./335062-touhou-yuuyajaku-solar-eclipse-night.json) |
+| Touhou: An Aftermath of the Index | 403269 | [403269-touhou-an-aftermath-of-the-index.json](./403269-touhou-an-aftermath-of-the-index.json) |
 | Touhou: Beyond Gensokyo | 410558 | [410558-touhou-beyond-gensokyo.json](./410558-touhou-beyond-gensokyo.json) |
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
 | Touhou: Combinations With You | 214819 | [214819-touhou-combinations-with-you.json](./214819-touhou-combinations-with-you.json) |
