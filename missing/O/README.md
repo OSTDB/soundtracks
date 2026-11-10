@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Retro Shooter | 209668 | [209668-old-retro-shooter.json](./209668-old-retro-shooter.json) |
 | Old Roots | 204940 | [204940-old-roots.json](./204940-old-roots.json) |
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
+| Old Sam's Gold | 421768 | [421768-old-sams-gold.json](./421768-old-sams-gold.json) |
 | Old School | 61167 | [61167-old-school.json](./61167-old-school.json) |
 | Old School 8-in-1 bundle | 32557 | [32557-old-school-8-in-1-bundle.json](./32557-old-school-8-in-1-bundle.json) |
 | Old School FOTD | 74453 | [74453-old-school-fotd.json](./74453-old-school-fotd.json) |
@@ -1602,6 +1603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OldGrad | 88141 | [88141-oldgrad.json](./88141-oldgrad.json) |
 | OldHeart Online | 397170 | [397170-oldheart-online.json](./397170-oldheart-online.json) |
 | Oldish Stuff | 348521 | [348521-oldish-stuff.json](./348521-oldish-stuff.json) |
+| Oldlympics | 421771 | [421771-oldlympics.json](./421771-oldlympics.json) |
 | Oldorf's Revenge | 24847 | [24847-oldorfs-revenge.json](./24847-oldorfs-revenge.json) |
 | Oldowan | 211222 | [211222-oldowan.json](./211222-oldowan.json) |
 | Oldschool Tennis | 367591 | [367591-oldschool-tennis.json](./367591-oldschool-tennis.json) |
