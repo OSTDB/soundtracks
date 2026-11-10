@@ -14761,6 +14761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling Fever: Superior Edition | 317915 | [317915-bowling-fever-superior-edition.json](./317915-bowling-fever-superior-edition.json) |
 | Bowling Fever: Upgrade Edition | 328749 | [328749-bowling-fever-upgrade-edition.json](./328749-bowling-fever-upgrade-edition.json) |
 | Bowling Fever: Value Edition | 336438 | [336438-bowling-fever-value-edition.json](./336438-bowling-fever-value-edition.json) |
+| Bowling for VR | 32679 | [32679-bowling-for-vr.json](./32679-bowling-for-vr.json) |
 | Bowling Game 3D | 88584 | [88584-bowling-game-3d.json](./88584-bowling-game-3d.json) |
 | Bowling Game 3D HD | 103131 | [103131-bowling-game-3d-hd.json](./103131-bowling-game-3d-hd.json) |
 | Bowling Hills | 215475 | [215475-bowling-hills.json](./215475-bowling-hills.json) |
