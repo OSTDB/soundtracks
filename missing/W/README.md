@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warden of the Coast | 243124 | [243124-warden-of-the-coast.json](./243124-warden-of-the-coast.json) |
 | Warden of the Crypt | 336297 | [336297-warden-of-the-crypt.json](./336297-warden-of-the-crypt.json) |
 | Warden of the Isles | 129264 | [129264-warden-of-the-isles.json](./129264-warden-of-the-isles.json) |
+| Warden: Melody of the Undergrowth | 18796 | [18796-warden-melody-of-the-undergrowth.json](./18796-warden-melody-of-the-undergrowth.json) |
 | Warden's Ascent | 320104 | [320104-wardens-ascent.json](./320104-wardens-ascent.json) |
 | Warden's Will | 190730 | [190730-wardens-will.json](./190730-wardens-will.json) |
 | Wardenmark | 420326 | [420326-wardenmark.json](./420326-wardenmark.json) |
@@ -1344,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfare Chess 2 | 97265 | [97265-warfare-chess-2.json](./97265-warfare-chess-2.json) |
 | Warfare Incorporated | 23602 | [23602-warfare-incorporated.json](./23602-warfare-incorporated.json) |
 | Warfare Legacy Collection | 287786 | [287786-warfare-legacy-collection.json](./287786-warfare-legacy-collection.json) |
+| Warfare Online | 19140 | [19140-warfare-online.json](./19140-warfare-online.json) |
 | Warfare Reloaded | 25472 | [25472-warfare-reloaded.json](./25472-warfare-reloaded.json) |
 | Warfare Ultimatum | 295606 | [295606-warfare-ultimatum.json](./295606-warfare-ultimatum.json) |
 | Warfare: Battleground | 293511 | [293511-warfare-battleground.json](./293511-warfare-battleground.json) |
