@@ -7749,6 +7749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Dream | 265011 | [265011-pipe-dream.json](./265011-pipe-dream.json) |
 | Pipe Dream | 265012 | [265012-pipe-dream.json](./265012-pipe-dream.json) |
 | Pipe Dream | 265014 | [265014-pipe-dream.json](./265014-pipe-dream.json) |
+| Pipe Dream | 37212 | [37212-pipe-dream.json](./37212-pipe-dream.json) |
 | Pipe Dreamin' VR: The Big Easy | 160154 | [160154-pipe-dreamin-vr-the-big-easy.json](./160154-pipe-dreamin-vr-the-big-easy.json) |
 | Pipe Dreams | 232141 | [232141-pipe-dreams.json](./232141-pipe-dreams.json) |
 | Pipe Dreams 3D | 43752 | [43752-pipe-dreams-3d.json](./43752-pipe-dreams-3d.json) |
@@ -17610,6 +17611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychedelic Dream | 359154 | [359154-psychedelic-dream.json](./359154-psychedelic-dream.json) |
 | Psychedelic platformer | 81584 | [81584-psychedelic-platformer.json](./81584-psychedelic-platformer.json) |
 | Psychedelica of the Ashen Hawk | 41824 | [41824-psychedelica-of-the-ashen-hawk.json](./41824-psychedelica-of-the-ashen-hawk.json) |
+| Psychedelica of the Black Butterfly | 41823 | [41823-psychedelica-of-the-black-butterfly.json](./41823-psychedelica-of-the-black-butterfly.json) |
 | Psychiatric Hospital | 245978 | [245978-psychiatric-hospital.json](./245978-psychiatric-hospital.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
