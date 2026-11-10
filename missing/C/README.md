@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Can Bunny Spirits | 108894 | [108894-can-can-bunny-spirits.json](./108894-can-can-bunny-spirits.json) |
 | Can Can Bunny Superior | 108893 | [108893-can-can-bunny-superior.json](./108893-can-can-bunny-superior.json) |
 | Can Deliver? Survival Kit | 402233 | [402233-can-deliver-survival-kit.json](./402233-can-deliver-survival-kit.json) |
+| Can Demons Be Good? | 409184 | [409184-can-demons-be-good.json](./409184-can-demons-be-good.json) |
 | Can Do! | 298813 | [298813-can-do.json](./298813-can-do.json) |
 | Can I Buy You a Cheeseburger? | 358486 | [358486-can-i-buy-you-a-cheeseburger.json](./358486-can-i-buy-you-a-cheeseburger.json) |
 | Can I Get an Iced Coffee with Breastmilk!? | 391264 | [391264-can-i-get-an-iced-coffee-with-breastmilk.json](./391264-can-i-get-an-iced-coffee-with-breastmilk.json) |
@@ -14578,6 +14579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | Console Archives: The Conveni | 411151 | [411151-console-archives-the-conveni.json](./411151-console-archives-the-conveni.json) |
 | Console Archives: The Conveni 2 | 416244 | [416244-console-archives-the-conveni-2.json](./416244-console-archives-the-conveni-2.json) |
+| Console Archives: The Legend of Kage | 409281 | [409281-console-archives-the-legend-of-kage.json](./409281-console-archives-the-legend-of-kage.json) |
 | Console Archives: Toujin Makyou-den - Heracles no Eikou | 402567 | [402567-console-archives-toujin-makyou-den-heracles-no-eikou.json](./402567-console-archives-toujin-makyou-den-heracles-no-eikou.json) |
 | Console Archives: Touki Denshou Angel Eyes | 415385 | [415385-console-archives-touki-denshou-angel-eyes.json](./415385-console-archives-touki-denshou-angel-eyes.json) |
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
@@ -15625,6 +15627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CornerQuest | 393782 | [393782-cornerquest.json](./393782-cornerquest.json) |
 | Corners | 149841 | [149841-corners.json](./149841-corners.json) |
 | Cornerstone: The Song of Tyrim | 20124 | [20124-cornerstone-the-song-of-tyrim.json](./20124-cornerstone-the-song-of-tyrim.json) |
+| Cornfield | 409273 | [409273-cornfield.json](./409273-cornfield.json) |
 | CornField | 319697 | [319697-cornfield.json](./319697-cornfield.json) |
 | Cornfield Escape | 370575 | [370575-cornfield-escape.json](./370575-cornfield-escape.json) |
 | Cornflake Crisis | 115169 | [115169-cornflake-crisis.json](./115169-cornflake-crisis.json) |
