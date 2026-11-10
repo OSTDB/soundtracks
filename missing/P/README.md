@@ -15316,6 +15316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Princess: Himetachi no Abunai Houkago | 72671 | [72671-princess-princess-himetachi-no-abunai-houkago.json](./72671-princess-princess-himetachi-no-abunai-houkago.json) |
 | Princess Principal: Game of Mission | 70907 | [70907-princess-principal-game-of-mission.json](./70907-princess-principal-game-of-mission.json) |
 | Princess Project | 120596 | [120596-princess-project.json](./120596-princess-project.json) |
+| Princess Puikoru: A Space Time Vendetta | 423622 | [423622-princess-puikoru-a-space-time-vendetta.json](./423622-princess-puikoru-a-space-time-vendetta.json) |
 | Princess Puzzle | 246555 | [246555-princess-puzzle.json](./246555-princess-puzzle.json) |
 | Princess Puzzle Adventure | 279868 | [279868-princess-puzzle-adventure.json](./279868-princess-puzzle-adventure.json) |
 | Princess Quest | 147183 | [147183-princess-quest.json](./147183-princess-quest.json) |
