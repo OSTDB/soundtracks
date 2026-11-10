@@ -3059,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
 | Scenery Disk 6 | 86024 | [86024-scenery-disk-6.json](./86024-scenery-disk-6.json) |
 | Scenes from the Heart | 335769 | [335769-scenes-from-the-heart.json](./335769-scenes-from-the-heart.json) |
+| Scenic | 411190 | [411190-scenic.json](./411190-scenic.json) |
 | Scenic Forest Valley | 134250 | [134250-scenic-forest-valley.json](./134250-scenic-forest-valley.json) |
 | Scenic Route's Generations | 244084 | [244084-scenic-routes-generations.json](./244084-scenic-routes-generations.json) |
 | Scenner | 119045 | [119045-scenner.json](./119045-scenner.json) |
@@ -25836,6 +25837,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Voyager - Across the Unknown - Expansion Pass | 412074 | [412074-star-trek-voyager-across-the-unknown-expansion-pass.json](./412074-star-trek-voyager-across-the-unknown-expansion-pass.json) |
 | Star Trek: Voyager - Across the Unknown: Deluxe DLC | 386561 | [386561-star-trek-voyager-across-the-unknown-deluxe-dlc.json](./386561-star-trek-voyager-across-the-unknown-deluxe-dlc.json) |
 | Star Trek: Voyager - Across the Unknown: Deluxe Edition | 386562 | [386562-star-trek-voyager-across-the-unknown-deluxe-edition.json](./386562-star-trek-voyager-across-the-unknown-deluxe-edition.json) |
+| Star Trek: Voyager - Across the Unknown: DLC 3 | 411171 | [411171-star-trek-voyager-across-the-unknown-dlc-3.json](./411171-star-trek-voyager-across-the-unknown-dlc-3.json) |
+| Star Trek: Voyager - Across the Unknown: DLC 4 | 411170 | [411170-star-trek-voyager-across-the-unknown-dlc-4.json](./411170-star-trek-voyager-across-the-unknown-dlc-4.json) |
 | Star Trek: Voyager - Elite Force | 877 | [877-star-trek-voyager-elite-force.json](./877-star-trek-voyager-elite-force.json) |
 | Star Trek: Voyager - Elite Force Expansion Pack | 77313 | [77313-star-trek-voyager-elite-force-expansion-pack.json](./77313-star-trek-voyager-elite-force-expansion-pack.json) |
 | Star Trek: Warp | 409628 | [409628-star-trek-warp.json](./409628-star-trek-warp.json) |
