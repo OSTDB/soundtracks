@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Napoleon's Russian Campaign | 144838 | [144838-napoleons-russian-campaign.json](./144838-napoleons-russian-campaign.json) |
 | Napoleonic Battles: The Final Struggle | 182272 | [182272-napoleonic-battles-the-final-struggle.json](./182272-napoleonic-battles-the-final-struggle.json) |
 | Napolitan Hotel | 336506 | [336506-napolitan-hotel.json](./336506-napolitan-hotel.json) |
+| Napolitan Hotel 2D | 411228 | [411228-napolitan-hotel-2d.json](./411228-napolitan-hotel-2d.json) |
 | Napped | 219648 | [219648-napped.json](./219648-napped.json) |
 | Napple Tale: Arsia in Daydream | 28152 | [28152-napple-tale-arsia-in-daydream.json](./28152-napple-tale-arsia-in-daydream.json) |
 | NAR - Not Another Royale | 113276 | [113276-nar-not-another-royale.json](./113276-nar-not-another-royale.json) |
