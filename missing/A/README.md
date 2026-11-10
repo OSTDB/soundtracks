@@ -6706,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcyon Infinity | 215461 | [215461-alcyon-infinity.json](./215461-alcyon-infinity.json) |
 | Alcyone | 199752 | [199752-alcyone.json](./199752-alcyone.json) |
 | Alcyone | 383604 | [383604-alcyone.json](./383604-alcyone.json) |
+| Alcyone: Chemistry Puzzle | 416284 | [416284-alcyone-chemistry-puzzle.json](./416284-alcyone-chemistry-puzzle.json) |
 | Alcyone: The Last City | 118072 | [118072-alcyone-the-last-city.json](./118072-alcyone-the-last-city.json) |
 | Aldebaran Legend | 188802 | [188802-aldebaran-legend.json](./188802-aldebaran-legend.json) |
 | Alden Ridge | 78228 | [78228-alden-ridge.json](./78228-alden-ridge.json) |
@@ -15818,6 +15819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Falls | 78490 | [78490-ashen-falls.json](./78490-ashen-falls.json) |
 | Ashen Knights: Foreshadow | 211412 | [211412-ashen-knights-foreshadow.json](./211412-ashen-knights-foreshadow.json) |
 | Ashen Knights: One Passage | 211181 | [211181-ashen-knights-one-passage.json](./211181-ashen-knights-one-passage.json) |
+| Ashen Legacy | 416213 | [416213-ashen-legacy.json](./416213-ashen-legacy.json) |
 | Ashen of Thrones | 413886 | [413886-ashen-of-thrones.json](./413886-ashen-of-thrones.json) |
 | Ashen Seed | 385547 | [385547-ashen-seed.json](./385547-ashen-seed.json) |
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
