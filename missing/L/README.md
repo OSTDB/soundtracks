@@ -5051,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Up The Sky | 275518 | [275518-light-up-the-sky.json](./275518-light-up-the-sky.json) |
 | Light Up the Town | 348596 | [348596-light-up-the-town.json](./348596-light-up-the-town.json) |
 | Light Weaver | 183381 | [183381-light-weaver.json](./183381-light-weaver.json) |
+| Light Work | 423041 | [423041-light-work.json](./423041-light-work.json) |
 | Light x Shadow | 75671 | [75671-light-x-shadow.json](./75671-light-x-shadow.json) |
 | Light Years Apart | 132420 | [132420-light-years-apart.json](./132420-light-years-apart.json) |
 | Light-Bot | 63577 | [63577-light-bot.json](./63577-light-bot.json) |
@@ -7668,6 +7669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Nights | 177732 | [177732-long-nights.json](./177732-long-nights.json) |
 | Long Nose Dog | 239425 | [239425-long-nose-dog.json](./239425-long-nose-dog.json) |
 | Long Puppy | 340855 | [340855-long-puppy.json](./340855-long-puppy.json) |
+| Long Rest | 423066 | [423066-long-rest.json](./423066-long-rest.json) |
 | Long Road | 108233 | [108233-long-road.json](./108233-long-road.json) |
 | Long Road | 148914 | [148914-long-road.json](./148914-long-road.json) |
 | Long Run | 273572 | [273572-long-run.json](./273572-long-run.json) |
@@ -8855,6 +8857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Valley | 170337 | [170337-lost-valley.json](./170337-lost-valley.json) |
 | Lost Valley of the Frog King | 333477 | [333477-lost-valley-of-the-frog-king.json](./333477-lost-valley-of-the-frog-king.json) |
 | Lost Verses | 323523 | [323523-lost-verses.json](./323523-lost-verses.json) |
+| Lost Vessel | 423056 | [423056-lost-vessel.json](./423056-lost-vessel.json) |
 | Lost Viking: Kingdom of Women | 123890 | [123890-lost-viking-kingdom-of-women.json](./123890-lost-viking-kingdom-of-women.json) |
 | Lost Voice | 148948 | [148948-lost-voice.json](./148948-lost-voice.json) |
 | Lost Vulcan | 347851 | [347851-lost-vulcan.json](./347851-lost-vulcan.json) |
