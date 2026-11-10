@@ -3331,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumbot | 364782 | [364782-jumbot.json](./364782-jumbot.json) |
 | Jumfrog | 318762 | [318762-jumfrog.json](./318762-jumfrog.json) |
 | Jump | 152140 | [152140-jump.json](./152140-jump.json) |
+| Jump | 19050 | [19050-jump.json](./19050-jump.json) |
 | Jump | 271775 | [271775-jump.json](./271775-jump.json) |
 | Jump | 272304 | [272304-jump.json](./272304-jump.json) |
 | Jump | 306229 | [306229-jump.json](./306229-jump.json) |
