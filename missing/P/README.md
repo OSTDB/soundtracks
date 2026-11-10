@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palallel | 161460 | [161460-palallel.json](./161460-palallel.json) |
 | Palamedes | 40563 | [40563-palamedes.json](./40563-palamedes.json) |
 | Palamedes II: Star Twinkles | 48808 | [48808-palamedes-ii-star-twinkles.json](./48808-palamedes-ii-star-twinkles.json) |
+| Palavra500 | 411948 | [411948-palavra500.json](./411948-palavra500.json) |
 | Palavras Cruzadas: O Globo | 252063 | [252063-palavras-cruzadas-o-globo.json](./252063-palavras-cruzadas-o-globo.json) |
 | Palavrinhas | 329784 | [329784-palavrinhas.json](./329784-palavrinhas.json) |
 | Paldorian Defense | 394331 | [394331-paldorian-defense.json](./394331-paldorian-defense.json) |
@@ -9924,6 +9925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | planktOs | 36200 | [36200-planktos.json](./36200-planktos.json) |
 | Plannes | 26168 | [26168-plannes.json](./26168-plannes.json) |
 | Plans for NY? | 75815 | [75815-plans-for-ny.json](./75815-plans-for-ny.json) |
+| Plant Anywhere | 411919 | [411919-plant-anywhere.json](./411919-plant-anywhere.json) |
 | Plant Chess | 260058 | [260058-plant-chess.json](./260058-plant-chess.json) |
 | Plant Daddy | 131854 | [131854-plant-daddy.json](./131854-plant-daddy.json) |
 | Plant Down | 198509 | [198509-plant-down.json](./198509-plant-down.json) |
@@ -15553,6 +15555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Guard: Warden Simulator | 330613 | [330613-prison-guard-warden-simulator.json](./330613-prison-guard-warden-simulator.json) |
 | Prison in Cafe | 272702 | [272702-prison-in-cafe.json](./272702-prison-in-cafe.json) |
 | Prison King | 216658 | [216658-prison-king.json](./216658-prison-king.json) |
+| Prison Legacy | 411918 | [411918-prison-legacy.json](./411918-prison-legacy.json) |
 | Prison Life 2 | 216959 | [216959-prison-life-2.json](./216959-prison-life-2.json) |
 | Prison Life RPG | 59736 | [59736-prison-life-rpg.json](./59736-prison-life-rpg.json) |
 | Prison Life Simulator 2022: World Fight Battle GTA Ultimate | 204875 | [204875-prison-life-simulator-2022-world-fight-battle-gta-ultimate.json](./204875-prison-life-simulator-2022-world-fight-battle-gta-ultimate.json) |
@@ -18151,6 +18154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsar | 167797 | [167797-pulsar.json](./167797-pulsar.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
 | Pulsar | 272622 | [272622-pulsar.json](./272622-pulsar.json) |
+| Pulsar Arena | 411889 | [411889-pulsar-arena.json](./411889-pulsar-arena.json) |
 | Pulsar II | 59557 | [59557-pulsar-ii.json](./59557-pulsar-ii.json) |
 | Pulsar no Hikari | 64649 | [64649-pulsar-no-hikari.json](./64649-pulsar-no-hikari.json) |
 | Pulsar: Lost Colony | 16687 | [16687-pulsar-lost-colony.json](./16687-pulsar-lost-colony.json) |
