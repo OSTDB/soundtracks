@@ -11283,6 +11283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rompe! | 171078 | [171078-rompe.json](./171078-rompe.json) |
 | Rompechanchitos | 251346 | [251346-rompechanchitos.json](./251346-rompechanchitos.json) |
 | Rompers | 40070 | [40070-rompers.json](./40070-rompers.json) |
+| Romul | 424870 | [424870-romul.json](./424870-romul.json) |
 | Romut | 415471 | [415471-romut.json](./415471-romut.json) |
 | Romy & Max and the Hidden Rainforest | 410838 | [410838-romy-and-max-and-the-hidden-rainforest.json](./410838-romy-and-max-and-the-hidden-rainforest.json) |
 | RON 13:13 Retaliation | 71005 | [71005-ron-13-13-retaliation.json](./71005-ron-13-13-retaliation.json) |
@@ -13612,6 +13613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rustling Leaves | 249781 | [249781-rustling-leaves.json](./249781-rustling-leaves.json) |
 | Rustmourne | 406184 | [406184-rustmourne.json](./406184-rustmourne.json) |
 | RustNaut | 348308 | [348308-rustnaut.json](./348308-rustnaut.json) |
+| Rustown | 424836 | [424836-rustown.json](./424836-rustown.json) |
 | Rusts of Corruption | 307218 | [307218-rusts-of-corruption.json](./307218-rusts-of-corruption.json) |
 | Rustwalker Legends | 216935 | [216935-rustwalker-legends.json](./216935-rustwalker-legends.json) |
 | Rustwing | 302876 | [302876-rustwing.json](./302876-rustwing.json) |
