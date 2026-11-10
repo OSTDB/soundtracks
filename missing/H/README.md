@@ -10368,6 +10368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Left Me | 228417 | [228417-hope-left-me.json](./228417-hope-left-me.json) |
 | Hope Lost | 338678 | [338678-hope-lost.json](./338678-hope-lost.json) |
 | Hope of Bion | 260612 | [260612-hope-of-bion.json](./260612-hope-of-bion.json) |
+| Hope of Elements | 406399 | [406399-hope-of-elements.json](./406399-hope-of-elements.json) |
 | Hope of humanity | 102963 | [102963-hope-of-humanity.json](./102963-hope-of-humanity.json) |
 | Hope of Last Survivors: Game | 216030 | [216030-hope-of-last-survivors-game.json](./216030-hope-of-last-survivors-game.json) |
 | Hope of Taru | 317709 | [317709-hope-of-taru.json](./317709-hope-of-taru.json) |
@@ -12112,6 +12113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hue Factory | 403067 | [403067-hue-factory.json](./403067-hue-factory.json) |
 | Hue Hooligans | 323856 | [323856-hue-hooligans.json](./323856-hue-hooligans.json) |
 | Hue Hop | 311642 | [311642-hue-hop.json](./311642-hue-hop.json) |
+| Hue Runner | 406405 | [406405-hue-runner.json](./406405-hue-runner.json) |
 | Hue Sniper | 402062 | [402062-hue-sniper.json](./402062-hue-sniper.json) |
 | Hue, Pulse | 334312 | [334312-hue-pulse.json](./334312-hue-pulse.json) |
 | Hue^2 | 174245 | [174245-hue-2.json](./174245-hue-2.json) |
@@ -12658,6 +12660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Survive Zero | 379165 | [379165-hunter-survive-zero.json](./379165-hunter-survive-zero.json) |
 | Hunter Survivors | 204824 | [204824-hunter-survivors.json](./204824-hunter-survivors.json) |
 | Hunter W | 208751 | [208751-hunter-w.json](./208751-hunter-w.json) |
+| Hunter White | 406438 | [406438-hunter-white.json](./406438-hunter-white.json) |
 | Hunter x Hunter: Arena Battle | 122017 | [122017-hunter-x-hunter-arena-battle.json](./122017-hunter-x-hunter-arena-battle.json) |
 | Hunter x Hunter: Battle Allstars | 58385 | [58385-hunter-x-hunter-battle-allstars.json](./58385-hunter-x-hunter-battle-allstars.json) |
 | Hunter X Hunter: Hunter no Keifu | 65245 | [65245-hunter-x-hunter-hunter-no-keifu.json](./65245-hunter-x-hunter-hunter-no-keifu.json) |
