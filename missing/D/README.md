@@ -4074,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Raid | 140516 | [140516-dead-raid.json](./140516-dead-raid.json) |
 | Dead Raid | 249686 | [249686-dead-raid.json](./249686-dead-raid.json) |
 | Dead Rails | 335356 | [335356-dead-rails.json](./335356-dead-rails.json) |
+| Dead Rails | 419451 | [419451-dead-rails.json](./419451-dead-rails.json) |
 | Dead Rain 2: Tree Virus | 194087 | [194087-dead-rain-2-tree-virus.json](./194087-dead-rain-2-tree-virus.json) |
 | Dead Rampage | 101996 | [101996-dead-rampage.json](./101996-dead-rampage.json) |
 | Dead Realm | 11596 | [11596-dead-realm.json](./11596-dead-realm.json) |
@@ -13161,6 +13162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Fall | 365196 | [365196-dont-fall.json](./365196-dont-fall.json) |
 | Don't Fall | 86473 | [86473-dont-fall.json](./86473-dont-fall.json) |
 | Don't Fall Asleep | 149192 | [149192-dont-fall-asleep.json](./149192-dont-fall-asleep.json) |
+| Don't Fall in the Mud | 419411 | [419411-dont-fall-in-the-mud.json](./419411-dont-fall-in-the-mud.json) |
 | Don't Fall: Aleph | 209919 | [209919-dont-fall-aleph.json](./209919-dont-fall-aleph.json) |
 | Don't Fall: Aleph - Refresh | 214694 | [214694-dont-fall-aleph-refresh.json](./214694-dont-fall-aleph-refresh.json) |
 | Don't Fear the Sweeper | 68638 | [68638-dont-fear-the-sweeper.json](./68638-dont-fear-the-sweeper.json) |
