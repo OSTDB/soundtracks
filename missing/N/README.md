@@ -1189,6 +1189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval Tactics | 391985 | [391985-naval-tactics.json](./391985-naval-tactics.json) |
 | Naval War: Arctic Circle | 2044 | [2044-naval-war-arctic-circle.json](./2044-naval-war-arctic-circle.json) |
 | Naval War: Arctic Circle - Operation Tarnhelm | 10590 | [10590-naval-war-arctic-circle-operation-tarnhelm.json](./10590-naval-war-arctic-circle-operation-tarnhelm.json) |
+| Naval Warfare | 16245 | [16245-naval-warfare.json](./16245-naval-warfare.json) |
 | Naval Warfare Multi-shot | 344919 | [344919-naval-warfare-multi-shot.json](./344919-naval-warfare-multi-shot.json) |
 | Navalia | 30639 | [30639-navalia.json](./30639-navalia.json) |
 | Navalny: A Nightmare of Corrupt | 123572 | [123572-navalny-a-nightmare-of-corrupt.json](./123572-navalny-a-nightmare-of-corrupt.json) |
@@ -2904,6 +2905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nessy the... Robot | 237044 | [237044-nessy-the-robot.json](./237044-nessy-the-robot.json) |
 | Nest Lander | 134894 | [134894-nest-lander.json](./134894-nest-lander.json) |
 | Nestables | 134029 | [134029-nestables.json](./134029-nestables.json) |
+| NEStalgia | 16650 | [16650-nestalgia.json](./16650-nestalgia.json) |
 | Nested | 274101 | [274101-nested.json](./274101-nested.json) |
 | Nested Lands | 270136 | [270136-nested-lands.json](./270136-nested-lands.json) |
 | Nested Rooms | 186812 | [186812-nested-rooms.json](./186812-nested-rooms.json) |
