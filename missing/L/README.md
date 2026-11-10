@@ -4067,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2023: Party Classics vol. 1 Song Pack | 257717 | [257717-lets-sing-2023-party-classics-vol-1-song-pack.json](./257717-lets-sing-2023-party-classics-vol-1-song-pack.json) |
 | Let's Sing 2023: Party Classics vol. 2 Song Pack | 257716 | [257716-lets-sing-2023-party-classics-vol-2-song-pack.json](./257716-lets-sing-2023-party-classics-vol-2-song-pack.json) |
 | Let's Sing 2023: Platinum Edition | 225829 | [225829-lets-sing-2023-platinum-edition.json](./225829-lets-sing-2023-platinum-edition.json) |
+| Let's Sing 2024 | 261154 | [261154-lets-sing-2024.json](./261154-lets-sing-2024.json) |
 | Let's Sing 2024 with International Hits | 268592 | [268592-lets-sing-2024-with-international-hits.json](./268592-lets-sing-2024-with-international-hits.json) |
 | Let's Sing 2024 with International Hits: Gold Edition | 271838 | [271838-lets-sing-2024-with-international-hits-gold-edition.json](./271838-lets-sing-2024-with-international-hits-gold-edition.json) |
 | Let's Sing 2024 with International Hits: Platinum Edition | 271836 | [271836-lets-sing-2024-with-international-hits-platinum-edition.json](./271836-lets-sing-2024-with-international-hits-platinum-edition.json) |
@@ -4602,6 +4603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lies as a Starting Point | 258507 | [258507-lies-as-a-starting-point.json](./258507-lies-as-a-starting-point.json) |
 | Lies Beneath | 133280 | [133280-lies-beneath.json](./133280-lies-beneath.json) |
 | Lies of Astaroth | 57975 | [57975-lies-of-astaroth.json](./57975-lies-of-astaroth.json) |
+| Lies of P: Complete Edition | 405442 | [405442-lies-of-p-complete-edition.json](./405442-lies-of-p-complete-edition.json) |
 | Lies of P: Deluxe Edition | 256034 | [256034-lies-of-p-deluxe-edition.json](./256034-lies-of-p-deluxe-edition.json) |
 | Lies of P: Overture Bundle | 348364 | [348364-lies-of-p-overture-bundle.json](./348364-lies-of-p-overture-bundle.json) |
 | Lies Under Ice | 148989 | [148989-lies-under-ice.json](./148989-lies-under-ice.json) |
