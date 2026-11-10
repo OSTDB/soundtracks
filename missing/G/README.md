@@ -6616,6 +6616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Ambush | 68280 | [68280-gold-ambush.json](./68280-gold-ambush.json) |
 | Gold and Bricks | 350296 | [350296-gold-and-bricks.json](./350296-gold-and-bricks.json) |
 | Gold and Gems | 3274 | [3274-gold-and-gems.json](./3274-gold-and-gems.json) |
+| Gold and Glory: The Road to El Dorado | 13776 | [13776-gold-and-glory-the-road-to-el-dorado.json](./13776-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold and Graves | 345281 | [345281-gold-and-graves.json](./345281-gold-and-graves.json) |
 | Gold and Wars | 389833 | [389833-gold-and-wars.json](./389833-gold-and-wars.json) |
