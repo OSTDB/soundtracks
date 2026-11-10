@@ -1683,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
 | OloFight | 73066 | [73066-olofight.json](./73066-olofight.json) |
 | Oloo | 383417 | [383417-oloo.json](./383417-oloo.json) |
+| Olorun: Theocracy | 108636 | [108636-olorun-theocracy.json](./108636-olorun-theocracy.json) |
 | Olson's Boxing Challenge | 75667 | [75667-olsons-boxing-challenge.json](./75667-olsons-boxing-challenge.json) |
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
 | Olu | 100249 | [100249-olu.json](./100249-olu.json) |
