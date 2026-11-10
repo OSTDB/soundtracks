@@ -8851,6 +8851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Soul | 385407 | [385407-lost-soul.json](./385407-lost-soul.json) |
 | Lost Soul | 50115 | [50115-lost-soul.json](./50115-lost-soul.json) |
 | Lost Soul Aside | 21962 | [21962-lost-soul-aside.json](./21962-lost-soul-aside.json) |
+| Lost Soul Aside: Digital Deluxe Edition | 407661 | [407661-lost-soul-aside-digital-deluxe-edition.json](./407661-lost-soul-aside-digital-deluxe-edition.json) |
 | Lost Soul: Escape the Doom Museum | 344347 | [344347-lost-soul-escape-the-doom-museum.json](./344347-lost-soul-escape-the-doom-museum.json) |
 | Lost Souls | 195594 | [195594-lost-souls.json](./195594-lost-souls.json) |
 | Lost Souls | 229110 | [229110-lost-souls.json](./229110-lost-souls.json) |
@@ -9664,6 +9665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LOZT: Legion of Zombie Terrors | 393048 | [393048-lozt-legion-of-zombie-terrors.json](./393048-lozt-legion-of-zombie-terrors.json) |
 | LP | 150451 | [150451-lp.json](./150451-lp.json) |
 | LP Recharge | 227970 | [227970-lp-recharge.json](./227970-lp-recharge.json) |
+| LPC: Low Poly Cylinder | 407625 | [407625-lpc-low-poly-cylinder.json](./407625-lpc-low-poly-cylinder.json) |
 | LR2oraja | 340284 | [340284-lr2oraja.json](./340284-lr2oraja.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | Ls | 229389 | [229389-ls.json](./229389-ls.json) |
