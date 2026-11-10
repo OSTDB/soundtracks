@@ -3472,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires | 36445 | [36445-empires.json](./36445-empires.json) |
 | Empires & Allies | 257272 | [257272-empires-and-allies.json](./257272-empires-and-allies.json) |
 | Empires & Allies | 60553 | [60553-empires-and-allies.json](./60553-empires-and-allies.json) |
+| Empires & Puzzles: RPG Quest | 88387 | [88387-empires-and-puzzles-rpg-quest.json](./88387-empires-and-puzzles-rpg-quest.json) |
 | Empires and Tribes | 130634 | [130634-empires-and-tribes.json](./130634-empires-and-tribes.json) |
 | Empires Apart | 27694 | [27694-empires-apart.json](./27694-empires-apart.json) |
 | Empires Apart: Arab Civilization | 171167 | [171167-empires-apart-arab-civilization.json](./171167-empires-apart-arab-civilization.json) |
