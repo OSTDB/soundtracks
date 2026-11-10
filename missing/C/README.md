@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C.O.Ś. | 311360 | [311360-c-o-s.json](./311360-c-o-s.json) |
 | C.P.U. Bach | 94650 | [94650-c-p-u-bach.json](./94650-c-p-u-bach.json) |
 | C.Q.C. - Close Quarters Combat | 112683 | [112683-c-q-c-close-quarters-combat.json](./112683-c-q-c-close-quarters-combat.json) |
+| C.R. League | 421166 | [421166-c-r-league.json](./421166-c-r-league.json) |
 | C.R.E.E.P | 358863 | [358863-c-r-e-e-p.json](./358863-c-r-e-e-p.json) |
 | C.R.E.E.P.S | 34824 | [34824-c-r-e-e-p-s.json](./34824-c-r-e-e-p-s.json) |
 | C.R.O.W. Girl Trouble | 293995 | [293995-c-r-o-w-girl-trouble.json](./293995-c-r-o-w-girl-trouble.json) |
@@ -18140,6 +18141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Forest | 224613 | [224613-creepy-forest.json](./224613-creepy-forest.json) |
 | Creepy Girls | 156764 | [156764-creepy-girls.json](./156764-creepy-girls.json) |
 | Creepy Halloween Differences | 234172 | [234172-creepy-halloween-differences.json](./234172-creepy-halloween-differences.json) |
+| Creepy Horrors: Blood Cult 2 | 421177 | [421177-creepy-horrors-blood-cult-2.json](./421177-creepy-horrors-blood-cult-2.json) |
 | Creepy Mahjong | 179284 | [179284-creepy-mahjong.json](./179284-creepy-mahjong.json) |
 | Creepy Nights at Freddy's | 241729 | [241729-creepy-nights-at-freddys.json](./241729-creepy-nights-at-freddys.json) |
 | Creepy Person | 365542 | [365542-creepy-person.json](./365542-creepy-person.json) |
