@@ -2823,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter 2 | 383019 | [383019-way-of-the-hunter-2.json](./383019-way-of-the-hunter-2.json) |
 | Way of the Hunter: Aurora Shores | 239446 | [239446-way-of-the-hunter-aurora-shores.json](./239446-way-of-the-hunter-aurora-shores.json) |
 | Way of the Hunter: Elite Edition | 207091 | [207091-way-of-the-hunter-elite-edition.json](./207091-way-of-the-hunter-elite-edition.json) |
+| Way of the Hunter: Elkcrest Island | 403887 | [403887-way-of-the-hunter-elkcrest-island.json](./403887-way-of-the-hunter-elkcrest-island.json) |
 | Way of the Hunter: Free UTV | 403804 | [403804-way-of-the-hunter-free-utv.json](./403804-way-of-the-hunter-free-utv.json) |
 | Way of the Hunter: Hunter's Pack | 325657 | [325657-way-of-the-hunter-hunters-pack.json](./325657-way-of-the-hunter-hunters-pack.json) |
 | Way of the Hunter: Hunting Season One | 283595 | [283595-way-of-the-hunter-hunting-season-one.json](./283595-way-of-the-hunter-hunting-season-one.json) |
@@ -2835,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter: Outfits Pack | 311101 | [311101-way-of-the-hunter-outfits-pack.json](./311101-way-of-the-hunter-outfits-pack.json) |
 | Way of the Hunter: Remington Firearms Pack | 317752 | [317752-way-of-the-hunter-remington-firearms-pack.json](./317752-way-of-the-hunter-remington-firearms-pack.json) |
 | Way of the Hunter: Steyr Arms Pack | 272878 | [272878-way-of-the-hunter-steyr-arms-pack.json](./272878-way-of-the-hunter-steyr-arms-pack.json) |
+| Way of the Hunter: Strasser Pack | 403888 | [403888-way-of-the-hunter-strasser-pack.json](./403888-way-of-the-hunter-strasser-pack.json) |
 | Way of the Hunter: Tikamoon Plains | 258834 | [258834-way-of-the-hunter-tikamoon-plains.json](./258834-way-of-the-hunter-tikamoon-plains.json) |
 | Way of the Hunter: Ultimate Edition | 331825 | [331825-way-of-the-hunter-ultimate-edition.json](./331825-way-of-the-hunter-ultimate-edition.json) |
 | Way of the Hunter: Wild Expeditions | 325658 | [325658-way-of-the-hunter-wild-expeditions.json](./325658-way-of-the-hunter-wild-expeditions.json) |
