@@ -15799,6 +15799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Peeky | 264625 | [264625-sneaky-peeky.json](./264625-sneaky-peeky.json) |
 | Sneaky Purr | 422479 | [422479-sneaky-purr.json](./422479-sneaky-purr.json) |
 | Sneaky Rat | 219415 | [219415-sneaky-rat.json](./219415-sneaky-rat.json) |
+| Sneaky Sasquatch | 117013 | [117013-sneaky-sasquatch.json](./117013-sneaky-sasquatch.json) |
 | Sneaky Seekers | 253609 | [253609-sneaky-seekers.json](./253609-sneaky-seekers.json) |
 | Sneaky Snacks | 290885 | [290885-sneaky-snacks.json](./290885-sneaky-snacks.json) |
 | Sneaky Snake | 124560 | [124560-sneaky-snake.json](./124560-sneaky-snake.json) |
@@ -18950,6 +18951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SonKnuck RPG | 330337 | [330337-sonknuck-rpg.json](./330337-sonknuck-rpg.json) |
 | Sonnet | 402478 | [402478-sonnet.json](./402478-sonnet.json) |
 | Sonny | 56972 | [56972-sonny.json](./56972-sonny.json) |
+| Sonny | 9592 | [9592-sonny.json](./9592-sonny.json) |
 | Sonny 2 | 56971 | [56971-sonny-2.json](./56971-sonny-2.json) |
 | Sonny Legacy Collection | 299891 | [299891-sonny-legacy-collection.json](./299891-sonny-legacy-collection.json) |
 | Sonny with a Chance | 66903 | [66903-sonny-with-a-chance.json](./66903-sonny-with-a-chance.json) |
@@ -26727,6 +26729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Troopers: Extermination - Galactic Victory Edition | 333690 | [333690-starship-troopers-extermination-galactic-victory-edition.json](./333690-starship-troopers-extermination-galactic-victory-edition.json) |
 | Starship Troopers: Extermination - Warrior Tiger Bundle | 331519 | [331519-starship-troopers-extermination-warrior-tiger-bundle.json](./331519-starship-troopers-extermination-warrior-tiger-bundle.json) |
 | Starship Troopers: Terran Ascendancy | 50923 | [50923-starship-troopers-terran-ascendancy.json](./50923-starship-troopers-terran-ascendancy.json) |
+| Starship Troopers: Terran Command | 127029 | [127029-starship-troopers-terran-command.json](./127029-starship-troopers-terran-command.json) |
 | Starship Troopers: Terran Command - Raising Hell | 265290 | [265290-starship-troopers-terran-command-raising-hell.json](./265290-starship-troopers-terran-command-raising-hell.json) |
 | Starship Troopers: Terran Command - The Eradicators | 380993 | [380993-starship-troopers-terran-command-the-eradicators.json](./380993-starship-troopers-terran-command-the-eradicators.json) |
 | Starship Troopers: Terran Command - Urban Onslaught | 298054 | [298054-starship-troopers-terran-command-urban-onslaught.json](./298054-starship-troopers-terran-command-urban-onslaught.json) |
@@ -28123,6 +28126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stigma: The Salem Legacy | 373686 | [373686-stigma-the-salem-legacy.json](./373686-stigma-the-salem-legacy.json) |
 | Stigma: Unnamed | 385774 | [385774-stigma-unnamed.json](./385774-stigma-unnamed.json) |
 | Stigmata of Sacrilege | 244867 | [244867-stigmata-of-sacrilege.json](./244867-stigmata-of-sacrilege.json) |
+| Stigmatized Property | 123864 | [123864-stigmatized-property.json](./123864-stigmatized-property.json) |
 | Stikbold! A Dodgeball Adventure | 18614 | [18614-stikbold-a-dodgeball-adventure.json](./18614-stikbold-a-dodgeball-adventure.json) |
 | Stikir | 110941 | [110941-stikir.json](./110941-stikir.json) |
 | Still Alive | 109154 | [109154-still-alive.json](./109154-still-alive.json) |
@@ -36964,6 +36968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online Eron | 342589 | [342589-sword-art-online-eron.json](./342589-sword-art-online-eron.json) |
 | Sword Art Online Re: Hollow Fragment | 11839 | [11839-sword-art-online-re-hollow-fragment.json](./11839-sword-art-online-re-hollow-fragment.json) |
 | Sword Art Online VR: Lovely Honey Days | 102088 | [102088-sword-art-online-vr-lovely-honey-days.json](./102088-sword-art-online-vr-lovely-honey-days.json) |
+| Sword Art Online: Alicization Lycoris | 116805 | [116805-sword-art-online-alicization-lycoris.json](./116805-sword-art-online-alicization-lycoris.json) |
 | Sword Art Online: Alicization Lycoris - Blooming of Forget-me-not | 232469 | [232469-sword-art-online-alicization-lycoris-blooming-of-forget-me-not.json](./232469-sword-art-online-alicization-lycoris-blooming-of-forget-me-not.json) |
 | Sword Art Online: Alicization Lycoris - Blooming of Matricaria | 211917 | [211917-sword-art-online-alicization-lycoris-blooming-of-matricaria.json](./211917-sword-art-online-alicization-lycoris-blooming-of-matricaria.json) |
 | Sword Art Online: Alicization Lycoris - Deluxe Edition | 166157 | [166157-sword-art-online-alicization-lycoris-deluxe-edition.json](./166157-sword-art-online-alicization-lycoris-deluxe-edition.json) |
