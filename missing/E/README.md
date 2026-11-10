@@ -3124,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberhold | 379876 | [379876-emberhold.json](./379876-emberhold.json) |
 | Emberlight | 118207 | [118207-emberlight.json](./118207-emberlight.json) |
 | Emberlight | 344271 | [344271-emberlight.json](./344271-emberlight.json) |
+| Emberline | 402588 | [402588-emberline.json](./402588-emberline.json) |
 | Emberlost | 420529 | [420529-emberlost.json](./420529-emberlost.json) |
 | EmbeRogue | 401191 | [401191-emberogue.json](./401191-emberogue.json) |
 | Emberrush | 264706 | [264706-emberrush.json](./264706-emberrush.json) |
@@ -3726,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encodya: Neon Edition | 209809 | [209809-encodya-neon-edition.json](./209809-encodya-neon-edition.json) |
 | Encodya: Save the World Edition | 154533 | [154533-encodya-save-the-world-edition.json](./154533-encodya-save-the-world-edition.json) |
 | Encore | 274949 | [274949-encore.json](./274949-encore.json) |
+| Encore | 402625 | [402625-encore.json](./402625-encore.json) |
 | Encore | 403601 | [403601-encore.json](./403601-encore.json) |
 | EnCore | 94678 | [94678-encore.json](./94678-encore.json) |
 | Encore Card Games | 130706 | [130706-encore-card-games.json](./130706-encore-card-games.json) |
