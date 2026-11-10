@@ -15831,6 +15831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Oath | 59945 | [59945-dragon-oath.json](./59945-dragon-oath.json) |
 | Dragon of Calon Valley | 323737 | [323737-dragon-of-calon-valley.json](./323737-dragon-of-calon-valley.json) |
 | Dragon of Illusion | 407283 | [407283-dragon-of-illusion.json](./407283-dragon-of-illusion.json) |
+| Dragon of Legends | 76289 | [76289-dragon-of-legends.json](./76289-dragon-of-legends.json) |
 | Dragon of Saiyu | 271383 | [271383-dragon-of-saiyu.json](./271383-dragon-of-saiyu.json) |
 | Dragon of Steelthorne | 287753 | [287753-dragon-of-steelthorne.json](./287753-dragon-of-steelthorne.json) |
 | Dragon Orb | 76334 | [76334-dragon-orb.json](./76334-dragon-orb.json) |
