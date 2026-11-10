@@ -1983,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Savior | 46058 | [46058-dark-savior.json](./46058-dark-savior.json) |
 | Dark Scavenger | 8428 | [8428-dark-scavenger.json](./8428-dark-scavenger.json) |
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
+| Dark Scrolls | 395294 | [395294-dark-scrolls.json](./395294-dark-scrolls.json) |
 | Dark Scythe | 313965 | [313965-dark-scythe.json](./313965-dark-scythe.json) |
 | Dark Secrets | 53912 | [53912-dark-secrets.json](./53912-dark-secrets.json) |
 | Dark Secrets Mystery Files | 399627 | [399627-dark-secrets-mystery-files.json](./399627-dark-secrets-mystery-files.json) |
@@ -8547,6 +8548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 5: Collector's Edition | 112662 | [112662-devil-may-cry-5-collectors-edition.json](./112662-devil-may-cry-5-collectors-edition.json) |
 | Devil May Cry 5: Deluxe Edition | 111750 | [111750-devil-may-cry-5-deluxe-edition.json](./111750-devil-may-cry-5-deluxe-edition.json) |
 | Devil May Cry 5: Deluxe Edition + Vergil | 165875 | [165875-devil-may-cry-5-deluxe-edition-vergil.json](./165875-devil-may-cry-5-deluxe-edition-vergil.json) |
+| Devil May Cry 5: Devil Hunter Edition | 405444 | [405444-devil-may-cry-5-devil-hunter-edition.json](./405444-devil-may-cry-5-devil-hunter-edition.json) |
 | Devil May Cry 5: Lenticular Edition | 422194 | [422194-devil-may-cry-5-lenticular-edition.json](./422194-devil-may-cry-5-lenticular-edition.json) |
 | Devil May Cry 5: Mega Buster | 370873 | [370873-devil-may-cry-5-mega-buster.json](./370873-devil-may-cry-5-mega-buster.json) |
 | Devil May Cry 5: Monkey Business | 370875 | [370875-devil-may-cry-5-monkey-business.json](./370875-devil-may-cry-5-monkey-business.json) |
