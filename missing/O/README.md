@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Observe and Report | 297168 | [297168-observe-and-report.json](./297168-observe-and-report.json) |
 | Observer | 19545 | [19545-observer.json](./19545-observer.json) |
 | Observer | 265130 | [265130-observer.json](./265130-observer.json) |
+| Observer | 412643 | [412643-observer.json](./412643-observer.json) |
 | Observer Effect: Edge of the World | 23347 | [23347-observer-effect-edge-of-the-world.json](./23347-observer-effect-edge-of-the-world.json) |
 | Observer Protocol: The Station - Final Shift | 350432 | [350432-observer-protocol-the-station-final-shift.json](./350432-observer-protocol-the-station-final-shift.json) |
 | Observer Protocol: The Station - First Shift | 345484 | [345484-observer-protocol-the-station-first-shift.json](./345484-observer-protocol-the-station-first-shift.json) |
