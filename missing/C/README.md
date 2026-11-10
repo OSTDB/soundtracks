@@ -9433,6 +9433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Slinger | 113392 | [113392-circuit-slinger.json](./113392-circuit-slinger.json) |
 | Circuit Stance | 392123 | [392123-circuit-stance.json](./392123-circuit-stance.json) |
 | Circuit Strike.One | 68244 | [68244-circuit-strike-one.json](./68244-circuit-strike-one.json) |
+| Circuit Superstars | 119372 | [119372-circuit-superstars.json](./119372-circuit-superstars.json) |
 | Circuit Superstars DLC: Top Gear - The Stig Challenge | 254379 | [254379-circuit-superstars-dlc-top-gear-the-stig-challenge.json](./254379-circuit-superstars-dlc-top-gear-the-stig-challenge.json) |
 | Circuit USA | 281556 | [281556-circuit-usa.json](./281556-circuit-usa.json) |
 | Circuit Warz | 38772 | [38772-circuit-warz.json](./38772-circuit-warz.json) |
@@ -14735,6 +14736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra | 262141 | [262141-contra.json](./262141-contra.json) |
 | Contra 4 | 9545 | [9545-contra-4.json](./9545-contra-4.json) |
 | Contra Advance: The Alien Wars EX | 49158 | [49158-contra-advance-the-alien-wars-ex.json](./49158-contra-advance-the-alien-wars-ex.json) |
+| Contra Anniversary Collection | 116389 | [116389-contra-anniversary-collection.json](./116389-contra-anniversary-collection.json) |
 | Contra Burst | 405812 | [405812-contra-burst.json](./405812-contra-burst.json) |
 | Contra Demake | 284299 | [284299-contra-demake.json](./284299-contra-demake.json) |
 | Contra Evolution | 50333 | [50333-contra-evolution.json](./50333-contra-evolution.json) |
@@ -19171,6 +19173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruft | 327893 | [327893-cruft.json](./327893-cruft.json) |
 | Cruis'n | 4779 | [4779-cruisn.json](./4779-cruisn.json) |
 | Cruis'n Blast | 152357 | [152357-cruisn-blast.json](./152357-cruisn-blast.json) |
+| Cruis'n Exotica | 10163 | [10163-cruisn-exotica.json](./10163-cruisn-exotica.json) |
 | Cruis'n Exotica | 249136 | [249136-cruisn-exotica.json](./249136-cruisn-exotica.json) |
 | Cruis'n Exotica | 300037 | [300037-cruisn-exotica.json](./300037-cruisn-exotica.json) |
 | Cruis'n USA | 300472 | [300472-cruisn-usa.json](./300472-cruisn-usa.json) |
