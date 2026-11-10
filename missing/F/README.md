@@ -541,6 +541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading | 77179 | [77179-fading.json](./77179-fading.json) |
 | Fading Afternoon | 166734 | [166734-fading-afternoon.json](./166734-fading-afternoon.json) |
 | Fading City | 188378 | [188378-fading-city.json](./188378-fading-city.json) |
+| Fading Clouds | 424282 | [424282-fading-clouds.json](./424282-fading-clouds.json) |
 | Fading Earth | 260704 | [260704-fading-earth.json](./260704-fading-earth.json) |
 | Fading Echo | 347887 | [347887-fading-echo.json](./347887-fading-echo.json) |
 | Fading Echoes | 291213 | [291213-fading-echoes.json](./291213-fading-echoes.json) |
