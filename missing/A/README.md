@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wake Inn: Rebooked | 165400 | [165400-a-wake-inn-rebooked.json](./165400-a-wake-inn-rebooked.json) |
 | A Walk Along the Wall | 81955 | [81955-a-walk-along-the-wall.json](./81955-a-walk-along-the-wall.json) |
 | A Walk In A Field | 179656 | [179656-a-walk-in-a-field.json](./179656-a-walk-in-a-field.json) |
+| A Walk in the Dark | 16646 | [16646-a-walk-in-the-dark.json](./16646-a-walk-in-the-dark.json) |
 | A Walk in the Night | 372244 | [372244-a-walk-in-the-night.json](./372244-a-walk-in-the-night.json) |
 | A Walk in the Park | 309331 | [309331-a-walk-in-the-park.json](./309331-a-walk-in-the-park.json) |
 | A Walk in the Park | 312860 | [312860-a-walk-in-the-park.json](./312860-a-walk-in-the-park.json) |
@@ -8702,6 +8703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Cultivation Simulator: Immortal Tales of WuDang | 166053 | [166053-amazing-cultivation-simulator-immortal-tales-of-wudang.json](./166053-amazing-cultivation-simulator-immortal-tales-of-wudang.json) |
 | Amazing Curves Racing | 303329 | [303329-amazing-curves-racing.json](./303329-amazing-curves-racing.json) |
 | Amazing Digital Game 2D | 393115 | [393115-amazing-digital-game-2d.json](./393115-amazing-digital-game-2d.json) |
+| Amazing Discoveries In Outer Space | 16744 | [16744-amazing-discoveries-in-outer-space.json](./16744-amazing-discoveries-in-outer-space.json) |
 | Amazing Drawing: Coloring Book Simulator | 312092 | [312092-amazing-drawing-coloring-book-simulator.json](./312092-amazing-drawing-coloring-book-simulator.json) |
 | Amazing Drones | 76619 | [76619-amazing-drones.json](./76619-amazing-drones.json) |
 | Amazing Emma | 74833 | [74833-amazing-emma.json](./74833-amazing-emma.json) |
@@ -12606,6 +12608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanore | 376451 | [376451-aquanore.json](./376451-aquanore.json) |
 | AquaNox | 1997 | [1997-aquanox.json](./1997-aquanox.json) |
 | AquaNox 2: Revelation | 1998 | [1998-aquanox-2-revelation.json](./1998-aquanox-2-revelation.json) |
+| Aquanox: Deep Descent | 16708 | [16708-aquanox-deep-descent.json](./16708-aquanox-deep-descent.json) |
 | AquaNox: The Angels Tears | 1999 | [1999-aquanox-the-angels-tears.json](./1999-aquanox-the-angels-tears.json) |
 | Aquapark io: Animals DLC | 263524 | [263524-aquapark-io-animals-dlc.json](./263524-aquapark-io-animals-dlc.json) |
 | Aquapark io: Complete Edition | 270300 | [270300-aquapark-io-complete-edition.json](./270300-aquapark-io-complete-edition.json) |
@@ -17522,7 +17525,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
