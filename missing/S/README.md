@@ -13393,7 +13393,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Ride | 54559 | [54559-sky-ride.json](./54559-sky-ride.json) |
 | Sky Road | 76383 | [76383-sky-road.json](./76383-sky-road.json) |
 | Sky Robo | 327321 | [327321-sky-robo.json](./327321-sky-robo.json) |
-| Sky Rogue | 11633 | [11633-sky-rogue.json](./11633-sky-rogue.json) |
 | Sky Roll! | 147653 | [147653-sky-roll.json](./147653-sky-roll.json) |
 | Sky Rollball | 28844 | [28844-sky-rollball.json](./28844-sky-rollball.json) |
 | Sky Roller Coaster | 298045 | [298045-sky-roller-coaster.json](./298045-sky-roller-coaster.json) |
@@ -26307,7 +26306,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starboy Adventures | 153532 | [153532-starboy-adventures.json](./153532-starboy-adventures.json) |
 | Starboy and the Captain of Outer Space: Mutant Hotdog Game | 396389 | [396389-starboy-and-the-captain-of-outer-space-mutant-hotdog-game.json](./396389-starboy-and-the-captain-of-outer-space-mutant-hotdog-game.json) |
 | Starboys | 393402 | [393402-starboys.json](./393402-starboys.json) |
-| StarBreak | 19174 | [19174-starbreak.json](./19174-starbreak.json) |
 | Starbrew Cafe: Mystical Merge | 352184 | [352184-starbrew-cafe-mystical-merge.json](./352184-starbrew-cafe-mystical-merge.json) |
 | Starbrew Station | 372569 | [372569-starbrew-station.json](./372569-starbrew-station.json) |
 | Starbrew Station: Auto-Maintenance Droid Unit | 374088 | [374088-starbrew-station-auto-maintenance-droid-unit.json](./374088-starbrew-station-auto-maintenance-droid-unit.json) |
