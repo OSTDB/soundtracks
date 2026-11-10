@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A. Machineguns: Rage of the Machines | 39478 | [39478-l-a-machineguns-rage-of-the-machines.json](./39478-l-a-machineguns-rage-of-the-machines.json) |
 | L.A. Meltdown 2047 | 308236 | [308236-l-a-meltdown-2047.json](./308236-l-a-meltdown-2047.json) |
 | L.A. Noire: A Slip of the Tongue | 24399 | [24399-l-a-noire-a-slip-of-the-tongue.json](./24399-l-a-noire-a-slip-of-the-tongue.json) |
+| L.A. Noire: Nicholson Electroplating | 22943 | [22943-l-a-noire-nicholson-electroplating.json](./22943-l-a-noire-nicholson-electroplating.json) |
 | L.A. Noire: Reefer Madness | 117307 | [117307-l-a-noire-reefer-madness.json](./117307-l-a-noire-reefer-madness.json) |
 | L.A. Noire: The Complete Edition | 47398 | [47398-l-a-noire-the-complete-edition.json](./47398-l-a-noire-the-complete-edition.json) |
 | L.A. Noire: The Consul's Car | 117308 | [117308-l-a-noire-the-consuls-car.json](./117308-l-a-noire-the-consuls-car.json) |
@@ -2614,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Valyria | 356036 | [356036-legacy-of-valyria.json](./356036-legacy-of-valyria.json) |
 | Legacy of Vane | 167437 | [167437-legacy-of-vane.json](./167437-legacy-of-vane.json) |
 | Legacy of YanHuang | 28755 | [28755-legacy-of-yanhuang.json](./28755-legacy-of-yanhuang.json) |
+| Legacy of Ys: Books I & II | 21255 | [21255-legacy-of-ys-books-i-and-ii.json](./21255-legacy-of-ys-books-i-and-ii.json) |
 | Legacy Online | 23711 | [23711-legacy-online.json](./23711-legacy-online.json) |
 | Legacy Quest | 109289 | [109289-legacy-quest.json](./109289-legacy-quest.json) |
 | Legacy Quest | 58659 | [58659-legacy-quest.json](./58659-legacy-quest.json) |
@@ -6453,6 +6455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Red Riding Hood: Wonder Animals | 288301 | [288301-little-red-riding-hood-wonder-animals.json](./288301-little-red-riding-hood-wonder-animals.json) |
 | Little Red Riding Hood: Wonder Animals Vol.2 | 288300 | [288300-little-red-riding-hood-wonder-animals-vol-2.json](./288300-little-red-riding-hood-wonder-animals-vol-2.json) |
 | Little Red Riding Hood's Wolf | 125863 | [125863-little-red-riding-hoods-wolf.json](./125863-little-red-riding-hoods-wolf.json) |
+| Little Red Riding Hood's Zombie BBQ | 21298 | [21298-little-red-riding-hoods-zombie-bbq.json](./21298-little-red-riding-hoods-zombie-bbq.json) |
 | Little Red Riding Rogue | 251121 | [251121-little-red-riding-rogue.json](./251121-little-red-riding-rogue.json) |
 | Little Red Rocket Ship | 190199 | [190199-little-red-rocket-ship.json](./190199-little-red-rocket-ship.json) |
 | Little Reds Forest Fun | 114958 | [114958-little-reds-forest-fun.json](./114958-little-reds-forest-fun.json) |
@@ -8128,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Fallen | 194987 | [194987-lords-of-the-fallen.json](./194987-lords-of-the-fallen.json) |
 | Lords of the Fallen | 4847 | [4847-lords-of-the-fallen.json](./4847-lords-of-the-fallen.json) |
 | Lords of the Fallen II | 318503 | [318503-lords-of-the-fallen-ii.json](./318503-lords-of-the-fallen-ii.json) |
+| Lords of the Fallen: Ancient Labyrinth | 21594 | [21594-lords-of-the-fallen-ancient-labyrinth.json](./21594-lords-of-the-fallen-ancient-labyrinth.json) |
 | Lords of the Fallen: Collector's Edition | 28128 | [28128-lords-of-the-fallen-collectors-edition.json](./28128-lords-of-the-fallen-collectors-edition.json) |
 | Lords of the Fallen: Complete Edition | 166990 | [166990-lords-of-the-fallen-complete-edition.json](./166990-lords-of-the-fallen-complete-edition.json) |
 | Lords of the Fallen: Deluxe Edition | 250427 | [250427-lords-of-the-fallen-deluxe-edition.json](./250427-lords-of-the-fallen-deluxe-edition.json) |
@@ -8839,6 +8843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LostMagic | 20522 | [20522-lostmagic.json](./20522-lostmagic.json) |
 | LostMiner: Build & Craft Game | 298747 | [298747-lostminer-build-and-craft-game.json](./298747-lostminer-build-and-craft-game.json) |
 | LostTicket | 342910 | [342910-lostticket.json](./342910-lostticket.json) |
+| LostWinds: Winter of the Melodias | 21245 | [21245-lostwinds-winter-of-the-melodias.json](./21245-lostwinds-winter-of-the-melodias.json) |
 | LostX Dungeon | 112213 | [112213-lostx-dungeon.json](./112213-lostx-dungeon.json) |
 | Lostx Dungeon II | 116654 | [116654-lostx-dungeon-ii.json](./116654-lostx-dungeon-ii.json) |
 | Lot Lizard | 294178 | [294178-lot-lizard.json](./294178-lot-lizard.json) |
@@ -10282,6 +10287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Lander Relaunched | 106725 | [106725-lunar-lander-relaunched.json](./106725-lunar-lander-relaunched.json) |
 | Lunar Lander: Evolved | 329633 | [329633-lunar-lander-evolved.json](./329633-lunar-lander-evolved.json) |
 | Lunar Laser | 241990 | [241990-lunar-laser.json](./241990-lunar-laser.json) |
+| Lunar Leeper | 23497 | [23497-lunar-leeper.json](./23497-lunar-leeper.json) |
 | Lunar Legacy | 248041 | [248041-lunar-legacy.json](./248041-lunar-legacy.json) |
 | Lunar Legend | 13907 | [13907-lunar-legend.json](./13907-lunar-legend.json) |
 | Lunar Lich | 155274 | [155274-lunar-lich.json](./155274-lunar-lich.json) |
