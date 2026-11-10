@@ -10013,6 +10013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesoké | 392109 | [392109-mesoke.json](./392109-mesoke.json) |
 | Mesonoxian | 201630 | [201630-mesonoxian.json](./201630-mesonoxian.json) |
 | Mesopotamia | 42042 | [42042-mesopotamia.json](./42042-mesopotamia.json) |
+| Mesopotamia | 428401 | [428401-mesopotamia.json](./428401-mesopotamia.json) |
 | Mesopotamia: The Game | 359928 | [359928-mesopotamia-the-game.json](./359928-mesopotamia-the-game.json) |
 | Mesorift Survival | 350403 | [350403-mesorift-survival.json](./350403-mesorift-survival.json) |
 | Mesozoica | 57084 | [57084-mesozoica.json](./57084-mesozoica.json) |
@@ -23134,6 +23135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Echoes | 149083 | [149083-mystical-echoes.json](./149083-mystical-echoes.json) |
 | Mystical Fighter | 45772 | [45772-mystical-fighter.json](./45772-mystical-fighter.json) |
 | Mystical Herbalists | 380195 | [380195-mystical-herbalists.json](./380195-mystical-herbalists.json) |
+| Mystical II: Forgotten Knowledge | 428387 | [428387-mystical-ii-forgotten-knowledge.json](./428387-mystical-ii-forgotten-knowledge.json) |
 | Mystical Island | 99891 | [99891-mystical-island.json](./99891-mystical-island.json) |
 | Mystical Lights | 164176 | [164176-mystical-lights.json](./164176-mystical-lights.json) |
 | Mystical Map | 204939 | [204939-mystical-map.json](./204939-mystical-map.json) |
