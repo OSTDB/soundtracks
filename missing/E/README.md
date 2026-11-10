@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth: 9000 | 135383 | [135383-earth-9000.json](./135383-earth-9000.json) |
 | Earth: Revival | 215230 | [215230-earth-revival.json](./215230-earth-revival.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
+| Earth's Dawn | 23499 | [23499-earths-dawn.json](./23499-earths-dawn.json) |
 | Earth's Greatest Defender | 244619 | [244619-earths-greatest-defender.json](./244619-earths-greatest-defender.json) |
 | Earth's Last Defense | 182535 | [182535-earths-last-defense.json](./182535-earths-last-defense.json) |
 | Earth's Shadow | 164078 | [164078-earths-shadow.json](./164078-earths-shadow.json) |
