@@ -1250,6 +1250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Jewel | 359394 | [359394-magic-jewel.json](./359394-magic-jewel.json) |
 | Magic Jewelry 2 | 48281 | [48281-magic-jewelry-2.json](./48281-magic-jewelry-2.json) |
 | Magic Jewelry Craft | 330505 | [330505-magic-jewelry-craft.json](./330505-magic-jewelry-craft.json) |
+| Magic Jigsaw Puzzles | 89114 | [89114-magic-jigsaw-puzzles.json](./89114-magic-jigsaw-puzzles.json) |
 | Magic John | 215143 | [215143-magic-john.json](./215143-magic-john.json) |
 | Magic Johnson's Basketball | 12835 | [12835-magic-johnsons-basketball.json](./12835-magic-johnsons-basketball.json) |
 | Magic Johnson's Basketball | 198808 | [198808-magic-johnsons-basketball.json](./198808-magic-johnsons-basketball.json) |
@@ -1347,6 +1348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Potion Liberators | 239811 | [239811-magic-potion-liberators.json](./239811-magic-potion-liberators.json) |
 | Magic Potion Millionaire | 135423 | [135423-magic-potion-millionaire.json](./135423-magic-potion-millionaire.json) |
 | Magic Potion Stories | 252666 | [252666-magic-potion-stories.json](./252666-magic-potion-stories.json) |
+| Magic Princess - Girls Makeup & Dressup Salon Game | 87465 | [87465-magic-princess-girls-makeup-and-dressup-salon-game.json](./87465-magic-princess-girls-makeup-and-dressup-salon-game.json) |
 | Magic Purple | 251706 | [251706-magic-purple.json](./251706-magic-purple.json) |
 | Magic Pussy: Chapter 1 | 244719 | [244719-magic-pussy-chapter-1.json](./244719-magic-pussy-chapter-1.json) |
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
@@ -2018,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Crimes | 91080 | [91080-mahjong-crimes.json](./91080-mahjong-crimes.json) |
 | Mahjong Cub3d | 6846 | [6846-mahjong-cub3d.json](./6846-mahjong-cub3d.json) |
 | Mahjong Daiyogen | 56054 | [56054-mahjong-daiyogen.json](./56054-mahjong-daiyogen.json) |
+| Mahjong Deluxe | 89042 | [89042-mahjong-deluxe.json](./89042-mahjong-deluxe.json) |
 | Mahjong Deluxe 2 | 89686 | [89686-mahjong-deluxe-2.json](./89686-mahjong-deluxe-2.json) |
 | Mahjong Deluxe 2: Astral Planes | 105996 | [105996-mahjong-deluxe-2-astral-planes.json](./105996-mahjong-deluxe-2-astral-planes.json) |
 | Mahjong Deluxe HD | 70900 | [70900-mahjong-deluxe-hd.json](./70900-mahjong-deluxe-hd.json) |
@@ -2174,6 +2177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
 | Mahjong Travel | 252285 | [252285-mahjong-travel.json](./252285-mahjong-travel.json) |
 | Mahjong Triple Wars Gaiden | 91934 | [91934-mahjong-triple-wars-gaiden.json](./91934-mahjong-triple-wars-gaiden.json) |
+| Mahjong Ultimate | 87462 | [87462-mahjong-ultimate.json](./87462-mahjong-ultimate.json) |
 | Mahjong Unlimited | 88641 | [88641-mahjong-unlimited.json](./88641-mahjong-unlimited.json) |
 | Mahjong Unlimited | 89091 | [89091-mahjong-unlimited.json](./89091-mahjong-unlimited.json) |
 | Mahjong Valentine's Day | 90291 | [90291-mahjong-valentines-day.json](./90291-mahjong-valentines-day.json) |
@@ -2202,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong: Orient Mysteries | 402736 | [402736-mahjong-orient-mysteries.json](./402736-mahjong-orient-mysteries.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
 | Mahjong! | 108561 | [108561-mahjong.json](./108561-mahjong.json) |
+| Mahjong!! | 89107 | [89107-mahjong.json](./89107-mahjong.json) |
 | Mahjongg | 328908 | [328908-mahjongg.json](./328908-mahjongg.json) |
 | Mahjongg 4 Deluxe | 24757 | [24757-mahjongg-4-deluxe.json](./24757-mahjongg-4-deluxe.json) |
 | Mahjongg Artifacts | 120513 | [120513-mahjongg-artifacts.json](./120513-mahjongg-artifacts.json) |
@@ -8153,6 +8158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Legends 2 | 1754 | [1754-mega-man-legends-2.json](./1754-mega-man-legends-2.json) |
 | Mega Man Legends 3 Project | 78003 | [78003-mega-man-legends-3-project.json](./78003-mega-man-legends-3-project.json) |
 | Mega Man Maker | 102716 | [102716-mega-man-maker.json](./102716-mega-man-maker.json) |
+| Mega Man Mobile | 89016 | [89016-mega-man-mobile.json](./89016-mega-man-mobile.json) |
 | Mega Man Network Transmission | 1766 | [1766-mega-man-network-transmission.json](./1766-mega-man-network-transmission.json) |
 | Mega Man NT Warrior: Battle Chip - WideShot1 | 352839 | [352839-mega-man-nt-warrior-battle-chip-wideshot1.json](./352839-mega-man-nt-warrior-battle-chip-wideshot1.json) |
 | Mega Man Overdrive | 326497 | [326497-mega-man-overdrive.json](./326497-mega-man-overdrive.json) |
@@ -22325,6 +22331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Town: Cinema | 88963 | [88963-my-town-cinema.json](./88963-my-town-cinema.json) |
 | My Town: Dessert Slice | 130086 | [130086-my-town-dessert-slice.json](./130086-my-town-dessert-slice.json) |
 | My Town: Farm | 88954 | [88954-my-town-farm.json](./88954-my-town-farm.json) |
+| My Town: Fire station Rescue | 89119 | [89119-my-town-fire-station-rescue.json](./89119-my-town-fire-station-rescue.json) |
 | My Town: Haunted House | 88967 | [88967-my-town-haunted-house.json](./88967-my-town-haunted-house.json) |
 | My Town: Home | 362420 | [362420-my-town-home.json](./362420-my-town-home.json) |
 | My Town: Hospital | 88955 | [88955-my-town-hospital.json](./88955-my-town-hospital.json) |
