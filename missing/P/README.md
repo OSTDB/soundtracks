@@ -3267,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathUp! | 338468 | [338468-pathup.json](./338468-pathup.json) |
 | Pathway | 133975 | [133975-pathway.json](./133975-pathway.json) |
 | Pathway to Glory | 6270 | [6270-pathway-to-glory.json](./6270-pathway-to-glory.json) |
+| Pathway to Glory: Ikusa Islands | 6271 | [6271-pathway-to-glory-ikusa-islands.json](./6271-pathway-to-glory-ikusa-islands.json) |
 | Pathway: Desire | 180550 | [180550-pathway-desire.json](./180550-pathway-desire.json) |
 | Pathways | 182326 | [182326-pathways.json](./182326-pathways.json) |
 | Pathways | 242701 | [242701-pathways.json](./242701-pathways.json) |
@@ -3567,6 +3568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PayaPaya | 243724 | [243724-payapaya.json](./243724-payapaya.json) |
 | Payasos & Balazos | 373828 | [373828-payasos-and-balazos.json](./373828-payasos-and-balazos.json) |
 | Payback | 387404 | [387404-payback.json](./387404-payback.json) |
+| Payback | 6531 | [6531-payback.json](./6531-payback.json) |
 | Payback 2 | 212494 | [212494-payback-2.json](./212494-payback-2.json) |
 | Payback Showdown | 174876 | [174876-payback-showdown.json](./174876-payback-showdown.json) |
 | Paycheck: City RPG | 130383 | [130383-paycheck-city-rpg.json](./130383-paycheck-city-rpg.json) |
@@ -12356,6 +12358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polarity Warthog | 323225 | [323225-polarity-warthog.json](./323225-polarity-warthog.json) |
 | Polarity: Ultimate Edition | 28732 | [28732-polarity-ultimate-edition.json](./28732-polarity-ultimate-edition.json) |
 | Polarium | 6537 | [6537-polarium.json](./6537-polarium.json) |
+| Polarium Advance | 6536 | [6536-polarium-advance.json](./6536-polarium-advance.json) |
 | Polarize | 228582 | [228582-polarize.json](./228582-polarize.json) |
 | Polarized! MonkeyBox 1 | 186426 | [186426-polarized-monkeybox-1.json](./186426-polarized-monkeybox-1.json) |
 | Polars | 214354 | [214354-polars.json](./214354-polars.json) |
