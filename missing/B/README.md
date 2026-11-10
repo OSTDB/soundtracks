@@ -1006,8 +1006,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
+| Bad Range | 413968 | [413968-bad-range.json](./413968-bad-range.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
 | Bad Rats | 8582 | [8582-bad-rats.json](./8582-bad-rats.json) |
 | Bad Rats Revenge | 255480 | [255480-bad-rats-revenge.json](./255480-bad-rats-revenge.json) |
@@ -4881,6 +4883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bazooka Cat: First Episode | 233635 | [233635-bazooka-cat-first-episode.json](./233635-bazooka-cat-first-episode.json) |
 | Bazooka of the Red Dragon | 68969 | [68969-bazooka-of-the-red-dragon.json](./68969-bazooka-of-the-red-dragon.json) |
 | Bazooka Sue | 69536 | [69536-bazooka-sue.json](./69536-bazooka-sue.json) |
+| Bazooka: Rhythm Game | 413619 | [413619-bazooka-rhythm-game.json](./413619-bazooka-rhythm-game.json) |
 | BazookaCat | 266824 | [266824-bazookacat.json](./266824-bazookacat.json) |
 | Bazookarrots | 301765 | [301765-bazookarrots.json](./301765-bazookarrots.json) |
 | BAZR | 340351 | [340351-bazr.json](./340351-bazr.json) |
@@ -8214,6 +8217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikkuriman World: Gekitou Sei Senshi | 48544 | [48544-bikkuriman-world-gekitou-sei-senshi.json](./48544-bikkuriman-world-gekitou-sei-senshi.json) |
 | Bikmin 269 | 250149 | [250149-bikmin-269.json](./250149-bikmin-269.json) |
 | Bikmin 269 DX: Director's Cut | 321833 | [321833-bikmin-269-dx-directors-cut.json](./321833-bikmin-269-dx-directors-cut.json) |
+| Bikmin PC | 413921 | [413921-bikmin-pc.json](./413921-bikmin-pc.json) |
 | Biko 2: Reversible Face | 22351 | [22351-biko-2-reversible-face.json](./22351-biko-2-reversible-face.json) |
 | Bikour! | 81586 | [81586-bikour.json](./81586-bikour.json) |
 | Bikrash | 180527 | [180527-bikrash.json](./180527-bikrash.json) |
