@@ -2693,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Whole Cake Island Pack | 167977 | [167977-one-piece-pirate-warriors-4-whole-cake-island-pack.json](./167977-one-piece-pirate-warriors-4-whole-cake-island-pack.json) |
 | One Piece: Pirate Warriors 4 - Yamato's Grand Tour Logbook & Soul Map 1 | 268585 | [268585-one-piece-pirate-warriors-4-yamatos-grand-tour-logbook-and-soul-map-1.json](./268585-one-piece-pirate-warriors-4-yamatos-grand-tour-logbook-and-soul-map-1.json) |
 | One Piece: Pirate Warriors 4 - Zorojuro Costume | 296020 | [296020-one-piece-pirate-warriors-4-zorojuro-costume.json](./296020-one-piece-pirate-warriors-4-zorojuro-costume.json) |
+| One Piece: Pirates' Carnival | 4054 | [4054-one-piece-pirates-carnival.json](./4054-one-piece-pirates-carnival.json) |
 | One Piece: Romance Dawn | 6851 | [6851-one-piece-romance-dawn.json](./6851-one-piece-romance-dawn.json) |
 | One Piece: Round the Land! | 43401 | [43401-one-piece-round-the-land.json](./43401-one-piece-round-the-land.json) |
 | One Piece: Starboard | 300799 | [300799-one-piece-starboard.json](./300799-one-piece-starboard.json) |
@@ -2701,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Treasure Battle! | 75746 | [75746-one-piece-treasure-battle.json](./75746-one-piece-treasure-battle.json) |
 | One Piece: Treasure Cruise | 18376 | [18376-one-piece-treasure-cruise.json](./18376-one-piece-treasure-cruise.json) |
 | One Piece: Treasure Wars 2 - Buggyland he Youkoso | 75748 | [75748-one-piece-treasure-wars-2-buggyland-he-youkoso.json](./75748-one-piece-treasure-wars-2-buggyland-he-youkoso.json) |
+| One Piece: Unlimited Adventure | 5084 | [5084-one-piece-unlimited-adventure.json](./5084-one-piece-unlimited-adventure.json) |
 | One Piece: Unlimited Cruise 1 - The Treasure Beneath the Waves | 21123 | [21123-one-piece-unlimited-cruise-1-the-treasure-beneath-the-waves.json](./21123-one-piece-unlimited-cruise-1-the-treasure-beneath-the-waves.json) |
 | One Piece: Unlimited Cruise 2 - Awakening of a Hero | 21117 | [21117-one-piece-unlimited-cruise-2-awakening-of-a-hero.json](./21117-one-piece-unlimited-cruise-2-awakening-of-a-hero.json) |
 | One Piece: Unlimited Cruise SP | 22875 | [22875-one-piece-unlimited-cruise-sp.json](./22875-one-piece-unlimited-cruise-sp.json) |
