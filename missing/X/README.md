@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xìngcúnzhě Lèyuán | 165655 | [165655-xingcunzhe-leyuan.json](./165655-xingcunzhe-leyuan.json) |
 | Xīngjì Shéngé | 196875 | [196875-xingji-shenge.json](./196875-xingji-shenge.json) |
 | Xio: Survival | 193496 | [193496-xio-survival.json](./193496-xio-survival.json) |
+| Xion | 41913 | [41913-xion.json](./41913-xion.json) |
 | Xion Leak | 216815 | [216815-xion-leak.json](./216815-xion-leak.json) |
 | Xióng Chuǎng Tiānxià | 325062 | [325062-xiong-chuang-tianxia.json](./325062-xiong-chuang-tianxia.json) |
 | Xiongguan Mandao, Yi Meng Wan Li | 386760 | [386760-xiongguan-mandao-yi-meng-wan-li.json](./386760-xiongguan-mandao-yi-meng-wan-li.json) |
