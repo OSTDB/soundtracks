@@ -2384,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Master | 239038 | [239038-tap-master.json](./239038-tap-master.json) |
 | Tap Master: Mondrian | 333581 | [333581-tap-master-mondrian.json](./333581-tap-master-mondrian.json) |
 | Tap My Katamari | 26991 | [26991-tap-my-katamari.json](./26991-tap-my-katamari.json) |
+| Tap Ninja | 193136 | [193136-tap-ninja.json](./193136-tap-ninja.json) |
 | Tap On Overlap | 194168 | [194168-tap-on-overlap.json](./194168-tap-on-overlap.json) |
 | Tap Pet Hotel | 269072 | [269072-tap-pet-hotel.json](./269072-tap-pet-hotel.json) |
 | Tap Quiz | 243310 | [243310-tap-quiz.json](./243310-tap-quiz.json) |
@@ -5496,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Village | 337740 | [337740-that-village.json](./337740-that-village.json) |
 | That Which Binds Us | 102981 | [102981-that-which-binds-us.json](./102981-that-which-binds-us.json) |
 | That Which Faith Demands | 153793 | [153793-that-which-faith-demands.json](./153793-that-which-faith-demands.json) |
+| That Which Gave Chase | 191308 | [191308-that-which-gave-chase.json](./191308-that-which-gave-chase.json) |
 | That Which Surrounds | 321660 | [321660-that-which-surrounds.json](./321660-that-which-surrounds.json) |
 | That Which Was Lost | 201478 | [201478-that-which-was-lost.json](./201478-that-which-was-lost.json) |
 | That's a Cow | 213220 | [213220-thats-a-cow.json](./213220-thats-a-cow.json) |
@@ -17242,6 +17244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Collector's Edition | 159074 | [159074-the-sims-4-collectors-edition.json](./159074-the-sims-4-collectors-edition.json) |
 | The Sims 4: Comfy Gamer Kit | 330391 | [330391-the-sims-4-comfy-gamer-kit.json](./330391-the-sims-4-comfy-gamer-kit.json) |
 | The Sims 4: Cool Kitchen Stuff | 13149 | [13149-the-sims-4-cool-kitchen-stuff.json](./13149-the-sims-4-cool-kitchen-stuff.json) |
+| The Sims 4: Cottage Living | 152316 | [152316-the-sims-4-cottage-living.json](./152316-the-sims-4-cottage-living.json) |
 | The Sims 4: Country Kitchen Kit | 148501 | [148501-the-sims-4-country-kitchen-kit.json](./148501-the-sims-4-country-kitchen-kit.json) |
 | The Sims 4: Cozy Bistro Kit | 303888 | [303888-the-sims-4-cozy-bistro-kit.json](./303888-the-sims-4-cozy-bistro-kit.json) |
 | The Sims 4: Cozy Kitsch Kit | 330389 | [330389-the-sims-4-cozy-kitsch-kit.json](./330389-the-sims-4-cozy-kitsch-kit.json) |
@@ -19815,6 +19818,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witcher 3: Wild Hunt - Complete Edition | 119402 | [119402-the-witcher-3-wild-hunt-complete-edition.json](./119402-the-witcher-3-wild-hunt-complete-edition.json) |
 | The Witcher 3: Wild Hunt - Complete Edition: 10th Anniversary Edition | 372654 | [372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json](./372654-the-witcher-3-wild-hunt-complete-edition-10th-anniversary-edition.json) |
 | The Witcher 3: Wild Hunt - Free Next-Gen Update | 230102 | [230102-the-witcher-3-wild-hunt-free-next-gen-update.json](./230102-the-witcher-3-wild-hunt-free-next-gen-update.json) |
+| The Witcher 3: Wild Hunt - New Quest 'Contract: Missing Miners' | 170451 | [170451-the-witcher-3-wild-hunt-new-quest-contract-missing-miners.json](./170451-the-witcher-3-wild-hunt-new-quest-contract-missing-miners.json) |
+| The Witcher 3: Wild Hunt - New Quest 'Contract: Skellige's Most Wanted' | 157580 | [157580-the-witcher-3-wild-hunt-new-quest-contract-skelliges-most-wanted.json](./157580-the-witcher-3-wild-hunt-new-quest-contract-skelliges-most-wanted.json) |
+| The Witcher 3: Wild Hunt - New Quest 'Fool's Gold' | 170450 | [170450-the-witcher-3-wild-hunt-new-quest-fools-gold.json](./170450-the-witcher-3-wild-hunt-new-quest-fools-gold.json) |
 | The Witcher 3: Wild Hunt - New Quest 'Where the Cat and Wolf Play...' | 170449 | [170449-the-witcher-3-wild-hunt-new-quest-where-the-cat-and-wolf-play.json](./170449-the-witcher-3-wild-hunt-new-quest-where-the-cat-and-wolf-play.json) |
 | The Witcher 3: Wild Hunt - Songs of the Past | 403150 | [403150-the-witcher-3-wild-hunt-songs-of-the-past.json](./403150-the-witcher-3-wild-hunt-songs-of-the-past.json) |
 | The Witcher 3: Wild Hunt + Dark Souls III | 141472 | [141472-the-witcher-3-wild-hunt-dark-souls-iii.json](./141472-the-witcher-3-wild-hunt-dark-souls-iii.json) |
@@ -19864,6 +19870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizard's Lair | 31949 | [31949-the-wizards-lair.json](./31949-the-wizards-lair.json) |
 | The Wizard's Pen | 14877 | [14877-the-wizards-pen.json](./14877-the-wizards-pen.json) |
 | The Wizard's Tower | 113716 | [113716-the-wizards-tower.json](./113716-the-wizards-tower.json) |
+| The Wizards | 29578 | [29578-the-wizards.json](./29578-the-wizards.json) |
 | The Wizards Arena | 348760 | [348760-the-wizards-arena.json](./348760-the-wizards-arena.json) |
 | The Wizards of Trinity Bellwoods | 58265 | [58265-the-wizards-of-trinity-bellwoods.json](./58265-the-wizards-of-trinity-bellwoods.json) |
 | The Wizards Pet | 108955 | [108955-the-wizards-pet.json](./108955-the-wizards-pet.json) |
@@ -24786,6 +24793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanfall 2: Monarch's Reign | 36700 | [36700-titanfall-2-monarchs-reign.json](./36700-titanfall-2-monarchs-reign.json) |
 | Titanfall 2: Nitro Scorch Pack | 170862 | [170862-titanfall-2-nitro-scorch-pack.json](./170862-titanfall-2-nitro-scorch-pack.json) |
 | Titanfall 2: SteelBook Edition | 17522 | [17522-titanfall-2-steelbook-edition.json](./17522-titanfall-2-steelbook-edition.json) |
+| Titanfall 2: Ultimate Edition | 28513 | [28513-titanfall-2-ultimate-edition.json](./28513-titanfall-2-ultimate-edition.json) |
 | Titanfall 2: Vanguard Collector's Edition | 21729 | [21729-titanfall-2-vanguard-collectors-edition.json](./21729-titanfall-2-vanguard-collectors-edition.json) |
 | Titanfall 3 | 77418 | [77418-titanfall-3.json](./77418-titanfall-3.json) |
 | Titanfall Frontline | 26790 | [26790-titanfall-frontline.json](./26790-titanfall-frontline.json) |
@@ -27130,6 +27138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total War: Rome II - Culture Pack: Greek States | 53825 | [53825-total-war-rome-ii-culture-pack-greek-states.json](./53825-total-war-rome-ii-culture-pack-greek-states.json) |
 | Total War: Rome II - Culture Pack: Nomadic Tribes | 167637 | [167637-total-war-rome-ii-culture-pack-nomadic-tribes.json](./167637-total-war-rome-ii-culture-pack-nomadic-tribes.json) |
 | Total War: Rome II - Culture Pack: Pirates and Raiders | 53829 | [53829-total-war-rome-ii-culture-pack-pirates-and-raiders.json](./53829-total-war-rome-ii-culture-pack-pirates-and-raiders.json) |
+| Total War: Rome II - Emperor Edition | 29770 | [29770-total-war-rome-ii-emperor-edition.json](./29770-total-war-rome-ii-emperor-edition.json) |
 | Total War: Rome II - Empire Divided | 76425 | [76425-total-war-rome-ii-empire-divided.json](./76425-total-war-rome-ii-empire-divided.json) |
 | Total War: Rome II - Hannibal at the Gates Campaign Pack | 167824 | [167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json](./167824-total-war-rome-ii-hannibal-at-the-gates-campaign-pack.json) |
 | Total War: Rome II - Imperator Augustus Campaign Pack | 167822 | [167822-total-war-rome-ii-imperator-augustus-campaign-pack.json](./167822-total-war-rome-ii-imperator-augustus-campaign-pack.json) |
@@ -30027,6 +30036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Trip | 179462 | [179462-train-trip.json](./179462-train-trip.json) |
 | Train Tycoon | 152866 | [152866-train-tycoon.json](./152866-train-tycoon.json) |
 | Train Valley | 12638 | [12638-train-valley.json](./12638-train-valley.json) |
+| Train Valley 2 | 29272 | [29272-train-valley-2.json](./29272-train-valley-2.json) |
 | Train Valley 2: Community Edition | 275996 | [275996-train-valley-2-community-edition.json](./275996-train-valley-2-community-edition.json) |
 | Train Valley 2: Editor's Bulletin | 243140 | [243140-train-valley-2-editors-bulletin.json](./243140-train-valley-2-editors-bulletin.json) |
 | Train Valley 2: Japanese Trails | 367283 | [367283-train-valley-2-japanese-trails.json](./367283-train-valley-2-japanese-trails.json) |
@@ -32789,6 +32799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico 3 | 2594 | [2594-tropico-3.json](./2594-tropico-3.json) |
 | Tropico 3: Absolute Power | 8926 | [8926-tropico-3-absolute-power.json](./8926-tropico-3-absolute-power.json) |
 | Tropico 3: Gold Edition | 51799 | [51799-tropico-3-gold-edition.json](./51799-tropico-3-gold-edition.json) |
+| Tropico 3: Steam Special Edition | 29195 | [29195-tropico-3-steam-special-edition.json](./29195-tropico-3-steam-special-edition.json) |
 | Tropico 4 Collector's Bundle | 50872 | [50872-tropico-4-collectors-bundle.json](./50872-tropico-4-collectors-bundle.json) |
 | Tropico 4: Apocalypse | 53848 | [53848-tropico-4-apocalypse.json](./53848-tropico-4-apocalypse.json) |
 | Tropico 4: Complete DLC Pack | 155315 | [155315-tropico-4-complete-dlc-pack.json](./155315-tropico-4-complete-dlc-pack.json) |
@@ -33165,6 +33176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Remembrance: Kioku no Kakera | 64241 | [64241-true-remembrance-kioku-no-kakera.json](./64241-true-remembrance-kioku-no-kakera.json) |
 | True Reporter | 110292 | [110292-true-reporter.json](./110292-true-reporter.json) |
 | True Reporter: Mystery of Mistwood | 278000 | [278000-true-reporter-mystery-of-mistwood.json](./278000-true-reporter-mystery-of-mistwood.json) |
+| True Skate | 29010 | [29010-true-skate.json](./29010-true-skate.json) |
 | True Speed | 223880 | [223880-true-speed.json](./223880-true-speed.json) |
 | True Stalker | 280962 | [280962-true-stalker.json](./280962-true-stalker.json) |
 | True Surf | 110577 | [110577-true-surf.json](./110577-true-surf.json) |
@@ -33996,6 +34008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turgor Pressure | 177318 | [177318-turgor-pressure.json](./177318-turgor-pressure.json) |
 | Turgul: Rapid Fighting | 31028 | [31028-turgul-rapid-fighting.json](./31028-turgul-rapid-fighting.json) |
 | Turi: Kaapora | 255483 | [255483-turi-kaapora.json](./255483-turi-kaapora.json) |
+| Turing Complete | 173321 | [173321-turing-complete.json](./173321-turing-complete.json) |
 | Turing Quest | 241142 | [241142-turing-quest.json](./241142-turing-quest.json) |
 | Turing Sandbox | 400448 | [400448-turing-sandbox.json](./400448-turing-sandbox.json) |
 | Turing Trial | 183987 | [183987-turing-trial.json](./183987-turing-trial.json) |
