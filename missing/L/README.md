@@ -3190,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Bricktales | 279388 | [279388-lego-bricktales.json](./279388-lego-bricktales.json) |
 | LEGO Builder Bots | 145369 | [145369-lego-builder-bots.json](./145369-lego-builder-bots.json) |
 | LEGO Builder's Journey | 127985 | [127985-lego-builders-journey.json](./127985-lego-builders-journey.json) |
+| LEGO Chess | 19004 | [19004-lego-chess.json](./19004-lego-chess.json) |
 | LEGO City Fire Hose Frenzy | 61624 | [61624-lego-city-fire-hose-frenzy.json](./61624-lego-city-fire-hose-frenzy.json) |
 | LEGO City Game | 89145 | [89145-lego-city-game.json](./89145-lego-city-game.json) |
 | LEGO City Rapid Rescue | 78191 | [78191-lego-city-rapid-rescue.json](./78191-lego-city-rapid-rescue.json) |
@@ -3199,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO City Undercover: Limited Edition | 83794 | [83794-lego-city-undercover-limited-edition.json](./83794-lego-city-undercover-limited-edition.json) |
 | LEGO City Undercover: The Chase Begins | 6837 | [6837-lego-city-undercover-the-chase-begins.json](./6837-lego-city-undercover-the-chase-begins.json) |
 | LEGO City: My City 2 | 193832 | [193832-lego-city-my-city-2.json](./193832-lego-city-my-city-2.json) |
+| LEGO Creator | 19005 | [19005-lego-creator.json](./19005-lego-creator.json) |
 | LEGO Creator: Harry Potter | 66631 | [66631-lego-creator-harry-potter.json](./66631-lego-creator-harry-potter.json) |
 | LEGO Creator: Harry Potter and the Chamber of Secrets | 78288 | [78288-lego-creator-harry-potter-and-the-chamber-of-secrets.json](./78288-lego-creator-harry-potter-and-the-chamber-of-secrets.json) |
 | LEGO Creator: Knights' Kingdom | 6499 | [6499-lego-creator-knights-kingdom.json](./6499-lego-creator-knights-kingdom.json) |
@@ -8360,6 +8362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Day | 236739 | [236739-lost-day.json](./236739-lost-day.json) |
 | Lost Days 0: Queen's Dream | 304989 | [304989-lost-days-0-queens-dream.json](./304989-lost-days-0-queens-dream.json) |
 | Lost Deltarune | 408795 | [408795-lost-deltarune.json](./408795-lost-deltarune.json) |
+| Lost Dimension | 19099 | [19099-lost-dimension.json](./19099-lost-dimension.json) |
 | Lost Direction | 229765 | [229765-lost-direction.json](./229765-lost-direction.json) |
 | Lost Diskettes Vol. 1 | 318327 | [318327-lost-diskettes-vol-1.json](./318327-lost-diskettes-vol-1.json) |
 | Lost Dooors | 383641 | [383641-lost-dooors.json](./383641-lost-dooors.json) |
