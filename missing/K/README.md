@@ -2995,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KimiKiss: Chotto Matome Gekijou | 411517 | [411517-kimikiss-chotto-matome-gekijou.json](./411517-kimikiss-chotto-matome-gekijou.json) |
 | KimiKiss: Chotto Omake Gekijou | 411521 | [411521-kimikiss-chotto-omake-gekijou.json](./411521-kimikiss-chotto-omake-gekijou.json) |
 | KimiMuzi: The Merciless Queen of the Pigs | 381774 | [381774-kimimuzi-the-merciless-queen-of-the-pigs.json](./381774-kimimuzi-the-merciless-queen-of-the-pigs.json) |
+| KimiNozo Duelist | 401983 | [401983-kiminozo-duelist.json](./401983-kiminozo-duelist.json) |
 | KimiSuta: Kimi to Study | 287899 | [287899-kimisuta-kimi-to-study.json](./287899-kimisuta-kimi-to-study.json) |
 | Kimmie Jong on Nukes the World | 110989 | [110989-kimmie-jong-on-nukes-the-world.json](./110989-kimmie-jong-on-nukes-the-world.json) |
 | Kimmy | 29331 | [29331-kimmy.json](./29331-kimmy.json) |
@@ -6608,6 +6609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurusuku Shichauzo | 98054 | [98054-kurusuku-shichauzo.json](./98054-kurusuku-shichauzo.json) |
 | Kuruwa: Yuukyou Kan Yoiyamizakura Dai Ni Shou | 97287 | [97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json](./97287-kuruwa-yuukyou-kan-yoiyamizakura-dai-ni-shou.json) |
 | Kusan: City of Wolves | 167419 | [167419-kusan-city-of-wolves.json](./167419-kusan-city-of-wolves.json) |
+| Kusari Doi: In October The Rain Never Stopped | 401991 | [401991-kusari-doi-in-october-the-rain-never-stopped.json](./401991-kusari-doi-in-october-the-rain-never-stopped.json) |
 | Kusari Kingdom | 190974 | [190974-kusari-kingdom.json](./190974-kusari-kingdom.json) |
 | Kusarihime: Euthanasia | 138804 | [138804-kusarihime-euthanasia.json](./138804-kusarihime-euthanasia.json) |
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
