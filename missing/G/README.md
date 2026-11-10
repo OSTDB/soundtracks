@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Revolution | 25345 | [25345-galactic-revolution.json](./25345-galactic-revolution.json) |
 | Galactic Rivalry | 25761 | [25761-galactic-rivalry.json](./25761-galactic-rivalry.json) |
 | Galactic Ruler | 126926 | [126926-galactic-ruler.json](./126926-galactic-ruler.json) |
+| Galactic Rush | 399554 | [399554-galactic-rush.json](./399554-galactic-rush.json) |
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
 | Galactic Seals Survivors | 398169 | [398169-galactic-seals-survivors.json](./398169-galactic-seals-survivors.json) |
 | Galactic Shipwright | 75399 | [75399-galactic-shipwright.json](./75399-galactic-shipwright.json) |
@@ -1983,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Match | 134890 | [134890-garden-match.json](./134890-garden-match.json) |
 | Garden Maze | 246539 | [246539-garden-maze.json](./246539-garden-maze.json) |
 | Garden of Aiden | 295843 | [295843-garden-of-aiden.json](./295843-garden-of-aiden.json) |
+| Garden of Being | 399319 | [399319-garden-of-being.json](./399319-garden-of-being.json) |
 | Garden of Butterflies | 353283 | [353283-garden-of-butterflies.json](./353283-garden-of-butterflies.json) |
 | Garden of Coloured Lights | 107235 | [107235-garden-of-coloured-lights.json](./107235-garden-of-coloured-lights.json) |
 | Garden of Earthly Delights | 290806 | [290806-garden-of-earthly-delights.json](./290806-garden-of-earthly-delights.json) |
@@ -4914,6 +4916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gitaroo Man | 404052 | [404052-gitaroo-man.json](./404052-gitaroo-man.json) |
 | Gitaroo Man Lives! | 42813 | [42813-gitaroo-man-lives.json](./42813-gitaroo-man-lives.json) |
 | Giten Megami Tensei: Tokyo Mokushiroku | 103378 | [103378-giten-megami-tensei-tokyo-mokushiroku.json](./103378-giten-megami-tensei-tokyo-mokushiroku.json) |
+| Giten Megami Tensei: Tokyo Revelation | 399320 | [399320-giten-megami-tensei-tokyo-revelation.json](./399320-giten-megami-tensei-tokyo-revelation.json) |
 | Give 1 Bit to GustavoGek | 365369 | [365369-give-1-bit-to-gustavogek.json](./365369-give-1-bit-to-gustavogek.json) |
 | Give a Dam! | 248066 | [248066-give-a-dam.json](./248066-give-a-dam.json) |
 | Give an imp a chance! | 330931 | [330931-give-an-imp-a-chance.json](./330931-give-an-imp-a-chance.json) |
@@ -7277,6 +7280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goner In The Town | 320037 | [320037-goner-in-the-town.json](./320037-goner-in-the-town.json) |
 | Goners | 401074 | [401074-goners.json](./401074-goners.json) |
 | Gong | 280356 | [280356-gong.json](./280356-gong.json) |
+| Gong Go Girl | 399556 | [399556-gong-go-girl.json](./399556-gong-go-girl.json) |
 | Gong! Goal or No Goal | 209766 | [209766-gong-goal-or-no-goal.json](./209766-gong-goal-or-no-goal.json) |
 | Gongbat | 183011 | [183011-gongbat.json](./183011-gongbat.json) |
 | Gōngchéng Sānguózhì | 299373 | [299373-gongcheng-sanguozhi.json](./299373-gongcheng-sanguozhi.json) |
@@ -9326,6 +9330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed Realm | 278991 | [278991-greed-realm.json](./278991-greed-realm.json) |
 | Greed School Test | 231606 | [231606-greed-school-test.json](./231606-greed-school-test.json) |
 | Greed Series | 289186 | [289186-greed-series.json](./289186-greed-series.json) |
+| Greed Slash | 399334 | [399334-greed-slash.json](./399334-greed-slash.json) |
 | Greed Stays Home | 325971 | [325971-greed-stays-home.json](./325971-greed-stays-home.json) |
 | Greed: Black Border | 10377 | [10377-greed-black-border.json](./10377-greed-black-border.json) |
 | Greed: The Mad Scientist | 113068 | [113068-greed-the-mad-scientist.json](./113068-greed-the-mad-scientist.json) |
@@ -10427,6 +10432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Zero: Texas - Nuclear Edition | 187759 | [187759-ground-zero-texas-nuclear-edition.json](./187759-ground-zero-texas-nuclear-edition.json) |
 | Ground-Unbound | 175793 | [175793-ground-unbound.json](./175793-ground-unbound.json) |
 | GroundBreaker | 375848 | [375848-groundbreaker.json](./375848-groundbreaker.json) |
+| Grounded | 399496 | [399496-grounded.json](./399496-grounded.json) |
 | Grounded 2: Beat the Heat | 398431 | [398431-grounded-2-beat-the-heat.json](./398431-grounded-2-beat-the-heat.json) |
 | Grounded 2: Into the Abyss | 413063 | [413063-grounded-2-into-the-abyss.json](./413063-grounded-2-into-the-abyss.json) |
 | Grounded Sim | 321216 | [321216-grounded-sim.json](./321216-grounded-sim.json) |
@@ -10436,6 +10442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groundhog Life | 183241 | [183241-groundhog-life.json](./183241-groundhog-life.json) |
 | Grounds of Glory | 114873 | [114873-grounds-of-glory.json](./114873-grounds-of-glory.json) |
 | Groundskeeper | 183402 | [183402-groundskeeper.json](./183402-groundskeeper.json) |
+| Groundskeeper | 399329 | [399329-groundskeeper.json](./399329-groundskeeper.json) |
 | Groundskeeper 2 | 22101 | [22101-groundskeeper-2.json](./22101-groundskeeper-2.json) |
 | Groundwork Simulator | 421457 | [421457-groundwork-simulator.json](./421457-groundwork-simulator.json) |
 | GroundZero | 276666 | [276666-groundzero.json](./276666-groundzero.json) |
@@ -10708,6 +10715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
 | Guardian Codex | 24404 | [24404-guardian-codex.json](./24404-guardian-codex.json) |
 | Guardian Cross | 65051 | [65051-guardian-cross.json](./65051-guardian-cross.json) |
+| Guardian Cry | 399564 | [399564-guardian-cry.json](./399564-guardian-cry.json) |
 | Guardian Deity | 284165 | [284165-guardian-deity.json](./284165-guardian-deity.json) |
 | Guardian Demon | 376413 | [376413-guardian-demon.json](./376413-guardian-demon.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
@@ -11586,6 +11594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunfinger | 344296 | [344296-gunfinger.json](./344296-gunfinger.json) |
 | Gunfire Reborn | 134483 | [134483-gunfire-reborn.json](./134483-gunfire-reborn.json) |
 | Gunfire Reborn: Artisan and Magician | 270764 | [270764-gunfire-reborn-artisan-and-magician.json](./270764-gunfire-reborn-artisan-and-magician.json) |
+| Gunfire Reborn: Echoes From Primal Grove | 399566 | [399566-gunfire-reborn-echoes-from-primal-grove.json](./399566-gunfire-reborn-echoes-from-primal-grove.json) |
 | Gunfire Reborn: Realm of Frost and Inkwash | 316833 | [316833-gunfire-reborn-realm-of-frost-and-inkwash.json](./316833-gunfire-reborn-realm-of-frost-and-inkwash.json) |
 | Gunfire Reborn: Visitors of Spirit Realm | 213979 | [213979-gunfire-reborn-visitors-of-spirit-realm.json](./213979-gunfire-reborn-visitors-of-spirit-realm.json) |
 | Gunflare Epoch | 372968 | [372968-gunflare-epoch.json](./372968-gunflare-epoch.json) |
