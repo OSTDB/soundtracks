@@ -5802,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Knight | 64261 | [64261-invincible-knight.json](./64261-invincible-knight.json) |
 | Invincible Little Warrior | 247255 | [247255-invincible-little-warrior.json](./247255-invincible-little-warrior.json) |
 | Invincible Medusa | 231359 | [231359-invincible-medusa.json](./231359-invincible-medusa.json) |
+| Invincible Presents: Atom Eve | 260366 | [260366-invincible-presents-atom-eve.json](./260366-invincible-presents-atom-eve.json) |
 | Invincible Tiger: The Legend of Han Tao | 15937 | [15937-invincible-tiger-the-legend-of-han-tao.json](./15937-invincible-tiger-the-legend-of-han-tao.json) |
 | Invincible Vs: Undercover and Overdressed - Skin Bundle | 411382 | [411382-invincible-vs-undercover-and-overdressed-skin-bundle.json](./411382-invincible-vs-undercover-and-overdressed-skin-bundle.json) |
 | Invincible Vs.: Bots & Monsters - Skin Bundle | 411380 | [411380-invincible-vs-bots-and-monsters-skin-bundle.json](./411380-invincible-vs-bots-and-monsters-skin-bundle.json) |
@@ -6134,6 +6135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Man and X-O Manowar in Heavy Metal | 307064 | [307064-iron-man-and-x-o-manowar-in-heavy-metal.json](./307064-iron-man-and-x-o-manowar-in-heavy-metal.json) |
 | Iron Man: Aerial Assault | 69167 | [69167-iron-man-aerial-assault.json](./69167-iron-man-aerial-assault.json) |
 | Iron Man: Mushroom Avenger | 308982 | [308982-iron-man-mushroom-avenger.json](./308982-iron-man-mushroom-avenger.json) |
+| Iron Marines | 18976 | [18976-iron-marines.json](./18976-iron-marines.json) |
 | Iron Marines Invasion | 216257 | [216257-iron-marines-invasion.json](./216257-iron-marines-invasion.json) |
 | Iron Marines: Hero Ajax | 395272 | [395272-iron-marines-hero-ajax.json](./395272-iron-marines-hero-ajax.json) |
 | Iron Marines: Hero Blue Dragon | 395274 | [395274-iron-marines-hero-blue-dragon.json](./395274-iron-marines-hero-blue-dragon.json) |
@@ -6305,6 +6307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is It Okay to Trust a Talkative Turtle? | 419091 | [419091-is-it-okay-to-trust-a-talkative-turtle.json](./419091-is-it-okay-to-trust-a-talkative-turtle.json) |
 | Is It That Deep, Bro? | 141982 | [141982-is-it-that-deep-bro.json](./141982-is-it-that-deep-bro.json) |
 | Is it True? Castle True-or-False Quiz | 385096 | [385096-is-it-true-castle-true-or-false-quiz.json](./385096-is-it-true-castle-true-or-false-quiz.json) |
+| Is It Woke? | 316581 | [316581-is-it-woke.json](./316581-is-it-woke.json) |
 | Is It Wrong To Kiss The Bracken?! | 286893 | [286893-is-it-wrong-to-kiss-the-bracken.json](./286893-is-it-wrong-to-kiss-the-bracken.json) |
 | Is It Wrong to Repay the Debt in a Dungeon? | 220040 | [220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json](./220040-is-it-wrong-to-repay-the-debt-in-a-dungeon.json) |
 | Is It Wrong to Try to Pick Up Girls in a Dungeon? Infinite Combate | 47160 | [47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json](./47160-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-infinite-combate.json) |
