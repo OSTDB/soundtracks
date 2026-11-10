@@ -3779,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marginal #4: Idol of Supernova | 61943 | [61943-marginal-4-idol-of-supernova.json](./61943-marginal-4-idol-of-supernova.json) |
 | Marginal act | 93778 | [93778-marginal-act.json](./93778-marginal-act.json) |
 | Marginal Break | 236260 | [236260-marginal-break.json](./236260-marginal-break.json) |
+| Marginalia | 124196 | [124196-marginalia.json](./124196-marginalia.json) |
 | Marginalia Hero | 177701 | [177701-marginalia-hero.json](./177701-marginalia-hero.json) |
 | Margo | 214911 | [214911-margo.json](./214911-margo.json) |
 | Margo: On The Brink | 223373 | [223373-margo-on-the-brink.json](./223373-margo-on-the-brink.json) |
@@ -5571,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mastermind Classic | 135001 | [135001-mastermind-classic.json](./135001-mastermind-classic.json) |
 | Mastermine | 155924 | [155924-mastermine.json](./155924-mastermine.json) |
 | Masternoid | 254402 | [254402-masternoid.json](./254402-masternoid.json) |
+| Masteroid | 124232 | [124232-masteroid.json](./124232-masteroid.json) |
 | Masterpack for Doom II | 300701 | [300701-masterpack-for-doom-ii.json](./300701-masterpack-for-doom-ii.json) |
 | Masterpiece | 351033 | [351033-masterpiece.json](./351033-masterpiece.json) |
 | Masterpiece Mansion | 209553 | [209553-masterpiece-mansion.json](./209553-masterpiece-mansion.json) |
@@ -14267,6 +14269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misco Jones: En busca de la Vah-Ka perdida | 421588 | [421588-misco-jones-en-busca-de-la-vah-ka-perdida.json](./421588-misco-jones-en-busca-de-la-vah-ka-perdida.json) |
 | Miscreant | 422649 | [422649-miscreant.json](./422649-miscreant.json) |
 | Miscreated: Canyonlands | 171581 | [171581-miscreated-canyonlands.json](./171581-miscreated-canyonlands.json) |
+| Miscreation: Evolve Your Creature! | 123827 | [123827-miscreation-evolve-your-creature.json](./123827-miscreation-evolve-your-creature.json) |
 | Miscrits: Volcano Island | 98465 | [98465-miscrits-volcano-island.json](./98465-miscrits-volcano-island.json) |
 | Miscrits: World of Creatures | 370628 | [370628-miscrits-world-of-creatures.json](./370628-miscrits-world-of-creatures.json) |
 | Miscrits: World of Creatures | 98466 | [98466-miscrits-world-of-creatures.json](./98466-miscrits-world-of-creatures.json) |
@@ -16496,6 +16499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl and the Mysterious Adventure: Remastered Edition | 335768 | [335768-monster-girl-and-the-mysterious-adventure-remastered-edition.json](./335768-monster-girl-and-the-mysterious-adventure-remastered-edition.json) |
 | Monster Girl Breeder | 160205 | [160205-monster-girl-breeder.json](./160205-monster-girl-breeder.json) |
 | Monster Girl Clinic | 412305 | [412305-monster-girl-clinic.json](./412305-monster-girl-clinic.json) |
+| Monster Girl Club Bifrost | 123932 | [123932-monster-girl-club-bifrost.json](./123932-monster-girl-club-bifrost.json) |
 | Monster Girl Dormitory | 212973 | [212973-monster-girl-dormitory.json](./212973-monster-girl-dormitory.json) |
 | Monster Girl Dreams | 138832 | [138832-monster-girl-dreams.json](./138832-monster-girl-dreams.json) |
 | Monster Girl Dungeon | 166214 | [166214-monster-girl-dungeon.json](./166214-monster-girl-dungeon.json) |
@@ -17837,6 +17841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moreau | 111347 | [111347-moreau.json](./111347-moreau.json) |
 | Morels: Homestead | 196373 | [196373-morels-homestead.json](./196373-morels-homestead.json) |
 | Morels: Out of this World | 400984 | [400984-morels-out-of-this-world.json](./400984-morels-out-of-this-world.json) |
+| Morels: The Hunt | 123905 | [123905-morels-the-hunt.json](./123905-morels-the-hunt.json) |
 | Morels: The Hunt 2 | 276531 | [276531-morels-the-hunt-2.json](./276531-morels-the-hunt-2.json) |
 | MoreMore | 39953 | [39953-moremore.json](./39953-moremore.json) |
 | Morendar: Goblin Slayer | 50758 | [50758-morendar-goblin-slayer.json](./50758-morendar-goblin-slayer.json) |
@@ -19906,6 +19911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mugamuchuu | 150166 | [150166-mugamuchuu.json](./150166-mugamuchuu.json) |
 | Mugen Abisu | 190959 | [190959-mugen-abisu.json](./190959-mugen-abisu.json) |
 | Mugen Journey | 192736 | [192736-mugen-journey.json](./192736-mugen-journey.json) |
+| Mugen no Frontier: Super Robot Taisen OG Saga - Exceed | 124069 | [124069-mugen-no-frontier-super-robot-taisen-og-saga-exceed.json](./124069-mugen-no-frontier-super-robot-taisen-og-saga-exceed.json) |
 | Mugen no Shinzou | 167613 | [167613-mugen-no-shinzou.json](./167613-mugen-no-shinzou.json) |
 | Mugen no Shinzou II | 246656 | [246656-mugen-no-shinzou-ii.json](./246656-mugen-no-shinzou-ii.json) |
 | Mugen no Shinzou III | 281031 | [281031-mugen-no-shinzou-iii.json](./281031-mugen-no-shinzou-iii.json) |
