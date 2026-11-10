@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Homicide | 409116 | [409116-ragdoll-homicide.json](./409116-ragdoll-homicide.json) |
 | Ragdoll House Wrecker 3D | 96820 | [96820-ragdoll-house-wrecker-3d.json](./96820-ragdoll-house-wrecker-3d.json) |
 | Ragdoll Kanojo | 174117 | [174117-ragdoll-kanojo.json](./174117-ragdoll-kanojo.json) |
+| Ragdoll Kart Simulator 2026 | 420647 | [420647-ragdoll-kart-simulator-2026.json](./420647-ragdoll-kart-simulator-2026.json) |
 | Ragdoll Knight | 158911 | [158911-ragdoll-knight.json](./158911-ragdoll-knight.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
 | Ragdoll Laser Battle | 163979 | [163979-ragdoll-laser-battle.json](./163979-ragdoll-laser-battle.json) |
@@ -3087,6 +3088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Gangsters Auto Theft | 99202 | [99202-real-gangsters-auto-theft.json](./99202-real-gangsters-auto-theft.json) |
 | Real Girl 3: Virtual Sex | 372120 | [372120-real-girl-3-virtual-sex.json](./372120-real-girl-3-virtual-sex.json) |
 | Real Girls: Burning Whisper | 417278 | [417278-real-girls-burning-whisper.json](./417278-real-girls-burning-whisper.json) |
+| Real Girls: Midnight Desire | 420648 | [420648-real-girls-midnight-desire.json](./420648-real-girls-midnight-desire.json) |
 | Real Grand Gangster Mafia war | 231914 | [231914-real-grand-gangster-mafia-war.json](./231914-real-grand-gangster-mafia-war.json) |
 | Real Hair Salon | 95304 | [95304-real-hair-salon.json](./95304-real-hair-salon.json) |
 | Real Hentai | 323099 | [323099-real-hentai.json](./323099-real-hentai.json) |
@@ -7278,6 +7280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Reunion | 295308 | [295308-rhythm-reunion.json](./295308-rhythm-reunion.json) |
 | Rhythm Rewind | 177995 | [177995-rhythm-rewind.json](./177995-rhythm-rewind.json) |
 | Rhythm Road | 180540 | [180540-rhythm-road.json](./180540-rhythm-road.json) |
+| Rhythm Roll | 420646 | [420646-rhythm-roll.json](./420646-rhythm-roll.json) |
 | Rhythm Rush! | 29019 | [29019-rhythm-rush.json](./29019-rhythm-rush.json) |
 | Rhythm Slice | 417971 | [417971-rhythm-slice.json](./417971-rhythm-slice.json) |
 | Rhythm Spirit | 66486 | [66486-rhythm-spirit.json](./66486-rhythm-spirit.json) |
@@ -10646,6 +10649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Trooper: Quartz Zone Massacre | 21262 | [21262-rogue-trooper-quartz-zone-massacre.json](./21262-rogue-trooper-quartz-zone-massacre.json) |
 | Rogue Trooper: Redux | 27519 | [27519-rogue-trooper-redux.json](./27519-rogue-trooper-redux.json) |
 | Rogue Valley | 236910 | [236910-rogue-valley.json](./236910-rogue-valley.json) |
+| Rogue Vault | 420645 | [420645-rogue-vault.json](./420645-rogue-vault.json) |
 | Rogue Vector | 410431 | [410431-rogue-vector.json](./410431-rogue-vector.json) |
 | Rogue Warlords | 199340 | [199340-rogue-warlords.json](./199340-rogue-warlords.json) |
 | Rogue Warrior | 564 | [564-rogue-warrior.json](./564-rogue-warrior.json) |
@@ -11490,6 +11494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roomka | 292231 | [292231-roomka.json](./292231-roomka.json) |
 | Roomli | 203363 | [203363-roomli.json](./203363-roomli.json) |
 | Roommania #203 | 94027 | [94027-roommania-203.json](./94027-roommania-203.json) |
+| Roommate 3: Ryouko Kaze no Kagayaku Asa ni | 420462 | [420462-roommate-3-ryouko-kaze-no-kagayaku-asa-ni.json](./420462-roommate-3-ryouko-kaze-no-kagayaku-asa-ni.json) |
 | Roommate: Asami - Oku-sama wa Joshikousei | 330582 | [330582-roommate-asami-oku-sama-wa-joshikousei.json](./330582-roommate-asami-oku-sama-wa-joshikousei.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
 | Roommates | 9885 | [9885-roommates.json](./9885-roommates.json) |
