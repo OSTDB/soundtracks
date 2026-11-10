@@ -3219,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basic Kanji Meaning Quiz | 409668 | [409668-basic-kanji-meaning-quiz.json](./409668-basic-kanji-meaning-quiz.json) |
 | Basic Math | 17258 | [17258-basic-math.json](./17258-basic-math.json) |
 | Basic Nyuumon | 47549 | [47549-basic-nyuumon.json](./47549-basic-nyuumon.json) |
+| Basic Parade or: "you should be depressed." | 417242 | [417242-basic-parade-or-you-should-be-depressed.json](./417242-basic-parade-or-you-should-be-depressed.json) |
 | Basic Platformer | 305908 | [305908-basic-platformer.json](./305908-basic-platformer.json) |
 | Basic Programming | 54794 | [54794-basic-programming.json](./54794-basic-programming.json) |
 | Basic Rogue | 169029 | [169029-basic-rogue.json](./169029-basic-rogue.json) |
@@ -3930,6 +3931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Frogs | 63198 | [63198-battle-frogs.json](./63198-battle-frogs.json) |
 | Battle Frontier | 380015 | [380015-battle-frontier.json](./380015-battle-frontier.json) |
 | Battle Fuck with Succubi | 82964 | [82964-battle-fuck-with-succubi.json](./82964-battle-fuck-with-succubi.json) |
+| Battle Gang | 417234 | [417234-battle-gang.json](./417234-battle-gang.json) |
 | Battle Garegga | 46796 | [46796-battle-garegga.json](./46796-battle-garegga.json) |
 | Battle Garegga Rev.2016 | 26443 | [26443-battle-garegga-rev-2016.json](./26443-battle-garegga-rev-2016.json) |
 | Battle Garegga Rev.2016: Premium Edition | 166996 | [166996-battle-garegga-rev-2016-premium-edition.json](./166996-battle-garegga-rev-2016-premium-edition.json) |
