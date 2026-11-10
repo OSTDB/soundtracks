@@ -6153,6 +6153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Surffer | 150768 | [150768-no-more-surffer.json](./150768-no-more-surffer.json) |
 | No More Work for Ito | 373056 | [373056-no-more-work-for-ito.json](./373056-no-more-work-for-ito.json) |
 | No Mosaic Girls With Sess-AI 2.0 | 346008 | [346008-no-mosaic-girls-with-sess-ai-2-0.json](./346008-no-mosaic-girls-with-sess-ai-2-0.json) |
+| No Murders in Grimwick | 420464 | [420464-no-murders-in-grimwick.json](./420464-no-murders-in-grimwick.json) |
 | No Name Village | 237243 | [237243-no-name-village.json](./237243-no-name-village.json) |
 | No Nap November | 383092 | [383092-no-nap-november.json](./383092-no-nap-november.json) |
 | No Need for Flowers | 334338 | [334338-no-need-for-flowers.json](./334338-no-need-for-flowers.json) |
@@ -7515,11 +7516,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Odessa | 157355 | [157355-nova-odessa.json](./157355-nova-odessa.json) |
 | Nova Odessa: The Demon Trainer | 202672 | [202672-nova-odessa-the-demon-trainer.json](./202672-nova-odessa-the-demon-trainer.json) |
 | Nova Odessa: The Strange Tower | 170659 | [170659-nova-odessa-the-strange-tower.json](./170659-nova-odessa-the-strange-tower.json) |
+| Nova Origin | 420615 | [420615-nova-origin.json](./420615-nova-origin.json) |
 | Nova Parkour | 137945 | [137945-nova-parkour.json](./137945-nova-parkour.json) |
 | Nova Patria | 353828 | [353828-nova-patria.json](./353828-nova-patria.json) |
 | Nova Rally | 373246 | [373246-nova-rally.json](./373246-nova-rally.json) |
 | Nova Roma | 252867 | [252867-nova-roma.json](./252867-nova-roma.json) |
 | Nova Rush | 399357 | [399357-nova-rush.json](./399357-nova-rush.json) |
+| Nova Slash | 420619 | [420619-nova-slash.json](./420619-nova-slash.json) |
 | Nova Slash: Unparalleled Power | 195608 | [195608-nova-slash-unparalleled-power.json](./195608-nova-slash-unparalleled-power.json) |
 | Nova Sol Marine | 380477 | [380477-nova-sol-marine.json](./380477-nova-sol-marine.json) |
 | Nova Squadron | 215624 | [215624-nova-squadron.json](./215624-nova-squadron.json) |
