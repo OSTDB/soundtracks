@@ -401,6 +401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Quick Matches | 356440 | [356440-a-few-quick-matches.json](./356440-a-few-quick-matches.json) |
 | A Field of Flowers | 357795 | [357795-a-field-of-flowers.json](./357795-a-field-of-flowers.json) |
 | A Fighter’s Nova: Mindara | 391811 | [391811-a-fighter-s-nova-mindara.json](./391811-a-fighter-s-nova-mindara.json) |
+| A Figment of Discord | 398063 | [398063-a-figment-of-discord.json](./398063-a-figment-of-discord.json) |
 | A Figure Met in a Shaded Wood | 59714 | [59714-a-figure-met-in-a-shaded-wood.json](./59714-a-figure-met-in-a-shaded-wood.json) |
 | A Final Delivery | 178903 | [178903-a-final-delivery.json](./178903-a-final-delivery.json) |
 | A Finality with Sheji | 113852 | [113852-a-finality-with-sheji.json](./113852-a-finality-with-sheji.json) |
@@ -477,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Flipping Cards | 407864 | [407864-a-game-about-flipping-cards.json](./407864-a-game-about-flipping-cards.json) |
 | A Game About Game Literacy | 407677 | [407677-a-game-about-game-literacy.json](./407677-a-game-about-game-literacy.json) |
 | A Game About Getting Bigger | 405583 | [405583-a-game-about-getting-bigger.json](./405583-a-game-about-getting-bigger.json) |
+| A Game About Going Up | 398050 | [398050-a-game-about-going-up.json](./398050-a-game-about-going-up.json) |
 | A Game About Having a Job | 389933 | [389933-a-game-about-having-a-job.json](./389933-a-game-about-having-a-job.json) |
 | A Game About Making Mosaics | 379507 | [379507-a-game-about-making-mosaics.json](./379507-a-game-about-making-mosaics.json) |
 | A Game About Media & Warfare | 419131 | [419131-a-game-about-media-and-warfare.json](./419131-a-game-about-media-and-warfare.json) |
@@ -5368,6 +5370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahmmit's Gate | 184944 | [184944-ahmmits-gate.json](./184944-ahmmits-gate.json) |
 | Ahnayro: The Dream World | 22377 | [22377-ahnayro-the-dream-world.json](./22377-ahnayro-the-dream-world.json) |
 | AHOD: All Hands on Deck! | 217244 | [217244-ahod-all-hands-on-deck.json](./217244-ahod-all-hands-on-deck.json) |
+| Ahoge Chanbara | 398034 | [398034-ahoge-chanbara.json](./398034-ahoge-chanbara.json) |
 | Ahorcado 3D: Hangedman 3D | 284207 | [284207-ahorcado-3d-hangedman-3d.json](./284207-ahorcado-3d-hangedman-3d.json) |
 | Ahoy | 153516 | [153516-ahoy.json](./153516-ahoy.json) |
 | Ahriman's Prophecy | 10009 | [10009-ahrimans-prophecy.json](./10009-ahrimans-prophecy.json) |
@@ -6987,6 +6990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alibito | 412444 | [412444-alibito.json](./412444-alibito.json) |
 | Alice | 195861 | [195861-alice.json](./195861-alice.json) |
 | Alice | 230182 | [230182-alice.json](./230182-alice.json) |
+| Alice | 398053 | [398053-alice.json](./398053-alice.json) |
 | Alice & Marisa | 270382 | [270382-alice-and-marisa.json](./270382-alice-and-marisa.json) |
 | Alice 49: Ep. 0 - Diamonds and Cream Puffs | 331923 | [331923-alice-49-ep-0-diamonds-and-cream-puffs.json](./331923-alice-49-ep-0-diamonds-and-cream-puffs.json) |
 | Alice and Smith: Complete Library | 52589 | [52589-alice-and-smith-complete-library.json](./52589-alice-and-smith-complete-library.json) |
@@ -7897,6 +7901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All World Pro Wrestling: Bonus Stories | 196054 | [196054-all-world-pro-wrestling-bonus-stories.json](./196054-all-world-pro-wrestling-bonus-stories.json) |
 | All World Pro Wrestling: Bonus Stories 2 | 210906 | [210906-all-world-pro-wrestling-bonus-stories-2.json](./210906-all-world-pro-wrestling-bonus-stories-2.json) |
 | All You Can Eat | 27896 | [27896-all-you-can-eat.json](./27896-all-you-can-eat.json) |
+| All You Can Fish! | 398056 | [398056-all-you-can-fish.json](./398056-all-you-can-fish.json) |
 | All You Can Play: 10 Action-Games | 137502 | [137502-all-you-can-play-10-action-games.json](./137502-all-you-can-play-10-action-games.json) |
 | All You Can Take | 289662 | [289662-all-you-can-take.json](./289662-all-you-can-take.json) |
 | All You Have to Do Is Click the Button | 352323 | [352323-all-you-have-to-do-is-click-the-button.json](./352323-all-you-have-to-do-is-click-the-button.json) |
@@ -10593,6 +10598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crossing | 2655 | [2655-animal-crossing.json](./2655-animal-crossing.json) |
 | Animal Crossing Deluxe | 357452 | [357452-animal-crossing-deluxe.json](./357452-animal-crossing-deluxe.json) |
 | Animal Crossing Neighborhood | 323890 | [323890-animal-crossing-neighborhood.json](./323890-animal-crossing-neighborhood.json) |
+| Animal Crossing PC Port | 398224 | [398224-animal-crossing-pc-port.json](./398224-animal-crossing-pc-port.json) |
 | Animal Crossing Plaza | 61463 | [61463-animal-crossing-plaza.json](./61463-animal-crossing-plaza.json) |
 | Animal Crossing-e: Animal Crossing | 354415 | [354415-animal-crossing-e-animal-crossing.json](./354415-animal-crossing-e-animal-crossing.json) |
 | Animal Crossing-e: D01 - Design Card: Shine Sprite | 354821 | [354821-animal-crossing-e-d01-design-card-shine-sprite.json](./354821-animal-crossing-e-d01-design-card-shine-sprite.json) |
@@ -12055,6 +12061,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
 | AOD: Art of Defense | 150369 | [150369-aod-art-of-defense.json](./150369-aod-art-of-defense.json) |
 | AoF World Online | 36041 | [36041-aof-world-online.json](./36041-aof-world-online.json) |
+| Aoharu Distortion: Chapter.1 | 397975 | [397975-aoharu-distortion-chapter-1.json](./397975-aoharu-distortion-chapter-1.json) |
+| Aoharu Distortion: Chapter.2 | 397976 | [397976-aoharu-distortion-chapter-2.json](./397976-aoharu-distortion-chapter-2.json) |
+| Aoharu Distortion: Chapter.3 | 397978 | [397978-aoharu-distortion-chapter-3.json](./397978-aoharu-distortion-chapter-3.json) |
 | Aohri's Uprising | 254023 | [254023-aohris-uprising.json](./254023-aohris-uprising.json) |
 | Aoi | 226233 | [226233-aoi.json](./226233-aoi.json) |
 | Aoi Blink | 42093 | [42093-aoi-blink.json](./42093-aoi-blink.json) |
@@ -17719,7 +17728,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -19468,6 +19476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azada: In Libro Collector's Edition | 74465 | [74465-azada-in-libro-collectors-edition.json](./74465-azada-in-libro-collectors-edition.json) |
 | Azagthoth | 313860 | [313860-azagthoth.json](./313860-azagthoth.json) |
 | Azalea | 140830 | [140830-azalea.json](./140830-azalea.json) |
+| AzAlice | 398078 | [398078-azalice.json](./398078-azalice.json) |
 | Azalta | 165515 | [165515-azalta.json](./165515-azalta.json) |
 | Azangara | 77375 | [77375-azangara.json](./77375-azangara.json) |
 | Azar | 186767 | [186767-azar.json](./186767-azar.json) |
