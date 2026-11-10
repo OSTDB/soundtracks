@@ -2182,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garters & Ghouls | 54047 | [54047-garters-and-ghouls.json](./54047-garters-and-ghouls.json) |
 | Gartic | 50158 | [50158-gartic.json](./50158-gartic.json) |
 | Gartic on Stream | 185152 | [185152-gartic-on-stream.json](./185152-gartic-on-stream.json) |
+| Gartic Rush | 421762 | [421762-gartic-rush.json](./421762-gartic-rush.json) |
 | Gartic Show | 184285 | [184285-gartic-show.json](./184285-gartic-show.json) |
 | Gartic.io | 191695 | [191695-gartic-io.json](./191695-gartic-io.json) |
 | Gartu in the Kindergarten | 41490 | [41490-gartu-in-the-kindergarten.json](./41490-gartu-in-the-kindergarten.json) |
@@ -5456,6 +5457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory's Fools | 204033 | [204033-glorys-fools.json](./204033-glorys-fools.json) |
 | Glory's Witness | 161407 | [161407-glorys-witness.json](./161407-glorys-witness.json) |
 | Glossolalia | 396992 | [396992-glossolalia.json](./396992-glossolalia.json) |
+| Gloutony | 421750 | [421750-gloutony.json](./421750-gloutony.json) |
 | Glove on Fight | 56983 | [56983-glove-on-fight.json](./56983-glove-on-fight.json) |
 | Glove On Fight 2: Gleam of Force | 56984 | [56984-glove-on-fight-2-gleam-of-force.json](./56984-glove-on-fight-2-gleam-of-force.json) |
 | Glove Pilot | 380537 | [380537-glove-pilot.json](./380537-glove-pilot.json) |
@@ -6697,6 +6699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Lender Manager | 191375 | [191375-gold-lender-manager.json](./191375-gold-lender-manager.json) |
 | Gold Lining | 320059 | [320059-gold-lining.json](./320059-gold-lining.json) |
 | Gold Magic 800 | 109897 | [109897-gold-magic-800.json](./109897-gold-magic-800.json) |
+| Gold Mermaid | 421773 | [421773-gold-mermaid.json](./421773-gold-mermaid.json) |
 | Gold Mine | 92929 | [92929-gold-mine.json](./92929-gold-mine.json) |
 | Gold Mine Dash | 311450 | [311450-gold-mine-dash.json](./311450-gold-mine-dash.json) |
 | Gold Miner | 173064 | [173064-gold-miner.json](./173064-gold-miner.json) |
@@ -6727,6 +6730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
 | Gold Rush | 256108 | [256108-gold-rush.json](./256108-gold-rush.json) |
 | Gold Rush | 352253 | [352253-gold-rush.json](./352253-gold-rush.json) |
+| Gold Rush 1898 | 421772 | [421772-gold-rush-1898.json](./421772-gold-rush-1898.json) |
 | Gold Rush Clicker | 264658 | [264658-gold-rush-clicker.json](./264658-gold-rush-clicker.json) |
 | Gold Rush in the Oort Cloud | 44298 | [44298-gold-rush-in-the-oort-cloud.json](./44298-gold-rush-in-the-oort-cloud.json) |
 | Gold Rush Ventures | 398099 | [398099-gold-rush-ventures.json](./398099-gold-rush-ventures.json) |
@@ -6743,6 +6747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Taker | 239112 | [239112-gold-taker.json](./239112-gold-taker.json) |
 | Gold Up | 405619 | [405619-gold-up.json](./405619-gold-up.json) |
 | Gold Wiper | 197966 | [197966-gold-wiper.json](./197966-gold-wiper.json) |
+| Gold-Bellied Buckaroos | 421753 | [421753-gold-bellied-buckaroos.json](./421753-gold-bellied-buckaroos.json) |
 | Gold, Silver, Bronze | 70300 | [70300-gold-silver-bronze.json](./70300-gold-silver-bronze.json) |
 | Gold's Gym Dance Workout | 51074 | [51074-golds-gym-dance-workout.json](./51074-golds-gym-dance-workout.json) |
 | Gold's Gym: Cardio Workout | 4893 | [4893-golds-gym-cardio-workout.json](./4893-golds-gym-cardio-workout.json) |
@@ -6848,6 +6853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Rainbow Slot Simulator | 88734 | [88734-golden-rainbow-slot-simulator.json](./88734-golden-rainbow-slot-simulator.json) |
 | Golden Record Retriever | 234310 | [234310-golden-record-retriever.json](./234310-golden-record-retriever.json) |
 | Golden Retriever | 168646 | [168646-golden-retriever.json](./168646-golden-retriever.json) |
+| Golden Retriever | 421747 | [421747-golden-retriever.json](./421747-golden-retriever.json) |
 | Golden Retriever Simple Life | 376020 | [376020-golden-retriever-simple-life.json](./376020-golden-retriever-simple-life.json) |
 | Golden Road | 295853 | [295853-golden-road.json](./295853-golden-road.json) |
 | Golden Royal Hold'em | 67974 | [67974-golden-royal-holdem.json](./67974-golden-royal-holdem.json) |
@@ -8556,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grant of God | 247180 | [247180-grant-of-god.json](./247180-grant-of-god.json) |
 | Grant Theft Mario | 315015 | [315015-grant-theft-mario.json](./315015-grant-theft-mario.json) |
 | Grant, Lee, Sherman: Civil War Generals 2 | 80789 | [80789-grant-lee-sherman-civil-war-generals-2.json](./80789-grant-lee-sherman-civil-war-generals-2.json) |
+| Granted | 421754 | [421754-granted.json](./421754-granted.json) |
 | Granular Moon | 383661 | [383661-granular-moon.json](./383661-granular-moon.json) |
 | Granvil's Fairytale | 203309 | [203309-granvils-fairytale.json](./203309-granvils-fairytale.json) |
 | Granvir | 285495 | [285495-granvir.json](./285495-granvir.json) |
