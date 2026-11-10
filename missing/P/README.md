@@ -2121,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradox Metal | 264142 | [264142-paradox-metal.json](./264142-paradox-metal.json) |
 | Paradox of Hope VR | 204159 | [204159-paradox-of-hope-vr.json](./204159-paradox-of-hope-vr.json) |
 | Paradox of the Cryptomancers | 99622 | [99622-paradox-of-the-cryptomancers.json](./99622-paradox-of-the-cryptomancers.json) |
+| Paradox Paradigm | 32685 | [32685-paradox-paradigm.json](./32685-paradox-paradigm.json) |
 | Paradox Protocol | 347571 | [347571-paradox-protocol.json](./347571-paradox-protocol.json) |
 | Paradox Soul | 83933 | [83933-paradox-soul.json](./83933-paradox-soul.json) |
 | Paradox Tower | 403143 | [403143-paradox-tower.json](./403143-paradox-tower.json) |
@@ -6085,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physarum: Slime Mold Simulator | 165336 | [165336-physarum-slime-mold-simulator.json](./165336-physarum-slime-mold-simulator.json) |
 | PhysDrive | 30973 | [30973-physdrive.json](./30973-physdrive.json) |
 | Physiblock | 315426 | [315426-physiblock.json](./315426-physiblock.json) |
+| Physic Monster | 32638 | [32638-physic-monster.json](./32638-physic-monster.json) |
 | Physica-E | 55737 | [55737-physica-e.json](./55737-physica-e.json) |
 | Physical Contact: 2048 | 70884 | [70884-physical-contact-2048.json](./70884-physical-contact-2048.json) |
 | Physical Contact: Picture Place | 74348 | [74348-physical-contact-picture-place.json](./74348-physical-contact-picture-place.json) |
@@ -8415,6 +8417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Dash | 183131 | [183131-pixel-dash.json](./183131-pixel-dash.json) |
 | Pixel Dash | 265778 | [265778-pixel-dash.json](./265778-pixel-dash.json) |
 | Pixel Dash: Toast of Destiny | 347444 | [347444-pixel-dash-toast-of-destiny.json](./347444-pixel-dash-toast-of-destiny.json) |
+| Pixel Day - Gun Z | 32600 | [32600-pixel-day-gun-z.json](./32600-pixel-day-gun-z.json) |
 | Pixel Defender | 298078 | [298078-pixel-defender.json](./298078-pixel-defender.json) |
 | Pixel Defenders Puzzle | 22154 | [22154-pixel-defenders-puzzle.json](./22154-pixel-defenders-puzzle.json) |
 | Pixel Demolish | 220066 | [220066-pixel-demolish.json](./220066-pixel-demolish.json) |
@@ -14578,6 +14581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Pit | 423898 | [423898-prehistoric-pit.json](./423898-prehistoric-pit.json) |
 | Prehistoric Relations | 177922 | [177922-prehistoric-relations.json](./177922-prehistoric-relations.json) |
 | Prehistoric Safari | 109452 | [109452-prehistoric-safari.json](./109452-prehistoric-safari.json) |
+| Prehistoric Tales | 32752 | [32752-prehistoric-tales.json](./32752-prehistoric-tales.json) |
 | Prehistoric Warcraft | 235703 | [235703-prehistoric-warcraft.json](./235703-prehistoric-warcraft.json) |
 | PrehistoricBound | 354908 | [354908-prehistoricbound.json](./354908-prehistoricbound.json) |
 | Prehistorik | 10717 | [10717-prehistorik.json](./10717-prehistorik.json) |
