@@ -6769,6 +6769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishbowl Racer | 198019 | [198019-fishbowl-racer.json](./198019-fishbowl-racer.json) |
 | FishCo | 206764 | [206764-fishco.json](./206764-fishco.json) |
 | Fishdom | 85147 | [85147-fishdom.json](./85147-fishdom.json) |
+| Fishdom | 88631 | [88631-fishdom.json](./88631-fishdom.json) |
 | Fishdom 2 | 144472 | [144472-fishdom-2.json](./144472-fishdom-2.json) |
 | Fishdom 3 | 60284 | [60284-fishdom-3.json](./60284-fishdom-3.json) |
 | Fishdom H2O: Hidden Odyssey | 41486 | [41486-fishdom-h2o-hidden-odyssey.json](./41486-fishdom-h2o-hidden-odyssey.json) |
