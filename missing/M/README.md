@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagMax | 29033 | [29033-magmax.json](./29033-magmax.json) |
 | MagMaze | 240214 | [240214-magmaze.json](./240214-magmaze.json) |
 | Magna Braban: Henreki no Yuusha | 38374 | [38374-magna-braban-henreki-no-yuusha.json](./38374-magna-braban-henreki-no-yuusha.json) |
+| Magna Carta: Tears of Blood | 22595 | [22595-magna-carta-tears-of-blood.json](./22595-magna-carta-tears-of-blood.json) |
 | Magna Carta: Tears of Blood - Deluxe Box Set | 43423 | [43423-magna-carta-tears-of-blood-deluxe-box-set.json](./43423-magna-carta-tears-of-blood-deluxe-box-set.json) |
 | Magna Carta: The Phantom of Avalanche | 69641 | [69641-magna-carta-the-phantom-of-avalanche.json](./69641-magna-carta-the-phantom-of-avalanche.json) |
 | Magna Driver | 181759 | [181759-magna-driver.json](./181759-magna-driver.json) |
@@ -5394,6 +5395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Gomoku | 102264 | [102264-master-of-gomoku.json](./102264-master-of-gomoku.json) |
 | Master of Illusion | 20770 | [20770-master-of-illusion.json](./20770-master-of-illusion.json) |
 | Master of Illusion Express: Deep Psyche | 69086 | [69086-master-of-illusion-express-deep-psyche.json](./69086-master-of-illusion-express-deep-psyche.json) |
+| Master of Illusion Express: Funny Face | 22536 | [22536-master-of-illusion-express-funny-face.json](./22536-master-of-illusion-express-funny-face.json) |
 | Master of Illusion Express: Matchmaker | 84484 | [84484-master-of-illusion-express-matchmaker.json](./84484-master-of-illusion-express-matchmaker.json) |
 | Master of Illusion Express: Mind Probe | 85276 | [85276-master-of-illusion-express-mind-probe.json](./85276-master-of-illusion-express-mind-probe.json) |
 | Master of Illusion Express: Psychic Camera | 84483 | [84483-master-of-illusion-express-psychic-camera.json](./84483-master-of-illusion-express-psychic-camera.json) |
@@ -7636,6 +7638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega 99Vidas | 274000 | [274000-mega-99vidas.json](./274000-mega-99vidas.json) |
 | Mega Alberto Cousins | 181467 | [181467-mega-alberto-cousins.json](./181467-mega-alberto-cousins.json) |
 | Mega Alien Destroyer | 266565 | [266565-mega-alien-destroyer.json](./266565-mega-alien-destroyer.json) |
+| Mega Apocalypse | 22525 | [22525-mega-apocalypse.json](./22525-mega-apocalypse.json) |
 | Mega Babies | 209532 | [209532-mega-babies.json](./209532-mega-babies.json) |
 | Mega Balls | 126711 | [126711-mega-balls.json](./126711-mega-balls.json) |
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
@@ -20785,6 +20788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant: War of Mercenaries | 208068 | [208068-mutant-war-of-mercenaries.json](./208068-mutant-war-of-mercenaries.json) |
 | MutantDungeon | 402862 | [402862-mutantdungeon.json](./402862-mutantdungeon.json) |
 | Mutantity | 250887 | [250887-mutantity.json](./250887-mutantity.json) |
+| Mutants | 22522 | [22522-mutants.json](./22522-mutants.json) |
 | Mutants & Zombies | 278532 | [278532-mutants-and-zombies.json](./278532-mutants-and-zombies.json) |
 | Mutants Ate My Carrots | 273401 | [273401-mutants-ate-my-carrots.json](./273401-mutants-ate-my-carrots.json) |
 | Mutants from the Deep | 165545 | [165545-mutants-from-the-deep.json](./165545-mutants-from-the-deep.json) |
