@@ -3583,6 +3583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenTyrian | 46729 | [46729-opentyrian.json](./46729-opentyrian.json) |
 | OpenViva | 316813 | [316813-openviva.json](./316813-openviva.json) |
 | OpenXcom | 128210 | [128210-openxcom.json](./128210-openxcom.json) |
+| OpenZ | 423051 | [423051-openz.json](./423051-openz.json) |
 | Opera Fatal | 92908 | [92908-opera-fatal.json](./92908-opera-fatal.json) |
 | Opera Nova | 280084 | [280084-opera-nova.json](./280084-opera-nova.json) |
 | Opera of Destruction | 295982 | [295982-opera-of-destruction.json](./295982-opera-of-destruction.json) |
