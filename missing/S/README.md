@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salem | 23613 | [23613-salem.json](./23613-salem.json) |
 | Salene | 405062 | [405062-salene.json](./405062-salene.json) |
 | Sales Birdman | 345604 | [345604-sales-birdman.json](./345604-sales-birdman.json) |
+| Sales Dept. Section 4: Special Training Unit | 418078 | [418078-sales-dept-section-4-special-training-unit.json](./418078-sales-dept-section-4-special-training-unit.json) |
 | Sales Employee Takeru-Kun | 298358 | [298358-sales-employee-takeru-kun.json](./298358-sales-employee-takeru-kun.json) |
 | Sales Pitch | 191507 | [191507-sales-pitch.json](./191507-sales-pitch.json) |
 | Sales, Science & Spirits | 384554 | [384554-sales-science-and-spirits.json](./384554-sales-science-and-spirits.json) |
@@ -15540,6 +15541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnackHunter | 193047 | [193047-snackhunter.json](./193047-snackhunter.json) |
 | Snackjack | 54378 | [54378-snackjack.json](./54378-snackjack.json) |
 | Snacko | 130618 | [130618-snacko.json](./130618-snacko.json) |
+| Snackrifice | 418096 | [418096-snackrifice.json](./418096-snackrifice.json) |
 | Snackroach | 257251 | [257251-snackroach.json](./257251-snackroach.json) |
 | Snacks 'n Jaxson | 39410 | [39410-snacks-n-jaxson.json](./39410-snacks-n-jaxson.json) |
 | SnackTimeActionGame | 371593 | [371593-snacktimeactiongame.json](./371593-snacktimeactiongame.json) |
@@ -19547,6 +19549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Labyrinth | 182637 | [182637-soul-labyrinth.json](./182637-soul-labyrinth.json) |
 | Soul Land Reloaded | 174651 | [174651-soul-land-reloaded.json](./174651-soul-land-reloaded.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
+| Soul Land: Awakening World | 418059 | [418059-soul-land-awakening-world.json](./418059-soul-land-awakening-world.json) |
 | Soul Land: Hunting World | 354242 | [354242-soul-land-hunting-world.json](./354242-soul-land-hunting-world.json) |
 | Soul Launcher | 208073 | [208073-soul-launcher.json](./208073-soul-launcher.json) |
 | Soul Light | 187407 | [187407-soul-light.json](./187407-soul-light.json) |
