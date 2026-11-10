@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FaceBreaker | 4852 | [4852-facebreaker.json](./4852-facebreaker.json) |
 | FaceBreaker K.O. Party | 85129 | [85129-facebreaker-k-o-party.json](./85129-facebreaker-k-o-party.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
+| Faceez | 85130 | [85130-faceez.json](./85130-faceez.json) |
 | Faceez: Monsters! | 85131 | [85131-faceez-monsters.json](./85131-faceez-monsters.json) |
 | Faceless | 293539 | [293539-faceless.json](./293539-faceless.json) |
 | Faceless | 320882 | [320882-faceless.json](./320882-faceless.json) |
