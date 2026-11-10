@@ -1675,6 +1675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GameTap, Cup Noodles, and Bitter Tears | 353929 | [353929-gametap-cup-noodles-and-bitter-tears.json](./353929-gametap-cup-noodles-and-bitter-tears.json) |
 | Gametrak: Dark Wind | 72072 | [72072-gametrak-dark-wind.json](./72072-gametrak-dark-wind.json) |
 | GameWhizzards | 120101 | [120101-gamewhizzards.json](./120101-gamewhizzards.json) |
+| GameZone: Game Store Simulator | 413983 | [413983-gamezone-game-store-simulator.json](./413983-gamezone-game-store-simulator.json) |
 | Gaminator | 360982 | [360982-gaminator.json](./360982-gaminator.json) |
 | Gaming Burnout Treatment Center | 408063 | [408063-gaming-burnout-treatment-center.json](./408063-gaming-burnout-treatment-center.json) |
 | Gaming Cafe Life | 295842 | [295842-gaming-cafe-life.json](./295842-gaming-cafe-life.json) |
@@ -3638,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get fit with Mel B | 11624 | [11624-get-fit-with-mel-b.json](./11624-get-fit-with-mel-b.json) |
 | Get Fit: Beach Girls | 409520 | [409520-get-fit-beach-girls.json](./409520-get-fit-beach-girls.json) |
 | Get Fit: Beach Workout | 411142 | [411142-get-fit-beach-workout.json](./411142-get-fit-beach-workout.json) |
+| Get Fit: Furry Edition | 413944 | [413944-get-fit-furry-edition.json](./413944-get-fit-furry-edition.json) |
 | Get Fit: K-Pop Fitness | 420689 | [420689-get-fit-k-pop-fitness.json](./420689-get-fit-k-pop-fitness.json) |
 | Get Fit: Power Workout | 399639 | [399639-get-fit-power-workout.json](./399639-get-fit-power-workout.json) |
 | Get Fit: Women’s Fitness | 394999 | [394999-get-fit-women-s-fitness.json](./394999-get-fit-women-s-fitness.json) |
@@ -4467,6 +4469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift Shop | 54051 | [54051-gift-shop.json](./54051-gift-shop.json) |
 | Gift Shop Factory | 159360 | [159360-gift-shop-factory.json](./159360-gift-shop-factory.json) |
 | Gift to Humanity | 75163 | [75163-gift-to-humanity.json](./75163-gift-to-humanity.json) |
+| Gift Up: Farm | 414011 | [414011-gift-up-farm.json](./414011-gift-up-farm.json) |
 | Gift Wrapped | 272556 | [272556-gift-wrapped.json](./272556-gift-wrapped.json) |
 | Gift-Exchange-Machine | 176240 | [176240-gift-exchange-machine.json](./176240-gift-exchange-machine.json) |
 | Gifted | 128187 | [128187-gifted.json](./128187-gifted.json) |
@@ -10007,6 +10010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire: Manastorm - Nature Class | 170328 | [170328-grimoire-manastorm-nature-class.json](./170328-grimoire-manastorm-nature-class.json) |
 | Grimoire: Manastorm - Nether Class | 169916 | [169916-grimoire-manastorm-nether-class.json](./169916-grimoire-manastorm-nether-class.json) |
 | Grimoires & Guns | 282979 | [282979-grimoires-and-guns.json](./282979-grimoires-and-guns.json) |
+| Grimoji | 413980 | [413980-grimoji.json](./413980-grimoji.json) |
 | Grimoria | 391573 | [391573-grimoria.json](./391573-grimoria.json) |
 | Grimorium | 392292 | [392292-grimorium.json](./392292-grimorium.json) |
 | Grimps | 388338 | [388338-grimps.json](./388338-grimps.json) |
