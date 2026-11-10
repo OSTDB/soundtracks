@@ -14318,6 +14318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Quest | 248145 | [248145-slime-quest.json](./248145-slime-quest.json) |
 | Slime Rancher 2 | 152243 | [152243-slime-rancher-2.json](./152243-slime-rancher-2.json) |
 | Slime Rancher Rainbow Bundle | 293761 | [293761-slime-rancher-rainbow-bundle.json](./293761-slime-rancher-rainbow-bundle.json) |
+| Slime Rancher: Plortable Edition | 163631 | [163631-slime-rancher-plortable-edition.json](./163631-slime-rancher-plortable-edition.json) |
 | Slime Rancher: Secret Style Pack | 118666 | [118666-slime-rancher-secret-style-pack.json](./118666-slime-rancher-secret-style-pack.json) |
 | Slime Rancher: VR Playground | 171210 | [171210-slime-rancher-vr-playground.json](./171210-slime-rancher-vr-playground.json) |
 | Slime Ranger | 221159 | [221159-slime-ranger.json](./221159-slime-ranger.json) |
@@ -22943,6 +22944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpinCraft: Roguelike | 287322 | [287322-spincraft-roguelike.json](./287322-spincraft-roguelike.json) |
 | SpinCross | 202040 | [202040-spincross.json](./202040-spincross.json) |
 | Spindizzy Worlds | 15374 | [15374-spindizzy-worlds.json](./15374-spindizzy-worlds.json) |
+| Spindle | 159684 | [159684-spindle.json](./159684-spindle.json) |
 | SpinDrive Ping Pong | 43354 | [43354-spindrive-ping-pong.json](./43354-spindrive-ping-pong.json) |
 | Spine | 165432 | [165432-spine.json](./165432-spine.json) |
 | Spine & Quill | 304630 | [304630-spine-and-quill.json](./304630-spine-and-quill.json) |
@@ -27062,6 +27064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Away from the Lighthouse | 415473 | [415473-stay-away-from-the-lighthouse.json](./415473-stay-away-from-the-lighthouse.json) |
 | Stay Away From Zombies | 195543 | [195543-stay-away-from-zombies.json](./195543-stay-away-from-zombies.json) |
 | Stay Close | 33182 | [33182-stay-close.json](./33182-stay-close.json) |
+| Stay Cool, Kobayashi-san!: A River City Ransom Story | 122272 | [122272-stay-cool-kobayashi-san-a-river-city-ransom-story.json](./122272-stay-cool-kobayashi-san-a-river-city-ransom-story.json) |
 | Stay Dead | 10895 | [10895-stay-dead.json](./10895-stay-dead.json) |
 | Stay Dead | 359518 | [359518-stay-dead.json](./359518-stay-dead.json) |
 | Stay Dead Evolution | 10896 | [10896-stay-dead-evolution.json](./10896-stay-dead-evolution.json) |
@@ -32698,6 +32701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super High School Danger Course | 271128 | [271128-super-high-school-danger-course.json](./271128-super-high-school-danger-course.json) |
 | Super High School Sports Day Crankathlon | 230724 | [230724-super-high-school-sports-day-crankathlon.json](./230724-super-high-school-sports-day-crankathlon.json) |
 | Super High-Way | 172649 | [172649-super-high-way.json](./172649-super-high-way.json) |
+| Super Hiking League DX | 163174 | [163174-super-hiking-league-dx.json](./163174-super-hiking-league-dx.json) |
 | Super Hiking Simulator 2020 | 129990 | [129990-super-hiking-simulator-2020.json](./129990-super-hiking-simulator-2020.json) |
 | Super Hiking Simulator 2020: After | 172117 | [172117-super-hiking-simulator-2020-after.json](./172117-super-hiking-simulator-2020-after.json) |
 | Super Hiking Simulator 2020: Escort Rin | 161715 | [161715-super-hiking-simulator-2020-escort-rin.json](./161715-super-hiking-simulator-2020-escort-rin.json) |
