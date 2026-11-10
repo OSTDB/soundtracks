@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-2 in Rich District | 395191 | [395191-1-2-in-rich-district.json](./395191-1-2-in-rich-district.json) |
 | 1-2-3 Bumblebee | 329489 | [329489-1-2-3-bumblebee.json](./329489-1-2-3-bumblebee.json) |
 | 1-2-3 or 4-5-6 | 342215 | [342215-1-2-3-or-4-5-6.json](./342215-1-2-3-or-4-5-6.json) |
+| 1-2-Dynamic Word Search! | 401355 | [401355-1-2-dynamic-word-search.json](./401355-1-2-dynamic-word-search.json) |
 | 1-2-Fantastic Word Search! | 343493 | [343493-1-2-fantastic-word-search.json](./343493-1-2-fantastic-word-search.json) |
 | 1-2-Splendid Word Search! | 414432 | [414432-1-2-splendid-word-search.json](./414432-1-2-splendid-word-search.json) |
 | 1-2-Swift | 29690 | [29690-1-2-swift.json](./29690-1-2-swift.json) |
