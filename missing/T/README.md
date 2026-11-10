@@ -16531,6 +16531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rogue of Nexus | 329220 | [329220-the-rogue-of-nexus.json](./329220-the-rogue-of-nexus.json) |
 | The Roll Game | 182148 | [182148-the-roll-game.json](./182148-the-roll-game.json) |
 | The Rolling Edge | 26966 | [26966-the-rolling-edge.json](./26966-the-rolling-edge.json) |
+| The Rolling Rolling Rolling Rice Ball | 414889 | [414889-the-rolling-rolling-rolling-rice-ball.json](./414889-the-rolling-rolling-rolling-rice-ball.json) |
 | The Rolling Room | 309893 | [309893-the-rolling-room.json](./309893-the-rolling-room.json) |
 | The Rollingball's Melody | 34308 | [34308-the-rollingballs-melody.json](./34308-the-rollingballs-melody.json) |
 | The Romance of the Moth and the Flame | 378515 | [378515-the-romance-of-the-moth-and-the-flame.json](./378515-the-romance-of-the-moth-and-the-flame.json) |
