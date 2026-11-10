@@ -12871,6 +12871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger: Walkable City | 408851 | [408851-frogger-walkable-city.json](./408851-frogger-walkable-city.json) |
 | Frogger's Adventures 2: The Lost Wand | 11468 | [11468-froggers-adventures-2-the-lost-wand.json](./11468-froggers-adventures-2-the-lost-wand.json) |
 | Frogger's Adventures: Temple of the Frog | 6411 | [6411-froggers-adventures-temple-of-the-frog.json](./6411-froggers-adventures-temple-of-the-frog.json) |
+| Frogger's Adventures: The Rescue | 3923 | [3923-froggers-adventures-the-rescue.json](./3923-froggers-adventures-the-rescue.json) |
 | Frogger's Journey: The Forgotten Relic | 11480 | [11480-froggers-journey-the-forgotten-relic.json](./11480-froggers-journey-the-forgotten-relic.json) |
 | Froggerty Arcade | 161384 | [161384-froggerty-arcade.json](./161384-froggerty-arcade.json) |
 | Froggerty Arcade 2 | 189185 | [189185-froggerty-arcade-2.json](./189185-froggerty-arcade-2.json) |
@@ -14628,6 +14629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Soccer Battle | 216038 | [216038-future-soccer-battle.json](./216038-future-soccer-battle.json) |
 | Future Spy | 40037 | [40037-future-spy.json](./40037-future-spy.json) |
 | Future Swashbuckler | 305945 | [305945-future-swashbuckler.json](./305945-future-swashbuckler.json) |
+| Future Tactics: The Uprising | 3925 | [3925-future-tactics-the-uprising.json](./3925-future-tactics-the-uprising.json) |
 | Future Tank | 68346 | [68346-future-tank.json](./68346-future-tank.json) |
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
 | Future Tanks: Tank Shooter Game | 87385 | [87385-future-tanks-tank-shooter-game.json](./87385-future-tanks-tank-shooter-game.json) |
