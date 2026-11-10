@@ -817,6 +817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Legends | 6186 | [6186-taito-legends.json](./6186-taito-legends.json) |
 | Taito Legends 2 | 267186 | [267186-taito-legends-2.json](./267186-taito-legends-2.json) |
 | Taito Legends 2 | 6187 | [6187-taito-legends-2.json](./6187-taito-legends-2.json) |
+| Taito Legends Power-Up | 23098 | [23098-taito-legends-power-up.json](./23098-taito-legends-power-up.json) |
 | Taito Memories | 69366 | [69366-taito-memories.json](./69366-taito-memories.json) |
 | Taito Memories Gekan | 72792 | [72792-taito-memories-gekan.json](./72792-taito-memories-gekan.json) |
 | Taito Memories II Gekan | 94711 | [94711-taito-memories-ii-gekan.json](./94711-taito-memories-ii-gekan.json) |
@@ -904,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take Care of the Paperwork | 103455 | [103455-take-care-of-the-paperwork.json](./103455-take-care-of-the-paperwork.json) |
 | Take Care VR | 236507 | [236507-take-care-vr.json](./236507-take-care-vr.json) |
 | Take Care, Out There | 181736 | [181736-take-care-out-there.json](./181736-take-care-out-there.json) |
+| Take Command: 2nd Manassas | 23144 | [23144-take-command-2nd-manassas.json](./23144-take-command-2nd-manassas.json) |
 | Take Cover Now | 304754 | [304754-take-cover-now.json](./304754-take-cover-now.json) |
 | Take Cover! | 120243 | [120243-take-cover.json](./120243-take-cover.json) |
 | Take Down | 125962 | [125962-take-down.json](./125962-take-down.json) |
@@ -8295,6 +8297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dam Nation | 211135 | [211135-the-dam-nation.json](./211135-the-dam-nation.json) |
 | The Dama | 101503 | [101503-the-dama.json](./101503-the-dama.json) |
 | The Damathos Clan | 157453 | [157453-the-damathos-clan.json](./157453-the-damathos-clan.json) |
+| The Dame Was Loaded | 22624 | [22624-the-dame-was-loaded.json](./22624-the-dame-was-loaded.json) |
 | The Damn Psychiatric | 321881 | [321881-the-damn-psychiatric.json](./321881-the-damn-psychiatric.json) |
 | The Damned Forest | 69200 | [69200-the-damned-forest.json](./69200-the-damned-forest.json) |
 | The Dance of Maple Leaves | 346670 | [346670-the-dance-of-maple-leaves.json](./346670-the-dance-of-maple-leaves.json) |
@@ -13813,6 +13816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Child | 36535 | [36535-the-lost-child.json](./36535-the-lost-child.json) |
 | The Lost Chrononaut | 141754 | [141754-the-lost-chrononaut.json](./141754-the-lost-chrononaut.json) |
 | The Lost Cities | 232787 | [232787-the-lost-cities.json](./232787-the-lost-cities.json) |
+| The Lost City | 22591 | [22591-the-lost-city.json](./22591-the-lost-city.json) |
 | The Lost City | 323286 | [323286-the-lost-city.json](./323286-the-lost-city.json) |
 | The Lost City of Atlantis | 14476 | [14476-the-lost-city-of-atlantis.json](./14476-the-lost-city-of-atlantis.json) |
 | The Lost City of Malathedra | 35670 | [35670-the-lost-city-of-malathedra.json](./35670-the-lost-city-of-malathedra.json) |
@@ -31309,6 +31313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traps 'n' Treasures | 37275 | [37275-traps-n-treasures.json](./37275-traps-n-treasures.json) |
 | Traps Ahead! | 126850 | [126850-traps-ahead.json](./126850-traps-ahead.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
+| Trapt | 22576 | [22576-trapt.json](./22576-trapt.json) |
 | Trapt | 232845 | [232845-trapt.json](./232845-trapt.json) |
 | TrapThem | 50221 | [50221-trapthem.json](./50221-trapthem.json) |
 | TrapThem | 62004 | [62004-trapthem.json](./62004-trapthem.json) |
