@@ -2765,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zwei: The Ilvard Insurrection | 36701 | [36701-zwei-the-ilvard-insurrection.json](./36701-zwei-the-ilvard-insurrection.json) |
 | Zwei!!: The Arges Adventure | 61631 | [61631-zwei-the-arges-adventure.json](./61631-zwei-the-arges-adventure.json) |
 | Zwerg: A Tale of Beer and Hunger | 413710 | [413710-zwerg-a-tale-of-beer-and-hunger.json](./413710-zwerg-a-tale-of-beer-and-hunger.json) |
+| Zwiadowca | 398710 | [398710-zwiadowca.json](./398710-zwiadowca.json) |
 | Zwift | 300513 | [300513-zwift.json](./300513-zwift.json) |
 | Zwölfzehn | 93186 | [93186-zwolfzehn.json](./93186-zwolfzehn.json) |
 | Zworx | 93489 | [93489-zworx.json](./93489-zworx.json) |
