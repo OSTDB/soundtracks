@@ -13504,7 +13504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Sword: Countermark RE | 216474 | [216474-frozen-sword-countermark-re.json](./216474-frozen-sword-countermark-re.json) |
 | Frozen Synapse | 2248 | [2248-frozen-synapse.json](./2248-frozen-synapse.json) |
 | Frozen Synapse | 259532 | [259532-frozen-synapse.json](./259532-frozen-synapse.json) |
-| Frozen Synapse 2 | 18435 | [18435-frozen-synapse-2.json](./18435-frozen-synapse-2.json) |
 | Frozen Synapse Prime | 10338 | [10338-frozen-synapse-prime.json](./10338-frozen-synapse-prime.json) |
 | Frozen Synapse: Prime Soundtrack Edition | 118844 | [118844-frozen-synapse-prime-soundtrack-edition.json](./118844-frozen-synapse-prime-soundtrack-edition.json) |
 | Frozen Synapse: Red | 51805 | [51805-frozen-synapse-red.json](./51805-frozen-synapse-red.json) |
