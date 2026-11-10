@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 10 Global: North America Scenery | 168809 | [168809-x-plane-10-global-north-america-scenery.json](./168809-x-plane-10-global-north-america-scenery.json) |
 | X-Plane 10 Global: South America Scenery | 168814 | [168814-x-plane-10-global-south-america-scenery.json](./168814-x-plane-10-global-south-america-scenery.json) |
 | X-Plane 10: Regional Edition - North America | 205810 | [205810-x-plane-10-regional-edition-north-america.json](./205810-x-plane-10-regional-edition-north-america.json) |
+| X-Plane 11 | 25136 | [25136-x-plane-11.json](./25136-x-plane-11.json) |
 | X-Plane 11 + Aerosoft Airport Collection | 135974 | [135974-x-plane-11-aerosoft-airport-collection.json](./135974-x-plane-11-aerosoft-airport-collection.json) |
 | X-Plane 11: 29 Palms/Captain7 - EDDN: Nuernberg XP | 168419 | [168419-x-plane-11-29-palms-captain7-eddn-nuernberg-xp.json](./168419-x-plane-11-29-palms-captain7-eddn-nuernberg-xp.json) |
 | X-Plane 11: Add-on - Aerosoft Aspen XP | 168410 | [168410-x-plane-11-add-on-aerosoft-aspen-xp.json](./168410-x-plane-11-add-on-aerosoft-aspen-xp.json) |
