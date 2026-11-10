@@ -4946,6 +4946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reksio i Kretes: Tajemnica Trzeciego Wymiaru | 218499 | [218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json](./218499-reksio-i-kretes-tajemnica-trzeciego-wymiaru.json) |
 | Reksio i Ortografia | 159004 | [159004-reksio-i-ortografia.json](./159004-reksio-i-ortografia.json) |
 | Reksio i Skarb Piratów | 82039 | [82039-reksio-i-skarb-piratow.json](./82039-reksio-i-skarb-piratow.json) |
+| Reksio i Wehikuł Czasu | 62420 | [62420-reksio-i-wehiku-czasu.json](./62420-reksio-i-wehiku-czasu.json) |
 | Reksio: Miasto Sekretów | 146300 | [146300-reksio-miasto-sekretow.json](./146300-reksio-miasto-sekretow.json) |
 | Reksio: Miasto Sekretów - Limited Edition | 146707 | [146707-reksio-miasto-sekretow-limited-edition.json](./146707-reksio-miasto-sekretow-limited-edition.json) |
 | Rekt Party | 332888 | [332888-rekt-party.json](./332888-rekt-party.json) |
@@ -6060,6 +6061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant at the End of Time | 257880 | [257880-restaurant-at-the-end-of-time.json](./257880-restaurant-at-the-end-of-time.json) |
 | Restaurant Battle | 256641 | [256641-restaurant-battle.json](./256641-restaurant-battle.json) |
 | Restaurant Builder | 238462 | [238462-restaurant-builder.json](./238462-restaurant-builder.json) |
+| Restaurant City | 182212 | [182212-restaurant-city.json](./182212-restaurant-city.json) |
 | Restaurant Cooking Simulator | 317558 | [317558-restaurant-cooking-simulator.json](./317558-restaurant-cooking-simulator.json) |
 | Restaurant Diary | 233441 | [233441-restaurant-diary.json](./233441-restaurant-diary.json) |
 | Restaurant Dream | 387126 | [387126-restaurant-dream.json](./387126-restaurant-dream.json) |
@@ -13224,6 +13226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RunningJoe | 30716 | [30716-runningjoe.json](./30716-runningjoe.json) |
 | Runnordai | 254844 | [254844-runnordai.json](./254844-runnordai.json) |
 | Runny Bunny | 317999 | [317999-runny-bunny.json](./317999-runny-bunny.json) |
+| Runo | 154153 | [154153-runo.json](./154153-runo.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
 | Runonce | 288986 | [288986-runonce.json](./288986-runonce.json) |
 | Runout | 173182 | [173182-runout.json](./173182-runout.json) |
