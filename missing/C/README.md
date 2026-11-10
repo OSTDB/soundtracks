@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can I Go Home Yet? | 397393 | [397393-can-i-go-home-yet.json](./397393-can-i-go-home-yet.json) |
 | Can I Have a Glass of Water? | 415489 | [415489-can-i-have-a-glass-of-water.json](./415489-can-i-have-a-glass-of-water.json) |
 | Can I Not Fall for Idols? | 390818 | [390818-can-i-not-fall-for-idols.json](./390818-can-i-not-fall-for-idols.json) |
+| Can I Take Your Order | 404572 | [404572-can-i-take-your-order.json](./404572-can-i-take-your-order.json) |
 | Can Knockdown 3 | 96722 | [96722-can-knockdown-3.json](./96722-can-knockdown-3.json) |
 | Can No One Hear Me? | 329591 | [329591-can-no-one-hear-me.json](./329591-can-no-one-hear-me.json) |
 | Can of Wormholes | 211936 | [211936-can-of-wormholes.json](./211936-can-of-wormholes.json) |
@@ -4215,6 +4216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Cafe Simulator | 217249 | [217249-cat-cafe-simulator.json](./217249-cat-cafe-simulator.json) |
 | Cat Cafe Simulator | 301266 | [301266-cat-cafe-simulator.json](./301266-cat-cafe-simulator.json) |
 | Cat Cafe: Dessert Panic | 241991 | [241991-cat-cafe-dessert-panic.json](./241991-cat-cafe-dessert-panic.json) |
+| Cat Caffeine | 404577 | [404577-cat-caffeine.json](./404577-cat-caffeine.json) |
 | Cat Calculations | 337670 | [337670-cat-calculations.json](./337670-cat-calculations.json) |
 | Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
 | Cat Carried Butterfly | 374643 | [374643-cat-carried-butterfly.json](./374643-cat-carried-butterfly.json) |
@@ -10206,6 +10208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claim Jumper | 18508 | [18508-claim-jumper.json](./18508-claim-jumper.json) |
 | Claim the Forest | 366209 | [366209-claim-the-forest.json](./366209-claim-the-forest.json) |
 | Claim the Forest: Settling Peace | 399618 | [399618-claim-the-forest-settling-peace.json](./399618-claim-the-forest-settling-peace.json) |
+| Claim the Void | 404586 | [404586-claim-the-void.json](./404586-claim-the-void.json) |
 | Claim thy Land | 395079 | [395079-claim-thy-land.json](./395079-claim-thy-land.json) |
 | Claim to Power: Der Machtkampf | 123158 | [123158-claim-to-power-der-machtkampf.json](./123158-claim-to-power-der-machtkampf.json) |
 | Claim your Free BitBuddy Today! | 197064 | [197064-claim-your-free-bitbuddy-today.json](./197064-claim-your-free-bitbuddy-today.json) |
@@ -11465,6 +11468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clowns | 165915 | [165915-clowns.json](./165915-clowns.json) |
 | Clowns and Balloons | 40781 | [40781-clowns-and-balloons.json](./40781-clowns-and-balloons.json) |
 | ClownScapades Rally | 257924 | [257924-clownscapades-rally.json](./257924-clownscapades-rally.json) |
+| Clowntown | 405107 | [405107-clowntown.json](./405107-clowntown.json) |
 | CLS: Signal Person | 119778 | [119778-cls-signal-person.json](./119778-cls-signal-person.json) |
 | Clu Clu Land | 7573 | [7573-clu-clu-land.json](./7573-clu-clu-land.json) |
 | Clu Clu Land D | 170022 | [170022-clu-clu-land-d.json](./170022-clu-clu-land-d.json) |
@@ -17183,6 +17187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crankin Car | 230745 | [230745-crankin-car.json](./230745-crankin-car.json) |
 | Crankin's Time Travel Adventure | 151957 | [151957-crankins-time-travel-adventure.json](./151957-crankins-time-travel-adventure.json) |
 | CrankLander | 413588 | [413588-cranklander.json](./413588-cranklander.json) |
+| Cranklish | 404571 | [404571-cranklish.json](./404571-cranklish.json) |
 | CranKnight | 339703 | [339703-cranknight.json](./339703-cranknight.json) |
 | Cranknstein II | 214015 | [214015-cranknstein-ii.json](./214015-cranknstein-ii.json) |
 | Crankoids | 347141 | [347141-crankoids.json](./347141-crankoids.json) |
@@ -20649,6 +20654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult | 68774 | [68774-cult.json](./68774-cult.json) |
 | Cult 2112 | 119553 | [119553-cult-2112.json](./119553-cult-2112.json) |
 | Cult Adorable | 276779 | [276779-cult-adorable.json](./276779-cult-adorable.json) |
+| Cult Clicker | 404582 | [404582-cult-clicker.json](./404582-cult-clicker.json) |
 | Cult Conquest | 176181 | [176181-cult-conquest.json](./176181-cult-conquest.json) |
 | Cult County | 63659 | [63659-cult-county.json](./63659-cult-county.json) |
 | Cult Game | 362875 | [362875-cult-game.json](./362875-cult-game.json) |
