@@ -3558,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Terra | 189077 | [189077-new-terra.json](./189077-new-terra.json) |
 | New Times | 366166 | [366166-new-times.json](./366166-new-times.json) |
 | New Town Needs Tamer | 216989 | [216989-new-town-needs-tamer.json](./216989-new-town-needs-tamer.json) |
+| New Tricks for Old Gods | 123982 | [123982-new-tricks-for-old-gods.json](./123982-new-tricks-for-old-gods.json) |
 | New Unou Kids Wii | 268393 | [268393-new-unou-kids-wii.json](./268393-new-unou-kids-wii.json) |
 | New Vegas Bounties I | 281362 | [281362-new-vegas-bounties-i.json](./281362-new-vegas-bounties-i.json) |
 | New Vegas Bounties II | 281363 | [281363-new-vegas-bounties-ii.json](./281363-new-vegas-bounties-ii.json) |
