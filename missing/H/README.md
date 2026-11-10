@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hancho | 121330 | [121330-hancho.json](./121330-hancho.json) |
 | Hanctt Origins | 253455 | [253455-hanctt-origins.json](./253455-hanctt-origins.json) |
 | Hand Almighty | 393759 | [393759-hand-almighty.json](./393759-hand-almighty.json) |
+| Hand and Foot Card Game | 87471 | [87471-hand-and-foot-card-game.json](./87471-hand-and-foot-card-game.json) |
 | Hand and Stone | 121900 | [121900-hand-and-stone.json](./121900-hand-and-stone.json) |
 | Hand Cannon Virtuoso | 132256 | [132256-hand-cannon-virtuoso.json](./132256-hand-cannon-virtuoso.json) |
 | Hand Cooking Simulator: Multi-Chef | 326403 | [326403-hand-cooking-simulator-multi-chef.json](./326403-hand-cooking-simulator-multi-chef.json) |
