@@ -3420,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Alliance | 401515 | [401515-paw-alliance.json](./401515-paw-alliance.json) |
 | Paw Bois | 185421 | [185421-paw-bois.json](./185421-paw-bois.json) |
 | Paw Brawl Party | 322621 | [322621-paw-brawl-party.json](./322621-paw-brawl-party.json) |
+| Paw Loot | 404578 | [404578-paw-loot.json](./404578-paw-loot.json) |
 | Paw Party | 348987 | [348987-paw-party.json](./348987-paw-party.json) |
 | Paw Patrol | 298309 | [298309-paw-patrol.json](./298309-paw-patrol.json) |
 | Paw Patrol Academy | 307162 | [307162-paw-patrol-academy.json](./307162-paw-patrol-academy.json) |
@@ -5656,7 +5657,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Line | 302324 | [302324-phantom-line.json](./302324-phantom-line.json) |
 | Phantom Mansion Chapter 1: The Red Chamber | 397699 | [397699-phantom-mansion-chapter-1-the-red-chamber.json](./397699-phantom-mansion-chapter-1-the-red-chamber.json) |
 | Phantom Mansion Chapter 2: The Orange Library | 397792 | [397792-phantom-mansion-chapter-2-the-orange-library.json](./397792-phantom-mansion-chapter-2-the-orange-library.json) |
+| Phantom Mansion Chapter 3: The Yellow Tower | 405076 | [405076-phantom-mansion-chapter-3-the-yellow-tower.json](./405076-phantom-mansion-chapter-3-the-yellow-tower.json) |
+| Phantom Mansion Chapter 4: The Green Gallery | 405081 | [405081-phantom-mansion-chapter-4-the-green-gallery.json](./405081-phantom-mansion-chapter-4-the-green-gallery.json) |
+| Phantom Mansion Chapter 5: The Blue Ballroom | 405101 | [405101-phantom-mansion-chapter-5-the-blue-ballroom.json](./405101-phantom-mansion-chapter-5-the-blue-ballroom.json) |
+| Phantom Mansion Chapter 6: The Indigo Dungeon | 405103 | [405103-phantom-mansion-chapter-6-the-indigo-dungeon.json](./405103-phantom-mansion-chapter-6-the-indigo-dungeon.json) |
+| Phantom Mansion Chapter 7: The Violet Vault | 405108 | [405108-phantom-mansion-chapter-7-the-violet-vault.json](./405108-phantom-mansion-chapter-7-the-violet-vault.json) |
+| Phantom Mansion Chapter 8: The Black Sanctum | 405109 | [405109-phantom-mansion-chapter-8-the-black-sanctum.json](./405109-phantom-mansion-chapter-8-the-black-sanctum.json) |
 | Phantom Mansion II: Treasures of the Seven Seas - The Arabian Sea | 405128 | [405128-phantom-mansion-ii-treasures-of-the-seven-seas-the-arabian-sea.json](./405128-phantom-mansion-ii-treasures-of-the-seven-seas-the-arabian-sea.json) |
+| Phantom Mansion II: Treasures of the Seven Seas - The Black Sea | 405111 | [405111-phantom-mansion-ii-treasures-of-the-seven-seas-the-black-sea.json](./405111-phantom-mansion-ii-treasures-of-the-seven-seas-the-black-sea.json) |
+| Phantom Mansion II: Treasures of the Seven Seas - The North Sea | 405115 | [405115-phantom-mansion-ii-treasures-of-the-seven-seas-the-north-sea.json](./405115-phantom-mansion-ii-treasures-of-the-seven-seas-the-north-sea.json) |
 | Phantom Matrix | 212011 | [212011-phantom-matrix.json](./212011-phantom-matrix.json) |
 | Phantom of Inferno | 387689 | [387689-phantom-of-inferno.json](./387689-phantom-of-inferno.json) |
 | Phantom of the Asteroids | 66539 | [66539-phantom-of-the-asteroids.json](./66539-phantom-of-the-asteroids.json) |
