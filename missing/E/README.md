@@ -1556,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Over It: Fall Flat From the Top | 201560 | [201560-egg-over-it-fall-flat-from-the-top.json](./201560-egg-over-it-fall-flat-from-the-top.json) |
 | Egg Rabbit | 157423 | [157423-egg-rabbit.json](./157423-egg-rabbit.json) |
 | Egg Raiders | 320784 | [320784-egg-raiders.json](./320784-egg-raiders.json) |
+| Egg Returns Home | 35562 | [35562-egg-returns-home.json](./35562-egg-returns-home.json) |
 | Egg RTX | 288707 | [288707-egg-rtx.json](./288707-egg-rtx.json) |
 | Egg Run | 320731 | [320731-egg-run.json](./320731-egg-run.json) |
 | Egg Splash | 89194 | [89194-egg-splash.json](./89194-egg-splash.json) |
