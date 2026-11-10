@@ -4405,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seaport - Build & Prosper! | 88374 | [88374-seaport-build-and-prosper.json](./88374-seaport-build-and-prosper.json) |
 | Seaport Man | 337005 | [337005-seaport-man.json](./337005-seaport-man.json) |
 | Seaport Tycoon | 245956 | [245956-seaport-tycoon.json](./245956-seaport-tycoon.json) |
+| Seaquest | 18531 | [18531-seaquest.json](./18531-seaquest.json) |
 | Seaquest | 308366 | [308366-seaquest.json](./308366-seaquest.json) |
 | Seaquest DSV | 45591 | [45591-seaquest-dsv.json](./45591-seaquest-dsv.json) |
 | SeaQuest DSV | 138802 | [138802-seaquest-dsv.json](./138802-seaquest-dsv.json) |
@@ -29053,6 +29054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Cat Doors 2 | 135435 | [135435-stray-cat-doors-2.json](./135435-stray-cat-doors-2.json) |
 | Stray Cat Doors 3 | 278796 | [278796-stray-cat-doors-3.json](./278796-stray-cat-doors-3.json) |
 | Stray Cat Simulator | 87334 | [87334-stray-cat-simulator.json](./87334-stray-cat-simulator.json) |
+| Stray Cats in Cozy Town | 306022 | [306022-stray-cats-in-cozy-town.json](./306022-stray-cats-in-cozy-town.json) |
 | Stray Cats in Cozy Town: Night Lights | 312994 | [312994-stray-cats-in-cozy-town-night-lights.json](./312994-stray-cats-in-cozy-town-night-lights.json) |
 | Stray Children | 266692 | [266692-stray-children.json](./266692-stray-children.json) |
 | Stray Dog Simulator | 87340 | [87340-stray-dog-simulator.json](./87340-stray-dog-simulator.json) |
