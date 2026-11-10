@@ -3634,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welly Wang VR | 267680 | [267680-welly-wang-vr.json](./267680-welly-wang-vr.json) |
 | Welme | 404234 | [404234-welme.json](./404234-welme.json) |
 | Welt der Wunder: Eine Insel in Gefahr | 401850 | [401850-welt-der-wunder-eine-insel-in-gefahr.json](./401850-welt-der-wunder-eine-insel-in-gefahr.json) |
+| Weltkrieg 1: Firestorm | 402015 | [402015-weltkrieg-1-firestorm.json](./402015-weltkrieg-1-firestorm.json) |
 | Weltorv Estleia | 166556 | [166556-weltorv-estleia.json](./166556-weltorv-estleia.json) |
 | Weltreich: Political Strategy Simulator | 151071 | [151071-weltreich-political-strategy-simulator.json](./151071-weltreich-political-strategy-simulator.json) |
 | Weltschmerz | 177809 | [177809-weltschmerz.json](./177809-weltschmerz.json) |
