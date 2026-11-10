@@ -3186,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
 | Basements & Bugbears | 177888 | [177888-basements-and-bugbears.json](./177888-basements-and-bugbears.json) |
 | Basements n' Basilisks: Storms of Sorcery | 234664 | [234664-basements-n-basilisks-storms-of-sorcery.json](./234664-basements-n-basilisks-storms-of-sorcery.json) |
+| BaseRogue | 418071 | [418071-baserogue.json](./418071-baserogue.json) |
 | Bases and Bandits | 215145 | [215145-bases-and-bandits.json](./215145-bases-and-bandits.json) |
 | Bases Loaded | 242041 | [242041-bases-loaded.json](./242041-bases-loaded.json) |
 | Bases Loaded | 7764 | [7764-bases-loaded.json](./7764-bases-loaded.json) |
@@ -8504,6 +8505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binky show | 123512 | [123512-binky-show.json](./123512-binky-show.json) |
 | Binky XXIV: Game Streamer "Binky" Plays Grotto of the Grebulons | 279024 | [279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json](./279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
+| Binxonia | 418086 | [418086-binxonia.json](./418086-binxonia.json) |
 | Binyuu Hunter | 426046 | [426046-binyuu-hunter.json](./426046-binyuu-hunter.json) |
 | Bio Attack | 40031 | [40031-bio-attack.json](./40031-bio-attack.json) |
 | Bio Blaster | 354889 | [354889-bio-blaster.json](./354889-bio-blaster.json) |
@@ -9361,6 +9363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Box: Hacker Day One | 406161 | [406161-black-box-hacker-day-one.json](./406161-black-box-hacker-day-one.json) |
 | Black Butler: Phantom & Ghost | 115532 | [115532-black-butler-phantom-and-ghost.json](./115532-black-butler-phantom-and-ghost.json) |
 | Black Butterfly | 121299 | [121299-black-butterfly.json](./121299-black-butterfly.json) |
+| Black Camelot | 418088 | [418088-black-camelot.json](./418088-black-camelot.json) |
 | Black Castle | 143051 | [143051-black-castle.json](./143051-black-castle.json) |
 | Black Castle | 284161 | [284161-black-castle.json](./284161-black-castle.json) |
 | Black Castle | 377328 | [377328-black-castle.json](./377328-black-castle.json) |
@@ -13019,6 +13022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolek i Lolek: Język angielski dla najmłodszych | 351832 | [351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json](./351832-bolek-i-lolek-jezyk-angielski-dla-najm-odszych.json) |
 | Bolek i Lolek: Tajemnicze Zamczysko | 218514 | [218514-bolek-i-lolek-tajemnicze-zamczysko.json](./218514-bolek-i-lolek-tajemnicze-zamczysko.json) |
 | Bolero | 331797 | [331797-bolero.json](./331797-bolero.json) |
+| Bolero: The Shifting Isle | 418087 | [418087-bolero-the-shifting-isle.json](./418087-bolero-the-shifting-isle.json) |
 | Bolf | 125066 | [125066-bolf.json](./125066-bolf.json) |
 | Bolf: A Golfoxing Game | 341825 | [341825-bolf-a-golfoxing-game.json](./341825-bolf-a-golfoxing-game.json) |
 | Bolhas | 230644 | [230644-bolhas.json](./230644-bolhas.json) |
