@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubermosh Vol.5 | 38808 | [38808-ubermosh-vol-5.json](./38808-ubermosh-vol-5.json) |
 | Ubermosh Vol.7 | 115377 | [115377-ubermosh-vol-7.json](./115377-ubermosh-vol-7.json) |
 | Ubermosh: Black | 33464 | [33464-ubermosh-black.json](./33464-ubermosh-black.json) |
+| Ubermosh: Santicide | 105620 | [105620-ubermosh-santicide.json](./105620-ubermosh-santicide.json) |
 | Ubermosh: Wraith | 29601 | [29601-ubermosh-wraith.json](./29601-ubermosh-wraith.json) |
 | Uberslaughter | 266308 | [266308-uberslaughter.json](./266308-uberslaughter.json) |
 | Ubersoldier | 296269 | [296269-ubersoldier.json](./296269-ubersoldier.json) |
