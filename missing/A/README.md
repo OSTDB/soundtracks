@@ -11558,6 +11558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Answer Campus | 260408 | [260408-answer-campus.json](./260408-answer-campus.json) |
 | Answer Knot | 116888 | [116888-answer-knot.json](./116888-answer-knot.json) |
 | Answer Me | 157164 | [157164-answer-me.json](./157164-answer-me.json) |
+| Answer the Question | 108604 | [108604-answer-the-question.json](./108604-answer-the-question.json) |
 | Answer These 10 Questions And I'll Tell You What Kind of Lover You Are | 225786 | [225786-answer-these-10-questions-and-ill-tell-you-what-kind-of-lover-you-are.json](./225786-answer-these-10-questions-and-ill-tell-you-what-kind-of-lover-you-are.json) |
 | Answer To Survive | 290886 | [290886-answer-to-survive.json](./290886-answer-to-survive.json) |
 | Answered Prayers | 145035 | [145035-answered-prayers.json](./145035-answered-prayers.json) |
@@ -15396,6 +15397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Iridescence | 121514 | [121514-artificial-iridescence.json](./121514-artificial-iridescence.json) |
 | Artificial Life | 175221 | [175221-artificial-life.json](./175221-artificial-life.json) |
 | Artificial Life Simulator | 287719 | [287719-artificial-life-simulator.json](./287719-artificial-life-simulator.json) |
+| Artificial Mansion | 108080 | [108080-artificial-mansion.json](./108080-artificial-mansion.json) |
 | Artificial Nexus | 319849 | [319849-artificial-nexus.json](./319849-artificial-nexus.json) |
 | Artificial Selection | 136020 | [136020-artificial-selection.json](./136020-artificial-selection.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
