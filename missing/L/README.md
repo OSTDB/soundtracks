@@ -4531,6 +4531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar's Bar | 317695 | [317695-liars-bar.json](./317695-liars-bar.json) |
 | Liar's Dice | 345540 | [345540-liars-dice.json](./345540-liars-dice.json) |
 | Liar's Game | 292438 | [292438-liars-game.json](./292438-liars-game.json) |
+| Liar's Lift | 396855 | [396855-liars-lift.json](./396855-liars-lift.json) |
 | Liar’s Line | 382762 | [382762-liar-s-line.json](./382762-liar-s-line.json) |
 | Liar's Lounge | 325003 | [325003-liars-lounge.json](./325003-liars-lounge.json) |
 | Liar's Pub | 327440 | [327440-liars-pub.json](./327440-liars-pub.json) |
@@ -10643,6 +10644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Island | 384761 | [384761-lust-island.json](./384761-lust-island.json) |
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
 | Lust of the Apartment Wives | 249106 | [249106-lust-of-the-apartment-wives.json](./249106-lust-of-the-apartment-wives.json) |
+| Lust Office MILFs | 396834 | [396834-lust-office-milfs.json](./396834-lust-office-milfs.json) |
 | Lust Potions | 304464 | [304464-lust-potions.json](./304464-lust-potions.json) |
 | Lust Shards | 318146 | [318146-lust-shards.json](./318146-lust-shards.json) |
 | Lust Sisters | 359290 | [359290-lust-sisters.json](./359290-lust-sisters.json) |
