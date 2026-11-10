@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Health | 236868 | [236868-harvest-health.json](./236868-harvest-health.json) |
 | Harvest Hero Origins | 154135 | [154135-harvest-hero-origins.json](./154135-harvest-hero-origins.json) |
 | Harvest Hills | 237221 | [237221-harvest-hills.json](./237221-harvest-hills.json) |
+| Harvest Hollow | 407616 | [407616-harvest-hollow.json](./407616-harvest-hollow.json) |
 | Harvest Hunt | 244410 | [244410-harvest-hunt.json](./244410-harvest-hunt.json) |
 | Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
 | Harvest Island | 133155 | [133155-harvest-island.json](./133155-harvest-island.json) |
@@ -8493,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hina-chan no Yakiniku Party | 208404 | [208404-hina-chan-no-yakiniku-party.json](./208404-hina-chan-no-yakiniku-party.json) |
 | Hina-chan Snowtime | 208260 | [208260-hina-chan-snowtime.json](./208260-hina-chan-snowtime.json) |
 | Hina-chan's Sticker Survival | 315088 | [315088-hina-chans-sticker-survival.json](./315088-hina-chans-sticker-survival.json) |
+| Hinadori no Saezuri | 407963 | [407963-hinadori-no-saezuri.json](./407963-hinadori-no-saezuri.json) |
 | Hinami Bay | 243554 | [243554-hinami-bay.json](./243554-hinami-bay.json) |
 | Hinamizawa Branch School Basketball Tournament | 257559 | [257559-hinamizawa-branch-school-basketball-tournament.json](./257559-hinamizawa-branch-school-basketball-tournament.json) |
 | Hinata in Hot Maze | 163888 | [163888-hinata-in-hot-maze.json](./163888-hinata-in-hot-maze.json) |
