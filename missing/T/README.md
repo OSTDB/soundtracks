@@ -10288,6 +10288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frog Game Amazing Simulator | 100861 | [100861-the-frog-game-amazing-simulator.json](./100861-the-frog-game-amazing-simulator.json) |
 | The Frog Prince | 149224 | [149224-the-frog-prince.json](./149224-the-frog-prince.json) |
 | The Frog Prince | 230635 | [230635-the-frog-prince.json](./230635-the-frog-prince.json) |
+| The Frog Prince | 412672 | [412672-the-frog-prince.json](./412672-the-frog-prince.json) |
 | The Frog That Leapt Too Far | 381667 | [381667-the-frog-that-leapt-too-far.json](./381667-the-frog-that-leapt-too-far.json) |
 | The Frog’s Adventure | 401538 | [401538-the-frog-s-adventure.json](./401538-the-frog-s-adventure.json) |
 | The Froglings | 338305 | [338305-the-froglings.json](./338305-the-froglings.json) |
