@@ -6416,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic III: Complete | 51820 | [51820-heroes-of-might-and-magic-iii-complete.json](./51820-heroes-of-might-and-magic-iii-complete.json) |
 | Heroes of Might and Magic III: Horn of the Abyss | 14173 | [14173-heroes-of-might-and-magic-iii-horn-of-the-abyss.json](./14173-heroes-of-might-and-magic-iii-horn-of-the-abyss.json) |
 | Heroes of Might and Magic III: The Shadow of Death | 366 | [366-heroes-of-might-and-magic-iii-the-shadow-of-death.json](./366-heroes-of-might-and-magic-iii-the-shadow-of-death.json) |
+| Heroes of Might and Magic IV: Complete Edition | 25364 | [25364-heroes-of-might-and-magic-iv-complete-edition.json](./25364-heroes-of-might-and-magic-iv-complete-edition.json) |
 | Heroes of Might and Magic IV: The Gathering Storm | 368 | [368-heroes-of-might-and-magic-iv-the-gathering-storm.json](./368-heroes-of-might-and-magic-iv-the-gathering-storm.json) |
 | Heroes of Might and Magic IV: Winds of War | 369 | [369-heroes-of-might-and-magic-iv-winds-of-war.json](./369-heroes-of-might-and-magic-iv-winds-of-war.json) |
 | Heroes of Might and Magic Online | 77230 | [77230-heroes-of-might-and-magic-online.json](./77230-heroes-of-might-and-magic-online.json) |
@@ -8754,6 +8755,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Collector's Edition | 41619 | [41619-hitman-collectors-edition.json](./41619-hitman-collectors-edition.json) |
 | Hitman: Contracts HD | 99815 | [99815-hitman-contracts-hd.json](./99815-hitman-contracts-hd.json) |
 | Hitman: Episode 2 - Sapienza | 91021 | [91021-hitman-episode-2-sapienza.json](./91021-hitman-episode-2-sapienza.json) |
+| Hitman: Episode 3 - Marrakesh | 91022 | [91022-hitman-episode-3-marrakesh.json](./91022-hitman-episode-3-marrakesh.json) |
+| Hitman: Episode 4 - Bangkok | 91023 | [91023-hitman-episode-4-bangkok.json](./91023-hitman-episode-4-bangkok.json) |
 | Hitman: Episode 5 - Colorado | 91024 | [91024-hitman-episode-5-colorado.json](./91024-hitman-episode-5-colorado.json) |
 | Hitman: Episode 6 - Hokkaido | 91025 | [91025-hitman-episode-6-hokkaido.json](./91025-hitman-episode-6-hokkaido.json) |
 | Hitman: Freelancer | 323712 | [323712-hitman-freelancer.json](./323712-hitman-freelancer.json) |
