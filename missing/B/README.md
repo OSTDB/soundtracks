@@ -7317,9 +7317,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyblade V-Force: Super Tournament Battle | 3807 | [3807-beyblade-v-force-super-tournament-battle.json](./3807-beyblade-v-force-super-tournament-battle.json) |
 | Beyblade VForce: Ultimate Blader Jam | 49164 | [49164-beyblade-vforce-ultimate-blader-jam.json](./49164-beyblade-vforce-ultimate-blader-jam.json) |
 | Beyblade X Evobattle | 369115 | [369115-beyblade-x-evobattle.json](./369115-beyblade-x-evobattle.json) |
+| Beyblade X Evobattle: Bey Coating Pattern & Color Add-on Kit Vol.2 | 409936 | [409936-beyblade-x-evobattle-bey-coating-pattern-and-color-add-on-kit-vol-2.json](./409936-beyblade-x-evobattle-bey-coating-pattern-and-color-add-on-kit-vol-2.json) |
 | Beyblade x Evobattle: Digital Beybooster Metal Coat | 378877 | [378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json](./378877-beyblade-x-evobattle-digital-beybooster-metal-coat.json) |
 | Beyblade x Evobattle: Digital Beybooster Vol. 2 | 378878 | [378878-beyblade-x-evobattle-digital-beybooster-vol-2.json](./378878-beyblade-x-evobattle-digital-beybooster-vol-2.json) |
 | Beyblade x Evobattle: Digital Beybooster Vol. 3 | 378879 | [378879-beyblade-x-evobattle-digital-beybooster-vol-3.json](./378879-beyblade-x-evobattle-digital-beybooster-vol-3.json) |
+| Beyblade X Evobattle: Digital Beybooster Vol.10 | 409937 | [409937-beyblade-x-evobattle-digital-beybooster-vol-10.json](./409937-beyblade-x-evobattle-digital-beybooster-vol-10.json) |
+| Beyblade X Evobattle: Digital Beybooster Vol.8 | 409938 | [409938-beyblade-x-evobattle-digital-beybooster-vol-8.json](./409938-beyblade-x-evobattle-digital-beybooster-vol-8.json) |
+| Beyblade X Evobattle: Digital Beybooster Vol.9 | 409939 | [409939-beyblade-x-evobattle-digital-beybooster-vol-9.json](./409939-beyblade-x-evobattle-digital-beybooster-vol-9.json) |
 | Beyblade X Xone | 314959 | [314959-beyblade-x-xone.json](./314959-beyblade-x-xone.json) |
 | Beyblade: Burst Rivals | 108628 | [108628-beyblade-burst-rivals.json](./108628-beyblade-burst-rivals.json) |
 | Beyblade: Evolution | 21566 | [21566-beyblade-evolution.json](./21566-beyblade-evolution.json) |
@@ -15708,6 +15712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Minus | 139163 | [139163-brawl-minus.json](./139163-brawl-minus.json) |
 | Brawl Party | 390117 | [390117-brawl-party.json](./390117-brawl-party.json) |
 | Brawl Royale | 269326 | [269326-brawl-royale.json](./269326-brawl-royale.json) |
+| Brawl Snakes | 409928 | [409928-brawl-snakes.json](./409928-brawl-snakes.json) |
 | Brawl Squad X: Battle Arena | 392082 | [392082-brawl-squad-x-battle-arena.json](./392082-brawl-squad-x-battle-arena.json) |
 | Brawl Stars: Angels vs. Demons | 335800 | [335800-brawl-stars-angels-vs-demons.json](./335800-brawl-stars-angels-vs-demons.json) |
 | Brawl Stars: Back To Ranger Ranch | 318588 | [318588-brawl-stars-back-to-ranger-ranch.json](./318588-brawl-stars-back-to-ranger-ranch.json) |
@@ -16584,6 +16589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brighter Than Burning | 334300 | [334300-brighter-than-burning.json](./334300-brighter-than-burning.json) |
 | Brighter Tomorrow | 427831 | [427831-brighter-tomorrow.json](./427831-brighter-tomorrow.json) |
 | Brightest | 82353 | [82353-brightest.json](./82353-brightest.json) |
+| Brightest Bulb in the Darkest Room | 409898 | [409898-brightest-bulb-in-the-darkest-room.json](./409898-brightest-bulb-in-the-darkest-room.json) |
 | Brightest Star | 369621 | [369621-brightest-star.json](./369621-brightest-star.json) |
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
 | BrightGunner | 343585 | [343585-brightgunner.json](./343585-brightgunner.json) |
