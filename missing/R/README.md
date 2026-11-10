@@ -3707,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recharge Complete | 75171 | [75171-recharge-complete.json](./75171-recharge-complete.json) |
 | ReCharge RC | 233758 | [233758-recharge-rc.json](./233758-recharge-rc.json) |
 | ReCharge RC: High Voltage | 330565 | [330565-recharge-rc-high-voltage.json](./330565-recharge-rc-high-voltage.json) |
+| Recharged | 424295 | [424295-recharged.json](./424295-recharged.json) |
 | Recipe for Disaster | 146273 | [146273-recipe-for-disaster.json](./146273-recipe-for-disaster.json) |
 | Recipe For Disaster | 398022 | [398022-recipe-for-disaster.json](./398022-recipe-for-disaster.json) |
 | Recipe For Love | 177354 | [177354-recipe-for-love.json](./177354-recipe-for-love.json) |
