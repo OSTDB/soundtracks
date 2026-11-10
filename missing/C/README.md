@@ -9157,6 +9157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chucky: Slash & Dash | 307138 | [307138-chucky-slash-and-dash.json](./307138-chucky-slash-and-dash.json) |
 | Chucky: The Road To Heaven | 235449 | [235449-chucky-the-road-to-heaven.json](./235449-chucky-the-road-to-heaven.json) |
 | Chucky: Wanna Play? | 242162 | [242162-chucky-wanna-play.json](./242162-chucky-wanna-play.json) |
+| Chud Worm | 421776 | [421776-chud-worm.json](./421776-chud-worm.json) |
 | Chug the Tiny Tugboat | 213548 | [213548-chug-the-tiny-tugboat.json](./213548-chug-the-tiny-tugboat.json) |
 | Chuggington: Babysitter Brewster | 230548 | [230548-chuggington-babysitter-brewster.json](./230548-chuggington-babysitter-brewster.json) |
 | Chuhou Joutai | 133460 | [133460-chuhou-joutai.json](./133460-chuhou-joutai.json) |
@@ -15513,6 +15514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corecraft | 307107 | [307107-corecraft.json](./307107-corecraft.json) |
 | Coredump | 408440 | [408440-coredump.json](./408440-coredump.json) |
 | Coregrounds | 11344 | [11344-coregrounds.json](./11344-coregrounds.json) |
+| Corel Wild Cards | 421856 | [421856-corel-wild-cards.json](./421856-corel-wild-cards.json) |
 | Coreless | 267730 | [267730-coreless.json](./267730-coreless.json) |
 | Corelith | 406237 | [406237-corelith.json](./406237-corelith.json) |
 | Corenoid: Let's Build Steel Maidens | 82623 | [82623-corenoid-lets-build-steel-maidens.json](./82623-corenoid-lets-build-steel-maidens.json) |
@@ -21960,6 +21962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybrix | 261213 | [261213-cybrix.json](./261213-cybrix.json) |
 | Cybrlich and the Death Cult of Labor | 327800 | [327800-cybrlich-and-the-death-cult-of-labor.json](./327800-cybrlich-and-the-death-cult-of-labor.json) |
 | Cybro | 389732 | [389732-cybro.json](./389732-cybro.json) |
+| Cybrogue | 421853 | [421853-cybrogue.json](./421853-cybrogue.json) |
 | Cybrus | 107610 | [107610-cybrus.json](./107610-cybrus.json) |
 | Cybus Adventure | 412927 | [412927-cybus-adventure.json](./412927-cybus-adventure.json) |
 | Cybxus Heart | 145842 | [145842-cybxus-heart.json](./145842-cybxus-heart.json) |
