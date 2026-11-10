@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earn to Die 2: Exodus | 101914 | [101914-earn-to-die-2-exodus.json](./101914-earn-to-die-2-exodus.json) |
 | Earn to Die 2012 | 378003 | [378003-earn-to-die-2012.json](./378003-earn-to-die-2012.json) |
 | Earn To Die 3 | 345928 | [345928-earn-to-die-3.json](./345928-earn-to-die-3.json) |
+| Earn to Die HD | 86888 | [86888-earn-to-die-hd.json](./86888-earn-to-die-hd.json) |
 | Earn to Die Rogue | 300653 | [300653-earn-to-die-rogue.json](./300653-earn-to-die-rogue.json) |
 | Earn Your Legacy | 404078 | [404078-earn-your-legacy.json](./404078-earn-your-legacy.json) |
 | Earnest Evans Collection | 375602 | [375602-earnest-evans-collection.json](./375602-earnest-evans-collection.json) |
@@ -6857,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European War | 100604 | [100604-european-war.json](./100604-european-war.json) |
 | European War 2 | 90887 | [90887-european-war-2.json](./90887-european-war-2.json) |
 | European War 3 | 87915 | [87915-european-war-3.json](./87915-european-war-3.json) |
+| European War 4: Napoleon | 87599 | [87599-european-war-4-napoleon.json](./87599-european-war-4-napoleon.json) |
 | European War 5: Empire | 89709 | [89709-european-war-5-empire.json](./89709-european-war-5-empire.json) |
 | European War 6: 1914 | 208202 | [208202-european-war-6-1914.json](./208202-european-war-6-1914.json) |
 | European War 7: Medieval | 193821 | [193821-european-war-7-medieval.json](./193821-european-war-7-medieval.json) |
@@ -8577,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Car Drift Simulator | 234197 | [234197-extreme-car-drift-simulator.json](./234197-extreme-car-drift-simulator.json) |
 | Extreme Car Driver | 165608 | [165608-extreme-car-driver.json](./165608-extreme-car-driver.json) |
 | Extreme Car Driving Sim 3D | 104222 | [104222-extreme-car-driving-sim-3d.json](./104222-extreme-car-driving-sim-3d.json) |
+| Extreme Car Driving Simulator | 87021 | [87021-extreme-car-driving-simulator.json](./87021-extreme-car-driving-simulator.json) |
 | Extreme Car Parking! | 310196 | [310196-extreme-car-parking.json](./310196-extreme-car-parking.json) |
 | Extreme Car Stunts Classic: Demolition Wreckfast | 95806 | [95806-extreme-car-stunts-classic-demolition-wreckfast.json](./95806-extreme-car-stunts-classic-demolition-wreckfast.json) |
 | Extreme Catch: Boat Crab & Fishing Simulator | 336454 | [336454-extreme-catch-boat-crab-and-fishing-simulator.json](./336454-extreme-catch-boat-crab-and-fishing-simulator.json) |
