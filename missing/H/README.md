@@ -4250,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Galaxy | 277918 | [277918-hell-galaxy.json](./277918-hell-galaxy.json) |
 | Hell Games | 272760 | [272760-hell-games.json](./272760-hell-games.json) |
 | Hell Girl | 272078 | [272078-hell-girl.json](./272078-hell-girl.json) |
+| Hell Girls | 29852 | [29852-hell-girls.json](./29852-hell-girls.json) |
 | Hell God | 267724 | [267724-hell-god.json](./267724-hell-god.json) |
 | Hell Green Blue | 203842 | [203842-hell-green-blue.json](./203842-hell-green-blue.json) |
 | Hell Grocery | 219826 | [219826-hell-grocery.json](./219826-hell-grocery.json) |
@@ -6967,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexSwarm: Hostile Worlds | 389721 | [389721-hexswarm-hostile-worlds.json](./389721-hexswarm-hostile-worlds.json) |
 | Hextalia | 353966 | [353966-hextalia.json](./353966-hextalia.json) |
 | HexTD | 212834 | [212834-hextd.json](./212834-hextd.json) |
+| Hextech Mayhem: A League of Legends Story | 180299 | [180299-hextech-mayhem-a-league-of-legends-story.json](./180299-hextech-mayhem-a-league-of-legends-story.json) |
 | Hexteria | 153889 | [153889-hexteria.json](./153889-hexteria.json) |
 | Hexterio | 122834 | [122834-hexterio.json](./122834-hexterio.json) |
 | Hexterminate | 133411 | [133411-hexterminate.json](./133411-hexterminate.json) |
