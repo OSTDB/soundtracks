@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hachi Hachi | 56304 | [56304-hachi-hachi.json](./56304-hachi-hachi.json) |
 | Hachi Hachi Mystery | 168609 | [168609-hachi-hachi-mystery.json](./168609-hachi-hachi-mystery.json) |
 | Hachi: Eight Feet Tall | 381981 | [381981-hachi-eight-feet-tall.json](./381981-hachi-eight-feet-tall.json) |
+| Hachiban Kareshi | 416464 | [416464-hachiban-kareshi.json](./416464-hachiban-kareshi.json) |
 | Hachiemon | 49595 | [49595-hachiemon.json](./49595-hachiemon.json) |
 | HachikanShogi Matta Ari | 329057 | [329057-hachikanshogi-matta-ari.json](./329057-hachikanshogi-matta-ari.json) |
 | Hachinoid | 298948 | [298948-hachinoid.json](./298948-hachinoid.json) |
@@ -7353,9 +7354,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Kingdom: Top-Down 3D | 257068 | [257068-hidden-kingdom-top-down-3d.json](./257068-hidden-kingdom-top-down-3d.json) |
 | Hidden Kitten | 251935 | [251935-hidden-kitten.json](./251935-hidden-kitten.json) |
 | Hidden Kooky Set | 362584 | [362584-hidden-kooky-set.json](./362584-hidden-kooky-set.json) |
+| Hidden Land: Land of Dusk | 416485 | [416485-hidden-land-land-of-dusk.json](./416485-hidden-land-land-of-dusk.json) |
 | Hidden Lands | 343784 | [343784-hidden-lands.json](./343784-hidden-lands.json) |
 | Hidden Legacy: Dark Heirloom | 416709 | [416709-hidden-legacy-dark-heirloom.json](./416709-hidden-legacy-dark-heirloom.json) |
 | Hidden Legacy: Dark Heirloom - Collector's Edition | 360637 | [360637-hidden-legacy-dark-heirloom-collectors-edition.json](./360637-hidden-legacy-dark-heirloom-collectors-edition.json) |
+| Hidden Legacy: Whispering Walls | 416472 | [416472-hidden-legacy-whispering-walls.json](./416472-hidden-legacy-whispering-walls.json) |
+| Hidden Legacy: Whispering Walls - Collector's Edition | 416473 | [416473-hidden-legacy-whispering-walls-collectors-edition.json](./416473-hidden-legacy-whispering-walls-collectors-edition.json) |
 | Hidden Legends | 370817 | [370817-hidden-legends.json](./370817-hidden-legends.json) |
 | Hidden Legends 2 | 405908 | [405908-hidden-legends-2.json](./405908-hidden-legends-2.json) |
 | Hidden Life | 90406 | [90406-hidden-life.json](./90406-hidden-life.json) |
@@ -7756,6 +7760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden World War II: Top-Down 3D | 269976 | [269976-hidden-world-war-ii-top-down-3d.json](./269976-hidden-world-war-ii-top-down-3d.json) |
 | Hidden Worlds Bundle | 328520 | [328520-hidden-worlds-bundle.json](./328520-hidden-worlds-bundle.json) |
 | HiddenFrog | 186124 | [186124-hiddenfrog.json](./186124-hiddenfrog.json) |
+| Hiddenius: Crystal Prophecy | 416480 | [416480-hiddenius-crystal-prophecy.json](./416480-hiddenius-crystal-prophecy.json) |
 | HiddenLight | 291424 | [291424-hiddenlight.json](./291424-hiddenlight.json) |
 | HiddenObjects Grimm's Fairy Tales | 105502 | [105502-hiddenobjects-grimms-fairy-tales.json](./105502-hiddenobjects-grimms-fairy-tales.json) |
 | Hiddens Awakening | 212998 | [212998-hiddens-awakening.json](./212998-hiddens-awakening.json) |
@@ -8184,6 +8189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Warriors Remastered | 371930 | [371930-highway-warriors-remastered.json](./371930-highway-warriors-remastered.json) |
 | Highway Wars | 88041 | [88041-highway-wars.json](./88041-highway-wars.json) |
 | Highway Zombie Survival: Car Apocalypse | 306544 | [306544-highway-zombie-survival-car-apocalypse.json](./306544-highway-zombie-survival-car-apocalypse.json) |
+| Highways & Co. | 416899 | [416899-highways-and-co.json](./416899-highways-and-co.json) |
 | Higurashi Daybreak | 69127 | [69127-higurashi-daybreak.json](./69127-higurashi-daybreak.json) |
 | Higurashi Daybreak Kai | 64828 | [64828-higurashi-daybreak-kai.json](./64828-higurashi-daybreak-kai.json) |
 | Higurashi Daybreak Portable | 38477 | [38477-higurashi-daybreak-portable.json](./38477-higurashi-daybreak-portable.json) |
