@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oak Hill | 219043 | [219043-oak-hill.json](./219043-oak-hill.json) |
 | Oak Quercana | 401479 | [401479-oak-quercana.json](./401479-oak-quercana.json) |
 | Oakbound Quest | 379316 | [379316-oakbound-quest.json](./379316-oakbound-quest.json) |
+| Oaken | 165396 | [165396-oaken.json](./165396-oaken.json) |
 | Oaken Tower | 345143 | [345143-oaken-tower.json](./345143-oaken-tower.json) |
 | Oakenfold | 163742 | [163742-oakenfold.json](./163742-oakenfold.json) |
 | Oakley's World | 337601 | [337601-oakleys-world.json](./337601-oakleys-world.json) |
@@ -3293,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onryo | 132270 | [132270-onryo.json](./132270-onryo.json) |
 | Onryou Senki | 77561 | [77561-onryou-senki.json](./77561-onryou-senki.json) |
 | Onsei Kanjou Sokuteiki: Kokoro Scan | 314324 | [314324-onsei-kanjou-sokuteiki-kokoro-scan.json](./314324-onsei-kanjou-sokuteiki-kokoro-scan.json) |
+| Onsen Master | 122192 | [122192-onsen-master.json](./122192-onsen-master.json) |
 | Onsen MILF Rainbow Party | 393380 | [393380-onsen-milf-rainbow-party.json](./393380-onsen-milf-rainbow-party.json) |
 | Onsen mo Issho | 246072 | [246072-onsen-mo-issho.json](./246072-onsen-mo-issho.json) |
 | Onsen Nozokimi Daisakusen | 306679 | [306679-onsen-nozokimi-daisakusen.json](./306679-onsen-nozokimi-daisakusen.json) |
@@ -3384,6 +3386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oooku | 97792 | [97792-oooku.json](./97792-oooku.json) |
 | Ooooo | 304136 | [304136-ooooo.json](./304136-ooooo.json) |
 | Ooops Up | 84290 | [84290-ooops-up.json](./84290-ooops-up.json) |
+| Ooops! 2 | 165604 | [165604-ooops-2.json](./165604-ooops-2.json) |
 | Ooparts | 269600 | [269600-ooparts.json](./269600-ooparts.json) |
 | Oopi's Quest | 120530 | [120530-oopis-quest.json](./120530-oopis-quest.json) |
 | Oopils | 405937 | [405937-oopils.json](./405937-oopils.json) |
@@ -3952,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbi Universo II | 334043 | [334043-orbi-universo-ii.json](./334043-orbi-universo-ii.json) |
 | Orbi's Chronicles | 149342 | [149342-orbis-chronicles.json](./149342-orbis-chronicles.json) |
 | Orbia | 88028 | [88028-orbia.json](./88028-orbia.json) |
+| Orbibot | 165208 | [165208-orbibot.json](./165208-orbibot.json) |
 | Orbifall | 379875 | [379875-orbifall.json](./379875-orbifall.json) |
 | Orbion | 370331 | [370331-orbion.json](./370331-orbion.json) |
 | Orbis - Throw them all! | 134980 | [134980-orbis-throw-them-all.json](./134980-orbis-throw-them-all.json) |
@@ -4637,6 +4641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osiris | 116067 | [116067-osiris.json](./116067-osiris.json) |
 | Osiris | 224954 | [224954-osiris.json](./224954-osiris.json) |
 | Osiris: New Dawn | 23732 | [23732-osiris-new-dawn.json](./23732-osiris-new-dawn.json) |
+| Osk | 122149 | [122149-osk.json](./122149-osk.json) |
 | Oslo: 2084 | 253890 | [253890-oslo-2084.json](./253890-oslo-2084.json) |
 | Osman Gazi | 158311 | [158311-osman-gazi.json](./158311-osman-gazi.json) |
 | Osman Ghazi: Ottoman Rising | 382297 | [382297-osman-ghazi-ottoman-rising.json](./382297-osman-ghazi-ottoman-rising.json) |
@@ -5269,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out There | 9539 | [9539-out-there.json](./9539-out-there.json) |
 | Out There Chronicles - Ep. 1 | 58224 | [58224-out-there-chronicles-ep-1.json](./58224-out-there-chronicles-ep-1.json) |
 | Out There Chronicles - Ep. 2 | 200185 | [200185-out-there-chronicles-ep-2.json](./200185-out-there-chronicles-ep-2.json) |
+| Out There: Oceans of Time | 122071 | [122071-out-there-oceans-of-time.json](./122071-out-there-oceans-of-time.json) |
 | Out There: Ω The Alliance | 147433 | [147433-out-there-the-alliance.json](./147433-out-there-the-alliance.json) |
 | Out There: Ω The Alliance | 341053 | [341053-out-there-the-alliance.json](./341053-out-there-the-alliance.json) |
 | Out Zone | 93519 | [93519-out-zone.json](./93519-out-zone.json) |
@@ -5773,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcome | 113631 | [113631-overcome.json](./113631-overcome.json) |
 | Overcome Your Fears: Caretaker | 333822 | [333822-overcome-your-fears-caretaker.json](./333822-overcome-your-fears-caretaker.json) |
 | Overcooked! 2: Campfire Cook Off | 116659 | [116659-overcooked-2-campfire-cook-off.json](./116659-overcooked-2-campfire-cook-off.json) |
+| Overcooked! 2: Carnival of Chaos | 122083 | [122083-overcooked-2-carnival-of-chaos.json](./122083-overcooked-2-carnival-of-chaos.json) |
 | Overcooked! 2: Gourmet Edition | 132976 | [132976-overcooked-2-gourmet-edition.json](./132976-overcooked-2-gourmet-edition.json) |
 | Overcooked! 2: Night of the Hangry Horde | 120177 | [120177-overcooked-2-night-of-the-hangry-horde.json](./120177-overcooked-2-night-of-the-hangry-horde.json) |
 | Overcooked! 2: Sun's Out Buns Out | 135386 | [135386-overcooked-2-suns-out-buns-out.json](./135386-overcooked-2-suns-out-buns-out.json) |
