@@ -498,6 +498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Conundrum: The Desmond Debacle | 172125 | [172125-quantum-conundrum-the-desmond-debacle.json](./172125-quantum-conundrum-the-desmond-debacle.json) |
 | Quantum Cortex | 261681 | [261681-quantum-cortex.json](./261681-quantum-cortex.json) |
 | Quantum Covenant | 113718 | [113718-quantum-covenant.json](./113718-quantum-covenant.json) |
+| Quantum Covenant | 416236 | [416236-quantum-covenant.json](./416236-quantum-covenant.json) |
 | Quantum Curse | 385776 | [385776-quantum-curse.json](./385776-quantum-curse.json) |
 | Quantum Derail | 182939 | [182939-quantum-derail.json](./182939-quantum-derail.json) |
 | Quantum Derelict | 254408 | [254408-quantum-derelict.json](./254408-quantum-derelict.json) |
