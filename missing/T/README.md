@@ -3480,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tee Off! | 95449 | [95449-tee-off.json](./95449-tee-off.json) |
 | Tee Time | 206227 | [206227-tee-time.json](./206227-tee-time.json) |
 | Tee Time | 273714 | [273714-tee-time.json](./273714-tee-time.json) |
+| Tee Time Golf | 108248 | [108248-tee-time-golf.json](./108248-tee-time-golf.json) |
 | Tee-riffic Golf. | 180775 | [180775-tee-riffic-golf.json](./180775-tee-riffic-golf.json) |
 | Tee'd Off | 40482 | [40482-teed-off.json](./40482-teed-off.json) |
 | TeeDee | 327390 | [327390-teedee.json](./327390-teedee.json) |
@@ -19553,6 +19554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The War of the Willows | 59675 | [59675-the-war-of-the-willows.json](./59675-the-war-of-the-willows.json) |
 | The War of the Worlds | 20971 | [20971-the-war-of-the-worlds.json](./20971-the-war-of-the-worlds.json) |
 | The War of the Worlds | 25730 | [25730-the-war-of-the-worlds.json](./25730-the-war-of-the-worlds.json) |
+| The War of the Worlds: Andromeda | 109312 | [109312-the-war-of-the-worlds-andromeda.json](./109312-the-war-of-the-worlds-andromeda.json) |
 | The War of the Worlds: Siberia | 323955 | [323955-the-war-of-the-worlds-siberia.json](./323955-the-war-of-the-worlds-siberia.json) |
 | The War Will Win | 189323 | [189323-the-war-will-win.json](./189323-the-war-will-win.json) |
 | The War Zone Crisis | 339122 | [339122-the-war-zone-crisis.json](./339122-the-war-zone-crisis.json) |
@@ -19589,6 +19591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warrior War | 105101 | [105101-the-warrior-war.json](./105101-the-warrior-war.json) |
 | The Warrior's Path | 201526 | [201526-the-warriors-path.json](./201526-the-warriors-path.json) |
 | The Warrior's Tale | 73132 | [73132-the-warriors-tale.json](./73132-the-warriors-tale.json) |
+| The Warriorlock | 108290 | [108290-the-warriorlock.json](./108290-the-warriorlock.json) |
 | The Warriors: Street Brawl | 21218 | [21218-the-warriors-street-brawl.json](./21218-the-warriors-street-brawl.json) |
 | The Wars II Evolution | 255725 | [255725-the-wars-ii-evolution.json](./255725-the-wars-ii-evolution.json) |
 | The Wassie Games | 215730 | [215730-the-wassie-games.json](./215730-the-wassie-games.json) |
@@ -25540,6 +25543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToJam Thing | 92746 | [92746-tojam-thing.json](./92746-tojam-thing.json) |
 | Toji no Miko: Kizamishi Issen no Tomoshibi | 68382 | [68382-toji-no-miko-kizamishi-issen-no-tomoshibi.json](./68382-toji-no-miko-kizamishi-issen-no-tomoshibi.json) |
 | Tojibo | 373101 | [373101-tojibo.json](./373101-tojibo.json) |
+| Tok | 108329 | [108329-tok.json](./108329-tok.json) |
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
 | Tok Hardcore | 116868 | [116868-tok-hardcore.json](./116868-tok-hardcore.json) |
 | Tokachi Detective: The Balloon Case | 342889 | [342889-tokachi-detective-the-balloon-case.json](./342889-tokachi-detective-the-balloon-case.json) |
@@ -27978,6 +27982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touring Car Racer | 94513 | [94513-touring-car-racer.json](./94513-touring-car-racer.json) |
 | Touring Karts | 120478 | [120478-touring-karts.json](./120478-touring-karts.json) |
 | Tourist | 89206 | [89206-tourist.json](./89206-tourist.json) |
+| Tourist Bus Simulator | 109074 | [109074-tourist-bus-simulator.json](./109074-tourist-bus-simulator.json) |
 | Tourist Bus Simulator: BB40 | 168891 | [168891-tourist-bus-simulator-bb40.json](./168891-tourist-bus-simulator-bb40.json) |
 | Tourist Bus Simulator: Comfort Class HD | 168888 | [168888-tourist-bus-simulator-comfort-class-hd.json](./168888-tourist-bus-simulator-comfort-class-hd.json) |
 | Tourist Bus Simulator: Man Lion's Coach 3rd Gen | 168890 | [168890-tourist-bus-simulator-man-lions-coach-3rd-gen.json](./168890-tourist-bus-simulator-man-lions-coach-3rd-gen.json) |
