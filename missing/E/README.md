@@ -5668,6 +5668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Traam | 25591 | [25591-escape-from-traam.json](./25591-escape-from-traam.json) |
 | Escape from Tung Tung Sahur | 342485 | [342485-escape-from-tung-tung-sahur.json](./342485-escape-from-tung-tung-sahur.json) |
 | Escape From Twump Tower | 179492 | [179492-escape-from-twump-tower.json](./179492-escape-from-twump-tower.json) |
+| Escape from Umbra | 409283 | [409283-escape-from-umbra.json](./409283-escape-from-umbra.json) |
 | Escape from Vacov | 412993 | [412993-escape-from-vacov.json](./412993-escape-from-vacov.json) |
 | Escape From Vampire Castle: Miss Luna's Diary | 345397 | [345397-escape-from-vampire-castle-miss-lunas-diary.json](./345397-escape-from-vampire-castle-miss-lunas-diary.json) |
 | Escape From Violet Institute | 132355 | [132355-escape-from-violet-institute.json](./132355-escape-from-violet-institute.json) |
