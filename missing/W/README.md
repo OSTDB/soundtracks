@@ -2469,6 +2469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Out! | 100220 | [100220-watch-out.json](./100220-watch-out.json) |
 | Watch out!!! | 304191 | [304191-watch-out.json](./304191-watch-out.json) |
 | Watch Over Christmas | 97077 | [97077-watch-over-christmas.json](./97077-watch-over-christmas.json) |
+| Watch Paint Dry | 57312 | [57312-watch-paint-dry.json](./57312-watch-paint-dry.json) |
 | Watch Party | 340131 | [340131-watch-party.json](./340131-watch-party.json) |
 | Watch Quest! Heroes of Time | 60359 | [60359-watch-quest-heroes-of-time.json](./60359-watch-quest-heroes-of-time.json) |
 | Watch Restoration | 334039 | [334039-watch-restoration.json](./334039-watch-restoration.json) |
@@ -3692,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West of Dead | 125625 | [125625-west-of-dead.json](./125625-west-of-dead.json) |
 | West of Dead: Path of the Crow Edition | 154954 | [154954-west-of-dead-path-of-the-crow-edition.json](./154954-west-of-dead-path-of-the-crow-edition.json) |
 | West of Loathing: Reckonin' at Gun Manor | 154168 | [154168-west-of-loathing-reckonin-at-gun-manor.json](./154168-west-of-loathing-reckonin-at-gun-manor.json) |
+| West of Red | 59137 | [59137-west-of-red.json](./59137-west-of-red.json) |
 | West of the Witchlands | 272882 | [272882-west-of-the-witchlands.json](./272882-west-of-the-witchlands.json) |
 | West Ride | 256334 | [256334-west-ride.json](./256334-west-ride.json) |
 | West Somerset Railway Route | 53916 | [53916-west-somerset-railway-route.json](./53916-west-somerset-railway-route.json) |
@@ -7810,6 +7812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Chums | 91135 | [91135-word-chums.json](./91135-word-chums.json) |
 | Word Club: Word Puzzle Game | 106358 | [106358-word-club-word-puzzle-game.json](./106358-word-club-word-puzzle-game.json) |
 | Word Colors | 174468 | [174468-word-colors.json](./174468-word-colors.json) |
+| Word Connect | 57583 | [57583-word-connect.json](./57583-word-connect.json) |
 | Word Connect | 88761 | [88761-word-connect.json](./88761-word-connect.json) |
 | Word Connect 2 | 105965 | [105965-word-connect-2.json](./105965-word-connect-2.json) |
 | Word Connect HD | 96069 | [96069-word-connect-hd.json](./96069-word-connect-hd.json) |
