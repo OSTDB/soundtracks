@@ -3067,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawken Reborn | 249704 | [249704-hawken-reborn.json](./249704-hawken-reborn.json) |
 | Hawken Skate Boarder | 321781 | [321781-hawken-skate-boarder.json](./321781-hawken-skate-boarder.json) |
 | Hawker | 400847 | [400847-hawker.json](./400847-hawker.json) |
+| Hawkeye | 22521 | [22521-hawkeye.json](./22521-hawkeye.json) |
 | Hawkins Invasion | 245186 | [245186-hawkins-invasion.json](./245186-hawkins-invasion.json) |
 | Hawkquest | 77373 | [77373-hawkquest.json](./77373-hawkquest.json) |
 | Hawks of Bruyland | 329961 | [329961-hawks-of-bruyland.json](./329961-hawks-of-bruyland.json) |
@@ -7926,6 +7927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Girl Life Simulator | 102757 | [102757-high-school-girl-life-simulator.json](./102757-high-school-girl-life-simulator.json) |
 | High School Girl Simulator 3D | 299905 | [299905-high-school-girl-simulator-3d.json](./299905-high-school-girl-simulator-3d.json) |
 | High School Girls Detective: Escape from the Murder Time Loop | 257143 | [257143-high-school-girls-detective-escape-from-the-murder-time-loop.json](./257143-high-school-girls-detective-escape-from-the-murder-time-loop.json) |
+| High School Graffiti: Mikie | 22520 | [22520-high-school-graffiti-mikie.json](./22520-high-school-graffiti-mikie.json) |
 | High School Hills: Dreams & Nightmares | 277135 | [277135-high-school-hills-dreams-and-nightmares.json](./277135-high-school-hills-dreams-and-nightmares.json) |
 | High School Hook Ups | 239469 | [239469-high-school-hook-ups.json](./239469-high-school-hook-ups.json) |
 | High School Kimengumi | 41738 | [41738-high-school-kimengumi.json](./41738-high-school-kimengumi.json) |
