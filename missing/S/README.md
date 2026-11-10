@@ -2697,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBK 09: Superbike World Championship | 7179 | [7179-sbk-09-superbike-world-championship.json](./7179-sbk-09-superbike-world-championship.json) |
 | SBK 14: Official Mobile Game | 238673 | [238673-sbk-14-official-mobile-game.json](./238673-sbk-14-official-mobile-game.json) |
 | SBK 2011: Superbike World Championship | 41583 | [41583-sbk-2011-superbike-world-championship.json](./41583-sbk-2011-superbike-world-championship.json) |
+| SBK Generations | 41582 | [41582-sbk-generations.json](./41582-sbk-generations.json) |
 | SBK Team Manager | 200317 | [200317-sbk-team-manager.json](./200317-sbk-team-manager.json) |
 | SBK X: Superbike World Championship | 7180 | [7180-sbk-x-superbike-world-championship.json](./7180-sbk-x-superbike-world-championship.json) |
 | SBK-07 Superbike World Championship | 21421 | [21421-sbk-07-superbike-world-championship.json](./21421-sbk-07-superbike-world-championship.json) |
@@ -10411,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sick Samurai | 317516 | [317516-sick-samurai.json](./317516-sick-samurai.json) |
 | Sick Way | 127087 | [127087-sick-way.json](./127087-sick-way.json) |
 | Sickly Days and Summer Traces | 343869 | [343869-sickly-days-and-summer-traces.json](./343869-sickly-days-and-summer-traces.json) |
+| Sickness | 34145 | [34145-sickness.json](./34145-sickness.json) |
 | Sicko Island | 160200 | [160200-sicko-island.json](./160200-sicko-island.json) |
 | Sicko Sanctum 2 | 273904 | [273904-sicko-sanctum-2.json](./273904-sicko-sanctum-2.json) |
 | SickOw | 266023 | [266023-sickow.json](./266023-sickow.json) |
@@ -23042,6 +23044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinword | 69567 | [69567-spinword.json](./69567-spinword.json) |
 | Spinworld | 141356 | [141356-spinworld.json](./141356-spinworld.json) |
 | Spiny & Chilly | 355034 | [355034-spiny-and-chilly.json](./355034-spiny-and-chilly.json) |
+| Spiny Adventures | 41897 | [41897-spiny-adventures.json](./41897-spiny-adventures.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
 | Spiral | 99942 | [99942-spiral.json](./99942-spiral.json) |
@@ -25353,6 +25356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Monkey | 71291 | [71291-star-monkey.json](./71291-star-monkey.json) |
 | Star Mountain | 301059 | [301059-star-mountain.json](./301059-star-mountain.json) |
 | Star Nomad | 36067 | [36067-star-nomad.json](./36067-star-nomad.json) |
+| Star Nomad 2 | 34107 | [34107-star-nomad-2.json](./34107-star-nomad-2.json) |
 | Star Nomad Elite | 175236 | [175236-star-nomad-elite.json](./175236-star-nomad-elite.json) |
 | Star Ocean | 11209 | [11209-star-ocean.json](./11209-star-ocean.json) |
 | Star Ocean: Anamnesis | 25078 | [25078-star-ocean-anamnesis.json](./25078-star-ocean-anamnesis.json) |
@@ -28603,6 +28607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories in Glass: Winter | 274911 | [274911-stories-in-glass-winter.json](./274911-stories-in-glass-winter.json) |
 | Stories In Stone | 106434 | [106434-stories-in-stone.json](./106434-stories-in-stone.json) |
 | Stories of a Coup d'État: The Three Siblings | 417945 | [417945-stories-of-a-coup-detat-the-three-siblings.json](./417945-stories-of-a-coup-detat-the-three-siblings.json) |
+| Stories of Bethem: Full Moon | 34180 | [34180-stories-of-bethem-full-moon.json](./34180-stories-of-bethem-full-moon.json) |
 | Stories of Blossom | 172911 | [172911-stories-of-blossom.json](./172911-stories-of-blossom.json) |
 | Stories of Liane | 144603 | [144603-stories-of-liane.json](./144603-stories-of-liane.json) |
 | Stories of Mara | 154754 | [154754-stories-of-mara.json](./154754-stories-of-mara.json) |
@@ -34267,6 +34272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robin Hood | 39134 | [39134-super-robin-hood.json](./39134-super-robin-hood.json) |
 | Super Robo Gakuen | 68396 | [68396-super-robo-gakuen.json](./68396-super-robo-gakuen.json) |
 | Super Robolom | 83485 | [83485-super-robolom.json](./83485-super-robolom.json) |
+| Super Robot Jump Jump | 34204 | [34204-super-robot-jump-jump.json](./34204-super-robot-jump-jump.json) |
 | Super Robot Pinball | 71606 | [71606-super-robot-pinball.json](./71606-super-robot-pinball.json) |
 | Super Robot Shooting | 74768 | [74768-super-robot-shooting.json](./74768-super-robot-shooting.json) |
 | Super Robot Spirits | 3608 | [3608-super-robot-spirits.json](./3608-super-robot-spirits.json) |
