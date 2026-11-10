@@ -7971,6 +7971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cracks of Fire | 12948 | [12948-the-cracks-of-fire.json](./12948-the-cracks-of-fire.json) |
 | The Cradle | 379018 | [379018-the-cradle.json](./379018-the-cradle.json) |
 | The Cradle Bundle | 25523 | [25523-the-cradle-bundle.json](./25523-the-cradle-bundle.json) |
+| The Cradle of Ruin | 115143 | [115143-the-cradle-of-ruin.json](./115143-the-cradle-of-ruin.json) |
 | The Cradle of Thorns: My Brother Belongs to Me | 273258 | [273258-the-cradle-of-thorns-my-brother-belongs-to-me.json](./273258-the-cradle-of-thorns-my-brother-belongs-to-me.json) |
 | The Craft of the Samurai | 159809 | [159809-the-craft-of-the-samurai.json](./159809-the-craft-of-the-samurai.json) |
 | The Crafter's Defense | 169831 | [169831-the-crafters-defense.json](./169831-the-crafters-defense.json) |
@@ -8521,6 +8522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dead Rooms | 204229 | [204229-the-dead-rooms.json](./204229-the-dead-rooms.json) |
 | The Dead Sea Scrolls Adventure | 203798 | [203798-the-dead-sea-scrolls-adventure.json](./203798-the-dead-sea-scrolls-adventure.json) |
 | The Dead Town: Walking Zombies | 104556 | [104556-the-dead-town-walking-zombies.json](./104556-the-dead-town-walking-zombies.json) |
+| The Dead Tree of Ranchiuna | 114513 | [114513-the-dead-tree-of-ranchiuna.json](./114513-the-dead-tree-of-ranchiuna.json) |
 | The Dead We Knew: Open World Survival | 412960 | [412960-the-dead-we-knew-open-world-survival.json](./412960-the-dead-we-knew-open-world-survival.json) |
 | The Dead Zone | 268137 | [268137-the-dead-zone.json](./268137-the-dead-zone.json) |
 | The Dead Zone 2 | 308890 | [308890-the-dead-zone-2.json](./308890-the-dead-zone-2.json) |
@@ -13978,6 +13980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Loud House: Outta Control | 194336 | [194336-the-loud-house-outta-control.json](./194336-the-loud-house-outta-control.json) |
 | The Love | 121942 | [121942-the-love.json](./121942-the-love.json) |
 | The Love Boat: Puzzle Cruise | 138678 | [138678-the-love-boat-puzzle-cruise.json](./138678-the-love-boat-puzzle-cruise.json) |
+| The Love Boat: Second Chances | 114515 | [114515-the-love-boat-second-chances.json](./114515-the-love-boat-second-chances.json) |
 | The Love Bot | 53758 | [53758-the-love-bot.json](./53758-the-love-bot.json) |
 | The Love Interests get their Own Game | 183049 | [183049-the-love-interests-get-their-own-game.json](./183049-the-love-interests-get-their-own-game.json) |
 | The love letter | 398435 | [398435-the-love-letter.json](./398435-the-love-letter.json) |
@@ -16201,6 +16204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Refuge | 125097 | [125097-the-refuge.json](./125097-the-refuge.json) |
 | The Reggae Operation | 188119 | [188119-the-reggae-operation.json](./188119-the-reggae-operation.json) |
 | The Regiment | 22577 | [22577-the-regiment.json](./22577-the-regiment.json) |
+| The Region | 114959 | [114959-the-region.json](./114959-the-region.json) |
 | The Regions | 244623 | [244623-the-regions.json](./244623-the-regions.json) |
 | The Regreening | 350554 | [350554-the-regreening.json](./350554-the-regreening.json) |
 | The Regular: Same Dog Every Time | 411750 | [411750-the-regular-same-dog-every-time.json](./411750-the-regular-same-dog-every-time.json) |
@@ -16869,6 +16873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Servers Are Shutting Down in 24 Hours but My Pull Rate's Been Set to 0.0001%?! | 382984 | [382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json](./382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json) |
 | The Settlements | 259430 | [259430-the-settlements.json](./259430-the-settlements.json) |
 | The Settlers | 86493 | [86493-the-settlers.json](./86493-the-settlers.json) |
+| The Settlers : Heritage of Kings - History Edition | 114449 | [114449-the-settlers-heritage-of-kings-history-edition.json](./114449-the-settlers-heritage-of-kings-history-edition.json) |
 | The Settlers 5: History Edition | 113421 | [113421-the-settlers-5-history-edition.json](./113421-the-settlers-5-history-edition.json) |
 | The Settlers 7: History Edition | 114447 | [114447-the-settlers-7-history-edition.json](./114447-the-settlers-7-history-edition.json) |
 | The Settlers 7: Paths to a Kingdom - Conquest: The Empire Expansion | 225912 | [225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json](./225912-the-settlers-7-paths-to-a-kingdom-conquest-the-empire-expansion.json) |
@@ -25763,6 +25768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
 | Tokyo Waning Moon | 244567 | [244567-tokyo-waning-moon.json](./244567-tokyo-waning-moon.json) |
 | Tokyo Warfare | 32427 | [32427-tokyo-warfare.json](./32427-tokyo-warfare.json) |
+| Tokyo Warfare Turbo | 114443 | [114443-tokyo-warfare-turbo.json](./114443-tokyo-warfare-turbo.json) |
 | Tokyo Wizard | 106838 | [106838-tokyo-wizard.json](./106838-tokyo-wizard.json) |
 | Tokyo Xanadu | 11455 | [11455-tokyo-xanadu.json](./11455-tokyo-xanadu.json) |
 | Tokyo Xanadu eX+ | 26915 | [26915-tokyo-xanadu-ex.json](./26915-tokyo-xanadu-ex.json) |
