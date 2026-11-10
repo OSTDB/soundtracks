@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackie Chan's Action Kung Fu | 12522 | [12522-jackie-chans-action-kung-fu.json](./12522-jackie-chans-action-kung-fu.json) |
 | Jackie’s Forest: Outsourced | 396716 | [396716-jackie-s-forest-outsourced.json](./396716-jackie-s-forest-outsourced.json) |
 | Jackie's Tapes | 339402 | [339402-jackies-tapes.json](./339402-jackies-tapes.json) |
+| Jacknark | 425401 | [425401-jacknark.json](./425401-jacknark.json) |
 | Jacko in Hell | 393911 | [393911-jacko-in-hell.json](./393911-jacko-in-hell.json) |
 | Jacko in Hell 2 | 393912 | [393912-jacko-in-hell-2.json](./393912-jacko-in-hell-2.json) |
 | Jackplot | 346774 | [346774-jackplot.json](./346774-jackplot.json) |
