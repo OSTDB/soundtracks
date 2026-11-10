@@ -5368,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lillie is the Keeper | 232396 | [232396-lillie-is-the-keeper.json](./232396-lillie-is-the-keeper.json) |
 | Lilliput Hero: Miniature World | 344241 | [344241-lilliput-hero-miniature-world.json](./344241-lilliput-hero-miniature-world.json) |
 | Lilliput Oukoku: Lillimoni to Issho-puni! | 49663 | [49663-lilliput-oukoku-lillimoni-to-issho-puni.json](./49663-lilliput-oukoku-lillimoni-to-issho-puni.json) |
+| Lilloville | 426612 | [426612-lilloville.json](./426612-lilloville.json) |
 | Lillusion | 220390 | [220390-lillusion.json](./220390-lillusion.json) |
 | Lilly Adventure | 2218 | [2218-lilly-adventure.json](./2218-lilly-adventure.json) |
 | Lilly and Sasha: Curse of the Immortals | 35575 | [35575-lilly-and-sasha-curse-of-the-immortals.json](./35575-lilly-and-sasha-curse-of-the-immortals.json) |
