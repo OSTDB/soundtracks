@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-09T10:20:50.866Z",
-  "total_soundtracks": 3012,
+  "generated_at": "2026-11-10T21:12:05.004Z",
+  "total_soundtracks": 3026,
   "games": [
     {
       "igdb_id": 7522,
@@ -3841,6 +3841,20 @@
       ]
     },
     {
+      "igdb_id": 15386,
+      "game_name": "Bit.Trip Void",
+      "game_url": "https://ostdb.net/games/bit-trip-void",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273007344e7053622d7f5938c8f",
+      "albums": [
+        {
+          "album_name": "Bit.Trip Void Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3brxSSAjT17r1zqbwuJDyS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 5749,
       "game_name": "Black",
       "game_url": "https://ostdb.net/games/black",
@@ -6477,6 +6491,20 @@
       ]
     },
     {
+      "igdb_id": 19812,
+      "game_name": "Copoka",
+      "game_url": "https://ostdb.net/games/copoka",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734a44af2b85f8a2de4bd3704c",
+      "albums": [
+        {
+          "album_name": "Copoka (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3BsS234quALtkvQnhowb7N",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 171650,
       "game_name": "Copycat",
       "game_url": "https://ostdb.net/games/copycat",
@@ -7195,6 +7223,20 @@
       ]
     },
     {
+      "igdb_id": 8428,
+      "game_name": "Dark Scavenger",
+      "game_url": "https://ostdb.net/games/dark-scavenger",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27395252cba9fd817ba90348b8a",
+      "albums": [
+        {
+          "album_name": "Dark Scavenger (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4bPoUZuzOQqpsDyTjHt9Zq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2155,
       "game_name": "Dark Souls",
       "game_url": "https://ostdb.net/games/dark-souls",
@@ -7305,6 +7347,20 @@
         {
           "album_name": "Darkest Dungeon II (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0DLKXmKpTyIHiH09sqVbsC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 20018,
+      "game_name": "Darknet",
+      "game_url": "https://ostdb.net/games/darknet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d54e551e382059d38b91fe41",
+      "albums": [
+        {
+          "album_name": "Darknet (Imaginary Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0fzFwLtr8M0mVwIl2hKHBM",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -10543,6 +10599,20 @@
       ]
     },
     {
+      "igdb_id": 18474,
+      "game_name": "Expand",
+      "game_url": "https://ostdb.net/games/expand",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27386e4fc85f7781512cae92ac6",
+      "albums": [
+        {
+          "album_name": "Expand (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3RLAUL6dk0XFgz14WluJHl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 262534,
       "game_name": "Expeditions: A MudRunner Game",
       "game_url": "https://ostdb.net/games/expeditions-a-mudrunner-game",
@@ -12469,6 +12539,20 @@
       ]
     },
     {
+      "igdb_id": 18435,
+      "game_name": "Frozen Synapse 2",
+      "game_url": "https://ostdb.net/games/frozen-synapse-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273efbdb4eac29aec7b07032271",
+      "albums": [
+        {
+          "album_name": "Frozen Synapse 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6ayZ8Oa0DboIkhuUpnikQj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1684,
       "game_name": "Fruit Ninja",
       "game_url": "https://ostdb.net/games/fruit-ninja",
@@ -14029,6 +14113,20 @@
         {
           "album_name": "Guilty as Sock! (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0GuHZgkjxMHzsAKB02wbIr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7004,
+      "game_name": "Guilty Gear 2: Overture",
+      "game_url": "https://ostdb.net/games/guilty-gear-2-overture",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732fea723d37d833de4892edf1",
+      "albums": [
+        {
+          "album_name": "GUILTY GEAR 2 -OVERTURE- Original Soundtrack Vol.2",
+          "spotify_url": "https://open.spotify.com/album/4b8AdtfUZTeEYiNjYhukgZ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -24757,6 +24855,20 @@
       ]
     },
     {
+      "igdb_id": 20221,
+      "game_name": "Raving Rabbids: Alive and Kicking",
+      "game_url": "https://ostdb.net/games/raving-rabbids-alive-and-kicking",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273940a90216ecf14a36e2098fb",
+      "albums": [
+        {
+          "album_name": "Raving Rabbids: Alive and Kicking (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/792ClV1ymuowLXsKs2ADBv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1968,
       "game_name": "Rayman Legends",
       "game_url": "https://ostdb.net/games/rayman-legends",
@@ -26087,6 +26199,20 @@
       ]
     },
     {
+      "igdb_id": 6872,
+      "game_name": "Rodea the Sky Soldier",
+      "game_url": "https://ostdb.net/games/rodea-the-sky-soldier",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fde1374e14cc6ec201e4c10b",
+      "albums": [
+        {
+          "album_name": "RODEA THE SKY SOLDIER ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/7wv9A3pTk39ExyvRt2LbSJ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3221,
       "game_name": "Rogue Legacy",
       "game_url": "https://ostdb.net/games/rogue-legacy",
@@ -26137,6 +26263,20 @@
         {
           "album_name": "ROLLING THUNDER Original Soundtrack (Game Sound Effect)",
           "spotify_url": "https://open.spotify.com/album/5cdjYeQc17kwyAInIUCsRP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 14509,
+      "game_name": "Romance of the Three Kingdoms",
+      "game_url": "https://ostdb.net/games/romance-of-the-three-kingdoms",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738b5bdfc6b2ce734b6d527531",
+      "albums": [
+        {
+          "album_name": "Romance of the Three Kingdoms (Epic Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6Qd19QQ86ITgKWKrzgbD1l",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26635,6 +26775,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/satisfactory-original-game-soundtrack/1777461781?uo=4",
           "album_link_url": "https://album.link/i/1777461781"
+        }
+      ]
+    },
+    {
+      "igdb_id": 16840,
+      "game_name": "Saturday Morning RPG",
+      "game_url": "https://ostdb.net/games/saturday-morning-rpg",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732c377773e1f557056a178c92",
+      "albums": [
+        {
+          "album_name": "Saturday Morning RPG Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7Bngl4kbdxnmrWiXgEGz5n",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -27905,6 +28059,20 @@
         {
           "album_name": "Sky Force Reloaded (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/61ZRt4iL6WcAVsk2NtRl1m",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11633,
+      "game_name": "Sky Rogue",
+      "game_url": "https://ostdb.net/games/sky-rogue",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f04c1a19f7b935db0a7d1252",
+      "albums": [
+        {
+          "album_name": "Sky Rogue (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0CpgXqGORNPFq8KHccb2vU",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -29621,6 +29789,20 @@
           "spotify_url": "https://open.spotify.com/album/5sDUesNpIHcpjMn7wgYPih",
           "apple_music_url": "https://music.apple.com/us/album/star-wars-squadrons-original-video-game-soundtrack/1532829448",
           "album_link_url": "https://album.link/i/1532829448"
+        }
+      ]
+    },
+    {
+      "igdb_id": 19174,
+      "game_name": "StarBreak",
+      "game_url": "https://ostdb.net/games/starbreak",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a777c4853ef2466cfbebe31f",
+      "albums": [
+        {
+          "album_name": "Starbreak (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4hHU13zhAVp7euAGcLatDQ",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -34483,6 +34665,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/tormented-souls-2-original-soundtrack/1847460718?uo=4",
           "album_link_url": "https://album.link/i/1847460718"
+        }
+      ]
+    },
+    {
+      "igdb_id": 12300,
+      "game_name": "Total War Battles: Kingdom",
+      "game_url": "https://ostdb.net/games/total-war-battles-kingdom",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735d2a159d6e8db0b5c095b38f",
+      "albums": [
+        {
+          "album_name": "Total War Battles: Kingdom (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3uI0TmxJHxy7El2BwRUBOT",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
