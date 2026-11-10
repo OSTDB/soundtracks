@@ -656,6 +656,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nark the Dragon | 81693 | [81693-nark-the-dragon.json](./81693-nark-the-dragon.json) |
 | NarKarma Engine A | 257661 | [257661-narkarma-engine-a.json](./257661-narkarma-engine-a.json) |
 | Narnok | 396541 | [396541-narnok.json](./396541-narnok.json) |
+| Narnok: Feed Grommy Candy | 424249 | [424249-narnok-feed-grommy-candy.json](./424249-narnok-feed-grommy-candy.json) |
+| Narnok: Help! I Was Reincarnated as a Brain in a Jar and Need to Plug in My Power Cables | 424248 | [424248-narnok-help-i-was-reincarnated-as-a-brain-in-a-jar-and-need-to-plug-in-my-power-cables.json](./424248-narnok-help-i-was-reincarnated-as-a-brain-in-a-jar-and-need-to-plug-in-my-power-cables.json) |
+| Narnok: Little Bean Glandoid | 424250 | [424250-narnok-little-bean-glandoid.json](./424250-narnok-little-bean-glandoid.json) |
 | Naroike | 335277 | [335277-naroike.json](./335277-naroike.json) |
 | Naron | 412380 | [412380-naron.json](./412380-naron.json) |
 | Narona Sports | 213798 | [213798-narona-sports.json](./213798-narona-sports.json) |
@@ -5469,6 +5472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Painter 2 | 238965 | [238965-ninja-painter-2.json](./238965-ninja-painter-2.json) |
 | Ninja Party | 246005 | [246005-ninja-party.json](./246005-ninja-party.json) |
 | Ninja Party | 340839 | [340839-ninja-party.json](./340839-ninja-party.json) |
+| Ninja Pig | 424261 | [424261-ninja-pig.json](./424261-ninja-pig.json) |
 | Ninja Pizza Girl | 18336 | [18336-ninja-pizza-girl.json](./18336-ninja-pizza-girl.json) |
 | Ninja Platformer | 111163 | [111163-ninja-platformer.json](./111163-ninja-platformer.json) |
 | Ninja Poison | 280034 | [280034-ninja-poison.json](./280034-ninja-poison.json) |
@@ -8219,6 +8223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyonin-jima 2: Shima Hitotsu Marugoto Hame Pako Haramase Seikatsu | 408514 | [408514-nyonin-jima-2-shima-hitotsu-marugoto-hame-pako-haramase-seikatsu.json](./408514-nyonin-jima-2-shima-hitotsu-marugoto-hame-pako-haramase-seikatsu.json) |
 | Nyorols | 399180 | [399180-nyorols.json](./399180-nyorols.json) |
 | Nyotai Inkan: Utsurikawaru Chijokuteki Koukishin | 313235 | [313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json](./313235-nyotai-inkan-utsurikawaru-chijokuteki-koukishin.json) |
+| Nyotai Kyouran Princess | 424275 | [424275-nyotai-kyouran-princess.json](./424275-nyotai-kyouran-princess.json) |
 | Nyra and the Garden of Moros | 424038 | [424038-nyra-and-the-garden-of-moros.json](./424038-nyra-and-the-garden-of-moros.json) |
 | Nyra: The Fall of Light | 390097 | [390097-nyra-the-fall-of-light.json](./390097-nyra-the-fall-of-light.json) |
 | Nyrthos | 120242 | [120242-nyrthos.json](./120242-nyrthos.json) |
