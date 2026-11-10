@@ -2629,6 +2629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maka Maka | 42305 | [42305-maka-maka.json](./42305-maka-maka.json) |
 | Makabaka | 256673 | [256673-makabaka.json](./256673-makabaka.json) |
 | Makai Agito | 337589 | [337589-makai-agito.json](./337589-makai-agito.json) |
+| Makai City Chi-Ba | 426040 | [426040-makai-city-chi-ba.json](./426040-makai-city-chi-ba.json) |
 | Makai Fukkatsu | 77577 | [77577-makai-fukkatsu.json](./77577-makai-fukkatsu.json) |
 | Makai Hakkenden Shada | 37675 | [37675-makai-hakkenden-shada.json](./37675-makai-hakkenden-shada.json) |
 | Makai Kingdom: Chronicles of the Sacred Tome | 22540 | [22540-makai-kingdom-chronicles-of-the-sacred-tome.json](./22540-makai-kingdom-chronicles-of-the-sacred-tome.json) |
@@ -3179,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mandatory Fun | 348517 | [348517-mandatory-fun.json](./348517-mandatory-fun.json) |
 | Mandela Effect Brain Test | 306694 | [306694-mandela-effect-brain-test.json](./306694-mandela-effect-brain-test.json) |
 | Mandela Invasion | 282820 | [282820-mandela-invasion.json](./282820-mandela-invasion.json) |
+| Mandela Invasion: Alternates | 425995 | [425995-mandela-invasion-alternates.json](./425995-mandela-invasion-alternates.json) |
 | Mandemon | 259510 | [259510-mandemon.json](./259510-mandemon.json) |
 | Mandeshire | 173274 | [173274-mandeshire.json](./173274-mandeshire.json) |
 | Mandew vs the Colorless Curse | 156840 | [156840-mandew-vs-the-colorless-curse.json](./156840-mandew-vs-the-colorless-curse.json) |
@@ -5134,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary-Kate and Ashley: Sweet 16 - Licensed to Drive | 242426 | [242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json](./242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json) |
 | Mary-Kate and Ashley: Sweet 16 - Licensed to Drive | 5921 | [5921-mary-kate-and-ashley-sweet-16-licensed-to-drive.json](./5921-mary-kate-and-ashley-sweet-16-licensed-to-drive.json) |
 | Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
+| Mary-san | 426006 | [426006-mary-san.json](./426006-mary-san.json) |
 | Mary's Adventure | 82758 | [82758-marys-adventure.json](./82758-marys-adventure.json) |
 | Mary's Arcade | 228291 | [228291-marys-arcade.json](./228291-marys-arcade.json) |
 | Mary's Arcade: Service Pack | 288832 | [288832-marys-arcade-service-pack.json](./288832-marys-arcade-service-pack.json) |
@@ -9116,6 +9119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memes At War | 334022 | [334022-memes-at-war.json](./334022-memes-at-war.json) |
 | Memeside | 384546 | [384546-memeside.json](./384546-memeside.json) |
 | Memesteine Files | 405035 | [405035-memesteine-files.json](./405035-memesteine-files.json) |
+| MemeticBox | 426089 | [426089-memeticbox.json](./426089-memeticbox.json) |
 | Memetomo | 314751 | [314751-memetomo.json](./314751-memetomo.json) |
 | Memetown USA | 108002 | [108002-memetown-usa.json](./108002-memetown-usa.json) |
 | Memetric: Classic | 239562 | [239562-memetric-classic.json](./239562-memetric-classic.json) |
@@ -12622,6 +12626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minarchy: Active Shooter | 196690 | [196690-minarchy-active-shooter.json](./196690-minarchy-active-shooter.json) |
 | Mination | 348419 | [348419-mination.json](./348419-mination.json) |
 | Minato | 415080 | [415080-minato.json](./415080-minato.json) |
+| Minato Shokudo: Mirage of the Great Clam | 425999 | [425999-minato-shokudo-mirage-of-the-great-clam.json](./425999-minato-shokudo-mirage-of-the-great-clam.json) |
 | Minaurs | 103392 | [103392-minaurs.json](./103392-minaurs.json) |
 | Minazuki-tan: InfiltraTitty Lewd Beast Academy | 82848 | [82848-minazuki-tan-infiltratitty-lewd-beast-academy.json](./82848-minazuki-tan-infiltratitty-lewd-beast-academy.json) |
 | Minced | 309960 | [309960-minced.json](./309960-minced.json) |
@@ -18804,6 +18809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motomancer: Auto Battle | 181939 | [181939-motomancer-auto-battle.json](./181939-motomancer-auto-battle.json) |
 | Motor City Online | 23809 | [23809-motor-city-online.json](./23809-motor-city-online.json) |
 | Motor City Patrol | 48197 | [48197-motor-city-patrol.json](./48197-motor-city-patrol.json) |
+| Motor City Turf Wars | 426058 | [426058-motor-city-turf-wars.json](./426058-motor-city-turf-wars.json) |
 | Motor Cross | 305466 | [305466-motor-cross.json](./305466-motor-cross.json) |
 | Motor Cycle | 68274 | [68274-motor-cycle.json](./68274-motor-cycle.json) |
 | Motor Depot | 336875 | [336875-motor-depot.json](./336875-motor-depot.json) |
@@ -20012,6 +20018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mujun's Casefile: The Mystery Mansion | 394431 | [394431-mujuns-casefile-the-mystery-mansion.json](./394431-mujuns-casefile-the-mystery-mansion.json) |
 | Mukaeute Uchuu Gundan Galack | 66130 | [66130-mukaeute-uchuu-gundan-galack.json](./66130-mukaeute-uchuu-gundan-galack.json) |
 | Mukbang 3D | 240883 | [240883-mukbang-3d.json](./240883-mukbang-3d.json) |
+| Mukimuki Nyankos | 426032 | [426032-mukimuki-nyankos.json](./426032-mukimuki-nyankos.json) |
 | Mukiz | 350361 | [350361-mukiz.json](./350361-mukiz.json) |
 | Mukogawa | 344319 | [344319-mukogawa.json](./344319-mukogawa.json) |
 | Mukon M | 214380 | [214380-mukon-m.json](./214380-mukon-m.json) |
@@ -20227,6 +20234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munlay Online | 271682 | [271682-munlay-online.json](./271682-munlay-online.json) |
 | Munou Sengen | 331191 | [331191-munou-sengen.json](./331191-munou-sengen.json) |
 | Munro's Tweetcarts | 183420 | [183420-munros-tweetcarts.json](./183420-munros-tweetcarts.json) |
+| Munshi Meadows | 426013 | [426013-munshi-meadows.json](./426013-munshi-meadows.json) |
 | Mupo | 389656 | [389656-mupo.json](./389656-mupo.json) |
 | Muppet Adventure: Chaos at the Carnival | 3257 | [3257-muppet-adventure-chaos-at-the-carnival.json](./3257-muppet-adventure-chaos-at-the-carnival.json) |
 | Muppet Babies: Air, Land, & Sea | 320202 | [320202-muppet-babies-air-land-and-sea.json](./320202-muppet-babies-air-land-and-sea.json) |
