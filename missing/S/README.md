@@ -8344,6 +8344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelltopia | 330311 | [330311-shelltopia.json](./330311-shelltopia.json) |
 | Shelly Duvall's It's A Bird's Life | 38820 | [38820-shelly-duvalls-its-a-birds-life.json](./38820-shelly-duvalls-its-a-birds-life.json) |
 | Shelly: My First Computer Game | 208703 | [208703-shelly-my-first-computer-game.json](./208703-shelly-my-first-computer-game.json) |
+| Shelter | 402016 | [402016-shelter.json](./402016-shelter.json) |
 | Shelter | 7832 | [7832-shelter.json](./7832-shelter.json) |
 | Shelter | 80763 | [80763-shelter.json](./80763-shelter.json) |
 | Shelter 13 | 414733 | [414733-shelter-13.json](./414733-shelter-13.json) |
@@ -16218,6 +16219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snook | 208737 | [208737-snook.json](./208737-snook.json) |
 | Snook | 268780 | [268780-snook.json](./268780-snook.json) |
 | Snooker | 330780 | [330780-snooker.json](./330780-snooker.json) |
+| Snooker | 401990 | [401990-snooker.json](./401990-snooker.json) |
 | Snooker | 79490 | [79490-snooker.json](./79490-snooker.json) |
 | Snooker 19 | 111153 | [111153-snooker-19.json](./111153-snooker-19.json) |
 | Snooker 19: Gold Edition | 136015 | [136015-snooker-19-gold-edition.json](./136015-snooker-19-gold-edition.json) |
@@ -17604,6 +17606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Legend of the Pirates 2 | 124388 | [124388-solitaire-legend-of-the-pirates-2.json](./124388-solitaire-legend-of-the-pirates-2.json) |
 | Solitaire Legend of the Pirates 3 | 124387 | [124387-solitaire-legend-of-the-pirates-3.json](./124387-solitaire-legend-of-the-pirates-3.json) |
 | Solitaire Legends Collection | 53627 | [53627-solitaire-legends-collection.json](./53627-solitaire-legends-collection.json) |
+| Solitaire Legends: Fables and Fairytales | 402012 | [402012-solitaire-legends-fables-and-fairytales.json](./402012-solitaire-legends-fables-and-fairytales.json) |
 | Solitaire Legends: Sakura Dreams | 405915 | [405915-solitaire-legends-sakura-dreams.json](./405915-solitaire-legends-sakura-dreams.json) |
 | Solitaire Lounge | 25703 | [25703-solitaire-lounge.json](./25703-solitaire-lounge.json) |
 | Solitaire Mahjong: Ancient China Adventure | 401017 | [401017-solitaire-mahjong-ancient-china-adventure.json](./401017-solitaire-mahjong-ancient-china-adventure.json) |
@@ -23118,6 +23121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Forward | 360716 | [360716-spin-forward.json](./360716-spin-forward.json) |
 | Spin Fun | 404005 | [404005-spin-fun.json](./404005-spin-fun.json) |
 | Spin Hero | 298130 | [298130-spin-hero.json](./298130-spin-hero.json) |
+| Spin It! | 401964 | [401964-spin-it.json](./401964-spin-it.json) |
 | Spin Jam | 24129 | [24129-spin-jam.json](./24129-spin-jam.json) |
 | Spin Kick Ninjas | 226027 | [226027-spin-kick-ninjas.json](./226027-spin-kick-ninjas.json) |
 | Spin Master | 39959 | [39959-spin-master.json](./39959-spin-master.json) |
@@ -32341,6 +32345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boba: Pachinko Cafe | 296505 | [296505-super-boba-pachinko-cafe.json](./296505-super-boba-pachinko-cafe.json) |
 | Super Bogus World | 64874 | [64874-super-bogus-world.json](./64874-super-bogus-world.json) |
 | Super Bomb Rush! | 34566 | [34566-super-bomb-rush.json](./34566-super-bomb-rush.json) |
+| Super Bomba League | 401978 | [401978-super-bomba-league.json](./401978-super-bomba-league.json) |
 | Super Bomberman | 198028 | [198028-super-bomberman.json](./198028-super-bomberman.json) |
 | Super Bomberman | 3450 | [3450-super-bomberman.json](./3450-super-bomberman.json) |
 | Super Bomberman 2 | 14530 | [14530-super-bomberman-2.json](./14530-super-bomberman-2.json) |
