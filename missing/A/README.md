@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Strange City | 148280 | [148280-a-strange-city.json](./148280-a-strange-city.json) |
 | A Strange Hotel | 153773 | [153773-a-strange-hotel.json](./153773-a-strange-hotel.json) |
 | A Stray Line | 388733 | [388733-a-stray-line.json](./388733-a-stray-line.json) |
+| A Street Cat's Tale | 122056 | [122056-a-street-cats-tale.json](./122056-a-street-cats-tale.json) |
 | A Street Cat's Tale 2: Out side is Dangerous | 250774 | [250774-a-street-cats-tale-2-out-side-is-dangerous.json](./250774-a-street-cats-tale-2-out-side-is-dangerous.json) |
 | A Street Story | 98317 | [98317-a-street-story.json](./98317-a-street-story.json) |
 | A Stroke of Fate: Operation Bunker | 35155 | [35155-a-stroke-of-fate-operation-bunker.json](./35155-a-stroke-of-fate-operation-bunker.json) |
@@ -19131,6 +19132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axis Football 2016 | 32085 | [32085-axis-football-2016.json](./32085-axis-football-2016.json) |
 | Axis Football 2017 | 54812 | [54812-axis-football-2017.json](./54812-axis-football-2017.json) |
 | Axis Football 2018 | 107524 | [107524-axis-football-2018.json](./107524-axis-football-2018.json) |
+| Axis Football 2019 | 122034 | [122034-axis-football-2019.json](./122034-axis-football-2019.json) |
 | Axis Football 2020 | 140957 | [140957-axis-football-2020.json](./140957-axis-football-2020.json) |
 | Axis Football 2021 | 153011 | [153011-axis-football-2021.json](./153011-axis-football-2021.json) |
 | Axis Football 2023 | 213436 | [213436-axis-football-2023.json](./213436-axis-football-2023.json) |
