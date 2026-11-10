@@ -4697,6 +4697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfectly Perilous Provisions | 135630 | [135630-perfectly-perilous-provisions.json](./135630-perfectly-perilous-provisions.json) |
 | Perfore the Perforien Request | 372416 | [372416-perfore-the-perforien-request.json](./372416-perfore-the-perforien-request.json) |
 | Performan | 40405 | [40405-performan.json](./40405-performan.json) |
+| Performance Review: Survivor | 428440 | [428440-performance-review-survivor.json](./428440-performance-review-survivor.json) |
 | Performer | 150341 | [150341-performer.json](./150341-performer.json) |
 | Performous | 63242 | [63242-performous.json](./63242-performous.json) |
 | Perfumare | 179864 | [179864-perfumare.json](./179864-perfumare.json) |
@@ -4966,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Q2: New Cinema Labyrinth | 54220 | [54220-persona-q2-new-cinema-labyrinth.json](./54220-persona-q2-new-cinema-labyrinth.json) |
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
+| Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 3 | 428405 | [428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json](./428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json) |
 | Persona5: The Phantom X - The Revenge Fox | 412804 | [412804-persona5-the-phantom-x-the-revenge-fox.json](./412804-persona5-the-phantom-x-the-revenge-fox.json) |
 | Persona5: The Phantom X - Virtual Sweetheart | 412741 | [412741-persona5-the-phantom-x-virtual-sweetheart.json](./412741-persona5-the-phantom-x-virtual-sweetheart.json) |
 | Personal Arcade Volume One | 79947 | [79947-personal-arcade-volume-one.json](./79947-personal-arcade-volume-one.json) |
@@ -5068,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Hero vs. Zombie | 341119 | [341119-pet-hero-vs-zombie.json](./341119-pet-hero-vs-zombie.json) |
 | Pet Hospital | 85342 | [85342-pet-hospital.json](./85342-pet-hospital.json) |
 | Pet Hotel Tycoon | 25066 | [25066-pet-hotel-tycoon.json](./25066-pet-hotel-tycoon.json) |
+| Pet Human | 428415 | [428415-pet-human.json](./428415-pet-human.json) |
 | Pet idle | 189005 | [189005-pet-idle.json](./189005-pet-idle.json) |
 | Pet in TV | 85916 | [85916-pet-in-tv.json](./85916-pet-in-tv.json) |
 | Pet Inn 3D | 85341 | [85341-pet-inn-3d.json](./85341-pet-inn-3d.json) |
@@ -5121,6 +5124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Squad Racing | 72397 | [72397-pet-squad-racing.json](./72397-pet-squad-racing.json) |
 | Pet Store Panic | 32789 | [32789-pet-store-panic.json](./32789-pet-store-panic.json) |
 | Pet Street Story | 373691 | [373691-pet-street-story.json](./373691-pet-street-story.json) |
+| Pet That Dog | 428399 | [428399-pet-that-dog.json](./428399-pet-that-dog.json) |
 | Pet That VTuber! | 403799 | [403799-pet-that-vtuber.json](./403799-pet-that-vtuber.json) |
 | Pet the Cat | 416978 | [416978-pet-the-cat.json](./416978-pet-the-cat.json) |
 | Pet the Dog? | 179587 | [179587-pet-the-dog.json](./179587-pet-the-dog.json) |
@@ -13408,6 +13412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popper | 60878 | [60878-popper.json](./60878-popper.json) |
 | Popper Lands Colony | 271606 | [271606-popper-lands-colony.json](./271606-popper-lands-colony.json) |
 | Poppet Quest | 358933 | [358933-poppet-quest.json](./358933-poppet-quest.json) |
+| Poppets & Plunder | 428433 | [428433-poppets-and-plunder.json](./428433-poppets-and-plunder.json) |
 | Poppi | 181301 | [181301-poppi.json](./181301-poppi.json) |
 | Poppie Land | 360133 | [360133-poppie-land.json](./360133-poppie-land.json) |
 | Poppin & Jupa: Pocket Adventure | 326853 | [326853-poppin-and-jupa-pocket-adventure.json](./326853-poppin-and-jupa-pocket-adventure.json) |
@@ -14526,6 +14531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator: Concrete Jungle | 5986 | [5986-predator-concrete-jungle.json](./5986-predator-concrete-jungle.json) |
 | Predator: Hunting Grounds | 118272 | [118272-predator-hunting-grounds.json](./118272-predator-hunting-grounds.json) |
 | Predator: Hunting Grounds - City Hunter Predator | 168758 | [168758-predator-hunting-grounds-city-hunter-predator.json](./168758-predator-hunting-grounds-city-hunter-predator.json) |
+| Predator: Hunting Grounds - Cleopatra Predator | 428422 | [428422-predator-hunting-grounds-cleopatra-predator.json](./428422-predator-hunting-grounds-cleopatra-predator.json) |
 | Predator: Hunting Grounds - Dante "Beast Mode" Jefferson | 168764 | [168764-predator-hunting-grounds-dante-beast-mode-jefferson.json](./168764-predator-hunting-grounds-dante-beast-mode-jefferson.json) |
 | Predator: Hunting Grounds - Digital Deluxe Edition | 132973 | [132973-predator-hunting-grounds-digital-deluxe-edition.json](./132973-predator-hunting-grounds-digital-deluxe-edition.json) |
 | Predator: Hunting Grounds - Dutch '87 | 168762 | [168762-predator-hunting-grounds-dutch-87.json](./168762-predator-hunting-grounds-dutch-87.json) |
