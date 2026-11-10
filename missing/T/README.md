@@ -4764,8 +4764,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraformers + Starward Rogue: Mechs and Colonizers Bundle | 292614 | [292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json](./292614-terraformers-starward-rogue-mechs-and-colonizers-bundle.json) |
 | Terraformers + Starward Rogue: Mechs and Colonizers Deluxe Bundle | 292616 | [292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json](./292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json) |
 | Terraformers + Tin Can: To Infinity, and Beyond Bundle! | 271124 | [271124-terraformers-tin-can-to-infinity-and-beyond-bundle.json](./271124-terraformers-tin-can-to-infinity-and-beyond-bundle.json) |
+| Terraformers Collection | 403988 | [403988-terraformers-collection.json](./403988-terraformers-collection.json) |
 | Terraformers: Deluxe Bundle | 331493 | [331493-terraformers-deluxe-bundle.json](./331493-terraformers-deluxe-bundle.json) |
 | Terraformers: First Steps on Mars | 149757 | [149757-terraformers-first-steps-on-mars.json](./149757-terraformers-first-steps-on-mars.json) |
+| Terraformers: Independence | 403995 | [403995-terraformers-independence.json](./403995-terraformers-independence.json) |
 | Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
 | Terraformers: Megastructures Bundle | 331492 | [331492-terraformers-megastructures-bundle.json](./331492-terraformers-megastructures-bundle.json) |
 | Terraformers: New Frontiers Bundle | 293763 | [293763-terraformers-new-frontiers-bundle.json](./293763-terraformers-new-frontiers-bundle.json) |
@@ -7269,6 +7271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Builder: Season 2 | 392889 | [392889-the-builder-season-2.json](./392889-the-builder-season-2.json) |
 | The Building 71 Incident | 176513 | [176513-the-building-71-incident.json](./176513-the-building-71-incident.json) |
 | The BuildSphere: Rise of the Anomalbots | 193504 | [193504-the-buildsphere-rise-of-the-anomalbots.json](./193504-the-buildsphere-rise-of-the-anomalbots.json) |
+| The Bull of Heaven | 404501 | [404501-the-bull-of-heaven.json](./404501-the-bull-of-heaven.json) |
 | The Bullet Hell | 351540 | [351540-the-bullet-hell.json](./351540-the-bullet-hell.json) |
 | The Bullet Hopper | 268229 | [268229-the-bullet-hopper.json](./268229-the-bullet-hopper.json) |
 | The Bullet: Time of Revenge | 132987 | [132987-the-bullet-time-of-revenge.json](./132987-the-bullet-time-of-revenge.json) |
@@ -24571,6 +24574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Bullets | 4146 | [4146-tiny-bullets.json](./4146-tiny-bullets.json) |
 | Tiny Cafe | 319297 | [319297-tiny-cafe.json](./319297-tiny-cafe.json) |
 | Tiny Candy Guardian | 264034 | [264034-tiny-candy-guardian.json](./264034-tiny-candy-guardian.json) |
+| Tiny Capsule Collector | 404491 | [404491-tiny-capsule-collector.json](./404491-tiny-capsule-collector.json) |
 | Tiny Car Mess | 276591 | [276591-tiny-car-mess.json](./276591-tiny-car-mess.json) |
 | Tiny Card Battle | 181249 | [181249-tiny-card-battle.json](./181249-tiny-card-battle.json) |
 | Tiny Cars 2 | 70732 | [70732-tiny-cars-2.json](./70732-tiny-cars-2.json) |
@@ -34069,6 +34073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble Type | 409259 | [409259-tumble-type.json](./409259-tumble-type.json) |
 | Tumble VR | 18400 | [18400-tumble-vr.json](./18400-tumble-vr.json) |
 | Tumble Wrestling | 262349 | [262349-tumble-wrestling.json](./262349-tumble-wrestling.json) |
+| Tumblebee | 404477 | [404477-tumblebee.json](./404477-tumblebee.json) |
 | Tumblebugs | 85908 | [85908-tumblebugs.json](./85908-tumblebugs.json) |
 | Tumblebugs 2 | 53858 | [53858-tumblebugs-2.json](./53858-tumblebugs-2.json) |
 | Tumbledown Drive | 190043 | [190043-tumbledown-drive.json](./190043-tumbledown-drive.json) |
