@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cab Driver Commander | 335319 | [335319-cab-driver-commander.json](./335319-cab-driver-commander.json) |
 | Cab Ride | 172552 | [172552-cab-ride.json](./172552-cab-ride.json) |
 | Cabal | 6317 | [6317-cabal.json](./6317-cabal.json) |
+| Cabal 13 | 396258 | [396258-cabal-13.json](./396258-cabal-13.json) |
 | Cabal 2 | 12132 | [12132-cabal-2.json](./12132-cabal-2.json) |
 | Cabal M: Heroes of Nevareth | 174724 | [174724-cabal-m-heroes-of-nevareth.json](./174724-cabal-m-heroes-of-nevareth.json) |
 | Cabal Red | 175000 | [175000-cabal-red.json](./175000-cabal-red.json) |
@@ -15659,6 +15660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corner Loot | 360003 | [360003-corner-loot.json](./360003-corner-loot.json) |
 | Corner Shop: NightShift | 356955 | [356955-corner-shop-nightshift.json](./356955-corner-shop-nightshift.json) |
 | Corner Streamer | 392320 | [392320-corner-streamer.json](./392320-corner-streamer.json) |
+| Corner Wars | 396622 | [396622-corner-wars.json](./396622-corner-wars.json) |
 | Corner World | 325991 | [325991-corner-world.json](./325991-corner-world.json) |
 | Cornerfall | 409189 | [409189-cornerfall.json](./409189-cornerfall.json) |
 | Corneroids | 392409 | [392409-corneroids.json](./392409-corneroids.json) |
