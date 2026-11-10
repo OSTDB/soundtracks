@@ -13906,6 +13906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniPix Jump | 255049 | [255049-minipix-jump.json](./255049-minipix-jump.json) |
 | Miniplanet | 242121 | [242121-miniplanet.json](./242121-miniplanet.json) |
 | MiniPoly.io | 223531 | [223531-minipoly-io.json](./223531-minipoly-io.json) |
+| Miniquest | 409258 | [409258-miniquest.json](./409258-miniquest.json) |
 | MiniRacer | 168076 | [168076-miniracer.json](./168076-miniracer.json) |
 | MiniRacingOnline | 151834 | [151834-miniracingonline.json](./151834-miniracingonline.json) |
 | Minisaga | 137820 | [137820-minisaga.json](./137820-minisaga.json) |
@@ -17045,6 +17046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Squad Rush | 208968 | [208968-monster-squad-rush.json](./208968-monster-squad-rush.json) |
 | Monster Stalker | 236164 | [236164-monster-stalker.json](./236164-monster-stalker.json) |
 | Monster Star VS Robot Fly Car | 103680 | [103680-monster-star-vs-robot-fly-car.json](./103680-monster-star-vs-robot-fly-car.json) |
+| Monster Storm | 409251 | [409251-monster-storm.json](./409251-monster-storm.json) |
 | Monster Storm Apoiion | 108609 | [108609-monster-storm-apoiion.json](./108609-monster-storm-apoiion.json) |
 | Monster Strike | 19166 | [19166-monster-strike.json](./19166-monster-strike.json) |
 | Monster Strike | 84598 | [84598-monster-strike.json](./84598-monster-strike.json) |
@@ -18658,6 +18660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motherfunkin | 315105 | [315105-motherfunkin.json](./315105-motherfunkin.json) |
 | Mothergunship | 27208 | [27208-mothergunship.json](./27208-mothergunship.json) |
 | Mothergunship: Forge | 197579 | [197579-mothergunship-forge.json](./197579-mothergunship-forge.json) |
+| Motherheart | 409266 | [409266-motherheart.json](./409266-motherheart.json) |
 | Motherland | 181041 | [181041-motherland.json](./181041-motherland.json) |
 | Motherland | 229702 | [229702-motherland.json](./229702-motherland.json) |
 | Motherless | 215604 | [215604-motherless.json](./215604-motherless.json) |
