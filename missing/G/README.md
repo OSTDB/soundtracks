@@ -2503,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geadows | 155904 | [155904-geadows.json](./155904-geadows.json) |
 | Géants Disparus VR | 368282 | [368282-geants-disparus-vr.json](./368282-geants-disparus-vr.json) |
 | Gear | 117687 | [117687-gear.json](./117687-gear.json) |
+| Gear City | 10355 | [10355-gear-city.json](./10355-gear-city.json) |
 | Gear City Against Chaos | 117917 | [117917-gear-city-against-chaos.json](./117917-gear-city-against-chaos.json) |
 | Gear Combination | 367536 | [367536-gear-combination.json](./367536-gear-combination.json) |
 | Gear for Heroes | 243072 | [243072-gear-for-heroes.json](./243072-gear-for-heroes.json) |
@@ -2828,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini of the Abandoned | 130082 | [130082-gemini-of-the-abandoned.json](./130082-gemini-of-the-abandoned.json) |
 | Gemini Rue | 6325 | [6325-gemini-rue.json](./6325-gemini-rue.json) |
 | Gemini Strategy Origin | 156893 | [156893-gemini-strategy-origin.json](./156893-gemini-strategy-origin.json) |
+| Gemini Wars | 10357 | [10357-gemini-wars.json](./10357-gemini-wars.json) |
 | Gemini Wing | 12117 | [12117-gemini-wing.json](./12117-gemini-wing.json) |
 | Gemini X | 404926 | [404926-gemini-x.json](./404926-gemini-x.json) |
 | Gemini_X | 27279 | [27279-gemini-x.json](./27279-gemini-x.json) |
@@ -6447,6 +6449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods Rush | 60823 | [60823-gods-rush.json](./60823-gods-rush.json) |
 | Gods Unchained | 109087 | [109087-gods-unchained.json](./109087-gods-unchained.json) |
 | Gods vs. Horrors | 306901 | [306901-gods-vs-horrors.json](./306901-gods-vs-horrors.json) |
+| Gods vs. Humans | 10369 | [10369-gods-vs-humans.json](./10369-gods-vs-humans.json) |
 | Gods Wars Ex: Vampire | 194011 | [194011-gods-wars-ex-vampire.json](./194011-gods-wars-ex-vampire.json) |
 | Gods Wars: Infinity Epic | 267462 | [267462-gods-wars-infinity-epic.json](./267462-gods-wars-infinity-epic.json) |
 | Gods Will Be Watching: Special Edition | 51832 | [51832-gods-will-be-watching-special-edition.json](./51832-gods-will-be-watching-special-edition.json) |
@@ -11747,6 +11750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship Recon: Purchase Privilege | 156168 | [156168-gunship-recon-purchase-privilege.json](./156168-gunship-recon-purchase-privilege.json) |
 | Gunship War Total Battle | 296780 | [296780-gunship-war-total-battle.json](./296780-gunship-war-total-battle.json) |
 | Gunship X | 52240 | [52240-gunship-x.json](./52240-gunship-x.json) |
+| Gunship! | 10383 | [10383-gunship.json](./10383-gunship.json) |
 | Gunshoot | 76614 | [76614-gunshoot.json](./76614-gunshoot.json) |
 | Gunshot Arcade | 407339 | [407339-gunshot-arcade.json](./407339-gunshot-arcade.json) |
 | Gunshot Bride | 394799 | [394799-gunshot-bride.json](./394799-gunshot-bride.json) |
