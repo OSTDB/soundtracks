@@ -2531,6 +2531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immense Threat | 160040 | [160040-immense-threat.json](./160040-immense-threat.json) |
 | Immeowtal Festival! | 234300 | [234300-immeowtal-festival.json](./234300-immeowtal-festival.json) |
 | Immercenary | 4296 | [4296-immercenary.json](./4296-immercenary.json) |
+| Immerguest: The Veiled Inn | 415699 | [415699-immerguest-the-veiled-inn.json](./415699-immerguest-the-veiled-inn.json) |
 | Immerrock | 344169 | [344169-immerrock.json](./344169-immerrock.json) |
 | Immerse Creator | 34163 | [34163-immerse-creator.json](./34163-immerse-creator.json) |
 | Immerse Land | 146753 | [146753-immerse-land.json](./146753-immerse-land.json) |
@@ -4077,7 +4078,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6481,6 +6481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai: I'm an FPS Hero Who Was Summoned to Another World | 348287 | [348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json](./348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json) |
 | Isekai: Reincarnation in a New World | 149737 | [149737-isekai-reincarnation-in-a-new-world.json](./149737-isekai-reincarnation-in-a-new-world.json) |
 | Isekai: Slow Life | 261796 | [261796-isekai-slow-life.json](./261796-isekai-slow-life.json) |
+| Isekai: Slutty Seven | 415640 | [415640-isekai-slutty-seven.json](./415640-isekai-slutty-seven.json) |
 | Isekai: Waifu Overlord | 419904 | [419904-isekai-waifu-overlord.json](./419904-isekai-waifu-overlord.json) |
 | Isekai: Warrior's Kiss | 298997 | [298997-isekai-warriors-kiss.json](./298997-isekai-warriors-kiss.json) |
 | Isekai'd | 265438 | [265438-isekaid.json](./265438-isekaid.json) |
@@ -6911,6 +6912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It follows you | 187168 | [187168-it-follows-you.json](./187168-it-follows-you.json) |
 | It Gets So Lonely Here | 240018 | [240018-it-gets-so-lonely-here.json](./240018-it-gets-so-lonely-here.json) |
 | It Girl | 338731 | [338731-it-girl.json](./338731-it-girl.json) |
+| It Girl | 416260 | [416260-it-girl.json](./416260-it-girl.json) |
 | It Goes Away in the End | 312920 | [312920-it-goes-away-in-the-end.json](./312920-it-goes-away-in-the-end.json) |
 | It Goes On | 360495 | [360495-it-goes-on.json](./360495-it-goes-on.json) |
 | It Happened At Night | 310144 | [310144-it-happened-at-night.json](./310144-it-happened-at-night.json) |
