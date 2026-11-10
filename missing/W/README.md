@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Walker | 106311 | [106311-wall-walker.json](./106311-wall-walker.json) |
 | Wall World | 224705 | [224705-wall-world.json](./224705-wall-world.json) |
 | Wall World 2 | 335291 | [335291-wall-world-2.json](./335291-wall-world-2.json) |
+| Wall World 3 | 416207 | [416207-wall-world-3.json](./416207-wall-world-3.json) |
 | Wall World Complete | 369136 | [369136-wall-world-complete.json](./369136-wall-world-complete.json) |
 | Wall World Strategy | 398525 | [398525-wall-world-strategy.json](./398525-wall-world-strategy.json) |
 | Wall World: Deep Threat | 257809 | [257809-wall-world-deep-threat.json](./257809-wall-world-deep-threat.json) |
