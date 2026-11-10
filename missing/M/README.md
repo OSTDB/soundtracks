@@ -9694,6 +9694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowphoria | 287205 | [287205-meowphoria.json](./287205-meowphoria.json) |
 | Meowpire | 416570 | [416570-meowpire.json](./416570-meowpire.json) |
 | MeowPower! Yachiyo | 373500 | [373500-meowpower-yachiyo.json](./373500-meowpower-yachiyo.json) |
+| MeowRig | 399565 | [399565-meowrig.json](./399565-meowrig.json) |
 | MeowSon | 391095 | [391095-meowson.json](./391095-meowson.json) |
 | Meowsterpiece Museum | 287472 | [287472-meowsterpiece-museum.json](./287472-meowsterpiece-museum.json) |
 | Meowstery of a Growing Aurora | 296980 | [296980-meowstery-of-a-growing-aurora.json](./296980-meowstery-of-a-growing-aurora.json) |
@@ -15898,6 +15899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo - The Horror Game | 106842 | [106842-momo-the-horror-game.json](./106842-momo-the-horror-game.json) |
 | Momo and the Mine | 255512 | [255512-momo-and-the-mine.json](./255512-momo-and-the-mine.json) |
 | Momo Bunny: Cash Me or Crash Me!! | 369117 | [369117-momo-bunny-cash-me-or-crash-me.json](./369117-momo-bunny-cash-me-or-crash-me.json) |
+| Momo Don't Leave | 399318 | [399318-momo-dont-leave.json](./399318-momo-dont-leave.json) |
 | Momo Horror Story | 239574 | [239574-momo-horror-story.json](./239574-momo-horror-story.json) |
 | Momo Ichigo | 116421 | [116421-momo-ichigo.json](./116421-momo-ichigo.json) |
 | Momo Mother Bird: Final Story | 209483 | [209483-momo-mother-bird-final-story.json](./209483-momo-mother-bird-final-story.json) |
