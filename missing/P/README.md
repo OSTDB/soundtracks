@@ -14334,6 +14334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Tools VR | 292621 | [292621-power-tools-vr.json](./292621-power-tools-vr.json) |
 | Power Tools VR | 74690 | [74690-power-tools-vr.json](./74690-power-tools-vr.json) |
 | Power Tower | 113671 | [113671-power-tower.json](./113671-power-tower.json) |
+| Power Typing Game Gori Da | 406409 | [406409-power-typing-game-gori-da.json](./406409-power-typing-game-gori-da.json) |
 | Power Up | 94571 | [94571-power-up.json](./94571-power-up.json) |
 | Power Up | 96555 | [96555-power-up.json](./96555-power-up.json) |
 | Power Ups that Kill! | 51165 | [51165-power-ups-that-kill.json](./51165-power-ups-that-kill.json) |
