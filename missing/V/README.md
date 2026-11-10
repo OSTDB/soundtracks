@@ -4507,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. Wrecking Crew | 40533 | [40533-vs-wrecking-crew.json](./40533-vs-wrecking-crew.json) |
 | VSCS-II | 193070 | [193070-vscs-ii.json](./193070-vscs-ii.json) |
 | Vsevolod | 10431 | [10431-vsevolod.json](./10431-vsevolod.json) |
+| VSky-X MMORPG | 411886 | [411886-vsky-x-mmorpg.json](./411886-vsky-x-mmorpg.json) |
 | VSR: Void Space Racing | 105590 | [105590-vsr-void-space-racing.json](./105590-vsr-void-space-racing.json) |
 | VT Harmony | 248110 | [248110-vt-harmony.json](./248110-vt-harmony.json) |
 | VT Tennis | 53015 | [53015-vt-tennis.json](./53015-vt-tennis.json) |
