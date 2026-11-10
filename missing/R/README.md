@@ -2868,6 +2868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re.Surs | 159959 | [159959-re-surs.json](./159959-re-surs.json) |
 | Re.wired | 270937 | [270937-re-wired.json](./270937-re-wired.json) |
 | Re[Map] | 117999 | [117999-re-map.json](./117999-re-map.json) |
+| Re/sub | 398085 | [398085-re-sub.json](./398085-re-sub.json) |
 | Re/terra | 259049 | [259049-re-terra.json](./259049-re-terra.json) |
 | Re≒Connect Exit Loop | 288224 | [288224-re-connect-exit-loop.json](./288224-re-connect-exit-loop.json) |
 | RE0: VTuber Life | 370680 | [370680-re0-vtuber-life.json](./370680-re0-vtuber-life.json) |
