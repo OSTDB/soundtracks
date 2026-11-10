@@ -2658,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Raiders | 363147 | [363147-neon-raiders.json](./363147-neon-raiders.json) |
 | Neon Rain | 305125 | [305125-neon-rain.json](./305125-neon-rain.json) |
 | Neon Rhythm | 359883 | [359883-neon-rhythm.json](./359883-neon-rhythm.json) |
+| Neon Rhythm Plus | 427230 | [427230-neon-rhythm-plus.json](./427230-neon-rhythm-plus.json) |
 | Neon Ride | 156844 | [156844-neon-ride.json](./156844-neon-ride.json) |
 | Neon Rider | 104618 | [104618-neon-rider.json](./104618-neon-rider.json) |
 | Neon Rider | 393778 | [393778-neon-rider.json](./393778-neon-rider.json) |
@@ -5869,6 +5870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NitroVerse | 414108 | [414108-nitroverse.json](./414108-nitroverse.json) |
 | NitroZ | 262589 | [262589-nitroz.json](./262589-nitroz.json) |
 | Nitto 1320 Legends | 79962 | [79962-nitto-1320-legends.json](./79962-nitto-1320-legends.json) |
+| Niu War | 427224 | [427224-niu-war.json](./427224-niu-war.json) |
 | Nium | 217817 | [217817-nium.json](./217817-nium.json) |
 | NiuMa | 339085 | [339085-niuma.json](./339085-niuma.json) |
 | NIV Bible & the 20 Lost Levels of Joshua | 70062 | [70062-niv-bible-and-the-20-lost-levels-of-joshua.json](./70062-niv-bible-and-the-20-lost-levels-of-joshua.json) |
@@ -5915,6 +5917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Anglerfish | 195104 | [195104-no-anglerfish.json](./195104-no-anglerfish.json) |
 | No Arm | 360010 | [360010-no-arm.json](./360010-no-arm.json) |
 | No Backup | 401178 | [401178-no-backup.json](./401178-no-backup.json) |
+| No Balls Allowed | 427256 | [427256-no-balls-allowed.json](./427256-no-balls-allowed.json) |
 | No Beer Left Behind! | 408403 | [408403-no-beer-left-behind.json](./408403-no-beer-left-behind.json) |
 | No Blink Allowed | 400560 | [400560-no-blink-allowed.json](./400560-no-blink-allowed.json) |
 | No Blood, No Fowl | 314906 | [314906-no-blood-no-fowl.json](./314906-no-blood-no-fowl.json) |
@@ -6042,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Love | 115048 | [115048-no-love.json](./115048-no-love.json) |
 | No Love Lost | 235600 | [235600-no-love-lost.json](./235600-no-love-lost.json) |
 | No Love Lost: Founders Pack | 290779 | [290779-no-love-lost-founders-pack.json](./290779-no-love-lost-founders-pack.json) |
+| No Love No Money | 427267 | [427267-no-love-no-money.json](./427267-no-love-no-money.json) |
 | No Love: 2009 | 399069 | [399069-no-love-2009.json](./399069-no-love-2009.json) |
 | No Luca No | 92496 | [92496-no-luca-no.json](./92496-no-luca-no.json) |
 | No Male Heroes | 74776 | [74776-no-male-heroes.json](./74776-no-male-heroes.json) |
