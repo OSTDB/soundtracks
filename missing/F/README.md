@@ -2052,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Heroes | 119005 | [119005-fantasy-heroes.json](./119005-fantasy-heroes.json) |
 | Fantasy Heroes 2 | 172001 | [172001-fantasy-heroes-2.json](./172001-fantasy-heroes-2.json) |
 | Fantasy Home Design | 109208 | [109208-fantasy-home-design.json](./109208-fantasy-home-design.json) |
+| Fantasy Idle RPG | 424872 | [424872-fantasy-idle-rpg.json](./424872-fantasy-idle-rpg.json) |
 | Fantasy Illness | 339115 | [339115-fantasy-illness.json](./339115-fantasy-illness.json) |
 | Fantasy Inn Simulator | 157127 | [157127-fantasy-inn-simulator.json](./157127-fantasy-inn-simulator.json) |
 | Fantasy Island | 114925 | [114925-fantasy-island.json](./114925-fantasy-island.json) |
@@ -4522,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 06: Road to FIFA World Cup | 22342 | [22342-fifa-06-road-to-fifa-world-cup.json](./22342-fifa-06-road-to-fifa-world-cup.json) |
 | FIFA 07 | 240291 | [240291-fifa-07.json](./240291-fifa-07.json) |
 | FIFA 09 | 240317 | [240317-fifa-09.json](./240317-fifa-09.json) |
+| FIFA 09 PC | 424849 | [424849-fifa-09-pc.json](./424849-fifa-09-pc.json) |
 | FIFA 09: Ultimate Team | 23015 | [23015-fifa-09-ultimate-team.json](./23015-fifa-09-ultimate-team.json) |
 | FIFA 10: Ultimate Team | 22973 | [22973-fifa-10-ultimate-team.json](./22973-fifa-10-ultimate-team.json) |
 | FIFA 12: UEFA Euro 2012 | 22265 | [22265-fifa-12-uefa-euro-2012.json](./22265-fifa-12-uefa-euro-2012.json) |
