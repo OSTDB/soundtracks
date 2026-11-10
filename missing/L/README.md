@@ -5376,6 +5376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilia's Livelihood: Girl, Tentacle and the Wonder Island | 82653 | [82653-lilias-livelihood-girl-tentacle-and-the-wonder-island.json](./82653-lilias-livelihood-girl-tentacle-and-the-wonder-island.json) |
 | Lilialette's Hustle: Getting My Hands Dirty to Save My Guild | 371445 | [371445-lilialettes-hustle-getting-my-hands-dirty-to-save-my-guild.json](./371445-lilialettes-hustle-getting-my-hands-dirty-to-save-my-guild.json) |
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
+| Lilies in the Graveyard | 407001 | [407001-lilies-in-the-graveyard.json](./407001-lilies-in-the-graveyard.json) |
 | Lilifel | 423882 | [423882-lilifel.json](./423882-lilifel.json) |
 | Lilim Wants to Lv Up | 275138 | [275138-lilim-wants-to-lv-up.json](./275138-lilim-wants-to-lv-up.json) |
 | Lìlìnà de Qíhuàn zhī Lǚ | 156805 | [156805-lilina-de-qihuan-zhi-lu.json](./156805-lilina-de-qihuan-zhi-lu.json) |
