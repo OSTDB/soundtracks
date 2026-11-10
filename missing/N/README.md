@@ -257,6 +257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Classic Collection Vol. 1 | 72575 | [72575-namco-classic-collection-vol-1.json](./72575-namco-classic-collection-vol-1.json) |
 | Namco Classic Collection Vol. 2 | 56389 | [56389-namco-classic-collection-vol-2.json](./56389-namco-classic-collection-vol-2.json) |
 | Namco Classic Fighter Collection | 43282 | [43282-namco-classic-fighter-collection.json](./43282-namco-classic-fighter-collection.json) |
+| Namco Classic II | 398936 | [398936-namco-classic-ii.json](./398936-namco-classic-ii.json) |
 | Namco Classic II | 48413 | [48413-namco-classic-ii.json](./48413-namco-classic-ii.json) |
 | Namco Classics Vol. 1 | 219430 | [219430-namco-classics-vol-1.json](./219430-namco-classics-vol-1.json) |
 | Namco classics volume 1 | 37331 | [37331-namco-classics-volume-1.json](./37331-namco-classics-volume-1.json) |
@@ -5267,6 +5268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nineteen | 187712 | [187712-nineteen.json](./187712-nineteen.json) |
 | Nineteen: 19 | 413046 | [413046-nineteen-19.json](./413046-nineteen-19.json) |
 | Ninety Days | 149683 | [149683-ninety-days.json](./149683-ninety-days.json) |
+| Ninety Nine Dungeons | 398699 | [398699-ninety-nine-dungeons.json](./398699-ninety-nine-dungeons.json) |
 | Ninety Thousand Acres | 321499 | [321499-ninety-thousand-acres.json](./321499-ninety-thousand-acres.json) |
 | Ninety-Nine (99) | 359676 | [359676-ninety-nine-99.json](./359676-ninety-nine-99.json) |
 | Ninety-Nine Nights Online | 66135 | [66135-ninety-nine-nights-online.json](./66135-ninety-nine-nights-online.json) |
@@ -7687,6 +7689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noxious Weeds | 251962 | [251962-noxious-weeds.json](./251962-noxious-weeds.json) |
 | Noxium | 280119 | [280119-noxium.json](./280119-noxium.json) |
 | Noxpheria: The Crimson Madness | 385146 | [385146-noxpheria-the-crimson-madness.json](./385146-noxpheria-the-crimson-madness.json) |
+| NoxTurn | 398933 | [398933-noxturn.json](./398933-noxturn.json) |
 | Noyah: Corrupted Memories | 164962 | [164962-noyah-corrupted-memories.json](./164962-noyah-corrupted-memories.json) |
 | Noyd | 270608 | [270608-noyd.json](./270608-noyd.json) |
 | Noyo-! | 120038 | [120038-noyo.json](./120038-noyo.json) |
@@ -8116,6 +8119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nursery Slime | 195642 | [195642-nursery-slime.json](./195642-nursery-slime.json) |
 | Nurtopu | 264960 | [264960-nurtopu.json](./264960-nurtopu.json) |
 | Nurtopu: Fetö ile Mücadele | 204357 | [204357-nurtopu-feto-ile-mucadele.json](./204357-nurtopu-feto-ile-mucadele.json) |
+| Nurture | 398715 | [398715-nurture.json](./398715-nurture.json) |
 | Nurtured Human Plan: Meet a Date | 233031 | [233031-nurtured-human-plan-meet-a-date.json](./233031-nurtured-human-plan-meet-a-date.json) |
 | Nurujiru | 97671 | [97671-nurujiru.json](./97671-nurujiru.json) |
 | Nusakana | 34496 | [34496-nusakana.json](./34496-nusakana.json) |
