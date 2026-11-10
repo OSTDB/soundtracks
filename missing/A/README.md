@@ -2268,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstract Arena | 33632 | [33632-abstract-arena.json](./33632-abstract-arena.json) |
 | Abstract Code | 283873 | [283873-abstract-code.json](./283873-abstract-code.json) |
 | Abstract Driver | 250450 | [250450-abstract-driver.json](./250450-abstract-driver.json) |
+| Abstract Golfing | 101402 | [101402-abstract-golfing.json](./101402-abstract-golfing.json) |
 | Abstract Grind | 221097 | [221097-abstract-grind.json](./221097-abstract-grind.json) |
 | Abstract Hell | 113278 | [113278-abstract-hell.json](./113278-abstract-hell.json) |
 | Abstract Initiative | 44748 | [44748-abstract-initiative.json](./44748-abstract-initiative.json) |
@@ -17873,6 +17874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Gooobers | 50545 | [50545-attack-of-the-gooobers.json](./50545-attack-of-the-gooobers.json) |
 | Attack of the Karens | 150376 | [150376-attack-of-the-karens.json](./150376-attack-of-the-karens.json) |
 | Attack of the Killer Beast | 234710 | [234710-attack-of-the-killer-beast.json](./234710-attack-of-the-killer-beast.json) |
+| Attack of the Killer Furries | 101261 | [101261-attack-of-the-killer-furries.json](./101261-attack-of-the-killer-furries.json) |
 | Attack of the Killer Swarm | 78922 | [78922-attack-of-the-killer-swarm.json](./78922-attack-of-the-killer-swarm.json) |
 | Attack of the Killer Tomatoes | 273079 | [273079-attack-of-the-killer-tomatoes.json](./273079-attack-of-the-killer-tomatoes.json) |
 | Attack of the Killer Tomatoes | 28435 | [28435-attack-of-the-killer-tomatoes.json](./28435-attack-of-the-killer-tomatoes.json) |
@@ -19063,6 +19065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awfully Good Pizza | 148196 | [148196-awfully-good-pizza.json](./148196-awfully-good-pizza.json) |
 | Awita: Journey of Hope | 247968 | [247968-awita-journey-of-hope.json](./247968-awita-journey-of-hope.json) |
 | AWK: Adventures of Walker King | 201413 | [201413-awk-adventures-of-walker-king.json](./201413-awk-adventures-of-walker-king.json) |
+| Awkward | 101238 | [101238-awkward.json](./101238-awkward.json) |
 | Awkward 2 | 232874 | [232874-awkward-2.json](./232874-awkward-2.json) |
 | Awkward Date Hero | 109621 | [109621-awkward-date-hero.json](./109621-awkward-date-hero.json) |
 | Awkward Dimensions | 22380 | [22380-awkward-dimensions.json](./22380-awkward-dimensions.json) |
