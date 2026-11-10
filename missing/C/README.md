@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Kingdom Story | 238296 | [238296-cake-kingdom-story.json](./238296-cake-kingdom-story.json) |
 | Cake Laboratory | 114184 | [114184-cake-laboratory.json](./114184-cake-laboratory.json) |
 | Cake Maker Deluxe | 103151 | [103151-cake-maker-deluxe.json](./103151-cake-maker-deluxe.json) |
+| Cake Mania | 4740 | [4740-cake-mania.json](./4740-cake-mania.json) |
 | Cake Mania 2 | 15045 | [15045-cake-mania-2.json](./15045-cake-mania-2.json) |
 | Cake Mania 3 | 15046 | [15046-cake-mania-3.json](./15046-cake-mania-3.json) |
 | Cake Mania: Back to the Bakery | 15044 | [15044-cake-mania-back-to-the-bakery.json](./15044-cake-mania-back-to-the-bakery.json) |
@@ -3218,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars Mater-National Championship | 4748 | [4748-cars-mater-national-championship.json](./4748-cars-mater-national-championship.json) |
 | Cars Puzzles Game | 222052 | [222052-cars-puzzles-game.json](./222052-cars-puzzles-game.json) |
 | Cars Race-O-Rama | 307494 | [307494-cars-race-o-rama.json](./307494-cars-race-o-rama.json) |
+| Cars Race-O-Rama | 4749 | [4749-cars-race-o-rama.json](./4749-cars-race-o-rama.json) |
 | Cars Supercharged | 76453 | [76453-cars-supercharged.json](./76453-cars-supercharged.json) |
 | Cars Toon | 36249 | [36249-cars-toon.json](./36249-cars-toon.json) |
 | Cars Toon Mater's Tall Tales | 50687 | [50687-cars-toon-maters-tall-tales.json](./50687-cars-toon-maters-tall-tales.json) |
