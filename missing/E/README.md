@@ -634,6 +634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Red 2: Normandy | 268595 | [268595-easy-red-2-normandy.json](./268595-easy-red-2-normandy.json) |
 | Easy Red 2: Stalingrad | 231286 | [231286-easy-red-2-stalingrad.json](./231286-easy-red-2-stalingrad.json) |
 | Easy RTS | 303502 | [303502-easy-rts.json](./303502-easy-rts.json) |
+| Easy Running | 427814 | [427814-easy-running.json](./427814-easy-running.json) |
 | Easy Shooter | 116912 | [116912-easy-shooter.json](./116912-easy-shooter.json) |
 | Easy Simple Game | 212832 | [212832-easy-simple-game.json](./212832-easy-simple-game.json) |
 | Easy Street: A Shopping Adventure | 336128 | [336128-easy-street-a-shopping-adventure.json](./336128-easy-street-a-shopping-adventure.json) |
@@ -4501,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enthruxia | 179149 | [179149-enthruxia.json](./179149-enthruxia.json) |
 | Enthusia: Professional Racing | 19818 | [19818-enthusia-professional-racing.json](./19818-enthusia-professional-racing.json) |
 | Entities | 273969 | [273969-entities.json](./273969-entities.json) |
+| Entities Declassified: Winter Hungers | 427822 | [427822-entities-declassified-winter-hungers.json](./427822-entities-declassified-winter-hungers.json) |
 | Entities' Repose | 298820 | [298820-entities-repose.json](./298820-entities-repose.json) |
 | Entity | 171620 | [171620-entity.json](./171620-entity.json) |
 | Entity | 177408 | [177408-entity.json](./177408-entity.json) |
@@ -6244,6 +6246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esteem | 333142 | [333142-esteem.json](./333142-esteem.json) |
 | Estelaroid: Escape Room | 258417 | [258417-estelaroid-escape-room.json](./258417-estelaroid-escape-room.json) |
 | Estella | 378466 | [378466-estella.json](./378466-estella.json) |
+| Estelle Igni: To Light Fires in the Night Sky | 427818 | [427818-estelle-igni-to-light-fires-in-the-night-sky.json](./427818-estelle-igni-to-light-fires-in-the-night-sky.json) |
 | Estellina | 286080 | [286080-estellina.json](./286080-estellina.json) |
 | Estellium Legends | 114224 | [114224-estellium-legends.json](./114224-estellium-legends.json) |
 | Estellium Legends II | 419378 | [419378-estellium-legends-ii.json](./419378-estellium-legends-ii.json) |
