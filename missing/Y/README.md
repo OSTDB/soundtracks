@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yatsu Hakamura | 191868 | [191868-yatsu-hakamura.json](./191868-yatsu-hakamura.json) |
 | Yatsumeguri | 309055 | [309055-yatsumeguri.json](./309055-yatsumeguri.json) |
 | Yatsumitsu Fists of Wrath | 54850 | [54850-yatsumitsu-fists-of-wrath.json](./54850-yatsumitsu-fists-of-wrath.json) |
+| Yatte mo Derarenai Heya ni Tojikomerareta no de Hikitsuzuki Motto Yaru Hanashi | 402630 | [402630-yatte-mo-derarenai-heya-ni-tojikomerareta-no-de-hikitsuzuki-motto-yaru-hanashi.json](./402630-yatte-mo-derarenai-heya-ni-tojikomerareta-no-de-hikitsuzuki-motto-yaru-hanashi.json) |
 | Yatterman DS 2: Bikkuri Dokkiri Animal Daibouken | 124150 | [124150-yatterman-ds-2-bikkuri-dokkiri-animal-daibouken.json](./124150-yatterman-ds-2-bikkuri-dokkiri-animal-daibouken.json) |
 | Yatterman DS: Bikkuri Dokkiri Daisakusen da Koron | 354955 | [354955-yatterman-ds-bikkuri-dokkiri-daisakusen-da-koron.json](./354955-yatterman-ds-bikkuri-dokkiri-daisakusen-da-koron.json) |
 | Yatterman Wii: Bikkuridokkiri Machine de Mou Race da Koron | 67009 | [67009-yatterman-wii-bikkuridokkiri-machine-de-mou-race-da-koron.json](./67009-yatterman-wii-bikkuridokkiri-machine-de-mou-race-da-koron.json) |
