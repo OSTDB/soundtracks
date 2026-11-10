@@ -7276,6 +7276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess With Friends | 79921 | [79921-chess-with-friends.json](./79921-chess-with-friends.json) |
 | Chess With Idiots | 371978 | [371978-chess-with-idiots.json](./371978-chess-with-idiots.json) |
 | Chess with Lasers | 159223 | [159223-chess-with-lasers.json](./159223-chess-with-lasers.json) |
+| Chess- Online Game Hall | 89065 | [89065-chess-online-game-hall.json](./89065-chess-online-game-hall.json) |
 | Chess-ban de maigo | 387760 | [387760-chess-ban-de-maigo.json](./387760-chess-ban-de-maigo.json) |
 | Chess-Studio | 90337 | [90337-chess-studio.json](./90337-chess-studio.json) |
 | Chess, but... | 211265 | [211265-chess-but.json](./211265-chess-but.json) |
@@ -10441,6 +10442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
 | Classic Max Lite | 359478 | [359478-classic-max-lite.json](./359478-classic-max-lite.json) |
 | Classic Memory Game | 205864 | [205864-classic-memory-game.json](./205864-classic-memory-game.json) |
+| Classic Minesweeper | 87452 | [87452-classic-minesweeper.json](./87452-classic-minesweeper.json) |
 | Classic Muncher | 13496 | [13496-classic-muncher.json](./13496-classic-muncher.json) |
 | Classic Mystery Library | 71142 | [71142-classic-mystery-library.json](./71142-classic-mystery-library.json) |
 | Classic NES Series Trivia | 328665 | [328665-classic-nes-series-trivia.json](./328665-classic-nes-series-trivia.json) |
@@ -12628,6 +12630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Numbers - Christmas + | 87178 | [87178-color-by-numbers-christmas.json](./87178-color-by-numbers-christmas.json) |
 | Color by Numbers - Dogs + | 101676 | [101676-color-by-numbers-dogs.json](./101676-color-by-numbers-dogs.json) |
 | Color by Numbers - Halloween + | 100009 | [100009-color-by-numbers-halloween.json](./100009-color-by-numbers-halloween.json) |
+| Color by Numbers - Princesses | 89067 | [89067-color-by-numbers-princesses.json](./89067-color-by-numbers-princesses.json) |
 | Color by Numbers - Vehicles | 88683 | [88683-color-by-numbers-vehicles.json](./88683-color-by-numbers-vehicles.json) |
 | Color Cannons+ | 107383 | [107383-color-cannons.json](./107383-color-cannons.json) |
 | Color Catch | 24817 | [24817-color-catch.json](./24817-color-catch.json) |
@@ -20728,6 +20731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curling 2010 | 230688 | [230688-curling-2010.json](./230688-curling-2010.json) |
 | Curling 2010 | 66570 | [66570-curling-2010.json](./66570-curling-2010.json) |
 | Curling 2012 | 52334 | [52334-curling-2012.json](./52334-curling-2012.json) |
+| Curling 3D - Winter Sports | 87478 | [87478-curling-3d-winter-sports.json](./87478-curling-3d-winter-sports.json) |
 | Curling DS | 92026 | [92026-curling-ds.json](./92026-curling-ds.json) |
 | Curling in the Dungeon | 292365 | [292365-curling-in-the-dungeon.json](./292365-curling-in-the-dungeon.json) |
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
