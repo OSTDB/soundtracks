@@ -3261,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevermore VIII-XIII | 119498 | [119498-nevermore-viii-xiii.json](./119498-nevermore-viii-xiii.json) |
 | Nevermore: Documentary Kinetic Novel | 206511 | [206511-nevermore-documentary-kinetic-novel.json](./206511-nevermore-documentary-kinetic-novel.json) |
 | Nevermore: The Chamber Door | 149161 | [149161-nevermore-the-chamber-door.json](./149161-nevermore-the-chamber-door.json) |
+| Neverness to Everness: For Whom the Verses Mourn | 421171 | [421171-neverness-to-everness-for-whom-the-verses-mourn.json](./421171-neverness-to-everness-for-whom-the-verses-mourn.json) |
 | NeveRossa: Mille e una notte | 316644 | [316644-neverossa-mille-e-una-notte.json](./316644-neverossa-mille-e-una-notte.json) |
 | Neverout | 29791 | [29791-neverout.json](./29791-neverout.json) |
 | Neverputt | 51246 | [51246-neverputt.json](./51246-neverputt.json) |
