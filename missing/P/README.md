@@ -4060,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peer-2-Pizza | 417448 | [417448-peer-2-pizza.json](./417448-peer-2-pizza.json) |
 | Peerless Beauty Detective: Alice | 406885 | [406885-peerless-beauty-detective-alice.json](./406885-peerless-beauty-detective-alice.json) |
 | Peerless Destiny | 294995 | [294995-peerless-destiny.json](./294995-peerless-destiny.json) |
+| Peerless Heart | 401963 | [401963-peerless-heart.json](./401963-peerless-heart.json) |
 | Peestal 6: With Cheese | 366704 | [366704-peestal-6-with-cheese.json](./366704-peestal-6-with-cheese.json) |
 | Peetan | 41786 | [41786-peetan.json](./41786-peetan.json) |
 | PeeTee Babybuu | 103197 | [103197-peetee-babybuu.json](./103197-peetee-babybuu.json) |
