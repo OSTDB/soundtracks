@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -13150,6 +13151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BomberGast | 179383 | [179383-bombergast.json](./179383-bombergast.json) |
 | Bombergeddon | 129745 | [129745-bombergeddon.json](./129745-bombergeddon.json) |
 | Bombergirl | 27285 | [27285-bombergirl.json](./27285-bombergirl.json) |
+| Bombergrounds: Reborn | 120852 | [120852-bombergrounds-reborn.json](./120852-bombergrounds-reborn.json) |
 | BomberGuys | 191449 | [191449-bomberguys.json](./191449-bomberguys.json) |
 | BomberHit | 303066 | [303066-bomberhit.json](./303066-bomberhit.json) |
 | Bomberic 2 | 91561 | [91561-bomberic-2.json](./91561-bomberic-2.json) |
@@ -13764,6 +13766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boomerang Survivor 3 | 386550 | [386550-boomerang-survivor-3.json](./386550-boomerang-survivor-3.json) |
 | Boomerang Woman | 190299 | [190299-boomerang-woman.json](./190299-boomerang-woman.json) |
+| Boomerang X | 126851 | [126851-boomerang-x.json](./126851-boomerang-x.json) |
 | Boomeraxe | 258522 | [258522-boomeraxe.json](./258522-boomeraxe.json) |
 | Boomies | 307256 | [307256-boomies.json](./307256-boomies.json) |
 | Booming Boy | 41732 | [41732-booming-boy.json](./41732-booming-boy.json) |
