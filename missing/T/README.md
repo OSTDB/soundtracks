@@ -2712,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taskmaster | 67877 | [67877-taskmaster.json](./67877-taskmaster.json) |
 | Tasks for Two | 368277 | [368277-tasks-for-two.json](./368277-tasks-for-two.json) |
 | TaskTwist | 270553 | [270553-tasktwist.json](./270553-tasktwist.json) |
+| Tasmania Story | 49061 | [49061-tasmania-story.json](./49061-tasmania-story.json) |
 | Tasmanian Devil | 241158 | [241158-tasmanian-devil.json](./241158-tasmanian-devil.json) |
 | Tasmon: Taskbar Monsters | 424015 | [424015-tasmon-taskbar-monsters.json](./424015-tasmon-taskbar-monsters.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
@@ -3083,6 +3084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Assault: Baptism of Fire | 66032 | [66032-team-assault-baptism-of-fire.json](./66032-team-assault-baptism-of-fire.json) |
 | Team Awesome | 112056 | [112056-team-awesome.json](./112056-team-awesome.json) |
 | Team Batista no Eikou Shinjitsu wo Tsumugu 4 tsu no Chart | 70412 | [70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json](./70412-team-batista-no-eikou-shinjitsu-wo-tsumugu-4-tsu-no-chart.json) |
+| Team Buddies | 45024 | [45024-team-buddies.json](./45024-team-buddies.json) |
 | Team Canada Table Hockey | 88129 | [88129-team-canada-table-hockey.json](./88129-team-canada-table-hockey.json) |
 | Team Conquest | 220053 | [220053-team-conquest.json](./220053-team-conquest.json) |
 | Team Crossword | 106255 | [106255-team-crossword.json](./106255-team-crossword.json) |
