@@ -2546,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One more! | 304849 | [304849-one-more.json](./304849-one-more.json) |
 | One Move Away | 325581 | [325581-one-move-away.json](./325581-one-move-away.json) |
 | One Must Fall | 14428 | [14428-one-must-fall.json](./14428-one-must-fall.json) |
+| One Must Fall: 2097 | 14429 | [14429-one-must-fall-2097.json](./14429-one-must-fall-2097.json) |
 | One Must Fall: Battlegrounds | 14430 | [14430-one-must-fall-battlegrounds.json](./14430-one-must-fall-battlegrounds.json) |
 | One Nation Under the Old Gods | 372532 | [372532-one-nation-under-the-old-gods.json](./372532-one-nation-under-the-old-gods.json) |
 | One Night | 286505 | [286505-one-night.json](./286505-one-night.json) |
@@ -5374,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outcasts of the Rift | 236914 | [236914-outcasts-of-the-rift.json](./236914-outcasts-of-the-rift.json) |
 | Outclaw | 354931 | [354931-outclaw.json](./354931-outclaw.json) |
 | Outcore: Desktop Adventure | 156612 | [156612-outcore-desktop-adventure.json](./156612-outcore-desktop-adventure.json) |
+| Outcry | 13194 | [13194-outcry.json](./13194-outcry.json) |
 | Outdo IO: Alphabet Letter | 237632 | [237632-outdo-io-alphabet-letter.json](./237632-outdo-io-alphabet-letter.json) |
 | Outdoor Action Double Pack | 50974 | [50974-outdoor-action-double-pack.json](./50974-outdoor-action-double-pack.json) |
 | Outdoor Adventures With Marisa Kirisame | 192020 | [192020-outdoor-adventures-with-marisa-kirisame.json](./192020-outdoor-adventures-with-marisa-kirisame.json) |
@@ -5461,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlast: Whistleblower | 9223 | [9223-outlast-whistleblower.json](./9223-outlast-whistleblower.json) |
 | Outlaw | 113994 | [113994-outlaw.json](./113994-outlaw.json) |
 | Outlaw | 123065 | [123065-outlaw.json](./123065-outlaw.json) |
+| Outlaw | 15562 | [15562-outlaw.json](./15562-outlaw.json) |
 | Outlaw 1997 | 148389 | [148389-outlaw-1997.json](./148389-outlaw-1997.json) |
 | Outlaw Chopper | 68018 | [68018-outlaw-chopper.json](./68018-outlaw-chopper.json) |
 | Outlaw City | 324686 | [324686-outlaw-city.json](./324686-outlaw-city.json) |
