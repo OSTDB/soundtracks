@@ -10010,6 +10010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mesopotamia | 42042 | [42042-mesopotamia.json](./42042-mesopotamia.json) |
 | Mesopotamia: The Game | 359928 | [359928-mesopotamia-the-game.json](./359928-mesopotamia-the-game.json) |
 | Mesorift Survival | 350403 | [350403-mesorift-survival.json](./350403-mesorift-survival.json) |
+| Mesozoica | 57084 | [57084-mesozoica.json](./57084-mesozoica.json) |
 | Mesozoikum | 161622 | [161622-mesozoikum.json](./161622-mesozoikum.json) |
 | Mess | 346896 | [346896-mess.json](./346896-mess.json) |
 | Mess Adventures | 153329 | [153329-mess-adventures.json](./153329-mess-adventures.json) |
