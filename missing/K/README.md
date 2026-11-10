@@ -1880,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenka Bancho 4: Ichinen Sensou | 81473 | [81473-kenka-bancho-4-ichinen-sensou.json](./81473-kenka-bancho-4-ichinen-sensou.json) |
 | Kenka Bancho 5: Otoko no Hosoku | 63625 | [63625-kenka-bancho-5-otoko-no-hosoku.json](./63625-kenka-bancho-5-otoko-no-hosoku.json) |
 | Kenka Bancho Bros.: Tokyo Battle Royale | 64878 | [64878-kenka-bancho-bros-tokyo-battle-royale.json](./64878-kenka-bancho-bros-tokyo-battle-royale.json) |
+| Kenka Bancho Otome Double Pack | 400616 | [400616-kenka-bancho-otome-double-pack.json](./400616-kenka-bancho-otome-double-pack.json) |
 | Kenka Bancho: Badass Rumble | 21891 | [21891-kenka-bancho-badass-rumble.json](./21891-kenka-bancho-badass-rumble.json) |
 | Kenka Bancho: Zenkoku Seiha | 61498 | [61498-kenka-bancho-zenkoku-seiha.json](./61498-kenka-bancho-zenkoku-seiha.json) |
 | Kenka Banchou Otome | 28497 | [28497-kenka-banchou-otome.json](./28497-kenka-banchou-otome.json) |
@@ -2959,7 +2960,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
