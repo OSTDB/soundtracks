@@ -7806,6 +7806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipe Mania | 21682 | [21682-pipe-mania.json](./21682-pipe-mania.json) |
 | Pipe Mania!! | 265013 | [265013-pipe-mania.json](./265013-pipe-mania.json) |
 | Pipe Master II | 108803 | [108803-pipe-master-ii.json](./108803-pipe-master-ii.json) |
+| Pipe or Die | 426045 | [426045-pipe-or-die.json](./426045-pipe-or-die.json) |
 | Pipe Push Paradise | 72519 | [72519-pipe-push-paradise.json](./72519-pipe-push-paradise.json) |
 | Pipe Puzzle | 68929 | [68929-pipe-puzzle.json](./68929-pipe-puzzle.json) |
 | Pipe Race | 247326 | [247326-pipe-race.json](./247326-pipe-race.json) |
@@ -11237,6 +11238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokaban | 197006 | [197006-pokaban.json](./197006-pokaban.json) |
 | Pokaboo | 197851 | [197851-pokaboo.json](./197851-pokaboo.json) |
 | PokAidle: The Everfall Chronicles | 384130 | [384130-pokaidle-the-everfall-chronicles.json](./384130-pokaidle-the-everfall-chronicles.json) |
+| Pokart | 425983 | [425983-pokart.json](./425983-pokart.json) |
 | Poke a Nose | 405173 | [405173-poke-a-nose.json](./405173-poke-a-nose.json) |
 | Poke Abby | 210464 | [210464-poke-abby.json](./210464-poke-abby.json) |
 | Poke All Toads | 241785 | [241785-poke-all-toads.json](./241785-poke-all-toads.json) |
@@ -16535,6 +16537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Evo | 212545 | [212545-project-evo.json](./212545-project-evo.json) |
 | Project Evolve | 306067 | [306067-project-evolve.json](./306067-project-evolve.json) |
 | Project Exhibited | 132216 | [132216-project-exhibited.json](./132216-project-exhibited.json) |
+| Project Exhibitionist | 426055 | [426055-project-exhibitionist.json](./426055-project-exhibitionist.json) |
 | Project Exo | 214038 | [214038-project-exo.json](./214038-project-exo.json) |
 | Project Explore | 35533 | [35533-project-explore.json](./35533-project-explore.json) |
 | Project F | 256459 | [256459-project-f.json](./256459-project-f.json) |
