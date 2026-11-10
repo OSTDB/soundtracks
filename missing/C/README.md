@@ -4237,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Commandos | 235009 | [235009-cat-commandos.json](./235009-cat-commandos.json) |
 | Cat Condo | 87500 | [87500-cat-condo.json](./87500-cat-condo.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
+| Cat Cottage | 399553 | [399553-cat-cottage.json](./399553-cat-cottage.json) |
 | Cat Couple | 334804 | [334804-cat-couple.json](./334804-cat-couple.json) |
 | Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
 | Cat Crazy | 414009 | [414009-cat-crazy.json](./414009-cat-crazy.json) |
@@ -9059,6 +9060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Weaver | 211526 | [211526-chrono-weaver.json](./211526-chrono-weaver.json) |
 | Chrono-Shift | 310884 | [310884-chrono-shift.json](./310884-chrono-shift.json) |
 | Chrono's Arena | 126628 | [126628-chronos-arena.json](./126628-chronos-arena.json) |
+| Chrono&Cash | 399328 | [399328-chrono-and-cash.json](./399328-chrono-and-cash.json) |
 | ChronoBabes | 338527 | [338527-chronobabes.json](./338527-chronobabes.json) |
 | ChronoBelt SchwarzOath: Ayakashibito & Bullet Butlers Crossover Disk | 259485 | [259485-chronobelt-schwarzoath-ayakashibito-and-bullet-butlers-crossover-disk.json](./259485-chronobelt-schwarzoath-ayakashibito-and-bullet-butlers-crossover-disk.json) |
 | ChronoBlade | 63877 | [63877-chronoblade.json](./63877-chronoblade.json) |
