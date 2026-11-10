@@ -5130,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seeking Asylum: The Game | 390522 | [390522-seeking-asylum-the-game.json](./390522-seeking-asylum-the-game.json) |
 | Seeking Ataraxia | 59690 | [59690-seeking-ataraxia.json](./59690-seeking-ataraxia.json) |
 | Seeking Cat | 317396 | [317396-seeking-cat.json](./317396-seeking-cat.json) |
+| Seeking Dawn | 104865 | [104865-seeking-dawn.json](./104865-seeking-dawn.json) |
 | Seeking Dawn: Free to Play Edition | 111224 | [111224-seeking-dawn-free-to-play-edition.json](./111224-seeking-dawn-free-to-play-edition.json) |
 | Seeking Evil: The Wendigo | 28148 | [28148-seeking-evil-the-wendigo.json](./28148-seeking-evil-the-wendigo.json) |
 | Seeking for Puppies | 359415 | [359415-seeking-for-puppies.json](./359415-seeking-for-puppies.json) |
@@ -32998,6 +32999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lemonade Factory Part Two | 61011 | [61011-super-lemonade-factory-part-two.json](./61011-super-lemonade-factory-part-two.json) |
 | Super Lesbian Animal RPG | 138659 | [138659-super-lesbian-animal-rpg.json](./138659-super-lesbian-animal-rpg.json) |
 | Super Lesbian Horse RPG | 228658 | [228658-super-lesbian-horse-rpg.json](./228658-super-lesbian-horse-rpg.json) |
+| Super Life of Pixel | 106310 | [106310-super-life-of-pixel.json](./106310-super-life-of-pixel.json) |
 | Super Life RPG | 120398 | [120398-super-life-rpg.json](./120398-super-life-rpg.json) |
 | Super Life: Franchise Lord | 195188 | [195188-super-life-franchise-lord.json](./195188-super-life-franchise-lord.json) |
 | Super Liftpia | 279531 | [279531-super-liftpia.json](./279531-super-liftpia.json) |
