@@ -2777,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Setter | 176340 | [176340-gem-setter.json](./176340-gem-setter.json) |
 | Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
 | Gem Shop | 54050 | [54050-gem-shop.json](./54050-gem-shop.json) |
+| Gem Smashers | 6419 | [6419-gem-smashers.json](./6419-gem-smashers.json) |
 | Gem Stack | 216036 | [216036-gem-stack.json](./216036-gem-stack.json) |
 | Gem Stone Legend | 14775 | [14775-gem-stone-legend.json](./14775-gem-stone-legend.json) |
 | Gem Tales 2: Crystal Dragon | 415840 | [415840-gem-tales-2-crystal-dragon.json](./415840-gem-tales-2-crystal-dragon.json) |
@@ -5864,6 +5865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Fish Go! | 125717 | [125717-go-fish-go.json](./125717-go-fish-go.json) |
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
+| Go! Go! Beckham! Adventure on Soccer Island | 6421 | [6421-go-go-beckham-adventure-on-soccer-island.json](./6421-go-go-beckham-adventure-on-soccer-island.json) |
 | Go! Go! Birdie Chance | 61416 | [61416-go-go-birdie-chance.json](./61416-go-go-birdie-chance.json) |
 | Go! Go! Break Steady | 23031 | [23031-go-go-break-steady.json](./23031-go-go-break-steady.json) |
 | Go! Go! Cosmo Cops! | 21211 | [21211-go-go-cosmo-cops.json](./21211-go-go-cosmo-cops.json) |
