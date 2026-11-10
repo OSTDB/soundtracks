@@ -8438,6 +8438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Method | 150353 | [150353-the-dark-method.json](./150353-the-dark-method.json) |
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
 | The Dark Mod | 50344 | [50344-the-dark-mod.json](./50344-the-dark-mod.json) |
+| The Dark Path to the Black Tower | 398065 | [398065-the-dark-path-to-the-black-tower.json](./398065-the-dark-path-to-the-black-tower.json) |
 | The Dark Pictures Anthology: House of Ashes - Pazuzu Edition | 152103 | [152103-the-dark-pictures-anthology-house-of-ashes-pazuzu-edition.json](./152103-the-dark-pictures-anthology-house-of-ashes-pazuzu-edition.json) |
 | The Dark Pictures Anthology: Intercession | 257076 | [257076-the-dark-pictures-anthology-intercession.json](./257076-the-dark-pictures-anthology-intercession.json) |
 | The Dark Pictures Anthology: Little Hope & Man of Medan Bundle | 169246 | [169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json](./169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json) |
@@ -11531,6 +11532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunter | 284260 | [284260-the-hunter.json](./284260-the-hunter.json) |
 | The Hunter 2012 | 50281 | [50281-the-hunter-2012.json](./50281-the-hunter-2012.json) |
 | The Hunter Cursed by Night | 296467 | [296467-the-hunter-cursed-by-night.json](./296467-the-hunter-cursed-by-night.json) |
+| The Hunter Files: Case One | 398048 | [398048-the-hunter-files-case-one.json](./398048-the-hunter-files-case-one.json) |
 | The Hunter of Falkenberg | 188770 | [188770-the-hunter-of-falkenberg.json](./188770-the-hunter-of-falkenberg.json) |
 | The Hunter's Journals: Blissful Ignorance | 123870 | [123870-the-hunters-journals-blissful-ignorance.json](./123870-the-hunters-journals-blissful-ignorance.json) |
 | The Hunter's Journals: Tattered Sails | 195895 | [195895-the-hunters-journals-tattered-sails.json](./195895-the-hunters-journals-tattered-sails.json) |
@@ -15741,6 +15743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pirates of Sector 7 | 103787 | [103787-the-pirates-of-sector-7.json](./103787-the-pirates-of-sector-7.json) |
 | The Pirates: Kingdoms | 188298 | [188298-the-pirates-kingdoms.json](./188298-the-pirates-kingdoms.json) |
 | The Piratescape | 176451 | [176451-the-piratescape.json](./176451-the-piratescape.json) |
+| The Pissing Game | 398055 | [398055-the-pissing-game.json](./398055-the-pissing-game.json) |
 | The Pit | 213417 | [213417-the-pit.json](./213417-the-pit.json) |
 | The Pit | 23513 | [23513-the-pit.json](./23513-the-pit.json) |
 | The Pit | 250539 | [250539-the-pit.json](./250539-the-pit.json) |
