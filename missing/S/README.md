@@ -9715,6 +9715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shopkeeper Simulator | 353588 | [353588-shopkeeper-simulator.json](./353588-shopkeeper-simulator.json) |
 | Shopkeeper Simulator VR | 97270 | [97270-shopkeeper-simulator-vr.json](./97270-shopkeeper-simulator-vr.json) |
 | Shopkeepers Tale | 110166 | [110166-shopkeepers-tale.json](./110166-shopkeepers-tale.json) |
+| Shopkins World! | 89110 | [89110-shopkins-world.json](./89110-shopkins-world.json) |
 | Shopkins: Cutie Cars | 109007 | [109007-shopkins-cutie-cars.json](./109007-shopkins-cutie-cars.json) |
 | Shopkins: Top Trumps | 82140 | [82140-shopkins-top-trumps.json](./82140-shopkins-top-trumps.json) |
 | Shopkins: Who's Next? | 98791 | [98791-shopkins-whos-next.json](./98791-shopkins-whos-next.json) |
@@ -20068,6 +20069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventures | 165932 | [165932-space-adventures.json](./165932-space-adventures.json) |
 | Space Age | 270423 | [270423-space-age.json](./270423-space-age.json) |
 | Space Age | 60095 | [60095-space-age.json](./60095-space-age.json) |
+| Space Age: A Cosmic Adventure | 89061 | [89061-space-age-a-cosmic-adventure.json](./89061-space-age-a-cosmic-adventure.json) |
 | Space Age: Director's Cut | 293227 | [293227-space-age-directors-cut.json](./293227-space-age-directors-cut.json) |
 | Space Agency | 87721 | [87721-space-agency.json](./87721-space-agency.json) |
 | Space Agency 2138 | 223622 | [223622-space-agency-2138.json](./223622-space-agency-2138.json) |
@@ -24039,6 +24041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Is Here | 82185 | [82185-spring-is-here.json](./82185-spring-is-here.json) |
 | Spring It! | 84536 | [84536-spring-it.json](./84536-spring-it.json) |
 | Spring Leaves No Flowers | 126470 | [126470-spring-leaves-no-flowers.json](./126470-spring-leaves-no-flowers.json) |
+| Spring Mahjong | 87458 | [87458-spring-mahjong.json](./87458-spring-mahjong.json) |
 | Spring Me Up | 381363 | [381363-spring-me-up.json](./381363-spring-me-up.json) |
 | Spring Mosaics | 415910 | [415910-spring-mosaics.json](./415910-spring-mosaics.json) |
 | Spring Ninja | 344936 | [344936-spring-ninja.json](./344936-spring-ninja.json) |
@@ -28864,6 +28867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded Nightmare | 207367 | [207367-stranded-nightmare.json](./207367-stranded-nightmare.json) |
 | Stranded On An Island | 285944 | [285944-stranded-on-an-island.json](./285944-stranded-on-an-island.json) |
 | Stranded Raft Survival | 88932 | [88932-stranded-raft-survival.json](./88932-stranded-raft-survival.json) |
+| Stranded Raft Survival 2018 | 87466 | [87466-stranded-raft-survival-2018.json](./87466-stranded-raft-survival-2018.json) |
 | Stranded Sails | 112344 | [112344-stranded-sails.json](./112344-stranded-sails.json) |
 | Stranded Shootout | 291787 | [291787-stranded-shootout.json](./291787-stranded-shootout.json) |
 | Stranded Survival | 58938 | [58938-stranded-survival.json](./58938-stranded-survival.json) |
