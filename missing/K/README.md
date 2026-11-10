@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalidazkoph | 135794 | [135794-kalidazkoph.json](./135794-kalidazkoph.json) |
 | Kalikan | 255868 | [255868-kalikan.json](./255868-kalikan.json) |
 | Kalimat Karash | 314637 | [314637-kalimat-karash.json](./314637-kalimat-karash.json) |
+| Kalimba | 14711 | [14711-kalimba.json](./14711-kalimba.json) |
 | Kalimba: The Dark Void - Coop | 174518 | [174518-kalimba-the-dark-void-coop.json](./174518-kalimba-the-dark-void-coop.json) |
 | Kalimba: The Dark Void - Solo | 170377 | [170377-kalimba-the-dark-void-solo.json](./170377-kalimba-the-dark-void-solo.json) |
 | Kalin no Tsurugi | 41286 | [41286-kalin-no-tsurugi.json](./41286-kalin-no-tsurugi.json) |
