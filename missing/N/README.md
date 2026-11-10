@@ -1369,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Action '95 starring David Robinson | 4551 | [4551-nba-action-95-starring-david-robinson.json](./4551-nba-action-95-starring-david-robinson.json) |
 | NBA Action starring David Robinson | 46344 | [46344-nba-action-starring-david-robinson.json](./46344-nba-action-starring-david-robinson.json) |
 | NBA All Net | 60466 | [60466-nba-all-net.json](./60466-nba-all-net.json) |
+| NBA All-Star Challenge | 49011 | [49011-nba-all-star-challenge.json](./49011-nba-all-star-challenge.json) |
 | NBA All-Star Challenge 2 | 49010 | [49010-nba-all-star-challenge-2.json](./49010-nba-all-star-challenge-2.json) |
 | NBA All-World | 208757 | [208757-nba-all-world.json](./208757-nba-all-world.json) |
 | NBA Ball Stars | 235131 | [235131-nba-ball-stars.json](./235131-nba-ball-stars.json) |
