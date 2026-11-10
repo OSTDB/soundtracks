@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Life | 58430 | [58430-last-life.json](./58430-last-life.json) |
 | Last Light | 163779 | [163779-last-light.json](./163779-last-light.json) |
 | Last Light Left | 395470 | [395470-last-light-left.json](./395470-last-light-left.json) |
+| Last Light: Survival | 427844 | [427844-last-light-survival.json](./427844-last-light-survival.json) |
 | Last Line | 179468 | [179468-last-line.json](./179468-last-line.json) |
 | Last Line of Defense: First Wave | 392625 | [392625-last-line-of-defense-first-wave.json](./392625-last-line-of-defense-first-wave.json) |
 | Last Line of Defense: Second Wave | 392626 | [392626-last-line-of-defense-second-wave.json](./392626-last-line-of-defense-second-wave.json) |
@@ -2573,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of Ancestors | 346589 | [346589-legacy-of-ancestors.json](./346589-legacy-of-ancestors.json) |
 | Legacy of Animal: Hog's Life 2 | 291390 | [291390-legacy-of-animal-hogs-life-2.json](./291390-legacy-of-animal-hogs-life-2.json) |
 | Legacy of Ashes | 384742 | [384742-legacy-of-ashes.json](./384742-legacy-of-ashes.json) |
+| Legacy of Chaos Online | 427840 | [427840-legacy-of-chaos-online.json](./427840-legacy-of-chaos-online.json) |
 | Legacy of Datura | 168120 | [168120-legacy-of-datura.json](./168120-legacy-of-datura.json) |
 | Legacy of Defense | 345015 | [345015-legacy-of-defense.json](./345015-legacy-of-defense.json) |
 | Legacy of Destiny | 108695 | [108695-legacy-of-destiny.json](./108695-legacy-of-destiny.json) |
@@ -2935,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Mosaics 3: Eagle Owl Saves the World | 186973 | [186973-legendary-mosaics-3-eagle-owl-saves-the-world.json](./186973-legendary-mosaics-3-eagle-owl-saves-the-world.json) |
 | Legendary Mosaics: The Dwarf and the Terrible Cat | 176894 | [176894-legendary-mosaics-the-dwarf-and-the-terrible-cat.json](./176894-legendary-mosaics-the-dwarf-and-the-terrible-cat.json) |
 | Legendary Pilots | 258112 | [258112-legendary-pilots.json](./258112-legendary-pilots.json) |
+| Legendary Pro Wrestling: Fighting Spirit | 427849 | [427849-legendary-pro-wrestling-fighting-spirit.json](./427849-legendary-pro-wrestling-fighting-spirit.json) |
 | Legendary Racing | 232163 | [232163-legendary-racing.json](./232163-legendary-racing.json) |
 | Legendary Realms: A Fantasy World Odyssey | 242512 | [242512-legendary-realms-a-fantasy-world-odyssey.json](./242512-legendary-realms-a-fantasy-world-odyssey.json) |
 | Legendary Road Online | 279158 | [279158-legendary-road-online.json](./279158-legendary-road-online.json) |
