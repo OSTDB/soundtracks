@@ -1441,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JetPilot | 93138 | [93138-jetpilot.json](./93138-jetpilot.json) |
 | JetPilot GoNow Demo | 136233 | [136233-jetpilot-gonow-demo.json](./136233-jetpilot-gonow-demo.json) |
 | jetPin | 141166 | [141166-jetpin.json](./141166-jetpin.json) |
+| JetPunk | 411213 | [411213-jetpunk.json](./411213-jetpunk.json) |
 | Jetracer | 43760 | [43760-jetracer.json](./43760-jetracer.json) |
 | Jetrats Defense | 233750 | [233750-jetrats-defense.json](./233750-jetrats-defense.json) |
 | Jetrunner | 296332 | [296332-jetrunner.json](./296332-jetrunner.json) |
@@ -3287,6 +3288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juken Jigoku | 127745 | [127745-juken-jigoku.json](./127745-juken-jigoku.json) |
 | Jukugon | 56830 | [56830-jukugon.json](./56830-jukugon.json) |
 | Julens Hjältar | 399388 | [399388-julens-hjaltar.json](./399388-julens-hjaltar.json) |
+| Juler's Mod | 411223 | [411223-julers-mod.json](./411223-julers-mod.json) |
 | Jules | 187368 | [187368-jules.json](./187368-jules.json) |
 | Jules Verne's Journey to the center of the moon | 95908 | [95908-jules-vernes-journey-to-the-center-of-the-moon.json](./95908-jules-vernes-journey-to-the-center-of-the-moon.json) |
 | Jules Verne's Mystery of the Nautilus | 104368 | [104368-jules-vernes-mystery-of-the-nautilus.json](./104368-jules-vernes-mystery-of-the-nautilus.json) |
