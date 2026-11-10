@@ -2478,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Studios Theme Parks Adventure | 4226 | [4226-universal-studios-theme-parks-adventure.json](./4226-universal-studios-theme-parks-adventure.json) |
 | Universal Studios Theme Parks Adventure Adventure | 237342 | [237342-universal-studios-theme-parks-adventure-adventure.json](./237342-universal-studios-theme-parks-adventure-adventure.json) |
 | Universal Thief | 183272 | [183272-universal-thief.json](./183272-universal-thief.json) |
+| Universal Tidy Up | 423071 | [423071-universal-tidy-up.json](./423071-universal-tidy-up.json) |
 | Universal Truck Simulator | 220211 | [220211-universal-truck-simulator.json](./220211-universal-truck-simulator.json) |
 | Universal Warrior | 70115 | [70115-universal-warrior.json](./70115-universal-warrior.json) |
 | Universal Weirdness | 398503 | [398503-universal-weirdness.json](./398503-universal-weirdness.json) |
