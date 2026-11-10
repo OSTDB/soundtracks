@@ -15148,6 +15148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orcs Strike Back! | 108020 | [108020-the-orcs-strike-back.json](./108020-the-orcs-strike-back.json) |
 | The Ord Accord | 289972 | [289972-the-ord-accord.json](./289972-the-ord-accord.json) |
 | The Order of Souls | 60911 | [60911-the-order-of-souls.json](./60911-the-order-of-souls.json) |
+| The Order of the Thorne: The King's Challenge | 17005 | [17005-the-order-of-the-thorne-the-kings-challenge.json](./17005-the-order-of-the-thorne-the-kings-challenge.json) |
 | The Order: 1886 - Blackwater Edition | 62666 | [62666-the-order-1886-blackwater-edition.json](./62666-the-order-1886-blackwater-edition.json) |
 | The ordinary case of Margaret Luoni | 152819 | [152819-the-ordinary-case-of-margaret-luoni.json](./152819-the-ordinary-case-of-margaret-luoni.json) |
 | The Oregon Trail | 11325 | [11325-the-oregon-trail.json](./11325-the-oregon-trail.json) |
@@ -18920,6 +18921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trolley Solution | 345954 | [345954-the-trolley-solution.json](./345954-the-trolley-solution.json) |
 | The Trolling Adventure | 384008 | [384008-the-trolling-adventure.json](./384008-the-trolling-adventure.json) |
 | The Trolls in Crazyland | 48706 | [48706-the-trolls-in-crazyland.json](./48706-the-trolls-in-crazyland.json) |
+| The Troma Project | 17092 | [17092-the-troma-project.json](./17092-the-troma-project.json) |
 | The Troop | 160046 | [160046-the-troop.json](./160046-the-troop.json) |
 | The Trooper | 190864 | [190864-the-trooper.json](./190864-the-trooper.json) |
 | The Trotties Adventure | 273315 | [273315-the-trotties-adventure.json](./273315-the-trotties-adventure.json) |
@@ -23901,6 +23903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Ocean | 244467 | [244467-time-ocean.json](./244467-time-ocean.json) |
 | Time of Ashes | 220521 | [220521-time-of-ashes.json](./220521-time-of-ashes.json) |
 | Time of Defiance | 24258 | [24258-time-of-defiance.json](./24258-time-of-defiance.json) |
+| Time of Dragons | 17029 | [17029-time-of-dragons.json](./17029-time-of-dragons.json) |
 | Time of Fury | 17486 | [17486-time-of-fury.json](./17486-time-of-fury.json) |
 | Time of Heroes | 341087 | [341087-time-of-heroes.json](./341087-time-of-heroes.json) |
 | Time of Heroes | 341375 | [341375-time-of-heroes.json](./341375-time-of-heroes.json) |
@@ -25282,6 +25285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobe! Rockman | 401679 | [401679-tobe-rockman.json](./401679-tobe-rockman.json) |
 | Tobe's Great Escape | 249105 | [249105-tobes-great-escape.json](./249105-tobes-great-escape.json) |
 | Tobe's Hookshot Escape | 248880 | [248880-tobes-hookshot-escape.json](./248880-tobes-hookshot-escape.json) |
+| Tobe's Vertical Adventure | 16258 | [16258-tobes-vertical-adventure.json](./16258-tobes-vertical-adventure.json) |
 | Tobe's Vertical Adventure | 249141 | [249141-tobes-vertical-adventure.json](./249141-tobes-vertical-adventure.json) |
 | Tobeira | 421601 | [421601-tobeira.json](./421601-tobeira.json) |
 | Toberu yo! Honoka-chan | 405509 | [405509-toberu-yo-honoka-chan.json](./405509-toberu-yo-honoka-chan.json) |
@@ -33914,6 +33918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tupsu | 117761 | [117761-tupsu.json](./117761-tupsu.json) |
 | Tuqim | 366742 | [366742-tuqim.json](./366742-tuqim.json) |
 | Turandot | 216328 | [216328-turandot.json](./216328-turandot.json) |
+| Turba | 16191 | [16191-turba.json](./16191-turba.json) |
 | Turbeton | 190366 | [190366-turbeton.json](./190366-turbeton.json) |
 | Turbo | 18510 | [18510-turbo.json](./18510-turbo.json) |
 | Turbo | 230415 | [230415-turbo.json](./230415-turbo.json) |
