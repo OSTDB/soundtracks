@@ -2153,6 +2153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem | 257219 | [257219-harem.json](./257219-harem.json) |
 | Harem | 266649 | [266649-harem.json](./266649-harem.json) |
 | Harem Collector | 217613 | [217613-harem-collector.json](./217613-harem-collector.json) |
+| Harem Fantasy | 396256 | [396256-harem-fantasy.json](./396256-harem-fantasy.json) |
 | Harem Girl: Evie | 284244 | [284244-harem-girl-evie.json](./284244-harem-girl-evie.json) |
 | Harem Girl: Isabella | 231269 | [231269-harem-girl-isabella.json](./231269-harem-girl-isabella.json) |
 | Harem Girl: Nikki | 196224 | [196224-harem-girl-nikki.json](./196224-harem-girl-nikki.json) |
@@ -5074,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Age Island | 368523 | [368523-hentai-age-island.json](./368523-hentai-age-island.json) |
 | Hentai Age Land | 411205 | [411205-hentai-age-land.json](./411205-hentai-age-land.json) |
 | Hentai Age Running | 389166 | [389166-hentai-age-running.json](./389166-hentai-age-running.json) |
+| Hentai Age Sci-Fi | 396618 | [396618-hentai-age-sci-fi.json](./396618-hentai-age-sci-fi.json) |
 | Hentai Age Shadow | 411202 | [411202-hentai-age-shadow.json](./411202-hentai-age-shadow.json) |
 | Hentai Age Summer | 384698 | [384698-hentai-age-summer.json](./384698-hentai-age-summer.json) |
 | Hentai Age Vacation | 384706 | [384706-hentai-age-vacation.json](./384706-hentai-age-vacation.json) |
@@ -7195,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiatari Ryoukou! | 258850 | [258850-hiatari-ryoukou.json](./258850-hiatari-ryoukou.json) |
 | Hibachi Hero | 395015 | [395015-hibachi-hero.json](./395015-hibachi-hero.json) |
 | Hiber | 113369 | [113369-hiber.json](./113369-hiber.json) |
+| Hibera, Requiem for the Forgotten | 396615 | [396615-hibera-requiem-for-the-forgotten.json](./396615-hibera-requiem-for-the-forgotten.json) |
 | Hibernaculum | 225794 | [225794-hibernaculum.json](./225794-hibernaculum.json) |
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
 | Hibernation Day | 247772 | [247772-hibernation-day.json](./247772-hibernation-day.json) |
@@ -8619,6 +8622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiro's Escape | 139603 | [139603-hiros-escape.json](./139603-hiros-escape.json) |
 | Hiro's Forest Rumble | 81594 | [81594-hiros-forest-rumble.json](./81594-hiros-forest-rumble.json) |
 | Hiro's Harvest Season | 76532 | [76532-hiros-harvest-season.json](./76532-hiros-harvest-season.json) |
+| HiroBot: Clean & Restore | 396180 | [396180-hirobot-clean-and-restore.json](./396180-hirobot-clean-and-restore.json) |
 | Hirocato: The Delivery Hero | 253934 | [253934-hirocato-the-delivery-hero.json](./253934-hirocato-the-delivery-hero.json) |
 | Hirogami | 317871 | [317871-hirogami.json](./317871-hirogami.json) |
 | Hirogaru Sky! Precure: Hirogaru! Puzzle Collection | 250536 | [250536-hirogaru-sky-precure-hirogaru-puzzle-collection.json](./250536-hirogaru-sky-precure-hirogaru-puzzle-collection.json) |
