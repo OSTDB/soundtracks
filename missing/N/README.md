@@ -5325,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden Sigma 2 | 7385 | [7385-ninja-gaiden-sigma-2.json](./7385-ninja-gaiden-sigma-2.json) |
 | Ninja Gaiden Sigma 2: Collector's Edition | 44657 | [44657-ninja-gaiden-sigma-2-collectors-edition.json](./44657-ninja-gaiden-sigma-2-collectors-edition.json) |
 | Ninja Gaiden Sigma 2: Premium Box | 298018 | [298018-ninja-gaiden-sigma-2-premium-box.json](./298018-ninja-gaiden-sigma-2-premium-box.json) |
+| Ninja Gaiden Sigma Plus | 21569 | [21569-ninja-gaiden-sigma-plus.json](./21569-ninja-gaiden-sigma-plus.json) |
 | Ninja Gaiden Sigma: Collector's Edition | 43004 | [43004-ninja-gaiden-sigma-collectors-edition.json](./43004-ninja-gaiden-sigma-collectors-edition.json) |
 | Ninja Gaiden Trilogy | 42729 | [42729-ninja-gaiden-trilogy.json](./42729-ninja-gaiden-trilogy.json) |
 | Ninja Gaiden Trilogy SNES | 377745 | [377745-ninja-gaiden-trilogy-snes.json](./377745-ninja-gaiden-trilogy-snes.json) |
