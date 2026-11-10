@@ -3770,6 +3770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reconnecting | 369292 | [369292-reconnecting.json](./369292-reconnecting.json) |
 | Reconnoitre | 270128 | [270128-reconnoitre.json](./270128-reconnoitre.json) |
 | Reconquer Online | 319734 | [319734-reconquer-online.json](./319734-reconquer-online.json) |
+| Reconquest | 31253 | [31253-reconquest.json](./31253-reconquest.json) |
 | Reconquista | 319242 | [319242-reconquista.json](./319242-reconquista.json) |
 | Reconquista | 384598 | [384598-reconquista.json](./384598-reconquista.json) |
 | Reconstruction | 130101 | [130101-reconstruction.json](./130101-reconstruction.json) |
@@ -4479,6 +4480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redrum | 209255 | [209255-redrum.json](./209255-redrum.json) |
 | Redrum | 237269 | [237269-redrum.json](./237269-redrum.json) |
 | Redrum Hotel | 274817 | [274817-redrum-hotel.json](./274817-redrum-hotel.json) |
+| Redrum: Dead Diary | 30980 | [30980-redrum-dead-diary.json](./30980-redrum-dead-diary.json) |
 | Redrum: The Shining 2 | 341820 | [341820-redrum-the-shining-2.json](./341820-redrum-the-shining-2.json) |
 | Redrum: Time Lies | 111933 | [111933-redrum-time-lies.json](./111933-redrum-time-lies.json) |
 | Reds Adventure A Seasons New Beginning | 188767 | [188767-reds-adventure-a-seasons-new-beginning.json](./188767-reds-adventure-a-seasons-new-beginning.json) |
