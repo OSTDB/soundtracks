@@ -5011,6 +5011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catstronaut, Félicette's adventures | 422157 | [422157-catstronaut-felicettes-adventures.json](./422157-catstronaut-felicettes-adventures.json) |
 | Catstronauts | 421319 | [421319-catstronauts.json](./421319-catstronauts.json) |
 | Catsuhi and Eva | 373275 | [373275-catsuhi-and-eva.json](./373275-catsuhi-and-eva.json) |
+| Cattails | 41957 | [41957-cattails.json](./41957-cattails.json) |
 | Cattails: Wildwood Story | 189143 | [189143-cattails-wildwood-story.json](./189143-cattails-wildwood-story.json) |
 | Cattch | 146549 | [146549-cattch.json](./146549-cattch.json) |
 | Cattenburg | 187234 | [187234-cattenburg.json](./187234-cattenburg.json) |
@@ -15089,6 +15090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mama 2: Dinner With Friends | 3062 | [3062-cooking-mama-2-dinner-with-friends.json](./3062-cooking-mama-2-dinner-with-friends.json) |
 | Cooking Mama 3: Shop & Chop | 3065 | [3065-cooking-mama-3-shop-and-chop.json](./3065-cooking-mama-3-shop-and-chop.json) |
 | Cooking Mama 4: Kitchen Magic | 11359 | [11359-cooking-mama-4-kitchen-magic.json](./11359-cooking-mama-4-kitchen-magic.json) |
+| Cooking Mama 5: Bon Appetit | 47642 | [47642-cooking-mama-5-bon-appetit.json](./47642-cooking-mama-5-bon-appetit.json) |
 | Cooking Mama Seasons | 290280 | [290280-cooking-mama-seasons.json](./290280-cooking-mama-seasons.json) |
 | Cooking Mama World: Combo Pack Volume 1 | 56335 | [56335-cooking-mama-world-combo-pack-volume-1.json](./56335-cooking-mama-world-combo-pack-volume-1.json) |
 | Cooking Mama World: Combo Pack Volume 2 | 56332 | [56332-cooking-mama-world-combo-pack-volume-2.json](./56332-cooking-mama-world-combo-pack-volume-2.json) |
@@ -18008,6 +18010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creeping Deck: Pharaoh's Curse | 225228 | [225228-creeping-deck-pharaohs-curse.json](./225228-creeping-deck-pharaohs-curse.json) |
 | Creeping Dusk | 311539 | [311539-creeping-dusk.json](./311539-creeping-dusk.json) |
 | Creeping It Reel | 141049 | [141049-creeping-it-reel.json](./141049-creeping-it-reel.json) |
+| Creeping Terror | 41820 | [41820-creeping-terror.json](./41820-creeping-terror.json) |
 | Creepless | 253427 | [253427-creepless.json](./253427-creepless.json) |
 | Creepo's Tales 2 | 101928 | [101928-creepos-tales-2.json](./101928-creepos-tales-2.json) |
 | Creepo's Tales: Chopping Mall | 310556 | [310556-creepos-tales-chopping-mall.json](./310556-creepos-tales-chopping-mall.json) |
@@ -18356,6 +18359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Furnace | 381626 | [381626-crimson-furnace.json](./381626-crimson-furnace.json) |
 | Crimson Gem Saga | 19640 | [19640-crimson-gem-saga.json](./19640-crimson-gem-saga.json) |
 | Crimson Glaive Sigma | 161601 | [161601-crimson-glaive-sigma.json](./161601-crimson-glaive-sigma.json) |
+| Crimson Gray | 43141 | [43141-crimson-gray.json](./43141-crimson-gray.json) |
 | Crimson Gray: Dusk and Dawn | 105368 | [105368-crimson-gray-dusk-and-dawn.json](./105368-crimson-gray-dusk-and-dawn.json) |
 | Crimson Hell | 293512 | [293512-crimson-hell.json](./293512-crimson-hell.json) |
 | Crimson Hills | 29067 | [29067-crimson-hills.json](./29067-crimson-hills.json) |
