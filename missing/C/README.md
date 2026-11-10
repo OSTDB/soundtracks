@@ -5055,6 +5055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattails: Wildwood Story | 189143 | [189143-cattails-wildwood-story.json](./189143-cattails-wildwood-story.json) |
 | Cattch | 146549 | [146549-cattch.json](./146549-cattch.json) |
 | Cattenburg | 187234 | [187234-cattenburg.json](./187234-cattenburg.json) |
+| Catterplosion | 411887 | [411887-catterplosion.json](./411887-catterplosion.json) |
 | CatTerror: The Abandoned House | 347316 | [347316-catterror-the-abandoned-house.json](./347316-catterror-the-abandoned-house.json) |
 | CatThroat Kitchen | 393865 | [393865-catthroat-kitchen.json](./393865-catthroat-kitchen.json) |
 | Cattie | 274355 | [274355-cattie.json](./274355-cattie.json) |
@@ -17465,6 +17466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawling Lab | 297101 | [297101-crawling-lab.json](./297101-crawling-lab.json) |
 | Crawling of the Dead | 121353 | [121353-crawling-of-the-dead.json](./121353-crawling-of-the-dead.json) |
 | Crawling Silence | 197453 | [197453-crawling-silence.json](./197453-crawling-silence.json) |
+| Crawlll | 411907 | [411907-crawlll.json](./411907-crawlll.json) |
 | Crawlspace | 179208 | [179208-crawlspace.json](./179208-crawlspace.json) |
 | Crawlspace | 252728 | [252728-crawlspace.json](./252728-crawlspace.json) |
 | Crawlspace 2 | 231850 | [231850-crawlspace-2.json](./231850-crawlspace-2.json) |
@@ -22137,6 +22139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyphers | 62633 | [62633-cyphers.json](./62633-cyphers.json) |
 | Cyphers Game | 196923 | [196923-cyphers-game.json](./196923-cyphers-game.json) |
 | Cyphers Game VR | 200976 | [200976-cyphers-game-vr.json](./200976-cyphers-game-vr.json) |
+| CypherWars | 411938 | [411938-cypherwars.json](./411938-cypherwars.json) |
 | Cypress Inheritance: The Beginning | 16937 | [16937-cypress-inheritance-the-beginning.json](./16937-cypress-inheritance-the-beginning.json) |
 | Cypress Legacy | 328097 | [328097-cypress-legacy.json](./328097-cypress-legacy.json) |
 | Cyra and the Beacon Path | 203962 | [203962-cyra-and-the-beacon-path.json](./203962-cyra-and-the-beacon-path.json) |
