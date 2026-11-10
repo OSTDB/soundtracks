@@ -19300,6 +19300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusaderman | 365949 | [365949-crusaderman.json](./365949-crusaderman.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
 | Crusaders of Light | 79455 | [79455-crusaders-of-light.json](./79455-crusaders-of-light.json) |
+| Crusaders of Might and Magic | 11376 | [11376-crusaders-of-might-and-magic.json](./11376-crusaders-of-might-and-magic.json) |
 | Crusaders of Solaria | 61380 | [61380-crusaders-of-solaria.json](./61380-crusaders-of-solaria.json) |
 | Crusaders Quest : Mini | 379602 | [379602-crusaders-quest-mini.json](./379602-crusaders-quest-mini.json) |
 | Crusaders Quest: Hero Town | 397208 | [397208-crusaders-quest-hero-town.json](./397208-crusaders-quest-hero-town.json) |
