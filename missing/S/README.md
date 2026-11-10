@@ -1664,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand: An Adventure Story | 232323 | [232323-sand-an-adventure-story.json](./232323-sand-an-adventure-story.json) |
 | Sand:box | 223924 | [223924-sand-box.json](./223924-sand-box.json) |
 | Sand! | 104766 | [104766-sand.json](./104766-sand.json) |
+| Sandalwood Simulator | 404569 | [404569-sandalwood-simulator.json](./404569-sandalwood-simulator.json) |
 | Sandara: City of a Thousand Eclipses | 305070 | [305070-sandara-city-of-a-thousand-eclipses.json](./305070-sandara-city-of-a-thousand-eclipses.json) |
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
 | Sandbox | 368087 | [368087-sandbox.json](./368087-sandbox.json) |
@@ -25848,6 +25849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Legends - Spock Edition | 385209 | [385209-star-trek-legends-spock-edition.json](./385209-star-trek-legends-spock-edition.json) |
 | Star Trek: Lower Decks | 217598 | [217598-star-trek-lower-decks.json](./217598-star-trek-lower-decks.json) |
 | Star Trek: New Worlds | 19425 | [19425-star-trek-new-worlds.json](./19425-star-trek-new-worlds.json) |
+| Star Trek: Outposts Unknown | 405102 | [405102-star-trek-outposts-unknown.json](./405102-star-trek-outposts-unknown.json) |
 | Star Trek: Phaser Strike | 68129 | [68129-star-trek-phaser-strike.json](./68129-star-trek-phaser-strike.json) |
 | Star Trek: Resurgence | 185255 | [185255-star-trek-resurgence.json](./185255-star-trek-resurgence.json) |
 | Star Trek: Secret of Vulcan Fury | 69125 | [69125-star-trek-secret-of-vulcan-fury.json](./69125-star-trek-secret-of-vulcan-fury.json) |
@@ -38237,6 +38239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SZ2000 | 359684 | [359684-sz2000.json](./359684-sz2000.json) |
 | Szen | 114364 | [114364-szen.json](./114364-szen.json) |
 | Szikra | 309826 | [309826-szikra.json](./309826-szikra.json) |
+| Szkeletal | 404576 | [404576-szkeletal.json](./404576-szkeletal.json) |
 | sZone Online | 36250 | [36250-szone-online.json](./36250-szone-online.json) |
 | Szrot | 212559 | [212559-szrot.json](./212559-szrot.json) |
 | Szybowcowa '87 | 237050 | [237050-szybowcowa-87.json](./237050-szybowcowa-87.json) |
