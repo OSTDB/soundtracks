@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.W. Project Witch | 327156 | [327156-p-w-project-witch.json](./327156-p-w-project-witch.json) |
 | P'radikus Conflict | 73467 | [73467-pradikus-conflict.json](./73467-pradikus-conflict.json) |
 | P0 | 159517 | [159517-p0.json](./159517-p0.json) |
+| P0 Snake | 408479 | [408479-p0-snake.json](./408479-p0-snake.json) |
 | p0nd | 242893 | [242893-p0nd.json](./242893-p0nd.json) |
 | P1 Select | 139803 | [139803-p1-select.json](./139803-p1-select.json) |
 | P1: Anchor Light | 363808 | [363808-p1-anchor-light.json](./363808-p1-anchor-light.json) |
@@ -722,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painkiller: Resurrection | 1837 | [1837-painkiller-resurrection.json](./1837-painkiller-resurrection.json) |
 | Painkiller: Special Edition | 317426 | [317426-painkiller-special-edition.json](./317426-painkiller-special-edition.json) |
 | Painkiller++ | 362469 | [362469-painkiller.json](./362469-painkiller.json) |
+| Pains 'n' Aches | 408480 | [408480-pains-n-aches.json](./408480-pains-n-aches.json) |
 | PainStation | 175901 | [175901-painstation.json](./175901-painstation.json) |
 | Paint | 260171 | [260171-paint.json](./260171-paint.json) |
 | Paint Ball | 255499 | [255499-paint-ball.json](./255499-paint-ball.json) |
@@ -9680,6 +9682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Game | 310149 | [310149-planet-game.json](./310149-planet-game.json) |
 | Planet Genesis 2 | 107092 | [107092-planet-genesis-2.json](./107092-planet-genesis-2.json) |
 | Planet Gold Rush | 108789 | [108789-planet-gold-rush.json](./108789-planet-gold-rush.json) |
+| Planet Golf | 408481 | [408481-planet-golf.json](./408481-planet-golf.json) |
 | Planet Graveyard | 323416 | [323416-planet-graveyard.json](./323416-planet-graveyard.json) |
 | Planet Guardian VR | 76519 | [76519-planet-guardian-vr.json](./76519-planet-guardian-vr.json) |
 | Planet Gula | 145557 | [145557-planet-gula.json](./145557-planet-gula.json) |
@@ -19753,6 +19756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | pXt | 98883 | [98883-pxt.json](./98883-pxt.json) |
 | Py & Gity 2: The Industrial Age | 56038 | [56038-py-and-gity-2-the-industrial-age.json](./56038-py-and-gity-2-the-industrial-age.json) |
 | Pygmalion Lied | 178889 | [178889-pygmalion-lied.json](./178889-pygmalion-lied.json) |
+| Pygmalion's Doll | 408737 | [408737-pygmalions-doll.json](./408737-pygmalions-doll.json) |
 | Pygmy | 282734 | [282734-pygmy.json](./282734-pygmy.json) |
 | Pyhare | 338279 | [338279-pyhare.json](./338279-pyhare.json) |
 | Pyjama Party | 184346 | [184346-pyjama-party.json](./184346-pyjama-party.json) |
