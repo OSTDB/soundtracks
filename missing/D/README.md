@@ -12515,6 +12515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogz 5 | 73681 | [73681-dogz-5.json](./73681-dogz-5.json) |
 | Dogz: Fashion | 49403 | [49403-dogz-fashion.json](./49403-dogz-fashion.json) |
 | Dogz: Happy House | 122511 | [122511-dogz-happy-house.json](./122511-dogz-happy-house.json) |
+| Dogz: Your Virtual Petz | 22566 | [22566-dogz-your-virtual-petz.json](./22566-dogz-your-virtual-petz.json) |
 | DoHots | 417407 | [417407-dohots.json](./417407-dohots.json) |
 | Dohyo Dreams: Rise to Yokozuna | 381604 | [381604-dohyo-dreams-rise-to-yokozuna.json](./381604-dohyo-dreams-rise-to-yokozuna.json) |
 | Doinaka Girls Utopia | 411245 | [411245-doinaka-girls-utopia.json](./411245-doinaka-girls-utopia.json) |
@@ -14990,6 +14991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario | 311343 | [311343-dr-mario.json](./311343-dr-mario.json) |
 | Dr. Mario | 341926 | [341926-dr-mario.json](./341926-dr-mario.json) |
 | Dr. Mario | 3476 | [3476-dr-mario.json](./3476-dr-mario.json) |
+| Dr. Mario & Puzzle League | 22549 | [22549-dr-mario-and-puzzle-league.json](./22549-dr-mario-and-puzzle-league.json) |
 | Dr. Mario 64 | 3475 | [3475-dr-mario-64.json](./3475-dr-mario-64.json) |
 | Dr. Mario BS Ban | 134437 | [134437-dr-mario-bs-ban.json](./134437-dr-mario-bs-ban.json) |
 | Dr. Mario Decloned | 324635 | [324635-dr-mario-decloned.json](./324635-dr-mario-decloned.json) |
