@@ -5554,6 +5554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlive | 243234 | [243234-outlive.json](./243234-outlive.json) |
 | Outliver: Redemption | 113665 | [113665-outliver-redemption.json](./113665-outliver-redemption.json) |
 | Outliver: Tribulation | 129234 | [129234-outliver-tribulation.json](./129234-outliver-tribulation.json) |
+| Outlol | 420625 | [420625-outlol.json](./420625-outlol.json) |
 | Outlying Islands | 349120 | [349120-outlying-islands.json](./349120-outlying-islands.json) |
 | Outminer | 272605 | [272605-outminer.json](./272605-outminer.json) |
 | Outmode | 195582 | [195582-outmode.json](./195582-outmode.json) |
@@ -5741,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over Jump Rally | 260225 | [260225-over-jump-rally.json](./260225-over-jump-rally.json) |
 | Over Many Waters | 270964 | [270964-over-many-waters.json](./270964-over-many-waters.json) |
 | Over My Dead Body (For You) | 38751 | [38751-over-my-dead-body-for-you.json](./38751-over-my-dead-body-for-you.json) |
+| Over My Dead Booty! | 420599 | [420599-over-my-dead-booty.json](./420599-over-my-dead-booty.json) |
 | Over My Dead Pixel | 116046 | [116046-over-my-dead-pixel.json](./116046-over-my-dead-pixel.json) |
 | Over OBJ | 255107 | [255107-over-obj.json](./255107-over-obj.json) |
 | Over Paradise Isolated | 350970 | [350970-over-paradise-isolated.json](./350970-over-paradise-isolated.json) |
