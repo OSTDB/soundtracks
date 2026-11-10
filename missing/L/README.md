@@ -7469,6 +7469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola's Alphabet Train | 85256 | [85256-lolas-alphabet-train.json](./85256-lolas-alphabet-train.json) |
 | Lola's Alphabet Train - Learn to Read | 88577 | [88577-lolas-alphabet-train-learn-to-read.json](./88577-lolas-alphabet-train-learn-to-read.json) |
 | Lola's Beach Puzzle | 88106 | [88106-lolas-beach-puzzle.json](./88106-lolas-beach-puzzle.json) |
+| Lola’s Familiars: Prison of Argnoh | 405232 | [405232-lola-s-familiars-prison-of-argnoh.json](./405232-lola-s-familiars-prison-of-argnoh.json) |
 | Lola's Fruit Shop Sudoku | 85255 | [85255-lolas-fruit-shop-sudoku.json](./85255-lolas-fruit-shop-sudoku.json) |
 | Lola's Fruity Sudoku | 106747 | [106747-lolas-fruity-sudoku.json](./106747-lolas-fruity-sudoku.json) |
 | Lola's Learning World: Math edition | 89054 | [89054-lolas-learning-world-math-edition.json](./89054-lolas-learning-world-math-edition.json) |
@@ -8358,6 +8359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost and Foundry | 287304 | [287304-lost-and-foundry.json](./287304-lost-and-foundry.json) |
 | Lost and Hound | 116833 | [116833-lost-and-hound.json](./116833-lost-and-hound.json) |
 | Lost Angel | 143466 | [143466-lost-angel.json](./143466-lost-angel.json) |
+| Lost Arsenal | 405214 | [405214-lost-arsenal.json](./405214-lost-arsenal.json) |
 | Lost Artifacts | 83182 | [83182-lost-artifacts.json](./83182-lost-artifacts.json) |
 | Lost Artifacts: Frozen Queen | 123484 | [123484-lost-artifacts-frozen-queen.json](./123484-lost-artifacts-frozen-queen.json) |
 | Lost Artifacts: Mysterious Book | 244020 | [244020-lost-artifacts-mysterious-book.json](./244020-lost-artifacts-mysterious-book.json) |
@@ -8489,6 +8491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Eve | 166886 | [166886-lost-eve.json](./166886-lost-eve.json) |
 | Lost Everything: Chapter 1 | 299161 | [299161-lost-everything-chapter-1.json](./299161-lost-everything-chapter-1.json) |
 | Lost Existence | 126912 | [126912-lost-existence.json](./126912-lost-existence.json) |
+| Lost Exit | 405784 | [405784-lost-exit.json](./405784-lost-exit.json) |
 | Lost Faces. | 388358 | [388358-lost-faces.json](./388358-lost-faces.json) |
 | Lost Fairy: Spirituality Extincted | 83686 | [83686-lost-fairy-spirituality-extincted.json](./83686-lost-fairy-spirituality-extincted.json) |
 | Lost Fleet | 218589 | [218589-lost-fleet.json](./218589-lost-fleet.json) |
