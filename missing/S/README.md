@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sam & Max: The Devil's Playhouse | 9534 | [9534-sam-and-max-the-devils-playhouse.json](./9534-sam-and-max-the-devils-playhouse.json) |
 | Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone | 106205 | [106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json](./106205-sam-and-max-the-devils-playhouse-episode-1-the-penal-zone.json) |
 | Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak | 127131 | [127131-sam-and-max-the-devils-playhouse-episode-2-the-tomb-of-sammun-mak.json](./127131-sam-and-max-the-devils-playhouse-episode-2-the-tomb-of-sammun-mak.json) |
+| Sam & Max: The Devil's Playhouse - Episode 3: They Stole Max's Brain! | 127132 | [127132-sam-and-max-the-devils-playhouse-episode-3-they-stole-maxs-brain.json](./127132-sam-and-max-the-devils-playhouse-episode-3-they-stole-maxs-brain.json) |
 | Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls | 127133 | [127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json](./127133-sam-and-max-the-devils-playhouse-episode-4-beyond-the-alley-of-the-dolls.json) |
 | Sam 0 | 360620 | [360620-sam-0.json](./360620-sam-0.json) |
 | Sam Glyph: Private Eye! | 17903 | [17903-sam-glyph-private-eye.json](./17903-sam-glyph-private-eye.json) |
@@ -9907,6 +9908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shout-Ai | 407714 | [407714-shout-ai.json](./407714-shout-ai.json) |
 | Shoutrageous! | 101952 | [101952-shoutrageous.json](./101952-shoutrageous.json) |
 | Shove | 367656 | [367656-shove.json](./367656-shove.json) |
+| Shove It! The Warehouse Game | 4375 | [4375-shove-it-the-warehouse-game.json](./4375-shove-it-the-warehouse-game.json) |
 | Shovel Adventure | 220784 | [220784-shovel-adventure.json](./220784-shovel-adventure.json) |
 | Shovel Adventure: The Next Quest | 421596 | [421596-shovel-adventure-the-next-quest.json](./421596-shovel-adventure-the-next-quest.json) |
 | Shovel Escape | 172450 | [172450-shovel-escape.json](./172450-shovel-escape.json) |
@@ -15987,6 +15989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK 40th Anniversary Collection | 96198 | [96198-snk-40th-anniversary-collection.json](./96198-snk-40th-anniversary-collection.json) |
 | SNK Allstar | 139008 | [139008-snk-allstar.json](./139008-snk-allstar.json) |
 | SNK Arcade Classics 0 | 63431 | [63431-snk-arcade-classics-0.json](./63431-snk-arcade-classics-0.json) |
+| SNK Arcade Classics Vol. 1 | 5162 | [5162-snk-arcade-classics-vol-1.json](./5162-snk-arcade-classics-vol-1.json) |
 | SNK Fighting Legends | 149285 | [149285-snk-fighting-legends.json](./149285-snk-fighting-legends.json) |
 | SNK Fighting Legends: Collector's Edition | 163143 | [163143-snk-fighting-legends-collectors-edition.json](./163143-snk-fighting-legends-collectors-edition.json) |
 | SNK Gals' Fighters | 43983 | [43983-snk-gals-fighters.json](./43983-snk-gals-fighters.json) |
@@ -20507,6 +20510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hulk: Harbinger of Torment Campaign | 170166 | [170166-space-hulk-harbinger-of-torment-campaign.json](./170166-space-hulk-harbinger-of-torment-campaign.json) |
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hulk: Sword of Halcyon Campaign | 53641 | [53641-space-hulk-sword-of-halcyon-campaign.json](./53641-space-hulk-sword-of-halcyon-campaign.json) |
+| Space Hulk: Vengeance of the Blood Angels | 4330 | [4330-space-hulk-vengeance-of-the-blood-angels.json](./4330-space-hulk-vengeance-of-the-blood-angels.json) |
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 103618 | [103618-space-hunt.json](./103618-space-hunt.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
