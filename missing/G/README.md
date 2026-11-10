@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
 | Game in Game in Game | 259511 | [259511-game-in-game-in-game.json](./259511-game-in-game-in-game.json) |
 | Game Inside a Game | 178475 | [178475-game-inside-a-game.json](./178475-game-inside-a-game.json) |
+| Game Islands - Play All Day | 95126 | [95126-game-islands-play-all-day.json](./95126-game-islands-play-all-day.json) |
 | Game Jam Jam Game | 128607 | [128607-game-jam-jam-game.json](./128607-game-jam-jam-game.json) |
 | Game Kids: Baseball Bash | 334631 | [334631-game-kids-baseball-bash.json](./334631-game-kids-baseball-bash.json) |
 | Game Machine 2 | 346762 | [346762-game-machine-2.json](./346762-game-machine-2.json) |
@@ -9062,6 +9063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GravytX The Gravytoid | 265734 | [265734-gravytx-the-gravytoid.json](./265734-gravytx-the-gravytoid.json) |
 | GraWe | 346343 | [346343-grawe.json](./346343-grawe.json) |
 | Gray | 284243 | [284243-gray.json](./284243-gray.json) |
+| Gray Cat | 95187 | [95187-gray-cat.json](./95187-gray-cat.json) |
 | Gray Dawn | 100367 | [100367-gray-dawn.json](./100367-gray-dawn.json) |
 | Gray Death | 151853 | [151853-gray-death.json](./151853-gray-death.json) |
 | Gray Desert | 128424 | [128424-gray-desert.json](./128424-gray-desert.json) |
@@ -9693,6 +9695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grief Syndrome | 51343 | [51343-grief-syndrome.json](./51343-grief-syndrome.json) |
 | Grief Trigger | 236514 | [236514-grief-trigger.json](./236514-grief-trigger.json) |
 | Grief: How to say goodbye | 182851 | [182851-grief-how-to-say-goodbye.json](./182851-grief-how-to-say-goodbye.json) |
+| Griefer | 95219 | [95219-griefer.json](./95219-griefer.json) |
 | Griefhelm | 125762 | [125762-griefhelm.json](./125762-griefhelm.json) |
 | Grievance | 135614 | [135614-grievance.json](./135614-grievance.json) |
 | Grieve | 188736 | [188736-grieve.json](./188736-grieve.json) |
