@@ -1812,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangstar 2: Kings of L.A | 67149 | [67149-gangstar-2-kings-of-l-a.json](./67149-gangstar-2-kings-of-l-a.json) |
 | Gangstar City | 383591 | [383591-gangstar-city.json](./383591-gangstar-city.json) |
 | Gangstar City | 403574 | [403574-gangstar-city.json](./403574-gangstar-city.json) |
+| Gangstar Mirage City | 415670 | [415670-gangstar-mirage-city.json](./415670-gangstar-mirage-city.json) |
 | Gangstar New Orleans | 83319 | [83319-gangstar-new-orleans.json](./83319-gangstar-new-orleans.json) |
 | Gangstar New York | 211210 | [211210-gangstar-new-york.json](./211210-gangstar-new-york.json) |
 | Gangstar Rio: City of Saints | 65172 | [65172-gangstar-rio-city-of-saints.json](./65172-gangstar-rio-city-of-saints.json) |
@@ -11998,6 +11999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guus Winterpret | 350015 | [350015-guus-winterpret.json](./350015-guus-winterpret.json) |
 | Guwange | 21162 | [21162-guwange.json](./21162-guwange.json) |
 | Guwange Ruga Daioujou XII Kizuna Down | 377699 | [377699-guwange-ruga-daioujou-xii-kizuna-down.json](./377699-guwange-ruga-daioujou-xii-kizuna-down.json) |
+| Guy in a Box Killing Things Simulator | 415688 | [415688-guy-in-a-box-killing-things-simulator.json](./415688-guy-in-a-box-killing-things-simulator.json) |
 | Guy Spy and the Crystals of Armageddon | 12130 | [12130-guy-spy-and-the-crystals-of-armageddon.json](./12130-guy-spy-and-the-crystals-of-armageddon.json) |
 | Guy vs. The Wicked and Nefarious Land | 62413 | [62413-guy-vs-the-wicked-and-nefarious-land.json](./62413-guy-vs-the-wicked-and-nefarious-land.json) |
 | Guy Who Sells Jars | 353778 | [353778-guy-who-sells-jars.json](./353778-guy-who-sells-jars.json) |
