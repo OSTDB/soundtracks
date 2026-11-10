@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saaz | 175105 | [175105-saaz.json](./175105-saaz.json) |
 | SAB Baseball | 388118 | [388118-sab-baseball.json](./388118-sab-baseball.json) |
 | Sabacc Cantina | 355502 | [355502-sabacc-cantina.json](./355502-sabacc-cantina.json) |
+| Sabado | 427290 | [427290-sabado.json](./427290-sabado.json) |
 | Sabak Legend | 123563 | [123563-sabak-legend.json](./123563-sabak-legend.json) |
 | Saban's Iznogoud | 80780 | [80780-sabans-iznogoud.json](./80780-sabans-iznogoud.json) |
 | Saban's Masked Rider | 217730 | [217730-sabans-masked-rider.json](./217730-sabans-masked-rider.json) |
@@ -1140,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salto Mortadella | 297212 | [297212-salto-mortadella.json](./297212-salto-mortadella.json) |
 | Salto Z | 411097 | [411097-salto-z.json](./411097-salto-z.json) |
 | Saltsea Chronicles | 252499 | [252499-saltsea-chronicles.json](./252499-saltsea-chronicles.json) |
+| Saltwarden Online | 427225 | [427225-saltwarden-online.json](./427225-saltwarden-online.json) |
 | Saltwater | 299583 | [299583-saltwater.json](./299583-saltwater.json) |
 | Saltwater | 384517 | [384517-saltwater.json](./384517-saltwater.json) |
 | Saltwater Bodies | 325645 | [325645-saltwater-bodies.json](./325645-saltwater-bodies.json) |
@@ -1595,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctuary | 178333 | [178333-sanctuary.json](./178333-sanctuary.json) |
 | Sanctuary | 334442 | [334442-sanctuary.json](./334442-sanctuary.json) |
 | Sanctuary Island | 150772 | [150772-sanctuary-island.json](./150772-sanctuary-island.json) |
+| Sanctuary of the Ruler | 427264 | [427264-sanctuary-of-the-ruler.json](./427264-sanctuary-of-the-ruler.json) |
 | Sanctuary Saga | 233575 | [233575-sanctuary-saga.json](./233575-sanctuary-saga.json) |
 | Sanctuary VR | 30182 | [30182-sanctuary-vr.json](./30182-sanctuary-vr.json) |
 | Sanctuary: Shattered Sun | 235668 | [235668-sanctuary-shattered-sun.json](./235668-sanctuary-shattered-sun.json) |
@@ -10690,6 +10693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sierra Ops: Episode 3 - Unending Dusk | 128394 | [128394-sierra-ops-episode-3-unending-dusk.json](./128394-sierra-ops-episode-3-unending-dusk.json) |
 | Sierra Ops: Episode 4 - Cadence of the Morning Star | 128395 | [128395-sierra-ops-episode-4-cadence-of-the-morning-star.json](./128395-sierra-ops-episode-4-cadence-of-the-morning-star.json) |
 | Sierra Pro Pilot 98: The Complete Flight Simulator | 62276 | [62276-sierra-pro-pilot-98-the-complete-flight-simulator.json](./62276-sierra-pro-pilot-98-the-complete-flight-simulator.json) |
+| Sierra Quest | 427273 | [427273-sierra-quest.json](./427273-sierra-quest.json) |
 | Sierra Ridge Technologies | 349315 | [349315-sierra-ridge-technologies.json](./349315-sierra-ridge-technologies.json) |
 | Sierra Soccer | 72888 | [72888-sierra-soccer.json](./72888-sierra-soccer.json) |
 | Sierra Sports NFL Football Pro '99 | 22608 | [22608-sierra-sports-nfl-football-pro-99.json](./22608-sierra-sports-nfl-football-pro-99.json) |
@@ -10788,6 +10792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigma Impact | 159799 | [159799-sigma-impact.json](./159799-sigma-impact.json) |
 | Sigma Star Saga | 6595 | [6595-sigma-star-saga.json](./6595-sigma-star-saga.json) |
 | Sigma Star Saga DX | 375606 | [375606-sigma-star-saga-dx.json](./375606-sigma-star-saga-dx.json) |
+| Sigma Survivor | 427260 | [427260-sigma-survivor.json](./427260-sigma-survivor.json) |
 | Sigma Theory: Global Cold War - Brazil | 155089 | [155089-sigma-theory-global-cold-war-brazil.json](./155089-sigma-theory-global-cold-war-brazil.json) |
 | Sigma Theory: Global Cold War - Deluxe Edition | 124827 | [124827-sigma-theory-global-cold-war-deluxe-edition.json](./124827-sigma-theory-global-cold-war-deluxe-edition.json) |
 | Sigma War Notes | 309833 | [309833-sigma-war-notes.json](./309833-sigma-war-notes.json) |
@@ -12068,6 +12073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinister Sodies | 350339 | [350339-sinister-sodies.json](./350339-sinister-sodies.json) |
 | Sinister Squidward | 237869 | [237869-sinister-squidward.json](./237869-sinister-squidward.json) |
 | Sinister Turmoil: Sewers | 242010 | [242010-sinister-turmoil-sewers.json](./242010-sinister-turmoil-sewers.json) |
+| Sinister Turmoil: Sewers | 427226 | [427226-sinister-turmoil-sewers.json](./427226-sinister-turmoil-sewers.json) |
 | Sinister Zombies | 95604 | [95604-sinister-zombies.json](./95604-sinister-zombies.json) |
 | Sinistrium | 285810 | [285810-sinistrium.json](./285810-sinistrium.json) |
 | Sinistron | 44342 | [44342-sinistron.json](./44342-sinistron.json) |
@@ -32624,6 +32630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Flippin' Phones | 33763 | [33763-super-flippin-phones.json](./33763-super-flippin-phones.json) |
 | Super Flipside | 47993 | [47993-super-flipside.json](./47993-super-flipside.json) |
 | Super Flying Vroom Vroom | 374030 | [374030-super-flying-vroom-vroom.json](./374030-super-flying-vroom-vroom.json) |
+| Super FNaF 2: Second Wind | 427217 | [427217-super-fnaf-2-second-wind.json](./427217-super-fnaf-2-second-wind.json) |
 | Super Food Frenzy | 187543 | [187543-super-food-frenzy.json](./187543-super-food-frenzy.json) |
 | Super Foosball | 129719 | [129719-super-foosball.json](./129719-super-foosball.json) |
 | Super Footbag - World Champion 8 Bit Sports | 219900 | [219900-super-footbag-world-champion-8-bit-sports.json](./219900-super-footbag-world-champion-8-bit-sports.json) |
@@ -37038,6 +37045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swirl - The Ice Cream Saga | 106220 | [106220-swirl-the-ice-cream-saga.json](./106220-swirl-the-ice-cream-saga.json) |
 | Swiscape | 131765 | [131765-swiscape.json](./131765-swiscape.json) |
 | Swish | 239982 | [239982-swish.json](./239982-swish.json) |
+| Swish and Flick: Tidy Up Together | 427223 | [427223-swish-and-flick-tidy-up-together.json](./427223-swish-and-flick-tidy-up-together.json) |
 | Swish Ball Clicker | 405591 | [405591-swish-ball-clicker.json](./405591-swish-ball-clicker.json) |
 | Swish Ball! | 238934 | [238934-swish-ball.json](./238934-swish-ball.json) |
 | Swiss Alps Jigsaw Puzzles | 158529 | [158529-swiss-alps-jigsaw-puzzles.json](./158529-swiss-alps-jigsaw-puzzles.json) |
