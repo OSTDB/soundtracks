@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Transport Tycoon | 263027 | [263027-idle-transport-tycoon.json](./263027-idle-transport-tycoon.json) |
 | Idle Tree | 365747 | [365747-idle-tree.json](./365747-idle-tree.json) |
 | Idle Trillionaire | 294137 | [294137-idle-trillionaire.json](./294137-idle-trillionaire.json) |
+| Idle Tuber Empire | 95097 | [95097-idle-tuber-empire.json](./95097-idle-tuber-empire.json) |
 | Idle Tuber Empire | 96010 | [96010-idle-tuber-empire.json](./96010-idle-tuber-empire.json) |
 | Idle Tycoon Manufacturing | 380951 | [380951-idle-tycoon-manufacturing.json](./380951-idle-tycoon-manufacturing.json) |
 | Idle Ultimate | 368509 | [368509-idle-ultimate.json](./368509-idle-ultimate.json) |
@@ -2800,6 +2801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossiball | 26641 | [26641-impossiball.json](./26641-impossiball.json) |
 | Impossiball: Gamers Challenge | 129921 | [129921-impossiball-gamers-challenge.json](./129921-impossiball-gamers-challenge.json) |
 | Impossible | 272198 | [272198-impossible.json](./272198-impossible.json) |
+| Impossible Bottle Flip | 95312 | [95312-impossible-bottle-flip.json](./95312-impossible-bottle-flip.json) |
 | Impossible Bottles | 105407 | [105407-impossible-bottles.json](./105407-impossible-bottles.json) |
 | Impossible Bunny Challenge | 272763 | [272763-impossible-bunny-challenge.json](./272763-impossible-bunny-challenge.json) |
 | Impossible Bus Mega Ramp | 104762 | [104762-impossible-bus-mega-ramp.json](./104762-impossible-bus-mega-ramp.json) |
