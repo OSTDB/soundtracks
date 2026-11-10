@@ -6093,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Duty | 174771 | [174771-wings-of-duty.json](./174771-wings-of-duty.json) |
 | Wings of Endless | 284586 | [284586-wings-of-endless.json](./284586-wings-of-endless.json) |
 | Wings of Fire | 418877 | [418877-wings-of-fire.json](./418877-wings-of-fire.json) |
+| Wings of Glass | 114603 | [114603-wings-of-glass.json](./114603-wings-of-glass.json) |
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
 | Wings of Glory | 46717 | [46717-wings-of-glory.json](./46717-wings-of-glory.json) |
 | Wings of Heroes | 273679 | [273679-wings-of-heroes.json](./273679-wings-of-heroes.json) |
