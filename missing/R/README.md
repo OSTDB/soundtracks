@@ -11419,6 +11419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftops & Alleys: The Parkour Game | 279900 | [279900-rooftops-and-alleys-the-parkour-game.json](./279900-rooftops-and-alleys-the-parkour-game.json) |
 | Rooftops 2 | 292892 | [292892-rooftops-2.json](./292892-rooftops-2.json) |
 | Rooftops and Alleys: The Parkour Game - Ninja Pack DLC | 409952 | [409952-rooftops-and-alleys-the-parkour-game-ninja-pack-dlc.json](./409952-rooftops-and-alleys-the-parkour-game-ninja-pack-dlc.json) |
+| Rooftops and Alleys: The Parkour Game - Trail Pack DLC | 409951 | [409951-rooftops-and-alleys-the-parkour-game-trail-pack-dlc.json](./409951-rooftops-and-alleys-the-parkour-game-trail-pack-dlc.json) |
 | Rooftops Jam | 421431 | [421431-rooftops-jam.json](./421431-rooftops-jam.json) |
 | Roogoo | 5128 | [5128-roogoo.json](./5128-roogoo.json) |
 | Roogoo Attack! | 21242 | [21242-roogoo-attack.json](./21242-roogoo-attack.json) |
