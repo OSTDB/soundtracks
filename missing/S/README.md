@@ -6777,6 +6777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexual Slave Ayaka | 82840 | [82840-sexual-slave-ayaka.json](./82840-sexual-slave-ayaka.json) |
 | Sexual Summer | 226182 | [226182-sexual-summer.json](./226182-sexual-summer.json) |
 | Sexual Super Hero | 259897 | [259897-sexual-super-hero.json](./259897-sexual-super-hero.json) |
+| Sexual Void | 400606 | [400606-sexual-void.json](./400606-sexual-void.json) |
 | Sexuality in Ancient Rome | 385238 | [385238-sexuality-in-ancient-rome.json](./385238-sexuality-in-ancient-rome.json) |
 | Sexuality with Girlfriends: Laler & Reese | 375977 | [375977-sexuality-with-girlfriends-laler-and-reese.json](./375977-sexuality-with-girlfriends-laler-and-reese.json) |
 | SexWife: No Limit | 259854 | [259854-sexwife-no-limit.json](./259854-sexwife-no-limit.json) |
@@ -13965,6 +13966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Nereis | 44335 | [44335-slay-the-nereis.json](./44335-slay-the-nereis.json) |
 | Slay the Princess | 210395 | [210395-slay-the-princess.json](./210395-slay-the-princess.json) |
 | Slay the Princess: The Pristine Cut - Special Edition | 327556 | [327556-slay-the-princess-the-pristine-cut-special-edition.json](./327556-slay-the-princess-the-pristine-cut-special-edition.json) |
+| Slay the Q | 400639 | [400639-slay-the-q.json](./400639-slay-the-q.json) |
 | Slay the Space | 187231 | [187231-slay-the-space.json](./187231-slay-the-space.json) |
 | Slay the Spire II | 296831 | [296831-slay-the-spire-ii.json](./296831-slay-the-spire-ii.json) |
 | Slay the Wak | 231097 | [231097-slay-the-wak.json](./231097-slay-the-wak.json) |
@@ -14316,6 +14318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slider | 103172 | [103172-slider.json](./103172-slider.json) |
 | Slider | 199357 | [199357-slider.json](./199357-slider.json) |
 | Slider | 384824 | [384824-slider.json](./384824-slider.json) |
+| Slider Kids | 400634 | [400634-slider-kids.json](./400634-slider-kids.json) |
 | Slider Quest | 32012 | [32012-slider-quest.json](./32012-slider-quest.json) |
 | Slider Scouts | 340387 | [340387-slider-scouts.json](./340387-slider-scouts.json) |
 | Slider X | 241546 | [241546-slider-x.json](./241546-slider-x.json) |
@@ -16617,6 +16620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNQZ | 280623 | [280623-snqz.json](./280623-snqz.json) |
 | SNS | 163881 | [163881-sns.json](./163881-sns.json) |
 | Snuff | 399121 | [399121-snuff.json](./399121-snuff.json) |
+| Snuff Puppy Shelter | 400607 | [400607-snuff-puppy-shelter.json](./400607-snuff-puppy-shelter.json) |
 | Snufkin: Melody of Moominvalley - Cherished Keepsakes | 288289 | [288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json](./288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json) |
 | Snug | 375366 | [375366-snug.json](./375366-snug.json) |
 | Snug Finder | 207879 | [207879-snug-finder.json](./207879-snug-finder.json) |
@@ -27245,6 +27249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static | 179570 | [179570-static.json](./179570-static.json) |
 | Static | 333637 | [333637-static.json](./333637-static.json) |
 | Static | 94914 | [94914-static.json](./94914-static.json) |
+| Static Between Stations | 400042 | [400042-static-between-stations.json](./400042-static-between-stations.json) |
 | Static Boy | 366745 | [366745-static-boy.json](./366745-static-boy.json) |
 | Static Cling | 182519 | [182519-static-cling.json](./182519-static-cling.json) |
 | Static Condition | 393102 | [393102-static-condition.json](./393102-static-condition.json) |
@@ -28026,6 +28031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Toxoids Species Pack | 223546 | [223546-stellaris-toxoids-species-pack.json](./223546-stellaris-toxoids-species-pack.json) |
 | Stellaris: Utopia | 27053 | [27053-stellaris-utopia.json](./27053-stellaris-utopia.json) |
 | Stellaris: Vipra the Vapor Species Portrait | 401596 | [401596-stellaris-vipra-the-vapor-species-portrait.json](./401596-stellaris-vipra-the-vapor-species-portrait.json) |
+| Stellaris: Willpower | 400035 | [400035-stellaris-willpower.json](./400035-stellaris-willpower.json) |
 | Stellarons Superstars: Detectives of the Scarlet Horizons | 300838 | [300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json](./300838-stellarons-superstars-detectives-of-the-scarlet-horizons.json) |
 | StellarPlans | 295334 | [295334-stellarplans.json](./295334-stellarplans.json) |
 | StellarRoads | 183713 | [183713-stellarroads.json](./183713-stellarroads.json) |
@@ -30143,6 +30149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikefleet Omega | 63147 | [63147-strikefleet-omega.json](./63147-strikefleet-omega.json) |
 | Strikeforce | 361229 | [361229-strikeforce.json](./361229-strikeforce.json) |
 | Strikeforce Kitty 2 | 102018 | [102018-strikeforce-kitty-2.json](./102018-strikeforce-kitty-2.json) |
+| StrikeForce Kitty League | 400610 | [400610-strikeforce-kitty-league.json](./400610-strikeforce-kitty-league.json) |
 | Strikeforce Kitty: Last Stand | 101904 | [101904-strikeforce-kitty-last-stand.json](./101904-strikeforce-kitty-last-stand.json) |
 | StrikeForce-Psi | 79509 | [79509-strikeforce-psi.json](./79509-strikeforce-psi.json) |
 | StrikeNet | 339655 | [339655-strikenet.json](./339655-strikenet.json) |
