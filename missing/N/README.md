@@ -4524,6 +4524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Light | 206626 | [206626-night-light.json](./206626-night-light.json) |
 | Night Light | 220448 | [220448-night-light.json](./220448-night-light.json) |
 | Night Light | 33459 | [33459-night-light.json](./33459-night-light.json) |
+| Night Light | 396835 | [396835-night-light.json](./396835-night-light.json) |
 | Night Light: Nightmare | 156187 | [156187-night-light-nightmare.json](./156187-night-light-nightmare.json) |
 | Night Lights | 26698 | [26698-night-lights.json](./26698-night-lights.json) |
 | Night Lights | 409018 | [409018-night-lights.json](./409018-night-lights.json) |
