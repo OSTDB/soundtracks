@@ -10783,6 +10783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discoverer | 123841 | [123841-discoverer.json](./123841-discoverer.json) |
 | Discoveries of the Deep | 69627 | [69627-discoveries-of-the-deep.json](./69627-discoveries-of-the-deep.json) |
 | Discovering America | 93097 | [93097-discovering-america.json](./93097-discovering-america.json) |
+| Discovering Colors - Animals | 34195 | [34195-discovering-colors-animals.json](./34195-discovering-colors-animals.json) |
 | Discovering Colors - Animals (Coloring Book) | 106572 | [106572-discovering-colors-animals-coloring-book.json](./106572-discovering-colors-animals-coloring-book.json) |
 | Discovering Endangered Wildlife | 262258 | [262258-discovering-endangered-wildlife.json](./262258-discovering-endangered-wildlife.json) |
 | Discovering Galimore | 294154 | [294154-discovering-galimore.json](./294154-discovering-galimore.json) |
@@ -15214,6 +15215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draculius | 69406 | [69406-draculius.json](./69406-draculius.json) |
 | Draeggoria | 392271 | [392271-draeggoria.json](./392271-draeggoria.json) |
 | Draft | 133704 | [133704-draft.json](./133704-draft.json) |
+| Draft Day Sports College Basketball 3 | 34174 | [34174-draft-day-sports-college-basketball-3.json](./34174-draft-day-sports-college-basketball-3.json) |
 | Draft Day Sports: College Basketball 2017 | 75338 | [75338-draft-day-sports-college-basketball-2017.json](./75338-draft-day-sports-college-basketball-2017.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
 | Draft Day Sports: College Basketball 2019 | 114197 | [114197-draft-day-sports-college-basketball-2019.json](./114197-draft-day-sports-college-basketball-2019.json) |
