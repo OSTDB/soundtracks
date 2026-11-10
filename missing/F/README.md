@@ -3419,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Spiral Proof World - Lilim Harlot | 419173 | [419173-fate-grand-order-spiral-proof-world-lilim-harlot.json](./419173-fate-grand-order-spiral-proof-world-lilim-harlot.json) |
 | Fate/Grand Order: Tokugawa Restoration Labyrinth - Ooku | 413488 | [413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json](./413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json) |
 | Fate/Grand Order: Vengeful Demon's Wail at the Prison Tower | 418739 | [418739-fate-grand-order-vengeful-demons-wail-at-the-prison-tower.json](./418739-fate-grand-order-vengeful-demons-wail-at-the-prison-tower.json) |
+| Fate/Hollow Ataraxia | 12329 | [12329-fate-hollow-ataraxia.json](./12329-fate-hollow-ataraxia.json) |
 | Fate/Hollow Ataraxia | 275640 | [275640-fate-hollow-ataraxia.json](./275640-fate-hollow-ataraxia.json) |
 | Fate/Hollow Ataraxia Remastered | 312302 | [312302-fate-hollow-ataraxia-remastered.json](./312302-fate-hollow-ataraxia-remastered.json) |
 | Fate/Kaleid Liner Prisma Illya | 59205 | [59205-fate-kaleid-liner-prisma-illya.json](./59205-fate-kaleid-liner-prisma-illya.json) |
@@ -11559,6 +11560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracctal TCG | 370305 | [370305-fracctal-tcg.json](./370305-fracctal-tcg.json) |
 | Frack the World | 237173 | [237173-frack-the-world.json](./237173-frack-the-world.json) |
 | Frackin' Universe | 279760 | [279760-frackin-universe.json](./279760-frackin-universe.json) |
+| Fract Osc | 15854 | [15854-fract-osc.json](./15854-fract-osc.json) |
 | Fractal | 30192 | [30192-fractal.json](./30192-fractal.json) |
 | Fractal | 381036 | [381036-fractal.json](./381036-fractal.json) |
 | Fractal Alchemist | 157382 | [157382-fractal-alchemist.json](./157382-fractal-alchemist.json) |
