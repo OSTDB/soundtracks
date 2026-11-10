@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Believe in Capybara Supremacy! | 250992 | [250992-i-believe-in-capybara-supremacy.json](./250992-i-believe-in-capybara-supremacy.json) |
 | I Believe In Giants | 217068 | [217068-i-believe-in-giants.json](./217068-i-believe-in-giants.json) |
 | I Borrow | 150364 | [150364-i-borrow.json](./150364-i-borrow.json) |
+| I Bought Super Car! | 101381 | [101381-i-bought-super-car.json](./101381-i-bought-super-car.json) |
 | I Bring The Chaos | 277934 | [277934-i-bring-the-chaos.json](./277934-i-bring-the-chaos.json) |
 | I Broke My Legs and Got Left Behind in a Burning Hospital | 381398 | [381398-i-broke-my-legs-and-got-left-behind-in-a-burning-hospital.json](./381398-i-broke-my-legs-and-got-left-behind-in-a-burning-hospital.json) |
 | I Brought the Noble Girl Home | 293850 | [293850-i-brought-the-noble-girl-home.json](./293850-i-brought-the-noble-girl-home.json) |
@@ -2983,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In My Friend Carrie's Car | 135020 | [135020-in-my-friend-carries-car.json](./135020-in-my-friend-carries-car.json) |
 | In My Head | 317370 | [317370-in-my-head.json](./317370-in-my-head.json) |
 | In My Heart | 342119 | [342119-in-my-heart.json](./342119-in-my-heart.json) |
+| In My Mind. | 101355 | [101355-in-my-mind.json](./101355-in-my-mind.json) |
 | In My Orbit | 351200 | [351200-in-my-orbit.json](./351200-in-my-orbit.json) |
 | In My Shadow | 140488 | [140488-in-my-shadow.json](./140488-in-my-shadow.json) |
 | In Next Life | 184276 | [184276-in-next-life.json](./184276-in-next-life.json) |
