@@ -8854,6 +8854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Racing '95 | 147430 | [147430-world-racing-95.json](./147430-world-racing-95.json) |
 | World Racing 2 | 20559 | [20559-world-racing-2.json](./20559-world-racing-2.json) |
 | World Racing 2: Champion Edition | 231399 | [231399-world-racing-2-champion-edition.json](./231399-world-racing-2-champion-edition.json) |
+| World Railway | 406437 | [406437-world-railway.json](./406437-world-railway.json) |
 | World Rally | 46834 | [46834-world-rally.json](./46834-world-rally.json) |
 | World Rally 2 | 40571 | [40571-world-rally-2.json](./40571-world-rally-2.json) |
 | World Rally Arcade | 319276 | [319276-world-rally-arcade.json](./319276-world-rally-arcade.json) |
