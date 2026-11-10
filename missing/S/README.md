@@ -23668,6 +23668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Walking Simulator | 400425 | [400425-spooky-walking-simulator.json](./400425-spooky-walking-simulator.json) |
 | Spooky Waltz | 198106 | [198106-spooky-waltz.json](./198106-spooky-waltz.json) |
 | Spooky's Jump Scare Mansion | 35577 | [35577-spookys-jump-scare-mansion.json](./35577-spookys-jump-scare-mansion.json) |
+| Spooky's Jump Scare Mansion: HD Renovation | 29842 | [29842-spookys-jump-scare-mansion-hd-renovation.json](./29842-spookys-jump-scare-mansion-hd-renovation.json) |
 | Spooky's Jump Scare Mansion: Karamari Hospital | 131709 | [131709-spookys-jump-scare-mansion-karamari-hospital.json](./131709-spookys-jump-scare-mansion-karamari-hospital.json) |
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
 | Spooky's Jumpscare Mansion Plus | 356227 | [356227-spookys-jumpscare-mansion-plus.json](./356227-spookys-jumpscare-mansion-plus.json) |
@@ -29945,6 +29946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
 | Stronghold Conquest | 258331 | [258331-stronghold-conquest.json](./258331-stronghold-conquest.json) |
 | Stronghold Crusader 2: Special Edition | 51936 | [51936-stronghold-crusader-2-special-edition.json](./51936-stronghold-crusader-2-special-edition.json) |
+| Stronghold Crusader Extreme HD | 178153 | [178153-stronghold-crusader-extreme-hd.json](./178153-stronghold-crusader-extreme-hd.json) |
 | Stronghold Crusader HD | 29211 | [29211-stronghold-crusader-hd.json](./29211-stronghold-crusader-hd.json) |
 | Stronghold Crusader II: Delivering Justice mini-campaign | 87806 | [87806-stronghold-crusader-ii-delivering-justice-mini-campaign.json](./87806-stronghold-crusader-ii-delivering-justice-mini-campaign.json) |
 | Stronghold Crusader II: Freedom Fighters mini-campaign | 87805 | [87805-stronghold-crusader-ii-freedom-fighters-mini-campaign.json](./87805-stronghold-crusader-ii-freedom-fighters-mini-campaign.json) |
@@ -36935,6 +36937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swolemochao 1 & 2: Gym of the Year Edition | 265882 | [265882-swolemochao-1-and-2-gym-of-the-year-edition.json](./265882-swolemochao-1-and-2-gym-of-the-year-edition.json) |
 | Swoon! | 153998 | [153998-swoon.json](./153998-swoon.json) |
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
+| Swooning Over Stans | 178753 | [178753-swooning-over-stans.json](./178753-swooning-over-stans.json) |
 | Swoop | 78988 | [78988-swoop.json](./78988-swoop.json) |
 | Swoops! | 40750 | [40750-swoops.json](./40750-swoops.json) |
 | Swoords: Friends Word Game | 232624 | [232624-swoords-friends-word-game.json](./232624-swoords-friends-word-game.json) |
