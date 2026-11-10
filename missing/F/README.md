@@ -10431,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Heroes | 31858 | [31858-forgotten-heroes.json](./31858-forgotten-heroes.json) |
 | Forgotten Hill Disillusion | 121472 | [121472-forgotten-hill-disillusion.json](./121472-forgotten-hill-disillusion.json) |
 | Forgotten Hill First Steps | 153157 | [153157-forgotten-hill-first-steps.json](./153157-forgotten-hill-first-steps.json) |
+| Forgotten Hill Injustice | 423631 | [423631-forgotten-hill-injustice.json](./423631-forgotten-hill-injustice.json) |
 | Forgotten Hill Memento: Run Run Little Horse | 388685 | [388685-forgotten-hill-memento-run-run-little-horse.json](./388685-forgotten-hill-memento-run-run-little-horse.json) |
 | Forgotten Hill Mementoes | 87980 | [87980-forgotten-hill-mementoes.json](./87980-forgotten-hill-mementoes.json) |
 | Forgotten Hill Pico | 388678 | [388678-forgotten-hill-pico.json](./388678-forgotten-hill-pico.json) |
