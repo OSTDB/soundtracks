@@ -103,6 +103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports College Football 27: Deluxe Edition | 409040 | [409040-ea-sports-college-football-27-deluxe-edition.json](./409040-ea-sports-college-football-27-deluxe-edition.json) |
 | EA Sports Double Header | 78074 | [78074-ea-sports-double-header.json](./78074-ea-sports-double-header.json) |
 | EA Sports F1 2001 | 307801 | [307801-ea-sports-f1-2001.json](./307801-ea-sports-f1-2001.json) |
+| EA Sports F1 2001 | 5829 | [5829-ea-sports-f1-2001.json](./5829-ea-sports-f1-2001.json) |
 | EA Sports Fantasy Football Live Draft Tracker | 72895 | [72895-ea-sports-fantasy-football-live-draft-tracker.json](./72895-ea-sports-fantasy-football-live-draft-tracker.json) |
 | EA Sports Fantasy Football Live Score Tracker | 90929 | [90929-ea-sports-fantasy-football-live-score-tracker.json](./90929-ea-sports-fantasy-football-live-score-tracker.json) |
 | EA Sports FC 24 | 256092 | [256092-ea-sports-fc-24.json](./256092-ea-sports-fc-24.json) |
