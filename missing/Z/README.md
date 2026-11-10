@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zine Fair Lady | 176956 | [176956-zine-fair-lady.json](./176956-zine-fair-lady.json) |
 | Zineth | 64122 | [64122-zineth.json](./64122-zineth.json) |
 | Zing Zing Zip | 40973 | [40973-zing-zing-zip.json](./40973-zing-zing-zip.json) |
+| Zingeldinger in "The Cowboy Who Couldn't Shoot" | 412675 | [412675-zingeldinger-in-the-cowboy-who-couldnt-shoot.json](./412675-zingeldinger-in-the-cowboy-who-couldnt-shoot.json) |
 | Zink | 302407 | [302407-zink.json](./302407-zink.json) |
 | Zinkara | 348343 | [348343-zinkara.json](./348343-zinkara.json) |
 | Zinnia | 145595 | [145595-zinnia.json](./145595-zinnia.json) |
