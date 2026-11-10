@@ -7863,6 +7863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Girls | 169815 | [169815-gothic-girls.json](./169815-gothic-girls.json) |
 | Gothic Hell: Survivors | 393991 | [393991-gothic-hell-survivors.json](./393991-gothic-hell-survivors.json) |
 | Gothic II: Complete Classic | 270397 | [270397-gothic-ii-complete-classic.json](./270397-gothic-ii-complete-classic.json) |
+| Gothic II: Gladiator | 398728 | [398728-gothic-ii-gladiator.json](./398728-gothic-ii-gladiator.json) |
 | Gothic II: Gold Edition | 29207 | [29207-gothic-ii-gold-edition.json](./29207-gothic-ii-gold-edition.json) |
 | Gothic II: Odyssey | 272459 | [272459-gothic-ii-odyssey.json](./272459-gothic-ii-odyssey.json) |
 | Gothic II: The Night of the Raven | 2481 | [2481-gothic-ii-the-night-of-the-raven.json](./2481-gothic-ii-the-night-of-the-raven.json) |
