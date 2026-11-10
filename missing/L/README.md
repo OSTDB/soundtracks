@@ -5807,6 +5807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links 2003: Championship Courses | 78879 | [78879-links-2003-championship-courses.json](./78879-links-2003-championship-courses.json) |
 | Links 2003: Championship Edition | 72540 | [72540-links-2003-championship-edition.json](./72540-links-2003-championship-edition.json) |
 | Links 2004 | 5902 | [5902-links-2004.json](./5902-links-2004.json) |
+| Links 386 CD | 22610 | [22610-links-386-cd.json](./22610-links-386-cd.json) |
 | Links 386 Pro | 22611 | [22611-links-386-pro.json](./22611-links-386-pro.json) |
 | Links E6: Course Pack 1 | 153464 | [153464-links-e6-course-pack-1.json](./153464-links-e6-course-pack-1.json) |
 | Links E6: Course Pack 3 | 153465 | [153465-links-e6-course-pack-3.json](./153465-links-e6-course-pack-3.json) |
@@ -6913,6 +6914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LMA Manager 2003 | 22544 | [22544-lma-manager-2003.json](./22544-lma-manager-2003.json) |
 | LMA Manager 2004 | 22545 | [22545-lma-manager-2004.json](./22545-lma-manager-2004.json) |
 | LMA Manager 2005 | 22299 | [22299-lma-manager-2005.json](./22299-lma-manager-2005.json) |
+| LMA Manager 2006 | 22548 | [22548-lma-manager-2006.json](./22548-lma-manager-2006.json) |
 | LMA Manager 2007 | 20561 | [20561-lma-manager-2007.json](./20561-lma-manager-2007.json) |
 | LMA Professional Manager 2005 | 22547 | [22547-lma-professional-manager-2005.json](./22547-lma-professional-manager-2005.json) |
 | LMNO | 79788 | [79788-lmno.json](./79788-lmno.json) |
@@ -8345,6 +8347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Chronology | 413638 | [413638-lost-chronology.json](./413638-lost-chronology.json) |
 | Lost Circus | 175363 | [175363-lost-circus.json](./175363-lost-circus.json) |
 | Lost Circus VR | 133168 | [133168-lost-circus-vr.json](./133168-lost-circus-vr.json) |
+| Lost Cities | 22590 | [22590-lost-cities.json](./22590-lost-cities.json) |
 | Lost Cities | 37376 | [37376-lost-cities.json](./37376-lost-cities.json) |
 | Lost Cities Mobile | 84112 | [84112-lost-cities-mobile.json](./84112-lost-cities-mobile.json) |
 | Lost City | 403010 | [403010-lost-city.json](./403010-lost-city.json) |
