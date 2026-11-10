@@ -9558,6 +9558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Potatoes! We're in Space?! | 27339 | [27339-holy-potatoes-were-in-space.json](./27339-holy-potatoes-were-in-space.json) |
 | Holy Potatoes! What the Hell?! | 55695 | [55695-holy-potatoes-what-the-hell.json](./55695-holy-potatoes-what-the-hell.json) |
 | Holy Purge | 191509 | [191509-holy-purge.json](./191509-holy-purge.json) |
+| Holy Relic Shop Simulator | 420037 | [420037-holy-relic-shop-simulator.json](./420037-holy-relic-shop-simulator.json) |
 | Holy Road | 115216 | [115216-holy-road.json](./115216-holy-road.json) |
 | Holy Sheet | 110952 | [110952-holy-sheet.json](./110952-holy-sheet.json) |
 | Holy Shift | 320337 | [320337-holy-shift.json](./320337-holy-shift.json) |
