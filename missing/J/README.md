@@ -4004,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park III: T-Rex Jaw Chomping Action Game | 198789 | [198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json](./198789-jurassic-park-iii-t-rex-jaw-chomping-action-game.json) |
 | Jurassic Park III: The DNA Factor | 6481 | [6481-jurassic-park-iii-the-dna-factor.json](./6481-jurassic-park-iii-the-dna-factor.json) |
 | Jurassic Park Institute Tour: Dinosaur Rescue | 49657 | [49657-jurassic-park-institute-tour-dinosaur-rescue.json](./49657-jurassic-park-institute-tour-dinosaur-rescue.json) |
+| Jurassic Park Interactive | 4277 | [4277-jurassic-park-interactive.json](./4277-jurassic-park-interactive.json) |
 | Jurassic Park Part 2: The Chaos Continues | 10677 | [10677-jurassic-park-part-2-the-chaos-continues.json](./10677-jurassic-park-part-2-the-chaos-continues.json) |
 | Jurassic Park Part 2: The Chaos Continues | 147052 | [147052-jurassic-park-part-2-the-chaos-continues.json](./147052-jurassic-park-part-2-the-chaos-continues.json) |
 | Jurassic Park: Builder | 10531 | [10531-jurassic-park-builder.json](./10531-jurassic-park-builder.json) |
