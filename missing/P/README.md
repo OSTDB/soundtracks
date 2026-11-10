@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pao Pao Party | 184609 | [184609-pao-pao-party.json](./184609-pao-pao-party.json) |
 | Paon: Beyond the Pien | 153164 | [153164-paon-beyond-the-pien.json](./153164-paon-beyond-the-pien.json) |
 | Pãozito | 256120 | [256120-paozito.json](./256120-paozito.json) |
+| Papa | 412650 | [412650-papa.json](./412650-papa.json) |
 | Papa Louie 2: When Burgers Attack! | 56402 | [56402-papa-louie-2-when-burgers-attack.json](./56402-papa-louie-2-when-burgers-attack.json) |
 | Papa Louie 3: When Sundaes Attack! | 101932 | [101932-papa-louie-3-when-sundaes-attack.json](./101932-papa-louie-3-when-sundaes-attack.json) |
 | Papa Needs a Headshot | 360095 | [360095-papa-needs-a-headshot.json](./360095-papa-needs-a-headshot.json) |
@@ -3335,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patriotic Missile 3D | 104720 | [104720-patriotic-missile-3d.json](./104720-patriotic-missile-3d.json) |
 | Patriotic Pinball | 43847 | [43847-patriotic-pinball.json](./43847-patriotic-pinball.json) |
 | Patriotika RPG: Shadow World | 298343 | [298343-patriotika-rpg-shadow-world.json](./298343-patriotika-rpg-shadow-world.json) |
+| PatriotMemoirs | 412630 | [412630-patriotmemoirs.json](./412630-patriotmemoirs.json) |
 | Patriots by John Dondzila | 84155 | [84155-patriots-by-john-dondzila.json](./84155-patriots-by-john-dondzila.json) |
 | Patriots III Ballistic Busters | 37540 | [37540-patriots-iii-ballistic-busters.json](./37540-patriots-iii-ballistic-busters.json) |
 | Patriots Remix | 37704 | [37704-patriots-remix.json](./37704-patriots-remix.json) |
