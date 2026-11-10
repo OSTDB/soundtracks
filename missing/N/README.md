@@ -5161,6 +5161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nimoyd | 152104 | [152104-nimoyd.json](./152104-nimoyd.json) |
 | Nimpize Adventure | 135170 | [135170-nimpize-adventure.json](./135170-nimpize-adventure.json) |
 | Nimrods | 249914 | [249914-nimrods.json](./249914-nimrods.json) |
+| Nin | 427848 | [427848-nin.json](./427848-nin.json) |
 | Nin Online | 96688 | [96688-nin-online.json](./96688-nin-online.json) |
 | Nin! Nin! Ninja!!! | 116214 | [116214-nin-nin-ninja.json](./116214-nin-nin-ninja.json) |
 | Nin2-Jump | 92226 | [92226-nin2-jump.json](./92226-nin2-jump.json) |
