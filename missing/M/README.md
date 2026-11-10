@@ -11739,6 +11739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Files | 374015 | [374015-midnight-files.json](./374015-midnight-files.json) |
 | Midnight Files: Missing in Forest Lake | 387054 | [387054-midnight-files-missing-in-forest-lake.json](./387054-midnight-files-missing-in-forest-lake.json) |
 | Midnight Fishing | 302684 | [302684-midnight-fishing.json](./302684-midnight-fishing.json) |
+| Midnight Flare | 421164 | [421164-midnight-flare.json](./421164-midnight-flare.json) |
 | Midnight Fury | 313910 | [313910-midnight-fury.json](./313910-midnight-fury.json) |
 | Midnight Garden | 333882 | [333882-midnight-garden.json](./333882-midnight-garden.json) |
 | Midnight Ghost Hunt | 108048 | [108048-midnight-ghost-hunt.json](./108048-midnight-ghost-hunt.json) |
@@ -12283,6 +12284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mile Bones | 83480 | [83480-mile-bones.json](./83480-mile-bones.json) |
 | Mile High Pinball | 6266 | [6266-mile-high-pinball.json](./6266-mile-high-pinball.json) |
 | Mile High Taxi | 217387 | [217387-mile-high-taxi.json](./217387-mile-high-taxi.json) |
+| Mile Zero Anomaly | 421165 | [421165-mile-zero-anomaly.json](./421165-mile-zero-anomaly.json) |
 | Mile's Legacy | 330462 | [330462-miles-legacy.json](./330462-miles-legacy.json) |
 | Milena's manor house | 165817 | [165817-milenas-manor-house.json](./165817-milenas-manor-house.json) |
 | Milenay | 369323 | [369323-milenay.json](./369323-milenay.json) |
@@ -17429,6 +17431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Hunters | 18263 | [18263-moon-hunters.json](./18263-moon-hunters.json) |
 | Moon Intern | 63547 | [63547-moon-intern.json](./63547-moon-intern.json) |
 | Moon is Not the Limit | 243674 | [243674-moon-is-not-the-limit.json](./243674-moon-is-not-the-limit.json) |
+| Moon Island: The Last Strand | 421273 | [421273-moon-island-the-last-strand.json](./421273-moon-island-the-last-strand.json) |
 | Moon Knight | 280758 | [280758-moon-knight.json](./280758-moon-knight.json) |
 | Moon Lab Shooter | 235773 | [235773-moon-lab-shooter.json](./235773-moon-lab-shooter.json) |
 | Moon Lander | 283025 | [283025-moon-lander.json](./283025-moon-lander.json) |
@@ -20074,6 +20077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Maze 3D | 221380 | [221380-multi-maze-3d.json](./221380-multi-maze-3d.json) |
 | Multi Maze 3D: Complete Edition | 298574 | [298574-multi-maze-3d-complete-edition.json](./298574-multi-maze-3d-complete-edition.json) |
 | Multi Maze 3D: Roll Pack | 293156 | [293156-multi-maze-3d-roll-pack.json](./293156-multi-maze-3d-roll-pack.json) |
+| Multi Modal Transit | 421250 | [421250-multi-modal-transit.json](./421250-multi-modal-transit.json) |
 | Multi Play Volleyball | 38363 | [38363-multi-play-volleyball.json](./38363-multi-play-volleyball.json) |
 | Multi Quiz | 147850 | [147850-multi-quiz.json](./147850-multi-quiz.json) |
 | Multi Race: Match the Car | 213806 | [213806-multi-race-match-the-car.json](./213806-multi-race-match-the-car.json) |
@@ -20434,6 +20438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder&Spies | 326097 | [326097-murder-and-spies.json](./326097-murder-and-spies.json) |
 | Murdercide 2017 | 123212 | [123212-murdercide-2017.json](./123212-murdercide-2017.json) |
 | Murdered by Midnight | 174241 | [174241-murdered-by-midnight.json](./174241-murdered-by-midnight.json) |
+| Murderer Online | 421276 | [421276-murderer-online.json](./421276-murderer-online.json) |
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderlings | 305834 | [305834-murderlings.json](./305834-murderlings.json) |
 | Murderous Intent | 273738 | [273738-murderous-intent.json](./273738-murderous-intent.json) |
