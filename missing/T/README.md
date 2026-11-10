@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Operations Force | 189941 | [189941-tactical-operations-force.json](./189941-tactical-operations-force.json) |
 | Tactical Ops: Assault on Terror | 8778 | [8778-tactical-ops-assault-on-terror.json](./8778-tactical-ops-assault-on-terror.json) |
 | Tactical Poker | 88668 | [88668-tactical-poker.json](./88668-tactical-poker.json) |
+| Tactical Pulse | 426606 | [426606-tactical-pulse.json](./426606-tactical-pulse.json) |
 | Tactical Rampart | 275332 | [275332-tactical-rampart.json](./275332-tactical-rampart.json) |
 | Tactical Response Team | 359922 | [359922-tactical-response-team.json](./359922-tactical-response-team.json) |
 | Tactical Retreat | 180586 | [180586-tactical-retreat.json](./180586-tactical-retreat.json) |
@@ -12634,6 +12635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hunt | 86613 | [86613-the-last-hunt.json](./86613-the-last-hunt.json) |
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
 | The Last Inquisition | 398375 | [398375-the-last-inquisition.json](./398375-the-last-inquisition.json) |
+| The Last Invention | 426621 | [426621-the-last-invention.json](./426621-the-last-invention.json) |
 | The Last Islands of Man | 169502 | [169502-the-last-islands-of-man.json](./169502-the-last-islands-of-man.json) |
 | The Last Jade Dragon | 234871 | [234871-the-last-jade-dragon.json](./234871-the-last-jade-dragon.json) |
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
@@ -15982,6 +15984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Queen's Gambit Chess | 204451 | [204451-the-queens-gambit-chess.json](./204451-the-queens-gambit-chess.json) |
 | The Queen's Menagerie | 57480 | [57480-the-queens-menagerie.json](./57480-the-queens-menagerie.json) |
 | The Queen's Quest | 262246 | [262246-the-queens-quest.json](./262246-the-queens-quest.json) |
+| The Queens | 426635 | [426635-the-queens.json](./426635-the-queens.json) |
 | The Queens Gondola | 404841 | [404841-the-queens-gondola.json](./404841-the-queens-gondola.json) |
 | The Queens Number | 133750 | [133750-the-queens-number.json](./133750-the-queens-number.json) |
 | The Quest | 23962 | [23962-the-quest.json](./23962-the-quest.json) |
@@ -20633,6 +20636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They | 80613 | [80613-they.json](./80613-they.json) |
 | They Always Run | 147190 | [147190-they-always-run.json](./147190-they-always-run.json) |
 | They Always Run: Deluxe Edition | 292927 | [292927-they-always-run-deluxe-edition.json](./292927-they-always-run-deluxe-edition.json) |
+| They Are Adorable | 426604 | [426604-they-are-adorable.json](./426604-they-are-adorable.json) |
 | They Are Beasts | 119753 | [119753-they-are-beasts.json](./119753-they-are-beasts.json) |
 | They Are Coming | 272574 | [272574-they-are-coming.json](./272574-they-are-coming.json) |
 | They Are Coming Zombie Defense | 234460 | [234460-they-are-coming-zombie-defense.json](./234460-they-are-coming-zombie-defense.json) |
