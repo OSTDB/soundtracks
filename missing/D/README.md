@@ -2430,6 +2430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkStar One: Nintendo Switch Edition | 301101 | [301101-darkstar-one-nintendo-switch-edition.json](./301101-darkstar-one-nintendo-switch-edition.json) |
 | Darkstar: The Interactive Movie | 9118 | [9118-darkstar-the-interactive-movie.json](./9118-darkstar-the-interactive-movie.json) |
 | Darkstone | 660 | [660-darkstone.json](./660-darkstone.json) |
+| Darkstone Bay | 409284 | [409284-darkstone-bay.json](./409284-darkstone-bay.json) |
 | Darkstone Restoration | 397902 | [397902-darkstone-restoration.json](./397902-darkstone-restoration.json) |
 | DarkStorm | 286330 | [286330-darkstorm.json](./286330-darkstorm.json) |
 | DarkStory Online | 122155 | [122155-darkstory-online.json](./122155-darkstory-online.json) |
@@ -16982,6 +16983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Prisoner | 70294 | [70294-dream-prisoner.json](./70294-dream-prisoner.json) |
 | Dream Quest | 30475 | [30475-dream-quest.json](./30475-dream-quest.json) |
 | Dream Quest: Knight and Princess | 225555 | [225555-dream-quest-knight-and-princess.json](./225555-dream-quest-knight-and-princess.json) |
+| Dream Racer | 409250 | [409250-dream-racer.json](./409250-dream-racer.json) |
 | Dream Racer 2 | 409338 | [409338-dream-racer-2.json](./409338-dream-racer-2.json) |
 | Dream Racer V1 | 125907 | [125907-dream-racer-v1.json](./125907-dream-racer-v1.json) |
 | Dream Raiders | 62637 | [62637-dream-raiders.json](./62637-dream-raiders.json) |
