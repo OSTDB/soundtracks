@@ -1616,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Stand | 143303 | [143303-last-stand.json](./143303-last-stand.json) |
 | Last Stand | 220603 | [220603-last-stand.json](./220603-last-stand.json) |
 | Last Stand | 38664 | [38664-last-stand.json](./38664-last-stand.json) |
+| Last Stand | 403904 | [403904-last-stand.json](./403904-last-stand.json) |
 | Last Stand Delivery | 274456 | [274456-last-stand-delivery.json](./274456-last-stand-delivery.json) |
 | Last Stand Halloween | 359902 | [359902-last-stand-halloween.json](./359902-last-stand-halloween.json) |
 | Last Stand: Reborn | 113490 | [113490-last-stand-reborn.json](./113490-last-stand-reborn.json) |
@@ -1886,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lavender's | 403350 | [403350-lavenders.json](./403350-lavenders.json) |
 | Lavender's Botanicals | 295913 | [295913-lavenders-botanicals.json](./295913-lavenders-botanicals.json) |
 | Lavi Quest | 55010 | [55010-lavi-quest.json](./55010-lavi-quest.json) |
+| LaVonne's Bouncing Idle | 403857 | [403857-lavonnes-bouncing-idle.json](./403857-lavonnes-bouncing-idle.json) |
 | LaVonne's Lemons Idle | 402229 | [402229-lavonnes-lemons-idle.json](./402229-lavonnes-lemons-idle.json) |
 | Lavrock: Last Fortress | 244655 | [244655-lavrock-last-fortress.json](./244655-lavrock-last-fortress.json) |
 | Lavrynthos | 236907 | [236907-lavrynthos.json](./236907-lavrynthos.json) |
@@ -3212,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman: Legacy of the Dark Knight - Arkham Trilogy Pack | 401703 | [401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json](./401703-lego-batman-legacy-of-the-dark-knight-arkham-trilogy-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Batman Beyond Pack | 404392 | [404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json](./404392-lego-batman-legacy-of-the-dark-knight-batman-beyond-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Deluxe Edition Upgrade | 403335 | [403335-lego-batman-legacy-of-the-dark-knight-deluxe-edition-upgrade.json](./403335-lego-batman-legacy-of-the-dark-knight-deluxe-edition-upgrade.json) |
+| LEGO Batman: Legacy of the Dark Knight - HBO Max Exclusive Suits | 403906 | [403906-lego-batman-legacy-of-the-dark-knight-hbo-max-exclusive-suits.json](./403906-lego-batman-legacy-of-the-dark-knight-hbo-max-exclusive-suits.json) |
 | LEGO Batman: Legacy of the Dark Knight - Mayhem Mode | 404540 | [404540-lego-batman-legacy-of-the-dark-knight-mayhem-mode.json](./404540-lego-batman-legacy-of-the-dark-knight-mayhem-mode.json) |
 | LEGO Batman: Legacy of the Dark Knight - Party Music Pack | 404395 | [404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json](./404395-lego-batman-legacy-of-the-dark-knight-party-music-pack.json) |
 | LEGO Batman: Legacy of the Dark Knight - Sinister Pack | 404541 | [404541-lego-batman-legacy-of-the-dark-knight-sinister-pack.json](./404541-lego-batman-legacy-of-the-dark-knight-sinister-pack.json) |
@@ -6126,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Betty: Gold Rush | 372997 | [372997-little-betty-gold-rush.json](./372997-little-betty-gold-rush.json) |
 | Little Big Adventure: Purple Empire | 339154 | [339154-little-big-adventure-purple-empire.json](./339154-little-big-adventure-purple-empire.json) |
 | Little Big Adventure: Twinsen's Quest | 241954 | [241954-little-big-adventure-twinsens-quest.json](./241954-little-big-adventure-twinsens-quest.json) |
+| Little Big Backrooms | 403917 | [403917-little-big-backrooms.json](./403917-little-big-backrooms.json) |
 | Little Big City | 273832 | [273832-little-big-city.json](./273832-little-big-city.json) |
 | Little Big Eater | 180624 | [180624-little-big-eater.json](./180624-little-big-eater.json) |
 | Little Big Guy | 148123 | [148123-little-big-guy.json](./148123-little-big-guy.json) |
