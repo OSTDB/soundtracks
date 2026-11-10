@@ -7601,6 +7601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame Beetles | 246318 | [246318-flame-beetles.json](./246318-flame-beetles.json) |
 | Flame Glow | 104805 | [104805-flame-glow.json](./104805-flame-glow.json) |
 | Flame Gunner | 267397 | [267397-flame-gunner.json](./267397-flame-gunner.json) |
+| Flame Hero | 101421 | [101421-flame-hero.json](./101421-flame-hero.json) |
 | Flame Hunter: Zhong Kui | 424046 | [424046-flame-hunter-zhong-kui.json](./424046-flame-hunter-zhong-kui.json) |
 | Flame in Glass | 392238 | [392238-flame-in-glass.json](./392238-flame-in-glass.json) |
 | Flame Keeper | 168698 | [168698-flame-keeper.json](./168698-flame-keeper.json) |
@@ -10739,6 +10740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort Fire | 63675 | [63675-fort-fire.json](./63675-fort-fire.json) |
 | Fort Flow | 207408 | [207408-fort-flow.json](./207408-fort-flow.json) |
 | Fort Golf | 138624 | [138624-fort-golf.json](./138624-fort-golf.json) |
+| Fort Knight Zombie Attack Battleground Survival | 101210 | [101210-fort-knight-zombie-attack-battleground-survival.json](./101210-fort-knight-zombie-attack-battleground-survival.json) |
 | Fort Loop | 183015 | [183015-fort-loop.json](./183015-fort-loop.json) |
 | Fort Meow | 11246 | [11246-fort-meow.json](./11246-fort-meow.json) |
 | Fort Ratsack | 271784 | [271784-fort-ratsack.json](./271784-fort-ratsack.json) |
@@ -12928,6 +12930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggy | 193290 | [193290-froggy.json](./193290-froggy.json) |
 | Froggy | 227828 | [227828-froggy.json](./227828-froggy.json) |
 | Froggy | 394321 | [394321-froggy.json](./394321-froggy.json) |
+| Froggy BOI | 101290 | [101290-froggy-boi.json](./101290-froggy-boi.json) |
 | Froggy Bouncing Adventures | 293048 | [293048-froggy-bouncing-adventures.json](./293048-froggy-bouncing-adventures.json) |
 | Froggy Brews | 351261 | [351261-froggy-brews.json](./351261-froggy-brews.json) |
 | Froggy Castle | 243405 | [243405-froggy-castle.json](./243405-froggy-castle.json) |
@@ -13074,6 +13077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Void | 187897 | [187897-from-the-void.json](./187897-from-the-void.json) |
 | From Them | 302202 | [302202-from-them.json](./302202-from-them.json) |
 | From Two Sides | 371605 | [371605-from-two-sides.json](./371605-from-two-sides.json) |
+| From Village to Empire | 101243 | [101243-from-village-to-empire.json](./101243-from-village-to-empire.json) |
 | From Warrior to Hero | 367751 | [367751-from-warrior-to-hero.json](./367751-from-warrior-to-hero.json) |
 | From Within | 177830 | [177830-from-within.json](./177830-from-within.json) |
 | From Within | 201434 | [201434-from-within.json](./201434-from-within.json) |
