@@ -2248,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranoihell | 123826 | [123826-paranoihell.json](./123826-paranoihell.json) |
 | Paranoir | 354639 | [354639-paranoir.json](./354639-paranoir.json) |
 | Paranordle | 383911 | [383911-paranordle.json](./383911-paranordle.json) |
+| Paranormal | 16620 | [16620-paranormal.json](./16620-paranormal.json) |
 | Paranormal | 183194 | [183194-paranormal.json](./183194-paranormal.json) |
 | Paranormal '98 | 376489 | [376489-paranormal-98.json](./376489-paranormal-98.json) |
 | Paranormal Activity: The Lost Soul | 32699 | [32699-paranormal-activity-the-lost-soul.json](./32699-paranormal-activity-the-lost-soul.json) |
@@ -8862,6 +8863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack 8 | 303700 | [303700-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-8.json](./303700-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-8.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack XL | 234531 | [234531-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-xl.json](./234531-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-xl.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Zombies | 162941 | [162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json](./162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json) |
+| Pixel Puzzles: UndeadZ | 17147 | [17147-pixel-puzzles-undeadz.json](./17147-pixel-puzzles-undeadz.json) |
 | Pixel Quest | 246099 | [246099-pixel-quest.json](./246099-pixel-quest.json) |
 | Pixel Quest | 57309 | [57309-pixel-quest.json](./57309-pixel-quest.json) |
 | Pixel Quest: Guild | 423877 | [423877-pixel-quest-guild.json](./423877-pixel-quest-guild.json) |
@@ -17189,6 +17191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prometheus Wept | 133459 | [133459-prometheus-wept.json](./133459-prometheus-wept.json) |
 | Prometheus: The Fire Thief | 35433 | [35433-prometheus-the-fire-thief.json](./35433-prometheus-the-fire-thief.json) |
 | Promethium | 38983 | [38983-promethium.json](./38983-promethium.json) |
+| Prominence | 16934 | [16934-prominence.json](./16934-prominence.json) |
 | Promise | 277498 | [277498-promise.json](./277498-promise.json) |
 | Promise Mascot Agency | 299593 | [299593-promise-mascot-agency.json](./299593-promise-mascot-agency.json) |
 | Promise Me, You'll Live | 280803 | [280803-promise-me-youll-live.json](./280803-promise-me-youll-live.json) |
