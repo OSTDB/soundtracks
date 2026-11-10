@@ -484,6 +484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady At The Costco Gave Me Her Extra Hot Dog Soda Combo | 399751 | [399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json](./399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json) |
 | Lady Blue | 376688 | [376688-lady-blue.json](./376688-lady-blue.json) |
 | Lady Bono!! Dynamites | 242339 | [242339-lady-bono-dynamites.json](./242339-lady-bono-dynamites.json) |
+| Lady Bug | 5677 | [5677-lady-bug.json](./5677-lady-bug.json) |
 | Lady Bug Arcade | 332638 | [332638-lady-bug-arcade.json](./332638-lady-bug-arcade.json) |
 | Lady Death Demonicron | 310761 | [310761-lady-death-demonicron.json](./310761-lady-death-demonicron.json) |
 | Lady Dracula | 350027 | [350027-lady-dracula.json](./350027-lady-dracula.json) |
