@@ -2813,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Samurai Portable | 38486 | [38486-way-of-the-samurai-portable.json](./38486-way-of-the-samurai-portable.json) |
 | Way of the Samurai Portable 2 | 59371 | [59371-way-of-the-samurai-portable-2.json](./59371-way-of-the-samurai-portable-2.json) |
 | Way of the Warrior | 370975 | [370975-way-of-the-warrior.json](./370975-way-of-the-warrior.json) |
+| Way of the Warrior | 4326 | [4326-way-of-the-warrior.json](./4326-way-of-the-warrior.json) |
 | Way of the Wizard | 232431 | [232431-way-of-the-wizard.json](./232431-way-of-the-wizard.json) |
 | Way on Where | 195740 | [195740-way-on-where.json](./195740-way-on-where.json) |
 | Way Out | 277702 | [277702-way-out.json](./277702-way-out.json) |
@@ -7272,6 +7273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf's Gang | 142430 | [142430-wolfs-gang.json](./142430-wolfs-gang.json) |
 | Wolf's Wool | 176936 | [176936-wolfs-wool.json](./176936-wolfs-wool.json) |
 | Wolfan | 53160 | [53160-wolfan.json](./53160-wolfan.json) |
+| Wolfchild | 4403 | [4403-wolfchild.json](./4403-wolfchild.json) |
 | Wolfee Planet | 138473 | [138473-wolfee-planet.json](./138473-wolfee-planet.json) |
 | Wolfen | 268908 | [268908-wolfen.json](./268908-wolfen.json) |
 | Wolfenstein 1-D | 336424 | [336424-wolfenstein-1-d.json](./336424-wolfenstein-1-d.json) |
@@ -8777,6 +8779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series Baseball Starring Deion Sanders | 46428 | [46428-world-series-baseball-starring-deion-sanders.json](./46428-world-series-baseball-starring-deion-sanders.json) |
 | World Series Basketball | 45316 | [45316-world-series-basketball.json](./45316-world-series-basketball.json) |
 | World Series Major League Baseball | 5711 | [5711-world-series-major-league-baseball.json](./5711-world-series-major-league-baseball.json) |
+| World Series of Poker | 4235 | [4235-world-series-of-poker.json](./4235-world-series-of-poker.json) |
 | World Series of Poker 2008: Battle for the Bracelets | 5289 | [5289-world-series-of-poker-2008-battle-for-the-bracelets.json](./5289-world-series-of-poker-2008-battle-for-the-bracelets.json) |
 | World Series of Poker Hold'em Legend | 61028 | [61028-world-series-of-poker-holdem-legend.json](./61028-world-series-of-poker-holdem-legend.json) |
 | World Series of Poker: Deluxe Casino Pak | 398918 | [398918-world-series-of-poker-deluxe-casino-pak.json](./398918-world-series-of-poker-deluxe-casino-pak.json) |
