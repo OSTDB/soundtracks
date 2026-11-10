@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfront Defenders: Westerplatte | 54723 | [54723-warfront-defenders-westerplatte.json](./54723-warfront-defenders-westerplatte.json) |
 | Warfront Nations | 361299 | [361299-warfront-nations.json](./361299-warfront-nations.json) |
 | Warfront Tactics: Battlefield Chronicles Battle Simulator | 304271 | [304271-warfront-tactics-battlefield-chronicles-battle-simulator.json](./304271-warfront-tactics-battlefield-chronicles-battle-simulator.json) |
+| Warfront Vanguard | 422425 | [422425-warfront-vanguard.json](./422425-warfront-vanguard.json) |
 | Warfronts: Battle For Toria! | 153776 | [153776-warfronts-battle-for-toria.json](./153776-warfronts-battle-for-toria.json) |
 | Wargame Construction Set | 37158 | [37158-wargame-construction-set.json](./37158-wargame-construction-set.json) |
 | Wargame Construction Set II: Tanks! | 79438 | [79438-wargame-construction-set-ii-tanks.json](./79438-wargame-construction-set-ii-tanks.json) |
@@ -3006,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Die | 169849 | [169849-we-die.json](./169849-we-die.json) |
 | We Die Standing | 398945 | [398945-we-die-standing.json](./398945-we-die-standing.json) |
 | We don't die here | 212281 | [212281-we-dont-die-here.json](./212281-we-dont-die-here.json) |
+| We Don't Exist | 422414 | [422414-we-dont-exist.json](./422414-we-dont-exist.json) |
 | We Don't Talk About It | 177294 | [177294-we-dont-talk-about-it.json](./177294-we-dont-talk-about-it.json) |
 | We Dream Standing Up | 228097 | [228097-we-dream-standing-up.json](./228097-we-dream-standing-up.json) |
 | We Dwell in Possibility | 186633 | [186633-we-dwell-in-possibility.json](./186633-we-dwell-in-possibility.json) |
@@ -7741,6 +7743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woody Woodpecker: Escape from Buzz Buzzard Park | 43561 | [43561-woody-woodpecker-escape-from-buzz-buzzard-park.json](./43561-woody-woodpecker-escape-from-buzz-buzzard-park.json) |
 | Woody's Incredible Journey to the Escape from Eternal Terror | 265684 | [265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json](./265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json) |
 | WoodZone | 107815 | [107815-woodzone.json](./107815-woodzone.json) |
+| Woof and Wool | 422418 | [422418-woof-and-wool.json](./422418-woof-and-wool.json) |
 | Woof Blaster | 34553 | [34553-woof-blaster.json](./34553-woof-blaster.json) |
 | Woofice Chair! | 183525 | [183525-woofice-chair.json](./183525-woofice-chair.json) |
 | WoofWatch | 396644 | [396644-woofwatch.json](./396644-woofwatch.json) |
@@ -9355,6 +9358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wounded Summer Baby | 268081 | [268081-wounded-summer-baby.json](./268081-wounded-summer-baby.json) |
 | Wounded: The Beginning | 114560 | [114560-wounded-the-beginning.json](./114560-wounded-the-beginning.json) |
 | Wounds 4 Hard Medication | 181291 | [181291-wounds-4-hard-medication.json](./181291-wounds-4-hard-medication.json) |
+| WoundWake | 422456 | [422456-woundwake.json](./422456-woundwake.json) |
 | Woute | 152673 | [152673-woute.json](./152673-woute.json) |
 | Wove | 369024 | [369024-wove.json](./369024-wove.json) |
 | Woven | 32150 | [32150-woven.json](./32150-woven.json) |
