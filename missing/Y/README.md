@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yakimochi Stream | 373023 | [373023-yakimochi-stream.json](./373023-yakimochi-stream.json) |
 | Yakiniku Bugyou | 65769 | [65769-yakiniku-bugyou.json](./65769-yakiniku-bugyou.json) |
 | Yakiniku Bugyou Bonfire! | 394685 | [394685-yakiniku-bugyou-bonfire.json](./394685-yakiniku-bugyou-bonfire.json) |
+| Yakiniku Party Survival | 413961 | [413961-yakiniku-party-survival.json](./413961-yakiniku-party-survival.json) |
 | Yakiniku Simulatior | 203886 | [203886-yakiniku-simulatior.json](./203886-yakiniku-simulatior.json) |
 | Yakitate!! Japan | 124154 | [124154-yakitate-japan.json](./124154-yakitate-japan.json) |
 | Yakitori Musume: Sugo Ude Hanjouki | 376529 | [376529-yakitori-musume-sugo-ude-hanjouki.json](./376529-yakitori-musume-sugo-ude-hanjouki.json) |
