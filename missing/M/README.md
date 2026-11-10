@@ -1823,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magiscapes | 319287 | [319287-magiscapes.json](./319287-magiscapes.json) |
 | Magische Kristalle | 93300 | [93300-magische-kristalle.json](./93300-magische-kristalle.json) |
 | Magissy | 169843 | [169843-magissy.json](./169843-magissy.json) |
+| Magistr Temple | 411904 | [411904-magistr-temple.json](./411904-magistr-temple.json) |
 | Magistrangers | 392793 | [392793-magistrangers.json](./392793-magistrangers.json) |
 | Magitech Requiem | 336011 | [336011-magitech-requiem.json](./336011-magitech-requiem.json) |
 | Magiterra | 202521 | [202521-magiterra.json](./202521-magiterra.json) |
@@ -2900,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maliki: Poison Of The Past | 292846 | [292846-maliki-poison-of-the-past.json](./292846-maliki-poison-of-the-past.json) |
 | Malin Kundang: an Indonesian Folklore | 330546 | [330546-malin-kundang-an-indonesian-folklore.json](./330546-malin-kundang-an-indonesian-folklore.json) |
 | Maline | 342141 | [342141-maline.json](./342141-maline.json) |
+| Malison: The Cursed City | 411945 | [411945-malison-the-cursed-city.json](./411945-malison-the-cursed-city.json) |
 | Malita: Soul of a Warrior | 118512 | [118512-malita-soul-of-a-warrior.json](./118512-malita-soul-of-a-warrior.json) |
 | Maliya | 58721 | [58721-maliya.json](./58721-maliya.json) |
 | Malkari | 71326 | [71326-malkari.json](./71326-malkari.json) |
@@ -12235,6 +12237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike Read's Computer Pop Quiz | 71706 | [71706-mike-reads-computer-pop-quiz.json](./71706-mike-reads-computer-pop-quiz.json) |
 | Mike Shadow: I Paid For It! | 329482 | [329482-mike-shadow-i-paid-for-it.json](./329482-mike-shadow-i-paid-for-it.json) |
 | Mike the Cat | 165739 | [165739-mike-the-cat.json](./165739-mike-the-cat.json) |
+| Mike the Hooper | 411903 | [411903-mike-the-hooper.json](./411903-mike-the-hooper.json) |
 | Mike the Knight and The Great Gallop | 84636 | [84636-mike-the-knight-and-the-great-gallop.json](./84636-mike-the-knight-and-the-great-gallop.json) |
 | Mike Tyson Boxing | 209511 | [209511-mike-tyson-boxing.json](./209511-mike-tyson-boxing.json) |
 | Mike Tyson Boxing | 23452 | [23452-mike-tyson-boxing.json](./23452-mike-tyson-boxing.json) |
@@ -15639,6 +15642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogumogu! Poop Battle | 425443 | [425443-mogumogu-poop-battle.json](./425443-mogumogu-poop-battle.json) |
 | Mogura de Pon! | 342739 | [342739-mogura-de-pon.json](./342739-mogura-de-pon.json) |
 | Mogura Reverse | 71117 | [71117-mogura-reverse.json](./71117-mogura-reverse.json) |
+| Mogure Kegooru Doukutsu | 411954 | [411954-mogure-kegooru-doukutsu.json](./411954-mogure-kegooru-doukutsu.json) |
 | Mogutte Nanbo | 366907 | [366907-mogutte-nanbo.json](./366907-mogutte-nanbo.json) |
 | MoGuuRu Dabas | 227819 | [227819-moguuru-dabas.json](./227819-moguuru-dabas.json) |
 | Moha | 411288 | [411288-moha.json](./411288-moha.json) |
@@ -16305,6 +16309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonoGolf | 251385 | [251385-monogolf.json](./251385-monogolf.json) |
 | Monogon: Echoes | 147366 | [147366-monogon-echoes.json](./147366-monogon-echoes.json) |
 | Monokage Quest | 222543 | [222543-monokage-quest.json](./222543-monokage-quest.json) |
+| Monolilith | 411921 | [411921-monolilith.json](./411921-monolilith.json) |
 | Monolisk | 119175 | [119175-monolisk.json](./119175-monolisk.json) |
 | Monolit | 298108 | [298108-monolit.json](./298108-monolit.json) |
 | Monolith | 168101 | [168101-monolith.json](./168101-monolith.json) |
@@ -20332,6 +20337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mur | 133560 | [133560-mur.json](./133560-mur.json) |
 | Mura World | 267912 | [267912-mura-world.json](./267912-mura-world.json) |
 | Mura World 2 | 267913 | [267913-mura-world-2.json](./267913-mura-world-2.json) |
+| Murakumo | 411908 | [411908-murakumo.json](./411908-murakumo.json) |
 | Murakumo: Renegade Mech Pursuit | 5936 | [5936-murakumo-renegade-mech-pursuit.json](./5936-murakumo-renegade-mech-pursuit.json) |
 | Mural | 118814 | [118814-mural.json](./118814-mural.json) |
 | Muramasa Burden | 341344 | [341344-muramasa-burden.json](./341344-muramasa-burden.json) |
