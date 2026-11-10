@@ -3334,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Network: Battle Crashers | 254362 | [254362-cartoon-network-battle-crashers.json](./254362-cartoon-network-battle-crashers.json) |
 | Cartoon Network: Battle Crashers | 25795 | [25795-cartoon-network-battle-crashers.json](./25795-cartoon-network-battle-crashers.json) |
 | Cartoon Network: Block Party | 2809 | [2809-cartoon-network-block-party.json](./2809-cartoon-network-block-party.json) |
+| Cartoon Network: Match Land | 95100 | [95100-cartoon-network-match-land.json](./95100-cartoon-network-match-land.json) |
 | Cartoon Network: Punch Time Explosion | 2798 | [2798-cartoon-network-punch-time-explosion.json](./2798-cartoon-network-punch-time-explosion.json) |
 | Cartoon Network: Punch Time Explosion XL | 21151 | [21151-cartoon-network-punch-time-explosion-xl.json](./21151-cartoon-network-punch-time-explosion-xl.json) |
 | Cartoon Network: Toon Jam! | 206759 | [206759-cartoon-network-toon-jam.json](./206759-cartoon-network-toon-jam.json) |
@@ -8879,6 +8880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Lilith | 149833 | [149833-chronicles-of-lilith.json](./149833-chronicles-of-lilith.json) |
 | Chronicles of Lurra | 110644 | [110644-chronicles-of-lurra.json](./110644-chronicles-of-lurra.json) |
 | Chronicles of Lussaria | 284899 | [284899-chronicles-of-lussaria.json](./284899-chronicles-of-lussaria.json) |
+| Chronicles of Magic | 95250 | [95250-chronicles-of-magic.json](./95250-chronicles-of-magic.json) |
 | Chronicles of Magic: Divided Kingdoms | 94061 | [94061-chronicles-of-magic-divided-kingdoms.json](./94061-chronicles-of-magic-divided-kingdoms.json) |
 | Chronicles of Middle Ages | 342761 | [342761-chronicles-of-middle-ages.json](./342761-chronicles-of-middle-ages.json) |
 | Chronicles of Mystery - Secret of the Lost Kingdom | 105440 | [105440-chronicles-of-mystery-secret-of-the-lost-kingdom.json](./105440-chronicles-of-mystery-secret-of-the-lost-kingdom.json) |
@@ -12176,6 +12178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Pit | 394563 | [394563-coin-pit.json](./394563-coin-pit.json) |
 | Coin Princess VIP | 104401 | [104401-coin-princess-vip.json](./104401-coin-princess-vip.json) |
 | Coin Push RPG | 336010 | [336010-coin-push-rpg.json](./336010-coin-push-rpg.json) |
+| Coin Pusher | 95262 | [95262-coin-pusher.json](./95262-coin-pusher.json) |
 | Coin Pusher Casino | 230196 | [230196-coin-pusher-casino.json](./230196-coin-pusher-casino.json) |
 | Coin Pusher Live | 280382 | [280382-coin-pusher-live.json](./280382-coin-pusher-live.json) |
 | Coin Pusher World | 150004 | [150004-coin-pusher-world.json](./150004-coin-pusher-world.json) |
@@ -16906,6 +16909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft | 280355 | [280355-craft.json](./280355-craft.json) |
 | Craft & Conquer | 339334 | [339334-craft-and-conquer.json](./339334-craft-and-conquer.json) |
 | Craft & Deliver | 406889 | [406889-craft-and-deliver.json](./406889-craft-and-deliver.json) |
+| Craft & Dungeon | 95279 | [95279-craft-and-dungeon.json](./95279-craft-and-dungeon.json) |
 | Craft & Survive | 172296 | [172296-craft-and-survive.json](./172296-craft-and-survive.json) |
 | Craft Away! - Idle Mining Game | 99337 | [99337-craft-away-idle-mining-game.json](./99337-craft-away-idle-mining-game.json) |
 | Craft Battle Simulator | 90640 | [90640-craft-battle-simulator.json](./90640-craft-battle-simulator.json) |
@@ -19603,6 +19607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoClickers | 218162 | [218162-cryptoclickers.json](./218162-cryptoclickers.json) |
 | CryptoCoin, Inc. | 103296 | [103296-cryptocoin-inc.json](./103296-cryptocoin-inc.json) |
 | Cryptocracy | 29027 | [29027-cryptocracy.json](./29027-cryptocracy.json) |
+| Cryptocurrency Clicker | 95208 | [95208-cryptocurrency-clicker.json](./95208-cryptocurrency-clicker.json) |
 | Cryptofall: Investor simulator | 122253 | [122253-cryptofall-investor-simulator.json](./122253-cryptofall-investor-simulator.json) |
 | CryptoFarm | 107771 | [107771-cryptofarm.json](./107771-cryptofarm.json) |
 | CryptoFights | 111891 | [111891-cryptofights.json](./111891-cryptofights.json) |
