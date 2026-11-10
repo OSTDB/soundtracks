@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Ski vs. Zombies Ski | 257012 | [257012-santa-ski-vs-zombies-ski.json](./257012-santa-ski-vs-zombies-ski.json) |
 | Santa Slayer | 396061 | [396061-santa-slayer.json](./396061-santa-slayer.json) |
 | Santa Slays Nazis | 196117 | [196117-santa-slays-nazis.json](./196117-santa-slays-nazis.json) |
+| Santa Slays Tonight | 406408 | [406408-santa-slays-tonight.json](./406408-santa-slays-tonight.json) |
 | Santa Sleigher | 354763 | [354763-santa-sleigher.json](./354763-santa-sleigher.json) |
 | Santa Slide Rush | 401446 | [401446-santa-slide-rush.json](./401446-santa-slide-rush.json) |
 | Santa Slides to Town | 324615 | [324615-santa-slides-to-town.json](./324615-santa-slides-to-town.json) |
@@ -8100,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Worlds | 155654 | [155654-shattered-worlds.json](./155654-shattered-worlds.json) |
 | Shattered: Tale of the Forgotten King | 25555 | [25555-shattered-tale-of-the-forgotten-king.json](./25555-shattered-tale-of-the-forgotten-king.json) |
 | Shattered: The Final Days | 248048 | [248048-shattered-the-final-days.json](./248048-shattered-the-final-days.json) |
+| Shatterfarms | 406434 | [406434-shatterfarms.json](./406434-shatterfarms.json) |
 | Shatterhand | 48648 | [48648-shatterhand.json](./48648-shatterhand.json) |
 | Shatterhold | 406135 | [406135-shatterhold.json](./406135-shatterhold.json) |
 | Shattering Obsidian | 155961 | [155961-shattering-obsidian.json](./155961-shattering-obsidian.json) |
@@ -10705,6 +10707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege | 394227 | [394227-siege.json](./394227-siege.json) |
 | Siege | 78612 | [78612-siege.json](./78612-siege.json) |
 | Siege 'n Sow | 287429 | [287429-siege-n-sow.json](./287429-siege-n-sow.json) |
+| Siege 1K | 406429 | [406429-siege-1k.json](./406429-siege-1k.json) |
 | Siege and Destroy | 29802 | [29802-siege-and-destroy.json](./29802-siege-and-destroy.json) |
 | Siege Demolishers | 411500 | [411500-siege-demolishers.json](./411500-siege-demolishers.json) |
 | Siege Hammer | 31105 | [31105-siege-hammer.json](./31105-siege-hammer.json) |
@@ -12961,6 +12964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skijoring | 391024 | [391024-skijoring.json](./391024-skijoring.json) |
 | Skilander | 342000 | [342000-skilander.json](./342000-skilander.json) |
 | Skill at Time | 159963 | [159963-skill-at-time.json](./159963-skill-at-time.json) |
+| Skill Eater | 406397 | [406397-skill-eater.json](./406397-skill-eater.json) |
 | Skill Gap | 393662 | [393662-skill-gap.json](./393662-skill-gap.json) |
 | Skill Hockey | 351565 | [351565-skill-hockey.json](./351565-skill-hockey.json) |
 | Skill Legends Royale | 316603 | [316603-skill-legends-royale.json](./316603-skill-legends-royale.json) |
@@ -23275,6 +23279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Detective | 191490 | [191490-spirit-detective.json](./191490-spirit-detective.json) |
 | Spirit Driver | 321272 | [321272-spirit-driver.json](./321272-spirit-driver.json) |
 | Spirit Drop | 334746 | [334746-spirit-drop.json](./334746-spirit-drop.json) |
+| Spirit Dungeon | 406391 | [406391-spirit-dungeon.json](./406391-spirit-dungeon.json) |
 | Spirit Eyes | 211188 | [211188-spirit-eyes.json](./211188-spirit-eyes.json) |
 | Spirit Glaive | 365395 | [365395-spirit-glaive.json](./365395-spirit-glaive.json) |
 | Spirit Guardian | 392215 | [392215-spirit-guardian.json](./392215-spirit-guardian.json) |
