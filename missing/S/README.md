@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation: Shadows of the Faceless | 190309 | [190309-salvation-shadows-of-the-faceless.json](./190309-salvation-shadows-of-the-faceless.json) |
 | Salvationland | 189805 | [189805-salvationland.json](./189805-salvationland.json) |
 | Salvator | 86530 | [86530-salvator.json](./86530-salvator.json) |
+| Salvatore's Bridge | 417133 | [417133-salvatores-bridge.json](./417133-salvatores-bridge.json) |
 | Salvatorem | 298714 | [298714-salvatorem.json](./298714-salvatorem.json) |
 | Salve a Fantasia | 387619 | [387619-salve-a-fantasia.json](./387619-salve-a-fantasia.json) |
 | Salvo | 184497 | [184497-salvo.json](./184497-salvo.json) |
@@ -10997,6 +10998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hill DS | 241445 | [241445-silent-hill-ds.json](./241445-silent-hill-ds.json) |
 | Silent Hill Exotica | 246304 | [246304-silent-hill-exotica.json](./246304-silent-hill-exotica.json) |
 | Silent Hill f | 222343 | [222343-silent-hill-f.json](./222343-silent-hill-f.json) |
+| Silent Hill f x Urban Myth Dissolution Center | 417146 | [417146-silent-hill-f-x-urban-myth-dissolution-center.json](./417146-silent-hill-f-x-urban-myth-dissolution-center.json) |
 | Silent Hill f: Day One Edition | 370229 | [370229-silent-hill-f-day-one-edition.json](./370229-silent-hill-f-day-one-edition.json) |
 | Silent Hill f: Deluxe Edition | 347180 | [347180-silent-hill-f-deluxe-edition.json](./347180-silent-hill-f-deluxe-edition.json) |
 | Silent Hill f: Steelbook Edition | 381094 | [381094-silent-hill-f-steelbook-edition.json](./381094-silent-hill-f-steelbook-edition.json) |
@@ -26287,6 +26289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardom 2000 | 380431 | [380431-stardom-2000.json](./380431-stardom-2000.json) |
 | Stardom 3 | 371627 | [371627-stardom-3.json](./371627-stardom-3.json) |
 | Stardom Warriors: LaSalle Ishii's Childs Quest | 340027 | [340027-stardom-warriors-lasalle-ishiis-childs-quest.json](./340027-stardom-warriors-lasalle-ishiis-childs-quest.json) |
+| Stardom: Riichi Mahjong | 417223 | [417223-stardom-riichi-mahjong.json](./417223-stardom-riichi-mahjong.json) |
 | Stardom: Your Quest For Fame | 73373 | [73373-stardom-your-quest-for-fame.json](./73373-stardom-your-quest-for-fame.json) |
 | Stardome | 244687 | [244687-stardome.json](./244687-stardome.json) |
 | Stardream | 349984 | [349984-stardream.json](./349984-stardream.json) |
@@ -27923,6 +27926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stelloop | 232818 | [232818-stelloop.json](./232818-stelloop.json) |
 | StellwerkSim | 314847 | [314847-stellwerksim.json](./314847-stellwerksim.json) |
 | Stem | 24944 | [24944-stem.json](./24944-stem.json) |
+| Stemmies | 417259 | [417259-stemmies.json](./417259-stemmies.json) |
 | Stench Mechanics | 199191 | [199191-stench-mechanics.json](./199191-stench-mechanics.json) |
 | Stencil Art | 147621 | [147621-stencil-art.json](./147621-stencil-art.json) |
 | Stendhal | 176198 | [176198-stendhal.json](./176198-stendhal.json) |
@@ -28902,6 +28906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of the Green Dragon | 109869 | [109869-story-of-the-green-dragon.json](./109869-story-of-the-green-dragon.json) |
 | Story of the Lost Dot | 288799 | [288799-story-of-the-lost-dot.json](./288799-story-of-the-lost-dot.json) |
 | Story of the Mirror | 290346 | [290346-story-of-the-mirror.json](./290346-story-of-the-mirror.json) |
+| Story of the Needle in a Haystack | 417151 | [417151-story-of-the-needle-in-a-haystack.json](./417151-story-of-the-needle-in-a-haystack.json) |
 | Story of the Olivia | 241851 | [241851-story-of-the-olivia.json](./241851-story-of-the-olivia.json) |
 | Story of the Survivor | 33582 | [33582-story-of-the-survivor.json](./33582-story-of-the-survivor.json) |
 | Story of the Survivor: Prisoner | 59569 | [59569-story-of-the-survivor-prisoner.json](./59569-story-of-the-survivor-prisoner.json) |
