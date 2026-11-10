@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Landscape: Grand Canyon | 96426 | [96426-natural-landscape-grand-canyon.json](./96426-natural-landscape-grand-canyon.json) |
 | Natural Landscape: Guilin Landscape | 86416 | [86416-natural-landscape-guilin-landscape.json](./86416-natural-landscape-guilin-landscape.json) |
 | Natural Landscape: Three Gorges | 90214 | [90214-natural-landscape-three-gorges.json](./90214-natural-landscape-three-gorges.json) |
+| Natural Locomotion | 95172 | [95172-natural-locomotion.json](./95172-natural-locomotion.json) |
 | Natural Pressures | 265670 | [265670-natural-pressures.json](./265670-natural-pressures.json) |
 | Natural Selection | 23759 | [23759-natural-selection.json](./23759-natural-selection.json) |
 | Natural Selection 2 - Deluxe DLC | 93808 | [93808-natural-selection-2-deluxe-dlc.json](./93808-natural-selection-2-deluxe-dlc.json) |
@@ -3741,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexoria: Dungeon Rogue Heroes | 128859 | [128859-nexoria-dungeon-rogue-heroes.json](./128859-nexoria-dungeon-rogue-heroes.json) |
 | Next | 83878 | [83878-next.json](./83878-next.json) |
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
+| Next 3 | 95189 | [95189-next-3.json](./95189-next-3.json) |
 | Next 4 | 102440 | [102440-next-4.json](./102440-next-4.json) |
 | Next Backgammon | 88796 | [88796-next-backgammon.json](./88796-next-backgammon.json) |
 | Next Business Trip | 347054 | [347054-next-business-trip.json](./347054-next-business-trip.json) |
