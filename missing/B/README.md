@@ -3897,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle For The Crystals | 289138 | [289138-battle-for-the-crystals.json](./289138-battle-for-the-crystals.json) |
 | Battle for the Droid Station | 193093 | [193093-battle-for-the-droid-station.json](./193093-battle-for-the-droid-station.json) |
 | Battle for the Galaxy | 54955 | [54955-battle-for-the-galaxy.json](./54955-battle-for-the-galaxy.json) |
+| Battle for the Golden Skull | 421758 | [421758-battle-for-the-golden-skull.json](./421758-battle-for-the-golden-skull.json) |
 | Battle For The Hill | 294123 | [294123-battle-for-the-hill.json](./294123-battle-for-the-hill.json) |
 | Battle for the Kingdom | 156631 | [156631-battle-for-the-kingdom.json](./156631-battle-for-the-kingdom.json) |
 | Battle for the last chicken | 76795 | [76795-battle-for-the-last-chicken.json](./76795-battle-for-the-last-chicken.json) |
@@ -9176,6 +9177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biters & Bullets | 203908 | [203908-biters-and-bullets.json](./203908-biters-and-bullets.json) |
 | Bitesize Heroes: Forest Defender | 294303 | [294303-bitesize-heroes-forest-defender.json](./294303-bitesize-heroes-forest-defender.json) |
 | BiteVille | 140322 | [140322-biteville.json](./140322-biteville.json) |
+| Bitfall | 421755 | [421755-bitfall.json](./421755-bitfall.json) |
 | Bitfighter | 47275 | [47275-bitfighter.json](./47275-bitfighter.json) |
 | Bitgram | 55157 | [55157-bitgram.json](./55157-bitgram.json) |
 | Bitgun | 163870 | [163870-bitgun.json](./163870-bitgun.json) |
@@ -9441,6 +9443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Gold | 14609 | [14609-black-gold.json](./14609-black-gold.json) |
 | Black Gold | 156052 | [156052-black-gold.json](./156052-black-gold.json) |
 | Black Gold | 435 | [435-black-gold.json](./435-black-gold.json) |
+| Black Gold Co. | 421757 | [421757-black-gold-co.json](./421757-black-gold-co.json) |
 | Black Gold Online | 63338 | [63338-black-gold-online.json](./63338-black-gold-online.json) |
 | Black Gold: Shining Town | 418854 | [418854-black-gold-shining-town.json](./418854-black-gold-shining-town.json) |
 | Black Hair Girl is Best Girl | 155007 | [155007-black-hair-girl-is-best-girl.json](./155007-black-hair-girl-is-best-girl.json) |
@@ -13461,6 +13464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoneCraft | 51268 | [51268-bonecraft.json](./51268-bonecraft.json) |
 | Boned Again: Survivors | 362185 | [362185-boned-again-survivors.json](./362185-boned-again-survivors.json) |
 | BoneD: Dead Men Don't Jump | 66163 | [66163-boned-dead-men-dont-jump.json](./66163-boned-dead-men-dont-jump.json) |
+| BoneDelver | 421761 | [421761-bonedelver.json](./421761-bonedelver.json) |
 | Bonedle | 379170 | [379170-bonedle.json](./379170-bonedle.json) |
 | BoneField: Bodycam Horror | 275414 | [275414-bonefield-bodycam-horror.json](./275414-bonefield-bodycam-horror.json) |
 | Bonegard | 159952 | [159952-bonegard.json](./159952-bonegard.json) |
