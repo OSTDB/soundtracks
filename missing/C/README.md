@@ -3835,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Lost Souls | 32590 | [32590-castle-of-lost-souls.json](./32590-castle-of-lost-souls.json) |
 | Castle of Lust: Hentai Fantasy Game | 368023 | [368023-castle-of-lust-hentai-fantasy-game.json](./368023-castle-of-lust-hentai-fantasy-game.json) |
 | Castle of Magic | 21855 | [21855-castle-of-magic.json](./21855-castle-of-magic.json) |
+| Castle of Monsters: The Last Knight | 428375 | [428375-castle-of-monsters-the-last-knight.json](./428375-castle-of-monsters-the-last-knight.json) |
 | Castle of no Escape | 41958 | [41958-castle-of-no-escape.json](./41958-castle-of-no-escape.json) |
 | Castle of no Escape 1+2 Bundle | 218464 | [218464-castle-of-no-escape-1-2-bundle.json](./218464-castle-of-no-escape-1-2-bundle.json) |
 | Castle of No Escape 2 | 30947 | [30947-castle-of-no-escape-2.json](./30947-castle-of-no-escape-2.json) |
@@ -8348,6 +8349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Chop Together | 392147 | [392147-chop-chop-together.json](./392147-chop-chop-together.json) |
 | Chop It | 100925 | [100925-chop-it.json](./100925-chop-it.json) |
 | Chop It Down | 359135 | [359135-chop-it-down.json](./359135-chop-it-down.json) |
+| Chop Loop | 428391 | [428391-chop-loop.json](./428391-chop-loop.json) |
 | Chop Shop | 324659 | [324659-chop-shop.json](./324659-chop-shop.json) |
 | Chop Signal | 389455 | [389455-chop-signal.json](./389455-chop-signal.json) |
 | Chop Suey | 234212 | [234212-chop-suey.json](./234212-chop-suey.json) |
@@ -12187,6 +12189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Factory Idle: Money Games | 249312 | [249312-coin-factory-idle-money-games.json](./249312-coin-factory-idle-money-games.json) |
 | Coin Fall | 269918 | [269918-coin-fall.json](./269918-coin-fall.json) |
 | Coin Flipper | 219741 | [219741-coin-flipper.json](./219741-coin-flipper.json) |
+| Coin Frenzy | 428436 | [428436-coin-frenzy.json](./428436-coin-frenzy.json) |
 | Coin Germs | 201989 | [201989-coin-germs.json](./201989-coin-germs.json) |
 | Coin Grid | 221374 | [221374-coin-grid.json](./221374-coin-grid.json) |
 | Coin Harvest | 389480 | [389480-coin-harvest.json](./389480-coin-harvest.json) |
@@ -16611,6 +16614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Busy: Mowdown | 409743 | [409743-cowboy-busy-mowdown.json](./409743-cowboy-busy-mowdown.json) |
 | Cowboy Carl | 306456 | [306456-cowboy-carl.json](./306456-cowboy-carl.json) |
 | Cowboy Casino | 38831 | [38831-cowboy-casino.json](./38831-cowboy-casino.json) |
+| Cowboy Cats | 428418 | [428418-cowboy-cats.json](./428418-cowboy-cats.json) |
 | Cowboy Duel: Red Wild West Massacre | 305411 | [305411-cowboy-duel-red-wild-west-massacre.json](./305411-cowboy-duel-red-wild-west-massacre.json) |
 | Cowboy Escape | 88233 | [88233-cowboy-escape.json](./88233-cowboy-escape.json) |
 | Cowboy Football | 180535 | [180535-cowboy-football.json](./180535-cowboy-football.json) |
@@ -21077,6 +21081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curve Racer | 147616 | [147616-curve-racer.json](./147616-curve-racer.json) |
 | Curveball | 96590 | [96590-curveball.json](./96590-curveball.json) |
 | Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
+| Curved World | 428426 | [428426-curved-world.json](./428426-curved-world.json) |
 | CurveFever | 112097 | [112097-curvefever.json](./112097-curvefever.json) |
 | Curvelicious | 321223 | [321223-curvelicious.json](./321223-curvelicious.json) |
 | Curves | 118234 | [118234-curves.json](./118234-curves.json) |
