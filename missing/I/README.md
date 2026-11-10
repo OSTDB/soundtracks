@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Fantasy | 89556 | [89556-idol-fantasy.json](./89556-idol-fantasy.json) |
 | Idol Hakken-den | 7905 | [7905-idol-hakken-den.json](./7905-idol-hakken-den.json) |
 | Idol Hanafuda Fan Club | 37664 | [37664-idol-hanafuda-fan-club.json](./37664-idol-hanafuda-fan-club.json) |
+| Idol Hands | 10432 | [10432-idol-hands.json](./10432-idol-hands.json) |
 | Idol Hands | 195711 | [195711-idol-hands.json](./195711-idol-hands.json) |
 | Idol Hands 2 | 207465 | [207465-idol-hands-2.json](./207465-idol-hands-2.json) |
 | Idol Hell | 212052 | [212052-idol-hell.json](./212052-idol-hell.json) |
@@ -3299,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incomer | 212203 | [212203-incomer.json](./212203-incomer.json) |
 | Incoming | 195828 | [195828-incoming.json](./195828-incoming.json) |
 | Incoming Evil | 122020 | [122020-incoming-evil.json](./122020-incoming-evil.json) |
+| Incoming Forces | 10434 | [10434-incoming-forces.json](./10434-incoming-forces.json) |
 | Incoming War | 211979 | [211979-incoming-war.json](./211979-incoming-war.json) |
 | Incoming! | 67893 | [67893-incoming.json](./67893-incoming.json) |
 | Incompatible Fusion Machine | 312585 | [312585-incompatible-fusion-machine.json](./312585-incompatible-fusion-machine.json) |
@@ -4926,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Chef Party | 139570 | [139570-instant-chef-party.json](./139570-instant-chef-party.json) |
 | Instant Chess | 107029 | [107029-instant-chess.json](./107029-instant-chess.json) |
 | Instant Death | 81999 | [81999-instant-death.json](./81999-instant-death.json) |
+| Instant Dungeon! | 10438 | [10438-instant-dungeon.json](./10438-instant-dungeon.json) |
 | Instant Family Fun Bundle | 406801 | [406801-instant-family-fun-bundle.json](./406801-instant-family-fun-bundle.json) |
 | Instant Farmer | 163167 | [163167-instant-farmer.json](./163167-instant-farmer.json) |
 | Instant Indie Collection: Vol. 1 | 82543 | [82543-instant-indie-collection-vol-1.json](./82543-instant-indie-collection-vol-1.json) |
@@ -6391,6 +6394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isaki Shuugorou no Keiba Hisshou Gaku | 48752 | [48752-isaki-shuugorou-no-keiba-hisshou-gaku.json](./48752-isaki-shuugorou-no-keiba-hisshou-gaku.json) |
 | Isane Insects: The Inception | 53255 | [53255-isane-insects-the-inception.json](./53255-isane-insects-the-inception.json) |
 | iSays - Simon Says Classic Color Switch Memory Game | 89733 | [89733-isays-simon-says-classic-color-switch-memory-game.json](./89733-isays-simon-says-classic-color-switch-memory-game.json) |
+| Isbarah | 10462 | [10462-isbarah.json](./10462-isbarah.json) |
 | Iscoot | 392153 | [392153-iscoot.json](./392153-iscoot.json) |
 | iScopaX | 100737 | [100737-iscopax.json](./100737-iscopax.json) |
 | IScream | 111137 | [111137-iscream.json](./111137-iscream.json) |
