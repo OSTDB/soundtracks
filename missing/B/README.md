@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallisticNG: Outer Reaches | 167304 | [167304-ballisticng-outer-reaches.json](./167304-ballisticng-outer-reaches.json) |
 | Ballistik | 339613 | [339613-ballistik.json](./339613-ballistik.json) |
 | Ballistik Wars | 343577 | [343577-ballistik-wars.json](./343577-ballistik-wars.json) |
+| Ballistix | 5878 | [5878-ballistix.json](./5878-ballistix.json) |
 | Ballloon Gentleman | 60909 | [60909-ballloon-gentleman.json](./60909-ballloon-gentleman.json) |
 | Ballmaster | 336942 | [336942-ballmaster.json](./336942-ballmaster.json) |
 | Balloball: Ribbit & Rescue | 388214 | [388214-balloball-ribbit-and-rescue.json](./388214-balloball-ribbit-and-rescue.json) |
@@ -3519,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Knight - GCPD Lockdown | 15523 | [15523-batman-arkham-knight-gcpd-lockdown.json](./15523-batman-arkham-knight-gcpd-lockdown.json) |
 | Batman: Arkham Knight - New 52 Skins Pack | 25983 | [25983-batman-arkham-knight-new-52-skins-pack.json](./25983-batman-arkham-knight-new-52-skins-pack.json) |
 | Batman: Arkham Knight - Original Arkham Batman Skin | 15525 | [15525-batman-arkham-knight-original-arkham-batman-skin.json](./15525-batman-arkham-knight-original-arkham-batman-skin.json) |
+| Batman: Arkham Knight - PlayStation Exclusive Scarecrow Nightmare Missions | 25975 | [25975-batman-arkham-knight-playstation-exclusive-scarecrow-nightmare-missions.json](./25975-batman-arkham-knight-playstation-exclusive-scarecrow-nightmare-missions.json) |
 | Batman: Arkham Knight - Premium Edition | 52440 | [52440-batman-arkham-knight-premium-edition.json](./52440-batman-arkham-knight-premium-edition.json) |
 | Batman: Arkham Knight - Red Hood Story Pack | 26034 | [26034-batman-arkham-knight-red-hood-story-pack.json](./26034-batman-arkham-knight-red-hood-story-pack.json) |
 | Batman: Arkham Knight - Season of Infamy: Most Wanted Expansion | 15531 | [15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json](./15531-batman-arkham-knight-season-of-infamy-most-wanted-expansion.json) |
