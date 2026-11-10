@@ -15717,6 +15717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakecremental | 341463 | [341463-snakecremental.json](./341463-snakecremental.json) |
 | Snakeez | 69021 | [69021-snakeez.json](./69021-snakeez.json) |
 | SnakeGame | 193028 | [193028-snakegame.json](./193028-snakegame.json) |
+| SnakeGame.Live | 422477 | [422477-snakegame-live.json](./422477-snakegame-live.json) |
 | Snakehaus | 274496 | [274496-snakehaus.json](./274496-snakehaus.json) |
 | SnakeLaw Island | 167375 | [167375-snakelaw-island.json](./167375-snakelaw-island.json) |
 | Snakelike | 113874 | [113874-snakelike.json](./113874-snakelike.json) |
@@ -29385,6 +29386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streamline | 20178 | [20178-streamline.json](./20178-streamline.json) |
 | Streamline | 81180 | [81180-streamline.json](./81180-streamline.json) |
 | Streamonaire | 215310 | [215310-streamonaire.json](./215310-streamonaire.json) |
+| Streams Masters | 422471 | [422471-streams-masters.json](./422471-streams-masters.json) |
 | StreamSavers | 160196 | [160196-streamsavers.json](./160196-streamsavers.json) |
 | Streamtubers | 370565 | [370565-streamtubers.json](./370565-streamtubers.json) |
 | StreamWalker Tribes | 180252 | [180252-streamwalker-tribes.json](./180252-streamwalker-tribes.json) |
