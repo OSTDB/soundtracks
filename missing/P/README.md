@@ -10258,6 +10258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playable Archive | 425848 | [425848-playable-archive.json](./425848-playable-archive.json) |
 | Playable Mockup | 245387 | [245387-playable-mockup.json](./245387-playable-mockup.json) |
 | PlayAgain 2: The Golden Legend | 367482 | [367482-playagain-2-the-golden-legend.json](./367482-playagain-2-the-golden-legend.json) |
+| PlayAgain: Expedition | 426623 | [426623-playagain-expedition.json](./426623-playagain-expedition.json) |
 | Playback '94: Episode 1 - Post Office | 407410 | [407410-playback-94-episode-1-post-office.json](./407410-playback-94-episode-1-post-office.json) |
 | Playback Loop | 301444 | [301444-playback-loop.json](./301444-playback-loop.json) |
 | Playback Trauma: In Sickness | 212955 | [212955-playback-trauma-in-sickness.json](./212955-playback-trauma-in-sickness.json) |
@@ -12454,6 +12455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Chase Crime: Racing Car | 107672 | [107672-police-chase-crime-racing-car.json](./107672-police-chase-crime-racing-car.json) |
 | Police Chase Simulator: Highway Racers Pursuit | 371509 | [371509-police-chase-simulator-highway-racers-pursuit.json](./371509-police-chase-simulator-highway-racers-pursuit.json) |
 | Police Chase: Big City Race | 95913 | [95913-police-chase-big-city-race.json](./95913-police-chase-big-city-race.json) |
+| Police Chief | 426624 | [426624-police-chief.json](./426624-police-chief.json) |
 | Police Chopper | 87917 | [87917-police-chopper.json](./87917-police-chopper.json) |
 | Police Cop Hot Pursuit | 256758 | [256758-police-cop-hot-pursuit.json](./256758-police-cop-hot-pursuit.json) |
 | Police Department 3D | 216107 | [216107-police-department-3d.json](./216107-police-department-3d.json) |
