@@ -1818,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Wars | 374421 | [374421-paper-wars.json](./374421-paper-wars.json) |
 | Paper Wars: Cannon Fodder Devastated | 88328 | [88328-paper-wars-cannon-fodder-devastated.json](./88328-paper-wars-cannon-fodder-devastated.json) |
 | Paper Wars: Cannon Fodder! | 78423 | [78423-paper-wars-cannon-fodder.json](./78423-paper-wars-cannon-fodder.json) |
+| Paper Wings | 57269 | [57269-paper-wings.json](./57269-paper-wings.json) |
 | Paper World - Spot the Differences | 106887 | [106887-paper-world-spot-the-differences.json](./106887-paper-world-spot-the-differences.json) |
 | Paper World Escape | 315685 | [315685-paper-world-escape.json](./315685-paper-world-escape.json) |
 | Paper World Escape 2 | 315686 | [315686-paper-world-escape-2.json](./315686-paper-world-escape-2.json) |
@@ -13230,6 +13231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop the Ice | 107080 | [107080-pop-the-ice.json](./107080-pop-the-ice.json) |
 | Pop the Jewel | 233435 | [233435-pop-the-jewel.json](./233435-pop-the-jewel.json) |
 | Pop the Lock | 256976 | [256976-pop-the-lock.json](./256976-pop-the-lock.json) |
+| Pop the Lock | 58518 | [58518-pop-the-lock.json](./58518-pop-the-lock.json) |
 | Pop This Pop-It | 163189 | [163189-pop-this-pop-it.json](./163189-pop-this-pop-it.json) |
 | Pop Top Adventure | 195538 | [195538-pop-top-adventure.json](./195538-pop-top-adventure.json) |
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
@@ -18153,6 +18155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump Press | 277299 | [277299-pump-press.json](./277299-pump-press.json) |
 | Pump-Action Captain | 35053 | [35053-pump-action-captain.json](./35053-pump-action-captain.json) |
 | Pumped BMX 2 | 59751 | [59751-pumped-bmx-2.json](./59751-pumped-bmx-2.json) |
+| Pumped BMX 3 | 57707 | [57707-pumped-bmx-3.json](./57707-pumped-bmx-3.json) |
 | Pumped BMX Flow | 174894 | [174894-pumped-bmx-flow.json](./174894-pumped-bmx-flow.json) |
 | Pumped BMX Pro | 114796 | [114796-pumped-bmx-pro.json](./114796-pumped-bmx-pro.json) |
 | Pumped: BMX | 59752 | [59752-pumped-bmx.json](./59752-pumped-bmx.json) |
@@ -18248,6 +18251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Monk | 331513 | [331513-punch-monk.json](./331513-punch-monk.json) |
 | Punch Out | 311981 | [311981-punch-out.json](./311981-punch-out.json) |
 | Punch Pad Workout | 107985 | [107985-punch-pad-workout.json](./107985-punch-pad-workout.json) |
+| Punch Planet | 57268 | [57268-punch-planet.json](./57268-punch-planet.json) |
 | Punch Pong | 184983 | [184983-punch-pong.json](./184983-punch-pong.json) |
 | Punch Quest | 41505 | [41505-punch-quest.json](./41505-punch-quest.json) |
 | Punch the Garden | 269982 | [269982-punch-the-garden.json](./269982-punch-the-garden.json) |
@@ -19211,6 +19215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Kingdoms | 5113 | [5113-puzzle-kingdoms.json](./5113-puzzle-kingdoms.json) |
 | Puzzle Kombat | 265855 | [265855-puzzle-kombat.json](./265855-puzzle-kombat.json) |
 | Puzzle Lab | 88118 | [88118-puzzle-lab.json](./88118-puzzle-lab.json) |
+| Puzzle Labyrinth | 58344 | [58344-puzzle-labyrinth.json](./58344-puzzle-labyrinth.json) |
 | Puzzle League | 179406 | [179406-puzzle-league.json](./179406-puzzle-league.json) |
 | Puzzle League | 370388 | [370388-puzzle-league.json](./370388-puzzle-league.json) |
 | Puzzle League Express | 69405 | [69405-puzzle-league-express.json](./69405-puzzle-league-express.json) |
