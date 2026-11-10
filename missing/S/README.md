@@ -6127,6 +6127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: Next Encounter | 4103 | [4103-serious-sam-next-encounter.json](./4103-serious-sam-next-encounter.json) |
 | Serious Sam: Portals | 299202 | [299202-serious-sam-portals.json](./299202-serious-sam-portals.json) |
 | Serious Sam: Realm of Thoth | 400049 | [400049-serious-sam-realm-of-thoth.json](./400049-serious-sam-realm-of-thoth.json) |
+| Serious Sam: Shatterverse | 396022 | [396022-serious-sam-shatterverse.json](./396022-serious-sam-shatterverse.json) |
 | Serious Sam: The Greek Encounter | 79181 | [79181-serious-sam-the-greek-encounter.json](./79181-serious-sam-the-greek-encounter.json) |
 | Serious Sam: The Random Encounter | 10819 | [10819-serious-sam-the-random-encounter.json](./10819-serious-sam-the-random-encounter.json) |
 | Serious Sam: The Retro Encounter | 145554 | [145554-serious-sam-the-retro-encounter.json](./145554-serious-sam-the-retro-encounter.json) |
@@ -8403,6 +8404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Holmes: The Awakened - The Sleuth's Attire | 245169 | [245169-sherlock-holmes-the-awakened-the-sleuths-attire.json](./245169-sherlock-holmes-the-awakened-the-sleuths-attire.json) |
 | Sherlock Holmes: The Awakened - The Whispered Dreams | 240981 | [240981-sherlock-holmes-the-awakened-the-whispered-dreams.json](./240981-sherlock-holmes-the-awakened-the-whispered-dreams.json) |
 | Sherlock Holmes: The Case of the Beheaded Smuggler | 230257 | [230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json](./230257-sherlock-holmes-the-case-of-the-beheaded-smuggler.json) |
+| Sherlock Holmes: The Case of the Hung Parliament | 261012 | [261012-sherlock-holmes-the-case-of-the-hung-parliament.json](./261012-sherlock-holmes-the-case-of-the-hung-parliament.json) |
 | Sherlock Holmes: The Darkest Mysteries Bundle | 310455 | [310455-sherlock-holmes-the-darkest-mysteries-bundle.json](./310455-sherlock-holmes-the-darkest-mysteries-bundle.json) |
 | Sherlock Holmes: The Devil's Daughter | 11563 | [11563-sherlock-holmes-the-devils-daughter.json](./11563-sherlock-holmes-the-devils-daughter.json) |
 | Sherlock Holmes: The Hound of the Baskervilles - Collector's Edition | 208999 | [208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json](./208999-sherlock-holmes-the-hound-of-the-baskervilles-collectors-edition.json) |
@@ -9662,6 +9664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooty Space Adventure | 58768 | [58768-shooty-space-adventure.json](./58768-shooty-space-adventure.json) |
 | Shooty Squad | 55420 | [55420-shooty-squad.json](./55420-shooty-squad.json) |
 | ShootyCraft | 417791 | [417791-shootycraft.json](./417791-shootycraft.json) |
+| Shop & Stuff: Supermarket Simulator | 397916 | [397916-shop-and-stuff-supermarket-simulator.json](./397916-shop-and-stuff-supermarket-simulator.json) |
 | Shop Battle | 115399 | [115399-shop-battle.json](./115399-shop-battle.json) |
 | Shop Crush | 310059 | [310059-shop-crush.json](./310059-shop-crush.json) |
 | Shop Empire | 270596 | [270596-shop-empire.json](./270596-shop-empire.json) |
@@ -18283,6 +18286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Frenzy Adventure | 305283 | [305283-sonic-frenzy-adventure.json](./305283-sonic-frenzy-adventure.json) |
 | Sonic Frontiers 2D | 336348 | [336348-sonic-frontiers-2d.json](./336348-sonic-frontiers-2d.json) |
 | Sonic Frontiers x Monster Hunter Pack | 255233 | [255233-sonic-frontiers-x-monster-hunter-pack.json](./255233-sonic-frontiers-x-monster-hunter-pack.json) |
+| Sonic Frontiers: Definitive Edition | 395887 | [395887-sonic-frontiers-definitive-edition.json](./395887-sonic-frontiers-definitive-edition.json) |
 | Sonic Frontiers: Digital Deluxe Edition | 214559 | [214559-sonic-frontiers-digital-deluxe-edition.json](./214559-sonic-frontiers-digital-deluxe-edition.json) |
 | Sonic Frontiers: Holiday Cheer Suit | 352840 | [352840-sonic-frontiers-holiday-cheer-suit.json](./352840-sonic-frontiers-holiday-cheer-suit.json) |
 | Sonic Frontiers: Sonic Adventure 2 Shoes | 325364 | [325364-sonic-frontiers-sonic-adventure-2-shoes.json](./325364-sonic-frontiers-sonic-adventure-2-shoes.json) |
@@ -19664,6 +19668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulmaze | 290854 | [290854-soulmaze.json](./290854-soulmaze.json) |
 | SoulPactum | 342773 | [342773-soulpactum.json](./342773-soulpactum.json) |
 | Soulpath: The Final Journey | 154876 | [154876-soulpath-the-final-journey.json](./154876-soulpath-the-final-journey.json) |
+| SoulQuest | 260649 | [260649-soulquest.json](./260649-soulquest.json) |
 | Soulrise | 295544 | [295544-soulrise.json](./295544-soulrise.json) |
 | Soulrun | 115955 | [115955-soulrun.json](./115955-soulrun.json) |
 | Souls | 261255 | [261255-souls.json](./261255-souls.json) |
@@ -36457,6 +36462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SWAT Kats: The Radical Squadron | 8068 | [8068-swat-kats-the-radical-squadron.json](./8068-swat-kats-the-radical-squadron.json) |
 | SWAT Siege | 336032 | [336032-swat-siege.json](./336032-swat-siege.json) |
 | Swat the Fly | 360925 | [360925-swat-the-fly.json](./360925-swat-the-fly.json) |
+| SWAT: Global Strike Team | 314 | [314-swat-global-strike-team.json](./314-swat-global-strike-team.json) |
 | SWAT: Special Weapons and Tactics | 48392 | [48392-swat-special-weapons-and-tactics.json](./48392-swat-special-weapons-and-tactics.json) |
 | SWAT: Target Liberty | 319 | [319-swat-target-liberty.json](./319-swat-target-liberty.json) |
 | SWAT: Urban Justice | 207004 | [207004-swat-urban-justice.json](./207004-swat-urban-justice.json) |
