@@ -2327,6 +2327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanzer | 103245 | [103245-tanzer.json](./103245-tanzer.json) |
 | Tanzia | 28309 | [28309-tanzia.json](./28309-tanzia.json) |
 | Tao | 58604 | [58604-tao.json](./58604-tao.json) |
+| Tao Feng: Fist of the Lotus | 6190 | [6190-tao-feng-fist-of-the-lotus.json](./6190-tao-feng-fist-of-the-lotus.json) |
 | Tao Taido | 39585 | [39585-tao-taido.json](./39585-tao-taido.json) |
 | Tao Yuan Shen Chu You Ren Jia | 283374 | [283374-tao-yuan-shen-chu-you-ren-jia.json](./283374-tao-yuan-shen-chu-you-ren-jia.json) |
 | Tao's Adventure: Curse of the Demon Seal | 20495 | [20495-taos-adventure-curse-of-the-demon-seal.json](./20495-taos-adventure-curse-of-the-demon-seal.json) |
@@ -20397,6 +20398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theo's World | 150276 | [150276-theos-world.json](./150276-theos-world.json) |
 | Theocracy | 226158 | [226158-theocracy.json](./226158-theocracy.json) |
 | Theocracy | 414858 | [414858-theocracy.json](./414858-theocracy.json) |
+| Theocracy | 6028 | [6028-theocracy.json](./6028-theocracy.json) |
 | Theogony: Crystal Water Blue | 172314 | [172314-theogony-crystal-water-blue.json](./172314-theogony-crystal-water-blue.json) |
 | Theology | 128956 | [128956-theology.json](./128956-theology.json) |
 | Theomachiae | 172159 | [172159-theomachiae.json](./172159-theomachiae.json) |
@@ -26929,6 +26931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torinto | 123868 | [123868-torinto.json](./123868-torinto.json) |
 | Toripon | 116971 | [116971-toripon.json](./116971-toripon.json) |
 | Torizon Telecom | 410067 | [410067-torizon-telecom.json](./410067-torizon-telecom.json) |
+| Tork: Prehistoric Punk | 6206 | [6206-tork-prehistoric-punk.json](./6206-tork-prehistoric-punk.json) |
 | Tormans | 157903 | [157903-tormans.json](./157903-tormans.json) |
 | Torment | 257751 | [257751-torment.json](./257751-torment.json) |
 | Torment Hexus | 381516 | [381516-torment-hexus.json](./381516-torment-hexus.json) |
@@ -27090,6 +27093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Chaos Against Apathy | 387453 | [387453-total-chaos-against-apathy.json](./387453-total-chaos-against-apathy.json) |
 | Total Club Manager 2003 | 6211 | [6211-total-club-manager-2003.json](./6211-total-club-manager-2003.json) |
 | Total Club Manager 2004 | 6207 | [6207-total-club-manager-2004.json](./6207-total-club-manager-2004.json) |
+| Total Club Manager 2005 | 6210 | [6210-total-club-manager-2005.json](./6210-total-club-manager-2005.json) |
 | Total Conflict: Resistance | 199677 | [199677-total-conflict-resistance.json](./199677-total-conflict-resistance.json) |
 | Total Conflict: Resistance - Eastern Airborne Forces | 304418 | [304418-total-conflict-resistance-eastern-airborne-forces.json](./304418-total-conflict-resistance-eastern-airborne-forces.json) |
 | Total Control | 256813 | [256813-total-control.json](./256813-total-control.json) |
