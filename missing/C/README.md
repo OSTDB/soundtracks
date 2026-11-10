@@ -5713,6 +5713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede X | 356282 | [356282-centipede-x.json](./356282-centipede-x.json) |
 | Centipede: Evolved | 329639 | [329639-centipede-evolved.json](./329639-centipede-evolved.json) |
 | Centipede: Infestation | 4760 | [4760-centipede-infestation.json](./4760-centipede-infestation.json) |
+| Centipede: Recharged | 166683 | [166683-centipede-recharged.json](./166683-centipede-recharged.json) |
 | Centipede: Sega Version | 398660 | [398660-centipede-sega-version.json](./398660-centipede-sega-version.json) |
 | Centipede/Breakout/Warlords | 79816 | [79816-centipede-breakout-warlords.json](./79816-centipede-breakout-warlords.json) |
 | Centipod | 14000 | [14000-centipod.json](./14000-centipod.json) |
@@ -19049,6 +19050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Medieval City War | 236522 | [236522-crowd-medieval-city-war.json](./236522-crowd-medieval-city-war.json) |
 | Crowd Run | 323304 | [323304-crowd-run.json](./323304-crowd-run.json) |
 | Crowd Sign: Emission | 190080 | [190080-crowd-sign-emission.json](./190080-crowd-sign-emission.json) |
+| Crowd Simulator | 121776 | [121776-crowd-simulator.json](./121776-crowd-simulator.json) |
 | Crowd Smashers | 29176 | [29176-crowd-smashers.json](./29176-crowd-smashers.json) |
 | Crowded Blue Dot | 168636 | [168636-crowded-blue-dot.json](./168636-crowded-blue-dot.json) |
 | Crowded Dungeon Crawler | 182993 | [182993-crowded-dungeon-crawler.json](./182993-crowded-dungeon-crawler.json) |
