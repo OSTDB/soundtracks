@@ -9029,6 +9029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Ghost: Deluxe Edition | 120546 | [120546-gravity-ghost-deluxe-edition.json](./120546-gravity-ghost-deluxe-edition.json) |
 | Gravity Golf | 180459 | [180459-gravity-golf.json](./180459-gravity-golf.json) |
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
+| Gravity Grid | 407685 | [407685-gravity-grid.json](./407685-gravity-grid.json) |
 | Gravity Grove | 409385 | [409385-gravity-grove.json](./409385-gravity-grove.json) |
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
 | Gravity Guy 2 | 64142 | [64142-gravity-guy-2.json](./64142-gravity-guy-2.json) |
@@ -9929,6 +9930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimchester Needs A Doctor | 416830 | [416830-grimchester-needs-a-doctor.json](./416830-grimchester-needs-a-doctor.json) |
 | Grimcurse | 185211 | [185211-grimcurse.json](./185211-grimcurse.json) |
 | Grimdark Survivors | 223291 | [223291-grimdark-survivors.json](./223291-grimdark-survivors.json) |
+| Grimdelve | 407609 | [407609-grimdelve.json](./407609-grimdelve.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime | 121295 | [121295-grime.json](./121295-grime.json) |
 | Grime | 260887 | [260887-grime.json](./260887-grime.json) |
