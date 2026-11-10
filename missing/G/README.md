@@ -4395,6 +4395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gibbets 2 | 343809 | [343809-gibbets-2.json](./343809-gibbets-2.json) |
 | Gibbets: Bow Master | 107581 | [107581-gibbets-bow-master.json](./107581-gibbets-bow-master.json) |
 | GibblePets | 340300 | [340300-gibblepets.json](./340300-gibblepets.json) |
+| Gibbon: Beyond the Trees | 190877 | [190877-gibbon-beyond-the-trees.json](./190877-gibbon-beyond-the-trees.json) |
 | Gibbonacci | 410992 | [410992-gibbonacci.json](./410992-gibbonacci.json) |
 | Gibbous: A Cthulhu Adventure | 18841 | [18841-gibbous-a-cthulhu-adventure.json](./18841-gibbous-a-cthulhu-adventure.json) |
 | Gibbous: A Cthulhu Adventure - Deluxe Edition | 124910 | [124910-gibbous-a-cthulhu-adventure-deluxe-edition.json](./124910-gibbous-a-cthulhu-adventure-deluxe-edition.json) |
@@ -10333,6 +10334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Big (or Go Home) | 141221 | [141221-grow-big-or-go-home.json](./141221-grow-big-or-go-home.json) |
 | Grow Cannon | 269055 | [269055-grow-cannon.json](./269055-grow-cannon.json) |
 | Grow Comeback | 106289 | [106289-grow-comeback.json](./106289-grow-comeback.json) |
+| Grow Cube | 175827 | [175827-grow-cube.json](./175827-grow-cube.json) |
 | Grow Defense | 150378 | [150378-grow-defense.json](./150378-grow-defense.json) |
 | Grow Empire: Rome | 371942 | [371942-grow-empire-rome.json](./371942-grow-empire-rome.json) |
 | Grow Flow | 189295 | [189295-grow-flow.json](./189295-grow-flow.json) |
