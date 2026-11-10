@@ -705,6 +705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Pumpkins 2 | 272777 | [272777-100-pumpkins-2.json](./272777-100-pumpkins-2.json) |
 | 100 Radioactive Cats | 379455 | [379455-100-radioactive-cats.json](./379455-100-radioactive-cats.json) |
 | 100 Ramen Cats | 376179 | [376179-100-ramen-cats.json](./376179-100-ramen-cats.json) |
+| 100 Robo Cats | 284583 | [284583-100-robo-cats.json](./284583-100-robo-cats.json) |
 | 100 Robo Cats: Extra Content | 288730 | [288730-100-robo-cats-extra-content.json](./288730-100-robo-cats-extra-content.json) |
 | 100 Rogues | 22347 | [22347-100-rogues.json](./22347-100-rogues.json) |
 | 100 Romantic Cats | 287352 | [287352-100-romantic-cats.json](./287352-100-romantic-cats.json) |
