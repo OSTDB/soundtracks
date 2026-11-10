@@ -7862,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Cars 2 | 325014 | [325014-high-cars-2.json](./325014-high-cars-2.json) |
 | High Cars 3 | 386368 | [386368-high-cars-3.json](./386368-high-cars-3.json) |
 | High Cats | 105646 | [105646-high-cats.json](./105646-high-cats.json) |
+| High clear VR | 41907 | [41907-high-clear-vr.json](./41907-high-clear-vr.json) |
 | High Clouds | 372995 | [372995-high-clouds.json](./372995-high-clouds.json) |
 | High Command: Europe 1939-'45 | 71806 | [71806-high-command-europe-1939-45.json](./71806-high-command-europe-1939-45.json) |
 | High Delivery | 397844 | [397844-high-delivery.json](./397844-high-delivery.json) |
@@ -8057,6 +8058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highrise City: Vacation Season | 312037 | [312037-highrise-city-vacation-season.json](./312037-highrise-city-vacation-season.json) |
 | Highrise Guardian | 248084 | [248084-highrise-guardian.json](./248084-highrise-guardian.json) |
 | Highrise Heroes | 241342 | [241342-highrise-heroes.json](./241342-highrise-heroes.json) |
+| Highrise Heroes: Word Challenge | 34120 | [34120-highrise-heroes-word-challenge.json](./34120-highrise-heroes-word-challenge.json) |
 | Highrollers | 235885 | [235885-highrollers.json](./235885-highrollers.json) |
 | Highschool 101 | 180927 | [180927-highschool-101.json](./180927-highschool-101.json) |
 | Highschool Girlfriend | 75756 | [75756-highschool-girlfriend.json](./75756-highschool-girlfriend.json) |
@@ -10420,6 +10422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hordes of Hunger | 244839 | [244839-hordes-of-hunger.json](./244839-hordes-of-hunger.json) |
 | Hordes of Zendar | 196461 | [196461-hordes-of-zendar.json](./196461-hordes-of-zendar.json) |
 | Hordes.io | 125365 | [125365-hordes-io.json](./125365-hordes-io.json) |
+| HordeZ | 34197 | [34197-hordez.json](./34197-hordez.json) |
 | Hordia | 415334 | [415334-hordia.json](./415334-hordia.json) |
 | Hordiaz | 107361 | [107361-hordiaz.json](./107361-hordiaz.json) |
 | Hordound | 207764 | [207764-hordound.json](./207764-hordound.json) |
