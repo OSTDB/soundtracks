@@ -1536,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncracked | 406826 | [406826-uncracked.json](./406826-uncracked.json) |
 | Uncraft Me! | 147333 | [147333-uncraft-me.json](./147333-uncraft-me.json) |
 | Uncrashed: FPV Drone Simulator | 165627 | [165627-uncrashed-fpv-drone-simulator.json](./165627-uncrashed-fpv-drone-simulator.json) |
+| Uncrewed | 32607 | [32607-uncrewed.json](./32607-uncrewed.json) |
 | Uncrossed | 122539 | [122539-uncrossed.json](./122539-uncrossed.json) |
 | Uncrowded | 26825 | [26825-uncrowded.json](./26825-uncrowded.json) |
 | Uncrowned | 214329 | [214329-uncrowned.json](./214329-uncrowned.json) |
