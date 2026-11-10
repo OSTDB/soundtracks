@@ -1217,6 +1217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sister's Journey | 183157 | [183157-a-sisters-journey.json](./183157-a-sisters-journey.json) |
 | A Sketchbook About Her Sun | 152682 | [152682-a-sketchbook-about-her-sun.json](./152682-a-sketchbook-about-her-sun.json) |
 | A Skier's Journey | 180504 | [180504-a-skiers-journey.json](./180504-a-skiers-journey.json) |
+| A Sky Full of Stars | 76033 | [76033-a-sky-full-of-stars.json](./76033-a-sky-full-of-stars.json) |
 | A Sky Full of Stars Interstellar Focus | 150590 | [150590-a-sky-full-of-stars-interstellar-focus.json](./150590-a-sky-full-of-stars-interstellar-focus.json) |
 | A Skyrocket Story | 58800 | [58800-a-skyrocket-story.json](./58800-a-skyrocket-story.json) |
 | A Sleeper's Quest: A Labyrinth to Thee | 144041 | [144041-a-sleepers-quest-a-labyrinth-to-thee.json](./144041-a-sleepers-quest-a-labyrinth-to-thee.json) |
@@ -2461,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Garou - Mark of the Wolves | 118541 | [118541-aca-neo-geo-garou-mark-of-the-wolves.json](./118541-aca-neo-geo-garou-mark-of-the-wolves.json) |
 | ACA Neo Geo: Ghost Pilots | 103851 | [103851-aca-neo-geo-ghost-pilots.json](./103851-aca-neo-geo-ghost-pilots.json) |
 | ACA Neo Geo: Gururin | 103849 | [103849-aca-neo-geo-gururin.json](./103849-aca-neo-geo-gururin.json) |
+| ACA Neo Geo: Karnov's Revenge | 76054 | [76054-aca-neo-geo-karnovs-revenge.json](./76054-aca-neo-geo-karnovs-revenge.json) |
 | ACA Neo Geo: King of the Monsters | 99492 | [99492-aca-neo-geo-king-of-the-monsters.json](./99492-aca-neo-geo-king-of-the-monsters.json) |
 | ACA Neo Geo: King of the Monsters 2 | 118569 | [118569-aca-neo-geo-king-of-the-monsters-2.json](./118569-aca-neo-geo-king-of-the-monsters-2.json) |
 | ACA Neo Geo: Kizuna Encounter | 113906 | [113906-aca-neo-geo-kizuna-encounter.json](./113906-aca-neo-geo-kizuna-encounter.json) |
@@ -2505,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Sengoku 3 | 104269 | [104269-aca-neo-geo-sengoku-3.json](./104269-aca-neo-geo-sengoku-3.json) |
 | ACA Neo Geo: Shock Troopers | 28412 | [28412-aca-neo-geo-shock-troopers.json](./28412-aca-neo-geo-shock-troopers.json) |
 | ACA Neo Geo: Shock Troopers 2nd Squad | 103847 | [103847-aca-neo-geo-shock-troopers-2nd-squad.json](./103847-aca-neo-geo-shock-troopers-2nd-squad.json) |
+| ACA Neo Geo: Soccer Brawl | 76213 | [76213-aca-neo-geo-soccer-brawl.json](./76213-aca-neo-geo-soccer-brawl.json) |
 | ACA Neo Geo: Spin Master | 67624 | [67624-aca-neo-geo-spin-master.json](./67624-aca-neo-geo-spin-master.json) |
 | ACA Neo Geo: Stakes Winner | 99167 | [99167-aca-neo-geo-stakes-winner.json](./99167-aca-neo-geo-stakes-winner.json) |
 | ACA Neo Geo: Stakes Winner 2 | 118216 | [118216-aca-neo-geo-stakes-winner-2.json](./118216-aca-neo-geo-stakes-winner-2.json) |
@@ -5709,6 +5712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey | 311362 | [311362-air-hockey.json](./311362-air-hockey.json) |
 | Air Hockey | 359301 | [359301-air-hockey.json](./359301-air-hockey.json) |
 | Air Hockey | 43934 | [43934-air-hockey.json](./43934-air-hockey.json) |
+| Air Hockey | 75995 | [75995-air-hockey.json](./75995-air-hockey.json) |
 | Air Hockey | 88618 | [88618-air-hockey.json](./88618-air-hockey.json) |
 | Air Hockey | 89804 | [89804-air-hockey.json](./89804-air-hockey.json) |
 | Air Hockey | 94114 | [94114-air-hockey.json](./94114-air-hockey.json) |
@@ -6023,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Madness 2 | 52388 | [52388-airport-madness-2.json](./52388-airport-madness-2.json) |
 | Airport Madness 3 | 52387 | [52387-airport-madness-3.json](./52387-airport-madness-3.json) |
 | Airport Madness 3D | 33481 | [33481-airport-madness-3d.json](./33481-airport-madness-3d.json) |
+| Airport Madness 3D: Volume 2 | 76351 | [76351-airport-madness-3d-volume-2.json](./76351-airport-madness-3d-volume-2.json) |
 | Airport Madness Challenge | 102506 | [102506-airport-madness-challenge.json](./102506-airport-madness-challenge.json) |
 | Airport Madness Collection | 52566 | [52566-airport-madness-collection.json](./52566-airport-madness-collection.json) |
 | Airport Madness Mobile | 106864 | [106864-airport-madness-mobile.json](./106864-airport-madness-mobile.json) |
@@ -17575,6 +17580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17863,6 +17869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Alien Robot Monsters | 114745 | [114745-attack-of-the-alien-robot-monsters.json](./114745-attack-of-the-alien-robot-monsters.json) |
 | Attack of the alien thingies from lava! | 129617 | [129617-attack-of-the-alien-thingies-from-lava.json](./129617-attack-of-the-alien-thingies-from-lava.json) |
 | Attack of the Astrals | 384306 | [384306-attack-of-the-astrals.json](./384306-attack-of-the-astrals.json) |
+| Attack of the Bugs | 76051 | [76051-attack-of-the-bugs.json](./76051-attack-of-the-bugs.json) |
 | Attack of the Creepers | 421402 | [421402-attack-of-the-creepers.json](./421402-attack-of-the-creepers.json) |
 | Attack of the Creeps | 72054 | [72054-attack-of-the-creeps.json](./72054-attack-of-the-creeps.json) |
 | Attack of the Dead | 299026 | [299026-attack-of-the-dead.json](./299026-attack-of-the-dead.json) |
