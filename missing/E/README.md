@@ -735,6 +735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Crush | 401114 | [401114-ecchi-crush.json](./401114-ecchi-crush.json) |
 | Ecchi Dream Bundle | 385135 | [385135-ecchi-dream-bundle.json](./385135-ecchi-dream-bundle.json) |
 | Ecchi Fever | 320449 | [320449-ecchi-fever.json](./320449-ecchi-fever.json) |
+| Ecchi Girls | 114518 | [114518-ecchi-girls.json](./114518-ecchi-girls.json) |
 | Ecchi Jack | 169389 | [169389-ecchi-jack.json](./169389-ecchi-jack.json) |
 | Ecchi Memories | 315829 | [315829-ecchi-memories.json](./315829-ecchi-memories.json) |
 | Ecchi Memories: Cassie & Maud | 316208 | [316208-ecchi-memories-cassie-and-maud.json](./316208-ecchi-memories-cassie-and-maud.json) |
@@ -2847,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elly's Cake Cafe | 167549 | [167549-ellys-cake-cafe.json](./167549-ellys-cake-cafe.json) |
 | Elm Knight: A Living Body Armor | 91762 | [91762-elm-knight-a-living-body-armor.json](./91762-elm-knight-a-living-body-armor.json) |
 | Elman España: Anarchy | 121364 | [121364-elman-espana-anarchy.json](./121364-elman-espana-anarchy.json) |
+| Elmarion: Dragon time | 123523 | [123523-elmarion-dragon-time.json](./123523-elmarion-dragon-time.json) |
 | Elmarion: Dragon's Princess | 149791 | [149791-elmarion-dragons-princess.json](./149791-elmarion-dragons-princess.json) |
 | Elmarion: The Lost Temple | 149894 | [149894-elmarion-the-lost-temple.json](./149894-elmarion-the-lost-temple.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
@@ -8482,6 +8484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extase | 94197 | [94197-extase.json](./94197-extase.json) |
 | Exteel | 77809 | [77809-exteel.json](./77809-exteel.json) |
 | Extellatchi | 230068 | [230068-extellatchi.json](./230068-extellatchi.json) |
+| Exteme School Driving Simulator | 114554 | [114554-exteme-school-driving-simulator.json](./114554-exteme-school-driving-simulator.json) |
 | Extended Stay | 158401 | [158401-extended-stay.json](./158401-extended-stay.json) |
 | Extensor | 85951 | [85951-extensor.json](./85951-extensor.json) |
 | Exteria | 31056 | [31056-exteria.json](./31056-exteria.json) |
@@ -8697,6 +8700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Tennis | 196385 | [196385-extreme-tennis.json](./196385-extreme-tennis.json) |
 | Extreme Tennis | 23134 | [23134-extreme-tennis.json](./23134-extreme-tennis.json) |
 | Extreme Truck Parking Simulator Game | 252321 | [252321-extreme-truck-parking-simulator-game.json](./252321-extreme-truck-parking-simulator-game.json) |
+| Extreme Truck Simulator | 114510 | [114510-extreme-truck-simulator.json](./114510-extreme-truck-simulator.json) |
 | Extreme Truck Stunts | 219403 | [219403-extreme-truck-stunts.json](./219403-extreme-truck-stunts.json) |
 | Extreme Trucks Simulator | 129515 | [129515-extreme-trucks-simulator.json](./129515-extreme-trucks-simulator.json) |
 | Extreme Tux Racer | 51248 | [51248-extreme-tux-racer.json](./51248-extreme-tux-racer.json) |
