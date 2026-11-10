@@ -6584,6 +6584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below Nowhere | 343824 | [343824-below-nowhere.json](./343824-below-nowhere.json) |
 | Below Sunshade | 123844 | [123844-below-sunshade.json](./123844-below-sunshade.json) |
 | Below Surface | 298110 | [298110-below-surface.json](./298110-below-surface.json) |
+| Below the Ashes | 424302 | [424302-below-the-ashes.json](./424302-below-the-ashes.json) |
 | Below the Crown | 363946 | [363946-below-the-crown.json](./363946-below-the-crown.json) |
 | Below the Oak | 323584 | [323584-below-the-oak.json](./323584-below-the-oak.json) |
 | Below the Ocean | 173312 | [173312-below-the-ocean.json](./173312-below-the-ocean.json) |
@@ -8743,6 +8744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bipo's Adventure | 183018 | [183018-bipos-adventure.json](./183018-bipos-adventure.json) |
 | Bipolar Game | 32975 | [32975-bipolar-game.json](./32975-bipolar-game.json) |
 | Bipolar: The Tube | 327671 | [327671-bipolar-the-tube.json](./327671-bipolar-the-tube.json) |
+| Bippo Bot | 424277 | [424277-bippo-bot.json](./424277-bippo-bot.json) |
 | Bipt | 338239 | [338239-bipt.json](./338239-bipt.json) |
 | Bir Garip Diyar: Hatunum Nerede? | 346932 | [346932-bir-garip-diyar-hatunum-nerede.json](./346932-bir-garip-diyar-hatunum-nerede.json) |
 | Biraku Emblem | 222710 | [222710-biraku-emblem.json](./222710-biraku-emblem.json) |
@@ -11957,6 +11959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom | 263568 | [263568-bloom.json](./263568-bloom.json) |
 | Bloom | 380031 | [380031-bloom.json](./380031-bloom.json) |
 | Bloom | 60555 | [60555-bloom.json](./60555-bloom.json) |
+| Bloom & Dine | 424286 | [424286-bloom-and-dine.json](./424286-bloom-and-dine.json) |
 | Bloom Again | 408260 | [408260-bloom-again.json](./408260-bloom-again.json) |
 | Bloom Barrage | 240206 | [240206-bloom-barrage.json](./240206-bloom-barrage.json) |
 | Bloom Blast | 392809 | [392809-bloom-blast.json](./392809-bloom-blast.json) |
@@ -17743,6 +17746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Invaders | 82398 | [82398-bug-invaders.json](./82398-bug-invaders.json) |
 | Bug Killers | 51958 | [51958-bug-killers.json](./51958-bug-killers.json) |
 | Bug Mania | 140985 | [140985-bug-mania.json](./140985-bug-mania.json) |
+| Bug Match | 424260 | [424260-bug-match.json](./424260-bug-match.json) |
 | Bug N Out | 32962 | [32962-bug-n-out.json](./32962-bug-n-out.json) |
 | Bug Off | 348557 | [348557-bug-off.json](./348557-bug-off.json) |
 | Bug Off! | 55884 | [55884-bug-off.json](./55884-bug-off.json) |
