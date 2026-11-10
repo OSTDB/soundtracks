@@ -8091,6 +8091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy the Shogun | 167520 | [167520-destroy-the-shogun.json](./167520-destroy-the-shogun.json) |
 | Destroy The Universe: Solar Mayhem | 411813 | [411813-destroy-the-universe-solar-mayhem.json](./411813-destroy-the-universe-solar-mayhem.json) |
 | Destroy the Wall | 250938 | [250938-destroy-the-wall.json](./250938-destroy-the-wall.json) |
+| Destroy the World | 114900 | [114900-destroy-the-world.json](./114900-destroy-the-world.json) |
 | Destroy the World Bundle | 308634 | [308634-destroy-the-world-bundle.json](./308634-destroy-the-world-bundle.json) |
 | Destroy Them! | 291263 | [291263-destroy-them.json](./291263-destroy-them.json) |
 | Destroy Your Home | 333531 | [333531-destroy-your-home.json](./333531-destroy-your-home.json) |
@@ -15209,6 +15210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: College Basketball 2025 | 336058 | [336058-draft-day-sports-college-basketball-2025.json](./336058-draft-day-sports-college-basketball-2025.json) |
 | Draft Day Sports: College Basketball 26 | 393740 | [393740-draft-day-sports-college-basketball-26.json](./393740-draft-day-sports-college-basketball-26.json) |
 | Draft Day Sports: College Football 2018 | 104947 | [104947-draft-day-sports-college-football-2018.json](./104947-draft-day-sports-college-football-2018.json) |
+| Draft Day Sports: College Football 2019 | 114572 | [114572-draft-day-sports-college-football-2019.json](./114572-draft-day-sports-college-football-2019.json) |
 | Draft Day Sports: College Football 2020 | 128974 | [128974-draft-day-sports-college-football-2020.json](./128974-draft-day-sports-college-football-2020.json) |
 | Draft Day Sports: College Football 2021 | 137267 | [137267-draft-day-sports-college-football-2021.json](./137267-draft-day-sports-college-football-2021.json) |
 | Draft Day Sports: College Football 2022 | 191527 | [191527-draft-day-sports-college-football-2022.json](./191527-draft-day-sports-college-football-2022.json) |
@@ -18054,6 +18056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drum Studio | 98824 | [98824-drum-studio.json](./98824-drum-studio.json) |
 | Drum'n'Bass Massacre | 167483 | [167483-drumnbass-massacre.json](./167483-drumnbass-massacre.json) |
 | Drumbeat Quest | 174229 | [174229-drumbeat-quest.json](./174229-drumbeat-quest.json) |
+| DrumBeats VR | 114557 | [114557-drumbeats-vr.json](./114557-drumbeats-vr.json) |
 | Drumblox | 267313 | [267313-drumblox.json](./267313-drumblox.json) |
 | Drumguy | 329050 | [329050-drumguy.json](./329050-drumguy.json) |
 | DruMidia | 159954 | [159954-drumidia.json](./159954-drumidia.json) |
