@@ -1844,6 +1844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramparts | 40942 | [40942-ramparts.json](./40942-ramparts.json) |
 | Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
 | Rampo | 63409 | [63409-rampo.json](./63409-rampo.json) |
+| Ramps | 416889 | [416889-ramps.json](./416889-ramps.json) |
 | Rams | 108648 | [108648-rams.json](./108648-rams.json) |
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
 | RamsaySnap | 299327 | [299327-ramsaysnap.json](./299327-ramsaysnap.json) |
@@ -2276,6 +2277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratking | 271600 | [271600-ratking.json](./271600-ratking.json) |
 | Ratman | 230090 | [230090-ratman.json](./230090-ratman.json) |
 | Ratman! | 321612 | [321612-ratman.json](./321612-ratman.json) |
+| Ratmaze Nightmare | 416891 | [416891-ratmaze-nightmare.json](./416891-ratmaze-nightmare.json) |
 | Ratocalypse | 381137 | [381137-ratocalypse.json](./381137-ratocalypse.json) |
 | Ratocalypse | 381543 | [381543-ratocalypse.json](./381543-ratocalypse.json) |
 | Ratomon | 151041 | [151041-ratomon.json](./151041-ratomon.json) |
@@ -5919,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Crossfire | 316285 | [316285-resident-evil-crossfire.json](./316285-resident-evil-crossfire.json) |
 | Resident Evil Demake | 281816 | [281816-resident-evil-demake.json](./281816-resident-evil-demake.json) |
 | Resident Evil Gaiden | 969 | [969-resident-evil-gaiden.json](./969-resident-evil-gaiden.json) |
+| Resident Evil Gaiden: Recompiled | 416787 | [416787-resident-evil-gaiden-recompiled.json](./416787-resident-evil-gaiden-recompiled.json) |
 | Resident Evil Mercenaries Vs. | 77341 | [77341-resident-evil-mercenaries-vs.json](./77341-resident-evil-mercenaries-vs.json) |
 | Resident Evil Outbreak | 972 | [972-resident-evil-outbreak.json](./972-resident-evil-outbreak.json) |
 | Resident Evil Outbreak File #2 | 973 | [973-resident-evil-outbreak-file-2.json](./973-resident-evil-outbreak-file-2.json) |
