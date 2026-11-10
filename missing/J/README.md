@@ -2633,6 +2633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Turbo's Arcade: Joe and Mac Caveman Ninja | 103106 | [103106-johnny-turbos-arcade-joe-and-mac-caveman-ninja.json](./103106-johnny-turbos-arcade-joe-and-mac-caveman-ninja.json) |
 | Johnny Turbo's Arcade: Joe and Mac Returns | 146860 | [146860-johnny-turbos-arcade-joe-and-mac-returns.json](./146860-johnny-turbos-arcade-joe-and-mac-returns.json) |
 | Johnny Turbo's Arcade: Night Slashers | 111915 | [111915-johnny-turbos-arcade-night-slashers.json](./111915-johnny-turbos-arcade-night-slashers.json) |
+| Johnny Turbo's Arcade: Nitro Ball | 106354 | [106354-johnny-turbos-arcade-nitro-ball.json](./106354-johnny-turbos-arcade-nitro-ball.json) |
 | Johnny Turbo's Arcade: Shoot Out | 105889 | [105889-johnny-turbos-arcade-shoot-out.json](./105889-johnny-turbos-arcade-shoot-out.json) |
 | Johnny Turbo's Arcade: Sly Spy | 100310 | [100310-johnny-turbos-arcade-sly-spy.json](./100310-johnny-turbos-arcade-sly-spy.json) |
 | Johnny Turbo's Arcade: Super Burger Time | 102307 | [102307-johnny-turbos-arcade-super-burger-time.json](./102307-johnny-turbos-arcade-super-burger-time.json) |
@@ -4344,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Puzzles: Water | 417715 | [417715-just-puzzles-water.json](./417715-just-puzzles-water.json) |
 | Just Random Squares | 120394 | [120394-just-random-squares.json](./120394-just-random-squares.json) |
 | Just Read the Instructions | 149208 | [149208-just-read-the-instructions.json](./149208-just-read-the-instructions.json) |
+| Just Ride | 105260 | [105260-just-ride.json](./105260-just-ride.json) |
 | Just Roll | 285689 | [285689-just-roll.json](./285689-just-roll.json) |
 | Just Roll With It | 112763 | [112763-just-roll-with-it.json](./112763-just-roll-with-it.json) |
 | Just Run! | 102141 | [102141-just-run.json](./102141-just-run.json) |
