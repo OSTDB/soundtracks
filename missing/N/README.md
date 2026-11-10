@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 98 | 217742 | [217742-nba-live-98.json](./217742-nba-live-98.json) |
 | NBA Live 99 | 811 | [811-nba-live-99.json](./811-nba-live-99.json) |
 | NBA Live Mobile | 36874 | [36874-nba-live-mobile.json](./36874-nba-live-mobile.json) |
+| NBA Live Mobile Basketball | 87037 | [87037-nba-live-mobile-basketball.json](./87037-nba-live-mobile-basketball.json) |
 | NBA Maximum Hangtime | 39596 | [39596-nba-maximum-hangtime.json](./39596-nba-maximum-hangtime.json) |
 | NBA Now | 303807 | [303807-nba-now.json](./303807-nba-now.json) |
 | NBA Now 22 | 303806 | [303806-nba-now-22.json](./303806-nba-now-22.json) |
@@ -4936,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights: Realm of Dreams | 321817 | [321817-nights-realm-of-dreams.json](./321817-nights-realm-of-dreams.json) |
 | Nightscape | 252634 | [252634-nightscape.json](./252634-nightscape.json) |
 | Nightscape City | 277740 | [277740-nightscape-city.json](./277740-nightscape-city.json) |
+| Nightshade | 10224 | [10224-nightshade.json](./10224-nightshade.json) |
 | Nightshade | 26225 | [26225-nightshade.json](./26225-nightshade.json) |
 | Nightshade | 31764 | [31764-nightshade.json](./31764-nightshade.json) |
 | Nightshade | 39119 | [39119-nightshade.json](./39119-nightshade.json) |
@@ -5125,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nimble Strong | 256237 | [256237-nimble-strong.json](./256237-nimble-strong.json) |
 | Nimblefoot | 243527 | [243527-nimblefoot.json](./243527-nimblefoot.json) |
 | Nimbus | 238883 | [238883-nimbus.json](./238883-nimbus.json) |
+| Nimbus | 9561 | [9561-nimbus.json](./9561-nimbus.json) |
 | Nimby Rails | 132749 | [132749-nimby-rails.json](./132749-nimby-rails.json) |
 | Nimian Legends: BrightRidge | 89183 | [89183-nimian-legends-brightridge.json](./89183-nimian-legends-brightridge.json) |
 | Nimillion: The Last Expedition | 296478 | [296478-nimillion-the-last-expedition.json](./296478-nimillion-the-last-expedition.json) |
