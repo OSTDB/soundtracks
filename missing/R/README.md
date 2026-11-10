@@ -4640,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflection Witch | 272257 | [272257-reflection-witch.json](./272257-reflection-witch.json) |
 | Reflection: Puzzle Game | 88170 | [88170-reflection-puzzle-game.json](./88170-reflection-puzzle-game.json) |
 | Reflection: The Greed | 211712 | [211712-reflection-the-greed.json](./211712-reflection-the-greed.json) |
+| Reflections | 22506 | [22506-reflections.json](./22506-reflections.json) |
 | Reflections in Amber | 399672 | [399672-reflections-in-amber.json](./399672-reflections-in-amber.json) |
 | Reflections Life: Equilibrium | 106451 | [106451-reflections-life-equilibrium.json](./106451-reflections-life-equilibrium.json) |
 | Reflections of Life: A Shattered Heart | 416532 | [416532-reflections-of-life-a-shattered-heart.json](./416532-reflections-of-life-a-shattered-heart.json) |
@@ -7270,6 +7271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythmic Gymnastics Dream Team: Girls Dance | 103107 | [103107-rhythmic-gymnastics-dream-team-girls-dance.json](./103107-rhythmic-gymnastics-dream-team-girls-dance.json) |
 | Rhythmic Keyboard | 199692 | [199692-rhythmic-keyboard.json](./199692-rhythmic-keyboard.json) |
 | Rhythmic Retro Racer | 129664 | [129664-rhythmic-retro-racer.json](./129664-rhythmic-retro-racer.json) |
+| Rhythmic Star | 22596 | [22596-rhythmic-star.json](./22596-rhythmic-star.json) |
 | Rhythmic Star! | 43468 | [43468-rhythmic-star.json](./43468-rhythmic-star.json) |
 | Rhythmica | 74223 | [74223-rhythmica.json](./74223-rhythmica.json) |
 | RhythmicTypeX | 279152 | [279152-rhythmictypex.json](./279152-rhythmictypex.json) |
@@ -10829,6 +10831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Ball 6 | 196287 | [196287-roller-ball-6.json](./196287-roller-ball-6.json) |
 | Roller Ball Adventure | 220820 | [220820-roller-ball-adventure.json](./220820-roller-ball-adventure.json) |
 | Roller Champions | 119158 | [119158-roller-champions.json](./119158-roller-champions.json) |
+| Roller Coaster | 22523 | [22523-roller-coaster.json](./22523-roller-coaster.json) |
 | Roller Coaster | 363625 | [363625-roller-coaster.json](./363625-roller-coaster.json) |
 | Roller Coaster 3D | 88492 | [88492-roller-coaster-3d.json](./88492-roller-coaster-3d.json) |
 | Roller Coaster Apocalypse VR | 96876 | [96876-roller-coaster-apocalypse-vr.json](./96876-roller-coaster-apocalypse-vr.json) |
