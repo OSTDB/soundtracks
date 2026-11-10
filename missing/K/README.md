@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-Tora USA | 307112 | [307112-k-tora-usa.json](./307112-k-tora-usa.json) |
 | K!ll All Litterbugs | 302909 | [302909-k-ll-all-litterbugs.json](./302909-k-ll-all-litterbugs.json) |
 | K. Hawk: Survival Instinct | 93199 | [93199-k-hawk-survival-instinct.json](./93199-k-hawk-survival-instinct.json) |
+| K.C. Climber | 399548 | [399548-k-c-climber.json](./399548-k-c-climber.json) |
 | K.C. Munchkin! | 18738 | [18738-k-c-munchkin.json](./18738-k-c-munchkin.json) |
 | K.C.'s Crazy Nightmare! | 40730 | [40730-k-c-s-crazy-nightmare.json](./40730-k-c-s-crazy-nightmare.json) |
 | K.C.'s Krazy Chase! | 18768 | [18768-k-c-s-krazy-chase.json](./18768-k-c-s-krazy-chase.json) |
@@ -1678,6 +1679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keepers Of The Lost Arts | 285465 | [285465-keepers-of-the-lost-arts.json](./285465-keepers-of-the-lost-arts.json) |
 | Keepers of the Trees | 169736 | [169736-keepers-of-the-trees.json](./169736-keepers-of-the-trees.json) |
 | Keepers of Vyrellia | 383332 | [383332-keepers-of-vyrellia.json](./383332-keepers-of-vyrellia.json) |
+| Keepers: Fractured Realities | 399398 | [399398-keepers-fractured-realities.json](./399398-keepers-fractured-realities.json) |
 | Keeping It Shrimple | 236544 | [236544-keeping-it-shrimple.json](./236544-keeping-it-shrimple.json) |
 | Keeping You Close | 419320 | [419320-keeping-you-close.json](./419320-keeping-you-close.json) |
 | Keeplanet | 83967 | [83967-keeplanet.json](./83967-keeplanet.json) |
@@ -2960,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
