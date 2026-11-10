@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.G.L: Elephant Gay League | 243852 | [243852-e-g-l-elephant-gay-league.json](./243852-e-g-l-elephant-gay-league.json) |
 | E.R. Mania | 91748 | [91748-e-r-mania.json](./91748-e-r-mania.json) |
 | E.R.: The Game | 19857 | [19857-e-r-the-game.json](./19857-e-r-the-game.json) |
+| E.S.O: Don't Forget | 398069 | [398069-e-s-o-dont-forget.json](./398069-e-s-o-dont-forget.json) |
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
 | E.S.S. Mega | 84246 | [84246-e-s-s-mega.json](./84246-e-s-s-mega.json) |
 | E.T. Book Cart | 91493 | [91493-e-t-book-cart.json](./91493-e-t-book-cart.json) |
@@ -2060,6 +2061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Shaddai for Android Vol. 1 | 63592 | [63592-el-shaddai-for-android-vol-1.json](./63592-el-shaddai-for-android-vol-1.json) |
 | El Shaddai: Ascension of the Metatron | 212311 | [212311-el-shaddai-ascension-of-the-metatron.json](./212311-el-shaddai-ascension-of-the-metatron.json) |
 | El Shaddai: Ascension of the Metatron | 6987 | [6987-el-shaddai-ascension-of-the-metatron.json](./6987-el-shaddai-ascension-of-the-metatron.json) |
+| El Shaddai: Zero Nine Reversi | 398072 | [398072-el-shaddai-zero-nine-reversi.json](./398072-el-shaddai-zero-nine-reversi.json) |
 | El Silla | 139288 | [139288-el-silla.json](./139288-el-silla.json) |
 | El Silla: Arcade Edition | 114182 | [114182-el-silla-arcade-edition.json](./114182-el-silla-arcade-edition.json) |
 | El Sorrado Speedway | 307402 | [307402-el-sorrado-speedway.json](./307402-el-sorrado-speedway.json) |
