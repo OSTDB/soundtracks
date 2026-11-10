@@ -6463,6 +6463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Memento | 418251 | [418251-eternal-memento.json](./418251-eternal-memento.json) |
 | Eternal Memory for a Poltergeist | 134841 | [134841-eternal-memory-for-a-poltergeist.json](./134841-eternal-memory-for-a-poltergeist.json) |
 | Eternal Night | 192710 | [192710-eternal-night.json](./192710-eternal-night.json) |
+| Eternal Night | 406410 | [406410-eternal-night.json](./406410-eternal-night.json) |
 | Eternal Night Glory | 326253 | [326253-eternal-night-glory.json](./326253-eternal-night-glory.json) |
 | Eternal Night Metro | 348222 | [348222-eternal-night-metro.json](./348222-eternal-night-metro.json) |
 | Eternal Night Town | 339802 | [339802-eternal-night-town.json](./339802-eternal-night-town.json) |
@@ -8109,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Loops: Street 001 | 343058 | [343058-exit-loops-street-001.json](./343058-exit-loops-street-001.json) |
 | Exit Mask | 183354 | [183354-exit-mask.json](./183354-exit-mask.json) |
 | Exit of Truth! 40 Masterpiece Quiz | 386189 | [386189-exit-of-truth-40-masterpiece-quiz.json](./386189-exit-of-truth-40-masterpiece-quiz.json) |
+| Exit Only | 406412 | [406412-exit-only.json](./406412-exit-only.json) |
 | Exit Path 2 | 213282 | [213282-exit-path-2.json](./213282-exit-path-2.json) |
 | Exit Plan | 391229 | [391229-exit-plan.json](./391229-exit-plan.json) |
 | Exit Plan b | 364515 | [364515-exit-plan-b.json](./364515-exit-plan-b.json) |
@@ -8425,6 +8427,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
 | Experimental Game Pack 01 | 62139 | [62139-experimental-game-pack-01.json](./62139-experimental-game-pack-01.json) |
 | Experimental Game Pack 01 | 80612 | [80612-experimental-game-pack-01.json](./80612-experimental-game-pack-01.json) |
+| Experimental Shooter | 406406 | [406406-experimental-shooter.json](./406406-experimental-shooter.json) |
+| Experimental Shooter 2 | 406407 | [406407-experimental-shooter-2.json](./406407-experimental-shooter-2.json) |
 | Experimentation | 260274 | [260274-experimentation.json](./260274-experimentation.json) |
 | Expert | 43796 | [43796-expert.json](./43796-expert.json) |
 | Expert Chess | 93361 | [93361-expert-chess.json](./93361-expert-chess.json) |
