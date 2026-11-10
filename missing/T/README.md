@@ -8675,6 +8675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demon Wants to Marry the Princess or Lose Her at Poker | 425979 | [425979-the-demon-wants-to-marry-the-princess-or-lose-her-at-poker.json](./425979-the-demon-wants-to-marry-the-princess-or-lose-her-at-poker.json) |
 | The Demon Within Me | 221194 | [221194-the-demon-within-me.json](./221194-the-demon-within-me.json) |
 | The Demon's Apple: Otome Game | 374389 | [374389-the-demons-apple-otome-game.json](./374389-the-demons-apple-otome-game.json) |
+| The Demon's Core | 408448 | [408448-the-demons-core.json](./408448-the-demons-core.json) |
 | The Demon's Exorcism | 296472 | [296472-the-demons-exorcism.json](./296472-the-demons-exorcism.json) |
 | The Demon's Forge | 24887 | [24887-the-demons-forge.json](./24887-the-demons-forge.json) |
 | The Demon's Room | 330580 | [330580-the-demons-room.json](./330580-the-demons-room.json) |
@@ -24486,6 +24487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinkertown | 133078 | [133078-tinkertown.json](./133078-tinkertown.json) |
 | Tinkertown x Among Us | 222931 | [222931-tinkertown-x-among-us.json](./222931-tinkertown-x-among-us.json) |
 | Tinkle Pit | 59666 | [59666-tinkle-pit.json](./59666-tinkle-pit.json) |
+| Tinkle: Zenimusume | 408508 | [408508-tinkle-zenimusume.json](./408508-tinkle-zenimusume.json) |
 | Tinkr Garage | 110452 | [110452-tinkr-garage.json](./110452-tinkr-garage.json) |
 | Tinny Strays | 409507 | [409507-tinny-strays.json](./409507-tinny-strays.json) |
 | Tino's Fruit Stand | 327254 | [327254-tinos-fruit-stand.json](./327254-tinos-fruit-stand.json) |
@@ -28817,6 +28819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Gun Office Simulator | 108433 | [108433-toy-gun-office-simulator.json](./108433-toy-gun-office-simulator.json) |
 | Toy Home: Second Gear Pack | 328393 | [328393-toy-home-second-gear-pack.json](./328393-toy-home-second-gear-pack.json) |
 | Toy Hunter | 138498 | [138498-toy-hunter.json](./138498-toy-hunter.json) |
+| Toy Keeper | 408560 | [408560-toy-keeper.json](./408560-toy-keeper.json) |
 | Toy Kingdom | 246369 | [246369-toy-kingdom.json](./246369-toy-kingdom.json) |
 | Toy Kingdom 2 | 185837 | [185837-toy-kingdom-2.json](./185837-toy-kingdom-2.json) |
 | Toy Kingdom 3 | 189897 | [189897-toy-kingdom-3.json](./189897-toy-kingdom-3.json) |
@@ -32072,6 +32075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trees Adventure | 398044 | [398044-trees-adventure.json](./398044-trees-adventure.json) |
 | Trees and Jellyfish | 338610 | [338610-trees-and-jellyfish.json](./338610-trees-and-jellyfish.json) |
 | Trees Hate You | 382400 | [382400-trees-hate-you.json](./382400-trees-hate-you.json) |
+| Trees Inc | 408460 | [408460-trees-inc.json](./408460-trees-inc.json) |
 | TreeTale | 347347 | [347347-treetale.json](./347347-treetale.json) |
 | Treetopians | 380978 | [380978-treetopians.json](./380978-treetopians.json) |
 | Treeverse | 336064 | [336064-treeverse.json](./336064-treeverse.json) |
