@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Wars Splash | 183560 | [183560-waifu-wars-splash.json](./183560-waifu-wars-splash.json) |
 | Waifu Wave Defenders | 352238 | [352238-waifu-wave-defenders.json](./352238-waifu-wave-defenders.json) |
 | Waifu's Spooky Space Station | 143651 | [143651-waifus-spooky-space-station.json](./143651-waifus-spooky-space-station.json) |
+| Waifus Achievement Clicker | 417232 | [417232-waifus-achievement-clicker.json](./417232-waifus-achievement-clicker.json) |
 | Waifus Smash | 163018 | [163018-waifus-smash.json](./163018-waifus-smash.json) |
 | Waifusitter | 338554 | [338554-waifusitter.json](./338554-waifusitter.json) |
 | Wail | 348791 | [348791-wail.json](./348791-wail.json) |
@@ -2077,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarriOrb | 86609 | [86609-warriorb.json](./86609-warriorb.json) |
 | Warriorlock | 180093 | [180093-warriorlock.json](./180093-warriorlock.json) |
 | Warriors | 377151 | [377151-warriors.json](./377151-warriors.json) |
+| Warriors | 417157 | [417157-warriors.json](./417157-warriors.json) |
 | Warriors & Castles | 35200 | [35200-warriors-and-castles.json](./35200-warriors-and-castles.json) |
 | Warriors & Mages | 173270 | [173270-warriors-and-mages.json](./173270-warriors-and-mages.json) |
 | Warriors All-Stars: Treasure Box | 212334 | [212334-warriors-all-stars-treasure-box.json](./212334-warriors-all-stars-treasure-box.json) |
@@ -3210,6 +3212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weaving Tides | 118076 | [118076-weaving-tides.json](./118076-weaving-tides.json) |
 | Web City 1 | 82834 | [82834-web-city-1.json](./82834-web-city-1.json) |
 | Web Crawlies | 236523 | [236523-web-crawlies.json](./236523-web-crawlies.json) |
+| Web Dashers | 417220 | [417220-web-dashers.json](./417220-web-dashers.json) |
 | Web Digger | 359468 | [359468-web-digger.json](./359468-web-digger.json) |
 | Web Dimension | 172034 | [172034-web-dimension.json](./172034-web-dimension.json) |
 | Web Earth Online | 392155 | [392155-web-earth-online.json](./392155-web-earth-online.json) |
@@ -6150,6 +6153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of the Universe | 216838 | [216838-wings-of-the-universe.json](./216838-wings-of-the-universe.json) |
 | Wings of Vi 2: Guardian's Heart | 382743 | [382743-wings-of-vi-2-guardians-heart.json](./382743-wings-of-vi-2-guardians-heart.json) |
 | Wings of Virtus | 112772 | [112772-wings-of-virtus.json](./112772-wings-of-virtus.json) |
+| Wings of War | 417156 | [417156-wings-of-war.json](./417156-wings-of-war.json) |
 | Wings of War | 6235 | [6235-wings-of-war.json](./6235-wings-of-war.json) |
 | Wings of War: Famous Aces | 53045 | [53045-wings-of-war-famous-aces.json](./53045-wings-of-war-famous-aces.json) |
 | Wings of War: Modern Warplanes | 182060 | [182060-wings-of-war-modern-warplanes.json](./182060-wings-of-war-modern-warplanes.json) |
