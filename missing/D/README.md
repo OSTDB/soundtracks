@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Hobby | 187732 | [187732-dangerous-hobby.json](./187732-dangerous-hobby.json) |
 | Dangerous Ivan | 262462 | [262462-dangerous-ivan.json](./262462-dangerous-ivan.json) |
 | Dangerous Land | 303096 | [303096-dangerous-land.json](./303096-dangerous-land.json) |
+| Dangerous Lands | 108669 | [108669-dangerous-lands.json](./108669-dangerous-lands.json) |
 | Dangerous Lands | 344583 | [344583-dangerous-lands.json](./344583-dangerous-lands.json) |
 | Dangerous Lands 2 | 161204 | [161204-dangerous-lands-2.json](./161204-dangerous-lands-2.json) |
 | Dangerous Level | 82348 | [82348-dangerous-level.json](./82348-dangerous-level.json) |
@@ -4470,6 +4471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Venom: SA | 393881 | [393881-deadly-venom-sa.json](./393881-deadly-venom-sa.json) |
 | Deadly Voltage: Rise of the Invincible | 52866 | [52866-deadly-voltage-rise-of-the-invincible.json](./52866-deadly-voltage-rise-of-the-invincible.json) |
 | Deadly Way | 151004 | [151004-deadly-way.json](./151004-deadly-way.json) |
+| Deadly Wheels | 108038 | [108038-deadly-wheels.json](./108038-deadly-wheels.json) |
 | Deadman Diaries | 197848 | [197848-deadman-diaries.json](./197848-deadman-diaries.json) |
 | Deadnaut | 51755 | [51755-deadnaut.json](./51755-deadnaut.json) |
 | Deadnaut: Signal Lost | 207677 | [207677-deadnaut-signal-lost.json](./207677-deadnaut-signal-lost.json) |
@@ -5826,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepStorm Online | 197121 | [197121-deepstorm-online.json](./197121-deepstorm-online.json) |
 | DeepTrouble | 57629 | [57629-deeptrouble.json](./57629-deeptrouble.json) |
 | Deepward | 410958 | [410958-deepward.json](./410958-deepward.json) |
+| DeepWeb | 109305 | [109305-deepweb.json](./109305-deepweb.json) |
 | DeepWeb Simulator | 291448 | [291448-deepweb-simulator.json](./291448-deepweb-simulator.json) |
 | Deepworld | 35979 | [35979-deepworld.json](./35979-deepworld.json) |
 | Deepy | 325023 | [325023-deepy.json](./325023-deepy.json) |
@@ -7791,6 +7794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Tourney World | 282011 | [282011-desktop-tourney-world.json](./282011-desktop-tourney-world.json) |
 | Desktop Tower Defense | 21189 | [21189-desktop-tower-defense.json](./21189-desktop-tower-defense.json) |
 | Desktop Town | 372681 | [372681-desktop-town.json](./372681-desktop-town.json) |
+| Desktop Tree | 108408 | [108408-desktop-tree.json](./108408-desktop-tree.json) |
 | Desktop Volleyball | 147834 | [147834-desktop-volleyball.json](./147834-desktop-volleyball.json) |
 | Desktop Waifu | 350870 | [350870-desktop-waifu.json](./350870-desktop-waifu.json) |
 | Desktop Waifu | 377572 | [377572-desktop-waifu.json](./377572-desktop-waifu.json) |
@@ -19056,6 +19060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dot Ruby | 235955 | [235955-dungeon-dot-ruby.json](./235955-dungeon-dot-ruby.json) |
 | Dungeon Drafters | 133810 | [133810-dungeon-drafters.json](./133810-dungeon-drafters.json) |
 | Dungeon Drawlers | 398575 | [398575-dungeon-drawlers.json](./398575-dungeon-drawlers.json) |
+| Dungeon Dreams | 108841 | [108841-dungeon-dreams.json](./108841-dungeon-dreams.json) |
 | Dungeon Dreams (Female Protagonist) | 126752 | [126752-dungeon-dreams-female-protagonist.json](./126752-dungeon-dreams-female-protagonist.json) |
 | Dungeon Dreams 2 | 217296 | [217296-dungeon-dreams-2.json](./217296-dungeon-dreams-2.json) |
 | Dungeon Dreams Wanderers | 373997 | [373997-dungeon-dreams-wanderers.json](./373997-dungeon-dreams-wanderers.json) |
