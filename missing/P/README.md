@@ -1594,10 +1594,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Cheeseria To Go! | 265876 | [265876-papas-cheeseria-to-go.json](./265876-papas-cheeseria-to-go.json) |
 | Papa's Cluckeria to Go! | 191334 | [191334-papas-cluckeria-to-go.json](./191334-papas-cluckeria-to-go.json) |
 | Papa's Cupcakeria | 210492 | [210492-papas-cupcakeria.json](./210492-papas-cupcakeria.json) |
+| Papa's Cupcakeria HD | 88890 | [88890-papas-cupcakeria-hd.json](./88890-papas-cupcakeria-hd.json) |
 | Papa's Cupcakeria to Go! | 100849 | [100849-papas-cupcakeria-to-go.json](./100849-papas-cupcakeria-to-go.json) |
 | Papa's Donuteria | 210502 | [210502-papas-donuteria.json](./210502-papas-donuteria.json) |
 | Papa's Donutria | 143040 | [143040-papas-donutria.json](./143040-papas-donutria.json) |
 | Papa's Freezeria | 191917 | [191917-papas-freezeria.json](./191917-papas-freezeria.json) |
+| Papa's Freezeria HD | 88886 | [88886-papas-freezeria-hd.json](./88886-papas-freezeria-hd.json) |
 | Papa's Freezeria to Go! | 95739 | [95739-papas-freezeria-to-go.json](./95739-papas-freezeria-to-go.json) |
 | Papa's Hot Doggeria | 210491 | [210491-papas-hot-doggeria.json](./210491-papas-hot-doggeria.json) |
 | Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
@@ -3407,6 +3409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol: Grand Prix - Pup Treat Arena | 241408 | [241408-paw-patrol-grand-prix-pup-treat-arena.json](./241408-paw-patrol-grand-prix-pup-treat-arena.json) |
 | Paw Patrol: Grand Prix - Race in Barkingburg | 231249 | [231249-paw-patrol-grand-prix-race-in-barkingburg.json](./231249-paw-patrol-grand-prix-race-in-barkingburg.json) |
 | Paw Patrol: Laptop Infantil | 294467 | [294467-paw-patrol-laptop-infantil.json](./294467-paw-patrol-laptop-infantil.json) |
+| Paw Patrol: On a Roll! | 89074 | [89074-paw-patrol-on-a-roll.json](./89074-paw-patrol-on-a-roll.json) |
 | Paw Patrol: Rescue Wheels - Championship | 351133 | [351133-paw-patrol-rescue-wheels-championship.json](./351133-paw-patrol-rescue-wheels-championship.json) |
 | PAW Patrol: Storm Rescuers | 230328 | [230328-paw-patrol-storm-rescuers.json](./230328-paw-patrol-storm-rescuers.json) |
 | Paw Patrol: The Movie Learning Phone | 274652 | [274652-paw-patrol-the-movie-learning-phone.json](./274652-paw-patrol-the-movie-learning-phone.json) |
@@ -6466,6 +6469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Builder | 288850 | [288850-picture-builder.json](./288850-picture-builder.json) |
 | Picture Cards Online | 143855 | [143855-picture-cards-online.json](./143855-picture-cards-online.json) |
 | Picture Challenge | 358733 | [358733-picture-challenge.json](./358733-picture-challenge.json) |
+| Picture Cross | 89485 | [89485-picture-cross.json](./89485-picture-cross.json) |
 | Picture Cross Color | 345132 | [345132-picture-cross-color.json](./345132-picture-cross-color.json) |
 | Picture Cross Towns | 246721 | [246721-picture-cross-towns.json](./246721-picture-cross-towns.json) |
 | Picture Everything: Puzzle Cross Galaxy | 347914 | [347914-picture-everything-puzzle-cross-galaxy.json](./347914-picture-everything-puzzle-cross-galaxy.json) |
@@ -14956,6 +14960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime Minister's Questions: The Game | 64218 | [64218-prime-ministers-questions-the-game.json](./64218-prime-ministers-questions-the-game.json) |
 | Prime Monster | 391820 | [391820-prime-monster.json](./391820-prime-monster.json) |
 | Prime Mosaic | 337639 | [337639-prime-mosaic.json](./337639-prime-mosaic.json) |
+| Prime Mover | 100491 | [100491-prime-mover.json](./100491-prime-mover.json) |
 | Prime Mover | 12722 | [12722-prime-mover.json](./12722-prime-mover.json) |
 | Prime Remastered | 314573 | [314573-prime-remastered.json](./314573-prime-remastered.json) |
 | Prime Shift | 51771 | [51771-prime-shift.json](./51771-prime-shift.json) |
@@ -17761,6 +17766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyvariar 2: The Will to Fabricate | 5993 | [5993-psyvariar-2-the-will-to-fabricate.json](./5993-psyvariar-2-the-will-to-fabricate.json) |
 | Psyvariar 2: Ultimate Final | 43346 | [43346-psyvariar-2-ultimate-final.json](./43346-psyvariar-2-ultimate-final.json) |
 | Psyvariar 3 | 379262 | [379262-psyvariar-3.json](./379262-psyvariar-3.json) |
+| Psyvariar Delta | 96488 | [96488-psyvariar-delta.json](./96488-psyvariar-delta.json) |
 | Psyvariar Reassemble | 137921 | [137921-psyvariar-reassemble.json](./137921-psyvariar-reassemble.json) |
 | Psyvariar: Complete Edition | 43351 | [43351-psyvariar-complete-edition.json](./43351-psyvariar-complete-edition.json) |
 | Psyvariar: Medium Unit | 137925 | [137925-psyvariar-medium-unit.json](./137925-psyvariar-medium-unit.json) |
