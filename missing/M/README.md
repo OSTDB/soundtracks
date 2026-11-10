@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 95 | 48974 | [48974-madden-nfl-95.json](./48974-madden-nfl-95.json) |
 | Madden NFL 96 | 240486 | [240486-madden-nfl-96.json](./240486-madden-nfl-96.json) |
 | Madden NFL 96 | 243244 | [243244-madden-nfl-96.json](./243244-madden-nfl-96.json) |
+| Madden NFL 96 | 4542 | [4542-madden-nfl-96.json](./4542-madden-nfl-96.json) |
 | Madden NFL 96 | 48973 | [48973-madden-nfl-96.json](./48973-madden-nfl-96.json) |
 | Madden NFL 97 | 243264 | [243264-madden-nfl-97.json](./243264-madden-nfl-97.json) |
 | Madden NFL 97 | 243265 | [243265-madden-nfl-97.json](./243265-madden-nfl-97.json) |
@@ -7225,6 +7226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor: Allied Assault - War Chest | 51836 | [51836-medal-of-honor-allied-assault-war-chest.json](./51836-medal-of-honor-allied-assault-war-chest.json) |
 | Medal of Honor: Complete Collection | 120544 | [120544-medal-of-honor-complete-collection.json](./120544-medal-of-honor-complete-collection.json) |
 | Medal of Honor: Heroes | 1312 | [1312-medal-of-honor-heroes.json](./1312-medal-of-honor-heroes.json) |
+| Medal of Honor: Infiltrator | 1317 | [1317-medal-of-honor-infiltrator.json](./1317-medal-of-honor-infiltrator.json) |
 | Medal of Honor: Limited Edition | 42995 | [42995-medal-of-honor-limited-edition.json](./42995-medal-of-honor-limited-edition.json) |
 | Medal of Honor: Pacific Assault - Director's Edition | 131852 | [131852-medal-of-honor-pacific-assault-directors-edition.json](./131852-medal-of-honor-pacific-assault-directors-edition.json) |
 | Medal of Honor: Tier 1 Edition | 47463 | [47463-medal-of-honor-tier-1-edition.json](./47463-medal-of-honor-tier-1-edition.json) |
@@ -7571,6 +7573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet the Robinsons | 200908 | [200908-meet-the-robinsons.json](./200908-meet-the-robinsons.json) |
 | Meet the Robinsons | 248515 | [248515-meet-the-robinsons.json](./248515-meet-the-robinsons.json) |
 | Meet the Robinsons | 248516 | [248516-meet-the-robinsons.json](./248516-meet-the-robinsons.json) |
+| Meet the Robinsons | 3884 | [3884-meet-the-robinsons.json](./3884-meet-the-robinsons.json) |
 | Meet the Rookie | 310924 | [310924-meet-the-rookie.json](./310924-meet-the-rookie.json) |
 | Meet the Sight Words3 | 102645 | [102645-meet-the-sight-words3.json](./102645-meet-the-sight-words3.json) |
 | Meet the Vowels | 102773 | [102773-meet-the-vowels.json](./102773-meet-the-vowels.json) |
@@ -11042,6 +11045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Machines V4 | 8512 | [8512-micro-machines-v4.json](./8512-micro-machines-v4.json) |
 | Micro Machines World Series | 26853 | [26853-micro-machines-world-series.json](./26853-micro-machines-world-series.json) |
 | Micro Machines: Mini Challenge Mayhem | 253193 | [253193-micro-machines-mini-challenge-mayhem.json](./253193-micro-machines-mini-challenge-mayhem.json) |
+| Micro Machines: Turbo Tournament 96 | 4545 | [4545-micro-machines-turbo-tournament-96.json](./4545-micro-machines-turbo-tournament-96.json) |
 | Micro Macro Farm | 276266 | [276266-micro-macro-farm.json](./276266-micro-macro-farm.json) |
 | Micro Madness | 252819 | [252819-micro-madness.json](./252819-micro-madness.json) |
 | Micro Mages | 110882 | [110882-micro-mages.json](./110882-micro-mages.json) |
@@ -13908,6 +13912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minor Scale | 245827 | [245827-minor-scale.json](./245827-minor-scale.json) |
 | Minoria | 110121 | [110121-minoria.json](./110121-minoria.json) |
 | Minority Report: Everybody Runs | 248459 | [248459-minority-report-everybody-runs.json](./248459-minority-report-everybody-runs.json) |
+| Minority Report: Everybody Runs | 4012 | [4012-minority-report-everybody-runs.json](./4012-minority-report-everybody-runs.json) |
 | Minos | 241701 | [241701-minos.json](./241701-minos.json) |
 | Minos | 370704 | [370704-minos.json](./370704-minos.json) |
 | Minos Dungeon | 349426 | [349426-minos-dungeon.json](./349426-minos-dungeon.json) |
@@ -14552,6 +14557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Impossible | 68337 | [68337-mission-impossible.json](./68337-mission-impossible.json) |
 | Mission: Impossible - New Dawn | 216344 | [216344-mission-impossible-new-dawn.json](./216344-mission-impossible-new-dawn.json) |
 | Mission: Impossible - Operation Surma | 248447 | [248447-mission-impossible-operation-surma.json](./248447-mission-impossible-operation-surma.json) |
+| Mission: Impossible - Operation Surma | 4013 | [4013-mission-impossible-operation-surma.json](./4013-mission-impossible-operation-surma.json) |
 | Mission: In Boxes | 150628 | [150628-mission-in-boxes.json](./150628-mission-in-boxes.json) |
 | Mission: Invasion Force | 70403 | [70403-mission-invasion-force.json](./70403-mission-invasion-force.json) |
 | Mission: ISS | 193696 | [193696-mission-iss.json](./193696-mission-iss.json) |
@@ -22486,6 +22492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MySims Kingdom | 336028 | [336028-mysims-kingdom.json](./336028-mysims-kingdom.json) |
 | MySims Kingdom | 5036 | [5036-mysims-kingdom.json](./5036-mysims-kingdom.json) |
 | MySims Party | 5037 | [5037-mysims-party.json](./5037-mysims-party.json) |
+| MySims Racing | 5038 | [5038-mysims-racing.json](./5038-mysims-racing.json) |
 | MySims SkyHeroes | 192926 | [192926-mysims-skyheroes.json](./192926-mysims-skyheroes.json) |
 | MySims SkyHeroes | 7093 | [7093-mysims-skyheroes.json](./7093-mysims-skyheroes.json) |
 | MySims: Cozy Bundle | 315058 | [315058-mysims-cozy-bundle.json](./315058-mysims-cozy-bundle.json) |
