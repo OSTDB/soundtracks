@@ -1310,6 +1310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veilwalkers | 349308 | [349308-veilwalkers.json](./349308-veilwalkers.json) |
 | Veilwalkers | 377293 | [377293-veilwalkers.json](./377293-veilwalkers.json) |
 | Vein | 208250 | [208250-vein.json](./208250-vein.json) |
+| Vein Glory: Blood King | 406435 | [406435-vein-glory-blood-king.json](./406435-vein-glory-blood-king.json) |
 | Vein Hotel | 102180 | [102180-vein-hotel.json](./102180-vein-hotel.json) |
 | Vein-X | 355021 | [355021-vein-x.json](./355021-vein-x.json) |
 | Veinless Property | 144362 | [144362-veinless-property.json](./144362-veinless-property.json) |
