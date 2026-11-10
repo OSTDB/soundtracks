@@ -4315,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LetterStealth | 250171 | [250171-letterstealth.json](./250171-letterstealth.json) |
 | Letterswirl | 236972 | [236972-letterswirl.json](./236972-letterswirl.json) |
 | Lettriq: Evaluez Votre QI Lettrique | 154733 | [154733-lettriq-evaluez-votre-qi-lettrique.json](./154733-lettriq-evaluez-votre-qi-lettrique.json) |
+| Lettro | 410579 | [410579-lettro.json](./410579-lettro.json) |
 | Lettters | 340564 | [340564-lettters.json](./340564-lettters.json) |
 | Lettuce Fish | 404977 | [404977-lettuce-fish.json](./404977-lettuce-fish.json) |
 | Letty9 | 218081 | [218081-letty9.json](./218081-letty9.json) |
