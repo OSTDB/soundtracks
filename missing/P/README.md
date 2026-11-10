@@ -10511,6 +10511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Love My Computer Game | 86470 | [86470-please-love-my-computer-game.json](./86470-please-love-my-computer-game.json) |
 | Please One More Block | 410651 | [410651-please-one-more-block.json](./410651-please-one-more-block.json) |
 | Please Pay the Rent! | 368276 | [368276-please-pay-the-rent.json](./368276-please-pay-the-rent.json) |
+| Please Praise the SR Girls | 410577 | [410577-please-praise-the-sr-girls.json](./410577-please-praise-the-sr-girls.json) |
 | Please Praise the SR Girls! | 419937 | [419937-please-praise-the-sr-girls.json](./419937-please-praise-the-sr-girls.json) |
 | Please Protect My Secret | 401890 | [401890-please-protect-my-secret.json](./401890-please-protect-my-secret.json) |
 | Please read me | 229789 | [229789-please-read-me.json](./229789-please-read-me.json) |
