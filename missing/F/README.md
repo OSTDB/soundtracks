@@ -294,8 +294,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fable Heroes | 19906 | [19906-fable-heroes.json](./19906-fable-heroes.json) |
 | Fable II Bonus Game Content | 289012 | [289012-fable-ii-bonus-game-content.json](./289012-fable-ii-bonus-game-content.json) |
 | Fable II: Game of the Year Edition | 47477 | [47477-fable-ii-game-of-the-year-edition.json](./47477-fable-ii-game-of-the-year-edition.json) |
+| Fable II: Knothole Island | 23026 | [23026-fable-ii-knothole-island.json](./23026-fable-ii-knothole-island.json) |
 | Fable II: Limited Collector's Edition | 47415 | [47415-fable-ii-limited-collectors-edition.json](./47415-fable-ii-limited-collectors-edition.json) |
 | Fable II: Pub Games | 21328 | [21328-fable-ii-pub-games.json](./21328-fable-ii-pub-games.json) |
+| Fable II: See the Future | 22997 | [22997-fable-ii-see-the-future.json](./22997-fable-ii-see-the-future.json) |
 | Fable III: Limited Collector's Edition | 43958 | [43958-fable-iii-limited-collectors-edition.json](./43958-fable-iii-limited-collectors-edition.json) |
 | Fable III: Traitor's Keep Quest Pack | 20438 | [20438-fable-iii-traitors-keep-quest-pack.json](./20438-fable-iii-traitors-keep-quest-pack.json) |
 | Fable III: Understone Quest Pack | 20558 | [20558-fable-iii-understone-quest-pack.json](./20558-fable-iii-understone-quest-pack.json) |
@@ -6471,6 +6473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firestorm: Deep Dive | 226558 | [226558-firestorm-deep-dive.json](./226558-firestorm-deep-dive.json) |
 | Firestriker | 42553 | [42553-firestriker.json](./42553-firestriker.json) |
 | Fireteam | 195394 | [195394-fireteam.json](./195394-fireteam.json) |
+| FireTeam | 22740 | [22740-fireteam.json](./22740-fireteam.json) |
 | Fireteam Rogue | 42244 | [42244-fireteam-rogue.json](./42244-fireteam-rogue.json) |
 | Firetrack | 38926 | [38926-firetrack.json](./38926-firetrack.json) |
 | FireTrap | 40943 | [40943-firetrap.json](./40943-firetrap.json) |
@@ -11896,6 +11899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Mouse | 247394 | [247394-frantic-mouse.json](./247394-frantic-mouse.json) |
 | Frantic Oceans | 343780 | [343780-frantic-oceans.json](./343780-frantic-oceans.json) |
 | Frantics | 69348 | [69348-frantics.json](./69348-frantics.json) |
+| Frantix | 22563 | [22563-frantix.json](./22563-frantix.json) |
 | Franz | 250301 | [250301-franz.json](./250301-franz.json) |
 | Franz Fury | 157923 | [157923-franz-fury.json](./157923-franz-fury.json) |
 | Franzen | 263443 | [263443-franzen.json](./263443-franzen.json) |
