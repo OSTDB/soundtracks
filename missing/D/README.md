@@ -1513,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City: Budapest - Collector's Edition | 397158 | [397158-dark-city-budapest-collectors-edition.json](./397158-dark-city-budapest-collectors-edition.json) |
 | Dark City: Dublin | 139760 | [139760-dark-city-dublin.json](./139760-dark-city-dublin.json) |
 | Dark City: Dublin - Collector's Edition | 132936 | [132936-dark-city-dublin-collectors-edition.json](./132936-dark-city-dublin-collectors-edition.json) |
+| Dark City: Florence | 416487 | [416487-dark-city-florence.json](./416487-dark-city-florence.json) |
 | Dark City: International Intrigue | 244198 | [244198-dark-city-international-intrigue.json](./244198-dark-city-international-intrigue.json) |
 | Dark City: International Intrigue - Collector's Edition | 224982 | [224982-dark-city-international-intrigue-collectors-edition.json](./224982-dark-city-international-intrigue-collectors-edition.json) |
 | Dark City: Kyiv | 397180 | [397180-dark-city-kyiv.json](./397180-dark-city-kyiv.json) |
@@ -15189,6 +15190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DraconG | 285826 | [285826-dracong.json](./285826-dracong.json) |
 | Draconia | 143903 | [143903-draconia.json](./143903-draconia.json) |
 | Draconia Saga | 309216 | [309216-draconia-saga.json](./309216-draconia-saga.json) |
+| Draconian | 416868 | [416868-draconian.json](./416868-draconian.json) |
 | Draconian Wars | 17324 | [17324-draconian-wars.json](./17324-draconian-wars.json) |
 | Draconian: Conquest of Dawnbird | 363141 | [363141-draconian-conquest-of-dawnbird.json](./363141-draconian-conquest-of-dawnbird.json) |
 | Draconic Date | 324889 | [324889-draconic-date.json](./324889-draconic-date.json) |
