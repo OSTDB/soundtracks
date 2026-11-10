@@ -16733,6 +16733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Mercenaria | 367390 | [367390-project-mercenaria.json](./367390-project-mercenaria.json) |
 | Project Michael: The Halloween Nightmare | 272804 | [272804-project-michael-the-halloween-nightmare.json](./272804-project-michael-the-halloween-nightmare.json) |
 | Project Microchip | 392269 | [392269-project-microchip.json](./392269-project-microchip.json) |
+| Project Midas | 424290 | [424290-project-midas.json](./424290-project-midas.json) |
 | Project Midgard | 149529 | [149529-project-midgard.json](./149529-project-midgard.json) |
 | Project Mikhail | 135569 | [135569-project-mikhail.json](./135569-project-mikhail.json) |
 | Project Mind | 197108 | [197108-project-mind.json](./197108-project-mind.json) |
