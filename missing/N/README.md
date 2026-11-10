@@ -280,6 +280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum 50th Anniversary | 202112 | [202112-namco-museum-50th-anniversary.json](./202112-namco-museum-50th-anniversary.json) |
 | Namco Museum 50th Anniversary | 9889 | [9889-namco-museum-50th-anniversary.json](./9889-namco-museum-50th-anniversary.json) |
 | Namco Museum 64 | 47678 | [47678-namco-museum-64.json](./47678-namco-museum-64.json) |
+| Namco Museum Arcade Pac | 104790 | [104790-namco-museum-arcade-pac.json](./104790-namco-museum-arcade-pac.json) |
 | Namco Museum Archives Volume 1 | 135173 | [135173-namco-museum-archives-volume-1.json](./135173-namco-museum-archives-volume-1.json) |
 | Namco Museum Archives Volume 2 | 135174 | [135174-namco-museum-archives-volume-2.json](./135174-namco-museum-archives-volume-2.json) |
 | Namco Museum Battle Collection | 46000 | [46000-namco-museum-battle-collection.json](./46000-namco-museum-battle-collection.json) |
@@ -785,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto: Ultimate Ninja Heroes 2 - The Phantom Fortress | 19660 | [19660-naruto-ultimate-ninja-heroes-2-the-phantom-fortress.json](./19660-naruto-ultimate-ninja-heroes-2-the-phantom-fortress.json) |
 | Naruto: Ultimate Ninja Storm | 19635 | [19635-naruto-ultimate-ninja-storm.json](./19635-naruto-ultimate-ninja-storm.json) |
 | Naruto: Ultimate Ninja Storm - Limited Edition | 44661 | [44661-naruto-ultimate-ninja-storm-limited-edition.json](./44661-naruto-ultimate-ninja-storm-limited-edition.json) |
+| Naruto: Ultimate Ninja Storm Legacy | 104784 | [104784-naruto-ultimate-ninja-storm-legacy.json](./104784-naruto-ultimate-ninja-storm-legacy.json) |
 | Naruto: Ultimate Ninja Storm+ | 398845 | [398845-naruto-ultimate-ninja-storm.json](./398845-naruto-ultimate-ninja-storm.json) |
 | Naruto: Uzumaki Chronicles | 20602 | [20602-naruto-uzumaki-chronicles.json](./20602-naruto-uzumaki-chronicles.json) |
 | Naruto: Uzumaki Chronicles 2 | 21231 | [21231-naruto-uzumaki-chronicles-2.json](./21231-naruto-uzumaki-chronicles-2.json) |
@@ -5656,6 +5658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Labo: Toy-Con 01 - Variety Kit | 85308 | [85308-nintendo-labo-toy-con-01-variety-kit.json](./85308-nintendo-labo-toy-con-01-variety-kit.json) |
 | Nintendo Labo: Toy-Con 02 - Robot Kit | 85307 | [85307-nintendo-labo-toy-con-02-robot-kit.json](./85307-nintendo-labo-toy-con-02-robot-kit.json) |
 | Nintendo Labo: Toy-Con 03 - Drive Kit | 221511 | [221511-nintendo-labo-toy-con-03-drive-kit.json](./221511-nintendo-labo-toy-con-03-drive-kit.json) |
+| Nintendo Labo: Toy-Con 03 - Vehicle Kit | 106288 | [106288-nintendo-labo-toy-con-03-vehicle-kit.json](./106288-nintendo-labo-toy-con-03-vehicle-kit.json) |
 | Nintendo Land | 2172 | [2172-nintendo-land.json](./2172-nintendo-land.json) |
 | Nintendo Mini Classic: Snoopy Tennis | 206367 | [206367-nintendo-mini-classic-snoopy-tennis.json](./206367-nintendo-mini-classic-snoopy-tennis.json) |
 | Nintendo Mini Classics: Carrera | 206372 | [206372-nintendo-mini-classics-carrera.json](./206372-nintendo-mini-classics-carrera.json) |
