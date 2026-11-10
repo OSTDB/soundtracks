@@ -4488,6 +4488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepsiman | 79500 | [79500-pepsiman.json](./79500-pepsiman.json) |
 | Pequeno Eu | 290082 | [290082-pequeno-eu.json](./290082-pequeno-eu.json) |
 | Pequod | 126449 | [126449-pequod.json](./126449-pequod.json) |
+| Per Aspera | 119347 | [119347-per-aspera.json](./119347-per-aspera.json) |
 | Per Aspera Test | 289441 | [289441-per-aspera-test.json](./289441-per-aspera-test.json) |
 | Per Aspera: Blue Mars | 199669 | [199669-per-aspera-blue-mars.json](./199669-per-aspera-blue-mars.json) |
 | Per Aspera: Buildings Paint Pack | 227011 | [227011-per-aspera-buildings-paint-pack.json](./227011-per-aspera-buildings-paint-pack.json) |
@@ -9536,6 +9537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster: Back to the Future Time Machine Construction Kit | 168240 | [168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json](./168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json) |
 | Planet Coaster: Classic Rides Collection | 117487 | [117487-planet-coaster-classic-rides-collection.json](./117487-planet-coaster-classic-rides-collection.json) |
 | Planet Coaster: Complete the Collection | 393795 | [393795-planet-coaster-complete-the-collection.json](./393795-planet-coaster-complete-the-collection.json) |
+| Planet Coaster: Console Edition | 125627 | [125627-planet-coaster-console-edition.json](./125627-planet-coaster-console-edition.json) |
 | Planet Coaster: Deluxe Edition | 164575 | [164575-planet-coaster-deluxe-edition.json](./164575-planet-coaster-deluxe-edition.json) |
 | Planet Coaster: Deluxe Rides Collection | 173162 | [173162-planet-coaster-deluxe-rides-collection.json](./173162-planet-coaster-deluxe-rides-collection.json) |
 | Planet Coaster: Ghostbusters | 118924 | [118924-planet-coaster-ghostbusters.json](./118924-planet-coaster-ghostbusters.json) |
@@ -11892,6 +11894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Ruby Version | 355535 | [355535-pokemon-ruby-version.json](./355535-pokemon-ruby-version.json) |
 | Pokémon Ruckus | 360176 | [360176-pokemon-ruckus.json](./360176-pokemon-ruckus.json) |
 | Pokémon Rumble Blast | 4561 | [4561-pokemon-rumble-blast.json](./4561-pokemon-rumble-blast.json) |
+| Pokémon Rumble Rush | 118490 | [118490-pokemon-rumble-rush.json](./118490-pokemon-rumble-rush.json) |
 | Pokémon Rumble U | 4560 | [4560-pokemon-rumble-u.json](./4560-pokemon-rumble-u.json) |
 | Pokémon Rumble World | 9564 | [9564-pokemon-rumble-world.json](./9564-pokemon-rumble-world.json) |
 | Pokémon Rumble: Weekend Edition | 387401 | [387401-pokemon-rumble-weekend-edition.json](./387401-pokemon-rumble-weekend-edition.json) |
