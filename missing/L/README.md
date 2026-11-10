@@ -4405,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexibook Batman Compact Cyber Arcade Portable Console | 304232 | [304232-lexibook-batman-compact-cyber-arcade-portable-console.json](./304232-lexibook-batman-compact-cyber-arcade-portable-console.json) |
 | Lexibook Electronic Thesaurus: Model DC 750 | 245457 | [245457-lexibook-electronic-thesaurus-model-dc-750.json](./245457-lexibook-electronic-thesaurus-model-dc-750.json) |
 | Lexibook TV Game Console JG7415 | 358740 | [358740-lexibook-tv-game-console-jg7415.json](./358740-lexibook-tv-game-console-jg7415.json) |
+| Lexica | 10513 | [10513-lexica.json](./10513-lexica.json) |
 | Lexica | 369673 | [369673-lexica.json](./369673-lexica.json) |
 | Lexica | 384573 | [384573-lexica.json](./384573-lexica.json) |
 | Lexica Word Finder for Scrabble | 93715 | [93715-lexica-word-finder-for-scrabble.json](./93715-lexica-word-finder-for-scrabble.json) |
@@ -6192,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Einsteins | 231500 | [231500-little-einsteins.json](./231500-little-einsteins.json) |
 | Little Elf Tanks | 244563 | [244563-little-elf-tanks.json](./244563-little-elf-tanks.json) |
 | Little Fairy Dress Up | 332496 | [332496-little-fairy-dress-up.json](./332496-little-fairy-dress-up.json) |
+| Little Farm | 10568 | [10568-little-farm.json](./10568-little-farm.json) |
 | Little Farm Island | 385326 | [385326-little-farm-island.json](./385326-little-farm-island.json) |
 | Little Favors | 180348 | [180348-little-favors.json](./180348-little-favors.json) |
 | Little Fiefdom: Medieval | 390259 | [390259-little-fiefdom-medieval.json](./390259-little-fiefdom-medieval.json) |
