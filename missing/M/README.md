@@ -3605,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Duel | 28582 | [28582-marble-duel.json](./28582-marble-duel.json) |
 | Marble Evolution | 419960 | [419960-marble-evolution.json](./419960-marble-evolution.json) |
 | Marble Flow | 319311 | [319311-marble-flow.json](./319311-marble-flow.json) |
+| Marble Hero | 426607 | [426607-marble-hero.json](./426607-marble-hero.json) |
 | Marble Hill | 312995 | [312995-marble-hill.json](./312995-marble-hill.json) |
 | Marble It Up: Mayhem! | 130696 | [130696-marble-it-up-mayhem.json](./130696-marble-it-up-mayhem.json) |
 | Marble It Up! | 107302 | [107302-marble-it-up.json](./107302-marble-it-up.json) |
@@ -4689,6 +4690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Taken | 90147 | [90147-mars-taken.json](./90147-mars-taken.json) |
 | Mars Taxi | 341707 | [341707-mars-taxi.json](./341707-mars-taxi.json) |
 | Mars Taxi | 70356 | [70356-mars-taxi.json](./70356-mars-taxi.json) |
+| Mars Training Camp | 426637 | [426637-mars-training-camp.json](./426637-mars-training-camp.json) |
 | Mars Training Camp VR | 264115 | [264115-mars-training-camp-vr.json](./264115-mars-training-camp-vr.json) |
 | Mars Troopers | 105229 | [105229-mars-troopers.json](./105229-mars-troopers.json) |
 | Mars Type I | 181855 | [181855-mars-type-i.json](./181855-mars-type-i.json) |
@@ -11585,6 +11587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microvania | 332744 | [332744-microvania.json](./332744-microvania.json) |
 | MicroVolts Surge | 16263 | [16263-microvolts-surge.json](./16263-microvolts-surge.json) |
 | Microvolts: Recharged | 214856 | [214856-microvolts-recharged.json](./214856-microvolts-recharged.json) |
+| Microvolts: Recharged - 2026 Spring Season Starter Pack: Platinum | 426616 | [426616-microvolts-recharged-2026-spring-season-starter-pack-platinum.json](./426616-microvolts-recharged-2026-spring-season-starter-pack-platinum.json) |
 | Microwasp Seekers | 189899 | [189899-microwasp-seekers.json](./189899-microwasp-seekers.json) |
 | Microwave | 282957 | [282957-microwave.json](./282957-microwave.json) |
 | Microwave Simulator | 390366 | [390366-microwave-simulator.json](./390366-microwave-simulator.json) |
@@ -12906,6 +12909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineClicker | 180121 | [180121-mineclicker.json](./180121-mineclicker.json) |
 | MineColonies | 225538 | [225538-minecolonies.json](./225538-minecolonies.json) |
 | MineColony | 24095 | [24095-minecolony.json](./24095-minecolony.json) |
+| Minecore | 426627 | [426627-minecore.json](./426627-minecore.json) |
 | Minecraft 4k | 238607 | [238607-minecraft-4k.json](./238607-minecraft-4k.json) |
 | Minecraft Backrooms Found Footage | 346784 | [346784-minecraft-backrooms-found-footage.json](./346784-minecraft-backrooms-found-footage.json) |
 | Minecraft Blast | 377668 | [377668-minecraft-blast.json](./377668-minecraft-blast.json) |
