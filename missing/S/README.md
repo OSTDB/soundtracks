@@ -11152,6 +11152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent space VR | 75765 | [75765-silent-space-vr.json](./75765-silent-space-vr.json) |
 | Silent Spirits | 383363 | [383363-silent-spirits.json](./383363-silent-spirits.json) |
 | Silent Station | 238556 | [238556-silent-station.json](./238556-silent-station.json) |
+| Silent Stay | 402636 | [402636-silent-stay.json](./402636-silent-stay.json) |
 | Silent Steel | 73827 | [73827-silent-steel.json](./73827-silent-steel.json) |
 | Silent Still | 312219 | [312219-silent-still.json](./312219-silent-still.json) |
 | Silent Still II | 357117 | [357117-silent-still-ii.json](./357117-silent-still-ii.json) |
@@ -20884,6 +20885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Killer | 275391 | [275391-space-killer.json](./275391-space-killer.json) |
 | Space King | 98247 | [98247-space-king.json](./98247-space-king.json) |
 | Space King-2 | 137275 | [137275-space-king-2.json](./137275-space-king-2.json) |
+| Space Kitten | 402633 | [402633-space-kitten.json](./402633-space-kitten.json) |
 | Space Kitten: An Easy Survival Game | 338272 | [338272-space-kitten-an-easy-survival-game.json](./338272-space-kitten-an-easy-survival-game.json) |
 | Space Komandirovka | 119703 | [119703-space-komandirovka.json](./119703-space-komandirovka.json) |
 | Space Lagat | 74953 | [74953-space-lagat.json](./74953-space-lagat.json) |
@@ -21982,6 +21984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Force Double Take | 154291 | [154291-special-force-double-take.json](./154291-special-force-double-take.json) |
 | Special Force for Kakao | 215832 | [215832-special-force-for-kakao.json](./215832-special-force-for-kakao.json) |
 | Special Force M: Remastered | 223907 | [223907-special-force-m-remastered.json](./223907-special-force-m-remastered.json) |
+| Special Force Remastered | 402591 | [402591-special-force-remastered.json](./402591-special-force-remastered.json) |
 | Special Force VR | 50535 | [50535-special-force-vr.json](./50535-special-force-vr.json) |
 | Special Force VR: Infinity War | 116492 | [116492-special-force-vr-infinity-war.json](./116492-special-force-vr-infinity-war.json) |
 | Special Forces | 37271 | [37271-special-forces.json](./37271-special-forces.json) |
