@@ -765,6 +765,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires of the 99th Night | 382735 | [382735-vampires-of-the-99th-night.json](./382735-vampires-of-the-99th-night.json) |
 | Vampires vs. Zombies | 53933 | [53933-vampires-vs-zombies.json](./53933-vampires-vs-zombies.json) |
 | Vampires: Bloodlord Rising | 278348 | [278348-vampires-bloodlord-rising.json](./278348-vampires-bloodlord-rising.json) |
+| Vampires: Bloodlord Rising - Moonweaver's Edition | 401971 | [401971-vampires-bloodlord-rising-moonweavers-edition.json](./401971-vampires-bloodlord-rising-moonweavers-edition.json) |
+| Vampires: Bloodlord Rising - Moonweaver's Pack | 401970 | [401970-vampires-bloodlord-rising-moonweavers-pack.json](./401970-vampires-bloodlord-rising-moonweavers-pack.json) |
+| Vampires: Bloodlord Rising - Ultimate Edition | 401969 | [401969-vampires-bloodlord-rising-ultimate-edition.json](./401969-vampires-bloodlord-rising-ultimate-edition.json) |
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
 | Vampires: Guide Them to Safety! | 17945 | [17945-vampires-guide-them-to-safety.json](./17945-vampires-guide-them-to-safety.json) |
 | Vampires: The New Birth | 184778 | [184778-vampires-the-new-birth.json](./184778-vampires-the-new-birth.json) |
