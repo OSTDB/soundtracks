@@ -2240,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopirate | 244149 | [244149-nekopirate.json](./244149-nekopirate.json) |
 | Nekopon | 295979 | [295979-nekopon.json](./295979-nekopon.json) |
 | Nekopter | 156018 | [156018-nekopter.json](./156018-nekopter.json) |
+| NekoRogue | 399335 | [399335-nekorogue.json](./399335-nekorogue.json) |
 | Nekoroid | 152144 | [152144-nekoroid.json](./152144-nekoroid.json) |
 | Nekosan | 217614 | [217614-nekosan.json](./217614-nekosan.json) |
 | NekoSpin | 330095 | [330095-nekospin.json](./330095-nekospin.json) |
