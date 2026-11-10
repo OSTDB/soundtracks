@@ -5278,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Superstar Soccer Deluxe Plus | 259343 | [259343-international-superstar-soccer-deluxe-plus.json](./259343-international-superstar-soccer-deluxe-plus.json) |
 | International Superstar Soccer Pro 98 | 44932 | [44932-international-superstar-soccer-pro-98.json](./44932-international-superstar-soccer-pro-98.json) |
 | International Table Tennis | 194251 | [194251-international-table-tennis.json](./194251-international-table-tennis.json) |
+| International Table Tennis | 418679 | [418679-international-table-tennis.json](./418679-international-table-tennis.json) |
 | International Tennis | 70039 | [70039-international-tennis.json](./70039-international-tennis.json) |
 | International Tennis Open | 19078 | [19078-international-tennis-open.json](./19078-international-tennis-open.json) |
 | International Tennis Pro | 10440 | [10440-international-tennis-pro.json](./10440-international-tennis-pro.json) |
@@ -5644,6 +5645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrusion | 148215 | [148215-intrusion.json](./148215-intrusion.json) |
 | Intrusion of Alice | 223175 | [223175-intrusion-of-alice.json](./223175-intrusion-of-alice.json) |
 | Intrusive Thoughts | 325517 | [325517-intrusive-thoughts.json](./325517-intrusive-thoughts.json) |
+| Intus | 418685 | [418685-intus.json](./418685-intus.json) |
 | Inu Dai Suki! | 46604 | [46604-inu-dai-suki.json](./46604-inu-dai-suki.json) |
 | Inu no Osanpo | 169323 | [169323-inu-no-osanpo.json](./169323-inu-no-osanpo.json) |
 | Inu Oh | 245221 | [245221-inu-oh.json](./245221-inu-oh.json) |
@@ -6164,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Helix | 5394 | [5394-iron-helix.json](./5394-iron-helix.json) |
 | Iron Hopper | 256155 | [256155-iron-hopper.json](./256155-iron-hopper.json) |
 | Iron Horse | 39373 | [39373-iron-horse.json](./39373-iron-horse.json) |
+| Iron Horse | 418682 | [418682-iron-horse.json](./418682-iron-horse.json) |
 | Iron Hunters | 296943 | [296943-iron-hunters.json](./296943-iron-hunters.json) |
 | Iron Impact | 33007 | [33007-iron-impact.json](./33007-iron-impact.json) |
 | Iron Inc. | 399373 | [399373-iron-inc.json](./399373-iron-inc.json) |
@@ -7062,6 +7065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Still a Space Thing | 200053 | [200053-its-still-a-space-thing.json](./200053-its-still-a-space-thing.json) |
 | It's Summer | 153159 | [153159-its-summer.json](./153159-its-summer.json) |
 | It's T-Time | 230843 | [230843-its-t-time.json](./230843-its-t-time.json) |
+| It’s the Insides That Count | 418680 | [418680-it-s-the-insides-that-count.json](./418680-it-s-the-insides-that-count.json) |
 | It's Time | 201246 | [201246-its-time.json](./201246-its-time.json) |
 | It's Time | 23888 | [23888-its-time.json](./23888-its-time.json) |
 | It's time to get out from the solar system | 34534 | [34534-its-time-to-get-out-from-the-solar-system.json](./34534-its-time-to-get-out-from-the-solar-system.json) |
