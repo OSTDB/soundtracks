@@ -9391,6 +9391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory: The Original Matching Game from Ravensburger | 219478 | [219478-memory-the-original-matching-game-from-ravensburger.json](./219478-memory-the-original-matching-game-from-ravensburger.json) |
 | Memory: Unlocked | 264124 | [264124-memory-unlocked.json](./264124-memory-unlocked.json) |
 | Memory's Abyss: Chapter Zero | 367301 | [367301-memorys-abyss-chapter-zero.json](./367301-memorys-abyss-chapter-zero.json) |
+| Memory's Dogma Code: 01 | 25685 | [25685-memorys-dogma-code-01.json](./25685-memorys-dogma-code-01.json) |
 | Memory's Dogma Code: 01 - Collector's Edition | 53332 | [53332-memorys-dogma-code-01-collectors-edition.json](./53332-memorys-dogma-code-01-collectors-edition.json) |
 | Memory's Reach | 220413 | [220413-memorys-reach.json](./220413-memorys-reach.json) |
 | MemoryBombs | 290490 | [290490-memorybombs.json](./290490-memorybombs.json) |
