@@ -267,6 +267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hades | 80529 | [80529-hades.json](./80529-hades.json) |
 | Hades 2 | 134619 | [134619-hades-2.json](./134619-hades-2.json) |
 | Hades Nebula | 13867 | [13867-hades-nebula.json](./13867-hades-nebula.json) |
+| Hades Uprising | 402009 | [402009-hades-uprising.json](./402009-hades-uprising.json) |
 | Hades: Limited Edition | 146154 | [146154-hades-limited-edition.json](./146154-hades-limited-edition.json) |
 | Hades' Star | 56959 | [56959-hades-star.json](./56959-hades-star.json) |
 | Hades' Star: Dark Nebula | 208167 | [208167-hades-star-dark-nebula.json](./208167-hades-star-dark-nebula.json) |
@@ -2115,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardware Store Simulator | 322819 | [322819-hardware-store-simulator.json](./322819-hardware-store-simulator.json) |
 | Hardware Store: Tidy Up | 419885 | [419885-hardware-store-tidy-up.json](./419885-hardware-store-tidy-up.json) |
 | Hardware Tycoon | 181235 | [181235-hardware-tycoon.json](./181235-hardware-tycoon.json) |
+| Hardware Tycoon | 401974 | [401974-hardware-tycoon.json](./401974-hardware-tycoon.json) |
 | Hardware: Online Arena | 15697 | [15697-hardware-online-arena.json](./15697-hardware-online-arena.json) |
 | Hardware: Rivals | 15695 | [15695-hardware-rivals.json](./15695-hardware-rivals.json) |
 | Hardway Party | 102197 | [102197-hardway-party.json](./102197-hardway-party.json) |
@@ -7770,6 +7772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Vintage House Top-Down 3D | 302008 | [302008-hidden-vintage-house-top-down-3d.json](./302008-hidden-vintage-house-top-down-3d.json) |
 | Hidden Watch | 104121 | [104121-hidden-watch.json](./104121-hidden-watch.json) |
 | Hidden Water | 192712 | [192712-hidden-water.json](./192712-hidden-water.json) |
+| Hidden Weekend: The American Getaway - Collector's Edition | 402011 | [402011-hidden-weekend-the-american-getaway-collectors-edition.json](./402011-hidden-weekend-the-american-getaway-collectors-edition.json) |
 | Hidden Western | 192819 | [192819-hidden-western.json](./192819-hidden-western.json) |
 | Hidden Western Top-Down 3D | 277827 | [277827-hidden-western-top-down-3d.json](./277827-hidden-western-top-down-3d.json) |
 | Hidden Wings and Paws | 304620 | [304620-hidden-wings-and-paws.json](./304620-hidden-wings-and-paws.json) |
@@ -7797,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Worlds Bundle | 328520 | [328520-hidden-worlds-bundle.json](./328520-hidden-worlds-bundle.json) |
 | HiddenFrog | 186124 | [186124-hiddenfrog.json](./186124-hiddenfrog.json) |
 | Hiddenius: Crystal Prophecy | 416480 | [416480-hiddenius-crystal-prophecy.json](./416480-hiddenius-crystal-prophecy.json) |
+| Hiddenius: Sorceress Journey | 402010 | [402010-hiddenius-sorceress-journey.json](./402010-hiddenius-sorceress-journey.json) |
 | HiddenLight | 291424 | [291424-hiddenlight.json](./291424-hiddenlight.json) |
 | HiddenObjects Grimm's Fairy Tales | 105502 | [105502-hiddenobjects-grimms-fairy-tales.json](./105502-hiddenobjects-grimms-fairy-tales.json) |
 | Hiddens Awakening | 212998 | [212998-hiddens-awakening.json](./212998-hiddens-awakening.json) |
@@ -13316,6 +13320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia: Collector's Edition | 42987 | [42987-hyperdimension-neptunia-collectors-edition.json](./42987-hyperdimension-neptunia-collectors-edition.json) |
 | Hyperdimension Neptunia: Producing Perfection | 9867 | [9867-hyperdimension-neptunia-producing-perfection.json](./9867-hyperdimension-neptunia-producing-perfection.json) |
 | Hyperdimension Neptunia: Producing Perfection - Limited Edition | 89920 | [89920-hyperdimension-neptunia-producing-perfection-limited-edition.json](./89920-hyperdimension-neptunia-producing-perfection-limited-edition.json) |
+| Hyperdimension Neptunia: Producing Perfection - Vert's Buoyant Swimsuit Set | 402019 | [402019-hyperdimension-neptunia-producing-perfection-verts-buoyant-swimsuit-set.json](./402019-hyperdimension-neptunia-producing-perfection-verts-buoyant-swimsuit-set.json) |
 | HyperDissonance | 372831 | [372831-hyperdissonance.json](./372831-hyperdissonance.json) |
 | Hyperdome | 12919 | [12919-hyperdome.json](./12919-hyperdome.json) |
 | HyperDot | 119536 | [119536-hyperdot.json](./119536-hyperdot.json) |
