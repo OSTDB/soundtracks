@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magenta | 333771 | [333771-magenta.json](./333771-magenta.json) |
 | Magenta Arcade | 202976 | [202976-magenta-arcade.json](./202976-magenta-arcade.json) |
 | Magenta Arcade II | 373639 | [373639-magenta-arcade-ii.json](./373639-magenta-arcade-ii.json) |
+| Magenta Down | 424831 | [424831-magenta-down.json](./424831-magenta-down.json) |
 | Magenta Horizon: Neverending Harvest | 177708 | [177708-magenta-horizon-neverending-harvest.json](./177708-magenta-horizon-neverending-harvest.json) |
 | Magerealm: Rise of Chaos | 12874 | [12874-magerealm-rise-of-chaos.json](./12874-magerealm-rise-of-chaos.json) |
 | Mageroom | 176872 | [176872-mageroom.json](./176872-mageroom.json) |
@@ -19242,6 +19243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving In | 182158 | [182158-moving-in.json](./182158-moving-in.json) |
 | Moving In | 238131 | [238131-moving-in.json](./238131-moving-in.json) |
 | Moving Letters | 157512 | [157512-moving-letters.json](./157512-moving-letters.json) |
+| Moving Oasis | 424853 | [424853-moving-oasis.json](./424853-moving-oasis.json) |
 | Moving On | 202712 | [202712-moving-on.json](./202712-moving-on.json) |
 | Moving On | 303075 | [303075-moving-on.json](./303075-moving-on.json) |
 | Moving On | 364263 | [364263-moving-on.json](./364263-moving-on.json) |
