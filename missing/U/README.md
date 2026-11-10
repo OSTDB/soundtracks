@@ -3625,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Us vs. Them | 232014 | [232014-us-vs-them.json](./232014-us-vs-them.json) |
 | Us vs. Them | 25631 | [25631-us-vs-them.json](./25631-us-vs-them.json) |
 | US War Trivia | 87561 | [87561-us-war-trivia.json](./87561-us-war-trivia.json) |
+| USA 2020 | 101359 | [101359-usa-2020.json](./101359-usa-2020.json) |
 | USA Army Soldier Simulator | 388062 | [388062-usa-army-soldier-simulator.json](./388062-usa-army-soldier-simulator.json) |
 | USA East | 93221 | [93221-usa-east.json](./93221-usa-east.json) |
 | USA Nature's Trails Jigsaw Edition | 338580 | [338580-usa-natures-trails-jigsaw-edition.json](./338580-usa-natures-trails-jigsaw-edition.json) |
