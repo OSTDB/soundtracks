@@ -4489,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigabonk: Mega Survivors | 376243 | [376243-gigabonk-mega-survivors.json](./376243-gigabonk-mega-survivors.json) |
 | Gigabot Run | 365233 | [365233-gigabot-run.json](./365233-gigabot-run.json) |
 | Gigabuster | 112454 | [112454-gigabuster.json](./112454-gigabuster.json) |
+| Gigachess | 34128 | [34128-gigachess.json](./34128-gigachess.json) |
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
 | Gigachomp | 421844 | [421844-gigachomp.json](./421844-gigachomp.json) |
 | Gigacrab: Getting Over The Meme | 330123 | [330123-gigacrab-getting-over-the-meme.json](./330123-gigacrab-getting-over-the-meme.json) |
