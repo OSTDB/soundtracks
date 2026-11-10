@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land Fight | 91964 | [91964-land-fight.json](./91964-land-fight.json) |
 | Land It | 387514 | [387514-land-it.json](./387514-land-it.json) |
 | Land it Rocket | 33328 | [33328-land-it-rocket.json](./33328-land-it-rocket.json) |
+| Land It! | 76071 | [76071-land-it.json](./76071-land-it.json) |
 | Land Mine Land | 418396 | [418396-land-mine-land.json](./418396-land-mine-land.json) |
 | Land of an Endless Journey | 107509 | [107509-land-of-an-endless-journey.json](./107509-land-of-an-endless-journey.json) |
 | Land of Artificial Jellies | 294003 | [294003-land-of-artificial-jellies.json](./294003-land-of-artificial-jellies.json) |
