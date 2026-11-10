@@ -5641,6 +5641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzles: Attack on Tight Panties | 245767 | [245767-hentai-puzzles-attack-on-tight-panties.json](./245767-hentai-puzzles-attack-on-tight-panties.json) |
 | Hentai Puzzles: The Origin | 240591 | [240591-hentai-puzzles-the-origin.json](./240591-hentai-puzzles-the-origin.json) |
 | Hentai Queens | 149431 | [149431-hentai-queens.json](./149431-hentai-queens.json) |
+| Hentai Reality 2 | 396871 | [396871-hentai-reality-2.json](./396871-hentai-reality-2.json) |
 | Hentai Reality 3 | 400177 | [400177-hentai-reality-3.json](./400177-hentai-reality-3.json) |
 | Hentai Reina | 399965 | [399965-hentai-reina.json](./399965-hentai-reina.json) |
 | Hentai Resort: Dream Paradise | 366512 | [366512-hentai-resort-dream-paradise.json](./366512-hentai-resort-dream-paradise.json) |
@@ -7719,6 +7720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Rule | 361341 | [361341-hidden-rule.json](./361341-hidden-rule.json) |
 | Hidden Runaway | 54091 | [54091-hidden-runaway.json](./54091-hidden-runaway.json) |
 | Hidden Saga: Xamadeon Stone | 115160 | [115160-hidden-saga-xamadeon-stone.json](./115160-hidden-saga-xamadeon-stone.json) |
+| Hidden Sanctum | 396843 | [396843-hidden-sanctum.json](./396843-hidden-sanctum.json) |
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
 | Hidden Secrets 2 | 95756 | [95756-hidden-secrets-2.json](./95756-hidden-secrets-2.json) |
 | Hidden Secrets: The Nightmare | 209901 | [209901-hidden-secrets-the-nightmare.json](./209901-hidden-secrets-the-nightmare.json) |
@@ -10200,6 +10202,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hood: Outlaws & Legends | 136512 | [136512-hood-outlaws-and-legends.json](./136512-hood-outlaws-and-legends.json) |
 | Hood: Outlaws & Legends - Forest Lords Pack | 223870 | [223870-hood-outlaws-and-legends-forest-lords-pack.json](./223870-hood-outlaws-and-legends-forest-lords-pack.json) |
 | Hood: Outlaws & Legends - Year 1 Edition | 169193 | [169193-hood-outlaws-and-legends-year-1-edition.json](./169193-hood-outlaws-and-legends-year-1-edition.json) |
+| Hooda What | 396904 | [396904-hooda-what.json](./396904-hooda-what.json) |
+| Hooda What 2 | 396906 | [396906-hooda-what-2.json](./396906-hooda-what-2.json) |
+| Hooda What 3 | 396907 | [396907-hooda-what-3.json](./396907-hooda-what-3.json) |
 | Hoodbound | 394478 | [394478-hoodbound.json](./394478-hoodbound.json) |
 | Hooded Horse 4X Strategy Bundle | 231755 | [231755-hooded-horse-4x-strategy-bundle.json](./231755-hooded-horse-4x-strategy-bundle.json) |
 | Hoodgang Simulator | 276872 | [276872-hoodgang-simulator.json](./276872-hoodgang-simulator.json) |
