@@ -5928,6 +5928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deerstalker | 167553 | [167553-deerstalker.json](./167553-deerstalker.json) |
 | DeeSicks | 385697 | [385697-deesicks.json](./385697-deesicks.json) |
 | Deesse: Love and War | 231962 | [231962-deesse-love-and-war.json](./231962-deesse-love-and-war.json) |
+| Deets | 403284 | [403284-deets.json](./403284-deets.json) |
 | Deez | 114340 | [114340-deez.json](./114340-deez.json) |
 | Deez Shells | 328067 | [328067-deez-shells.json](./328067-deez-shells.json) |
 | Def Jam Fight for NY Mobile | 209012 | [209012-def-jam-fight-for-ny-mobile.json](./209012-def-jam-fight-for-ny-mobile.json) |
@@ -6179,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defi Gravity | 227157 | [227157-defi-gravity.json](./227157-defi-gravity.json) |
 | Defi Kingdoms | 185371 | [185371-defi-kingdoms.json](./185371-defi-kingdoms.json) |
 | DeFi Land | 212871 | [212871-defi-land.json](./212871-defi-land.json) |
+| Defi's Devotion | 403259 | [403259-defis-devotion.json](./403259-defis-devotion.json) |
 | Defiance | 139312 | [139312-defiance.json](./139312-defiance.json) |
 | Defiance | 1973 | [1973-defiance.json](./1973-defiance.json) |
 | Defiance & Mr. Good Looking | 140856 | [140856-defiance-and-mr-good-looking.json](./140856-defiance-and-mr-good-looking.json) |
@@ -15963,10 +15965,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest II: Luminaries of the Legendary Line | 1813 | [1813-dragon-quest-ii-luminaries-of-the-legendary-line.json](./1813-dragon-quest-ii-luminaries-of-the-legendary-line.json) |
 | Dragon Quest II: Luminaries of the Legendary Line | 287153 | [287153-dragon-quest-ii-luminaries-of-the-legendary-line.json](./287153-dragon-quest-ii-luminaries-of-the-legendary-line.json) |
 | Dragon Quest III HD-2D Remake | 149980 | [149980-dragon-quest-iii-hd-2d-remake.json](./149980-dragon-quest-iii-hd-2d-remake.json) |
+| Dragon Quest III: Delocalized | 403247 | [403247-dragon-quest-iii-delocalized.json](./403247-dragon-quest-iii-delocalized.json) |
 | Dragon Quest III: Soshite Densetsu he... | 144651 | [144651-dragon-quest-iii-soshite-densetsu-he.json](./144651-dragon-quest-iii-soshite-densetsu-he.json) |
 | Dragon Quest III: The Seeds of Salvation | 1814 | [1814-dragon-quest-iii-the-seeds-of-salvation.json](./1814-dragon-quest-iii-the-seeds-of-salvation.json) |
 | Dragon Quest IV: Chapters of the Chosen | 1815 | [1815-dragon-quest-iv-chapters-of-the-chosen.json](./1815-dragon-quest-iv-chapters-of-the-chosen.json) |
 | Dragon Quest IV: Chapters of the Chosen | 216304 | [216304-dragon-quest-iv-chapters-of-the-chosen.json](./216304-dragon-quest-iv-chapters-of-the-chosen.json) |
+| Dragon Quest IV: Delocalized | 403254 | [403254-dragon-quest-iv-delocalized.json](./403254-dragon-quest-iv-delocalized.json) |
 | Dragon Quest IV: Michibikareshi Mono-tachi | 145467 | [145467-dragon-quest-iv-michibikareshi-mono-tachi.json](./145467-dragon-quest-iv-michibikareshi-mono-tachi.json) |
 | Dragon Quest IV: Michibikareshi Mono-tachi | 271211 | [271211-dragon-quest-iv-michibikareshi-mono-tachi.json](./271211-dragon-quest-iv-michibikareshi-mono-tachi.json) |
 | Dragon Quest IX: Sentinels of the Starry Skies | 1820 | [1820-dragon-quest-ix-sentinels-of-the-starry-skies.json](./1820-dragon-quest-ix-sentinels-of-the-starry-skies.json) |
@@ -16663,6 +16667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Delusion: Rise of the Skeletons | 272835 | [272835-dread-delusion-rise-of-the-skeletons.json](./272835-dread-delusion-rise-of-the-skeletons.json) |
 | Dread Descent | 251763 | [251763-dread-descent.json](./251763-dread-descent.json) |
 | Dread Dice | 184444 | [184444-dread-dice.json](./184444-dread-dice.json) |
+| Dread Disc | 403240 | [403240-dread-disc.json](./403240-dread-disc.json) |
 | Dread Fields | 383923 | [383923-dread-fields.json](./383923-dread-fields.json) |
 | Dread Flats | 351690 | [351690-dread-flats.json](./351690-dread-flats.json) |
 | Dread Hunger | 141365 | [141365-dread-hunger.json](./141365-dread-hunger.json) |
@@ -17425,6 +17430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress-Up Pups | 87895 | [87895-dress-up-pups.json](./87895-dress-up-pups.json) |
 | Dress-Up With Helene | 344113 | [344113-dress-up-with-helene.json](./344113-dress-up-with-helene.json) |
 | Dress-Up With Helene: Deluxe! | 358860 | [358860-dress-up-with-helene-deluxe.json](./358860-dress-up-with-helene-deluxe.json) |
+| Dressed For Work | 403243 | [403243-dressed-for-work.json](./403243-dressed-for-work.json) |
 | Dressed to Kill Sherlock Holmes for Playdate & C64! | 265737 | [265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json](./265737-dressed-to-kill-sherlock-holmes-for-playdate-and-c64.json) |
 | Dressing Room | 361320 | [361320-dressing-room.json](./361320-dressing-room.json) |
 | DressMaker | 168654 | [168654-dressmaker.json](./168654-dressmaker.json) |
