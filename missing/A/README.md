@@ -1813,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aa Megami-sama | 77403 | [77403-aa-megami-sama.json](./77403-aa-megami-sama.json) |
 | AA Soldiers | 367759 | [367759-aa-soldiers.json](./367759-aa-soldiers.json) |
 | AA Touch Gun! | 112618 | [112618-aa-touch-gun.json](./112618-aa-touch-gun.json) |
+| AA Truck Simulator Euro Roads 2026 | 409279 | [409279-aa-truck-simulator-euro-roads-2026.json](./409279-aa-truck-simulator-euro-roads-2026.json) |
 | Aa Yakyuu Jinsei Icchokusen | 48669 | [48669-aa-yakyuu-jinsei-icchokusen.json](./48669-aa-yakyuu-jinsei-icchokusen.json) |
 | Aa! Megami-sama | 78087 | [78087-aa-megami-sama.json](./78087-aa-megami-sama.json) |
 | AAA | 377417 | [377417-aaa.json](./377417-aaa.json) |
@@ -5754,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
 | Air Hoppers 2 | 151654 | [151654-air-hoppers-2.json](./151654-air-hoppers-2.json) |
 | Air Hunter | 322529 | [322529-air-hunter.json](./322529-air-hunter.json) |
+| Air Hunter | 409272 | [409272-air-hunter.json](./409272-air-hunter.json) |
 | Air Inferno | 39323 | [39323-air-inferno.json](./39323-air-inferno.json) |
 | Air Jet Fighter Combat: Europe Fly Plane Attack | 234624 | [234624-air-jet-fighter-combat-europe-fly-plane-attack.json](./234624-air-jet-fighter-combat-europe-fly-plane-attack.json) |
 | Air Land Sea | 79610 | [79610-air-land-sea.json](./79610-air-land-sea.json) |
@@ -11853,6 +11855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antivine | 250998 | [250998-antivine.json](./250998-antivine.json) |
 | Antivira | 283919 | [283919-antivira.json](./283919-antivira.json) |
 | Antivirus | 365003 | [365003-antivirus.json](./365003-antivirus.json) |
+| Antivirus Girl | 409276 | [409276-antivirus-girl.json](./409276-antivirus-girl.json) |
 | Antivirus HD | 102493 | [102493-antivirus-hd.json](./102493-antivirus-hd.json) |
 | Antivirus Survivors 2003 Professional | 384325 | [384325-antivirus-survivors-2003-professional.json](./384325-antivirus-survivors-2003-professional.json) |
 | AntiVirus_Snake | 240656 | [240656-antivirus-snake.json](./240656-antivirus-snake.json) |
@@ -13016,6 +13019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Hyper Crash | 409672 | [409672-arcade-archives-2-hyper-crash.json](./409672-arcade-archives-2-hyper-crash.json) |
 | Arcade Archives 2: Konami GT | 398768 | [398768-arcade-archives-2-konami-gt.json](./398768-arcade-archives-2-konami-gt.json) |
 | Arcade Archives 2: Labyrinth Runner | 386906 | [386906-arcade-archives-2-labyrinth-runner.json](./386906-arcade-archives-2-labyrinth-runner.json) |
+| Arcade Archives 2: Lady Bug | 409278 | [409278-arcade-archives-2-lady-bug.json](./409278-arcade-archives-2-lady-bug.json) |
 | Arcade Archives 2: Mach Breakers | 365534 | [365534-arcade-archives-2-mach-breakers.json](./365534-arcade-archives-2-mach-breakers.json) |
 | Arcade Archives 2: Mega Zone | 390481 | [390481-arcade-archives-2-mega-zone.json](./390481-arcade-archives-2-mega-zone.json) |
 | Arcade Archives 2: Midnight Landing | 375138 | [375138-arcade-archives-2-midnight-landing.json](./375138-arcade-archives-2-midnight-landing.json) |
@@ -15436,6 +15440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifact Hunt: Yao | 390435 | [390435-artifact-hunt-yao.json](./390435-artifact-hunt-yao.json) |
 | Artifact Hunter | 156036 | [156036-artifact-hunter.json](./156036-artifact-hunter.json) |
 | Artifact Hunter: The Lost Prophecy | 195014 | [195014-artifact-hunter-the-lost-prophecy.json](./195014-artifact-hunter-the-lost-prophecy.json) |
+| Artifact Nova | 409280 | [409280-artifact-nova.json](./409280-artifact-nova.json) |
 | Artifact Quest 2 | 75035 | [75035-artifact-quest-2.json](./75035-artifact-quest-2.json) |
 | Artifact Red-X | 63365 | [63365-artifact-red-x.json](./63365-artifact-red-x.json) |
 | Artifact Run | 384534 | [384534-artifact-run.json](./384534-artifact-run.json) |
