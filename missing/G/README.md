@@ -2823,6 +2823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemdance | 124575 | [124575-gemdance.json](./124575-gemdance.json) |
 | Gemdow Quest | 293958 | [293958-gemdow-quest.json](./293958-gemdow-quest.json) |
 | Gemerald | 327250 | [327250-gemerald.json](./327250-gemerald.json) |
+| Gemfall | 420027 | [420027-gemfall.json](./420027-gemfall.json) |
 | Gemfire | 14501 | [14501-gemfire.json](./14501-gemfire.json) |
 | Gemibears | 233997 | [233997-gemibears.json](./233997-gemibears.json) |
 | Gemini | 139404 | [139404-gemini.json](./139404-gemini.json) |
@@ -5073,6 +5074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade 3: Honeylines - Wings & Tunes | 274640 | [274640-glass-masquerade-3-honeylines-wings-and-tunes.json](./274640-glass-masquerade-3-honeylines-wings-and-tunes.json) |
 | Glass Masquerade 4: Constellations | 362786 | [362786-glass-masquerade-4-constellations.json](./362786-glass-masquerade-4-constellations.json) |
 | Glass Masquerade 4: Constellations - Celestials | 403633 | [403633-glass-masquerade-4-constellations-celestials.json](./403633-glass-masquerade-4-constellations-celestials.json) |
+| Glass Masquerade 4: Constellations - Tarots | 420062 | [420062-glass-masquerade-4-constellations-tarots.json](./420062-glass-masquerade-4-constellations-tarots.json) |
 | Glass Masquerade Double Pack | 146995 | [146995-glass-masquerade-double-pack.json](./146995-glass-masquerade-double-pack.json) |
 | Glass Masquerade: Halloween Puzzle Pack | 155413 | [155413-glass-masquerade-halloween-puzzle-pack.json](./155413-glass-masquerade-halloween-puzzle-pack.json) |
 | Glass Painting: Winter Art | 111942 | [111942-glass-painting-winter-art.json](./111942-glass-painting-winter-art.json) |
@@ -9795,6 +9797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
 | Grim Facade: The Artist and The Pretender HD | 99299 | [99299-grim-facade-the-artist-and-the-pretender-hd.json](./99299-grim-facade-the-artist-and-the-pretender-hd.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
+| Grim Fate: Cloverleaf Bay | 420025 | [420025-grim-fate-cloverleaf-bay.json](./420025-grim-fate-cloverleaf-bay.json) |
 | Grim Hand | 414399 | [414399-grim-hand.json](./414399-grim-hand.json) |
 | Grim Hollow | 350934 | [350934-grim-hollow.json](./350934-grim-hollow.json) |
 | Grim Hope | 418398 | [418398-grim-hope.json](./418398-grim-hope.json) |
