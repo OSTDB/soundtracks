@@ -1559,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Her Awake | 352483 | [352483-keep-her-awake.json](./352483-keep-her-awake.json) |
 | Keep Her Safe | 414300 | [414300-keep-her-safe.json](./414300-keep-her-safe.json) |
 | Keep in Mind | 98046 | [98046-keep-in-mind.json](./98046-keep-in-mind.json) |
+| Keep in Mind: Remastered | 87757 | [87757-keep-in-mind-remastered.json](./87757-keep-in-mind-remastered.json) |
 | Keep in Mind: Remastered - Deluxe Edition | 187851 | [187851-keep-in-mind-remastered-deluxe-edition.json](./187851-keep-in-mind-remastered-deluxe-edition.json) |
 | Keep in touch | 75652 | [75652-keep-in-touch.json](./75652-keep-in-touch.json) |
 | Keep It Alive | 186217 | [186217-keep-it-alive.json](./186217-keep-it-alive.json) |
