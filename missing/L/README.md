@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Call | 175890 | [175890-last-call.json](./175890-last-call.json) |
 | Last Call | 297321 | [297321-last-call.json](./297321-last-call.json) |
 | Last Call | 313932 | [313932-last-call.json](./313932-last-call.json) |
+| Last Call | 398075 | [398075-last-call.json](./398075-last-call.json) |
 | Last Call: RE | 378552 | [378552-last-call-re.json](./378552-last-call-re.json) |
 | Last Call! | 71565 | [71565-last-call.json](./71565-last-call.json) |
 | Last Call's Dance | 389004 | [389004-last-calls-dance.json](./389004-last-calls-dance.json) |
@@ -8056,6 +8057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootdeck | 411986 | [411986-lootdeck.json](./411986-lootdeck.json) |
 | Lootem | 226181 | [226181-lootem.json](./226181-lootem.json) |
 | Looterkings | 22383 | [22383-looterkings.json](./22383-looterkings.json) |
+| Looters | 398049 | [398049-looters.json](./398049-looters.json) |
 | Lootfest | 35351 | [35351-lootfest.json](./35351-lootfest.json) |
 | Lootfest Wars | 83945 | [83945-lootfest-wars.json](./83945-lootfest-wars.json) |
 | Lootfest2 | 233348 | [233348-lootfest2.json](./233348-lootfest2.json) |
