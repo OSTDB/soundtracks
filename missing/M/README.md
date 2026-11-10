@@ -2356,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maiden Gear | 212043 | [212043-maiden-gear.json](./212043-maiden-gear.json) |
 | Maiden Kingdom | 220443 | [220443-maiden-kingdom.json](./220443-maiden-kingdom.json) |
 | Maiden Maze | 147376 | [147376-maiden-maze.json](./147376-maiden-maze.json) |
+| Maiden of the Mizuchi | 418072 | [418072-maiden-of-the-mizuchi.json](./418072-maiden-of-the-mizuchi.json) |
 | Maiden Voyage | 299770 | [299770-maiden-voyage.json](./299770-maiden-voyage.json) |
 | Maiden's Exhibition: Shoujo-tachi no Danmaku Tenrankai | 278867 | [278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json](./278867-maidens-exhibition-shoujo-tachi-no-danmaku-tenrankai.json) |
 | Maiden's Extreme Fist 'Bun-ga-rua' | 360112 | [360112-maidens-extreme-fist-bun-ga-rua.json](./360112-maidens-extreme-fist-bun-ga-rua.json) |
@@ -14336,6 +14337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miserere | 124550 | [124550-miserere.json](./124550-miserere.json) |
 | Miseria | 38032 | [38032-miseria.json](./38032-miseria.json) |
 | Miseria | 397630 | [397630-miseria.json](./397630-miseria.json) |
+| Miseria RPG | 418111 | [418111-miseria-rpg.json](./418111-miseria-rpg.json) |
 | Misericorde Volume Two: White Wool and Snow | 305383 | [305383-misericorde-volume-two-white-wool-and-snow.json](./305383-misericorde-volume-two-white-wool-and-snow.json) |
 | Misericorde: Volume One | 165896 | [165896-misericorde-volume-one.json](./165896-misericorde-volume-one.json) |
 | Misery | 342489 | [342489-misery.json](./342489-misery.json) |
