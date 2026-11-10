@@ -10616,6 +10616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Express | 152883 | [152883-animal-express.json](./152883-animal-express.json) |
 | Animal Express | 386404 | [386404-animal-express.json](./386404-animal-express.json) |
 | Animal Falling | 293089 | [293089-animal-falling.json](./293089-animal-falling.json) |
+| Animal Farm Coloring Book for Kids & Toddlers | 401998 | [401998-animal-farm-coloring-book-for-kids-and-toddlers.json](./401998-animal-farm-coloring-book-for-kids-and-toddlers.json) |
 | Animal Farm Jigsaw Games for Toddlers, Babys and Kids | 295265 | [295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json](./295265-animal-farm-jigsaw-games-for-toddlers-babys-and-kids.json) |
 | Animal Farm Parking | 257732 | [257732-animal-farm-parking.json](./257732-animal-farm-parking.json) |
 | Animal Farm Parking: Deluxe Edition | 263621 | [263621-animal-farm-parking-deluxe-edition.json](./263621-animal-farm-parking-deluxe-edition.json) |
@@ -10700,6 +10701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Puzzle World | 237364 | [237364-animal-puzzle-world.json](./237364-animal-puzzle-world.json) |
 | Animal Puzzle: Drag 'n' Drop | 101412 | [101412-animal-puzzle-drag-n-drop.json](./101412-animal-puzzle-drag-n-drop.json) |
 | Animal Puzzle: Preschool Learning Game for Kids and Toddlers | 165618 | [165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json](./165618-animal-puzzle-preschool-learning-game-for-kids-and-toddlers.json) |
+| Animal Puzzles | 401999 | [401999-animal-puzzles.json](./401999-animal-puzzles.json) |
 | Animal Puzzles Games: little boys & girls puzzle | 87217 | [87217-animal-puzzles-games-little-boys-and-girls-puzzle.json](./87217-animal-puzzles-games-little-boys-and-girls-puzzle.json) |
 | Animal Quest | 70175 | [70175-animal-quest.json](./70175-animal-quest.json) |
 | Animal Race Run VR | 303155 | [303155-animal-race-run-vr.json](./303155-animal-race-run-vr.json) |
@@ -13046,6 +13048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Moon Shuttle | 408159 | [408159-arcade-archives-2-moon-shuttle.json](./408159-arcade-archives-2-moon-shuttle.json) |
 | Arcade Archives 2: Mouser | 411153 | [411153-arcade-archives-2-mouser.json](./411153-arcade-archives-2-mouser.json) |
 | Arcade Archives 2: Mr. Do!'s Castle | 420638 | [420638-arcade-archives-2-mr-do-s-castle.json](./420638-arcade-archives-2-mr-do-s-castle.json) |
+| Arcade Archives 2: Mr.Do! | 402000 | [402000-arcade-archives-2-mr-do.json](./402000-arcade-archives-2-mr-do.json) |
 | Arcade Archives 2: Munch Mobile | 374668 | [374668-arcade-archives-2-munch-mobile.json](./374668-arcade-archives-2-munch-mobile.json) |
 | Arcade Archives 2: Ninja Emaki | 414797 | [414797-arcade-archives-2-ninja-emaki.json](./414797-arcade-archives-2-ninja-emaki.json) |
 | Arcade Archives 2: Pinball Action | 413936 | [413936-arcade-archives-2-pinball-action.json](./413936-arcade-archives-2-pinball-action.json) |
@@ -13261,6 +13264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Moon Patrol | 95050 | [95050-arcade-archives-moon-patrol.json](./95050-arcade-archives-moon-patrol.json) |
 | Arcade Archives: Motos | 204873 | [204873-arcade-archives-motos.json](./204873-arcade-archives-motos.json) |
 | Arcade Archives: Mr. Goemon | 99763 | [99763-arcade-archives-mr-goemon.json](./99763-arcade-archives-mr-goemon.json) |
+| Arcade Archives: Mr.Do! | 402001 | [402001-arcade-archives-mr-do.json](./402001-arcade-archives-mr-do.json) |
 | Arcade Archives: Mr.Do!'s Castle | 420643 | [420643-arcade-archives-mr-do-s-castle.json](./420643-arcade-archives-mr-do-s-castle.json) |
 | Arcade Archives: Mutant Night | 121427 | [121427-arcade-archives-mutant-night.json](./121427-arcade-archives-mutant-night.json) |
 | Arcade Archives: MX5000 | 99537 | [99537-arcade-archives-mx5000.json](./99537-arcade-archives-mx5000.json) |
@@ -15801,6 +15805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ase Online | 379349 | [379349-ase-online.json](./379349-ase-online.json) |
 | Aselia the Eternal | 86163 | [86163-aselia-the-eternal.json](./86163-aselia-the-eternal.json) |
 | Aselia the Eternal: The Spirit of Eternity Sword | 33476 | [33476-aselia-the-eternal-the-spirit-of-eternity-sword.json](./33476-aselia-the-eternal-the-spirit-of-eternity-sword.json) |
+| Asema | 401989 | [401989-asema.json](./401989-asema.json) |
 | Asemblance | 19167 | [19167-asemblance.json](./19167-asemblance.json) |
 | Asemblance Collection | 110582 | [110582-asemblance-collection.json](./110582-asemblance-collection.json) |
 | Asemblance: Oversight | 99164 | [99164-asemblance-oversight.json](./99164-asemblance-oversight.json) |
@@ -18303,6 +18308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aunt Fatima | 307767 | [307767-aunt-fatima.json](./307767-aunt-fatima.json) |
 | Aunt Flora's Mansion | 208261 | [208261-aunt-floras-mansion.json](./208261-aunt-floras-mansion.json) |
 | Aunt Velma Is Coming to Tea | 58858 | [58858-aunt-velma-is-coming-to-tea.json](./58858-aunt-velma-is-coming-to-tea.json) |
+| Aunty Jam's Birthday Cake | 401957 | [401957-aunty-jams-birthday-cake.json](./401957-aunty-jams-birthday-cake.json) |
 | Auqa Panic! | 50693 | [50693-auqa-panic.json](./50693-auqa-panic.json) |
 | Aura | 119868 | [119868-aura.json](./119868-aura.json) |
 | Aura 2: The Sacred Rings | 52427 | [52427-aura-2-the-sacred-rings.json](./52427-aura-2-the-sacred-rings.json) |
@@ -19427,6 +19433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayrton Senna's Super Monaco GP II | 27077 | [27077-ayrton-sennas-super-monaco-gp-ii.json](./27077-ayrton-sennas-super-monaco-gp-ii.json) |
 | Ayse Hairdresser | 293212 | [293212-ayse-hairdresser.json](./293212-ayse-hairdresser.json) |
 | Ayse’s Dog Hairdresser | 293213 | [293213-ayse-s-dog-hairdresser.json](./293213-ayse-s-dog-hairdresser.json) |
+| Ayu Mayu Alternative | 401986 | [401986-ayu-mayu-alternative.json](./401986-ayu-mayu-alternative.json) |
 | Ayu: The Dream Soul | 149098 | [149098-ayu-the-dream-soul.json](./149098-ayu-the-dream-soul.json) |
 | Ayuda: Mystery Adventure | 174255 | [174255-ayuda-mystery-adventure.json](./174255-ayuda-mystery-adventure.json) |
 | Ayumi-chan Monogatari | 41410 | [41410-ayumi-chan-monogatari.json](./41410-ayumi-chan-monogatari.json) |
