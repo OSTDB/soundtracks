@@ -1247,6 +1247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Archmage Journey of Light | 168010 | [168010-last-archmage-journey-of-light.json](./168010-last-archmage-journey-of-light.json) |
 | Last Armageddon | 48436 | [48436-last-armageddon.json](./48436-last-armageddon.json) |
 | Last Arrows | 123535 | [123535-last-arrows.json](./123535-last-arrows.json) |
+| Last Ascender | 413985 | [413985-last-ascender.json](./413985-last-ascender.json) |
 | Last Barrier | 263114 | [263114-last-barrier.json](./263114-last-barrier.json) |
 | Last Bastion | 186580 | [186580-last-bastion.json](./186580-last-bastion.json) |
 | Last Battalion | 20127 | [20127-last-battalion.json](./20127-last-battalion.json) |
@@ -1570,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Ride | 413171 | [413171-last-ride.json](./413171-last-ride.json) |
 | Last Rites | 184810 | [184810-last-rites.json](./184810-last-rites.json) |
 | Last Rites | 320471 | [320471-last-rites.json](./320471-last-rites.json) |
+| Last Rites | 412652 | [412652-last-rites.json](./412652-last-rites.json) |
 | Last Rites | 71124 | [71124-last-rites.json](./71124-last-rites.json) |
 | Last Rites 1347 | 323574 | [323574-last-rites-1347.json](./323574-last-rites-1347.json) |
 | Last Rollbug | 319613 | [319613-last-rollbug.json](./319613-last-rollbug.json) |
@@ -4114,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2026 with International Hits: Gold Edition | 371434 | [371434-lets-sing-2026-with-international-hits-gold-edition.json](./371434-lets-sing-2026-with-international-hits-gold-edition.json) |
 | Let's Sing 2026 with International Hits: Platinum Edition | 371433 | [371433-lets-sing-2026-with-international-hits-platinum-edition.json](./371433-lets-sing-2026-with-international-hits-platinum-edition.json) |
 | Let's Sing 2026: International Hits | 375184 | [375184-lets-sing-2026-international-hits.json](./375184-lets-sing-2026-international-hits.json) |
+| Let’s Sing 2027 | 412639 | [412639-let-s-sing-2027.json](./412639-let-s-sing-2027.json) |
 | Let's Sing 5: Version Espanola | 268196 | [268196-lets-sing-5-version-espanola.json](./268196-lets-sing-5-version-espanola.json) |
 | Let's Sing 6: Version Espanola | 268197 | [268197-lets-sing-6-version-espanola.json](./268197-lets-sing-6-version-espanola.json) |
 | Let's Sing 7: Version Espanola | 268198 | [268198-lets-sing-7-version-espanola.json](./268198-lets-sing-7-version-espanola.json) |
@@ -4124,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing Collection | 118850 | [118850-lets-sing-collection.json](./118850-lets-sing-collection.json) |
 | Let's Sing Country | 125017 | [125017-lets-sing-country.json](./125017-lets-sing-country.json) |
 | Let's Sing Country: Platinum Edition | 164676 | [164676-lets-sing-country-platinum-edition.json](./164676-lets-sing-country-platinum-edition.json) |
+| Let's Sing Presents: Abba | 412641 | [412641-lets-sing-presents-abba.json](./412641-lets-sing-presents-abba.json) |
 | Let's Sing Queen | 138761 | [138761-lets-sing-queen.json](./138761-lets-sing-queen.json) |
 | Let's Sing: Radio Italia | 268190 | [268190-lets-sing-radio-italia.json](./268190-lets-sing-radio-italia.json) |
 | Let's Sing! The World of Karaoke | 386314 | [386314-lets-sing-the-world-of-karaoke.json](./386314-lets-sing-the-world-of-karaoke.json) |
@@ -9627,6 +9631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lowlander II: Lowerlander | 104706 | [104706-lowlander-ii-lowerlander.json](./104706-lowlander-ii-lowerlander.json) |
 | Lowlife | 208016 | [208016-lowlife.json](./208016-lowlife.json) |
 | LowLife Forms | 304310 | [304310-lowlife-forms.json](./304310-lowlife-forms.json) |
+| Lowmoor Idle RPG: An Adventurer's Chronicle | 412647 | [412647-lowmoor-idle-rpg-an-adventurers-chronicle.json](./412647-lowmoor-idle-rpg-an-adventurers-chronicle.json) |
 | LowPoly 3D Art Paint by Number | 390548 | [390548-lowpoly-3d-art-paint-by-number.json](./390548-lowpoly-3d-art-paint-by-number.json) |
 | LowPoly Cars | 423219 | [423219-lowpoly-cars.json](./423219-lowpoly-cars.json) |
 | Lowpoly Hero | 81820 | [81820-lowpoly-hero.json](./81820-lowpoly-hero.json) |
@@ -10723,6 +10728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lycah | 51739 | [51739-lycah.json](./51739-lycah.json) |
 | Lycanthorn II: Rain of Beasts | 149688 | [149688-lycanthorn-ii-rain-of-beasts.json](./149688-lycanthorn-ii-rain-of-beasts.json) |
 | Lycanthorn III | 239592 | [239592-lycanthorn-iii.json](./239592-lycanthorn-iii.json) |
+| Lycanthropia | 413895 | [413895-lycanthropia.json](./413895-lycanthropia.json) |
 | Lychnis | 125923 | [125923-lychnis.json](./125923-lychnis.json) |
 | Lycoris | 379603 | [379603-lycoris.json](./379603-lycoris.json) |
 | Lycoris;Lastwords | 319732 | [319732-lycoris-lastwords.json](./319732-lycoris-lastwords.json) |
