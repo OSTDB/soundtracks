@@ -2804,6 +2804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barking Irons | 57328 | [57328-barking-irons.json](./57328-barking-irons.json) |
 | Barking Puzzle | 156224 | [156224-barking-puzzle.json](./156224-barking-puzzle.json) |
 | Barkley, Shut Up and Jam: Gaiden | 50786 | [50786-barkley-shut-up-and-jam-gaiden.json](./50786-barkley-shut-up-and-jam-gaiden.json) |
+| Barkley: Shut Up and Jam! | 4520 | [4520-barkley-shut-up-and-jam.json](./4520-barkley-shut-up-and-jam.json) |
 | Barko | 413751 | [413751-barko.json](./413751-barko.json) |
 | Barkour | 177202 | [177202-barkour.json](./177202-barkour.json) |
 | Barkour | 313588 | [313588-barkour.json](./313588-barkour.json) |
@@ -4225,6 +4226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Spirits: Hero's Soul | 59156 | [59156-battle-spirits-heros-soul.json](./59156-battle-spirits-heros-soul.json) |
 | Battle Spirits: Kiseki no Hasha | 56516 | [56516-battle-spirits-kiseki-no-hasha.json](./56516-battle-spirits-kiseki-no-hasha.json) |
 | Battle Splash | 55826 | [55826-battle-splash.json](./55826-battle-splash.json) |
+| Battle Squadron | 4549 | [4549-battle-squadron.json](./4549-battle-squadron.json) |
 | Battle Squares | 322008 | [322008-battle-squares.json](./322008-battle-squares.json) |
 | Battle Squares | 54739 | [54739-battle-squares.json](./54739-battle-squares.json) |
 | Battle Stadium D.O.N | 50575 | [50575-battle-stadium-d-o-n.json](./50575-battle-stadium-d-o-n.json) |
@@ -4289,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Wave 2323 | 166281 | [166281-battle-wave-2323.json](./166281-battle-wave-2323.json) |
 | Battle Waves | 204809 | [204809-battle-waves.json](./204809-battle-waves.json) |
 | Battle West | 95723 | [95723-battle-west.json](./95723-battle-west.json) |
+| Battle Wings | 4608 | [4608-battle-wings.json](./4608-battle-wings.json) |
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
 | Battle Wizards | 136284 | [136284-battle-wizards.json](./136284-battle-wizards.json) |
 | Battle World: Kronos - Special Edition | 52455 | [52455-battle-world-kronos-special-edition.json](./52455-battle-world-kronos-special-edition.json) |
@@ -13198,6 +13201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman II | 3447 | [3447-bomberman-ii.json](./3447-bomberman-ii.json) |
 | Bomberman II: The Revenge | 134538 | [134538-bomberman-ii-the-revenge.json](./134538-bomberman-ii-the-revenge.json) |
 | Bomberman Island 3D | 198035 | [198035-bomberman-island-3d.json](./198035-bomberman-island-3d.json) |
+| Bomberman Jetters | 3833 | [3833-bomberman-jetters.json](./3833-bomberman-jetters.json) |
 | Bomberman Jetters Vol. 1 | 198055 | [198055-bomberman-jetters-vol-1.json](./198055-bomberman-jetters-vol-1.json) |
 | Bomberman Jetters: Densetsu no Bomberman | 67859 | [67859-bomberman-jetters-densetsu-no-bomberman.json](./67859-bomberman-jetters-densetsu-no-bomberman.json) |
 | Bomberman Jetters: Game Collection | 49528 | [49528-bomberman-jetters-game-collection.json](./49528-bomberman-jetters-game-collection.json) |
@@ -15366,6 +15370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz: Formal Funk | 206488 | [206488-bratz-formal-funk.json](./206488-bratz-formal-funk.json) |
 | Bratz: Girlz Really Rock | 43248 | [43248-bratz-girlz-really-rock.json](./43248-bratz-girlz-really-rock.json) |
 | Bratz: Rock Angelz | 248472 | [248472-bratz-rock-angelz.json](./248472-bratz-rock-angelz.json) |
+| Bratz: Rock Angelz | 3836 | [3836-bratz-rock-angelz.json](./3836-bratz-rock-angelz.json) |
 | Bratz: Super Babyz | 67804 | [67804-bratz-super-babyz.json](./67804-bratz-super-babyz.json) |
 | Bratz: The Movie | 248612 | [248612-bratz-the-movie.json](./248612-bratz-the-movie.json) |
 | Bratz: The Movie | 4728 | [4728-bratz-the-movie.json](./4728-bratz-the-movie.json) |
