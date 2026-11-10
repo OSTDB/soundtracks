@@ -9083,6 +9083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Explorer: Bismarck | 377776 | [377776-ship-explorer-bismarck.json](./377776-ship-explorer-bismarck.json) |
 | Ship Fight | 113864 | [113864-ship-fight.json](./113864-ship-fight.json) |
 | Ship Fight! | 372129 | [372129-ship-fight.json](./372129-ship-fight.json) |
+| Ship Graveyard Simulator | 176083 | [176083-ship-graveyard-simulator.json](./176083-ship-graveyard-simulator.json) |
 | Ship Graveyard Simulator 2 | 225984 | [225984-ship-graveyard-simulator-2.json](./225984-ship-graveyard-simulator-2.json) |
 | Ship Graveyard Simulator 2: Floating Cities | 337530 | [337530-ship-graveyard-simulator-2-floating-cities.json](./337530-ship-graveyard-simulator-2-floating-cities.json) |
 | Ship Graveyard Simulator 2: Steam Ships | 337529 | [337529-ship-graveyard-simulator-2-steam-ships.json](./337529-ship-graveyard-simulator-2-steam-ships.json) |
@@ -12325,6 +12326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Flags Fun Park | 85164 | [85164-six-flags-fun-park.json](./85164-six-flags-fun-park.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
 | Six Gun Saga | 92555 | [92555-six-gun-saga.json](./92555-six-gun-saga.json) |
+| Six Guns | 65159 | [65159-six-guns.json](./65159-six-guns.json) |
 | Six Hours at Hugo's | 273855 | [273855-six-hours-at-hugos.json](./273855-six-hours-at-hugos.json) |
 | Six in One Translator | 68056 | [68056-six-in-one-translator.json](./68056-six-in-one-translator.json) |
 | Six in One Translator | 85086 | [85086-six-in-one-translator.json](./85086-six-in-one-translator.json) |
@@ -14083,6 +14085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slice of Life | 55276 | [55276-slice-of-life.json](./55276-slice-of-life.json) |
 | Slice of Life Fantasy | 191192 | [191192-slice-of-life-fantasy.json](./191192-slice-of-life-fantasy.json) |
 | Slice of Scythe | 179601 | [179601-slice-of-scythe.json](./179601-slice-of-scythe.json) |
+| Slice of Sea | 164152 | [164152-slice-of-sea.json](./164152-slice-of-sea.json) |
 | Slice Overdrive | 380159 | [380159-slice-overdrive.json](./380159-slice-overdrive.json) |
 | Slice Surge | 366327 | [366327-slice-surge.json](./366327-slice-surge.json) |
 | Slice the Ice | 75779 | [75779-slice-the-ice.json](./75779-slice-the-ice.json) |
@@ -15008,6 +15011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Club: Streets of Shmeenis | 147650 | [147650-smash-club-streets-of-shmeenis.json](./147650-smash-club-streets-of-shmeenis.json) |
 | Smash Colors | 214318 | [214318-smash-colors.json](./214318-smash-colors.json) |
 | Smash Cops | 22929 | [22929-smash-cops.json](./22929-smash-cops.json) |
+| Smash Cops Heat | 62891 | [62891-smash-cops-heat.json](./62891-smash-cops-heat.json) |
 | Smash Court 3 | 61669 | [61669-smash-court-3.json](./61669-smash-court-3.json) |
 | Smash Court Tennis 3 | 7188 | [7188-smash-court-tennis-3.json](./7188-smash-court-tennis-3.json) |
 | Smash Court Tennis Pro Tournament | 43618 | [43618-smash-court-tennis-pro-tournament.json](./43618-smash-court-tennis-pro-tournament.json) |
@@ -16709,6 +16713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Space | 398537 | [398537-social-space.json](./398537-social-space.json) |
 | Social Status: Life Simulator | 279103 | [279103-social-status-life-simulator.json](./279103-social-status-life-simulator.json) |
 | Social Warfare | 319609 | [319609-social-warfare.json](./319609-social-warfare.json) |
+| Social Wars | 172811 | [172811-social-wars.json](./172811-social-wars.json) |
 | Socialiskigrad | 406764 | [406764-socialiskigrad.json](./406764-socialiskigrad.json) |
 | Socialism Simulator | 159583 | [159583-socialism-simulator.json](./159583-socialism-simulator.json) |
 | Socialize | 182217 | [182217-socialize.json](./182217-socialize.json) |
@@ -19197,6 +19202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry to Bother You | 177399 | [177399-sorry-to-bother-you.json](./177399-sorry-to-bother-you.json) |
 | Sorry We're Closed: Deluxe Edition | 402332 | [402332-sorry-were-closed-deluxe-edition.json](./402332-sorry-were-closed-deluxe-edition.json) |
 | Sorry We're Closed: Perfect Combo Edition | 402333 | [402333-sorry-were-closed-perfect-combo-edition.json](./402333-sorry-were-closed-perfect-combo-edition.json) |
+| Sorry, James | 65581 | [65581-sorry-james.json](./65581-sorry-james.json) |
 | Sorry, My King | 397936 | [397936-sorry-my-king.json](./397936-sorry-my-king.json) |
 | Sorry, We Have A Policy | 256765 | [256765-sorry-we-have-a-policy.json](./256765-sorry-we-have-a-policy.json) |
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
