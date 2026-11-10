@@ -4889,6 +4889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catnigma | 376755 | [376755-catnigma.json](./376755-catnigma.json) |
 | Catnip | 184791 | [184791-catnip.json](./184791-catnip.json) |
 | Catnip & Coffee | 350529 | [350529-catnip-and-coffee.json](./350529-catnip-and-coffee.json) |
+| Catnip Cosmos | 403294 | [403294-catnip-cosmos.json](./403294-catnip-cosmos.json) |
 | Catnip Dreams | 284795 | [284795-catnip-dreams.json](./284795-catnip-dreams.json) |
 | Catniptic | 263059 | [263059-catniptic.json](./263059-catniptic.json) |
 | Cato: Buttered Cat | 203934 | [203934-cato-buttered-cat.json](./203934-cato-buttered-cat.json) |
@@ -8344,6 +8345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chonky: From Breakfast to Domination | 207492 | [207492-chonky-from-breakfast-to-domination.json](./207492-chonky-from-breakfast-to-domination.json) |
 | Chonkymon | 149035 | [149035-chonkymon.json](./149035-chonkymon.json) |
 | Choo Choo Crossing | 278722 | [278722-choo-choo-crossing.json](./278722-choo-choo-crossing.json) |
+| Choo Choo Defenders | 403296 | [403296-choo-choo-defenders.json](./403296-choo-choo-defenders.json) |
 | Choo Choo Minder | 252988 | [252988-choo-choo-minder.json](./252988-choo-choo-minder.json) |
 | Choo Choo Survivor | 242622 | [242622-choo-choo-survivor.json](./242622-choo-choo-survivor.json) |
 | Choo-Choo Charles | 173432 | [173432-choo-choo-charles.json](./173432-choo-choo-charles.json) |
@@ -16479,6 +16481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counties Work | 207836 | [207836-counties-work.json](./207836-counties-work.json) |
 | Countin' Stars | 368496 | [368496-countin-stars.json](./368496-countin-stars.json) |
 | Counting on Frank | 71523 | [71523-counting-on-frank.json](./71523-counting-on-frank.json) |
+| Counting Sheep | 403246 | [403246-counting-sheep.json](./403246-counting-sheep.json) |
 | Countless Army | 250720 | [250720-countless-army.json](./250720-countless-army.json) |
 | Countless Rooms of Death | 35945 | [35945-countless-rooms-of-death.json](./35945-countless-rooms-of-death.json) |
 | Countries of the World | 137489 | [137489-countries-of-the-world.json](./137489-countries-of-the-world.json) |
