@@ -2613,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raze 3 | 119290 | [119290-raze-3.json](./119290-raze-3.json) |
 | Raze: Dungeon Arena | 52010 | [52010-raze-dungeon-arena.json](./52010-raze-dungeon-arena.json) |
 | Raze's Hell | 5999 | [5999-razes-hell.json](./5999-razes-hell.json) |
+| Razed | 86041 | [86041-razed.json](./86041-razed.json) |
 | Razed are the Powerful | 390709 | [390709-razed-are-the-powerful.json](./390709-razed-are-the-powerful.json) |
 | Razed Earth | 192423 | [192423-razed-earth.json](./192423-razed-earth.json) |
 | Razenroth 2 | 163185 | [163185-razenroth-2.json](./163185-razenroth-2.json) |
@@ -8595,6 +8596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rive | 17069 | [17069-rive.json](./17069-rive.json) |
 | Rive: Blue Box Limited Edition | 202220 | [202220-rive-blue-box-limited-edition.json](./202220-rive-blue-box-limited-edition.json) |
 | Rive: Orange Box Limited Edition | 202219 | [202219-rive-orange-box-limited-edition.json](./202219-rive-orange-box-limited-edition.json) |
+| Rive: Ultimate Edition | 84837 | [84837-rive-ultimate-edition.json](./84837-rive-ultimate-edition.json) |
 | Riven Crown | 339237 | [339237-riven-crown.json](./339237-riven-crown.json) |
 | Riven: The Sequel to Myst | 238 | [238-riven-the-sequel-to-myst.json](./238-riven-the-sequel-to-myst.json) |
 | Riven: The Sequel to Myst | 339943 | [339943-riven-the-sequel-to-myst.json](./339943-riven-the-sequel-to-myst.json) |
@@ -9424,6 +9426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Rejects | 220630 | [220630-robot-rejects.json](./220630-robot-rejects.json) |
 | Robot Rescue | 84844 | [84844-robot-rescue.json](./84844-robot-rescue.json) |
 | Robot Rescue 2 | 84845 | [84845-robot-rescue-2.json](./84845-robot-rescue-2.json) |
+| Robot Rescue 3D | 84846 | [84846-robot-rescue-3d.json](./84846-robot-rescue-3d.json) |
 | Robot Rescue Revolution | 9012 | [9012-robot-rescue-revolution.json](./9012-robot-rescue-revolution.json) |
 | Robot Revolt | 230903 | [230903-robot-revolt.json](./230903-robot-revolt.json) |
 | Robot Rhapsody | 346706 | [346706-robot-rhapsody.json](./346706-robot-rhapsody.json) |
