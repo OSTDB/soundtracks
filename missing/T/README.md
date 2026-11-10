@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T^2.5 | 169731 | [169731-t-2-5.json](./169731-t-2-5.json) |
 | T10X Car Simulator | 256718 | [256718-t10x-car-simulator.json](./256718-t10x-car-simulator.json) |
 | T1wre3: Noname | 329161 | [329161-t1wre3-noname.json](./329161-t1wre3-noname.json) |
+| T2: The Arcade Game | 12861 | [12861-t2-the-arcade-game.json](./12861-t2-the-arcade-game.json) |
 | T2: The Arcade Game | 242314 | [242314-t2-the-arcade-game.json](./242314-t2-the-arcade-game.json) |
 | T2048 | 304335 | [304335-t2048.json](./304335-t2048.json) |
 | T2SD | 131461 | [131461-t2sd.json](./131461-t2sd.json) |
@@ -5132,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris | 86490 | [86490-tetris.json](./86490-tetris.json) |
 | Tetris | 88894 | [88894-tetris.json](./88894-tetris.json) |
 | Tetris | 91204 | [91204-tetris.json](./91204-tetris.json) |
+| Tetris & Dr. Mario | 14531 | [14531-tetris-and-dr-mario.json](./14531-tetris-and-dr-mario.json) |
 | Tetris 2 | 254511 | [254511-tetris-2.json](./254511-tetris-2.json) |
 | Tetris 2 | 254512 | [254512-tetris-2.json](./254512-tetris-2.json) |
 | Tetris 2 | 263866 | [263866-tetris-2.json](./263866-tetris-2.json) |
@@ -11153,6 +11155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The History of Fruit | 268471 | [268471-the-history-of-fruit.json](./268471-the-history-of-fruit.json) |
 | The History of Magic Tower: Opening | 309354 | [309354-the-history-of-magic-tower-opening.json](./309354-the-history-of-magic-tower-opening.json) |
 | The Hit Car | 245634 | [245634-the-hit-car.json](./245634-the-hit-car.json) |
+| The Hitchhiker's Guide to the Galaxy | 12143 | [12143-the-hitchhikers-guide-to-the-galaxy.json](./12143-the-hitchhikers-guide-to-the-galaxy.json) |
 | The Hive | 125291 | [125291-the-hive.json](./125291-the-hive.json) |
 | The Hive | 17889 | [17889-the-hive.json](./17889-the-hive.json) |
 | The Hive | 242803 | [242803-the-hive.json](./242803-the-hive.json) |
@@ -26436,6 +26439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Small To Matter | 297363 | [297363-too-small-to-matter.json](./297363-too-small-to-matter.json) |
 | Too Tired To Die | 317301 | [317301-too-tired-to-die.json](./317301-too-tired-to-die.json) |
 | Too White Basketball | 119636 | [119636-too-white-basketball.json](./119636-too-white-basketball.json) |
+| Toobin' | 12867 | [12867-toobin.json](./12867-toobin.json) |
 | TooBold 3 | 97102 | [97102-toobold-3.json](./97102-toobold-3.json) |
 | Toobtrix | 96548 | [96548-toobtrix.json](./96548-toobtrix.json) |
 | Toobz | 94270 | [94270-toobz.json](./94270-toobz.json) |
@@ -29999,6 +30003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Train Train | 158548 | [158548-train-train-train.json](./158548-train-train-train.json) |
 | Train Trip | 179462 | [179462-train-trip.json](./179462-train-trip.json) |
 | Train Tycoon | 152866 | [152866-train-tycoon.json](./152866-train-tycoon.json) |
+| Train Valley | 12638 | [12638-train-valley.json](./12638-train-valley.json) |
 | Train Valley 2: Community Edition | 275996 | [275996-train-valley-2-community-edition.json](./275996-train-valley-2-community-edition.json) |
 | Train Valley 2: Editor's Bulletin | 243140 | [243140-train-valley-2-editors-bulletin.json](./243140-train-valley-2-editors-bulletin.json) |
 | Train Valley 2: Japanese Trails | 367283 | [367283-train-valley-2-japanese-trails.json](./367283-train-valley-2-japanese-trails.json) |
@@ -32410,6 +32415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Throwing Sports | 85459 | [85459-triple-throwing-sports.json](./85459-triple-throwing-sports.json) |
 | Triple Tiles | 178548 | [178548-triple-tiles.json](./178548-triple-tiles.json) |
 | Triple Tournament | 313098 | [313098-triple-tournament.json](./313098-triple-tournament.json) |
+| Triple Town | 14405 | [14405-triple-town.json](./14405-triple-town.json) |
 | Triple Track | 416584 | [416584-triple-track.json](./416584-triple-track.json) |
 | Triple Triad | 386989 | [386989-triple-triad.json](./386989-triple-triad.json) |
 | Triple Triad: Tournament of the Elements | 209374 | [209374-triple-triad-tournament-of-the-elements.json](./209374-triple-triad-tournament-of-the-elements.json) |
