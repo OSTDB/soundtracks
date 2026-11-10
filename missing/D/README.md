@@ -7744,6 +7744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
 | Deskeroes | 348424 | [348424-deskeroes.json](./348424-deskeroes.json) |
 | Deskmate Girl | 161485 | [161485-deskmate-girl.json](./161485-deskmate-girl.json) |
+| Deskrawl: Idle ARPG | 420467 | [420467-deskrawl-idle-arpg.json](./420467-deskrawl-idle-arpg.json) |
 | Desktop Agents: Covid-999 | 264449 | [264449-desktop-agents-covid-999.json](./264449-desktop-agents-covid-999.json) |
 | Desktop Aquarium | 348834 | [348834-desktop-aquarium.json](./348834-desktop-aquarium.json) |
 | Desktop Aquarium | 383742 | [383742-desktop-aquarium.json](./383742-desktop-aquarium.json) |
@@ -10723,6 +10724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discharge | 117040 | [117040-discharge.json](./117040-discharge.json) |
 | Dischord | 119001 | [119001-dischord.json](./119001-dischord.json) |
 | Discin | 295797 | [295797-discin.json](./295797-discin.json) |
+| Discing With Friends | 420471 | [420471-discing-with-friends.json](./420471-discing-with-friends.json) |
 | Disciple | 320829 | [320829-disciple.json](./320829-disciple.json) |
 | Disciple | 401667 | [401667-disciple.json](./401667-disciple.json) |
 | Disciples II Mobile | 314309 | [314309-disciples-ii-mobile.json](./314309-disciples-ii-mobile.json) |
