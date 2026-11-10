@@ -9901,6 +9901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Crafter | 248151 | [248151-blade-crafter.json](./248151-blade-crafter.json) |
 | Blade Crafter 2 | 299413 | [299413-blade-crafter-2.json](./299413-blade-crafter-2.json) |
 | Blade Crusade | 190210 | [190210-blade-crusade.json](./190210-blade-crusade.json) |
+| Blade Dancer: Lineage of Light | 23115 | [23115-blade-dancer-lineage-of-light.json](./23115-blade-dancer-lineage-of-light.json) |
 | Blade Dancer: Lineage of Light | 269079 | [269079-blade-dancer-lineage-of-light.json](./269079-blade-dancer-lineage-of-light.json) |
 | Blade Eagle 3-D | 45663 | [45663-blade-eagle-3-d.json](./45663-blade-eagle-3-d.json) |
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
@@ -10149,6 +10150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Droids | 172025 | [172025-blast-droids.json](./172025-blast-droids.json) |
 | Blast em! | 10052 | [10052-blast-em.json](./10052-blast-em.json) |
 | Blast Ensemble | 147809 | [147809-blast-ensemble.json](./147809-blast-ensemble.json) |
+| Blast Factor | 23105 | [23105-blast-factor.json](./23105-blast-factor.json) |
 | Blast Factor: Advanced Research | 26100 | [26100-blast-factor-advanced-research.json](./26100-blast-factor-advanced-research.json) |
 | Blast Factor: Multiplayer Pack | 26099 | [26099-blast-factor-multiplayer-pack.json](./26099-blast-factor-multiplayer-pack.json) |
 | Blast Flock | 181216 | [181216-blast-flock.json](./181216-blast-flock.json) |
@@ -19242,6 +19244,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz! Junior: Robo Jam | 44710 | [44710-buzz-junior-robo-jam.json](./44710-buzz-junior-robo-jam.json) |
 | Buzz! Quiz TV Bundle | 43045 | [43045-buzz-quiz-tv-bundle.json](./43045-buzz-quiz-tv-bundle.json) |
 | Buzz! The Big Quiz | 18716 | [18716-buzz-the-big-quiz.json](./18716-buzz-the-big-quiz.json) |
+| Buzz! The Hollywood Quiz | 23065 | [23065-buzz-the-hollywood-quiz.json](./23065-buzz-the-hollywood-quiz.json) |
+| Buzz! The Mega Quiz | 23089 | [23089-buzz-the-mega-quiz.json](./23089-buzz-the-mega-quiz.json) |
 | Buzz! The Schools Quiz | 93404 | [93404-buzz-the-schools-quiz.json](./93404-buzz-the-schools-quiz.json) |
 | Buzz! The Sports Quiz | 43520 | [43520-buzz-the-sports-quiz.json](./43520-buzz-the-sports-quiz.json) |
 | Buzz! The Ultimate Music Quiz | 44586 | [44586-buzz-the-ultimate-music-quiz.json](./44586-buzz-the-ultimate-music-quiz.json) |
