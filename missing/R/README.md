@@ -3472,6 +3472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper's Ledger | 393530 | [393530-reapers-ledger.json](./393530-reapers-ledger.json) |
 | Reaper's Odyssey | 319809 | [319809-reapers-odyssey.json](./319809-reapers-odyssey.json) |
 | Reaper's Rite | 297561 | [297561-reapers-rite.json](./297561-reapers-rite.json) |
+| Reapercussions | 427275 | [427275-reapercussions.json](./427275-reapercussions.json) |
 | Reapers | 267448 | [267448-reapers.json](./267448-reapers.json) |
 | Reapers Inc. | 258573 | [258573-reapers-inc.json](./258573-reapers-inc.json) |
 | Reapers Reception | 406923 | [406923-reapers-reception.json](./406923-reapers-reception.json) |
@@ -4220,6 +4221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Sails | 134814 | [134814-red-sails.json](./134814-red-sails.json) |
 | Red Sails | 67441 | [67441-red-sails.json](./67441-red-sails.json) |
 | Red Sauce: The Leftovers | 420775 | [420775-red-sauce-the-leftovers.json](./420775-red-sauce-the-leftovers.json) |
+| Red Scare: Midnight Run | 427281 | [427281-red-scare-midnight-run.json](./427281-red-scare-midnight-run.json) |
 | Red Scorpion | 47144 | [47144-red-scorpion.json](./47144-red-scorpion.json) |
 | Red Sea | 223032 | [223032-red-sea.json](./223032-red-sea.json) |
 | Red Sea Crossing | 40773 | [40773-red-sea-crossing.json](./40773-red-sea-crossing.json) |
@@ -13349,6 +13351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruru's Christmas Run | 184738 | [184738-rurus-christmas-run.json](./184738-rurus-christmas-run.json) |
 | Ruruli Ra Rura | 45950 | [45950-ruruli-ra-rura.json](./45950-ruruli-ra-rura.json) |
 | Rusa Odyssey | 159783 | [159783-rusa-odyssey.json](./159783-rusa-odyssey.json) |
+| Rusalka Wrath | 427218 | [427218-rusalka-wrath.json](./427218-rusalka-wrath.json) |
 | Rush | 131541 | [131541-rush.json](./131541-rush.json) |
 | Rush | 200584 | [200584-rush.json](./200584-rush.json) |
 | Rush | 222675 | [222675-rush.json](./222675-rush.json) |
