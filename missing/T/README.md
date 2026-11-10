@@ -3049,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tea for the Soul | 386497 | [386497-tea-for-the-soul.json](./386497-tea-for-the-soul.json) |
 | Tea Garden Simulator | 139647 | [139647-tea-garden-simulator.json](./139647-tea-garden-simulator.json) |
 | Tea House Simulator | 326338 | [326338-tea-house-simulator.json](./326338-tea-house-simulator.json) |
+| Tea Party Simulator 2015 | 35559 | [35559-tea-party-simulator-2015.json](./35559-tea-party-simulator-2015.json) |
 | Tea Party Zombie Must Die | 217600 | [217600-tea-party-zombie-must-die.json](./217600-tea-party-zombie-must-die.json) |
 | Tea Society of a Witch | 72664 | [72664-tea-society-of-a-witch.json](./72664-tea-society-of-a-witch.json) |
 | Tea Talk | 298198 | [298198-tea-talk.json](./298198-tea-talk.json) |
@@ -4649,6 +4650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Forma: Tower Combat | 348539 | [348539-terra-forma-tower-combat.json](./348539-terra-forma-tower-combat.json) |
 | Terra Formars: Akaki Hoshi no Gekito | 80339 | [80339-terra-formars-akaki-hoshi-no-gekito.json](./80339-terra-formars-akaki-hoshi-no-gekito.json) |
 | Terra Incognita | 129119 | [129119-terra-incognita.json](./129119-terra-incognita.json) |
+| Terra Incognita ~ Chapter One: The Descendant | 35808 | [35808-terra-incognita-chapter-one-the-descendant.json](./35808-terra-incognita-chapter-one-the-descendant.json) |
 | Terra Incognito - Antarctica 1911 | 112666 | [112666-terra-incognito-antarctica-1911.json](./112666-terra-incognito-antarctica-1911.json) |
 | Terra Inferno | 321952 | [321952-terra-inferno.json](./321952-terra-inferno.json) |
 | Terra Invicta | 124042 | [124042-terra-invicta.json](./124042-terra-invicta.json) |
@@ -16198,6 +16200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Regular: Same Dog Every Time | 411750 | [411750-the-regular-same-dog-every-time.json](./411750-the-regular-same-dog-every-time.json) |
 | The Reign of an Early Fairy Sovereign | 56267 | [56267-the-reign-of-an-early-fairy-sovereign.json](./56267-the-reign-of-an-early-fairy-sovereign.json) |
 | The Reincarnation | 383107 | [383107-the-reincarnation.json](./383107-the-reincarnation.json) |
+| The Reject Demon: Toko Chapter 0 - Prelude | 35513 | [35513-the-reject-demon-toko-chapter-0-prelude.json](./35513-the-reject-demon-toko-chapter-0-prelude.json) |
 | The Relentless | 74219 | [74219-the-relentless.json](./74219-the-relentless.json) |
 | The Relic: First Guardian | 165397 | [165397-the-relic-first-guardian.json](./165397-the-relic-first-guardian.json) |
 | The Relief of Impact | 179751 | [179751-the-relief-of-impact.json](./179751-the-relief-of-impact.json) |
@@ -28801,6 +28804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track Star | 395754 | [395754-track-star.json](./395754-track-star.json) |
 | Track: Breakthrough Gaming Arcade - Challenge Mode Edition | 207049 | [207049-track-breakthrough-gaming-arcade-challenge-mode-edition.json](./207049-track-breakthrough-gaming-arcade-challenge-mode-edition.json) |
 | Trackastrophe! | 333074 | [333074-trackastrophe.json](./333074-trackastrophe.json) |
+| Trackday Manager | 35821 | [35821-trackday-manager.json](./35821-trackday-manager.json) |
 | TrackDayR | 143045 | [143045-trackdayr.json](./143045-trackdayr.json) |
 | Tracked: Shoot to Survive | 360773 | [360773-tracked-shoot-to-survive.json](./360773-tracked-shoot-to-survive.json) |
 | Tracker | 121906 | [121906-tracker.json](./121906-tracker.json) |
@@ -31332,6 +31336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traps 'n' Treasures | 37275 | [37275-traps-n-treasures.json](./37275-traps-n-treasures.json) |
 | Traps Ahead! | 126850 | [126850-traps-ahead.json](./126850-traps-ahead.json) |
 | Traps in Space | 142482 | [142482-traps-in-space.json](./142482-traps-in-space.json) |
+| Traps N' Gemstones | 35644 | [35644-traps-n-gemstones.json](./35644-traps-n-gemstones.json) |
 | Trapt | 22576 | [22576-trapt.json](./22576-trapt.json) |
 | Trapt | 232845 | [232845-trapt.json](./232845-trapt.json) |
 | TrapThem | 50221 | [50221-trapthem.json](./50221-trapthem.json) |
@@ -32319,6 +32324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger on the Road | 232335 | [232335-trigger-on-the-road.json](./232335-trigger-on-the-road.json) |
 | Trigger Path | 378386 | [378386-trigger-path.json](./378386-trigger-path.json) |
 | Trigger Rally | 63239 | [63239-trigger-rally.json](./63239-trigger-rally.json) |
+| Trigger Runners | 35611 | [35611-trigger-runners.json](./35611-trigger-runners.json) |
 | Trigger Saint | 35627 | [35627-trigger-saint.json](./35627-trigger-saint.json) |
 | Trigger Spree | 195623 | [195623-trigger-spree.json](./195623-trigger-spree.json) |
 | Trigger Table | 113028 | [113028-trigger-table.json](./113028-trigger-table.json) |
