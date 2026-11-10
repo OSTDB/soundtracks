@@ -5646,9 +5646,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Conflicts Collection | 52572 | [52572-air-conflicts-collection.json](./52572-air-conflicts-collection.json) |
 | Air Conflicts: Aces of World War II | 3829 | [3829-air-conflicts-aces-of-world-war-ii.json](./3829-air-conflicts-aces-of-world-war-ii.json) |
 | Air Conflicts: Double Pack | 118198 | [118198-air-conflicts-double-pack.json](./118198-air-conflicts-double-pack.json) |
+| Air Conflicts: Pacific Carriers | 3831 | [3831-air-conflicts-pacific-carriers.json](./3831-air-conflicts-pacific-carriers.json) |
 | Air Conflicts: Pacific Carriers - PlayStation 4 Edition | 99768 | [99768-air-conflicts-pacific-carriers-playstation-4-edition.json](./99768-air-conflicts-pacific-carriers-playstation-4-edition.json) |
 | Air Conflicts: Secret Wars | 3830 | [3830-air-conflicts-secret-wars.json](./3830-air-conflicts-secret-wars.json) |
 | Air Conflicts: Secret Wars - Ultimate Edition | 27783 | [27783-air-conflicts-secret-wars-ultimate-edition.json](./27783-air-conflicts-secret-wars-ultimate-edition.json) |
+| Air Conflicts: Vietnam | 3828 | [3828-air-conflicts-vietnam.json](./3828-air-conflicts-vietnam.json) |
 | Air Conflicts: Vietnam Ultimate Edition | 44546 | [44546-air-conflicts-vietnam-ultimate-edition.json](./44546-air-conflicts-vietnam-ultimate-edition.json) |
 | Air Control | 13160 | [13160-air-control.json](./13160-air-control.json) |
 | Air Control | 136711 | [136711-air-control.json](./136711-air-control.json) |
@@ -6613,6 +6615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemos | 190041 | [190041-alchemos.json](./190041-alchemos.json) |
 | Alchemy | 179418 | [179418-alchemy.json](./179418-alchemy.json) |
 | Alchemy | 337805 | [337805-alchemy.json](./337805-alchemy.json) |
+| Alchemy | 3754 | [3754-alchemy.json](./3754-alchemy.json) |
 | Alchemy | 397482 | [397482-alchemy.json](./397482-alchemy.json) |
 | Alchemy 1000 | 134383 | [134383-alchemy-1000.json](./134383-alchemy-1000.json) |
 | Alchemy Absorption: Melody | 157940 | [157940-alchemy-absorption-melody.json](./157940-alchemy-absorption-melody.json) |
@@ -6955,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Wonderland | 175929 | [175929-alice-in-wonderland.json](./175929-alice-in-wonderland.json) |
 | Alice in Wonderland | 196846 | [196846-alice-in-wonderland.json](./196846-alice-in-wonderland.json) |
 | Alice in Wonderland | 296824 | [296824-alice-in-wonderland.json](./296824-alice-in-wonderland.json) |
+| Alice in Wonderland | 4666 | [4666-alice-in-wonderland.json](./4666-alice-in-wonderland.json) |
 | Alice in Wonderland | 50016 | [50016-alice-in-wonderland.json](./50016-alice-in-wonderland.json) |
 | Alice in Wonderland AR quest D | 100694 | [100694-alice-in-wonderland-ar-quest-d.json](./100694-alice-in-wonderland-ar-quest-d.json) |
 | Alice in Wonderland: 3D Game | 102945 | [102945-alice-in-wonderland-3d-game.json](./102945-alice-in-wonderland-3d-game.json) |
@@ -8982,6 +8986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Cars 'n Guns | 346222 | [346222-american-cars-n-guns.json](./346222-american-cars-n-guns.json) |
 | American Catur | 187971 | [187971-american-catur.json](./187971-american-catur.json) |
 | American Chopper | 47304 | [47304-american-chopper.json](./47304-american-chopper.json) |
+| American Chopper 2: Full Throttle | 3785 | [3785-american-chopper-2-full-throttle.json](./3785-american-chopper-2-full-throttle.json) |
 | American Christmas | 186405 | [186405-american-christmas.json](./186405-american-christmas.json) |
 | American Christmas 2 | 258650 | [258650-american-christmas-2.json](./258650-american-christmas-2.json) |
 | American Civil War | 52582 | [52582-american-civil-war.json](./52582-american-civil-war.json) |
@@ -9898,6 +9903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andoran Skye XD | 30385 | [30385-andoran-skye-xd.json](./30385-andoran-skye-xd.json) |
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
 | Andre Agassi Tennis | 369245 | [369245-andre-agassi-tennis.json](./369245-andre-agassi-tennis.json) |
+| Andre Agassi Tennis | 4525 | [4525-andre-agassi-tennis.json](./4525-andre-agassi-tennis.json) |
 | Andre Panza Kick Boxing | 42128 | [42128-andre-panza-kick-boxing.json](./42128-andre-panza-kick-boxing.json) |
 | André Ventura Dating Simulator | 300487 | [300487-andre-ventura-dating-simulator.json](./300487-andre-ventura-dating-simulator.json) |
 | Andreas Osswald's Championship Soccer 2004-2005 Edition | 27468 | [27468-andreas-osswalds-championship-soccer-2004-2005-edition.json](./27468-andreas-osswalds-championship-soccer-2004-2005-edition.json) |
@@ -13336,6 +13342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classics | 245988 | [245988-arcade-classics.json](./245988-arcade-classics.json) |
 | Arcade Classics | 250130 | [250130-arcade-classics.json](./250130-arcade-classics.json) |
 | Arcade Classics | 282489 | [282489-arcade-classics.json](./282489-arcade-classics.json) |
+| Arcade Classics | 4502 | [4502-arcade-classics.json](./4502-arcade-classics.json) |
 | Arcade Classics | 77144 | [77144-arcade-classics.json](./77144-arcade-classics.json) |
 | Arcade Classics 3D | 76085 | [76085-arcade-classics-3d.json](./76085-arcade-classics-3d.json) |
 | Arcade Classics: Ms. Pac-Man | 219386 | [219386-arcade-classics-ms-pac-man.json](./219386-arcade-classics-ms-pac-man.json) |
@@ -13951,6 +13958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Tale | 248613 | [248613-arctic-tale.json](./248613-arctic-tale.json) |
 | Arctic Tale | 248614 | [248614-arctic-tale.json](./248614-arctic-tale.json) |
 | Arctic Tale | 4679 | [4679-arctic-tale.json](./4679-arctic-tale.json) |
+| Arctic Thunder | 3703 | [3703-arctic-thunder.json](./3703-arctic-thunder.json) |
 | Arctic Trucker Simulator | 36396 | [36396-arctic-trucker-simulator.json](./36396-arctic-trucker-simulator.json) |
 | Arctic Wolves | 338153 | [338153-arctic-wolves.json](./338153-arctic-wolves.json) |
 | Arctic Zone | 210639 | [210639-arctic-zone.json](./210639-arctic-zone.json) |
