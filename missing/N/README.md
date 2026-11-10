@@ -3093,6 +3093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neurocracy | 172662 | [172662-neurocracy.json](./172662-neurocracy.json) |
 | Neurocracy 2.049 | 257097 | [257097-neurocracy-2-049.json](./257097-neurocracy-2-049.json) |
 | NeuroDancer: Journey into the NeuroNet! | 4320 | [4320-neurodancer-journey-into-the-neuronet.json](./4320-neurodancer-journey-into-the-neuronet.json) |
+| Neuroflip | 428402 | [428402-neuroflip.json](./428402-neuroflip.json) |
 | Neuroforge | 389534 | [389534-neuroforge.json](./389534-neuroforge.json) |
 | NeuroHex: Hacking, Spying, Sabotage | 129029 | [129029-neurohex-hacking-spying-sabotage.json](./129029-neurohex-hacking-spying-sabotage.json) |
 | Neurokino Retrograde | 321120 | [321120-neurokino-retrograde.json](./321120-neurokino-retrograde.json) |
@@ -7866,6 +7867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nulldrifters | 34571 | [34571-nulldrifters.json](./34571-nulldrifters.json) |
 | Nullis | 391314 | [391314-nullis.json](./391314-nullis.json) |
 | Nullmaze | 158415 | [158415-nullmaze.json](./158415-nullmaze.json) |
+| Nullnest | 428384 | [428384-nullnest.json](./428384-nullnest.json) |
 | Nullpoint Crisis | 362744 | [362744-nullpoint-crisis.json](./362744-nullpoint-crisis.json) |
 | Nullpointer | 68446 | [68446-nullpointer.json](./68446-nullpointer.json) |
 | Nullpomino | 330075 | [330075-nullpomino.json](./330075-nullpomino.json) |
