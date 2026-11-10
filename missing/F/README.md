@@ -1610,6 +1610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Dinner | 377162 | [377162-family-dinner.json](./377162-family-dinner.json) |
 | Family Dog | 42570 | [42570-family-dog.json](./42570-family-dog.json) |
 | Family Farm | 322141 | [322141-family-farm.json](./322141-family-farm.json) |
+| Family Farm | 9576 | [9576-family-farm.json](./9576-family-farm.json) |
 | Family Farm Adventure | 216138 | [216138-family-farm-adventure.json](./216138-family-farm-adventure.json) |
 | Family Farm Seaside | 104104 | [104104-family-farm-seaside.json](./104104-family-farm-seaside.json) |
 | Family Farm: Goodfolks | 245177 | [245177-family-farm-goodfolks.json](./245177-family-farm-goodfolks.json) |
@@ -8128,6 +8129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight of the Athena | 76317 | [76317-flight-of-the-athena.json](./76317-flight-of-the-athena.json) |
 | Flight of the Baby Princess | 134842 | [134842-flight-of-the-baby-princess.json](./134842-flight-of-the-baby-princess.json) |
 | Flight of the Fireflies | 22339 | [22339-flight-of-the-fireflies.json](./22339-flight-of-the-fireflies.json) |
+| Flight of the Icarus | 9842 | [9842-flight-of-the-icarus.json](./9842-flight-of-the-icarus.json) |
 | Flight of the Intruder | 12102 | [12102-flight-of-the-intruder.json](./12102-flight-of-the-intruder.json) |
 | Flight of the Paladin | 34387 | [34387-flight-of-the-paladin.json](./34387-flight-of-the-paladin.json) |
 | Flight of the Season | 397414 | [397414-flight-of-the-season.json](./397414-flight-of-the-season.json) |
@@ -11072,6 +11074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Wheel | 390463 | [390463-fortune-wheel.json](./390463-fortune-wheel.json) |
 | Fortune Wheel Slots | 59562 | [59562-fortune-wheel-slots.json](./59562-fortune-wheel-slots.json) |
 | Fortune x World: Bokura ga Game wo Tsukuru Riyuu | 382467 | [382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json](./382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json) |
+| Fortune-499 | 87812 | [87812-fortune-499.json](./87812-fortune-499.json) |
 | Fortune: Hoshi no Furi Sosogu Oka | 344480 | [344480-fortune-hoshi-no-furi-sosogu-oka.json](./344480-fortune-hoshi-no-furi-sosogu-oka.json) |
 | Fortune's Favor | 347323 | [347323-fortunes-favor.json](./347323-fortunes-favor.json) |
 | Fortune's Run | 165071 | [165071-fortunes-run.json](./165071-fortunes-run.json) |
@@ -11582,6 +11585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracctal Monsters | 239544 | [239544-fracctal-monsters.json](./239544-fracctal-monsters.json) |
 | Fracctal TCG | 370305 | [370305-fracctal-tcg.json](./370305-fracctal-tcg.json) |
 | Frack the World | 237173 | [237173-frack-the-world.json](./237173-frack-the-world.json) |
+| Fracked | 145451 | [145451-fracked.json](./145451-fracked.json) |
 | Frackin' Universe | 279760 | [279760-frackin-universe.json](./279760-frackin-universe.json) |
 | Fract Osc | 15854 | [15854-fract-osc.json](./15854-fract-osc.json) |
 | Fractal | 30192 | [30192-fractal.json](./30192-fractal.json) |
