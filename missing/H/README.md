@@ -11872,6 +11872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Fool a Liar King: Remastered | 188470 | [188470-how-to-fool-a-liar-king-remastered.json](./188470-how-to-fool-a-liar-king-remastered.json) |
 | How to Get a Japanese Girlfriend (And Save the World) | 292634 | [292634-how-to-get-a-japanese-girlfriend-and-save-the-world.json](./292634-how-to-get-a-japanese-girlfriend-and-save-the-world.json) |
 | How to God | 343055 | [343055-how-to-god.json](./343055-how-to-god.json) |
+| How to Grow a Black Hole | 405789 | [405789-how-to-grow-a-black-hole.json](./405789-how-to-grow-a-black-hole.json) |
 | How to Grow Your Sausage | 404405 | [404405-how-to-grow-your-sausage.json](./404405-how-to-grow-your-sausage.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
 | How to Lose One's Virginity | 265791 | [265791-how-to-lose-ones-virginity.json](./265791-how-to-lose-ones-virginity.json) |
