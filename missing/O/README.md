@@ -697,6 +697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddli: A Satisfying Game | 346623 | [346623-oddli-a-satisfying-game.json](./346623-oddli-a-satisfying-game.json) |
 | Oddlly | 114789 | [114789-oddlly.json](./114789-oddlly.json) |
 | Oddly Enough: Pied Piper | 54254 | [54254-oddly-enough-pied-piper.json](./54254-oddly-enough-pied-piper.json) |
+| Oddmar | 95076 | [95076-oddmar.json](./95076-oddmar.json) |
 | Oddment | 297169 | [297169-oddment.json](./297169-oddment.json) |
 | Oddnose | 247351 | [247351-oddnose.json](./247351-oddnose.json) |
 | OddPlanet | 32782 | [32782-oddplanet.json](./32782-oddplanet.json) |
