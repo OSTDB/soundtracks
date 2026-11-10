@@ -2354,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viktor Crysworth | 132731 | [132731-viktor-crysworth.json](./132731-viktor-crysworth.json) |
 | Viktor, a Steampunk Adventure | 30670 | [30670-viktor-a-steampunk-adventure.json](./30670-viktor-a-steampunk-adventure.json) |
 | Viktor: Enforcer Edition | 53871 | [53871-viktor-enforcer-edition.json](./53871-viktor-enforcer-edition.json) |
+| ViKubb | 124187 | [124187-vikubb.json](./124187-vikubb.json) |
 | Vila do Nevoeiro R.E.L.I.D.O | 261300 | [261300-vila-do-nevoeiro-r-e-l-i-d-o.json](./261300-vila-do-nevoeiro-r-e-l-i-d-o.json) |
 | Vila Mágica | 262211 | [262211-vila-magica.json](./262211-vila-magica.json) |
 | Viladia | 386165 | [386165-viladia.json](./386165-viladia.json) |
