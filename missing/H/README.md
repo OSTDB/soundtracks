@@ -11909,6 +11909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Official Book of Games: Volume 2 | 73331 | [73331-hoyle-official-book-of-games-volume-2.json](./73331-hoyle-official-book-of-games-volume-2.json) |
 | Hoyle Official Book of Games: Volume 3 | 50273 | [50273-hoyle-official-book-of-games-volume-3.json](./50273-hoyle-official-book-of-games-volume-3.json) |
 | Hoyle Official Card Games Collection | 34590 | [34590-hoyle-official-card-games-collection.json](./34590-hoyle-official-card-games-collection.json) |
+| Hoyle Official Casino Games | 31062 | [31062-hoyle-official-casino-games.json](./31062-hoyle-official-casino-games.json) |
 | Hoyle Official Casino Games Collection | 87061 | [87061-hoyle-official-casino-games-collection.json](./87061-hoyle-official-casino-games-collection.json) |
 | Hoyle Parlor Games | 89693 | [89693-hoyle-parlor-games.json](./89693-hoyle-parlor-games.json) |
 | Hoyle Poker | 73147 | [73147-hoyle-poker.json](./73147-hoyle-poker.json) |
