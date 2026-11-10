@@ -4231,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Drift | 320824 | [320824-cat-drift.json](./320824-cat-drift.json) |
 | Cat Dungeon | 210880 | [210880-cat-dungeon.json](./210880-cat-dungeon.json) |
 | Cat Dungeon Escape | 153132 | [153132-cat-dungeon-escape.json](./153132-cat-dungeon-escape.json) |
+| Cat Eats Sushi | 424866 | [424866-cat-eats-sushi.json](./424866-cat-eats-sushi.json) |
 | Cat Escape | 208102 | [208102-cat-escape.json](./208102-cat-escape.json) |
 | Cat Escape! Infinity！ | 247205 | [247205-cat-escape-infinity.json](./247205-cat-escape-infinity.json) |
 | Cat Evolution | 341636 | [341636-cat-evolution.json](./341636-cat-evolution.json) |
@@ -8213,6 +8214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChocoLot! | 278480 | [278480-chocolot.json](./278480-chocolot.json) |
 | Choconoa | 113639 | [113639-choconoa.json](./113639-choconoa.json) |
 | Chocotto Land Online | 243781 | [243781-chocotto-land-online.json](./243781-chocotto-land-online.json) |
+| Chodd | 424860 | [424860-chodd.json](./424860-chodd.json) |
 | Chogue | 105114 | [105114-chogue.json](./105114-chogue.json) |
 | Choi | 231201 | [231201-choi.json](./231201-choi.json) |
 | Choice | 76076 | [76076-choice.json](./76076-choice.json) |
@@ -8953,6 +8955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Ark: Summer Twilight | 310011 | [310011-chrono-ark-summer-twilight.json](./310011-chrono-ark-summer-twilight.json) |
 | Chrono Belt: Ayakashibito & Bullet Butlers Crossover Disc | 259484 | [259484-chrono-belt-ayakashibito-and-bullet-butlers-crossover-disc.json](./259484-chrono-belt-ayakashibito-and-bullet-butlers-crossover-disc.json) |
 | Chrono Bullet | 275974 | [275974-chrono-bullet.json](./275974-chrono-bullet.json) |
+| Chrono Cards | 424822 | [424822-chrono-cards.json](./424822-chrono-cards.json) |
 | Chrono CCG | 381788 | [381788-chrono-ccg.json](./381788-chrono-ccg.json) |
 | Chrono Circle | 216287 | [216287-chrono-circle.json](./216287-chrono-circle.json) |
 | Chrono Clash: Fantasy Tactics | 114911 | [114911-chrono-clash-fantasy-tactics.json](./114911-chrono-clash-fantasy-tactics.json) |
