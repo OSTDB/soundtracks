@@ -6372,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akuma No Akumu: Ar Eq-Kua Er Seta | 338133 | [338133-akuma-no-akumu-ar-eq-kua-er-seta.json](./338133-akuma-no-akumu-ar-eq-kua-er-seta.json) |
 | Akuma no Shinpan | 307961 | [307961-akuma-no-shinpan.json](./307961-akuma-no-shinpan.json) |
 | Akuma Ouji to Ayatsuri Ningyou | 242068 | [242068-akuma-ouji-to-ayatsuri-ningyou.json](./242068-akuma-ouji-to-ayatsuri-ningyou.json) |
+| Akuma Rise | 395965 | [395965-akuma-rise.json](./395965-akuma-rise.json) |
 | Akuma Shitsuji to Kuroi Neko | 367762 | [367762-akuma-shitsuji-to-kuroi-neko.json](./367762-akuma-shitsuji-to-kuroi-neko.json) |
 | Akuma-kun: Makai no Wana | 48605 | [48605-akuma-kun-makai-no-wana.json](./48605-akuma-kun-makai-no-wana.json) |
 | Akuma-kun: Taose! Cerberus | 385756 | [385756-akuma-kun-taose-cerberus.json](./385756-akuma-kun-taose-cerberus.json) |
@@ -11108,6 +11109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 117: Pax Romana - Echoes of Kassandra Pack | 421817 | [421817-anno-117-pax-romana-echoes-of-kassandra-pack.json](./421817-anno-117-pax-romana-echoes-of-kassandra-pack.json) |
 | Anno 117: Pax Romana - Gold Edition | 377778 | [377778-anno-117-pax-romana-gold-edition.json](./377778-anno-117-pax-romana-gold-edition.json) |
 | Anno 117: Pax Romana - Marvellous Mosaic Pack | 408894 | [408894-anno-117-pax-romana-marvellous-mosaic-pack.json](./408894-anno-117-pax-romana-marvellous-mosaic-pack.json) |
+| Anno 117: Pax Romana - Prophecies of Ash | 400218 | [400218-anno-117-pax-romana-prophecies-of-ash.json](./400218-anno-117-pax-romana-prophecies-of-ash.json) |
 | Anno 117: Pax Romana - Year 1 Pass | 408895 | [408895-anno-117-pax-romana-year-1-pass.json](./408895-anno-117-pax-romana-year-1-pass.json) |
 | Anno 117: Pax Romana – The Hippodrome | 414760 | [414760-anno-117-pax-romana-the-hippodrome.json](./414760-anno-117-pax-romana-the-hippodrome.json) |
 | Anno 1404: Gold Edition | 27913 | [27913-anno-1404-gold-edition.json](./27913-anno-1404-gold-edition.json) |
@@ -13518,6 +13520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia VI | 267928 | [267928-arcadia-vi.json](./267928-arcadia-vi.json) |
 | Arcadia: Arcade Watch Games | 254603 | [254603-arcadia-arcade-watch-games.json](./254603-arcadia-arcade-watch-games.json) |
 | Arcadia: Cloudbound | 348454 | [348454-arcadia-cloudbound.json](./348454-arcadia-cloudbound.json) |
+| Arcadia: Colony | 259903 | [259903-arcadia-colony.json](./259903-arcadia-colony.json) |
 | Arcadia: Find the Difference 3D | 412341 | [412341-arcadia-find-the-difference-3d.json](./412341-arcadia-find-the-difference-3d.json) |
 | Arcadia: The Crystal Wars | 120703 | [120703-arcadia-the-crystal-wars.json](./120703-arcadia-the-crystal-wars.json) |
 | Arcadian Atlas | 18868 | [18868-arcadian-atlas.json](./18868-arcadian-atlas.json) |
@@ -15638,6 +15641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asdivine Hearts I & II | 196276 | [196276-asdivine-hearts-i-and-ii.json](./196276-asdivine-hearts-i-and-ii.json) |
 | Asdivine Hearts II | 113419 | [113419-asdivine-hearts-ii.json](./113419-asdivine-hearts-ii.json) |
 | Asdivine Kamura | 122726 | [122726-asdivine-kamura.json](./122726-asdivine-kamura.json) |
+| Asdivine Knot | 414796 | [414796-asdivine-knot.json](./414796-asdivine-knot.json) |
 | Asdivine Menace | 38980 | [38980-asdivine-menace.json](./38980-asdivine-menace.json) |
 | Asdivine Saga | 148517 | [148517-asdivine-saga.json](./148517-asdivine-saga.json) |
 | ASDVD: Umareta Bakari no Love Song | 408250 | [408250-asdvd-umareta-bakari-no-love-song.json](./408250-asdvd-umareta-bakari-no-love-song.json) |
@@ -17525,6 +17529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
