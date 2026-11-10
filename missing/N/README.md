@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nato defense | 40991 | [40991-nato-defense.json](./40991-nato-defense.json) |
 | Natsu Ecchi 2: Futago to Inaka no Natsuyasumi | 109001 | [109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json](./109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json) |
 | Natsu Koi High Pressure | 194597 | [194597-natsu-koi-high-pressure.json](./194597-natsu-koi-high-pressure.json) |
+| Natsu ni Kanaderu Bokura no Uta | 415614 | [415614-natsu-ni-kanaderu-bokura-no-uta.json](./415614-natsu-ni-kanaderu-bokura-no-uta.json) |
 | Natsu no Hi no Resonance | 201810 | [201810-natsu-no-hi-no-resonance.json](./201810-natsu-no-hi-no-resonance.json) |
 | Natsu no Iro no Nostalgia | 60672 | [60672-natsu-no-iro-no-nostalgia.json](./60672-natsu-no-iro-no-nostalgia.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
@@ -7826,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nude Crisis | 211603 | [211603-nude-crisis.json](./211603-nude-crisis.json) |
 | Nude in the Castle | 204055 | [204055-nude-in-the-castle.json](./204055-nude-in-the-castle.json) |
 | Nudel Tag | 270113 | [270113-nudel-tag.json](./270113-nudel-tag.json) |
+| Nudge | 416258 | [416258-nudge.json](./416258-nudge.json) |
 | NudGirls | 298413 | [298413-nudgirls.json](./298413-nudgirls.json) |
 | Nudist Beach Survival Simulator | 59150 | [59150-nudist-beach-survival-simulator.json](./59150-nudist-beach-survival-simulator.json) |
 | Nudist Beach Survival Simulator 2 | 171465 | [171465-nudist-beach-survival-simulator-2.json](./171465-nudist-beach-survival-simulator-2.json) |
