@@ -6561,6 +6561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Triad | 163083 | [163083-return-of-the-triad.json](./163083-return-of-the-triad.json) |
 | Return of the Twin Peaks | 419357 | [419357-return-of-the-twin-peaks.json](./419357-return-of-the-twin-peaks.json) |
 | Return of the USSR | 291854 | [291854-return-of-the-ussr.json](./291854-return-of-the-ussr.json) |
+| Return of the Zombie King | 57336 | [57336-return-of-the-zombie-king.json](./57336-return-of-the-zombie-king.json) |
 | Return of Warrior | 259491 | [259491-return-of-warrior.json](./259491-return-of-warrior.json) |
 | Return or No Return | 267447 | [267447-return-or-no-return.json](./267447-return-or-no-return.json) |
 | Return Survival | 321517 | [321517-return-survival.json](./321517-return-survival.json) |
@@ -13284,6 +13285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RunningJoe | 30716 | [30716-runningjoe.json](./30716-runningjoe.json) |
 | Runnordai | 254844 | [254844-runnordai.json](./254844-runnordai.json) |
 | Runny Bunny | 317999 | [317999-runny-bunny.json](./317999-runny-bunny.json) |
+| Runny Egg | 58339 | [58339-runny-egg.json](./58339-runny-egg.json) |
 | Runo | 154153 | [154153-runo.json](./154153-runo.json) |
 | Runombie | 292287 | [292287-runombie.json](./292287-runombie.json) |
 | Runonce | 288986 | [288986-runonce.json](./288986-runonce.json) |
