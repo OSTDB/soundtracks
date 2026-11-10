@@ -4384,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fideos | 329024 | [329024-fideos.json](./329024-fideos.json) |
 | Fidget Pong | 69371 | [69371-fidget-pong.json](./69371-fidget-pong.json) |
 | Fidget Spinner | 100888 | [100888-fidget-spinner.json](./100888-fidget-spinner.json) |
+| Fidget Spinner | 41921 | [41921-fidget-spinner.json](./41921-fidget-spinner.json) |
 | Fidget Spinner - Extra Speed | 102606 | [102606-fidget-spinner-extra-speed.json](./102606-fidget-spinner-extra-speed.json) |
 | Fidget Spinner Editor | 68595 | [68595-fidget-spinner-editor.json](./68595-fidget-spinner-editor.json) |
 | Fidget Spinner In Space | 75315 | [75315-fidget-spinner-in-space.json](./75315-fidget-spinner-in-space.json) |
