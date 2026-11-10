@@ -8786,7 +8786,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravel Gang | 243791 | [243791-gravel-gang.json](./243791-gravel-gang.json) |
 | Gravel: Armored Operation | 167805 | [167805-gravel-armored-operation.json](./167805-gravel-armored-operation.json) |
 | Gravel: Colorado River | 342111 | [342111-gravel-colorado-river.json](./342111-gravel-colorado-river.json) |
+| Gravel: Free Car Acciona | 403865 | [403865-gravel-free-car-acciona.json](./403865-gravel-free-car-acciona.json) |
 | Gravel: Free Car Bowler Bulldog | 403760 | [403760-gravel-free-car-bowler-bulldog.json](./403760-gravel-free-car-bowler-bulldog.json) |
+| Gravel: Free Car Ford Bronco | 403867 | [403867-gravel-free-car-ford-bronco.json](./403867-gravel-free-car-ford-bronco.json) |
 | Gravel: Ice and Fire | 172062 | [172062-gravel-ice-and-fire.json](./172062-gravel-ice-and-fire.json) |
 | Gravel: King of Buggies | 172061 | [172061-gravel-king-of-buggies.json](./172061-gravel-king-of-buggies.json) |
 | Gravel: Porsche Rallye pack | 342112 | [342112-gravel-porsche-rallye-pack.json](./342112-gravel-porsche-rallye-pack.json) |
@@ -8993,6 +8995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Changing | 424251 | [424251-gravity-changing.json](./424251-gravity-changing.json) |
 | Gravity Chase | 125656 | [125656-gravity-chase.json](./125656-gravity-chase.json) |
 | Gravity Circuit | 106534 | [106534-gravity-circuit.json](./106534-gravity-circuit.json) |
+| Gravity Circuit 2 | 403884 | [403884-gravity-circuit-2.json](./403884-gravity-circuit-2.json) |
 | Gravity Circuit Jukebox | 309032 | [309032-gravity-circuit-jukebox.json](./309032-gravity-circuit-jukebox.json) |
 | Gravity Circuit: Deluxe Edition | 309034 | [309034-gravity-circuit-deluxe-edition.json](./309034-gravity-circuit-deluxe-edition.json) |
 | Gravity Compass | 33585 | [33585-gravity-compass.json](./33585-gravity-compass.json) |
@@ -9327,6 +9330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedling: 2D Boss Rush | 409409 | [409409-greedling-2d-boss-rush.json](./409409-greedling-2d-boss-rush.json) |
 | Greedventory | 204507 | [204507-greedventory.json](./204507-greedventory.json) |
 | Greedy | 178858 | [178858-greedy.json](./178858-greedy.json) |
+| Greedy | 403879 | [403879-greedy.json](./403879-greedy.json) |
 | Greedy Apple Worm | 212549 | [212549-greedy-apple-worm.json](./212549-greedy-apple-worm.json) |
 | Greedy Bee | 310325 | [310325-greedy-bee.json](./310325-greedy-bee.json) |
 | Greedy Bubble | 152580 | [152580-greedy-bubble.json](./152580-greedy-bubble.json) |
