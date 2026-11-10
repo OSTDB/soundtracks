@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Destroyer | 252673 | [252673-ragdoll-destroyer.json](./252673-ragdoll-destroyer.json) |
 | Ragdoll Dismounting | 199977 | [199977-ragdoll-dismounting.json](./199977-ragdoll-dismounting.json) |
 | Ragdoll Fighter | 147141 | [147141-ragdoll-fighter.json](./147141-ragdoll-fighter.json) |
+| Ragdoll Fists | 418090 | [418090-ragdoll-fists.json](./418090-ragdoll-fists.json) |
 | Ragdoll Funhouse | 202532 | [202532-ragdoll-funhouse.json](./202532-ragdoll-funhouse.json) |
 | Ragdoll Game | 212170 | [212170-ragdoll-game.json](./212170-ragdoll-game.json) |
 | Ragdoll Homicide | 409116 | [409116-ragdoll-homicide.json](./409116-ragdoll-homicide.json) |
@@ -6634,6 +6635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Krondor | 8827 | [8827-return-to-krondor.json](./8827-return-to-krondor.json) |
 | Return to Kroz | 71789 | [71789-return-to-kroz.json](./71789-return-to-kroz.json) |
 | Return to Kurgansk | 190267 | [190267-return-to-kurgansk.json](./190267-return-to-kurgansk.json) |
+| Return to Li World | 418092 | [418092-return-to-li-world.json](./418092-return-to-li-world.json) |
 | Return to Long Shadows | 406091 | [406091-return-to-long-shadows.json](./406091-return-to-long-shadows.json) |
 | Return to Melanat | 171785 | [171785-return-to-melanat.json](./171785-return-to-melanat.json) |
 | Return to Mysterious Island | 17052 | [17052-return-to-mysterious-island.json](./17052-return-to-mysterious-island.json) |
