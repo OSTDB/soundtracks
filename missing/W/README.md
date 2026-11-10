@@ -3250,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Dash 4-Ever | 87327 | [87327-wedding-dash-4-ever.json](./87327-wedding-dash-4-ever.json) |
 | Wedding Dash: Ready, Aim, Love! | 142001 | [142001-wedding-dash-ready-aim-love.json](./142001-wedding-dash-ready-aim-love.json) |
 | Wedding Day | 311441 | [311441-wedding-day.json](./311441-wedding-day.json) |
+| Wedding Day Makeover | 87476 | [87476-wedding-day-makeover.json](./87476-wedding-day-makeover.json) |
 | Wedding Designer | 121340 | [121340-wedding-designer.json](./121340-wedding-designer.json) |
 | Wedding Fiasco - The Race for the Perfect Dress | 101562 | [101562-wedding-fiasco-the-race-for-the-perfect-dress.json](./101562-wedding-fiasco-the-race-for-the-perfect-dress.json) |
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
@@ -7830,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Farm Adventure | 154793 | [154793-word-farm-adventure.json](./154793-word-farm-adventure.json) |
 | Word Feud | 131583 | [131583-word-feud.json](./131583-word-feud.json) |
 | Word Finder - Word Connect | 96742 | [96742-word-finder-word-connect.json](./96742-word-finder-word-connect.json) |
+| Word Flowers | 87481 | [87481-word-flowers.json](./87481-word-flowers.json) |
 | Word Flyer | 367714 | [367714-word-flyer.json](./367714-word-flyer.json) |
 | Word Forward | 58298 | [58298-word-forward.json](./58298-word-forward.json) |
 | Word Game | 161224 | [161224-word-game.json](./161224-word-game.json) |
@@ -8497,6 +8499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Cube | 204104 | [204104-world-of-cube.json](./204104-world-of-cube.json) |
 | World of Cubes | 204798 | [204798-world-of-cubes.json](./204798-world-of-cubes.json) |
 | World of Cubes Survival Craft | 89187 | [89187-world-of-cubes-survival-craft.json](./89187-world-of-cubes-survival-craft.json) |
+| World of Cubes Survival Craft Multiplayer | 89066 | [89066-world-of-cubes-survival-craft-multiplayer.json](./89066-world-of-cubes-survival-craft-multiplayer.json) |
 | World of Dark | 283864 | [283864-world-of-dark.json](./283864-world-of-dark.json) |
 | World of Darkness | 77001 | [77001-world-of-darkness.json](./77001-world-of-darkness.json) |
 | World of Darkness Preludes: Vampire and Mage | 27330 | [27330-world-of-darkness-preludes-vampire-and-mage.json](./27330-world-of-darkness-preludes-vampire-and-mage.json) |
