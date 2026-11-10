@@ -19994,6 +19994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthuloop | 381119 | [381119-cthuloop.json](./381119-cthuloop.json) |
 | Cthuloot | 235448 | [235448-cthuloot.json](./235448-cthuloot.json) |
 | CTR Native | 407953 | [407953-ctr-native.json](./407953-ctr-native.json) |
+| CTR: Nightmare Fueled | 427285 | [427285-ctr-nightmare-fueled.json](./427285-ctr-nightmare-fueled.json) |
 | CTR: St. Patrick's Day Racing | 399179 | [399179-ctr-st-patricks-day-racing.json](./399179-ctr-st-patricks-day-racing.json) |
 | Ctrl | 78068 | [78068-ctrl.json](./78068-ctrl.json) |
 | Ctrl Alt Ego | 178378 | [178378-ctrl-alt-ego.json](./178378-ctrl-alt-ego.json) |
