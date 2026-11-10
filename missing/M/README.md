@@ -17665,6 +17665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlit District | 257572 | [257572-moonlit-district.json](./257572-moonlit-district.json) |
 | Moonlit Dreams | 394110 | [394110-moonlit-dreams.json](./394110-moonlit-dreams.json) |
 | Moonlit Embrace | 311051 | [311051-moonlit-embrace.json](./311051-moonlit-embrace.json) |
+| Moonlit Journey: Homestead | 410541 | [410541-moonlit-journey-homestead.json](./410541-moonlit-journey-homestead.json) |
 | Moonlit Journey: The Age of Deth | 331928 | [331928-moonlit-journey-the-age-of-deth.json](./331928-moonlit-journey-the-age-of-deth.json) |
 | Moonlit Lobby | 212773 | [212773-moonlit-lobby.json](./212773-moonlit-lobby.json) |
 | Moonlit Mayhem | 31402 | [31402-moonlit-mayhem.json](./31402-moonlit-mayhem.json) |
