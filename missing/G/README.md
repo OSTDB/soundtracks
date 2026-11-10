@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game & Watch Gallery 3 | 77907 | [77907-game-and-watch-gallery-3.json](./77907-game-and-watch-gallery-3.json) |
 | Game & Watch Gallery 4 | 81497 | [81497-game-and-watch-gallery-4.json](./81497-game-and-watch-gallery-4.json) |
 | Game & Watch Helmet | 84550 | [84550-game-and-watch-helmet.json](./84550-game-and-watch-helmet.json) |
+| Game & Watch Judge | 84551 | [84551-game-and-watch-judge.json](./84551-game-and-watch-judge.json) |
 | Game & Watch Manhole | 84549 | [84549-game-and-watch-manhole.json](./84549-game-and-watch-manhole.json) |
 | Game & Watch Mario's Cement Factory | 206933 | [206933-game-and-watch-marios-cement-factory.json](./206933-game-and-watch-marios-cement-factory.json) |
 | Game & Watch Mario's Cement Factory | 339262 | [339262-game-and-watch-marios-cement-factory.json](./339262-game-and-watch-marios-cement-factory.json) |
@@ -7326,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Mahjong | 88276 | [88276-good-mahjong.json](./88276-good-mahjong.json) |
 | Good Morgan Eve | 332443 | [332443-good-morgan-eve.json](./332443-good-morgan-eve.json) |
 | Good Morning | 381133 | [381133-good-morning.json](./381133-good-morning.json) |
+| Good Morning | 84579 | [84579-good-morning.json](./84579-good-morning.json) |
 | Good Morning Cruel City | 278518 | [278518-good-morning-cruel-city.json](./278518-good-morning-cruel-city.json) |
 | Good Morning Drifter | 152099 | [152099-good-morning-drifter.json](./152099-good-morning-drifter.json) |
 | Good Morning Hon | 194328 | [194328-good-morning-hon.json](./194328-good-morning-hon.json) |
