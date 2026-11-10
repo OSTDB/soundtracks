@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Labours of Hercules XVII: Feathered Fury | 318605 | [318605-12-labours-of-hercules-xvii-feathered-fury.json](./318605-12-labours-of-hercules-xvii-feathered-fury.json) |
 | 12 Labours of Hercules XVIII: Ghost Sheep | 355039 | [355039-12-labours-of-hercules-xviii-ghost-sheep.json](./355039-12-labours-of-hercules-xviii-ghost-sheep.json) |
 | 12 Labours of Hercules XVIII: Ghost Sheep - Collector's Edition | 356770 | [356770-12-labours-of-hercules-xviii-ghost-sheep-collectors-edition.json](./356770-12-labours-of-hercules-xviii-ghost-sheep-collectors-edition.json) |
+| 12 Labours of Hercules XX: Hold My Gold - Collector's Edition | 416479 | [416479-12-labours-of-hercules-xx-hold-my-gold-collectors-edition.json](./416479-12-labours-of-hercules-xx-hold-my-gold-collectors-edition.json) |
 | 12 Locks and Keys | 160118 | [160118-12-locks-and-keys.json](./160118-12-locks-and-keys.json) |
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
 | 12 MiniBattles | 139356 | [139356-12-minibattles.json](./139356-12-minibattles.json) |
