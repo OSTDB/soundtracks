@@ -4508,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orly's Draw-A-Story | 60506 | [60506-orlys-draw-a-story.json](./60506-orlys-draw-a-story.json) |
 | ORM | 253889 | [253889-orm.json](./253889-orm.json) |
 | Ormod: Directive | 378378 | [378378-ormod-directive.json](./378378-ormod-directive.json) |
+| Orms | 396626 | [396626-orms.json](./396626-orms.json) |
 | Orna | 105733 | [105733-orna.json](./105733-orna.json) |
 | Ornament Express | 234214 | [234214-ornament-express.json](./234214-ornament-express.json) |
 | Ornament Tower | 404393 | [404393-ornament-tower.json](./404393-ornament-tower.json) |
@@ -6130,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwhelm | 103324 | [103324-overwhelm.json](./103324-overwhelm.json) |
 | Overwhelmed | 249033 | [249033-overwhelmed.json](./249033-overwhelmed.json) |
 | Overwhelmed | 260712 | [260712-overwhelmed.json](./260712-overwhelmed.json) |
+| Overwhelming | 396635 | [396635-overwhelming.json](./396635-overwhelming.json) |
 | OverWing | 337291 | [337291-overwing.json](./337291-overwing.json) |
 | Overwords | 357138 | [357138-overwords.json](./357138-overwords.json) |
 | Overwords: Infinity | 395343 | [395343-overwords-infinity.json](./395343-overwords-infinity.json) |
