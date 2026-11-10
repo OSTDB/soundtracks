@@ -4568,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marlboro Go! | 40855 | [40855-marlboro-go.json](./40855-marlboro-go.json) |
 | Marle: The Labyrinth of the Black Sea | 112937 | [112937-marle-the-labyrinth-of-the-black-sea.json](./112937-marle-the-labyrinth-of-the-black-sea.json) |
 | Marlene | 25634 | [25634-marlene.json](./25634-marlene.json) |
+| Marlene Betwixt | 31116 | [31116-marlene-betwixt.json](./31116-marlene-betwixt.json) |
 | Marlene Betwixt | 56537 | [56537-marlene-betwixt.json](./56537-marlene-betwixt.json) |
 | Marley & Marley | 250502 | [250502-marley-and-marley.json](./250502-marley-and-marley.json) |
 | Marlon’s Mystery: The Darkside of Crime | 189840 | [189840-marlon-s-mystery-the-darkside-of-crime.json](./189840-marlon-s-mystery-the-darkside-of-crime.json) |
@@ -6620,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Runner: The Scorch Trials | 98193 | [98193-maze-runner-the-scorch-trials.json](./98193-maze-runner-the-scorch-trials.json) |
 | Maze Slaughter | 112616 | [112616-maze-slaughter.json](./112616-maze-slaughter.json) |
 | Maze Slider | 143969 | [143969-maze-slider.json](./143969-maze-slider.json) |
+| Maze Sounds | 31117 | [31117-maze-sounds.json](./31117-maze-sounds.json) |
 | Maze Survivor | 408979 | [408979-maze-survivor.json](./408979-maze-survivor.json) |
 | Maze Tanks | 252222 | [252222-maze-tanks.json](./252222-maze-tanks.json) |
 | Maze TD Battleground | 302554 | [302554-maze-td-battleground.json](./302554-maze-td-battleground.json) |
@@ -9595,6 +9597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Town | 244829 | [244829-meow-town.json](./244829-meow-town.json) |
 | Meow Wars: Card Battle | 108302 | [108302-meow-wars-card-battle.json](./108302-meow-wars-card-battle.json) |
 | Meow Weight Loss Diary | 352227 | [352227-meow-weight-loss-diary.json](./352227-meow-weight-loss-diary.json) |
+| Meow-Jong Solitaire | 31144 | [31144-meow-jong-solitaire.json](./31144-meow-jong-solitaire.json) |
 | Meow'n'Dash | 172008 | [172008-meowndash.json](./172008-meowndash.json) |
 | Meow's Meow | 400512 | [400512-meows-meow.json](./400512-meows-meow.json) |
 | Meowdoku | 409810 | [409810-meowdoku.json](./409810-meowdoku.json) |
@@ -13630,6 +13633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini's Magic World | 33339 | [33339-minis-magic-world.json](./33339-minis-magic-world.json) |
 | Miniacs: Steering Madness | 382227 | [382227-miniacs-steering-madness.json](./382227-miniacs-steering-madness.json) |
 | MiniAdventureGolf | 106060 | [106060-miniadventuregolf.json](./106060-miniadventuregolf.json) |
+| Miniature - The Story Puzzle | 31118 | [31118-miniature-the-story-puzzle.json](./31118-miniature-the-story-puzzle.json) |
 | Miniature Air Hockey | 175239 | [175239-miniature-air-hockey.json](./175239-miniature-air-hockey.json) |
 | Miniature Garden | 25710 | [25710-miniature-garden.json](./25710-miniature-garden.json) |
 | Miniature Golf | 18415 | [18415-miniature-golf.json](./18415-miniature-golf.json) |
