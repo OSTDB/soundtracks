@@ -13432,6 +13432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lesser Evil | 176507 | [176507-the-lesser-evil.json](./176507-the-lesser-evil.json) |
 | The Lesser Known Cities of Europe | 142359 | [142359-the-lesser-known-cities-of-europe.json](./142359-the-lesser-known-cities-of-europe.json) |
 | The Letter | 33062 | [33062-the-letter.json](./33062-the-letter.json) |
+| The Letter | 85525 | [85525-the-letter.json](./85525-the-letter.json) |
 | The Letter That Came Over Time | 386396 | [386396-the-letter-that-came-over-time.json](./386396-the-letter-that-came-over-time.json) |
 | The Letter: Classic Edition | 224891 | [224891-the-letter-classic-edition.json](./224891-the-letter-classic-edition.json) |
 | The Levels of Backrooms | 217462 | [217462-the-levels-of-backrooms.json](./217462-the-levels-of-backrooms.json) |
@@ -14033,6 +14034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magic Elevator | 148810 | [148810-the-magic-elevator.json](./148810-the-magic-elevator.json) |
 | The Magic Flute | 60386 | [60386-the-magic-flute.json](./60386-the-magic-flute.json) |
 | The Magic Garden | 320545 | [320545-the-magic-garden.json](./320545-the-magic-garden.json) |
+| The Magic Hammer | 85440 | [85440-the-magic-hammer.json](./85440-the-magic-hammer.json) |
 | The Magic Hour | 399053 | [399053-the-magic-hour.json](./399053-the-magic-hour.json) |
 | The Magic Land | 182450 | [182450-the-magic-land.json](./182450-the-magic-land.json) |
 | The Magic Master | 412494 | [412494-the-magic-master.json](./412494-the-magic-master.json) |
@@ -23638,6 +23640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TileHunter | 188973 | [188973-tilehunter.json](./188973-tilehunter.json) |
 | TileKnight | 389028 | [389028-tileknight.json](./389028-tileknight.json) |
 | Tilelander | 72143 | [72143-tilelander.json](./72143-tilelander.json) |
+| Tilelicious: Delicious Tiles | 85445 | [85445-tilelicious-delicious-tiles.json](./85445-tilelicious-delicious-tiles.json) |
 | TileMan.io | 262188 | [262188-tileman-io.json](./262188-tileman-io.json) |
 | Tilemancer | 420752 | [420752-tilemancer.json](./420752-tilemancer.json) |
 | Tilemount | 341640 | [341640-tilemount.json](./341640-tilemount.json) |
@@ -27048,6 +27051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toska | 339637 | [339637-toska.json](./339637-toska.json) |
 | Toss | 402223 | [402223-toss.json](./402223-toss.json) |
 | Toss King | 226753 | [226753-toss-king.json](./226753-toss-king.json) |
+| Toss n Go | 84945 | [84945-toss-n-go.json](./84945-toss-n-go.json) |
 | Toss Office | 422029 | [422029-toss-office.json](./422029-toss-office.json) |
 | Toss the Turtle | 131613 | [131613-toss-the-turtle.json](./131613-toss-the-turtle.json) |
 | Toss! | 138028 | [138028-toss.json](./138028-toss.json) |
