@@ -1765,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega | 336352 | [336352-omega.json](./336352-omega.json) |
 | Omega 13 | 250434 | [250434-omega-13.json](./250434-omega-13.json) |
 | Omega 6 The Triangle Stars | 325201 | [325201-omega-6-the-triangle-stars.json](./325201-omega-6-the-triangle-stars.json) |
+| Omega Agent | 19057 | [19057-omega-agent.json](./19057-omega-agent.json) |
 | Omega Assault | 94867 | [94867-omega-assault.json](./94867-omega-assault.json) |
 | Omega Blade | 149885 | [149885-omega-blade.json](./149885-omega-blade.json) |
 | Omega Blast | 270632 | [270632-omega-blast.json](./270632-omega-blast.json) |
