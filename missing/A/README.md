@@ -10448,6 +10448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ANIDU: Animal Dust Puppet’s Adventure | 258549 | [258549-anidu-animal-dust-puppet-s-adventure.json](./258549-anidu-animal-dust-puppet-s-adventure.json) |
 | Anigma Byte | 384215 | [384215-anigma-byte.json](./384215-anigma-byte.json) |
 | AniGuessr | 318504 | [318504-aniguessr.json](./318504-aniguessr.json) |
+| Aniimo: Season 1 - Departure with the Wind: Part 2 | 425413 | [425413-aniimo-season-1-departure-with-the-wind-part-2.json](./425413-aniimo-season-1-departure-with-the-wind-part-2.json) |
 | Anika's Odyssey: Land of the Taniwha | 316761 | [316761-anikas-odyssey-land-of-the-taniwha.json](./316761-anikas-odyssey-land-of-the-taniwha.json) |
 | Anilife: An Animal Survival Adventure | 156991 | [156991-anilife-an-animal-survival-adventure.json](./156991-anilife-an-animal-survival-adventure.json) |
 | Anima | 122217 | [122217-anima.json](./122217-anima.json) |
@@ -17604,7 +17605,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -19287,6 +19287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashibito: Genyou Ibunroku | 56521 | [56521-ayakashibito-genyou-ibunroku.json](./56521-ayakashibito-genyou-ibunroku.json) |
 | Ayakashibito: Genyou Ibunroku Portable | 257853 | [257853-ayakashibito-genyou-ibunroku-portable.json](./257853-ayakashibito-genyou-ibunroku-portable.json) |
 | Ayakashigami | 90495 | [90495-ayakashigami.json](./90495-ayakashigami.json) |
+| Ayako's Endeavors | 425415 | [425415-ayakos-endeavors.json](./425415-ayakos-endeavors.json) |
 | Ayako's Mission | 254017 | [254017-ayakos-mission.json](./254017-ayakos-mission.json) |
 | Ayame no Machi to Ohime-sama | 194546 | [194546-ayame-no-machi-to-ohime-sama.json](./194546-ayame-no-machi-to-ohime-sama.json) |
 | Ayame: Ningyou Ingi | 97602 | [97602-ayame-ningyou-ingi.json](./97602-ayame-ningyou-ingi.json) |
