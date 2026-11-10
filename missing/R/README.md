@@ -4150,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Johnson's Chronicles 1+2 | 186974 | [186974-red-johnsons-chronicles-1-2.json](./186974-red-johnsons-chronicles-1-2.json) |
 | Red Johnson's Chronicles: 1+2 - Steam Special Edition | 90489 | [90489-red-johnsons-chronicles-1-2-steam-special-edition.json](./90489-red-johnsons-chronicles-1-2-steam-special-edition.json) |
 | Red Johnson's Chronicles: One Against All | 25177 | [25177-red-johnsons-chronicles-one-against-all.json](./25177-red-johnsons-chronicles-one-against-all.json) |
+| Red Kiss | 405117 | [405117-red-kiss.json](./405117-red-kiss.json) |
 | Red Knight: Light RPG | 240677 | [240677-red-knight-light-rpg.json](./240677-red-knight-light-rpg.json) |
 | Red Lake | 35589 | [35589-red-lake.json](./35589-red-lake.json) |
 | Red Land | 372671 | [372671-red-land.json](./372671-red-land.json) |
@@ -9029,6 +9030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road's Edge | 28135 | [28135-roads-edge.json](./28135-roads-edge.json) |
 | Road59: A Yakuza’s Last Stand | 326923 | [326923-road59-a-yakuza-s-last-stand.json](./326923-road59-a-yakuza-s-last-stand.json) |
 | RoadBlasters | 12367 | [12367-roadblasters.json](./12367-roadblasters.json) |
+| RoadBlasters | 405055 | [405055-roadblasters.json](./405055-roadblasters.json) |
 | Roadclub: League Racing | 33644 | [33644-roadclub-league-racing.json](./33644-roadclub-league-racing.json) |
 | RoadCraft | 314239 | [314239-roadcraft.json](./314239-roadcraft.json) |
 | RoadCraft: 1-Year Anniversary Edition | 397906 | [397906-roadcraft-1-year-anniversary-edition.json](./397906-roadcraft-1-year-anniversary-edition.json) |
@@ -10516,6 +10518,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Company: Season 12 - Virtual Horizons | 406734 | [406734-rogue-company-season-12-virtual-horizons.json](./406734-rogue-company-season-12-virtual-horizons.json) |
 | Rogue Company: Season 14 - The Winter Warfare | 403214 | [403214-rogue-company-season-14-the-winter-warfare.json](./403214-rogue-company-season-14-the-winter-warfare.json) |
 | Rogue Company: Season 2 | 404140 | [404140-rogue-company-season-2.json](./404140-rogue-company-season-2.json) |
+| Rogue Company: Season 4 | 405089 | [405089-rogue-company-season-4.json](./405089-rogue-company-season-4.json) |
+| Rogue Company: Season 5 - Neochrome Battle Pass | 405099 | [405099-rogue-company-season-5-neochrome-battle-pass.json](./405099-rogue-company-season-5-neochrome-battle-pass.json) |
+| Rogue Company: Season 6 - Covert Ops Battle Pass | 405106 | [405106-rogue-company-season-6-covert-ops-battle-pass.json](./405106-rogue-company-season-6-covert-ops-battle-pass.json) |
 | Rogue Company: Season 7 - Wasteland Wilds Battle Pass | 405315 | [405315-rogue-company-season-7-wasteland-wilds-battle-pass.json](./405315-rogue-company-season-7-wasteland-wilds-battle-pass.json) |
 | Rogue Company: Season 9 - Mad Mercenaries | 406725 | [406725-rogue-company-season-9-mad-mercenaries.json](./406725-rogue-company-season-9-mad-mercenaries.json) |
 | Rogue Company: Season Four Starter Pack | 406768 | [406768-rogue-company-season-four-starter-pack.json](./406768-rogue-company-season-four-starter-pack.json) |
