@@ -8749,6 +8749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioShock: Ultimate Rapture Edition | 47467 | [47467-bioshock-ultimate-rapture-edition.json](./47467-bioshock-ultimate-rapture-edition.json) |
 | Biosmose | 260644 | [260644-biosmose.json](./260644-biosmose.json) |
 | Biosphere | 185531 | [185531-biosphere.json](./185531-biosphere.json) |
+| Biosphere Simulator | 403910 | [403910-biosphere-simulator.json](./403910-biosphere-simulator.json) |
 | BioStorm | 309007 | [309007-biostorm.json](./309007-biostorm.json) |
 | Biosupremacy | 29793 | [29793-biosupremacy.json](./29793-biosupremacy.json) |
 | BioSwarm | 297472 | [297472-bioswarm.json](./297472-bioswarm.json) |
@@ -16554,6 +16555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridges & Docks | 281972 | [281972-bridges-and-docks.json](./281972-bridges-and-docks.json) |
 | Bridget Bishop | 400317 | [400317-bridget-bishop.json](./400317-bridget-bishop.json) |
 | BridgeTeam: Ship Simulator | 190981 | [190981-bridgeteam-ship-simulator.json](./190981-bridgeteam-ship-simulator.json) |
+| Bridgeway to Heaven | 403883 | [403883-bridgeway-to-heaven.json](./403883-bridgeway-to-heaven.json) |
 | Brie Parmesan Mysteries | 244909 | [244909-brie-parmesan-mysteries.json](./244909-brie-parmesan-mysteries.json) |
 | Brief Battles | 77536 | [77536-brief-battles.json](./77536-brief-battles.json) |
 | Brief Karate Foolish | 30877 | [30877-brief-karate-foolish.json](./30877-brief-karate-foolish.json) |
@@ -19120,6 +19122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Stop Shuffle | 361264 | [361264-bus-stop-shuffle.json](./361264-bus-stop-shuffle.json) |
 | Bus Stop Spirit | 408191 | [408191-bus-stop-spirit.json](./408191-bus-stop-spirit.json) |
 | Bus Story: games for kids | 98999 | [98999-bus-story-games-for-kids.json](./98999-bus-story-games-for-kids.json) |
+| Bus Terminal Simulator | 403889 | [403889-bus-terminal-simulator.json](./403889-bus-terminal-simulator.json) |
 | Bus Turbo Racing | 101124 | [101124-bus-turbo-racing.json](./101124-bus-turbo-racing.json) |
 | Bus Tycoon ND | 24995 | [24995-bus-tycoon-nd.json](./24995-bus-tycoon-nd.json) |
 | Bus Tycoon Night and Day | 254077 | [254077-bus-tycoon-night-and-day.json](./254077-bus-tycoon-night-and-day.json) |
