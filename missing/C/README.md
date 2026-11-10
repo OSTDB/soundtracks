@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops - Gold Edition | 118925 | [118925-call-of-duty-black-ops-gold-edition.json](./118925-call-of-duty-black-ops-gold-edition.json) |
 | Call of Duty: Black Ops - Hardened Edition | 47476 | [47476-call-of-duty-black-ops-hardened-edition.json](./47476-call-of-duty-black-ops-hardened-edition.json) |
 | Call of Duty: Black Ops - Prestige Edition | 102079 | [102079-call-of-duty-black-ops-prestige-edition.json](./102079-call-of-duty-black-ops-prestige-edition.json) |
+| Call of Duty: Black Ops - Rezurrection | 22553 | [22553-call-of-duty-black-ops-rezurrection.json](./22553-call-of-duty-black-ops-rezurrection.json) |
 | Call of Duty: Black Ops 4 - Digital Deluxe Edition | 118732 | [118732-call-of-duty-black-ops-4-digital-deluxe-edition.json](./118732-call-of-duty-black-ops-4-digital-deluxe-edition.json) |
 | Call of Duty: Black Ops 4 - Mystery Box Edition | 135985 | [135985-call-of-duty-black-ops-4-mystery-box-edition.json](./135985-call-of-duty-black-ops-4-mystery-box-edition.json) |
 | Call of Duty: Black Ops 4 - Pro Edition | 136016 | [136016-call-of-duty-black-ops-4-pro-edition.json](./136016-call-of-duty-black-ops-4-pro-edition.json) |
@@ -1775,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Beat 'Em Up Bundle | 109456 | [109456-capcom-beat-em-up-bundle.json](./109456-capcom-beat-em-up-bundle.json) |
 | Capcom Beat 'Em Up Bundle: Collector's Box | 167077 | [167077-capcom-beat-em-up-bundle-collectors-box.json](./167077-capcom-beat-em-up-bundle-collectors-box.json) |
 | Capcom Classics Collection | 21438 | [21438-capcom-classics-collection.json](./21438-capcom-classics-collection.json) |
+| Capcom Classics Collection Reloaded | 23099 | [23099-capcom-classics-collection-reloaded.json](./23099-capcom-classics-collection-reloaded.json) |
 | Capcom Classics Collection Remixed | 23005 | [23005-capcom-classics-collection-remixed.json](./23005-capcom-classics-collection-remixed.json) |
 | Capcom Classics Collection Vol. 2 | 20605 | [20605-capcom-classics-collection-vol-2.json](./20605-capcom-classics-collection-vol-2.json) |
 | Capcom Classics Dual Pack: Remixed and Reloaded | 419118 | [419118-capcom-classics-dual-pack-remixed-and-reloaded.json](./419118-capcom-classics-dual-pack-remixed-and-reloaded.json) |
