@@ -1527,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicademia | 148677 | [148677-magicademia.json](./148677-magicademia.json) |
 | Magicae Mundi | 110561 | [110561-magicae-mundi.json](./110561-magicae-mundi.json) |
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
+| MagiCafe HD | 397465 | [397465-magicafe-hd.json](./397465-magicafe-hd.json) |
 | Magical Amber: Tobi Tsukihime | 222742 | [222742-magical-amber-tobi-tsukihime.json](./222742-magical-amber-tobi-tsukihime.json) |
 | Magical Animal Farm | 366423 | [366423-magical-animal-farm.json](./366423-magical-animal-farm.json) |
 | Magical Atelier | 195452 | [195452-magical-atelier.json](./195452-magical-atelier.json) |
@@ -2724,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make it! Choco Banana | 353579 | [353579-make-it-choco-banana.json](./353579-make-it-choco-banana.json) |
 | Make it! Crepe | 315839 | [315839-make-it-crepe.json](./315839-make-it-crepe.json) |
 | Make it! Donut | 332360 | [332360-make-it-donut.json](./332360-make-it-donut.json) |
+| Make it! Gyoza | 397726 | [397726-make-it-gyoza.json](./397726-make-it-gyoza.json) |
 | Make it! Ikayaki | 294837 | [294837-make-it-ikayaki.json](./294837-make-it-ikayaki.json) |
 | Make it! Kushikatsu | 386198 | [386198-make-it-kushikatsu.json](./386198-make-it-kushikatsu.json) |
 | Make it! Oden | 328503 | [328503-make-it-oden.json](./328503-make-it-oden.json) |
@@ -6040,6 +6042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathfacts-Subractionflashcards | 102648 | [102648-mathfacts-subractionflashcards.json](./102648-mathfacts-subractionflashcards.json) |
 | MathFloat | 91075 | [91075-mathfloat.json](./91075-mathfloat.json) |
 | Mathica | 232870 | [232870-mathica.json](./232870-mathica.json) |
+| Mathify | 397725 | [397725-mathify.json](./397725-mathify.json) |
 | Mathigo | 350544 | [350544-mathigo.json](./350544-mathigo.json) |
 | MathJelly | 386854 | [386854-mathjelly.json](./386854-mathjelly.json) |
 | MathLand | 146687 | [146687-mathland.json](./146687-mathland.json) |
@@ -8452,6 +8455,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Snake: highly addictive | 232602 | [232602-mega-snake-highly-addictive.json](./232602-mega-snake-highly-addictive.json) |
 | Mega Solitaire | 209528 | [209528-mega-solitaire.json](./209528-mega-solitaire.json) |
 | Mega Solitaire Collection | 151335 | [151335-mega-solitaire-collection.json](./151335-mega-solitaire-collection.json) |
+| Mega Sports | 397367 | [397367-mega-sports.json](./397367-mega-sports.json) |
+| Mega Sports | 397368 | [397368-mega-sports.json](./397368-mega-sports.json) |
 | Mega Sports | 94333 | [94333-mega-sports.json](./94333-mega-sports.json) |
 | Mega Starforce: Return to the Great Star | 275311 | [275311-mega-starforce-return-to-the-great-star.json](./275311-mega-starforce-return-to-the-great-star.json) |
 | Mega Store | 228009 | [228009-mega-store.json](./228009-mega-store.json) |
@@ -20546,6 +20551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murdercide 2017 | 123212 | [123212-murdercide-2017.json](./123212-murdercide-2017.json) |
 | Murdered by Midnight | 174241 | [174241-murdered-by-midnight.json](./174241-murdered-by-midnight.json) |
 | Murderer Online | 421276 | [421276-murderer-online.json](./421276-murderer-online.json) |
+| MurderGame Portable | 397462 | [397462-murdergame-portable.json](./397462-murdergame-portable.json) |
 | MurderHobo: Aggravation Quest | 63289 | [63289-murderhobo-aggravation-quest.json](./63289-murderhobo-aggravation-quest.json) |
 | Murderlings | 305834 | [305834-murderlings.json](./305834-murderlings.json) |
 | Murderous Intent | 273738 | [273738-murderous-intent.json](./273738-murderous-intent.json) |
