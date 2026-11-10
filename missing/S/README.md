@@ -3235,6 +3235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schoolbound | 341378 | [341378-schoolbound.json](./341378-schoolbound.json) |
 | Schoolboy Escape | 336376 | [336376-schoolboy-escape.json](./336376-schoolboy-escape.json) |
 | Schoolboy Escape 2: Village | 345251 | [345251-schoolboy-escape-2-village.json](./345251-schoolboy-escape-2-village.json) |
+| Schoolboy Escape: Runaway | 396863 | [396863-schoolboy-escape-runaway.json](./396863-schoolboy-escape-runaway.json) |
 | SchoolBoy Horror | 395667 | [395667-schoolboy-horror.json](./395667-schoolboy-horror.json) |
 | SchoolBoy OutDoors | 410669 | [410669-schoolboy-outdoors.json](./410669-schoolboy-outdoors.json) |
 | Schoolboy SIM | 368463 | [368463-schoolboy-sim.json](./368463-schoolboy-sim.json) |
@@ -3313,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Science Girls | 5603 | [5603-science-girls.json](./5603-science-girls.json) |
 | Science Girls! | 182039 | [182039-science-girls.json](./182039-science-girls.json) |
 | Science Kombat | 58686 | [58686-science-kombat.json](./58686-science-kombat.json) |
+| Science Literacy Check for Adults | 396864 | [396864-science-literacy-check-for-adults.json](./396864-science-literacy-check-for-adults.json) |
 | Science Papa | 21112 | [21112-science-papa.json](./21112-science-papa.json) |
 | Science Show VR: The Abyss | 128265 | [128265-science-show-vr-the-abyss.json](./128265-science-show-vr-the-abyss.json) |
 | Science Simulator | 159320 | [159320-science-simulator.json](./159320-science-simulator.json) |
@@ -6090,6 +6092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seren Nova | 275531 | [275531-seren-nova.json](./275531-seren-nova.json) |
 | Serena | 14528 | [14528-serena.json](./14528-serena.json) |
 | Serena | 325536 | [325536-serena.json](./325536-serena.json) |
+| Serena Hanazono’s Lost Item: Sweet Memory | 396865 | [396865-serena-hanazono-s-lost-item-sweet-memory.json](./396865-serena-hanazono-s-lost-item-sweet-memory.json) |
 | Serena Williams' Match Point | 238938 | [238938-serena-williams-match-point.json](./238938-serena-williams-match-point.json) |
 | Serenade | 264397 | [264397-serenade.json](./264397-serenade.json) |
 | Serenade of the Sirens | 107411 | [107411-serenade-of-the-sirens.json](./107411-serenade-of-the-sirens.json) |
@@ -20152,6 +20155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign | 169907 | [169907-sovereign.json](./169907-sovereign.json) |
 | Sovereign | 61128 | [61128-sovereign.json](./61128-sovereign.json) |
 | Sovereign Brain Empire | 333072 | [333072-sovereign-brain-empire.json](./333072-sovereign-brain-empire.json) |
+| Sovereign Call: Origins | 396842 | [396842-sovereign-call-origins.json](./396842-sovereign-call-origins.json) |
 | Sovereign Elect | 290506 | [290506-sovereign-elect.json](./290506-sovereign-elect.json) |
 | Sovereign Elect: Necromancer Pack | 389554 | [389554-sovereign-elect-necromancer-pack.json](./389554-sovereign-elect-necromancer-pack.json) |
 | Sovereign Elect: Rain Dancer Pack | 389555 | [389555-sovereign-elect-rain-dancer-pack.json](./389555-sovereign-elect-rain-dancer-pack.json) |
@@ -22455,6 +22459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Knight | 404683 | [404683-spell-knight.json](./404683-spell-knight.json) |
 | Spell Legion | 258649 | [258649-spell-legion.json](./258649-spell-legion.json) |
 | Spell Magic | 348874 | [348874-spell-magic.json](./348874-spell-magic.json) |
+| Spell My Finger | 396845 | [396845-spell-my-finger.json](./396845-spell-my-finger.json) |
 | Spell of Destruction | 28712 | [28712-spell-of-destruction.json](./28712-spell-of-destruction.json) |
 | Spell of Infinity | 340184 | [340184-spell-of-infinity.json](./340184-spell-of-infinity.json) |
 | Spell Rift | 335371 | [335371-spell-rift.json](./335371-spell-rift.json) |
@@ -24800,6 +24805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid: Sponge Neighbor Expose | 326703 | [326703-squid-sponge-neighbor-expose.json](./326703-squid-sponge-neighbor-expose.json) |
 | Squid! Escape! Fight! | 229254 | [229254-squid-escape-fight.json](./229254-squid-escape-fight.json) |
 | Squid's Manslaughter | 340171 | [340171-squids-manslaughter.json](./340171-squids-manslaughter.json) |
+| Squidbillies: Floor It! | 396846 | [396846-squidbillies-floor-it.json](./396846-squidbillies-floor-it.json) |
 | Squidding Over It | 258880 | [258880-squidding-over-it.json](./258880-squidding-over-it.json) |
 | Squidgies Takeover | 125122 | [125122-squidgies-takeover.json](./125122-squidgies-takeover.json) |
 | Squidlit | 86574 | [86574-squidlit.json](./86574-squidlit.json) |
@@ -25087,6 +25093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stage Cleared | 319052 | [319052-stage-cleared.json](./319052-stage-cleared.json) |
 | Stage Fright | 413973 | [413973-stage-fright.json](./413973-stage-fright.json) |
 | Stage Fright | 81853 | [81853-stage-fright.json](./81853-stage-fright.json) |
+| Stage of Arisu | 396839 | [396839-stage-of-arisu.json](./396839-stage-of-arisu.json) |
 | Stage of Light | 116169 | [116169-stage-of-light.json](./116169-stage-of-light.json) |
 | Stage Presence | 34744 | [34744-stage-presence.json](./34744-stage-presence.json) |
 | Stage Tour | 393269 | [393269-stage-tour.json](./393269-stage-tour.json) |
@@ -31334,6 +31341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SUGOI | 304183 | [304183-sugoi.json](./304183-sugoi.json) |
 | Sugoi Adventure! DragonSlayer | 216867 | [216867-sugoi-adventure-dragonslayer.json](./216867-sugoi-adventure-dragonslayer.json) |
 | Sugoi Girls: Attractive Archer | 366775 | [366775-sugoi-girls-attractive-archer.json](./366775-sugoi-girls-attractive-archer.json) |
+| Sugoi Girls: Clover Crush | 396866 | [396866-sugoi-girls-clover-crush.json](./396866-sugoi-girls-clover-crush.json) |
 | Sugoi Girls: Dental Darling | 389073 | [389073-sugoi-girls-dental-darling.json](./389073-sugoi-girls-dental-darling.json) |
 | Sugoi Girls: Dragon Love | 351232 | [351232-sugoi-girls-dragon-love.json](./351232-sugoi-girls-dragon-love.json) |
 | Sugoi Girls: Enchanting Elf | 328480 | [328480-sugoi-girls-enchanting-elf.json](./328480-sugoi-girls-enchanting-elf.json) |
@@ -34461,6 +34469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Pack 2 | 231029 | [231029-super-puzzle-pack-2.json](./231029-super-puzzle-pack-2.json) |
 | Super Puzzle Platformer | 223665 | [223665-super-puzzle-platformer.json](./223665-super-puzzle-platformer.json) |
 | Super Puzzle Platformer Deluxe | 20997 | [20997-super-puzzle-platformer-deluxe.json](./20997-super-puzzle-platformer-deluxe.json) |
+| Super Puzzle Platformer Plus | 396852 | [396852-super-puzzle-platformer-plus.json](./396852-super-puzzle-platformer-plus.json) |
 | Super Puzzle Sisters | 30737 | [30737-super-puzzle-sisters.json](./30737-super-puzzle-sisters.json) |
 | Super Puzzled Cat | 296403 | [296403-super-puzzled-cat.json](./296403-super-puzzled-cat.json) |
 | Super Puzzles Dream: Xmas | 147436 | [147436-super-puzzles-dream-xmas.json](./147436-super-puzzles-dream-xmas.json) |
@@ -36032,6 +36041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surmount | 126352 | [126352-surmount.json](./126352-surmount.json) |
 | Suroi | 288251 | [288251-suroi.json](./288251-suroi.json) |
 | Surprise Attack | 46783 | [46783-surprise-attack.json](./46783-surprise-attack.json) |
+| Surprise Bullfight | 396853 | [396853-surprise-bullfight.json](./396853-surprise-bullfight.json) |
 | Surprise Cat | 213593 | [213593-surprise-cat.json](./213593-surprise-cat.json) |
 | Surprise Eggs | 96609 | [96609-surprise-eggs.json](./96609-surprise-eggs.json) |
 | Surprise Mechanic: The Gaming Trivia | 134896 | [134896-surprise-mechanic-the-gaming-trivia.json](./134896-surprise-mechanic-the-gaming-trivia.json) |
@@ -36395,6 +36405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor in the Forest | 310166 | [310166-survivor-in-the-forest.json](./310166-survivor-in-the-forest.json) |
 | Survivor Island | 89419 | [89419-survivor-island.json](./89419-survivor-island.json) |
 | Survivor Jones | 157356 | [157356-survivor-jones.json](./157356-survivor-jones.json) |
+| Survivor Legion | 396867 | [396867-survivor-legion.json](./396867-survivor-legion.json) |
 | Survivor Master-Sifu | 293152 | [293152-survivor-master-sifu.json](./293152-survivor-master-sifu.json) |
 | Survivor Mercs | 239709 | [239709-survivor-mercs.json](./239709-survivor-mercs.json) |
 | Survivor of Eschewal | 74999 | [74999-survivor-of-eschewal.json](./74999-survivor-of-eschewal.json) |
