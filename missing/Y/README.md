@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru. Kan | 231405 | [231405-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-kan.json](./231405-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-kan.json) |
 | Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru. Zoku | 11752 | [11752-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.json](./11752-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.json) |
 | Yahoo Pool | 86051 | [86051-yahoo-pool.json](./86051-yahoo-pool.json) |
+| Yahoo Solitaire Roadtrip | 426591 | [426591-yahoo-solitaire-roadtrip.json](./426591-yahoo-solitaire-roadtrip.json) |
 | Yahrit! | 105291 | [105291-yahrit.json](./105291-yahrit.json) |
 | Yahtzee | 40745 | [40745-yahtzee.json](./40745-yahtzee.json) |
 | Yahtzee Adventures | 62048 | [62048-yahtzee-adventures.json](./62048-yahtzee-adventures.json) |
