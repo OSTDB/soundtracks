@@ -7502,6 +7502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens versus Humans: Missions | 235153 | [235153-aliens-versus-humans-missions.json](./235153-aliens-versus-humans-missions.json) |
 | Aliens versus Predator | 9979 | [9979-aliens-versus-predator.json](./9979-aliens-versus-predator.json) |
 | Aliens versus Predator 2 | 594 | [594-aliens-versus-predator-2.json](./594-aliens-versus-predator-2.json) |
+| Aliens Versus Predator 2 VR | 421836 | [421836-aliens-versus-predator-2-vr.json](./421836-aliens-versus-predator-2-vr.json) |
 | Aliens Versus Predator 2: Gold Edition | 256362 | [256362-aliens-versus-predator-2-gold-edition.json](./256362-aliens-versus-predator-2-gold-edition.json) |
 | Aliens Versus Predator 2: Primal Hunt | 19214 | [19214-aliens-versus-predator-2-primal-hunt.json](./19214-aliens-versus-predator-2-primal-hunt.json) |
 | Aliens Versus Predator Classic 2000 | 14818 | [14818-aliens-versus-predator-classic-2000.json](./14818-aliens-versus-predator-classic-2000.json) |
@@ -18318,6 +18319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurule Dynasty | 406856 | [406856-aurule-dynasty.json](./406856-aurule-dynasty.json) |
 | Aurum | 100244 | [100244-aurum.json](./100244-aurum.json) |
 | Aurum | 373636 | [373636-aurum.json](./373636-aurum.json) |
+| Aurum & Aether | 421756 | [421756-aurum-and-aether.json](./421756-aurum-and-aether.json) |
 | Aurum Blade | 38709 | [38709-aurum-blade.json](./38709-aurum-blade.json) |
 | Aurum Kings | 100148 | [100148-aurum-kings.json](./100148-aurum-kings.json) |
 | Aurum Online | 158968 | [158968-aurum-online.json](./158968-aurum-online.json) |
