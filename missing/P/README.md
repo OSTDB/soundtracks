@@ -6031,6 +6031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phosfi | 272606 | [272606-phosfi.json](./272606-phosfi.json) |
 | Phosphenia | 290670 | [290670-phosphenia.json](./290670-phosphenia.json) |
 | Phosphor | 267767 | [267767-phosphor.json](./267767-phosphor.json) |
+| Phosphor | 409915 | [409915-phosphor.json](./409915-phosphor.json) |
 | Photo Clock | 84692 | [84692-photo-clock.json](./84692-photo-clock.json) |
 | Photo Dojo | 67245 | [67245-photo-dojo.json](./67245-photo-dojo.json) |
 | Photo Finish | 110533 | [110533-photo-finish.json](./110533-photo-finish.json) |
@@ -11883,6 +11884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Mythic Silver | 337425 | [337425-pokemon-mythic-silver.json](./337425-pokemon-mythic-silver.json) |
 | Pokémon Nameless FireRed Project | 213034 | [213034-pokemon-nameless-firered-project.json](./213034-pokemon-nameless-firered-project.json) |
 | Pokémon Nameless Version | 381791 | [381791-pokemon-nameless-version.json](./381791-pokemon-nameless-version.json) |
+| Pokémon Nightmare | 409918 | [409918-pokemon-nightmare.json](./409918-pokemon-nightmare.json) |
 | Pokémon Nightmare Version: Invasion | 279053 | [279053-pokemon-nightmare-version-invasion.json](./279053-pokemon-nightmare-version-invasion.json) |
 | Pokémon Nova | 406870 | [406870-pokemon-nova.json](./406870-pokemon-nova.json) |
 | Pokemon Nova Sun | 288201 | [288201-pokemon-nova-sun.json](./288201-pokemon-nova-sun.json) |
@@ -19267,9 +19269,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Girls: Cute | 286399 | [286399-puzzle-girls-cute.json](./286399-puzzle-girls-cute.json) |
 | Puzzle Girls: Dark Temptation | 420662 | [420662-puzzle-girls-dark-temptation.json](./420662-puzzle-girls-dark-temptation.json) |
 | Puzzle Girls: Galaxy | 76291 | [76291-puzzle-girls-galaxy.json](./76291-puzzle-girls-galaxy.json) |
+| Puzzle Girls: Gentle Passion | 409933 | [409933-puzzle-girls-gentle-passion.json](./409933-puzzle-girls-gentle-passion.json) |
 | Puzzle Girls: Inner Flame | 410374 | [410374-puzzle-girls-inner-flame.json](./410374-puzzle-girls-inner-flame.json) |
 | Puzzle Girls: Lingerie | 109492 | [109492-puzzle-girls-lingerie.json](./109492-puzzle-girls-lingerie.json) |
 | Puzzle Girls: Seductive Nights | 410373 | [410373-puzzle-girls-seductive-nights.json](./410373-puzzle-girls-seductive-nights.json) |
+| Puzzle Girls: Sweet Romance | 409931 | [409931-puzzle-girls-sweet-romance.json](./409931-puzzle-girls-sweet-romance.json) |
 | Puzzle Glow : Brain Puzzle Game Collection | 109223 | [109223-puzzle-glow-brain-puzzle-game-collection.json](./109223-puzzle-glow-brain-puzzle-game-collection.json) |
 | Puzzle Go | 256040 | [256040-puzzle-go.json](./256040-puzzle-go.json) |
 | Puzzle Go! | 251729 | [251729-puzzle-go.json](./251729-puzzle-go.json) |
