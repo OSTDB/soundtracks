@@ -630,6 +630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 25 Mobile Football | 320596 | [320596-madden-nfl-25-mobile-football.json](./320596-madden-nfl-25-mobile-football.json) |
 | Madden NFL 26 | 342382 | [342382-madden-nfl-26.json](./342382-madden-nfl-26.json) |
 | Madden NFL 26: Deluxe Edition | 342383 | [342383-madden-nfl-26-deluxe-edition.json](./342383-madden-nfl-26-deluxe-edition.json) |
+| Madden NFL 27 | 400379 | [400379-madden-nfl-27.json](./400379-madden-nfl-27.json) |
 | Madden NFL 27: Deluxe Edition | 411832 | [411832-madden-nfl-27-deluxe-edition.json](./411832-madden-nfl-27-deluxe-edition.json) |
 | Madden NFL 95 | 4506 | [4506-madden-nfl-95.json](./4506-madden-nfl-95.json) |
 | Madden NFL 95 | 48974 | [48974-madden-nfl-95.json](./48974-madden-nfl-95.json) |
@@ -3571,6 +3572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Age | 35838 | [35838-marble-age.json](./35838-marble-age.json) |
 | Marble Age: Remastered | 139653 | [139653-marble-age-remastered.json](./139653-marble-age-remastered.json) |
 | Marble Allstars | 335506 | [335506-marble-allstars.json](./335506-marble-allstars.json) |
+| Marble Arena 2 | 1018 | [1018-marble-arena-2.json](./1018-marble-arena-2.json) |
 | Marble Ball Friends | 196959 | [196959-marble-ball-friends.json](./196959-marble-ball-friends.json) |
 | Marble Ball Racing | 158904 | [158904-marble-ball-racing.json](./158904-marble-ball-racing.json) |
 | Marble Ball: Racing 2022 | 237185 | [237185-marble-ball-racing-2022.json](./237185-marble-ball-racing-2022.json) |
@@ -4731,6 +4733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marsmare: Alienation | 199341 | [199341-marsmare-alienation.json](./199341-marsmare-alienation.json) |
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
 | Marsupilami | 18142 | [18142-marsupilami.json](./18142-marsupilami.json) |
+| Marsupilami 2: Salsa Palombia | 403744 | [403744-marsupilami-2-salsa-palombia.json](./403744-marsupilami-2-salsa-palombia.json) |
 | Marsupilami: Hoobadventure | 150008 | [150008-marsupilami-hoobadventure.json](./150008-marsupilami-hoobadventure.json) |
 | Marsupilami: Hoobadventure - Collector's Edition | 151923 | [151923-marsupilami-hoobadventure-collectors-edition.json](./151923-marsupilami-hoobadventure-collectors-edition.json) |
 | Marsupilami: Hoobadventure - Tropical Edition | 152337 | [152337-marsupilami-hoobadventure-tropical-edition.json](./152337-marsupilami-hoobadventure-tropical-edition.json) |
@@ -15651,6 +15654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole's Quest | 343208 | [343208-moles-quest.json](./343208-moles-quest.json) |
 | Mole's World | 245050 | [245050-moles-world.json](./245050-moles-world.json) |
 | Molebasher | 312262 | [312262-molebasher.json](./312262-molebasher.json) |
+| Molecano | 261069 | [261069-molecano.json](./261069-molecano.json) |
 | Molecats | 22743 | [22743-molecats.json](./22743-molecats.json) |
 | MolEconomy | 371202 | [371202-moleconomy.json](./371202-moleconomy.json) |
 | Molecoole | 190811 | [190811-molecoole.json](./190811-molecoole.json) |
@@ -18385,6 +18389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moss Palace Parade | 406118 | [406118-moss-palace-parade.json](./406118-moss-palace-parade.json) |
 | Moss Piglets | 295102 | [295102-moss-piglets.json](./295102-moss-piglets.json) |
 | Moss: Becoming Human | 337448 | [337448-moss-becoming-human.json](./337448-moss-becoming-human.json) |
+| Moss: The Forgotten Relic | 401893 | [401893-moss-the-forgotten-relic.json](./401893-moss-the-forgotten-relic.json) |
 | Moss: The Twilight Garden | 162204 | [162204-moss-the-twilight-garden.json](./162204-moss-the-twilight-garden.json) |
 | Mossasis | 248978 | [248978-mossasis.json](./248978-mossasis.json) |
 | Mossbound | 385219 | [385219-mossbound.json](./385219-mossbound.json) |
@@ -19825,6 +19830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mucha Lucha! Mascaritas of the Lost Code | 64836 | [64836-mucha-lucha-mascaritas-of-the-lost-code.json](./64836-mucha-lucha-mascaritas-of-the-lost-code.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
 | Muchi Muchi Pork! | 39698 | [39698-muchi-muchi-pork.json](./39698-muchi-muchi-pork.json) |
+| Muchi Muchi Pork! & PinkSweets Boosted | 403533 | [403533-muchi-muchi-pork-and-pinksweets-boosted.json](./403533-muchi-muchi-pork-and-pinksweets-boosted.json) |
 | Mucho Party | 116442 | [116442-mucho-party.json](./116442-mucho-party.json) |
 | Mucho Taco | 133856 | [133856-mucho-taco.json](./133856-mucho-taco.json) |
 | Mucho Texto | 365809 | [365809-mucho-texto.json](./365809-mucho-texto.json) |
