@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFC 2009 Undisputed | 7227 | [7227-ufc-2009-undisputed.json](./7227-ufc-2009-undisputed.json) |
 | UFC 4: Fighter Bundle | 227087 | [227087-ufc-4-fighter-bundle.json](./227087-ufc-4-fighter-bundle.json) |
 | UFC 5: Deluxe Edition | 273592 | [273592-ufc-5-deluxe-edition.json](./273592-ufc-5-deluxe-edition.json) |
+| UFC Personal Trainer: The Ultimate Fitness System | 22948 | [22948-ufc-personal-trainer-the-ultimate-fitness-system.json](./22948-ufc-personal-trainer-the-ultimate-fitness-system.json) |
 | UFC Undisputed 2010 | 7228 | [7228-ufc-undisputed-2010.json](./7228-ufc-undisputed-2010.json) |
 | UFC Undisputed 3 | 7229 | [7229-ufc-undisputed-3.json](./7229-ufc-undisputed-3.json) |
 | UFC Undisputed Forever | 410484 | [410484-ufc-undisputed-forever.json](./410484-ufc-undisputed-forever.json) |
@@ -1853,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Garage | 156087 | [156087-underground-garage.json](./156087-underground-garage.json) |
 | Underground Gnome | 264986 | [264986-underground-gnome.json](./264986-underground-gnome.json) |
 | Underground Hangovers | 146470 | [146470-underground-hangovers.json](./146470-underground-hangovers.json) |
+| Underground Keeper | 22727 | [22727-underground-keeper.json](./22727-underground-keeper.json) |
 | Underground Keeper II | 171732 | [171732-underground-keeper-ii.json](./171732-underground-keeper-ii.json) |
 | Underground Life | 172676 | [172676-underground-life.json](./172676-underground-life.json) |
 | Underground Lords | 197051 | [197051-underground-lords.json](./197051-underground-lords.json) |
@@ -3554,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uridium 2 | 12808 | [12808-uridium-2.json](./12808-uridium-2.json) |
 | Uridium Plus | 140259 | [140259-uridium-plus.json](./140259-uridium-plus.json) |
 | Uridium Plus & Paradroid: Competition Edition | 137262 | [137262-uridium-plus-and-paradroid-competition-edition.json](./137262-uridium-plus-and-paradroid-competition-edition.json) |
+| Uriel's Chasm | 9733 | [9733-uriels-chasm.json](./9733-uriels-chasm.json) |
 | Uriel's Chasm 3: Gelshock | 116704 | [116704-uriels-chasm-3-gelshock.json](./116704-uriels-chasm-3-gelshock.json) |
 | Urinary Samus | 343367 | [343367-urinary-samus.json](./343367-urinary-samus.json) |
 | Urizen Frosty Plus the New Warriors | 169828 | [169828-urizen-frosty-plus-the-new-warriors.json](./169828-urizen-frosty-plus-the-new-warriors.json) |
