@@ -2086,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Killer: Collector's Edition | 240033 | [240033-paradise-killer-collectors-edition.json](./240033-paradise-killer-collectors-edition.json) |
 | Paradise Killer: Perfect 25 Edition | 154518 | [154518-paradise-killer-perfect-25-edition.json](./154518-paradise-killer-perfect-25-edition.json) |
 | Paradise Lofts | 156652 | [156652-paradise-lofts.json](./156652-paradise-lofts.json) |
+| Paradise Loop | 400621 | [400621-paradise-loop.json](./400621-paradise-loop.json) |
 | Paradise Lost | 134574 | [134574-paradise-lost.json](./134574-paradise-lost.json) |
 | Paradise Lost | 137092 | [137092-paradise-lost.json](./137092-paradise-lost.json) |
 | Paradise Lost | 165941 | [165941-paradise-lost.json](./165941-paradise-lost.json) |
