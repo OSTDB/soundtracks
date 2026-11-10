@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From Hoia Baciu Forest | 202756 | [202756-tales-from-hoia-baciu-forest.json](./202756-tales-from-hoia-baciu-forest.json) |
 | Tales from Mars | 322012 | [322012-tales-from-mars.json](./322012-tales-from-mars.json) |
 | Tales from My Ass: Slice of Death | 255845 | [255845-tales-from-my-ass-slice-of-death.json](./255845-tales-from-my-ass-slice-of-death.json) |
+| Tales From Off-Peak City Vol. 1 | 126332 | [126332-tales-from-off-peak-city-vol-1.json](./126332-tales-from-off-peak-city-vol-1.json) |
 | Tales From Space: About A Blob | 52908 | [52908-tales-from-space-about-a-blob.json](./52908-tales-from-space-about-a-blob.json) |
 | Tales from the Age of Men | 423994 | [423994-tales-from-the-age-of-men.json](./423994-tales-from-the-age-of-men.json) |
 | Tales From The Arcade: Fartmania | 296471 | [296471-tales-from-the-arcade-fartmania.json](./296471-tales-from-the-arcade-fartmania.json) |
@@ -4636,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Incognita | 129119 | [129119-terra-incognita.json](./129119-terra-incognita.json) |
 | Terra Incognito - Antarctica 1911 | 112666 | [112666-terra-incognito-antarctica-1911.json](./112666-terra-incognito-antarctica-1911.json) |
 | Terra Inferno | 321952 | [321952-terra-inferno.json](./321952-terra-inferno.json) |
+| Terra Invicta | 124042 | [124042-terra-invicta.json](./124042-terra-invicta.json) |
 | Terra Invicta: Dark Skies | 408608 | [408608-terra-invicta-dark-skies.json](./408608-terra-invicta-dark-skies.json) |
 | Terra Lander | 9457 | [9457-terra-lander.json](./9457-terra-lander.json) |
 | Terra Lander II: Rockslide Rescue | 130136 | [130136-terra-lander-ii-rockslide-rescue.json](./130136-terra-lander-ii-rockslide-rescue.json) |
@@ -5776,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Busy Billy | 206207 | [206207-the-adventures-of-busy-billy.json](./206207-the-adventures-of-busy-billy.json) |
 | The Adventures of Capitano Navarro | 51512 | [51512-the-adventures-of-capitano-navarro.json](./51512-the-adventures-of-capitano-navarro.json) |
 | The Adventures of Captain Becky | 311710 | [311710-the-adventures-of-captain-becky.json](./311710-the-adventures-of-captain-becky.json) |
+| The Adventures of Captain Comic | 9528 | [9528-the-adventures-of-captain-comic.json](./9528-the-adventures-of-captain-comic.json) |
 | The Adventures of Captain Potato | 107396 | [107396-the-adventures-of-captain-potato.json](./107396-the-adventures-of-captain-potato.json) |
 | The Adventures of Catto Boi | 228831 | [228831-the-adventures-of-catto-boi.json](./228831-the-adventures-of-catto-boi.json) |
 | The Adventures of Catto Boi | 306897 | [306897-the-adventures-of-catto-boi.json](./306897-the-adventures-of-catto-boi.json) |
@@ -20034,6 +20037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Xeno Project II | 222193 | [222193-the-xeno-project-ii.json](./222193-the-xeno-project-ii.json) |
 | The Yakutsu Noroi Game | 124641 | [124641-the-yakutsu-noroi-game.json](./124641-the-yakutsu-noroi-game.json) |
 | The Yakuza Bundle | 254291 | [254291-the-yakuza-bundle.json](./254291-the-yakuza-bundle.json) |
+| The Yakuza Remastered Collection | 121828 | [121828-the-yakuza-remastered-collection.json](./121828-the-yakuza-remastered-collection.json) |
 | The Yakuza Remastered Collection: Day One Edition | 135977 | [135977-the-yakuza-remastered-collection-day-one-edition.json](./135977-the-yakuza-remastered-collection-day-one-edition.json) |
 | The Yakyuken Special | 280652 | [280652-the-yakyuken-special.json](./280652-the-yakyuken-special.json) |
 | The Yakyuken: Blonde-hen | 251083 | [251083-the-yakyuken-blonde-hen.json](./251083-the-yakyuken-blonde-hen.json) |
@@ -27716,6 +27720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Shinjutou: Hollow Song of Birds | 196269 | [196269-touhou-shinjutou-hollow-song-of-birds.json](./196269-touhou-shinjutou-hollow-song-of-birds.json) |
 | Touhou Shinmadan: The Ancient Square | 335061 | [335061-touhou-shinmadan-the-ancient-square.json](./335061-touhou-shinmadan-the-ancient-square.json) |
 | Touhou Shinpiroku: Urban Legend in Limbo. | 298968 | [298968-touhou-shinpiroku-urban-legend-in-limbo.json](./298968-touhou-shinpiroku-urban-legend-in-limbo.json) |
+| Touhou Shinreibyou: Ten Desires | 119608 | [119608-touhou-shinreibyou-ten-desires.json](./119608-touhou-shinreibyou-ten-desires.json) |
 | Touhou Shoujo: Tale of Beautiful Memories | 121378 | [121378-touhou-shoujo-tale-of-beautiful-memories.json](./121378-touhou-shoujo-tale-of-beautiful-memories.json) |
 | Touhou Silver Night Festival: Freedom Train | 195794 | [195794-touhou-silver-night-festival-freedom-train.json](./195794-touhou-silver-night-festival-freedom-train.json) |
 | Touhou Sky Arena | 66025 | [66025-touhou-sky-arena.json](./66025-touhou-sky-arena.json) |
