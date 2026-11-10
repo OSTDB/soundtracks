@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haramatia | 116751 | [116751-haramatia.json](./116751-haramatia.json) |
 | Harambe Kong | 82032 | [82032-harambe-kong.json](./82032-harambe-kong.json) |
 | Haramimura: When a Wife Becomes a Villager | 388721 | [388721-haramimura-when-a-wife-becomes-a-villager.json](./388721-haramimura-when-a-wife-becomes-a-villager.json) |
+| Harap Alb | 426611 | [426611-harap-alb.json](./426611-harap-alb.json) |
 | Harapeko Einya | 368239 | [368239-harapeko-einya.json](./368239-harapeko-einya.json) |
 | Harapeko Pakkun | 97795 | [97795-harapeko-pakkun.json](./97795-harapeko-pakkun.json) |
 | Harassment ni Ki wo Tsukete | 251609 | [251609-harassment-ni-ki-wo-tsukete.json](./251609-harassment-ni-ki-wo-tsukete.json) |
@@ -3706,6 +3707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
 | Heartwood Heroes | 236329 | [236329-heartwood-heroes.json](./236329-heartwood-heroes.json) |
 | Heartwood Online | 258374 | [258374-heartwood-online.json](./258374-heartwood-online.json) |
+| Heartwood Village | 426628 | [426628-heartwood-village.json](./426628-heartwood-village.json) |
 | HeartZ | 18578 | [18578-heartz.json](./18578-heartz.json) |
 | HeartZ: Co-Hope Puzzles | 35803 | [35803-heartz-co-hope-puzzles.json](./35803-heartz-co-hope-puzzles.json) |
 | Heat | 113542 | [113542-heat.json](./113542-heat.json) |
@@ -10773,6 +10775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HorseWorld: Premium | 99938 | [99938-horseworld-premium.json](./99938-horseworld-premium.json) |
 | Horsey Game | 392467 | [392467-horsey-game.json](./392467-horsey-game.json) |
 | Horsey I | 362166 | [362166-horsey-i.json](./362166-horsey-i.json) |
+| Horsey Jump | 426618 | [426618-horsey-jump.json](./426618-horsey-jump.json) |
 | Horsez | 248607 | [248607-horsez.json](./248607-horsez.json) |
 | Horsez | 248608 | [248608-horsez.json](./248608-horsez.json) |
 | Horsez | 5096 | [5096-horsez.json](./5096-horsez.json) |
