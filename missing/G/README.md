@@ -1206,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galxagar | 207320 | [207320-galxagar.json](./207320-galxagar.json) |
 | Galzoo Island | 185286 | [185286-galzoo-island.json](./185286-galzoo-island.json) |
 | Gam3rAbduction | 276034 | [276034-gam3rabduction.json](./276034-gam3rabduction.json) |
+| Gamba God | 407016 | [407016-gamba-god.json](./407016-gamba-god.json) |
 | Gamba Gun | 346248 | [346248-gamba-gun.json](./346248-gamba-gun.json) |
 | Gamba Simulator | 326431 | [326431-gamba-simulator.json](./326431-gamba-simulator.json) |
 | Gambari Minoriko: Onee-chan no Shiren | 241259 | [241259-gambari-minoriko-onee-chan-no-shiren.json](./241259-gambari-minoriko-onee-chan-no-shiren.json) |
