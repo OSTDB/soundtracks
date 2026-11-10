@@ -3400,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Dreams | 12232 | [12232-weird-dreams.json](./12232-weird-dreams.json) |
 | Weird Hat Fight | 201804 | [201804-weird-hat-fight.json](./201804-weird-hat-fight.json) |
 | Weird Hero | 26122 | [26122-weird-hero.json](./26122-weird-hero.json) |
+| Weird Heroes: Jump & Fun Bundle | 414891 | [414891-weird-heroes-jump-and-fun-bundle.json](./414891-weird-heroes-jump-and-fun-bundle.json) |
 | Weird Japan | 216690 | [216690-weird-japan.json](./216690-weird-japan.json) |
 | Weird Little Guys | 335422 | [335422-weird-little-guys.json](./335422-weird-little-guys.json) |
 | Weird Meese | 280092 | [280092-weird-meese.json](./280092-weird-meese.json) |
@@ -7299,6 +7300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woke Quest | 415914 | [415914-woke-quest.json](./415914-woke-quest.json) |
 | Woke up in a Dark Nightmare | 405726 | [405726-woke-up-in-a-dark-nightmare.json](./405726-woke-up-in-a-dark-nightmare.json) |
 | Woks | 262190 | [262190-woks.json](./262190-woks.json) |
+| Wolcen II | 414929 | [414929-wolcen-ii.json](./414929-wolcen-ii.json) |
 | Wolcen: Lords of Mayhem - Deluxe Edition | 241835 | [241835-wolcen-lords-of-mayhem-deluxe-edition.json](./241835-wolcen-lords-of-mayhem-deluxe-edition.json) |
 | Wolf | 232000 | [232000-wolf.json](./232000-wolf.json) |
 | Wolf | 9573 | [9573-wolf.json](./9573-wolf.json) |
@@ -7946,6 +7948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Quest | 266062 | [266062-word-quest.json](./266062-word-quest.json) |
 | Word Quest | 374098 | [374098-word-quest.json](./374098-word-quest.json) |
 | Word Quest Fantasy | 385067 | [385067-word-quest-fantasy.json](./385067-word-quest-fantasy.json) |
+| Word Quest Nature | 414890 | [414890-word-quest-nature.json](./414890-word-quest-nature.json) |
 | Word Quest Space | 378773 | [378773-word-quest-space.json](./378773-word-quest-space.json) |
 | Word Quest: Cyberpunk | 399795 | [399795-word-quest-cyberpunk.json](./399795-word-quest-cyberpunk.json) |
 | Word Quest: Horror | 402932 | [402932-word-quest-horror.json](./402932-word-quest-horror.json) |
