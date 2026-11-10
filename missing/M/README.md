@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Carnival | 59735 | [59735-mahjong-carnival.json](./59735-mahjong-carnival.json) |
 | Mahjong Cascade: Bamboo and Dragons | 334100 | [334100-mahjong-cascade-bamboo-and-dragons.json](./334100-mahjong-cascade-bamboo-and-dragons.json) |
 | Mahjong Challenge | 55266 | [55266-mahjong-challenge.json](./55266-mahjong-challenge.json) |
+| Mahjong Club | 108666 | [108666-mahjong-club.json](./108666-mahjong-club.json) |
 | Mahjong Club | 37939 | [37939-mahjong-club.json](./37939-mahjong-club.json) |
 | Mahjong Club 90's | 409087 | [409087-mahjong-club-90s.json](./409087-mahjong-club-90s.json) |
 | Mahjong Collection | 110813 | [110813-mahjong-collection.json](./110813-mahjong-collection.json) |
@@ -13727,6 +13728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniMap Kingdom | 166743 | [166743-minimap-kingdom.json](./166743-minimap-kingdom.json) |
 | Minimapperz | 337302 | [337302-minimapperz.json](./337302-minimapperz.json) |
 | Minimate | 410917 | [410917-minimate.json](./410917-minimate.json) |
+| MiniMax Tinyverse | 108351 | [108351-minimax-tinyverse.json](./108351-minimax-tinyverse.json) |
 | Minimize | 88665 | [88665-minimize.json](./88665-minimize.json) |
 | Minimized | 31457 | [31457-minimized.json](./31457-minimized.json) |
 | Minimized II | 54340 | [54340-minimized-ii.json](./54340-minimized-ii.json) |
@@ -15011,6 +15013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Federation | 116394 | [116394-mma-federation.json](./116394-mma-federation.json) |
 | MMA Manager | 175306 | [175306-mma-manager.json](./175306-mma-manager.json) |
 | MMA Manager 2: Ultimate Fight | 174811 | [174811-mma-manager-2-ultimate-fight.json](./174811-mma-manager-2-ultimate-fight.json) |
+| MMA Simulator | 108432 | [108432-mma-simulator.json](./108432-mma-simulator.json) |
 | MMA Team Manager | 111518 | [111518-mma-team-manager.json](./111518-mma-team-manager.json) |
 | MMC Kenken: The World's Most Exciting Math and Logic Puzzle | 173131 | [173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json](./173131-mmc-kenken-the-worlds-most-exciting-math-and-logic-puzzle.json) |
 | MMI | 212154 | [212154-mmi.json](./212154-mmi.json) |
@@ -15773,6 +15776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo Mother Bird: Final Story | 209483 | [209483-momo-mother-bird-final-story.json](./209483-momo-mother-bird-final-story.json) |
 | Momo no Hana ha Senketsu ni Somaru | 246020 | [246020-momo-no-hana-ha-senketsu-ni-somaru.json](./246020-momo-no-hana-ha-senketsu-ni-somaru.json) |
 | Momo Pop | 109965 | [109965-momo-pop.json](./109965-momo-pop.json) |
+| Momo.exe | 108391 | [108391-momo-exe.json](./108391-momo-exe.json) |
 | Momo.exe 2 | 110175 | [110175-momo-exe-2.json](./110175-momo-exe-2.json) |
 | Momo.exe VR | 173898 | [173898-momo-exe-vr.json](./173898-momo-exe-vr.json) |
 | Momo's Conflict | 207526 | [207526-momos-conflict.json](./207526-momos-conflict.json) |
@@ -16469,6 +16473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster F****r One: Vampire | 110858 | [110858-monster-f-r-one-vampire.json](./110858-monster-f-r-one-vampire.json) |
 | Monster Fair | 218156 | [218156-monster-fair.json](./218156-monster-fair.json) |
 | Monster Fantasy | 407994 | [407994-monster-fantasy.json](./407994-monster-fantasy.json) |
+| Monster Farm | 108078 | [108078-monster-farm.json](./108078-monster-farm.json) |
 | Monster Farm DS 2: Yomigaeru! Master Breeder Densetsu | 124479 | [124479-monster-farm-ds-2-yomigaeru-master-breeder-densetsu.json](./124479-monster-farm-ds-2-yomigaeru-master-breeder-densetsu.json) |
 | Monster Feeder | 344917 | [344917-monster-feeder.json](./344917-monster-feeder.json) |
 | Monster Fight | 196665 | [196665-monster-fight.json](./196665-monster-fight.json) |
