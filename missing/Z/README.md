@@ -533,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda II: Boss Endurance | 280757 | [280757-zelda-ii-boss-endurance.json](./280757-zelda-ii-boss-endurance.json) |
 | Zelda II: End of Day | 144640 | [144640-zelda-ii-end-of-day.json](./144640-zelda-ii-end-of-day.json) |
 | Zelda II: Life is Meaningless | 269897 | [269897-zelda-ii-life-is-meaningless.json](./269897-zelda-ii-life-is-meaningless.json) |
+| Zelda II: Monster Festival | 403268 | [403268-zelda-ii-monster-festival.json](./403268-zelda-ii-monster-festival.json) |
 | Zelda II: Ocarina of Time | 269898 | [269898-zelda-ii-ocarina-of-time.json](./269898-zelda-ii-ocarina-of-time.json) |
 | Zelda II: Paracosm | 305342 | [305342-zelda-ii-paracosm.json](./305342-zelda-ii-paracosm.json) |
 | Zelda II: Resurrection of Ganon | 339257 | [339257-zelda-ii-resurrection-of-ganon.json](./339257-zelda-ii-resurrection-of-ganon.json) |
