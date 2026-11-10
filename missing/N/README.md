@@ -2201,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekopara Vol. 2 | 34053 | [34053-nekopara-vol-2.json](./34053-nekopara-vol-2.json) |
 | Nekopara Vol. 3 | 29271 | [29271-nekopara-vol-3.json](./29271-nekopara-vol-3.json) |
 | Nekopara Vol. 4 | 35254 | [35254-nekopara-vol-4.json](./35254-nekopara-vol-4.json) |
+| Nekopara: Catboys Paradise | 156207 | [156207-nekopara-catboys-paradise.json](./156207-nekopara-catboys-paradise.json) |
 | Nekopirate | 244149 | [244149-nekopirate.json](./244149-nekopirate.json) |
 | Nekopon | 295979 | [295979-nekopon.json](./295979-nekopon.json) |
 | Nekopter | 156018 | [156018-nekopter.json](./156018-nekopter.json) |
@@ -3823,6 +3824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NexusRPG | 416366 | [416366-nexusrpg.json](./416366-nexusrpg.json) |
 | Nexwar | 403168 | [403168-nexwar.json](./403168-nexwar.json) |
 | Nexzr | 42016 | [42016-nexzr.json](./42016-nexzr.json) |
+| Neyasnoe | 179886 | [179886-neyasnoe.json](./179886-neyasnoe.json) |
 | Neybers | 79265 | [79265-neybers.json](./79265-neybers.json) |
 | Neyyah | 133474 | [133474-neyyah.json](./133474-neyyah.json) |
 | Nezha Crossing the Sea | 311592 | [311592-nezha-crossing-the-sea.json](./311592-nezha-crossing-the-sea.json) |
