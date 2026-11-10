@@ -4338,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level Down | 309315 | [309315-level-down.json](./309315-level-down.json) |
 | Level Editor 2 | 349808 | [349808-level-editor-2.json](./349808-level-editor-2.json) |
 | Level Maker | 413867 | [413867-level-maker.json](./413867-level-maker.json) |
+| Level P | 416229 | [416229-level-p.json](./416229-level-p.json) |
 | Level Squared | 82890 | [82890-level-squared.json](./82890-level-squared.json) |
 | Level Tank | 207317 | [207317-level-tank.json](./207317-level-tank.json) |
 | Level Up 80 | 311640 | [311640-level-up-80.json](./311640-level-up-80.json) |
@@ -9686,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luce Spenta | 371240 | [371240-luce-spenta.json](./371240-luce-spenta.json) |
 | Luce's Journey: A Victorian Trading Tale | 271210 | [271210-luces-journey-a-victorian-trading-tale.json](./271210-luces-journey-a-victorian-trading-tale.json) |
 | Lucen | 132795 | [132795-lucen.json](./132795-lucen.json) |
+| Lucent | 416214 | [416214-lucent.json](./416214-lucent.json) |
 | Lucent Bounds | 172995 | [172995-lucent-bounds.json](./172995-lucent-bounds.json) |
 | Lucent Heart | 36437 | [36437-lucent-heart.json](./36437-lucent-heart.json) |
 | Lucent VR | 400936 | [400936-lucent-vr.json](./400936-lucent-vr.json) |
