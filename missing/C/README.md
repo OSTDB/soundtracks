@@ -18818,6 +18818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crocro Adventure | 96341 | [96341-crocro-adventure.json](./96341-crocro-adventure.json) |
 | Crocs on Parade | 359734 | [359734-crocs-on-parade.json](./359734-crocs-on-parade.json) |
 | Crocs World Construction Kit 2 | 253986 | [253986-crocs-world-construction-kit-2.json](./253986-crocs-world-construction-kit-2.json) |
+| Crocus Field | 398713 | [398713-crocus-field.json](./398713-crocus-field.json) |
 | Croissant | 312802 | [312802-croissant.json](./312802-croissant.json) |
 | Croissant Simulator | 416589 | [416589-croissant-simulator.json](./416589-croissant-simulator.json) |
 | Croissants | 135012 | [135012-croissants.json](./135012-croissants.json) |
@@ -20861,6 +20862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cure Hunters | 116636 | [116636-cure-hunters.json](./116636-cure-hunters.json) |
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
 | Cure Obsession | 168525 | [168525-cure-obsession.json](./168525-cure-obsession.json) |
+| Cure The Bunny | 398727 | [398727-cure-the-bunny.json](./398727-cure-the-bunny.json) |
 | Cure: A Hospital Simulator | 376110 | [376110-cure-a-hospital-simulator.json](./376110-cure-a-hospital-simulator.json) |
 | Cureocity | 275979 | [275979-cureocity.json](./275979-cureocity.json) |
 | Cures & Curios | 121841 | [121841-cures-and-curios.json](./121841-cures-and-curios.json) |
@@ -22246,6 +22248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyVeRpunk | 212137 | [212137-cyverpunk.json](./212137-cyverpunk.json) |
 | Cywall | 399878 | [399878-cywall.json](./399878-cywall.json) |
 | Cyyer | 298698 | [298698-cyyer.json](./298698-cyyer.json) |
+| Czar Ry | 398705 | [398705-czar-ry.json](./398705-czar-ry.json) |
 | Czar: Decision | 129467 | [129467-czar-decision.json](./129467-czar-decision.json) |
 | Czarny Orzel | 130680 | [130680-czarny-orzel.json](./130680-czarny-orzel.json) |
 | Czech Soccer Manager 2020 | 145425 | [145425-czech-soccer-manager-2020.json](./145425-czech-soccer-manager-2020.json) |
