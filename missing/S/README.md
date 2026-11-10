@@ -8930,6 +8930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Maiden | 142691 | [142691-shining-maiden.json](./142691-shining-maiden.json) |
 | Shining Nikki | 145944 | [145944-shining-nikki.json](./145944-shining-nikki.json) |
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
+| Shining Plume | 31110 | [31110-shining-plume.json](./31110-shining-plume.json) |
 | Shining Plume 2 | 29385 | [29385-shining-plume-2.json](./29385-shining-plume-2.json) |
 | Shining Resonance | 44561 | [44561-shining-resonance.json](./44561-shining-resonance.json) |
 | Shining Resonance Refrain | 75865 | [75865-shining-resonance-refrain.json](./75865-shining-resonance-refrain.json) |
@@ -10268,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shǔshān: Chū Zhāng Wǎngluò Bǎn | 368546 | [368546-shushan-chu-zhang-wangluo-ban.json](./368546-shushan-chu-zhang-wangluo-ban.json) |
 | Shǔshān: Chū Zhāng Zhèngshì Bǎn | 368575 | [368575-shushan-chu-zhang-zhengshi-ban.json](./368575-shushan-chu-zhang-zhengshi-ban.json) |
 | Shusse Ozumo | 60653 | [60653-shusse-ozumo.json](./60653-shusse-ozumo.json) |
+| Shut Eye | 31074 | [31074-shut-eye.json](./31074-shut-eye.json) |
 | Shut In | 139469 | [139469-shut-in.json](./139469-shut-in.json) |
 | Shut the Box | 85372 | [85372-shut-the-box.json](./85372-shut-the-box.json) |
 | Shut the Box Classic for iPad | 108713 | [108713-shut-the-box-classic-for-ipad.json](./108713-shut-the-box-classic-for-ipad.json) |
@@ -21220,6 +21222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Troubles | 202031 | [202031-space-troubles.json](./202031-space-troubles.json) |
 | Space Truck Simulator | 336396 | [336396-space-truck-simulator.json](./336396-space-truck-simulator.json) |
 | Space Trucker | 212234 | [212234-space-trucker.json](./212234-space-trucker.json) |
+| Space Trucker | 31073 | [31073-space-trucker.json](./31073-space-trucker.json) |
 | Space Trump | 242168 | [242168-space-trump.json](./242168-space-trump.json) |
 | Space Tunnel | 55823 | [55823-space-tunnel.json](./55823-space-tunnel.json) |
 | Space Turbo | 201008 | [201008-space-turbo.json](./201008-space-turbo.json) |
@@ -21495,6 +21498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship For Newbies | 152745 | [152745-spaceship-for-newbies.json](./152745-spaceship-for-newbies.json) |
 | Spaceship Hunters | 184512 | [184512-spaceship-hunters.json](./184512-spaceship-hunters.json) |
 | Spaceship Idle: Design, Build, Explore & Battle | 346879 | [346879-spaceship-idle-design-build-explore-and-battle.json](./346879-spaceship-idle-design-build-explore-and-battle.json) |
+| Spaceship Looter | 29333 | [29333-spaceship-looter.json](./29333-spaceship-looter.json) |
 | Spaceship Man 2 | 351258 | [351258-spaceship-man-2.json](./351258-spaceship-man-2.json) |
 | Spaceship Racer: Portal | 243041 | [243041-spaceship-racer-portal.json](./243041-spaceship-racer-portal.json) |
 | Spaceship Racer: Portal | 244744 | [244744-spaceship-racer-portal.json](./244744-spaceship-racer-portal.json) |
@@ -26275,6 +26279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter | 55881 | [55881-starfighter.json](./55881-starfighter.json) |
 | Starfighter 3000 | 4261 | [4261-starfighter-3000.json](./4261-starfighter-3000.json) |
 | Starfighter 77 | 138810 | [138810-starfighter-77.json](./138810-starfighter-77.json) |
+| Starfighter Arduxim | 31050 | [31050-starfighter-arduxim.json](./31050-starfighter-arduxim.json) |
 | Starfighter Galaxy Defender VR | 175209 | [175209-starfighter-galaxy-defender-vr.json](./175209-starfighter-galaxy-defender-vr.json) |
 | Starfighter Inc. | 56301 | [56301-starfighter-inc.json](./56301-starfighter-inc.json) |
 | Starfighter Neon | 76442 | [76442-starfighter-neon.json](./76442-starfighter-neon.json) |
@@ -32832,6 +32837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Invaders | 330909 | [330909-super-invaders.json](./330909-super-invaders.json) |
 | Super Is Hot | 142374 | [142374-super-is-hot.json](./142374-super-is-hot.json) |
 | Super Isikoro Mario World | 260814 | [260814-super-isikoro-mario-world.json](./260814-super-isikoro-mario-world.json) |
+| Super Island God VR | 31034 | [31034-super-island-god-vr.json](./31034-super-island-god-vr.json) |
 | Super Jack | 265965 | [265965-super-jack.json](./265965-super-jack.json) |
 | Super Jack The Ripper | 336895 | [336895-super-jack-the-ripper.json](./336895-super-jack-the-ripper.json) |
 | Super Jacked Up Tomato Face Johnson | 222851 | [222851-super-jacked-up-tomato-face-johnson.json](./222851-super-jacked-up-tomato-face-johnson.json) |
@@ -33090,6 +33096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Locomotive | 215748 | [215748-super-locomotive.json](./215748-super-locomotive.json) |
 | Super Lode Runner | 41320 | [41320-super-lode-runner.json](./41320-super-lode-runner.json) |
 | Super Lode Runner II | 48676 | [48676-super-lode-runner-ii.json](./48676-super-lode-runner-ii.json) |
+| Super LOH | 31069 | [31069-super-loh.json](./31069-super-loh.json) |
 | Super Lone Survivor | 140603 | [140603-super-lone-survivor.json](./140603-super-lone-survivor.json) |
 | Super Long Boy | 251022 | [251022-super-long-boy.json](./251022-super-long-boy.json) |
 | Super Long Cat | 368768 | [368768-super-long-cat.json](./368768-super-long-cat.json) |
