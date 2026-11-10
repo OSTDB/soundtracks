@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenless Zone Zero: Update 2.8 - New Eridan Sunset | 400497 | [400497-zenless-zone-zero-update-2-8-new-eridan-sunset.json](./400497-zenless-zone-zero-update-2-8-new-eridan-sunset.json) |
 | Zenless Zone Zero: Update 3.0 - A Sleepwalker's Confession | 406810 | [406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json](./406810-zenless-zone-zero-update-3-0-a-sleepwalkers-confession.json) |
 | Zenless Zone Zero: Update 3.1 - The Long Goodbye | 411735 | [411735-zenless-zone-zero-update-3-1-the-long-goodbye.json](./411735-zenless-zone-zero-update-3-1-the-long-goodbye.json) |
+| Zenless Zone Zero: Update 3.3 - Journey to the Sky | 422423 | [422423-zenless-zone-zero-update-3-3-journey-to-the-sky.json](./422423-zenless-zone-zero-update-3-3-journey-to-the-sky.json) |
 | Zenmai Zamurai | 124128 | [124128-zenmai-zamurai.json](./124128-zenmai-zamurai.json) |
 | Zeno | 186429 | [186429-zeno.json](./186429-zeno.json) |
 | Zeno | 281232 | [281232-zeno.json](./281232-zeno.json) |
@@ -2040,6 +2041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Sweeper | 99580 | [99580-zombie-sweeper.json](./99580-zombie-sweeper.json) |
 | Zombie Swipeout | 254555 | [254555-zombie-swipeout.json](./254555-zombie-swipeout.json) |
 | Zombie Tactics | 314671 | [314671-zombie-tactics.json](./314671-zombie-tactics.json) |
+| Zombie Tag | 422406 | [422406-zombie-tag.json](./422406-zombie-tag.json) |
 | Zombie Tag Royale | 367833 | [367833-zombie-tag-royale.json](./367833-zombie-tag-royale.json) |
 | Zombie TD | 251354 | [251354-zombie-td.json](./251354-zombie-td.json) |
 | Zombie TD | 277086 | [277086-zombie-td.json](./277086-zombie-td.json) |
@@ -2323,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone Bubble | 104769 | [104769-zone-bubble.json](./104769-zone-bubble.json) |
 | Zone Family Fit | 246232 | [246232-zone-family-fit.json](./246232-zone-family-fit.json) |
 | Zone Fusion | 246231 | [246231-zone-fusion.json](./246231-zone-fusion.json) |
+| Zone Idle | 422417 | [422417-zone-idle.json](./422417-zone-idle.json) |
 | Zone Interactive | 246224 | [246224-zone-interactive.json](./246224-zone-interactive.json) |
 | Zone Mini | 246226 | [246226-zone-mini.json](./246226-zone-mini.json) |
 | Zone of Action | 138557 | [138557-zone-of-action.json](./138557-zone-of-action.json) |
