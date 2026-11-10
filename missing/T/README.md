@@ -12929,6 +12929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Survivors Harem | 379007 | [379007-the-last-survivors-harem.json](./379007-the-last-survivors-harem.json) |
 | The Last Sword | 235808 | [235808-the-last-sword.json](./235808-the-last-sword.json) |
 | The Last Tale | 403004 | [403004-the-last-tale.json](./403004-the-last-tale.json) |
+| The Last Tale Told: Spam | 406383 | [406383-the-last-tale-told-spam.json](./406383-the-last-tale-told-spam.json) |
 | The last tank fight | 152948 | [152948-the-last-tank-fight.json](./152948-the-last-tank-fight.json) |
 | The Last Tape | 334841 | [334841-the-last-tape.json](./334841-the-last-tape.json) |
 | The Last Tape: Before the Mine | 372973 | [372973-the-last-tape-before-the-mine.json](./372973-the-last-tape-before-the-mine.json) |
@@ -19273,6 +19274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unicated | 327388 | [327388-the-unicated.json](./327388-the-unicated.json) |
 | The Unicorn Princess | 124157 | [124157-the-unicorn-princess.json](./124157-the-unicorn-princess.json) |
 | The Unintended Consequences of Curiosity | 90161 | [90161-the-unintended-consequences-of-curiosity.json](./90161-the-unintended-consequences-of-curiosity.json) |
+| The Uninvited | 406413 | [406413-the-uninvited.json](./406413-the-uninvited.json) |
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
 | The United Space of America | 201594 | [201594-the-united-space-of-america.json](./201594-the-united-space-of-america.json) |
 | The Universal Equalizer | 71242 | [71242-the-universal-equalizer.json](./71242-the-universal-equalizer.json) |
