@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.U.D. Rally | 233244 | [233244-m-u-d-rally.json](./233244-m-u-d-rally.json) |
 | M.U.D. TV | 9199 | [9199-m-u-d-tv.json](./9199-m-u-d-tv.json) |
 | M.U.D.S.: Mean Ugly Dirty Sport | 70199 | [70199-m-u-d-s-mean-ugly-dirty-sport.json](./70199-m-u-d-s-mean-ugly-dirty-sport.json) |
+| M.U.G.E.N | 22850 | [22850-m-u-g-e-n.json](./22850-m-u-g-e-n.json) |
 | M.U.L.E. | 23895 | [23895-m-u-l-e.json](./23895-m-u-l-e.json) |
 | M.U.S.E. | 61136 | [61136-m-u-s-e.json](./61136-m-u-s-e.json) |
 | M.U.S.H.A. | 4445 | [4445-m-u-s-h-a.json](./4445-m-u-s-h-a.json) |
@@ -661,6 +662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made in Physics | 184487 | [184487-made-in-physics.json](./184487-made-in-physics.json) |
 | Made in Tower | 311534 | [311534-made-in-tower.json](./311534-made-in-tower.json) |
 | Made in Wired | 271697 | [271697-made-in-wired.json](./271697-made-in-wired.json) |
+| Made Man | 24282 | [24282-made-man.json](./24282-made-man.json) |
 | Made Marion | 148518 | [148518-made-marion.json](./148518-made-marion.json) |
 | Made of DIrt | 185691 | [185691-made-of-dirt.json](./185691-made-of-dirt.json) |
 | Made to be Crushed | 152625 | [152625-made-to-be-crushed.json](./152625-made-to-be-crushed.json) |
@@ -17060,6 +17062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters vs. Aliens: The Mobile Game | 316477 | [316477-monsters-vs-aliens-the-mobile-game.json](./316477-monsters-vs-aliens-the-mobile-game.json) |
 | Monsters with Attitude | 123250 | [123250-monsters-with-attitude.json](./123250-monsters-with-attitude.json) |
 | Monsters, Briefcase and Road | 159831 | [159831-monsters-briefcase-and-road.json](./159831-monsters-briefcase-and-road.json) |
+| Monsters, Inc. | 23463 | [23463-monsters-inc.json](./23463-monsters-inc.json) |
 | Monsters, Inc. | 81849 | [81849-monsters-inc.json](./81849-monsters-inc.json) |
 | Monsters, Inc. | 86185 | [86185-monsters-inc.json](./86185-monsters-inc.json) |
 | Monsters, Inc. Scare Station | 350217 | [350217-monsters-inc-scare-station.json](./350217-monsters-inc-scare-station.json) |
