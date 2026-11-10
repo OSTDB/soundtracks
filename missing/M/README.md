@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacGolf Classic | 294654 | [294654-macgolf-classic.json](./294654-macgolf-classic.json) |
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
 | Mach Breakers | 39707 | [39707-mach-breakers.json](./39707-mach-breakers.json) |
+| Mach Brutale | 405213 | [405213-mach-brutale.json](./405213-mach-brutale.json) |
 | Mach Go Go Go | 228608 | [228608-mach-go-go-go.json](./228608-mach-go-go-go.json) |
 | Mach K9 | 300348 | [300348-mach-k9.json](./300348-mach-k9.json) |
 | Mach Rider | 4616 | [4616-mach-rider.json](./4616-mach-rider.json) |
@@ -3783,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marco Polo | 45916 | [45916-marco-polo.json](./45916-marco-polo.json) |
 | Marco Polo | 84022 | [84022-marco-polo.json](./84022-marco-polo.json) |
 | Marco Polo Bridge Incident | 213398 | [213398-marco-polo-bridge-incident.json](./213398-marco-polo-bridge-incident.json) |
+| Marco Polo: Pool Party | 405234 | [405234-marco-polo-pool-party.json](./405234-marco-polo-pool-party.json) |
 | Marcus Comes Out Online | 330150 | [330150-marcus-comes-out-online.json](./330150-marcus-comes-out-online.json) |
 | Marcus Level | 34063 | [34063-marcus-level.json](./34063-marcus-level.json) |
 | Marcy | 180887 | [180887-marcy.json](./180887-marcy.json) |
@@ -5005,10 +5007,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Super-Heroes | 290325 | [290325-marvel-super-heroes.json](./290325-marvel-super-heroes.json) |
 | Marvel Tokon: Fighting Souls - Animated Chromatic Color Unlock | 414684 | [414684-marvel-tokon-fighting-souls-animated-chromatic-color-unlock.json](./414684-marvel-tokon-fighting-souls-animated-chromatic-color-unlock.json) |
 | Marvel Tokon: Fighting Souls - Captain America Classic Costume | 414772 | [414772-marvel-tokon-fighting-souls-captain-america-classic-costume.json](./414772-marvel-tokon-fighting-souls-captain-america-classic-costume.json) |
+| Marvel Tokon: Fighting Souls - Digital Deluxe Edition | 405236 | [405236-marvel-tokon-fighting-souls-digital-deluxe-edition.json](./405236-marvel-tokon-fighting-souls-digital-deluxe-edition.json) |
 | Marvel Tokon: Fighting Souls - Doctor Doom Supreme Ruler Costume | 414776 | [414776-marvel-tokon-fighting-souls-doctor-doom-supreme-ruler-costume.json](./414776-marvel-tokon-fighting-souls-doctor-doom-supreme-ruler-costume.json) |
 | Marvel Tokon: Fighting Souls - Howard the Duck Lobby Avatar and Cosmo Lobby Pet | 414774 | [414774-marvel-tokon-fighting-souls-howard-the-duck-lobby-avatar-and-cosmo-lobby-pet.json](./414774-marvel-tokon-fighting-souls-howard-the-duck-lobby-avatar-and-cosmo-lobby-pet.json) |
 | Marvel Tokon: Fighting Souls - Iron Man Classic Costume | 414687 | [414687-marvel-tokon-fighting-souls-iron-man-classic-costume.json](./414687-marvel-tokon-fighting-souls-iron-man-classic-costume.json) |
 | Marvel Tokon: Fighting Souls - Storm Punk Rock Costume | 414773 | [414773-marvel-tokon-fighting-souls-storm-punk-rock-costume.json](./414773-marvel-tokon-fighting-souls-storm-punk-rock-costume.json) |
+| Marvel Tokon: Fighting Souls - Ultimate Edition | 405239 | [405239-marvel-tokon-fighting-souls-ultimate-edition.json](./405239-marvel-tokon-fighting-souls-ultimate-edition.json) |
 | Marvel Tokon: Fighting Souls - Year 1 Character and Stage Pass | 411741 | [411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json](./411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json) |
 | Marvel Tokon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops | 411743 | [411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json](./411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json) |
 | Marvel Trading Card Game | 21955 | [21955-marvel-trading-card-game.json](./21955-marvel-trading-card-game.json) |
@@ -10166,6 +10170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetaGods | 191501 | [191501-metagods.json](./191501-metagods.json) |
 | Metahorror Therapy Session | 338930 | [338930-metahorror-therapy-session.json](./338930-metahorror-therapy-session.json) |
 | MetaHuman Inc. | 15735 | [15735-metahuman-inc.json](./15735-metahuman-inc.json) |
+| Metahustle One | 405794 | [405794-metahustle-one.json](./405794-metahustle-one.json) |
 | Metajo: Furitsu Metatopology Daigaku Fuzoku Joshi Koukou SP | 146656 | [146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json](./146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json) |
 | Metal | 95217 | [95217-metal.json](./95217-metal.json) |
 | Metal & Lace: The Battle of the Robo Babes | 50271 | [50271-metal-and-lace-the-battle-of-the-robo-babes.json](./50271-metal-and-lace-the-battle-of-the-robo-babes.json) |
