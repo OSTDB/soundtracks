@@ -17092,6 +17092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trucks Mayhem | 50718 | [50718-monster-trucks-mayhem.json](./50718-monster-trucks-mayhem.json) |
 | Monster Trucks Nitro | 14912 | [14912-monster-trucks-nitro.json](./14912-monster-trucks-nitro.json) |
 | Monster Trucks Nitro II | 61762 | [61762-monster-trucks-nitro-ii.json](./61762-monster-trucks-nitro-ii.json) |
+| Monster Trucks Unleashed | 416867 | [416867-monster-trucks-unleashed.json](./416867-monster-trucks-unleashed.json) |
 | Monster Trux Arenas: Special Edition | 268375 | [268375-monster-trux-arenas-special-edition.json](./268375-monster-trux-arenas-special-edition.json) |
 | Monster Trux Extreme: Arena Edition | 43369 | [43369-monster-trux-extreme-arena-edition.json](./43369-monster-trux-extreme-arena-edition.json) |
 | Monster Trux Extreme: Offroad Edition | 5020 | [5020-monster-trux-extreme-offroad-edition.json](./5020-monster-trux-extreme-offroad-edition.json) |
