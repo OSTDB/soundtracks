@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Offroad Moto Bike | 232464 | [232464-offroad-moto-bike.json](./232464-offroad-moto-bike.json) |
 | Offroad Night Racing | 193301 | [193301-offroad-night-racing.json](./193301-offroad-night-racing.json) |
 | Offroad Oil Tanker Hill Drivin | 108488 | [108488-offroad-oil-tanker-hill-drivin.json](./108488-offroad-oil-tanker-hill-drivin.json) |
+| Offroad Outlaws | 87365 | [87365-offroad-outlaws.json](./87365-offroad-outlaws.json) |
 | Offroad Pickup Truck Simulator | 102556 | [102556-offroad-pickup-truck-simulator.json](./102556-offroad-pickup-truck-simulator.json) |
 | Offroad Quest Simulator | 315906 | [315906-offroad-quest-simulator.json](./315906-offroad-quest-simulator.json) |
 | Offroad Racing | 125843 | [125843-offroad-racing.json](./125843-offroad-racing.json) |
@@ -1834,6 +1835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omen | 259144 | [259144-omen.json](./259144-omen.json) |
 | Omen | 359714 | [359714-omen.json](./359714-omen.json) |
 | Omen Exitio: Hunger | 236941 | [236941-omen-exitio-hunger.json](./236941-omen-exitio-hunger.json) |
+| Omen Exitio: Plague | 87931 | [87931-omen-exitio-plague.json](./87931-omen-exitio-plague.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | Omen of Rain | 180377 | [180377-omen-of-rain.json](./180377-omen-of-rain.json) |
 | Omen of Sorrow | 27070 | [27070-omen-of-sorrow.json](./27070-omen-of-sorrow.json) |
@@ -5779,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcooked!: The Festive Seasoning | 26255 | [26255-overcooked-the-festive-seasoning.json](./26255-overcooked-the-festive-seasoning.json) |
 | Overcooked!: The Lost Morsel | 25775 | [25775-overcooked-the-lost-morsel.json](./25775-overcooked-the-lost-morsel.json) |
 | Overcraft | 113148 | [113148-overcraft.json](./113148-overcraft.json) |
+| Overcrowd: A Commute 'Em Up | 96859 | [96859-overcrowd-a-commute-em-up.json](./96859-overcrowd-a-commute-em-up.json) |
 | Overcrowded | 185147 | [185147-overcrowded.json](./185147-overcrowded.json) |
 | Overcrowded: Tycoon | 200743 | [200743-overcrowded-tycoon.json](./200743-overcrowded-tycoon.json) |
 | Overcursed | 176494 | [176494-overcursed.json](./176494-overcursed.json) |
