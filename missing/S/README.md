@@ -8828,6 +8828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shines Over | 184589 | [184589-shines-over.json](./184589-shines-over.json) |
 | Shines Over II | 134252 | [134252-shines-over-ii.json](./134252-shines-over-ii.json) |
 | Shines Over: The Damned | 287034 | [287034-shines-over-the-damned.json](./287034-shines-over-the-damned.json) |
+| Shiness: The Lightning Kingdom | 15490 | [15490-shiness-the-lightning-kingdom.json](./15490-shiness-the-lightning-kingdom.json) |
 | Shing! | 120045 | [120045-shing.json](./120045-shing.json) |
 | Shing!: Limited Edition | 222951 | [222951-shing-limited-edition.json](./222951-shing-limited-edition.json) |
 | Shingakkou Banchou | 330276 | [330276-shingakkou-banchou.json](./330276-shingakkou-banchou.json) |
@@ -18104,6 +18105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Boom Cannon 2 | 297604 | [297604-sonic-boom-cannon-2.json](./297604-sonic-boom-cannon-2.json) |
 | Sonic Boom Racing | 330592 | [330592-sonic-boom-racing.json](./330592-sonic-boom-racing.json) |
 | Sonic Boom: A Dating Sonamy Sim?! | 299334 | [299334-sonic-boom-a-dating-sonamy-sim.json](./299334-sonic-boom-a-dating-sonamy-sim.json) |
+| Sonic Boom: Fire & Ice | 15556 | [15556-sonic-boom-fire-and-ice.json](./15556-sonic-boom-fire-and-ice.json) |
 | Sonic Boom: Link 'n Smash | 269901 | [269901-sonic-boom-link-n-smash.json](./269901-sonic-boom-link-n-smash.json) |
 | Sonic Boom: Rise of Lyric | 5322 | [5322-sonic-boom-rise-of-lyric.json](./5322-sonic-boom-rise-of-lyric.json) |
 | Sonic Boom: Shattered Crystal | 7855 | [7855-sonic-boom-shattered-crystal.json](./7855-sonic-boom-shattered-crystal.json) |
@@ -19307,6 +19309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Balance | 391610 | [391610-soul-balance.json](./391610-soul-balance.json) |
 | Soul Battles | 299993 | [299993-soul-battles.json](./299993-soul-battles.json) |
 | Soul Blade | 274455 | [274455-soul-blade.json](./274455-soul-blade.json) |
+| Soul Blade | 305428 | [305428-soul-blade.json](./305428-soul-blade.json) |
 | Soul Blazer | 11616 | [11616-soul-blazer.json](./11616-soul-blazer.json) |
 | Soul Bound Saga | 235791 | [235791-soul-bound-saga.json](./235791-soul-bound-saga.json) |
 | Soul Brave | 338321 | [338321-soul-brave.json](./338321-soul-brave.json) |
@@ -20833,6 +20836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Quest I: Roger Wilco in the Sarien Encounter | 77194 | [77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json](./77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json) |
 | Space Quest II: Roger Wilco in Vohaul's Revenge | 84150 | [84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json](./84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json) |
 | Space Quest III: The Pirates Of Pestulon | 30 | [30-space-quest-iii-the-pirates-of-pestulon.json](./30-space-quest-iii-the-pirates-of-pestulon.json) |
+| Space Quest V: The Next Mutation | 32 | [32-space-quest-v-the-next-mutation.json](./32-space-quest-v-the-next-mutation.json) |
 | Space Quest: 2099 | 179814 | [179814-space-quest-2099.json](./179814-space-quest-2099.json) |
 | Space Quest: Collector's Edition | 213260 | [213260-space-quest-collectors-edition.json](./213260-space-quest-collectors-edition.json) |
 | Space Quest: Incinerations | 265067 | [265067-space-quest-incinerations.json](./265067-space-quest-incinerations.json) |
@@ -21578,6 +21582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SparkMutts | 211214 | [211214-sparkmutts.json](./211214-sparkmutts.json) |
 | Sparkour | 34852 | [34852-sparkour.json](./34852-sparkour.json) |
 | Sparks: Episode One | 170803 | [170803-sparks-episode-one.json](./170803-sparks-episode-one.json) |
+| Sparkster | 1263 | [1263-sparkster.json](./1263-sparkster.json) |
 | Sparkster PC | 265220 | [265220-sparkster-pc.json](./265220-sparkster-pc.json) |
 | Sparkster: Rocket Knight Adventures 2 | 1264 | [1264-sparkster-rocket-knight-adventures-2.json](./1264-sparkster-rocket-knight-adventures-2.json) |
 | Sparkwave | 174487 | [174487-sparkwave.json](./174487-sparkwave.json) |
@@ -25692,6 +25697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Battle Pod | 75086 | [75086-star-wars-battle-pod.json](./75086-star-wars-battle-pod.json) |
 | Star Wars: Battlefront - Deluxe Edition | 129535 | [129535-star-wars-battlefront-deluxe-edition.json](./129535-star-wars-battlefront-deluxe-edition.json) |
 | Star Wars: Battlefront - Elite Squadron | 192925 | [192925-star-wars-battlefront-elite-squadron.json](./192925-star-wars-battlefront-elite-squadron.json) |
+| Star Wars: Battlefront - Elite Squadron | 476 | [476-star-wars-battlefront-elite-squadron.json](./476-star-wars-battlefront-elite-squadron.json) |
 | Star Wars: Battlefront - Renegade Squadron | 23063 | [23063-star-wars-battlefront-renegade-squadron.json](./23063-star-wars-battlefront-renegade-squadron.json) |
 | Star Wars: Beyond Victory | 372103 | [372103-star-wars-beyond-victory.json](./372103-star-wars-beyond-victory.json) |
 | Star Wars: Blaster Strike | 389227 | [389227-star-wars-blaster-strike.json](./389227-star-wars-blaster-strike.json) |
@@ -25748,6 +25754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Force Commander | 159 | [159-star-wars-force-commander.json](./159-star-wars-force-commander.json) |
 | Star Wars: Galactic Battle | 198918 | [198918-star-wars-galactic-battle.json](./198918-star-wars-galactic-battle.json) |
 | Star Wars: Galactic Battlegrounds | 139 | [139-star-wars-galactic-battlegrounds.json](./139-star-wars-galactic-battlegrounds.json) |
+| Star Wars: Galactic Battlegrounds - Clone Campaigns | 140 | [140-star-wars-galactic-battlegrounds-clone-campaigns.json](./140-star-wars-galactic-battlegrounds-clone-campaigns.json) |
 | Star Wars: Galactic Battlegrounds Saga | 35596 | [35596-star-wars-galactic-battlegrounds-saga.json](./35596-star-wars-galactic-battlegrounds-saga.json) |
 | Star Wars: Galactic Defense | 75565 | [75565-star-wars-galactic-defense.json](./75565-star-wars-galactic-defense.json) |
 | Star Wars: Galaxies - Starter Kit | 77212 | [77212-star-wars-galaxies-starter-kit.json](./77212-star-wars-galaxies-starter-kit.json) |
@@ -29277,6 +29284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha 3 MAX | 42876 | [42876-street-fighter-alpha-3-max.json](./42876-street-fighter-alpha-3-max.json) |
 | Street Fighter Alpha 3 Upper | 219058 | [219058-street-fighter-alpha-3-upper.json](./219058-street-fighter-alpha-3-upper.json) |
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
+| Street Fighter Alpha Anthology | 14536 | [14536-street-fighter-alpha-anthology.json](./14536-street-fighter-alpha-anthology.json) |
 | Street Fighter Alpha: Warriors' Dreams | 229865 | [229865-street-fighter-alpha-warriors-dreams.json](./229865-street-fighter-alpha-warriors-dreams.json) |
 | Street Fighter Alpha: Warriors' Dreams | 243819 | [243819-street-fighter-alpha-warriors-dreams.json](./243819-street-fighter-alpha-warriors-dreams.json) |
 | Street Fighter Alpha: Warriors' Dreams | 6702 | [6702-street-fighter-alpha-warriors-dreams.json](./6702-street-fighter-alpha-warriors-dreams.json) |
@@ -29288,6 +29296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter EX Plus | 44276 | [44276-street-fighter-ex-plus.json](./44276-street-fighter-ex-plus.json) |
 | Street Fighter EX plus Alpha | 38297 | [38297-street-fighter-ex-plus-alpha.json](./38297-street-fighter-ex-plus-alpha.json) |
 | Street Fighter EX2 Plus | 44965 | [44965-street-fighter-ex2-plus.json](./44965-street-fighter-ex2-plus.json) |
+| Street Fighter EX3 | 55037 | [55037-street-fighter-ex3.json](./55037-street-fighter-ex3.json) |
 | Street Fighter II | 198927 | [198927-street-fighter-ii.json](./198927-street-fighter-ii.json) |
 | Street Fighter II | 198928 | [198928-street-fighter-ii.json](./198928-street-fighter-ii.json) |
 | Street Fighter II | 231006 | [231006-street-fighter-ii.json](./231006-street-fighter-ii.json) |
@@ -32026,6 +32035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bunny | 25670 | [25670-super-bunny.json](./25670-super-bunny.json) |
 | Super Bunny Breakout | 64539 | [64539-super-bunny-breakout.json](./64539-super-bunny-breakout.json) |
 | Super Bunny Laser Spikes | 124513 | [124513-super-bunny-laser-spikes.json](./124513-super-bunny-laser-spikes.json) |
+| Super Bunny Man | 55472 | [55472-super-bunny-man.json](./55472-super-bunny-man.json) |
 | Super Bunny Woman | 403663 | [403663-super-bunny-woman.json](./403663-super-bunny-woman.json) |
 | Super Burger Master | 235159 | [235159-super-burger-master.json](./235159-super-burger-master.json) |
 | Super BurgerTime | 77876 | [77876-super-burgertime.json](./77876-super-burgertime.json) |
