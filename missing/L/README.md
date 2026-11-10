@@ -10273,6 +10273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Explorer | 28715 | [28715-lunar-explorer.json](./28715-lunar-explorer.json) |
 | Lunar Explorer: A Space Flight Simulator | 70293 | [70293-lunar-explorer-a-space-flight-simulator.json](./70293-lunar-explorer-a-space-flight-simulator.json) |
 | Lunar Flight | 10524 | [10524-lunar-flight.json](./10524-lunar-flight.json) |
+| Lunar Genesis: Dragon Song | 85266 | [85266-lunar-genesis-dragon-song.json](./85266-lunar-genesis-dragon-song.json) |
 | Lunar Glow Stellar Dance | 278331 | [278331-lunar-glow-stellar-dance.json](./278331-lunar-glow-stellar-dance.json) |
 | Lunar Greenhouse | 311003 | [311003-lunar-greenhouse.json](./311003-lunar-greenhouse.json) |
 | Lunar Impact | 340506 | [340506-lunar-impact.json](./340506-lunar-impact.json) |
