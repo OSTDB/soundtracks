@@ -12007,6 +12007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aooni2 | 410832 | [410832-aooni2.json](./410832-aooni2.json) |
 | Aopii | 179018 | [179018-aopii.json](./179018-aopii.json) |
 | AOS Manager | 120367 | [120367-aos-manager.json](./120367-aos-manager.json) |
+| Aotai Traverse: Survival Simulator | 427851 | [427851-aotai-traverse-survival-simulator.json](./427851-aotai-traverse-survival-simulator.json) |
 | Aotenjo: Infinite Hands | 309815 | [309815-aotenjo-infinite-hands.json](./309815-aotenjo-infinite-hands.json) |
 | Aotu World | 241502 | [241502-aotu-world.json](./241502-aotu-world.json) |
 | Aozora Meikyuu | 33908 | [33908-aozora-meikyuu.json](./33908-aozora-meikyuu.json) |
@@ -12037,6 +12038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment 22 | 355540 | [355540-apartment-22.json](./355540-apartment-22.json) |
 | Apartment 327 | 109396 | [109396-apartment-327.json](./109396-apartment-327.json) |
 | Apartment 3301 | 109295 | [109295-apartment-3301.json](./109295-apartment-3301.json) |
+| Apartment 3502 | 427841 | [427841-apartment-3502.json](./427841-apartment-3502.json) |
 | Apartment 606 | 317710 | [317710-apartment-606.json](./317710-apartment-606.json) |
 | Apartment 666 | 35083 | [35083-apartment-666.json](./35083-apartment-666.json) |
 | Apartment Complex | 362869 | [362869-apartment-complex.json](./362869-apartment-complex.json) |
@@ -15095,6 +15097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrive In Time | 370958 | [370958-arrive-in-time.json](./370958-arrive-in-time.json) |
 | Arriving Home | 134925 | [134925-arriving-home.json](./134925-arriving-home.json) |
 | Arrog | 127144 | [127144-arrog.json](./127144-arrog.json) |
+| Arrogant | 427854 | [427854-arrogant.json](./427854-arrogant.json) |
 | Arrogation: Unlight of Day | 220743 | [220743-arrogation-unlight-of-day.json](./220743-arrogation-unlight-of-day.json) |
 | Arrogue | 297372 | [297372-arrogue.json](./297372-arrogue.json) |
 | Arrokoth | 260504 | [260504-arrokoth.json](./260504-arrokoth.json) |
@@ -15758,6 +15761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashbakaha | 309211 | [309211-ashbakaha.json](./309211-ashbakaha.json) |
 | AshBall | 373653 | [373653-ashball.json](./373653-ashball.json) |
 | Ashbane | 387139 | [387139-ashbane.json](./387139-ashbane.json) |
+| Ashborn 21.21 | 427830 | [427830-ashborn-21-21.json](./427830-ashborn-21-21.json) |
 | Ashbound Expanse | 374362 | [374362-ashbound-expanse.json](./374362-ashbound-expanse.json) |
 | Ashbourne | 32570 | [32570-ashbourne.json](./32570-ashbourne.json) |
 | AshCreek | 419130 | [419130-ashcreek.json](./419130-ashcreek.json) |
