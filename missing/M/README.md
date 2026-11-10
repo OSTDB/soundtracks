@@ -14320,6 +14320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misdamnation | 408489 | [408489-misdamnation.json](./408489-misdamnation.json) |
 | Misdecayed | 375847 | [375847-misdecayed.json](./375847-misdecayed.json) |
 | Misdie: Into the Game | 351238 | [351238-misdie-into-the-game.json](./351238-misdie-into-the-game.json) |
+| Mise en War | 421766 | [421766-mise-en-war.json](./421766-mise-en-war.json) |
 | Miserere | 124550 | [124550-miserere.json](./124550-miserere.json) |
 | Miseria | 38032 | [38032-miseria.json](./38032-miseria.json) |
 | Miseria | 397630 | [397630-miseria.json](./397630-miseria.json) |
@@ -22099,6 +22100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Pet Hooligan: Ugly Christmas Sweater Pack | 279156 | [279156-my-pet-hooligan-ugly-christmas-sweater-pack.json](./279156-my-pet-hooligan-ugly-christmas-sweater-pack.json) |
 | My Pet Hotel | 17048 | [17048-my-pet-hotel.json](./17048-my-pet-hotel.json) |
 | My Pet Hotel 2 | 17049 | [17049-my-pet-hotel-2.json](./17049-my-pet-hotel-2.json) |
+| My Pet Kitten | 421861 | [421861-my-pet-kitten.json](./421861-my-pet-kitten.json) |
 | My Pet Pony | 148184 | [148184-my-pet-pony.json](./148184-my-pet-pony.json) |
 | My Pet Protector | 387940 | [387940-my-pet-protector.json](./387940-my-pet-protector.json) |
 | My Pet Protector 2 | 413085 | [413085-my-pet-protector-2.json](./413085-my-pet-protector-2.json) |
