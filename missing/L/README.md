@@ -3014,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Catalonia | 118653 | [118653-legends-of-catalonia.json](./118653-legends-of-catalonia.json) |
 | Legends of Catalonia | 118654 | [118654-legends-of-catalonia.json](./118654-legends-of-catalonia.json) |
 | Legends of Celestite: The All Bearer | 238802 | [238802-legends-of-celestite-the-all-bearer.json](./238802-legends-of-celestite-the-all-bearer.json) |
+| Legends of China: Chang'e Flies to the Moon - Collector's Edition | 416471 | [416471-legends-of-china-change-flies-to-the-moon-collectors-edition.json](./416471-legends-of-china-change-flies-to-the-moon-collectors-edition.json) |
 | Legends of Cobalt Lake & District | 323648 | [323648-legends-of-cobalt-lake-and-district.json](./323648-legends-of-cobalt-lake-and-district.json) |
 | Legends of Crystal | 210959 | [210959-legends-of-crystal.json](./210959-legends-of-crystal.json) |
 | Legends of Dawn | 6858 | [6858-legends-of-dawn.json](./6858-legends-of-dawn.json) |
@@ -6959,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LMNO | 79788 | [79788-lmno.json](./79788-lmno.json) |
 | LN of Zombies | 206434 | [206434-ln-of-zombies.json](./206434-ln-of-zombies.json) |
 | Lo and Behold | 371874 | [371874-lo-and-behold.json](./371874-lo-and-behold.json) |
+| Lo Wang's Last Island: Uncut | 416807 | [416807-lo-wangs-last-island-uncut.json](./416807-lo-wangs-last-island-uncut.json) |
 | Lo-fi | 179620 | [179620-lo-fi.json](./179620-lo-fi.json) |
 | Lo-Fi Golf | 360684 | [360684-lo-fi-golf.json](./360684-lo-fi-golf.json) |
 | Lo-Fi Haiku: Coffee and Chill | 287166 | [287166-lo-fi-haiku-coffee-and-chill.json](./287166-lo-fi-haiku-coffee-and-chill.json) |
