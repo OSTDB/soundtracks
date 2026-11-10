@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-17 Gunner: Air War Over Germany | 62016 | [62016-b-17-gunner-air-war-over-germany.json](./62016-b-17-gunner-air-war-over-germany.json) |
 | B-17 Squadron | 171924 | [171924-b-17-squadron.json](./171924-b-17-squadron.json) |
 | B-24 | 44127 | [44127-b-24.json](./44127-b-24.json) |
+| B-25 Game | 114529 | [114529-b-25-game.json](./114529-b-25-game.json) |
 | B-Air Micro | 315357 | [315357-b-air-micro.json](./315357-b-air-micro.json) |
 | B-B0 The Delivery Bot | 249051 | [249051-b-b0-the-delivery-bot.json](./249051-b-b0-the-delivery-bot.json) |
 | B-Bobs | 41205 | [41205-b-bobs.json](./41205-b-bobs.json) |
@@ -1393,6 +1394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance: Umbilical Wake | 410977 | [410977-balance-umbilical-wake.json](./410977-balance-umbilical-wake.json) |
 | Balanced | 320309 | [320309-balanced.json](./320309-balanced.json) |
 | Balanced Food CalorieMate for Game Creators: Jelly Mission | 368767 | [368767-balanced-food-caloriemate-for-game-creators-jelly-mission.json](./368767-balanced-food-caloriemate-for-game-creators-jelly-mission.json) |
+| Balanced Politics Simulator | 114463 | [114463-balanced-politics-simulator.json](./114463-balanced-politics-simulator.json) |
 | Balancefield | 180826 | [180826-balancefield.json](./180826-balancefield.json) |
 | Balances | 346709 | [346709-balances.json](./346709-balances.json) |
 | Balancing Cats | 330833 | [330833-balancing-cats.json](./330833-balancing-cats.json) |
@@ -10598,6 +10600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Bluff | 391527 | [391527-blind-bluff.json](./391527-blind-bluff.json) |
 | Blind Boris | 84061 | [84061-blind-boris.json](./84061-blind-boris.json) |
 | Blind Box | 379348 | [379348-blind-box.json](./379348-blind-box.json) |
+| Blind Date | 114813 | [114813-blind-date.json](./114813-blind-date.json) |
 | Blind Date 3D | 286396 | [286396-blind-date-3d.json](./286396-blind-date-3d.json) |
 | Blind Date Simulator | 316640 | [316640-blind-date-simulator.json](./316640-blind-date-simulator.json) |
 | Blind Deadly Love | 185537 | [185537-blind-deadly-love.json](./185537-blind-deadly-love.json) |
@@ -13945,6 +13948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border closure | 90018 | [90018-border-closure.json](./90018-border-closure.json) |
 | Border Down | 6717 | [6717-border-down.json](./6717-border-down.json) |
 | Border Dungeon | 304645 | [304645-border-dungeon.json](./304645-border-dungeon.json) |
+| Border Force | 114512 | [114512-border-force.json](./114512-border-force.json) |
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
 | Border Jumper | 320822 | [320822-border-jumper.json](./320822-border-jumper.json) |
 | Border Mountain | 292624 | [292624-border-mountain.json](./292624-border-mountain.json) |
@@ -14674,6 +14678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bow Hunter 2015 | 250937 | [250937-bow-hunter-2015.json](./250937-bow-hunter-2015.json) |
 | Bow Man | 123922 | [123922-bow-man.json](./123922-bow-man.json) |
 | Bow Man | 166812 | [166812-bow-man.json](./166812-bow-man.json) |
+| Bow to Blood: Last Captain Standing | 115021 | [115021-bow-to-blood-last-captain-standing.json](./115021-bow-to-blood-last-captain-standing.json) |
 | Bow-Bots | 208599 | [208599-bow-bots.json](./208599-bow-bots.json) |
 | Bow-wow Battle | 398481 | [398481-bow-wow-battle.json](./398481-bow-wow-battle.json) |
 | Bowave | 264980 | [264980-bowave.json](./264980-bowave.json) |
@@ -15029,6 +15034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy Hero Ken: Haunted House Investigation | 345715 | [345715-boy-hero-ken-haunted-house-investigation.json](./345715-boy-hero-ken-haunted-house-investigation.json) |
 | Boy Next Door | 74120 | [74120-boy-next-door.json](./74120-boy-next-door.json) |
 | Boy Racer | 13431 | [13431-boy-racer.json](./13431-boy-racer.json) |
+| Boy Teen Dream | 114395 | [114395-boy-teen-dream.json](./114395-boy-teen-dream.json) |
 | Boy vs. Genius | 119014 | [119014-boy-vs-genius.json](./119014-boy-vs-genius.json) |
 | Boy with Cat | 207172 | [207172-boy-with-cat.json](./207172-boy-with-cat.json) |
 | Boy x Boy: Shiritsu Kouryou Gakuin Seishinryou | 417548 | [417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json](./417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json) |
