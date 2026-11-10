@@ -1381,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Bounce | 358532 | [358532-nba-bounce.json](./358532-nba-bounce.json) |
 | NBA Clash | 232127 | [232127-nba-clash.json](./232127-nba-clash.json) |
 | NBA Courtside 2 Featuring Kobe Bryant | 3549 | [3549-nba-courtside-2-featuring-kobe-bryant.json](./3549-nba-courtside-2-featuring-kobe-bryant.json) |
+| NBA Courtside 2002 | 4031 | [4031-nba-courtside-2002.json](./4031-nba-courtside-2002.json) |
 | NBA Dynasty | 92443 | [92443-nba-dynasty.json](./92443-nba-dynasty.json) |
 | NBA Elite 11 | 52625 | [52625-nba-elite-11.json](./52625-nba-elite-11.json) |
 | NBA Fastbreak '98 | 43780 | [43780-nba-fastbreak-98.json](./43780-nba-fastbreak-98.json) |
