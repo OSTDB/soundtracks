@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quing's Quest VII: The Death of Videogames | 128593 | [128593-quings-quest-vii-the-death-of-videogames.json](./128593-quings-quest-vii-the-death-of-videogames.json) |
 | Quinidiom | 226988 | [226988-quinidiom.json](./226988-quinidiom.json) |
 | Quink | 15353 | [15353-quink.json](./15353-quink.json) |
+| Quinn | 414940 | [414940-quinn.json](./414940-quinn.json) |
 | Quinn & Flynn | 272728 | [272728-quinn-and-flynn.json](./272728-quinn-and-flynn.json) |
 | Quinn's Aquarium | 354994 | [354994-quinns-aquarium.json](./354994-quinns-aquarium.json) |
 | Quint's Revenge | 209269 | [209269-quints-revenge.json](./209269-quints-revenge.json) |
