@@ -7926,6 +7926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Planet | 135556 | [135556-pirate-planet.json](./135556-pirate-planet.json) |
 | Pirate Plight | 245911 | [245911-pirate-plight.json](./245911-pirate-plight.json) |
 | Pirate Pop Mega Quiz | 232499 | [232499-pirate-pop-mega-quiz.json](./232499-pirate-pop-mega-quiz.json) |
+| Pirate Pop Plus | 25086 | [25086-pirate-pop-plus.json](./25086-pirate-pop-plus.json) |
 | Pirate Pop Quest | 293050 | [293050-pirate-pop-quest.json](./293050-pirate-pop-quest.json) |
 | Pirate Popper VR | 153486 | [153486-pirate-popper-vr.json](./153486-pirate-popper-vr.json) |
 | Pirate Poppers | 209955 | [209955-pirate-poppers.json](./209955-pirate-poppers.json) |
@@ -13014,6 +13015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Nation Snooker Bundle | 112733 | [112733-pool-nation-snooker-bundle.json](./112733-pool-nation-snooker-bundle.json) |
 | Pool of Death | 32795 | [32795-pool-of-death.json](./32795-pool-of-death.json) |
 | Pool of Madness | 295749 | [295749-pool-of-madness.json](./295749-pool-of-madness.json) |
+| Pool of Radiance: Ruins of Myth Drannor | 5630 | [5630-pool-of-radiance-ruins-of-myth-drannor.json](./5630-pool-of-radiance-ruins-of-myth-drannor.json) |
 | Pool Paradise | 4073 | [4073-pool-paradise.json](./4073-pool-paradise.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
 | Pool Party | 185196 | [185196-pool-party.json](./185196-pool-party.json) |
@@ -13996,6 +13998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Dolls FX | 79614 | [79614-power-dolls-fx.json](./79614-power-dolls-fx.json) |
 | Power Dolls: Detachment of Limited Line Service | 50326 | [50326-power-dolls-detachment-of-limited-line-service.json](./50326-power-dolls-detachment-of-limited-line-service.json) |
 | Power Down | 52203 | [52203-power-down.json](./52203-power-down.json) |
+| Power Drill Massacre | 25682 | [25682-power-drill-massacre.json](./25682-power-drill-massacre.json) |
 | Power Drill Massacre | 320349 | [320349-power-drill-massacre.json](./320349-power-drill-massacre.json) |
 | Power Drive | 12720 | [12720-power-drive.json](./12720-power-drive.json) |
 | Power Drive 2000 | 60239 | [60239-power-drive-2000.json](./60239-power-drive-2000.json) |
@@ -14459,6 +14462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator and Wreck | 151805 | [151805-predator-and-wreck.json](./151805-predator-and-wreck.json) |
 | Predator Simulator | 35303 | [35303-predator-simulator.json](./35303-predator-simulator.json) |
 | Predator VR | 125674 | [125674-predator-vr.json](./125674-predator-vr.json) |
+| Predator: Concrete Jungle | 5986 | [5986-predator-concrete-jungle.json](./5986-predator-concrete-jungle.json) |
 | Predator: Hunting Grounds | 118272 | [118272-predator-hunting-grounds.json](./118272-predator-hunting-grounds.json) |
 | Predator: Hunting Grounds - City Hunter Predator | 168758 | [168758-predator-hunting-grounds-city-hunter-predator.json](./168758-predator-hunting-grounds-city-hunter-predator.json) |
 | Predator: Hunting Grounds - Dante "Beast Mode" Jefferson | 168764 | [168764-predator-hunting-grounds-dante-beast-mode-jefferson.json](./168764-predator-hunting-grounds-dante-beast-mode-jefferson.json) |
