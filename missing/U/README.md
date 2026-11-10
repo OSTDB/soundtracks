@@ -392,7 +392,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima III: Exodus | 2867 | [2867-ultima-iii-exodus.json](./2867-ultima-iii-exodus.json) |
 | Ultima III: Exodus | 417818 | [417818-ultima-iii-exodus.json](./417818-ultima-iii-exodus.json) |
 | Ultima III: Exodus | 417824 | [417824-ultima-iii-exodus.json](./417824-ultima-iii-exodus.json) |
+| Ultima IV | 400033 | [400033-ultima-iv.json](./400033-ultima-iv.json) |
 | Ultima IV: Quest of the Avatar | 2878 | [2878-ultima-iv-quest-of-the-avatar.json](./2878-ultima-iv-quest-of-the-avatar.json) |
+| Ultima IV: Quest of the Avatar | 400030 | [400030-ultima-iv-quest-of-the-avatar.json](./400030-ultima-iv-quest-of-the-avatar.json) |
+| Ultima IV: Quest of the Avatar | 400031 | [400031-ultima-iv-quest-of-the-avatar.json](./400031-ultima-iv-quest-of-the-avatar.json) |
+| Ultima IV: Quest of the Avatar | 400032 | [400032-ultima-iv-quest-of-the-avatar.json](./400032-ultima-iv-quest-of-the-avatar.json) |
 | Ultima IX: Ascension | 7083 | [7083-ultima-ix-ascension.json](./7083-ultima-ix-ascension.json) |
 | Ultima Nex | 365823 | [365823-ultima-nex.json](./365823-ultima-nex.json) |
 | Ultima Online | 3126 | [3126-ultima-online.json](./3126-ultima-online.json) |
