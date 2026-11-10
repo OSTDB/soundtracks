@@ -2616,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Game | 141433 | [141433-elevator-game.json](./141433-elevator-game.json) |
 | Elevator Goes Up? | 376701 | [376701-elevator-goes-up.json](./376701-elevator-goes-up.json) |
 | Elevator Madness | 248960 | [248960-elevator-madness.json](./248960-elevator-madness.json) |
+| Elevator Mayhem | 398704 | [398704-elevator-mayhem.json](./398704-elevator-mayhem.json) |
 | Elevator Music | 329588 | [329588-elevator-music.json](./329588-elevator-music.json) |
 | Elevator Orator | 178971 | [178971-elevator-orator.json](./178971-elevator-orator.json) |
 | Elevator Panic | 78843 | [78843-elevator-panic.json](./78843-elevator-panic.json) |
@@ -2731,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elifoot | 91631 | [91631-elifoot.json](./91631-elifoot.json) |
 | Elifoot 18 | 104499 | [104499-elifoot-18.json](./104499-elifoot-18.json) |
 | Elifoot 2 | 91632 | [91632-elifoot-2.json](./91632-elifoot-2.json) |
+| Elifoot 2002 | 398928 | [398928-elifoot-2002.json](./398928-elifoot-2002.json) |
 | Elifoot 98 | 398966 | [398966-elifoot-98.json](./398966-elifoot-98.json) |
 | Elijah and the Out of this World Adventure | 171679 | [171679-elijah-and-the-out-of-this-world-adventure.json](./171679-elijah-and-the-out-of-this-world-adventure.json) |
 | Eliminate Drips | 172275 | [172275-eliminate-drips.json](./172275-eliminate-drips.json) |
@@ -6317,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estiman | 30396 | [30396-estiman.json](./30396-estiman.json) |
 | Estium Online | 417541 | [417541-estium-online.json](./417541-estium-online.json) |
 | Estra | 13711 | [13711-estra.json](./13711-estra.json) |
+| Estrada Real: Caminho das Almas | 398931 | [398931-estrada-real-caminho-das-almas.json](./398931-estrada-real-caminho-das-almas.json) |
 | EstradaBus HD | 148951 | [148951-estradabus-hd.json](./148951-estradabus-hd.json) |
 | Estranged | 131418 | [131418-estranged.json](./131418-estranged.json) |
 | Estranged | 313832 | [313832-estranged.json](./313832-estranged.json) |
@@ -6437,6 +6440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Guardian Rubine: The First Fight | 336552 | [336552-eternal-guardian-rubine-the-first-fight.json](./336552-eternal-guardian-rubine-the-first-fight.json) |
 | Eternal Guardian: Forbidden Portals | 393874 | [393874-eternal-guardian-forbidden-portals.json](./393874-eternal-guardian-forbidden-portals.json) |
 | Eternal Hand | 355184 | [355184-eternal-hand.json](./355184-eternal-hand.json) |
+| Eternal Hatred | 398719 | [398719-eternal-hatred.json](./398719-eternal-hatred.json) |
 | Eternal Haunt | 323887 | [323887-eternal-haunt.json](./323887-eternal-haunt.json) |
 | Eternal Hearts: Curse of the Endless | 207267 | [207267-eternal-hearts-curse-of-the-endless.json](./207267-eternal-hearts-curse-of-the-endless.json) |
 | Eternal Hell | 367741 | [367741-eternal-hell.json](./367741-eternal-hell.json) |
