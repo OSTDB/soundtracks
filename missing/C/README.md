@@ -6839,6 +6839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check-In | 180935 | [180935-check-in.json](./180935-check-in.json) |
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
 | Check, please!: Restaurant Simulator | 174028 | [174028-check-please-restaurant-simulator.json](./174028-check-please-restaurant-simulator.json) |
+| Checkborne: A Chess Adventure | 423086 | [423086-checkborne-a-chess-adventure.json](./423086-checkborne-a-chess-adventure.json) |
 | Checked Out | 366136 | [366136-checked-out.json](./366136-checked-out.json) |
 | Checker | 230666 | [230666-checker.json](./230666-checker.json) |
 | Checker Connector | 116952 | [116952-checker-connector.json](./116952-checker-connector.json) |
@@ -7517,6 +7518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chick-Chick | 268317 | [268317-chick-chick.json](./268317-chick-chick.json) |
 | Chick'Hen Show | 423391 | [423391-chickhen-show.json](./423391-chickhen-show.json) |
 | Chick'n Mushroom Soup | 284968 | [284968-chickn-mushroom-soup.json](./284968-chickn-mushroom-soup.json) |
+| Chick'n Slide | 423081 | [423081-chickn-slide.json](./423081-chickn-slide.json) |
 | Chicka Wars \| Chicken Meat | 34741 | [34741-chicka-wars-chicken-meat.json](./34741-chicka-wars-chicken-meat.json) |
 | Chickaboom | 314663 | [314663-chickaboom.json](./314663-chickaboom.json) |
 | Chickado | 262853 | [262853-chickado.json](./262853-chickado.json) |
@@ -12073,6 +12075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Buns | 281377 | [281377-coffee-buns.json](./281377-coffee-buns.json) |
 | Coffee Caravan | 273620 | [273620-coffee-caravan.json](./273620-coffee-caravan.json) |
 | Coffee Crawl | 90311 | [90311-coffee-crawl.json](./90311-coffee-crawl.json) |
+| Coffee Craze | 423072 | [423072-coffee-craze.json](./423072-coffee-craze.json) |
 | Coffee Dates | 247466 | [247466-coffee-dates.json](./247466-coffee-dates.json) |
 | Coffee Express | 320924 | [320924-coffee-express.json](./320924-coffee-express.json) |
 | Coffee Extra: Ukuzala | 320528 | [320528-coffee-extra-ukuzala.json](./320528-coffee-extra-ukuzala.json) |
@@ -12667,6 +12670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color by Numbers - Princesses | 89067 | [89067-color-by-numbers-princesses.json](./89067-color-by-numbers-princesses.json) |
 | Color by Numbers - Vehicles | 88683 | [88683-color-by-numbers-vehicles.json](./88683-color-by-numbers-vehicles.json) |
 | Color Cannons+ | 107383 | [107383-color-cannons.json](./107383-color-cannons.json) |
+| Color Capsules | 423073 | [423073-color-capsules.json](./423073-color-capsules.json) |
 | Color Catch | 24817 | [24817-color-catch.json](./24817-color-catch.json) |
 | Color Chain | 111488 | [111488-color-chain.json](./111488-color-chain.json) |
 | Color Chains | 227905 | [227905-color-chains.json](./227905-color-chains.json) |
@@ -14916,6 +14920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control Monger | 300497 | [300497-control-monger.json](./300497-control-monger.json) |
 | Control Over | 150437 | [150437-control-over.json](./150437-control-over.json) |
 | Control Resonant: Digital Deluxe Edition | 418570 | [418570-control-resonant-digital-deluxe-edition.json](./418570-control-resonant-digital-deluxe-edition.json) |
+| Control Resonant: Special Edition | 423091 | [423091-control-resonant-special-edition.json](./423091-control-resonant-special-edition.json) |
 | Control Room | 333794 | [333794-control-room.json](./333794-control-room.json) |
 | Control Room Alpha | 207816 | [207816-control-room-alpha.json](./207816-control-room-alpha.json) |
 | Control Season Pass | 122314 | [122314-control-season-pass.json](./122314-control-season-pass.json) |
@@ -16746,6 +16751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Hunt: More to Find | 342368 | [342368-cozy-hunt-more-to-find.json](./342368-cozy-hunt-more-to-find.json) |
 | Cozy Interiors | 407204 | [407204-cozy-interiors.json](./407204-cozy-interiors.json) |
 | Cozy Island | 334286 | [334286-cozy-island.json](./334286-cozy-island.json) |
+| Cozy Island Cleaner | 423082 | [423082-cozy-island-cleaner.json](./423082-cozy-island-cleaner.json) |
 | Cozy Island Idle | 272775 | [272775-cozy-island-idle.json](./272775-cozy-island-idle.json) |
 | Cozy Islands | 208194 | [208194-cozy-islands.json](./208194-cozy-islands.json) |
 | Cozy Jigsaw Puzzle | 272636 | [272636-cozy-jigsaw-puzzle.json](./272636-cozy-jigsaw-puzzle.json) |
