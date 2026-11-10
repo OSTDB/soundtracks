@@ -1730,6 +1730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Escape | 377131 | [377131-zombie-escape.json](./377131-zombie-escape.json) |
 | Zombie Escape: The Driving Dead | 213589 | [213589-zombie-escape-the-driving-dead.json](./213589-zombie-escape-the-driving-dead.json) |
 | Zombie Estate | 66378 | [66378-zombie-estate.json](./66378-zombie-estate.json) |
+| Zombie Exodus | 34182 | [34182-zombie-exodus.json](./34182-zombie-exodus.json) |
 | Zombie Exodus: Safe Haven | 30783 | [30783-zombie-exodus-safe-haven.json](./30783-zombie-exodus-safe-haven.json) |
 | Zombie Exodus: Safe Haven - Part Four | 388743 | [388743-zombie-exodus-safe-haven-part-four.json](./388743-zombie-exodus-safe-haven-part-four.json) |
 | Zombie Exodus: Safe Haven - Part Three | 192242 | [192242-zombie-exodus-safe-haven-part-three.json](./192242-zombie-exodus-safe-haven-part-three.json) |
