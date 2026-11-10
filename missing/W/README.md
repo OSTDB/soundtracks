@@ -5341,6 +5341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Bullets | 119292 | [119292-wild-bullets.json](./119292-wild-bullets.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
 | Wild Card | 37349 | [37349-wild-card.json](./37349-wild-card.json) |
+| Wild Card Football | 260011 | [260011-wild-card-football.json](./260011-wild-card-football.json) |
 | Wild Card Football: Deluxe Edition | 260012 | [260012-wild-card-football-deluxe-edition.json](./260012-wild-card-football-deluxe-edition.json) |
 | Wild Card Football: Legacy Players Kickoff Pack | 271555 | [271555-wild-card-football-legacy-players-kickoff-pack.json](./271555-wild-card-football-legacy-players-kickoff-pack.json) |
 | Wild Card Football: Legacy RB Pack | 291703 | [291703-wild-card-football-legacy-rb-pack.json](./291703-wild-card-football-legacy-rb-pack.json) |
@@ -9412,6 +9413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreck & Profit | 420224 | [420224-wreck-and-profit.json](./420224-wreck-and-profit.json) |
 | Wreck League | 275240 | [275240-wreck-league.json](./275240-wreck-league.json) |
 | Wreck Race | 194192 | [194192-wreck-race.json](./194192-wreck-race.json) |
+| Wreck Runners | 395285 | [395285-wreck-runners.json](./395285-wreck-runners.json) |
 | Wreck the Fed | 204898 | [204898-wreck-the-fed.json](./204898-wreck-the-fed.json) |
 | Wreck the Insects | 150829 | [150829-wreck-the-insects.json](./150829-wreck-the-insects.json) |
 | Wreck the Party: Christmas Edition | 230785 | [230785-wreck-the-party-christmas-edition.json](./230785-wreck-the-party-christmas-edition.json) |
