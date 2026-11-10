@@ -3393,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upward | 156944 | [156944-upward.json](./156944-upward.json) |
 | Upward | 234353 | [234353-upward.json](./234353-upward.json) |
 | Upward | 281907 | [281907-upward.json](./281907-upward.json) |
+| Upward | 409921 | [409921-upward.json](./409921-upward.json) |
 | Upward Restriction | 184155 | [184155-upward-restriction.json](./184155-upward-restriction.json) |
 | Upwards, Lonely Robot | 34066 | [34066-upwards-lonely-robot.json](./34066-upwards-lonely-robot.json) |
 | Upwards, Rain! The Post Office of Farewells | 318818 | [318818-upwards-rain-the-post-office-of-farewells.json](./318818-upwards-rain-the-post-office-of-farewells.json) |
