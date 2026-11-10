@@ -3196,6 +3196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven GO Strikers 2013 | 22686 | [22686-inazuma-eleven-go-strikers-2013.json](./22686-inazuma-eleven-go-strikers-2013.json) |
 | Inazuma Eleven GO: Chrono Stones - Thunderflash | 23220 | [23220-inazuma-eleven-go-chrono-stones-thunderflash.json](./23220-inazuma-eleven-go-chrono-stones-thunderflash.json) |
 | Inazuma Eleven GO: Chrono Stones - Wildfire | 9693 | [9693-inazuma-eleven-go-chrono-stones-wildfire.json](./9693-inazuma-eleven-go-chrono-stones-wildfire.json) |
+| Inazuma Eleven GO: Galaxy Big Bang | 62739 | [62739-inazuma-eleven-go-galaxy-big-bang.json](./62739-inazuma-eleven-go-galaxy-big-bang.json) |
 | Inazuma Eleven Go: Galaxy Super Nova | 136053 | [136053-inazuma-eleven-go-galaxy-super-nova.json](./136053-inazuma-eleven-go-galaxy-super-nova.json) |
 | Inazuma Eleven Go: Light | 47673 | [47673-inazuma-eleven-go-light.json](./47673-inazuma-eleven-go-light.json) |
 | Inazuma Eleven GO: Shadow | 9685 | [9685-inazuma-eleven-go-shadow.json](./9685-inazuma-eleven-go-shadow.json) |
@@ -5161,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Boxing Champions | 233544 | [233544-international-boxing-champions.json](./233544-international-boxing-champions.json) |
 | International Bridge Contractors | 69797 | [69797-international-bridge-contractors.json](./69797-international-bridge-contractors.json) |
 | International Championship Wrestling | 137618 | [137618-international-championship-wrestling.json](./137618-international-championship-wrestling.json) |
+| International Cricket | 65196 | [65196-international-cricket.json](./65196-international-cricket.json) |
 | International Cricket 2010 | 22961 | [22961-international-cricket-2010.json](./22961-international-cricket-2010.json) |
 | International Cricket Captain | 23406 | [23406-international-cricket-captain.json](./23406-international-cricket-captain.json) |
 | International Cricket Captain 2 | 63317 | [63317-international-cricket-captain-2.json](./63317-international-cricket-captain-2.json) |
