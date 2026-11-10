@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemu Neko Puzzle demo Neteimasu | 222375 | [222375-nemu-neko-puzzle-demo-neteimasu.json](./222375-nemu-neko-puzzle-demo-neteimasu.json) |
 | Nemulesis | 181433 | [181433-nemulesis.json](./181433-nemulesis.json) |
 | Nemunai | 374824 | [374824-nemunai.json](./374824-nemunai.json) |
+| Nemure Heliotrope | 397972 | [397972-nemure-heliotrope.json](./397972-nemure-heliotrope.json) |
 | Nemurenai Yoru, Kimi wo Sagashite | 395494 | [395494-nemurenai-yoru-kimi-wo-sagashite.json](./395494-nemurenai-yoru-kimi-wo-sagashite.json) |
 | Nemurenu Yoru no Chiisana Ohanashi | 254494 | [254494-nemurenu-yoru-no-chiisana-ohanashi.json](./254494-nemurenu-yoru-no-chiisana-ohanashi.json) |
 | Nemurenu Yoru no Mikaketsu Mystery | 254925 | [254925-nemurenu-yoru-no-mikaketsu-mystery.json](./254925-nemurenu-yoru-no-mikaketsu-mystery.json) |
