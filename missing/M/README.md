@@ -5617,6 +5617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masters of Fate Bundle: Bio Inc. Redemption & Cultist Simulator: Anthology | 331535 | [331535-masters-of-fate-bundle-bio-inc-redemption-and-cultist-simulator-anthology.json](./331535-masters-of-fate-bundle-bio-inc-redemption-and-cultist-simulator-anthology.json) |
 | Masters of Light | 285367 | [285367-masters-of-light.json](./285367-masters-of-light.json) |
 | Masters of Madness | 296849 | [296849-masters-of-madness.json](./296849-masters-of-madness.json) |
+| Masters of Magic | 418672 | [418672-masters-of-magic.json](./418672-masters-of-magic.json) |
 | Masters of Mayhem | 314266 | [314266-masters-of-mayhem.json](./314266-masters-of-mayhem.json) |
 | Masters of Mystery: Crime of Fashion | 341071 | [341071-masters-of-mystery-crime-of-fashion.json](./341071-masters-of-mystery-crime-of-fashion.json) |
 | Masters of Puzzle | 96480 | [96480-masters-of-puzzle.json](./96480-masters-of-puzzle.json) |
@@ -13784,6 +13785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimized II | 54340 | [54340-minimized-ii.json](./54340-minimized-ii.json) |
 | Minimo | 401502 | [401502-minimo.json](./401502-minimo.json) |
 | Minimon | 17564 | [17564-minimon.json](./17564-minimon.json) |
+| Minimon: Tiny Idle Tactics | 418641 | [418641-minimon-tiny-idle-tactics.json](./418641-minimon-tiny-idle-tactics.json) |
 | MiniMoni: Mika no Happy Morning Chatty | 49686 | [49686-minimoni-mika-no-happy-morning-chatty.json](./49686-minimoni-mika-no-happy-morning-chatty.json) |
 | MiniMoni: Onegaio Hoshisama! | 49685 | [49685-minimoni-onegaio-hoshisama.json](./49685-minimoni-onegaio-hoshisama.json) |
 | Minimonos | 365184 | [365184-minimonos.json](./365184-minimonos.json) |
@@ -15980,6 +15982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondays: A Sisyphean Typing Game | 209491 | [209491-mondays-a-sisyphean-typing-game.json](./209491-mondays-a-sisyphean-typing-game.json) |
 | Mondealy | 189076 | [189076-mondealy.json](./189076-mondealy.json) |
 | Mondealy: Day One | 170072 | [170072-mondealy-day-one.json](./170072-mondealy-day-one.json) |
+| Mondice | 418722 | [418722-mondice.json](./418722-mondice.json) |
 | Mondly: Learn Languages in VR | 315636 | [315636-mondly-learn-languages-in-vr.json](./315636-mondly-learn-languages-in-vr.json) |
 | Mondo Agency | 72707 | [72707-mondo-agency.json](./72707-mondo-agency.json) |
 | Mondo Museum | 122513 | [122513-mondo-museum.json](./122513-mondo-museum.json) |
@@ -19318,6 +19321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moyashi Monogatari | 287432 | [287432-moyashi-monogatari.json](./287432-moyashi-monogatari.json) |
 | Moyashibito DX | 233211 | [233211-moyashibito-dx.json](./233211-moyashibito-dx.json) |
 | Moyashimon DS | 69164 | [69164-moyashimon-ds.json](./69164-moyashimon-ds.json) |
+| Moylo | 418702 | [418702-moylo.json](./418702-moylo.json) |
 | Moysenland | 123732 | [123732-moysenland.json](./123732-moysenland.json) |
 | Mozaki Blocks Deluxe | 200366 | [200366-mozaki-blocks-deluxe.json](./200366-mozaki-blocks-deluxe.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
