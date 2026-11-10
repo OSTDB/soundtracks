@@ -13115,6 +13115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Office Football 2001 | 73842 | [73842-front-office-football-2001.json](./73842-front-office-football-2001.json) |
 | Front Office Football 2004 | 68048 | [68048-front-office-football-2004.json](./68048-front-office-football-2004.json) |
 | Front Office Football 2007 | 90918 | [90918-front-office-football-2007.json](./90918-front-office-football-2007.json) |
+| Front Office Football Eight | 30830 | [30830-front-office-football-eight.json](./30830-front-office-football-eight.json) |
 | Front Office Football Nine | 271037 | [271037-front-office-football-nine.json](./271037-front-office-football-nine.json) |
 | Front Office Football: The College Years | 68046 | [68046-front-office-football-the-college-years.json](./68046-front-office-football-the-college-years.json) |
 | Front Office Football: The Fourth Edition | 68050 | [68050-front-office-football-the-fourth-edition.json](./68050-front-office-football-the-fourth-edition.json) |
