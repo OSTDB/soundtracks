@@ -9568,6 +9568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig! Dig! Dig! | 423201 | [423201-dig-dig-dig.json](./423201-dig-dig-dig.json) |
 | Dig! Dig! Dino! | 340847 | [340847-dig-dig-dino.json](./340847-dig-dig-dino.json) |
 | Dig!t | 232042 | [232042-dig-t.json](./232042-dig-t.json) |
+| Dig'n Crawl | 421774 | [421774-dign-crawl.json](./421774-dign-crawl.json) |
 | Dig2China | 247515 | [247515-dig2china.json](./247515-dig2china.json) |
 | Digable Planet | 315997 | [315997-digable-planet.json](./315997-digable-planet.json) |
 | Digan no Maseki | 107632 | [107632-digan-no-maseki.json](./107632-digan-no-maseki.json) |
