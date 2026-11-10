@@ -17472,6 +17472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Split Island: Dungeon Adventure | 220639 | [220639-moon-split-island-dungeon-adventure.json](./220639-moon-split-island-dungeon-adventure.json) |
 | Moon Strike | 54575 | [54575-moon-strike.json](./54575-moon-strike.json) |
 | Moon Surfing | 101519 | [101519-moon-surfing.json](./101519-moon-surfing.json) |
+| Moon Sweepers | 423053 | [423053-moon-sweepers.json](./423053-moon-sweepers.json) |
 | Moon Thirst | 310177 | [310177-moon-thirst.json](./310177-moon-thirst.json) |
 | Moon Tower | 309899 | [309899-moon-tower.json](./309899-moon-tower.json) |
 | Moon Tower: Gotta Save the Universe Real Quick | 287224 | [287224-moon-tower-gotta-save-the-universe-real-quick.json](./287224-moon-tower-gotta-save-the-universe-real-quick.json) |
