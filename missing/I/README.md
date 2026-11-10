@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I am Dictator | 149911 | [149911-i-am-dictator.json](./149911-i-am-dictator.json) |
 | I Am Die | 217381 | [217381-i-am-die.json](./217381-i-am-die.json) |
 | I Am Dog | 296918 | [296918-i-am-dog.json](./296918-i-am-dog.json) |
+| I Am Dog: Chaos Simulator | 400038 | [400038-i-am-dog-chaos-simulator.json](./400038-i-am-dog-chaos-simulator.json) |
 | I am Dog(s) | 182512 | [182512-i-am-dog-s.json](./182512-i-am-dog-s.json) |
 | I Am Dolphin | 60886 | [60886-i-am-dolphin.json](./60886-i-am-dolphin.json) |
 | I Am Etheric | 298285 | [298285-i-am-etheric.json](./298285-i-am-etheric.json) |
@@ -4091,7 +4092,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5881,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invincible Tiger: The Legend of Han Tao | 15937 | [15937-invincible-tiger-the-legend-of-han-tao.json](./15937-invincible-tiger-the-legend-of-han-tao.json) |
 | Invincible Vs: Undercover and Overdressed - Skin Bundle | 411382 | [411382-invincible-vs-undercover-and-overdressed-skin-bundle.json](./411382-invincible-vs-undercover-and-overdressed-skin-bundle.json) |
 | Invincible Vs.: Bots & Monsters - Skin Bundle | 411380 | [411380-invincible-vs-bots-and-monsters-skin-bundle.json](./411380-invincible-vs-bots-and-monsters-skin-bundle.json) |
+| Invincible Vs.: Deluxe Edition | 400037 | [400037-invincible-vs-deluxe-edition.json](./400037-invincible-vs-deluxe-edition.json) |
 | Invincible Vs.: Dupli-Kate - Hidden Zero Skin | 411386 | [411386-invincible-vs-dupli-kate-hidden-zero-skin.json](./411386-invincible-vs-dupli-kate-hidden-zero-skin.json) |
 | Invincible Vs.: Rex Splode - Towel Skin | 411385 | [411385-invincible-vs-rex-splode-towel-skin.json](./411385-invincible-vs-rex-splode-towel-skin.json) |
 | Invincible Vs.: The Immortal - Additional Fighter | 410817 | [410817-invincible-vs-the-immortal-additional-fighter.json](./410817-invincible-vs-the-immortal-additional-fighter.json) |
@@ -6147,6 +6148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Dawn | 286033 | [286033-iron-dawn.json](./286033-iron-dawn.json) |
 | Iron Decree | 326205 | [326205-iron-decree.json](./326205-iron-decree.json) |
 | Iron Defense | 40499 | [40499-iron-defense.json](./40499-iron-defense.json) |
+| Iron Desert: Fire Storm | 400611 | [400611-iron-desert-fire-storm.json](./400611-iron-desert-fire-storm.json) |
 | Iron Diamond | 236300 | [236300-iron-diamond.json](./236300-iron-diamond.json) |
 | Iron Dice | 352145 | [352145-iron-dice.json](./352145-iron-dice.json) |
 | Iron Disco | 158328 | [158328-iron-disco.json](./158328-iron-disco.json) |
