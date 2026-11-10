@@ -2437,7 +2437,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravesta Racing | 127752 | [127752-ravesta-racing.json](./127752-ravesta-racing.json) |
 | Raving Mad | 93004 | [93004-raving-mad.json](./93004-raving-mad.json) |
 | Raving Rabbids Travel in Time Browser | 83902 | [83902-raving-rabbids-travel-in-time-browser.json](./83902-raving-rabbids-travel-in-time-browser.json) |
-| Raving Rabbids: Alive and Kicking | 20221 | [20221-raving-rabbids-alive-and-kicking.json](./20221-raving-rabbids-alive-and-kicking.json) |
 | Raving Rabbids: Party Collection | 50646 | [50646-raving-rabbids-party-collection.json](./50646-raving-rabbids-party-collection.json) |
 | Raving Rabbids: Travel in Time | 5116 | [5116-raving-rabbids-travel-in-time.json](./5116-raving-rabbids-travel-in-time.json) |
 | Ravished Realms | 172359 | [172359-ravished-realms.json](./172359-ravished-realms.json) |
@@ -10427,7 +10426,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rode Quest 2: The Sweet Smell of Stenchie | 70176 | [70176-rode-quest-2-the-sweet-smell-of-stenchie.json](./70176-rode-quest-2-the-sweet-smell-of-stenchie.json) |
 | Rodea Eternal | 317613 | [317613-rodea-eternal.json](./317613-rodea-eternal.json) |
 | Rodea the Sky Soldier | 138792 | [138792-rodea-the-sky-soldier.json](./138792-rodea-the-sky-soldier.json) |
-| Rodea the Sky Soldier | 6872 | [6872-rodea-the-sky-soldier.json](./6872-rodea-the-sky-soldier.json) |
 | Rodea the Sky Soldier: Launch Day Edition | 89892 | [89892-rodea-the-sky-soldier-launch-day-edition.json](./89892-rodea-the-sky-soldier-launch-day-edition.json) |
 | Rodea: The Sky Soldier Limited Edition | 51188 | [51188-rodea-the-sky-soldier-limited-edition.json](./51188-rodea-the-sky-soldier-limited-edition.json) |
 | Rodem the Wild | 26124 | [26124-rodem-the-wild.json](./26124-rodem-the-wild.json) |
@@ -11202,7 +11200,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of Raskya | 156799 | [156799-romance-of-raskya.json](./156799-romance-of-raskya.json) |
 | Romance of the Forgotten Kingdom | 63109 | [63109-romance-of-the-forgotten-kingdom.json](./63109-romance-of-the-forgotten-kingdom.json) |
 | Romance of the Three Kingdom Touch | 21956 | [21956-romance-of-the-three-kingdom-touch.json](./21956-romance-of-the-three-kingdom-touch.json) |
-| Romance of the Three Kingdoms | 14509 | [14509-romance-of-the-three-kingdoms.json](./14509-romance-of-the-three-kingdoms.json) |
 | Romance of the Three Kingdoms | 336965 | [336965-romance-of-the-three-kingdoms.json](./336965-romance-of-the-three-kingdoms.json) |
 | Romance of the Three Kingdoms | 392223 | [392223-romance-of-the-three-kingdoms.json](./392223-romance-of-the-three-kingdoms.json) |
 | Romance of the Three Kingdoms 11 with Power Up Kit | 82406 | [82406-romance-of-the-three-kingdoms-11-with-power-up-kit.json](./82406-romance-of-the-three-kingdoms-11-with-power-up-kit.json) |
