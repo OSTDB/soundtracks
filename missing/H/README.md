@@ -4700,6 +4700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Food Town | 249481 | [249481-hello-kitty-food-town.json](./249481-hello-kitty-food-town.json) |
 | Hello Kitty Friends | 186743 | [186743-hello-kitty-friends.json](./186743-hello-kitty-friends.json) |
 | Hello Kitty Happy Town | 96208 | [96208-hello-kitty-happy-town.json](./96208-hello-kitty-happy-town.json) |
+| Hello Kitty Island Adventure: City Town | 398073 | [398073-hello-kitty-island-adventure-city-town.json](./398073-hello-kitty-island-adventure-city-town.json) |
 | Hello Kitty Island Adventure: Deluxe Edition | 330200 | [330200-hello-kitty-island-adventure-deluxe-edition.json](./330200-hello-kitty-island-adventure-deluxe-edition.json) |
 | Hello Kitty Jewel Town | 279607 | [279607-hello-kitty-jewel-town.json](./279607-hello-kitty-jewel-town.json) |
 | Hello Kitty Kawaii Town | 250129 | [250129-hello-kitty-kawaii-town.json](./250129-hello-kitty-kawaii-town.json) |
@@ -5277,6 +5278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Furry Cow | 384584 | [384584-hentai-furry-cow.json](./384584-hentai-furry-cow.json) |
 | Hentai Furry Goat | 411126 | [411126-hentai-furry-goat.json](./411126-hentai-furry-goat.json) |
 | Hentai Furry Milf | 384701 | [384701-hentai-furry-milf.json](./384701-hentai-furry-milf.json) |
+| Hentai Furry Panda | 397974 | [397974-hentai-furry-panda.json](./397974-hentai-furry-panda.json) |
 | Hentai Furry Pig | 399712 | [399712-hentai-furry-pig.json](./399712-hentai-furry-pig.json) |
 | Hentai Furry Pony | 367661 | [367661-hentai-furry-pony.json](./367661-hentai-furry-pony.json) |
 | Hentai Furry Sheepy | 396715 | [396715-hentai-furry-sheepy.json](./396715-hentai-furry-sheepy.json) |
@@ -8939,6 +8941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitozuma Unyu Saimin NTR Ben | 59264 | [59264-hitozuma-unyu-saimin-ntr-ben.json](./59264-hitozuma-unyu-saimin-ntr-ben.json) |
 | Hitozuma Unyu Saimin NTR Ben ~Namatame Miki no Yokubou~ | 59263 | [59263-hitozuma-unyu-saimin-ntr-ben-namatame-miki-no-yokubou.json](./59263-hitozuma-unyu-saimin-ntr-ben-namatame-miki-no-yokubou.json) |
 | Hitozuma Unyu Saimin NTR Ben ~Sudou Junko no Yuuwaku~ | 59261 | [59261-hitozuma-unyu-saimin-ntr-ben-sudou-junko-no-yuuwaku.json](./59261-hitozuma-unyu-saimin-ntr-ben-sudou-junko-no-yuuwaku.json) |
+| HitPost.Online | 398076 | [398076-hitpost-online.json](./398076-hitpost-online.json) |
 | Hitstick 2: No Time for Diplomacy | 393405 | [393405-hitstick-2-no-time-for-diplomacy.json](./393405-hitstick-2-no-time-for-diplomacy.json) |
 | Hitstick 3: Deadly Breeze | 393406 | [393406-hitstick-3-deadly-breeze.json](./393406-hitstick-3-deadly-breeze.json) |
 | Hitstick 5: Redemption | 393410 | [393410-hitstick-5-redemption.json](./393410-hitstick-5-redemption.json) |
@@ -11894,6 +11897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to God | 343055 | [343055-how-to-god.json](./343055-how-to-god.json) |
 | How to Grow a Black Hole | 405789 | [405789-how-to-grow-a-black-hole.json](./405789-how-to-grow-a-black-hole.json) |
 | How to Grow Your Sausage | 404405 | [404405-how-to-grow-your-sausage.json](./404405-how-to-grow-your-sausage.json) |
+| How to Kill a Fly | 397986 | [397986-how-to-kill-a-fly.json](./397986-how-to-kill-a-fly.json) |
 | How to Live a Healthy Hentai Lifestyle! | 200645 | [200645-how-to-live-a-healthy-hentai-lifestyle.json](./200645-how-to-live-a-healthy-hentai-lifestyle.json) |
 | How to Lose One's Virginity | 265791 | [265791-how-to-lose-ones-virginity.json](./265791-how-to-lose-ones-virginity.json) |
 | How to Make a Cup of Tea | 176118 | [176118-how-to-make-a-cup-of-tea.json](./176118-how-to-make-a-cup-of-tea.json) |
@@ -12555,6 +12559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt and Snare | 111269 | [111269-hunt-and-snare.json](./111269-hunt-and-snare.json) |
 | Hunt Arena: Fire Battle Royale | 260710 | [260710-hunt-arena-fire-battle-royale.json](./260710-hunt-arena-fire-battle-royale.json) |
 | Hunt Asylum Together | 406702 | [406702-hunt-asylum-together.json](./406702-hunt-asylum-together.json) |
+| Hunt Club On Stream | 398057 | [398057-hunt-club-on-stream.json](./398057-hunt-club-on-stream.json) |
 | Hunt Cook: Catch and Serve | 308356 | [308356-hunt-cook-catch-and-serve.json](./308356-hunt-cook-catch-and-serve.json) |
 | Hunt Down the Freeman | 89147 | [89147-hunt-down-the-freeman.json](./89147-hunt-down-the-freeman.json) |
 | Hunt Ducks | 164741 | [164741-hunt-ducks.json](./164741-hunt-ducks.json) |
