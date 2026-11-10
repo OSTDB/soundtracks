@@ -3744,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NewU Fitness First Mind Body, Yoga & Pilates Workout | 50957 | [50957-newu-fitness-first-mind-body-yoga-and-pilates-workout.json](./50957-newu-fitness-first-mind-body-yoga-and-pilates-workout.json) |
 | NewU Fitness First Personal Trainer | 67689 | [67689-newu-fitness-first-personal-trainer.json](./67689-newu-fitness-first-personal-trainer.json) |
 | Nex Credo | 273737 | [273737-nex-credo.json](./273737-nex-credo.json) |
+| Nex Evo | 420067 | [420067-nex-evo.json](./420067-nex-evo.json) |
 | Nex Machina | 26202 | [26202-nex-machina.json](./26202-nex-machina.json) |
 | Nex-Ara | 364884 | [364884-nex-ara.json](./364884-nex-ara.json) |
 | Nex:Os Colosseum | 108760 | [108760-nex-os-colosseum.json](./108760-nex-os-colosseum.json) |
