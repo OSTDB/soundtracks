@@ -8033,6 +8033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Stone | 185545 | [185545-shattered-stone.json](./185545-shattered-stone.json) |
 | Shattered Sun | 323485 | [323485-shattered-sun.json](./323485-shattered-sun.json) |
 | Shattered Suns | 51356 | [51356-shattered-suns.json](./51356-shattered-suns.json) |
+| Shattered Throne | 32681 | [32681-shattered-throne.json](./32681-shattered-throne.json) |
 | Shattered Time | 326539 | [326539-shattered-time.json](./326539-shattered-time.json) |
 | Shattered Union | 6046 | [6046-shattered-union.json](./6046-shattered-union.json) |
 | Shattered Vault | 390783 | [390783-shattered-vault.json](./390783-shattered-vault.json) |
@@ -19513,6 +19514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Savarog | 301879 | [301879-soul-of-savarog.json](./301879-soul-of-savarog.json) |
 | Soul of Sovereignty: Prelude | 283407 | [283407-soul-of-sovereignty-prelude.json](./283407-soul-of-sovereignty-prelude.json) |
 | Soul of the Beast | 178617 | [178617-soul-of-the-beast.json](./178617-soul-of-the-beast.json) |
+| Soul of the Devil | 32620 | [32620-soul-of-the-devil.json](./32620-soul-of-the-devil.json) |
 | Soul of the Dungeon | 348039 | [348039-soul-of-the-dungeon.json](./348039-soul-of-the-dungeon.json) |
 | Soul of the Forest | 310090 | [310090-soul-of-the-forest.json](./310090-soul-of-the-forest.json) |
 | Soul of the Soul | 175671 | [175671-soul-of-the-soul.json](./175671-soul-of-the-soul.json) |
@@ -22405,6 +22407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellforge | 32864 | [32864-spellforge.json](./32864-spellforge.json) |
 | Spellforged | 295357 | [295357-spellforged.json](./295357-spellforged.json) |
 | Spellfort | 247835 | [247835-spellfort.json](./247835-spellfort.json) |
+| Spellgear | 32691 | [32691-spellgear.json](./32691-spellgear.json) |
 | Spellgrimage | 199226 | [199226-spellgrimage.json](./199226-spellgrimage.json) |
 | Spellgroove | 220600 | [220600-spellgroove.json](./220600-spellgroove.json) |
 | Spellhack!! | 295097 | [295097-spellhack.json](./295097-spellhack.json) |
@@ -26977,6 +26980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stary | 113644 | [113644-stary.json](./113644-stary.json) |
 | Starzine | 55763 | [55763-starzine.json](./55763-starzine.json) |
 | Starzzle | 382218 | [382218-starzzle.json](./382218-starzzle.json) |
+| Stash | 32748 | [32748-stash.json](./32748-stash.json) |
 | Stash: A Card Looter | 367473 | [367473-stash-a-card-looter.json](./367473-stash-a-card-looter.json) |
 | Stasis | 223055 | [223055-stasis.json](./223055-stasis.json) |
 | Stasis Bundle | 353984 | [353984-stasis-bundle.json](./353984-stasis-bundle.json) |
@@ -33772,6 +33776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Hentai Collection! | 215248 | [215248-super-mega-hentai-collection.json](./215248-super-mega-hentai-collection.json) |
 | Super Mega Lucky Box | 234599 | [234599-super-mega-lucky-box.json](./234599-super-mega-lucky-box.json) |
 | Super Mega Mini Party | 143820 | [143820-super-mega-mini-party.json](./143820-super-mega-mini-party.json) |
+| Super Mega Neo Pug | 32683 | [32683-super-mega-neo-pug.json](./32683-super-mega-neo-pug.json) |
 | Super Mega Runners | 365137 | [365137-super-mega-runners.json](./365137-super-mega-runners.json) |
 | Super Mega Space Blaster Special | 119009 | [119009-super-mega-space-blaster-special.json](./119009-super-mega-space-blaster-special.json) |
 | Super Mega Space Blaster Special Turbo | 125387 | [125387-super-mega-space-blaster-special-turbo.json](./125387-super-mega-space-blaster-special-turbo.json) |
@@ -37438,6 +37443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordthrust 6: The Eternal Curse | 24794 | [24794-swordthrust-6-the-eternal-curse.json](./24794-swordthrust-6-the-eternal-curse.json) |
 | Swordthrust 7: The Hall of Alchemie | 24795 | [24795-swordthrust-7-the-hall-of-alchemie.json](./24795-swordthrust-7-the-hall-of-alchemie.json) |
 | SwordVania | 179424 | [179424-swordvania.json](./179424-swordvania.json) |
+| Swordy | 32706 | [32706-swordy.json](./32706-swordy.json) |
 | SworLd | 192808 | [192808-sworld.json](./192808-sworld.json) |
 | Sworn | 118074 | [118074-sworn.json](./118074-sworn.json) |
 | SWR JST DX Selective Memory Erase Effect | 35564 | [35564-swr-jst-dx-selective-memory-erase-effect.json](./35564-swr-jst-dx-selective-memory-erase-effect.json) |
