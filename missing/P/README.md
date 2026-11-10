@@ -5747,6 +5747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharm Pharaoh | 142011 | [142011-pharm-pharaoh.json](./142011-pharm-pharaoh.json) |
 | Pharma Dealer Simulator | 365563 | [365563-pharma-dealer-simulator.json](./365563-pharma-dealer-simulator.json) |
 | Pharma Inc Simulator | 357038 | [357038-pharma-inc-simulator.json](./357038-pharma-inc-simulator.json) |
+| Pharma R&D Manager | 418671 | [418671-pharma-r-and-d-manager.json](./418671-pharma-r-and-d-manager.json) |
 | Pharmacist Jones | 325706 | [325706-pharmacist-jones.json](./325706-pharmacist-jones.json) |
 | Pharmacy 24 | 390643 | [390643-pharmacy-24.json](./390643-pharmacy-24.json) |
 | Pharmacy Management Simulator | 348031 | [348031-pharmacy-management-simulator.json](./348031-pharmacy-management-simulator.json) |
@@ -9075,6 +9076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelGround | 191848 | [191848-pixelground.json](./191848-pixelground.json) |
 | PixelGround: Expansion Pack | 197560 | [197560-pixelground-expansion-pack.json](./197560-pixelground-expansion-pack.json) |
 | Pixelgunners | 25802 | [25802-pixelgunners.json](./25802-pixelgunners.json) |
+| PixelHeroScramble Plus | 418670 | [418670-pixelheroscramble-plus.json](./418670-pixelheroscramble-plus.json) |
 | Pixeline and the Jungle Treasure | 64502 | [64502-pixeline-and-the-jungle-treasure.json](./64502-pixeline-and-the-jungle-treasure.json) |
 | Pixeline Skolebøger: Dansk | 64501 | [64501-pixeline-skoleb-ger-dansk.json](./64501-pixeline-skoleb-ger-dansk.json) |
 | Pixeline Skolehjælp: Dansk – Kaos i Kommakøbing | 285853 | [285853-pixeline-skolehj-lp-dansk-kaos-i-kommak-bing.json](./285853-pixeline-skolehj-lp-dansk-kaos-i-kommak-bing.json) |
@@ -13190,6 +13192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poopnauts | 418275 | [418275-poopnauts.json](./418275-poopnauts.json) |
 | Poopy Philosophy | 111970 | [111970-poopy-philosophy.json](./111970-poopy-philosophy.json) |
 | Poopy Time | 305407 | [305407-poopy-time.json](./305407-poopy-time.json) |
+| Poopy's Playland | 418643 | [418643-poopys-playland.json](./418643-poopys-playland.json) |
 | Poopy's Wonderland | 331796 | [331796-poopys-wonderland.json](./331796-poopys-wonderland.json) |
 | Poor Artifact Maker | 290538 | [290538-poor-artifact-maker.json](./290538-poor-artifact-maker.json) |
 | Poor Bunny! | 239132 | [239132-poor-bunny.json](./239132-poor-bunny.json) |
@@ -13416,6 +13419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popira | 392681 | [392681-popira.json](./392681-popira.json) |
 | Popit Sanic Goo! | 320034 | [320034-popit-sanic-goo.json](./320034-popit-sanic-goo.json) |
 | PoPixel | 32487 | [32487-popixel.json](./32487-popixel.json) |
+| Poplet | 418650 | [418650-poplet.json](./418650-poplet.json) |
 | Popmoji | 282053 | [282053-popmoji.json](./282053-popmoji.json) |
 | Popmundo | 307602 | [307602-popmundo.json](./307602-popmundo.json) |
 | Popo & Rob | 341561 | [341561-popo-and-rob.json](./341561-popo-and-rob.json) |
@@ -16034,6 +16038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procedural Death Labyrinth | 137578 | [137578-procedural-death-labyrinth.json](./137578-procedural-death-labyrinth.json) |
 | Procedural Realms | 228701 | [228701-procedural-realms.json](./228701-procedural-realms.json) |
 | Procedural Soccer | 173228 | [173228-procedural-soccer.json](./173228-procedural-soccer.json) |
+| Procedure Zero | 418716 | [418716-procedure-zero.json](./418716-procedure-zero.json) |
 | Proceed to ICU | 390020 | [390020-proceed-to-icu.json](./390020-proceed-to-icu.json) |
 | Procelio | 307164 | [307164-procelio.json](./307164-procelio.json) |
 | Procemon: You Must Catch Them | 369727 | [369727-procemon-you-must-catch-them.json](./369727-procemon-you-must-catch-them.json) |
@@ -17986,6 +17991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puck Bash | 187266 | [187266-puck-bash.json](./187266-puck-bash.json) |
 | Puck Off | 67768 | [67768-puck-off.json](./67768-puck-off.json) |
 | Puck-Man Puzzler | 289887 | [289887-puck-man-puzzler.json](./289887-puck-man-puzzler.json) |
+| Puck'n Hell | 418648 | [418648-puckn-hell.json](./418648-puckn-hell.json) |
 | Puck’s Peak | 366446 | [366446-puck-s-peak.json](./366446-puck-s-peak.json) |
 | Puckdoku | 321606 | [321606-puckdoku.json](./321606-puckdoku.json) |
 | Puckish | 285267 | [285267-puckish.json](./285267-puckish.json) |
