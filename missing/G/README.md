@@ -5018,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GladMort | 320021 | [320021-gladmort.json](./320021-gladmort.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
 | Gladston Valley | 366181 | [366181-gladston-valley.json](./366181-gladston-valley.json) |
+| Glaggs It! | 423658 | [423658-glaggs-it.json](./423658-glaggs-it.json) |
 | GlagStone | 273677 | [273677-glagstone.json](./273677-glagstone.json) |
 | GlagStone | 396946 | [396946-glagstone.json](./396946-glagstone.json) |
 | Glais Gawizt | 266765 | [266765-glais-gawizt.json](./266765-glais-gawizt.json) |
@@ -6178,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God bless, or Goddess | 358972 | [358972-god-bless-or-goddess.json](./358972-god-bless-or-goddess.json) |
 | God Busters: Who watches the Watchers? | 232460 | [232460-god-busters-who-watches-the-watchers.json](./232460-god-busters-who-watches-the-watchers.json) |
 | God Came to the Cave | 70298 | [70298-god-came-to-the-cave.json](./70298-god-came-to-the-cave.json) |
+| God Codex | 423662 | [423662-god-codex.json](./423662-god-codex.json) |
 | God Cop Bad Cop | 157518 | [157518-god-cop-bad-cop.json](./157518-god-cop-bad-cop.json) |
 | God Crafter | 309456 | [309456-god-crafter.json](./309456-god-crafter.json) |
 | God Damn Cardgame | 98287 | [98287-god-damn-cardgame.json](./98287-god-damn-cardgame.json) |
