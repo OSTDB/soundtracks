@@ -12299,6 +12299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokescape: A Pokémon Escape Room | 340210 | [340210-pokescape-a-pokemon-escape-room.json](./340210-pokescape-a-pokemon-escape-room.json) |
 | PokéSmash | 191883 | [191883-pokesmash.json](./191883-pokesmash.json) |
 | PokéSnake | 171293 | [171293-pokesnake.json](./171293-pokesnake.json) |
+| PokéSurvivor | 423088 | [423088-pokesurvivor.json](./423088-pokesurvivor.json) |
 | Poket Legion | 371283 | [371283-poket-legion.json](./371283-poket-legion.json) |
 | Poket Man | 247257 | [247257-poket-man.json](./247257-poket-man.json) |
 | Poketale | 309973 | [309973-poketale.json](./309973-poketale.json) |
