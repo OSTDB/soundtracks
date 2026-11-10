@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Future: The Game - Episode 4: Double Visions | 78252 | [78252-back-to-the-future-the-game-episode-4-double-visions.json](./78252-back-to-the-future-the-game-episode-4-double-visions.json) |
 | Back to the Future: The Game - Episode 5: Outatime | 78251 | [78251-back-to-the-future-the-game-episode-5-outatime.json](./78251-back-to-the-future-the-game-episode-5-outatime.json) |
 | Back To The Future: The Ride | 364150 | [364150-back-to-the-future-the-ride.json](./364150-back-to-the-future-the-ride.json) |
+| Back to the Garden | 401366 | [401366-back-to-the-garden.json](./401366-back-to-the-garden.json) |
 | Back to the Golden Age | 13367 | [13367-back-to-the-golden-age.json](./13367-back-to-the-golden-age.json) |
 | Back to the Heaven | 349257 | [349257-back-to-the-heaven.json](./349257-back-to-the-heaven.json) |
 | Back to the Joseon | 214565 | [214565-back-to-the-joseon.json](./214565-back-to-the-joseon.json) |
@@ -1512,6 +1513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balium | 292951 | [292951-balium.json](./292951-balium.json) |
 | Balkadia | 129618 | [129618-balkadia.json](./129618-balkadia.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
+| Balkan Football League 2026 | 401365 | [401365-balkan-football-league-2026.json](./401365-balkan-football-league-2026.json) |
 | Balkan Horror Tales | 330542 | [330542-balkan-horror-tales.json](./330542-balkan-horror-tales.json) |
 | Balkan Shop Simulator | 396667 | [396667-balkan-shop-simulator.json](./396667-balkan-shop-simulator.json) |
 | Balkiri Sonyeo Kiugi | 216112 | [216112-balkiri-sonyeo-kiugi.json](./216112-balkiri-sonyeo-kiugi.json) |
@@ -2489,9 +2491,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarous 2: Tavern Wars | 192944 | [192944-barbarous-2-tavern-wars.json](./192944-barbarous-2-tavern-wars.json) |
 | Barbarous: Family Secrets | 277263 | [277263-barbarous-family-secrets.json](./277263-barbarous-family-secrets.json) |
 | Barbarous: Survivor's Quest | 401104 | [401104-barbarous-survivors-quest.json](./401104-barbarous-survivors-quest.json) |
+| Barbarous: Survivor's Quest - Bard DLC | 401347 | [401347-barbarous-survivors-quest-bard-dlc.json](./401347-barbarous-survivors-quest-bard-dlc.json) |
 | Barbarous: Survivor's Quest - Complete Edition | 402606 | [402606-barbarous-survivors-quest-complete-edition.json](./402606-barbarous-survivors-quest-complete-edition.json) |
 | Barbarous: Survivor's Quest - Hex Edition | 409957 | [409957-barbarous-survivors-quest-hex-edition.json](./409957-barbarous-survivors-quest-hex-edition.json) |
+| Barbarous: Survivor's Quest - Mage DLC | 401346 | [401346-barbarous-survivors-quest-mage-dlc.json](./401346-barbarous-survivors-quest-mage-dlc.json) |
 | Barbarous: Survivor's Quest - Spell Edition | 409959 | [409959-barbarous-survivors-quest-spell-edition.json](./409959-barbarous-survivors-quest-spell-edition.json) |
+| Barbarous: Survivor's Quest - Witch DLC | 401345 | [401345-barbarous-survivors-quest-witch-dlc.json](./401345-barbarous-survivors-quest-witch-dlc.json) |
 | Barbarous: Tavern of Emyr | 126471 | [126471-barbarous-tavern-of-emyr.json](./126471-barbarous-tavern-of-emyr.json) |
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
 | BarbarQ 2 | 175018 | [175018-barbarq-2.json](./175018-barbarq-2.json) |
@@ -13608,6 +13613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bongo Loves the Bible | 146262 | [146262-bongo-loves-the-bible.json](./146262-bongo-loves-the-bible.json) |
 | Bongo Quest | 190472 | [190472-bongo-quest.json](./190472-bongo-quest.json) |
 | Bongo Touch | 175319 | [175319-bongo-touch.json](./175319-bongo-touch.json) |
+| Bongo Waifu | 401329 | [401329-bongo-waifu.json](./401329-bongo-waifu.json) |
 | Bongo's Bash | 69589 | [69589-bongos-bash.json](./69589-bongos-bash.json) |
 | BongoTrip | 99770 | [99770-bongotrip.json](./99770-bongotrip.json) |
 | Bongus Bright-Eye & The Great Axe-Stravaganza | 255252 | [255252-bongus-bright-eye-and-the-great-axe-stravaganza.json](./255252-bongus-bright-eye-and-the-great-axe-stravaganza.json) |
@@ -17884,6 +17890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugdas | 113721 | [113721-bugdas.json](./113721-bugdas.json) |
 | Bugdasu | 347301 | [347301-bugdasu.json](./347301-bugdasu.json) |
 | BugDive | 320191 | [320191-bugdive.json](./320191-bugdive.json) |
+| BugDive Complete | 401317 | [401317-bugdive-complete.json](./401317-bugdive-complete.json) |
 | BugDive Deluxe Demo Edition | 320192 | [320192-bugdive-deluxe-demo-edition.json](./320192-bugdive-deluxe-demo-edition.json) |
 | Bugdom | 50343 | [50343-bugdom.json](./50343-bugdom.json) |
 | Bugged | 182679 | [182679-bugged.json](./182679-bugged.json) |
