@@ -4616,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maroon! | 336461 | [336461-maroon.json](./336461-maroon.json) |
 | Marooned | 151651 | [151651-marooned.json](./151651-marooned.json) |
 | Marooned | 209558 | [209558-marooned.json](./209558-marooned.json) |
+| Marooned | 411185 | [411185-marooned.json](./411185-marooned.json) |
 | Marooned 2: Secrets of the Akoni | 209557 | [209557-marooned-2-secrets-of-the-akoni.json](./209557-marooned-2-secrets-of-the-akoni.json) |
 | Marooned: Arcanus Island | 7445 | [7445-marooned-arcanus-island.json](./7445-marooned-arcanus-island.json) |
 | Marooners | 23993 | [23993-marooners.json](./23993-marooners.json) |
@@ -6897,6 +6898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mean Streak | 41138 | [41138-mean-streak.json](./41138-mean-streak.json) |
 | Mean-While | 149329 | [149329-mean-while.json](./149329-mean-while.json) |
 | Meander | 108986 | [108986-meander.json](./108986-meander.json) |
+| Meander | 411193 | [411193-meander.json](./411193-meander.json) |
 | Meander Forth | 321296 | [321296-meander-forth.json](./321296-meander-forth.json) |
 | Meander Forth: Teak's Tall Tale | 321297 | [321297-meander-forth-teaks-tall-tale.json](./321297-meander-forth-teaks-tall-tale.json) |
 | Meander Forth: Teak's Tall Tale Plus | 321298 | [321298-meander-forth-teaks-tall-tale-plus.json](./321298-meander-forth-teaks-tall-tale-plus.json) |
