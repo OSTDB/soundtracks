@@ -9515,6 +9515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Defender | 380074 | [380074-circuit-defender.json](./380074-circuit-defender.json) |
 | Circuit Dude | 51789 | [51789-circuit-dude.json](./51789-circuit-dude.json) |
 | Circuit Flow | 413943 | [413943-circuit-flow.json](./413943-circuit-flow.json) |
+| Circuit Keep | 407686 | [407686-circuit-keep.json](./407686-circuit-keep.json) |
 | Circuit Maze | 333494 | [333494-circuit-maze.json](./333494-circuit-maze.json) |
 | Circuit Puzzle | 270402 | [270402-circuit-puzzle.json](./270402-circuit-puzzle.json) |
 | Circuit Racer | 26656 | [26656-circuit-racer.json](./26656-circuit-racer.json) |
@@ -12858,6 +12859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Symphony | 17725 | [17725-color-symphony.json](./17725-color-symphony.json) |
 | Color Symphony 2 | 34396 | [34396-color-symphony-2.json](./34396-color-symphony-2.json) |
 | Color Syndrome | 32447 | [32447-color-syndrome.json](./32447-color-syndrome.json) |
+| Color Tanks | 407624 | [407624-color-tanks.json](./407624-color-tanks.json) |
 | Color Teaser | 261527 | [261527-color-teaser.json](./261527-color-teaser.json) |
 | Color the Truth | 57512 | [57512-color-the-truth.json](./57512-color-the-truth.json) |
 | Color Theory | 315452 | [315452-color-theory.json](./315452-color-theory.json) |
@@ -15790,6 +15792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupt | 260485 | [260485-corrupt.json](./260485-corrupt.json) |
 | Corrupt | 343328 | [343328-corrupt.json](./343328-corrupt.json) |
 | Corrupt | 67916 | [67916-corrupt.json](./67916-corrupt.json) |
+| Corrupt Cop | 407627 | [407627-corrupt-cop.json](./407627-corrupt-cop.json) |
 | Corrupt Eldritch Order | 303432 | [303432-corrupt-eldritch-order.json](./303432-corrupt-eldritch-order.json) |
 | Corrupt Life | 98457 | [98457-corrupt-life.json](./98457-corrupt-life.json) |
 | Corrupt Political | 219302 | [219302-corrupt-political.json](./219302-corrupt-political.json) |
@@ -19186,6 +19189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crow-Sourcing | 312854 | [312854-crow-sourcing.json](./312854-crow-sourcing.json) |
 | Crow's Cry | 211726 | [211726-crows-cry.json](./211726-crows-cry.json) |
 | Crow's Curated Closet: Shop Simulator | 407481 | [407481-crows-curated-closet-shop-simulator.json](./407481-crows-curated-closet-shop-simulator.json) |
+| Crow's Foot | 407671 | [407671-crows-foot.json](./407671-crows-foot.json) |
 | Crowalt: Traces of the Lost Colony | 132470 | [132470-crowalt-traces-of-the-lost-colony.json](./132470-crowalt-traces-of-the-lost-colony.json) |
 | Crowbar Climber | 348928 | [348928-crowbar-climber.json](./348928-crowbar-climber.json) |
 | Crowborne | 295786 | [295786-crowborne.json](./295786-crowborne.json) |
