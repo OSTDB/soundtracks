@@ -747,6 +747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: Ougon Densetsu - Kanketsu-hen | 48654 | [48654-saint-seiya-ougon-densetsu-kanketsu-hen.json](./48654-saint-seiya-ougon-densetsu-kanketsu-hen.json) |
 | Saint Seiya: Ougon Densetsu-hen - Perfect Edition | 37353 | [37353-saint-seiya-ougon-densetsu-hen-perfect-edition.json](./37353-saint-seiya-ougon-densetsu-hen-perfect-edition.json) |
 | Saint Seiya: Rising Cosmo | 139221 | [139221-saint-seiya-rising-cosmo.json](./139221-saint-seiya-rising-cosmo.json) |
+| Saint Seiya: Sanctuary Battle | 25184 | [25184-saint-seiya-sanctuary-battle.json](./25184-saint-seiya-sanctuary-battle.json) |
 | Saint Seiya: The Hades | 23113 | [23113-saint-seiya-the-hades.json](./23113-saint-seiya-the-hades.json) |
 | Saint Seiya: The Sanctuary | 43345 | [43345-saint-seiya-the-sanctuary.json](./43345-saint-seiya-the-sanctuary.json) |
 | Saint Seiya: Ultimate Cosmo | 166519 | [166519-saint-seiya-ultimate-cosmo.json](./166519-saint-seiya-ultimate-cosmo.json) |
@@ -24738,6 +24739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StackHoops | 244698 | [244698-stackhoops.json](./244698-stackhoops.json) |
 | Stacking | 4851 | [4851-stacking.json](./4851-stacking.json) |
 | Stacking Fairy | 293866 | [293866-stacking-fairy.json](./293866-stacking-fairy.json) |
+| Stacking: The Lost Hobo King | 24312 | [24312-stacking-the-lost-hobo-king.json](./24312-stacking-the-lost-hobo-king.json) |
 | StacKit | 353764 | [353764-stackit.json](./353764-stackit.json) |
 | Stacklands 2000 | 298028 | [298028-stacklands-2000.json](./298028-stacklands-2000.json) |
 | Stacklands: Cursed Worlds | 257949 | [257949-stacklands-cursed-worlds.json](./257949-stacklands-cursed-worlds.json) |
@@ -25058,6 +25060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Connect | 233737 | [233737-star-connect.json](./233737-star-connect.json) |
 | Star Conqueror | 337631 | [337631-star-conqueror.json](./337631-star-conqueror.json) |
 | Star Control | 4497 | [4497-star-control.json](./4497-star-control.json) |
+| Star Control 3 | 5449 | [5449-star-control-3.json](./5449-star-control-3.json) |
 | Star Control I & II | 154237 | [154237-star-control-i-and-ii.json](./154237-star-control-i-and-ii.json) |
 | Star Control II | 1046 | [1046-star-control-ii.json](./1046-star-control-ii.json) |
 | Star Control: Origins - Earth Rising | 116143 | [116143-star-control-origins-earth-rising.json](./116143-star-control-origins-earth-rising.json) |
