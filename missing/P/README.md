@@ -6729,6 +6729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikki Rikki | 255164 | [255164-pikki-rikki.json](./255164-pikki-rikki.json) |
 | Pikku Adventure | 395181 | [395181-pikku-adventure.json](./395181-pikku-adventure.json) |
 | Pikmin | 2239 | [2239-pikmin.json](./2239-pikmin.json) |
+| Pikmin | 84696 | [84696-pikmin.json](./84696-pikmin.json) |
 | Pikmin 1 Randomizer | 263441 | [263441-pikmin-1-randomizer.json](./263441-pikmin-1-randomizer.json) |
 | Pikmin 100 | 342715 | [342715-pikmin-100.json](./342715-pikmin-100.json) |
 | Pikmin 1x3 | 313368 | [313368-pikmin-1x3.json](./313368-pikmin-1x3.json) |
