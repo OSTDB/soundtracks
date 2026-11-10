@@ -1380,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 180 Minutes Pour Vivre | 257420 | [257420-180-minutes-pour-vivre.json](./257420-180-minutes-pour-vivre.json) |
 | 180 Seconds | 203861 | [203861-180-seconds.json](./203861-180-seconds.json) |
 | 180! Darts | 261965 | [261965-180-darts.json](./261965-180-darts.json) |
+| 180° | 406392 | [406392-180.json](./406392-180.json) |
 | 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
 | 1811 | 343812 | [343812-1811.json](./343812-1811.json) |
 | 1812: Napoleon Wars | 123773 | [123773-1812-napoleon-wars.json](./123773-1812-napoleon-wars.json) |
