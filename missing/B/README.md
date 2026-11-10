@@ -1006,7 +1006,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Range | 413968 | [413968-bad-range.json](./413968-bad-range.json) |
@@ -3575,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Arkham Origins Blackgate | 7689 | [7689-batman-arkham-origins-blackgate.json](./7689-batman-arkham-origins-blackgate.json) |
 | Batman: Arkham VR | 19563 | [19563-batman-arkham-vr.json](./19563-batman-arkham-vr.json) |
 | Batman: Back Street Brawl | 284216 | [284216-batman-back-street-brawl.json](./284216-batman-back-street-brawl.json) |
+| Batman: Caped Crusader - Chronicles | 411219 | [411219-batman-caped-crusader-chronicles.json](./411219-batman-caped-crusader-chronicles.json) |
 | Batman: Chaos in Gotham | 45201 | [45201-batman-chaos-in-gotham.json](./45201-batman-chaos-in-gotham.json) |
 | Batman: Dark Tomorrow | 5738 | [5738-batman-dark-tomorrow.json](./5738-batman-dark-tomorrow.json) |
 | Batman: Gotham City Racer | 44992 | [44992-batman-gotham-city-racer.json](./44992-batman-gotham-city-racer.json) |
@@ -16750,6 +16750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broke Protocol | 55660 | [55660-broke-protocol.json](./55660-broke-protocol.json) |
 | Broke Signal Badlands: A World of Desert Adventure | 280292 | [280292-broke-signal-badlands-a-world-of-desert-adventure.json](./280292-broke-signal-badlands-a-world-of-desert-adventure.json) |
 | Broke Street | 421847 | [421847-broke-street.json](./421847-broke-street.json) |
+| Broke Wizards | 411184 | [411184-broke-wizards.json](./411184-broke-wizards.json) |
 | Broken | 114723 | [114723-broken.json](./114723-broken.json) |
 | Broken | 188446 | [188446-broken.json](./188446-broken.json) |
 | Broken | 94070 | [94070-broken.json](./94070-broken.json) |
@@ -17864,6 +17865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Off-Road Racing Wild Skins | 380713 | [380713-buggy-off-road-racing-wild-skins.json](./380713-buggy-off-road-racing-wild-skins.json) |
 | Buggy Off-Road Racing: Deluxe Edition | 308799 | [308799-buggy-off-road-racing-deluxe-edition.json](./308799-buggy-off-road-racing-deluxe-edition.json) |
 | Buggy Off-Road Racing: Epic Edition | 409960 | [409960-buggy-off-road-racing-epic-edition.json](./409960-buggy-off-road-racing-epic-edition.json) |
+| Buggy Off-Road Racing: Hyper Edition | 411180 | [411180-buggy-off-road-racing-hyper-edition.json](./411180-buggy-off-road-racing-hyper-edition.json) |
 | Buggy Off-Road Racing: Max Edition | 413578 | [413578-buggy-off-road-racing-max-edition.json](./413578-buggy-off-road-racing-max-edition.json) |
 | Buggy Off-Road Racing: Platinum Edition | 317262 | [317262-buggy-off-road-racing-platinum-edition.json](./317262-buggy-off-road-racing-platinum-edition.json) |
 | Buggy Off-Road Racing: Supreme Edition | 407115 | [407115-buggy-off-road-racing-supreme-edition.json](./407115-buggy-off-road-racing-supreme-edition.json) |
