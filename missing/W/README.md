@@ -7787,6 +7787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woolfe: The Red Hood Diaries | 11647 | [11647-woolfe-the-red-hood-diaries.json](./11647-woolfe-the-red-hood-diaries.json) |
 | Woolly | 373250 | [373250-woolly.json](./373250-woolly.json) |
 | Woolly Boy And The Circus | 292582 | [292582-woolly-boy-and-the-circus.json](./292582-woolly-boy-and-the-circus.json) |
+| Woolmates | 413975 | [413975-woolmates.json](./413975-woolmates.json) |
 | Wooloo's Run Away | 282370 | [282370-wooloos-run-away.json](./282370-wooloos-run-away.json) |
 | WooLoop | 199121 | [199121-wooloop.json](./199121-wooloop.json) |
 | WooLoop: Advent 2 Pack | 319616 | [319616-wooloop-advent-2-pack.json](./319616-wooloop-advent-2-pack.json) |
