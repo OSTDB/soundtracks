@@ -2958,7 +2958,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3264,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Hearts | 264204 | [264204-king-of-hearts.json](./264204-king-of-hearts.json) |
 | King of Hell | 298671 | [298671-king-of-hell.json](./298671-king-of-hell.json) |
 | King of Heroes | 188773 | [188773-king-of-heroes.json](./188773-king-of-heroes.json) |
+| King of Holo | 405116 | [405116-king-of-holo.json](./405116-king-of-holo.json) |
 | King of Kalimpong | 203312 | [203312-king-of-kalimpong.json](./203312-king-of-kalimpong.json) |
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
 | King of Kingdoms | 224030 | [224030-king-of-kingdoms.json](./224030-king-of-kingdoms.json) |
@@ -3823,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of Soccer - Multiplayer Football Game | 100778 | [100778-kings-of-soccer-multiplayer-football-game.json](./100778-kings-of-soccer-multiplayer-football-game.json) |
 | Kings of Streets | 149402 | [149402-kings-of-streets.json](./149402-kings-of-streets.json) |
 | Kings of the Beach | 198795 | [198795-kings-of-the-beach.json](./198795-kings-of-the-beach.json) |
+| Kings of the Beach | 405048 | [405048-kings-of-the-beach.json](./405048-kings-of-the-beach.json) |
 | Kings of the Beach | 41117 | [41117-kings-of-the-beach.json](./41117-kings-of-the-beach.json) |
 | Kings of the Castle | 123693 | [123693-kings-of-the-castle.json](./123693-kings-of-the-castle.json) |
 | Kings of the Realm | 344914 | [344914-kings-of-the-realm.json](./344914-kings-of-the-realm.json) |
