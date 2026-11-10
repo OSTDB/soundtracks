@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Gems | 236298 | [236298-sacred-gems.json](./236298-sacred-gems.json) |
 | Sacred Ground | 340675 | [340675-sacred-ground.json](./340675-sacred-ground.json) |
 | Sacred Grove Solitaire | 115523 | [115523-sacred-grove-solitaire.json](./115523-sacred-grove-solitaire.json) |
+| Sacred Land | 425433 | [425433-sacred-land.json](./425433-sacred-land.json) |
 | Sacred Legend: Battle of the Gods | 182037 | [182037-sacred-legend-battle-of-the-gods.json](./182037-sacred-legend-battle-of-the-gods.json) |
 | Sacred Light: Pyre of Hubris | 382986 | [382986-sacred-light-pyre-of-hubris.json](./382986-sacred-light-pyre-of-hubris.json) |
 | Sacred Line | 60524 | [60524-sacred-line.json](./60524-sacred-line.json) |
@@ -7860,6 +7861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Shards Online | 57990 | [57990-shards-online.json](./57990-shards-online.json) |
 | Shards the Deckbuilder | 97413 | [97413-shards-the-deckbuilder.json](./97413-shards-the-deckbuilder.json) |
+| Shardwatch Dominion | 425386 | [425386-shardwatch-dominion.json](./425386-shardwatch-dominion.json) |
 | Share | 33417 | [33417-share.json](./33417-share.json) |
 | Sharecare You | 150840 | [150840-sharecare-you.json](./150840-sharecare-you.json) |
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
@@ -9482,6 +9484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot 'n' Smash | 340374 | [340374-shoot-n-smash.json](./340374-shoot-n-smash.json) |
 | Shoot & Destroy | 318527 | [318527-shoot-and-destroy.json](./318527-shoot-and-destroy.json) |
 | Shoot & Destroy X | 326169 | [326169-shoot-and-destroy-x.json](./326169-shoot-and-destroy-x.json) |
+| Shoot & jump | 425398 | [425398-shoot-and-jump.json](./425398-shoot-and-jump.json) |
 | Shoot & Sow | 271591 | [271591-shoot-and-sow.json](./271591-shoot-and-sow.json) |
 | Shoot 1UP | 35175 | [35175-shoot-1up.json](./35175-shoot-1up.json) |
 | Shoot 1UP DX | 147660 | [147660-shoot-1up-dx.json](./147660-shoot-1up-dx.json) |
@@ -9869,6 +9872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Shot Tactic | 30344 | [30344-shot-shot-tactic.json](./30344-shot-shot-tactic.json) |
 | Shot Supreme | 253856 | [253856-shot-supreme.json](./253856-shot-supreme.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
+| Shot Up: Turtle Gun Jump | 425436 | [425436-shot-up-turtle-gun-jump.json](./425436-shot-up-turtle-gun-jump.json) |
 | Shot.io | 77424 | [77424-shot-io.json](./77424-shot-io.json) |
 | Shot2048 | 185886 | [185886-shot2048.json](./185886-shot2048.json) |
 | Shota Kare! | 242518 | [242518-shota-kare.json](./242518-shota-kare.json) |
@@ -19460,6 +19464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Falchion | 271791 | [271791-soul-falchion.json](./271791-soul-falchion.json) |
 | Soul Fantasy | 191079 | [191079-soul-fantasy.json](./191079-soul-fantasy.json) |
 | Soul Fighter | 45840 | [45840-soul-fighter.json](./45840-soul-fighter.json) |
+| Soul Finders | 425423 | [425423-soul-finders.json](./425423-soul-finders.json) |
 | Soul Fjord | 51174 | [51174-soul-fjord.json](./51174-soul-fjord.json) |
 | Soul Food | 407695 | [407695-soul-food.json](./407695-soul-food.json) |
 | Soul for two | 81637 | [81637-soul-for-two.json](./81637-soul-for-two.json) |
@@ -35596,6 +35601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supply Chain Expansion | 373746 | [373746-supply-chain-expansion.json](./373746-supply-chain-expansion.json) |
 | Supply Chain Idle | 110677 | [110677-supply-chain-idle.json](./110677-supply-chain-idle.json) |
 | Supply Chained | 325325 | [325325-supply-chained.json](./325325-supply-chained.json) |
+| Support | 425434 | [425434-support.json](./425434-support.json) |
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
 | Suppress Academician | 309393 | [309393-suppress-academician.json](./309393-suppress-academician.json) |
 | Suppressed | 30976 | [30976-suppressed.json](./30976-suppressed.json) |
@@ -35617,6 +35623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suprem.io | 138488 | [138488-suprem-io.json](./138488-suprem-io.json) |
 | Supremacy 1914 | 113460 | [113460-supremacy-1914.json](./113460-supremacy-1914.json) |
 | Supremacy MMA: Unrestricted | 42708 | [42708-supremacy-mma-unrestricted.json](./42708-supremacy-mma-unrestricted.json) |
+| Supremacy: Four Paths to Power | 425392 | [425392-supremacy-four-paths-to-power.json](./425392-supremacy-four-paths-to-power.json) |
 | Supremacy: The Metaverse Game | 196789 | [196789-supremacy-the-metaverse-game.json](./196789-supremacy-the-metaverse-game.json) |
 | Supremacy: Warhammer 40,000 | 344674 | [344674-supremacy-warhammer-40-000.json](./344674-supremacy-warhammer-40-000.json) |
 | Supremacy: Your Will Be Done | 37235 | [37235-supremacy-your-will-be-done.json](./37235-supremacy-your-will-be-done.json) |
@@ -36520,6 +36527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swapfell Ascendance | 331347 | [331347-swapfell-ascendance.json](./331347-swapfell-ascendance.json) |
 | Swapfell Maelstrom | 331668 | [331668-swapfell-maelstrom.json](./331668-swapfell-maelstrom.json) |
 | SwapFell: I Hate You. | 335064 | [335064-swapfell-i-hate-you.json](./335064-swapfell-i-hate-you.json) |
+| SwapHeads! | 425428 | [425428-swapheads.json](./425428-swapheads.json) |
 | Swaplatformer | 178680 | [178680-swaplatformer.json](./178680-swaplatformer.json) |
 | Swaplette | 268813 | [268813-swaplette.json](./268813-swaplette.json) |
 | Swapmeat | 304473 | [304473-swapmeat.json](./304473-swapmeat.json) |
