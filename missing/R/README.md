@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racers' Islands: Crazy Racers | 69337 | [69337-racers-islands-crazy-racers.json](./69337-racers-islands-crazy-racers.json) |
 | RaceTrap | 287213 | [287213-racetrap.json](./287213-racetrap.json) |
 | RacetronicVR | 30746 | [30746-racetronicvr.json](./30746-racetronicvr.json) |
+| RaceWave46 | 423629 | [423629-racewave46.json](./423629-racewave46.json) |
 | Raceway | 245416 | [245416-raceway.json](./245416-raceway.json) |
 | Raceway | 257248 | [257248-raceway.json](./257248-raceway.json) |
 | Raceway: Drag & Stock Racing | 168316 | [168316-raceway-drag-and-stock-racing.json](./168316-raceway-drag-and-stock-racing.json) |
@@ -4404,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption: Eternal Quest | 34754 | [34754-redemption-eternal-quest.json](./34754-redemption-eternal-quest.json) |
 | Redemption: Liar | 65221 | [65221-redemption-liar.json](./65221-redemption-liar.json) |
 | Redemption: Saints and Sinners | 35425 | [35425-redemption-saints-and-sinners.json](./35425-redemption-saints-and-sinners.json) |
+| Redemption: The Sin Eternal | 423656 | [423656-redemption-the-sin-eternal.json](./423656-redemption-the-sin-eternal.json) |
 | Redemption: Wrath of Sin | 265568 | [265568-redemption-wrath-of-sin.json](./265568-redemption-wrath-of-sin.json) |
 | Redemption? | 265110 | [265110-redemption.json](./265110-redemption.json) |
 | Redemption's Guild | 76417 | [76417-redemptions-guild.json](./76417-redemptions-guild.json) |
@@ -11791,6 +11793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roterra 4: Magical Revolution | 234605 | [234605-roterra-4-magical-revolution.json](./234605-roterra-4-magical-revolution.json) |
 | Roterra Extreme - Great Escape | 125442 | [125442-roterra-extreme-great-escape.json](./125442-roterra-extreme-great-escape.json) |
 | Roterra: Flip the Fairytale | 114537 | [114537-roterra-flip-the-fairytale.json](./114537-roterra-flip-the-fairytale.json) |
+| Rotetra | 423640 | [423640-rotetra.json](./423640-rotetra.json) |
 | Rotfang: The House | 417563 | [417563-rotfang-the-house.json](./417563-rotfang-the-house.json) |
 | Rotfront | 404800 | [404800-rotfront.json](./404800-rotfront.json) |
 | Rotgut | 350301 | [350301-rotgut.json](./350301-rotgut.json) |
@@ -12096,6 +12099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Envoy: Campaign for the Crown - Collector's Edition | 356131 | [356131-royal-envoy-campaign-for-the-crown-collectors-edition.json](./356131-royal-envoy-campaign-for-the-crown-collectors-edition.json) |
 | Royal Escape | 71203 | [71203-royal-escape.json](./71203-royal-escape.json) |
 | Royal Farm | 254750 | [254750-royal-farm.json](./254750-royal-farm.json) |
+| Royal Flush | 423641 | [423641-royal-flush.json](./423641-royal-flush.json) |
 | Royal Flush | 79182 | [79182-royal-flush.json](./79182-royal-flush.json) |
 | Royal Flush: Princess Sidestory | 259929 | [259929-royal-flush-princess-sidestory.json](./259929-royal-flush-princess-sidestory.json) |
 | Royal Flux: The Astral Shadow Plague | 413138 | [413138-royal-flux-the-astral-shadow-plague.json](./413138-royal-flux-the-astral-shadow-plague.json) |
