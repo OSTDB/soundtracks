@@ -2580,6 +2580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Your Soul | 370187 | [370187-save-your-soul.json](./370187-save-your-soul.json) |
 | Save Yourself! | 172899 | [172899-save-yourself.json](./172899-save-yourself.json) |
 | Save: Teaser - Before the Dawn | 313463 | [313463-save-teaser-before-the-dawn.json](./313463-save-teaser-before-the-dawn.json) |
+| Savebot: The Last Garden | 428383 | [428383-savebot-the-last-garden.json](./428383-savebot-the-last-garden.json) |
 | Saved | 193249 | [193249-saved.json](./193249-saved.json) |
 | Saved by the Coupon | 377014 | [377014-saved-by-the-coupon.json](./377014-saved-by-the-coupon.json) |
 | SaveHer! | 86408 | [86408-saveher.json](./86408-saveher.json) |
@@ -8471,6 +8472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shi-Ro | 110064 | [110064-shi-ro.json](./110064-shi-ro.json) |
 | Shi's Summer Battle | 360683 | [360683-shis-summer-battle.json](./360683-shis-summer-battle.json) |
 | Shia LaBeouf: Meme Master Dating Simulator | 12076 | [12076-shia-labeouf-meme-master-dating-simulator.json](./12076-shia-labeouf-meme-master-dating-simulator.json) |
+| Shiawase Ice Cream | 428406 | [428406-shiawase-ice-cream.json](./428406-shiawase-ice-cream.json) |
 | Shiawase Kazoku-bu | 422204 | [422204-shiawase-kazoku-bu.json](./422204-shiawase-kazoku-bu.json) |
 | Shiawase no Moto | 206398 | [206398-shiawase-no-moto.json](./206398-shiawase-no-moto.json) |
 | Shiawase Shou no Kanrinin-san | 136792 | [136792-shiawase-shou-no-kanrinin-san.json](./136792-shiawase-shou-no-kanrinin-san.json) |
@@ -11115,6 +11117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silicon Foundry | 401759 | [401759-silicon-foundry.json](./401759-silicon-foundry.json) |
 | Silicon Girl | 384581 | [384581-silicon-girl.json](./384581-silicon-girl.json) |
 | Silicon Heart: AI Girl Lovestory | 380361 | [380361-silicon-heart-ai-girl-lovestory.json](./380361-silicon-heart-ai-girl-lovestory.json) |
+| Silicon Life: From Bedroom to Billion | 428388 | [428388-silicon-life-from-bedroom-to-billion.json](./428388-silicon-life-from-bedroom-to-billion.json) |
 | Silicon Magic: Umareru Mae Kara Anata Senyou?! | 77954 | [77954-silicon-magic-umareru-mae-kara-anata-senyou.json](./77954-silicon-magic-umareru-mae-kara-anata-senyou.json) |
 | Silicon Rising | 128041 | [128041-silicon-rising.json](./128041-silicon-rising.json) |
 | Silicon Scars | 382829 | [382829-silicon-scars.json](./382829-silicon-scars.json) |
@@ -19283,6 +19286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort the Cube | 106392 | [106392-sort-the-cube.json](./106392-sort-the-cube.json) |
 | Sort the Socks | 87624 | [87624-sort-the-socks.json](./87624-sort-the-socks.json) |
 | Sort The Toys | 419887 | [419887-sort-the-toys.json](./419887-sort-the-toys.json) |
+| Sort Them Cats | 428408 | [428408-sort-them-cats.json](./428408-sort-them-cats.json) |
 | Sort Them Ducks | 412357 | [412357-sort-them-ducks.json](./412357-sort-them-ducks.json) |
 | Sort Tiles | 364023 | [364023-sort-tiles.json](./364023-sort-tiles.json) |
 | Sort Your Life Out | 183218 | [183218-sort-your-life-out.json](./183218-sort-your-life-out.json) |
@@ -24577,6 +24581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid and Let Die | 57342 | [57342-squid-and-let-die.json](./57342-squid-and-let-die.json) |
 | Squid Commando | 270562 | [270562-squid-commando.json](./270562-squid-commando.json) |
 | Squid Fighter | 226613 | [226613-squid-fighter.json](./226613-squid-fighter.json) |
+| Squid Game | 428386 | [428386-squid-game.json](./428386-squid-game.json) |
 | Squid Game: Game Boy Demake | 351907 | [351907-squid-game-game-boy-demake.json](./351907-squid-game-game-boy-demake.json) |
 | Squid Game: The Game | 184603 | [184603-squid-game-the-game.json](./184603-squid-game-the-game.json) |
 | Squid Game: Unleashed | 314273 | [314273-squid-game-unleashed.json](./314273-squid-game-unleashed.json) |
@@ -32557,6 +32562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ember Kaboom | 199284 | [199284-super-ember-kaboom.json](./199284-super-ember-kaboom.json) |
 | Super Emma | 261029 | [261029-super-emma.json](./261029-super-emma.json) |
 | Super Emo Alpaca | 330761 | [330761-super-emo-alpaca.json](./330761-super-emo-alpaca.json) |
+| Super Emoji Murder Death God Labyrinth | 428435 | [428435-super-emoji-murder-death-god-labyrinth.json](./428435-super-emoji-murder-death-god-labyrinth.json) |
 | Super Engine GT Turbo SPEC | 338922 | [338922-super-engine-gt-turbo-spec.json](./338922-super-engine-gt-turbo-spec.json) |
 | Super Erect Taisen S-EX | 272335 | [272335-super-erect-taisen-s-ex.json](./272335-super-erect-taisen-s-ex.json) |
 | Super Exploding Zoo | 22775 | [22775-super-exploding-zoo.json](./22775-super-exploding-zoo.json) |
