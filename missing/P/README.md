@@ -7045,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Brothers 3D: The Case of the garden pests | 403598 | [403598-pilot-brothers-3d-the-case-of-the-garden-pests.json](./403598-pilot-brothers-3d-the-case-of-the-garden-pests.json) |
 | Pilot Down: Behind Enemy Lines | 47359 | [47359-pilot-down-behind-enemy-lines.json](./47359-pilot-down-behind-enemy-lines.json) |
 | Pilot Flight Simulation | 315919 | [315919-pilot-flight-simulation.json](./315919-pilot-flight-simulation.json) |
+| Pilot Force Simulator | 407649 | [407649-pilot-force-simulator.json](./407649-pilot-force-simulator.json) |
 | Pilot Kids | 39797 | [39797-pilot-kids.json](./39797-pilot-kids.json) |
 | Pilot Light | 319204 | [319204-pilot-light.json](./319204-pilot-light.json) |
 | Pilot Light | 96511 | [96511-pilot-light.json](./96511-pilot-light.json) |
@@ -13445,6 +13446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popil | 264314 | [264314-popil.json](./264314-popil.json) |
 | Popils | 45262 | [45262-popils.json](./45262-popils.json) |
 | Popira | 392681 | [392681-popira.json](./392681-popira.json) |
+| PoPiRoRai | 407614 | [407614-popirorai.json](./407614-popirorai.json) |
 | Popit Sanic Goo! | 320034 | [320034-popit-sanic-goo.json](./320034-popit-sanic-goo.json) |
 | PoPixel | 32487 | [32487-popixel.json](./32487-popixel.json) |
 | Poplet | 418650 | [418650-poplet.json](./418650-poplet.json) |
@@ -19628,6 +19630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles: Fish | 414498 | [414498-puzzles-fish.json](./414498-puzzles-fish.json) |
 | PuzzlesCave | 125091 | [125091-puzzlescave.json](./125091-puzzlescave.json) |
 | PuzzleScriptMis | 312684 | [312684-puzzlescriptmis.json](./312684-puzzlescriptmis.json) |
+| PuzzleSnap | 407637 | [407637-puzzlesnap.json](./407637-puzzlesnap.json) |
 | PuzzlesO | 425837 | [425837-puzzleso.json](./425837-puzzleso.json) |
 | PuzzleSpin: Patterns in Nature | 98572 | [98572-puzzlespin-patterns-in-nature.json](./98572-puzzlespin-patterns-in-nature.json) |
 | PuzzleSquare | 256606 | [256606-puzzlesquare.json](./256606-puzzlesquare.json) |
