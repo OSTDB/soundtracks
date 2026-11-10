@@ -1700,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Empire - The Marriage Voyage | 105650 | [105650-happy-empire-the-marriage-voyage.json](./105650-happy-empire-the-marriage-voyage.json) |
 | Happy Empire 2: The Lost Relic | 105989 | [105989-happy-empire-2-the-lost-relic.json](./105989-happy-empire-2-the-lost-relic.json) |
 | Happy Empire: A Bouquet for the Princess | 30918 | [30918-happy-empire-a-bouquet-for-the-princess.json](./30918-happy-empire-a-bouquet-for-the-princess.json) |
+| Happy Endings | 418081 | [418081-happy-endings.json](./418081-happy-endings.json) |
 | Happy Fall | 274388 | [274388-happy-fall.json](./274388-happy-fall.json) |
 | Happy Farm | 246337 | [246337-happy-farm.json](./246337-happy-farm.json) |
 | Happy Farm | 62236 | [62236-happy-farm.json](./62236-happy-farm.json) |
@@ -1870,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy's Clocks | 207594 | [207594-happys-clocks.json](./207594-happys-clocks.json) |
 | Happy's Humble Burger Barn | 133612 | [133612-happys-humble-burger-barn.json](./133612-happys-humble-burger-barn.json) |
 | Happy's Humble Burger Cult | 407065 | [407065-happys-humble-burger-cult.json](./407065-happys-humble-burger-cult.json) |
+| Happy's Humble Burger Cult: Trial by Fryer | 418061 | [418061-happys-humble-burger-cult-trial-by-fryer.json](./418061-happys-humble-burger-cult-trial-by-fryer.json) |
 | Happy's Humble Burger Farm | 140654 | [140654-happys-humble-burger-farm.json](./140654-happys-humble-burger-farm.json) |
 | HappyBoxDodging | 104518 | [104518-happyboxdodging.json](./104518-happyboxdodging.json) |
 | Happyface | 68623 | [68623-happyface.json](./68623-happyface.json) |
@@ -2066,6 +2068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Survival | 65811 | [65811-hardcore-survival.json](./65811-hardcore-survival.json) |
 | Hardcore Trivia | 169848 | [169848-hardcore-trivia.json](./169848-hardcore-trivia.json) |
 | Hardcore Weapon Challenge - FPS Action | 103834 | [103834-hardcore-weapon-challenge-fps-action.json](./103834-hardcore-weapon-challenge-fps-action.json) |
+| Hardcore Yet Laid-Back Hero Battle: Kamihime Ginga | 418075 | [418075-hardcore-yet-laid-back-hero-battle-kamihime-ginga.json](./418075-hardcore-yet-laid-back-hero-battle-kamihime-ginga.json) |
 | Hardcore Yet Laid-Back Hero Battle: Kamuikko-tan Passionate Edition!? | 424823 | [424823-hardcore-yet-laid-back-hero-battle-kamuikko-tan-passionate-edition.json](./424823-hardcore-yet-laid-back-hero-battle-kamuikko-tan-passionate-edition.json) |
 | Hardcore ZBoy | 59139 | [59139-hardcore-zboy.json](./59139-hardcore-zboy.json) |
 | Hardcore: The Game | 181053 | [181053-hardcore-the-game.json](./181053-hardcore-the-game.json) |
@@ -2763,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HatTrick Beginnings | 272483 | [272483-hattrick-beginnings.json](./272483-hattrick-beginnings.json) |
 | Hattrick! | 93137 | [93137-hattrick.json](./93137-hattrick.json) |
 | Hatup | 204093 | [204093-hatup.json](./204093-hatup.json) |
+| Hau'oli | 418073 | [418073-hauoli.json](./418073-hauoli.json) |
 | Haul Asteroid | 72418 | [72418-haul-asteroid.json](./72418-haul-asteroid.json) |
 | Haul Away Joe | 176393 | [176393-haul-away-joe.json](./176393-haul-away-joe.json) |
 | Haul My Home | 415256 | [415256-haul-my-home.json](./415256-haul-my-home.json) |
@@ -3761,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heatseeker | 37152 | [37152-heatseeker.json](./37152-heatseeker.json) |
 | Heatseeker | 4910 | [4910-heatseeker.json](./4910-heatseeker.json) |
 | HeatStroke | 194629 | [194629-heatstroke.json](./194629-heatstroke.json) |
+| Heatwalker | 418106 | [418106-heatwalker.json](./418106-heatwalker.json) |
 | Heatwarped | 414518 | [414518-heatwarped.json](./414518-heatwarped.json) |
 | Heatwave | 169894 | [169894-heatwave.json](./169894-heatwave.json) |
 | HeatWave | 137366 | [137366-heatwave.json](./137366-heatwave.json) |
@@ -4123,6 +4128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helena: Cloud District | 416638 | [416638-helena-cloud-district.json](./416638-helena-cloud-district.json) |
 | Helena's Flowers | 184904 | [184904-helenas-flowers.json](./184904-helenas-flowers.json) |
 | Helena's Mercenary Army: Fellows Are Cucked One by One | 82663 | [82663-helenas-mercenary-army-fellows-are-cucked-one-by-one.json](./82663-helenas-mercenary-army-fellows-are-cucked-one-by-one.json) |
+| Helena's Rejection | 418102 | [418102-helenas-rejection.json](./418102-helenas-rejection.json) |
 | Hélène est dans mon Ventre. | 310037 | [310037-helene-est-dans-mon-ventre.json](./310037-helene-est-dans-mon-ventre.json) |
 | Helenenkapelle VR | 296900 | [296900-helenenkapelle-vr.json](./296900-helenenkapelle-vr.json) |
 | Helenland | 389502 | [389502-helenland.json](./389502-helenland.json) |
@@ -8033,6 +8039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Velocity Arena | 251988 | [251988-high-velocity-arena.json](./251988-high-velocity-arena.json) |
 | High Velocity Bowling | 21816 | [21816-high-velocity-bowling.json](./21816-high-velocity-bowling.json) |
 | High Velocity: Mountain Racing Challenge | 45519 | [45519-high-velocity-mountain-racing-challenge.json](./45519-high-velocity-mountain-racing-challenge.json) |
+| High Voltage | 418103 | [418103-high-voltage.json](./418103-high-voltage.json) |
 | High Voltage | 63627 | [63627-high-voltage.json](./63627-high-voltage.json) |
 | High Voltage Hot Rod Show | 72558 | [72558-high-voltage-hot-rod-show.json](./72558-high-voltage-hot-rod-show.json) |
 | High Voltage puzzle | 121152 | [121152-high-voltage-puzzle.json](./121152-high-voltage-puzzle.json) |
