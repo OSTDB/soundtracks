@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wani Hug that Gator! | 197078 | [197078-i-wani-hug-that-gator.json](./197078-i-wani-hug-that-gator.json) |
 | I Wanna Ascend | 368702 | [368702-i-wanna-ascend.json](./368702-i-wanna-ascend.json) |
 | I Wanna Be A Game Dev! | 302083 | [302083-i-wanna-be-a-game-dev.json](./302083-i-wanna-be-a-game-dev.json) |
+| I Wanna Be Car | 402635 | [402635-i-wanna-be-car.json](./402635-i-wanna-be-car.json) |
 | I Wanna Be the Boshy | 50286 | [50286-i-wanna-be-the-boshy.json](./50286-i-wanna-be-the-boshy.json) |
 | I Wanna Be the Cat | 76580 | [76580-i-wanna-be-the-cat.json](./76580-i-wanna-be-the-cat.json) |
 | I Wanna Be the Co-op | 108829 | [108829-i-wanna-be-the-co-op.json](./108829-i-wanna-be-the-co-op.json) |
@@ -1491,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Wyrm Slayer Selise Skin & Feat Pack | 306076 | [306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json](./306076-idle-champions-wyrm-slayer-selise-skin-and-feat-pack.json) |
 | Idle Champions: Xalimnos the Xorn Familiar Pack | 285836 | [285836-idle-champions-xalimnos-the-xorn-familiar-pack.json](./285836-idle-champions-xalimnos-the-xorn-familiar-pack.json) |
 | Idle Champions: Yuan-ti Glitch Havilar Skin & Feat Pack | 313701 | [313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json](./313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json) |
+| Idle Chapel | 402628 | [402628-idle-chapel.json](./402628-idle-chapel.json) |
 | Idle Chess Story | 117793 | [117793-idle-chess-story.json](./117793-idle-chess-story.json) |
 | Idle Cinema Empire | 231937 | [231937-idle-cinema-empire.json](./231937-idle-cinema-empire.json) |
 | Idle Cinema Tycoon | 369567 | [369567-idle-cinema-tycoon.json](./369567-idle-cinema-tycoon.json) |
