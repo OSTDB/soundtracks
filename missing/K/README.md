@@ -5633,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kör Comp | 128898 | [128898-kor-comp.json](./128898-kor-comp.json) |
 | Kora: Neural Gridlock | 416569 | [416569-kora-neural-gridlock.json](./416569-kora-neural-gridlock.json) |
 | Korablik | 30317 | [30317-korablik.json](./30317-korablik.json) |
+| Koral | 105160 | [105160-koral.json](./105160-koral.json) |
 | Korax' Heritage: Scattered Evil | 200968 | [200968-korax-heritage-scattered-evil.json](./200968-korax-heritage-scattered-evil.json) |
 | Kore | 142625 | [142625-kore.json](./142625-kore.json) |
 | Kore ga Pro Yakyuu '89 | 42037 | [42037-kore-ga-pro-yakyuu-89.json](./42037-kore-ga-pro-yakyuu-89.json) |
