@@ -3443,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Squared | 176681 | [176681-jump-squared.json](./176681-jump-squared.json) |
 | Jump Start Crazy Karts | 50638 | [50638-jump-start-crazy-karts.json](./50638-jump-start-crazy-karts.json) |
 | Jump Stop | 81927 | [81927-jump-stop.json](./81927-jump-stop.json) |
+| Jump Super Stars | 28835 | [28835-jump-super-stars.json](./28835-jump-super-stars.json) |
 | Jump Tanks | 36330 | [36330-jump-tanks.json](./36330-jump-tanks.json) |
 | Jump the Car | 212618 | [212618-jump-the-car.json](./212618-jump-the-car.json) |
 | Jump the Crank | 365143 | [365143-jump-the-crank.json](./365143-jump-the-crank.json) |
