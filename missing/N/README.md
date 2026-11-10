@@ -4225,6 +4225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Jr. Go Diego Go! | 245428 | [245428-nick-jr-go-diego-go.json](./245428-nick-jr-go-diego-go.json) |
 | Nick Jr. Party Adventure | 306905 | [306905-nick-jr-party-adventure.json](./306905-nick-jr-party-adventure.json) |
 | Nick Jr. Play Math! | 210029 | [210029-nick-jr-play-math.json](./210029-nick-jr-play-math.json) |
+| Nick Jr. Replay! | 405198 | [405198-nick-jr-replay.json](./405198-nick-jr-replay.json) |
 | Nick Logic for Kids | 387331 | [387331-nick-logic-for-kids.json](./387331-nick-logic-for-kids.json) |
 | Nick Naster's eXtinction | 71877 | [71877-nick-nasters-extinction.json](./71877-nick-nasters-extinction.json) |
 | Nick Neaker | 97811 | [97811-nick-neaker.json](./97811-nick-neaker.json) |
@@ -6086,6 +6087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Love: 2009 | 399069 | [399069-no-love-2009.json](./399069-no-love-2009.json) |
 | No Luca No | 92496 | [92496-no-luca-no.json](./92496-no-luca-no.json) |
 | No Male Heroes | 74776 | [74776-no-male-heroes.json](./74776-no-male-heroes.json) |
+| No Man Can Deny | 405209 | [405209-no-man-can-deny.json](./405209-no-man-can-deny.json) |
 | No Man is an Island | 150959 | [150959-no-man-is-an-island.json](./150959-no-man-is-an-island.json) |
 | No Man's Area | 302080 | [302080-no-mans-area.json](./302080-no-mans-area.json) |
 | No Man's Home | 346645 | [346645-no-mans-home.json](./346645-no-mans-home.json) |
