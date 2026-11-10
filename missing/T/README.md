@@ -829,6 +829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Milestones 2 | 249737 | [249737-taito-milestones-2.json](./249737-taito-milestones-2.json) |
 | Taito Milestones 3 | 319646 | [319646-taito-milestones-3.json](./319646-taito-milestones-3.json) |
 | Taito Milestones 4 | 382959 | [382959-taito-milestones-4.json](./382959-taito-milestones-4.json) |
+| Taito Milestones 5 | 427291 | [427291-taito-milestones-5.json](./427291-taito-milestones-5.json) |
 | Taito Variety Pack | 79489 | [79489-taito-variety-pack.json](./79489-taito-variety-pack.json) |
 | Taival | 398552 | [398552-taival.json](./398552-taival.json) |
 | Taivas | 139574 | [139574-taivas.json](./139574-taivas.json) |
@@ -14393,6 +14394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Monkey | 177274 | [177274-the-midnight-monkey.json](./177274-the-midnight-monkey.json) |
 | The Midnight Park | 183066 | [183066-the-midnight-park.json](./183066-the-midnight-park.json) |
 | The Midnight Queens | 297411 | [297411-the-midnight-queens.json](./297411-the-midnight-queens.json) |
+| The Midnight Queens 2 | 427228 | [427228-the-midnight-queens-2.json](./427228-the-midnight-queens-2.json) |
 | The Midnight Sanctuary | 36759 | [36759-the-midnight-sanctuary.json](./36759-the-midnight-sanctuary.json) |
 | The Midnight Station | 60856 | [60856-the-midnight-station.json](./60856-the-midnight-station.json) |
 | The Midnight Town Stories: Adam's Diary | 260530 | [260530-the-midnight-town-stories-adams-diary.json](./260530-the-midnight-town-stories-adams-diary.json) |
@@ -21900,6 +21902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tideborne | 378363 | [378363-tideborne.json](./378363-tideborne.json) |
 | Tideborne Haven | 402429 | [402429-tideborne-haven.json](./402429-tideborne-haven.json) |
 | Tidebound | 282041 | [282041-tidebound.json](./282041-tidebound.json) |
+| Tidebreak | 427269 | [427269-tidebreak.json](./427269-tidebreak.json) |
 | Tidebreaker | 373568 | [373568-tidebreaker.json](./373568-tidebreaker.json) |
 | TideBroker | 398776 | [398776-tidebroker.json](./398776-tidebroker.json) |
 | Tidehaven: Ale & Trade | 349078 | [349078-tidehaven-ale-and-trade.json](./349078-tidehaven-ale-and-trade.json) |
@@ -28240,6 +28243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of God: Great Journey | 231889 | [231889-tower-of-god-great-journey.json](./231889-tower-of-god-great-journey.json) |
 | Tower of God: New World | 194110 | [194110-tower-of-god-new-world.json](./194110-tower-of-god-new-world.json) |
 | Tower of God: One Wish | 128139 | [128139-tower-of-god-one-wish.json](./128139-tower-of-god-one-wish.json) |
+| Tower of Gold | 427249 | [427249-tower-of-gold.json](./427249-tower-of-gold.json) |
 | Tower of Greed | 216326 | [216326-tower-of-greed.json](./216326-tower-of-greed.json) |
 | Tower of Grimoiria | 285829 | [285829-tower-of-grimoiria.json](./285829-tower-of-grimoiria.json) |
 | Tower of Guardian | 153946 | [153946-tower-of-guardian.json](./153946-tower-of-guardian.json) |
@@ -32435,6 +32439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trilby's Notes | 72443 | [72443-trilbys-notes.json](./72443-trilbys-notes.json) |
 | Trillenium | 295153 | [295153-trillenium.json](./295153-trillenium.json) |
 | Trillion: God of Destruction | 19445 | [19445-trillion-god-of-destruction.json](./19445-trillion-god-of-destruction.json) |
+| Trillionaire Mercenaries of 21XX | 427250 | [427250-trillionaire-mercenaries-of-21xx.json](./427250-trillionaire-mercenaries-of-21xx.json) |
 | Trillionia | 106632 | [106632-trillionia.json](./106632-trillionia.json) |
 | Trilogi Keluarga Bahagia Side Story: Sulastri Si Tukang Jamu | 319036 | [319036-trilogi-keluarga-bahagia-side-story-sulastri-si-tukang-jamu.json](./319036-trilogi-keluarga-bahagia-side-story-sulastri-si-tukang-jamu.json) |
 | Trilogi Keluarga Bahagia Side Story: Yuni dan Puzzle Ajaib | 319037 | [319037-trilogi-keluarga-bahagia-side-story-yuni-dan-puzzle-ajaib.json](./319037-trilogi-keluarga-bahagia-side-story-yuni-dan-puzzle-ajaib.json) |
