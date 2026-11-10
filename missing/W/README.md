@@ -4844,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White City Dating Sim | 394164 | [394164-white-city-dating-sim.json](./394164-white-city-dating-sim.json) |
 | White Clouds | 414152 | [414152-white-clouds.json](./414152-white-clouds.json) |
 | White Coat, Red Hands | 415479 | [415479-white-coat-red-hands.json](./415479-white-coat-red-hands.json) |
+| White Creek | 411214 | [411214-white-creek.json](./411214-white-creek.json) |
 | White Dandelion | 158698 | [158698-white-dandelion.json](./158698-white-dandelion.json) |
 | White Day 2: Swan Song | 55020 | [55020-white-day-2-swan-song.json](./55020-white-day-2-swan-song.json) |
 | White Day 2: The Flower That Tells Lies | 194137 | [194137-white-day-2-the-flower-that-tells-lies.json](./194137-white-day-2-the-flower-that-tells-lies.json) |
@@ -6183,6 +6184,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan + European Expansion + Oceania Expansion + Seasonal Decorative Pack | 275895 | [275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./275895-wingspan-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
 | Wingspan + European Expansion + Seasonal Decorative Pack | 223762 | [223762-wingspan-european-expansion-seasonal-decorative-pack.json](./223762-wingspan-european-expansion-seasonal-decorative-pack.json) |
 | Wingspan Oceania Deluxe Bundle | 331509 | [331509-wingspan-oceania-deluxe-bundle.json](./331509-wingspan-oceania-deluxe-bundle.json) |
+| Wingspan: Bird Pack - Additional Asian Avians | 411176 | [411176-wingspan-bird-pack-additional-asian-avians.json](./411176-wingspan-bird-pack-additional-asian-avians.json) |
+| Wingspan: Bird Pack - Birds of Canada | 411175 | [411175-wingspan-bird-pack-birds-of-canada.json](./411175-wingspan-bird-pack-birds-of-canada.json) |
+| Wingspan: Bird Pack - Birds of Continental Europe | 411174 | [411174-wingspan-bird-pack-birds-of-continental-europe.json](./411174-wingspan-bird-pack-birds-of-continental-europe.json) |
+| Wingspan: Bird Pack - Birds of New Zealand | 411173 | [411173-wingspan-bird-pack-birds-of-new-zealand.json](./411173-wingspan-bird-pack-birds-of-new-zealand.json) |
+| Wingspan: Bird Pack - Birds of the U.S.A. | 411172 | [411172-wingspan-bird-pack-birds-of-the-u-s-a.json](./411172-wingspan-bird-pack-birds-of-the-u-s-a.json) |
 | Wingspan: Bird Pack - British Birds | 414782 | [414782-wingspan-bird-pack-british-birds.json](./414782-wingspan-bird-pack-british-birds.json) |
 | Wingspan: European Expansion | 197499 | [197499-wingspan-european-expansion.json](./197499-wingspan-european-expansion.json) |
 | Wingspan: Oceania Expansion | 226575 | [226575-wingspan-oceania-expansion.json](./226575-wingspan-oceania-expansion.json) |
