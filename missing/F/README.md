@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabled Style | 257984 | [257984-fabled-style.json](./257984-fabled-style.json) |
 | Fabledom | 231098 | [231098-fabledom.json](./231098-fabledom.json) |
 | Fablery | 408253 | [408253-fablery.json](./408253-fablery.json) |
+| Fables from the Den | 105995 | [105995-fables-from-the-den.json](./105995-fables-from-the-den.json) |
 | Fables Mosaic: Cinderella | 296204 | [296204-fables-mosaic-cinderella.json](./296204-fables-mosaic-cinderella.json) |
 | Fables Mosaic: Little Red Riding Hood | 296205 | [296205-fables-mosaic-little-red-riding-hood.json](./296205-fables-mosaic-little-red-riding-hood.json) |
 | Fables Mosaic: Snow White and the Seven Dwarfs | 296207 | [296207-fables-mosaic-snow-white-and-the-seven-dwarfs.json](./296207-fables-mosaic-snow-white-and-the-seven-dwarfs.json) |
@@ -1015,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of Imiryn | 69257 | [69257-fall-of-imiryn.json](./69257-fall-of-imiryn.json) |
 | Fall of Jake Paul Hop World | 195085 | [195085-fall-of-jake-paul-hop-world.json](./195085-fall-of-jake-paul-hop-world.json) |
 | Fall of Light | 36504 | [36504-fall-of-light.json](./36504-fall-of-light.json) |
+| Fall of Light: Darkest Edition | 105057 | [105057-fall-of-light-darkest-edition.json](./105057-fall-of-light-darkest-edition.json) |
 | Fall of Light: Deluxe Edition | 119076 | [119076-fall-of-light-deluxe-edition.json](./119076-fall-of-light-deluxe-edition.json) |
 | Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
 | Fall Of Mankind | 336851 | [336851-fall-of-mankind.json](./336851-fall-of-mankind.json) |
@@ -3367,6 +3369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the World: Migration | 159639 | [159639-fate-of-the-world-migration.json](./159639-fate-of-the-world-migration.json) |
 | Fate of the World: Tipping Point | 27951 | [27951-fate-of-the-world-tipping-point.json](./27951-fate-of-the-world-tipping-point.json) |
 | Fate of Windshift | 154794 | [154794-fate-of-windshift.json](./154794-fate-of-windshift.json) |
+| Fate Seeker | 104899 | [104899-fate-seeker.json](./104899-fate-seeker.json) |
 | Fate Seeker II | 182359 | [182359-fate-seeker-ii.json](./182359-fate-seeker-ii.json) |
 | Fate Seeker: Journey | 228213 | [228213-fate-seeker-journey.json](./228213-fate-seeker-journey.json) |
 | Fate Seeker: Mission | 304162 | [304162-fate-seeker-mission.json](./304162-fate-seeker-mission.json) |
