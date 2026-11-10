@@ -2682,6 +2682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make It Fly! | 224014 | [224014-make-it-fly.json](./224014-make-it-fly.json) |
 | Make It Good | 60118 | [60118-make-it-good.json](./60118-make-it-good.json) |
 | Make It In Time | 214164 | [214164-make-it-in-time.json](./214164-make-it-in-time.json) |
+| Make it indie! | 35541 | [35541-make-it-indie.json](./35541-make-it-indie.json) |
 | Make It Last | 134772 | [134772-make-it-last.json](./134772-make-it-last.json) |
 | Make It Last: While You Can | 175842 | [175842-make-it-last-while-you-can.json](./175842-make-it-last-while-you-can.json) |
 | Make it Meme | 144934 | [144934-make-it-meme.json](./144934-make-it-meme.json) |
@@ -14487,6 +14488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing The Point | 397154 | [397154-missing-the-point.json](./397154-missing-the-point.json) |
 | Missing Translation | 19173 | [19173-missing-translation.json](./19173-missing-translation.json) |
 | Missing Truth | 410598 | [410598-missing-truth.json](./410598-missing-truth.json) |
+| Missing: An Interactive Thriller - Episode One | 35668 | [35668-missing-an-interactive-thriller-episode-one.json](./35668-missing-an-interactive-thriller-episode-one.json) |
 | Missing: Game for a Cause | 181200 | [181200-missing-game-for-a-cause.json](./181200-missing-game-for-a-cause.json) |
 | Missing: Itsuka Kitto | 257653 | [257653-missing-itsuka-kitto.json](./257653-missing-itsuka-kitto.json) |
 | Missing: Since January | 68204 | [68204-missing-since-january.json](./68204-missing-since-january.json) |
