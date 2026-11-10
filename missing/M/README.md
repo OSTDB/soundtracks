@@ -5937,6 +5937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Combat Challenge | 55124 | [55124-math-combat-challenge.json](./55124-math-combat-challenge.json) |
 | Math Connect PRO | 106785 | [106785-math-connect-pro.json](./106785-math-connect-pro.json) |
 | Math Duel | 251043 | [251043-math-duel.json](./251043-math-duel.json) |
+| Math Effect | 400628 | [400628-math-effect.json](./400628-math-effect.json) |
 | Math Evolve: A Fun Math Game | 175372 | [175372-math-evolve-a-fun-math-game.json](./175372-math-evolve-a-fun-math-game.json) |
 | Math Expressions | 196477 | [196477-math-expressions.json](./196477-math-expressions.json) |
 | Math Fight | 266126 | [266126-math-fight.json](./266126-math-fight.json) |
@@ -11137,6 +11138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
 | Micro Craft 2: Survival | 101151 | [101151-micro-craft-2-survival.json](./101151-micro-craft-2-survival.json) |
 | Micro Dash | 194703 | [194703-micro-dash.json](./194703-micro-dash.json) |
+| Micro Dragracers | 400635 | [400635-micro-dragracers.json](./400635-micro-dragracers.json) |
 | Micro Drive Festa | 202885 | [202885-micro-drive-festa.json](./202885-micro-drive-festa.json) |
 | Micro Gamer Shinmy | 338130 | [338130-micro-gamer-shinmy.json](./338130-micro-gamer-shinmy.json) |
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
@@ -12417,6 +12419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milk and Cookies | 132233 | [132233-milk-and-cookies.json](./132233-milk-and-cookies.json) |
 | Milk Bottle and Monster Girl | 286466 | [286466-milk-bottle-and-monster-girl.json](./286466-milk-bottle-and-monster-girl.json) |
 | Milk Bottle and Monster Girl 2 | 202212 | [202212-milk-bottle-and-monster-girl-2.json](./202212-milk-bottle-and-monster-girl-2.json) |
+| Milk Club | 400044 | [400044-milk-club.json](./400044-milk-club.json) |
 | Milk Farm | 103664 | [103664-milk-farm.json](./103664-milk-farm.json) |
 | Milk Farm Tycoon | 243708 | [243708-milk-farm-tycoon.json](./243708-milk-farm-tycoon.json) |
 | Milk Girl: Sweet Memories of Summer | 212194 | [212194-milk-girl-sweet-memories-of-summer.json](./212194-milk-girl-sweet-memories-of-summer.json) |
@@ -22666,6 +22669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myether | 184888 | [184888-myether.json](./184888-myether.json) |
 | myFishtank | 77583 | [77583-myfishtank.json](./77583-myfishtank.json) |
 | MyFloppy Online! | 203497 | [203497-myfloppy-online.json](./203497-myfloppy-online.json) |
+| MyFreeZoo Mobile | 400619 | [400619-myfreezoo-mobile.json](./400619-myfreezoo-mobile.json) |
 | MyGF: Another | 285060 | [285060-mygf-another.json](./285060-mygf-another.json) |
 | Mygnar | 151130 | [151130-mygnar.json](./151130-mygnar.json) |
 | Myha: Return to the Lost Island | 116558 | [116558-myha-return-to-the-lost-island.json](./116558-myha-return-to-the-lost-island.json) |
