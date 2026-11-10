@@ -990,6 +990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Divine Tree | 336763 | [336763-echoes-of-the-divine-tree.json](./336763-echoes-of-the-divine-tree.json) |
 | Echoes of the Emergent | 288686 | [288686-echoes-of-the-emergent.json](./288686-echoes-of-the-emergent.json) |
 | Echoes of the End | 152072 | [152072-echoes-of-the-end.json](./152072-echoes-of-the-end.json) |
+| Echoes of the End: Enhanced Edition | 411923 | [411923-echoes-of-the-end-enhanced-edition.json](./411923-echoes-of-the-end-enhanced-edition.json) |
 | Echoes of the Fey Episode 0: The Immolation | 29634 | [29634-echoes-of-the-fey-episode-0-the-immolation.json](./29634-echoes-of-the-fey-episode-0-the-immolation.json) |
 | Echoes of the Fey: The Fox's Trail | 24053 | [24053-echoes-of-the-fey-the-foxs-trail.json](./24053-echoes-of-the-fey-the-foxs-trail.json) |
 | Echoes of the Fey: The Last Sacrament | 102346 | [102346-echoes-of-the-fey-the-last-sacrament.json](./102346-echoes-of-the-fey-the-last-sacrament.json) |
@@ -2614,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Simulator 3D | 394310 | [394310-elevator-simulator-3d.json](./394310-elevator-simulator-3d.json) |
 | Elevator Warp | 295573 | [295573-elevator-warp.json](./295573-elevator-warp.json) |
 | Elevator Zero | 287996 | [287996-elevator-zero.json](./287996-elevator-zero.json) |
+| Elevator: Avici | 411906 | [411906-elevator-avici.json](./411906-elevator-avici.json) |
 | Elevator: Source | 381322 | [381322-elevator-source.json](./381322-elevator-source.json) |
 | Elevator... to the Moon! | 69457 | [69457-elevator-to-the-moon.json](./69457-elevator-to-the-moon.json) |
 | Elevator...to the Moon!: Turbo Champion's Edition | 115468 | [115468-elevator-to-the-moon-turbo-champions-edition.json](./115468-elevator-to-the-moon-turbo-champions-edition.json) |
@@ -4360,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmata: Stellar War | 118317 | [118317-enigmata-stellar-war.json](./118317-enigmata-stellar-war.json) |
 | Enigmatic Worlds | 265361 | [265361-enigmatic-worlds.json](./265361-enigmatic-worlds.json) |
 | Enigmatica 2: Expert | 255663 | [255663-enigmatica-2-expert.json](./255663-enigmatica-2-expert.json) |
+| Enigmático | 411947 | [411947-enigmatico.json](./411947-enigmatico.json) |
 | Enigmatis 2: The Mists of Ravenwood | 17138 | [17138-enigmatis-2-the-mists-of-ravenwood.json](./17138-enigmatis-2-the-mists-of-ravenwood.json) |
 | Enigmatis 3: The Shadow of Karkhala | 32291 | [32291-enigmatis-3-the-shadow-of-karkhala.json](./32291-enigmatis-3-the-shadow-of-karkhala.json) |
 | Enigmatis 3: The Shadow of Karkhala - Collector's Edition | 426075 | [426075-enigmatis-3-the-shadow-of-karkhala-collectors-edition.json](./426075-enigmatis-3-the-shadow-of-karkhala-collectors-edition.json) |
@@ -4627,6 +4630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eol-ui Moheom | 363981 | [363981-eol-ui-moheom.json](./363981-eol-ui-moheom.json) |
 | EOL: End Of Line | 303518 | [303518-eol-end-of-line.json](./303518-eol-end-of-line.json) |
 | Eolia | 204347 | [204347-eolia.json](./204347-eolia.json) |
+| Eon | 411926 | [411926-eon.json](./411926-eon.json) |
 | Eon Altar | 19867 | [19867-eon-altar.json](./19867-eon-altar.json) |
 | Eon Altar: Episode 2 - Whispers in the Catacombs | 24875 | [24875-eon-altar-episode-2-whispers-in-the-catacombs.json](./24875-eon-altar-episode-2-whispers-in-the-catacombs.json) |
 | Eon Altar: Episode 3 - The Watcher in the Dark | 174425 | [174425-eon-altar-episode-3-the-watcher-in-the-dark.json](./174425-eon-altar-episode-3-the-watcher-in-the-dark.json) |
