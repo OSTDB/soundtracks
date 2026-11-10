@@ -2502,6 +2502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Match 2 | 58142 | [58142-darts-match-2.json](./58142-darts-match-2.json) |
 | Darts of Fury | 87584 | [87584-darts-of-fury.json](./87584-darts-of-fury.json) |
 | Darts Up | 85556 | [85556-darts-up.json](./85556-darts-up.json) |
+| Darts Up 3D | 85075 | [85075-darts-up-3d.json](./85075-darts-up-3d.json) |
 | Darts VR | 52091 | [52091-darts-vr.json](./52091-darts-vr.json) |
 | Darts VR2: Bullseye | 398027 | [398027-darts-vr2-bullseye.json](./398027-darts-vr2-bullseye.json) |
 | Darts vs. Zombies | 64318 | [64318-darts-vs-zombies.json](./64318-darts-vs-zombies.json) |
@@ -7150,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densetsu no Starfy | 6370 | [6370-densetsu-no-starfy.json](./6370-densetsu-no-starfy.json) |
 | Densetsu no Starfy 2 | 6371 | [6371-densetsu-no-starfy-2.json](./6371-densetsu-no-starfy-2.json) |
 | Densetsu no Starfy 3 | 6372 | [6372-densetsu-no-starfy-3.json](./6372-densetsu-no-starfy-3.json) |
+| Densetsu no Starfy 4 | 85080 | [85080-densetsu-no-starfy-4.json](./85080-densetsu-no-starfy-4.json) |
 | Densetsu no Yuusha no Densetsu: Legendary Saga | 67000 | [67000-densetsu-no-yuusha-no-densetsu-legendary-saga.json](./67000-densetsu-no-yuusha-no-densetsu-legendary-saga.json) |
 | Densha | 109162 | [109162-densha.json](./109162-densha.json) |
 | Densha Daishuugou: Driving Train | 289740 | [289740-densha-daishuugou-driving-train.json](./289740-densha-daishuugou-driving-train.json) |
@@ -10771,6 +10773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discoverous | 109126 | [109126-discoverous.json](./109126-discoverous.json) |
 | Discoverx | 374213 | [374213-discoverx.json](./374213-discoverx.json) |
 | Discovery | 354575 | [354575-discovery.json](./354575-discovery.json) |
+| Discovery | 85562 | [85562-discovery.json](./85562-discovery.json) |
 | Discovery 2 | 398385 | [398385-discovery-2.json](./398385-discovery-2.json) |
 | Discovery Freelancer | 111445 | [111445-discovery-freelancer.json](./111445-discovery-freelancer.json) |
 | Discovery Islands | 399706 | [399706-discovery-islands.json](./399706-discovery-islands.json) |
