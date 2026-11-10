@@ -635,6 +635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Legends: Power of Three | 18308 | [18308-vampire-legends-power-of-three.json](./18308-vampire-legends-power-of-three.json) |
 | Vampire Legends: The Count of New Orleans | 101000 | [101000-vampire-legends-the-count-of-new-orleans.json](./101000-vampire-legends-the-count-of-new-orleans.json) |
 | Vampire Legends: The Count of New Orleans - Collector's Edition | 228251 | [228251-vampire-legends-the-count-of-new-orleans-collectors-edition.json](./228251-vampire-legends-the-count-of-new-orleans-collectors-edition.json) |
+| Vampire Legends: The True Story of Kisilova | 22131 | [22131-vampire-legends-the-true-story-of-kisilova.json](./22131-vampire-legends-the-true-story-of-kisilova.json) |
 | Vampire Legends: The True Story of Kisilova - Collector’s Edition | 228249 | [228249-vampire-legends-the-true-story-of-kisilova-collector-s-edition.json](./228249-vampire-legends-the-true-story-of-kisilova-collector-s-edition.json) |
 | Vampire Legends: The Untold Story of Elizabeth Bathory - Collector's Edition | 228250 | [228250-vampire-legends-the-untold-story-of-elizabeth-bathory-collectors-edition.json](./228250-vampire-legends-the-untold-story-of-elizabeth-bathory-collectors-edition.json) |
 | Vampire Lollipop | 401004 | [401004-vampire-lollipop.json](./401004-vampire-lollipop.json) |
@@ -3230,6 +3231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viva Mortis | 117734 | [117734-viva-mortis.json](./117734-viva-mortis.json) |
 | Viva Piñata | 7236 | [7236-viva-pinata.json](./7236-viva-pinata.json) |
 | Viva Piñata: Party Animals | 7237 | [7237-viva-pinata-party-animals.json](./7237-viva-pinata-party-animals.json) |
+| Viva Piñata: Pocket Paradise | 21357 | [21357-viva-pinata-pocket-paradise.json](./21357-viva-pinata-pocket-paradise.json) |
 | Viva Piñata: Trouble in Paradise | 7238 | [7238-viva-pinata-trouble-in-paradise.json](./7238-viva-pinata-trouble-in-paradise.json) |
 | Viva Project | 316814 | [316814-viva-project.json](./316814-viva-project.json) |
 | Viva Soccer | 47084 | [47084-viva-soccer.json](./47084-viva-soccer.json) |
