@@ -9657,6 +9657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Cycle | 149940 | [149940-lucid-cycle.json](./149940-lucid-cycle.json) |
 | Lucid Deep | 132774 | [132774-lucid-deep.json](./132774-lucid-deep.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
+| Lucid Dream Adventure | 89376 | [89376-lucid-dream-adventure.json](./89376-lucid-dream-adventure.json) |
 | Lucid Dream Simulator | 152573 | [152573-lucid-dream-simulator.json](./152573-lucid-dream-simulator.json) |
 | Lucid Dreams | 403918 | [403918-lucid-dreams.json](./403918-lucid-dreams.json) |
 | Lucid Echoes | 275537 | [275537-lucid-echoes.json](./275537-lucid-echoes.json) |
