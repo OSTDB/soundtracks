@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastwind Adventures: Chapter 1 | 311792 | [311792-eastwind-adventures-chapter-1.json](./311792-eastwind-adventures-chapter-1.json) |
 | EastwoodVR | 28868 | [28868-eastwoodvr.json](./28868-eastwoodvr.json) |
 | Eastwynne | 370219 | [370219-eastwynne.json](./370219-eastwynne.json) |
+| Easy | 425421 | [425421-easy.json](./425421-easy.json) |
 | Easy Bake Kitchen | 69614 | [69614-easy-bake-kitchen.json](./69614-easy-bake-kitchen.json) |
 | Easy Ball Game | 316069 | [316069-easy-ball-game.json](./316069-easy-ball-game.json) |
 | Easy Breezy Drive | 295603 | [295603-easy-breezy-drive.json](./295603-easy-breezy-drive.json) |
@@ -863,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Punk | 381634 | [381634-echo-punk.json](./381634-echo-punk.json) |
 | Echo Royale | 116784 | [116784-echo-royale.json](./116784-echo-royale.json) |
 | Echo Signal | 329101 | [329101-echo-signal.json](./329101-echo-signal.json) |
+| Echo Stalker | 425408 | [425408-echo-stalker.json](./425408-echo-stalker.json) |
 | Echo Storm | 238473 | [238473-echo-storm.json](./238473-echo-storm.json) |
 | Echo Tokyo: Phoenix | 33788 | [33788-echo-tokyo-phoenix.json](./33788-echo-tokyo-phoenix.json) |
 | Echo Tokyo: Reaper | 75757 | [75757-echo-tokyo-reaper.json](./75757-echo-tokyo-reaper.json) |
@@ -5121,6 +5123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erion | 228699 | [228699-erion.json](./228699-erion.json) |
 | Eris and the Fading Kingdom | 208589 | [208589-eris-and-the-fading-kingdom.json](./208589-eris-and-the-fading-kingdom.json) |
 | Eris Dysnomia | 253379 | [253379-eris-dysnomia.json](./253379-eris-dysnomia.json) |
+| Eris One Stand | 425427 | [425427-eris-one-stand.json](./425427-eris-one-stand.json) |
 | ErIS: Z. θ-pRogram | 263950 | [263950-eris-z-program.json](./263950-eris-z-program.json) |
 | Erisle | 32336 | [32336-erisle.json](./32336-erisle.json) |
 | Erit | 152233 | [152233-erit.json](./152233-erit.json) |
@@ -5511,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Poalet | 157376 | [157376-escape-from-poalet.json](./157376-escape-from-poalet.json) |
 | Escape from police | 114294 | [114294-escape-from-police.json](./114294-escape-from-police.json) |
 | Escape From Prison Multiplayer | 337823 | [337823-escape-from-prison-multiplayer.json](./337823-escape-from-prison-multiplayer.json) |
+| Escape From Prompt: Rogue Ai | 425419 | [425419-escape-from-prompt-rogue-ai.json](./425419-escape-from-prompt-rogue-ai.json) |
 | Escape from Pulsar 7 | 24691 | [24691-escape-from-pulsar-7.json](./24691-escape-from-pulsar-7.json) |
 | Escape from Puzzlegate | 34373 | [34373-escape-from-puzzlegate.json](./34373-escape-from-puzzlegate.json) |
 | Escape from pyramid | 95272 | [95272-escape-from-pyramid.json](./95272-escape-from-pyramid.json) |
@@ -7891,6 +7895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excessive Speed | 36921 | [36921-excessive-speed.json](./36921-excessive-speed.json) |
 | Excessive Trim | 274438 | [274438-excessive-trim.json](./274438-excessive-trim.json) |
 | Exchange Student | 252247 | [252247-exchange-student.json](./252247-exchange-student.json) |
+| Excisa | 425422 | [425422-excisa.json](./425422-excisa.json) |
 | Excised | 260223 | [260223-excised.json](./260223-excised.json) |
 | Excit | 261087 | [261087-excit.json](./261087-excit.json) |
 | Excite Bowling | 262758 | [262758-excite-bowling.json](./262758-excite-bowling.json) |
