@@ -15884,6 +15884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snatcher | 345624 | [345624-snatcher.json](./345624-snatcher.json) |
 | Snatcher | 417289 | [417289-snatcher.json](./417289-snatcher.json) |
 | Snatcher | 5451 | [5451-snatcher.json](./5451-snatcher.json) |
+| Snatcher: Peculiar Deliveries | 414944 | [414944-snatcher-peculiar-deliveries.json](./414944-snatcher-peculiar-deliveries.json) |
 | Snatchy Carrots | 280086 | [280086-snatchy-carrots.json](./280086-snatchy-carrots.json) |
 | Snave | 296000 | [296000-snave.json](./296000-snave.json) |
 | Snax Lite (Cooking Arcade) | 100230 | [100230-snax-lite-cooking-arcade.json](./100230-snax-lite-cooking-arcade.json) |
@@ -18046,6 +18047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Yummy | 349040 | [349040-songs-of-yummy.json](./349040-songs-of-yummy.json) |
 | Songs2See | 16634 | [16634-songs2see.json](./16634-songs2see.json) |
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
+| Songspot | 414935 | [414935-songspot.json](./414935-songspot.json) |
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
 | SongTrivia 2: Guess the song | 197449 | [197449-songtrivia-2-guess-the-song.json](./197449-songtrivia-2-guess-the-song.json) |
 | Sonia and the Hypnotic City | 150420 | [150420-sonia-and-the-hypnotic-city.json](./150420-sonia-and-the-hypnotic-city.json) |
@@ -27248,6 +27250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay in the Light | 118641 | [118641-stay-in-the-light.json](./118641-stay-in-the-light.json) |
 | Stay in the Moment | 371622 | [371622-stay-in-the-moment.json](./371622-stay-in-the-moment.json) |
 | Stay in the White Line: Level Version | 232051 | [232051-stay-in-the-white-line-level-version.json](./232051-stay-in-the-white-line-level-version.json) |
+| Stay in Your Lane | 414906 | [414906-stay-in-your-lane.json](./414906-stay-in-your-lane.json) |
 | Stay Lit, Find Radio | 151042 | [151042-stay-lit-find-radio.json](./151042-stay-lit-find-radio.json) |
 | Stay Mayor | 60756 | [60756-stay-mayor.json](./60756-stay-mayor.json) |
 | Stay on Board | 184556 | [184556-stay-on-board.json](./184556-stay-on-board.json) |
@@ -28736,6 +28739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stories of Submission: Enter the Cuck | 163943 | [163943-stories-of-submission-enter-the-cuck.json](./163943-stories-of-submission-enter-the-cuck.json) |
 | Stories of Submission: Learn Your Place | 169677 | [169677-stories-of-submission-learn-your-place.json](./169677-stories-of-submission-learn-your-place.json) |
 | Stories of the Dreaming World | 303009 | [303009-stories-of-the-dreaming-world.json](./303009-stories-of-the-dreaming-world.json) |
+| Stories Once Told: Echoes of Valor | 414931 | [414931-stories-once-told-echoes-of-valor.json](./414931-stories-once-told-echoes-of-valor.json) |
 | Stories One | 264678 | [264678-stories-one.json](./264678-stories-one.json) |
 | Stories School | 211073 | [211073-stories-school.json](./211073-stories-school.json) |
 | Stories to Tell: Downhill Cemetery | 295534 | [295534-stories-to-tell-downhill-cemetery.json](./295534-stories-to-tell-downhill-cemetery.json) |
