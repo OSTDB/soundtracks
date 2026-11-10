@@ -8650,6 +8650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shillelagh | 181021 | [181021-shillelagh.json](./181021-shillelagh.json) |
 | Shima Shima Tora no Shimajiro: Tanoshi Ichinichi | 54946 | [54946-shima-shima-tora-no-shimajiro-tanoshi-ichinichi.json](./54946-shima-shima-tora-no-shimajiro-tanoshi-ichinichi.json) |
 | Shimagami | 342015 | [342015-shimagami.json](./342015-shimagami.json) |
+| Shimagurashi: Island Life | 425982 | [425982-shimagurashi-island-life.json](./425982-shimagurashi-island-life.json) |
 | Shimai no Omoide | 283824 | [283824-shimai-no-omoide.json](./283824-shimai-no-omoide.json) |
 | Shimaigusa | 393339 | [393339-shimaigusa.json](./393339-shimaigusa.json) |
 | Shimaise | 109183 | [109183-shimaise.json](./109183-shimaise.json) |
@@ -10242,6 +10243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuǐhǔ Zhuàn | 138098 | [138098-shuihu-zhuan.json](./138098-shuihu-zhuan.json) |
 | Shuǐhǔ Zhuàn | 78259 | [78259-shuihu-zhuan.json](./78259-shuihu-zhuan.json) |
 | Shuǐhǔ Zhuàn zhī Qúnmó Fēngyún Lù | 295447 | [295447-shuihu-zhuan-zhi-qunmo-fengyun-lu.json](./295447-shuihu-zhuan-zhi-qunmo-fengyun-lu.json) |
+| Shuǐhǔ: Wúxiàn Jiāngshān | 425987 | [425987-shuihu-wuxian-jiangshan.json](./425987-shuihu-wuxian-jiangshan.json) |
 | Shujinkou: Akuma Quests | 366791 | [366791-shujinkou-akuma-quests.json](./366791-shujinkou-akuma-quests.json) |
 | Shujinkou: Deluxe Edition | 368778 | [368778-shujinkou-deluxe-edition.json](./368778-shujinkou-deluxe-edition.json) |
 | Shujinkou: Sabaku Arc | 368786 | [368786-shujinkou-sabaku-arc.json](./368786-shujinkou-sabaku-arc.json) |
@@ -15271,6 +15273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smiley | 403670 | [403670-smiley.json](./403670-smiley.json) |
 | Smiley Commandos | 69918 | [69918-smiley-commandos.json](./69918-smiley-commandos.json) |
 | Smiley Dusty | 325697 | [325697-smiley-dusty.json](./325697-smiley-dusty.json) |
+| Smiley Steel | 426064 | [426064-smiley-steel.json](./426064-smiley-steel.json) |
 | Smiley World: Island Challenge | 51131 | [51131-smiley-world-island-challenge.json](./51131-smiley-world-island-challenge.json) |
 | Smiley's Revenge | 140533 | [140533-smileys-revenge.json](./140533-smileys-revenge.json) |
 | Smiley's Way Out | 246263 | [246263-smileys-way-out.json](./246263-smileys-way-out.json) |
@@ -15802,6 +15805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapware ft. Tchabada | 276542 | [276542-snapware-ft-tchabada.json](./276542-snapware-ft-tchabada.json) |
 | Snapware Gun | 276538 | [276538-snapware-gun.json](./276538-snapware-gun.json) |
 | Snare | 40938 | [40938-snare.json](./40938-snare.json) |
+| Snarekin | 426053 | [426053-snarekin.json](./426053-snarekin.json) |
 | Snares of Ruin | 81750 | [81750-snares-of-ruin.json](./81750-snares-of-ruin.json) |
 | Snares of Ruin 2 | 120737 | [120737-snares-of-ruin-2.json](./120737-snares-of-ruin-2.json) |
 | Snares of Ruin Zero | 112352 | [112352-snares-of-ruin-zero.json](./112352-snares-of-ruin-zero.json) |
@@ -18893,6 +18897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic USB Online | 266353 | [266353-sonic-usb-online.json](./266353-sonic-usb-online.json) |
 | Sonic Utopia | 305281 | [305281-sonic-utopia.json](./305281-sonic-utopia.json) |
 | Sonic Valkyria: Kanon | 351564 | [351564-sonic-valkyria-kanon.json](./351564-sonic-valkyria-kanon.json) |
+| Sonic Vane | 426009 | [426009-sonic-vane.json](./426009-sonic-vane.json) |
 | Sonic Vania | 361578 | [361578-sonic-vania.json](./361578-sonic-vania.json) |
 | Sonic Velocity | 330679 | [330679-sonic-velocity.json](./330679-sonic-velocity.json) |
 | Sonic Velocity | 330682 | [330682-sonic-velocity.json](./330682-sonic-velocity.json) |
@@ -24037,6 +24042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spreadsheets & Dungeons | 400388 | [400388-spreadsheets-and-dungeons.json](./400388-spreadsheets-and-dungeons.json) |
 | Spreadstorm | 76542 | [76542-spreadstorm.json](./76542-spreadstorm.json) |
 | Spready | 302009 | [302009-spready.json](./302009-spready.json) |
+| Sprig | 425990 | [425990-sprig.json](./425990-sprig.json) |
 | Spriggan | 280118 | [280118-spriggan.json](./280118-spriggan.json) |
 | Spriggan Mark 2: Re-Terraform Project | 37616 | [37616-spriggan-mark-2-re-terraform-project.json](./37616-spriggan-mark-2-re-terraform-project.json) |
 | Spriggan Powered | 38358 | [38358-spriggan-powered.json](./38358-spriggan-powered.json) |
@@ -25234,6 +25240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Evil | 245144 | [245144-star-evil.json](./245144-star-evil.json) |
 | Star Exodus | 217306 | [217306-star-exodus.json](./217306-star-exodus.json) |
 | Star Explorers | 32051 | [32051-star-explorers.json](./32051-star-explorers.json) |
+| Star Factory | 426077 | [426077-star-factory.json](./426077-star-factory.json) |
 | Star Farmer: Warlock of the Universe | 248965 | [248965-star-farmer-warlock-of-the-universe.json](./248965-star-farmer-warlock-of-the-universe.json) |
 | Star Fetched | 194338 | [194338-star-fetched.json](./194338-star-fetched.json) |
 | Star Fetchers | 126573 | [126573-star-fetchers.json](./126573-star-fetchers.json) |
@@ -26978,6 +26985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
 | Starvoid | 2019 | [2019-starvoid.json](./2019-starvoid.json) |
 | Starvoly | 157106 | [157106-starvoly.json](./157106-starvoly.json) |
+| Starwake | 425981 | [425981-starwake.json](./425981-starwake.json) |
 | Starwalker | 36040 | [36040-starwalker.json](./36040-starwalker.json) |
 | Starwalker: Into the Cylinder | 203615 | [203615-starwalker-into-the-cylinder.json](./203615-starwalker-into-the-cylinder.json) |
 | Starward | 301139 | [301139-starward.json](./301139-starward.json) |
@@ -28539,6 +28547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonescape | 156221 | [156221-stonescape.json](./156221-stonescape.json) |
 | Stoneshard | 28649 | [28649-stoneshard.json](./28649-stoneshard.json) |
 | StoneSpace | 376436 | [376436-stonespace.json](./376436-stonespace.json) |
+| Stonestorm | 425993 | [425993-stonestorm.json](./425993-stonestorm.json) |
 | StoneStory | 339662 | [339662-stonestory.json](./339662-stonestory.json) |
 | Stonetowers | 96868 | [96868-stonetowers.json](./96868-stonetowers.json) |
 | Stoneveil | 376439 | [376439-stoneveil.json](./376439-stoneveil.json) |
@@ -28629,6 +28638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storefront | 376481 | [376481-storefront.json](./376481-storefront.json) |
 | Storefront Simulator | 326349 | [326349-storefront-simulator.json](./326349-storefront-simulator.json) |
 | Storekeeper Revenge | 220507 | [220507-storekeeper-revenge.json](./220507-storekeeper-revenge.json) |
+| Storia Online | 425988 | [425988-storia-online.json](./425988-storia-online.json) |
 | Storia Stories | 257115 | [257115-storia-stories.json](./257115-storia-stories.json) |
 | Stories | 292753 | [292753-stories.json](./292753-stories.json) |
 | Stories and More: Animal Friends | 346330 | [346330-stories-and-more-animal-friends.json](./346330-stories-and-more-animal-friends.json) |
