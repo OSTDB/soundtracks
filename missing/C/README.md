@@ -10195,6 +10195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clampship | 244413 | [244413-clampship.json](./244413-clampship.json) |
 | Clan and Crown | 402939 | [402939-clan-and-crown.json](./402939-clan-and-crown.json) |
 | Clan Duramont | 357160 | [357160-clan-duramont.json](./357160-clan-duramont.json) |
+| Clan Fall | 422405 | [422405-clan-fall.json](./422405-clan-fall.json) |
 | Clan Fantasy Adventures | 373156 | [373156-clan-fantasy-adventures.json](./373156-clan-fantasy-adventures.json) |
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan Lord | 63698 | [63698-clan-lord.json](./63698-clan-lord.json) |
@@ -10652,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Sweep | 18784 | [18784-clean-sweep.json](./18784-clean-sweep.json) |
 | Clean Sweep | 301287 | [301287-clean-sweep.json](./301287-clean-sweep.json) |
 | Clean The Sea! | 284820 | [284820-clean-the-sea.json](./284820-clean-the-sea.json) |
+| Clean Tides | 422435 | [422435-clean-tides.json](./422435-clean-tides.json) |
 | Clean Up After Your Dog | 280427 | [280427-clean-up-after-your-dog.json](./280427-clean-up-after-your-dog.json) |
 | Clean Up Crew | 360057 | [360057-clean-up-crew.json](./360057-clean-up-crew.json) |
 | Clean Up Earth | 367820 | [367820-clean-up-earth.json](./367820-clean-up-earth.json) |
@@ -16711,6 +16713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Collection | 356848 | [356848-cozy-collection.json](./356848-cozy-collection.json) |
 | Cozy Cooking: Lo-fi Beats | 338205 | [338205-cozy-cooking-lo-fi-beats.json](./338205-cozy-cooking-lo-fi-beats.json) |
 | Cozy Cooking: Tiny Tastes | 356847 | [356847-cozy-cooking-tiny-tastes.json](./356847-cozy-cooking-tiny-tastes.json) |
+| Cozy Cookmaster | 422412 | [422412-cozy-cookmaster.json](./422412-cozy-cookmaster.json) |
 | Cozy Crest | 289427 | [289427-cozy-crest.json](./289427-cozy-crest.json) |
 | Cozy Crunch | 349833 | [349833-cozy-crunch.json](./349833-cozy-crunch.json) |
 | Cozy Days | 209604 | [209604-cozy-days.json](./209604-cozy-days.json) |
