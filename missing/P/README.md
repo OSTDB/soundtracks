@@ -8970,6 +8970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Survivors: Defense | 374632 | [374632-pixel-survivors-defense.json](./374632-pixel-survivors-defense.json) |
 | Pixel Survivors: Roguelike | 204156 | [204156-pixel-survivors-roguelike.json](./204156-pixel-survivors-roguelike.json) |
 | Pixel Sweepers | 259244 | [259244-pixel-sweepers.json](./259244-pixel-sweepers.json) |
+| Pixel Sword Fish io | 89109 | [89109-pixel-sword-fish-io.json](./89109-pixel-sword-fish-io.json) |
 | Pixel Tactics Online | 148131 | [148131-pixel-tactics-online.json](./148131-pixel-tactics-online.json) |
 | Pixel Tank | 247319 | [247319-pixel-tank.json](./247319-pixel-tank.json) |
 | Pixel Tank War | 96409 | [96409-pixel-tank-war.json](./96409-pixel-tank-war.json) |
