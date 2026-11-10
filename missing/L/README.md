@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Star | 316097 | [316097-last-star.json](./316097-last-star.json) |
 | Last State | 384198 | [384198-last-state.json](./384198-last-state.json) |
 | Last Stickman : Battle Royale | 103105 | [103105-last-stickman-battle-royale.json](./103105-last-stickman-battle-royale.json) |
+| Last Stonelord | 41911 | [41911-last-stonelord.json](./41911-last-stonelord.json) |
 | Last Stop | 125631 | [125631-last-stop.json](./125631-last-stop.json) |
 | Last Stop | 345518 | [345518-last-stop.json](./345518-last-stop.json) |
 | Last Stop: Station 66 | 229610 | [229610-last-stop-station-66.json](./229610-last-stop-station-66.json) |
@@ -4694,6 +4695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life is Feudal: Forest Village | 23345 | [23345-life-is-feudal-forest-village.json](./23345-life-is-feudal-forest-village.json) |
 | Life Is Feudal: MMO | 24611 | [24611-life-is-feudal-mmo.json](./24611-life-is-feudal-mmo.json) |
 | Life is Feudal: Your Own | 9243 | [9243-life-is-feudal-your-own.json](./9243-life-is-feudal-your-own.json) |
+| Life is Hard | 34148 | [34148-life-is-hard.json](./34148-life-is-hard.json) |
 | Life Is Hard, and Then You Buy a Cactus | 178957 | [178957-life-is-hard-and-then-you-buy-a-cactus.json](./178957-life-is-hard-and-then-you-buy-a-cactus.json) |
 | Life is Magic | 64426 | [64426-life-is-magic.json](./64426-life-is-magic.json) |
 | Life Is Not the End | 156999 | [156999-life-is-not-the-end.json](./156999-life-is-not-the-end.json) |
@@ -10445,6 +10447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luòchén zhī Yù | 114382 | [114382-luochen-zhi-yu.json](./114382-luochen-zhi-yu.json) |
 | Luonnonvoimat | 390771 | [390771-luonnonvoimat.json](./390771-luonnonvoimat.json) |
 | LuoYang | 291278 | [291278-luoyang.json](./291278-luoyang.json) |
+| Lup | 34161 | [34161-lup.json](./34161-lup.json) |
 | Lupa | 190319 | [190319-lupa.json](./190319-lupa.json) |
 | Lupin III | 290867 | [290867-lupin-iii.json](./290867-lupin-iii.json) |
 | Lupin III | 46760 | [46760-lupin-iii.json](./46760-lupin-iii.json) |
