@@ -5342,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globulous | 411987 | [411987-globulous.json](./411987-globulous.json) |
 | Globy | 326061 | [326061-globy.json](./326061-globy.json) |
 | Glocal Hexcite | 37529 | [37529-glocal-hexcite.json](./37529-glocal-hexcite.json) |
+| Glocal Hexcite | 419400 | [419400-glocal-hexcite.json](./419400-glocal-hexcite.json) |
 | Glocktopus | 397195 | [397195-glocktopus.json](./397195-glocktopus.json) |
 | Gloctopus | 345682 | [345682-gloctopus.json](./345682-gloctopus.json) |
 | Gloggy | 261697 | [261697-gloggy.json](./261697-gloggy.json) |
@@ -8821,6 +8822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravi Dot | 91909 | [91909-gravi-dot.json](./91909-gravi-dot.json) |
 | Gravia | 106428 | [106428-gravia.json](./106428-gravia.json) |
 | Graviators | 202460 | [202460-graviators.json](./202460-graviators.json) |
+| Graviblocks | 419405 | [419405-graviblocks.json](./419405-graviblocks.json) |
 | Gravibots | 309613 | [309613-gravibots.json](./309613-gravibots.json) |
 | GraviCat | 409872 | [409872-gravicat.json](./409872-gravicat.json) |
 | GraviChess | 384240 | [384240-gravichess.json](./384240-gravichess.json) |
@@ -9826,6 +9828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Repair | 176986 | [176986-grim-repair.json](./176986-grim-repair.json) |
 | Grim Road | 190443 | [190443-grim-road.json](./190443-grim-road.json) |
 | Grim Seventh | 31829 | [31829-grim-seventh.json](./31829-grim-seventh.json) |
+| Grim Siege | 419395 | [419395-grim-siege.json](./419395-grim-siege.json) |
 | Grim Soul: Dark Fantasy Survival | 109131 | [109131-grim-soul-dark-fantasy-survival.json](./109131-grim-soul-dark-fantasy-survival.json) |
 | Grim Survivor | 213002 | [213002-grim-survivor.json](./213002-grim-survivor.json) |
 | Grim Swarm | 323809 | [323809-grim-swarm.json](./323809-grim-swarm.json) |
