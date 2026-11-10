@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations IV: Supernova | 247423 | [247423-galactic-civilizations-iv-supernova.json](./247423-galactic-civilizations-iv-supernova.json) |
 | Galactic Civilizations IV: Tales of Centauron | 277000 | [277000-galactic-civilizations-iv-tales-of-centauron.json](./277000-galactic-civilizations-iv-tales-of-centauron.json) |
 | Galactic Civilizations IV: Tales of the Arnor | 277001 | [277001-galactic-civilizations-iv-tales-of-the-arnor.json](./277001-galactic-civilizations-iv-tales-of-the-arnor.json) |
+| Galactic Civilizations IV: Tales of the Snathi | 396614 | [396614-galactic-civilizations-iv-tales-of-the-snathi.json](./396614-galactic-civilizations-iv-tales-of-the-snathi.json) |
 | Galactic Civilizations IV: Warlords | 277002 | [277002-galactic-civilizations-iv-warlords.json](./277002-galactic-civilizations-iv-warlords.json) |
 | Galactic Civilizations: Altarian Prophecy | 69624 | [69624-galactic-civilizations-altarian-prophecy.json](./69624-galactic-civilizations-altarian-prophecy.json) |
 | Galactic Civilizations: Deluxe Edition | 24253 | [24253-galactic-civilizations-deluxe-edition.json](./24253-galactic-civilizations-deluxe-edition.json) |
@@ -7874,6 +7875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Platformer Games Bundle | 242668 | [242668-gothic-platformer-games-bundle.json](./242668-gothic-platformer-games-bundle.json) |
 | Gothic Remake Collector's Edition | 299293 | [299293-gothic-remake-collectors-edition.json](./299293-gothic-remake-collectors-edition.json) |
 | Gothic Scythe | 377924 | [377924-gothic-scythe.json](./377924-gothic-scythe.json) |
+| Gothic Steel | 396262 | [396262-gothic-steel.json](./396262-gothic-steel.json) |
 | Gothic Survival | 201260 | [201260-gothic-survival.json](./201260-gothic-survival.json) |
 | Gothic Virtual Tabletop | 285676 | [285676-gothic-virtual-tabletop.json](./285676-gothic-virtual-tabletop.json) |
 | Gothic wa Mahou Otome | 78198 | [78198-gothic-wa-mahou-otome.json](./78198-gothic-wa-mahou-otome.json) |
