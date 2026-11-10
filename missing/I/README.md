@@ -5901,6 +5901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Io. Loki Patera. | 309280 | [309280-io-loki-patera.json](./309280-io-loki-patera.json) |
 | IOI Collection | 154503 | [154503-ioi-collection.json](./154503-ioi-collection.json) |
 | Ion | 11136 | [11136-ion.json](./11136-ion.json) |
+| Ion Assault | 10442 | [10442-ion-assault.json](./10442-ion-assault.json) |
 | Ion Assault HD | 52244 | [52244-ion-assault-hd.json](./52244-ion-assault-hd.json) |
 | Ion Fury + Aftershock | 274835 | [274835-ion-fury-aftershock.json](./274835-ion-fury-aftershock.json) |
 | Ion Fury: Aftershock | 145471 | [145471-ion-fury-aftershock.json](./145471-ion-fury-aftershock.json) |
