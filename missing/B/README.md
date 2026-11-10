@@ -998,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2194,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bangai-O | 3443 | [3443-bangai-o.json](./3443-bangai-o.json) |
 | Bangai-O HD | 21783 | [21783-bangai-o-hd.json](./21783-bangai-o-hd.json) |
 | Bangai-O HD: Missile Fury | 91845 | [91845-bangai-o-hd-missile-fury.json](./91845-bangai-o-hd-missile-fury.json) |
+| Bangai-O Spirits | 21278 | [21278-bangai-o-spirits.json](./21278-bangai-o-spirits.json) |
 | Bangalore Auto | 239991 | [239991-bangalore-auto.json](./239991-bangalore-auto.json) |
 | BangBang PewPew | 193484 | [193484-bangbang-pewpew.json](./193484-bangbang-pewpew.json) |
 | BangBangShooting | 151141 | [151141-bangbangshooting.json](./151141-bangbangshooting.json) |
@@ -3111,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul Diamond | 31952 | [31952-baseball-mogul-diamond.json](./31952-baseball-mogul-diamond.json) |
 | Baseball Navigator | 311941 | [311941-baseball-navigator.json](./311941-baseball-navigator.json) |
 | Baseball Pro's | 279700 | [279700-baseball-pros.json](./279700-baseball-pros.json) |
+| Baseball Riot | 23479 | [23479-baseball-riot.json](./23479-baseball-riot.json) |
 | Baseball Scouter | 379699 | [379699-baseball-scouter.json](./379699-baseball-scouter.json) |
 | Baseball Star | 46753 | [46753-baseball-star.json](./46753-baseball-star.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
@@ -7097,6 +7100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bet on Man | 114857 | [114857-bet-on-man.json](./114857-bet-on-man.json) |
 | Bet on Soldier: Black out Saigon | 52464 | [52464-bet-on-soldier-black-out-saigon.json](./52464-bet-on-soldier-black-out-saigon.json) |
 | Bet on Soldier: Blood of Sahara | 52463 | [52463-bet-on-soldier-blood-of-sahara.json](./52463-bet-on-soldier-blood-of-sahara.json) |
+| Bet on Soldier: Blood Sport | 22511 | [22511-bet-on-soldier-blood-sport.json](./22511-bet-on-soldier-blood-sport.json) |
 | Bet Shop Simulator | 420196 | [420196-bet-shop-simulator.json](./420196-bet-shop-simulator.json) |
 | Bet Your Brain | 292456 | [292456-bet-your-brain.json](./292456-bet-your-brain.json) |
 | Beta Bloc | 44504 | [44504-beta-bloc.json](./44504-beta-bloc.json) |
@@ -17205,6 +17209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble Nostalgie: Christmas Edition | 251124 | [251124-bubble-bobble-nostalgie-christmas-edition.json](./251124-bubble-bobble-nostalgie-christmas-edition.json) |
 | Bubble Bobble Part 2 | 273696 | [273696-bubble-bobble-part-2.json](./273696-bubble-bobble-part-2.json) |
 | Bubble Bobble Part 2 | 7801 | [7801-bubble-bobble-part-2.json](./7801-bubble-bobble-part-2.json) |
+| Bubble Bobble Plus! | 21240 | [21240-bubble-bobble-plus.json](./21240-bubble-bobble-plus.json) |
 | Bubble Bobble Revolution | 20577 | [20577-bubble-bobble-revolution.json](./20577-bubble-bobble-revolution.json) |
 | Bubble Bobble The Revival | 335465 | [335465-bubble-bobble-the-revival.json](./335465-bubble-bobble-the-revival.json) |
 | Bubble Bobble: Lost Cave | 278230 | [278230-bubble-bobble-lost-cave.json](./278230-bubble-bobble-lost-cave.json) |
@@ -17480,6 +17485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket Crusher: Gold Edition | 378854 | [378854-bucket-crusher-gold-edition.json](./378854-bucket-crusher-gold-edition.json) |
 | Bucket Crusher: Holiday Spirit | 287161 | [287161-bucket-crusher-holiday-spirit.json](./287161-bucket-crusher-holiday-spirit.json) |
 | Bucket Crusher: Worldwide Edition | 304781 | [304781-bucket-crusher-worldwide-edition.json](./304781-bucket-crusher-worldwide-edition.json) |
+| Bucket Detective | 22366 | [22366-bucket-detective.json](./22366-bucket-detective.json) |
 | Bucket Knight | 118262 | [118262-bucket-knight.json](./118262-bucket-knight.json) |
 | Bucket Knight River Adventures | 114608 | [114608-bucket-knight-river-adventures.json](./114608-bucket-knight-river-adventures.json) |
 | Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
@@ -19015,6 +19021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move Live! | 21102 | [21102-bust-a-move-live.json](./21102-bust-a-move-live.json) |
 | Bust-A-Move Millennium | 49836 | [49836-bust-a-move-millennium.json](./49836-bust-a-move-millennium.json) |
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
+| Bust-A-Move Universe | 21154 | [21154-bust-a-move-universe.json](./21154-bust-a-move-universe.json) |
 | Bust-a-Move: Deluxe | 84162 | [84162-bust-a-move-deluxe.json](./84162-bust-a-move-deluxe.json) |
 | Bust-N-Rush | 64531 | [64531-bust-n-rush.json](./64531-bust-n-rush.json) |
 | Bustafellows | 114536 | [114536-bustafellows.json](./114536-bustafellows.json) |
