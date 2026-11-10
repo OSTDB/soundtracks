@@ -9776,6 +9776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Games Of Nations: The Royal Game Of Ur | 232286 | [232286-ancient-games-of-nations-the-royal-game-of-ur.json](./232286-ancient-games-of-nations-the-royal-game-of-ur.json) |
 | Ancient Gladiators | 187251 | [187251-ancient-gladiators.json](./187251-ancient-gladiators.json) |
 | Ancient Glory | 129129 | [129129-ancient-glory.json](./129129-ancient-glory.json) |
+| Ancient Go | 32714 | [32714-ancient-go.json](./32714-ancient-go.json) |
 | Ancient Gods | 172362 | [172362-ancient-gods.json](./172362-ancient-gods.json) |
 | Ancient Guardian | 30479 | [30479-ancient-guardian.json](./30479-ancient-guardian.json) |
 | Ancient Guardians: The Dragon | 234203 | [234203-ancient-guardians-the-dragon.json](./234203-ancient-guardians-the-dragon.json) |
@@ -10040,6 +10041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Droid | 221193 | [221193-angel-droid.json](./221193-angel-droid.json) |
 | Angel Egg | 94423 | [94423-angel-egg.json](./94423-angel-egg.json) |
 | Angel Engine | 387370 | [387370-angel-engine.json](./387370-angel-engine.json) |
+| Angel Express: Tokkyu Tenshi | 32651 | [32651-angel-express-tokkyu-tenshi.json](./32651-angel-express-tokkyu-tenshi.json) |
 | Angel Garden | 393606 | [393606-angel-garden.json](./393606-angel-garden.json) |
 | Angel Gate | 242241 | [242241-angel-gate.json](./242241-angel-gate.json) |
 | Angel Graffiti S: Anata he no Profile | 253767 | [253767-angel-graffiti-s-anata-he-no-profile.json](./253767-angel-graffiti-s-anata-he-no-profile.json) |
