@@ -2740,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waves | 13547 | [13547-waves.json](./13547-waves.json) |
 | Waves ! | 104097 | [104097-waves.json](./104097-waves.json) |
 | Waves 2: Notorious | 30154 | [30154-waves-2-notorious.json](./30154-waves-2-notorious.json) |
+| Waves Ahoy! | 428431 | [428431-waves-ahoy.json](./428431-waves-ahoy.json) |
 | Waves of Chess | 383496 | [383496-waves-of-chess.json](./383496-waves-of-chess.json) |
 | Waves of Death | 155963 | [155963-waves-of-death.json](./155963-waves-of-death.json) |
 | Waves of Death VR | 132229 | [132229-waves-of-death-vr.json](./132229-waves-of-death-vr.json) |
@@ -2894,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayward Tide | 94066 | [94066-wayward-tide.json](./94066-wayward-tide.json) |
 | WaywaY | 76925 | [76925-wayway.json](./76925-wayway.json) |
 | Waznk Zahb | 320275 | [320275-waznk-zahb.json](./320275-waznk-zahb.json) |
+| WB All-Star Mayhem | 428378 | [428378-wb-all-star-mayhem.json](./428378-wb-all-star-mayhem.json) |
 | WBTR: Welcome Back to Reality | 130376 | [130376-wbtr-welcome-back-to-reality.json](./130376-wbtr-welcome-back-to-reality.json) |
 | WC | 172335 | [172335-wc.json](./172335-wc.json) |
 | WC Dream | 296385 | [296385-wc-dream.json](./296385-wc-dream.json) |
