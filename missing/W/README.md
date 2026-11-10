@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbringers of Angrul | 278246 | [278246-warbringers-of-angrul.json](./278246-warbringers-of-angrul.json) |
 | WarBrokers.io | 108120 | [108120-warbrokers-io.json](./108120-warbrokers-io.json) |
 | Warbrush | 125661 | [125661-warbrush.json](./125661-warbrush.json) |
+| Warcamp Rivals | 427845 | [427845-warcamp-rivals.json](./427845-warcamp-rivals.json) |
 | Warcana | 265477 | [265477-warcana.json](./265477-warcana.json) |
 | Warcana: Cat DLC | 357371 | [357371-warcana-cat-dlc.json](./357371-warcana-cat-dlc.json) |
 | Warcana: Dog DLC | 357370 | [357370-warcana-dog-dlc.json](./357370-warcana-dog-dlc.json) |
@@ -2597,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water We Doing? | 406626 | [406626-water-we-doing.json](./406626-water-we-doing.json) |
 | Water Wheel | 249401 | [249401-water-wheel.json](./249401-water-wheel.json) |
 | Water You Doing? | 406878 | [406878-water-you-doing.json](./406878-water-you-doing.json) |
+| Water Zero | 427812 | [427812-water-zero.json](./427812-water-zero.json) |
 | Water: Transformer | 303048 | [303048-water-transformer.json](./303048-water-transformer.json) |
 | Water's Bounty | 414804 | [414804-waters-bounty.json](./414804-waters-bounty.json) |
 | Water's Fine | 134565 | [134565-waters-fine.json](./134565-waters-fine.json) |
