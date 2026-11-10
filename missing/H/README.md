@@ -668,6 +668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Line Miami | 11748 | [11748-half-line-miami.json](./11748-half-line-miami.json) |
 | Half-Minute Hero | 21943 | [21943-half-minute-hero.json](./21943-half-minute-hero.json) |
 | Half-Minute Hero: Super Mega Neo Climax | 78458 | [78458-half-minute-hero-super-mega-neo-climax.json](./78458-half-minute-hero-super-mega-neo-climax.json) |
+| Half-Minute Hero: The Second Coming | 16550 | [16550-half-minute-hero-the-second-coming.json](./16550-half-minute-hero-the-second-coming.json) |
 | Half-Nuked | 196730 | [196730-half-nuked.json](./196730-half-nuked.json) |
 | Half-Payne | 196014 | [196014-half-payne.json](./196014-half-payne.json) |
 | Half-Rats: A Fever Dream | 319644 | [319644-half-rats-a-fever-dream.json](./319644-half-rats-a-fever-dream.json) |
@@ -3975,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heeey! Park-Boy | 142096 | [142096-heeey-park-boy.json](./142096-heeey-park-boy.json) |
 | Heffelfinger | 340425 | [340425-heffelfinger.json](./340425-heffelfinger.json) |
 | Hegemone Pass | 118726 | [118726-hegemone-pass.json](./118726-hegemone-pass.json) |
+| Hegemony Gold: Wars of Ancient Greece | 16285 | [16285-hegemony-gold-wars-of-ancient-greece.json](./16285-hegemony-gold-wars-of-ancient-greece.json) |
 | Hegemony III: Isle of Giants | 142896 | [142896-hegemony-iii-isle-of-giants.json](./142896-hegemony-iii-isle-of-giants.json) |
 | Hegemony III: The Eagle King | 142895 | [142895-hegemony-iii-the-eagle-king.json](./142895-hegemony-iii-the-eagle-king.json) |
 | Hegemony Rome: Rise of Caesar | 54099 | [54099-hegemony-rome-rise-of-caesar.json](./54099-hegemony-rome-rise-of-caesar.json) |
@@ -12217,6 +12219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans Are Pattern Finders | 179023 | [179023-humans-are-pattern-finders.json](./179023-humans-are-pattern-finders.json) |
 | Humans Are Useless | 211626 | [211626-humans-are-useless.json](./211626-humans-are-useless.json) |
 | Humans Connect | 167448 | [167448-humans-connect.json](./167448-humans-connect.json) |
+| Humans Must Answer | 16809 | [16809-humans-must-answer.json](./16809-humans-must-answer.json) |
 | Humans Took My Neighbors! | 149697 | [149697-humans-took-my-neighbors.json](./149697-humans-took-my-neighbors.json) |
 | Humans V Zombies | 160192 | [160192-humans-v-zombies.json](./160192-humans-v-zombies.json) |
 | Humans VR | 76282 | [76282-humans-vr.json](./76282-humans-vr.json) |
