@@ -3527,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 87 Aftermath: A Rolling Ball Game | 154563 | [154563-87-aftermath-a-rolling-ball-game.json](./154563-87-aftermath-a-rolling-ball-game.json) |
 | 88 at an Exhibition | 377401 | [377401-88-at-an-exhibition.json](./377401-88-at-an-exhibition.json) |
 | 88 Constellations for Wittgenstein | 352158 | [352158-88-constellations-for-wittgenstein.json](./352158-88-constellations-for-wittgenstein.json) |
+| 88 Heroes | 23501 | [23501-88-heroes.json](./23501-88-heroes.json) |
 | 88 Heroes: 98 Heroes Edition | 74315 | [74315-88-heroes-98-heroes-edition.json](./74315-88-heroes-98-heroes-edition.json) |
 | 88 Nights in the Forest | 377400 | [377400-88-nights-in-the-forest.json](./377400-88-nights-in-the-forest.json) |
 | 8874 | 216774 | [216774-8874.json](./216774-8874.json) |
