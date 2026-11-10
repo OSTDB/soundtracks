@@ -4975,6 +4975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Figure Adventure | 305960 | [305960-figure-adventure.json](./305960-figure-adventure.json) |
 | Figure Fantasy | 182491 | [182491-figure-fantasy.json](./182491-figure-fantasy.json) |
 | Figure It Out: The Tantrum Simulator | 376234 | [376234-figure-it-out-the-tantrum-simulator.json](./376234-figure-it-out-the-tantrum-simulator.json) |
+| Figure Me Out | 423068 | [423068-figure-me-out.json](./423068-figure-me-out.json) |
 | Figure of Eight | 402927 | [402927-figure-of-eight.json](./402927-figure-of-eight.json) |
 | Figure Shop Simulator | 343263 | [343263-figure-shop-simulator.json](./343263-figure-shop-simulator.json) |
 | Figure Simulator War | 122828 | [122828-figure-simulator-war.json](./122828-figure-simulator-war.json) |
@@ -7092,6 +7093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishy | 129494 | [129494-fishy.json](./129494-fishy.json) |
 | Fishy | 422039 | [422039-fishy.json](./422039-fishy.json) |
 | Fishy 3D | 139409 | [139409-fishy-3d.json](./139409-fishy-3d.json) |
+| Fishy Bar | 423095 | [423095-fishy-bar.json](./423095-fishy-bar.json) |
 | Fishy Bits 2 | 297528 | [297528-fishy-bits-2.json](./297528-fishy-bits-2.json) |
 | Fishy Business | 376818 | [376818-fishy-business.json](./376818-fishy-business.json) |
 | Fishy Business | 385373 | [385373-fishy-business.json](./385373-fishy-business.json) |
@@ -8334,6 +8336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip＊Flop: Innocence Overclock | 397244 | [397244-flip-flop-innocence-overclock.json](./397244-flip-flop-innocence-overclock.json) |
 | Flip＊Flop: Rambling Overrun | 397245 | [397245-flip-flop-rambling-overrun.json](./397245-flip-flop-rambling-overrun.json) |
 | Flip2Green | 268825 | [268825-flip2green.json](./268825-flip2green.json) |
+| FlipBaka | 423045 | [423045-flipbaka.json](./423045-flipbaka.json) |
 | Flipbomb | 371348 | [371348-flipbomb.json](./371348-flipbomb.json) |
 | FlipBook | 315831 | [315831-flipbook.json](./315831-flipbook.json) |
 | FlipBook: Canvas Pack 1 | 317927 | [317927-flipbook-canvas-pack-1.json](./317927-flipbook-canvas-pack-1.json) |
