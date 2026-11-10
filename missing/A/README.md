@@ -9945,6 +9945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
 | Andre Agassi Tennis | 369245 | [369245-andre-agassi-tennis.json](./369245-andre-agassi-tennis.json) |
 | Andre Agassi Tennis | 4525 | [4525-andre-agassi-tennis.json](./4525-andre-agassi-tennis.json) |
+| Andre Miri Cipa | 428416 | [428416-andre-miri-cipa.json](./428416-andre-miri-cipa.json) |
 | Andre Panza Kick Boxing | 42128 | [42128-andre-panza-kick-boxing.json](./42128-andre-panza-kick-boxing.json) |
 | André Ventura Dating Simulator | 300487 | [300487-andre-ventura-dating-simulator.json](./300487-andre-ventura-dating-simulator.json) |
 | Andreas Osswald's Championship Soccer 2004-2005 Edition | 27468 | [27468-andreas-osswalds-championship-soccer-2004-2005-edition.json](./27468-andreas-osswalds-championship-soccer-2004-2005-edition.json) |
@@ -16828,6 +16829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro & Suzy Go to the Beach | 234284 | [234284-astro-and-suzy-go-to-the-beach.json](./234284-astro-and-suzy-go-to-the-beach.json) |
 | Astro & Suzy Go to the Circus | 397071 | [397071-astro-and-suzy-go-to-the-circus.json](./397071-astro-and-suzy-go-to-the-circus.json) |
 | Astro Ace | 165737 | [165737-astro-ace.json](./165737-astro-ace.json) |
+| Astro Adventure: Core Hunt | 428371 | [428371-astro-adventure-core-hunt.json](./428371-astro-adventure-core-hunt.json) |
 | Astro Adventures: And the Portals of Madness | 197441 | [197441-astro-adventures-and-the-portals-of-madness.json](./197441-astro-adventures-and-the-portals-of-madness.json) |
 | Astro Aegis | 297423 | [297423-astro-aegis.json](./297423-astro-aegis.json) |
 | Astro Amigo | 399363 | [399363-astro-amigo.json](./399363-astro-amigo.json) |
@@ -17595,6 +17597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
