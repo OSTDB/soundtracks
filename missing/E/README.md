@@ -1712,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggrolls Shoot | 379881 | [379881-eggrolls-shoot.json](./379881-eggrolls-shoot.json) |
 | Eggs | 40113 | [40113-eggs.json](./40113-eggs.json) |
 | Eggs & Kings | 109302 | [109302-eggs-and-kings.json](./109302-eggs-and-kings.json) |
+| Eggs 1942 | 101362 | [101362-eggs-1942.json](./101362-eggs-1942.json) |
 | Eggs Catcher VR | 164254 | [164254-eggs-catcher-vr.json](./164254-eggs-catcher-vr.json) |
 | Eggs Must Flow | 414592 | [414592-eggs-must-flow.json](./414592-eggs-must-flow.json) |
 | Eggs Never Hurt | 410304 | [410304-eggs-never-hurt.json](./410304-eggs-never-hurt.json) |
@@ -3299,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emlith | 94957 | [94957-emlith.json](./94957-emlith.json) |
 | Emlyn Hughes Arcade Quiz | 13636 | [13636-emlyn-hughes-arcade-quiz.json](./13636-emlyn-hughes-arcade-quiz.json) |
 | Emlyn Hughes International Soccer | 13637 | [13637-emlyn-hughes-international-soccer.json](./13637-emlyn-hughes-international-soccer.json) |
+| Emma | 101253 | [101253-emma.json](./101253-emma.json) |
 | Emma Adventure | 164111 | [164111-emma-adventure.json](./164111-emma-adventure.json) |
 | Emma at the Farm | 70599 | [70599-emma-at-the-farm.json](./70599-emma-at-the-farm.json) |
 | Emma in the Mountains | 70608 | [70608-emma-in-the-mountains.json](./70608-emma-in-the-mountains.json) |
@@ -5166,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Fiction for Cyberpunk Sex | 288244 | [288244-erotic-fiction-for-cyberpunk-sex.json](./288244-erotic-fiction-for-cyberpunk-sex.json) |
 | Erotic Fiction for Fuck in Police | 294086 | [294086-erotic-fiction-for-fuck-in-police.json](./294086-erotic-fiction-for-fuck-in-police.json) |
 | Erotic Fiction for Sex Motel | 288887 | [288887-erotic-fiction-for-sex-motel.json](./288887-erotic-fiction-for-sex-motel.json) |
+| Erotic Jigsaw Challenge Vol 1 | 101366 | [101366-erotic-jigsaw-challenge-vol-1.json](./101366-erotic-jigsaw-challenge-vol-1.json) |
 | Erotic Jigsaw Challenge Vol 2 | 106541 | [106541-erotic-jigsaw-challenge-vol-2.json](./106541-erotic-jigsaw-challenge-vol-2.json) |
 | Erotic Jigsaw Puzzle | 156644 | [156644-erotic-jigsaw-puzzle.json](./156644-erotic-jigsaw-puzzle.json) |
 | Erotic Jigsaw Puzzle 2 | 150652 | [150652-erotic-jigsaw-puzzle-2.json](./150652-erotic-jigsaw-puzzle-2.json) |
