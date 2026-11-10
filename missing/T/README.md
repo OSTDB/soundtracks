@@ -4139,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenchu 3 Portable | 134329 | [134329-tenchu-3-portable.json](./134329-tenchu-3-portable.json) |
 | Tenchu Kurenai Portable | 148204 | [148204-tenchu-kurenai-portable.json](./148204-tenchu-kurenai-portable.json) |
 | Tenchu Z | 7213 | [7213-tenchu-z.json](./7213-tenchu-z.json) |
+| Tenchu: Ayame's Tale 3D | 411936 | [411936-tenchu-ayames-tale-3d.json](./411936-tenchu-ayames-tale-3d.json) |
 | Tenchu: Dark Secret | 20557 | [20557-tenchu-dark-secret.json](./20557-tenchu-dark-secret.json) |
 | Tenchu: Fatal Shadows | 19266 | [19266-tenchu-fatal-shadows.json](./19266-tenchu-fatal-shadows.json) |
 | Tenchu: Return From Darkness | 22257 | [22257-tenchu-return-from-darkness.json](./22257-tenchu-return-from-darkness.json) |
@@ -5758,6 +5759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Addams Family: Pugsley's Scavenger Hunt | 264995 | [264995-the-addams-family-pugsleys-scavenger-hunt.json](./264995-the-addams-family-pugsleys-scavenger-hunt.json) |
 | The Addams Family: Pugsley's Scavenger Hunt | 264996 | [264996-the-addams-family-pugsleys-scavenger-hunt.json](./264996-the-addams-family-pugsleys-scavenger-hunt.json) |
 | The Addams Family: Pugsley's Scavenger Hunt | 5344 | [5344-the-addams-family-pugsleys-scavenger-hunt.json](./5344-the-addams-family-pugsleys-scavenger-hunt.json) |
+| The Additional Dimension | 411890 | [411890-the-additional-dimension.json](./411890-the-additional-dimension.json) |
 | The Adjudicator | 145697 | [145697-the-adjudicator.json](./145697-the-adjudicator.json) |
 | The Adjudicator | 164906 | [164906-the-adjudicator.json](./164906-the-adjudicator.json) |
 | The Adliberum Engine | 38043 | [38043-the-adliberum-engine.json](./38043-the-adliberum-engine.json) |
@@ -6232,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aquarians | 298160 | [298160-the-aquarians.json](./298160-the-aquarians.json) |
 | The ​Aquarium Does Not Dance | 243398 | [243398-the-aquarium-does-not-dance.json](./243398-the-aquarium-does-not-dance.json) |
 | The Aquarium Does Not Dance: Special Edition | 358245 | [358245-the-aquarium-does-not-dance-special-edition.json](./358245-the-aquarium-does-not-dance-special-edition.json) |
+| The Aquarium Does Not Dance: The Idol Who Wants to Die | 411955 | [411955-the-aquarium-does-not-dance-the-idol-who-wants-to-die.json](./411955-the-aquarium-does-not-dance-the-idol-who-wants-to-die.json) |
 | The Aquarium of Luck | 85434 | [85434-the-aquarium-of-luck.json](./85434-the-aquarium-of-luck.json) |
 | The Aquatic Adventure of the Last Human | 12598 | [12598-the-aquatic-adventure-of-the-last-human.json](./12598-the-aquatic-adventure-of-the-last-human.json) |
 | The Aquatic Games: Starring James Pond and the Aquabats | 4554 | [4554-the-aquatic-games-starring-james-pond-and-the-aquabats.json](./4554-the-aquatic-games-starring-james-pond-and-the-aquabats.json) |
@@ -19234,6 +19237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unfair Platformer | 250494 | [250494-the-unfair-platformer.json](./250494-the-unfair-platformer.json) |
 | The Unfallens: Awakening | 247345 | [247345-the-unfallens-awakening.json](./247345-the-unfallens-awakening.json) |
 | The Unfamiliar Story of Grandfather's Heritage | 200821 | [200821-the-unfamiliar-story-of-grandfathers-heritage.json](./200821-the-unfamiliar-story-of-grandfathers-heritage.json) |
+| The Unfamiliars | 411922 | [411922-the-unfamiliars.json](./411922-the-unfamiliars.json) |
 | The Unfettered | 223163 | [223163-the-unfettered.json](./223163-the-unfettered.json) |
 | The Unfinished Swan | 8352 | [8352-the-unfinished-swan.json](./8352-the-unfinished-swan.json) |
 | The Unfortunate Fortune-Teller | 182653 | [182653-the-unfortunate-fortune-teller.json](./182653-the-unfortunate-fortune-teller.json) |
@@ -27040,6 +27044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tore World | 127522 | [127522-tore-world.json](./127522-tore-world.json) |
 | Torebia: Island Odyssey | 392386 | [392386-torebia-island-odyssey.json](./392386-torebia-island-odyssey.json) |
 | Torecower | 235712 | [235712-torecower.json](./235712-torecower.json) |
+| Toree & Friends Collection | 411896 | [411896-toree-and-friends-collection.json](./411896-toree-and-friends-collection.json) |
 | Toree 3D: Jumbled Jam | 194765 | [194765-toree-3d-jumbled-jam.json](./194765-toree-3d-jumbled-jam.json) |
 | Toree Genesis | 206313 | [206313-toree-genesis.json](./206313-toree-genesis.json) |
 | Toree Jolly Jam | 279783 | [279783-toree-jolly-jam.json](./279783-toree-jolly-jam.json) |
@@ -35140,6 +35145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Museum: Fantasy Finds | 351182 | [351182-two-point-museum-fantasy-finds.json](./351182-two-point-museum-fantasy-finds.json) |
 | Two Point Museum: Rides & Relics | 418502 | [418502-two-point-museum-rides-and-relics.json](./418502-two-point-museum-rides-and-relics.json) |
 | Two Point Museum: Sonic Pre-order Pack | 375175 | [375175-two-point-museum-sonic-pre-order-pack.json](./375175-two-point-museum-sonic-pre-order-pack.json) |
+| Two Point Museum: Update 5.0 | 411957 | [411957-two-point-museum-update-5-0.json](./411957-two-point-museum-update-5-0.json) |
 | Two Point Museum: Zooseum | 378210 | [378210-two-point-museum-zooseum.json](./378210-two-point-museum-zooseum.json) |
 | Two Portals: A Gemstone Puzzle Game | 247501 | [247501-two-portals-a-gemstone-puzzle-game.json](./247501-two-portals-a-gemstone-puzzle-game.json) |
 | Two Putt | 265270 | [265270-two-putt.json](./265270-two-putt.json) |
