@@ -3259,6 +3259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Blades Weaving Betwixt Brocade | 288670 | [288670-genshin-impact-blades-weaving-betwixt-brocade.json](./288670-genshin-impact-blades-weaving-betwixt-brocade.json) |
 | Genshin Impact: Day of the Flame's Return | 335597 | [335597-genshin-impact-day-of-the-flames-return.json](./335597-genshin-impact-day-of-the-flames-return.json) |
 | Genshin Impact: Duel! The Summoners' Summit! | 257480 | [257480-genshin-impact-duel-the-summoners-summit.json](./257480-genshin-impact-duel-the-summoners-summit.json) |
+| Genshin Impact: Everwinter Without Mercy | 411884 | [411884-genshin-impact-everwinter-without-mercy.json](./411884-genshin-impact-everwinter-without-mercy.json) |
 | Genshin Impact: Flowers Resplendent on the Sun-Scorched Sojourn | 310514 | [310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json](./310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json) |
 | Genshin Impact: Homeward, He Who Caught the Wind | 389652 | [389652-genshin-impact-homeward-he-who-caught-the-wind.json](./389652-genshin-impact-homeward-he-who-caught-the-wind.json) |
 | Genshin Impact: Hour of Ruin | 425451 | [425451-genshin-impact-hour-of-ruin.json](./425451-genshin-impact-hour-of-ruin.json) |
@@ -9767,6 +9768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griffin Card | 182847 | [182847-griffin-card.json](./182847-griffin-card.json) |
 | Griffin Simulator | 106778 | [106778-griffin-simulator.json](./106778-griffin-simulator.json) |
 | Griffinblade | 420010 | [420010-griffinblade.json](./420010-griffinblade.json) |
+| Griffophone | 411920 | [411920-griffophone.json](./411920-griffophone.json) |
 | Griffophone Rider | 417562 | [417562-griffophone-rider.json](./417562-griffophone-rider.json) |
 | Griftlands | 37057 | [37057-griftlands.json](./37057-griftlands.json) |
 | Griftlands: Nintendo Switch Edition | 140501 | [140501-griftlands-nintendo-switch-edition.json](./140501-griftlands-nintendo-switch-edition.json) |
