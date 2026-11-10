@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle Bug | 167672 | [167672-jigsaw-puzzle-bug.json](./167672-jigsaw-puzzle-bug.json) |
 | Jigsaw Puzzle by MobilityWare | 90982 | [90982-jigsaw-puzzle-by-mobilityware.json](./90982-jigsaw-puzzle-by-mobilityware.json) |
 | Jigsaw Puzzle Cats Kitten | 202765 | [202765-jigsaw-puzzle-cats-kitten.json](./202765-jigsaw-puzzle-cats-kitten.json) |
+| Jigsaw Puzzle Collection HD | 89112 | [89112-jigsaw-puzzle-collection-hd.json](./89112-jigsaw-puzzle-collection-hd.json) |
 | Jigsaw Puzzle Dreams | 167128 | [167128-jigsaw-puzzle-dreams.json](./167128-jigsaw-puzzle-dreams.json) |
 | Jigsaw Puzzle Dreams: Idyllic Pack | 226855 | [226855-jigsaw-puzzle-dreams-idyllic-pack.json](./226855-jigsaw-puzzle-dreams-idyllic-pack.json) |
 | Jigsaw Puzzle Dreams: Radiant Pack | 226856 | [226856-jigsaw-puzzle-dreams-radiant-pack.json](./226856-jigsaw-puzzle-dreams-radiant-pack.json) |
