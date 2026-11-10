@@ -4093,7 +4093,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5143,6 +5142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intercontinental | 131383 | [131383-intercontinental.json](./131383-intercontinental.json) |
 | Interdictor Pilot | 342035 | [342035-interdictor-pilot.json](./342035-interdictor-pilot.json) |
 | Interdimension | 191076 | [191076-interdimension.json](./191076-interdimension.json) |
+| Interdimensional Gas Station | 398081 | [398081-interdimensional-gas-station.json](./398081-interdimensional-gas-station.json) |
 | Interdimensional Lili | 379829 | [379829-interdimensional-lili.json](./379829-interdimensional-lili.json) |
 | Interea | 145759 | [145759-interea.json](./145759-interea.json) |
 | Interesting Kaizo World | 215768 | [215768-interesting-kaizo-world.json](./215768-interesting-kaizo-world.json) |
@@ -6904,6 +6904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iSwinging 2 - Record Breakers | 90498 | [90498-iswinging-2-record-breakers.json](./90498-iswinging-2-record-breakers.json) |
 | Isyium | 30551 | [30551-isyium.json](./30551-isyium.json) |
 | It Ain’t Over Till the Fat Lady Sings | 394635 | [394635-it-ain-t-over-till-the-fat-lady-sings.json](./394635-it-ain-t-over-till-the-fat-lady-sings.json) |
+| It All Began With a Bug | 397982 | [397982-it-all-began-with-a-bug.json](./397982-it-all-began-with-a-bug.json) |
 | It All Boils Down to This | 184125 | [184125-it-all-boils-down-to-this.json](./184125-it-all-boils-down-to-this.json) |
 | It All Revolves Around You | 59781 | [59781-it-all-revolves-around-you.json](./59781-it-all-revolves-around-you.json) |
 | It Belongs in a Museum | 246824 | [246824-it-belongs-in-a-museum.json](./246824-it-belongs-in-a-museum.json) |
