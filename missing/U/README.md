@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Gem | 259537 | [259537-ultimate-gem.json](./259537-ultimate-gem.json) |
 | Ultimate General: American Revolution | 277111 | [277111-ultimate-general-american-revolution.json](./277111-ultimate-general-american-revolution.json) |
 | Ultimate General: American Revolution - Premium Edition | 304390 | [304390-ultimate-general-american-revolution-premium-edition.json](./304390-ultimate-general-american-revolution-premium-edition.json) |
+| Ultimate General: Civil War | 25951 | [25951-ultimate-general-civil-war.json](./25951-ultimate-general-civil-war.json) |
 | Ultimate General: Gettysburg | 8424 | [8424-ultimate-general-gettysburg.json](./8424-ultimate-general-gettysburg.json) |
 | Ultimate Gin | 270622 | [270622-ultimate-gin.json](./270622-ultimate-gin.json) |
 | Ultimate Godspeed | 202736 | [202736-ultimate-godspeed.json](./202736-ultimate-godspeed.json) |
