@@ -12434,6 +12434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruckingenur | 146499 | [146499-ruckingenur.json](./146499-ruckingenur.json) |
 | Ruckingenur CE | 401778 | [401778-ruckingenur-ce.json](./401778-ruckingenur-ce.json) |
 | Ruckingenur II | 401777 | [401777-ruckingenur-ii.json](./401777-ruckingenur-ii.json) |
+| Ruckus Ridge VR Party | 19032 | [19032-ruckus-ridge-vr-party.json](./19032-ruckus-ridge-vr-party.json) |
 | Ruckus Rumble | 187678 | [187678-ruckus-rumble.json](./187678-ruckus-rumble.json) |
 | Rucoy 2: Mirror World MMORPG | 231916 | [231916-rucoy-2-mirror-world-mmorpg.json](./231916-rucoy-2-mirror-world-mmorpg.json) |
 | Rucoy Online | 76572 | [76572-rucoy-online.json](./76572-rucoy-online.json) |
