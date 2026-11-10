@@ -3664,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werner: Let's Go! | 269305 | [269305-werner-lets-go.json](./269305-werner-lets-go.json) |
 | Werthit | 342888 | [342888-werthit.json](./342888-werthit.json) |
 | Wes Craven's Principles of Fear | 291017 | [291017-wes-cravens-principles-of-fear.json](./291017-wes-cravens-principles-of-fear.json) |
+| WEscape | 108323 | [108323-wescape.json](./108323-wescape.json) |
 | Wesprau Senki | 167351 | [167351-wesprau-senki.json](./167351-wesprau-senki.json) |
 | West | 389685 | [389685-west.json](./389685-west.json) |
 | West Adventure | 94387 | [94387-west-adventure.json](./94387-west-adventure.json) |
@@ -4465,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where There's a Mask | 423234 | [423234-where-theres-a-mask.json](./423234-where-theres-a-mask.json) |
 | Where They Cremate the Roadkill | 68184 | [68184-where-they-cremate-the-roadkill.json](./68184-where-they-cremate-the-roadkill.json) |
 | Where They Wait | 342081 | [342081-where-they-wait.json](./342081-where-they-wait.json) |
+| Where Thoughts Go | 108660 | [108660-where-thoughts-go.json](./108660-where-thoughts-go.json) |
 | Where Thoughts Go: Resolutions | 113606 | [113606-where-thoughts-go-resolutions.json](./113606-where-thoughts-go-resolutions.json) |
 | Where Time Ends | 363568 | [363568-where-time-ends.json](./363568-where-time-ends.json) |
 | Where Time Stood Still | 12489 | [12489-where-time-stood-still.json](./12489-where-time-stood-still.json) |
