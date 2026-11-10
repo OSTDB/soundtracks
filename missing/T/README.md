@@ -1581,6 +1581,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman: The Harbinger | 149022 | [149022-talisman-the-harbinger.json](./149022-talisman-the-harbinger.json) |
 | Talisman: The Highland Expansion - Legendary Deck | 168517 | [168517-talisman-the-highland-expansion-legendary-deck.json](./168517-talisman-the-highland-expansion-legendary-deck.json) |
 | Talisman: The Horus Heresy | 18086 | [18086-talisman-the-horus-heresy.json](./18086-talisman-the-horus-heresy.json) |
+| Talisman: The Horus Heresy - Isstvan Campaign | 428411 | [428411-talisman-the-horus-heresy-isstvan-campaign.json](./428411-talisman-the-horus-heresy-isstvan-campaign.json) |
+| Talisman: The Horus Heresy - Prospero | 428413 | [428413-talisman-the-horus-heresy-prospero.json](./428413-talisman-the-horus-heresy-prospero.json) |
+| Talisman: The Horus Heresy - Shadow Crusade | 428412 | [428412-talisman-the-horus-heresy-shadow-crusade.json](./428412-talisman-the-horus-heresy-shadow-crusade.json) |
 | Talisman: The Nether Realm | 149015 | [149015-talisman-the-nether-realm.json](./149015-talisman-the-nether-realm.json) |
 | Talisman: The Realm of Souls | 149012 | [149012-talisman-the-realm-of-souls.json](./149012-talisman-the-realm-of-souls.json) |
 | Talisman: The Reaper Expansion - Legendary Deck | 168515 | [168515-talisman-the-reaper-expansion-legendary-deck.json](./168515-talisman-the-reaper-expansion-legendary-deck.json) |
@@ -12589,6 +12592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
 | The Last Goodbye | 308181 | [308181-the-last-goodbye.json](./308181-the-last-goodbye.json) |
 | The Last Grape | 240980 | [240980-the-last-grape.json](./240980-the-last-grape.json) |
+| The Last Grave Job | 428434 | [428434-the-last-grave-job.json](./428434-the-last-grave-job.json) |
 | The Last Guardian VR | 165341 | [165341-the-last-guardian-vr.json](./165341-the-last-guardian-vr.json) |
 | The Last Guardian: Collector's Edition | 38490 | [38490-the-last-guardian-collectors-edition.json](./38490-the-last-guardian-collectors-edition.json) |
 | The Last Guardian: First-Press Limited Edition | 166983 | [166983-the-last-guardian-first-press-limited-edition.json](./166983-the-last-guardian-first-press-limited-edition.json) |
@@ -24028,6 +24032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Strike | 405153 | [405153-time-strike.json](./405153-time-strike.json) |
 | Time Stripper | 57633 | [57633-time-stripper.json](./57633-time-stripper.json) |
 | Time Surfer | 22175 | [22175-time-surfer.json](./22175-time-surfer.json) |
+| Time Survivor | 428396 | [428396-time-survivor.json](./428396-time-survivor.json) |
 | Time Survivors | 232241 | [232241-time-survivors.json](./232241-time-survivors.json) |
 | Time Survivors: Chapter 0 | 258108 | [258108-time-survivors-chapter-0.json](./258108-time-survivors-chapter-0.json) |
 | Time Tails | 159509 | [159509-time-tails.json](./159509-time-tails.json) |
@@ -24467,6 +24472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Dragons | 97491 | [97491-tiny-dragons.json](./97491-tiny-dragons.json) |
 | Tiny Dream Home | 358313 | [358313-tiny-dream-home.json](./358313-tiny-dream-home.json) |
 | Tiny Duck Hunt 3D | 333170 | [333170-tiny-duck-hunt-3d.json](./333170-tiny-duck-hunt-3d.json) |
+| Tiny Dwellings | 428390 | [428390-tiny-dwellings.json](./428390-tiny-dwellings.json) |
 | Tiny Echo | 36743 | [36743-tiny-echo.json](./36743-tiny-echo.json) |
 | Tiny Eden | 346609 | [346609-tiny-eden.json](./346609-tiny-eden.json) |
 | Tiny Escape | 392270 | [392270-tiny-escape.json](./392270-tiny-escape.json) |
@@ -26415,6 +26421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonight's Special | 394814 | [394814-tonights-special.json](./394814-tonights-special.json) |
 | Tonikk Tycoon | 195455 | [195455-tonikk-tycoon.json](./195455-tonikk-tycoon.json) |
 | Tonin | 360864 | [360864-tonin.json](./360864-tonin.json) |
+| Toñita | 428419 | [428419-tonita.json](./428419-tonita.json) |
 | Tonka Construction | 7954 | [7954-tonka-construction.json](./7954-tonka-construction.json) |
 | Tonka Construction 2 | 7958 | [7958-tonka-construction-2.json](./7958-tonka-construction-2.json) |
 | Tonka Construction Site | 49992 | [49992-tonka-construction-site.json](./49992-tonka-construction-site.json) |
