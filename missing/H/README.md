@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HachikanShogi Matta Ari | 329057 | [329057-hachikanshogi-matta-ari.json](./329057-hachikanshogi-matta-ari.json) |
 | Hachinoid | 298948 | [298948-hachinoid.json](./298948-hachinoid.json) |
 | Hachishaku | 342533 | [342533-hachishaku.json](./342533-hachishaku.json) |
+| Hachishaku-sama | 399555 | [399555-hachishaku-sama.json](./399555-hachishaku-sama.json) |
 | Hachishakusama | 412501 | [412501-hachishakusama.json](./412501-hachishakusama.json) |
 | Hachoo! | 40065 | [40065-hachoo.json](./40065-hachoo.json) |
 | Hachu's Revenge | 281800 | [281800-hachus-revenge.json](./281800-hachus-revenge.json) |
@@ -10459,6 +10460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopping Mappy | 40056 | [40056-hopping-mappy.json](./40056-hopping-mappy.json) |
 | Hopping Ninja-san | 389112 | [389112-hopping-ninja-san.json](./389112-hopping-ninja-san.json) |
 | Hopping Out | 387963 | [387963-hopping-out.json](./387963-hopping-out.json) |
+| Hopping Penguin | 399559 | [399559-hopping-penguin.json](./399559-hopping-penguin.json) |
 | Hopping Road | 339591 | [339591-hopping-road.json](./339591-hopping-road.json) |
 | Hopping Up for It | 32075 | [32075-hopping-up-for-it.json](./32075-hopping-up-for-it.json) |
 | Hoppup! | 141878 | [141878-hoppup.json](./141878-hoppup.json) |
@@ -12289,6 +12291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Rights | 115792 | [115792-human-rights.json](./115792-human-rights.json) |
 | Human Rocket Person | 111700 | [111700-human-rocket-person.json](./111700-human-rocket-person.json) |
 | Human Save Plan | 234577 | [234577-human-save-plan.json](./234577-human-save-plan.json) |
+| Human Shaped | 399552 | [399552-human-shaped.json](./399552-human-shaped.json) |
 | Human Simulator | 128246 | [128246-human-simulator.json](./128246-human-simulator.json) |
 | Human Souvenir | 298369 | [298369-human-souvenir.json](./298369-human-souvenir.json) |
 | Human Spiderweb | 374230 | [374230-human-spiderweb.json](./374230-human-spiderweb.json) |
