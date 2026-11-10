@@ -10468,6 +10468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Chain | 172659 | [172659-forgotten-chain.json](./172659-forgotten-chain.json) |
 | Forgotten Chambers | 29978 | [29978-forgotten-chambers.json](./29978-forgotten-chambers.json) |
 | Forgotten Depths | 381034 | [381034-forgotten-depths.json](./381034-forgotten-depths.json) |
+| Forgotten Depths | 401982 | [401982-forgotten-depths.json](./401982-forgotten-depths.json) |
 | Forgotten Dreams | 340233 | [340233-forgotten-dreams.json](./340233-forgotten-dreams.json) |
 | Forgotten Dreams | 360865 | [360865-forgotten-dreams.json](./360865-forgotten-dreams.json) |
 | Forgotten Eras | 368499 | [368499-forgotten-eras.json](./368499-forgotten-eras.json) |
