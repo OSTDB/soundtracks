@@ -4816,6 +4816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regnum | 55987 | [55987-regnum.json](./55987-regnum.json) |
 | Regnum Idle | 390210 | [390210-regnum-idle.json](./390210-regnum-idle.json) |
 | Regola | 119593 | [119593-regola.json](./119593-regola.json) |
+| Regolith | 415662 | [415662-regolith.json](./415662-regolith.json) |
 | Regolith: Viozic Suns | 345806 | [345806-regolith-viozic-suns.json](./345806-regolith-viozic-suns.json) |
 | Regression | 391704 | [391704-regression.json](./391704-regression.json) |
 | Regret | 391791 | [391791-regret.json](./391791-regret.json) |
@@ -5547,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replics 2: Forget the Moon | 130023 | [130023-replics-2-forget-the-moon.json](./130023-replics-2-forget-the-moon.json) |
 | Replics 3 - Behind the Light | 132075 | [132075-replics-3-behind-the-light.json](./132075-replics-3-behind-the-light.json) |
 | Replicube | 331080 | [331080-replicube.json](./331080-replicube.json) |
+| Replik | 415664 | [415664-replik.json](./415664-replik.json) |
 | Replik Survivors | 266296 | [266296-replik-survivors.json](./266296-replik-survivors.json) |
 | Replika | 92274 | [92274-replika.json](./92274-replika.json) |
 | Replikant Chat | 326657 | [326657-replikant-chat.json](./326657-replikant-chat.json) |
@@ -6475,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrobloc CPC | 290318 | [290318-retrobloc-cpc.json](./290318-retrobloc-cpc.json) |
 | Retrobomber | 25520 | [25520-retrobomber.json](./25520-retrobomber.json) |
 | Retrobooster | 17574 | [17574-retrobooster.json](./17574-retrobooster.json) |
+| Retrobot | 415659 | [415659-retrobot.json](./415659-retrobot.json) |
 | Retrobound | 149506 | [149506-retrobound.json](./149506-retrobound.json) |
 | Retroboy | 60639 | [60639-retroboy.json](./60639-retroboy.json) |
 | Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
