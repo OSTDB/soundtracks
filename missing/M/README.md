@@ -11573,6 +11573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Middle-earth: Shadow of Mordor - Lord of the Hunt | 53360 | [53360-middle-earth-shadow-of-mordor-lord-of-the-hunt.json](./53360-middle-earth-shadow-of-mordor-lord-of-the-hunt.json) |
 | Middle-earth: Shadow of Mordor - The Bright Lord | 21596 | [21596-middle-earth-shadow-of-mordor-the-bright-lord.json](./21596-middle-earth-shadow-of-mordor-the-bright-lord.json) |
 | Middle-earth: Shadow of Mordor - The Power of Shadow | 289015 | [289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json](./289015-middle-earth-shadow-of-mordor-the-power-of-shadow.json) |
+| Middle-earth: Shadow of War - Blade of Galadriel | 164734 | [164734-middle-earth-shadow-of-war-blade-of-galadriel.json](./164734-middle-earth-shadow-of-war-blade-of-galadriel.json) |
 | Middle-earth: Shadow of War - Definitive Edition | 106764 | [106764-middle-earth-shadow-of-war-definitive-edition.json](./106764-middle-earth-shadow-of-war-definitive-edition.json) |
 | Middle-earth: Shadow of War - Desolation of Mordor | 164812 | [164812-middle-earth-shadow-of-war-desolation-of-mordor.json](./164812-middle-earth-shadow-of-war-desolation-of-mordor.json) |
 | Middle-earth: Shadow of War - Forthog Orcslayer | 68381 | [68381-middle-earth-shadow-of-war-forthog-orcslayer.json](./68381-middle-earth-shadow-of-war-forthog-orcslayer.json) |
@@ -18477,6 +18478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motherbird: The Dark One | 239922 | [239922-motherbird-the-dark-one.json](./239922-motherbird-the-dark-one.json) |
 | Motherbored | 293623 | [293623-motherbored.json](./293623-motherbored.json) |
 | Mothercore | 211130 | [211130-mothercore.json](./211130-mothercore.json) |
+| Mothered | 192700 | [192700-mothered.json](./192700-mothered.json) |
 | Motherflakker | 132018 | [132018-motherflakker.json](./132018-motherflakker.json) |
 | Motherfunkin | 315105 | [315105-motherfunkin.json](./315105-motherfunkin.json) |
 | Mothergunship | 27208 | [27208-mothergunship.json](./27208-mothergunship.json) |
@@ -18501,6 +18503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothlight | 54445 | [54445-mothlight.json](./54445-mothlight.json) |
 | Mothman | 277983 | [277983-mothman.json](./277983-mothman.json) |
 | Mothman's Caravan | 357401 | [357401-mothmans-caravan.json](./357401-mothmans-caravan.json) |
+| Mothmen 1966 | 176071 | [176071-mothmen-1966.json](./176071-mothmen-1966.json) |
 | Mothra Tamagotchi | 229847 | [229847-mothra-tamagotchi.json](./229847-mothra-tamagotchi.json) |
 | Moths | 387728 | [387728-moths.json](./387728-moths.json) |
 | Motian Chengwei Meimei | 403639 | [403639-motian-chengwei-meimei.json](./403639-motian-chengwei-meimei.json) |
@@ -21478,6 +21481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Heart Your Soul | 227023 | [227023-my-heart-your-soul.json](./227023-my-heart-your-soul.json) |
 | My Heaven's Dale | 343267 | [343267-my-heavens-dale.json](./343267-my-heavens-dale.json) |
 | My Helpers | 399841 | [399841-my-helpers.json](./399841-my-helpers.json) |
+| My Hero | 29133 | [29133-my-hero.json](./29133-my-hero.json) |
 | My Hero Academia All's Justice: 1-A Idol Costume Pack | 393714 | [393714-my-hero-academia-alls-justice-1-a-idol-costume-pack.json](./393714-my-hero-academia-alls-justice-1-a-idol-costume-pack.json) |
 | My Hero Academia All's Justice: 20 Costumes Pack | 393720 | [393720-my-hero-academia-alls-justice-20-costumes-pack.json](./393720-my-hero-academia-alls-justice-20-costumes-pack.json) |
 | My Hero Academia All's Justice: 7 HUD Banners Set | 393715 | [393715-my-hero-academia-alls-justice-7-hud-banners-set.json](./393715-my-hero-academia-alls-justice-7-hud-banners-set.json) |
