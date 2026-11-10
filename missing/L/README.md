@@ -10621,6 +10621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful Roommates | 367287 | [367287-lustful-roommates.json](./367287-lustful-roommates.json) |
 | Lustful Tribe | 153038 | [153038-lustful-tribe.json](./153038-lustful-tribe.json) |
 | Lustless | 241251 | [241251-lustless.json](./241251-lustless.json) |
+| Lustpunk 69 | 418720 | [418720-lustpunk-69.json](./418720-lustpunk-69.json) |
 | Lustra: Lachea’s Tale | 346790 | [346790-lustra-lachea-s-tale.json](./346790-lustra-lachea-s-tale.json) |
 | Lustration: A Detective Story | 427288 | [427288-lustration-a-detective-story.json](./427288-lustration-a-detective-story.json) |
 | Lustrous Heart | 298994 | [298994-lustrous-heart.json](./298994-lustrous-heart.json) |
