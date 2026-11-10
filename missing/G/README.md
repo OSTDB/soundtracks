@@ -2668,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geimu Chagama Monogatari | 368721 | [368721-geimu-chagama-monogatari.json](./368721-geimu-chagama-monogatari.json) |
 | Geisha | 12116 | [12116-geisha.json](./12116-geisha.json) |
 | Geisha Novia | 64058 | [64058-geisha-novia.json](./64058-geisha-novia.json) |
+| Geisha: The Secret Garden | 88111 | [88111-geisha-the-secret-garden.json](./88111-geisha-the-secret-garden.json) |
 | Geisha's Heart: Romance Among the Cherry Blossoms | 378852 | [378852-geishas-heart-romance-among-the-cherry-blossoms.json](./378852-geishas-heart-romance-among-the-cherry-blossoms.json) |
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
 | Geist Heist | 403931 | [403931-geist-heist.json](./403931-geist-heist.json) |
@@ -6269,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Wars | 347325 | [347325-god-wars.json](./347325-god-wars.json) |
 | God Wars 2 | 105055 | [105055-god-wars-2.json](./105055-god-wars-2.json) |
 | God Wars: Future Past | 25312 | [25312-god-wars-future-past.json](./25312-god-wars-future-past.json) |
+| God Wars: The Complete Legend | 86681 | [86681-god-wars-the-complete-legend.json](./86681-god-wars-the-complete-legend.json) |
 | God Will | 308862 | [308862-god-will.json](./308862-god-will.json) |
 | God Within VR | 264737 | [264737-god-within-vr.json](./264737-god-within-vr.json) |
 | God-Machine: Shogun CyberMetal Arena | 205859 | [205859-god-machine-shogun-cybermetal-arena.json](./205859-god-machine-shogun-cybermetal-arena.json) |
