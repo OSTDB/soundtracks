@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PABG: Player Anime Battlegrounds | 393107 | [393107-pabg-player-anime-battlegrounds.json](./393107-pabg-player-anime-battlegrounds.json) |
 | Pablo Let's Go Bar | 169433 | [169433-pablo-lets-go-bar.json](./169433-pablo-lets-go-bar.json) |
 | Pablo's Fruit | 98209 | [98209-pablos-fruit.json](./98209-pablos-fruit.json) |
+| Pac 'n Roll | 18328 | [18328-pac-n-roll.json](./18328-pac-n-roll.json) |
 | Pac 'n Roll Remix | 203270 | [203270-pac-n-roll-remix.json](./203270-pac-n-roll-remix.json) |
 | Pac & Pal | 18381 | [18381-pac-and-pal.json](./18381-pac-and-pal.json) |
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
@@ -127,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Guy: Christmas Edition | 62963 | [62963-pac-guy-christmas-edition.json](./62963-pac-guy-christmas-edition.json) |
 | Pac-Guy: Resurrection | 63107 | [63107-pac-guy-resurrection.json](./63107-pac-guy-resurrection.json) |
 | Pac-in-Time | 282488 | [282488-pac-in-time.json](./282488-pac-in-time.json) |
+| Pac-In-Time | 18380 | [18380-pac-in-time.json](./18380-pac-in-time.json) |
 | Pac-In-Time | 242404 | [242404-pac-in-time.json](./242404-pac-in-time.json) |
 | Pac-In-Time | 242407 | [242407-pac-in-time.json](./242407-pac-in-time.json) |
 | Pac-It | 282365 | [282365-pac-it.json](./282365-pac-it.json) |
@@ -6730,6 +6732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikku Adventure | 395181 | [395181-pikku-adventure.json](./395181-pikku-adventure.json) |
 | Pikmin | 2239 | [2239-pikmin.json](./2239-pikmin.json) |
 | Pikmin | 84696 | [84696-pikmin.json](./84696-pikmin.json) |
+| Pikmin 1 | 254334 | [254334-pikmin-1.json](./254334-pikmin-1.json) |
 | Pikmin 1 Randomizer | 263441 | [263441-pikmin-1-randomizer.json](./263441-pikmin-1-randomizer.json) |
 | Pikmin 100 | 342715 | [342715-pikmin-100.json](./342715-pikmin-100.json) |
 | Pikmin 1x3 | 313368 | [313368-pikmin-1x3.json](./313368-pikmin-1x3.json) |
@@ -15279,6 +15282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prinny Presents: NIS Classics Vol 3 | 194961 | [194961-prinny-presents-nis-classics-vol-3.json](./194961-prinny-presents-nis-classics-vol-3.json) |
 | Prinny Presents: NIS Classics Vol 3 - Deluxe Edition | 197610 | [197610-prinny-presents-nis-classics-vol-3-deluxe-edition.json](./197610-prinny-presents-nis-classics-vol-3-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Volume 2 - Deluxe Edition | 170038 | [170038-prinny-presents-nis-classics-volume-2-deluxe-edition.json](./170038-prinny-presents-nis-classics-volume-2-deluxe-edition.json) |
+| Prinny: Can I Really Be the Hero? | 19101 | [19101-prinny-can-i-really-be-the-hero.json](./19101-prinny-can-i-really-be-the-hero.json) |
 | Prinsess of Da Hell | 122305 | [122305-prinsess-of-da-hell.json](./122305-prinsess-of-da-hell.json) |
 | Print Gallery of an Artist | 399606 | [399606-print-gallery-of-an-artist.json](./399606-print-gallery-of-an-artist.json) |
 | Print I Love U | 415837 | [415837-print-i-love-u.json](./415837-print-i-love-u.json) |
@@ -17159,6 +17163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prometheus: The Fire Thief | 35433 | [35433-prometheus-the-fire-thief.json](./35433-prometheus-the-fire-thief.json) |
 | Promethium | 38983 | [38983-promethium.json](./38983-promethium.json) |
 | Promise | 277498 | [277498-promise.json](./277498-promise.json) |
+| Promise Mascot Agency | 299593 | [299593-promise-mascot-agency.json](./299593-promise-mascot-agency.json) |
 | Promise Me, You'll Live | 280803 | [280803-promise-me-youll-live.json](./280803-promise-me-youll-live.json) |
 | Promise of Lingyun | 255120 | [255120-promise-of-lingyun.json](./255120-promise-of-lingyun.json) |
 | Promise of Wizard | 153007 | [153007-promise-of-wizard.json](./153007-promise-of-wizard.json) |
