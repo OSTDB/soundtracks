@@ -3823,6 +3823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TeleMorpher | 320030 | [320030-telemorpher.json](./320030-telemorpher.json) |
 | Telemount | 413083 | [413083-telemount.json](./413083-telemount.json) |
 | Telenet Shooting Collection | 251524 | [251524-telenet-shooting-collection.json](./251524-telenet-shooting-collection.json) |
+| Telenet Shooting Collection II | 396486 | [396486-telenet-shooting-collection-ii.json](./396486-telenet-shooting-collection-ii.json) |
 | Telengard | 2879 | [2879-telengard.json](./2879-telengard.json) |
 | Telepaint | 19985 | [19985-telepaint.json](./19985-telepaint.json) |
 | Telepath of Evil | 339411 | [339411-telepath-of-evil.json](./339411-telepath-of-evil.json) |
@@ -9923,6 +9924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Final Boss | 119458 | [119458-the-final-boss.json](./119458-the-final-boss.json) |
 | The Final Boss | 201115 | [201115-the-final-boss.json](./201115-the-final-boss.json) |
 | The Final Breath | 346927 | [346927-the-final-breath.json](./346927-the-final-breath.json) |
+| The Final Chapter | 396570 | [396570-the-final-chapter.json](./396570-the-final-chapter.json) |
 | The Final Conflict | 71745 | [71745-the-final-conflict.json](./71745-the-final-conflict.json) |
 | The Final Confrontation | 273216 | [273216-the-final-confrontation.json](./273216-the-final-confrontation.json) |
 | The Final Countdown | 277318 | [277318-the-final-countdown.json](./277318-the-final-countdown.json) |
@@ -21809,6 +21811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Storm LX-3 | 137249 | [137249-thunder-storm-lx-3.json](./137249-thunder-storm-lx-3.json) |
 | Thunder Storm LX-3 & Road Blaster | 55870 | [55870-thunder-storm-lx-3-and-road-blaster.json](./55870-thunder-storm-lx-3-and-road-blaster.json) |
 | Thunder Striker | 187478 | [187478-thunder-striker.json](./187478-thunder-striker.json) |
+| Thunder Tank: Iron Shield | 396185 | [396185-thunder-tank-iron-shield.json](./396185-thunder-tank-iron-shield.json) |
 | Thunder Tier One | 35073 | [35073-thunder-tier-one.json](./35073-thunder-tier-one.json) |
 | Thunder Tiger | 334128 | [334128-thunder-tiger.json](./334128-thunder-tiger.json) |
 | Thunder Truck Rally | 20131 | [20131-thunder-truck-rally.json](./20131-thunder-truck-rally.json) |
@@ -28166,6 +28169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouhouSnowClash | 263142 | [263142-touhousnowclash.json](./263142-touhousnowclash.json) |
 | Touka Gettan: Koufuu no Ryouou | 287638 | [287638-touka-gettan-koufuu-no-ryouou.json](./287638-touka-gettan-koufuu-no-ryouou.json) |
 | Touka Gettan: Koufuu no Ryouou Deluxe Pack | 287640 | [287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json](./287640-touka-gettan-koufuu-no-ryouou-deluxe-pack.json) |
+| Toukankaku no Kuroi Toumei | 396532 | [396532-toukankaku-no-kuroi-toumei.json](./396532-toukankaku-no-kuroi-toumei.json) |
 | Touken Ranbu | 60291 | [60291-touken-ranbu.json](./60291-touken-ranbu.json) |
 | Touken Ranbu Warriors | 172433 | [172433-touken-ranbu-warriors.json](./172433-touken-ranbu-warriors.json) |
 | Touken Ranbu Warriors: Digital Deluxe Edition | 199857 | [199857-touken-ranbu-warriors-digital-deluxe-edition.json](./199857-touken-ranbu-warriors-digital-deluxe-edition.json) |
@@ -28213,6 +28217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour de France 2024 | 288855 | [288855-tour-de-france-2024.json](./288855-tour-de-france-2024.json) |
 | Tour de France 2024: Cycling Kit Pack | 316373 | [316373-tour-de-france-2024-cycling-kit-pack.json](./316373-tour-de-france-2024-cycling-kit-pack.json) |
 | Tour de France 2025 | 336720 | [336720-tour-de-france-2025.json](./336720-tour-de-france-2025.json) |
+| Tour de France 2026 | 396261 | [396261-tour-de-france-2026.json](./396261-tour-de-france-2026.json) |
 | Tour Du Monde | 277715 | [277715-tour-du-monde.json](./277715-tour-du-monde.json) |
 | Tour Manager: Secret Stories | 275365 | [275365-tour-manager-secret-stories.json](./275365-tour-manager-secret-stories.json) |
 | Tour of Duty | 259426 | [259426-tour-of-duty.json](./259426-tour-of-duty.json) |
@@ -28731,6 +28736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers, Turrets, Turtles | 236415 | [236415-towers-turrets-turtles.json](./236415-towers-turrets-turtles.json) |
 | Towers: Lord Baniff's Deceit | 49990 | [49990-towers-lord-baniffs-deceit.json](./49990-towers-lord-baniffs-deceit.json) |
 | Towerscape | 297422 | [297422-towerscape.json](./297422-towerscape.json) |
+| Towerslam | 396607 | [396607-towerslam.json](./396607-towerslam.json) |
 | Towerspell | 252514 | [252514-towerspell.json](./252514-towerspell.json) |
 | Towertale | 112938 | [112938-towertale.json](./112938-towertale.json) |
 | Towertower | 424616 | [424616-towertower.json](./424616-towertower.json) |
