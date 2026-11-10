@@ -997,7 +997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3560,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: The Caped Crusader | 12401 | [12401-batman-the-caped-crusader.json](./12401-batman-the-caped-crusader.json) |
 | Batman: The Dark Knight | 283976 | [283976-batman-the-dark-knight.json](./283976-batman-the-dark-knight.json) |
 | Batman: The Enemy Within | 51525 | [51525-batman-the-enemy-within.json](./51525-batman-the-enemy-within.json) |
+| Batman: The Enemy Within - Episode 1: The Enigma | 91033 | [91033-batman-the-enemy-within-episode-1-the-enigma.json](./91033-batman-the-enemy-within-episode-1-the-enigma.json) |
 | Batman: The Enemy Within - Episode 2: The Pact | 73262 | [73262-batman-the-enemy-within-episode-2-the-pact.json](./73262-batman-the-enemy-within-episode-2-the-pact.json) |
 | Batman: The Enemy Within - Episode 3: Fractured Mask | 80910 | [80910-batman-the-enemy-within-episode-3-fractured-mask.json](./80910-batman-the-enemy-within-episode-3-fractured-mask.json) |
 | Batman: The Enemy Within - Episode 4: What Ails You | 81123 | [81123-batman-the-enemy-within-episode-4-what-ails-you.json](./81123-batman-the-enemy-within-episode-4-what-ails-you.json) |
