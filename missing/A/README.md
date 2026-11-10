@@ -4834,6 +4834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Chaos | 231979 | [231979-age-of-chaos.json](./231979-age-of-chaos.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
 | Age of Chivalry | 18910 | [18910-age-of-chivalry.json](./18910-age-of-chivalry.json) |
+| Age of Civilizations | 100876 | [100876-age-of-civilizations.json](./100876-age-of-civilizations.json) |
 | Age of Civs | 104773 | [104773-age-of-civs.json](./104773-age-of-civs.json) |
 | Age of Clicks | 412397 | [412397-age-of-clicks.json](./412397-age-of-clicks.json) |
 | Age of Conan: Rise of the Godslayer | 588 | [588-age-of-conan-rise-of-the-godslayer.json](./588-age-of-conan-rise-of-the-godslayer.json) |
