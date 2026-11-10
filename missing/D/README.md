@@ -3789,6 +3789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead End Escape | 406068 | [406068-dead-end-escape.json](./406068-dead-end-escape.json) |
 | Dead End Exit 8 | 288027 | [288027-dead-end-exit-8.json](./288027-dead-end-exit-8.json) |
 | Dead End Job | 27803 | [27803-dead-end-job.json](./27803-dead-end-job.json) |
+| Dead End Job | 396249 | [396249-dead-end-job.json](./396249-dead-end-job.json) |
 | Dead End Junction #1 Good Day to Migration | 65392 | [65392-dead-end-junction-1-good-day-to-migration.json](./65392-dead-end-junction-1-good-day-to-migration.json) |
 | Dead End Junction #2 Deadman's Bullet | 95411 | [95411-dead-end-junction-2-deadmans-bullet.json](./95411-dead-end-junction-2-deadmans-bullet.json) |
 | Dead End Junction #3: The Outlaws | 58093 | [58093-dead-end-junction-3-the-outlaws.json](./58093-dead-end-junction-3-the-outlaws.json) |
@@ -4358,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline | 185412 | [185412-deadline.json](./185412-deadline.json) |
 | Deadline | 357729 | [357729-deadline.json](./357729-deadline.json) |
 | Deadline | 376825 | [376825-deadline.json](./376825-deadline.json) |
+| Deadline | 396250 | [396250-deadline.json](./396250-deadline.json) |
 | Deadline | 71392 | [71392-deadline.json](./71392-deadline.json) |
 | Deadline | 7564 | [7564-deadline.json](./7564-deadline.json) |
 | Deadline Day | 421245 | [421245-deadline-day.json](./421245-deadline-day.json) |
@@ -9515,6 +9517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Differently Fast | 74519 | [74519-differently-fast.json](./74519-differently-fast.json) |
 | Differlands | 257705 | [257705-differlands.json](./257705-differlands.json) |
 | Difficult | 399873 | [399873-difficult.json](./399873-difficult.json) |
+| Difficult Climbing Game | 396603 | [396603-difficult-climbing-game.json](./396603-difficult-climbing-game.json) |
 | Difficult Platformer Game | 148804 | [148804-difficult-platformer-game.json](./148804-difficult-platformer-game.json) |
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
 | Difficult Times 2 | 360879 | [360879-difficult-times-2.json](./360879-difficult-times-2.json) |
@@ -16608,6 +16611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Slasher | 34033 | [34033-draw-slasher.json](./34033-draw-slasher.json) |
 | Draw Something 2 | 38913 | [38913-draw-something-2.json](./38913-draw-something-2.json) |
 | Draw Souls | 54488 | [54488-draw-souls.json](./54488-draw-souls.json) |
+| Draw Steel | 396612 | [396612-draw-steel.json](./396612-draw-steel.json) |
 | Draw Stuff | 65043 | [65043-draw-stuff.json](./65043-draw-stuff.json) |
 | Draw Sword | 358926 | [358926-draw-sword.json](./358926-draw-sword.json) |
 | Draw Sword | 359540 | [359540-draw-sword.json](./359540-draw-sword.json) |
