@@ -2409,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Quest | 416150 | [416150-village-quest.json](./416150-village-quest.json) |
 | Village RPG | 188438 | [188438-village-rpg.json](./188438-village-rpg.json) |
 | Village Slut Transformation | 306433 | [306433-village-slut-transformation.json](./306433-village-slut-transformation.json) |
+| Village Story | 29336 | [29336-village-story.json](./29336-village-story.json) |
 | Village Supermarket Simulator: Old Times Edition | 370800 | [370800-village-supermarket-simulator-old-times-edition.json](./370800-village-supermarket-simulator-old-times-edition.json) |
 | Village Tale | 346698 | [346698-village-tale.json](./346698-village-tale.json) |
 | Village Tanuki | 185138 | [185138-village-tanuki.json](./185138-village-tanuki.json) |
@@ -3979,6 +3980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
 | Voxquarter | 366461 | [366461-voxquarter.json](./366461-voxquarter.json) |
 | Voxquest: The Firebird | 193574 | [193574-voxquest-the-firebird.json](./193574-voxquest-the-firebird.json) |
+| VoxreD | 31083 | [31083-voxred.json](./31083-voxred.json) |
 | Voxrush | 211138 | [211138-voxrush.json](./211138-voxrush.json) |
 | VoxStory | 137887 | [137887-voxstory.json](./137887-voxstory.json) |
 | VoxSys | 247847 | [247847-voxsys.json](./247847-voxsys.json) |
@@ -4563,6 +4565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vyulettes | 371006 | [371006-vyulettes.json](./371006-vyulettes.json) |
 | Vyun, Kosmeya, and the Witch's Curse | 374714 | [374714-vyun-kosmeya-and-the-witchs-curse.json](./374714-vyun-kosmeya-and-the-witchs-curse.json) |
 | Vyzyvatel | 374717 | [374717-vyzyvatel.json](./374717-vyzyvatel.json) |
+| Vzerthos: Heir of Thunder | 31112 | [31112-vzerthos-heir-of-thunder.json](./31112-vzerthos-heir-of-thunder.json) |
 | VZfit Explorer | 130050 | [130050-vzfit-explorer.json](./130050-vzfit-explorer.json) |
 | VZfit Play | 125428 | [125428-vzfit-play.json](./125428-vzfit-play.json) |
 | Vzlom Zhopy | 129301 | [129301-vzlom-zhopy.json](./129301-vzlom-zhopy.json) |
