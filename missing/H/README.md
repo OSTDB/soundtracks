@@ -2557,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvey's Hundreds | 329310 | [329310-harveys-hundreds.json](./329310-harveys-hundreds.json) |
 | Has traicionado la Luna | 391656 | [391656-has-traicionado-la-luna.json](./391656-has-traicionado-la-luna.json) |
 | Has Your Dream of Dating a Cute Bunny Girl Finally Come True?! | 237442 | [237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json](./237442-has-your-dream-of-dating-a-cute-bunny-girl-finally-come-true.json) |
+| Hasami: Moonlight Trim | 423042 | [423042-hasami-moonlight-trim.json](./423042-hasami-moonlight-trim.json) |
 | Hasamu | 40176 | [40176-hasamu.json](./40176-hasamu.json) |
 | Hasbro Compilation | 47803 | [47803-hasbro-compilation.json](./47803-hasbro-compilation.json) |
 | Hasbro Family Fun Pack | 78334 | [78334-hasbro-family-fun-pack.json](./78334-hasbro-family-fun-pack.json) |
@@ -8967,6 +8968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ho-K | 180470 | [180470-ho-k.json](./180470-ho-k.json) |
 | Ho'omana'o Mau: A Somber Daydream | 400216 | [400216-hoomanao-mau-a-somber-daydream.json](./400216-hoomanao-mau-a-somber-daydream.json) |
 | Hoa 2 | 394282 | [394282-hoa-2.json](./394282-hoa-2.json) |
+| Hoard | 423092 | [423092-hoard.json](./423092-hoard.json) |
 | Hoard | 7402 | [7402-hoard.json](./7402-hoard.json) |
 | Hoard Defender VR | 346371 | [346371-hoard-defender-vr.json](./346371-hoard-defender-vr.json) |
 | Hoard It! | 184210 | [184210-hoard-it.json](./184210-hoard-it.json) |
@@ -11259,6 +11261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Dash: Suite Success Deluxe | 175305 | [175305-hotel-dash-suite-success-deluxe.json](./175305-hotel-dash-suite-success-deluxe.json) |
 | Hotel Detective | 71468 | [71468-hotel-detective.json](./71468-hotel-detective.json) |
 | Hotel Dracula | 81139 | [81139-hotel-dracula.json](./81139-hotel-dracula.json) |
+| Hotel Elera | 423040 | [423040-hotel-elera.json](./423040-hotel-elera.json) |
 | Hotel Empire Tycoon | 234464 | [234464-hotel-empire-tycoon.json](./234464-hotel-empire-tycoon.json) |
 | Hotel Empire: Check Inn | 413097 | [413097-hotel-empire-check-inn.json](./413097-hotel-empire-check-inn.json) |
 | Hotel Ever After: Ella's Wish | 119999 | [119999-hotel-ever-after-ellas-wish.json](./119999-hotel-ever-after-ellas-wish.json) |
