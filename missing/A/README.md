@@ -2114,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aborigenus | 110070 | [110070-aborigenus.json](./110070-aborigenus.json) |
 | Aboriginal | 265799 | [265799-aboriginal.json](./265799-aboriginal.json) |
 | Abort | 291211 | [291211-abort.json](./291211-abort.json) |
+| Abort Sequence | 414683 | [414683-abort-sequence.json](./414683-abort-sequence.json) |
 | Abort, Retry, Fail | 201227 | [201227-abort-retry-fail.json](./201227-abort-retry-fail.json) |
 | About a Boy | 325390 | [325390-about-a-boy.json](./325390-about-a-boy.json) |
 | About a Boy | 349801 | [349801-about-a-boy.json](./349801-about-a-boy.json) |
@@ -15449,6 +15450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial | 184212 | [184212-artificial.json](./184212-artificial.json) |
 | Artificial | 235361 | [235361-artificial.json](./235361-artificial.json) |
 | Artificial Academy | 22471 | [22471-artificial-academy.json](./22471-artificial-academy.json) |
+| Artificial Bloodline | 414908 | [414908-artificial-bloodline.json](./414908-artificial-bloodline.json) |
 | Artificial Dawn | 419366 | [419366-artificial-dawn.json](./419366-artificial-dawn.json) |
 | Artificial Defense | 33511 | [33511-artificial-defense.json](./33511-artificial-defense.json) |
 | Artificial Detective | 396030 | [396030-artificial-detective.json](./396030-artificial-detective.json) |
@@ -17651,6 +17653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
