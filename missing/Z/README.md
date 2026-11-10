@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombs Royale | 101161 | [101161-zombs-royale.json](./101161-zombs-royale.json) |
 | Zombs.io | 76570 | [76570-zombs-io.json](./76570-zombs-io.json) |
 | Zombuds | 404357 | [404357-zombuds.json](./404357-zombuds.json) |
+| Zombuffoonery | 420634 | [420634-zombuffoonery.json](./420634-zombuffoonery.json) |
 | Zombusters | 50804 | [50804-zombusters.json](./50804-zombusters.json) |
 | Zombusters: Enhanced Edition | 184304 | [184304-zombusters-enhanced-edition.json](./184304-zombusters-enhanced-edition.json) |
 | Zombutcher | 379585 | [379585-zombutcher.json](./379585-zombutcher.json) |
