@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes From The Threshold 2 | 267289 | [267289-echoes-from-the-threshold-2.json](./267289-echoes-from-the-threshold-2.json) |
 | Echoes Ⅱ | 303505 | [303505-echoes-ii.json](./303505-echoes-ii.json) |
 | Echoes III | 107373 | [107373-echoes-iii.json](./107373-echoes-iii.json) |
+| Echoes in Darkness | 419465 | [419465-echoes-in-darkness.json](./419465-echoes-in-darkness.json) |
 | Echoes In Static | 395879 | [395879-echoes-in-static.json](./395879-echoes-in-static.json) |
 | Echoes in the Deep: A Fateforge Tale | 302326 | [302326-echoes-in-the-deep-a-fateforge-tale.json](./302326-echoes-in-the-deep-a-fateforge-tale.json) |
 | Echoes in the Storm | 373216 | [373216-echoes-in-the-storm.json](./373216-echoes-in-the-storm.json) |
