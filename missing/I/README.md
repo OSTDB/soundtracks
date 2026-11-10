@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Big Devil | 137787 | [137787-idle-big-devil.json](./137787-idle-big-devil.json) |
 | Idle Billionaire Tycoon | 216027 | [216027-idle-billionaire-tycoon.json](./216027-idle-billionaire-tycoon.json) |
 | Idle Blocks | 267848 | [267848-idle-blocks.json](./267848-idle-blocks.json) |
+| Idle Bookstore | 404474 | [404474-idle-bookstore.json](./404474-idle-bookstore.json) |
 | Idle Boss Rush | 341977 | [341977-idle-boss-rush.json](./341977-idle-boss-rush.json) |
 | Idle Bouncer | 61644 | [61644-idle-bouncer.json](./61644-idle-bouncer.json) |
 | Idle Breakanoid | 383952 | [383952-idle-breakanoid.json](./383952-idle-breakanoid.json) |
@@ -2905,6 +2906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impulse | 173436 | [173436-impulse.json](./173436-impulse.json) |
 | Impulse | 257230 | [257230-impulse.json](./257230-impulse.json) |
 | Impulse Control | 133737 | [133737-impulse-control.json](./133737-impulse-control.json) |
+| Impulse Response | 403982 | [403982-impulse-response.json](./403982-impulse-response.json) |
 | Impulse Rogue | 199572 | [199572-impulse-rogue.json](./199572-impulse-rogue.json) |
 | Impulse, From Here! | 157513 | [157513-impulse-from-here.json](./157513-impulse-from-here.json) |
 | Impulse: Space Combat | 37035 | [37035-impulse-space-combat.json](./37035-impulse-space-combat.json) |
@@ -4085,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
