@@ -11804,6 +11804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island: Escape Room | 289992 | [289992-the-island-escape-room.json](./289992-the-island-escape-room.json) |
 | The Island: Into the Mist | 173095 | [173095-the-island-into-the-mist.json](./173095-the-island-into-the-mist.json) |
 | The Island: King's Order | 164443 | [164443-the-island-kings-order.json](./164443-the-island-kings-order.json) |
+| The Islander | 84742 | [84742-the-islander.json](./84742-the-islander.json) |
 | The Islander: Landscape Designer | 118242 | [118242-the-islander-landscape-designer.json](./118242-the-islander-landscape-designer.json) |
 | The Islander: Town Architect | 130608 | [130608-the-islander-town-architect.json](./130608-the-islander-town-architect.json) |
 | The Islands | 188830 | [188830-the-islands.json](./188830-the-islands.json) |
