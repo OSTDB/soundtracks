@@ -7519,6 +7519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Online | 94315 | [94315-aliens-online.json](./94315-aliens-online.json) |
 | Aliens Revenge | 332170 | [332170-aliens-revenge.json](./332170-aliens-revenge.json) |
 | Aliens RPG | 84303 | [84303-aliens-rpg.json](./84303-aliens-rpg.json) |
+| Aliens Took My Stuff | 407033 | [407033-aliens-took-my-stuff.json](./407033-aliens-took-my-stuff.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
 | Aliens versus Humans: Missions | 235153 | [235153-aliens-versus-humans-missions.json](./235153-aliens-versus-humans-missions.json) |
 | Aliens versus Predator | 9979 | [9979-aliens-versus-predator.json](./9979-aliens-versus-predator.json) |
@@ -17825,6 +17826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Heart: Enchantment Under the Sea | 325107 | [325107-atomic-heart-enchantment-under-the-sea.json](./325107-atomic-heart-enchantment-under-the-sea.json) |
 | Atomic Heart: Gold Edition | 224149 | [224149-atomic-heart-gold-edition.json](./224149-atomic-heart-gold-edition.json) |
 | Atomic Heart: Limited Edition | 224481 | [224481-atomic-heart-limited-edition.json](./224481-atomic-heart-limited-edition.json) |
+| Atomic Heart: Midas Glove Skin | 407042 | [407042-atomic-heart-midas-glove-skin.json](./407042-atomic-heart-midas-glove-skin.json) |
 | Atomic Heart: Premium Edition | 224148 | [224148-atomic-heart-premium-edition.json](./224148-atomic-heart-premium-edition.json) |
 | Atomic Heart: Trapped in Limbo | 285596 | [285596-atomic-heart-trapped-in-limbo.json](./285596-atomic-heart-trapped-in-limbo.json) |
 | Atomic Heart: Ultimate Edition | 396565 | [396565-atomic-heart-ultimate-edition.json](./396565-atomic-heart-ultimate-edition.json) |
