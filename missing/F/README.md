@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Lanes Bowling | 23782 | [23782-fast-lanes-bowling.json](./23782-fast-lanes-bowling.json) |
 | Fast Like A Fox | 55973 | [55973-fast-like-a-fox.json](./55973-fast-like-a-fox.json) |
 | Fast Manicz | 61270 | [61270-fast-manicz.json](./61270-fast-manicz.json) |
+| Fast Mine Sweeping: Skill Awakening | 398070 | [398070-fast-mine-sweeping-skill-awakening.json](./398070-fast-mine-sweeping-skill-awakening.json) |
 | Fast or Dead VR | 215568 | [215568-fast-or-dead-vr.json](./215568-fast-or-dead-vr.json) |
 | Fast Racing | 99330 | [99330-fast-racing.json](./99330-fast-racing.json) |
 | Fast Racing 3D | 380549 | [380549-fast-racing-3d.json](./380549-fast-racing-3d.json) |
@@ -4296,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetish Fighters | 242931 | [242931-fetish-fighters.json](./242931-fetish-fighters.json) |
 | Fetish Locator | 255686 | [255686-fetish-locator.json](./255686-fetish-locator.json) |
 | Fetish Locator Week Three | 281337 | [281337-fetish-locator-week-three.json](./281337-fetish-locator-week-three.json) |
+| Fetish: Every Second Counts | 398067 | [398067-fetish-every-second-counts.json](./398067-fetish-every-second-counts.json) |
 | Fetter and Feeling | 401325 | [401325-fetter-and-feeling.json](./401325-fetter-and-feeling.json) |
 | Fetty Wap: Nitro Nation Stories | 76553 | [76553-fetty-wap-nitro-nation-stories.json](./76553-fetty-wap-nitro-nation-stories.json) |
 | Fetus | 207680 | [207680-fetus.json](./207680-fetus.json) |
@@ -7113,6 +7115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FishOrChicken | 260202 | [260202-fishorchicken.json](./260202-fishorchicken.json) |
 | Fishori | 215571 | [215571-fishori.json](./215571-fishori.json) |
 | Fishos | 180763 | [180763-fishos.json](./180763-fishos.json) |
+| FishPond | 398066 | [398066-fishpond.json](./398066-fishpond.json) |
 | Fisht Fight | 367937 | [367937-fisht-fight.json](./367937-fisht-fight.json) |
 | Fishtank: Reality TV Simulator | 351159 | [351159-fishtank-reality-tv-simulator.json](./351159-fishtank-reality-tv-simulator.json) |
 | FishTDX | 277734 | [277734-fishtdx.json](./277734-fishtdx.json) |
