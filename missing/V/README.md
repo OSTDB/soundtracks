@@ -2489,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vindictus XE | 23525 | [23525-vindictus-xe.json](./23525-vindictus-xe.json) |
 | Vindictus: Defying Fate | 289155 | [289155-vindictus-defying-fate.json](./289155-vindictus-defying-fate.json) |
 | Vindilis | 373088 | [373088-vindilis.json](./373088-vindilis.json) |
+| Vindobona | 427858 | [427858-vindobona.json](./427858-vindobona.json) |
 | Vine | 128625 | [128625-vine.json](./128625-vine.json) |
 | Vine | 195298 | [195298-vine.json](./195298-vine.json) |
 | Vine Mapping Contest 2016 | 262280 | [262280-vine-mapping-contest-2016.json](./262280-vine-mapping-contest-2016.json) |
@@ -3286,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vividerie | 189068 | [189068-vividerie.json](./189068-vividerie.json) |
 | ViviDex | 182983 | [182983-vividex.json](./182983-vividex.json) |
 | Vividlope | 224808 | [224808-vividlope.json](./224808-vividlope.json) |
+| Vividly Blank | 427847 | [427847-vividly-blank.json](./427847-vividly-blank.json) |
 | ViviEon | 120830 | [120830-vivieon.json](./120830-vivieon.json) |
 | Viviette | 107724 | [107724-viviette.json](./107724-viviette.json) |
 | Viviparous Dumpling | 354449 | [354449-viviparous-dumpling.json](./354449-viviparous-dumpling.json) |
