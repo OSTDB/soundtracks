@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Springs | 406829 | [406829-fairy-springs.json](./406829-fairy-springs.json) |
 | Fairy Sweet Days | 379576 | [379576-fairy-sweet-days.json](./379576-fairy-sweet-days.json) |
 | Fairy Tag: A Game of Divinities | 219773 | [219773-fairy-tag-a-game-of-divinities.json](./219773-fairy-tag-a-game-of-divinities.json) |
+| Fairy Tail | 122248 | [122248-fairy-tail.json](./122248-fairy-tail.json) |
 | Fairy Tail 2 | 306138 | [306138-fairy-tail-2.json](./306138-fairy-tail-2.json) |
 | Fairy Tail 2: Bonus Feature - Arena | 330446 | [330446-fairy-tail-2-bonus-feature-arena.json](./330446-fairy-tail-2-bonus-feature-arena.json) |
 | Fairy Tail 2: Digital Deluxe | 324470 | [324470-fairy-tail-2-digital-deluxe.json](./324470-fairy-tail-2-digital-deluxe.json) |
@@ -4429,6 +4430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field Pong: Gamesforfarm | 388968 | [388968-field-pong-gamesforfarm.json](./388968-field-pong-gamesforfarm.json) |
 | Field Survivor | 159761 | [159761-field-survivor.json](./159761-field-survivor.json) |
 | Fieldrunners | 9839 | [9839-fieldrunners.json](./9839-fieldrunners.json) |
+| Fieldrunners 2 | 9840 | [9840-fieldrunners-2.json](./9840-fieldrunners-2.json) |
 | Fieldrunners Attack! | 106966 | [106966-fieldrunners-attack.json](./106966-fieldrunners-attack.json) |
 | Fields - Soldier of Time | 77278 | [77278-fields-soldier-of-time.json](./77278-fields-soldier-of-time.json) |
 | Fields of Aaru | 400375 | [400375-fields-of-aaru.json](./400375-fields-of-aaru.json) |
@@ -6519,6 +6521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Class Rescue | 407312 | [407312-first-class-rescue.json](./407312-first-class-rescue.json) |
 | First Class Solitaire | 366426 | [366426-first-class-solitaire.json](./366426-first-class-solitaire.json) |
 | First Class Solitaire HD | 354973 | [354973-first-class-solitaire-hd.json](./354973-first-class-solitaire-hd.json) |
+| First Class Trouble | 121898 | [121898-first-class-trouble.json](./121898-first-class-trouble.json) |
 | First Comes Love | 313885 | [313885-first-comes-love.json](./313885-first-comes-love.json) |
 | First Contact | 308727 | [308727-first-contact.json](./308727-first-contact.json) |
 | First Contact | 55986 | [55986-first-contact.json](./55986-first-contact.json) |
