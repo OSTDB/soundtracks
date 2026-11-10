@@ -3743,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure C Ship of Doom | 45360 | [45360-adventure-c-ship-of-doom.json](./45360-adventure-c-ship-of-doom.json) |
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
 | Adventure Canoe | 392769 | [392769-adventure-canoe.json](./392769-adventure-canoe.json) |
+| Adventure Card Game | 396608 | [396608-adventure-card-game.json](./396608-adventure-card-game.json) |
 | Adventure Chronicles: The Search For Lost Treasure | 11441 | [11441-adventure-chronicles-the-search-for-lost-treasure.json](./11441-adventure-chronicles-the-search-for-lost-treasure.json) |
 | Adventure Climb VR | 116821 | [116821-adventure-climb-vr.json](./116821-adventure-climb-vr.json) |
 | Adventure Climb VR: Brave the Elements | 209300 | [209300-adventure-climb-vr-brave-the-elements.json](./209300-adventure-climb-vr-brave-the-elements.json) |
@@ -11409,6 +11410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Corp. | 390064 | [390064-anomaly-corp.json](./390064-anomaly-corp.json) |
 | Anomaly Corridor | 319143 | [319143-anomaly-corridor.json](./319143-anomaly-corridor.json) |
 | Anomaly Corridor | 377100 | [377100-anomaly-corridor.json](./377100-anomaly-corridor.json) |
+| Anomaly Department | 396634 | [396634-anomaly-department.json](./396634-anomaly-department.json) |
 | Anomaly Directive | 390862 | [390862-anomaly-directive.json](./390862-anomaly-directive.json) |
 | Anomaly Echoes | 292949 | [292949-anomaly-echoes.json](./292949-anomaly-echoes.json) |
 | Anomaly Escape | 294047 | [294047-anomaly-escape.json](./294047-anomaly-escape.json) |
@@ -15951,6 +15953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Immortality II: Bad Blood | 35457 | [35457-ashes-of-immortality-ii-bad-blood.json](./35457-ashes-of-immortality-ii-bad-blood.json) |
 | Ashes of Immortality Trilogy | 52607 | [52607-ashes-of-immortality-trilogy.json](./52607-ashes-of-immortality-trilogy.json) |
 | Ashes of Kardoria | 386145 | [386145-ashes-of-kardoria.json](./386145-ashes-of-kardoria.json) |
+| Ashes of Mankind: Citadels | 396602 | [396602-ashes-of-mankind-citadels.json](./396602-ashes-of-mankind-citadels.json) |
 | Ashes of Morgravia | 345083 | [345083-ashes-of-morgravia.json](./345083-ashes-of-morgravia.json) |
 | Ashes of Oahu | 116196 | [116196-ashes-of-oahu.json](./116196-ashes-of-oahu.json) |
 | Ashes of Paradise | 377808 | [377808-ashes-of-paradise.json](./377808-ashes-of-paradise.json) |
@@ -17732,6 +17735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
