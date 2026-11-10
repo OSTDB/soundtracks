@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12698,6 +12699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobo: Fun Math Games | 175600 | [175600-bobo-fun-math-games.json](./175600-bobo-fun-math-games.json) |
 | Bobo: In Animia | 380032 | [380032-bobo-in-animia.json](./380032-bobo-in-animia.json) |
 | Bobo's Big Tower | 355170 | [355170-bobos-big-tower.json](./355170-bobos-big-tower.json) |
+| Bobobby 3D: Stranded Rush | 428369 | [428369-bobobby-3d-stranded-rush.json](./428369-bobobby-3d-stranded-rush.json) |
 | Bobobird | 365141 | [365141-bobobird.json](./365141-bobobird.json) |
 | Bobobo-bo Bo-bobo: Atsumare! Taikan Bo-bobo | 79699 | [79699-bobobo-bo-bo-bobo-atsumare-taikan-bo-bobo.json](./79699-bobobo-bo-bo-bobo-atsumare-taikan-bo-bobo.json) |
 | Bobobo-bo Bo-bobo: Dasshutsu!! Hajike Royale | 3827 | [3827-bobobo-bo-bo-bobo-dasshutsu-hajike-royale.json](./3827-bobobo-bo-bo-bobo-dasshutsu-hajike-royale.json) |
@@ -17396,6 +17398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter | 227537 | [227537-bubble-shooter.json](./227537-bubble-shooter.json) |
 | Bubble Shooter | 335469 | [335469-bubble-shooter.json](./335469-bubble-shooter.json) |
 | Bubble Shooter | 380041 | [380041-bubble-shooter.json](./380041-bubble-shooter.json) |
+| Bubble Shooter | 428407 | [428407-bubble-shooter.json](./428407-bubble-shooter.json) |
 | Bubble Shooter 2 | 299775 | [299775-bubble-shooter-2.json](./299775-bubble-shooter-2.json) |
 | Bubble Shooter 2: Smug the Pug | 124341 | [124341-bubble-shooter-2-smug-the-pug.json](./124341-bubble-shooter-2-smug-the-pug.json) |
 | Bubble Shooter Adventures | 341019 | [341019-bubble-shooter-adventures.json](./341019-bubble-shooter-adventures.json) |
@@ -18491,6 +18494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny on Rails | 298831 | [298831-bunny-on-rails.json](./298831-bunny-on-rails.json) |
 | Bunny Park | 127749 | [127749-bunny-park.json](./127749-bunny-park.json) |
 | Bunny Parking | 116064 | [116064-bunny-parking.json](./116064-bunny-parking.json) |
+| Bunny Pit Berry | 428373 | [428373-bunny-pit-berry.json](./428373-bunny-pit-berry.json) |
 | Bunny Pit Stop | 369811 | [369811-bunny-pit-stop.json](./369811-bunny-pit-stop.json) |
 | Bunny Pop 2: Beat the Wolf | 103890 | [103890-bunny-pop-2-beat-the-wolf.json](./103890-bunny-pop-2-beat-the-wolf.json) |
 | Bunny Prison Break | 250010 | [250010-bunny-prison-break.json](./250010-bunny-prison-break.json) |
