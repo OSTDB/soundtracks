@@ -11310,6 +11310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fostering Apocalypse | 153991 | [153991-fostering-apocalypse.json](./153991-fostering-apocalypse.json) |
 | Fostiator | 316793 | [316793-fostiator.json](./316793-fostiator.json) |
 | Fostr | 395807 | [395807-fostr.json](./395807-fostr.json) |
+| FotFoot | 428438 | [428438-fotfoot.json](./428438-fotfoot.json) |
 | Foto Babes | 114556 | [114556-foto-babes.json](./114556-foto-babes.json) |
 | Foto Boy: A New Job | 290932 | [290932-foto-boy-a-new-job.json](./290932-foto-boy-a-new-job.json) |
 | Foto Boy: Flashstar | 343721 | [343721-foto-boy-flashstar.json](./343721-foto-boy-flashstar.json) |
@@ -12588,6 +12589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fried Rice Apocalypse | 338727 | [338727-fried-rice-apocalypse.json](./338727-fried-rice-apocalypse.json) |
 | Frieda is Changing | 357272 | [357272-frieda-is-changing.json](./357272-frieda-is-changing.json) |
 | Friend Fighters | 151491 | [151491-friend-fighters.json](./151491-friend-fighters.json) |
+| Friend Guys | 428424 | [428424-friend-guys.json](./428424-friend-guys.json) |
 | Friend Hunt | 276777 | [276777-friend-hunt.json](./276777-friend-hunt.json) |
 | Friend Network | 52229 | [52229-friend-network.json](./52229-friend-network.json) |
 | Friend on the Go | 217243 | [217243-friend-on-the-go.json](./217243-friend-on-the-go.json) |
