@@ -1040,6 +1040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Brawl: Classic | 173191 | [173191-jelly-brawl-classic.json](./173191-jelly-brawl-classic.json) |
 | Jelly Bubble | 359055 | [359055-jelly-bubble.json](./359055-jelly-bubble.json) |
 | Jelly Collapse | 421799 | [421799-jelly-collapse.json](./421799-jelly-collapse.json) |
+| Jelly Copter | 95093 | [95093-jelly-copter.json](./95093-jelly-copter.json) |
 | Jelly Cube Blast | 233908 | [233908-jelly-cube-blast.json](./233908-jelly-cube-blast.json) |
 | Jelly Dance | 96383 | [96383-jelly-dance.json](./96383-jelly-dance.json) |
 | Jelly Defense | 22206 | [22206-jelly-defense.json](./22206-jelly-defense.json) |
