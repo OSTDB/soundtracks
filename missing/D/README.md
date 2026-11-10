@@ -13032,6 +13032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Be Nervous Talking to Girls | 91628 | [91628-dont-be-nervous-talking-to-girls.json](./91628-dont-be-nervous-talking-to-girls.json) |
 | Don't Be Squared | 57458 | [57458-dont-be-squared.json](./57458-dont-be-squared.json) |
 | Don't Beg for Help | 245774 | [245774-dont-beg-for-help.json](./245774-dont-beg-for-help.json) |
+| Don't Bite Me Bro! | 95161 | [95161-dont-bite-me-bro.json](./95161-dont-bite-me-bro.json) |
 | Don't Blame You | 229809 | [229809-dont-blame-you.json](./229809-dont-blame-you.json) |
 | Don't Bleed | 76949 | [76949-dont-bleed.json](./76949-dont-bleed.json) |
 | Don't Blink | 155980 | [155980-dont-blink.json](./155980-dont-blink.json) |
@@ -13633,6 +13634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Adventure of Chameleon | 274317 | [274317-doodle-adventure-of-chameleon.json](./274317-doodle-adventure-of-chameleon.json) |
 | Doodle Adventures | 56770 | [56770-doodle-adventures.json](./56770-doodle-adventures.json) |
 | Doodle Army | 61655 | [61655-doodle-army.json](./61655-doodle-army.json) |
+| Doodle Army HD | 95288 | [95288-doodle-army-hd.json](./95288-doodle-army-hd.json) |
 | Doodle Art: Drawing Games | 190937 | [190937-doodle-art-drawing-games.json](./190937-doodle-art-drawing-games.json) |
 | Doodle Biker | 105901 | [105901-doodle-biker.json](./105901-doodle-biker.json) |
 | Doodle Bowling | 65451 | [65451-doodle-bowling.json](./65451-doodle-bowling.json) |
