@@ -3667,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Simulator | 260601 | [260601-kingdom-simulator.json](./260601-kingdom-simulator.json) |
 | Kingdom Square | 259102 | [259102-kingdom-square.json](./259102-kingdom-square.json) |
 | Kingdom Story: Brave Legion | 108897 | [108897-kingdom-story-brave-legion.json](./108897-kingdom-story-brave-legion.json) |
+| Kingdom Tales | 10486 | [10486-kingdom-tales.json](./10486-kingdom-tales.json) |
 | Kingdom Tales 2 | 10487 | [10487-kingdom-tales-2.json](./10487-kingdom-tales-2.json) |
 | Kingdom Traveler | 189080 | [189080-kingdom-traveler.json](./189080-kingdom-traveler.json) |
 | Kingdom Treasury Collection | 121422 | [121422-kingdom-treasury-collection.json](./121422-kingdom-treasury-collection.json) |
