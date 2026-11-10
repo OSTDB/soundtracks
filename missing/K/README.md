@@ -6731,6 +6731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyro | 50156 | [50156-kyro.json](./50156-kyro.json) |
 | Kyros | 39989 | [39989-kyros.json](./39989-kyros.json) |
 | Kyua | 206548 | [206548-kyua.json](./206548-kyua.json) |
+| Kyub | 58225 | [58225-kyub.json](./58225-kyub.json) |
 | Kyub Crazy Colors | 265431 | [265431-kyub-crazy-colors.json](./265431-kyub-crazy-colors.json) |
 | Kyubu Kyubu Dice | 215336 | [215336-kyubu-kyubu-dice.json](./215336-kyubu-kyubu-dice.json) |
 | Kyuiin | 78524 | [78524-kyuiin.json](./78524-kyuiin.json) |
