@@ -4103,6 +4103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoning: The Brassfield Manor - Collector's Edition | 22077 | [22077-dead-reckoning-the-brassfield-manor-collectors-edition.json](./22077-dead-reckoning-the-brassfield-manor-collectors-edition.json) |
 | Dead Reckoning: The Crescent Case | 100050 | [100050-dead-reckoning-the-crescent-case.json](./100050-dead-reckoning-the-crescent-case.json) |
 | Dead Reckoning: The Crescent Case - Collector's Edition | 89944 | [89944-dead-reckoning-the-crescent-case-collectors-edition.json](./89944-dead-reckoning-the-crescent-case-collectors-edition.json) |
+| Dead Reckoning: The Long Drift | 405793 | [405793-dead-reckoning-the-long-drift.json](./405793-dead-reckoning-the-long-drift.json) |
 | Dead Reefs | 50284 | [50284-dead-reefs.json](./50284-dead-reefs.json) |
 | Dead Reset | 346233 | [346233-dead-reset.json](./346233-dead-reset.json) |
 | Dead Rider | 87312 | [87312-dead-rider.json](./87312-dead-rider.json) |
@@ -11477,6 +11478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissimilated Land | 106533 | [106533-dissimilated-land.json](./106533-dissimilated-land.json) |
 | Dissimilation | 86234 | [86234-dissimilation.json](./86234-dissimilation.json) |
 | Dissolution | 107785 | [107785-dissolution.json](./107785-dissolution.json) |
+| Dissolution of My Self | 405785 | [405785-dissolution-of-my-self.json](./405785-dissolution-of-my-self.json) |
 | Dissolved: Chapter One | 228479 | [228479-dissolved-chapter-one.json](./228479-dissolved-chapter-one.json) |
 | Dissolving | 118821 | [118821-dissolving.json](./118821-dissolving.json) |
 | Dissolving Disarray | 324292 | [324292-dissolving-disarray.json](./324292-dissolving-disarray.json) |
@@ -17641,6 +17643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drillmaster 9000 | 348012 | [348012-drillmaster-9000.json](./348012-drillmaster-9000.json) |
 | Drillmin | 186198 | [186198-drillmin.json](./186198-drillmin.json) |
 | Drills VR | 109066 | [109066-drills-vr.json](./109066-drills-vr.json) |
+| DrillScape | 405205 | [405205-drillscape.json](./405205-drillscape.json) |
 | DrillsVR | 102878 | [102878-drillsvr.json](./102878-drillsvr.json) |
 | Drilly Willis | 144558 | [144558-drilly-willis.json](./144558-drilly-willis.json) |
 | Drim | 286085 | [286085-drim.json](./286085-drim.json) |
