@@ -4303,6 +4303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma Sphere | 139286 | [139286-enigma-sphere.json](./139286-enigma-sphere.json) |
 | Enigma Sphere: Enhanced Edition | 29533 | [29533-enigma-sphere-enhanced-edition.json](./29533-enigma-sphere-enhanced-edition.json) |
 | Enigma Squad: Animal Chaos | 298978 | [298978-enigma-squad-animal-chaos.json](./298978-enigma-squad-animal-chaos.json) |
+| Enigma: | 25686 | [25686-enigma.json](./25686-enigma.json) |
 | Enigma: A Codebreaking Game | 186587 | [186587-enigma-a-codebreaking-game.json](./186587-enigma-a-codebreaking-game.json) |
 | Enigma: An Illusion Named Family | 35612 | [35612-enigma-an-illusion-named-family.json](./35612-enigma-an-illusion-named-family.json) |
 | Enigma: Rising Tide | 24099 | [24099-enigma-rising-tide.json](./24099-enigma-rising-tide.json) |
@@ -8272,6 +8273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expansion Core | 201510 | [201510-expansion-core.json](./201510-expansion-core.json) |
 | Expansion Pack for Microsoft Flight Simulator for Windows 95 | 80291 | [80291-expansion-pack-for-microsoft-flight-simulator-for-windows-95.json](./80291-expansion-pack-for-microsoft-flight-simulator-for-windows-95.json) |
 | Expect No Mercy | 47103 | [47103-expect-no-mercy.json](./47103-expect-no-mercy.json) |
+| Expect the Unexpected | 31271 | [31271-expect-the-unexpected.json](./31271-expect-the-unexpected.json) |
 | Expedia Cenote Experience | 109626 | [109626-expedia-cenote-experience.json](./109626-expedia-cenote-experience.json) |
 | Expedição Antártica | 395802 | [395802-expedicao-antartica.json](./395802-expedicao-antartica.json) |
 | Expediente Ñ | 322368 | [322368-expediente-n.json](./322368-expediente-n.json) |
