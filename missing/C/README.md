@@ -8104,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiseler | 361764 | [361764-chiseler.json](./361764-chiseler.json) |
 | Chishiki Runner | 114328 | [114328-chishiki-runner.json](./114328-chishiki-runner.json) |
 | Chisholm Trail | 44395 | [44395-chisholm-trail.json](./44395-chisholm-trail.json) |
+| Chit Chat City | 418711 | [418711-chit-chat-city.json](./418711-chit-chat-city.json) |
 | Chit Chat Party! | 420680 | [420680-chit-chat-party.json](./420680-chit-chat-party.json) |
 | Chital's Mini Adventure | 265076 | [265076-chitals-mini-adventure.json](./265076-chitals-mini-adventure.json) |
 | Chitei Chousasen ni Hibiku Kodoku | 376678 | [376678-chitei-chousasen-ni-hibiku-kodoku.json](./376678-chitei-chousasen-ni-hibiku-kodoku.json) |
@@ -17290,6 +17291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Puzzle Hammer-San | 319851 | [319851-crash-puzzle-hammer-san.json](./319851-crash-puzzle-hammer-san.json) |
 | Crash Race | 157809 | [157809-crash-race.json](./157809-crash-race.json) |
 | Crash Racing | 159556 | [159556-crash-racing.json](./159556-crash-racing.json) |
+| Crash Relay | 418645 | [418645-crash-relay.json](./418645-crash-relay.json) |
 | Crash Site | 402798 | [402798-crash-site.json](./402798-crash-site.json) |
 | Crash Superpack: Crash Bandicoot 2: N-Tranced / Crash Nitro Kart | 76848 | [76848-crash-superpack-crash-bandicoot-2-n-tranced-crash-nitro-kart.json](./76848-crash-superpack-crash-bandicoot-2-n-tranced-crash-nitro-kart.json) |
 | Crash Tag Team Racing | 1194 | [1194-crash-tag-team-racing.json](./1194-crash-tag-team-racing.json) |
