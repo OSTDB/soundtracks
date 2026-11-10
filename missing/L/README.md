@@ -8117,6 +8117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Kingdoms | 96662 | [96662-lords-of-kingdoms.json](./96662-lords-of-kingdoms.json) |
 | Lords of Magic | 51397 | [51397-lords-of-magic.json](./51397-lords-of-magic.json) |
 | Lords of Magic: Legends of Urak | 73966 | [73966-lords-of-magic-legends-of-urak.json](./73966-lords-of-magic-legends-of-urak.json) |
+| Lords of Magic: Special Edition | 23151 | [23151-lords-of-magic-special-edition.json](./23151-lords-of-magic-special-edition.json) |
 | Lords of Midnight: The Citadel | 69178 | [69178-lords-of-midnight-the-citadel.json](./69178-lords-of-midnight-the-citadel.json) |
 | Lords of Nether | 166949 | [166949-lords-of-nether.json](./166949-lords-of-nether.json) |
 | Lords of New York | 26850 | [26850-lords-of-new-york.json](./26850-lords-of-new-york.json) |
