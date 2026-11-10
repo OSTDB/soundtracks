@@ -5435,6 +5435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI: The Somnium Files - Limited Edition | 136219 | [136219-ai-the-somnium-files-limited-edition.json](./136219-ai-the-somnium-files-limited-edition.json) |
 | AI: The Somnium Files - Nirvana Initiative | 153808 | [153808-ai-the-somnium-files-nirvana-initiative.json](./153808-ai-the-somnium-files-nirvana-initiative.json) |
 | AI: The Somnium Files - Nirvana Initiative: Collector's Edition | 154708 | [154708-ai-the-somnium-files-nirvana-initiative-collectors-edition.json](./154708-ai-the-somnium-files-nirvana-initiative-collectors-edition.json) |
+| AI: The Somnium Files - Special Agent Edition | 104974 | [104974-ai-the-somnium-files-special-agent-edition.json](./104974-ai-the-somnium-files-special-agent-edition.json) |
 | AI.Cybercraft | 254031 | [254031-ai-cybercraft.json](./254031-ai-cybercraft.json) |
 | AI.Gears: Team Tag Battle | 277312 | [277312-ai-gears-team-tag-battle.json](./277312-ai-gears-team-tag-battle.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
@@ -9697,6 +9698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Aliens: The Game | 211402 | [211402-ancient-aliens-the-game.json](./211402-ancient-aliens-the-game.json) |
 | Ancient Allies Tower Defense | 233452 | [233452-ancient-allies-tower-defense.json](./233452-ancient-allies-tower-defense.json) |
 | Ancient Altar | 348516 | [348516-ancient-altar.json](./348516-ancient-altar.json) |
+| Ancient Amuletor: Into the Ice | 104783 | [104783-ancient-amuletor-into-the-ice.json](./104783-ancient-amuletor-into-the-ice.json) |
 | Ancient Anathema | 114098 | [114098-ancient-anathema.json](./114098-ancient-anathema.json) |
 | Ancient and Arcane: Escape Room Bundle | 410840 | [410840-ancient-and-arcane-escape-room-bundle.json](./410840-ancient-and-arcane-escape-room-bundle.json) |
 | Ancient Anguish MUD | 138502 | [138502-ancient-anguish-mud.json](./138502-ancient-anguish-mud.json) |
@@ -13191,6 +13193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rastan Saga | 300731 | [300731-arcade-archives-rastan-saga.json](./300731-arcade-archives-rastan-saga.json) |
 | Arcade Archives: Rastan Saga II | 306525 | [306525-arcade-archives-rastan-saga-ii.json](./306525-arcade-archives-rastan-saga-ii.json) |
 | Arcade Archives: Rave Racer | 392771 | [392771-arcade-archives-rave-racer.json](./392771-arcade-archives-rave-racer.json) |
+| Arcade Archives: Renegade | 105703 | [105703-arcade-archives-renegade.json](./105703-arcade-archives-renegade.json) |
 | Arcade Archives: Rezon | 244021 | [244021-arcade-archives-rezon.json](./244021-arcade-archives-rezon.json) |
 | Arcade Archives: Ridge Racer | 347092 | [347092-arcade-archives-ridge-racer.json](./347092-arcade-archives-ridge-racer.json) |
 | Arcade Archives: Riot | 321501 | [321501-arcade-archives-riot.json](./321501-arcade-archives-riot.json) |
@@ -13610,6 +13613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Eyes | 156982 | [156982-arcane-eyes.json](./156982-arcane-eyes.json) |
 | Arcane Fate | 224099 | [224099-arcane-fate.json](./224099-arcane-fate.json) |
 | Arcane Fighters | 272790 | [272790-arcane-fighters.json](./272790-arcane-fighters.json) |
+| Arcane Golf | 105176 | [105176-arcane-golf.json](./105176-arcane-golf.json) |
 | Arcane Intern (Unpaid) | 98841 | [98841-arcane-intern-unpaid.json](./98841-arcane-intern-unpaid.json) |
 | Arcane Investigations | 341092 | [341092-arcane-investigations.json](./341092-arcane-investigations.json) |
 | Arcane Legacy | 109354 | [109354-arcane-legacy.json](./109354-arcane-legacy.json) |
@@ -15189,7 +15193,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Horology | 116538 | [116538-art-of-horology.json](./116538-art-of-horology.json) |
 | Art of Ink | 59124 | [59124-art-of-ink.json](./59124-art-of-ink.json) |
 | Art of Murder: Cards of Destiny | 14361 | [14361-art-of-murder-cards-of-destiny.json](./14361-art-of-murder-cards-of-destiny.json) |
+| Art of Murder: Deadly Secrets | 105439 | [105439-art-of-murder-deadly-secrets.json](./105439-art-of-murder-deadly-secrets.json) |
 | Art of Murder: FBI Confidential | 9986 | [9986-art-of-murder-fbi-confidential.json](./9986-art-of-murder-fbi-confidential.json) |
+| Art of Murder: The Secret Files | 105437 | [105437-art-of-murder-the-secret-files.json](./105437-art-of-murder-the-secret-files.json) |
 | Art of Not Getting Found | 180670 | [180670-art-of-not-getting-found.json](./180670-art-of-not-getting-found.json) |
 | Art of Rally | 118607 | [118607-art-of-rally.json](./118607-art-of-rally.json) |
 | Art of Rally: Australia | 275115 | [275115-art-of-rally-australia.json](./275115-art-of-rally-australia.json) |
@@ -17310,6 +17316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATCpro | 69318 | [69318-atcpro.json](./69318-atcpro.json) |
 | ATCsimulator | 80922 | [80922-atcsimulator.json](./80922-atcsimulator.json) |
 | ATCsimulator2 | 92872 | [92872-atcsimulator2.json](./92872-atcsimulator2.json) |
+| Atelier ~Alchemists of Arland 1-2-3~ DX | 106294 | [106294-atelier-alchemists-of-arland-1-2-3-dx.json](./106294-atelier-alchemists-of-arland-1-2-3-dx.json) |
 | Atelier Ayesha Plus: The Alchemist of Dusk | 44473 | [44473-atelier-ayesha-plus-the-alchemist-of-dusk.json](./44473-atelier-ayesha-plus-the-alchemist-of-dusk.json) |
 | Atelier Ayesha: The Alchemist of Dusk | 7278 | [7278-atelier-ayesha-the-alchemist-of-dusk.json](./7278-atelier-ayesha-the-alchemist-of-dusk.json) |
 | Atelier Ayesha: The Alchemist of Dusk DX | 122748 | [122748-atelier-ayesha-the-alchemist-of-dusk-dx.json](./122748-atelier-ayesha-the-alchemist-of-dusk-dx.json) |
@@ -17530,7 +17537,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17806,6 +17812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack from Space | 281234 | [281234-attack-from-space.json](./281234-attack-from-space.json) |
 | Attack from the Dead | 94056 | [94056-attack-from-the-dead.json](./94056-attack-from-the-dead.json) |
 | Attack From the Void | 244062 | [244062-attack-from-the-void.json](./244062-attack-from-the-void.json) |
+| Attack Helicopter Dating Simulator | 105952 | [105952-attack-helicopter-dating-simulator.json](./105952-attack-helicopter-dating-simulator.json) |
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
 | Attack Hole | 324782 | [324782-attack-hole.json](./324782-attack-hole.json) |
 | Attack Hole: Hero Edition | 349593 | [349593-attack-hole-hero-edition.json](./349593-attack-hole-hero-edition.json) |
