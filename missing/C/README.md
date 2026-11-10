@@ -10228,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claire's Cruisin' Cafe: Collector's Edition | 177103 | [177103-claires-cruisin-cafe-collectors-edition.json](./177103-claires-cruisin-cafe-collectors-edition.json) |
 | Claire's Cruisin' Cafe: Fest Frenzy | 266310 | [266310-claires-cruisin-cafe-fest-frenzy.json](./266310-claires-cruisin-cafe-fest-frenzy.json) |
 | Claire's Cruisin' Cafe: High Seas Cuisine | 193445 | [193445-claires-cruisin-cafe-high-seas-cuisine.json](./193445-claires-cruisin-cafe-high-seas-cuisine.json) |
+| Clairval | 404468 | [404468-clairval.json](./404468-clairval.json) |
 | Clairvoyage: The Lighthouse | 409397 | [409397-clairvoyage-the-lighthouse.json](./409397-clairvoyage-the-lighthouse.json) |
 | Clairvoyance | 115488 | [115488-clairvoyance.json](./115488-clairvoyance.json) |
 | Clairvoyance | 357748 | [357748-clairvoyance.json](./357748-clairvoyance.json) |
@@ -11644,6 +11645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClusterDisaster | 103799 | [103799-clusterdisaster.json](./103799-clusterdisaster.json) |
 | Clusterduck | 194667 | [194667-clusterduck.json](./194667-clusterduck.json) |
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
+| Clutch | 403990 | [403990-clutch.json](./403990-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
 | Clutch-Master | 303420 | [303420-clutch-master.json](./303420-clutch-master.json) |
 | Clutch: The Drift Simulation | 338531 | [338531-clutch-the-drift-simulation.json](./338531-clutch-the-drift-simulation.json) |
