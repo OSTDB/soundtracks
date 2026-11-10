@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss of Dungeons | 306976 | [306976-abyss-of-dungeons.json](./306976-abyss-of-dungeons.json) |
 | Abyss of Empires:The Mythology | 305830 | [305830-abyss-of-empires-the-mythology.json](./305830-abyss-of-empires-the-mythology.json) |
 | Abyss of Gloom | 287347 | [287347-abyss-of-gloom.json](./287347-abyss-of-gloom.json) |
+| Abyss of Kings | 398717 | [398717-abyss-of-kings.json](./398717-abyss-of-kings.json) |
 | Abyss of Light | 283876 | [283876-abyss-of-light.json](./283876-abyss-of-light.json) |
 | Abyss of Neptune | 145563 | [145563-abyss-of-neptune.json](./145563-abyss-of-neptune.json) |
 | Abyss Of Pleasure | 379549 | [379549-abyss-of-pleasure.json](./379549-abyss-of-pleasure.json) |
@@ -11659,6 +11660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Answer Campus | 260408 | [260408-answer-campus.json](./260408-answer-campus.json) |
 | Answer Knot | 116888 | [116888-answer-knot.json](./116888-answer-knot.json) |
 | Answer Me | 157164 | [157164-answer-me.json](./157164-answer-me.json) |
+| Answer Me | 398723 | [398723-answer-me.json](./398723-answer-me.json) |
 | Answer the Question | 108604 | [108604-answer-the-question.json](./108604-answer-the-question.json) |
 | Answer These 10 Questions And I'll Tell You What Kind of Lover You Are | 225786 | [225786-answer-these-10-questions-and-ill-tell-you-what-kind-of-lover-you-are.json](./225786-answer-these-10-questions-and-ill-tell-you-what-kind-of-lover-you-are.json) |
 | Answer To Survive | 290886 | [290886-answer-to-survive.json](./290886-answer-to-survive.json) |
@@ -14676,6 +14678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkham Nightmares | 31700 | [31700-arkham-nightmares.json](./31700-arkham-nightmares.json) |
 | Arkhangel: The House of the Seven Stars | 104175 | [104175-arkhangel-the-house-of-the-seven-stars.json](./104175-arkhangel-the-house-of-the-seven-stars.json) |
 | Arkhe | 303682 | [303682-arkhe.json](./303682-arkhe.json) |
+| Arkhe | 398698 | [398698-arkhe.json](./398698-arkhe.json) |
 | Arkheim: Realms at War | 195110 | [195110-arkheim-realms-at-war.json](./195110-arkheim-realms-at-war.json) |
 | Arkhelom 3D | 35178 | [35178-arkhelom-3d.json](./35178-arkhelom-3d.json) |
 | Arkin | 35057 | [35057-arkin.json](./35057-arkin.json) |
@@ -16522,6 +16525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
 | ASTA Online | 28255 | [28255-asta-online.json](./28255-asta-online.json) |
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
+| Astala Muerte | 398940 | [398940-astala-muerte.json](./398940-astala-muerte.json) |
 | Astalo | 147879 | [147879-astalo.json](./147879-astalo.json) |
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
 | AStar | 84300 | [84300-astar.json](./84300-astar.json) |
