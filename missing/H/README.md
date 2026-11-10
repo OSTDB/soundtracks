@@ -4838,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HellStar Squadron | 97112 | [97112-hellstar-squadron.json](./97112-hellstar-squadron.json) |
 | Hellstrom: Reign | 323493 | [323493-hellstrom-reign.json](./323493-hellstrom-reign.json) |
 | Hellstuck: Rage With Your Friends | 200712 | [200712-hellstuck-rage-with-your-friends.json](./200712-hellstuck-rage-with-your-friends.json) |
+| Hellsweeper VR | 166324 | [166324-hellsweeper-vr.json](./166324-hellsweeper-vr.json) |
 | Helltaker | 133152 | [133152-helltaker.json](./133152-helltaker.json) |
 | Helltaker: Examtaker | 174192 | [174192-helltaker-examtaker.json](./174192-helltaker-examtaker.json) |
 | Helltower | 116225 | [116225-helltower.json](./116225-helltower.json) |
