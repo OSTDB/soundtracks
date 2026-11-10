@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanzen Chuukei Pro Yakyuu Greatest Nine | 272901 | [272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json](./272901-kanzen-chuukei-pro-yakyuu-greatest-nine.json) |
 | Kanzen Hanzai Mystery | 251622 | [251622-kanzen-hanzai-mystery.json](./251622-kanzen-hanzai-mystery.json) |
 | Kanzo | 236532 | [236532-kanzo.json](./236532-kanzo.json) |
+| Kao Challengers | 22564 | [22564-kao-challengers.json](./22564-kao-challengers.json) |
 | Kao no nai Tsuki Select Story | 287639 | [287639-kao-no-nai-tsuki-select-story.json](./287639-kao-no-nai-tsuki-select-story.json) |
 | Kao the Kangaroo | 142453 | [142453-kao-the-kangaroo.json](./142453-kao-the-kangaroo.json) |
 | Kao the Kangaroo | 36745 | [36745-kao-the-kangaroo.json](./36745-kao-the-kangaroo.json) |
@@ -2936,7 +2937,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
