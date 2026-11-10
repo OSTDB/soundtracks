@@ -8561,6 +8561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Express Raider | 13654 | [13654-express-raider.json](./13654-express-raider.json) |
 | Express Rider Simulator | 392602 | [392602-express-rider-simulator.json](./392602-express-rider-simulator.json) |
 | Express Simulator | 152463 | [152463-express-simulator.json](./152463-express-simulator.json) |
+| Expresso | 400609 | [400609-expresso.json](./400609-expresso.json) |
 | Expresso Espresso | 189848 | [189848-expresso-espresso.json](./189848-expresso-espresso.json) |
 | Expresso Run | 209183 | [209183-expresso-run.json](./209183-expresso-run.json) |
 | Expunge! | 72469 | [72469-expunge.json](./72469-expunge.json) |
