@@ -5632,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes Garden | 34122 | [34122-gnomes-garden.json](./34122-gnomes-garden.json) |
 | Gnomes Garden 2 | 33329 | [33329-gnomes-garden-2.json](./33329-gnomes-garden-2.json) |
 | Gnomes Garden 3 In 1 Bundle | 117892 | [117892-gnomes-garden-3-in-1-bundle.json](./117892-gnomes-garden-3-in-1-bundle.json) |
+| Gnomes Garden 3: The Thief of Castles | 30869 | [30869-gnomes-garden-3-the-thief-of-castles.json](./30869-gnomes-garden-3-the-thief-of-castles.json) |
 | Gnomes Garden Collection | 284868 | [284868-gnomes-garden-collection.json](./284868-gnomes-garden-collection.json) |
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
 | Gnomes Garden: Black Stones | 360576 | [360576-gnomes-garden-black-stones.json](./360576-gnomes-garden-black-stones.json) |
@@ -7907,6 +7908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab n' Throw | 217151 | [217151-grab-n-throw.json](./217151-grab-n-throw.json) |
 | Grab the Apple | 266130 | [266130-grab-the-apple.json](./266130-grab-the-apple.json) |
 | Grab the Beat | 132360 | [132360-grab-the-beat.json](./132360-grab-the-beat.json) |
+| Grab the Bottle | 30879 | [30879-grab-the-bottle.json](./30879-grab-the-bottle.json) |
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
 | Grab the Mask | 121546 | [121546-grab-the-mask.json](./121546-grab-the-mask.json) |
 | Grab the Sushi | 268023 | [268023-grab-the-sushi.json](./268023-grab-the-sushi.json) |
