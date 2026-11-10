@@ -4067,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation-F | 75729 | [75729-sd-gundam-g-generation-f.json](./75729-sd-gundam-g-generation-f.json) |
 | SD Gundam G Generation-F IF | 75730 | [75730-sd-gundam-g-generation-f-if.json](./75730-sd-gundam-g-generation-f-if.json) |
 | SD Gundam G Generation: Advance | 49787 | [49787-sd-gundam-g-generation-advance.json](./49787-sd-gundam-g-generation-advance.json) |
+| SD Gundam G Generation: Cross Drive | 58538 | [58538-sd-gundam-g-generation-cross-drive.json](./58538-sd-gundam-g-generation-cross-drive.json) |
 | SD Gundam G Generation: Gather Beat | 37491 | [37491-sd-gundam-g-generation-gather-beat.json](./37491-sd-gundam-g-generation-gather-beat.json) |
 | SD Gundam G Generation: Gather Beat 2 | 37321 | [37321-sd-gundam-g-generation-gather-beat-2.json](./37321-sd-gundam-g-generation-gather-beat-2.json) |
 | SD Gundam G Generation: Mono-Eye Gundams | 37320 | [37320-sd-gundam-g-generation-mono-eye-gundams.json](./37320-sd-gundam-g-generation-mono-eye-gundams.json) |
@@ -15128,6 +15129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Their Heads | 423272 | [423272-smash-their-heads.json](./423272-smash-their-heads.json) |
 | Smash Therapy | 220598 | [220598-smash-therapy.json](./220598-smash-therapy.json) |
 | Smash Track Drifters | 143634 | [143634-smash-track-drifters.json](./143634-smash-track-drifters.json) |
+| Smash Up | 57407 | [57407-smash-up.json](./57407-smash-up.json) |
 | Smash Up - The Card Game | 87216 | [87216-smash-up-the-card-game.json](./87216-smash-up-the-card-game.json) |
 | Smash Up Derby | 46966 | [46966-smash-up-derby.json](./46966-smash-up-derby.json) |
 | Smash Up: Awesome Level 9000 | 155444 | [155444-smash-up-awesome-level-9000.json](./155444-smash-up-awesome-level-9000.json) |
@@ -34066,6 +34068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pika Land | 50554 | [50554-super-pika-land.json](./50554-super-pika-land.json) |
 | Super Pika Land Ultra: Chocolate Version | 223022 | [223022-super-pika-land-ultra-chocolate-version.json](./223022-super-pika-land-ultra-chocolate-version.json) |
 | Super PileUp! | 92801 | [92801-super-pileup.json](./92801-super-pileup.json) |
+| Super Pilot | 57799 | [57799-super-pilot.json](./57799-super-pilot.json) |
 | Super Pinball | 64353 | [64353-super-pinball.json](./64353-super-pinball.json) |
 | Super Pinball Action | 40119 | [40119-super-pinball-action.json](./40119-super-pinball-action.json) |
 | Super Pinball Adventure | 365250 | [365250-super-pinball-adventure.json](./365250-super-pinball-adventure.json) |
