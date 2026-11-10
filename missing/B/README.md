@@ -1000,7 +1000,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -13280,6 +13279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman: Party Edition | 18786 | [18786-bomberman-party-edition.json](./18786-bomberman-party-edition.json) |
 | Bomberman: Users Battle | 42055 | [42055-bomberman-users-battle.json](./42055-bomberman-users-battle.json) |
 | Bombernaut 67 | 418602 | [418602-bombernaut-67.json](./418602-bombernaut-67.json) |
+| Bombernauts | 16627 | [16627-bombernauts.json](./16627-bombernauts.json) |
 | BomberPengu | 286689 | [286689-bomberpengu.json](./286689-bomberpengu.json) |
 | Bomberpet | 189064 | [189064-bomberpet.json](./189064-bomberpet.json) |
 | Bomberrage | 374433 | [374433-bomberrage.json](./374433-bomberrage.json) |
@@ -18421,6 +18421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Mazes | 324986 | [324986-bunny-mazes.json](./324986-bunny-mazes.json) |
 | Bunny Memory | 151406 | [151406-bunny-memory.json](./151406-bunny-memory.json) |
 | Bunny Minesweeper | 106579 | [106579-bunny-minesweeper.json](./106579-bunny-minesweeper.json) |
+| Bunny Must Die! Chelsea and the 7 Devils | 16661 | [16661-bunny-must-die-chelsea-and-the-7-devils.json](./16661-bunny-must-die-chelsea-and-the-7-devils.json) |
 | Bunny on Rails | 298831 | [298831-bunny-on-rails.json](./298831-bunny-on-rails.json) |
 | Bunny Park | 127749 | [127749-bunny-park.json](./127749-bunny-park.json) |
 | Bunny Parking | 116064 | [116064-bunny-parking.json](./116064-bunny-parking.json) |
