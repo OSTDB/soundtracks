@@ -18666,6 +18666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem 3D: Plutonium Pak | 85709 | [85709-duke-nukem-3d-plutonium-pak.json](./85709-duke-nukem-3d-plutonium-pak.json) |
 | Duke Nukem 64 | 10680 | [10680-duke-nukem-64.json](./10680-duke-nukem-64.json) |
 | Duke Nukem 64 | 354728 | [354728-duke-nukem-64.json](./354728-duke-nukem-64.json) |
+| Duke Nukem Advance | 6393 | [6393-duke-nukem-advance.json](./6393-duke-nukem-advance.json) |
 | Duke Nukem Collection 1 | 252052 | [252052-duke-nukem-collection-1.json](./252052-duke-nukem-collection-1.json) |
 | Duke Nukem Collection 2 | 252053 | [252053-duke-nukem-collection-2.json](./252053-duke-nukem-collection-2.json) |
 | Duke Nukem Eternity | 376199 | [376199-duke-nukem-eternity.json](./376199-duke-nukem-eternity.json) |
@@ -20377,6 +20378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 9: Guo Jia Additional Hypothetical Scenarios Set | 225913 | [225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json](./225913-dynasty-warriors-9-guo-jia-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors 9: Xu Shu Additional Hypothetical Scenarios Set | 225939 | [225939-dynasty-warriors-9-xu-shu-additional-hypothetical-scenarios-set.json](./225939-dynasty-warriors-9-xu-shu-additional-hypothetical-scenarios-set.json) |
 | Dynasty Warriors 9: Zhou Yu Additional Hypothetical Scenarios Set | 225909 | [225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json](./225909-dynasty-warriors-9-zhou-yu-additional-hypothetical-scenarios-set.json) |
+| Dynasty Warriors Advance | 6394 | [6394-dynasty-warriors-advance.json](./6394-dynasty-warriors-advance.json) |
 | Dynasty Warriors DS: Fighter's Battle | 21534 | [21534-dynasty-warriors-ds-fighters-battle.json](./21534-dynasty-warriors-ds-fighters-battle.json) |
 | Dynasty Warriors M | 285381 | [285381-dynasty-warriors-m.json](./285381-dynasty-warriors-m.json) |
 | Dynasty Warriors Next | 19267 | [19267-dynasty-warriors-next.json](./19267-dynasty-warriors-next.json) |
