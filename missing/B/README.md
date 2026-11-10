@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel: Choice | 33829 | [33829-babel-choice.json](./33829-babel-choice.json) |
 | Babel: The King of the Blocks | 42831 | [42831-babel-the-king-of-the-blocks.json](./42831-babel-the-king-of-the-blocks.json) |
 | Babel: Tower to the Gods | 33535 | [33535-babel-tower-to-the-gods.json](./33535-babel-tower-to-the-gods.json) |
+| Babel.exe | 398062 | [398062-babel-exe.json](./398062-babel-exe.json) |
 | BabelBloX | 96410 | [96410-babelblox.json](./96410-babelblox.json) |
 | Babelomania | 318390 | [318390-babelomania.json](./318390-babelomania.json) |
 | Babes | 273250 | [273250-babes.json](./273250-babes.json) |
@@ -1010,7 +1011,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -10771,6 +10771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlindSight Event Zero | 186760 | [186760-blindsight-event-zero.json](./186760-blindsight-event-zero.json) |
 | Blindsight: War of the Wardens | 248889 | [248889-blindsight-war-of-the-wardens.json](./248889-blindsight-war-of-the-wardens.json) |
 | Blindsighted | 287052 | [287052-blindsighted.json](./287052-blindsighted.json) |
+| blindXpot | 398068 | [398068-blindxpot.json](./398068-blindxpot.json) |
 | Blindy | 125187 | [125187-blindy.json](./125187-blindy.json) |
 | Blinest | 228731 | [228731-blinest.json](./228731-blinest.json) |
 | Bling Bling Bankruptcy | 363943 | [363943-bling-bling-bankruptcy.json](./363943-bling-bling-bankruptcy.json) |
@@ -11220,6 +11221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockBawks | 293102 | [293102-blockbawks.json](./293102-blockbawks.json) |
 | BlockBlast Friend Edition | 412895 | [412895-blockblast-friend-edition.json](./412895-blockblast-friend-edition.json) |
 | BlockBlasters | 356548 | [356548-blockblasters.json](./356548-blockblasters.json) |
+| Blockboy and The Wizard | 397985 | [397985-blockboy-and-the-wizard.json](./397985-blockboy-and-the-wizard.json) |
 | BlockBuild: Craft Your Dream World | 213679 | [213679-blockbuild-craft-your-dream-world.json](./213679-blockbuild-craft-your-dream-world.json) |
 | Blockbuster | 15677 | [15677-blockbuster.json](./15677-blockbuster.json) |
 | Blockbuster | 327740 | [327740-blockbuster.json](./327740-blockbuster.json) |
@@ -11415,6 +11417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blofeld X | 269108 | [269108-blofeld-x.json](./269108-blofeld-x.json) |
 | bLogic Blox | 110767 | [110767-blogic-blox.json](./110767-blogic-blox.json) |
 | Blogick | 232324 | [232324-blogick.json](./232324-blogick.json) |
+| Blok | 398084 | [398084-blok.json](./398084-blok.json) |
 | BLOK 200: Prologue | 415302 | [415302-blok-200-prologue.json](./415302-blok-200-prologue.json) |
 | Blok Copy | 63783 | [63783-blok-copy.json](./63783-blok-copy.json) |
 | Blok Drop Chaos | 77800 | [77800-blok-drop-chaos.json](./77800-blok-drop-chaos.json) |
@@ -14809,6 +14812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
 | Bow & Crystal Tower Defense | 157169 | [157169-bow-and-crystal-tower-defense.json](./157169-bow-and-crystal-tower-defense.json) |
 | Bow and Arrow | 67539 | [67539-bow-and-arrow.json](./67539-bow-and-arrow.json) |
+| Bow and Banister | 398052 | [398052-bow-and-banister.json](./398052-bow-and-banister.json) |
 | Bow Climb | 239660 | [239660-bow-climb.json](./239660-bow-climb.json) |
 | Bow Course: Archery Golf | 345668 | [345668-bow-course-archery-golf.json](./345668-bow-course-archery-golf.json) |
 | Bow Hunter | 374761 | [374761-bow-hunter.json](./374761-bow-hunter.json) |
