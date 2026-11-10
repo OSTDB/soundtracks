@@ -17219,6 +17219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreampunk | 248798 | [248798-dreampunk.json](./248798-dreampunk.json) |
 | Dreampunk: Virtual Unreality | 278316 | [278316-dreampunk-virtual-unreality.json](./278316-dreampunk-virtual-unreality.json) |
 | DreamPusher | 368047 | [368047-dreampusher.json](./368047-dreampusher.json) |
+| DreamRace | 412052 | [412052-dreamrace.json](./412052-dreamrace.json) |
 | DreamRace 4x4 | 175492 | [175492-dreamrace-4x4.json](./175492-dreamrace-4x4.json) |
 | Dreamrealm's Tower of Despair | 353379 | [353379-dreamrealms-tower-of-despair.json](./353379-dreamrealms-tower-of-despair.json) |
 | Dreams | 286686 | [286686-dreams.json](./286686-dreams.json) |
