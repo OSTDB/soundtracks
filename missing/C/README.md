@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: WWII - Gold Edition | 118729 | [118729-call-of-duty-wwii-gold-edition.json](./118729-call-of-duty-wwii-gold-edition.json) |
 | Call of Duty: WWII - Pro Edition | 11499 | [11499-call-of-duty-wwii-pro-edition.json](./11499-call-of-duty-wwii-pro-edition.json) |
 | Call of Duty: WWII - The Resistance DLC Pack 1 | 78917 | [78917-call-of-duty-wwii-the-resistance-dlc-pack-1.json](./78917-call-of-duty-wwii-the-resistance-dlc-pack-1.json) |
+| Call of Duty: WWII - The War Machine DLC Pack 2 | 96018 | [96018-call-of-duty-wwii-the-war-machine-dlc-pack-2.json](./96018-call-of-duty-wwii-the-war-machine-dlc-pack-2.json) |
 | Call of Duty: WWII - United Front DLC | 103518 | [103518-call-of-duty-wwii-united-front-dlc.json](./103518-call-of-duty-wwii-united-front-dlc.json) |
 | Call of Duty: WWII + Destiny 2 Bundle | 86666 | [86666-call-of-duty-wwii-destiny-2-bundle.json](./86666-call-of-duty-wwii-destiny-2-bundle.json) |
 | Call of Duty: Zombie Warfare | 304323 | [304323-call-of-duty-zombie-warfare.json](./304323-call-of-duty-zombie-warfare.json) |
@@ -2955,6 +2956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carlos the Taco | 231203 | [231203-carlos-the-taco.json](./231203-carlos-the-taco.json) |
 | Carlson's Ticker Simulator | 293130 | [293130-carlsons-ticker-simulator.json](./293130-carlsons-ticker-simulator.json) |
 | Carlton | 83477 | [83477-carlton.json](./83477-carlton.json) |
+| Carly and the Reaperman: Escape from the Underworld | 96172 | [96172-carly-and-the-reaperman-escape-from-the-underworld.json](./96172-carly-and-the-reaperman-escape-from-the-underworld.json) |
 | Carma | 172153 | [172153-carma.json](./172153-carma.json) |
 | Carmageddon | 230473 | [230473-carmageddon.json](./230473-carmageddon.json) |
 | Carmageddon | 246741 | [246741-carmageddon.json](./246741-carmageddon.json) |
@@ -3368,6 +3370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarVup | 11993 | [11993-carvup.json](./11993-carvup.json) |
 | Carwarz.io | 219269 | [219269-carwarz-io.json](./219269-carwarz-io.json) |
 | Carwash Tycoon | 72738 | [72738-carwash-tycoon.json](./72738-carwash-tycoon.json) |
+| CarX Drift Racing | 88872 | [88872-carx-drift-racing.json](./88872-carx-drift-racing.json) |
 | CarX Drift Racing 2 | 129793 | [129793-carx-drift-racing-2.json](./129793-carx-drift-racing-2.json) |
 | CarX Drift Racing 3 | 329420 | [329420-carx-drift-racing-3.json](./329420-carx-drift-racing-3.json) |
 | CarX Drift Racing Online | 51443 | [51443-carx-drift-racing-online.json](./51443-carx-drift-racing-online.json) |
