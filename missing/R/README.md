@@ -868,6 +868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RagDollJoe | 115788 | [115788-ragdolljoe.json](./115788-ragdolljoe.json) |
 | Ragdolls Playground: The Sandbox | 188908 | [188908-ragdolls-playground-the-sandbox.json](./188908-ragdolls-playground-the-sandbox.json) |
 | Ragdore | 364027 | [364027-ragdore.json](./364027-ragdore.json) |
+| Rage & Relics | 420052 | [420052-rage-and-relics.json](./420052-rage-and-relics.json) |
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage 2: Collector's Edition | 103297 | [103297-rage-2-collectors-edition.json](./103297-rage-2-collectors-edition.json) |
 | Rage 2: Deluxe Edition | 118516 | [118516-rage-2-deluxe-edition.json](./118516-rage-2-deluxe-edition.json) |
@@ -2443,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Metal | 236316 | [236316-raw-metal.json](./236316-raw-metal.json) |
 | Raw Nerve | 253567 | [253567-raw-nerve.json](./253567-raw-nerve.json) |
 | Raw Pursuit | 209311 | [209311-raw-pursuit.json](./209311-raw-pursuit.json) |
+| Rawbogem | 420029 | [420029-rawbogem.json](./420029-rawbogem.json) |
 | Rawbots | 62969 | [62969-rawbots.json](./62969-rawbots.json) |
 | Rawisland | 267449 | [267449-rawisland.json](./267449-rawisland.json) |
 | Rawmen | 106056 | [106056-rawmen.json](./106056-rawmen.json) |
@@ -5065,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relgiros | 274492 | [274492-relgiros.json](./274492-relgiros.json) |
 | Relic | 260886 | [260886-relic.json](./260886-relic.json) |
 | Relic | 338301 | [338301-relic.json](./338301-relic.json) |
+| Relic & Ruin | 420036 | [420036-relic-and-ruin.json](./420036-relic-and-ruin.json) |
 | Relic Abyss | 307089 | [307089-relic-abyss.json](./307089-relic-abyss.json) |
 | Relic Adventure | 188508 | [188508-relic-adventure.json](./188508-relic-adventure.json) |
 | Relic Alone | 34045 | [34045-relic-alone.json](./34045-relic-alone.json) |
@@ -5082,6 +5085,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Light | 353753 | [353753-relic-light.json](./353753-relic-light.json) |
 | Relic Odyssey: Ruins Of Xantao | 259176 | [259176-relic-odyssey-ruins-of-xantao.json](./259176-relic-odyssey-ruins-of-xantao.json) |
 | Relic Raiders | 70986 | [70986-relic-raiders.json](./70986-relic-raiders.json) |
+| Relic Reaver | 420046 | [420046-relic-reaver.json](./420046-relic-reaver.json) |
+| Relic Restorer | 420042 | [420042-relic-restorer.json](./420042-relic-restorer.json) |
 | Relic Runway | 181312 | [181312-relic-runway.json](./181312-relic-runway.json) |
 | Relic Rush | 304253 | [304253-relic-rush.json](./304253-relic-rush.json) |
 | Relic Space | 158326 | [158326-relic-space.json](./158326-relic-space.json) |
@@ -5108,6 +5113,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics: The 2nd Birth | 281393 | [281393-relics-the-2nd-birth.json](./281393-relics-the-2nd-birth.json) |
 | Relics: The Card Game | 347980 | [347980-relics-the-card-game.json](./347980-relics-the-card-game.json) |
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
+| Relicta In Memoriam | 420040 | [420040-relicta-in-memoriam.json](./420040-relicta-in-memoriam.json) |
+| ReliCursed | 420044 | [420044-relicursed.json](./420044-relicursed.json) |
 | RelicWar | 345809 | [345809-relicwar.json](./345809-relicwar.json) |
 | Relief | 404831 | [404831-relief.json](./404831-relief.json) |
 | Relief Pitcher | 39507 | [39507-relief-pitcher.json](./39507-relief-pitcher.json) |
@@ -9016,6 +9023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadracer Bowler | 24850 | [24850-roadracer-bowler.json](./24850-roadracer-bowler.json) |
 | RoadRunner | 120156 | [120156-roadrunner.json](./120156-roadrunner.json) |
 | RoadRunner VR | 68163 | [68163-roadrunner-vr.json](./68163-roadrunner-vr.json) |
+| Roads & Relics | 420043 | [420043-roads-and-relics.json](./420043-roads-and-relics.json) |
 | Roads & Riches | 410081 | [410081-roads-and-riches.json](./410081-roads-and-riches.json) |
 | Roads Construction Sim | 272406 | [272406-roads-construction-sim.json](./272406-roads-construction-sim.json) |
 | Roads Construction Sim | 312716 | [312716-roads-construction-sim.json](./312716-roads-construction-sim.json) |
