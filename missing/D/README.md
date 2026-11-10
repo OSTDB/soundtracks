@@ -7115,6 +7115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dennis the Menace | 198723 | [198723-dennis-the-menace.json](./198723-dennis-the-menace.json) |
 | Dennis the Menace | 248767 | [248767-dennis-the-menace.json](./248767-dennis-the-menace.json) |
 | Dennis the Menace | 311314 | [311314-dennis-the-menace.json](./311314-dennis-the-menace.json) |
+| Dennis the Menace | 37102 | [37102-dennis-the-menace.json](./37102-dennis-the-menace.json) |
 | Dennis the Menace Redux | 219078 | [219078-dennis-the-menace-redux.json](./219078-dennis-the-menace-redux.json) |
 | Dennou Gakuen | 282750 | [282750-dennou-gakuen.json](./282750-dennou-gakuen.json) |
 | Dennou Hyouryuu: Multimedia Cruising | 243209 | [243209-dennou-hyouryuu-multimedia-cruising.json](./243209-dennou-hyouryuu-multimedia-cruising.json) |
@@ -8016,6 +8017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny: The Taken King | 11174 | [11174-destiny-the-taken-king.json](./11174-destiny-the-taken-king.json) |
 | Destiny: The Taken King - Digital Collector's Edition | 118881 | [118881-destiny-the-taken-king-digital-collectors-edition.json](./118881-destiny-the-taken-king-digital-collectors-edition.json) |
 | Destiny: The Taken King - Legendary Edition | 20860 | [20860-destiny-the-taken-king-legendary-edition.json](./20860-destiny-the-taken-king-legendary-edition.json) |
+| Destiny: The Taken King - Legendary Edition | 43017 | [43017-destiny-the-taken-king-legendary-edition.json](./43017-destiny-the-taken-king-legendary-edition.json) |
 | Destiny: World Domination From Stone Age to Space Age | 51363 | [51363-destiny-world-domination-from-stone-age-to-space-age.json](./51363-destiny-world-domination-from-stone-age-to-space-age.json) |
 | Destiny's Divide | 160170 | [160170-destinys-divide.json](./160170-destinys-divide.json) |
 | Destiny's Plan | 182355 | [182355-destinys-plan.json](./182355-destinys-plan.json) |
@@ -9379,6 +9381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diercke: Junior-Quiz Geographie | 269744 | [269744-diercke-junior-quiz-geographie.json](./269744-diercke-junior-quiz-geographie.json) |
 | DieRoll | 88263 | [88263-dieroll.json](./88263-dieroll.json) |
 | Diery Heaven | 158872 | [158872-diery-heaven.json](./158872-diery-heaven.json) |
+| Dies Irae: Amantes Amentes | 37018 | [37018-dies-irae-amantes-amentes.json](./37018-dies-irae-amantes-amentes.json) |
 | Dies Irae: Amantes Amentes - Act I: Omnia Vincit Amor (Kasumi & Marie Scenario) | 174420 | [174420-dies-irae-amantes-amentes-act-i-omnia-vincit-amor-kasumi-and-marie-scenario.json](./174420-dies-irae-amantes-amentes-act-i-omnia-vincit-amor-kasumi-and-marie-scenario.json) |
 | Dies Irae: Amantes Amentes - Act II: Nihil Difficile Amanti (Kei & Rea Scenario) | 174536 | [174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json](./174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json) |
 | Dies irae: Amantes Amentes for Nintendo Switch | 105059 | [105059-dies-irae-amantes-amentes-for-nintendo-switch.json](./105059-dies-irae-amantes-amentes-for-nintendo-switch.json) |
@@ -12476,6 +12479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogyuun | 294035 | [294035-dogyuun.json](./294035-dogyuun.json) |
 | Dogyuun | 91482 | [91482-dogyuun.json](./91482-dogyuun.json) |
 | Dogz | 131393 | [131393-dogz.json](./131393-dogz.json) |
+| Dogz | 47777 | [47777-dogz.json](./47777-dogz.json) |
 | Dogz 2 | 49426 | [49426-dogz-2.json](./49426-dogz-2.json) |
 | Dogz 3: Your Virtual Petz | 151540 | [151540-dogz-3-your-virtual-petz.json](./151540-dogz-3-your-virtual-petz.json) |
 | Dogz 4 | 151539 | [151539-dogz-4.json](./151539-dogz-4.json) |
@@ -12710,6 +12714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolla World | 82332 | [82332-dolla-world.json](./82332-dolla-world.json) |
 | Dollal Simulator 2018 | 89261 | [89261-dollal-simulator-2018.json](./89261-dollal-simulator-2018.json) |
 | Dollar | 336664 | [336664-dollar.json](./336664-dollar.json) |
+| Dollar Dash | 10191 | [10191-dollar-dash.json](./10191-dollar-dash.json) |
 | Dollar Dash: More Ways to Win | 171055 | [171055-dollar-dash-more-ways-to-win.json](./171055-dollar-dash-more-ways-to-win.json) |
 | Dollar Dash: Winter Pack | 263216 | [263216-dollar-dash-winter-pack.json](./263216-dollar-dash-winter-pack.json) |
 | Dollar King | 257942 | [257942-dollar-king.json](./257942-dollar-king.json) |
@@ -14510,6 +14515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Elf Fantasy | 241663 | [241663-double-elf-fantasy.json](./241663-double-elf-fantasy.json) |
 | Double Essence | 98440 | [98440-double-essence.json](./98440-double-essence.json) |
 | Double Feature Solitaire | 93350 | [93350-double-feature-solitaire.json](./93350-double-feature-solitaire.json) |
+| Double Fine Happy Action Theater | 47423 | [47423-double-fine-happy-action-theater.json](./47423-double-fine-happy-action-theater.json) |
 | Double Fripper | 385534 | [385534-double-fripper.json](./385534-double-fripper.json) |
 | Double Golf | 413514 | [413514-double-golf.json](./413514-double-golf.json) |
 | Double Happy vs. The Infinite Sadness: Pharos | 61055 | [61055-double-happy-vs-the-infinite-sadness-pharos.json](./61055-double-happy-vs-the-infinite-sadness-pharos.json) |
