@@ -3916,6 +3916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed The Beast | 292539 | [292539-feed-the-beast.json](./292539-feed-the-beast.json) |
 | Feed the Cat | 233516 | [233516-feed-the-cat.json](./233516-feed-the-cat.json) |
 | Feed the Cat | 313271 | [313271-feed-the-cat.json](./313271-feed-the-cat.json) |
+| Feed the Cat: Gravity Puzzle | 406992 | [406992-feed-the-cat-gravity-puzzle.json](./406992-feed-the-cat-gravity-puzzle.json) |
 | Feed the Circuit | 390587 | [390587-feed-the-circuit.json](./390587-feed-the-circuit.json) |
 | Feed the Cups | 244398 | [244398-feed-the-cups.json](./244398-feed-the-cups.json) |
 | Feed the Deep | 244320 | [244320-feed-the-deep.json](./244320-feed-the-deep.json) |
@@ -7675,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame of Recca | 49412 | [49412-flame-of-recca.json](./49412-flame-of-recca.json) |
 | Flame of Valhalla | 329022 | [329022-flame-of-valhalla.json](./329022-flame-of-valhalla.json) |
 | Flame Protector: Sliding Kill | 301873 | [301873-flame-protector-sliding-kill.json](./301873-flame-protector-sliding-kill.json) |
+| Flame Up | 407022 | [407022-flame-up.json](./407022-flame-up.json) |
 | Flame VS Blaze | 27720 | [27720-flame-vs-blaze.json](./27720-flame-vs-blaze.json) |
 | Flame Zapper Kotsujin | 144086 | [144086-flame-zapper-kotsujin.json](./144086-flame-zapper-kotsujin.json) |
 | Flame, Forest & Flood | 404179 | [404179-flame-forest-and-flood.json](./404179-flame-forest-and-flood.json) |
@@ -10879,6 +10881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Clint Eastwood | 366199 | [366199-fortnite-festival-clint-eastwood.json](./366199-fortnite-festival-clint-eastwood.json) |
 | Fortnite Festival: Closer | 371635 | [371635-fortnite-festival-closer.json](./371635-fortnite-festival-closer.json) |
 | Fortnite Festival: Creatures In Heaven | 370639 | [370639-fortnite-festival-creatures-in-heaven.json](./370639-fortnite-festival-creatures-in-heaven.json) |
+| Fortnite Festival: Daisies | 407013 | [407013-fortnite-festival-daisies.json](./407013-fortnite-festival-daisies.json) |
 | Fortnite Festival: Dancing in the Flames | 369073 | [369073-fortnite-festival-dancing-in-the-flames.json](./369073-fortnite-festival-dancing-in-the-flames.json) |
 | Fortnite Festival: Dare | 366372 | [366372-fortnite-festival-dare.json](./366372-fortnite-festival-dare.json) |
 | Fortnite Festival: Die With A Smile | 366806 | [366806-fortnite-festival-die-with-a-smile.json](./366806-fortnite-festival-die-with-a-smile.json) |
@@ -10899,12 +10902,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: Gimme Chocolate!! | 370634 | [370634-fortnite-festival-gimme-chocolate.json](./370634-fortnite-festival-gimme-chocolate.json) |
 | Fortnite Festival: Givenchy | 367580 | [367580-fortnite-festival-givenchy.json](./367580-fortnite-festival-givenchy.json) |
 | Fortnite Festival: Go Go Power Rangers | 366471 | [366471-fortnite-festival-go-go-power-rangers.json](./366471-fortnite-festival-go-go-power-rangers.json) |
+| Fortnite Festival: He Gets Me So High | 407012 | [407012-fortnite-festival-he-gets-me-so-high.json](./407012-fortnite-festival-he-gets-me-so-high.json) |
 | Fortnite Festival: Heartbreaker | 372150 | [372150-fortnite-festival-heartbreaker.json](./372150-fortnite-festival-heartbreaker.json) |
 | Fortnite Festival: High Hopes | 366808 | [366808-fortnite-festival-high-hopes.json](./366808-fortnite-festival-high-hopes.json) |
 | Fortnite Festival: I Wish | 369067 | [369067-fortnite-festival-i-wish.json](./369067-fortnite-festival-i-wish.json) |
 | Fortnite Festival: Instant Crush | 370570 | [370570-fortnite-festival-instant-crush.json](./370570-fortnite-festival-instant-crush.json) |
 | Fortnite Festival: Lean Back | 366196 | [366196-fortnite-festival-lean-back.json](./366196-fortnite-festival-lean-back.json) |
 | Fortnite Festival: Locked & Loaded | 366402 | [366402-fortnite-festival-locked-and-loaded.json](./366402-fortnite-festival-locked-and-loaded.json) |
+| Fortnite Festival: Lucky Duck | 407008 | [407008-fortnite-festival-lucky-duck.json](./407008-fortnite-festival-lucky-duck.json) |
 | Fortnite Festival: Lux Æterna | 366200 | [366200-fortnite-festival-lux-terna.json](./366200-fortnite-festival-lux-terna.json) |
 | Fortnite Festival: Mambo No. 5 (A Little Bit of...) | 369075 | [369075-fortnite-festival-mambo-no-5-a-little-bit-of.json](./369075-fortnite-festival-mambo-no-5-a-little-bit-of.json) |
 | Fortnite Festival: Master of Puppets | 366197 | [366197-fortnite-festival-master-of-puppets.json](./366197-fortnite-festival-master-of-puppets.json) |
@@ -10957,6 +10962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite Festival: The Monorail Song | 378002 | [378002-fortnite-festival-the-monorail-song.json](./378002-fortnite-festival-the-monorail-song.json) |
 | Fortnite Festival: The Search | 366812 | [366812-fortnite-festival-the-search.json](./366812-fortnite-festival-the-search.json) |
 | Fortnite Festival: The Simpsons Main Title Theme (Non-Union Re-Record) | 376170 | [376170-fortnite-festival-the-simpsons-main-title-theme-non-union-re-record.json](./376170-fortnite-festival-the-simpsons-main-title-theme-non-union-re-record.json) |
+| Fortnite Festival: The Spirit Realm | 407009 | [407009-fortnite-festival-the-spirit-realm.json](./407009-fortnite-festival-the-spirit-realm.json) |
 | Fortnite Festival: Unholy | 366564 | [366564-fortnite-festival-unholy.json](./366564-fortnite-festival-unholy.json) |
 | Fortnite Festival: Uptown Funk | 372010 | [372010-fortnite-festival-uptown-funk.json](./372010-fortnite-festival-uptown-funk.json) |
 | Fortnite Festival: We Like To Party! (The Vengabus) | 370571 | [370571-fortnite-festival-we-like-to-party-the-vengabus.json](./370571-fortnite-festival-we-like-to-party-the-vengabus.json) |
