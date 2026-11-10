@@ -3903,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Island: Ryder White | 22874 | [22874-dead-island-ryder-white.json](./22874-dead-island-ryder-white.json) |
 | Dead Island: Survivors | 104961 | [104961-dead-island-survivors.json](./104961-dead-island-survivors.json) |
 | Dead Island: Zombie Hunter | 238818 | [238818-dead-island-zombie-hunter.json](./238818-dead-island-zombie-hunter.json) |
+| Dead Keys | 427833 | [427833-dead-keys.json](./427833-dead-keys.json) |
 | Dead Knight | 87859 | [87859-dead-knight.json](./87859-dead-knight.json) |
 | Dead Knight: Pocket Edition | 87858 | [87858-dead-knight-pocket-edition.json](./87858-dead-knight-pocket-edition.json) |
 | Dead Lab | 223661 | [223661-dead-lab.json](./223661-dead-lab.json) |
@@ -3914,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Letter Dept. | 157024 | [157024-dead-letter-dept.json](./157024-dead-letter-dept.json) |
 | Dead Light | 100921 | [100921-dead-light.json](./100921-dead-light.json) |
 | Dead Like Ants | 216240 | [216240-dead-like-ants.json](./216240-dead-like-ants.json) |
+| Dead Link | 427853 | [427853-dead-link.json](./427853-dead-link.json) |
 | Dead Link: Pages Torn | 75808 | [75808-dead-link-pages-torn.json](./75808-dead-link-pages-torn.json) |
 | Dead Mall | 342614 | [342614-dead-mall.json](./342614-dead-mall.json) |
 | Dead Man Inc | 77781 | [77781-dead-man-inc.json](./77781-dead-man-inc.json) |
@@ -8588,6 +8590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Ninja Fight: Kungfu combat | 255058 | [255058-devil-ninja-fight-kungfu-combat.json](./255058-devil-ninja-fight-kungfu-combat.json) |
 | Devil of the Mirror | 182987 | [182987-devil-of-the-mirror.json](./182987-devil-of-the-mirror.json) |
 | Devil of the Mirror | 331793 | [331793-devil-of-the-mirror.json](./331793-devil-of-the-mirror.json) |
+| Devil on My Shoulder | 427832 | [427832-devil-on-my-shoulder.json](./427832-devil-on-my-shoulder.json) |
 | Devil on Your Shoulder | 199272 | [199272-devil-on-your-shoulder.json](./199272-devil-on-your-shoulder.json) |
 | Devil Piece | 174645 | [174645-devil-piece.json](./174645-devil-piece.json) |
 | Devil Rhythm -Silver Phantom- | 83401 | [83401-devil-rhythm-silver-phantom.json](./83401-devil-rhythm-silver-phantom.json) |
@@ -16640,6 +16643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreadholm | 399356 | [399356-dreadholm.json](./399356-dreadholm.json) |
 | Dreadhunter | 221117 | [221117-dreadhunter.json](./221117-dreadhunter.json) |
 | Dreadlands | 117002 | [117002-dreadlands.json](./117002-dreadlands.json) |
+| Dreadlight | 427816 | [427816-dreadlight.json](./427816-dreadlight.json) |
 | Dreadline: Net Quota | 345686 | [345686-dreadline-net-quota.json](./345686-dreadline-net-quota.json) |
 | Dreadmiles | 425500 | [425500-dreadmiles.json](./425500-dreadmiles.json) |
 | Dreadmire | 114675 | [114675-dreadmire.json](./114675-dreadmire.json) |
@@ -17457,6 +17461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Stunt Racing 2019 | 109769 | [109769-drift-stunt-racing-2019.json](./109769-drift-stunt-racing-2019.json) |
 | Drift Sumi-e | 64294 | [64294-drift-sumi-e.json](./64294-drift-sumi-e.json) |
 | Drift Survivor | 266623 | [266623-drift-survivor.json](./266623-drift-survivor.json) |
+| Drift Tank | 427821 | [427821-drift-tank.json](./427821-drift-tank.json) |
 | Drift to Sleep | 414103 | [414103-drift-to-sleep.json](./414103-drift-to-sleep.json) |
 | Drift Type C | 200471 | [200471-drift-type-c.json](./200471-drift-type-c.json) |
 | Drift Vector | 266091 | [266091-drift-vector.json](./266091-drift-vector.json) |
@@ -19458,6 +19463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Walk 2: Konton no Kamigami | 291494 | [291494-dungeon-walk-2-konton-no-kamigami.json](./291494-dungeon-walk-2-konton-no-kamigami.json) |
 | Dungeon Walk 4: Solitary Insect Princess | 391124 | [391124-dungeon-walk-4-solitary-insect-princess.json](./391124-dungeon-walk-4-solitary-insect-princess.json) |
 | Dungeon Walk: Ryuumeikyuu no Kanrisha | 236525 | [236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json](./236525-dungeon-walk-ryuumeikyuu-no-kanrisha.json) |
+| Dungeon Wanderers | 427855 | [427855-dungeon-wanderers.json](./427855-dungeon-wanderers.json) |
 | Dungeon Ward | 193851 | [193851-dungeon-ward.json](./193851-dungeon-ward.json) |
 | Dungeon Warfare | 28205 | [28205-dungeon-warfare.json](./28205-dungeon-warfare.json) |
 | Dungeon Warfare 2 | 102273 | [102273-dungeon-warfare-2.json](./102273-dungeon-warfare-2.json) |
