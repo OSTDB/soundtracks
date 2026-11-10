@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uanamon: Rugly Invasion | 260001 | [260001-uanamon-rugly-invasion.json](./260001-uanamon-rugly-invasion.json) |
 | UAV Wars | 92672 | [92672-uav-wars.json](./92672-uav-wars.json) |
 | Uayeb | 29539 | [29539-uayeb.json](./29539-uayeb.json) |
+| Ubai Ending | 417218 | [417218-ubai-ending.json](./417218-ubai-ending.json) |
 | Ubai: To Take Another Man's Property | 384000 | [384000-ubai-to-take-another-mans-property.json](./384000-ubai-to-take-another-mans-property.json) |
 | Ubaste | 218474 | [218474-ubaste.json](./218474-ubaste.json) |
 | Ubasute | 360458 | [360458-ubasute.json](./360458-ubasute.json) |
