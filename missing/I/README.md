@@ -1744,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Supermarket Tycoon | 115994 | [115994-idle-supermarket-tycoon.json](./115994-idle-supermarket-tycoon.json) |
 | Idle Superpowers | 182300 | [182300-idle-superpowers.json](./182300-idle-superpowers.json) |
 | Idle Surge | 230733 | [230733-idle-surge.json](./230733-idle-surge.json) |
+| Idle Survivor | 412527 | [412527-idle-survivor.json](./412527-idle-survivor.json) |
 | Idle Sushi Bar Tycoon | 420926 | [420926-idle-sushi-bar-tycoon.json](./420926-idle-sushi-bar-tycoon.json) |
 | Idle Sweeper | 100446 | [100446-idle-sweeper.json](./100446-idle-sweeper.json) |
 | Idle Sword | 182714 | [182714-idle-sword.json](./182714-idle-sword.json) |
@@ -5092,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inter Milan Club Football | 267887 | [267887-inter-milan-club-football.json](./267887-inter-milan-club-football.json) |
 | Inter Milan Club Football 2005 | 267906 | [267906-inter-milan-club-football-2005.json](./267906-inter-milan-club-football-2005.json) |
 | Inter Solar 83 | 236231 | [236231-inter-solar-83.json](./236231-inter-solar-83.json) |
+| Inter-Dimensional Security | 414017 | [414017-inter-dimensional-security.json](./414017-inter-dimensional-security.json) |
 | Inter-view | 134909 | [134909-inter-view.json](./134909-inter-view.json) |
 | INTER08JECT | 312595 | [312595-inter08ject.json](./312595-inter08ject.json) |
 | InterAct | 247002 | [247002-interact.json](./247002-interact.json) |
