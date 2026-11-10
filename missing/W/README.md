@@ -1292,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wardens of Avalon | 405146 | [405146-wardens-of-avalon.json](./405146-wardens-of-avalon.json) |
 | Wardens of Chaos | 288477 | [288477-wardens-of-chaos.json](./288477-wardens-of-chaos.json) |
 | Wardens of the Amber Cage | 103477 | [103477-wardens-of-the-amber-cage.json](./103477-wardens-of-the-amber-cage.json) |
+| Wardens of Wen | 397370 | [397370-wardens-of-wen.json](./397370-wardens-of-wen.json) |
 | Wardens Rising | 144514 | [144514-wardens-rising.json](./144514-wardens-rising.json) |
 | WarDevil: Unleash the Beast Within | 72988 | [72988-wardevil-unleash-the-beast-within.json](./72988-wardevil-unleash-the-beast-within.json) |
 | Wardialler | 118141 | [118141-wardialler.json](./118141-wardialler.json) |
@@ -3944,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Comes After | 142382 | [142382-what-comes-after.json](./142382-what-comes-after.json) |
 | What Comes After | 143264 | [143264-what-comes-after.json](./143264-what-comes-after.json) |
 | What Comes After | 354300 | [354300-what-comes-after.json](./354300-what-comes-after.json) |
+| What Comes Around | 397438 | [397438-what-comes-around.json](./397438-what-comes-around.json) |
 | What Comes Next | 332974 | [332974-what-comes-next.json](./332974-what-comes-next.json) |
 | What Could Go Wrong? | 344415 | [344415-what-could-go-wrong.json](./344415-what-could-go-wrong.json) |
 | What da Yak | 214758 | [214758-what-da-yak.json](./214758-what-da-yak.json) |
@@ -6054,6 +6056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WindWord | 104641 | [104641-windword.json](./104641-windword.json) |
 | Windwoven | 374606 | [374606-windwoven.json](./374606-windwoven.json) |
 | Windy Creator | 327751 | [327751-windy-creator.json](./327751-windy-creator.json) |
+| Windy Days | 397441 | [397441-windy-days.json](./397441-windy-days.json) |
 | Windy Meadow: A Roadwarden Tale | 243774 | [243774-windy-meadow-a-roadwarden-tale.json](./243774-windy-meadow-a-roadwarden-tale.json) |
 | Windy Mystletainn | 284344 | [284344-windy-mystletainn.json](./284344-windy-mystletainn.json) |
 | Windy Waltz | 248682 | [248682-windy-waltz.json](./248682-windy-waltz.json) |
