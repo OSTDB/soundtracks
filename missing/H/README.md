@@ -1054,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammal | 287521 | [287521-hammal.json](./287521-hammal.json) |
 | Hammena Dreams | 109267 | [109267-hammena-dreams.json](./109267-hammena-dreams.json) |
 | Hammer | 247029 | [247029-hammer.json](./247029-hammer.json) |
+| Hammer & Anvil VR | 114860 | [114860-hammer-and-anvil-vr.json](./114860-hammer-and-anvil-vr.json) |
 | Hammer & Harvest: Dwarven Roots | 396742 | [396742-hammer-and-harvest-dwarven-roots.json](./396742-hammer-and-harvest-dwarven-roots.json) |
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
 | Hammer & Sickle | 22581 | [22581-hammer-and-sickle.json](./22581-hammer-and-sickle.json) |
@@ -6588,6 +6589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroine Anthem XP: The Angel of Sarem | 85760 | [85760-heroine-anthem-xp-the-angel-of-sarem.json](./85760-heroine-anthem-xp-the-angel-of-sarem.json) |
 | Heroine Anthem Zero | 30997 | [30997-heroine-anthem-zero.json](./30997-heroine-anthem-zero.json) |
 | Heroine Anthem Zero: Episode 1 | 99465 | [99465-heroine-anthem-zero-episode-1.json](./99465-heroine-anthem-zero-episode-1.json) |
+| Heroine Anthem Zero: Episode 2 | 114467 | [114467-heroine-anthem-zero-episode-2.json](./114467-heroine-anthem-zero-episode-2.json) |
 | Heroine Dream | 61566 | [61566-heroine-dream.json](./61566-heroine-dream.json) |
 | Heroine Dream 2 | 61565 | [61565-heroine-dream-2.json](./61565-heroine-dream-2.json) |
 | Heroine Dusk | 181260 | [181260-heroine-dusk.json](./181260-heroine-dusk.json) |
@@ -7627,6 +7629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Robo Cats: Bonus Level | 289453 | [289453-hidden-robo-cats-bonus-level.json](./289453-hidden-robo-cats-bonus-level.json) |
 | Hidden Rule | 361341 | [361341-hidden-rule.json](./361341-hidden-rule.json) |
 | Hidden Runaway | 54091 | [54091-hidden-runaway.json](./54091-hidden-runaway.json) |
+| Hidden Saga: Xamadeon Stone | 115160 | [115160-hidden-saga-xamadeon-stone.json](./115160-hidden-saga-xamadeon-stone.json) |
 | Hidden SciFi City Top-Down 3D | 257110 | [257110-hidden-scifi-city-top-down-3d.json](./257110-hidden-scifi-city-top-down-3d.json) |
 | Hidden Secrets 2 | 95756 | [95756-hidden-secrets-2.json](./95756-hidden-secrets-2.json) |
 | Hidden Secrets: The Nightmare | 209901 | [209901-hidden-secrets-the-nightmare.json](./209901-hidden-secrets-the-nightmare.json) |
@@ -10302,6 +10305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopeless: Space Shooting | 56278 | [56278-hopeless-space-shooting.json](./56278-hopeless-space-shooting.json) |
 | Hopeless: The Dark Cave | 56270 | [56270-hopeless-the-dark-cave.json](./56270-hopeless-the-dark-cave.json) |
 | Hopeless. | 228080 | [228080-hopeless.json](./228080-hopeless.json) |
+| HopeLine | 114838 | [114838-hopeline.json](./114838-hopeline.json) |
 | Hopepunk City | 255098 | [255098-hopepunk-city.json](./255098-hopepunk-city.json) |
 | Hopetown | 329296 | [329296-hopetown.json](./329296-hopetown.json) |
 | Hopfall | 370126 | [370126-hopfall.json](./370126-hopfall.json) |
