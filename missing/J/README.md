@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Level Design Collab | 381999 | [381999-japanese-level-design-collab.json](./381999-japanese-level-design-collab.json) |
 | Japanese Love | 349864 | [349864-japanese-love.json](./349864-japanese-love.json) |
 | Japanese Mah-jongg | 100711 | [100711-japanese-mah-jongg.json](./100711-japanese-mah-jongg.json) |
+| Japanese Mature: Sex Dreams | 418091 | [418091-japanese-mature-sex-dreams.json](./418091-japanese-mature-sex-dreams.json) |
 | Japanese Milf | 275436 | [275436-japanese-milf.json](./275436-japanese-milf.json) |
 | Japanese Money Simulator | 182596 | [182596-japanese-money-simulator.json](./182596-japanese-money-simulator.json) |
 | Japanese Neko-sama Escape: The Local Train | 207889 | [207889-japanese-neko-sama-escape-the-local-train.json](./207889-japanese-neko-sama-escape-the-local-train.json) |
@@ -2756,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly Riot | 113903 | [113903-jolly-riot.json](./113903-jolly-riot.json) |
 | Jolly Roger | 176828 | [176828-jolly-roger.json](./176828-jolly-roger.json) |
 | Jolly Rogers Pirates Rumble | 291530 | [291530-jolly-rogers-pirates-rumble.json](./291530-jolly-rogers-pirates-rumble.json) |
+| Jolly: Anniversary Edition | 418067 | [418067-jolly-anniversary-edition.json](./418067-jolly-anniversary-edition.json) |
 | Jolly's Hardcore Mod | 269866 | [269866-jollys-hardcore-mod.json](./269866-jollys-hardcore-mod.json) |
 | JollyWorld | 162408 | [162408-jollyworld.json](./162408-jollyworld.json) |
 | Jolt Family Robot Racer | 85217 | [85217-jolt-family-robot-racer.json](./85217-jolt-family-robot-racer.json) |
