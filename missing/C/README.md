@@ -8521,6 +8521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choujikuu Yousai Macross: Countdown | 221272 | [221272-choujikuu-yousai-macross-countdown.json](./221272-choujikuu-yousai-macross-countdown.json) |
 | Choujikuu Yousai Macross: Eien no Love Song | 76906 | [76906-choujikuu-yousai-macross-eien-no-love-song.json](./76906-choujikuu-yousai-macross-eien-no-love-song.json) |
 | Choujikuu Yousai Macross: Love Stories | 416872 | [416872-choujikuu-yousai-macross-love-stories.json](./416872-choujikuu-yousai-macross-love-stories.json) |
+| Choujikuu Yousai Macross: Remember Me | 416894 | [416894-choujikuu-yousai-macross-remember-me.json](./416894-choujikuu-yousai-macross-remember-me.json) |
 | Choujikuu Yousai Macross: Scrambled Valkyrie | 42537 | [42537-choujikuu-yousai-macross-scrambled-valkyrie.json](./42537-choujikuu-yousai-macross-scrambled-valkyrie.json) |
 | Choujikuu Yousai Macross: Skull Leader | 54761 | [54761-choujikuu-yousai-macross-skull-leader.json](./54761-choujikuu-yousai-macross-skull-leader.json) |
 | Choujin | 322743 | [322743-choujin.json](./322743-choujin.json) |
@@ -13824,6 +13825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Communion | 290724 | [290724-communion.json](./290724-communion.json) |
 | Communist Mutants from Space | 11154 | [11154-communist-mutants-from-space.json](./11154-communist-mutants-from-space.json) |
 | Communite | 243456 | [243456-communite.json](./243456-communite.json) |
+| Community Arena | 416742 | [416742-community-arena.json](./416742-community-arena.json) |
 | Community Ball | 289541 | [289541-community-ball.json](./289541-community-ball.json) |
 | Community Build Project 2 | 273145 | [273145-community-build-project-2.json](./273145-community-build-project-2.json) |
 | Community Build Project 3 | 273146 | [273146-community-build-project-3.json](./273146-community-build-project-3.json) |
@@ -15448,6 +15450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corah | 237636 | [237636-corah.json](./237636-corah.json) |
 | Coral & The Abyss | 311890 | [311890-coral-and-the-abyss.json](./311890-coral-and-the-abyss.json) |
 | Coral Caper | 245794 | [245794-coral-caper.json](./245794-coral-caper.json) |
+| Coral Chronicles: Bookworms and Barnacles - Collector's Edition | 416481 | [416481-coral-chronicles-bookworms-and-barnacles-collectors-edition.json](./416481-coral-chronicles-bookworms-and-barnacles-collectors-edition.json) |
 | Coral Drive | 192781 | [192781-coral-drive.json](./192781-coral-drive.json) |
 | Coral Island: Kids Grow Up | 424043 | [424043-coral-island-kids-grow-up.json](./424043-coral-island-kids-grow-up.json) |
 | Coral Island: Multiplayer & Romance | 347857 | [347857-coral-island-multiplayer-and-romance.json](./347857-coral-island-multiplayer-and-romance.json) |
@@ -16778,6 +16781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Island Cleaner | 423082 | [423082-cozy-island-cleaner.json](./423082-cozy-island-cleaner.json) |
 | Cozy Island Idle | 272775 | [272775-cozy-island-idle.json](./272775-cozy-island-idle.json) |
 | Cozy Islands | 208194 | [208194-cozy-islands.json](./208194-cozy-islands.json) |
+| Cozy Jigsaw HD | 416469 | [416469-cozy-jigsaw-hd.json](./416469-cozy-jigsaw-hd.json) |
 | Cozy Jigsaw Puzzle | 272636 | [272636-cozy-jigsaw-puzzle.json](./272636-cozy-jigsaw-puzzle.json) |
 | Cozy Jigsaw Puzzles | 378752 | [378752-cozy-jigsaw-puzzles.json](./378752-cozy-jigsaw-puzzles.json) |
 | Cozy Keep: Farm, Craft, Manage | 271208 | [271208-cozy-keep-farm-craft-manage.json](./271208-cozy-keep-farm-craft-manage.json) |
@@ -18454,6 +18458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminals Within | 242323 | [242323-criminals-within.json](./242323-criminals-within.json) |
 | CrimSaw | 337402 | [337402-crimsaw.json](./337402-crimsaw.json) |
 | Crimson | 343262 | [343262-crimson.json](./343262-crimson.json) |
+| Crimson | 416474 | [416474-crimson.json](./416474-crimson.json) |
 | Crimson Alliance | 21147 | [21147-crimson-alliance.json](./21147-crimson-alliance.json) |
 | Crimson Angel | 339339 | [339339-crimson-angel.json](./339339-crimson-angel.json) |
 | Crimson Asylum | 322663 | [322663-crimson-asylum.json](./322663-crimson-asylum.json) |
