@@ -399,6 +399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceball Captain | 356203 | [356203-faceball-captain.json](./356203-faceball-captain.json) |
 | FaceBreaker | 4852 | [4852-facebreaker.json](./4852-facebreaker.json) |
 | FaceBreaker K.O. Party | 85129 | [85129-facebreaker-k-o-party.json](./85129-facebreaker-k-o-party.json) |
+| FaceChase | 407615 | [407615-facechase.json](./407615-facechase.json) |
 | Faced | 181377 | [181377-faced.json](./181377-faced.json) |
 | Faceez | 85130 | [85130-faceez.json](./85130-faceez.json) |
 | Faceez: Monsters! | 85131 | [85131-faceez-monsters.json](./85131-faceez-monsters.json) |
@@ -7480,6 +7481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Treasure Island: Old Builds | 238428 | [238428-five-nights-at-treasure-island-old-builds.json](./238428-five-nights-at-treasure-island-old-builds.json) |
 | Five Nights at Treasure Island: Room Zero | 272819 | [272819-five-nights-at-treasure-island-room-zero.json](./272819-five-nights-at-treasure-island-room-zero.json) |
 | Five Nights at Treasure Island: Sister Location | 274981 | [274981-five-nights-at-treasure-island-sister-location.json](./274981-five-nights-at-treasure-island-sister-location.json) |
+| Five Nights at Triangle | 407636 | [407636-five-nights-at-triangle.json](./407636-five-nights-at-triangle.json) |
 | Five Nights at Vsauce VR | 323802 | [323802-five-nights-at-vsauce-vr.json](./323802-five-nights-at-vsauce-vr.json) |
 | Five Nights at Wario's | 50258 | [50258-five-nights-at-warios.json](./50258-five-nights-at-warios.json) |
 | Five Nights at Wario's 2 | 259362 | [259362-five-nights-at-warios-2.json](./259362-five-nights-at-warios-2.json) |
@@ -8046,6 +8048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleeting Shores | 392220 | [392220-fleeting-shores.json](./392220-fleeting-shores.json) |
 | Fleeting Summer's End | 371121 | [371121-fleeting-summers-end.json](./371121-fleeting-summers-end.json) |
 | Fleeting World | 166891 | [166891-fleeting-world.json](./166891-fleeting-world.json) |
+| FleetLord | 407673 | [407673-fleetlord.json](./407673-fleetlord.json) |
 | FleetMaster | 234060 | [234060-fleetmaster.json](./234060-fleetmaster.json) |
 | Fleetoad Mac | 184928 | [184928-fleetoad-mac.json](./184928-fleetoad-mac.json) |
 | Fleets of Ascendancy | 86444 | [86444-fleets-of-ascendancy.json](./86444-fleets-of-ascendancy.json) |
@@ -9216,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyonoid | 122971 | [122971-flyonoid.json](./122971-flyonoid.json) |
 | FlyOrDie GemJam | 79952 | [79952-flyordie-gemjam.json](./79952-flyordie-gemjam.json) |
 | Flyout | 271036 | [271036-flyout.json](./271036-flyout.json) |
+| Flyra: FPV Drone Simulator | 407654 | [407654-flyra-fpv-drone-simulator.json](./407654-flyra-fpv-drone-simulator.json) |
 | Flyto | 244480 | [244480-flyto.json](./244480-flyto.json) |
 | Flytrapped | 392491 | [392491-flytrapped.json](./392491-flytrapped.json) |
 | FlyWarzz | 108707 | [108707-flywarzz.json](./108707-flywarzz.json) |
@@ -12201,7 +12205,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Puzzle | 407946 | [407946-free-puzzle.json](./407946-free-puzzle.json) |
 | Free Realms | 20279 | [20279-free-realms.json](./20279-free-realms.json) |
 | Free Realms: Sunrise | 141650 | [141650-free-realms-sunrise.json](./141650-free-realms-sunrise.json) |
+| Free Rider | 407650 | [407650-free-rider.json](./407650-free-rider.json) |
+| Free Rider 2 | 407652 | [407652-free-rider-2.json](./407652-free-rider-2.json) |
+| Free Rider 3 | 407656 | [407656-free-rider-3.json](./407656-free-rider-3.json) |
 | Free Rider HD | 56392 | [56392-free-rider-hd.json](./56392-free-rider-hd.json) |
+| Free Rider Jumps | 407659 | [407659-free-rider-jumps.json](./407659-free-rider-jumps.json) |
 | Free Rider Lite | 350924 | [350924-free-rider-lite.json](./350924-free-rider-lite.json) |
 | Free Road | 99464 | [99464-free-road.json](./99464-free-road.json) |
 | Free Royale | 137976 | [137976-free-royale.json](./137976-free-royale.json) |
@@ -12917,6 +12925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog vs Mural Girl 2: The Back Layer | 409762 | [409762-frog-vs-mural-girl-2-the-back-layer.json](./409762-frog-vs-mural-girl-2-the-back-layer.json) |
 | Frog Wizard Gem Quest | 228993 | [228993-frog-wizard-gem-quest.json](./228993-frog-wizard-gem-quest.json) |
 | Frog X Bird | 55642 | [55642-frog-x-bird.json](./55642-frog-x-bird.json) |
+| Frog Yyes | 407633 | [407633-frog-yyes.json](./407633-frog-yyes.json) |
 | Frog! | 246187 | [246187-frog.json](./246187-frog.json) |
 | Frog's Adventure | 259738 | [259738-frogs-adventure.json](./259738-frogs-adventure.json) |
 | Frog's Princess | 171822 | [171822-frogs-princess.json](./171822-frogs-princess.json) |
