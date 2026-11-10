@@ -2768,6 +2768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardoom | 386985 | [386985-cardoom.json](./386985-cardoom.json) |
 | Cardopolis | 374655 | [374655-cardopolis.json](./374655-cardopolis.json) |
 | Cardow! | 190817 | [190817-cardow.json](./190817-cardow.json) |
+| Cardpocalypse | 106150 | [106150-cardpocalypse.json](./106150-cardpocalypse.json) |
 | Cardpocalypse: Out of Time | 154597 | [154597-cardpocalypse-out-of-time.json](./154597-cardpocalypse-out-of-time.json) |
 | Cardpocalypse: Time Warp Edition | 154554 | [154554-cardpocalypse-time-warp-edition.json](./154554-cardpocalypse-time-warp-edition.json) |
 | Cardrottini | 347031 | [347031-cardrottini.json](./347031-cardrottini.json) |
@@ -3954,6 +3955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastleStorm VR | 54532 | [54532-castlestorm-vr.json](./54532-castlestorm-vr.json) |
 | CastleStorm: Complete Edition | 99924 | [99924-castlestorm-complete-edition.json](./99924-castlestorm-complete-edition.json) |
 | CastleStorm: Definitive Edition | 20294 | [20294-castlestorm-definitive-edition.json](./20294-castlestorm-definitive-edition.json) |
+| CastleStorm: Virtual Reality | 104782 | [104782-castlestorm-virtual-reality.json](./104782-castlestorm-virtual-reality.json) |
 | Castlevania | 322123 | [322123-castlevania.json](./322123-castlevania.json) |
 | Castlevania | 322127 | [322127-castlevania.json](./322127-castlevania.json) |
 | Castlevania | 322129 | [322129-castlevania.json](./322129-castlevania.json) |
@@ -5520,6 +5522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Fragments | 396219 | [396219-celestial-fragments.json](./396219-celestial-fragments.json) |
 | Celestial Golf | 364373 | [364373-celestial-golf.json](./364373-celestial-golf.json) |
 | Celestial Green | 181706 | [181706-celestial-green.json](./181706-celestial-green.json) |
+| Celestial Hacker Girl Jessica | 104884 | [104884-celestial-hacker-girl-jessica.json](./104884-celestial-hacker-girl-jessica.json) |
 | Celestial Hearts | 141817 | [141817-celestial-hearts.json](./141817-celestial-hearts.json) |
 | Celestial Heights | 180820 | [180820-celestial-heights.json](./180820-celestial-heights.json) |
 | Celestial Impact | 62665 | [62665-celestial-impact.json](./62665-celestial-impact.json) |
@@ -7590,6 +7593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Range Bundle | 139947 | [139947-chicken-range-bundle.json](./139947-chicken-range-bundle.json) |
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
 | Chicken Rescue | 393128 | [393128-chicken-rescue.json](./393128-chicken-rescue.json) |
+| Chicken Rider | 104878 | [104878-chicken-rider.json](./104878-chicken-rider.json) |
 | Chicken Riot | 20421 | [20421-chicken-riot.json](./20421-chicken-riot.json) |
 | Chicken Royale | 399747 | [399747-chicken-royale.json](./399747-chicken-royale.json) |
 | Chicken Run | 198716 | [198716-chicken-run.json](./198716-chicken-run.json) |
