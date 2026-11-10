@@ -834,6 +834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quench | 106138 | [106138-quench.json](./106138-quench.json) |
 | QuentBlast | 218666 | [218666-quentblast.json](./218666-quentblast.json) |
 | Quento | 90205 | [90205-quento.json](./90205-quento.json) |
+| Querent | 396859 | [396859-querent.json](./396859-querent.json) |
 | Quescaper | 306262 | [306262-quescaper.json](./306262-quescaper.json) |
 | Quest | 308451 | [308451-quest.json](./308451-quest.json) |
 | Quest | 394628 | [394628-quest.json](./394628-quest.json) |
@@ -1189,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Brain Workout | 358626 | [358626-quiz-brain-workout.json](./358626-quiz-brain-workout.json) |
 | Quiz Caravan Cult Q | 97683 | [97683-quiz-caravan-cult-q.json](./97683-quiz-caravan-cult-q.json) |
 | Quiz Carnival 2 -Meguriai Version- | 106284 | [106284-quiz-carnival-2-meguriai-version.json](./106284-quiz-carnival-2-meguriai-version.json) |
+| Quiz Challenge Multiplayer | 413939 | [413939-quiz-challenge-multiplayer.json](./413939-quiz-challenge-multiplayer.json) |
 | Quiz Climber | 94122 | [94122-quiz-climber.json](./94122-quiz-climber.json) |
 | Quiz Club | 97059 | [97059-quiz-club.json](./97059-quiz-club.json) |
 | Quiz Country Flags | 104110 | [104110-quiz-country-flags.json](./104110-quiz-country-flags.json) |
@@ -1292,6 +1294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuizKnock Stadium | 153511 | [153511-quizknock-stadium.json](./153511-quizknock-stadium.json) |
 | Quizl | 225272 | [225272-quizl.json](./225272-quizl.json) |
 | QuizMania | 320156 | [320156-quizmania.json](./320156-quizmania.json) |
+| Quizmaster | 413988 | [413988-quizmaster.json](./413988-quizmaster.json) |
 | QuizMasters | 408423 | [408423-quizmasters.json](./408423-quizmasters.json) |
 | QuizMi | 318989 | [318989-quizmi.json](./318989-quizmi.json) |
 | QuizPig | 232262 | [232262-quizpig.json](./232262-quizpig.json) |
