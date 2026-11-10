@@ -8856,6 +8856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromatic Chaos | 338524 | [338524-chromatic-chaos.json](./338524-chromatic-chaos.json) |
 | Chromatic Conundrum | 338525 | [338525-chromatic-conundrum.json](./338525-chromatic-conundrum.json) |
 | Chromatic Cruiser | 388332 | [388332-chromatic-cruiser.json](./388332-chromatic-cruiser.json) |
+| Chromatic Dragon Pattern Perception | 397456 | [397456-chromatic-dragon-pattern-perception.json](./397456-chromatic-dragon-pattern-perception.json) |
 | Chromatic Fantasia EX | 98442 | [98442-chromatic-fantasia-ex.json](./98442-chromatic-fantasia-ex.json) |
 | Chromatic Isle | 275740 | [275740-chromatic-isle.json](./275740-chromatic-isle.json) |
 | Chromatic Labyrinth | 167603 | [167603-chromatic-labyrinth.json](./167603-chromatic-labyrinth.json) |
@@ -10835,6 +10836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cliché: Critical Change | 113829 | [113829-cliche-critical-change.json](./113829-cliche-critical-change.json) |
 | Click & Click | 118633 | [118633-click-and-click.json](./118633-click-and-click.json) |
 | Click & Cum | 236100 | [236100-click-and-cum.json](./236100-click-and-cum.json) |
+| Click & Mine | 397443 | [397443-click-and-mine.json](./397443-click-and-mine.json) |
 | Click Adventure | 364144 | [364144-click-adventure.json](./364144-click-adventure.json) |
 | Click and Collect | 199349 | [199349-click-and-collect.json](./199349-click-and-collect.json) |
 | Click and Conquer | 342682 | [342682-click-and-conquer.json](./342682-click-and-conquer.json) |
@@ -20402,6 +20404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuberun | 336954 | [336954-cuberun.json](./336954-cuberun.json) |
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
 | CubeRun 2 | 242444 | [242444-cuberun-2.json](./242444-cuberun-2.json) |
+| Cuberun’24 | 397458 | [397458-cuberun-24.json](./397458-cuberun-24.json) |
 | Cuberuns | 210631 | [210631-cuberuns.json](./210631-cuberuns.json) |
 | Cubes | 241707 | [241707-cubes.json](./241707-cubes.json) |
 | Cubes | 247072 | [247072-cubes.json](./247072-cubes.json) |
