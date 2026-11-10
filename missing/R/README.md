@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Empire: Nintendo Switch Starter Bundle | 283198 | [283198-railway-empire-nintendo-switch-starter-bundle.json](./283198-railway-empire-nintendo-switch-starter-bundle.json) |
 | Railway Empire: Northern Europe | 145502 | [145502-railway-empire-northern-europe.json](./145502-railway-empire-northern-europe.json) |
 | Railway Empire: The Great Lakes | 124834 | [124834-railway-empire-the-great-lakes.json](./124834-railway-empire-the-great-lakes.json) |
+| Railway End | 399397 | [399397-railway-end.json](./399397-railway-end.json) |
 | Railway Escape | 236996 | [236996-railway-escape.json](./236996-railway-escape.json) |
 | Railway Fugitive | 267135 | [267135-railway-fugitive.json](./267135-railway-fugitive.json) |
 | Railway Inferno | 346095 | [346095-railway-inferno.json](./346095-railway-inferno.json) |
@@ -4057,6 +4058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Death: 8Feet | 121132 | [121132-red-death-8feet.json](./121132-red-death-8feet.json) |
 | Red Desert Render | 132148 | [132148-red-desert-render.json](./132148-red-desert-render.json) |
 | Red Dog: Superior Firepower | 45835 | [45835-red-dog-superior-firepower.json](./45835-red-dog-superior-firepower.json) |
+| Red Door Yellow Door | 399550 | [399550-red-door-yellow-door.json](./399550-red-door-yellow-door.json) |
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
 | Red Dot: Front Line | 227166 | [227166-red-dot-front-line.json](./227166-red-dot-front-line.json) |
 | Red Dove | 343155 | [343155-red-dove.json](./343155-red-dove.json) |
@@ -6782,6 +6784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant in the Paradise | 114501 | [114501-revenant-in-the-paradise.json](./114501-revenant-in-the-paradise.json) |
 | Revenant Knight | 322602 | [322602-revenant-knight.json](./322602-revenant-knight.json) |
 | Revenant March | 127858 | [127858-revenant-march.json](./127858-revenant-march.json) |
+| Revenant Maze | 399395 | [399395-revenant-maze.json](./399395-revenant-maze.json) |
 | Revenant of Tsushima | 425193 | [425193-revenant-of-tsushima.json](./425193-revenant-of-tsushima.json) |
 | Revenant Saga | 31472 | [31472-revenant-saga.json](./31472-revenant-saga.json) |
 | Revenant Saga & Revenant Dogma | 196682 | [196682-revenant-saga-and-revenant-dogma.json](./196682-revenant-saga-and-revenant-dogma.json) |
