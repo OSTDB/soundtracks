@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCradle | 83522 | [83522-ncradle.json](./83522-ncradle.json) |
 | NDE Rescue | 31857 | [31857-nde-rescue.json](./31857-nde-rescue.json) |
 | NDR Racing | 60862 | [60862-ndr-racing.json](./60862-ndr-racing.json) |
+| Ne no Kami - The Two Princess Knights of Kyoto Part 2 | 59240 | [59240-ne-no-kami-the-two-princess-knights-of-kyoto-part-2.json](./59240-ne-no-kami-the-two-princess-knights-of-kyoto-part-2.json) |
 | Ne no Kami: The Two Princess Knights of Kyoto | 32848 | [32848-ne-no-kami-the-two-princess-knights-of-kyoto.json](./32848-ne-no-kami-the-two-princess-knights-of-kyoto.json) |
 | Ne Touchez Pas 5 | 115253 | [115253-ne-touchez-pas-5.json](./115253-ne-touchez-pas-5.json) |
 | NE_01 | 109025 | [109025-ne-01.json](./109025-ne-01.json) |
