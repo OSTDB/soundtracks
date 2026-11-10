@@ -15539,6 +15539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CornField | 319697 | [319697-cornfield.json](./319697-cornfield.json) |
 | Cornfield Escape | 370575 | [370575-cornfield-escape.json](./370575-cornfield-escape.json) |
 | Cornflake Crisis | 115169 | [115169-cornflake-crisis.json](./115169-cornflake-crisis.json) |
+| Cornflakestein | 76373 | [76373-cornflakestein.json](./76373-cornflakestein.json) |
 | Cornflower Corbin | 23939 | [23939-cornflower-corbin.json](./23939-cornflower-corbin.json) |
 | Cornhole | 349579 | [349579-cornhole.json](./349579-cornhole.json) |
 | Cornhole Hero | 418742 | [418742-cornhole-hero.json](./418742-cornhole-hero.json) |
@@ -18411,6 +18412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Horror | 374624 | [374624-crimson-horror.json](./374624-crimson-horror.json) |
 | Crimson Hotel | 121645 | [121645-crimson-hotel.json](./121645-crimson-hotel.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
+| Crimson Imprint plus -Nonexistent Christmas- | 76031 | [76031-crimson-imprint-plus-nonexistent-christmas.json](./76031-crimson-imprint-plus-nonexistent-christmas.json) |
 | Crimson Incursion | 326938 | [326938-crimson-incursion.json](./326938-crimson-incursion.json) |
 | Crimson Katana Exa Label | 365112 | [365112-crimson-katana-exa-label.json](./365112-crimson-katana-exa-label.json) |
 | Crimson Keep | 22002 | [22002-crimson-keep.json](./22002-crimson-keep.json) |
