@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pact of Steel | 235724 | [235724-pact-of-steel.json](./235724-pact-of-steel.json) |
 | Pact of the Ancients | 212142 | [212142-pact-of-the-ancients.json](./212142-pact-of-the-ancients.json) |
 | Pact of the Black Tide | 409077 | [409077-pact-of-the-black-tide.json](./409077-pact-of-the-black-tide.json) |
+| Pact or Peril: World Domination | 416246 | [416246-pact-or-peril-world-domination.json](./416246-pact-or-peril-world-domination.json) |
 | Pact Warden | 348676 | [348676-pact-warden.json](./348676-pact-warden.json) |
 | Pact With a Demon | 345105 | [345105-pact-with-a-demon.json](./345105-pact-with-a-demon.json) |
 | Pact with a Demon EP01 | 378993 | [378993-pact-with-a-demon-ep01.json](./378993-pact-with-a-demon-ep01.json) |
@@ -4049,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peestal 6: With Cheese | 366704 | [366704-peestal-6-with-cheese.json](./366704-peestal-6-with-cheese.json) |
 | Peetan | 41786 | [41786-peetan.json](./41786-peetan.json) |
 | PeeTee Babybuu | 103197 | [103197-peetee-babybuu.json](./103197-peetee-babybuu.json) |
+| PeeVPee | 416220 | [416220-peevpee.json](./416220-peevpee.json) |
 | PeeWee Purpdrank's Foenem Clicker | 403014 | [403014-peewee-purpdranks-foenem-clicker.json](./403014-peewee-purpdranks-foenem-clicker.json) |
 | Peg | 68823 | [68823-peg.json](./68823-peg.json) |
 | Peg Adventure - Solo Noble | 148841 | [148841-peg-adventure-solo-noble.json](./148841-peg-adventure-solo-noble.json) |
@@ -10111,6 +10113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform Anomaly | 373068 | [373068-platform-anomaly.json](./373068-platform-anomaly.json) |
 | Platform Builder | 105571 | [105571-platform-builder.json](./105571-platform-builder.json) |
 | Platform Challenge | 95754 | [95754-platform-challenge.json](./95754-platform-challenge.json) |
+| Platform Chess | 416205 | [416205-platform-chess.json](./416205-platform-chess.json) |
 | Platform Control | 315346 | [315346-platform-control.json](./315346-platform-control.json) |
 | Platform Game Maker | 257534 | [257534-platform-game-maker.json](./257534-platform-game-maker.json) |
 | Platform Golf | 81936 | [81936-platform-golf.json](./81936-platform-golf.json) |
@@ -18865,6 +18868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Put Your Brain On | 199728 | [199728-put-your-brain-on.json](./199728-put-your-brain-on.json) |
 | Put Your Brain on 2 | 234150 | [234150-put-your-brain-on-2.json](./234150-put-your-brain-on-2.json) |
 | Put Your Stamp On | 226434 | [226434-put-your-stamp-on.json](./226434-put-your-stamp-on.json) |
+| Put Your Toys Away Together! | 416292 | [416292-put-your-toys-away-together.json](./416292-put-your-toys-away-together.json) |
 | Putahe ng Ina Mo | 153080 | [153080-putahe-ng-ina-mo.json](./153080-putahe-ng-ina-mo.json) |
 | Putin Destroys Alien | 230901 | [230901-putin-destroys-alien.json](./230901-putin-destroys-alien.json) |
 | Putin In Jail | 214427 | [214427-putin-in-jail.json](./214427-putin-in-jail.json) |
