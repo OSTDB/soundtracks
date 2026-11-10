@@ -7578,6 +7578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Water Ep1 | 339380 | [339380-evil-water-ep1.json](./339380-evil-water-ep1.json) |
 | Evil West | 141547 | [141547-evil-west.json](./141547-evil-west.json) |
 | Evil West: Signature Edition | 223534 | [223534-evil-west-signature-edition.json](./223534-evil-west-signature-edition.json) |
+| Evil Wizard | 165389 | [165389-evil-wizard.json](./165389-evil-wizard.json) |
 | Evil Wizard | 309274 | [309274-evil-wizard.json](./309274-evil-wizard.json) |
 | Evil Woman Executive: Aku no Onna Kanbu "Kono Watashi ni Oshioki dato!? Fuzakeruna!" | 66810 | [66810-evil-woman-executive-aku-no-onna-kanbu-kono-watashi-ni-oshioki-dato-fuzakeruna.json](./66810-evil-woman-executive-aku-no-onna-kanbu-kono-watashi-ni-oshioki-dato-fuzakeruna.json) |
 | Evil World Hopsca | 336001 | [336001-evil-world-hopsca.json](./336001-evil-world-hopsca.json) |
