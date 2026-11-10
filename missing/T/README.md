@@ -9345,6 +9345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Elegy at the Flowercape | 366936 | [366936-the-endless-elegy-at-the-flowercape.json](./366936-the-endless-elegy-at-the-flowercape.json) |
 | The Endless Express | 26669 | [26669-the-endless-express.json](./26669-the-endless-express.json) |
 | The Endless Forest | 13585 | [13585-the-endless-forest.json](./13585-the-endless-forest.json) |
+| The Endless Harvest | 423651 | [423651-the-endless-harvest.json](./423651-the-endless-harvest.json) |
 | The Endless Journey | 81068 | [81068-the-endless-journey.json](./81068-the-endless-journey.json) |
 | The Endless Mission | 95922 | [95922-the-endless-mission.json](./95922-the-endless-mission.json) |
 | The Endless Night | 405133 | [405133-the-endless-night.json](./405133-the-endless-night.json) |
@@ -25518,6 +25519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Togepi no Daibouken | 66024 | [66024-togepi-no-daibouken.json](./66024-togepi-no-daibouken.json) |
 | Together | 152248 | [152248-together.json](./152248-together.json) |
 | Together | 27348 | [27348-together.json](./27348-together.json) |
+| Together | 423664 | [423664-together.json](./423664-together.json) |
 | Together | 82054 | [82054-together.json](./82054-together.json) |
 | Together | 96269 | [96269-together.json](./96269-together.json) |
 | Together After Dark | 286654 | [286654-together-after-dark.json](./286654-together-after-dark.json) |
