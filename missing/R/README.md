@@ -6352,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Ninja Runner | 74810 | [74810-retro-ninja-runner.json](./74810-retro-ninja-runner.json) |
 | Retro One | 78092 | [78092-retro-one.json](./78092-retro-one.json) |
 | Retro Otrop | 400288 | [400288-retro-otrop.json](./400288-retro-otrop.json) |
+| Retro Parking | 31129 | [31129-retro-parking.json](./31129-retro-parking.json) |
 | Retro Pixel Castles | 138064 | [138064-retro-pixel-castles.json](./138064-retro-pixel-castles.json) |
 | Retro Pocket | 21005 | [21005-retro-pocket.json](./21005-retro-pocket.json) |
 | Retro Pocket Rocket | 208459 | [208459-retro-pocket-rocket.json](./208459-retro-pocket-rocket.json) |
