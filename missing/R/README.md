@@ -5691,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue from Atlantis | 71751 | [71751-rescue-from-atlantis.json](./71751-rescue-from-atlantis.json) |
 | Rescue From Goblin Deep | 33770 | [33770-rescue-from-goblin-deep.json](./33770-rescue-from-goblin-deep.json) |
 | Rescue Girl Operation: Code X | 330488 | [330488-rescue-girl-operation-code-x.json](./330488-rescue-girl-operation-code-x.json) |
+| Rescue Guardian Blaster | 419436 | [419436-rescue-guardian-blaster.json](./419436-rescue-guardian-blaster.json) |
 | Rescue Guys: Firefighters Simulator | 407347 | [407347-rescue-guys-firefighters-simulator.json](./407347-rescue-guys-firefighters-simulator.json) |
 | Rescue Heli | 349794 | [349794-rescue-heli.json](./349794-rescue-heli.json) |
 | Rescue Heli RH407 | 345006 | [345006-rescue-heli-rh407.json](./345006-rescue-heli-rh407.json) |
@@ -9241,6 +9242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Rolo | 419588 | [419588-robo-rolo.json](./419588-robo-rolo.json) |
 | Robo Rumble | 154436 | [154436-robo-rumble.json](./154436-robo-rumble.json) |
 | Robo Run | 264384 | [264384-robo-run.json](./264384-robo-run.json) |
+| Robo Run | 419414 | [419414-robo-run.json](./419414-robo-run.json) |
 | Robo Runner | 186157 | [186157-robo-runner.json](./186157-robo-runner.json) |
 | Robo Runners | 107377 | [107377-robo-runners.json](./107377-robo-runners.json) |
 | Robo Rush | 273430 | [273430-robo-rush.json](./273430-robo-rush.json) |
@@ -13423,6 +13425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush Hour | 18541 | [18541-rush-hour.json](./18541-rush-hour.json) |
 | Rush Hour | 28056 | [28056-rush-hour.json](./28056-rush-hour.json) |
 | Rush Hour | 385782 | [385782-rush-hour.json](./385782-rush-hour.json) |
+| Rush Hour | 419466 | [419466-rush-hour.json](./419466-rush-hour.json) |
 | Rush Hour | 91253 | [91253-rush-hour.json](./91253-rush-hour.json) |
 | Rush Hour 3D | 227169 | [227169-rush-hour-3d.json](./227169-rush-hour-3d.json) |
 | Rush Hour Deluxe: The ultimate traffic jam game! | 220878 | [220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json](./220878-rush-hour-deluxe-the-ultimate-traffic-jam-game.json) |
