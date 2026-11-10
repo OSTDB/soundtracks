@@ -675,6 +675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiata Stories | 19160 | [19160-radiata-stories.json](./19160-radiata-stories.json) |
 | Radiation Age | 49516 | [49516-radiation-age.json](./49516-radiation-age.json) |
 | Radiation Caterpillar | 410229 | [410229-radiation-caterpillar.json](./410229-radiation-caterpillar.json) |
+| Radiation Hazard | 427843 | [427843-radiation-hazard.json](./427843-radiation-hazard.json) |
 | Radiation Island | 36287 | [36287-radiation-island.json](./36287-radiation-island.json) |
 | Radiation Pigeon | 120614 | [120614-radiation-pigeon.json](./120614-radiation-pigeon.json) |
 | Radiator | 141723 | [141723-radiator.json](./141723-radiator.json) |
@@ -8586,6 +8587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Rides | 201608 | [201608-rival-rides.json](./201608-rival-rides.json) |
 | Rival Roads Car Racing | 402660 | [402660-rival-roads-car-racing.json](./402660-rival-roads-car-racing.json) |
 | Rival Schools: United by Fate | 13095 | [13095-rival-schools-united-by-fate.json](./13095-rival-schools-united-by-fate.json) |
+| Rival Soldier Front | 427808 | [427808-rival-soldier-front.json](./427808-rival-soldier-front.json) |
 | Rival Species | 350392 | [350392-rival-species.json](./350392-rival-species.json) |
 | Rival Stars Basketball | 249385 | [249385-rival-stars-basketball.json](./249385-rival-stars-basketball.json) |
 | Rival Stars College Football | 241865 | [241865-rival-stars-college-football.json](./241865-rival-stars-college-football.json) |
@@ -8771,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road & Track Presents: The Need for Speed | 45465 | [45465-road-and-track-presents-the-need-for-speed.json](./45465-road-and-track-presents-the-need-for-speed.json) |
 | Road 3 Pack | 147992 | [147992-road-3-pack.json](./147992-road-3-pack.json) |
 | Road 7 | 334535 | [334535-road-7.json](./334535-road-7.json) |
+| Road 88 | 427839 | [427839-road-88.json](./427839-road-88.json) |
 | Road 96 | 141543 | [141543-road-96.json](./141543-road-96.json) |
 | Road 96: Mile 0 - Full Journey Bundle | 243799 | [243799-road-96-mile-0-full-journey-bundle.json](./243799-road-96-mile-0-full-journey-bundle.json) |
 | Road 96: Mile 0 - Stronger Together Bundle | 243802 | [243802-road-96-mile-0-stronger-together-bundle.json](./243802-road-96-mile-0-stronger-together-bundle.json) |
