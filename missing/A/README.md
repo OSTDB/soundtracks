@@ -11421,6 +11421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Bar Game | 235780 | [235780-another-bar-game.json](./235780-another-bar-game.json) |
 | Another Bible | 78310 | [78310-another-bible.json](./78310-another-bible.json) |
 | Another Big Base Attacked | 270694 | [270694-another-big-base-attacked.json](./270694-another-big-base-attacked.json) |
+| Another Black Hole Incremental | 415680 | [415680-another-black-hole-incremental.json](./415680-another-black-hole-incremental.json) |
 | Another Blue | 367671 | [367671-another-blue.json](./367671-another-blue.json) |
 | Another Boss Battle Test | 214716 | [214716-another-boss-battle-test.json](./214716-another-boss-battle-test.json) |
 | Another Box of Hotcorn | 335299 | [335299-another-box-of-hotcorn.json](./335299-another-box-of-hotcorn.json) |
@@ -15299,6 +15300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Stealth | 378322 | [378322-art-of-stealth.json](./378322-art-of-stealth.json) |
 | Art of Stunt | 286095 | [286095-art-of-stunt.json](./286095-art-of-stunt.json) |
 | Art of the Rail | 153400 | [153400-art-of-the-rail.json](./153400-art-of-the-rail.json) |
+| Art of War 2: Global Confederation | 415646 | [415646-art-of-war-2-global-confederation.json](./415646-art-of-war-2-global-confederation.json) |
 | Art of War 3: Global Conflict | 95558 | [95558-art-of-war-3-global-conflict.json](./95558-art-of-war-3-global-conflict.json) |
 | Art of War: Red Tides | 26735 | [26735-art-of-war-red-tides.json](./26735-art-of-war-red-tides.json) |
 | Art Plunge | 122437 | [122437-art-plunge.json](./122437-art-plunge.json) |
@@ -17649,7 +17651,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
