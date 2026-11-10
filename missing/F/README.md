@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Face Down | 227968 | [227968-face-down.json](./227968-face-down.json) |
 | Face Golf | 181703 | [181703-face-golf.json](./181703-face-golf.json) |
 | Face Interrogation | 373273 | [373273-face-interrogation.json](./373273-face-interrogation.json) |
+| Face It - A game to fight inner demons | 35568 | [35568-face-it-a-game-to-fight-inner-demons.json](./35568-face-it-a-game-to-fight-inner-demons.json) |
 | Face Kart: Photo Finish | 65984 | [65984-face-kart-photo-finish.json](./65984-face-kart-photo-finish.json) |
 | Face Love: Face Designer | 334861 | [334861-face-love-face-designer.json](./334861-face-love-face-designer.json) |
 | Face Love! | 177875 | [177875-face-love.json](./177875-face-love.json) |
