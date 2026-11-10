@@ -2779,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of an Idea 2 | 416138 | [416138-way-of-an-idea-2.json](./416138-way-of-an-idea-2.json) |
 | Way of Boy | 125099 | [125099-way-of-boy.json](./125099-way-of-boy.json) |
 | Way of Boy: Another Way | 132672 | [132672-way-of-boy-another-way.json](./132672-way-of-boy-another-way.json) |
+| Way of Defector | 76287 | [76287-way-of-defector.json](./76287-way-of-defector.json) |
 | Way of Defector: Kim Eun-sim | 159599 | [159599-way-of-defector-kim-eun-sim.json](./159599-way-of-defector-kim-eun-sim.json) |
 | Way of Gold and Steel | 35179 | [35179-way-of-gold-and-steel.json](./35179-way-of-gold-and-steel.json) |
 | Way of Hero | 29722 | [29722-way-of-hero.json](./29722-way-of-hero.json) |
@@ -5469,6 +5470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Romance | 32335 | [32335-wild-romance.json](./32335-wild-romance.json) |
 | Wild Romance: Mofu-mofu Edition | 75657 | [75657-wild-romance-mofu-mofu-edition.json](./75657-wild-romance-mofu-mofu-edition.json) |
 | Wild Roots | 374874 | [374874-wild-roots.json](./374874-wild-roots.json) |
+| Wild RTS | 76022 | [76022-wild-rts.json](./76022-wild-rts.json) |
 | Wild Rumble | 226118 | [226118-wild-rumble.json](./226118-wild-rumble.json) |
 | Wild Runners! | 268818 | [268818-wild-runners.json](./268818-wild-runners.json) |
 | Wild Runs | 147241 | [147241-wild-runs.json](./147241-wild-runs.json) |
