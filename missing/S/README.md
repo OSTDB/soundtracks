@@ -1830,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanguis Luna | 327535 | [327535-sanguis-luna.json](./327535-sanguis-luna.json) |
 | Sanguivore: Twenty Below | 266271 | [266271-sanguivore-twenty-below.json](./266271-sanguivore-twenty-below.json) |
 | Sanguo | 113003 | [113003-sanguo.json](./113003-sanguo.json) |
+| Sānguó Chūnqiū: Sìchuān Shěng | 398064 | [398064-sanguo-chunqiu-sichuan-sheng.json](./398064-sanguo-chunqiu-sichuan-sheng.json) |
 | Sanguo Doki | 208092 | [208092-sanguo-doki.json](./208092-sanguo-doki.json) |
 | Sānguó Qún Jiàng Zhuàn | 368105 | [368105-sanguo-qun-jiang-zhuan.json](./368105-sanguo-qun-jiang-zhuan.json) |
 | Sānguó Qúnyīng | 308916 | [308916-sanguo-qunying.json](./308916-sanguo-qunying.json) |
@@ -15756,6 +15757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Pit | 415634 | [415634-snake-pit.json](./415634-snake-pit.json) |
 | Snake Plissken's Escape | 67295 | [67295-snake-plisskens-escape.json](./67295-snake-plisskens-escape.json) |
 | Snake Princess | 350536 | [350536-snake-princess.json](./350536-snake-princess.json) |
+| Snake Puzzle: Slither to Eat | 397970 | [397970-snake-puzzle-slither-to-eat.json](./397970-snake-puzzle-slither-to-eat.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
 | Snake Rampage - Snake Simulator | 108619 | [108619-snake-rampage-snake-simulator.json](./108619-snake-rampage-snake-simulator.json) |
 | Snake Rattle 'n' Roll | 4479 | [4479-snake-rattle-n-roll.json](./4479-snake-rattle-n-roll.json) |
@@ -21201,6 +21203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Runner: Anime | 169638 | [169638-space-runner-anime.json](./169638-space-runner-anime.json) |
 | Space Saga | 249835 | [249835-space-saga.json](./249835-space-saga.json) |
 | Space Salvage | 192601 | [192601-space-salvage.json](./192601-space-salvage.json) |
+| Space Salvage Simulator | 398054 | [398054-space-salvage-simulator.json](./398054-space-salvage-simulator.json) |
 | Space Salvage: Ship Happens | 377617 | [377617-space-salvage-ship-happens.json](./377617-space-salvage-ship-happens.json) |
 | Space Salvager | 17760 | [17760-space-salvager.json](./17760-space-salvager.json) |
 | Space Samurai | 179787 | [179787-space-samurai.json](./179787-space-samurai.json) |
@@ -30208,6 +30211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String Avoider 2 | 407828 | [407828-string-avoider-2.json](./407828-string-avoider-2.json) |
 | String Avoider Deluxe | 407789 | [407789-string-avoider-deluxe.json](./407789-string-avoider-deluxe.json) |
 | String Mace | 403644 | [403644-string-mace.json](./403644-string-mace.json) |
+| String of Fates | 398060 | [398060-string-of-fates.json](./398060-string-of-fates.json) |
 | String Rush | 173236 | [173236-string-rush.json](./173236-string-rush.json) |
 | String Theory | 240706 | [240706-string-theory.json](./240706-string-theory.json) |
 | String Theory | 294149 | [294149-string-theory.json](./294149-string-theory.json) |
