@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ~necromancy~Emily's Escape | 113280 | [113280-necromancy-emilys-escape.json](./113280-necromancy-emilys-escape.json) |
 | ~Song of Homunculus~ | 418651 | [418651-song-of-homunculus.json](./418651-song-of-homunculus.json) |
 | △ to X no Nazotoki | 267246 | [267246-to-x-no-nazotoki.json](./267246-to-x-no-nazotoki.json) |
+| $$$://Somnialys, I Am Tired So I Bought a Couple Dreams | 399563 | [399563-somnialys-i-am-tired-so-i-bought-a-couple-dreams.json](./399563-somnialys-i-am-tired-so-i-bought-a-couple-dreams.json) |
 | $1 Ride | 31922 | [31922-1-ride.json](./31922-1-ride.json) |
 | $1,000,000 Kid: Maboroshi no Teiou-hen | 215126 | [215126-1-000-000-kid-maboroshi-no-teiou-hen.json](./215126-1-000-000-kid-maboroshi-no-teiou-hen.json) |
 | 0 = 0 = 0 | 249535 | [249535-0-0-0.json](./249535-0-0-0.json) |
@@ -3281,6 +3282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 67 | 372820 | [372820-67.json](./372820-67.json) |
 | 67 | 388231 | [388231-67.json](./388231-67.json) |
 | 67 Game Online | 395009 | [395009-67-game-online.json](./395009-67-game-online.json) |
+| 67 Minutes in Heaven | 399325 | [399325-67-minutes-in-heaven.json](./399325-67-minutes-in-heaven.json) |
 | 67 Simulator | 407063 | [407063-67-simulator.json](./407063-67-simulator.json) |
 | 688 Attack Sub | 5338 | [5338-688-attack-sub.json](./5338-688-attack-sub.json) |
 | 688(I) Hunter/Killer | 585 | [585-688-i-hunter-killer.json](./585-688-i-hunter-killer.json) |
