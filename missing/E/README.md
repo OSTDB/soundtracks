@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Yolk Life | 129715 | [129715-egg-yolk-life.json](./129715-egg-yolk-life.json) |
 | Egg, Inc. | 58133 | [58133-egg-inc.json](./58133-egg-inc.json) |
 | Egg! | 231966 | [231966-egg.json](./231966-egg.json) |
+| Eggball.io | 426019 | [426019-eggball-io.json](./426019-eggball-io.json) |
 | Eggbert's Bird Bath | 404391 | [404391-eggberts-bird-bath.json](./404391-eggberts-bird-bath.json) |
 | Eggbird | 402330 | [402330-eggbird.json](./402330-eggbird.json) |
 | Eggcelerate! to the North Pole | 234225 | [234225-eggcelerate-to-the-north-pole.json](./234225-eggcelerate-to-the-north-pole.json) |
@@ -3529,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empower Your Intent | 347188 | [347188-empower-your-intent.json](./347188-empower-your-intent.json) |
 | Empress of The Deep 2: Song of The Blue Whale | 17369 | [17369-empress-of-the-deep-2-song-of-the-blue-whale.json](./17369-empress-of-the-deep-2-song-of-the-blue-whale.json) |
 | Empress of the Deep 3: Legacy of the Phoenix | 294209 | [294209-empress-of-the-deep-3-legacy-of-the-phoenix.json](./294209-empress-of-the-deep-3-legacy-of-the-phoenix.json) |
+| Empress of the Deep 3: Legacy of the Phoenix - Collector's Edition | 426072 | [426072-empress-of-the-deep-3-legacy-of-the-phoenix-collectors-edition.json](./426072-empress-of-the-deep-3-legacy-of-the-phoenix-collectors-edition.json) |
 | Empress of the Deep: The Darkest Secret | 17368 | [17368-empress-of-the-deep-the-darkest-secret.json](./17368-empress-of-the-deep-the-darkest-secret.json) |
 | Empress's Choice | 245047 | [245047-empresss-choice.json](./245047-empresss-choice.json) |
 | Emprise | 237171 | [237171-emprise.json](./237171-emprise.json) |
@@ -3652,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Kingdom: A Stranger's Venom | 188003 | [188003-enchanted-kingdom-a-strangers-venom.json](./188003-enchanted-kingdom-a-strangers-venom.json) |
 | Enchanted Kingdom: Descent of the Elders - Collector's Edition | 170996 | [170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json](./170996-enchanted-kingdom-descent-of-the-elders-collectors-edition.json) |
 | Enchanted Kingdom: Frost Curse - Collector's Edition | 164955 | [164955-enchanted-kingdom-frost-curse-collectors-edition.json](./164955-enchanted-kingdom-frost-curse-collectors-edition.json) |
+| Enchanted Kingdom: Master of Riddles - Collector's Edition | 426073 | [426073-enchanted-kingdom-master-of-riddles-collectors-edition.json](./426073-enchanted-kingdom-master-of-riddles-collectors-edition.json) |
 | Enchanted Kingdom: The Secret of the Golden Lamp | 187903 | [187903-enchanted-kingdom-the-secret-of-the-golden-lamp.json](./187903-enchanted-kingdom-the-secret-of-the-golden-lamp.json) |
 | Enchanted Kingdom: The Secret of the Golden Lamp - Collector's Edition | 168306 | [168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json](./168306-enchanted-kingdom-the-secret-of-the-golden-lamp-collectors-edition.json) |
 | Enchanted Kingdoms Bundle | 125130 | [125130-enchanted-kingdoms-bundle.json](./125130-enchanted-kingdoms-bundle.json) |
@@ -3906,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Fables: Shadow Within | 165611 | [165611-endless-fables-shadow-within.json](./165611-endless-fables-shadow-within.json) |
 | Endless Fables: Shadow Within - Collector's Edition | 357676 | [357676-endless-fables-shadow-within-collectors-edition.json](./357676-endless-fables-shadow-within-collectors-edition.json) |
 | Endless Fables: The Minotaur's Curse | 32003 | [32003-endless-fables-the-minotaurs-curse.json](./32003-endless-fables-the-minotaurs-curse.json) |
+| Endless Fables: The Minotaur's Curse - Collector's Edition | 426074 | [426074-endless-fables-the-minotaurs-curse-collectors-edition.json](./426074-endless-fables-the-minotaurs-curse-collectors-edition.json) |
 | Endless Fighter | 107698 | [107698-endless-fighter.json](./107698-endless-fighter.json) |
 | Endless Fire | 425182 | [425182-endless-fire.json](./425182-endless-fire.json) |
 | Endless Firepower | 163460 | [163460-endless-firepower.json](./163460-endless-firepower.json) |
@@ -4337,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmatica 2: Expert | 255663 | [255663-enigmatica-2-expert.json](./255663-enigmatica-2-expert.json) |
 | Enigmatis 2: The Mists of Ravenwood | 17138 | [17138-enigmatis-2-the-mists-of-ravenwood.json](./17138-enigmatis-2-the-mists-of-ravenwood.json) |
 | Enigmatis 3: The Shadow of Karkhala | 32291 | [32291-enigmatis-3-the-shadow-of-karkhala.json](./32291-enigmatis-3-the-shadow-of-karkhala.json) |
+| Enigmatis 3: The Shadow of Karkhala - Collector's Edition | 426075 | [426075-enigmatis-3-the-shadow-of-karkhala-collectors-edition.json](./426075-enigmatis-3-the-shadow-of-karkhala-collectors-edition.json) |
 | Enigmatis Bundle | 82382 | [82382-enigmatis-bundle.json](./82382-enigmatis-bundle.json) |
 | Enigmatis Collection | 52986 | [52986-enigmatis-collection.json](./52986-enigmatis-collection.json) |
 | Enigmatis: The Ghosts of Maple Creek | 17137 | [17137-enigmatis-the-ghosts-of-maple-creek.json](./17137-enigmatis-the-ghosts-of-maple-creek.json) |
@@ -7088,6 +7093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eventide Matter | 258315 | [258315-eventide-matter.json](./258315-eventide-matter.json) |
 | Eventide Night | 28940 | [28940-eventide-night.json](./28940-eventide-night.json) |
 | Eventide: Slavic Fable | 20362 | [20362-eventide-slavic-fable.json](./20362-eventide-slavic-fable.json) |
+| Eventide: Slavic Fable - Collector's Edition | 426087 | [426087-eventide-slavic-fable-collectors-edition.json](./426087-eventide-slavic-fable-collectors-edition.json) |
 | Events | 339278 | [339278-events.json](./339278-events.json) |
 | Eventyr | 272476 | [272476-eventyr.json](./272476-eventyr.json) |
 | Ever 17: The Out of Infinity | 323127 | [323127-ever-17-the-out-of-infinity.json](./323127-ever-17-the-out-of-infinity.json) |
@@ -8842,6 +8848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeland | 200766 | [200766-eyeland.json](./200766-eyeland.json) |
 | Eyeland 2 | 272469 | [272469-eyeland-2.json](./272469-eyeland-2.json) |
 | Eyeless | 269310 | [269310-eyeless.json](./269310-eyeless.json) |
+| Eyeless Descent | 426096 | [426096-eyeless-descent.json](./426096-eyeless-descent.json) |
 | Eyeless Jack | 300016 | [300016-eyeless-jack.json](./300016-eyeless-jack.json) |
 | Eyelord | 5559 | [5559-eyelord.json](./5559-eyelord.json) |
 | EyeOS | 316000 | [316000-eyeos.json](./316000-eyeos.json) |
