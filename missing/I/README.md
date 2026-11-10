@@ -3211,6 +3211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inazuma Eleven: Victory Road - Deluxe Edition | 376247 | [376247-inazuma-eleven-victory-road-deluxe-edition.json](./376247-inazuma-eleven-victory-road-deluxe-edition.json) |
 | Inazuma Serve Da!! Super Beach Volley | 38170 | [38170-inazuma-serve-da-super-beach-volley.json](./38170-inazuma-serve-da-super-beach-volley.json) |
 | Inazuma Souls | 290801 | [290801-inazuma-souls.json](./290801-inazuma-souls.json) |
+| Inbento | 121438 | [121438-inbento.json](./121438-inbento.json) |
 | Inbetween a Land of Grass | 181387 | [181387-inbetween-a-land-of-grass.json](./181387-inbetween-a-land-of-grass.json) |
 | Inbetween Land | 35850 | [35850-inbetween-land.json](./35850-inbetween-land.json) |
 | Inbound | 32523 | [32523-inbound.json](./32523-inbound.json) |
@@ -4037,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6145,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Marines: Hero Sha'Tra | 395270 | [395270-iron-marines-hero-shatra.json](./395270-iron-marines-hero-shatra.json) |
 | Iron Marines+ | 395276 | [395276-iron-marines.json](./395276-iron-marines.json) |
 | Iron Master: The Legendary Blacksmith | 67991 | [67991-iron-master-the-legendary-blacksmith.json](./67991-iron-master-the-legendary-blacksmith.json) |
+| Iron Meat | 125944 | [125944-iron-meat.json](./125944-iron-meat.json) |
 | Iron Nest: Heavy Turret Simulator | 377917 | [377917-iron-nest-heavy-turret-simulator.json](./377917-iron-nest-heavy-turret-simulator.json) |
 | Iron Onslaught | 339917 | [339917-iron-onslaught.json](./339917-iron-onslaught.json) |
 | Iron Order 1919 | 196333 | [196333-iron-order-1919.json](./196333-iron-order-1919.json) |
