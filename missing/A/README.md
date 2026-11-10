@@ -1592,6 +1592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A World in Strife 2: Absolute Order | 145153 | [145153-a-world-in-strife-2-absolute-order.json](./145153-a-world-in-strife-2-absolute-order.json) |
 | A World in Strife: Raiding the Dam | 145152 | [145152-a-world-in-strife-raiding-the-dam.json](./145152-a-world-in-strife-raiding-the-dam.json) |
 | A World of Ice and Fire | 356195 | [356195-a-world-of-ice-and-fire.json](./356195-a-world-of-ice-and-fire.json) |
+| A World of Keflings | 21077 | [21077-a-world-of-keflings.json](./21077-a-world-of-keflings.json) |
 | A World of Keflings: Sugar, Spice and Not So Nice | 377854 | [377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json](./377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json) |
 | A World of Keflings: The Curse of the Zombiesaurus | 375530 | [375530-a-world-of-keflings-the-curse-of-the-zombiesaurus.json](./375530-a-world-of-keflings-the-curse-of-the-zombiesaurus.json) |
 | A World of Wishes | 260754 | [260754-a-world-of-wishes.json](./260754-a-world-of-wishes.json) |
@@ -4894,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires: Mythologies | 21221 | [21221-age-of-empires-mythologies.json](./21221-age-of-empires-mythologies.json) |
 | Age of Empires: Online | 5571 | [5571-age-of-empires-online.json](./5571-age-of-empires-online.json) |
 | Age of Empires: Pocket PC Edition | 145568 | [145568-age-of-empires-pocket-pc-edition.json](./145568-age-of-empires-pocket-pc-edition.json) |
+| Age of Empires: The Age of Kings | 24273 | [24273-age-of-empires-the-age-of-kings.json](./24273-age-of-empires-the-age-of-kings.json) |
 | Age of Empires: The Rise of Rome | 291 | [291-age-of-empires-the-rise-of-rome.json](./291-age-of-empires-the-rise-of-rome.json) |
 | Age of Empires: World Domination | 145567 | [145567-age-of-empires-world-domination.json](./145567-age-of-empires-world-domination.json) |
 | Age of Enchantment | 312672 | [312672-age-of-enchantment.json](./312672-age-of-enchantment.json) |
@@ -10260,6 +10262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Star Wars II | 19272 | [19272-angry-birds-star-wars-ii.json](./19272-angry-birds-star-wars-ii.json) |
 | Angry Birds Tennis | 199901 | [199901-angry-birds-tennis.json](./199901-angry-birds-tennis.json) |
 | Angry Birds Time Travel | 195453 | [195453-angry-birds-time-travel.json](./195453-angry-birds-time-travel.json) |
+| Angry Birds Transformers | 23427 | [23427-angry-birds-transformers.json](./23427-angry-birds-transformers.json) |
 | Angry Birds Trilogy | 4675 | [4675-angry-birds-trilogy.json](./4675-angry-birds-trilogy.json) |
 | Angry Birds Trilogy: Anger Management Pack | 172417 | [172417-angry-birds-trilogy-anger-management-pack.json](./172417-angry-birds-trilogy-anger-management-pack.json) |
 | Angry Birds Trilogy: Fowl Tempered Pack | 172418 | [172418-angry-birds-trilogy-fowl-tempered-pack.json](./172418-angry-birds-trilogy-fowl-tempered-pack.json) |
@@ -15722,6 +15725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of the Past | 271090 | [271090-ashes-of-the-past.json](./271090-ashes-of-the-past.json) |
 | Ashes of the Singularity | 11666 | [11666-ashes-of-the-singularity.json](./11666-ashes-of-the-singularity.json) |
 | Ashes of the Singularity II | 359885 | [359885-ashes-of-the-singularity-ii.json](./359885-ashes-of-the-singularity-ii.json) |
+| Ashes of the Singularity: Escalation | 25741 | [25741-ashes-of-the-singularity-escalation.json](./25741-ashes-of-the-singularity-escalation.json) |
 | Ashes of the Singularity: Escalation - Co-Op Map Pack | 224354 | [224354-ashes-of-the-singularity-escalation-co-op-map-pack.json](./224354-ashes-of-the-singularity-escalation-co-op-map-pack.json) |
 | Ashes of the Singularity: Escalation - Core Worlds | 186880 | [186880-ashes-of-the-singularity-escalation-core-worlds.json](./186880-ashes-of-the-singularity-escalation-core-worlds.json) |
 | Ashes of the Singularity: Escalation - Epic Map Pack | 155282 | [155282-ashes-of-the-singularity-escalation-epic-map-pack.json](./155282-ashes-of-the-singularity-escalation-epic-map-pack.json) |
@@ -17269,6 +17273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Firis: The Alchemist and the Mysterious Journey - Shanon | 170837 | [170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json](./170837-atelier-firis-the-alchemist-and-the-mysterious-journey-shanon.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey DX | 143278 | [143278-atelier-firis-the-alchemist-and-the-mysterious-journey-dx.json](./143278-atelier-firis-the-alchemist-and-the-mysterious-journey-dx.json) |
 | Atelier Iris 2: The Azoth of Destiny | 20510 | [20510-atelier-iris-2-the-azoth-of-destiny.json](./20510-atelier-iris-2-the-azoth-of-destiny.json) |
+| Atelier Iris 3: Grand Phantasm | 21406 | [21406-atelier-iris-3-grand-phantasm.json](./21406-atelier-iris-3-grand-phantasm.json) |
 | Atelier Iris: Eternal Mana | 19634 | [19634-atelier-iris-eternal-mana.json](./19634-atelier-iris-eternal-mana.json) |
 | Atelier Iris: Eternal Mana 2 After Episode | 314917 | [314917-atelier-iris-eternal-mana-2-after-episode.json](./314917-atelier-iris-eternal-mana-2-after-episode.json) |
 | Atelier Judie: The Alchemist of Gramnad - Imprisoned Guardian | 42756 | [42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json](./42756-atelier-judie-the-alchemist-of-gramnad-imprisoned-guardian.json) |
@@ -17469,7 +17474,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
