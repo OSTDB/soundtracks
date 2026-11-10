@@ -14937,6 +14937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DoxyLanD | 169662 | [169662-doxyland.json](./169662-doxyland.json) |
 | Doza 2: Novogodniy Peredoz | 116060 | [116060-doza-2-novogodniy-peredoz.json](./116060-doza-2-novogodniy-peredoz.json) |
 | Dozen Chess | 420782 | [420782-dozen-chess.json](./420782-dozen-chess.json) |
+| Dozens | 423623 | [423623-dozens.json](./423623-dozens.json) |
 | Dozie Penguinn | 238288 | [238288-dozie-penguinn.json](./238288-dozie-penguinn.json) |
 | Dozie Penguins | 216411 | [216411-dozie-penguins.json](./216411-dozie-penguins.json) |
 | Dozle Corp. Map | 254832 | [254832-dozle-corp-map.json](./254832-dozle-corp-map.json) |
