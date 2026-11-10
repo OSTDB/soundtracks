@@ -2853,6 +2853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmarion: Dragon time | 123523 | [123523-elmarion-dragon-time.json](./123523-elmarion-dragon-time.json) |
 | Elmarion: Dragon's Princess | 149791 | [149791-elmarion-dragons-princess.json](./149791-elmarion-dragons-princess.json) |
 | Elmarion: The Lost Temple | 149894 | [149894-elmarion-the-lost-temple.json](./149894-elmarion-the-lost-temple.json) |
+| Elmia | 76281 | [76281-elmia.json](./76281-elmia.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
 | Elminage DS Remix: Yami no Miko to Kamigami no Yubiwa | 21026 | [21026-elminage-ds-remix-yami-no-miko-to-kamigami-no-yubiwa.json](./21026-elminage-ds-remix-yami-no-miko-to-kamigami-no-yubiwa.json) |
 | Elminage Gothic | 17210 | [17210-elminage-gothic.json](./17210-elminage-gothic.json) |
@@ -3929,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless History | 320771 | [320771-endless-history.json](./320771-endless-history.json) |
 | Endless Horde | 105890 | [105890-endless-horde.json](./105890-endless-horde.json) |
 | Endless Horizon | 99674 | [99674-endless-horizon.json](./99674-endless-horizon.json) |
+| Endless Inside | 76297 | [76297-endless-inside.json](./76297-endless-inside.json) |
 | Endless Invader | 407547 | [407547-endless-invader.json](./407547-endless-invader.json) |
 | Endless Invaders | 100365 | [100365-endless-invaders.json](./100365-endless-invaders.json) |
 | Endless Isolation | 405715 | [405715-endless-isolation.json](./405715-endless-isolation.json) |
@@ -5980,6 +5982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape! Sloths and Palm Trees Island | 174625 | [174625-escape-sloths-and-palm-trees-island.json](./174625-escape-sloths-and-palm-trees-island.json) |
 | Escape!! | 237219 | [237219-escape.json](./237219-escape.json) |
 | Escape!!! | 213526 | [213526-escape.json](./213526-escape.json) |
+| Escape!VR -Above the Clouds- | 75969 | [75969-escape-vr-above-the-clouds.json](./75969-escape-vr-above-the-clouds.json) |
 | Escape30DayCircle | 360650 | [360650-escape30daycircle.json](./360650-escape30daycircle.json) |
 | Escaped Chasm | 116988 | [116988-escaped-chasm.json](./116988-escaped-chasm.json) |
 | Escapee GO! | 67059 | [67059-escapee-go.json](./67059-escapee-go.json) |
