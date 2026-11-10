@@ -16848,6 +16848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Serpent | 234184 | [234184-the-serpent.json](./234184-the-serpent.json) |
 | The Serpent and the Crow | 352473 | [352473-the-serpent-and-the-crow.json](./352473-the-serpent-and-the-crow.json) |
 | The Serpent of Isis | 206657 | [206657-the-serpent-of-isis.json](./206657-the-serpent-of-isis.json) |
+| The Serpent Rogue | 165394 | [165394-the-serpent-rogue.json](./165394-the-serpent-rogue.json) |
 | The Serpent's Star | 25328 | [25328-the-serpents-star.json](./25328-the-serpents-star.json) |
 | The Server | 405527 | [405527-the-server.json](./405527-the-server.json) |
 | The Servers Are Shutting Down in 24 Hours but My Pull Rate's Been Set to 0.0001%?! | 382984 | [382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json](./382984-the-servers-are-shutting-down-in-24-hours-but-my-pull-rates-been-set-to-0-0001.json) |
@@ -19580,6 +19581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Watcher | 238515 | [238515-the-watcher.json](./238515-the-watcher.json) |
 | The Watcher | 413734 | [413734-the-watcher.json](./413734-the-watcher.json) |
 | The Watcher's Curse | 304497 | [304497-the-watchers-curse.json](./304497-the-watchers-curse.json) |
+| The Watchers | 122139 | [122139-the-watchers.json](./122139-the-watchers.json) |
 | The Watching Woods: The Friend | 405837 | [405837-the-watching-woods-the-friend.json](./405837-the-watching-woods-the-friend.json) |
 | The Watching Woods: The Louse | 385331 | [385331-the-watching-woods-the-louse.json](./385331-the-watching-woods-the-louse.json) |
 | The Watchmaker | 2945 | [2945-the-watchmaker.json](./2945-the-watchmaker.json) |
@@ -21647,6 +21649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thwack | 221080 | [221080-thwack.json](./221080-thwack.json) |
 | Thwackity Puttz | 197227 | [197227-thwackity-puttz.json](./197227-thwackity-puttz.json) |
 | Thwocker | 77185 | [77185-thwocker.json](./77185-thwocker.json) |
+| Thy Creature | 166850 | [166850-thy-creature.json](./166850-thy-creature.json) |
 | Thy Dungeonman | 132037 | [132037-thy-dungeonman.json](./132037-thy-dungeonman.json) |
 | Thy Dungeonman 1 & 2 for Playdate | 262461 | [262461-thy-dungeonman-1-and-2-for-playdate.json](./262461-thy-dungeonman-1-and-2-for-playdate.json) |
 | Thy Dungeonman 3 | 135847 | [135847-thy-dungeonman-3.json](./135847-thy-dungeonman-3.json) |
@@ -32715,6 +32718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolley Folly | 248327 | [248327-trolley-folly.json](./248327-trolley-folly.json) |
 | Trolley Path to Gold | 288556 | [288556-trolley-path-to-gold.json](./288556-trolley-path-to-gold.json) |
 | Trolley Problem | 179589 | [179589-trolley-problem.json](./179589-trolley-problem.json) |
+| Trolley Problem, Inc. | 159793 | [159793-trolley-problem-inc.json](./159793-trolley-problem-inc.json) |
 | Trolley Simulator | 149494 | [149494-trolley-simulator.json](./149494-trolley-simulator.json) |
 | Trollface Launch | 234908 | [234908-trollface-launch.json](./234908-trollface-launch.json) |
 | Trollface Quest | 195448 | [195448-trollface-quest.json](./195448-trollface-quest.json) |
