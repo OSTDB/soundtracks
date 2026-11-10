@@ -3107,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers | 291226 | [291226-embers.json](./291226-embers.json) |
 | Embers Adrift | 186247 | [186247-embers-adrift.json](./186247-embers-adrift.json) |
 | Embers of Caerus | 64975 | [64975-embers-of-caerus.json](./64975-embers-of-caerus.json) |
+| Embers of Gregor | 426622 | [426622-embers-of-gregor.json](./426622-embers-of-gregor.json) |
 | Embers of Magic | 31380 | [31380-embers-of-magic.json](./31380-embers-of-magic.json) |
 | Embers of Mana | 392684 | [392684-embers-of-mana.json](./392684-embers-of-mana.json) |
 | Embers of Mirrim | 29141 | [29141-embers-of-mirrim.json](./29141-embers-of-mirrim.json) |
@@ -7224,6 +7225,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everlost | 397695 | [397695-everlost.json](./397695-everlost.json) |
 | Everlove: Rose | 224346 | [224346-everlove-rose.json](./224346-everlove-rose.json) |
 | Everlune | 256056 | [256056-everlune.json](./256056-everlune.json) |
+| Everlusting Life: Mascot Ingrid | 426632 | [426632-everlusting-life-mascot-ingrid.json](./426632-everlusting-life-mascot-ingrid.json) |
+| Everlusting Life: Mascot Katitzi | 426631 | [426631-everlusting-life-mascot-katitzi.json](./426631-everlusting-life-mascot-katitzi.json) |
 | EverMatch | 237672 | [237672-evermatch.json](./237672-evermatch.json) |
 | EverMerge | 135600 | [135600-evermerge.json](./135600-evermerge.json) |
 | EverMerge: Match 3 Puzzle Game | 290414 | [290414-evermerge-match-3-puzzle-game.json](./290414-evermerge-match-3-puzzle-game.json) |
@@ -8419,6 +8422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explore | 246441 | [246441-explore.json](./246441-explore.json) |
 | Explore | 259720 | [259720-explore.json](./259720-explore.json) |
 | Explore Another World Bundle | 330431 | [330431-explore-another-world-bundle.json](./330431-explore-another-world-bundle.json) |
+| Explore Dreams: Dreamcore | 426605 | [426605-explore-dreams-dreamcore.json](./426605-explore-dreams-dreamcore.json) |
 | Explore Fish Feeding and Grow | 88983 | [88983-explore-fish-feeding-and-grow.json](./88983-explore-fish-feeding-and-grow.json) |
 | Explore Fushimi Inari | 120567 | [120567-explore-fushimi-inari.json](./120567-explore-fushimi-inari.json) |
 | Explore Inc | 179030 | [179030-explore-inc.json](./179030-explore-inc.json) |
