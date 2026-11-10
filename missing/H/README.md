@@ -1922,6 +1922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harborland de Tsukamaete | 317009 | [317009-harborland-de-tsukamaete.json](./317009-harborland-de-tsukamaete.json) |
 | Harbour Attack | 423204 | [423204-harbour-attack.json](./423204-harbour-attack.json) |
 | Harbour Master | 206089 | [206089-harbour-master.json](./206089-harbour-master.json) |
+| Harbourlight | 412686 | [412686-harbourlight.json](./412686-harbourlight.json) |
 | Harca | 340413 | [340413-harca.json](./340413-harca.json) |
 | Hard 'n' Heavy | 47178 | [47178-hard-n-heavy.json](./47178-hard-n-heavy.json) |
 | Hard as Hell | 340688 | [340688-hard-as-hell.json](./340688-hard-as-hell.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvester Tractor Farming Simulator Game | 174866 | [174866-harvester-tractor-farming-simulator-game.json](./174866-harvester-tractor-farming-simulator-game.json) |
 | Harvester vs. Zombies | 409751 | [409751-harvester-vs-zombies.json](./409751-harvester-vs-zombies.json) |
 | Harvesterado | 186110 | [186110-harvesterado.json](./186110-harvesterado.json) |
+| Harvesters | 412676 | [412676-harvesters.json](./412676-harvesters.json) |
 | Harvey Birdman: Attorney at Law | 4907 | [4907-harvey-birdman-attorney-at-law.json](./4907-harvey-birdman-attorney-at-law.json) |
 | Harvey Birdman: File Frenzy | 396381 | [396381-harvey-birdman-file-frenzy.json](./396381-harvey-birdman-file-frenzy.json) |
 | Harvey Headbanger | 14106 | [14106-harvey-headbanger.json](./14106-harvey-headbanger.json) |
@@ -3056,6 +3058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Havenhold | 204445 | [204445-havenhold.json](./204445-havenhold.json) |
 | Havenless | 138385 | [138385-havenless.json](./138385-havenless.json) |
 | Havenview | 219814 | [219814-havenview.json](./219814-havenview.json) |
+| Having fun, Mochi? | 412632 | [412632-having-fun-mochi.json](./412632-having-fun-mochi.json) |
 | Havker-Man X | 346331 | [346331-havker-man-x.json](./346331-havker-man-x.json) |
 | Havoc | 13873 | [13873-havoc.json](./13873-havoc.json) |
 | Havoc | 219238 | [219238-havoc.json](./219238-havoc.json) |
@@ -12638,6 +12641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter X Hunter: Maboroshi no Greed Island | 60607 | [60607-hunter-x-hunter-maboroshi-no-greed-island.json](./60607-hunter-x-hunter-maboroshi-no-greed-island.json) |
 | Hunter X Hunter: Michikareshi Mono | 65358 | [65358-hunter-x-hunter-michikareshi-mono.json](./65358-hunter-x-hunter-michikareshi-mono.json) |
 | Hunter x Hunter: Nen x Impact | 281740 | [281740-hunter-x-hunter-nen-x-impact.json](./281740-hunter-x-hunter-nen-x-impact.json) |
+| Hunter x Hunter: Nen x Impact - Additional Character 1 Neferpitou | 412657 | [412657-hunter-x-hunter-nen-x-impact-additional-character-1-neferpitou.json](./412657-hunter-x-hunter-nen-x-impact-additional-character-1-neferpitou.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 2 Phinks | 375152 | [375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json](./375152-hunter-x-hunter-nen-x-impact-additional-character-2-phinks.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 3 Shizuku | 375153 | [375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json](./375153-hunter-x-hunter-nen-x-impact-additional-character-3-shizuku.json) |
 | Hunter x Hunter: Nen x Impact - Additional Character 4 Zeno | 375154 | [375154-hunter-x-hunter-nen-x-impact-additional-character-4-zeno.json](./375154-hunter-x-hunter-nen-x-impact-additional-character-4-zeno.json) |
