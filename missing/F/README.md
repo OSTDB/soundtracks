@@ -3515,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FatSheep Crisis | 247763 | [247763-fatsheep-crisis.json](./247763-fatsheep-crisis.json) |
 | FatSheep Crisis II | 372076 | [372076-fatsheep-crisis-ii.json](./372076-fatsheep-crisis-ii.json) |
 | Fattening Career | 260324 | [260324-fattening-career.json](./260324-fattening-career.json) |
+| Fatty Bear's Birthday Surprise | 4335 | [4335-fatty-bears-birthday-surprise.json](./4335-fatty-bears-birthday-surprise.json) |
 | Fatty Bear's FunPack | 4311 | [4311-fatty-bears-funpack.json](./4311-fatty-bears-funpack.json) |
 | Fatty Fight | 256544 | [256544-fatty-fight.json](./256544-fatty-fight.json) |
 | Fatty In Trouble | 238398 | [238398-fatty-in-trouble.json](./238398-fatty-in-trouble.json) |
