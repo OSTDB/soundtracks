@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 26 | 342382 | [342382-madden-nfl-26.json](./342382-madden-nfl-26.json) |
 | Madden NFL 26: Deluxe Edition | 342383 | [342383-madden-nfl-26-deluxe-edition.json](./342383-madden-nfl-26-deluxe-edition.json) |
 | Madden NFL 27 | 400379 | [400379-madden-nfl-27.json](./400379-madden-nfl-27.json) |
+| Madden NFL 27 Arcade Edition | 413966 | [413966-madden-nfl-27-arcade-edition.json](./413966-madden-nfl-27-arcade-edition.json) |
 | Madden NFL 27: Deluxe Edition | 411832 | [411832-madden-nfl-27-deluxe-edition.json](./411832-madden-nfl-27-deluxe-edition.json) |
 | Madden NFL 95 | 4506 | [4506-madden-nfl-95.json](./4506-madden-nfl-95.json) |
 | Madden NFL 95 | 48974 | [48974-madden-nfl-95.json](./48974-madden-nfl-95.json) |
@@ -5158,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary-Kate and Ashley: Sweet 16 - Licensed to Drive | 5921 | [5921-mary-kate-and-ashley-sweet-16-licensed-to-drive.json](./5921-mary-kate-and-ashley-sweet-16-licensed-to-drive.json) |
 | Mary-Kate and Ashley: Winners Circle | 49966 | [49966-mary-kate-and-ashley-winners-circle.json](./49966-mary-kate-and-ashley-winners-circle.json) |
 | Mary-san | 426006 | [426006-mary-san.json](./426006-mary-san.json) |
+| Mary: Mary-Hime no Dakkan | 413635 | [413635-mary-mary-hime-no-dakkan.json](./413635-mary-mary-hime-no-dakkan.json) |
 | Mary's Adventure | 82758 | [82758-marys-adventure.json](./82758-marys-adventure.json) |
 | Mary's Arcade | 228291 | [228291-marys-arcade.json](./228291-marys-arcade.json) |
 | Mary's Arcade: Service Pack | 288832 | [288832-marys-arcade-service-pack.json](./288832-marys-arcade-service-pack.json) |
@@ -6836,6 +6838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me and the Key 2 | 225280 | [225280-me-and-the-key-2.json](./225280-me-and-the-key-2.json) |
 | Me and the Key 3 | 225281 | [225281-me-and-the-key-3.json](./225281-me-and-the-key-3.json) |
 | Me and the Zombies | 200714 | [200714-me-and-the-zombies.json](./200714-me-and-the-zombies.json) |
+| Me and You | 413996 | [413996-me-and-you.json](./413996-me-and-you.json) |
 | Me de Unou wo Kitaeru: DS Sokudoku Jutsu | 316121 | [316121-me-de-unou-wo-kitaeru-ds-sokudoku-jutsu.json](./316121-me-de-unou-wo-kitaeru-ds-sokudoku-jutsu.json) |
 | Me Go Store! | 324142 | [324142-me-go-store.json](./324142-me-go-store.json) |
 | me Igigu | 119937 | [119937-me-igigu.json](./119937-me-igigu.json) |
@@ -15685,6 +15688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojo XXX | 292684 | [292684-mojo-xxx.json](./292684-mojo-xxx.json) |
 | Mojo! | 5931 | [5931-mojo.json](./5931-mojo.json) |
 | MOK: Super Space Taxi | 119706 | [119706-mok-super-space-taxi.json](./119706-mok-super-space-taxi.json) |
+| Moka Cat | 414007 | [414007-moka-cat.json](./414007-moka-cat.json) |
 | Moka Future | 411996 | [411996-moka-future.json](./411996-moka-future.json) |
 | Moke Horror | 365127 | [365127-moke-horror.json](./365127-moke-horror.json) |
 | Moke Moke | 84604 | [84604-moke-moke.json](./84604-moke-moke.json) |
@@ -19983,6 +19987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muddledash | 89073 | [89073-muddledash.json](./89073-muddledash.json) |
 | Muddy Heights | 223678 | [223678-muddy-heights.json](./223678-muddy-heights.json) |
 | Muddy Heights 2 | 32939 | [32939-muddy-heights-2.json](./32939-muddy-heights-2.json) |
+| Muddy Racers | 413931 | [413931-muddy-racers.json](./413931-muddy-racers.json) |
 | Muddy Water | 171252 | [171252-muddy-water.json](./171252-muddy-water.json) |
 | Muddy Water 'Round My Shoes | 142544 | [142544-muddy-water-round-my-shoes.json](./142544-muddy-water-round-my-shoes.json) |
 | Mudflood | 408066 | [408066-mudflood.json](./408066-mudflood.json) |
