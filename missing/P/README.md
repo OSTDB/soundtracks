@@ -2155,6 +2155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ParaLegends | 357177 | [357177-paralegends.json](./357177-paralegends.json) |
 | ParaLily | 126258 | [126258-paralily.json](./126258-paralily.json) |
 | Paralines: The Last Paladin | 89610 | [89610-paralines-the-last-paladin.json](./89610-paralines-the-last-paladin.json) |
+| Paralives | 126547 | [126547-paralives.json](./126547-paralives.json) |
 | Parallax | 211628 | [211628-parallax.json](./211628-parallax.json) |
 | Parallax | 271743 | [271743-parallax.json](./271743-parallax.json) |
 | Parallax | 28847 | [28847-parallax.json](./28847-parallax.json) |
@@ -4879,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Royal: Kasumi as Protagonist | 381650 | [381650-persona-5-royal-kasumi-as-protagonist.json](./381650-persona-5-royal-kasumi-as-protagonist.json) |
 | Persona 5 Royal: Kasumi Costume Bundle | 405357 | [405357-persona-5-royal-kasumi-costume-bundle.json](./405357-persona-5-royal-kasumi-costume-bundle.json) |
 | Persona 5 Royal: Launch Edition | 134222 | [134222-persona-5-royal-launch-edition.json](./134222-persona-5-royal-launch-edition.json) |
+| Persona 5 Royal: Limited Edition | 116559 | [116559-persona-5-royal-limited-edition.json](./116559-persona-5-royal-limited-edition.json) |
 | Persona 5 Royal: P5D Costume & BGM Set | 405345 | [405345-persona-5-royal-p5d-costume-and-bgm-set.json](./405345-persona-5-royal-p5d-costume-and-bgm-set.json) |
 | Persona 5 Royal: P5D Featherman Costume & BGM Set | 405352 | [405352-persona-5-royal-p5d-featherman-costume-and-bgm-set.json](./405352-persona-5-royal-p5d-featherman-costume-and-bgm-set.json) |
 | Persona 5 Royal: Persona Bundle | 405358 | [405358-persona-5-royal-persona-bundle.json](./405358-persona-5-royal-persona-bundle.json) |
@@ -8031,6 +8033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of Treasure Island | 73436 | [73436-pirates-of-treasure-island.json](./73436-pirates-of-treasure-island.json) |
 | Pirates on Deck VR | 126750 | [126750-pirates-on-deck-vr.json](./126750-pirates-on-deck-vr.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
+| Pirates Outlaws | 116137 | [116137-pirates-outlaws.json](./116137-pirates-outlaws.json) |
 | Pirates Outlaws 2: Heritage | 320892 | [320892-pirates-outlaws-2-heritage.json](./320892-pirates-outlaws-2-heritage.json) |
 | Pirates Overboard | 185533 | [185533-pirates-overboard.json](./185533-pirates-overboard.json) |
 | Pirates Pinball | 115058 | [115058-pirates-pinball.json](./115058-pirates-pinball.json) |
