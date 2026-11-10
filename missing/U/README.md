@@ -373,6 +373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ulitsa Dimitrova | 175881 | [175881-ulitsa-dimitrova.json](./175881-ulitsa-dimitrova.json) |
 | Ulna Online | 155699 | [155699-ulna-online.json](./155699-ulna-online.json) |
 | Ultakia | 352735 | [352735-ultakia.json](./352735-ultakia.json) |
+| Ultidark | 422422 | [422422-ultidark.json](./422422-ultidark.json) |
 | Ultikill | 149476 | [149476-ultikill.json](./149476-ultikill.json) |
 | Ultim@te Race Pro | 131542 | [131542-ultim-te-race-pro.json](./131542-ultim-te-race-pro.json) |
 | Ultima | 7414 | [7414-ultima.json](./7414-ultima.json) |
