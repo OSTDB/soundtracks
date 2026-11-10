@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B17 Flying Fortress | 11928 | [11928-b17-flying-fortress.json](./11928-b17-flying-fortress.json) |
 | B1g Br0th3r | 136243 | [136243-b1g-br0th3r.json](./136243-b1g-br0th3r.json) |
 | B3 | 289382 | [289382-b3.json](./289382-b3.json) |
+| B3 Game Expo For Bees | 84775 | [84775-b3-game-expo-for-bees.json](./84775-b3-game-expo-for-bees.json) |
 | B3313 Unabandoned | 281260 | [281260-b3313-unabandoned.json](./281260-b3313-unabandoned.json) |
 | B360 | 133393 | [133393-b360.json](./133393-b360.json) |
 | B67 | 138742 | [138742-b67.json](./138742-b67.json) |
@@ -8781,6 +8782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Like | 352264 | [352264-bird-like.json](./352264-bird-like.json) |
 | Bird Mania 3D | 65254 | [65254-bird-mania-3d.json](./65254-bird-mania-3d.json) |
 | Bird Mania 3D Christmas | 62258 | [62258-bird-mania-3d-christmas.json](./62258-bird-mania-3d-christmas.json) |
+| Bird Mania Party | 84995 | [84995-bird-mania-party.json](./84995-bird-mania-party.json) |
 | Bird Memory | 112374 | [112374-bird-memory.json](./112374-bird-memory.json) |
 | Bird Museum | 145484 | [145484-bird-museum.json](./145484-bird-museum.json) |
 | Bird of Light | 33458 | [33458-bird-of-light.json](./33458-bird-of-light.json) |
@@ -11265,6 +11267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Balloons | 239401 | [239401-blocky-balloons.json](./239401-blocky-balloons.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
 | Blocky Blast | 343011 | [343011-blocky-blast.json](./343011-blocky-blast.json) |
+| Blocky Bot | 84998 | [84998-blocky-bot.json](./84998-blocky-bot.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
 | Blocky Cars Online | 86145 | [86145-blocky-cars-online.json](./86145-blocky-cars-online.json) |
 | Blocky Cars Speed Racer: Underground Highway Reckless Edition | 175504 | [175504-blocky-cars-speed-racer-underground-highway-reckless-edition.json](./175504-blocky-cars-speed-racer-underground-highway-reckless-edition.json) |
@@ -17354,6 +17357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Pop It ASMR | 195838 | [195838-bubble-pop-it-asmr.json](./195838-bubble-pop-it-asmr.json) |
 | Bubble Pop Letters & Shapes | 213396 | [213396-bubble-pop-letters-and-shapes.json](./213396-bubble-pop-letters-and-shapes.json) |
 | Bubble Pop Math Challenge Gr. 1-2 Premium | 87255 | [87255-bubble-pop-math-challenge-gr-1-2-premium.json](./87255-bubble-pop-math-challenge-gr-1-2-premium.json) |
+| Bubble Pop World | 85009 | [85009-bubble-pop-world.json](./85009-bubble-pop-world.json) |
 | Bubble Pop: Shoot Bubbles | 97067 | [97067-bubble-pop-shoot-bubbles.json](./97067-bubble-pop-shoot-bubbles.json) |
 | Bubble Pop! | 181592 | [181592-bubble-pop.json](./181592-bubble-pop.json) |
 | Bubble Popper | 175098 | [175098-bubble-popper.json](./175098-bubble-popper.json) |
@@ -19089,6 +19093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move Journey | 67196 | [67196-bust-a-move-journey.json](./67196-bust-a-move-journey.json) |
 | Bust-A-Move Live! | 21102 | [21102-bust-a-move-live.json](./21102-bust-a-move-live.json) |
 | Bust-A-Move Millennium | 49836 | [49836-bust-a-move-millennium.json](./49836-bust-a-move-millennium.json) |
+| Bust-A-Move Plus! | 84796 | [84796-bust-a-move-plus.json](./84796-bust-a-move-plus.json) |
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
 | Bust-A-Move Universe | 21154 | [21154-bust-a-move-universe.json](./21154-bust-a-move-universe.json) |
 | Bust-a-Move: Deluxe | 84162 | [84162-bust-a-move-deluxe.json](./84162-bust-a-move-deluxe.json) |
