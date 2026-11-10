@@ -6383,6 +6383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Days: Anata to Sugosu Nanokakan | 240072 | [240072-seven-days-anata-to-sugosu-nanokakan.json](./240072-seven-days-anata-to-sugosu-nanokakan.json) |
 | Seven Deadly Dates | 201436 | [201436-seven-deadly-dates.json](./201436-seven-deadly-dates.json) |
 | Seven Deadly Sins | 269851 | [269851-seven-deadly-sins.json](./269851-seven-deadly-sins.json) |
+| Seven Deadly Sins: Anime Boys Fantasy Love | 409932 | [409932-seven-deadly-sins-anime-boys-fantasy-love.json](./409932-seven-deadly-sins-anime-boys-fantasy-love.json) |
 | Seven Deadly Sins: Anime Girls Fantasy Love | 410405 | [410405-seven-deadly-sins-anime-girls-fantasy-love.json](./410405-seven-deadly-sins-anime-girls-fantasy-love.json) |
 | Seven Demons | 168590 | [168590-seven-demons.json](./168590-seven-demons.json) |
 | Seven Doors | 135475 | [135475-seven-doors.json](./135475-seven-doors.json) |
@@ -9059,6 +9060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi: Art of Vengeance | 279630 | [279630-shinobi-art-of-vengeance.json](./279630-shinobi-art-of-vengeance.json) |
 | Shinobi: Art of Vengeance - Digital Deluxe Edition | 349598 | [349598-shinobi-art-of-vengeance-digital-deluxe-edition.json](./349598-shinobi-art-of-vengeance-digital-deluxe-edition.json) |
 | Shinobi: Art of Vengeance - Sega Villains Stage | 375165 | [375165-shinobi-art-of-vengeance-sega-villains-stage.json](./375165-shinobi-art-of-vengeance-sega-villains-stage.json) |
+| Shinobi: Art of Vengeance - Starter Pack | 409950 | [409950-shinobi-art-of-vengeance-starter-pack.json](./409950-shinobi-art-of-vengeance-starter-pack.json) |
 | Shinobi: Art of Vengeance Blue Outfit | 373903 | [373903-shinobi-art-of-vengeance-blue-outfit.json](./373903-shinobi-art-of-vengeance-blue-outfit.json) |
 | Shinobi: The Warlord | 300722 | [300722-shinobi-the-warlord.json](./300722-shinobi-the-warlord.json) |
 | Shinobi.fr | 137624 | [137624-shinobi-fr.json](./137624-shinobi-fr.json) |
@@ -10067,6 +10069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showdown of Fate | 273092 | [273092-showdown-of-fate.json](./273092-showdown-of-fate.json) |
 | Showdown of the Dungeon | 112204 | [112204-showdown-of-the-dungeon.json](./112204-showdown-of-the-dungeon.json) |
 | Showdown: Legends of Wrestling | 6051 | [6051-showdown-legends-of-wrestling.json](./6051-showdown-legends-of-wrestling.json) |
+| Shower Game | 409817 | [409817-shower-game.json](./409817-shower-game.json) |
 | Shower Sim | 128603 | [128603-shower-sim.json](./128603-shower-sim.json) |
 | Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad? | 12204 | [12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json](./12204-shower-with-your-dad-simulator-2015-do-you-still-shower-with-your-dad.json) |
 | Showgunners | 210947 | [210947-showgunners.json](./210947-showgunners.json) |
@@ -10574,10 +10577,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Founders Edition | 315853 | [315853-sid-meiers-civilization-vii-founders-edition.json](./315853-sid-meiers-civilization-vii-founders-edition.json) |
 | Sid Meier's Civilization VII: Friedrich (Baroque) Persona | 360538 | [360538-sid-meiers-civilization-vii-friedrich-baroque-persona.json](./360538-sid-meiers-civilization-vii-friedrich-baroque-persona.json) |
 | Sid Meier's Civilization VII: Genghis Khan Pack | 360535 | [360535-sid-meiers-civilization-vii-genghis-khan-pack.json](./360535-sid-meiers-civilization-vii-genghis-khan-pack.json) |
+| Sid Meier's Civilization VII: Goryeo Pack | 409949 | [409949-sid-meiers-civilization-vii-goryeo-pack.json](./409949-sid-meiers-civilization-vii-goryeo-pack.json) |
 | Sid Meier's Civilization VII: Great Britain Pack | 360530 | [360530-sid-meiers-civilization-vii-great-britain-pack.json](./360530-sid-meiers-civilization-vii-great-britain-pack.json) |
 | Sid Meier's Civilization VII: Heian Japan Pack | 411598 | [411598-sid-meiers-civilization-vii-heian-japan-pack.json](./411598-sid-meiers-civilization-vii-heian-japan-pack.json) |
 | Sid Meier's Civilization VII: Himiko (High Shaman) Persona | 360539 | [360539-sid-meiers-civilization-vii-himiko-high-shaman-persona.json](./360539-sid-meiers-civilization-vii-himiko-high-shaman-persona.json) |
 | Sid Meier's Civilization VII: Iceland Pack | 376794 | [376794-sid-meiers-civilization-vii-iceland-pack.json](./376794-sid-meiers-civilization-vii-iceland-pack.json) |
+| Sid Meier's Civilization VII: Joseon Pack | 409948 | [409948-sid-meiers-civilization-vii-joseon-pack.json](./409948-sid-meiers-civilization-vii-joseon-pack.json) |
 | Sid Meier's Civilization VII: Lakshmibai Pack | 371026 | [371026-sid-meiers-civilization-vii-lakshmibai-pack.json](./371026-sid-meiers-civilization-vii-lakshmibai-pack.json) |
 | Sid Meier's Civilization VII: Nepal Pack | 360532 | [360532-sid-meiers-civilization-vii-nepal-pack.json](./360532-sid-meiers-civilization-vii-nepal-pack.json) |
 | Sid Meier's Civilization VII: Ottomans Pack | 376795 | [376795-sid-meiers-civilization-vii-ottomans-pack.json](./376795-sid-meiers-civilization-vii-ottomans-pack.json) |
@@ -10597,6 +10602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Update 1.5.0 | 418618 | [418618-sid-meiers-civilization-vii-update-1-5-0.json](./418618-sid-meiers-civilization-vii-update-1-5-0.json) |
 | Sid Meier's Civilization VII: VR | 330781 | [330781-sid-meiers-civilization-vii-vr.json](./330781-sid-meiers-civilization-vii-vr.json) |
 | Sid Meier's Civilization VII: Xerxes (The Achaemenid) Persona | 360537 | [360537-sid-meiers-civilization-vii-xerxes-the-achaemenid-persona.json](./360537-sid-meiers-civilization-vii-xerxes-the-achaemenid-persona.json) |
+| Sid Meier's Civilization VII: Yi Sun-sin Pack | 409947 | [409947-sid-meiers-civilization-vii-yi-sun-sin-pack.json](./409947-sid-meiers-civilization-vii-yi-sun-sin-pack.json) |
 | Sid Meier's Civilization: Beyond Earth | 6038 | [6038-sid-meiers-civilization-beyond-earth.json](./6038-sid-meiers-civilization-beyond-earth.json) |
 | Sid Meier's Civilization: Beyond Earth - Exoplanets Map Pack | 170843 | [170843-sid-meiers-civilization-beyond-earth-exoplanets-map-pack.json](./170843-sid-meiers-civilization-beyond-earth-exoplanets-map-pack.json) |
 | Sid Meier's Civilization: Beyond Earth - Rising Tide | 10502 | [10502-sid-meiers-civilization-beyond-earth-rising-tide.json](./10502-sid-meiers-civilization-beyond-earth-rising-tide.json) |
@@ -18184,6 +18190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Advance Revamped Lite | 227797 | [227797-sonic-advance-revamped-lite.json](./227797-sonic-advance-revamped-lite.json) |
 | Sonic Advance X | 227806 | [227806-sonic-advance-x.json](./227806-sonic-advance-x.json) |
 | Sonic Advance: International | 316297 | [316297-sonic-advance-international.json](./316297-sonic-advance-international.json) |
+| Sonic Advance: Souped Up | 409901 | [409901-sonic-advance-souped-up.json](./409901-sonic-advance-souped-up.json) |
 | Sonic Advent | 331775 | [331775-sonic-advent.json](./331775-sonic-advent.json) |
 | Sonic Adventure | 192113 | [192113-sonic-adventure.json](./192113-sonic-adventure.json) |
 | Sonic Adventure | 198588 | [198588-sonic-adventure.json](./198588-sonic-adventure.json) |
@@ -24099,6 +24106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot the Oddity | 111516 | [111516-spot-the-oddity.json](./111516-spot-the-oddity.json) |
 | Spot the Spy Guy | 390910 | [390910-spot-the-spy-guy.json](./390910-spot-the-spy-guy.json) |
 | Spot the Wrong Character | 362361 | [362361-spot-the-wrong-character.json](./362361-spot-the-wrong-character.json) |
+| Spot Them All | 409930 | [409930-spot-them-all.json](./409930-spot-them-all.json) |
 | Spot Venture | 243170 | [243170-spot-venture.json](./243170-spot-venture.json) |
 | Spot Zero | 338744 | [338744-spot-zero.json](./338744-spot-zero.json) |
 | Spot: The Cool Adventure | 66020 | [66020-spot-the-cool-adventure.json](./66020-spot-the-cool-adventure.json) |
@@ -30931,6 +30939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Strike 4: Steelbook Edition | 166280 | [166280-sudden-strike-4-steelbook-edition.json](./166280-sudden-strike-4-steelbook-edition.json) |
 | Sudden Strike 4: The Pacific War | 125002 | [125002-sudden-strike-4-the-pacific-war.json](./125002-sudden-strike-4-the-pacific-war.json) |
 | Sudden Strike 5 | 355088 | [355088-sudden-strike-5.json](./355088-sudden-strike-5.json) |
+| Sudden Strike 5: France - Road to Liberation | 409907 | [409907-sudden-strike-5-france-road-to-liberation.json](./409907-sudden-strike-5-france-road-to-liberation.json) |
 | Sudden Strike Anthology | 85819 | [85819-sudden-strike-anthology.json](./85819-sudden-strike-anthology.json) |
 | Sudden Strike Gold | 36717 | [36717-sudden-strike-gold.json](./36717-sudden-strike-gold.json) |
 | Sudden Strike Normandy | 53681 | [53681-sudden-strike-normandy.json](./53681-sudden-strike-normandy.json) |
@@ -31943,6 +31952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise Doll | 316542 | [316542-sunrise-doll.json](./316542-sunrise-doll.json) |
 | Sunrise Down | 312730 | [312730-sunrise-down.json](./312730-sunrise-down.json) |
 | Sunrise Eiyuutan | 274293 | [274293-sunrise-eiyuutan.json](./274293-sunrise-eiyuutan.json) |
+| Sunrise Eiyuutan 3 | 409802 | [409802-sunrise-eiyuutan-3.json](./409802-sunrise-eiyuutan-3.json) |
 | Sunrise GP | 245893 | [245893-sunrise-gp.json](./245893-sunrise-gp.json) |
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
 | Sunrise Paradise | 171786 | [171786-sunrise-paradise.json](./171786-sunrise-paradise.json) |
