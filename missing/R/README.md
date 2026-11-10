@@ -7017,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reworld | 193800 | [193800-reworld.json](./193800-reworld.json) |
 | Rewound | 408417 | [408417-rewound.json](./408417-rewound.json) |
 | Rewoven Self | 377635 | [377635-rewoven-self.json](./377635-rewoven-self.json) |
+| Rewrite | 6193 | [6193-rewrite.json](./6193-rewrite.json) |
 | Rewrite - DYH | 142892 | [142892-rewrite-dyh.json](./142892-rewrite-dyh.json) |
 | Rewrite Harvest festa! | 144733 | [144733-rewrite-harvest-festa.json](./144733-rewrite-harvest-festa.json) |
 | Rewrite the Romance: The Golden Lotus | 346567 | [346567-rewrite-the-romance-the-golden-lotus.json](./346567-rewrite-the-romance-the-golden-lotus.json) |
@@ -9069,6 +9070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin Hood Archer | 420173 | [420173-robin-hood-archer.json](./420173-robin-hood-archer.json) |
 | Robin Hood Legends | 104581 | [104581-robin-hood-legends.json](./104581-robin-hood-legends.json) |
 | Robin Hood: Country Heroes | 126781 | [126781-robin-hood-country-heroes.json](./126781-robin-hood-country-heroes.json) |
+| Robin Hood: Defender of the Crown | 6012 | [6012-robin-hood-defender-of-the-crown.json](./6012-robin-hood-defender-of-the-crown.json) |
 | Robin Hood: Forest Adventures | 394460 | [394460-robin-hood-forest-adventures.json](./394460-robin-hood-forest-adventures.json) |
 | Robin Hood: Hail to the King | 155964 | [155964-robin-hood-hail-to-the-king.json](./155964-robin-hood-hail-to-the-king.json) |
 | Robin Hood: Legend Quest | 12748 | [12748-robin-hood-legend-quest.json](./12748-robin-hood-legend-quest.json) |
@@ -9906,6 +9908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Rabbit - Coin Race | 147866 | [147866-rocket-rabbit-coin-race.json](./147866-rocket-rabbit-coin-race.json) |
 | Rocket Racing: Fuse Starter Quest Pack | 303532 | [303532-rocket-racing-fuse-starter-quest-pack.json](./303532-rocket-racing-fuse-starter-quest-pack.json) |
 | Rocket Raid | 13751 | [13751-rocket-raid.json](./13751-rocket-raid.json) |
+| Rocket Ranger | 5486 | [5486-rocket-ranger.json](./5486-rocket-ranger.json) |
 | Rocket Ranger: Emulated Amiga Edition | 154944 | [154944-rocket-ranger-emulated-amiga-edition.json](./154944-rocket-ranger-emulated-amiga-edition.json) |
 | Rocket Riot | 20479 | [20479-rocket-riot.json](./20479-rocket-riot.json) |
 | Rocket Riot 3D | 106261 | [106261-rocket-riot-3d.json](./106261-rocket-riot-3d.json) |
