@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Vegend: Zombiegeddon | 17426 | [17426-i-am-vegend-zombiegeddon.json](./17426-i-am-vegend-zombiegeddon.json) |
 | I Am Very Good At Walking | 377663 | [377663-i-am-very-good-at-walking.json](./377663-i-am-very-good-at-walking.json) |
 | I Am Weapon | 54110 | [54110-i-am-weapon.json](./54110-i-am-weapon.json) |
+| I am Weapon: Revival | 22561 | [22561-i-am-weapon-revival.json](./22561-i-am-weapon-revival.json) |
 | I am working | 177750 | [177750-i-am-working.json](./177750-i-am-working.json) |
 | I Am You, I Am Everything. | 367189 | [367189-i-am-you-i-am-everything.json](./367189-i-am-you-i-am-everything.json) |
 | I Am Your Beast | 305180 | [305180-i-am-your-beast.json](./305180-i-am-your-beast.json) |
@@ -4048,7 +4049,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
