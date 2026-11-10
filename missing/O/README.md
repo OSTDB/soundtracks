@@ -2092,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Life and Living | 263968 | [263968-on-life-and-living.json](./263968-on-life-and-living.json) |
 | On Love, On Monsters | 413779 | [413779-on-love-on-monsters.json](./413779-on-love-on-monsters.json) |
 | On Mount Ségou | 296098 | [296098-on-mount-segou.json](./296098-on-mount-segou.json) |
+| On My Own | 18356 | [18356-on-my-own.json](./18356-on-my-own.json) |
 | On My Own So-Called Cleverness... | 143629 | [143629-on-my-own-so-called-cleverness.json](./143629-on-my-own-so-called-cleverness.json) |
 | On My Own: A Hot Isekai Adventure | 211774 | [211774-on-my-own-a-hot-isekai-adventure.json](./211774-on-my-own-a-hot-isekai-adventure.json) |
 | On My Own: New Frontier | 164049 | [164049-on-my-own-new-frontier.json](./164049-on-my-own-new-frontier.json) |
@@ -3781,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OplitisAV | 189813 | [189813-oplitisav.json](./189813-oplitisav.json) |
 | Opollo | 360718 | [360718-opollo.json](./360718-opollo.json) |
 | Opona | 380822 | [380822-opona.json](./380822-opona.json) |
+| Opossession | 312619 | [312619-opossession.json](./312619-opossession.json) |
 | Oppai Academy Big, Bouncy, Booby Babes! | 147454 | [147454-oppai-academy-big-bouncy-booby-babes.json](./147454-oppai-academy-big-bouncy-booby-babes.json) |
 | Oppai Daisuki | 393373 | [393373-oppai-daisuki.json](./393373-oppai-daisuki.json) |
 | Oppai Heart: Kanojo wa Kedamono Hatsujouki!? | 77934 | [77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json](./77934-oppai-heart-kanojo-wa-kedamono-hatsujouki.json) |
@@ -3845,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus: Echo of Starsong - Full Bloom Edition: Launch Edition | 256030 | [256030-opus-echo-of-starsong-full-bloom-edition-launch-edition.json](./256030-opus-echo-of-starsong-full-bloom-edition-launch-edition.json) |
 | Opus: Prism Peak | 234662 | [234662-opus-prism-peak.json](./234662-opus-prism-peak.json) |
 | Opus: Rocket of Whispers - Deluxe Edition | 186535 | [186535-opus-rocket-of-whispers-deluxe-edition.json](./186535-opus-rocket-of-whispers-deluxe-edition.json) |
+| Opus: The Day We Found Earth | 18900 | [18900-opus-the-day-we-found-earth.json](./18900-opus-the-day-we-found-earth.json) |
 | Oquonie | 60514 | [60514-oquonie.json](./60514-oquonie.json) |
 | Or | 29613 | [29613-or.json](./29613-or.json) |
 | Or8 | 131718 | [131718-or8.json](./131718-or8.json) |
