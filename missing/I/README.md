@@ -4060,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4849,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insignificant | 119940 | [119940-insignificant.json](./119940-insignificant.json) |
 | Insincere | 32725 | [32725-insincere.json](./32725-insincere.json) |
 | Insipid | 189293 | [189293-insipid.json](./189293-insipid.json) |
+| Insolent | 427823 | [427823-insolent.json](./427823-insolent.json) |
 | Insomnia | 224710 | [224710-insomnia.json](./224710-insomnia.json) |
 | Insomnia | 238747 | [238747-insomnia.json](./238747-insomnia.json) |
 | Insomnia | 278403 | [278403-insomnia.json](./278403-insomnia.json) |
