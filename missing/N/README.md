@@ -3254,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights 2 | 214 | [214-neverwinter-nights-2.json](./214-neverwinter-nights-2.json) |
 | Neverwinter Nights 2: Complete | 50322 | [50322-neverwinter-nights-2-complete.json](./50322-neverwinter-nights-2-complete.json) |
 | Neverwinter Nights 2: Mask of the Betrayer | 1840 | [1840-neverwinter-nights-2-mask-of-the-betrayer.json](./1840-neverwinter-nights-2-mask-of-the-betrayer.json) |
+| Neverwinter Nights 2: Mysteries of Westgate | 14556 | [14556-neverwinter-nights-2-mysteries-of-westgate.json](./14556-neverwinter-nights-2-mysteries-of-westgate.json) |
 | Neverwinter Nights 2: Platinum | 28972 | [28972-neverwinter-nights-2-platinum.json](./28972-neverwinter-nights-2-platinum.json) |
 | Neverwinter Nights 2: Storm of Zehir | 3144 | [3144-neverwinter-nights-2-storm-of-zehir.json](./3144-neverwinter-nights-2-storm-of-zehir.json) |
 | Neverwinter Nights: Dark Dreams of Furiae | 155077 | [155077-neverwinter-nights-dark-dreams-of-furiae.json](./155077-neverwinter-nights-dark-dreams-of-furiae.json) |
@@ -4068,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ni no Kuni II: Revenant Kingdom - Tale of a Timeless Tome | 115646 | [115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json](./115646-ni-no-kuni-ii-revenant-kingdom-tale-of-a-timeless-tome.json) |
 | Ni no Kuni II: Revenant Kingdom - The Lair of the Lost Lord | 154455 | [154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json](./154455-ni-no-kuni-ii-revenant-kingdom-the-lair-of-the-lost-lord.json) |
 | Ni no Kuni II: Revenant Kingdom - The Prince's Edition | 150149 | [150149-ni-no-kuni-ii-revenant-kingdom-the-princes-edition.json](./150149-ni-no-kuni-ii-revenant-kingdom-the-princes-edition.json) |
+| Ni no Kuni: Cross Worlds | 125759 | [125759-ni-no-kuni-cross-worlds.json](./125759-ni-no-kuni-cross-worlds.json) |
 | Ni no Kuni: Daibouken Monsters | 27275 | [27275-ni-no-kuni-daibouken-monsters.json](./27275-ni-no-kuni-daibouken-monsters.json) |
 | Ni no Kuni: Dominion of the Dark Djinn | 18856 | [18856-ni-no-kuni-dominion-of-the-dark-djinn.json](./18856-ni-no-kuni-dominion-of-the-dark-djinn.json) |
 | Ni no Kuni: Hotroit Stories | 27273 | [27273-ni-no-kuni-hotroit-stories.json](./27273-ni-no-kuni-hotroit-stories.json) |
@@ -5811,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitrome Must Die | 141775 | [141775-nitrome-must-die.json](./141775-nitrome-must-die.json) |
 | Nitronauts | 333144 | [333144-nitronauts.json](./333144-nitronauts.json) |
 | Nitroneers | 120021 | [120021-nitroneers.json](./120021-nitroneers.json) |
+| Nitroplus Blasterz: Heroines Infinite Duel | 13552 | [13552-nitroplus-blasterz-heroines-infinite-duel.json](./13552-nitroplus-blasterz-heroines-infinite-duel.json) |
 | Nitroplus Blasterz: Heroines Infinite Duel - Limited Edition | 167134 | [167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json](./167134-nitroplus-blasterz-heroines-infinite-duel-limited-edition.json) |
 | NitroRage | 40703 | [40703-nitrorage.json](./40703-nitrorage.json) |
 | Nitrous Firetruck | 236458 | [236458-nitrous-firetruck.json](./236458-nitrous-firetruck.json) |
