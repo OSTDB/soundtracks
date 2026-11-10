@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac 'n Roll Remix | 203270 | [203270-pac-n-roll-remix.json](./203270-pac-n-roll-remix.json) |
 | Pac & Pal | 18381 | [18381-pac-and-pal.json](./18381-pac-and-pal.json) |
 | Pac 16 | 313499 | [313499-pac-16.json](./313499-pac-16.json) |
+| Pac Adventure: Dracula's Castle | 416880 | [416880-pac-adventure-draculas-castle.json](./416880-pac-adventure-draculas-castle.json) |
 | Pac Adventures 3D | 105307 | [105307-pac-adventures-3d.json](./105307-pac-adventures-3d.json) |
 | Pac Brothers | 47025 | [47025-pac-brothers.json](./47025-pac-brothers.json) |
 | Pac Cat | 313948 | [313948-pac-cat.json](./313948-pac-cat.json) |
