@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
 | Zipple World | 33755 | [33755-zipple-world.json](./33755-zipple-world.json) |
 | Zipple World 2: The Sweet Chaos | 33052 | [33052-zipple-world-2-the-sweet-chaos.json](./33052-zipple-world-2-the-sweet-chaos.json) |
+| Zippr Fleet | 101377 | [101377-zippr-fleet.json](./101377-zippr-fleet.json) |
 | Zippy Froger | 246376 | [246376-zippy-froger.json](./246376-zippy-froger.json) |
 | Zippy Race | 322775 | [322775-zippy-race.json](./322775-zippy-race.json) |
 | Zippy the Circle Challenge: Level 11C, Level 12C, and Level 13C | 213852 | [213852-zippy-the-circle-challenge-level-11c-level-12c-and-level-13c.json](./213852-zippy-the-circle-challenge-level-11c-level-12c-and-level-13c.json) |
