@@ -381,8 +381,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew Triple Threat | 51403 | [51403-nancy-drew-triple-threat.json](./51403-nancy-drew-triple-threat.json) |
 | Nancy Drew Ultimate Dare | 50859 | [50859-nancy-drew-ultimate-dare.json](./50859-nancy-drew-ultimate-dare.json) |
 | Nancy Drew: Alibi in Ashes | 10579 | [10579-nancy-drew-alibi-in-ashes.json](./10579-nancy-drew-alibi-in-ashes.json) |
+| Nancy Drew: Curse of Blackmoor Manor | 12450 | [12450-nancy-drew-curse-of-blackmoor-manor.json](./12450-nancy-drew-curse-of-blackmoor-manor.json) |
+| Nancy Drew: Danger by Design | 14953 | [14953-nancy-drew-danger-by-design.json](./14953-nancy-drew-danger-by-design.json) |
 | Nancy Drew: Danger on Deception Island | 10580 | [10580-nancy-drew-danger-on-deception-island.json](./10580-nancy-drew-danger-on-deception-island.json) |
 | Nancy Drew: Ghost Dogs of Moon Lake | 7626 | [7626-nancy-drew-ghost-dogs-of-moon-lake.json](./7626-nancy-drew-ghost-dogs-of-moon-lake.json) |
+| Nancy Drew: Last Train to Blue Moon Canyon | 15997 | [15997-nancy-drew-last-train-to-blue-moon-canyon.json](./15997-nancy-drew-last-train-to-blue-moon-canyon.json) |
 | Nancy Drew: Legend of the Crystal Skull | 7629 | [7629-nancy-drew-legend-of-the-crystal-skull.json](./7629-nancy-drew-legend-of-the-crystal-skull.json) |
 | Nancy Drew: Message in a Haunted Mansion | 248638 | [248638-nancy-drew-message-in-a-haunted-mansion.json](./248638-nancy-drew-message-in-a-haunted-mansion.json) |
 | Nancy Drew: Message in a Haunted Mansion | 6522 | [6522-nancy-drew-message-in-a-haunted-mansion.json](./6522-nancy-drew-message-in-a-haunted-mansion.json) |
@@ -391,11 +394,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: Mystery of the Seven Keys | 262197 | [262197-nancy-drew-mystery-of-the-seven-keys.json](./262197-nancy-drew-mystery-of-the-seven-keys.json) |
 | Nancy Drew: Ransom of the Seven Ships | 29201 | [29201-nancy-drew-ransom-of-the-seven-ships.json](./29201-nancy-drew-ransom-of-the-seven-ships.json) |
 | Nancy Drew: Sea of Darkness | 29920 | [29920-nancy-drew-sea-of-darkness.json](./29920-nancy-drew-sea-of-darkness.json) |
+| Nancy Drew: Secret of the Old Clock | 16000 | [16000-nancy-drew-secret-of-the-old-clock.json](./16000-nancy-drew-secret-of-the-old-clock.json) |
 | Nancy Drew: Secret of the Scarlet Hand | 7625 | [7625-nancy-drew-secret-of-the-scarlet-hand.json](./7625-nancy-drew-secret-of-the-scarlet-hand.json) |
 | Nancy Drew: Secrets Can Kill | 7620 | [7620-nancy-drew-secrets-can-kill.json](./7620-nancy-drew-secrets-can-kill.json) |
 | Nancy Drew: Secrets Can Kill Remastered | 10582 | [10582-nancy-drew-secrets-can-kill-remastered.json](./10582-nancy-drew-secrets-can-kill-remastered.json) |
 | Nancy Drew: Shadow at the Water's Edge | 10583 | [10583-nancy-drew-shadow-at-the-waters-edge.json](./10583-nancy-drew-shadow-at-the-waters-edge.json) |
 | Nancy Drew: Stay Tuned for Danger | 7622 | [7622-nancy-drew-stay-tuned-for-danger.json](./7622-nancy-drew-stay-tuned-for-danger.json) |
+| Nancy Drew: The Creature of Kapu Cave | 16001 | [16001-nancy-drew-the-creature-of-kapu-cave.json](./16001-nancy-drew-the-creature-of-kapu-cave.json) |
 | Nancy Drew: The Deadly Secret of Olde World Park | 47808 | [47808-nancy-drew-the-deadly-secret-of-olde-world-park.json](./47808-nancy-drew-the-deadly-secret-of-olde-world-park.json) |
 | Nancy Drew: The Final Scene | 7624 | [7624-nancy-drew-the-final-scene.json](./7624-nancy-drew-the-final-scene.json) |
 | Nancy Drew: The Ghost of Thornton Hall | 16451 | [16451-nancy-drew-the-ghost-of-thornton-hall.json](./16451-nancy-drew-the-ghost-of-thornton-hall.json) |
@@ -6637,6 +6642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noitcelfer | 248128 | [248128-noitcelfer.json](./248128-noitcelfer.json) |
 | Noite Animal | 65627 | [65627-noite-animal.json](./65627-noite-animal.json) |
 | Noite de Bingo: Fofoca com Vampiro | 308014 | [308014-noite-de-bingo-fofoca-com-vampiro.json](./308014-noite-de-bingo-fofoca-com-vampiro.json) |
+| Noitu Love 2: Devolution | 16347 | [16347-noitu-love-2-devolution.json](./16347-noitu-love-2-devolution.json) |
 | Noitu Love and the Army of Grinning Darns | 87799 | [87799-noitu-love-and-the-army-of-grinning-darns.json](./87799-noitu-love-and-the-army-of-grinning-darns.json) |
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
 | Noiz2sa | 86033 | [86033-noiz2sa.json](./86033-noiz2sa.json) |
