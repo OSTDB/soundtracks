@@ -2799,6 +2799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Ventura: Pet Detective | 218423 | [218423-ace-ventura-pet-detective.json](./218423-ace-ventura-pet-detective.json) |
 | Ace Ventura: Pet Detective - The Case of the Serial Shaver | 61643 | [61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json](./61643-ace-ventura-pet-detective-the-case-of-the-serial-shaver.json) |
 | Ace VR Shooting | 298744 | [298744-ace-vr-shooting.json](./298744-ace-vr-shooting.json) |
+| Ace wo Nerae! | 63844 | [63844-ace-wo-nerae.json](./63844-ace-wo-nerae.json) |
 | ACE: Air Cruiser Elite | 234487 | [234487-ace-air-cruiser-elite.json](./234487-ace-air-cruiser-elite.json) |
 | ACE: Alice Card Episode | 385869 | [385869-ace-alice-card-episode.json](./385869-ace-alice-card-episode.json) |
 | ACE: Alien Cleanup Elite | 84732 | [84732-ace-alien-cleanup-elite.json](./84732-ace-alien-cleanup-elite.json) |
@@ -16551,6 +16552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astlan | 184270 | [184270-astlan.json](./184270-astlan.json) |
 | Astlibra Gaiden: The Cave of Phantom Mist | 395862 | [395862-astlibra-gaiden-the-cave-of-phantom-mist.json](./395862-astlibra-gaiden-the-cave-of-phantom-mist.json) |
 | Astlibra Mini Side Story: Cave of Genghiri | 185876 | [185876-astlibra-mini-side-story-cave-of-genghiri.json](./185876-astlibra-mini-side-story-cave-of-genghiri.json) |
+| Astlibra Revision | 172820 | [172820-astlibra-revision.json](./172820-astlibra-revision.json) |
 | Astlibra Revision Gaiden: The Cave of Phantom Mist | 281180 | [281180-astlibra-revision-gaiden-the-cave-of-phantom-mist.json](./281180-astlibra-revision-gaiden-the-cave-of-phantom-mist.json) |
 | Astlibra: Living Proof | 185875 | [185875-astlibra-living-proof.json](./185875-astlibra-living-proof.json) |
 | Astoaria | 226227 | [226227-astoaria.json](./226227-astoaria.json) |
