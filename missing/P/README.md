@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Life | 157315 | [157315-pacific-life.json](./157315-pacific-life.json) |
 | Pacific Minesweeper | 289242 | [289242-pacific-minesweeper.json](./289242-pacific-minesweeper.json) |
 | Pacific Rim | 3763 | [3763-pacific-rim.json](./3763-pacific-rim.json) |
+| Pacific Rim: Breach Wars | 95099 | [95099-pacific-rim-breach-wars.json](./95099-pacific-rim-breach-wars.json) |
 | Pacific Storm | 14884 | [14884-pacific-storm.json](./14884-pacific-storm.json) |
 | Pacific Storm 6: Battle for Normandy | 111930 | [111930-pacific-storm-6-battle-for-normandy.json](./111930-pacific-storm-6-battle-for-normandy.json) |
 | Pacific Storm: Allies | 14855 | [14855-pacific-storm-allies.json](./14855-pacific-storm-allies.json) |
@@ -6911,6 +6912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilfer | 129434 | [129434-pilfer.json](./129434-pilfer.json) |
 | Pilfer | 388710 | [388710-pilfer.json](./388710-pilfer.json) |
 | Pilfer: Story of Light | 244065 | [244065-pilfer-story-of-light.json](./244065-pilfer-story-of-light.json) |
+| Pilferer | 95238 | [95238-pilferer.json](./95238-pilferer.json) |
 | Pilgrim | 229788 | [229788-pilgrim.json](./229788-pilgrim.json) |
 | Pilgrim | 301813 | [301813-pilgrim.json](./301813-pilgrim.json) |
 | Pilgrim | 85593 | [85593-pilgrim.json](./85593-pilgrim.json) |
@@ -10580,6 +10582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plug and Play Sudoku | 263432 | [263432-plug-and-play-sudoku.json](./263432-plug-and-play-sudoku.json) |
 | Plug for Terraria | 87343 | [87343-plug-for-terraria.json](./87343-plug-for-terraria.json) |
 | Plug It In | 288232 | [288232-plug-it-in.json](./288232-plug-it-in.json) |
+| Plug Me | 95145 | [95145-plug-me.json](./95145-plug-me.json) |
 | Plug Priority | 386894 | [386894-plug-priority.json](./386894-plug-priority.json) |
 | Plug the Man | 184148 | [184148-plug-the-man.json](./184148-plug-the-man.json) |
 | Plug Wars: The Game | 148476 | [148476-plug-wars-the-game.json](./148476-plug-wars-the-game.json) |
