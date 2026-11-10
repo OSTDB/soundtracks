@@ -1067,6 +1067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Official Formula One Racing | 77790 | [77790-official-formula-one-racing.json](./77790-official-formula-one-racing.json) |
 | Official Spacefarer Card Game | 279863 | [279863-official-spacefarer-card-game.json](./279863-official-spacefarer-card-game.json) |
 | Official Wicked Vixen Silicone Scramble | 169537 | [169537-official-wicked-vixen-silicone-scramble.json](./169537-official-wicked-vixen-silicone-scramble.json) |
+| Official Wicked Vixen: Whack-A-Dick Pro | 418723 | [418723-official-wicked-vixen-whack-a-dick-pro.json](./418723-official-wicked-vixen-whack-a-dick-pro.json) |
 | Offline | 216977 | [216977-offline.json](./216977-offline.json) |
 | Offline | 390174 | [390174-offline.json](./390174-offline.json) |
 | Offline Games | 330924 | [330924-offline-games.json](./330924-offline-games.json) |
