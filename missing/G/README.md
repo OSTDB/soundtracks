@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Wars: Ice Empire | 102820 | [102820-galaxy-wars-ice-empire.json](./102820-galaxy-wars-ice-empire.json) |
 | Galaxy Wars: Space Launcher | 312874 | [312874-galaxy-wars-space-launcher.json](./312874-galaxy-wars-space-launcher.json) |
 | Galaxy X | 159742 | [159742-galaxy-x.json](./159742-galaxy-x.json) |
+| Galaxy X | 417136 | [417136-galaxy-x.json](./417136-galaxy-x.json) |
 | Galaxy-X | 214041 | [214041-galaxy-x.json](./214041-galaxy-x.json) |
 | Galaxy's Extreme | 169760 | [169760-galaxys-extreme.json](./169760-galaxys-extreme.json) |
 | GalaxyMotoCrossHD | 246967 | [246967-galaxymotocrosshd.json](./246967-galaxymotocrosshd.json) |
@@ -1369,6 +1370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Kids: Baseball Bash | 334631 | [334631-game-kids-baseball-bash.json](./334631-game-kids-baseball-bash.json) |
 | Game Machine 2 | 346762 | [346762-game-machine-2.json](./346762-game-machine-2.json) |
 | Game Machines: Arcade Casino | 74121 | [74121-game-machines-arcade-casino.json](./74121-game-machines-arcade-casino.json) |
+| Game Market Mayhem | 417159 | [417159-game-market-mayhem.json](./417159-game-market-mayhem.json) |
 | Game Master II | 41747 | [41747-game-master-ii.json](./41747-game-master-ii.json) |
 | Game ni Nattayo! Dokuro-chan: Kenkou Shindan Daisakusen | 248390 | [248390-game-ni-nattayo-dokuro-chan-kenkou-shindan-daisakusen.json](./248390-game-ni-nattayo-dokuro-chan-kenkou-shindan-daisakusen.json) |
 | Game Night | 406175 | [406175-game-night.json](./406175-game-night.json) |
@@ -9555,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Block | 190454 | [190454-grey-block.json](./190454-grey-block.json) |
 | Grey Bones | 164505 | [164505-grey-bones.json](./164505-grey-bones.json) |
 | Grey Cat | 401701 | [401701-grey-cat.json](./401701-grey-cat.json) |
+| Grey Cloaks of Aron: The Sleeping Village | 417236 | [417236-grey-cloaks-of-aron-the-sleeping-village.json](./417236-grey-cloaks-of-aron-the-sleeping-village.json) |
 | Grey Cubes | 35226 | [35226-grey-cubes.json](./35226-grey-cubes.json) |
 | Grey Eminence | 217478 | [217478-grey-eminence.json](./217478-grey-eminence.json) |
 | Grey Eyes of Death | 199308 | [199308-grey-eyes-of-death.json](./199308-grey-eyes-of-death.json) |
