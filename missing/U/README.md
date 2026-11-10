@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Casino | 203349 | [203349-ultimate-casino.json](./203349-ultimate-casino.json) |
 | Ultimate Casino 3 Pack | 69246 | [69246-ultimate-casino-3-pack.json](./69246-ultimate-casino-3-pack.json) |
 | Ultimate Cat Simulator | 88945 | [88945-ultimate-cat-simulator.json](./88945-ultimate-cat-simulator.json) |
+| Ultimate Chaos Gambling Battle | 410538 | [410538-ultimate-chaos-gambling-battle.json](./410538-ultimate-chaos-gambling-battle.json) |
 | Ultimate Chess | 133638 | [133638-ultimate-chess.json](./133638-ultimate-chess.json) |
 | Ultimate Chess 3D | 91895 | [91895-ultimate-chess-3d.json](./91895-ultimate-chess-3d.json) |
 | Ultimate Chicken Horse: A-Neigh-Versary Edition | 159206 | [159206-ultimate-chicken-horse-a-neigh-versary-edition.json](./159206-ultimate-chicken-horse-a-neigh-versary-edition.json) |
