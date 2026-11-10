@@ -10065,6 +10065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Shadow Woven - Cyan | 317750 | [317750-angel-legion-shadow-woven-cyan.json](./317750-angel-legion-shadow-woven-cyan.json) |
 | Angel Legion: Shadow Woven - Golden | 302568 | [302568-angel-legion-shadow-woven-golden.json](./302568-angel-legion-shadow-woven-golden.json) |
 | Angel Legion: Shadow Woven - Green | 302575 | [302575-angel-legion-shadow-woven-green.json](./302575-angel-legion-shadow-woven-green.json) |
+| Angel Light the Elven Truce | 114983 | [114983-angel-light-the-elven-truce.json](./114983-angel-light-the-elven-truce.json) |
 | Angel Link | 253651 | [253651-angel-link.json](./253651-angel-link.json) |
 | Angel Made | 156077 | [156077-angel-made.json](./156077-angel-made.json) |
 | Angel Maker | 177758 | [177758-angel-maker.json](./177758-angel-maker.json) |
@@ -14874,6 +14875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armour-Geddon | 11915 | [11915-armour-geddon.json](./11915-armour-geddon.json) |
 | Armour-Geddon II: Codename Hellfire | 14267 | [14267-armour-geddon-ii-codename-hellfire.json](./14267-armour-geddon-ii-codename-hellfire.json) |
 | Armourdillo | 13805 | [13805-armourdillo.json](./13805-armourdillo.json) |
+| Armoured Alliance | 114877 | [114877-armoured-alliance.json](./114877-armoured-alliance.json) |
 | Armoured Cavalry: Operation Varkiri | 215464 | [215464-armoured-cavalry-operation-varkiri.json](./215464-armoured-cavalry-operation-varkiri.json) |
 | Armoured Commander | 56936 | [56936-armoured-commander.json](./56936-armoured-commander.json) |
 | Armoured Commander II | 132356 | [132356-armoured-commander-ii.json](./132356-armoured-commander-ii.json) |
