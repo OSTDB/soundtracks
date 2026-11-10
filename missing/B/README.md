@@ -1005,7 +1005,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1494,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bales of Amber | 206732 | [206732-bales-of-amber.json](./206732-bales-of-amber.json) |
 | Bali Adventure | 25519 | [25519-bali-adventure.json](./25519-bali-adventure.json) |
 | Balikaw | 390132 | [390132-balikaw.json](./390132-balikaw.json) |
+| Balingo | 423079 | [423079-balingo.json](./423079-balingo.json) |
 | Balium | 292951 | [292951-balium.json](./292951-balium.json) |
 | Balkadia | 129618 | [129618-balkadia.json](./129618-balkadia.json) |
 | Balkan Bloodbath | 310726 | [310726-balkan-bloodbath.json](./310726-balkan-bloodbath.json) |
@@ -13155,6 +13155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomba Patch | 126442 | [126442-bomba-patch.json](./126442-bomba-patch.json) |
 | Bomba: The Explosive Hero | 213956 | [213956-bomba-the-explosive-hero.json](./213956-bomba-the-explosive-hero.json) |
 | Bombabomb! | 267092 | [267092-bombabomb.json](./267092-bombabomb.json) |
+| Bombacon! | 423049 | [423049-bombacon.json](./423049-bombacon.json) |
 | Bombagun | 188112 | [188112-bombagun.json](./188112-bombagun.json) |
 | Bombaim | 289113 | [289113-bombaim.json](./289113-bombaim.json) |
 | Bombanana! | 404342 | [404342-bombanana.json](./404342-bombanana.json) |
@@ -14295,6 +14296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boto Labo | 405052 | [405052-boto-labo.json](./405052-boto-labo.json) |
 | Botolo | 26572 | [26572-botolo.json](./26572-botolo.json) |
 | Botology | 35558 | [35558-botology.json](./35558-botology.json) |
+| BotRival | 423060 | [423060-botrival.json](./423060-botrival.json) |
 | Bots | 58817 | [58817-bots.json](./58817-bots.json) |
 | Bots & Belts | 139484 | [139484-bots-and-belts.json](./139484-bots-and-belts.json) |
 | Bots & Mods | 291725 | [291725-bots-and-mods.json](./291725-bots-and-mods.json) |
