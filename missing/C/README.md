@@ -2894,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cargo Breach | 72511 | [72511-cargo-breach.json](./72511-cargo-breach.json) |
 | Cargo Bridge | 233767 | [233767-cargo-bridge.json](./233767-cargo-bridge.json) |
 | Cargo Bridge 2 | 197233 | [197233-cargo-bridge-2.json](./197233-cargo-bridge-2.json) |
+| Cargo Calling | 416211 | [416211-cargo-calling.json](./416211-cargo-calling.json) |
 | Cargo Chaos | 215497 | [215497-cargo-chaos.json](./215497-cargo-chaos.json) |
 | Cargo Company | 148504 | [148504-cargo-company.json](./148504-cargo-company.json) |
 | Cargo Crew Driver | 147691 | [147691-cargo-crew-driver.json](./147691-cargo-crew-driver.json) |
@@ -3470,6 +3471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casefile: Tokyo Noir | 298998 | [298998-casefile-tokyo-noir.json](./298998-casefile-tokyo-noir.json) |
 | Casemate | 333027 | [333027-casemate.json](./333027-casemate.json) |
 | Casenology | 382778 | [382778-casenology.json](./382778-casenology.json) |
+| Cases from the Murder Wagon | 416206 | [416206-cases-from-the-murder-wagon.json](./416206-cases-from-the-murder-wagon.json) |
 | Cases of Stolen Beauty | 341084 | [341084-cases-of-stolen-beauty.json](./341084-cases-of-stolen-beauty.json) |
 | Casey Duck: Butter Duck | 218408 | [218408-casey-duck-butter-duck.json](./218408-casey-duck-butter-duck.json) |
 | Casey Noir and Carved Pumpkin's Latte | 353967 | [353967-casey-noir-and-carved-pumpkins-latte.json](./353967-casey-noir-and-carved-pumpkins-latte.json) |
@@ -11071,6 +11073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloaked Protocol | 284977 | [284977-cloaked-protocol.json](./284977-cloaked-protocol.json) |
 | Cloaks and Capes | 148471 | [148471-cloaks-and-capes.json](./148471-cloaks-and-capes.json) |
 | Clobber Barons | 356800 | [356800-clobber-barons.json](./356800-clobber-barons.json) |
+| Clobbo | 416210 | [416210-clobbo.json](./416210-clobbo.json) |
 | Clobbr | 62807 | [62807-clobbr.json](./62807-clobbr.json) |
 | Clock Faces | 133538 | [133538-clock-faces.json](./133538-clock-faces.json) |
 | Clock Game | 369210 | [369210-clock-game.json](./369210-clock-game.json) |
@@ -14552,6 +14555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Rohga - Armor Force | 400163 | [400163-console-archives-rohga-armor-force.json](./400163-console-archives-rohga-armor-force.json) |
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | Console Archives: The Conveni | 411151 | [411151-console-archives-the-conveni.json](./411151-console-archives-the-conveni.json) |
+| Console Archives: The Conveni 2 | 416244 | [416244-console-archives-the-conveni-2.json](./416244-console-archives-the-conveni-2.json) |
 | Console Archives: Toujin Makyou-den - Heracles no Eikou | 402567 | [402567-console-archives-toujin-makyou-den-heracles-no-eikou.json](./402567-console-archives-toujin-makyou-den-heracles-no-eikou.json) |
 | Console Archives: Touki Denshou Angel Eyes | 415385 | [415385-console-archives-touki-denshou-angel-eyes.json](./415385-console-archives-touki-denshou-angel-eyes.json) |
 | Console Colour: Disney's Planes | 407308 | [407308-console-colour-disneys-planes.json](./407308-console-colour-disneys-planes.json) |
@@ -15674,6 +15678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporation Master | 55889 | [55889-corporation-master.json](./55889-corporation-master.json) |
 | Corporeal | 321258 | [321258-corporeal.json](./321258-corporeal.json) |
 | Corporeal | 365138 | [365138-corporeal.json](./365138-corporeal.json) |
+| Corposlop | 416231 | [416231-corposlop.json](./416231-corposlop.json) |
 | Corpse Box Racers | 176586 | [176586-corpse-box-racers.json](./176586-corpse-box-racers.json) |
 | Corpse Burger | 420595 | [420595-corpse-burger.json](./420595-corpse-burger.json) |
 | Corpse Carnival | 321302 | [321302-corpse-carnival.json](./321302-corpse-carnival.json) |
