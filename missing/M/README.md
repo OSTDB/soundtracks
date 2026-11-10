@@ -8,6 +8,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 |---|---|---|
 | M City | 274555 | [274555-m-city.json](./274555-m-city.json) |
 | M Doll | 233631 | [233631-m-doll.json](./233631-m-doll.json) |
+| M Field | 398703 | [398703-m-field.json](./398703-m-field.json) |
 | M Hard | 257654 | [257654-m-hard.json](./257654-m-hard.json) |
 | M Hold'em | 247198 | [247198-m-holdem.json](./247198-m-holdem.json) |
 | M Mania | 86484 | [86484-m-mania.json](./86484-m-mania.json) |
@@ -1802,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagicShop3D | 165921 | [165921-magicshop3d.json](./165921-magicshop3d.json) |
 | Magiculon's Tower | 372622 | [372622-magiculons-tower.json](./372622-magiculons-tower.json) |
 | Magicus | 227904 | [227904-magicus.json](./227904-magicus.json) |
+| Magiczna Kula Papatki | 398702 | [398702-magiczna-kula-papatki.json](./398702-magiczna-kula-papatki.json) |
 | Magidoll | 196588 | [196588-magidoll.json](./196588-magidoll.json) |
 | Magiduck | 252868 | [252868-magiduck.json](./252868-magiduck.json) |
 | Magiduel | 177019 | [177019-magiduel.json](./177019-magiduel.json) |
@@ -12803,6 +12805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Twins | 81832 | [81832-mind-twins.json](./81832-mind-twins.json) |
 | Mind Twist | 378766 | [378766-mind-twist.json](./378766-mind-twist.json) |
 | Mind Unleashed | 19014 | [19014-mind-unleashed.json](./19014-mind-unleashed.json) |
+| Mind Vessel | 398735 | [398735-mind-vessel.json](./398735-mind-vessel.json) |
 | Mind VR Exploration | 168110 | [168110-mind-vr-exploration.json](./168110-mind-vr-exploration.json) |
 | Mind Walker | 26379 | [26379-mind-walker.json](./26379-mind-walker.json) |
 | Mind War | 267269 | [267269-mind-war.json](./267269-mind-war.json) |
