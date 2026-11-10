@@ -2018,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduction | 186493 | [186493-abduction.json](./186493-abduction.json) |
 | Abduction | 268333 | [268333-abduction.json](./268333-abduction.json) |
 | Abduction | 288123 | [288123-abduction.json](./288123-abduction.json) |
+| Abduction Action! Plus | 35490 | [35490-abduction-action-plus.json](./35490-abduction-action-plus.json) |
 | Abduction Bit | 30664 | [30664-abduction-bit.json](./30664-abduction-bit.json) |
 | Abduction Episode 1: Her Name Was Sarah | 32170 | [32170-abduction-episode-1-her-name-was-sarah.json](./32170-abduction-episode-1-her-name-was-sarah.json) |
 | Abduction Escape | 337117 | [337117-abduction-escape.json](./337117-abduction-escape.json) |
@@ -17585,7 +17586,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17594,6 +17594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantic Fleet | 34012 | [34012-atlantic-fleet.json](./34012-atlantic-fleet.json) |
 | Atlantic Journey: The Lost Brother | 175797 | [175797-atlantic-journey-the-lost-brother.json](./175797-atlantic-journey-the-lost-brother.json) |
 | Atlantic Quest | 85504 | [85504-atlantic-quest.json](./85504-atlantic-quest.json) |
+| Atlantic Quest 2: New Adventure | 34158 | [34158-atlantic-quest-2-new-adventure.json](./34158-atlantic-quest-2-new-adventure.json) |
 | Atlantic Quest Solitaire | 35023 | [35023-atlantic-quest-solitaire.json](./35023-atlantic-quest-solitaire.json) |
 | Atlantic Rim | 180827 | [180827-atlantic-rim.json](./180827-atlantic-rim.json) |
 | Atlantica Europe | 148255 | [148255-atlantica-europe.json](./148255-atlantica-europe.json) |
