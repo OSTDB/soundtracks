@@ -3068,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Criterion Racing Game | 61510 | [61510-untitled-criterion-racing-game.json](./61510-untitled-criterion-racing-game.json) |
 | Untitled Cuphead Sequel | 404675 | [404675-untitled-cuphead-sequel.json](./404675-untitled-cuphead-sequel.json) |
 | Untitled Darkness | 164302 | [164302-untitled-darkness.json](./164302-untitled-darkness.json) |
+| Untitled Dog Game | 421767 | [421767-untitled-dog-game.json](./421767-untitled-dog-game.json) |
 | Untitled Dragon Age Game | 130891 | [130891-untitled-dragon-age-game.json](./130891-untitled-dragon-age-game.json) |
 | Untitled Dungeons & Dragons Game | 291609 | [291609-untitled-dungeons-and-dragons-game.json](./291609-untitled-dungeons-and-dragons-game.json) |
 | Untitled Experimental Platformer by KG | 316699 | [316699-untitled-experimental-platformer-by-kg.json](./316699-untitled-experimental-platformer-by-kg.json) |
