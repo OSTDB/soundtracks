@@ -4804,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Other Submarine | 124143 | [124143-other-submarine.json](./124143-other-submarine.json) |
 | Other Super Mario Bros. U | 302761 | [302761-other-super-mario-bros-u.json](./302761-other-super-mario-bros-u.json) |
 | Other Tanks | 30777 | [30777-other-tanks.json](./30777-other-tanks.json) |
+| Other Tower | 412405 | [412405-other-tower.json](./412405-other-tower.json) |
 | Other World | 154360 | [154360-other-world.json](./154360-other-world.json) |
 | Other World Survivors | 235742 | [235742-other-world-survivors.json](./235742-other-world-survivors.json) |
 | Other: Her Loving Embrace | 123534 | [123534-other-her-loving-embrace.json](./123534-other-her-loving-embrace.json) |
@@ -5539,6 +5540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlaw Racers | 47085 | [47085-outlaw-racers.json](./47085-outlaw-racers.json) |
 | Outlaw Racing | 210603 | [210603-outlaw-racing.json](./210603-outlaw-racing.json) |
 | Outlaw Squadron | 302973 | [302973-outlaw-squadron.json](./302973-outlaw-squadron.json) |
+| Outlaw Standoff | 412041 | [412041-outlaw-standoff.json](./412041-outlaw-standoff.json) |
 | Outlaw Tales: Survival Online | 118657 | [118657-outlaw-tales-survival-online.json](./118657-outlaw-tales-survival-online.json) |
 | Outlaw Tales: Western Adventure Survival | 118199 | [118199-outlaw-tales-western-adventure-survival.json](./118199-outlaw-tales-western-adventure-survival.json) |
 | Outlaw Tennis | 5977 | [5977-outlaw-tennis.json](./5977-outlaw-tennis.json) |
