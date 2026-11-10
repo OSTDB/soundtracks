@@ -3297,6 +3297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patient Zero | 388918 | [388918-patient-zero.json](./388918-patient-zero.json) |
 | Patient Zero: Day One | 11063 | [11063-patient-zero-day-one.json](./11063-patient-zero-day-one.json) |
 | Patient Zero: Plague Idle | 388417 | [388417-patient-zero-plague-idle.json](./388417-patient-zero-plague-idle.json) |
+| Patients | 424820 | [424820-patients.json](./424820-patients.json) |
 | PatientX: Survivalist | 98689 | [98689-patientx-survivalist.json](./98689-patientx-survivalist.json) |
 | PatientZ: Survivalist | 27727 | [27727-patientz-survivalist.json](./27727-patientz-survivalist.json) |
 | Patisserie Palette | 185418 | [185418-patisserie-palette.json](./185418-patisserie-palette.json) |
@@ -3496,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawns Survival | 390002 | [390002-pawns-survival.json](./390002-pawns-survival.json) |
 | Pawnshop No. 17 | 386290 | [386290-pawnshop-no-17.json](./386290-pawnshop-no-17.json) |
 | PawnShop Simulator | 325525 | [325525-pawnshop-simulator.json](./325525-pawnshop-simulator.json) |
+| Pawnshop Together | 424845 | [424845-pawnshop-together.json](./424845-pawnshop-together.json) |
 | Pawnshop Tycoon | 128177 | [128177-pawnshop-tycoon.json](./128177-pawnshop-tycoon.json) |
 | Pawperty Damage | 238571 | [238571-pawperty-damage.json](./238571-pawperty-damage.json) |
 | Pawperty Damage: Free Character Skin Pack | 259679 | [259679-pawperty-damage-free-character-skin-pack.json](./259679-pawperty-damage-free-character-skin-pack.json) |
@@ -4603,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dark With Mario Characters | 283111 | [283111-perfect-dark-with-mario-characters.json](./283111-perfect-dark-with-mario-characters.json) |
 | Perfect Dark Zero | 1465 | [1465-perfect-dark-zero.json](./1465-perfect-dark-zero.json) |
 | Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
+| Perfect Dark Zero Recomp | 424869 | [424869-perfect-dark-zero-recomp.json](./424869-perfect-dark-zero-recomp.json) |
 | Perfect Dark Zero: Collector's Edition | 41596 | [41596-perfect-dark-zero-collectors-edition.json](./41596-perfect-dark-zero-collectors-edition.json) |
 | Perfect Date HD | 425214 | [425214-perfect-date-hd.json](./425214-perfect-date-hd.json) |
 | Perfect Day | 176629 | [176629-perfect-day.json](./176629-perfect-day.json) |
@@ -6383,6 +6386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico's School | 58587 | [58587-picos-school.json](./58587-picos-school.json) |
 | Pico's School: Love Conquers All | 383761 | [383761-picos-school-love-conquers-all.json](./383761-picos-school-love-conquers-all.json) |
 | Picoban | 243778 | [243778-picoban.json](./243778-picoban.json) |
+| Picofender | 424868 | [424868-picofender.json](./424868-picofender.json) |
 | Picogori 2025 | 360453 | [360453-picogori-2025.json](./360453-picogori-2025.json) |
 | PicoHot | 134203 | [134203-picohot.json](./134203-picohot.json) |
 | PicOHRoss | 387521 | [387521-picohross.json](./387521-picohross.json) |
