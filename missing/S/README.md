@@ -8434,6 +8434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheriff Looper | 383344 | [383344-sheriff-looper.json](./383344-sheriff-looper.json) |
 | Sheriff of Mahjong | 182057 | [182057-sheriff-of-mahjong.json](./182057-sheriff-of-mahjong.json) |
 | Sheriff Rage | 172199 | [172199-sheriff-rage.json](./172199-sheriff-rage.json) |
+| SherloCat Nonogram Bahia | 407031 | [407031-sherlocat-nonogram-bahia.json](./407031-sherlocat-nonogram-bahia.json) |
 | Sherlocat Nonogram Rio | 346873 | [346873-sherlocat-nonogram-rio.json](./346873-sherlocat-nonogram-rio.json) |
 | Sherlock | 25857 | [25857-sherlock.json](./25857-sherlock.json) |
 | Sherlock | 353927 | [353927-sherlock.json](./353927-sherlock.json) |
@@ -29462,6 +29463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream Madness | 150685 | [150685-stream-madness.json](./150685-stream-madness.json) |
 | Stream or Die! | 292306 | [292306-stream-or-die.json](./292306-stream-or-die.json) |
 | Stream Pairs | 191270 | [191270-stream-pairs.json](./191270-stream-pairs.json) |
+| Stream plays Gustav | 407000 | [407000-stream-plays-gustav.json](./407000-stream-plays-gustav.json) |
 | Stream Quest | 142410 | [142410-stream-quest.json](./142410-stream-quest.json) |
 | Stream Quiz | 140027 | [140027-stream-quiz.json](./140027-stream-quiz.json) |
 | Stream Racer | 135295 | [135295-stream-racer.json](./135295-stream-racer.json) |
@@ -36881,6 +36883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Cookie Pie | 49803 | [49803-sweet-cookie-pie.json](./49803-sweet-cookie-pie.json) |
 | Sweet Cruise | 339467 | [339467-sweet-cruise.json](./339467-sweet-cruise.json) |
 | Sweet Dance | 182249 | [182249-sweet-dance.json](./182249-sweet-dance.json) |
+| Sweet Dance | 407035 | [407035-sweet-dance.json](./407035-sweet-dance.json) |
 | Sweet Delights: The Girl’s Cafe Quest | 339466 | [339466-sweet-delights-the-girl-s-cafe-quest.json](./339466-sweet-delights-the-girl-s-cafe-quest.json) |
 | Sweet Delivery | 367298 | [367298-sweet-delivery.json](./367298-sweet-delivery.json) |
 | Sweet Desire | 147380 | [147380-sweet-desire.json](./147380-sweet-desire.json) |
@@ -37288,6 +37291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switchboard | 234052 | [234052-switchboard.json](./234052-switchboard.json) |
 | Switchboard Copper | 184293 | [184293-switchboard-copper.json](./184293-switchboard-copper.json) |
 | Switchboard Heights | 145917 | [145917-switchboard-heights.json](./145917-switchboard-heights.json) |
+| Switchboard Shuffle | 407018 | [407018-switchboard-shuffle.json](./407018-switchboard-shuffle.json) |
 | Switchcars | 33541 | [33541-switchcars.json](./33541-switchcars.json) |
 | Switchcraft | 191802 | [191802-switchcraft.json](./191802-switchcraft.json) |
 | Switchcraft: Magical Match 3 | 219829 | [219829-switchcraft-magical-match-3.json](./219829-switchcraft-magical-match-3.json) |
