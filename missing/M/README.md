@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 96 | 48973 | [48973-madden-nfl-96.json](./48973-madden-nfl-96.json) |
 | Madden NFL 97 | 243264 | [243264-madden-nfl-97.json](./243264-madden-nfl-97.json) |
 | Madden NFL 97 | 243265 | [243265-madden-nfl-97.json](./243265-madden-nfl-97.json) |
+| Madden NFL 97 | 4589 | [4589-madden-nfl-97.json](./4589-madden-nfl-97.json) |
 | Madden NFL 97 | 48972 | [48972-madden-nfl-97.json](./48972-madden-nfl-97.json) |
 | Madden NFL 98 | 4590 | [4590-madden-nfl-98.json](./4590-madden-nfl-98.json) |
 | Madden NFL 99 | 779 | [779-madden-nfl-99.json](./779-madden-nfl-99.json) |
@@ -2570,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
 | Major League Baseball 2K6 | 248539 | [248539-major-league-baseball-2k6.json](./248539-major-league-baseball-2k6.json) |
 | Major League Baseball 2K6 | 248540 | [248540-major-league-baseball-2k6.json](./248540-major-league-baseball-2k6.json) |
+| Major League Baseball 2K6 | 3984 | [3984-major-league-baseball-2k6.json](./3984-major-league-baseball-2k6.json) |
 | Major League Baseball 2K7 | 7063 | [7063-major-league-baseball-2k7.json](./7063-major-league-baseball-2k7.json) |
 | Major League Baseball 2K8 | 4989 | [4989-major-league-baseball-2k8.json](./4989-major-league-baseball-2k8.json) |
 | Major League Baseball 2K8: Fantasy All-Stars | 20781 | [20781-major-league-baseball-2k8-fantasy-all-stars.json](./20781-major-league-baseball-2k8-fantasy-all-stars.json) |
