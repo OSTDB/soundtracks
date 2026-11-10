@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate Robots | 347596 | [347596-i-hate-robots.json](./347596-i-hate-robots.json) |
 | I Hate Running Backwards | 68843 | [68843-i-hate-running-backwards.json](./68843-i-hate-running-backwards.json) |
 | I Hate Santa | 30462 | [30462-i-hate-santa.json](./30462-i-hate-santa.json) |
+| I Hate Scalpers | 426614 | [426614-i-hate-scalpers.json](./426614-i-hate-scalpers.json) |
 | I Hate Snake | 402243 | [402243-i-hate-snake.json](./402243-i-hate-snake.json) |
 | I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
 | I Hate this Place | 336144 | [336144-i-hate-this-place.json](./336144-i-hate-this-place.json) |
@@ -1423,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Agent Vin Ursa Skin & Feat Pack | 313702 | [313702-idle-champions-agent-vin-ursa-skin-and-feat-pack.json](./313702-idle-champions-agent-vin-ursa-skin-and-feat-pack.json) |
 | Idle Champions: Alvina the Tressym Familiar Pack | 313709 | [313709-idle-champions-alvina-the-tressym-familiar-pack.json](./313709-idle-champions-alvina-the-tressym-familiar-pack.json) |
 | Idle Champions: Archmage Dhadius Theme Pack | 289846 | [289846-idle-champions-archmage-dhadius-theme-pack.json](./289846-idle-champions-archmage-dhadius-theme-pack.json) |
+| Idle Champions: Ascended Astarion Skin & Feat Pack | 426630 | [426630-idle-champions-ascended-astarion-skin-and-feat-pack.json](./426630-idle-champions-ascended-astarion-skin-and-feat-pack.json) |
 | Idle Champions: Avatar of Azuth Familiar Pack | 313696 | [313696-idle-champions-avatar-of-azuth-familiar-pack.json](./313696-idle-champions-avatar-of-azuth-familiar-pack.json) |
 | Idle Champions: Baldur's Gate Dynaheir Theme Pack | 289849 | [289849-idle-champions-baldurs-gate-dynaheir-theme-pack.json](./289849-idle-champions-baldurs-gate-dynaheir-theme-pack.json) |
 | Idle Champions: Casual Karlach Skin & Feat Pack | 303545 | [303545-idle-champions-casual-karlach-skin-and-feat-pack.json](./303545-idle-champions-casual-karlach-skin-and-feat-pack.json) |
@@ -4060,7 +4062,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5397,6 +5398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Space: Genesis - Evolving Empires | 200502 | [200502-interstellar-space-genesis-evolving-empires.json](./200502-interstellar-space-genesis-evolving-empires.json) |
 | Interstellar Space: Genesis - Terrains Pack | 289473 | [289473-interstellar-space-genesis-terrains-pack.json](./289473-interstellar-space-genesis-terrains-pack.json) |
 | Interstellar Strike Team | 395743 | [395743-interstellar-strike-team.json](./395743-interstellar-strike-team.json) |
+| Interstellar Together | 426601 | [426601-interstellar-together.json](./426601-interstellar-together.json) |
 | Interstellar Trader 2 | 70727 | [70727-interstellar-trader-2.json](./70727-interstellar-trader-2.json) |
 | Interstellar Travel Package | 223552 | [223552-interstellar-travel-package.json](./223552-interstellar-travel-package.json) |
 | Interstellaria | 9044 | [9044-interstellaria.json](./9044-interstellaria.json) |
