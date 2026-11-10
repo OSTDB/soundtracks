@@ -18395,6 +18395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duat Wayfarer | 390042 | [390042-duat-wayfarer.json](./390042-duat-wayfarer.json) |
 | Duat: Beyond Light & Shadow | 415919 | [415919-duat-beyond-light-and-shadow.json](./415919-duat-beyond-light-and-shadow.json) |
 | Dub Dash | 19977 | [19977-dub-dash.json](./19977-dub-dash.json) |
+| Dub Night Live | 414919 | [414919-dub-night-live.json](./414919-dub-night-live.json) |
 | Dub Together | 413849 | [413849-dub-together.json](./413849-dub-together.json) |
 | Dubai | 257296 | [257296-dubai.json](./257296-dubai.json) |
 | Dubai Builder | 272247 | [272247-dubai-builder.json](./272247-dubai-builder.json) |
@@ -20418,6 +20419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynastopia | 360858 | [360858-dynastopia.json](./360858-dynastopia.json) |
 | Dynasty | 278441 | [278441-dynasty.json](./278441-dynasty.json) |
 | Dynasty | 41537 | [41537-dynasty.json](./41537-dynasty.json) |
+| Dynasty Basketball Manager | 414943 | [414943-dynasty-basketball-manager.json](./414943-dynasty-basketball-manager.json) |
 | Dynasty Blades | 58102 | [58102-dynasty-blades.json](./58102-dynasty-blades.json) |
 | Dynasty Detective | 249943 | [249943-dynasty-detective.json](./249943-dynasty-detective.json) |
 | Dynasty Feud | 27080 | [27080-dynasty-feud.json](./27080-dynasty-feud.json) |
