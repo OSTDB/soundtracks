@@ -612,6 +612,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacz!: Pacmanworlds 2 | 141732 | [141732-pacz-pacmanworlds-2.json](./141732-pacz-pacmanworlds-2.json) |
 | Pad of Time | 194983 | [194983-pad-of-time.json](./194983-pad-of-time.json) |
 | Pad Quad | 376144 | [376144-pad-quad.json](./376144-pad-quad.json) |
+| Padal proshlogodniy sneg | 397452 | [397452-padal-proshlogodniy-sneg.json](./397452-padal-proshlogodniy-sneg.json) |
+| Padal proshlogodniy sneg 2 | 397453 | [397453-padal-proshlogodniy-sneg-2.json](./397453-padal-proshlogodniy-sneg-2.json) |
 | Paddington Bear | 56556 | [56556-paddington-bear.json](./56556-paddington-bear.json) |
 | Paddington Run | 83249 | [83249-paddington-run.json](./83249-paddington-run.json) |
 | Paddington: Adventures in London | 44015 | [44015-paddington-adventures-in-london.json](./44015-paddington-adventures-in-london.json) |
@@ -4622,6 +4624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Chess | 280098 | [280098-perfect-chess.json](./280098-perfect-chess.json) |
 | Perfect Choro Q | 63794 | [63794-perfect-choro-q.json](./63794-perfect-choro-q.json) |
 | Perfect Circle: Stand Alone | 346650 | [346650-perfect-circle-stand-alone.json](./346650-perfect-circle-stand-alone.json) |
+| Perfect City | 397722 | [397722-perfect-city.json](./397722-perfect-city.json) |
 | Perfect Color | 368268 | [368268-perfect-color.json](./368268-perfect-color.json) |
 | Perfect Crime | 116895 | [116895-perfect-crime.json](./116895-perfect-crime.json) |
 | Perfect Crime Case Files | 413951 | [413951-perfect-crime-case-files.json](./413951-perfect-crime-case-files.json) |
@@ -11112,6 +11115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Zaurus: Party Island no Nakama-tachi 2 | 293907 | [293907-pocket-zaurus-party-island-no-nakama-tachi-2.json](./293907-pocket-zaurus-party-island-no-nakama-tachi-2.json) |
 | Pocket Zone | 193867 | [193867-pocket-zone.json](./193867-pocket-zone.json) |
 | Pocket-Run Pool | 102094 | [102094-pocket-run-pool.json](./102094-pocket-run-pool.json) |
+| Pocketful of Stars | 397434 | [397434-pocketful-of-stars.json](./397434-pocketful-of-stars.json) |
 | Pocketing the Ball | 294126 | [294126-pocketing-the-ball.json](./294126-pocketing-the-ball.json) |
 | Pocketman Teal | 181232 | [181232-pocketman-teal.json](./181232-pocketman-teal.json) |
 | Pocketman Third D | 182021 | [182021-pocketman-third-d.json](./182021-pocketman-third-d.json) |
@@ -12218,6 +12222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: Golden Emerald | 298034 | [298034-pokemon-golden-emerald.json](./298034-pokemon-golden-emerald.json) |
 | Pokémon: H Edition | 405761 | [405761-pokemon-h-edition.json](./405761-pokemon-h-edition.json) |
 | Pokémon: Harmonic Peace | 335148 | [335148-pokemon-harmonic-peace.json](./335148-pokemon-harmonic-peace.json) |
+| Pokémon: Hollow Woods | 397428 | [397428-pokemon-hollow-woods.json](./397428-pokemon-hollow-woods.json) |
 | Pokémon: Legends of Sinnoh | 319543 | [319543-pokemon-legends-of-sinnoh.json](./319543-pokemon-legends-of-sinnoh.json) |
 | Pokémon: Legends of the Arena | 135872 | [135872-pokemon-legends-of-the-arena.json](./135872-pokemon-legends-of-the-arena.json) |
 | Pokémon: Let's Go Lugia | 278210 | [278210-pokemon-lets-go-lugia.json](./278210-pokemon-lets-go-lugia.json) |
@@ -15189,6 +15194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince Adventures | 293855 | [293855-prince-adventures.json](./293855-prince-adventures.json) |
 | Prince Akazaka x Princess | 220653 | [220653-prince-akazaka-x-princess.json](./220653-prince-akazaka-x-princess.json) |
 | Prince Charmless | 178542 | [178542-prince-charmless.json](./178542-prince-charmless.json) |
+| Prince Date Diaries: A Fairy Tale Love | 397721 | [397721-prince-date-diaries-a-fairy-tale-love.json](./397721-prince-date-diaries-a-fairy-tale-love.json) |
 | Prince Interactive | 78846 | [78846-prince-interactive.json](./78846-prince-interactive.json) |
 | Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
 | Prince Naseem Boxing | 50024 | [50024-prince-naseem-boxing.json](./50024-prince-naseem-boxing.json) |
