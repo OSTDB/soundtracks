@@ -5530,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dark Dungeon of Anglaus | 243583 | [243583-deep-dark-dungeon-of-anglaus.json](./243583-deep-dark-dungeon-of-anglaus.json) |
 | Deep Dark Fight | 81702 | [81702-deep-dark-fight.json](./81702-deep-dark-fight.json) |
 | Deep Dark Forest | 151724 | [151724-deep-dark-forest.json](./151724-deep-dark-forest.json) |
+| Deep Dark Labyrinth | 101264 | [101264-deep-dark-labyrinth.json](./101264-deep-dark-labyrinth.json) |
 | Deep Dark Space | 282012 | [282012-deep-dark-space.json](./282012-deep-dark-space.json) |
 | Deep Dark Wrath | 293330 | [293330-deep-dark-wrath.json](./293330-deep-dark-wrath.json) |
 | Deep Dark Wrath: Frost Flower | 385573 | [385573-deep-dark-wrath-frost-flower.json](./385573-deep-dark-wrath-frost-flower.json) |
@@ -12108,6 +12109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who and the Mines of Terror | 13597 | [13597-doctor-who-and-the-mines-of-terror.json](./13597-doctor-who-and-the-mines-of-terror.json) |
 | Doctor Who and the Warlord | 66675 | [66675-doctor-who-and-the-warlord.json](./66675-doctor-who-and-the-warlord.json) |
 | Doctor Who Game Maker | 59457 | [59457-doctor-who-game-maker.json](./59457-doctor-who-game-maker.json) |
+| Doctor Who Infinity | 101227 | [101227-doctor-who-infinity.json](./101227-doctor-who-infinity.json) |
 | Doctor Who Infinity: The Horror of Flat Holm | 164452 | [164452-doctor-who-infinity-the-horror-of-flat-holm.json](./164452-doctor-who-infinity-the-horror-of-flat-holm.json) |
 | Doctor Who Infinity: The Lady of the Lake | 164451 | [164451-doctor-who-infinity-the-lady-of-the-lake.json](./164451-doctor-who-infinity-the-lady-of-the-lake.json) |
 | Doctor Who Infinity: The Silent Streets of Barry Island | 164450 | [164450-doctor-who-infinity-the-silent-streets-of-barry-island.json](./164450-doctor-who-infinity-the-silent-streets-of-barry-island.json) |
@@ -16340,6 +16342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drakantos | 263816 | [263816-drakantos.json](./263816-drakantos.json) |
 | Drake | 134654 | [134654-drake.json](./134654-drake.json) |
 | Drake | 217467 | [217467-drake.json](./217467-drake.json) |
+| Drake - Gods Plan Piano Tiles 2 | 101373 | [101373-drake-gods-plan-piano-tiles-2.json](./101373-drake-gods-plan-piano-tiles-2.json) |
 | Drake & Josh | 6385 | [6385-drake-and-josh.json](./6385-drake-and-josh.json) |
 | Drake Hollow | 125630 | [125630-drake-hollow.json](./125630-drake-hollow.json) |
 | Drake of the 99 Dragons | 5815 | [5815-drake-of-the-99-dragons.json](./5815-drake-of-the-99-dragons.json) |
