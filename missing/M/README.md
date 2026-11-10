@@ -13206,6 +13206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines | 205095 | [205095-mines.json](./205095-mines.json) |
 | Mines | 94643 | [94643-mines.json](./94643-mines.json) |
 | Mines & Dragons | 163994 | [163994-mines-and-dragons.json](./163994-mines-and-dragons.json) |
+| Mines and Magic | 104909 | [104909-mines-and-magic.json](./104909-mines-and-magic.json) |
 | Mines of Dalarnia | 163220 | [163220-mines-of-dalarnia.json](./163220-mines-of-dalarnia.json) |
 | Mines of Frostheim | 190821 | [190821-mines-of-frostheim.json](./190821-mines-of-frostheim.json) |
 | Mines of Grimvale | 53350 | [53350-mines-of-grimvale.json](./53350-mines-of-grimvale.json) |
@@ -15581,6 +15582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojito the Cat: Premium Edition | 249557 | [249557-mojito-the-cat-premium-edition.json](./249557-mojito-the-cat-premium-edition.json) |
 | Mojito the Cat: Sushi Skins | 302593 | [302593-mojito-the-cat-sushi-skins.json](./302593-mojito-the-cat-sushi-skins.json) |
 | Mojito the Cat: Ultimate Edition | 233939 | [233939-mojito-the-cat-ultimate-edition.json](./233939-mojito-the-cat-ultimate-edition.json) |
+| Mojo | 105152 | [105152-mojo.json](./105152-mojo.json) |
 | Mojo 2 | 284245 | [284245-mojo-2.json](./284245-mojo-2.json) |
 | Mojo 2: Mia | 110653 | [110653-mojo-2-mia.json](./110653-mojo-2-mia.json) |
 | Mojo Master | 66702 | [66702-mojo-master.json](./66702-mojo-master.json) |
