@@ -5677,6 +5677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sky Derelicts: Definitive Edition | 131855 | [131855-deep-sky-derelicts-definitive-edition.json](./131855-deep-sky-derelicts-definitive-edition.json) |
 | Deep Sky Derelicts: New Prospects | 119922 | [119922-deep-sky-derelicts-new-prospects.json](./119922-deep-sky-derelicts-new-prospects.json) |
 | Deep Sky Derelicts: Station Life | 154419 | [154419-deep-sky-derelicts-station-life.json](./154419-deep-sky-derelicts-station-life.json) |
+| Deep Sleep | 123700 | [123700-deep-sleep.json](./123700-deep-sleep.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
 | Deep Sleep | 275944 | [275944-deep-sleep.json](./275944-deep-sleep.json) |
 | Deep Sleep | 380751 | [380751-deep-sleep.json](./380751-deep-sleep.json) |
