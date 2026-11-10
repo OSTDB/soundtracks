@@ -7148,6 +7148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 4: Inner Sphere 'Mech Pak | 71752 | [71752-mechwarrior-4-inner-sphere-mech-pak.json](./71752-mechwarrior-4-inner-sphere-mech-pak.json) |
 | MechWarrior 4: Mercenaries | 19192 | [19192-mechwarrior-4-mercenaries.json](./19192-mechwarrior-4-mercenaries.json) |
 | MechWarrior 4: Vengeance | 786 | [786-mechwarrior-4-vengeance.json](./786-mechwarrior-4-vengeance.json) |
+| MechWarrior 5: Clans | 267011 | [267011-mechwarrior-5-clans.json](./267011-mechwarrior-5-clans.json) |
 | MechWarrior 5: Clans - Digital Collectors Edition | 331819 | [331819-mechwarrior-5-clans-digital-collectors-edition.json](./331819-mechwarrior-5-clans-digital-collectors-edition.json) |
 | Mechwarrior 5: Clans - Ghost Bear Flash Storm | 345013 | [345013-mechwarrior-5-clans-ghost-bear-flash-storm.json](./345013-mechwarrior-5-clans-ghost-bear-flash-storm.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
@@ -10994,6 +10995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey's Surf Adventure | 246512 | [246512-mickeys-surf-adventure.json](./246512-mickeys-surf-adventure.json) |
 | Mickey's Toddler with Active Leveling Advantage! | 50479 | [50479-mickeys-toddler-with-active-leveling-advantage.json](./50479-mickeys-toddler-with-active-leveling-advantage.json) |
 | Mickey's Typing Adventure | 56004 | [56004-mickeys-typing-adventure.json](./56004-mickeys-typing-adventure.json) |
+| Mickey's Ultimate Challenge | 18628 | [18628-mickeys-ultimate-challenge.json](./18628-mickeys-ultimate-challenge.json) |
 | Mickey's Ultimate Challenge | 307073 | [307073-mickeys-ultimate-challenge.json](./307073-mickeys-ultimate-challenge.json) |
 | Mickey's Ultimate Challenge | 307076 | [307076-mickeys-ultimate-challenge.json](./307076-mickeys-ultimate-challenge.json) |
 | Micky's adventure | 169271 | [169271-mickys-adventure.json](./169271-mickys-adventure.json) |
@@ -12440,6 +12442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milo | 57606 | [57606-milo.json](./57606-milo.json) |
 | Milo and Kate | 90920 | [90920-milo-and-kate.json](./90920-milo-and-kate.json) |
 | Milo and the Cake of Happiness | 386200 | [386200-milo-and-the-cake-of-happiness.json](./386200-milo-and-the-cake-of-happiness.json) |
+| Milo and the Christmas Gift | 281092 | [281092-milo-and-the-christmas-gift.json](./281092-milo-and-the-christmas-gift.json) |
 | Milo no Senki 3 | 239696 | [239696-milo-no-senki-3.json](./239696-milo-no-senki-3.json) |
 | Milo the Fuel Run | 92866 | [92866-milo-the-fuel-run.json](./92866-milo-the-fuel-run.json) |
 | Milo's Astro Lanes | 3411 | [3411-milos-astro-lanes.json](./3411-milos-astro-lanes.json) |
@@ -13102,6 +13105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner | 345934 | [345934-miner.json](./345934-miner.json) |
 | Miner 2000er | 80078 | [80078-miner-2000er.json](./80078-miner-2000er.json) |
 | Miner 2019er | 416659 | [416659-miner-2019er.json](./416659-miner-2019er.json) |
+| Miner 2049er | 18651 | [18651-miner-2049er.json](./18651-miner-2049er.json) |
 | Miner 2049er | 198821 | [198821-miner-2049er.json](./198821-miner-2049er.json) |
 | Miner 2049er | 293746 | [293746-miner-2049er.json](./293746-miner-2049er.json) |
 | Miner 2049er | 345462 | [345462-miner-2049er.json](./345462-miner-2049er.json) |
