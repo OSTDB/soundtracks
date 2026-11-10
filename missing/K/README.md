@@ -2966,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3187,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Crab | 388292 | [388292-king-crab.json](./388292-king-crab.json) |
 | King Cribbage | 73209 | [73209-king-cribbage.json](./73209-king-cribbage.json) |
 | King Cribbage | 73223 | [73223-king-cribbage.json](./73223-king-cribbage.json) |
+| King Cuthbert | 396244 | [396244-king-cuthbert.json](./396244-king-cuthbert.json) |
 | King Datchi | 244890 | [244890-king-datchi.json](./244890-king-datchi.json) |
 | King Drift and Hajwalah | 287554 | [287554-king-drift-and-hajwalah.json](./287554-king-drift-and-hajwalah.json) |
 | King Erik | 112725 | [112725-king-erik.json](./112725-king-erik.json) |
@@ -3340,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of The Jesters | 291345 | [291345-king-of-the-jesters.json](./291345-king-of-the-jesters.json) |
 | King of the Monsters | 6800 | [6800-king-of-the-monsters.json](./6800-king-of-the-monsters.json) |
 | King of the Monsters 2 | 39466 | [39466-king-of-the-monsters-2.json](./39466-king-of-the-monsters-2.json) |
+| King of the Monsters 2 | 396257 | [396257-king-of-the-monsters-2.json](./396257-king-of-the-monsters-2.json) |
 | King of the Mountain | 41474 | [41474-king-of-the-mountain.json](./41474-king-of-the-mountain.json) |
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
 | King of the Pirates | 340883 | [340883-king-of-the-pirates.json](./340883-king-of-the-pirates.json) |
