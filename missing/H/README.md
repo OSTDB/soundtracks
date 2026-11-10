@@ -1041,6 +1041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamidashi Creative | 144180 | [144180-hamidashi-creative.json](./144180-hamidashi-creative.json) |
 | Hamidashi Creative Totsu | 398684 | [398684-hamidashi-creative-totsu.json](./398684-hamidashi-creative-totsu.json) |
 | Hamidashi Creative: Limited Edition | 146033 | [146033-hamidashi-creative-limited-edition.json](./146033-hamidashi-creative-limited-edition.json) |
+| Hamilton's Great Adventure | 10317 | [10317-hamiltons-great-adventure.json](./10317-hamiltons-great-adventure.json) |
 | Hamilton's Great Adventure: Retro Fever DLC | 29212 | [29212-hamiltons-great-adventure-retro-fever-dlc.json](./29212-hamiltons-great-adventure-retro-fever-dlc.json) |
 | HamJam!! | 108972 | [108972-hamjam.json](./108972-hamjam.json) |
 | Hamlet | 108579 | [108579-hamlet.json](./108579-hamlet.json) |
