@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand Bullets | 169094 | [169094-sand-bullets.json](./169094-sand-bullets.json) |
 | Sand Castle | 192617 | [192617-sand-castle.json](./192617-sand-castle.json) |
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
+| Sand Color Loop | 424254 | [424254-sand-color-loop.json](./424254-sand-color-loop.json) |
 | Sand Flag | 177151 | [177151-sand-flag.json](./177151-sand-flag.json) |
 | Sand In a Box | 306434 | [306434-sand-in-a-box.json](./306434-sand-in-a-box.json) |
 | Sand is the Soul | 75610 | [75610-sand-is-the-soul.json](./75610-sand-is-the-soul.json) |
@@ -7852,6 +7853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Feyra | 149183 | [149183-shards-of-feyra.json](./149183-shards-of-feyra.json) |
 | Shards of God | 256947 | [256947-shards-of-god.json](./256947-shards-of-god.json) |
 | Shards of Hope | 184044 | [184044-shards-of-hope.json](./184044-shards-of-hope.json) |
+| Shards of Mistfrost | 424278 | [424278-shards-of-mistfrost.json](./424278-shards-of-mistfrost.json) |
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
 | Shards of Order | 363332 | [363332-shards-of-order.json](./363332-shards-of-order.json) |
 | Shards Of Solitude | 404621 | [404621-shards-of-solitude.json](./404621-shards-of-solitude.json) |
@@ -7867,6 +7869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Share | 33417 | [33417-share.json](./33417-share.json) |
 | Sharecare You | 150840 | [150840-sharecare-you.json](./150840-sharecare-you.json) |
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
+| Shared Custody | 424304 | [424304-shared-custody.json](./424304-shared-custody.json) |
 | Shared RC | 415307 | [415307-shared-rc.json](./415307-shared-rc.json) |
 | Shared Visions | 378932 | [378932-shared-visions.json](./378932-shared-visions.json) |
 | Shareholders | 311573 | [311573-shareholders.json](./311573-shareholders.json) |
@@ -12752,6 +12755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skew Pong | 190076 | [190076-skew-pong.json](./190076-skew-pong.json) |
 | Skewer of Heroes | 360855 | [360855-skewer-of-heroes.json](./360855-skewer-of-heroes.json) |
 | Skewer Squad | 374413 | [374413-skewer-squad.json](./374413-skewer-squad.json) |
+| Skewer'd | 424299 | [424299-skewerd.json](./424299-skewerd.json) |
 | SKG Hunt | 392876 | [392876-skg-hunt.json](./392876-skg-hunt.json) |
 | Ski Air Mix | 186129 | [186129-ski-air-mix.json](./186129-ski-air-mix.json) |
 | Ski and Shoot | 9749 | [9749-ski-and-shoot.json](./9749-ski-and-shoot.json) |
@@ -26189,6 +26193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
 | StarCore Legacy | 246759 | [246759-starcore-legacy.json](./246759-starcore-legacy.json) |
+| Starcorp Tycoon | 424306 | [424306-starcorp-tycoon.json](./424306-starcorp-tycoon.json) |
 | Starcosmic Bustout | 146436 | [146436-starcosmic-bustout.json](./146436-starcosmic-bustout.json) |
 | Starcosmic Invaders | 146437 | [146437-starcosmic-invaders.json](./146437-starcosmic-invaders.json) |
 | Starcraft | 417642 | [417642-starcraft.json](./417642-starcraft.json) |
