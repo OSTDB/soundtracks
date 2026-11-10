@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zlorp Adventures | 328999 | [328999-zlorp-adventures.json](./328999-zlorp-adventures.json) |
 | Zlug Rush | 62866 | [62866-zlug-rush.json](./62866-zlug-rush.json) |
 | Zly.ii: The Hacked Station | 369755 | [369755-zly-ii-the-hacked-station.json](./369755-zly-ii-the-hacked-station.json) |
+| zMahjong 2 Concentration | 89044 | [89044-zmahjong-2-concentration.json](./89044-zmahjong-2-concentration.json) |
 | zMahjong Super Solitaire | 88451 | [88451-zmahjong-super-solitaire.json](./88451-zmahjong-super-solitaire.json) |
 | ZMR: Zombies Monsters Robots | 7424 | [7424-zmr-zombies-monsters-robots.json](./7424-zmr-zombies-monsters-robots.json) |
 | Znake | 306038 | [306038-znake.json](./306038-znake.json) |
