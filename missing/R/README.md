@@ -1124,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders of the Lost Ark | 18036 | [18036-raiders-of-the-lost-ark.json](./18036-raiders-of-the-lost-ark.json) |
 | Raiders of the Lost Ark | 326023 | [326023-raiders-of-the-lost-ark.json](./326023-raiders-of-the-lost-ark.json) |
 | Raiders of the Lost Ark: Tanis | 326028 | [326028-raiders-of-the-lost-ark-tanis.json](./326028-raiders-of-the-lost-ark-tanis.json) |
+| Raiders of the Lost Island | 76128 | [76128-raiders-of-the-lost-island.json](./76128-raiders-of-the-lost-island.json) |
 | Raiders of the North Sea | 121135 | [121135-raiders-of-the-north-sea.json](./121135-raiders-of-the-north-sea.json) |
 | Raiders of Valhalla | 238570 | [238570-raiders-of-valhalla.json](./238570-raiders-of-valhalla.json) |
 | Raiders Rise | 352365 | [352365-raiders-rise.json](./352365-raiders-rise.json) |
@@ -7715,6 +7716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridle | 188857 | [188857-ridle.json](./188857-ridle.json) |
 | Riff Racer | 18922 | [18922-riff-racer.json](./18922-riff-racer.json) |
 | Riff Raft | 184919 | [184919-riff-raft.json](./184919-riff-raft.json) |
+| Riff VR | 76330 | [76330-riff-vr.json](./76330-riff-vr.json) |
 | Riff: The Music Trivia DVD Game | 360767 | [360767-riff-the-music-trivia-dvd-game.json](./360767-riff-the-music-trivia-dvd-game.json) |
 | Riffle Effect | 217511 | [217511-riffle-effect.json](./217511-riffle-effect.json) |
 | RiffTrax: The Game | 194462 | [194462-rifftrax-the-game.json](./194462-rifftrax-the-game.json) |
@@ -8094,6 +8096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripley Remembered | 355842 | [355842-ripley-remembered.json](./355842-ripley-remembered.json) |
 | Ripley's Believe It or Not!: The Riddle of Master Lu | 12472 | [12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json](./12472-ripleys-believe-it-or-not-the-riddle-of-master-lu.json) |
 | Ripout | 150433 | [150433-ripout.json](./150433-ripout.json) |
+| Ripped Pants at Work | 76273 | [76273-ripped-pants-at-work.json](./76273-ripped-pants-at-work.json) |
 | Ripped Pixel Dungeon | 313945 | [313945-ripped-pixel-dungeon.json](./313945-ripped-pixel-dungeon.json) |
 | Ripped/Apart | 133397 | [133397-ripped-apart.json](./133397-ripped-apart.json) |
 | Ripper | 219371 | [219371-ripper.json](./219371-ripper.json) |
@@ -10985,6 +10988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling in the Sheepe | 201119 | [201119-rolling-in-the-sheepe.json](./201119-rolling-in-the-sheepe.json) |
 | Rolling Jump | 269339 | [269339-rolling-jump.json](./269339-rolling-jump.json) |
 | Rolling Lee | 303040 | [303040-rolling-lee.json](./303040-rolling-lee.json) |
+| Rolling Line | 76019 | [76019-rolling-line.json](./76019-rolling-line.json) |
 | Rolling Macho: Tumbling to Earth | 330148 | [330148-rolling-macho-tumbling-to-earth.json](./330148-rolling-macho-tumbling-to-earth.json) |
 | Rolling Madness 3D | 54957 | [54957-rolling-madness-3d.json](./54957-rolling-madness-3d.json) |
 | Rolling Over It | 191834 | [191834-rolling-over-it.json](./191834-rolling-over-it.json) |
@@ -13683,6 +13687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RX10-40 | 324312 | [324312-rx10-40.json](./324312-rx10-40.json) |
 | RXC | 192185 | [192185-rxc.json](./192185-rxc.json) |
 | Rxcovery | 83358 | [83358-rxcovery.json](./83358-rxcovery.json) |
+| RXN: Raijin | 75959 | [75959-rxn-raijin.json](./75959-rxn-raijin.json) |
 | RXN: Raijin | 77386 | [77386-rxn-raijin.json](./77386-rxn-raijin.json) |
 | Ryahs Rhythm | 327534 | [327534-ryahs-rhythm.json](./327534-ryahs-rhythm.json) |
 | Ryan Black | 30123 | [30123-ryan-black.json](./30123-ryan-black.json) |
