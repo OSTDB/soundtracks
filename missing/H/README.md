@@ -3704,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
 | Heartwood Heroes | 236329 | [236329-heartwood-heroes.json](./236329-heartwood-heroes.json) |
 | Heartwood Online | 258374 | [258374-heartwood-online.json](./258374-heartwood-online.json) |
+| HeartZ | 18578 | [18578-heartz.json](./18578-heartz.json) |
 | HeartZ: Co-Hope Puzzles | 35803 | [35803-heartz-co-hope-puzzles.json](./35803-heartz-co-hope-puzzles.json) |
 | Heat | 113542 | [113542-heat.json](./113542-heat.json) |
 | Heat | 183400 | [183400-heat.json](./183400-heat.json) |
