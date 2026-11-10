@@ -2900,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming-Simulator 2009 | 3169 | [3169-farming-simulator-2009.json](./3169-farming-simulator-2009.json) |
 | Farming-Simulator: Gold Edition | 3170 | [3170-farming-simulator-gold-edition.json](./3170-farming-simulator-gold-edition.json) |
 | FarmingCat | 204369 | [204369-farmingcat.json](./204369-farmingcat.json) |
+| Farmington County | 123758 | [123758-farmington-county.json](./123758-farmington-county.json) |
 | Farmington Tales | 44093 | [44093-farmington-tales.json](./44093-farmington-tales.json) |
 | Farmington Tales 2: Winter Crop | 294225 | [294225-farmington-tales-2-winter-crop.json](./294225-farmington-tales-2-winter-crop.json) |
 | Farmnana Defence | 404863 | [404863-farmnana-defence.json](./404863-farmnana-defence.json) |
@@ -4829,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter's Rampage | 235309 | [235309-fighters-rampage.json](./235309-fighters-rampage.json) |
 | Fighters Destiny | 3496 | [3496-fighters-destiny.json](./3496-fighters-destiny.json) |
 | Fighters Kyodotai | 129612 | [129612-fighters-kyodotai.json](./129612-fighters-kyodotai.json) |
+| Fighters Legacy | 114835 | [114835-fighters-legacy.json](./114835-fighters-legacy.json) |
 | Fighters Megamix | 1550 | [1550-fighters-megamix.json](./1550-fighters-megamix.json) |
 | Fighters Megamix | 45821 | [45821-fighters-megamix.json](./45821-fighters-megamix.json) |
 | Fighters of Capcom | 280849 | [280849-fighters-of-capcom.json](./280849-fighters-of-capcom.json) |
@@ -7723,6 +7725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Fetus | 23162 | [23162-flappy-fetus.json](./23162-flappy-fetus.json) |
 | Flappy Fighter | 118311 | [118311-flappy-fighter.json](./118311-flappy-fighter.json) |
 | Flappy Fire | 90184 | [90184-flappy-fire.json](./90184-flappy-fire.json) |
+| Flappy Flappy VR | 114881 | [114881-flappy-flappy-vr.json](./114881-flappy-flappy-vr.json) |
 | Flappy Galaxy | 74184 | [74184-flappy-galaxy.json](./74184-flappy-galaxy.json) |
 | Flappy Galaxy: Master Level | 171211 | [171211-flappy-galaxy-master-level.json](./171211-flappy-galaxy-master-level.json) |
 | Flappy Golf | 107648 | [107648-flappy-golf.json](./107648-flappy-golf.json) |
