@@ -3057,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnaval Marbles | 360327 | [360327-carnaval-marbles.json](./360327-carnaval-marbles.json) |
 | Carnaval Simulator | 275405 | [275405-carnaval-simulator.json](./275405-carnaval-simulator.json) |
 | CarneyVale Showtime | 92349 | [92349-carneyvale-showtime.json](./92349-carneyvale-showtime.json) |
+| Carnholt | 401332 | [401332-carnholt.json](./401332-carnholt.json) |
 | Carniball | 64832 | [64832-carniball.json](./64832-carniball.json) |
 | Carnica | 39636 | [39636-carnica.json](./39636-carnica.json) |
 | Carnival | 277195 | [277195-carnival.json](./277195-carnival.json) |
@@ -15005,6 +15006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control the Ball | 312198 | [312198-control-the-ball.json](./312198-control-the-ball.json) |
 | Control the Body | 287303 | [287303-control-the-body.json](./287303-control-the-body.json) |
 | Control Yourself | 338138 | [338138-control-yourself.json](./338138-control-yourself.json) |
+| Control, I'm Not Coming Back | 401318 | [401318-control-im-not-coming-back.json](./401318-control-im-not-coming-back.json) |
 | Control: AWE | 122313 | [122313-control-awe.json](./122313-control-awe.json) |
 | Control: Deluxe Edition | 118510 | [118510-control-deluxe-edition.json](./118510-control-deluxe-edition.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
@@ -15198,6 +15200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena: Diamond Edition | 390904 | [390904-cooking-arena-diamond-edition.json](./390904-cooking-arena-diamond-edition.json) |
 | Cooking Arena: Elite Edition | 409964 | [409964-cooking-arena-elite-edition.json](./409964-cooking-arena-elite-edition.json) |
 | Cooking Arena: Food Truck Tycoon Asian Cuisine | 260035 | [260035-cooking-arena-food-truck-tycoon-asian-cuisine.json](./260035-cooking-arena-food-truck-tycoon-asian-cuisine.json) |
+| Cooking Arena: Legendary Edition | 401353 | [401353-cooking-arena-legendary-edition.json](./401353-cooking-arena-legendary-edition.json) |
 | Cooking Arena: Pancake Bar Tycoon | 260039 | [260039-cooking-arena-pancake-bar-tycoon.json](./260039-cooking-arena-pancake-bar-tycoon.json) |
 | Cooking Arena: Pizza Bar Tycoon | 260038 | [260038-cooking-arena-pizza-bar-tycoon.json](./260038-cooking-arena-pizza-bar-tycoon.json) |
 | Cooking Arena: Platinum Edition | 386800 | [386800-cooking-arena-platinum-edition.json](./386800-cooking-arena-platinum-edition.json) |
