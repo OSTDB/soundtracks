@@ -1196,6 +1196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
 | Campfire Tales | 165585 | [165585-campfire-tales.json](./165585-campfire-tales.json) |
 | Campfire with Cat | 377040 | [377040-campfire-with-cat.json](./377040-campfire-with-cat.json) |
+| Campfire: One of Us Is the Killer | 31070 | [31070-campfire-one-of-us-is-the-killer.json](./31070-campfire-one-of-us-is-the-killer.json) |
 | Campground Owner | 192692 | [192692-campground-owner.json](./192692-campground-owner.json) |
 | Campground Simulator | 379355 | [379355-campground-simulator.json](./379355-campground-simulator.json) |
 | Campgrounds Adventures | 311605 | [311605-campgrounds-adventures.json](./311605-campgrounds-adventures.json) |
@@ -1867,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitals Quizzer: Landmarks Mode | 257462 | [257462-capitals-quizzer-landmarks-mode.json](./257462-capitals-quizzer-landmarks-mode.json) |
 | Capitals Quizzer: People Mode | 296526 | [296526-capitals-quizzer-people-mode.json](./296526-capitals-quizzer-people-mode.json) |
 | Capitals Quizzer: Regions Mode | 257463 | [257463-capitals-quizzer-regions-mode.json](./257463-capitals-quizzer-regions-mode.json) |
+| CapitalShip:VR | 31136 | [31136-capitalship-vr.json](./31136-capitalship-vr.json) |
 | Capitan Sevilla | 39087 | [39087-capitan-sevilla.json](./39087-capitan-sevilla.json) |
 | Capitol Diktatoria | 413908 | [413908-capitol-diktatoria.json](./413908-capitol-diktatoria.json) |
 | Capitol Hill | 94621 | [94621-capitol-hill.json](./94621-capitol-hill.json) |
@@ -2144,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captive Audience | 247579 | [247579-captive-audience.json](./247579-captive-audience.json) |
 | Captive Love Melty Holic | 416078 | [416078-captive-love-melty-holic.json](./416078-captive-love-melty-holic.json) |
 | Captive of Fortune | 81137 | [81137-captive-of-fortune.json](./81137-captive-of-fortune.json) |
+| Captivity | 31075 | [31075-captivity.json](./31075-captivity.json) |
 | Captivity Horror Multiplayer | 276348 | [276348-captivity-horror-multiplayer.json](./276348-captivity-horror-multiplayer.json) |
 | CaptMeow | 385832 | [385832-captmeow.json](./385832-captmeow.json) |
 | Captor Clash | 213684 | [213684-captor-clash.json](./213684-captor-clash.json) |
@@ -10091,6 +10094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
 | Civil War II: The Bloody Road South | 172111 | [172111-civil-war-ii-the-bloody-road-south.json](./172111-civil-war-ii-the-bloody-road-south.json) |
 | Civil War Strategy | 271790 | [271790-civil-war-strategy.json](./271790-civil-war-strategy.json) |
+| Civil War: 1861 | 31043 | [31043-civil-war-1861.json](./31043-civil-war-1861.json) |
 | Civil War: 1862 | 31079 | [31079-civil-war-1862.json](./31079-civil-war-1862.json) |
 | Civil War: 1863 | 33668 | [33668-civil-war-1863.json](./33668-civil-war-1863.json) |
 | Civil War: 1863 Gold | 107390 | [107390-civil-war-1863-gold.json](./107390-civil-war-1863-gold.json) |
@@ -10608,6 +10612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clayton's Quest | 72325 | [72325-claytons-quest.json](./72325-claytons-quest.json) |
 | ClayTown Horror | 217403 | [217403-claytown-horror.json](./217403-claytown-horror.json) |
 | Clayverse | 274903 | [274903-clayverse.json](./274903-clayverse.json) |
+| Clazer | 31035 | [31035-clazer.json](./31035-clazer.json) |
 | Clea | 112617 | [112617-clea.json](./112617-clea.json) |
 | Clean Adventure | 185273 | [185273-clean-adventure.json](./185273-clean-adventure.json) |
 | Clean and Bridge | 233425 | [233425-clean-and-bridge.json](./233425-clean-and-bridge.json) |
@@ -13750,6 +13755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CommanDSKeen | 298943 | [298943-commandskeen.json](./298943-commandskeen.json) |
 | Commbat | 56340 | [56340-commbat.json](./56340-commbat.json) |
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
+| Commercium | 31051 | [31051-commercium.json](./31051-commercium.json) |
 | Commie Block | 390246 | [390246-commie-block.json](./390246-commie-block.json) |
 | Commie Killer 2069 | 150745 | [150745-commie-killer-2069.json](./150745-commie-killer-2069.json) |
 | Commissar Catlov | 157958 | [157958-commissar-catlov.json](./157958-commissar-catlov.json) |
