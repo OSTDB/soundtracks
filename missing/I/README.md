@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Lockpick | 231726 | [231726-i-wanna-lockpick.json](./231726-i-wanna-lockpick.json) |
 | I Wanna Make a Dragon Game | 349291 | [349291-i-wanna-make-a-dragon-game.json](./349291-i-wanna-make-a-dragon-game.json) |
 | I Wanna Maker | 125410 | [125410-i-wanna-maker.json](./125410-i-wanna-maker.json) |
+| I Wanna Munch a Carrot | 414816 | [414816-i-wanna-munch-a-carrot.json](./414816-i-wanna-munch-a-carrot.json) |
 | I Wanna Play That Picture Puzzle with Numbers All Day! | 360520 | [360520-i-wanna-play-that-picture-puzzle-with-numbers-all-day.json](./360520-i-wanna-play-that-picture-puzzle-with-numbers-all-day.json) |
 | I Wanna Ponder | 361758 | [361758-i-wanna-ponder.json](./361758-i-wanna-ponder.json) |
 | I wanna Reach the Top | 201007 | [201007-i-wanna-reach-the-top.json](./201007-i-wanna-reach-the-top.json) |
@@ -4017,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Golf | 56139 | [56139-infinite-golf.json](./56139-infinite-golf.json) |
 | Infinite Golf 2 | 153825 | [153825-infinite-golf-2.json](./153825-infinite-golf-2.json) |
 | Infinite Guitars | 133239 | [133239-infinite-guitars.json](./133239-infinite-guitars.json) |
+| Infinite Hole Sim Remix | 414896 | [414896-infinite-hole-sim-remix.json](./414896-infinite-hole-sim-remix.json) |
 | Infinite Horizon | 76081 | [76081-infinite-horizon.json](./76081-infinite-horizon.json) |
 | Infinite Idle: Online Clicker RPG | 320605 | [320605-infinite-idle-online-clicker-rpg.json](./320605-infinite-idle-online-clicker-rpg.json) |
 | Infinite Incantation | 236854 | [236854-infinite-incantation.json](./236854-infinite-incantation.json) |
@@ -4078,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
