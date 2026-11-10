@@ -1879,6 +1879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Crush Simulator | 319432 | [319432-balls-crush-simulator.json](./319432-balls-crush-simulator.json) |
 | Balls Falls, a fantastic unique two finger game! | 23165 | [23165-balls-falls-a-fantastic-unique-two-finger-game.json](./23165-balls-falls-a-fantastic-unique-two-finger-game.json) |
 | Balls Gone Wild | 343220 | [343220-balls-gone-wild.json](./343220-balls-gone-wild.json) |
+| Balls in Space | 407663 | [407663-balls-in-space.json](./407663-balls-in-space.json) |
 | Balls like a Frog | 290658 | [290658-balls-like-a-frog.json](./290658-balls-like-a-frog.json) |
 | Balls Mania! | 173970 | [173970-balls-mania.json](./173970-balls-mania.json) |
 | Balls n Blocks | 120255 | [120255-balls-n-blocks.json](./120255-balls-n-blocks.json) |
@@ -7419,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Polaris Guardian | 161589 | [161589-beyond-polaris-guardian.json](./161589-beyond-polaris-guardian.json) |
 | Beyond Power VR | 31245 | [31245-beyond-power-vr.json](./31245-beyond-power-vr.json) |
 | Beyond Protocol | 72646 | [72646-beyond-protocol.json](./72646-beyond-protocol.json) |
+| Beyond R'proach | 407643 | [407643-beyond-rproach.json](./407643-beyond-rproach.json) |
 | Beyond Reach | 316725 | [316725-beyond-reach.json](./316725-beyond-reach.json) |
 | Beyond Reality | 317339 | [317339-beyond-reality.json](./317339-beyond-reality.json) |
 | Beyond Reality | 33914 | [33914-beyond-reality.json](./33914-beyond-reality.json) |
@@ -11871,6 +11873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodstained: Ritual of the Night - Succubus Cosmetic Pack | 301214 | [301214-bloodstained-ritual-of-the-night-succubus-cosmetic-pack.json](./301214-bloodstained-ritual-of-the-night-succubus-cosmetic-pack.json) |
 | Bloodstained: Ritual of the Night Complete Edition | 391058 | [391058-bloodstained-ritual-of-the-night-complete-edition.json](./391058-bloodstained-ritual-of-the-night-complete-edition.json) |
 | Bloodstained: The Scarlet Engagement | 347120 | [347120-bloodstained-the-scarlet-engagement.json](./347120-bloodstained-the-scarlet-engagement.json) |
+| Bloodstate | 407619 | [407619-bloodstate.json](./407619-bloodstate.json) |
 | Bloodstone | 129929 | [129929-bloodstone.json](./129929-bloodstone.json) |
 | Bloodstone Courtyard | 308465 | [308465-bloodstone-courtyard.json](./308465-bloodstone-courtyard.json) |
 | Bloodstone Rising | 344586 | [344586-bloodstone-rising.json](./344586-bloodstone-rising.json) |
@@ -13054,6 +13057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolf | 125066 | [125066-bolf.json](./125066-bolf.json) |
 | Bolf: A Golfoxing Game | 341825 | [341825-bolf-a-golfoxing-game.json](./341825-bolf-a-golfoxing-game.json) |
 | Bolhas | 230644 | [230644-bolhas.json](./230644-bolhas.json) |
+| Boli | 407610 | [407610-boli.json](./407610-boli.json) |
 | Bolide | 332757 | [332757-bolide.json](./332757-bolide.json) |
 | BoliKa | 328072 | [328072-bolika.json](./328072-bolika.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
@@ -15074,6 +15078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Manager | 13430 | [13430-boxing-manager.json](./13430-boxing-manager.json) |
 | Boxing Manager | 200310 | [200310-boxing-manager.json](./200310-boxing-manager.json) |
 | Boxing Match | 310986 | [310986-boxing-match.json](./310986-boxing-match.json) |
+| Boxing Pro Simulator | 407647 | [407647-boxing-pro-simulator.json](./407647-boxing-pro-simulator.json) |
 | Boxing Pun | 183843 | [183843-boxing-pun.json](./183843-boxing-pun.json) |
 | Boxing Revolution: Boxing Games - Knock Out | 104434 | [104434-boxing-revolution-boxing-games-knock-out.json](./104434-boxing-revolution-boxing-games-knock-out.json) |
 | Boxing Room | 318911 | [318911-boxing-room.json](./318911-boxing-room.json) |
@@ -15862,6 +15867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread around bread around bread around bread | 280130 | [280130-bread-around-bread-around-bread-around-bread.json](./280130-bread-around-bread-around-bread-around-bread.json) |
 | Bread Barbershop Differences | 219819 | [219819-bread-barbershop-differences.json](./219819-bread-barbershop-differences.json) |
 | Bread Bun World | 385261 | [385261-bread-bun-world.json](./385261-bread-bun-world.json) |
+| Bread Duck | 407684 | [407684-bread-duck.json](./407684-bread-duck.json) |
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Bread Kittens | 159352 | [159352-bread-kittens.json](./159352-bread-kittens.json) |
 | Bread or Dead | 249934 | [249934-bread-or-dead.json](./249934-bread-or-dead.json) |
@@ -17087,6 +17093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brushlings Pale Moon | 155968 | [155968-brushlings-pale-moon.json](./155968-brushlings-pale-moon.json) |
 | Brushwood Buddies | 33692 | [33692-brushwood-buddies.json](./33692-brushwood-buddies.json) |
 | Brut@l | 14759 | [14759-brut-l.json](./14759-brut-l.json) |
+| Brutal | 407674 | [407674-brutal.json](./407674-brutal.json) |
 | Brutal 2urvive Bundle | 164786 | [164786-brutal-2urvive-bundle.json](./164786-brutal-2urvive-bundle.json) |
 | Brutal Age: Horde Invasion | 86935 | [86935-brutal-age-horde-invasion.json](./86935-brutal-age-horde-invasion.json) |
 | Brutal Alice: The Hundred Day's War | 75945 | [75945-brutal-alice-the-hundred-days-war.json](./75945-brutal-alice-the-hundred-days-war.json) |
