@@ -1990,7 +1990,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sasi | 100583 | [100583-dark-sasi.json](./100583-dark-sasi.json) |
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
 | Dark Savior | 46058 | [46058-dark-savior.json](./46058-dark-savior.json) |
-| Dark Scavenger | 8428 | [8428-dark-scavenger.json](./8428-dark-scavenger.json) |
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
 | Dark Scrolls | 395294 | [395294-dark-scrolls.json](./395294-dark-scrolls.json) |
 | Dark Scythe | 313965 | [313965-dark-scythe.json](./313965-dark-scythe.json) |
@@ -2370,7 +2369,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Within: In Pursuit of Loath Nolder | 10165 | [10165-darkness-within-in-pursuit-of-loath-nolder.json](./10165-darkness-within-in-pursuit-of-loath-nolder.json) |
 | Darkness: Prince of Shadows | 286023 | [286023-darkness-prince-of-shadows.json](./286023-darkness-prince-of-shadows.json) |
 | Darknesssssssssssssssss | 303458 | [303458-darknesssssssssssssssss.json](./303458-darknesssssssssssssssss.json) |
-| Darknet | 20018 | [20018-darknet.json](./20018-darknet.json) |
 | Darknet | 99512 | [99512-darknet.json](./99512-darknet.json) |
 | Darko | 373124 | [373124-darko.json](./373124-darko.json) |
 | Darkodai | 361256 | [361256-darkodai.json](./361256-darkodai.json) |
