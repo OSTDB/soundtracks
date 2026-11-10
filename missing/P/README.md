@@ -6929,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Eternity: Definitive Edition | 75357 | [75357-pillars-of-eternity-definitive-edition.json](./75357-pillars-of-eternity-definitive-edition.json) |
 | Pillars of Eternity: Hero Edition | 51889 | [51889-pillars-of-eternity-hero-edition.json](./51889-pillars-of-eternity-hero-edition.json) |
 | Pillars of Eternity: Royal Edition | 51888 | [51888-pillars-of-eternity-royal-edition.json](./51888-pillars-of-eternity-royal-edition.json) |
+| Pillars of Eternity: The White March Part I | 14725 | [14725-pillars-of-eternity-the-white-march-part-i.json](./14725-pillars-of-eternity-the-white-march-part-i.json) |
 | Pillars of Eternity: The White March Part II | 18919 | [18919-pillars-of-eternity-the-white-march-part-ii.json](./18919-pillars-of-eternity-the-white-march-part-ii.json) |
 | Pillars Of Fog | 337165 | [337165-pillars-of-fog.json](./337165-pillars-of-fog.json) |
 | Pillars of Garendall | 69873 | [69873-pillars-of-garendall.json](./69873-pillars-of-garendall.json) |
@@ -7455,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pindable Crystal Ball | 247283 | [247283-pindable-crystal-ball.json](./247283-pindable-crystal-ball.json) |
 | Pindeavor | 208602 | [208602-pindeavor.json](./208602-pindeavor.json) |
 | Pine | 338225 | [338225-pine.json](./338225-pine.json) |
+| Pine | 56470 | [56470-pine.json](./56470-pine.json) |
 | Pine Applin | 73441 | [73441-pine-applin.json](./73441-pine-applin.json) |
 | Pine Creek | 374546 | [374546-pine-creek.json](./374546-pine-creek.json) |
 | Pine Creek: The Book of Judith | 253215 | [253215-pine-creek-the-book-of-judith.json](./253215-pine-creek-the-book-of-judith.json) |
