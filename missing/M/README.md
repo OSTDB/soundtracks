@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Pigs | 224984 | [224984-mafia-pigs.json](./224984-mafia-pigs.json) |
 | Mafia Pinball | 97149 | [97149-mafia-pinball.json](./97149-mafia-pinball.json) |
 | Mafia Pizza: Family Business | 416666 | [416666-mafia-pizza-family-business.json](./416666-mafia-pizza-family-business.json) |
+| Mafia Queens | 417221 | [417221-mafia-queens.json](./417221-mafia-queens.json) |
 | Mafia Reigns: Power And Blood | 318405 | [318405-mafia-reigns-power-and-blood.json](./318405-mafia-reigns-power-and-blood.json) |
 | Mafia Romania | 369676 | [369676-mafia-romania.json](./369676-mafia-romania.json) |
 | Mafia Rush | 20727 | [20727-mafia-rush.json](./20727-mafia-rush.json) |
@@ -1036,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maggie's Movies: Second Shot | 132789 | [132789-maggies-movies-second-shot.json](./132789-maggies-movies-second-shot.json) |
 | Maggie's Rainy Ride | 375334 | [375334-maggies-rainy-ride.json](./375334-maggies-rainy-ride.json) |
 | Maggot Face | 229768 | [229768-maggot-face.json](./229768-maggot-face.json) |
+| Maggot House: Song of the Hanging Mirror | 417222 | [417222-maggot-house-song-of-the-hanging-mirror.json](./417222-maggot-house-song-of-the-hanging-mirror.json) |
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
 | Magi | 35415 | [35415-magi.json](./35415-magi.json) |
 | Magi Death Fight: Mahou Gakuen | 58878 | [58878-magi-death-fight-mahou-gakuen.json](./58878-magi-death-fight-mahou-gakuen.json) |
@@ -2686,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make Capybara Happy | 335248 | [335248-make-capybara-happy.json](./335248-make-capybara-happy.json) |
 | Make Colors | 108724 | [108724-make-colors.json](./108724-make-colors.json) |
 | Make Dogs in Temple Jump 2020 | 257875 | [257875-make-dogs-in-temple-jump-2020.json](./257875-make-dogs-in-temple-jump-2020.json) |
+| Make Drama: MAD | 417233 | [417233-make-drama-mad.json](./417233-make-drama-mad.json) |
 | Make Four With Mario | 231660 | [231660-make-four-with-mario.json](./231660-make-four-with-mario.json) |
 | Make Friends | 381118 | [381118-make-friends.json](./381118-make-friends.json) |
 | Make Haste! | 141771 | [141771-make-haste.json](./141771-make-haste.json) |
@@ -3403,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manor of Mysteries | 265149 | [265149-manor-of-mysteries.json](./265149-manor-of-mysteries.json) |
 | Manor of Mystic Courtesans | 291072 | [291072-manor-of-mystic-courtesans.json](./291072-manor-of-mystic-courtesans.json) |
 | Manor of Shadows | 380678 | [380678-manor-of-shadows.json](./380678-manor-of-shadows.json) |
+| Manorbound | 417237 | [417237-manorbound.json](./417237-manorbound.json) |
 | Manorvania | 178894 | [178894-manorvania.json](./178894-manorvania.json) |
 | Manos - The Revenge of Torgo | 50379 | [50379-manos-the-revenge-of-torgo.json](./50379-manos-the-revenge-of-torgo.json) |
 | Manos: Hands of Fate | 47095 | [47095-manos-hands-of-fate.json](./47095-manos-hands-of-fate.json) |
@@ -6976,12 +6980,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Arena Shooter Battle | 380843 | [380843-mech-arena-shooter-battle.json](./380843-mech-arena-shooter-battle.json) |
 | Mech Armada | 145929 | [145929-mech-armada.json](./145929-mech-armada.json) |
 | Mech Assembler: Model Kit Builder Simulator | 346632 | [346632-mech-assembler-model-kit-builder-simulator.json](./346632-mech-assembler-model-kit-builder-simulator.json) |
+| Mech Battle | 417137 | [417137-mech-battle.json](./417137-mech-battle.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Builder | 292277 | [292277-mech-builder.json](./292277-mech-builder.json) |
 | Mech Chip | 114087 | [114087-mech-chip.json](./114087-mech-chip.json) |
 | Mech Commander Gold | 51238 | [51238-mech-commander-gold.json](./51238-mech-commander-gold.json) |
 | Mech Crusade | 326939 | [326939-mech-crusade.json](./326939-mech-crusade.json) |
 | Mech Delivery Mayhem | 362247 | [362247-mech-delivery-mayhem.json](./362247-mech-delivery-mayhem.json) |
+| Mech Down | 417135 | [417135-mech-down.json](./417135-mech-down.json) |
 | Mech Explorer | 326680 | [326680-mech-explorer.json](./326680-mech-explorer.json) |
 | Mech Farmer | 150696 | [150696-mech-farmer.json](./150696-mech-farmer.json) |
 | Mech Fortress | 360058 | [360058-mech-fortress.json](./360058-mech-fortress.json) |
@@ -7074,6 +7080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechaknights Legends | 330107 | [330107-mechaknights-legends.json](./330107-mechaknights-legends.json) |
 | MechaLeague | 43116 | [43116-mechaleague.json](./43116-mechaleague.json) |
 | Mechamice | 377276 | [377276-mechamice.json](./377276-mechamice.json) |
+| Mechamonium | 417138 | [417138-mechamonium.json](./417138-mechamonium.json) |
 | Mechaneer Resta's Grand Adventure | 236785 | [236785-mechaneer-restas-grand-adventure.json](./236785-mechaneer-restas-grand-adventure.json) |
 | MechaNest | 217065 | [217065-mechanest.json](./217065-mechanest.json) |
 | Mechanibot | 188831 | [188831-mechanibot.json](./188831-mechanibot.json) |
