@@ -1381,6 +1381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Road | 268003 | [268003-panic-road.json](./268003-panic-road.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
 | Panic Sell | 363132 | [363132-panic-sell.json](./363132-panic-sell.json) |
+| Panic Sell 2 | 422424 | [422424-panic-sell-2.json](./422424-panic-sell-2.json) |
 | Panic Space | 41371 | [41371-panic-space.json](./41371-panic-space.json) |
 | Panic Station | 172113 | [172113-panic-station.json](./172113-panic-station.json) |
 | Panic Station VR | 130151 | [130151-panic-station-vr.json](./130151-panic-station-vr.json) |
