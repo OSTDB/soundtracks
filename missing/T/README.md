@@ -20241,6 +20241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatre of War 2: Africa 1943 - Centauro | 10954 | [10954-theatre-of-war-2-africa-1943-centauro.json](./10954-theatre-of-war-2-africa-1943-centauro.json) |
 | Theatre of War 2: Battle for Caen | 10955 | [10955-theatre-of-war-2-battle-for-caen.json](./10955-theatre-of-war-2-battle-for-caen.json) |
 | Theatre of War 2: Battle for Caen - Special Edition | 25511 | [25511-theatre-of-war-2-battle-for-caen-special-edition.json](./25511-theatre-of-war-2-battle-for-caen-special-edition.json) |
+| Theatre of War 2: Kursk 1943 | 10196 | [10196-theatre-of-war-2-kursk-1943.json](./10196-theatre-of-war-2-kursk-1943.json) |
 | Theatre of War 3: Korea | 9859 | [9859-theatre-of-war-3-korea.json](./9859-theatre-of-war-3-korea.json) |
 | Theatre of War: Collection | 54198 | [54198-theatre-of-war-collection.json](./54198-theatre-of-war-collection.json) |
 | Theatre of War: Rearmed | 399969 | [399969-theatre-of-war-rearmed.json](./399969-theatre-of-war-rearmed.json) |
