@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natural Selection 2 - Deluxe DLC | 93808 | [93808-natural-selection-2-deluxe-dlc.json](./93808-natural-selection-2-deluxe-dlc.json) |
 | Natural Selection 2: Combat | 17566 | [17566-natural-selection-2-combat.json](./17566-natural-selection-2-combat.json) |
 | Natural Selection University | 335390 | [335390-natural-selection-university.json](./335390-natural-selection-university.json) |
+| Natural Soccer | 10589 | [10589-natural-soccer.json](./10589-natural-soccer.json) |
 | Natural Spirit | 217192 | [217192-natural-spirit.json](./217192-natural-spirit.json) |
 | Natural Threat 2 | 53401 | [53401-natural-threat-2.json](./53401-natural-threat-2.json) |
 | Natural Threat: Ominous Shores | 54248 | [54248-natural-threat-ominous-shores.json](./54248-natural-threat-ominous-shores.json) |
