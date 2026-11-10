@@ -3793,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volume | 9647 | [9647-volume.json](./9647-volume.json) |
 | Volume 1-3 Complete DLC Bundle | 231226 | [231226-volume-1-3-complete-dlc-bundle.json](./231226-volume-1-3-complete-dlc-bundle.json) |
 | Volume Up | 122075 | [122075-volume-up.json](./122075-volume-up.json) |
+| Volume.art | 421239 | [421239-volume-art.json](./421239-volume-art.json) |
 | Volunteer | 216850 | [216850-volunteer.json](./216850-volunteer.json) |
 | Volunteers | 207587 | [207587-volunteers.json](./207587-volunteers.json) |
 | Volunteers | 278953 | [278953-volunteers.json](./278953-volunteers.json) |
