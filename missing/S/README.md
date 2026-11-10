@@ -13597,6 +13597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skywire 2 | 280333 | [280333-skywire-2.json](./280333-skywire-2.json) |
 | Skywire VIP | 276425 | [276425-skywire-vip.json](./276425-skywire-vip.json) |
 | Skyworker | 73586 | [73586-skyworker.json](./73586-skyworker.json) |
+| Skyworld | 19060 | [19060-skyworld.json](./19060-skyworld.json) |
 | Skyworld: Kingdom Brawl - Fresh Meat | 296040 | [296040-skyworld-kingdom-brawl-fresh-meat.json](./296040-skyworld-kingdom-brawl-fresh-meat.json) |
 | Skywriter | 108073 | [108073-skywriter.json](./108073-skywriter.json) |
 | Skyx | 317531 | [317531-skyx.json](./317531-skyx.json) |
@@ -22526,6 +22527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpermDash | 157009 | [157009-spermdash.json](./157009-spermdash.json) |
 | Sperme d’Éros: Garden of Earthly Delights | 290807 | [290807-sperme-d-eros-garden-of-earthly-delights.json](./290807-sperme-d-eros-garden-of-earthly-delights.json) |
 | Spermicide | 191083 | [191083-spermicide.json](./191083-spermicide.json) |
+| Spermination | 19022 | [19022-spermination.json](./19022-spermination.json) |
 | Spermination: Cream of the Crop | 208232 | [208232-spermination-cream-of-the-crop.json](./208232-spermination-cream-of-the-crop.json) |
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
 | SpessVR | 115228 | [115228-spessvr.json](./115228-spessvr.json) |
@@ -25078,6 +25080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Catcher: Heart Master | 362272 | [362272-star-catcher-heart-master.json](./362272-star-catcher-heart-master.json) |
 | Star Chamber | 74036 | [74036-star-chamber.json](./74036-star-chamber.json) |
 | Star Charms | 255489 | [255489-star-charms.json](./255489-star-charms.json) |
+| Star Chart | 19064 | [19064-star-chart.json](./19064-star-chart.json) |
 | Star Chaser | 243326 | [243326-star-chaser.json](./243326-star-chaser.json) |
 | Star Chaser in Sea World | 154073 | [154073-star-chaser-in-sea-world.json](./154073-star-chaser-in-sea-world.json) |
 | Star Chasers | 109260 | [109260-star-chasers.json](./109260-star-chasers.json) |
@@ -27235,6 +27238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Inc. 2: A Game of Clones Deluxe | 51893 | [51893-stealth-inc-2-a-game-of-clones-deluxe.json](./51893-stealth-inc-2-a-game-of-clones-deluxe.json) |
 | Stealth Init | 408240 | [408240-stealth-init.json](./408240-stealth-init.json) |
 | Stealth Kill VR Missions | 310677 | [310677-stealth-kill-vr-missions.json](./310677-stealth-kill-vr-missions.json) |
+| Stealth Labyrinth | 19047 | [19047-stealth-labyrinth.json](./19047-stealth-labyrinth.json) |
 | Stealth Master | 143976 | [143976-stealth-master.json](./143976-stealth-master.json) |
 | Stealth Master: Assassin Ninja | 261421 | [261421-stealth-master-assassin-ninja.json](./261421-stealth-master-assassin-ninja.json) |
 | Stealth Mission | 55325 | [55325-stealth-mission.json](./55325-stealth-mission.json) |
