@@ -11992,6 +11992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journey of Ieser | 63537 | [63537-the-journey-of-ieser.json](./63537-the-journey-of-ieser.json) |
 | The Journey of Piggy | 287092 | [287092-the-journey-of-piggy.json](./287092-the-journey-of-piggy.json) |
 | The Journey of Salem | 184852 | [184852-the-journey-of-salem.json](./184852-the-journey-of-salem.json) |
+| The Journey of the Gnomes: The Battle of the Elder Isles | 401337 | [401337-the-journey-of-the-gnomes-the-battle-of-the-elder-isles.json](./401337-the-journey-of-the-gnomes-the-battle-of-the-elder-isles.json) |
 | The Journey of the King | 146204 | [146204-the-journey-of-the-king.json](./146204-the-journey-of-the-king.json) |
 | The Journey to Life | 325067 | [325067-the-journey-to-life.json](./325067-the-journey-to-life.json) |
 | The journey to the party | 179743 | [179743-the-journey-to-the-party.json](./179743-the-journey-to-the-party.json) |
@@ -13775,6 +13776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lone Warrior | 37180 | [37180-the-lone-warrior.json](./37180-the-lone-warrior.json) |
 | The Loneliest Summer | 159827 | [159827-the-loneliest-summer.json](./159827-the-loneliest-summer.json) |
 | The Lonely Architect | 333663 | [333663-the-lonely-architect.json](./333663-the-lonely-architect.json) |
+| The Lonely Dog Yearns For Love | 401251 | [401251-the-lonely-dog-yearns-for-love.json](./401251-the-lonely-dog-yearns-for-love.json) |
 | The Lonely Gorilla | 94769 | [94769-the-lonely-gorilla.json](./94769-the-lonely-gorilla.json) |
 | The Lonely Hacker | 244180 | [244180-the-lonely-hacker.json](./244180-the-lonely-hacker.json) |
 | The Lonely Helmet | 166565 | [166565-the-lonely-helmet.json](./166565-the-lonely-helmet.json) |
@@ -15513,6 +15515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Paribneur Combination | 189138 | [189138-the-paribneur-combination.json](./189138-the-paribneur-combination.json) |
 | The Parish | 320549 | [320549-the-parish.json](./320549-the-parish.json) |
 | The Park | 11649 | [11649-the-park.json](./11649-the-park.json) |
+| The Park Ranger | 401248 | [401248-the-park-ranger.json](./401248-the-park-ranger.json) |
 | The Parrot that Summons Demons | 232817 | [232817-the-parrot-that-summons-demons.json](./232817-the-parrot-that-summons-demons.json) |
 | The Particle of Infinite Free Will | 402531 | [402531-the-particle-of-infinite-free-will.json](./402531-the-particle-of-infinite-free-will.json) |
 | The Partners | 27621 | [27621-the-partners.json](./27621-the-partners.json) |
@@ -27402,6 +27405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Upheaval | 250640 | [250640-total-upheaval.json](./250640-total-upheaval.json) |
 | Total Vengeance | 264577 | [264577-total-vengeance.json](./264577-total-vengeance.json) |
 | Total Vice | 112278 | [112278-total-vice.json](./112278-total-vice.json) |
+| Total Victory | 401327 | [401327-total-victory.json](./401327-total-victory.json) |
 | Total War Battles: Shogun | 15318 | [15318-total-war-battles-shogun.json](./15318-total-war-battles-shogun.json) |
 | Total War Battles: Warhammer | 142610 | [142610-total-war-battles-warhammer.json](./142610-total-war-battles-warhammer.json) |
 | Total War Grand Master Collection | 53814 | [53814-total-war-grand-master-collection.json](./53814-total-war-grand-master-collection.json) |
@@ -28282,6 +28286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towel Required! | 223667 | [223667-towel-required.json](./223667-towel-required.json) |
 | Towelfight 2: The Monocle of Destiny | 23402 | [23402-towelfight-2-the-monocle-of-destiny.json](./23402-towelfight-2-the-monocle-of-destiny.json) |
 | Towelket 0: Maiden Bomb Invaders | 282444 | [282444-towelket-0-maiden-bomb-invaders.json](./282444-towelket-0-maiden-bomb-invaders.json) |
+| Towelket One More Time 3 | 401246 | [401246-towelket-one-more-time-3.json](./401246-towelket-one-more-time-3.json) |
 | Towelket One More Time: Kemono | 325376 | [325376-towelket-one-more-time-kemono.json](./325376-towelket-one-more-time-kemono.json) |
 | Towelket: One More Time | 147065 | [147065-towelket-one-more-time.json](./147065-towelket-one-more-time.json) |
 | Towelket: One More Time 2 (Karaage Tanpopo) | 146883 | [146883-towelket-one-more-time-2-karaage-tanpopo.json](./146883-towelket-one-more-time-2-karaage-tanpopo.json) |
@@ -33475,6 +33480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Fear: Forsaken Souls - Part 1 | 33569 | [33569-true-fear-forsaken-souls-part-1.json](./33569-true-fear-forsaken-souls-part-1.json) |
 | True Fear: Forsaken Souls - Part 3 | 217625 | [217625-true-fear-forsaken-souls-part-3.json](./217625-true-fear-forsaken-souls-part-3.json) |
 | True Fear: Forsaken Souls Part 2 | 111276 | [111276-true-fear-forsaken-souls-part-2.json](./111276-true-fear-forsaken-souls-part-2.json) |
+| True Fear: Forsaken Souls Trilogy | 401349 | [401349-true-fear-forsaken-souls-trilogy.json](./401349-true-fear-forsaken-souls-trilogy.json) |
 | True Fishing 2 | 396750 | [396750-true-fishing-2.json](./396750-true-fishing-2.json) |
 | True Fortune | 200842 | [200842-true-fortune.json](./200842-true-fortune.json) |
 | True Galactic Mission | 381669 | [381669-true-galactic-mission.json](./381669-true-galactic-mission.json) |
