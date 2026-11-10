@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -4850,6 +4851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bauhaus Bonk | 314394 | [314394-bauhaus-bonk.json](./314394-bauhaus-bonk.json) |
 | BaulaQuest | 392231 | [392231-baulaquest.json](./392231-baulaquest.json) |
 | Baumaschinen: Die Simulation | 136378 | [136378-baumaschinen-die-simulation.json](./136378-baumaschinen-die-simulation.json) |
+| Bauns | 397437 | [397437-bauns.json](./397437-bauns.json) |
 | Baunsudaun | 257530 | [257530-baunsudaun.json](./257530-baunsudaun.json) |
 | Bavity | 188919 | [188919-bavity.json](./188919-bavity.json) |
 | Bavovna included! | 226255 | [226255-bavovna-included.json](./226255-bavovna-included.json) |
@@ -16237,6 +16239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breeders of the Nephelym: Alpha | 122800 | [122800-breeders-of-the-nephelym-alpha.json](./122800-breeders-of-the-nephelym-alpha.json) |
 | Breeders' Cup World Thoroughbred Championships | 47339 | [47339-breeders-cup-world-thoroughbred-championships.json](./47339-breeders-cup-world-thoroughbred-championships.json) |
 | Breeding City Welcomes you | 383916 | [383916-breeding-city-welcomes-you.json](./383916-breeding-city-welcomes-you.json) |
+| Breeding Grounds | 397451 | [397451-breeding-grounds.json](./397451-breeding-grounds.json) |
 | Breekha | 278274 | [278274-breekha.json](./278274-breekha.json) |
 | Breenstein | 252103 | [252103-breenstein.json](./252103-breenstein.json) |
 | Breeza Budgie Bill | 122608 | [122608-breeza-budgie-bill.json](./122608-breeza-budgie-bill.json) |
@@ -17389,6 +17392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Battle | 333378 | [333378-bubble-battle.json](./333378-bubble-battle.json) |
 | Bubble Battle Blast 3D | 333051 | [333051-bubble-battle-blast-3d.json](./333051-bubble-battle-blast-3d.json) |
 | Bubble Beacon | 183719 | [183719-bubble-beacon.json](./183719-bubble-beacon.json) |
+| Bubble Bees | 397430 | [397430-bubble-bees.json](./397430-bubble-bees.json) |
 | Bubble Bird | 250395 | [250395-bubble-bird.json](./250395-bubble-bird.json) |
 | Bubble Bird 2018 | 106783 | [106783-bubble-bird-2018.json](./106783-bubble-bird-2018.json) |
 | Bubble Blast | 304262 | [304262-bubble-blast.json](./304262-bubble-blast.json) |
@@ -18395,6 +18399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulwark: Falconeer Chronicles - Berracutta | 351178 | [351178-bulwark-falconeer-chronicles-berracutta.json](./351178-bulwark-falconeer-chronicles-berracutta.json) |
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
 | Bulwark: Falconeer Chronicles - Trade, Dispute and Splinters update | 299607 | [299607-bulwark-falconeer-chronicles-trade-dispute-and-splinters-update.json](./299607-bulwark-falconeer-chronicles-trade-dispute-and-splinters-update.json) |
+| Bum Bum Koala | 397432 | [397432-bum-bum-koala.json](./397432-bum-bum-koala.json) |
 | Bum Bum Monsterz | 258511 | [258511-bum-bum-monsterz.json](./258511-bum-bum-monsterz.json) |
 | Bum Simulator VR | 201513 | [201513-bum-simulator-vr.json](./201513-bum-simulator-vr.json) |
 | Bum: Revenge | 348507 | [348507-bum-revenge.json](./348507-bum-revenge.json) |
