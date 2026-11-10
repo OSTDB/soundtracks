@@ -3618,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lenin Simulator | 195180 | [195180-lenin-simulator.json](./195180-lenin-simulator.json) |
 | Lenin Street Geek Shop | 338685 | [338685-lenin-street-geek-shop.json](./338685-lenin-street-geek-shop.json) |
 | Leningrad | 188430 | [188430-leningrad.json](./188430-leningrad.json) |
+| Lenna's Inception | 62383 | [62383-lennas-inception.json](./62383-lennas-inception.json) |
 | Lennod Jump Game | 384542 | [384542-lennod-jump-game.json](./384542-lennod-jump-game.json) |
 | Lennus II: Fuuin no Shito | 38376 | [38376-lennus-ii-fuuin-no-shito.json](./38376-lennus-ii-fuuin-no-shito.json) |
 | Lenny Loosejocks Goes Snowboarding | 407924 | [407924-lenny-loosejocks-goes-snowboarding.json](./407924-lenny-loosejocks-goes-snowboarding.json) |
