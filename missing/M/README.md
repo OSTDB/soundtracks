@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Alive | 68686 | [68686-mafia-alive.json](./68686-mafia-alive.json) |
 | Mafia Business Simulator | 394480 | [394480-mafia-business-simulator.json](./394480-mafia-business-simulator.json) |
 | Mafia Chess | 270999 | [270999-mafia-chess.json](./270999-mafia-chess.json) |
+| Mafia City: War of Underworld | 87354 | [87354-mafia-city-war-of-underworld.json](./87354-mafia-city-war-of-underworld.json) |
 | Mafia Clicker | 241956 | [241956-mafia-clicker.json](./241956-mafia-clicker.json) |
 | Mafia Esper | 219970 | [219970-mafia-esper.json](./219970-mafia-esper.json) |
 | Mafia Gambling | 89266 | [89266-mafia-gambling.json](./89266-mafia-gambling.json) |
@@ -3721,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March! March! | 173197 | [173197-march-march.json](./173197-march-march.json) |
 | March! Offworld Recon | 92318 | [92318-march-offworld-recon.json](./92318-march-offworld-recon.json) |
 | Märchen Forest | 181313 | [181313-marchen-forest.json](./181313-marchen-forest.json) |
+| Märchen Forest: Mylne and the Forest Gift | 99425 | [99425-marchen-forest-mylne-and-the-forest-gift.json](./99425-marchen-forest-mylne-and-the-forest-gift.json) |
 | Märchen Forest: Mylne and the Forest Gift - Limited Edition | 167095 | [167095-marchen-forest-mylne-and-the-forest-gift-limited-edition.json](./167095-marchen-forest-mylne-and-the-forest-gift-limited-edition.json) |
 | Märchen Line | 318499 | [318499-marchen-line.json](./318499-marchen-line.json) |
 | Märchen Maze | 212861 | [212861-marchen-maze.json](./212861-marchen-maze.json) |
@@ -16392,6 +16394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Craft 2 | 102262 | [102262-monster-craft-2.json](./102262-monster-craft-2.json) |
 | Monster Crawl | 223210 | [223210-monster-crawl.json](./223210-monster-crawl.json) |
 | Monster Create | 356009 | [356009-monster-create.json](./356009-monster-create.json) |
+| Monster Crown | 95616 | [95616-monster-crown.json](./95616-monster-crown.json) |
 | Monster Crown: Sin Eater | 327715 | [327715-monster-crown-sin-eater.json](./327715-monster-crown-sin-eater.json) |
 | Monster Crush - C4 Demolition Edition | 117429 | [117429-monster-crush-c4-demolition-edition.json](./117429-monster-crush-c4-demolition-edition.json) |
 | Monster Cube | 223357 | [223357-monster-cube.json](./223357-monster-cube.json) |
@@ -19831,6 +19834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudang: Two Hearts | 348199 | [348199-mudang-two-hearts.json](./348199-mudang-two-hearts.json) |
 | Mudbird | 335272 | [335272-mudbird.json](./335272-mudbird.json) |
 | Mudborne | 242538 | [242538-mudborne.json](./242538-mudborne.json) |
+| Muddledash | 89073 | [89073-muddledash.json](./89073-muddledash.json) |
 | Muddy Heights | 223678 | [223678-muddy-heights.json](./223678-muddy-heights.json) |
 | Muddy Heights 2 | 32939 | [32939-muddy-heights-2.json](./32939-muddy-heights-2.json) |
 | Muddy Water | 171252 | [171252-muddy-water.json](./171252-muddy-water.json) |
