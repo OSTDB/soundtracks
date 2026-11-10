@@ -6443,6 +6443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter War 1939 | 149187 | [149187-winter-war-1939.json](./149187-winter-war-1939.json) |
 | Winter Warfare: Survival | 173960 | [173960-winter-warfare-survival.json](./173960-winter-warfare-survival.json) |
 | Winter Wastelands | 166849 | [166849-winter-wastelands.json](./166849-winter-wastelands.json) |
+| Winter Whiskers | 402599 | [402599-winter-whiskers.json](./402599-winter-whiskers.json) |
 | Winter Winds | 307886 | [307886-winter-winds.json](./307886-winter-winds.json) |
 | Winter Witch | 359022 | [359022-winter-witch.json](./359022-winter-witch.json) |
 | Winter With You | 188108 | [188108-winter-with-you.json](./188108-winter-with-you.json) |
@@ -10053,6 +10054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wyrmicide | 255183 | [255183-wyrmicide.json](./255183-wyrmicide.json) |
 | Wyrmicide: Tombstone Die | 256124 | [256124-wyrmicide-tombstone-die.json](./256124-wyrmicide-tombstone-die.json) |
 | Wyrmspace Tactics | 380963 | [380963-wyrmspace-tactics.json](./380963-wyrmspace-tactics.json) |
+| Wyrmspan | 402644 | [402644-wyrmspan.json](./402644-wyrmspan.json) |
 | Wyrmstooth | 313267 | [313267-wyrmstooth.json](./313267-wyrmstooth.json) |
 | Wyrmsun | 28362 | [28362-wyrmsun.json](./28362-wyrmsun.json) |
 | Wyrmsun: Brising Faction Flair Pack | 224390 | [224390-wyrmsun-brising-faction-flair-pack.json](./224390-wyrmsun-brising-faction-flair-pack.json) |
