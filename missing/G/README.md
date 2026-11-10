@@ -7357,6 +7357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Girls: Angels With Dirty Intentions | 399638 | [399638-good-girls-angels-with-dirty-intentions.json](./399638-good-girls-angels-with-dirty-intentions.json) |
 | Good Girls: Seduction Starts With a Smile | 406066 | [406066-good-girls-seduction-starts-with-a-smile.json](./406066-good-girls-seduction-starts-with-a-smile.json) |
 | Good Girls: Sweet Faces | 405909 | [405909-good-girls-sweet-faces.json](./405909-good-girls-sweet-faces.json) |
+| Good Girls: Temptation in Disguise | 402006 | [402006-good-girls-temptation-in-disguise.json](./402006-good-girls-temptation-in-disguise.json) |
 | Good God! | 400882 | [400882-good-god.json](./400882-good-god.json) |
 | Good Goliath | 132187 | [132187-good-goliath.json](./132187-good-goliath.json) |
 | Good Goods Incorporated | 129437 | [129437-good-goods-incorporated.json](./129437-good-goods-incorporated.json) |
@@ -7795,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossamer Matrix | 211722 | [211722-gossamer-matrix.json](./211722-gossamer-matrix.json) |
 | Gossip | 320635 | [320635-gossip.json](./320635-gossip.json) |
 | Gossip | 384758 | [384758-gossip.json](./384758-gossip.json) |
+| Gossip | 401988 | [401988-gossip.json](./401988-gossip.json) |
 | Gossip & Potions: Tales from the Witch Shop | 276669 | [276669-gossip-and-potions-tales-from-the-witch-shop.json](./276669-gossip-and-potions-tales-from-the-witch-shop.json) |
 | Gossip Girl - School Queen | 87480 | [87480-gossip-girl-school-queen.json](./87480-gossip-girl-school-queen.json) |
 | Gossip Girl: Party | 238903 | [238903-gossip-girl-party.json](./238903-gossip-girl-party.json) |
@@ -9213,6 +9215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Cause of the Three Kingdoms | 81074 | [81074-great-cause-of-the-three-kingdoms.json](./81074-great-cause-of-the-three-kingdoms.json) |
 | Great Clips 500 | 85935 | [85935-great-clips-500.json](./85935-great-clips-500.json) |
 | Great Conqueror: Rome | 146681 | [146681-great-conqueror-rome.json](./146681-great-conqueror-rome.json) |
+| Great Day On The Lake | 401958 | [401958-great-day-on-the-lake.json](./401958-great-day-on-the-lake.json) |
 | Great Deal | 267653 | [267653-great-deal.json](./267653-great-deal.json) |
 | Great Eggzample | 68751 | [68751-great-eggzample.json](./68751-great-eggzample.json) |
 | Great Escape | 24454 | [24454-great-escape.json](./24454-great-escape.json) |
