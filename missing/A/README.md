@@ -9975,6 +9975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andes Attack | 290265 | [290265-andes-attack.json](./290265-andes-attack.json) |
 | Andi-Land | 84203 | [84203-andi-land.json](./84203-andi-land.json) |
 | Andi's Moving Company | 182139 | [182139-andis-moving-company.json](./182139-andis-moving-company.json) |
+| Ando Tale | 411940 | [411940-ando-tale.json](./411940-ando-tale.json) |
 | Andon | 401287 | [401287-andon.json](./401287-andon.json) |
 | Andor's Trail | 207864 | [207864-andors-trail.json](./207864-andors-trail.json) |
 | Andoran Skye XD | 30385 | [30385-andoran-skye-xd.json](./30385-andoran-skye-xd.json) |
@@ -11745,6 +11746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anti Terrorist Rush 2 | 116342 | [116342-anti-terrorist-rush-2.json](./116342-anti-terrorist-rush-2.json) |
 | Anti Terrorist Shooting Game | 400654 | [400654-anti-terrorist-shooting-game.json](./400654-anti-terrorist-shooting-game.json) |
 | Anti V Reboot | 357805 | [357805-anti-v-reboot.json](./357805-anti-v-reboot.json) |
+| Anti-Anti | 411924 | [411924-anti-anti.json](./411924-anti-anti.json) |
 | Anti-Ballistic-Missile | 145245 | [145245-anti-ballistic-missile.json](./145245-anti-ballistic-missile.json) |
 | Anti-Bully Adventure | 239454 | [239454-anti-bully-adventure.json](./239454-anti-bully-adventure.json) |
 | Anti-Cast | 58010 | [58010-anti-cast.json](./58010-anti-cast.json) |
@@ -12973,6 +12975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Vector | 126409 | [126409-arc-vector.json](./126409-arc-vector.json) |
 | Arc Wizards 2 | 149893 | [149893-arc-wizards-2.json](./149893-arc-wizards-2.json) |
 | Arc Wizards 3 | 157426 | [157426-arc-wizards-3.json](./157426-arc-wizards-3.json) |
+| Arc-en-ciel no Majuu | 411897 | [411897-arc-en-ciel-no-majuu.json](./411897-arc-en-ciel-no-majuu.json) |
 | ARC: Antic Runes Combat | 294277 | [294277-arc-antic-runes-combat.json](./294277-arc-antic-runes-combat.json) |
 | Arc’s Glitch Defender | 362391 | [362391-arc-s-glitch-defender.json](./362391-arc-s-glitch-defender.json) |
 | Arca | 349045 | [349045-arca.json](./349045-arca.json) |
@@ -14887,6 +14890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core 3 | 19414 | [19414-armored-core-3.json](./19414-armored-core-3.json) |
 | Armored Core 3 Portable | 38453 | [38453-armored-core-3-portable.json](./38453-armored-core-3-portable.json) |
 | Armored Core 4 | 5491 | [5491-armored-core-4.json](./5491-armored-core-4.json) |
+| Armored Core Mobile 4 | 411899 | [411899-armored-core-mobile-4.json](./411899-armored-core-mobile-4.json) |
 | Armored Core VI Fires of Rubicon: Deluxe Edition | 263511 | [263511-armored-core-vi-fires-of-rubicon-deluxe-edition.json](./263511-armored-core-vi-fires-of-rubicon-deluxe-edition.json) |
 | Armored Core VI: Fires of Rubicon | 228542 | [228542-armored-core-vi-fires-of-rubicon.json](./228542-armored-core-vi-fires-of-rubicon.json) |
 | Armored Core VI: Fires of Rubicon - Collector's Edition | 249258 | [249258-armored-core-vi-fires-of-rubicon-collectors-edition.json](./249258-armored-core-vi-fires-of-rubicon-collectors-edition.json) |
