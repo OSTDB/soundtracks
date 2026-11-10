@@ -5105,6 +5105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Moon Girl and Devil Dinosaur: Moon Girl Moxie! | 306670 | [306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json](./306670-marvels-moon-girl-and-devil-dinosaur-moon-girl-moxie.json) |
 | Marvel's Spider-Man 2: Collector's Edition | 272315 | [272315-marvels-spider-man-2-collectors-edition.json](./272315-marvels-spider-man-2-collectors-edition.json) |
 | Marvel's Spider-Man 2: Digital Deluxe Edition | 272508 | [272508-marvels-spider-man-2-digital-deluxe-edition.json](./272508-marvels-spider-man-2-digital-deluxe-edition.json) |
+| Marvel's Spider-Man 2: Fresh Start Suit and Marvel Tokon: Fighting Souls Suit | 407037 | [407037-marvels-spider-man-2-fresh-start-suit-and-marvel-tokon-fighting-souls-suit.json](./407037-marvels-spider-man-2-fresh-start-suit-and-marvel-tokon-fighting-souls-suit.json) |
 | Marvel's Spider-Man 2: Launch Edition | 254219 | [254219-marvels-spider-man-2-launch-edition.json](./254219-marvels-spider-man-2-launch-edition.json) |
 | Marvel's Spider-Man 2: New Game Plus Update | 307176 | [307176-marvels-spider-man-2-new-game-plus-update.json](./307176-marvels-spider-man-2-new-game-plus-update.json) |
 | Marvel's Spider-Man Digital Deluxe Edition | 343953 | [343953-marvels-spider-man-digital-deluxe-edition.json](./343953-marvels-spider-man-digital-deluxe-edition.json) |
@@ -7134,6 +7135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanical Dynasty | 393973 | [393973-mechanical-dynasty.json](./393973-mechanical-dynasty.json) |
 | Mechanical Fury | 250702 | [250702-mechanical-fury.json](./250702-mechanical-fury.json) |
 | Mechanical Gods | 245881 | [245881-mechanical-gods.json](./245881-mechanical-gods.json) |
+| Mechanical Granny | 406998 | [406998-mechanical-granny.json](./406998-mechanical-granny.json) |
 | Mechanical Growth | 260189 | [260189-mechanical-growth.json](./260189-mechanical-growth.json) |
 | Mechanical Lab | 278262 | [278262-mechanical-lab.json](./278262-mechanical-lab.json) |
 | Mechanical Mayhem | 356346 | [356346-mechanical-mayhem.json](./356346-mechanical-mayhem.json) |
@@ -12717,6 +12719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Hunt | 220444 | [220444-mind-hunt.json](./220444-mind-hunt.json) |
 | Mind if I drop in? | 176288 | [176288-mind-if-i-drop-in.json](./176288-mind-if-i-drop-in.json) |
 | Mind In Despair | 231917 | [231917-mind-in-despair.json](./231917-mind-in-despair.json) |
+| Mind Inc | 407021 | [407021-mind-inc.json](./407021-mind-inc.json) |
 | Mind Jab | 227846 | [227846-mind-jab.json](./227846-mind-jab.json) |
 | Mind Keeper | 296974 | [296974-mind-keeper.json](./296974-mind-keeper.json) |
 | Mind Labyrinth | 85291 | [85291-mind-labyrinth.json](./85291-mind-labyrinth.json) |
