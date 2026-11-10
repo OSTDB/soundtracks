@@ -12036,6 +12036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blop, Your Virtual Buddy | 355967 | [355967-blop-your-virtual-buddy.json](./355967-blop-your-virtual-buddy.json) |
 | Blopper | 287236 | [287236-blopper.json](./287236-blopper.json) |
 | Blopy Ventures N0 | 413160 | [413160-blopy-ventures-n0.json](./413160-blopy-ventures-n0.json) |
+| Blorbit | 427842 | [427842-blorbit.json](./427842-blorbit.json) |
 | Blorks: The Quest for Magnesium | 149561 | [149561-blorks-the-quest-for-magnesium.json](./149561-blorks-the-quest-for-magnesium.json) |
 | Blortasia | 32178 | [32178-blortasia.json](./32178-blortasia.json) |
 | BlosamAO | 151170 | [151170-blosamao.json](./151170-blosamao.json) |
@@ -13529,6 +13530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk the Ball! | 181602 | [181602-bonk-the-ball.json](./181602-bonk-the-ball.json) |
 | Bonk The Goblins! | 325232 | [325232-bonk-the-goblins.json](./325232-bonk-the-goblins.json) |
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
+| Bonk-A-Donk | 427811 | [427811-bonk-a-donk.json](./427811-bonk-a-donk.json) |
 | Bonk: Brink of Extinction | 51632 | [51632-bonk-brink-of-extinction.json](./51632-bonk-brink-of-extinction.json) |
 | Bonk! | 328554 | [328554-bonk.json](./328554-bonk.json) |
 | Bonk.io | 57077 | [57077-bonk-io.json](./57077-bonk-io.json) |
@@ -16190,6 +16192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick | 356655 | [356655-brick.json](./356655-brick.json) |
 | Brick | 416129 | [416129-brick.json](./416129-brick.json) |
 | Brick | 92294 | [92294-brick.json](./92294-brick.json) |
+| Brick 2: Rags 2 Riches | 427827 | [427827-brick-2-rags-2-riches.json](./427827-brick-2-rags-2-riches.json) |
 | Brick Bat Crazy | 147576 | [147576-brick-bat-crazy.json](./147576-brick-bat-crazy.json) |
 | Brick Battalion | 32208 | [32208-brick-battalion.json](./32208-brick-battalion.json) |
 | Brick BiuBiu | 154924 | [154924-brick-biubiu.json](./154924-brick-biubiu.json) |
@@ -16517,6 +16520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brighter Days | 391187 | [391187-brighter-days.json](./391187-brighter-days.json) |
 | Brighter Shores | 291334 | [291334-brighter-shores.json](./291334-brighter-shores.json) |
 | Brighter Than Burning | 334300 | [334300-brighter-than-burning.json](./334300-brighter-than-burning.json) |
+| Brighter Tomorrow | 427831 | [427831-brighter-tomorrow.json](./427831-brighter-tomorrow.json) |
 | Brightest | 82353 | [82353-brightest.json](./82353-brightest.json) |
 | Brightest Star | 369621 | [369621-brightest-star.json](./369621-brightest-star.json) |
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
