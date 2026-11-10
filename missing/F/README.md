@@ -5407,6 +5407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: Echoes of a Fallen Star | 221544 | [221544-final-fantasy-xiv-echoes-of-a-fallen-star.json](./221544-final-fantasy-xiv-echoes-of-a-fallen-star.json) |
 | Final Fantasy XIV: Endwalker | 143232 | [143232-final-fantasy-xiv-endwalker.json](./143232-final-fantasy-xiv-endwalker.json) |
 | Final Fantasy XIV: Endwalker - Collector's Edition | 152343 | [152343-final-fantasy-xiv-endwalker-collectors-edition.json](./152343-final-fantasy-xiv-endwalker-collectors-edition.json) |
+| Final Fantasy XIV: Evercold | 399337 | [399337-final-fantasy-xiv-evercold.json](./399337-final-fantasy-xiv-evercold.json) |
 | Final Fantasy XIV: Futures Rewritten | 221546 | [221546-final-fantasy-xiv-futures-rewritten.json](./221546-final-fantasy-xiv-futures-rewritten.json) |
 | Final Fantasy XIV: Gods Revel, Lands Tremble | 228886 | [228886-final-fantasy-xiv-gods-revel-lands-tremble.json](./228886-final-fantasy-xiv-gods-revel-lands-tremble.json) |
 | Final Fantasy XIV: Growing Light | 259399 | [259399-final-fantasy-xiv-growing-light.json](./259399-final-fantasy-xiv-growing-light.json) |
@@ -5723,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find it! Mr. Pict of the Emergency Exit | 222229 | [222229-find-it-mr-pict-of-the-emergency-exit.json](./222229-find-it-mr-pict-of-the-emergency-exit.json) |
 | Find It! World Heritage Adventure | 376235 | [376235-find-it-world-heritage-adventure.json](./376235-find-it-world-heritage-adventure.json) |
 | Find Kittens 10: Valentines Day | 389710 | [389710-find-kittens-10-valentines-day.json](./389710-find-kittens-10-valentines-day.json) |
+| Find Kittens 11: Dollhouse | 399546 | [399546-find-kittens-11-dollhouse.json](./399546-find-kittens-11-dollhouse.json) |
 | Find Kittens 2: Crafts | 324237 | [324237-find-kittens-2-crafts.json](./324237-find-kittens-2-crafts.json) |
 | Find Kittens 3: Steampunk | 337519 | [337519-find-kittens-3-steampunk.json](./337519-find-kittens-3-steampunk.json) |
 | Find Kittens 4: Aetherpunk | 358948 | [358948-find-kittens-4-aetherpunk.json](./358948-find-kittens-4-aetherpunk.json) |
