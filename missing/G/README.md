@@ -5666,6 +5666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes Vs. Fairies | 34349 | [34349-gnomes-vs-fairies.json](./34349-gnomes-vs-fairies.json) |
 | Gnomes Vs. Fairies: Greckel's Quest | 53078 | [53078-gnomes-vs-fairies-greckels-quest.json](./53078-gnomes-vs-fairies-greckels-quest.json) |
 | Gnomes vs. Knights | 310272 | [310272-gnomes-vs-knights.json](./310272-gnomes-vs-knights.json) |
+| Gnomes vs. Knights | 424878 | [424878-gnomes-vs-knights.json](./424878-gnomes-vs-knights.json) |
 | Gnomesplosion! | 420798 | [420798-gnomesplosion.json](./420798-gnomesplosion.json) |
 | Gnomic | 93469 | [93469-gnomic.json](./93469-gnomic.json) |
 | Gnomich | 340312 | [340312-gnomich.json](./340312-gnomich.json) |
@@ -10813,6 +10814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess Picture | 165151 | [165151-guess-picture.json](./165151-guess-picture.json) |
 | Guess Pictures: Animals | 367685 | [367685-guess-pictures-animals.json](./367685-guess-pictures-animals.json) |
 | Guess Pony Cartoon | 202387 | [202387-guess-pony-cartoon.json](./202387-guess-pony-cartoon.json) |
+| Guess the Ace Attorney OST | 424843 | [424843-guess-the-ace-attorney-ost.json](./424843-guess-the-ace-attorney-ost.json) |
 | Guess the Animal | 89019 | [89019-guess-the-animal.json](./89019-guess-the-animal.json) |
 | Guess the Celebrity | 232069 | [232069-guess-the-celebrity.json](./232069-guess-the-celebrity.json) |
 | Guess the Character! | 99977 | [99977-guess-the-character.json](./99977-guess-the-character.json) |
