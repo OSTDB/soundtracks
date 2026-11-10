@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-Pop Idol Stories: Road to Debut | 212197 | [212197-k-pop-idol-stories-road-to-debut.json](./212197-k-pop-idol-stories-road-to-debut.json) |
 | K-pop Idols Dating: Anime Love for B.SeveT | 334098 | [334098-k-pop-idols-dating-anime-love-for-b-sevet.json](./334098-k-pop-idols-dating-anime-love-for-b-sevet.json) |
 | K-pop Idols Dating: Anime Love for PinkOrbil T. | 335009 | [335009-k-pop-idols-dating-anime-love-for-pinkorbil-t.json](./335009-k-pop-idols-dating-anime-love-for-pinkorbil-t.json) |
+| K-Pop Karaoke Party | 413952 | [413952-k-pop-karaoke-party.json](./413952-k-pop-karaoke-party.json) |
 | K-Pop Rising: Dream to Shine | 408838 | [408838-k-pop-rising-dream-to-shine.json](./408838-k-pop-rising-dream-to-shine.json) |
 | K-Pop VR | 76441 | [76441-k-pop-vr.json](./76441-k-pop-vr.json) |
 | K-Pop! | 309741 | [309741-k-pop.json](./309741-k-pop.json) |
@@ -804,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo ha Boku ni Kietehoshii | 221588 | [221588-kanojo-ha-boku-ni-kietehoshii.json](./221588-kanojo-ha-boku-ni-kietehoshii.json) |
 | Kanojo ha Ira-ira Jirai Girl | 251613 | [251613-kanojo-ha-ira-ira-jirai-girl.json](./251613-kanojo-ha-ira-ira-jirai-girl.json) |
 | Kanojo ha Sensei no Model | 97697 | [97697-kanojo-ha-sensei-no-model.json](./97697-kanojo-ha-sensei-no-model.json) |
+| Kanojo no Imouto no Azato Yuuwaku: Junai Nante Gomi desu yo Senpai | 414276 | [414276-kanojo-no-imouto-no-azato-yuuwaku-junai-nante-gomi-desu-yo-senpai.json](./414276-kanojo-no-imouto-no-azato-yuuwaku-junai-nante-gomi-desu-yo-senpai.json) |
 | Kanojo no Negau Koto. Boku no Omou Koto | 112528 | [112528-kanojo-no-negau-koto-boku-no-omou-koto.json](./112528-kanojo-no-negau-koto-boku-no-omou-koto.json) |
 | Kanojo no Seiiki | 59879 | [59879-kanojo-no-seiiki.json](./59879-kanojo-no-seiiki.json) |
 | Kanojo to Ore no Koisome Dousei | 402722 | [402722-kanojo-to-ore-no-koisome-dousei.json](./402722-kanojo-to-ore-no-koisome-dousei.json) |
@@ -2950,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5779,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korovany | 345997 | [345997-korovany.json](./345997-korovany.json) |
 | Korpus: Buried over the Black Soil | 129233 | [129233-korpus-buried-over-the-black-soil.json](./129233-korpus-buried-over-the-black-soil.json) |
 | Korridor | 369386 | [369386-korridor.json](./369386-korridor.json) |
+| KorrPadel | 413999 | [413999-korrpadel.json](./413999-korrpadel.json) |
 | Korsakovia | 182380 | [182380-korsakovia.json](./182380-korsakovia.json) |
 | Korsaros Online | 418098 | [418098-korsaros-online.json](./418098-korsaros-online.json) |
 | Korter 1996 | 320714 | [320714-korter-1996.json](./320714-korter-1996.json) |
