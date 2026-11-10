@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -13326,6 +13327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombergrounds: Reborn | 120852 | [120852-bombergrounds-reborn.json](./120852-bombergrounds-reborn.json) |
 | BomberGuys | 191449 | [191449-bomberguys.json](./191449-bomberguys.json) |
 | BomberHit | 303066 | [303066-bomberhit.json](./303066-bomberhit.json) |
+| Bomberic | 399534 | [399534-bomberic.json](./399534-bomberic.json) |
 | Bomberic 2 | 91561 | [91561-bomberic-2.json](./91561-bomberic-2.json) |
 | Bomberland | 179150 | [179150-bomberland.json](./179150-bomberland.json) |
 | Bomberman | 129853 | [129853-bomberman.json](./129853-bomberman.json) |
