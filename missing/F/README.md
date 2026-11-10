@@ -3454,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Singularity V - E Pluribus Unum | 417399 | [417399-fate-grand-order-singularity-v-e-pluribus-unum.json](./417399-fate-grand-order-singularity-v-e-pluribus-unum.json) |
 | Fate/Grand Order: Singularity VI - Camelot | 417421 | [417421-fate-grand-order-singularity-vi-camelot.json](./417421-fate-grand-order-singularity-vi-camelot.json) |
 | Fate/Grand Order: Spiral Proof World - Lilim Harlot | 419173 | [419173-fate-grand-order-spiral-proof-world-lilim-harlot.json](./419173-fate-grand-order-spiral-proof-world-lilim-harlot.json) |
+| Fate/Grand Order: Summer Celeb Experience! | 418687 | [418687-fate-grand-order-summer-celeb-experience.json](./418687-fate-grand-order-summer-celeb-experience.json) |
 | Fate/Grand Order: Tokugawa Restoration Labyrinth - Ooku | 413488 | [413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json](./413488-fate-grand-order-tokugawa-restoration-labyrinth-ooku.json) |
 | Fate/Grand Order: Vengeful Demon's Wail at the Prison Tower | 418739 | [418739-fate-grand-order-vengeful-demons-wail-at-the-prison-tower.json](./418739-fate-grand-order-vengeful-demons-wail-at-the-prison-tower.json) |
 | Fate/Hollow Ataraxia | 12329 | [12329-fate-hollow-ataraxia.json](./12329-fate-hollow-ataraxia.json) |
@@ -5050,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fillit | 151077 | [151077-fillit.json](./151077-fillit.json) |
 | Fillit the Abstract Strategy | 349902 | [349902-fillit-the-abstract-strategy.json](./349902-fillit-the-abstract-strategy.json) |
 | Fillo | 416983 | [416983-fillo.json](./416983-fillo.json) |
+| Filltopia | 418677 | [418677-filltopia.json](./418677-filltopia.json) |
 | Filluminate | 401768 | [401768-filluminate.json](./401768-filluminate.json) |
 | Fillup Fridge | 208842 | [208842-fillup-fridge.json](./208842-fillup-fridge.json) |
 | FillWords | 398947 | [398947-fillwords.json](./398947-fillwords.json) |
