@@ -5103,6 +5103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightGone | 294374 | [294374-lightgone.json](./294374-lightgone.json) |
 | Lighthaze World | 197264 | [197264-lighthaze-world.json](./197264-lighthaze-world.json) |
 | Lighthockey | 34352 | [34352-lighthockey.json](./34352-lighthockey.json) |
+| Lighthold: Keep the Light | 427289 | [427289-lighthold-keep-the-light.json](./427289-lighthold-keep-the-light.json) |
 | Lighthoof | 271000 | [271000-lighthoof.json](./271000-lighthoof.json) |
 | Lighthouse | 262307 | [262307-lighthouse.json](./262307-lighthouse.json) |
 | Lighthouse | 267450 | [267450-lighthouse.json](./267450-lighthouse.json) |
@@ -7234,6 +7235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Witch Hatch | 407096 | [407096-lofi-witch-hatch.json](./407096-lofi-witch-hatch.json) |
 | Lofi Witch Hatch: Deluxe Edition | 409972 | [409972-lofi-witch-hatch-deluxe-edition.json](./409972-lofi-witch-hatch-deluxe-edition.json) |
 | Lofi: A Year to Fulfill my Dream.mp3 | 214260 | [214260-lofi-a-year-to-fulfill-my-dream-mp3.json](./214260-lofi-a-year-to-fulfill-my-dream-mp3.json) |
+| LofiDrop | 427283 | [427283-lofidrop.json](./427283-lofidrop.json) |
 | Lofirunner | 332844 | [332844-lofirunner.json](./332844-lofirunner.json) |
 | Loft is in the air | 315798 | [315798-loft-is-in-the-air.json](./315798-loft-is-in-the-air.json) |
 | Loftia | 252774 | [252774-loftia.json](./252774-loftia.json) |
@@ -10129,6 +10131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumiere | 415100 | [415100-lumiere.json](./415100-lumiere.json) |
 | LumiereMagna | 251925 | [251925-lumieremagna.json](./251925-lumieremagna.json) |
 | Lumiette | 123151 | [123151-lumiette.json](./123151-lumiette.json) |
+| Lumiflip | 427293 | [427293-lumiflip.json](./427293-lumiflip.json) |
 | Lumiland | 166726 | [166726-lumiland.json](./166726-lumiland.json) |
 | Lumilight: The Fifth Energy | 350555 | [350555-lumilight-the-fifth-energy.json](./350555-lumilight-the-fifth-energy.json) |
 | Lumin: Echo of Spacetime | 423885 | [423885-lumin-echo-of-spacetime.json](./423885-lumin-echo-of-spacetime.json) |
@@ -10590,6 +10593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful Tribe | 153038 | [153038-lustful-tribe.json](./153038-lustful-tribe.json) |
 | Lustless | 241251 | [241251-lustless.json](./241251-lustless.json) |
 | Lustra: Lachea’s Tale | 346790 | [346790-lustra-lachea-s-tale.json](./346790-lustra-lachea-s-tale.json) |
+| Lustration: A Detective Story | 427288 | [427288-lustration-a-detective-story.json](./427288-lustration-a-detective-story.json) |
 | Lustrous Heart | 298994 | [298994-lustrous-heart.json](./298994-lustrous-heart.json) |
 | Lustrous Spirit | 269157 | [269157-lustrous-spirit.json](./269157-lustrous-spirit.json) |
 | Lusty Bubbles: Animated Edition | 395845 | [395845-lusty-bubbles-animated-edition.json](./395845-lusty-bubbles-animated-edition.json) |
