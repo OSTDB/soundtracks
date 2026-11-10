@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Day: The Beginning of the End | 12417 | [12417-d-day-the-beginning-of-the-end.json](./12417-d-day-the-beginning-of-the-end.json) |
 | D-Drift | 389821 | [389821-d-drift.json](./389821-d-drift.json) |
 | D-Eve in You | 396947 | [396947-d-eve-in-you.json](./396947-d-eve-in-you.json) |
+| D-Evo | 398932 | [398932-d-evo.json](./398932-d-evo.json) |
 | D-Extinction | 405809 | [405809-d-extinction.json](./405809-d-extinction.json) |
 | D-Force | 42731 | [42731-d-force.json](./42731-d-force.json) |
 | D-Hospital | 301866 | [301866-d-hospital.json](./301866-d-hospital.json) |
@@ -7877,6 +7878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolation | 246009 | [246009-desolation.json](./246009-desolation.json) |
 | Desolation | 284364 | [284364-desolation.json](./284364-desolation.json) |
 | Desolation | 84070 | [84070-desolation.json](./84070-desolation.json) |
+| Desolation Arcanist | 398700 | [398700-desolation-arcanist.json](./398700-desolation-arcanist.json) |
 | Desolation Escape | 315672 | [315672-desolation-escape.json](./315672-desolation-escape.json) |
 | Desolation Seed | 183301 | [183301-desolation-seed.json](./183301-desolation-seed.json) |
 | Desolation Tycoon | 169361 | [169361-desolation-tycoon.json](./169361-desolation-tycoon.json) |
@@ -13364,6 +13366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Shoot Yourself! | 36152 | [36152-dont-shoot-yourself.json](./36152-dont-shoot-yourself.json) |
 | Don't Shout Together | 276238 | [276238-dont-shout-together.json](./276238-dont-shout-together.json) |
 | Don't Sink | 75173 | [75173-dont-sink.json](./75173-dont-sink.json) |
+| Don't Skip The Beat | 398706 | [398706-dont-skip-the-beat.json](./398706-dont-skip-the-beat.json) |
 | Don't Sleep | 343400 | [343400-dont-sleep.json](./343400-dont-sleep.json) |
 | Don’t Sleep with the Fishes | 403674 | [403674-don-t-sleep-with-the-fishes.json](./403674-don-t-sleep-with-the-fishes.json) |
 | Don't Sleep: Hard Mode | 375539 | [375539-dont-sleep-hard-mode.json](./375539-dont-sleep-hard-mode.json) |
