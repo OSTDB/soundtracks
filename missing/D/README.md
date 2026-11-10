@@ -2973,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Kagura: Hatsuka's Story | 325310 | [325310-dawn-of-kagura-hatsukas-story.json](./325310-dawn-of-kagura-hatsukas-story.json) |
 | Dawn of Kagura: Keika's Story | 325309 | [325309-dawn-of-kagura-keikas-story.json](./325309-dawn-of-kagura-keikas-story.json) |
 | Dawn of Kagura: Maika's Story - The Dragon's Wrath | 220008 | [220008-dawn-of-kagura-maikas-story-the-dragons-wrath.json](./220008-dawn-of-kagura-maikas-story-the-dragons-wrath.json) |
+| Dawn of Kagura: Natsu's Story | 402618 | [402618-dawn-of-kagura-natsus-story.json](./402618-dawn-of-kagura-natsus-story.json) |
 | Dawn of Mages | 241855 | [241855-dawn-of-mages.json](./241855-dawn-of-mages.json) |
 | Dawn of Magic | 11024 | [11024-dawn-of-magic.json](./11024-dawn-of-magic.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
@@ -5268,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decaying Wires | 335657 | [335657-decaying-wires.json](./335657-decaying-wires.json) |
 | Deceased | 149711 | [149711-deceased.json](./149711-deceased.json) |
 | Deceased.cable | 318158 | [318158-deceased-cable.json](./318158-deceased-cable.json) |
+| DeceasedCraft | 402627 | [402627-deceasedcraft.json](./402627-deceasedcraft.json) |
 | Deceit | 24515 | [24515-deceit.json](./24515-deceit.json) |
 | Deceit 2 | 239561 | [239561-deceit-2.json](./239561-deceit-2.json) |
 | Deceit 2: Master Edition | 331267 | [331267-deceit-2-master-edition.json](./331267-deceit-2-master-edition.json) |
@@ -16580,6 +16582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Rider Plus | 175394 | [175394-draw-rider-plus.json](./175394-draw-rider-plus.json) |
 | Draw Rider Remake | 214660 | [214660-draw-rider-remake.json](./214660-draw-rider-remake.json) |
 | Draw Saber | 206718 | [206718-draw-saber.json](./206718-draw-saber.json) |
+| Draw Save Puzzle | 402616 | [402616-draw-save-puzzle.json](./402616-draw-save-puzzle.json) |
 | Draw Shooter | 356520 | [356520-draw-shooter.json](./356520-draw-shooter.json) |
 | Draw Slasher | 34033 | [34033-draw-slasher.json](./34033-draw-slasher.json) |
 | Draw Something 2 | 38913 | [38913-draw-something-2.json](./38913-draw-something-2.json) |
@@ -19316,6 +19319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Master | 180559 | [180559-dungeon-master.json](./180559-dungeon-master.json) |
 | Dungeon Master | 220842 | [220842-dungeon-master.json](./220842-dungeon-master.json) |
 | Dungeon Master | 3798 | [3798-dungeon-master.json](./3798-dungeon-master.json) |
+| Dungeon Master | 402593 | [402593-dungeon-master.json](./402593-dungeon-master.json) |
 | Dungeon Master 2K | 200101 | [200101-dungeon-master-2k.json](./200101-dungeon-master-2k.json) |
 | Dungeon Master II: The Legend of Skullkeep | 2503 | [2503-dungeon-master-ii-the-legend-of-skullkeep.json](./2503-dungeon-master-ii-the-legend-of-skullkeep.json) |
 | Dungeon Master Nexus | 3801 | [3801-dungeon-master-nexus.json](./3801-dungeon-master-nexus.json) |
@@ -19453,6 +19457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Run | 197224 | [197224-dungeon-run.json](./197224-dungeon-run.json) |
 | Dungeon Run | 357742 | [357742-dungeon-run.json](./357742-dungeon-run.json) |
 | Dungeon Run | 366356 | [366356-dungeon-run.json](./366356-dungeon-run.json) |
+| Dungeon Run | 402613 | [402613-dungeon-run.json](./402613-dungeon-run.json) |
 | Dungeon Runner | 33626 | [33626-dungeon-runner.json](./33626-dungeon-runner.json) |
 | Dungeon Runner XZ | 190286 | [190286-dungeon-runner-xz.json](./190286-dungeon-runner-xz.json) |
 | Dungeon Runners | 21407 | [21407-dungeon-runners.json](./21407-dungeon-runners.json) |
