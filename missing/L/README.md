@@ -10057,6 +10057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumberjack Simulator | 116774 | [116774-lumberjack-simulator.json](./116774-lumberjack-simulator.json) |
 | Lumberjack Simulator: Made in Alaska 2026 | 390501 | [390501-lumberjack-simulator-made-in-alaska-2026.json](./390501-lumberjack-simulator-made-in-alaska-2026.json) |
 | Lumberjack VR | 72399 | [72399-lumberjack-vr.json](./72399-lumberjack-vr.json) |
+| Lumberjack's Dynasty | 122038 | [122038-lumberjacks-dynasty.json](./122038-lumberjacks-dynasty.json) |
 | Lumberjack's Dynasty: Digital Supporter Edition | 169187 | [169187-lumberjacks-dynasty-digital-supporter-edition.json](./169187-lumberjacks-dynasty-digital-supporter-edition.json) |
 | Lumberjacked | 341623 | [341623-lumberjacked.json](./341623-lumberjacked.json) |
 | LumberKill | 310828 | [310828-lumberkill.json](./310828-lumberkill.json) |
