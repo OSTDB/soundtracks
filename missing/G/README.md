@@ -2584,6 +2584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GearHead: Arena | 181230 | [181230-gearhead-arena.json](./181230-gearhead-arena.json) |
 | Gearheads | 92925 | [92925-gearheads.json](./92925-gearheads.json) |
 | Gearlock: Episode 1 | 381719 | [381719-gearlock-episode-1.json](./381719-gearlock-episode-1.json) |
+| Gearplexed | 403297 | [403297-gearplexed.json](./403297-gearplexed.json) |
 | Gears | 240078 | [240078-gears.json](./240078-gears.json) |
 | Gears | 84639 | [84639-gears.json](./84639-gears.json) |
 | Gears 5: Game of the Year Edition | 142818 | [142818-gears-5-game-of-the-year-edition.json](./142818-gears-5-game-of-the-year-edition.json) |
@@ -4290,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'n Goblins Mobile | 104370 | [104370-ghosts-n-goblins-mobile.json](./104370-ghosts-n-goblins-mobile.json) |
 | Ghosts 'n Goblins: Gold Knights | 69412 | [69412-ghosts-n-goblins-gold-knights.json](./69412-ghosts-n-goblins-gold-knights.json) |
 | Ghosts 'N Goblins: Gold Knights II | 63647 | [63647-ghosts-n-goblins-gold-knights-ii.json](./63647-ghosts-n-goblins-gold-knights-ii.json) |
+| Ghosts 'n Goblins: Powered Up!! | 403265 | [403265-ghosts-n-goblins-powered-up.json](./403265-ghosts-n-goblins-powered-up.json) |
 | Ghosts 4 Everybody | 132421 | [132421-ghosts-4-everybody.json](./132421-ghosts-4-everybody.json) |
 | Ghosts and Apples | 180963 | [180963-ghosts-and-apples.json](./180963-ghosts-and-apples.json) |
 | Ghosts and Bureaucracy | 133064 | [133064-ghosts-and-bureaucracy.json](./133064-ghosts-and-bureaucracy.json) |
