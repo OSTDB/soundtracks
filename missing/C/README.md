@@ -2408,6 +2408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Simulator 2022 | 227536 | [227536-car-simulator-2022.json](./227536-car-simulator-2022.json) |
 | Car Simulator Bundle | 357026 | [357026-car-simulator-bundle.json](./357026-car-simulator-bundle.json) |
 | Car Simulator OG | 68532 | [68532-car-simulator-og.json](./68532-car-simulator-og.json) |
+| Car Simulator Veneno | 101422 | [101422-car-simulator-veneno.json](./101422-car-simulator-veneno.json) |
 | Car Simulator: Car Games 3D | 266260 | [266260-car-simulator-car-games-3d.json](./266260-car-simulator-car-games-3d.json) |
 | Car Soccer 2018 | 104409 | [104409-car-soccer-2018.json](./104409-car-soccer-2018.json) |
 | Car Soccer League | 87911 | [87911-car-soccer-league.json](./87911-car-soccer-league.json) |
