@@ -2612,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One of 500 | 141637 | [141637-one-of-500.json](./141637-one-of-500.json) |
 | One of a Kind | 325551 | [325551-one-of-a-kind.json](./325551-one-of-a-kind.json) |
 | One of Everything | 401471 | [401471-one-of-everything.json](./401471-one-of-everything.json) |
+| One of the Last | 30706 | [30706-one-of-the-last.json](./30706-one-of-the-last.json) |
 | One of the Victims | 195100 | [195100-one-of-the-victims.json](./195100-one-of-the-victims.json) |
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
 | One of These People is a Vampire | 184663 | [184663-one-of-these-people-is-a-vampire.json](./184663-one-of-these-people-is-a-vampire.json) |
@@ -3089,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onion Delivery | 318730 | [318730-onion-delivery.json](./318730-onion-delivery.json) |
 | Onion Force | 33699 | [33699-onion-force.json](./33699-onion-force.json) |
 | Onion House | 384920 | [384920-onion-house.json](./384920-onion-house.json) |
+| Onion Knight | 24562 | [24562-onion-knight.json](./24562-onion-knight.json) |
 | Oniria | 262176 | [262176-oniria.json](./262176-oniria.json) |
 | Oniria | 366610 | [366610-oniria.json](./366610-oniria.json) |
 | Oniria Crimes | 116677 | [116677-oniria-crimes.json](./116677-oniria-crimes.json) |
@@ -3745,6 +3747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Hostage Rescue - Close Quarters Combat | 208989 | [208989-operation-hostage-rescue-close-quarters-combat.json](./208989-operation-hostage-rescue-close-quarters-combat.json) |
 | Operation: Inner Space | 69216 | [69216-operation-inner-space.json](./69216-operation-inner-space.json) |
 | Operation: Matriarchy | 33684 | [33684-operation-matriarchy.json](./33684-operation-matriarchy.json) |
+| Operation: New Earth | 31259 | [31259-operation-new-earth.json](./31259-operation-new-earth.json) |
 | Operation: Ops | 184651 | [184651-operation-ops.json](./184651-operation-ops.json) |
 | Operation: Outbreak | 382169 | [382169-operation-outbreak.json](./382169-operation-outbreak.json) |
 | Operation: Outbreak Idle | 405539 | [405539-operation-outbreak-idle.json](./405539-operation-outbreak-idle.json) |
