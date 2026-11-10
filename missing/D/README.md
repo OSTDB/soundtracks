@@ -1670,6 +1670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Fairy Tales: The Boogeyman | 138405 | [138405-dark-fairy-tales-the-boogeyman.json](./138405-dark-fairy-tales-the-boogeyman.json) |
 | Dark Fall | 9817 | [9817-dark-fall.json](./9817-dark-fall.json) |
 | Dark Fall 2: Lights Out | 9818 | [9818-dark-fall-2-lights-out.json](./9818-dark-fall-2-lights-out.json) |
+| Dark Fall: Ghost Vigil | 123869 | [123869-dark-fall-ghost-vigil.json](./123869-dark-fall-ghost-vigil.json) |
 | Dark Fall: Lost Souls | 10139 | [10139-dark-fall-lost-souls.json](./10139-dark-fall-lost-souls.json) |
 | Dark Fantasia | 390032 | [390032-dark-fantasia.json](./390032-dark-fantasia.json) |
 | Dark Fantasy 2: Jigsaw Puzzle | 118146 | [118146-dark-fantasy-2-jigsaw-puzzle.json](./118146-dark-fantasy-2-jigsaw-puzzle.json) |
@@ -1864,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: Jack and the Sky Kingdom | 57162 | [57162-dark-parables-jack-and-the-sky-kingdom.json](./57162-dark-parables-jack-and-the-sky-kingdom.json) |
 | Dark Parables: Jack and the Sky Kingdom - Collector's Edition | 29809 | [29809-dark-parables-jack-and-the-sky-kingdom-collectors-edition.json](./29809-dark-parables-jack-and-the-sky-kingdom-collectors-edition.json) |
 | Dark Parables: Portrait of the Stained Princess | 139791 | [139791-dark-parables-portrait-of-the-stained-princess.json](./139791-dark-parables-portrait-of-the-stained-princess.json) |
+| Dark Parables: Portrait of the Stained Princess - Collector's Edition | 123843 | [123843-dark-parables-portrait-of-the-stained-princess-collectors-edition.json](./123843-dark-parables-portrait-of-the-stained-princess-collectors-edition.json) |
 | Dark Parables: Queen of Sands | 91136 | [91136-dark-parables-queen-of-sands.json](./91136-dark-parables-queen-of-sands.json) |
 | Dark Parables: Requiem for the Forgotten Shadow | 139792 | [139792-dark-parables-requiem-for-the-forgotten-shadow.json](./139792-dark-parables-requiem-for-the-forgotten-shadow.json) |
 | Dark Parables: Requiem for the Forgotten Shadow - Collector's Edition | 29341 | [29341-dark-parables-requiem-for-the-forgotten-shadow-collectors-edition.json](./29341-dark-parables-requiem-for-the-forgotten-shadow-collectors-edition.json) |
@@ -3163,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydreaming in the Oval Office | 73524 | [73524-daydreaming-in-the-oval-office.json](./73524-daydreaming-in-the-oval-office.json) |
 | Daydreams in Red | 187625 | [187625-daydreams-in-red.json](./187625-daydreams-in-red.json) |
 | Daydreamy | 268319 | [268319-daydreamy.json](./268319-daydreamy.json) |
+| Daylife in Japan: Animated Jigsaw Puzzle Series | 124208 | [124208-daylife-in-japan-animated-jigsaw-puzzle-series.json](./124208-daylife-in-japan-animated-jigsaw-puzzle-series.json) |
 | Daylife in Japan: Pixel Art Jigsaw Puzzle | 147966 | [147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json](./147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json) |
 | Daylight | 5593 | [5593-daylight.json](./5593-daylight.json) |
 | Daylight District | 287307 | [287307-daylight-district.json](./287307-daylight-district.json) |
@@ -17507,6 +17510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drill Deal | 118816 | [118816-drill-deal.json](./118816-drill-deal.json) |
 | Drill Deal: Oil Tycoon | 251107 | [251107-drill-deal-oil-tycoon.json](./251107-drill-deal-oil-tycoon.json) |
 | Drill Deep | 400957 | [400957-drill-deep.json](./400957-drill-deep.json) |
+| Drill Down | 123858 | [123858-drill-down.json](./123858-drill-down.json) |
 | Drill Dozer | 6390 | [6390-drill-dozer.json](./6390-drill-dozer.json) |
 | Drill Dozer: Shifting 101 | 307352 | [307352-drill-dozer-shifting-101.json](./307352-drill-dozer-shifting-101.json) |
 | Drill Hero Legend | 291899 | [291899-drill-hero-legend.json](./291899-drill-hero-legend.json) |
