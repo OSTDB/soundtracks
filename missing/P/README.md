@@ -856,6 +856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painting VR | 159090 | [159090-painting-vr.json](./159090-painting-vr.json) |
 | Painting VR: Cozy Cabin | 305541 | [305541-painting-vr-cozy-cabin.json](./305541-painting-vr-cozy-cabin.json) |
 | Painting Werther | 156725 | [156725-painting-werther.json](./156725-painting-werther.json) |
+| Painting with Larry | 403258 | [403258-painting-with-larry.json](./403258-painting-with-larry.json) |
 | Painting With Tito | 89803 | [89803-painting-with-tito.json](./89803-painting-with-tito.json) |
 | Painting Workshop | 85327 | [85327-painting-workshop.json](./85327-painting-workshop.json) |
 | Paintings | 207963 | [207963-paintings.json](./207963-paintings.json) |
@@ -4087,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pegasus: Broken Wings | 170677 | [170677-pegasus-broken-wings.json](./170677-pegasus-broken-wings.json) |
 | Pegaxy | 188410 | [188410-pegaxy.json](./188410-pegaxy.json) |
 | Pegdrop Hearts | 250166 | [250166-pegdrop-hearts.json](./250166-pegdrop-hearts.json) |
+| Pegfinity | 403282 | [403282-pegfinity.json](./403282-pegfinity.json) |
 | Pegged | 284166 | [284166-pegged.json](./284166-pegged.json) |
 | Pegged | 312228 | [312228-pegged.json](./312228-pegged.json) |
 | Pegged | 385372 | [385372-pegged.json](./385372-pegged.json) |
@@ -5417,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pewduckpie 2 - An Unexpected Journey | 101988 | [101988-pewduckpie-2-an-unexpected-journey.json](./101988-pewduckpie-2-an-unexpected-journey.json) |
 | PewDuckPie: On the Run | 159178 | [159178-pewduckpie-on-the-run.json](./159178-pewduckpie-on-the-run.json) |
 | PewPew | 154837 | [154837-pewpew.json](./154837-pewpew.json) |
+| PewPew | 403256 | [403256-pewpew.json](./403256-pewpew.json) |
 | PewPew 2 | 140606 | [140606-pewpew-2.json](./140606-pewpew-2.json) |
 | PewPew Live | 182701 | [182701-pewpew-live.json](./182701-pewpew-live.json) |
 | PewPew! | 171373 | [171373-pewpew.json](./171373-pewpew.json) |
