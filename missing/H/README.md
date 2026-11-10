@@ -2063,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Survival | 65811 | [65811-hardcore-survival.json](./65811-hardcore-survival.json) |
 | Hardcore Trivia | 169848 | [169848-hardcore-trivia.json](./169848-hardcore-trivia.json) |
 | Hardcore Weapon Challenge - FPS Action | 103834 | [103834-hardcore-weapon-challenge-fps-action.json](./103834-hardcore-weapon-challenge-fps-action.json) |
+| Hardcore Yet Laid-Back Hero Battle: Kamuikko-tan Passionate Edition!? | 424823 | [424823-hardcore-yet-laid-back-hero-battle-kamuikko-tan-passionate-edition.json](./424823-hardcore-yet-laid-back-hero-battle-kamuikko-tan-passionate-edition.json) |
 | Hardcore ZBoy | 59139 | [59139-hardcore-zboy.json](./59139-hardcore-zboy.json) |
 | Hardcore: The Game | 181053 | [181053-hardcore-the-game.json](./181053-hardcore-the-game.json) |
 | HardCube | 32302 | [32302-hardcube.json](./32302-hardcube.json) |
@@ -12838,6 +12839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyaku no Sekai no Monogatari: The Tales on a Watery Wilderness | 48124 | [48124-hyaku-no-sekai-no-monogatari-the-tales-on-a-watery-wilderness.json](./48124-hyaku-no-sekai-no-monogatari-the-tales-on-a-watery-wilderness.json) |
 | Hyakuju Sentai Gaoranger | 43730 | [43730-hyakuju-sentai-gaoranger.json](./43730-hyakuju-sentai-gaoranger.json) |
 | Hyakumasu Dora-san Nobita no Time Battle | 56994 | [56994-hyakumasu-dora-san-nobita-no-time-battle.json](./56994-hyakumasu-dora-san-nobita-no-time-battle.json) |
+| Hyakume no Hananie | 424856 | [424856-hyakume-no-hananie.json](./424856-hyakume-no-hananie.json) |
 | Hyakuretsuken: Hokuto no Ken Gekiuchi 3 | 64183 | [64183-hyakuretsuken-hokuto-no-ken-gekiuchi-3.json](./64183-hyakuretsuken-hokuto-no-ken-gekiuchi-3.json) |
 | Hyakusen no Jou ni Kawatareshi Toki | 301362 | [301362-hyakusen-no-jou-ni-kawatareshi-toki.json](./301362-hyakusen-no-jou-ni-kawatareshi-toki.json) |
 | Hyakusen Renma: Kyousha no Sengoku | 216221 | [216221-hyakusen-renma-kyousha-no-sengoku.json](./216221-hyakusen-renma-kyousha-no-sengoku.json) |
