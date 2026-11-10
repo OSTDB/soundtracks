@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man World Rally | 248531 | [248531-pac-man-world-rally.json](./248531-pac-man-world-rally.json) |
 | Pac-Man World Re-Pac | 206811 | [206811-pac-man-world-re-pac.json](./206811-pac-man-world-re-pac.json) |
 | Pac-Man x Bomberman | 198193 | [198193-pac-man-x-bomberman.json](./198193-pac-man-x-bomberman.json) |
+| Pac-Man x Space Invaders | 412455 | [412455-pac-man-x-space-invaders.json](./412455-pac-man-x-space-invaders.json) |
 | Pac-Man: Adventures in Time | 78239 | [78239-pac-man-adventures-in-time.json](./78239-pac-man-adventures-in-time.json) |
 | Pac-Man: Championship Edition 2 + Arcade Game Series | 74273 | [74273-pac-man-championship-edition-2-arcade-game-series.json](./74273-pac-man-championship-edition-2-arcade-game-series.json) |
 | Pac-Man: Championship Edition DX | 21737 | [21737-pac-man-championship-edition-dx.json](./21737-pac-man-championship-edition-dx.json) |
@@ -4936,6 +4937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 5 Royal: Persona Bundle | 405358 | [405358-persona-5-royal-persona-bundle.json](./405358-persona-5-royal-persona-bundle.json) |
 | Persona 5 Royal: Persona Q2 Costume & BGM Special Set | 405346 | [405346-persona-5-royal-persona-q2-costume-and-bgm-special-set.json](./405346-persona-5-royal-persona-q2-costume-and-bgm-special-set.json) |
 | Persona 5 Royal: Phantom Thieves Edition | 134220 | [134220-persona-5-royal-phantom-thieves-edition.json](./134220-persona-5-royal-phantom-thieves-edition.json) |
+| Persona 5 Royal: Rose & Violet | 412038 | [412038-persona-5-royal-rose-and-violet.json](./412038-persona-5-royal-rose-and-violet.json) |
 | Persona 5 Royal: SMT Strange Journey Redux Costume & BGM Set | 405355 | [405355-persona-5-royal-smt-strange-journey-redux-costume-and-bgm-set.json](./405355-persona-5-royal-smt-strange-journey-redux-costume-and-bgm-set.json) |
 | Persona 5 Royal: Straight Flush Edition | 134241 | [134241-persona-5-royal-straight-flush-edition.json](./134241-persona-5-royal-straight-flush-edition.json) |
 | Persona 5 Royal: Tracksuit Costume Set | 405353 | [405353-persona-5-royal-tracksuit-costume-set.json](./405353-persona-5-royal-tracksuit-costume-set.json) |
