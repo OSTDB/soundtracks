@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.I.S.V VR | 173963 | [173963-m-i-s-v-vr.json](./173963-m-i-s-v-vr.json) |
 | M.O.O.D.S. | 199487 | [199487-m-o-o-d-s.json](./199487-m-o-o-d-s.json) |
 | M.o.o.n. | 243951 | [243951-m-o-o-n.json](./243951-m-o-o-n.json) |
+| M.O.Q.R. Company | 406417 | [406417-m-o-q-r-company.json](./406417-m-o-q-r-company.json) |
 | M.O.R.E. | 97979 | [97979-m-o-r-e.json](./97979-m-o-r-e.json) |
 | M.o.u.s.e. Game | 339898 | [339898-m-o-u-s-e-game.json](./339898-m-o-u-s-e-game.json) |
 | M.O.Z.O.X.: Space Salvager | 209157 | [209157-m-o-z-o-x-space-salvager.json](./209157-m-o-z-o-x-space-salvager.json) |
@@ -2747,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make My Sandwich | 406491 | [406491-make-my-sandwich.json](./406491-make-my-sandwich.json) |
 | Make New Way | 296222 | [296222-make-new-way.json](./296222-make-new-way.json) |
 | Make or Break: The Routine | 180644 | [180644-make-or-break-the-routine.json](./180644-make-or-break-the-routine.json) |
+| Make or Break! | 406387 | [406387-make-or-break.json](./406387-make-or-break.json) |
 | Make Route | 109658 | [109658-make-route.json](./109658-make-route.json) |
 | Make Route: Escape the police | 117397 | [117397-make-route-escape-the-police.json](./117397-make-route-escape-the-police.json) |
 | Make Sail | 75419 | [75419-make-sail.json](./75419-make-sail.json) |
@@ -5408,6 +5410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Games 1 | 60330 | [60330-master-games-1.json](./60330-master-games-1.json) |
 | Master Golf | 247008 | [247008-master-golf.json](./247008-master-golf.json) |
 | Master Head | 138451 | [138451-master-head.json](./138451-master-head.json) |
+| Master Healer Kale With Useless Party | 406380 | [406380-master-healer-kale-with-useless-party.json](./406380-master-healer-kale-with-useless-party.json) |
 | Master Heroes | 231555 | [231555-master-heroes.json](./231555-master-heroes.json) |
 | Master Karateka | 49077 | [49077-master-karateka.json](./49077-master-karateka.json) |
 | Master Key | 204048 | [204048-master-key.json](./204048-master-key.json) |
@@ -17473,6 +17476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Colonization Project: Deluxe Edition | 53375 | [53375-moon-colonization-project-deluxe-edition.json](./53375-moon-colonization-project-deluxe-edition.json) |
 | Moon Colony | 311531 | [311531-moon-colony.json](./311531-moon-colony.json) |
 | Moon Commanders | 427221 | [427221-moon-commanders.json](./427221-moon-commanders.json) |
+| Moon Corona | 406439 | [406439-moon-corona.json](./406439-moon-corona.json) |
 | Moon Corp. Tower Defense | 188764 | [188764-moon-corp-tower-defense.json](./188764-moon-corp-tower-defense.json) |
 | Moon Cradle | 108902 | [108902-moon-cradle.json](./108902-moon-cradle.json) |
 | Moon Cradle | 201632 | [201632-moon-cradle.json](./201632-moon-cradle.json) |
@@ -20305,6 +20309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchie Strikers | 258421 | [258421-munchie-strikers.json](./258421-munchie-strikers.json) |
 | Munchies | 195973 | [195973-munchies.json](./195973-munchies.json) |
 | Munchies! | 78261 | [78261-munchies.json](./78261-munchies.json) |
+| MunchiesGretel | 406394 | [406394-munchiesgretel.json](./406394-munchiesgretel.json) |
 | Munchkin Digital | 220682 | [220682-munchkin-digital.json](./220682-munchkin-digital.json) |
 | Munchkin Digital: Unnatural Axe | 255020 | [255020-munchkin-digital-unnatural-axe.json](./255020-munchkin-digital-unnatural-axe.json) |
 | Munchkin Match | 90788 | [90788-munchkin-match.json](./90788-munchkin-match.json) |
@@ -22233,6 +22238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Railroad | 118952 | [118952-my-railroad.json](./118952-my-railroad.json) |
 | My Raising Diary | 321594 | [321594-my-raising-diary.json](./321594-my-raising-diary.json) |
 | My Ranch | 351377 | [351377-my-ranch.json](./351377-my-ranch.json) |
+| My Ransomware Can’t Be This Cute?! | 406436 | [406436-my-ransomware-can-t-be-this-cute.json](./406436-my-ransomware-can-t-be-this-cute.json) |
 | My RC Buggy! VR | 103196 | [103196-my-rc-buggy-vr.json](./103196-my-rc-buggy-vr.json) |
 | My Reading Tutor | 325947 | [325947-my-reading-tutor.json](./325947-my-reading-tutor.json) |
 | My Real Desire | 331693 | [331693-my-real-desire.json](./331693-my-real-desire.json) |
