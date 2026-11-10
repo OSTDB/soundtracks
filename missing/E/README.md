@@ -4389,6 +4389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmo 2 | 66614 | [66614-enigmo-2.json](./66614-enigmo-2.json) |
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
 | Enigmoon | 261257 | [261257-enigmoon.json](./261257-enigmoon.json) |
+| Enihcam eht ni tsohg | 401320 | [401320-enihcam-eht-ni-tsohg.json](./401320-enihcam-eht-ni-tsohg.json) |
 | Eniko: Ghosts of Grace | 189266 | [189266-eniko-ghosts-of-grace.json](./189266-eniko-ghosts-of-grace.json) |
 | Enionax | 206298 | [206298-enionax.json](./206298-enionax.json) |
 | Enishia and the Binding Brand | 275520 | [275520-enishia-and-the-binding-brand.json](./275520-enishia-and-the-binding-brand.json) |
@@ -5915,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Ghost House | 320217 | [320217-escape-the-ghost-house.json](./320217-escape-the-ghost-house.json) |
 | Escape the Glitch | 287032 | [287032-escape-the-glitch.json](./287032-escape-the-glitch.json) |
 | Escape the Glitch 2: Backrooms | 299517 | [299517-escape-the-glitch-2-backrooms.json](./299517-escape-the-glitch-2-backrooms.json) |
+| Escape the Glitch 3 | 401359 | [401359-escape-the-glitch-3.json](./401359-escape-the-glitch-3.json) |
 | Escape the Glubinka | 271112 | [271112-escape-the-glubinka.json](./271112-escape-the-glubinka.json) |
 | Escape the Gray | 38791 | [38791-escape-the-gray.json](./38791-escape-the-gray.json) |
 | Escape the Grid VR | 102350 | [102350-escape-the-grid-vr.json](./102350-escape-the-grid-vr.json) |
