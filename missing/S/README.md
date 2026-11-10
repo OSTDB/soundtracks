@@ -8732,6 +8732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Devil Summoner Special Box | 74067 | [74067-shin-megami-tensei-devil-summoner-special-box.json](./74067-shin-megami-tensei-devil-summoner-special-box.json) |
 | Shin Megami Tensei: Devil Survivor | 6884 | [6884-shin-megami-tensei-devil-survivor.json](./6884-shin-megami-tensei-devil-survivor.json) |
 | Shin Megami Tensei: Devil Survivor 2 | 6885 | [6885-shin-megami-tensei-devil-survivor-2.json](./6885-shin-megami-tensei-devil-survivor-2.json) |
+| Shin Megami Tensei: Devil Survivor 2 - Record Breaker | 23441 | [23441-shin-megami-tensei-devil-survivor-2-record-breaker.json](./23441-shin-megami-tensei-devil-survivor-2-record-breaker.json) |
 | Shin Megami Tensei: Digital Devil Saga | 18227 | [18227-shin-megami-tensei-digital-devil-saga.json](./18227-shin-megami-tensei-digital-devil-saga.json) |
 | Shin Megami Tensei: Digital Devil Saga - Deluxe Box Set | 382184 | [382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json](./382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json) |
 | Shin Megami Tensei: Digital Devil Saga 2 | 18229 | [18229-shin-megami-tensei-digital-devil-saga-2.json](./18229-shin-megami-tensei-digital-devil-saga-2.json) |
@@ -17849,6 +17850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SongBird: FlingAThing | 302899 | [302899-songbird-flingathing.json](./302899-songbird-flingathing.json) |
 | Songbirds: Creative Gaming | 174231 | [174231-songbirds-creative-gaming.json](./174231-songbirds-creative-gaming.json) |
 | Songboy | 377651 | [377651-songboy.json](./377651-songboy.json) |
+| Songbringer | 25213 | [25213-songbringer.json](./25213-songbringer.json) |
 | Songbringer Bundle | 118864 | [118864-songbringer-bundle.json](./118864-songbringer-bundle.json) |
 | Songbringer: The Trial of Ren | 165014 | [165014-songbringer-the-trial-of-ren.json](./165014-songbringer-the-trial-of-ren.json) |
 | Songless | 402309 | [402309-songless.json](./402309-songless.json) |
@@ -18659,6 +18661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog | 299777 | [299777-sonic-the-hedgehog.json](./299777-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 6231 | [6231-sonic-the-hedgehog.json](./6231-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog | 80436 | [80436-sonic-the-hedgehog.json](./80436-sonic-the-hedgehog.json) |
+| Sonic the Hedgehog | 88912 | [88912-sonic-the-hedgehog.json](./88912-sonic-the-hedgehog.json) |
 | Sonic the Hedgehog 1 @ Sage 2010 | 326936 | [326936-sonic-the-hedgehog-1-sage-2010.json](./326936-sonic-the-hedgehog-1-sage-2010.json) |
 | Sonic the Hedgehog 1996 | 400967 | [400967-sonic-the-hedgehog-1996.json](./400967-sonic-the-hedgehog-1996.json) |
 | Sonic the Hedgehog 2 | 112884 | [112884-sonic-the-hedgehog-2.json](./112884-sonic-the-hedgehog-2.json) |
@@ -19547,6 +19550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulbound: Online | 274057 | [274057-soulbound-online.json](./274057-soulbound-online.json) |
 | Soulbringer | 9281 | [9281-soulbringer.json](./9281-soulbringer.json) |
 | SoulCalibur | 1564 | [1564-soulcalibur.json](./1564-soulcalibur.json) |
+| SoulCalibur II HD Online | 20970 | [20970-soulcalibur-ii-hd-online.json](./20970-soulcalibur-ii-hd-online.json) |
 | Soulcalibur II Plus | 384776 | [384776-soulcalibur-ii-plus.json](./384776-soulcalibur-ii-plus.json) |
 | SoulCalibur II: Recompiled | 415181 | [415181-soulcalibur-ii-recompiled.json](./415181-soulcalibur-ii-recompiled.json) |
 | SoulCalibur III | 1566 | [1566-soulcalibur-iii.json](./1566-soulcalibur-iii.json) |
@@ -20485,6 +20489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Horde Attack | 305639 | [305639-space-horde-attack.json](./305639-space-horde-attack.json) |
 | Space Hotel | 30270 | [30270-space-hotel.json](./30270-space-hotel.json) |
 | Space Hulk | 12770 | [12770-space-hulk.json](./12770-space-hulk.json) |
+| Space Hulk | 23579 | [23579-space-hulk.json](./23579-space-hulk.json) |
 | Space Hulk Bundle | 118863 | [118863-space-hulk-bundle.json](./118863-space-hulk-bundle.json) |
 | Space Hulk: Ascension | 17732 | [17732-space-hulk-ascension.json](./17732-space-hulk-ascension.json) |
 | Space Hulk: Ascension - Dark Angels | 53642 | [53642-space-hulk-ascension-dark-angels.json](./53642-space-hulk-ascension-dark-angels.json) |
@@ -34651,6 +34656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Basketball | 61358 | [61358-super-street-basketball.json](./61358-super-street-basketball.json) |
 | Super Street Basketball 2 | 64097 | [64097-super-street-basketball-2.json](./64097-super-street-basketball-2.json) |
 | Super Street Fighter II | 322188 | [322188-super-street-fighter-ii.json](./322188-super-street-fighter-ii.json) |
+| Super Street Fighter II Turbo HD Remix | 21796 | [21796-super-street-fighter-ii-turbo-hd-remix.json](./21796-super-street-fighter-ii-turbo-hd-remix.json) |
 | Super Street Fighter II Turbo Pinball FX | 55062 | [55062-super-street-fighter-ii-turbo-pinball-fx.json](./55062-super-street-fighter-ii-turbo-pinball-fx.json) |
 | Super Street Fighter II Turbo: New Legacy | 422195 | [422195-super-street-fighter-ii-turbo-new-legacy.json](./422195-super-street-fighter-ii-turbo-new-legacy.json) |
 | Super Street Fighter II Turbo: Revival | 45195 | [45195-super-street-fighter-ii-turbo-revival.json](./45195-super-street-fighter-ii-turbo-revival.json) |
