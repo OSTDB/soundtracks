@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Stop Nowhere | 136743 | [136743-next-stop-nowhere.json](./136743-next-stop-nowhere.json) |
 | Next Stop Zombie | 72364 | [72364-next-stop-zombie.json](./72364-next-stop-zombie.json) |
 | Next Sweetstop | 253884 | [253884-next-sweetstop.json](./253884-next-sweetstop.json) |
+| Next time... I'll work from home | 424830 | [424830-next-time-ill-work-from-home.json](./424830-next-time-ill-work-from-home.json) |
 | Next Turn for D&D 5E | 89769 | [89769-next-turn-for-d-and-d-5e.json](./89769-next-turn-for-d-and-d-5e.json) |
 | Next Up Hero | 45026 | [45026-next-up-hero.json](./45026-next-up-hero.json) |
 | Next: Merger with Power of 2 | 252562 | [252562-next-merger-with-power-of-2.json](./252562-next-merger-with-power-of-2.json) |
