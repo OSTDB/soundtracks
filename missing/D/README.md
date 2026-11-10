@@ -4097,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising Deluxe Remaster: Costume & BGM - Tron Bonne | 360162 | [360162-dead-rising-deluxe-remaster-costume-and-bgm-tron-bonne.json](./360162-dead-rising-deluxe-remaster-costume-and-bgm-tron-bonne.json) |
 | Dead Rising mobile | 81391 | [81391-dead-rising-mobile.json](./81391-dead-rising-mobile.json) |
 | Dead Rising: The Survival | 64627 | [64627-dead-rising-the-survival.json](./64627-dead-rising-the-survival.json) |
+| Dead Rising: Triple Pack | 23907 | [23907-dead-rising-triple-pack.json](./23907-dead-rising-triple-pack.json) |
 | Dead Rising/Gears of War | 141217 | [141217-dead-rising-gears-of-war.json](./141217-dead-rising-gears-of-war.json) |
 | Dead Rivals | 100892 | [100892-dead-rivals.json](./100892-dead-rivals.json) |
 | Dead Room | 301998 | [301998-dead-room.json](./301998-dead-room.json) |
@@ -9205,6 +9206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diddy Kong Pilot | 49470 | [49470-diddy-kong-pilot.json](./49470-diddy-kong-pilot.json) |
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
 | Diddy Kong Racing Adventure | 131896 | [131896-diddy-kong-racing-adventure.json](./131896-diddy-kong-racing-adventure.json) |
+| Diddy Kong Racing DS | 20650 | [20650-diddy-kong-racing-ds.json](./20650-diddy-kong-racing-ds.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
 | Diddy Kong Racing: GoldenEye | 220970 | [220970-diddy-kong-racing-goldeneye.json](./220970-diddy-kong-racing-goldeneye.json) |
 | Diddy Kong Racing: Ocarina of Time | 290359 | [290359-diddy-kong-racing-ocarina-of-time.json](./290359-diddy-kong-racing-ocarina-of-time.json) |
@@ -10778,6 +10780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
 | disfact Game Pack 2 | 405543 | [405543-disfact-game-pack-2.json](./405543-disfact-game-pack-2.json) |
 | Disfigure | 211502 | [211502-disfigure.json](./211502-disfigure.json) |
+| Disgaea 1 Complete | 82373 | [82373-disgaea-1-complete.json](./82373-disgaea-1-complete.json) |
 | Disgaea 1 Complete: Limited Edition | 201055 | [201055-disgaea-1-complete-limited-edition.json](./201055-disgaea-1-complete-limited-edition.json) |
 | Disgaea 2 PC | 32294 | [32294-disgaea-2-pc.json](./32294-disgaea-2-pc.json) |
 | Disgaea 2: Cursed Memories | 11694 | [11694-disgaea-2-cursed-memories.json](./11694-disgaea-2-cursed-memories.json) |
@@ -13701,6 +13704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom | 259942 | [259942-doom.json](./259942-doom.json) |
 | Doom | 259943 | [259943-doom.json](./259943-doom.json) |
 | Doom | 259944 | [259944-doom.json](./259944-doom.json) |
+| Doom | 259982 | [259982-doom.json](./259982-doom.json) |
 | Doom | 313161 | [313161-doom.json](./313161-doom.json) |
 | Doom | 341698 | [341698-doom.json](./341698-doom.json) |
 | Doom | 377730 | [377730-doom.json](./377730-doom.json) |
