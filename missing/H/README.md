@@ -8870,6 +8870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman World of Assassination: The Undying Pack | 287866 | [287866-hitman-world-of-assassination-the-undying-pack.json](./287866-hitman-world-of-assassination-the-undying-pack.json) |
 | Hitman World of Assassination: The Wizard Pack | 405098 | [405098-hitman-world-of-assassination-the-wizard-pack.json](./405098-hitman-world-of-assassination-the-wizard-pack.json) |
 | Hitman World of Assassination: VR Access | 317632 | [317632-hitman-world-of-assassination-vr-access.json](./317632-hitman-world-of-assassination-vr-access.json) |
+| Hitman World of Assassination: World Champions Pack | 405114 | [405114-hitman-world-of-assassination-world-champions-pack.json](./405114-hitman-world-of-assassination-world-champions-pack.json) |
 | Hitman: Absolution HD | 218974 | [218974-hitman-absolution-hd.json](./218974-hitman-absolution-hd.json) |
 | Hitman: Blood Money HD | 99816 | [99816-hitman-blood-money-hd.json](./99816-hitman-blood-money-hd.json) |
 | Hitman: Blood Money L.A. | 125151 | [125151-hitman-blood-money-l-a.json](./125151-hitman-blood-money-l-a.json) |
@@ -11123,6 +11124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Shot Burn | 121036 | [121036-hot-shot-burn.json](./121036-hot-shot-burn.json) |
 | Hot Shot Challenge - Online | 103627 | [103627-hot-shot-challenge-online.json](./103627-hot-shot-challenge-online.json) |
 | Hot Shot Monkey | 349931 | [349931-hot-shot-monkey.json](./349931-hot-shot-monkey.json) |
+| Hot Shot: Robot Attack | 404570 | [404570-hot-shot-robot-attack.json](./404570-hot-shot-robot-attack.json) |
 | Hot Shots | 339320 | [339320-hot-shots.json](./339320-hot-shots.json) |
 | Hot Shots Baseball | 99904 | [99904-hot-shots-baseball.json](./99904-hot-shots-baseball.json) |
 | Hot Shots Golf | 206487 | [206487-hot-shots-golf.json](./206487-hot-shots-golf.json) |
