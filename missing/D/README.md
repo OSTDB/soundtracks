@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D Laser | 272186 | [272186-d-laser.json](./272186-d-laser.json) |
 | D Life | 253973 | [253973-d-life.json](./253973-d-life.json) |
 | D Missile | 304278 | [304278-d-missile.json](./304278-d-missile.json) |
+| D no Bouken 7: D no Nazo!? | 407688 | [407688-d-no-bouken-7-d-no-nazo.json](./407688-d-no-bouken-7-d-no-nazo.json) |
 | D or D | 250004 | [250004-d-or-d.json](./250004-d-or-d.json) |
 | D Pistols | 261005 | [261005-d-pistols.json](./261005-d-pistols.json) |
 | D Series Off Road Driving Simulation | 35478 | [35478-d-series-off-road-driving-simulation.json](./35478-d-series-off-road-driving-simulation.json) |
@@ -10058,6 +10059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ding Dong VR | 105174 | [105174-ding-dong-vr.json](./105174-ding-dong-vr.json) |
 | Ding Dong XL | 101633 | [101633-ding-dong-xl.json](./101633-ding-dong-xl.json) |
 | Ding! MONO | 270634 | [270634-ding-mono.json](./270634-ding-mono.json) |
+| Ding! Pocket It!: Rogue Simulator | 407657 | [407657-ding-pocket-it-rogue-simulator.json](./407657-ding-pocket-it-rogue-simulator.json) |
 | Ding. | 183932 | [183932-ding.json](./183932-ding.json) |
 | Dingbats | 391092 | [391092-dingbats.json](./391092-dingbats.json) |
 | Dingdang Rompers Dating Game | 151948 | [151948-dingdang-rompers-dating-game.json](./151948-dingdang-rompers-dating-game.json) |
@@ -10335,6 +10337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Hunter VR | 106448 | [106448-dinosaur-hunter-vr.json](./106448-dinosaur-hunter-vr.json) |
 | Dinosaur Hunting Patrol 3D Jurassic VR | 160142 | [160142-dinosaur-hunting-patrol-3d-jurassic-vr.json](./160142-dinosaur-hunting-patrol-3d-jurassic-vr.json) |
 | Dinosaur Hunting Patrol 3D Multiplayer Online | 126164 | [126164-dinosaur-hunting-patrol-3d-multiplayer-online.json](./126164-dinosaur-hunting-patrol-3d-multiplayer-online.json) |
+| Dinosaur Hunting Simulator | 407645 | [407645-dinosaur-hunting-simulator.json](./407645-dinosaur-hunting-simulator.json) |
 | Dinosaur Hunting: Ushinawareta Daichi | 85950 | [85950-dinosaur-hunting-ushinawareta-daichi.json](./85950-dinosaur-hunting-ushinawareta-daichi.json) |
 | DinoSaur Ice Survival Craft | 102490 | [102490-dinosaur-ice-survival-craft.json](./102490-dinosaur-ice-survival-craft.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
@@ -13273,6 +13276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look Down | 186244 | [186244-dont-look-down.json](./186244-dont-look-down.json) |
 | Don't Look! | 168387 | [168387-dont-look.json](./168387-dont-look.json) |
 | Don't Look! | 372019 | [372019-dont-look.json](./372019-dont-look.json) |
+| Don't Lose Face! | 407676 | [407676-dont-lose-face.json](./407676-dont-lose-face.json) |
 | Don’t Lose Your Ship | 337357 | [337357-don-t-lose-your-ship.json](./337357-don-t-lose-your-ship.json) |
 | Don't Make Love | 74587 | [74587-dont-make-love.json](./74587-dont-make-love.json) |
 | Don't Melt the Snowman | 280134 | [280134-dont-melt-the-snowman.json](./280134-dont-melt-the-snowman.json) |
