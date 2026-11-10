@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabulous Place | 160184 | [160184-fabulous-place.json](./160184-fabulous-place.json) |
 | Fabulous Samurai Star | 256325 | [256325-fabulous-samurai-star.json](./256325-fabulous-samurai-star.json) |
 | Fabulous Shop | 246550 | [246550-fabulous-shop.json](./246550-fabulous-shop.json) |
+| Fabulous: Angela's Fashion Fever | 31039 | [31039-fabulous-angelas-fashion-fever.json](./31039-fabulous-angelas-fashion-fever.json) |
 | Fabulous: Angela's High School Reunion | 38039 | [38039-fabulous-angelas-high-school-reunion.json](./38039-fabulous-angelas-high-school-reunion.json) |
 | Fabulous: Angela's Sweet Revenge | 88336 | [88336-fabulous-angelas-sweet-revenge.json](./88336-fabulous-angelas-sweet-revenge.json) |
 | Fabulous: Angela's Wedding Disaster | 99076 | [99076-fabulous-angelas-wedding-disaster.json](./99076-fabulous-angelas-wedding-disaster.json) |
@@ -3048,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Furious: Spy Racers Rise of Sh1ft3r - Complete Edition | 218500 | [218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json](./218500-fast-and-furious-spy-racers-rise-of-sh1ft3r-complete-edition.json) |
 | Fast & Furious: SuperCars | 65413 | [65413-fast-and-furious-supercars.json](./65413-fast-and-furious-supercars.json) |
 | Fast & Furry Bundle | 342397 | [342397-fast-and-furry-bundle.json](./342397-fast-and-furry-bundle.json) |
+| Fast Action Hero | 31096 | [31096-fast-action-hero.json](./31096-fast-action-hero.json) |
 | Fast Action Paq | 79585 | [79585-fast-action-paq.json](./79585-fast-action-paq.json) |
 | Fast and Curious | 32076 | [32076-fast-and-curious.json](./32076-fast-and-curious.json) |
 | Fast and Furious Arcade | 98694 | [98694-fast-and-furious-arcade.json](./98694-fast-and-furious-arcade.json) |
@@ -5531,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Profit: A Shop RPG | 196721 | [196721-final-profit-a-shop-rpg.json](./196721-final-profit-a-shop-rpg.json) |
 | Final Project | 249676 | [249676-final-project.json](./249676-final-project.json) |
 | Final Quest | 31732 | [31732-final-quest.json](./31732-final-quest.json) |
+| Final Quest II | 31037 | [31037-final-quest-ii.json](./31037-final-quest-ii.json) |
 | Final Racing | 206761 | [206761-final-racing.json](./206761-final-racing.json) |
 | Final Ranger | 280953 | [280953-final-ranger.json](./280953-final-ranger.json) |
 | Final Recurrence | 215570 | [215570-final-recurrence.json](./215570-final-recurrence.json) |
