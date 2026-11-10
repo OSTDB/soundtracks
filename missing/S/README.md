@@ -3850,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream or Die | 277435 | [277435-scream-or-die.json](./277435-scream-or-die.json) |
 | Scream or Die: Virtual Circus | 280305 | [280305-scream-or-die-virtual-circus.json](./280305-scream-or-die-virtual-circus.json) |
 | Scream Timbernote:the game of voice controller | 232253 | [232253-scream-timbernote-the-game-of-voice-controller.json](./232253-scream-timbernote-the-game-of-voice-controller.json) |
+| Scream Under the House | 399323 | [399323-scream-under-the-house.json](./399323-scream-under-the-house.json) |
 | Scream Varily | 76419 | [76419-scream-varily.json](./76419-scream-varily.json) |
 | Scream You Lose | 404164 | [404164-scream-you-lose.json](./404164-scream-you-lose.json) |
 | Screamboat Willie | 291464 | [291464-screamboat-willie.json](./291464-screamboat-willie.json) |
@@ -17371,6 +17372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldam | 78225 | [78225-soldam.json](./78225-soldam.json) |
 | Soldam: Drop, Connect, Erase | 36816 | [36816-soldam-drop-connect-erase.json](./36816-soldam-drop-connect-erase.json) |
 | Soldat 2 | 129499 | [129499-soldat-2.json](./129499-soldat-2.json) |
+| Soldexus | 399506 | [399506-soldexus.json](./399506-soldexus.json) |
 | Soldier | 150243 | [150243-soldier.json](./150243-soldier.json) |
 | Soldier | 345936 | [345936-soldier.json](./345936-soldier.json) |
 | Soldier | 394277 | [394277-soldier.json](./394277-soldier.json) |
@@ -17941,6 +17943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere, a Cat Sleeps | 373353 | [373353-somewhere-a-cat-sleeps.json](./373353-somewhere-a-cat-sleeps.json) |
 | Somewhere: Sect of Relic | 56440 | [56440-somewhere-sect-of-relic.json](./56440-somewhere-sect-of-relic.json) |
 | Sommad | 51957 | [51957-sommad.json](./51957-sommad.json) |
+| Sommarlovskul | 399538 | [399538-sommarlovskul.json](./399538-sommarlovskul.json) |
 | Somme Trench | 275653 | [275653-somme-trench.json](./275653-somme-trench.json) |
 | Sommelier DS | 124052 | [124052-sommelier-ds.json](./124052-sommelier-ds.json) |
 | Sommerland | 250756 | [250756-sommerland.json](./250756-sommerland.json) |
@@ -27411,6 +27414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steal Out | 361863 | [361863-steal-out.json](./361863-steal-out.json) |
 | Steal Princess | 21186 | [21186-steal-princess.json](./21186-steal-princess.json) |
 | Steal Santa's Pills | 383720 | [383720-steal-santas-pills.json](./383720-steal-santas-pills.json) |
+| Steal See | 399326 | [399326-steal-see.json](./399326-steal-see.json) |
 | Steal the Meal: Unblock Puzzle | 261514 | [261514-steal-the-meal-unblock-puzzle.json](./261514-steal-the-meal-unblock-puzzle.json) |
 | Steal The Pig | 344448 | [344448-steal-the-pig.json](./344448-steal-the-pig.json) |
 | Steal the Spotlight | 185454 | [185454-steal-the-spotlight.json](./185454-steal-the-spotlight.json) |
@@ -30351,6 +30355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stroop Test for Research and Teaching | 100377 | [100377-stroop-test-for-research-and-teaching.json](./100377-stroop-test-for-research-and-teaching.json) |
 | Struckd | 22750 | [22750-struckd.json](./22750-struckd.json) |
 | Struckd: 3D Game Creator | 80940 | [80940-struckd-3d-game-creator.json](./80940-struckd-3d-game-creator.json) |
+| Structorica | 399336 | [399336-structorica.json](./399336-structorica.json) |
 | Structory | 246208 | [246208-structory.json](./246208-structory.json) |
 | Structura | 150504 | [150504-structura.json](./150504-structura.json) |
 | Structural | 138904 | [138904-structural.json](./138904-structural.json) |
