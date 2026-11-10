@@ -2709,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killa | 264603 | [264603-killa.json](./264603-killa.json) |
 | Killapede | 60247 | [60247-killapede.json](./60247-killapede.json) |
 | Killbeat | 293347 | [293347-killbeat.json](./293347-killbeat.json) |
+| Killbot | 32591 | [32591-killbot.json](./32591-killbot.json) |
 | Killbot General | 188816 | [188816-killbot-general.json](./188816-killbot-general.json) |
 | Killbot! | 396395 | [396395-killbot.json](./396395-killbot.json) |
 | Killbox | 304728 | [304728-killbox.json](./304728-killbox.json) |
@@ -3622,6 +3623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Lies | 120102 | [120102-kingdom-of-lies.json](./120102-kingdom-of-lies.json) |
 | Kingdom of Lies | 183804 | [183804-kingdom-of-lies.json](./183804-kingdom-of-lies.json) |
 | Kingdom of Loathing: The Home Game | 163162 | [163162-kingdom-of-loathing-the-home-game.json](./163162-kingdom-of-loathing-the-home-game.json) |
+| Kingdom of Loot | 32739 | [32739-kingdom-of-loot.json](./32739-kingdom-of-loot.json) |
 | Kingdom of Marionettes | 399754 | [399754-kingdom-of-marionettes.json](./399754-kingdom-of-marionettes.json) |
 | Kingdom of Maverta | 181074 | [181074-kingdom-of-maverta.json](./181074-kingdom-of-maverta.json) |
 | Kingdom of Night | 117531 | [117531-kingdom-of-night.json](./117531-kingdom-of-night.json) |
