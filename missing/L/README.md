@@ -5353,6 +5353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilliput Oukoku: Lillimoni to Issho-puni! | 49663 | [49663-lilliput-oukoku-lillimoni-to-issho-puni.json](./49663-lilliput-oukoku-lillimoni-to-issho-puni.json) |
 | Lillusion | 220390 | [220390-lillusion.json](./220390-lillusion.json) |
 | Lilly Adventure | 2218 | [2218-lilly-adventure.json](./2218-lilly-adventure.json) |
+| Lilly and Sasha: Curse of the Immortals | 35575 | [35575-lilly-and-sasha-curse-of-the-immortals.json](./35575-lilly-and-sasha-curse-of-the-immortals.json) |
 | Lilly and Sasha: Guardian Angels | 34954 | [34954-lilly-and-sasha-guardian-angels.json](./34954-lilly-and-sasha-guardian-angels.json) |
 | Lilly and Sasha: Nexus of Souls | 35272 | [35272-lilly-and-sasha-nexus-of-souls.json](./35272-lilly-and-sasha-nexus-of-souls.json) |
 | Lilly And The Murder In A Dream | 303631 | [303631-lilly-and-the-murder-in-a-dream.json](./303631-lilly-and-the-murder-in-a-dream.json) |
