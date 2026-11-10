@@ -3101,6 +3101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
 | Legion | 348510 | [348510-legion.json](./348510-legion.json) |
 | Legion | 94810 | [94810-legion.json](./94810-legion.json) |
+| Legion 51 | 123916 | [123916-legion-51.json](./123916-legion-51.json) |
 | Legion Arena | 125179 | [125179-legion-arena.json](./125179-legion-arena.json) |
 | Legion Breaker | 404002 | [404002-legion-breaker.json](./404002-legion-breaker.json) |
 | Legion Commander | 52044 | [52044-legion-commander.json](./52044-legion-commander.json) |
@@ -8248,6 +8249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loss at Sea | 384114 | [384114-loss-at-sea.json](./384114-loss-at-sea.json) |
 | Lost | 10226 | [10226-lost.json](./10226-lost.json) |
 | Lost | 120010 | [120010-lost.json](./120010-lost.json) |
+| Lost | 124219 | [124219-lost.json](./124219-lost.json) |
 | Lost | 139715 | [139715-lost.json](./139715-lost.json) |
 | Lost | 150342 | [150342-lost.json](./150342-lost.json) |
 | Lost | 186258 | [186258-lost.json](./186258-lost.json) |
