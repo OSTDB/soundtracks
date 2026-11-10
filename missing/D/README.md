@@ -5250,6 +5250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deception | 215542 | [215542-deception.json](./215542-deception.json) |
 | Deception Engine | 315998 | [315998-deception-engine.json](./315998-deception-engine.json) |
 | Deception III: Dark Delusion | 26730 | [26730-deception-iii-dark-delusion.json](./26730-deception-iii-dark-delusion.json) |
+| Deception IV: Blood Ties | 5651 | [5651-deception-iv-blood-ties.json](./5651-deception-iv-blood-ties.json) |
 | Deception IV: The Nightmare Princess | 44650 | [44650-deception-iv-the-nightmare-princess.json](./44650-deception-iv-the-nightmare-princess.json) |
 | Deceptor | 38033 | [38033-deceptor.json](./38033-deceptor.json) |
 | Deceptus | 220011 | [220011-deceptus.json](./220011-deceptus.json) |
@@ -8672,6 +8673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devious | 184668 | [184668-devious.json](./184668-devious.json) |
 | Devious | 99156 | [99156-devious.json](./99156-devious.json) |
 | Devious Designs | 12572 | [12572-devious-designs.json](./12572-devious-designs.json) |
+| Devious Dungeon | 24569 | [24569-devious-dungeon.json](./24569-devious-dungeon.json) |
 | Devious Dungeon 2 | 68988 | [68988-devious-dungeon-2.json](./68988-devious-dungeon-2.json) |
 | Devious Dungeon Collection | 147669 | [147669-devious-dungeon-collection.json](./147669-devious-dungeon-collection.json) |
 | Devious Lick | 224502 | [224502-devious-lick.json](./224502-devious-lick.json) |
@@ -17573,6 +17575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive//Shaft | 75921 | [75921-drive-shaft.json](./75921-drive-shaft.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
 | Driveclub Bikes | 14369 | [14369-driveclub-bikes.json](./14369-driveclub-bikes.json) |
+| Driveclub VR | 24921 | [24921-driveclub-vr.json](./24921-driveclub-vr.json) |
 | DriveCraft | 392909 | [392909-drivecraft.json](./392909-drivecraft.json) |
 | DriveCrazy | 151746 | [151746-drivecrazy.json](./151746-drivecrazy.json) |
 | Driveland | 285559 | [285559-driveland.json](./285559-driveland.json) |
@@ -19052,6 +19055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hunter | 332435 | [332435-dungeon-hunter.json](./332435-dungeon-hunter.json) |
 | Dungeon Hunter 2 | 65162 | [65162-dungeon-hunter-2.json](./65162-dungeon-hunter-2.json) |
 | Dungeon Hunter 3 | 18899 | [18899-dungeon-hunter-3.json](./18899-dungeon-hunter-3.json) |
+| Dungeon Hunter 4 | 24541 | [24541-dungeon-hunter-4.json](./24541-dungeon-hunter-4.json) |
 | Dungeon Hunter 6 | 273292 | [273292-dungeon-hunter-6.json](./273292-dungeon-hunter-6.json) |
 | Dungeon Hunter Champions | 97279 | [97279-dungeon-hunter-champions.json](./97279-dungeon-hunter-champions.json) |
 | Dungeon Hunter Survival | 240881 | [240881-dungeon-hunter-survival.json](./240881-dungeon-hunter-survival.json) |
