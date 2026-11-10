@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Nightmare on Elm Street: Son of a Hundred Maniacs | 176824 | [176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json](./176824-a-nightmare-on-elm-street-son-of-a-hundred-maniacs.json) |
 | A Nightmare on Elm Street: Son of a Hundred Maniacs Demake | 222699 | [222699-a-nightmare-on-elm-street-son-of-a-hundred-maniacs-demake.json](./222699-a-nightmare-on-elm-street-son-of-a-hundred-maniacs-demake.json) |
 | A Nightmare on Sesame Street | 178902 | [178902-a-nightmare-on-sesame-street.json](./178902-a-nightmare-on-sesame-street.json) |
+| A Nightmare's Trip | 123906 | [123906-a-nightmares-trip.json](./123906-a-nightmares-trip.json) |
 | A Nights Haunting: Source | 333857 | [333857-a-nights-haunting-source.json](./333857-a-nights-haunting-source.json) |
 | A Ninja in Training | 161738 | [161738-a-ninja-in-training.json](./161738-a-ninja-in-training.json) |
 | A Ninja's Tale | 23598 | [23598-a-ninjas-tale.json](./23598-a-ninjas-tale.json) |
@@ -11057,6 +11058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anlife: Motion-Learning Life Evolution | 264202 | [264202-anlife-motion-learning-life-evolution.json](./264202-anlife-motion-learning-life-evolution.json) |
 | Anmynor Puzzles | 17040 | [17040-anmynor-puzzles.json](./17040-anmynor-puzzles.json) |
 | Ann | 165483 | [165483-ann.json](./165483-ann.json) |
+| Ann Achronist: Many Happy Returns | 123949 | [123949-ann-achronist-many-happy-returns.json](./123949-ann-achronist-many-happy-returns.json) |
 | Ann's Parlor | 415803 | [415803-anns-parlor.json](./415803-anns-parlor.json) |
 | Anna | 388893 | [388893-anna.json](./388893-anna.json) |
 | Anna | 9976 | [9976-anna.json](./9976-anna.json) |
@@ -15746,6 +15748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen World | 379451 | [379451-ashen-world.json](./379451-ashen-world.json) |
 | Ashen: Definitive Edition | 165871 | [165871-ashen-definitive-edition.json](./165871-ashen-definitive-edition.json) |
 | Ashen: Nightstorm Isle | 133044 | [133044-ashen-nightstorm-isle.json](./133044-ashen-nightstorm-isle.json) |
+| AshenForest | 124236 | [124236-ashenforest.json](./124236-ashenforest.json) |
 | Ashentia Hauntings | 386822 | [386822-ashentia-hauntings.json](./386822-ashentia-hauntings.json) |
 | Asher | 184726 | [184726-asher.json](./184726-asher.json) |
 | Asher | 33483 | [33483-asher.json](./33483-asher.json) |
@@ -17041,6 +17044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronots | 191038 | [191038-astronots.json](./191038-astronots.json) |
 | Astronought | 399988 | [399988-astronought.json](./399988-astronought.json) |
 | AstronTycoon | 100527 | [100527-astrontycoon.json](./100527-astrontycoon.json) |
+| AstronTycoon2: Ritual | 123825 | [123825-astrontycoon2-ritual.json](./123825-astrontycoon2-ritual.json) |
 | Astronut | 92128 | [92128-astronut.json](./92128-astronut.json) |
 | Astroops | 373860 | [373860-astroops.json](./373860-astroops.json) |
 | Astropark | 353380 | [353380-astropark.json](./353380-astropark.json) |
