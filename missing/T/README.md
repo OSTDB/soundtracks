@@ -4613,6 +4613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Bomber | 143826 | [143826-terra-bomber.json](./143826-terra-bomber.json) |
 | Terra Centauri: Last Stand | 184815 | [184815-terra-centauri-last-stand.json](./184815-terra-centauri-last-stand.json) |
 | Terra Cognita | 29037 | [29037-terra-cognita.json](./29037-terra-cognita.json) |
+| Terra Cresta | 14876 | [14876-terra-cresta.json](./14876-terra-cresta.json) |
 | Terra Cresta 3D | 58549 | [58549-terra-cresta-3d.json](./58549-terra-cresta-3d.json) |
 | Terra Cresta II | 37728 | [37728-terra-cresta-ii.json](./37728-terra-cresta-ii.json) |
 | Terra Cresta II: Mandler no Gyakushuu | 58548 | [58548-terra-cresta-ii-mandler-no-gyakushuu.json](./58548-terra-cresta-ii-mandler-no-gyakushuu.json) |
@@ -15587,6 +15588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Player RPG | 102121 | [102121-the-player-rpg.json](./102121-the-player-rpg.json) |
 | The Player Who Can't Level Up | 312830 | [312830-the-player-who-cant-level-up.json](./312830-the-player-who-cant-level-up.json) |
 | The Playful Triangle | 309454 | [309454-the-playful-triangle.json](./309454-the-playful-triangle.json) |
+| The Playroom | 58783 | [58783-the-playroom.json](./58783-the-playroom.json) |
 | The Playroom | 89494 | [89494-the-playroom.json](./89494-the-playroom.json) |
 | The Playroom 2 | 124137 | [124137-the-playroom-2.json](./124137-the-playroom-2.json) |
 | The Playroom VR | 25263 | [25263-the-playroom-vr.json](./25263-the-playroom-vr.json) |
@@ -18342,6 +18344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Thing That Happened | 294284 | [294284-the-thing-that-happened.json](./294284-the-thing-that-happened.json) |
 | The Thing With Mistletoes | 29589 | [29589-the-thing-with-mistletoes.json](./29589-the-thing-with-mistletoes.json) |
 | The Thing You Can't Defeat | 251239 | [251239-the-thing-you-cant-defeat.json](./251239-the-thing-you-cant-defeat.json) |
+| The Thing: Remastered | 305004 | [305004-the-thing-remastered.json](./305004-the-thing-remastered.json) |
 | The Thing: Remastered - Deluxe Edition | 383010 | [383010-the-thing-remastered-deluxe-edition.json](./383010-the-thing-remastered-deluxe-edition.json) |
 | The Thing: Station Survival | 309620 | [309620-the-thing-station-survival.json](./309620-the-thing-station-survival.json) |
 | The Things We Don't See: 10 Interactive Stories of Horror, Mystery, and the Unknown | 415192 | [415192-the-things-we-dont-see-10-interactive-stories-of-horror-mystery-and-the-unknown.json](./415192-the-things-we-dont-see-10-interactive-stories-of-horror-mystery-and-the-unknown.json) |
@@ -21275,6 +21278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrills & Chills - Roller Coasters | 31538 | [31538-thrills-and-chills-roller-coasters.json](./31538-thrills-and-chills-roller-coasters.json) |
 | Thrillville | 281901 | [281901-thrillville.json](./281901-thrillville.json) |
 | Thrillville | 2852 | [2852-thrillville.json](./2852-thrillville.json) |
+| Thrillville: Off the Rails | 209 | [209-thrillville-off-the-rails.json](./209-thrillville-off-the-rails.json) |
 | Thrillville: Off the Rails | 281902 | [281902-thrillville-off-the-rails.json](./281902-thrillville-off-the-rails.json) |
 | Thrillville: Off the Rails | 322364 | [322364-thrillville-off-the-rails.json](./322364-thrillville-off-the-rails.json) |
 | Thrive | 142499 | [142499-thrive.json](./142499-thrive.json) |
@@ -26020,6 +26024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider III | 266699 | [266699-tomb-raider-iii.json](./266699-tomb-raider-iii.json) |
 | Tomb Raider III: Adventures of Lara Croft | 1157 | [1157-tomb-raider-iii-adventures-of-lara-croft.json](./1157-tomb-raider-iii-adventures-of-lara-croft.json) |
 | Tomb Raider III: Adventures of Lara Croft - Collector's Edition | 43689 | [43689-tomb-raider-iii-adventures-of-lara-croft-collectors-edition.json](./43689-tomb-raider-iii-adventures-of-lara-croft-collectors-edition.json) |
+| Tomb Raider IV•V•VI Remastered | 319480 | [319480-tomb-raider-iv-v-vi-remastered.json](./319480-tomb-raider-iv-v-vi-remastered.json) |
 | Tomb Raider IV•V•VI Remastered: Deluxe Edition | 382879 | [382879-tomb-raider-iv-v-vi-remastered-deluxe-edition.json](./382879-tomb-raider-iv-v-vi-remastered-deluxe-edition.json) |
 | Tomb Raider Level Editor | 130808 | [130808-tomb-raider-level-editor.json](./130808-tomb-raider-level-editor.json) |
 | Tomb Raider Reloaded | 143139 | [143139-tomb-raider-reloaded.json](./143139-tomb-raider-reloaded.json) |
