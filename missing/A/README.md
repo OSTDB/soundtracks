@@ -15107,6 +15107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arosia | 150954 | [150954-arosia.json](./150954-arosia.json) |
 | Around the Block | 390791 | [390791-around-the-block.json](./390791-around-the-block.json) |
 | Around the Clock at Bikini Bottom | 143872 | [143872-around-the-clock-at-bikini-bottom.json](./143872-around-the-clock-at-bikini-bottom.json) |
+| Around The Core | 408449 | [408449-around-the-core.json](./408449-around-the-core.json) |
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
 | Around the Moon | 90103 | [90103-around-the-moon.json](./90103-around-the-moon.json) |
 | Around the Words | 52092 | [52092-around-the-words.json](./52092-around-the-words.json) |
@@ -17673,6 +17674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -19189,6 +19191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awkward Girls | 149421 | [149421-awkward-girls.json](./149421-awkward-girls.json) |
 | Awkward Goalie | 246962 | [246962-awkward-goalie.json](./246962-awkward-goalie.json) |
 | Awkward Todd | 28448 | [28448-awkward-todd.json](./28448-awkward-todd.json) |
+| Awoken | 408377 | [408377-awoken.json](./408377-awoken.json) |
 | Awoken Madness | 271201 | [271201-awoken-madness.json](./271201-awoken-madness.json) |
 | Awoken: Chapter One of Reverie | 168849 | [168849-awoken-chapter-one-of-reverie.json](./168849-awoken-chapter-one-of-reverie.json) |
 | Awol Ahab | 180115 | [180115-awol-ahab.json](./180115-awol-ahab.json) |
