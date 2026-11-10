@@ -6107,6 +6107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airship | 379527 | [379527-airship.json](./379527-airship.json) |
 | Airship 2: Kingdoms Ablaze | 396536 | [396536-airship-2-kingdoms-ablaze.json](./396536-airship-2-kingdoms-ablaze.json) |
 | Airship Asunder | 32599 | [32599-airship-asunder.json](./32599-airship-asunder.json) |
+| Airship Climber | 402622 | [402622-airship-climber.json](./402622-airship-climber.json) |
 | Airship Commander | 31432 | [31432-airship-commander.json](./31432-airship-commander.json) |
 | Airship Defender | 270326 | [270326-airship-defender.json](./270326-airship-defender.json) |
 | Airship Dragoon | 17561 | [17561-airship-dragoon.json](./17561-airship-dragoon.json) |
@@ -11325,6 +11326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annwn: The Otherworld | 81834 | [81834-annwn-the-otherworld.json](./81834-annwn-the-otherworld.json) |
 | Annyversaire | 283912 | [283912-annyversaire.json](./283912-annyversaire.json) |
 | Ano Hi Mita Hana no Namae wo Boku-tachi ha Mada Shiranai | 122222 | [122222-ano-hi-mita-hana-no-namae-wo-boku-tachi-ha-mada-shiranai.json](./122222-ano-hi-mita-hana-no-namae-wo-boku-tachi-ha-mada-shiranai.json) |
+| Ano Hi no Kimi wo Furimukasete | 402629 | [402629-ano-hi-no-kimi-wo-furimukasete.json](./402629-ano-hi-no-kimi-wo-furimukasete.json) |
 | Ano Hi wo Mou Ichido | 220318 | [220318-ano-hi-wo-mou-ichido.json](./220318-ano-hi-wo-mou-ichido.json) |
 | Ano Ko Doko no Ko | 314652 | [314652-ano-ko-doko-no-ko.json](./314652-ano-ko-doko-no-ko.json) |
 | Ano Ko wa Ore kara Hanarenai | 8640 | [8640-ano-ko-wa-ore-kara-hanarenai.json](./8640-ano-ko-wa-ore-kara-hanarenai.json) |
@@ -15910,6 +15912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Eden: Survival | 137765 | [137765-ashes-of-eden-survival.json](./137765-ashes-of-eden-survival.json) |
 | Ashes of Empire | 11919 | [11919-ashes-of-empire.json](./11919-ashes-of-empire.json) |
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
+| Ashes of Holloway Bay | 402640 | [402640-ashes-of-holloway-bay.json](./402640-ashes-of-holloway-bay.json) |
 | Ashes of Idunn: Tales of Fimbulwinter | 309427 | [309427-ashes-of-idunn-tales-of-fimbulwinter.json](./309427-ashes-of-idunn-tales-of-fimbulwinter.json) |
 | Ashes of Immortality | 35455 | [35455-ashes-of-immortality.json](./35455-ashes-of-immortality.json) |
 | Ashes of Immortality II | 35456 | [35456-ashes-of-immortality-ii.json](./35456-ashes-of-immortality-ii.json) |
