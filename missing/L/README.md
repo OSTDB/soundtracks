@@ -8933,6 +8933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost:Smile Memories | 120778 | [120778-lost-smile-memories.json](./120778-lost-smile-memories.json) |
 | Lost2 | 211565 | [211565-lost2.json](./211565-lost2.json) |
 | Lostade | 377694 | [377694-lostade.json](./377694-lostade.json) |
+| Lostbound | 399324 | [399324-lostbound.json](./399324-lostbound.json) |
 | Lostboy.exe | 255566 | [255566-lostboy-exe.json](./255566-lostboy-exe.json) |
 | Losted | 190962 | [190962-losted.json](./190962-losted.json) |
 | Losted Mind | 348256 | [348256-losted-mind.json](./348256-losted-mind.json) |
@@ -9142,6 +9143,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Cubed AR | 96572 | [96572-love-cubed-ar.json](./96572-love-cubed-ar.json) |
 | Love Cupid | 199995 | [199995-love-cupid.json](./199995-love-cupid.json) |
 | Love Curse: Find Your Soulmate | 310714 | [310714-love-curse-find-your-soulmate.json](./310714-love-curse-find-your-soulmate.json) |
+| Love Curse: Find Your Soulmate - Epilogue Update | 399549 | [399549-love-curse-find-your-soulmate-epilogue-update.json](./399549-love-curse-find-your-soulmate-epilogue-update.json) |
+| Love Curse: Find Your Soulmate - Free Epilogue | 399544 | [399544-love-curse-find-your-soulmate-free-epilogue.json](./399544-love-curse-find-your-soulmate-free-epilogue.json) |
 | Love D3ath Love | 412296 | [412296-love-d3ath-love.json](./412296-love-d3ath-love.json) |
 | Love Date | 119669 | [119669-love-date.json](./119669-love-date.json) |
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
