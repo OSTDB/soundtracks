@@ -1681,6 +1681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys Strategy | 15456 | [15456-ys-strategy.json](./15456-ys-strategy.json) |
 | Ys V Expert | 42316 | [42316-ys-v-expert.json](./42316-ys-v-expert.json) |
 | Ys V: Lost Kefin, Kingdom of Sand | 168535 | [168535-ys-v-lost-kefin-kingdom-of-sand.json](./168535-ys-v-lost-kefin-kingdom-of-sand.json) |
+| Ys V: Ushinawareta Suna no Miyako Kefin | 15453 | [15453-ys-v-ushinawareta-suna-no-miyako-kefin.json](./15453-ys-v-ushinawareta-suna-no-miyako-kefin.json) |
 | Ys VI: The Ark of Napishtim | 200897 | [200897-ys-vi-the-ark-of-napishtim.json](./200897-ys-vi-the-ark-of-napishtim.json) |
 | Ys VIII & IX Super Price Set | 183660 | [183660-ys-viii-and-ix-super-price-set.json](./183660-ys-viii-and-ix-super-price-set.json) |
 | YS VIII Mobile | 139223 | [139223-ys-viii-mobile.json](./139223-ys-viii-mobile.json) |
