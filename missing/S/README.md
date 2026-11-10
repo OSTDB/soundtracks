@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saiki Kusuo no Psi Nan: Shijou Psi Dai no Psi Nan!? | 136888 | [136888-saiki-kusuo-no-psi-nan-shijou-psi-dai-no-psi-nan.json](./136888-saiki-kusuo-no-psi-nan-shijou-psi-dai-no-psi-nan.json) |
 | Saikin Koi Shiteru? | 123410 | [123410-saikin-koi-shiteru.json](./123410-saikin-koi-shiteru.json) |
 | Saikin MMO | 306083 | [306083-saikin-mmo.json](./306083-saikin-mmo.json) |
+| Saikiri | 396610 | [396610-saikiri.json](./396610-saikiri.json) |
 | Saikko-nee to Death Game | 301025 | [301025-saikko-nee-to-death-game.json](./301025-saikko-nee-to-death-game.json) |
 | Saiko no Sutoka | 141288 | [141288-saiko-no-sutoka.json](./141288-saiko-no-sutoka.json) |
 | Saiko no Sutoka no Shiki | 244705 | [244705-saiko-no-sutoka-no-shiki.json](./244705-saiko-no-sutoka-no-shiki.json) |
@@ -16949,6 +16950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOCOM: US Navy SEALs | 22238 | [22238-socom-us-navy-seals.json](./22238-socom-us-navy-seals.json) |
 | Socrates Chess 3 | 151916 | [151916-socrates-chess-3.json](./151916-socrates-chess-3.json) |
 | Socrates Jones: Pro Philosopher | 122894 | [122894-socrates-jones-pro-philosopher.json](./122894-socrates-jones-pro-philosopher.json) |
+| Socrates Ragebait | 396623 | [396623-socrates-ragebait.json](./396623-socrates-ragebait.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Socturnal | 398939 | [398939-socturnal.json](./398939-socturnal.json) |
 | Socxel | 180049 | [180049-socxel.json](./180049-socxel.json) |
@@ -20209,6 +20211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spa Mania 2 | 31336 | [31336-spa-mania-2.json](./31336-spa-mania-2.json) |
 | Spa Massage Boys: Love & Relax | 393892 | [393892-spa-massage-boys-love-and-relax.json](./393892-spa-massage-boys-love-and-relax.json) |
 | Spa Massage Girls: Love & Relax | 393893 | [393893-spa-massage-girls-love-and-relax.json](./393893-spa-massage-girls-love-and-relax.json) |
+| Spa World | 396617 | [396617-spa-world.json](./396617-spa-world.json) |
 | Spaaace! | 179052 | [179052-spaaace.json](./179052-spaaace.json) |
 | Spac Cop, Sereth | 97843 | [97843-spac-cop-sereth.json](./97843-spac-cop-sereth.json) |
 | Space | 213452 | [213452-space.json](./213452-space.json) |
@@ -30344,6 +30347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold Crusader II: The Emperor and The Hermit | 89218 | [89218-stronghold-crusader-ii-the-emperor-and-the-hermit.json](./89218-stronghold-crusader-ii-the-emperor-and-the-hermit.json) |
 | Stronghold Crusader II: The Princess and The Pig | 89217 | [89217-stronghold-crusader-ii-the-princess-and-the-pig.json](./89217-stronghold-crusader-ii-the-princess-and-the-pig.json) |
 | Stronghold Crusader II: The Templar &The Duke | 89219 | [89219-stronghold-crusader-ii-the-templar-and-the-duke.json](./89219-stronghold-crusader-ii-the-templar-and-the-duke.json) |
+| Stronghold Crusader: Definitive Edition - Baldwin & Bullseye | 396611 | [396611-stronghold-crusader-definitive-edition-baldwin-and-bullseye.json](./396611-stronghold-crusader-definitive-edition-baldwin-and-bullseye.json) |
 | Stronghold Crusader: Definitive Edition - The Canary & The Trader | 371879 | [371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json](./371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json) |
 | Stronghold Crusader: Definitive Edition - The Surgeon and Baibars | 413989 | [413989-stronghold-crusader-definitive-edition-the-surgeon-and-baibars.json](./413989-stronghold-crusader-definitive-edition-the-surgeon-and-baibars.json) |
 | Stronghold Defender | 18321 | [18321-stronghold-defender.json](./18321-stronghold-defender.json) |
@@ -32802,6 +32806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dungeon Master | 68870 | [68870-super-dungeon-master.json](./68870-super-dungeon-master.json) |
 | Super Dungeon Muncher | 311602 | [311602-super-dungeon-muncher.json](./311602-super-dungeon-muncher.json) |
 | Super Dungeon Run | 34942 | [34942-super-dungeon-run.json](./34942-super-dungeon-run.json) |
+| Super Dungeon Scoundrel | 396609 | [396609-super-dungeon-scoundrel.json](./396609-super-dungeon-scoundrel.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
 | Super Duper Amy Freaking Rose | 370489 | [370489-super-duper-amy-freaking-rose.json](./370489-super-duper-amy-freaking-rose.json) |
 | Super Duper Flying Genocide 2017 | 34004 | [34004-super-duper-flying-genocide-2017.json](./34004-super-duper-flying-genocide-2017.json) |
