@@ -1181,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Rampage | 289128 | [289128-rail-rampage.json](./289128-rail-rampage.json) |
 | Rail Recon | 76815 | [76815-rail-recon.json](./76815-rail-recon.json) |
 | Rail Rescue | 380831 | [380831-rail-rescue.json](./380831-rail-rescue.json) |
+| Rail Rescue: Puzzle Lines - Challenge Edition | 401350 | [401350-rail-rescue-puzzle-lines-challenge-edition.json](./401350-rail-rescue-puzzle-lines-challenge-edition.json) |
 | Rail Rescue: Puzzle Lines - Challenge Track | 393899 | [393899-rail-rescue-puzzle-lines-challenge-track.json](./393899-rail-rescue-puzzle-lines-challenge-track.json) |
 | Rail Rescue: Puzzle Lines - Quest Track | 393900 | [393900-rail-rescue-puzzle-lines-quest-track.json](./393900-rail-rescue-puzzle-lines-quest-track.json) |
 | Rail Rider | 23601 | [23601-rail-rider.json](./23601-rail-rider.json) |
