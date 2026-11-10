@@ -6351,8 +6351,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicious: Emily's Home Sweet Home | 30387 | [30387-delicious-emilys-home-sweet-home.json](./30387-delicious-emilys-home-sweet-home.json) |
 | Delicious: Emily's Honeymoon Cruise | 145628 | [145628-delicious-emilys-honeymoon-cruise.json](./145628-delicious-emilys-honeymoon-cruise.json) |
 | Delicious: Emily's Hopes & Fears | 30684 | [30684-delicious-emilys-hopes-and-fears.json](./30684-delicious-emilys-hopes-and-fears.json) |
+| Delicious: Emily's Message in a Bottle | 30960 | [30960-delicious-emilys-message-in-a-bottle.json](./30960-delicious-emilys-message-in-a-bottle.json) |
 | Delicious: Emily's Miracle of Life | 54527 | [54527-delicious-emilys-miracle-of-life.json](./54527-delicious-emilys-miracle-of-life.json) |
 | Delicious: Emily's Moms vs. Dads | 80946 | [80946-delicious-emilys-moms-vs-dads.json](./80946-delicious-emilys-moms-vs-dads.json) |
+| Delicious: Emily's New Beginning | 30917 | [30917-delicious-emilys-new-beginning.json](./30917-delicious-emilys-new-beginning.json) |
 | Delicious: Emily's Road Trip | 117545 | [117545-delicious-emilys-road-trip.json](./117545-delicious-emilys-road-trip.json) |
 | Delicious: Emily's Road Trip - Collector's Edition | 358097 | [358097-delicious-emilys-road-trip-collectors-edition.json](./358097-delicious-emilys-road-trip-collectors-edition.json) |
 | Delicious: Emily's Taste of Fame | 89222 | [89222-delicious-emilys-taste-of-fame.json](./89222-delicious-emilys-taste-of-fame.json) |
@@ -19089,6 +19091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Gate | 53977 | [53977-dungeon-gate.json](./53977-dungeon-gate.json) |
 | Dungeon Gatekeeper | 391774 | [391774-dungeon-gatekeeper.json](./391774-dungeon-gatekeeper.json) |
 | Dungeon Gems | 348737 | [348737-dungeon-gems.json](./348737-dungeon-gems.json) |
+| Dungeon Girl | 25689 | [25689-dungeon-girl.json](./25689-dungeon-girl.json) |
 | Dungeon Girl | 271115 | [271115-dungeon-girl.json](./271115-dungeon-girl.json) |
 | Dungeon Girl Scouts | 210693 | [210693-dungeon-girl-scouts.json](./210693-dungeon-girl-scouts.json) |
 | Dungeon Glitchers VR | 182660 | [182660-dungeon-glitchers-vr.json](./182660-dungeon-glitchers-vr.json) |
