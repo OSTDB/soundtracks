@@ -7659,6 +7659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bienvenue chez les Ch'tis | 176055 | [176055-bienvenue-chez-les-chtis.json](./176055-bienvenue-chez-les-chtis.json) |
 | Bienvenue chez les Ch'tis | 176063 | [176063-bienvenue-chez-les-chtis.json](./176063-bienvenue-chez-les-chtis.json) |
 | Bierwagen Rush | 130121 | [130121-bierwagen-rush.json](./130121-bierwagen-rush.json) |
+| Bierzerkers | 35780 | [35780-bierzerkers.json](./35780-bierzerkers.json) |
 | Biff | 13393 | [13393-biff.json](./13393-biff.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
 | Bifrost Breakout | 40606 | [40606-bifrost-breakout.json](./40606-bifrost-breakout.json) |
@@ -18356,6 +18357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunker Tidy Up | 417324 | [417324-bunker-tidy-up.json](./417324-bunker-tidy-up.json) |
 | Bunker-7 | 399345 | [399345-bunker-7.json](./399345-bunker-7.json) |
 | Bunker: Nightmare Begins | 116925 | [116925-bunker-nightmare-begins.json](./116925-bunker-nightmare-begins.json) |
+| Bunker: The Underground Game | 35661 | [35661-bunker-the-underground-game.json](./35661-bunker-the-underground-game.json) |
 | Bunker's Shadow | 293113 | [293113-bunkers-shadow.json](./293113-bunkers-shadow.json) |
 | Bunker16 | 223684 | [223684-bunker16.json](./223684-bunker16.json) |
 | Bunkered with Femboy | 388175 | [388175-bunkered-with-femboy.json](./388175-bunkered-with-femboy.json) |
