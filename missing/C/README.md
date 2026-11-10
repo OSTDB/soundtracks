@@ -4991,6 +4991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats-Shaped | 311608 | [311608-cats-shaped.json](./311608-cats-shaped.json) |
 | Cats, Coffee, and Love | 279421 | [279421-cats-coffee-and-love.json](./279421-cats-coffee-and-love.json) |
 | Cats: Classic Onet Connect - Expansion Pack | 170687 | [170687-cats-classic-onet-connect-expansion-pack.json](./170687-cats-classic-onet-connect-expansion-pack.json) |
+| CATS: Crash Arena Turbo Stars | 55179 | [55179-cats-crash-arena-turbo-stars.json](./55179-cats-crash-arena-turbo-stars.json) |
 | Cats! | 191548 | [191548-cats.json](./191548-cats.json) |
 | Cats! | 34772 | [34772-cats.json](./34772-cats.json) |
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
@@ -7756,6 +7757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of Hell | 317507 | [317507-children-of-hell.json](./317507-children-of-hell.json) |
 | Children of Kronos | 376668 | [376668-children-of-kronos.json](./376668-children-of-kronos.json) |
 | Children of Liberty | 16859 | [16859-children-of-liberty.json](./16859-children-of-liberty.json) |
+| Children of Mana | 14988 | [14988-children-of-mana.json](./14988-children-of-mana.json) |
 | Children of Mare | 347344 | [347344-children-of-mare.json](./347344-children-of-mare.json) |
 | Children of Morn | 245667 | [245667-children-of-morn.json](./245667-children-of-morn.json) |
 | Children of Morta: Ancient Spirits | 175855 | [175855-children-of-morta-ancient-spirits.json](./175855-children-of-morta-ancient-spirits.json) |
@@ -11651,6 +11653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra Pinball | 13501 | [13501-cobra-pinball.json](./13501-cobra-pinball.json) |
 | Cobra Strike | 409395 | [409395-cobra-strike.json](./409395-cobra-strike.json) |
 | Cobra The Arcade | 303967 | [303967-cobra-the-arcade.json](./303967-cobra-the-arcade.json) |
+| Cobra Triangle | 14590 | [14590-cobra-triangle.json](./14590-cobra-triangle.json) |
 | Cobra: Galaxy Nights | 75736 | [75736-cobra-galaxy-nights.json](./75736-cobra-galaxy-nights.json) |
 | Cobra: Kokuryuu Ou no Densetsu | 74749 | [74749-cobra-kokuryuu-ou-no-densetsu.json](./74749-cobra-kokuryuu-ou-no-densetsu.json) |
 | Cobra: Kokuryuuou no Densetsu | 73724 | [73724-cobra-kokuryuuou-no-densetsu.json](./73724-cobra-kokuryuuou-no-densetsu.json) |
