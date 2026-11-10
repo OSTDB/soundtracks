@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
 | Harvest Moon: Light of Hope - Complete Special Edition | 136018 | [136018-harvest-moon-light-of-hope-complete-special-edition.json](./136018-harvest-moon-light-of-hope-complete-special-edition.json) |
 | Harvest Moon: Light of Hope - Decorations & Tool Upgrade Pack | 404555 | [404555-harvest-moon-light-of-hope-decorations-and-tool-upgrade-pack.json](./404555-harvest-moon-light-of-hope-decorations-and-tool-upgrade-pack.json) |
+| Harvest Moon: Light of Hope - Special Edition | 86545 | [86545-harvest-moon-light-of-hope-special-edition.json](./86545-harvest-moon-light-of-hope-special-edition.json) |
 | Harvest Moon: Light of Hope - Special Edition: Divine Marriageable Characters Pack | 225043 | [225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json](./225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json) |
 | Harvest Moon: Light of Hope - Special Edition: Doc's & Melanie's Special Episodes | 171296 | [171296-harvest-moon-light-of-hope-special-edition-docs-and-melanies-special-episodes.json](./171296-harvest-moon-light-of-hope-special-edition-docs-and-melanies-special-episodes.json) |
 | Harvest Moon: Light of Hope - Special Edition: New Marriageable Characters Pack | 171415 | [171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json](./171415-harvest-moon-light-of-hope-special-edition-new-marriageable-characters-pack.json) |
@@ -6731,6 +6732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexa Sort | 321646 | [321646-hexa-sort.json](./321646-hexa-sort.json) |
 | Hexa TD: Free Game | 340468 | [340468-hexa-td-free-game.json](./340468-hexa-td-free-game.json) |
 | Hexa Trains | 121985 | [121985-hexa-trains.json](./121985-hexa-trains.json) |
+| Hexa Turn | 88227 | [88227-hexa-turn.json](./88227-hexa-turn.json) |
 | Hexa World 3D | 348193 | [348193-hexa-world-3d.json](./348193-hexa-world-3d.json) |
 | Hexa-6 Puzzle | 101675 | [101675-hexa-6-puzzle.json](./101675-hexa-6-puzzle.json) |
 | Hexa's Gone | 393499 | [393499-hexas-gone.json](./393499-hexas-gone.json) |
@@ -11218,6 +11220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Greenwood | 211644 | [211644-hotel-greenwood.json](./211644-hotel-greenwood.json) |
 | Hotel Hermes | 187832 | [187832-hotel-hermes.json](./187832-hotel-hermes.json) |
 | Hotel Hideaway | 380123 | [380123-hotel-hideaway.json](./380123-hotel-hideaway.json) |
+| Hotel Hideaway | 86934 | [86934-hotel-hideaway.json](./86934-hotel-hideaway.json) |
 | Hotel Hima | 260865 | [260865-hotel-hima.json](./260865-hotel-hima.json) |
 | Hotel Hustle | 300659 | [300659-hotel-hustle.json](./300659-hotel-hustle.json) |
 | Hotel Hustle: Complete Edition | 328764 | [328764-hotel-hustle-complete-edition.json](./328764-hotel-hustle-complete-edition.json) |
@@ -13170,6 +13173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia Victory | 44578 | [44578-hyperdimension-neptunia-victory.json](./44578-hyperdimension-neptunia-victory.json) |
 | Hyperdimension Neptunia Victory: Limited Edition | 43028 | [43028-hyperdimension-neptunia-victory-limited-edition.json](./43028-hyperdimension-neptunia-victory-limited-edition.json) |
 | Hyperdimension Neptunia: Collector's Edition | 42987 | [42987-hyperdimension-neptunia-collectors-edition.json](./42987-hyperdimension-neptunia-collectors-edition.json) |
+| Hyperdimension Neptunia: Producing Perfection | 9867 | [9867-hyperdimension-neptunia-producing-perfection.json](./9867-hyperdimension-neptunia-producing-perfection.json) |
 | Hyperdimension Neptunia: Producing Perfection - Limited Edition | 89920 | [89920-hyperdimension-neptunia-producing-perfection-limited-edition.json](./89920-hyperdimension-neptunia-producing-perfection-limited-edition.json) |
 | HyperDissonance | 372831 | [372831-hyperdissonance.json](./372831-hyperdissonance.json) |
 | Hyperdome | 12919 | [12919-hyperdome.json](./12919-hyperdome.json) |
