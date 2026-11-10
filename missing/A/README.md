@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat X: Skies of Deception | 14755 | [14755-ace-combat-x-skies-of-deception.json](./14755-ace-combat-x-skies-of-deception.json) |
 | Ace Combat Xi: Skies of Incursion | 14756 | [14756-ace-combat-xi-skies-of-incursion.json](./14756-ace-combat-xi-skies-of-incursion.json) |
 | Ace Combat: Assault Horizon - Enhanced Edition | 20850 | [20850-ace-combat-assault-horizon-enhanced-edition.json](./20850-ace-combat-assault-horizon-enhanced-edition.json) |
+| Ace Combat: Assault Horizon Legacy + | 44028 | [44028-ace-combat-assault-horizon-legacy.json](./44028-ace-combat-assault-horizon-legacy.json) |
 | Ace Combat: Joint Assault | 14757 | [14757-ace-combat-joint-assault.json](./14757-ace-combat-joint-assault.json) |
 | Ace Combat: Northern Wings | 175783 | [175783-ace-combat-northern-wings.json](./175783-ace-combat-northern-wings.json) |
 | Ace Driver | 39337 | [39337-ace-driver.json](./39337-ace-driver.json) |
@@ -10243,6 +10244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Double Crossed | 240248 | [240248-angry-birds-double-crossed.json](./240248-angry-birds-double-crossed.json) |
 | Angry Birds Dream Blast | 114424 | [114424-angry-birds-dream-blast.json](./114424-angry-birds-dream-blast.json) |
 | Angry Birds Electronic Handheld Game | 246306 | [246306-angry-birds-electronic-handheld-game.json](./246306-angry-birds-electronic-handheld-game.json) |
+| Angry Birds Evolution | 37184 | [37184-angry-birds-evolution.json](./37184-angry-birds-evolution.json) |
 | Angry Birds Explore | 398679 | [398679-angry-birds-explore.json](./398679-angry-birds-explore.json) |
 | Angry Birds Fight! | 60226 | [60226-angry-birds-fight.json](./60226-angry-birds-fight.json) |
 | Angry Birds Flash | 234818 | [234818-angry-birds-flash.json](./234818-angry-birds-flash.json) |
@@ -13656,6 +13658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcangel: The Legacy of Peace | 52407 | [52407-arcangel-the-legacy-of-peace.json](./52407-arcangel-the-legacy-of-peace.json) |
 | Arcania: Fall of Setarrif | 8331 | [8331-arcania-fall-of-setarrif.json](./8331-arcania-fall-of-setarrif.json) |
 | Arcania: Gothic 4 | 3234 | [3234-arcania-gothic-4.json](./3234-arcania-gothic-4.json) |
+| Arcania: The Complete Tale | 47472 | [47472-arcania-the-complete-tale.json](./47472-arcania-the-complete-tale.json) |
 | Arcanight | 25760 | [25760-arcanight.json](./25760-arcanight.json) |
 | Arcanika | 243603 | [243603-arcanika.json](./243603-arcanika.json) |
 | Arcanion: Tale of Magi | 149026 | [149026-arcanion-tale-of-magi.json](./149026-arcanion-tale-of-magi.json) |
