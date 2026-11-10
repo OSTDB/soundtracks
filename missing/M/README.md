@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maddmadd | 381607 | [381607-maddmadd.json](./381607-maddmadd.json) |
 | Made | 142620 | [142620-made.json](./142620-made.json) |
 | Made Beaver | 217064 | [217064-made-beaver.json](./217064-made-beaver.json) |
+| Made by Hand | 423624 | [423624-made-by-hand.json](./423624-made-by-hand.json) |
 | Made For | 343241 | [343241-made-for.json](./343241-made-for.json) |
 | Made in Abyss: Binary Star Falling into Darkness | 146711 | [146711-made-in-abyss-binary-star-falling-into-darkness.json](./146711-made-in-abyss-binary-star-falling-into-darkness.json) |
 | Made in Abyss: Binary Star Falling into Darkness - Collector's Edition | 150144 | [150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json](./150144-made-in-abyss-binary-star-falling-into-darkness-collectors-edition.json) |
@@ -9318,6 +9319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Eater | 123595 | [123595-memory-eater.json](./123595-memory-eater.json) |
 | Memory for Kids | 251522 | [251522-memory-for-kids.json](./251522-memory-for-kids.json) |
 | Memory Fragment | 263501 | [263501-memory-fragment.json](./263501-memory-fragment.json) |
+| Memory Games | 423619 | [423619-memory-games.json](./423619-memory-games.json) |
 | Memory games for kids 4+ | 88831 | [88831-memory-games-for-kids-4.json](./88831-memory-games-for-kids-4.json) |
 | Memory ghost | 206397 | [206397-memory-ghost.json](./206397-memory-ghost.json) |
 | Memory Ghosts | 308229 | [308229-memory-ghosts.json](./308229-memory-ghosts.json) |
@@ -18359,6 +18361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortuar | 329073 | [329073-mortuar.json](./329073-mortuar.json) |
 | Mortui: Outbreak Secrets | 287874 | [287874-mortui-outbreak-secrets.json](./287874-mortui-outbreak-secrets.json) |
 | Mortuum | 13090 | [13090-mortuum.json](./13090-mortuum.json) |
+| Mortuus | 423630 | [423630-mortuus.json](./423630-mortuus.json) |
 | Mortuus Insanis | 63098 | [63098-mortuus-insanis.json](./63098-mortuus-insanis.json) |
 | Mortville Manor | 14778 | [14778-mortville-manor.json](./14778-mortville-manor.json) |
 | Morty the Matador | 110212 | [110212-morty-the-matador.json](./110212-morty-the-matador.json) |
@@ -18534,6 +18537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother 2: Perfect Edition | 305370 | [305370-mother-2-perfect-edition.json](./305370-mother-2-perfect-edition.json) |
 | Mother 25th Anniversary Edition | 48561 | [48561-mother-25th-anniversary-edition.json](./48561-mother-25th-anniversary-edition.json) |
 | Mother 3 | 3683 | [3683-mother-3.json](./3683-mother-3.json) |
+| Mother 3 Native PC Recompilation | 423635 | [423635-mother-3-native-pc-recompilation.json](./423635-mother-3-native-pc-recompilation.json) |
 | Mother 3: Claus's Journey | 173093 | [173093-mother-3-clauss-journey.json](./173093-mother-3-clauss-journey.json) |
 | Mother 3: Opposing Force | 204861 | [204861-mother-3-opposing-force.json](./204861-mother-3-opposing-force.json) |
 | Mother 3.5 | 310951 | [310951-mother-3-5.json](./310951-mother-3-5.json) |
@@ -18715,6 +18719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Trophy VR | 226147 | [226147-moto-trophy-vr.json](./226147-moto-trophy-vr.json) |
 | Moto Vlog Brasil | 257137 | [257137-moto-vlog-brasil.json](./257137-moto-vlog-brasil.json) |
 | Moto VR | 86629 | [86629-moto-vr.json](./86629-moto-vr.json) |
+| Moto Warper | 423645 | [423645-moto-warper.json](./423645-moto-warper.json) |
 | Moto Wheelie | 257469 | [257469-moto-wheelie.json](./257469-moto-wheelie.json) |
 | Moto X | 279698 | [279698-moto-x.json](./279698-moto-x.json) |
 | Moto X | 423989 | [423989-moto-x.json](./423989-moto-x.json) |
