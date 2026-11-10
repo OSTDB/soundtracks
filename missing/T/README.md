@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Crawl | 192234 | [192234-tavern-crawl.json](./192234-tavern-crawl.json) |
 | Tavern Crawler | 177362 | [177362-tavern-crawler.json](./177362-tavern-crawler.json) |
 | Tavern Deep Cauldron | 401024 | [401024-tavern-deep-cauldron.json](./401024-tavern-deep-cauldron.json) |
+| Tavern Farkle GB | 419403 | [419403-tavern-farkle-gb.json](./419403-tavern-farkle-gb.json) |
 | Tavern Girl | 290949 | [290949-tavern-girl.json](./290949-tavern-girl.json) |
 | Tavern Girl: Expansion Pack | 297738 | [297738-tavern-girl-expansion-pack.json](./297738-tavern-girl-expansion-pack.json) |
 | Tavern Guardians | 56955 | [56955-tavern-guardians.json](./56955-tavern-guardians.json) |
@@ -29096,6 +29097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
 | Traffic X | 68096 | [68096-traffic-x.json](./68096-traffic-x.json) |
 | Traffic.io Car Games & Race | 240188 | [240188-traffic-io-car-games-and-race.json](./240188-traffic-io-car-games-and-race.json) |
+| Trafficity | 419401 | [419401-trafficity.json](./419401-trafficity.json) |
 | Trafficker: 4th Generation Warfare | 220798 | [220798-trafficker-4th-generation-warfare.json](./220798-trafficker-4th-generation-warfare.json) |
 | TrafficVille 3D | 343846 | [343846-trafficville-3d.json](./343846-trafficville-3d.json) |
 | Traffix | 118755 | [118755-traffix.json](./118755-traffix.json) |
