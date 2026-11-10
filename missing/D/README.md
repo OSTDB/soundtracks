@@ -6660,6 +6660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demeo: PC Edition | 194737 | [194737-demeo-pc-edition.json](./194737-demeo-pc-edition.json) |
 | Demeritocracy or the Two Faces of Arias Ruth | 68388 | [68388-demeritocracy-or-the-two-faces-of-arias-ruth.json](./68388-demeritocracy-or-the-two-faces-of-arias-ruth.json) |
 | Demersus | 406473 | [406473-demersus.json](./406473-demersus.json) |
+| Demesne | 18215 | [18215-demesne.json](./18215-demesne.json) |
 | Demeter | 280059 | [280059-demeter.json](./280059-demeter.json) |
 | Demeter and Persephone | 138963 | [138963-demeter-and-persephone.json](./138963-demeter-and-persephone.json) |
 | Demeter: The Asklepios Chronicles | 279398 | [279398-demeter-the-asklepios-chronicles.json](./279398-demeter-the-asklepios-chronicles.json) |
@@ -11181,6 +11182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Atlantis: The Lost Empire | 9056 | [9056-disneys-atlantis-the-lost-empire.json](./9056-disneys-atlantis-the-lost-empire.json) |
 | Disney's Atlantis: The Lost Empire - Search for the Journal | 71876 | [71876-disneys-atlantis-the-lost-empire-search-for-the-journal.json](./71876-disneys-atlantis-the-lost-empire-search-for-the-journal.json) |
 | Disney's Atlantis: The Lost Empire - Trial by Fire | 78004 | [78004-disneys-atlantis-the-lost-empire-trial-by-fire.json](./78004-disneys-atlantis-the-lost-empire-trial-by-fire.json) |
+| Disney's Beauty and the Beast | 19097 | [19097-disneys-beauty-and-the-beast.json](./19097-disneys-beauty-and-the-beast.json) |
 | Disney's Beauty and the Beast | 198696 | [198696-disneys-beauty-and-the-beast.json](./198696-disneys-beauty-and-the-beast.json) |
 | Disney's Beauty and the Beast | 280811 | [280811-disneys-beauty-and-the-beast.json](./280811-disneys-beauty-and-the-beast.json) |
 | Disney's Beauty and the Beast | 83783 | [83783-disneys-beauty-and-the-beast.json](./83783-disneys-beauty-and-the-beast.json) |
@@ -19178,6 +19180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Knight | 252600 | [252600-dungeon-knight.json](./252600-dungeon-knight.json) |
 | Dungeon Lad | 189269 | [189269-dungeon-lad.json](./189269-dungeon-lad.json) |
 | Dungeon Land | 66059 | [66059-dungeon-land.json](./66059-dungeon-land.json) |
+| Dungeon League | 19129 | [19129-dungeon-league.json](./19129-dungeon-league.json) |
 | Dungeon Legend | 242491 | [242491-dungeon-legend.json](./242491-dungeon-legend.json) |
 | Dungeon Legend Party | 348373 | [348373-dungeon-legend-party.json](./348373-dungeon-legend-party.json) |
 | Dungeon Legends 2 | 200179 | [200179-dungeon-legends-2.json](./200179-dungeon-legends-2.json) |
