@@ -415,6 +415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Underworld 1+2 | 164631 | [164631-ultima-underworld-1-2.json](./164631-ultima-underworld-1-2.json) |
 | Ultima Underworld II: Labyrinth of Worlds | 2530 | [2530-ultima-underworld-ii-labyrinth-of-worlds.json](./2530-ultima-underworld-ii-labyrinth-of-worlds.json) |
 | Ultima Underworld: The Stygian Abyss | 321879 | [321879-ultima-underworld-the-stygian-abyss.json](./321879-ultima-underworld-the-stygian-abyss.json) |
+| Ultima V: Lazarus | 412664 | [412664-ultima-v-lazarus.json](./412664-ultima-v-lazarus.json) |
 | Ultima V: Warriors of Destiny | 12229 | [12229-ultima-v-warriors-of-destiny.json](./12229-ultima-v-warriors-of-destiny.json) |
 | Ultima VI: The False Prophet | 12230 | [12230-ultima-vi-the-false-prophet.json](./12230-ultima-vi-the-false-prophet.json) |
 | Ultima VII: Part Two - Serpent Isle | 9574 | [9574-ultima-vii-part-two-serpent-isle.json](./9574-ultima-vii-part-two-serpent-isle.json) |
@@ -1090,6 +1091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultranova | 248025 | [248025-ultranova.json](./248025-ultranova.json) |
 | Ultrapong: Sega Version | 398657 | [398657-ultrapong-sega-version.json](./398657-ultrapong-sega-version.json) |
 | Ultrapool | 380523 | [380523-ultrapool.json](./380523-ultrapool.json) |
+| Ultraprocessor Ribbon | 412692 | [412692-ultraprocessor-ribbon.json](./412692-ultraprocessor-ribbon.json) |
 | Ultraquarium | 405020 | [405020-ultraquarium.json](./405020-ultraquarium.json) |
 | Ultrarush | 201661 | [201661-ultrarush.json](./201661-ultrarush.json) |
 | Ultras - Beer & Brawls | 109995 | [109995-ultras-beer-and-brawls.json](./109995-ultras-beer-and-brawls.json) |
