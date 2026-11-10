@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga of the Stars | 337311 | [337311-saga-of-the-stars.json](./337311-saga-of-the-stars.json) |
 | Saga of Weil | 265094 | [265094-saga-of-weil.json](./265094-saga-of-weil.json) |
 | Saga of Yurina | 373196 | [373196-saga-of-yurina.json](./373196-saga-of-yurina.json) |
+| Saga Onirica: Angelic Engine | 411912 | [411912-saga-onirica-angelic-engine.json](./411912-saga-onirica-angelic-engine.json) |
 | Saga Star | 413203 | [413203-saga-star.json](./413203-saga-star.json) |
 | Saga the Mouse | 325188 | [325188-saga-the-mouse.json](./325188-saga-the-mouse.json) |
 | SaGa: Emerald Beyond | 266681 | [266681-saga-emerald-beyond.json](./266681-saga-emerald-beyond.json) |
@@ -5605,6 +5606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selkie's Salvage&Co. | 414745 | [414745-selkies-salvage-and-co.json](./414745-selkies-salvage-and-co.json) |
 | Selknam Defense | 10816 | [10816-selknam-defense.json](./10816-selknam-defense.json) |
 | Selkö | 229507 | [229507-selko.json](./229507-selko.json) |
+| SelkoMadd | 411891 | [411891-selkomadd.json](./411891-selkomadd.json) |
 | Selling & Parking & Crash Simulator Bundle | 387414 | [387414-selling-and-parking-and-crash-simulator-bundle.json](./387414-selling-and-parking-and-crash-simulator-bundle.json) |
 | Selling Game | 351505 | [351505-selling-game.json](./351505-selling-game.json) |
 | Selling Souls | 283244 | [283244-selling-souls.json](./283244-selling-souls.json) |
@@ -8408,6 +8410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shepherd’s Plan | 314068 | [314068-shepherd-s-plan.json](./314068-shepherd-s-plan.json) |
 | Shepherdmancer | 358605 | [358605-shepherdmancer.json](./358605-shepherdmancer.json) |
 | Shepherds | 320589 | [320589-shepherds.json](./320589-shepherds.json) |
+| Shepherds of Haven | 411931 | [411931-shepherds-of-haven.json](./411931-shepherds-of-haven.json) |
 | Shepherds of the Abyss | 33623 | [33623-shepherds-of-the-abyss.json](./33623-shepherds-of-the-abyss.json) |
 | Shephy | 41893 | [41893-shephy.json](./41893-shephy.json) |
 | Sheppard Software Geography | 108806 | [108806-sheppard-software-geography.json](./108806-sheppard-software-geography.json) |
