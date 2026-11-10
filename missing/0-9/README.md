@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in Toronto | 400578 | [400578-101-cats-in-toronto.json](./400578-101-cats-in-toronto.json) |
 | 101 Cats in Venice | 350322 | [350322-101-cats-in-venice.json](./350322-101-cats-in-venice.json) |
 | 101 Cats in Vienna | 337611 | [337611-101-cats-in-vienna.json](./337611-101-cats-in-vienna.json) |
+| 101 Cats: Lisbon | 421163 | [421163-101-cats-lisbon.json](./421163-101-cats-lisbon.json) |
 | 101 Cats: Melbourne | 420765 | [420765-101-cats-melbourne.json](./420765-101-cats-melbourne.json) |
 | 101 Cute Dogs: Find & Paint | 316961 | [316961-101-cute-dogs-find-and-paint.json](./316961-101-cute-dogs-find-and-paint.json) |
 | 101 Cute Playland Dogs: Find & Paint | 320328 | [320328-101-cute-playland-dogs-find-and-paint.json](./320328-101-cute-playland-dogs-find-and-paint.json) |
