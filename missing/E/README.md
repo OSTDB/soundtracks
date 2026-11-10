@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eBaseball Professional Yakyuu Spirits 2021: Grand Slam | 143624 | [143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json](./143624-ebaseball-professional-yakyuu-spirits-2021-grand-slam.json) |
 | EBaseball: Pro Spirit | 393762 | [393762-ebaseball-pro-spirit.json](./393762-ebaseball-pro-spirit.json) |
 | eBaseball: Pro Spirit 2026 | 410262 | [410262-ebaseball-pro-spirit-2026.json](./410262-ebaseball-pro-spirit-2026.json) |
+| Ebb | 409903 | [409903-ebb.json](./409903-ebb.json) |
 | Ebbil: Alternative Bible | 284703 | [284703-ebbil-alternative-bible.json](./284703-ebbil-alternative-bible.json) |
 | Ebenezer and the Invisible World | 244457 | [244457-ebenezer-and-the-invisible-world.json](./244457-ebenezer-and-the-invisible-world.json) |
 | Eberouge | 97318 | [97318-eberouge.json](./97318-eberouge.json) |
@@ -1422,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Educational and Learning Bundle: 5 in 1 | 192409 | [192409-educational-and-learning-bundle-5-in-1.json](./192409-educational-and-learning-bundle-5-in-1.json) |
 | Educational Computer 2000 | 387454 | [387454-educational-computer-2000.json](./387454-educational-computer-2000.json) |
 | Educational Enamours | 290791 | [290791-educational-enamours.json](./290791-educational-enamours.json) |
+| Educational Family Games | 409922 | [409922-educational-family-games.json](./409922-educational-family-games.json) |
 | Educational Games for Kids | 147919 | [147919-educational-games-for-kids.json](./147919-educational-games-for-kids.json) |
 | Educational games for kids girls & boys apps free! | 102742 | [102742-educational-games-for-kids-girls-and-boys-apps-free.json](./102742-educational-games-for-kids-girls-and-boys-apps-free.json) |
 | Educational Pack of Kids Games | 85107 | [85107-educational-pack-of-kids-games.json](./85107-educational-pack-of-kids-games.json) |
@@ -1621,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Fray PC-9801 | 351228 | [351228-eggconsole-fray-pc-9801.json](./351228-eggconsole-fray-pc-9801.json) |
 | Eggconsole Guardic MSX | 323704 | [323704-eggconsole-guardic-msx.json](./323704-eggconsole-guardic-msx.json) |
 | Eggconsole Hajya No Fuuin PC-8801 | 371417 | [371417-eggconsole-hajya-no-fuuin-pc-8801.json](./371417-eggconsole-hajya-no-fuuin-pc-8801.json) |
+| Eggconsole Harry Fox PC-8801 | 409926 | [409926-eggconsole-harry-fox-pc-8801.json](./409926-eggconsole-harry-fox-pc-8801.json) |
 | Eggconsole Hercules PC-8801mkIISR | 402573 | [402573-eggconsole-hercules-pc-8801mkiisr.json](./402573-eggconsole-hercules-pc-8801mkiisr.json) |
 | Eggconsole How Many Robot PC-8801mkIISR | 342386 | [342386-eggconsole-how-many-robot-pc-8801mkiisr.json](./342386-eggconsole-how-many-robot-pc-8801mkiisr.json) |
 | Eggconsole Hydlide II MSX | 343717 | [343717-eggconsole-hydlide-ii-msx.json](./343717-eggconsole-hydlide-ii-msx.json) |
