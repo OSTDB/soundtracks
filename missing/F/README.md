@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Ninja | 268450 | [268450-fall-ninja.json](./268450-fall-ninja.json) |
 | Fall of an Empire | 190278 | [190278-fall-of-an-empire.json](./190278-fall-of-an-empire.json) |
 | Fall of Bali | 224296 | [224296-fall-of-bali.json](./224296-fall-of-bali.json) |
+| Fall of Civilization | 32726 | [32726-fall-of-civilization.json](./32726-fall-of-civilization.json) |
 | Fall of Freya | 31993 | [31993-fall-of-freya.json](./31993-fall-of-freya.json) |
 | Fall of Gods | 240763 | [240763-fall-of-gods.json](./240763-fall-of-gods.json) |
 | Fall of Gorithia: Nym's Fate | 342597 | [342597-fall-of-gorithia-nyms-fate.json](./342597-fall-of-gorithia-nyms-fate.json) |
