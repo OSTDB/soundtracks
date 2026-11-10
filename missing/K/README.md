@@ -1819,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ken ga Kimi: Momoyo Tsuzuri | 129997 | [129997-ken-ga-kimi-momoyo-tsuzuri.json](./129997-ken-ga-kimi-momoyo-tsuzuri.json) |
 | Ken ga Toki | 171773 | [171773-ken-ga-toki.json](./171773-ken-ga-toki.json) |
 | Ken Griffey Jr. Presents Major League Baseball | 299308 | [299308-ken-griffey-jr-presents-major-league-baseball.json](./299308-ken-griffey-jr-presents-major-league-baseball.json) |
+| Ken Griffey Jr. Presents Major League Baseball | 9615 | [9615-ken-griffey-jr-presents-major-league-baseball.json](./9615-ken-griffey-jr-presents-major-league-baseball.json) |
 | Ken Griffey Jr.'s Horrible Tower | 382786 | [382786-ken-griffey-jr-s-horrible-tower.json](./382786-ken-griffey-jr-s-horrible-tower.json) |
 | Ken Griffey Jr.'s Slugfest | 249120 | [249120-ken-griffey-jr-s-slugfest.json](./249120-ken-griffey-jr-s-slugfest.json) |
 | Ken Griffey Jr.'s Slugfest | 3531 | [3531-ken-griffey-jr-s-slugfest.json](./3531-ken-griffey-jr-s-slugfest.json) |
@@ -2928,6 +2929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3478,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance - Royal DLC Package | 155078 | [155078-kingdom-come-deliverance-royal-dlc-package.json](./155078-kingdom-come-deliverance-royal-dlc-package.json) |
 | Kingdom Come: Deliverance - Saga Bundle | 402700 | [402700-kingdom-come-deliverance-saga-bundle.json](./402700-kingdom-come-deliverance-saga-bundle.json) |
 | Kingdom Come: Deliverance - Special Edition | 136164 | [136164-kingdom-come-deliverance-special-edition.json](./136164-kingdom-come-deliverance-special-edition.json) |
+| Kingdom Come: Deliverance - The Amorous Adventures of Bold Sir Hans Capon | 116991 | [116991-kingdom-come-deliverance-the-amorous-adventures-of-bold-sir-hans-capon.json](./116991-kingdom-come-deliverance-the-amorous-adventures-of-bold-sir-hans-capon.json) |
 | Kingdom Come: Deliverance II - Brushes with Death | 343669 | [343669-kingdom-come-deliverance-ii-brushes-with-death.json](./343669-kingdom-come-deliverance-ii-brushes-with-death.json) |
 | Kingdom Come: Deliverance II - Collectors' Edition | 326774 | [326774-kingdom-come-deliverance-ii-collectors-edition.json](./326774-kingdom-come-deliverance-ii-collectors-edition.json) |
 | Kingdom Come: Deliverance II - Day One Edition | 326773 | [326773-kingdom-come-deliverance-ii-day-one-edition.json](./326773-kingdom-come-deliverance-ii-day-one-edition.json) |
