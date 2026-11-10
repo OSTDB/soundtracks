@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Place for the Unwilling | 18653 | [18653-a-place-for-the-unwilling.json](./18653-a-place-for-the-unwilling.json) |
 | A Place in the Sun | 305424 | [305424-a-place-in-the-sun.json](./305424-a-place-in-the-sun.json) |
 | A Place of Significance | 414838 | [414838-a-place-of-significance.json](./414838-a-place-of-significance.json) |
+| A Place Where Summer Rain Falls | 399547 | [399547-a-place-where-summer-rain-falls.json](./399547-a-place-where-summer-rain-falls.json) |
 | A Place, Forbidden | 133977 | [133977-a-place-forbidden.json](./133977-a-place-forbidden.json) |
 | A Plague Tale Bundle | 230801 | [230801-a-plague-tale-bundle.json](./230801-a-plague-tale-bundle.json) |
 | A Plague Tale: Innocence - Cloud Version | 152484 | [152484-a-plague-tale-innocence-cloud-version.json](./152484-a-plague-tale-innocence-cloud-version.json) |
@@ -1294,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A storm is approaching | 184447 | [184447-a-storm-is-approaching.json](./184447-a-storm-is-approaching.json) |
 | A Storm Unsung | 296334 | [296334-a-storm-unsung.json](./296334-a-storm-unsung.json) |
 | A Story About Farting | 278747 | [278747-a-story-about-farting.json](./278747-a-story-about-farting.json) |
+| A Story About Forever: Transience | 399396 | [399396-a-story-about-forever-transience.json](./399396-a-story-about-forever-transience.json) |
 | A Story About My Uncle | 7211 | [7211-a-story-about-my-uncle.json](./7211-a-story-about-my-uncle.json) |
 | A Story About You | 420470 | [420470-a-story-about-you.json](./420470-a-story-about-you.json) |
 | A Story Beside | 110710 | [110710-a-story-beside.json](./110710-a-story-beside.json) |
@@ -10110,6 +10112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Droid | 221193 | [221193-angel-droid.json](./221193-angel-droid.json) |
 | Angel Egg | 94423 | [94423-angel-egg.json](./94423-angel-egg.json) |
 | Angel Engine | 387370 | [387370-angel-engine.json](./387370-angel-engine.json) |
+| Angel Essence | 399400 | [399400-angel-essence.json](./399400-angel-essence.json) |
 | Angel Express: Tokkyu Tenshi | 32651 | [32651-angel-express-tokkyu-tenshi.json](./32651-angel-express-tokkyu-tenshi.json) |
 | Angel Garden | 393606 | [393606-angel-garden.json](./393606-angel-garden.json) |
 | Angel Gate | 242241 | [242241-angel-gate.json](./242241-angel-gate.json) |
