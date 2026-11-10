@@ -6236,6 +6236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Servants of Sumomon | 217134 | [217134-servants-of-sumomon.json](./217134-servants-of-sumomon.json) |
 | Serve & Protect Bundle | 311048 | [311048-serve-and-protect-bundle.json](./311048-serve-and-protect-bundle.json) |
 | Serve & Volley | 94267 | [94267-serve-and-volley.json](./94267-serve-and-volley.json) |
+| Serve or Die | 403886 | [403886-serve-or-die.json](./403886-serve-or-die.json) |
 | Serve Tarantuala | 388141 | [388141-serve-tarantuala.json](./388141-serve-tarantuala.json) |
 | Serve The Cups | 276176 | [276176-serve-the-cups.json](./276176-serve-the-cups.json) |
 | Served | 135037 | [135037-served.json](./135037-served.json) |
@@ -8041,6 +8042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered | 65791 | [65791-shattered.json](./65791-shattered.json) |
 | Shattered Between | 206422 | [206422-shattered-between.json](./206422-shattered-between.json) |
 | Shattered Chess | 394090 | [394090-shattered-chess.json](./394090-shattered-chess.json) |
+| Shattered Delirium | 403894 | [403894-shattered-delirium.json](./403894-shattered-delirium.json) |
 | Shattered Dimension | 356879 | [356879-shattered-dimension.json](./356879-shattered-dimension.json) |
 | Shattered Divinities | 346217 | [346217-shattered-divinities.json](./346217-shattered-divinities.json) |
 | Shattered Dreams | 313507 | [313507-shattered-dreams.json](./313507-shattered-dreams.json) |
@@ -13945,6 +13947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay All Goblins | 113481 | [113481-slay-all-goblins.json](./113481-slay-all-goblins.json) |
 | Slay and Spray Exterminators | 384512 | [384512-slay-and-spray-exterminators.json](./384512-slay-and-spray-exterminators.json) |
 | Slay Bells | 176229 | [176229-slay-bells.json](./176229-slay-bells.json) |
+| Slay Goblins | 403891 | [403891-slay-goblins.json](./403891-slay-goblins.json) |
 | Slay or Fall | 316788 | [316788-slay-or-fall.json](./316788-slay-or-fall.json) |
 | Slay the Alice | 328291 | [328291-slay-the-alice.json](./328291-slay-the-alice.json) |
 | Slay the Beat | 235076 | [235076-slay-the-beat.json](./235076-slay-the-beat.json) |
@@ -19280,6 +19283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcer Striker | 39960 | [39960-sorcer-striker.json](./39960-sorcer-striker.json) |
 | Sorcerer | 1948 | [1948-sorcerer.json](./1948-sorcerer.json) |
 | Sorcerer | 23856 | [23856-sorcerer.json](./23856-sorcerer.json) |
+| Sorcerer Kid Adventure | 403896 | [403896-sorcerer-kid-adventure.json](./403896-sorcerer-kid-adventure.json) |
 | Sorcerer King | 9472 | [9472-sorcerer-king.json](./9472-sorcerer-king.json) |
 | Sorcerer King: Rivals | 24922 | [24922-sorcerer-king-rivals.json](./24922-sorcerer-king-rivals.json) |
 | Sorcerer Knights | 171872 | [171872-sorcerer-knights.json](./171872-sorcerer-knights.json) |
@@ -19734,6 +19738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Valley | 115956 | [115956-soul-valley.json](./115956-soul-valley.json) |
 | Soul Void | 140826 | [140826-soul-void.json](./140826-soul-void.json) |
 | Soul Void Redux | 312222 | [312222-soul-void-redux.json](./312222-soul-void-redux.json) |
+| Soul Walker | 403902 | [403902-soul-walker.json](./403902-soul-walker.json) |
 | Soul War | 262889 | [262889-soul-war.json](./262889-soul-war.json) |
 | Soul Warden | 277990 | [277990-soul-warden.json](./277990-soul-warden.json) |
 | Soul Warden Professional Academy | 288829 | [288829-soul-warden-professional-academy.json](./288829-soul-warden-professional-academy.json) |
@@ -21484,6 +21489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceBeaver | 180575 | [180575-spacebeaver.json](./180575-spacebeaver.json) |
 | Spacebeef | 135059 | [135059-spacebeef.json](./135059-spacebeef.json) |
 | SpaceBlocc | 193499 | [193499-spaceblocc.json](./193499-spaceblocc.json) |
+| Spacebolt | 403873 | [403873-spacebolt.json](./403873-spacebolt.json) |
 | SpaceBones | 353865 | [353865-spacebones.json](./353865-spacebones.json) |
 | Spaceborn Awakening | 407394 | [407394-spaceborn-awakening.json](./407394-spaceborn-awakening.json) |
 | Spaceborne Fighters | 392141 | [392141-spaceborne-fighters.json](./392141-spaceborne-fighters.json) |
