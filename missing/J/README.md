@@ -726,6 +726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japan Scenery Disk | 69703 | [69703-japan-scenery-disk.json](./69703-japan-scenery-disk.json) |
 | Japan Stigmatized Property | 357171 | [357171-japan-stigmatized-property.json](./357171-japan-stigmatized-property.json) |
 | Japan Stigmatized Property 2 | 382003 | [382003-japan-stigmatized-property-2.json](./382003-japan-stigmatized-property-2.json) |
+| Japan Stigmatized Property 3 | 412670 | [412670-japan-stigmatized-property-3.json](./412670-japan-stigmatized-property-3.json) |
 | Japan Studio VR Music Festival | 68296 | [68296-japan-studio-vr-music-festival.json](./68296-japan-studio-vr-music-festival.json) |
 | Japan Sumo Cup: Yokozuna vs. Street Fighter | 59468 | [59468-japan-sumo-cup-yokozuna-vs-street-fighter.json](./59468-japan-sumo-cup-yokozuna-vs-street-fighter.json) |
 | Japan to Go, Please! | 342912 | [342912-japan-to-go-please.json](./342912-japan-to-go-please.json) |
