@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railborn | 348300 | [348300-railborn.json](./348300-railborn.json) |
 | Railbound | 198623 | [198623-railbound.json](./198623-railbound.json) |
 | Railbreak | 272195 | [272195-railbreak.json](./272195-railbreak.json) |
+| Railbreak DX | 409285 | [409285-railbreak-dx.json](./409285-railbreak-dx.json) |
 | Railbreak: 90s Throwback Collection | 335102 | [335102-railbreak-90s-throwback-collection.json](./335102-railbreak-90s-throwback-collection.json) |
 | Railbreak: Arcade Onslaught Collection | 331405 | [331405-railbreak-arcade-onslaught-collection.json](./331405-railbreak-arcade-onslaught-collection.json) |
 | Railbreak: Dinoblast Collection | 284757 | [284757-railbreak-dinoblast-collection.json](./284757-railbreak-dinoblast-collection.json) |
@@ -11884,6 +11885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotten Escape | 101542 | [101542-rotten-escape.json](./101542-rotten-escape.json) |
 | Rotten Flesh | 274815 | [274815-rotten-flesh.json](./274815-rotten-flesh.json) |
 | Rotten Machines | 426453 | [426453-rotten-machines.json](./426453-rotten-machines.json) |
+| Rotten Rounds | 409177 | [409177-rotten-rounds.json](./409177-rotten-rounds.json) |
 | Rotten Stigma | 392181 | [392181-rotten-stigma.json](./392181-rotten-stigma.json) |
 | Rotten Sun | 183948 | [183948-rotten-sun.json](./183948-rotten-sun.json) |
 | Rotten Survivor | 364831 | [364831-rotten-survivor.json](./364831-rotten-survivor.json) |
