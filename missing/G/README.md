@@ -2854,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemmiferous | 367707 | [367707-gemmiferous.json](./367707-gemmiferous.json) |
 | Gemmy Gems: A Cozy Shop Sim | 413170 | [413170-gemmy-gems-a-cozy-shop-sim.json](./413170-gemmy-gems-a-cozy-shop-sim.json) |
 | Gemmy's Adventure | 333112 | [333112-gemmys-adventure.json](./333112-gemmys-adventure.json) |
+| Gemollection | 424256 | [424256-gemollection.json](./424256-gemollection.json) |
 | Gemology | 85167 | [85167-gemology.json](./85167-gemology.json) |
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
 | Gems | 74656 | [74656-gems.json](./74656-gems.json) |
@@ -8529,6 +8530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granite Casket | 278902 | [278902-granite-casket.json](./278902-granite-casket.json) |
 | Granite Noir | 377994 | [377994-granite-noir.json](./377994-granite-noir.json) |
 | Granny | 232402 | [232402-granny.json](./232402-granny.json) |
+| Granny 3 Evolved | 424245 | [424245-granny-3-evolved.json](./424245-granny-3-evolved.json) |
 | Granny Applebee's Cookie Factory | 285865 | [285865-granny-applebees-cookie-factory.json](./285865-granny-applebees-cookie-factory.json) |
 | Granny Escape | 238629 | [238629-granny-escape.json](./238629-granny-escape.json) |
 | Granny in Paradise | 71333 | [71333-granny-in-paradise.json](./71333-granny-in-paradise.json) |
@@ -8942,6 +8944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Castle | 233706 | [233706-gravity-castle.json](./233706-gravity-castle.json) |
 | Gravity Cat | 143705 | [143705-gravity-cat.json](./143705-gravity-cat.json) |
 | Gravity Cat | 32853 | [32853-gravity-cat.json](./32853-gravity-cat.json) |
+| Gravity Changing | 424251 | [424251-gravity-changing.json](./424251-gravity-changing.json) |
 | Gravity Chase | 125656 | [125656-gravity-chase.json](./125656-gravity-chase.json) |
 | Gravity Circuit | 106534 | [106534-gravity-circuit.json](./106534-gravity-circuit.json) |
 | Gravity Circuit Jukebox | 309032 | [309032-gravity-circuit-jukebox.json](./309032-gravity-circuit-jukebox.json) |
