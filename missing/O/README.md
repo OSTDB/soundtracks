@@ -3443,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Bar | 58804 | [58804-open-bar.json](./58804-open-bar.json) |
 | Open Brush | 151999 | [151999-open-brush.json](./151999-open-brush.json) |
 | Open Colour | 129928 | [129928-open-colour.json](./129928-open-colour.json) |
+| Open Country | 144412 | [144412-open-country.json](./144412-open-country.json) |
 | Open Course | 220964 | [220964-open-course.json](./220964-open-course.json) |
 | Open Day | 214622 | [214622-open-day.json](./214622-open-day.json) |
 | Open Doctrines | 417557 | [417557-open-doctrines.json](./417557-open-doctrines.json) |
@@ -3627,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Fireball | 293744 | [293744-operation-fireball.json](./293744-operation-fireball.json) |
 | Operation Flashpoint: Cold War Crisis | 288 | [288-operation-flashpoint-cold-war-crisis.json](./288-operation-flashpoint-cold-war-crisis.json) |
 | Operation Flashpoint: Dragon Rising | 451 | [451-operation-flashpoint-dragon-rising.json](./451-operation-flashpoint-dragon-rising.json) |
+| Operation Flashpoint: Elite | 22567 | [22567-operation-flashpoint-elite.json](./22567-operation-flashpoint-elite.json) |
 | Operation Flashpoint: Game of the Year Edition | 162619 | [162619-operation-flashpoint-game-of-the-year-edition.json](./162619-operation-flashpoint-game-of-the-year-edition.json) |
 | Operation Flashpoint: Gold Upgrade | 70498 | [70498-operation-flashpoint-gold-upgrade.json](./70498-operation-flashpoint-gold-upgrade.json) |
 | Operation Flashpoint: Red Hammer | 449 | [449-operation-flashpoint-red-hammer.json](./449-operation-flashpoint-red-hammer.json) |
@@ -5686,6 +5688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over & Out! | 422131 | [422131-over-and-out.json](./422131-over-and-out.json) |
 | Over & Under | 256039 | [256039-over-and-under.json](./256039-over-and-under.json) |
 | Over 1000 Jigsaw Puzzles | 228409 | [228409-over-1000-jigsaw-puzzles.json](./228409-over-1000-jigsaw-puzzles.json) |
+| Over 9000 Zombies! | 9605 | [9605-over-9000-zombies.json](./9605-over-9000-zombies.json) |
 | Over blood | 208898 | [208898-over-blood.json](./208898-over-blood.json) |
 | Over Circle | 161223 | [161223-over-circle.json](./161223-over-circle.json) |
 | Over City | 202728 | [202728-over-city.json](./202728-over-city.json) |
