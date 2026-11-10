@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Snake | 412269 | [412269-ultimate-snake.json](./412269-ultimate-snake.json) |
 | Ultimate Soccer | 237502 | [237502-ultimate-soccer.json](./237502-ultimate-soccer.json) |
 | Ultimate Soccer | 331952 | [331952-ultimate-soccer.json](./331952-ultimate-soccer.json) |
+| Ultimate Soccer | 4540 | [4540-ultimate-soccer.json](./4540-ultimate-soccer.json) |
 | Ultimate Soccer Manager | 71574 | [71574-ultimate-soccer-manager.json](./71574-ultimate-soccer-manager.json) |
 | Ultimate Soccer Manager '98 | 47011 | [47011-ultimate-soccer-manager-98.json](./47011-ultimate-soccer-manager-98.json) |
 | Ultimate Soccer Manager 2 | 56597 | [56597-ultimate-soccer-manager-2.json](./56597-ultimate-soccer-manager-2.json) |
@@ -2450,6 +2451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universal Soldier | 38416 | [38416-universal-soldier.json](./38416-universal-soldier.json) |
 | Universal Space Station | 116989 | [116989-universal-space-station.json](./116989-universal-space-station.json) |
 | Universal Studios Monsters: Monsterville | 12904 | [12904-universal-studios-monsters-monsterville.json](./12904-universal-studios-monsters-monsterville.json) |
+| Universal Studios Theme Parks Adventure | 4226 | [4226-universal-studios-theme-parks-adventure.json](./4226-universal-studios-theme-parks-adventure.json) |
 | Universal Studios Theme Parks Adventure Adventure | 237342 | [237342-universal-studios-theme-parks-adventure-adventure.json](./237342-universal-studios-theme-parks-adventure-adventure.json) |
 | Universal Thief | 183272 | [183272-universal-thief.json](./183272-universal-thief.json) |
 | Universal Truck Simulator | 220211 | [220211-universal-truck-simulator.json](./220211-universal-truck-simulator.json) |
