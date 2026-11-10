@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Prime | 16713 | [16713-echo-prime.json](./16713-echo-prime.json) |
 | Echo Protocol: Escape Room | 360642 | [360642-echo-protocol-escape-room.json](./360642-echo-protocol-escape-room.json) |
 | Echo Punk | 381634 | [381634-echo-punk.json](./381634-echo-punk.json) |
+| Echo Resonance | 423074 | [423074-echo-resonance.json](./423074-echo-resonance.json) |
 | Echo Royale | 116784 | [116784-echo-royale.json](./116784-echo-royale.json) |
 | Echo Signal | 329101 | [329101-echo-signal.json](./329101-echo-signal.json) |
 | Echo Stalker | 425408 | [425408-echo-stalker.json](./425408-echo-stalker.json) |
@@ -3864,6 +3865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Asphalt | 382950 | [382950-endless-asphalt.json](./382950-endless-asphalt.json) |
 | Endless Asteroids: Crank to Survive | 355969 | [355969-endless-asteroids-crank-to-survive.json](./355969-endless-asteroids-crank-to-survive.json) |
 | Endless Battle | 109664 | [109664-endless-battle.json](./109664-endless-battle.json) |
+| Endless Battle: Idle & Build | 423090 | [423090-endless-battle-idle-and-build.json](./423090-endless-battle-idle-and-build.json) |
 | Endless Battle: Return of Hero +1 | 169576 | [169576-endless-battle-return-of-hero-1.json](./169576-endless-battle-return-of-hero-1.json) |
 | Endless Battlefield | 186317 | [186317-endless-battlefield.json](./186317-endless-battlefield.json) |
 | Endless Becoming: Apartment | 166040 | [166040-endless-becoming-apartment.json](./166040-endless-becoming-apartment.json) |
@@ -7139,6 +7141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everblue | 37082 | [37082-everblue.json](./37082-everblue.json) |
 | Everblue 2 | 9656 | [9656-everblue-2.json](./9656-everblue-2.json) |
 | Everburning | 197423 | [197423-everburning.json](./197423-everburning.json) |
+| Everburning Dark | 423048 | [423048-everburning-dark.json](./423048-everburning-dark.json) |
 | Evercade Alpha Mega Man Bartop Arcade | 304227 | [304227-evercade-alpha-mega-man-bartop-arcade.json](./304227-evercade-alpha-mega-man-bartop-arcade.json) |
 | Evercade Alpha Street Fighter Bartop Arcade | 304226 | [304226-evercade-alpha-street-fighter-bartop-arcade.json](./304226-evercade-alpha-street-fighter-bartop-arcade.json) |
 | Evercade Alpha Taito Bartop Arcade | 346796 | [346796-evercade-alpha-taito-bartop-arcade.json](./346796-evercade-alpha-taito-bartop-arcade.json) |
