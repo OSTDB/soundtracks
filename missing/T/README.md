@@ -2589,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tardigrade Planet: The Legend of the Strongest Mascot in the Universe | 346011 | [346011-tardigrade-planet-the-legend-of-the-strongest-mascot-in-the-universe.json](./346011-tardigrade-planet-the-legend-of-the-strongest-mascot-in-the-universe.json) |
 | Tardiness Girl | 360198 | [360198-tardiness-girl.json](./360198-tardiness-girl.json) |
 | Tardis Tennis | 235322 | [235322-tardis-tennis.json](./235322-tardis-tennis.json) |
+| Tardy | 421284 | [421284-tardy.json](./421284-tardy.json) |
 | Tardy | 90143 | [90143-tardy.json](./90143-tardy.json) |
 | Taregoro: Tarepanda no Iru Nichijou | 98164 | [98164-taregoro-tarepanda-no-iru-nichijou.json](./98164-taregoro-tarepanda-no-iru-nichijou.json) |
 | Tarek | 149491 | [149491-tarek.json](./149491-tarek.json) |
@@ -9387,6 +9388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Entropy Centre | 204543 | [204543-the-entropy-centre.json](./204543-the-entropy-centre.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
 | The Epic | 153869 | [153869-the-epic.json](./153869-the-epic.json) |
+| The Epic (Sort of Not Really) of Koneko: A Game Made in 4 Hours | 421258 | [421258-the-epic-sort-of-not-really-of-koneko-a-game-made-in-4-hours.json](./421258-the-epic-sort-of-not-really-of-koneko-a-game-made-in-4-hours.json) |
 | The Epic and Amazing Adventure of GleepglorrpgilliandoohiggintilliousMMDCCXXXIX the Adventure Where GleepglorrpgilliandoohiggintilliousMMDCCXXXIX Lives and Becomes King GleepglorrpgilliandoohiggintilliousMMDCCXXXIX | 410947 | [410947-the-epic-and-amazing-adventure-of-gleepglorrpgilliandoohiggintilliousmmdccxxxix-the-adventure-where-gleepglorrpgilliandoohiggintilliousmmdccxxxix-lives-and-becomes-king-gleepglorrpgilliandoohiggintilliousmmdccxxxix.json](./410947-the-epic-and-amazing-adventure-of-gleepglorrpgilliandoohiggintilliousmmdccxxxix-the-adventure-where-gleepglorrpgilliandoohiggintilliousmmdccxxxix-lives-and-becomes-king-gleepglorrpgilliandoohiggintilliousmmdccxxxix.json) |
 | The Epic Bang Theory | 100542 | [100542-the-epic-bang-theory.json](./100542-the-epic-bang-theory.json) |
 | The Epic Might | 23632 | [23632-the-epic-might.json](./23632-the-epic-might.json) |
@@ -10319,6 +10321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Future Radio and the Artificial Pigeons | 220663 | [220663-the-future-radio-and-the-artificial-pigeons.json](./220663-the-future-radio-and-the-artificial-pigeons.json) |
 | The Future You've Been Dreaming Of | 199179 | [199179-the-future-youve-been-dreaming-of.json](./199179-the-future-youve-been-dreaming-of.json) |
 | The Futurist | 181355 | [181355-the-futurist.json](./181355-the-futurist.json) |
+| The Gabrolin Crusade LSD | 421277 | [421277-the-gabrolin-crusade-lsd.json](./421277-the-gabrolin-crusade-lsd.json) |
 | The Gal Mahjong | 124074 | [124074-the-gal-mahjong.json](./124074-the-gal-mahjong.json) |
 | The Galactic Aquarium | 67832 | [67832-the-galactic-aquarium.json](./67832-the-galactic-aquarium.json) |
 | The Galactic Junkers | 204410 | [204410-the-galactic-junkers.json](./204410-the-galactic-junkers.json) |
@@ -21973,6 +21976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Up | 412006 | [412006-tidy-up.json](./412006-tidy-up.json) |
 | Tidy Up History | 412000 | [412000-tidy-up-history.json](./412000-tidy-up-history.json) |
 | Tidy up the Backrooms | 420916 | [420916-tidy-up-the-backrooms.json](./420916-tidy-up-the-backrooms.json) |
+| Tidy Up the Halloween Shop | 421266 | [421266-tidy-up-the-halloween-shop.json](./421266-tidy-up-the-halloween-shop.json) |
 | Tidy Up: Electronic Store Simulator | 416679 | [416679-tidy-up-electronic-store-simulator.json](./416679-tidy-up-electronic-store-simulator.json) |
 | Tidy Up: Spaceship | 410257 | [410257-tidy-up-spaceship.json](./410257-tidy-up-spaceship.json) |
 | Tidy Wizard: A Place For Every Plate | 411998 | [411998-tidy-wizard-a-place-for-every-plate.json](./411998-tidy-wizard-a-place-for-every-plate.json) |
@@ -25210,6 +25214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Bridge | 348787 | [348787-to-the-bridge.json](./348787-to-the-bridge.json) |
 | To the Capital | 24476 | [24476-to-the-capital.json](./24476-to-the-capital.json) |
 | To the Capital 2 | 88117 | [88117-to-the-capital-2.json](./88117-to-the-capital-2.json) |
+| To the Carrot | 421178 | [421178-to-the-carrot.json](./421178-to-the-carrot.json) |
 | To the City of the Clouds | 83597 | [83597-to-the-city-of-the-clouds.json](./83597-to-the-city-of-the-clouds.json) |
 | To the Core | 105201 | [105201-to-the-core.json](./105201-to-the-core.json) |
 | To the Core | 261974 | [261974-to-the-core.json](./261974-to-the-core.json) |
@@ -33473,6 +33478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth Seekers | 298423 | [298423-truth-seekers.json](./298423-truth-seekers.json) |
 | Truth Trail: Exorcism of Deception | 338605 | [338605-truth-trail-exorcism-of-deception.json](./338605-truth-trail-exorcism-of-deception.json) |
 | Truth Universally Acknowledged | 296370 | [296370-truth-universally-acknowledged.json](./296370-truth-universally-acknowledged.json) |
+| Truth Universally Acknowledged: Nine Hearts | 421283 | [421283-truth-universally-acknowledged-nine-hearts.json](./421283-truth-universally-acknowledged-nine-hearts.json) |
 | Truth Universally Acknowledged: Seasilk Heart | 394287 | [394287-truth-universally-acknowledged-seasilk-heart.json](./394287-truth-universally-acknowledged-seasilk-heart.json) |
 | Truth: Disorder | 76307 | [76307-truth-disorder.json](./76307-truth-disorder.json) |
 | Truth: Disorder II | 98985 | [98985-truth-disorder-ii.json](./98985-truth-disorder-ii.json) |
