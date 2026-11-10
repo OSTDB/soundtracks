@@ -6698,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemy Quest | 135904 | [135904-alchemy-quest.json](./135904-alchemy-quest.json) |
 | Alchemy Stars | 144849 | [144849-alchemy-stars.json](./144849-alchemy-stars.json) |
 | Alchemy Story | 116544 | [116544-alchemy-story.json](./116544-alchemy-story.json) |
+| Alchemy Survivors | 404467 | [404467-alchemy-survivors.json](./404467-alchemy-survivors.json) |
 | Alchemy Unbound | 293084 | [293084-alchemy-unbound.json](./293084-alchemy-unbound.json) |
 | Alchemy: Origins - Food I | 316218 | [316218-alchemy-origins-food-i.json](./316218-alchemy-origins-food-i.json) |
 | Alchemyland | 51562 | [51562-alchemyland.json](./51562-alchemyland.json) |
@@ -14675,6 +14676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arknights Episode 17: Critical Phase Transition | 413440 | [413440-arknights-episode-17-critical-phase-transition.json](./413440-arknights-episode-17-critical-phase-transition.json) |
 | Arknights: Endfield - Update 1.1 - Old Deep Water Dies, by Rising Tide It is Denied | 396289 | [396289-arknights-endfield-update-1-1-old-deep-water-dies-by-rising-tide-it-is-denied.json](./396289-arknights-endfield-update-1-1-old-deep-water-dies-by-rising-tide-it-is-denied.json) |
 | Arknights: Endfield - Update 1.2: At the Wake of Spring | 398565 | [398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json](./398565-arknights-endfield-update-1-2-at-the-wake-of-spring.json) |
+| Arknights: Endfield - Update 1.3: Sketches of Lost Heirlooms | 404499 | [404499-arknights-endfield-update-1-3-sketches-of-lost-heirlooms.json](./404499-arknights-endfield-update-1-3-sketches-of-lost-heirlooms.json) |
 | Arknights: Endfield - Update 1.4: Homecoming | 410274 | [410274-arknights-endfield-update-1-4-homecoming.json](./410274-arknights-endfield-update-1-4-homecoming.json) |
 | Arknights: Endfield - Update 1.5: Dreamscape of Wind and Snow | 415939 | [415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json](./415939-arknights-endfield-update-1-5-dreamscape-of-wind-and-snow.json) |
 | Arknights: Release | 253344 | [253344-arknights-release.json](./253344-arknights-release.json) |
@@ -17686,6 +17688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
