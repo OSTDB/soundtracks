@@ -884,6 +884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm UFO | 340502 | [340502-im-ufo.json](./340502-im-ufo.json) |
 | I'm Wizard: Magic Combat Game | 419914 | [419914-im-wizard-magic-combat-game.json](./419914-im-wizard-magic-combat-game.json) |
 | I'm Yearning for a Train Journey | 266056 | [266056-im-yearning-for-a-train-journey.json](./266056-im-yearning-for-a-train-journey.json) |
+| I'm Your Host | 404584 | [404584-im-your-host.json](./404584-im-your-host.json) |
 | I'Max Shougi II | 419312 | [419312-imax-shougi-ii.json](./419312-imax-shougi-ii.json) |
 | I'mitation: The Eight Suicide Note | 132258 | [132258-imitation-the-eight-suicide-note.json](./132258-imitation-the-eight-suicide-note.json) |
 | I've Been Busy Being Dead | 182131 | [182131-ive-been-busy-being-dead.json](./182131-ive-been-busy-being-dead.json) |
@@ -3929,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiltration at Dusk | 397164 | [397164-infiltration-at-dusk.json](./397164-infiltration-at-dusk.json) |
 | Infiltration: Alone in Combat | 151196 | [151196-infiltration-alone-in-combat.json](./151196-infiltration-alone-in-combat.json) |
 | Infiltrator | 26455 | [26455-infiltrator.json](./26455-infiltrator.json) |
+| Infiltrator | 405040 | [405040-infiltrator.json](./405040-infiltrator.json) |
 | Infiltrator: The Adventure | 117272 | [117272-infiltrator-the-adventure.json](./117272-infiltrator-the-adventure.json) |
 | Infiltria | 113499 | [113499-infiltria.json](./113499-infiltria.json) |
 | Infinadeck Medieval Maze | 192818 | [192818-infinadeck-medieval-maze.json](./192818-infinadeck-medieval-maze.json) |
@@ -4083,7 +4085,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
