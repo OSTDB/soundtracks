@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Chance Supermarket | 80808 | [80808-last-chance-supermarket.json](./80808-last-chance-supermarket.json) |
 | Last Chance to Green | 179655 | [179655-last-chance-to-green.json](./179655-last-chance-to-green.json) |
 | Last Chance VR | 123552 | [123552-last-chance-vr.json](./123552-last-chance-vr.json) |
+| Last Chance: Birth | 422430 | [422430-last-chance-birth.json](./422430-last-chance-birth.json) |
 | Last Chance: The Survivor | 294027 | [294027-last-chance-the-survivor.json](./294027-last-chance-the-survivor.json) |
 | Last Chaos | 90316 | [90316-last-chaos.json](./90316-last-chaos.json) |
 | Last Chess Standing | 354166 | [354166-last-chess-standing.json](./354166-last-chess-standing.json) |
@@ -2158,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Sanglot des Cigales: Tomes 1 et 2 | 276054 | [276054-le-sanglot-des-cigales-tomes-1-et-2.json](./276054-le-sanglot-des-cigales-tomes-1-et-2.json) |
 | Le Sceptre d'Anubis | 304052 | [304052-le-sceptre-danubis.json](./304052-le-sceptre-danubis.json) |
 | Le Schmilblick | 118315 | [118315-le-schmilblick.json](./118315-le-schmilblick.json) |
+| Le Shampoo War II | 422438 | [422438-le-shampoo-war-ii.json](./422438-le-shampoo-war-ii.json) |
 | Le Temple perdu de l'oncle Ernest | 281638 | [281638-le-temple-perdu-de-loncle-ernest.json](./281638-le-temple-perdu-de-loncle-ernest.json) |
 | Le Tour de France | 172668 | [172668-le-tour-de-france.json](./172668-le-tour-de-france.json) |
 | Le Tour de France | 22941 | [22941-le-tour-de-france.json](./22941-le-tour-de-france.json) |
@@ -3921,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go! Skiing | 123935 | [123935-lets-go-skiing.json](./123935-lets-go-skiing.json) |
 | Let's Golf 2 | 84436 | [84436-lets-golf-2.json](./84436-lets-golf-2.json) |
 | Let's Golf! | 67693 | [67693-lets-golf.json](./67693-lets-golf.json) |
+| Let's Grow Together | 422432 | [422432-lets-grow-together.json](./422432-lets-grow-together.json) |
 | Let's Hide the Body! (Tee-hee~) | 288023 | [288023-lets-hide-the-body-tee-hee.json](./288023-lets-hide-the-body-tee-hee.json) |
 | Let's Hitchhike! | 84451 | [84451-lets-hitchhike.json](./84451-lets-hitchhike.json) |
 | Let's Hobbee | 160194 | [160194-lets-hobbee.json](./160194-lets-hobbee.json) |
@@ -5612,6 +5615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Flow - One Line Puzzle ! | 107570 | [107570-line-flow-one-line-puzzle.json](./107570-line-flow-one-line-puzzle.json) |
 | Line Fluffy Diver | 381908 | [381908-line-fluffy-diver.json](./381908-line-fluffy-diver.json) |
 | Line Forge BlackSmith | 402544 | [402544-line-forge-blacksmith.json](./402544-line-forge-blacksmith.json) |
+| Line Go Up | 422436 | [422436-line-go-up.json](./422436-line-go-up.json) |
 | Line GoGo! TwinBee | 282827 | [282827-line-gogo-twinbee.json](./282827-line-gogo-twinbee.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
 | Line Leader | 151509 | [151509-line-leader.json](./151509-line-leader.json) |
@@ -7525,6 +7529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Land | 129981 | [129981-lone-land.json](./129981-lone-land.json) |
 | Lone Leader | 31578 | [31578-lone-leader.json](./31578-lone-leader.json) |
 | Lone Light | 21992 | [21992-lone-light.json](./21992-lone-light.json) |
+| Lone Lines: RPG | 422397 | [422397-lone-lines-rpg.json](./422397-lone-lines-rpg.json) |
 | Lone McLonegan : A Western Adventure | 153926 | [153926-lone-mclonegan-a-western-adventure.json](./153926-lone-mclonegan-a-western-adventure.json) |
 | Lone Pine | 373641 | [373641-lone-pine.json](./373641-lone-pine.json) |
 | Lone Pirate VR | 38794 | [38794-lone-pirate-vr.json](./38794-lone-pirate-vr.json) |
