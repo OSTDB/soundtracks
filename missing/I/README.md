@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idylls of the Lunar Maria | 302923 | [302923-idylls-of-the-lunar-maria.json](./302923-idylls-of-the-lunar-maria.json) |
 | Ie Naki Ko - Suzu no Sentaku | 92276 | [92276-ie-naki-ko-suzu-no-sentaku.json](./92276-ie-naki-ko-suzu-no-sentaku.json) |
 | Iegami Nyoubou: Koisuru Inaba ha Kinpatsu Usagi | 414147 | [414147-iegami-nyoubou-koisuru-inaba-ha-kinpatsu-usagi.json](./414147-iegami-nyoubou-koisuru-inaba-ha-kinpatsu-usagi.json) |
+| Iephosama: Digital Curse | 399557 | [399557-iephosama-digital-curse.json](./399557-iephosama-digital-curse.json) |
 | Iesabel | 16645 | [16645-iesabel.json](./16645-iesabel.json) |
 | Iest Dva Stula | 103191 | [103191-iest-dva-stula.json](./103191-iest-dva-stula.json) |
 | If | 166573 | [166573-if.json](./166573-if.json) |
@@ -4092,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
