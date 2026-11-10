@@ -3638,6 +3638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wer weiß denn sowas?: Das 3. Spiel | 315657 | [315657-wer-wei-denn-sowas-das-3-spiel.json](./315657-wer-wei-denn-sowas-das-3-spiel.json) |
 | Were House | 178553 | [178553-were-house.json](./178553-were-house.json) |
 | Were.Wolf | 157523 | [157523-were-wolf.json](./157523-were-wolf.json) |
+| WereBox 2 | 424257 | [424257-werebox-2.json](./424257-werebox-2.json) |
 | Werehouse | 383183 | [383183-werehouse.json](./383183-werehouse.json) |
 | Werewolf Goldfish | 309054 | [309054-werewolf-goldfish.json](./309054-werewolf-goldfish.json) |
 | Werewolf Hunter X | 114244 | [114244-werewolf-hunter-x.json](./114244-werewolf-hunter-x.json) |
@@ -5321,6 +5322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WikiAsteroids | 386928 | [386928-wikiasteroids.json](./386928-wikiasteroids.json) |
 | WikiGame | 318710 | [318710-wikigame.json](./318710-wikigame.json) |
 | WikiMasters | 419615 | [419615-wikimasters.json](./419615-wikimasters.json) |
+| Wikimon | 424274 | [424274-wikimon.json](./424274-wikimon.json) |
 | WikiParty.org | 233584 | [233584-wikiparty-org.json](./233584-wikiparty-org.json) |
 | Wikipedia Gacha | 394176 | [394176-wikipedia-gacha.json](./394176-wikipedia-gacha.json) |
 | Wikipedia Quest | 402504 | [402504-wikipedia-quest.json](./402504-wikipedia-quest.json) |
