@@ -3665,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Maddening Darkness Pack | 285698 | [285698-dead-by-daylight-maddening-darkness-pack.json](./285698-dead-by-daylight-maddening-darkness-pack.json) |
 | Dead by Daylight: Nicolas Cage | 252477 | [252477-dead-by-daylight-nicolas-cage.json](./252477-dead-by-daylight-nicolas-cage.json) |
 | Dead by Daylight: Nightmare Edition | 136009 | [136009-dead-by-daylight-nightmare-edition.json](./136009-dead-by-daylight-nightmare-edition.json) |
+| Dead by Daylight: Observation Experiment | 400643 | [400643-dead-by-daylight-observation-experiment.json](./400643-dead-by-daylight-observation-experiment.json) |
 | Dead by Daylight: Of Flesh and Mud Chapter | 76222 | [76222-dead-by-daylight-of-flesh-and-mud-chapter.json](./76222-dead-by-daylight-of-flesh-and-mud-chapter.json) |
 | Dead by Daylight: Old Wounds Pack | 283185 | [283185-dead-by-daylight-old-wounds-pack.json](./283185-dead-by-daylight-old-wounds-pack.json) |
 | Dead by Daylight: Portrait of a Murder Chapter | 193520 | [193520-dead-by-daylight-portrait-of-a-murder-chapter.json](./193520-dead-by-daylight-portrait-of-a-murder-chapter.json) |
@@ -5413,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decktoon | 407718 | [407718-decktoon.json](./407718-decktoon.json) |
 | Deckum Demonium | 384756 | [384756-deckum-demonium.json](./384756-deckum-demonium.json) |
 | Deckweaver: Descent Into Chaos | 260577 | [260577-deckweaver-descent-into-chaos.json](./260577-deckweaver-descent-into-chaos.json) |
+| Deckzin | 400043 | [400043-deckzin.json](./400043-deckzin.json) |
 | Declan Moses | 418761 | [418761-declan-moses.json](./418761-declan-moses.json) |
 | Decline | 204865 | [204865-decline.json](./204865-decline.json) |
 | Decline | 326202 | [326202-decline.json](./326202-decline.json) |
@@ -11686,6 +11688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divided Reigns | 132336 | [132336-divided-reigns.json](./132336-divided-reigns.json) |
 | Divided We Fall | 32256 | [32256-divided-we-fall.json](./32256-divided-we-fall.json) |
 | Divided: Soul Theft | 89370 | [89370-divided-soul-theft.json](./89370-divided-soul-theft.json) |
+| Divider Dave | 400626 | [400626-divider-dave.json](./400626-divider-dave.json) |
 | Divilethion | 176299 | [176299-divilethion.json](./176299-divilethion.json) |
 | Divilixa | 149456 | [149456-divilixa.json](./149456-divilixa.json) |
 | Divinastros | 306577 | [306577-divinastros.json](./306577-divinastros.json) |
@@ -14115,6 +14118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomstacker | 389828 | [389828-doomstacker.json](./389828-doomstacker.json) |
 | Doomstar | 110217 | [110217-doomstar.json](./110217-doomstar.json) |
 | Doomtank | 118762 | [118762-doomtank.json](./118762-doomtank.json) |
+| Doomtide | 400041 | [400041-doomtide.json](./400041-doomtide.json) |
 | Doomtrain | 386910 | [386910-doomtrain.json](./386910-doomtrain.json) |
 | Doomtrooper CCG | 71196 | [71196-doomtrooper-ccg.json](./71196-doomtrooper-ccg.json) |
 | DoomWall | 323830 | [323830-doomwall.json](./323830-doomwall.json) |
