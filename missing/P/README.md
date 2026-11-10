@@ -9325,6 +9325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Bar Tycoon: Multiplayer Mode | 246888 | [246888-pizza-bar-tycoon-multiplayer-mode.json](./246888-pizza-bar-tycoon-multiplayer-mode.json) |
 | Pizza Blitz | 364864 | [364864-pizza-blitz.json](./364864-pizza-blitz.json) |
 | Pizza Boy | 303746 | [303746-pizza-boy.json](./303746-pizza-boy.json) |
+| Pizza Boy | 411222 | [411222-pizza-boy.json](./411222-pizza-boy.json) |
 | Pizza Boy | 94182 | [94182-pizza-boy.json](./94182-pizza-boy.json) |
 | Pizza Boy Z | 320064 | [320064-pizza-boy-z.json](./320064-pizza-boy-z.json) |
 | Pizza Brave | 250108 | [250108-pizza-brave.json](./250108-pizza-brave.json) |
@@ -13075,6 +13076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool & Snooker Fever: 2 in 1 Bundle - Diamond Edition | 409978 | [409978-pool-and-snooker-fever-2-in-1-bundle-diamond-edition.json](./409978-pool-and-snooker-fever-2-in-1-bundle-diamond-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Legendary Edition | 407107 | [407107-pool-and-snooker-fever-2-in-1-bundle-legendary-edition.json](./407107-pool-and-snooker-fever-2-in-1-bundle-legendary-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Premium Edition | 395683 | [395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json](./395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json) |
+| Pool & Snooker Fever: 2 in 1 Bundle - Silver Edition | 411181 | [411181-pool-and-snooker-fever-2-in-1-bundle-silver-edition.json](./411181-pool-and-snooker-fever-2-in-1-bundle-silver-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Superior Edition | 413572 | [413572-pool-and-snooker-fever-2-in-1-bundle-superior-edition.json](./413572-pool-and-snooker-fever-2-in-1-bundle-superior-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle Upgrade Edition | 397886 | [397886-pool-and-snooker-fever-2-in-1-bundle-upgrade-edition.json](./397886-pool-and-snooker-fever-2-in-1-bundle-upgrade-edition.json) |
 | Pool 2 | 335496 | [335496-pool-2.json](./335496-pool-2.json) |
@@ -13900,6 +13902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pot Man | 241452 | [241452-pot-man.json](./241452-pot-man.json) |
 | Pot of Gold | 257827 | [257827-pot-of-gold.json](./257827-pot-of-gold.json) |
 | Pot Panic | 94649 | [94649-pot-panic.json](./94649-pot-panic.json) |
+| Pot's On! | 411209 | [411209-pots-on.json](./411209-pots-on.json) |
 | Potat | 372535 | [372535-potat.json](./372535-potat.json) |
 | Potata: Chapter One | 127148 | [127148-potata-chapter-one.json](./127148-potata-chapter-one.json) |
 | Potata: Fairy Flower | 116044 | [116044-potata-fairy-flower.json](./116044-potata-fairy-flower.json) |
