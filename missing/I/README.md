@@ -4037,7 +4037,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -7114,6 +7113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itsy | 309898 | [309898-itsy.json](./309898-itsy.json) |
 | Itsy Blitzy | 107391 | [107391-itsy-blitzy.json](./107391-itsy-blitzy.json) |
 | ItsyRealm | 212012 | [212012-itsyrealm.json](./212012-itsyrealm.json) |
+| Itta | 89378 | [89378-itta.json](./89378-itta.json) |
 | Ittle Dew | 7964 | [7964-ittle-dew.json](./7964-ittle-dew.json) |
 | Ittle Dew 2 | 11598 | [11598-ittle-dew-2.json](./11598-ittle-dew-2.json) |
 | Ittle Dew 2+ | 75286 | [75286-ittle-dew-2.json](./75286-ittle-dew-2.json) |
