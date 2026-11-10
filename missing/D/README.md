@@ -9556,6 +9556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dug: Digging Strike | 47729 | [47729-dig-dug-digging-strike.json](./47729-dig-dug-digging-strike.json) |
 | Dig Dungeon: Roguelike | 233498 | [233498-dig-dungeon-roguelike.json](./233498-dig-dungeon-roguelike.json) |
 | Dig for TCG Cards With Your Friends | 409765 | [409765-dig-for-tcg-cards-with-your-friends.json](./409765-dig-for-tcg-cards-with-your-friends.json) |
+| Dig for Your Lives | 410513 | [410513-dig-for-your-lives.json](./410513-dig-for-your-lives.json) |
 | Dig Girl | 260197 | [260197-dig-girl.json](./260197-dig-girl.json) |
 | Dig In | 399207 | [399207-dig-in.json](./399207-dig-in.json) |
 | Dig Island | 372930 | [372930-dig-island.json](./372930-dig-island.json) |
@@ -13306,6 +13307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pop The Balloon | 316779 | [316779-dont-pop-the-balloon.json](./316779-dont-pop-the-balloon.json) |
 | Don't Pop Yellow or White | 200214 | [200214-dont-pop-yellow-or-white.json](./200214-dont-pop-yellow-or-white.json) |
 | Don't Pop! Dungeon | 56786 | [56786-dont-pop-dungeon.json](./56786-dont-pop-dungeon.json) |
+| Don’t Pop!: Splash Race | 410512 | [410512-don-t-pop-splash-race.json](./410512-don-t-pop-splash-race.json) |
 | Don't Pray to Satan | 89953 | [89953-dont-pray-to-satan.json](./89953-dont-pray-to-satan.json) |
 | Don't Press A to Jump | 279484 | [279484-dont-press-a-to-jump.json](./279484-dont-press-a-to-jump.json) |
 | Don't Press The Button | 402948 | [402948-dont-press-the-button.json](./402948-dont-press-the-button.json) |
@@ -16891,6 +16893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Hospital | 352861 | [352861-dream-hospital.json](./352861-dream-hospital.json) |
 | Dream Hotel Master | 303492 | [303492-dream-hotel-master.json](./303492-dream-hotel-master.json) |
 | Dream House : Interior Design | 103927 | [103927-dream-house-interior-design.json](./103927-dream-house-interior-design.json) |
+| Dream House Cleaning | 410543 | [410543-dream-house-cleaning.json](./410543-dream-house-cleaning.json) |
 | Dream House Days | 246937 | [246937-dream-house-days.json](./246937-dream-house-days.json) |
 | Dream Hunter Toys: Evil Dolls | 227110 | [227110-dream-hunter-toys-evil-dolls.json](./227110-dream-hunter-toys-evil-dolls.json) |
 | Dream in the Shell | 317388 | [317388-dream-in-the-shell.json](./317388-dream-in-the-shell.json) |
@@ -17515,6 +17518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Tank | 427821 | [427821-drift-tank.json](./427821-drift-tank.json) |
 | Drift to Sleep | 414103 | [414103-drift-to-sleep.json](./414103-drift-to-sleep.json) |
 | Drift Type C | 200471 | [200471-drift-type-c.json](./200471-drift-type-c.json) |
+| Drift Vale | 410514 | [410514-drift-vale.json](./410514-drift-vale.json) |
 | Drift Vector | 266091 | [266091-drift-vector.json](./266091-drift-vector.json) |
 | Drift With Your Pals | 236782 | [236782-drift-with-your-pals.json](./236782-drift-with-your-pals.json) |
 | Drift Zone | 76535 | [76535-drift-zone.json](./76535-drift-zone.json) |
