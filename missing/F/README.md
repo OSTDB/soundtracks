@@ -3665,6 +3665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Effect: Reinvented | 55026 | [55026-fear-effect-reinvented.json](./55026-fear-effect-reinvented.json) |
 | Fear Effect: Sedna - Collector's Edition | 124813 | [124813-fear-effect-sedna-collectors-edition.json](./124813-fear-effect-sedna-collectors-edition.json) |
 | Fear FA 98 | 332915 | [332915-fear-fa-98.json](./332915-fear-fa-98.json) |
+| Fear Factor: Unleashed | 6406 | [6406-fear-factor-unleashed.json](./6406-fear-factor-unleashed.json) |
 | Fear For Freedom | 56640 | [56640-fear-for-freedom.json](./56640-fear-for-freedom.json) |
 | Fear for Sale: City of the Past | 140250 | [140250-fear-for-sale-city-of-the-past.json](./140250-fear-for-sale-city-of-the-past.json) |
 | Fear for Sale: City of the Past - Collector's Edition | 107836 | [107836-fear-for-sale-city-of-the-past-collectors-edition.json](./107836-fear-for-sale-city-of-the-past-collectors-edition.json) |
