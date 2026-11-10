@@ -10990,6 +10990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pot Panic | 134550 | [134550-hot-pot-panic.json](./134550-hot-pot-panic.json) |
 | Hot Pot VR | 153004 | [153004-hot-pot-vr.json](./153004-hot-pot-vr.json) |
 | Hot Potato Online | 288009 | [288009-hot-potato-online.json](./288009-hot-potato-online.json) |
+| Hot Potato! | 6437 | [6437-hot-potato.json](./6437-hot-potato.json) |
 | Hot Property | 393588 | [393588-hot-property.json](./393588-hot-property.json) |
 | Hot Pussy College | 221562 | [221562-hot-pussy-college.json](./221562-hot-pussy-college.json) |
 | Hot Pussy College 2 | 240737 | [240737-hot-pussy-college-2.json](./240737-hot-pussy-college-2.json) |
