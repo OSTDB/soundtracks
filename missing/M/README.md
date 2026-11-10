@@ -9354,6 +9354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Match: 16-Bit Edition | 425225 | [425225-memory-match-16-bit-edition.json](./425225-memory-match-16-bit-edition.json) |
 | Memory Maze | 156710 | [156710-memory-maze.json](./156710-memory-maze.json) |
 | Memory Maze | 390031 | [390031-memory-maze.json](./390031-memory-maze.json) |
+| Memory Meme | 76309 | [76309-memory-meme.json](./76309-memory-meme.json) |
 | Memory Mosaic | 243792 | [243792-memory-mosaic.json](./243792-memory-mosaic.json) |
 | Memory Novel: Girls Night Out | 286493 | [286493-memory-novel-girls-night-out.json](./286493-memory-novel-girls-night-out.json) |
 | Memory Novel: Lesbian Romance | 286476 | [286476-memory-novel-lesbian-romance.json](./286476-memory-novel-lesbian-romance.json) |
@@ -12384,6 +12385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milkyway Funland | 156953 | [156953-milkyway-funland.json](./156953-milkyway-funland.json) |
 | MilkyWay: Galaxy Adventure | 206416 | [206416-milkyway-galaxy-adventure.json](./206416-milkyway-galaxy-adventure.json) |
 | Mill | 92299 | [92299-mill.json](./92299-mill.json) |
+| Mille Bornes | 75952 | [75952-mille-bornes.json](./75952-mille-bornes.json) |
 | Mille Bornes | 94925 | [94925-mille-bornes.json](./94925-mille-bornes.json) |
 | Mille Miglia | 37260 | [37260-mille-miglia.json](./37260-mille-miglia.json) |
 | Mille Miglia 2: Great 1000 Miles Rally | 41077 | [41077-mille-miglia-2-great-1000-miles-rally.json](./41077-mille-miglia-2-great-1000-miles-rally.json) |
@@ -18814,6 +18816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
 | Motorbike Evolution 2024 | 254902 | [254902-motorbike-evolution-2024.json](./254902-motorbike-evolution-2024.json) |
 | Motorbike Evolution 2025 | 384574 | [384574-motorbike-evolution-2025.json](./384574-motorbike-evolution-2025.json) |
+| Motorbike Garage Mechanic Simulator | 76320 | [76320-motorbike-garage-mechanic-simulator.json](./76320-motorbike-garage-mechanic-simulator.json) |
 | Motorbike GP | 88372 | [88372-motorbike-gp.json](./88372-motorbike-gp.json) |
 | Motorbike King | 43235 | [43235-motorbike-king.json](./43235-motorbike-king.json) |
 | Motorbike Madness | 45244 | [45244-motorbike-madness.json](./45244-motorbike-madness.json) |
