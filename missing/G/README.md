@@ -6087,6 +6087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Head Golf | 180472 | [180472-goblin-head-golf.json](./180472-goblin-head-golf.json) |
 | Goblin in the Castle | 318246 | [318246-goblin-in-the-castle.json](./318246-goblin-in-the-castle.json) |
 | Goblin Invasion | 262749 | [262749-goblin-invasion.json](./262749-goblin-invasion.json) |
+| Goblin Island | 421253 | [421253-goblin-island.json](./421253-goblin-island.json) |
 | Goblin Jargon | 393846 | [393846-goblin-jargon.json](./393846-goblin-jargon.json) |
 | Goblin Journal | 347742 | [347742-goblin-journal.json](./347742-goblin-journal.json) |
 | Goblin Kart Rescue | 302473 | [302473-goblin-kart-rescue.json](./302473-goblin-kart-rescue.json) |
@@ -6523,6 +6524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla The Series: Monster Wars | 8164 | [8164-godzilla-the-series-monster-wars.json](./8164-godzilla-the-series-monster-wars.json) |
 | Godzilla Unleashed: Double Smash | 21512 | [21512-godzilla-unleashed-double-smash.json](./21512-godzilla-unleashed-double-smash.json) |
 | Godzilla Voxel Wars | 264341 | [264341-godzilla-voxel-wars.json](./264341-godzilla-voxel-wars.json) |
+| Godzilla vs. Sonic: First Encounter | 421175 | [421175-godzilla-vs-sonic-first-encounter.json](./421175-godzilla-vs-sonic-first-encounter.json) |
 | Godzilla x Kong: Titan Chasers | 297121 | [297121-godzilla-x-kong-titan-chasers.json](./297121-godzilla-x-kong-titan-chasers.json) |
 | Godzilla: Archipelago Shock | 75891 | [75891-godzilla-archipelago-shock.json](./75891-godzilla-archipelago-shock.json) |
 | Godzilla: Battle Line | 145860 | [145860-godzilla-battle-line.json](./145860-godzilla-battle-line.json) |
