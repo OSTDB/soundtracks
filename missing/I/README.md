@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Clan: Grandmastery | 395726 | [395726-immortal-clan-grandmastery.json](./395726-immortal-clan-grandmastery.json) |
 | Immortal Coil | 411722 | [411722-immortal-coil.json](./411722-immortal-coil.json) |
 | Immortal Conquest | 174830 | [174830-immortal-conquest.json](./174830-immortal-conquest.json) |
+| Immortal Darkness: Curse of The Pale King | 104874 | [104874-immortal-darkness-curse-of-the-pale-king.json](./104874-immortal-darkness-curse-of-the-pale-king.json) |
 | Immortal Defense | 17358 | [17358-immortal-defense.json](./17358-immortal-defense.json) |
 | Immortal Desire | 245535 | [245535-immortal-desire.json](./245535-immortal-desire.json) |
 | Immortal Desires | 313735 | [313735-immortal-desires.json](./313735-immortal-desires.json) |
@@ -3259,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incen(diary) | 357115 | [357115-incen-diary.json](./357115-incen-diary.json) |
 | Incendium | 246205 | [246205-incendium.json](./246205-incendium.json) |
 | Incessant | 235832 | [235832-incessant.json](./235832-incessant.json) |
+| Inch by Inch | 106011 | [106011-inch-by-inch.json](./106011-inch-by-inch.json) |
 | Inch By Inch | 266540 | [266540-inch-by-inch.json](./266540-inch-by-inch.json) |
 | Incident 370-B | 284156 | [284156-incident-370-b.json](./284156-incident-370-b.json) |
 | Incident Archives: Flight 882 | 413820 | [413820-incident-archives-flight-882.json](./413820-incident-archives-flight-882.json) |
@@ -4045,7 +4047,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
