@@ -2944,7 +2944,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3776,6 +3775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings and Castles | 94154 | [94154-kings-and-castles.json](./94154-kings-and-castles.json) |
 | Kings and Catapults | 215647 | [215647-kings-and-catapults.json](./215647-kings-and-catapults.json) |
 | Kings and Generals: A Divided Loyalty | 60249 | [60249-kings-and-generals-a-divided-loyalty.json](./60249-kings-and-generals-a-divided-loyalty.json) |
+| Kings and Heroes | 18552 | [18552-kings-and-heroes.json](./18552-kings-and-heroes.json) |
 | Kings and Legends | 62791 | [62791-kings-and-legends.json](./62791-kings-and-legends.json) |
 | Kings and Pigs | 152937 | [152937-kings-and-pigs.json](./152937-kings-and-pigs.json) |
 | Kings Call | 277450 | [277450-kings-call.json](./277450-kings-call.json) |
@@ -4494,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kleks Academy | 348718 | [348718-kleks-academy.json](./348718-kleks-academy.json) |
 | Klendathu | 44349 | [44349-klendathu.json](./44349-klendathu.json) |
 | Kleopatra | 213968 | [213968-kleopatra.json](./213968-kleopatra.json) |
+| Klepto | 19061 | [19061-klepto.json](./19061-klepto.json) |
 | Klepto | 297476 | [297476-klepto.json](./297476-klepto.json) |
 | Klepto Planet Attack | 176473 | [176473-klepto-planet-attack.json](./176473-klepto-planet-attack.json) |
 | KleptoCats 2 | 92090 | [92090-kleptocats-2.json](./92090-kleptocats-2.json) |
