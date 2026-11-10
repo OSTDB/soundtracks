@@ -13604,6 +13604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonkey Trek Quimdung Edition | 154696 | [154696-bonkey-trek-quimdung-edition.json](./154696-bonkey-trek-quimdung-edition.json) |
 | Bonkheads | 69111 | [69111-bonkheads.json](./69111-bonkheads.json) |
 | Bonkhope | 417425 | [417425-bonkhope.json](./417425-bonkhope.json) |
+| Bonki D Bonk | 410515 | [410515-bonki-d-bonk.json](./410515-bonki-d-bonk.json) |
 | Bonkies | 105344 | [105344-bonkies.json](./105344-bonkies.json) |
 | Bonnie Blob in Shapeville | 323368 | [323368-bonnie-blob-in-shapeville.json](./323368-bonnie-blob-in-shapeville.json) |
 | Bonnie Fell | 329113 | [329113-bonnie-fell.json](./329113-bonnie-fell.json) |
@@ -15580,6 +15581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Hero Yuusha EX | 111639 | [111639-brave-hero-yuusha-ex.json](./111639-brave-hero-yuusha-ex.json) |
 | Brave Hero: Puzzle Dungeon Card | 285370 | [285370-brave-hero-puzzle-dungeon-card.json](./285370-brave-hero-puzzle-dungeon-card.json) |
 | Brave Heroes | 208604 | [208604-brave-heroes.json](./208604-brave-heroes.json) |
+| Brave Joe | 410554 | [410554-brave-joe.json](./410554-brave-joe.json) |
 | Brave Kaka | 246422 | [246422-brave-kaka.json](./246422-brave-kaka.json) |
 | Brave knight runner | 115496 | [115496-brave-knight-runner.json](./115496-brave-knight-runner.json) |
 | Brave Knight: Leverant Eiyuuden | 77024 | [77024-brave-knight-leverant-eiyuuden.json](./77024-brave-knight-leverant-eiyuuden.json) |
