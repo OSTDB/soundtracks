@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravenmoore Psychiatric Hospital | 376463 | [376463-ravenmoore-psychiatric-hospital.json](./376463-ravenmoore-psychiatric-hospital.json) |
 | Ravenous | 361635 | [361635-ravenous.json](./361635-ravenous.json) |
 | Ravenous | 377340 | [377340-ravenous.json](./377340-ravenous.json) |
+| Ravenous Deep | 421752 | [421752-ravenous-deep.json](./421752-ravenous-deep.json) |
 | Ravenous Devils | 173033 | [173033-ravenous-devils.json](./173033-ravenous-devils.json) |
 | Ravenous Frog | 96291 | [96291-ravenous-frog.json](./96291-ravenous-frog.json) |
 | Ravenous Hand | 377991 | [377991-ravenous-hand.json](./377991-ravenous-hand.json) |
