@@ -3151,6 +3151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydream Mosaics 6: Empire - Collector's Edition | 385425 | [385425-daydream-mosaics-6-empire-collectors-edition.json](./385425-daydream-mosaics-6-empire-collectors-edition.json) |
 | Daydream Mosaics: Juliette's Collection | 357307 | [357307-daydream-mosaics-juliettes-collection.json](./357307-daydream-mosaics-juliettes-collection.json) |
 | Daydream Paradise | 336457 | [336457-daydream-paradise.json](./336457-daydream-paradise.json) |
+| Daydream: Forgotten Sorrow | 167270 | [167270-daydream-forgotten-sorrow.json](./167270-daydream-forgotten-sorrow.json) |
 | Daydream: Legend of the Eschelons | 191002 | [191002-daydream-legend-of-the-eschelons.json](./191002-daydream-legend-of-the-eschelons.json) |
 | Daydream: Prologue | 246906 | [246906-daydream-prologue.json](./246906-daydream-prologue.json) |
 | Daydream: When Butterflies Dance | 201240 | [201240-daydream-when-butterflies-dance.json](./201240-daydream-when-butterflies-dance.json) |
@@ -7928,6 +7929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Beyond Light - Season of the Lost | 165316 | [165316-destiny-2-beyond-light-season-of-the-lost.json](./165316-destiny-2-beyond-light-season-of-the-lost.json) |
 | Destiny 2: Beyond Light - Season of the Splicer | 147058 | [147058-destiny-2-beyond-light-season-of-the-splicer.json](./147058-destiny-2-beyond-light-season-of-the-splicer.json) |
 | Destiny 2: Black Armory | 112408 | [112408-destiny-2-black-armory.json](./112408-destiny-2-black-armory.json) |
+| Destiny 2: Bungie 30th Anniversary Pack | 166068 | [166068-destiny-2-bungie-30th-anniversary-pack.json](./166068-destiny-2-bungie-30th-anniversary-pack.json) |
 | Destiny 2: Collector's Edition | 37213 | [37213-destiny-2-collectors-edition.json](./37213-destiny-2-collectors-edition.json) |
 | Destiny 2: Curse of Osiris | 61583 | [61583-destiny-2-curse-of-osiris.json](./61583-destiny-2-curse-of-osiris.json) |
 | Destiny 2: Digital Deluxe Edition | 52887 | [52887-destiny-2-digital-deluxe-edition.json](./52887-destiny-2-digital-deluxe-edition.json) |
