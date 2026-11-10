@@ -7729,6 +7729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gossip | 320635 | [320635-gossip.json](./320635-gossip.json) |
 | Gossip | 384758 | [384758-gossip.json](./384758-gossip.json) |
 | Gossip & Potions: Tales from the Witch Shop | 276669 | [276669-gossip-and-potions-tales-from-the-witch-shop.json](./276669-gossip-and-potions-tales-from-the-witch-shop.json) |
+| Gossip Girl - School Queen | 87480 | [87480-gossip-girl-school-queen.json](./87480-gossip-girl-school-queen.json) |
 | Gossip Girl: Party | 238903 | [238903-gossip-girl-party.json](./238903-gossip-girl-party.json) |
 | Gossip Harbor: Merge Game | 212511 | [212511-gossip-harbor-merge-game.json](./212511-gossip-harbor-merge-game.json) |
 | Gossipdle | 378256 | [378256-gossipdle.json](./378256-gossipdle.json) |
