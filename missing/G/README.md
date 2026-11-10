@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Siege 3 | 101857 | [101857-galaxy-siege-3.json](./101857-galaxy-siege-3.json) |
 | Galaxy Sphere | 180066 | [180066-galaxy-sphere.json](./180066-galaxy-sphere.json) |
 | Galaxy Splitter | 200953 | [200953-galaxy-splitter.json](./200953-galaxy-splitter.json) |
+| Galaxy Squad | 108376 | [108376-galaxy-squad.json](./108376-galaxy-squad.json) |
 | Galaxy Squad: Airplane Games | 256456 | [256456-galaxy-squad-airplane-games.json](./256456-galaxy-squad-airplane-games.json) |
 | Galaxy Stack | 113596 | [113596-galaxy-stack.json](./113596-galaxy-stack.json) |
 | Galaxy Stir | 92773 | [92773-galaxy-stir.json](./92773-galaxy-stir.json) |
@@ -4998,6 +4999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladio Mori | 278415 | [278415-gladio-mori.json](./278415-gladio-mori.json) |
 | Gladium | 120784 | [120784-gladium.json](./120784-gladium.json) |
 | Gladius | 3932 | [3932-gladius.json](./3932-gladius.json) |
+| Gladius VR | 108181 | [108181-gladius-vr.json](./108181-gladius-vr.json) |
 | GladMort | 320021 | [320021-gladmort.json](./320021-gladmort.json) |
 | Gladom: The 2D MOBA in Pixel Art | 121469 | [121469-gladom-the-2d-moba-in-pixel-art.json](./121469-gladom-the-2d-moba-in-pixel-art.json) |
 | Gladston Valley | 366181 | [366181-gladston-valley.json](./366181-gladston-valley.json) |
@@ -5021,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glances | 82556 | [82556-glances.json](./82556-glances.json) |
 | Glare | 16563 | [16563-glare.json](./16563-glare.json) |
 | Glare Fall | 133172 | [133172-glare-fall.json](./133172-glare-fall.json) |
+| Glare1more | 108317 | [108317-glare1more.json](./108317-glare1more.json) |
 | Glass | 125924 | [125924-glass.json](./125924-glass.json) |
 | Glass | 14094 | [14094-glass.json](./14094-glass.json) |
 | Glass | 166487 | [166487-glass.json](./166487-glass.json) |
