@@ -1956,6 +1956,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need Two Survive | 325903 | [325903-need-two-survive.json](./325903-need-two-survive.json) |
 | Needle & Thread | 330155 | [330155-needle-and-thread.json](./330155-needle-and-thread.json) |
 | Needle Eye | 392965 | [392965-needle-eye.json](./392965-needle-eye.json) |
+| Needle in a Haystack | 417152 | [417152-needle-in-a-haystack.json](./417152-needle-in-a-haystack.json) |
+| Needle in a Haystack: A Time for Goats | 417153 | [417153-needle-in-a-haystack-a-time-for-goats.json](./417153-needle-in-a-haystack-a-time-for-goats.json) |
 | Needle Of Anger | 254671 | [254671-needle-of-anger.json](./254671-needle-of-anger.json) |
 | Needy Dragons | 220678 | [220678-needy-dragons.json](./220678-needy-dragons.json) |
 | Needy Princess Nerd Club | 256066 | [256066-needy-princess-nerd-club.json](./256066-needy-princess-nerd-club.json) |
