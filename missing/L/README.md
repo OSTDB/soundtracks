@@ -7773,6 +7773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look over the Edge | 198017 | [198017-look-over-the-edge.json](./198017-look-over-the-edge.json) |
 | Look to the Birds | 414434 | [414434-look-to-the-birds.json](./414434-look-to-the-birds.json) |
 | Look Twice | 417974 | [417974-look-twice.json](./417974-look-twice.json) |
+| Look Up and Go | 404493 | [404493-look-up-and-go.json](./404493-look-up-and-go.json) |
 | Look_in_Dark | 304061 | [304061-look-in-dark.json](./304061-look-in-dark.json) |
 | Look, Your Loot! | 153624 | [153624-look-your-loot.json](./153624-look-your-loot.json) |
 | Looking | 178031 | [178031-looking.json](./178031-looking.json) |
