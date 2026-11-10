@@ -5071,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final 5 | 231539 | [231539-final-5.json](./231539-final-5.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
 | Final Apex | 289268 | [289268-final-apex.json](./289268-final-apex.json) |
+| Final Approach | 18973 | [18973-final-approach.json](./18973-final-approach.json) |
 | Final Approach | 95485 | [95485-final-approach.json](./95485-final-approach.json) |
 | Final Approach: Pilot Edition | 32519 | [32519-final-approach-pilot-edition.json](./32519-final-approach-pilot-edition.json) |
 | Final Archer VR | 119489 | [119489-final-archer-vr.json](./119489-final-archer-vr.json) |
@@ -5575,6 +5576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Storm | 74661 | [74661-final-storm.json](./74661-final-storm.json) |
 | Final Strategy | 390997 | [390997-final-strategy.json](./390997-final-strategy.json) |
 | Final Stretch: Horse Racing Sim | 73972 | [73972-final-stretch-horse-racing-sim.json](./73972-final-stretch-horse-racing-sim.json) |
+| Final Strike | 19059 | [19059-final-strike.json](./19059-final-strike.json) |
 | Final Sword | 135636 | [135636-final-sword.json](./135636-final-sword.json) |
 | Final Sword: Definitive Edition | 147999 | [147999-final-sword-definitive-edition.json](./147999-final-sword-definitive-edition.json) |
 | Final Sword: Mobile Edition | 205824 | [205824-final-sword-mobile-edition.json](./205824-final-sword-mobile-edition.json) |
@@ -7602,6 +7604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaky Love | 310039 | [310039-flaky-love.json](./310039-flaky-love.json) |
 | Flam the Purge of the Century | 201088 | [201088-flam-the-purge-of-the-century.json](./201088-flam-the-purge-of-the-century.json) |
 | Flamango | 180034 | [180034-flamango.json](./180034-flamango.json) |
+| Flamberge | 18359 | [18359-flamberge.json](./18359-flamberge.json) |
 | Flamberge no Seirei | 383086 | [383086-flamberge-no-seirei.json](./383086-flamberge-no-seirei.json) |
 | Flambo's Inferno | 196164 | [196164-flambos-inferno.json](./196164-flambos-inferno.json) |
 | Flame | 312847 | [312847-flame.json](./312847-flame.json) |
