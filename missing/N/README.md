@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Football '99 | 43713 | [43713-ncaa-football-99.json](./43713-ncaa-football-99.json) |
 | NCAA Football 06 | 5952 | [5952-ncaa-football-06.json](./5952-ncaa-football-06.json) |
 | NCAA Football 07 | 5953 | [5953-ncaa-football-07.json](./5953-ncaa-football-07.json) |
+| NCAA Football 08 | 5954 | [5954-ncaa-football-08.json](./5954-ncaa-football-08.json) |
 | NCAA Football 09 | 5065 | [5065-ncaa-football-09.json](./5065-ncaa-football-09.json) |
 | NCAA Football 09: All-Play | 137060 | [137060-ncaa-football-09-all-play.json](./137060-ncaa-football-09-all-play.json) |
 | NCAA Football 10 | 7111 | [7111-ncaa-football-10.json](./7111-ncaa-football-10.json) |
