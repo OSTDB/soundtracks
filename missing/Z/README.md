@@ -2708,6 +2708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zup! X | 101515 | [101515-zup-x.json](./101515-zup-x.json) |
 | Zup! XS | 117109 | [117109-zup-xs.json](./117109-zup-xs.json) |
 | Zup! Y | 316678 | [316678-zup-y.json](./316678-zup-y.json) |
+| Zup! Zero | 29099 | [29099-zup-zero.json](./29099-zup-zero.json) |
 | Zup! Zero 2 | 105879 | [105879-zup-zero-2.json](./105879-zup-zero-2.json) |
 | Zup! Zero: DLC | 167890 | [167890-zup-zero-dlc.json](./167890-zup-zero-dlc.json) |
 | Zup!: DLC | 169712 | [169712-zup-dlc.json](./169712-zup-dlc.json) |
