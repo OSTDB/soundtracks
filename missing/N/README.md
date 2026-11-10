@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nation Red | 21115 | [21115-nation-red.json](./21115-nation-red.json) |
 | Nation War 2: Chronicle | 169432 | [169432-nation-war-2-chronicle.json](./169432-nation-war-2-chronicle.json) |
 | Nation War: Chronicles | 48008 | [48008-nation-war-chronicles.json](./48008-nation-war-chronicles.json) |
+| National Adult General Knowledge Selection Test | 397724 | [397724-national-adult-general-knowledge-selection-test.json](./397724-national-adult-general-knowledge-selection-test.json) |
 | National Geographic Challenge! | 52603 | [52603-national-geographic-challenge.json](./52603-national-geographic-challenge.json) |
 | National Geographic Lilly Wu and the Terra Cotta Mystery | 209148 | [209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json](./209148-national-geographic-lilly-wu-and-the-terra-cotta-mystery.json) |
 | National Geographic Panda | 70634 | [70634-national-geographic-panda.json](./70634-national-geographic-panda.json) |
@@ -4444,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Class: A Vampire Story | 184763 | [184763-night-class-a-vampire-story.json](./184763-night-class-a-vampire-story.json) |
 | Night Clerk | 376476 | [376476-night-clerk.json](./376476-night-clerk.json) |
 | Night Clerk | 389597 | [389597-night-clerk.json](./389597-night-clerk.json) |
+| Night Club Manager Simulator | 397723 | [397723-night-club-manager-simulator.json](./397723-night-club-manager-simulator.json) |
 | Night Club Simulator | 333310 | [333310-night-club-simulator.json](./333310-night-club-simulator.json) |
 | Night Club Simulator: Party King | 360470 | [360470-night-club-simulator-party-king.json](./360470-night-club-simulator-party-king.json) |
 | Night Confessional | 293343 | [293343-night-confessional.json](./293343-night-confessional.json) |
@@ -4742,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall Mysteries: Curse of the Opera | 125308 | [125308-nightfall-mysteries-curse-of-the-opera.json](./125308-nightfall-mysteries-curse-of-the-opera.json) |
 | Nightfall Mysteries: Haunted by the Past - Collector's Edition | 228234 | [228234-nightfall-mysteries-haunted-by-the-past-collectors-edition.json](./228234-nightfall-mysteries-haunted-by-the-past-collectors-edition.json) |
 | Nightfall of the Dead | 361083 | [361083-nightfall-of-the-dead.json](./361083-nightfall-of-the-dead.json) |
+| Nightfall Protocol | 397467 | [397467-nightfall-protocol.json](./397467-nightfall-protocol.json) |
 | NightFall Shade | 285418 | [285418-nightfall-shade.json](./285418-nightfall-shade.json) |
 | Nightfall Terror: Trails of the Dead | 318558 | [318558-nightfall-terror-trails-of-the-dead.json](./318558-nightfall-terror-trails-of-the-dead.json) |
 | Nightfall Village | 386374 | [386374-nightfall-village.json](./386374-nightfall-village.json) |
@@ -6829,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Non-Linear Text Quests | 103924 | [103924-non-linear-text-quests.json](./103924-non-linear-text-quests.json) |
 | Non-Linear Text Quests: Return of Red Riding Hood Enhanced Edition | 170714 | [170714-non-linear-text-quests-return-of-red-riding-hood-enhanced-edition.json](./170714-non-linear-text-quests-return-of-red-riding-hood-enhanced-edition.json) |
 | Non-Linear Text Quests: The Barbarian and the Subterranean Caves | 170713 | [170713-non-linear-text-quests-the-barbarian-and-the-subterranean-caves.json](./170713-non-linear-text-quests-the-barbarian-and-the-subterranean-caves.json) |
+| Non-Orientable Cicada Crawl | 397469 | [397469-non-orientable-cicada-crawl.json](./397469-non-orientable-cicada-crawl.json) |
 | Non-Stop Raiders | 216982 | [216982-non-stop-raiders.json](./216982-non-stop-raiders.json) |
 | Non-Stop Space Probe | 237389 | [237389-non-stop-space-probe.json](./237389-non-stop-space-probe.json) |
 | Non-Virtual Reality Games | 371033 | [371033-non-virtual-reality-games.json](./371033-non-virtual-reality-games.json) |
