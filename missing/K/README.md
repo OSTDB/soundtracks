@@ -2746,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Backflip 999 | 103474 | [103474-killer-backflip-999.json](./103474-killer-backflip-999.json) |
 | Killer Bean Unleashed | 262652 | [262652-killer-bean-unleashed.json](./262652-killer-bean-unleashed.json) |
 | Killer Bear | 124551 | [124551-killer-bear.json](./124551-killer-bear.json) |
+| Killer Bees | 406404 | [406404-killer-bees.json](./406404-killer-bees.json) |
 | Killer Chambers | 116824 | [116824-killer-chambers.json](./116824-killer-chambers.json) |
 | Killer Chat!: Original Edition | 378575 | [378575-killer-chat-original-edition.json](./378575-killer-chat-original-edition.json) |
 | Killer Comet | 40049 | [40049-killer-comet.json](./40049-killer-comet.json) |
