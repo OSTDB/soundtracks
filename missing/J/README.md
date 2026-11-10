@@ -3163,6 +3163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judge Dredd: Dredd Vs. Death | 3961 | [3961-judge-dredd-dredd-vs-death.json](./3961-judge-dredd-dredd-vs-death.json) |
 | Judge Judy: Crossword Puzzles | 333295 | [333295-judge-judy-crossword-puzzles.json](./333295-judge-judy-crossword-puzzles.json) |
 | Judge of Hasoon | 296928 | [296928-judge-of-hasoon.json](./296928-judge-of-hasoon.json) |
+| Judge of Ultimate | 419470 | [419470-judge-of-ultimate.json](./419470-judge-of-ultimate.json) |
 | Judge Sim | 397266 | [397266-judge-sim.json](./397266-judge-sim.json) |
 | Judgeball: Lethal Arena | 207486 | [207486-judgeball-lethal-arena.json](./207486-judgeball-lethal-arena.json) |
 | Judged: A Court Simulator | 112365 | [112365-judged-a-court-simulator.json](./112365-judged-a-court-simulator.json) |
@@ -3420,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump King: New Babe+ | 386223 | [386223-jump-king-new-babe.json](./386223-jump-king-new-babe.json) |
 | Jump Kingdom | 155998 | [155998-jump-kingdom.json](./155998-jump-kingdom.json) |
 | Jump Lanes | 187381 | [187381-jump-lanes.json](./187381-jump-lanes.json) |
+| Jump Like a Fricking Lobster | 419424 | [419424-jump-like-a-fricking-lobster.json](./419424-jump-like-a-fricking-lobster.json) |
 | Jump Like a Grad Student | 264763 | [264763-jump-like-a-grad-student.json](./264763-jump-like-a-grad-student.json) |
 | Jump Like An Egyptian | 192978 | [192978-jump-like-an-egyptian.json](./192978-jump-like-an-egyptian.json) |
 | Jump Lover | 239630 | [239630-jump-lover.json](./239630-jump-lover.json) |
