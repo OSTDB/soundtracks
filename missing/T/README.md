@@ -6801,6 +6801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Biggest Loser Challenge | 51003 | [51003-the-biggest-loser-challenge.json](./51003-the-biggest-loser-challenge.json) |
 | The Biggest Loser: Ultimate Workout | 20168 | [20168-the-biggest-loser-ultimate-workout.json](./20168-the-biggest-loser-ultimate-workout.json) |
 | The Biggleboss Incident | 309301 | [309301-the-biggleboss-incident.json](./309301-the-biggleboss-incident.json) |
+| The Bigs | 4715 | [4715-the-bigs.json](./4715-the-bigs.json) |
 | The Bigs 2 | 210441 | [210441-the-bigs-2.json](./210441-the-bigs-2.json) |
 | The Bigs 2 | 4716 | [4716-the-bigs-2.json](./4716-the-bigs-2.json) |
 | The Bike: Moto Ride Simulator | 288163 | [288163-the-bike-moto-ride-simulator.json](./288163-the-bike-moto-ride-simulator.json) |
@@ -11784,6 +11785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isolation Ward | 177840 | [177840-the-isolation-ward.json](./177840-the-isolation-ward.json) |
 | The Istrys | 55578 | [55578-the-istrys.json](./55578-the-istrys.json) |
 | The Italian Job | 135936 | [135936-the-italian-job.json](./135936-the-italian-job.json) |
+| The Italian Job | 3959 | [3959-the-italian-job.json](./3959-the-italian-job.json) |
 | The Italianeer | 105552 | [105552-the-italianeer.json](./105552-the-italianeer.json) |
 | The Itch | 120002 | [120002-the-itch.json](./120002-the-itch.json) |
 | The Itchy & Scratchy Game | 2834 | [2834-the-itchy-and-scratchy-game.json](./2834-the-itchy-and-scratchy-game.json) |
@@ -17511,6 +17513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs Party Pack | 79212 | [79212-the-smurfs-party-pack.json](./79212-the-smurfs-party-pack.json) |
 | The Smurfs Travel the World | 287148 | [287148-the-smurfs-travel-the-world.json](./287148-the-smurfs-travel-the-world.json) |
 | The Smurfs Travel the World | 287150 | [287150-the-smurfs-travel-the-world.json](./287150-the-smurfs-travel-the-world.json) |
+| The Smurfs Travel the World | 4402 | [4402-the-smurfs-travel-the-world.json](./4402-the-smurfs-travel-the-world.json) |
 | The Smurfs: Arcade Action | 92325 | [92325-the-smurfs-arcade-action.json](./92325-the-smurfs-arcade-action.json) |
 | The Smurfs: Colorful Stories | 275888 | [275888-the-smurfs-colorful-stories.json](./275888-the-smurfs-colorful-stories.json) |
 | The Smurfs: Colorful Stories - Amazing Edition | 328788 | [328788-the-smurfs-colorful-stories-amazing-edition.json](./328788-the-smurfs-colorful-stories-amazing-edition.json) |
@@ -32251,6 +32254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Heroes | 111821 | [111821-trigger-heroes.json](./111821-trigger-heroes.json) |
 | Trigger Knight | 314452 | [314452-trigger-knight.json](./314452-trigger-knight.json) |
 | Trigger Land | 366111 | [366111-trigger-land.json](./366111-trigger-land.json) |
+| Trigger Man | 4210 | [4210-trigger-man.json](./4210-trigger-man.json) |
 | Trigger of Silence | 379837 | [379837-trigger-of-silence.json](./379837-trigger-of-silence.json) |
 | Trigger on the Road | 232335 | [232335-trigger-on-the-road.json](./232335-trigger-on-the-road.json) |
 | Trigger Path | 378386 | [378386-trigger-path.json](./378386-trigger-path.json) |
