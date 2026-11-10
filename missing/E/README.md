@@ -7098,6 +7098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Event Horizon | 271755 | [271755-event-horizon.json](./271755-event-horizon.json) |
 | Event Horizon | 295086 | [295086-event-horizon.json](./295086-event-horizon.json) |
 | Event Horizon | 32923 | [32923-event-horizon.json](./32923-event-horizon.json) |
+| Event Horizon Adventure | 416289 | [416289-event-horizon-adventure.json](./416289-event-horizon-adventure.json) |
 | Event Horizon XV | 281181 | [281181-event-horizon-xv.json](./281181-event-horizon-xv.json) |
 | Event Horizon: Space Defense | 126192 | [126192-event-horizon-space-defense.json](./126192-event-horizon-space-defense.json) |
 | Event Race | 280349 | [280349-event-race.json](./280349-event-race.json) |
