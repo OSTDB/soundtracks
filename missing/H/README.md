@@ -8107,6 +8107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Acceleroid Booster | 135502 | [135502-highway-acceleroid-booster.json](./135502-highway-acceleroid-booster.json) |
 | Highway Bikers: Moto Racing Simulator | 342405 | [342405-highway-bikers-moto-racing-simulator.json](./342405-highway-bikers-moto-racing-simulator.json) |
 | Highway Blossoms | 20688 | [20688-highway-blossoms.json](./20688-highway-blossoms.json) |
+| Highway Blossoms: Gold Rush Edition | 420636 | [420636-highway-blossoms-gold-rush-edition.json](./420636-highway-blossoms-gold-rush-edition.json) |
 | Highway Blossoms: Next Exit | 139123 | [139123-highway-blossoms-next-exit.json](./139123-highway-blossoms-next-exit.json) |
 | Highway Builder | 150868 | [150868-highway-builder.json](./150868-highway-builder.json) |
 | Highway Bus Rush | 352316 | [352316-highway-bus-rush.json](./352316-highway-bus-rush.json) |
