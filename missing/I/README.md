@@ -4093,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6988,6 +6989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Takes One Year To Beat This Game | 339307 | [339307-it-takes-one-year-to-beat-this-game.json](./339307-it-takes-one-year-to-beat-this-game.json) |
 | It Takes Paws | 416564 | [416564-it-takes-paws.json](./416564-it-takes-paws.json) |
 | It Takes the Ball | 151586 | [151586-it-takes-the-ball.json](./151586-it-takes-the-ball.json) |
+| It Takes Two | 397436 | [397436-it-takes-two.json](./397436-it-takes-two.json) |
 | It Takes Two Girls | 190073 | [190073-it-takes-two-girls.json](./190073-it-takes-two-girls.json) |
 | It Takes Two to Tangle | 321129 | [321129-it-takes-two-to-tangle.json](./321129-it-takes-two-to-tangle.json) |
 | It Thinks! | 417229 | [417229-it-thinks.json](./417229-it-thinks.json) |
