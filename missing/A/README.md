@@ -2342,6 +2342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Defence | 350313 | [350313-abyss-defence.json](./350313-abyss-defence.json) |
 | Abyss Delvers | 194378 | [194378-abyss-delvers.json](./194378-abyss-delvers.json) |
 | Abyss Eschaton Survivors | 348852 | [348852-abyss-eschaton-survivors.json](./348852-abyss-eschaton-survivors.json) |
+| Abyss Expedition | 424301 | [424301-abyss-expedition.json](./424301-abyss-expedition.json) |
 | Abyss Fantasia | 207601 | [207601-abyss-fantasia.json](./207601-abyss-fantasia.json) |
 | Abyss Horizon | 97453 | [97453-abyss-horizon.json](./97453-abyss-horizon.json) |
 | Abyss Infection | 157152 | [157152-abyss-infection.json](./157152-abyss-infection.json) |
@@ -2687,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Attorney: Athena Cykes - Wisdom at Law | 308533 | [308533-ace-attorney-athena-cykes-wisdom-at-law.json](./308533-ace-attorney-athena-cykes-wisdom-at-law.json) |
 | Ace Attorney: Beyond the Shadows | 308543 | [308543-ace-attorney-beyond-the-shadows.json](./308543-ace-attorney-beyond-the-shadows.json) |
 | Ace Attorney: Judgement Seekers | 310417 | [310417-ace-attorney-judgement-seekers.json](./310417-ace-attorney-judgement-seekers.json) |
+| Ace Attorney: Memories and Turnabout | 424268 | [424268-ace-attorney-memories-and-turnabout.json](./424268-ace-attorney-memories-and-turnabout.json) |
 | Ace Attorney: Prisoners of Fate | 341929 | [341929-ace-attorney-prisoners-of-fate.json](./341929-ace-attorney-prisoners-of-fate.json) |
 | Ace Attorney: The Dark Age of Love | 305190 | [305190-ace-attorney-the-dark-age-of-love.json](./305190-ace-attorney-the-dark-age-of-love.json) |
 | Ace Attorney: The Feather of Crime | 310416 | [310416-ace-attorney-the-feather-of-crime.json](./310416-ace-attorney-the-feather-of-crime.json) |
@@ -8023,6 +8025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almost Alive | 105356 | [105356-almost-alive.json](./105356-almost-alive.json) |
 | Almost Dungeon | 303134 | [303134-almost-dungeon.json](./303134-almost-dungeon.json) |
 | Almost Heroic | 179538 | [179538-almost-heroic.json](./179538-almost-heroic.json) |
+| Almost Home | 424288 | [424288-almost-home.json](./424288-almost-home.json) |
 | Almost Home Now | 200351 | [200351-almost-home-now.json](./200351-almost-home-now.json) |
 | Almost Impossible! | 58303 | [58303-almost-impossible.json](./58303-almost-impossible.json) |
 | Almost My Floor | 133022 | [133022-almost-my-floor.json](./133022-almost-my-floor.json) |
@@ -14627,6 +14630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ARL 96 | 93147 | [93147-arl-96.json](./93147-arl-96.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
 | Arlandria | 36830 | [36830-arlandria.json](./36830-arlandria.json) |
+| Arlasoft Soccer | 424267 | [424267-arlasoft-soccer.json](./424267-arlasoft-soccer.json) |
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
 | Arle no Bouken: Mahou no Jewel | 50020 | [50020-arle-no-bouken-mahou-no-jewel.json](./50020-arle-no-bouken-mahou-no-jewel.json) |
 | Arle's Travel Log | 253717 | [253717-arles-travel-log.json](./253717-arles-travel-log.json) |
@@ -18095,6 +18099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Au Revoir | 307878 | [307878-au-revoir.json](./307878-au-revoir.json) |
 | Au Sable | 125855 | [125855-au-sable.json](./125855-au-sable.json) |
 | Au-Delà | 191651 | [191651-au-dela.json](./191651-au-dela.json) |
+| AU2 Mobile | 424307 | [424307-au2-mobile.json](./424307-au2-mobile.json) |
 | Aubac | 416163 | [416163-aubac.json](./416163-aubac.json) |
 | Aube | 104450 | [104450-aube.json](./104450-aube.json) |
 | AubirdForce | 388782 | [388782-aubirdforce.json](./388782-aubirdforce.json) |
