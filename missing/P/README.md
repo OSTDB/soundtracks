@@ -6891,6 +6891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pile the Box | 246476 | [246476-pile-the-box.json](./246476-pile-the-box.json) |
 | Pile Up! | 220152 | [220152-pile-up.json](./220152-pile-up.json) |
 | Pile Up! Bakery | 66657 | [66657-pile-up-bakery.json](./66657-pile-up-bakery.json) |
+| Pile Up! Box by Box | 121807 | [121807-pile-up-box-by-box.json](./121807-pile-up-box-by-box.json) |
 | Pile Wonder | 58617 | [58617-pile-wonder.json](./58617-pile-wonder.json) |
 | Pileus Bad Trip | 391784 | [391784-pileus-bad-trip.json](./391784-pileus-bad-trip.json) |
 | Pilfer | 129434 | [129434-pilfer.json](./129434-pilfer.json) |
@@ -9288,6 +9289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza for Creeps | 371552 | [371552-pizza-for-creeps.json](./371552-pizza-for-creeps.json) |
 | Pizza Frenzy | 66800 | [66800-pizza-frenzy.json](./66800-pizza-frenzy.json) |
 | Pizza Fun | 218551 | [218551-pizza-fun.json](./218551-pizza-fun.json) |
+| Pizza Game | 122019 | [122019-pizza-game.json](./122019-pizza-game.json) |
 | Pizza Hero | 262899 | [262899-pizza-hero.json](./262899-pizza-hero.json) |
 | Pizza House Simulator | 406274 | [406274-pizza-house-simulator.json](./406274-pizza-house-simulator.json) |
 | Pizza Hub | 311253 | [311253-pizza-hub.json](./311253-pizza-hub.json) |
@@ -13505,6 +13507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Royale 3: Harbour Master | 53467 | [53467-port-royale-3-harbour-master.json](./53467-port-royale-3-harbour-master.json) |
 | Port Royale 3: New Adventures | 25423 | [25423-port-royale-3-new-adventures.json](./25423-port-royale-3-new-adventures.json) |
 | Port Royale 3: Pirates & Merchants | 7134 | [7134-port-royale-3-pirates-and-merchants.json](./7134-port-royale-3-pirates-and-merchants.json) |
+| Port Royale 4 | 121764 | [121764-port-royale-4.json](./121764-port-royale-4.json) |
 | Port Royale 4: Buccaneers | 154504 | [154504-port-royale-4-buccaneers.json](./154504-port-royale-4-buccaneers.json) |
 | Port Royale 4: Extended Edition | 154505 | [154505-port-royale-4-extended-edition.json](./154505-port-royale-4-extended-edition.json) |
 | Port Royale: Gold, Power and Pirates | 834 | [834-port-royale-gold-power-and-pirates.json](./834-port-royale-gold-power-and-pirates.json) |
@@ -17573,6 +17576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psikyo Shooting Collection Vol. 2: Sengoku Ace + Sengoku Blade | 61496 | [61496-psikyo-shooting-collection-vol-2-sengoku-ace-sengoku-blade.json](./61496-psikyo-shooting-collection-vol-2-sengoku-ace-sengoku-blade.json) |
 | Psikyo Shooting Collection Vol. 3: Sol Divide & Dragon Blaze | 70314 | [70314-psikyo-shooting-collection-vol-3-sol-divide-and-dragon-blaze.json](./70314-psikyo-shooting-collection-vol-3-sol-divide-and-dragon-blaze.json) |
 | Psikyo Shooting Library Vol. 1 | 136837 | [136837-psikyo-shooting-library-vol-1.json](./136837-psikyo-shooting-library-vol-1.json) |
+| Psikyo Shooting Stars Alpha | 121651 | [121651-psikyo-shooting-stars-alpha.json](./121651-psikyo-shooting-stars-alpha.json) |
 | Psikyo Shooting Stars Alpha: Limited Edition | 136264 | [136264-psikyo-shooting-stars-alpha-limited-edition.json](./136264-psikyo-shooting-stars-alpha-limited-edition.json) |
 | Psikyo Shooting Stars Bravo | 121652 | [121652-psikyo-shooting-stars-bravo.json](./121652-psikyo-shooting-stars-bravo.json) |
 | Psikyo Shooting Stars Bravo: Limited Edition | 136265 | [136265-psikyo-shooting-stars-bravo-limited-edition.json](./136265-psikyo-shooting-stars-bravo-limited-edition.json) |
