@@ -3267,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevermore: Documentary Kinetic Novel | 206511 | [206511-nevermore-documentary-kinetic-novel.json](./206511-nevermore-documentary-kinetic-novel.json) |
 | Nevermore: The Chamber Door | 149161 | [149161-nevermore-the-chamber-door.json](./149161-nevermore-the-chamber-door.json) |
 | Neverness to Everness: For Whom the Verses Mourn | 421171 | [421171-neverness-to-everness-for-whom-the-verses-mourn.json](./421171-neverness-to-everness-for-whom-the-verses-mourn.json) |
+| Neverness to Everness: Rising from the Moonlit Fog | 412691 | [412691-neverness-to-everness-rising-from-the-moonlit-fog.json](./412691-neverness-to-everness-rising-from-the-moonlit-fog.json) |
 | NeveRossa: Mille e una notte | 316644 | [316644-neverossa-mille-e-una-notte.json](./316644-neverossa-mille-e-una-notte.json) |
 | Neverout | 29791 | [29791-neverout.json](./29791-neverout.json) |
 | Neverputt | 51246 | [51246-neverputt.json](./51246-neverputt.json) |
@@ -4934,6 +4935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmares of the death | 212969 | [212969-nightmares-of-the-death.json](./212969-nightmares-of-the-death.json) |
 | Nightmares: The Adventures – Broken Bone’s Complaint | 360037 | [360037-nightmares-the-adventures-broken-bone-s-complaint.json](./360037-nightmares-the-adventures-broken-bone-s-complaint.json) |
 | Nightmares: The Adventures Episode 3 - The Baron of Vermin Famine | 413797 | [413797-nightmares-the-adventures-episode-3-the-baron-of-vermin-famine.json](./413797-nightmares-the-adventures-episode-3-the-baron-of-vermin-famine.json) |
+| Nightmares: The Adventures Episode 4 - The Stolen Souvenirs of Rob.R | 413870 | [413870-nightmares-the-adventures-episode-4-the-stolen-souvenirs-of-rob-r.json](./413870-nightmares-the-adventures-episode-4-the-stolen-souvenirs-of-rob-r.json) |
 | Nightmarescape | 280471 | [280471-nightmarescape.json](./280471-nightmarescape.json) |
 | NightmareScape | 255879 | [255879-nightmarescape.json](./255879-nightmarescape.json) |
 | NightmareScape: Deluxe Edition | 257713 | [257713-nightmarescape-deluxe-edition.json](./257713-nightmarescape-deluxe-edition.json) |
@@ -8123,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
 | Nuts & Milk | 4617 | [4617-nuts-and-milk.json](./4617-nuts-and-milk.json) |
 | Nuts About Nuts | 320780 | [320780-nuts-about-nuts.json](./320780-nuts-about-nuts.json) |
+| Nuts and Bolts | 414012 | [414012-nuts-and-bolts.json](./414012-nuts-and-bolts.json) |
 | Nuts Physics | 175272 | [175272-nuts-physics.json](./175272-nuts-physics.json) |
 | Nuts Pipeline | 411994 | [411994-nuts-pipeline.json](./411994-nuts-pipeline.json) |
 | Nuts Protocol | 207192 | [207192-nuts-protocol.json](./207192-nuts-protocol.json) |
