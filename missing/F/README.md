@@ -3352,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate Commander: Fighting | 273095 | [273095-fate-commander-fighting.json](./273095-fate-commander-fighting.json) |
 | Fate Crawler | 72416 | [72416-fate-crawler.json](./72416-fate-crawler.json) |
 | Fate Dealer | 378160 | [378160-fate-dealer.json](./378160-fate-dealer.json) |
+| Fate Dungeon | 427838 | [427838-fate-dungeon.json](./427838-fate-dungeon.json) |
 | Fate Hunters | 107693 | [107693-fate-hunters.json](./107693-fate-hunters.json) |
 | Fate in the Darkness | 169385 | [169385-fate-in-the-darkness.json](./169385-fate-in-the-darkness.json) |
 | Fate Is Not A Line | 335255 | [335255-fate-is-not-a-line.json](./335255-fate-is-not-a-line.json) |
