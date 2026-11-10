@@ -6568,6 +6568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Basement Ritual | 320781 | [320781-the-basement-ritual.json](./320781-the-basement-ritual.json) |
 | The Basement's Calling | 338314 | [338314-the-basements-calling.json](./338314-the-basements-calling.json) |
 | The Basics of Sacred Geometry | 176646 | [176646-the-basics-of-sacred-geometry.json](./176646-the-basics-of-sacred-geometry.json) |
+| The Basilisk | 104883 | [104883-the-basilisk.json](./104883-the-basilisk.json) |
 | The Basket Manager | 11943 | [11943-the-basket-manager.json](./11943-the-basket-manager.json) |
 | The Basketball Quiz | 219173 | [219173-the-basketball-quiz.json](./219173-the-basketball-quiz.json) |
 | The Basment | 380119 | [380119-the-basment.json](./380119-the-basment.json) |
@@ -10738,6 +10739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
 | The Great Gatsby | 76889 | [76889-the-great-gatsby.json](./76889-the-great-gatsby.json) |
 | The Great Gatsby: Secret Treasure | 28589 | [28589-the-great-gatsby-secret-treasure.json](./28589-the-great-gatsby-secret-treasure.json) |
+| The Great Geometric Multiverse Tour | 105337 | [105337-the-great-geometric-multiverse-tour.json](./105337-the-great-geometric-multiverse-tour.json) |
 | The Great Ghoul Duel 2 | 223047 | [223047-the-great-ghoul-duel-2.json](./223047-the-great-ghoul-duel-2.json) |
 | The Great Giana Sisters | 3074 | [3074-the-great-giana-sisters.json](./3074-the-great-giana-sisters.json) |
 | The Great Gonzo in WordRider | 65040 | [65040-the-great-gonzo-in-wordrider.json](./65040-the-great-gonzo-in-wordrider.json) |
@@ -24328,6 +24330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny | 298261 | [298261-tiny.json](./298261-tiny.json) |
 | Tiny & Big: Up that Mountain | 184167 | [184167-tiny-and-big-up-that-mountain.json](./184167-tiny-and-big-up-that-mountain.json) |
 | tiny & Tall: Gleipnir | 112031 | [112031-tiny-and-tall-gleipnir.json](./112031-tiny-and-tall-gleipnir.json) |
+| tiny & Tall: Gleipnir Episode One | 105253 | [105253-tiny-and-tall-gleipnir-episode-one.json](./105253-tiny-and-tall-gleipnir-episode-one.json) |
 | Tiny 2048 | 267568 | [267568-tiny-2048.json](./267568-tiny-2048.json) |
 | Tiny Adventure | 304163 | [304163-tiny-adventure.json](./304163-tiny-adventure.json) |
 | Tiny and Big: Grandpa's Leftovers | 3079 | [3079-tiny-and-big-grandpas-leftovers.json](./3079-tiny-and-big-grandpas-leftovers.json) |
@@ -28782,6 +28785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
 | Track Attack! | 25322 | [25322-track-attack.json](./25322-track-attack.json) |
 | Track Craft | 318717 | [318717-track-craft.json](./318717-track-craft.json) |
+| Track Lab | 105880 | [105880-track-lab.json](./105880-track-lab.json) |
 | Track Lab VR | 111831 | [111831-track-lab-vr.json](./111831-track-lab-vr.json) |
 | Track Masters Pro | 338953 | [338953-track-masters-pro.json](./338953-track-masters-pro.json) |
 | Track Mayhem | 187104 | [187104-track-mayhem.json](./187104-track-mayhem.json) |
