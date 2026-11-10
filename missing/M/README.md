@@ -3756,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marching Order | 330151 | [330151-marching-order.json](./330151-marching-order.json) |
 | Marching Simulator | 96516 | [96516-marching-simulator.json](./96516-marching-simulator.json) |
 | Marchland | 183457 | [183457-marchland.json](./183457-marchland.json) |
+| MarchMallows | 420613 | [420613-marchmallows.json](./420613-marchmallows.json) |
 | MarchQuest | 110255 | [110255-marchquest.json](./110255-marchquest.json) |
 | Marcianito Go | 228470 | [228470-marcianito-go.json](./228470-marcianito-go.json) |
 | Marco Polo | 45916 | [45916-marco-polo.json](./45916-marco-polo.json) |
@@ -8830,6 +8831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meiji Tokyo Renka | 136445 | [136445-meiji-tokyo-renka.json](./136445-meiji-tokyo-renka.json) |
 | Meiji Tokyo Renka Full Moon | 136447 | [136447-meiji-tokyo-renka-full-moon.json](./136447-meiji-tokyo-renka-full-moon.json) |
 | Meiji Tokyo Renka Twilight Kiss | 136446 | [136446-meiji-tokyo-renka-twilight-kiss.json](./136446-meiji-tokyo-renka-twilight-kiss.json) |
+| Meiji Tokyo Renka Twilight Kiss | 420641 | [420641-meiji-tokyo-renka-twilight-kiss.json](./420641-meiji-tokyo-renka-twilight-kiss.json) |
 | Meiji Tokyo Renka: Haikara Date | 153732 | [153732-meiji-tokyo-renka-haikara-date.json](./153732-meiji-tokyo-renka-haikara-date.json) |
 | Meijin Tanigawa Kouji Tsuzumi Shogi | 385794 | [385794-meijin-tanigawa-kouji-tsuzumi-shogi.json](./385794-meijin-tanigawa-kouji-tsuzumi-shogi.json) |
 | Meikei no Lupercalia | 191957 | [191957-meikei-no-lupercalia.json](./191957-meikei-no-lupercalia.json) |
@@ -14263,6 +14265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrors | 69387 | [69387-mirrors.json](./69387-mirrors.json) |
 | Mirrors of Deception: The Poisoned Legacy | 365957 | [365957-mirrors-of-deception-the-poisoned-legacy.json](./365957-mirrors-of-deception-the-poisoned-legacy.json) |
 | Mirrors of Deception: The Silver Peaks Secret | 386201 | [386201-mirrors-of-deception-the-silver-peaks-secret.json](./386201-mirrors-of-deception-the-silver-peaks-secret.json) |
+| Mirrors of Deception: The Silver Peaks Secret - Collector's Edition | 420635 | [420635-mirrors-of-deception-the-silver-peaks-secret-collectors-edition.json](./420635-mirrors-of-deception-the-silver-peaks-secret-collectors-edition.json) |
 | Mirrors of Epiphany | 274352 | [274352-mirrors-of-epiphany.json](./274352-mirrors-of-epiphany.json) |
 | Mirrorscape | 270120 | [270120-mirrorscape.json](./270120-mirrorscape.json) |
 | Mirrorscape: Deluxe Starter Pack | 301849 | [301849-mirrorscape-deluxe-starter-pack.json](./301849-mirrorscape-deluxe-starter-pack.json) |
