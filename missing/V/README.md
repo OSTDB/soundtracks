@@ -225,6 +225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagrant Sword | 149376 | [149376-vagrant-sword.json](./149376-vagrant-sword.json) |
 | Vagrant.exe | 249638 | [249638-vagrant-exe.json](./249638-vagrant-exe.json) |
 | Vagrient | 276152 | [276152-vagrient.json](./276152-vagrient.json) |
+| Vagrus: The Riven Realms | 106332 | [106332-vagrus-the-riven-realms.json](./106332-vagrus-the-riven-realms.json) |
 | Vagrus: The Riven Realms - At the Heart of Ruin | 375174 | [375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json](./375174-vagrus-the-riven-realms-at-the-heart-of-ruin.json) |
 | Vagrus: The Riven Realms - Centurion Edition | 186892 | [186892-vagrus-the-riven-realms-centurion-edition.json](./186892-vagrus-the-riven-realms-centurion-edition.json) |
 | Vagrus: The Riven Realms - Old Acquaintances | 298116 | [298116-vagrus-the-riven-realms-old-acquaintances.json](./298116-vagrus-the-riven-realms-old-acquaintances.json) |
