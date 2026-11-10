@@ -2464,6 +2464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway 6: Galactic Escape | 140391 | [140391-faraway-6-galactic-escape.json](./140391-faraway-6-galactic-escape.json) |
 | Faraway Fairway | 151989 | [151989-faraway-fairway.json](./151989-faraway-fairway.json) |
 | Faraway Feathers | 388759 | [388759-faraway-feathers.json](./388759-faraway-feathers.json) |
+| Faraway Galaxy | 420614 | [420614-faraway-galaxy.json](./420614-faraway-galaxy.json) |
 | Faraway Islands | 29885 | [29885-faraway-islands.json](./29885-faraway-islands.json) |
 | Faraway Lands: Rise of Yokai | 139668 | [139668-faraway-lands-rise-of-yokai.json](./139668-faraway-lands-rise-of-yokai.json) |
 | Faraway Proximity | 215566 | [215566-faraway-proximity.json](./215566-faraway-proximity.json) |
@@ -3444,6 +3445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Grand Order: Ordeal Call I - Paper Moon | 414359 | [414359-fate-grand-order-ordeal-call-i-paper-moon.json](./414359-fate-grand-order-ordeal-call-i-paper-moon.json) |
 | Fate/Grand Order: Ordeal Call II - Id | 413505 | [413505-fate-grand-order-ordeal-call-ii-id.json](./413505-fate-grand-order-ordeal-call-ii-id.json) |
 | Fate/Grand Order: Ordeal Call III - Archetype Inception | 413506 | [413506-fate-grand-order-ordeal-call-iii-archetype-inception.json](./413506-fate-grand-order-ordeal-call-iii-archetype-inception.json) |
+| Fate/Grand Order: Ordeal Call IV - Trinity Metatronius | 420630 | [420630-fate-grand-order-ordeal-call-iv-trinity-metatronius.json](./420630-fate-grand-order-ordeal-call-iv-trinity-metatronius.json) |
 | Fate/Grand Order: Realm of the Thanatos Impulse, Traum - Life and Death of an Illusion | 416558 | [416558-fate-grand-order-realm-of-the-thanatos-impulse-traum-life-and-death-of-an-illusion.json](./416558-fate-grand-order-realm-of-the-thanatos-impulse-traum-life-and-death-of-an-illusion.json) |
 | Fate/Grand Order: Singularity III - Okeanos | 415658 | [415658-fate-grand-order-singularity-iii-okeanos.json](./415658-fate-grand-order-singularity-iii-okeanos.json) |
 | Fate/Grand Order: Singularity IV - London | 417337 | [417337-fate-grand-order-singularity-iv-london.json](./417337-fate-grand-order-singularity-iv-london.json) |
@@ -7253,6 +7255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five dreams | 189953 | [189953-five-dreams.json](./189953-five-dreams.json) |
 | Five Elements | 29861 | [29861-five-elements.json](./29861-five-elements.json) |
 | Five Elements Chess | 164179 | [164179-five-elements-chess.json](./164179-five-elements-chess.json) |
+| Five Elements Chess | 420637 | [420637-five-elements-chess.json](./420637-five-elements-chess.json) |
 | Five elements for 24! | 289252 | [289252-five-elements-for-24.json](./289252-five-elements-for-24.json) |
 | Five Elements: Ghosts Delivery | 296645 | [296645-five-elements-ghosts-delivery.json](./296645-five-elements-ghosts-delivery.json) |
 | Five Finger Discount | 297077 | [297077-five-finger-discount.json](./297077-five-finger-discount.json) |
@@ -10162,6 +10165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Fantasy | 285542 | [285542-forest-fantasy.json](./285542-forest-fantasy.json) |
 | Forest Farm | 167556 | [167556-forest-farm.json](./167556-forest-farm.json) |
 | Forest Fellers | 295832 | [295832-forest-fellers.json](./295832-forest-fellers.json) |
+| Forest Fighters | 420603 | [420603-forest-fighters.json](./420603-forest-fighters.json) |
 | Forest Fire | 230941 | [230941-forest-fire.json](./230941-forest-fire.json) |
 | Forest Frenzy | 258264 | [258264-forest-frenzy.json](./258264-forest-frenzy.json) |
 | Forest Friends Match | 340231 | [340231-forest-friends-match.json](./340231-forest-friends-match.json) |
