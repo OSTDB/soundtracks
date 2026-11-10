@@ -3941,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Encounters: Deadwood | 140254 | [140254-ghost-encounters-deadwood.json](./140254-ghost-encounters-deadwood.json) |
 | Ghost Encounters: Deadwood - Collector's Edition | 35691 | [35691-ghost-encounters-deadwood-collectors-edition.json](./35691-ghost-encounters-deadwood-collectors-edition.json) |
 | Ghost Exile | 186477 | [186477-ghost-exile.json](./186477-ghost-exile.json) |
+| Ghost Exorcist | 408452 | [408452-ghost-exorcist.json](./408452-ghost-exorcist.json) |
 | Ghost Fake | 246830 | [246830-ghost-fake.json](./246830-ghost-fake.json) |
 | Ghost Feed | 369608 | [369608-ghost-feed.json](./369608-ghost-feed.json) |
 | Ghost Files 2: Memory of a Crime | 125177 | [125177-ghost-files-2-memory-of-a-crime.json](./125177-ghost-files-2-memory-of-a-crime.json) |
@@ -7366,6 +7367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Knight | 69394 | [69394-good-knight.json](./69394-good-knight.json) |
 | Good Knight Story | 104386 | [104386-good-knight-story.json](./104386-good-knight-story.json) |
 | Good Knight's Sleep | 369021 | [369021-good-knights-sleep.json](./369021-good-knights-sleep.json) |
+| Good Kniight | 408475 | [408475-good-kniight.json](./408475-good-kniight.json) |
 | Good Lord! Everyone at the Reunion For My Religious All-Girls School Is a Trans Man... And They're Hot?! | 307341 | [307341-good-lord-everyone-at-the-reunion-for-my-religious-all-girls-school-is-a-trans-man-and-theyre-hot.json](./307341-good-lord-everyone-at-the-reunion-for-my-religious-all-girls-school-is-a-trans-man-and-theyre-hot.json) |
 | Good Luck Baby! | 240712 | [240712-good-luck-baby.json](./240712-good-luck-baby.json) |
 | Good Luck Citizen | 305777 | [305777-good-luck-citizen.json](./305777-good-luck-citizen.json) |
@@ -11621,6 +11623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunjin Gari | 59071 | [59071-gunjin-gari.json](./59071-gunjin-gari.json) |
 | Gunjitsu | 17099 | [17099-gunjitsu.json](./17099-gunjitsu.json) |
 | Gunjump Before Dinner | 155909 | [155909-gunjump-before-dinner.json](./155909-gunjump-before-dinner.json) |
+| Gunjutsu | 408374 | [408374-gunjutsu.json](./408374-gunjutsu.json) |
 | Gunk | 126921 | [126921-gunk.json](./126921-gunk.json) |
 | Gunk | 404388 | [404388-gunk.json](./404388-gunk.json) |
 | Gunkid 99 | 116197 | [116197-gunkid-99.json](./116197-gunkid-99.json) |
