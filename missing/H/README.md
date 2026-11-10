@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habla Kadabla | 310639 | [310639-habla-kadabla.json](./310639-habla-kadabla.json) |
 | Hablet | 344475 | [344475-hablet.json](./344475-hablet.json) |
 | Hablon Dawani | 293319 | [293319-hablon-dawani.json](./293319-hablon-dawani.json) |
+| Habroxia | 122654 | [122654-habroxia.json](./122654-habroxia.json) |
 | Habroxia 2 | 141326 | [141326-habroxia-2.json](./141326-habroxia-2.json) |
 | Habu Yoshiharu Shogi de Kitaeru: Ketsudanryoku DS | 124543 | [124543-habu-yoshiharu-shogi-de-kitaeru-ketsudanryoku-ds.json](./124543-habu-yoshiharu-shogi-de-kitaeru-ketsudanryoku-ds.json) |
 | Haccer | 223616 | [223616-haccer.json](./223616-haccer.json) |
@@ -2638,6 +2639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatman | 57239 | [57239-hatman.json](./57239-hatman.json) |
 | HatMania | 223388 | [223388-hatmania.json](./223388-hatmania.json) |
 | Hatoful Boyfriend | 8874 | [8874-hatoful-boyfriend.json](./8874-hatoful-boyfriend.json) |
+| Hatoful Boyfriend: Holiday Star | 14397 | [14397-hatoful-boyfriend-holiday-star.json](./14397-hatoful-boyfriend-holiday-star.json) |
 | Hatomo Battles the Yomi Demons | 281316 | [281316-hatomo-battles-the-yomi-demons.json](./281316-hatomo-battles-the-yomi-demons.json) |
 | Hatone | 260620 | [260620-hatone.json](./260620-hatone.json) |
 | Hatred | 7857 | [7857-hatred.json](./7857-hatred.json) |
@@ -6311,8 +6313,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Chronicles: Conquest of the Underworld | 7867 | [7867-heroes-chronicles-conquest-of-the-underworld.json](./7867-heroes-chronicles-conquest-of-the-underworld.json) |
 | Heroes Chronicles: Masters of the Elements | 8434 | [8434-heroes-chronicles-masters-of-the-elements.json](./8434-heroes-chronicles-masters-of-the-elements.json) |
 | Heroes Chronicles: Revolt of the Beastmasters | 8139 | [8139-heroes-chronicles-revolt-of-the-beastmasters.json](./8139-heroes-chronicles-revolt-of-the-beastmasters.json) |
+| Heroes Chronicles: The Fiery Moon | 13364 | [13364-heroes-chronicles-the-fiery-moon.json](./13364-heroes-chronicles-the-fiery-moon.json) |
 | Heroes Chronicles: The Final Chapters | 209872 | [209872-heroes-chronicles-the-final-chapters.json](./209872-heroes-chronicles-the-final-chapters.json) |
 | Heroes Chronicles: The Sword of Frost | 8140 | [8140-heroes-chronicles-the-sword-of-frost.json](./8140-heroes-chronicles-the-sword-of-frost.json) |
+| Heroes Chronicles: The World Tree | 13363 | [13363-heroes-chronicles-the-world-tree.json](./13363-heroes-chronicles-the-world-tree.json) |
 | Heroes Chronicles: Warlords of the Wasteland | 7845 | [7845-heroes-chronicles-warlords-of-the-wasteland.json](./7845-heroes-chronicles-warlords-of-the-wasteland.json) |
 | Heroes City Superman Edition | 354733 | [354733-heroes-city-superman-edition.json](./354733-heroes-city-superman-edition.json) |
 | Heroes Clash | 226778 | [226778-heroes-clash.json](./226778-heroes-clash.json) |
