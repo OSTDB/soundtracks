@@ -11596,6 +11596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rootin' Tootin' | 306913 | [306913-rootin-tootin.json](./306913-rootin-tootin.json) |
 | Rootin' Tootin' Lootin' & Shootin' | 246709 | [246709-rootin-tootin-lootin-and-shootin.json](./246709-rootin-tootin-lootin-and-shootin.json) |
 | RootKeeper | 258396 | [258396-rootkeeper.json](./258396-rootkeeper.json) |
+| Rootknot | 414748 | [414748-rootknot.json](./414748-rootknot.json) |
 | Rootlash | 189300 | [189300-rootlash.json](./189300-rootlash.json) |
 | Rootless | 183036 | [183036-rootless.json](./183036-rootless.json) |
 | Rootless | 377198 | [377198-rootless.json](./377198-rootless.json) |
