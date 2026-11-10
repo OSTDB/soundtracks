@@ -4932,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Van Racer | 67104 | [67104-white-van-racer.json](./67104-white-van-racer.json) |
 | White Viper | 47239 | [47239-white-viper.json](./47239-white-viper.json) |
 | White Wall | 149582 | [149582-white-wall.json](./149582-white-wall.json) |
+| White Ward | 407040 | [407040-white-ward.json](./407040-white-ward.json) |
 | White Water | 231557 | [231557-white-water.json](./231557-white-water.json) |
 | White Wings | 126705 | [126705-white-wings.json](./126705-white-wings.json) |
 | White Witch | 346108 | [346108-white-witch.json](./346108-white-witch.json) |
