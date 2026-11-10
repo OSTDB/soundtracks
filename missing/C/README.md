@@ -7356,6 +7356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessemble | 372052 | [372052-chessemble.json](./372052-chessemble.json) |
 | ChesseR | 78700 | [78700-chesser.json](./78700-chesser.json) |
 | Chessers | 150357 | [150357-chessers.json](./150357-chessers.json) |
+| Chessfall | 405204 | [405204-chessfall.json](./405204-chessfall.json) |
 | ChessFinity | 333331 | [333331-chessfinity.json](./333331-chessfinity.json) |
 | Chessformer | 163683 | [163683-chessformer.json](./163683-chessformer.json) |
 | ChessFourTwo | 213082 | [213082-chessfourtwo.json](./213082-chessfourtwo.json) |
@@ -9182,6 +9183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Yeager's Air Combat | 51396 | [51396-chuck-yeagers-air-combat.json](./51396-chuck-yeagers-air-combat.json) |
 | Chuck's Challenge | 130048 | [130048-chucks-challenge.json](./130048-chucks-challenge.json) |
 | Chuck's Challenge 3D 2020 | 139021 | [139021-chucks-challenge-3d-2020.json](./139021-chucks-challenge-3d-2020.json) |
+| Chuck's Extreme Crusher | 405217 | [405217-chucks-extreme-crusher.json](./405217-chucks-extreme-crusher.json) |
 | Chuckie Egg | 10235 | [10235-chuckie-egg.json](./10235-chuckie-egg.json) |
 | Chuckie Egg | 311365 | [311365-chuckie-egg.json](./311365-chuckie-egg.json) |
 | Chuckie Egg 2017 | 110122 | [110122-chuckie-egg-2017.json](./110122-chuckie-egg-2017.json) |
@@ -13040,6 +13042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Game 5.1 | 321850 | [321850-coloring-game-5-1.json](./321850-coloring-game-5-1.json) |
 | Coloring Game 5.2 | 329625 | [329625-coloring-game-5-2.json](./329625-coloring-game-5-2.json) |
 | Coloring Game 5.3 | 329626 | [329626-coloring-game-5-3.json](./329626-coloring-game-5-3.json) |
+| Coloring Game 5.4 | 405225 | [405225-coloring-game-5-4.json](./405225-coloring-game-5-4.json) |
 | Coloring Game 5.5 | 406186 | [406186-coloring-game-5-5.json](./406186-coloring-game-5-5.json) |
 | Coloring Game 5.6 | 406187 | [406187-coloring-game-5-6.json](./406187-coloring-game-5-6.json) |
 | Coloring Game: Expansion Pack No. 1 | 161254 | [161254-coloring-game-expansion-pack-no-1.json](./161254-coloring-game-expansion-pack-no-1.json) |
@@ -19573,6 +19576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crust Shump | 321042 | [321042-crust-shump.json](./321042-crust-shump.json) |
 | Crustacean Frustration | 395021 | [395021-crustacean-frustration.json](./395021-crustacean-frustration.json) |
 | Crustacean Nations | 211254 | [211254-crustacean-nations.json](./211254-crustacean-nations.json) |
+| Crustacean Station! | 405788 | [405788-crustacean-station.json](./405788-crustacean-station.json) |
 | Crusty Demons | 20537 | [20537-crusty-demons.json](./20537-crusty-demons.json) |
 | Crusty Proto | 324856 | [324856-crusty-proto.json](./324856-crusty-proto.json) |
 | CruSuku Wit You | 98068 | [98068-crusuku-wit-you.json](./98068-crusuku-wit-you.json) |
@@ -20279,6 +20283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Runner | 30128 | [30128-cube-runner.json](./30128-cube-runner.json) |
 | Cube Runner | 72964 | [72964-cube-runner.json](./72964-cube-runner.json) |
 | Cube Runner 2 | 150847 | [150847-cube-runner-2.json](./150847-cube-runner-2.json) |
+| Cube Runner 3D | 405224 | [405224-cube-runner-3d.json](./405224-cube-runner-3d.json) |
 | Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
 | Cube Samurai: Run Squared | 172852 | [172852-cube-samurai-run-squared.json](./172852-cube-samurai-run-squared.json) |
 | Cube Samurai: RUN! | 36290 | [36290-cube-samurai-run.json](./36290-cube-samurai-run.json) |
