@@ -6900,6 +6900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bird and the Bicycle | 298780 | [298780-the-bird-and-the-bicycle.json](./298780-the-bird-and-the-bicycle.json) |
 | The Bird Museum | 182545 | [182545-the-bird-museum.json](./182545-the-bird-museum.json) |
 | The Bird of a Thousand Voices | 330469 | [330469-the-bird-of-a-thousand-voices.json](./330469-the-bird-of-a-thousand-voices.json) |
+| The Bird of the North | 403905 | [403905-the-bird-of-the-north.json](./403905-the-bird-of-the-north.json) |
 | The Bird That Drinks Tears | 237447 | [237447-the-bird-that-drinks-tears.json](./237447-the-bird-that-drinks-tears.json) |
 | The Bird's Realm 3 | 201805 | [201805-the-birds-realm-3.json](./201805-the-birds-realm-3.json) |
 | The Birdcage | 105800 | [105800-the-birdcage.json](./105800-the-birdcage.json) |
@@ -10009,6 +10010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The First Berserker: Khazan - Deluxe Edition | 338028 | [338028-the-first-berserker-khazan-deluxe-edition.json](./338028-the-first-berserker-khazan-deluxe-edition.json) |
 | The First Berserker: Khazan - Deluxe Edition Upgrade | 338029 | [338029-the-first-berserker-khazan-deluxe-edition-upgrade.json](./338029-the-first-berserker-khazan-deluxe-edition-upgrade.json) |
 | The First Blitzkrieg | 59182 | [59182-the-first-blitzkrieg.json](./59182-the-first-blitzkrieg.json) |
+| The First Chip | 403871 | [403871-the-first-chip.json](./403871-the-first-chip.json) |
 | The First Confrontation | 149484 | [149484-the-first-confrontation.json](./149484-the-first-confrontation.json) |
 | The First Cub | 416691 | [416691-the-first-cub.json](./416691-the-first-cub.json) |
 | The First Day | 343611 | [343611-the-first-day.json](./343611-the-first-day.json) |
@@ -15458,6 +15460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pale Beyond: Deluxe Edition | 238308 | [238308-the-pale-beyond-deluxe-edition.json](./238308-the-pale-beyond-deluxe-edition.json) |
 | The Pale Deep | 349740 | [349740-the-pale-deep.json](./349740-the-pale-deep.json) |
 | The Pale Man | 232547 | [232547-the-pale-man.json](./232547-the-pale-man.json) |
+| The Pale Mimic | 403874 | [403874-the-pale-mimic.json](./403874-the-pale-mimic.json) |
 | The Pale Piper | 335503 | [335503-the-pale-piper.json](./335503-the-pale-piper.json) |
 | The Pale Sorcerer | 420960 | [420960-the-pale-sorcerer.json](./420960-the-pale-sorcerer.json) |
 | The Palms | 137850 | [137850-the-palms.json](./137850-the-palms.json) |
@@ -15694,6 +15697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pillars of the Damned | 271340 | [271340-the-pillars-of-the-damned.json](./271340-the-pillars-of-the-damned.json) |
 | The Pinball of the Dead | 6534 | [6534-the-pinball-of-the-dead.json](./6534-the-pinball-of-the-dead.json) |
 | The Pinecone | 140352 | [140352-the-pinecone.json](./140352-the-pinecone.json) |
+| The Pines | 403885 | [403885-the-pines.json](./403885-the-pines.json) |
 | The Pink Panther | 218447 | [218447-the-pink-panther.json](./218447-the-pink-panther.json) |
 | The Pink Panther: Hokus Pokus Pink | 8109 | [8109-the-pink-panther-hokus-pokus-pink.json](./8109-the-pink-panther-hokus-pokus-pink.json) |
 | The Pink Panther's Passport to Peril | 47088 | [47088-the-pink-panthers-passport-to-peril.json](./47088-the-pink-panthers-passport-to-peril.json) |
@@ -17097,6 +17101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sexy Brutale | 22783 | [22783-the-sexy-brutale.json](./22783-the-sexy-brutale.json) |
 | The Shack | 393785 | [393785-the-shack.json](./393785-the-shack.json) |
 | The Shackles Holder #735 | 406551 | [406551-the-shackles-holder-735.json](./406551-the-shackles-holder-735.json) |
+| The Shade | 403897 | [403897-the-shade.json](./403897-the-shade.json) |
 | The Shade Forest | 319028 | [319028-the-shade-forest.json](./319028-the-shade-forest.json) |
 | The Shadelight | 207612 | [207612-the-shadelight.json](./207612-the-shadelight.json) |
 | The Shadow | 198882 | [198882-the-shadow.json](./198882-the-shadow.json) |
