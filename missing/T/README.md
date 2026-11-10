@@ -4115,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten trials of Archer | 175200 | [175200-ten-trials-of-archer.json](./175200-ten-trials-of-archer.json) |
 | Ten Trials of Babel 2: Tower and Aurora | 372682 | [372682-ten-trials-of-babel-2-tower-and-aurora.json](./372682-ten-trials-of-babel-2-tower-and-aurora.json) |
 | Ten Trials of Babel: The Doppelganger Maze | 193562 | [193562-ten-trials-of-babel-the-doppelganger-maze.json](./193562-ten-trials-of-babel-the-doppelganger-maze.json) |
+| Ten Years of Rain | 407612 | [407612-ten-years-of-rain.json](./407612-ten-years-of-rain.json) |
 | Ten-chan Party! | 108264 | [108264-ten-chan-party.json](./108264-ten-chan-party.json) |
 | Ten: Ten Rooms, Ten Seconds | 189000 | [189000-ten-ten-rooms-ten-seconds.json](./189000-ten-ten-rooms-ten-seconds.json) |
 | Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
@@ -5498,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Flipping Mountain | 119987 | [119987-that-flipping-mountain.json](./119987-that-flipping-mountain.json) |
 | That Friday Again | 391720 | [391720-that-friday-again.json](./391720-that-friday-again.json) |
 | That Golf Game | 213358 | [213358-that-golf-game.json](./213358-that-golf-game.json) |
+| That Gravity Game | 407682 | [407682-that-gravity-game.json](./407682-that-gravity-game.json) |
 | That Gravity Glow | 290120 | [290120-that-gravity-glow.json](./290120-that-gravity-glow.json) |
 | That Gun Crafter Cat | 257934 | [257934-that-gun-crafter-cat.json](./257934-that-gun-crafter-cat.json) |
 | That Guy Pisses Me Off | 365353 | [365353-that-guy-pisses-me-off.json](./365353-that-guy-pisses-me-off.json) |
@@ -16108,6 +16110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest: Thor's Hammer | 36959 | [36959-the-quest-thors-hammer.json](./36959-the-quest-thors-hammer.json) |
 | The Questing | 204182 | [204182-the-questing.json](./204182-the-questing.json) |
 | The Question | 170529 | [170529-the-question.json](./170529-the-question.json) |
+| The Question Rooms | 407655 | [407655-the-question-rooms.json](./407655-the-question-rooms.json) |
 | The Question's Quest of Sin | 322370 | [322370-the-questions-quest-of-sin.json](./322370-the-questions-quest-of-sin.json) |
 | The Quiet Apocalypse | 181087 | [181087-the-quiet-apocalypse.json](./181087-the-quiet-apocalypse.json) |
 | The Quiet Collection | 59887 | [59887-the-quiet-collection.json](./59887-the-quiet-collection.json) |
@@ -16730,6 +16733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sand Man | 81095 | [81095-the-sand-man.json](./81095-the-sand-man.json) |
 | The Sandbox | 16872 | [16872-the-sandbox.json](./16872-the-sandbox.json) |
 | The Sandbox | 182468 | [182468-the-sandbox.json](./182468-the-sandbox.json) |
+| The Sandbox | 407681 | [407681-the-sandbox.json](./407681-the-sandbox.json) |
 | The Sandbox - Building & Craft | 90705 | [90705-the-sandbox-building-and-craft.json](./90705-the-sandbox-building-and-craft.json) |
 | The Sandbox Evolution | 25943 | [25943-the-sandbox-evolution.json](./25943-the-sandbox-evolution.json) |
 | The Sandbox of God: Remastered Edition | 57590 | [57590-the-sandbox-of-god-remastered-edition.json](./57590-the-sandbox-of-god-remastered-edition.json) |
@@ -21278,6 +21282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thoroughbred Tatsu no Eikan: The Victorious Thoroughbreds | 166541 | [166541-thoroughbred-tatsu-no-eikan-the-victorious-thoroughbreds.json](./166541-thoroughbred-tatsu-no-eikan-the-victorious-thoroughbreds.json) |
 | Thoroughbred Tycoon | 25529 | [25529-thoroughbred-tycoon.json](./25529-thoroughbred-tycoon.json) |
 | Thoru Yamamoto's Mole Hole | 272480 | [272480-thoru-yamamotos-mole-hole.json](./272480-thoru-yamamotos-mole-hole.json) |
+| Thorvald | 407628 | [407628-thorvald.json](./407628-thorvald.json) |
 | Those Chosen By God | 122574 | [122574-those-chosen-by-god.json](./122574-those-chosen-by-god.json) |
 | Those Damn Aliens VR | 29937 | [29937-those-damn-aliens-vr.json](./29937-those-damn-aliens-vr.json) |
 | Those Darn Brothers!!! | 238843 | [238843-those-darn-brothers.json](./238843-those-darn-brothers.json) |
@@ -33320,6 +33325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 2024: USA Driver Zone - Premium Edition | 313229 | [313229-truck-simulator-2024-usa-driver-zone-premium-edition.json](./313229-truck-simulator-2024-usa-driver-zone-premium-edition.json) |
 | Truck Simulator 2025 & Vehicle Simulator Bundle | 330412 | [330412-truck-simulator-2025-and-vehicle-simulator-bundle.json](./330412-truck-simulator-2025-and-vehicle-simulator-bundle.json) |
 | Truck Simulator 2025: City Work Delivery | 356516 | [356516-truck-simulator-2025-city-work-delivery.json](./356516-truck-simulator-2025-city-work-delivery.json) |
+| Truck Simulator 2026: USA | 407646 | [407646-truck-simulator-2026-usa.json](./407646-truck-simulator-2026-usa.json) |
 | Truck Simulator 25 VR: American Driver | 353964 | [353964-truck-simulator-25-vr-american-driver.json](./353964-truck-simulator-25-vr-american-driver.json) |
 | Truck Simulator 25: Euro Driver | 344245 | [344245-truck-simulator-25-euro-driver.json](./344245-truck-simulator-25-euro-driver.json) |
 | Truck Simulator 3 | 231069 | [231069-truck-simulator-3.json](./231069-truck-simulator-3.json) |
