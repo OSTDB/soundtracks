@@ -3882,6 +3882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junior Sudoku (Easy Fun Puzzles) | 90200 | [90200-junior-sudoku-easy-fun-puzzles.json](./90200-junior-sudoku-easy-fun-puzzles.json) |
 | Junior's Revenge | 78039 | [78039-juniors-revenge.json](./78039-juniors-revenge.json) |
 | Juniper Burning | 280121 | [280121-juniper-burning.json](./280121-juniper-burning.json) |
+| Juniper Fishing | 404497 | [404497-juniper-fishing.json](./404497-juniper-fishing.json) |
 | Juniper: A Scrapbooking Adventure | 386722 | [386722-juniper-a-scrapbooking-adventure.json](./386722-juniper-a-scrapbooking-adventure.json) |
 | Juniper's Knot | 55796 | [55796-junipers-knot.json](./55796-junipers-knot.json) |
 | Junjou de Karen: Meymay Kishi-dan - Spectral Force Seishoujo Gaiden | 61255 | [61255-junjou-de-karen-meymay-kishi-dan-spectral-force-seishoujo-gaiden.json](./61255-junjou-de-karen-meymay-kishi-dan-spectral-force-seishoujo-gaiden.json) |
