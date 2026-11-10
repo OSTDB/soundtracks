@@ -3946,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scroll of Onmyoji | 303186 | [303186-scroll-of-onmyoji.json](./303186-scroll-of-onmyoji.json) |
 | Scroll of Wuru and No.95 Zizun | 112632 | [112632-scroll-of-wuru-and-no-95-zizun.json](./112632-scroll-of-wuru-and-no-95-zizun.json) |
 | Scroll Scramble | 240680 | [240680-scroll-scramble.json](./240680-scroll-scramble.json) |
+| Scroll Shop | 418707 | [418707-scroll-shop.json](./418707-scroll-shop.json) |
 | Scroll Survival | 276611 | [276611-scroll-survival.json](./276611-scroll-survival.json) |
 | Scroll the Pain Away | 274340 | [274340-scroll-the-pain-away.json](./274340-scroll-the-pain-away.json) |
 | Scrollden | 298456 | [298456-scrollden.json](./298456-scrollden.json) |
@@ -5194,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
 | SeeZee's Mitey Muscles | 95726 | [95726-seezees-mitey-muscles.json](./95726-seezees-mitey-muscles.json) |
 | Sef Saga | 351517 | [351517-sef-saga.json](./351517-sef-saga.json) |
+| Seferia Matrix | 418654 | [418654-seferia-matrix.json](./418654-seferia-matrix.json) |
 | Sefir: Mafia Story | 158559 | [158559-sefir-mafia-story.json](./158559-sefir-mafia-story.json) |
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
 | Sefure Shindroomu | 91567 | [91567-sefure-shindroomu.json](./91567-sefure-shindroomu.json) |
@@ -28961,6 +28963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strain Tactics | 28701 | [28701-strain-tactics.json](./28701-strain-tactics.json) |
 | Strainge | 151703 | [151703-strainge.json](./151703-strainge.json) |
 | StrainZ-1: Elimination | 74246 | [74246-strainz-1-elimination.json](./74246-strainz-1-elimination.json) |
+| Strait of Hormuz Mini Arcade | 418678 | [418678-strait-of-hormuz-mini-arcade.json](./418678-strait-of-hormuz-mini-arcade.json) |
 | Strand | 320715 | [320715-strand.json](./320715-strand.json) |
 | Strand Boy | 228478 | [228478-strand-boy.json](./228478-strand-boy.json) |
 | Stranded | 170908 | [170908-stranded.json](./170908-stranded.json) |
