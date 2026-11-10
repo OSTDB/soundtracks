@@ -4898,6 +4898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrordrome: Rise of the Boogeymen | 47036 | [47036-terrordrome-rise-of-the-boogeymen.json](./47036-terrordrome-rise-of-the-boogeymen.json) |
 | Terrorfest | 313882 | [313882-terrorfest.json](./313882-terrorfest.json) |
 | Terrorhedron | 17378 | [17378-terrorhedron.json](./17378-terrorhedron.json) |
+| Terrorhythm | 76315 | [76315-terrorhythm.json](./76315-terrorhythm.json) |
 | Terrorist Apartment | 107844 | [107844-terrorist-apartment.json](./107844-terrorist-apartment.json) |
 | Terrorist Elimination | 74949 | [74949-terrorist-elimination.json](./74949-terrorist-elimination.json) |
 | Terrorist Killer | 143755 | [143755-terrorist-killer.json](./143755-terrorist-killer.json) |
@@ -5568,6 +5569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The $100,000 Pyramid | 70716 | [70716-the-100-000-pyramid.json](./70716-the-100-000-pyramid.json) |
 | The 10th Planet | 200421 | [200421-the-10th-planet.json](./200421-the-10th-planet.json) |
 | The 10x10 Project | 257285 | [257285-the-10x10-project.json](./257285-the-10x10-project.json) |
+| The 111th Soul | 76274 | [76274-the-111th-soul.json](./76274-the-111th-soul.json) |
 | The 11th Annual Vanilla Level Design Contest: Collaboration Hack | 191942 | [191942-the-11th-annual-vanilla-level-design-contest-collaboration-hack.json](./191942-the-11th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 11th Hour | 2203 | [2203-the-11th-hour.json](./2203-the-11th-hour.json) |
 | The 11th Power | 405364 | [405364-the-11th-power.json](./405364-the-11th-power.json) |
@@ -13549,6 +13551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Line | 149233 | [149233-the-line.json](./149233-the-line.json) |
 | The Line | 150935 | [150935-the-line.json](./150935-the-line.json) |
 | The Line | 315715 | [315715-the-line.json](./315715-the-line.json) |
+| The Line | 76280 | [76280-the-line.json](./76280-the-line.json) |
 | The Line | 79742 | [79742-the-line.json](./79742-the-line.json) |
 | The Line of Defense | 370184 | [370184-the-line-of-defense.json](./370184-the-line-of-defense.json) |
 | The Line TD | 275335 | [275335-the-line-td.json](./275335-the-line-td.json) |
@@ -14772,6 +14775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Naked Game | 76342 | [76342-the-naked-game.json](./76342-the-naked-game.json) |
 | The Naked Gun: I.C.U.P. | 65083 | [65083-the-naked-gun-i-c-u-p.json](./65083-the-naked-gun-i-c-u-p.json) |
 | The Naki Files | 332937 | [332937-the-naki-files.json](./332937-the-naki-files.json) |
 | The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
@@ -24899,6 +24903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanic Shipwreck Exploration | 111180 | [111180-titanic-shipwreck-exploration.json](./111180-titanic-shipwreck-exploration.json) |
 | Titanic Survival Simulator | 404369 | [404369-titanic-survival-simulator.json](./404369-titanic-survival-simulator.json) |
 | Titanic Terror | 258961 | [258961-titanic-terror.json](./258961-titanic-terror.json) |
+| Titanic VR | 76354 | [76354-titanic-vr.json](./76354-titanic-vr.json) |
 | Titanic: A Mysterious Undersea Adventure | 70783 | [70783-titanic-a-mysterious-undersea-adventure.json](./70783-titanic-a-mysterious-undersea-adventure.json) |
 | Titanic: A Space Between | 287613 | [287613-titanic-a-space-between.json](./287613-titanic-a-space-between.json) |
 | Titanic: Adventure out of Time | 7516 | [7516-titanic-adventure-out-of-time.json](./7516-titanic-adventure-out-of-time.json) |
@@ -33395,6 +33400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truth Trail: Exorcism of Deception | 338605 | [338605-truth-trail-exorcism-of-deception.json](./338605-truth-trail-exorcism-of-deception.json) |
 | Truth Universally Acknowledged | 296370 | [296370-truth-universally-acknowledged.json](./296370-truth-universally-acknowledged.json) |
 | Truth Universally Acknowledged: Seasilk Heart | 394287 | [394287-truth-universally-acknowledged-seasilk-heart.json](./394287-truth-universally-acknowledged-seasilk-heart.json) |
+| Truth: Disorder | 76307 | [76307-truth-disorder.json](./76307-truth-disorder.json) |
 | Truth: Disorder II | 98985 | [98985-truth-disorder-ii.json](./98985-truth-disorder-ii.json) |
 | Truth: Disorder III - Gemini | 116786 | [116786-truth-disorder-iii-gemini.json](./116786-truth-disorder-iii-gemini.json) |
 | Truths Untold | 181290 | [181290-truths-untold.json](./181290-truths-untold.json) |
