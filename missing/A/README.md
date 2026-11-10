@@ -2738,6 +2738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 8: Wings of Theve Deluxe Edition | 404097 | [404097-ace-combat-8-wings-of-theve-deluxe-edition.json](./404097-ace-combat-8-wings-of-theve-deluxe-edition.json) |
 | Ace Combat Infinity | 6628 | [6628-ace-combat-infinity.json](./6628-ace-combat-infinity.json) |
 | Ace Combat X: Recompiled | 413916 | [413916-ace-combat-x-recompiled.json](./413916-ace-combat-x-recompiled.json) |
+| Ace Combat X: Skies of Deception | 14755 | [14755-ace-combat-x-skies-of-deception.json](./14755-ace-combat-x-skies-of-deception.json) |
 | Ace Combat Xi: Skies of Incursion | 14756 | [14756-ace-combat-xi-skies-of-incursion.json](./14756-ace-combat-xi-skies-of-incursion.json) |
 | Ace Combat: Assault Horizon - Enhanced Edition | 20850 | [20850-ace-combat-assault-horizon-enhanced-edition.json](./20850-ace-combat-assault-horizon-enhanced-edition.json) |
 | Ace Combat: Joint Assault | 14757 | [14757-ace-combat-joint-assault.json](./14757-ace-combat-joint-assault.json) |
@@ -3998,6 +3999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of Mister Big T 2: Dimensional Problems | 372222 | [372222-adventures-of-mister-big-t-2-dimensional-problems.json](./372222-adventures-of-mister-big-t-2-dimensional-problems.json) |
 | Adventures of Norman the Cat | 409368 | [409368-adventures-of-norman-the-cat.json](./409368-adventures-of-norman-the-cat.json) |
 | Adventures of Pinocchio | 69034 | [69034-adventures-of-pinocchio.json](./69034-adventures-of-pinocchio.json) |
+| Adventures of Pip | 14681 | [14681-adventures-of-pip.json](./14681-adventures-of-pip.json) |
 | Adventures of Pipi | 75208 | [75208-adventures-of-pipi.json](./75208-adventures-of-pipi.json) |
 | Adventures of Pipi 2: Save Hype | 101639 | [101639-adventures-of-pipi-2-save-hype.json](./101639-adventures-of-pipi-2-save-hype.json) |
 | Adventures of Quin85 | 209629 | [209629-adventures-of-quin85.json](./209629-adventures-of-quin85.json) |
@@ -7385,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Zombie Death | 15189 | [15189-alien-zombie-death.json](./15189-alien-zombie-death.json) |
 | Alien: Blackout | 112657 | [112657-alien-blackout.json](./112657-alien-blackout.json) |
 | Alien: Isolation - Corporate Lockdown | 15459 | [15459-alien-isolation-corporate-lockdown.json](./15459-alien-isolation-corporate-lockdown.json) |
+| Alien: Isolation - Crew Expendable | 15460 | [15460-alien-isolation-crew-expendable.json](./15460-alien-isolation-crew-expendable.json) |
 | Alien: Isolation - Last Survivor | 15464 | [15464-alien-isolation-last-survivor.json](./15464-alien-isolation-last-survivor.json) |
 | Alien: Isolation - Lost Contact | 15555 | [15555-alien-isolation-lost-contact.json](./15555-alien-isolation-lost-contact.json) |
 | Alien: Isolation - Ripley Edition | 46714 | [46714-alien-isolation-ripley-edition.json](./46714-alien-isolation-ripley-edition.json) |
@@ -12831,6 +12834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Surfer | 95155 | [95155-arc-surfer.json](./95155-arc-surfer.json) |
 | Arc Symphony | 74332 | [74332-arc-symphony.json](./74332-arc-symphony.json) |
 | Arc TCG | 290934 | [290934-arc-tcg.json](./290934-arc-tcg.json) |
+| Arc the Lad | 15020 | [15020-arc-the-lad.json](./15020-arc-the-lad.json) |
 | Arc the Lad Collection | 23100 | [23100-arc-the-lad-collection.json](./23100-arc-the-lad-collection.json) |
 | Arc the Lad II | 26345 | [26345-arc-the-lad-ii.json](./26345-arc-the-lad-ii.json) |
 | Arc the Lad R | 26382 | [26382-arc-the-lad-r.json](./26382-arc-the-lad-r.json) |
@@ -15716,6 +15720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of the Damned: The Forgotten Ward | 375466 | [375466-ashes-of-the-damned-the-forgotten-ward.json](./375466-ashes-of-the-damned-the-forgotten-ward.json) |
 | Ashes of the Night | 121079 | [121079-ashes-of-the-night.json](./121079-ashes-of-the-night.json) |
 | Ashes of the Past | 271090 | [271090-ashes-of-the-past.json](./271090-ashes-of-the-past.json) |
+| Ashes of the Singularity | 11666 | [11666-ashes-of-the-singularity.json](./11666-ashes-of-the-singularity.json) |
 | Ashes of the Singularity II | 359885 | [359885-ashes-of-the-singularity-ii.json](./359885-ashes-of-the-singularity-ii.json) |
 | Ashes of the Singularity: Escalation - Co-Op Map Pack | 224354 | [224354-ashes-of-the-singularity-escalation-co-op-map-pack.json](./224354-ashes-of-the-singularity-escalation-co-op-map-pack.json) |
 | Ashes of the Singularity: Escalation - Core Worlds | 186880 | [186880-ashes-of-the-singularity-escalation-core-worlds.json](./186880-ashes-of-the-singularity-escalation-core-worlds.json) |
@@ -17464,6 +17469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
