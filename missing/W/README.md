@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Heli | 319996 | [319996-war-heli.json](./319996-war-heli.json) |
 | War Heroes | 77508 | [77508-war-heroes.json](./77508-war-heroes.json) |
 | War Heroes: Invasion | 74989 | [74989-war-heroes-invasion.json](./74989-war-heroes-invasion.json) |
+| War Hospital | 145074 | [145074-war-hospital.json](./145074-war-hospital.json) |
 | War Hospital: Supporter Edition | 284858 | [284858-war-hospital-supporter-edition.json](./284858-war-hospital-supporter-edition.json) |
 | War Hunter | 96903 | [96903-war-hunter.json](./96903-war-hunter.json) |
 | War Identity | 139454 | [139454-war-identity.json](./139454-war-identity.json) |
@@ -1012,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Fourteen Dynasties | 248959 | [248959-war-of-the-fourteen-dynasties.json](./248959-war-of-the-fourteen-dynasties.json) |
 | War of the Gods | 107087 | [107087-war-of-the-gods.json](./107087-war-of-the-gods.json) |
 | War of the Gods | 404365 | [404365-war-of-the-gods.json](./404365-war-of-the-gods.json) |
+| War of the Human Tanks | 9390 | [9390-war-of-the-human-tanks.json](./9390-war-of-the-human-tanks.json) |
 | War of the Human Tanks - Complete Collection | 53884 | [53884-war-of-the-human-tanks-complete-collection.json](./53884-war-of-the-human-tanks-complete-collection.json) |
 | War of the Human Tanks: Alter | 11692 | [11692-war-of-the-human-tanks-alter.json](./11692-war-of-the-human-tanks-alter.json) |
 | War of the Human Tanks: Alter - Royal Edition | 53147 | [53147-war-of-the-human-tanks-alter-royal-edition.json](./53147-war-of-the-human-tanks-alter-royal-edition.json) |
@@ -2060,6 +2062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior's Dilemma | 360636 | [360636-warriors-dilemma.json](./360636-warriors-dilemma.json) |
 | Warrior's Lair | 92546 | [92546-warriors-lair.json](./92546-warriors-lair.json) |
 | Warrior's Reward | 370710 | [370710-warriors-reward.json](./370710-warriors-reward.json) |
+| WarriOrb | 86609 | [86609-warriorb.json](./86609-warriorb.json) |
 | Warriorlock | 180093 | [180093-warriorlock.json](./180093-warriorlock.json) |
 | Warriors | 377151 | [377151-warriors.json](./377151-warriors.json) |
 | Warriors & Castles | 35200 | [35200-warriors-and-castles.json](./35200-warriors-and-castles.json) |
@@ -3368,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weird Meese | 280092 | [280092-weird-meese.json](./280092-weird-meese.json) |
 | Weird mister Bogot | 288471 | [288471-weird-mister-bogot.json](./288471-weird-mister-bogot.json) |
 | Weird O's: Chaos Royale | 314527 | [314527-weird-os-chaos-royale.json](./314527-weird-os-chaos-royale.json) |
+| Weird Park Trilogy | 35197 | [35197-weird-park-trilogy.json](./35197-weird-park-trilogy.json) |
 | Weird Park: Broken Tune | 53130 | [53130-weird-park-broken-tune.json](./53130-weird-park-broken-tune.json) |
 | Weird Park: Broken Tune - Collector's Edition | 53129 | [53129-weird-park-broken-tune-collectors-edition.json](./53129-weird-park-broken-tune-collectors-edition.json) |
 | Weird Park: Scary Tales | 53128 | [53128-weird-park-scary-tales.json](./53128-weird-park-scary-tales.json) |
@@ -5209,6 +5213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked! | 297463 | [297463-wicked.json](./297463-wicked.json) |
 | Wicket Cricket Manager | 243977 | [243977-wicket-cricket-manager.json](./243977-wicket-cricket-manager.json) |
 | Wickie und die starken Männer: Die Mutprobe | 250603 | [250603-wickie-und-die-starken-manner-die-mutprobe.json](./250603-wickie-und-die-starken-manner-die-mutprobe.json) |
+| Wickland | 9367 | [9367-wickland.json](./9367-wickland.json) |
 | Wide Awake! | 308443 | [308443-wide-awake.json](./308443-wide-awake.json) |
 | Wide Cross | 109497 | [109497-wide-cross.json](./109497-wide-cross.json) |
 | Wide Island | 179463 | [179463-wide-island.json](./179463-wide-island.json) |
