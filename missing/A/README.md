@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Promise Best Left Unkept: Aya Edition | 385835 | [385835-a-promise-best-left-unkept-aya-edition.json](./385835-a-promise-best-left-unkept-aya-edition.json) |
 | A Proper Cup of Tea | 294537 | [294537-a-proper-cup-of-tea.json](./294537-a-proper-cup-of-tea.json) |
 | A Purrtato Tail: By the Light of the Elderstar | 89482 | [89482-a-purrtato-tail-by-the-light-of-the-elderstar.json](./89482-a-purrtato-tail-by-the-light-of-the-elderstar.json) |
+| A Puzzle Game where you Fold Dice | 403912 | [403912-a-puzzle-game-where-you-fold-dice.json](./403912-a-puzzle-game-where-you-fold-dice.json) |
 | A Puzzling Combination | 177145 | [177145-a-puzzling-combination.json](./177145-a-puzzling-combination.json) |
 | A Q Serial Gun | 298514 | [298514-a-q-serial-gun.json](./298514-a-q-serial-gun.json) |
 | A Quest That Became Legend | 217294 | [217294-a-quest-that-became-legend.json](./217294-a-quest-that-became-legend.json) |
@@ -2816,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Racers SP | 277126 | [277126-ace-racers-sp.json](./277126-ace-racers-sp.json) |
 | Ace Racing Turbo | 200057 | [200057-ace-racing-turbo.json](./200057-ace-racing-turbo.json) |
 | Ace Robot Combat | 270324 | [270324-ace-robot-combat.json](./270324-ace-robot-combat.json) |
+| Ace Sponge: The Great SquarePants Chronicles | 403876 | [403876-ace-sponge-the-great-squarepants-chronicles.json](./403876-ace-sponge-the-great-squarepants-chronicles.json) |
 | Ace Squadron: WWII Conflicts | 223931 | [223931-ace-squadron-wwii-conflicts.json](./223931-ace-squadron-wwii-conflicts.json) |
 | Ace Squared | 337793 | [337793-ace-squared.json](./337793-ace-squared.json) |
 | Ace Strategy Mecha Nova | 335857 | [335857-ace-strategy-mecha-nova.json](./335857-ace-strategy-mecha-nova.json) |
@@ -8042,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almania | 377971 | [377971-almania.json](./377971-almania.json) |
 | Almari | 167076 | [167076-almari.json](./167076-almari.json) |
 | Almastriga: Relics of Azathoth | 156618 | [156618-almastriga-relics-of-azathoth.json](./156618-almastriga-relics-of-azathoth.json) |
+| Almazuela Picross | 403877 | [403877-almazuela-picross.json](./403877-almazuela-picross.json) |
 | Almazy | 170077 | [170077-almazy.json](./170077-almazy.json) |
 | Almazz | 13799 | [13799-almazz.json](./13799-almazz.json) |
 | Almighty: God Idle Clicker | 132013 | [132013-almighty-god-idle-clicker.json](./132013-almighty-god-idle-clicker.json) |
@@ -16099,6 +16102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphalt Legends | 23314 | [23314-asphalt-legends.json](./23314-asphalt-legends.json) |
 | Asphalt Legends Unite: Supercharged Edition | 363017 | [363017-asphalt-legends-unite-supercharged-edition.json](./363017-asphalt-legends-unite-supercharged-edition.json) |
 | Asphalt Legends Unite: Triple Decal Pack | 402354 | [402354-asphalt-legends-unite-triple-decal-pack.json](./402354-asphalt-legends-unite-triple-decal-pack.json) |
+| Asphalt Legends: PlayStation Plus Exclusive Spring Pack | 403870 | [403870-asphalt-legends-playstation-plus-exclusive-spring-pack.json](./403870-asphalt-legends-playstation-plus-exclusive-spring-pack.json) |
 | Asphalt Paver | 401106 | [401106-asphalt-paver.json](./401106-asphalt-paver.json) |
 | Asphalt Racing Bundle Hypercar & Speedway | 391257 | [391257-asphalt-racing-bundle-hypercar-and-speedway.json](./391257-asphalt-racing-bundle-hypercar-and-speedway.json) |
 | Asphalt Racing Bundle Speedway & Grand Prix | 389080 | [389080-asphalt-racing-bundle-speedway-and-grand-prix.json](./389080-asphalt-racing-bundle-speedway-and-grand-prix.json) |
