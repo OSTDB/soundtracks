@@ -5531,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dark Block | 334247 | [334247-deep-dark-block.json](./334247-deep-dark-block.json) |
 | Deep Dark Dungeon | 32229 | [32229-deep-dark-dungeon.json](./32229-deep-dark-dungeon.json) |
 | Deep Dark Dungeon of Anglaus | 243583 | [243583-deep-dark-dungeon-of-anglaus.json](./243583-deep-dark-dungeon-of-anglaus.json) |
+| Deep Dark Fantasies | 59136 | [59136-deep-dark-fantasies.json](./59136-deep-dark-fantasies.json) |
 | Deep Dark Fight | 81702 | [81702-deep-dark-fight.json](./81702-deep-dark-fight.json) |
 | Deep Dark Forest | 151724 | [151724-deep-dark-forest.json](./151724-deep-dark-forest.json) |
 | Deep Dark Labyrinth | 101264 | [101264-deep-dark-labyrinth.json](./101264-deep-dark-labyrinth.json) |
@@ -18522,6 +18523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude in the Dark | 392863 | [392863-dude-in-the-dark.json](./392863-dude-in-the-dark.json) |
 | Dude My House Is Haunted | 362354 | [362354-dude-my-house-is-haunted.json](./362354-dude-my-house-is-haunted.json) |
 | Dude Perfect | 57776 | [57776-dude-perfect.json](./57776-dude-perfect.json) |
+| Dude Perfect 2 | 57777 | [57777-dude-perfect-2.json](./57777-dude-perfect-2.json) |
 | Dude Perfect HD | 86892 | [86892-dude-perfect-hd.json](./86892-dude-perfect-hd.json) |
 | Dude Perfect: Trickshot Challenge | 421397 | [421397-dude-perfect-trickshot-challenge.json](./421397-dude-perfect-trickshot-challenge.json) |
 | Dude Quest | 240139 | [240139-dude-quest.json](./240139-dude-quest.json) |
@@ -20098,6 +20100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf's Adventure | 219405 | [219405-dwarfs-adventure.json](./219405-dwarfs-adventure.json) |
 | Dwarf's Trainfort | 217475 | [217475-dwarfs-trainfort.json](./217475-dwarfs-trainfort.json) |
 | Dwarfare: All For The Forge | 369720 | [369720-dwarfare-all-for-the-forge.json](./369720-dwarfare-all-for-the-forge.json) |
+| DwarfCorp | 59133 | [59133-dwarfcorp.json](./59133-dwarfcorp.json) |
 | Dwarfender | 250894 | [250894-dwarfender.json](./250894-dwarfender.json) |
 | Dwarfenstein | 200357 | [200357-dwarfenstein.json](./200357-dwarfenstein.json) |
 | Dwarfer | 226481 | [226481-dwarfer.json](./226481-dwarfer.json) |
