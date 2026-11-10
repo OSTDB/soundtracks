@@ -419,6 +419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hako Tower | 393535 | [393535-hako-tower.json](./393535-hako-tower.json) |
 | HakoBoy! Hakozume Box | 81428 | [81428-hakoboy-hakozume-box.json](./81428-hakoboy-hakozume-box.json) |
 | Hakobune Kibau | 409336 | [409336-hakobune-kibau.json](./409336-hakobune-kibau.json) |
+| Hakokoro | 410546 | [410546-hakokoro.json](./410546-hakokoro.json) |
 | Hakonde Pon! | 206045 | [206045-hakonde-pon.json](./206045-hakonde-pon.json) |
 | Hakonde! Utte! Quiz 4-taku Typing | 355220 | [355220-hakonde-utte-quiz-4-taku-typing.json](./355220-hakonde-utte-quiz-4-taku-typing.json) |
 | Hakoniwa Bokujou Hitsuji Mura | 222102 | [222102-hakoniwa-bokujou-hitsuji-mura.json](./222102-hakoniwa-bokujou-hitsuji-mura.json) |
@@ -6644,6 +6645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic: Magic Duel | 120504 | [120504-heroic-magic-duel.json](./120504-heroic-magic-duel.json) |
 | Heroica: Fortaan | 342868 | [342868-heroica-fortaan.json](./342868-heroica-fortaan.json) |
 | Heroics | 142574 | [142574-heroics.json](./142574-heroics.json) |
+| Heroine | 410562 | [410562-heroine.json](./410562-heroine.json) |
 | Heroine Anthem XP: The Angel of Sarem | 85760 | [85760-heroine-anthem-xp-the-angel-of-sarem.json](./85760-heroine-anthem-xp-the-angel-of-sarem.json) |
 | Heroine Anthem Zero | 30997 | [30997-heroine-anthem-zero.json](./30997-heroine-anthem-zero.json) |
 | Heroine Anthem Zero: Episode 1 | 99465 | [99465-heroine-anthem-zero-episode-1.json](./99465-heroine-anthem-zero-episode-1.json) |
