@@ -10287,6 +10287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuttle Intercept | 284848 | [284848-shuttle-intercept.json](./284848-shuttle-intercept.json) |
 | Shuttle Mining | 350482 | [350482-shuttle-mining.json](./350482-shuttle-mining.json) |
 | Shuttle Orbiter | 40694 | [40694-shuttle-orbiter.json](./40694-shuttle-orbiter.json) |
+| Shuttle Rush | 85373 | [85373-shuttle-rush.json](./85373-shuttle-rush.json) |
 | Shuttle Scuttle | 213931 | [213931-shuttle-scuttle.json](./213931-shuttle-scuttle.json) |
 | Shuttle Shuffle: Aliens Panic | 56393 | [56393-shuttle-shuffle-aliens-panic.json](./56393-shuttle-shuffle-aliens-panic.json) |
 | Shuttle Siege | 31520 | [31520-shuttle-siege.json](./31520-shuttle-siege.json) |
