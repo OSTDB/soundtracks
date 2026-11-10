@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Heroes | 373206 | [373206-bad-heroes.json](./373206-bad-heroes.json) |
 | Bad Hombre | 119660 | [119660-bad-hombre.json](./119660-bad-hombre.json) |
 | Bad Hop Baseball | 235368 | [235368-bad-hop-baseball.json](./235368-bad-hop-baseball.json) |
+| Bad Hotel | 9982 | [9982-bad-hotel.json](./9982-bad-hotel.json) |
 | Bad House | 418601 | [418601-bad-house.json](./418601-bad-house.json) |
 | Bad Ice Cream | 106009 | [106009-bad-ice-cream.json](./106009-bad-ice-cream.json) |
 | Bad Ice Cream 2 | 142551 | [142551-bad-ice-cream-2.json](./142551-bad-ice-cream-2.json) |
@@ -1899,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballyhoo | 2316 | [2316-ballyhoo.json](./2316-ballyhoo.json) |
 | Ballz | 305983 | [305983-ballz.json](./305983-ballz.json) |
 | Ballz | 413235 | [413235-ballz.json](./413235-ballz.json) |
+| Ballz | 87363 | [87363-ballz.json](./87363-ballz.json) |
 | BallZ | 230914 | [230914-ballz.json](./230914-ballz.json) |
 | Ballz Break | 104397 | [104397-ballz-break.json](./104397-ballz-break.json) |
 | Ballz Deep | 245286 | [245286-ballz-deep.json](./245286-ballz-deep.json) |
@@ -7643,6 +7645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bid For Power | 92017 | [92017-bid-for-power.json](./92017-bid-for-power.json) |
 | Bid King | 390605 | [390605-bid-king.json](./390605-bid-king.json) |
 | Bid War: Auction Simulator Storage Hunter | 254007 | [254007-bid-war-auction-simulator-storage-hunter.json](./254007-bid-war-auction-simulator-storage-hunter.json) |
+| Bid Wars: Storage Auctions | 86938 | [86938-bid-wars-storage-auctions.json](./86938-bid-wars-storage-auctions.json) |
 | Bid Wars: Storage Auctions & Pawn Shop Game | 101115 | [101115-bid-wars-storage-auctions-and-pawn-shop-game.json](./101115-bid-wars-storage-auctions-and-pawn-shop-game.json) |
 | Bid Whist Plus | 140742 | [140742-bid-whist-plus.json](./140742-bid-whist-plus.json) |
 | Bid Whist: Card Game | 220817 | [220817-bid-whist-card-game.json](./220817-bid-whist-card-game.json) |
@@ -8679,6 +8682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biotech is Godzilla | 257159 | [257159-biotech-is-godzilla.json](./257159-biotech-is-godzilla.json) |
 | Biotech Samurai | 161385 | [161385-biotech-samurai.json](./161385-biotech-samurai.json) |
 | Biotek | 141392 | [141392-biotek.json](./141392-biotek.json) |
+| Biotix: Phage Genesis HD | 87530 | [87530-biotix-phage-genesis-hd.json](./87530-biotix-phage-genesis-hd.json) |
 | Biotomata | 381685 | [381685-biotomata.json](./381685-biotomata.json) |
 | Biotone | 402649 | [402649-biotone.json](./402649-biotone.json) |
 | Biotopia | 258039 | [258039-biotopia.json](./258039-biotopia.json) |
@@ -11339,6 +11343,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Blade | 60798 | [60798-blood-and-blade.json](./60798-blood-and-blade.json) |
 | Blood & Company | 318905 | [318905-blood-and-company.json](./318905-blood-and-company.json) |
 | Blood & Dungeon | 292545 | [292545-blood-and-dungeon.json](./292545-blood-and-dungeon.json) |
+| Blood & Glory | 87089 | [87089-blood-and-glory.json](./87089-blood-and-glory.json) |
+| Blood & Glory 2: Legend | 87130 | [87130-blood-and-glory-2-legend.json](./87130-blood-and-glory-2-legend.json) |
 | Blood & Glory: Immortals | 137572 | [137572-blood-and-glory-immortals.json](./137572-blood-and-glory-immortals.json) |
 | Blood & Gold: Caribbean! | 34141 | [34141-blood-and-gold-caribbean.json](./34141-blood-and-gold-caribbean.json) |
 | Blood & Gold: Caribbean! - The Zombiest Adventures | 124837 | [124837-blood-and-gold-caribbean-the-zombiest-adventures.json](./124837-blood-and-gold-caribbean-the-zombiest-adventures.json) |
@@ -13535,6 +13541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boo! | 221559 | [221559-boo.json](./221559-boo.json) |
 | Boo! Are you scared? | 329128 | [329128-boo-are-you-scared.json](./329128-boo-are-you-scared.json) |
 | Boo! Are you scared? The Chests Game | 328964 | [328964-boo-are-you-scared-the-chests-game.json](./328964-boo-are-you-scared-the-chests-game.json) |
+| Boo! Greedy Kid | 88007 | [88007-boo-greedy-kid.json](./88007-boo-greedy-kid.json) |
 | Boo's Balloons | 133106 | [133106-boos-balloons.json](./133106-boos-balloons.json) |
 | Boo's Burgers | 290829 | [290829-boos-burgers.json](./290829-boos-burgers.json) |
 | Boo's There? | 280317 | [280317-boos-there.json](./280317-boos-there.json) |
@@ -16308,6 +16315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Constructor Compilation | 131601 | [131601-bridge-constructor-compilation.json](./131601-bridge-constructor-compilation.json) |
 | Bridge Constructor Portal: Portal Proficiency | 155047 | [155047-bridge-constructor-portal-portal-proficiency.json](./155047-bridge-constructor-portal-portal-proficiency.json) |
 | Bridge Constructor Studio | 325559 | [325559-bridge-constructor-studio.json](./325559-bridge-constructor-studio.json) |
+| Bridge Constructor: Medieval | 10063 | [10063-bridge-constructor-medieval.json](./10063-bridge-constructor-medieval.json) |
 | Bridge Constructor: Playground | 17098 | [17098-bridge-constructor-playground.json](./17098-bridge-constructor-playground.json) |
 | Bridge Constructor: Stunts | 26664 | [26664-bridge-constructor-stunts.json](./26664-bridge-constructor-stunts.json) |
 | Bridge Constructor: The Walking Dead | 137291 | [137291-bridge-constructor-the-walking-dead.json](./137291-bridge-constructor-the-walking-dead.json) |
@@ -16332,6 +16340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge Player | 13443 | [13443-bridge-player.json](./13443-bridge-player.json) |
 | Bridge Player 2000 with Tutor | 15205 | [15205-bridge-player-2000-with-tutor.json](./15205-bridge-player-2000-with-tutor.json) |
 | Bridge Player 3 | 13442 | [13442-bridge-player-3.json](./13442-bridge-player-3.json) |
+| Bridge Project | 9785 | [9785-bridge-project.json](./9785-bridge-project.json) |
 | Bridge Quest | 280715 | [280715-bridge-quest.json](./280715-bridge-quest.json) |
 | Bridge Race | 229877 | [229877-bridge-race.json](./229877-bridge-race.json) |
 | Bridge Race: Complete Edition | 343703 | [343703-bridge-race-complete-edition.json](./343703-bridge-race-complete-edition.json) |
@@ -16391,6 +16400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Briefcase | 391559 | [391559-briefcase.json](./391559-briefcase.json) |
 | Brig 12 | 105714 | [105714-brig-12.json](./105714-brig-12.json) |
 | Brigade Commander | 14349 | [14349-brigade-commander.json](./14349-brigade-commander.json) |
+| Brigade E5: New Jagged Union | 10065 | [10065-brigade-e5-new-jagged-union.json](./10065-brigade-e5-new-jagged-union.json) |
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
 | Brigador | 13361 | [13361-brigador.json](./13361-brigador.json) |
 | Brigador Killers | 119625 | [119625-brigador-killers.json](./119625-brigador-killers.json) |
@@ -16500,6 +16510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring The Chickens Home | 260520 | [260520-bring-the-chickens-home.json](./260520-bring-the-chickens-home.json) |
 | Bring The Rift | 401883 | [401883-bring-the-rift.json](./401883-bring-the-rift.json) |
 | Bring Them Home | 114188 | [114188-bring-them-home.json](./114188-bring-them-home.json) |
+| Bring You Home | 87031 | [87031-bring-you-home.json](./87031-bring-you-home.json) |
 | Bring Your Eh! Game | 60847 | [60847-bring-your-eh-game.json](./60847-bring-your-eh-game.json) |
 | Bring Your Own Class | 311942 | [311942-bring-your-own-class.json](./311942-bring-your-own-class.json) |
 | Bring Your Own Oxygen | 186216 | [186216-bring-your-own-oxygen.json](./186216-bring-your-own-oxygen.json) |
