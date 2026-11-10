@@ -1510,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncle's Basement: Collector's pack | 296249 | [296249-uncles-basement-collectors-pack.json](./296249-uncles-basement-collectors-pack.json) |
 | Uncle's Basement: The Winter House | 384058 | [384058-uncles-basement-the-winter-house.json](./384058-uncles-basement-the-winter-house.json) |
 | Uncle's Casino | 78674 | [78674-uncles-casino.json](./78674-uncles-casino.json) |
+| Unclean Water | 407015 | [407015-unclean-water.json](./407015-unclean-water.json) |
 | Unclogged | 302055 | [302055-unclogged.json](./302055-unclogged.json) |
 | Unclouded | 418537 | [418537-unclouded.json](./418537-unclouded.json) |
 | Uncolor for iPad | 108460 | [108460-uncolor-for-ipad.json](./108460-uncolor-for-ipad.json) |
@@ -2938,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsheltered | 250843 | [250843-unsheltered.json](./250843-unsheltered.json) |
 | Unshelved | 405254 | [405254-unshelved.json](./405254-unshelved.json) |
 | Unshuffle | 356609 | [356609-unshuffle.json](./356609-unshuffle.json) |
+| Unsight | 407039 | [407039-unsight.json](./407039-unsight.json) |
 | Unslaad | 373834 | [373834-unslaad.json](./373834-unslaad.json) |
 | Unsleepable | 197211 | [197211-unsleepable.json](./197211-unsleepable.json) |
 | Unsolicited | 185647 | [185647-unsolicited.json](./185647-unsolicited.json) |
