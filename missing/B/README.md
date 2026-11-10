@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baff 3 | 121961 | [121961-baff-3.json](./121961-baff-3.json) |
 | Baff 4 | 234348 | [234348-baff-4.json](./234348-baff-4.json) |
 | Baff C | 412384 | [412384-baff-c.json](./412384-baff-c.json) |
+| Baff E | 422416 | [422416-baff-e.json](./422416-baff-e.json) |
 | Baff F | 156881 | [156881-baff-f.json](./156881-baff-f.json) |
 | Baff Halloween | 271071 | [271071-baff-halloween.json](./271071-baff-halloween.json) |
 | Baffle Ball | 92639 | [92639-baffle-ball.json](./92639-baffle-ball.json) |
@@ -9449,6 +9450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hat Cooperative | 32019 | [32019-black-hat-cooperative.json](./32019-black-hat-cooperative.json) |
 | Black Hawk | 25711 | [25711-black-hawk.json](./25711-black-hawk.json) |
 | Black Heart | 39820 | [39820-black-heart.json](./39820-black-heart.json) |
+| Black Helm: Desolated Forest | 422400 | [422400-black-helm-desolated-forest.json](./422400-black-helm-desolated-forest.json) |
 | Black Hole | 245160 | [245160-black-hole.json](./245160-black-hole.json) |
 | Black Hole | 46790 | [46790-black-hole.json](./46790-black-hole.json) |
 | Black Hole | 84924 | [84924-black-hole.json](./84924-black-hole.json) |
