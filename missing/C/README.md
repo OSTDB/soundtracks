@@ -16874,6 +16874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Twinkie | 406805 | [406805-cozy-twinkie.json](./406805-cozy-twinkie.json) |
 | Cozy Twinkie | 406806 | [406806-cozy-twinkie.json](./406806-cozy-twinkie.json) |
 | Cozy Unpacking Collection | 414789 | [414789-cozy-unpacking-collection.json](./414789-cozy-unpacking-collection.json) |
+| Cozy Up! | 403864 | [403864-cozy-up.json](./403864-cozy-up.json) |
 | Cozy Village | 271653 | [271653-cozy-village.json](./271653-cozy-village.json) |
 | Cozy Wandering in Scarlet and Amber | 145276 | [145276-cozy-wandering-in-scarlet-and-amber.json](./145276-cozy-wandering-in-scarlet-and-amber.json) |
 | Cozy Winter | 343724 | [343724-cozy-winter.json](./343724-cozy-winter.json) |
@@ -19209,6 +19210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crow's Cry | 211726 | [211726-crows-cry.json](./211726-crows-cry.json) |
 | Crow's Curated Closet: Shop Simulator | 407481 | [407481-crows-curated-closet-shop-simulator.json](./407481-crows-curated-closet-shop-simulator.json) |
 | Crow's Foot | 407671 | [407671-crows-foot.json](./407671-crows-foot.json) |
+| Crow's Requiem | 403911 | [403911-crows-requiem.json](./403911-crows-requiem.json) |
 | Crowalt: Traces of the Lost Colony | 132470 | [132470-crowalt-traces-of-the-lost-colony.json](./132470-crowalt-traces-of-the-lost-colony.json) |
 | Crowbar Climber | 348928 | [348928-crowbar-climber.json](./348928-crowbar-climber.json) |
 | Crowborne | 295786 | [295786-crowborne.json](./295786-crowborne.json) |
