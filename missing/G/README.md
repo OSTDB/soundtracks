@@ -7115,6 +7115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf: The Ultimate Collection | 314665 | [314665-golf-the-ultimate-collection.json](./314665-golf-the-ultimate-collection.json) |
 | Golf's Best: St. Andrews - The Home of Golf | 71773 | [71773-golfs-best-st-andrews-the-home-of-golf.json](./71773-golfs-best-st-andrews-the-home-of-golf.json) |
 | Golf+ | 186012 | [186012-golf.json](./186012-golf.json) |
+| Golf+: Pinehurst No. 2 | 426603 | [426603-golf-pinehurst-no-2.json](./426603-golf-pinehurst-no-2.json) |
 | Golf98 | 123885 | [123885-golf98.json](./123885-golf98.json) |
 | GolFall: Make Your Way Up | 401166 | [401166-golfall-make-your-way-up.json](./401166-golfall-make-your-way-up.json) |
 | Golfamania | 45673 | [45673-golfamania.json](./45673-golfamania.json) |
@@ -7447,6 +7448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goofy Dungeon | 216650 | [216650-goofy-dungeon.json](./216650-goofy-dungeon.json) |
 | Goofy Gorillas | 276667 | [276667-goofy-gorillas.json](./276667-goofy-gorillas.json) |
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
+| Goofy Lad | 426638 | [426638-goofy-lad.json](./426638-goofy-lad.json) |
 | Goofy Lil Guys | 335250 | [335250-goofy-lil-guys.json](./335250-goofy-lil-guys.json) |
 | Goofy Man | 200822 | [200822-goofy-man.json](./200822-goofy-man.json) |
 | Goofy Monsters - Sokoban Land | 25927 | [25927-goofy-monsters-sokoban-land.json](./25927-goofy-monsters-sokoban-land.json) |
@@ -11878,6 +11880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guroku | 144820 | [144820-guroku.json](./144820-guroku.json) |
 | Guroku Rainbow | 237373 | [237373-guroku-rainbow.json](./237373-guroku-rainbow.json) |
 | Guroopia! | 121551 | [121551-guroopia.json](./121551-guroopia.json) |
+| Gurshen | 426596 | [426596-gurshen.json](./426596-gurshen.json) |
 | Guru Guru | 309884 | [309884-guru-guru.json](./309884-guru-guru.json) |
 | Guru Guru | 94165 | [94165-guru-guru.json](./94165-guru-guru.json) |
 | Guru Logic | 84233 | [84233-guru-logic.json](./84233-guru-logic.json) |
