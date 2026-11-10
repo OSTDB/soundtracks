@@ -9437,6 +9437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cipher for Windows | 61453 | [61453-cipher-for-windows.json](./61453-cipher-for-windows.json) |
 | Cipher Island | 238088 | [238088-cipher-island.json](./238088-cipher-island.json) |
 | Cipher Monk | 286034 | [286034-cipher-monk.json](./286034-cipher-monk.json) |
+| Cipher Monk: Ancient Calculus | 396878 | [396878-cipher-monk-ancient-calculus.json](./396878-cipher-monk-ancient-calculus.json) |
 | Cipher Zero | 252691 | [252691-cipher-zero.json](./252691-cipher-zero.json) |
 | Cipher-8 | 263882 | [263882-cipher-8.json](./263882-cipher-8.json) |
 | Ciphercell | 144753 | [144753-ciphercell.json](./144753-ciphercell.json) |
@@ -20759,6 +20760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultures | 11379 | [11379-cultures.json](./11379-cultures.json) |
 | Cultures 1+2 | 154236 | [154236-cultures-1-2.json](./154236-cultures-1-2.json) |
 | Cultures 2: The Gates of Asgard | 11380 | [11380-cultures-2-the-gates-of-asgard.json](./11380-cultures-2-the-gates-of-asgard.json) |
+| Cultures Gold | 396837 | [396837-cultures-gold.json](./396837-cultures-gold.json) |
 | Cultures Online Heroes | 11382 | [11382-cultures-online-heroes.json](./11382-cultures-online-heroes.json) |
 | Cultures: 8th Wonder of the World | 200207 | [200207-cultures-8th-wonder-of-the-world.json](./200207-cultures-8th-wonder-of-the-world.json) |
 | Cultures: Die Abenteuerbox | 85764 | [85764-cultures-die-abenteuerbox.json](./85764-cultures-die-abenteuerbox.json) |
