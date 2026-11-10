@@ -2933,6 +2933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nestlé: Mais Divertido | 341273 | [341273-nestle-mais-divertido.json](./341273-nestle-mais-divertido.json) |
 | Nestlé: The Lion King | 273682 | [273682-nestle-the-lion-king.json](./273682-nestle-the-lion-king.json) |
 | Nestor the Nesting Bird | 259548 | [259548-nestor-the-nesting-bird.json](./259548-nestor-the-nesting-bird.json) |
+| Neststuck | 425385 | [425385-neststuck.json](./425385-neststuck.json) |
 | Net 24h: Vietnamese Internet Cafe Simulator | 391652 | [391652-net-24h-vietnamese-internet-cafe-simulator.json](./391652-net-24h-vietnamese-internet-cafe-simulator.json) |
 | Net Catcher: Netch | 218065 | [218065-net-catcher-netch.json](./218065-net-catcher-netch.json) |
 | Net Cribbage | 94606 | [94606-net-cribbage.json](./94606-net-cribbage.json) |
@@ -5126,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikopol: Secrets of the Immortals | 10601 | [10601-nikopol-secrets-of-the-immortals.json](./10601-nikopol-secrets-of-the-immortals.json) |
 | Niktophobia | 258805 | [258805-niktophobia.json](./258805-niktophobia.json) |
 | Nikujin | 66500 | [66500-nikujin.json](./66500-nikujin.json) |
+| Nikutai Teni | 426044 | [426044-nikutai-teni.json](./426044-nikutai-teni.json) |
 | Nil Action Metronome | 197034 | [197034-nil-action-metronome.json](./197034-nil-action-metronome.json) |
 | Nil Admirari no Tenbin: Irodori Nadeshiko | 136831 | [136831-nil-admirari-no-tenbin-irodori-nadeshiko.json](./136831-nil-admirari-no-tenbin-irodori-nadeshiko.json) |
 | Nil Admirari no Tenbin: Kuroyuri Enyoutan | 131906 | [131906-nil-admirari-no-tenbin-kuroyuri-enyoutan.json](./131906-nil-admirari-no-tenbin-kuroyuri-enyoutan.json) |
@@ -5844,6 +5846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Nation VR | 195834 | [195834-nitro-nation-vr.json](./195834-nitro-nation-vr.json) |
 | Nitro Nation World Tour | 261519 | [261519-nitro-nation-world-tour.json](./261519-nitro-nation-world-tour.json) |
 | Nitro Nation: Drag Racing | 233762 | [233762-nitro-nation-drag-racing.json](./233762-nitro-nation-drag-racing.json) |
+| Nitro Nonsense | 426065 | [426065-nitro-nonsense.json](./426065-nitro-nonsense.json) |
 | Nitro Racers | 220452 | [220452-nitro-racers.json](./220452-nitro-racers.json) |
 | Nitro Rally | 175114 | [175114-nitro-rally.json](./175114-nitro-rally.json) |
 | Nitro Rally Evolution | 234008 | [234008-nitro-rally-evolution.json](./234008-nitro-rally-evolution.json) |
@@ -5952,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Cure | 150291 | [150291-no-cure.json](./150291-no-cure.json) |
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
 | No Death in Wild West | 349516 | [349516-no-death-in-wild-west.json](./349516-no-death-in-wild-west.json) |
+| No Death No Life | 425411 | [425411-no-death-no-life.json](./425411-no-death-no-life.json) |
 | No Deck? No Dice? | 184471 | [184471-no-deck-no-dice.json](./184471-no-deck-no-dice.json) |
 | No Delivery | 126150 | [126150-no-delivery.json](./126150-no-delivery.json) |
 | No Door Can Not be Opened with a Non-black Key | 355192 | [355192-no-door-can-not-be-opened-with-a-non-black-key.json](./355192-no-door-can-not-be-opened-with-a-non-black-key.json) |
