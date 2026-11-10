@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taina's Cursed Legacy | 361686 | [361686-tainas-cursed-legacy.json](./361686-tainas-cursed-legacy.json) |
 | Tainted | 271846 | [271846-tainted.json](./271846-tainted.json) |
 | Tainted | 415211 | [415211-tainted.json](./415211-tainted.json) |
+| Tainted Fate | 101343 | [101343-tainted-fate.json](./101343-tainted-fate.json) |
 | Tainted Grail: The Fall of Avalon | 127697 | [127697-tainted-grail-the-fall-of-avalon.json](./127697-tainted-grail-the-fall-of-avalon.json) |
 | Tainted Grail: The Fall of Avalon - Sanctuary of Sarras | 380816 | [380816-tainted-grail-the-fall-of-avalon-sanctuary-of-sarras.json](./380816-tainted-grail-the-fall-of-avalon-sanctuary-of-sarras.json) |
 | Tainted Ground | 373031 | [373031-tainted-ground.json](./373031-tainted-ground.json) |
@@ -4829,6 +4830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrible Laboratory | 113862 | [113862-terrible-laboratory.json](./113862-terrible-laboratory.json) |
 | Terrible Life Expectancy | 352386 | [352386-terrible-life-expectancy.json](./352386-terrible-life-expectancy.json) |
 | Terrible Lizards | 296564 | [296564-terrible-lizards.json](./296564-terrible-lizards.json) |
+| Terrible Neighbor House | 101206 | [101206-terrible-neighbor-house.json](./101206-terrible-neighbor-house.json) |
 | Terrible Teeth | 167156 | [167156-terrible-teeth.json](./167156-terrible-teeth.json) |
 | Terrier Manager | 390893 | [390893-terrier-manager.json](./390893-terrier-manager.json) |
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
@@ -5741,6 +5743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventure of Hourai High School | 42549 | [42549-the-adventure-of-hourai-high-school.json](./42549-the-adventure-of-hourai-high-school.json) |
 | The adventure of Kroos | 76323 | [76323-the-adventure-of-kroos.json](./76323-the-adventure-of-kroos.json) |
 | The Adventure of Little Ralph | 44856 | [44856-the-adventure-of-little-ralph.json](./44856-the-adventure-of-little-ralph.json) |
+| The Adventure of Magical Girl | 101303 | [101303-the-adventure-of-magical-girl.json](./101303-the-adventure-of-magical-girl.json) |
 | The Adventure of Natsuki Hinomiya | 390289 | [390289-the-adventure-of-natsuki-hinomiya.json](./390289-the-adventure-of-natsuki-hinomiya.json) |
 | The Adventure of Nayu | 142651 | [142651-the-adventure-of-nayu.json](./142651-the-adventure-of-nayu.json) |
 | The Adventure of Ninomae Ina'nis | 321522 | [321522-the-adventure-of-ninomae-inanis.json](./321522-the-adventure-of-ninomae-inanis.json) |
@@ -16354,6 +16357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riftbreaker: Metal Terror | 202455 | [202455-the-riftbreaker-metal-terror.json](./202455-the-riftbreaker-metal-terror.json) |
 | The Riftbreaker: World Expansion II | 220511 | [220511-the-riftbreaker-world-expansion-ii.json](./220511-the-riftbreaker-world-expansion-ii.json) |
 | The Rifted Skies | 407986 | [407986-the-rifted-skies.json](./407986-the-rifted-skies.json) |
+| The Rig | 101258 | [101258-the-rig.json](./101258-the-rig.json) |
 | The Right Shot | 187656 | [187656-the-right-shot.json](./187656-the-right-shot.json) |
 | The Right Side of Town | 185408 | [185408-the-right-side-of-town.json](./185408-the-right-side-of-town.json) |
 | The Right Todd | 177365 | [177365-the-right-todd.json](./177365-the-right-todd.json) |
@@ -17444,6 +17448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Single-Eye Nightmare | 368992 | [368992-the-single-eye-nightmare.json](./368992-the-single-eye-nightmare.json) |
 | The Singularity Complex | 261083 | [261083-the-singularity-complex.json](./261083-the-singularity-complex.json) |
 | The Singularity Trials | 139701 | [139701-the-singularity-trials.json](./139701-the-singularity-trials.json) |
+| The Singularity Wish | 101275 | [101275-the-singularity-wish.json](./101275-the-singularity-wish.json) |
 | The Sinister Fairground: Horror Adventure Gamebook | 175303 | [175303-the-sinister-fairground-horror-adventure-gamebook.json](./175303-the-sinister-fairground-horror-adventure-gamebook.json) |
 | The Sink Gods | 175884 | [175884-the-sink-gods.json](./175884-the-sink-gods.json) |
 | The Sinkhole | 408117 | [408117-the-sinkhole.json](./408117-the-sinkhole.json) |
@@ -33664,6 +33669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsunami Rider | 383939 | [383939-tsunami-rider.json](./383939-tsunami-rider.json) |
 | Tsunde Tsumi Kiss | 21450 | [21450-tsunde-tsumi-kiss.json](./21450-tsunde-tsumi-kiss.json) |
 | Tsundere Girls | 382282 | [382282-tsundere-girls.json](./382282-tsundere-girls.json) |
+| Tsundere Idol: My Personal M-Pet | 101246 | [101246-tsundere-idol-my-personal-m-pet.json](./101246-tsundere-idol-my-personal-m-pet.json) |
 | Tsundere Milfin | 239834 | [239834-tsundere-milfin.json](./239834-tsundere-milfin.json) |
 | Tsundere Simulator 2 | 221389 | [221389-tsundere-simulator-2.json](./221389-tsundere-simulator-2.json) |
 | Tsuneko Apple | 318235 | [318235-tsuneko-apple.json](./318235-tsuneko-apple.json) |
