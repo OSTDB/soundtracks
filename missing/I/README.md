@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Panzer | 165288 | [165288-idle-panzer.json](./165288-idle-panzer.json) |
 | idle Party Leader | 235653 | [235653-idle-party-leader.json](./235653-idle-party-leader.json) |
 | Idle Percent | 277345 | [277345-idle-percent.json](./277345-idle-percent.json) |
+| Idle Pet UFO | 426002 | [426002-idle-pet-ufo.json](./426002-idle-pet-ufo.json) |
 | Idle Physio: Clinic Tycoon | 417461 | [417461-idle-physio-clinic-tycoon.json](./417461-idle-physio-clinic-tycoon.json) |
 | Idle Pinball | 330171 | [330171-idle-pinball.json](./330171-idle-pinball.json) |
 | Idle Pins | 176704 | [176704-idle-pins.json](./176704-idle-pins.json) |
@@ -4062,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
