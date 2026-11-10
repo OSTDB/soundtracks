@@ -3737,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Earth | 239453 | [239453-dead-earth.json](./239453-dead-earth.json) |
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
 | Dead Echo | 410377 | [410377-dead-echo.json](./410377-dead-echo.json) |
+| Dead Effect 2 | 18078 | [18078-dead-effect-2.json](./18078-dead-effect-2.json) |
 | Dead Effect 2 VR | 38968 | [38968-dead-effect-2-vr.json](./38968-dead-effect-2-vr.json) |
 | Dead Effect 2 VR: Cybermagic | 170969 | [170969-dead-effect-2-vr-cybermagic.json](./170969-dead-effect-2-vr-cybermagic.json) |
 | Dead Effect 2 VR: Escape From Meridian | 170967 | [170967-dead-effect-2-vr-escape-from-meridian.json](./170967-dead-effect-2-vr-escape-from-meridian.json) |
@@ -4037,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Pixels | 346658 | [346658-dead-pixels.json](./346658-dead-pixels.json) |
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
 | Dead Pixels II: Straight to Video | 18362 | [18362-dead-pixels-ii-straight-to-video.json](./18362-dead-pixels-ii-straight-to-video.json) |
+| Dead Plate | 275460 | [275460-dead-plate.json](./275460-dead-plate.json) |
 | Dead Profit | 192274 | [192274-dead-profit.json](./192274-dead-profit.json) |
 | Dead Pulse | 393989 | [393989-dead-pulse.json](./393989-dead-pulse.json) |
 | Dead Quest | 117401 | [117401-dead-quest.json](./117401-dead-quest.json) |
@@ -4123,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Shell | 193943 | [193943-dead-shell.json](./193943-dead-shell.json) |
 | Dead Shells | 295394 | [295394-dead-shells.json](./295394-dead-shells.json) |
 | Dead Shits | 129690 | [129690-dead-shits.json](./129690-dead-shits.json) |
+| Dead Signal | 269849 | [269849-dead-signal.json](./269849-dead-signal.json) |
 | Dead Silence: Echoes of the Damned | 336007 | [336007-dead-silence-echoes-of-the-damned.json](./336007-dead-silence-echoes-of-the-damned.json) |
 | Dead Simple 21 | 123565 | [123565-dead-simple-21.json](./123565-dead-simple-21.json) |
 | Dead Sky | 16777 | [16777-dead-sky.json](./16777-dead-sky.json) |
@@ -6169,6 +6172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defragmenting | 390232 | [390232-defragmenting.json](./390232-defragmenting.json) |
 | Defrain | 103390 | [103390-defrain.json](./103390-defrain.json) |
 | Deft | 182742 | [182742-deft.json](./182742-deft.json) |
+| Defunct | 18164 | [18164-defunct.json](./18164-defunct.json) |
 | Defuse | 377116 | [377116-defuse.json](./377116-defuse.json) |
 | Defuser VR | 29538 | [29538-defuser-vr.json](./29538-defuser-vr.json) |
 | Defy | 279383 | [279383-defy.json](./279383-defy.json) |
@@ -12704,6 +12708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollmaker | 325919 | [325919-dollmaker.json](./325919-dollmaker.json) |
 | Dollmaker | 343150 | [343150-dollmaker.json](./343150-dollmaker.json) |
 | Dollmaker 2 | 391138 | [391138-dollmaker-2.json](./391138-dollmaker-2.json) |
+| Dollmare | 291875 | [291875-dollmare.json](./291875-dollmare.json) |
 | Dolls | 244497 | [244497-dolls.json](./244497-dolls.json) |
 | Dolls Frontline | 175046 | [175046-dolls-frontline.json](./175046-dolls-frontline.json) |
 | Dolls Made Here | 390082 | [390082-dolls-made-here.json](./390082-dolls-made-here.json) |
