@@ -48,8 +48,8 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 | 34 | **Manhunt** | [🔎 Find on Spotify](https://open.spotify.com/search/Manhunt%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/M/1971-manhunt.json) |
 | 35 | **Super Mario All-Stars** | [🔎 Find on Spotify](https://open.spotify.com/search/Super%20Mario%20All-Stars%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/5199-super-mario-all-stars.json) |
 | 36 | **Quake 4** | [🔎 Find on Spotify](https://open.spotify.com/search/Quake%204%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/Q/356-quake-4.json) |
-| 37 | **Crazy Taxi** | [🔎 Find on Spotify](https://open.spotify.com/search/Crazy%20Taxi%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/1805-crazy-taxi.json) |
-| 38 | **S.T.A.L.K.E.R.: Clear Sky** | [🔎 Find on Spotify](https://open.spotify.com/search/S.T.A.L.K.E.R.%3A%20Clear%20Sky%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/4840-s-t-a-l-k-e-r-clear-sky.json) |
+| 37 | **S.T.A.L.K.E.R.: Clear Sky** | [🔎 Find on Spotify](https://open.spotify.com/search/S.T.A.L.K.E.R.%3A%20Clear%20Sky%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/4840-s-t-a-l-k-e-r-clear-sky.json) |
+| 38 | **Crazy Taxi** | [🔎 Find on Spotify](https://open.spotify.com/search/Crazy%20Taxi%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/1805-crazy-taxi.json) |
 | 39 | **Duke Nukem Forever** | [🔎 Find on Spotify](https://open.spotify.com/search/Duke%20Nukem%20Forever%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/490-duke-nukem-forever.json) |
 | 40 | **Hitman 3** | [🔎 Find on Spotify](https://open.spotify.com/search/Hitman%203%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/H/134595-hitman-3.json) |
 | 41 | **Duck Hunt** | [🔎 Find on Spotify](https://open.spotify.com/search/Duck%20Hunt%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/2741-duck-hunt.json) |
@@ -67,20 +67,20 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 19561 games | 19521 games | 22199 games | 20582 games | 9002 games | 14883 games | 12147 games |
+| 19564 games | 19525 games | 22201 games | 20588 games | 9003 games | 14886 games | 12150 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 13489 games | 7354 games | 4522 games | 6791 games | 10786 games | 23487 games | 8269 games |
+| 13490 games | 7356 games | 4524 games | 6793 games | 10788 games | 23490 games | 8269 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 6262 games | 19889 games | 1354 games | 13856 games | 38202 games | 35459 games | 3867 games |
+| 6262 games | 19893 games | 1354 games | 13858 games | 38211 games | 35463 games | 3867 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 4590 games | 10052 games | 1144 games | 2272 games | 2797 games | 3846 games |
+| 4590 games | 10052 games | 1144 games | 2272 games | 2797 games | 3847 games |
 
 ---
 
-_336183 games missing a soundtrack · last updated 2026-11-10T18:34:27.987Z_
+_336237 games missing a soundtrack · last updated 2026-11-10T18:53:13.861Z_
