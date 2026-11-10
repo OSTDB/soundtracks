@@ -4038,7 +4038,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -7151,6 +7150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ivorfall | 295577 | [295577-ivorfall.json](./295577-ivorfall.json) |
 | Ivory Springs | 87804 | [87804-ivory-springs.json](./87804-ivory-springs.json) |
 | Ivri | 291511 | [291511-ivri.json](./291511-ivri.json) |
+| Ivy the Kiwi? | 4937 | [4937-ivy-the-kiwi.json](./4937-ivy-the-kiwi.json) |
 | Ivy the Kiwi? Mini | 85204 | [85204-ivy-the-kiwi-mini.json](./85204-ivy-the-kiwi-mini.json) |
 | Ivy‘s Dream Cafe | 403217 | [403217-ivy-s-dream-cafe.json](./403217-ivy-s-dream-cafe.json) |
 | IW4x | 225358 | [225358-iw4x.json](./225358-iw4x.json) |
