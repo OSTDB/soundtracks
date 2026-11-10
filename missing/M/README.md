@@ -17361,6 +17361,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Cheeser | 184695 | [184695-moon-cheeser.json](./184695-moon-cheeser.json) |
 | Moon Child | 108279 | [108279-moon-child.json](./108279-moon-child.json) |
 | Moon Chronicles | 8606 | [8606-moon-chronicles.json](./8606-moon-chronicles.json) |
+| Moon Chronicles: Episode 1 | 84596 | [84596-moon-chronicles-episode-1.json](./84596-moon-chronicles-episode-1.json) |
+| Moon Chronicles: Episodes 2-4 | 84595 | [84595-moon-chronicles-episodes-2-4.json](./84595-moon-chronicles-episodes-2-4.json) |
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Colonization Project: Deluxe Edition | 53375 | [53375-moon-colonization-project-deluxe-edition.json](./53375-moon-colonization-project-deluxe-edition.json) |
 | Moon Colony | 311531 | [311531-moon-colony.json](./311531-moon-colony.json) |
