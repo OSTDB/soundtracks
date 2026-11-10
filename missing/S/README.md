@@ -1394,8 +1394,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai II: Vengeance | 54350 | [54350-samurai-ii-vengeance.json](./54350-samurai-ii-vengeance.json) |
 | Samurai in Africa | 113223 | [113223-samurai-in-africa.json](./113223-samurai-in-africa.json) |
 | Samurai Jack | 349782 | [349782-samurai-jack.json](./349782-samurai-jack.json) |
+| Samurai Jack: Aku's Ruins | 416293 | [416293-samurai-jack-akus-ruins.json](./416293-samurai-jack-akus-ruins.json) |
 | Samurai Jack: Battle Through Time | 131687 | [131687-samurai-jack-battle-through-time.json](./131687-samurai-jack-battle-through-time.json) |
 | Samurai Jack: Cavern Raid | 338745 | [338745-samurai-jack-cavern-raid.json](./338745-samurai-jack-cavern-raid.json) |
+| Samurai Jack: Challenge of the Red Demons | 416291 | [416291-samurai-jack-challenge-of-the-red-demons.json](./416291-samurai-jack-challenge-of-the-red-demons.json) |
 | Samurai Jack: Code of the Samurai | 327029 | [327029-samurai-jack-code-of-the-samurai.json](./327029-samurai-jack-code-of-the-samurai.json) |
 | Samurai Jack: Desert Quest | 338746 | [338746-samurai-jack-desert-quest.json](./338746-samurai-jack-desert-quest.json) |
 | Samurai Jack: Rave Slaves | 203060 | [203060-samurai-jack-rave-slaves.json](./203060-samurai-jack-rave-slaves.json) |
@@ -1903,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanrio World Smash Ball! | 3692 | [3692-sanrio-world-smash-ball.json](./3692-sanrio-world-smash-ball.json) |
 | Sanrio World: Kero Kero Keroppi no Bouken Nikki | 37964 | [37964-sanrio-world-kero-kero-keroppi-no-bouken-nikki.json](./37964-sanrio-world-kero-kero-keroppi-no-bouken-nikki.json) |
 | Sans & Papyrus: Salsa Lesson | 367395 | [367395-sans-and-papyrus-salsa-lesson.json](./367395-sans-and-papyrus-salsa-lesson.json) |
+| Sans Filtres | 416197 | [416197-sans-filtres.json](./416197-sans-filtres.json) |
 | Sans Logique | 260179 | [260179-sans-logique.json](./260179-sans-logique.json) |
 | Sans Spielen's Epic Megalovania | 334250 | [334250-sans-spielens-epic-megalovania.json](./334250-sans-spielens-epic-megalovania.json) |
 | Sansagari | 362015 | [362015-sansagari.json](./362015-sansagari.json) |
@@ -13981,6 +13984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep In Office | 233178 | [233178-sleep-in-office.json](./233178-sleep-in-office.json) |
 | Sleep Is Death | 20664 | [20664-sleep-is-death.json](./20664-sleep-is-death.json) |
 | Sleep of the Treyd | 108099 | [108099-sleep-of-the-treyd.json](./108099-sleep-of-the-treyd.json) |
+| Sleep Outbreak | 416234 | [416234-sleep-outbreak.json](./416234-sleep-outbreak.json) |
 | Sleep Paralysis | 121564 | [121564-sleep-paralysis.json](./121564-sleep-paralysis.json) |
 | Sleep Paralysis: The Uncanny Valley | 196876 | [196876-sleep-paralysis-the-uncanny-valley.json](./196876-sleep-paralysis-the-uncanny-valley.json) |
 | Sleep Simulator | 304593 | [304593-sleep-simulator.json](./304593-sleep-simulator.json) |
@@ -14817,6 +14821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slum Ball VR Tournament | 100241 | [100241-slum-ball-vr-tournament.json](./100241-slum-ball-vr-tournament.json) |
 | Slum Guide | 325405 | [325405-slum-guide.json](./325405-slum-guide.json) |
 | Slum Musketeer | 264985 | [264985-slum-musketeer.json](./264985-slum-musketeer.json) |
+| Slum Z | 416218 | [416218-slum-z.json](./416218-slum-z.json) |
 | Slumber | 191202 | [191202-slumber.json](./191202-slumber.json) |
 | Slumber | 394397 | [394397-slumber.json](./394397-slumber.json) |
 | Slumber Clause | 157349 | [157349-slumber-clause.json](./157349-slumber-clause.json) |
@@ -15819,6 +15824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snap Together: New Challenges | 283257 | [283257-snap-together-new-challenges.json](./283257-snap-together-new-challenges.json) |
 | Snap-A-Game: Classic RPG | 288680 | [288680-snap-a-game-classic-rpg.json](./288680-snap-a-game-classic-rpg.json) |
 | Snap! A Cerrado Adventure | 282117 | [282117-snap-a-cerrado-adventure.json](./282117-snap-a-cerrado-adventure.json) |
+| Snap64 Recomp | 416462 | [416462-snap64-recomp.json](./416462-snap64-recomp.json) |
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
 | Snapback | 258365 | [258365-snapback.json](./258365-snapback.json) |
 | SnapCat: Mia's Cozy Adventure | 381802 | [381802-snapcat-mias-cozy-adventure.json](./381802-snapcat-mias-cozy-adventure.json) |
@@ -27856,6 +27862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar-Fire | 14515 | [14515-stellar-fire.json](./14515-stellar-fire.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
 | Stellara Vanguard | 372283 | [372283-stellara-vanguard.json](./372283-stellara-vanguard.json) |
+| Stellarch | 416216 | [416216-stellarch.json](./416216-stellarch.json) |
 | Stellarcraft | 314392 | [314392-stellarcraft.json](./314392-stellarcraft.json) |
 | StellarDrive | 333849 | [333849-stellardrive.json](./333849-stellardrive.json) |
 | StellarEchoes: Terrain Explorer | 264619 | [264619-stellarechoes-terrain-explorer.json](./264619-stellarechoes-terrain-explorer.json) |
