@@ -1837,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramparts | 40942 | [40942-ramparts.json](./40942-ramparts.json) |
 | Ramped Up! | 234604 | [234604-ramped-up.json](./234604-ramped-up.json) |
 | Rampo | 63409 | [63409-rampo.json](./63409-rampo.json) |
+| Rams | 108648 | [108648-rams.json](./108648-rams.json) |
 | Ramsak | 25139 | [25139-ramsak.json](./25139-ramsak.json) |
 | RamsaySnap | 299327 | [299327-ramsaysnap.json](./299327-ramsaysnap.json) |
 | Ramses Classic | 200444 | [200444-ramses-classic.json](./200444-ramses-classic.json) |
@@ -6790,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reveniev: A Day in Nassiriyah | 391978 | [391978-reveniev-a-day-in-nassiriyah.json](./391978-reveniev-a-day-in-nassiriyah.json) |
 | Revenis Prologue 01 | 116336 | [116336-revenis-prologue-01.json](./116336-revenis-prologue-01.json) |
 | Revenot | 144225 | [144225-revenot.json](./144225-revenot.json) |
+| Reventa | 108622 | [108622-reventa.json](./108622-reventa.json) |
 | Reventure | 118922 | [118922-reventure.json](./118922-reventure.json) |
 | Rever dun Manege | 118211 | [118211-rever-dun-manege.json](./118211-rever-dun-manege.json) |
 | Reverb | 304536 | [304536-reverb.json](./304536-reverb.json) |
@@ -10513,6 +10515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Ops | 4094 | [4094-rogue-ops.json](./4094-rogue-ops.json) |
 | Rogue Ottoman | 271604 | [271604-rogue-ottoman.json](./271604-rogue-ottoman.json) |
 | Rogue Paper Scissors | 357716 | [357716-rogue-paper-scissors.json](./357716-rogue-paper-scissors.json) |
+| Rogue Party | 108342 | [108342-rogue-party.json](./108342-rogue-party.json) |
 | Rogue Party 2 | 158909 | [158909-rogue-party-2.json](./158909-rogue-party-2.json) |
 | Rogue Patterns | 382767 | [382767-rogue-patterns.json](./382767-rogue-patterns.json) |
 | Rogue Piñatas: VRmageddon | 319683 | [319683-rogue-pinatas-vrmageddon.json](./319683-rogue-pinatas-vrmageddon.json) |
