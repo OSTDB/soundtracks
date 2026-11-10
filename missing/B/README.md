@@ -15278,6 +15278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Games: Brain Puzzles 2 | 206481 | [206481-brain-games-brain-puzzles-2.json](./206481-brain-games-brain-puzzles-2.json) |
 | Brain Games: Numbers Blast | 60384 | [60384-brain-games-numbers-blast.json](./60384-brain-games-numbers-blast.json) |
 | Brain Games: Word Puzzles | 206482 | [206482-brain-games-word-puzzles.json](./206482-brain-games-word-puzzles.json) |
+| Brain Genius 2 | 405219 | [405219-brain-genius-2.json](./405219-brain-genius-2.json) |
 | Brain Guzzler | 35270 | [35270-brain-guzzler.json](./35270-brain-guzzler.json) |
 | Brain Guzzlers from Beyond! | 59711 | [59711-brain-guzzlers-from-beyond.json](./59711-brain-guzzlers-from-beyond.json) |
 | Brain Hack Squad | 350026 | [350026-brain-hack-squad.json](./350026-brain-hack-squad.json) |
@@ -18631,6 +18632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunnyrama | 30136 | [30136-bunnyrama.json](./30136-bunnyrama.json) |
 | BunnyShot | 157514 | [157514-bunnyshot.json](./157514-bunnyshot.json) |
 | Bunnysitting | 246658 | [246658-bunnysitting.json](./246658-bunnysitting.json) |
+| Bunnytown Ice Cream Parlor | 405218 | [405218-bunnytown-ice-cream-parlor.json](./405218-bunnytown-ice-cream-parlor.json) |
 | Bunosphere | 180635 | [180635-bunosphere.json](./180635-bunosphere.json) |
 | Bunraku | 265491 | [265491-bunraku.json](./265491-bunraku.json) |
 | Buns Out! | 351147 | [351147-buns-out.json](./351147-buns-out.json) |
