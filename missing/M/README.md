@@ -11046,6 +11046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Breaker | 234382 | [234382-micro-breaker.json](./234382-micro-breaker.json) |
 | Micro Car Crash Online Le Go! | 123943 | [123943-micro-car-crash-online-le-go.json](./123943-micro-car-crash-online-le-go.json) |
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
+| Micro Craft 2: Survival | 101151 | [101151-micro-craft-2-survival.json](./101151-micro-craft-2-survival.json) |
 | Micro Dash | 194703 | [194703-micro-dash.json](./194703-micro-dash.json) |
 | Micro Drive Festa | 202885 | [202885-micro-drive-festa.json](./202885-micro-drive-festa.json) |
 | Micro Gamer Shinmy | 338130 | [338130-micro-gamer-shinmy.json](./338130-micro-gamer-shinmy.json) |
@@ -12586,6 +12587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minabo: A Walk Through Life | 193007 | [193007-minabo-a-walk-through-life.json](./193007-minabo-a-walk-through-life.json) |
 | Minagara Oreru DS Origami | 288016 | [288016-minagara-oreru-ds-origami.json](./288016-minagara-oreru-ds-origami.json) |
 | Minakata Hakudou Toujou | 210835 | [210835-minakata-hakudou-toujou.json](./210835-minakata-hakudou-toujou.json) |
+| Minako | 101380 | [101380-minako.json](./101380-minako.json) |
 | Minako: Beloved Wife in the Countryside | 295391 | [295391-minako-beloved-wife-in-the-countryside.json](./295391-minako-beloved-wife-in-the-countryside.json) |
 | Minami no Shima ni Buta Ga Ita | 267647 | [267647-minami-no-shima-ni-buta-ga-ita.json](./267647-minami-no-shima-ni-buta-ga-ita.json) |
 | Minami no Umi no Odyssey | 49687 | [49687-minami-no-umi-no-odyssey.json](./49687-minami-no-umi-no-odyssey.json) |
@@ -22770,6 +22772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Island: Enigmatic Painting | 373684 | [373684-mystery-island-enigmatic-painting.json](./373684-mystery-island-enigmatic-painting.json) |
 | Mystery Island: Hidden Object Games | 121568 | [121568-mystery-island-hidden-object-games.json](./121568-mystery-island-hidden-object-games.json) |
 | Mystery Island: Missing Amy | 367614 | [367614-mystery-island-missing-amy.json](./367614-mystery-island-missing-amy.json) |
+| Mystery Lands | 101280 | [101280-mystery-lands.json](./101280-mystery-lands.json) |
 | Mystery Legends: Beauty and the Beast | 78445 | [78445-mystery-legends-beauty-and-the-beast.json](./78445-mystery-legends-beauty-and-the-beast.json) |
 | Mystery Legends: Phantom of the Opera | 62836 | [62836-mystery-legends-phantom-of-the-opera.json](./62836-mystery-legends-phantom-of-the-opera.json) |
 | Mystery Legends: Phantom of the Opera - Collector’s Edition | 239602 | [239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json](./239602-mystery-legends-phantom-of-the-opera-collector-s-edition.json) |
