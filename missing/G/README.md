@@ -9428,6 +9428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greg Hastings' Tournament Paintball | 5854 | [5854-greg-hastings-tournament-paintball.json](./5854-greg-hastings-tournament-paintball.json) |
 | Greg Hastings' Tournament Paintball MAX'D | 5855 | [5855-greg-hastings-tournament-paintball-maxd.json](./5855-greg-hastings-tournament-paintball-maxd.json) |
 | Greg LeMond's Bicycle Adventure | 15475 | [15475-greg-lemonds-bicycle-adventure.json](./15475-greg-lemonds-bicycle-adventure.json) |
+| Greg Norman Ultimate Challenge Golf | 22602 | [22602-greg-norman-ultimate-challenge-golf.json](./22602-greg-norman-ultimate-challenge-golf.json) |
 | Greg Norman's Golf Power | 48701 | [48701-greg-normans-golf-power.json](./48701-greg-normans-golf-power.json) |
 | Greg Norman's Shark Attack! The Ultimate Golf Simulator | 63188 | [63188-greg-normans-shark-attack-the-ultimate-golf-simulator.json](./63188-greg-normans-shark-attack-the-ultimate-golf-simulator.json) |
 | Greg Norman's Ultimate Golf | 98979 | [98979-greg-normans-ultimate-golf.json](./98979-greg-normans-ultimate-golf.json) |
@@ -11923,6 +11924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guuguuthropus | 143656 | [143656-guuguuthropus.json](./143656-guuguuthropus.json) |
 | Guus is Jarig | 350016 | [350016-guus-is-jarig.json](./350016-guus-is-jarig.json) |
 | Guus Winterpret | 350015 | [350015-guus-winterpret.json](./350015-guus-winterpret.json) |
+| Guwange | 21162 | [21162-guwange.json](./21162-guwange.json) |
 | Guwange Ruga Daioujou XII Kizuna Down | 377699 | [377699-guwange-ruga-daioujou-xii-kizuna-down.json](./377699-guwange-ruga-daioujou-xii-kizuna-down.json) |
 | Guy Spy and the Crystals of Armageddon | 12130 | [12130-guy-spy-and-the-crystals-of-armageddon.json](./12130-guy-spy-and-the-crystals-of-armageddon.json) |
 | Guy vs. The Wicked and Nefarious Land | 62413 | [62413-guy-vs-the-wicked-and-nefarious-land.json](./62413-guy-vs-the-wicked-and-nefarious-land.json) |
