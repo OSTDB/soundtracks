@@ -3519,6 +3519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paws and Claws: Pet Vet | 5091 | [5091-paws-and-claws-pet-vet.json](./5091-paws-and-claws-pet-vet.json) |
 | Paws and Claws: Pet Vet 2 | 123380 | [123380-paws-and-claws-pet-vet-2.json](./123380-paws-and-claws-pet-vet-2.json) |
 | Paws and Leaves: A Last Tale | 211234 | [211234-paws-and-leaves-a-last-tale.json](./211234-paws-and-leaves-a-last-tale.json) |
+| Paws and Soul | 108004 | [108004-paws-and-soul.json](./108004-paws-and-soul.json) |
 | Paws and Whiskers | 333287 | [333287-paws-and-whiskers.json](./333287-paws-and-whiskers.json) |
 | Paws Coven | 390076 | [390076-paws-coven.json](./390076-paws-coven.json) |
 | Paws for Adventure | 204108 | [204108-paws-for-adventure.json](./204108-paws-for-adventure.json) |
@@ -7702,6 +7703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pintura | 290081 | [290081-pintura.json](./290081-pintura.json) |
 | Pinturillo 2 | 56265 | [56265-pinturillo-2.json](./56265-pinturillo-2.json) |
 | Pinup | 403142 | [403142-pinup.json](./403142-pinup.json) |
+| Pinup Ball | 109308 | [109308-pinup-ball.json](./109308-pinup-ball.json) |
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
 | Pinwheel Playground | 418399 | [418399-pinwheel-playground.json](./418399-pinwheel-playground.json) |
 | Pinyon Shift | 421204 | [421204-pinyon-shift.json](./421204-pinyon-shift.json) |
@@ -18232,6 +18234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Max | 302471 | [302471-punch-max.json](./302471-punch-max.json) |
 | Punch Monk | 331513 | [331513-punch-monk.json](./331513-punch-monk.json) |
 | Punch Out | 311981 | [311981-punch-out.json](./311981-punch-out.json) |
+| Punch Pad Workout | 107985 | [107985-punch-pad-workout.json](./107985-punch-pad-workout.json) |
 | Punch Pong | 184983 | [184983-punch-pong.json](./184983-punch-pong.json) |
 | Punch Quest | 41505 | [41505-punch-quest.json](./41505-punch-quest.json) |
 | Punch the Garden | 269982 | [269982-punch-the-garden.json](./269982-punch-the-garden.json) |
