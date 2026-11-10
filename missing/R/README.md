@@ -4165,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Machina Teaser: ThoughtJudger | 270939 | [270939-red-machina-teaser-thoughtjudger.json](./270939-red-machina-teaser-thoughtjudger.json) |
 | Red Magic | 291719 | [291719-red-magic.json](./291719-red-magic.json) |
 | Red Man Follows | 243056 | [243056-red-man-follows.json](./243056-red-man-follows.json) |
+| Red Margins | 406415 | [406415-red-margins.json](./406415-red-margins.json) |
 | Red Masked Ronin: Desires and Shadows | 417217 | [417217-red-masked-ronin-desires-and-shadows.json](./417217-red-masked-ronin-desires-and-shadows.json) |
 | Red Matter | 109907 | [109907-red-matter.json](./109907-red-matter.json) |
 | Red Matter 2 | 198227 | [198227-red-matter-2.json](./198227-red-matter-2.json) |
@@ -7008,6 +7009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revive of The Moon | 316003 | [316003-revive-of-the-moon.json](./316003-revive-of-the-moon.json) |
 | Revive The Town! | 353372 | [353372-revive-the-town.json](./353372-revive-the-town.json) |
 | Revive: C64 Classics | 84199 | [84199-revive-c64-classics.json](./84199-revive-c64-classics.json) |
+| Revive! Onsen Town! | 406414 | [406414-revive-onsen-town.json](./406414-revive-onsen-town.json) |
 | Revive... Sosei | 94374 | [94374-revive-sosei.json](./94374-revive-sosei.json) |
 | Revived | 181728 | [181728-revived.json](./181728-revived.json) |
 | Revived Forest | 203806 | [203806-revived-forest.json](./203806-revived-forest.json) |
@@ -13074,6 +13076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runa | 295171 | [295171-runa.json](./295171-runa.json) |
 | Runa & the Chaikurú Legacy | 238734 | [238734-runa-and-the-chaikuru-legacy.json](./238734-runa-and-the-chaikuru-legacy.json) |
 | Runa Illustra | 341659 | [341659-runa-illustra.json](./341659-runa-illustra.json) |
+| Runa in Nightmare House | 406433 | [406433-runa-in-nightmare-house.json](./406433-runa-in-nightmare-house.json) |
 | Runa's Date | 117997 | [117997-runas-date.json](./117997-runas-date.json) |
 | Runa's School Story | 114066 | [114066-runas-school-story.json](./114066-runas-school-story.json) |
 | Runabout 3D: Drive Impossible | 64850 | [64850-runabout-3d-drive-impossible.json](./64850-runabout-3d-drive-impossible.json) |
@@ -13522,6 +13525,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushdown Rivals Reloaded | 271932 | [271932-rushdown-rivals-reloaded.json](./271932-rushdown-rivals-reloaded.json) |
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
 | Rushing Balls | 99216 | [99216-rushing-balls.json](./99216-rushing-balls.json) |
+| Rushing Beat | 406400 | [406400-rushing-beat.json](./406400-rushing-beat.json) |
+| Rushing Beat Ran: Fukusei Toshi | 406401 | [406401-rushing-beat-ran-fukusei-toshi.json](./406401-rushing-beat-ran-fukusei-toshi.json) |
+| Rushing Beat Shura | 406402 | [406402-rushing-beat-shura.json](./406402-rushing-beat-shura.json) |
 | Rushing Beat X: Return of Brawl Brothers | 345566 | [345566-rushing-beat-x-return-of-brawl-brothers.json](./345566-rushing-beat-x-return-of-brawl-brothers.json) |
 | Rushing Beat: Translation | 276932 | [276932-rushing-beat-translation.json](./276932-rushing-beat-translation.json) |
 | Rushing Heroes | 65472 | [65472-rushing-heroes.json](./65472-rushing-heroes.json) |
