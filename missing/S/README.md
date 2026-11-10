@@ -3068,6 +3068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scheme | 379840 | [379840-scheme.json](./379840-scheme.json) |
 | Scheme!!! Spica, Chinatsu, and Haruka's Enchanting, Marvelous, and Quite Frankly Elaborate Quest to Save Their Cute Girlfriend! | 202566 | [202566-scheme-spica-chinatsu-and-harukas-enchanting-marvelous-and-quite-frankly-elaborate-quest-to-save-their-cute-girlfriend.json](./202566-scheme-spica-chinatsu-and-harukas-enchanting-marvelous-and-quite-frankly-elaborate-quest-to-save-their-cute-girlfriend.json) |
 | Scheming Through the Zombie Apocalypse: Episode 2 - Caged | 110542 | [110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json](./110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json) |
+| Scheming Through The Zombie Apocalypse: The Beginning | 95183 | [95183-scheming-through-the-zombie-apocalypse-the-beginning.json](./95183-scheming-through-the-zombie-apocalypse-the-beginning.json) |
 | Scherzo | 276039 | [276039-scherzo.json](./276039-scherzo.json) |
 | Schiffbruch | 76251 | [76251-schiffbruch.json](./76251-schiffbruch.json) |
 | Schildmaid MX | 187651 | [187651-schildmaid-mx.json](./187651-schildmaid-mx.json) |
@@ -4604,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Front: Germany Turns East | 74107 | [74107-second-front-germany-turns-east.json](./74107-second-front-germany-turns-east.json) |
 | Second Galaxy | 120308 | [120308-second-galaxy.json](./120308-second-galaxy.json) |
 | Second Grade Learning Games | 89083 | [89083-second-grade-learning-games.json](./89083-second-grade-learning-games.json) |
+| Second Hand: Frankie's Revenge | 95140 | [95140-second-hand-frankies-revenge.json](./95140-second-hand-frankies-revenge.json) |
 | Second Hazardous Course | 105158 | [105158-second-hazardous-course.json](./105158-second-hazardous-course.json) |
 | Second Heart | 418605 | [418605-second-heart.json](./418605-second-heart.json) |
 | Second Humanity | 391869 | [391869-second-humanity.json](./391869-second-humanity.json) |
@@ -17097,6 +17099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Empire | 255848 | [255848-solar-empire.json](./255848-solar-empire.json) |
 | Solar Expanse | 219595 | [219595-solar-expanse.json](./219595-solar-expanse.json) |
 | Solar Explorer: New Dawn | 107399 | [107399-solar-explorer-new-dawn.json](./107399-solar-explorer-new-dawn.json) |
+| Solar Family: Kids EduGames - Solar System Planets | 95110 | [95110-solar-family-kids-edugames-solar-system-planets.json](./95110-solar-family-kids-edugames-solar-system-planets.json) |
 | Solar Fighters | 105185 | [105185-solar-fighters.json](./105185-solar-fighters.json) |
 | Solar Flux | 9026 | [9026-solar-flux.json](./9026-solar-flux.json) |
 | Solar Fox | 18708 | [18708-solar-fox.json](./18708-solar-fox.json) |
@@ -17480,6 +17483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Perfect Match | 87126 | [87126-solitaire-perfect-match.json](./87126-solitaire-perfect-match.json) |
 | Solitaire Plus! | 88613 | [88613-solitaire-plus.json](./88613-solitaire-plus.json) |
 | Solitaire Poker | 19493 | [19493-solitaire-poker.json](./19493-solitaire-poker.json) |
+| Solitaire Pro | 95133 | [95133-solitaire-pro.json](./95133-solitaire-pro.json) |
 | Solitaire Pro: 160 Card Games | 98864 | [98864-solitaire-pro-160-card-games.json](./98864-solitaire-pro-160-card-games.json) |
 | Solitaire Q | 108205 | [108205-solitaire-q.json](./108205-solitaire-q.json) |
 | Solitaire Quest: Garden Story | 260395 | [260395-solitaire-quest-garden-story.json](./260395-solitaire-quest-garden-story.json) |
@@ -23685,6 +23689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Dwellers 4: Collector's Edition | 378357 | [378357-spooky-dwellers-4-collectors-edition.json](./378357-spooky-dwellers-4-collectors-edition.json) |
 | Spooky Dwellers 5: Collector's Edition | 416773 | [416773-spooky-dwellers-5-collectors-edition.json](./416773-spooky-dwellers-5-collectors-edition.json) |
 | Spooky Dwellers: Collector's Edition | 272724 | [272724-spooky-dwellers-collectors-edition.json](./272724-spooky-dwellers-collectors-edition.json) |
+| Spooky Ghosts Dot Com | 95207 | [95207-spooky-ghosts-dot-com.json](./95207-spooky-ghosts-dot-com.json) |
 | Spooky Halloween in the Voxel World | 219681 | [219681-spooky-halloween-in-the-voxel-world.json](./219681-spooky-halloween-in-the-voxel-world.json) |
 | Spooky Heroes | 32426 | [32426-spooky-heroes.json](./32426-spooky-heroes.json) |
 | Spooky Hoofs | 90394 | [90394-spooky-hoofs.json](./90394-spooky-hoofs.json) |
@@ -27153,6 +27158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | STCC 2: The Game | 62410 | [62410-stcc-2-the-game.json](./62410-stcc-2-the-game.json) |
 | STCC: The Game | 10921 | [10921-stcc-the-game.json](./10921-stcc-the-game.json) |
 | STDS00751 R+R | 266413 | [266413-stds00751-r-r.json](./266413-stds00751-r-r.json) |
+| STE : Save the Earth | 95220 | [95220-ste-save-the-earth.json](./95220-ste-save-the-earth.json) |
 | Steadfast | 417535 | [417535-steadfast.json](./417535-steadfast.json) |
 | Steady | 169642 | [169642-steady.json](./169642-steady.json) |
 | Steady, Steady, Steady! | 348254 | [348254-steady-steady-steady.json](./348254-steady-steady-steady.json) |
@@ -33084,6 +33090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi Trick or Treat | 314278 | [314278-super-luigi-trick-or-treat.json](./314278-super-luigi-trick-or-treat.json) |
 | Super Luigi Wii: The Emissary | 259276 | [259276-super-luigi-wii-the-emissary.json](./259276-super-luigi-wii-the-emissary.json) |
 | Super Luigi! The Forgotten Adventure! | 254946 | [254946-super-luigi-the-forgotten-adventure.json](./254946-super-luigi-the-forgotten-adventure.json) |
+| Super Lula Escape From Prison | 95277 | [95277-super-lula-escape-from-prison.json](./95277-super-lula-escape-from-prison.json) |
 | Super Lumberjack | 371341 | [371341-super-lumberjack.json](./371341-super-lumberjack.json) |
 | Super Lumi Live | 27490 | [27490-super-lumi-live.json](./27490-super-lumi-live.json) |
 | Super Lunch-Out 2 Turbo | 371530 | [371530-super-lunch-out-2-turbo.json](./371530-super-lunch-out-2-turbo.json) |
@@ -35481,6 +35488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperTaxCity | 292328 | [292328-supertaxcity.json](./292328-supertaxcity.json) |
 | SuperTed | 73643 | [73643-superted.json](./73643-superted.json) |
 | SuperTotalCarnage! | 230356 | [230356-supertotalcarnage.json](./230356-supertotalcarnage.json) |
+| SuperTrains | 95147 | [95147-supertrains.json](./95147-supertrains.json) |
 | SuperTripLand | 239504 | [239504-supertripland.json](./239504-supertripland.json) |
 | SuperTrucks Offroad | 75638 | [75638-supertrucks-offroad.json](./75638-supertrucks-offroad.json) |
 | SuperTrucks Offroad Racing | 237384 | [237384-supertrucks-offroad-racing.json](./237384-supertrucks-offroad-racing.json) |
