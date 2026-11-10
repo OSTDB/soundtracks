@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tac Tiles | 38057 | [38057-tac-tiles.json](./38057-tac-tiles.json) |
 | Tac-Scan | 18667 | [18667-tac-scan.json](./18667-tac-scan.json) |
 | TAC: Tactical Armor Command | 23969 | [23969-tac-tactical-armor-command.json](./23969-tac-tactical-armor-command.json) |
+| TaCam | 412049 | [412049-tacam.json](./412049-tacam.json) |
 | Tacape | 185033 | [185033-tacape.json](./185033-tacape.json) |
 | Tachanka Simulator | 312906 | [312906-tachanka-simulator.json](./312906-tachanka-simulator.json) |
 | Tachie ga Hen na Pose no Renai Adventure | 285359 | [285359-tachie-ga-hen-na-pose-no-renai-adventure.json](./285359-tachie-ga-hen-na-pose-no-renai-adventure.json) |
@@ -958,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take You Home | 391991 | [391991-take-you-home.json](./391991-take-you-home.json) |
 | Take Your Altushka | 310106 | [310106-take-your-altushka.json](./310106-take-your-altushka.json) |
 | Take Your Best Shot | 69794 | [69794-take-your-best-shot.json](./69794-take-your-best-shot.json) |
+| Take Your Throne | 412058 | [412058-take-your-throne.json](./412058-take-your-throne.json) |
 | Take your time Race Game | 185197 | [185197-take-your-time-race-game.json](./185197-take-your-time-race-game.json) |
 | Take Yutaka G1 Memory | 37795 | [37795-take-yutaka-g1-memory.json](./37795-take-yutaka-g1-memory.json) |
 | Take-out Weight Curling | 70949 | [70949-take-out-weight-curling.json](./70949-take-out-weight-curling.json) |
@@ -2738,6 +2740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasogare no Sinsemilla | 60444 | [60444-tasogare-no-sinsemilla.json](./60444-tasogare-no-sinsemilla.json) |
 | Tasogare Sakaba: Uwabami Breakers | 123588 | [123588-tasogare-sakaba-uwabami-breakers.json](./123588-tasogare-sakaba-uwabami-breakers.json) |
+| Tasogare Zanitan | 412539 | [412539-tasogare-zanitan.json](./412539-tasogare-zanitan.json) |
 | Tasogaredoki: Kaidan Romance | 64160 | [64160-tasogaredoki-kaidan-romance.json](./64160-tasogaredoki-kaidan-romance.json) |
 | Tasokare Hotel | 202675 | [202675-tasokare-hotel.json](./202675-tasokare-hotel.json) |
 | Tasokare Hotel Re:newal | 260090 | [260090-tasokare-hotel-re-newal.json](./260090-tasokare-hotel-re-newal.json) |
@@ -4814,6 +4817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrarium: Garden Idle | 116433 | [116433-terrarium-garden-idle.json](./116433-terrarium-garden-idle.json) |
 | Terrarium.live | 405646 | [405646-terrarium-live.json](./405646-terrarium-live.json) |
 | Terrarium/Aquarium | 182685 | [182685-terrarium-aquarium.json](./182685-terrarium-aquarium.json) |
+| Terrascape | 412457 | [412457-terrascape.json](./412457-terrascape.json) |
 | TerraScape | 239642 | [239642-terrascape.json](./239642-terrascape.json) |
 | TerraScape: Ancient Egypt | 357004 | [357004-terrascape-ancient-egypt.json](./357004-terrascape-ancient-egypt.json) |
 | Terraspace | 356046 | [356046-terraspace.json](./356046-terraspace.json) |
@@ -9756,6 +9760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fangs Huntress | 148462 | [148462-the-fangs-huntress.json](./148462-the-fangs-huntress.json) |
 | The Fantaballous Tilt | 194320 | [194320-the-fantaballous-tilt.json](./194320-the-fantaballous-tilt.json) |
 | The Fantastic Adventure of Monsieur Grape | 158351 | [158351-the-fantastic-adventure-of-monsieur-grape.json](./158351-the-fantastic-adventure-of-monsieur-grape.json) |
+| The Fantastic Adventures of Dizzy | 412050 | [412050-the-fantastic-adventures-of-dizzy.json](./412050-the-fantastic-adventures-of-dizzy.json) |
 | The Fantastic Adventures of Mr. Don and Friends | 372982 | [372982-the-fantastic-adventures-of-mr-don-and-friends.json](./372982-the-fantastic-adventures-of-mr-don-and-friends.json) |
 | The Fantastic Fivesome | 303015 | [303015-the-fantastic-fivesome.json](./303015-the-fantastic-fivesome.json) |
 | The Fantastic Game | 230520 | [230520-the-fantastic-game.json](./230520-the-fantastic-game.json) |
@@ -9782,6 +9787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Farm | 379150 | [379150-the-farm.json](./379150-the-farm.json) |
 | The Farm Racing | 404521 | [404521-the-farm-racing.json](./404521-the-farm-racing.json) |
 | The Farm You Grew Up On | 180749 | [180749-the-farm-you-grew-up-on.json](./180749-the-farm-you-grew-up-on.json) |
+| The Farmer | 412439 | [412439-the-farmer.json](./412439-the-farmer.json) |
 | The Farmer Was Replaced | 243931 | [243931-the-farmer-was-replaced.json](./243931-the-farmer-was-replaced.json) |
 | The Farmer's Daughter | 71913 | [71913-the-farmers-daughter.json](./71913-the-farmers-daughter.json) |
 | The Farming Frontier | 261632 | [261632-the-farming-frontier.json](./261632-the-farming-frontier.json) |
@@ -11138,6 +11144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heist: Monaco | 313820 | [313820-the-heist-monaco.json](./313820-the-heist-monaco.json) |
 | The Heiwa Otenki Studio | 97639 | [97639-the-heiwa-otenki-studio.json](./97639-the-heiwa-otenki-studio.json) |
 | The Helios Incident | 382257 | [382257-the-helios-incident.json](./382257-the-helios-incident.json) |
+| The Hell Bread | 412037 | [412037-the-hell-bread.json](./412037-the-hell-bread.json) |
 | The Hell Hives | 156053 | [156053-the-hell-hives.json](./156053-the-hell-hives.json) |
 | The Hell in I | 301830 | [301830-the-hell-in-i.json](./301830-the-hell-in-i.json) |
 | The Hell in Vietnam | 27620 | [27620-the-hell-in-vietnam.json](./27620-the-hell-in-vietnam.json) |
@@ -32774,6 +32781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TriTryst | 79189 | [79189-tritryst.json](./79189-tritryst.json) |
 | Trium | 377927 | [377927-trium.json](./377927-trium.json) |
 | Triumph | 184041 | [184041-triumph.json](./184041-triumph.json) |
+| Triumph | 412412 | [412412-triumph.json](./412412-triumph.json) |
 | Triumph Action | 128233 | [128233-triumph-action.json](./128233-triumph-action.json) |
 | TriumphInTheSkies | 126401 | [126401-triumphintheskies.json](./126401-triumphintheskies.json) |
 | Triumvora | 346200 | [346200-triumvora.json](./346200-triumvora.json) |
@@ -32810,6 +32818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Star Quiz | 216060 | [216060-trivia-star-quiz.json](./216060-trivia-star-quiz.json) |
 | Trivia Throwdown | 119992 | [119992-trivia-throwdown.json](./119992-trivia-throwdown.json) |
 | Trivia Town: Quiz Duel | 232064 | [232064-trivia-town-quiz-duel.json](./232064-trivia-town-quiz-duel.json) |
+| Trivia Trek | 412414 | [412414-trivia-trek.json](./412414-trivia-trek.json) |
 | Trivia Trials | 296339 | [296339-trivia-trials.json](./296339-trivia-trials.json) |
 | Trivia Tricks | 140534 | [140534-trivia-tricks.json](./140534-trivia-tricks.json) |
 | Trivia Trove | 55991 | [55991-trivia-trove.json](./55991-trivia-trove.json) |
