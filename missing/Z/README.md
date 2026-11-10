@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Caliber: Reloaded | 174559 | [174559-zero-caliber-reloaded.json](./174559-zero-caliber-reloaded.json) |
 | Zero Chastity: A Sultry Summer Holiday | 192566 | [192566-zero-chastity-a-sultry-summer-holiday.json](./192566-zero-chastity-a-sultry-summer-holiday.json) |
 | Zero City: Try to Survive | 140935 | [140935-zero-city-try-to-survive.json](./140935-zero-city-try-to-survive.json) |
+| Zero Clearance | 406396 | [406396-zero-clearance.json](./406396-zero-clearance.json) |
 | Zero Comico | 185970 | [185970-zero-comico.json](./185970-zero-comico.json) |
 | Zero Conflict TD | 271276 | [271276-zero-conflict-td.json](./271276-zero-conflict-td.json) |
 | Zero Core: Exile | 140579 | [140579-zero-core-exile.json](./140579-zero-core-exile.json) |
