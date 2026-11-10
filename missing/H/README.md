@@ -2705,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva Dreamy Theater 2nd | 65408 | [65408-hatsune-miku-project-diva-dreamy-theater-2nd.json](./65408-hatsune-miku-project-diva-dreamy-theater-2nd.json) |
 | Hatsune Miku: Project Diva Dreamy Theater Extend | 79220 | [79220-hatsune-miku-project-diva-dreamy-theater-extend.json](./79220-hatsune-miku-project-diva-dreamy-theater-extend.json) |
 | Hatsune Miku: Project Diva Extend | 11767 | [11767-hatsune-miku-project-diva-extend.json](./11767-hatsune-miku-project-diva-extend.json) |
+| Hatsune Miku: Project Diva F | 11768 | [11768-hatsune-miku-project-diva-f.json](./11768-hatsune-miku-project-diva-f.json) |
 | Hatsune Miku: Project Diva F 2nd | 9626 | [9626-hatsune-miku-project-diva-f-2nd.json](./9626-hatsune-miku-project-diva-f-2nd.json) |
 | Hatsune Miku: Project Diva Future Tone | 25821 | [25821-hatsune-miku-project-diva-future-tone.json](./25821-hatsune-miku-project-diva-future-tone.json) |
 | Hatsune Miku: Project Diva Future Tone - Colorful Tone | 353606 | [353606-hatsune-miku-project-diva-future-tone-colorful-tone.json](./353606-hatsune-miku-project-diva-future-tone-colorful-tone.json) |
@@ -3876,6 +3877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Rain: Director's Cut | 45279 | [45279-heavy-rain-directors-cut.json](./45279-heavy-rain-directors-cut.json) |
 | Heavy Rain: Move Edition | 144777 | [144777-heavy-rain-move-edition.json](./144777-heavy-rain-move-edition.json) |
 | Heavy Rain: Special Edition | 103386 | [103386-heavy-rain-special-edition.json](./103386-heavy-rain-special-edition.json) |
+| Heavy Rain: The Taxidermist | 14668 | [14668-heavy-rain-the-taxidermist.json](./14668-heavy-rain-the-taxidermist.json) |
 | Heavy Recoil | 112502 | [112502-heavy-recoil.json](./112502-heavy-recoil.json) |
 | Heavy Recoil: Convoy Chaser | 183461 | [183461-heavy-recoil-convoy-chaser.json](./183461-heavy-recoil-convoy-chaser.json) |
 | Heavy Rockets | 237952 | [237952-heavy-rockets.json](./237952-heavy-rockets.json) |
@@ -10805,6 +10807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
 | Hostage Negotiator | 87494 | [87494-hostage-negotiator.json](./87494-hostage-negotiator.json) |
 | HostageHub | 263988 | [263988-hostagehub.json](./263988-hostagehub.json) |
+| Hostages | 14900 | [14900-hostages.json](./14900-hostages.json) |
 | Hostages | 343204 | [343204-hostages.json](./343204-hostages.json) |
 | Hostia me acabo de acordar de lo que he soñao hoy, que puta paranoia | 302734 | [302734-hostia-me-acabo-de-acordar-de-lo-que-he-sonao-hoy-que-puta-paranoia.json](./302734-hostia-me-acabo-de-acordar-de-lo-que-he-sonao-hoy-que-puta-paranoia.json) |
 | Hostil | 75816 | [75816-hostil.json](./75816-hostil.json) |
