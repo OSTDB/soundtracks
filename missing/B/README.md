@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baja or Bust | 259245 | [259245-baja-or-bust.json](./259245-baja-or-bust.json) |
 | Baja: Edge of Control | 5497 | [5497-baja-edge-of-control.json](./5497-baja-edge-of-control.json) |
 | Baja: Edge of Control HD | 28170 | [28170-baja-edge-of-control-hd.json](./28170-baja-edge-of-control-hd.json) |
+| Bajillionaire | 416249 | [416249-bajillionaire.json](./416249-bajillionaire.json) |
 | Bajka | 348315 | [348315-bajka.json](./348315-bajka.json) |
 | Bajoran Mercenary Adventure! | 116807 | [116807-bajoran-mercenary-adventure.json](./116807-bajoran-mercenary-adventure.json) |
 | Baka to Test to Shoukanjuu Portable | 196714 | [196714-baka-to-test-to-shoukanjuu-portable.json](./196714-baka-to-test-to-shoukanjuu-portable.json) |
@@ -4129,6 +4130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of the Four Towers | 368012 | [368012-battle-of-the-four-towers.json](./368012-battle-of-the-four-towers.json) |
 | Battle of the Heroes | 179407 | [179407-battle-of-the-heroes.json](./179407-battle-of-the-heroes.json) |
 | Battle of the Immortals | 51218 | [51218-battle-of-the-immortals.json](./51218-battle-of-the-immortals.json) |
+| Battle of the Kyoshin | 416257 | [416257-battle-of-the-kyoshin.json](./416257-battle-of-the-kyoshin.json) |
 | Battle of the Lexicon Lords | 294720 | [294720-battle-of-the-lexicon-lords.json](./294720-battle-of-the-lexicon-lords.json) |
 | Battle of the Lost Continent | 226245 | [226245-battle-of-the-lost-continent.json](./226245-battle-of-the-lost-continent.json) |
 | Battle of the Planets | 13386 | [13386-battle-of-the-planets.json](./13386-battle-of-the-planets.json) |
@@ -10220,6 +10222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Frenzy | 301509 | [301509-blast-frenzy.json](./301509-blast-frenzy.json) |
 | Blast from the Past! | 206299 | [206299-blast-from-the-past.json](./206299-blast-from-the-past.json) |
 | Blast Hopper | 284011 | [284011-blast-hopper.json](./284011-blast-hopper.json) |
+| Blast Horizon | 416290 | [416290-blast-horizon.json](./416290-blast-horizon.json) |
 | Blast in the Past | 295612 | [295612-blast-in-the-past.json](./295612-blast-in-the-past.json) |
 | Blast It | 245549 | [245549-blast-it.json](./245549-blast-it.json) |
 | Blast Judgment | 324328 | [324328-blast-judgment.json](./324328-blast-judgment.json) |
@@ -12948,6 +12951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku ha Tomodachi Fan Disk: Kanwa, Sorekara | 403772 | [403772-boku-ha-tomodachi-fan-disk-kanwa-sorekara.json](./403772-boku-ha-tomodachi-fan-disk-kanwa-sorekara.json) |
 | Boku ha Tomodachi ga Sukunai Portable | 56491 | [56491-boku-ha-tomodachi-ga-sukunai-portable.json](./56491-boku-ha-tomodachi-ga-sukunai-portable.json) |
 | Boku ha Tomodachi: I Am Not Sweetheart | 403770 | [403770-boku-ha-tomodachi-i-am-not-sweetheart.json](./403770-boku-ha-tomodachi-i-am-not-sweetheart.json) |
+| Boku mo Dungeon ni Moguritai | 416267 | [416267-boku-mo-dungeon-ni-moguritai.json](./416267-boku-mo-dungeon-ni-moguritai.json) |
 | Boku mo Sekai wo Sukuitai | 344321 | [344321-boku-mo-sekai-wo-sukuitai.json](./344321-boku-mo-sekai-wo-sukuitai.json) |
 | Boku mo Sekai wo Sukuitai: Battle Tournament | 344322 | [344322-boku-mo-sekai-wo-sukuitai-battle-tournament.json](./344322-boku-mo-sekai-wo-sukuitai-battle-tournament.json) |
 | Boku ni Todoita Kimi no Koe | 98049 | [98049-boku-ni-todoita-kimi-no-koe.json](./98049-boku-ni-todoita-kimi-no-koe.json) |
@@ -17868,6 +17872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs | 299090 | [299090-bugs.json](./299090-bugs.json) |
 | Bugs | 332238 | [332238-bugs.json](./332238-bugs.json) |
 | Bugs | 397851 | [397851-bugs.json](./397851-bugs.json) |
+| Bugs & Birdies | 416204 | [416204-bugs-and-birdies.json](./416204-bugs-and-birdies.json) |
 | Bugs and Bullets | 235055 | [235055-bugs-and-bullets.json](./235055-bugs-and-bullets.json) |
 | Bugs Bunny | 198703 | [198703-bugs-bunny.json](./198703-bugs-bunny.json) |
 | Bugs Bunny | 280805 | [280805-bugs-bunny.json](./280805-bugs-bunny.json) |
