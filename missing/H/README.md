@@ -3990,6 +3990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hegemony III: Isle of Giants | 142896 | [142896-hegemony-iii-isle-of-giants.json](./142896-hegemony-iii-isle-of-giants.json) |
 | Hegemony III: The Eagle King | 142895 | [142895-hegemony-iii-the-eagle-king.json](./142895-hegemony-iii-the-eagle-king.json) |
 | Hegemony Rome: Rise of Caesar | 54099 | [54099-hegemony-rome-rise-of-caesar.json](./54099-hegemony-rome-rise-of-caesar.json) |
+| Hegemony Rome: The Rise of Caesar | 10406 | [10406-hegemony-rome-the-rise-of-caesar.json](./10406-hegemony-rome-the-rise-of-caesar.json) |
 | Hegemony Rome: The Rise of Caesar - Bannermen Pack | 265250 | [265250-hegemony-rome-the-rise-of-caesar-bannermen-pack.json](./265250-hegemony-rome-the-rise-of-caesar-bannermen-pack.json) |
 | Heggo | 356022 | [356022-heggo.json](./356022-heggo.json) |
 | Hegis' Grasp: Evil Resurrected | 55704 | [55704-hegis-grasp-evil-resurrected.json](./55704-hegis-grasp-evil-resurrected.json) |
@@ -4165,6 +4166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helicopter Sim - Hellfire Squadron | 88439 | [88439-helicopter-sim-hellfire-squadron.json](./88439-helicopter-sim-hellfire-squadron.json) |
 | Helicopter Sim Pro Hellfire | 101537 | [101537-helicopter-sim-pro-hellfire.json](./101537-helicopter-sim-pro-hellfire.json) |
 | Helicopter Simulator | 158621 | [158621-helicopter-simulator.json](./158621-helicopter-simulator.json) |
+| Helicopter Simulator 2014: Search and Rescue | 10407 | [10407-helicopter-simulator-2014-search-and-rescue.json](./10407-helicopter-simulator-2014-search-and-rescue.json) |
 | Helicopter Simulator 2015 | 95914 | [95914-helicopter-simulator-2015.json](./95914-helicopter-simulator-2015.json) |
 | Helicopter Simulator 2017 Premium | 87538 | [87538-helicopter-simulator-2017-premium.json](./87538-helicopter-simulator-2017-premium.json) |
 | Helicopter Simulator 2021 | 175003 | [175003-helicopter-simulator-2021.json](./175003-helicopter-simulator-2021.json) |
@@ -7015,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexuma | 265422 | [265422-hexuma.json](./265422-hexuma.json) |
 | Hexuma: Das Auge des Kal | 84271 | [84271-hexuma-das-auge-des-kal.json](./84271-hexuma-das-auge-des-kal.json) |
 | Hexurb | 158858 | [158858-hexurb.json](./158858-hexurb.json) |
+| Hexus | 10410 | [10410-hexus.json](./10410-hexus.json) |
 | Hexvade | 75903 | [75903-hexvade.json](./75903-hexvade.json) |
 | Hexwell | 418573 | [418573-hexwell.json](./418573-hexwell.json) |
 | HexWind | 365690 | [365690-hexwind.json](./365690-hexwind.json) |
@@ -8000,6 +8003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Stakes on the Vegas Strip: Poker Edition | 52236 | [52236-high-stakes-on-the-vegas-strip-poker-edition.json](./52236-high-stakes-on-the-vegas-strip-poker-edition.json) |
 | High Stakes: Texas Hold'Em | 67219 | [67219-high-stakes-texas-holdem.json](./67219-high-stakes-texas-holdem.json) |
 | High Steel | 12610 | [12610-high-steel.json](./12610-high-steel.json) |
+| High Strangeness | 10093 | [10093-high-strangeness.json](./10093-high-strangeness.json) |
 | High Strategy: Urukon | 132585 | [132585-high-strategy-urukon.json](./132585-high-strategy-urukon.json) |
 | High Tail Hall | 130045 | [130045-high-tail-hall.json](./130045-high-tail-hall.json) |
 | High Templar VR | 36713 | [36713-high-templar-vr.json](./36713-high-templar-vr.json) |
