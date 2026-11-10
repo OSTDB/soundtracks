@@ -8223,6 +8223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Prix | 392844 | [392844-grand-prix.json](./392844-grand-prix.json) |
 | Grand Prix | 40611 | [40611-grand-prix.json](./40611-grand-prix.json) |
 | Grand Prix / Demolition Derby | 169270 | [169270-grand-prix-demolition-derby.json](./169270-grand-prix-demolition-derby.json) |
+| Grand Prix 2 | 728 | [728-grand-prix-2.json](./728-grand-prix-2.json) |
 | Grand Prix 3 | 727 | [727-grand-prix-3.json](./727-grand-prix-3.json) |
 | Grand Prix 3 Season 2000 | 57640 | [57640-grand-prix-3-season-2000.json](./57640-grand-prix-3-season-2000.json) |
 | Grand Prix 500 2 | 80645 | [80645-grand-prix-500-2.json](./80645-grand-prix-500-2.json) |
@@ -10262,6 +10263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Breakers | 19750 | [19750-ground-breakers.json](./19750-ground-breakers.json) |
 | Ground Control | 734 | [734-ground-control.json](./734-ground-control.json) |
 | Ground Control Anthology | 30240 | [30240-ground-control-anthology.json](./30240-ground-control-anthology.json) |
+| Ground Control II: Operation Exodus | 735 | [735-ground-control-ii-operation-exodus.json](./735-ground-control-ii-operation-exodus.json) |
 | Ground Control II: Operation Exodus - Special Edition | 51829 | [51829-ground-control-ii-operation-exodus-special-edition.json](./51829-ground-control-ii-operation-exodus-special-edition.json) |
 | Ground Control Simulator | 25528 | [25528-ground-control-simulator.json](./25528-ground-control-simulator.json) |
 | Ground Control: Dark Conspiracy | 8786 | [8786-ground-control-dark-conspiracy.json](./8786-ground-control-dark-conspiracy.json) |
