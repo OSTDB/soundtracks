@@ -1371,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dariusburst | 18193 | [18193-dariusburst.json](./18193-dariusburst.json) |
 | Dariusburst: Another Chronicle | 93636 | [93636-dariusburst-another-chronicle.json](./93636-dariusburst-another-chronicle.json) |
 | Dariusburst: Another Chronicle EX | 138014 | [138014-dariusburst-another-chronicle-ex.json](./138014-dariusburst-another-chronicle-ex.json) |
+| Dariusburst: Another Chronicle EX+ | 145313 | [145313-dariusburst-another-chronicle-ex.json](./145313-dariusburst-another-chronicle-ex.json) |
 | Dariusburst: Chronicle Saviours | 20090 | [20090-dariusburst-chronicle-saviours.json](./20090-dariusburst-chronicle-saviours.json) |
 | Dariusburst: Chronicle Saviours - Battle Garegga | 168180 | [168180-dariusburst-chronicle-saviours-battle-garegga.json](./168180-dariusburst-chronicle-saviours-battle-garegga.json) |
 | Dariusburst: Chronicle Saviours - Core + Taito & Sega Packs | 222397 | [222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json](./222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json) |
@@ -2497,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darts Frenzy | 280785 | [280785-darts-frenzy.json](./280785-darts-frenzy.json) |
 | Darts Match | 58143 | [58143-darts-match.json](./58143-darts-match.json) |
 | Darts Match 2 | 58142 | [58142-darts-match-2.json](./58142-darts-match-2.json) |
+| Darts of Fury | 87584 | [87584-darts-of-fury.json](./87584-darts-of-fury.json) |
 | Darts Up | 85556 | [85556-darts-up.json](./85556-darts-up.json) |
 | Darts VR | 52091 | [52091-darts-vr.json](./52091-darts-vr.json) |
 | Darts VR2: Bullseye | 398027 | [398027-darts-vr2-bullseye.json](./398027-darts-vr2-bullseye.json) |
@@ -2688,6 +2690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data East's Hoops | 97330 | [97330-data-easts-hoops.json](./97330-data-easts-hoops.json) |
 | Data Fantasy | 392127 | [392127-data-fantasy.json](./392127-data-fantasy.json) |
 | Data Garden | 272773 | [272773-data-garden.json](./272773-data-garden.json) |
+| Data Hacker Initiation | 10167 | [10167-data-hacker-initiation.json](./10167-data-hacker-initiation.json) |
 | Data Hacker: Corruption | 17954 | [17954-data-hacker-corruption.json](./17954-data-hacker-corruption.json) |
 | Data Hacker: Reboot | 10168 | [10168-data-hacker-reboot.json](./10168-data-hacker-reboot.json) |
 | Data Link: Cyberpunk Racing | 234328 | [234328-data-link-cyberpunk-racing.json](./234328-data-link-cyberpunk-racing.json) |
@@ -4426,6 +4429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Rooms of Death: King Dugan's Dungeon | 69156 | [69156-deadly-rooms-of-death-king-dugans-dungeon.json](./69156-deadly-rooms-of-death-king-dugans-dungeon.json) |
 | Deadly Runner | 367562 | [367562-deadly-runner.json](./367562-deadly-runner.json) |
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
+| Deadly Sin 2 | 9819 | [9819-deadly-sin-2.json](./9819-deadly-sin-2.json) |
 | Deadly Sin: Shining Faith | 53964 | [53964-deadly-sin-shining-faith.json](./53964-deadly-sin-shining-faith.json) |
 | Deadly Skies | 22730 | [22730-deadly-skies.json](./22730-deadly-skies.json) |
 | Deadly Skies | 78532 | [78532-deadly-skies.json](./78532-deadly-skies.json) |
@@ -6793,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Hunter | 299350 | [299350-demon-hunter.json](./299350-demon-hunter.json) |
 | Demon Hunter | 31217 | [31217-demon-hunter.json](./31217-demon-hunter.json) |
 | Demon Hunter 2: New Chapter | 32774 | [32774-demon-hunter-2-new-chapter.json](./32774-demon-hunter-2-new-chapter.json) |
+| Demon Hunter 4: Riddles of Light | 88000 | [88000-demon-hunter-4-riddles-of-light.json](./88000-demon-hunter-4-riddles-of-light.json) |
 | Demon Hunter 5: Ascendance | 116856 | [116856-demon-hunter-5-ascendance.json](./116856-demon-hunter-5-ascendance.json) |
 | Demon Hunter Collection | 52892 | [52892-demon-hunter-collection.json](./52892-demon-hunter-collection.json) |
 | Demon Hunter High School | 210607 | [210607-demon-hunter-high-school.json](./210607-demon-hunter-high-school.json) |
@@ -9449,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Dig Boom | 235417 | [235417-dig-dig-boom.json](./235417-dig-dig-boom.json) |
 | Dig Dig Burrito! | 391996 | [391996-dig-dig-burrito.json](./391996-dig-dig-burrito.json) |
 | Dig Dirt | 278462 | [278462-dig-dirt.json](./278462-dig-dirt.json) |
+| Dig Dog | 87678 | [87678-dig-dog.json](./87678-dig-dog.json) |
 | Dig Dogs: Streetbusters | 50160 | [50160-dig-dogs-streetbusters.json](./50160-dig-dogs-streetbusters.json) |
 | Dig Down | 368689 | [368689-dig-down.json](./368689-dig-down.json) |
 | Dig Dug | 218770 | [218770-dig-dug.json](./218770-dig-dug.json) |
@@ -9588,6 +9594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diggy | 179271 | [179271-diggy.json](./179271-diggy.json) |
 | Diggy Diggy Dwarf | 269388 | [269388-diggy-diggy-dwarf.json](./269388-diggy-diggy-dwarf.json) |
 | Diggy: Gold Rush | 248098 | [248098-diggy-gold-rush.json](./248098-diggy-gold-rush.json) |
+| Diggy's Adventure | 86963 | [86963-diggys-adventure.json](./86963-diggys-adventure.json) |
 | Digi Fighters | 392428 | [392428-digi-fighters.json](./392428-digi-fighters.json) |
 | Digi Pool | 70341 | [70341-digi-pool.json](./70341-digi-pool.json) |
 | Digi-Dodgy | 336676 | [336676-digi-dodgy.json](./336676-digi-dodgy.json) |
@@ -10001,6 +10008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinky Rinky | 231610 | [231610-dinky-rinky.json](./231610-dinky-rinky.json) |
 | Dinner at Suzanna's | 184667 | [184667-dinner-at-suzannas.json](./184667-dinner-at-suzannas.json) |
 | Dinner Bell | 60005 | [60005-dinner-bell.json](./60005-dinner-bell.json) |
+| Dinner Date | 9822 | [9822-dinner-date.json](./9822-dinner-date.json) |
 | Dinner Defenders | 295489 | [295489-dinner-defenders.json](./295489-dinner-defenders.json) |
 | Dinner Etiquette VR | 160138 | [160138-dinner-etiquette-vr.json](./160138-dinner-etiquette-vr.json) |
 | Dinner for Pigeons | 168385 | [168385-dinner-for-pigeons.json](./168385-dinner-for-pigeons.json) |
@@ -11359,6 +11367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissection | 132950 | [132950-dissection.json](./132950-dissection.json) |
 | Dissection Simulator: Dogfish Edition | 171575 | [171575-dissection-simulator-dogfish-edition.json](./171575-dissection-simulator-dogfish-edition.json) |
 | Dissection Simulator: Frog Edition | 171707 | [171707-dissection-simulator-frog-edition.json](./171707-dissection-simulator-frog-edition.json) |
+| Dissembler | 86592 | [86592-dissembler.json](./86592-dissembler.json) |
 | Dissension | 202720 | [202720-dissension.json](./202720-dissension.json) |
 | Dissent | 202751 | [202751-dissent.json](./202751-dissent.json) |
 | Dissent on Mars | 262829 | [262829-dissent-on-mars.json](./262829-dissent-on-mars.json) |
@@ -15610,6 +15619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Chase | 385406 | [385406-dragon-chase.json](./385406-dragon-chase.json) |
 | Dragon Chronicles: Black Tears | 290993 | [290993-dragon-chronicles-black-tears.json](./290993-dragon-chronicles-black-tears.json) |
 | Dragon City 2 | 188270 | [188270-dragon-city-2.json](./188270-dragon-city-2.json) |
+| Dragon City Mobile | 87351 | [87351-dragon-city-mobile.json](./87351-dragon-city-mobile.json) |
 | Dragon City X Shitei | 282748 | [282748-dragon-city-x-shitei.json](./282748-dragon-city-x-shitei.json) |
 | Dragon Clicker | 312170 | [312170-dragon-clicker.json](./312170-dragon-clicker.json) |
 | Dragon Coins | 63337 | [63337-dragon-coins.json](./63337-dragon-coins.json) |
@@ -17704,6 +17714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DROD: The Second Sky | 8823 | [8823-drod-the-second-sky.json](./8823-drod-the-second-sky.json) |
 | Drogna | 13709 | [13709-drogna.json](./13709-drogna.json) |
 | Droian | 319220 | [319220-droian.json](./319220-droian.json) |
+| Droid Assault | 9704 | [9704-droid-assault.json](./9704-droid-assault.json) |
 | Droid Death VR | 219762 | [219762-droid-death-vr.json](./219762-droid-death-vr.json) |
 | Droid Dreams | 133442 | [133442-droid-dreams.json](./133442-droid-dreams.json) |
 | Droid Escape | 192930 | [192930-droid-escape.json](./192930-droid-escape.json) |
