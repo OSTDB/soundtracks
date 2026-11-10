@@ -4049,6 +4049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6008,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iridescent Crown | 350515 | [350515-iridescent-crown.json](./350515-iridescent-crown.json) |
 | Iridio | 293885 | [293885-iridio.json](./293885-iridio.json) |
 | Iridion 3D | 6449 | [6449-iridion-3d.json](./6449-iridion-3d.json) |
+| Iridion II | 6450 | [6450-iridion-ii.json](./6450-iridion-ii.json) |
 | Iridis Alpha | 28570 | [28570-iridis-alpha.json](./28570-iridis-alpha.json) |
 | Iridium | 132994 | [132994-iridium.json](./132994-iridium.json) |
 | Iridium Runners | 21504 | [21504-iridium-runners.json](./21504-iridium-runners.json) |
@@ -6991,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Locked | 407791 | [407791-its-locked.json](./407791-its-locked.json) |
 | It's Mealtime! | 145505 | [145505-its-mealtime.json](./145505-its-mealtime.json) |
 | It's Mealtime! | 167247 | [167247-its-mealtime.json](./167247-its-mealtime.json) |
+| It's Mr. Pants | 6355 | [6355-its-mr-pants.json](./6355-its-mr-pants.json) |
 | It's Not A Moon | 112447 | [112447-its-not-a-moon.json](./112447-its-not-a-moon.json) |
 | It's Not About the End | 172273 | [172273-its-not-about-the-end.json](./172273-its-not-about-the-end.json) |
 | It's Not Like I LIke You | 354538 | [354538-its-not-like-i-like-you.json](./354538-its-not-like-i-like-you.json) |
