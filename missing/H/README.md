@@ -3371,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headshot! | 365725 | [365725-headshot.json](./365725-headshot.json) |
 | Headsnatchers | 95026 | [95026-headsnatchers.json](./95026-headsnatchers.json) |
 | Headspace | 385699 | [385699-headspace.json](./385699-headspace.json) |
+| Headspace Reverie | 417240 | [417240-headspace-reverie.json](./417240-headspace-reverie.json) |
 | Headspace XR | 317732 | [317732-headspace-xr.json](./317732-headspace-xr.json) |
 | Headspace: Unwind Your Mind | 322497 | [322497-headspace-unwind-your-mind.json](./322497-headspace-unwind-your-mind.json) |
 | Headspun: Dazed Edition | 134664 | [134664-headspun-dazed-edition.json](./134664-headspun-dazed-edition.json) |
@@ -3931,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Trucking | 271698 | [271698-heavy-trucking.json](./271698-heavy-trucking.json) |
 | Heavy Unit | 46859 | [46859-heavy-unit.json](./46859-heavy-unit.json) |
 | Heavy Unit: Mega Drive Special | 4495 | [4495-heavy-unit-mega-drive-special.json](./4495-heavy-unit-mega-drive-special.json) |
+| Heavy Wake | 417231 | [417231-heavy-wake.json](./417231-heavy-wake.json) |
 | Heavy Water Jogger | 73812 | [73812-heavy-water-jogger.json](./73812-heavy-water-jogger.json) |
 | Heavy Weapon | 20397 | [20397-heavy-weapon.json](./20397-heavy-weapon.json) |
 | Heavy Weapon Deluxe | 27812 | [27812-heavy-weapon-deluxe.json](./27812-heavy-weapon-deluxe.json) |
@@ -4036,6 +4038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heileen: Sail Away | 50442 | [50442-heileen-sail-away.json](./50442-heileen-sail-away.json) |
 | Heiligenstadt no Uta | 131908 | [131908-heiligenstadt-no-uta.json](./131908-heiligenstadt-no-uta.json) |
 | Heim | 131959 | [131959-heim.json](./131959-heim.json) |
+| Heima | 417226 | [417226-heima.json](./417226-heima.json) |
 | Heimdall | 5393 | [5393-heimdall.json](./5393-heimdall.json) |
 | Heimdall 2: Into the Hall of Worlds | 2509 | [2509-heimdall-2-into-the-hall-of-worlds.json](./2509-heimdall-2-into-the-hall-of-worlds.json) |
 | Heimdallr | 174871 | [174871-heimdallr.json](./174871-heimdallr.json) |
@@ -10573,6 +10576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Sweeper 2 | 130735 | [130735-horny-sweeper-2.json](./130735-horny-sweeper-2.json) |
 | Horny Teachers Want to Fuck | 271010 | [271010-horny-teachers-want-to-fuck.json](./271010-horny-teachers-want-to-fuck.json) |
 | Horny Villa | 301642 | [301642-horny-villa.json](./301642-horny-villa.json) |
+| Horny Waifu: Kaiju Strike | 417219 | [417219-horny-waifu-kaiju-strike.json](./417219-horny-waifu-kaiju-strike.json) |
 | Horny Warp: Hentai Fantasy | 343372 | [343372-horny-warp-hentai-fantasy.json](./343372-horny-warp-hentai-fantasy.json) |
 | Horny Witch Hunt | 212200 | [212200-horny-witch-hunt.json](./212200-horny-witch-hunt.json) |
 | Horny Witch: Crusade | 224960 | [224960-horny-witch-crusade.json](./224960-horny-witch-crusade.json) |
