@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamoneo | 201362 | [201362-lamoneo.json](./201362-lamoneo.json) |
 | Lamp and Vamp | 240111 | [240111-lamp-and-vamp.json](./240111-lamp-and-vamp.json) |
 | Lamp Chronicle | 143840 | [143840-lamp-chronicle.json](./143840-lamp-chronicle.json) |
+| Lamp Clicker | 409923 | [409923-lamp-clicker.json](./409923-lamp-clicker.json) |
 | Lamp Head | 29284 | [29284-lamp-head.json](./29284-lamp-head.json) |
 | Lamp Man Down | 109379 | [109379-lamp-man-down.json](./109379-lamp-man-down.json) |
 | Lamp of Aladdin | 23922 | [23922-lamp-of-aladdin.json](./23922-lamp-of-aladdin.json) |
