@@ -5031,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Guardians of the Galaxy + Marvel's Avengers | 200836 | [200836-marvels-guardians-of-the-galaxy-marvels-avengers.json](./200836-marvels-guardians-of-the-galaxy-marvels-avengers.json) |
 | Marvel's Guardians of the Galaxy: Cloud Version | 152370 | [152370-marvels-guardians-of-the-galaxy-cloud-version.json](./152370-marvels-guardians-of-the-galaxy-cloud-version.json) |
 | Marvel's Guardians of the Galaxy: Cosmic Deluxe Edition | 153019 | [153019-marvels-guardians-of-the-galaxy-cosmic-deluxe-edition.json](./153019-marvels-guardians-of-the-galaxy-cosmic-deluxe-edition.json) |
+| Marvel's Guardians of the Galaxy: Digital Deluxe Edition | 169197 | [169197-marvels-guardians-of-the-galaxy-digital-deluxe-edition.json](./169197-marvels-guardians-of-the-galaxy-digital-deluxe-edition.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 1: Tangled Up in Blue | 127039 | [127039-marvels-guardians-of-the-galaxy-the-telltale-series-episode-1-tangled-up-in-blue.json](./127039-marvels-guardians-of-the-galaxy-the-telltale-series-episode-1-tangled-up-in-blue.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 2: Under Pressure | 127040 | [127040-marvels-guardians-of-the-galaxy-the-telltale-series-episode-2-under-pressure.json](./127040-marvels-guardians-of-the-galaxy-the-telltale-series-episode-2-under-pressure.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 3: More than a Feeling | 127041 | [127041-marvels-guardians-of-the-galaxy-the-telltale-series-episode-3-more-than-a-feeling.json](./127041-marvels-guardians-of-the-galaxy-the-telltale-series-episode-3-more-than-a-feeling.json) |
@@ -13987,6 +13988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
 | Mir | 148952 | [148952-mir.json](./148952-mir.json) |
 | Mir | 363939 | [363939-mir.json](./363939-mir.json) |
+| Mir 4 | 162235 | [162235-mir-4.json](./162235-mir-4.json) |
 | Mir Korabley | 243611 | [243611-mir-korabley.json](./243611-mir-korabley.json) |
 | Mir M | 208749 | [208749-mir-m.json](./208749-mir-m.json) |
 | Mir Tankov | 252168 | [252168-mir-tankov.json](./252168-mir-tankov.json) |
@@ -15825,6 +15827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mompreneur: Pizza Cooking Life Sim | 127829 | [127829-mompreneur-pizza-cooking-life-sim.json](./127829-mompreneur-pizza-cooking-life-sim.json) |
 | Mon | 185461 | [185461-mon.json](./185461-mon.json) |
 | Mon Amour | 135425 | [135425-mon-amour.json](./135425-mon-amour.json) |
+| Mon Bazou | 185724 | [185724-mon-bazou.json](./185724-mon-bazou.json) |
 | Mon Coach Personnel, J'enrichis Mon Vocabulaire | 149278 | [149278-mon-coach-personnel-jenrichis-mon-vocabulaire.json](./149278-mon-coach-personnel-jenrichis-mon-vocabulaire.json) |
 | Mon Coach Personnel: J'ameliore Mon Anglais | 210124 | [210124-mon-coach-personnel-jameliore-mon-anglais.json](./210124-mon-coach-personnel-jameliore-mon-anglais.json) |
 | Mon Poulain 3D | 147219 | [147219-mon-poulain-3d.json](./147219-mon-poulain-3d.json) |
@@ -16207,6 +16210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monophobia | 395993 | [395993-monophobia.json](./395993-monophobia.json) |
 | Monopolist: Technological Revolution | 105143 | [105143-monopolist-technological-revolution.json](./105143-monopolist-technological-revolution.json) |
 | Monopolka | 68592 | [68592-monopolka.json](./68592-monopolka.json) |
+| Monopoly | 122241 | [122241-monopoly.json](./122241-monopoly.json) |
 | Monopoly | 131463 | [131463-monopoly.json](./131463-monopoly.json) |
 | Monopoly | 131548 | [131548-monopoly.json](./131548-monopoly.json) |
 | Monopoly | 171236 | [171236-monopoly.json](./171236-monopoly.json) |
@@ -16241,6 +16245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly IO | 74747 | [74747-monopoly-io.json](./74747-monopoly-io.json) |
 | Monopoly Junior | 295935 | [295935-monopoly-junior.json](./295935-monopoly-junior.json) |
 | Monopoly Junior | 73166 | [73166-monopoly-junior.json](./73166-monopoly-junior.json) |
+| Monopoly Madness | 178279 | [178279-monopoly-madness.json](./178279-monopoly-madness.json) |
 | Monopoly Madness: Dino City | 230709 | [230709-monopoly-madness-dino-city.json](./230709-monopoly-madness-dino-city.json) |
 | Monopoly Millionaire | 64475 | [64475-monopoly-millionaire.json](./64475-monopoly-millionaire.json) |
 | Monopoly One | 55944 | [55944-monopoly-one.json](./55944-monopoly-one.json) |
@@ -21399,6 +21404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Koo | 206771 | [206771-my-friend-koo.json](./206771-my-friend-koo.json) |
 | My Friend Pedro x Shotgun Cop Man Bundle | 349610 | [349610-my-friend-pedro-x-shotgun-cop-man-bundle.json](./349610-my-friend-pedro-x-shotgun-cop-man-bundle.json) |
 | My Friend Pedro: Arena | 289599 | [289599-my-friend-pedro-arena.json](./289599-my-friend-pedro-arena.json) |
+| My Friend Pedro: Ripe for Revenge | 159285 | [159285-my-friend-pedro-ripe-for-revenge.json](./159285-my-friend-pedro-ripe-for-revenge.json) |
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
 | My Friend Peppa Pig: Pirate Adventures | 195617 | [195617-my-friend-peppa-pig-pirate-adventures.json](./195617-my-friend-peppa-pig-pirate-adventures.json) |
 | My Friend Spooner | 22137 | [22137-my-friend-spooner.json](./22137-my-friend-spooner.json) |
