@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satan's Puzzle 666 | 195422 | [195422-satans-puzzle-666.json](./195422-satans-puzzle-666.json) |
 | Satan's Zombies | 233230 | [233230-satans-zombies.json](./233230-satans-zombies.json) |
 | Satanic | 320733 | [320733-satanic.json](./320733-satanic.json) |
+| Satanic Panic | 413974 | [413974-satanic-panic.json](./413974-satanic-panic.json) |
 | Satanic Panic 666 | 159779 | [159779-satanic-panic-666.json](./159779-satanic-panic-666.json) |
 | Satanislas | 250027 | [250027-satanislas.json](./250027-satanislas.json) |
 | Satanist | 32517 | [32517-satanist.json](./32517-satanist.json) |
@@ -2390,6 +2391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Gears | 319685 | [319685-savage-gears.json](./319685-savage-gears.json) |
 | Savage Girls | 272940 | [272940-savage-girls.json](./272940-savage-girls.json) |
 | Savage Halloween | 145826 | [145826-savage-halloween.json](./145826-savage-halloween.json) |
+| Savage Horizons | 414013 | [414013-savage-horizons.json](./414013-savage-horizons.json) |
 | Savage Hunt: Dragon's Prophet | 71582 | [71582-savage-hunt-dragons-prophet.json](./71582-savage-hunt-dragons-prophet.json) |
 | Savage Island | 18523 | [18523-savage-island.json](./18523-savage-island.json) |
 | Savage Island Series | 68961 | [68961-savage-island-series.json](./68961-savage-island-series.json) |
@@ -5839,6 +5841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
 | Senren Banka | 128513 | [128513-senren-banka.json](./128513-senren-banka.json) |
 | Senritsu no Stratus | 65953 | [65953-senritsu-no-stratus.json](./65953-senritsu-no-stratus.json) |
+| Senryaku Shidan: Tora! Tora! Tora! Rikusen-hen | 414196 | [414196-senryaku-shidan-tora-tora-tora-rikusen-hen.json](./414196-senryaku-shidan-tora-tora-tora-rikusen-hen.json) |
 | Sensational Studios: Underswap | 331772 | [331772-sensational-studios-underswap.json](./331772-sensational-studios-underswap.json) |
 | Sensations | 252733 | [252733-sensations.json](./252733-sensations.json) |
 | Sensations | 355882 | [355882-sensations.json](./355882-sensations.json) |
@@ -8720,6 +8723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Hayarigami: Secret Club | 100817 | [100817-shin-hayarigami-secret-club.json](./100817-shin-hayarigami-secret-club.json) |
 | Shin Hisui no Shizuku: Hiiro no Kakera 2 DS | 124278 | [124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json](./124278-shin-hisui-no-shizuku-hiiro-no-kakera-2-ds.json) |
 | Shin Ikkaku Senkin | 38251 | [38251-shin-ikkaku-senkin.json](./38251-shin-ikkaku-senkin.json) |
+| Shin Jinrui Complex | 413997 | [413997-shin-jinrui-complex.json](./413997-shin-jinrui-complex.json) |
 | Shin Kaitei Gunkan: Koutetsu no Kodoku | 400898 | [400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json](./400898-shin-kaitei-gunkan-koutetsu-no-kodoku.json) |
 | Shin Kaku Gi Kou and the 11 Destroyers | 110790 | [110790-shin-kaku-gi-kou-and-the-11-destroyers.json](./110790-shin-kaku-gi-kou-and-the-11-destroyers.json) |
 | Shin Kamai-tachi no Yoru: 11nin-me no Suspect | 43051 | [43051-shin-kamai-tachi-no-yoru-11nin-me-no-suspect.json](./43051-shin-kamai-tachi-no-yoru-11nin-me-no-suspect.json) |
@@ -10615,6 +10619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Hustle | 376488 | [376488-side-hustle.json](./376488-side-hustle.json) |
 | Side Hustle City | 364066 | [364066-side-hustle-city.json](./364066-side-hustle-city.json) |
 | Side Kicks! | 69322 | [69322-side-kicks.json](./69322-side-kicks.json) |
+| Side Out | 413981 | [413981-side-out.json](./413981-side-out.json) |
 | Side Pocket | 172699 | [172699-side-pocket.json](./172699-side-pocket.json) |
 | Side Pocket | 242351 | [242351-side-pocket.json](./242351-side-pocket.json) |
 | Side Pocket | 288104 | [288104-side-pocket.json](./288104-side-pocket.json) |
@@ -11221,6 +11226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sillouhettes of Phobos | 274212 | [274212-sillouhettes-of-phobos.json](./274212-sillouhettes-of-phobos.json) |
 | Silly Bandz | 10620 | [10620-silly-bandz.json](./10620-silly-bandz.json) |
 | Silly Billy | 295397 | [295397-silly-billy.json](./295397-silly-billy.json) |
+| Silly Bird Sequel | 414015 | [414015-silly-bird-sequel.json](./414015-silly-bird-sequel.json) |
 | Silly Employee | 279811 | [279811-silly-employee.json](./279811-silly-employee.json) |
 | Silly Frog | 261664 | [261664-silly-frog.json](./261664-silly-frog.json) |
 | Silly Linguine Cat Simulator Deluxe Online | 396383 | [396383-silly-linguine-cat-simulator-deluxe-online.json](./396383-silly-linguine-cat-simulator-deluxe-online.json) |
@@ -14689,6 +14695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot & Learn Hiragana | 312079 | [312079-slot-and-learn-hiragana.json](./312079-slot-and-learn-hiragana.json) |
 | Slot & Learn Kanji | 300832 | [300832-slot-and-learn-kanji.json](./300832-slot-and-learn-kanji.json) |
 | Slot & Learn Katakana | 403732 | [403732-slot-and-learn-katakana.json](./403732-slot-and-learn-katakana.json) |
+| Slot & Learn: World Flags | 413956 | [413956-slot-and-learn-world-flags.json](./413956-slot-and-learn-world-flags.json) |
 | Slot Advanture | 293031 | [293031-slot-advanture.json](./293031-slot-advanture.json) |
 | Slot Car HTR+ : 3D Simulation | 239896 | [239896-slot-car-htr-3d-simulation.json](./239896-slot-car-htr-3d-simulation.json) |
 | Slot Car Rivals | 230579 | [230579-slot-car-rivals.json](./230579-slot-car-rivals.json) |
@@ -15451,6 +15458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smudged | 184597 | [184597-smudged.json](./184597-smudged.json) |
 | Smug.le | 183875 | [183875-smug-le.json](./183875-smug-le.json) |
 | SmugForce | 229132 | [229132-smugforce.json](./229132-smugforce.json) |
+| Smugg.io | 413994 | [413994-smugg-io.json](./413994-smugg-io.json) |
 | Smuggle Buddies | 114861 | [114861-smuggle-buddies.json](./114861-smuggle-buddies.json) |
 | SmuggleCraft | 29489 | [29489-smugglecraft.json](./29489-smugglecraft.json) |
 | Smuggler City Simulator | 348143 | [348143-smuggler-city-simulator.json](./348143-smuggler-city-simulator.json) |
@@ -19289,6 +19297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcs: Siege Chronicles | 164126 | [164126-sorcs-siege-chronicles.json](./164126-sorcs-siege-chronicles.json) |
 | Sordwin: The Evertree Saga | 115214 | [115214-sordwin-the-evertree-saga.json](./115214-sordwin-the-evertree-saga.json) |
 | Sore | 74211 | [74211-sore.json](./74211-sore.json) |
+| Sore ha Maichiru Sakura no You ni | 413795 | [413795-sore-ha-maichiru-sakura-no-you-ni.json](./413795-sore-ha-maichiru-sakura-no-you-ni.json) |
 | Sore ha Maichiru Sakura no You ni: Re:birth | 368652 | [368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json](./368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json) |
 | Sore Ike! Anpanman: Hajimete Kaketa yo! Oboeta yo! Hiragana, Katakana: 50-on Board Kinou-tsuki | 300422 | [300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json](./300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json) |
 | Sore Ike!! Hanafuda Dojo | 43995 | [43995-sore-ike-hanafuda-dojo.json](./43995-sore-ike-hanafuda-dojo.json) |
@@ -21817,6 +21826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartoi Meadow | 149147 | [149147-spartoi-meadow.json](./149147-spartoi-meadow.json) |
 | Spårvagn | 142361 | [142361-sparvagn.json](./142361-sparvagn.json) |
 | Sparx | 120508 | [120508-sparx.json](./120508-sparx.json) |
+| Spasibo: Spanking Simulation Box | 414008 | [414008-spasibo-spanking-simulation-box.json](./414008-spasibo-spanking-simulation-box.json) |
 | Spasms of Stupidity | 265725 | [265725-spasms-of-stupidity.json](./265725-spasms-of-stupidity.json) |
 | Spaß Taxi | 128396 | [128396-spa-taxi.json](./128396-spa-taxi.json) |
 | Spatial Ops | 324913 | [324913-spatial-ops.json](./324913-spatial-ops.json) |
@@ -22339,6 +22349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Blocks | 182968 | [182968-spell-blocks.json](./182968-spell-blocks.json) |
 | Spell Boy | 329093 | [329093-spell-boy.json](./329093-spell-boy.json) |
 | Spell Breakers | 233104 | [233104-spell-breakers.json](./233104-spell-breakers.json) |
+| Spell Breakers | 414019 | [414019-spell-breakers.json](./414019-spell-breakers.json) |
 | Spell Candle | 337299 | [337299-spell-candle.json](./337299-spell-candle.json) |
 | Spell Card Collection | 269456 | [269456-spell-card-collection.json](./269456-spell-card-collection.json) |
 | Spell Caster: Puzzle RPG | 233107 | [233107-spell-caster-puzzle-rpg.json](./233107-spell-caster-puzzle-rpg.json) |
@@ -24048,6 +24059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot the Difference 3D | 365000 | [365000-spot-the-difference-3d.json](./365000-spot-the-difference-3d.json) |
 | Spot the Difference Blitz | 241553 | [241553-spot-the-difference-blitz.json](./241553-spot-the-difference-blitz.json) |
 | Spot The Difference Food & Drink | 317272 | [317272-spot-the-difference-food-and-drink.json](./317272-spot-the-difference-food-and-drink.json) |
+| Spot the Difference Ukiyo-e: Fifty-Three Stations of the Toukaidou | 413955 | [413955-spot-the-difference-ukiyo-e-fifty-three-stations-of-the-toukaidou.json](./413955-spot-the-difference-ukiyo-e-fifty-three-stations-of-the-toukaidou.json) |
 | Spot The Difference: Anime Edition | 310426 | [310426-spot-the-difference-anime-edition.json](./310426-spot-the-difference-anime-edition.json) |
 | Spot The Difference: Christmas Edition | 322074 | [322074-spot-the-difference-christmas-edition.json](./322074-spot-the-difference-christmas-edition.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
@@ -24426,6 +24438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro the Dragon | 290718 | [290718-spyro-the-dragon.json](./290718-spyro-the-dragon.json) |
 | Spyro the Dragon 8 | 253357 | [253357-spyro-the-dragon-8.json](./253357-spyro-the-dragon-8.json) |
 | Spyro the Dragon: Cavern Escape | 350059 | [350059-spyro-the-dragon-cavern-escape.json](./350059-spyro-the-dragon-cavern-escape.json) |
+| Spyro the Dragon: Grim Garden | 413941 | [413941-spyro-the-dragon-grim-garden.json](./413941-spyro-the-dragon-grim-garden.json) |
 | Spyro the Dragon: Wings of Fury | 61505 | [61505-spyro-the-dragon-wings-of-fury.json](./61505-spyro-the-dragon-wings-of-fury.json) |
 | Spyro: A Hero's Tail | 1580 | [1580-spyro-a-heros-tail.json](./1580-spyro-a-heros-tail.json) |
 | Spyro: A Realm Beyond | 405090 | [405090-spyro-a-realm-beyond.json](./405090-spyro-a-realm-beyond.json) |
@@ -24972,6 +24985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stage 333 | 361105 | [361105-stage-333.json](./361105-stage-333.json) |
 | Stage Break Idle | 369549 | [369549-stage-break-idle.json](./369549-stage-break-idle.json) |
 | Stage Cleared | 319052 | [319052-stage-cleared.json](./319052-stage-cleared.json) |
+| Stage Fright | 413973 | [413973-stage-fright.json](./413973-stage-fright.json) |
 | Stage Fright | 81853 | [81853-stage-fright.json](./81853-stage-fright.json) |
 | Stage of Light | 116169 | [116169-stage-of-light.json](./116169-stage-of-light.json) |
 | Stage Presence | 34744 | [34744-stage-presence.json](./34744-stage-presence.json) |
@@ -29554,6 +29568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter Alpha 3 | 242651 | [242651-street-fighter-alpha-3.json](./242651-street-fighter-alpha-3.json) |
 | Street Fighter Alpha 3 MAX | 42876 | [42876-street-fighter-alpha-3-max.json](./42876-street-fighter-alpha-3-max.json) |
 | Street Fighter Alpha 3 Upper | 219058 | [219058-street-fighter-alpha-3-upper.json](./219058-street-fighter-alpha-3-upper.json) |
+| Street Fighter Alpha 3: Recompiled | 413915 | [413915-street-fighter-alpha-3-recompiled.json](./413915-street-fighter-alpha-3-recompiled.json) |
 | Street Fighter Alpha 3: Xiang Long | 213628 | [213628-street-fighter-alpha-3-xiang-long.json](./213628-street-fighter-alpha-3-xiang-long.json) |
 | Street Fighter Alpha Anthology | 14536 | [14536-street-fighter-alpha-anthology.json](./14536-street-fighter-alpha-anthology.json) |
 | Street Fighter Alpha: Warriors' Dreams | 229865 | [229865-street-fighter-alpha-warriors-dreams.json](./229865-street-fighter-alpha-warriors-dreams.json) |
@@ -30207,6 +30222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold Crusader II: The Princess and The Pig | 89217 | [89217-stronghold-crusader-ii-the-princess-and-the-pig.json](./89217-stronghold-crusader-ii-the-princess-and-the-pig.json) |
 | Stronghold Crusader II: The Templar &The Duke | 89219 | [89219-stronghold-crusader-ii-the-templar-and-the-duke.json](./89219-stronghold-crusader-ii-the-templar-and-the-duke.json) |
 | Stronghold Crusader: Definitive Edition - The Canary & The Trader | 371879 | [371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json](./371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json) |
+| Stronghold Crusader: Definitive Edition - The Surgeon and Baibars | 413989 | [413989-stronghold-crusader-definitive-edition-the-surgeon-and-baibars.json](./413989-stronghold-crusader-definitive-edition-the-surgeon-and-baibars.json) |
 | Stronghold Defender | 18321 | [18321-stronghold-defender.json](./18321-stronghold-defender.json) |
 | Stronghold Deluxe | 98961 | [98961-stronghold-deluxe.json](./98961-stronghold-deluxe.json) |
 | Stronghold HD | 86652 | [86652-stronghold-hd.json](./86652-stronghold-hd.json) |
@@ -33234,6 +33250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Lovely Planet | 27321 | [27321-super-lovely-planet.json](./27321-super-lovely-planet.json) |
 | Super LSG World | 268356 | [268356-super-lsg-world.json](./268356-super-lsg-world.json) |
 | Super Lucky's Tale | 37024 | [37024-super-luckys-tale.json](./37024-super-luckys-tale.json) |
+| Super Lucky's Tale Guardian Trials | 413962 | [413962-super-luckys-tale-guardian-trials.json](./413962-super-luckys-tale-guardian-trials.json) |
 | Super Lucky's Tale: Gilly Island | 171369 | [171369-super-luckys-tale-gilly-island.json](./171369-super-luckys-tale-gilly-island.json) |
 | Super Lueshi World | 268357 | [268357-super-lueshi-world.json](./268357-super-lueshi-world.json) |
 | Super Luigi 64 | 313392 | [313392-super-luigi-64.json](./313392-super-luigi-64.json) |
@@ -35223,6 +35240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbeat: Xonic | 12875 | [12875-superbeat-xonic.json](./12875-superbeat-xonic.json) |
 | Superbeat: Xonic - The X-Clusive Limited Edition | 89913 | [89913-superbeat-xonic-the-x-clusive-limited-edition.json](./89913-superbeat-xonic-the-x-clusive-limited-edition.json) |
 | Superbeat: Xonic - The X-Otic Limited Edition | 89912 | [89912-superbeat-xonic-the-x-otic-limited-edition.json](./89912-superbeat-xonic-the-x-otic-limited-edition.json) |
+| Superbike | 413993 | [413993-superbike.json](./413993-superbike.json) |
 | Superbike 2000 | 886 | [886-superbike-2000.json](./886-superbike-2000.json) |
 | Superbike Challenge | 41145 | [41145-superbike-challenge.json](./41145-superbike-challenge.json) |
 | Superbike GP | 43328 | [43328-superbike-gp.json](./43328-superbike-gp.json) |
@@ -35480,6 +35498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Cola Dash Deluxe! | 374667 | [374667-supermarket-cola-dash-deluxe.json](./374667-supermarket-cola-dash-deluxe.json) |
 | Supermarket Duck Dash | 221160 | [221160-supermarket-duck-dash.json](./221160-supermarket-duck-dash.json) |
 | Supermarket Electronic | 416069 | [416069-supermarket-electronic.json](./416069-supermarket-electronic.json) |
+| Supermarket Gas Station Simulator | 413957 | [413957-supermarket-gas-station-simulator.json](./413957-supermarket-gas-station-simulator.json) |
 | Supermarket Girl | 99693 | [99693-supermarket-girl.json](./99693-supermarket-girl.json) |
 | Supermarket Grocery Simulator | 319774 | [319774-supermarket-grocery-simulator.json](./319774-supermarket-grocery-simulator.json) |
 | Supermarket Guard Simulator | 393113 | [393113-supermarket-guard-simulator.json](./393113-supermarket-guard-simulator.json) |
@@ -36017,6 +36036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Kids | 338087 | [338087-survival-kids.json](./338087-survival-kids.json) |
 | Survival Kids 2: Dasshutsu!! Futago Shima! | 50001 | [50001-survival-kids-2-dasshutsu-futago-shima.json](./50001-survival-kids-2-dasshutsu-futago-shima.json) |
 | Survival Kingdom | 31154 | [31154-survival-kingdom.json](./31154-survival-kingdom.json) |
+| Survival Legion | 413958 | [413958-survival-legion.json](./413958-survival-legion.json) |
 | Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
 | Survival Maze | 99428 | [99428-survival-maze.json](./99428-survival-maze.json) |
 | Survival Messenger Adventure | 231453 | [231453-survival-messenger-adventure.json](./231453-survival-messenger-adventure.json) |
