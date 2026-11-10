@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G9: League of Aces | 295610 | [295610-g9-league-of-aces.json](./295610-g9-league-of-aces.json) |
 | GA Geijutsuka Art Design Class: Slapstick Wonderland | 241429 | [241429-ga-geijutsuka-art-design-class-slapstick-wonderland.json](./241429-ga-geijutsuka-art-design-class-slapstick-wonderland.json) |
 | GA1: An Assassin in Orlandes | 175757 | [175757-ga1-an-assassin-in-orlandes.json](./175757-ga1-an-assassin-in-orlandes.json) |
+| GAARL! Gabe's Action Arcade Roguelike | 418658 | [418658-gaarl-gabes-action-arcade-roguelike.json](./418658-gaarl-gabes-action-arcade-roguelike.json) |
 | Gaball Screen | 43851 | [43851-gaball-screen.json](./43851-gaball-screen.json) |
 | Gabang: Ultimate | 322444 | [322444-gabang-ultimate.json](./322444-gabang-ultimate.json) |
 | Gabbuchi | 114429 | [114429-gabbuchi.json](./114429-gabbuchi.json) |
@@ -5902,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Gooble!! | 135136 | [135136-go-go-gooble.json](./135136-go-go-gooble.json) |
 | Go! Go! Hamster Chef! | 249392 | [249392-go-go-hamster-chef.json](./249392-go-go-hamster-chef.json) |
 | Go! Go! Hitchhike | 92296 | [92296-go-go-hitchhike.json](./92296-go-go-hitchhike.json) |
+| Go! Go! Horse Run! | 418688 | [418688-go-go-horse-run.json](./418688-go-go-horse-run.json) |
 | Go! Go! Hypergrind | 3933 | [3933-go-go-hypergrind.json](./3933-go-go-hypergrind.json) |
 | Go! Go! Island Rescue! | 84500 | [84500-go-go-island-rescue.json](./84500-go-go-island-rescue.json) |
 | Go! Go! Kokopolo 3D | 56295 | [56295-go-go-kokopolo-3d.json](./56295-go-go-kokopolo-3d.json) |
