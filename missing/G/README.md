@@ -3341,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gent Stickman vs Evil Meat Hand | 290409 | [290409-gent-stickman-vs-evil-meat-hand.json](./290409-gent-stickman-vs-evil-meat-hand.json) |
 | Gentei Shooter | 296187 | [296187-gentei-shooter.json](./296187-gentei-shooter.json) |
 | Genting Party | 393123 | [393123-genting-party.json](./393123-genting-party.json) |
+| Gentle Classical Music Course for Grown-Ups | 396875 | [396875-gentle-classical-music-course-for-grown-ups.json](./396875-gentle-classical-music-course-for-grown-ups.json) |
 | Gentle Club | 166349 | [166349-gentle-club.json](./166349-gentle-club.json) |
 | Gentle Female Boss | 276660 | [276660-gentle-female-boss.json](./276660-gentle-female-boss.json) |
 | Gentle Officer | 311869 | [311869-gentle-officer.json](./311869-gentle-officer.json) |
@@ -3364,6 +3365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geo Bobs | 416347 | [416347-geo-bobs.json](./416347-geo-bobs.json) |
 | Geo Brain Boost! 50 U.S. States Silhouette Quiz | 399640 | [399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json](./399640-geo-brain-boost-50-u-s-states-silhouette-quiz.json) |
 | Geo Brain Boost! Japan’s 47 Prefectures Silhouette Quiz | 395656 | [395656-geo-brain-boost-japan-s-47-prefectures-silhouette-quiz.json](./395656-geo-brain-boost-japan-s-47-prefectures-silhouette-quiz.json) |
+| Geo Brain Boost! World Map Silhouette Quiz | 396874 | [396874-geo-brain-boost-world-map-silhouette-quiz.json](./396874-geo-brain-boost-world-map-silhouette-quiz.json) |
 | Geo Challenge | 342252 | [342252-geo-challenge.json](./342252-geo-challenge.json) |
 | Geo Composer | 89788 | [89788-geo-composer.json](./89788-geo-composer.json) |
 | Geo Fall | 88714 | [88714-geo-fall.json](./88714-geo-fall.json) |
@@ -6011,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
 | Goat on Boat | 176284 | [176284-goat-on-boat.json](./176284-goat-on-boat.json) |
 | Goat Out Of Hell | 367907 | [367907-goat-out-of-hell.json](./367907-goat-out-of-hell.json) |
+| Goat Out Of Hell: Lost Pets | 396860 | [396860-goat-out-of-hell-lost-pets.json](./396860-goat-out-of-hell-lost-pets.json) |
 | Goat over it | 143340 | [143340-goat-over-it.json](./143340-goat-over-it.json) |
 | Goat Runner | 84873 | [84873-goat-runner.json](./84873-goat-runner.json) |
 | Goat Simulator | 204123 | [204123-goat-simulator.json](./204123-goat-simulator.json) |
