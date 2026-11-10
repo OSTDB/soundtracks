@@ -3448,8 +3448,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorch | 147554 | [147554-scorch.json](./147554-scorch.json) |
 | Scorch | 30137 | [30137-scorch.json](./30137-scorch.json) |
 | Scorched 3D | 51249 | [51249-scorched-3d.json](./51249-scorched-3d.json) |
+| Scorched Dominion | 408454 | [408454-scorched-dominion.json](./408454-scorched-dominion.json) |
 | Scorched Earth | 14431 | [14431-scorched-earth.json](./14431-scorched-earth.json) |
 | Scorched Earth | 391683 | [391683-scorched-earth.json](./391683-scorched-earth.json) |
+| Scorched Incremental | 408458 | [408458-scorched-incremental.json](./408458-scorched-incremental.json) |
 | Scorched Lands | 401536 | [401536-scorched-lands.json](./401536-scorched-lands.json) |
 | Scorched Planet | 12906 | [12906-scorched-planet.json](./12906-scorched-planet.json) |
 | Scorched Sun | 375434 | [375434-scorched-sun.json](./375434-scorched-sun.json) |
@@ -7224,6 +7226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Strikers | 270194 | [270194-shadow-strikers.json](./270194-shadow-strikers.json) |
 | Shadow Strikers: Arena of Rivals | 336844 | [336844-shadow-strikers-arena-of-rivals.json](./336844-shadow-strikers-arena-of-rivals.json) |
 | Shadow Survival | 219602 | [219602-shadow-survival.json](./219602-shadow-survival.json) |
+| Shadow Switcher | 408486 | [408486-shadow-switcher.json](./408486-shadow-switcher.json) |
 | Shadow Tactics: Aiko's Choice - Deluxe Edition | 331844 | [331844-shadow-tactics-aikos-choice-deluxe-edition.json](./331844-shadow-tactics-aikos-choice-deluxe-edition.json) |
 | Shadow Tactics: Anniversary Bundle | 186540 | [186540-shadow-tactics-anniversary-bundle.json](./186540-shadow-tactics-anniversary-bundle.json) |
 | Shadow Tactics: Blades of the Shogun - Aiko’s Choice | 145060 | [145060-shadow-tactics-blades-of-the-shogun-aiko-s-choice.json](./145060-shadow-tactics-blades-of-the-shogun-aiko-s-choice.json) |
@@ -12710,6 +12713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeleton Crew | 122069 | [122069-skeleton-crew.json](./122069-skeleton-crew.json) |
 | Skeleton Dungeon | 360448 | [360448-skeleton-dungeon.json](./360448-skeleton-dungeon.json) |
 | Skeleton Farmer | 364013 | [364013-skeleton-farmer.json](./364013-skeleton-farmer.json) |
+| Skeleton Gelatin | 408472 | [408472-skeleton-gelatin.json](./408472-skeleton-gelatin.json) |
 | Skeleton Hotel | 247897 | [247897-skeleton-hotel.json](./247897-skeleton-hotel.json) |
 | Skeleton King | 163962 | [163962-skeleton-king.json](./163962-skeleton-king.json) |
 | Skeleton King | 210844 | [210844-skeleton-king.json](./210844-skeleton-king.json) |
@@ -17849,6 +17853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Amazing Room | 235411 | [235411-something-amazing-room.json](./235411-something-amazing-room.json) |
 | Something Ate My Alien | 116749 | [116749-something-ate-my-alien.json](./116749-something-ate-my-alien.json) |
 | Something Bad is on the Moon | 309207 | [309207-something-bad-is-on-the-moon.json](./309207-something-bad-is-on-the-moon.json) |
+| Something Beautiful | 408372 | [408372-something-beautiful.json](./408372-something-beautiful.json) |
 | Something Dark Beyond The Light | 353871 | [353871-something-dark-beyond-the-light.json](./353871-something-dark-beyond-the-light.json) |
 | Something Else | 283310 | [283310-something-else.json](./283310-something-else.json) |
 | Something for Someone Else | 121925 | [121925-something-for-someone-else.json](./121925-something-for-someone-else.json) |
@@ -22361,6 +22366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedy the Rollerskater: SMS Edition | 316535 | [316535-speedy-the-rollerskater-sms-edition.json](./316535-speedy-the-rollerskater-sms-edition.json) |
 | Speel | 316537 | [316537-speel.json](./316537-speel.json) |
 | Speer DX | 201699 | [201699-speer-dx.json](./201699-speer-dx.json) |
+| Speff | 408468 | [408468-speff.json](./408468-speff.json) |
 | Speglar | 291534 | [291534-speglar.json](./291534-speglar.json) |
 | Spek | 123733 | [123733-spek.json](./123733-spek.json) |
 | Spek.Takl | 118481 | [118481-spek-takl.json](./118481-spek-takl.json) |
@@ -24992,6 +24998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacko Level Pack | 409249 | [409249-stacko-level-pack.json](./409249-stacko-level-pack.json) |
 | Stackoban | 184351 | [184351-stackoban.json](./184351-stackoban.json) |
 | Stackopolis | 276778 | [276778-stackopolis.json](./276778-stackopolis.json) |
+| Stackpot! | 408551 | [408551-stackpot.json](./408551-stackpot.json) |
 | Stacks | 180589 | [180589-stacks.json](./180589-stacks.json) |
 | Stacks on Stacks (On Stacks) | 116077 | [116077-stacks-on-stacks-on-stacks.json](./116077-stacks-on-stacks-on-stacks.json) |
 | Stacks: Jungle! | 274552 | [274552-stacks-jungle.json](./274552-stacks-jungle.json) |
@@ -37331,6 +37338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Spirit | 158175 | [158175-sword-and-spirit.json](./158175-sword-and-spirit.json) |
 | Sword and Spoon | 101746 | [101746-sword-and-spoon.json](./101746-sword-and-spoon.json) |
 | Sword and Stone | 158309 | [158309-sword-and-stone.json](./158309-sword-and-stone.json) |
+| Sword and Sweep | 408469 | [408469-sword-and-sweep.json](./408469-sword-and-sweep.json) |
 | Sword Art Online Arcade: Deep Explorer | 110791 | [110791-sword-art-online-arcade-deep-explorer.json](./110791-sword-art-online-arcade-deep-explorer.json) |
 | Sword Art Online Eron | 342589 | [342589-sword-art-online-eron.json](./342589-sword-art-online-eron.json) |
 | Sword Art Online Re: Hollow Fragment | 11839 | [11839-sword-art-online-re-hollow-fragment.json](./11839-sword-art-online-re-hollow-fragment.json) |
@@ -37642,6 +37650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordsman on the Eternal Journey | 298811 | [298811-swordsman-on-the-eternal-journey.json](./298811-swordsman-on-the-eternal-journey.json) |
 | Swordsman Online | 9738 | [9738-swordsman-online.json](./9738-swordsman-online.json) |
 | Swordsman VR | 149881 | [149881-swordsman-vr.json](./149881-swordsman-vr.json) |
+| Swordsmith of Greyhaven | 408470 | [408470-swordsmith-of-greyhaven.json](./408470-swordsmith-of-greyhaven.json) |
 | SwordSpin: Arena of Blades | 290547 | [290547-swordspin-arena-of-blades.json](./290547-swordspin-arena-of-blades.json) |
 | Swordswallower | 149288 | [149288-swordswallower.json](./149288-swordswallower.json) |
 | Swordthrust | 22495 | [22495-swordthrust.json](./22495-swordthrust.json) |
