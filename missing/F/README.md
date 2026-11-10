@@ -9539,6 +9539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Gambit | 302313 | [302313-fools-gambit.json](./302313-fools-gambit.json) |
 | Fool's Gold | 244903 | [244903-fools-gold.json](./244903-fools-gold.json) |
 | Fool's Gold | 381029 | [381029-fools-gold.json](./381029-fools-gold.json) |
+| Fool's Gold | 421775 | [421775-fools-gold.json](./421775-fools-gold.json) |
 | Fool's Gold | 421811 | [421811-fools-gold.json](./421811-fools-gold.json) |
 | Fool's Paradise | 149410 | [149410-fools-paradise.json](./149410-fools-paradise.json) |
 | Fool's Paradise | 293051 | [293051-fools-paradise.json](./293051-fools-paradise.json) |
@@ -13743,6 +13744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fukakutei Sekai no Tantei Shinshi Virginal Vol. 1 | 122875 | [122875-fukakutei-sekai-no-tantei-shinshi-virginal-vol-1.json](./122875-fukakutei-sekai-no-tantei-shinshi-virginal-vol-1.json) |
 | Fukakutei Sekai no Tantei Shinshi Virginal Vol. 2 | 122876 | [122876-fukakutei-sekai-no-tantei-shinshi-virginal-vol-2.json](./122876-fukakutei-sekai-no-tantei-shinshi-virginal-vol-2.json) |
 | Fukakutei Sekai no Tantei Shinshi: Akugyou Futaasa no Jiken File | 122879 | [122879-fukakutei-sekai-no-tantei-shinshi-akugyou-futaasa-no-jiken-file.json](./122879-fukakutei-sekai-no-tantei-shinshi-akugyou-futaasa-no-jiken-file.json) |
+| Fukami | 421780 | [421780-fukami.json](./421780-fukami.json) |
 | Fukawa-chan | 170246 | [170246-fukawa-chan.json](./170246-fukawa-chan.json) |
 | Fukiage | 357708 | [357708-fukiage.json](./357708-fukiage.json) |
 | Fukoumori: Moririi no Unhappy Project | 269677 | [269677-fukoumori-moririi-no-unhappy-project.json](./269677-fukoumori-moririi-no-unhappy-project.json) |
