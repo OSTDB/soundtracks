@@ -8051,6 +8051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granado Espada M | 197354 | [197354-granado-espada-m.json](./197354-granado-espada-m.json) |
 | GranAge Online | 64192 | [64192-granage-online.json](./64192-granage-online.json) |
 | Granatha Eternal | 57557 | [57557-granatha-eternal.json](./57557-granatha-eternal.json) |
+| Granblue Fantasy | 13623 | [13623-granblue-fantasy.json](./13623-granblue-fantasy.json) |
 | Granblue Fantasy Versus Rising: Color Set 1 | 332820 | [332820-granblue-fantasy-versus-rising-color-set-1.json](./332820-granblue-fantasy-versus-rising-color-set-1.json) |
 | Granblue Fantasy Versus Rising: Color Set 2 | 332821 | [332821-granblue-fantasy-versus-rising-color-set-2.json](./332821-granblue-fantasy-versus-rising-color-set-2.json) |
 | Granblue Fantasy Versus Rising: Color Set 3 | 332822 | [332822-granblue-fantasy-versus-rising-color-set-3.json](./332822-granblue-fantasy-versus-rising-color-set-3.json) |
