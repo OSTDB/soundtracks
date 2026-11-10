@@ -5308,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interpoint | 115674 | [115674-interpoint.json](./115674-interpoint.json) |
 | Interpol | 148197 | [148197-interpol.json](./148197-interpol.json) |
 | Interpol 2: Most Wanted | 67409 | [67409-interpol-2-most-wanted.json](./67409-interpol-2-most-wanted.json) |
+| Interpol: The Trail of Dr. Chaos | 22551 | [22551-interpol-the-trail-of-dr-chaos.json](./22551-interpol-the-trail-of-dr-chaos.json) |
 | Interpose | 93337 | [93337-interpose.json](./93337-interpose.json) |
 | Interpret | 384333 | [384333-interpret.json](./384333-interpret.json) |
 | Interquel | 369370 | [369370-interquel.json](./369370-interquel.json) |
