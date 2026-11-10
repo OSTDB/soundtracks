@@ -13684,6 +13684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donuts in Space | 254060 | [254060-donuts-in-space.json](./254060-donuts-in-space.json) |
 | Donuts Runner | 251839 | [251839-donuts-runner.json](./251839-donuts-runner.json) |
 | Donuts! | 344801 | [344801-donuts.json](./344801-donuts.json) |
+| Doo-Daa | 413976 | [413976-doo-daa.json](./413976-doo-daa.json) |
 | Doobi's Adventure | 227694 | [227694-doobis-adventure.json](./227694-doobis-adventure.json) |
 | Doobie | 341112 | [341112-doobie.json](./341112-doobie.json) |
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
