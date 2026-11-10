@@ -7311,6 +7311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun | 3000 | [3000-shadowrun.json](./3000-shadowrun.json) |
 | Shadowrun | 7640 | [7640-shadowrun.json](./7640-shadowrun.json) |
 | Shadowrun | 78514 | [78514-shadowrun.json](./78514-shadowrun.json) |
+| Shadowrun Chronicles: Boston Lockdown | 10241 | [10241-shadowrun-chronicles-boston-lockdown.json](./10241-shadowrun-chronicles-boston-lockdown.json) |
 | Shadowrun Chronicles: Boston Lockdown - Deluxe Edition | 53605 | [53605-shadowrun-chronicles-boston-lockdown-deluxe-edition.json](./53605-shadowrun-chronicles-boston-lockdown-deluxe-edition.json) |
 | Shadowrun Chronicles: Boston Lockdown - Infected! | 171351 | [171351-shadowrun-chronicles-boston-lockdown-infected.json](./171351-shadowrun-chronicles-boston-lockdown-infected.json) |
 | Shadowrun Chronicles: Boston Lockdown - Missions | 193178 | [193178-shadowrun-chronicles-boston-lockdown-missions.json](./193178-shadowrun-chronicles-boston-lockdown-missions.json) |
@@ -12751,6 +12752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Run | 324974 | [324974-ski-run.json](./324974-ski-run.json) |
 | Ski Rush | 268828 | [268828-ski-rush.json](./268828-ski-rush.json) |
 | Ski Safari | 61082 | [61082-ski-safari.json](./61082-ski-safari.json) |
+| Ski Safari 2 | 87332 | [87332-ski-safari-2.json](./87332-ski-safari-2.json) |
 | Ski Safari: Adventure Time | 61083 | [61083-ski-safari-adventure-time.json](./61083-ski-safari-adventure-time.json) |
 | Ski Simulator: Winter Sports | 281906 | [281906-ski-simulator-winter-sports.json](./281906-ski-simulator-winter-sports.json) |
 | Ski Sniper | 36528 | [36528-ski-sniper.json](./36528-ski-sniper.json) |
@@ -20032,6 +20034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Age | 270423 | [270423-space-age.json](./270423-space-age.json) |
 | Space Age | 60095 | [60095-space-age.json](./60095-space-age.json) |
 | Space Age: Director's Cut | 293227 | [293227-space-age-directors-cut.json](./293227-space-age-directors-cut.json) |
+| Space Agency | 87721 | [87721-space-agency.json](./87721-space-agency.json) |
 | Space Agency 2138 | 223622 | [223622-space-agency-2138.json](./223622-space-agency-2138.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
 | Space Agent: 8 Artifacts | 158521 | [158521-space-agent-8-artifacts.json](./158521-space-agent-8-artifacts.json) |
@@ -20413,6 +20416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Frog! | 177350 | [177350-space-frog.json](./177350-space-frog.json) |
 | Space Frontier | 279529 | [279529-space-frontier.json](./279529-space-frontier.json) |
 | Space Frontier | 386380 | [386380-space-frontier.json](./386380-space-frontier.json) |
+| Space Frontier | 86968 | [86968-space-frontier.json](./86968-space-frontier.json) |
 | Space Frontier 2 | 101163 | [101163-space-frontier-2.json](./101163-space-frontier-2.json) |
 | Space Fuck! | 199193 | [199193-space-fuck.json](./199193-space-fuck.json) |
 | Space Fuel | 137754 | [137754-space-fuel.json](./137754-space-fuel.json) |
@@ -22440,6 +22444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunker | 4621 | [4621-spelunker.json](./4621-spelunker.json) |
 | Spelunker Black | 81451 | [81451-spelunker-black.json](./81451-spelunker-black.json) |
 | Spelunker HD | 45281 | [45281-spelunker-hd.json](./45281-spelunker-hd.json) |
+| Spelunker HD Deluxe | 145280 | [145280-spelunker-hd-deluxe.json](./145280-spelunker-hd-deluxe.json) |
 | Spelunker HD Deluxe: Limited Edition | 167149 | [167149-spelunker-hd-deluxe-limited-edition.json](./167149-spelunker-hd-deluxe-limited-edition.json) |
 | Spelunker HD: Ultimate Edition | 99946 | [99946-spelunker-hd-ultimate-edition.json](./99946-spelunker-hd-ultimate-edition.json) |
 | Spelunker II | 41096 | [41096-spelunker-ii.json](./41096-spelunker-ii.json) |
@@ -24243,6 +24248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spymaster | 235249 | [235249-spymaster.json](./235249-spymaster.json) |
 | Spymaster | 395813 | [395813-spymaster.json](./395813-spymaster.json) |
 | SpyNames | 151483 | [151483-spynames.json](./151483-spynames.json) |
+| SpyParty | 9598 | [9598-spyparty.json](./9598-spyparty.json) |
 | Spyragon | 227809 | [227809-spyragon.json](./227809-spyragon.json) |
 | Spyrazoid | 227833 | [227833-spyrazoid.json](./227833-spyrazoid.json) |
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
@@ -24699,6 +24705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack | 34669 | [34669-stack.json](./34669-stack.json) |
 | Stack 'em High | 86259 | [86259-stack-em-high.json](./86259-stack-em-high.json) |
 | Stack 'Em Up | 312826 | [312826-stack-em-up.json](./312826-stack-em-up.json) |
+| Stack & Crack | 87030 | [87030-stack-and-crack.json](./87030-stack-and-crack.json) |
 | Stack & Sigil | 421229 | [421229-stack-and-sigil.json](./421229-stack-and-sigil.json) |
 | Stack & Spell | 416348 | [416348-stack-and-spell.json](./416348-stack-and-spell.json) |
 | Stack & the Grumblepuff from Above | 286334 | [286334-stack-and-the-grumblepuff-from-above.json](./286334-stack-and-the-grumblepuff-from-above.json) |
@@ -31953,6 +31960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Beco World 2 | 267890 | [267890-super-beco-world-2.json](./267890-super-beco-world-2.json) |
 | Super Beco World 3 | 267892 | [267892-super-beco-world-3.json](./267892-super-beco-world-3.json) |
 | Super Bee | 41554 | [41554-super-bee.json](./41554-super-bee.json) |
+| Super Benbo Quest: Turbo Deluxe | 88179 | [88179-super-benbo-quest-turbo-deluxe.json](./88179-super-benbo-quest-turbo-deluxe.json) |
 | Super Bernie World | 132574 | [132574-super-bernie-world.json](./132574-super-bernie-world.json) |
 | Super Beta Tester | 335987 | [335987-super-beta-tester.json](./335987-super-beta-tester.json) |
 | Super Big 2 | 63331 | [63331-super-big-2.json](./63331-super-big-2.json) |
@@ -35453,6 +35461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supra Smash Bross Devolution | 265074 | [265074-supra-smash-bross-devolution.json](./265074-supra-smash-bross-devolution.json) |
 | Supra Smash Bross Devolution 2.22: You Can (Not) Be Serious | 316599 | [316599-supra-smash-bross-devolution-2-22-you-can-not-be-serious.json](./316599-supra-smash-bross-devolution-2-22-you-can-not-be-serious.json) |
 | Suprabac.io | 243380 | [243380-suprabac-io.json](./243380-suprabac-io.json) |
+| Supraball | 9563 | [9563-supraball.json](./9563-supraball.json) |
 | Supracore | 251854 | [251854-supracore.json](./251854-supracore.json) |
 | Supraland | 89354 | [89354-supraland.json](./89354-supraland.json) |
 | Supraland Crash | 143030 | [143030-supraland-crash.json](./143030-supraland-crash.json) |
@@ -37095,6 +37104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Master Story | 140896 | [140896-sword-master-story.json](./140896-sword-master-story.json) |
 | Sword n' Dragons | 275703 | [275703-sword-n-dragons.json](./275703-sword-n-dragons.json) |
 | Sword of Aragon | 72291 | [72291-sword-of-aragon.json](./72291-sword-of-aragon.json) |
+| Sword of Asumi | 9257 | [9257-sword-of-asumi.json](./9257-sword-of-asumi.json) |
 | Sword of Atlas | 188565 | [188565-sword-of-atlas.json](./188565-sword-of-atlas.json) |
 | Sword of Chaos | 59467 | [59467-sword-of-chaos.json](./59467-sword-of-chaos.json) |
 | Sword of Convallaria: For This World of Peace | 212438 | [212438-sword-of-convallaria-for-this-world-of-peace.json](./212438-sword-of-convallaria-for-this-world-of-peace.json) |
