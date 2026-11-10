@@ -11461,7 +11461,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissension | 202720 | [202720-dissension.json](./202720-dissension.json) |
 | Dissent | 202751 | [202751-dissent.json](./202751-dissent.json) |
 | Dissent on Mars | 262829 | [262829-dissent-on-mars.json](./262829-dissent-on-mars.json) |
+| Dissida Final Fantasy NT: Locke Cole Starter Pack | 404506 | [404506-dissida-final-fantasy-nt-locke-cole-starter-pack.json](./404506-dissida-final-fantasy-nt-locke-cole-starter-pack.json) |
 | Dissida Final Fantasy NT: Riona Heartlilly Starter Pack | 404507 | [404507-dissida-final-fantasy-nt-riona-heartlilly-starter-pack.json](./404507-dissida-final-fantasy-nt-riona-heartlilly-starter-pack.json) |
+| Dissida Final Fantasy NT: Vayne Carudas Solidor Starter Pack | 404505 | [404505-dissida-final-fantasy-nt-vayne-carudas-solidor-starter-pack.json](./404505-dissida-final-fantasy-nt-vayne-carudas-solidor-starter-pack.json) |
 | Dissida Final Fantsy NT: Tifa Lockhart Starter Pack | 383762 | [383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json](./383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json) |
 | Dissidia 012 Final Fantasy | 24288 | [24288-dissidia-012-final-fantasy.json](./24288-dissidia-012-final-fantasy.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
@@ -19623,6 +19625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Brooms | 183447 | [183447-dungeons-and-brooms.json](./183447-dungeons-and-brooms.json) |
 | Dungeons & Cardboard | 290898 | [290898-dungeons-and-cardboard.json](./290898-dungeons-and-cardboard.json) |
 | Dungeons & Cocks | 155918 | [155918-dungeons-and-cocks.json](./155918-dungeons-and-cocks.json) |
+| Dungeons & Daddies: B.D.S.M | 404485 | [404485-dungeons-and-daddies-b-d-s-m.json](./404485-dungeons-and-daddies-b-d-s-m.json) |
 | Dungeons & Darkness | 32535 | [32535-dungeons-and-darkness.json](./32535-dungeons-and-darkness.json) |
 | Dungeons & Degenerate Gamblers | 248673 | [248673-dungeons-and-degenerate-gamblers.json](./248673-dungeons-and-degenerate-gamblers.json) |
 | Dungeons & Desserts | 349371 | [349371-dungeons-and-desserts.json](./349371-dungeons-and-desserts.json) |
