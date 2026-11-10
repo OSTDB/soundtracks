@@ -8016,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rin ga Utau, Mirai no Neiro | 228351 | [228351-rin-ga-utau-mirai-no-neiro.json](./228351-rin-ga-utau-mirai-no-neiro.json) |
 | Rin Kaihou Kudan no Igo Daidou | 37868 | [37868-rin-kaihou-kudan-no-igo-daidou.json](./37868-rin-kaihou-kudan-no-igo-daidou.json) |
 | Rin the Tamarin | 58542 | [58542-rin-the-tamarin.json](./58542-rin-the-tamarin.json) |
+| Rin-chan wo Hirou Game | 403292 | [403292-rin-chan-wo-hirou-game.json](./403292-rin-chan-wo-hirou-game.json) |
 | Rin: The Last Child | 199253 | [199253-rin-the-last-child.json](./199253-rin-the-last-child.json) |
 | Rina to Akumu no Kan | 236068 | [236068-rina-to-akumu-no-kan.json](./236068-rina-to-akumu-no-kan.json) |
 | Rina's Undercover Train Operation | 392306 | [392306-rinas-undercover-train-operation.json](./392306-rinas-undercover-train-operation.json) |
@@ -11094,6 +11095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Rumble | 123781 | [123781-rolling-rumble.json](./123781-rolling-rumble.json) |
 | Rolling Rush | 223168 | [223168-rolling-rush.json](./223168-rolling-rush.json) |
 | Rolling Shapes | 35214 | [35214-rolling-shapes.json](./35214-rolling-shapes.json) |
+| Rolling Sky | 403281 | [403281-rolling-sky.json](./403281-rolling-sky.json) |
 | Rolling Sky | 57247 | [57247-rolling-sky.json](./57247-rolling-sky.json) |
 | Rolling Sky 2 | 146801 | [146801-rolling-sky-2.json](./146801-rolling-sky-2.json) |
 | Rolling Sky New | 227502 | [227502-rolling-sky-new.json](./227502-rolling-sky-new.json) |
