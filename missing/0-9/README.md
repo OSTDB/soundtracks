@@ -1943,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2351: Apocalypsis | 304667 | [304667-2351-apocalypsis.json](./304667-2351-apocalypsis.json) |
 | 23UL | 157314 | [157314-23ul.json](./157314-23ul.json) |
 | 24 | 283078 | [283078-24.json](./283078-24.json) |
+| 24 Game | 89096 | [89096-24-game.json](./89096-24-game.json) |
 | 24 Game | 91310 | [91310-24-game.json](./91310-24-game.json) |
 | 24 Games For Windows 95 | 116956 | [116956-24-games-for-windows-95.json](./116956-24-games-for-windows-95.json) |
 | 24 Grab Points | 358076 | [358076-24-grab-points.json](./358076-24-grab-points.json) |
