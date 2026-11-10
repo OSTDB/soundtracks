@@ -625,6 +625,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoblade Chronicles 2 | 26766 | [26766-xenoblade-chronicles-2.json](./26766-xenoblade-chronicles-2.json) |
 | Xenoblade Chronicles 2: Collector's Edition | 136021 | [136021-xenoblade-chronicles-2-collectors-edition.json](./136021-xenoblade-chronicles-2-collectors-edition.json) |
 | Xenoblade Chronicles 2: Expansion Pass | 245690 | [245690-xenoblade-chronicles-2-expansion-pass.json](./245690-xenoblade-chronicles-2-expansion-pass.json) |
+| Xenoblade Chronicles 2: New Challenge Mode Pack | 419419 | [419419-xenoblade-chronicles-2-new-challenge-mode-pack.json](./419419-xenoblade-chronicles-2-new-challenge-mode-pack.json) |
+| Xenoblade Chronicles 2: New Quests Pack | 419417 | [419417-xenoblade-chronicles-2-new-quests-pack.json](./419417-xenoblade-chronicles-2-new-quests-pack.json) |
+| Xenoblade Chronicles 2: New Rare Blade Pack | 419418 | [419418-xenoblade-chronicles-2-new-rare-blade-pack.json](./419418-xenoblade-chronicles-2-new-rare-blade-pack.json) |
 | Xenoblade Chronicles 2: Nintendo Switch 2 Edition | 405447 | [405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json](./405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json) |
 | Xenoblade Chronicles 2: Special Edition | 27298 | [27298-xenoblade-chronicles-2-special-edition.json](./27298-xenoblade-chronicles-2-special-edition.json) |
 | Xenoblade Chronicles 2: Torna - The Golden Country | 103340 | [103340-xenoblade-chronicles-2-torna-the-golden-country.json](./103340-xenoblade-chronicles-2-torna-the-golden-country.json) |
