@@ -2704,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno | 255867 | [255867-uno.json](./255867-uno.json) |
 | Uno | 81358 | [81358-uno.json](./81358-uno.json) |
 | Uno / Skip-Bo / Uno Freefall | 91430 | [91430-uno-skip-bo-uno-freefall.json](./91430-uno-skip-bo-uno-freefall.json) |
+| UNO & Friends | 28711 | [28711-uno-and-friends.json](./28711-uno-and-friends.json) |
 | Uno 2 Go | 229062 | [229062-uno-2-go.json](./229062-uno-2-go.json) |
 | Uno 2: Small World | 61392 | [61392-uno-2-small-world.json](./61392-uno-2-small-world.json) |
 | Uno 52 | 47706 | [47706-uno-52.json](./47706-uno-52.json) |
