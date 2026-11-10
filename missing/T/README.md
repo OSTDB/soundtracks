@@ -4216,6 +4216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengu Halloween | 403038 | [403038-tengu-halloween.json](./403038-tengu-halloween.json) |
 | Tengu no Kassha: Shoot and Embodiment! | 342037 | [342037-tengu-no-kassha-shoot-and-embodiment.json](./342037-tengu-no-kassha-shoot-and-embodiment.json) |
 | Tengu Otogizoushi | 181506 | [181506-tengu-otogizoushi.json](./181506-tengu-otogizoushi.json) |
+| Tengu Rumei Race | 405221 | [405221-tengu-rumei-race.json](./405221-tengu-rumei-race.json) |
 | Tengutana | 74991 | [74991-tengutana.json](./74991-tengutana.json) |
 | Tenhou | 86199 | [86199-tenhou.json](./86199-tenhou.json) |
 | Tenioha! feat. Mami | 263741 | [263741-tenioha-feat-mami.json](./263741-tenioha-feat-mami.json) |
@@ -14416,6 +14417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Memory of Eldurim | 16905 | [16905-the-memory-of-eldurim.json](./16905-the-memory-of-eldurim.json) |
 | The Memory of Mallet | 310119 | [310119-the-memory-of-mallet.json](./310119-the-memory-of-mallet.json) |
 | The Memory Thieves | 321599 | [321599-the-memory-thieves.json](./321599-the-memory-thieves.json) |
+| The Memphis Chronicles | 405199 | [405199-the-memphis-chronicles.json](./405199-the-memphis-chronicles.json) |
 | The Men of Yoshiwara: Ohgiya | 33398 | [33398-the-men-of-yoshiwara-ohgiya.json](./33398-the-men-of-yoshiwara-ohgiya.json) |
 | The Menacing | 156030 | [156030-the-menacing.json](./156030-the-menacing.json) |
 | The Mensional | 197112 | [197112-the-mensional.json](./197112-the-mensional.json) |
@@ -14877,6 +14879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Naki Files | 332937 | [332937-the-naki-files.json](./332937-the-naki-files.json) |
 | The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Name is Dio | 305110 | [305110-the-name-is-dio.json](./305110-the-name-is-dio.json) |
+| The Named | 405207 | [405207-the-named.json](./405207-the-named.json) |
 | The Nameless | 178458 | [178458-the-nameless.json](./178458-the-nameless.json) |
 | The Nameless | 214126 | [214126-the-nameless.json](./214126-the-nameless.json) |
 | The Nameless Braves: Heaven | 207749 | [207749-the-nameless-braves-heaven.json](./207749-the-nameless-braves-heaven.json) |
@@ -15178,6 +15181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Office Quest | 99521 | [99521-the-office-quest.json](./99521-the-office-quest.json) |
 | The Office Rooms | 373305 | [373305-the-office-rooms.json](./373305-the-office-rooms.json) |
 | The Office Simulation | 148319 | [148319-the-office-simulation.json](./148319-the-office-simulation.json) |
+| The Office Void | 405796 | [405796-the-office-void.json](./405796-the-office-void.json) |
 | The Office: Dirty Secrets | 411243 | [411243-the-office-dirty-secrets.json](./411243-the-office-dirty-secrets.json) |
 | The Office: Somehow We Manage | 191302 | [191302-the-office-somehow-we-manage.json](./191302-the-office-somehow-we-manage.json) |
 | The Official Everton FC Intelligensia | 314965 | [314965-the-official-everton-fc-intelligensia.json](./314965-the-official-everton-fc-intelligensia.json) |
@@ -17639,6 +17643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sleep Experiment | 250982 | [250982-the-sleep-experiment.json](./250982-the-sleep-experiment.json) |
 | The Sleeping Light | 255513 | [255513-the-sleeping-light.json](./255513-the-sleeping-light.json) |
 | The Sleeping Sickness | 299811 | [299811-the-sleeping-sickness.json](./299811-the-sleeping-sickness.json) |
+| The Sleepless Nights Origins | 405783 | [405783-the-sleepless-nights-origins.json](./405783-the-sleepless-nights-origins.json) |
 | The Slime | 195476 | [195476-the-slime.json](./195476-the-slime.json) |
 | The Slime Plague | 244203 | [244203-the-slime-plague.json](./244203-the-slime-plague.json) |
 | The Slime Sanctuary | 280894 | [280894-the-slime-sanctuary.json](./280894-the-slime-sanctuary.json) |
@@ -29123,6 +29128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trader Tavern | 183827 | [183827-trader-tavern.json](./183827-trader-tavern.json) |
 | Traders and Tricksters | 310803 | [310803-traders-and-tricksters.json](./310803-traders-and-tricksters.json) |
 | Traders Life Simulator | 390101 | [390101-traders-life-simulator.json](./390101-traders-life-simulator.json) |
+| Traders Life Together | 405790 | [405790-traders-life-together.json](./405790-traders-life-together.json) |
 | Traders of Natac | 253517 | [253517-traders-of-natac.json](./253517-traders-of-natac.json) |
 | Traders: The Intergalactic Trading Game | 78323 | [78323-traders-the-intergalactic-trading-game.json](./78323-traders-the-intergalactic-trading-game.json) |
 | Tradesman: Deal to Dealer | 265545 | [265545-tradesman-deal-to-dealer.json](./265545-tradesman-deal-to-dealer.json) |
