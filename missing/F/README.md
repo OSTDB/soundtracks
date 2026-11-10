@@ -4079,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Femdom Wife Game: Zoe | 367045 | [367045-femdom-wife-game-zoe.json](./367045-femdom-wife-game-zoe.json) |
 | FemDomination 2 | 286504 | [286504-femdomination-2.json](./286504-femdomination-2.json) |
 | Femida | 128189 | [128189-femida.json](./128189-femida.json) |
+| Feminazi: 3000 | 59236 | [59236-feminazi-3000.json](./59236-feminazi-3000.json) |
 | Feminist Confessional | 176401 | [176401-feminist-confessional.json](./176401-feminist-confessional.json) |
 | Feminize Me! | 185683 | [185683-feminize-me.json](./185683-feminize-me.json) |
 | Femme | 181745 | [181745-femme.json](./181745-femme.json) |
@@ -8068,6 +8069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Fishing | 79238 | [79238-flick-fishing.json](./79238-flick-fishing.json) |
 | Flick Golf 3D | 85141 | [85141-flick-golf-3d.json](./85141-flick-golf-3d.json) |
 | Flick Golf Extreme | 58206 | [58206-flick-golf-extreme.json](./58206-flick-golf-extreme.json) |
+| Flick Golf! | 58201 | [58201-flick-golf.json](./58201-flick-golf.json) |
 | Flick Headers Euro 2012 | 340147 | [340147-flick-headers-euro-2012.json](./340147-flick-headers-euro-2012.json) |
 | Flick Home Run ! HD | 89537 | [89537-flick-home-run-hd.json](./89537-flick-home-run-hd.json) |
 | Flick Home Run! | 88782 | [88782-flick-home-run.json](./88782-flick-home-run.json) |
@@ -8246,6 +8248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Boarder | 74752 | [74752-flip-boarder.json](./74752-flip-boarder.json) |
 | Flip Coin | 336702 | [336702-flip-coin.json](./336702-flip-coin.json) |
 | Flip Dimensions | 394125 | [394125-flip-dimensions.json](./394125-flip-dimensions.json) |
+| Flip Diving | 57881 | [57881-flip-diving.json](./57881-flip-diving.json) |
 | Flip Flap | 218076 | [218076-flip-flap.json](./218076-flip-flap.json) |
 | Flip Flop | 285572 | [285572-flip-flop.json](./285572-flip-flop.json) |
 | Flip Flop | 84343 | [84343-flip-flop.json](./84343-flip-flop.json) |
@@ -11584,6 +11587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPV Battleground | 340243 | [340243-fpv-battleground.json](./340243-fpv-battleground.json) |
 | FPV Drone Simulator | 55608 | [55608-fpv-drone-simulator.json](./55608-fpv-drone-simulator.json) |
 | FPV Event | 57415 | [57415-fpv-event.json](./57415-fpv-event.json) |
+| FPV Freerider | 58893 | [58893-fpv-freerider.json](./58893-fpv-freerider.json) |
 | FPV Freerider Recharged | 90412 | [90412-fpv-freerider-recharged.json](./90412-fpv-freerider-recharged.json) |
 | FPV Kamikaze Drone | 280172 | [280172-fpv-kamikaze-drone.json](./280172-fpv-kamikaze-drone.json) |
 | FPV Kamikaze Drone Simulator | 372972 | [372972-fpv-kamikaze-drone-simulator.json](./372972-fpv-kamikaze-drone-simulator.json) |
