@@ -1056,6 +1056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karlson Multiplayer | 176664 | [176664-karlson-multiplayer.json](./176664-karlson-multiplayer.json) |
 | Karlson Run | 202578 | [202578-karlson-run.json](./202578-karlson-run.json) |
 | Karlson64 | 175900 | [175900-karlson64.json](./175900-karlson64.json) |
+| Karlsson på Taket och Kuckelimuckmedicinen | 412507 | [412507-karlsson-pa-taket-och-kuckelimuckmedicinen.json](./412507-karlsson-pa-taket-och-kuckelimuckmedicinen.json) |
 | Karm: Early Access Archives | 303605 | [303605-karm-early-access-archives.json](./303605-karm-early-access-archives.json) |
 | Karma | 167466 | [167466-karma.json](./167466-karma.json) |
 | Karma | 311435 | [311435-karma.json](./311435-karma.json) |
@@ -1113,6 +1114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karous | 381992 | [381992-karous.json](./381992-karous.json) |
 | Karous | 45818 | [45818-karous.json](./45818-karous.json) |
 | Karous -The Beast of Re:Eden- | 85223 | [85223-karous-the-beast-of-re-eden.json](./85223-karous-the-beast-of-re-eden.json) |
+| Karous -The Blur of Re:venant- New Order | 412534 | [412534-karous-the-blur-of-re-venant-new-order.json](./412534-karous-the-blur-of-re-venant-new-order.json) |
 | Karpar | 214750 | [214750-karpar.json](./214750-karpar.json) |
 | Karpatia: Order of the Comet | 257983 | [257983-karpatia-order-of-the-comet.json](./257983-karpatia-order-of-the-comet.json) |
 | Karpe Diem | 316132 | [316132-karpe-diem.json](./316132-karpe-diem.json) |
