@@ -10817,6 +10817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signals of Chaos | 195007 | [195007-signals-of-chaos.json](./195007-signals-of-chaos.json) |
 | SignaNota | 341991 | [341991-signanota.json](./341991-signanota.json) |
 | Signature | 257073 | [257073-signature.json](./257073-signature.json) |
+| Signed and Sealed With a Kiss | 115129 | [115129-signed-and-sealed-with-a-kiss.json](./115129-signed-and-sealed-with-a-kiss.json) |
 | Signed and Sealed With a Kiss: Expansion Pack | 168521 | [168521-signed-and-sealed-with-a-kiss-expansion-pack.json](./168521-signed-and-sealed-with-a-kiss-expansion-pack.json) |
 | Signed by '89 | 177439 | [177439-signed-by-89.json](./177439-signed-by-89.json) |
 | Signed Mary | 318291 | [318291-signed-mary.json](./318291-signed-mary.json) |
@@ -19185,6 +19186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcevival | 276169 | [276169-sorcevival.json](./276169-sorcevival.json) |
 | Sorcières & Compagnie | 351105 | [351105-sorcieres-and-compagnie.json](./351105-sorcieres-and-compagnie.json) |
 | Sorcs: Siege Chronicles | 164126 | [164126-sorcs-siege-chronicles.json](./164126-sorcs-siege-chronicles.json) |
+| Sordwin: The Evertree Saga | 115214 | [115214-sordwin-the-evertree-saga.json](./115214-sordwin-the-evertree-saga.json) |
 | Sore | 74211 | [74211-sore.json](./74211-sore.json) |
 | Sore ha Maichiru Sakura no You ni: Re:birth | 368652 | [368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json](./368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json) |
 | Sore Ike! Anpanman: Hajimete Kaketa yo! Oboeta yo! Hiragana, Katakana: 50-on Board Kinou-tsuki | 300422 | [300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json](./300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json) |
@@ -24719,6 +24721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staars | 318918 | [318918-staars.json](./318918-staars.json) |
 | Stab | 264620 | [264620-stab.json](./264620-stab.json) |
 | Stab It VR.com | 310022 | [310022-stab-it-vr-com.json](./310022-stab-it-vr-com.json) |
+| Stab Stab Stab! | 115219 | [115219-stab-stab-stab.json](./115219-stab-stab-stab.json) |
 | Stab! | 396322 | [396322-stab.json](./396322-stab.json) |
 | Stabby Cats | 159734 | [159734-stabby-cats.json](./159734-stabby-cats.json) |
 | Stabby Machine | 102910 | [102910-stabby-machine.json](./102910-stabby-machine.json) |
@@ -26897,6 +26900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startup Grave | 194169 | [194169-startup-grave.json](./194169-startup-grave.json) |
 | Startup Quest Bakery | 306288 | [306288-startup-quest-bakery.json](./306288-startup-quest-bakery.json) |
 | Startup Trail | 373260 | [373260-startup-trail.json](./373260-startup-trail.json) |
+| Startup Valley Adventure - Episode 1 | 114826 | [114826-startup-valley-adventure-episode-1.json](./114826-startup-valley-adventure-episode-1.json) |
 | StartUp! Gym | 221362 | [221362-startup-gym.json](./221362-startup-gym.json) |
 | Starushko Lub | 31081 | [31081-starushko-lub.json](./31081-starushko-lub.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
