@@ -4349,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reddish | 212023 | [212023-reddish.json](./212023-reddish.json) |
 | Reddoor | 213205 | [213205-reddoor.json](./213205-reddoor.json) |
 | Redeemart: A Convenient Apocalypse | 226448 | [226448-redeemart-a-convenient-apocalypse.json](./226448-redeemart-a-convenient-apocalypse.json) |
+| Redeemer: Enhanced Edition | 105418 | [105418-redeemer-enhanced-edition.json](./105418-redeemer-enhanced-edition.json) |
 | Redeemer's Run | 264562 | [264562-redeemers-run.json](./264562-redeemers-run.json) |
 | Redeliver | 147036 | [147036-redeliver.json](./147036-redeliver.json) |
 | Redemption | 301064 | [301064-redemption.json](./301064-redemption.json) |
@@ -6654,6 +6655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revamped | 260216 | [260216-revamped.json](./260216-revamped.json) |
 | Revans | 231145 | [231145-revans.json](./231145-revans.json) |
 | Revasion | 190870 | [190870-revasion.json](./190870-revasion.json) |
+| Reveal | 104949 | [104949-reveal.json](./104949-reveal.json) |
 | Reveal | 128814 | [128814-reveal.json](./128814-reveal.json) |
 | Reveal Fantasia | 112136 | [112136-reveal-fantasia.json](./112136-reveal-fantasia.json) |
 | Reveal that Word! | 241340 | [241340-reveal-that-word.json](./241340-reveal-that-word.json) |
@@ -13400,6 +13402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russi.a Simulator | 105148 | [105148-russi-a-simulator.json](./105148-russi-a-simulator.json) |
 | Russia | 278304 | [278304-russia.json](./278304-russia.json) |
 | Russia 2055 | 125293 | [125293-russia-2055.json](./125293-russia-2055.json) |
+| Russia Battlegrounds | 105271 | [105271-russia-battlegrounds.json](./105271-russia-battlegrounds.json) |
 | Russia Horror 20!8 | 90212 | [90212-russia-horror-20-8.json](./90212-russia-horror-20-8.json) |
 | Russia Inside Out: New Year | 368072 | [368072-russia-inside-out-new-year.json](./368072-russia-inside-out-new-year.json) |
 | Russia Roguelike | 116117 | [116117-russia-roguelike.json](./116117-russia-roguelike.json) |
