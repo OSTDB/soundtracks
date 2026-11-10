@@ -121,6 +121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports FC Online | 93902 | [93902-ea-sports-fc-online.json](./93902-ea-sports-fc-online.json) |
 | EA Sports FC Tactical | 302626 | [302626-ea-sports-fc-tactical.json](./302626-ea-sports-fc-tactical.json) |
 | EA Sports FIFA 18 & NHL 18 Bundle | 83749 | [83749-ea-sports-fifa-18-and-nhl-18-bundle.json](./83749-ea-sports-fifa-18-and-nhl-18-bundle.json) |
+| EA Sports Fight Night | 424850 | [424850-ea-sports-fight-night.json](./424850-ea-sports-fight-night.json) |
 | EA Sports Football Academy | 21288 | [21288-ea-sports-football-academy.json](./21288-ea-sports-football-academy.json) |
 | EA Sports Madden NFL 25: Deluxe Edition | 301508 | [301508-ea-sports-madden-nfl-25-deluxe-edition.json](./301508-ea-sports-madden-nfl-25-deluxe-edition.json) |
 | EA Sports MMA | 6984 | [6984-ea-sports-mma.json](./6984-ea-sports-mma.json) |
@@ -2386,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Fighters | 277776 | [277776-element-fighters.json](./277776-element-fighters.json) |
 | Element Hime | 72465 | [72465-element-hime.json](./72465-element-hime.json) |
 | Element Hunters | 67640 | [67640-element-hunters.json](./67640-element-hunters.json) |
+| Element Idle | 424818 | [424818-element-idle.json](./424818-element-idle.json) |
 | Element Industry | 84033 | [84033-element-industry.json](./84033-element-industry.json) |
 | Element Release: Water Territory | 292526 | [292526-element-release-water-territory.json](./292526-element-release-water-territory.json) |
 | Element Runner | 200352 | [200352-element-runner.json](./200352-element-runner.json) |
