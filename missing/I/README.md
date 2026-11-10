@@ -2874,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imprisoned | 327391 | [327391-imprisoned.json](./327391-imprisoned.json) |
 | Imprisoned | 63203 | [63203-imprisoned.json](./63203-imprisoned.json) |
 | Imprisoned Hyperion | 157313 | [157313-imprisoned-hyperion.json](./157313-imprisoned-hyperion.json) |
+| Imprisoned Light | 31040 | [31040-imprisoned-light.json](./31040-imprisoned-light.json) |
 | Imprisoned Queen | 156540 | [156540-imprisoned-queen.json](./156540-imprisoned-queen.json) |
 | Improbability | 311485 | [311485-improbability.json](./311485-improbability.json) |
 | Improbability Control Bureau | 264787 | [264787-improbability-control-bureau.json](./264787-improbability-control-bureau.json) |
@@ -6111,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Emblem: Gaiden | 353819 | [353819-iron-emblem-gaiden.json](./353819-iron-emblem-gaiden.json) |
 | Iron Evil | 203970 | [203970-iron-evil.json](./203970-iron-evil.json) |
 | Iron Feather | 71609 | [71609-iron-feather.json](./71609-iron-feather.json) |
+| Iron Fish | 31078 | [31078-iron-fish.json](./31078-iron-fish.json) |
 | Iron Fisticle | 17529 | [17529-iron-fisticle.json](./17529-iron-fisticle.json) |
 | Iron Force | 343855 | [343855-iron-force.json](./343855-iron-force.json) |
 | Iron Force 2 | 243706 | [243706-iron-force-2.json](./243706-iron-force-2.json) |
