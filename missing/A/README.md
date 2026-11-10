@@ -5047,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Talisman | 26954 | [26954-age-of-talisman.json](./26954-age-of-talisman.json) |
 | Age of the Deep | 303121 | [303121-age-of-the-deep.json](./303121-age-of-the-deep.json) |
 | Age of the Duel | 248385 | [248385-age-of-the-duel.json](./248385-age-of-the-duel.json) |
+| Age of the Fallen | 417235 | [417235-age-of-the-fallen.json](./417235-age-of-the-fallen.json) |
 | Age of the Sirens | 236893 | [236893-age-of-the-sirens.json](./236893-age-of-the-sirens.json) |
 | Age of Thrones | 24552 | [24552-age-of-thrones.json](./24552-age-of-thrones.json) |
 | Age of Time | 254542 | [254542-age-of-time.json](./254542-age-of-time.json) |
@@ -6169,6 +6170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aizasia | 389015 | [389015-aizasia.json](./389015-aizasia.json) |
 | AJ 11: Cosmic Climb | 300978 | [300978-aj-11-cosmic-climb.json](./300978-aj-11-cosmic-climb.json) |
 | AJ Jump: Animal Jam Kangaroos! | 88986 | [88986-aj-jump-animal-jam-kangaroos.json](./88986-aj-jump-animal-jam-kangaroos.json) |
+| AJ's Anomaly | 417141 | [417141-ajs-anomaly.json](./417141-ajs-anomaly.json) |
 | Ajax | 39324 | [39324-ajax.json](./39324-ajax.json) |
 | AJAX Club Football | 267877 | [267877-ajax-club-football.json](./267877-ajax-club-football.json) |
 | AJAX Club Football 2005 | 47305 | [47305-ajax-club-football-2005.json](./47305-ajax-club-football-2005.json) |
@@ -10735,6 +10737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AnimalAlbum | 94037 | [94037-animalalbum.json](./94037-animalalbum.json) |
 | AnimalDon! | 345984 | [345984-animaldon.json](./345984-animaldon.json) |
 | AnimalFruitTart | 369230 | [369230-animalfruittart.json](./369230-animalfruittart.json) |
+| AnimalGames Studio | 417149 | [417149-animalgames-studio.json](./417149-animalgames-studio.json) |
 | Animalia | 216337 | [216337-animalia.json](./216337-animalia.json) |
 | Animalia | 268138 | [268138-animalia.json](./268138-animalia.json) |
 | Animalia Dreamland | 242150 | [242150-animalia-dreamland.json](./242150-animalia-dreamland.json) |
@@ -16447,6 +16450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AStar | 84300 | [84300-astar.json](./84300-astar.json) |
 | Astar Solis | 366396 | [366396-astar-solis.json](./366396-astar-solis.json) |
 | Astarian Adventures | 267741 | [267741-astarian-adventures.json](./267741-astarian-adventures.json) |
+| Astario | 417155 | [417155-astario.json](./417155-astario.json) |
 | Astaroth: The Angel of Death | 14171 | [14171-astaroth-the-angel-of-death.json](./14171-astaroth-the-angel-of-death.json) |
 | Astaryn: RPG Idler | 407879 | [407879-astaryn-rpg-idler.json](./407879-astaryn-rpg-idler.json) |
 | Astate: La Malédiction des Templiers | 14271 | [14271-astate-la-malediction-des-templiers.json](./14271-astate-la-malediction-des-templiers.json) |
