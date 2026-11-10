@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Isleweaver | 421816 | [421816-warframe-isleweaver.json](./421816-warframe-isleweaver.json) |
 | Warframe: Jade Chorus Pack | 318444 | [318444-warframe-jade-chorus-pack.json](./318444-warframe-jade-chorus-pack.json) |
 | Warframe: Jade Shadows | 306772 | [306772-warframe-jade-shadows.json](./306772-warframe-jade-shadows.json) |
+| Warframe: Jade Shadows - Constellations | 404480 | [404480-warframe-jade-shadows-constellations.json](./404480-warframe-jade-shadows-constellations.json) |
 | Warframe: Koumei & the Five Fates | 421814 | [421814-warframe-koumei-and-the-five-fates.json](./421814-warframe-koumei-and-the-five-fates.json) |
 | Warframe: Nyx Warframe | 325577 | [325577-warframe-nyx-warframe.json](./325577-warframe-nyx-warframe.json) |
 | Warframe: Oraxia Bundle | 373871 | [373871-warframe-oraxia-bundle.json](./373871-warframe-oraxia-bundle.json) |
@@ -1852,6 +1853,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlordocracy | 190023 | [190023-warlordocracy.json](./190023-warlordocracy.json) |
 | Warlordocracy: Chapter 2 | 258217 | [258217-warlordocracy-chapter-2.json](./258217-warlordocracy-chapter-2.json) |
 | Warlordocracy: Chapter 3 | 336569 | [336569-warlordocracy-chapter-3.json](./336569-warlordocracy-chapter-3.json) |
+| Warlordocracy: Chapter 4 | 404469 | [404469-warlordocracy-chapter-4.json](./404469-warlordocracy-chapter-4.json) |
+| Warlordocracy: Chapter 5 | 404470 | [404470-warlordocracy-chapter-5.json](./404470-warlordocracy-chapter-5.json) |
+| Warlordocracy: Chapter 6 | 404471 | [404471-warlordocracy-chapter-6.json](./404471-warlordocracy-chapter-6.json) |
 | Warlords | 17251 | [17251-warlords.json](./17251-warlords.json) |
 | Warlords | 294544 | [294544-warlords.json](./294544-warlords.json) |
 | Warlords | 411549 | [411549-warlords.json](./411549-warlords.json) |
@@ -1925,6 +1929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warno: Landjut | 398828 | [398828-warno-landjut.json](./398828-warno-landjut.json) |
 | Warno: Nemesis #3 - Homefront | 403589 | [403589-warno-nemesis-3-homefront.json](./403589-warno-nemesis-3-homefront.json) |
 | Warno: Nemesis #4 - Capital Defence | 376081 | [376081-warno-nemesis-4-capital-defence.json](./376081-warno-nemesis-4-capital-defence.json) |
+| Warno: Nemesis #5 | 404460 | [404460-warno-nemesis-5.json](./404460-warno-nemesis-5.json) |
 | Warno: Northag | 302063 | [302063-warno-northag.json](./302063-warno-northag.json) |
 | Warno: Reinforcement Pack #1 | 323264 | [323264-warno-reinforcement-pack-1.json](./323264-warno-reinforcement-pack-1.json) |
 | Warno: Southag | 302064 | [302064-warno-southag.json](./302064-warno-southag.json) |
