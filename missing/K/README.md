@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karate Champ | 25835 | [25835-karate-champ.json](./25835-karate-champ.json) |
 | Karate Champ | 285600 | [285600-karate-champ.json](./285600-karate-champ.json) |
 | Karate Champ XL | 174539 | [174539-karate-champ-xl.json](./174539-karate-champ-xl.json) |
+| Karate Chop | 420644 | [420644-karate-chop.json](./420644-karate-chop.json) |
 | Karate Combat | 13732 | [13732-karate-combat.json](./13732-karate-combat.json) |
 | Karate Do | 239625 | [239625-karate-do.json](./239625-karate-do.json) |
 | Karate Fighter | 141516 | [141516-karate-fighter.json](./141516-karate-fighter.json) |
