@@ -11504,6 +11504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Super Mario Bros. Wii | 132850 | [132850-another-super-mario-bros-wii.json](./132850-another-super-mario-bros-wii.json) |
 | Another Super Mario Bros. Wii Deluxe | 394342 | [394342-another-super-mario-bros-wii-deluxe.json](./394342-another-super-mario-bros-wii-deluxe.json) |
 | Another Taste of Lotus Nectar | 386070 | [386070-another-taste-of-lotus-nectar.json](./386070-another-taste-of-lotus-nectar.json) |
+| Another Tavern Simulator | 423047 | [423047-another-tavern-simulator.json](./423047-another-tavern-simulator.json) |
 | Another TD | 391759 | [391759-another-td.json](./391759-another-td.json) |
 | Another Time Another Leaf: Kagami no Naka no Tantei | 69283 | [69283-another-time-another-leaf-kagami-no-naka-no-tantei.json](./69283-another-time-another-leaf-kagami-no-naka-no-tantei.json) |
 | Another Timeless Night | 270700 | [270700-another-timeless-night.json](./270700-another-timeless-night.json) |
@@ -12947,6 +12948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arca's Path | 103053 | [103053-arcas-path.json](./103053-arcas-path.json) |
 | Arcabbit | 363172 | [363172-arcabbit.json](./363172-arcabbit.json) |
 | Arcade & Action: XP Championship | 206131 | [206131-arcade-and-action-xp-championship.json](./206131-arcade-and-action-xp-championship.json) |
+| Arcade & Motel Simulator Together | 423052 | [423052-arcade-and-motel-simulator-together.json](./423052-arcade-and-motel-simulator-together.json) |
 | Arcade & Puzzle Games | 79626 | [79626-arcade-and-puzzle-games.json](./79626-arcade-and-puzzle-games.json) |
 | Arcade 3D | 92394 | [92394-arcade-3d.json](./92394-arcade-3d.json) |
 | Arcade Action | 319566 | [319566-arcade-action.json](./319566-arcade-action.json) |
@@ -15775,6 +15777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashbane | 387139 | [387139-ashbane.json](./387139-ashbane.json) |
 | Ashborn 21.21 | 427830 | [427830-ashborn-21-21.json](./427830-ashborn-21-21.json) |
 | Ashbound Expanse | 374362 | [374362-ashbound-expanse.json](./374362-ashbound-expanse.json) |
+| Ashbound: Endless Hunt | 423064 | [423064-ashbound-endless-hunt.json](./423064-ashbound-endless-hunt.json) |
 | Ashbourne | 32570 | [32570-ashbourne.json](./32570-ashbourne.json) |
 | AshCreek | 419130 | [419130-ashcreek.json](./419130-ashcreek.json) |
 | Ashe | 407760 | [407760-ashe.json](./407760-ashe.json) |
@@ -17615,7 +17618,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
