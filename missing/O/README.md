@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ojou-sama, Chijoku no hate ni Warau. | 108940 | [108940-ojou-sama-chijoku-no-hate-ni-warau.json](./108940-ojou-sama-chijoku-no-hate-ni-warau.json) |
 | Ojousama Sousamou | 70400 | [70400-ojousama-sousamou.json](./70400-ojousama-sousamou.json) |
 | Ojyoku: Hokago no Ryojyokuki | 97634 | [97634-ojyoku-hokago-no-ryojyokuki.json](./97634-ojyoku-hokago-no-ryojyokuki.json) |
+| OK Bob | 29332 | [29332-ok-bob.json](./29332-ok-bob.json) |
 | OK Boomer | 127160 | [127160-ok-boomer.json](./127160-ok-boomer.json) |
 | OK Golf | 89011 | [89011-ok-golf.json](./89011-ok-golf.json) |
 | OK K.O.! Let's Play Heroes | 80012 | [80012-ok-k-o-lets-play-heroes.json](./80012-ok-k-o-lets-play-heroes.json) |
