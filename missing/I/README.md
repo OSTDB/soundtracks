@@ -4058,7 +4058,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4663,6 +4662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Bundle with 21 Games | 376778 | [376778-insane-bundle-with-21-games.json](./376778-insane-bundle-with-21-games.json) |
 | Insane Cold: Back to the Ice Age | 76664 | [76664-insane-cold-back-to-the-ice-age.json](./76664-insane-cold-back-to-the-ice-age.json) |
 | Insane Creations | 149528 | [149528-insane-creations.json](./149528-insane-creations.json) |
+| Insane Decay of Mind | 19044 | [19044-insane-decay-of-mind.json](./19044-insane-decay-of-mind.json) |
 | Insane Escape | 244322 | [244322-insane-escape.json](./244322-insane-escape.json) |
 | Insane Forest | 342886 | [342886-insane-forest.json](./342886-insane-forest.json) |
 | Insane Kart Wii | 250325 | [250325-insane-kart-wii.json](./250325-insane-kart-wii.json) |
@@ -5925,6 +5925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Io. Lava Cleaning Base | 309282 | [309282-io-lava-cleaning-base.json](./309282-io-lava-cleaning-base.json) |
 | Io. Loki Patera. | 309280 | [309280-io-loki-patera.json](./309280-io-loki-patera.json) |
 | IOI Collection | 154503 | [154503-ioi-collection.json](./154503-ioi-collection.json) |
+| iOMoon | 19037 | [19037-iomoon.json](./19037-iomoon.json) |
 | Ion | 11136 | [11136-ion.json](./11136-ion.json) |
 | Ion Assault | 10442 | [10442-ion-assault.json](./10442-ion-assault.json) |
 | Ion Assault HD | 52244 | [52244-ion-assault-hd.json](./52244-ion-assault-hd.json) |
