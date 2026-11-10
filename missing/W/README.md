@@ -3465,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Inventis | 101215 | [101215-welcome-to-inventis.json](./101215-welcome-to-inventis.json) |
 | Welcome to James' Story in the World of Our Church and Halloween: Visual Novel | 222808 | [222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./222808-welcome-to-james-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Jane's Story in the World of Project: Summer Ice | 208621 | [208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json](./208621-welcome-to-janes-story-in-the-world-of-project-summer-ice.json) |
+| Welcome to Kowloon | 258211 | [258211-welcome-to-kowloon.json](./258211-welcome-to-kowloon.json) |
 | Welcome to Lakewood | 152648 | [152648-welcome-to-lakewood.json](./152648-welcome-to-lakewood.json) |
 | Welcome to Levy | 238730 | [238730-welcome-to-levy.json](./238730-welcome-to-levy.json) |
 | Welcome to Light Fields | 93700 | [93700-welcome-to-light-fields.json](./93700-welcome-to-light-fields.json) |
@@ -5312,6 +5313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Arms Alter Code: F | 1680 | [1680-wild-arms-alter-code-f.json](./1680-wild-arms-alter-code-f.json) |
 | Wild Arms XF | 1683 | [1683-wild-arms-xf.json](./1683-wild-arms-xf.json) |
 | Wild Arms: Million Memories | 26383 | [26383-wild-arms-million-memories.json](./26383-wild-arms-million-memories.json) |
+| Wild Assault | 288461 | [288461-wild-assault.json](./288461-wild-assault.json) |
 | Wild Baffo | 159960 | [159960-wild-baffo.json](./159960-wild-baffo.json) |
 | Wild Bastards | 278602 | [278602-wild-bastards.json](./278602-wild-bastards.json) |
 | Wild Beyond | 124510 | [124510-wild-beyond.json](./124510-wild-beyond.json) |
