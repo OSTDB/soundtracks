@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Quest Mysteries: Curse of the Emerald Tear | 10474 | [10474-jewel-quest-mysteries-curse-of-the-emerald-tear.json](./10474-jewel-quest-mysteries-curse-of-the-emerald-tear.json) |
 | Jewel Quest Mysteries: The Seventh Gate | 90739 | [90739-jewel-quest-mysteries-the-seventh-gate.json](./90739-jewel-quest-mysteries-the-seventh-gate.json) |
 | Jewel Quest Pack | 29206 | [29206-jewel-quest-pack.json](./29206-jewel-quest-pack.json) |
+| Jewel Quest Solitaire 1 | 10475 | [10475-jewel-quest-solitaire-1.json](./10475-jewel-quest-solitaire-1.json) |
 | Jewel Quest Solitaire 3 | 10476 | [10476-jewel-quest-solitaire-3.json](./10476-jewel-quest-solitaire-3.json) |
 | Jewel Quest Solitaire II | 53250 | [53250-jewel-quest-solitaire-ii.json](./53250-jewel-quest-solitaire-ii.json) |
 | Jewel Quest Solitaire III | 67120 | [67120-jewel-quest-solitaire-iii.json](./67120-jewel-quest-solitaire-iii.json) |
