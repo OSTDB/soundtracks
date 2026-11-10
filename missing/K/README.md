@@ -4901,6 +4901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of San Francisco | 174204 | [174204-knights-of-san-francisco.json](./174204-knights-of-san-francisco.json) |
 | Knights of Saturn | 177776 | [177776-knights-of-saturn.json](./177776-knights-of-saturn.json) |
 | Knights of Takhisis Bundle Pack | 239006 | [239006-knights-of-takhisis-bundle-pack.json](./239006-knights-of-takhisis-bundle-pack.json) |
+| Knights of Tartarus | 108388 | [108388-knights-of-tartarus.json](./108388-knights-of-tartarus.json) |
 | Knights of the Card Table | 113790 | [113790-knights-of-the-card-table.json](./113790-knights-of-the-card-table.json) |
 | Knights of the Chalice | 67785 | [67785-knights-of-the-chalice.json](./67785-knights-of-the-chalice.json) |
 | Knights of the Chalice 2 | 154202 | [154202-knights-of-the-chalice-2.json](./154202-knights-of-the-chalice-2.json) |
@@ -6199,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kubic | 283143 | [283143-kubic.json](./283143-kubic.json) |
 | Kubic | 58107 | [58107-kubic.json](./58107-kubic.json) |
 | Kubics | 284751 | [284751-kubics.json](./284751-kubics.json) |
+| Kubifaktorium | 109030 | [109030-kubifaktorium.json](./109030-kubifaktorium.json) |
 | Kubika | 390136 | [390136-kubika.json](./390136-kubika.json) |
 | Kubiko | 188259 | [188259-kubiko.json](./188259-kubiko.json) |
 | Kubikon 3D | 278259 | [278259-kubikon-3d.json](./278259-kubikon-3d.json) |
