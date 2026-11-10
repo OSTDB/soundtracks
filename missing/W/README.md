@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhawk | 36532 | [36532-warhawk.json](./36532-warhawk.json) |
 | Warhawk | 371272 | [371272-warhawk.json](./371272-warhawk.json) |
 | Warhawk | 7479 | [7479-warhawk.json](./7479-warhawk.json) |
+| Warhawk: Operation Broken Mirror | 22589 | [22589-warhawk-operation-broken-mirror.json](./22589-warhawk-operation-broken-mirror.json) |
 | Warhawk: Operation Fallen Star | 21871 | [21871-warhawk-operation-fallen-star.json](./21871-warhawk-operation-fallen-star.json) |
 | Warhawk: Operation Omega Dawn | 22533 | [22533-warhawk-operation-omega-dawn.json](./22533-warhawk-operation-omega-dawn.json) |
 | Warhead | 396769 | [396769-warhead.json](./396769-warhead.json) |
@@ -6362,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Voices: Episode 4 - Amethyst Rivers | 65739 | [65739-winter-voices-episode-4-amethyst-rivers.json](./65739-winter-voices-episode-4-amethyst-rivers.json) |
 | Winter Voices: Episode 5 - Overflow | 108127 | [108127-winter-voices-episode-5-overflow.json](./108127-winter-voices-episode-5-overflow.json) |
 | Winter Voices: Episode 6 - Falls | 108128 | [108128-winter-voices-episode-6-falls.json](./108128-winter-voices-episode-6-falls.json) |
+| Winter Voices: Prologue - Avalanche | 21163 | [21163-winter-voices-prologue-avalanche.json](./21163-winter-voices-prologue-avalanche.json) |
 | Winter Walk | 63882 | [63882-winter-walk.json](./63882-winter-walk.json) |
 | Winter Walk 2006 | 326780 | [326780-winter-walk-2006.json](./326780-winter-walk-2006.json) |
 | Winter Wally | 60036 | [60036-winter-wally.json](./60036-winter-wally.json) |
