@@ -5653,6 +5653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kor | 155970 | [155970-kor.json](./155970-kor.json) |
 | Kor | 183561 | [183561-kor.json](./183561-kor.json) |
 | Kör Comp | 128898 | [128898-kor-comp.json](./128898-kor-comp.json) |
+| Kor Eden | 427809 | [427809-kor-eden.json](./427809-kor-eden.json) |
 | Kora: Neural Gridlock | 416569 | [416569-kora-neural-gridlock.json](./416569-kora-neural-gridlock.json) |
 | Korablik | 30317 | [30317-korablik.json](./30317-korablik.json) |
 | Koral | 105160 | [105160-koral.json](./105160-koral.json) |
