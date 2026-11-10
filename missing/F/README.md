@@ -1489,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | False Mall | 311570 | [311570-false-mall.json](./311570-false-mall.json) |
 | False Myth | 132742 | [132742-false-myth.json](./132742-false-myth.json) |
 | False Myth 2 | 416387 | [416387-false-myth-2.json](./416387-false-myth-2.json) |
+| False Oath | 415653 | [415653-false-oath.json](./415653-false-oath.json) |
 | False Positive Paradox | 401006 | [401006-false-positive-paradox.json](./401006-false-positive-paradox.json) |
 | False Princess Iruruu | 330020 | [330020-false-princess-iruruu.json](./330020-false-princess-iruruu.json) |
 | False Rebirth: Enhanced Edition | 179345 | [179345-false-rebirth-enhanced-edition.json](./179345-false-rebirth-enhanced-edition.json) |
@@ -4319,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fever Meme | 350483 | [350483-fever-meme.json](./350483-fever-meme.json) |
 | Fever Move | 246279 | [246279-fever-move.json](./246279-fever-move.json) |
 | Fever: Fight the Fever | 155837 | [155837-fever-fight-the-fever.json](./155837-fever-fight-the-fever.json) |
+| Fevercide | 415656 | [415656-fevercide.json](./415656-fevercide.json) |
 | Feverdream: Rainbow Chaser | 333985 | [333985-feverdream-rainbow-chaser.json](./333985-feverdream-rainbow-chaser.json) |
 | Fevered Fantasy | 392308 | [392308-fevered-fantasy.json](./392308-fevered-fantasy.json) |
 | Feverfew | 218206 | [218206-feverfew.json](./218206-feverfew.json) |
@@ -10211,6 +10213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Mage | 120815 | [120815-forest-mage.json](./120815-forest-mage.json) |
 | Forest Mystery | 192704 | [192704-forest-mystery.json](./192704-forest-mystery.json) |
 | Forest Ninja | 181774 | [181774-forest-ninja.json](./181774-forest-ninja.json) |
+| Forest Nothing | 415701 | [415701-forest-nothing.json](./415701-forest-nothing.json) |
 | Forest of Death Masks | 385583 | [385583-forest-of-death-masks.json](./385583-forest-of-death-masks.json) |
 | Forest of Deceit | 248904 | [248904-forest-of-deceit.json](./248904-forest-of-deceit.json) |
 | Forest of Destiny | 298974 | [298974-forest-of-destiny.json](./298974-forest-of-destiny.json) |
@@ -12497,6 +12500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fricassee | 267995 | [267995-fricassee.json](./267995-fricassee.json) |
 | Frick Frack | 144625 | [144625-frick-frack.json](./144625-frick-frack.json) |
 | Frick, Inc. | 139849 | [139849-frick-inc.json](./139849-frick-inc.json) |
+| Frickbear's 3: The Limit | 415671 | [415671-frickbears-3-the-limit.json](./415671-frickbears-3-the-limit.json) |
 | Friction | 320250 | [320250-friction.json](./320250-friction.json) |
 | Friction 90's Arcade Race | 223085 | [223085-friction-90s-arcade-race.json](./223085-friction-90s-arcade-race.json) |
 | Friday | 130926 | [130926-friday.json](./130926-friday.json) |
@@ -12644,6 +12648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friendly Find | 149373 | [149373-friendly-find.json](./149373-friendly-find.json) |
 | Friendly Fire | 157099 | [157099-friendly-fire.json](./157099-friendly-fire.json) |
 | Friendly Fire | 315722 | [315722-friendly-fire.json](./315722-friendly-fire.json) |
+| Friendly Fire | 415665 | [415665-friendly-fire.json](./415665-friendly-fire.json) |
 | Friendly Fire: Arena | 158653 | [158653-friendly-fire-arena.json](./158653-friendly-fire-arena.json) |
 | Friendly Lab: Unlock | 259898 | [259898-friendly-lab-unlock.json](./259898-friendly-lab-unlock.json) |
 | Friendly Premonition | 242811 | [242811-friendly-premonition.json](./242811-friendly-premonition.json) |
