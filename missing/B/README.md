@@ -1006,7 +1006,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1108,6 +1107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bae Yong-joon to Manabu Kankokugo DS: Date-Hen | 269660 | [269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json](./269660-bae-yong-joon-to-manabu-kankokugo-ds-date-hen.json) |
 | Bae Yong-joon to Manabu Kankokugo DS: Test-Hen | 269659 | [269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json](./269659-bae-yong-joon-to-manabu-kankokugo-ds-test-hen.json) |
 | Bael's Rock | 368977 | [368977-baels-rock.json](./368977-baels-rock.json) |
+| Baerim | 415672 | [415672-baerim.json](./415672-baerim.json) |
 | Baezult | 31846 | [31846-baezult.json](./31846-baezult.json) |
 | Baezult 2 | 30832 | [30832-baezult-2.json](./30832-baezult-2.json) |
 | Baff | 118340 | [118340-baff.json](./118340-baff.json) |
@@ -11898,6 +11898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Cruise | 158850 | [158850-bloody-cruise.json](./158850-bloody-cruise.json) |
 | Bloody Doctor | 249866 | [249866-bloody-doctor.json](./249866-bloody-doctor.json) |
 | Bloody Downsizing | 224665 | [224665-bloody-downsizing.json](./224665-bloody-downsizing.json) |
+| Bloody Duke | 415678 | [415678-bloody-duke.json](./415678-bloody-duke.json) |
 | Bloody Efforts | 211473 | [211473-bloody-efforts.json](./211473-bloody-efforts.json) |
 | Bloody Ending | 129672 | [129672-bloody-ending.json](./129672-bloody-ending.json) |
 | Bloody Everybody | 190885 | [190885-bloody-everybody.json](./190885-bloody-everybody.json) |
@@ -13219,6 +13220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber | 44359 | [44359-bomber.json](./44359-bomber.json) |
 | Bomber 3 | 223361 | [223361-bomber-3.json](./223361-bomber-3.json) |
 | Bomber 95 | 106506 | [106506-bomber-95.json](./106506-bomber-95.json) |
+| Bomber Angel Bombriel: Forever the Kings | 415617 | [415617-bomber-angel-bombriel-forever-the-kings.json](./415617-bomber-angel-bombriel-forever-the-kings.json) |
 | Bomber Attack | 21918 | [21918-bomber-attack.json](./21918-bomber-attack.json) |
 | Bomber Barn | 113497 | [113497-bomber-barn.json](./113497-bomber-barn.json) |
 | Bomber Baron | 15683 | [15683-bomber-baron.json](./15683-bomber-baron.json) |
@@ -13401,6 +13403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombs Away | 245147 | [245147-bombs-away.json](./245147-bombs-away.json) |
 | Bombs Away on Barrels | 240839 | [240839-bombs-away-on-barrels.json](./240839-bombs-away-on-barrels.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
+| Bombs vs Bots | 415691 | [415691-bombs-vs-bots.json](./415691-bombs-vs-bots.json) |
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
 | Bombshell Blitz | 341406 | [341406-bombshell-blitz.json](./341406-bombshell-blitz.json) |
 | Bombshells: Hell’s Belles | 344821 | [344821-bombshells-hell-s-belles.json](./344821-bombshells-hell-s-belles.json) |
