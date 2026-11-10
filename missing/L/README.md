@@ -2256,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Fighters | 107159 | [107159-league-of-fighters.json](./107159-league-of-fighters.json) |
 | League of Foes | 373487 | [373487-league-of-foes.json](./373487-league-of-foes.json) |
 | League Of Guessing | 31381 | [31381-league-of-guessing.json](./31381-league-of-guessing.json) |
+| League of Heroes | 85243 | [85243-league-of-heroes.json](./85243-league-of-heroes.json) |
 | League of Kingdoms | 188647 | [188647-league-of-kingdoms.json](./188647-league-of-kingdoms.json) |
 | League of Legends: 2025 Season One - Welcome to Noxus | 327916 | [327916-league-of-legends-2025-season-one-welcome-to-noxus.json](./327916-league-of-legends-2025-season-one-welcome-to-noxus.json) |
 | League of Legends: 2025 Season Two - Spirit Blossom Beyond | 342170 | [342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json](./342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json) |
@@ -5373,6 +5374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lillysia | 235695 | [235695-lillysia.json](./235695-lillysia.json) |
 | Lilo & Stitch Pinball | 107595 | [107595-lilo-and-stitch-pinball.json](./107595-lilo-and-stitch-pinball.json) |
 | lilPizzaBois | 104944 | [104944-lilpizzabois.json](./104944-lilpizzabois.json) |
+| Lilt Line | 85248 | [85248-lilt-line.json](./85248-lilt-line.json) |
 | Lilulu | 149412 | [149412-lilulu.json](./149412-lilulu.json) |
 | Lily | 112746 | [112746-lily.json](./112746-lily.json) |
 | Lily | 332883 | [332883-lily.json](./332883-lily.json) |
@@ -5879,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lion Tamer | 346061 | [346061-lion-tamer.json](./346061-lion-tamer.json) |
 | Lion the Last Homeland | 236151 | [236151-lion-the-last-homeland.json](./236151-lion-the-last-homeland.json) |
 | Liona's Adventure | 258447 | [258447-lionas-adventure.json](./258447-lionas-adventure.json) |
+| Lionel City Builder 3D: Rise of the Rails | 85246 | [85246-lionel-city-builder-3d-rise-of-the-rails.json](./85246-lionel-city-builder-3d-rise-of-the-rails.json) |
 | Lionel the Dragon | 197079 | [197079-lionel-the-dragon.json](./197079-lionel-the-dragon.json) |
 | Lionel Trains Presents: Trans-Con! | 348978 | [348978-lionel-trains-presents-trans-con.json](./348978-lionel-trains-presents-trans-con.json) |
 | Lionel Trains: On Track | 10738 | [10738-lionel-trains-on-track.json](./10738-lionel-trains-on-track.json) |
@@ -7409,12 +7412,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lola: The Escape | 170930 | [170930-lola-the-escape.json](./170930-lola-the-escape.json) |
 | Lola's ABC Party | 85257 | [85257-lolas-abc-party.json](./85257-lolas-abc-party.json) |
 | Lola's ABC Party - Learn to Read | 88344 | [88344-lolas-abc-party-learn-to-read.json](./88344-lolas-abc-party-learn-to-read.json) |
+| Lola's Alphabet Train | 85256 | [85256-lolas-alphabet-train.json](./85256-lolas-alphabet-train.json) |
 | Lola's Alphabet Train - Learn to Read | 88577 | [88577-lolas-alphabet-train-learn-to-read.json](./88577-lolas-alphabet-train-learn-to-read.json) |
 | Lola's Beach Puzzle | 88106 | [88106-lolas-beach-puzzle.json](./88106-lolas-beach-puzzle.json) |
 | Lola's Fruit Shop Sudoku | 85255 | [85255-lolas-fruit-shop-sudoku.json](./85255-lolas-fruit-shop-sudoku.json) |
 | Lola's Fruity Sudoku | 106747 | [106747-lolas-fruity-sudoku.json](./106747-lolas-fruity-sudoku.json) |
 | Lola's Learning World: Math edition | 89054 | [89054-lolas-learning-world-math-edition.json](./89054-lolas-learning-world-math-edition.json) |
 | Lola's Lutong Bahay | 327154 | [327154-lolas-lutong-bahay.json](./327154-lolas-lutong-bahay.json) |
+| Lola's Math Train | 85254 | [85254-lolas-math-train.json](./85254-lolas-math-train.json) |
 | Lola's World of Wonders | 137525 | [137525-lolas-world-of-wonders.json](./137525-lolas-world-of-wonders.json) |
 | Lolagame | 320294 | [320294-lolagame.json](./320294-lolagame.json) |
 | LOLBeans.io | 142931 | [142931-lolbeans-io.json](./142931-lolbeans-io.json) |
