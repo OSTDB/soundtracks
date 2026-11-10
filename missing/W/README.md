@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakatsuya Mura no Tatari | 370300 | [370300-wakatsuya-mura-no-tatari.json](./370300-wakatsuya-mura-no-tatari.json) |
 | WakaVR | 243626 | [243626-wakavr.json](./243626-wakavr.json) |
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
+| Wake | 16492 | [16492-wake.json](./16492-wake.json) |
 | Wake | 307750 | [307750-wake.json](./307750-wake.json) |
 | Wake | 95390 | [95390-wake.json](./95390-wake.json) |
 | Wake & Lunnye Devitsy | 50829 | [50829-wake-and-lunnye-devitsy.json](./50829-wake-and-lunnye-devitsy.json) |
@@ -2870,6 +2871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waystones | 346626 | [346626-waystones.json](./346626-waystones.json) |
 | Wayward | 183282 | [183282-wayward.json](./183282-wayward.json) |
 | Wayward | 22099 | [22099-wayward.json](./22099-wayward.json) |
+| Wayward Manor | 16624 | [16624-wayward-manor.json](./16624-wayward-manor.json) |
 | Wayward Puritans | 321203 | [321203-wayward-puritans.json](./321203-wayward-puritans.json) |
 | Wayward Rose | 248050 | [248050-wayward-rose.json](./248050-wayward-rose.json) |
 | Wayward Shadows | 213416 | [213416-wayward-shadows.json](./213416-wayward-shadows.json) |
@@ -5471,6 +5473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Superman | 116819 | [116819-wild-superman.json](./116819-wild-superman.json) |
 | Wild Tactics | 304746 | [304746-wild-tactics.json](./304746-wild-tactics.json) |
 | Wild Tamer: Next Age | 220061 | [220061-wild-tamer-next-age.json](./220061-wild-tamer-next-age.json) |
+| Wild Terra | 16468 | [16468-wild-terra.json](./16468-wild-terra.json) |
 | Wild Terra 2: New Lands | 126619 | [126619-wild-terra-2-new-lands.json](./126619-wild-terra-2-new-lands.json) |
 | Wild Terra 2: New Lands - Bard Pack | 263084 | [263084-wild-terra-2-new-lands-bard-pack.json](./263084-wild-terra-2-new-lands-bard-pack.json) |
 | Wild Terra 2: New Lands - Cultist Pack | 378307 | [378307-wild-terra-2-new-lands-cultist-pack.json](./378307-wild-terra-2-new-lands-cultist-pack.json) |
@@ -5901,6 +5904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windfall: The Oil Crisis Game | 402657 | [402657-windfall-the-oil-crisis-game.json](./402657-windfall-the-oil-crisis-game.json) |
 | Windfallers | 133145 | [133145-windfallers.json](./133145-windfallers.json) |
 | Windfolk: Sky Is Just the Beginning | 187438 | [187438-windfolk-sky-is-just-the-beginning.json](./187438-windfolk-sky-is-just-the-beginning.json) |
+| Windforge | 16881 | [16881-windforge.json](./16881-windforge.json) |
 | Windhawk | 388110 | [388110-windhawk.json](./388110-windhawk.json) |
 | Windhelm | 226119 | [226119-windhelm.json](./226119-windhelm.json) |
 | Windin | 87879 | [87879-windin.json](./87879-windin.json) |
