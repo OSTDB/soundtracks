@@ -198,6 +198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Builder | 331698 | [331698-waifu-builder.json](./331698-waifu-builder.json) |
 | Waifu Bunny Club | 384716 | [384716-waifu-bunny-club.json](./384716-waifu-bunny-club.json) |
 | Waifu by Myside: Patch Me In | 384718 | [384718-waifu-by-myside-patch-me-in.json](./384718-waifu-by-myside-patch-me-in.json) |
+| Waifu Cam Girl | 401328 | [401328-waifu-cam-girl.json](./401328-waifu-cam-girl.json) |
 | Waifu Closet | 331097 | [331097-waifu-closet.json](./331097-waifu-closet.json) |
 | Waifu Club: Ayame | 259153 | [259153-waifu-club-ayame.json](./259153-waifu-club-ayame.json) |
 | Waifu Club: Azumi | 295374 | [295374-waifu-club-azumi.json](./295374-waifu-club-azumi.json) |
