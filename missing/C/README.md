@@ -570,6 +570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | California Games II | 263904 | [263904-california-games-ii.json](./263904-california-games-ii.json) |
 | California Games II | 263906 | [263906-california-games-ii.json](./263906-california-games-ii.json) |
 | California Gold Rush | 23271 | [23271-california-gold-rush.json](./23271-california-gold-rush.json) |
+| California Run | 424262 | [424262-california-run.json](./424262-california-run.json) |
 | California Speed | 3335 | [3335-california-speed.json](./3335-california-speed.json) |
 | California Super Sports | 85021 | [85021-california-super-sports.json](./85021-california-super-sports.json) |
 | California Surfing | 278856 | [278856-california-surfing.json](./278856-california-surfing.json) |
@@ -19176,6 +19177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of the Empire: Timeloop - Collector's Edition | 356113 | [356113-crown-of-the-empire-timeloop-collectors-edition.json](./356113-crown-of-the-empire-timeloop-collectors-edition.json) |
 | Crown of the Nile: Cleopatra's Choice | 408436 | [408436-crown-of-the-nile-cleopatras-choice.json](./408436-crown-of-the-nile-cleopatras-choice.json) |
 | Crown of Thorns | 235359 | [235359-crown-of-thorns.json](./235359-crown-of-thorns.json) |
+| Crown of Time | 424300 | [424300-crown-of-time.json](./424300-crown-of-time.json) |
 | Crown of Worlds | 105622 | [105622-crown-of-worlds.json](./105622-crown-of-worlds.json) |
 | Crown of Zephyr | 230727 | [230727-crown-of-zephyr.json](./230727-crown-of-zephyr.json) |
 | Crown Siege | 386943 | [386943-crown-siege.json](./386943-crown-siege.json) |
@@ -19204,6 +19206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownfall: Young Hero | 373649 | [373649-crownfall-young-hero.json](./373649-crownfall-young-hero.json) |
 | Crownhold | 414112 | [414112-crownhold.json](./414112-crownhold.json) |
 | Crowning Calamity | 284332 | [284332-crowning-calamity.json](./284332-crowning-calamity.json) |
+| Crownkeep | 424273 | [424273-crownkeep.json](./424273-crownkeep.json) |
 | Crownless Abyss | 251767 | [251767-crownless-abyss.json](./251767-crownless-abyss.json) |
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
 | Crowns and Pawns: Amber Road | 417328 | [417328-crowns-and-pawns-amber-road.json](./417328-crowns-and-pawns-amber-road.json) |
