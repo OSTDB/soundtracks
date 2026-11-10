@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhǐshàngtánbīng Mónǐqì | 147359 | [147359-zhishangtanbing-moniqi.json](./147359-zhishangtanbing-moniqi.json) |
 | Zhǐshì Yī Zuò Lóu | 158847 | [158847-zhishi-yi-zuo-lou.json](./158847-zhishi-yi-zuo-lou.json) |
 | ZHive | 120773 | [120773-zhive.json](./120773-zhive.json) |
+| Zhǐyào Nǐ Xìngfú Jiù Hǎo | 407658 | [407658-zhiyao-ni-xingfu-jiu-hao.json](./407658-zhiyao-ni-xingfu-jiu-hao.json) |
 | Zhìzūn Chuánqí Yīngxióng Bǎn | 154140 | [154140-zhizun-chuanqi-yingxiong-ban.json](./154140-zhizun-chuanqi-yingxiong-ban.json) |
 | Zhmurki | 194888 | [194888-zhmurki.json](./194888-zhmurki.json) |
 | Zhmyshenko Valery Albertovich | 99018 | [99018-zhmyshenko-valery-albertovich.json](./99018-zhmyshenko-valery-albertovich.json) |
