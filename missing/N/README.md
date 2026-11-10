@@ -4823,6 +4823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Puppeteer | 138563 | [138563-nightmare-puppeteer.json](./138563-nightmare-puppeteer.json) |
 | Nightmare Pursuit | 313915 | [313915-nightmare-pursuit.json](./313915-nightmare-pursuit.json) |
 | Nightmare Puzzles: The Unknown | 351553 | [351553-nightmare-puzzles-the-unknown.json](./351553-nightmare-puzzles-the-unknown.json) |
+| Nightmare Reaper | 117281 | [117281-nightmare-reaper.json](./117281-nightmare-reaper.json) |
 | Nightmare Reaper: Multiplayer Update | 369777 | [369777-nightmare-reaper-multiplayer-update.json](./369777-nightmare-reaper-multiplayer-update.json) |
 | Nightmare Retro | 422472 | [422472-nightmare-retro.json](./422472-nightmare-retro.json) |
 | Nightmare Rooms VR | 207753 | [207753-nightmare-rooms-vr.json](./207753-nightmare-rooms-vr.json) |
