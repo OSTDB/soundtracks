@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge of the Blade | 420005 | [420005-edge-of-the-blade.json](./420005-edge-of-the-blade.json) |
 | Edge of the End | 367498 | [367498-edge-of-the-end.json](./367498-edge-of-the-end.json) |
 | Edge of the Wild | 348360 | [348360-edge-of-the-wild.json](./348360-edge-of-the-wild.json) |
+| Edge of Time: Recompiled | 421795 | [421795-edge-of-time-recompiled.json](./421795-edge-of-time-recompiled.json) |
 | Edge of Time: Rise of the Aeus | 120091 | [120091-edge-of-time-rise-of-the-aeus.json](./120091-edge-of-time-rise-of-the-aeus.json) |
 | Edge of Tomorrow | 152002 | [152002-edge-of-tomorrow.json](./152002-edge-of-tomorrow.json) |
 | Edge of Twilight: Return to Glory | 6986 | [6986-edge-of-twilight-return-to-glory.json](./6986-edge-of-twilight-return-to-glory.json) |
