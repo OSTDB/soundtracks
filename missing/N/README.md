@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: Danger by Design | 14953 | [14953-nancy-drew-danger-by-design.json](./14953-nancy-drew-danger-by-design.json) |
 | Nancy Drew: Danger on Deception Island | 10580 | [10580-nancy-drew-danger-on-deception-island.json](./10580-nancy-drew-danger-on-deception-island.json) |
 | Nancy Drew: Ghost Dogs of Moon Lake | 7626 | [7626-nancy-drew-ghost-dogs-of-moon-lake.json](./7626-nancy-drew-ghost-dogs-of-moon-lake.json) |
+| Nancy Drew: Labyrinth of Lies | 29925 | [29925-nancy-drew-labyrinth-of-lies.json](./29925-nancy-drew-labyrinth-of-lies.json) |
 | Nancy Drew: Last Train to Blue Moon Canyon | 15997 | [15997-nancy-drew-last-train-to-blue-moon-canyon.json](./15997-nancy-drew-last-train-to-blue-moon-canyon.json) |
 | Nancy Drew: Legend of the Crystal Skull | 7629 | [7629-nancy-drew-legend-of-the-crystal-skull.json](./7629-nancy-drew-legend-of-the-crystal-skull.json) |
 | Nancy Drew: Message in a Haunted Mansion | 248638 | [248638-nancy-drew-message-in-a-haunted-mansion.json](./248638-nancy-drew-message-in-a-haunted-mansion.json) |
@@ -411,6 +412,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nancy Drew: The Mystery of the Clue Bender Society | 47907 | [47907-nancy-drew-the-mystery-of-the-clue-bender-society.json](./47907-nancy-drew-the-mystery-of-the-clue-bender-society.json) |
 | Nancy Drew: The Phantom of Venice | 16003 | [16003-nancy-drew-the-phantom-of-venice.json](./16003-nancy-drew-the-phantom-of-venice.json) |
 | Nancy Drew: The Secret of Shadow Ranch | 29928 | [29928-nancy-drew-the-secret-of-shadow-ranch.json](./29928-nancy-drew-the-secret-of-shadow-ranch.json) |
+| Nancy Drew: The Shattered Medallion | 29926 | [29926-nancy-drew-the-shattered-medallion.json](./29926-nancy-drew-the-shattered-medallion.json) |
+| Nancy Drew: The Silent Spy | 29927 | [29927-nancy-drew-the-silent-spy.json](./29927-nancy-drew-the-silent-spy.json) |
 | Nancy Drew: The White Wolf of Icicle Creek | 5050 | [5050-nancy-drew-the-white-wolf-of-icicle-creek.json](./5050-nancy-drew-the-white-wolf-of-icicle-creek.json) |
 | Nancy Drew: Tomb of the Lost Queen | 10587 | [10587-nancy-drew-tomb-of-the-lost-queen.json](./10587-nancy-drew-tomb-of-the-lost-queen.json) |
 | Nancy Drew: Trail of the Twister | 10588 | [10588-nancy-drew-trail-of-the-twister.json](./10588-nancy-drew-trail-of-the-twister.json) |
