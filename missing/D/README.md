@@ -7036,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonologist | 241332 | [241332-demonologist.json](./241332-demonologist.json) |
 | Demonology 101 | 281209 | [281209-demonology-101.json](./281209-demonology-101.json) |
 | Demonology: Incubus - Chapter 5 | 319659 | [319659-demonology-incubus-chapter-5.json](./319659-demonology-incubus-chapter-5.json) |
+| Demonology: Incubus - Chapter 9 | 420022 | [420022-demonology-incubus-chapter-9.json](./420022-demonology-incubus-chapter-9.json) |
 | Demonology: Incubus: Chapter 1 | 315244 | [315244-demonology-incubus-chapter-1.json](./315244-demonology-incubus-chapter-1.json) |
 | Demonology: Incubus: Chapter 2 | 315246 | [315246-demonology-incubus-chapter-2.json](./315246-demonology-incubus-chapter-2.json) |
 | Demonology: Incubus: Chapter 3 | 315247 | [315247-demonology-incubus-chapter-3.json](./315247-demonology-incubus-chapter-3.json) |
@@ -7466,6 +7467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derelict | 168384 | [168384-derelict.json](./168384-derelict.json) |
 | Derelict | 32423 | [32423-derelict.json](./32423-derelict.json) |
 | Derelict Fleet | 44267 | [44267-derelict-fleet.json](./44267-derelict-fleet.json) |
+| Derelict Planet | 420039 | [420039-derelict-planet.json](./420039-derelict-planet.json) |
 | Derelict Star | 376551 | [376551-derelict-star.json](./376551-derelict-star.json) |
 | Derelict Void | 144606 | [144606-derelict-void.json](./144606-derelict-void.json) |
 | Dereliction Derby | 262553 | [262553-dereliction-derby.json](./262553-dereliction-derby.json) |
@@ -7655,6 +7657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Rigs | 134060 | [134060-desert-rigs.json](./134060-desert-rigs.json) |
 | Desert Runners | 130679 | [130679-desert-runners.json](./130679-desert-runners.json) |
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
+| Desert Shadows | 420056 | [420056-desert-shadows.json](./420056-desert-shadows.json) |
 | Desert Skies | 116767 | [116767-desert-skies.json](./116767-desert-skies.json) |
 | Desert Speedtrap Starring Road Runner & Wile E. Coyote | 8098 | [8098-desert-speedtrap-starring-road-runner-and-wile-e-coyote.json](./8098-desert-speedtrap-starring-road-runner-and-wile-e-coyote.json) |
 | Desert Spirit Grave | 253978 | [253978-desert-spirit-grave.json](./253978-desert-spirit-grave.json) |
@@ -8426,6 +8429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detuned | 239317 | [239317-detuned.json](./239317-detuned.json) |
 | Deuces Wild: Video Poker | 147833 | [147833-deuces-wild-video-poker.json](./147833-deuces-wild-video-poker.json) |
 | Deul | 38507 | [38507-deul.json](./38507-deul.json) |
+| Deunocta | 420068 | [420068-deunocta.json](./420068-deunocta.json) |
 | Deus | 10858 | [10858-deus.json](./10858-deus.json) |
 | Deus Cult | 298299 | [298299-deus-cult.json](./298299-deus-cult.json) |
 | Deus Ex Ceviche | 140160 | [140160-deus-ex-ceviche.json](./140160-deus-ex-ceviche.json) |
@@ -9602,6 +9606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digerati Presents: The Dungeon Crawl Vol. 1 | 147884 | [147884-digerati-presents-the-dungeon-crawl-vol-1.json](./147884-digerati-presents-the-dungeon-crawl-vol-1.json) |
 | Digested | 278255 | [278255-digested.json](./278255-digested.json) |
 | Digfender | 109064 | [109064-digfender.json](./109064-digfender.json) |
+| Diggems | 420031 | [420031-diggems.json](./420031-diggems.json) |
 | Digger | 172721 | [172721-digger.json](./172721-digger.json) |
 | Digger | 24425 | [24425-digger.json](./24425-digger.json) |
 | Digger Chan | 79147 | [79147-digger-chan.json](./79147-digger-chan.json) |
