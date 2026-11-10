@@ -2316,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Angelique Special | 221225 | [221225-neo-angelique-special.json](./221225-neo-angelique-special.json) |
 | Neo Angelique Tenshi no Namida | 131907 | [131907-neo-angelique-tenshi-no-namida.json](./131907-neo-angelique-tenshi-no-namida.json) |
 | Neo Angle | 67647 | [67647-neo-angle.json](./67647-neo-angle.json) |
+| Neo Aquarium: The King of Crustaceans | 35656 | [35656-neo-aquarium-the-king-of-crustaceans.json](./35656-neo-aquarium-the-king-of-crustaceans.json) |
 | Neo Artifacts | 393819 | [393819-neo-artifacts.json](./393819-neo-artifacts.json) |
 | Neo Atlas | 166364 | [166364-neo-atlas.json](./166364-neo-atlas.json) |
 | Neo Atlas 1469 | 27318 | [27318-neo-atlas-1469.json](./27318-neo-atlas-1469.json) |
@@ -4699,6 +4700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightfall Village | 386374 | [386374-nightfall-village.json](./386374-nightfall-village.json) |
 | Nightfall Wardens | 302194 | [302194-nightfall-wardens.json](./302194-nightfall-wardens.json) |
 | Nightfall Warriors | 283334 | [283334-nightfall-warriors.json](./283334-nightfall-warriors.json) |
+| Nightfall: Escape | 35502 | [35502-nightfall-escape.json](./35502-nightfall-escape.json) |
 | NightFeed | 279461 | [279461-nightfeed.json](./279461-nightfeed.json) |
 | NightFell | 329671 | [329671-nightfell.json](./329671-nightfell.json) |
 | Nightfighter | 84263 | [84263-nightfighter.json](./84263-nightfighter.json) |
