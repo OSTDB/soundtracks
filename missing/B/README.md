@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakeaway | 389197 | [389197-bakeaway.json](./389197-bakeaway.json) |
 | Bakeborough | 211085 | [211085-bakeborough.json](./211085-bakeborough.json) |
 | Bakechu Relay | 366917 | [366917-bakechu-relay.json](./366917-bakechu-relay.json) |
+| Baked Blood Tavern | 409176 | [409176-baked-blood-tavern.json](./409176-baked-blood-tavern.json) |
 | Baked With Love | 412906 | [412906-baked-with-love.json](./412906-baked-with-love.json) |
 | Baked:Magic | 135024 | [135024-baked-magic.json](./135024-baked-magic.json) |
 | Bakemono | 128018 | [128018-bakemono.json](./128018-bakemono.json) |
@@ -7609,6 +7610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biathlon Challenge | 346938 | [346938-biathlon-challenge.json](./346938-biathlon-challenge.json) |
 | Biathlon Champion 2007 | 56860 | [56860-biathlon-champion-2007.json](./56860-biathlon-champion-2007.json) |
 | Biba's Adventures | 127453 | [127453-bibas-adventures.json](./127453-bibas-adventures.json) |
+| Bibao | 409277 | [409277-bibao.json](./409277-bibao.json) |
 | Bibbidiba Fan Game | 338234 | [338234-bibbidiba-fan-game.json](./338234-bibbidiba-fan-game.json) |
 | Bibdu | 395855 | [395855-bibdu.json](./395855-bibdu.json) |
 | Bibi & Tina at the Horse Farm | 122789 | [122789-bibi-and-tina-at-the-horse-farm.json](./122789-bibi-and-tina-at-the-horse-farm.json) |
@@ -9774,6 +9776,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackholes Stars | 190219 | [190219-blackholes-stars.json](./190219-blackholes-stars.json) |
 | BlackHoopS | 111482 | [111482-blackhoops.json](./111482-blackhoops.json) |
 | Blackish House | 271769 | [271769-blackish-house.json](./271769-blackish-house.json) |
+| Blackish House: SideA Retour | 409252 | [409252-blackish-house-sidea-retour.json](./409252-blackish-house-sidea-retour.json) |
+| Blackish House: SideZ Retour | 409254 | [409254-blackish-house-sidez-retour.json](./409254-blackish-house-sidez-retour.json) |
 | Blackjack | 131076 | [131076-blackjack.json](./131076-blackjack.json) |
 | Blackjack | 131529 | [131529-blackjack.json](./131529-blackjack.json) |
 | Blackjack | 204476 | [204476-blackjack.json](./204476-blackjack.json) |
@@ -10294,6 +10298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Bunny + | 135014 | [135014-blaster-bunny.json](./135014-blaster-bunny.json) |
 | Blaster Bunny Chronicles | 363661 | [363661-blaster-bunny-chronicles.json](./363661-blaster-bunny-chronicles.json) |
 | Blaster Cop | 68759 | [68759-blaster-cop.json](./68759-blaster-cop.json) |
+| Blaster Force | 409270 | [409270-blaster-force.json](./409270-blaster-force.json) |
 | Blaster Lilo | 113868 | [113868-blaster-lilo.json](./113868-blaster-lilo.json) |
 | Blaster Master 2 | 46238 | [46238-blaster-master-2.json](./46238-blaster-master-2.json) |
 | Blaster Master Boy | 7790 | [7790-blaster-master-boy.json](./7790-blaster-master-boy.json) |
