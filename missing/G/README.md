@@ -2678,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekiatsu!! Pachige Tamashii Max Evangelion 7 x Seimei no Kodou | 249698 | [249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json](./249698-gekiatsu-pachige-tamashii-max-evangelion-7-x-seimei-no-kodou.json) |
 | Gekibo: Gekisha Boy | 43199 | [43199-gekibo-gekisha-boy.json](./43199-gekibo-gekisha-boy.json) |
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
+| Gekido | 4128 | [4128-gekido.json](./4128-gekido.json) |
 | Gekido Advance: Kintaro's Revenge | 6418 | [6418-gekido-advance-kintaros-revenge.json](./6418-gekido-advance-kintaros-revenge.json) |
 | Gekifu Bakegyamon: Ayakashi Fighting | 61346 | [61346-gekifu-bakegyamon-ayakashi-fighting.json](./61346-gekifu-bakegyamon-ayakashi-fighting.json) |
 | Gekihaden | 259417 | [259417-gekihaden.json](./259417-gekihaden.json) |
