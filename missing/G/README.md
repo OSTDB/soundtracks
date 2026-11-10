@@ -2268,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gashi Shachi no Sachi | 225841 | [225841-gashi-shachi-no-sachi.json](./225841-gashi-shachi-no-sachi.json) |
 | Gasketball | 60316 | [60316-gasketball.json](./60316-gasketball.json) |
 | Gaslamp Cases 10: The Loch Ness Enigma | 336995 | [336995-gaslamp-cases-10-the-loch-ness-enigma.json](./336995-gaslamp-cases-10-the-loch-ness-enigma.json) |
+| Gaslamp Cases 16: The Final Curtain | 416468 | [416468-gaslamp-cases-16-the-final-curtain.json](./416468-gaslamp-cases-16-the-final-curtain.json) |
 | Gaslamp Cases 2: The Haunted Village | 181119 | [181119-gaslamp-cases-2-the-haunted-village.json](./181119-gaslamp-cases-2-the-haunted-village.json) |
 | Gaslamp Cases 3: Ancient Secrets | 193039 | [193039-gaslamp-cases-3-ancient-secrets.json](./193039-gaslamp-cases-3-ancient-secrets.json) |
 | Gaslamp Cases 4: The Arcane Village | 294395 | [294395-gaslamp-cases-4-the-arcane-village.json](./294395-gaslamp-cases-4-the-arcane-village.json) |
@@ -2437,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntlet: The Deeper Dungeons | 37164 | [37164-gauntlet-the-deeper-dungeons.json](./37164-gauntlet-the-deeper-dungeons.json) |
 | Gauntlet: The Third Encounter | 7295 | [7295-gauntlet-the-third-encounter.json](./7295-gauntlet-the-third-encounter.json) |
 | Gauntletak | 372782 | [372782-gauntletak.json](./372782-gauntletak.json) |
+| Gauntleteer | 416209 | [416209-gauntleteer.json](./416209-gauntleteer.json) |
 | Gaurodan | 50350 | [50350-gaurodan.json](./50350-gaurodan.json) |
 | Gav-Gav Odyssey | 187758 | [187758-gav-gav-odyssey.json](./187758-gav-gav-odyssey.json) |
 | Gavin Tyler's Game Collection | 337662 | [337662-gavin-tylers-game-collection.json](./337662-gavin-tylers-game-collection.json) |
