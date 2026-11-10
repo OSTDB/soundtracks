@@ -7166,6 +7166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fitness Boxing | 103371 | [103371-fitness-boxing.json](./103371-fitness-boxing.json) |
 | Fitness Boxing 2: Rhythm & Exercise | 138952 | [138952-fitness-boxing-2-rhythm-and-exercise.json](./138952-fitness-boxing-2-rhythm-and-exercise.json) |
 | Fitness Boxing 3: Your Personal Trainer | 314941 | [314941-fitness-boxing-3-your-personal-trainer.json](./314941-fitness-boxing-3-your-personal-trainer.json) |
+| Fitness Boxing 3: Your Personal Trainer - Nintendo Switch 2 Edition | 402033 | [402033-fitness-boxing-3-your-personal-trainer-nintendo-switch-2-edition.json](./402033-fitness-boxing-3-your-personal-trainer-nintendo-switch-2-edition.json) |
 | Fitness Boxing feat. Hatsune Miku | 266725 | [266725-fitness-boxing-feat-hatsune-miku.json](./266725-fitness-boxing-feat-hatsune-miku.json) |
 | Fitness Boxing Fist of the North Star | 217551 | [217551-fitness-boxing-fist-of-the-north-star.json](./217551-fitness-boxing-fist-of-the-north-star.json) |
 | Fitness Boxing: Fist of the North Star - Expansion Pack | 279869 | [279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json](./279869-fitness-boxing-fist-of-the-north-star-expansion-pack.json) |
@@ -13283,6 +13284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostory | 159086 | [159086-frostory.json](./159086-frostory.json) |
 | Frostpoint Toll | 380662 | [380662-frostpoint-toll.json](./380662-frostpoint-toll.json) |
 | Frostpoint VR: Proving Grounds | 139228 | [139228-frostpoint-vr-proving-grounds.json](./139228-frostpoint-vr-proving-grounds.json) |
+| Frostpunk 2: Breach of Trust | 397575 | [397575-frostpunk-2-breach-of-trust.json](./397575-frostpunk-2-breach-of-trust.json) |
 | Frostpunk 2: Fractured Utopias | 375800 | [375800-frostpunk-2-fractured-utopias.json](./375800-frostpunk-2-fractured-utopias.json) |
 | Frostpunk 2: Icebreaker Edition | 362011 | [362011-frostpunk-2-icebreaker-edition.json](./362011-frostpunk-2-icebreaker-edition.json) |
 | Frostpunk Pico | 284128 | [284128-frostpunk-pico.json](./284128-frostpunk-pico.json) |
