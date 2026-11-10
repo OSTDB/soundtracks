@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaged | 6519 | [6519-kaged.json](./6519-kaged.json) |
 | Kageki | 39726 | [39726-kageki.json](./39726-kageki.json) |
 | Kageninja | 385743 | [385743-kageninja.json](./385743-kageninja.json) |
+| Kagero: Deception II | 4124 | [4124-kagero-deception-ii.json](./4124-kagero-deception-ii.json) |
 | Kagerou | 181658 | [181658-kagerou.json](./181658-kagerou.json) |
 | Kagerou Densetsu | 48448 | [48448-kagerou-densetsu.json](./48448-kagerou-densetsu.json) |
 | Kagerou Labyrinth | 338819 | [338819-kagerou-labyrinth.json](./338819-kagerou-labyrinth.json) |
