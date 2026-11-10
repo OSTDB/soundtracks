@@ -5964,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Zombies At Night | 150498 | [150498-escape-zombies-at-night.json](./150498-escape-zombies-at-night.json) |
 | Escape: Backrooms Horror | 313226 | [313226-escape-backrooms-horror.json](./313226-escape-backrooms-horror.json) |
 | Escape: Backrooms Horror VR | 391175 | [391175-escape-backrooms-horror-vr.json](./391175-escape-backrooms-horror-vr.json) |
+| Escape: Close Call | 19035 | [19035-escape-close-call.json](./19035-escape-close-call.json) |
 | Escape: Escape Spaceman | 175539 | [175539-escape-escape-spaceman.json](./175539-escape-escape-spaceman.json) |
 | Escape: Forced Overtime | 153010 | [153010-escape-forced-overtime.json](./153010-escape-forced-overtime.json) |
 | Escape: Immersion | 391205 | [391205-escape-immersion.json](./391205-escape-immersion.json) |
