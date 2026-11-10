@@ -3901,6 +3901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
 | Tempaux | 354525 | [354525-tempaux.json](./354525-tempaux.json) |
 | Temper Tantrum | 13377 | [13377-temper-tantrum.json](./13377-temper-tantrum.json) |
+| Temperance | 418062 | [418062-temperance.json](./418062-temperance.json) |
 | Temperature Adjustment Log #1587325 | 186624 | [186624-temperature-adjustment-log-1587325.json](./186624-temperature-adjustment-log-1587325.json) |
 | Tempered Hue | 361260 | [361260-tempered-hue.json](./361260-tempered-hue.json) |
 | Temperia: Soul of Majestic | 182127 | [182127-temperia-soul-of-majestic.json](./182127-temperia-soul-of-majestic.json) |
@@ -11234,6 +11235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The History of Everything | 415205 | [415205-the-history-of-everything.json](./415205-the-history-of-everything.json) |
 | The History of Fruit | 268471 | [268471-the-history-of-fruit.json](./268471-the-history-of-fruit.json) |
 | The History of Magic Tower: Opening | 309354 | [309354-the-history-of-magic-tower-opening.json](./309354-the-history-of-magic-tower-opening.json) |
+| The History of Zakrainian Literature | 418109 | [418109-the-history-of-zakrainian-literature.json](./418109-the-history-of-zakrainian-literature.json) |
 | The Hit Car | 245634 | [245634-the-hit-car.json](./245634-the-hit-car.json) |
 | The Hitchhiker's Guide to the Galaxy | 12143 | [12143-the-hitchhikers-guide-to-the-galaxy.json](./12143-the-hitchhikers-guide-to-the-galaxy.json) |
 | The Hive | 125291 | [125291-the-hive.json](./125291-the-hive.json) |
@@ -15602,6 +15604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phone Rings | 266716 | [266716-the-phone-rings.json](./266716-the-phone-rings.json) |
 | The Photo of God | 341467 | [341467-the-photo-of-god.json](./341467-the-photo-of-god.json) |
 | The Photographer | 338302 | [338302-the-photographer.json](./338302-the-photographer.json) |
+| The Photographer | 418100 | [418100-the-photographer.json](./418100-the-photographer.json) |
 | The Physiology of the Eye | 29705 | [29705-the-physiology-of-the-eye.json](./29705-the-physiology-of-the-eye.json) |
 | The Piano | 20180 | [20180-the-piano.json](./20180-the-piano.json) |
 | The Piano Past | 134270 | [134270-the-piano-past.json](./134270-the-piano-past.json) |
@@ -17743,6 +17746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sorceress | 29788 | [29788-the-sorceress.json](./29788-the-sorceress.json) |
 | The Sorceror's Appraisal | 71240 | [71240-the-sorcerors-appraisal.json](./71240-the-sorcerors-appraisal.json) |
 | The Sorrow of Gadhlan' Thur | 333870 | [333870-the-sorrow-of-gadhlan-thur.json](./333870-the-sorrow-of-gadhlan-thur.json) |
+| The Sorrows of Young Werther | 418104 | [418104-the-sorrows-of-young-werther.json](./418104-the-sorrows-of-young-werther.json) |
 | The Sorrowvirus | 245014 | [245014-the-sorrowvirus.json](./245014-the-sorrowvirus.json) |
 | The Sorrowvirus: A Faceless Short Story | 115716 | [115716-the-sorrowvirus-a-faceless-short-story.json](./115716-the-sorrowvirus-a-faceless-short-story.json) |
 | The Sorting Bureau | 397378 | [397378-the-sorting-bureau.json](./397378-the-sorting-bureau.json) |
@@ -18141,6 +18145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Supper | 128289 | [128289-the-supper.json](./128289-the-supper.json) |
 | The Supper: New Blood | 309822 | [309822-the-supper-new-blood.json](./309822-the-supper-new-blood.json) |
 | The Supplier's Complex | 343201 | [343201-the-suppliers-complex.json](./343201-the-suppliers-complex.json) |
+| The Supreme Chicken | 418107 | [418107-the-supreme-chicken.json](./418107-the-supreme-chicken.json) |
 | The Surfeit: Episode 1 | 170497 | [170497-the-surfeit-episode-1.json](./170497-the-surfeit-episode-1.json) |
 | The Surfer | 99471 | [99471-the-surfer.json](./99471-the-surfer.json) |
 | The Surge | 11590 | [11590-the-surge.json](./11590-the-surge.json) |
@@ -18187,6 +18192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sweet Scramble | 350215 | [350215-the-sweet-scramble.json](./350215-the-sweet-scramble.json) |
 | The Sweetest Ring | 268213 | [268213-the-sweetest-ring.json](./268213-the-sweetest-ring.json) |
 | The Sweetness that Returned | 385072 | [385072-the-sweetness-that-returned.json](./385072-the-sweetness-that-returned.json) |
+| The Swerve | 418108 | [418108-the-swerve.json](./418108-the-swerve.json) |
 | The Swine | 137693 | [137693-the-swine.json](./137693-the-swine.json) |
 | The Switch-Worker | 184490 | [184490-the-switch-worker.json](./184490-the-switch-worker.json) |
 | The Swoop 64 | 145429 | [145429-the-swoop-64.json](./145429-the-swoop-64.json) |
