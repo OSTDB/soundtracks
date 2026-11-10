@@ -3191,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genji Tsuushin Agedama | 42073 | [42073-genji-tsuushin-agedama.json](./42073-genji-tsuushin-agedama.json) |
 | Genji: Dawn of the Samurai | 14407 | [14407-genji-dawn-of-the-samurai.json](./14407-genji-dawn-of-the-samurai.json) |
 | Genji: Days of the Blade | 7315 | [7315-genji-days-of-the-blade.json](./7315-genji-days-of-the-blade.json) |
+| Genji: Days of the Blade - Costume Pack | 409265 | [409265-genji-days-of-the-blade-costume-pack.json](./409265-genji-days-of-the-blade-costume-pack.json) |
 | Genji: Time Suspense Adventure | 66150 | [66150-genji-time-suspense-adventure.json](./66150-genji-time-suspense-adventure.json) |
 | Genji: Time Suspense Adventure | 66634 | [66634-genji-time-suspense-adventure.json](./66634-genji-time-suspense-adventure.json) |
 | Genjin Collection | 64343 | [64343-genjin-collection.json](./64343-genjin-collection.json) |
@@ -6025,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat's Tale Adventure | 283378 | [283378-goats-tale-adventure.json](./283378-goats-tale-adventure.json) |
 | Goat's Tale Plus | 187173 | [187173-goats-tale-plus.json](./187173-goats-tale-plus.json) |
 | GoatBrains | 405036 | [405036-goatbrains.json](./405036-goatbrains.json) |
+| GoatCart | 409178 | [409178-goatcart.json](./409178-goatcart.json) |
 | Goatlings | 166460 | [166460-goatlings.json](./166460-goatlings.json) |
 | GoatPunks | 33929 | [33929-goatpunks.json](./33929-goatpunks.json) |
 | Goats on a Bridge | 10367 | [10367-goats-on-a-bridge.json](./10367-goats-on-a-bridge.json) |
@@ -8926,6 +8928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Graviton | 183771 | [183771-graviton.json](./183771-graviton.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
+| Gravitor | 409271 | [409271-gravitor.json](./409271-gravitor.json) |
 | Gravitorium | 274322 | [274322-gravitorium.json](./274322-gravitorium.json) |
 | Gravitorque DX | 355508 | [355508-gravitorque-dx.json](./355508-gravitorque-dx.json) |
 | Gravitrex | 46506 | [46506-gravitrex.json](./46506-gravitrex.json) |
