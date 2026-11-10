@@ -1254,6 +1254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana Soul | 115074 | [115074-katana-soul.json](./115074-katana-soul.json) |
 | Katana X | 41132 | [41132-katana-x.json](./41132-katana-x.json) |
 | Katana Zero DLC | 339625 | [339625-katana-zero-dlc.json](./339625-katana-zero-dlc.json) |
+| Katana Zero: The Dragon Mod | 426043 | [426043-katana-zero-the-dragon-mod.json](./426043-katana-zero-the-dragon-mod.json) |
 | Katana's Path | 289307 | [289307-katanas-path.json](./289307-katanas-path.json) |
 | Katanaut | 323461 | [323461-katanaut.json](./323461-katanaut.json) |
 | Katanegai | 398683 | [398683-katanegai.json](./398683-katanegai.json) |
@@ -2986,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimmy | 29331 | [29331-kimmy.json](./29331-kimmy.json) |
 | Kimo Kawa E! | 72479 | [72479-kimo-kawa-e.json](./72479-kimo-kawa-e.json) |
 | Kimochii Classroom | 360209 | [360209-kimochii-classroom.json](./360209-kimochii-classroom.json) |
+| Kimodameshi Online | 425989 | [425989-kimodameshi-online.json](./425989-kimodameshi-online.json) |
 | KimodameshiGolf | 266976 | [266976-kimodameshigolf.json](./266976-kimodameshigolf.json) |
 | Kimokawaiii | 304184 | [304184-kimokawaiii.json](./304184-kimokawaiii.json) |
 | Kimomen Demo Kyokon nara School Caste no Chouten ni Tateru!? Gakuen Ichi no Motekawa Shuudan ni Tanetsuke Shimakuri! Yume no Gakuen Harem! | 280641 | [280641-kimomen-demo-kyokon-nara-school-caste-no-chouten-ni-tateru-gakuen-ichi-no-motekawa-shuudan-ni-tanetsuke-shimakuri-yume-no-gakuen-harem.json](./280641-kimomen-demo-kyokon-nara-school-caste-no-chouten-ni-tateru-gakuen-ichi-no-motekawa-shuudan-ni-tanetsuke-shimakuri-yume-no-gakuen-harem.json) |
