@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undersea Escape | 315599 | [315599-undersea-escape.json](./315599-undersea-escape.json) |
 | Undersea: Waves and Adventures | 369328 | [369328-undersea-waves-and-adventures.json](./369328-undersea-waves-and-adventures.json) |
 | Undershadows | 252548 | [252548-undershadows.json](./252548-undershadows.json) |
+| UnderShot: An Undertale X Oneshot Mod | 427294 | [427294-undershot-an-undertale-x-oneshot-mod.json](./427294-undershot-an-undertale-x-oneshot-mod.json) |
 | Underspace | 120577 | [120577-underspace.json](./120577-underspace.json) |
 | Understand | 154873 | [154873-understand.json](./154873-understand.json) |
 | Understanding of the Abyss | 151733 | [151733-understanding-of-the-abyss.json](./151733-understanding-of-the-abyss.json) |
