@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pape Rangers | 294131 | [294131-pape-rangers.json](./294131-pape-rangers.json) |
 | Paper - A Game of Folding | 123859 | [123859-paper-a-game-of-folding.json](./123859-paper-a-game-of-folding.json) |
 | Paper 2: Origami Refolded | 333641 | [333641-paper-2-origami-refolded.json](./333641-paper-2-origami-refolded.json) |
+| Paper Airplane Chase | 85325 | [85325-paper-airplane-chase.json](./85325-paper-airplane-chase.json) |
 | Paper Airplane Flying Game | 414452 | [414452-paper-airplane-flying-game.json](./414452-paper-airplane-flying-game.json) |
 | Paper Angel | 247522 | [247522-paper-angel.json](./247522-paper-angel.json) |
 | Paper Animal Adventure | 204515 | [204515-paper-animal-adventure.json](./204515-paper-animal-adventure.json) |
@@ -4967,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Personal Study | 393939 | [393939-personal-study.json](./393939-personal-study.json) |
 | Personal Trainer Simulator | 192519 | [192519-personal-trainer-simulator.json](./192519-personal-trainer-simulator.json) |
 | Personal Trainer: Cooking | 41870 | [41870-personal-trainer-cooking.json](./41870-personal-trainer-cooking.json) |
+| Personal Trainer: Cooking | 85049 | [85049-personal-trainer-cooking.json](./85049-personal-trainer-cooking.json) |
 | Personal Trainer: Math | 78996 | [78996-personal-trainer-math.json](./78996-personal-trainer-math.json) |
 | Personal Trainer: Walking | 71901 | [71901-personal-trainer-walking.json](./71901-personal-trainer-walking.json) |
 | Personal Valley | 185522 | [185522-personal-valley.json](./185522-personal-valley.json) |
@@ -8935,6 +8937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
 | Pixel Skater | 241699 | [241699-pixel-skater.json](./241699-pixel-skater.json) |
 | Pixel Slayer | 231141 | [231141-pixel-slayer.json](./231141-pixel-slayer.json) |
+| Pixel Slime U | 84817 | [84817-pixel-slime-u.json](./84817-pixel-slime-u.json) |
 | Pixel Sniper | 402343 | [402343-pixel-sniper.json](./402343-pixel-sniper.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
 | Pixel Space | 35182 | [35182-pixel-space.json](./35182-pixel-space.json) |
@@ -9891,6 +9894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planted! | 398336 | [398336-planted.json](./398336-planted.json) |
 | Plantera | 17004 | [17004-plantera.json](./17004-plantera.json) |
 | Plantera 2: Golden Acorn | 128835 | [128835-plantera-2-golden-acorn.json](./128835-plantera-2-golden-acorn.json) |
+| Plantera Deluxe | 84724 | [84724-plantera-deluxe.json](./84724-plantera-deluxe.json) |
 | Planternauts | 341571 | [341571-planternauts.json](./341571-planternauts.json) |
 | Plantgotchi | 122321 | [122321-plantgotchi.json](./122321-plantgotchi.json) |
 | Planth Care | 181356 | [181356-planth-care.json](./181356-planth-care.json) |
@@ -12884,6 +12888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Quest | 132032 | [132032-pong-quest.json](./132032-pong-quest.json) |
 | Pong Temple | 190725 | [190725-pong-temple.json](./190725-pong-temple.json) |
 | Pong Toss Pro: Frat Party Games | 84810 | [84810-pong-toss-pro-frat-party-games.json](./84810-pong-toss-pro-frat-party-games.json) |
+| Pong Toss: Frat Party Games | 85156 | [85156-pong-toss-frat-party-games.json](./85156-pong-toss-frat-party-games.json) |
 | Pong World | 64055 | [64055-pong-world.json](./64055-pong-world.json) |
 | Pong-Tron | 70702 | [70702-pong-tron.json](./70702-pong-tron.json) |
 | Pong-Tron II | 70703 | [70703-pong-tron-ii.json](./70703-pong-tron-ii.json) |
@@ -16705,6 +16710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Nightmares Case 36: Henrietta Kedward | 104568 | [104568-project-nightmares-case-36-henrietta-kedward.json](./104568-project-nightmares-case-36-henrietta-kedward.json) |
 | Project Nihilum: Zero | 341553 | [341553-project-nihilum-zero.json](./341553-project-nihilum-zero.json) |
 | Project Nimbus | 10724 | [10724-project-nimbus.json](./10724-project-nimbus.json) |
+| Project Nimbus: Code Mirai | 68315 | [68315-project-nimbus-code-mirai.json](./68315-project-nimbus-code-mirai.json) |
 | Project Nimbus: Complete Edition | 117739 | [117739-project-nimbus-complete-edition.json](./117739-project-nimbus-complete-edition.json) |
 | Project Nincolas | 324093 | [324093-project-nincolas.json](./324093-project-nincolas.json) |
 | Project Noah | 201892 | [201892-project-noah.json](./201892-project-noah.json) |
@@ -17637,6 +17643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychiatric Hospital | 245978 | [245978-psychiatric-hospital.json](./245978-psychiatric-hospital.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim | 338006 | [338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json](./338006-psychiatric-prison-romance-serial-killer-anime-girls-dating-sim.json) |
+| Psychiatrist Simulator | 86300 | [86300-psychiatrist-simulator.json](./86300-psychiatrist-simulator.json) |
 | Psychiatrist Simulator 2 | 279487 | [279487-psychiatrist-simulator-2.json](./279487-psychiatrist-simulator-2.json) |
 | Psychic | 187201 | [187201-psychic.json](./187201-psychic.json) |
 | Psychic 5 | 39393 | [39393-psychic-5.json](./39393-psychic-5.json) |
