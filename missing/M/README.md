@@ -18781,6 +18781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Rush GT: Ultimate Edition | 283138 | [283138-moto-rush-gt-ultimate-edition.json](./283138-moto-rush-gt-ultimate-edition.json) |
 | Moto Rush GT: Ultra Edition | 332512 | [332512-moto-rush-gt-ultra-edition.json](./332512-moto-rush-gt-ultra-edition.json) |
 | Moto Rush Reborn | 302969 | [302969-moto-rush-reborn.json](./302969-moto-rush-reborn.json) |
+| Moto Shachiku no Ore ga Bishoujo JK ni Hirowarete Amaama Iyasare Ero Dousei Seikatsu | 409826 | [409826-moto-shachiku-no-ore-ga-bishoujo-jk-ni-hirowarete-amaama-iyasare-ero-dousei-seikatsu.json](./409826-moto-shachiku-no-ore-ga-bishoujo-jk-ni-hirowarete-amaama-iyasare-ero-dousei-seikatsu.json) |
 | Moto Trial Turbo | 402674 | [402674-moto-trial-turbo.json](./402674-moto-trial-turbo.json) |
 | Moto Trophy VR | 226147 | [226147-moto-trophy-vr.json](./226147-moto-trophy-vr.json) |
 | Moto Vlog Brasil | 257137 | [257137-moto-vlog-brasil.json](./257137-moto-vlog-brasil.json) |
@@ -22367,6 +22368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Super Defender | 112965 | [112965-my-super-defender.json](./112965-my-super-defender.json) |
 | My Super Defender: Battle Santa Edition | 126737 | [126737-my-super-defender-battle-santa-edition.json](./126737-my-super-defender-battle-santa-edition.json) |
 | My Super Tower 3 | 97087 | [97087-my-super-tower-3.json](./97087-my-super-tower-3.json) |
+| My Supermarket Simulator | 409934 | [409934-my-supermarket-simulator.json](./409934-my-supermarket-simulator.json) |
 | My SuperMart | 231919 | [231919-my-supermart.json](./231919-my-supermart.json) |
 | My Superstar Boyfriend | 284164 | [284164-my-superstar-boyfriend.json](./284164-my-superstar-boyfriend.json) |
 | My Sushi Story | 249678 | [249678-my-sushi-story.json](./249678-my-sushi-story.json) |
