@@ -1543,6 +1543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Elite Action: Fields of Glory | 5978 | [5978-panzer-elite-action-fields-of-glory.json](./5978-panzer-elite-action-fields-of-glory.json) |
 | Panzer Elite: Special Edition | 51857 | [51857-panzer-elite-special-edition.json](./51857-panzer-elite-special-edition.json) |
 | Panzer Front | 22008 | [22008-panzer-front.json](./22008-panzer-front.json) |
+| Panzer Front Ausf.B | 22571 | [22571-panzer-front-ausf-b.json](./22571-panzer-front-ausf-b.json) |
 | Panzer Geekz | 106252 | [106252-panzer-geekz.json](./106252-panzer-geekz.json) |
 | Panzer General | 4268 | [4268-panzer-general.json](./4268-panzer-general.json) |
 | Panzer General 3D Assault | 51856 | [51856-panzer-general-3d-assault.json](./51856-panzer-general-3d-assault.json) |
