@@ -7386,6 +7386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Card Perfect Collection Plus: Texas Hold 'em, Solitaire and Others | 255213 | [255213-the-card-perfect-collection-plus-texas-hold-em-solitaire-and-others.json](./255213-the-card-perfect-collection-plus-texas-hold-em-solitaire-and-others.json) |
 | The Card Stars: Cribbage / Solitaire | 59883 | [59883-the-card-stars-cribbage-solitaire.json](./59883-the-card-stars-cribbage-solitaire.json) |
 | THE Card: Poker, Texas hold 'em, Blackjack and Page One | 109491 | [109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json](./109491-the-card-poker-texas-hold-em-blackjack-and-page-one.json) |
+| The Cardian: Light the Shrines | 418698 | [418698-the-cardian-light-the-shrines.json](./418698-the-cardian-light-the-shrines.json) |
 | The Cardinal of the Kremlin | 14382 | [14382-the-cardinal-of-the-kremlin.json](./14382-the-cardinal-of-the-kremlin.json) |
 | The Cards Never Lie | 185402 | [185402-the-cards-never-lie.json](./185402-the-cards-never-lie.json) |
 | The Cards You're Dealt | 182877 | [182877-the-cards-youre-dealt.json](./182877-the-cards-youre-dealt.json) |
@@ -11847,6 +11848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isle of Cats | 369798 | [369798-the-isle-of-cats.json](./369798-the-isle-of-cats.json) |
 | The Isle of Elanor | 152845 | [152845-the-isle-of-elanor.json](./152845-the-isle-of-elanor.json) |
 | The Isle of Lost Bees | 404945 | [404945-the-isle-of-lost-bees.json](./404945-the-isle-of-lost-bees.json) |
+| The Isle of the Cursed Prophet | 418684 | [418684-the-isle-of-the-cursed-prophet.json](./418684-the-isle-of-the-cursed-prophet.json) |
 | The Isle of the Dead | 118320 | [118320-the-isle-of-the-dead.json](./118320-the-isle-of-the-dead.json) |
 | The Isle Survival | 261507 | [261507-the-isle-survival.json](./261507-the-isle-survival.json) |
 | The Isle Tide Hotel | 227210 | [227210-the-isle-tide-hotel.json](./227210-the-isle-tide-hotel.json) |
@@ -21189,6 +21191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thorne - Death Merchants | 33265 | [33265-thorne-death-merchants.json](./33265-thorne-death-merchants.json) |
 | Thorner | 410353 | [410353-thorner.json](./410353-thorner.json) |
 | Thornetica | 394665 | [394665-thornetica.json](./394665-thornetica.json) |
+| Thornewood | 418661 | [418661-thornewood.json](./418661-thornewood.json) |
 | Thornkin | 401439 | [401439-thornkin.json](./401439-thornkin.json) |
 | Thorns & Spells | 47299 | [47299-thorns-and-spells.json](./47299-thorns-and-spells.json) |
 | Thorns: Adlia | 301067 | [301067-thorns-adlia.json](./301067-thorns-adlia.json) |
@@ -25590,6 +25593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet 8 | 378306 | [378306-toilet-8.json](./378306-toilet-8.json) |
 | Toilet Battle | 338467 | [338467-toilet-battle.json](./338467-toilet-battle.json) |
 | Toilet Boom | 373805 | [373805-toilet-boom.json](./373805-toilet-boom.json) |
+| Toilet Bullies | 418718 | [418718-toilet-bullies.json](./418718-toilet-bullies.json) |
 | Toilet Chronicles | 199576 | [199576-toilet-chronicles.json](./199576-toilet-chronicles.json) |
 | Toilet Farm | 185005 | [185005-toilet-farm.json](./185005-toilet-farm.json) |
 | Toilet Fight: Open World | 273945 | [273945-toilet-fight-open-world.json](./273945-toilet-fight-open-world.json) |
@@ -27704,6 +27708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Emblem | 315050 | [315050-touhou-emblem.json](./315050-touhou-emblem.json) |
 | Touhou Emblem 2 | 315051 | [315051-touhou-emblem-2.json](./315051-touhou-emblem-2.json) |
 | Touhou Endless Dream | 153621 | [153621-touhou-endless-dream.json](./153621-touhou-endless-dream.json) |
+| Touhou Erosion: The Fallen Shrine Maiden of Paradise | 418741 | [418741-touhou-erosion-the-fallen-shrine-maiden-of-paradise.json](./418741-touhou-erosion-the-fallen-shrine-maiden-of-paradise.json) |
 | Touhou Eternal Frontier | 371124 | [371124-touhou-eternal-frontier.json](./371124-touhou-eternal-frontier.json) |
 | Touhou Eternal Spell Cards | 289936 | [289936-touhou-eternal-spell-cards.json](./289936-touhou-eternal-spell-cards.json) |
 | Touhou Fairy Knockout: One Fairy to Rule Them All | 203849 | [203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json](./203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json) |
@@ -28669,6 +28674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Grind | 6215 | [6215-toxic-grind.json](./6215-toxic-grind.json) |
 | Toxic Harvest | 393286 | [393286-toxic-harvest.json](./393286-toxic-harvest.json) |
 | Toxic Jump | 392636 | [392636-toxic-jump.json](./392636-toxic-jump.json) |
+| Toxic Marriage Punisher | 418748 | [418748-toxic-marriage-punisher.json](./418748-toxic-marriage-punisher.json) |
 | Toxic Mayhem: The Troma Project | 74009 | [74009-toxic-mayhem-the-troma-project.json](./74009-toxic-mayhem-the-troma-project.json) |
 | Toxic Place | 298203 | [298203-toxic-place.json](./298203-toxic-place.json) |
 | Toxic Plumbing | 81972 | [81972-toxic-plumbing.json](./81972-toxic-plumbing.json) |
