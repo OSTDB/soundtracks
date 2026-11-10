@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Don't Look Away | 387446 | [387446-backrooms-dont-look-away.json](./387446-backrooms-dont-look-away.json) |
 | Backrooms: Duck Escape | 378180 | [378180-backrooms-duck-escape.json](./378180-backrooms-duck-escape.json) |
 | Backrooms: Eight Levels | 281947 | [281947-backrooms-eight-levels.json](./281947-backrooms-eight-levels.json) |
+| Backrooms: Escape The Brainrot | 402002 | [402002-backrooms-escape-the-brainrot.json](./402002-backrooms-escape-the-brainrot.json) |
 | Backrooms: Escape Together | 220348 | [220348-backrooms-escape-together.json](./220348-backrooms-escape-together.json) |
 | Backrooms: Eternal Shadows | 293849 | [293849-backrooms-eternal-shadows.json](./293849-backrooms-eternal-shadows.json) |
 | Backrooms: Eternals | 408307 | [408307-backrooms-eternals.json](./408307-backrooms-eternals.json) |
@@ -1010,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
+| Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
 | Bad Range | 413968 | [413968-bad-range.json](./413968-bad-range.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
 | Bad Rats | 8582 | [8582-bad-rats.json](./8582-bad-rats.json) |
@@ -11750,6 +11752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood=Bullets | 320565 | [320565-blood-bullets.json](./320565-blood-bullets.json) |
 | Blood4Blood | 297449 | [297449-blood4blood.json](./297449-blood4blood.json) |
 | Bloodball | 396427 | [396427-bloodball.json](./396427-bloodball.json) |
+| Bloodbane: The Crimson Nocturne | 401981 | [401981-bloodbane-the-crimson-nocturne.json](./401981-bloodbane-the-crimson-nocturne.json) |
 | Bloodbark | 339221 | [339221-bloodbark.json](./339221-bloodbark.json) |
 | BloodBasket | 364070 | [364070-bloodbasket.json](./364070-bloodbasket.json) |
 | Bloodbath | 183067 | [183067-bloodbath.json](./183067-bloodbath.json) |
@@ -16996,6 +16999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brothel Simulator | 237452 | [237452-brothel-simulator.json](./237452-brothel-simulator.json) |
 | Brothel Simulator II | 244605 | [244605-brothel-simulator-ii.json](./244605-brothel-simulator-ii.json) |
 | Brothel Tycoon | 312787 | [312787-brothel-tycoon.json](./312787-brothel-tycoon.json) |
+| Brothel Virgin: The Crimson Reverie | 401987 | [401987-brothel-virgin-the-crimson-reverie.json](./401987-brothel-virgin-the-crimson-reverie.json) |
 | BrothelManager | 18109 | [18109-brothelmanager.json](./18109-brothelmanager.json) |
 | Brother | 340545 | [340545-brother.json](./340545-brother.json) |
 | Brother & Sister | 116080 | [116080-brother-and-sister.json](./116080-brother-and-sister.json) |
