@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Prosper | 158122 | [158122-captain-prosper.json](./158122-captain-prosper.json) |
 | Captain Puff MacFly | 361728 | [361728-captain-puff-macfly.json](./361728-captain-puff-macfly.json) |
 | Captain Quazar | 39015 | [39015-captain-quazar.json](./39015-captain-quazar.json) |
+| Captain Rainbow | 4746 | [4746-captain-rainbow.json](./4746-captain-rainbow.json) |
 | Captain Rixot: Lost on Enceladus | 183840 | [183840-captain-rixot-lost-on-enceladus.json](./183840-captain-rixot-lost-on-enceladus.json) |
 | Captain Rocket | 344959 | [344959-captain-rocket.json](./344959-captain-rocket.json) |
 | Captain Sabertooth and the Treasure of Lama Rama | 101432 | [101432-captain-sabertooth-and-the-treasure-of-lama-rama.json](./101432-captain-sabertooth-and-the-treasure-of-lama-rama.json) |
@@ -11739,6 +11740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Kart Online | 248487 | [248487-cocoto-kart-online.json](./248487-cocoto-kart-online.json) |
 | Cocoto Kart Racer | 248485 | [248485-cocoto-kart-racer.json](./248485-cocoto-kart-racer.json) |
 | Cocoto Kart Racer | 248486 | [248486-cocoto-kart-racer.json](./248486-cocoto-kart-racer.json) |
+| Cocoto Kart Racer | 3860 | [3860-cocoto-kart-racer.json](./3860-cocoto-kart-racer.json) |
 | Cocoto Kart Racer 2 | 50942 | [50942-cocoto-kart-racer-2.json](./50942-cocoto-kart-racer-2.json) |
 | Cocoto Kit For Kids | 77122 | [77122-cocoto-kit-for-kids.json](./77122-cocoto-kit-for-kids.json) |
 | Cocoto Magic Circus | 3859 | [3859-cocoto-magic-circus.json](./3859-cocoto-magic-circus.json) |
@@ -13221,6 +13223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Arms | 18940 | [18940-combat-arms.json](./18940-combat-arms.json) |
 | Combat Arms: the Classic | 135798 | [135798-combat-arms-the-classic.json](./135798-combat-arms-the-classic.json) |
 | Combat Beans: Total Mayhem | 224670 | [224670-combat-beans-total-mayhem.json](./224670-combat-beans-total-mayhem.json) |
+| Combat Cars | 4537 | [4537-combat-cars.json](./4537-combat-cars.json) |
 | Combat Casino | 172012 | [172012-combat-casino.json](./172012-combat-casino.json) |
 | Combat Cat | 296315 | [296315-combat-cat.json](./296315-combat-cat.json) |
 | Combat Cats | 25488 | [25488-combat-cats.json](./25488-combat-cats.json) |
