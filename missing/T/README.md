@@ -3451,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teddy Floppy Ear | 64894 | [64894-teddy-floppy-ear.json](./64894-teddy-floppy-ear.json) |
 | Teddy Floppy Ear: Kayaking | 36003 | [36003-teddy-floppy-ear-kayaking.json](./36003-teddy-floppy-ear-kayaking.json) |
 | Teddy Floppy Ear: Mountain Adventure | 36002 | [36002-teddy-floppy-ear-mountain-adventure.json](./36002-teddy-floppy-ear-mountain-adventure.json) |
+| Teddy Floppy Ear: The Race | 35223 | [35223-teddy-floppy-ear-the-race.json](./35223-teddy-floppy-ear-the-race.json) |
 | Teddy Gangs | 124072 | [124072-teddy-gangs.json](./124072-teddy-gangs.json) |
 | Teddy Horses | 374149 | [374149-teddy-horses.json](./374149-teddy-horses.json) |
 | Teddy Is Coming | 400421 | [400421-teddy-is-coming.json](./400421-teddy-is-coming.json) |
@@ -4635,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Engine | 362991 | [362991-terra-engine.json](./362991-terra-engine.json) |
 | Terra Exodus | 294373 | [294373-terra-exodus.json](./294373-terra-exodus.json) |
 | Terra Farmers | 54428 | [54428-terra-farmers.json](./54428-terra-farmers.json) |
+| Terra Feminarum | 86581 | [86581-terra-feminarum.json](./86581-terra-feminarum.json) |
 | Terra Fighters | 349176 | [349176-terra-fighters.json](./349176-terra-fighters.json) |
 | Terra Firma | 155509 | [155509-terra-firma.json](./155509-terra-firma.json) |
 | Terra Firma 2 | 366335 | [366335-terra-firma-2.json](./366335-terra-firma-2.json) |
@@ -7319,6 +7321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cameraman | 343145 | [343145-the-cameraman.json](./343145-the-cameraman.json) |
 | The Cameron Files - Loch Ness | 53708 | [53708-the-cameron-files-loch-ness.json](./53708-the-cameron-files-loch-ness.json) |
 | The Cameron Files: Pharaoh's Curse | 70729 | [70729-the-cameron-files-pharaohs-curse.json](./70729-the-cameron-files-pharaohs-curse.json) |
+| The Cameron Files: The Secret at Loch Ness | 9790 | [9790-the-cameron-files-the-secret-at-loch-ness.json](./9790-the-cameron-files-the-secret-at-loch-ness.json) |
 | The Camp | 262772 | [262772-the-camp.json](./262772-the-camp.json) |
 | The Camp - Caravan Edition | 57398 | [57398-the-camp-caravan-edition.json](./57398-the-camp-caravan-edition.json) |
 | The Campaign Series: Fall Weiss | 36457 | [36457-the-campaign-series-fall-weiss.json](./36457-the-campaign-series-fall-weiss.json) |
@@ -8091,6 +8094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crows | 326985 | [326985-the-crows.json](./326985-the-crows.json) |
 | The Cruciball | 359927 | [359927-the-cruciball.json](./359927-the-cruciball.json) |
 | The Cruel Dreamer Marchosias | 187393 | [187393-the-cruel-dreamer-marchosias.json](./187393-the-cruel-dreamer-marchosias.json) |
+| The Cruel King and the Great Hero | 144208 | [144208-the-cruel-king-and-the-great-hero.json](./144208-the-cruel-king-and-the-great-hero.json) |
 | The Cruel King and the Great Hero: Storybook Edition | 146031 | [146031-the-cruel-king-and-the-great-hero-storybook-edition.json](./146031-the-cruel-king-and-the-great-hero-storybook-edition.json) |
 | The Cruel kings | 166629 | [166629-the-cruel-kings.json](./166629-the-cruel-kings.json) |
 | The Crusade Is Nigh | 303943 | [303943-the-crusade-is-nigh.json](./303943-the-crusade-is-nigh.json) |
@@ -13490,6 +13494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Light That Binds Us | 410035 | [410035-the-light-that-binds-us.json](./410035-the-light-that-binds-us.json) |
 | The Light Will Lead You Home | 165375 | [165375-the-light-will-lead-you-home.json](./165375-the-light-will-lead-you-home.json) |
 | The Light: Remastered Edition | 394806 | [394806-the-light-remastered-edition.json](./394806-the-light-remastered-edition.json) |
+| The Lightbringer | 145527 | [145527-the-lightbringer.json](./145527-the-lightbringer.json) |
 | The Lighthouse | 177634 | [177634-the-lighthouse.json](./177634-the-lighthouse.json) |
 | The Lighthouse | 378395 | [378395-the-lighthouse.json](./378395-the-lighthouse.json) |
 | The Lighthouse | 408237 | [408237-the-lighthouse.json](./408237-the-lighthouse.json) |
@@ -17435,6 +17440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Siren's Song | 223454 | [223454-the-sirens-song.json](./223454-the-sirens-song.json) |
 | The Sisters 2: Road to Fame | 249972 | [249972-the-sisters-2-road-to-fame.json](./249972-the-sisters-2-road-to-fame.json) |
 | The Sisters Collection | 284733 | [284733-the-sisters-collection.json](./284733-the-sisters-collection.json) |
+| The Sisters: Party of the Year | 144079 | [144079-the-sisters-party-of-the-year.json](./144079-the-sisters-party-of-the-year.json) |
 | The Six Dragons | 82572 | [82572-the-six-dragons.json](./82572-the-six-dragons.json) |
 | The Six Transgender Lesbian Goddesses of Love Are Having A Petty Argument, So They Try To Settle Things Alongside The Three Transgender Gay Gods of Flavor | 318796 | [318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json](./318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json) |
 | The Sixth Extinction | 391716 | [391716-the-sixth-extinction.json](./391716-the-sixth-extinction.json) |
@@ -29072,6 +29078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Driver Simulator | 89056 | [89056-train-driver-simulator.json](./89056-train-driver-simulator.json) |
 | Train Empire | 219498 | [219498-train-empire.json](./219498-train-empire.json) |
 | Train Escape: Hidden Adventure | 104777 | [104777-train-escape-hidden-adventure.json](./104777-train-escape-hidden-adventure.json) |
+| Train Fever | 9447 | [9447-train-fever.json](./9447-train-fever.json) |
 | Train Fever: USA | 238506 | [238506-train-fever-usa.json](./238506-train-fever-usa.json) |
 | Train Frontier Classic | 72486 | [72486-train-frontier-classic.json](./72486-train-frontier-classic.json) |
 | Train Game | 46038 | [46038-train-game.json](./46038-train-game.json) |
@@ -31160,6 +31167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport Fever 2: Console Edition - Deluxe Edition | 241357 | [241357-transport-fever-2-console-edition-deluxe-edition.json](./241357-transport-fever-2-console-edition-deluxe-edition.json) |
 | Transport Fever 2: Deluxe Edition | 241359 | [241359-transport-fever-2-deluxe-edition.json](./241359-transport-fever-2-deluxe-edition.json) |
 | Transport Fever 3 | 344466 | [344466-transport-fever-3.json](./344466-transport-fever-3.json) |
+| Transport Giant | 9444 | [9444-transport-giant.json](./9444-transport-giant.json) |
 | Transport Giant: Down Under | 9445 | [9445-transport-giant-down-under.json](./9445-transport-giant-down-under.json) |
 | Transport Giant: Gold Edition | 118500 | [118500-transport-giant-gold-edition.json](./118500-transport-giant-gold-edition.json) |
 | Transport Giant: Gold Edition 2012 | 53856 | [53856-transport-giant-gold-edition-2012.json](./53856-transport-giant-gold-edition-2012.json) |
@@ -31973,6 +31981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial Traction | 304852 | [304852-trial-traction.json](./304852-trial-traction.json) |
 | Trial Xtreme | 80437 | [80437-trial-xtreme.json](./80437-trial-xtreme.json) |
 | Trial Xtreme 3 | 117763 | [117763-trial-xtreme-3.json](./117763-trial-xtreme-3.json) |
+| Trial Xtreme 4 | 86931 | [86931-trial-xtreme-4.json](./86931-trial-xtreme-4.json) |
 | Trial Xtreme 4 Remastered | 208035 | [208035-trial-xtreme-4-remastered.json](./208035-trial-xtreme-4-remastered.json) |
 | Trial Xtreme Freedom | 199975 | [199975-trial-xtreme-freedom.json](./199975-trial-xtreme-freedom.json) |
 | Trials | 305132 | [305132-trials.json](./305132-trials.json) |
