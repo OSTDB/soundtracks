@@ -6988,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Tolls for Thee | 154756 | [154756-it-tolls-for-thee.json](./154756-it-tolls-for-thee.json) |
 | It Was a Human | 218522 | [218522-it-was-a-human.json](./218522-it-was-a-human.json) |
 | It Was Beautiful | 380618 | [380618-it-was-beautiful.json](./380618-it-was-beautiful.json) |
+| It Was Meant to End Like This | 401250 | [401250-it-was-meant-to-end-like-this.json](./401250-it-was-meant-to-end-like-this.json) |
 | It Was Not A Suicide | 414576 | [414576-it-was-not-a-suicide.json](./414576-it-was-not-a-suicide.json) |
 | IT was only a dream | 22031 | [22031-it-was-only-a-dream.json](./22031-it-was-only-a-dream.json) |
 | It Was Raining That Night | 278960 | [278960-it-was-raining-that-night.json](./278960-it-was-raining-that-night.json) |
