@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games Festival 2 | 98160 | [98160-games-festival-2.json](./98160-games-festival-2.json) |
 | Games Festival Volume 1 | 84644 | [84644-games-festival-volume-1.json](./84644-games-festival-volume-1.json) |
 | Games Festival Volume 2 | 84642 | [84642-games-festival-volume-2.json](./84642-games-festival-volume-2.json) |
+| Games for Boys Bundle | 411177 | [411177-games-for-boys-bundle.json](./411177-games-for-boys-bundle.json) |
 | Games for Stream! | 266856 | [266856-games-for-stream.json](./266856-games-for-stream.json) |
 | Games For The Table | 340292 | [340292-games-for-the-table.json](./340292-games-for-the-table.json) |
 | Games For Toddlers | 84641 | [84641-games-for-toddlers.json](./84641-games-for-toddlers.json) |
@@ -3958,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Hospital: In Thousand Horror Hill | 293143 | [293143-ghost-hospital-in-thousand-horror-hill.json](./293143-ghost-hospital-in-thousand-horror-hill.json) |
 | Ghost House | 179731 | [179731-ghost-house.json](./179731-ghost-house.json) |
 | Ghost House | 384503 | [384503-ghost-house.json](./384503-ghost-house.json) |
+| Ghost House | 411229 | [411229-ghost-house.json](./411229-ghost-house.json) |
 | Ghost House | 45649 | [45649-ghost-house.json](./45649-ghost-house.json) |
 | Ghost House 3D | 400522 | [400522-ghost-house-3d.json](./400522-ghost-house-3d.json) |
 | Ghost HQ | 369011 | [369011-ghost-hq.json](./369011-ghost-hq.json) |
