@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saintess of the Golden Bow | 327401 | [327401-saintess-of-the-golden-bow.json](./327401-saintess-of-the-golden-bow.json) |
 | Sainth | 126003 | [126003-sainth.json](./126003-sainth.json) |
 | Sainthood | 249223 | [249223-sainthood.json](./249223-sainthood.json) |
+| Sainthood Relics | 420045 | [420045-sainthood-relics.json](./420045-sainthood-relics.json) |
 | Sainthum | 149557 | [149557-sainthum.json](./149557-sainthum.json) |
 | Saints & Sinners Bingo | 206744 | [206744-saints-and-sinners-bingo.json](./206744-saints-and-sinners-bingo.json) |
 | Saints & Sinners Bowling | 172540 | [172540-saints-and-sinners-bowling.json](./172540-saints-and-sinners-bowling.json) |
@@ -5067,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seed of the Dead: Sweet Home | 153900 | [153900-seed-of-the-dead-sweet-home.json](./153900-seed-of-the-dead-sweet-home.json) |
 | Seed Pioneers | 127648 | [127648-seed-pioneers.json](./127648-seed-pioneers.json) |
 | Seed Shop: Tidy Up! | 419883 | [419883-seed-shop-tidy-up.json](./419883-seed-shop-tidy-up.json) |
+| Seed to Leaf | 420021 | [420021-seed-to-leaf.json](./420021-seed-to-leaf.json) |
 | Seed World | 224530 | [224530-seed-world.json](./224530-seed-world.json) |
 | Seed. | 182906 | [182906-seed.json](./182906-seed.json) |
 | Seed's End | 339088 | [339088-seeds-end.json](./339088-seeds-end.json) |
@@ -6407,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Photos | 122945 | [122945-seven-photos.json](./122945-seven-photos.json) |
 | Seven Pirates H | 192281 | [192281-seven-pirates-h.json](./192281-seven-pirates-h.json) |
 | Seven Red Lines | 128837 | [128837-seven-red-lines.json](./128837-seven-red-lines.json) |
+| Seven Relics | 420049 | [420049-seven-relics.json](./420049-seven-relics.json) |
 | Seven Sacrifices | 107402 | [107402-seven-sacrifices.json](./107402-seven-sacrifices.json) |
 | Seven Samurai 20XX | 24241 | [24241-seven-samurai-20xx.json](./24241-seven-samurai-20xx.json) |
 | Seven Scrolls | 228928 | [228928-seven-scrolls.json](./228928-seven-scrolls.json) |
@@ -7149,6 +7152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Point | 123157 | [123157-shadow-point.json](./123157-shadow-point.json) |
 | Shadow President | 73470 | [73470-shadow-president.json](./73470-shadow-president.json) |
 | Shadow Pride | 227367 | [227367-shadow-pride.json](./227367-shadow-pride.json) |
+| Shadow Princess | 420075 | [420075-shadow-princess.json](./420075-shadow-princess.json) |
 | Shadow Princess: Crystalbound | 422489 | [422489-shadow-princess-crystalbound.json](./422489-shadow-princess-crystalbound.json) |
 | Shadow Prisoner | 330464 | [330464-shadow-prisoner.json](./330464-shadow-prisoner.json) |
 | Shadow Project | 359892 | [359892-shadow-project.json](./359892-shadow-project.json) |
@@ -7185,6 +7189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Slayer | 299345 | [299345-shadow-slayer.json](./299345-shadow-slayer.json) |
 | Shadow Slayer: Demon Hunter | 299349 | [299349-shadow-slayer-demon-hunter.json](./299349-shadow-slayer-demon-hunter.json) |
 | Shadow Sorcerer | 12764 | [12764-shadow-sorcerer.json](./12764-shadow-sorcerer.json) |
+| Shadow Sovereign | 420059 | [420059-shadow-sovereign.json](./420059-shadow-sovereign.json) |
 | Shadow Spell Saga: The Winds of Fate | 369320 | [369320-shadow-spell-saga-the-winds-of-fate.json](./369320-shadow-spell-saga-the-winds-of-fate.json) |
 | Shadow Spotter | 231653 | [231653-shadow-spotter.json](./231653-shadow-spotter.json) |
 | Shadow Sprinter | 367918 | [367918-shadow-sprinter.json](./367918-shadow-sprinter.json) |
@@ -7216,6 +7221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Uprising | 112945 | [112945-shadow-uprising.json](./112945-shadow-uprising.json) |
 | Shadow Vamp | 102737 | [102737-shadow-vamp.json](./102737-shadow-vamp.json) |
 | Shadow Vault | 71963 | [71963-shadow-vault.json](./71963-shadow-vault.json) |
+| Shadow Wake | 420073 | [420073-shadow-wake.json](./420073-shadow-wake.json) |
 | Shadow Walker | 252726 | [252726-shadow-walker.json](./252726-shadow-walker.json) |
 | Shadow Walker | 291684 | [291684-shadow-walker.json](./291684-shadow-walker.json) |
 | Shadow Walls | 149933 | [149933-shadow-walls.json](./149933-shadow-walls.json) |
@@ -7289,6 +7295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowcrawl | 80971 | [80971-shadowcrawl.json](./80971-shadowcrawl.json) |
 | Shadowcrypt | 17711 | [17711-shadowcrypt.json](./17711-shadowcrypt.json) |
 | Shadowcut | 134898 | [134898-shadowcut.json](./134898-shadowcut.json) |
+| Shadowdeep | 420054 | [420054-shadowdeep.json](./420054-shadowdeep.json) |
 | Shadowed Descent | 304838 | [304838-shadowed-descent.json](./304838-shadowed-descent.json) |
 | Shadowed: The Demon Castle of Ooe | 363669 | [363669-shadowed-the-demon-castle-of-ooe.json](./363669-shadowed-the-demon-castle-of-ooe.json) |
 | Shadowfall | 250990 | [250990-shadowfall.json](./250990-shadowfall.json) |
@@ -7324,6 +7331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowland: Rise of the Fallen | 360720 | [360720-shadowland-rise-of-the-fallen.json](./360720-shadowland-rise-of-the-fallen.json) |
 | Shadowlands | 37128 | [37128-shadowlands.json](./37128-shadowlands.json) |
 | Shadowless | 351081 | [351081-shadowless.json](./351081-shadowless.json) |
+| Shadowlight | 420055 | [420055-shadowlight.json](./420055-shadowlight.json) |
 | ShadowLight Siblings | 314300 | [314300-shadowlight-siblings.json](./314300-shadowlight-siblings.json) |
 | Shadowlings | 103463 | [103463-shadowlings.json](./103463-shadowlings.json) |
 | Shadowman: Darque Legacy | 248845 | [248845-shadowman-darque-legacy.json](./248845-shadowman-darque-legacy.json) |
@@ -7467,6 +7475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shady Brook - A Dark Mystery Text Adventure | 30903 | [30903-shady-brook-a-dark-mystery-text-adventure.json](./30903-shady-brook-a-dark-mystery-text-adventure.json) |
 | Shady Business | 195198 | [195198-shady-business.json](./195198-shady-business.json) |
 | Shady Business | 408028 | [408028-shady-business.json](./408028-shady-business.json) |
+| Shady Contractor | 420057 | [420057-shady-contractor.json](./420057-shady-contractor.json) |
 | Shady Job | 410622 | [410622-shady-job.json](./410622-shady-job.json) |
 | Shady Lewd Kart | 201954 | [201954-shady-lewd-kart.json](./201954-shady-lewd-kart.json) |
 | Shady Lewd Kart: Wild Woody Character Pack | 295113 | [295113-shady-lewd-kart-wild-woody-character-pack.json](./295113-shady-lewd-kart-wild-woody-character-pack.json) |
