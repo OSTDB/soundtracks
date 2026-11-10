@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maelslime | 379864 | [379864-maelslime.json](./379864-maelslime.json) |
 | Maelstrom | 146173 | [146173-maelstrom.json](./146173-maelstrom.json) |
 | Maelstrom | 207802 | [207802-maelstrom.json](./207802-maelstrom.json) |
+| Maelstrom | 23109 | [23109-maelstrom.json](./23109-maelstrom.json) |
 | Maelstrom | 281874 | [281874-maelstrom.json](./281874-maelstrom.json) |
 | Maelstrom | 71446 | [71446-maelstrom.json](./71446-maelstrom.json) |
 | Maelstrom Legacy: The Tesla Mystery | 207714 | [207714-maelstrom-legacy-the-tesla-mystery.json](./207714-maelstrom-legacy-the-tesla-mystery.json) |
@@ -2620,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Makai Agito | 337589 | [337589-makai-agito.json](./337589-makai-agito.json) |
 | Makai Fukkatsu | 77577 | [77577-makai-fukkatsu.json](./77577-makai-fukkatsu.json) |
 | Makai Hakkenden Shada | 37675 | [37675-makai-hakkenden-shada.json](./37675-makai-hakkenden-shada.json) |
+| Makai Kingdom: Chronicles of the Sacred Tome | 22540 | [22540-makai-kingdom-chronicles-of-the-sacred-tome.json](./22540-makai-kingdom-chronicles-of-the-sacred-tome.json) |
 | Makai Kingdom: Reclaimed and Rebound | 189329 | [189329-makai-kingdom-reclaimed-and-rebound.json](./189329-makai-kingdom-reclaimed-and-rebound.json) |
 | Makai Prince Dorabochan | 38090 | [38090-makai-prince-dorabochan.json](./38090-makai-prince-dorabochan.json) |
 | Makai Toushi SaGa | 84142 | [84142-makai-toushi-saga.json](./84142-makai-toushi-saga.json) |
@@ -9714,6 +9716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury Fallen | 69385 | [69385-mercury-fallen.json](./69385-mercury-fallen.json) |
 | Mercury Hg | 20142 | [20142-mercury-hg.json](./20142-mercury-hg.json) |
 | Mercury Island | 187609 | [187609-mercury-island.json](./187609-mercury-island.json) |
+| Mercury Meltdown | 23125 | [23125-mercury-meltdown.json](./23125-mercury-meltdown.json) |
 | Mercury Meltdown Remix | 20628 | [20628-mercury-meltdown-remix.json](./20628-mercury-meltdown-remix.json) |
 | Mercury Meltdown Revolution | 5003 | [5003-mercury-meltdown-revolution.json](./5003-mercury-meltdown-revolution.json) |
 | Mercury no Aoi Suna | 150125 | [150125-mercury-no-aoi-suna.json](./150125-mercury-no-aoi-suna.json) |
@@ -10540,6 +10543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorus: O Universo em Conflito | 296190 | [296190-meteorus-o-universo-em-conflito.json](./296190-meteorus-o-universo-em-conflito.json) |
 | Meteos | 1165 | [1165-meteos.json](./1165-meteos.json) |
 | Meteos Astro Blocks | 344473 | [344473-meteos-astro-blocks.json](./344473-meteos-astro-blocks.json) |
+| Meteos Wars | 22539 | [22539-meteos-wars.json](./22539-meteos-wars.json) |
 | Meteos: Disney Magic | 1166 | [1166-meteos-disney-magic.json](./1166-meteos-disney-magic.json) |
 | MeteoStorm | 295140 | [295140-meteostorm.json](./295140-meteostorm.json) |
 | Meter Maid City! | 344823 | [344823-meter-maid-city.json](./344823-meter-maid-city.json) |
@@ -11207,6 +11211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Entertainment Pack 3 | 124410 | [124410-microsoft-entertainment-pack-3.json](./124410-microsoft-entertainment-pack-3.json) |
 | Microsoft Entertainment Pack 4 | 79964 | [79964-microsoft-entertainment-pack-4.json](./79964-microsoft-entertainment-pack-4.json) |
 | Microsoft Entertainment Pack for Windows | 78025 | [78025-microsoft-entertainment-pack-for-windows.json](./78025-microsoft-entertainment-pack-for-windows.json) |
+| Microsoft Flight | 22640 | [22640-microsoft-flight.json](./22640-microsoft-flight.json) |
 | Microsoft Flight Simulator | 119295 | [119295-microsoft-flight-simulator.json](./119295-microsoft-flight-simulator.json) |
 | Microsoft Flight Simulator | 298738 | [298738-microsoft-flight-simulator.json](./298738-microsoft-flight-simulator.json) |
 | Microsoft Flight Simulator 1.0 | 3353 | [3353-microsoft-flight-simulator-1-0.json](./3353-microsoft-flight-simulator-1-0.json) |
@@ -16867,6 +16872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rancher Advance 2 | 6512 | [6512-monster-rancher-advance-2.json](./6512-monster-rancher-advance-2.json) |
 | Monster Rancher Battle Card GB | 104241 | [104241-monster-rancher-battle-card-gb.json](./104241-monster-rancher-battle-card-gb.json) |
 | Monster Rancher Battle Card: Episode II | 45015 | [45015-monster-rancher-battle-card-episode-ii.json](./45015-monster-rancher-battle-card-episode-ii.json) |
+| Monster Rancher EVO | 23142 | [23142-monster-rancher-evo.json](./23142-monster-rancher-evo.json) |
 | Monster Rancher Explorer | 49860 | [49860-monster-rancher-explorer.json](./49860-monster-rancher-explorer.json) |
 | Monster Rancher Hop-A-Bout | 78298 | [78298-monster-rancher-hop-a-bout.json](./78298-monster-rancher-hop-a-bout.json) |
 | Monster Rescue | 188104 | [188104-monster-rescue.json](./188104-monster-rescue.json) |
