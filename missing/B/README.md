@@ -6724,6 +6724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Krakken Attack | 333848 | [333848-ben-10-krakken-attack.json](./333848-ben-10-krakken-attack.json) |
 | Ben 10: Omni-Charge | 363892 | [363892-ben-10-omni-charge.json](./363892-ben-10-omni-charge.json) |
 | Ben 10: Omnitrix Power | 405293 | [405293-ben-10-omnitrix-power.json](./405293-ben-10-omnitrix-power.json) |
+| Ben 10: Omnitrix Unleashed | 427271 | [427271-ben-10-omnitrix-unleashed.json](./427271-ben-10-omnitrix-unleashed.json) |
 | Ben 10: Omniverse | 2800 | [2800-ben-10-omniverse.json](./2800-ben-10-omniverse.json) |
 | Ben 10: Omniverse | 287015 | [287015-ben-10-omniverse.json](./287015-ben-10-omniverse.json) |
 | Ben 10: Omniverse | 287016 | [287016-ben-10-omniverse.json](./287016-ben-10-omniverse.json) |
