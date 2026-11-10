@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Trader Simulator | 81162 | [81162-car-trader-simulator.json](./81162-car-trader-simulator.json) |
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
 | Car Transport Simulator | 52485 | [52485-car-transport-simulator.json](./52485-car-transport-simulator.json) |
+| Car Tune: Project | 114872 | [114872-car-tune-project.json](./114872-car-tune-project.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tuning Garage Simulator | 364143 | [364143-car-tuning-garage-simulator.json](./364143-car-tuning-garage-simulator.json) |
 | Car Tuning Simulator | 188160 | [188160-car-tuning-simulator.json](./188160-car-tuning-simulator.json) |
@@ -15725,6 +15726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
 | Cortesia Rising | 415833 | [415833-cortesia-rising.json](./415833-cortesia-rising.json) |
 | Cortex | 107989 | [107989-cortex.json](./107989-cortex.json) |
+| Cortex | 114768 | [114768-cortex.json](./114768-cortex.json) |
 | Cortex | 131038 | [131038-cortex.json](./131038-cortex.json) |
 | Cortex Adventure | 415213 | [415213-cortex-adventure.json](./415213-cortex-adventure.json) |
 | Cortex Chaos | 283098 | [283098-cortex-chaos.json](./283098-cortex-chaos.json) |
