@@ -6451,6 +6451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewer Rave Twitter Royale | 178865 | [178865-sewer-rave-twitter-royale.json](./178865-sewer-rave-twitter-royale.json) |
 | Sewer Run | 194847 | [194847-sewer-run.json](./194847-sewer-run.json) |
 | Sewer Sam | 24431 | [24431-sewer-sam.json](./24431-sewer-sam.json) |
+| Sewer Shark | 4293 | [4293-sewer-shark.json](./4293-sewer-shark.json) |
 | Sewer's Plague: Into the nest | 179895 | [179895-sewers-plague-into-the-nest.json](./179895-sewers-plague-into-the-nest.json) |
 | Sewercide | 385930 | [385930-sewercide.json](./385930-sewercide.json) |
 | Sewerlust | 400980 | [400980-sewerlust.json](./400980-sewerlust.json) |
@@ -7593,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai II: Dragon's Eye | 406075 | [406075-shanghai-ii-dragons-eye.json](./406075-shanghai-ii-dragons-eye.json) |
 | Shanghai II: Dragon's Eye | 406086 | [406086-shanghai-ii-dragons-eye.json](./406086-shanghai-ii-dragons-eye.json) |
 | Shanghai II: Dragon's Eye | 406087 | [406087-shanghai-ii-dragons-eye.json](./406087-shanghai-ii-dragons-eye.json) |
+| Shanghai II: Dragon's Eye | 4450 | [4450-shanghai-ii-dragons-eye.json](./4450-shanghai-ii-dragons-eye.json) |
 | Shanghai III | 38249 | [38249-shanghai-iii.json](./38249-shanghai-iii.json) |
 | Shanghai Karate | 47216 | [47216-shanghai-karate.json](./47216-shanghai-karate.json) |
 | Shanghai Kid | 38571 | [38571-shanghai-kid.json](./38571-shanghai-kid.json) |
@@ -15345,6 +15347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smuggler's Guild | 8987 | [8987-smugglers-guild.json](./8987-smugglers-guild.json) |
 | Smuggler's Run | 248594 | [248594-smugglers-run.json](./248594-smugglers-run.json) |
 | Smuggler's Run | 4154 | [4154-smugglers-run.json](./4154-smugglers-run.json) |
+| Smuggler's Run: Warzones | 4153 | [4153-smugglers-run-warzones.json](./4153-smugglers-run-warzones.json) |
 | Smugglers | 140106 | [140106-smugglers.json](./140106-smugglers.json) |
 | Smugglers 2 | 140105 | [140105-smugglers-2.json](./140105-smugglers-2.json) |
 | Smugglers 5: Invasion | 36209 | [36209-smugglers-5-invasion.json](./36209-smugglers-5-invasion.json) |
@@ -17013,6 +17016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Trigger | 38467 | [38467-sol-trigger.json](./38467-sol-trigger.json) |
 | Sol Uknight | 278250 | [278250-sol-uknight.json](./278250-sol-uknight.json) |
 | Sol Wars | 105556 | [105556-sol-wars.json](./105556-sol-wars.json) |
+| Sol-Feace | 4388 | [4388-sol-feace.json](./4388-sol-feace.json) |
 | Sol-Hel | 132507 | [132507-sol-hel.json](./132507-sol-hel.json) |
 | Sol-Rui: After Mini | 331104 | [331104-sol-rui-after-mini.json](./331104-sol-rui-after-mini.json) |
 | Sol: Enchant | 377703 | [377703-sol-enchant.json](./377703-sol-enchant.json) |
@@ -20837,6 +20841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pirate Trainer DX | 174556 | [174556-space-pirate-trainer-dx.json](./174556-space-pirate-trainer-dx.json) |
 | Space Pirateer | 293039 | [293039-space-pirateer.json](./293039-space-pirateer.json) |
 | Space Pirates | 176837 | [176837-space-pirates.json](./176837-space-pirates.json) |
+| Space Pirates | 4246 | [4246-space-pirates.json](./4246-space-pirates.json) |
 | Space Pirates and Zombies | 2989 | [2989-space-pirates-and-zombies.json](./2989-space-pirates-and-zombies.json) |
 | Space Pirates for Life | 241390 | [241390-space-pirates-for-life.json](./241390-space-pirates-for-life.json) |
 | Space Pixel Swarm | 198000 | [198000-space-pixel-swarm.json](./198000-space-pixel-swarm.json) |
@@ -25996,6 +26001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starbites | 235475 | [235475-starbites.json](./235475-starbites.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
+| StarBlade | 4244 | [4244-starblade.json](./4244-starblade.json) |
 | StarBlade Alpha | 59118 | [59118-starblade-alpha.json](./59118-starblade-alpha.json) |
 | Starblast | 68515 | [68515-starblast.json](./68515-starblast.json) |
 | Starblast: 3D Wars | 239969 | [239969-starblast-3d-wars.json](./239969-starblast-3d-wars.json) |
@@ -34346,6 +34352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sketch Bob | 121920 | [121920-super-sketch-bob.json](./121920-super-sketch-bob.json) |
 | Super Sketcher | 282409 | [282409-super-sketcher.json](./282409-super-sketcher.json) |
 | Super Sketchy Party | 167294 | [167294-super-sketchy-party.json](./167294-super-sketchy-party.json) |
+| Super Skidmarks | 4414 | [4414-super-skidmarks.json](./4414-super-skidmarks.json) |
 | Super Skidmarks Data Disks | 78315 | [78315-super-skidmarks-data-disks.json](./78315-super-skidmarks-data-disks.json) |
 | Super Skull Smash GO! | 63924 | [63924-super-skull-smash-go.json](./63924-super-skull-smash-go.json) |
 | Super Skull Smash GO! 2 Turbo | 90127 | [90127-super-skull-smash-go-2-turbo.json](./90127-super-skull-smash-go-2-turbo.json) |
@@ -37111,6 +37118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Shandar | 384914 | [384914-sword-of-shandar.json](./384914-sword-of-shandar.json) |
 | Sword of Shushan | 158088 | [158088-sword-of-shushan.json](./158088-sword-of-shushan.json) |
 | Sword of Sia: Lady Sia 2 | 207006 | [207006-sword-of-sia-lady-sia-2.json](./207006-sword-of-sia-lady-sia-2.json) |
+| Sword of Sodan | 4394 | [4394-sword-of-sodan.json](./4394-sword-of-sodan.json) |
 | Sword of Symphony | 168539 | [168539-sword-of-symphony.json](./168539-sword-of-symphony.json) |
 | Sword of Ten Thousand Blades | 379846 | [379846-sword-of-ten-thousand-blades.json](./379846-sword-of-ten-thousand-blades.json) |
 | Sword of the Apocalypse | 389413 | [389413-sword-of-the-apocalypse.json](./389413-sword-of-the-apocalypse.json) |
