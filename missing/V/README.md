@@ -1891,6 +1891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VHS Nights: The Tidy Up Shift | 419889 | [419889-vhs-nights-the-tidy-up-shift.json](./419889-vhs-nights-the-tidy-up-shift.json) |
 | VHS Platform: 2D | 193133 | [193133-vhs-platform-2d.json](./193133-vhs-platform-2d.json) |
 | VHS Slaughter | 301557 | [301557-vhs-slaughter.json](./301557-vhs-slaughter.json) |
+| VHS Tapes | 422442 | [422442-vhs-tapes.json](./422442-vhs-tapes.json) |
 | VHS Vermin | 379728 | [379728-vhs-vermin.json](./379728-vhs-vermin.json) |
 | VHS vs. Betamax | 177572 | [177572-vhs-vs-betamax.json](./177572-vhs-vs-betamax.json) |
 | VHS World '89 | 410912 | [410912-vhs-world-89.json](./410912-vhs-world-89.json) |
@@ -3749,6 +3750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VolleyBrawl | 132502 | [132502-volleybrawl.json](./132502-volleybrawl.json) |
 | Volleydolls | 238824 | [238824-volleydolls.json](./238824-volleydolls.json) |
 | Volleyfire | 66618 | [66618-volleyfire.json](./66618-volleyfire.json) |
+| VolleyHub | 422404 | [422404-volleyhub.json](./422404-volleyhub.json) |
 | Volleying | 72413 | [72413-volleying.json](./72413-volleying.json) |
 | Volleyring | 274863 | [274863-volleyring.json](./274863-volleyring.json) |
 | VolleySmash | 322075 | [322075-volleysmash.json](./322075-volleysmash.json) |
