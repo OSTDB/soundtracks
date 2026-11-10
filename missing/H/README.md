@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halcyon | 134357 | [134357-halcyon.json](./134357-halcyon.json) |
 | Halcyon | 201627 | [201627-halcyon.json](./201627-halcyon.json) |
 | Halcyon | 383189 | [383189-halcyon.json](./383189-halcyon.json) |
+| Halcyon 6: Starbase Commander | 18858 | [18858-halcyon-6-starbase-commander.json](./18858-halcyon-6-starbase-commander.json) |
 | Halcyon 6: Starbase Commander Lightspeed Edition | 90955 | [90955-halcyon-6-starbase-commander-lightspeed-edition.json](./90955-halcyon-6-starbase-commander-lightspeed-edition.json) |
 | Halcyon 6: The Precursor Legacy | 124896 | [124896-halcyon-6-the-precursor-legacy.json](./124896-halcyon-6-the-precursor-legacy.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
@@ -10898,6 +10899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Dog Reporter | 267555 | [267555-hot-dog-reporter.json](./267555-hot-dog-reporter.json) |
 | Hot Dog Simulator | 326406 | [326406-hot-dog-simulator.json](./326406-hot-dog-simulator.json) |
 | Hot Dog Stand: The Works | 228685 | [228685-hot-dog-stand-the-works.json](./228685-hot-dog-stand-the-works.json) |
+| Hot Dogs, Horseshoes & Hand Grenades | 18984 | [18984-hot-dogs-horseshoes-and-hand-grenades.json](./18984-hot-dogs-horseshoes-and-hand-grenades.json) |
 | Hot Dogs, Horseshoes & Hand Grenades 2 | 400675 | [400675-hot-dogs-horseshoes-and-hand-grenades-2.json](./400675-hot-dogs-horseshoes-and-hand-grenades-2.json) |
 | Hot Donut | 234496 | [234496-hot-donut.json](./234496-hot-donut.json) |
 | Hot Dot Spotter | 14118 | [14118-hot-dot-spotter.json](./14118-hot-dot-spotter.json) |
