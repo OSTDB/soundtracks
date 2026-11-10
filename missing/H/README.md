@@ -5049,10 +5049,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Academy: Extended Edition | 317253 | [317253-hentai-academy-extended-edition.json](./317253-hentai-academy-extended-edition.json) |
 | Hentai Academy: Ultimate Edition | 315863 | [315863-hentai-academy-ultimate-edition.json](./315863-hentai-academy-ultimate-edition.json) |
 | Hentai Age Airport | 411064 | [411064-hentai-age-airport.json](./411064-hentai-age-airport.json) |
+| Hentai Age Classic | 411201 | [411201-hentai-age-classic.json](./411201-hentai-age-classic.json) |
+| Hentai Age Desert | 411203 | [411203-hentai-age-desert.json](./411203-hentai-age-desert.json) |
 | Hentai Age Hospital | 385272 | [385272-hentai-age-hospital.json](./385272-hentai-age-hospital.json) |
 | Hentai Age Idol | 384697 | [384697-hentai-age-idol.json](./384697-hentai-age-idol.json) |
 | Hentai Age Island | 368523 | [368523-hentai-age-island.json](./368523-hentai-age-island.json) |
+| Hentai Age Land | 411205 | [411205-hentai-age-land.json](./411205-hentai-age-land.json) |
 | Hentai Age Running | 389166 | [389166-hentai-age-running.json](./389166-hentai-age-running.json) |
+| Hentai Age Shadow | 411202 | [411202-hentai-age-shadow.json](./411202-hentai-age-shadow.json) |
 | Hentai Age Summer | 384698 | [384698-hentai-age-summer.json](./384698-hentai-age-summer.json) |
 | Hentai Age Vacation | 384706 | [384706-hentai-age-vacation.json](./384706-hentai-age-vacation.json) |
 | Hentai Ahegao | 111270 | [111270-hentai-ahegao.json](./111270-hentai-ahegao.json) |
@@ -5208,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Demon | 365423 | [365423-hentai-demon.json](./365423-hentai-demon.json) |
 | Hentai Demon | 387503 | [387503-hentai-demon.json](./387503-hentai-demon.json) |
 | Hentai Demon's Lullaby | 390500 | [390500-hentai-demons-lullaby.json](./390500-hentai-demons-lullaby.json) |
+| Hentai Desire | 411194 | [411194-hentai-desire.json](./411194-hentai-desire.json) |
 | Hentai Desire: Sexy Waifus | 376221 | [376221-hentai-desire-sexy-waifus.json](./376221-hentai-desire-sexy-waifus.json) |
 | Hentai Detective | 384705 | [384705-hentai-detective.json](./384705-hentai-detective.json) |
 | Hentai Devil | 263792 | [263792-hentai-devil.json](./263792-hentai-devil.json) |
@@ -5475,6 +5480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Maid Memories | 246840 | [246840-hentai-maid-memories.json](./246840-hentai-maid-memories.json) |
 | Hentai Maid Momoka | 294019 | [294019-hentai-maid-momoka.json](./294019-hentai-maid-momoka.json) |
 | Hentai Maido | 366496 | [366496-hentai-maido.json](./366496-hentai-maido.json) |
+| Hentai Marina | 411200 | [411200-hentai-marina.json](./411200-hentai-marina.json) |
 | Hentai Match 3 | 155000 | [155000-hentai-match-3.json](./155000-hentai-match-3.json) |
 | Hentai Match Fantasy Stories | 366497 | [366497-hentai-match-fantasy-stories.json](./366497-hentai-match-fantasy-stories.json) |
 | Hentai MatchUp | 366498 | [366498-hentai-matchup.json](./366498-hentai-matchup.json) |
@@ -5542,6 +5548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Nurse | 226534 | [226534-hentai-nurse.json](./226534-hentai-nurse.json) |
 | Hentai Nurse | 296945 | [296945-hentai-nurse.json](./296945-hentai-nurse.json) |
 | Hentai Nurse | 322720 | [322720-hentai-nurse.json](./322720-hentai-nurse.json) |
+| Hentai Obsession | 411197 | [411197-hentai-obsession.json](./411197-hentai-obsession.json) |
 | Hentai Octoq Puzzle | 368570 | [368570-hentai-octoq-puzzle.json](./368570-hentai-octoq-puzzle.json) |
 | Hentai Office | 340442 | [340442-hentai-office.json](./340442-hentai-office.json) |
 | Hentai Office Enigma | 389058 | [389058-hentai-office-enigma.json](./389058-hentai-office-enigma.json) |
@@ -5663,10 +5670,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Shooter 3D: Christmas Party | 111992 | [111992-hentai-shooter-3d-christmas-party.json](./111992-hentai-shooter-3d-christmas-party.json) |
 | Hentai Shop Simulator | 329572 | [329572-hentai-shop-simulator.json](./329572-hentai-shop-simulator.json) |
 | Hentai Shop Simulator | 338002 | [338002-hentai-shop-simulator.json](./338002-hentai-shop-simulator.json) |
+| Hentai Sin | 411199 | [411199-hentai-sin.json](./411199-hentai-sin.json) |
 | Hentai Sister | 301667 | [301667-hentai-sister.json](./301667-hentai-sister.json) |
 | Hentai Slash | 340451 | [340451-hentai-slash.json](./340451-hentai-slash.json) |
 | Hentai Slide Puzzle | 236184 | [236184-hentai-slide-puzzle.json](./236184-hentai-slide-puzzle.json) |
 | Hentai Sliding Puzzle | 366516 | [366516-hentai-sliding-puzzle.json](./366516-hentai-sliding-puzzle.json) |
+| Hentai Slut | 411195 | [411195-hentai-slut.json](./411195-hentai-slut.json) |
 | Hentai Sniper: Middle East | 286419 | [286419-hentai-sniper-middle-east.json](./286419-hentai-sniper-middle-east.json) |
 | Hentai Snowy | 241778 | [241778-hentai-snowy.json](./241778-hentai-snowy.json) |
 | Hentai Sokoban | 106650 | [106650-hentai-sokoban.json](./106650-hentai-sokoban.json) |
@@ -5723,6 +5732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Strip Shot | 109389 | [109389-hentai-strip-shot.json](./109389-hentai-strip-shot.json) |
 | Hentai Succubus | 379654 | [379654-hentai-succubus.json](./379654-hentai-succubus.json) |
 | Hentai Succubus Aura | 398550 | [398550-hentai-succubus-aura.json](./398550-hentai-succubus-aura.json) |
+| Hentai Succubus Puzzle | 411206 | [411206-hentai-succubus-puzzle.json](./411206-hentai-succubus-puzzle.json) |
 | Hentai Sudoku | 146282 | [146282-hentai-sudoku.json](./146282-hentai-sudoku.json) |
 | Hentai Summer | 112739 | [112739-hentai-summer.json](./112739-hentai-summer.json) |
 | Hentai Survive Island | 366518 | [366518-hentai-survive-island.json](./366518-hentai-survive-island.json) |
@@ -5757,6 +5767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Seed Prison | 301668 | [301668-hentai-tales-seed-prison.json](./301668-hentai-tales-seed-prison.json) |
 | Hentai Tales: Sex Apartment | 275532 | [275532-hentai-tales-sex-apartment.json](./275532-hentai-tales-sex-apartment.json) |
 | Hentai Tales: Sexual Guidance Class | 369301 | [369301-hentai-tales-sexual-guidance-class.json](./369301-hentai-tales-sexual-guidance-class.json) |
+| Hentai Tales: Sin City of Lust | 411198 | [411198-hentai-tales-sin-city-of-lust.json](./411198-hentai-tales-sin-city-of-lust.json) |
 | Hentai Tales: Strange Land Apaku | 312721 | [312721-hentai-tales-strange-land-apaku.json](./312721-hentai-tales-strange-land-apaku.json) |
 | Hentai Tales: Succubus Utopia | 286140 | [286140-hentai-tales-succubus-utopia.json](./286140-hentai-tales-succubus-utopia.json) |
 | Hentai Tales: Taboo Sisters | 340456 | [340456-hentai-tales-taboo-sisters.json](./340456-hentai-tales-taboo-sisters.json) |
@@ -9694,6 +9705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Invasion | 415491 | [415491-home-invasion.json](./415491-home-invasion.json) |
 | Home is a Snow Globe | 140707 | [140707-home-is-a-snow-globe.json](./140707-home-is-a-snow-globe.json) |
 | Home Is Where Chip Is | 128804 | [128804-home-is-where-chip-is.json](./128804-home-is-where-chip-is.json) |
+| Home Is Where He Is | 411204 | [411204-home-is-where-he-is.json](./411204-home-is-where-he-is.json) |
 | Home Is Where the Haunt Is | 362881 | [362881-home-is-where-the-haunt-is.json](./362881-home-is-where-the-haunt-is.json) |
 | Home is Where the Heart is | 318704 | [318704-home-is-where-the-heart-is.json](./318704-home-is-where-the-heart-is.json) |
 | Home Mahjong | 6113 | [6113-home-mahjong.json](./6113-home-mahjong.json) |
