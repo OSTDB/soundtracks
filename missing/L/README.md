@@ -1412,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Hero | 196430 | [196430-last-hero.json](./196430-last-hero.json) |
 | Last Heroes | 35248 | [35248-last-heroes.json](./35248-last-heroes.json) |
 | Last Heroes 2 | 33695 | [33695-last-heroes-2.json](./33695-last-heroes-2.json) |
+| Last Heroes 3 | 18643 | [18643-last-heroes-3.json](./18643-last-heroes-3.json) |
 | Last Heroes 4 | 29167 | [29167-last-heroes-4.json](./29167-last-heroes-4.json) |
 | Last Hit Titan | 337476 | [337476-last-hit-titan.json](./337476-last-hit-titan.json) |
 | Last Holiday | 224568 | [224568-last-holiday.json](./224568-last-holiday.json) |
