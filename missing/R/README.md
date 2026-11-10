@@ -12337,6 +12337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubato | 222115 | [222115-rubato.json](./222115-rubato.json) |
 | Rubbadubbers | 335108 | [335108-rubbadubbers.json](./335108-rubbadubbers.json) |
 | Rubber | 217272 | [217272-rubber.json](./217272-rubber.json) |
+| Rubber & Lead | 10351 | [10351-rubber-and-lead.json](./10351-rubber-and-lead.json) |
 | Rubber Bandits | 139684 | [139684-rubber-bandits.json](./139684-rubber-bandits.json) |
 | Rubber Bandits: Animal Bandits | 297456 | [297456-rubber-bandits-animal-bandits.json](./297456-rubber-bandits-animal-bandits.json) |
 | Rubber Bandits: Go Wild Pack | 225071 | [225071-rubber-bandits-go-wild-pack.json](./225071-rubber-bandits-go-wild-pack.json) |
