@@ -6836,6 +6836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
 | Check x Mate | 163133 | [163133-check-x-mate.json](./163133-check-x-mate.json) |
 | Check Your 6! | 84870 | [84870-check-your-6.json](./84870-check-your-6.json) |
+| Check-i-TV | 420587 | [420587-check-i-tv.json](./420587-check-i-tv.json) |
 | Check-In | 169134 | [169134-check-in.json](./169134-check-in.json) |
 | Check-In | 180935 | [180935-check-in.json](./180935-check-in.json) |
 | Check-In Chaos | 410448 | [410448-check-in-chaos.json](./410448-check-in-chaos.json) |
@@ -15708,6 +15709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrida das Blogueiras 6: A Maldição dos Zumbis | 319027 | [319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json](./319027-corrida-das-blogueiras-6-a-maldicao-dos-zumbis.json) |
 | Corrida Nebososa | 311339 | [311339-corrida-nebososa.json](./311339-corrida-nebososa.json) |
 | Corrida Nebososa 2 | 311340 | [311340-corrida-nebososa-2.json](./311340-corrida-nebososa-2.json) |
+| Corrida: Chega De Intocavéis | 420651 | [420651-corrida-chega-de-intocaveis.json](./420651-corrida-chega-de-intocaveis.json) |
 | Corridor | 282000 | [282000-corridor.json](./282000-corridor.json) |
 | Corridor | 92000 | [92000-corridor.json](./92000-corridor.json) |
 | Corridor 13 | 401743 | [401743-corridor-13.json](./401743-corridor-13.json) |
@@ -16884,6 +16886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabs! | 179118 | [179118-crabs.json](./179118-crabs.json) |
 | Crabs! | 349509 | [349509-crabs.json](./349509-crabs.json) |
 | Crabwave | 390359 | [390359-crabwave.json](./390359-crabwave.json) |
+| Crack | 420601 | [420601-crack.json](./420601-crack.json) |
 | Crack | 94294 | [94294-crack.json](./94294-crack.json) |
 | Crack a Bottle | 87220 | [87220-crack-a-bottle.json](./87220-crack-a-bottle.json) |
 | Crack a Pack | 413193 | [413193-crack-a-pack.json](./413193-crack-a-pack.json) |
@@ -18631,6 +18634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Strike: Dead or Survival | 108218 | [108218-critical-strike-dead-or-survival.json](./108218-critical-strike-dead-or-survival.json) |
 | Critical Upload | 298442 | [298442-critical-upload.json](./298442-critical-upload.json) |
 | Critical Velocity | 44691 | [44691-critical-velocity.json](./44691-critical-velocity.json) |
+| Critical Ward | 420605 | [420605-critical-ward.json](./420605-critical-ward.json) |
 | Critical Zone | 148695 | [148695-critical-zone.json](./148695-critical-zone.json) |
 | Critical Zone | 397418 | [397418-critical-zone.json](./397418-critical-zone.json) |
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
