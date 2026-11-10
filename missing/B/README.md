@@ -3251,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Baby | 186838 | [186838-basketball-baby.json](./186838-basketball-baby.json) |
 | Basketball Battle | 89288 | [89288-basketball-battle.json](./89288-basketball-battle.json) |
 | Basketball Challenge | 14498 | [14498-basketball-challenge.json](./14498-basketball-challenge.json) |
+| Basketball Classics | 96119 | [96119-basketball-classics.json](./96119-basketball-classics.json) |
 | Basketball Club Story | 150265 | [150265-basketball-club-story.json](./150265-basketball-club-story.json) |
 | Basketball Court VR | 32166 | [32166-basketball-court-vr.json](./32166-basketball-court-vr.json) |
 | Basketball Court VR | 354905 | [354905-basketball-court-vr.json](./354905-basketball-court-vr.json) |
@@ -4738,6 +4739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battletoads | 284226 | [284226-battletoads.json](./284226-battletoads.json) |
 | Battletoads | 365173 | [365173-battletoads.json](./365173-battletoads.json) |
 | Battletoads / Double Dragon | 242267 | [242267-battletoads-double-dragon.json](./242267-battletoads-double-dragon.json) |
+| Battletoads / Double Dragon | 91094 | [91094-battletoads-double-dragon.json](./91094-battletoads-double-dragon.json) |
 | Battletoads In Battlemaniacs | 18577 | [18577-battletoads-in-battlemaniacs.json](./18577-battletoads-in-battlemaniacs.json) |
 | Battletoads in Ragnarok's World | 48924 | [48924-battletoads-in-ragnaroks-world.json](./48924-battletoads-in-ragnaroks-world.json) |
 | Battletronics | 167594 | [167594-battletronics.json](./167594-battletronics.json) |
@@ -5659,6 +5661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Clock: Hardcore | 291929 | [291929-beat-the-clock-hardcore.json](./291929-beat-the-clock-hardcore.json) |
 | Beat the Dictators | 31683 | [31683-beat-the-dictators.json](./31683-beat-the-dictators.json) |
 | Beat the Fed | 301073 | [301073-beat-the-fed.json](./301073-beat-the-fed.json) |
+| Beat the Game | 27573 | [27573-beat-the-game.json](./27573-beat-the-game.json) |
 | Beat the Heat | 226254 | [226254-beat-the-heat.json](./226254-beat-the-heat.json) |
 | Beat the House | 71041 | [71041-beat-the-house.json](./71041-beat-the-house.json) |
 | Beat the House 2 | 71503 | [71503-beat-the-house-2.json](./71503-beat-the-house-2.json) |
@@ -10178,6 +10181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Wind | 45413 | [45413-blast-wind.json](./45413-blast-wind.json) |
 | Blast Works: Build, Trade, Destroy | 4720 | [4720-blast-works-build-trade-destroy.json](./4720-blast-works-build-trade-destroy.json) |
 | Blast X | 97819 | [97819-blast-x.json](./97819-blast-x.json) |
+| Blast Zone! Tournament | 90782 | [90782-blast-zone-tournament.json](./90782-blast-zone-tournament.json) |
 | Blast-a-Bug! | 324338 | [324338-blast-a-bug.json](./324338-blast-a-bug.json) |
 | Blast-A-Finn | 325375 | [325375-blast-a-finn.json](./325375-blast-a-finn.json) |
 | Blast-A-Way | 94802 | [94802-blast-a-way.json](./94802-blast-a-way.json) |
