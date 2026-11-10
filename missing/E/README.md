@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Industry | 84033 | [84033-element-industry.json](./84033-element-industry.json) |
 | Element Release: Water Territory | 292526 | [292526-element-release-water-territory.json](./292526-element-release-water-territory.json) |
 | Element Runner | 200352 | [200352-element-runner.json](./200352-element-runner.json) |
+| Element Space | 106401 | [106401-element-space.json](./106401-element-space.json) |
 | Element TD 2 | 129388 | [129388-element-td-2.json](./129388-element-td-2.json) |
 | Element TD 2: Mazing Expansion | 228198 | [228198-element-td-2-mazing-expansion.json](./228198-element-td-2-mazing-expansion.json) |
 | Element X | 160009 | [160009-element-x.json](./160009-element-x.json) |
@@ -3917,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Greed | 413670 | [413670-endless-greed.json](./413670-endless-greed.json) |
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
 | Endless History | 320771 | [320771-endless-history.json](./320771-endless-history.json) |
+| Endless Horde | 105890 | [105890-endless-horde.json](./105890-endless-horde.json) |
 | Endless Horizon | 99674 | [99674-endless-horizon.json](./99674-endless-horizon.json) |
 | Endless Invader | 407547 | [407547-endless-invader.json](./407547-endless-invader.json) |
 | Endless Invaders | 100365 | [100365-endless-invaders.json](./100365-endless-invaders.json) |
@@ -7132,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergarden | 107191 | [107191-evergarden.json](./107191-evergarden.json) |
 | Evergarden | 269740 | [269740-evergarden.json](./269740-evergarden.json) |
 | Evergarden | 398021 | [398021-evergarden.json](./398021-evergarden.json) |
+| Evergate | 105453 | [105453-evergate.json](./105453-evergate.json) |
 | Evergate: Ki's Awakening | 167593 | [167593-evergate-kis-awakening.json](./167593-evergate-kis-awakening.json) |
 | EverGirl | 6399 | [6399-evergirl.json](./6399-evergirl.json) |
 | Everglen | 368993 | [368993-everglen.json](./368993-everglen.json) |
