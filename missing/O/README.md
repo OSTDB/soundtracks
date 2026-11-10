@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off_Duty | 184613 | [184613-off-duty.json](./184613-off-duty.json) |
 | Off-Peak | 25849 | [25849-off-peak.json](./25849-off-peak.json) |
 | Off-Planet Dreams | 319128 | [319128-off-planet-dreams.json](./319128-off-planet-dreams.json) |
+| Off-Road Drive | 16274 | [16274-off-road-drive.json](./16274-off-road-drive.json) |
 | Off-Road Farming | 188679 | [188679-off-road-farming.json](./188679-off-road-farming.json) |
 | Off-Road Kings | 98993 | [98993-off-road-kings.json](./98993-off-road-kings.json) |
 | Off-Road Paradise: Trial 4x4 | 30504 | [30504-off-road-paradise-trial-4x4.json](./30504-off-road-paradise-trial-4x4.json) |
@@ -5005,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Cinderella | 292061 | [292061-our-cinderella.json](./292061-our-cinderella.json) |
 | Our Damned Machine | 146636 | [146636-our-damned-machine.json](./146636-our-damned-machine.json) |
 | Our Dark Heart | 258376 | [258376-our-dark-heart.json](./258376-our-dark-heart.json) |
+| Our Darker Purpose | 16830 | [16830-our-darker-purpose.json](./16830-our-darker-purpose.json) |
 | Our Darkest Night | 30793 | [30793-our-darkest-night.json](./30793-our-darkest-night.json) |
 | Our Dollhouse | 294219 | [294219-our-dollhouse.json](./294219-our-dollhouse.json) |
 | Our Doomed Bunker | 293008 | [293008-our-doomed-bunker.json](./293008-our-doomed-bunker.json) |
