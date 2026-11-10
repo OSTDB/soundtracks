@@ -5433,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decrepit | 381203 | [381203-decrepit.json](./381203-decrepit.json) |
 | Decromancer | 35323 | [35323-decromancer.json](./35323-decromancer.json) |
 | Decrypt | 229211 | [229211-decrypt.json](./229211-decrypt.json) |
+| Decrypting Life | 426600 | [426600-decrypting-life.json](./426600-decrypting-life.json) |
 | Decrypto Project | 338686 | [338686-decrypto-project.json](./338686-decrypto-project.json) |
 | Decurion | 285012 | [285012-decurion.json](./285012-decurion.json) |
 | Decurse: A New Magic Farming Game | 254159 | [254159-decurse-a-new-magic-farming-game.json](./254159-decurse-a-new-magic-farming-game.json) |
@@ -18898,6 +18899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dung Beetle Adventure | 266622 | [266622-dung-beetle-adventure.json](./266622-dung-beetle-adventure.json) |
 | Dung Beetle Strike | 158804 | [158804-dung-beetle-strike.json](./158804-dung-beetle-strike.json) |
 | Dung Slinger | 410342 | [410342-dung-slinger.json](./410342-dung-slinger.json) |
+| Dungekon Online | 426636 | [426636-dungekon-online.json](./426636-dungekon-online.json) |
 | Dungellion | 111258 | [111258-dungellion.json](./111258-dungellion.json) |
 | Dungelot | 22161 | [22161-dungelot.json](./22161-dungelot.json) |
 | Dungemon | 339930 | [339930-dungemon.json](./339930-dungemon.json) |
@@ -20465,6 +20467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynowarz: Destruction of Spondylus | 48029 | [48029-dynowarz-destruction-of-spondylus.json](./48029-dynowarz-destruction-of-spondylus.json) |
 | Dyo | 83936 | [83936-dyo.json](./83936-dyo.json) |
 | Dyping Escape | 339959 | [339959-dyping-escape.json](./339959-dyping-escape.json) |
+| Dyping Working: Task Manager | 426615 | [426615-dyping-working-task-manager.json](./426615-dyping-working-task-manager.json) |
 | Dyrocraft 2: Reborn | 394107 | [394107-dyrocraft-2-reborn.json](./394107-dyrocraft-2-reborn.json) |
 | Dys: Eternal Space Jail RPG | 142362 | [142362-dys-eternal-space-jail-rpg.json](./142362-dys-eternal-space-jail-rpg.json) |
 | Dys4ia | 15850 | [15850-dys4ia.json](./15850-dys4ia.json) |
