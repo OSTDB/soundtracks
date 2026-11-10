@@ -15427,6 +15427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot + A New Power Awakens Set Season Pass 2 | 262157 | [262157-dragon-ball-z-kakarot-a-new-power-awakens-set-season-pass-2.json](./262157-dragon-ball-z-kakarot-a-new-power-awakens-set-season-pass-2.json) |
 | Dragon Ball Z: Kyoushuu! Saiya-jin | 78229 | [78229-dragon-ball-z-kyoushuu-saiya-jin.json](./78229-dragon-ball-z-kyoushuu-saiya-jin.json) |
 | Dragon Ball Z: Legend of Z RPG | 314005 | [314005-dragon-ball-z-legend-of-z-rpg.json](./314005-dragon-ball-z-legend-of-z-rpg.json) |
+| Dragon Ball Z: Legendary Super Warriors | 49856 | [49856-dragon-ball-z-legendary-super-warriors.json](./49856-dragon-ball-z-legendary-super-warriors.json) |
 | Dragon Ball Z: Mission to Namek | 331064 | [331064-dragon-ball-z-mission-to-namek.json](./331064-dragon-ball-z-mission-to-namek.json) |
 | Dragon Ball Z: Namekku-sei Chou Kessen | 346786 | [346786-dragon-ball-z-namekku-sei-chou-kessen.json](./346786-dragon-ball-z-namekku-sei-chou-kessen.json) |
 | Dragon Ball Z: Pong | 338683 | [338683-dragon-ball-z-pong.json](./338683-dragon-ball-z-pong.json) |
@@ -16089,6 +16090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair | 283008 | [283008-dragons-lair.json](./283008-dragons-lair.json) |
 | Dragon's Lair 2: Time Warp HD | 100233 | [100233-dragons-lair-2-time-warp-hd.json](./100233-dragons-lair-2-time-warp-hd.json) |
 | Dragon's Lair HD | 100618 | [100618-dragons-lair-hd.json](./100618-dragons-lair-hd.json) |
+| Dragon's Lair II: Time Warp | 14660 | [14660-dragons-lair-ii-time-warp.json](./14660-dragons-lair-ii-time-warp.json) |
 | Dragon's Lair II: Time Warp | 323845 | [323845-dragons-lair-ii-time-warp.json](./323845-dragons-lair-ii-time-warp.json) |
 | Dragon's Lair Part II: Escape from Singe's Castle | 418248 | [418248-dragons-lair-part-ii-escape-from-singes-castle.json](./418248-dragons-lair-part-ii-escape-from-singes-castle.json) |
 | Dragon's Lair Trilogy | 50593 | [50593-dragons-lair-trilogy.json](./50593-dragons-lair-trilogy.json) |
