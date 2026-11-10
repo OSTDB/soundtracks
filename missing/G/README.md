@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gene Rain: Wind Tower - Sky City's Rebirth | 170738 | [170738-gene-rain-wind-tower-sky-citys-rebirth.json](./170738-gene-rain-wind-tower-sky-citys-rebirth.json) |
 | Gene Rain: Wind Tower - Way to Heaven | 170739 | [170739-gene-rain-wind-tower-way-to-heaven.json](./170739-gene-rain-wind-tower-way-to-heaven.json) |
 | Gene Rally | 50259 | [50259-gene-rally.json](./50259-gene-rally.json) |
+| Gene Troopers | 22573 | [22573-gene-troopers.json](./22573-gene-troopers.json) |
 | Gene Wars | 83785 | [83785-gene-wars.json](./83785-gene-wars.json) |
 | GeneBreak | 357180 | [357180-genebreak.json](./357180-genebreak.json) |
 | Geneforge | 8362 | [8362-geneforge.json](./8362-geneforge.json) |
@@ -5860,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! George Go! | 300394 | [300394-go-george-go.json](./300394-go-george-go.json) |
 | Go! Go! Advance Drive: Muttsu no Machine ni Chousen Da! | 327588 | [327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json](./327588-go-go-advance-drive-muttsu-no-machine-ni-chousen-da.json) |
 | Go! Go! Birdie Chance | 61416 | [61416-go-go-birdie-chance.json](./61416-go-go-birdie-chance.json) |
+| Go! Go! Break Steady | 23031 | [23031-go-go-break-steady.json](./23031-go-go-break-steady.json) |
 | Go! Go! Cosmo Cops! | 21211 | [21211-go-go-cosmo-cops.json](./21211-go-go-cosmo-cops.json) |
 | Go! Go! Digger | 227816 | [227816-go-go-digger.json](./227816-go-go-digger.json) |
 | Go! Go! Gooble!! | 135136 | [135136-go-go-gooble.json](./135136-go-go-gooble.json) |
@@ -11558,6 +11560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunMaster | 266491 | [266491-gunmaster.json](./266491-gunmaster.json) |
 | GunMaster Onslaught 2.0 | 387925 | [387925-gunmaster-onslaught-2-0.json](./387925-gunmaster-onslaught-2-0.json) |
 | Gunmen Wars | 62095 | [62095-gunmen-wars.json](./62095-gunmen-wars.json) |
+| Gunmetal Arcadia Zero | 22713 | [22713-gunmetal-arcadia-zero.json](./22713-gunmetal-arcadia-zero.json) |
 | Gunmetal Gothic | 252581 | [252581-gunmetal-gothic.json](./252581-gunmetal-gothic.json) |
 | GunNail | 39837 | [39837-gunnail.json](./39837-gunnail.json) |
 | Gunnel Vision | 305993 | [305993-gunnel-vision.json](./305993-gunnel-vision.json) |
