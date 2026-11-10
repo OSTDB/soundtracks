@@ -1655,6 +1655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games Festival Volume 1 | 84644 | [84644-games-festival-volume-1.json](./84644-games-festival-volume-1.json) |
 | Games Festival Volume 2 | 84642 | [84642-games-festival-volume-2.json](./84642-games-festival-volume-2.json) |
 | Games for Boys Bundle | 411177 | [411177-games-for-boys-bundle.json](./411177-games-for-boys-bundle.json) |
+| Games for Girls Bundle | 409925 | [409925-games-for-girls-bundle.json](./409925-games-for-girls-bundle.json) |
 | Games for Stream! | 266856 | [266856-games-for-stream.json](./266856-games-for-stream.json) |
 | Games For The Table | 340292 | [340292-games-for-the-table.json](./340292-games-for-the-table.json) |
 | Games For Toddlers | 84641 | [84641-games-for-toddlers.json](./84641-games-for-toddlers.json) |
@@ -8397,6 +8398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto Online: The Diamond Casino & Resort | 239055 | [239055-grand-theft-auto-online-the-diamond-casino-and-resort.json](./239055-grand-theft-auto-online-the-diamond-casino-and-resort.json) |
 | Grand Theft Auto Online: The Diamond Casino Heist | 398950 | [398950-grand-theft-auto-online-the-diamond-casino-heist.json](./398950-grand-theft-auto-online-the-diamond-casino-heist.json) |
 | Grand Theft Auto Online: The Doomsday Heist | 263913 | [263913-grand-theft-auto-online-the-doomsday-heist.json](./263913-grand-theft-auto-online-the-doomsday-heist.json) |
+| Grand Theft Auto Online: The Kortz Center Heist | 409935 | [409935-grand-theft-auto-online-the-kortz-center-heist.json](./409935-grand-theft-auto-online-the-kortz-center-heist.json) |
 | Grand Theft Auto PS Vita Collection | 99753 | [99753-grand-theft-auto-ps-vita-collection.json](./99753-grand-theft-auto-ps-vita-collection.json) |
 | Grand Theft Auto Re: Liberty City Stories | 233662 | [233662-grand-theft-auto-re-liberty-city-stories.json](./233662-grand-theft-auto-re-liberty-city-stories.json) |
 | Grand Theft Auto Tightened Thrice | 329629 | [329629-grand-theft-auto-tightened-thrice.json](./329629-grand-theft-auto-tightened-thrice.json) |
