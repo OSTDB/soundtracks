@@ -547,6 +547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quantum Sleeper | 318358 | [318358-quantum-sleeper.json](./318358-quantum-sleeper.json) |
 | Quantum Soteriology | 333900 | [333900-quantum-soteriology.json](./333900-quantum-soteriology.json) |
 | Quantum Storm | 226318 | [226318-quantum-storm.json](./226318-quantum-storm.json) |
+| Quantum Suicide | 58606 | [58606-quantum-suicide.json](./58606-quantum-suicide.json) |
 | Quantum Theory | 7149 | [7149-quantum-theory.json](./7149-quantum-theory.json) |
 | Quantum Threshold | 344962 | [344962-quantum-threshold.json](./344962-quantum-threshold.json) |
 | Quantum Tripper | 202619 | [202619-quantum-tripper.json](./202619-quantum-tripper.json) |
