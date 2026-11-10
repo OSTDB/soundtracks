@@ -3697,6 +3697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartwood | 179158 | [179158-heartwood.json](./179158-heartwood.json) |
 | Heartwood Heroes | 236329 | [236329-heartwood-heroes.json](./236329-heartwood-heroes.json) |
 | Heartwood Online | 258374 | [258374-heartwood-online.json](./258374-heartwood-online.json) |
+| HeartZ: Co-Hope Puzzles | 35803 | [35803-heartz-co-hope-puzzles.json](./35803-heartz-co-hope-puzzles.json) |
 | Heat | 113542 | [113542-heat.json](./113542-heat.json) |
 | Heat | 183400 | [183400-heat.json](./183400-heat.json) |
 | Heat 'n Hit: The Blacksmith Simulator | 371962 | [371962-heat-n-hit-the-blacksmith-simulator.json](./371962-heat-n-hit-the-blacksmith-simulator.json) |
@@ -7358,6 +7359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object Ancient Dragons | 104624 | [104624-hidden-object-ancient-dragons.json](./104624-hidden-object-ancient-dragons.json) |
 | Hidden Object Bachelorette | 102733 | [102733-hidden-object-bachelorette.json](./102733-hidden-object-bachelorette.json) |
 | Hidden Object Bundle | 356963 | [356963-hidden-object-bundle.json](./356963-hidden-object-bundle.json) |
+| Hidden Object Bundle 4 in 1 | 35811 | [35811-hidden-object-bundle-4-in-1.json](./35811-hidden-object-bundle-4-in-1.json) |
 | Hidden Object Chronicles: Poisoned Truth - Collector's Edition | 285535 | [285535-hidden-object-chronicles-poisoned-truth-collectors-edition.json](./285535-hidden-object-chronicles-poisoned-truth-collectors-edition.json) |
 | Hidden Object Classic Adventures | 198077 | [198077-hidden-object-classic-adventures.json](./198077-hidden-object-classic-adventures.json) |
 | Hidden Object Classic Adventures 2 | 198088 | [198088-hidden-object-classic-adventures-2.json](./198088-hidden-object-classic-adventures-2.json) |
