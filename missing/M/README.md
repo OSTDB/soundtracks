@@ -6031,6 +6031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matricon: Monopoly | 230531 | [230531-matricon-monopoly.json](./230531-matricon-monopoly.json) |
 | Matrimelee | 92937 | [92937-matrimelee.json](./92937-matrimelee.json) |
 | Matrioshkas On a Roll! | 418615 | [418615-matrioshkas-on-a-roll.json](./418615-matrioshkas-on-a-roll.json) |
+| Matris | 32649 | [32649-matris.json](./32649-matris.json) |
 | Matrix Blocks | 149463 | [149463-matrix-blocks.json](./149463-matrix-blocks.json) |
 | Matrix Brain Twister | 367127 | [367127-matrix-brain-twister.json](./367127-matrix-brain-twister.json) |
 | Matrix Bullet | 266766 | [266766-matrix-bullet.json](./266766-matrix-bullet.json) |
@@ -17159,6 +17160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters! | 79776 | [79776-monsters.json](./79776-monsters.json) |
 | Monsters' Den Chronicles | 121171 | [121171-monsters-den-chronicles.json](./121171-monsters-den-chronicles.json) |
 | Monsters' Den: Book of Dread | 32035 | [32035-monsters-den-book-of-dread.json](./32035-monsters-den-book-of-dread.json) |
+| Monsters' Den: Godfall | 32682 | [32682-monsters-den-godfall.json](./32682-monsters-den-godfall.json) |
 | Monsters' Den: Godfall - Protectorate Operations | 155550 | [155550-monsters-den-godfall-protectorate-operations.json](./155550-monsters-den-godfall-protectorate-operations.json) |
 | Monsters' Gambits | 250870 | [250870-monsters-gambits.json](./250870-monsters-gambits.json) |
 | Monsterseed | 45219 | [45219-monsterseed.json](./45219-monsterseed.json) |
@@ -17624,6 +17626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonshot | 20351 | [20351-moonshot.json](./20351-moonshot.json) |
 | Moonshot | 286048 | [286048-moonshot.json](./286048-moonshot.json) |
 | Moonshot | 312045 | [312045-moonshot.json](./312045-moonshot.json) |
+| Moonshot Galaxy | 32658 | [32658-moonshot-galaxy.json](./32658-moonshot-galaxy.json) |
 | Moonshot Mission | 370439 | [370439-moonshot-mission.json](./370439-moonshot-mission.json) |
 | Moonshot: A Journey Home | 196697 | [196697-moonshot-a-journey-home.json](./196697-moonshot-a-journey-home.json) |
 | Moonshot: The Great Espionage | 159516 | [159516-moonshot-the-great-espionage.json](./159516-moonshot-the-great-espionage.json) |
@@ -18636,6 +18639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Racing Highway Traffic | 395772 | [395772-moto-racing-highway-traffic.json](./395772-moto-racing-highway-traffic.json) |
 | Moto Rally Racing VR | 288785 | [288785-moto-rally-racing-vr.json](./288785-moto-rally-racing-vr.json) |
 | Moto Rider Go: Highway Traffic | 104640 | [104640-moto-rider-go-highway-traffic.json](./104640-moto-rider-go-highway-traffic.json) |
+| moto RKD dash | 32653 | [32653-moto-rkd-dash.json](./32653-moto-rkd-dash.json) |
 | Moto Roader | 42104 | [42104-moto-roader.json](./42104-moto-roader.json) |
 | Moto Roader II | 37708 | [37708-moto-roader-ii.json](./37708-moto-roader-ii.json) |
 | Moto Roader MC | 79389 | [79389-moto-roader-mc.json](./79389-moto-roader-mc.json) |
