@@ -4623,6 +4623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giraffe Town | 109783 | [109783-giraffe-town.json](./109783-giraffe-town.json) |
 | Giraffe's Matching Zoo | 87138 | [87138-giraffes-matching-zoo.json](./87138-giraffes-matching-zoo.json) |
 | Giraffe's Matching Zoo Deluxe: Featuring the Fun Button! | 88418 | [88418-giraffes-matching-zoo-deluxe-featuring-the-fun-button.json](./88418-giraffes-matching-zoo-deluxe-featuring-the-fun-button.json) |
+| Giraffes Volleyball Championship 2016 | 22690 | [22690-giraffes-volleyball-championship-2016.json](./22690-giraffes-volleyball-championship-2016.json) |
 | Giral | 107766 | [107766-giral.json](./107766-giral.json) |
 | Girauden Strike Force | 156535 | [156535-girauden-strike-force.json](./156535-girauden-strike-force.json) |
 | Girbal | 219795 | [219795-girbal.json](./219795-girbal.json) |
@@ -5365,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloria in Somnium | 308426 | [308426-gloria-in-somnium.json](./308426-gloria-in-somnium.json) |
 | Gloria Sinica: Han Xiongnu Wars | 67930 | [67930-gloria-sinica-han-xiongnu-wars.json](./67930-gloria-sinica-han-xiongnu-wars.json) |
 | Gloria Union: Twin Fates in Blue Ocean | 66057 | [66057-gloria-union-twin-fates-in-blue-ocean.json](./66057-gloria-union-twin-fates-in-blue-ocean.json) |
+| Gloria Victis | 23282 | [23282-gloria-victis.json](./23282-gloria-victis.json) |
 | Gloria Victis: Merchant Pack | 405949 | [405949-gloria-victis-merchant-pack.json](./405949-gloria-victis-merchant-pack.json) |
 | Gloria: Kindan no Ketsuzoku | 94940 | [94940-gloria-kindan-no-ketsuzoku.json](./94940-gloria-kindan-no-ketsuzoku.json) |
 | Gloria's House | 363648 | [363648-glorias-house.json](./363648-glorias-house.json) |
@@ -5928,6 +5930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Herd and the Gods | 169889 | [169889-goat-herd-and-the-gods.json](./169889-goat-herd-and-the-gods.json) |
 | Goat Life | 101619 | [101619-goat-life.json](./101619-goat-life.json) |
 | Goat Massacre | 340314 | [340314-goat-massacre.json](./340314-goat-massacre.json) |
+| Goat MMO Simulator | 23191 | [23191-goat-mmo-simulator.json](./23191-goat-mmo-simulator.json) |
 | Goat of Duty | 118115 | [118115-goat-of-duty.json](./118115-goat-of-duty.json) |
 | Goat on Boat | 176284 | [176284-goat-on-boat.json](./176284-goat-on-boat.json) |
 | Goat Out Of Hell | 367907 | [367907-goat-out-of-hell.json](./367907-goat-out-of-hell.json) |
@@ -9994,6 +9997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grippy | 177179 | [177179-grippy.json](./177179-grippy.json) |
 | Grippy | 378389 | [378389-grippy.json](./378389-grippy.json) |
 | Grippy Golf | 244553 | [244553-grippy-golf.json](./244553-grippy-golf.json) |
+| GripShift | 21810 | [21810-gripshift.json](./21810-gripshift.json) |
 | Gripshot | 340401 | [340401-gripshot.json](./340401-gripshot.json) |
 | Griptape Backbone | 29755 | [29755-griptape-backbone.json](./29755-griptape-backbone.json) |
 | Gris + Neva Bundle | 320697 | [320697-gris-neva-bundle.json](./320697-gris-neva-bundle.json) |
@@ -10391,6 +10395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growlanser | 21309 | [21309-growlanser.json](./21309-growlanser.json) |
 | Growlanser Collection | 72430 | [72430-growlanser-collection.json](./72430-growlanser-collection.json) |
 | Growlanser Generations | 21311 | [21311-growlanser-generations.json](./21311-growlanser-generations.json) |
+| Growlanser II: The Sense of Justice | 21310 | [21310-growlanser-ii-the-sense-of-justice.json](./21310-growlanser-ii-the-sense-of-justice.json) |
 | Growlanser III: The Dual Darkness | 21312 | [21312-growlanser-iii-the-dual-darkness.json](./21312-growlanser-iii-the-dual-darkness.json) |
 | Growlanser IV: Overreloaded | 52222 | [52222-growlanser-iv-overreloaded.json](./52222-growlanser-iv-overreloaded.json) |
 | Growlanser IV: Wayfarer of the Time | 21313 | [21313-growlanser-iv-wayfarer-of-the-time.json](./21313-growlanser-iv-wayfarer-of-the-time.json) |
