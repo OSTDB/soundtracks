@@ -3048,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Sing Rock! | 5273 | [5273-we-sing-rock.json](./5273-we-sing-rock.json) |
 | We Sing Superstar Quiz | 63900 | [63900-we-sing-superstar-quiz.json](./63900-we-sing-superstar-quiz.json) |
 | We Sing UK Hits | 5274 | [5274-we-sing-uk-hits.json](./5274-we-sing-uk-hits.json) |
+| We Ski & Snowboard | 5276 | [5276-we-ski-and-snowboard.json](./5276-we-ski-and-snowboard.json) |
 | We Slay Monsters | 36183 | [36183-we-slay-monsters.json](./36183-we-slay-monsters.json) |
 | We Surround You | 150687 | [150687-we-surround-you.json](./150687-we-surround-you.json) |
 | We Survive Tonight | 199227 | [199227-we-survive-tonight.json](./199227-we-survive-tonight.json) |
@@ -9787,7 +9788,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE All Stars | 5296 | [5296-wwe-all-stars.json](./5296-wwe-all-stars.json) |
 | WWE Brawl | 94141 | [94141-wwe-brawl.json](./94141-wwe-brawl.json) |
 | WWE Champions | 58888 | [58888-wwe-champions.json](./58888-wwe-champions.json) |
+| WWE Crush Hour | 4570 | [4570-wwe-crush-hour.json](./4570-wwe-crush-hour.json) |
 | WWE Day of Reckoning | 4571 | [4571-wwe-day-of-reckoning.json](./4571-wwe-day-of-reckoning.json) |
+| WWE Day of Reckoning 2 | 4572 | [4572-wwe-day-of-reckoning-2.json](./4572-wwe-day-of-reckoning-2.json) |
 | WWE Generations | 409326 | [409326-wwe-generations.json](./409326-wwe-generations.json) |
 | WWE Immortals | 8736 | [8736-wwe-immortals.json](./8736-wwe-immortals.json) |
 | WWE Legends of WrestleMania | 7488 | [7488-wwe-legends-of-wrestlemania.json](./7488-wwe-legends-of-wrestlemania.json) |
