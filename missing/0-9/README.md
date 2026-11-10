@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1999 Christmas Eve | 367492 | [367492-1999-christmas-eve.json](./367492-1999-christmas-eve.json) |
 | 1999: Hore, Mita Koto ka! Seikimatsu | 48607 | [48607-1999-hore-mita-koto-ka-seikimatsu.json](./48607-1999-hore-mita-koto-ka-seikimatsu.json) |
 | 1999: Megallennium 6-in-1 Mega Cart | 136611 | [136611-1999-megallennium-6-in-1-mega-cart.json](./136611-1999-megallennium-6-in-1-mega-cart.json) |
+| 199X | 35602 | [35602-199x.json](./35602-199x.json) |
 | 19th Century Printing Press Experience VR | 337613 | [337613-19th-century-printing-press-experience-vr.json](./337613-19th-century-printing-press-experience-vr.json) |
 | 19XX: The War Against Destiny | 6078 | [6078-19xx-the-war-against-destiny.json](./6078-19xx-the-war-against-destiny.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
