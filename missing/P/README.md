@@ -14013,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potions, Please! | 381186 | [381186-potions-please.json](./381186-potions-please.json) |
 | Potions: A Curious Tale | 22554 | [22554-potions-a-curious-tale.json](./22554-potions-a-curious-tale.json) |
 | Potionworm | 350304 | [350304-potionworm.json](./350304-potionworm.json) |
+| Potluck | 407006 | [407006-potluck.json](./407006-potluck.json) |
 | Poto & Cabenga | 242903 | [242903-poto-and-cabenga.json](./242903-poto-and-cabenga.json) |
 | Potpourrii | 21799 | [21799-potpourrii.json](./21799-potpourrii.json) |
 | Potrick Snap | 341004 | [341004-potrick-snap.json](./341004-potrick-snap.json) |
@@ -16123,6 +16124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Bull Rider 2 | 71445 | [71445-professional-bull-rider-2.json](./71445-professional-bull-rider-2.json) |
 | Professional Bull Riding: Out of the Chute | 315719 | [315719-professional-bull-riding-out-of-the-chute.json](./315719-professional-bull-riding-out-of-the-chute.json) |
 | Professional Bull Riding: Out of the Chute | 51113 | [51113-professional-bull-riding-out-of-the-chute.json](./51113-professional-bull-riding-out-of-the-chute.json) |
+| Professional Cats | 407024 | [407024-professional-cats.json](./407024-professional-cats.json) |
 | Professional Chef | 411492 | [411492-professional-chef.json](./411492-professional-chef.json) |
 | Professional Construction: The Simulation | 32045 | [32045-professional-construction-the-simulation.json](./32045-professional-construction-the-simulation.json) |
 | Professional Darts Championship | 197887 | [197887-professional-darts-championship.json](./197887-professional-darts-championship.json) |
@@ -18645,6 +18647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory Overkill | 160071 | [160071-purgatory-overkill.json](./160071-purgatory-overkill.json) |
 | Purgatory Pitstop | 390774 | [390774-purgatory-pitstop.json](./390774-purgatory-pitstop.json) |
 | Purgatory Survivors | 298048 | [298048-purgatory-survivors.json](./298048-purgatory-survivors.json) |
+| Purgatory X: Amalia | 407002 | [407002-purgatory-x-amalia.json](./407002-purgatory-x-amalia.json) |
 | Purgatory: Blue | 327038 | [327038-purgatory-blue.json](./327038-purgatory-blue.json) |
 | Purgatory: Can't Escape! | 154850 | [154850-purgatory-cant-escape.json](./154850-purgatory-cant-escape.json) |
 | Purgatory: Echoes From the Void | 58246 | [58246-purgatory-echoes-from-the-void.json](./58246-purgatory-echoes-from-the-void.json) |
