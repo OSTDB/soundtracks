@@ -1055,6 +1055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer | 247029 | [247029-hammer.json](./247029-hammer.json) |
 | Hammer & Harvest: Dwarven Roots | 396742 | [396742-hammer-and-harvest-dwarven-roots.json](./396742-hammer-and-harvest-dwarven-roots.json) |
 | Hammer & Potion | 215351 | [215351-hammer-and-potion.json](./215351-hammer-and-potion.json) |
+| Hammer & Sickle | 22581 | [22581-hammer-and-sickle.json](./22581-hammer-and-sickle.json) |
 | Hammer 2 | 74595 | [74595-hammer-2.json](./74595-hammer-2.json) |
 | Hammer 2 Reloaded | 165593 | [165593-hammer-2-reloaded.json](./165593-hammer-2-reloaded.json) |
 | Hammer Away | 40181 | [40181-hammer-away.json](./40181-hammer-away.json) |
@@ -10972,6 +10973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pinball | 398447 | [398447-hot-pinball.json](./398447-hot-pinball.json) |
 | Hot Pinball Thrills | 35134 | [35134-hot-pinball-thrills.json](./35134-hot-pinball-thrills.json) |
 | Hot Pink | 100468 | [100468-hot-pink.json](./100468-hot-pink.json) |
+| Hot Pixel | 23096 | [23096-hot-pixel.json](./23096-hot-pixel.json) |
 | Hot Plates | 30366 | [30366-hot-plates.json](./30366-hot-plates.json) |
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
 | Hot Pot | 182817 | [182817-hot-pot.json](./182817-hot-pot.json) |
