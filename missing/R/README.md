@@ -1930,6 +1930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Mix | 417291 | [417291-random-mix.json](./417291-random-mix.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
 | Random of Wars | 111236 | [111236-random-of-wars.json](./111236-random-of-wars.json) |
+| Random Physics Thingy | 422398 | [422398-random-physics-thingy.json](./422398-random-physics-thingy.json) |
 | Random Platformer | 169785 | [169785-random-platformer.json](./169785-random-platformer.json) |
 | Random Quest | 322233 | [322233-random-quest.json](./322233-random-quest.json) |
 | Random Quest : First Person RPG | 103505 | [103505-random-quest-first-person-rpg.json](./103505-random-quest-first-person-rpg.json) |
@@ -10633,6 +10634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Tactics | 272594 | [272594-rogue-tactics.json](./272594-rogue-tactics.json) |
 | Rogue Tank | 235849 | [235849-rogue-tank.json](./235849-rogue-tank.json) |
 | Rogue Tanks | 312998 | [312998-rogue-tanks.json](./312998-rogue-tanks.json) |
+| Rogue Tempo | 422419 | [422419-rogue-tempo.json](./422419-rogue-tempo.json) |
 | Rogue Tides | 275706 | [275706-rogue-tides.json](./275706-rogue-tides.json) |
 | Rogue Tiles | 306317 | [306317-rogue-tiles.json](./306317-rogue-tiles.json) |
 | Rogue Titan | 312132 | [312132-rogue-titan.json](./312132-rogue-titan.json) |
@@ -12691,6 +12693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rulebound | 413492 | [413492-rulebound.json](./413492-rulebound.json) |
 | Ruled by Rule | 369279 | [369279-ruled-by-rule.json](./369279-ruled-by-rule.json) |
 | Rulegement | 267445 | [267445-rulegement.json](./267445-rulegement.json) |
+| Rulehouse | 422402 | [422402-rulehouse.json](./422402-rulehouse.json) |
 | Rulent Tower VR | 134989 | [134989-rulent-tower-vr.json](./134989-rulent-tower-vr.json) |
 | Ruler by Default | 99004 | [99004-ruler-by-default.json](./99004-ruler-by-default.json) |
 | Ruler of the Earth | 185694 | [185694-ruler-of-the-earth.json](./185694-ruler-of-the-earth.json) |
