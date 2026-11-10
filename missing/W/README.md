@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp-1 | 57125 | [57125-warp-1.json](./57125-warp-1.json) |
 | Warp-Tek | 112667 | [112667-warp-tek.json](./112667-warp-tek.json) |
 | Warpack | 416044 | [416044-warpack.json](./416044-warpack.json) |
+| Warpaint | 29358 | [29358-warpaint.json](./29358-warpaint.json) |
 | Warpath | 273349 | [273349-warpath.json](./273349-warpath.json) |
 | Warpath | 377149 | [377149-warpath.json](./377149-warpath.json) |
 | Warpath | 388077 | [388077-warpath.json](./388077-warpath.json) |
@@ -5856,6 +5857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Win or Lose | 246373 | [246373-win-or-lose.json](./246373-win-or-lose.json) |
 | Win Over That Delinquent Guy! | 400523 | [400523-win-over-that-delinquent-guy.json](./400523-win-over-that-delinquent-guy.json) |
 | Win Over the Flawed Girl | 248102 | [248102-win-over-the-flawed-girl.json](./248102-win-over-the-flawed-girl.json) |
+| Win That War! | 29347 | [29347-win-that-war.json](./29347-win-that-war.json) |
 | Win the Diamond | 220839 | [220839-win-the-diamond.json](./220839-win-the-diamond.json) |
 | Win the Game: Do It! | 96648 | [96648-win-the-game-do-it.json](./96648-win-the-game-do-it.json) |
 | Win the Game! | 96197 | [96197-win-the-game.json](./96197-win-the-game.json) |
