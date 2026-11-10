@@ -200,6 +200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 25: 2026 Season Edition | 408775 | [408775-f1-25-2026-season-edition.json](./408775-f1-25-2026-season-edition.json) |
 | F1 25: 2026 Season Pack | 408774 | [408774-f1-25-2026-season-pack.json](./408774-f1-25-2026-season-pack.json) |
 | F1 25: Iconic Edition | 337977 | [337977-f1-25-iconic-edition.json](./337977-f1-25-iconic-edition.json) |
+| F1 Career Challenge | 5830 | [5830-f1-career-challenge.json](./5830-f1-career-challenge.json) |
 | F1 Challenge | 95383 | [95383-f1-challenge.json](./95383-f1-challenge.json) |
 | F1 Championship Season 2000 | 259641 | [259641-f1-championship-season-2000.json](./259641-f1-championship-season-2000.json) |
 | F1 Championship Season 2000 | 690 | [690-f1-championship-season-2000.json](./690-f1-championship-season-2000.json) |
