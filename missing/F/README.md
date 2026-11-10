@@ -6720,6 +6720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish | 382202 | [382202-fish.json](./382202-fish.json) |
 | Fish 'n Ships | 349472 | [349472-fish-n-ships.json](./349472-fish-n-ships.json) |
 | Fish 'N' Chips | 246832 | [246832-fish-n-chips.json](./246832-fish-n-chips.json) |
+| Fish & Hike | 404581 | [404581-fish-and-hike.json](./404581-fish-and-hike.json) |
 | Fish & Trip | 97492 | [97492-fish-and-trip.json](./97492-fish-and-trip.json) |
 | Fish and Chill | 349795 | [349795-fish-and-chill.json](./349795-fish-and-chill.json) |
 | Fish and Fight | 163867 | [163867-fish-and-fight.json](./163867-fish-and-fight.json) |
