@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall of Taiji | 178248 | [178248-wall-of-taiji.json](./178248-wall-of-taiji.json) |
 | Wall Pipe | 344040 | [344040-wall-pipe.json](./344040-wall-pipe.json) |
 | Wall protection | 256943 | [256943-wall-protection.json](./256943-wall-protection.json) |
+| Wall Rider | 409257 | [409257-wall-rider.json](./409257-wall-rider.json) |
 | Wall Roller | 184689 | [184689-wall-roller.json](./184689-wall-roller.json) |
 | Wall Shooter | 244864 | [244864-wall-shooter.json](./244864-wall-shooter.json) |
 | Wall Simulator 2017 | 53882 | [53882-wall-simulator-2017.json](./53882-wall-simulator-2017.json) |
