@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1x! Space Adventure | 169847 | [169847-1x-space-adventure.json](./169847-1x-space-adventure.json) |
 | 1x1 | 262086 | [262086-1x1.json](./262086-1x1.json) |
 | 1x1 | 328156 | [328156-1x1.json](./328156-1x1.json) |
+| 1x1 Street Football: mini soccer PvP | 414926 | [414926-1x1-street-football-mini-soccer-pvp.json](./414926-1x1-street-football-mini-soccer-pvp.json) |
 | 1x111 | 322853 | [322853-1x111.json](./322853-1x111.json) |
 | 2 | 178139 | [178139-2.json](./178139-2.json) |
 | 2 3 4 Player Games | 125921 | [125921-2-3-4-player-games.json](./125921-2-3-4-player-games.json) |
@@ -1631,6 +1632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 jeux en 1 I Titeuf: Ze Gag Machine + Titeuf: Méga-Compet' | 82103 | [82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json](./82103-2-jeux-en-1-i-titeuf-ze-gag-machine-titeuf-mega-compet.json) |
 | 2 Lane Racers | 239430 | [239430-2-lane-racers.json](./239430-2-lane-racers.json) |
 | 2 Late 2 Evade | 216773 | [216773-2-late-2-evade.json](./216773-2-late-2-evade.json) |
+| 2 Minute Football QB Legend | 415040 | [415040-2-minute-football-qb-legend.json](./415040-2-minute-football-qb-legend.json) |
 | 2 Minutes 16 Seconds | 367672 | [367672-2-minutes-16-seconds.json](./367672-2-minutes-16-seconds.json) |
 | 2 Minutes in Space | 311679 | [311679-2-minutes-in-space.json](./311679-2-minutes-in-space.json) |
 | 2 Minutes to Die | 358081 | [358081-2-minutes-to-die.json](./358081-2-minutes-to-die.json) |
