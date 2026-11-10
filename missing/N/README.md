@@ -2989,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetHack | 207850 | [207850-nethack.json](./207850-nethack.json) |
 | NetHack | 2895 | [2895-nethack.json](./2895-nethack.json) |
 | Nethack: Falcon's Eye | 71342 | [71342-nethack-falcons-eye.json](./71342-nethack-falcons-eye.json) |
+| NetHackCocoa | 89033 | [89033-nethackcocoa.json](./89033-nethackcocoa.json) |
 | Nether | 9490 | [9490-nether.json](./9490-nether.json) |
 | Nether Abyss | 424049 | [424049-nether-abyss.json](./424049-nether-abyss.json) |
 | Nether Dungeons | 323221 | [323221-nether-dungeons.json](./323221-nether-dungeons.json) |
