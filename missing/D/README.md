@@ -2310,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darklands: Awakening | 164520 | [164520-darklands-awakening.json](./164520-darklands-awakening.json) |
 | DarkLast | 86618 | [86618-darklast.json](./86618-darklast.json) |
 | Darkless | 264172 | [264172-darkless.json](./264172-darkless.json) |
+| DarkLight | 418746 | [418746-darklight.json](./418746-darklight.json) |
 | Darklight Conflict | 2399 | [2399-darklight-conflict.json](./2399-darklight-conflict.json) |
 | Darklight: Origin | 157100 | [157100-darklight-origin.json](./157100-darklight-origin.json) |
 | DarkLight: Platformer | 273509 | [273509-darklight-platformer.json](./273509-darklight-platformer.json) |
@@ -11875,6 +11876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V: Clear Pass - S8 Premium Ticket | 231818 | [231818-djmax-respect-v-clear-pass-s8-premium-ticket.json](./231818-djmax-respect-v-clear-pass-s8-premium-ticket.json) |
 | DJMax Respect V: Cytus Pack | 225056 | [225056-djmax-respect-v-cytus-pack.json](./225056-djmax-respect-v-cytus-pack.json) |
 | DJMax Respect V: Deemo Pack | 225048 | [225048-djmax-respect-v-deemo-pack.json](./225048-djmax-respect-v-deemo-pack.json) |
+| DJMax Respect V: Dungeon & Fighter PACK | 418691 | [418691-djmax-respect-v-dungeon-and-fighter-pack.json](./418691-djmax-respect-v-dungeon-and-fighter-pack.json) |
 | DJMax Respect V: Emotional Sense Pack | 225060 | [225060-djmax-respect-v-emotional-sense-pack.json](./225060-djmax-respect-v-emotional-sense-pack.json) |
 | DJMax Respect V: Estimate Pack | 261875 | [261875-djmax-respect-v-estimate-pack.json](./261875-djmax-respect-v-estimate-pack.json) |
 | DJMax Respect V: Ez2on Pack | 239342 | [239342-djmax-respect-v-ez2on-pack.json](./239342-djmax-respect-v-ez2on-pack.json) |
@@ -18133,6 +18135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DruMidia | 159954 | [159954-drumidia.json](./159954-drumidia.json) |
 | DrumKit | 76469 | [76469-drumkit.json](./76469-drumkit.json) |
 | DrumMania | 80397 | [80397-drummania.json](./80397-drummania.json) |
+| DrumMania 2ndMix | 418657 | [418657-drummania-2ndmix.json](./418657-drummania-2ndmix.json) |
 | DrumMania 3rdMix | 188662 | [188662-drummania-3rdmix.json](./188662-drummania-3rdmix.json) |
 | DrumMania V8 | 60432 | [60432-drummania-v8.json](./60432-drummania-v8.json) |
 | DrumMasterVR | 120035 | [120035-drummastervr.json](./120035-drummastervr.json) |
