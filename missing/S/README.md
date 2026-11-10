@@ -15861,6 +15861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshot | 406915 | [406915-snapshot.json](./406915-snapshot.json) |
 | SnapShot | 298808 | [298808-snapshot.json](./298808-snapshot.json) |
 | Snapshot Adventures | 53620 | [53620-snapshot-adventures.json](./53620-snapshot-adventures.json) |
+| Snapshot Adventures: Secret of Bird Island | 412563 | [412563-snapshot-adventures-secret-of-bird-island.json](./412563-snapshot-adventures-secret-of-bird-island.json) |
 | Snapshot Aquarium | 216889 | [216889-snapshot-aquarium.json](./216889-snapshot-aquarium.json) |
 | Snapshot Girls | 364970 | [364970-snapshot-girls.json](./364970-snapshot-girls.json) |
 | Snapshot Girls 3 | 370798 | [370798-snapshot-girls-3.json](./370798-snapshot-girls-3.json) |
@@ -17020,6 +17021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban | 305555 | [305555-sokoban.json](./305555-sokoban.json) |
 | Sokoban | 306039 | [306039-sokoban.json](./306039-sokoban.json) |
 | Sokoban | 328911 | [328911-sokoban.json](./328911-sokoban.json) |
+| Sokoban | 412557 | [412557-sokoban.json](./412557-sokoban.json) |
 | Sokoban | 47946 | [47946-sokoban.json](./47946-sokoban.json) |
 | Sokoban | 6136 | [6136-sokoban.json](./6136-sokoban.json) |
 | Sokoban (Boxman) Classic | 171619 | [171619-sokoban-boxman-classic.json](./171619-sokoban-boxman-classic.json) |
@@ -20773,6 +20775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders Part II | 246397 | [246397-space-invaders-part-ii.json](./246397-space-invaders-part-ii.json) |
 | Space Invaders Pocket | 64073 | [64073-space-invaders-pocket.json](./64073-space-invaders-pocket.json) |
 | Space Invaders Revolution | 22290 | [22290-space-invaders-revolution.json](./22290-space-invaders-revolution.json) |
+| Space Invaders x Pac-Man | 412454 | [412454-space-invaders-x-pac-man.json](./412454-space-invaders-x-pac-man.json) |
 | Space Invaders X.L. | 51183 | [51183-space-invaders-x-l.json](./51183-space-invaders-x-l.json) |
 | Space Invaders: Carabiner Edition | 225630 | [225630-space-invaders-carabiner-edition.json](./225630-space-invaders-carabiner-edition.json) |
 | Space Invaders: Deck Commander | 340195 | [340195-space-invaders-deck-commander.json](./340195-space-invaders-deck-commander.json) |
@@ -23199,6 +23202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spire of Glory | 227947 | [227947-spire-of-glory.json](./227947-spire-of-glory.json) |
 | Spire of Glory | 227985 | [227985-spire-of-glory.json](./227985-spire-of-glory.json) |
 | Spire of Lust & Fetish | 257953 | [257953-spire-of-lust-and-fetish.json](./257953-spire-of-lust-and-fetish.json) |
+| Spirefall | 412044 | [412044-spirefall.json](./412044-spirefall.json) |
 | Spires of Morosith: Gossamer Sundered | 345458 | [345458-spires-of-morosith-gossamer-sundered.json](./345458-spires-of-morosith-gossamer-sundered.json) |
 | Spires, The Wailing City | 324233 | [324233-spires-the-wailing-city.json](./324233-spires-the-wailing-city.json) |
 | Spiriat | 197118 | [197118-spiriat.json](./197118-spiriat.json) |
@@ -31534,6 +31538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
 | Summer Memories | 137664 | [137664-summer-memories.json](./137664-summer-memories.json) |
 | Summer Memories: Deluxe Edition | 186897 | [186897-summer-memories-deluxe-edition.json](./186897-summer-memories-deluxe-edition.json) |
+| Summer Memories+ | 412035 | [412035-summer-memories.json](./412035-summer-memories.json) |
 | Summer Memory of Bell | 104811 | [104811-summer-memory-of-bell.json](./104811-summer-memory-of-bell.json) |
 | Summer Mission | 169259 | [169259-summer-mission.json](./169259-summer-mission.json) |
 | Summer Night | 281864 | [281864-summer-night.json](./281864-summer-night.json) |
