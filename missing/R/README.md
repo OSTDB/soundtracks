@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race: Caterham | 24770 | [24770-race-caterham.json](./24770-race-caterham.json) |
 | Race: ExTerminator Pack | 412580 | [412580-race-exterminator-pack.json](./412580-race-exterminator-pack.json) |
 | Race: Rocket Arena Car Extreme | 226724 | [226724-race-rocket-arena-car-extreme.json](./226724-race-rocket-arena-car-extreme.json) |
+| Race: Rocket Arena Car Extreme - Razor Pack | 402604 | [402604-race-rocket-arena-car-extreme-razor-pack.json](./402604-race-rocket-arena-car-extreme-razor-pack.json) |
 | Race: The WTCC Game | 839 | [839-race-the-wtcc-game.json](./839-race-the-wtcc-game.json) |
 | Race: Total Toon Race | 153328 | [153328-race-total-toon-race.json](./153328-race-total-toon-race.json) |
 | Race! Beauty! Bugs! | 187174 | [187174-race-beauty-bugs.json](./187174-race-beauty-bugs.json) |
@@ -2216,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat on a Snowboard | 88516 | [88516-rat-on-a-snowboard.json](./88516-rat-on-a-snowboard.json) |
 | Rat on the Run | 78607 | [78607-rat-on-the-run.json](./78607-rat-on-the-run.json) |
 | Rat Prison | 169584 | [169584-rat-prison.json](./169584-rat-prison.json) |
+| Rat Protocol | 402614 | [402614-rat-protocol.json](./402614-rat-protocol.json) |
 | Rat Quest | 302814 | [302814-rat-quest.json](./302814-rat-quest.json) |
 | Rat Quest 2: The Quest for Moon Cheese | 426626 | [426626-rat-quest-2-the-quest-for-moon-cheese.json](./426626-rat-quest-2-the-quest-for-moon-cheese.json) |
 | Rat Quest: The Quest For Swiss | 411272 | [411272-rat-quest-the-quest-for-swiss.json](./411272-rat-quest-the-quest-for-swiss.json) |
@@ -13845,6 +13847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryo: The Haunted Office | 234538 | [234538-ryo-the-haunted-office.json](./234538-ryo-the-haunted-office.json) |
 | Ryojyoku Chokyou | 97791 | [97791-ryojyoku-chokyou.json](./97791-ryojyoku-chokyou.json) |
 | Ryojyoku Damashii: Ero Kenkyaku Den | 97367 | [97367-ryojyoku-damashii-ero-kenkyaku-den.json](./97367-ryojyoku-damashii-ero-kenkyaku-den.json) |
+| Ryou-ude ga Oreta no de H na Osewa wo Sareru Hanashi | 402631 | [402631-ryou-ude-ga-oreta-no-de-h-na-osewa-wo-sareru-hanashi.json](./402631-ryou-ude-ga-oreta-no-de-h-na-osewa-wo-sareru-hanashi.json) |
 | Ryoufuu no Melt: Days in the Sanctuary | 44566 | [44566-ryoufuu-no-melt-days-in-the-sanctuary.json](./44566-ryoufuu-no-melt-days-in-the-sanctuary.json) |
 | Ryouki Enbu | 66650 | [66650-ryouki-enbu.json](./66650-ryouki-enbu.json) |
 | Ryouko Inoue Chatting Room | 93206 | [93206-ryouko-inoue-chatting-room.json](./93206-ryouko-inoue-chatting-room.json) |
