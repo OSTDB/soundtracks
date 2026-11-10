@@ -1002,7 +1002,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12567,6 +12566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Help Them | 146949 | [146949-bob-help-them.json](./146949-bob-help-them.json) |
 | Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
 | Bob Mazzolini Racing | 151428 | [151428-bob-mazzolini-racing.json](./151428-bob-mazzolini-racing.json) |
+| Bob Mod | 89122 | [89122-bob-mod.json](./89122-bob-mod.json) |
 | Bob Morane: Chevalerie 1 | 55094 | [55094-bob-morane-chevalerie-1.json](./55094-bob-morane-chevalerie-1.json) |
 | Bob Morane: Jungle 1 | 55095 | [55095-bob-morane-jungle-1.json](./55095-bob-morane-jungle-1.json) |
 | Bob Morane: Science Fiction 1 | 55096 | [55096-bob-morane-science-fiction-1.json](./55096-bob-morane-science-fiction-1.json) |
@@ -17783,6 +17783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy10 | 339397 | [339397-buggy10.json](./339397-buggy10.json) |
 | Bughouse | 208363 | [208363-bughouse.json](./208363-bughouse.json) |
 | BugLab Simulator | 380120 | [380120-buglab-simulator.json](./380120-buglab-simulator.json) |
+| BugOut | 89075 | [89075-bugout.json](./89075-bugout.json) |
 | BugPot | 419991 | [419991-bugpot.json](./419991-bugpot.json) |
 | Bugs | 18802 | [18802-bugs.json](./18802-bugs.json) |
 | Bugs | 299090 | [299090-bugs.json](./299090-bugs.json) |
