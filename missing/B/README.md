@@ -8367,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Land | 366925 | [366925-binary-land.json](./366925-binary-land.json) |
 | Binary Monsters III: School Fighter | 247452 | [247452-binary-monsters-iii-school-fighter.json](./247452-binary-monsters-iii-school-fighter.json) |
 | Binary Pot | 247575 | [247575-binary-pot.json](./247575-binary-pot.json) |
+| Binary Proof | 423646 | [423646-binary-proof.json](./423646-binary-proof.json) |
 | Binary Quest | 178616 | [178616-binary-quest.json](./178616-binary-quest.json) |
 | Binary Run | 203906 | [203906-binary-run.json](./203906-binary-run.json) |
 | Binary Rush | 250388 | [250388-binary-rush.json](./250388-binary-rush.json) |
@@ -15615,6 +15616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravest Chicken | 275878 | [275878-bravest-chicken.json](./275878-bravest-chicken.json) |
 | Bravest Coconut | 310837 | [310837-bravest-coconut.json](./310837-bravest-coconut.json) |
 | Bravest! | 406494 | [406494-bravest.json](./406494-bravest.json) |
+| Bravest! Side Story: Kurimoto Quest | 423618 | [423618-bravest-side-story-kurimoto-quest.json](./423618-bravest-side-story-kurimoto-quest.json) |
 | BraveStarr | 13434 | [13434-bravestarr.json](./13434-bravestarr.json) |
 | BraveWorld: Helix Jumper | 103103 | [103103-braveworld-helix-jumper.json](./103103-braveworld-helix-jumper.json) |
 | BraveWorld: Sky Rolling Ball | 100777 | [100777-braveworld-sky-rolling-ball.json](./100777-braveworld-sky-rolling-ball.json) |
