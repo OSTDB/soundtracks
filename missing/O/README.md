@@ -355,6 +355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obstruction | 107692 | [107692-obstruction.json](./107692-obstruction.json) |
 | Obstruction VR | 112017 | [112017-obstruction-vr.json](./112017-obstruction-vr.json) |
 | Obsurity | 121322 | [121322-obsurity.json](./121322-obsurity.json) |
+| Obsydian | 427846 | [427846-obsydian.json](./427846-obsydian.json) |
 | Obulis | 14856 | [14856-obulis.json](./14856-obulis.json) |
 | Obunga | 213225 | [213225-obunga.json](./213225-obunga.json) |
 | Obusite | 178743 | [178743-obusite.json](./178743-obusite.json) |
