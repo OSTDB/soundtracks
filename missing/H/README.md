@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half Life But The | 321836 | [321836-half-life-but-the.json](./321836-half-life-but-the.json) |
 | Half Life is Strange | 400827 | [400827-half-life-is-strange.json](./400827-half-life-is-strange.json) |
 | Half Light | 374840 | [374840-half-light.json](./374840-half-light.json) |
+| Half Minute Hero: Super Mega Neo Climax Ultimate Boy | 16387 | [16387-half-minute-hero-super-mega-neo-climax-ultimate-boy.json](./16387-half-minute-hero-super-mega-neo-climax-ultimate-boy.json) |
 | Half Moon ni Kawaru made: Ramiya Ryo no Niji-iro Tamate-bako | 198534 | [198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json](./198534-half-moon-ni-kawaru-made-ramiya-ryo-no-niji-iro-tamate-bako.json) |
 | Half of Our | 297569 | [297569-half-of-our.json](./297569-half-of-our.json) |
 | Half Past Disaster | 68575 | [68575-half-past-disaster.json](./68575-half-past-disaster.json) |
@@ -7268,6 +7269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden in Clickville | 306941 | [306941-hidden-in-clickville.json](./306941-hidden-in-clickville.json) |
 | Hidden in my Paradise | 291242 | [291242-hidden-in-my-paradise.json](./291242-hidden-in-my-paradise.json) |
 | Hidden in my Paradise + Hidden around the World Bundle | 399810 | [399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json](./399810-hidden-in-my-paradise-hidden-around-the-world-bundle.json) |
+| Hidden in Plain Sight | 16328 | [16328-hidden-in-plain-sight.json](./16328-hidden-in-plain-sight.json) |
 | Hidden in the Dark | 210884 | [210884-hidden-in-the-dark.json](./210884-hidden-in-the-dark.json) |
 | Hidden in Time: Looking-glass Lane | 65187 | [65187-hidden-in-time-looking-glass-lane.json](./65187-hidden-in-time-looking-glass-lane.json) |
 | Hidden Industries: Top-Down 3D | 204828 | [204828-hidden-industries-top-down-3d.json](./204828-hidden-industries-top-down-3d.json) |
