@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ubersoldier | 296269 | [296269-ubersoldier.json](./296269-ubersoldier.json) |
 | UberSoldier | 92970 | [92970-ubersoldier.json](./92970-ubersoldier.json) |
 | Ubersoldier II | 17120 | [17120-ubersoldier-ii.json](./17120-ubersoldier-ii.json) |
+| UberStrike | 65440 | [65440-uberstrike.json](./65440-uberstrike.json) |
 | Ubi Soft: Happy New Year 2001 | 325568 | [325568-ubi-soft-happy-new-year-2001.json](./325568-ubi-soft-happy-new-year-2001.json) |
 | Ubik | 44852 | [44852-ubik.json](./44852-ubik.json) |
 | Ubinota | 17852 | [17852-ubinota.json](./17852-ubinota.json) |
@@ -532,6 +533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Dungeons & Dragons | 73282 | [73282-ultimate-dungeons-and-dragons.json](./73282-ultimate-dungeons-and-dragons.json) |
 | Ultimate Dunk Shooter | 360735 | [360735-ultimate-dunk-shooter.json](./360735-ultimate-dunk-shooter.json) |
 | Ultimate Dunker | 57203 | [57203-ultimate-dunker.json](./57203-ultimate-dunker.json) |
+| Ultimate Epic Battle Simulator 2 | 164250 | [164250-ultimate-epic-battle-simulator-2.json](./164250-ultimate-epic-battle-simulator-2.json) |
 | Ultimate Farm Simulator | 102478 | [102478-ultimate-farm-simulator.json](./102478-ultimate-farm-simulator.json) |
 | Ultimate Fatal Octopus | 289232 | [289232-ultimate-fatal-octopus.json](./289232-ultimate-fatal-octopus.json) |
 | Ultimate Fight Manager 2016 | 33207 | [33207-ultimate-fight-manager-2016.json](./33207-ultimate-fight-manager-2016.json) |
@@ -1543,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undarkened | 56619 | [56619-undarkened.json](./56619-undarkened.json) |
 | Undarkened: Revival | 172936 | [172936-undarkened-revival.json](./172936-undarkened-revival.json) |
 | Undaunted Normandy | 211992 | [211992-undaunted-normandy.json](./211992-undaunted-normandy.json) |
+| Undawn | 175001 | [175001-undawn.json](./175001-undawn.json) |
 | Undawn: Desert Fury | 262700 | [262700-undawn-desert-fury.json](./262700-undawn-desert-fury.json) |
 | Undawning: The New Moon | 371047 | [371047-undawning-the-new-moon.json](./371047-undawning-the-new-moon.json) |
 | Undead | 380741 | [380741-undead.json](./380741-undead.json) |
@@ -1624,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undeads vs. Humans | 192497 | [192497-undeads-vs-humans.json](./192497-undeads-vs-humans.json) |
 | Undeadworld | 223663 | [223663-undeadworld.json](./223663-undeadworld.json) |
 | Undeadz! | 35886 | [35886-undeadz.json](./35886-undeadz.json) |
+| Undecember | 175015 | [175015-undecember.json](./175015-undecember.json) |
 | Undeclaration of Human Rights | 370441 | [370441-undeclaration-of-human-rights.json](./370441-undeclaration-of-human-rights.json) |
 | Undefeated | 121220 | [121220-undefeated.json](./121220-undefeated.json) |
 | Undefeated | 36179 | [36179-undefeated.json](./36179-undefeated.json) |
