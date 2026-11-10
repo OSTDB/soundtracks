@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors: Legends of Troy | 7244 | [7244-warriors-legends-of-troy.json](./7244-warriors-legends-of-troy.json) |
 | Warriors: Rise to Glory! | 82148 | [82148-warriors-rise-to-glory.json](./82148-warriors-rise-to-glory.json) |
 | Warriors' Market Mayhem VIP | 102532 | [102532-warriors-market-mayhem-vip.json](./102532-warriors-market-mayhem-vip.json) |
+| Warriors' Wrath | 32743 | [32743-warriors-wrath.json](./32743-warriors-wrath.json) |
 | Warroid | 41784 | [41784-warroid.json](./41784-warroid.json) |
 | Wars Across the World | 35987 | [35987-wars-across-the-world.json](./35987-wars-across-the-world.json) |
 | Wars Across the World: Agathocles 312 | 193190 | [193190-wars-across-the-world-agathocles-312.json](./193190-wars-across-the-world-agathocles-312.json) |
@@ -4504,6 +4505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's my Futa Deck? | 367164 | [367164-wheres-my-futa-deck.json](./367164-wheres-my-futa-deck.json) |
 | Where’s My Futa Deck? Bonekeep | 393376 | [393376-where-s-my-futa-deck-bonekeep.json](./393376-where-s-my-futa-deck-bonekeep.json) |
 | Where's my geek? | 197230 | [197230-wheres-my-geek.json](./197230-wheres-my-geek.json) |
+| Where's My Helmet? | 32650 | [32650-wheres-my-helmet.json](./32650-wheres-my-helmet.json) |
 | Where's my Hentai Deck? | 370463 | [370463-wheres-my-hentai-deck.json](./370463-wheres-my-hentai-deck.json) |
 | Where's My Hentai Deck? Castle Hunt | 389621 | [389621-wheres-my-hentai-deck-castle-hunt.json](./389621-wheres-my-hentai-deck-castle-hunt.json) |
 | Where's My Horse? An Escape the Room Adventure | 187036 | [187036-wheres-my-horse-an-escape-the-room-adventure.json](./187036-wheres-my-horse-an-escape-the-room-adventure.json) |
@@ -6061,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winged Gear | 266653 | [266653-winged-gear.json](./266653-winged-gear.json) |
 | Winged Knights: Penetration | 57765 | [57765-winged-knights-penetration.json](./57765-winged-knights-penetration.json) |
 | Winged Raider | 216837 | [216837-winged-raider.json](./216837-winged-raider.json) |
+| Winged Sakura: Demon Civil War | 32648 | [32648-winged-sakura-demon-civil-war.json](./32648-winged-sakura-demon-civil-war.json) |
 | Winged Sakura: Endless Dream | 54803 | [54803-winged-sakura-endless-dream.json](./54803-winged-sakura-endless-dream.json) |
 | Winged Sakura: Mindy's Arc 2 | 111049 | [111049-winged-sakura-mindys-arc-2.json](./111049-winged-sakura-mindys-arc-2.json) |
 | Winged Warrior | 365219 | [365219-winged-warrior.json](./365219-winged-warrior.json) |
