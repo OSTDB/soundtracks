@@ -3790,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recoil: Retrograd | 52692 | [52692-recoil-retrograd.json](./52692-recoil-retrograd.json) |
 | Recoiled | 149498 | [149498-recoiled.json](./149498-recoiled.json) |
 | Recolit | 152179 | [152179-recolit.json](./152179-recolit.json) |
+| Recollage | 405197 | [405197-recollage.json](./405197-recollage.json) |
 | Recollect: Coloring Book | 106002 | [106002-recollect-coloring-book.json](./106002-recollect-coloring-book.json) |
 | Recollection | 203747 | [203747-recollection.json](./203747-recollection.json) |
 | Recollection | 343806 | [343806-recollection.json](./343806-recollection.json) |
@@ -13523,6 +13524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushdown Revolt: Nemesis Zhurong | 311768 | [311768-rushdown-revolt-nemesis-zhurong.json](./311768-rushdown-revolt-nemesis-zhurong.json) |
 | Rushdown Revolt: Neon Horizons Raymer | 311770 | [311770-rushdown-revolt-neon-horizons-raymer.json](./311770-rushdown-revolt-neon-horizons-raymer.json) |
 | Rushdown Rivals Reloaded | 271932 | [271932-rushdown-rivals-reloaded.json](./271932-rushdown-rivals-reloaded.json) |
+| RushGirl Luca | 405231 | [405231-rushgirl-luca.json](./405231-rushgirl-luca.json) |
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
 | Rushing Balls | 99216 | [99216-rushing-balls.json](./99216-rushing-balls.json) |
 | Rushing Beat | 406400 | [406400-rushing-beat.json](./406400-rushing-beat.json) |
