@@ -7398,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien: Isolation - The Trigger | 15554 | [15554-alien-isolation-the-trigger.json](./15554-alien-isolation-the-trigger.json) |
 | Alien: Isolation - Trauma | 15553 | [15553-alien-isolation-trauma.json](./15553-alien-isolation-trauma.json) |
 | Alien: Isolation 2 | 319082 | [319082-alien-isolation-2.json](./319082-alien-isolation-2.json) |
+| Alien: Rogue Incursion | 299582 | [299582-alien-rogue-incursion.json](./299582-alien-rogue-incursion.json) |
 | Alien: Rogue Incursion Evolved Edition | 342923 | [342923-alien-rogue-incursion-evolved-edition.json](./342923-alien-rogue-incursion-evolved-edition.json) |
 | Alien's Armageddon | 167524 | [167524-aliens-armageddon.json](./167524-aliens-armageddon.json) |
 | Alien's Egg | 237427 | [237427-aliens-egg.json](./237427-aliens-egg.json) |
@@ -8026,6 +8027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alone in the Dark | 300074 | [300074-alone-in-the-dark.json](./300074-alone-in-the-dark.json) |
 | Alone in the Dark 2 | 1957 | [1957-alone-in-the-dark-2.json](./1957-alone-in-the-dark-2.json) |
 | Alone in the Dark 2 | 340383 | [340383-alone-in-the-dark-2.json](./340383-alone-in-the-dark-2.json) |
+| Alone in the Dark Prologue: Grace in the Dark | 250932 | [250932-alone-in-the-dark-prologue-grace-in-the-dark.json](./250932-alone-in-the-dark-prologue-grace-in-the-dark.json) |
 | Alone in the Dark: Collector's Edition | 270574 | [270574-alone-in-the-dark-collectors-edition.json](./270574-alone-in-the-dark-collectors-edition.json) |
 | Alone in the Dark: Digital Deluxe Edition | 293759 | [293759-alone-in-the-dark-digital-deluxe-edition.json](./293759-alone-in-the-dark-digital-deluxe-edition.json) |
 | Alone in the Dark: Director's Commentary Mode | 297768 | [297768-alone-in-the-dark-directors-commentary-mode.json](./297768-alone-in-the-dark-directors-commentary-mode.json) |
@@ -16028,6 +16030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Mirage: Master Assassin Upgrade Bundle 1 | 360572 | [360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json](./360572-assassins-creed-mirage-master-assassin-upgrade-bundle-1.json) |
 | Assassin's Creed Mirage: The Forty Thieves | 314612 | [314612-assassins-creed-mirage-the-forty-thieves.json](./314612-assassins-creed-mirage-the-forty-thieves.json) |
 | Assassin's Creed Mythology Pack | 218994 | [218994-assassins-creed-mythology-pack.json](./218994-assassins-creed-mythology-pack.json) |
+| Assassin's Creed Nexus VR | 251568 | [251568-assassins-creed-nexus-vr.json](./251568-assassins-creed-nexus-vr.json) |
 | Assassin's Creed Odyssey: Legacy of the First Blade | 112732 | [112732-assassins-creed-odyssey-legacy-of-the-first-blade.json](./112732-assassins-creed-odyssey-legacy-of-the-first-blade.json) |
 | Assassin's Creed Odyssey: Limited Edition | 75547 | [75547-assassins-creed-odyssey-limited-edition.json](./75547-assassins-creed-odyssey-limited-edition.json) |
 | Assassin's Creed Odyssey: Omega Edition | 229492 | [229492-assassins-creed-odyssey-omega-edition.json](./229492-assassins-creed-odyssey-omega-edition.json) |
