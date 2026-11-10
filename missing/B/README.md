@@ -548,6 +548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backlash | 11931 | [11931-backlash.json](./11931-backlash.json) |
 | Backlash: A Turret Gunner Simulation | 338818 | [338818-backlash-a-turret-gunner-simulation.json](./338818-backlash-a-turret-gunner-simulation.json) |
 | Backlot: Hollywood Studio Tycoon | 416649 | [416649-backlot-hollywood-studio-tycoon.json](./416649-backlot-hollywood-studio-tycoon.json) |
+| Backmarkers: A Racing Management Sim | 420030 | [420030-backmarkers-a-racing-management-sim.json](./420030-backmarkers-a-racing-management-sim.json) |
 | Backpack | 297779 | [297779-backpack.json](./297779-backpack.json) |
 | Backpack Alchemist | 397995 | [397995-backpack-alchemist.json](./397995-backpack-alchemist.json) |
 | Backpack Battles | 253659 | [253659-backpack-battles.json](./253659-backpack-battles.json) |
@@ -15393,6 +15394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bramble Sling | 421453 | [421453-bramble-sling.json](./421453-bramble-sling.json) |
 | BrambleLash | 55306 | [55306-bramblelash.json](./55306-bramblelash.json) |
 | Brambles in the Mist | 168338 | [168338-brambles-in-the-mist.json](./168338-brambles-in-the-mist.json) |
+| Bramblewick: Guild Management Simulator | 420035 | [420035-bramblewick-guild-management-simulator.json](./420035-bramblewick-guild-management-simulator.json) |
 | Bramblewood | 196968 | [196968-bramblewood.json](./196968-bramblewood.json) |
 | Braminar | 80614 | [80614-braminar.json](./80614-braminar.json) |
 | Branch Collector | 347453 | [347453-branch-collector.json](./347453-branch-collector.json) |
