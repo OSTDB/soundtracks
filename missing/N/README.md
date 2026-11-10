@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naious | 213623 | [213623-naious.json](./213623-naious.json) |
 | Nair | 151951 | [151951-nair.json](./151951-nair.json) |
 | Nair Pico | 364265 | [364265-nair-pico.json](./364265-nair-pico.json) |
+| Nairi: Rising Tide | 161468 | [161468-nairi-rising-tide.json](./161468-nairi-rising-tide.json) |
 | Nairi: Tower of Shirin | 57192 | [57192-nairi-tower-of-shirin.json](./57192-nairi-tower-of-shirin.json) |
 | Nairo High School: Seishun Hakusho | 52609 | [52609-nairo-high-school-seishun-hakusho.json](./52609-nairo-high-school-seishun-hakusho.json) |
 | Nairo High School: Seishun Hakusho | 52611 | [52611-nairo-high-school-seishun-hakusho.json](./52611-nairo-high-school-seishun-hakusho.json) |
@@ -1762,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromunda: Underhive Wars - Van Saar Gang | 162857 | [162857-necromunda-underhive-wars-van-saar-gang.json](./162857-necromunda-underhive-wars-van-saar-gang.json) |
 | Necronator | 304048 | [304048-necronator.json](./304048-necronator.json) |
 | Necronator 2 | 304049 | [304049-necronator-2.json](./304049-necronator-2.json) |
+| Necronator: Dead Wrong | 122064 | [122064-necronator-dead-wrong.json](./122064-necronator-dead-wrong.json) |
 | NecroNegate | 337162 | [337162-necronegate.json](./337162-necronegate.json) |
 | NecroNightmare | 191581 | [191581-necronightmare.json](./191581-necronightmare.json) |
 | Necronom | 12698 | [12698-necronom.json](./12698-necronom.json) |
@@ -2614,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Nights 2 | 211676 | [211676-neon-nights-2.json](./211676-neon-nights-2.json) |
 | Neon Nights Pinball | 165765 | [165765-neon-nights-pinball.json](./165765-neon-nights-pinball.json) |
 | Neon Nirvana | 270118 | [270118-neon-nirvana.json](./270118-neon-nirvana.json) |
+| Neon Noodles: Cyberpunk Kitchen Automation | 121808 | [121808-neon-noodles-cyberpunk-kitchen-automation.json](./121808-neon-noodles-cyberpunk-kitchen-automation.json) |
 | Neon Nova | 286952 | [286952-neon-nova.json](./286952-neon-nova.json) |
 | Neon Odyssey | 279409 | [279409-neon-odyssey.json](./279409-neon-odyssey.json) |
 | Neon On! | 290433 | [290433-neon-on.json](./290433-neon-on.json) |
@@ -8098,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NY Warriors | 69663 | [69663-ny-warriors.json](./69663-ny-warriors.json) |
 | Nya Nya Nya Girls | 111538 | [111538-nya-nya-nya-girls.json](./111538-nya-nya-nya-girls.json) |
 | Nyaaaanvy | 197111 | [197111-nyaaaanvy.json](./197111-nyaaaanvy.json) |
+| Nyaf | 159484 | [159484-nyaf.json](./159484-nyaf.json) |
 | Nyakamon | 292902 | [292902-nyakamon.json](./292902-nyakamon.json) |
 | Nyakamon Adventures | 152159 | [152159-nyakamon-adventures.json](./152159-nyakamon-adventures.json) |
 | Nyakamon Runes | 294816 | [294816-nyakamon-runes.json](./294816-nyakamon-runes.json) |
