@@ -6204,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Definitely Real Football | 177014 | [177014-definitely-real-football.json](./177014-definitely-real-football.json) |
 | Definitely Sneaky But Not Sneaky | 113182 | [113182-definitely-sneaky-but-not-sneaky.json](./113182-definitely-sneaky-but-not-sneaky.json) |
 | Definya | 273508 | [273508-definya.json](./273508-definya.json) |
+| Deflate | 401335 | [401335-deflate.json](./401335-deflate.json) |
 | Deflect | 412674 | [412674-deflect.json](./412674-deflect.json) |
 | Deflect Boy | 290942 | [290942-deflect-boy.json](./290942-deflect-boy.json) |
 | Deflection Dimension | 102353 | [102353-deflection-dimension.json](./102353-deflection-dimension.json) |
@@ -7854,6 +7855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desmond's Castle | 328317 | [328317-desmonds-castle.json](./328317-desmonds-castle.json) |
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
 | Desohunter | 156524 | [156524-desohunter.json](./156524-desohunter.json) |
+| Desol | 401333 | [401333-desol.json](./401333-desol.json) |
 | Desolate City: Last Show | 277440 | [277440-desolate-city-last-show.json](./277440-desolate-city-last-show.json) |
 | Desolate City: The Bloody Dawn | 140134 | [140134-desolate-city-the-bloody-dawn.json](./140134-desolate-city-the-bloody-dawn.json) |
 | Desolate City: The Bloody Dawn - Enhanced Edition | 113731 | [113731-desolate-city-the-bloody-dawn-enhanced-edition.json](./113731-desolate-city-the-bloody-dawn-enhanced-edition.json) |
@@ -13907,6 +13909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOOM Abort | 202841 | [202841-doom-abort.json](./202841-doom-abort.json) |
 | Doom Absolution | 225487 | [225487-doom-absolution.json](./225487-doom-absolution.json) |
 | Doom Anthology | 332005 | [332005-doom-anthology.json](./332005-doom-anthology.json) |
+| Doom Brutalist Community Project | 401338 | [401338-doom-brutalist-community-project.json](./401338-doom-brutalist-community-project.json) |
 | Doom Castle | 268867 | [268867-doom-castle.json](./268867-doom-castle.json) |
 | Doom CE | 195432 | [195432-doom-ce.json](./195432-doom-ce.json) |
 | Doom ChessMaster | 398500 | [398500-doom-chessmaster.json](./398500-doom-chessmaster.json) |
