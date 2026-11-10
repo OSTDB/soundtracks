@@ -10397,6 +10397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Your Pets | 236477 | [236477-grow-your-pets.json](./236477-grow-your-pets.json) |
 | Grow Your Team | 240610 | [240610-grow-your-team.json](./240610-grow-your-team.json) |
 | Grow: Song of the Evertree | 151673 | [151673-grow-song-of-the-evertree.json](./151673-grow-song-of-the-evertree.json) |
+| Grow: Wild West | 101266 | [101266-grow-wild-west.json](./101266-grow-wild-west.json) |
 | Growbot | 43091 | [43091-growbot.json](./43091-growbot.json) |
 | Growbotics | 59706 | [59706-growbotics.json](./59706-growbotics.json) |
 | Growbots: Battle Academy | 161386 | [161386-growbots-battle-academy.json](./161386-growbots-battle-academy.json) |
