@@ -3022,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Carrom | 167030 | [167030-real-carrom.json](./167030-real-carrom.json) |
 | Real City Car Driving Sim 2017 | 88878 | [88878-real-city-car-driving-sim-2017.json](./88878-real-city-car-driving-sim-2017.json) |
 | Real Communism | 273963 | [273963-real-communism.json](./273963-real-communism.json) |
+| Real Craft: City Builder | 101382 | [101382-real-craft-city-builder.json](./101382-real-craft-city-builder.json) |
 | Real Cricket '14 | 61198 | [61198-real-cricket-14.json](./61198-real-cricket-14.json) |
 | Real Cricket 20 | 202113 | [202113-real-cricket-20.json](./202113-real-cricket-20.json) |
 | Real Cricket 22 | 202192 | [202192-real-cricket-22.json](./202192-real-cricket-22.json) |
@@ -6721,6 +6722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge Crystal | 278401 | [278401-revenge-crystal.json](./278401-revenge-crystal.json) |
 | Revenge II | 281240 | [281240-revenge-ii.json](./281240-revenge-ii.json) |
 | Revenge Master | 200427 | [200427-revenge-master.json](./200427-revenge-master.json) |
+| Revenge of Anubis: Pyramid Adventure | 101436 | [101436-revenge-of-anubis-pyramid-adventure.json](./101436-revenge-of-anubis-pyramid-adventure.json) |
 | Revenge of Banana | 271928 | [271928-revenge-of-banana.json](./271928-revenge-of-banana.json) |
 | Revenge of Chickens | 261589 | [261589-revenge-of-chickens.json](./261589-revenge-of-chickens.json) |
 | Revenge of Defender | 56591 | [56591-revenge-of-defender.json](./56591-revenge-of-defender.json) |
