@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1886,6 +1887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Out of Control | 154994 | [154994-balls-out-of-control.json](./154994-balls-out-of-control.json) |
 | Balls Rolling-Plumber, Slither, Line, Fill & Fun! | 108486 | [108486-balls-rolling-plumber-slither-line-fill-and-fun.json](./108486-balls-rolling-plumber-slither-line-fill-and-fun.json) |
 | Balls Royale | 132365 | [132365-balls-royale.json](./132365-balls-royale.json) |
+| Balls to the Walls | 421174 | [421174-balls-to-the-walls.json](./421174-balls-to-the-walls.json) |
 | Balls vs. Maze | 240104 | [240104-balls-vs-maze.json](./240104-balls-vs-maze.json) |
 | Balls vs. Pixels : Break-it! | 100704 | [100704-balls-vs-pixels-break-it.json](./100704-balls-vs-pixels-break-it.json) |
 | Balls! | 99982 | [99982-balls.json](./99982-balls.json) |
@@ -7684,6 +7686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bid Whist: Card Game | 220817 | [220817-bid-whist-card-game.json](./220817-bid-whist-card-game.json) |
 | Bidding Contest | 99312 | [99312-bidding-contest.json](./99312-bidding-contest.json) |
 | Biden My Time: A Joe Biden Garfield-Reading Simulator | 176737 | [176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json](./176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json) |
+| Biedronka | 421247 | [421247-biedronka.json](./421247-biedronka.json) |
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
 | Bienvenue au club Tom-Tom et Nana | 379190 | [379190-bienvenue-au-club-tom-tom-et-nana.json](./379190-bienvenue-au-club-tom-tom-et-nana.json) |
 | Bienvenue chez les Ch'tis | 176055 | [176055-bienvenue-chez-les-chtis.json](./176055-bienvenue-chez-les-chtis.json) |
@@ -15919,6 +15922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break-a-Bot | 350871 | [350871-break-a-bot.json](./350871-break-a-bot.json) |
 | Break-It | 339689 | [339689-break-it.json](./339689-break-it.json) |
 | Break, Enter, Repeat | 280552 | [280552-break-enter-repeat.json](./280552-break-enter-repeat.json) |
+| Break, Then Upgrade | 421168 | [421168-break-then-upgrade.json](./421168-break-then-upgrade.json) |
 | Break.Up | 326288 | [326288-break-up.json](./326288-break-up.json) |
 | Breakable 1.0 | 106712 | [106712-breakable-1-0.json](./106712-breakable-1-0.json) |
 | Breakage | 165521 | [165521-breakage.json](./165521-breakage.json) |
@@ -16849,6 +16853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrokenLore: Don't Play | 399376 | [399376-brokenlore-dont-play.json](./399376-brokenlore-dont-play.json) |
 | BrokenLore: Follow | 294343 | [294343-brokenlore-follow.json](./294343-brokenlore-follow.json) |
 | BrokenLore: Low | 304308 | [304308-brokenlore-low.json](./304308-brokenlore-low.json) |
+| BrokenLore: Miki-chan | 421167 | [421167-brokenlore-miki-chan.json](./421167-brokenlore-miki-chan.json) |
 | Brokensides | 419749 | [419749-brokensides.json](./419749-brokensides.json) |
 | Brolections 2022 | 193078 | [193078-brolections-2022.json](./193078-brolections-2022.json) |
 | Broll | 140843 | [140843-broll.json](./140843-broll.json) |
