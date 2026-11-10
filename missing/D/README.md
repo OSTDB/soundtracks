@@ -2968,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of H'btakh: Get Lost and Die | 58487 | [58487-dawn-of-hbtakh-get-lost-and-die.json](./58487-dawn-of-hbtakh-get-lost-and-die.json) |
 | Dawn of Hell | 236604 | [236604-dawn-of-hell.json](./236604-dawn-of-hell.json) |
 | Dawn of Heroes | 19721 | [19721-dawn-of-heroes.json](./19721-dawn-of-heroes.json) |
+| Dawn of Heroes | 396838 | [396838-dawn-of-heroes.json](./396838-dawn-of-heroes.json) |
 | Dawn of Hope: Thunder Daughter | 103870 | [103870-dawn-of-hope-thunder-daughter.json](./103870-dawn-of-hope-thunder-daughter.json) |
 | Dawn of Horror | 405800 | [405800-dawn-of-horror.json](./405800-dawn-of-horror.json) |
 | Dawn of Insolence | 271110 | [271110-dawn-of-insolence.json](./271110-dawn-of-insolence.json) |
@@ -11583,6 +11584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distressed | 320932 | [320932-distressed.json](./320932-distressed.json) |
 | Distribution Center | 262306 | [262306-distribution-center.json](./262306-distribution-center.json) |
 | Distributor Simulator | 237285 | [237285-distributor-simulator.json](./237285-distributor-simulator.json) |
+| Distributrains | 396840 | [396840-distributrains.json](./396840-distributrains.json) |
 | District 112 Incident: Bowling Alley | 99056 | [99056-district-112-incident-bowling-alley.json](./99056-district-112-incident-bowling-alley.json) |
 | District 187 | 23541 | [23541-district-187.json](./23541-district-187.json) |
 | District 187: Sin Streets | 64236 | [64236-district-187-sin-streets.json](./64236-district-187-sin-streets.json) |
@@ -17476,6 +17478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift 'n' Burn 365 | 280965 | [280965-drift-n-burn-365.json](./280965-drift-n-burn-365.json) |
 | Drift 'N' Thrift | 311663 | [311663-drift-n-thrift.json](./311663-drift-n-thrift.json) |
 | Drift & Drive | 231578 | [231578-drift-and-drive.json](./231578-drift-and-drive.json) |
+| Drift & Stunt Mania | 396877 | [396877-drift-and-stunt-mania.json](./396877-drift-and-stunt-mania.json) |
 | Drift 19 | 47161 | [47161-drift-19.json](./47161-drift-19.json) |
 | Drift 1969 | 384558 | [384558-drift-1969.json](./384558-drift-1969.json) |
 | Drift 4000 | 100352 | [100352-drift-4000.json](./100352-drift-4000.json) |
@@ -19546,6 +19549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Tale | 260006 | [260006-dungeon-tale.json](./260006-dungeon-tale.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
 | Dungeon Team | 201422 | [201422-dungeon-team.json](./201422-dungeon-team.json) |
+| Dungeon Tells | 396861 | [396861-dungeon-tells.json](./396861-dungeon-tells.json) |
 | Dungeon Throne | 135723 | [135723-dungeon-throne.json](./135723-dungeon-throne.json) |
 | Dungeon Thrones: Rise of Slimes | 336576 | [336576-dungeon-thrones-rise-of-slimes.json](./336576-dungeon-thrones-rise-of-slimes.json) |
 | Dungeon Tiles | 58235 | [58235-dungeon-tiles.json](./58235-dungeon-tiles.json) |
