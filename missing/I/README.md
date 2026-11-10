@@ -6507,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai'd | 265438 | [265438-isekaid.json](./265438-isekaid.json) |
 | Isekaing: From Zero to Zero | 323548 | [323548-isekaing-from-zero-to-zero.json](./323548-isekaing-from-zero-to-zero.json) |
 | Isekat: Crushed by a Computer, My Beloved Kitten is Transported to a Fantasy World where its Typing Skills Save the Kingdom! | 346161 | [346161-isekat-crushed-by-a-computer-my-beloved-kitten-is-transported-to-a-fantasy-world-where-its-typing-skills-save-the-kingdom.json](./346161-isekat-crushed-by-a-computer-my-beloved-kitten-is-transported-to-a-fantasy-world-where-its-typing-skills-save-the-kingdom.json) |
+| Isekijima to Nanatsu no Mahou | 398680 | [398680-isekijima-to-nanatsu-no-mahou.json](./398680-isekijima-to-nanatsu-no-mahou.json) |
 | isekizima: Ruins and Tails Journey | 285950 | [285950-isekizima-ruins-and-tails-journey.json](./285950-isekizima-ruins-and-tails-journey.json) |
 | Iselin Saga | 154923 | [154923-iselin-saga.json](./154923-iselin-saga.json) |
 | Isemono | 410422 | [410422-isemono.json](./410422-isemono.json) |
