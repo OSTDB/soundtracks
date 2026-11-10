@@ -3514,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adva-lines | 103791 | [103791-adva-lines.json](./103791-adva-lines.json) |
 | Advan Racing | 69754 | [69754-advan-racing.json](./69754-advan-racing.json) |
 | Advance | 185443 | [185443-advance.json](./185443-advance.json) |
+| Advance Guardian Heroes | 6300 | [6300-advance-guardian-heroes.json](./6300-advance-guardian-heroes.json) |
 | Advance of the Reich | 59317 | [59317-advance-of-the-reich.json](./59317-advance-of-the-reich.json) |
 | Advance to Boardwalk | 69895 | [69895-advance-to-boardwalk.json](./69895-advance-to-boardwalk.json) |
 | Advance Wars | 1691 | [1691-advance-wars.json](./1691-advance-wars.json) |
@@ -4126,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerannis | 20028 | [20028-aerannis.json](./20028-aerannis.json) |
 | Aerea | 27794 | [27794-aerea.json](./27794-aerea.json) |
 | AereA: Deluxe Edition | 52576 | [52576-aerea-deluxe-edition.json](./52576-aerea-deluxe-edition.json) |
+| Aerena: Clash of Champions | 5441 | [5441-aerena-clash-of-champions.json](./5441-aerena-clash-of-champions.json) |
 | Aerial Aces | 351162 | [351162-aerial-aces.json](./351162-aerial-aces.json) |
 | Aerial Antics | 73503 | [73503-aerial-antics.json](./73503-aerial-antics.json) |
 | Aerial Assault | 18233 | [18233-aerial-assault.json](./18233-aerial-assault.json) |
@@ -13531,6 +13533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana Heart 2 | 15865 | [15865-arcana-heart-2.json](./15865-arcana-heart-2.json) |
 | Arcana Heart 3 | 5490 | [5490-arcana-heart-3.json](./5490-arcana-heart-3.json) |
 | Arcana Heart 3 Lovemax Sixstars!!!!!! Xtend | 146590 | [146590-arcana-heart-3-lovemax-sixstars-xtend.json](./146590-arcana-heart-3-lovemax-sixstars-xtend.json) |
+| Arcana Heart 3: Love Max!!!!! | 24608 | [24608-arcana-heart-3-love-max.json](./24608-arcana-heart-3-love-max.json) |
 | Arcana Heart Full! | 234824 | [234824-arcana-heart-full.json](./234824-arcana-heart-full.json) |
 | Arcana Noir | 261833 | [261833-arcana-noir.json](./261833-arcana-noir.json) |
 | Arcana of Paradise: The Tower | 194945 | [194945-arcana-of-paradise-the-tower.json](./194945-arcana-of-paradise-the-tower.json) |
@@ -14770,6 +14773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core: Project Phantasma | 19428 | [19428-armored-core-project-phantasma.json](./19428-armored-core-project-phantasma.json) |
 | Armored Core: Project Phantasma | 331209 | [331209-armored-core-project-phantasma.json](./331209-armored-core-project-phantasma.json) |
 | Armored Core: Silent Line Portable | 21757 | [21757-armored-core-silent-line-portable.json](./21757-armored-core-silent-line-portable.json) |
+| Armored Core: Verdict Day | 5494 | [5494-armored-core-verdict-day.json](./5494-armored-core-verdict-day.json) |
 | Armored Evolution | 81638 | [81638-armored-evolution.json](./81638-armored-evolution.json) |
 | Armored Fighter | 111573 | [111573-armored-fighter.json](./111573-armored-fighter.json) |
 | Armored Firestorm | 194995 | [194995-armored-firestorm.json](./194995-armored-firestorm.json) |
@@ -16020,6 +16024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed IV Black Flag: Illustrious Pirates Pack | 26093 | [26093-assassins-creed-iv-black-flag-illustrious-pirates-pack.json](./26093-assassins-creed-iv-black-flag-illustrious-pirates-pack.json) |
 | Assassin's Creed IV Black Flag: Kraken Ship Pack | 26086 | [26086-assassins-creed-iv-black-flag-kraken-ship-pack.json](./26086-assassins-creed-iv-black-flag-kraken-ship-pack.json) |
 | Assassin's Creed IV Black Flag: Time Saver - Activities Pack | 26088 | [26088-assassins-creed-iv-black-flag-time-saver-activities-pack.json](./26088-assassins-creed-iv-black-flag-time-saver-activities-pack.json) |
+| Assassin's Creed IV Black Flag: Time Saver - Collectibles Pack | 26089 | [26089-assassins-creed-iv-black-flag-time-saver-collectibles-pack.json](./26089-assassins-creed-iv-black-flag-time-saver-collectibles-pack.json) |
 | Assassin's Creed IV Black Flag: Time Saver - Resources Pack | 26084 | [26084-assassins-creed-iv-black-flag-time-saver-resources-pack.json](./26084-assassins-creed-iv-black-flag-time-saver-resources-pack.json) |
 | Assassin's Creed IV Black Flag: Time Saver - Technology Pack | 26090 | [26090-assassins-creed-iv-black-flag-time-saver-technology-pack.json](./26090-assassins-creed-iv-black-flag-time-saver-technology-pack.json) |
 | Assassin's Creed IV: Black Flag - Buccaneer Edition | 89872 | [89872-assassins-creed-iv-black-flag-buccaneer-edition.json](./89872-assassins-creed-iv-black-flag-buccaneer-edition.json) |
@@ -17217,6 +17222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Flashback Blast! Vol. 2 | 277070 | [277070-atari-flashback-blast-vol-2.json](./277070-atari-flashback-blast-vol-2.json) |
 | Atari Flashback Blast! Vol. 3 | 277071 | [277071-atari-flashback-blast-vol-3.json](./277071-atari-flashback-blast-vol-3.json) |
 | Atari Flashback Classics | 113382 | [113382-atari-flashback-classics.json](./113382-atari-flashback-classics.json) |
+| Atari Flashback Classics Vol. 1 | 24891 | [24891-atari-flashback-classics-vol-1.json](./24891-atari-flashback-classics-vol-1.json) |
 | Atari Flashback Classics Vol. 2 | 24962 | [24962-atari-flashback-classics-vol-2.json](./24962-atari-flashback-classics-vol-2.json) |
 | Atari Flashback Classics Vol. 3 | 83671 | [83671-atari-flashback-classics-vol-3.json](./83671-atari-flashback-classics-vol-3.json) |
 | Atari Flashback Portable | 219380 | [219380-atari-flashback-portable.json](./219380-atari-flashback-portable.json) |
@@ -18298,6 +18304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto-Upturn | 48692 | [48692-auto-upturn.json](./48692-auto-upturn.json) |
 | Autobahn | 92868 | [92868-autobahn.json](./92868-autobahn.json) |
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
+| Autobahn Police Simulator | 25443 | [25443-autobahn-police-simulator.json](./25443-autobahn-police-simulator.json) |
 | Autobahn Police Simulator 2 | 76616 | [76616-autobahn-police-simulator-2.json](./76616-autobahn-police-simulator-2.json) |
 | Autobahn Police Simulator 2: Switch Edition | 178766 | [178766-autobahn-police-simulator-2-switch-edition.json](./178766-autobahn-police-simulator-2-switch-edition.json) |
 | Autobahn Police Simulator 3 | 153975 | [153975-autobahn-police-simulator-3.json](./153975-autobahn-police-simulator-3.json) |
