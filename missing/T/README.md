@@ -2498,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tape Art | 384207 | [384207-tape-art.json](./384207-tape-art.json) |
 | Tape Denial | 339415 | [339415-tape-denial.json](./339415-tape-denial.json) |
 | Tape it Up! | 103216 | [103216-tape-it-up.json](./103216-tape-it-up.json) |
+| Tape Man | 407020 | [407020-tape-man.json](./407020-tape-man.json) |
 | Tape of the Ghouls | 323569 | [323569-tape-of-the-ghouls.json](./323569-tape-of-the-ghouls.json) |
 | Tape of the Ghouls 2 | 323570 | [323570-tape-of-the-ghouls-2.json](./323570-tape-of-the-ghouls-2.json) |
 | Tape Over: Night Shift | 391017 | [391017-tape-over-night-shift.json](./391017-tape-over-night-shift.json) |
@@ -19292,6 +19293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unknown Halls | 192224 | [192224-the-unknown-halls.json](./192224-the-unknown-halls.json) |
 | The Unknown Planet | 270684 | [270684-the-unknown-planet.json](./270684-the-unknown-planet.json) |
 | The Unknown Strain | 292444 | [292444-the-unknown-strain.json](./292444-the-unknown-strain.json) |
+| The Unleaving | 407004 | [407004-the-unleaving.json](./407004-the-unleaving.json) |
 | The Unlife of Gorlak | 271391 | [271391-the-unlife-of-gorlak.json](./271391-the-unlife-of-gorlak.json) |
 | The Unlikely Prometheus | 190275 | [190275-the-unlikely-prometheus.json](./190275-the-unlikely-prometheus.json) |
 | The Unlit Sun | 336737 | [336737-the-unlit-sun.json](./336737-the-unlit-sun.json) |
@@ -22058,6 +22060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Mart | 411999 | [411999-tidy-mart.json](./411999-tidy-mart.json) |
 | Tidy Shadows | 412004 | [412004-tidy-shadows.json](./412004-tidy-shadows.json) |
 | Tidy Slot Cars | 427242 | [427242-tidy-slot-cars.json](./427242-tidy-slot-cars.json) |
+| Tidy Tidy | 407034 | [407034-tidy-tidy.json](./407034-tidy-tidy.json) |
 | Tidy to the Max! | 416345 | [416345-tidy-to-the-max.json](./416345-tidy-to-the-max.json) |
 | Tidy Toys | 364033 | [364033-tidy-toys.json](./364033-tidy-toys.json) |
 | Tidy Up | 406153 | [406153-tidy-up.json](./406153-tidy-up.json) |
