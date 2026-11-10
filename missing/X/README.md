@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xak: The Art of Visual Stage | 41769 | [41769-xak-the-art-of-visual-stage.json](./41769-xak-the-art-of-visual-stage.json) |
 | Xala'noth: Part 1 | 271576 | [271576-xalanoth-part-1.json](./271576-xalanoth-part-1.json) |
 | Xalabaias Adventure | 249549 | [249549-xalabaias-adventure.json](./249549-xalabaias-adventure.json) |
+| Xaldia | 424852 | [424852-xaldia.json](./424852-xaldia.json) |
 | Xalx no Monshou 98 | 92120 | [92120-xalx-no-monshou-98.json](./92120-xalx-no-monshou-98.json) |
 | Xam | 107154 | [107154-xam.json](./107154-xam.json) |
 | Xam Delivery | 414095 | [414095-xam-delivery.json](./414095-xam-delivery.json) |
