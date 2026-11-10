@@ -111,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.E.E.L. | 133367 | [133367-r-e-e-l.json](./133367-r-e-e-l.json) |
 | R.E.G.O | 411917 | [411917-r-e-g-o.json](./411917-r-e-g-o.json) |
 | R.E.M. scape | 178432 | [178432-r-e-m-scape.json](./178432-r-e-m-scape.json) |
+| R.G.B | 403898 | [403898-r-g-b.json](./403898-r-g-b.json) |
 | R.H. | 237198 | [237198-r-h.json](./237198-r-h.json) |
 | R.I.C.A | 115013 | [115013-r-i-c-a.json](./115013-r-i-c-a.json) |
 | R.I.P | 240076 | [240076-r-i-p.json](./240076-r-i-p.json) |
@@ -8516,6 +8517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk One's Neck | 109454 | [109454-risk-ones-neck.json](./109454-risk-ones-neck.json) |
 | Risk Ranch | 259695 | [259695-risk-ranch.json](./259695-risk-ranch.json) |
 | Risk System | 117781 | [117781-risk-system.json](./117781-risk-system.json) |
+| Risk the Crown | 403868 | [403868-risk-the-crown.json](./403868-risk-the-crown.json) |
 | Risk the Dark | 343149 | [343149-risk-the-dark.json](./343149-risk-the-dark.json) |
 | Risk your life to get your dinner back Nyanzou action game | 231070 | [231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json](./231070-risk-your-life-to-get-your-dinner-back-nyanzou-action-game.json) |
 | Risk: Factions | 3693 | [3693-risk-factions.json](./3693-risk-factions.json) |
@@ -9234,6 +9236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robits | 183968 | [183968-robits.json](./183968-robits.json) |
 | Roblox 64 | 245382 | [245382-roblox-64.json](./245382-roblox-64.json) |
+| Roblox: Captain Bristlejaw | 403872 | [403872-roblox-captain-bristlejaw.json](./403872-roblox-captain-bristlejaw.json) |
 | Roblox: Mae Plunderjack | 409070 | [409070-roblox-mae-plunderjack.json](./409070-roblox-mae-plunderjack.json) |
 | RobloxTale: Noob Fight | 262220 | [262220-robloxtale-noob-fight.json](./262220-robloxtale-noob-fight.json) |
 | Robman | 178614 | [178614-robman.json](./178614-robman.json) |
@@ -11935,6 +11938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rough Sketch | 83373 | [83373-rough-sketch.json](./83373-rough-sketch.json) |
 | Rough Waters Decentralised Tarots | 176810 | [176810-rough-waters-decentralised-tarots.json](./176810-rough-waters-decentralised-tarots.json) |
 | Rough Waves | 309619 | [309619-rough-waves.json](./309619-rough-waves.json) |
+| Roughhousing | 403907 | [403907-roughhousing.json](./403907-roughhousing.json) |
 | Roughly Crafted | 376432 | [376432-roughly-crafted.json](./376432-roughly-crafted.json) |
 | Rougien | 292097 | [292097-rougien.json](./292097-rougien.json) |
 | Rougle | 231558 | [231558-rougle.json](./231558-rougle.json) |
