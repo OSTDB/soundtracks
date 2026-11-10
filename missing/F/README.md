@@ -4772,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Sparring VR | 41951 | [41951-fight-sparring-vr.json](./41951-fight-sparring-vr.json) |
 | Fight Tennis | 321769 | [321769-fight-tennis.json](./321769-fight-tennis.json) |
 | Fight the Dracula! | 229357 | [229357-fight-the-dracula.json](./229357-fight-the-dracula.json) |
+| Fight the Dragon | 16659 | [16659-fight-the-dragon.json](./16659-fight-the-dragon.json) |
 | Fight the Horror | 107722 | [107722-fight-the-horror.json](./107722-fight-the-horror.json) |
 | Fight the Landlord | 165017 | [165017-fight-the-landlord.json](./165017-fight-the-landlord.json) |
 | Fight the Skeleton Mage from the Crypt!! | 320870 | [320870-fight-the-skeleton-mage-from-the-crypt.json](./320870-fight-the-skeleton-mage-from-the-crypt.json) |
