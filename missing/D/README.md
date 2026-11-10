@@ -4436,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Night | 207405 | [207405-deadly-night.json](./207405-deadly-night.json) |
 | Deadly Nightmare | 190084 | [190084-deadly-nightmare.json](./190084-deadly-nightmare.json) |
 | Deadly Nightmare Unwanted Heritage | 278934 | [278934-deadly-nightmare-unwanted-heritage.json](./278934-deadly-nightmare-unwanted-heritage.json) |
+| Deadly Obsession | 403862 | [403862-deadly-obsession.json](./403862-deadly-obsession.json) |
 | Deadly Parkour | 295407 | [295407-deadly-parkour.json](./295407-deadly-parkour.json) |
 | Deadly Path | 118264 | [118264-deadly-path.json](./118264-deadly-path.json) |
 | Deadly Platform | 235559 | [235559-deadly-platform.json](./235559-deadly-platform.json) |
@@ -18107,6 +18108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drowning | 191030 | [191030-drowning.json](./191030-drowning.json) |
 | Drowning Ashes | 374322 | [374322-drowning-ashes.json](./374322-drowning-ashes.json) |
 | Drowning Cross | 119750 | [119750-drowning-cross.json](./119750-drowning-cross.json) |
+| Drowning in a Sea of Blue | 403859 | [403859-drowning-in-a-sea-of-blue.json](./403859-drowning-in-a-sea-of-blue.json) |
 | Drowning In Problems | 134444 | [134444-drowning-in-problems.json](./134444-drowning-in-problems.json) |
 | Drowning Song of the Stagnant Sea | 370694 | [370694-drowning-song-of-the-stagnant-sea.json](./370694-drowning-song-of-the-stagnant-sea.json) |
 | Drowning, Drowning | 144234 | [144234-drowning-drowning.json](./144234-drowning-drowning.json) |
