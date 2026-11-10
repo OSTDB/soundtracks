@@ -1634,6 +1634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oliver & Company | 93103 | [93103-oliver-and-company.json](./93103-oliver-and-company.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
 | Oliver and Spike | 51660 | [51660-oliver-and-spike.json](./51660-oliver-and-spike.json) |
+| Oliver's Adventures in the Fairyland | 114999 | [114999-olivers-adventures-in-the-fairyland.json](./114999-olivers-adventures-in-the-fairyland.json) |
 | Oliver's Crosswords | 133547 | [133547-olivers-crosswords.json](./133547-olivers-crosswords.json) |
 | Oliver's Last Run | 407076 | [407076-olivers-last-run.json](./407076-olivers-last-run.json) |
 | Oliver's Tale | 248502 | [248502-olivers-tale.json](./248502-olivers-tale.json) |
