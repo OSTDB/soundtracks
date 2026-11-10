@@ -2522,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carcassonne: The Official Board Game - Winter and Gingerbread Man | 171017 | [171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json](./171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json) |
 | Carcelera | 414708 | [414708-carcelera.json](./414708-carcelera.json) |
 | Carceri | 302562 | [302562-carceri.json](./302562-carceri.json) |
+| Carceri | 408562 | [408562-carceri.json](./408562-carceri.json) |
 | Carcharodon: White Sharks | 12501 | [12501-carcharodon-white-sharks.json](./12501-carcharodon-white-sharks.json) |
 | CarCollector | 76252 | [76252-carcollector.json](./76252-carcollector.json) |
 | Carcophony | 67339 | [67339-carcophony.json](./67339-carcophony.json) |
@@ -13827,6 +13828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comme Tu Veux | 327181 | [327181-comme-tu-veux.json](./327181-comme-tu-veux.json) |
 | Commercium | 31051 | [31051-commercium.json](./31051-commercium.json) |
 | Commie Block | 390246 | [390246-commie-block.json](./390246-commie-block.json) |
+| Commie Bobrs | 408378 | [408378-commie-bobrs.json](./408378-commie-bobrs.json) |
 | Commie Killer 2069 | 150745 | [150745-commie-killer-2069.json](./150745-commie-killer-2069.json) |
 | Commissar Catlov | 157958 | [157958-commissar-catlov.json](./157958-commissar-catlov.json) |
 | Commissar's Contrapasso | 126018 | [126018-commissars-contrapasso.json](./126018-commissars-contrapasso.json) |
