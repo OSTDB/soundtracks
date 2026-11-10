@@ -7352,6 +7352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Girls: Bikini Dreams | 420673 | [420673-hidden-girls-bikini-dreams.json](./420673-hidden-girls-bikini-dreams.json) |
 | Hidden Girls: Private Nights | 413949 | [413949-hidden-girls-private-nights.json](./413949-hidden-girls-private-nights.json) |
 | Hidden Girls: Quiet Beauty | 415059 | [415059-hidden-girls-quiet-beauty.json](./415059-hidden-girls-quiet-beauty.json) |
+| Hidden Girls: Secret Puzzle | 409924 | [409924-hidden-girls-secret-puzzle.json](./409924-hidden-girls-secret-puzzle.json) |
 | Hidden Girls: Tropical Vibes | 420672 | [420672-hidden-girls-tropical-vibes.json](./420672-hidden-girls-tropical-vibes.json) |
 | Hidden Glade | 266082 | [266082-hidden-glade.json](./266082-hidden-glade.json) |
 | Hidden Harbor 2 Top-Down 3D | 226676 | [226676-hidden-harbor-2-top-down-3d.json](./226676-hidden-harbor-2-top-down-3d.json) |
