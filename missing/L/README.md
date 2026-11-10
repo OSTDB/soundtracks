@@ -10124,6 +10124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumen: The Last Hope | 365612 | [365612-lumen-the-last-hope.json](./365612-lumen-the-last-hope.json) |
 | Lumen. | 124596 | [124596-lumen.json](./124596-lumen.json) |
 | Lumencraft | 186294 | [186294-lumencraft.json](./186294-lumencraft.json) |
+| Lumenfall | 424259 | [424259-lumenfall.json](./424259-lumenfall.json) |
 | Lumenile: Found Footage | 274313 | [274313-lumenile-found-footage.json](./274313-lumenile-found-footage.json) |
 | LumenTale: Memories of Trey | 231484 | [231484-lumentale-memories-of-trey.json](./231484-lumentale-memories-of-trey.json) |
 | Lumeshift | 416061 | [416061-lumeshift.json](./416061-lumeshift.json) |
