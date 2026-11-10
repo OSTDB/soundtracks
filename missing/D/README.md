@@ -4320,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadGround:Arena | 93805 | [93805-deadground-arena.json](./93805-deadground-arena.json) |
 | Deadhand Theater | 399381 | [399381-deadhand-theater.json](./399381-deadhand-theater.json) |
 | Deadhaus Sonata | 111333 | [111333-deadhaus-sonata.json](./111333-deadhaus-sonata.json) |
+| Deadhead Angel! | 406389 | [406389-deadhead-angel.json](./406389-deadhead-angel.json) |
 | Deadhead: Autorail | 412245 | [412245-deadhead-autorail.json](./412245-deadhead-autorail.json) |
 | Deadheat Road | 43799 | [43799-deadheat-road.json](./43799-deadheat-road.json) |
 | DeadHex | 270566 | [270566-deadhex.json](./270566-deadhex.json) |
@@ -12243,6 +12244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctrineers | 423392 | [423392-doctrineers.json](./423392-doctrineers.json) |
 | Dodd Goes To The Museum | 327370 | [327370-dodd-goes-to-the-museum.json](./327370-dodd-goes-to-the-museum.json) |
 | DodecaDragons | 320010 | [320010-dodecadragons.json](./320010-dodecadragons.json) |
+| Dodecium | 406379 | [406379-dodecium.json](./406379-dodecium.json) |
 | Dodge | 154270 | [154270-dodge.json](./154270-dodge.json) |
 | Dodge | 177542 | [177542-dodge.json](./177542-dodge.json) |
 | Dodge | 211375 | [211375-dodge.json](./211375-dodge.json) |
