@@ -3941,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Glory | 277921 | [277921-endless-glory.json](./277921-endless-glory.json) |
 | Endless Golf | 85638 | [85638-endless-golf.json](./85638-endless-golf.json) |
 | Endless Greed | 413670 | [413670-endless-greed.json](./413670-endless-greed.json) |
+| Endless Harvest | 423650 | [423650-endless-harvest.json](./423650-endless-harvest.json) |
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
 | Endless History | 320771 | [320771-endless-history.json](./320771-endless-history.json) |
 | Endless Horde | 105890 | [105890-endless-horde.json](./105890-endless-horde.json) |
@@ -4108,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endloop | 295818 | [295818-endloop.json](./295818-endloop.json) |
 | Endme | 316571 | [316571-endme.json](./316571-endme.json) |
 | Endo | 158503 | [158503-endo.json](./158503-endo.json) |
+| Endocardium | 423632 | [423632-endocardium.json](./423632-endocardium.json) |
 | Endocrisis | 143368 | [143368-endocrisis.json](./143368-endocrisis.json) |
 | Endocrisis Hyperactive | 173294 | [173294-endocrisis-hyperactive.json](./173294-endocrisis-hyperactive.json) |
 | Endometric Void | 213307 | [213307-endometric-void.json](./213307-endometric-void.json) |
