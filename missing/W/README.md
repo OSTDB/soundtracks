@@ -6625,6 +6625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wisper | 119223 | [119223-wisper.json](./119223-wisper.json) |
 | Wisper | 171155 | [171155-wisper.json](./171155-wisper.json) |
 | Wispera | 216825 | [216825-wispera.json](./216825-wispera.json) |
+| Wispip's Siege | 415647 | [415647-wispips-siege.json](./415647-wispips-siege.json) |
 | Wisplight | 248008 | [248008-wisplight.json](./248008-wisplight.json) |
 | Wisps of the Elements | 312544 | [312544-wisps-of-the-elements.json](./312544-wisps-of-the-elements.json) |
 | Wisps: The Redeeming | 2961 | [2961-wisps-the-redeeming.json](./2961-wisps-the-redeeming.json) |
