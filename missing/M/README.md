@@ -5252,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 3: N7 Collector's Edition | 45180 | [45180-mass-effect-3-n7-collectors-edition.json](./45180-mass-effect-3-n7-collectors-edition.json) |
 | Mass Effect 3: N7 Digital Deluxe Edition | 202174 | [202174-mass-effect-3-n7-digital-deluxe-edition.json](./202174-mass-effect-3-n7-digital-deluxe-edition.json) |
 | Mass Effect 3: Omega | 13912 | [13912-mass-effect-3-omega.json](./13912-mass-effect-3-omega.json) |
+| Mass Effect 3: Retaliation | 25299 | [25299-mass-effect-3-retaliation.json](./25299-mass-effect-3-retaliation.json) |
 | Mass Effect 3: Special Edition | 21697 | [21697-mass-effect-3-special-edition.json](./21697-mass-effect-3-special-edition.json) |
 | Mass Effect Datapad | 77200 | [77200-mass-effect-datapad.json](./77200-mass-effect-datapad.json) |
 | Mass Effect Galaxy | 213 | [213-mass-effect-galaxy.json](./213-mass-effect-galaxy.json) |
@@ -5499,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Tactics | 142393 | [142393-master-of-tactics.json](./142393-master-of-tactics.json) |
 | Master of the Grid | 122923 | [122923-master-of-the-grid.json](./122923-master-of-the-grid.json) |
 | Master of the Harem Guild | 109618 | [109618-master-of-the-harem-guild.json](./109618-master-of-the-harem-guild.json) |
+| Master of the Lamps | 25938 | [25938-master-of-the-lamps.json](./25938-master-of-the-lamps.json) |
 | Master of the Manor | 388164 | [388164-master-of-the-manor.json](./388164-master-of-the-manor.json) |
 | Master of the Monster Lair | 21276 | [21276-master-of-the-monster-lair.json](./21276-master-of-the-monster-lair.json) |
 | Master of The Secret Sea | 270479 | [270479-master-of-the-secret-sea.json](./270479-master-of-the-secret-sea.json) |
@@ -15075,6 +15077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Buncha | 363129 | [363129-mobile-buncha.json](./363129-mobile-buncha.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
 | Mobile Empire | 75387 | [75387-mobile-empire.json](./75387-mobile-empire.json) |
+| Mobile Forces | 25109 | [25109-mobile-forces.json](./25109-mobile-forces.json) |
 | Mobile Golf | 3402 | [3402-mobile-golf.json](./3402-mobile-golf.json) |
 | Mobile Hangman | 220624 | [220624-mobile-hangman.json](./220624-mobile-hangman.json) |
 | Mobile Legends: Adventure | 133687 | [133687-mobile-legends-adventure.json](./133687-mobile-legends-adventure.json) |
@@ -18902,6 +18905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount & Blade II: Bannerlord | 9608 | [9608-mount-and-blade-ii-bannerlord.json](./9608-mount-and-blade-ii-bannerlord.json) |
 | Mount & Blade II: Bannerlord - War Sails | 336151 | [336151-mount-and-blade-ii-bannerlord-war-sails.json](./336151-mount-and-blade-ii-bannerlord-war-sails.json) |
 | Mount & Blade II: Bannerlord Digital Deluxe Edition | 228936 | [228936-mount-and-blade-ii-bannerlord-digital-deluxe-edition.json](./228936-mount-and-blade-ii-bannerlord-digital-deluxe-edition.json) |
+| Mount & Blade: Viking Conquest | 24573 | [24573-mount-and-blade-viking-conquest.json](./24573-mount-and-blade-viking-conquest.json) |
 | Mount & Blade: Warband - Napoleonic Wars | 8784 | [8784-mount-and-blade-warband-napoleonic-wars.json](./8784-mount-and-blade-warband-napoleonic-wars.json) |
 | Mount & Blade: Warband - Viking Conquest Reforged Edition | 8761 | [8761-mount-and-blade-warband-viking-conquest-reforged-edition.json](./8761-mount-and-blade-warband-viking-conquest-reforged-edition.json) |
 | Mount & Blade: With Fire and Sword | 8792 | [8792-mount-and-blade-with-fire-and-sword.json](./8792-mount-and-blade-with-fire-and-sword.json) |
