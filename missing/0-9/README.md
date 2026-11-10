@@ -2696,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3DTuning: Car Game & Simulator | 344916 | [344916-3dtuning-car-game-and-simulator.json](./344916-3dtuning-car-game-and-simulator.json) |
 | 3DXChat | 301038 | [301038-3dxchat.json](./301038-3dxchat.json) |
 | 3eality | 115470 | [115470-3eality.json](./115470-3eality.json) |
+| 3Gun Nation VR | 114590 | [114590-3gun-nation-vr.json](./114590-3gun-nation-vr.json) |
 | 3in1 Adrenalin Pack | 137477 | [137477-3in1-adrenalin-pack.json](./137477-3in1-adrenalin-pack.json) |
 | 3in1 Game Collection: Backgammon + Checkers + Mills | 280597 | [280597-3in1-game-collection-backgammon-checkers-mills.json](./280597-3in1-game-collection-backgammon-checkers-mills.json) |
 | 3in1: Meine Tierpension + Meine Tierschule + Mein Westernpferd | 269540 | [269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json](./269540-3in1-meine-tierpension-meine-tierschule-mein-westernpferd.json) |
