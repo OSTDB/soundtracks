@@ -9505,6 +9505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exorcist: Legion VR - Chapter 2: Idle Hands | 168817 | [168817-the-exorcist-legion-vr-chapter-2-idle-hands.json](./168817-the-exorcist-legion-vr-chapter-2-idle-hands.json) |
 | The Exorcist: Legion VR - Chapter 4: Samaritan | 168818 | [168818-the-exorcist-legion-vr-chapter-4-samaritan.json](./168818-the-exorcist-legion-vr-chapter-4-samaritan.json) |
 | The Exorcist: Legion VR - Chapter 5: The Tomb | 168819 | [168819-the-exorcist-legion-vr-chapter-5-the-tomb.json](./168819-the-exorcist-legion-vr-chapter-5-the-tomb.json) |
+| The Exorcist: Legion VR - Deluxe Edition | 123896 | [123896-the-exorcist-legion-vr-deluxe-edition.json](./123896-the-exorcist-legion-vr-deluxe-edition.json) |
 | The Exorcist: Story of School | 331488 | [331488-the-exorcist-story-of-school.json](./331488-the-exorcist-story-of-school.json) |
 | The Exorcist's Story | 224628 | [224628-the-exorcists-story.json](./224628-the-exorcists-story.json) |
 | The Expanse: A Telltale Series | 185239 | [185239-the-expanse-a-telltale-series.json](./185239-the-expanse-a-telltale-series.json) |
