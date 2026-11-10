@@ -2983,6 +2983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Sisters | 418704 | [418704-we-are-sisters.json](./418704-we-are-sisters.json) |
 | We Are So Cooked | 388377 | [388377-we-are-so-cooked.json](./388377-we-are-so-cooked.json) |
 | We Are So Cooked | 388939 | [388939-we-are-so-cooked.json](./388939-we-are-so-cooked.json) |
+| We Are So Dead | 412043 | [412043-we-are-so-dead.json](./412043-we-are-so-dead.json) |
 | We Are Soccer | 331782 | [331782-we-are-soccer.json](./331782-we-are-soccer.json) |
 | We Are Stardust | 299162 | [299162-we-are-stardust.json](./299162-we-are-stardust.json) |
 | We Are Sup | 288469 | [288469-we-are-sup.json](./288469-we-are-sup.json) |
@@ -8149,6 +8150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordly | 323327 | [323327-wordly.json](./323327-wordly.json) |
 | Wordmaster | 92670 | [92670-wordmaster.json](./92670-wordmaster.json) |
 | WordMaster | 207524 | [207524-wordmaster.json](./207524-wordmaster.json) |
+| Wordnerd 3D | 412029 | [412029-wordnerd-3d.json](./412029-wordnerd-3d.json) |
 | Wordomi | 387505 | [387505-wordomi.json](./387505-wordomi.json) |
 | Wordox | 402320 | [402320-wordox.json](./402320-wordox.json) |
 | Wordpieces | 319079 | [319079-wordpieces.json](./319079-wordpieces.json) |
