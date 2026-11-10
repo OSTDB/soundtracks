@@ -8581,6 +8581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death and the Vampire | 409818 | [409818-the-death-and-the-vampire.json](./409818-the-death-and-the-vampire.json) |
 | The Death Focal | 277448 | [277448-the-death-focal.json](./277448-the-death-focal.json) |
 | The Death Forest | 348446 | [348446-the-death-forest.json](./348446-the-death-forest.json) |
+| The Death Game Report | 413971 | [413971-the-death-game-report.json](./413971-the-death-game-report.json) |
 | The Death Into Trouble | 151125 | [151125-the-death-into-trouble.json](./151125-the-death-into-trouble.json) |
 | The Death Night Show | 320324 | [320324-the-death-night-show.json](./320324-the-death-night-show.json) |
 | The Death of Erin Myers | 111289 | [111289-the-death-of-erin-myers.json](./111289-the-death-of-erin-myers.json) |
@@ -20640,6 +20641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theresia | 21300 | [21300-theresia.json](./21300-theresia.json) |
 | Theresia | 425405 | [425405-theresia.json](./425405-theresia.json) |
 | Theresia II: Dear Lizst | 425404 | [425404-theresia-ii-dear-lizst.json](./425404-theresia-ii-dear-lizst.json) |
+| Therian Crush: Wild Animal Boys | 413959 | [413959-therian-crush-wild-animal-boys.json](./413959-therian-crush-wild-animal-boys.json) |
 | Therian Crush: Wild Animal Girls | 414453 | [414453-therian-crush-wild-animal-girls.json](./414453-therian-crush-wild-animal-girls.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
