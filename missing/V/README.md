@@ -2229,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigilante 8 | 3332 | [3332-vigilante-8.json](./3332-vigilante-8.json) |
 | Vigilante 8 | 75423 | [75423-vigilante-8.json](./75423-vigilante-8.json) |
 | Vigilante 8: 2nd Offense | 3333 | [3333-vigilante-8-2nd-offense.json](./3333-vigilante-8-2nd-offense.json) |
+| Vigilante 8: Arcade | 23035 | [23035-vigilante-8-arcade.json](./23035-vigilante-8-arcade.json) |
 | Vigilante Racer | 265262 | [265262-vigilante-racer.json](./265262-vigilante-racer.json) |
 | Vigilante Ranger | 315942 | [315942-vigilante-ranger.json](./315942-vigilante-ranger.json) |
 | Vigilantes | 25597 | [25597-vigilantes.json](./25597-vigilantes.json) |
@@ -2807,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Escape - The Play Room | 131875 | [131875-virtual-escape-the-play-room.json](./131875-virtual-escape-the-play-room.json) |
 | Virtual Escape: Digital World | 167838 | [167838-virtual-escape-digital-world.json](./167838-virtual-escape-digital-world.json) |
 | Virtual Expo 2025 Japan | 373170 | [373170-virtual-expo-2025-japan.json](./373170-virtual-expo-2025-japan.json) |
+| Virtual Families | 9394 | [9394-virtual-families.json](./9394-virtual-families.json) |
 | Virtual Families 2: My Dream Home | 181972 | [181972-virtual-families-2-my-dream-home.json](./181972-virtual-families-2-my-dream-home.json) |
 | Virtual Families 2: Our Dream House | 88471 | [88471-virtual-families-2-our-dream-house.json](./88471-virtual-families-2-our-dream-house.json) |
 | Virtual Families 3 | 239674 | [239674-virtual-families-3.json](./239674-virtual-families-3.json) |
