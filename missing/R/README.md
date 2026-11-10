@@ -2650,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Airplane Challenge | 158711 | [158711-rc-airplane-challenge.json](./158711-rc-airplane-challenge.json) |
 | RC Airplane: Flight Simulator | 261352 | [261352-rc-airplane-flight-simulator.json](./261352-rc-airplane-flight-simulator.json) |
 | RC Boat Simulator | 103991 | [103991-rc-boat-simulator.json](./103991-rc-boat-simulator.json) |
+| RC Car | 89055 | [89055-rc-car.json](./89055-rc-car.json) |
 | RC Cars | 36386 | [36386-rc-cars.json](./36386-rc-cars.json) |
 | RC Club: AR Racing Simulator | 256130 | [256130-rc-club-ar-racing-simulator.json](./256130-rc-club-ar-racing-simulator.json) |
 | RC Daredevil | 70311 | [70311-rc-daredevil.json](./70311-rc-daredevil.json) |
@@ -7410,6 +7411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rickdle | 396406 | [396406-rickdle.json](./396406-rickdle.json) |
 | Ricko's Island | 84044 | [84044-rickos-island.json](./84044-rickos-island.json) |
 | Rickstones | 223225 | [223225-rickstones.json](./223225-rickstones.json) |
+| Ricky Carmichael's Motocross Matchup | 89117 | [89117-ricky-carmichaels-motocross-matchup.json](./89117-ricky-carmichaels-motocross-matchup.json) |
 | Ricky Did Nothing Wrong | 155965 | [155965-ricky-did-nothing-wrong.json](./155965-ricky-did-nothing-wrong.json) |
 | Ricky Ponting International Cricket 2005 | 47360 | [47360-ricky-ponting-international-cricket-2005.json](./47360-ricky-ponting-international-cricket-2005.json) |
 | Ricky Raccoon | 34666 | [34666-ricky-raccoon.json](./34666-ricky-raccoon.json) |
