@@ -16241,6 +16241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonSwings | 184636 | [184636-dragonswings.json](./184636-dragonswings.json) |
 | Dragontorc | 13610 | [13610-dragontorc.json](./13610-dragontorc.json) |
 | Dragontwin | 328849 | [328849-dragontwin.json](./328849-dragontwin.json) |
+| DragonVale | 22705 | [22705-dragonvale.json](./22705-dragonvale.json) |
 | Dragonward | 93801 | [93801-dragonward.json](./93801-dragonward.json) |
 | Dragonwing | 94572 | [94572-dragonwing.json](./94572-dragonwing.json) |
 | Dragonworld | 24778 | [24778-dragonworld.json](./24778-dragonworld.json) |
