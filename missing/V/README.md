@@ -1747,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertrix 3 | 78233 | [78233-vertrix-3.json](./78233-vertrix-3.json) |
 | Vertrix2 | 94943 | [94943-vertrix2.json](./94943-vertrix2.json) |
 | Verve | 311220 | [311220-verve.json](./311220-verve.json) |
+| VerX | 418099 | [418099-verx.json](./418099-verx.json) |
 | Very Bad Dreams | 269860 | [269860-very-bad-dreams.json](./269860-very-bad-dreams.json) |
 | Very Dungeon | 181150 | [181150-very-dungeon.json](./181150-very-dungeon.json) |
 | Very Hard Game | 278499 | [278499-very-hard-game.json](./278499-very-hard-game.json) |
@@ -3158,6 +3159,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visser | 129520 | [129520-visser.json](./129520-visser.json) |
 | Vista Golf | 95551 | [95551-vista-golf.json](./95551-vista-golf.json) |
 | Vista Golf Rivals | 106982 | [106982-vista-golf-rivals.json](./106982-vista-golf-rivals.json) |
+| Vista Quest | 418079 | [418079-vista-quest.json](./418079-vista-quest.json) |
+| Vista Quest 2 | 418083 | [418083-vista-quest-2.json](./418083-vista-quest-2.json) |
 | Vista World | 244372 | [244372-vista-world.json](./244372-vista-world.json) |
 | Vistascapes VR | 32891 | [32891-vistascapes-vr.json](./32891-vistascapes-vr.json) |
 | Visual DOS 2024 | 364528 | [364528-visual-dos-2024.json](./364528-visual-dos-2024.json) |
@@ -3276,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ViViD | 61070 | [61070-vivid.json](./61070-vivid.json) |
 | Vivid Army | 389485 | [389485-vivid-army.json](./389485-vivid-army.json) |
 | Vivid Conceptions | 93152 | [93152-vivid-conceptions.json](./93152-vivid-conceptions.json) |
+| Vivid Days | 418076 | [418076-vivid-days.json](./418076-vivid-days.json) |
 | Vivid Intrusion | 399379 | [399379-vivid-intrusion.json](./399379-vivid-intrusion.json) |
 | Vivid Knight | 148301 | [148301-vivid-knight.json](./148301-vivid-knight.json) |
 | Vivid Relapse | 232239 | [232239-vivid-relapse.json](./232239-vivid-relapse.json) |
