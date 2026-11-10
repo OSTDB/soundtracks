@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle landmark! | 249175 | [249175-idle-landmark.json](./249175-idle-landmark.json) |
 | Idle League | 174777 | [174777-idle-league.json](./174777-idle-league.json) |
 | Idle Legends | 303184 | [303184-idle-legends.json](./303184-idle-legends.json) |
+| Idle Legions | 424844 | [424844-idle-legions.json](./424844-idle-legions.json) |
 | Idle Lemonade Tycoon Empire | 255802 | [255802-idle-lemonade-tycoon-empire.json](./255802-idle-lemonade-tycoon-empire.json) |
 | Idle Library | 395347 | [395347-idle-library.json](./395347-idle-library.json) |
 | Idle Life Sim | 331618 | [331618-idle-life-sim.json](./331618-idle-life-sim.json) |
@@ -1710,6 +1711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Simple RPG | 243212 | [243212-idle-simple-rpg.json](./243212-idle-simple-rpg.json) |
 | Idle Skilling | 144767 | [144767-idle-skilling.json](./144767-idle-skilling.json) |
 | Idle Skilling: Afterlife | 234433 | [234433-idle-skilling-afterlife.json](./234433-idle-skilling-afterlife.json) |
+| Idle Slots: Casino HQ | 424865 | [424865-idle-slots-casino-hq.json](./424865-idle-slots-casino-hq.json) |
 | Idle Spa Tycoon 3D | 208923 | [208923-idle-spa-tycoon-3d.json](./208923-idle-spa-tycoon-3d.json) |
 | Idle Space | 128266 | [128266-idle-space.json](./128266-idle-space.json) |
 | Idle Space Force | 246425 | [246425-idle-space-force.json](./246425-idle-space-force.json) |
@@ -3317,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inconvenience Store | 377310 | [377310-inconvenience-store.json](./377310-inconvenience-store.json) |
 | Incorp Inc | 30135 | [30135-incorp-inc.json](./30135-incorp-inc.json) |
 | Incorporeal | 370737 | [370737-incorporeal.json](./370737-incorporeal.json) |
+| Incorporeal | 424821 | [424821-incorporeal.json](./424821-incorporeal.json) |
 | Incrate | 325378 | [325378-incrate.json](./325378-incrate.json) |
 | InCrazyBall | 360490 | [360490-incrazyball.json](./360490-incrazyball.json) |
 | Increase World | 367996 | [367996-increase-world.json](./367996-increase-world.json) |
@@ -3733,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infamous Keepers | 398591 | [398591-infamous-keepers.json](./398591-infamous-keepers.json) |
 | Infamous Machine | 99896 | [99896-infamous-machine.json](./99896-infamous-machine.json) |
 | Infamous PC | 424593 | [424593-infamous-pc.json](./424593-infamous-pc.json) |
+| Infamous PC Enhanced | 424864 | [424864-infamous-pc-enhanced.json](./424864-infamous-pc-enhanced.json) |
 | Infamous Second Son - Special Edition | 89873 | [89873-infamous-second-son-special-edition.json](./89873-infamous-second-son-special-edition.json) |
 | Infamous: Festival of Blood | 7850 | [7850-infamous-festival-of-blood.json](./7850-infamous-festival-of-blood.json) |
 | Infamous: Precinct Assault | 374313 | [374313-infamous-precinct-assault.json](./374313-infamous-precinct-assault.json) |
@@ -4065,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
