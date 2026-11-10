@@ -1761,6 +1761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Normal Rail Game | 392597 | [392597-very-normal-rail-game.json](./392597-very-normal-rail-game.json) |
 | Very Pink Game | 151580 | [151580-very-pink-game.json](./151580-very-pink-game.json) |
 | Very Real Chess | 31371 | [31371-very-real-chess.json](./31371-very-real-chess.json) |
+| Very Realistic Game Dev Simulator | 412032 | [412032-very-realistic-game-dev-simulator.json](./412032-very-realistic-game-dev-simulator.json) |
 | Very Retrouvaille | 142584 | [142584-very-retrouvaille.json](./142584-very-retrouvaille.json) |
 | Very Safe Dino Park | 408586 | [408586-very-safe-dino-park.json](./408586-very-safe-dino-park.json) |
 | Very Scary Backrooms Game | 274336 | [274336-very-scary-backrooms-game.json](./274336-very-scary-backrooms-game.json) |
@@ -1986,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victor | 172887 | [172887-victor.json](./172887-victor.json) |
 | Victor Banana | 171478 | [171478-victor-banana.json](./171478-victor-banana.json) |
 | Victor Loomes: Das Adventure-Game | 135382 | [135382-victor-loomes-das-adventure-game.json](./135382-victor-loomes-das-adventure-game.json) |
+| Victor Space Program | 412033 | [412033-victor-space-program.json](./412033-victor-space-program.json) |
 | Victor Vran: Cauldron of Chaos Dungeon | 171348 | [171348-victor-vran-cauldron-of-chaos-dungeon.json](./171348-victor-vran-cauldron-of-chaos-dungeon.json) |
 | Victor Vran: Fractured Worlds | 51790 | [51790-victor-vran-fractured-worlds.json](./51790-victor-vran-fractured-worlds.json) |
 | Victor Vran: Motörhead -Through the Ages | 51787 | [51787-victor-vran-motorhead-through-the-ages.json](./51787-victor-vran-motorhead-through-the-ages.json) |
