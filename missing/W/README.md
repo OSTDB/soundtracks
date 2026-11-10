@@ -6940,6 +6940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Withered: A visual novel | 178017 | [178017-withered-a-visual-novel.json](./178017-withered-a-visual-novel.json) |
 | Witherheart | 396463 | [396463-witherheart.json](./396463-witherheart.json) |
 | Witherholme | 189058 | [189058-witherholme.json](./189058-witherholme.json) |
+| Withering Age | 397987 | [397987-withering-age.json](./397987-withering-age.json) |
 | Withering Flowers | 260421 | [260421-withering-flowers.json](./260421-withering-flowers.json) |
 | Withering Gardens | 301924 | [301924-withering-gardens.json](./301924-withering-gardens.json) |
 | Withering Kingdom: Arcane War | 57760 | [57760-withering-kingdom-arcane-war.json](./57760-withering-kingdom-arcane-war.json) |
