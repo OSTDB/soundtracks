@@ -9546,6 +9546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Expression Amrilato | 119580 | [119580-the-expression-amrilato.json](./119580-the-expression-amrilato.json) |
 | The Exterminator | 68429 | [68429-the-exterminator.json](./68429-the-exterminator.json) |
 | The Exterminator | 78504 | [78504-the-exterminator.json](./78504-the-exterminator.json) |
+| The Extinction | 34137 | [34137-the-extinction.json](./34137-the-extinction.json) |
 | The Extinguishers | 169667 | [169667-the-extinguishers.json](./169667-the-extinguishers.json) |
 | The Extraterrestrials Museum of Earth Exploration | 225188 | [225188-the-extraterrestrials-museum-of-earth-exploration.json](./225188-the-extraterrestrials-museum-of-earth-exploration.json) |
 | The Extravagant Bill | 185322 | [185322-the-extravagant-bill.json](./185322-the-extravagant-bill.json) |
@@ -16862,6 +16863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sense Point | 174577 | [174577-the-sense-point.json](./174577-the-sense-point.json) |
 | The Sensha | 59418 | [59418-the-sensha.json](./59418-the-sensha.json) |
 | The Sensifier | 410722 | [410722-the-sensifier.json](./410722-the-sensifier.json) |
+| The Sentient | 34184 | [34184-the-sentient.json](./34184-the-sentient.json) |
 | The Sentient Box | 226594 | [226594-the-sentient-box.json](./226594-the-sentient-box.json) |
 | The Sentinel | 15363 | [15363-the-sentinel.json](./15363-the-sentinel.json) |
 | The Sentinel | 265158 | [265158-the-sentinel.json](./265158-the-sentinel.json) |
