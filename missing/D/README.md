@@ -3549,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De-Exit: Eternal Matters | 172757 | [172757-de-exit-eternal-matters.json](./172757-de-exit-eternal-matters.json) |
 | De-formers | 19588 | [19588-de-formers.json](./19588-de-formers.json) |
 | De-Ja II | 233590 | [233590-de-ja-ii.json](./233590-de-ja-ii.json) |
+| De-Void | 32673 | [32673-de-void.json](./32673-de-void.json) |
 | De: Yabatanien | 145548 | [145548-de-yabatanien.json](./145548-de-yabatanien.json) |
 | De:Fanastasis | 297812 | [297812-de-fanastasis.json](./297812-de-fanastasis.json) |
 | De:Void | 135813 | [135813-de-void.json](./135813-de-void.json) |
@@ -9839,6 +9840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DigSite | 334333 | [334333-digsite.json](./334333-digsite.json) |
 | Dìguó Wángcháo (Yàsè Chuánshuō) | 78437 | [78437-diguo-wangchao-yase-chuanshuo.json](./78437-diguo-wangchao-yase-chuanshuo.json) |
 | DigWorld | 404408 | [404408-digworld.json](./404408-digworld.json) |
+| Diib's Dilemma | 32592 | [32592-diibs-dilemma.json](./32592-diibs-dilemma.json) |
 | Diiwi Islands | 185358 | [185358-diiwi-islands.json](./185358-diiwi-islands.json) |
 | Dijeweled Remastered | 388905 | [388905-dijeweled-remastered.json](./388905-dijeweled-remastered.json) |
 | Dik Journey | 310920 | [310920-dik-journey.json](./310920-dik-journey.json) |
@@ -12736,6 +12738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll | 393477 | [393477-doll.json](./393477-doll.json) |
 | Doll | 97852 | [97852-doll.json](./97852-doll.json) |
 | Doll Catching Simulator | 326440 | [326440-doll-catching-simulator.json](./326440-doll-catching-simulator.json) |
+| Doll City: Prologue | 32715 | [32715-doll-city-prologue.json](./32715-doll-city-prologue.json) |
 | Doll Date | 395202 | [395202-doll-date.json](./395202-doll-date.json) |
 | Doll Defenders | 293622 | [293622-doll-defenders.json](./293622-doll-defenders.json) |
 | Doll Dress Up | 317551 | [317551-doll-dress-up.json](./317551-doll-dress-up.json) |
@@ -17823,6 +17826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Flight Simulator Online | 274379 | [274379-drone-flight-simulator-online.json](./274379-drone-flight-simulator-online.json) |
 | Drone Gladiator | 154057 | [154057-drone-gladiator.json](./154057-drone-gladiator.json) |
 | Drone Hero | 38750 | [38750-drone-hero.json](./38750-drone-hero.json) |
+| Drone Hunter VR | 32746 | [32746-drone-hunter-vr.json](./32746-drone-hunter-vr.json) |
 | Drone Investigations | 127866 | [127866-drone-investigations.json](./127866-drone-investigations.json) |
 | Drone Lander | 23859 | [23859-drone-lander.json](./23859-drone-lander.json) |
 | Drone Master Racing | 245896 | [245896-drone-master-racing.json](./245896-drone-master-racing.json) |
