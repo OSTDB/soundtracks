@@ -2945,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Mansion | 204693 | [204693-haunted-mansion.json](./204693-haunted-mansion.json) |
 | Haunted Mansion | 259183 | [259183-haunted-mansion.json](./259183-haunted-mansion.json) |
 | Haunted Mansion | 342075 | [342075-haunted-mansion.json](./342075-haunted-mansion.json) |
+| Haunted Mansion Escape–Horror | 400620 | [400620-haunted-mansion-escape-horror.json](./400620-haunted-mansion-escape-horror.json) |
 | Haunted Mansion: Experience | 319759 | [319759-haunted-mansion-experience.json](./319759-haunted-mansion-experience.json) |
 | Haunted Maze | 266638 | [266638-haunted-maze.json](./266638-haunted-maze.json) |
 | Haunted Memories | 16552 | [16552-haunted-memories.json](./16552-haunted-memories.json) |
@@ -13441,6 +13442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperZone | 42608 | [42608-hyperzone.json](./42608-hyperzone.json) |
 | Hyphae | 389636 | [389636-hyphae.json](./389636-hyphae.json) |
 | Hyphen | 24566 | [24566-hyphen.json](./24566-hyphen.json) |
+| HyphoSphere | 400630 | [400630-hyphosphere.json](./400630-hyphosphere.json) |
 | Hypixel | 357176 | [357176-hypixel.json](./357176-hypixel.json) |
 | Hypnaborea | 396243 | [396243-hypnaborea.json](./396243-hypnaborea.json) |
 | Hypnagogia | 144747 | [144747-hypnagogia.json](./144747-hypnagogia.json) |
