@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painty Mob | 193769 | [193769-painty-mob.json](./193769-painty-mob.json) |
 | Painwives | 419852 | [419852-painwives.json](./419852-painwives.json) |
 | Paio Hazard | 134630 | [134630-paio-hazard.json](./134630-paio-hazard.json) |
+| Pair at Sea | 403880 | [403880-pair-at-sea.json](./403880-pair-at-sea.json) |
 | Pair Horror | 309061 | [309061-pair-horror.json](./309061-pair-horror.json) |
 | Pair Horror + Haunted Pack Set | 328990 | [328990-pair-horror-haunted-pack-set.json](./328990-pair-horror-haunted-pack-set.json) |
 | Pair Master | 347196 | [347196-pair-master.json](./347196-pair-master.json) |
@@ -3592,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pay Me In Colors | 287764 | [287764-pay-me-in-colors.json](./287764-pay-me-in-colors.json) |
 | Pay Respects | 176202 | [176202-pay-respects.json](./176202-pay-respects.json) |
 | Pay to Jump | 137832 | [137832-pay-to-jump.json](./137832-pay-to-jump.json) |
+| Pay to Slay | 403878 | [403878-pay-to-slay.json](./403878-pay-to-slay.json) |
 | Pay Your Crimes | 339090 | [339090-pay-your-crimes.json](./339090-pay-your-crimes.json) |
 | Pay Your Space Debt | 404019 | [404019-pay-your-space-debt.json](./404019-pay-your-space-debt.json) |
 | PayaPaya | 243724 | [243724-payapaya.json](./243724-payapaya.json) |
@@ -11818,6 +11820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Hyper Emerald | 397757 | [397757-pokemon-hyper-emerald.json](./397757-pokemon-hyper-emerald.json) |
 | Pokémon I Choose You Challenge | 198863 | [198863-pokemon-i-choose-you-challenge.json](./198863-pokemon-i-choose-you-challenge.json) |
 | Pokémon Iberia | 145370 | [145370-pokemon-iberia.json](./145370-pokemon-iberia.json) |
+| Pokemon II | 403895 | [403895-pokemon-ii.json](./403895-pokemon-ii.json) |
 | Pokémon Inclement Emerald | 202888 | [202888-pokemon-inclement-emerald.json](./202888-pokemon-inclement-emerald.json) |
 | Pokémon Infinite Fusion | 143761 | [143761-pokemon-infinite-fusion.json](./143761-pokemon-infinite-fusion.json) |
 | Pokémon Infinite Fusion 2: Hoenn | 406249 | [406249-pokemon-infinite-fusion-2-hoenn.json](./406249-pokemon-infinite-fusion-2-hoenn.json) |
@@ -16504,6 +16507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project CARS: Classic Lotus Track Expansion | 120191 | [120191-project-cars-classic-lotus-track-expansion.json](./120191-project-cars-classic-lotus-track-expansion.json) |
 | Project CARS: Complete Edition | 54279 | [54279-project-cars-complete-edition.json](./54279-project-cars-complete-edition.json) |
 | Project Cars: Digital Edition | 218478 | [218478-project-cars-digital-edition.json](./218478-project-cars-digital-edition.json) |
+| Project Cars: Free Car 10 | 403869 | [403869-project-cars-free-car-10.json](./403869-project-cars-free-car-10.json) |
 | Project CARS: Japanese Car Pack | 120192 | [120192-project-cars-japanese-car-pack.json](./120192-project-cars-japanese-car-pack.json) |
 | Project CARS: Logitech Livery Pack | 353279 | [353279-project-cars-logitech-livery-pack.json](./353279-project-cars-logitech-livery-pack.json) |
 | Project CARS: Modified Car Pack | 120195 | [120195-project-cars-modified-car-pack.json](./120195-project-cars-modified-car-pack.json) |
@@ -17759,6 +17763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psych | 150012 | [150012-psych.json](./150012-psych.json) |
 | Psych | 336823 | [336823-psych.json](./336823-psych.json) |
 | Psych | 86179 | [86179-psych.json](./86179-psych.json) |
+| Psych Rift | 403909 | [403909-psych-rift.json](./403909-psych-rift.json) |
 | Psych: The Game | 19312 | [19312-psych-the-game.json](./19312-psych-the-game.json) |
 | Psych! Outwit Your Friends | 88059 | [88059-psych-outwit-your-friends.json](./88059-psych-outwit-your-friends.json) |
 | Psychdive. | 366334 | [366334-psychdive.json](./366334-psychdive.json) |
