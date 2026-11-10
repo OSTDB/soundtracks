@@ -1841,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords 2: Rise of Demons | 301434 | [301434-warlords-2-rise-of-demons.json](./301434-warlords-2-rise-of-demons.json) |
 | Warlords Awakening | 103416 | [103416-warlords-awakening.json](./103416-warlords-awakening.json) |
 | Warlords Battle Simulator | 267020 | [267020-warlords-battle-simulator.json](./267020-warlords-battle-simulator.json) |
+| Warlords Battlecry | 9831 | [9831-warlords-battlecry.json](./9831-warlords-battlecry.json) |
 | Warlords Battlecry II | 9833 | [9833-warlords-battlecry-ii.json](./9833-warlords-battlecry-ii.json) |
 | Warlords Battlecry III | 9834 | [9834-warlords-battlecry-iii.json](./9834-warlords-battlecry-iii.json) |
 | Warlords Battlecry: The Protectors of Etheria | 261619 | [261619-warlords-battlecry-the-protectors-of-etheria.json](./261619-warlords-battlecry-the-protectors-of-etheria.json) |
