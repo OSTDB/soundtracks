@@ -2184,6 +2184,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On-Court Tennis | 26244 | [26244-on-court-tennis.json](./26244-on-court-tennis.json) |
 | On-looker | 129203 | [129203-on-looker.json](./129203-on-looker.json) |
 | On-Together | 347835 | [347835-on-together.json](./347835-on-together.json) |
+| On-Together: Summer Studies | 404484 | [404484-on-together-summer-studies.json](./404484-on-together-summer-studies.json) |
+| On-Together: Summer Update | 404483 | [404483-on-together-summer-update.json](./404483-on-together-summer-update.json) |
 | On.Off | 178822 | [178822-on-off.json](./178822-on-off.json) |
 | On/off | 217798 | [217798-on-off.json](./217798-on-off.json) |
 | Ona-Ken! International | 113315 | [113315-ona-ken-international.json](./113315-ona-ken-international.json) |
@@ -6217,6 +6219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oxygen Cocktail | 249275 | [249275-oxygen-cocktail.json](./249275-oxygen-cocktail.json) |
 | Oxygen Not Included | 19542 | [19542-oxygen-not-included.json](./19542-oxygen-not-included.json) |
 | Oxygen Not Included: Spaced Out! | 145292 | [145292-oxygen-not-included-spaced-out.json](./145292-oxygen-not-included-spaced-out.json) |
+| Oxygen Not Included: The Aquatic Planet Pack | 404459 | [404459-oxygen-not-included-the-aquatic-planet-pack.json](./404459-oxygen-not-included-the-aquatic-planet-pack.json) |
 | Oxygen Not Included: The Frosty Planet Pack | 310683 | [310683-oxygen-not-included-the-frosty-planet-pack.json](./310683-oxygen-not-included-the-frosty-planet-pack.json) |
 | Oxyjet | 112811 | [112811-oxyjet.json](./112811-oxyjet.json) |
 | OxyRail | 409596 | [409596-oxyrail.json](./409596-oxyrail.json) |
