@@ -8400,6 +8400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Store | 228009 | [228009-mega-store.json](./228009-mega-store.json) |
 | Mega Sudoku Plus | 59066 | [59066-mega-sudoku-plus.json](./59066-mega-sudoku-plus.json) |
 | Mega Sudoku: Binary & Suguru | 235258 | [235258-mega-sudoku-binary-and-suguru.json](./235258-mega-sudoku-binary-and-suguru.json) |
+| Mega Tag Panic | 425399 | [425399-mega-tag-panic.json](./425399-mega-tag-panic.json) |
 | Mega Tetris 2000 | 125272 | [125272-mega-tetris-2000.json](./125272-mega-tetris-2000.json) |
 | Mega Tower Assault | 306908 | [306908-mega-tower-assault.json](./306908-mega-tower-assault.json) |
 | Mega Trons Survivors | 390051 | [390051-mega-trons-survivors.json](./390051-mega-trons-survivors.json) |
@@ -18298,6 +18299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Weapon | 74333 | [74333-mortal-weapon.json](./74333-mortal-weapon.json) |
 | Mortal Wrestle Fight Pro | 99991 | [99991-mortal-wrestle-fight-pro.json](./99991-mortal-wrestle-fight-pro.json) |
 | Mortalis Meltdown | 291807 | [291807-mortalis-meltdown.json](./291807-mortalis-meltdown.json) |
+| Mortality | 425426 | [425426-mortality.json](./425426-mortality.json) |
 | Mortality Decomp. Killers | 337999 | [337999-mortality-decomp-killers.json](./337999-mortality-decomp-killers.json) |
 | Mortality Decomp. Killers: Shadow of Abaddon | 369823 | [369823-mortality-decomp-killers-shadow-of-abaddon.json](./369823-mortality-decomp-killers-shadow-of-abaddon.json) |
 | Mortality... Please | 417597 | [417597-mortality-please.json](./417597-mortality-please.json) |
@@ -19186,6 +19188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move The Box: Classic Block Puzzle | 251052 | [251052-move-the-box-classic-block-puzzle.json](./251052-move-the-box-classic-block-puzzle.json) |
 | Move the Pin: Classic Logic Puzzle | 249575 | [249575-move-the-pin-classic-logic-puzzle.json](./249575-move-the-pin-classic-logic-puzzle.json) |
 | Move the Window | 167509 | [167509-move-the-window.json](./167509-move-the-window.json) |
+| Move Together! | 425417 | [425417-move-together.json](./425417-move-together.json) |
 | Move your Brain: Rollway Puzzle | 67050 | [67050-move-your-brain-rollway-puzzle.json](./67050-move-your-brain-rollway-puzzle.json) |
 | Moved In | 386823 | [386823-moved-in.json](./386823-moved-in.json) |
 | Moved Mind | 292420 | [292420-moved-mind.json](./292420-moved-mind.json) |
