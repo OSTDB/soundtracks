@@ -4065,6 +4065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
 | Dead Pixels II: Straight to Video | 18362 | [18362-dead-pixels-ii-straight-to-video.json](./18362-dead-pixels-ii-straight-to-video.json) |
 | Dead Plate | 275460 | [275460-dead-plate.json](./275460-dead-plate.json) |
+| Dead Prints | 422415 | [422415-dead-prints.json](./422415-dead-prints.json) |
 | Dead Profit | 192274 | [192274-dead-profit.json](./192274-dead-profit.json) |
 | Dead Pulse | 393989 | [393989-dead-pulse.json](./393989-dead-pulse.json) |
 | Dead Quest | 117401 | [117401-dead-quest.json](./117401-dead-quest.json) |
@@ -7234,6 +7235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dentist doctor simulator games | 99880 | [99880-dentist-doctor-simulator-games.json](./99880-dentist-doctor-simulator-games.json) |
 | Dentist For Kids | 100224 | [100224-dentist-for-kids.json](./100224-dentist-for-kids.json) |
 | Dentist Hour: Escape Room | 357797 | [357797-dentist-hour-escape-room.json](./357797-dentist-hour-escape-room.json) |
+| Dentist Jams 2000 | 422409 | [422409-dentist-jams-2000.json](./422409-dentist-jams-2000.json) |
 | Dentist kids Hospital Simulation Teeth Surgery | 101950 | [101950-dentist-kids-hospital-simulation-teeth-surgery.json](./101950-dentist-kids-hospital-simulation-teeth-surgery.json) |
 | Dentist Office Creepers | 88101 | [88101-dentist-office-creepers.json](./88101-dentist-office-creepers.json) |
 | Dentist Surgery Game | 93870 | [93870-dentist-surgery-game.json](./93870-dentist-surgery-game.json) |
@@ -8632,6 +8634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Academy DxD | 386251 | [386251-devils-academy-dxd.json](./386251-devils-academy-dxd.json) |
 | Devil's Advocate: Alexander Twist | 224581 | [224581-devils-advocate-alexander-twist.json](./224581-devils-advocate-alexander-twist.json) |
 | Devil's Affliction | 26681 | [26681-devils-affliction.json](./26681-devils-affliction.json) |
+| Devil's Arcade | 422431 | [422431-devils-arcade.json](./422431-devils-arcade.json) |
 | Devil's Bluff | 34941 | [34941-devils-bluff.json](./34941-devils-bluff.json) |
 | Devil's Calling | 295473 | [295473-devils-calling.json](./295473-devils-calling.json) |
 | Devil's Corp | 329786 | [329786-devils-corp.json](./329786-devils-corp.json) |
@@ -19749,6 +19752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Clay | 148742 | [148742-dungeons-of-clay.json](./148742-dungeons-of-clay.json) |
 | Dungeons of Daggorath | 42156 | [42156-dungeons-of-daggorath.json](./42156-dungeons-of-daggorath.json) |
 | Dungeons of Death | 356659 | [356659-dungeons-of-death.json](./356659-dungeons-of-death.json) |
+| Dungeons of Destiny | 422411 | [422411-dungeons-of-destiny.json](./422411-dungeons-of-destiny.json) |
 | Dungeons of Dolkara | 297910 | [297910-dungeons-of-dolkara.json](./297910-dungeons-of-dolkara.json) |
 | Dungeons of Dreadrock | 194009 | [194009-dungeons-of-dreadrock.json](./194009-dungeons-of-dreadrock.json) |
 | Dungeons of Dreadrock 2: The Dead King´s Secret | 314393 | [314393-dungeons-of-dreadrock-2-the-dead-king-s-secret.json](./314393-dungeons-of-dreadrock-2-the-dead-king-s-secret.json) |
