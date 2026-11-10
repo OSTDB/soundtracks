@@ -6190,6 +6190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pic-a-Pix Classic 2 | 140423 | [140423-pic-a-pix-classic-2.json](./140423-pic-a-pix-classic-2.json) |
 | Pic-a-Pix Color | 82591 | [82591-pic-a-pix-color.json](./82591-pic-a-pix-color.json) |
 | Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
+| Pic-a-Pix Deluxe | 84825 | [84825-pic-a-pix-deluxe.json](./84825-pic-a-pix-deluxe.json) |
 | Pic-a-Pix Deluxe: Pic-a-Pix Color | 403408 | [403408-pic-a-pix-deluxe-pic-a-pix-color.json](./403408-pic-a-pix-deluxe-pic-a-pix-color.json) |
 | Pic-a-Pix Pieces | 114052 | [114052-pic-a-pix-pieces.json](./114052-pic-a-pix-pieces.json) |
 | Pic-a-Pix Pieces 2 | 140424 | [140424-pic-a-pix-pieces-2.json](./140424-pic-a-pix-pieces-2.json) |
@@ -13193,6 +13194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Gems | 232575 | [232575-pop-gems.json](./232575-pop-gems.json) |
 | Pop Idol: The Official Video Game | 65883 | [65883-pop-idol-the-official-video-game.json](./65883-pop-idol-the-official-video-game.json) |
 | Pop Island | 68124 | [68124-pop-island.json](./68124-pop-island.json) |
+| Pop Island: Paperfield | 84811 | [84811-pop-island-paperfield.json](./84811-pop-island-paperfield.json) |
 | Pop Islands | 94868 | [94868-pop-islands.json](./94868-pop-islands.json) |
 | Pop it, Please! | 164228 | [164228-pop-it-please.json](./164228-pop-it-please.json) |
 | Pop It! | 319881 | [319881-pop-it.json](./319881-pop-it.json) |
@@ -17896,6 +17898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Public Transport SImulator | 383133 | [383133-public-transport-simulator.json](./383133-public-transport-simulator.json) |
 | Public Transport Simulator 2 | 333737 | [333737-public-transport-simulator-2.json](./333737-public-transport-simulator-2.json) |
 | Publish or Perish | 298241 | [298241-publish-or-perish.json](./298241-publish-or-perish.json) |
+| Publisher Dream | 85350 | [85350-publisher-dream.json](./85350-publisher-dream.json) |
 | Publisher Tycoon | 31583 | [31583-publisher-tycoon.json](./31583-publisher-tycoon.json) |
 | Pucca Jam | 260118 | [260118-pucca-jam.json](./260118-pucca-jam.json) |
 | Pucca Noodle Rush | 65979 | [65979-pucca-noodle-rush.json](./65979-pucca-noodle-rush.json) |
@@ -19446,6 +19449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle'n Desu! | 42325 | [42325-puzzlen-desu.json](./42325-puzzlen-desu.json) |
 | Puzzlebot | 185294 | [185294-puzzlebot.json](./185294-puzzlebot.json) |
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
+| Puzzlebox setup | 84789 | [84789-puzzlebox-setup.json](./84789-puzzlebox-setup.json) |
 | PuzzleCore | 404535 | [404535-puzzlecore.json](./404535-puzzlecore.json) |
 | Puzzlection | 126160 | [126160-puzzlection.json](./126160-puzzlection.json) |
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
@@ -19486,6 +19490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzler Mind Gym 3D | 21571 | [21571-puzzler-mind-gym-3d.json](./21571-puzzler-mind-gym-3d.json) |
 | Puzzler World | 308990 | [308990-puzzler-world.json](./308990-puzzler-world.json) |
 | Puzzler World 2 | 16272 | [16272-puzzler-world-2.json](./16272-puzzler-world-2.json) |
+| Puzzler World 2011 | 84787 | [84787-puzzler-world-2011.json](./84787-puzzler-world-2011.json) |
 | Puzzler World 2012 3D | 47636 | [47636-puzzler-world-2012-3d.json](./47636-puzzler-world-2012-3d.json) |
 | Puzzler World 2013 | 47659 | [47659-puzzler-world-2013.json](./47659-puzzler-world-2013.json) |
 | Puzzler World XL | 84786 | [84786-puzzler-world-xl.json](./84786-puzzler-world-xl.json) |
