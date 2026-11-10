@@ -4710,6 +4710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Eater | 289431 | [289431-life-eater.json](./289431-life-eater.json) |
 | Life ed | 118596 | [118596-life-ed.json](./118596-life-ed.json) |
 | Life Effect | 236763 | [236763-life-effect.json](./236763-life-effect.json) |
+| Life Effect Survival | 397473 | [397473-life-effect-survival.json](./397473-life-effect-survival.json) |
 | Life Eternal | 225235 | [225235-life-eternal.json](./225235-life-eternal.json) |
 | Life Finds A Way | 152622 | [152622-life-finds-a-way.json](./152622-life-finds-a-way.json) |
 | Life Force | 261899 | [261899-life-force.json](./261899-life-force.json) |
