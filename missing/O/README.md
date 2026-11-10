@@ -2397,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Goal Spirit | 80493 | [80493-one-goal-spirit.json](./80493-one-goal-spirit.json) |
 | One Got in the House | 179882 | [179882-one-got-in-the-house.json](./179882-one-got-in-the-house.json) |
 | One Gun 2: Stickman | 126908 | [126908-one-gun-2-stickman.json](./126908-one-gun-2-stickman.json) |
+| One Gun Army | 423643 | [423643-one-gun-army.json](./423643-one-gun-army.json) |
 | One Gun: Cat | 106908 | [106908-one-gun-cat.json](./106908-one-gun-cat.json) |
 | One Hand Samurai | 140893 | [140893-one-hand-samurai.json](./140893-one-hand-samurai.json) |
 | One Handed | 212205 | [212205-one-handed.json](./212205-one-handed.json) |
