@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Time Machine | 96843 | [96843-papas-time-machine.json](./96843-papas-time-machine.json) |
 | Papa's Wingeria | 130765 | [130765-papas-wingeria.json](./130765-papas-wingeria.json) |
 | Papa's Wingeria HD | 88960 | [88960-papas-wingeria-hd.json](./88960-papas-wingeria-hd.json) |
+| Papabile | 420058 | [420058-papabile.json](./420058-papabile.json) |
 | Papair | 57148 | [57148-papair.json](./57148-papair.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
 | Paparazzi | 100038 | [100038-paparazzi.json](./100038-paparazzi.json) |
@@ -8632,6 +8633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Pirates | 53460 | [53460-pixel-pirates.json](./53460-pixel-pirates.json) |
 | Pixel Pixie | 312770 | [312770-pixel-pixie.json](./312770-pixel-pixie.json) |
 | Pixel Place | 363176 | [363176-pixel-place.json](./363176-pixel-place.json) |
+| Pixel Planet Survivor | 420065 | [420065-pixel-planet-survivor.json](./420065-pixel-planet-survivor.json) |
 | Pixel Playground | 304437 | [304437-pixel-playground.json](./304437-pixel-playground.json) |
 | Pixel Poops | 157054 | [157054-pixel-poops.json](./157054-pixel-poops.json) |
 | Pixel Poops: Number Two | 143480 | [143480-pixel-poops-number-two.json](./143480-pixel-poops-number-two.json) |
@@ -13966,6 +13968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potions & Emotions | 264683 | [264683-potions-and-emotions.json](./264683-potions-and-emotions.json) |
 | Potions Galore | 421863 | [421863-potions-galore.json](./421863-potions-galore.json) |
 | Potions of Veldenkeep | 367000 | [367000-potions-of-veldenkeep.json](./367000-potions-of-veldenkeep.json) |
+| Potions Tidy | 420028 | [420028-potions-tidy.json](./420028-potions-tidy.json) |
 | Potions War | 201802 | [201802-potions-war.json](./201802-potions-war.json) |
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
 | Potions, Please! | 381186 | [381186-potions-please.json](./381186-potions-please.json) |
