@@ -2758,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Tennis: World Tour | 22312 | [22312-virtua-tennis-world-tour.json](./22312-virtua-tennis-world-tour.json) |
 | Virtua Unlimited Project | 206432 | [206432-virtua-unlimited-project.json](./206432-virtua-unlimited-project.json) |
 | Virtua Volleyball | 195122 | [195122-virtua-volleyball.json](./195122-virtua-volleyball.json) |
+| Virtuacall 2 | 428372 | [428372-virtuacall-2.json](./428372-virtuacall-2.json) |
 | Virtuacall S | 131239 | [131239-virtuacall-s.json](./131239-virtuacall-s.json) |
 | VirtuaCreature | 105689 | [105689-virtuacreature.json](./105689-virtuacreature.json) |
 | Virtual ABC Journey | 367676 | [367676-virtual-abc-journey.json](./367676-virtual-abc-journey.json) |
