@@ -14635,6 +14635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arm Wrestling | 38517 | [38517-arm-wrestling.json](./38517-arm-wrestling.json) |
 | Arm Wrestling Clicker | 231983 | [231983-arm-wrestling-clicker.json](./231983-arm-wrestling-clicker.json) |
 | Arm Wrestling Reborn | 190004 | [190004-arm-wrestling-reborn.json](./190004-arm-wrestling-reborn.json) |
+| ARM: Planetary Prospectors Asteroid Resource Mining | 19051 | [19051-arm-planetary-prospectors-asteroid-resource-mining.json](./19051-arm-planetary-prospectors-asteroid-resource-mining.json) |
 | Arma 2: Army of the Czech Republic | 15869 | [15869-arma-2-army-of-the-czech-republic.json](./15869-arma-2-army-of-the-czech-republic.json) |
 | Arma 2: British Armed Forces | 15867 | [15867-arma-2-british-armed-forces.json](./15867-arma-2-british-armed-forces.json) |
 | Arma 2: Combined Operations | 24314 | [24314-arma-2-combined-operations.json](./24314-arma-2-combined-operations.json) |
@@ -15663,6 +15664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent Spirit | 84073 | [84073-ascent-spirit.json](./84073-ascent-spirit.json) |
 | Ascent: Crash Landing | 109365 | [109365-ascent-crash-landing.json](./109365-ascent-crash-landing.json) |
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
+| Ascent: The Space Game | 18794 | [18794-ascent-the-space-game.json](./18794-ascent-the-space-game.json) |
 | Ascention Suvivor | 364960 | [364960-ascention-suvivor.json](./364960-ascention-suvivor.json) |
 | Ascentroid | 137916 | [137916-ascentroid.json](./137916-ascentroid.json) |
 | Ascenxion | 117247 | [117247-ascenxion.json](./117247-ascenxion.json) |
@@ -17590,7 +17592,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -18830,6 +18831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aventuras na Selva | 215309 | [215309-aventuras-na-selva.json](./215309-aventuras-na-selva.json) |
 | Avenue Escape | 390485 | [390485-avenue-escape.json](./390485-avenue-escape.json) |
 | Avenue Flo | 18878 | [18878-avenue-flo.json](./18878-avenue-flo.json) |
+| Avenue Flo: Special Delivery | 18887 | [18887-avenue-flo-special-delivery.json](./18887-avenue-flo-special-delivery.json) |
 | Average Human Ball Game | 349368 | [349368-average-human-ball-game.json](./349368-average-human-ball-game.json) |
 | Average Maria Individual | 293891 | [293891-average-maria-individual.json](./293891-average-maria-individual.json) |
 | Average Routine | 387671 | [387671-average-routine.json](./387671-average-routine.json) |
@@ -19165,6 +19167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axelay | 6570 | [6570-axelay.json](./6570-axelay.json) |
 | Axembler | 265484 | [265484-axembler.json](./265484-axembler.json) |
 | Axes | 140967 | [140967-axes.json](./140967-axes.json) |
+| Axes and Acres | 18827 | [18827-axes-and-acres.json](./18827-axes-and-acres.json) |
 | Axes and Arrows | 34355 | [34355-axes-and-arrows.json](./34355-axes-and-arrows.json) |
 | AxeSlinger | 382299 | [382299-axeslinger.json](./382299-axeslinger.json) |
 | Axet | 14497 | [14497-axet.json](./14497-axet.json) |
