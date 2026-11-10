@@ -11153,6 +11153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune Street | 19930 | [19930-fortune-street.json](./19930-fortune-street.json) |
 | Fortune Street 2: Rolling Again | 283405 | [283405-fortune-street-2-rolling-again.json](./283405-fortune-street-2-rolling-again.json) |
 | Fortune Street Smart | 64398 | [64398-fortune-street-smart.json](./64398-fortune-street-smart.json) |
+| Fortune Summoners Special Edition | 411951 | [411951-fortune-summoners-special-edition.json](./411951-fortune-summoners-special-edition.json) |
 | Fortune Teller Simulator | 388385 | [388385-fortune-teller-simulator.json](./388385-fortune-teller-simulator.json) |
 | Fortune Telling | 121042 | [121042-fortune-telling.json](./121042-fortune-telling.json) |
 | Fortune Telling A | 354388 | [354388-fortune-telling-a.json](./354388-fortune-telling-a.json) |
@@ -11661,6 +11662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FPV Kamikaze Drone Simulator | 372972 | [372972-fpv-kamikaze-drone-simulator.json](./372972-fpv-kamikaze-drone-simulator.json) |
 | FPV Logic | 255248 | [255248-fpv-logic.json](./255248-fpv-logic.json) |
 | FPV Military Kamikaze Drone Simulator | 312438 | [312438-fpv-military-kamikaze-drone-simulator.json](./312438-fpv-military-kamikaze-drone-simulator.json) |
+| FPV PVP | 411913 | [411913-fpv-pvp.json](./411913-fpv-pvp.json) |
 | FPV Simulator | 192407 | [192407-fpv-simulator.json](./192407-fpv-simulator.json) |
 | FPV SkyDive: FPV Drone Simulator - Flight School | 276418 | [276418-fpv-skydive-fpv-drone-simulator-flight-school.json](./276418-fpv-skydive-fpv-drone-simulator-flight-school.json) |
 | FPV Speed Drone | 157913 | [157913-fpv-speed-drone.json](./157913-fpv-speed-drone.json) |
