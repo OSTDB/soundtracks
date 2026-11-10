@@ -8159,6 +8159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RiQa | 176034 | [176034-riqa.json](./176034-riqa.json) |
 | Riri & Coco | 240560 | [240560-riri-and-coco.json](./240560-riri-and-coco.json) |
 | Riri: Origin of Surabaya | 293341 | [293341-riri-origin-of-surabaya.json](./293341-riri-origin-of-surabaya.json) |
+| Riria | 421170 | [421170-riria.json](./421170-riria.json) |
 | Ririka von Lustveil | 398912 | [398912-ririka-von-lustveil.json](./398912-ririka-von-lustveil.json) |
 | Riruka ha Ikue ni Yoru wo Irodoru | 375368 | [375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json](./375368-riruka-ha-ikue-ni-yoru-wo-irodoru.json) |
 | Riruri Tachibana: Reincarnated | 373575 | [373575-riruri-tachibana-reincarnated.json](./373575-riruri-tachibana-reincarnated.json) |
@@ -11781,6 +11782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rotating Puzzle | 358736 | [358736-rotating-puzzle.json](./358736-rotating-puzzle.json) |
 | Rotating Roads | 307761 | [307761-rotating-roads.json](./307761-rotating-roads.json) |
 | Rotation | 117472 | [117472-rotation.json](./117472-rotation.json) |
+| Rotation Girl | 421248 | [421248-rotation-girl.json](./421248-rotation-girl.json) |
 | Rotation Phonology: Break | 26843 | [26843-rotation-phonology-break.json](./26843-rotation-phonology-break.json) |
 | Rotational | 331182 | [331182-rotational.json](./331182-rotational.json) |
 | Rotational Golf | 176152 | [176152-rotational-golf.json](./176152-rotational-golf.json) |
