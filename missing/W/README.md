@@ -5978,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander Arena | 23131 | [23131-wing-commander-arena.json](./23131-wing-commander-arena.json) |
 | Wing Commander II: Deluxe Edition | 51373 | [51373-wing-commander-ii-deluxe-edition.json](./51373-wing-commander-ii-deluxe-edition.json) |
 | Wing Commander II: Speech Accessory Pack | 77320 | [77320-wing-commander-ii-speech-accessory-pack.json](./77320-wing-commander-ii-speech-accessory-pack.json) |
+| Wing Commander II: Vengeance of the Kilrathi | 940 | [940-wing-commander-ii-vengeance-of-the-kilrathi.json](./940-wing-commander-ii-vengeance-of-the-kilrathi.json) |
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 1 | 50170 | [50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json](./50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json) |
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 2 | 50169 | [50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json](./50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json) |
 | Wing Commander IV: The Price of Freedom | 200423 | [200423-wing-commander-iv-the-price-of-freedom.json](./200423-wing-commander-iv-the-price-of-freedom.json) |
@@ -8798,6 +8799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Soccer Winning Eleven 2010: Aoki Samurai no Chousen | 220958 | [220958-world-soccer-winning-eleven-2010-aoki-samurai-no-chousen.json](./220958-world-soccer-winning-eleven-2010-aoki-samurai-no-chousen.json) |
 | World Soccer Winning Eleven 2014: Aoki Samurai no Chousen | 220962 | [220962-world-soccer-winning-eleven-2014-aoki-samurai-no-chousen.json](./220962-world-soccer-winning-eleven-2014-aoki-samurai-no-chousen.json) |
 | World Soccer Winning Eleven 5: Final Evolution | 167999 | [167999-world-soccer-winning-eleven-5-final-evolution.json](./167999-world-soccer-winning-eleven-5-final-evolution.json) |
+| World Soccer Winning Eleven 6: Final Evolution | 14733 | [14733-world-soccer-winning-eleven-6-final-evolution.json](./14733-world-soccer-winning-eleven-6-final-evolution.json) |
 | World Soccer Winning Eleven 9 | 220947 | [220947-world-soccer-winning-eleven-9.json](./220947-world-soccer-winning-eleven-9.json) |
 | World Soccer Winning Eleven 9: Liveware Evolution | 220949 | [220949-world-soccer-winning-eleven-9-liveware-evolution.json](./220949-world-soccer-winning-eleven-9-liveware-evolution.json) |
 | World Soccer Winning Eleven Arcade Championship 2008 | 220992 | [220992-world-soccer-winning-eleven-arcade-championship-2008.json](./220992-world-soccer-winning-eleven-arcade-championship-2008.json) |
@@ -9761,6 +9763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K24: Post Malone & Friends Pack | 322712 | [322712-wwe-2k24-post-malone-and-friends-pack.json](./322712-wwe-2k24-post-malone-and-friends-pack.json) |
 | WWE 2K24: Season Pass | 289352 | [289352-wwe-2k24-season-pass.json](./289352-wwe-2k24-season-pass.json) |
 | WWE 2K24: WCW Pack | 332033 | [332033-wwe-2k24-wcw-pack.json](./332033-wwe-2k24-wcw-pack.json) |
+| WWE 2K25 | 329690 | [329690-wwe-2k25.json](./329690-wwe-2k25.json) |
 | WWE 2K25: Attitude Era Superstars Pack | 366790 | [366790-wwe-2k25-attitude-era-superstars-pack.json](./366790-wwe-2k25-attitude-era-superstars-pack.json) |
 | WWE 2K25: Deadman Edition | 335095 | [335095-wwe-2k25-deadman-edition.json](./335095-wwe-2k25-deadman-edition.json) |
 | WWE 2K25: Deadman Edition Bonus Pack | 353986 | [353986-wwe-2k25-deadman-edition-bonus-pack.json](./353986-wwe-2k25-deadman-edition-bonus-pack.json) |
