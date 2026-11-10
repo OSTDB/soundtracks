@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelenhgorm: Episode I - Land of the Blue Moon | 21499 | [21499-zelenhgorm-episode-i-land-of-the-blue-moon.json](./21499-zelenhgorm-episode-i-land-of-the-blue-moon.json) |
 | Zelensky vs Poroshenko: The Destiny of Ukraine | 371931 | [371931-zelensky-vs-poroshenko-the-destiny-of-ukraine.json](./371931-zelensky-vs-poroshenko-the-destiny-of-ukraine.json) |
 | Zeliard | 2409 | [2409-zeliard.json](./2409-zeliard.json) |
+| Zeliria Sanctuary | 106390 | [106390-zeliria-sanctuary.json](./106390-zeliria-sanctuary.json) |
 | Zeliria Sanctuary II: Xinori Asylum | 161504 | [161504-zeliria-sanctuary-ii-xinori-asylum.json](./161504-zeliria-sanctuary-ii-xinori-asylum.json) |
 | Zeliria Sanctuary: Isle's Memories | 170772 | [170772-zeliria-sanctuary-isles-memories.json](./170772-zeliria-sanctuary-isles-memories.json) |
 | Zella's Gun | 412572 | [412572-zellas-gun.json](./412572-zellas-gun.json) |
@@ -1624,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Blocks: Pixel Shooter Gun | 328086 | [328086-zombie-blocks-pixel-shooter-gun.json](./328086-zombie-blocks-pixel-shooter-gun.json) |
 | Zombie Bloxx | 75584 | [75584-zombie-bloxx.json](./75584-zombie-bloxx.json) |
 | Zombie Boom | 31608 | [31608-zombie-boom.json](./31608-zombie-boom.json) |
+| Zombie Bowl-O-Rama | 9308 | [9308-zombie-bowl-o-rama.json](./9308-zombie-bowl-o-rama.json) |
 | Zombie Bowl-O-Rama HD | 175226 | [175226-zombie-bowl-o-rama-hd.json](./175226-zombie-bowl-o-rama-hd.json) |
 | Zombie Brains | 233040 | [233040-zombie-brains.json](./233040-zombie-brains.json) |
 | Zombie Breakdown | 230900 | [230900-zombie-breakdown.json](./230900-zombie-breakdown.json) |
@@ -2365,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Dentist: Extended Edition | 199932 | [199932-zoo-dentist-extended-edition.json](./199932-zoo-dentist-extended-edition.json) |
 | Zoo Disc Golf | 59039 | [59039-zoo-disc-golf.json](./59039-zoo-disc-golf.json) |
 | Zoo Economy | 139608 | [139608-zoo-economy.json](./139608-zoo-economy.json) |
+| Zoo Empire | 9294 | [9294-zoo-empire.json](./9294-zoo-empire.json) |
 | Zoo Explorers | 170026 | [170026-zoo-explorers.json](./170026-zoo-explorers.json) |
 | Zoo Farm | 103738 | [103738-zoo-farm.json](./103738-zoo-farm.json) |
 | Zoo Frenzy | 66891 | [66891-zoo-frenzy.json](./66891-zoo-frenzy.json) |
