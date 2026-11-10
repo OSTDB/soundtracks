@@ -13767,6 +13767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimum Wage: Influence the Election | 169580 | [169580-minimum-wage-influence-the-election.json](./169580-minimum-wage-influence-the-election.json) |
 | MiniNatura | 185243 | [185243-mininatura.json](./185243-mininatura.json) |
 | Mining | 341240 | [341240-mining.json](./341240-mining.json) |
+| Mining & Tunneling Simulator | 10552 | [10552-mining-and-tunneling-simulator.json](./10552-mining-and-tunneling-simulator.json) |
 | Mining And Achievements | 370179 | [370179-mining-and-achievements.json](./370179-mining-and-achievements.json) |
 | Mining and Dwarves | 405321 | [405321-mining-and-dwarves.json](./405321-mining-and-dwarves.json) |
 | Mining Away! | 408242 | [408242-mining-away.json](./408242-mining-away.json) |
@@ -17011,6 +17012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Championship: Rebel Hunter Edition | 164784 | [164784-monster-truck-championship-rebel-hunter-edition.json](./164784-monster-truck-championship-rebel-hunter-edition.json) |
 | Monster Truck Demolition | 106910 | [106910-monster-truck-demolition.json](./106910-monster-truck-demolition.json) |
 | Monster Truck Demolition Derby | 394803 | [394803-monster-truck-demolition-derby.json](./394803-monster-truck-demolition-derby.json) |
+| Monster Truck Destruction | 10553 | [10553-monster-truck-destruction.json](./10553-monster-truck-destruction.json) |
 | Monster Truck Doodle | 102633 | [102633-monster-truck-doodle.json](./102633-monster-truck-doodle.json) |
 | Monster Truck Drive | 96518 | [96518-monster-truck-drive.json](./96518-monster-truck-drive.json) |
 | Monster Truck Freestyle | 283279 | [283279-monster-truck-freestyle.json](./283279-monster-truck-freestyle.json) |
@@ -23327,6 +23329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths are 100% True | 307806 | [307806-myths-are-100-true.json](./307806-myths-are-100-true.json) |
 | Myths of Gallantium | 193244 | [193244-myths-of-gallantium.json](./193244-myths-of-gallantium.json) |
 | Myths of Moonrise | 214170 | [214170-myths-of-moonrise.json](./214170-myths-of-moonrise.json) |
+| Myths of Orion: Light from the North | 10578 | [10578-myths-of-orion-light-from-the-north.json](./10578-myths-of-orion-light-from-the-north.json) |
 | Myths of Rules | 262452 | [262452-myths-of-rules.json](./262452-myths-of-rules.json) |
 | Myths of Switzerland | 370429 | [370429-myths-of-switzerland.json](./370429-myths-of-switzerland.json) |
 | Myths of the World: Behind the Veil | 140241 | [140241-myths-of-the-world-behind-the-veil.json](./140241-myths-of-the-world-behind-the-veil.json) |
