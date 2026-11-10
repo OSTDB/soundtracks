@@ -7464,6 +7464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien: Isolation - The Trigger | 15554 | [15554-alien-isolation-the-trigger.json](./15554-alien-isolation-the-trigger.json) |
 | Alien: Isolation - Trauma | 15553 | [15553-alien-isolation-trauma.json](./15553-alien-isolation-trauma.json) |
 | Alien: Isolation 2 | 319082 | [319082-alien-isolation-2.json](./319082-alien-isolation-2.json) |
+| Alien: Isolation GRAND-MotherVR | 409913 | [409913-alien-isolation-grand-mothervr.json](./409913-alien-isolation-grand-mothervr.json) |
 | Alien: Rogue Incursion | 299582 | [299582-alien-rogue-incursion.json](./299582-alien-rogue-incursion.json) |
 | Alien: Rogue Incursion Evolved Edition | 342923 | [342923-alien-rogue-incursion-evolved-edition.json](./342923-alien-rogue-incursion-evolved-edition.json) |
 | Alien's Armageddon | 167524 | [167524-aliens-armageddon.json](./167524-aliens-armageddon.json) |
