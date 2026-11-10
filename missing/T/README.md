@@ -2723,6 +2723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Force Harrier | 40248 | [40248-task-force-harrier.json](./40248-task-force-harrier.json) |
 | Task Force Harrier EX | 46599 | [46599-task-force-harrier-ex.json](./46599-task-force-harrier-ex.json) |
 | Task Force Kampas | 117141 | [117141-task-force-kampas.json](./117141-task-force-kampas.json) |
+| Task Force Ranger: Breakpoint | 409929 | [409929-task-force-ranger-breakpoint.json](./409929-task-force-ranger-breakpoint.json) |
 | Task III | 55150 | [55150-task-iii.json](./55150-task-iii.json) |
 | Task is to Survive | 74637 | [74637-task-is-to-survive.json](./74637-task-is-to-survive.json) |
 | Task Men | 160095 | [160095-task-men.json](./160095-task-men.json) |
@@ -13081,6 +13082,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Fireball: Beasts Edition | 411182 | [411182-the-legend-of-fireball-beasts-edition.json](./411182-the-legend-of-fireball-beasts-edition.json) |
 | The Legend of Fireball: Complete Edition | 409982 | [409982-the-legend-of-fireball-complete-edition.json](./409982-the-legend-of-fireball-complete-edition.json) |
 | The Legend of Fireball: Gem Vault Edition | 409984 | [409984-the-legend-of-fireball-gem-vault-edition.json](./409984-the-legend-of-fireball-gem-vault-edition.json) |
+| The Legend of Fireball: Griffith DLC | 409946 | [409946-the-legend-of-fireball-griffith-dlc.json](./409946-the-legend-of-fireball-griffith-dlc.json) |
+| The Legend of Fireball: Rath DLC | 409945 | [409945-the-legend-of-fireball-rath-dlc.json](./409945-the-legend-of-fireball-rath-dlc.json) |
 | The Legend of Fjarri | 153369 | [153369-the-legend-of-fjarri.json](./153369-the-legend-of-fjarri.json) |
 | The Legend of Gallia | 66557 | [66557-the-legend-of-gallia.json](./66557-the-legend-of-gallia.json) |
 | The Legend of Gandar | 197531 | [197531-the-legend-of-gandar.json](./197531-the-legend-of-gandar.json) |
@@ -33843,6 +33846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsumi | 115927 | [115927-tsumi.json](./115927-tsumi.json) |
 | Tsumi no Hikari Rendez-vous | 327546 | [327546-tsumi-no-hikari-rendez-vous.json](./327546-tsumi-no-hikari-rendez-vous.json) |
 | Tsumi no Hikari Rendezvous | 335581 | [335581-tsumi-no-hikari-rendezvous.json](./335581-tsumi-no-hikari-rendezvous.json) |
+| Tsumi no Hikari Rendezvous: Mikan Blossom | 409825 | [409825-tsumi-no-hikari-rendezvous-mikan-blossom.json](./409825-tsumi-no-hikari-rendezvous-mikan-blossom.json) |
 | Tsumige Shoujo | 278807 | [278807-tsumige-shoujo.json](./278807-tsumige-shoujo.json) |
 | Tsumiki: Block Drop Mania | 60187 | [60187-tsumiki-block-drop-mania.json](./60187-tsumiki-block-drop-mania.json) |
 | Tsumiki: The Infernal Tower | 124107 | [124107-tsumiki-the-infernal-tower.json](./124107-tsumiki-the-infernal-tower.json) |
