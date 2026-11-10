@@ -12704,6 +12704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fritz Chess 10 | 25429 | [25429-fritz-chess-10.json](./25429-fritz-chess-10.json) |
 | Fritz Chess 13 | 25054 | [25054-fritz-chess-13.json](./25054-fritz-chess-13.json) |
 | Fritz Chess 14 | 17050 | [17050-fritz-chess-14.json](./17050-fritz-chess-14.json) |
+| Fritz Chess 16: Steam Edition | 95148 | [95148-fritz-chess-16-steam-edition.json](./95148-fritz-chess-16-steam-edition.json) |
 | Fritz Chess 17 Steam Edition | 162708 | [162708-fritz-chess-17-steam-edition.json](./162708-fritz-chess-17-steam-edition.json) |
 | Fritz Chess Twelfth Edition | 209576 | [209576-fritz-chess-twelfth-edition.json](./209576-fritz-chess-twelfth-edition.json) |
 | Fritz Chess: Grandmaster 11 | 209573 | [209573-fritz-chess-grandmaster-11.json](./209573-fritz-chess-grandmaster-11.json) |
