@@ -3871,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screens Up by Nickelodeon | 105974 | [105974-screens-up-by-nickelodeon.json](./105974-screens-up-by-nickelodeon.json) |
 | Screensaver Battle | 328739 | [328739-screensaver-battle.json](./328739-screensaver-battle.json) |
 | Screensavers VR | 400373 | [400373-screensavers-vr.json](./400373-screensavers-vr.json) |
+| Screenside Fisher | 419423 | [419423-screenside-fisher.json](./419423-screenside-fisher.json) |
 | Screenside Station | 349089 | [349089-screenside-station.json](./349089-screenside-station.json) |
 | Screeps: Arena | 121571 | [121571-screeps-arena.json](./121571-screeps-arena.json) |
 | Screeps: World | 25903 | [25903-screeps-world.json](./25903-screeps-world.json) |
@@ -4274,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Stars | 131890 | [131890-sea-of-stars.json](./131890-sea-of-stars.json) |
 | Sea of Stars: Dawn of Equinox | 318389 | [318389-sea-of-stars-dawn-of-equinox.json](./318389-sea-of-stars-dawn-of-equinox.json) |
 | Sea of Stars: Early Backer Limited Edition | 283826 | [283826-sea-of-stars-early-backer-limited-edition.json](./283826-sea-of-stars-early-backer-limited-edition.json) |
+| Sea of Stars: Sunset Edition | 419437 | [419437-sea-of-stars-sunset-edition.json](./419437-sea-of-stars-sunset-edition.json) |
 | Sea of Stars: Throes of the Watchmaker | 314929 | [314929-sea-of-stars-throes-of-the-watchmaker.json](./314929-sea-of-stars-throes-of-the-watchmaker.json) |
 | Sea of Survivors | 244841 | [244841-sea-of-survivors.json](./244841-sea-of-survivors.json) |
 | Sea of Thieves: 2024 Deluxe Bundle | 298029 | [298029-sea-of-thieves-2024-deluxe-bundle.json](./298029-sea-of-thieves-2024-deluxe-bundle.json) |
@@ -10183,6 +10185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroom & Doom | 256911 | [256911-shroom-and-doom.json](./256911-shroom-and-doom.json) |
 | Shroom and Gloom | 344797 | [344797-shroom-and-gloom.json](./344797-shroom-and-gloom.json) |
 | Shroom and Gloom: Jam Version | 191809 | [191809-shroom-and-gloom-jam-version.json](./191809-shroom-and-gloom-jam-version.json) |
+| Shroom Bound | 419456 | [419456-shroom-bound.json](./419456-shroom-bound.json) |
 | Shroom Editor | 320235 | [320235-shroom-editor.json](./320235-shroom-editor.json) |
 | Shroom Keeper | 258616 | [258616-shroom-keeper.json](./258616-shroom-keeper.json) |
 | Shroom Siege | 247811 | [247811-shroom-siege.json](./247811-shroom-siege.json) |
@@ -12925,6 +12928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skillful Pixel Dungeon | 312607 | [312607-skillful-pixel-dungeon.json](./312607-skillful-pixel-dungeon.json) |
 | SkillGrid | 117881 | [117881-skillgrid.json](./117881-skillgrid.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
+| Skillhead | 419434 | [419434-skillhead.json](./419434-skillhead.json) |
 | SkillQuest | 101861 | [101861-skillquest.json](./101861-skillquest.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
 | Skills Hockey VR | 29431 | [29431-skills-hockey-vr.json](./29431-skills-hockey-vr.json) |
@@ -20152,6 +20156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Agency 2138 | 223622 | [223622-space-agency-2138.json](./223622-space-agency-2138.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
 | Space Agent: 8 Artifacts | 158521 | [158521-space-agent-8-artifacts.json](./158521-space-agent-8-artifacts.json) |
+| Space Agressor | 419461 | [419461-space-agressor.json](./419461-space-agressor.json) |
 | Space Alien | 365597 | [365597-space-alien.json](./365597-space-alien.json) |
 | Space Alien Hangar | 360731 | [360731-space-alien-hangar.json](./360731-space-alien-hangar.json) |
 | Space Aliens Invaders | 147641 | [147641-space-aliens-invaders.json](./147641-space-aliens-invaders.json) |
@@ -26155,6 +26160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbase Gunship | 192772 | [192772-starbase-gunship.json](./192772-starbase-gunship.json) |
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
 | Starbase Orion | 63039 | [63039-starbase-orion.json](./63039-starbase-orion.json) |
+| Starbase Raiders | 419468 | [419468-starbase-raiders.json](./419468-starbase-raiders.json) |
 | StarbaseSim | 315319 | [315319-starbasesim.json](./315319-starbasesim.json) |
 | Starbear: Taxi | 100415 | [100415-starbear-taxi.json](./100415-starbear-taxi.json) |
 | Starbeard | 313952 | [313952-starbeard.json](./313952-starbeard.json) |
@@ -28980,6 +28986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded On An Island | 285944 | [285944-stranded-on-an-island.json](./285944-stranded-on-an-island.json) |
 | Stranded Raft Survival | 88932 | [88932-stranded-raft-survival.json](./88932-stranded-raft-survival.json) |
 | Stranded Raft Survival 2018 | 87466 | [87466-stranded-raft-survival-2018.json](./87466-stranded-raft-survival-2018.json) |
+| Stranded Rescue | 419432 | [419432-stranded-rescue.json](./419432-stranded-rescue.json) |
 | Stranded Sails | 112344 | [112344-stranded-sails.json](./112344-stranded-sails.json) |
 | Stranded Shootout | 291787 | [291787-stranded-shootout.json](./291787-stranded-shootout.json) |
 | Stranded Survival | 58938 | [58938-stranded-survival.json](./58938-stranded-survival.json) |
@@ -37364,6 +37371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Dimacreation: Side Story 2 - Triangle Christmas Chrityous | 97520 | [97520-sword-of-the-dimacreation-side-story-2-triangle-christmas-chrityous.json](./97520-sword-of-the-dimacreation-side-story-2-triangle-christmas-chrityous.json) |
 | Sword of the Dimacreation: Side Story 3 - The Last, But Never End | 97517 | [97517-sword-of-the-dimacreation-side-story-3-the-last-but-never-end.json](./97517-sword-of-the-dimacreation-side-story-3-the-last-but-never-end.json) |
 | Sword of the Guardian | 96414 | [96414-sword-of-the-guardian.json](./96414-sword-of-the-guardian.json) |
+| Sword of the Last Second | 419433 | [419433-sword-of-the-last-second.json](./419433-sword-of-the-last-second.json) |
 | Sword of the Necromancer | 125885 | [125885-sword-of-the-necromancer.json](./125885-sword-of-the-necromancer.json) |
 | Sword of the Necromancer: Resurrection | 290642 | [290642-sword-of-the-necromancer-resurrection.json](./290642-sword-of-the-necromancer-resurrection.json) |
 | Sword of the Necromancer: Revenant | 228280 | [228280-sword-of-the-necromancer-revenant.json](./228280-sword-of-the-necromancer-revenant.json) |
