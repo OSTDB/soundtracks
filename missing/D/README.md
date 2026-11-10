@@ -9169,6 +9169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Rollers | 142273 | [142273-dice-rollers.json](./142273-dice-rollers.json) |
 | Dice Saga | 364964 | [364964-dice-saga.json](./364964-dice-saga.json) |
 | Dice Soccer City | 248277 | [248277-dice-soccer-city.json](./248277-dice-soccer-city.json) |
+| Dice Sorcerer | 408456 | [408456-dice-sorcerer.json](./408456-dice-sorcerer.json) |
 | Dice Strategy | 319742 | [319742-dice-strategy.json](./319742-dice-strategy.json) |
 | Dice Survivor | 240603 | [240603-dice-survivor.json](./240603-dice-survivor.json) |
 | Dice Tactics | 166900 | [166900-dice-tactics.json](./166900-dice-tactics.json) |
@@ -12297,6 +12298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DodgeBall: Unleashed | 130071 | [130071-dodgeball-unleashed.json](./130071-dodgeball-unleashed.json) |
 | DodgeBlock | 172420 | [172420-dodgeblock.json](./172420-dodgeblock.json) |
 | Dodgebrawl | 403171 | [403171-dodgebrawl.json](./403171-dodgebrawl.json) |
+| Dodgecore | 408450 | [408450-dodgecore.json](./408450-dodgecore.json) |
 | DodgeCraft | 325101 | [325101-dodgecraft.json](./325101-dodgecraft.json) |
 | Dodgekill | 345687 | [345687-dodgekill.json](./345687-dodgekill.json) |
 | DodgeKing | 213989 | [213989-dodgeking.json](./213989-dodgeking.json) |
@@ -14038,6 +14040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomium II | 305806 | [305806-doomium-ii.json](./305806-doomium-ii.json) |
 | Doomkid | 259434 | [259434-doomkid.json](./259434-doomkid.json) |
 | Doomkid's Mega! | 262998 | [262998-doomkids-mega.json](./262998-doomkids-mega.json) |
+| DoomMapGuessr | 408375 | [408375-doommapguessr.json](./408375-doommapguessr.json) |
 | Doomori | 182208 | [182208-doomori.json](./182208-doomori.json) |
 | Doomori: Eternal | 191364 | [191364-doomori-eternal.json](./191364-doomori-eternal.json) |
 | DOOMpad | 246907 | [246907-doompad.json](./246907-doompad.json) |
@@ -14128,6 +14131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Door XP | 178956 | [178956-door-xp.json](./178956-door-xp.json) |
 | Door4: Ultimatum | 319686 | [319686-door4-ultimatum.json](./319686-door4-ultimatum.json) |
 | Doorbell Game! | 176728 | [176728-doorbell-game.json](./176728-doorbell-game.json) |
+| Doorcrash! | 408457 | [408457-doorcrash.json](./408457-doorcrash.json) |
 | DoorDoor MK II | 138651 | [138651-doordoor-mk-ii.json](./138651-doordoor-mk-ii.json) |
 | Dooria | 158231 | [158231-dooria.json](./158231-dooria.json) |
 | Doorka | 346154 | [346154-doorka.json](./346154-doorka.json) |
@@ -14202,6 +14206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dopple Trouble | 181449 | [181449-dopple-trouble.json](./181449-dopple-trouble.json) |
 | Doppleganger | 13606 | [13606-doppleganger.json](./13606-doppleganger.json) |
 | Doppleganger | 393558 | [393558-doppleganger.json](./393558-doppleganger.json) |
+| Doppler | 408557 | [408557-doppler.json](./408557-doppler.json) |
 | Doppyun Donpisha | 230224 | [230224-doppyun-donpisha.json](./230224-doppyun-donpisha.json) |
 | Doptrix | 112069 | [112069-doptrix.json](./112069-doptrix.json) |
 | Dopusk 31 | 222315 | [222315-dopusk-31.json](./222315-dopusk-31.json) |
@@ -19979,6 +19984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durka Simulator | 236402 | [236402-durka-simulator.json](./236402-durka-simulator.json) |
 | Durlindana | 200233 | [200233-durlindana.json](./200233-durlindana.json) |
 | DURT | 285855 | [285855-durt.json](./285855-durt.json) |
+| Durt: Motocross Championship | 408444 | [408444-durt-motocross-championship.json](./408444-durt-motocross-championship.json) |
 | Duru: About Mole Rats and Depression | 138724 | [138724-duru-about-mole-rats-and-depression.json](./138724-duru-about-mole-rats-and-depression.json) |
 | Dǔshén zhī Mènghuàn Poker | 128864 | [128864-dushen-zhi-menghuan-poker.json](./128864-dushen-zhi-menghuan-poker.json) |
 | Dūshì Kǒngbù Gùshì | 116312 | [116312-dushi-kongbu-gushi.json](./116312-dushi-kongbu-gushi.json) |
