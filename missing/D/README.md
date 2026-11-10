@@ -15825,6 +15825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fin Soup | 17377 | [17377-dragon-fin-soup.json](./17377-dragon-fin-soup.json) |
 | Dragon Finga | 403614 | [403614-dragon-finga.json](./403614-dragon-finga.json) |
 | Dragon Fire | 24844 | [24844-dragon-fire.json](./24844-dragon-fire.json) |
+| Dragon Fire Ice Melt | 397446 | [397446-dragon-fire-ice-melt.json](./397446-dragon-fire-ice-melt.json) |
 | Dragon Fishing | 339561 | [339561-dragon-fishing.json](./339561-dragon-fishing.json) |
 | Dragon Fist 2 | 234562 | [234562-dragon-fist-2.json](./234562-dragon-fist-2.json) |
 | Dragon Fist: VR Kung Fu | 156582 | [156582-dragon-fist-vr-kung-fu.json](./156582-dragon-fist-vr-kung-fu.json) |
