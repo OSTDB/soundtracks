@@ -6563,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Below Kryll | 35365 | [35365-below-kryll.json](./35365-below-kryll.json) |
 | Below Level | 304387 | [304387-below-level.json](./304387-below-level.json) |
 | Below Nowhere | 343824 | [343824-below-nowhere.json](./343824-below-nowhere.json) |
+| Below Sunshade | 123844 | [123844-below-sunshade.json](./123844-below-sunshade.json) |
 | Below Surface | 298110 | [298110-below-surface.json](./298110-below-surface.json) |
 | Below the Crown | 363946 | [363946-below-the-crown.json](./363946-below-the-crown.json) |
 | Below the Oak | 323584 | [323584-below-the-oak.json](./323584-below-the-oak.json) |
@@ -15373,6 +15374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brass | 68443 | [68443-brass.json](./68443-brass.json) |
 | Brass & Bramble | 371467 | [371467-brass-and-bramble.json](./371467-brass-and-bramble.json) |
 | Brass Bellow | 131958 | [131958-brass-bellow.json](./131958-brass-bellow.json) |
+| Brass Brigade | 123968 | [123968-brass-brigade.json](./123968-brass-brigade.json) |
 | Brass Lament | 343277 | [343277-brass-lament.json](./343277-brass-lament.json) |
 | Brass Necessity | 292324 | [292324-brass-necessity.json](./292324-brass-necessity.json) |
 | Brass Rain | 373836 | [373836-brass-rain.json](./373836-brass-rain.json) |
