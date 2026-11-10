@@ -6909,6 +6909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow and Darkness | 301286 | [301286-shadow-and-darkness.json](./301286-shadow-and-darkness.json) |
 | Shadow and Flame | 319741 | [319741-shadow-and-flame.json](./319741-shadow-and-flame.json) |
 | Shadow Angel | 202627 | [202627-shadow-angel.json](./202627-shadow-angel.json) |
+| Shadow Archer | 84856 | [84856-shadow-archer.json](./84856-shadow-archer.json) |
 | Shadow Archer Special | 214452 | [214452-shadow-archer-special.json](./214452-shadow-archer-special.json) |
 | Shadow Archery | 96276 | [96276-shadow-archery.json](./96276-shadow-archery.json) |
 | Shadow Arena | 125357 | [125357-shadow-arena.json](./125357-shadow-arena.json) |
@@ -7615,6 +7616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Kid | 38571 | [38571-shanghai-kid.json](./38571-shanghai-kid.json) |
 | Shanghai Legend | 278201 | [278201-shanghai-legend.json](./278201-shanghai-legend.json) |
 | Shanghai Mahjong | 205088 | [205088-shanghai-mahjong.json](./205088-shanghai-mahjong.json) |
+| Shanghai Mahjong | 84854 | [84854-shanghai-mahjong.json](./84854-shanghai-mahjong.json) |
 | Shanghai Mahjong Solitaire Premium II | 323112 | [323112-shanghai-mahjong-solitaire-premium-ii.json](./323112-shanghai-mahjong-solitaire-premium-ii.json) |
 | Shanghai Musume: Mahjong Girls | 58523 | [58523-shanghai-musume-mahjong-girls.json](./58523-shanghai-musume-mahjong-girls.json) |
 | Shanghai Office Simulator | 137203 | [137203-shanghai-office-simulator.json](./137203-shanghai-office-simulator.json) |
@@ -10263,6 +10265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shǔshān: Chū Zhāng Zhèngshì Bǎn | 368575 | [368575-shushan-chu-zhang-zhengshi-ban.json](./368575-shushan-chu-zhang-zhengshi-ban.json) |
 | Shusse Ozumo | 60653 | [60653-shusse-ozumo.json](./60653-shusse-ozumo.json) |
 | Shut In | 139469 | [139469-shut-in.json](./139469-shut-in.json) |
+| Shut the Box | 85372 | [85372-shut-the-box.json](./85372-shut-the-box.json) |
 | Shut the Box Classic for iPad | 108713 | [108713-shut-the-box-classic-for-ipad.json](./108713-shut-the-box-classic-for-ipad.json) |
 | Shut the Box Infinity | 175324 | [175324-shut-the-box-infinity.json](./175324-shut-the-box-infinity.json) |
 | Shut the Window | 94968 | [94968-shut-the-window.json](./94968-shut-the-window.json) |
@@ -15234,6 +15237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile, you're being filmed | 291936 | [291936-smile-youre-being-filmed.json](./291936-smile-youre-being-filmed.json) |
 | Smile, you're being filmed together | 330750 | [330750-smile-youre-being-filmed-together.json](./330750-smile-youre-being-filmed-together.json) |
 | Smile'N'Slide | 101392 | [101392-smilenslide.json](./101392-smilenslide.json) |
+| SmileBasic | 84879 | [84879-smilebasic.json](./84879-smilebasic.json) |
 | SmileBasic 4 | 147701 | [147701-smilebasic-4.json](./147701-smilebasic-4.json) |
 | Smilemo | 201096 | [201096-smilemo.json](./201096-smilemo.json) |
 | Smiles HD | 64996 | [64996-smiles-hd.json](./64996-smiles-hd.json) |
@@ -28232,6 +28236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stigmata of Sacrilege | 244867 | [244867-stigmata-of-sacrilege.json](./244867-stigmata-of-sacrilege.json) |
 | Stigmatized Property | 123864 | [123864-stigmatized-property.json](./123864-stigmatized-property.json) |
 | Stikbold! A Dodgeball Adventure | 18614 | [18614-stikbold-a-dodgeball-adventure.json](./18614-stikbold-a-dodgeball-adventure.json) |
+| Stikbold! A Dodgeball Adventure Deluxe | 85391 | [85391-stikbold-a-dodgeball-adventure-deluxe.json](./85391-stikbold-a-dodgeball-adventure-deluxe.json) |
 | Stikir | 110941 | [110941-stikir.json](./110941-stikir.json) |
 | Still Alive | 109154 | [109154-still-alive.json](./109154-still-alive.json) |
 | Still Alive | 415464 | [415464-still-alive.json](./415464-still-alive.json) |
@@ -36720,6 +36725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Match 3 | 171300 | [171300-sweet-match-3.json](./171300-sweet-match-3.json) |
 | Sweet Math | 381276 | [381276-sweet-math.json](./381276-sweet-math.json) |
 | Sweet Meat | 26385 | [26385-sweet-meat.json](./26385-sweet-meat.json) |
+| Sweet Memories Blackjack | 85413 | [85413-sweet-memories-blackjack.json](./85413-sweet-memories-blackjack.json) |
 | Sweet Model | 371356 | [371356-sweet-model.json](./371356-sweet-model.json) |
 | Sweet Monster | 339450 | [339450-sweet-monster.json](./339450-sweet-monster.json) |
 | Sweet Neighbor BB | 325896 | [325896-sweet-neighbor-bb.json](./325896-sweet-neighbor-bb.json) |
