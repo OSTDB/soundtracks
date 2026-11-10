@@ -3035,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawnfall | 129925 | [129925-dawnfall.json](./129925-dawnfall.json) |
 | Dawnfolk | 245754 | [245754-dawnfolk.json](./245754-dawnfolk.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
+| Dawnhold | 415622 | [415622-dawnhold.json](./415622-dawnhold.json) |
 | Dawning Evil | 331088 | [331088-dawning-evil.json](./331088-dawning-evil.json) |
 | Dawning Subaru, and The Owl lurking in the twilight. | 317706 | [317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json](./317706-dawning-subaru-and-the-owl-lurking-in-the-twilight.json) |
 | Dawnlands | 219960 | [219960-dawnlands.json](./219960-dawnlands.json) |
@@ -11782,6 +11783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dixit World | 322478 | [322478-dixit-world.json](./322478-dixit-world.json) |
 | Dixotomia | 204836 | [204836-dixotomia.json](./204836-dixotomia.json) |
 | DIY | 259375 | [259375-diy.json](./259375-diy.json) |
+| DIY Dadish | 416280 | [416280-diy-dadish.json](./416280-diy-dadish.json) |
 | DIY Fashion Star | 289210 | [289210-diy-fashion-star.json](./289210-diy-fashion-star.json) |
 | DIY Fashion Star - Design Hacks Clothing Game | 104486 | [104486-diy-fashion-star-design-hacks-clothing-game.json](./104486-diy-fashion-star-design-hacks-clothing-game.json) |
 | DIY Fashion Star: Arts & Crafts | 289211 | [289211-diy-fashion-star-arts-and-crafts.json](./289211-diy-fashion-star-arts-and-crafts.json) |
@@ -16592,6 +16594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawing with Nat: Dream Diary | 275922 | [275922-drawing-with-nat-dream-diary.json](./275922-drawing-with-nat-dream-diary.json) |
 | Drawize | 131579 | [131579-drawize.json](./131579-drawize.json) |
 | Drawkanoid: Review Breaker | 126780 | [126780-drawkanoid-review-breaker.json](./126780-drawkanoid-review-breaker.json) |
+| Drawmi: Card Shop | 416261 | [416261-drawmi-card-shop.json](./416261-drawmi-card-shop.json) |
 | Drawmi: Creature Collector | 416374 | [416374-drawmi-creature-collector.json](./416374-drawmi-creature-collector.json) |
 | Drawmi: Terraform Sim | 424696 | [424696-drawmi-terraform-sim.json](./424696-drawmi-terraform-sim.json) |
 | Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
