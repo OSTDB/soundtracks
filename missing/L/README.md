@@ -214,6 +214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Vie d'Emma: Infirmière de Choc | 406653 | [406653-la-vie-demma-infirmiere-de-choc.json](./406653-la-vie-demma-infirmiere-de-choc.json) |
 | La Vie en Rose | 183071 | [183071-la-vie-en-rose.json](./183071-la-vie-en-rose.json) |
 | La Vie La Rue | 199617 | [199617-la-vie-la-rue.json](./199617-la-vie-la-rue.json) |
+| La vieja contra el Dibu | 411933 | [411933-la-vieja-contra-el-dibu.json](./411933-la-vieja-contra-el-dibu.json) |
 | La Villa de la Muerte | 222768 | [222768-la-villa-de-la-muerte.json](./222768-la-villa-de-la-muerte.json) |
 | La Voix | 286217 | [286217-la-voix.json](./286217-la-voix.json) |
 | La Voz | 268435 | [268435-la-voz.json](./268435-la-voz.json) |
@@ -1462,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Knight | 345757 | [345757-last-knight.json](./345757-last-knight.json) |
 | Last Knight | 53266 | [53266-last-knight.json](./53266-last-knight.json) |
 | Last Knight in Camelot | 70768 | [70768-last-knight-in-camelot.json](./70768-last-knight-in-camelot.json) |
+| Last Known Vector | 411909 | [411909-last-known-vector.json](./411909-last-known-vector.json) |
 | Last Labyrinth | 109245 | [109245-last-labyrinth.json](./109245-last-labyrinth.json) |
 | Last Labyrinth: Collector's Edition | 139973 | [139973-last-labyrinth-collectors-edition.json](./139973-last-labyrinth-collectors-edition.json) |
 | Last Labyrinth: Lucidity Lost | 249725 | [249725-last-labyrinth-lucidity-lost.json](./249725-last-labyrinth-lucidity-lost.json) |
@@ -3629,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemris | 412099 | [412099-lemris.json](./412099-lemris.json) |
 | Lems | 102975 | [102975-lems.json](./102975-lems.json) |
 | Lemure | 25417 | [25417-lemure.json](./25417-lemure.json) |
+| Lemure Lemure | 411898 | [411898-lemure-lemure.json](./411898-lemure-lemure.json) |
 | Lemures Blue's 2 A.M. | 137068 | [137068-lemures-blues-2-a-m.json](./137068-lemures-blues-2-a-m.json) |
 | Lemuria | 112689 | [112689-lemuria.json](./112689-lemuria.json) |
 | Lemuria | 207042 | [207042-lemuria.json](./207042-lemuria.json) |
