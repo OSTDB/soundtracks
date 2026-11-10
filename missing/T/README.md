@@ -7746,6 +7746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clean Knife | 320076 | [320076-the-clean-knife.json](./320076-the-clean-knife.json) |
 | The Clean Up Clyde Collection | 111874 | [111874-the-clean-up-clyde-collection.json](./111874-the-clean-up-clyde-collection.json) |
 | The Cleaner | 198503 | [198503-the-cleaner.json](./198503-the-cleaner.json) |
+| The Cleaner | 399507 | [399507-the-cleaner.json](./399507-the-cleaner.json) |
 | The Cleaner | 403681 | [403681-the-cleaner.json](./403681-the-cleaner.json) |
 | The Cleaning Game | 327333 | [327333-the-cleaning-game.json](./327333-the-cleaning-game.json) |
 | The Cleansing | 68583 | [68583-the-cleansing.json](./68583-the-cleansing.json) |
@@ -12593,6 +12594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Crusade | 315774 | [315774-the-last-crusade.json](./315774-the-last-crusade.json) |
 | The Last Crystal | 124138 | [124138-the-last-crystal.json](./124138-the-last-crystal.json) |
 | The Last Curse | 415996 | [415996-the-last-curse.json](./415996-the-last-curse.json) |
+| The Last Customer | 399339 | [399339-the-last-customer.json](./399339-the-last-customer.json) |
 | The Last Dance | 50358 | [50358-the-last-dance.json](./50358-the-last-dance.json) |
 | The Last Dance Saloon | 188175 | [188175-the-last-dance-saloon.json](./188175-the-last-dance-saloon.json) |
 | The Last Day | 40336 | [40336-the-last-day.json](./40336-the-last-day.json) |
