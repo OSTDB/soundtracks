@@ -13202,6 +13202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columns 2 | 41093 | [41093-columns-2.json](./41093-columns-2.json) |
 | Columns 2048: Match 3 Numbers | 114038 | [114038-columns-2048-match-3-numbers.json](./114038-columns-2048-match-3-numbers.json) |
 | Columns 97 | 63128 | [63128-columns-97.json](./63128-columns-97.json) |
+| Columns Crown | 6350 | [6350-columns-crown.json](./6350-columns-crown.json) |
 | Columns Free | 91037 | [91037-columns-free.json](./91037-columns-free.json) |
 | Columns GB: Tezuka Osamu Characters | 72044 | [72044-columns-gb-tezuka-osamu-characters.json](./72044-columns-gb-tezuka-osamu-characters.json) |
 | Columns II: The Voyage Through Time | 14985 | [14985-columns-ii-the-voyage-through-time.json](./14985-columns-ii-the-voyage-through-time.json) |
@@ -19894,6 +19895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSS Traffic Regulation | 364351 | [364351-css-traffic-regulation.json](./364351-css-traffic-regulation.json) |
 | CT Football Manager | 180474 | [180474-ct-football-manager.json](./180474-ct-football-manager.json) |
 | CT Special Forces | 6352 | [6352-ct-special-forces.json](./6352-ct-special-forces.json) |
+| CT Special Forces 2: Back in the Trenches | 6353 | [6353-ct-special-forces-2-back-in-the-trenches.json](./6353-ct-special-forces-2-back-in-the-trenches.json) |
 | CT Special Forces 3: BioTerror | 43898 | [43898-ct-special-forces-3-bioterror.json](./43898-ct-special-forces-3-bioterror.json) |
 | CT Special Forces 3: BioTerror | 49253 | [49253-ct-special-forces-3-bioterror.json](./49253-ct-special-forces-3-bioterror.json) |
 | CT Special Forces: Back to Hell | 45103 | [45103-ct-special-forces-back-to-hell.json](./45103-ct-special-forces-back-to-hell.json) |
