@@ -4132,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pellet Packer: Cookie Crunch | 270965 | [270965-pellet-packer-cookie-crunch.json](./270965-pellet-packer-cookie-crunch.json) |
 | Pellet Packer: Micro Munch | 270956 | [270956-pellet-packer-micro-munch.json](./270956-pellet-packer-micro-munch.json) |
 | Pellet Quest | 65426 | [65426-pellet-quest.json](./65426-pellet-quest.json) |
+| Pelloche | 421280 | [421280-pelloche.json](./421280-pelloche.json) |
 | Pelmesh | 122583 | [122583-pelmesh.json](./122583-pelmesh.json) |
 | PelPet | 314979 | [314979-pelpet.json](./314979-pelpet.json) |
 | Pembrey | 63729 | [63729-pembrey.json](./63729-pembrey.json) |
@@ -4329,6 +4330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penn & Teller's Smoke and Mirrors | 46412 | [46412-penn-and-tellers-smoke-and-mirrors.json](./46412-penn-and-tellers-smoke-and-mirrors.json) |
 | Penn and Teller VR: Frankly Unfair, Unkind, Unnecessary & Underhanded | 116683 | [116683-penn-and-teller-vr-frankly-unfair-unkind-unnecessary-and-underhanded.json](./116683-penn-and-teller-vr-frankly-unfair-unkind-unnecessary-and-underhanded.json) |
 | Penn Guiny | 316369 | [316369-penn-guiny.json](./316369-penn-guiny.json) |
+| Penn Guiny's Lightmare | 421278 | [421278-penn-guinys-lightmare.json](./421278-penn-guinys-lightmare.json) |
 | Penni's Adventure | 258505 | [258505-pennis-adventure.json](./258505-pennis-adventure.json) |
 | Pennies 12 | 393636 | [393636-pennies-12.json](./393636-pennies-12.json) |
 | Penniless Chef | 384145 | [384145-penniless-chef.json](./384145-penniless-chef.json) |
@@ -17257,6 +17259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prom Night | 140704 | [140704-prom-night.json](./140704-prom-night.json) |
 | Prom Queen | 25439 | [25439-prom-queen.json](./25439-prom-queen.json) |
 | Prom Queen Girl - Date Night | 101645 | [101645-prom-queen-girl-date-night.json](./101645-prom-queen-girl-date-night.json) |
+| Promba | 421272 | [421272-promba.json](./421272-promba.json) |
 | Promesa | 139174 | [139174-promesa.json](./139174-promesa.json) |
 | Promessa | 329677 | [329677-promessa.json](./329677-promessa.json) |
 | Promesst | 351396 | [351396-promesst.json](./351396-promesst.json) |
