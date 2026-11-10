@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natalie Brooks: Mystery at Hillcrest High | 54246 | [54246-natalie-brooks-mystery-at-hillcrest-high.json](./54246-natalie-brooks-mystery-at-hillcrest-high.json) |
 | Natalie Brooks: Secrets of Treasure House | 54247 | [54247-natalie-brooks-secrets-of-treasure-house.json](./54247-natalie-brooks-secrets-of-treasure-house.json) |
 | Natari at the Bubble Planet | 75759 | [75759-natari-at-the-bubble-planet.json](./75759-natari-at-the-bubble-planet.json) |
+| Nate Hand Gesture | 411915 | [411915-nate-hand-gesture.json](./411915-nate-hand-gesture.json) |
 | NatGeo Adventures: Ghost Fleet | 209151 | [209151-natgeo-adventures-ghost-fleet.json](./209151-natgeo-adventures-ghost-fleet.json) |
 | NatGeo Adventures: Mystery of Cleopatra | 209150 | [209150-natgeo-adventures-mystery-of-cleopatra.json](./209150-natgeo-adventures-mystery-of-cleopatra.json) |
 | Nathan Jones and The Empty Century | 283277 | [283277-nathan-jones-and-the-empty-century.json](./283277-nathan-jones-and-the-empty-century.json) |
@@ -1251,6 +1252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naxat Cup Satellaview Bass Tournament "Big Fight": Dai-4-shuu | 179963 | [179963-naxat-cup-satellaview-bass-tournament-big-fight-dai-4-shuu.json](./179963-naxat-cup-satellaview-bass-tournament-big-fight-dai-4-shuu.json) |
 | Naxat Open | 37707 | [37707-naxat-open.json](./37707-naxat-open.json) |
 | Naxat Stadium | 37670 | [37670-naxat-stadium.json](./37670-naxat-stadium.json) |
+| Naxette a disparu ! | 411941 | [411941-naxette-a-disparu.json](./411941-naxette-a-disparu.json) |
 | Naxia | 117540 | [117540-naxia.json](./117540-naxia.json) |
 | Naxos | 199402 | [199402-naxos.json](./199402-naxos.json) |
 | Nayati River | 165404 | [165404-nayati-river.json](./165404-nayati-river.json) |
