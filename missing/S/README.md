@@ -3729,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Magic | 273788 | [273788-scrap-magic.json](./273788-scrap-magic.json) |
 | Scrap Mechanic | 16611 | [16611-scrap-mechanic.json](./16611-scrap-mechanic.json) |
 | Scrap Mechanic: Rocket Game | 102525 | [102525-scrap-mechanic-rocket-game.json](./102525-scrap-mechanic-rocket-game.json) |
+| Scrap Metal | 22978 | [22978-scrap-metal.json](./22978-scrap-metal.json) |
 | Scrap Metal Factory | 208945 | [208945-scrap-metal-factory.json](./208945-scrap-metal-factory.json) |
 | Scrap Metal Heroes Rebuilt | 286305 | [286305-scrap-metal-heroes-rebuilt.json](./286305-scrap-metal-heroes-rebuilt.json) |
 | Scrap Protocol | 389847 | [389847-scrap-protocol.json](./389847-scrap-protocol.json) |
@@ -9123,8 +9124,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Shifters | 151487 | [151487-ship-shifters.json](./151487-ship-shifters.json) |
 | Ship Sim 2020 | 146819 | [146819-ship-sim-2020.json](./146819-ship-sim-2020.json) |
 | Ship Simulator | 327584 | [327584-ship-simulator.json](./327584-ship-simulator.json) |
+| Ship Simulator 2006 | 23002 | [23002-ship-simulator-2006.json](./23002-ship-simulator-2006.json) |
 | Ship Simulator 2006: Collector's Edition | 51361 | [51361-ship-simulator-2006-collectors-edition.json](./51361-ship-simulator-2006-collectors-edition.json) |
 | Ship Simulator 2006: Gold Edition | 53655 | [53655-ship-simulator-2006-gold-edition.json](./53655-ship-simulator-2006-gold-edition.json) |
+| Ship Simulator 2008 | 23080 | [23080-ship-simulator-2008.json](./23080-ship-simulator-2008.json) |
 | Ship Simulator 2008: Collector's Edition | 54390 | [54390-ship-simulator-2008-collectors-edition.json](./54390-ship-simulator-2008-collectors-edition.json) |
 | Ship Simulator 2008: New Horizons | 52930 | [52930-ship-simulator-2008-new-horizons.json](./52930-ship-simulator-2008-new-horizons.json) |
 | Ship Simulator Extremes | 3209 | [3209-ship-simulator-extremes.json](./3209-ship-simulator-extremes.json) |
@@ -20625,6 +20628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders: Carabiner Edition | 225630 | [225630-space-invaders-carabiner-edition.json](./225630-space-invaders-carabiner-edition.json) |
 | Space Invaders: Deck Commander | 340195 | [340195-space-invaders-deck-commander.json](./340195-space-invaders-deck-commander.json) |
 | Space Invaders: Fukkatsu no Hi | 64075 | [64075-space-invaders-fukkatsu-no-hi.json](./64075-space-invaders-fukkatsu-no-hi.json) |
+| Space Invaders: Infinity Gene | 22988 | [22988-space-invaders-infinity-gene.json](./22988-space-invaders-infinity-gene.json) |
 | Space Invaders: Infinity Gene Evolve | 335142 | [335142-space-invaders-infinity-gene-evolve.json](./335142-space-invaders-infinity-gene-evolve.json) |
 | Space Invaders: Invincible Collection | 119406 | [119406-space-invaders-invincible-collection.json](./119406-space-invaders-invincible-collection.json) |
 | Space Invaders: Invincible Collection - Special Edition | 141665 | [141665-space-invaders-invincible-collection-special-edition.json](./141665-space-invaders-invincible-collection-special-edition.json) |
