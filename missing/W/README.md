@@ -2010,6 +2010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpside | 108274 | [108274-warpside.json](./108274-warpside.json) |
 | WarpSpeed | 4494 | [4494-warpspeed.json](./4494-warpspeed.json) |
 | Warpspeed Infinity | 198018 | [198018-warpspeed-infinity.json](./198018-warpspeed-infinity.json) |
+| Warpspeeders | 421176 | [421176-warpspeeders.json](./421176-warpspeeders.json) |
 | Warpsquad | 216844 | [216844-warpsquad.json](./216844-warpsquad.json) |
 | Warpswap | 182609 | [182609-warpswap.json](./182609-warpswap.json) |
 | Warpswap | 333817 | [333817-warpswap.json](./333817-warpswap.json) |
@@ -2850,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way to the Woods | 90012 | [90012-way-to-the-woods.json](./90012-way-to-the-woods.json) |
 | Way to Town | 358466 | [358466-way-to-town.json](./358466-way-to-town.json) |
 | Way to Yaatra | 140604 | [140604-way-to-yaatra.json](./140604-way-to-yaatra.json) |
+| Way Too Many Fish! | 421267 | [421267-way-too-many-fish.json](./421267-way-too-many-fish.json) |
 | Way Walkers: University | 168695 | [168695-way-walkers-university.json](./168695-way-walkers-university.json) |
 | Way Walkers: University 2 | 160088 | [160088-way-walkers-university-2.json](./160088-way-walkers-university-2.json) |
 | Way-z | 110933 | [110933-way-z.json](./110933-way-z.json) |
