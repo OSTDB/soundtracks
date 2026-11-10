@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KarBoom | 62667 | [62667-karboom.json](./62667-karboom.json) |
 | Kardashev | 267847 | [267847-kardashev.json](./267847-kardashev.json) |
 | Kardboard Kings: Card Game Island | 222960 | [222960-kardboard-kings-card-game-island.json](./222960-kardboard-kings-card-game-island.json) |
+| Kardboard Kings: Card Shop Simulator | 154036 | [154036-kardboard-kings-card-shop-simulator.json](./154036-kardboard-kings-card-shop-simulator.json) |
 | Kardia Tou Abel | 174807 | [174807-kardia-tou-abel.json](./174807-kardia-tou-abel.json) |
 | Kardinal & König | 68959 | [68959-kardinal-and-konig.json](./68959-kardinal-and-konig.json) |
 | Kardiossomatic | 185137 | [185137-kardiossomatic.json](./185137-kardiossomatic.json) |
@@ -2929,7 +2930,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
