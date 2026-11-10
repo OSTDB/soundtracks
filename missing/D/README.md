@@ -11498,6 +11498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distantquest: An Ancestral Fansim | 184206 | [184206-distantquest-an-ancestral-fansim.json](./184206-distantquest-an-ancestral-fansim.json) |
 | Distill, My Beating Heart! | 292019 | [292019-distill-my-beating-heart.json](./292019-distill-my-beating-heart.json) |
 | Distillery & Tavern Duo: Moonshine Inc. + Crossroads Inn: A Fantasy Tavern Sim | 328549 | [328549-distillery-and-tavern-duo-moonshine-inc-crossroads-inn-a-fantasy-tavern-sim.json](./328549-distillery-and-tavern-duo-moonshine-inc-crossroads-inn-a-fantasy-tavern-sim.json) |
+| Distorid | 424265 | [424265-distorid.json](./424265-distorid.json) |
 | Distorted | 150314 | [150314-distorted.json](./150314-distorted.json) |
 | Distorted | 372143 | [372143-distorted.json](./372143-distorted.json) |
 | Distorted Echos | 217323 | [217323-distorted-echos.json](./217323-distorted-echos.json) |
