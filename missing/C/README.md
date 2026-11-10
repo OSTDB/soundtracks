@@ -3702,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Champion | 154390 | [154390-castle-champion.json](./154390-castle-champion.json) |
 | Castle Champions | 344869 | [344869-castle-champions.json](./344869-castle-champions.json) |
 | Castle Chaos | 139156 | [139156-castle-chaos.json](./139156-castle-chaos.json) |
+| Castle Chaos | 34153 | [34153-castle-chaos.json](./34153-castle-chaos.json) |
 | Castle Chase | 60935 | [60935-castle-chase.json](./60935-castle-chase.json) |
 | Castle Clamber | 95152 | [95152-castle-clamber.json](./95152-castle-clamber.json) |
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
@@ -7594,6 +7595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Jump | 108521 | [108521-chicken-jump.json](./108521-chicken-jump.json) |
 | Chicken Jump, Puppy Jump | 355197 | [355197-chicken-jump-puppy-jump.json](./355197-chicken-jump-puppy-jump.json) |
 | Chicken Killer | 229867 | [229867-chicken-killer.json](./229867-chicken-killer.json) |
+| Chicken Labyrinth Puzzles | 41910 | [41910-chicken-labyrinth-puzzles.json](./41910-chicken-labyrinth-puzzles.json) |
 | Chicken Little | 343127 | [343127-chicken-little.json](./343127-chicken-little.json) |
 | Chicken Little: Batting Practice | 343129 | [343129-chicken-little-batting-practice.json](./343129-chicken-little-batting-practice.json) |
 | Chicken Little: Galactic Traveler | 343128 | [343128-chicken-little-galactic-traveler.json](./343128-chicken-little-galactic-traveler.json) |
@@ -16377,6 +16379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Dance | 50930 | [50930-country-dance.json](./50930-country-dance.json) |
 | Country Dance 2 | 50927 | [50927-country-dance-2.json](./50927-country-dance-2.json) |
 | Country Dance All Stars | 20214 | [20214-country-dance-all-stars.json](./20214-country-dance-all-stars.json) |
+| Country Dance Kinect | 41591 | [41591-country-dance-kinect.json](./41591-country-dance-kinect.json) |
 | Country Dance: 30 Chart-topping Hits!!! | 268115 | [268115-country-dance-30-chart-topping-hits.json](./268115-country-dance-30-chart-topping-hits.json) |
 | Country Desert Simulator | 114084 | [114084-country-desert-simulator.json](./114084-country-desert-simulator.json) |
 | Country Discoverer | 144842 | [144842-country-discoverer.json](./144842-country-discoverer.json) |
@@ -16603,6 +16606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy Kid | 48142 | [48142-cowboy-kid.json](./48142-cowboy-kid.json) |
 | Cowboy Kidz | 13527 | [13527-cowboy-kidz.json](./13527-cowboy-kidz.json) |
 | Cowboy Life Simulator | 123528 | [123528-cowboy-life-simulator.json](./123528-cowboy-life-simulator.json) |
+| Cowboy Revenge | 41922 | [41922-cowboy-revenge.json](./41922-cowboy-revenge.json) |
 | Cowboy vs. UFOs | 57110 | [57110-cowboy-vs-ufos.json](./57110-cowboy-vs-ufos.json) |
 | Cowboy vs. Zombies | 292359 | [292359-cowboy-vs-zombies.json](./292359-cowboy-vs-zombies.json) |
 | Cowboy Wanted Deluxe | 87602 | [87602-cowboy-wanted-deluxe.json](./87602-cowboy-wanted-deluxe.json) |
@@ -18715,6 +18719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cropacalypse | 379058 | [379058-cropacalypse.json](./379058-cropacalypse.json) |
 | Cropbuster | 235216 | [235216-cropbuster.json](./235216-cropbuster.json) |
 | CropBytes | 235307 | [235307-cropbytes.json](./235307-cropbytes.json) |
+| CropDuster Supreme | 34162 | [34162-cropduster-supreme.json](./34162-cropduster-supreme.json) |
 | Cropia | 374198 | [374198-cropia.json](./374198-cropia.json) |
 | Cropisle TD | 266095 | [266095-cropisle-td.json](./266095-cropisle-td.json) |
 | Cropolution | 325990 | [325990-cropolution.json](./325990-cropolution.json) |
@@ -19779,6 +19784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal of Death | 394071 | [394071-crystal-of-death.json](./394071-crystal-of-death.json) |
 | Crystal Ortha | 140966 | [140966-crystal-ortha.json](./140966-crystal-ortha.json) |
 | Crystal Path | 107821 | [107821-crystal-path.json](./107821-crystal-path.json) |
+| Crystal Picnic | 34126 | [34126-crystal-picnic.json](./34126-crystal-picnic.json) |
 | Crystal Pixels | 68904 | [68904-crystal-pixels.json](./68904-crystal-pixels.json) |
 | Crystal Plague | 152454 | [152454-crystal-plague.json](./152454-crystal-plague.json) |
 | Crystal Project | 181444 | [181444-crystal-project.json](./181444-crystal-project.json) |
@@ -21564,6 +21570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Tank 2 | 330194 | [330194-cyber-tank-2.json](./330194-cyber-tank-2.json) |
 | Cyber Tank Nano | 353962 | [353962-cyber-tank-nano.json](./353962-cyber-tank-nano.json) |
 | Cyber Taxi Simulator | 284948 | [284948-cyber-taxi-simulator.json](./284948-cyber-taxi-simulator.json) |
+| Cyber Team Manager | 34108 | [34108-cyber-team-manager.json](./34108-cyber-team-manager.json) |
 | Cyber Tennis | 187721 | [187721-cyber-tennis.json](./187721-cyber-tennis.json) |
 | Cyber Tetris | 213986 | [213986-cyber-tetris.json](./213986-cyber-tetris.json) |
 | Cyber Theater | 218153 | [218153-cyber-theater.json](./218153-cyber-theater.json) |
