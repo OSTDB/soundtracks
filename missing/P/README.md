@@ -3497,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawnbroker Simulator | 312463 | [312463-pawnbroker-simulator.json](./312463-pawnbroker-simulator.json) |
 | Pawnchline | 292073 | [292073-pawnchline.json](./292073-pawnchline.json) |
 | Pawndemonium | 194412 | [194412-pawndemonium.json](./194412-pawndemonium.json) |
+| Pawned Souls | 415692 | [415692-pawned-souls.json](./415692-pawned-souls.json) |
 | Pawnholm | 292302 | [292302-pawnholm.json](./292302-pawnholm.json) |
 | Pawnie: Focus Pals | 420961 | [420961-pawnie-focus-pals.json](./420961-pawnie-focus-pals.json) |
 | Pawns into the Dark | 420362 | [420362-pawns-into-the-dark.json](./420362-pawns-into-the-dark.json) |
@@ -4193,6 +4194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pencil Whipped | 72546 | [72546-pencil-whipped.json](./72546-pencil-whipped.json) |
 | Pencil! | 306927 | [306927-pencil.json](./306927-pencil.json) |
 | Pencil! x Walkabout Mini Golf: Alice's Adventures in Wonderland - Lesson Pack | 380578 | [380578-pencil-x-walkabout-mini-golf-alices-adventures-in-wonderland-lesson-pack.json](./380578-pencil-x-walkabout-mini-golf-alices-adventures-in-wonderland-lesson-pack.json) |
+| Pencils Down | 415623 | [415623-pencils-down.json](./415623-pencils-down.json) |
 | Pencilvania | 292755 | [292755-pencilvania.json](./292755-pencilvania.json) |
 | Pendek | 171256 | [171256-pendek.json](./171256-pendek.json) |
 | Pendelum | 138540 | [138540-pendelum.json](./138540-pendelum.json) |
@@ -4983,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Q2: New Cinema Labyrinth | 54220 | [54220-persona-q2-new-cinema-labyrinth.json](./54220-persona-q2-new-cinema-labyrinth.json) |
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
+| Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 2 | 415618 | [415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json](./415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 3 | 428405 | [428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json](./428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json) |
 | Persona5: The Phantom X - The Revenge Fox | 412804 | [412804-persona5-the-phantom-x-the-revenge-fox.json](./412804-persona5-the-phantom-x-the-revenge-fox.json) |
 | Persona5: The Phantom X - Virtual Sweetheart | 412741 | [412741-persona5-the-phantom-x-virtual-sweetheart.json](./412741-persona5-the-phantom-x-virtual-sweetheart.json) |
@@ -10636,6 +10639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plugged | 148777 | [148777-plugged.json](./148777-plugged.json) |
 | PlugMax | 132614 | [132614-plugmax.json](./132614-plugmax.json) |
 | Pluk van de Petteflet | 269556 | [269556-pluk-van-de-petteflet.json](./269556-pluk-van-de-petteflet.json) |
+| Plum | 415649 | [415649-plum.json](./415649-plum.json) |
 | Plum Blossom Divination | 265521 | [265521-plum-blossom-divination.json](./265521-plum-blossom-divination.json) |
 | Plum Bun Reformatted | 190063 | [190063-plum-bun-reformatted.json](./190063-plum-bun-reformatted.json) |
 | Plum Road Tea Dream | 361293 | [361293-plum-road-tea-dream.json](./361293-plum-road-tea-dream.json) |
@@ -17725,6 +17729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychedelia: The Psychonaut | 220473 | [220473-psychedelia-the-psychonaut.json](./220473-psychedelia-the-psychonaut.json) |
 | Psychedelic Dream | 359154 | [359154-psychedelic-dream.json](./359154-psychedelic-dream.json) |
 | Psychedelic platformer | 81584 | [81584-psychedelic-platformer.json](./81584-psychedelic-platformer.json) |
+| Psychedelic Woofer -Coloration- | 415636 | [415636-psychedelic-woofer-coloration.json](./415636-psychedelic-woofer-coloration.json) |
 | Psychedelica of the Ashen Hawk | 41824 | [41824-psychedelica-of-the-ashen-hawk.json](./41824-psychedelica-of-the-ashen-hawk.json) |
 | Psychedelica of the Black Butterfly | 41823 | [41823-psychedelica-of-the-black-butterfly.json](./41823-psychedelica-of-the-black-butterfly.json) |
 | Psychiatric Hospital | 245978 | [245978-psychiatric-hospital.json](./245978-psychiatric-hospital.json) |
@@ -18819,6 +18824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PushOver | 267436 | [267436-pushover.json](./267436-pushover.json) |
 | Pushpully | 261222 | [261222-pushpully.json](./261222-pushpully.json) |
 | Pushtastic | 118621 | [118621-pushtastic.json](./118621-pushtastic.json) |
+| Pushup RPG: Fitness Quest | 415695 | [415695-pushup-rpg-fitness-quest.json](./415695-pushup-rpg-fitness-quest.json) |
 | Pushy | 354009 | [354009-pushy.json](./354009-pushy.json) |
 | Pushy & Pully in Blockland | 112107 | [112107-pushy-and-pully-in-blockland.json](./112107-pushy-and-pully-in-blockland.json) |
 | Pushy II | 295992 | [295992-pushy-ii.json](./295992-pushy-ii.json) |
@@ -18854,6 +18860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pusu: Uyanış | 233902 | [233902-pusu-uyan-s.json](./233902-pusu-uyan-s.json) |
 | Puszka Pandory | 93586 | [93586-puszka-pandory.json](./93586-puszka-pandory.json) |
 | Put Anna | 105173 | [105173-put-anna.json](./105173-put-anna.json) |
+| Put Back Stuff | 415627 | [415627-put-back-stuff.json](./415627-put-back-stuff.json) |
 | Put in | 122803 | [122803-put-in.json](./122803-put-in.json) |
 | Put In - Run Out | 119701 | [119701-put-in-run-out.json](./119701-put-in-run-out.json) |
 | Put In Bad | 131330 | [131330-put-in-bad.json](./131330-put-in-bad.json) |
