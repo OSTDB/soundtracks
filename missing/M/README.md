@@ -3025,6 +3025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamiya: Downfall | 368583 | [368583-mamiya-downfall.json](./368583-mamiya-downfall.json) |
 | Mamiya: FallDown | 368564 | [368564-mamiya-falldown.json](./368564-mamiya-falldown.json) |
 | Mamizou's Mimic Check | 338698 | [338698-mamizous-mimic-check.json](./338698-mamizous-mimic-check.json) |
+| Mamma Mu och Kråkan: Vinterlek | 412496 | [412496-mamma-mu-och-krakan-vinterlek.json](./412496-mamma-mu-och-krakan-vinterlek.json) |
 | Mammon: Devil Help | 216637 | [216637-mammon-devil-help.json](./216637-mammon-devil-help.json) |
 | Mammon’s Wager | 405820 | [405820-mammon-s-wager.json](./405820-mammon-s-wager.json) |
 | Mammoth | 141979 | [141979-mammoth.json](./141979-mammoth.json) |
@@ -3058,6 +3059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man Enough | 2490 | [2490-man-enough.json](./2490-man-enough.json) |
 | Man Face Spider I | 132773 | [132773-man-face-spider-i.json](./132773-man-face-spider-i.json) |
 | Man For Takeaway | 323844 | [323844-man-for-takeaway.json](./323844-man-for-takeaway.json) |
+| Man Game: Reflex Testing | 412054 | [412054-man-game-reflex-testing.json](./412054-man-game-reflex-testing.json) |
 | Man Helsing | 184765 | [184765-man-helsing.json](./184765-man-helsing.json) |
 | Man Human Person Thingy's Quest To Get Back The Gun | 316355 | [316355-man-human-person-thingys-quest-to-get-back-the-gun.json](./316355-man-human-person-thingys-quest-to-get-back-the-gun.json) |
 | Man I Just Wanna Go Home | 303644 | [303644-man-i-just-wanna-go-home.json](./303644-man-i-just-wanna-go-home.json) |
@@ -4558,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Market Mogul | 59899 | [59899-market-mogul.json](./59899-market-mogul.json) |
 | Market Simulator | 237018 | [237018-market-simulator.json](./237018-market-simulator.json) |
 | Market Simulator | 342024 | [342024-market-simulator.json](./342024-market-simulator.json) |
+| Market Simulator: Miami Beach | 412057 | [412057-market-simulator-miami-beach.json](./412057-market-simulator-miami-beach.json) |
 | Market Street | 65955 | [65955-market-street.json](./65955-market-street.json) |
 | Market Street Tycoon Simulator | 384236 | [384236-market-street-tycoon-simulator.json](./384236-market-street-tycoon-simulator.json) |
 | Market Trouble | 182541 | [182541-market-trouble.json](./182541-market-trouble.json) |
@@ -7120,6 +7123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanical Anarchy | 356689 | [356689-mechanical-anarchy.json](./356689-mechanical-anarchy.json) |
 | Mechanical Box | 95534 | [95534-mechanical-box.json](./95534-mechanical-box.json) |
 | Mechanical Chess: Real-time | 357309 | [357309-mechanical-chess-real-time.json](./357309-mechanical-chess-real-time.json) |
+| Mechanical Commando 2 | 412561 | [412561-mechanical-commando-2.json](./412561-mechanical-commando-2.json) |
 | Mechanical Defense Line | 406564 | [406564-mechanical-defense-line.json](./406564-mechanical-defense-line.json) |
 | Mechanical Dynasty | 393973 | [393973-mechanical-dynasty.json](./393973-mechanical-dynasty.json) |
 | Mechanical Fury | 250702 | [250702-mechanical-fury.json](./250702-mechanical-fury.json) |
@@ -16037,6 +16041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Cascade Challenge | 411244 | [411244-money-cascade-challenge.json](./411244-money-cascade-challenge.json) |
 | Money Factory Tycoon | 407272 | [407272-money-factory-tycoon.json](./407272-money-factory-tycoon.json) |
 | Money Farm | 298647 | [298647-money-farm.json](./298647-money-farm.json) |
+| Money for Girls: Amortized | 412048 | [412048-money-for-girls-amortized.json](./412048-money-for-girls-amortized.json) |
 | Money Garden | 186269 | [186269-money-garden.json](./186269-money-garden.json) |
 | Money Go! | 246471 | [246471-money-go.json](./246471-money-go.json) |
 | Money Hog | 294806 | [294806-money-hog.json](./294806-money-hog.json) |
