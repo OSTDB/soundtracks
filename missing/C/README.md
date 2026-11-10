@@ -5119,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Crave | 347578 | [347578-cave-crave.json](./347578-cave-crave.json) |
 | Cave Crave: Tham Luang Cave VR | 406192 | [406192-cave-crave-tham-luang-cave-vr.json](./406192-cave-crave-tham-luang-cave-vr.json) |
 | Cave Crawl | 149177 | [149177-cave-crawl.json](./149177-cave-crawl.json) |
+| Cave Crawler | 187590 | [187590-cave-crawler.json](./187590-cave-crawler.json) |
 | Cave Crawler | 247083 | [247083-cave-crawler.json](./247083-cave-crawler.json) |
 | Cave Crawler 2 | 318216 | [318216-cave-crawler-2.json](./318216-cave-crawler-2.json) |
 | Cave Crawlers | 223392 | [223392-cave-crawlers.json](./223392-cave-crawlers.json) |
