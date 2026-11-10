@@ -1476,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Step | 67929 | [67929-rainbow-step.json](./67929-rainbow-step.json) |
 | Rainbow Story Global | 197637 | [197637-rainbow-story-global.json](./197637-rainbow-story-global.json) |
 | Rainbow Tap | 203307 | [203307-rainbow-tap.json](./203307-rainbow-tap.json) |
+| Rainbow Tower Defense | 416287 | [416287-rainbow-tower-defense.json](./416287-rainbow-tower-defense.json) |
 | Rainbow Tunnel | 182940 | [182940-rainbow-tunnel.json](./182940-rainbow-tunnel.json) |
 | Rainbow Unicorn Candy Salon | 102515 | [102515-rainbow-unicorn-candy-salon.json](./102515-rainbow-unicorn-candy-salon.json) |
 | Rainbow Unicorn Nail Salon | 90353 | [90353-rainbow-unicorn-nail-salon.json](./90353-rainbow-unicorn-nail-salon.json) |
@@ -1580,6 +1581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakeo | 301679 | [301679-rakeo.json](./301679-rakeo.json) |
 | Rakete | 134897 | [134897-rakete.json](./134897-rakete.json) |
 | Raketenwashmachine | 149439 | [149439-raketenwashmachine.json](./149439-raketenwashmachine.json) |
+| Rakhem | 416200 | [416200-rakhem.json](./416200-rakhem.json) |
 | Rakion | 92762 | [92762-rakion.json](./92762-rakion.json) |
 | Rakion Chaos Force | 132390 | [132390-rakion-chaos-force.json](./132390-rakion-chaos-force.json) |
 | Rakka: Wake 01 - Soot | 341302 | [341302-rakka-wake-01-soot.json](./341302-rakka-wake-01-soot.json) |
@@ -5131,6 +5133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relik | 74151 | [74151-relik.json](./74151-relik.json) |
 | ReLinked 0.26091975 | 345020 | [345020-relinked-0-26091975.json](./345020-relinked-0-26091975.json) |
 | Reliquary | 213627 | [213627-reliquary.json](./213627-reliquary.json) |
+| Reliquary | 416223 | [416223-reliquary.json](./416223-reliquary.json) |
 | Reliquia Park | 316259 | [316259-reliquia-park.json](./316259-reliquia-park.json) |
 | Relirium: Iseki to Deai to Bouken to | 387347 | [387347-relirium-iseki-to-deai-to-bouken-to.json](./387347-relirium-iseki-to-deai-to-bouken-to.json) |
 | Relive | 334323 | [334323-relive.json](./334323-relive.json) |
@@ -13674,6 +13677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Prison: Horror | 420660 | [420660-rusty-prison-horror.json](./420660-rusty-prison-horror.json) |
 | Rusty Punk | 177923 | [177923-rusty-punk.json](./177923-rusty-punk.json) |
 | Rusty Rabbit | 267796 | [267796-rusty-rabbit.json](./267796-rusty-rabbit.json) |
+| Rusty Rampage | 416281 | [416281-rusty-rampage.json](./416281-rusty-rampage.json) |
 | Rusty Rangers | 211997 | [211997-rusty-rangers.json](./211997-rusty-rangers.json) |
 | Rusty Ride | 266794 | [266794-rusty-ride.json](./266794-rusty-ride.json) |
 | Rusty Rivets: Fix-it Adventures | 137495 | [137495-rusty-rivets-fix-it-adventures.json](./137495-rusty-rivets-fix-it-adventures.json) |
