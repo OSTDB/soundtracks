@@ -3294,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumanji: A Jungle Adventure Game Pack | 210003 | [210003-jumanji-a-jungle-adventure-game-pack.json](./210003-jumanji-a-jungle-adventure-game-pack.json) |
 | Jumanji: Epic Run | 234013 | [234013-jumanji-epic-run.json](./234013-jumanji-epic-run.json) |
 | Jumanji: Reverse the Curse | 246639 | [246639-jumanji-reverse-the-curse.json](./246639-jumanji-reverse-the-curse.json) |
+| Jumanji: The Curse Returns | 165356 | [165356-jumanji-the-curse-returns.json](./165356-jumanji-the-curse-returns.json) |
 | Jumanji: The Curse Returns - Ultimate Movie Game Bundle | 312087 | [312087-jumanji-the-curse-returns-ultimate-movie-game-bundle.json](./312087-jumanji-the-curse-returns-ultimate-movie-game-bundle.json) |
 | Jumanji: The Curse Returns - Welcome to the Jungle | 210870 | [210870-jumanji-the-curse-returns-welcome-to-the-jungle.json](./210870-jumanji-the-curse-returns-welcome-to-the-jungle.json) |
 | Jumanji: The Curse Returns - Winter Resort | 203786 | [203786-jumanji-the-curse-returns-winter-resort.json](./203786-jumanji-the-curse-returns-winter-resort.json) |
