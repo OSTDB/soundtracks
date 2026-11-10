@@ -2655,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Love Legend: Transform your Animals into Anime Boys | 379000 | [379000-farm-love-legend-transform-your-animals-into-anime-boys.json](./379000-farm-love-legend-transform-your-animals-into-anime-boys.json) |
 | Farm Love Legend: Transform your Animals into Anime Girls | 380709 | [380709-farm-love-legend-transform-your-animals-into-anime-girls.json](./380709-farm-love-legend-transform-your-animals-into-anime-girls.json) |
 | Farm Machines Championships 2013 | 10314 | [10314-farm-machines-championships-2013.json](./10314-farm-machines-championships-2013.json) |
+| Farm Machines Championships 2014 | 10315 | [10315-farm-machines-championships-2014.json](./10315-farm-machines-championships-2014.json) |
 | Farm Manager | 394602 | [394602-farm-manager.json](./394602-farm-manager.json) |
 | Farm Manager 2018 | 55308 | [55308-farm-manager-2018.json](./55308-farm-manager-2018.json) |
 | Farm Manager 2018: Brewing & Winemaking DLC | 164652 | [164652-farm-manager-2018-brewing-and-winemaking-dlc.json](./164652-farm-manager-2018-brewing-and-winemaking-dlc.json) |
@@ -2782,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Collection | 364100 | [364100-farming-collection.json](./364100-farming-collection.json) |
 | Farming Engine | 151070 | [151070-farming-engine.json](./151070-farming-engine.json) |
 | Farming Fever | 234148 | [234148-farming-fever.json](./234148-farming-fever.json) |
+| Farming Giant | 10310 | [10310-farming-giant.json](./10310-farming-giant.json) |
 | Farming Harvester Simulator 2025: Deluxe Edition | 324206 | [324206-farming-harvester-simulator-2025-deluxe-edition.json](./324206-farming-harvester-simulator-2025-deluxe-edition.json) |
 | Farming Homestead | 411570 | [411570-farming-homestead.json](./411570-farming-homestead.json) |
 | Farming Isles | 340060 | [340060-farming-isles.json](./340060-farming-isles.json) |
@@ -2898,6 +2900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming USA 2 | 88981 | [88981-farming-usa-2.json](./88981-farming-usa-2.json) |
 | Farming Village | 121491 | [121491-farming-village.json](./121491-farming-village.json) |
 | Farming With Lasers | 389365 | [389365-farming-with-lasers.json](./389365-farming-with-lasers.json) |
+| Farming World | 10313 | [10313-farming-world.json](./10313-farming-world.json) |
 | Farming World: Jam Factory | 238724 | [238724-farming-world-jam-factory.json](./238724-farming-world-jam-factory.json) |
 | Farming-Simulator 2008 | 3168 | [3168-farming-simulator-2008.json](./3168-farming-simulator-2008.json) |
 | Farming-Simulator 2009 | 3169 | [3169-farming-simulator-2009.json](./3169-farming-simulator-2009.json) |
@@ -8904,6 +8907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flute Master: Epic Christmas | 170514 | [170514-flute-master-epic-christmas.json](./170514-flute-master-epic-christmas.json) |
 | Flute Master: Trick or Treat | 170513 | [170513-flute-master-trick-or-treat.json](./170513-flute-master-trick-or-treat.json) |
 | Flute The Snake Charmer | 295465 | [295465-flute-the-snake-charmer.json](./295465-flute-the-snake-charmer.json) |
+| Fluttabyes | 10325 | [10325-fluttabyes.json](./10325-fluttabyes.json) |
 | Flutter Bombs | 118515 | [118515-flutter-bombs.json](./118515-flutter-bombs.json) |
 | Flutter of birds II: Tenshi-tachi no Tsubasa | 310651 | [310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json](./310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json) |
 | Flutter of Birds: Tori-tachi no Habataki | 293164 | [293164-flutter-of-birds-tori-tachi-no-habataki.json](./293164-flutter-of-birds-tori-tachi-no-habataki.json) |
@@ -8970,6 +8974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly High | 273713 | [273713-fly-high.json](./273713-fly-high.json) |
 | Fly High Collection | 386787 | [386787-fly-high-collection.json](./386787-fly-high-collection.json) |
 | Fly High Runners | 391575 | [391575-fly-high-runners.json](./391575-fly-high-runners.json) |
+| Fly in the House | 10326 | [10326-fly-in-the-house.json](./10326-fly-in-the-house.json) |
 | Fly Killer VR | 102222 | [102222-fly-killer-vr.json](./102222-fly-killer-vr.json) |
 | Fly Light | 361497 | [361497-fly-light.json](./361497-fly-light.json) |
 | Fly Like a Bird | 286917 | [286917-fly-like-a-bird.json](./286917-fly-like-a-bird.json) |
@@ -11972,6 +11977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freakhunter | 281487 | [281487-freakhunter.json](./281487-freakhunter.json) |
 | FreaKick | 68626 | [68626-freakick.json](./68626-freakick.json) |
 | Freakin' Funky Fuzzballs | 15515 | [15515-freakin-funky-fuzzballs.json](./15515-freakin-funky-fuzzballs.json) |
+| Freaking Meatbags | 10334 | [10334-freaking-meatbags.json](./10334-freaking-meatbags.json) |
 | Freakland | 216722 | [216722-freakland.json](./216722-freakland.json) |
 | Freakout | 228929 | [228929-freakout.json](./228929-freakout.json) |
 | Freakout: Calamity TV Show | 102150 | [102150-freakout-calamity-tv-show.json](./102150-freakout-calamity-tv-show.json) |
