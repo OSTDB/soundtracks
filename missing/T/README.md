@@ -15637,6 +15637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Unit | 102933 | [102933-the-perfect-unit.json](./102933-the-perfect-unit.json) |
 | The Perfect Woman | 317074 | [317074-the-perfect-woman.json](./317074-the-perfect-woman.json) |
 | The Perfectionist | 110537 | [110537-the-perfectionist.json](./110537-the-perfectionist.json) |
+| The Perilous Voyage | 397435 | [397435-the-perilous-voyage.json](./397435-the-perilous-voyage.json) |
 | The Perils of Willy | 62218 | [62218-the-perils-of-willy.json](./62218-the-perils-of-willy.json) |
 | The Perils of Willy ZX | 411639 | [411639-the-perils-of-willy-zx.json](./411639-the-perils-of-willy-zx.json) |
 | The Perished | 196930 | [196930-the-perished.json](./196930-the-perished.json) |
@@ -17792,6 +17793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Snowman and the Snowdog | 22200 | [22200-the-snowman-and-the-snowdog.json](./22200-the-snowman-and-the-snowdog.json) |
 | The Snowman Story | 229472 | [229472-the-snowman-story.json](./229472-the-snowman-story.json) |
 | The Snowman's Journey | 148762 | [148762-the-snowmans-journey.json](./148762-the-snowmans-journey.json) |
+| The Snowrider | 397440 | [397440-the-snowrider.json](./397440-the-snowrider.json) |
 | The Sob Island | 217119 | [217119-the-sob-island.json](./217119-the-sob-island.json) |
 | The Soccer Player Manager | 180478 | [180478-the-soccer-player-manager.json](./180478-the-soccer-player-manager.json) |
 | The Social Distance Game | 228387 | [228387-the-social-distance-game.json](./228387-the-social-distance-game.json) |
@@ -18675,6 +18677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Time Machine: Trapped in Time | 93704 | [93704-the-time-machine-trapped-in-time.json](./93704-the-time-machine-trapped-in-time.json) |
 | The Time of Awakening | 115138 | [115138-the-time-of-awakening.json](./115138-the-time-of-awakening.json) |
 | The Time Plague | 253831 | [253831-the-time-plague.json](./253831-the-time-plague.json) |
+| The Time Traveler's Lost and Found | 397450 | [397450-the-time-travelers-lost-and-found.json](./397450-the-time-travelers-lost-and-found.json) |
 | The Time Warp of Dr. Brain | 72309 | [72309-the-time-warp-of-dr-brain.json](./72309-the-time-warp-of-dr-brain.json) |
 | The Time Watcher | 192289 | [192289-the-time-watcher.json](./192289-the-time-watcher.json) |
 | The TimeBuilders: Pyramid Rising | 356378 | [356378-the-timebuilders-pyramid-rising.json](./356378-the-timebuilders-pyramid-rising.json) |
@@ -31682,6 +31685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrashBox | 102664 | [102664-trashbox.json](./102664-trashbox.json) |
 | Trashcan Simulator | 329594 | [329594-trashcan-simulator.json](./329594-trashcan-simulator.json) |
 | Trashed | 143592 | [143592-trashed.json](./143592-trashed.json) |
+| Trashmageddon: Recycled | 397449 | [397449-trashmageddon-recycled.json](./397449-trashmageddon-recycled.json) |
 | Trashman | 23054 | [23054-trashman.json](./23054-trashman.json) |
 | Trashman | 28565 | [28565-trashman.json](./28565-trashman.json) |
 | Trashmania | 60872 | [60872-trashmania.json](./60872-trashmania.json) |
