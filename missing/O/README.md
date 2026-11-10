@@ -4659,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oshiete! Rena-sensei | 97793 | [97793-oshiete-rena-sensei.json](./97793-oshiete-rena-sensei.json) |
 | Oshigoto Theme Park 2 | 141218 | [141218-oshigoto-theme-park-2.json](./141218-oshigoto-theme-park-2.json) |
 | Oshikake Kanojo ha, Ore no Sewa wo Shitai | 402721 | [402721-oshikake-kanojo-ha-ore-no-sewa-wo-shitai.json](./402721-oshikake-kanojo-ha-ore-no-sewa-wo-shitai.json) |
+| Oshikake Oku-sama to, Kimi no Uso | 411885 | [411885-oshikake-oku-sama-to-kimi-no-uso.json](./411885-oshikake-oku-sama-to-kimi-no-uso.json) |
 | Oshikake Petit Lily | 278209 | [278209-oshikake-petit-lily.json](./278209-oshikake-petit-lily.json) |
 | Oshino Ruka ha Iyashite Agetai | 401183 | [401183-oshino-ruka-ha-iyashite-agetai.json](./401183-oshino-ruka-ha-iyashite-agetai.json) |
 | Oshinui Tune | 345355 | [345355-oshinui-tune.json](./345355-oshinui-tune.json) |
