@@ -3180,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Neurons 3: Wonders of the World | 143595 | [143595-active-neurons-3-wonders-of-the-world.json](./143595-active-neurons-3-wonders-of-the-world.json) |
 | Active Ragdoll | 177676 | [177676-active-ragdoll.json](./177676-active-ragdoll.json) |
 | Active Soccer 2 | 197234 | [197234-active-soccer-2.json](./197234-active-soccer-2.json) |
+| Active Soccer 2 DX | 21323 | [21323-active-soccer-2-dx.json](./21323-active-soccer-2-dx.json) |
 | Active Soccer 2019 | 117537 | [117537-active-soccer-2019.json](./117537-active-soccer-2019.json) |
 | Active Soccer 3 | 223304 | [223304-active-soccer-3.json](./223304-active-soccer-3.json) |
 | Active Worlds | 66993 | [66993-active-worlds.json](./66993-active-worlds.json) |
@@ -11107,6 +11108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1602: Erschaffung einer Neuen Welt - Im Namen des Königs | 131277 | [131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json](./131277-anno-1602-erschaffung-einer-neuen-welt-im-namen-des-konigs.json) |
 | Anno 1602: History Edition | 136093 | [136093-anno-1602-history-edition.json](./136093-anno-1602-history-edition.json) |
 | Anno 1701 A.D.: Gold Edition | 180265 | [180265-anno-1701-a-d-gold-edition.json](./180265-anno-1701-a-d-gold-edition.json) |
+| Anno 1701: Dawn of Discovery | 23077 | [23077-anno-1701-dawn-of-discovery.json](./23077-anno-1701-dawn-of-discovery.json) |
 | Anno 1701: History Edition | 135739 | [135739-anno-1701-history-edition.json](./135739-anno-1701-history-edition.json) |
 | Anno 1701: Limited Edition | 180266 | [180266-anno-1701-limited-edition.json](./180266-anno-1701-limited-edition.json) |
 | Anno 1701: The Curse of the Dragon | 71279 | [71279-anno-1701-the-curse-of-the-dragon.json](./71279-anno-1701-the-curse-of-the-dragon.json) |
@@ -14468,6 +14470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid | 4595 | [4595-arkanoid.json](./4595-arkanoid.json) |
 | Arkanoid 2000 | 80599 | [80599-arkanoid-2000.json](./80599-arkanoid-2000.json) |
 | Arkanoid 4000 | 73605 | [73605-arkanoid-4000.json](./73605-arkanoid-4000.json) |
+| Arkanoid DS | 21495 | [21495-arkanoid-ds.json](./21495-arkanoid-ds.json) |
 | Arkanoid For Painters | 106337 | [106337-arkanoid-for-painters.json](./106337-arkanoid-for-painters.json) |
 | Arkanoid Live! | 72559 | [72559-arkanoid-live.json](./72559-arkanoid-live.json) |
 | Arkanoid Plus! | 50996 | [50996-arkanoid-plus.json](./50996-arkanoid-plus.json) |
@@ -17499,6 +17502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
