@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oaken | 165396 | [165396-oaken.json](./165396-oaken.json) |
 | Oaken Tower | 345143 | [345143-oaken-tower.json](./345143-oaken-tower.json) |
 | Oakenfold | 163742 | [163742-oakenfold.json](./163742-oakenfold.json) |
+| Oakley the Leafbug | 420023 | [420023-oakley-the-leafbug.json](./420023-oakley-the-leafbug.json) |
 | Oakley's World | 337601 | [337601-oakleys-world.json](./337601-oakleys-world.json) |
 | Oaks vs. Orcs | 417257 | [417257-oaks-vs-orcs.json](./417257-oaks-vs-orcs.json) |
 | Oakwood | 112433 | [112433-oakwood.json](./112433-oakwood.json) |
@@ -352,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obstacle Race | 359728 | [359728-obstacle-race.json](./359728-obstacle-race.json) |
 | Obstacles | 186172 | [186172-obstacles.json](./186172-obstacles.json) |
 | Obstacles Race | 288356 | [288356-obstacles-race.json](./288356-obstacles-race.json) |
+| Obstacles: Gems of Power | 420032 | [420032-obstacles-gems-of-power.json](./420032-obstacles-gems-of-power.json) |
 | Obstruction | 107692 | [107692-obstruction.json](./107692-obstruction.json) |
 | Obstruction VR | 112017 | [112017-obstruction-vr.json](./112017-obstruction-vr.json) |
 | Obsurity | 121322 | [121322-obsurity.json](./121322-obsurity.json) |
