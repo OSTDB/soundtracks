@@ -1003,7 +1003,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5419,6 +5418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Bros | 52633 | [52633-beat-bros.json](./52633-beat-bros.json) |
 | Beat Bulwark | 351179 | [351179-beat-bulwark.json](./351179-beat-bulwark.json) |
 | Beat Champion | 109847 | [109847-beat-champion.json](./109847-beat-champion.json) |
+| Beat City | 18248 | [18248-beat-city.json](./18248-beat-city.json) |
 | Beat Craft | 320151 | [320151-beat-craft.json](./320151-beat-craft.json) |
 | Beat Crisis Up | 54632 | [54632-beat-crisis-up.json](./54632-beat-crisis-up.json) |
 | Beat Da Beat | 24207 | [24207-beat-da-beat.json](./24207-beat-da-beat.json) |
@@ -10599,6 +10599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blimpy | 328975 | [328975-blimpy.json](./328975-blimpy.json) |
 | Blinck Island Returns | 186169 | [186169-blinck-island-returns.json](./186169-blinck-island-returns.json) |
 | Blind | 156634 | [156634-blind.json](./156634-blind.json) |
+| Blind | 18378 | [18378-blind.json](./18378-blind.json) |
 | Blind | 204215 | [204215-blind.json](./204215-blind.json) |
 | Blind | 216787 | [216787-blind.json](./216787-blind.json) |
 | Blind Affection | 180562 | [180562-blind-affection.json](./180562-blind-affection.json) |
