@@ -11346,6 +11346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Christmas Game | 326043 | [326043-another-christmas-game.json](./326043-another-christmas-game.json) |
 | Another City: Sigongui Teum | 224401 | [224401-another-city-sigongui-teum.json](./224401-another-city-sigongui-teum.json) |
 | Another Code: R - A Journey into Lost Memories | 266696 | [266696-another-code-r-a-journey-into-lost-memories.json](./266696-another-code-r-a-journey-into-lost-memories.json) |
+| Another Code: R - A Journey into Lost Memories | 4676 | [4676-another-code-r-a-journey-into-lost-memories.json](./4676-another-code-r-a-journey-into-lost-memories.json) |
 | Another Code: Two Memories | 266694 | [266694-another-code-two-memories.json](./266694-another-code-two-memories.json) |
 | Another Crab's Treasure | 200903 | [200903-another-crabs-treasure.json](./200903-another-crabs-treasure.json) |
 | Another Crab's Treasure: Year of the Crab | 349894 | [349894-another-crabs-treasure-year-of-the-crab.json](./349894-another-crabs-treasure-year-of-the-crab.json) |
