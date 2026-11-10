@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Hidden Object | 417780 | [417780-daily-hidden-object.json](./417780-daily-hidden-object.json) |
 | Daily Life With My Succubus Boss | 226555 | [226555-daily-life-with-my-succubus-boss.json](./226555-daily-life-with-my-succubus-boss.json) |
 | Daily Mah Jong | 95663 | [95663-daily-mah-jong.json](./95663-daily-mah-jong.json) |
+| Daily POP Crosswords | 87482 | [87482-daily-pop-crosswords.json](./87482-daily-pop-crosswords.json) |
 | Daily Quizz | 78701 | [78701-daily-quizz.json](./78701-daily-quizz.json) |
 | Daily Routine | 88136 | [88136-daily-routine.json](./88136-daily-routine.json) |
 | Daily Run | 72384 | [72384-daily-run.json](./72384-daily-run.json) |
@@ -760,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central: Gwen Stefani - "Hollaback Girl" | 353197 | [353197-dance-central-gwen-stefani-hollaback-girl.json](./353197-dance-central-gwen-stefani-hollaback-girl.json) |
 | Dance Central: Paula Abdul - "Straight Up" | 353198 | [353198-dance-central-paula-abdul-straight-up.json](./353198-dance-central-paula-abdul-straight-up.json) |
 | Dance Central: Rick James - "Super Freak" | 353195 | [353195-dance-central-rick-james-super-freak.json](./353195-dance-central-rick-james-super-freak.json) |
+| Dance Clash: Ballet vs Hip Hop | 89111 | [89111-dance-clash-ballet-vs-hip-hop.json](./89111-dance-clash-ballet-vs-hip-hop.json) |
 | Dance Collider | 107360 | [107360-dance-collider.json](./107360-dance-collider.json) |
 | Dance Cube | 277186 | [277186-dance-cube.json](./277186-dance-cube.json) |
 | Dance Dance Girl | 121148 | [121148-dance-dance-girl.json](./121148-dance-dance-girl.json) |
@@ -5354,6 +5356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckbuilder Fantasy: Elvenglade | 292767 | [292767-deckbuilder-fantasy-elvenglade.json](./292767-deckbuilder-fantasy-elvenglade.json) |
 | DeckBuilder Village | 211703 | [211703-deckbuilder-village.json](./211703-deckbuilder-village.json) |
 | Deckception | 317308 | [317308-deckception.json](./317308-deckception.json) |
+| Decked Builder | 87450 | [87450-decked-builder.json](./87450-decked-builder.json) |
 | Decked Builder HD | 89002 | [89002-decked-builder-hd.json](./89002-decked-builder-hd.json) |
 | Decked in Love | 296886 | [296886-decked-in-love.json](./296886-decked-in-love.json) |
 | DeckEleven's Railroads | 87687 | [87687-deckelevens-railroads.json](./87687-deckelevens-railroads.json) |
@@ -12317,6 +12320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Agility 3D | 175506 | [175506-dog-agility-3d.json](./175506-dog-agility-3d.json) |
 | Dog and Bone Are Friends | 60455 | [60455-dog-and-bone-are-friends.json](./60455-dog-and-bone-are-friends.json) |
 | Dog And Goblin | 275748 | [275748-dog-and-goblin.json](./275748-dog-and-goblin.json) |
+| Dog Beauty Salon | 89058 | [89058-dog-beauty-salon.json](./89058-dog-beauty-salon.json) |
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
 | Dog Chaos | 397732 | [397732-dog-chaos.json](./397732-dog-chaos.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
@@ -12430,6 +12434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggerfall | 236883 | [236883-doggerfall.json](./236883-doggerfall.json) |
 | Doggest Dungeon | 125767 | [125767-doggest-dungeon.json](./125767-doggest-dungeon.json) |
 | Doggie Blues 3D | 264472 | [264472-doggie-blues-3d.json](./264472-doggie-blues-3d.json) |
+| Doggie Dash | 89062 | [89062-doggie-dash.json](./89062-doggie-dash.json) |
 | Doggie Daycare | 25445 | [25445-doggie-daycare.json](./25445-doggie-daycare.json) |
 | Doggie Ninja: The Burning Strikers | 147785 | [147785-doggie-ninja-the-burning-strikers.json](./147785-doggie-ninja-the-burning-strikers.json) |
 | Doggie Ninja: The Golden Mission | 117937 | [117937-doggie-ninja-the-golden-mission.json](./117937-doggie-ninja-the-golden-mission.json) |
@@ -16431,6 +16436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw a Stickman: Epic & Epic 2 | 165876 | [165876-draw-a-stickman-epic-and-epic-2.json](./165876-draw-a-stickman-epic-and-epic-2.json) |
 | Draw a Stickman: Epic 2 | 34433 | [34433-draw-a-stickman-epic-2.json](./34433-draw-a-stickman-epic-2.json) |
 | Draw a Stickman: Epic 3 | 132523 | [132523-draw-a-stickman-epic-3.json](./132523-draw-a-stickman-epic-3.json) |
+| Draw a Stickman: Epic HD | 89101 | [89101-draw-a-stickman-epic-hd.json](./89101-draw-a-stickman-epic-hd.json) |
 | Draw A Stickman: Episode 2 | 99999 | [99999-draw-a-stickman-episode-2.json](./99999-draw-a-stickman-episode-2.json) |
 | Draw Action: Freestyle Fight | 281241 | [281241-draw-action-freestyle-fight.json](./281241-draw-action-freestyle-fight.json) |
 | Draw and Color | 276130 | [276130-draw-and-color.json](./276130-draw-and-color.json) |
@@ -16929,6 +16935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Solutions | 121889 | [121889-dream-solutions.json](./121889-dream-solutions.json) |
 | Dream Sports Platform | 291793 | [291793-dream-sports-platform.json](./291793-dream-sports-platform.json) |
 | Dream Square: Hinagata Akiko | 216418 | [216418-dream-square-hinagata-akiko.json](./216418-dream-square-hinagata-akiko.json) |
+| Dream Star | 89034 | [89034-dream-star.json](./89034-dream-star.json) |
 | Dream Station | 318820 | [318820-dream-station.json](./318820-dream-station.json) |
 | Dream Stone 2 | 155292 | [155292-dream-stone-2.json](./155292-dream-stone-2.json) |
 | Dream Storm | 189047 | [189047-dream-storm.json](./189047-dream-storm.json) |
