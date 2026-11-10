@@ -1817,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlocked | 49874 | [49874-warlocked.json](./49874-warlocked.json) |
 | Warlocks | 37096 | [37096-warlocks.json](./37096-warlocks.json) |
 | Warlocks | 377723 | [377723-warlocks.json](./377723-warlocks.json) |
+| Warlocks 2: God Slayers | 36524 | [36524-warlocks-2-god-slayers.json](./36524-warlocks-2-god-slayers.json) |
 | Warlocks Deeds | 260626 | [260626-warlocks-deeds.json](./260626-warlocks-deeds.json) |
 | Warlocks Deeds: Desolation horde | 282252 | [282252-warlocks-deeds-desolation-horde.json](./282252-warlocks-deeds-desolation-horde.json) |
 | Warlocks Deeds: Uncharted Realms | 275614 | [275614-warlocks-deeds-uncharted-realms.json](./275614-warlocks-deeds-uncharted-realms.json) |
@@ -8387,6 +8388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Heroes 2 | 267531 | [267531-world-heroes-2.json](./267531-world-heroes-2.json) |
 | World Heroes 2 | 37251 | [37251-world-heroes-2.json](./37251-world-heroes-2.json) |
 | World Heroes 2 Jet | 201268 | [201268-world-heroes-2-jet.json](./201268-world-heroes-2-jet.json) |
+| World Heroes 2 Jet | 39562 | [39562-world-heroes-2-jet.json](./39562-world-heroes-2-jet.json) |
 | World Heroes Anthology | 20993 | [20993-world-heroes-anthology.json](./20993-world-heroes-anthology.json) |
 | World Heroes Perfect | 400384 | [400384-world-heroes-perfect.json](./400384-world-heroes-perfect.json) |
 | World Heroes Perfect | 46779 | [46779-world-heroes-perfect.json](./46779-world-heroes-perfect.json) |
