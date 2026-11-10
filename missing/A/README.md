@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Tech Cybernetic | 29806 | [29806-a-tech-cybernetic.json](./29806-a-tech-cybernetic.json) |
 | A-Train | 285142 | [285142-a-train.json](./285142-a-train.json) |
 | A-Train | 285143 | [285143-a-train.json](./285143-a-train.json) |
+| A-Train | 9990 | [9990-a-train.json](./9990-a-train.json) |
 | A-Train 3D: City Simulator | 84728 | [84728-a-train-3d-city-simulator.json](./84728-a-train-3d-city-simulator.json) |
 | A-Train 9 | 405639 | [405639-a-train-9.json](./405639-a-train-9.json) |
 | A-Train 9 Evolution | 388239 | [388239-a-train-9-evolution.json](./388239-a-train-9-evolution.json) |
@@ -4978,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Oracles: Tara's Journey | 293948 | [293948-age-of-oracles-taras-journey.json](./293948-age-of-oracles-taras-journey.json) |
 | Age of Pahlevans | 191670 | [191670-age-of-pahlevans.json](./191670-age-of-pahlevans.json) |
 | Age of Pirates | 376848 | [376848-age-of-pirates.json](./376848-age-of-pirates.json) |
+| Age of Pirates: Caribbean Tales | 9431 | [9431-age-of-pirates-caribbean-tales.json](./9431-age-of-pirates-caribbean-tales.json) |
 | Age of Pixels | 118261 | [118261-age-of-pixels.json](./118261-age-of-pixels.json) |
 | Age of Privateer | 303122 | [303122-age-of-privateer.json](./303122-age-of-privateer.json) |
 | Age of Procreation DX | 214340 | [214340-age-of-procreation-dx.json](./214340-age-of-procreation-dx.json) |
@@ -6500,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albedo | 185312 | [185312-albedo.json](./185312-albedo.json) |
 | Albedo and Cast of the Seven Godsends | 99482 | [99482-albedo-and-cast-of-the-seven-godsends.json](./99482-albedo-and-cast-of-the-seven-godsends.json) |
 | Albedo Carta | 269913 | [269913-albedo-carta.json](./269913-albedo-carta.json) |
+| Albedo: Eyes from Outer Space | 9961 | [9961-albedo-eyes-from-outer-space.json](./9961-albedo-eyes-from-outer-space.json) |
 | Albedon Wars | 118222 | [118222-albedon-wars.json](./118222-albedon-wars.json) |
 | Albegas | 63214 | [63214-albegas.json](./63214-albegas.json) |
 | Alberi | 79628 | [79628-alberi.json](./79628-alberi.json) |
@@ -7324,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Space Bastards | 188688 | [188688-alien-space-bastards.json](./188688-alien-space-bastards.json) |
 | Alien Space Station | 308341 | [308341-alien-space-station.json](./308341-alien-space-station.json) |
 | Alien SpaceCraft | 96773 | [96773-alien-spacecraft.json](./96773-alien-spacecraft.json) |
+| Alien Spidy | 9965 | [9965-alien-spidy.json](./9965-alien-spidy.json) |
 | Alien Spidy: Between a Rock and a Hard Place | 9966 | [9966-alien-spidy-between-a-rock-and-a-hard-place.json](./9966-alien-spidy-between-a-rock-and-a-hard-place.json) |
 | Alien Spidy: Easy Breezy | 9967 | [9967-alien-spidy-easy-breezy.json](./9967-alien-spidy-easy-breezy.json) |
 | Alien Splatter Redux | 50534 | [50534-alien-splatter-redux.json](./50534-alien-splatter-redux.json) |
@@ -11018,6 +11022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ann | 165483 | [165483-ann.json](./165483-ann.json) |
 | Ann's Parlor | 415803 | [415803-anns-parlor.json](./415803-anns-parlor.json) |
 | Anna | 388893 | [388893-anna.json](./388893-anna.json) |
+| Anna | 9976 | [9976-anna.json](./9976-anna.json) |
 | Anna & die Liebe | 269557 | [269557-anna-and-die-liebe.json](./269557-anna-and-die-liebe.json) |
 | Anna Apocalypse | 330372 | [330372-anna-apocalypse.json](./330372-anna-apocalypse.json) |
 | Anna Girl | 284270 | [284270-anna-girl.json](./284270-anna-girl.json) |
@@ -12072,6 +12077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Heroines: Character Outfit - Summer Candy | 309089 | [309089-apex-heroines-character-outfit-summer-candy.json](./309089-apex-heroines-character-outfit-summer-candy.json) |
 | Apex Heroines: Character Outfit - Warm-up | 309087 | [309087-apex-heroines-character-outfit-warm-up.json](./309087-apex-heroines-character-outfit-warm-up.json) |
 | Apex Heroines: Deluxe Edition | 315876 | [315876-apex-heroines-deluxe-edition.json](./315876-apex-heroines-deluxe-edition.json) |
+| Apex Legends Mobile | 118210 | [118210-apex-legends-mobile.json](./118210-apex-legends-mobile.json) |
 | Apex Legends Mobile: Champions | 236657 | [236657-apex-legends-mobile-champions.json](./236657-apex-legends-mobile-champions.json) |
 | Apex Legends Mobile: Cold Snap | 211298 | [211298-apex-legends-mobile-cold-snap.json](./211298-apex-legends-mobile-cold-snap.json) |
 | Apex Legends Mobile: Prime Time | 211297 | [211297-apex-legends-mobile-prime-time.json](./211297-apex-legends-mobile-prime-time.json) |
@@ -14321,6 +14327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aries | 264465 | [264465-aries.json](./264465-aries.json) |
 | Aries Driving Game | 242932 | [242932-aries-driving-game.json](./242932-aries-driving-game.json) |
 | Aries: Origins | 142865 | [142865-aries-origins.json](./142865-aries-origins.json) |
+| Arietta of Spirits | 123473 | [123473-arietta-of-spirits.json](./123473-arietta-of-spirits.json) |
 | Arifureta: From Commonplace to World's Strongest - Rebellion Soul | 390534 | [390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json](./390534-arifureta-from-commonplace-to-worlds-strongest-rebellion-soul.json) |
 | Arigatou, Ningen-san! | 135030 | [135030-arigatou-ningen-san.json](./135030-arigatou-ningen-san.json) |
 | Arijigoku | 417489 | [417489-arijigoku.json](./417489-arijigoku.json) |
@@ -17477,6 +17484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17837,6 +17845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan 2: Biological Research Scout Mission | 170146 | [170146-attack-on-titan-2-biological-research-scout-mission.json](./170146-attack-on-titan-2-biological-research-scout-mission.json) |
 | Attack on Titan 2: Deluxe Edition | 118888 | [118888-attack-on-titan-2-deluxe-edition.json](./118888-attack-on-titan-2-deluxe-edition.json) |
 | Attack on Titan 2: Discouragement and the Leaning Tower | 171693 | [171693-attack-on-titan-2-discouragement-and-the-leaning-tower.json](./171693-attack-on-titan-2-discouragement-and-the-leaning-tower.json) |
+| Attack on Titan 2: Final Battle | 116149 | [116149-attack-on-titan-2-final-battle.json](./116149-attack-on-titan-2-final-battle.json) |
 | Attack on Titan 2: Final Battle Upgrade Pack | 121928 | [121928-attack-on-titan-2-final-battle-upgrade-pack.json](./121928-attack-on-titan-2-final-battle-upgrade-pack.json) |
 | Attack on Titan 2: Future Coordinates | 36663 | [36663-attack-on-titan-2-future-coordinates.json](./36663-attack-on-titan-2-future-coordinates.json) |
 | Attack on Titan 2: Goddess Salvation | 171695 | [171695-attack-on-titan-2-goddess-salvation.json](./171695-attack-on-titan-2-goddess-salvation.json) |
@@ -18674,6 +18683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aven | 391430 | [391430-aven.json](./391430-aven.json) |
 | Aven Colony | 23212 | [23212-aven-colony.json](./23212-aven-colony.json) |
 | Aven Colony: The Cerulean Vale | 227353 | [227353-aven-colony-the-cerulean-vale.json](./227353-aven-colony-the-cerulean-vale.json) |
+| Avencast: Rise of the Mage | 9777 | [9777-avencast-rise-of-the-mage.json](./9777-avencast-rise-of-the-mage.json) |
 | Avenge Myself | 332893 | [332893-avenge-myself.json](./332893-avenge-myself.json) |
 | Avenger | 109598 | [109598-avenger.json](./109598-avenger.json) |
 | Avenger | 109599 | [109599-avenger.json](./109599-avenger.json) |
