@@ -5738,6 +5738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Over the Hedge | 4059 | [4059-over-the-hedge.json](./4059-over-the-hedge.json) |
 | Over the Hedge: Hammy Goes Nuts! | 358372 | [358372-over-the-hedge-hammy-goes-nuts.json](./358372-over-the-hedge-hammy-goes-nuts.json) |
 | Over the Hedge: Hammy Goes Nuts! | 358374 | [358374-over-the-hedge-hammy-goes-nuts.json](./358374-over-the-hedge-hammy-goes-nuts.json) |
+| Over the Hedge: Hammy Goes Nuts! | 6527 | [6527-over-the-hedge-hammy-goes-nuts.json](./6527-over-the-hedge-hammy-goes-nuts.json) |
 | Over the Hill | 329124 | [329124-over-the-hill.json](./329124-over-the-hill.json) |
 | Over the Hills and Far Away | 34615 | [34615-over-the-hills-and-far-away.json](./34615-over-the-hills-and-far-away.json) |
 | Over The Horizon | 310818 | [310818-over-the-horizon.json](./310818-over-the-horizon.json) |
