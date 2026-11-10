@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura no Uta: To Dance Over the Cherry Blossoms | 409704 | [409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json](./409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json) |
 | Sakura Note | 67734 | [67734-sakura-note.json](./67734-sakura-note.json) |
 | Sakura Note: Ima ni Tsunagaru Mirai | 123409 | [123409-sakura-note-ima-ni-tsunagaru-mirai.json](./123409-sakura-note-ima-ni-tsunagaru-mirai.json) |
+| Sakura Nova | 31022 | [31022-sakura-nova.json](./31022-sakura-nova.json) |
 | Sakura Peak | 389068 | [389068-sakura-peak.json](./389068-sakura-peak.json) |
 | Sakura Priestess and Shikigami Mountain | 306060 | [306060-sakura-priestess-and-shikigami-mountain.json](./306060-sakura-priestess-and-shikigami-mountain.json) |
 | Sakura Revolution: Blooming Maidens | 226767 | [226767-sakura-revolution-blooming-maidens.json](./226767-sakura-revolution-blooming-maidens.json) |
@@ -6328,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Bullets Zombie Apocalypse | 117062 | [117062-seven-bullets-zombie-apocalypse.json](./117062-seven-bullets-zombie-apocalypse.json) |
 | Seven Cities | 188589 | [188589-seven-cities.json](./188589-seven-cities.json) |
 | Seven Days | 219619 | [219619-seven-days.json](./219619-seven-days.json) |
+| Seven Days | 25709 | [25709-seven-days.json](./25709-seven-days.json) |
 | Seven Days on the Edge: Galactic Fringe | 391423 | [391423-seven-days-on-the-edge-galactic-fringe.json](./391423-seven-days-on-the-edge-galactic-fringe.json) |
 | Seven Days Until Morning | 351527 | [351527-seven-days-until-morning.json](./351527-seven-days-until-morning.json) |
 | Seven days with the Ghost | 110935 | [110935-seven-days-with-the-ghost.json](./110935-seven-days-with-the-ghost.json) |
@@ -16264,6 +16266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Saves Summer | 109822 | [109822-snowball-saves-summer.json](./109822-snowball-saves-summer.json) |
 | Snowball Showdown | 184703 | [184703-snowball-showdown.json](./184703-snowball-showdown.json) |
 | Snowball Warfare | 359284 | [359284-snowball-warfare.json](./359284-snowball-warfare.json) |
+| Snowball! | 30835 | [30835-snowball.json](./30835-snowball.json) |
 | Snowball.io | 231898 | [231898-snowball-io.json](./231898-snowball-io.json) |
 | Snowballer | 133186 | [133186-snowballer.json](./133186-snowballer.json) |
 | Snowballs | 131221 | [131221-snowballs.json](./131221-snowballs.json) |
@@ -19580,6 +19583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulblade Ascendant | 397476 | [397476-soulblade-ascendant.json](./397476-soulblade-ascendant.json) |
 | Soulblade: Dawnbreaker | 380003 | [380003-soulblade-dawnbreaker.json](./380003-soulblade-dawnbreaker.json) |
 | Soulblaze | 325674 | [325674-soulblaze.json](./325674-soulblaze.json) |
+| Soulblight | 31229 | [31229-soulblight.json](./31229-soulblight.json) |
 | Soulbond | 269996 | [269996-soulbond.json](./269996-soulbond.json) |
 | Soulborn | 132183 | [132183-soulborn.json](./132183-soulborn.json) |
 | Soulbound | 139578 | [139578-soulbound.json](./139578-soulbound.json) |
@@ -20951,6 +20955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Restaurant | 337722 | [337722-space-restaurant.json](./337722-space-restaurant.json) |
 | Space Revenge | 158217 | [158217-space-revenge.json](./158217-space-revenge.json) |
 | Space Revolver | 368825 | [368825-space-revolver.json](./368825-space-revolver.json) |
+| Space Ribbon | 25736 | [25736-space-ribbon.json](./25736-space-ribbon.json) |
 | Space Ric-O-Shay | 64818 | [64818-space-ric-o-shay.json](./64818-space-ric-o-shay.json) |
 | Space Riddle: Spaceship Puzzle | 248645 | [248645-space-riddle-spaceship-puzzle.json](./248645-space-riddle-spaceship-puzzle.json) |
 | Space Rider | 94865 | [94865-space-rider.json](./94865-space-rider.json) |
@@ -26879,6 +26884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Startup Quest Bakery | 306288 | [306288-startup-quest-bakery.json](./306288-startup-quest-bakery.json) |
 | Startup Trail | 373260 | [373260-startup-trail.json](./373260-startup-trail.json) |
 | StartUp! Gym | 221362 | [221362-startup-gym.json](./221362-startup-gym.json) |
+| Starushko Lub | 31081 | [31081-starushko-lub.json](./31081-starushko-lub.json) |
 | Starva Saga | 391184 | [391184-starva-saga.json](./391184-starva-saga.json) |
 | Starvania: Tales Of The Past | 372498 | [372498-starvania-tales-of-the-past.json](./372498-starvania-tales-of-the-past.json) |
 | Starvation | 213360 | [213360-starvation.json](./213360-starvation.json) |
