@@ -3580,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Training Lair | 61291 | [61291-teenage-mutant-ninja-turtles-training-lair.json](./61291-teenage-mutant-ninja-turtles-training-lair.json) |
 | Teenage Mutant Ninja Turtles: Turtle Power! | 278438 | [278438-teenage-mutant-ninja-turtles-turtle-power.json](./278438-teenage-mutant-ninja-turtles-turtle-power.json) |
 | Teenage Mutant Ninja Turtles: Turtles in Time | 205211 | [205211-teenage-mutant-ninja-turtles-turtles-in-time.json](./205211-teenage-mutant-ninja-turtles-turtles-in-time.json) |
+| Teenage Mutant Ninja Turtles: Turtles in Time Re-Shelled | 21848 | [21848-teenage-mutant-ninja-turtles-turtles-in-time-re-shelled.json](./21848-teenage-mutant-ninja-turtles-turtles-in-time-re-shelled.json) |
 | Teenage Mutant Ninja Turtles: Way of the Warrior | 146240 | [146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json](./146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json) |
 | Teenage Queen | 14672 | [14672-teenage-queen.json](./14672-teenage-queen.json) |
 | Teenage Super Ninja Plumbers | 222882 | [222882-teenage-super-ninja-plumbers.json](./222882-teenage-super-ninja-plumbers.json) |
@@ -7903,6 +7904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Couch | 140715 | [140715-the-couch.json](./140715-the-couch.json) |
 | The Council | 78547 | [78547-the-council.json](./78547-the-council.json) |
 | The Council of Hanwell | 89956 | [89956-the-council-of-hanwell.json](./89956-the-council-of-hanwell.json) |
+| The Council: Episode 1 - The Mad Ones | 81117 | [81117-the-council-episode-1-the-mad-ones.json](./81117-the-council-episode-1-the-mad-ones.json) |
 | The Council: Episode 2 - Hide and Seek | 101116 | [101116-the-council-episode-2-hide-and-seek.json](./101116-the-council-episode-2-hide-and-seek.json) |
 | The Council: Episode 3 - Ripples | 106296 | [106296-the-council-episode-3-ripples.json](./106296-the-council-episode-3-ripples.json) |
 | The Council: Episode 5 - Checkmate | 120976 | [120976-the-council-episode-5-checkmate.json](./120976-the-council-episode-5-checkmate.json) |
@@ -8606,6 +8608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Depths: Prehistoric Survival | 166724 | [166724-the-depths-prehistoric-survival.json](./166724-the-depths-prehistoric-survival.json) |
 | The Derailed | 333377 | [333377-the-derailed.json](./333377-the-derailed.json) |
 | The Derailed: Devour the Harvest | 413675 | [413675-the-derailed-devour-the-harvest.json](./413675-the-derailed-devour-the-harvest.json) |
+| The Descendant | 24539 | [24539-the-descendant.json](./24539-the-descendant.json) |
 | The Descendant: Rest of Season | 174510 | [174510-the-descendant-rest-of-season.json](./174510-the-descendant-rest-of-season.json) |
 | The Descent | 212419 | [212419-the-descent.json](./212419-the-descent.json) |
 | The Descent | 212890 | [212890-the-descent.json](./212890-the-descent.json) |
@@ -16694,6 +16697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret Life of Pets: Unleashed | 58324 | [58324-the-secret-life-of-pets-unleashed.json](./58324-the-secret-life-of-pets-unleashed.json) |
 | The Secret Life of Probes Prologue | 249639 | [249639-the-secret-life-of-probes-prologue.json](./249639-the-secret-life-of-probes-prologue.json) |
 | The Secret Love Song of the Black and White Metropolis | 401003 | [401003-the-secret-love-song-of-the-black-and-white-metropolis.json](./401003-the-secret-love-song-of-the-black-and-white-metropolis.json) |
+| The Secret Monster Society: Chapter 1 - Monsters, Fires and Forbidden Forests | 21972 | [21972-the-secret-monster-society-chapter-1-monsters-fires-and-forbidden-forests.json](./21972-the-secret-monster-society-chapter-1-monsters-fires-and-forbidden-forests.json) |
 | The Secret Monster Society: Chapter 2 - Time, Dreams and Underwater Travel | 140743 | [140743-the-secret-monster-society-chapter-2-time-dreams-and-underwater-travel.json](./140743-the-secret-monster-society-chapter-2-time-dreams-and-underwater-travel.json) |
 | The Secret of Bastow Manor | 74846 | [74846-the-secret-of-bastow-manor.json](./74846-the-secret-of-bastow-manor.json) |
 | The Secret of Cat Island | 194003 | [194003-the-secret-of-cat-island.json](./194003-the-secret-of-cat-island.json) |
@@ -28722,6 +28726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trackmania | 133807 | [133807-trackmania.json](./133807-trackmania.json) |
 | TrackMania 2: Canyon | 508 | [508-trackmania-2-canyon.json](./508-trackmania-2-canyon.json) |
 | TrackMania 2: Stadium | 9448 | [9448-trackmania-2-stadium.json](./9448-trackmania-2-stadium.json) |
+| TrackMania DS | 21304 | [21304-trackmania-ds.json](./21304-trackmania-ds.json) |
 | TrackMania Nations | 9909 | [9909-trackmania-nations.json](./9909-trackmania-nations.json) |
 | TrackMania Nations Forever | 15773 | [15773-trackmania-nations-forever.json](./15773-trackmania-nations-forever.json) |
 | TrackMania Sunrise | 22294 | [22294-trackmania-sunrise.json](./22294-trackmania-sunrise.json) |
