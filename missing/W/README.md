@@ -1000,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Nerves! | 18826 | [18826-war-of-nerves.json](./18826-war-of-nerves.json) |
 | War of Ninja | 105728 | [105728-war-of-ninja.json](./105728-war-of-ninja.json) |
 | War of Omens | 62369 | [62369-war-of-omens.json](./62369-war-of-omens.json) |
+| War of Pirate Ships | 421765 | [421765-war-of-pirate-ships.json](./421765-war-of-pirate-ships.json) |
 | War of Power: The Last Fight | 115371 | [115371-war-of-power-the-last-fight.json](./115371-war-of-power-the-last-fight.json) |
 | War of Rights | 33953 | [33953-war-of-rights.json](./33953-war-of-rights.json) |
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
