@@ -2544,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Octo | 156225 | [156225-save-the-octo.json](./156225-save-the-octo.json) |
 | Save the Pencil | 216118 | [216118-save-the-pencil.json](./216118-save-the-pencil.json) |
 | Save the Pencil 2 | 175141 | [175141-save-the-pencil-2.json](./175141-save-the-pencil-2.json) |
+| Save The Penguin | 409286 | [409286-save-the-penguin.json](./409286-save-the-penguin.json) |
 | Save the Penguins - Block Puzzle | 18733 | [18733-save-the-penguins-block-puzzle.json](./18733-save-the-penguins-block-puzzle.json) |
 | Save the Pet: Draw to Save | 223921 | [223921-save-the-pet-draw-to-save.json](./223921-save-the-pet-draw-to-save.json) |
 | Save the Pirate: Sea Story | 166764 | [166764-save-the-pirate-sea-story.json](./166764-save-the-pirate-sea-story.json) |
@@ -5466,6 +5467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiryuu Densetsu Monbit | 66141 | [66141-seiryuu-densetsu-monbit.json](./66141-seiryuu-densetsu-monbit.json) |
 | Seisai | 125997 | [125997-seisai.json](./125997-seisai.json) |
 | Seisenshi Denshou: Jantaku no Kishi | 403318 | [403318-seisenshi-denshou-jantaku-no-kishi.json](./403318-seisenshi-denshou-jantaku-no-kishi.json) |
+| Seishin | 409287 | [409287-seishin.json](./409287-seishin.json) |
 | Seishin - Virtual Rhythm | 86522 | [86522-seishin-virtual-rhythm.json](./86522-seishin-virtual-rhythm.json) |
 | Seishin Destiny | 150911 | [150911-seishin-destiny.json](./150911-seishin-destiny.json) |
 | Seishin Hakai | 260976 | [260976-seishin-hakai.json](./260976-seishin-hakai.json) |
@@ -8039,6 +8041,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Earth | 315109 | [315109-shattered-earth.json](./315109-shattered-earth.json) |
 | Shattered Echoes | 278512 | [278512-shattered-echoes.json](./278512-shattered-echoes.json) |
 | Shattered Fate | 307270 | [307270-shattered-fate.json](./307270-shattered-fate.json) |
+| Shattered Frames 2: Under the Sea | 409288 | [409288-shattered-frames-2-under-the-sea.json](./409288-shattered-frames-2-under-the-sea.json) |
+| Shattered Frames 3: Skies Above | 409289 | [409289-shattered-frames-3-skies-above.json](./409289-shattered-frames-3-skies-above.json) |
 | Shattered Frames 4: Micro Worlds | 401442 | [401442-shattered-frames-4-micro-worlds.json](./401442-shattered-frames-4-micro-worlds.json) |
 | Shattered Galaxy | 73258 | [73258-shattered-galaxy.json](./73258-shattered-galaxy.json) |
 | Shattered God - Quest for the Divine Relic | 41935 | [41935-shattered-god-quest-for-the-divine-relic.json](./41935-shattered-god-quest-for-the-divine-relic.json) |
@@ -16474,6 +16478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowJob | 411669 | [411669-snowjob.json](./411669-snowjob.json) |
 | Snowkissed Romance | 254571 | [254571-snowkissed-romance.json](./254571-snowkissed-romance.json) |
 | Snowland Adventure | 196277 | [196277-snowland-adventure.json](./196277-snowland-adventure.json) |
+| Snowlike | 409290 | [409290-snowlike.json](./409290-snowlike.json) |
 | Snowlord | 273264 | [273264-snowlord.json](./273264-snowlord.json) |
 | Snowmageddon | 314174 | [314174-snowmageddon.json](./314174-snowmageddon.json) |
 | Snowman | 25012 | [25012-snowman.json](./25012-snowman.json) |
@@ -17973,6 +17978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonatina | 305474 | [305474-sonatina.json](./305474-sonatina.json) |
 | Sonder | 182153 | [182153-sonder.json](./182153-sonder.json) |
 | Sonder | 296200 | [296200-sonder.json](./296200-sonder.json) |
+| Sonder: Embrace The World | 409268 | [409268-sonder-embrace-the-world.json](./409268-sonder-embrace-the-world.json) |
 | Sonder: Lights of Little Tokyo | 219589 | [219589-sonder-lights-of-little-tokyo.json](./219589-sonder-lights-of-little-tokyo.json) |
 | Sonder. Episode ONE | 34546 | [34546-sonder-episode-one.json](./34546-sonder-episode-one.json) |
 | Sondro Gomez: A Sunova Story | 170662 | [170662-sondro-gomez-a-sunova-story.json](./170662-sondro-gomez-a-sunova-story.json) |
@@ -22010,6 +22016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectator 2 | 264629 | [264629-spectator-2.json](./264629-spectator-2.json) |
 | Specteared | 210982 | [210982-specteared.json](./210982-specteared.json) |
 | Specter Hideout | 396297 | [396297-specter-hideout.json](./396297-specter-hideout.json) |
+| Specter Smash | 409294 | [409294-specter-smash.json](./409294-specter-smash.json) |
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
 | Specter Spelunker Shrinks | 242907 | [242907-specter-spelunker-shrinks.json](./242907-specter-spelunker-shrinks.json) |
 | Specters | 164046 | [164046-specters.json](./164046-specters.json) |
@@ -23061,6 +23068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin & Match Puzzle Learn at Once 3 Languages | 312080 | [312080-spin-and-match-puzzle-learn-at-once-3-languages.json](./312080-spin-and-match-puzzle-learn-at-once-3-languages.json) |
 | Spin & Play: Carnival Madness | 73337 | [73337-spin-and-play-carnival-madness.json](./73337-spin-and-play-carnival-madness.json) |
 | Spin & Roll | 156847 | [156847-spin-and-roll.json](./156847-spin-and-roll.json) |
+| Spin & Strike | 409293 | [409293-spin-and-strike.json](./409293-spin-and-strike.json) |
 | Spin & Win | 73636 | [73636-spin-and-win.json](./73636-spin-and-win.json) |
 | Spin 2 Win | 410420 | [410420-spin-2-win.json](./410420-spin-2-win.json) |
 | Spin a Stick | 257795 | [257795-spin-a-stick.json](./257795-spin-a-stick.json) |
@@ -24079,6 +24087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot It! Mean Machines | 23679 | [23679-spot-it-mean-machines.json](./23679-spot-it-mean-machines.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot Sample Witness Simulator | 161491 | [161491-spot-sample-witness-simulator.json](./161491-spot-sample-witness-simulator.json) |
+| Spot Stories Vol. 1 | 409292 | [409292-spot-stories-vol-1.json](./409292-spot-stories-vol-1.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
 | Spot the Cat: Cat's Stories | 386797 | [386797-spot-the-cat-cats-stories.json](./386797-spot-the-cat-cats-stories.json) |
 | Spot the Cat: Stories Edition | 386803 | [386803-spot-the-cat-stories-edition.json](./386803-spot-the-cat-stories-edition.json) |
@@ -24979,6 +24988,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stackmancy | 340000 | [340000-stackmancy.json](./340000-stackmancy.json) |
 | StackMatch 2: Treasure Hunter | 175513 | [175513-stackmatch-2-treasure-hunter.json](./175513-stackmatch-2-treasure-hunter.json) |
 | Stackmon | 389118 | [389118-stackmon.json](./389118-stackmon.json) |
+| Stacko | 409248 | [409248-stacko.json](./409248-stacko.json) |
+| Stacko Level Pack | 409249 | [409249-stacko-level-pack.json](./409249-stacko-level-pack.json) |
 | Stackoban | 184351 | [184351-stackoban.json](./184351-stackoban.json) |
 | Stackopolis | 276778 | [276778-stackopolis.json](./276778-stackopolis.json) |
 | Stacks | 180589 | [180589-stacks.json](./180589-stacks.json) |
@@ -27125,6 +27136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starweaver Express: Per Aspera Ad Astra | 391752 | [391752-starweaver-express-per-aspera-ad-astra.json](./391752-starweaver-express-per-aspera-ad-astra.json) |
 | Starwhal | 6781 | [6781-starwhal.json](./6781-starwhal.json) |
 | StarWheels | 119041 | [119041-starwheels.json](./119041-starwheels.json) |
+| Starwhisker | 409175 | [409175-starwhisker.json](./409175-starwhisker.json) |
 | Starwind | 392363 | [392363-starwind.json](./392363-starwind.json) |
 | Starwinder: The Ultimate Space Race | 72069 | [72069-starwinder-the-ultimate-space-race.json](./72069-starwinder-the-ultimate-space-race.json) |
 | StarWinds | 276601 | [276601-starwinds.json](./276601-starwinds.json) |
@@ -31120,6 +31132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku: Classic Sudoku | 223906 | [223906-sudoku-classic-sudoku.json](./223906-sudoku-classic-sudoku.json) |
 | Sudoku: Classic Sudoku Puzzle | 356882 | [356882-sudoku-classic-sudoku-puzzle.json](./356882-sudoku-classic-sudoku-puzzle.json) |
 | Sudoku: Game for Kids | 283225 | [283225-sudoku-game-for-kids.json](./283225-sudoku-game-for-kids.json) |
+| Sudoku: Master League | 409291 | [409291-sudoku-master-league.json](./409291-sudoku-master-league.json) |
 | Sudoku: NESWorld Edition | 195523 | [195523-sudoku-nesworld-edition.json](./195523-sudoku-nesworld-edition.json) |
 | Sudoku: O Globo | 252065 | [252065-sudoku-o-globo.json](./252065-sudoku-o-globo.json) |
 | Sudoku: Powered by Jamdat | 275649 | [275649-sudoku-powered-by-jamdat.json](./275649-sudoku-powered-by-jamdat.json) |
