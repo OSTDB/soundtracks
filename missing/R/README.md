@@ -7840,6 +7840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riglas | 281255 | [281255-riglas.json](./281255-riglas.json) |
 | Riglord Saga 2 | 73838 | [73838-riglord-saga-2.json](./73838-riglord-saga-2.json) |
 | Rigo: The Movie | 117375 | [117375-rigo-the-movie.json](./117375-rigo-the-movie.json) |
+| Rigonauts | 16382 | [16382-rigonauts.json](./16382-rigonauts.json) |
 | Rigor Mortis | 124509 | [124509-rigor-mortis.json](./124509-rigor-mortis.json) |
 | RigorZ | 350565 | [350565-rigorz.json](./350565-rigorz.json) |
 | Rigs: Mechanized Combat League | 11253 | [11253-rigs-mechanized-combat-league.json](./11253-rigs-mechanized-combat-league.json) |
@@ -13103,6 +13104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeshard | 56272 | [56272-runeshard.json](./56272-runeshard.json) |
 | RuneShroom | 251917 | [251917-runeshroom.json](./251917-runeshroom.json) |
 | RuneSmith | 403385 | [403385-runesmith.json](./403385-runesmith.json) |
+| Runespell: Overture | 16252 | [16252-runespell-overture.json](./16252-runespell-overture.json) |
 | Runestone | 92894 | [92894-runestone.json](./92894-runestone.json) |
 | Runestone Heroes | 56879 | [56879-runestone-heroes.json](./56879-runestone-heroes.json) |
 | Runestone Keeper | 36026 | [36026-runestone-keeper.json](./36026-runestone-keeper.json) |
