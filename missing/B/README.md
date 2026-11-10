@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baff 2 | 120095 | [120095-baff-2.json](./120095-baff-2.json) |
 | Baff 3 | 121961 | [121961-baff-3.json](./121961-baff-3.json) |
 | Baff 4 | 234348 | [234348-baff-4.json](./234348-baff-4.json) |
+| Baff B | 412045 | [412045-baff-b.json](./412045-baff-b.json) |
 | Baff C | 412384 | [412384-baff-c.json](./412384-baff-c.json) |
 | Baff E | 422416 | [422416-baff-e.json](./422416-baff-e.json) |
 | Baff F | 156881 | [156881-baff-f.json](./156881-baff-f.json) |
