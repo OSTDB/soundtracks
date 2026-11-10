@@ -3480,6 +3480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Quiz | 312300 | [312300-cash-quiz.json](./312300-cash-quiz.json) |
 | Cash Register Toy | 103141 | [103141-cash-register-toy.json](./103141-cash-register-toy.json) |
 | Cash Royale: Block Puzzle Game | 125892 | [125892-cash-royale-block-puzzle-game.json](./125892-cash-royale-block-puzzle-game.json) |
+| Cash Rush | 107970 | [107970-cash-rush.json](./107970-cash-rush.json) |
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
 | Cash_Out | 35167 | [35167-cash-out.json](./35167-cash-out.json) |
