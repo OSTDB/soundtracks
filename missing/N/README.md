@@ -2360,6 +2360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo Harbor Rescue Squad | 312760 | [312760-neo-harbor-rescue-squad.json](./312760-neo-harbor-rescue-squad.json) |
 | Neo Heiankyo Alien | 215371 | [215371-neo-heiankyo-alien.json](./215371-neo-heiankyo-alien.json) |
 | Neo Junk City | 258341 | [258341-neo-junk-city.json](./258341-neo-junk-city.json) |
+| Neo Light | 423063 | [423063-neo-light.json](./423063-neo-light.json) |
 | Neo Mario Galaxy | 262669 | [262669-neo-mario-galaxy.json](./262669-neo-mario-galaxy.json) |
 | Neo Mo.co | 402467 | [402467-neo-mo-co.json](./402467-neo-mo-co.json) |
 | Neo Molkky VR | 206399 | [206399-neo-molkky-vr.json](./206399-neo-molkky-vr.json) |
@@ -2975,6 +2976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netannad | 254568 | [254568-netannad.json](./254568-netannad.json) |
 | Netbit: Mystery Dungeon | 386066 | [386066-netbit-mystery-dungeon.json](./386066-netbit-mystery-dungeon.json) |
 | Netblast | 131035 | [131035-netblast.json](./131035-netblast.json) |
+| Netbreak | 423096 | [423096-netbreak.json](./423096-netbreak.json) |
 | Netcode The Protogen | 356706 | [356706-netcode-the-protogen.json](./356706-netcode-the-protogen.json) |
 | Netcode Warriors | 290611 | [290611-netcode-warriors.json](./290611-netcode-warriors.json) |
 | Netcorter: City 2179 | 217385 | [217385-netcorter-city-2179.json](./217385-netcorter-city-2179.json) |
@@ -6190,6 +6192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Prey, No Pay | 176458 | [176458-no-prey-no-pay.json](./176458-no-prey-no-pay.json) |
 | No Prince Needed | 198687 | [198687-no-prince-needed.json](./198687-no-prince-needed.json) |
 | No Prospect Company | 99087 | [99087-no-prospect-company.json](./99087-no-prospect-company.json) |
+| No Prospects | 423078 | [423078-no-prospects.json](./423078-no-prospects.json) |
 | No Questions Asked | 231191 | [231191-no-questions-asked.json](./231191-no-questions-asked.json) |
 | No Random Novels | 226127 | [226127-no-random-novels.json](./226127-no-random-novels.json) |
 | No Reality | 130307 | [130307-no-reality.json](./130307-no-reality.json) |
