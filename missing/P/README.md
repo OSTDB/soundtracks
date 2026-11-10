@@ -4172,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pendragon | 132903 | [132903-pendragon.json](./132903-pendragon.json) |
 | Pendragon Rising | 34210 | [34210-pendragon-rising.json](./34210-pendragon-rising.json) |
 | Pendu | 94390 | [94390-pendu.json](./94390-pendu.json) |
+| Pendula Swing: Episode 1 - Tired and Retired | 106133 | [106133-pendula-swing-episode-1-tired-and-retired.json](./106133-pendula-swing-episode-1-tired-and-retired.json) |
 | Pendula Swing: The Complete Journey | 130075 | [130075-pendula-swing-the-complete-journey.json](./130075-pendula-swing-the-complete-journey.json) |
 | Penduline Village | 275654 | [275654-penduline-village.json](./275654-penduline-village.json) |
 | Pendulo Adventure Pack | 223537 | [223537-pendulo-adventure-pack.json](./223537-pendulo-adventure-pack.json) |
