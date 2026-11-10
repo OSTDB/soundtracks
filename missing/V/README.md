@@ -3412,6 +3412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voicemail: Laura | 383074 | [383074-voicemail-laura.json](./383074-voicemail-laura.json) |
 | VoiceOS | 284741 | [284741-voiceos.json](./284741-voiceos.json) |
 | Voiceover | 275372 | [275372-voiceover.json](./275372-voiceover.json) |
+| Voices from the Sea | 35784 | [35784-voices-from-the-sea.json](./35784-voices-from-the-sea.json) |
 | Voices of a Hidden Star | 183530 | [183530-voices-of-a-hidden-star.json](./183530-voices-of-a-hidden-star.json) |
 | Voices of Authority | 270719 | [270719-voices-of-authority.json](./270719-voices-of-authority.json) |
 | Voices of the Void | 224415 | [224415-voices-of-the-void.json](./224415-voices-of-the-void.json) |
