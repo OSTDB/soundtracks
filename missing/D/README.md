@@ -2863,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dave the Bird | 244367 | [244367-dave-the-bird.json](./244367-dave-the-bird.json) |
 | Dave the Diver: Balatro | 314280 | [314280-dave-the-diver-balatro.json](./314280-dave-the-diver-balatro.json) |
 | Dave the Diver: Dredge | 279619 | [279619-dave-the-diver-dredge.json](./279619-dave-the-diver-dredge.json) |
+| Dave the Diver: GGST | 421262 | [421262-dave-the-diver-ggst.json](./421262-dave-the-diver-ggst.json) |
 | Dave the Diver: Godzilla | 284718 | [284718-dave-the-diver-godzilla.json](./284718-dave-the-diver-godzilla.json) |
 | Dave the Diver: Ichiban's Holiday | 331201 | [331201-dave-the-diver-ichibans-holiday.json](./331201-dave-the-diver-ichibans-holiday.json) |
 | Dave the Diver: In the Jungle | 325582 | [325582-dave-the-diver-in-the-jungle.json](./325582-dave-the-diver-in-the-jungle.json) |
@@ -4065,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Pixels | 5448 | [5448-dead-pixels.json](./5448-dead-pixels.json) |
 | Dead Pixels II: Straight to Video | 18362 | [18362-dead-pixels-ii-straight-to-video.json](./18362-dead-pixels-ii-straight-to-video.json) |
 | Dead Plate | 275460 | [275460-dead-plate.json](./275460-dead-plate.json) |
+| Dead Position | 421162 | [421162-dead-position.json](./421162-dead-position.json) |
 | Dead Prints | 422415 | [422415-dead-prints.json](./422415-dead-prints.json) |
 | Dead Profit | 192274 | [192274-dead-profit.json](./192274-dead-profit.json) |
 | Dead Pulse | 393989 | [393989-dead-pulse.json](./393989-dead-pulse.json) |
@@ -4342,6 +4344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadline | 376825 | [376825-deadline.json](./376825-deadline.json) |
 | Deadline | 71392 | [71392-deadline.json](./71392-deadline.json) |
 | Deadline | 7564 | [7564-deadline.json](./7564-deadline.json) |
+| Deadline Day | 421245 | [421245-deadline-day.json](./421245-deadline-day.json) |
 | Deadline Enchanter | 217669 | [217669-deadline-enchanter.json](./217669-deadline-enchanter.json) |
 | Deadline Escape | 356726 | [356726-deadline-escape.json](./356726-deadline-escape.json) |
 | Deadline of the Dead | 185074 | [185074-deadline-of-the-dead.json](./185074-deadline-of-the-dead.json) |
@@ -7302,11 +7305,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deprived | 390754 | [390754-deprived.json](./390754-deprived.json) |
 | Depth | 11291 | [11291-depth.json](./11291-depth.json) |
 | Depth | 228856 | [228856-depth.json](./228856-depth.json) |
+| Depth Above | 421269 | [421269-depth-above.json](./421269-depth-above.json) |
 | Depth Ascend | 311644 | [311644-depth-ascend.json](./311644-depth-ascend.json) |
 | Depth Charge | 181549 | [181549-depth-charge.json](./181549-depth-charge.json) |
 | Depth Charge | 245127 | [245127-depth-charge.json](./245127-depth-charge.json) |
 | Depth Charge | 282718 | [282718-depth-charge.json](./282718-depth-charge.json) |
 | Depth Complaint | 343587 | [343587-depth-complaint.json](./343587-depth-complaint.json) |
+| Depth Crushing | 421244 | [421244-depth-crushing.json](./421244-depth-crushing.json) |
 | Depth Diver | 302067 | [302067-depth-diver.json](./302067-depth-diver.json) |
 | Depth Dwellers | 71423 | [71423-depth-dwellers.json](./71423-depth-dwellers.json) |
 | Depth Fantasia | 99155 | [99155-depth-fantasia.json](./99155-depth-fantasia.json) |
@@ -10415,6 +10420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Diorama No.1 - Blocked In | 33799 | [33799-diorama-no-1-blocked-in.json](./33799-diorama-no-1-blocked-in.json) |
 | Diorama No.3 : The Marchland | 33798 | [33798-diorama-no-3-the-marchland.json](./33798-diorama-no-3-the-marchland.json) |
+| Diorama Tactics | 421268 | [421268-diorama-tactics.json](./421268-diorama-tactics.json) |
 | Diorama Worlds | 29279 | [29279-diorama-worlds.json](./29279-diorama-worlds.json) |
 | Dioramos | 333556 | [333556-dioramos.json](./333556-dioramos.json) |
 | Diortem | 300797 | [300797-diortem.json](./300797-diortem.json) |
@@ -20487,6 +20493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyo | 83936 | [83936-dyo.json](./83936-dyo.json) |
 | Dyping Escape | 339959 | [339959-dyping-escape.json](./339959-dyping-escape.json) |
 | Dyping Working: Task Manager | 426615 | [426615-dyping-working-task-manager.json](./426615-dyping-working-task-manager.json) |
+| Dyrocraft | 421254 | [421254-dyrocraft.json](./421254-dyrocraft.json) |
 | Dyrocraft 2: Reborn | 394107 | [394107-dyrocraft-2-reborn.json](./394107-dyrocraft-2-reborn.json) |
 | Dys: Eternal Space Jail RPG | 142362 | [142362-dys-eternal-space-jail-rpg.json](./142362-dys-eternal-space-jail-rpg.json) |
 | Dys4ia | 15850 | [15850-dys4ia.json](./15850-dys4ia.json) |
