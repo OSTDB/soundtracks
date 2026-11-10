@@ -3233,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only One Rectangle | 161513 | [161513-only-one-rectangle.json](./161513-only-one-rectangle.json) |
 | Only One Shall Pass | 184431 | [184431-only-one-shall-pass.json](./184431-only-one-shall-pass.json) |
 | Only One Sword | 309824 | [309824-only-one-sword.json](./309824-only-one-sword.json) |
+| Only One Tower | 402645 | [402645-only-one-tower.json](./402645-only-one-tower.json) |
 | Only One Way Up | 256919 | [256919-only-one-way-up.json](./256919-only-one-way-up.json) |
 | Only Out | 329340 | [329340-only-out.json](./329340-only-out.json) |
 | Only Pinball | 292532 | [292532-only-pinball.json](./292532-only-pinball.json) |
