@@ -3625,6 +3625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartreasure | 175945 | [175945-heartreasure.json](./175945-heartreasure.json) |
 | Heartreasure 2: Underground | 175946 | [175946-heartreasure-2-underground.json](./175946-heartreasure-2-underground.json) |
 | Heartreasure: Stellar Journey | 382357 | [382357-heartreasure-stellar-journey.json](./382357-heartreasure-stellar-journey.json) |
+| Heartreave | 427235 | [427235-heartreave.json](./427235-heartreave.json) |
 | Heartrender | 258725 | [258725-heartrender.json](./258725-heartrender.json) |
 | Hearts | 88690 | [88690-hearts.json](./88690-hearts.json) |
 | Hearts & Hexes | 191906 | [191906-hearts-and-hexes.json](./191906-hearts-and-hexes.json) |
@@ -4588,6 +4589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellmet: Seven Circles Down | 278432 | [278432-hellmet-seven-circles-down.json](./278432-hellmet-seven-circles-down.json) |
 | HellMoo | 92054 | [92054-hellmoo.json](./92054-hellmoo.json) |
 | Hellmouth | 314693 | [314693-hellmouth.json](./314693-hellmouth.json) |
+| Hellmouth | 427233 | [427233-hellmouth.json](./427233-hellmouth.json) |
 | Hellmouth Pizza | 300812 | [300812-hellmouth-pizza.json](./300812-hellmouth-pizza.json) |
 | Hellmut: The Badass from Hell | 68383 | [68383-hellmut-the-badass-from-hell.json](./68383-hellmut-the-badass-from-hell.json) |
 | Hellnight | 14160 | [14160-hellnight.json](./14160-hellnight.json) |
@@ -4934,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helrift | 373498 | [373498-helrift.json](./373498-helrift.json) |
 | Helsing's Fire | 66492 | [66492-helsings-fire.json](./66492-helsings-fire.json) |
 | Helsingfors | 79559 | [79559-helsingfors.json](./79559-helsingfors.json) |
+| Helsinki Online | 427287 | [427287-helsinki-online.json](./427287-helsinki-online.json) |
 | Helskate | 252497 | [252497-helskate.json](./252497-helskate.json) |
 | Helter Skelter | 69490 | [69490-helter-skelter.json](./69490-helter-skelter.json) |
 | Heltons Haunted Hotel | 148371 | [148371-heltons-haunted-hotel.json](./148371-heltons-haunted-hotel.json) |
@@ -8069,6 +8072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highrollers | 235885 | [235885-highrollers.json](./235885-highrollers.json) |
 | Highschool 101 | 180927 | [180927-highschool-101.json](./180927-highschool-101.json) |
 | Highschool Girlfriend | 75756 | [75756-highschool-girlfriend.json](./75756-highschool-girlfriend.json) |
+| Highschool J | 427266 | [427266-highschool-j.json](./427266-highschool-j.json) |
 | Highschool Romance | 22214 | [22214-highschool-romance.json](./22214-highschool-romance.json) |
 | HighSchool Simulator Battle | 297631 | [297631-highschool-simulator-battle.json](./297631-highschool-simulator-battle.json) |
 | Highschool53 | 280340 | [280340-highschool53.json](./280340-highschool53.json) |
@@ -8285,6 +8289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hijinks High | 415088 | [415088-hijinks-high.json](./415088-hijinks-high.json) |
 | Hijong Park's Defender Patrol | 374952 | [374952-hijong-parks-defender-patrol.json](./374952-hijong-parks-defender-patrol.json) |
 | Hijos del Invierno | 120063 | [120063-hijos-del-invierno.json](./120063-hijos-del-invierno.json) |
+| Hijura Scarlet Gear | 427219 | [427219-hijura-scarlet-gear.json](./427219-hijura-scarlet-gear.json) |
 | Hikari no Senshi Photon: The Ultimate Game on Planet Earth | 48491 | [48491-hikari-no-senshi-photon-the-ultimate-game-on-planet-earth.json](./48491-hikari-no-senshi-photon-the-ultimate-game-on-planet-earth.json) |
 | Hikari no Shima: Seven Lithographs in Shining Island | 259488 | [259488-hikari-no-shima-seven-lithographs-in-shining-island.json](./259488-hikari-no-shima-seven-lithographs-in-shining-island.json) |
 | Hikari no Valusia | 378203 | [378203-hikari-no-valusia.json](./378203-hikari-no-valusia.json) |
