@@ -1509,6 +1509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ventreville: A Cure for Sorrow | 313981 | [313981-ventreville-a-cure-for-sorrow.json](./313981-ventreville-a-cure-for-sorrow.json) |
 | Ventura Inc | 100451 | [100451-ventura-inc.json](./100451-ventura-inc.json) |
 | Venturaka | 381327 | [381327-venturaka.json](./381327-venturaka.json) |
+| Venture | 409262 | [409262-venture.json](./409262-venture.json) |
 | Venture | 5703 | [5703-venture.json](./5703-venture.json) |
 | Venture | 94741 | [94741-venture.json](./94741-venture.json) |
 | Venture Arctic | 66707 | [66707-venture-arctic.json](./66707-venture-arctic.json) |
