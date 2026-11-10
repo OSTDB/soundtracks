@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkan: Iron Strategy | 7701 | [7701-parkan-iron-strategy.json](./7701-parkan-iron-strategy.json) |
 | Parkan: The Imperial Chronicles | 7700 | [7700-parkan-the-imperial-chronicles.json](./7700-parkan-the-imperial-chronicles.json) |
 | Parkasaurus | 76422 | [76422-parkasaurus.json](./76422-parkasaurus.json) |
+| Parkasaurus: Dinoluxe Edition | 411183 | [411183-parkasaurus-dinoluxe-edition.json](./411183-parkasaurus-dinoluxe-edition.json) |
 | Parkasaurus: Prehistoric Wonders | 251775 | [251775-parkasaurus-prehistoric-wonders.json](./251775-parkasaurus-prehistoric-wonders.json) |
 | Parkasaurus: Sea Monsters | 195749 | [195749-parkasaurus-sea-monsters.json](./195749-parkasaurus-sea-monsters.json) |
 | Parkdens | 212059 | [212059-parkdens.json](./212059-parkdens.json) |
@@ -3406,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol World: Rescue Knights - Costume Pack | 272225 | [272225-paw-patrol-world-rescue-knights-costume-pack.json](./272225-paw-patrol-world-rescue-knights-costume-pack.json) |
 | Paw Patrol World: The Mighty Movie - Costume Pack | 272230 | [272230-paw-patrol-world-the-mighty-movie-costume-pack.json](./272230-paw-patrol-world-the-mighty-movie-costume-pack.json) |
 | Paw Patrol World: Ultimate Rescue - Costume Pack | 272229 | [272229-paw-patrol-world-ultimate-rescue-costume-pack.json](./272229-paw-patrol-world-ultimate-rescue-costume-pack.json) |
+| Paw Patrol: Dino World | 398427 | [398427-paw-patrol-dino-world.json](./398427-paw-patrol-dino-world.json) |
 | Paw Patrol: Grand Prix | 202417 | [202417-paw-patrol-grand-prix.json](./202417-paw-patrol-grand-prix.json) |
 | Paw Patrol: Grand Prix - Complete Edition | 283585 | [283585-paw-patrol-grand-prix-complete-edition.json](./283585-paw-patrol-grand-prix-complete-edition.json) |
 | Paw Patrol: Grand Prix - Pup Treat Arena | 241408 | [241408-paw-patrol-grand-prix-pup-treat-arena.json](./241408-paw-patrol-grand-prix-pup-treat-arena.json) |
@@ -11847,6 +11849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Poké Ball | 198864 | [198864-pokemon-poke-ball.json](./198864-pokemon-poke-ball.json) |
 | Pokémon Poké Ball Launcher | 61007 | [61007-pokemon-poke-ball-launcher.json](./61007-pokemon-poke-ball-launcher.json) |
 | Pokémon Pokédex Organizer | 198865 | [198865-pokemon-pokedex-organizer.json](./198865-pokemon-pokedex-organizer.json) |
+| Pokémon Pokopia: Bubbly Basin | 405436 | [405436-pokemon-pokopia-bubbly-basin.json](./405436-pokemon-pokopia-bubbly-basin.json) |
 | Pokémon Pokopia: Part 2 | 407137 | [407137-pokemon-pokopia-part-2.json](./407137-pokemon-pokopia-part-2.json) |
 | Pokémon Pokopia: Part 3 | 407138 | [407138-pokemon-pokopia-part-3.json](./407138-pokemon-pokopia-part-3.json) |
 | Pokémon Polished Crystal | 220866 | [220866-pokemon-polished-crystal.json](./220866-pokemon-polished-crystal.json) |
@@ -16674,6 +16677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Moonborn | 284904 | [284904-project-moonborn.json](./284904-project-moonborn.json) |
 | Project Morph | 211239 | [211239-project-morph.json](./211239-project-morph.json) |
 | Project Motor Racing | 342092 | [342092-project-motor-racing.json](./342092-project-motor-racing.json) |
+| Project Motor Racing: V8 Power Pack | 423751 | [423751-project-motor-racing-v8-power-pack.json](./423751-project-motor-racing-v8-power-pack.json) |
 | Project Mourning Reign | 403642 | [403642-project-mourning-reign.json](./403642-project-mourning-reign.json) |
 | Project MSfiX'D | 202415 | [202415-project-msfixd.json](./202415-project-msfixd.json) |
 | Project MSX | 133858 | [133858-project-msx.json](./133858-project-msx.json) |
@@ -19504,6 +19508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzling Languages: German/English | 115493 | [115493-puzzling-languages-german-english.json](./115493-puzzling-languages-german-english.json) |
 | Puzzling Peaks EXE | 158690 | [158690-puzzling-peaks-exe.json](./158690-puzzling-peaks-exe.json) |
 | Puzzling Places | 144870 | [144870-puzzling-places.json](./144870-puzzling-places.json) |
+| Puzzling Places: 3D Jigsaw Sim | 398031 | [398031-puzzling-places-3d-jigsaw-sim.json](./398031-puzzling-places-3d-jigsaw-sim.json) |
 | Puzzling Places: A Painter's Dream | 379661 | [379661-puzzling-places-a-painters-dream.json](./379661-puzzling-places-a-painters-dream.json) |
 | Puzzling Places: A Sunny Stroll in Barcelos | 353486 | [353486-puzzling-places-a-sunny-stroll-in-barcelos.json](./353486-puzzling-places-a-sunny-stroll-in-barcelos.json) |
 | Puzzling Places: All Puzzles of 2024 Bundle | 353878 | [353878-puzzling-places-all-puzzles-of-2024-bundle.json](./353878-puzzling-places-all-puzzles-of-2024-bundle.json) |
