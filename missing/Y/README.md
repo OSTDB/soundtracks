@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Years Apart | 323989 | [323989-years-apart.json](./323989-years-apart.json) |
 | Years of Division | 244554 | [244554-years-of-division.json](./244554-years-of-division.json) |
 | Yebushou: Defeat Pirates | 261853 | [261853-yebushou-defeat-pirates.json](./261853-yebushou-defeat-pirates.json) |
+| Yecid | 417139 | [417139-yecid.json](./417139-yecid.json) |
 | Yedesna Shoots 2 | 315847 | [315847-yedesna-shoots-2.json](./315847-yedesna-shoots-2.json) |
 | Yedesna Shoots 3 | 327748 | [327748-yedesna-shoots-3.json](./327748-yedesna-shoots-3.json) |
 | Yedoma Globula | 140051 | [140051-yedoma-globula.json](./140051-yedoma-globula.json) |
