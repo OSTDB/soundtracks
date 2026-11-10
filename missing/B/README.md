@@ -1003,7 +1003,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1816,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Pop Remix | 64551 | [64551-balloon-pop-remix.json](./64551-balloon-pop-remix.json) |
 | Balloon Rescue | 67699 | [67699-balloon-rescue.json](./67699-balloon-rescue.json) |
 | Balloon Ride | 412625 | [412625-balloon-ride.json](./412625-balloon-ride.json) |
+| Balloon Saga | 41912 | [41912-balloon-saga.json](./41912-balloon-saga.json) |
 | Balloon Slider Mania | 307371 | [307371-balloon-slider-mania.json](./307371-balloon-slider-mania.json) |
 | Balloon Smash | 130693 | [130693-balloon-smash.json](./130693-balloon-smash.json) |
 | Balloon Star | 368980 | [368980-balloon-star.json](./368980-balloon-star.json) |
@@ -16240,6 +16240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Game | 288262 | [288262-brick-game.json](./288262-brick-game.json) |
 | Brick Hero Clash | 259627 | [259627-brick-hero-clash.json](./259627-brick-hero-clash.json) |
 | Brick Hill | 185905 | [185905-brick-hill.json](./185905-brick-hill.json) |
+| Brick Inventions | 34191 | [34191-brick-inventions.json](./34191-brick-inventions.json) |
 | Brick Kick | 40757 | [40757-brick-kick.json](./40757-brick-kick.json) |
 | Brick Mini Golf | 297249 | [297249-brick-mini-golf.json](./297249-brick-mini-golf.json) |
 | Brick Odyssey | 229332 | [229332-brick-odyssey.json](./229332-brick-odyssey.json) |
