@@ -1858,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omen of Sorrow | 27070 | [27070-omen-of-sorrow.json](./27070-omen-of-sorrow.json) |
 | Omen: Flesh Metal & Magic | 36934 | [36934-omen-flesh-metal-and-magic.json](./36934-omen-flesh-metal-and-magic.json) |
 | Omensight: Definitive Edition | 112879 | [112879-omensight-definitive-edition.json](./112879-omensight-definitive-edition.json) |
+| Omerta | 411191 | [411191-omerta.json](./411191-omerta.json) |
 | Omerta | 413190 | [413190-omerta.json](./413190-omerta.json) |
 | Omerta Chinmoku no Okite: The Legacy | 287637 | [287637-omerta-chinmoku-no-okite-the-legacy.json](./287637-omerta-chinmoku-no-okite-the-legacy.json) |
 | Omertà Code: Tycoon Kai | 139852 | [139852-omerta-code-tycoon-kai.json](./139852-omerta-code-tycoon-kai.json) |
