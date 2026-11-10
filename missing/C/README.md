@@ -11316,6 +11316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Popper | 387737 | [387737-cloud-popper.json](./387737-cloud-popper.json) |
 | Cloud Rack | 158640 | [158640-cloud-rack.json](./158640-cloud-rack.json) |
 | Cloud Raiders | 59983 | [59983-cloud-raiders.json](./59983-cloud-raiders.json) |
+| Cloud Runner | 415682 | [415682-cloud-runner.json](./415682-cloud-runner.json) |
 | Cloud Sculptor | 406126 | [406126-cloud-sculptor.json](./406126-cloud-sculptor.json) |
 | Cloud Serpent | 185658 | [185658-cloud-serpent.json](./185658-cloud-serpent.json) |
 | Cloud Server Simulator | 398595 | [398595-cloud-server-simulator.json](./398595-cloud-server-simulator.json) |
@@ -12494,6 +12495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collector's Edition: 007 Racing / Medal of Honor / Tomorrow Never Dies | 281794 | [281794-collectors-edition-007-racing-medal-of-honor-tomorrow-never-dies.json](./281794-collectors-edition-007-racing-medal-of-honor-tomorrow-never-dies.json) |
 | Collector's Edition: 101 Incredible Games! | 205799 | [205799-collectors-edition-101-incredible-games.json](./205799-collectors-edition-101-incredible-games.json) |
 | Collector's Edition: 251 Awesome Games! | 110319 | [110319-collectors-edition-251-awesome-games.json](./110319-collectors-edition-251-awesome-games.json) |
+| College Architect | 415705 | [415705-college-architect.json](./415705-college-architect.json) |
 | College Baseball: Dynasty Builder | 363421 | [363421-college-baseball-dynasty-builder.json](./363421-college-baseball-dynasty-builder.json) |
 | College Basketball Manager | 303735 | [303735-college-basketball-manager.json](./303735-college-basketball-manager.json) |
 | College Bball Coach | 78544 | [78544-college-bball-coach.json](./78544-college-bball-coach.json) |
@@ -17774,6 +17776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Kong Part II | 311035 | [311035-crazy-kong-part-ii.json](./311035-crazy-kong-part-ii.json) |
 | Crazy Kung Fu | 142161 | [142161-crazy-kung-fu.json](./142161-crazy-kung-fu.json) |
 | Crazy Lakitu | 322917 | [322917-crazy-lakitu.json](./322917-crazy-lakitu.json) |
+| Crazy Life | 415632 | [415632-crazy-life.json](./415632-crazy-life.json) |
 | Crazy Little Jumper | 270572 | [270572-crazy-little-jumper.json](./270572-crazy-little-jumper.json) |
 | Crazy Lizard: The Amazing Journey | 235142 | [235142-crazy-lizard-the-amazing-journey.json](./235142-crazy-lizard-the-amazing-journey.json) |
 | Crazy Localization | 403527 | [403527-crazy-localization.json](./403527-crazy-localization.json) |
