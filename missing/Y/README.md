@@ -1319,6 +1319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You. Me. Heaven. | 329483 | [329483-you-me-heaven.json](./329483-you-me-heaven.json) |
 | You. Me. Hell. | 329480 | [329480-you-me-hell.json](./329480-you-me-hell.json) |
 | You... and who else? | 33098 | [33098-you-and-who-else.json](./33098-you-and-who-else.json) |
+| You’d Be Surprised!? Everyday English Vocabulary Fill-in-the-Blank Quiz | 396869 | [396869-you-d-be-surprised-everyday-english-vocabulary-fill-in-the-blank-quiz.json](./396869-you-d-be-surprised-everyday-english-vocabulary-fill-in-the-blank-quiz.json) |
 | You'll Stay Here Forever | 250346 | [250346-youll-stay-here-forever.json](./250346-youll-stay-here-forever.json) |
 | You're a Dad | 318109 | [318109-youre-a-dad.json](./318109-youre-a-dad.json) |
 | You're A Dick | 27705 | [27705-youre-a-dick.json](./27705-youre-a-dick.json) |
@@ -1897,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuki and Rina Football | 204276 | [204276-yuki-and-rina-football.json](./204276-yuki-and-rina-football.json) |
 | Yuki ha Toketa no ni, Boku no Tenohira Dake ga Cocoa no Nukumori wo Oboeteru | 387731 | [387731-yuki-ha-toketa-no-ni-boku-no-tenohira-dake-ga-cocoa-no-nukumori-wo-oboeteru.json](./387731-yuki-ha-toketa-no-ni-boku-no-tenohira-dake-ga-cocoa-no-nukumori-wo-oboeteru.json) |
 | Yuki Hotaru | 94515 | [94515-yuki-hotaru.json](./94515-yuki-hotaru.json) |
+| Yuki Jump | 396836 | [396836-yuki-jump.json](./396836-yuki-jump.json) |
 | Yuki Koi Melt | 335976 | [335976-yuki-koi-melt.json](./335976-yuki-koi-melt.json) |
 | Yuki Nime | 229730 | [229730-yuki-nime.json](./229730-yuki-nime.json) |
 | Yuki Onna | 126993 | [126993-yuki-onna.json](./126993-yuki-onna.json) |
