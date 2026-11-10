@@ -3336,6 +3336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weekday Warrior | 214390 | [214390-weekday-warrior.json](./214390-weekday-warrior.json) |
 | Weekdays | 309416 | [309416-weekdays.json](./309416-weekdays.json) |
 | Weekend Drive | 109019 | [109019-weekend-drive.json](./109019-weekend-drive.json) |
+| Weekend Fever | 418112 | [418112-weekend-fever.json](./418112-weekend-fever.json) |
 | Weekend Hentai | 298620 | [298620-weekend-hentai.json](./298620-weekend-hentai.json) |
 | Weekend in Waimanalo | 301221 | [301221-weekend-in-waimanalo.json](./301221-weekend-in-waimanalo.json) |
 | Weekend Renters | 415466 | [415466-weekend-renters.json](./415466-weekend-renters.json) |
@@ -5260,6 +5261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wide Ocean Big Jacket | 127591 | [127591-wide-ocean-big-jacket.json](./127591-wide-ocean-big-jacket.json) |
 | Wide Open | 173284 | [173284-wide-open.json](./173284-wide-open.json) |
 | Wide Sky | 22176 | [22176-wide-sky.json](./22176-wide-sky.json) |
+| Wide Slash Hero | 418077 | [418077-wide-slash-hero.json](./418077-wide-slash-hero.json) |
 | Widelands | 47043 | [47043-widelands.json](./47043-widelands.json) |
 | Widen | 305965 | [305965-widen.json](./305965-widen.json) |
 | Widget | 95355 | [95355-widget.json](./95355-widget.json) |
@@ -6875,9 +6877,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With My Buddy | 339826 | [339826-with-my-buddy.json](./339826-with-my-buddy.json) |
 | With My Cat | 233911 | [233911-with-my-cat.json](./233911-with-my-cat.json) |
 | With My Little Eye | 362482 | [362482-with-my-little-eye.json](./362482-with-my-little-eye.json) |
+| With Ribbon | 418074 | [418074-with-ribbon.json](./418074-with-ribbon.json) |
 | With Seven Cats | 184118 | [184118-with-seven-cats.json](./184118-with-seven-cats.json) |
 | With Shining Eyes | 278957 | [278957-with-shining-eyes.json](./278957-with-shining-eyes.json) |
 | With the Addition of Markiplier | 159181 | [159181-with-the-addition-of-markiplier.json](./159181-with-the-addition-of-markiplier.json) |
+| With the Devilish Her… | 418082 | [418082-with-the-devilish-her.json](./418082-with-the-devilish-her.json) |
 | With The Fire And Sword | 330885 | [330885-with-the-fire-and-sword.json](./330885-with-the-fire-and-sword.json) |
 | With the Last Moonbeam | 247121 | [247121-with-the-last-moonbeam.json](./247121-with-the-last-moonbeam.json) |
 | With Them: Frontlines | 258772 | [258772-with-them-frontlines.json](./258772-with-them-frontlines.json) |
