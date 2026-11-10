@@ -5531,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Sin City | 101498 | [101498-escape-from-sin-city.json](./101498-escape-from-sin-city.json) |
 | Escape from Skull Dungeon | 148765 | [148765-escape-from-skull-dungeon.json](./148765-escape-from-skull-dungeon.json) |
 | Escape from Slime City | 257746 | [257746-escape-from-slime-city.json](./257746-escape-from-slime-city.json) |
+| Escape from Socialism | 427280 | [427280-escape-from-socialism.json](./427280-escape-from-socialism.json) |
 | Escape from Somnium | 302507 | [302507-escape-from-somnium.json](./302507-escape-from-somnium.json) |
 | Escape From Space Shredder | 51734 | [51734-escape-from-space-shredder.json](./51734-escape-from-space-shredder.json) |
 | Escape From Spikes | 359210 | [359210-escape-from-spikes.json](./359210-escape-from-spikes.json) |
@@ -7785,6 +7786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ewoks and the Dandelion Warriors | 56217 | [56217-ewoks-and-the-dandelion-warriors.json](./56217-ewoks-and-the-dandelion-warriors.json) |
 | EWorlds | 257404 | [257404-eworlds.json](./257404-eworlds.json) |
 | Ewwe | 106498 | [106498-ewwe.json](./106498-ewwe.json) |
+| Ewyn Universe | 427255 | [427255-ewyn-universe.json](./427255-ewyn-universe.json) |
 | Ex Angelus | 235622 | [235622-ex-angelus.json](./235622-ex-angelus.json) |
 | Ex Astris | 174610 | [174610-ex-astris.json](./174610-ex-astris.json) |
 | Ex Change | 406293 | [406293-ex-change.json](./406293-ex-change.json) |
