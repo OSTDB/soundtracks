@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yami no Ryuuou Hadesu no Monshou | 202322 | [202322-yami-no-ryuuou-hadesu-no-monshou.json](./202322-yami-no-ryuuou-hadesu-no-monshou.json) |
 | Yami-iro no Maju | 242070 | [242070-yami-iro-no-maju.json](./242070-yami-iro-no-maju.json) |
 | Yamigatari: For3st | 391021 | [391021-yamigatari-for3st.json](./391021-yamigatari-for3st.json) |
+| Yamikin Shoujo Jirai-chan | 426093 | [426093-yamikin-shoujo-jirai-chan.json](./426093-yamikin-shoujo-jirai-chan.json) |
 | Yamikko Troublemaker | 332752 | [332752-yamikko-troublemaker.json](./332752-yamikko-troublemaker.json) |
 | Yamikore Ryousangata Yamika no Collection: Dokitto Mune Kyun Jiraikei Yandere Joshi Rennai Galge | 233930 | [233930-yamikore-ryousangata-yamika-no-collection-dokitto-mune-kyun-jiraikei-yandere-joshi-rennai-galge.json](./233930-yamikore-ryousangata-yamika-no-collection-dokitto-mune-kyun-jiraikei-yandere-joshi-rennai-galge.json) |
 | Yaminabe Aries: Asu e no Chousenjou | 57913 | [57913-yaminabe-aries-asu-e-no-chousenjou.json](./57913-yaminabe-aries-asu-e-no-chousenjou.json) |
@@ -386,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YATB: You Are the Best - Egypt Chapter | 143943 | [143943-yatb-you-are-the-best-egypt-chapter.json](./143943-yatb-you-are-the-best-egypt-chapter.json) |
 | YATC | 62029 | [62029-yatc.json](./62029-yatc.json) |
 | Yaten's Horror Session | 284230 | [284230-yatens-horror-session.json](./284230-yatens-horror-session.json) |
+| Yatır Batır | 426015 | [426015-yat-r-bat-r.json](./426015-yat-r-bat-r.json) |
 | Yatohime Zankikou | 77699 | [77699-yatohime-zankikou.json](./77699-yatohime-zankikou.json) |
 | Yatohime Zankikou Extra Kimagure Karasu to Yanchahime | 77927 | [77927-yatohime-zankikou-extra-kimagure-karasu-to-yanchahime.json](./77927-yatohime-zankikou-extra-kimagure-karasu-to-yanchahime.json) |
 | Yatsu Hakamura | 191868 | [191868-yatsu-hakamura.json](./191868-yatsu-hakamura.json) |
