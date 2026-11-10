@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Familiar Fairytale: Dyslexic Text Based Adventure | 124174 | [124174-a-familiar-fairytale-dyslexic-text-based-adventure.json](./124174-a-familiar-fairytale-dyslexic-text-based-adventure.json) |
 | A Familiar World | 367615 | [367615-a-familiar-world.json](./367615-a-familiar-world.json) |
 | A Farewell To AI | 355858 | [355858-a-farewell-to-ai.json](./355858-a-farewell-to-ai.json) |
+| A Farewell to Dragons | 20667 | [20667-a-farewell-to-dragons.json](./20667-a-farewell-to-dragons.json) |
 | A Fascinating Story | 297057 | [297057-a-fascinating-story.json](./297057-a-fascinating-story.json) |
 | A Fascinating Story: Wedding Night | 283880 | [283880-a-fascinating-story-wedding-night.json](./283880-a-fascinating-story-wedding-night.json) |
 | A Father's Tale | 357791 | [357791-a-fathers-tale.json](./357791-a-fathers-tale.json) |
@@ -2235,6 +2236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute VR Experiences | 104064 | [104064-absolute-vr-experiences.json](./104064-absolute-vr-experiences.json) |
 | Absolute X | 92602 | [92602-absolute-x.json](./92602-absolute-x.json) |
 | Absolute Zero | 153078 | [153078-absolute-zero.json](./153078-absolute-zero.json) |
+| Absolute Zero | 22599 | [22599-absolute-zero.json](./22599-absolute-zero.json) |
 | Absolute Zero | 400132 | [400132-absolute-zero.json](./400132-absolute-zero.json) |
 | Absolute-Full-Life | 316948 | [316948-absolute-full-life.json](./316948-absolute-full-life.json) |
 | Absolute: Asse raus! | 92288 | [92288-absolute-asse-raus.json](./92288-absolute-asse-raus.json) |
@@ -14805,6 +14807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core VI: Fires of Rubicon - Launch Edition | 248296 | [248296-armored-core-vi-fires-of-rubicon-launch-edition.json](./248296-armored-core-vi-fires-of-rubicon-launch-edition.json) |
 | Armored Core VI: Fires of Rubicon - Premium Edition | 263370 | [263370-armored-core-vi-fires-of-rubicon-premium-edition.json](./263370-armored-core-vi-fires-of-rubicon-premium-edition.json) |
 | Armored Core: For Answer | 5493 | [5493-armored-core-for-answer.json](./5493-armored-core-for-answer.json) |
+| Armored Core: Formula Front | 22594 | [22594-armored-core-formula-front.json](./22594-armored-core-formula-front.json) |
 | Armored Core: Formula Front - Extreme Battle | 46022 | [46022-armored-core-formula-front-extreme-battle.json](./46022-armored-core-formula-front-extreme-battle.json) |
 | Armored Core: Last Raven | 19410 | [19410-armored-core-last-raven.json](./19410-armored-core-last-raven.json) |
 | Armored Core: Last Raven Portable | 38480 | [38480-armored-core-last-raven-portable.json](./38480-armored-core-last-raven-portable.json) |
@@ -15230,6 +15233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Strikers | 316070 | [316070-art-strikers.json](./316070-art-strikers.json) |
 | Art Strip Poker | 96021 | [96021-art-strip-poker.json](./96021-art-strip-poker.json) |
 | Art Studio Simulator | 407346 | [407346-art-studio-simulator.json](./407346-art-studio-simulator.json) |
+| Art Style: Aquia | 22537 | [22537-art-style-aquia.json](./22537-art-style-aquia.json) |
 | Art Style: Boxlife | 47826 | [47826-art-style-boxlife.json](./47826-art-style-boxlife.json) |
 | Art Style: Cubello | 21135 | [21135-art-style-cubello.json](./21135-art-style-cubello.json) |
 | Art Style: Digidrive | 29045 | [29045-art-style-digidrive.json](./29045-art-style-digidrive.json) |
@@ -16248,6 +16252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Gunners HD Edition: Extra Pack | 87855 | [87855-assault-gunners-hd-edition-extra-pack.json](./87855-assault-gunners-hd-edition-extra-pack.json) |
 | Assault Gunners: HD Edition - Complete Set | 87856 | [87856-assault-gunners-hd-edition-complete-set.json](./87856-assault-gunners-hd-edition-complete-set.json) |
 | Assault Heroes | 20634 | [20634-assault-heroes.json](./20634-assault-heroes.json) |
+| Assault Heroes 2 | 22592 | [22592-assault-heroes-2.json](./22592-assault-heroes-2.json) |
 | Assault Lily Last Bullet | 139086 | [139086-assault-lily-last-bullet.json](./139086-assault-lily-last-bullet.json) |
 | Assault Mayhem | 351607 | [351607-assault-mayhem.json](./351607-assault-mayhem.json) |
 | Assault of the Robots | 116701 | [116701-assault-of-the-robots.json](./116701-assault-of-the-robots.json) |
@@ -17548,7 +17553,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
