@@ -4082,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -7045,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Literally Just Mowing | 210675 | [210675-its-literally-just-mowing.json](./210675-its-literally-just-mowing.json) |
 | It's Locked | 223299 | [223299-its-locked.json](./223299-its-locked.json) |
 | It's Locked | 407791 | [407791-its-locked.json](./407791-its-locked.json) |
+| It's Magic II | 408476 | [408476-its-magic-ii.json](./408476-its-magic-ii.json) |
 | It's Mealtime! | 145505 | [145505-its-mealtime.json](./145505-its-mealtime.json) |
 | It's Mealtime! | 167247 | [167247-its-mealtime.json](./167247-its-mealtime.json) |
 | It's Mr. Pants | 6355 | [6355-its-mr-pants.json](./6355-its-mr-pants.json) |
