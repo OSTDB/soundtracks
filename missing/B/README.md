@@ -1000,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9416,6 +9417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Heart | 39820 | [39820-black-heart.json](./39820-black-heart.json) |
 | Black Hole | 245160 | [245160-black-hole.json](./245160-black-hole.json) |
 | Black Hole | 46790 | [46790-black-hole.json](./46790-black-hole.json) |
+| Black Hole | 84924 | [84924-black-hole.json](./84924-black-hole.json) |
 | Black Hole | 85507 | [85507-black-hole.json](./85507-black-hole.json) |
 | Black Hole Assault | 46405 | [46405-black-hole-assault.json](./46405-black-hole-assault.json) |
 | Black Hole Escape | 293515 | [293515-black-hole-escape.json](./293515-black-hole-escape.json) |
@@ -11976,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloons Super Monkey 2 | 63399 | [63399-bloons-super-monkey-2.json](./63399-bloons-super-monkey-2.json) |
 | Bloons Supermonkey 2 | 247123 | [247123-bloons-supermonkey-2.json](./247123-bloons-supermonkey-2.json) |
 | Bloons TD | 144754 | [144754-bloons-td.json](./144754-bloons-td.json) |
+| Bloons TD | 85512 | [85512-bloons-td.json](./85512-bloons-td.json) |
 | Bloons TD 2 | 109114 | [109114-bloons-td-2.json](./109114-bloons-td-2.json) |
 | Bloons TD 3 | 109113 | [109113-bloons-td-3.json](./109113-bloons-td-3.json) |
 | Bloons TD 4 | 85511 | [85511-bloons-td-4.json](./85511-bloons-td-4.json) |
@@ -17617,6 +17620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Isopods | 286548 | [286548-bug-and-seek-isopods.json](./286548-bug-and-seek-isopods.json) |
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
+| Bug Academy | 68277 | [68277-bug-academy.json](./68277-bug-academy.json) |
 | Bug Adventure | 206691 | [206691-bug-adventure.json](./206691-bug-adventure.json) |
 | Bug Alliance | 304438 | [304438-bug-alliance.json](./304438-bug-alliance.json) |
 | Bug Attack | 18747 | [18747-bug-attack.json](./18747-bug-attack.json) |
