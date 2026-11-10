@@ -6585,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroica: Fortaan | 342868 | [342868-heroica-fortaan.json](./342868-heroica-fortaan.json) |
 | Heroics | 142574 | [142574-heroics.json](./142574-heroics.json) |
 | Heroine Anthem XP: The Angel of Sarem | 85760 | [85760-heroine-anthem-xp-the-angel-of-sarem.json](./85760-heroine-anthem-xp-the-angel-of-sarem.json) |
+| Heroine Anthem Zero | 30997 | [30997-heroine-anthem-zero.json](./30997-heroine-anthem-zero.json) |
 | Heroine Anthem Zero: Episode 1 | 99465 | [99465-heroine-anthem-zero-episode-1.json](./99465-heroine-anthem-zero-episode-1.json) |
 | Heroine Dream | 61566 | [61566-heroine-dream.json](./61566-heroine-dream.json) |
 | Heroine Dream 2 | 61565 | [61565-heroine-dream-2.json](./61565-heroine-dream-2.json) |
