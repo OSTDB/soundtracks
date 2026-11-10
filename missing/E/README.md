@@ -3840,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ending | 63174 | [63174-ending.json](./63174-ending.json) |
 | Ending It Today | 355536 | [355536-ending-it-today.json](./355536-ending-it-today.json) |
 | Ending Name | 284788 | [284788-ending-name.json](./284788-ending-name.json) |
+| Ending Note | 424280 | [424280-ending-note.json](./424280-ending-note.json) |
 | Ending Tau | 210974 | [210974-ending-tau.json](./210974-ending-tau.json) |
 | Ending the Happy Route | 350045 | [350045-ending-the-happy-route.json](./350045-ending-the-happy-route.json) |
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
@@ -3877,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Champion | 193931 | [193931-endless-champion.json](./193931-endless-champion.json) |
 | Endless Chaos: Hordes of the Afterlife | 209665 | [209665-endless-chaos-hordes-of-the-afterlife.json](./209665-endless-chaos-hordes-of-the-afterlife.json) |
 | Endless Chase: Fate of Bolek | 307211 | [307211-endless-chase-fate-of-bolek.json](./307211-endless-chase-fate-of-bolek.json) |
+| Endless Chimney | 424258 | [424258-endless-chimney.json](./424258-endless-chimney.json) |
 | Endless Cold Journey | 263813 | [263813-endless-cold-journey.json](./263813-endless-cold-journey.json) |
 | Endless Combat | 72365 | [72365-endless-combat.json](./72365-endless-combat.json) |
 | Endless Combat Dungeon | 184621 | [184621-endless-combat-dungeon.json](./184621-endless-combat-dungeon.json) |
@@ -5237,6 +5239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Error Found | 210337 | [210337-error-found.json](./210337-error-found.json) |
 | Error Loop | 329948 | [329948-error-loop.json](./329948-error-loop.json) |
 | Error Map not Found | 253698 | [253698-error-map-not-found.json](./253698-error-map-not-found.json) |
+| Error Solis | 424264 | [424264-error-solis.json](./424264-error-solis.json) |
 | Error_Boy.exe | 276255 | [276255-error-boy-exe.json](./276255-error-boy-exe.json) |
 | Error: Ai.lien | 376274 | [376274-error-ai-lien.json](./376274-error-ai-lien.json) |
 | Error: Girlfriend Not Found | 406289 | [406289-error-girlfriend-not-found.json](./406289-error-girlfriend-not-found.json) |
