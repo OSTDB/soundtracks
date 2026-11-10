@@ -8458,6 +8458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Realm | 194269 | [194269-the-dark-realm.json](./194269-the-dark-realm.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
 | The Dark Room | 301353 | [301353-the-dark-room.json](./301353-the-dark-room.json) |
+| The Dark Saga | 398731 | [398731-the-dark-saga.json](./398731-the-dark-saga.json) |
 | The Dark Side | 128104 | [128104-the-dark-side.json](./128104-the-dark-side.json) |
 | The Dark Side Of Mars | 233156 | [233156-the-dark-side-of-mars.json](./233156-the-dark-side-of-mars.json) |
 | The Dark Side of the Moon | 144010 | [144010-the-dark-side-of-the-moon.json](./144010-the-dark-side-of-the-moon.json) |
@@ -10672,6 +10673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Cross | 150752 | [150752-the-golden-cross.json](./150752-the-golden-cross.json) |
 | The Golden Eagle | 327540 | [327540-the-golden-eagle.json](./327540-the-golden-eagle.json) |
 | The Golden Eyed Ghosts | 200521 | [200521-the-golden-eyed-ghosts.json](./200521-the-golden-eyed-ghosts.json) |
+| The Golden Gate | 398701 | [398701-the-golden-gate.json](./398701-the-golden-gate.json) |
 | The Golden Girl Pulls and Licks the Dog | 256061 | [256061-the-golden-girl-pulls-and-licks-the-dog.json](./256061-the-golden-girl-pulls-and-licks-the-dog.json) |
 | The Golden Girls Take Manhattan DX | 241237 | [241237-the-golden-girls-take-manhattan-dx.json](./241237-the-golden-girls-take-manhattan-dx.json) |
 | The Golden Harp | 176784 | [176784-the-golden-harp.json](./176784-the-golden-harp.json) |
@@ -24186,6 +24188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Secret 2: Time Tunnel | 91458 | [91458-time-secret-2-time-tunnel.json](./91458-time-secret-2-time-tunnel.json) |
 | Time Sensitive Investigation | 345572 | [345572-time-sensitive-investigation.json](./345572-time-sensitive-investigation.json) |
 | Time Shared | 276720 | [276720-time-shared.json](./276720-time-shared.json) |
+| Time Shock | 398721 | [398721-time-shock.json](./398721-time-shock.json) |
 | Time Skip | 96615 | [96615-time-skip.json](./96615-time-skip.json) |
 | Time Slip | 266647 | [266647-time-slip.json](./266647-time-slip.json) |
 | Time Slip | 42442 | [42442-time-slip.json](./42442-time-slip.json) |
