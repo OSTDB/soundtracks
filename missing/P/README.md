@@ -6062,6 +6062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Genic | 283709 | [283709-photo-genic.json](./283709-photo-genic.json) |
 | Photo Girls: First Session | 396435 | [396435-photo-girls-first-session.json](./396435-photo-girls-first-session.json) |
 | Photo Girls: Raw Photo | 399784 | [399784-photo-girls-raw-photo.json](./399784-photo-girls-raw-photo.json) |
+| Photo Girls: Secret Footage | 396862 | [396862-photo-girls-secret-footage.json](./396862-photo-girls-secret-footage.json) |
 | Photo Hunt - Spot the Differences | 104727 | [104727-photo-hunt-spot-the-differences.json](./104727-photo-hunt-spot-the-differences.json) |
 | Photo Kano | 77420 | [77420-photo-kano.json](./77420-photo-kano.json) |
 | Photo Kano Kiss | 42702 | [42702-photo-kano-kiss.json](./42702-photo-kano-kiss.json) |
