@@ -2376,6 +2376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter: Spells | 66432 | [66432-harry-potter-spells.json](./66432-harry-potter-spells.json) |
 | Harry Potter: Wizards Unite | 75563 | [75563-harry-potter-wizards-unite.json](./75563-harry-potter-wizards-unite.json) |
 | Harry Quantum Episode 1: TV Go Home | 404417 | [404417-harry-quantum-episode-1-tv-go-home.json](./404417-harry-quantum-episode-1-tv-go-home.json) |
+| Harry Quantum Episode 2: Unmasked | 404494 | [404494-harry-quantum-episode-2-unmasked.json](./404494-harry-quantum-episode-2-unmasked.json) |
 | Harry Styles Heardle | 225622 | [225622-harry-styles-heardle.json](./225622-harry-styles-heardle.json) |
 | Harry the Fairy | 20802 | [20802-harry-the-fairy.json](./20802-harry-the-fairy.json) |
 | Harry the Hamster 2: The Quest for the Golden Wheel | 235333 | [235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json](./235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json) |
@@ -4288,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Cab | 57625 | [57625-hell-cab.json](./57625-hell-cab.json) |
 | Hell Can Wait | 133412 | [133412-hell-can-wait.json](./133412-hell-can-wait.json) |
 | Hell Cleaners | 407771 | [407771-hell-cleaners.json](./407771-hell-cleaners.json) |
+| Hell Clock: Cursed War | 404456 | [404456-hell-clock-cursed-war.json](./404456-hell-clock-cursed-war.json) |
 | Hell Corp | 154568 | [154568-hell-corp.json](./154568-hell-corp.json) |
 | Hell Court | 179534 | [179534-hell-court.json](./179534-hell-court.json) |
 | Hell Crusher | 202845 | [202845-hell-crusher.json](./202845-hell-crusher.json) |
@@ -6101,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermina Lumen is Only Human | 121151 | [121151-hermina-lumen-is-only-human.json](./121151-hermina-lumen-is-only-human.json) |
 | Hermina to Culus: Lillie no Atelier Mou Hitotsu no Monogatari | 123013 | [123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json](./123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json) |
 | Hermine's Ghost Town Adventure | 311320 | [311320-hermines-ghost-town-adventure.json](./311320-hermines-ghost-town-adventure.json) |
+| Hermione's Shop | 403991 | [403991-hermiones-shop.json](./403991-hermiones-shop.json) |
 | Hermit | 291025 | [291025-hermit.json](./291025-hermit.json) |
 | Hermit and Pig | 252738 | [252738-hermit-and-pig.json](./252738-hermit-and-pig.json) |
 | Hermit Computer | 402440 | [402440-hermit-computer.json](./402440-hermit-computer.json) |
@@ -11455,6 +11458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotspot Football | 58190 | [58190-hotspot-football.json](./58190-hotspot-football.json) |
 | Hottaaman no Chisoko Tanken | 48466 | [48466-hottaaman-no-chisoko-tanken.json](./48466-hottaaman-no-chisoko-tanken.json) |
 | Hottarake no Shima: Kanata to Niji-iro no Kagami | 123035 | [123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json](./123035-hottarake-no-shima-kanata-to-niji-iro-no-kagami.json) |
+| Hotwife Ashley | 404498 | [404498-hotwife-ashley.json](./404498-hotwife-ashley.json) |
 | HotWire VR | 249937 | [249937-hotwire-vr.json](./249937-hotwire-vr.json) |
 | Houchi City | 249180 | [249180-houchi-city.json](./249180-houchi-city.json) |
 | Houchi Shoujo | 195855 | [195855-houchi-shoujo.json](./195855-houchi-shoujo.json) |
