@@ -3459,6 +3459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reanimal: Foxhead and Muttonhead Masks | 389542 | [389542-reanimal-foxhead-and-muttonhead-masks.json](./389542-reanimal-foxhead-and-muttonhead-masks.json) |
 | Reanimal: The Expanded World - Chapter 2 | 395672 | [395672-reanimal-the-expanded-world-chapter-2.json](./395672-reanimal-the-expanded-world-chapter-2.json) |
 | Reanimal: The Expanded World - Chapter 3 | 395673 | [395673-reanimal-the-expanded-world-chapter-3.json](./395673-reanimal-the-expanded-world-chapter-3.json) |
+| Reanimal: The Prisoner | 412645 | [412645-reanimal-the-prisoner.json](./412645-reanimal-the-prisoner.json) |
 | Reanimated | 274205 | [274205-reanimated.json](./274205-reanimated.json) |
 | Reanimation Inc. | 126514 | [126514-reanimation-inc.json](./126514-reanimation-inc.json) |
 | Reanimation Scheme | 158647 | [158647-reanimation-scheme.json](./158647-reanimation-scheme.json) |
@@ -9591,6 +9592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotherapy | 212058 | [212058-robotherapy.json](./212058-robotherapy.json) |
 | Robotic Arm Simulator | 386697 | [386697-robotic-arm-simulator.json](./386697-robotic-arm-simulator.json) |
 | Robotic Emergence | 405963 | [405963-robotic-emergence.json](./405963-robotic-emergence.json) |
+| Robotic Invasion 2 | 412677 | [412677-robotic-invasion-2.json](./412677-robotic-invasion-2.json) |
 | Robotic Learn | 151324 | [151324-robotic-learn.json](./151324-robotic-learn.json) |
 | Robotic Legends | 133626 | [133626-robotic-legends.json](./133626-robotic-legends.json) |
 | Robotic Space Zamboni | 372188 | [372188-robotic-space-zamboni.json](./372188-robotic-space-zamboni.json) |
@@ -11732,6 +11734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Seed Replica | 167381 | [167381-rose-seed-replica.json](./167381-rose-seed-replica.json) |
 | Rosebaker's Icy Treats | 55495 | [55495-rosebakers-icy-treats.json](./55495-rosebakers-icy-treats.json) |
 | Roseblight | 138554 | [138554-roseblight.json](./138554-roseblight.json) |
+| Rosebound | 412697 | [412697-rosebound.json](./412697-rosebound.json) |
 | Roseline | 276831 | [276831-roseline.json](./276831-roseline.json) |
 | Roselle Hunt | 420337 | [420337-roselle-hunt.json](./420337-roselle-hunt.json) |
 | Rosemary | 310151 | [310151-rosemary.json](./310151-rosemary.json) |
