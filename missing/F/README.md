@@ -2336,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 4: Valley of The Yetis | 23383 | [23383-far-cry-4-valley-of-the-yetis.json](./23383-far-cry-4-valley-of-the-yetis.json) |
 | Far Cry 5 + Far Cry: New Dawn Double Pack | 146032 | [146032-far-cry-5-far-cry-new-dawn-double-pack.json](./146032-far-cry-5-far-cry-new-dawn-double-pack.json) |
 | Far Cry 5 Season Pass | 95960 | [95960-far-cry-5-season-pass.json](./95960-far-cry-5-season-pass.json) |
+| Far Cry 5: Dead Living Zombies | 90081 | [90081-far-cry-5-dead-living-zombies.json](./90081-far-cry-5-dead-living-zombies.json) |
 | Far Cry 5: Deluxe Edition | 53012 | [53012-far-cry-5-deluxe-edition.json](./53012-far-cry-5-deluxe-edition.json) |
 | Far Cry 5: Digital Deluxe Edition | 118709 | [118709-far-cry-5-digital-deluxe-edition.json](./118709-far-cry-5-digital-deluxe-edition.json) |
 | Far Cry 5: Digital Gold Edition | 118710 | [118710-far-cry-5-digital-gold-edition.json](./118710-far-cry-5-digital-gold-edition.json) |
@@ -5268,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy X HD Remaster | 21899 | [21899-final-fantasy-x-hd-remaster.json](./21899-final-fantasy-x-hd-remaster.json) |
 | Final Fantasy X International | 146774 | [146774-final-fantasy-x-international.json](./146774-final-fantasy-x-international.json) |
 | Final Fantasy X-2 | 413 | [413-final-fantasy-x-2.json](./413-final-fantasy-x-2.json) |
+| Final Fantasy X-2 HD Remaster | 21880 | [21880-final-fantasy-x-2-hd-remaster.json](./21880-final-fantasy-x-2-hd-remaster.json) |
 | Final Fantasy X-2 International + Last Mission | 146852 | [146852-final-fantasy-x-2-international-last-mission.json](./146852-final-fantasy-x-2-international-last-mission.json) |
 | Final Fantasy X-2: International | 247548 | [247548-final-fantasy-x-2-international.json](./247548-final-fantasy-x-2-international.json) |
 | Final Fantasy X-2: Last Mission | 247245 | [247245-final-fantasy-x-2-last-mission.json](./247245-final-fantasy-x-2-last-mission.json) |
