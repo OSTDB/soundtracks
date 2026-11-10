@@ -3039,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baru and the Spirit Prince | 29984 | [29984-baru-and-the-spirit-prince.json](./29984-baru-and-the-spirit-prince.json) |
 | Barunba | 42087 | [42087-barunba.json](./42087-barunba.json) |
 | Baryoland | 269483 | [269483-baryoland.json](./269483-baryoland.json) |
+| Bas de Beer naar Pirateneiland | 406428 | [406428-bas-de-beer-naar-pirateneiland.json](./406428-bas-de-beer-naar-pirateneiland.json) |
 | Basalt Breaker | 254784 | [254784-basalt-breaker.json](./254784-basalt-breaker.json) |
 | Basalt: The Cursed Vein | 364246 | [364246-basalt-the-cursed-vein.json](./364246-basalt-the-cursed-vein.json) |
 | Basandere | 294457 | [294457-basandere.json](./294457-basandere.json) |
@@ -6328,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Closure | 369925 | [369925-before-closure.json](./369925-before-closure.json) |
 | Before Crisis: Remake | 146943 | [146943-before-crisis-remake.json](./146943-before-crisis-remake.json) |
 | Before Dark | 149858 | [149858-before-dark.json](./149858-before-dark.json) |
+| Before Darkness Falls | 406411 | [406411-before-darkness-falls.json](./406411-before-darkness-falls.json) |
 | Before Dawn | 229101 | [229101-before-dawn.json](./229101-before-dawn.json) |
 | Before Exit: Gas Station | 349038 | [349038-before-exit-gas-station.json](./349038-before-exit-gas-station.json) |
 | Before Exit: Gas Station - Daylight DLC | 378305 | [378305-before-exit-gas-station-daylight-dlc.json](./378305-before-exit-gas-station-daylight-dlc.json) |
@@ -7269,6 +7271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between The Eyes | 295949 | [295949-between-the-eyes.json](./295949-between-the-eyes.json) |
 | Between the Lines | 202021 | [202021-between-the-lines.json](./202021-between-the-lines.json) |
 | Between the Lines | 380008 | [380008-between-the-lines.json](./380008-between-the-lines.json) |
+| Between the Shelves | 406388 | [406388-between-the-shelves.json](./406388-between-the-shelves.json) |
 | Between the Worlds 2: The Pyramid | 175798 | [175798-between-the-worlds-2-the-pyramid.json](./175798-between-the-worlds-2-the-pyramid.json) |
 | Between them | 149536 | [149536-between-them.json](./149536-between-them.json) |
 | Between Time: Escape Room | 164977 | [164977-between-time-escape-room.json](./164977-between-time-escape-room.json) |
@@ -9851,6 +9854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout | 162428 | [162428-blackout.json](./162428-blackout.json) |
 | Blackout | 221817 | [221817-blackout.json](./221817-blackout.json) |
 | Blackout | 284008 | [284008-blackout.json](./284008-blackout.json) |
+| Blackout | 406395 | [406395-blackout.json](./406395-blackout.json) |
 | BlackOut | 63061 | [63061-blackout.json](./63061-blackout.json) |
 | Blackout Arena | 390436 | [390436-blackout-arena.json](./390436-blackout-arena.json) |
 | Blackout Hospital | 238533 | [238533-blackout-hospital.json](./238533-blackout-hospital.json) |
