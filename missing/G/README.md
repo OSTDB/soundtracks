@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gamer Shop Simulator | 129309 | [129309-gamer-shop-simulator.json](./129309-gamer-shop-simulator.json) |
 | Gamer Stories: Dating Real Japanese Female Gamers | 309804 | [309804-gamer-stories-dating-real-japanese-female-gamers.json](./309804-gamer-stories-dating-real-japanese-female-gamers.json) |
+| Gamer's Dream | 410544 | [410544-gamers-dream.json](./410544-gamers-dream.json) |
 | Gamer's Jackpot 30 PAC | 73649 | [73649-gamers-jackpot-30-pac.json](./73649-gamers-jackpot-30-pac.json) |
 | Gamera 2000 | 44865 | [44865-gamera-2000.json](./44865-gamera-2000.json) |
 | Gamera Dream Battle | 227743 | [227743-gamera-dream-battle.json](./227743-gamera-dream-battle.json) |
@@ -2596,6 +2597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 2: Dark Corners | 23264 | [23264-gears-of-war-2-dark-corners.json](./23264-gears-of-war-2-dark-corners.json) |
 | Gears of War 2: Flashback Map Pack | 299996 | [299996-gears-of-war-2-flashback-map-pack.json](./299996-gears-of-war-2-flashback-map-pack.json) |
 | Gears of War 2: Game of the Year Edition | 47465 | [47465-gears-of-war-2-game-of-the-year-edition.json](./47465-gears-of-war-2-game-of-the-year-edition.json) |
+| Gears of War 2: Hollow | 410571 | [410571-gears-of-war-2-hollow.json](./410571-gears-of-war-2-hollow.json) |
 | Gears of War 2: Limited Edition | 41599 | [41599-gears-of-war-2-limited-edition.json](./41599-gears-of-war-2-limited-edition.json) |
 | Gears of War 2: Snowblind Map Pack | 299998 | [299998-gears-of-war-2-snowblind-map-pack.json](./299998-gears-of-war-2-snowblind-map-pack.json) |
 | Gears of War 3: Epic Edition | 47456 | [47456-gears-of-war-3-epic-edition.json](./47456-gears-of-war-3-epic-edition.json) |
