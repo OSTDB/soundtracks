@@ -1432,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panther Online | 145951 | [145951-panther-online.json](./145951-panther-online.json) |
 | Panther Simulator | 104625 | [104625-panther-simulator.json](./104625-panther-simulator.json) |
 | Panther Superhero City Battle | 86802 | [86802-panther-superhero-city-battle.json](./86802-panther-superhero-city-battle.json) |
+| Panther VR | 124133 | [124133-panther-vr.json](./124133-panther-vr.json) |
 | Panthera Frontier | 193725 | [193725-panthera-frontier.json](./193725-panthera-frontier.json) |
 | Panties Attack | 297173 | [297173-panties-attack.json](./297173-panties-attack.json) |
 | Panties of Rage | 109604 | [109604-panties-of-rage.json](./109604-panties-of-rage.json) |
@@ -2691,6 +2692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Particle Hearts | 208570 | [208570-particle-hearts.json](./208570-particle-hearts.json) |
 | Particle Mace | 17304 | [17304-particle-mace.json](./17304-particle-mace.json) |
 | Particle of God | 217223 | [217223-particle-of-god.json](./217223-particle-of-god.json) |
+| Particle Wars | 123840 | [123840-particle-wars.json](./123840-particle-wars.json) |
 | Particles | 262696 | [262696-particles.json](./262696-particles.json) |
 | Particubes | 151086 | [151086-particubes.json](./151086-particubes.json) |
 | Particul | 389175 | [389175-particul.json](./389175-particul.json) |
@@ -3702,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PBA Bowling | 75210 | [75210-pba-bowling.json](./75210-pba-bowling.json) |
 | PBA Bowling 2 | 94674 | [94674-pba-bowling-2.json](./94674-pba-bowling-2.json) |
 | PBA Bowling Challenge | 88864 | [88864-pba-bowling-challenge.json](./88864-pba-bowling-challenge.json) |
+| PBA Pro Bowling | 124230 | [124230-pba-pro-bowling.json](./124230-pba-pro-bowling.json) |
 | PBA Pro Bowling 2021 | 142172 | [142172-pba-pro-bowling-2021.json](./142172-pba-pro-bowling-2021.json) |
 | PBA Pro Bowling 2023 | 214247 | [214247-pba-pro-bowling-2023.json](./214247-pba-pro-bowling-2023.json) |
 | PBA Pro Bowling 2026 | 369592 | [369592-pba-pro-bowling-2026.json](./369592-pba-pro-bowling-2026.json) |
@@ -4376,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pentaction: Medieval | 174247 | [174247-pentaction-medieval.json](./174247-pentaction-medieval.json) |
 | Pentago! | 311350 | [311350-pentago.json](./311350-pentago.json) |
 | Pentagonal Saloon | 120468 | [120468-pentagonal-saloon.json](./120468-pentagonal-saloon.json) |
+| Pentagonal Saloon Two | 124184 | [124184-pentagonal-saloon-two.json](./124184-pentagonal-saloon-two.json) |
 | Pentagons Go Weee | 195370 | [195370-pentagons-go-weee.json](./195370-pentagons-go-weee.json) |
 | Pentagorat | 178839 | [178839-pentagorat.json](./178839-pentagorat.json) |
 | Pentagram | 26394 | [26394-pentagram.json](./26394-pentagram.json) |
