@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Callous | 318964 | [318964-callous.json](./318964-callous.json) |
 | Callout | 415225 | [415225-callout.json](./415225-callout.json) |
 | Callparin 2 | 158518 | [158518-callparin-2.json](./158518-callparin-2.json) |
+| Callsign: Stargazer | 413978 | [413978-callsign-stargazer.json](./413978-callsign-stargazer.json) |
 | Callthem | 224853 | [224853-callthem.json](./224853-callthem.json) |
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
@@ -4221,6 +4222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
 | Cat Couple | 334804 | [334804-cat-couple.json](./334804-cat-couple.json) |
 | Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
+| Cat Crazy | 414009 | [414009-cat-crazy.json](./414009-cat-crazy.json) |
 | Cat Crisis | 412438 | [412438-cat-crisis.json](./412438-cat-crisis.json) |
 | Cat Crunch | 304955 | [304955-cat-crunch.json](./304955-cat-crunch.json) |
 | Cat Cursor by Travellin Cats | 394275 | [394275-cat-cursor-by-travellin-cats.json](./394275-cat-cursor-by-travellin-cats.json) |
@@ -4339,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Merge | 374927 | [374927-cat-merge.json](./374927-cat-merge.json) |
 | Cat Milk | 163171 | [163171-cat-milk.json](./163171-cat-milk.json) |
 | Cat Minesweeper | 396599 | [396599-cat-minesweeper.json](./396599-cat-minesweeper.json) |
+| Cat Mirror | 414010 | [414010-cat-mirror.json](./414010-cat-mirror.json) |
 | Cat Movies! | 132960 | [132960-cat-movies.json](./132960-cat-movies.json) |
 | Cat Museum | 193857 | [193857-cat-museum.json](./193857-cat-museum.json) |
 | Cat Music Chaos | 419335 | [419335-cat-music-chaos.json](./419335-cat-music-chaos.json) |
@@ -4805,6 +4808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathderal Deer | 400279 | [400279-cathderal-deer.json](./400279-cathderal-deer.json) |
 | Cathedral | 122001 | [122001-cathedral.json](./122001-cathedral.json) |
 | Cathedral | 301338 | [301338-cathedral.json](./301338-cathedral.json) |
+| Cathedral | 413969 | [413969-cathedral.json](./413969-cathedral.json) |
 | Cathedral 3-D | 123364 | [123364-cathedral-3-d.json](./123364-cathedral-3-d.json) |
 | Cathedral of Sorrow | 218683 | [218683-cathedral-of-sorrow.json](./218683-cathedral-of-sorrow.json) |
 | Cathedral: Crow's Curse | 352757 | [352757-cathedral-crows-curse.json](./352757-cathedral-crows-curse.json) |
@@ -9497,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Defender | 211197 | [211197-circuit-defender.json](./211197-circuit-defender.json) |
 | Circuit Defender | 380074 | [380074-circuit-defender.json](./380074-circuit-defender.json) |
 | Circuit Dude | 51789 | [51789-circuit-dude.json](./51789-circuit-dude.json) |
+| Circuit Flow | 413943 | [413943-circuit-flow.json](./413943-circuit-flow.json) |
 | Circuit Maze | 333494 | [333494-circuit-maze.json](./333494-circuit-maze.json) |
 | Circuit Puzzle | 270402 | [270402-circuit-puzzle.json](./270402-circuit-puzzle.json) |
 | Circuit Racer | 26656 | [26656-circuit-racer.json](./26656-circuit-racer.json) |
