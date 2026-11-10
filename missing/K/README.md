@@ -5779,6 +5779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korpus: Buried over the Black Soil | 129233 | [129233-korpus-buried-over-the-black-soil.json](./129233-korpus-buried-over-the-black-soil.json) |
 | Korridor | 369386 | [369386-korridor.json](./369386-korridor.json) |
 | Korsakovia | 182380 | [182380-korsakovia.json](./182380-korsakovia.json) |
+| Korsaros Online | 418098 | [418098-korsaros-online.json](./418098-korsaros-online.json) |
 | Korter 1996 | 320714 | [320714-korter-1996.json](./320714-korter-1996.json) |
 | Kortstrid | 249569 | [249569-kortstrid.json](./249569-kortstrid.json) |
 | Koru | 189008 | [189008-koru.json](./189008-koru.json) |
