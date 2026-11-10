@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: New Vegas - Old World Blues | 10306 | [10306-fallout-new-vegas-old-world-blues.json](./10306-fallout-new-vegas-old-world-blues.json) |
 | Fallout: New Vegas - Ultimate Edition | 25532 | [25532-fallout-new-vegas-ultimate-edition.json](./25532-fallout-new-vegas-ultimate-edition.json) |
 | Fallout: New Vegas Remaster | 410463 | [410463-fallout-new-vegas-remaster.json](./410463-fallout-new-vegas-remaster.json) |
+| Fallout: Nuclear Sunset | 406432 | [406432-fallout-nuclear-sunset.json](./406432-fallout-nuclear-sunset.json) |
 | Fallout: Oblivion Lost | 250696 | [250696-fallout-oblivion-lost.json](./250696-fallout-oblivion-lost.json) |
 | Fallout: Sonora | 237831 | [237831-fallout-sonora.json](./237831-fallout-sonora.json) |
 | Fallout: Sonora Dayglow | 333655 | [333655-fallout-sonora-dayglow.json](./333655-fallout-sonora-dayglow.json) |
@@ -8561,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flock Off! | 405333 | [405333-flock-off.json](./405333-flock-off.json) |
 | Flock Party | 250869 | [250869-flock-party.json](./250869-flock-party.json) |
 | Flock VR | 30108 | [30108-flock-vr.json](./30108-flock-vr.json) |
+| Flocked and Loaded | 406377 | [406377-flocked-and-loaded.json](./406377-flocked-and-loaded.json) |
 | Flockers | 10324 | [10324-flockers.json](./10324-flockers.json) |
 | Flocking Hell | 322494 | [322494-flocking-hell.json](./322494-flocking-hell.json) |
 | Flockland Island Crisis | 286594 | [286594-flockland-island-crisis.json](./286594-flockland-island-crisis.json) |
