@@ -151,6 +151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mabus 3000 | 245781 | [245781-mabus-3000.json](./245781-mabus-3000.json) |
 | Mac Attack | 210200 | [210200-mac-attack.json](./210200-mac-attack.json) |
 | Mac Biskwi Adventures | 169631 | [169631-mac-biskwi-adventures.json](./169631-mac-biskwi-adventures.json) |
+| Mac Hack VI | 407638 | [407638-mac-hack-vi.json](./407638-mac-hack-vi.json) |
 | Mac Pro Football | 36694 | [36694-mac-pro-football.json](./36694-mac-pro-football.json) |
 | Macabre | 201488 | [201488-macabre.json](./201488-macabre.json) |
 | Macabre | 34875 | [34875-macabre.json](./34875-macabre.json) |
@@ -479,6 +480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad TV | 14719 | [14719-mad-tv.json](./14719-mad-tv.json) |
 | Mad TV 2 | 92915 | [92915-mad-tv-2.json](./92915-mad-tv-2.json) |
 | Mad Valley | 294135 | [294135-mad-valley.json](./294135-mad-valley.json) |
+| Mad Virus | 407665 | [407665-mad-virus.json](./407665-mad-virus.json) |
 | Mad Void | 321051 | [321051-mad-void.json](./321051-mad-void.json) |
 | Mad Way | 256285 | [256285-mad-way.json](./256285-mad-way.json) |
 | Mad Wild Fairy Tale | 152696 | [152696-mad-wild-fairy-tale.json](./152696-mad-wild-fairy-tale.json) |
@@ -15212,6 +15214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Legends: Adventure | 133687 | [133687-mobile-legends-adventure.json](./133687-mobile-legends-adventure.json) |
 | Mobile Life | 181148 | [181148-mobile-life.json](./181148-mobile-life.json) |
 | Mobile Light Force | 299074 | [299074-mobile-light-force.json](./299074-mobile-light-force.json) |
+| Mobile Light Force 2 | 407678 | [407678-mobile-light-force-2.json](./407678-mobile-light-force-2.json) |
 | Mobile Minigames: Play & Earn | 131355 | [131355-mobile-minigames-play-and-earn.json](./131355-mobile-minigames-play-and-earn.json) |
 | Mobile Murder Mystery | 370691 | [370691-mobile-murder-mystery.json](./370691-mobile-murder-mystery.json) |
 | Mobile Phase 10 | 243277 | [243277-mobile-phase-10.json](./243277-mobile-phase-10.json) |
@@ -21533,6 +21536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Favorite Match | 179510 | [179510-my-favorite-match.json](./179510-my-favorite-match.json) |
 | My Favorite Monster | 261305 | [261305-my-favorite-monster.json](./261305-my-favorite-monster.json) |
 | My Favorite Notification | 296210 | [296210-my-favorite-notification.json](./296210-my-favorite-notification.json) |
+| My Favorite Store Simulator | 407653 | [407653-my-favorite-store-simulator.json](./407653-my-favorite-store-simulator.json) |
 | My Favourite T-Shirt | 398540 | [398540-my-favourite-t-shirt.json](./398540-my-favourite-t-shirt.json) |
 | My Felt World: farm, ocean, safari, arctic | 104505 | [104505-my-felt-world-farm-ocean-safari-arctic.json](./104505-my-felt-world-farm-ocean-safari-arctic.json) |
 | My Femboy Maid | 370471 | [370471-my-femboy-maid.json](./370471-my-femboy-maid.json) |
