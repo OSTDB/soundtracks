@@ -14827,6 +14827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mite | 235424 | [235424-mite.json](./235424-mite.json) |
 | Mite ha Ikenai | 300344 | [300344-mite-ha-ikenai.json](./300344-mite-ha-ikenai.json) |
 | Mite Kiite Nou de Kanjite Crossword Tengoku | 269440 | [269440-mite-kiite-nou-de-kanjite-crossword-tengoku.json](./269440-mite-kiite-nou-de-kanjite-crossword-tengoku.json) |
+| MITH: Make It To Heaven | 408446 | [408446-mith-make-it-to-heaven.json](./408446-mith-make-it-to-heaven.json) |
 | Mithos | 159980 | [159980-mithos.json](./159980-mithos.json) |
 | Mithos | 39102 | [39102-mithos.json](./39102-mithos.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
@@ -17953,6 +17954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | More Super Mario "Bras." 2: Choose a Path! | 255599 | [255599-more-super-mario-bras-2-choose-a-path.json](./255599-more-super-mario-bras-2-choose-a-path.json) |
 | More Super Mario "Bras." Beginner's Edition DS | 255597 | [255597-more-super-mario-bras-beginners-edition-ds.json](./255597-more-super-mario-bras-beginners-edition-ds.json) |
 | More Sushi! | 366433 | [366433-more-sushi.json](./366433-more-sushi.json) |
+| More Than Eleven | 408373 | [408373-more-than-eleven.json](./408373-more-than-eleven.json) |
 | More Than Human | 278531 | [278531-more-than-human.json](./278531-more-than-human.json) |
 | More Than Just Chess | 75008 | [75008-more-than-just-chess.json](./75008-more-than-just-chess.json) |
 | More than u no | 182841 | [182841-more-than-u-no.json](./182841-more-than-u-no.json) |
@@ -21038,6 +21040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MVP Spades Deluxe | 93396 | [93396-mvp-spades-deluxe.json](./93396-mvp-spades-deluxe.json) |
 | MVP Word Search for Windows | 71830 | [71830-mvp-word-search-for-windows.json](./71830-mvp-word-search-for-windows.json) |
 | MVR | 286762 | [286762-mvr.json](./286762-mvr.json) |
+| MW Ultra | 408477 | [408477-mw-ultra.json](./408477-mw-ultra.json) |
 | Mwizz | 194870 | [194870-mwizz.json](./194870-mwizz.json) |
 | MWT: Tank Battles | 319848 | [319848-mwt-tank-battles.json](./319848-mwt-tank-battles.json) |
 | MX 2002 Featuring Ricky Carmichael | 18265 | [18265-mx-2002-featuring-ricky-carmichael.json](./18265-mx-2002-featuring-ricky-carmichael.json) |
