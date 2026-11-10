@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastern Market Murder | 174372 | [174372-eastern-market-murder.json](./174372-eastern-market-murder.json) |
 | Eastern Mind: The Lost Souls of Tong Nou | 73752 | [73752-eastern-mind-the-lost-souls-of-tong-nou.json](./73752-eastern-mind-the-lost-souls-of-tong-nou.json) |
 | Eastern Tactics | 171571 | [171571-eastern-tactics.json](./171571-eastern-tactics.json) |
+| EasterStory | 414014 | [414014-easterstory.json](./414014-easterstory.json) |
 | Eastfound | 101036 | [101036-eastfound.json](./101036-eastfound.json) |
 | Eastpunk: Journey | 249668 | [249668-eastpunk-journey.json](./249668-eastpunk-journey.json) |
 | Eastside Hockey Manager | 17396 | [17396-eastside-hockey-manager.json](./17396-eastside-hockey-manager.json) |
@@ -1657,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Super Tritorn MSX2 | 387663 | [387663-eggconsole-super-tritorn-msx2.json](./387663-eggconsole-super-tritorn-msx2.json) |
 | Eggconsole Take the A-Train PC-8801 | 395655 | [395655-eggconsole-take-the-a-train-pc-8801.json](./395655-eggconsole-take-the-a-train-pc-8801.json) |
 | Eggconsole Templo Del Sol: Asteka II PC-8801 | 319319 | [319319-eggconsole-templo-del-sol-asteka-ii-pc-8801.json](./319319-eggconsole-templo-del-sol-asteka-ii-pc-8801.json) |
+| Eggconsole The Legend of Heroes III: "White Witch" Renewal PC-9801 | 413946 | [413946-eggconsole-the-legend-of-heroes-iii-white-witch-renewal-pc-9801.json](./413946-eggconsole-the-legend-of-heroes-iii-white-witch-renewal-pc-9801.json) |
 | Eggconsole The Legend of Heroes Saga PC-8801 | 334093 | [334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json](./334093-eggconsole-the-legend-of-heroes-saga-pc-8801.json) |
 | Eggconsole The Scheme PC-8801mkIISR | 323695 | [323695-eggconsole-the-scheme-pc-8801mkiisr.json](./323695-eggconsole-the-scheme-pc-8801mkiisr.json) |
 | Eggconsole Thexder PC-8801mkIISR | 274444 | [274444-eggconsole-thexder-pc-8801mkiisr.json](./274444-eggconsole-thexder-pc-8801mkiisr.json) |
@@ -3217,6 +3219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Ambulance Simulator | 383399 | [383399-emergency-ambulance-simulator.json](./383399-emergency-ambulance-simulator.json) |
 | Emergency Ambulance Simulator | 63673 | [63673-emergency-ambulance-simulator.json](./63673-emergency-ambulance-simulator.json) |
 | Emergency Ambulance Simulator 2013 | 137549 | [137549-emergency-ambulance-simulator-2013.json](./137549-emergency-ambulance-simulator-2013.json) |
+| Emergency Buddies | 412685 | [412685-emergency-buddies.json](./412685-emergency-buddies.json) |
 | Emergency Call 112: KEF - Das Kleineinsatzfahrzeug | 170724 | [170724-emergency-call-112-kef-das-kleineinsatzfahrzeug.json](./170724-emergency-call-112-kef-das-kleineinsatzfahrzeug.json) |
 | Emergency Call 112: The Fire Fighting Simulation | 32829 | [32829-emergency-call-112-the-fire-fighting-simulation.json](./32829-emergency-call-112-the-fire-fighting-simulation.json) |
 | Emergency Call 112: The Fire Fighting Simulation 2 | 144936 | [144936-emergency-call-112-the-fire-fighting-simulation-2.json](./144936-emergency-call-112-the-fire-fighting-simulation-2.json) |
@@ -5697,6 +5700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape game R00m12 | 399635 | [399635-escape-game-r00m12.json](./399635-escape-game-r00m12.json) |
 | Escape game R00m14 | 406067 | [406067-escape-game-r00m14.json](./406067-escape-game-r00m14.json) |
 | Escape game R00m15 | 410381 | [410381-escape-game-r00m15.json](./410381-escape-game-r00m15.json) |
+| Escape game R00m16 | 413947 | [413947-escape-game-r00m16.json](./413947-escape-game-r00m16.json) |
 | Escape game R00m17 | 420691 | [420691-escape-game-r00m17.json](./420691-escape-game-r00m17.json) |
 | Escape Game Sleepless | 335698 | [335698-escape-game-sleepless.json](./335698-escape-game-sleepless.json) |
 | Escape Game The Abandoned Hospital | 290457 | [290457-escape-game-the-abandoned-hospital.json](./290457-escape-game-the-abandoned-hospital.json) |
