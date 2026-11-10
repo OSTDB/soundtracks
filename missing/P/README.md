@@ -1008,6 +1008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paleo Playground | 56312 | [56312-paleo-playground.json](./56312-paleo-playground.json) |
 | Paleo: Rising Town | 139820 | [139820-paleo-rising-town.json](./139820-paleo-rising-town.json) |
 | Paleocalypse | 90217 | [90217-paleocalypse.json](./90217-paleocalypse.json) |
+| Paleokin | 420602 | [420602-paleokin.json](./420602-paleokin.json) |
 | Paleon | 148991 | [148991-paleon.json](./148991-paleon.json) |
 | Paleophage | 236601 | [236601-paleophage.json](./236601-paleophage.json) |
 | Palesuckers | 268968 | [268968-palesuckers.json](./268968-palesuckers.json) |
@@ -8225,6 +8226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitcher's Duel | 44304 | [44304-pitchers-duel.json](./44304-pitchers-duel.json) |
 | Pitchfork | 31365 | [31365-pitchfork.json](./31365-pitchfork.json) |
 | Pitchfork | 364456 | [364456-pitchfork.json](./364456-pitchfork.json) |
+| Pitchfork | 420623 | [420623-pitchfork.json](./420623-pitchfork.json) |
 | Pitchfork Battles | 244858 | [244858-pitchfork-battles.json](./244858-pitchfork-battles.json) |
 | Pitchfork Kingdom | 201581 | [201581-pitchfork-kingdom.json](./201581-pitchfork-kingdom.json) |
 | Pitchfork: Playtiles Edition | 413411 | [413411-pitchfork-playtiles-edition.json](./413411-pitchfork-playtiles-edition.json) |
@@ -18087,6 +18089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pull Chain | 421236 | [421236-pull-chain.json](./421236-pull-chain.json) |
 | Pull Dots | 67622 | [67622-pull-dots.json](./67622-pull-dots.json) |
 | Pull Him Up: Pull the Pin Out | 227952 | [227952-pull-him-up-pull-the-pin-out.json](./227952-pull-him-up-pull-the-pin-out.json) |
+| Pull Me In | 420608 | [420608-pull-me-in.json](./420608-pull-me-in.json) |
 | Pull Me Out | 105618 | [105618-pull-me-out.json](./105618-pull-me-out.json) |
 | Pull My Finger | 416656 | [416656-pull-my-finger.json](./416656-pull-my-finger.json) |
 | Pull My Tongue | 100500 | [100500-pull-my-tongue.json](./100500-pull-my-tongue.json) |
