@@ -4409,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant Gram 2000: All Japan Pro Wrestling 3 | 45827 | [45827-giant-gram-2000-all-japan-pro-wrestling-3.json](./45827-giant-gram-2000-all-japan-pro-wrestling-3.json) |
 | Giant Gram: All Japan Pro Wrestling 2 | 45828 | [45828-giant-gram-all-japan-pro-wrestling-2.json](./45828-giant-gram-all-japan-pro-wrestling-2.json) |
 | Giant Hornet | 276661 | [276661-giant-hornet.json](./276661-giant-hornet.json) |
+| Giant Hunter | 400608 | [400608-giant-hunter.json](./400608-giant-hunter.json) |
 | Giant Life | 118342 | [118342-giant-life.json](./118342-giant-life.json) |
 | Giant Machines 2017 | 24684 | [24684-giant-machines-2017.json](./24684-giant-machines-2017.json) |
 | Giant Mario Bros. | 198472 | [198472-giant-mario-bros.json](./198472-giant-mario-bros.json) |
@@ -5015,6 +5016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
 | Gladiator's Arena | 323104 | [323104-gladiators-arena.json](./323104-gladiators-arena.json) |
 | Gladiator's Glory: Salvation | 170651 | [170651-gladiators-glory-salvation.json](./170651-gladiators-glory-salvation.json) |
+| Gladiatorerna | 400040 | [400040-gladiatorerna.json](./400040-gladiatorerna.json) |
 | Gladiatori | 188893 | [188893-gladiatori.json](./188893-gladiatori.json) |
 | Gladiatorial Conquest: Battle Arena of Legends | 283266 | [283266-gladiatorial-conquest-battle-arena-of-legends.json](./283266-gladiatorial-conquest-battle-arena-of-legends.json) |
 | Gladiators and Glory | 226567 | [226567-gladiators-and-glory.json](./226567-gladiators-and-glory.json) |
