@@ -8844,6 +8844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambar's Fate | 173807 | [173807-ambars-fate.json](./173807-ambars-fate.json) |
 | Ambassador Kane | 118835 | [118835-ambassador-kane.json](./118835-ambassador-kane.json) |
 | Amber | 274806 | [274806-amber.json](./274806-amber.json) |
+| Amber & Amulets: A Gemporium Side Story | 420034 | [420034-amber-and-amulets-a-gemporium-side-story.json](./420034-amber-and-amulets-a-gemporium-side-story.json) |
 | Amber Alert | 306398 | [306398-amber-alert.json](./306398-amber-alert.json) |
 | Amber Alert Director's Cut | 345679 | [345679-amber-alert-directors-cut.json](./345679-amber-alert-directors-cut.json) |
 | Amber Alert Total VR | 339722 | [339722-amber-alert-total-vr.json](./339722-amber-alert-total-vr.json) |
