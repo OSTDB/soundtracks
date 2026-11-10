@@ -9022,6 +9022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronodog: Earth Defender | 185067 | [185067-chronodog-earth-defender.json](./185067-chronodog-earth-defender.json) |
 | ChronoDojo | 258061 | [258061-chronodojo.json](./258061-chronodojo.json) |
 | ChronoForge | 365311 | [365311-chronoforge.json](./365311-chronoforge.json) |
+| Chronographer | 426000 | [426000-chronographer.json](./426000-chronographer.json) |
 | Chronokicker 202K | 181161 | [181161-chronokicker-202k.json](./181161-chronokicker-202k.json) |
 | Chronology: Deluxe Edition | 257371 | [257371-chronology-deluxe-edition.json](./257371-chronology-deluxe-edition.json) |
 | Chronomancy: Watchmaker's Curse | 184504 | [184504-chronomancy-watchmakers-curse.json](./184504-chronomancy-watchmakers-curse.json) |
@@ -11345,6 +11346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudtop Chaos | 348858 | [348858-cloudtop-chaos.json](./348858-cloudtop-chaos.json) |
 | Cloudtrail Islands | 181601 | [181601-cloudtrail-islands.json](./181601-cloudtrail-islands.json) |
 | Cloudwalkers | 356280 | [356280-cloudwalkers.json](./356280-cloudwalkers.json) |
+| Cloudwright | 426007 | [426007-cloudwright.json](./426007-cloudwright.json) |
 | Cloudy & Stormy: Pawtastic Adventure | 333911 | [333911-cloudy-and-stormy-pawtastic-adventure.json](./333911-cloudy-and-stormy-pawtastic-adventure.json) |
 | Cloudy Day | 361267 | [361267-cloudy-day.json](./361267-cloudy-day.json) |
 | Cloudy Days | 236949 | [236949-cloudy-days.json](./236949-cloudy-days.json) |
@@ -21780,6 +21782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunica 2.0.2.0 | 169644 | [169644-cyberpunica-2-0-2-0.json](./169644-cyberpunica-2-0-2-0.json) |
 | Cyberpunk | 236691 | [236691-cyberpunk.json](./236691-cyberpunk.json) |
 | Cyberpunk 2 | 262905 | [262905-cyberpunk-2.json](./262905-cyberpunk-2.json) |
+| Cyberpunk 2077 Edgerunners 2 Update | 426005 | [426005-cyberpunk-2077-edgerunners-2-update.json](./426005-cyberpunk-2077-edgerunners-2-update.json) |
 | Cyberpunk 2077: 2.0 Update | 263463 | [263463-cyberpunk-2077-2-0-update.json](./263463-cyberpunk-2077-2-0-update.json) |
 | Cyberpunk 2077: Collector's Edition | 119328 | [119328-cyberpunk-2077-collectors-edition.json](./119328-cyberpunk-2077-collectors-edition.json) |
 | Cyberpunk 2077: Day One Edition | 284480 | [284480-cyberpunk-2077-day-one-edition.json](./284480-cyberpunk-2077-day-one-edition.json) |
