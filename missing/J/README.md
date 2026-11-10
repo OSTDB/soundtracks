@@ -3260,6 +3260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jujutsu: Shibuya Incident | 398741 | [398741-jujutsu-shibuya-incident.json](./398741-jujutsu-shibuya-incident.json) |
 | Jujutsutchi | 230075 | [230075-jujutsutchi.json](./230075-jujutsutchi.json) |
 | Jujutsutchi 0 | 230186 | [230186-jujutsutchi-0.json](./230186-jujutsutchi-0.json) |
+| Juka and the Monophonic Menace | 6479 | [6479-juka-and-the-monophonic-menace.json](./6479-juka-and-the-monophonic-menace.json) |
 | Jukai Maze | 387051 | [387051-jukai-maze.json](./387051-jukai-maze.json) |
 | Jukaya | 180587 | [180587-jukaya.json](./180587-jukaya.json) |
 | Juke | 43095 | [43095-juke.json](./43095-juke.json) |
