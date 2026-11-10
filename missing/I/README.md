@@ -3787,6 +3787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infectonator 3: Apocalypse | 76039 | [76039-infectonator-3-apocalypse.json](./76039-infectonator-3-apocalypse.json) |
 | Infectonator World Dominator | 129950 | [129950-infectonator-world-dominator.json](./129950-infectonator-world-dominator.json) |
 | Infectonator: Hot Chase | 234396 | [234396-infectonator-hot-chase.json](./234396-infectonator-hot-chase.json) |
+| Infectonator: Survivors | 16914 | [16914-infectonator-survivors.json](./16914-infectonator-survivors.json) |
 | Infectonator! | 234395 | [234395-infectonator.json](./234395-infectonator.json) |
 | Infector | 184464 | [184464-infector.json](./184464-infector.json) |
 | Infectra | 146752 | [146752-infectra.json](./146752-infectra.json) |
@@ -4044,7 +4045,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5290,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interphase | 129210 | [129210-interphase.json](./129210-interphase.json) |
 | InterPlanet | 77721 | [77721-interplanet.json](./77721-interplanet.json) |
 | Interplanet Ex | 178982 | [178982-interplanet-ex.json](./178982-interplanet-ex.json) |
+| Interplanetary | 17083 | [17083-interplanetary.json](./17083-interplanetary.json) |
 | Interplanetary Gardener | 151290 | [151290-interplanetary-gardener.json](./151290-interplanetary-gardener.json) |
 | Interplanetary Hunter | 52293 | [52293-interplanetary-hunter.json](./52293-interplanetary-hunter.json) |
 | Interplanetary Survey Simulator | 346929 | [346929-interplanetary-survey-simulator.json](./346929-interplanetary-survey-simulator.json) |
