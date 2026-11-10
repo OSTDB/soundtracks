@@ -4102,6 +4102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising Deluxe Remaster: Costume & BGM - Sheriff | 360163 | [360163-dead-rising-deluxe-remaster-costume-and-bgm-sheriff.json](./360163-dead-rising-deluxe-remaster-costume-and-bgm-sheriff.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Tron Bonne | 360162 | [360162-dead-rising-deluxe-remaster-costume-and-bgm-tron-bonne.json](./360162-dead-rising-deluxe-remaster-costume-and-bgm-tron-bonne.json) |
 | Dead Rising mobile | 81391 | [81391-dead-rising-mobile.json](./81391-dead-rising-mobile.json) |
+| Dead Rising: Chop Till You Drop | 4798 | [4798-dead-rising-chop-till-you-drop.json](./4798-dead-rising-chop-till-you-drop.json) |
 | Dead Rising: The Survival | 64627 | [64627-dead-rising-the-survival.json](./64627-dead-rising-the-survival.json) |
 | Dead Rising: Triple Pack | 23907 | [23907-dead-rising-triple-pack.json](./23907-dead-rising-triple-pack.json) |
 | Dead Rising/Gears of War | 141217 | [141217-dead-rising-gears-of-war.json](./141217-dead-rising-gears-of-war.json) |
@@ -12499,6 +12500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokapon DX: Wataru Sekai ha Oni Darake | 3888 | [3888-dokapon-dx-wataru-sekai-ha-oni-darake.json](./3888-dokapon-dx-wataru-sekai-ha-oni-darake.json) |
 | Dokapon Gaiden: Honoo no Audition | 38132 | [38132-dokapon-gaiden-honoo-no-audition.json](./38132-dokapon-gaiden-honoo-no-audition.json) |
 | Dokapon Journey | 21121 | [21121-dokapon-journey.json](./21121-dokapon-journey.json) |
+| Dokapon Kingdom | 4816 | [4816-dokapon-kingdom.json](./4816-dokapon-kingdom.json) |
 | Dokapon Kingdom: Connect | 234349 | [234349-dokapon-kingdom-connect.json](./234349-dokapon-kingdom-connect.json) |
 | Dokapon the World | 63153 | [63153-dokapon-the-world.json](./63153-dokapon-the-world.json) |
 | Dokapon UP! Mugen no Roulette | 139184 | [139184-dokapon-up-mugen-no-roulette.json](./139184-dokapon-up-mugen-no-roulette.json) |
@@ -13494,6 +13496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Konga 1+2 Pack | 329370 | [329370-donkey-konga-1-2-pack.json](./329370-donkey-konga-1-2-pack.json) |
 | Donkey Konga 2 | 256806 | [256806-donkey-konga-2.json](./256806-donkey-konga-2.json) |
 | Donkey Konga 2 | 328668 | [328668-donkey-konga-2.json](./328668-donkey-konga-2.json) |
+| Donkey Konga 2: Hit Song Parade! | 3890 | [3890-donkey-konga-2-hit-song-parade.json](./3890-donkey-konga-2-hit-song-parade.json) |
 | Donkey Konga 3: Tabehoudai! Haru Mogitate 50 Kyoku | 3891 | [3891-donkey-konga-3-tabehoudai-haru-mogitate-50-kyoku.json](./3891-donkey-konga-3-tabehoudai-haru-mogitate-50-kyoku.json) |
 | Donkey Konga Beat | 231646 | [231646-donkey-konga-beat.json](./231646-donkey-konga-beat.json) |
 | Donkey Konk | 231608 | [231608-donkey-konk.json](./231608-donkey-konk.json) |
@@ -16828,6 +16831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Pet VR | 74624 | [74624-dream-pet-vr.json](./74624-dream-pet-vr.json) |
 | Dream Piano Tiles 2018 | 107665 | [107665-dream-piano-tiles-2018.json](./107665-dream-piano-tiles-2018.json) |
 | Dream Pinball 3D | 259178 | [259178-dream-pinball-3d.json](./259178-dream-pinball-3d.json) |
+| Dream Pinball 3D | 4823 | [4823-dream-pinball-3d.json](./4823-dream-pinball-3d.json) |
 | Dream Pinball 3D II | 64529 | [64529-dream-pinball-3d-ii.json](./64529-dream-pinball-3d-ii.json) |
 | Dream Pinball 3D: Digital Deluxe Edition | 402953 | [402953-dream-pinball-3d-digital-deluxe-edition.json](./402953-dream-pinball-3d-digital-deluxe-edition.json) |
 | Dream Place | 334336 | [334336-dream-place.json](./334336-dream-place.json) |
@@ -17574,6 +17578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driveland | 285559 | [285559-driveland.json](./285559-driveland.json) |
 | Driveloop: Survivors | 331731 | [331731-driveloop-survivors.json](./331731-driveloop-survivors.json) |
 | Driven | 210287 | [210287-driven.json](./210287-driven.json) |
+| Driven | 3900 | [3900-driven.json](./3900-driven.json) |
 | Driven Out | 117524 | [117524-driven-out.json](./117524-driven-out.json) |
 | Driver | 399366 | [399366-driver.json](./399366-driver.json) |
 | Driver | 675 | [675-driver.json](./675-driver.json) |
