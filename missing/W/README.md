@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wait For It | 184238 | [184238-wait-for-it.json](./184238-wait-for-it.json) |
 | Wait What's That | 324507 | [324507-wait-whats-that.json](./324507-wait-whats-that.json) |
 | Wait, Is That Me? | 364653 | [364653-wait-is-that-me.json](./364653-wait-is-that-me.json) |
+| Wait: Extended | 35815 | [35815-wait-extended.json](./35815-wait-extended.json) |
 | Wait: The Patient | 312564 | [312564-wait-the-patient.json](./312564-wait-the-patient.json) |
 | Wait! Life is beautiful! | 81163 | [81163-wait-life-is-beautiful.json](./81163-wait-life-is-beautiful.json) |
 | Wait! Where's My Lunch | 169390 | [169390-wait-wheres-my-lunch.json](./169390-wait-wheres-my-lunch.json) |
@@ -2938,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Illuminati | 120333 | [120333-we-are-illuminati.json](./120333-we-are-illuminati.json) |
 | We Are Infinity | 283744 | [283744-we-are-infinity.json](./283744-we-are-infinity.json) |
 | We are kings | 183925 | [183925-we-are-kings.json](./183925-we-are-kings.json) |
+| We Are Legion | 35665 | [35665-we-are-legion.json](./35665-we-are-legion.json) |
 | We are Legion: Rome | 120916 | [120916-we-are-legion-rome.json](./120916-we-are-legion-rome.json) |
 | We Are Live | 157034 | [157034-we-are-live.json](./157034-we-are-live.json) |
 | We Are Live Momora! | 402461 | [402461-we-are-live-momora.json](./402461-we-are-live-momora.json) |
