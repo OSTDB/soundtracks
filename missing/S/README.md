@@ -2759,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scally's World: Numbers & Sums | 110566 | [110566-scallys-world-numbers-and-sums.json](./110566-scallys-world-numbers-and-sums.json) |
 | Scallywag: In the Lair of the Medusa | 50459 | [50459-scallywag-in-the-lair-of-the-medusa.json](./50459-scallywag-in-the-lair-of-the-medusa.json) |
 | Scallywags | 404605 | [404605-scallywags.json](./404605-scallywags.json) |
+| Scallywags | 423093 | [423093-scallywags.json](./423093-scallywags.json) |
 | Scallywags | 73081 | [73081-scallywags.json](./73081-scallywags.json) |
 | Scalpel, Please! | 342516 | [342516-scalpel-please.json](./342516-scalpel-please.json) |
 | Scalpers' Spoils | 422126 | [422126-scalpers-spoils.json](./422126-scalpers-spoils.json) |
@@ -10415,6 +10416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siberian Way | 333237 | [333237-siberian-way.json](./333237-siberian-way.json) |
 | Sibijicheon M | 233547 | [233547-sibijicheon-m.json](./233547-sibijicheon-m.json) |
 | Sibilla | 405005 | [405005-sibilla.json](./405005-sibilla.json) |
+| Sibir | 423043 | [423043-sibir.json](./423043-sibir.json) |
 | Sibling Souls | 343388 | [343388-sibling-souls.json](./343388-sibling-souls.json) |
 | Siblings | 282607 | [282607-siblings.json](./282607-siblings.json) |
 | SIC-1 | 216526 | [216526-sic-1.json](./216526-sic-1.json) |
@@ -10720,6 +10722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sif and the Labyrinth | 190474 | [190474-sif-and-the-labyrinth.json](./190474-sif-and-the-labyrinth.json) |
 | SIFC: Survival - In First Contact | 266022 | [266022-sifc-survival-in-first-contact.json](./266022-sifc-survival-in-first-contact.json) |
 | Sifera | 298147 | [298147-sifera.json](./298147-sifera.json) |
+| Sift | 423044 | [423044-sift.json](./423044-sift.json) |
 | Sift Heads | 209633 | [209633-sift-heads.json](./209633-sift-heads.json) |
 | Sift Heads 0: The Starting Point | 357302 | [357302-sift-heads-0-the-starting-point.json](./357302-sift-heads-0-the-starting-point.json) |
 | Sift Heads 1: Remasterized | 359423 | [359423-sift-heads-1-remasterized.json](./359423-sift-heads-1-remasterized.json) |
@@ -12758,6 +12761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skewer of Heroes | 360855 | [360855-skewer-of-heroes.json](./360855-skewer-of-heroes.json) |
 | Skewer Squad | 374413 | [374413-skewer-squad.json](./374413-skewer-squad.json) |
 | Skewer'd | 424299 | [424299-skewerd.json](./424299-skewerd.json) |
+| Skewered Up! | 423084 | [423084-skewered-up.json](./423084-skewered-up.json) |
 | SKG Hunt | 392876 | [392876-skg-hunt.json](./392876-skg-hunt.json) |
 | Ski Air Mix | 186129 | [186129-ski-air-mix.json](./186129-ski-air-mix.json) |
 | Ski and Shoot | 9749 | [9749-ski-and-shoot.json](./9749-ski-and-shoot.json) |
@@ -13903,6 +13907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slayer Cat | 147362 | [147362-slayer-cat.json](./147362-slayer-cat.json) |
 | Slayer Knight | 297354 | [297354-slayer-knight.json](./297354-slayer-knight.json) |
 | Slayer Legend | 226766 | [226766-slayer-legend.json](./226766-slayer-legend.json) |
+| Slayer Mage: My First RPG | 423059 | [423059-slayer-mage-my-first-rpg.json](./423059-slayer-mage-my-first-rpg.json) |
 | Slayer of Sin | 223204 | [223204-slayer-of-sin.json](./223204-slayer-of-sin.json) |
 | Slayer of Traitors | 101273 | [101273-slayer-of-traitors.json](./101273-slayer-of-traitors.json) |
 | Slayer Shock | 24646 | [24646-slayer-shock.json](./24646-slayer-shock.json) |
@@ -14643,6 +14648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sloppy Eater: Meal Deal Edition | 186638 | [186638-sloppy-eater-meal-deal-edition.json](./186638-sloppy-eater-meal-deal-edition.json) |
 | Sloppy Goat | 93782 | [93782-sloppy-goat.json](./93782-sloppy-goat.json) |
 | Sloppy Shopping | 183298 | [183298-sloppy-shopping.json](./183298-sloppy-shopping.json) |
+| Sloptoberfest | 423070 | [423070-sloptoberfest.json](./423070-sloptoberfest.json) |
 | Slordax: The Unknown Enemy | 73244 | [73244-slordax-the-unknown-enemy.json](./73244-slordax-the-unknown-enemy.json) |
 | Slorpus Slaughter VII: Singular Shoot Soul | 391245 | [391245-slorpus-slaughter-vii-singular-shoot-soul.json](./391245-slorpus-slaughter-vii-singular-shoot-soul.json) |
 | Slot & Dungeons | 333408 | [333408-slot-and-dungeons.json](./333408-slot-and-dungeons.json) |
@@ -19307,6 +19313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sort Battle: Dungeon | 120716 | [120716-sort-battle-dungeon.json](./120716-sort-battle-dungeon.json) |
 | Sort Em All | 345264 | [345264-sort-em-all.json](./345264-sort-em-all.json) |
 | Sort Hexa Tiles | 364022 | [364022-sort-hexa-tiles.json](./364022-sort-hexa-tiles.json) |
+| Sort Inc. | 423077 | [423077-sort-inc.json](./423077-sort-inc.json) |
 | Sort It! | 268528 | [268528-sort-it.json](./268528-sort-it.json) |
 | Sort Items | 364024 | [364024-sort-items.json](./364024-sort-items.json) |
 | Sort Labs | 420319 | [420319-sort-labs.json](./420319-sort-labs.json) |
@@ -20793,6 +20800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mages: Dimension 33 | 153417 | [153417-space-mages-dimension-33.json](./153417-space-mages-dimension-33.json) |
 | Space Major Miner | 207324 | [207324-space-major-miner.json](./207324-space-major-miner.json) |
 | Space man adventure dash | 99662 | [99662-space-man-adventure-dash.json](./99662-space-man-adventure-dash.json) |
+| Space Manager | 423039 | [423039-space-manager.json](./423039-space-manager.json) |
 | Space Manbow | 41666 | [41666-space-manbow.json](./41666-space-manbow.json) |
 | Space Manifest | 290776 | [290776-space-manifest.json](./290776-space-manifest.json) |
 | Space Mantlet | 365148 | [365148-space-mantlet.json](./365148-space-mantlet.json) |
@@ -21759,6 +21767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan X 2 | 48650 | [48650-spartan-x-2.json](./48650-spartan-x-2.json) |
 | Spartan: Total Warrior | 439 | [439-spartan-total-warrior.json](./439-spartan-total-warrior.json) |
 | Spartan's Spear | 273407 | [273407-spartans-spear.json](./273407-spartans-spear.json) |
+| SpartanPort | 423038 | [423038-spartanport.json](./423038-spartanport.json) |
 | Spartans Vs Zombies Defense | 36015 | [36015-spartans-vs-zombies-defense.json](./36015-spartans-vs-zombies-defense.json) |
 | Sparticles | 107271 | [107271-sparticles.json](./107271-sparticles.json) |
 | Spartoi Meadow | 149147 | [149147-spartoi-meadow.json](./149147-spartoi-meadow.json) |
@@ -24726,6 +24735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squishys Revenge | 256197 | [256197-squishys-revenge.json](./256197-squishys-revenge.json) |
 | Squitter's Spider Quest | 233550 | [233550-squitters-spider-quest.json](./233550-squitters-spider-quest.json) |
 | sQuiz | 137967 | [137967-squiz.json](./137967-squiz.json) |
+| Squomb | 423083 | [423083-squomb.json](./423083-squomb.json) |
 | Squonker 3 | 260663 | [260663-squonker-3.json](./260663-squonker-3.json) |
 | Sqvishy | 117451 | [117451-sqvishy.json](./117451-sqvishy.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
@@ -31800,6 +31810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Hillride | 10931 | [10931-sunny-hillride.json](./10931-sunny-hillride.json) |
 | Sunny Love | 367618 | [367618-sunny-love.json](./367618-sunny-love.json) |
 | Sunny Memories | 226353 | [226353-sunny-memories.json](./226353-sunny-memories.json) |
+| Sunny Orchard | 423076 | [423076-sunny-orchard.json](./423076-sunny-orchard.json) |
 | Sunny Place 2 | 224955 | [224955-sunny-place-2.json](./224955-sunny-place-2.json) |
 | Sunny School Stories | 100843 | [100843-sunny-school-stories.json](./100843-sunny-school-stories.json) |
 | Sunny Shine Funland! | 107818 | [107818-sunny-shine-funland.json](./107818-sunny-shine-funland.json) |
@@ -32695,6 +32706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Freaks: The Demo | 266957 | [266957-super-freaks-the-demo.json](./266957-super-freaks-the-demo.json) |
 | Super Friends Party | 117779 | [117779-super-friends-party.json](./117779-super-friends-party.json) |
 | Super Frog | 80840 | [80840-super-frog.json](./80840-super-frog.json) |
+| Super Frog Ninja | 423036 | [423036-super-frog-ninja.json](./423036-super-frog-ninja.json) |
 | Super Frog's Quest | 108410 | [108410-super-frogs-quest.json](./108410-super-frogs-quest.json) |
 | Super Froppings | 418700 | [418700-super-froppings.json](./418700-super-froppings.json) |
 | Super Fruit Fall | 5198 | [5198-super-fruit-fall.json](./5198-super-fruit-fall.json) |
