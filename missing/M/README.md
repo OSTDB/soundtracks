@@ -3678,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Saga: Kororinpa | 4962 | [4962-marble-saga-kororinpa.json](./4962-marble-saga-kororinpa.json) |
 | Marble Skies | 75639 | [75639-marble-skies.json](./75639-marble-skies.json) |
 | Marble Souls | 412504 | [412504-marble-souls.json](./412504-marble-souls.json) |
+| Marble Stars | 422394 | [422394-marble-stars.json](./422394-marble-stars.json) |
 | Marble Trap | 121977 | [121977-marble-trap.json](./121977-marble-trap.json) |
 | Marble Void | 33235 | [33235-marble-void.json](./33235-marble-void.json) |
 | Marble Watchness | 223625 | [223625-marble-watchness.json](./223625-marble-watchness.json) |
@@ -15138,6 +15139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MOBA Esport Manager 25 | 244577 | [244577-moba-esport-manager-25.json](./244577-moba-esport-manager-25.json) |
 | MOBA GM | 99593 | [99593-moba-gm.json](./99593-moba-gm.json) |
 | MOBA Legends | 58352 | [58352-moba-legends.json](./58352-moba-legends.json) |
+| MOBA Manager 2026 | 422413 | [422413-moba-manager-2026.json](./422413-moba-manager-2026.json) |
 | Mobbers | 253891 | [253891-mobbers.json](./253891-mobbers.json) |
 | Mobenium 2D | 336040 | [336040-mobenium-2d.json](./336040-mobenium-2d.json) |
 | Mobfish Hunter | 312641 | [312641-mobfish-hunter.json](./312641-mobfish-hunter.json) |
@@ -19292,6 +19294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mówùniáng Wùyǔ | 100540 | [100540-mowuniang-wuyu.json](./100540-mowuniang-wuyu.json) |
 | Mowy Lawn | 92096 | [92096-mowy-lawn.json](./92096-mowy-lawn.json) |
 | Mowzie's Mobs | 331346 | [331346-mowzies-mobs.json](./331346-mowzies-mobs.json) |
+| Moxie // Graffiti Burst | 422457 | [422457-moxie-graffiti-burst.json](./422457-moxie-graffiti-burst.json) |
 | Moxie 2 | 174325 | [174325-moxie-2.json](./174325-moxie-2.json) |
 | Moxie 2 // Overdrive | 422460 | [422460-moxie-2-overdrive.json](./422460-moxie-2-overdrive.json) |
 | Moxie Girlz | 92466 | [92466-moxie-girlz.json](./92466-moxie-girlz.json) |
@@ -19652,6 +19655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Nutz 2 | 45735 | [45735-mr-nutz-2.json](./45735-mr-nutz-2.json) |
 | Mr. Nutz: Hoppin' Mad | 39030 | [39030-mr-nutz-hoppin-mad.json](./39030-mr-nutz-hoppin-mad.json) |
 | Mr. Onion | 246354 | [246354-mr-onion.json](./246354-mr-onion.json) |
+| Mr. Panas | 422393 | [422393-mr-panas.json](./422393-mr-panas.json) |
 | Mr. Parkour | 141034 | [141034-mr-parkour.json](./141034-mr-parkour.json) |
 | Mr. Parkour 2 | 169725 | [169725-mr-parkour-2.json](./169725-mr-parkour-2.json) |
 | Mr. Parkour 3 | 141153 | [141153-mr-parkour-3.json](./141153-mr-parkour-3.json) |
@@ -22312,6 +22316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Stepsisters | 205896 | [205896-my-sweet-stepsisters.json](./205896-my-sweet-stepsisters.json) |
 | My Sweet Summer Oni | 213279 | [213279-my-sweet-summer-oni.json](./213279-my-sweet-summer-oni.json) |
 | My Sweet Waifu | 88120 | [88120-my-sweet-waifu.json](./88120-my-sweet-waifu.json) |
+| My Sweet Waifu Konko | 422445 | [422445-my-sweet-waifu-konko.json](./422445-my-sweet-waifu-konko.json) |
 | My Sweet Washing Machine! | 156654 | [156654-my-sweet-washing-machine.json](./156654-my-sweet-washing-machine.json) |
 | My Sweet Zombie! | 187580 | [187580-my-sweet-zombie.json](./187580-my-sweet-zombie.json) |
 | My Sweet! Housemate | 330596 | [330596-my-sweet-housemate.json](./330596-my-sweet-housemate.json) |
