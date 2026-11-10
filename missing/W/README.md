@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warmage | 280234 | [280234-warmage.json](./280234-warmage.json) |
 | WarMage | 26542 | [26542-warmage.json](./26542-warmage.json) |
 | WarMages | 68676 | [68676-warmages.json](./68676-warmages.json) |
+| Warman | 106142 | [106142-warman.json](./106142-warman.json) |
 | Warmancers of the Aether | 184846 | [184846-warmancers-of-the-aether.json](./184846-warmancers-of-the-aether.json) |
 | WarMen Tactics | 85496 | [85496-warmen-tactics.json](./85496-warmen-tactics.json) |
 | Warmerise | 363053 | [363053-warmerise.json](./363053-warmerise.json) |
@@ -7662,6 +7663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodo | 145078 | [145078-woodo.json](./145078-woodo.json) |
 | Woodoku | 213694 | [213694-woodoku.json](./213694-woodoku.json) |
 | Woodpecker | 63638 | [63638-woodpecker.json](./63638-woodpecker.json) |
+| Woodpunk | 104945 | [104945-woodpunk.json](./104945-woodpunk.json) |
 | Woodroid HD+ | 233742 | [233742-woodroid-hd.json](./233742-woodroid-hd.json) |
 | Woodrot | 357037 | [357037-woodrot.json](./357037-woodrot.json) |
 | Woods Leaves Stream Body Blood | 128737 | [128737-woods-leaves-stream-body-blood.json](./128737-woods-leaves-stream-body-blood.json) |
