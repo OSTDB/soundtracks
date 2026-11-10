@@ -5401,6 +5401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomwood | 134127 | [134127-gloomwood.json](./134127-gloomwood.json) |
 | Gloomy Clues | 360152 | [360152-gloomy-clues.json](./360152-gloomy-clues.json) |
 | Gloomy Detective and Devil Girl | 309982 | [309982-gloomy-detective-and-devil-girl.json](./309982-gloomy-detective-and-devil-girl.json) |
+| Gloomy Eater | 404490 | [404490-gloomy-eater.json](./404490-gloomy-eater.json) |
 | Gloomy Eyes | 131773 | [131773-gloomy-eyes.json](./131773-gloomy-eyes.json) |
 | Gloomy Eyes | 320289 | [320289-gloomy-eyes.json](./320289-gloomy-eyes.json) |
 | Gloomy Eyes + Arise: A Simple Story | 377274 | [377274-gloomy-eyes-arise-a-simple-story.json](./377274-gloomy-eyes-arise-a-simple-story.json) |
@@ -5541,6 +5542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | glowWorm | 104576 | [104576-glowworm.json](./104576-glowworm.json) |
 | GlowyJump | 129732 | [129732-glowyjump.json](./129732-glowyjump.json) |
 | Glozzle | 107122 | [107122-glozzle.json](./107122-glozzle.json) |
+| Glubtastic Maps | 403986 | [403986-glubtastic-maps.json](./403986-glubtastic-maps.json) |
 | Gluck | 258180 | [258180-gluck.json](./258180-gluck.json) |
 | Glück Auf | 90598 | [90598-gluck-auf.json](./90598-gluck-auf.json) |
 | Glucky Labs | 227734 | [227734-glucky-labs.json](./227734-glucky-labs.json) |
@@ -11594,6 +11596,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave G.O.R.E: Blood Heat | 370130 | [370130-gungrave-g-o-r-e-blood-heat.json](./370130-gungrave-g-o-r-e-blood-heat.json) |
 | Gungrave G.O.R.E: Complete Bundle | 331528 | [331528-gungrave-g-o-r-e-complete-bundle.json](./331528-gungrave-g-o-r-e-complete-bundle.json) |
 | Gungrave G.O.R.E: Day One Edition | 214133 | [214133-gungrave-g-o-r-e-day-one-edition.json](./214133-gungrave-g-o-r-e-day-one-edition.json) |
+| Gungrave G.O.R.E: Death Ronin Grave | 404478 | [404478-gungrave-g-o-r-e-death-ronin-grave.json](./404478-gungrave-g-o-r-e-death-ronin-grave.json) |
+| Gungrave G.O.R.E: Harry MacDowell | 404462 | [404462-gungrave-g-o-r-e-harry-macdowell.json](./404462-gungrave-g-o-r-e-harry-macdowell.json) |
+| Gungrave G.O.R.E: O.D. Grave | 404479 | [404479-gungrave-g-o-r-e-o-d-grave.json](./404479-gungrave-g-o-r-e-o-d-grave.json) |
+| Gungrave G.O.R.E: Rocket Billy Red Cadillac | 404461 | [404461-gungrave-g-o-r-e-rocket-billy-red-cadillac.json](./404461-gungrave-g-o-r-e-rocket-billy-red-cadillac.json) |
 | Gungrave G.O.R.E: Street Grave | 357271 | [357271-gungrave-g-o-r-e-street-grave.json](./357271-gungrave-g-o-r-e-street-grave.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition | 270473 | [270473-gungrave-g-o-r-e-ultimate-enhanced-edition.json](./270473-gungrave-g-o-r-e-ultimate-enhanced-edition.json) |
 | Gungrave G.O.R.E: Ultimate Enhanced Edition - Character Pass | 273330 | [273330-gungrave-g-o-r-e-ultimate-enhanced-edition-character-pass.json](./273330-gungrave-g-o-r-e-ultimate-enhanced-edition-character-pass.json) |
