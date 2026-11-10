@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badge Emperor | 101732 | [101732-badge-emperor.json](./101732-badge-emperor.json) |
 | Badge(r)s | 317141 | [317141-badge-r-s.json](./317141-badge-r-s.json) |
 | Badger Brawl | 177016 | [177016-badger-brawl.json](./177016-badger-brawl.json) |
+| Badiya: Desert Survival | 30925 | [30925-badiya-desert-survival.json](./30925-badiya-desert-survival.json) |
 | BadLads | 131597 | [131597-badlads.json](./131597-badlads.json) |
 | Badland | 8901 | [8901-badland.json](./8901-badland.json) |
 | Badland 2 | 15470 | [15470-badland-2.json](./15470-badland-2.json) |
@@ -15764,6 +15765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break a Leg | 307054 | [307054-break-a-leg.json](./307054-break-a-leg.json) |
 | Break an Egg | 305336 | [305336-break-an-egg.json](./305336-break-an-egg.json) |
 | Break Arcade Games Out | 282230 | [282230-break-arcade-games-out.json](./282230-break-arcade-games-out.json) |
+| Break Arts II | 30812 | [30812-break-arts-ii.json](./30812-break-arts-ii.json) |
 | Break Arts III | 265210 | [265210-break-arts-iii.json](./265210-break-arts-iii.json) |
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
 | Break Brick Out | 175742 | [175742-break-brick-out.json](./175742-break-brick-out.json) |
@@ -19326,6 +19328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bye Sweet Carole: Deluxe Edition | 401673 | [401673-bye-sweet-carole-deluxe-edition.json](./401673-bye-sweet-carole-deluxe-edition.json) |
 | Bye-Bye Bindings! | 368364 | [368364-bye-bye-bindings.json](./368364-bye-bye-bindings.json) |
 | Bye-Bye Boxboy! | 26350 | [26350-bye-bye-boxboy.json](./26350-bye-bye-boxboy.json) |
+| Bye-Bye, Wacky Planet | 25787 | [25787-bye-bye-wacky-planet.json](./25787-bye-bye-wacky-planet.json) |
 | Bye, Bye Birdie | 385515 | [385515-bye-bye-birdie.json](./385515-bye-bye-birdie.json) |
 | ByeByeObake! | 425849 | [425849-byebyeobake.json](./425849-byebyeobake.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
