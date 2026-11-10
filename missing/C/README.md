@@ -3717,7 +3717,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Cannon | 236636 | [236636-castle-cannon.json](./236636-castle-cannon.json) |
 | Castle Capture Topkapi | 232447 | [232447-castle-capture-topkapi.json](./232447-castle-capture-topkapi.json) |
 | Castle Cardians | 160033 | [160033-castle-cardians.json](./160033-castle-cardians.json) |
+| Castle Cat | 406422 | [406422-castle-cat.json](./406422-castle-cat.json) |
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
+| Castle Cat IV | 406421 | [406421-castle-cat-iv.json](./406421-castle-cat-iv.json) |
 | Castle Cats | 54991 | [54991-castle-cats.json](./54991-castle-cats.json) |
 | Castle Champion | 154390 | [154390-castle-champion.json](./154390-castle-champion.json) |
 | Castle Champions | 344869 | [344869-castle-champions.json](./344869-castle-champions.json) |
@@ -13136,6 +13138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Retro Pack | 194648 | [194648-coloring-pixels-retro-pack.json](./194648-coloring-pixels-retro-pack.json) |
 | Coloring Pixels: RPG Book | 162592 | [162592-coloring-pixels-rpg-book.json](./162592-coloring-pixels-rpg-book.json) |
 | Coloring Pixels: Safari Pack | 162594 | [162594-coloring-pixels-safari-pack.json](./162594-coloring-pixels-safari-pack.json) |
+| Coloring Pixels: Sci-Fi Fantasy Vistas 2 Pack | 406440 | [406440-coloring-pixels-sci-fi-fantasy-vistas-2-pack.json](./406440-coloring-pixels-sci-fi-fantasy-vistas-2-pack.json) |
 | Coloring Pixels: Sci-Fi Fantasy Vistas Pack | 280951 | [280951-coloring-pixels-sci-fi-fantasy-vistas-pack.json](./280951-coloring-pixels-sci-fi-fantasy-vistas-pack.json) |
 | Coloring Pixels: Space Pack | 162596 | [162596-coloring-pixels-space-pack.json](./162596-coloring-pixels-space-pack.json) |
 | Coloring Pixels: Spring Pack | 162597 | [162597-coloring-pixels-spring-pack.json](./162597-coloring-pixels-spring-pack.json) |
@@ -15219,6 +15222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking For Ma! | 404941 | [404941-cooking-for-ma.json](./404941-cooking-for-ma.json) |
 | Cooking Game - Valentines Day Menu | 96577 | [96577-cooking-game-valentines-day-menu.json](./96577-cooking-game-valentines-day-menu.json) |
 | Cooking Joy - Fun Cooking Game | 103872 | [103872-cooking-joy-fun-cooking-game.json](./103872-cooking-joy-fun-cooking-game.json) |
+| Cooking Kawaii | 406386 | [406386-cooking-kawaii.json](./406386-cooking-kawaii.json) |
 | Cooking Live | 226690 | [226690-cooking-live.json](./226690-cooking-live.json) |
 | Cooking Madness | 101513 | [101513-cooking-madness.json](./101513-cooking-madness.json) |
 | Cooking Madness | 319825 | [319825-cooking-madness.json](./319825-cooking-madness.json) |
@@ -21992,6 +21996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberWaifu | 169341 | [169341-cyberwaifu.json](./169341-cyberwaifu.json) |
 | Cyberwar | 166595 | [166595-cyberwar.json](./166595-cyberwar.json) |
 | Cyberwar: Neon City | 231308 | [231308-cyberwar-neon-city.json](./231308-cyberwar-neon-city.json) |
+| Cyberwars | 406403 | [406403-cyberwars.json](./406403-cyberwars.json) |
 | Cyberwars | 78314 | [78314-cyberwars.json](./78314-cyberwars.json) |
 | Cyberwave | 310571 | [310571-cyberwave.json](./310571-cyberwave.json) |
 | CyberWave Survivor | 254173 | [254173-cyberwave-survivor.json](./254173-cyberwave-survivor.json) |
