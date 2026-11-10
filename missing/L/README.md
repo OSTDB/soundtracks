@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Harbor | 404696 | [404696-last-harbor.json](./404696-last-harbor.json) |
 | Last Harem | 297911 | [297911-last-harem.json](./297911-last-harem.json) |
 | Last Harvest | 138779 | [138779-last-harvest.json](./138779-last-harvest.json) |
+| Last Haul | 421264 | [421264-last-haul.json](./421264-last-haul.json) |
 | Last Helion | 317863 | [317863-last-helion.json](./317863-last-helion.json) |
 | Last Hero | 196430 | [196430-last-hero.json](./196430-last-hero.json) |
 | Last Heroes | 35248 | [35248-last-heroes.json](./35248-last-heroes.json) |
