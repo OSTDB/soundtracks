@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train | 285143 | [285143-a-train.json](./285143-a-train.json) |
 | A-Train | 9990 | [9990-a-train.json](./9990-a-train.json) |
 | A-Train 3D: City Simulator | 84728 | [84728-a-train-3d-city-simulator.json](./84728-a-train-3d-city-simulator.json) |
+| A-Train 8 | 9991 | [9991-a-train-8.json](./9991-a-train-8.json) |
 | A-Train 9 | 405639 | [405639-a-train-9.json](./405639-a-train-9.json) |
 | A-Train 9 Evolution | 388239 | [388239-a-train-9-evolution.json](./388239-a-train-9-evolution.json) |
 | A-Train 9 V3.0: Railway Simulator | 52560 | [52560-a-train-9-v3-0-railway-simulator.json](./52560-a-train-9-v3-0-railway-simulator.json) |
@@ -3844,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Tokyo Disney Sea | 49494 | [49494-adventure-of-tokyo-disney-sea.json](./49494-adventure-of-tokyo-disney-sea.json) |
 | Adventure of Tuck | 188805 | [188805-adventure-of-tuck.json](./188805-adventure-of-tuck.json) |
 | Adventure on Lost Island: Hidden Object Game | 51100 | [51100-adventure-on-lost-island-hidden-object-game.json](./51100-adventure-on-lost-island-hidden-object-game.json) |
+| Adventure Park | 9947 | [9947-adventure-park.json](./9947-adventure-park.json) |
 | Adventure Pinball | 122227 | [122227-adventure-pinball.json](./122227-adventure-pinball.json) |
 | Adventure Pinball Bundle | 147570 | [147570-adventure-pinball-bundle.json](./147570-adventure-pinball-bundle.json) |
 | Adventure Pinball: Forgotten Island | 7549 | [7549-adventure-pinball-forgotten-island.json](./7549-adventure-pinball-forgotten-island.json) |
@@ -7857,6 +7859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Your Time-Tossed Selves | 134379 | [134379-all-your-time-tossed-selves.json](./134379-all-your-time-tossed-selves.json) |
 | All Zero | 402031 | [402031-all-zero.json](./402031-all-zero.json) |
 | All Zombies Must Die! | 9971 | [9971-all-zombies-must-die.json](./9971-all-zombies-must-die.json) |
+| All Zombies Must Die! Scorepocalypse | 9972 | [9972-all-zombies-must-die-scorepocalypse.json](./9972-all-zombies-must-die-scorepocalypse.json) |
 | All-American College Football | 205116 | [205116-all-american-college-football.json](./205116-all-american-college-football.json) |
 | All-American College Football | 332296 | [332296-all-american-college-football.json](./332296-all-american-college-football.json) |
 | All-front Assault | 344498 | [344498-all-front-assault.json](./344498-all-front-assault.json) |
@@ -17624,6 +17627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantis: Coral Quest | 205895 | [205895-atlantis-coral-quest.json](./205895-atlantis-coral-quest.json) |
 | Atlantis: Evolution | 19446 | [19446-atlantis-evolution.json](./19446-atlantis-evolution.json) |
 | Atlantis: Mysteries of Ancient Inventors | 88345 | [88345-atlantis-mysteries-of-ancient-inventors.json](./88345-atlantis-mysteries-of-ancient-inventors.json) |
+| Atlantis: Pearls of the Deep | 9988 | [9988-atlantis-pearls-of-the-deep.json](./9988-atlantis-pearls-of-the-deep.json) |
 | Atlantis: The Last Resort | 45947 | [45947-atlantis-the-last-resort.json](./45947-atlantis-the-last-resort.json) |
 | Atlantis: The Lost Continent | 43826 | [43826-atlantis-the-lost-continent.json](./43826-atlantis-the-lost-continent.json) |
 | Atlantis: The Lost Empire - The Lost Games | 132153 | [132153-atlantis-the-lost-empire-the-lost-games.json](./132153-atlantis-the-lost-empire-the-lost-games.json) |
@@ -18891,6 +18895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aviator | 387435 | [387435-aviator.json](./387435-aviator.json) |
 | Aviator Arcade II | 182926 | [182926-aviator-arcade-ii.json](./182926-aviator-arcade-ii.json) |
 | Aviator: Air Combat | 226161 | [226161-aviator-air-combat.json](./226161-aviator-air-combat.json) |
+| Aviator: Bush Pilot | 10007 | [10007-aviator-bush-pilot.json](./10007-aviator-bush-pilot.json) |
 | Aviators | 274928 | [274928-aviators.json](./274928-aviators.json) |
 | Aviators | 31776 | [31776-aviators.json](./31776-aviators.json) |
 | Aviators VR | 280343 | [280343-aviators-vr.json](./280343-aviators-vr.json) |
