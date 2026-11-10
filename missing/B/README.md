@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby's Nightmare Circus | 194385 | [194385-babys-nightmare-circus.json](./194385-babys-nightmare-circus.json) |
 | Baby's Nightmare Circus Bike Fighter | 370552 | [370552-babys-nightmare-circus-bike-fighter.json](./370552-babys-nightmare-circus-bike-fighter.json) |
 | Baby's Nightmare Circus VR: Remake | 336002 | [336002-babys-nightmare-circus-vr-remake.json](./336002-babys-nightmare-circus-vr-remake.json) |
+| Baby's on fire | 95283 | [95283-babys-on-fire.json](./95283-babys-on-fire.json) |
 | Baby's Town | 299835 | [299835-babys-town.json](./299835-babys-town.json) |
 | Babycar Driver | 101401 | [101401-babycar-driver.json](./101401-babycar-driver.json) |
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
@@ -12346,6 +12347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blueberry | 130534 | [130534-blueberry.json](./130534-blueberry.json) |
 | Blueberry Garden | 9983 | [9983-blueberry-garden.json](./9983-blueberry-garden.json) |
 | Blueberry Weather | 353869 | [353869-blueberry-weather.json](./353869-blueberry-weather.json) |
+| BlueberryNova | 95254 | [95254-blueberrynova.json](./95254-blueberrynova.json) |
 | BlueBete | 137556 | [137556-bluebete.json](./137556-bluebete.json) |
 | Bluebird of Happiness | 213470 | [213470-bluebird-of-happiness.json](./213470-bluebird-of-happiness.json) |
 | Blueblood Arena | 400913 | [400913-blueblood-arena.json](./400913-blueblood-arena.json) |
@@ -13840,6 +13842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boondog | 242918 | [242918-boondog.json](./242918-boondog.json) |
 | Boong-Ga Boong-Ga | 58738 | [58738-boong-ga-boong-ga.json](./58738-boong-ga-boong-ga.json) |
 | Boong?!: Die ultimatiefe Fußballsimulation | 100056 | [100056-boong-die-ultimatiefe-fu-ballsimulation.json](./100056-boong-die-ultimatiefe-fu-ballsimulation.json) |
+| Boonk Gang | 95129 | [95129-boonk-gang.json](./95129-boonk-gang.json) |
 | Boonka | 317386 | [317386-boonka.json](./317386-boonka.json) |
 | Boons & Burdens | 275412 | [275412-boons-and-burdens.json](./275412-boons-and-burdens.json) |
 | Boons Farm | 108043 | [108043-boons-farm.json](./108043-boons-farm.json) |
@@ -18659,6 +18662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried | 193083 | [193083-buried.json](./193083-buried.json) |
 | Buried | 272235 | [272235-buried.json](./272235-buried.json) |
 | Buried | 380046 | [380046-buried.json](./380046-buried.json) |
+| Buried Alive VR | 95123 | [95123-buried-alive-vr.json](./95123-buried-alive-vr.json) |
 | Buried Alive: Breathless Rescue | 258999 | [258999-buried-alive-breathless-rescue.json](./258999-buried-alive-breathless-rescue.json) |
 | Buried Alive: The Annihilation VR | 128911 | [128911-buried-alive-the-annihilation-vr.json](./128911-buried-alive-the-annihilation-vr.json) |
 | Buried Beneath | 108849 | [108849-buried-beneath.json](./108849-buried-beneath.json) |
