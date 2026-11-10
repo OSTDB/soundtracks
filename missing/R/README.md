@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rampage 2: Universal Tour | 200417 | [200417-rampage-2-universal-tour.json](./200417-rampage-2-universal-tour.json) |
 | Rampage 2: Universal Tour | 3583 | [3583-rampage-2-universal-tour.json](./3583-rampage-2-universal-tour.json) |
 | Rampage Agents | 262298 | [262298-rampage-agents.json](./262298-rampage-agents.json) |
+| Rampage Kage | 406993 | [406993-rampage-kage.json](./406993-rampage-kage.json) |
 | Rampage of the Dead | 105355 | [105355-rampage-of-the-dead.json](./105355-rampage-of-the-dead.json) |
 | Rampage Puzzle Attack | 6552 | [6552-rampage-puzzle-attack.json](./6552-rampage-puzzle-attack.json) |
 | Rampage Ragdoll | 81937 | [81937-rampage-ragdoll.json](./81937-rampage-ragdoll.json) |
@@ -4828,6 +4829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regolith: Viozic Suns | 345806 | [345806-regolith-viozic-suns.json](./345806-regolith-viozic-suns.json) |
 | Regression | 391704 | [391704-regression.json](./391704-regression.json) |
 | Regret | 391791 | [391791-regret.json](./391791-regret.json) |
+| Regret to Inform | 407027 | [407027-regret-to-inform.json](./407027-regret-to-inform.json) |
 | Regretful Ghosts | 318542 | [318542-regretful-ghosts.json](./318542-regretful-ghosts.json) |
 | Regrowth | 139617 | [139617-regrowth.json](./139617-regrowth.json) |
 | Regular Factory: Escape Room | 188833 | [188833-regular-factory-escape-room.json](./188833-regular-factory-escape-room.json) |
@@ -5729,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Mary: Manor Renovation | 227949 | [227949-rescue-mary-manor-renovation.json](./227949-rescue-mary-manor-renovation.json) |
 | Rescue Mission | 18140 | [18140-rescue-mission.json](./18140-rescue-mission.json) |
 | Rescue my Queen! | 140998 | [140998-rescue-my-queen.json](./140998-rescue-my-queen.json) |
+| Rescue on Cocoa Farm | 407687 | [407687-rescue-on-cocoa-farm.json](./407687-rescue-on-cocoa-farm.json) |
 | Rescue on Fractalus! | 201 | [201-rescue-on-fractalus.json](./201-rescue-on-fractalus.json) |
 | Rescue Operation | 158856 | [158856-rescue-operation.json](./158856-rescue-operation.json) |
 | Rescue Operations Simulator | 216537 | [216537-rescue-operations-simulator.json](./216537-rescue-operations-simulator.json) |
@@ -10116,6 +10119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockett's New School | 65479 | [65479-rocketts-new-school.json](./65479-rocketts-new-school.json) |
 | Rockett's Secret Invitation | 64229 | [64229-rocketts-secret-invitation.json](./64229-rocketts-secret-invitation.json) |
 | Rockett's Tricky Decision | 64230 | [64230-rocketts-tricky-decision.json](./64230-rocketts-tricky-decision.json) |
+| Rockfall | 407041 | [407041-rockfall.json](./407041-rockfall.json) |
 | RockFall | 134304 | [134304-rockfall.json](./134304-rockfall.json) |
 | Rockfest | 88614 | [88614-rockfest.json](./88614-rockfest.json) |
 | Rockfish | 260074 | [260074-rockfish.json](./260074-rockfish.json) |
