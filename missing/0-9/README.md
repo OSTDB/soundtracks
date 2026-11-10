@@ -2379,10 +2379,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3Buttons | 110352 | [110352-3buttons.json](./110352-3buttons.json) |
 | 3C Wonderland Coaster | 111071 | [111071-3c-wonderland-coaster.json](./111071-3c-wonderland-coaster.json) |
 | 3Chess | 400449 | [400449-3chess.json](./400449-3chess.json) |
+| 3D After Burner II | 84678 | [84678-3d-after-burner-ii.json](./84678-3d-after-burner-ii.json) |
 | 3D Aim Trainer | 133615 | [133615-3d-aim-trainer.json](./133615-3d-aim-trainer.json) |
 | 3D Air Hockey | 154912 | [154912-3d-air-hockey.json](./154912-3d-air-hockey.json) |
 | 3D Alien Invasion | 210361 | [210361-3d-alien-invasion.json](./210361-3d-alien-invasion.json) |
 | 3D Alien Syndrome | 202925 | [202925-3d-alien-syndrome.json](./202925-3d-alien-syndrome.json) |
+| 3D Altered Beast | 84664 | [84664-3d-altered-beast.json](./84664-3d-altered-beast.json) |
 | 3D Arcade Fishing | 31165 | [31165-3d-arcade-fishing.json](./31165-3d-arcade-fishing.json) |
 | 3D Armada | 93314 | [93314-3d-armada.json](./93314-3d-armada.json) |
 | 3D Atlas | 92624 | [92624-3d-atlas.json](./92624-3d-atlas.json) |
@@ -2426,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Classics: Excitebike | 84615 | [84615-3d-classics-excitebike.json](./84615-3d-classics-excitebike.json) |
 | 3D Classics: Kid Icarus | 84616 | [84616-3d-classics-kid-icarus.json](./84616-3d-classics-kid-icarus.json) |
 | 3D Classics: Kirby's Adventure | 84617 | [84617-3d-classics-kirbys-adventure.json](./84617-3d-classics-kirbys-adventure.json) |
+| 3D Classics: TwinBee | 84618 | [84618-3d-classics-twinbee.json](./84618-3d-classics-twinbee.json) |
 | 3D Color Labyrinth | 282158 | [282158-3d-color-labyrinth.json](./282158-3d-color-labyrinth.json) |
 | 3D Columns | 202926 | [202926-3d-columns.json](./202926-3d-columns.json) |
 | 3D Columns | 205835 | [205835-3d-columns.json](./205835-3d-columns.json) |
@@ -2464,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Galax | 11872 | [11872-3d-galax.json](./11872-3d-galax.json) |
 | 3D Galaxx | 217641 | [217641-3d-galaxx.json](./217641-3d-galaxx.json) |
 | 3D Galaxy Fighters | 205839 | [205839-3d-galaxy-fighters.json](./205839-3d-galaxy-fighters.json) |
+| 3D Galaxy Force II | 84668 | [84668-3d-galaxy-force-ii.json](./84668-3d-galaxy-force-ii.json) |
 | 3D Game Collection | 84663 | [84663-3d-game-collection.json](./84663-3d-game-collection.json) |
 | 3D Game Pack | 266189 | [266189-3d-game-pack.json](./266189-3d-game-pack.json) |
 | 3D Gear | 234587 | [234587-3d-gear.json](./234587-3d-gear.json) |
@@ -2530,6 +2534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Narrow Escape | 2385 | [2385-3d-narrow-escape.json](./2385-3d-narrow-escape.json) |
 | 3D Next Puzzle | 357971 | [357971-3d-next-puzzle.json](./357971-3d-next-puzzle.json) |
 | 3D Ninja Fighter | 217715 | [217715-3d-ninja-fighter.json](./217715-3d-ninja-fighter.json) |
+| 3D OutRun | 84660 | [84660-3d-outrun.json](./84660-3d-outrun.json) |
 | 3D Paraglider | 35324 | [35324-3d-paraglider.json](./35324-3d-paraglider.json) |
 | 3D Pets Vol 1 | 310358 | [310358-3d-pets-vol-1.json](./310358-3d-pets-vol-1.json) |
 | 3D Pets: PC Pup | 310362 | [310362-3d-pets-pc-pup.json](./310362-3d-pets-pc-pup.json) |
@@ -2609,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Rollercoaster Rush | 133916 | [133916-3d-rollercoaster-rush.json](./133916-3d-rollercoaster-rush.json) |
 | 3D Scooter Racing | 92790 | [92790-3d-scooter-racing.json](./92790-3d-scooter-racing.json) |
 | 3D Seiddab Attack | 28477 | [28477-3d-seiddab-attack.json](./28477-3d-seiddab-attack.json) |
+| 3D Shinobi III: Return of the Ninja Master | 84658 | [84658-3d-shinobi-iii-return-of-the-ninja-master.json](./84658-3d-shinobi-iii-return-of-the-ninja-master.json) |
 | 3D Shooting Tsukuuru | 60581 | [60581-3d-shooting-tsukuuru.json](./60581-3d-shooting-tsukuuru.json) |
 | 3D Skills Start Here | 293101 | [293101-3d-skills-start-here.json](./293101-3d-skills-start-here.json) |
 | 3D Slime | 320843 | [320843-3d-slime.json](./320843-3d-slime.json) |
@@ -2632,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Streets of Rage | 47643 | [47643-3d-streets-of-rage.json](./47643-3d-streets-of-rage.json) |
 | 3D Streets of Rage 2 | 84677 | [84677-3d-streets-of-rage-2.json](./84677-3d-streets-of-rage-2.json) |
 | 3D Super Chess | 96073 | [96073-3d-super-chess.json](./96073-3d-super-chess.json) |
+| 3D Super Hang-On | 84679 | [84679-3d-super-hang-on.json](./84679-3d-super-hang-on.json) |
 | 3D Survivors | 263824 | [263824-3d-survivors.json](./263824-3d-survivors.json) |
 | 3d Table Sports | 46703 | [46703-3d-table-sports.json](./46703-3d-table-sports.json) |
 | 3D Tan | 257374 | [257374-3d-tan.json](./257374-3d-tan.json) |
