@@ -3933,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orb Heroes | 164295 | [164295-orb-heroes.json](./164295-orb-heroes.json) |
 | Orb Hunter | 274327 | [274327-orb-hunter.json](./274327-orb-hunter.json) |
 | Orb in Wonder | 277365 | [277365-orb-in-wonder.json](./277365-orb-in-wonder.json) |
+| Orb Labs, Inc. | 101281 | [101281-orb-labs-inc.json](./101281-orb-labs-inc.json) |
 | Orb of Aeternum | 292564 | [292564-orb-of-aeternum.json](./292564-orb-of-aeternum.json) |
 | Orb of Creation | 182972 | [182972-orb-of-creation.json](./182972-orb-of-creation.json) |
 | Orb of Millean | 301440 | [301440-orb-of-millean.json](./301440-orb-of-millean.json) |
@@ -5689,6 +5690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outworld Station | 322692 | [322692-outworld-station.json](./322692-outworld-station.json) |
 | Outzone | 15332 | [15332-outzone.json](./15332-outzone.json) |
 | Ova Magica | 138211 | [138211-ova-magica.json](./138211-ova-magica.json) |
+| Oval | 101286 | [101286-oval.json](./101286-oval.json) |
 | Oval Office: Commander In Chief | 146202 | [146202-oval-office-commander-in-chief.json](./146202-oval-office-commander-in-chief.json) |
 | Oval RaceCar Builder | 139028 | [139028-oval-racecar-builder.json](./139028-oval-racecar-builder.json) |
 | Oval Racer Series: Sandbox | 170830 | [170830-oval-racer-series-sandbox.json](./170830-oval-racer-series-sandbox.json) |
