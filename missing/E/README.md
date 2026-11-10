@@ -1689,6 +1689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggies | 233770 | [233770-eggies.json](./233770-eggies.json) |
 | Eggineer | 169767 | [169767-eggineer.json](./169767-eggineer.json) |
 | Egging On | 294270 | [294270-egging-on.json](./294270-egging-on.json) |
+| EggK47 | 31089 | [31089-eggk47.json](./31089-eggk47.json) |
 | Egglets: The Long 10 Days | 372022 | [372022-egglets-the-long-10-days.json](./372022-egglets-the-long-10-days.json) |
 | Egglia Rebirth | 187474 | [187474-egglia-rebirth.json](./187474-egglia-rebirth.json) |
 | Egglia: Legend of the Redcap | 48018 | [48018-egglia-legend-of-the-redcap.json](./48018-egglia-legend-of-the-redcap.json) |
@@ -4000,6 +4001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Road | 98866 | [98866-endless-road.json](./98866-endless-road.json) |
 | Endless Road Runner | 289125 | [289125-endless-road-runner.json](./289125-endless-road-runner.json) |
 | Endless Robot Dash | 344403 | [344403-endless-robot-dash.json](./344403-endless-robot-dash.json) |
+| Endless Room | 31107 | [31107-endless-room.json](./31107-endless-room.json) |
 | Endless RPG | 119705 | [119705-endless-rpg.json](./119705-endless-rpg.json) |
 | Endless RPG: Untold Tales | 265800 | [265800-endless-rpg-untold-tales.json](./265800-endless-rpg-untold-tales.json) |
 | Endless Ruin Chapter I: Toward the Endless Ruin | 200542 | [200542-endless-ruin-chapter-i-toward-the-endless-ruin.json](./200542-endless-ruin-chapter-i-toward-the-endless-ruin.json) |
@@ -4441,6 +4443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entaku no Seito 2 | 74156 | [74156-entaku-no-seito-2.json](./74156-entaku-no-seito-2.json) |
 | Entaku no Seito: DRPG Selection | 268852 | [268852-entaku-no-seito-drpg-selection.json](./268852-entaku-no-seito-drpg-selection.json) |
 | Entaku no Seito: The Eternal Legend | 13216 | [13216-entaku-no-seito-the-eternal-legend.json](./13216-entaku-no-seito-the-eternal-legend.json) |
+| Entangle | 31080 | [31080-entangle.json](./31080-entangle.json) |
 | Entangled | 105321 | [105321-entangled.json](./105321-entangled.json) |
 | Entangled | 212158 | [212158-entangled.json](./212158-entangled.json) |
 | Entangled | 263320 | [263320-entangled.json](./263320-entangled.json) |
