@@ -1232,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Elastic Boy: Mission 1 | 85418 | [85418-tales-of-elastic-boy-mission-1.json](./85418-tales-of-elastic-boy-mission-1.json) |
 | Tales of Eldoria | 376003 | [376003-tales-of-eldoria.json](./376003-tales-of-eldoria.json) |
 | Tales of Elondria | 296996 | [296996-tales-of-elondria.json](./296996-tales-of-elondria.json) |
+| Tales of Ember | 417230 | [417230-tales-of-ember.json](./417230-tales-of-ember.json) |
 | Tales of Enders | 183750 | [183750-tales-of-enders.json](./183750-tales-of-enders.json) |
 | Tales of Erin | 112244 | [112244-tales-of-erin.json](./112244-tales-of-erin.json) |
 | Tales of Escape | 29560 | [29560-tales-of-escape.json](./29560-tales-of-escape.json) |
@@ -10572,6 +10573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Glitched Attraction | 221852 | [221852-the-glitched-attraction.json](./221852-the-glitched-attraction.json) |
 | The Glob | 40005 | [40005-the-glob.json](./40005-the-glob.json) |
 | The Global Dilemma: Guns or Butter | 70047 | [70047-the-global-dilemma-guns-or-butter.json](./70047-the-global-dilemma-guns-or-butter.json) |
+| The Glorious Colony | 417239 | [417239-the-glorious-colony.json](./417239-the-glorious-colony.json) |
 | The Glory of America | 322068 | [322068-the-glory-of-america.json](./322068-the-glory-of-america.json) |
 | The Glory of Walkure | 146660 | [146660-the-glory-of-walkure.json](./146660-the-glory-of-walkure.json) |
 | The Glory of Walkure 2 | 146662 | [146662-the-glory-of-walkure-2.json](./146662-the-glory-of-walkure-2.json) |
@@ -32011,6 +32013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrekkingAndCamping | 279148 | [279148-trekkingandcamping.json](./279148-trekkingandcamping.json) |
 | Trelet: The Land of Words | 183810 | [183810-trelet-the-land-of-words.json](./183810-trelet-the-land-of-words.json) |
 | Tremblay Island | 197515 | [197515-tremblay-island.json](./197515-tremblay-island.json) |
+| Tremble of Towers | 417238 | [417238-tremble-of-towers.json](./417238-tremble-of-towers.json) |
 | Trembling Dots | 128620 | [128620-trembling-dots.json](./128620-trembling-dots.json) |
 | Tremen | 166218 | [166218-tremen.json](./166218-tremen.json) |
 | Tremolo | 77739 | [77739-tremolo.json](./77739-tremolo.json) |
