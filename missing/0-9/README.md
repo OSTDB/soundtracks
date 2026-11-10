@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 'Member the Alamo? | 157820 | [157820-member-the-alamo.json](./157820-member-the-alamo.json) |
 | 'Mid the Sagebrush and the Cactus | 364626 | [364626-mid-the-sagebrush-and-the-cactus.json](./364626-mid-the-sagebrush-and-the-cactus.json) |
 | 'N Shape | 108237 | [108237-n-shape.json](./108237-n-shape.json) |
+| 'n Verlore Verstand | 19055 | [19055-n-verlore-verstand.json](./19055-n-verlore-verstand.json) |
 | 'Nam 1965 - 1975 | 12693 | [12693-nam-1965-1975.json](./12693-nam-1965-1975.json) |
 | 'Rift' Electric | 323297 | [323297-rift-electric.json](./323297-rift-electric.json) |
 | 'Round The Mind | 265687 | [265687-round-the-mind.json](./265687-round-the-mind.json) |
@@ -3133,6 +3134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 505 Game Collection | 266324 | [266324-505-game-collection.json](./266324-505-game-collection.json) |
 | 505 Tangram | 84673 | [84673-505-tangram.json](./84673-505-tangram.json) |
 | 5050 | 260709 | [260709-5050.json](./260709-5050.json) |
+| 5089: The Action RPG | 19017 | [19017-5089-the-action-rpg.json](./19017-5089-the-action-rpg.json) |
 | 50CK3T | 283869 | [283869-50ck3t.json](./283869-50ck3t.json) |
 | 50K Racewalker | 135864 | [135864-50k-racewalker.json](./135864-50k-racewalker.json) |
 | 50s Dream Escape | 315731 | [315731-50s-dream-escape.json](./315731-50s-dream-escape.json) |
