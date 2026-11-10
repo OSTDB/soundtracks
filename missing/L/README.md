@@ -7040,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lockdown Lewd Up! | 159315 | [159315-lockdown-lewd-up.json](./159315-lockdown-lewd-up.json) |
 | Lockdown Opportunities | 333769 | [333769-lockdown-opportunities.json](./333769-lockdown-opportunities.json) |
 | Lockdown Protocol | 176469 | [176469-lockdown-protocol.json](./176469-lockdown-protocol.json) |
+| Lockdown Protocol | 285168 | [285168-lockdown-protocol.json](./285168-lockdown-protocol.json) |
 | Lockdown Town ZX | 232409 | [232409-lockdown-town-zx.json](./232409-lockdown-town-zx.json) |
 | Lockdown VR: Circus of the Dead | 195261 | [195261-lockdown-vr-circus-of-the-dead.json](./195261-lockdown-vr-circus-of-the-dead.json) |
 | Lockdown VR: Forgotten Temple | 242014 | [242014-lockdown-vr-forgotten-temple.json](./242014-lockdown-vr-forgotten-temple.json) |
