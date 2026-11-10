@@ -10409,6 +10409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleach: Heat the Soul 7 | 66765 | [66765-bleach-heat-the-soul-7.json](./66765-bleach-heat-the-soul-7.json) |
 | Bleach: Immortal Soul | 133746 | [133746-bleach-immortal-soul.json](./133746-bleach-immortal-soul.json) |
 | Bleach: Paradise Lost | 52199 | [52199-bleach-paradise-lost.json](./52199-bleach-paradise-lost.json) |
+| Bleach: Rebirth of Souls | 307765 | [307765-bleach-rebirth-of-souls.json](./307765-bleach-rebirth-of-souls.json) |
 | Bleach: Shattered Blade | 3821 | [3821-bleach-shattered-blade.json](./3821-bleach-shattered-blade.json) |
 | Bleach: Soul Bankai | 130043 | [130043-bleach-soul-bankai.json](./130043-bleach-soul-bankai.json) |
 | Bleach: Soul Carnival | 25930 | [25930-bleach-soul-carnival.json](./25930-bleach-soul-carnival.json) |
@@ -16415,6 +16416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightblood | 159846 | [159846-brightblood.json](./159846-brightblood.json) |
 | Brighter Day | 34811 | [34811-brighter-day.json](./34811-brighter-day.json) |
 | Brighter Days | 391187 | [391187-brighter-days.json](./391187-brighter-days.json) |
+| Brighter Shores | 291334 | [291334-brighter-shores.json](./291334-brighter-shores.json) |
 | Brighter Than Burning | 334300 | [334300-brighter-than-burning.json](./334300-brighter-than-burning.json) |
 | Brightest | 82353 | [82353-brightest.json](./82353-brightest.json) |
 | Brightest Star | 369621 | [369621-brightest-star.json](./369621-brightest-star.json) |
@@ -19197,6 +19199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzz! Junior: Monster Rumble | 43506 | [43506-buzz-junior-monster-rumble.json](./43506-buzz-junior-monster-rumble.json) |
 | Buzz! Junior: Robo Jam | 44710 | [44710-buzz-junior-robo-jam.json](./44710-buzz-junior-robo-jam.json) |
 | Buzz! Quiz TV Bundle | 43045 | [43045-buzz-quiz-tv-bundle.json](./43045-buzz-quiz-tv-bundle.json) |
+| Buzz! The Big Quiz | 18716 | [18716-buzz-the-big-quiz.json](./18716-buzz-the-big-quiz.json) |
 | Buzz! The Schools Quiz | 93404 | [93404-buzz-the-schools-quiz.json](./93404-buzz-the-schools-quiz.json) |
 | Buzz! The Sports Quiz | 43520 | [43520-buzz-the-sports-quiz.json](./43520-buzz-the-sports-quiz.json) |
 | Buzz! The Ultimate Music Quiz | 44586 | [44586-buzz-the-ultimate-music-quiz.json](./44586-buzz-the-ultimate-music-quiz.json) |
