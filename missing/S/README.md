@@ -1126,6 +1126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salt and Spice | 411504 | [411504-salt-and-spice.json](./411504-salt-and-spice.json) |
 | Salt Game | 219641 | [219641-salt-game.json](./219641-salt-game.json) |
 | Salt Lake 2002 | 248694 | [248694-salt-lake-2002.json](./248694-salt-lake-2002.json) |
+| Salt Lake 2002 | 6584 | [6584-salt-lake-2002.json](./6584-salt-lake-2002.json) |
 | Salt Meat Factory | 303815 | [303815-salt-meat-factory.json](./303815-salt-meat-factory.json) |
 | Salt of the Earth | 401516 | [401516-salt-of-the-earth.json](./401516-salt-of-the-earth.json) |
 | Salt the Earth | 118298 | [118298-salt-the-earth.json](./118298-salt-the-earth.json) |
@@ -10762,6 +10763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigma Draconis | 133450 | [133450-sigma-draconis.json](./133450-sigma-draconis.json) |
 | Sigma Harmonics | 24946 | [24946-sigma-harmonics.json](./24946-sigma-harmonics.json) |
 | Sigma Impact | 159799 | [159799-sigma-impact.json](./159799-sigma-impact.json) |
+| Sigma Star Saga | 6595 | [6595-sigma-star-saga.json](./6595-sigma-star-saga.json) |
 | Sigma Star Saga DX | 375606 | [375606-sigma-star-saga-dx.json](./375606-sigma-star-saga-dx.json) |
 | Sigma Theory: Global Cold War - Brazil | 155089 | [155089-sigma-theory-global-cold-war-brazil.json](./155089-sigma-theory-global-cold-war-brazil.json) |
 | Sigma Theory: Global Cold War - Deluxe Edition | 124827 | [124827-sigma-theory-global-cold-war-deluxe-edition.json](./124827-sigma-theory-global-cold-war-deluxe-edition.json) |
@@ -22776,6 +22778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: 058 - FX Mod: Sound Mode | 363368 | [363368-spider-man-058-fx-mod-sound-mode.json](./363368-spider-man-058-fx-mod-sound-mode.json) |
 | Spider-Man: 059 - Enemy Mod: Quick Learner | 363371 | [363371-spider-man-059-enemy-mod-quick-learner.json](./363371-spider-man-059-enemy-mod-quick-learner.json) |
 | Spider-Man: 060 - FX Mod: Comic Book Mode | 363373 | [363373-spider-man-060-fx-mod-comic-book-mode.json](./363373-spider-man-060-fx-mod-comic-book-mode.json) |
+| Spider-Man: Battle for New York | 6604 | [6604-spider-man-battle-for-new-york.json](./6604-spider-man-battle-for-new-york.json) |
 | Spider-Man: City Raid | 337120 | [337120-spider-man-city-raid.json](./337120-spider-man-city-raid.json) |
 | Spider-Man: Edge of Time | 218005 | [218005-spider-man-edge-of-time.json](./218005-spider-man-edge-of-time.json) |
 | Spider-Man: Edge of Time | 249160 | [249160-spider-man-edge-of-time.json](./249160-spider-man-edge-of-time.json) |
@@ -24239,6 +24242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy vs Spy | 289160 | [289160-spy-vs-spy.json](./289160-spy-vs-spy.json) |
 | Spy vs Spy | 9166 | [9166-spy-vs-spy.json](./9166-spy-vs-spy.json) |
 | Spy vs Spy III: Arctic Antics | 12773 | [12773-spy-vs-spy-iii-arctic-antics.json](./12773-spy-vs-spy-iii-arctic-antics.json) |
+| Spy vs. Spy | 6156 | [6156-spy-vs-spy.json](./6156-spy-vs-spy.json) |
 | Spy Vs. Spy | 206980 | [206980-spy-vs-spy.json](./206980-spy-vs-spy.json) |
 | Spy vs. Spy 2 | 41163 | [41163-spy-vs-spy-2.json](./41163-spy-vs-spy-2.json) |
 | Spy vs. Spy 3 | 41162 | [41162-spy-vs-spy-3.json](./41162-spy-vs-spy-3.json) |
@@ -24883,6 +24887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stairway to Tavern | 293680 | [293680-stairway-to-tavern.json](./293680-stairway-to-tavern.json) |
 | Stak Atak | 158519 | [158519-stak-atak.json](./158519-stak-atak.json) |
 | Stak Bots - Breakout | 24401 | [24401-stak-bots-breakout.json](./24401-stak-bots-breakout.json) |
+| Stake: Fortune Fighters | 6158 | [6158-stake-fortune-fighters.json](./6158-stake-fortune-fighters.json) |
 | Stakeholder Game | 190069 | [190069-stakeholder-game.json](./190069-stakeholder-game.json) |
 | Stakes Winner | 39626 | [39626-stakes-winner.json](./39626-stakes-winner.json) |
 | Stakes Winner 2 | 39625 | [39625-stakes-winner-2.json](./39625-stakes-winner-2.json) |
@@ -25827,6 +25832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode III - Revenge of the Sith: Activity Center | 137191 | [137191-star-wars-episode-iii-revenge-of-the-sith-activity-center.json](./137191-star-wars-episode-iii-revenge-of-the-sith-activity-center.json) |
 | Star Wars: Ewok Adventure | 40636 | [40636-star-wars-ewok-adventure.json](./40636-star-wars-ewok-adventure.json) |
 | Star Wars: Fate of the Old Republic | 381215 | [381215-star-wars-fate-of-the-old-republic.json](./381215-star-wars-fate-of-the-old-republic.json) |
+| Star Wars: Flight of the Falcon | 6608 | [6608-star-wars-flight-of-the-falcon.json](./6608-star-wars-flight-of-the-falcon.json) |
 | Star Wars: Force Arena | 74866 | [74866-star-wars-force-arena.json](./74866-star-wars-force-arena.json) |
 | Star Wars: Force Commander | 159 | [159-star-wars-force-commander.json](./159-star-wars-force-commander.json) |
 | Star Wars: Galactic Battle | 198918 | [198918-star-wars-galactic-battle.json](./198918-star-wars-galactic-battle.json) |
@@ -25990,6 +25996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wraith III: Shadows of Orion | 15111 | [15111-star-wraith-iii-shadows-of-orion.json](./15111-star-wraith-iii-shadows-of-orion.json) |
 | Star Wraith IV: Reviction | 15112 | [15112-star-wraith-iv-reviction.json](./15112-star-wraith-iv-reviction.json) |
 | Star Wrath | 391648 | [391648-star-wrath.json](./391648-star-wrath.json) |
+| Star X | 6610 | [6610-star-x.json](./6610-star-x.json) |
 | Star Zeal | 110483 | [110483-star-zeal.json](./110483-star-zeal.json) |
 | Star Zeal 4x | 195975 | [195975-star-zeal-4x.json](./195975-star-zeal-4x.json) |
 | Star Zone | 107033 | [107033-star-zone.json](./107033-star-zone.json) |
@@ -28577,6 +28584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storks and Apes and Crocodiles | 406447 | [406447-storks-and-apes-and-crocodiles.json](./406447-storks-and-apes-and-crocodiles.json) |
 | Storm | 28573 | [28573-storm.json](./28573-storm.json) |
 | Storm | 45275 | [45275-storm.json](./45275-storm.json) |
+| Storm | 6071 | [6071-storm.json](./6071-storm.json) |
 | Storm & Calm | 159497 | [159497-storm-and-calm.json](./159497-storm-and-calm.json) |
 | Storm Across Europe | 70134 | [70134-storm-across-europe.json](./70134-storm-across-europe.json) |
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
