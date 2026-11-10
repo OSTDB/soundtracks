@@ -10302,6 +10302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Frater Fracas | 300671 | [300671-the-frater-fracas.json](./300671-the-frater-fracas.json) |
 | The Freddy Files | 277284 | [277284-the-freddy-files.json](./277284-the-freddy-files.json) |
 | The Free Shepherd | 381202 | [381202-the-free-shepherd.json](./381202-the-free-shepherd.json) |
+| The Freeblades | 400633 | [400633-the-freeblades.json](./400633-the-freeblades.json) |
 | The French and Indian War | 182258 | [182258-the-french-and-indian-war.json](./182258-the-french-and-indian-war.json) |
 | The French Open 1998 | 70302 | [70302-the-french-open-1998.json](./70302-the-french-open-1998.json) |
 | The Frenetic Five vs. Sturm und Drang | 217771 | [217771-the-frenetic-five-vs-sturm-und-drang.json](./217771-the-frenetic-five-vs-sturm-und-drang.json) |
@@ -10701,6 +10702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Good Colony | 311614 | [311614-the-good-colony.json](./311614-the-good-colony.json) |
 | The Good Dinosaur: Arlo & Spot's Wild Collection | 230412 | [230412-the-good-dinosaur-arlo-and-spots-wild-collection.json](./230412-the-good-dinosaur-arlo-and-spots-wild-collection.json) |
 | The Good Dinosaur: Dino Crossing | 110265 | [110265-the-good-dinosaur-dino-crossing.json](./110265-the-good-dinosaur-dino-crossing.json) |
+| The Good Dog: Chasing Shadows | 400617 | [400617-the-good-dog-chasing-shadows.json](./400617-the-good-dog-chasing-shadows.json) |
 | The Good Ghouls | 224590 | [224590-the-good-ghouls.json](./224590-the-good-ghouls.json) |
 | The Good Life | 54675 | [54675-the-good-life.json](./54675-the-good-life.json) |
 | The Good Life | 9396 | [9396-the-good-life.json](./9396-the-good-life.json) |
@@ -17848,6 +17850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Soul Collector: Idle Game | 183887 | [183887-the-soul-collector-idle-game.json](./183887-the-soul-collector-idle-game.json) |
 | The Soul Driver | 341297 | [341297-the-soul-driver.json](./341297-the-soul-driver.json) |
 | The Soul Hunter | 116744 | [116744-the-soul-hunter.json](./116744-the-soul-hunter.json) |
+| The Soul Inside Us | 400644 | [400644-the-soul-inside-us.json](./400644-the-soul-inside-us.json) |
 | The Soul Labyrinth | 250883 | [250883-the-soul-labyrinth.json](./250883-the-soul-labyrinth.json) |
 | The Soul of Cosmos | 348769 | [348769-the-soul-of-cosmos.json](./348769-the-soul-of-cosmos.json) |
 | The Soul of Dracula | 242797 | [242797-the-soul-of-dracula.json](./242797-the-soul-of-dracula.json) |
@@ -29323,9 +29326,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trails in the Sky 1st Chapter: Banner Set C | 370831 | [370831-trails-in-the-sky-1st-chapter-banner-set-c.json](./370831-trails-in-the-sky-1st-chapter-banner-set-c.json) |
 | Trails in the Sky 1st Chapter: Character Stand Set | 370832 | [370832-trails-in-the-sky-1st-chapter-character-stand-set.json](./370832-trails-in-the-sky-1st-chapter-character-stand-set.json) |
 | Trails in the Sky 1st Chapter: Demon King Dress-up Set | 370833 | [370833-trails-in-the-sky-1st-chapter-demon-king-dress-up-set.json](./370833-trails-in-the-sky-1st-chapter-demon-king-dress-up-set.json) |
+| Trails in the Sky 1st Chapter: Fine Red Diner Costume Set Vol. 1 | 400631 | [400631-trails-in-the-sky-1st-chapter-fine-red-diner-costume-set-vol-1.json](./400631-trails-in-the-sky-1st-chapter-fine-red-diner-costume-set-vol-1.json) |
 | Trails in the Sky 1st Chapter: Fine Red Diner Costume Set Vol. 3 | 370834 | [370834-trails-in-the-sky-1st-chapter-fine-red-diner-costume-set-vol-3.json](./370834-trails-in-the-sky-1st-chapter-fine-red-diner-costume-set-vol-3.json) |
 | Trails in the Sky 1st Chapter: Glasses Set A | 400923 | [400923-trails-in-the-sky-1st-chapter-glasses-set-a.json](./400923-trails-in-the-sky-1st-chapter-glasses-set-a.json) |
 | Trails in the Sky 1st Chapter: Launch Celebration Pack | 370835 | [370835-trails-in-the-sky-1st-chapter-launch-celebration-pack.json](./370835-trails-in-the-sky-1st-chapter-launch-celebration-pack.json) |
+| Trails in the Sky 1st Chapter: Original Diner Costume Set Vol. 1 | 400640 | [400640-trails-in-the-sky-1st-chapter-original-diner-costume-set-vol-1.json](./400640-trails-in-the-sky-1st-chapter-original-diner-costume-set-vol-1.json) |
 | Trails in the Sky 1st Chapter: Original Diner Costume Set Vol. 3 | 370836 | [370836-trails-in-the-sky-1st-chapter-original-diner-costume-set-vol-3.json](./370836-trails-in-the-sky-1st-chapter-original-diner-costume-set-vol-3.json) |
 | Trails in the Sky 1st Chapter: Resort Style Swimsuits (Estelle & Joshua) | 370837 | [370837-trails-in-the-sky-1st-chapter-resort-style-swimsuits-estelle-and-joshua.json](./370837-trails-in-the-sky-1st-chapter-resort-style-swimsuits-estelle-and-joshua.json) |
 | Trails in the Sky 1st Chapter: Steelbook Edition | 351131 | [351131-trails-in-the-sky-1st-chapter-steelbook-edition.json](./351131-trails-in-the-sky-1st-chapter-steelbook-edition.json) |
@@ -33892,6 +33897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuma ga Kirei ni Natta Wake | 82977 | [82977-tsuma-ga-kirei-ni-natta-wake.json](./82977-tsuma-ga-kirei-ni-natta-wake.json) |
 | Tsumamigui | 59173 | [59173-tsumamigui.json](./59173-tsumamigui.json) |
 | Tsumamigui 2 | 59219 | [59219-tsumamigui-2.json](./59219-tsumamigui-2.json) |
+| Tsumamigui 3 | 400637 | [400637-tsumamigui-3.json](./400637-tsumamigui-3.json) |
 | Tsumannai | 221037 | [221037-tsumannai.json](./221037-tsumannai.json) |
 | Tsumego Pro | 402323 | [402323-tsumego-pro.json](./402323-tsumego-pro.json) |
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
