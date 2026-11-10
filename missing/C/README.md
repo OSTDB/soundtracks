@@ -3330,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Collection | 53777 | [53777-cartoon-collection.json](./53777-cartoon-collection.json) |
 | Cartoon Craft | 104197 | [104197-cartoon-craft.json](./104197-cartoon-craft.json) |
 | Cartoon Crime | 415431 | [415431-cartoon-crime.json](./415431-cartoon-crime.json) |
+| Cartoon Defense | 411208 | [411208-cartoon-defense.json](./411208-cartoon-defense.json) |
 | Cartoon Dungeon VIP | 95865 | [95865-cartoon-dungeon-vip.json](./95865-cartoon-dungeon-vip.json) |
 | Cartoon Hero | 81887 | [81887-cartoon-hero.json](./81887-cartoon-hero.json) |
 | Cartoon Jukebox | 127151 | [127151-cartoon-jukebox.json](./127151-cartoon-jukebox.json) |
@@ -5625,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellar | 188520 | [188520-cellar.json](./188520-cellar.json) |
 | Cellar | 33323 | [33323-cellar.json](./33323-cellar.json) |
 | Cellar Cleanup Simulator | 420756 | [420756-cellar-cleanup-simulator.json](./420756-cellar-cleanup-simulator.json) |
+| Cellar Keeper | 411220 | [411220-cellar-keeper.json](./411220-cellar-keeper.json) |
 | Cellar: Rags and Knife | 171025 | [171025-cellar-rags-and-knife.json](./171025-cellar-rags-and-knife.json) |
 | Cellbit Simulator | 142723 | [142723-cellbit-simulator.json](./142723-cellbit-simulator.json) |
 | CellBreach | 176378 | [176378-cellbreach.json](./176378-cellbreach.json) |
@@ -7258,6 +7260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess of Chains | 148824 | [148824-chess-of-chains.json](./148824-chess-of-chains.json) |
 | Chess of Doom | 346550 | [346550-chess-of-doom.json](./346550-chess-of-doom.json) |
 | Chess of Fortune | 357216 | [357216-chess-of-fortune.json](./357216-chess-of-fortune.json) |
+| Chess of the Hidden Gates | 411218 | [411218-chess-of-the-hidden-gates.json](./411218-chess-of-the-hidden-gates.json) |
 | Chess of the SOL | 181633 | [181633-chess-of-the-sol.json](./181633-chess-of-the-sol.json) |
 | Chess on Ice | 158878 | [158878-chess-on-ice.json](./158878-chess-on-ice.json) |
 | Chess Online | 88433 | [88433-chess-online.json](./88433-chess-online.json) |
@@ -11499,6 +11502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Sports Collection: Diamond Edition | 409962 | [409962-club-sports-collection-diamond-edition.json](./409962-club-sports-collection-diamond-edition.json) |
 | Club Sports Collection: Legendary Edition | 407114 | [407114-club-sports-collection-legendary-edition.json](./407114-club-sports-collection-legendary-edition.json) |
 | Club Sports Collection: Premium Edition | 395676 | [395676-club-sports-collection-premium-edition.json](./395676-club-sports-collection-premium-edition.json) |
+| Club Sports Collection: Silver Edition | 411179 | [411179-club-sports-collection-silver-edition.json](./411179-club-sports-collection-silver-edition.json) |
 | Club Sports Collection: Superior Edition | 413576 | [413576-club-sports-collection-superior-edition.json](./413576-club-sports-collection-superior-edition.json) |
 | Club Suicide | 196493 | [196493-club-suicide.json](./196493-club-suicide.json) |
 | Club Vanentine | 228689 | [228689-club-vanentine.json](./228689-club-vanentine.json) |
@@ -19098,6 +19102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads: On a Just Path - Collector's Edition | 187306 | [187306-crossroads-on-a-just-path-collectors-edition.json](./187306-crossroads-on-a-just-path-collectors-edition.json) |
 | Crossroads: What Was Lost | 417713 | [417713-crossroads-what-was-lost.json](./417713-crossroads-what-was-lost.json) |
 | Crossroads: What Was Lost - Collector's Edition | 259504 | [259504-crossroads-what-was-lost-collectors-edition.json](./259504-crossroads-what-was-lost-collectors-edition.json) |
+| Crosstalk | 411196 | [411196-crosstalk.json](./411196-crosstalk.json) |
 | CrossTheRidge Evolution | 349657 | [349657-crosstheridge-evolution.json](./349657-crosstheridge-evolution.json) |
 | Crosstown | 389643 | [389643-crosstown.json](./389643-crosstown.json) |
 | CrossTown 1: Giften | 122315 | [122315-crosstown-1-giften.json](./122315-crosstown-1-giften.json) |
