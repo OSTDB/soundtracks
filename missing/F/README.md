@@ -5313,10 +5313,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII Remake Intergrade | 144024 | [144024-final-fantasy-vii-remake-intergrade.json](./144024-final-fantasy-vii-remake-intergrade.json) |
 | Final Fantasy VII Remake Series Trilogy Edition | 416148 | [416148-final-fantasy-vii-remake-series-trilogy-edition.json](./416148-final-fantasy-vii-remake-series-trilogy-edition.json) |
 | Final Fantasy VII Remake: 1st Class Edition | 136353 | [136353-final-fantasy-vii-remake-1st-class-edition.json](./136353-final-fantasy-vii-remake-1st-class-edition.json) |
+| Final Fantasy VII Remake: Corneo's Armlet | 405200 | [405200-final-fantasy-vii-remake-corneos-armlet.json](./405200-final-fantasy-vii-remake-corneos-armlet.json) |
 | Final Fantasy VII Remake: Deluxe Edition | 134226 | [134226-final-fantasy-vii-remake-deluxe-edition.json](./134226-final-fantasy-vii-remake-deluxe-edition.json) |
 | Final Fantasy VII Remake: Digital Deluxe Edition | 119576 | [119576-final-fantasy-vii-remake-digital-deluxe-edition.json](./119576-final-fantasy-vii-remake-digital-deluxe-edition.json) |
 | Final Fantasy VII Remake: Digital Deluxe Upgrade | 133299 | [133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json](./133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json) |
 | Final Fantasy VII Remake: Episode Intermission | 144037 | [144037-final-fantasy-vii-remake-episode-intermission.json](./144037-final-fantasy-vii-remake-episode-intermission.json) |
+| Final Fantasy VII Remake: Mako Crystal | 405240 | [405240-final-fantasy-vii-remake-mako-crystal.json](./405240-final-fantasy-vii-remake-mako-crystal.json) |
+| Final Fantasy VII Remake: Shinra Bangle | 405201 | [405201-final-fantasy-vii-remake-shinra-bangle.json](./405201-final-fantasy-vii-remake-shinra-bangle.json) |
 | Final Fantasy VII Revelation: Accessory - Reclaimant Choker & Survival Set | 416146 | [416146-final-fantasy-vii-revelation-accessory-reclaimant-choker-and-survival-set.json](./416146-final-fantasy-vii-revelation-accessory-reclaimant-choker-and-survival-set.json) |
 | Final Fantasy VII Revelation: Accessory - Risk Taker's Choker | 416153 | [416153-final-fantasy-vii-revelation-accessory-risk-takers-choker.json](./416153-final-fantasy-vii-revelation-accessory-risk-takers-choker.json) |
 | Final Fantasy VII Revelation: Armor - Nymphwing Bracelet | 416152 | [416152-final-fantasy-vii-revelation-armor-nymphwing-bracelet.json](./416152-final-fantasy-vii-revelation-armor-nymphwing-bracelet.json) |
@@ -8767,6 +8770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowcubes | 164972 | [164972-flowcubes.json](./164972-flowcubes.json) |
 | Flowence | 309558 | [309558-flowence.json](./309558-flowence.json) |
 | Flower | 142294 | [142294-flower.json](./142294-flower.json) |
+| Flower | 405238 | [405238-flower.json](./405238-flower.json) |
 | Flower and Animal 3D Encyclopedia | 77006 | [77006-flower-and-animal-3d-encyclopedia.json](./77006-flower-and-animal-3d-encyclopedia.json) |
 | Flower Bears | 307732 | [307732-flower-bears.json](./307732-flower-bears.json) |
 | Flower Blooming Competition | 341835 | [341835-flower-blooming-competition.json](./341835-flower-blooming-competition.json) |
@@ -11514,6 +11518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourleaf Fields | 377540 | [377540-fourleaf-fields.json](./377540-fourleaf-fields.json) |
 | FourPlay Chess | 193236 | [193236-fourplay-chess.json](./193236-fourplay-chess.json) |
 | FourPoint: Prologue | 290209 | [290209-fourpoint-prologue.json](./290209-fourpoint-prologue.json) |
+| Foursavent | 405786 | [405786-foursavent.json](./405786-foursavent.json) |
 | FourSide | 80090 | [80090-fourside.json](./80090-fourside.json) |
 | Foursite | 273735 | [273735-foursite.json](./273735-foursite.json) |
 | Fourspell Survivors Online | 224247 | [224247-fourspell-survivors-online.json](./224247-fourspell-survivors-online.json) |
@@ -12826,6 +12831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FritzChess 15 | 33899 | [33899-fritzchess-15.json](./33899-fritzchess-15.json) |
 | Frizzle | 319194 | [319194-frizzle.json](./319194-frizzle.json) |
 | Frizzy | 34764 | [34764-frizzy.json](./34764-frizzy.json) |
+| FRLG.IPS | 405235 | [405235-frlg-ips.json](./405235-frlg-ips.json) |
 | Frobbutt 3D | 379139 | [379139-frobbutt-3d.json](./379139-frobbutt-3d.json) |
 | Frobot | 21763 | [21763-frobot.json](./21763-frobot.json) |
 | Frobozz Magic Support | 217781 | [217781-frobozz-magic-support.json](./217781-frobozz-magic-support.json) |
