@@ -3229,6 +3229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Saturn | 326062 | [326062-days-of-saturn.json](./326062-days-of-saturn.json) |
 | Days of the Dead | 335481 | [335481-days-of-the-dead.json](./335481-days-of-the-dead.json) |
 | Days of the Divine | 243955 | [243955-days-of-the-divine.json](./243955-days-of-the-divine.json) |
+| Days of the Hydrangea Path | 418065 | [418065-days-of-the-hydrangea-path.json](./418065-days-of-the-hydrangea-path.json) |
 | Days of Thunder | 12040 | [12040-days-of-thunder.json](./12040-days-of-thunder.json) |
 | Days of Thunder | 326790 | [326790-days-of-thunder.json](./326790-days-of-thunder.json) |
 | Days of Thunder: Arcade | 47436 | [47436-days-of-thunder-arcade.json](./47436-days-of-thunder-arcade.json) |
@@ -13284,6 +13285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Pause Game! | 389988 | [389988-dont-pause-game.json](./389988-dont-pause-game.json) |
 | Don't Pee | 285411 | [285411-dont-pee.json](./285411-dont-pee.json) |
 | Don't Pee in the Tub | 78565 | [78565-dont-pee-in-the-tub.json](./78565-dont-pee-in-the-tub.json) |
+| Don't Pick Up | 418095 | [418095-dont-pick-up.json](./418095-dont-pick-up.json) |
 | Don't Pick Up Stray Aliens | 409002 | [409002-dont-pick-up-stray-aliens.json](./409002-dont-pick-up-stray-aliens.json) |
 | Don't Play Breakout Deluxe | 373480 | [373480-dont-play-breakout-deluxe.json](./373480-dont-play-breakout-deluxe.json) |
 | Don't Play Games | 385682 | [385682-dont-play-games.json](./385682-dont-play-games.json) |
