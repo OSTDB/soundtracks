@@ -2666,6 +2666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zuma's Revenge! | 8322 | [8322-zumas-revenge.json](./8322-zumas-revenge.json) |
 | Zumaji Delux | 276546 | [276546-zumaji-delux.json](./276546-zumaji-delux.json) |
 | Zumania: Magic Casual Puzzle | 175813 | [175813-zumania-magic-casual-puzzle.json](./175813-zumania-magic-casual-puzzle.json) |
+| Zumanu Trip | 411225 | [411225-zumanu-trip.json](./411225-zumanu-trip.json) |
 | Zumas Deluxe 2 | 181989 | [181989-zumas-deluxe-2.json](./181989-zumas-deluxe-2.json) |
 | Zumatch | 148084 | [148084-zumatch.json](./148084-zumatch.json) |
 | Zumba Aqua | 176111 | [176111-zumba-aqua.json](./176111-zumba-aqua.json) |
