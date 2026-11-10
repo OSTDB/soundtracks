@@ -7580,6 +7580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desecration | 157019 | [157019-desecration.json](./157019-desecration.json) |
 | Desecration | 343843 | [343843-desecration.json](./343843-desecration.json) |
 | Desecration of Wings | 86305 | [86305-desecration-of-wings.json](./86305-desecration-of-wings.json) |
+| Desecrator | 417227 | [417227-desecrator.json](./417227-desecrator.json) |
 | Desecrators | 144823 | [144823-desecrators.json](./144823-desecrators.json) |
 | Desenho Livre | 290092 | [290092-desenho-livre.json](./290092-desenho-livre.json) |
 | Desert | 18605 | [18605-desert.json](./18605-desert.json) |
