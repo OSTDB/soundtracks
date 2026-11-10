@@ -2227,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leafko | 352308 | [352308-leafko.json](./352308-leafko.json) |
 | Leaflet Love Story | 106496 | [106496-leaflet-love-story.json](./106496-leaflet-love-story.json) |
 | Leafling | 142347 | [142347-leafling.json](./142347-leafling.json) |
+| Leaflup's Candy Hunt | 420024 | [420024-leaflups-candy-hunt.json](./420024-leaflups-candy-hunt.json) |
 | Leaforia | 339162 | [339162-leaforia.json](./339162-leaforia.json) |
 | Leaftaker | 411043 | [411043-leaftaker.json](./411043-leaftaker.json) |
 | Leafy Corner | 363341 | [363341-leafy-corner.json](./363341-leafy-corner.json) |
