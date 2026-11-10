@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Admirals | 34261 | [34261-galaxy-admirals.json](./34261-galaxy-admirals.json) |
 | Galaxy Angel | 70414 | [70414-galaxy-angel.json](./70414-galaxy-angel.json) |
 | Galaxy Angel Game Boy Advance: Moridakusan Tenshi no Full Course Okawari Jiyuu | 49562 | [49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json](./49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json) |
+| Galaxy Angel II: Zettai Ryouiki no Tobira - Deluxe Pack | 428382 | [428382-galaxy-angel-ii-zettai-ryouiki-no-tobira-deluxe-pack.json](./428382-galaxy-angel-ii-zettai-ryouiki-no-tobira-deluxe-pack.json) |
 | Galaxy Angel: Eternal Lovers | 79291 | [79291-galaxy-angel-eternal-lovers.json](./79291-galaxy-angel-eternal-lovers.json) |
 | Galaxy Annihilation | 36924 | [36924-galaxy-annihilation.json](./36924-galaxy-annihilation.json) |
 | Galaxy Arena | 166925 | [166925-galaxy-arena.json](./166925-galaxy-arena.json) |
