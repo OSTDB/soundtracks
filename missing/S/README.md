@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saghala: Heroes of the Last World | 195646 | [195646-saghala-heroes-of-the-last-world.json](./195646-saghala-heroes-of-the-last-world.json) |
 | Sagittarius: The Lost and Cursed | 352225 | [352225-sagittarius-the-lost-and-cursed.json](./352225-sagittarius-the-lost-and-cursed.json) |
 | Sago Mini Forest Flyer | 200108 | [200108-sago-mini-forest-flyer.json](./200108-sago-mini-forest-flyer.json) |
+| Sago Mini Jinja's Garden | 405203 | [405203-sago-mini-jinjas-garden.json](./405203-sago-mini-jinjas-garden.json) |
 | Sago Mini Trips+ | 355989 | [355989-sago-mini-trips.json](./355989-sago-mini-trips.json) |
 | Sagrada | 132490 | [132490-sagrada.json](./132490-sagrada.json) |
 | Sagres | 213121 | [213121-sagres.json](./213121-sagres.json) |
@@ -17956,6 +17957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somnokid | 201114 | [201114-somnokid.json](./201114-somnokid.json) |
 | Somnosec | 399017 | [399017-somnosec.json](./399017-somnosec.json) |
 | Somnus | 243503 | [243503-somnus.json](./243503-somnus.json) |
+| Somnus Corporation | 405782 | [405782-somnus-corporation.json](./405782-somnus-corporation.json) |
 | Somnus: Nonogram | 312328 | [312328-somnus-nonogram.json](./312328-somnus-nonogram.json) |
 | Somny & Yawn: Dream Detectives | 132604 | [132604-somny-and-yawn-dream-detectives.json](./132604-somny-and-yawn-dream-detectives.json) |
 | Somos | 110494 | [110494-somos.json](./110494-somos.json) |
@@ -24746,6 +24748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Grid | 247992 | [247992-squid-grid.json](./247992-squid-grid.json) |
 | Squid Gurl and the Salty Sea Man | 97345 | [97345-squid-gurl-and-the-salty-sea-man.json](./97345-squid-gurl-and-the-salty-sea-man.json) |
 | Squid Guys | 286503 | [286503-squid-guys.json](./286503-squid-guys.json) |
+| Squid Hunt 1923 | 405208 | [405208-squid-hunt-1923.json](./405208-squid-hunt-1923.json) |
 | Squid Ink | 95932 | [95932-squid-ink.json](./95932-squid-ink.json) |
 | Squid Jump | 311011 | [311011-squid-jump.json](./311011-squid-jump.json) |
 | Squid on Road | 236944 | [236944-squid-on-road.json](./236944-squid-on-road.json) |
@@ -28479,6 +28482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Stars Echo | 369703 | [369703-still-stars-echo.json](./369703-still-stars-echo.json) |
 | Still Sword for Adult | 67258 | [67258-still-sword-for-adult.json](./67258-still-sword-for-adult.json) |
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
+| Still Warm | 405791 | [405791-still-warm.json](./405791-still-warm.json) |
 | Still Waters | 342913 | [342913-still-waters.json](./342913-still-waters.json) |
 | Still Winter | 389855 | [389855-still-winter.json](./389855-still-winter.json) |
 | Still Working? | 423644 | [423644-still-working.json](./423644-still-working.json) |
