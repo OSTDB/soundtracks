@@ -3341,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Dracula III: Family Secret - Collector's Edition | 53225 | [53225-incredible-dracula-iii-family-secret-collectors-edition.json](./53225-incredible-dracula-iii-family-secret-collectors-edition.json) |
 | Incredible Dracula: Academy of Shadows | 340749 | [340749-incredible-dracula-academy-of-shadows.json](./340749-incredible-dracula-academy-of-shadows.json) |
 | Incredible Dracula: Academy of Shadows - Collector's Edition | 337242 | [337242-incredible-dracula-academy-of-shadows-collectors-edition.json](./337242-incredible-dracula-academy-of-shadows-collectors-edition.json) |
+| Incredible Dracula: Bloodwood Secrets - Collector's Edition | 416484 | [416484-incredible-dracula-bloodwood-secrets-collectors-edition.json](./416484-incredible-dracula-bloodwood-secrets-collectors-edition.json) |
 | Incredible Dracula: Chasing Love | 53226 | [53226-incredible-dracula-chasing-love.json](./53226-incredible-dracula-chasing-love.json) |
 | Incredible Dracula: Chasing Love - Collector's Edition | 33703 | [33703-incredible-dracula-chasing-love-collectors-edition.json](./33703-incredible-dracula-chasing-love-collectors-edition.json) |
 | Incredible Dracula: Dark Carnival | 274476 | [274476-incredible-dracula-dark-carnival.json](./274476-incredible-dracula-dark-carnival.json) |
