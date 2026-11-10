@@ -5906,6 +5906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windjammers 2 | 107203 | [107203-windjammers-2.json](./107203-windjammers-2.json) |
 | Windjammers, Karnov & Friends | 337849 | [337849-windjammers-karnov-and-friends.json](./337849-windjammers-karnov-and-friends.json) |
 | Windlands | 15932 | [15932-windlands.json](./15932-windlands.json) |
+| Windlands 2 | 96542 | [96542-windlands-2.json](./96542-windlands-2.json) |
 | Windmill Kings | 125028 | [125028-windmill-kings.json](./125028-windmill-kings.json) |
 | Windmills | 188729 | [188729-windmills.json](./188729-windmills.json) |
 | Windosill | 15002 | [15002-windosill.json](./15002-windosill.json) |
