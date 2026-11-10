@@ -5733,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Central Limit Theorem | 133979 | [133979-central-limit-theorem.json](./133979-central-limit-theorem.json) |
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
 | Central Station | 242244 | [242244-central-station.json](./242244-central-station.json) |
+| Centralia: Homecoming | 123769 | [123769-centralia-homecoming.json](./123769-centralia-homecoming.json) |
 | Centration | 16566 | [16566-centration.json](./16566-centration.json) |
 | Centre Court | 13472 | [13472-centre-court.json](./13472-centre-court.json) |
 | Centre Court Tennis | 3456 | [3456-centre-court-tennis.json](./3456-centre-court-tennis.json) |
@@ -13266,6 +13267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Elite: WWII Paratroopers | 5784 | [5784-combat-elite-wwii-paratroopers.json](./5784-combat-elite-wwii-paratroopers.json) |
 | Combat Evolved 2D | 311226 | [311226-combat-evolved-2d.json](./311226-combat-evolved-2d.json) |
 | Combat Fire | 137775 | [137775-combat-fire.json](./137775-combat-fire.json) |
+| Combat Force | 124249 | [124249-combat-force.json](./124249-combat-force.json) |
 | Combat Force Xex Shooting Battle | 98052 | [98052-combat-force-xex-shooting-battle.json](./98052-combat-force-xex-shooting-battle.json) |
 | Combat Hawk | 40110 | [40110-combat-hawk.json](./40110-combat-hawk.json) |
 | Combat Helicopter VR - Surgical Strike | 117560 | [117560-combat-helicopter-vr-surgical-strike.json](./117560-combat-helicopter-vr-surgical-strike.json) |
@@ -20461,6 +20463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culdcept | 138069 | [138069-culdcept.json](./138069-culdcept.json) |
 | Culdcept | 22100 | [22100-culdcept.json](./22100-culdcept.json) |
 | Culdcept | 78415 | [78415-culdcept.json](./78415-culdcept.json) |
+| Culdcept DS | 124004 | [124004-culdcept-ds.json](./124004-culdcept-ds.json) |
 | Culdcept Expansion | 361753 | [361753-culdcept-expansion.json](./361753-culdcept-expansion.json) |
 | Culdcept Expansion Plus | 45039 | [45039-culdcept-expansion-plus.json](./45039-culdcept-expansion-plus.json) |
 | Culdcept II | 137524 | [137524-culdcept-ii.json](./137524-culdcept-ii.json) |
