@@ -144,6 +144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Star Wars Triple Bundle | 164777 | [164777-ea-star-wars-triple-bundle.json](./164777-ea-star-wars-triple-bundle.json) |
 | EA Strategy Collection | 281792 | [281792-ea-strategy-collection.json](./281792-ea-strategy-collection.json) |
 | Each Other | 224717 | [224717-each-other.json](./224717-each-other.json) |
+| Eador: Genesis | 10268 | [10268-eador-genesis.json](./10268-eador-genesis.json) |
 | Eador: Imperium | 19404 | [19404-eador-imperium.json](./19404-eador-imperium.json) |
 | Eador: Masters of the Broken World | 7719 | [7719-eador-masters-of-the-broken-world.json](./7719-eador-masters-of-the-broken-world.json) |
 | Eador: Masters of the Broken World - Allied Forces | 9206 | [9206-eador-masters-of-the-broken-world-allied-forces.json](./9206-eador-masters-of-the-broken-world-allied-forces.json) |
@@ -5226,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erusal | 31872 | [31872-erusal.json](./31872-erusal.json) |
 | Erwartung | 295014 | [295014-erwartung.json](./295014-erwartung.json) |
 | Erwin's Timewarp | 34689 | [34689-erwins-timewarp.json](./34689-erwins-timewarp.json) |
+| Eryi's Action | 10278 | [10278-eryis-action.json](./10278-eryis-action.json) |
 | Erz Online | 346225 | [346225-erz-online.json](./346225-erz-online.json) |
 | Erzurum | 143289 | [143289-erzurum.json](./143289-erzurum.json) |
 | Es | 131273 | [131273-es.json](./131273-es.json) |
@@ -5322,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Dead Island | 7499 | [7499-escape-dead-island.json](./7499-escape-dead-island.json) |
 | Escape Dead Island: Underwater Labs | 174149 | [174149-escape-dead-island-underwater-labs.json](./174149-escape-dead-island-underwater-labs.json) |
 | Escape Depths of Immanis | 322989 | [322989-escape-depths-of-immanis.json](./322989-escape-depths-of-immanis.json) |
+| Escape Doodland | 44219 | [44219-escape-doodland.json](./44219-escape-doodland.json) |
 | Escape Doom | 399182 | [399182-escape-doom.json](./399182-escape-doom.json) |
 | Escape Down | 195102 | [195102-escape-down.json](./195102-escape-down.json) |
 | Escape Dream | 236384 | [236384-escape-dream.json](./236384-escape-dream.json) |
