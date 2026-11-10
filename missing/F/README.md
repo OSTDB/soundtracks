@@ -3835,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Featherbound | 294269 | [294269-featherbound.json](./294269-featherbound.json) |
 | FeatherCall | 271871 | [271871-feathercall.json](./271871-feathercall.json) |
 | Feathered Escape | 288667 | [288667-feathered-escape.json](./288667-feathered-escape.json) |
+| Feathered Fortune | 412039 | [412039-feathered-fortune.json](./412039-feathered-fortune.json) |
 | Feathered Run | 221467 | [221467-feathered-run.json](./221467-feathered-run.json) |
 | Feathered Run: Worlds | 224595 | [224595-feathered-run-worlds.json](./224595-feathered-run-worlds.json) |
 | Featherfall | 125367 | [125367-featherfall.json](./125367-featherfall.json) |
@@ -4410,6 +4411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fidelity | 116549 | [116549-fidelity.json](./116549-fidelity.json) |
 | Fidelium Automata | 183256 | [183256-fidelium-automata.json](./183256-fidelium-automata.json) |
 | Fideos | 329024 | [329024-fideos.json](./329024-fideos.json) |
+| Fidget | 412506 | [412506-fidget.json](./412506-fidget.json) |
 | Fidget Pong | 69371 | [69371-fidget-pong.json](./69371-fidget-pong.json) |
 | Fidget Spinner | 100888 | [100888-fidget-spinner.json](./100888-fidget-spinner.json) |
 | Fidget Spinner | 41921 | [41921-fidget-spinner.json](./41921-fidget-spinner.json) |
@@ -4849,6 +4851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter on the Path of Glory | 293204 | [293204-fighter-on-the-path-of-glory.json](./293204-fighter-on-the-path-of-glory.json) |
 | Fighter Online | 252161 | [252161-fighter-online.json](./252161-fighter-online.json) |
 | Fighter Pilot | 12996 | [12996-fighter-pilot.json](./12996-fighter-pilot.json) |
+| Fighter Pilot | 412512 | [412512-fighter-pilot.json](./412512-fighter-pilot.json) |
 | Fighter Pilot: HeavyFire | 175699 | [175699-fighter-pilot-heavyfire.json](./175699-fighter-pilot-heavyfire.json) |
 | Fighter Royale: Last Ace Flying | 117345 | [117345-fighter-royale-last-ace-flying.json](./117345-fighter-royale-last-ace-flying.json) |
 | Fighter Saiyan: Super | 104398 | [104398-fighter-saiyan-super.json](./104398-fighter-saiyan-super.json) |
@@ -14041,6 +14044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun! Fun! Minigolf | 21128 | [21128-fun-fun-minigolf.json](./21128-fun-fun-minigolf.json) |
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
 | Fun.Io | 254310 | [254310-fun-io.json](./254310-fun-io.json) |
+| Fun2Link | 412421 | [412421-fun2link.json](./412421-fun2link.json) |
 | Funaki Masakatsu Hybrid Wrestler: Tougi Denshou | 44459 | [44459-funaki-masakatsu-hybrid-wrestler-tougi-denshou.json](./44459-funaki-masakatsu-hybrid-wrestler-tougi-denshou.json) |
 | Funaki Masakatsu: Hybrid Wrestler | 67031 | [67031-funaki-masakatsu-hybrid-wrestler.json](./67031-funaki-masakatsu-hybrid-wrestler.json) |
 | Funanigans | 136893 | [136893-funanigans.json](./136893-funanigans.json) |
