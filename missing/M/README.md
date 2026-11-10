@@ -1259,6 +1259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Jungle Escape 2 | 315562 | [315562-magic-jungle-escape-2.json](./315562-magic-jungle-escape-2.json) |
 | Magic Kaleidoscope | 257459 | [257459-magic-kaleidoscope.json](./257459-magic-kaleidoscope.json) |
 | Magic Kid Goo Goo | 48898 | [48898-magic-kid-goo-goo.json](./48898-magic-kid-goo-goo.json) |
+| Magic Kinder - Educational app | 95287 | [95287-magic-kinder-educational-app.json](./95287-magic-kinder-educational-app.json) |
 | Magic Kingdom | 213591 | [213591-magic-kingdom.json](./213591-magic-kingdom.json) |
 | Magic Kingdom | 373303 | [373303-magic-kingdom.json](./373303-magic-kingdom.json) |
 | Magic Kingdom War | 216693 | [216693-magic-kingdom-war.json](./216693-magic-kingdom-war.json) |
@@ -7455,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Shepherd | 425827 | [425827-medieval-shepherd.json](./425827-medieval-shepherd.json) |
 | Medieval Shop Simulator | 152726 | [152726-medieval-shop-simulator.json](./152726-medieval-shop-simulator.json) |
 | Medieval Shop Simulator | 350333 | [350333-medieval-shop-simulator.json](./350333-medieval-shop-simulator.json) |
+| Medieval Shopkeeper Simulator | 95121 | [95121-medieval-shopkeeper-simulator.json](./95121-medieval-shopkeeper-simulator.json) |
 | Medieval Shopman | 349757 | [349757-medieval-shopman.json](./349757-medieval-shopman.json) |
 | Medieval Shorts 2 | 101775 | [101775-medieval-shorts-2.json](./101775-medieval-shorts-2.json) |
 | Medieval Shorts 3 | 101752 | [101752-medieval-shorts-3.json](./101752-medieval-shorts-3.json) |
@@ -15760,6 +15762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentum Missile Mayhem 4 | 388203 | [388203-momentum-missile-mayhem-4.json](./388203-momentum-missile-mayhem-4.json) |
 | Momentum Mod | 58157 | [58157-momentum-mod.json](./58157-momentum-mod.json) |
 | Momentum Tenebris | 184678 | [184678-momentum-tenebris.json](./184678-momentum-tenebris.json) |
+| Momery | 95135 | [95135-momery.json](./95135-momery.json) |
 | Momibosu | 151726 | [151726-momibosu.json](./151726-momibosu.json) |
 | Momiji From Purgatory | 152490 | [152490-momiji-from-purgatory.json](./152490-momiji-from-purgatory.json) |
 | Mominesweeper | 224005 | [224005-mominesweeper.json](./224005-mominesweeper.json) |
