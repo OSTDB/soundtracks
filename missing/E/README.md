@@ -5766,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Panda | 302992 | [302992-escape-panda.json](./302992-escape-panda.json) |
 | Escape parking lot | 109406 | [109406-escape-parking-lot.json](./109406-escape-parking-lot.json) |
 | Escape Party | 278419 | [278419-escape-party.json](./278419-escape-party.json) |
+| Escape Path | 417243 | [417243-escape-path.json](./417243-escape-path.json) |
 | Escape Peng | 303520 | [303520-escape-peng.json](./303520-escape-peng.json) |
 | Escape Plan | 18371 | [18371-escape-plan.json](./18371-escape-plan.json) |
 | Escape Plan: Add-On Bundle | 26070 | [26070-escape-plan-add-on-bundle.json](./26070-escape-plan-add-on-bundle.json) |
@@ -6028,6 +6029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escapers | 210853 | [210853-escapers.json](./210853-escapers.json) |
 | EscapeSimulator | 358633 | [358633-escapesimulator.json](./358633-escapesimulator.json) |
 | EscapeTheBrainrots | 350932 | [350932-escapethebrainrots.json](./350932-escapethebrainrots.json) |
+| EscapeTheMech | 417134 | [417134-escapethemech.json](./417134-escapethemech.json) |
 | EscapeTrick: 35 Fateful Enigmas | 85120 | [85120-escapetrick-35-fateful-enigmas.json](./85120-escapetrick-35-fateful-enigmas.json) |
 | EscapeVektor: Chapter 1 | 50944 | [50944-escapevektor-chapter-1.json](./50944-escapevektor-chapter-1.json) |
 | EscapeVr | 343762 | [343762-escapevr.json](./343762-escapevr.json) |
