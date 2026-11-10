@@ -8351,7 +8351,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exp Parasite | 138926 | [138926-exp-parasite.json](./138926-exp-parasite.json) |
 | Exp!A | 151692 | [151692-exp-a.json](./151692-exp-a.json) |
 | Exp10sion | 277946 | [277946-exp10sion.json](./277946-exp10sion.json) |
-| Expand | 18474 | [18474-expand.json](./18474-expand.json) |
 | Expand & Exterminate: Terrytorial Disputes - Endless Base Defense | 367935 | [367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json](./367935-expand-and-exterminate-terrytorial-disputes-endless-base-defense.json) |
 | Expand It! HD | 175554 | [175554-expand-it-hd.json](./175554-expand-it-hd.json) |
 | Expand TD | 422390 | [422390-expand-td.json](./422390-expand-td.json) |
