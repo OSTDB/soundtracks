@@ -4752,6 +4752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight For America | 380698 | [380698-fight-for-america.json](./380698-fight-for-america.json) |
 | Fight For America: Complete Edition | 385199 | [385199-fight-for-america-complete-edition.json](./385199-fight-for-america-complete-edition.json) |
 | Fight For America: Country War | 245344 | [245344-fight-for-america-country-war.json](./245344-fight-for-america-country-war.json) |
+| Fight For America: Diamond Edition | 411178 | [411178-fight-for-america-diamond-edition.json](./411178-fight-for-america-diamond-edition.json) |
 | Fight For America: Fire Guns DLC | 380714 | [380714-fight-for-america-fire-guns-dlc.json](./380714-fight-for-america-fire-guns-dlc.json) |
 | Fight For America: Golden Gun DLC | 380715 | [380715-fight-for-america-golden-gun-dlc.json](./380715-fight-for-america-golden-gun-dlc.json) |
 | Fight For America: Hot Edition | 395678 | [395678-fight-for-america-hot-edition.json](./395678-fight-for-america-hot-edition.json) |
