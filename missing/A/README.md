@@ -1527,6 +1527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Walk in the Woods: VR | 133888 | [133888-a-walk-in-the-woods-vr.json](./133888-a-walk-in-the-woods-vr.json) |
 | A Walk of Surrender | 183258 | [183258-a-walk-of-surrender.json](./183258-a-walk-of-surrender.json) |
 | A Walk Through Echoes | 159708 | [159708-a-walk-through-echoes.json](./159708-a-walk-through-echoes.json) |
+| A Walk Through Kramfors | 421263 | [421263-a-walk-through-kramfors.json](./421263-a-walk-through-kramfors.json) |
 | A Walk With Yiayia | 151184 | [151184-a-walk-with-yiayia.json](./151184-a-walk-with-yiayia.json) |
 | A Walk, the Morning After the Storm | 144148 | [144148-a-walk-the-morning-after-the-storm.json](./144148-a-walk-the-morning-after-the-storm.json) |
 | A Wanderer's Adventure | 393934 | [393934-a-wanderers-adventure.json](./393934-a-wanderers-adventure.json) |
@@ -3489,6 +3490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrenaline Overdrive | 358568 | [358568-adrenaline-overdrive.json](./358568-adrenaline-overdrive.json) |
 | Adrenaline Overload Bundle | 396439 | [396439-adrenaline-overload-bundle.json](./396439-adrenaline-overload-bundle.json) |
 | Adrenaline Rampage | 273848 | [273848-adrenaline-rampage.json](./273848-adrenaline-rampage.json) |
+| Adrenaline Rush | 421172 | [421172-adrenaline-rush.json](./421172-adrenaline-rush.json) |
 | Adrenaline Rush 4‑Pack | 396438 | [396438-adrenaline-rush-4-pack.json](./396438-adrenaline-rush-4-pack.json) |
 | Adrenaline Rush: Highway Extreme Traffic Racer | 300767 | [300767-adrenaline-rush-highway-extreme-traffic-racer.json](./300767-adrenaline-rush-highway-extreme-traffic-racer.json) |
 | Adrenaline Rush: Miami Drive | 122735 | [122735-adrenaline-rush-miami-drive.json](./122735-adrenaline-rush-miami-drive.json) |
@@ -4715,6 +4717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath: The Cold War | 423627 | [423627-aftermath-the-cold-war.json](./423627-aftermath-the-cold-war.json) |
 | Aftermoon | 63880 | [63880-aftermoon.json](./63880-aftermoon.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
+| Aftermount | 421279 | [421279-aftermount.json](./421279-aftermount.json) |
 | AfterMove | 412481 | [412481-aftermove.json](./412481-aftermove.json) |
 | Afternoon | 264395 | [264395-afternoon.json](./264395-afternoon.json) |
 | Afternoon Affairs & Helpless Housewives | 401455 | [401455-afternoon-affairs-and-helpless-housewives.json](./401455-afternoon-affairs-and-helpless-housewives.json) |
@@ -8598,6 +8601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanda's Magic Book | 214019 | [214019-amandas-magic-book.json](./214019-amandas-magic-book.json) |
 | Amanda's Magic Book 10: Veil of the Phantom | 335787 | [335787-amandas-magic-book-10-veil-of-the-phantom.json](./335787-amandas-magic-book-10-veil-of-the-phantom.json) |
 | Amanda's Magic Book 11: Fractured Reflections | 356767 | [356767-amandas-magic-book-11-fractured-reflections.json](./356767-amandas-magic-book-11-fractured-reflections.json) |
+| Amanda's Magic Book 16: The Dragon Chronicle | 421160 | [421160-amandas-magic-book-16-the-dragon-chronicle.json](./421160-amandas-magic-book-16-the-dragon-chronicle.json) |
 | Amanda's Magic Book 4: True Love | 201499 | [201499-amandas-magic-book-4-true-love.json](./201499-amandas-magic-book-4-true-love.json) |
 | Amanda's Magic Book 5: Hansel and Gretel | 237070 | [237070-amandas-magic-book-5-hansel-and-gretel.json](./237070-amandas-magic-book-5-hansel-and-gretel.json) |
 | Amanda's Magic Book 6: Aladdin's Magic Lamp | 230885 | [230885-amandas-magic-book-6-aladdins-magic-lamp.json](./230885-amandas-magic-book-6-aladdins-magic-lamp.json) |
@@ -17620,6 +17624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -18292,6 +18297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora Nova | 269044 | [269044-aurora-nova.json](./269044-aurora-nova.json) |
 | Aurora Polaris | 341690 | [341690-aurora-polaris.json](./341690-aurora-polaris.json) |
 | Aurora Quest: Otaku no Seiza in Another World | 69765 | [69765-aurora-quest-otaku-no-seiza-in-another-world.json](./69765-aurora-quest-otaku-no-seiza-in-another-world.json) |
+| Aurora Requiem: The Lullaby of Calvaris | 421242 | [421242-aurora-requiem-the-lullaby-of-calvaris.json](./421242-aurora-requiem-the-lullaby-of-calvaris.json) |
 | Aurora Trail | 80991 | [80991-aurora-trail.json](./80991-aurora-trail.json) |
 | Aurora: A Child's Journey | 145891 | [145891-aurora-a-childs-journey.json](./145891-aurora-a-childs-journey.json) |
 | Aurora: El Destino de los Mundos | 317071 | [317071-aurora-el-destino-de-los-mundos.json](./317071-aurora-el-destino-de-los-mundos.json) |
