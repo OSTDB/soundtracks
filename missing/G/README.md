@@ -217,6 +217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. Combat: Episode 1 - Battle of Normandy | 79387 | [79387-g-i-combat-episode-1-battle-of-normandy.json](./79387-g-i-combat-episode-1-battle-of-normandy.json) |
 | G.I. Joe | 178246 | [178246-g-i-joe.json](./178246-g-i-joe.json) |
 | G.I. Joe: A Real American Hero | 218433 | [218433-g-i-joe-a-real-american-hero.json](./218433-g-i-joe-a-real-american-hero.json) |
+| G.I. Joe: A Real American Hero | 25981 | [25981-g-i-joe-a-real-american-hero.json](./25981-g-i-joe-a-real-american-hero.json) |
 | G.I. Joe: A Real American Hero | 8165 | [8165-g-i-joe-a-real-american-hero.json](./8165-g-i-joe-a-real-american-hero.json) |
 | G.I. Joe: Battleground | 323132 | [323132-g-i-joe-battleground.json](./323132-g-i-joe-battleground.json) |
 | G.I. Joe: Cobra Strike | 22697 | [22697-g-i-joe-cobra-strike.json](./22697-g-i-joe-cobra-strike.json) |
@@ -2049,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield | 179595 | [179595-garfield.json](./179595-garfield.json) |
 | Garfield | 218912 | [218912-garfield.json](./218912-garfield.json) |
 | Garfield | 234571 | [234571-garfield.json](./234571-garfield.json) |
+| Garfield | 5891 | [5891-garfield.json](./5891-garfield.json) |
 | Garfield | 95360 | [95360-garfield.json](./95360-garfield.json) |
 | Garfield 2 | 43528 | [43528-garfield-2.json](./43528-garfield-2.json) |
 | Garfield 2: Royal Adventure | 309657 | [309657-garfield-2-royal-adventure.json](./309657-garfield-2-royal-adventure.json) |
@@ -8975,6 +8977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Run | 114612 | [114612-gravity-run.json](./114612-gravity-run.json) |
 | Gravity Runner | 173972 | [173972-gravity-runner.json](./173972-gravity-runner.json) |
 | Gravity Rush | 11701 | [11701-gravity-rush.json](./11701-gravity-rush.json) |
+| Gravity Rush 2: The Ark of Time - Raven's Choice | 26230 | [26230-gravity-rush-2-the-ark-of-time-ravens-choice.json](./26230-gravity-rush-2-the-ark-of-time-ravens-choice.json) |
 | Gravity Rush Remastered | 12529 | [12529-gravity-rush-remastered.json](./12529-gravity-rush-remastered.json) |
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
 | Gravity Shift | 180556 | [180556-gravity-shift.json](./180556-gravity-shift.json) |
@@ -10484,6 +10487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT 64: Championship Edition | 3375 | [3375-gt-64-championship-edition.json](./3375-gt-64-championship-edition.json) |
 | GT Advance 2: Rally Racing | 6425 | [6425-gt-advance-2-rally-racing.json](./6425-gt-advance-2-rally-racing.json) |
 | GT Advance 3: Pro Concept Racing | 6426 | [6426-gt-advance-3-pro-concept-racing.json](./6426-gt-advance-3-pro-concept-racing.json) |
+| GT Advance Championship Racing | 6424 | [6424-gt-advance-championship-racing.json](./6424-gt-advance-championship-racing.json) |
 | GT and the Evil Factory | 141611 | [141611-gt-and-the-evil-factory.json](./141611-gt-and-the-evil-factory.json) |
 | GT and the Evil Factory | 295856 | [295856-gt-and-the-evil-factory.json](./295856-gt-and-the-evil-factory.json) |
 | GT Cube | 3938 | [3938-gt-cube.json](./3938-gt-cube.json) |
