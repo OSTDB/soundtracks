@@ -12308,6 +12308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreezeME | 23480 | [23480-freezeme.json](./23480-freezeme.json) |
 | Freezer Frenzy | 305698 | [305698-freezer-frenzy.json](./305698-freezer-frenzy.json) |
 | Freezer Jams | 245196 | [245196-freezer-jams.json](./245196-freezer-jams.json) |
+| Freezer Pops | 163296 | [163296-freezer-pops.json](./163296-freezer-pops.json) |
 | Freezer Pops 2: Little Blo's Party | 346540 | [346540-freezer-pops-2-little-blos-party.json](./346540-freezer-pops-2-little-blos-party.json) |
 | Freezia | 333315 | [333315-freezia.json](./333315-freezia.json) |
 | Freezing Knights | 293750 | [293750-freezing-knights.json](./293750-freezing-knights.json) |
