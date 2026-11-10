@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoblade Chronicles 3: Special Edition | 198151 | [198151-xenoblade-chronicles-3-special-edition.json](./198151-xenoblade-chronicles-3-special-edition.json) |
 | Xenoblade Chronicles 3D | 9553 | [9553-xenoblade-chronicles-3d.json](./9553-xenoblade-chronicles-3d.json) |
 | Xenoblade Chronicles X | 2366 | [2366-xenoblade-chronicles-x.json](./2366-xenoblade-chronicles-x.json) |
+| Xenoblade Chronicles X: Definitive Edition | 321048 | [321048-xenoblade-chronicles-x-definitive-edition.json](./321048-xenoblade-chronicles-x-definitive-edition.json) |
 | Xenoblade Chronicles X: Limited Edition | 51145 | [51145-xenoblade-chronicles-x-limited-edition.json](./51145-xenoblade-chronicles-x-limited-edition.json) |
 | Xenoblade Chronicles X: Special Edition | 51143 | [51143-xenoblade-chronicles-x-special-edition.json](./51143-xenoblade-chronicles-x-special-edition.json) |
 | Xenoblade Chronicles: Collector's Edition | 50591 | [50591-xenoblade-chronicles-collectors-edition.json](./50591-xenoblade-chronicles-collectors-edition.json) |
