@@ -4553,6 +4553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Lesbian Vampires | 178913 | [178913-night-of-the-lesbian-vampires.json](./178913-night-of-the-lesbian-vampires.json) |
 | Night of the Living Bubble | 391169 | [391169-night-of-the-living-bubble.json](./391169-night-of-the-living-bubble.json) |
 | Night of The Living Dead VR | 128204 | [128204-night-of-the-living-dead-vr.json](./128204-night-of-the-living-dead-vr.json) |
+| Night of the Living Robot | 418693 | [418693-night-of-the-living-robot.json](./418693-night-of-the-living-robot.json) |
 | Night of the Living Skurre | 367973 | [367973-night-of-the-living-skurre.json](./367973-night-of-the-living-skurre.json) |
 | Night of the loving dead | 161905 | [161905-night-of-the-loving-dead.json](./161905-night-of-the-loving-dead.json) |
 | Night of the Meteor | 170281 | [170281-night-of-the-meteor.json](./170281-night-of-the-meteor.json) |
@@ -7059,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norn9: Norn + Nonette | 21588 | [21588-norn9-norn-nonette.json](./21588-norn9-norn-nonette.json) |
 | Norn9: Var Commons | 21589 | [21589-norn9-var-commons.json](./21589-norn9-var-commons.json) |
 | Nornium | 293384 | [293384-nornium.json](./293384-nornium.json) |
+| Noroi Ayashi: The ∞th Oddity | 418666 | [418666-noroi-ayashi-the-th-oddity.json](./418666-noroi-ayashi-the-th-oddity.json) |
 | Noroi E: Darkness | 307262 | [307262-noroi-e-darkness.json](./307262-noroi-e-darkness.json) |
 | Noroi E: Nightmares | 363678 | [363678-noroi-e-nightmares.json](./363678-noroi-e-nightmares.json) |
 | Noroi E: The Origin of Nightmares | 240945 | [240945-noroi-e-the-origin-of-nightmares.json](./240945-noroi-e-the-origin-of-nightmares.json) |
