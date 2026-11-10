@@ -612,6 +612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Doors: Escape from Prison | 195637 | [195637-100-doors-escape-from-prison.json](./195637-100-doors-escape-from-prison.json) |
 | 100 Doors: Escape from Work | 167806 | [167806-100-doors-escape-from-work.json](./167806-100-doors-escape-from-work.json) |
 | 100 Dubai Cats | 334120 | [334120-100-dubai-cats.json](./334120-100-dubai-cats.json) |
+| 100 Easy Maths | 423069 | [423069-100-easy-maths.json](./423069-100-easy-maths.json) |
 | 100 Egypt Cats | 304666 | [304666-100-egypt-cats.json](./304666-100-egypt-cats.json) |
 | 100 Familien Spiele | 91608 | [91608-100-familien-spiele.json](./91608-100-familien-spiele.json) |
 | 100 Flaps | 183899 | [183899-100-flaps.json](./183899-100-flaps.json) |
