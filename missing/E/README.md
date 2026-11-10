@@ -1633,6 +1633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Hydlide PC-8801 | 280607 | [280607-eggconsole-hydlide-pc-8801.json](./280607-eggconsole-hydlide-pc-8801.json) |
 | Eggconsole Kiss of Murder PC-8801 | 375407 | [375407-eggconsole-kiss-of-murder-pc-8801.json](./375407-eggconsole-kiss-of-murder-pc-8801.json) |
 | Eggconsole Kohakuiro no Yuigon PC-8801mkIISR | 393629 | [393629-eggconsole-kohakuiro-no-yuigon-pc-8801mkiisr.json](./393629-eggconsole-kohakuiro-no-yuigon-pc-8801mkiisr.json) |
+| Eggconsole Laydock 2 Last Attack MSX2+ | 402003 | [402003-eggconsole-laydock-2-last-attack-msx2.json](./402003-eggconsole-laydock-2-last-attack-msx2.json) |
 | Eggconsole Lizard PC-8801 | 379358 | [379358-eggconsole-lizard-pc-8801.json](./379358-eggconsole-lizard-pc-8801.json) |
 | Eggconsole Lord Monarch PC-9801 | 364076 | [364076-eggconsole-lord-monarch-pc-9801.json](./364076-eggconsole-lord-monarch-pc-9801.json) |
 | Eggconsole Mad Rider MSX2 | 385113 | [385113-eggconsole-mad-rider-msx2.json](./385113-eggconsole-mad-rider-msx2.json) |
@@ -5713,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape game R00m08 | 381797 | [381797-escape-game-r00m08.json](./381797-escape-game-r00m08.json) |
 | Escape game R00m11 | 395217 | [395217-escape-game-r00m11.json](./395217-escape-game-r00m11.json) |
 | Escape game R00m12 | 399635 | [399635-escape-game-r00m12.json](./399635-escape-game-r00m12.json) |
+| Escape game R00m13 | 402008 | [402008-escape-game-r00m13.json](./402008-escape-game-r00m13.json) |
 | Escape game R00m14 | 406067 | [406067-escape-game-r00m14.json](./406067-escape-game-r00m14.json) |
 | Escape game R00m15 | 410381 | [410381-escape-game-r00m15.json](./410381-escape-game-r00m15.json) |
 | Escape game R00m16 | 413947 | [413947-escape-game-r00m16.json](./413947-escape-game-r00m16.json) |
@@ -5991,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Trick: Convenience Store | 85121 | [85121-escape-trick-convenience-store.json](./85121-escape-trick-convenience-store.json) |
 | Escape Trick: Ninja Castle | 85128 | [85128-escape-trick-ninja-castle.json](./85128-escape-trick-ninja-castle.json) |
 | Escape Trick: The Secret of Rock City Prison | 85127 | [85127-escape-trick-the-secret-of-rock-city-prison.json](./85127-escape-trick-the-secret-of-rock-city-prison.json) |
+| Escape Tsunami For Brainrots | 402007 | [402007-escape-tsunami-for-brainrots.json](./402007-escape-tsunami-for-brainrots.json) |
 | Escape Tsunami: Take Brainrots! | 388523 | [388523-escape-tsunami-take-brainrots.json](./388523-escape-tsunami-take-brainrots.json) |
 | Escape Until Friday | 117591 | [117591-escape-until-friday.json](./117591-escape-until-friday.json) |
 | Escape Vauban | 183179 | [183179-escape-vauban.json](./183179-escape-vauban.json) |
@@ -6653,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etoile Princesse | 70834 | [70834-etoile-princesse.json](./70834-etoile-princesse.json) |
 | Etos | 260546 | [260546-etos.json](./260546-etos.json) |
 | Etrange Overlord | 376699 | [376699-etrange-overlord.json](./376699-etrange-overlord.json) |
+| Etrange Overlord: Launch Edition | 401968 | [401968-etrange-overlord-launch-edition.json](./401968-etrange-overlord-launch-edition.json) |
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
 | Etrian Mystery Dungeon 2 | 27960 | [27960-etrian-mystery-dungeon-2.json](./27960-etrian-mystery-dungeon-2.json) |
