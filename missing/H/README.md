@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ham's Kitchen | 323822 | [323822-hams-kitchen.json](./323822-hams-kitchen.json) |
 | Hamam: The Steaming Backrooms | 387445 | [387445-hamam-the-steaming-backrooms.json](./387445-hamam-the-steaming-backrooms.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
+| Hamayumishi: The Night Parade of a Hundred Yokai | 416271 | [416271-hamayumishi-the-night-parade-of-a-hundred-yokai.json](./416271-hamayumishi-the-night-parade-of-a-hundred-yokai.json) |
 | Hamb: Rotari | 402916 | [402916-hamb-rotari.json](./402916-hamb-rotari.json) |
 | Hambo's Adventures | 245107 | [245107-hambos-adventures.json](./245107-hambos-adventures.json) |
 | Hamboy: AutoChess Survivor | 257436 | [257436-hamboy-autochess-survivor.json](./257436-hamboy-autochess-survivor.json) |
@@ -1297,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanafuda Shiyouyo | 37505 | [37505-hanafuda-shiyouyo.json](./37505-hanafuda-shiyouyo.json) |
 | Hanafuda Trump Mahjong: Depachika Wayounaka | 49635 | [49635-hanafuda-trump-mahjong-depachika-wayounaka.json](./49635-hanafuda-trump-mahjong-depachika-wayounaka.json) |
 | Hanafuda Yuukyou-den: Nagarebana Oryuu | 267655 | [267655-hanafuda-yuukyou-den-nagarebana-oryuu.json](./267655-hanafuda-yuukyou-den-nagarebana-oryuu.json) |
+| Hanafuda-kyou | 416272 | [416272-hanafuda-kyou.json](./416272-hanafuda-kyou.json) |
 | Hanafuta no Tora | 358479 | [358479-hanafuta-no-tora.json](./358479-hanafuta-no-tora.json) |
 | Hanagane Kanade Gram: Chapter 1 - Kozakura Yui | 396457 | [396457-hanagane-kanade-gram-chapter-1-kozakura-yui.json](./396457-hanagane-kanade-gram-chapter-1-kozakura-yui.json) |
 | Hanagane Kanade Gram: Chapter 2 - Hananoka Sumire | 396459 | [396459-hanagane-kanade-gram-chapter-2-hananoka-sumire.json](./396459-hanagane-kanade-gram-chapter-2-hananoka-sumire.json) |
@@ -9879,6 +9881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homey D. Clown | 85767 | [85767-homey-d-clown.json](./85767-homey-d-clown.json) |
 | Homgard | 389851 | [389851-homgard.json](./389851-homgard.json) |
 | Homicide | 118110 | [118110-homicide.json](./118110-homicide.json) |
+| Homicide Desk | 416254 | [416254-homicide-desk.json](./416254-homicide-desk.json) |
 | Homicide Poetry | 350919 | [350919-homicide-poetry.json](./350919-homicide-poetry.json) |
 | Homicide Squad | 180153 | [180153-homicide-squad.json](./180153-homicide-squad.json) |
 | Homicide Squad: Hidden Crimes | 96323 | [96323-homicide-squad-hidden-crimes.json](./96323-homicide-squad-hidden-crimes.json) |
@@ -10870,6 +10873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshiwari x Yoizanai | 396476 | [396476-hoshiwari-x-yoizanai.json](./396476-hoshiwari-x-yoizanai.json) |
 | Hoshizora e Kakaru Hashi AA | 144889 | [144889-hoshizora-e-kakaru-hashi-aa.json](./144889-hoshizora-e-kakaru-hashi-aa.json) |
 | Hoshizora he Kakaru Hashi | 60656 | [60656-hoshizora-he-kakaru-hashi.json](./60656-hoshizora-he-kakaru-hashi.json) |
+| Hoshizora he Tatsuhi | 414936 | [414936-hoshizora-he-tatsuhi.json](./414936-hoshizora-he-tatsuhi.json) |
 | Hoshizora Navi | 92412 | [92412-hoshizora-navi.json](./92412-hoshizora-navi.json) |
 | Hoshizora no Comic Garden | 70660 | [70660-hoshizora-no-comic-garden.json](./70660-hoshizora-no-comic-garden.json) |
 | Hoshizora no Memoria -Eternal Heart- | 61404 | [61404-hoshizora-no-memoria-eternal-heart.json](./61404-hoshizora-no-memoria-eternal-heart.json) |
@@ -11261,6 +11265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotdog Delivery Hotdog | 390621 | [390621-hotdog-delivery-hotdog.json](./390621-hotdog-delivery-hotdog.json) |
 | Hotdog Hazards | 357152 | [357152-hotdog-hazards.json](./357152-hotdog-hazards.json) |
 | Hotdog Hustler | 357704 | [357704-hotdog-hustler.json](./357704-hotdog-hustler.json) |
+| Hotdog Killer | 416203 | [416203-hotdog-killer.json](./416203-hotdog-killer.json) |
 | Hotdog Kitchen | 295653 | [295653-hotdog-kitchen.json](./295653-hotdog-kitchen.json) |
 | Hotdog Man | 116189 | [116189-hotdog-man.json](./116189-hotdog-man.json) |
 | Hotdog Quest: One With Everything | 212995 | [212995-hotdog-quest-one-with-everything.json](./212995-hotdog-quest-one-with-everything.json) |
@@ -12653,6 +12658,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter: The Reckoning Wayward | 24096 | [24096-hunter-the-reckoning-wayward.json](./24096-hunter-the-reckoning-wayward.json) |
 | Hunter's Arena: Legends | 119137 | [119137-hunters-arena-legends.json](./119137-hunters-arena-legends.json) |
 | Hunter's Arena: Revolution | 367978 | [367978-hunters-arena-revolution.json](./367978-hunters-arena-revolution.json) |
+| Hunter's Journey: Nightmare Hunting | 414938 | [414938-hunters-journey-nightmare-hunting.json](./414938-hunters-journey-nightmare-hunting.json) |
+| Hunter's Journey: Nightmare Hunting - Collector's Edition | 414939 | [414939-hunters-journey-nightmare-hunting-collectors-edition.json](./414939-hunters-journey-nightmare-hunting-collectors-edition.json) |
 | Hunter's Journey: Tears of the Lake | 416706 | [416706-hunters-journey-tears-of-the-lake.json](./416706-hunters-journey-tears-of-the-lake.json) |
 | Hunter's Journey: Tears of the Lake - Collector's Edition | 362844 | [362844-hunters-journey-tears-of-the-lake-collectors-edition.json](./362844-hunters-journey-tears-of-the-lake-collectors-edition.json) |
 | Hunter's Legacy | 24022 | [24022-hunters-legacy.json](./24022-hunters-legacy.json) |
