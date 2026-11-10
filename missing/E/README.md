@@ -7668,6 +7668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolit | 346152 | [346152-evolit.json](./346152-evolit.json) |
 | Evolits | 145453 | [145453-evolits.json](./145453-evolits.json) |
 | Evolized | 353371 | [353371-evolized.json](./353371-evolized.json) |
+| Evolo.Evolution | 108365 | [108365-evolo-evolution.json](./108365-evolo-evolution.json) |
 | Evolo.Mine | 111967 | [111967-evolo-mine.json](./111967-evolo-mine.json) |
 | Evolo.SpiderSim | 110615 | [110615-evolo-spidersim.json](./110615-evolo-spidersim.json) |
 | Evolo.The Sun | 335447 | [335447-evolo-the-sun.json](./335447-evolo-the-sun.json) |
