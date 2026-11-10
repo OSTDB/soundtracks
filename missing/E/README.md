@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EDP 445 Simulator | 370078 | [370078-edp-445-simulator.json](./370078-edp-445-simulator.json) |
 | Edrick's Conquest | 198041 | [198041-edricks-conquest.json](./198041-edricks-conquest.json) |
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
+| Edu Cards for Pre-school Kids | 89063 | [89063-edu-cards-for-pre-school-kids.json](./89063-edu-cards-for-pre-school-kids.json) |
 | Edu Simulator | 408043 | [408043-edu-simulator.json](./408043-edu-simulator.json) |
 | Eduardo the Samurai Toaster | 21193 | [21193-eduardo-the-samurai-toaster.json](./21193-eduardo-the-samurai-toaster.json) |
 | EduBirthday-Best Toddler Games | 106713 | [106713-edubirthday-best-toddler-games.json](./106713-edubirthday-best-toddler-games.json) |
@@ -2873,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmo's Monster Maker HD | 89732 | [89732-elmos-monster-maker-hd.json](./89732-elmos-monster-maker-hd.json) |
 | Elmo's Preschool | 201886 | [201886-elmos-preschool.json](./201886-elmos-preschool.json) |
 | Elmo's Reading Basics | 392088 | [392088-elmos-reading-basics.json](./392088-elmos-reading-basics.json) |
+| Elmo's World and You | 87470 | [87470-elmos-world-and-you.json](./87470-elmos-world-and-you.json) |
 | Elmo's World: Elmo's Big Discoveries | 70700 | [70700-elmos-world-elmos-big-discoveries.json](./70700-elmos-world-elmos-big-discoveries.json) |
 | Elnark no Zaihou | 48507 | [48507-elnark-no-zaihou.json](./48507-elnark-no-zaihou.json) |
 | Elo 1100 Chess | 192404 | [192404-elo-1100-chess.json](./192404-elo-1100-chess.json) |
@@ -3477,6 +3479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire: Wargame of the Century | 12583 | [12583-empire-wargame-of-the-century.json](./12583-empire-wargame-of-the-century.json) |
 | Empire! | 13640 | [13640-empire.json](./13640-empire.json) |
 | Empire's Order | 254713 | [254713-empires-order.json](./254713-empires-order.json) |
+| Empire&Boat | 89014 | [89014-empire-and-boat.json](./89014-empire-and-boat.json) |
 | Empires | 29123 | [29123-empires.json](./29123-empires.json) |
 | Empires | 36445 | [36445-empires.json](./36445-empires.json) |
 | Empires & Allies | 257272 | [257272-empires-and-allies.json](./257272-empires-and-allies.json) |
@@ -5772,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Room Ultimate Trilogy | 332333 | [332333-escape-room-ultimate-trilogy.json](./332333-escape-room-ultimate-trilogy.json) |
 | Escape Room VR | 128340 | [128340-escape-room-vr.json](./128340-escape-room-vr.json) |
 | Escape Room VR: Inner Voices | 135724 | [135724-escape-room-vr-inner-voices.json](./135724-escape-room-vr-inner-voices.json) |
+| Escape Room VR: Stories | 89077 | [89077-escape-room-vr-stories.json](./89077-escape-room-vr-stories.json) |
 | Escape Room VR: Vaudeville | 159976 | [159976-escape-room-vr-vaudeville.json](./159976-escape-room-vr-vaudeville.json) |
 | Escape Room: Bank Robbery Gone Wrong | 244246 | [244246-escape-room-bank-robbery-gone-wrong.json](./244246-escape-room-bank-robbery-gone-wrong.json) |
 | Escape Room: Beyond Mystery | 315265 | [315265-escape-room-beyond-mystery.json](./315265-escape-room-beyond-mystery.json) |
@@ -6747,6 +6751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis II | 682 | [682-europa-universalis-ii.json](./682-europa-universalis-ii.json) |
 | Europa Universalis II: Asia Chapters | 73408 | [73408-europa-universalis-ii-asia-chapters.json](./73408-europa-universalis-ii-asia-chapters.json) |
 | Europa Universalis III | 683 | [683-europa-universalis-iii.json](./683-europa-universalis-iii.json) |
+| Europa Universalis III Chron | 89087 | [89087-europa-universalis-iii-chron.json](./89087-europa-universalis-iii-chron.json) |
 | Europa Universalis III Chronicles | 25525 | [25525-europa-universalis-iii-chronicles.json](./25525-europa-universalis-iii-chronicles.json) |
 | Europa Universalis III Complete | 51815 | [51815-europa-universalis-iii-complete.json](./51815-europa-universalis-iii-complete.json) |
 | Europa Universalis III: Collector's Edition | 52971 | [52971-europa-universalis-iii-collectors-edition.json](./52971-europa-universalis-iii-collectors-edition.json) |
