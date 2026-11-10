@@ -5663,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendo Classic Mini: Family Computer | 213597 | [213597-nintendo-classic-mini-family-computer.json](./213597-nintendo-classic-mini-family-computer.json) |
 | Nintendo Classic Mini: Family Computer - Weekly Shonen Jump 50th Anniversary Version | 213599 | [213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json](./213599-nintendo-classic-mini-family-computer-weekly-shonen-jump-50th-anniversary-version.json) |
 | Nintendo Classic Mini: Super Famicom | 213594 | [213594-nintendo-classic-mini-super-famicom.json](./213594-nintendo-classic-mini-super-famicom.json) |
+| Nintendo Countdown Calendar | 85309 | [85309-nintendo-countdown-calendar.json](./85309-nintendo-countdown-calendar.json) |
 | Nintendo DS Browser | 297580 | [297580-nintendo-ds-browser.json](./297580-nintendo-ds-browser.json) |
 | Nintendo DSi Metronome | 85311 | [85311-nintendo-dsi-metronome.json](./85311-nintendo-dsi-metronome.json) |
 | Nintendo Game Seminar 2013: Jukousei Sakuhin | 396385 | [396385-nintendo-game-seminar-2013-jukousei-sakuhin.json](./396385-nintendo-game-seminar-2013-jukousei-sakuhin.json) |
@@ -7898,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number 94 | 239527 | [239527-number-94.json](./239527-number-94.json) |
 | Number 99 | 221095 | [221095-number-99.json](./221095-number-99.json) |
 | Number Balls | 359312 | [359312-number-balls.json](./359312-number-balls.json) |
+| Number Battle | 85408 | [85408-number-battle.json](./85408-number-battle.json) |
 | Number Builder | 41201 | [41201-number-builder.json](./41201-number-builder.json) |
 | Number Chain - Logic Puzzle | 96048 | [96048-number-chain-logic-puzzle.json](./96048-number-chain-logic-puzzle.json) |
 | Number Chaser | 41011 | [41011-number-chaser.json](./41011-number-chaser.json) |
