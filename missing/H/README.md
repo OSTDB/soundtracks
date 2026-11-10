@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamtaro: Wake Up Snoozer! | 63223 | [63223-hamtaro-wake-up-snoozer.json](./63223-hamtaro-wake-up-snoozer.json) |
 | Hamurabi | 11302 | [11302-hamurabi.json](./11302-hamurabi.json) |
 | Hamurabi | 366374 | [366374-hamurabi.json](./366374-hamurabi.json) |
+| Hamventure | 424296 | [424296-hamventure.json](./424296-hamventure.json) |
 | Han d'Islande | 405500 | [405500-han-dislande.json](./405500-han-dislande.json) |
 | Hàn Mò Bàyè Miǎnfèi Bǎn | 368019 | [368019-han-mo-baye-mianfei-ban.json](./368019-han-mo-baye-mianfei-ban.json) |
 | Hàn Shì Xióngfēng | 154395 | [154395-han-shi-xiongfeng.json](./154395-han-shi-xiongfeng.json) |
@@ -3992,6 +3993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heed | 169984 | [169984-heed.json](./169984-heed.json) |
 | Heeey! Park-Boy | 142096 | [142096-heeey-park-boy.json](./142096-heeey-park-boy.json) |
 | Heffelfinger | 340425 | [340425-heffelfinger.json](./340425-heffelfinger.json) |
+| Hegemarch | 424246 | [424246-hegemarch.json](./424246-hegemarch.json) |
 | Hegemone Pass | 118726 | [118726-hegemone-pass.json](./118726-hegemone-pass.json) |
 | Hegemony Gold: Wars of Ancient Greece | 16285 | [16285-hegemony-gold-wars-of-ancient-greece.json](./16285-hegemony-gold-wars-of-ancient-greece.json) |
 | Hegemony III: Isle of Giants | 142896 | [142896-hegemony-iii-isle-of-giants.json](./142896-hegemony-iii-isle-of-giants.json) |
