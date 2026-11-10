@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden Reverse | 125883 | [125883-eden-reverse.json](./125883-eden-reverse.json) |
 | Eden Rising | 81383 | [81383-eden-rising.json](./81383-eden-rising.json) |
 | Eden Rising: Ascendant Expansion | 169326 | [169326-eden-rising-ascendant-expansion.json](./169326-eden-rising-ascendant-expansion.json) |
+| Eden Salvage | 404588 | [404588-eden-salvage.json](./404588-eden-salvage.json) |
 | Eden Star | 14377 | [14377-eden-star.json](./14377-eden-star.json) |
 | Eden Survivors | 339300 | [339300-eden-survivors.json](./339300-eden-survivors.json) |
 | Eden Tactics | 325448 | [325448-eden-tactics.json](./325448-eden-tactics.json) |
