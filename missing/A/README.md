@@ -474,6 +474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Fishing | 412382 | [412382-a-game-about-fishing.json](./412382-a-game-about-fishing.json) |
 | A Game About Flicking A Switch | 287146 | [287146-a-game-about-flicking-a-switch.json](./287146-a-game-about-flicking-a-switch.json) |
 | A Game About Flipping Cards | 407864 | [407864-a-game-about-flipping-cards.json](./407864-a-game-about-flipping-cards.json) |
+| A Game About Game Literacy | 407677 | [407677-a-game-about-game-literacy.json](./407677-a-game-about-game-literacy.json) |
 | A Game About Getting Bigger | 405583 | [405583-a-game-about-getting-bigger.json](./405583-a-game-about-getting-bigger.json) |
 | A Game About Having a Job | 389933 | [389933-a-game-about-having-a-job.json](./389933-a-game-about-having-a-job.json) |
 | A Game About Making Mosaics | 379507 | [379507-a-game-about-making-mosaics.json](./379507-a-game-about-making-mosaics.json) |
@@ -3735,6 +3736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Company | 57326 | [57326-adventure-company.json](./57326-adventure-company.json) |
 | Adventure Cop | 118092 | [118092-adventure-cop.json](./118092-adventure-cop.json) |
 | Adventure Cop 2 | 121627 | [121627-adventure-cop-2.json](./121627-adventure-cop-2.json) |
+| Adventure Crab Mountain Method | 407630 | [407630-adventure-crab-mountain-method.json](./407630-adventure-crab-mountain-method.json) |
 | Adventure Creator | 94691 | [94691-adventure-creator.json](./94691-adventure-creator.json) |
 | Adventure D: Espionage Island | 45370 | [45370-adventure-d-espionage-island.json](./45370-adventure-d-espionage-island.json) |
 | Adventure Delivery Service | 104055 | [104055-adventure-delivery-service.json](./104055-adventure-delivery-service.json) |
@@ -5251,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agnostic Requiem | 273363 | [273363-agnostic-requiem.json](./273363-agnostic-requiem.json) |
 | Agnostiko Origins | 305986 | [305986-agnostiko-origins.json](./305986-agnostiko-origins.json) |
 | Agnostiko X NedMapagmahal Bundle | 308654 | [308654-agnostiko-x-nedmapagmahal-bundle.json](./308654-agnostiko-x-nedmapagmahal-bundle.json) |
+| Agnry Faic 2 | 407670 | [407670-agnry-faic-2.json](./407670-agnry-faic-2.json) |
 | Agon: The Lost Sword of Toledo | 9953 | [9953-agon-the-lost-sword-of-toledo.json](./9953-agon-the-lost-sword-of-toledo.json) |
 | Agon: The Mysterious Codex | 24272 | [24272-agon-the-mysterious-codex.json](./24272-agon-the-mysterious-codex.json) |
 | Agon: The Mysterious Codex - Episode 1: London Scene | 79052 | [79052-agon-the-mysterious-codex-episode-1-london-scene.json](./79052-agon-the-mysterious-codex-episode-1-london-scene.json) |
@@ -8054,6 +8057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almost My Floor: Duality | 210905 | [210905-almost-my-floor-duality.json](./210905-almost-my-floor-duality.json) |
 | Almost My Floor: Halloween Party | 196131 | [196131-almost-my-floor-halloween-party.json](./196131-almost-my-floor-halloween-party.json) |
 | Almost Nearly Borderline Perfect | 402119 | [402119-almost-nearly-borderline-perfect.json](./402119-almost-nearly-borderline-perfect.json) |
+| Almost Out | 407668 | [407668-almost-out.json](./407668-almost-out.json) |
 | Almost Out of Mana | 399583 | [399583-almost-out-of-mana.json](./399583-almost-out-of-mana.json) |
 | Almost Reversi | 316407 | [316407-almost-reversi.json](./316407-almost-reversi.json) |
 | Almost Tennis | 225968 | [225968-almost-tennis.json](./225968-almost-tennis.json) |
@@ -10404,6 +10408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Dad | 189869 | [189869-angry-dad.json](./189869-angry-dad.json) |
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
+| Angry Faic | 407667 | [407667-angry-faic.json](./407667-angry-faic.json) |
 | Angry Farm | 121146 | [121146-angry-farm.json](./121146-angry-farm.json) |
 | Angry Fish: Deep Sea | 62787 | [62787-angry-fish-deep-sea.json](./62787-angry-fish-deep-sea.json) |
 | Angry Fish: Halloween | 62785 | [62785-angry-fish-halloween.json](./62785-angry-fish-halloween.json) |
