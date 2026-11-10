@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsolved Case: The Scarlet Hyacinth | 416162 | [416162-unsolved-case-the-scarlet-hyacinth.json](./416162-unsolved-case-the-scarlet-hyacinth.json) |
 | Unsolved Case: The Scarlet Hyacinth - Collector's Edition | 256273 | [256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json](./256273-unsolved-case-the-scarlet-hyacinth-collectors-edition.json) |
 | Unsolved Case: The Scarlet Hyacinth - DLC | 256274 | [256274-unsolved-case-the-scarlet-hyacinth-dlc.json](./256274-unsolved-case-the-scarlet-hyacinth-dlc.json) |
+| Unsolved Case: Whispers of Elderwick | 416483 | [416483-unsolved-case-whispers-of-elderwick.json](./416483-unsolved-case-whispers-of-elderwick.json) |
 | Unsolved Case: Whispers of Elderwick - Collector’s Edition | 383069 | [383069-unsolved-case-whispers-of-elderwick-collector-s-edition.json](./383069-unsolved-case-whispers-of-elderwick-collector-s-edition.json) |
 | Unsolved Crimes | 21376 | [21376-unsolved-crimes.json](./21376-unsolved-crimes.json) |
 | Unsolved Mystery Club: Amelia Earhart | 120819 | [120819-unsolved-mystery-club-amelia-earhart.json](./120819-unsolved-mystery-club-amelia-earhart.json) |
