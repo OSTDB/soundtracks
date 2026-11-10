@@ -5127,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic | 263025 | [263025-intergalactic.json](./263025-intergalactic.json) |
 | Intergalactic Ambassador | 141753 | [141753-intergalactic-ambassador.json](./141753-intergalactic-ambassador.json) |
 | Intergalactic Battle Roosters | 319844 | [319844-intergalactic-battle-roosters.json](./319844-intergalactic-battle-roosters.json) |
+| Intergalactic Battleships | 424266 | [424266-intergalactic-battleships.json](./424266-intergalactic-battleships.json) |
 | Intergalactic Bubbles | 35713 | [35713-intergalactic-bubbles.json](./35713-intergalactic-bubbles.json) |
 | Intergalactic Cage Match | 45373 | [45373-intergalactic-cage-match.json](./45373-intergalactic-cage-match.json) |
 | Intergalactic Cleaning Squad | 382732 | [382732-intergalactic-cleaning-squad.json](./382732-intergalactic-cleaning-squad.json) |
