@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Landwars | 90175 | [90175-landwars.json](./90175-landwars.json) |
 | Landy Land | 283129 | [283129-landy-land.json](./283129-landy-land.json) |
 | Lane Drifter | 365901 | [365901-lane-drifter.json](./365901-lane-drifter.json) |
+| Lane Master | 396625 | [396625-lane-master.json](./396625-lane-master.json) |
 | Lane Mastodon vs. the Blubbermen | 59855 | [59855-lane-mastodon-vs-the-blubbermen.json](./59855-lane-mastodon-vs-the-blubbermen.json) |
 | Lane of the Eternal Night | 406207 | [406207-lane-of-the-eternal-night.json](./406207-lane-of-the-eternal-night.json) |
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
@@ -2288,6 +2289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Kingdoms | 188647 | [188647-league-of-kingdoms.json](./188647-league-of-kingdoms.json) |
 | League of Legends: 2025 Season One - Welcome to Noxus | 327916 | [327916-league-of-legends-2025-season-one-welcome-to-noxus.json](./327916-league-of-legends-2025-season-one-welcome-to-noxus.json) |
 | League of Legends: 2025 Season Two - Spirit Blossom Beyond | 342170 | [342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json](./342170-league-of-legends-2025-season-two-spirit-blossom-beyond.json) |
+| League of Legends: 2026 Season One - For Demacia | 396246 | [396246-league-of-legends-2026-season-one-for-demacia.json](./396246-league-of-legends-2026-season-one-for-demacia.json) |
 | League of Legends: Esports Manager | 279064 | [279064-league-of-legends-esports-manager.json](./279064-league-of-legends-esports-manager.json) |
 | League of Legends: Wild Rift | 124700 | [124700-league-of-legends-wild-rift.json](./124700-league-of-legends-wild-rift.json) |
 | League of Light | 47277 | [47277-league-of-light.json](./47277-league-of-light.json) |
