@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karaoke Studio Senyou Cassette Vol. 2 | 267751 | [267751-karaoke-studio-senyou-cassette-vol-2.json](./267751-karaoke-studio-senyou-cassette-vol-2.json) |
 | Karapath | 217091 | [217091-karapath.json](./217091-karapath.json) |
 | Karapuchi | 82581 | [82581-karapuchi.json](./82581-karapuchi.json) |
+| Karar X | 123725 | [123725-karar-x.json](./123725-karar-x.json) |
 | Karaski: What Goes Up... | 33962 | [33962-karaski-what-goes-up.json](./33962-karaski-what-goes-up.json) |
 | Karasu Meltdown! | 277166 | [277166-karasu-meltdown.json](./277166-karasu-meltdown.json) |
 | Karate | 14253 | [14253-karate.json](./14253-karate.json) |
@@ -2458,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Logic Land Adventure | 97065 | [97065-kids-logic-land-adventure.json](./97065-kids-logic-land-adventure.json) |
 | Kids Love Puzzles | 232590 | [232590-kids-love-puzzles.json](./232590-kids-love-puzzles.json) |
 | Kids Musical Instrument Connect the Dots Puzzles - learn the ABC numbers shapes and for toddlers | 92089 | [92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json](./92089-kids-musical-instrument-connect-the-dots-puzzles-learn-the-abc-numbers-shapes-and-for-toddlers.json) |
+| Kids of Hellas: Back to Olympus | 115177 | [115177-kids-of-hellas-back-to-olympus.json](./115177-kids-of-hellas-back-to-olympus.json) |
 | Kids of Karendow | 157052 | [157052-kids-of-karendow.json](./157052-kids-of-karendow.json) |
 | Kids on Keys | 97482 | [97482-kids-on-keys.json](./97482-kids-on-keys.json) |
 | Kids on Site | 46426 | [46426-kids-on-site.json](./46426-kids-on-site.json) |
@@ -2937,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4712,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Squad | 14380 | [14380-knight-squad.json](./14380-knight-squad.json) |
 | Knight Squad 2 | 137112 | [137112-knight-squad-2.json](./137112-knight-squad-2.json) |
 | Knight Story | 200830 | [200830-knight-story.json](./200830-knight-story.json) |
+| Knight Swap | 123717 | [123717-knight-swap.json](./123717-knight-swap.json) |
 | Knight Terrors | 74546 | [74546-knight-terrors.json](./74546-knight-terrors.json) |
 | Knight Throde | 157071 | [157071-knight-throde.json](./157071-knight-throde.json) |
 | Knight Trail | 248955 | [248955-knight-trail.json](./248955-knight-trail.json) |
@@ -5827,6 +5831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotobuki | 94311 | [94311-kotobuki.json](./94311-kotobuki.json) |
 | Kotobuki Grand Prix | 133823 | [133823-kotobuki-grand-prix.json](./133823-kotobuki-grand-prix.json) |
 | Kotodama Diary | 152193 | [152193-kotodama-diary.json](./152193-kotodama-diary.json) |
+| Kotodama: The 7 Mysteries of Fujisawa | 115184 | [115184-kotodama-the-7-mysteries-of-fujisawa.json](./115184-kotodama-the-7-mysteries-of-fujisawa.json) |
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
 | Kotomasho: I Can't Believe This Neet Guy Turned Into a Magical Girl! | 203532 | [203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json](./203532-kotomasho-i-cant-believe-this-neet-guy-turned-into-a-magical-girl.json) |
 | Kotone no Shuki Shuki Polynesian Sex | 398693 | [398693-kotone-no-shuki-shuki-polynesian-sex.json](./398693-kotone-no-shuki-shuki-polynesian-sex.json) |
