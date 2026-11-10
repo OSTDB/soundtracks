@@ -3967,6 +3967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2001 | 814 | [814-nhl-2001.json](./814-nhl-2001.json) |
 | NHL 2002 | 248585 | [248585-nhl-2002.json](./248585-nhl-2002.json) |
 | NHL 2002 | 815 | [815-nhl-2002.json](./815-nhl-2002.json) |
+| NHL 2003 | 856 | [856-nhl-2003.json](./856-nhl-2003.json) |
 | NHL 2004 | 816 | [816-nhl-2004.json](./816-nhl-2004.json) |
 | NHL 2005 | 4043 | [4043-nhl-2005.json](./4043-nhl-2005.json) |
 | NHL 21 | 138538 | [138538-nhl-21.json](./138538-nhl-21.json) |
@@ -4899,6 +4900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights Into Dreams: Score Attack | 309017 | [309017-nights-into-dreams-score-attack.json](./309017-nights-into-dreams-score-attack.json) |
 | Nights into Dreams... | 198640 | [198640-nights-into-dreams.json](./198640-nights-into-dreams.json) |
 | Nights Into Dreams... | 5075 | [5075-nights-into-dreams.json](./5075-nights-into-dreams.json) |
+| Nights of Azure | 14878 | [14878-nights-of-azure.json](./14878-nights-of-azure.json) |
 | Nights of Azure 2: Bonus Costume - Blue High School Uniform | 396394 | [396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json](./396394-nights-of-azure-2-bonus-costume-blue-high-school-uniform.json) |
 | Nights of Azure 2: Bride of the New Moon - Side Story: The Foreigner in a Wonderland of Sweets | 171213 | [171213-nights-of-azure-2-bride-of-the-new-moon-side-story-the-foreigner-in-a-wonderland-of-sweets.json](./171213-nights-of-azure-2-bride-of-the-new-moon-side-story-the-foreigner-in-a-wonderland-of-sweets.json) |
 | Nights of Azure 2: Bride of the New Moon - Side Story: Time Drifts Through the Moonlit Night | 171212 | [171212-nights-of-azure-2-bride-of-the-new-moon-side-story-time-drifts-through-the-moonlit-night.json](./171212-nights-of-azure-2-bride-of-the-new-moon-side-story-time-drifts-through-the-moonlit-night.json) |
@@ -7412,6 +7414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Core Chaos | 286105 | [286105-nova-core-chaos.json](./286105-nova-core-chaos.json) |
 | Nova Dash | 256530 | [256530-nova-dash.json](./256530-nova-dash.json) |
 | Nova Dawn: Overload | 347483 | [347483-nova-dawn-overload.json](./347483-nova-dawn-overload.json) |
+| Nova Drift | 56109 | [56109-nova-drift.json](./56109-nova-drift.json) |
 | Nova Empire | 98467 | [98467-nova-empire.json](./98467-nova-empire.json) |
 | Nova Era: Atom | 320080 | [320080-nova-era-atom.json](./320080-nova-era-atom.json) |
 | Nova Force | 60583 | [60583-nova-force.json](./60583-nova-force.json) |
