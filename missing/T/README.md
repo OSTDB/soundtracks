@@ -13904,6 +13904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost and The Wicked | 150972 | [150972-the-lost-and-the-wicked.json](./150972-the-lost-and-the-wicked.json) |
 | The Lost Angelic Chronicles of Frane: Dragon's Odyssey | 65855 | [65855-the-lost-angelic-chronicles-of-frane-dragons-odyssey.json](./65855-the-lost-angelic-chronicles-of-frane-dragons-odyssey.json) |
 | The Lost Angelic Chronicles of Frane: Dragons' Odyssey | 54297 | [54297-the-lost-angelic-chronicles-of-frane-dragons-odyssey.json](./54297-the-lost-angelic-chronicles-of-frane-dragons-odyssey.json) |
+| The Lost Apartment | 409275 | [409275-the-lost-apartment.json](./409275-the-lost-apartment.json) |
 | The Lost Art of Innkeeping | 135234 | [135234-the-lost-art-of-innkeeping.json](./135234-the-lost-art-of-innkeeping.json) |
 | The Lost Artifacts | 171588 | [171588-the-lost-artifacts.json](./171588-the-lost-artifacts.json) |
 | The Lost Ashford Ring | 267024 | [267024-the-lost-ashford-ring.json](./267024-the-lost-ashford-ring.json) |
@@ -34043,6 +34044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble Toys: Aviation | 215897 | [215897-tumble-toys-aviation.json](./215897-tumble-toys-aviation.json) |
 | Tumble Troopers | 327214 | [327214-tumble-troopers.json](./327214-tumble-troopers.json) |
 | Tumble Tundra | 259279 | [259279-tumble-tundra.json](./259279-tumble-tundra.json) |
+| Tumble Type | 409259 | [409259-tumble-type.json](./409259-tumble-type.json) |
 | Tumble VR | 18400 | [18400-tumble-vr.json](./18400-tumble-vr.json) |
 | Tumble Wrestling | 262349 | [262349-tumble-wrestling.json](./262349-tumble-wrestling.json) |
 | Tumblebugs | 85908 | [85908-tumblebugs.json](./85908-tumblebugs.json) |
@@ -34950,6 +34952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twist of Destiny | 28926 | [28926-twist-of-destiny.json](./28926-twist-of-destiny.json) |
 | Twist of Light | 340848 | [340848-twist-of-light.json](./340848-twist-of-light.json) |
 | Twist Up! | 103571 | [103571-twist-up.json](./103571-twist-up.json) |
+| Twist-Tac-Toe | 409269 | [409269-twist-tac-toe.json](./409269-twist-tac-toe.json) |
 | Twist: 01 Timun Mas | 214626 | [214626-twist-01-timun-mas.json](./214626-twist-01-timun-mas.json) |
 | Twist: Majapahit | 214625 | [214625-twist-majapahit.json](./214625-twist-majapahit.json) |
 | Twista | 277442 | [277442-twista.json](./277442-twista.json) |
