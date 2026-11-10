@@ -12876,6 +12876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorCoordination | 270086 | [270086-colorcoordination.json](./270086-colorcoordination.json) |
 | ColorCube | 208378 | [208378-colorcube.json](./208378-colorcube.json) |
 | ColorCube | 52519 | [52519-colorcube.json](./52519-colorcube.json) |
+| Colordle | 420051 | [420051-colordle.json](./420051-colordle.json) |
 | Colored Eyes Girls | 271652 | [271652-colored-eyes-girls.json](./271652-colored-eyes-girls.json) |
 | Colored Pencil Bakery | 393211 | [393211-colored-pencil-bakery.json](./393211-colored-pencil-bakery.json) |
 | Colored Shapes | 158627 | [158627-colored-shapes.json](./158627-colored-shapes.json) |
@@ -15766,6 +15767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted Sector | 271575 | [271575-corrupted-sector.json](./271575-corrupted-sector.json) |
 | Corrupted Souls | 366960 | [366960-corrupted-souls.json](./366960-corrupted-souls.json) |
 | Corrupted Universe Cries Quietly | 269282 | [269282-corrupted-universe-cries-quietly.json](./269282-corrupted-universe-cries-quietly.json) |
+| Corrupted Veil | 420063 | [420063-corrupted-veil.json](./420063-corrupted-veil.json) |
 | Corrupted Worlds | 408522 | [408522-corrupted-worlds.json](./408522-corrupted-worlds.json) |
 | Corruption | 101599 | [101599-corruption.json](./101599-corruption.json) |
 | Corruption | 12012 | [12012-corruption.json](./12012-corruption.json) |
