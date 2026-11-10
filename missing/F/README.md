@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Block | 59797 | [59797-falling-block.json](./59797-falling-block.json) |
 | Falling Blocks | 105389 | [105389-falling-blocks.json](./105389-falling-blocks.json) |
 | Falling Blocks | 237333 | [237333-falling-blocks.json](./237333-falling-blocks.json) |
+| Falling Boy | 426639 | [426639-falling-boy.json](./426639-falling-boy.json) |
 | Falling Bricks: Endless Smash | 390784 | [390784-falling-bricks-endless-smash.json](./390784-falling-bricks-endless-smash.json) |
 | Falling Bullets | 114550 | [114550-falling-bullets.json](./114550-falling-bullets.json) |
 | Falling Bush | 201947 | [201947-falling-bush.json](./201947-falling-bush.json) |
@@ -3401,6 +3402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Extella Link: Emperor of Paladins Edition | 112109 | [112109-fate-extella-link-emperor-of-paladins-edition.json](./112109-fate-extella-link-emperor-of-paladins-edition.json) |
 | Fate/Extella Link: Fleeting Glory - Limited Edition | 136294 | [136294-fate-extella-link-fleeting-glory-limited-edition.json](./136294-fate-extella-link-fleeting-glory-limited-edition.json) |
 | Fate/Extella Link: Joyeuse Edition | 112108 | [112108-fate-extella-link-joyeuse-edition.json](./112108-fate-extella-link-joyeuse-edition.json) |
+| Fate/Extella Link: Mega DLC Collection | 426608 | [426608-fate-extella-link-mega-dlc-collection.json](./426608-fate-extella-link-mega-dlc-collection.json) |
 | Fate/Extella Link: Premium Edition | 136766 | [136766-fate-extella-link-premium-edition.json](./136766-fate-extella-link-premium-edition.json) |
 | Fate/Extella Link: The Hero | 403410 | [403410-fate-extella-link-the-hero.json](./403410-fate-extella-link-the-hero.json) |
 | Fate/Extella Link: Wild Western | 403409 | [403409-fate-extella-link-wild-western.json](./403409-fate-extella-link-wild-western.json) |
@@ -3468,6 +3470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatebound | 320591 | [320591-fatebound.json](./320591-fatebound.json) |
 | Fatebound Cards: Sundering Cities | 352518 | [352518-fatebound-cards-sundering-cities.json](./352518-fatebound-cards-sundering-cities.json) |
 | Fatebreak | 181244 | [181244-fatebreak.json](./181244-fatebreak.json) |
+| Fatebreaker | 426620 | [426620-fatebreaker.json](./426620-fatebreaker.json) |
 | Fatec's Out | 132274 | [132274-fatecs-out.json](./132274-fatecs-out.json) |
 | Fated | 184069 | [184069-fated.json](./184069-fated.json) |
 | Fated Blade | 169151 | [169151-fated-blade.json](./169151-fated-blade.json) |
@@ -7279,6 +7282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights Among Us | 180918 | [180918-five-nights-among-us.json](./180918-five-nights-among-us.json) |
 | Five Nights At Amendoca's | 330092 | [330092-five-nights-at-amendocas.json](./330092-five-nights-at-amendocas.json) |
 | Five Nights at Backrooms: Waifu Edition | 277828 | [277828-five-nights-at-backrooms-waifu-edition.json](./277828-five-nights-at-backrooms-waifu-edition.json) |
+| Five Nights at Banderita | 426641 | [426641-five-nights-at-banderita.json](./426641-five-nights-at-banderita.json) |
 | Five Nights At Bidens | 257665 | [257665-five-nights-at-bidens.json](./257665-five-nights-at-bidens.json) |
 | Five Nights at Billy's | 287443 | [287443-five-nights-at-billys.json](./287443-five-nights-at-billys.json) |
 | Five Nights at Candy's | 45983 | [45983-five-nights-at-candys.json](./45983-five-nights-at-candys.json) |
@@ -11897,6 +11901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein | 385548 | [385548-frankenstein.json](./385548-frankenstein.json) |
 | Frankenstein 2000 | 57169 | [57169-frankenstein-2000.json](./57169-frankenstein-2000.json) |
 | Frankenstein Jnr. | 13441 | [13441-frankenstein-jnr.json](./13441-frankenstein-jnr.json) |
+| Frankenstein RPG | 426613 | [426613-frankenstein-rpg.json](./426613-frankenstein-rpg.json) |
 | Frankenstein: Awakening of Horror | 407727 | [407727-frankenstein-awakening-of-horror.json](./407727-frankenstein-awakening-of-horror.json) |
 | Frankenstein: Beyond the Time | 103752 | [103752-frankenstein-beyond-the-time.json](./103752-frankenstein-beyond-the-time.json) |
 | Frankenstein: Birth of a Myth | 109569 | [109569-frankenstein-birth-of-a-myth.json](./109569-frankenstein-birth-of-a-myth.json) |
