@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Boltgun 2 | 344669 | [344669-warhammer-40-000-boltgun-2.json](./344669-warhammer-40-000-boltgun-2.json) |
 | Warhammer 40,000: Boltgun Boom | 402507 | [402507-warhammer-40-000-boltgun-boom.json](./402507-warhammer-40-000-boltgun-boom.json) |
 | Warhammer 40,000: Carnage | 30323 | [30323-warhammer-40-000-carnage.json](./30323-warhammer-40-000-carnage.json) |
+| Warhammer 40,000: Chaos Gate | 29270 | [29270-warhammer-40-000-chaos-gate.json](./29270-warhammer-40-000-chaos-gate.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters Castellan Champion Upgrade Pack | 201521 | [201521-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-upgrade-pack.json](./201521-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-upgrade-pack.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Castellan - Garran Crowe | 303284 | [303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json](./303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Castellan Champion Edition | 193689 | [193689-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-edition.json](./193689-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-edition.json) |
@@ -3117,6 +3118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weapon Party | 277977 | [277977-weapon-party.json](./277977-weapon-party.json) |
 | Weapon Rearing | 338389 | [338389-weapon-rearing.json](./338389-weapon-rearing.json) |
 | Weapon Shop Decillionaire | 275817 | [275817-weapon-shop-decillionaire.json](./275817-weapon-shop-decillionaire.json) |
+| Weapon Shop Fantasy | 29348 | [29348-weapon-shop-fantasy.json](./29348-weapon-shop-fantasy.json) |
 | Weaponeer | 219490 | [219490-weaponeer.json](./219490-weaponeer.json) |
 | Weaponeers | 382595 | [382595-weaponeers.json](./382595-weaponeers.json) |
 | WeaponGo | 104095 | [104095-weapongo.json](./104095-weapongo.json) |
@@ -4984,6 +4986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Needs a Hero? | 140731 | [140731-who-needs-a-hero.json](./140731-who-needs-a-hero.json) |
 | Who Needs to Study? | 371209 | [371209-who-needs-to-study.json](./371209-who-needs-to-study.json) |
 | Who owns the kangaroo? | 71215 | [71215-who-owns-the-kangaroo.json](./71215-who-owns-the-kangaroo.json) |
+| Who Pressed Mute on Uncle Marcus? | 192047 | [192047-who-pressed-mute-on-uncle-marcus.json](./192047-who-pressed-mute-on-uncle-marcus.json) |
 | Who Run the City | 237748 | [237748-who-run-the-city.json](./237748-who-run-the-city.json) |
 | Who said Meow | 53125 | [53125-who-said-meow.json](./53125-who-said-meow.json) |
 | Who Said This in Conference | 91176 | [91176-who-said-this-in-conference.json](./91176-who-said-this-in-conference.json) |
@@ -8368,6 +8371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Geography | 216177 | [216177-world-geography.json](./216177-world-geography.json) |
 | World Golf | 68674 | [68674-world-golf.json](./68674-world-golf.json) |
 | World Gone Sour | 6759 | [6759-world-gone-sour.json](./6759-world-gone-sour.json) |
+| World Grand Prix | 29132 | [29132-world-grand-prix.json](./29132-world-grand-prix.json) |
 | World Grand Prix 2 | 40572 | [40572-world-grand-prix-2.json](./40572-world-grand-prix-2.json) |
 | World Grand Prix: Pole to Finish | 215132 | [215132-world-grand-prix-pole-to-finish.json](./215132-world-grand-prix-pole-to-finish.json) |
 | World Guesser | 259006 | [259006-world-guesser.json](./259006-world-guesser.json) |
@@ -9615,6 +9619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wulin Qunxia Zhuan | 69757 | [69757-wulin-qunxia-zhuan.json](./69757-wulin-qunxia-zhuan.json) |
 | Wǔlín Zhēngbà zhī Yīngxióng Tiē | 93585 | [93585-wulin-zhengba-zhi-yingxiong-tie.json](./93585-wulin-zhengba-zhi-yingxiong-tie.json) |
 | Wǔlín Zhìzūn Zhuàn | 367434 | [367434-wulin-zhizun-zhuan.json](./367434-wulin-zhizun-zhuan.json) |
+| Wulverblade | 29586 | [29586-wulverblade.json](./29586-wulverblade.json) |
 | Wumball | 344405 | [344405-wumball.json](./344405-wumball.json) |
 | Wumbo's Adventure | 102750 | [102750-wumbos-adventure.json](./102750-wumbos-adventure.json) |
 | Wumbrik | 360868 | [360868-wumbrik.json](./360868-wumbrik.json) |
