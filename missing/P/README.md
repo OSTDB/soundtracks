@@ -1605,6 +1605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papa's Freezeria to Go! | 95739 | [95739-papas-freezeria-to-go.json](./95739-papas-freezeria-to-go.json) |
 | Papa's Hot Doggeria | 210491 | [210491-papas-hot-doggeria.json](./210491-papas-hot-doggeria.json) |
 | Papa's Hot Doggeria HD | 88892 | [88892-papas-hot-doggeria-hd.json](./88892-papas-hot-doggeria-hd.json) |
+| Papa's Hot Doggeria to Go! | 101417 | [101417-papas-hot-doggeria-to-go.json](./101417-papas-hot-doggeria-to-go.json) |
 | Papa's Mocharia Deluxe | 399974 | [399974-papas-mocharia-deluxe.json](./399974-papas-mocharia-deluxe.json) |
 | Papa's Paleteria To Go! | 290074 | [290074-papas-paleteria-to-go.json](./290074-papas-paleteria-to-go.json) |
 | Papa's Pancakeria | 142945 | [142945-papas-pancakeria.json](./142945-papas-pancakeria.json) |
@@ -12768,6 +12769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyjump | 366390 | [366390-polyjump.json](./366390-polyjump.json) |
 | PolyKat | 57028 | [57028-polykat.json](./57028-polykat.json) |
 | Polyko's Super Jelly Bean Quest in the Sketchbook of Illusion | 130777 | [130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json](./130777-polykos-super-jelly-bean-quest-in-the-sketchbook-of-illusion.json) |
+| PolyKromos | 101369 | [101369-polykromos.json](./101369-polykromos.json) |
 | Polylithic | 219396 | [219396-polylithic.json](./219396-polylithic.json) |
 | Polylumina | 388510 | [388510-polylumina.json](./388510-polylumina.json) |
 | Polymaniacs | 183418 | [183418-polymaniacs.json](./183418-polymaniacs.json) |
