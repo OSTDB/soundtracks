@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sailor's Grave | 323572 | [323572-sailors-grave.json](./323572-sailors-grave.json) |
 | Sailor's Grave: the Curse of the Cook | 118279 | [118279-sailors-grave-the-curse-of-the-cook.json](./118279-sailors-grave-the-curse-of-the-cook.json) |
 | Sailor's Stories Solitaire | 196881 | [196881-sailors-stories-solitaire.json](./196881-sailors-stories-solitaire.json) |
+| Sails | 412642 | [412642-sails.json](./412642-sails.json) |
 | SailSim | 204266 | [204266-sailsim.json](./204266-sailsim.json) |
 | Sailwind | 180225 | [180225-sailwind.json](./180225-sailwind.json) |
 | Saily Seas | 297507 | [297507-saily-seas.json](./297507-saily-seas.json) |
@@ -1879,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sankokushi Blast: Shounen Heroes | 220322 | [220322-sankokushi-blast-shounen-heroes.json](./220322-sankokushi-blast-shounen-heroes.json) |
 | Sankyo Fever! Fever! | 37861 | [37861-sankyo-fever-fever.json](./37861-sankyo-fever-fever.json) |
 | Sanma no Meitantei | 48402 | [48402-sanma-no-meitantei.json](./48402-sanma-no-meitantei.json) |
+| Sanmi Ittai no Tanitsuten | 412679 | [412679-sanmi-ittai-no-tanitsuten.json](./412679-sanmi-ittai-no-tanitsuten.json) |
 | Sanonta | 236965 | [236965-sanonta.json](./236965-sanonta.json) |
 | Sanou Kaihatsu Series 1 Zukei Ninshiki | 303760 | [303760-sanou-kaihatsu-series-1-zukei-ninshiki.json](./303760-sanou-kaihatsu-series-1-zukei-ninshiki.json) |
 | Sanou Kaihatsu Series 2: Suuryou, Keisan | 303761 | [303761-sanou-kaihatsu-series-2-suuryou-keisan.json](./303761-sanou-kaihatsu-series-2-suuryou-keisan.json) |
@@ -2924,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary 8 Bits | 404207 | [404207-scary-8-bits.json](./404207-scary-8-bits.json) |
 | Scary and Dot | 255463 | [255463-scary-and-dot.json](./255463-scary-and-dot.json) |
 | Scary Baboon | 338667 | [338667-scary-baboon.json](./338667-scary-baboon.json) |
+| Scary Baboon: Bosses Update | 412689 | [412689-scary-baboon-bosses-update.json](./412689-scary-baboon-bosses-update.json) |
 | Scary Baboon: Spooky Baboon | 423407 | [423407-scary-baboon-spooky-baboon.json](./423407-scary-baboon-spooky-baboon.json) |
 | Scary Bendy Neighbor Simulator - Bendy Games 2018 | 103902 | [103902-scary-bendy-neighbor-simulator-bendy-games-2018.json](./103902-scary-bendy-neighbor-simulator-bendy-games-2018.json) |
 | Scary Bosses and Nice Sprites | 307525 | [307525-scary-bosses-and-nice-sprites.json](./307525-scary-bosses-and-nice-sprites.json) |
@@ -3007,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scauage | 324621 | [324621-scauage.json](./324621-scauage.json) |
 | Scav | 361079 | [361079-scav.json](./361079-scav.json) |
 | Scav | 376816 | [376816-scav.json](./376816-scav.json) |
+| Scavenge Protocol | 412700 | [412700-scavenge-protocol.json](./412700-scavenge-protocol.json) |
 | Scavenged By Sunset | 311447 | [311447-scavenged-by-sunset.json](./311447-scavenged-by-sunset.json) |
 | Scavenger | 237648 | [237648-scavenger.json](./237648-scavenger.json) |
 | Scavenger | 241503 | [241503-scavenger.json](./241503-scavenger.json) |
@@ -11235,6 +11239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Potato: Home-Run Edition | 418417 | [418417-silly-potato-home-run-edition.json](./418417-silly-potato-home-run-edition.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
 | Silly Sailing | 102232 | [102232-silly-sailing.json](./102232-silly-sailing.json) |
+| Silly Sausage | 412671 | [412671-silly-sausage.json](./412671-silly-sausage.json) |
 | Silly Sausage Buffet | 411842 | [411842-silly-sausage-buffet.json](./411842-silly-sausage-buffet.json) |
 | Silly Sausage in Meat Land | 74297 | [74297-silly-sausage-in-meat-land.json](./74297-silly-sausage-in-meat-land.json) |
 | Silly Sausage: Doggy Dessert | 56257 | [56257-silly-sausage-doggy-dessert.json](./56257-silly-sausage-doggy-dessert.json) |
@@ -19652,6 +19657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Shard | 207340 | [207340-soul-shard.json](./207340-soul-shard.json) |
 | Soul Shards | 89747 | [89747-soul-shards.json](./89747-soul-shards.json) |
 | Soul Shuffler | 326786 | [326786-soul-shuffler.json](./326786-soul-shuffler.json) |
+| Soul Siblings | 412699 | [412699-soul-siblings.json](./412699-soul-siblings.json) |
 | Soul Sipper | 307632 | [307632-soul-sipper.json](./307632-soul-sipper.json) |
 | Soul Slasher | 353781 | [353781-soul-slasher.json](./353781-soul-slasher.json) |
 | Soul Slayer | 212007 | [212007-soul-slayer.json](./212007-soul-slayer.json) |
