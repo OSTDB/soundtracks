@@ -5766,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beater Spirit | 32524 | [32524-beater-spirit.json](./32524-beater-spirit.json) |
 | Beater: Apocal Undone | 290492 | [290492-beater-apocal-undone.json](./290492-beater-apocal-undone.json) |
 | Beaterator | 18383 | [18383-beaterator.json](./18383-beaterator.json) |
+| BeaterCore | 407029 | [407029-beatercore.json](./407029-beatercore.json) |
 | BeatEVO YG | 74785 | [74785-beatevo-yg.json](./74785-beatevo-yg.json) |
 | Beatfinder | 341983 | [341983-beatfinder.json](./341983-beatfinder.json) |
 | BeatHero | 365966 | [365966-beathero.json](./365966-beathero.json) |
@@ -6204,6 +6205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beehive Bedlam | 238469 | [238469-beehive-bedlam.json](./238469-beehive-bedlam.json) |
 | Beehive Bedlam | 262021 | [262021-beehive-bedlam.json](./262021-beehive-bedlam.json) |
 | Beehive Bedlam | 262024 | [262024-beehive-bedlam.json](./262024-beehive-bedlam.json) |
+| Beeing Hive | 407030 | [407030-beeing-hive.json](./407030-beeing-hive.json) |
 | Beek: Familiar Spirit - Remastered | 342497 | [342497-beek-familiar-spirit-remastered.json](./342497-beek-familiar-spirit-remastered.json) |
 | Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
 | Beeknighted | 242717 | [242717-beeknighted.json](./242717-beeknighted.json) |
@@ -9276,6 +9278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bittos-e | 67065 | [67065-bittos-e.json](./67065-bittos-e.json) |
 | Bittos+ | 21753 | [21753-bittos.json](./21753-bittos.json) |
 | Bitty Knight | 284006 | [284006-bitty-knight.json](./284006-bitty-knight.json) |
+| Bitvania | 407038 | [407038-bitvania.json](./407038-bitvania.json) |
 | BitVault | 129682 | [129682-bitvault.json](./129682-bitvault.json) |
 | Bitvest.io | 59425 | [59425-bitvest-io.json](./59425-bitvest-io.json) |
 | Bitvoxel | 409822 | [409822-bitvoxel.json](./409822-bitvoxel.json) |
@@ -9695,6 +9698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black the Fall | 17555 | [17555-black-the-fall.json](./17555-black-the-fall.json) |
 | Black the Fall: Collector's Edition | 52667 | [52667-black-the-fall-collectors-edition.json](./52667-black-the-fall-collectors-edition.json) |
 | Black Thunder | 13816 | [13816-black-thunder.json](./13816-black-thunder.json) |
+| Black Tides Draga's Wake | 407007 | [407007-black-tides-dragas-wake.json](./407007-black-tides-dragas-wake.json) |
 | Black Tides: The Curse of Blackbeard | 406869 | [406869-black-tides-the-curse-of-blackbeard.json](./406869-black-tides-the-curse-of-blackbeard.json) |
 | Black Tiger | 11966 | [11966-black-tiger.json](./11966-black-tiger.json) |
 | Black Touch '96 | 267981 | [267981-black-touch-96.json](./267981-black-touch-96.json) |
@@ -14615,6 +14619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BouncingBalls | 290741 | [290741-bouncingballs.json](./290741-bouncingballs.json) |
 | Bouncy | 207170 | [207170-bouncy.json](./207170-bouncy.json) |
 | Bouncy Ball | 245201 | [245201-bouncy-ball.json](./245201-bouncy-ball.json) |
+| Bouncy Ball | 407017 | [407017-bouncy-ball.json](./407017-bouncy-ball.json) |
 | Bouncy Ball: The Impossible Tile Game | 93824 | [93824-bouncy-ball-the-impossible-tile-game.json](./93824-bouncy-ball-the-impossible-tile-game.json) |
 | Bouncy Bean | 388187 | [388187-bouncy-bean.json](./388187-bouncy-bean.json) |
 | Bouncy Bee Learns Letters | 71698 | [71698-bouncy-bee-learns-letters.json](./71698-bouncy-bee-learns-letters.json) |
@@ -15942,6 +15947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break the Balloons: Ghost Town | 252151 | [252151-break-the-balloons-ghost-town.json](./252151-break-the-balloons-ghost-town.json) |
 | Break the Block | 384279 | [384279-break-the-block.json](./384279-break-the-block.json) |
 | Break the Blocks | 107492 | [107492-break-the-blocks.json](./107492-break-the-blocks.json) |
+| Break The Chain | 407005 | [407005-break-the-chain.json](./407005-break-the-chain.json) |
 | Break the Cookie | 43164 | [43164-break-the-cookie.json](./43164-break-the-cookie.json) |
 | Break the Empire | 304870 | [304870-break-the-empire.json](./304870-break-the-empire.json) |
 | Break the Fireline | 230847 | [230847-break-the-fireline.json](./230847-break-the-fireline.json) |
@@ -19286,6 +19292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butcher Simulator | 312451 | [312451-butcher-simulator.json](./312451-butcher-simulator.json) |
 | Butcher Valley | 168216 | [168216-butcher-valley.json](./168216-butcher-valley.json) |
 | Butcher's Creek | 260119 | [260119-butchers-creek.json](./260119-butchers-creek.json) |
+| Butcher's Summit | 406987 | [406987-butchers-summit.json](./406987-butchers-summit.json) |
 | Butcherbird | 320620 | [320620-butcherbird.json](./320620-butcherbird.json) |
 | ButcherBox | 116105 | [116105-butcherbox.json](./116105-butcherbox.json) |
 | ButcherBoy | 95605 | [95605-butcherboy.json](./95605-butcherboy.json) |
