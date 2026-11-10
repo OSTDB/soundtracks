@@ -3236,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daytona Racing | 92623 | [92623-daytona-racing.json](./92623-daytona-racing.json) |
 | Daytona Rush | 233194 | [233194-daytona-rush.json](./233194-daytona-rush.json) |
 | Daytona USA | 17245 | [17245-daytona-usa.json](./17245-daytona-usa.json) |
+| Daytona USA | 177619 | [177619-daytona-usa.json](./177619-daytona-usa.json) |
 | Daytona USA | 177622 | [177622-daytona-usa.json](./177622-daytona-usa.json) |
 | Daytona USA | 198613 | [198613-daytona-usa.json](./198613-daytona-usa.json) |
 | Daytona USA | 22007 | [22007-daytona-usa.json](./22007-daytona-usa.json) |
@@ -6579,6 +6580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deluxe Ski Jump 2 | 11676 | [11676-deluxe-ski-jump-2.json](./11676-deluxe-ski-jump-2.json) |
 | Deluxe Ski Jump 3 | 56910 | [56910-deluxe-ski-jump-3.json](./56910-deluxe-ski-jump-3.json) |
 | Deluxe Ski Jump 4 | 7500 | [7500-deluxe-ski-jump-4.json](./7500-deluxe-ski-jump-4.json) |
+| Deluxe Space Invaders | 64077 | [64077-deluxe-space-invaders.json](./64077-deluxe-space-invaders.json) |
 | Deluxe Spider Solitaire | 93689 | [93689-deluxe-spider-solitaire.json](./93689-deluxe-spider-solitaire.json) |
 | Deluxe Sudoku | 88575 | [88575-deluxe-sudoku.json](./88575-deluxe-sudoku.json) |
 | Deluxe Track&Field | 90506 | [90506-deluxe-track-and-field.json](./90506-deluxe-track-and-field.json) |
