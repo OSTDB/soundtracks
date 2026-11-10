@@ -15496,6 +15496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copy: Two Man Too Many | 359010 | [359010-copy-two-man-too-many.json](./359010-copy-two-man-too-many.json) |
 | Copy! Right? | 280734 | [280734-copy-right.json](./280734-copy-right.json) |
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
+| Copycat | 398058 | [398058-copycat.json](./398058-copycat.json) |
 | CopyCat | 120448 | [120448-copycat.json](./120448-copycat.json) |
 | Copycat Games: Imposter Party Games | 402135 | [402135-copycat-games-imposter-party-games.json](./402135-copycat-games-imposter-party-games.json) |
 | Copycat: Cee Ann | 185480 | [185480-copycat-cee-ann.json](./185480-copycat-cee-ann.json) |
