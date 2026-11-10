@@ -6205,6 +6205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Devils | 248992 | [248992-little-devils.json](./248992-little-devils.json) |
 | Little Devourers | 169454 | [169454-little-devourers.json](./169454-little-devourers.json) |
 | Little Dew Drop | 265335 | [265335-little-dew-drop.json](./265335-little-dew-drop.json) |
+| Little Dig Game | 411186 | [411186-little-dig-game.json](./411186-little-dig-game.json) |
 | Little Diggel | 29764 | [29764-little-diggel.json](./29764-little-diggel.json) |
 | Little Disaster | 248345 | [248345-little-disaster.json](./248345-little-disaster.json) |
 | Little Dog | 55720 | [55720-little-dog.json](./55720-little-dog.json) |
