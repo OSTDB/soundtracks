@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | James Bond 007: A View to a Kill | 1650 | [1650-james-bond-007-a-view-to-a-kill.json](./1650-james-bond-007-a-view-to-a-kill.json) |
 | James Bond 007: Agent Under Fire | 1643 | [1643-james-bond-007-agent-under-fire.json](./1643-james-bond-007-agent-under-fire.json) |
 | James Bond 007: Blood Stone | 1648 | [1648-james-bond-007-blood-stone.json](./1648-james-bond-007-blood-stone.json) |
+| James Bond 007: Blood Stone | 84997 | [84997-james-bond-007-blood-stone.json](./84997-james-bond-007-blood-stone.json) |
 | James Bond 007: Everything or Nothing | 1644 | [1644-james-bond-007-everything-or-nothing.json](./1644-james-bond-007-everything-or-nothing.json) |
 | James Bond 007: Everything or Nothing | 243013 | [243013-james-bond-007-everything-or-nothing.json](./243013-james-bond-007-everything-or-nothing.json) |
 | James Bond 007: From Russia with Love | 1645 | [1645-james-bond-007-from-russia-with-love.json](./1645-james-bond-007-from-russia-with-love.json) |
@@ -4416,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice Bear: Equinox | 118149 | [118149-justice-bear-equinox.json](./118149-justice-bear-equinox.json) |
 | Justice Beaver: The Great Timber Tantrum | 61220 | [61220-justice-beaver-the-great-timber-tantrum.json](./61220-justice-beaver-the-great-timber-tantrum.json) |
 | Justice Became Prey | 351596 | [351596-justice-became-prey.json](./351596-justice-became-prey.json) |
+| Justice Chronicles | 85227 | [85227-justice-chronicles.json](./85227-justice-chronicles.json) |
 | Justice Duel | 109968 | [109968-justice-duel.json](./109968-justice-duel.json) |
 | Justice Fighting Force | 206948 | [206948-justice-fighting-force.json](./206948-justice-fighting-force.json) |
 | Justice For All | 224616 | [224616-justice-for-all.json](./224616-justice-for-all.json) |
