@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawless Lands: Witchcraft | 277349 | [277349-lawless-lands-witchcraft.json](./277349-lawless-lands-witchcraft.json) |
 | Lawless Legends | 143545 | [143545-lawless-legends.json](./143545-lawless-legends.json) |
 | Lawless Racer: 2D Street Racing | 294379 | [294379-lawless-racer-2d-street-racing.json](./294379-lawless-racer-2d-street-racing.json) |
+| Lawless Streets | 408459 | [408459-lawless-streets.json](./408459-lawless-streets.json) |
 | Lawless West | 226675 | [226675-lawless-west.json](./226675-lawless-west.json) |
 | Lawless: Blood and Dust | 360207 | [360207-lawless-blood-and-dust.json](./360207-lawless-blood-and-dust.json) |
 | Lawmage Academy | 125472 | [125472-lawmage-academy.json](./125472-lawmage-academy.json) |
@@ -4603,6 +4604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Libritopia: Librarian Simulator | 326949 | [326949-libritopia-librarian-simulator.json](./326949-libritopia-librarian-simulator.json) |
 | Libros de Chilam Balam | 188075 | [188075-libros-de-chilam-balam.json](./188075-libros-de-chilam-balam.json) |
 | Librum SE | 383444 | [383444-librum-se.json](./383444-librum-se.json) |
+| Libryinth | 408482 | [408482-libryinth.json](./408482-libryinth.json) |
 | Libtard: The Satire Game | 138026 | [138026-libtard-the-satire-game.json](./138026-libtard-the-satire-game.json) |
 | Licačka | 254422 | [254422-licacka.json](./254422-licacka.json) |
 | Licca-chan ni Naritai! | 58848 | [58848-licca-chan-ni-naritai.json](./58848-licca-chan-ni-naritai.json) |
