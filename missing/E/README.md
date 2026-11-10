@@ -2901,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elroy Goes Bugzerk | 123385 | [123385-elroy-goes-bugzerk.json](./123385-elroy-goes-bugzerk.json) |
 | Elroy's Costume Closet | 125541 | [125541-elroys-costume-closet.json](./125541-elroys-costume-closet.json) |
 | Elsa Gladiac Ultra | 24177 | [24177-elsa-gladiac-ultra.json](./24177-elsa-gladiac-ultra.json) |
+| Else Heart.Break() | 14395 | [14395-else-heart-break.json](./14395-else-heart-break.json) |
 | Else Walker | 177947 | [177947-else-walker.json](./177947-else-walker.json) |
 | Elsewar | 415130 | [415130-elsewar.json](./415130-elsewar.json) |
 | Elsewhere | 182783 | [182783-elsewhere.json](./182783-elsewhere.json) |
@@ -4839,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epifrog | 128248 | [128248-epifrog.json](./128248-epifrog.json) |
 | Epigenesis | 16576 | [16576-epigenesis.json](./16576-epigenesis.json) |
 | Epigraph | 287857 | [287857-epigraph.json](./287857-epigraph.json) |
+| Epiko Regal | 318575 | [318575-epiko-regal.json](./318575-epiko-regal.json) |
 | Epikos | 124585 | [124585-epikos.json](./124585-epikos.json) |
 | Epilepson in the Great Meadow | 403552 | [403552-epilepson-in-the-great-meadow.json](./403552-epilepson-in-the-great-meadow.json) |
 | Epileptic Seizure Battle Ball Challenge | 215878 | [215878-epileptic-seizure-battle-ball-challenge.json](./215878-epileptic-seizure-battle-ball-challenge.json) |
