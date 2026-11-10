@@ -2426,6 +2426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Caveman Rocks & 3D Brick Bustin Madness | 205834 | [205834-3d-caveman-rocks-and-3d-brick-bustin-madness.json](./205834-3d-caveman-rocks-and-3d-brick-bustin-madness.json) |
 | 3D Challenge | 310515 | [310515-3d-challenge.json](./310515-3d-challenge.json) |
 | 3D Chess | 223001 | [223001-3d-chess.json](./223001-3d-chess.json) |
+| 3D Chess | 31139 | [31139-3d-chess.json](./31139-3d-chess.json) |
 | 3D Chess Black and White | 245258 | [245258-3d-chess-black-and-white.json](./245258-3d-chess-black-and-white.json) |
 | 3D Chess Online | 266080 | [266080-3d-chess-online.json](./266080-3d-chess-online.json) |
 | 3D Chess Q14 | 289455 | [289455-3d-chess-q14.json](./289455-3d-chess-q14.json) |
