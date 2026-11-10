@@ -2646,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saw II: Flesh & Blood | 7177 | [7177-saw-ii-flesh-and-blood.json](./7177-saw-ii-flesh-and-blood.json) |
 | Saw Lab | 290692 | [290692-saw-lab.json](./290692-saw-lab.json) |
 | Saw: Genesis | 404701 | [404701-saw-genesis.json](./404701-saw-genesis.json) |
+| Sawad | 424857 | [424857-sawad.json](./424857-sawad.json) |
 | SaWars | 126544 | [126544-sawars.json](./126544-sawars.json) |
 | Sawblader | 365854 | [365854-sawblader.json](./365854-sawblader.json) |
 | SawCon 64 | 262761 | [262761-sawcon-64.json](./262761-sawcon-64.json) |
@@ -3772,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
 | Scrapper | 82399 | [82399-scrapper.json](./82399-scrapper.json) |
 | Scrappers | 132114 | [132114-scrappers.json](./132114-scrappers.json) |
+| Scrappers Paradise | 424867 | [424867-scrappers-paradise.json](./424867-scrappers-paradise.json) |
 | Scrapping Simulator | 146968 | [146968-scrapping-simulator.json](./146968-scrapping-simulator.json) |
 | Scrappy Craft | 392723 | [392723-scrappy-craft.json](./392723-scrappy-craft.json) |
 | Scrappy Stinks! | 307954 | [307954-scrappy-stinks.json](./307954-scrappy-stinks.json) |
@@ -11091,6 +11093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Survivor: Under the Crisis | 351760 | [351760-silent-survivor-under-the-crisis.json](./351760-silent-survivor-under-the-crisis.json) |
 | Silent Threat | 311259 | [311259-silent-threat.json](./311259-silent-threat.json) |
 | Silent Thunder: A-10 Tank Killer II | 871 | [871-silent-thunder-a-10-tank-killer-ii.json](./871-silent-thunder-a-10-tank-killer-ii.json) |
+| Silent Trench | 424837 | [424837-silent-trench.json](./424837-silent-trench.json) |
 | Silent Tweets | 87987 | [87987-silent-tweets.json](./87987-silent-tweets.json) |
 | Silent Ward: Forever Lost | 395628 | [395628-silent-ward-forever-lost.json](./395628-silent-ward-forever-lost.json) |
 | Silent Water | 397415 | [397415-silent-water.json](./397415-silent-water.json) |
@@ -13589,6 +13592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkySouls | 262947 | [262947-skysouls.json](./262947-skysouls.json) |
 | Skystead Christmas | 327864 | [327864-skystead-christmas.json](./327864-skystead-christmas.json) |
 | Skystead Ranch | 258560 | [258560-skystead-ranch.json](./258560-skystead-ranch.json) |
+| Skysunder | 424876 | [424876-skysunder.json](./424876-skysunder.json) |
 | Skytail | 380571 | [380571-skytail.json](./380571-skytail.json) |
 | SkyTemple Randomizer | 342172 | [342172-skytemple-randomizer.json](./342172-skytemple-randomizer.json) |
 | Skythrone | 150347 | [150347-skythrone.json](./150347-skythrone.json) |
@@ -26467,6 +26471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarLightRiders: HyperJump | 115331 | [115331-starlightriders-hyperjump.json](./115331-starlightriders-hyperjump.json) |
 | Starlike | 188236 | [188236-starlike.json](./188236-starlike.json) |
 | Starliner | 227094 | [227094-starliner.json](./227094-starliner.json) |
+| Starliners | 424858 | [424858-starliners.json](./424858-starliners.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
 | StarLines Inc. | 71281 | [71281-starlines-inc.json](./71281-starlines-inc.json) |
 | Starlink | 80737 | [80737-starlink.json](./80737-starlink.json) |
