@@ -8700,6 +8700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Skater: Team 10 | 104288 | [104288-hit-skater-team-10.json](./104288-hit-skater-team-10.json) |
 | Hit Tank PRO | 57129 | [57129-hit-tank-pro.json](./57129-hit-tank-pro.json) |
 | Hit Tennis 3 | 246268 | [246268-hit-tennis-3.json](./246268-hit-tennis-3.json) |
+| Hit the Anvil | 422439 | [422439-hit-the-anvil.json](./422439-hit-the-anvil.json) |
 | Hit The Beat | 305164 | [305164-hit-the-beat.json](./305164-hit-the-beat.json) |
 | Hit the Brakes | 178496 | [178496-hit-the-brakes.json](./178496-hit-the-brakes.json) |
 | Hit the Button | 316878 | [316878-hit-the-button.json](./316878-hit-the-button.json) |
@@ -8789,6 +8790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 3: Trinity Pack | 224225 | [224225-hitman-3-trinity-pack.json](./224225-hitman-3-trinity-pack.json) |
 | Hitman 3: VR Access | 238852 | [238852-hitman-3-vr-access.json](./238852-hitman-3-vr-access.json) |
 | Hitman Absolution: Elite Edition | 53210 | [53210-hitman-absolution-elite-edition.json](./53210-hitman-absolution-elite-edition.json) |
+| Hitman Absolution: Professional Edition | 422427 | [422427-hitman-absolution-professional-edition.json](./422427-hitman-absolution-professional-edition.json) |
 | Hitman Collection | 212588 | [212588-hitman-collection.json](./212588-hitman-collection.json) |
 | Hitman Collection | 74880 | [74880-hitman-collection.json](./74880-hitman-collection.json) |
 | Hitman Go | 6073 | [6073-hitman-go.json](./6073-hitman-go.json) |
@@ -9381,6 +9383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow World: Dark Knight | 231055 | [231055-hollow-world-dark-knight.json](./231055-hollow-world-dark-knight.json) |
 | Hollowbody | 215682 | [215682-hollowbody.json](./215682-hollowbody.json) |
 | Hollowbrook: Apartments | 372181 | [372181-hollowbrook-apartments.json](./372181-hollowbrook-apartments.json) |
+| Hollowcross | 422433 | [422433-hollowcross.json](./422433-hollowcross.json) |
 | Hollowdeep | 344861 | [344861-hollowdeep.json](./344861-hollowdeep.json) |
 | Hollowed | 68568 | [68568-hollowed.json](./68568-hollowed.json) |
 | Hollowed Oath | 400395 | [400395-hollowed-oath.json](./400395-hollowed-oath.json) |
