@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank vs. Tank GOTY Edition | 395684 | [395684-tank-vs-tank-goty-edition.json](./395684-tank-vs-tank-goty-edition.json) |
 | Tank vs. Tank: Deluxe Edition | 332507 | [332507-tank-vs-tank-deluxe-edition.json](./332507-tank-vs-tank-deluxe-edition.json) |
 | Tank vs. Tank: Discovery Edition | 400205 | [400205-tank-vs-tank-discovery-edition.json](./400205-tank-vs-tank-discovery-edition.json) |
+| Tank vs. Tank: Elite Edition | 402612 | [402612-tank-vs-tank-elite-edition.json](./402612-tank-vs-tank-elite-edition.json) |
 | Tank vs. Tank: Prime Edition | 333727 | [333727-tank-vs-tank-prime-edition.json](./333727-tank-vs-tank-prime-edition.json) |
 | Tank vs. Tank: Superior Edition | 336434 | [336434-tank-vs-tank-superior-edition.json](./336434-tank-vs-tank-superior-edition.json) |
 | Tank vs. Tank: Value Edition | 397892 | [397892-tank-vs-tank-value-edition.json](./397892-tank-vs-tank-value-edition.json) |
@@ -5574,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That's a lot of pixels! | 229830 | [229830-thats-a-lot-of-pixels.json](./229830-thats-a-lot-of-pixels.json) |
 | That's a Thing | 344942 | [344942-thats-a-thing.json](./344942-thats-a-thing.json) |
 | That's a Warp | 282058 | [282058-thats-a-warp.json](./282058-thats-a-warp.json) |
+| That’s An Order Ensign | 402638 | [402638-that-s-an-order-ensign.json](./402638-that-s-an-order-ensign.json) |
 | That's Exactly What a Wolf Would Say! | 419755 | [419755-thats-exactly-what-a-wolf-would-say.json](./419755-thats-exactly-what-a-wolf-would-say.json) |
 | That's How Sumireko's Roach Stomping Mafia Works | 123593 | [123593-thats-how-sumirekos-roach-stomping-mafia-works.json](./123593-thats-how-sumirekos-roach-stomping-mafia-works.json) |
 | That's Mahjong! | 30811 | [30811-thats-mahjong.json](./30811-thats-mahjong.json) |
@@ -11683,6 +11685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The In Crowd | 47195 | [47195-the-in-crowd.json](./47195-the-in-crowd.json) |
 | The Inanimate Mr. Coatrack | 122847 | [122847-the-inanimate-mr-coatrack.json](./122847-the-inanimate-mr-coatrack.json) |
 | The InBetween | 305935 | [305935-the-inbetween.json](./305935-the-inbetween.json) |
+| The Incentive Program | 402643 | [402643-the-incentive-program.json](./402643-the-incentive-program.json) |
 | The Incident | 266825 | [266825-the-incident.json](./266825-the-incident.json) |
 | The Incident | 385300 | [385300-the-incident.json](./385300-the-incident.json) |
 | The Incident | 408392 | [408392-the-incident.json](./408392-the-incident.json) |
@@ -15436,6 +15439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pact | 251374 | [251374-the-pact.json](./251374-the-pact.json) |
 | The Pact | 374568 | [374568-the-pact.json](./374568-the-pact.json) |
 | The Pact | 401478 | [401478-the-pact.json](./401478-the-pact.json) |
+| The Pactmaker | 402637 | [402637-the-pactmaker.json](./402637-the-pactmaker.json) |
 | The Paddock | 320078 | [320078-the-paddock.json](./320078-the-paddock.json) |
 | The Paddy Field | 328934 | [328934-the-paddy-field.json](./328934-the-paddy-field.json) |
 | The Padre | 74907 | [74907-the-padre.json](./74907-the-padre.json) |
@@ -19358,6 +19362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Untouchables | 213865 | [213865-the-untouchables.json](./213865-the-untouchables.json) |
 | The Unvisited Grandma | 275950 | [275950-the-unvisited-grandma.json](./275950-the-unvisited-grandma.json) |
 | The Unwanted War | 274898 | [274898-the-unwanted-war.json](./274898-the-unwanted-war.json) |
+| The Unwelcome Guest | 402594 | [402594-the-unwelcome-guest.json](./402594-the-unwelcome-guest.json) |
 | The Unwelcomed | 32144 | [32144-the-unwelcomed.json](./32144-the-unwelcomed.json) |
 | The Unworld | 277069 | [277069-the-unworld.json](./277069-the-unworld.json) |
 | The Unworthy | 414862 | [414862-the-unworthy.json](./414862-the-unworthy.json) |
@@ -21286,6 +21291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thorner | 410353 | [410353-thorner.json](./410353-thorner.json) |
 | Thornetica | 394665 | [394665-thornetica.json](./394665-thornetica.json) |
 | Thornewood | 418661 | [418661-thornewood.json](./418661-thornewood.json) |
+| Thornhold | 402592 | [402592-thornhold.json](./402592-thornhold.json) |
 | Thornkin | 401439 | [401439-thornkin.json](./401439-thornkin.json) |
 | Thorns & Spells | 47299 | [47299-thorns-and-spells.json](./47299-thorns-and-spells.json) |
 | Thorns: Adlia | 301067 | [301067-thorns-adlia.json](./301067-thorns-adlia.json) |
