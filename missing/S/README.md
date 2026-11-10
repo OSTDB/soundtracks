@@ -17579,6 +17579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solomon's Boneyard | 22924 | [22924-solomons-boneyard.json](./22924-solomons-boneyard.json) |
 | Solomon's Boneyard: Hideous Retro Edition | 407175 | [407175-solomons-boneyard-hideous-retro-edition.json](./407175-solomons-boneyard-hideous-retro-edition.json) |
 | Solomon's Box | 183206 | [183206-solomons-box.json](./183206-solomons-box.json) |
+| Solomon's Club | 49018 | [49018-solomons-club.json](./49018-solomons-club.json) |
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
 | Solomon's Key | 28384 | [28384-solomons-key.json](./28384-solomons-key.json) |
 | Solomon's Key | 286608 | [286608-solomons-key.json](./286608-solomons-key.json) |
@@ -25612,6 +25613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: The Motion Picture | 18783 | [18783-star-trek-the-motion-picture.json](./18783-star-trek-the-motion-picture.json) |
 | Star Trek: The Next Generation | 198904 | [198904-star-trek-the-next-generation.json](./198904-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation | 365694 | [365694-star-trek-the-next-generation.json](./365694-star-trek-the-next-generation.json) |
+| Star Trek: The Next Generation | 48239 | [48239-star-trek-the-next-generation.json](./48239-star-trek-the-next-generation.json) |
 | Star Trek: The Next Generation - A Final Unity | 2228 | [2228-star-trek-the-next-generation-a-final-unity.json](./2228-star-trek-the-next-generation-a-final-unity.json) |
 | Star Trek: The Next Generation - Birth of the Federation | 50436 | [50436-star-trek-the-next-generation-birth-of-the-federation.json](./50436-star-trek-the-next-generation-birth-of-the-federation.json) |
 | Star Trek: The Next Generation - Echoes from the Past | 46195 | [46195-star-trek-the-next-generation-echoes-from-the-past.json](./46195-star-trek-the-next-generation-echoes-from-the-past.json) |
@@ -28959,6 +28961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Command Classic: WWI | 77054 | [77054-strategic-command-classic-wwi.json](./77054-strategic-command-classic-wwi.json) |
 | Strategic Command Classic: WWII | 96683 | [96683-strategic-command-classic-wwii.json](./96683-strategic-command-classic-wwii.json) |
 | Strategic Command World War I: The Great War 1914-1918 | 58425 | [58425-strategic-command-world-war-i-the-great-war-1914-1918.json](./58425-strategic-command-world-war-i-the-great-war-1914-1918.json) |
+| Strategic Command WWII: War in Europe | 36818 | [36818-strategic-command-wwii-war-in-europe.json](./36818-strategic-command-wwii-war-in-europe.json) |
 | Strategic Command WWII: War in the Pacific | 292538 | [292538-strategic-command-wwii-war-in-the-pacific.json](./292538-strategic-command-wwii-war-in-the-pacific.json) |
 | Strategic Command WWII: World at War | 112747 | [112747-strategic-command-wwii-world-at-war.json](./112747-strategic-command-wwii-world-at-war.json) |
 | Strategic Command: American Civil War | 204783 | [204783-strategic-command-american-civil-war.json](./204783-strategic-command-american-civil-war.json) |
@@ -32140,6 +32143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Challenge Football | 40595 | [40595-super-challenge-football.json](./40595-super-challenge-football.json) |
 | Super Champion Baseball | 125337 | [125337-super-champion-baseball.json](./125337-super-champion-baseball.json) |
 | Super Chariot | 93661 | [93661-super-chariot.json](./93661-super-chariot.json) |
+| Super Chase H.Q. | 38422 | [38422-super-chase-h-q.json](./38422-super-chase-h-q.json) |
 | Super Chase: Criminal Termination | 40430 | [40430-super-chase-criminal-termination.json](./40430-super-chase-criminal-termination.json) |
 | Super Chesslike Adventure | 142141 | [142141-super-chesslike-adventure.json](./142141-super-chesslike-adventure.json) |
 | Super Chibi Knight | 36438 | [36438-super-chibi-knight.json](./36438-super-chibi-knight.json) |
