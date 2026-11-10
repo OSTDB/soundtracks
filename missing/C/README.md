@@ -9889,6 +9889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Gangsters: Criminal Record | 193747 | [193747-city-of-gangsters-criminal-record.json](./193747-city-of-gangsters-criminal-record.json) |
 | City of Gangsters: Deluxe Edition | 173783 | [173783-city-of-gangsters-deluxe-edition.json](./173783-city-of-gangsters-deluxe-edition.json) |
 | City of Gangsters: Shadow Government | 203928 | [203928-city-of-gangsters-shadow-government.json](./203928-city-of-gangsters-shadow-government.json) |
+| City of God I: Prison Empire | 32719 | [32719-city-of-god-i-prison-empire.json](./32719-city-of-god-i-prison-empire.json) |
 | City of God I: Prison Empire - Outrage | 170431 | [170431-city-of-god-i-prison-empire-outrage.json](./170431-city-of-god-i-prison-empire-outrage.json) |
 | City of Graves | 284975 | [284975-city-of-graves.json](./284975-city-of-graves.json) |
 | City of Heroes | 7830 | [7830-city-of-heroes.json](./7830-city-of-heroes.json) |
