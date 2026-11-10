@@ -2935,7 +2935,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3678,6 +3677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Warrior | 128319 | [128319-kingdom-warrior.json](./128319-kingdom-warrior.json) |
 | Kingdom Warriors | 58240 | [58240-kingdom-warriors.json](./58240-kingdom-warriors.json) |
 | Kingdom Wars | 374769 | [374769-kingdom-wars.json](./374769-kingdom-wars.json) |
+| Kingdom Wars 2: Battles | 16691 | [16691-kingdom-wars-2-battles.json](./16691-kingdom-wars-2-battles.json) |
 | Kingdom Wars 2: Definitive Edition | 116181 | [116181-kingdom-wars-2-definitive-edition.json](./116181-kingdom-wars-2-definitive-edition.json) |
 | Kingdom Wars 4 | 135730 | [135730-kingdom-wars-4.json](./135730-kingdom-wars-4.json) |
 | Kingdom Wars 4: Sultans & Kings | 248821 | [248821-kingdom-wars-4-sultans-and-kings.json](./248821-kingdom-wars-4-sultans-and-kings.json) |
@@ -3733,6 +3733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms of Myth | 166898 | [166898-kingdoms-of-myth.json](./166898-kingdoms-of-myth.json) |
 | Kingdoms of the Dump | 106105 | [106105-kingdoms-of-the-dump.json](./106105-kingdoms-of-the-dump.json) |
 | Kingdoms Reborn | 137805 | [137805-kingdoms-reborn.json](./137805-kingdoms-reborn.json) |
+| Kingdoms Rise | 16644 | [16644-kingdoms-rise.json](./16644-kingdoms-rise.json) |
 | Kingdoms Rise and Fall | 260326 | [260326-kingdoms-rise-and-fall.json](./260326-kingdoms-rise-and-fall.json) |
 | Kingdoms vs. Zombies | 406846 | [406846-kingdoms-vs-zombies.json](./406846-kingdoms-vs-zombies.json) |
 | Kingdoms: Merge & Build | 291982 | [291982-kingdoms-merge-and-build.json](./291982-kingdoms-merge-and-build.json) |
@@ -4938,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights vs Nature | 214193 | [214193-knights-vs-nature.json](./214193-knights-vs-nature.json) |
 | Knights Within | 254047 | [254047-knights-within.json](./254047-knights-within.json) |
 | Knights: Spiral Islands | 66098 | [66098-knights-spiral-islands.json](./66098-knights-spiral-islands.json) |
+| KnightShift | 16705 | [16705-knightshift.json](./16705-knightshift.json) |
 | Knightsquire | 78762 | [78762-knightsquire.json](./78762-knightsquire.json) |
 | Knightstones | 398144 | [398144-knightstones.json](./398144-knightstones.json) |
 | Knighttron | 314755 | [314755-knighttron.json](./314755-knighttron.json) |
