@@ -6609,6 +6609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Mine | 273959 | [273959-island-of-mine.json](./273959-island-of-mine.json) |
 | Island of Mogambo | 268986 | [268986-island-of-mogambo.json](./268986-island-of-mogambo.json) |
 | Island of Penance | 150877 | [150877-island-of-penance.json](./150877-island-of-penance.json) |
+| Island of Rebirth: NTR and Love | 419446 | [419446-island-of-rebirth-ntr-and-love.json](./419446-island-of-rebirth-ntr-and-love.json) |
 | Island of Ruin | 391622 | [391622-island-of-ruin.json](./391622-island-of-ruin.json) |
 | Island of Sacrifice | 326008 | [326008-island-of-sacrifice.json](./326008-island-of-sacrifice.json) |
 | Island of the Ancients | 154368 | [154368-island-of-the-ancients.json](./154368-island-of-the-ancients.json) |
