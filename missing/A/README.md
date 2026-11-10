@@ -4095,6 +4095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ae | 184042 | [184042-ae.json](./184042-ae.json) |
 | AE Mini Game Collection | 279599 | [279599-ae-mini-game-collection.json](./279599-ae-mini-game-collection.json) |
 | AE Supernatural | 165774 | [165774-ae-supernatural.json](./165774-ae-supernatural.json) |
+| AE: Archeological Expedition | 406419 | [406419-ae-archeological-expedition.json](./406419-ae-archeological-expedition.json) |
 | AE86 Eurobeat Drift | 154284 | [154284-ae86-eurobeat-drift.json](./154284-ae86-eurobeat-drift.json) |
 | Aebal | 167174 | [167174-aebal.json](./167174-aebal.json) |
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
@@ -6631,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemicraft | 181666 | [181666-alchemicraft.json](./181666-alchemicraft.json) |
 | Alchemist | 202678 | [202678-alchemist.json](./202678-alchemist.json) |
 | Alchemist | 304130 | [304130-alchemist.json](./304130-alchemist.json) |
+| Alchemist | 406376 | [406376-alchemist.json](./406376-alchemist.json) |
 | Alchemist Adventure | 137444 | [137444-alchemist-adventure.json](./137444-alchemist-adventure.json) |
 | Alchemist Arena | 195460 | [195460-alchemist-arena.json](./195460-alchemist-arena.json) |
 | Alchemist Bundle | 295645 | [295645-alchemist-bundle.json](./295645-alchemist-bundle.json) |
