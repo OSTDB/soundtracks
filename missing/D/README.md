@@ -8065,6 +8065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of Thrones | 97322 | [97322-destiny-of-thrones.json](./97322-destiny-of-thrones.json) |
 | Destiny Online | 290876 | [290876-destiny-online.json](./290876-destiny-online.json) |
 | Destiny or Fate | 113311 | [113311-destiny-or-fate.json](./113311-destiny-or-fate.json) |
+| Destiny Powers: Goblins Realm | 402004 | [402004-destiny-powers-goblins-realm.json](./402004-destiny-powers-goblins-realm.json) |
 | Destiny RPG | 52886 | [52886-destiny-rpg.json](./52886-destiny-rpg.json) |
 | Destiny Saga | 277191 | [277191-destiny-saga.json](./277191-destiny-saga.json) |
 | Destiny Spire | 356899 | [356899-destiny-spire.json](./356899-destiny-spire.json) |
@@ -12755,6 +12756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki! Doki! Yuuenchi: Crazy Land Daisakusen | 48663 | [48663-doki-doki-yuuenchi-crazy-land-daisakusen.json](./48663-doki-doki-yuuenchi-crazy-land-daisakusen.json) |
 | DokiDoki Academy | 252894 | [252894-dokidoki-academy.json](./252894-dokidoki-academy.json) |
 | DokiDoki LoveUnholyc Class | 200012 | [200012-dokidoki-loveunholyc-class.json](./200012-dokidoki-loveunholyc-class.json) |
+| DokiDoki Massage | 401976 | [401976-dokidoki-massage.json](./401976-dokidoki-massage.json) |
 | Dokimon | 315726 | [315726-dokimon.json](./315726-dokimon.json) |
 | Dokimon Quest: II | 414852 | [414852-dokimon-quest-ii.json](./414852-dokimon-quest-ii.json) |
 | Dokis & Dragons | 334008 | [334008-dokis-and-dragons.json](./334008-dokis-and-dragons.json) |
