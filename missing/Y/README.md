@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoga Wii | 19655 | [19655-yoga-wii.json](./19655-yoga-wii.json) |
 | Yogenkyo | 402840 | [402840-yogenkyo.json](./402840-yogenkyo.json) |
 | Yogho Yogho spel | 78953 | [78953-yogho-yogho-spel.json](./78953-yogho-yogho-spel.json) |
+| Yogi Bear | 259278 | [259278-yogi-bear.json](./259278-yogi-bear.json) |
 | Yogi Bear | 54667 | [54667-yogi-bear.json](./54667-yogi-bear.json) |
 | Yogi Bear & Friends: The Greed Monster | 66737 | [66737-yogi-bear-and-friends-the-greed-monster.json](./66737-yogi-bear-and-friends-the-greed-monster.json) |
 | Yogi Bear in Yogi Bear's Goldrush | 46299 | [46299-yogi-bear-in-yogi-bears-goldrush.json](./46299-yogi-bear-in-yogi-bears-goldrush.json) |
