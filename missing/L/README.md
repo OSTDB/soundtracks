@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lagoon Lounge: The Poisonous Fountain | 102437 | [102437-lagoon-lounge-the-poisonous-fountain.json](./102437-lagoon-lounge-the-poisonous-fountain.json) |
 | Lagoona Bundle | 354044 | [354044-lagoona-bundle.json](./354044-lagoona-bundle.json) |
 | Lagoona: Kids' activity center | 99935 | [99935-lagoona-kids-activity-center.json](./99935-lagoona-kids-activity-center.json) |
+| Lagos Life | 421783 | [421783-lagos-life.json](./421783-lagos-life.json) |
 | Lagrange Point | 48576 | [48576-lagrange-point.json](./48576-lagrange-point.json) |
 | Lagsters | 109185 | [109185-lagsters.json](./109185-lagsters.json) |
 | Laguna Racer | 170525 | [170525-laguna-racer.json](./170525-laguna-racer.json) |
@@ -8852,6 +8853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Tomb | 23503 | [23503-lost-tomb.json](./23503-lost-tomb.json) |
 | Lost Totem Trajipon! | 402222 | [402222-lost-totem-trajipon.json](./402222-lost-totem-trajipon.json) |
 | Lost Town | 146601 | [146601-lost-town.json](./146601-lost-town.json) |
+| Lost Toys | 421769 | [421769-lost-toys.json](./421769-lost-toys.json) |
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
 | Lost Traces: Unsolved Cases - False Awakening | 280842 | [280842-lost-traces-unsolved-cases-false-awakening.json](./280842-lost-traces-unsolved-cases-false-awakening.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
@@ -9808,6 +9810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Island | 224742 | [224742-lucky-island.json](./224742-lucky-island.json) |
 | Lucky Joe | 160168 | [160168-lucky-joe.json](./160168-lucky-joe.json) |
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
+| Lucky Leap Maneki | 421763 | [421763-lucky-leap-maneki.json](./421763-lucky-leap-maneki.json) |
 | Lucky Lord: The Coin Pusher of Fate | 377622 | [377622-lucky-lord-the-coin-pusher-of-fate.json](./377622-lucky-lord-the-coin-pusher-of-fate.json) |
 | Lucky Luke | 131706 | [131706-lucky-luke.json](./131706-lucky-luke.json) |
 | Lucky Luke | 134833 | [134833-lucky-luke.json](./134833-lucky-luke.json) |
