@@ -2936,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achtung die Kugel! | 110927 | [110927-achtung-die-kugel.json](./110927-achtung-die-kugel.json) |
 | Achtung Franz: Quest for Wine | 314993 | [314993-achtung-franz-quest-for-wine.json](./314993-achtung-franz-quest-for-wine.json) |
 | Achtung Panzer: Kharkov 1943 | 2008 | [2008-achtung-panzer-kharkov-1943.json](./2008-achtung-panzer-kharkov-1943.json) |
+| Achtung Royale | 424862 | [424862-achtung-royale.json](./424862-achtung-royale.json) |
 | Achtung Spitfire | 86015 | [86015-achtung-spitfire.json](./86015-achtung-spitfire.json) |
 | Achtung, die Kurve! | 11251 | [11251-achtung-die-kurve.json](./11251-achtung-die-kurve.json) |
 | Achtung! Cthulhu Tactics | 106562 | [106562-achtung-cthulhu-tactics.json](./106562-achtung-cthulhu-tactics.json) |
@@ -10620,6 +10621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Math | 73475 | [73475-animal-math.json](./73475-animal-math.json) |
 | Animal Math Kindergarten Games | 99941 | [99941-animal-math-kindergarten-games.json](./99941-animal-math-kindergarten-games.json) |
 | Animal Memory | 151591 | [151591-animal-memory.json](./151591-animal-memory.json) |
+| Animal Mystery: 100 Hidden Cats | 424877 | [424877-animal-mystery-100-hidden-cats.json](./424877-animal-mystery-100-hidden-cats.json) |
 | Animal Night Market | 326859 | [326859-animal-night-market.json](./326859-animal-night-market.json) |
 | Animal Notes | 119707 | [119707-animal-notes.json](./119707-animal-notes.json) |
 | Animal Pairs: Matching & Concentration Game for Toddlers & Kids | 147938 | [147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json](./147938-animal-pairs-matching-and-concentration-game-for-toddlers-and-kids.json) |
@@ -15769,6 +15771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashbourne | 32570 | [32570-ashbourne.json](./32570-ashbourne.json) |
 | AshCreek | 419130 | [419130-ashcreek.json](./419130-ashcreek.json) |
 | Ashe | 407760 | [407760-ashe.json](./407760-ashe.json) |
+| Ashen | 424824 | [424824-ashen.json](./424824-ashen.json) |
 | Ashen | 6259 | [6259-ashen.json](./6259-ashen.json) |
 | Ashen Arrows | 211413 | [211413-ashen-arrows.json](./211413-ashen-arrows.json) |
 | Ashen Daughter | 349929 | [349929-ashen-daughter.json](./349929-ashen-daughter.json) |
@@ -17605,6 +17608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
