@@ -3169,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 57° North for Merge Cube | 90141 | [90141-57-north-for-merge-cube.json](./90141-57-north-for-merge-cube.json) |
 | 59 Fucks the Machine | 257540 | [257540-59-fucks-the-machine.json](./257540-59-fucks-the-machine.json) |
 | 59049 | 95672 | [95672-59049.json](./95672-59049.json) |
+| 5buttons | 412646 | [412646-5buttons.json](./412646-5buttons.json) |
 | 5D Chess With Multiverse Time Travel | 136045 | [136045-5d-chess-with-multiverse-time-travel.json](./136045-5d-chess-with-multiverse-time-travel.json) |
 | 5D Chess With Multiverse Time Travel Chatting | 411803 | [411803-5d-chess-with-multiverse-time-travel-chatting.json](./411803-5d-chess-with-multiverse-time-travel-chatting.json) |
 | 5D Diplomacy with Multiverse Time Travel | 330835 | [330835-5d-diplomacy-with-multiverse-time-travel.json](./330835-5d-diplomacy-with-multiverse-time-travel.json) |
