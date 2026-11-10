@@ -16175,6 +16175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Fortress | 26592 | [26592-snow-fortress.json](./26592-snow-fortress.json) |
 | Snow Fortress 2 | 258592 | [258592-snow-fortress-2.json](./258592-snow-fortress-2.json) |
 | Snow Games VR | 29782 | [29782-snow-games-vr.json](./29782-snow-games-vr.json) |
+| Snow Horse | 16318 | [16318-snow-horse.json](./16318-snow-horse.json) |
 | Snow Island | 122586 | [122586-snow-island.json](./122586-snow-island.json) |
 | Snow Jewels | 118526 | [118526-snow-jewels.json](./118526-snow-jewels.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
@@ -20855,6 +20856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pirates | 176837 | [176837-space-pirates.json](./176837-space-pirates.json) |
 | Space Pirates | 4246 | [4246-space-pirates.json](./4246-space-pirates.json) |
 | Space Pirates and Zombies | 2989 | [2989-space-pirates-and-zombies.json](./2989-space-pirates-and-zombies.json) |
+| Space Pirates and Zombies 2 | 16682 | [16682-space-pirates-and-zombies-2.json](./16682-space-pirates-and-zombies-2.json) |
 | Space Pirates for Life | 241390 | [241390-space-pirates-for-life.json](./241390-space-pirates-for-life.json) |
 | Space Pixel Swarm | 198000 | [198000-space-pixel-swarm.json](./198000-space-pixel-swarm.json) |
 | Space Pizza | 263920 | [263920-space-pizza.json](./263920-space-pizza.json) |
@@ -22790,6 +22792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Tank vs. Aliens | 340182 | [340182-spider-tank-vs-aliens.json](./340182-spider-tank-vs-aliens.json) |
 | Spider: Downloaded | 388048 | [388048-spider-downloaded.json](./388048-spider-downloaded.json) |
 | Spider: Gang City Hero | 93705 | [93705-spider-gang-city-hero.json](./93705-spider-gang-city-hero.json) |
+| Spider: Rite of the Shrouded Moon | 17073 | [17073-spider-rite-of-the-shrouded-moon.json](./17073-spider-rite-of-the-shrouded-moon.json) |
 | Spider: The Secret Of Bryce Manor | 23259 | [23259-spider-the-secret-of-bryce-manor.json](./23259-spider-the-secret-of-bryce-manor.json) |
 | Spider: The Video Game | 45034 | [45034-spider-the-video-game.json](./45034-spider-the-video-game.json) |
 | Spider! | 107042 | [107042-spider.json](./107042-spider.json) |
@@ -26885,6 +26888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starwalker | 36040 | [36040-starwalker.json](./36040-starwalker.json) |
 | Starwalker: Into the Cylinder | 203615 | [203615-starwalker-into-the-cylinder.json](./203615-starwalker-into-the-cylinder.json) |
 | Starward | 301139 | [301139-starward.json](./301139-starward.json) |
+| Starward Rogue | 16754 | [16754-starward-rogue.json](./16754-starward-rogue.json) |
 | Starward Rogue + Moonshine Inc.: Galactic Spirit Bundle | 286971 | [286971-starward-rogue-moonshine-inc-galactic-spirit-bundle.json](./286971-starward-rogue-moonshine-inc-galactic-spirit-bundle.json) |
 | Starward Rogue + Moonshine Inc.: Galactic Spirit Deluxe Bundle | 286970 | [286970-starward-rogue-moonshine-inc-galactic-spirit-deluxe-bundle.json](./286970-starward-rogue-moonshine-inc-galactic-spirit-deluxe-bundle.json) |
 | Starward Rogue: Augmented | 168473 | [168473-starward-rogue-augmented.json](./168473-starward-rogue-augmented.json) |
@@ -27187,6 +27191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Heart | 185323 | [185323-steam-heart.json](./185323-steam-heart.json) |
 | Steam Heroes | 10926 | [10926-steam-heroes.json](./10926-steam-heroes.json) |
 | Steam Highwayman | 174265 | [174265-steam-highwayman.json](./174265-steam-highwayman.json) |
+| Steam Marines | 16696 | [16696-steam-marines.json](./16696-steam-marines.json) |
 | Steam Marines 2 | 57889 | [57889-steam-marines-2.json](./57889-steam-marines-2.json) |
 | Steam Panic | 258785 | [258785-steam-panic.json](./258785-steam-panic.json) |
 | Steam Prison: Beyond The Steam | 301689 | [301689-steam-prison-beyond-the-steam.json](./301689-steam-prison-beyond-the-steam.json) |
