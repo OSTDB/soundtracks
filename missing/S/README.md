@@ -24373,6 +24373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spunky Dungeon | 341997 | [341997-spunky-dungeon.json](./341997-spunky-dungeon.json) |
 | Spunky: Gangster Simulator | 164993 | [164993-spunky-gangster-simulator.json](./164993-spunky-gangster-simulator.json) |
 | Spunner | 187596 | [187596-spunner.json](./187596-spunner.json) |
+| Spur.bot | 401245 | [401245-spur-bot.json](./401245-spur-bot.json) |
 | Spur.world | 401190 | [401190-spur-world.json](./401190-spur-world.json) |
 | Spurdo :D | 237140 | [237140-spurdo-d.json](./237140-spurdo-d.json) |
 | Sputnik | 168701 | [168701-sputnik.json](./168701-sputnik.json) |
@@ -24763,6 +24764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Game: The Game | 184603 | [184603-squid-game-the-game.json](./184603-squid-game-the-game.json) |
 | Squid Game: Unleashed | 314273 | [314273-squid-game-unleashed.json](./314273-squid-game-unleashed.json) |
 | Squid Girl World Ep.0 | 257564 | [257564-squid-girl-world-ep-0.json](./257564-squid-girl-world-ep-0.json) |
+| Squid Girl World: Memory | 401249 | [401249-squid-girl-world-memory.json](./401249-squid-girl-world-memory.json) |
 | Squid Grid | 247992 | [247992-squid-grid.json](./247992-squid-grid.json) |
 | Squid Gurl and the Salty Sea Man | 97345 | [97345-squid-gurl-and-the-salty-sea-man.json](./97345-squid-gurl-and-the-salty-sea-man.json) |
 | Squid Guys | 286503 | [286503-squid-guys.json](./286503-squid-guys.json) |
@@ -24773,6 +24775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squid Prison | 199314 | [199314-squid-prison.json](./199314-squid-prison.json) |
 | Squid Run | 192605 | [192605-squid-run.json](./192605-squid-run.json) |
 | Squid Squabble | 264602 | [264602-squid-squabble.json](./264602-squid-squabble.json) |
+| Squid Survival Simulator | 401344 | [401344-squid-survival-simulator.json](./401344-squid-survival-simulator.json) |
 | Squid Survival Simulator: Sea Animal Life 3D | 104594 | [104594-squid-survival-simulator-sea-animal-life-3d.json](./104594-squid-survival-simulator-sea-animal-life-3d.json) |
 | Squid Town | 112511 | [112511-squid-town.json](./112511-squid-town.json) |
 | Squid Vs Vexus | 107694 | [107694-squid-vs-vexus.json](./107694-squid-vs-vexus.json) |
@@ -37789,6 +37792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylvie Lime | 230501 | [230501-sylvie-lime.json](./230501-sylvie-lime.json) |
 | Sylvie Miniature | 306002 | [306002-sylvie-miniature.json](./306002-sylvie-miniature.json) |
 | Sylvie RPG: 7 Elf Apocalypse | 292830 | [292830-sylvie-rpg-7-elf-apocalypse.json](./292830-sylvie-rpg-7-elf-apocalypse.json) |
+| Sylvie's Fruit Day | 401330 | [401330-sylvies-fruit-day.json](./401330-sylvies-fruit-day.json) |
 | Sylvio 2 | 28216 | [28216-sylvio-2.json](./28216-sylvio-2.json) |
 | Sylvio and the Mountains Giants | 236536 | [236536-sylvio-and-the-mountains-giants.json](./236536-sylvio-and-the-mountains-giants.json) |
 | Sym | 11424 | [11424-sym.json](./11424-sym.json) |
