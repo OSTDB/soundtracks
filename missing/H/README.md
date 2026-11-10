@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanafuda | 425188 | [425188-hanafuda.json](./425188-hanafuda.json) |
 | Hanafuda Graffiti: KoiKoi Monogatari | 123292 | [123292-hanafuda-graffiti-koikoi-monogatari.json](./123292-hanafuda-graffiti-koikoi-monogatari.json) |
 | Hanafuda Koi-koi Dojo | 322565 | [322565-hanafuda-koi-koi-dojo.json](./322565-hanafuda-koi-koi-dojo.json) |
+| Hanafuda Legends | 401323 | [401323-hanafuda-legends.json](./401323-hanafuda-legends.json) |
 | Hanafuda Rumble | 97838 | [97838-hanafuda-rumble.json](./97838-hanafuda-rumble.json) |
 | Hanafuda Shiyouyo | 37505 | [37505-hanafuda-shiyouyo.json](./37505-hanafuda-shiyouyo.json) |
 | Hanafuda Trump Mahjong: Depachika Wayounaka | 49635 | [49635-hanafuda-trump-mahjong-depachika-wayounaka.json](./49635-hanafuda-trump-mahjong-depachika-wayounaka.json) |
@@ -9277,6 +9278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Construction DLC | 380392 | [380392-hole-io-construction-dlc.json](./380392-hole-io-construction-dlc.json) |
 | Hole io: Construction Edition | 407112 | [407112-hole-io-construction-edition.json](./407112-hole-io-construction-edition.json) |
 | Hole io: Egypt Edition | 366783 | [366783-hole-io-egypt-edition.json](./366783-hole-io-egypt-edition.json) |
+| Hole io: Emerald Edition | 401352 | [401352-hole-io-emerald-edition.json](./401352-hole-io-emerald-edition.json) |
 | Hole io: Freak Edition | 275051 | [275051-hole-io-freak-edition.json](./275051-hole-io-freak-edition.json) |
 | Hole io: Freaks DLC | 263555 | [263555-hole-io-freaks-dlc.json](./263555-hole-io-freaks-dlc.json) |
 | Hole io: Godlike Edition | 312057 | [312057-hole-io-godlike-edition.json](./312057-hole-io-godlike-edition.json) |
@@ -10942,6 +10944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hospital of the Undead | 291914 | [291914-hospital-of-the-undead.json](./291914-hospital-of-the-undead.json) |
 | Hospital Renovator | 217079 | [217079-hospital-renovator.json](./217079-hospital-renovator.json) |
 | Hospital Romance: Anime Doctor Crush | 400178 | [400178-hospital-romance-anime-doctor-crush.json](./400178-hospital-romance-anime-doctor-crush.json) |
+| Hospital Romance: Anime Nurse Crush | 401343 | [401343-hospital-romance-anime-nurse-crush.json](./401343-hospital-romance-anime-nurse-crush.json) |
 | Hospital Tycoon | 10133 | [10133-hospital-tycoon.json](./10133-hospital-tycoon.json) |
 | Hospital Tycoon | 220171 | [220171-hospital-tycoon.json](./220171-hospital-tycoon.json) |
 | Hospitality VR | 160135 | [160135-hospitality-vr.json](./160135-hospitality-vr.json) |
