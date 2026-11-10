@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Visit to the Shard | 136801 | [136801-last-visit-to-the-shard.json](./136801-last-visit-to-the-shard.json) |
 | Last Voyage | 14875 | [14875-last-voyage.json](./14875-last-voyage.json) |
 | Last Voyage of the Aqualus | 282615 | [282615-last-voyage-of-the-aqualus.json](./282615-last-voyage-of-the-aqualus.json) |
+| Last Wail of the Sea King | 415620 | [415620-last-wail-of-the-sea-king.json](./415620-last-wail-of-the-sea-king.json) |
 | Last Walpurgis | 255051 | [255051-last-walpurgis.json](./255051-last-walpurgis.json) |
 | Last War | 285070 | [285070-last-war.json](./285070-last-war.json) |
 | Last War 2044 | 89406 | [89406-last-war-2044.json](./89406-last-war-2044.json) |
@@ -4420,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewis Quest | 337085 | [337085-lewis-quest.json](./337085-lewis-quest.json) |
 | Lex Mortis | 26510 | [26510-lex-mortis.json](./26510-lex-mortis.json) |
 | Lexagrana | 174196 | [174196-lexagrana.json](./174196-lexagrana.json) |
+| Lexi | 415625 | [415625-lexi.json](./415625-lexi.json) |
 | Lexi-Cross | 47117 | [47117-lexi-cross.json](./47117-lexi-cross.json) |
 | Lexibble | 305344 | [305344-lexibble.json](./305344-lexibble.json) |
 | Lexiblox | 175585 | [175585-lexiblox.json](./175585-lexiblox.json) |
@@ -5306,6 +5308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like Veins Beneath the Town | 229614 | [229614-like-veins-beneath-the-town.json](./229614-like-veins-beneath-the-town.json) |
 | Like x Love: Totsukawa Hikaru | 397225 | [397225-like-x-love-totsukawa-hikaru.json](./397225-like-x-love-totsukawa-hikaru.json) |
 | Like2Be | 384343 | [384343-like2be.json](./384343-like2be.json) |
+| Likvar: Zoya | 415696 | [415696-likvar-zoya.json](./415696-likvar-zoya.json) |
 | Lil Baby Poop's Nightmares | 231185 | [231185-lil-baby-poops-nightmares.json](./231185-lil-baby-poops-nightmares.json) |
 | Lil Big Invasion | 32818 | [32818-lil-big-invasion.json](./32818-lil-big-invasion.json) |
 | Lil Doll House | 293472 | [293472-lil-doll-house.json](./293472-lil-doll-house.json) |
@@ -7592,6 +7595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely dog lost in space | 182681 | [182681-lonely-dog-lost-in-space.json](./182681-lonely-dog-lost-in-space.json) |
 | Lonely Guardian | 374966 | [374966-lonely-guardian.json](./374966-lonely-guardian.json) |
 | Lonely Hero & Non-Fight Party | 191677 | [191677-lonely-hero-and-non-fight-party.json](./191677-lonely-hero-and-non-fight-party.json) |
+| Lonely Highway | 415673 | [415673-lonely-highway.json](./415673-lonely-highway.json) |
 | Lonely House | 342286 | [342286-lonely-house.json](./342286-lonely-house.json) |
 | Lonely in the Winter | 86338 | [86338-lonely-in-the-winter.json](./86338-lonely-in-the-winter.json) |
 | Lonely Journey | 292168 | [292168-lonely-journey.json](./292168-lonely-journey.json) |
@@ -7837,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop | 327298 | [327298-loop.json](./327298-loop.json) |
 | Loop | 344257 | [344257-loop.json](./344257-loop.json) |
 | Loop | 405702 | [405702-loop.json](./405702-loop.json) |
+| Loop Apartment: Visitor | 415654 | [415654-loop-apartment-visitor.json](./415654-loop-apartment-visitor.json) |
 | Loop Archer | 364648 | [364648-loop-archer.json](./364648-loop-archer.json) |
 | Loop Chain | 234494 | [234494-loop-chain.json](./234494-loop-chain.json) |
 | Loop Craft | 116090 | [116090-loop-craft.json](./116090-loop-craft.json) |
@@ -9077,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Breakout | 280176 | [280176-love-breakout.json](./280176-love-breakout.json) |
 | Love Brings You Home | 238907 | [238907-love-brings-you-home.json](./238907-love-brings-you-home.json) |
 | Love Burger | 311033 | [311033-love-burger.json](./311033-love-burger.json) |
+| Love Buster!! | 415679 | [415679-love-buster.json](./415679-love-buster.json) |
 | Love Cat Life | 123349 | [123349-love-cat-life.json](./123349-love-cat-life.json) |
 | Love Challenge | 245717 | [245717-love-challenge.json](./245717-love-challenge.json) |
 | Love Change | 217949 | [217949-love-change.json](./217949-love-change.json) |
