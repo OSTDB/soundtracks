@@ -3034,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patchwork Beast | 247932 | [247932-patchwork-beast.json](./247932-patchwork-beast.json) |
 | Patchwork Girl | 180242 | [180242-patchwork-girl.json](./180242-patchwork-girl.json) |
 | Patchwork Heroes | 42851 | [42851-patchwork-heroes.json](./42851-patchwork-heroes.json) |
+| Patchworkz | 87630 | [87630-patchworkz.json](./87630-patchworkz.json) |
 | Patchworkz!: X-maz! | 185696 | [185696-patchworkz-x-maz.json](./185696-patchworkz-x-maz.json) |
 | Patchworld | 316399 | [316399-patchworld.json](./316399-patchworld.json) |
 | Patchy Matchy | 307853 | [307853-patchy-matchy.json](./307853-patchy-matchy.json) |
@@ -5722,6 +5723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phase 10 | 83456 | [83456-phase-10.json](./83456-phase-10.json) |
 | Phase 10 Dice | 83455 | [83455-phase-10-dice.json](./83455-phase-10-dice.json) |
 | Phase 10 Online | 144843 | [144843-phase-10-online.json](./144843-phase-10-online.json) |
+| Phase 10 Pro - Play Your Friends! | 86922 | [86922-phase-10-pro-play-your-friends.json](./86922-phase-10-pro-play-your-friends.json) |
 | Phase 10: World Tour | 138638 | [138638-phase-10-world-tour.json](./138638-phase-10-world-tour.json) |
 | Phase Cross | 347787 | [347787-phase-cross.json](./347787-phase-cross.json) |
 | Phase D | 42762 | [42762-phase-d.json](./42762-phase-d.json) |
@@ -6640,6 +6642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigeon Hunter | 369121 | [369121-pigeon-hunter.json](./369121-pigeon-hunter.json) |
 | Pigeon in Hurry | 272951 | [272951-pigeon-in-hurry.json](./272951-pigeon-in-hurry.json) |
 | Pigeon Phew | 387729 | [387729-pigeon-phew.json](./387729-pigeon-phew.json) |
+| Pigeon Pop | 87728 | [87728-pigeon-pop.json](./87728-pigeon-pop.json) |
 | Pigeon Protocol | 245880 | [245880-pigeon-protocol.json](./245880-pigeon-protocol.json) |
 | Pigeon Sim: Bird Simulator - Lady Pigeon DLC | 309063 | [309063-pigeon-sim-bird-simulator-lady-pigeon-dlc.json](./309063-pigeon-sim-bird-simulator-lady-pigeon-dlc.json) |
 | Pigeon Simulator | 120304 | [120304-pigeon-simulator.json](./120304-pigeon-simulator.json) |
@@ -10963,6 +10966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Starships: Star Trek Borg Invasion | 54680 | [54680-pocket-starships-star-trek-borg-invasion.json](./54680-pocket-starships-star-trek-borg-invasion.json) |
 | Pocket Tactics | 177000 | [177000-pocket-tactics.json](./177000-pocket-tactics.json) |
 | Pocket Tanks | 72176 | [72176-pocket-tanks.json](./72176-pocket-tanks.json) |
+| Pocket Tanks Deluxe | 86841 | [86841-pocket-tanks-deluxe.json](./86841-pocket-tanks-deluxe.json) |
 | Pocket Tarneeb | 317051 | [317051-pocket-tarneeb.json](./317051-pocket-tarneeb.json) |
 | Pocket Tennis Color | 47609 | [47609-pocket-tennis-color.json](./47609-pocket-tennis-color.json) |
 | Pocket Thief | 337501 | [337501-pocket-thief.json](./337501-pocket-thief.json) |
@@ -15298,6 +15302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prinny 2: Dawn of Operation Panties, Dood! | 21769 | [21769-prinny-2-dawn-of-operation-panties-dood.json](./21769-prinny-2-dawn-of-operation-panties-dood.json) |
 | Prinny Party: Going Overboard! | 394548 | [394548-prinny-party-going-overboard.json](./394548-prinny-party-going-overboard.json) |
 | Prinny Presents NIS Classics Volumes 1-3 Bundle | 234638 | [234638-prinny-presents-nis-classics-volumes-1-3-bundle.json](./234638-prinny-presents-nis-classics-volumes-1-3-bundle.json) |
+| Prinny Presents: NIS Classics Vol 1 | 144217 | [144217-prinny-presents-nis-classics-vol-1.json](./144217-prinny-presents-nis-classics-vol-1.json) |
 | Prinny Presents: NIS Classics Vol 1 - Deluxe Edition | 148545 | [148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json](./148545-prinny-presents-nis-classics-vol-1-deluxe-edition.json) |
 | Prinny Presents: NIS Classics Vol 1 - Limited Edition | 165450 | [165450-prinny-presents-nis-classics-vol-1-limited-edition.json](./165450-prinny-presents-nis-classics-vol-1-limited-edition.json) |
 | Prinny Presents: NIS Classics Vol 2 | 170033 | [170033-prinny-presents-nis-classics-vol-2.json](./170033-prinny-presents-nis-classics-vol-2.json) |
