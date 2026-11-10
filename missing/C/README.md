@@ -2402,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Racing Ice: Classic | 288372 | [288372-car-racing-ice-classic.json](./288372-car-racing-ice-classic.json) |
 | Car Racing Master: Car Game 3D | 288982 | [288982-car-racing-master-car-game-3d.json](./288982-car-racing-master-car-game-3d.json) |
 | Car Racing Trials | 203697 | [203697-car-racing-trials.json](./203697-car-racing-trials.json) |
+| Car Racing: Auto & Formula Sport | 402601 | [402601-car-racing-auto-and-formula-sport.json](./402601-car-racing-auto-and-formula-sport.json) |
 | Car Racing: High on Fuel | 241825 | [241825-car-racing-high-on-fuel.json](./241825-car-racing-high-on-fuel.json) |
 | Car Racing: Highway Driving Simulator | 219455 | [219455-car-racing-highway-driving-simulator.json](./219455-car-racing-highway-driving-simulator.json) |
 | Car Racing: Highway Driving Simulator - Premium Edition | 283153 | [283153-car-racing-highway-driving-simulator-premium-edition.json](./283153-car-racing-highway-driving-simulator-premium-edition.json) |
@@ -3192,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrom Pool: Disc Game | 174772 | [174772-carrom-pool-disc-game.json](./174772-carrom-pool-disc-game.json) |
 | Carroñero | 385939 | [385939-carronero.json](./385939-carronero.json) |
 | Carrot | 184539 | [184539-carrot.json](./184539-carrot.json) |
+| Carrot Bounce | 402590 | [402590-carrot-bounce.json](./402590-carrot-bounce.json) |
 | Carrot Cake | 340810 | [340810-carrot-cake.json](./340810-carrot-cake.json) |
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
 | Carrot Clicker | 281536 | [281536-carrot-clicker.json](./281536-carrot-clicker.json) |
@@ -4077,6 +4079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Order of Ecclesia | 315317 | [315317-castlevania-order-of-ecclesia.json](./315317-castlevania-order-of-ecclesia.json) |
 | Castlevania: Order of Ecclesia - Zero Collection | 290245 | [290245-castlevania-order-of-ecclesia-zero-collection.json](./290245-castlevania-order-of-ecclesia-zero-collection.json) |
 | Castlevania: Order of Shadows | 1140 | [1140-castlevania-order-of-shadows.json](./1140-castlevania-order-of-shadows.json) |
+| Castlevania: Order of Shadows - Golden Belmont | 402641 | [402641-castlevania-order-of-shadows-golden-belmont.json](./402641-castlevania-order-of-shadows-golden-belmont.json) |
 | Castlevania: Part 1 | 398839 | [398839-castlevania-part-1.json](./398839-castlevania-part-1.json) |
 | Castlevania: Part 1 | 398842 | [398842-castlevania-part-1.json](./398842-castlevania-part-1.json) |
 | Castlevania: Part 2 | 398840 | [398840-castlevania-part-2.json](./398840-castlevania-part-2.json) |
@@ -4301,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Hits the Deck | 406209 | [406209-cat-hits-the-deck.json](./406209-cat-hits-the-deck.json) |
 | Cat Home | 349086 | [349086-cat-home.json](./349086-cat-home.json) |
 | Cat Hostel | 359070 | [359070-cat-hostel.json](./359070-cat-hostel.json) |
+| Cat in a Jam: City Secrets | 402602 | [402602-cat-in-a-jam-city-secrets.json](./402602-cat-in-a-jam-city-secrets.json) |
 | Cat in Japan | 95987 | [95987-cat-in-japan.json](./95987-cat-in-japan.json) |
 | Cat in Rain | 320764 | [320764-cat-in-rain.json](./320764-cat-in-rain.json) |
 | Cat in the Box | 132754 | [132754-cat-in-the-box.json](./132754-cat-in-the-box.json) |
@@ -11524,6 +11528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Sports Collection Upgrade Edition | 397887 | [397887-club-sports-collection-upgrade-edition.json](./397887-club-sports-collection-upgrade-edition.json) |
 | Club Sports Collection: Definitive Edition | 400198 | [400198-club-sports-collection-definitive-edition.json](./400198-club-sports-collection-definitive-edition.json) |
 | Club Sports Collection: Diamond Edition | 409962 | [409962-club-sports-collection-diamond-edition.json](./409962-club-sports-collection-diamond-edition.json) |
+| Club Sports Collection: Elite Edition | 402609 | [402609-club-sports-collection-elite-edition.json](./402609-club-sports-collection-elite-edition.json) |
 | Club Sports Collection: Legendary Edition | 407114 | [407114-club-sports-collection-legendary-edition.json](./407114-club-sports-collection-legendary-edition.json) |
 | Club Sports Collection: Premium Edition | 395676 | [395676-club-sports-collection-premium-edition.json](./395676-club-sports-collection-premium-edition.json) |
 | Club Sports Collection: Silver Edition | 411179 | [411179-club-sports-collection-silver-edition.json](./411179-club-sports-collection-silver-edition.json) |
@@ -20109,6 +20114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
 | Cthulhu: The Cosmic Abyss - R'lyeh Edition | 402122 | [402122-cthulhu-the-cosmic-abyss-rlyeh-edition.json](./402122-cthulhu-the-cosmic-abyss-rlyeh-edition.json) |
 | Cthulhu: The Cosmic Abyss - Sanity Skin Pack | 402540 | [402540-cthulhu-the-cosmic-abyss-sanity-skin-pack.json](./402540-cthulhu-the-cosmic-abyss-sanity-skin-pack.json) |
+| Cthulhu: The Cosmic Abyss - Shining Trapezohedron Quest | 402623 | [402623-cthulhu-the-cosmic-abyss-shining-trapezohedron-quest.json](./402623-cthulhu-the-cosmic-abyss-shining-trapezohedron-quest.json) |
 | Cthulhu's Catharsis | 120008 | [120008-cthulhus-catharsis.json](./120008-cthulhus-catharsis.json) |
 | Cthulhu's Reach: Devil Reef | 258013 | [258013-cthulhus-reach-devil-reef.json](./258013-cthulhus-reach-devil-reef.json) |
 | Cthulhu's Spelling Bee | 183813 | [183813-cthulhus-spelling-bee.json](./183813-cthulhus-spelling-bee.json) |
