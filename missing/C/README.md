@@ -7410,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessy | 92006 | [92006-chessy.json](./92006-chessy.json) |
 | Chest | 301274 | [301274-chest.json](./301274-chest.json) |
 | Chest & Blade | 420009 | [420009-chest-and-blade.json](./420009-chest-and-blade.json) |
+| Chest Buster | 410552 | [410552-chest-buster.json](./410552-chest-buster.json) |
 | Chest Looter: Cardimonsta Collection | 422807 | [422807-chest-looter-cardimonsta-collection.json](./422807-chest-looter-cardimonsta-collection.json) |
 | Chest Mate | 195240 | [195240-chest-mate.json](./195240-chest-mate.json) |
 | Chest Quest | 175189 | [175189-chest-quest.json](./175189-chest-quest.json) |
@@ -18228,6 +18229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent Arcania | 244550 | [244550-crescent-arcania.json](./244550-crescent-arcania.json) |
 | Crescent Bay | 87811 | [87811-crescent-bay.json](./87811-crescent-bay.json) |
 | Crescent Bloom | 215095 | [215095-crescent-bloom.json](./215095-crescent-bloom.json) |
+| Crescent Break | 410526 | [410526-crescent-break.json](./410526-crescent-break.json) |
 | Crescent Cauldron Cafe | 215517 | [215517-crescent-cauldron-cafe.json](./215517-crescent-cauldron-cafe.json) |
 | Crescent Coffee | 178788 | [178788-crescent-coffee.json](./178788-crescent-coffee.json) |
 | Crescent County | 305181 | [305181-crescent-county.json](./305181-crescent-county.json) |
@@ -19102,6 +19104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossroads: On a Just Path - Collector's Edition | 187306 | [187306-crossroads-on-a-just-path-collectors-edition.json](./187306-crossroads-on-a-just-path-collectors-edition.json) |
 | Crossroads: What Was Lost | 417713 | [417713-crossroads-what-was-lost.json](./417713-crossroads-what-was-lost.json) |
 | Crossroads: What Was Lost - Collector's Edition | 259504 | [259504-crossroads-what-was-lost-collectors-edition.json](./259504-crossroads-what-was-lost-collectors-edition.json) |
+| CrossSpell | 410537 | [410537-crossspell.json](./410537-crossspell.json) |
 | Crosstalk | 411196 | [411196-crosstalk.json](./411196-crosstalk.json) |
 | CrossTheRidge Evolution | 349657 | [349657-crosstheridge-evolution.json](./349657-crosstheridge-evolution.json) |
 | Crosstown | 389643 | [389643-crosstown.json](./389643-crosstown.json) |
