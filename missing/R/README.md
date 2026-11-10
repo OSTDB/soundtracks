@@ -1015,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok V: Returns | 188299 | [188299-ragnarok-v-returns.json](./188299-ragnarok-v-returns.json) |
 | Ragnarok Violet | 63653 | [63653-ragnarok-violet.json](./63653-ragnarok-violet.json) |
 | Ragnarok X: Next Generation | 153631 | [153631-ragnarok-x-next-generation.json](./153631-ragnarok-x-next-generation.json) |
+| Ragnarok Zero: Global | 411187 | [411187-ragnarok-zero-global.json](./411187-ragnarok-zero-global.json) |
 | Ragnarok: Back to Glory | 338348 | [338348-ragnarok-back-to-glory.json](./338348-ragnarok-back-to-glory.json) |
 | Ragnarok: Fallen Legends | 227932 | [227932-ragnarok-fallen-legends.json](./227932-ragnarok-fallen-legends.json) |
 | Ragnarok: Idle Poring | 110008 | [110008-ragnarok-idle-poring.json](./110008-ragnarok-idle-poring.json) |
