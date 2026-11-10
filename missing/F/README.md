@@ -6638,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Up | 264567 | [264567-first-up.json](./264567-first-up.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
 | First Wonder | 59812 | [59812-first-wonder.json](./59812-first-wonder.json) |
+| First Words Animals | 87472 | [87472-first-words-animals.json](./87472-first-words-animals.json) |
 | First Words Builder | 102494 | [102494-first-words-builder.json](./102494-first-words-builder.json) |
 | First Words Deluxe | 87207 | [87207-first-words-deluxe.json](./87207-first-words-deluxe.json) |
 | First Words Feelings | 103582 | [103582-first-words-feelings.json](./103582-first-words-feelings.json) |
@@ -12134,6 +12135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Solitaire: Girls | 340255 | [340255-free-solitaire-girls.json](./340255-free-solitaire-girls.json) |
 | Free Solitaire: Kids | 340254 | [340254-free-solitaire-kids.json](./340254-free-solitaire-kids.json) |
 | Free Solitaire: Nature | 340257 | [340257-free-solitaire-nature.json](./340257-free-solitaire-nature.json) |
+| Free Solitaire! | 89064 | [89064-free-solitaire.json](./89064-free-solitaire.json) |
 | Free Solo | 397301 | [397301-free-solo.json](./397301-free-solo.json) |
 | Free Solo: One Life | 161584 | [161584-free-solo-one-life.json](./161584-free-solo-one-life.json) |
 | Free Stars: Children of Infinity | 306085 | [306085-free-stars-children-of-infinity.json](./306085-free-stars-children-of-infinity.json) |
@@ -12168,6 +12170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freecell Battle King | 114907 | [114907-freecell-battle-king.json](./114907-freecell-battle-king.json) |
 | FreeCell Pro | 131132 | [131132-freecell-pro.json](./131132-freecell-pro.json) |
 | FreeCell Quest | 35409 | [35409-freecell-quest.json](./35409-freecell-quest.json) |
+| Freecell Royale | 89049 | [89049-freecell-royale.json](./89049-freecell-royale.json) |
 | Freecell Solitaire | 89168 | [89168-freecell-solitaire.json](./89168-freecell-solitaire.json) |
 | FreeCell Solitaire - Classic Deck Card Games | 88365 | [88365-freecell-solitaire-classic-deck-card-games.json](./88365-freecell-solitaire-classic-deck-card-games.json) |
 | FreeCell Solitaire Classic Card Game | 340247 | [340247-freecell-solitaire-classic-card-game.json](./340247-freecell-solitaire-classic-card-game.json) |
@@ -12176,6 +12179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freecell Solitaire Deluxe | 125682 | [125682-freecell-solitaire-deluxe.json](./125682-freecell-solitaire-deluxe.json) |
 | Freecell Ultimate | 88395 | [88395-freecell-ultimate.json](./88395-freecell-ultimate.json) |
 | FreeCell X | 100993 | [100993-freecell-x.json](./100993-freecell-x.json) |
+| FreeCell+ | 87461 | [87461-freecell.json](./87461-freecell.json) |
 | FreeChicken | 274800 | [274800-freechicken.json](./274800-freechicken.json) |
 | Freeciv | 73190 | [73190-freeciv.json](./73190-freeciv.json) |
 | FreeCraft Survival Pocket Edition | 338777 | [338777-freecraft-survival-pocket-edition.json](./338777-freecraft-survival-pocket-edition.json) |
