@@ -4873,6 +4873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RehAIbilitation | 257561 | [257561-rehaibilitation.json](./257561-rehaibilitation.json) |
 | ReHarmony | 277457 | [277457-reharmony.json](./277457-reharmony.json) |
 | Rehaunted | 410924 | [410924-rehaunted.json](./410924-rehaunted.json) |
+| Rehearsal Unheard | 397472 | [397472-rehearsal-unheard.json](./397472-rehearsal-unheard.json) |
 | Reheat: The Rescue | 307419 | [307419-reheat-the-rescue.json](./307419-reheat-the-rescue.json) |
 | Rehtona | 113857 | [113857-rehtona.json](./113857-rehtona.json) |
 | Rei | 231689 | [231689-rei.json](./231689-rei.json) |
@@ -5324,6 +5325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Bomber | 147839 | [147839-remote-bomber.json](./147839-remote-bomber.json) |
 | Remote Bot | 249534 | [249534-remote-bot.json](./249534-remote-bot.json) |
 | Remote Control | 388921 | [388921-remote-control.json](./388921-remote-control.json) |
+| Remote Control | 397466 | [397466-remote-control.json](./397466-remote-control.json) |
 | Remote Control | 41135 | [41135-remote-control.json](./41135-remote-control.json) |
 | Remote Control Dandy | 77880 | [77880-remote-control-dandy.json](./77880-remote-control-dandy.json) |
 | Remote Control Dandy SF | 72951 | [72951-remote-control-dandy-sf.json](./72951-remote-control-dandy-sf.json) |
@@ -10906,6 +10908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll Freak | 238807 | [238807-roll-freak.json](./238807-roll-freak.json) |
 | Roll in the Hole | 64670 | [64670-roll-in-the-hole.json](./64670-roll-in-the-hole.json) |
 | Roll It to the End | 244718 | [244718-roll-it-to-the-end.json](./244718-roll-it-to-the-end.json) |
+| Roll Mad | 397720 | [397720-roll-mad.json](./397720-roll-mad.json) |
 | Roll Me Home | 271381 | [271381-roll-me-home.json](./271381-roll-me-home.json) |
 | Roll of Fate | 184456 | [184456-roll-of-fate.json](./184456-roll-of-fate.json) |
 | Roll or Die | 382911 | [382911-roll-or-die.json](./382911-roll-or-die.json) |
@@ -11729,6 +11732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roscosmas Landing | 162080 | [162080-roscosmas-landing.json](./162080-roscosmas-landing.json) |
 | Rose | 236374 | [236374-rose.json](./236374-rose.json) |
 | Rose | 275122 | [275122-rose.json](./275122-rose.json) |
+| Rose | 397776 | [397776-rose.json](./397776-rose.json) |
 | Rose & Camellia | 58842 | [58842-rose-and-camellia.json](./58842-rose-and-camellia.json) |
 | Rose & Camellia & La-Mulana | 284843 | [284843-rose-and-camellia-and-la-mulana.json](./284843-rose-and-camellia-and-la-mulana.json) |
 | Rose & Camellia & La-Mulana | 284845 | [284845-rose-and-camellia-and-la-mulana.json](./284845-rose-and-camellia-and-la-mulana.json) |
