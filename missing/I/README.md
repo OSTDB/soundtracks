@@ -3829,6 +3829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal Runner | 39069 | [39069-infernal-runner.json](./39069-infernal-runner.json) |
 | Infernal Wave | 259645 | [259645-infernal-wave.json](./259645-infernal-wave.json) |
 | Infernal West | 415107 | [415107-infernal-west.json](./415107-infernal-west.json) |
+| Infernales | 59237 | [59237-infernales.json](./59237-infernales.json) |
 | Infernales: Circles of Hell | 89079 | [89079-infernales-circles-of-hell.json](./89079-infernales-circles-of-hell.json) |
 | Infernax | 122386 | [122386-infernax.json](./122386-infernax.json) |
 | Infernax: Deux or Die | 248094 | [248094-infernax-deux-or-die.json](./248094-infernax-deux-or-die.json) |
@@ -4056,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5648,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InuYasha: The Secret of the Cursed Mask | 43655 | [43655-inuyasha-the-secret-of-the-cursed-mask.json](./43655-inuyasha-the-secret-of-the-cursed-mask.json) |
 | Inv | 100134 | [100134-inv.json](./100134-inv.json) |
 | Inv+ | 94593 | [94593-inv.json](./94593-inv.json) |
+| Inva Noid | 58655 | [58655-inva-noid.json](./58655-inva-noid.json) |
 | Inva-taxi | 9076 | [9076-inva-taxi.json](./9076-inva-taxi.json) |
 | Invad3s | 14131 | [14131-invad3s.json](./14131-invad3s.json) |
 | Invade | 302216 | [302216-invade.json](./302216-invade.json) |
