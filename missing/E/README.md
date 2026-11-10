@@ -8751,6 +8751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Race | 176122 | [176122-extreme-race.json](./176122-extreme-race.json) |
 | Extreme Race | 186679 | [186679-extreme-race.json](./186679-extreme-race.json) |
 | Extreme Racing | 158420 | [158420-extreme-racing.json](./158420-extreme-racing.json) |
+| Extreme Racing Line | 407036 | [407036-extreme-racing-line.json](./407036-extreme-racing-line.json) |
 | Extreme Racing on Highway | 115582 | [115582-extreme-racing-on-highway.json](./115582-extreme-racing-on-highway.json) |
 | Extreme Rally Raid | 278523 | [278523-extreme-rally-raid.json](./278523-extreme-rally-raid.json) |
 | Extreme Reaction | 368148 | [368148-extreme-reaction.json](./368148-extreme-reaction.json) |
