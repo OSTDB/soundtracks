@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 | 263010 | [263010-16.json](./263010-16.json) |
 | 16 Balls: Pocket PachinGo! | 240342 | [240342-16-balls-pocket-pachingo.json](./240342-16-balls-pocket-pachingo.json) |
 | 16 Bit Arena | 35812 | [35812-16-bit-arena.json](./35812-16-bit-arena.json) |
+| 16 Bit Gold | 424839 | [424839-16-bit-gold.json](./424839-16-bit-gold.json) |
 | 16 Bit Rally | 182935 | [182935-16-bit-rally.json](./182935-16-bit-rally.json) |
 | 16 Brands Taiwan Mahjong 2 | 371335 | [371335-16-brands-taiwan-mahjong-2.json](./371335-16-brands-taiwan-mahjong-2.json) |
 | 16 Brands Taiwan Mahjong 3 | 371343 | [371343-16-brands-taiwan-mahjong-3.json](./371343-16-brands-taiwan-mahjong-3.json) |
@@ -1940,6 +1941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2236 A.D. Secretary Stories | 166936 | [166936-2236-a-d-secretary-stories.json](./166936-2236-a-d-secretary-stories.json) |
 | 2248: Number Puzzle Block Game | 208906 | [208906-2248-number-puzzle-block-game.json](./208906-2248-number-puzzle-block-game.json) |
 | 2260 | 106385 | [106385-2260.json](./106385-2260.json) |
+| 23 Days | 424840 | [424840-23-days.json](./424840-23-days.json) |
 | 23 Miles Deep | 172555 | [172555-23-miles-deep.json](./172555-23-miles-deep.json) |
 | 23 Seconds to 5 | 164309 | [164309-23-seconds-to-5.json](./164309-23-seconds-to-5.json) |
 | 23:61 | 403401 | [403401-23-61.json](./403401-23-61.json) |
@@ -3374,6 +3376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 70's Robot Anime Geppy-X | 79588 | [79588-70s-robot-anime-geppy-x.json](./79588-70s-robot-anime-geppy-x.json) |
 | 700,000 Games | 79223 | [79223-700-000-games.json](./79223-700-000-games.json) |
 | 70s-style Robot Anime Geppy-X | 392917 | [392917-70s-style-robot-anime-geppy-x.json](./392917-70s-style-robot-anime-geppy-x.json) |
+| 72 Seconds | 424841 | [424841-72-seconds.json](./424841-72-seconds.json) |
 | 720 Degrees | 388317 | [388317-720-degrees.json](./388317-720-degrees.json) |
 | 720 Degrees | 8580 | [8580-720-degrees.json](./8580-720-degrees.json) |
 | 723 | 180145 | [180145-723.json](./180145-723.json) |
@@ -3751,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 999999 | 263385 | [263385-999999.json](./263385-999999.json) |
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
 | 99Bullets | 84689 | [84689-99bullets.json](./84689-99bullets.json) |
+| 99Day Survival Guide | 424842 | [424842-99day-survival-guide.json](./424842-99day-survival-guide.json) |
 | 99Floors | 109093 | [109093-99floors.json](./109093-99floors.json) |
 | 99Rooms | 346335 | [346335-99rooms.json](./346335-99rooms.json) |
 | 99Seconds | 84691 | [84691-99seconds.json](./84691-99seconds.json) |
