@@ -11878,6 +11878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstories | 194289 | [194289-frankenstories.json](./194289-frankenstories.json) |
 | FrankenStorm TD | 236236 | [236236-frankenstorm-td.json](./236236-frankenstorm-td.json) |
 | Frankie and Suede Private Detectives | 310028 | [310028-frankie-and-suede-private-detectives.json](./310028-frankie-and-suede-private-detectives.json) |
+| Frankie Goes to Hollywood | 22519 | [22519-frankie-goes-to-hollywood.json](./22519-frankie-goes-to-hollywood.json) |
 | Frankie's FunClub | 340244 | [340244-frankies-funclub.json](./340244-frankies-funclub.json) |
 | Franklin the Turtle | 49400 | [49400-franklin-the-turtle.json](./49400-franklin-the-turtle.json) |
 | Franklin the Turtle Learns Math | 289742 | [289742-franklin-the-turtle-learns-math.json](./289742-franklin-the-turtle-learns-math.json) |
@@ -13121,6 +13122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Office Football: The Fourth Edition | 68050 | [68050-front-office-football-the-fourth-edition.json](./68050-front-office-football-the-fourth-edition.json) |
 | Front Page Sports Football | 10337 | [10337-front-page-sports-football.json](./10337-front-page-sports-football.json) |
 | Front Page Sports Football Pro | 22603 | [22603-front-page-sports-football-pro.json](./22603-front-page-sports-football-pro.json) |
+| Front Page Sports Football Pro '96 | 22605 | [22605-front-page-sports-football-pro-96.json](./22605-front-page-sports-football-pro-96.json) |
 | Front Page Sports Football Pro '97 | 22606 | [22606-front-page-sports-football-pro-97.json](./22606-front-page-sports-football-pro-97.json) |
 | Front Page Sports Football Pro '98 | 22607 | [22607-front-page-sports-football-pro-98.json](./22607-front-page-sports-football-pro-98.json) |
 | Front Page Sports: Baseball '94 | 68960 | [68960-front-page-sports-baseball-94.json](./68960-front-page-sports-baseball-94.json) |
