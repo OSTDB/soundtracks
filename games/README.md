@@ -2,11 +2,11 @@
 
 [← Back to OSTDB](../README.md)
 
-3,012 official soundtracks. Pick a letter:
+3,026 official soundtracks. Pick a letter:
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 165 games | 143 games | 151 games | 174 games | 54 games | 130 games | 96 games |
+| 165 games | 144 games | 152 games | 176 games | 55 games | 131 games | 97 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -14,7 +14,7 @@
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 45 games | 106 games | 3 games | 130 games | 304 games | 286 games | 38 games |
+| 45 games | 106 games | 3 games | 133 games | 307 games | 287 games | 38 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
@@ -22,4 +22,4 @@
 
 ---
 
-_Last updated 2026-11-10T18:41:08.623Z_
+_Last updated 2026-11-10T21:11:59.386Z_
