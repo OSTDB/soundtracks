@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy At War | 292976 | [292976-galaxy-at-war.json](./292976-galaxy-at-war.json) |
 | Galaxy at War Online | 39173 | [39173-galaxy-at-war-online.json](./39173-galaxy-at-war-online.json) |
 | Galaxy Attack | 14088 | [14088-galaxy-attack.json](./14088-galaxy-attack.json) |
+| Galaxy Attack: Alien Shooter | 87668 | [87668-galaxy-attack-alien-shooter.json](./87668-galaxy-attack-alien-shooter.json) |
 | Galaxy Attack: Space Shooter | 89141 | [89141-galaxy-attack-space-shooter.json](./89141-galaxy-attack-space-shooter.json) |
 | Galaxy Ball | 96882 | [96882-galaxy-ball.json](./96882-galaxy-ball.json) |
 | Galaxy Ball Defender | 96886 | [96886-galaxy-ball-defender.json](./96886-galaxy-ball-defender.json) |
@@ -1859,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
 | Gar's Den | 178462 | [178462-gars-den.json](./178462-gars-den.json) |
 | Garage | 108875 | [108875-garage.json](./108875-garage.json) |
+| Garage | 95027 | [95027-garage.json](./95027-garage.json) |
 | Garage Apocalypse | 180344 | [180344-garage-apocalypse.json](./180344-garage-apocalypse.json) |
 | Garage Chaos | 420481 | [420481-garage-chaos.json](./420481-garage-chaos.json) |
 | Garage Escape | 74709 | [74709-garage-escape.json](./74709-garage-escape.json) |
@@ -2681,6 +2683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekiden Youitan: Ep.1 | 83244 | [83244-gekiden-youitan-ep-1.json](./83244-gekiden-youitan-ep-1.json) |
 | Gekido | 4128 | [4128-gekido.json](./4128-gekido.json) |
 | Gekido Advance: Kintaro's Revenge | 6418 | [6418-gekido-advance-kintaros-revenge.json](./6418-gekido-advance-kintaros-revenge.json) |
+| Gekido: Kintaro's Revenge | 89771 | [89771-gekido-kintaros-revenge.json](./89771-gekido-kintaros-revenge.json) |
 | Gekifu Bakegyamon: Ayakashi Fighting | 61346 | [61346-gekifu-bakegyamon-ayakashi-fighting.json](./61346-gekifu-bakegyamon-ayakashi-fighting.json) |
 | Gekihaden | 259417 | [259417-gekihaden.json](./259417-gekihaden.json) |
 | Gekimetsu! Grand Shocker | 385527 | [385527-gekimetsu-grand-shocker.json](./385527-gekimetsu-grand-shocker.json) |
@@ -6273,6 +6276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God, Save the Queens! | 406682 | [406682-god-save-the-queens.json](./406682-god-save-the-queens.json) |
 | God: The Game | 264872 | [264872-god-the-game.json](./264872-god-the-game.json) |
 | God'n Spy Add-on: Power & Revolution 2023 Edition | 256989 | [256989-godn-spy-add-on-power-and-revolution-2023-edition.json](./256989-godn-spy-add-on-power-and-revolution-2023-edition.json) |
+| God's Basement | 87965 | [87965-gods-basement.json](./87965-gods-basement.json) |
 | God’s Blessing on That Desire World! | 405872 | [405872-god-s-blessing-on-that-desire-world.json](./405872-god-s-blessing-on-that-desire-world.json) |
 | God's Continent | 365355 | [365355-gods-continent.json](./365355-gods-continent.json) |
 | God's Death | 32747 | [32747-gods-death.json](./32747-gods-death.json) |
