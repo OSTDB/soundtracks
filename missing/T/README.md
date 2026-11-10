@@ -2963,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taz Cebula's Brides of Vampira: The Circle of Seven | 273402 | [273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json](./273402-taz-cebulas-brides-of-vampira-the-circle-of-seven.json) |
 | Taz Express | 3345 | [3345-taz-express.json](./3345-taz-express.json) |
 | Taz in Escape From Mars | 8065 | [8065-taz-in-escape-from-mars.json](./8065-taz-in-escape-from-mars.json) |
+| Taz-Mania | 158990 | [158990-taz-mania.json](./158990-taz-mania.json) |
 | Taz-Mania | 19137 | [19137-taz-mania.json](./19137-taz-mania.json) |
 | Taz-Mania | 341846 | [341846-taz-mania.json](./341846-taz-mania.json) |
 | Taz-Mania | 365672 | [365672-taz-mania.json](./365672-taz-mania.json) |
@@ -3973,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Run 2 | 7436 | [7436-temple-run-2.json](./7436-temple-run-2.json) |
 | Temple Run 3 | 380808 | [380808-temple-run-3.json](./380808-temple-run-3.json) |
 | Temple Run VR | 358824 | [358824-temple-run-vr.json](./358824-temple-run-vr.json) |
+| Temple Run: Brave | 64080 | [64080-temple-run-brave.json](./64080-temple-run-brave.json) |
 | Temple Run: Idle Explorers | 252952 | [252952-temple-run-idle-explorers.json](./252952-temple-run-idle-explorers.json) |
 | Temple Run: Oz | 63613 | [63613-temple-run-oz.json](./63613-temple-run-oz.json) |
 | Temple Run: Puzzle Adventure | 174571 | [174571-temple-run-puzzle-adventure.json](./174571-temple-run-puzzle-adventure.json) |
@@ -11237,6 +11239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horror at Highrook | 295380 | [295380-the-horror-at-highrook.json](./295380-the-horror-at-highrook.json) |
 | The Horror of H.H. Holmes | 116580 | [116580-the-horror-of-h-h-holmes.json](./116580-the-horror-of-h-h-holmes.json) |
 | The Horror of Oz | 208440 | [208440-the-horror-of-oz.json](./208440-the-horror-of-oz.json) |
+| The Horror of Salazar House | 136521 | [136521-the-horror-of-salazar-house.json](./136521-the-horror-of-salazar-house.json) |
 | The Horror Within | 255712 | [255712-the-horror-within.json](./255712-the-horror-within.json) |
 | The Horrors at Castle Wülhein | 339197 | [339197-the-horrors-at-castle-wulhein.json](./339197-the-horrors-at-castle-wulhein.json) |
 | The Horrors of the Soviet Apartment | 342276 | [342276-the-horrors-of-the-soviet-apartment.json](./342276-the-horrors-of-the-soviet-apartment.json) |
@@ -16003,6 +16006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rack | 207808 | [207808-the-rack.json](./207808-the-rack.json) |
 | The Radiants | 144138 | [144138-the-radiants.json](./144138-the-radiants.json) |
 | The Radio Chaser | 292074 | [292074-the-radio-chaser.json](./292074-the-radio-chaser.json) |
+| The Radio Station | 180655 | [180655-the-radio-station.json](./180655-the-radio-station.json) |
 | The Radio Tower | 373894 | [373894-the-radio-tower.json](./373894-the-radio-tower.json) |
 | The Radio Wave Bureau | 280433 | [280433-the-radio-wave-bureau.json](./280433-the-radio-wave-bureau.json) |
 | The Raft | 36788 | [36788-the-raft.json](./36788-the-raft.json) |
@@ -18427,6 +18431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Three-Body Problem | 135694 | [135694-the-three-body-problem.json](./135694-the-three-body-problem.json) |
 | The Threshold Dweller | 195835 | [195835-the-threshold-dweller.json](./195835-the-threshold-dweller.json) |
 | The Thrill of Combat | 242925 | [242925-the-thrill-of-combat.json](./242925-the-thrill-of-combat.json) |
+| The Thrill of the Fight | 174558 | [174558-the-thrill-of-the-fight.json](./174558-the-thrill-of-the-fight.json) |
 | The Thrill of the Fight 2 | 329781 | [329781-the-thrill-of-the-fight-2.json](./329781-the-thrill-of-the-fight-2.json) |
 | The Throne | 144329 | [144329-the-throne.json](./144329-the-throne.json) |
 | The Throne | 302117 | [302117-the-throne.json](./302117-the-throne.json) |
@@ -20038,6 +20043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wrath of Sona | 275622 | [275622-the-wrath-of-sona.json](./275622-the-wrath-of-sona.json) |
 | The Wrath of the Erlik | 189250 | [189250-the-wrath-of-the-erlik.json](./189250-the-wrath-of-the-erlik.json) |
 | The Wrath of the Goose King | 286051 | [286051-the-wrath-of-the-goose-king.json](./286051-the-wrath-of-the-goose-king.json) |
+| The Wreck | 185703 | [185703-the-wreck.json](./185703-the-wreck.json) |
 | The Wreck That Should Not Be | 403016 | [403016-the-wreck-that-should-not-be.json](./403016-the-wreck-that-should-not-be.json) |
 | The Wreckless | 54199 | [54199-the-wreckless.json](./54199-the-wreckless.json) |
 | The Wrestling Code | 159104 | [159104-the-wrestling-code.json](./159104-the-wrestling-code.json) |
@@ -26899,6 +26905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn | 94720 | [94720-torn.json](./94720-torn.json) |
 | Torn Apart | 108097 | [108097-torn-apart.json](./108097-torn-apart.json) |
 | Torn Asunder | 108018 | [108018-torn-asunder.json](./108018-torn-asunder.json) |
+| Torn Away | 159685 | [159685-torn-away.json](./159685-torn-away.json) |
 | Torn Earth | 114803 | [114803-torn-earth.json](./114803-torn-earth.json) |
 | Torn Familjen | 55687 | [55687-torn-familjen.json](./55687-torn-familjen.json) |
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
