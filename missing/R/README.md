@@ -1410,6 +1410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Islands | 194448 | [194448-rainbow-islands.json](./194448-rainbow-islands.json) |
 | Rainbow Islands CS | 407279 | [407279-rainbow-islands-cs.json](./407279-rainbow-islands-cs.json) |
 | Rainbow Islands Extra | 45749 | [45749-rainbow-islands-extra.json](./45749-rainbow-islands-extra.json) |
+| Rainbow Islands Revolution | 22598 | [22598-rainbow-islands-revolution.json](./22598-rainbow-islands-revolution.json) |
 | Rainbow Islands: Bubble Bobble 2 | 194446 | [194446-rainbow-islands-bubble-bobble-2.json](./194446-rainbow-islands-bubble-bobble-2.json) |
 | Rainbow Islands: Candyland | 78444 | [78444-rainbow-islands-candyland.json](./78444-rainbow-islands-candyland.json) |
 | Rainbow Islands: Putty's Party | 37496 | [37496-rainbow-islands-puttys-party.json](./37496-rainbow-islands-puttys-party.json) |
