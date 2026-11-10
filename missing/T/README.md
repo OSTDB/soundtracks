@@ -2879,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavernier | 31587 | [31587-tavernier.json](./31587-tavernier.json) |
 | Taverntasia | 396720 | [396720-taverntasia.json](./396720-taverntasia.json) |
 | Tavolga-12 | 193255 | [193255-tavolga-12.json](./193255-tavolga-12.json) |
+| Tavrn’s Takedown | 395913 | [395913-tavrn-s-takedown.json](./395913-tavrn-s-takedown.json) |
 | Tavu | 276823 | [276823-tavu.json](./276823-tavu.json) |
 | Tavuti | 290640 | [290640-tavuti.json](./290640-tavuti.json) |
 | Tawako The Forest Hedgehog | 207188 | [207188-tawako-the-forest-hedgehog.json](./207188-tawako-the-forest-hedgehog.json) |
@@ -7128,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Boyd File | 58826 | [58826-the-boyd-file.json](./58826-the-boyd-file.json) |
 | The Boykisser Mod | 369890 | [369890-the-boykisser-mod.json](./369890-the-boykisser-mod.json) |
 | The Boys Escape | 305624 | [305624-the-boys-escape.json](./305624-the-boys-escape.json) |
+| The Boys: Trigger Warning | 395403 | [395403-the-boys-trigger-warning.json](./395403-the-boys-trigger-warning.json) |
 | The Bragger's Club | 304237 | [304237-the-braggers-club.json](./304237-the-braggers-club.json) |
 | The Brain Blasters | 14612 | [14612-the-brain-blasters.json](./14612-the-brain-blasters.json) |
 | The Brain's Brain Game | 307913 | [307913-the-brains-brain-game.json](./307913-the-brains-brain-game.json) |
@@ -28651,6 +28653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Story Survivor | 231890 | [231890-toy-story-survivor.json](./231890-toy-story-survivor.json) |
 | Toy Story Tamagotchi | 230076 | [230076-toy-story-tamagotchi.json](./230076-toy-story-tamagotchi.json) |
 | Toy Story: Free! Interactive DVD-ROM | 325573 | [325573-toy-story-free-interactive-dvd-rom.json](./325573-toy-story-free-interactive-dvd-rom.json) |
+| Toy Story: Retro Roundup! | 404006 | [404006-toy-story-retro-roundup.json](./404006-toy-story-retro-roundup.json) |
 | Toy Stunt Bike | 85452 | [85452-toy-stunt-bike.json](./85452-toy-stunt-bike.json) |
 | Toy Stunt Bike 2 | 65396 | [65396-toy-stunt-bike-2.json](./65396-toy-stunt-bike-2.json) |
 | Toy Stunt Bike: Tiptop's Trials | 106979 | [106979-toy-stunt-bike-tiptops-trials.json](./106979-toy-stunt-bike-tiptops-trials.json) |
@@ -31073,6 +31076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Dark of the Moon | 259166 | [259166-transformers-dark-of-the-moon.json](./259166-transformers-dark-of-the-moon.json) |
 | Transformers: Dark of the Moon - Autobots | 141825 | [141825-transformers-dark-of-the-moon-autobots.json](./141825-transformers-dark-of-the-moon-autobots.json) |
 | Transformers: Dark of the Moon - Decepticons | 141826 | [141826-transformers-dark-of-the-moon-decepticons.json](./141826-transformers-dark-of-the-moon-decepticons.json) |
+| Transformers: Dark of the Moon - Stealth Force Edition | 258867 | [258867-transformers-dark-of-the-moon-stealth-force-edition.json](./258867-transformers-dark-of-the-moon-stealth-force-edition.json) |
 | Transformers: Dark of the Moon - Stealth Force Edition | 51021 | [51021-transformers-dark-of-the-moon-stealth-force-edition.json](./51021-transformers-dark-of-the-moon-stealth-force-edition.json) |
 | Transformers: Decepticons | 206749 | [206749-transformers-decepticons.json](./206749-transformers-decepticons.json) |
 | Transformers: Earth Wars | 58345 | [58345-transformers-earth-wars.json](./58345-transformers-earth-wars.json) |
@@ -34903,6 +34907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Point Hospital: Retro Items Pack | 223543 | [223543-two-point-hospital-retro-items-pack.json](./223543-two-point-hospital-retro-items-pack.json) |
 | Two Point Hospital: Speedy Recovery | 193142 | [193142-two-point-hospital-speedy-recovery.json](./193142-two-point-hospital-speedy-recovery.json) |
 | Two Point Museum | 313595 | [313595-two-point-museum.json](./313595-two-point-museum.json) |
+| Two Point Museum: Arty-Facts | 400819 | [400819-two-point-museum-arty-facts.json](./400819-two-point-museum-arty-facts.json) |
 | Two Point Museum: Explorer Edition | 324779 | [324779-two-point-museum-explorer-edition.json](./324779-two-point-museum-explorer-edition.json) |
 | Two Point Museum: Explorer Upgrade Pack | 368783 | [368783-two-point-museum-explorer-upgrade-pack.json](./368783-two-point-museum-explorer-upgrade-pack.json) |
 | Two Point Museum: Fantasy Finds | 351182 | [351182-two-point-museum-fantasy-finds.json](./351182-two-point-museum-fantasy-finds.json) |
