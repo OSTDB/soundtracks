@@ -7790,6 +7790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Splash | 94592 | [94592-flash-splash.json](./94592-flash-splash.json) |
 | Flash Tennis | 312805 | [312805-flash-tennis.json](./312805-flash-tennis.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
+| Flashback | 185854 | [185854-flashback.json](./185854-flashback.json) |
 | Flashback | 19833 | [19833-flashback.json](./19833-flashback.json) |
 | Flashback | 236148 | [236148-flashback.json](./236148-flashback.json) |
 | Flashback 2 | 146699 | [146699-flashback-2.json](./146699-flashback-2.json) |
@@ -10256,6 +10257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForeVR Bowl | 148381 | [148381-forevr-bowl.json](./148381-forevr-bowl.json) |
 | ForeVR Cornhole | 214608 | [214608-forevr-cornhole.json](./214608-forevr-cornhole.json) |
 | ForeVR Pool | 225735 | [225735-forevr-pool.json](./225735-forevr-pool.json) |
+| Forewarned | 157027 | [157027-forewarned.json](./157027-forewarned.json) |
 | Forex Trading Master: Simulator | 111000 | [111000-forex-trading-master-simulator.json](./111000-forex-trading-master-simulator.json) |
 | Forfeit | 217359 | [217359-forfeit.json](./217359-forfeit.json) |
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
