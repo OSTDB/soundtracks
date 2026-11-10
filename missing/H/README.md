@@ -2545,6 +2545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasbro Family Fun Pack | 78334 | [78334-hasbro-family-fun-pack.json](./78334-hasbro-family-fun-pack.json) |
 | Hasbro Family Fun Pack - Conquest Edition | 118454 | [118454-hasbro-family-fun-pack-conquest-edition.json](./118454-hasbro-family-fun-pack-conquest-edition.json) |
 | Hasbro Family Fun Pack Super Edition | 99528 | [99528-hasbro-family-fun-pack-super-edition.json](./99528-hasbro-family-fun-pack-super-edition.json) |
+| Hasbro Family Game Night | 4908 | [4908-hasbro-family-game-night.json](./4908-hasbro-family-game-night.json) |
 | Hasbro Family Game Night 2 | 50606 | [50606-hasbro-family-game-night-2.json](./50606-hasbro-family-game-night-2.json) |
 | Hasbro Family Game Night 3 | 47434 | [47434-hasbro-family-game-night-3.json](./47434-hasbro-family-game-night-3.json) |
 | Hasbro Family Game Night: Battleship | 24303 | [24303-hasbro-family-game-night-battleship.json](./24303-hasbro-family-game-night-battleship.json) |
