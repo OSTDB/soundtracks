@@ -6965,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Takes the Ball | 151586 | [151586-it-takes-the-ball.json](./151586-it-takes-the-ball.json) |
 | It Takes Two Girls | 190073 | [190073-it-takes-two-girls.json](./190073-it-takes-two-girls.json) |
 | It Takes Two to Tangle | 321129 | [321129-it-takes-two-to-tangle.json](./321129-it-takes-two-to-tangle.json) |
+| It Thinks! | 417229 | [417229-it-thinks.json](./417229-it-thinks.json) |
 | It Tolls for Thee | 154756 | [154756-it-tolls-for-thee.json](./154756-it-tolls-for-thee.json) |
 | It Was a Human | 218522 | [218522-it-was-a-human.json](./218522-it-was-a-human.json) |
 | It Was Beautiful | 380618 | [380618-it-was-beautiful.json](./380618-it-was-beautiful.json) |
