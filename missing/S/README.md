@@ -2645,6 +2645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SawCon 64 | 262761 | [262761-sawcon-64.json](./262761-sawcon-64.json) |
 | Sawdust | 219612 | [219612-sawdust.json](./219612-sawdust.json) |
 | Sawdust | 314039 | [314039-sawdust.json](./314039-sawdust.json) |
+| Sawkoban | 76262 | [76262-sawkoban.json](./76262-sawkoban.json) |
 | Sawmania | 355124 | [355124-sawmania.json](./355124-sawmania.json) |
 | Sawmill | 312894 | [312894-sawmill.json](./312894-sawmill.json) |
 | Sawmill Simulator | 389735 | [389735-sawmill-simulator.json](./389735-sawmill-simulator.json) |
@@ -24977,6 +24978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand O'Food 3 | 87189 | [87189-stand-ofood-3.json](./87189-stand-ofood-3.json) |
 | Stand O'Food City: Virtual Frenzy | 88628 | [88628-stand-ofood-city-virtual-frenzy.json](./88628-stand-ofood-city-virtual-frenzy.json) |
 | Stand of Arms | 159527 | [159527-stand-of-arms.json](./159527-stand-of-arms.json) |
+| Stand Out | 76352 | [76352-stand-out.json](./76352-stand-out.json) |
 | Stand Out: VR Battle Royale | 115729 | [115729-stand-out-vr-battle-royale.json](./115729-stand-out-vr-battle-royale.json) |
 | Stand Your Ground | 259098 | [259098-stand-your-ground.json](./259098-stand-your-ground.json) |
 | Stand Your Ground | 266971 | [266971-stand-your-ground.json](./266971-stand-your-ground.json) |
@@ -26718,6 +26720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars Blast | 243088 | [243088-stars-blast.json](./243088-stars-blast.json) |
 | Stars Collapse | 302672 | [302672-stars-collapse.json](./302672-stars-collapse.json) |
 | Stars Commander | 311532 | [311532-stars-commander.json](./311532-stars-commander.json) |
+| Stars End | 76288 | [76288-stars-end.json](./76288-stars-end.json) |
 | Stars Era: Abyss Frontier | 289303 | [289303-stars-era-abyss-frontier.json](./289303-stars-era-abyss-frontier.json) |
 | Stars Era: Lost Stars | 128238 | [128238-stars-era-lost-stars.json](./128238-stars-era-lost-stars.json) |
 | Stars Era: The Final Defence | 320241 | [320241-stars-era-the-final-defence.json](./320241-stars-era-the-final-defence.json) |
@@ -28526,6 +28529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop Dead | 254037 | [254037-stop-dead.json](./254037-stop-dead.json) |
 | Stop Online: Battle of Words | 34353 | [34353-stop-online-battle-of-words.json](./34353-stop-online-battle-of-words.json) |
 | Stop Rod | 291204 | [291204-stop-rod.json](./291204-stop-rod.json) |
+| Stop Santa - Tower Defense | 76275 | [76275-stop-santa-tower-defense.json](./76275-stop-santa-tower-defense.json) |
 | Stop Sign Sprint | 263371 | [263371-stop-sign-sprint.json](./263371-stop-sign-sprint.json) |
 | Stop Slapping Tenshi! | 330364 | [330364-stop-slapping-tenshi.json](./330364-stop-slapping-tenshi.json) |
 | Stop Stress: A Day of Fury | 67253 | [67253-stop-stress-a-day-of-fury.json](./67253-stop-stress-a-day-of-fury.json) |
@@ -29586,6 +29590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Harrier | 266328 | [266328-street-harrier.json](./266328-street-harrier.json) |
 | Street Hawk | 26215 | [26215-street-hawk.json](./26215-street-hawk.json) |
 | Street Heat | 40434 | [40434-street-heat.json](./40434-street-heat.json) |
+| Street Heat | 75998 | [75998-street-heat.json](./75998-street-heat.json) |
 | Street Hero | 150950 | [150950-street-hero.json](./150950-street-hero.json) |
 | Street Hero | 288129 | [288129-street-hero.json](./288129-street-hero.json) |
 | Street Hero | 46300 | [46300-street-hero.json](./46300-street-hero.json) |
@@ -29868,6 +29873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Suit Zero: Director's Cut | 9465 | [9465-strike-suit-zero-directors-cut.json](./9465-strike-suit-zero-directors-cut.json) |
 | Strike Team Delta | 293668 | [293668-strike-team-delta.json](./293668-strike-team-delta.json) |
 | Strike Team Gladius | 142274 | [142274-strike-team-gladius.json](./142274-strike-team-gladius.json) |
+| Strike Team Hydra | 76365 | [76365-strike-team-hydra.json](./76365-strike-team-hydra.json) |
 | Strike Team Online | 174838 | [174838-strike-team-online.json](./174838-strike-team-online.json) |
 | Strike the Goal: Score Goals | 175074 | [175074-strike-the-goal-score-goals.json](./175074-strike-the-goal-score-goals.json) |
 | Strike the Planets! | 226765 | [226765-strike-the-planets.json](./226765-strike-the-planets.json) |
