@@ -1171,8 +1171,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Don't Know Jack | 5304 | [5304-you-dont-know-jack.json](./5304-you-dont-know-jack.json) |
 | You Don't Know Jack Movies | 16785 | [16785-you-dont-know-jack-movies.json](./16785-you-dont-know-jack-movies.json) |
 | You Don't Know Jack Presented by Masatoshi Hamada | 391562 | [391562-you-dont-know-jack-presented-by-masatoshi-hamada.json](./391562-you-dont-know-jack-presented-by-masatoshi-hamada.json) |
+| You Don't Know Jack Sports | 16786 | [16786-you-dont-know-jack-sports.json](./16786-you-dont-know-jack-sports.json) |
 | You Don't Know Jack Television | 16787 | [16787-you-dont-know-jack-television.json](./16787-you-dont-know-jack-television.json) |
 | You Don't Know Jack Vol. 2 | 16782 | [16782-you-dont-know-jack-vol-2.json](./16782-you-dont-know-jack-vol-2.json) |
+| You Don't Know Jack Vol. 4: The Ride | 16784 | [16784-you-dont-know-jack-vol-4-the-ride.json](./16784-you-dont-know-jack-vol-4-the-ride.json) |
 | You Don't Know Jack Vol. 6: The Lost Gold | 16789 | [16789-you-dont-know-jack-vol-6-the-lost-gold.json](./16789-you-dont-know-jack-vol-6-the-lost-gold.json) |
 | You Don't Know Jack: 5th Dementia | 73383 | [73383-you-dont-know-jack-5th-dementia.json](./73383-you-dont-know-jack-5th-dementia.json) |
 | You Don't Know Jack: Jumbo | 205804 | [205804-you-dont-know-jack-jumbo.json](./205804-you-dont-know-jack-jumbo.json) |
