@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camo Sniper | 337157 | [337157-camo-sniper.json](./337157-camo-sniper.json) |
 | Camouflet | 219734 | [219734-camouflet.json](./219734-camouflet.json) |
 | Camp 1 | 134815 | [134815-camp-1.json](./134815-camp-1.json) |
+| Camp Buddy | 127114 | [127114-camp-buddy.json](./127114-camp-buddy.json) |
 | Camp Buddy: Scoutmaster Season – Side Stories | 387576 | [387576-camp-buddy-scoutmaster-season-side-stories.json](./387576-camp-buddy-scoutmaster-season-side-stories.json) |
 | Camp Cadaver | 56024 | [56024-camp-cadaver.json](./56024-camp-cadaver.json) |
 | Camp California | 37590 | [37590-camp-california.json](./37590-camp-california.json) |
@@ -8899,6 +8900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono | 306284 | [306284-chrono.json](./306284-chrono.json) |
 | Chrono | 341329 | [341329-chrono.json](./341329-chrono.json) |
 | Chrono Alice | 183155 | [183155-chrono-alice.json](./183155-chrono-alice.json) |
+| Chrono Ark | 126745 | [126745-chrono-ark.json](./126745-chrono-ark.json) |
 | Chrono Ark: Deluxe Edition | 367728 | [367728-chrono-ark-deluxe-edition.json](./367728-chrono-ark-deluxe-edition.json) |
 | Chrono Ark: High Roller | 314900 | [314900-chrono-ark-high-roller.json](./314900-chrono-ark-high-roller.json) |
 | Chrono Ark: Summer Twilight | 310011 | [310011-chrono-ark-summer-twilight.json](./310011-chrono-ark-summer-twilight.json) |
@@ -19103,6 +19105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownless Abyss | 251767 | [251767-crownless-abyss.json](./251767-crownless-abyss.json) |
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
 | Crowns and Pawns: Amber Road | 417328 | [417328-crowns-and-pawns-amber-road.json](./417328-crowns-and-pawns-amber-road.json) |
+| Crowns and Pawns: Kingdom of Deceit | 121704 | [121704-crowns-and-pawns-kingdom-of-deceit.json](./121704-crowns-and-pawns-kingdom-of-deceit.json) |
 | Crowns Golf | 133532 | [133532-crowns-golf.json](./133532-crowns-golf.json) |
 | Crowns Golf In Hawaii | 65617 | [65617-crowns-golf-in-hawaii.json](./65617-crowns-golf-in-hawaii.json) |
 | Crowns of Medieval Europe | 422776 | [422776-crowns-of-medieval-europe.json](./422776-crowns-of-medieval-europe.json) |
