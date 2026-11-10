@@ -1497,6 +1497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fame Quest | 47190 | [47190-fame-quest.json](./47190-fame-quest.json) |
 | Famicom Bunko: Hajimari no Mori | 42245 | [42245-famicom-bunko-hajimari-no-mori.json](./42245-famicom-bunko-hajimari-no-mori.json) |
 | Famicom Detective Club: The Girl Who Stands Behind | 122245 | [122245-famicom-detective-club-the-girl-who-stands-behind.json](./122245-famicom-detective-club-the-girl-who-stands-behind.json) |
+| Famicom Detective Club: The Missing Heir | 122244 | [122244-famicom-detective-club-the-missing-heir.json](./122244-famicom-detective-club-the-missing-heir.json) |
 | Famicom Doubutsu Seitai Zukan! Katte ni Shirokuma: Mori wo Sukue no Maki! | 48501 | [48501-famicom-doubutsu-seitai-zukan-katte-ni-shirokuma-mori-wo-sukue-no-maki.json](./48501-famicom-doubutsu-seitai-zukan-katte-ni-shirokuma-mori-wo-sukue-no-maki.json) |
 | Famicom Fighters | 307666 | [307666-famicom-fighters.json](./307666-famicom-fighters.json) |
 | Famicom Grand Prix II: 3D Hot Rally | 41256 | [41256-famicom-grand-prix-ii-3d-hot-rally.json](./41256-famicom-grand-prix-ii-3d-hot-rally.json) |
@@ -8434,6 +8435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Life in Other-World | 156531 | [156531-floating-life-in-other-world.json](./156531-floating-life-in-other-world.json) |
 | Floating Life Record | 264663 | [264663-floating-life-record.json](./264663-floating-life-record.json) |
 | Floating Material -The Hill Where the Star Born.- | 208278 | [208278-floating-material-the-hill-where-the-star-born.json](./208278-floating-material-the-hill-where-the-star-born.json) |
+| Floating Point | 13219 | [13219-floating-point.json](./13219-floating-point.json) |
 | Floating Point Leviathan | 142152 | [142152-floating-point-leviathan.json](./142152-floating-point-leviathan.json) |
 | Floating Runner: Quest for the 7 Crystals | 44943 | [44943-floating-runner-quest-for-the-7-crystals.json](./44943-floating-runner-quest-for-the-7-crystals.json) |
 | Floating Sandbox | 167707 | [167707-floating-sandbox.json](./167707-floating-sandbox.json) |
