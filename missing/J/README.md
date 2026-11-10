@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jericho Road | 14135 | [14135-jericho-road.json](./14135-jericho-road.json) |
 | Jericho's Prophecies | 132368 | [132368-jerichos-prophecies.json](./132368-jerichos-prophecies.json) |
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
+| Jerico Proxyma: Zsiványűr | 408443 | [408443-jerico-proxyma-zsivanyur.json](./408443-jerico-proxyma-zsivanyur.json) |
 | Jerking Off in Class Simulator | 367843 | [367843-jerking-off-in-class-simulator.json](./367843-jerking-off-in-class-simulator.json) |
 | Jerkmate: Ranked | 331083 | [331083-jerkmate-ranked.json](./331083-jerkmate-ranked.json) |
 | Jerma & Otto: The Curse of the Late Streamer | 176105 | [176105-jerma-and-otto-the-curse-of-the-late-streamer.json](./176105-jerma-and-otto-the-curse-of-the-late-streamer.json) |
@@ -3888,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk | 122251 | [122251-junk.json](./122251-junk.json) |
 | Junk Architect | 149189 | [149189-junk-architect.json](./149189-junk-architect.json) |
 | Junk Ark | 420328 | [420328-junk-ark.json](./420328-junk-ark.json) |
+| Junk Force | 408455 | [408455-junk-force.json](./408455-junk-force.json) |
 | Junk Jack | 26307 | [26307-junk-jack.json](./26307-junk-jack.json) |
 | Junk Jack Retro | 89003 | [89003-junk-jack-retro.json](./89003-junk-jack-retro.json) |
 | Junk on Wheels | 126316 | [126316-junk-on-wheels.json](./126316-junk-on-wheels.json) |
