@@ -10214,6 +10214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna's Cathouse | 331220 | [331220-lunas-cathouse.json](./331220-lunas-cathouse.json) |
 | Luna's Diary | 382532 | [382532-lunas-diary.json](./382532-lunas-diary.json) |
 | Luna's Eyes | 302902 | [302902-lunas-eyes.json](./302902-lunas-eyes.json) |
+| Luna's Fishing Garden | 152187 | [152187-lunas-fishing-garden.json](./152187-lunas-fishing-garden.json) |
 | Luna's Lab (Earth to Luna!) | 109546 | [109546-lunas-lab-earth-to-luna.json](./109546-lunas-lab-earth-to-luna.json) |
 | Luna's Light | 272614 | [272614-lunas-light.json](./272614-lunas-light.json) |
 | Luna's Postcards Around the World | 343381 | [343381-lunas-postcards-around-the-world.json](./343381-lunas-postcards-around-the-world.json) |
@@ -10439,6 +10440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupus in Fabula | 41903 | [41903-lupus-in-fabula.json](./41903-lupus-in-fabula.json) |
 | Luqman Reloaded | 361742 | [361742-luqman-reloaded.json](./361742-luqman-reloaded.json) |
 | Lure | 139953 | [139953-lure.json](./139953-lure.json) |
+| Lure | 180207 | [180207-lure.json](./180207-lure.json) |
 | Lure of the Temptress | 8482 | [8482-lure-of-the-temptress.json](./8482-lure-of-the-temptress.json) |
 | Lure: The King's Gold | 120167 | [120167-lure-the-kings-gold.json](./120167-lure-the-kings-gold.json) |
 | Lured | 245753 | [245753-lured.json](./245753-lured.json) |
