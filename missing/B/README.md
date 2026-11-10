@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6426,6 +6427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behold Battle | 247918 | [247918-behold-battle.json](./247918-behold-battle.json) |
 | Behold the Dark | 151470 | [151470-behold-the-dark.json](./151470-behold-the-dark.json) |
 | Behold the Horde | 382830 | [382830-behold-the-horde.json](./382830-behold-the-horde.json) |
+| Behold! | 31071 | [31071-behold.json](./31071-behold.json) |
 | Beholder 2 | 78536 | [78536-beholder-2.json](./78536-beholder-2.json) |
 | Beholder 2: Big Brother Edition | 146131 | [146131-beholder-2-big-brother-edition.json](./146131-beholder-2-big-brother-edition.json) |
 | Beholder 3 | 186882 | [186882-beholder-3.json](./186882-beholder-3.json) |
@@ -10987,6 +10989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Jam | 323702 | [323702-block-jam.json](./323702-block-jam.json) |
 | Block Jam: Cute Edition | 332516 | [332516-block-jam-cute-edition.json](./332516-block-jam-cute-edition.json) |
 | Block Jumper | 230961 | [230961-block-jumper.json](./230961-block-jumper.json) |
+| Block King | 31131 | [31131-block-king.json](./31131-block-king.json) |
 | Block King Demands Red Squares | 347088 | [347088-block-king-demands-red-squares.json](./347088-block-king-demands-red-squares.json) |
 | Block Koala | 318468 | [318468-block-koala.json](./318468-block-koala.json) |
 | Block Kuzushi | 38269 | [38269-block-kuzushi.json](./38269-block-kuzushi.json) |
@@ -13840,6 +13843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomshine2x | 194301 | [194301-boomshine2x.json](./194301-boomshine2x.json) |
 | BoomSweeper VR | 232970 | [232970-boomsweeper-vr.json](./232970-boomsweeper-vr.json) |
 | BoomTown | 134797 | [134797-boomtown.json](./134797-boomtown.json) |
+| BoomTown! Deluxe | 31119 | [31119-boomtown-deluxe.json](./31119-boomtown-deluxe.json) |
 | BoomTris | 120963 | [120963-boomtris.json](./120963-boomtris.json) |
 | BoomXR | 154891 | [154891-boomxr.json](./154891-boomxr.json) |
 | Boomy the Cat | 58784 | [58784-boomy-the-cat.json](./58784-boomy-the-cat.json) |
@@ -16079,6 +16083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breathedge 2 | 252870 | [252870-breathedge-2.json](./252870-breathedge-2.json) |
 | Breathedge: Cosmic Cluck | 286571 | [286571-breathedge-cosmic-cluck.json](./286571-breathedge-cosmic-cluck.json) |
 | BreathePeace.World | 111722 | [111722-breathepeace-world.json](./111722-breathepeace-world.json) |
+| Breathing Fear | 31135 | [31135-breathing-fear.json](./31135-breathing-fear.json) |
 | Breathless | 14346 | [14346-breathless.json](./14346-breathless.json) |
 | Breathless | 222638 | [222638-breathless.json](./222638-breathless.json) |
 | Breathless Bliss | 88916 | [88916-breathless-bliss.json](./88916-breathless-bliss.json) |
