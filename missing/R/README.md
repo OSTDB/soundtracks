@@ -3790,6 +3790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recoil Gunner | 208019 | [208019-recoil-gunner.json](./208019-recoil-gunner.json) |
 | Recoil Rush | 360151 | [360151-recoil-rush.json](./360151-recoil-rush.json) |
 | Recoil vs. The World | 226975 | [226975-recoil-vs-the-world.json](./226975-recoil-vs-the-world.json) |
+| Recoil: Digitakill | 401959 | [401959-recoil-digitakill.json](./401959-recoil-digitakill.json) |
 | Recoil: Retrograd | 52692 | [52692-recoil-retrograd.json](./52692-recoil-retrograd.json) |
 | Recoiled | 149498 | [149498-recoiled.json](./149498-recoiled.json) |
 | Recolit | 152179 | [152179-recolit.json](./152179-recolit.json) |
