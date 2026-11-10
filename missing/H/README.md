@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Cafe | 294386 | [294386-harvest-cafe.json](./294386-harvest-cafe.json) |
 | Harvest Days | 308511 | [308511-harvest-days.json](./308511-harvest-days.json) |
 | Harvest Deadline | 412738 | [412738-harvest-deadline.json](./412738-harvest-deadline.json) |
+| Harvest Dice Profit | 413995 | [413995-harvest-dice-profit.json](./413995-harvest-dice-profit.json) |
 | Harvest Dice: Abundia’s Blessing | 376539 | [376539-harvest-dice-abundia-s-blessing.json](./376539-harvest-dice-abundia-s-blessing.json) |
 | Harvest Green | 138429 | [138429-harvest-green.json](./138429-harvest-green.json) |
 | Harvest Hands | 125419 | [125419-harvest-hands.json](./125419-harvest-hands.json) |
@@ -5574,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Portrait | 378849 | [378849-hentai-portrait.json](./378849-hentai-portrait.json) |
 | Hentai Project | 262366 | [262366-hentai-project.json](./262366-hentai-project.json) |
 | Hentai Project 67 | 409529 | [409529-hentai-project-67.json](./409529-hentai-project-67.json) |
+| Hentai Protocol: Lesson One | 413948 | [413948-hentai-protocol-lesson-one.json](./413948-hentai-protocol-lesson-one.json) |
 | Hentai Puppy Maid | 296953 | [296953-hentai-puppy-maid.json](./296953-hentai-puppy-maid.json) |
 | Hentai Pussy | 366509 | [366509-hentai-pussy.json](./366509-hentai-pussy.json) |
 | Hentai Pussy 2 | 286413 | [286413-hentai-pussy-2.json](./286413-hentai-pussy-2.json) |
@@ -7331,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Ghost Town | 189902 | [189902-hidden-ghost-town.json](./189902-hidden-ghost-town.json) |
 | Hidden Ghost Town 2 | 189292 | [189292-hidden-ghost-town-2.json](./189292-hidden-ghost-town-2.json) |
 | Hidden Girls: Bikini Dreams | 420673 | [420673-hidden-girls-bikini-dreams.json](./420673-hidden-girls-bikini-dreams.json) |
+| Hidden Girls: Private Nights | 413949 | [413949-hidden-girls-private-nights.json](./413949-hidden-girls-private-nights.json) |
 | Hidden Girls: Quiet Beauty | 415059 | [415059-hidden-girls-quiet-beauty.json](./415059-hidden-girls-quiet-beauty.json) |
 | Hidden Girls: Tropical Vibes | 420672 | [420672-hidden-girls-tropical-vibes.json](./420672-hidden-girls-tropical-vibes.json) |
 | Hidden Glade | 266082 | [266082-hidden-glade.json](./266082-hidden-glade.json) |
@@ -8717,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Mouse | 247293 | [247293-hit-mouse.json](./247293-hit-mouse.json) |
 | Hit N 'Rush | 125355 | [125355-hit-n-rush.json](./125355-hit-n-rush.json) |
 | Hit N Descent | 179921 | [179921-hit-n-descent.json](./179921-hit-n-descent.json) |
+| Hit N Slash VR | 413938 | [413938-hit-n-slash-vr.json](./413938-hit-n-slash-vr.json) |
 | Hit n' Bit | 319010 | [319010-hit-n-bit.json](./319010-hit-n-bit.json) |
 | Hit n' Run: Highway Demolition | 239429 | [239429-hit-n-run-highway-demolition.json](./239429-hit-n-run-highway-demolition.json) |
 | Hit Ninja | 85183 | [85183-hit-ninja.json](./85183-hit-ninja.json) |
