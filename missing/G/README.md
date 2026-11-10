@@ -7437,6 +7437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goody | 39070 | [39070-goody.json](./39070-goody.json) |
 | Goody Bad Heroes | 185738 | [185738-goody-bad-heroes.json](./185738-goody-bad-heroes.json) |
 | Gooey | 368139 | [368139-gooey.json](./368139-gooey.json) |
+| Gooey | 427261 | [427261-gooey.json](./427261-gooey.json) |
 | Goof Ball | 78033 | [78033-goof-ball.json](./78033-goof-ball.json) |
 | Goof Troop | 325563 | [325563-goof-troop.json](./325563-goof-troop.json) |
 | Goof Troop ST: Space Treasure | 215378 | [215378-goof-troop-st-space-treasure.json](./215378-goof-troop-st-space-treasure.json) |
