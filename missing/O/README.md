@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off-World Interceptor Extreme | 20314 | [20314-off-world-interceptor-extreme.json](./20314-off-world-interceptor-extreme.json) |
 | Off-world Prospecting | 347365 | [347365-off-world-prospecting.json](./347365-off-world-prospecting.json) |
 | Off-World Relocation | 253361 | [253361-off-world-relocation.json](./253361-off-world-relocation.json) |
+| Offbeat | 400647 | [400647-offbeat.json](./400647-offbeat.json) |
 | Offcoast | 161560 | [161560-offcoast.json](./161560-offcoast.json) |
 | Offenders | 201875 | [201875-offenders.json](./201875-offenders.json) |
 | Offendron Warrior | 114267 | [114267-offendron-warrior.json](./114267-offendron-warrior.json) |
