@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Magical Drop II | 99509 | [99509-aca-neo-geo-magical-drop-ii.json](./99509-aca-neo-geo-magical-drop-ii.json) |
 | ACA Neo Geo: Magical Drop III | 88578 | [88578-aca-neo-geo-magical-drop-iii.json](./88578-aca-neo-geo-magical-drop-iii.json) |
 | ACA Neo Geo: Magician Lord | 68481 | [68481-aca-neo-geo-magician-lord.json](./68481-aca-neo-geo-magician-lord.json) |
+| ACA Neo Geo: Master of Syougi | 396881 | [396881-aca-neo-geo-master-of-syougi.json](./396881-aca-neo-geo-master-of-syougi.json) |
 | ACA Neo Geo: Metal Slug | 28452 | [28452-aca-neo-geo-metal-slug.json](./28452-aca-neo-geo-metal-slug.json) |
 | ACA Neo Geo: Metal Slug 2 | 99504 | [99504-aca-neo-geo-metal-slug-2.json](./99504-aca-neo-geo-metal-slug-2.json) |
 | ACA Neo Geo: Metal Slug 3 | 88910 | [88910-aca-neo-geo-metal-slug-3.json](./88910-aca-neo-geo-metal-slug-3.json) |
@@ -12973,6 +12974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arbeiten Spiel! | 239237 | [239237-arbeiten-spiel.json](./239237-arbeiten-spiel.json) |
 | Arbiter | 204233 | [204233-arbiter.json](./204233-arbiter.json) |
 | Arbiter | 64693 | [64693-arbiter.json](./64693-arbiter.json) |
+| Arbiter 131 | 396854 | [396854-arbiter-131.json](./396854-arbiter-131.json) |
 | Arbitology: Dei Gratia Rex | 123832 | [123832-arbitology-dei-gratia-rex.json](./123832-arbitology-dei-gratia-rex.json) |
 | Arbo: Arena Tactics | 303341 | [303341-arbo-arena-tactics.json](./303341-arbo-arena-tactics.json) |
 | Arboneer | 315257 | [315257-arboneer.json](./315257-arboneer.json) |
@@ -17730,7 +17732,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
