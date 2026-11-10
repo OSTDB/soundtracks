@@ -1510,6 +1510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FamCram | 381197 | [381197-famcram.json](./381197-famcram.json) |
 | Fame | 355066 | [355066-fame.json](./355066-fame.json) |
 | Fame | 67224 | [67224-fame.json](./67224-fame.json) |
+| Fame & Fear: Dungeon Architect | 416288 | [416288-fame-and-fear-dungeon-architect.json](./416288-fame-and-fear-dungeon-architect.json) |
 | Fame Academy: Dance Edition | 44721 | [44721-fame-academy-dance-edition.json](./44721-fame-academy-dance-edition.json) |
 | Fame City | 325530 | [325530-fame-city.json](./325530-fame-city.json) |
 | Fame or Folly | 394181 | [394181-fame-or-folly.json](./394181-fame-or-folly.json) |
@@ -4368,6 +4369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibble | 228714 | [228714-fibble.json](./228714-fibble.json) |
 | Fibble: Flick 'n' Roll | 65220 | [65220-fibble-flick-n-roll.json](./65220-fibble-flick-n-roll.json) |
 | Fibbler.io | 282568 | [282568-fibbler-io.json](./282568-fibbler-io.json) |
+| Fibbtry | 416226 | [416226-fibbtry.json](./416226-fibbtry.json) |
 | Fibby.io | 139718 | [139718-fibby-io.json](./139718-fibby-io.json) |
 | Fiber Tree | 71267 | [71267-fiber-tree.json](./71267-fiber-tree.json) |
 | Fiber Twig | 135101 | [135101-fiber-twig.json](./135101-fiber-twig.json) |
@@ -5480,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fight: Streetwise | 1660 | [1660-final-fight-streetwise.json](./1660-final-fight-streetwise.json) |
 | Final Fighter | 109207 | [109207-final-fighter.json](./109207-final-fighter.json) |
 | Final Fighter | 287509 | [287509-final-fighter.json](./287509-final-fighter.json) |
+| Final Fist | 416235 | [416235-final-fist.json](./416235-final-fist.json) |
 | Final Flames 2: Against the Dark World Crisis | 76548 | [76548-final-flames-2-against-the-dark-world-crisis.json](./76548-final-flames-2-against-the-dark-world-crisis.json) |
 | Final Flames: Dark Rage | 56111 | [56111-final-flames-dark-rage.json](./56111-final-flames-dark-rage.json) |
 | Final Flavor | 392385 | [392385-final-flavor.json](./392385-final-flavor.json) |
@@ -7575,6 +7578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fjellward | 407735 | [407735-fjellward.json](./407735-fjellward.json) |
 | Fjong | 55556 | [55556-fjong.json](./55556-fjong.json) |
 | Fjord battle racing | 50523 | [50523-fjord-battle-racing.json](./50523-fjord-battle-racing.json) |
+| Fjordal | 416225 | [416225-fjordal.json](./416225-fjordal.json) |
 | Fjords | 62535 | [62535-fjords.json](./62535-fjords.json) |
 | FL Battle Beam | 385510 | [385510-fl-battle-beam.json](./385510-fl-battle-beam.json) |
 | FL Frisky Tom | 300009 | [300009-fl-frisky-tom.json](./300009-fl-frisky-tom.json) |
@@ -7726,6 +7730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bat 2 | 219406 | [219406-flappy-bat-2.json](./219406-flappy-bat-2.json) |
 | Flappy Bat 3 | 347231 | [347231-flappy-bat-3.json](./347231-flappy-bat-3.json) |
 | Flappy Bee | 169471 | [169471-flappy-bee.json](./169471-flappy-bee.json) |
+| Flappy Bill | 416255 | [416255-flappy-bill.json](./416255-flappy-bill.json) |
 | Flappy Bird | 195491 | [195491-flappy-bird.json](./195491-flappy-bird.json) |
 | Flappy Bird | 218074 | [218074-flappy-bird.json](./218074-flappy-bird.json) |
 | Flappy Bird | 222745 | [222745-flappy-bird.json](./222745-flappy-bird.json) |
