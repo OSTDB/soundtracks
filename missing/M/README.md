@@ -13368,6 +13368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Collector 2 | 275090 | [275090-minesweeper-collector-2.json](./275090-minesweeper-collector-2.json) |
 | Minesweeper Deluxe | 88430 | [88430-minesweeper-deluxe.json](./88430-minesweeper-deluxe.json) |
 | Minesweeper Flags | 74419 | [74419-minesweeper-flags.json](./74419-minesweeper-flags.json) |
+| Minesweeper Game | 398009 | [398009-minesweeper-game.json](./398009-minesweeper-game.json) |
 | Minesweeper Genius | 101496 | [101496-minesweeper-genius.json](./101496-minesweeper-genius.json) |
 | Minesweeper Girl | 247882 | [247882-minesweeper-girl.json](./247882-minesweeper-girl.json) |
 | Minesweeper Go | 395231 | [395231-minesweeper-go.json](./395231-minesweeper-go.json) |
@@ -16898,6 +16899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Mash | 292498 | [292498-monster-mash.json](./292498-monster-mash.json) |
 | Monster Mashing Deluxe | 116042 | [116042-monster-mashing-deluxe.json](./116042-monster-mashing-deluxe.json) |
 | Monster Master | 195938 | [195938-monster-master.json](./195938-monster-master.json) |
+| Monster Masters | 397977 | [397977-monster-masters.json](./397977-monster-masters.json) |
 | Monster Match | 131935 | [131935-monster-match.json](./131935-monster-match.json) |
 | Monster Match | 179504 | [179504-monster-match.json](./179504-monster-match.json) |
 | Monster Maulers | 39541 | [39541-monster-maulers.json](./39541-monster-maulers.json) |
