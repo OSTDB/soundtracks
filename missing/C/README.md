@@ -6353,6 +6353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Control | 50320 | [50320-chaos-control.json](./50320-chaos-control.json) |
 | Chaos Crafters | 265399 | [265399-chaos-crafters.json](./265399-chaos-crafters.json) |
 | Chaos Crown | 217190 | [217190-chaos-crown.json](./217190-chaos-crown.json) |
+| Chaos Domain | 10077 | [10077-chaos-domain.json](./10077-chaos-domain.json) |
 | Chaos Dream: Retribution | 119450 | [119450-chaos-dream-retribution.json](./119450-chaos-dream-retribution.json) |
 | Chaos Drift | 29393 | [29393-chaos-drift.json](./29393-chaos-drift.json) |
 | Chaos Dynasty Honey | 326542 | [326542-chaos-dynasty-honey.json](./326542-chaos-dynasty-honey.json) |
@@ -7091,6 +7092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherry School World | 296728 | [296728-cherry-school-world.json](./296728-cherry-school-world.json) |
 | Cherry Tale | 228866 | [228866-cherry-tale.json](./228866-cherry-tale.json) |
 | Cherry Tower | 281040 | [281040-cherry-tower.json](./281040-cherry-tower.json) |
+| Cherry Tree High Comedy Club | 10080 | [10080-cherry-tree-high-comedy-club.json](./10080-cherry-tree-high-comedy-club.json) |
 | Cherry Tree High Girls' Fight | 33094 | [33094-cherry-tree-high-girls-fight.json](./33094-cherry-tree-high-girls-fight.json) |
 | Cherry Tree High I! My! Girls! | 36156 | [36156-cherry-tree-high-i-my-girls.json](./36156-cherry-tree-high-i-my-girls.json) |
 | Cherry VX | 161380 | [161380-cherry-vx.json](./161380-cherry-vx.json) |
@@ -11814,6 +11816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Name:X | 188334 | [188334-code-name-x.json](./188334-code-name-x.json) |
 | Code of Corruption | 374847 | [374847-code-of-corruption.json](./374847-code-of-corruption.json) |
 | Code of Ethics | 123042 | [123042-code-of-ethics.json](./123042-code-of-ethics.json) |
+| Code of Honor 2: Conspiracy Island | 10098 | [10098-code-of-honor-2-conspiracy-island.json](./10098-code-of-honor-2-conspiracy-island.json) |
 | Code of Honor 3: Desperate Measures | 27473 | [27473-code-of-honor-3-desperate-measures.json](./27473-code-of-honor-3-desperate-measures.json) |
 | Code of Honor: The French Foreign Legion | 10099 | [10099-code-of-honor-the-french-foreign-legion.json](./10099-code-of-honor-the-french-foreign-legion.json) |
 | Code of Princess | 6751 | [6751-code-of-princess.json](./6751-code-of-princess.json) |
@@ -15072,6 +15075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Craze: Starter Pack | 295118 | [295118-cooking-craze-starter-pack.json](./295118-cooking-craze-starter-pack.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
 | Cooking Dash | 16068 | [16068-cooking-dash.json](./16068-cooking-dash.json) |
+| Cooking Dash | 86945 | [86945-cooking-dash.json](./86945-cooking-dash.json) |
 | Cooking Dash 3: Thrills & Spills | 142005 | [142005-cooking-dash-3-thrills-and-spills.json](./142005-cooking-dash-3-thrills-and-spills.json) |
 | Cooking Dash Deluxe | 361999 | [361999-cooking-dash-deluxe.json](./361999-cooking-dash-deluxe.json) |
 | Cooking Dash: DinerTown Studios | 142003 | [142003-cooking-dash-dinertown-studios.json](./142003-cooking-dash-dinertown-studios.json) |
@@ -18622,6 +18626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croissant | 312802 | [312802-croissant.json](./312802-croissant.json) |
 | Croissant Simulator | 416589 | [416589-croissant-simulator.json](./416589-croissant-simulator.json) |
 | Croissants | 135012 | [135012-croissants.json](./135012-croissants.json) |
+| Croixleur Sigma | 10116 | [10116-croixleur-sigma.json](./10116-croixleur-sigma.json) |
 | Croixleur Sigma: Deluxe Edition | 131689 | [131689-croixleur-sigma-deluxe-edition.json](./131689-croixleur-sigma-deluxe-edition.json) |
 | Croket! Kindan no Kinka Box | 248202 | [248202-croket-kindan-no-kinka-box.json](./248202-croket-kindan-no-kinka-box.json) |
 | Crollors Game Pack | 85559 | [85559-crollors-game-pack.json](./85559-crollors-game-pack.json) |
@@ -18988,6 +18993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
 | Crosswords Crazy! | 90024 | [90024-crosswords-crazy.json](./90024-crosswords-crazy.json) |
 | Crosswords For Dummies | 208801 | [208801-crosswords-for-dummies.json](./208801-crosswords-for-dummies.json) |
+| Crosswords Plus | 10230 | [10230-crosswords-plus.json](./10230-crosswords-plus.json) |
 | Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
 | Crosswords: World Tour | 332329 | [332329-crosswords-world-tour.json](./332329-crosswords-world-tour.json) |
 | CrossWorlds: Escape | 31810 | [31810-crossworlds-escape.json](./31810-crossworlds-escape.json) |
