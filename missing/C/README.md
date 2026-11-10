@@ -5102,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldron Caution | 309653 | [309653-cauldron-caution.json](./309653-cauldron-caution.json) |
 | Cauldron Chaos | 360333 | [360333-cauldron-chaos.json](./360333-cauldron-chaos.json) |
 | Cauldron Chaos | 368495 | [368495-cauldron-chaos.json](./368495-cauldron-chaos.json) |
+| Cauldron Chaos: Brew Potions & Tidy Up | 414911 | [414911-cauldron-chaos-brew-potions-and-tidy-up.json](./414911-cauldron-chaos-brew-potions-and-tidy-up.json) |
 | Cauldron Craft | 391125 | [391125-cauldron-craft.json](./391125-cauldron-craft.json) |
 | Cauldron Forager | 362916 | [362916-cauldron-forager.json](./362916-cauldron-forager.json) |
 | Cauldron I & II | 126012 | [126012-cauldron-i-and-ii.json](./126012-cauldron-i-and-ii.json) |
@@ -6461,6 +6462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Rising: Part 2 | 354572 | [354572-chaos-rising-part-2.json](./354572-chaos-rising-part-2.json) |
 | Chaos Road | 158229 | [158229-chaos-road.json](./158229-chaos-road.json) |
 | Chaos Rocks | 360920 | [360920-chaos-rocks.json](./360920-chaos-rocks.json) |
+| Chaos Runner: Duskfall | 414681 | [414681-chaos-runner-duskfall.json](./414681-chaos-runner-duskfall.json) |
 | Chaos Rush: Tower Defense | 357827 | [357827-chaos-rush-tower-defense.json](./357827-chaos-rush-tower-defense.json) |
 | Chaos Saw | 236771 | [236771-chaos-saw.json](./236771-chaos-saw.json) |
 | Chaos Seed: Feng Shui Kairouki | 15833 | [15833-chaos-seed-feng-shui-kairouki.json](./15833-chaos-seed-feng-shui-kairouki.json) |
@@ -18451,6 +18453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Girls 2 | 11751 | [11751-criminal-girls-2.json](./11751-criminal-girls-2.json) |
 | Criminal Girls 2: Party Favors | 24195 | [24195-criminal-girls-2-party-favors.json](./24195-criminal-girls-2-party-favors.json) |
 | Criminal Girls: Invite Only | 11746 | [11746-criminal-girls-invite-only.json](./11746-criminal-girls-invite-only.json) |
+| Criminal Hearts: Obsession Bad Boys Dating Sim | 414886 | [414886-criminal-hearts-obsession-bad-boys-dating-sim.json](./414886-criminal-hearts-obsession-bad-boys-dating-sim.json) |
 | Criminal Hearts: Obsession Bad Girls Dating Sim | 415387 | [415387-criminal-hearts-obsession-bad-girls-dating-sim.json](./415387-criminal-hearts-obsession-bad-girls-dating-sim.json) |
 | Criminal Investigation Agents: Petrodollars | 90528 | [90528-criminal-investigation-agents-petrodollars.json](./90528-criminal-investigation-agents-petrodollars.json) |
 | Criminal Profile Who’s the Culprit?! | 403735 | [403735-criminal-profile-who-s-the-culprit.json](./403735-criminal-profile-who-s-the-culprit.json) |
@@ -21049,6 +21052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Mummies | 169470 | [169470-cursed-mummies.json](./169470-cursed-mummies.json) |
 | Cursed New Year | 323512 | [323512-cursed-new-year.json](./323512-cursed-new-year.json) |
 | Cursed Night | 244194 | [244194-cursed-night.json](./244194-cursed-night.json) |
+| Cursed Objects: Find and Seal | 414887 | [414887-cursed-objects-find-and-seal.json](./414887-cursed-objects-find-and-seal.json) |
 | Cursed Omelette | 370114 | [370114-cursed-omelette.json](./370114-cursed-omelette.json) |
 | Cursed One | 121168 | [121168-cursed-one.json](./121168-cursed-one.json) |
 | Cursed Order | 284993 | [284993-cursed-order.json](./284993-cursed-order.json) |
@@ -22022,6 +22026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle Race: Road Man | 48532 | [48532-cycle-race-road-man.json](./48532-cycle-race-road-man.json) |
 | Cycle Warriors | 39828 | [39828-cycle-warriors.json](./39828-cycle-warriors.json) |
 | Cycle Warz | 93204 | [93204-cycle-warz.json](./93204-cycle-warz.json) |
+| Cycle01 | 414912 | [414912-cycle01.json](./414912-cycle01.json) |
 | Cycled | 151337 | [151337-cycled.json](./151337-cycled.json) |
 | Cyclemania | 71912 | [71912-cyclemania.json](./71912-cyclemania.json) |
 | CycleQuest | 393747 | [393747-cyclequest.json](./393747-cyclequest.json) |
