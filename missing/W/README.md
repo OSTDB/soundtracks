@@ -4333,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When We Lost | 215650 | [215650-when-we-lost.json](./215650-when-we-lost.json) |
 | When We Were Monsters | 180398 | [180398-when-we-were-monsters.json](./180398-when-we-were-monsters.json) |
 | When Will I Get Home? | 408982 | [408982-when-will-i-get-home.json](./408982-when-will-i-get-home.json) |
+| When Winter Comes Again | 398729 | [398729-when-winter-comes-again.json](./398729-when-winter-comes-again.json) |
 | When Yanderes Cry | 124657 | [124657-when-yanderes-cry.json](./124657-when-yanderes-cry.json) |
 | When You See It | 312122 | [312122-when-you-see-it.json](./312122-when-you-see-it.json) |
 | When You Wish Upon a Star | 200447 | [200447-when-you-wish-upon-a-star.json](./200447-when-you-wish-upon-a-star.json) |
@@ -5398,6 +5399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Arms 2 | 239198 | [239198-wild-arms-2.json](./239198-wild-arms-2.json) |
 | Wild Arms 3 | 1679 | [1679-wild-arms-3.json](./1679-wild-arms-3.json) |
 | Wild Arms 4 | 1681 | [1681-wild-arms-4.json](./1681-wild-arms-4.json) |
+| Wild Arms 4 | 398930 | [398930-wild-arms-4.json](./398930-wild-arms-4.json) |
 | Wild Arms Alter Code: F | 1680 | [1680-wild-arms-alter-code-f.json](./1680-wild-arms-alter-code-f.json) |
 | Wild Arms XF | 1683 | [1683-wild-arms-xf.json](./1683-wild-arms-xf.json) |
 | Wild Arms: Million Memories | 26383 | [26383-wild-arms-million-memories.json](./26383-wild-arms-million-memories.json) |
@@ -9605,6 +9607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestle Kingdom | 7251 | [7251-wrestle-kingdom.json](./7251-wrestle-kingdom.json) |
 | Wrestle Kingdom 2: Pro Wrestling Sekai Taisen | 44715 | [44715-wrestle-kingdom-2-pro-wrestling-sekai-taisen.json](./44715-wrestle-kingdom-2-pro-wrestling-sekai-taisen.json) |
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
+| Wrestleball | 398938 | [398938-wrestleball.json](./398938-wrestleball.json) |
 | Wrestledunk Sports | 153361 | [153361-wrestledunk-sports.json](./153361-wrestledunk-sports.json) |
 | WrestleQuest | 194466 | [194466-wrestlequest.json](./194466-wrestlequest.json) |
 | Wrestler Rush | 302419 | [302419-wrestler-rush.json](./302419-wrestler-rush.json) |
