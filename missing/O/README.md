@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octbuster: Video Rental Store Cleanup | 414500 | [414500-octbuster-video-rental-store-cleanup.json](./414500-octbuster-video-rental-store-cleanup.json) |
 | Octet | 184249 | [184249-octet.json](./184249-octet.json) |
 | Octillery Vs. Collection | 399055 | [399055-octillery-vs-collection.json](./399055-octillery-vs-collection.json) |
+| Octillery Vs. Xi Jinping | 403276 | [403276-octillery-vs-xi-jinping.json](./403276-octillery-vs-xi-jinping.json) |
 | Octo Crank | 418589 | [418589-octo-crank.json](./418589-octo-crank.json) |
 | Octo Curse | 251015 | [251015-octo-curse.json](./251015-octo-curse.json) |
 | Octo Gravity | 104203 | [104203-octo-gravity.json](./104203-octo-gravity.json) |
@@ -3586,6 +3587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenJade: Prince of Persia - Warrior Within | 426036 | [426036-openjade-prince-of-persia-warrior-within.json](./426036-openjade-prince-of-persia-warrior-within.json) |
 | Openlid | 257193 | [257193-openlid.json](./257193-openlid.json) |
 | OpenLoco | 138233 | [138233-openloco.json](./138233-openloco.json) |
+| OpenMadoola | 403283 | [403283-openmadoola.json](./403283-openmadoola.json) |
 | OpenMMO | 410878 | [410878-openmmo.json](./410878-openmmo.json) |
 | OpenMW | 111444 | [111444-openmw.json](./111444-openmw.json) |
 | OpenPop | 184869 | [184869-openpop.json](./184869-openpop.json) |
