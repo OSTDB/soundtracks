@@ -2676,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayaka | 29858 | [29858-sayaka.json](./29858-sayaka.json) |
 | Sayaka's Addiction | 335719 | [335719-sayakas-addiction.json](./335719-sayakas-addiction.json) |
 | Sayako Story | 253868 | [253868-sayako-story.json](./253868-sayako-story.json) |
+| Sayara's Path | 423633 | [423633-sayaras-path.json](./423633-sayaras-path.json) |
 | Sayfield Defense | 253543 | [253543-sayfield-defense.json](./253543-sayfield-defense.json) |
 | Sayo no Bus ni te | 394796 | [394796-sayo-no-bus-ni-te.json](./394796-sayo-no-bus-ni-te.json) |
 | Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
@@ -4979,6 +4980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Yama | 289800 | [289800-sector-yama.json](./289800-sector-yama.json) |
 | Sector Zero | 304298 | [304298-sector-zero.json](./304298-sector-zero.json) |
 | Sector Zero | 35783 | [35783-sector-zero.json](./35783-sector-zero.json) |
+| Sector: Cyber Crash Episode One: The Cyber Hour | 423625 | [423625-sector-cyber-crash-episode-one-the-cyber-hour.json](./423625-sector-cyber-crash-episode-one-the-cyber-hour.json) |
 | SectorA23 | 182552 | [182552-sectora23.json](./182552-sectora23.json) |
 | Sectron | 401629 | [401629-sectron.json](./401629-sectron.json) |
 | Séculos | 144459 | [144459-seculos.json](./144459-seculos.json) |
@@ -19547,6 +19549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul of Mask | 75179 | [75179-soul-of-mask.json](./75179-soul-of-mask.json) |
 | Soul of Phantasm | 173414 | [173414-soul-of-phantasm.json](./173414-soul-of-phantasm.json) |
 | Soul of Savarog | 301879 | [301879-soul-of-savarog.json](./301879-soul-of-savarog.json) |
+| Soul of Slime | 423654 | [423654-soul-of-slime.json](./423654-soul-of-slime.json) |
 | Soul of Sovereignty: Prelude | 283407 | [283407-soul-of-sovereignty-prelude.json](./283407-soul-of-sovereignty-prelude.json) |
 | Soul of the Beast | 178617 | [178617-soul-of-the-beast.json](./178617-soul-of-the-beast.json) |
 | Soul of the Devil | 32620 | [32620-soul-of-the-devil.json](./32620-soul-of-the-devil.json) |
@@ -28337,6 +28340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Time | 69244 | [69244-still-time.json](./69244-still-time.json) |
 | Still Waters | 342913 | [342913-still-waters.json](./342913-still-waters.json) |
 | Still Winter | 389855 | [389855-still-winter.json](./389855-still-winter.json) |
+| Still Working? | 423644 | [423644-still-working.json](./423644-still-working.json) |
 | StillAsleep | 405745 | [405745-stillasleep.json](./405745-stillasleep.json) |
 | Stillbone | 395163 | [395163-stillbone.json](./395163-stillbone.json) |
 | Stillborn Slayer | 189039 | [189039-stillborn-slayer.json](./189039-stillborn-slayer.json) |
