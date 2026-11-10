@@ -4499,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclismo: The Old Kingdom | 411100 | [411100-cataclismo-the-old-kingdom.json](./411100-cataclismo-the-old-kingdom.json) |
 | Cataclysm | 250651 | [250651-cataclysm.json](./250651-cataclysm.json) |
 | Cataclysm | 308268 | [308268-cataclysm.json](./308268-cataclysm.json) |
+| Cataclysm | 417140 | [417140-cataclysm.json](./417140-cataclysm.json) |
 | Cataclysm Survivors | 266109 | [266109-cataclysm-survivors.json](./266109-cataclysm-survivors.json) |
 | Cataclysm Upon Us | 274771 | [274771-cataclysm-upon-us.json](./274771-cataclysm-upon-us.json) |
 | Cataclysm Wars | 327747 | [327747-cataclysm-wars.json](./327747-cataclysm-wars.json) |
@@ -6831,6 +6832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check Man | 39609 | [39609-check-man.json](./39609-check-man.json) |
 | Check Mate | 79454 | [79454-check-mate.json](./79454-check-mate.json) |
 | Check Mii Out Channel | 139041 | [139041-check-mii-out-channel.json](./139041-check-mii-out-channel.json) |
+| Check Please | 417158 | [417158-check-please.json](./417158-check-please.json) |
 | Check the Room 13 | 252025 | [252025-check-the-room-13.json](./252025-check-the-room-13.json) |
 | Check vs Mate: Grandmaster Edition | 52706 | [52706-check-vs-mate-grandmaster-edition.json](./52706-check-vs-mate-grandmaster-edition.json) |
 | Check vs. Mate | 52496 | [52496-check-vs-mate.json](./52496-check-vs-mate.json) |
@@ -8090,6 +8092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiptune Runner | 52741 | [52741-chiptune-runner.json](./52741-chiptune-runner.json) |
 | Chipwits | 318923 | [318923-chipwits.json](./318923-chipwits.json) |
 | ChipWits | 292223 | [292223-chipwits.json](./292223-chipwits.json) |
+| ChipWits Worlds | 417147 | [417147-chipwits-worlds.json](./417147-chipwits-worlds.json) |
 | Chiqing Meimei Shaxue de Xiongkong Riji | 411775 | [411775-chiqing-meimei-shaxue-de-xiongkong-riji.json](./411775-chiqing-meimei-shaxue-de-xiongkong-riji.json) |
 | Chiral | 146176 | [146176-chiral.json](./146176-chiral.json) |
 | Chiral | 309855 | [309855-chiral.json](./309855-chiral.json) |
@@ -10370,6 +10373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClashBall.io | 325921 | [325921-clashball-io.json](./325921-clashball-io.json) |
 | Clashbowl | 211072 | [211072-clashbowl.json](./211072-clashbowl.json) |
 | Clasherball | 306514 | [306514-clasherball.json](./306514-clasherball.json) |
+| ClashFlow | 417482 | [417482-clashflow.json](./417482-clashflow.json) |
 | Clashmon: Ignition | 267224 | [267224-clashmon-ignition.json](./267224-clashmon-ignition.json) |
 | ClashofHunter | 130794 | [130794-clashofhunter.json](./130794-clashofhunter.json) |
 | Class 3, Third Grade | 330792 | [330792-class-3-third-grade.json](./330792-class-3-third-grade.json) |
@@ -15021,6 +15025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook For Love | 304520 | [304520-cook-for-love.json](./304520-cook-for-love.json) |
 | Cook for Me Grandpa! | 365276 | [365276-cook-for-me-grandpa.json](./365276-cook-for-me-grandpa.json) |
 | Cook for the Giant | 52827 | [52827-cook-for-the-giant.json](./52827-cook-for-the-giant.json) |
+| Cook Heat! | 417148 | [417148-cook-heat.json](./417148-cook-heat.json) |
 | Cook It! | 185500 | [185500-cook-it.json](./185500-cook-it.json) |
 | Cook MIX | 390819 | [390819-cook-mix.json](./390819-cook-mix.json) |
 | Cook Off: Animal Rescue | 214107 | [214107-cook-off-animal-rescue.json](./214107-cook-off-animal-rescue.json) |
