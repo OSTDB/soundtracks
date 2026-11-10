@@ -4728,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Age | 311535 | [311535-whispering-age.json](./311535-whispering-age.json) |
 | Whispering Death | 312551 | [312551-whispering-death.json](./312551-whispering-death.json) |
 | Whispering Dream | 314059 | [314059-whispering-dream.json](./314059-whispering-dream.json) |
+| Whispering Eclipsia | 427229 | [427229-whispering-eclipsia.json](./427229-whispering-eclipsia.json) |
 | Whispering Flames | 107933 | [107933-whispering-flames.json](./107933-whispering-flames.json) |
 | Whispering Fog | 348655 | [348655-whispering-fog.json](./348655-whispering-fog.json) |
 | Whispering Green | 416838 | [416838-whispering-green.json](./416838-whispering-green.json) |
