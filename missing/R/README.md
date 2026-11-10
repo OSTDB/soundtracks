@@ -2522,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman 4 You | 178599 | [178599-rayman-4-you.json](./178599-rayman-4-you.json) |
 | Rayman 60 Levels | 193336 | [193336-rayman-60-levels.json](./193336-rayman-60-levels.json) |
 | Rayman Activity Center | 61353 | [61353-rayman-activity-center.json](./61353-rayman-activity-center.json) |
+| Rayman Advance | 22012 | [22012-rayman-advance.json](./22012-rayman-advance.json) |
 | Rayman Adventures | 193360 | [193360-rayman-adventures.json](./193360-rayman-adventures.json) |
 | Rayman Adventures | 20032 | [20032-rayman-adventures.json](./20032-rayman-adventures.json) |
 | Rayman and Rabbids Family Pack | 56449 | [56449-rayman-and-rabbids-family-pack.json](./56449-rayman-and-rabbids-family-pack.json) |
@@ -12876,6 +12877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run, Poo, Run! | 388967 | [388967-run-poo-run.json](./388967-run-poo-run.json) |
 | Run, Puppet Run! | 413487 | [413487-run-puppet-run.json](./413487-run-puppet-run.json) |
 | Run, Run, Monsters! | 108024 | [108024-run-run-monsters.json](./108024-run-run-monsters.json) |
+| Run, Sackboy! Run! | 22153 | [22153-run-sackboy-run.json](./22153-run-sackboy-run.json) |
 | Run, Sandwich, Run! | 310369 | [310369-run-sandwich-run.json](./310369-run-sandwich-run.json) |
 | Run, Uganda! Run! | 336337 | [336337-run-uganda-run.json](./336337-run-uganda-run.json) |
 | Run, Veggies! | 358878 | [358878-run-veggies.json](./358878-run-veggies.json) |
