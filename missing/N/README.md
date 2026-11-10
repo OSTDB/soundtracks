@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 13 | 52624 | [52624-nba-live-13.json](./52624-nba-live-13.json) |
 | NBA Live 14 | 5330 | [5330-nba-live-14.json](./5330-nba-live-14.json) |
 | NBA Live 15 | 7717 | [7717-nba-live-15.json](./7717-nba-live-15.json) |
+| NBA Live 18 | 36957 | [36957-nba-live-18.json](./36957-nba-live-18.json) |
 | NBA Live 18: The One Edition | 82546 | [82546-nba-live-18-the-one-edition.json](./82546-nba-live-18-the-one-edition.json) |
 | NBA Live 19 | 103275 | [103275-nba-live-19.json](./103275-nba-live-19.json) |
 | NBA Live 19 Companion | 108456 | [108456-nba-live-19-companion.json](./108456-nba-live-19-companion.json) |
