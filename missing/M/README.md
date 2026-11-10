@@ -1901,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Daydream | 120756 | [120756-magnetic-daydream.json](./120756-magnetic-daydream.json) |
 | Magnetic Defense | 392582 | [392582-magnetic-defense.json](./392582-magnetic-defense.json) |
 | Magnetic Joe | 85270 | [85270-magnetic-joe.json](./85270-magnetic-joe.json) |
+| Magnetic Me | 396633 | [396633-magnetic-me.json](./396633-magnetic-me.json) |
 | Magnetic Merge: Number Master | 256150 | [256150-magnetic-merge-number-master.json](./256150-magnetic-merge-number-master.json) |
 | Magnetic Monopole Mayhem | 181137 | [181137-magnetic-monopole-mayhem.json](./181137-magnetic-monopole-mayhem.json) |
 | Magnetic Pairs | 102991 | [102991-magnetic-pairs.json](./102991-magnetic-pairs.json) |
@@ -15565,6 +15566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modyssey | 323234 | [323234-modyssey.json](./323234-modyssey.json) |
 | Moe | 113853 | [113853-moe.json](./113853-moe.json) |
 | Moe Can Change: Me & MyRoid | 166442 | [166442-moe-can-change-me-and-myroid.json](./166442-moe-can-change-me-and-myroid.json) |
+| Moe Droid Run & Jump Action!! | 396248 | [396248-moe-droid-run-and-jump-action.json](./396248-moe-droid-run-and-jump-action.json) |
 | MOE Emo Girls Multiplayer | 300373 | [300373-moe-emo-girls-multiplayer.json](./300373-moe-emo-girls-multiplayer.json) |
 | Moe Era | 123931 | [123931-moe-era.json](./123931-moe-era.json) |
 | Moe Girl | 188426 | [188426-moe-girl.json](./188426-moe-girl.json) |
