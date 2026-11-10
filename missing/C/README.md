@@ -1648,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canto I | 312784 | [312784-canto-i.json](./312784-canto-i.json) |
 | Cantrip | 186070 | [186070-cantrip.json](./186070-cantrip.json) |
 | Cantrip Cafe | 113692 | [113692-cantrip-cafe.json](./113692-cantrip-cafe.json) |
+| Canvaleon | 85017 | [85017-canvaleon.json](./85017-canvaleon.json) |
 | Canvas | 326568 | [326568-canvas.json](./326568-canvas.json) |
 | Canvas 2: Niji-iro no Sketch | 269410 | [269410-canvas-2-niji-iro-no-sketch.json](./269410-canvas-2-niji-iro-no-sketch.json) |
 | Canvas 3: Tanshoku no Pastel | 269411 | [269411-canvas-3-tanshoku-no-pastel.json](./269411-canvas-3-tanshoku-no-pastel.json) |
@@ -12596,6 +12597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Block Jam | 339436 | [339436-color-block-jam.json](./339436-color-block-jam.json) |
 | Color Blocks - Relax Puzzle | 130854 | [130854-color-blocks-relax-puzzle.json](./130854-color-blocks-relax-puzzle.json) |
 | Color Bomb! | 274954 | [274954-color-bomb.json](./274954-color-bomb.json) |
+| Color Bombs | 85040 | [85040-color-bombs.json](./85040-color-bombs.json) |
 | Color Book: Cute Pixel Art | 99326 | [99326-color-book-cute-pixel-art.json](./99326-color-book-cute-pixel-art.json) |
 | Color Bound | 181663 | [181663-color-bound.json](./181663-color-bound.json) |
 | Color Breakers | 151018 | [151018-color-breakers.json](./151018-color-breakers.json) |
@@ -12788,6 +12790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Wheel | 178726 | [178726-color-wheel.json](./178726-color-wheel.json) |
 | Color X Memory | 368682 | [368682-color-x-memory.json](./368682-color-x-memory.json) |
 | Color Your World | 145583 | [145583-color-your-world.json](./145583-color-your-world.json) |
+| Color Zen Kids | 85048 | [85048-color-zen-kids.json](./85048-color-zen-kids.json) |
 | Color-A-Cube | 330266 | [330266-color-a-cube.json](./330266-color-a-cube.json) |
 | Color-A-Cube x Gorn | 360771 | [360771-color-a-cube-x-gorn.json](./360771-color-a-cube-x-gorn.json) |
 | Color-A-Cube: Ancient Rome Pack #1 | 371288 | [371288-color-a-cube-ancient-rome-pack-1.json](./371288-color-a-cube-ancient-rome-pack-1.json) |
@@ -14188,6 +14191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confuzion | 13511 | [13511-confuzion.json](./13511-confuzion.json) |
 | Conga Master | 24445 | [24445-conga-master.json](./24445-conga-master.json) |
 | Conga Master Go! | 148265 | [148265-conga-master-go.json](./148265-conga-master-go.json) |
+| Conga Master Party! | 85050 | [85050-conga-master-party.json](./85050-conga-master-party.json) |
 | Congee | 139276 | [139276-congee.json](./139276-congee.json) |
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
 | Congestion 384 | 273727 | [273727-congestion-384.json](./273727-congestion-384.json) |
@@ -17547,6 +17551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Clown | 240045 | [240045-crazy-clown.json](./240045-crazy-clown.json) |
 | Crazy Coin | 252946 | [252946-crazy-coin.json](./252946-crazy-coin.json) |
 | Crazy Comets | 13832 | [13832-crazy-comets.json](./13832-crazy-comets.json) |
+| Crazy Construction | 85052 | [85052-crazy-construction.json](./85052-crazy-construction.json) |
 | Crazy Cook | 204989 | [204989-crazy-cook.json](./204989-crazy-cook.json) |
 | Crazy Cooking | 52319 | [52319-crazy-cooking.json](./52319-crazy-cooking.json) |
 | Crazy Cooking Star Chef | 105699 | [105699-crazy-cooking-star-chef.json](./105699-crazy-cooking-star-chef.json) |
