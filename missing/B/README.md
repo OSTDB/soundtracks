@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bail or Jail | 200972 | [200972-bail-or-jail.json](./200972-bail-or-jail.json) |
 | Bail or Jail: Character DLC Bundle 2 | 255141 | [255141-bail-or-jail-character-dlc-bundle-2.json](./255141-bail-or-jail-character-dlc-bundle-2.json) |
 | Bail or Jail: Character DLC Bundle 3 | 274651 | [274651-bail-or-jail-character-dlc-bundle-3.json](./274651-bail-or-jail-character-dlc-bundle-3.json) |
+| Baila Latino | 58946 | [58946-baila-latino.json](./58946-baila-latino.json) |
 | Bailey's Book House | 67101 | [67101-baileys-book-house.json](./67101-baileys-book-house.json) |
 | Bailout Wars | 41518 | [41518-bailout-wars.json](./41518-bailout-wars.json) |
 | Baimason's Thing Finder Puzzle | 293612 | [293612-baimasons-thing-finder-puzzle.json](./293612-baimasons-thing-finder-puzzle.json) |
@@ -2455,6 +2456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarians Nations: Battle for freedom | 175749 | [175749-barbarians-nations-battle-for-freedom.json](./175749-barbarians-nations-battle-for-freedom.json) |
 | Barbaric | 51720 | [51720-barbaric.json](./51720-barbaric.json) |
 | Barbaric Fury | 224963 | [224963-barbaric-fury.json](./224963-barbaric-fury.json) |
+| Barbaric: The Golden Hero | 57459 | [57459-barbaric-the-golden-hero.json](./57459-barbaric-the-golden-hero.json) |
 | Barbarium | 200559 | [200559-barbarium.json](./200559-barbarium.json) |
 | Barbarization | 311491 | [311491-barbarization.json](./311491-barbarization.json) |
 | Barbaros | 153487 | [153487-barbaros.json](./153487-barbaros.json) |
@@ -5839,6 +5841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beats&Boss | 338202 | [338202-beats-and-boss.json](./338202-beats-and-boss.json) |
 | BeatShips | 117241 | [117241-beatships.json](./117241-beatships.json) |
 | BeatShooter | 309736 | [309736-beatshooter.json](./309736-beatshooter.json) |
+| Beatsplosion! for Kinect | 57303 | [57303-beatsplosion-for-kinect.json](./57303-beatsplosion-for-kinect.json) |
 | Beatstar | 166521 | [166521-beatstar.json](./166521-beatstar.json) |
 | Beatstar: Ariana Grande, Zedd - "Break Free" | 358768 | [358768-beatstar-ariana-grande-zedd-break-free.json](./358768-beatstar-ariana-grande-zedd-break-free.json) |
 | Beatstar: Backstreet Boys - "Everybody (Backstreet's Back)" | 358776 | [358776-beatstar-backstreet-boys-everybody-backstreets-back.json](./358776-beatstar-backstreet-boys-everybody-backstreets-back.json) |
@@ -19109,6 +19112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BustaShip | 132963 | [132963-bustaship.json](./132963-bustaship.json) |
 | Busted | 384857 | [384857-busted.json](./384857-busted.json) |
 | Busted Brakes | 101750 | [101750-busted-brakes.json](./101750-busted-brakes.json) |
+| Busted! | 57422 | [57422-busted.json](./57422-busted.json) |
 | Buster | 362135 | [362135-buster.json](./362135-buster.json) |
 | Buster | 62831 | [62831-buster.json](./62831-buster.json) |
 | Buster Ball | 46324 | [46324-buster-ball.json](./46324-buster-ball.json) |
