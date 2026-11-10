@@ -16107,6 +16107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Tree | 373237 | [373237-money-tree.json](./373237-money-tree.json) |
 | Money Tree | 405322 | [405322-money-tree.json](./405322-money-tree.json) |
 | Money Under the Bed | 392839 | [392839-money-under-the-bed.json](./392839-money-under-the-bed.json) |
+| Money Wars | 401992 | [401992-money-wars.json](./401992-money-wars.json) |
 | Money Wash Tycoon | 358659 | [358659-money-wash-tycoon.json](./358659-money-wash-tycoon.json) |
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
 | MoneyGame | 119212 | [119212-moneygame.json](./119212-moneygame.json) |
@@ -19296,6 +19297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move the Window | 167509 | [167509-move-the-window.json](./167509-move-the-window.json) |
 | Move Together! | 425417 | [425417-move-together.json](./425417-move-together.json) |
 | Move your Brain: Rollway Puzzle | 67050 | [67050-move-your-brain-rollway-puzzle.json](./67050-move-your-brain-rollway-puzzle.json) |
+| Move, Move, Melon!! | 401961 | [401961-move-move-melon.json](./401961-move-move-melon.json) |
 | Moved In | 386823 | [386823-moved-in.json](./386823-moved-in.json) |
 | Moved Mind | 292420 | [292420-moved-mind.json](./292420-moved-mind.json) |
 | MoveFort | 318189 | [318189-movefort.json](./318189-movefort.json) |
