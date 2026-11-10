@@ -20355,6 +20355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murdoku | 401511 | [401511-murdoku.json](./401511-murdoku.json) |
 | Murgatroyds | 57417 | [57417-murgatroyds.json](./57417-murgatroyds.json) |
 | Murgles | 121370 | [121370-murgles.json](./121370-murgles.json) |
+| Muri | 16896 | [16896-muri.json](./16896-muri.json) |
 | Muri: Wildwoods | 324950 | [324950-muri-wildwoods.json](./324950-muri-wildwoods.json) |
 | Murica | 114890 | [114890-murica.json](./114890-murica.json) |
 | Murk | 143924 | [143924-murk.json](./143924-murk.json) |
