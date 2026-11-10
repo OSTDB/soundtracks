@@ -5837,6 +5837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 5: Untold Stories Bundle | 53505 | [53505-resident-evil-5-untold-stories-bundle.json](./53505-resident-evil-5-untold-stories-bundle.json) |
 | Resident Evil 5: Versus | 23014 | [23014-resident-evil-5-versus.json](./23014-resident-evil-5-versus.json) |
 | Resident Evil 6 Remastered | 41858 | [41858-resident-evil-6-remastered.json](./41858-resident-evil-6-remastered.json) |
+| Resident Evil 6: Anthology | 41860 | [41860-resident-evil-6-anthology.json](./41860-resident-evil-6-anthology.json) |
 | Resident Evil 6: Archives | 79137 | [79137-resident-evil-6-archives.json](./79137-resident-evil-6-archives.json) |
 | Resident Evil 6: Survivors Mode | 202196 | [202196-resident-evil-6-survivors-mode.json](./202196-resident-evil-6-survivors-mode.json) |
 | Resident Evil 6: Ultimate Edition | 99927 | [99927-resident-evil-6-ultimate-edition.json](./99927-resident-evil-6-ultimate-edition.json) |
@@ -7423,6 +7424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RicoGraph | 177868 | [177868-ricograph.json](./177868-ricograph.json) |
 | Riddick Bowe Boxing | 365636 | [365636-riddick-bowe-boxing.json](./365636-riddick-bowe-boxing.json) |
 | Riddick Bowe Boxing | 365637 | [365637-riddick-bowe-boxing.json](./365637-riddick-bowe-boxing.json) |
+| Riddick Bowe Boxing | 49024 | [49024-riddick-bowe-boxing.json](./49024-riddick-bowe-boxing.json) |
 | Riddim Ribbon | 66040 | [66040-riddim-ribbon.json](./66040-riddim-ribbon.json) |
 | Riddle Diario | 109063 | [109063-riddle-diario.json](./109063-riddle-diario.json) |
 | Riddle fidget spinner | 297649 | [297649-riddle-fidget-spinner.json](./297649-riddle-fidget-spinner.json) |
@@ -10336,6 +10338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogan: The Thief in the Castle | 117269 | [117269-rogan-the-thief-in-the-castle.json](./117269-rogan-the-thief-in-the-castle.json) |
 | Roger Clemens' MVP Baseball | 365656 | [365656-roger-clemens-mvp-baseball.json](./365656-roger-clemens-mvp-baseball.json) |
 | Roger Clemens' MVP Baseball | 365658 | [365658-roger-clemens-mvp-baseball.json](./365658-roger-clemens-mvp-baseball.json) |
+| Roger Clemens' MVP Baseball | 48710 | [48710-roger-clemens-mvp-baseball.json](./48710-roger-clemens-mvp-baseball.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
 | RoGlass | 271603 | [271603-roglass.json](./271603-roglass.json) |
 | Rogo | 112922 | [112922-rogo.json](./112922-rogo.json) |
@@ -13563,6 +13566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty's Adventure | 365257 | [365257-rustys-adventure.json](./365257-rustys-adventure.json) |
 | Rusty's Day Off: Episode One - Janitor on Duty | 249225 | [249225-rustys-day-off-episode-one-janitor-on-duty.json](./249225-rustys-day-off-episode-one-janitor-on-duty.json) |
 | Rusty's Rail | 180929 | [180929-rustys-rail.json](./180929-rustys-rail.json) |
+| Rusty's Real Deal Baseball | 47650 | [47650-rustys-real-deal-baseball.json](./47650-rustys-real-deal-baseball.json) |
 | Rusty's Real Deal Baseball: Bat & Switch | 258715 | [258715-rustys-real-deal-baseball-bat-and-switch.json](./258715-rustys-real-deal-baseball-bat-and-switch.json) |
 | Rusty's Real Deal Baseball: Bat Master | 258781 | [258781-rustys-real-deal-baseball-bat-master.json](./258781-rustys-real-deal-baseball-bat-master.json) |
 | Rusty's Real Deal Baseball: Cage Match | 258739 | [258739-rustys-real-deal-baseball-cage-match.json](./258739-rustys-real-deal-baseball-cage-match.json) |
