@@ -5460,6 +5460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XVI: Complete Edition | 318557 | [318557-final-fantasy-xvi-complete-edition.json](./318557-final-fantasy-xvi-complete-edition.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
 | Final Fantasy: 20th Anniversary Edition | 397 | [397-final-fantasy-20th-anniversary-edition.json](./397-final-fantasy-20th-anniversary-edition.json) |
+| Final Fantasy: Age of Warmech | 403263 | [403263-final-fantasy-age-of-warmech.json](./403263-final-fantasy-age-of-warmech.json) |
 | Final Fantasy: Airborne Brigade | 63408 | [63408-final-fantasy-airborne-brigade.json](./63408-final-fantasy-airborne-brigade.json) |
 | Final Fantasy: All the Bravest | 8549 | [8549-final-fantasy-all-the-bravest.json](./8549-final-fantasy-all-the-bravest.json) |
 | Final Fantasy: Blackmoon Prophecy | 210027 | [210027-final-fantasy-blackmoon-prophecy.json](./210027-final-fantasy-blackmoon-prophecy.json) |
@@ -9156,6 +9157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Guys | 361741 | [361741-flying-guys.json](./361741-flying-guys.json) |
 | Flying Hamster | 67124 | [67124-flying-hamster.json](./67124-flying-hamster.json) |
 | Flying Hamster HD | 52220 | [52220-flying-hamster-hd.json](./52220-flying-hamster-hd.json) |
+| Flying Hanayo-chan | 403290 | [403290-flying-hanayo-chan.json](./403290-flying-hanayo-chan.json) |
 | Flying Hero | 64265 | [64265-flying-hero.json](./64265-flying-hero.json) |
 | Flying Hero VR | 164504 | [164504-flying-hero-vr.json](./164504-flying-hero-vr.json) |
 | Flying Hero X | 146684 | [146684-flying-hero-x.json](./146684-flying-hero-x.json) |
