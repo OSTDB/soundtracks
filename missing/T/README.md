@@ -12107,6 +12107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters '97 | 15428 | [15428-the-king-of-fighters-97.json](./15428-the-king-of-fighters-97.json) |
 | The King of Fighters '97 OL | 80566 | [80566-the-king-of-fighters-97-ol.json](./80566-the-king-of-fighters-97-ol.json) |
 | The King of Fighters '98 | 15429 | [15429-the-king-of-fighters-98.json](./15429-the-king-of-fighters-98.json) |
+| The King of Fighters '98 Ultimate Match Final Edition | 23799 | [23799-the-king-of-fighters-98-ultimate-match-final-edition.json](./23799-the-king-of-fighters-98-ultimate-match-final-edition.json) |
 | The King of Fighters '98: Combo | 314214 | [314214-the-king-of-fighters-98-combo.json](./314214-the-king-of-fighters-98-combo.json) |
 | The King of Fighters '98: Special Edition | 75472 | [75472-the-king-of-fighters-98-special-edition.json](./75472-the-king-of-fighters-98-special-edition.json) |
 | The King of Fighters '98: Ultimate Match | 43643 | [43643-the-king-of-fighters-98-ultimate-match.json](./43643-the-king-of-fighters-98-ultimate-match.json) |
@@ -13055,6 +13056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of HyperStar | 148847 | [148847-the-legend-of-hyperstar.json](./148847-the-legend-of-hyperstar.json) |
 | The Legend of Iowa | 269847 | [269847-the-legend-of-iowa.json](./269847-the-legend-of-iowa.json) |
 | The Legend of Kage | 39152 | [39152-the-legend-of-kage.json](./39152-the-legend-of-kage.json) |
+| The Legend of Kage 2 | 21336 | [21336-the-legend-of-kage-2.json](./21336-the-legend-of-kage-2.json) |
 | The Legend of Kairo | 373360 | [373360-the-legend-of-kairo.json](./373360-the-legend-of-kairo.json) |
 | The Legend of Karl | 143660 | [143660-the-legend-of-karl.json](./143660-the-legend-of-karl.json) |
 | The Legend of Khiimori | 318175 | [318175-the-legend-of-khiimori.json](./318175-the-legend-of-khiimori.json) |
@@ -13085,6 +13087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Neverland | 159100 | [159100-the-legend-of-neverland.json](./159100-the-legend-of-neverland.json) |
 | The Legend of Nezha | 350349 | [350349-the-legend-of-nezha.json](./350349-the-legend-of-nezha.json) |
 | The Legend of Ninja | 147947 | [147947-the-legend-of-ninja.json](./147947-the-legend-of-ninja.json) |
+| The Legend of Oasis | 22504 | [22504-the-legend-of-oasis.json](./22504-the-legend-of-oasis.json) |
 | The Legend of Ogorets 1: Wrat | 261643 | [261643-the-legend-of-ogorets-1-wrat.json](./261643-the-legend-of-ogorets-1-wrat.json) |
 | The Legend of Ogorets 2: Tsundere | 261644 | [261644-the-legend-of-ogorets-2-tsundere.json](./261644-the-legend-of-ogorets-2-tsundere.json) |
 | The Legend of Ogorets 3: Kikimora | 270064 | [270064-the-legend-of-ogorets-3-kikimora.json](./270064-the-legend-of-ogorets-3-kikimora.json) |
@@ -20483,6 +20486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's something wrong with... | 289957 | [289957-theres-something-wrong-with.json](./289957-theres-something-wrong-with.json) |
 | There's This Girl | 134135 | [134135-theres-this-girl.json](./134135-theres-this-girl.json) |
 | Thereafter | 247622 | [247622-thereafter.json](./247622-thereafter.json) |
+| Theresia | 21300 | [21300-theresia.json](./21300-theresia.json) |
 | Therian Crush: Wild Animal Girls | 414453 | [414453-therian-crush-wild-animal-girls.json](./414453-therian-crush-wild-animal-girls.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
@@ -27372,6 +27376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Darts | 21434 | [21434-touch-darts.json](./21434-touch-darts.json) |
 | Touch de Zuno DS | 58164 | [58164-touch-de-zuno-ds.json](./58164-touch-de-zuno-ds.json) |
 | Touch Detective | 20578 | [20578-touch-detective.json](./20578-touch-detective.json) |
+| Touch Detective 2 1/2 | 21237 | [21237-touch-detective-2-1-2.json](./21237-touch-detective-2-1-2.json) |
 | Touch Detective 3 | 222362 | [222362-touch-detective-3.json](./222362-touch-detective-3.json) |
 | Touch Detective 3 + The Complete Case Files | 222231 | [222231-touch-detective-3-the-complete-case-files.json](./222231-touch-detective-3-the-complete-case-files.json) |
 | Touch Dic | 72586 | [72586-touch-dic.json](./72586-touch-dic.json) |
