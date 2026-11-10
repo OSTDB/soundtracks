@@ -3595,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReBlade: The Death Spiral | 387145 | [387145-reblade-the-death-spiral.json](./387145-reblade-the-death-spiral.json) |
 | Reblica | 289290 | [289290-reblica.json](./289290-reblica.json) |
 | Rebloom | 351101 | [351101-rebloom.json](./351101-rebloom.json) |
+| Reboant - Endless Dawn | 95171 | [95171-reboant-endless-dawn.json](./95171-reboant-endless-dawn.json) |
 | Reboant: Rise of the Nuhort | 75519 | [75519-reboant-rise-of-the-nuhort.json](./75519-reboant-rise-of-the-nuhort.json) |
 | Rebolt | 360062 | [360062-rebolt.json](./360062-rebolt.json) |
 | Rebons | 68890 | [68890-rebons.json](./68890-rebons.json) |
@@ -6200,6 +6201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rethawed | 320929 | [320929-rethawed.json](./320929-rethawed.json) |
 | ReThink | 29260 | [29260-rethink.json](./29260-rethink.json) |
 | ReThink \| Evolved | 55757 | [55757-rethink-evolved.json](./55757-rethink-evolved.json) |
+| ReThink \| Evolved 2 | 95206 | [95206-rethink-evolved-2.json](./95206-rethink-evolved-2.json) |
 | ReThink \| Evolved 3 | 118007 | [118007-rethink-evolved-3.json](./118007-rethink-evolved-3.json) |
 | ReThink \| Evolved 4 | 132592 | [132592-rethink-evolved-4.json](./132592-rethink-evolved-4.json) |
 | ReThink \| Evolved 5 | 244849 | [244849-rethink-evolved-5.json](./244849-rethink-evolved-5.json) |
@@ -9688,6 +9690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Clicker | 373841 | [373841-rock-clicker.json](./373841-rock-clicker.json) |
 | Rock Climber | 40421 | [40421-rock-climber.json](./40421-rock-climber.json) |
 | Rock Climbing? | 288790 | [288790-rock-climbing.json](./288790-rock-climbing.json) |
+| Rock Crawler: Offroad Driving | 95297 | [95297-rock-crawler-offroad-driving.json](./95297-rock-crawler-offroad-driving.json) |
 | Rock Crusher | 333032 | [333032-rock-crusher.json](./333032-rock-crusher.json) |
 | Rock Declutterer | 420207 | [420207-rock-declutterer.json](./420207-rock-declutterer.json) |
 | Rock Defender | 26650 | [26650-rock-defender.json](./26650-rock-defender.json) |
@@ -11828,6 +11831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rougle | 231558 | [231558-rougle.json](./231558-rougle.json) |
 | Roulette | 147900 | [147900-roulette.json](./147900-roulette.json) |
 | Roulette | 366926 | [366926-roulette.json](./366926-roulette.json) |
+| Roulette 3D | 95231 | [95231-roulette-3d.json](./95231-roulette-3d.json) |
 | Roulette at Aces Casino | 147867 | [147867-roulette-at-aces-casino.json](./147867-roulette-at-aces-casino.json) |
 | Roulette Club | 368547 | [368547-roulette-club.json](./368547-roulette-club.json) |
 | Roulette Dungeon | 330004 | [330004-roulette-dungeon.json](./330004-roulette-dungeon.json) |
