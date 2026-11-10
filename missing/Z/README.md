@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z.A.T.O.: I Love the World and Everything In It | 376847 | [376847-z-a-t-o-i-love-the-world-and-everything-in-it.json](./376847-z-a-t-o-i-love-the-world-and-everything-in-it.json) |
 | Z.H.P. Unlosing Ranger vs. Darkdeath Evilman | 19816 | [19816-z-h-p-unlosing-ranger-vs-darkdeath-evilman.json](./19816-z-h-p-unlosing-ranger-vs-darkdeath-evilman.json) |
 | Z.I.O.N: Deluxe Edition | 52101 | [52101-z-i-o-n-deluxe-edition.json](./52101-z-i-o-n-deluxe-edition.json) |
+| Z.I.O.N. | 32721 | [32721-z-i-o-n.json](./32721-z-i-o-n.json) |
 | Z.O.M.B.I.E. | 163952 | [163952-z-o-m-b-i-e.json](./163952-z-o-m-b-i-e.json) |
 | Z.O.N.A | 235285 | [235285-z-o-n-a.json](./235285-z-o-n-a.json) |
 | Z.O.N.A Project X | 234584 | [234584-z-o-n-a-project-x.json](./234584-z-o-n-a-project-x.json) |
