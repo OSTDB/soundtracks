@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Pioneer | 71393 | [71393-railroad-pioneer.json](./71393-railroad-pioneer.json) |
 | Railroad Pioneer | 9417 | [9417-railroad-pioneer.json](./9417-railroad-pioneer.json) |
 | Railroad Rogues | 176767 | [176767-railroad-rogues.json](./176767-railroad-rogues.json) |
+| Railroad Rummy | 408370 | [408370-railroad-rummy.json](./408370-railroad-rummy.json) |
 | Railroad Scheduler | 295005 | [295005-railroad-scheduler.json](./295005-railroad-scheduler.json) |
 | Railroad Story - Train Simulator | 88617 | [88617-railroad-story-train-simulator.json](./88617-railroad-story-train-simulator.json) |
 | Railroad Story HD | 175393 | [175393-railroad-story-hd.json](./175393-railroad-story-hd.json) |
@@ -10369,6 +10370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Legends | 6016 | [6016-rocky-legends.json](./6016-rocky-legends.json) |
 | Rocky Mayhem | 157103 | [157103-rocky-mayhem.json](./157103-rocky-mayhem.json) |
 | Rocky Memphis and the Temple of Ophuxoff | 65773 | [65773-rocky-memphis-and-the-temple-of-ophuxoff.json](./65773-rocky-memphis-and-the-temple-of-ophuxoff.json) |
+| Rocky Memphis: The Legend of Atlantis | 408485 | [408485-rocky-memphis-the-legend-of-atlantis.json](./408485-rocky-memphis-the-legend-of-atlantis.json) |
 | Rocky Mountain Trophy Hunter 2 - Above the Treeline | 69091 | [69091-rocky-mountain-trophy-hunter-2-above-the-treeline.json](./69091-rocky-mountain-trophy-hunter-2-above-the-treeline.json) |
 | Rocky Mountain Trophy Hunter 2003 | 51362 | [51362-rocky-mountain-trophy-hunter-2003.json](./51362-rocky-mountain-trophy-hunter-2003.json) |
 | Rocky Mountain Trophy Hunter 3 | 71733 | [71733-rocky-mountain-trophy-hunter-3.json](./71733-rocky-mountain-trophy-hunter-3.json) |
