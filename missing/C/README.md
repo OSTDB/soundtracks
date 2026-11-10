@@ -204,6 +204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cacodemon's Barbecue Party in Hell | 69596 | [69596-cacodemons-barbecue-party-in-hell.json](./69596-cacodemons-barbecue-party-in-hell.json) |
 | Cacoma Knight in Bizyland | 42734 | [42734-cacoma-knight-in-bizyland.json](./42734-cacoma-knight-in-bizyland.json) |
 | Cacorm Mini | 345352 | [345352-cacorm-mini.json](./345352-cacorm-mini.json) |
+| Cactboy | 423648 | [423648-cactboy.json](./423648-cactboy.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
 | Cactu-sama 2 | 204542 | [204542-cactu-sama-2.json](./204542-cactu-sama-2.json) |
 | Cactus | 261719 | [261719-cactus.json](./261719-cactus.json) |
@@ -10126,6 +10127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civilcontract | 103271 | [103271-civilcontract.json](./103271-civilcontract.json) |
 | CivilContractRPG | 125847 | [125847-civilcontractrpg.json](./125847-civilcontractrpg.json) |
 | Civilian Justice League 2 | 82618 | [82618-civilian-justice-league-2.json](./82618-civilian-justice-league-2.json) |
+| Civilio | 423617 | [423617-civilio.json](./423617-civilio.json) |
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
 | Civilization II: Multiplayer Gold Edition | 28978 | [28978-civilization-ii-multiplayer-gold-edition.json](./28978-civilization-ii-multiplayer-gold-edition.json) |
 | Civilization Online | 63915 | [63915-civilization-online.json](./63915-civilization-online.json) |
@@ -17389,6 +17391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
 | Crave | 170250 | [170250-crave.json](./170250-crave.json) |
 | Crave | 201974 | [201974-crave.json](./201974-crave.json) |
+| Crave New World | 423667 | [423667-crave-new-world.json](./423667-crave-new-world.json) |
 | Craving | 297447 | [297447-craving.json](./297447-craving.json) |
 | Craving Wisps | 403210 | [403210-craving-wisps.json](./403210-craving-wisps.json) |
 | Crawl | 295634 | [295634-crawl.json](./295634-crawl.json) |
