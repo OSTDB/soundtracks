@@ -8798,6 +8798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World on Fire | 117171 | [117171-world-on-fire.json](./117171-world-on-fire.json) |
 | World on Paper | 307572 | [307572-world-on-paper.json](./307572-world-on-paper.json) |
 | World Order | 173340 | [173340-world-order.json](./173340-world-order.json) |
+| World Orifice | 419447 | [419447-world-orifice.json](./419447-world-orifice.json) |
 | World Party Games | 50931 | [50931-world-party-games.json](./50931-world-party-games.json) |
 | World Peace Simulator 2019 | 115170 | [115170-world-peace-simulator-2019.json](./115170-world-peace-simulator-2019.json) |
 | World Piece and Peace | 191335 | [191335-world-piece-and-peace.json](./191335-world-piece-and-peace.json) |
