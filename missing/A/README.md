@@ -15757,6 +15757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASCII Dungeon | 313936 | [313936-ascii-dungeon.json](./313936-ascii-dungeon.json) |
 | ASCII Game Series: Beginning | 334774 | [334774-ascii-game-series-beginning.json](./334774-ascii-game-series-beginning.json) |
 | ASCII Game Series: Blocks | 334775 | [334775-ascii-game-series-blocks.json](./334775-ascii-game-series-blocks.json) |
+| ASCII Game Series: Maze | 405227 | [405227-ascii-game-series-maze.json](./405227-ascii-game-series-maze.json) |
 | ASCII Game Series: Pinball | 379539 | [379539-ascii-game-series-pinball.json](./379539-ascii-game-series-pinball.json) |
 | ASCII Game Series: Snake | 334776 | [334776-ascii-game-series-snake.json](./334776-ascii-game-series-snake.json) |
 | Ascii Sector | 289583 | [289583-ascii-sector.json](./289583-ascii-sector.json) |
@@ -17759,6 +17760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atmosfear: The Third Dimension | 324940 | [324940-atmosfear-the-third-dimension.json](./324940-atmosfear-the-third-dimension.json) |
 | Atmosfear: The Third Dimension | 73340 | [73340-atmosfear-the-third-dimension.json](./73340-atmosfear-the-third-dimension.json) |
 | Atmospheric Extinction | 259745 | [259745-atmospheric-extinction.json](./259745-atmospheric-extinction.json) |
+| Atmospheric Titan | 405233 | [405233-atmospheric-titan.json](./405233-atmospheric-titan.json) |
 | Atmosphir | 70682 | [70682-atmosphir.json](./70682-atmosphir.json) |
 | ATNRPG | 387687 | [387687-atnrpg.json](./387687-atnrpg.json) |
 | Ato | 132309 | [132309-ato.json](./132309-ato.json) |
@@ -18688,6 +18690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auver | 244060 | [244060-auver.json](./244060-auver.json) |
 | AUX B | 57418 | [57418-aux-b.json](./57418-aux-b.json) |
 | Aux Battles | 419617 | [419617-aux-battles.json](./419617-aux-battles.json) |
+| Aux Court | 405795 | [405795-aux-court.json](./405795-aux-court.json) |
 | Auxin | 267478 | [267478-auxin.json](./267478-auxin.json) |
 | Auxworld | 272306 | [272306-auxworld.json](./272306-auxworld.json) |
 | AV Bishoujo Senshi Girl Fighting | 48591 | [48591-av-bishoujo-senshi-girl-fighting.json](./48591-av-bishoujo-senshi-girl-fighting.json) |
