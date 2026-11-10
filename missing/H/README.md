@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki: Edo Blossoms - Deluxe Edition | 186545 | [186545-hakuoki-edo-blossoms-deluxe-edition.json](./186545-hakuoki-edo-blossoms-deluxe-edition.json) |
 | Hakuoki: Edo Blossoms - DLC Bundle | 186544 | [186544-hakuoki-edo-blossoms-dlc-bundle.json](./186544-hakuoki-edo-blossoms-dlc-bundle.json) |
 | Hakuoki: Edo Blossoms - Edo Treasure Box | 171153 | [171153-hakuoki-edo-blossoms-edo-treasure-box.json](./171153-hakuoki-edo-blossoms-edo-treasure-box.json) |
+| Hakuoki: Kyoto Winds | 25747 | [25747-hakuoki-kyoto-winds.json](./25747-hakuoki-kyoto-winds.json) |
 | Hakuoki: Kyoto Winds - Deluxe Edition | 243920 | [243920-hakuoki-kyoto-winds-deluxe-edition.json](./243920-hakuoki-kyoto-winds-deluxe-edition.json) |
 | Hakuoki: Kyoto Winds - Winds Treasure Box | 168905 | [168905-hakuoki-kyoto-winds-winds-treasure-box.json](./168905-hakuoki-kyoto-winds-winds-treasure-box.json) |
 | Hakuoki: Memories of the Shinsengumi | 22148 | [22148-hakuoki-memories-of-the-shinsengumi.json](./22148-hakuoki-memories-of-the-shinsengumi.json) |
@@ -1831,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Train | 100644 | [100644-happy-train.json](./100644-happy-train.json) |
 | Happy Trap House | 224552 | [224552-happy-trap-house.json](./224552-happy-trap-house.json) |
 | Happy Tree Friends: Deadeye Derby | 97972 | [97972-happy-tree-friends-deadeye-derby.json](./97972-happy-tree-friends-deadeye-derby.json) |
+| Happy Tree Friends: False Alarm | 5942 | [5942-happy-tree-friends-false-alarm.json](./5942-happy-tree-friends-false-alarm.json) |
 | Happy Tree Friends: Flippy's Flying Frenzy | 355051 | [355051-happy-tree-friends-flippys-flying-frenzy.json](./355051-happy-tree-friends-flippys-flying-frenzy.json) |
 | Happy Uppen Sometimes Downsad | 310140 | [310140-happy-uppen-sometimes-downsad.json](./310140-happy-uppen-sometimes-downsad.json) |
 | Happy Valentine's Day | 169001 | [169001-happy-valentines-day.json](./169001-happy-valentines-day.json) |
@@ -3562,6 +3564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: Kobolds & Catacombs | 76152 | [76152-hearthstone-kobolds-and-catacombs.json](./76152-hearthstone-kobolds-and-catacombs.json) |
 | Hearthstone: Madness at the Darkmoon Faire | 387380 | [387380-hearthstone-madness-at-the-darkmoon-faire.json](./387380-hearthstone-madness-at-the-darkmoon-faire.json) |
 | Hearthstone: March of the Lich King | 387390 | [387390-hearthstone-march-of-the-lich-king.json](./387390-hearthstone-march-of-the-lich-king.json) |
+| Hearthstone: Mean Streets of Gadgetzan | 25601 | [25601-hearthstone-mean-streets-of-gadgetzan.json](./25601-hearthstone-mean-streets-of-gadgetzan.json) |
 | Hearthstone: Murder at Castle Nathria | 387387 | [387387-hearthstone-murder-at-castle-nathria.json](./387387-hearthstone-murder-at-castle-nathria.json) |
 | Hearthstone: One Night in Karazhan | 21976 | [21976-hearthstone-one-night-in-karazhan.json](./21976-hearthstone-one-night-in-karazhan.json) |
 | Hearthstone: Perils in Paradise | 325842 | [325842-hearthstone-perils-in-paradise.json](./325842-hearthstone-perils-in-paradise.json) |
