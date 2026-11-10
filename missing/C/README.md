@@ -11694,6 +11694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobi Treasure | 9798 | [9798-cobi-treasure.json](./9798-cobi-treasure.json) |
 | Cobi Treasure Deluxe | 10097 | [10097-cobi-treasure-deluxe.json](./10097-cobi-treasure-deluxe.json) |
 | Cobos | 74596 | [74596-cobos.json](./74596-cobos.json) |
+| Cobot-Man Adventure | 425410 | [425410-cobot-man-adventure.json](./425410-cobot-man-adventure.json) |
 | Cobots | 145901 | [145901-cobots.json](./145901-cobots.json) |
 | CoBots | 62707 | [62707-cobots.json](./62707-cobots.json) |
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
@@ -12420,6 +12421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collapsible D | 175516 | [175516-collapsible-d.json](./175516-collapsible-d.json) |
 | Collapsing | 258713 | [258713-collapsing.json](./258713-collapsing.json) |
 | Collapsing HD | 175289 | [175289-collapsing-hd.json](./175289-collapsing-hd.json) |
+| Collapsle | 425420 | [425420-collapsle.json](./425420-collapsle.json) |
 | Collapsus | 99413 | [99413-collapsus.json](./99413-collapsus.json) |
 | Collar x Malice: The V-Day Incident! | 384664 | [384664-collar-x-malice-the-v-day-incident.json](./384664-collar-x-malice-the-v-day-incident.json) |
 | Collar x Malice: Unlimited | 69344 | [69344-collar-x-malice-unlimited.json](./69344-collar-x-malice-unlimited.json) |
@@ -17984,6 +17986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CreatorCrate | 119905 | [119905-creatorcrate.json](./119905-creatorcrate.json) |
 | Creators | 284985 | [284985-creators.json](./284985-creators.json) |
 | Creatorverse | 64497 | [64497-creatorverse.json](./64497-creatorverse.json) |
+| Creatrix | 425387 | [425387-creatrix.json](./425387-creatrix.json) |
 | Creatura | 82351 | [82351-creatura.json](./82351-creatura.json) |
 | Creature Battle Lab | 18732 | [18732-creature-battle-lab.json](./18732-creature-battle-lab.json) |
 | Creature Battle Simulator | 265388 | [265388-creature-battle-simulator.json](./265388-creature-battle-simulator.json) |
