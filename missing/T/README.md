@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanuki Justice | 139832 | [139832-tanuki-justice.json](./139832-tanuki-justice.json) |
 | Tanuki No Tabi | 307133 | [307133-tanuki-no-tabi.json](./307133-tanuki-no-tabi.json) |
 | Tanuki Sunset Classic | 178502 | [178502-tanuki-sunset-classic.json](./178502-tanuki-sunset-classic.json) |
+| Tanuki Tag | 424298 | [424298-tanuki-tag.json](./424298-tanuki-tag.json) |
 | Tanuki Tales | 307160 | [307160-tanuki-tales.json](./307160-tanuki-tales.json) |
 | Tanuki Thief | 307135 | [307135-tanuki-thief.json](./307135-tanuki-thief.json) |
 | Tanuki Tiles | 180033 | [180033-tanuki-tiles.json](./180033-tanuki-tiles.json) |
@@ -9096,6 +9097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Edgelands | 28217 | [28217-the-edgelands.json](./28217-the-edgelands.json) |
 | The Edibles | 273416 | [273416-the-edibles.json](./273416-the-edibles.json) |
 | The Editor | 239783 | [239783-the-editor.json](./239783-the-editor.json) |
+| The Edutainment Vortex Diner | 424297 | [424297-the-edutainment-vortex-diner.json](./424297-the-edutainment-vortex-diner.json) |
 | The Eerie Adventures of Kally | 76109 | [76109-the-eerie-adventures-of-kally.json](./76109-the-eerie-adventures-of-kally.json) |
 | The Eerie Inn | 95595 | [95595-the-eerie-inn.json](./95595-the-eerie-inn.json) |
 | The Eerie Inn VR | 106635 | [106635-the-eerie-inn-vr.json](./106635-the-eerie-inn-vr.json) |
@@ -9372,6 +9374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Entente: Battlefields WW1 | 9829 | [9829-the-entente-battlefields-ww1.json](./9829-the-entente-battlefields-ww1.json) |
 | The Entertainer | 395864 | [395864-the-entertainer.json](./395864-the-entertainer.json) |
 | The Entertainment | 128622 | [128622-the-entertainment.json](./128622-the-entertainment.json) |
+| The Enthralling Realms 7: Curse of the Wildwood | 424255 | [424255-the-enthralling-realms-7-curse-of-the-wildwood.json](./424255-the-enthralling-realms-7-curse-of-the-wildwood.json) |
 | The Enthralling Realms: An Alchemist's Tale | 114544 | [114544-the-enthralling-realms-an-alchemists-tale.json](./114544-the-enthralling-realms-an-alchemists-tale.json) |
 | The Enthralling Realms: Curse of Darkness | 104806 | [104806-the-enthralling-realms-curse-of-darkness.json](./104806-the-enthralling-realms-curse-of-darkness.json) |
 | The Entity | 101331 | [101331-the-entity.json](./101331-the-entity.json) |
@@ -14597,6 +14600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moonlight Circus | 199235 | [199235-the-moonlight-circus.json](./199235-the-moonlight-circus.json) |
 | The Moonlight Motel | 148870 | [148870-the-moonlight-motel.json](./148870-the-moonlight-motel.json) |
 | The Moonlighters | 62993 | [62993-the-moonlighters.json](./62993-the-moonlighters.json) |
+| The Moonlit Oath | 424269 | [424269-the-moonlit-oath.json](./424269-the-moonlit-oath.json) |
 | The Moonlit Tower | 216324 | [216324-the-moonlit-tower.json](./216324-the-moonlit-tower.json) |
 | The Moonstone Equation | 29532 | [29532-the-moonstone-equation.json](./29532-the-moonstone-equation.json) |
 | The Mooseman | 27358 | [27358-the-mooseman.json](./27358-the-mooseman.json) |
@@ -31465,6 +31469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash in the Flower Garden | 280245 | [280245-trash-in-the-flower-garden.json](./280245-trash-in-the-flower-garden.json) |
 | Trash Invasion: Waste Recycle | 183905 | [183905-trash-invasion-waste-recycle.json](./183905-trash-invasion-waste-recycle.json) |
 | Trash is Fun | 153997 | [153997-trash-is-fun.json](./153997-trash-is-fun.json) |
+| Trash Island | 424303 | [424303-trash-island.json](./424303-trash-island.json) |
 | Trash It | 46492 | [46492-trash-it.json](./46492-trash-it.json) |
 | Trash Magnate | 217318 | [217318-trash-magnate.json](./217318-trash-magnate.json) |
 | Trash of the Titans | 253528 | [253528-trash-of-the-titans.json](./253528-trash-of-the-titans.json) |
