@@ -3413,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weirdest Thing | 110617 | [110617-weirdest-thing.json](./110617-weirdest-thing.json) |
 | Weirdlands | 144978 | [144978-weirdlands.json](./144978-weirdlands.json) |
 | Weirdo | 324805 | [324805-weirdo.json](./324805-weirdo.json) |
+| Weirdose | 423666 | [423666-weirdose.json](./423666-weirdose.json) |
 | WeirdParisGame | 353872 | [353872-weirdparisgame.json](./353872-weirdparisgame.json) |
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
 | Weiss Schwarz Portable: 2nd Turn | 269508 | [269508-weiss-schwarz-portable-2nd-turn.json](./269508-weiss-schwarz-portable-2nd-turn.json) |
@@ -5371,6 +5372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Bird Hunter America | 88619 | [88619-wild-bird-hunter-america.json](./88619-wild-bird-hunter-america.json) |
 | Wild Blood | 18875 | [18875-wild-blood.json](./18875-wild-blood.json) |
 | Wild Blue Skies | 335296 | [335296-wild-blue-skies.json](./335296-wild-blue-skies.json) |
+| Wild Boar Digging | 423642 | [423642-wild-boar-digging.json](./423642-wild-boar-digging.json) |
 | Wild Boater | 254983 | [254983-wild-boater.json](./254983-wild-boater.json) |
 | Wild Bullets | 119292 | [119292-wild-bullets.json](./119292-wild-bullets.json) |
 | Wild Buster: Heroes of Titan | 75152 | [75152-wild-buster-heroes-of-titan.json](./75152-wild-buster-heroes-of-titan.json) |
@@ -9522,6 +9524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckreation | 213241 | [213241-wreckreation.json](./213241-wreckreation.json) |
 | Wrekless | 304739 | [304739-wrekless.json](./304739-wrekless.json) |
 | Wren | 126524 | [126524-wren.json](./126524-wren.json) |
+| Wren Falls | 423638 | [423638-wren-falls.json](./423638-wren-falls.json) |
 | Wren's Journey | 215656 | [215656-wrens-journey.json](./215656-wrens-journey.json) |
 | Wren's Resurgence | 288455 | [288455-wrens-resurgence.json](./288455-wrens-resurgence.json) |
 | Wrench | 109288 | [109288-wrench.json](./109288-wrench.json) |
