@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Infinite: Steelbook Edition | 171280 | [171280-halo-infinite-steelbook-edition.json](./171280-halo-infinite-steelbook-edition.json) |
 | Halo Infinite: Winter Update | 225485 | [225485-halo-infinite-winter-update.json](./225485-halo-infinite-winter-update.json) |
 | Halo Infinte: Operation - Anvil | 335852 | [335852-halo-infinte-operation-anvil.json](./335852-halo-infinte-operation-anvil.json) |
+| Halo MCC VR | 412446 | [412446-halo-mcc-vr.json](./412446-halo-mcc-vr.json) |
 | Halo Online | 60459 | [60459-halo-online.json](./60459-halo-online.json) |
 | Halo Roll | 108485 | [108485-halo-roll.json](./108485-halo-roll.json) |
 | Halo Triple Pack | 230231 | [230231-halo-triple-pack.json](./230231-halo-triple-pack.json) |
@@ -12887,6 +12888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyaku Monogatari: Honto ni Atta Kowai Hanashi | 112569 | [112569-hyaku-monogatari-honto-ni-atta-kowai-hanashi.json](./112569-hyaku-monogatari-honto-ni-atta-kowai-hanashi.json) |
 | Hyaku Monogatari: Kaidan Romance | 59422 | [59422-hyaku-monogatari-kaidan-romance.json](./59422-hyaku-monogatari-kaidan-romance.json) |
 | Hyaku no Sekai no Monogatari: The Tales on a Watery Wilderness | 48124 | [48124-hyaku-no-sekai-no-monogatari-the-tales-on-a-watery-wilderness.json](./48124-hyaku-no-sekai-no-monogatari-the-tales-on-a-watery-wilderness.json) |
+| Hyakubyaku | 412469 | [412469-hyakubyaku.json](./412469-hyakubyaku.json) |
 | Hyakuju Sentai Gaoranger | 43730 | [43730-hyakuju-sentai-gaoranger.json](./43730-hyakuju-sentai-gaoranger.json) |
 | Hyakumasu Dora-san Nobita no Time Battle | 56994 | [56994-hyakumasu-dora-san-nobita-no-time-battle.json](./56994-hyakumasu-dora-san-nobita-no-time-battle.json) |
 | Hyakume no Hananie | 424856 | [424856-hyakume-no-hananie.json](./424856-hyakume-no-hananie.json) |
