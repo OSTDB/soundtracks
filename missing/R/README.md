@@ -3209,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealBX VR | 29481 | [29481-realbx-vr.json](./29481-realbx-vr.json) |
 | RealDol | 384336 | [384336-realdol.json](./384336-realdol.json) |
 | RealDoom | 291986 | [291986-realdoom.json](./291986-realdoom.json) |
+| RealEscape | 425978 | [425978-realescape.json](./425978-realescape.json) |
 | RealFighter | 370887 | [370887-realfighter.json](./370887-realfighter.json) |
 | RealFlight 8 | 90068 | [90068-realflight-8.json](./90068-realflight-8.json) |
 | RealFlight 8 Horizon: Hobby Edition | 162745 | [162745-realflight-8-horizon-hobby-edition.json](./162745-realflight-8-horizon-hobby-edition.json) |
@@ -3594,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebirth-Land of Zombies | 189122 | [189122-rebirth-land-of-zombies.json](./189122-rebirth-land-of-zombies.json) |
 | Rebirth: Beware of Mr.Wang | 174114 | [174114-rebirth-beware-of-mr-wang.json](./174114-rebirth-beware-of-mr-wang.json) |
 | Rebirth: Mr Wang | 169105 | [169105-rebirth-mr-wang.json](./169105-rebirth-mr-wang.json) |
+| ReBirth: Rebuild & Resist | 426001 | [426001-rebirth-rebuild-and-resist.json](./426001-rebirth-rebuild-and-resist.json) |
 | Rebirth! New Lover | 309841 | [309841-rebirth-new-lover.json](./309841-rebirth-new-lover.json) |
 | Rebirthday | 176939 | [176939-rebirthday.json](./176939-rebirthday.json) |
 | Rebirthing | 239771 | [239771-rebirthing.json](./239771-rebirthing.json) |
@@ -4635,6 +4637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflect Laser | 399670 | [399670-reflect-laser.json](./399670-reflect-laser.json) |
 | Reflect World | 41391 | [41391-reflect-world.json](./41391-reflect-world.json) |
 | Reflect-on | 157569 | [157569-reflect-on.json](./157569-reflect-on.json) |
+| Reflect89 | 425992 | [425992-reflect89.json](./425992-reflect89.json) |
 | Reflected | 163398 | [163398-reflected.json](./163398-reflected.json) |
 | Reflected Ray | 97227 | [97227-reflected-ray.json](./97227-reflected-ray.json) |
 | Reflectile | 247546 | [247546-reflectile.json](./247546-reflectile.json) |
@@ -6140,6 +6143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless World | 74719 | [74719-restless-world.json](./74719-restless-world.json) |
 | Restlos | 400708 | [400708-restlos.json](./400708-restlos.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
+| Restock Master | 426012 | [426012-restock-master.json](./426012-restock-master.json) |
 | Restorart: Horizon Bay Collector's Edition | 344416 | [344416-restorart-horizon-bay-collectors-edition.json](./344416-restorart-horizon-bay-collectors-edition.json) |
 | Restoration | 426414 | [426414-restoration.json](./426414-restoration.json) |
 | Restoration | 55356 | [55356-restoration.json](./55356-restoration.json) |
@@ -7103,6 +7107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rez | 11244 | [11244-rez.json](./11244-rez.json) |
 | Rez HD | 84308 | [84308-rez-hd.json](./84308-rez-hd.json) |
 | Rez Plz | 124100 | [124100-rez-plz.json](./124100-rez-plz.json) |
+| Rezago | 426069 | [426069-rezago.json](./426069-rezago.json) |
 | Rezal | 339685 | [339685-rezal.json](./339685-rezal.json) |
 | Rezarlisia Stories | 320794 | [320794-rezarlisia-stories.json](./320794-rezarlisia-stories.json) |
 | Rezarus | 326849 | [326849-rezarus.json](./326849-rezarus.json) |
@@ -13582,6 +13587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust: Sunburn Pack | 401308 | [401308-rust-sunburn-pack.json](./401308-rust-sunburn-pack.json) |
 | Rust: Voice Props Pack | 154246 | [154246-rust-voice-props-pack.json](./154246-rust-voice-props-pack.json) |
 | Rust'N Ruin | 262784 | [262784-rustn-ruin.json](./262784-rustn-ruin.json) |
+| Rustbrook | 426097 | [426097-rustbrook.json](./426097-rustbrook.json) |
 | Rustbucket Rumble | 35699 | [35699-rustbucket-rumble.json](./35699-rustbucket-rumble.json) |
 | Rustbuckets | 415297 | [415297-rustbuckets.json](./415297-rustbuckets.json) |
 | Rusted | 340945 | [340945-rusted.json](./340945-rusted.json) |
