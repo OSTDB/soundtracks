@@ -10698,6 +10698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pnickies | 40262 | [40262-pnickies.json](./40262-pnickies.json) |
 | PNR: Point of No return | 406904 | [406904-pnr-point-of-no-return.json](./406904-pnr-point-of-no-return.json) |
 | Po-Go-No! | 257111 | [257111-po-go-no.json](./257111-po-go-no.json) |
+| PO'ed | 4327 | [4327-poed.json](./4327-poed.json) |
 | PO'ed: Definitive Edition | 294706 | [294706-poed-definitive-edition.json](./294706-poed-definitive-edition.json) |
 | Poached : Hunt The Hunter | 163965 | [163965-poached-hunt-the-hunter.json](./163965-poached-hunt-the-hunter.json) |
 | Poacher | 93546 | [93546-poacher.json](./93546-poacher.json) |
@@ -19137,6 +19138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Kids | 306597 | [306597-puzzle-kids.json](./306597-puzzle-kids.json) |
 | Puzzle King | 46791 | [46791-puzzle-king.json](./46791-puzzle-king.json) |
 | Puzzle Kingdoms | 210440 | [210440-puzzle-kingdoms.json](./210440-puzzle-kingdoms.json) |
+| Puzzle Kingdoms | 5113 | [5113-puzzle-kingdoms.json](./5113-puzzle-kingdoms.json) |
 | Puzzle Kombat | 265855 | [265855-puzzle-kombat.json](./265855-puzzle-kombat.json) |
 | Puzzle Lab | 88118 | [88118-puzzle-lab.json](./88118-puzzle-lab.json) |
 | Puzzle League | 179406 | [179406-puzzle-league.json](./179406-puzzle-league.json) |
