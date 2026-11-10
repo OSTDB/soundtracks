@@ -2243,6 +2243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unhappy Ever After: Blood Tales | 170692 | [170692-unhappy-ever-after-blood-tales.json](./170692-unhappy-ever-after-blood-tales.json) |
 | Unhappy Hour | 197106 | [197106-unhappy-hour.json](./197106-unhappy-hour.json) |
 | UnHappy Place | 213781 | [213781-unhappy-place.json](./213781-unhappy-place.json) |
+| Unharvest | 420600 | [420600-unharvest.json](./420600-unharvest.json) |
 | Unhatched | 144113 | [144113-unhatched.json](./144113-unhatched.json) |
 | Unheard | 109148 | [109148-unheard.json](./109148-unheard.json) |
 | Unheard Screams: King Leopold II's Rule Over the Congo | 35383 | [35383-unheard-screams-king-leopold-iis-rule-over-the-congo.json](./35383-unheard-screams-king-leopold-iis-rule-over-the-congo.json) |
