@@ -4510,6 +4510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner II | 365123 | [365123-after-burner-ii.json](./365123-after-burner-ii.json) |
 | After Burner III | 365185 | [365185-after-burner-iii.json](./365185-after-burner-iii.json) |
 | After Burner III | 5356 | [5356-after-burner-iii.json](./5356-after-burner-iii.json) |
+| After Burner: Black Falcon | 23085 | [23085-after-burner-black-falcon.json](./23085-after-burner-black-falcon.json) |
 | After Burst | 7748 | [7748-after-burst.json](./7748-after-burst.json) |
 | After Corruption | 211173 | [211173-after-corruption.json](./211173-after-corruption.json) |
 | After Dark | 238130 | [238130-after-dark.json](./238130-after-dark.json) |
@@ -11476,6 +11477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another World in the Morning | 258260 | [258260-another-world-in-the-morning.json](./258260-another-world-in-the-morning.json) |
 | Another World Mahjong Girl | 269356 | [269356-another-world-mahjong-girl.json](./269356-another-world-mahjong-girl.json) |
 | Another World Quest | 212714 | [212714-another-world-quest.json](./212714-another-world-quest.json) |
+| Another World: 15th Anniversary Edition | 23114 | [23114-another-world-15th-anniversary-edition.json](./23114-another-world-15th-anniversary-edition.json) |
 | Another World: 20th Anniversary Edition | 16493 | [16493-another-world-20th-anniversary-edition.json](./16493-another-world-20th-anniversary-edition.json) |
 | Another World: Lost In Heart | 365735 | [365735-another-world-lost-in-heart.json](./365735-another-world-lost-in-heart.json) |
 | Another World: Pirates And The Great Old Gods | 379450 | [379450-another-world-pirates-and-the-great-old-gods.json](./379450-another-world-pirates-and-the-great-old-gods.json) |
@@ -14789,6 +14791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core: Master of Arena | 19424 | [19424-armored-core-master-of-arena.json](./19424-armored-core-master-of-arena.json) |
 | Armored Core: Master of Arena | 331210 | [331210-armored-core-master-of-arena.json](./331210-armored-core-master-of-arena.json) |
 | Armored Core: Nexus | 19412 | [19412-armored-core-nexus.json](./19412-armored-core-nexus.json) |
+| Armored Core: Nine Breaker | 23146 | [23146-armored-core-nine-breaker.json](./23146-armored-core-nine-breaker.json) |
 | Armored Core: Project Phantasma | 19428 | [19428-armored-core-project-phantasma.json](./19428-armored-core-project-phantasma.json) |
 | Armored Core: Project Phantasma | 331209 | [331209-armored-core-project-phantasma.json](./331209-armored-core-project-phantasma.json) |
 | Armored Core: Silent Line Portable | 21757 | [21757-armored-core-silent-line-portable.json](./21757-armored-core-silent-line-portable.json) |
@@ -16582,6 +16585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astonia Reborn | 108311 | [108311-astonia-reborn.json](./108311-astonia-reborn.json) |
 | Astonia Resurgence | 149222 | [149222-astonia-resurgence.json](./149222-astonia-resurgence.json) |
 | Astonia: The Return of Yendor | 129670 | [129670-astonia-the-return-of-yendor.json](./129670-astonia-the-return-of-yendor.json) |
+| Astonishia Story | 23001 | [23001-astonishia-story.json](./23001-astonishia-story.json) |
 | Astonishia VS | 61577 | [61577-astonishia-vs.json](./61577-astonishia-vs.json) |
 | Astonishing | 384171 | [384171-astonishing.json](./384171-astonishing.json) |
 | Astonishing Baseball 20 | 133470 | [133470-astonishing-baseball-20.json](./133470-astonishing-baseball-20.json) |
