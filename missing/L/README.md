@@ -2762,6 +2762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Mir | 62774 | [62774-legend-of-mir.json](./62774-legend-of-mir.json) |
 | Legend of Mir 2 | 67644 | [67644-legend-of-mir-2.json](./67644-legend-of-mir-2.json) |
 | Legend of Mir 3 | 51197 | [51197-legend-of-mir-3.json](./51197-legend-of-mir-3.json) |
+| Legend of Miro | 32687 | [32687-legend-of-miro.json](./32687-legend-of-miro.json) |
 | Legend of Moros | 33320 | [33320-legend-of-moros.json](./33320-legend-of-moros.json) |
 | Legend of Mortal | 203852 | [203852-legend-of-mortal.json](./203852-legend-of-mortal.json) |
 | Legend of Mulan | 64453 | [64453-legend-of-mulan.json](./64453-legend-of-mulan.json) |
@@ -8767,6 +8768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Robot | 163781 | [163781-lost-robot.json](./163781-lost-robot.json) |
 | Lost Ronin | 83850 | [83850-lost-ronin.json](./83850-lost-ronin.json) |
 | Lost Room: Escape | 324723 | [324723-lost-room-escape.json](./324723-lost-room-escape.json) |
+| Lost Route | 32647 | [32647-lost-route.json](./32647-lost-route.json) |
 | Lost Ruins | 142596 | [142596-lost-ruins.json](./142596-lost-ruins.json) |
 | Lost Ruins of Arnak | 350426 | [350426-lost-ruins-of-arnak.json](./350426-lost-ruins-of-arnak.json) |
 | Lost Saga | 63868 | [63868-lost-saga.json](./63868-lost-saga.json) |
