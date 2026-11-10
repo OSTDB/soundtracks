@@ -8848,6 +8848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronescher | 203929 | [203929-chronescher.json](./203929-chronescher.json) |
 | Chronia: The Rotcore | 391437 | [391437-chronia-the-rotcore.json](./391437-chronia-the-rotcore.json) |
 | Chronical | 276695 | [276695-chronical.json](./276695-chronical.json) |
+| Chronicle Keepers: The Dreaming Garden | 10084 | [10084-chronicle-keepers-the-dreaming-garden.json](./10084-chronicle-keepers-the-dreaming-garden.json) |
 | Chronicle Keepers: The Dreaming Garden - Collector's Edition | 52510 | [52510-chronicle-keepers-the-dreaming-garden-collectors-edition.json](./52510-chronicle-keepers-the-dreaming-garden-collectors-edition.json) |
 | Chronicle of Daneya | 156969 | [156969-chronicle-of-daneya.json](./156969-chronicle-of-daneya.json) |
 | Chronicle of Ekan | 169980 | [169980-chronicle-of-ekan.json](./169980-chronicle-of-ekan.json) |
@@ -14582,6 +14583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Helper | 303424 | [303424-construction-helper.json](./303424-construction-helper.json) |
 | Construction Machine Simulator 2023: Hard Truck Work Job | 259233 | [259233-construction-machine-simulator-2023-hard-truck-work-job.json](./259233-construction-machine-simulator-2023-hard-truck-work-job.json) |
 | Construction Machine Simulator: Premium Edition | 328753 | [328753-construction-machine-simulator-premium-edition.json](./328753-construction-machine-simulator-premium-edition.json) |
+| Construction Machines 2014 | 10105 | [10105-construction-machines-2014.json](./10105-construction-machines-2014.json) |
 | Construction Machines Sim | 201141 | [201141-construction-machines-sim.json](./201141-construction-machines-sim.json) |
 | Construction Machines SIM: Bridges, buildings and constructor trucks simulator | 201086 | [201086-construction-machines-sim-bridges-buildings-and-constructor-trucks-simulator.json](./201086-construction-machines-sim-bridges-buildings-and-constructor-trucks-simulator.json) |
 | Construction Machines Simulator | 117934 | [117934-construction-machines-simulator.json](./117934-construction-machines-simulator.json) |
@@ -17144,6 +17146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash + Spyro Triple Play Bundle | 218970 | [218970-crash-spyro-triple-play-bundle.json](./218970-crash-spyro-triple-play-bundle.json) |
 | Crash Advance IV | 269950 | [269950-crash-advance-iv.json](./269950-crash-advance-iv.json) |
 | Crash Adventure | 415212 | [415212-crash-adventure.json](./415212-crash-adventure.json) |
+| Crash and Burn Racing | 10110 | [10110-crash-and-burn-racing.json](./10110-crash-and-burn-racing.json) |
 | Crash and Run | 238481 | [238481-crash-and-run.json](./238481-crash-and-run.json) |
 | Crash Bandicoot | 135449 | [135449-crash-bandicoot.json](./135449-crash-bandicoot.json) |
 | Crash Bandicoot | 148195 | [148195-crash-bandicoot.json](./148195-crash-bandicoot.json) |
@@ -18223,6 +18226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket 97: Ashes Tour Edition | 69163 | [69163-cricket-97-ashes-tour-edition.json](./69163-cricket-97-ashes-tour-edition.json) |
 | Cricket Captain | 13532 | [13532-cricket-captain.json](./13532-cricket-captain.json) |
 | Cricket Captain | 95430 | [95430-cricket-captain.json](./95430-cricket-captain.json) |
+| Cricket Captain 2014 | 10113 | [10113-cricket-captain-2014.json](./10113-cricket-captain-2014.json) |
 | Cricket Captain 2015 | 33968 | [33968-cricket-captain-2015.json](./33968-cricket-captain-2015.json) |
 | Cricket Captain 2018 | 103401 | [103401-cricket-captain-2018.json](./103401-cricket-captain-2018.json) |
 | Cricket Captain 2019 | 118777 | [118777-cricket-captain-2019.json](./118777-cricket-captain-2019.json) |
