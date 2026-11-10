@@ -1850,6 +1850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground | 314923 | [314923-underground.json](./314923-underground.json) |
 | Underground | 380742 | [380742-underground.json](./380742-underground.json) |
 | Underground | 41777 | [41777-underground.json](./41777-underground.json) |
+| Underground | 426018 | [426018-underground.json](./426018-underground.json) |
 | Underground | 77009 | [77009-underground.json](./77009-underground.json) |
 | Underground 2077 | 174858 | [174858-underground-2077.json](./174858-underground-2077.json) |
 | Underground Above | 250917 | [250917-underground-above.json](./250917-underground-above.json) |
