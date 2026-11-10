@@ -3014,6 +3014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastry Cranker | 353788 | [353788-pastry-cranker.json](./353788-pastry-cranker.json) |
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pastry Paradise | 58918 | [58918-pastry-paradise.json](./58918-pastry-paradise.json) |
+| Pastry Pile Up | 396620 | [396620-pastry-pile-up.json](./396620-pastry-pile-up.json) |
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
 | Pastry Witches | 98150 | [98150-pastry-witches.json](./98150-pastry-witches.json) |
 | Pasture Palette | 374251 | [374251-pasture-palette.json](./374251-pasture-palette.json) |
@@ -7038,6 +7039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars Of Fog | 337165 | [337165-pillars-of-fog.json](./337165-pillars-of-fog.json) |
 | Pillars of Garendall | 69873 | [69873-pillars-of-garendall.json](./69873-pillars-of-garendall.json) |
 | Pillars of Light | 197018 | [197018-pillars-of-light.json](./197018-pillars-of-light.json) |
+| Pillars of Pantheon | 396616 | [396616-pillars-of-pantheon.json](./396616-pillars-of-pantheon.json) |
 | Pillars of Protection | 164134 | [164134-pillars-of-protection.json](./164134-pillars-of-protection.json) |
 | Pillars of Sorrow | 187645 | [187645-pillars-of-sorrow.json](./187645-pillars-of-sorrow.json) |
 | Pillars on Poppy Hills | 152095 | [152095-pillars-on-poppy-hills.json](./152095-pillars-on-poppy-hills.json) |
@@ -11354,6 +11356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Advanced: Cyber Poké Ball 2 | 245422 | [245422-pokemon-advanced-cyber-poke-ball-2.json](./245422-pokemon-advanced-cyber-poke-ball-2.json) |
 | Pokémon Adventure | 143190 | [143190-pokemon-adventure.json](./143190-pokemon-adventure.json) |
 | Pokémon Adventures: Red Chapter | 145931 | [145931-pokemon-adventures-red-chapter.json](./145931-pokemon-adventures-red-chapter.json) |
+| Pokémon Aesthetic Red | 396606 | [396606-pokemon-aesthetic-red.json](./396606-pokemon-aesthetic-red.json) |
 | Pokémon Africanus | 298010 | [298010-pokemon-africanus.json](./298010-pokemon-africanus.json) |
 | Pokémon Ageless | 360182 | [360182-pokemon-ageless.json](./360182-pokemon-ageless.json) |
 | Pokémon All In Version | 410794 | [410794-pokemon-all-in-version.json](./410794-pokemon-all-in-version.json) |
@@ -11689,6 +11692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Crown | 300330 | [300330-pokemon-crown.json](./300330-pokemon-crown.json) |
 | Pokémon Crystal 251 | 312377 | [312377-pokemon-crystal-251.json](./312377-pokemon-crystal-251.json) |
 | Pokémon Crystal Advance Redux | 252910 | [252910-pokemon-crystal-advance-redux.json](./252910-pokemon-crystal-advance-redux.json) |
+| Pokémon Crystal Awakening | 396535 | [396535-pokemon-crystal-awakening.json](./396535-pokemon-crystal-awakening.json) |
 | Pokémon Crystal Inheritance | 408208 | [408208-pokemon-crystal-inheritance.json](./408208-pokemon-crystal-inheritance.json) |
 | Pokémon Crystal Kaizo | 210705 | [210705-pokemon-crystal-kaizo.json](./210705-pokemon-crystal-kaizo.json) |
 | Pokémon Crystal Legacy | 269946 | [269946-pokemon-crystal-legacy.json](./269946-pokemon-crystal-legacy.json) |
@@ -15834,6 +15838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling Manager 2023 | 241245 | [241245-pro-cycling-manager-2023.json](./241245-pro-cycling-manager-2023.json) |
 | Pro Cycling Manager 2024 | 288856 | [288856-pro-cycling-manager-2024.json](./288856-pro-cycling-manager-2024.json) |
 | Pro Cycling Manager 25 | 347190 | [347190-pro-cycling-manager-25.json](./347190-pro-cycling-manager-25.json) |
+| Pro Cycling Manager 26 | 396260 | [396260-pro-cycling-manager-26.json](./396260-pro-cycling-manager-26.json) |
 | Pro Darts | 49953 | [49953-pro-darts.json](./49953-pro-darts.json) |
 | Pro Deer Hunting | 132159 | [132159-pro-deer-hunting.json](./132159-pro-deer-hunting.json) |
 | Pro Deer Hunting 2 | 157502 | [157502-pro-deer-hunting-2.json](./157502-pro-deer-hunting-2.json) |
