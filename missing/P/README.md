@@ -1271,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandrax | 118194 | [118194-pandrax.json](./118194-pandrax.json) |
 | Pandu | 169681 | [169681-pandu.json](./169681-pandu.json) |
 | Pandum Online | 32686 | [32686-pandum-online.json](./32686-pandum-online.json) |
+| Pane in the Glass | 34185 | [34185-pane-in-the-glass.json](./34185-pane-in-the-glass.json) |
 | Panekit: Infinitive Crafting Toy Case | 60596 | [60596-panekit-infinitive-crafting-toy-case.json](./60596-panekit-infinitive-crafting-toy-case.json) |
 | Panel Action Bingo | 49031 | [49031-panel-action-bingo.json](./49031-panel-action-bingo.json) |
 | Panel Attack | 167702 | [167702-panel-attack.json](./167702-panel-attack.json) |
@@ -7012,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Sports | 105426 | [105426-pilot-sports.json](./105426-pilot-sports.json) |
 | Pilot Unknown | 116284 | [116284-pilot-unknown.json](./116284-pilot-unknown.json) |
 | Pilot's Misadventures | 161376 | [161376-pilots-misadventures.json](./161376-pilots-misadventures.json) |
+| Pilot's Path | 41509 | [41509-pilots-path.json](./41509-pilots-path.json) |
 | Piloteer | 35617 | [35617-piloteer.json](./35617-piloteer.json) |
 | Pilots of Darsalon | 133452 | [133452-pilots-of-darsalon.json](./133452-pilots-of-darsalon.json) |
 | Pilotwings | 9619 | [9619-pilotwings.json](./9619-pilotwings.json) |
