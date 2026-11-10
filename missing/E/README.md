@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Run | 248648 | [248648-empire-run.json](./248648-empire-run.json) |
 | Empire Soccer 94 | 12065 | [12065-empire-soccer-94.json](./12065-empire-soccer-94.json) |
 | Empire Takeover | 173015 | [173015-empire-takeover.json](./173015-empire-takeover.json) |
+| Empire TV Tycoon | 13207 | [13207-empire-tv-tycoon.json](./13207-empire-tv-tycoon.json) |
 | Empire Warriors TD | 104587 | [104587-empire-warriors-td.json](./104587-empire-warriors-td.json) |
 | Empire Water Works | 407594 | [407594-empire-water-works.json](./407594-empire-water-works.json) |
 | Empire XP | 89590 | [89590-empire-xp.json](./89590-empire-xp.json) |
@@ -6492,6 +6493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternity Warriors VR | 54652 | [54652-eternity-warriors-vr.json](./54652-eternity-warriors-vr.json) |
 | Eternity: Farfalla the Holy sword | 105812 | [105812-eternity-farfalla-the-holy-sword.json](./105812-eternity-farfalla-the-holy-sword.json) |
 | Eternity's Echo: Patient Zero | 277453 | [277453-eternitys-echo-patient-zero.json](./277453-eternitys-echo-patient-zero.json) |
+| Eternium | 120172 | [120172-eternium.json](./120172-eternium.json) |
 | Eternium: Mage and Minions | 193967 | [193967-eternium-mage-and-minions.json](./193967-eternium-mage-and-minions.json) |
 | Eternower | 132404 | [132404-eternower.json](./132404-eternower.json) |
 | Eternum | 209628 | [209628-eternum.json](./209628-eternum.json) |
