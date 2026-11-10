@@ -2260,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratcheteer DX | 362332 | [362332-ratcheteer-dx.json](./362332-ratcheteer-dx.json) |
 | Ratcore | 412270 | [412270-ratcore.json](./412270-ratcore.json) |
 | Ratdoodle Adventure | 381982 | [381982-ratdoodle-adventure.json](./381982-ratdoodle-adventure.json) |
+| Rate & State | 423050 | [423050-rate-and-state.json](./423050-rate-and-state.json) |
 | Rated Sudoku | 278397 | [278397-rated-sudoku.json](./278397-rated-sudoku.json) |
 | Rated. | 382386 | [382386-rated.json](./382386-rated.json) |
 | Ratergy | 90532 | [90532-ratergy.json](./90532-ratergy.json) |
@@ -2448,6 +2449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rawring Candies | 359359 | [359359-rawring-candies.json](./359359-rawring-candies.json) |
 | Rawshire the Last Hatchling | 158214 | [158214-rawshire-the-last-hatchling.json](./158214-rawshire-the-last-hatchling.json) |
 | Rawyokan | 334915 | [334915-rawyokan.json](./334915-rawyokan.json) |
+| Rax | 423065 | [423065-rax.json](./423065-rax.json) |
 | Rax Genesis | 371185 | [371185-rax-genesis.json](./371185-rax-genesis.json) |
 | Rax Runner! | 338288 | [338288-rax-runner.json](./338288-rax-runner.json) |
 | Ray | 298639 | [298639-ray.json](./298639-ray.json) |
