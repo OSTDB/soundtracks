@@ -4434,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Rooms of Death: King Dugan's Dungeon | 69156 | [69156-deadly-rooms-of-death-king-dugans-dungeon.json](./69156-deadly-rooms-of-death-king-dugans-dungeon.json) |
 | Deadly Runner | 367562 | [367562-deadly-runner.json](./367562-deadly-runner.json) |
 | Deadly Secret Beneath the Dark Wood | 269657 | [269657-deadly-secret-beneath-the-dark-wood.json](./269657-deadly-secret-beneath-the-dark-wood.json) |
+| Deadly Sin | 35672 | [35672-deadly-sin.json](./35672-deadly-sin.json) |
 | Deadly Sin 2 | 9819 | [9819-deadly-sin-2.json](./9819-deadly-sin-2.json) |
 | Deadly Sin: Shining Faith | 53964 | [53964-deadly-sin-shining-faith.json](./53964-deadly-sin-shining-faith.json) |
 | Deadly Skies | 22730 | [22730-deadly-skies.json](./22730-deadly-skies.json) |
@@ -8394,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex Ceviche | 140160 | [140160-deus-ex-ceviche.json](./140160-deus-ex-ceviche.json) |
 | Deus Ex Machina | 130344 | [130344-deus-ex-machina.json](./130344-deus-ex-machina.json) |
 | Deus Ex Machina | 26432 | [26432-deus-ex-machina.json](./26432-deus-ex-machina.json) |
+| Deus Ex Machina 2 | 35647 | [35647-deus-ex-machina-2.json](./35647-deus-ex-machina-2.json) |
 | Deus Ex Machina: Episode 1 | 171724 | [171724-deus-ex-machina-episode-1.json](./171724-deus-ex-machina-episode-1.json) |
 | Deus Ex Machina: Game of the Year - 30th Anniversary Collector's Edition | 91098 | [91098-deus-ex-machina-game-of-the-year-30th-anniversary-collectors-edition.json](./91098-deus-ex-machina-game-of-the-year-30th-anniversary-collectors-edition.json) |
 | Deus Ex: Breach | 30494 | [30494-deus-ex-breach.json](./30494-deus-ex-breach.json) |
@@ -9410,6 +9412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diesel Brothers: Truck Building Simulator Editor | 152910 | [152910-diesel-brothers-truck-building-simulator-editor.json](./152910-diesel-brothers-truck-building-simulator-editor.json) |
 | Diesel Burners | 277855 | [277855-diesel-burners.json](./277855-diesel-burners.json) |
 | Diesel Express VR | 41968 | [41968-diesel-express-vr.json](./41968-diesel-express-vr.json) |
+| Diesel Guns | 35606 | [35606-diesel-guns.json](./35606-diesel-guns.json) |
 | Diesel Knights | 331762 | [331762-diesel-knights.json](./331762-diesel-knights.json) |
 | Diesel Legacy: The Brazen Age | 252844 | [252844-diesel-legacy-the-brazen-age.json](./252844-diesel-legacy-the-brazen-age.json) |
 | Diesel Mechs | 260265 | [260265-diesel-mechs.json](./260265-diesel-mechs.json) |
@@ -10875,6 +10878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea: Hour of Darkness | 11610 | [11610-disgaea-hour-of-darkness.json](./11610-disgaea-hour-of-darkness.json) |
 | Disgrace | 161563 | [161563-disgrace.json](./161563-disgrace.json) |
 | Disgrace: When Our Beautiful World Disappears | 377707 | [377707-disgrace-when-our-beautiful-world-disappears.json](./377707-disgrace-when-our-beautiful-world-disappears.json) |
+| Disgraced | 32476 | [32476-disgraced.json](./32476-disgraced.json) |
 | Disgraced Swordswoman Battle | 134605 | [134605-disgraced-swordswoman-battle.json](./134605-disgraced-swordswoman-battle.json) |
 | Disgraced: Hands of Fate | 170796 | [170796-disgraced-hands-of-fate.json](./170796-disgraced-hands-of-fate.json) |
 | Disgraced: Trailblazer | 161730 | [161730-disgraced-trailblazer.json](./161730-disgraced-trailblazer.json) |
@@ -12167,6 +12171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge | 211375 | [211375-dodge.json](./211375-dodge.json) |
 | Dodge | 291575 | [291575-dodge.json](./291575-dodge.json) |
 | Dodge | 341257 | [341257-dodge.json](./341257-dodge.json) |
+| Dodge | 35735 | [35735-dodge.json](./35735-dodge.json) |
 | Dodge | 83819 | [83819-dodge.json](./83819-dodge.json) |
 | Dodge 'Em | 17020 | [17020-dodge-em.json](./17020-dodge-em.json) |
 | Dodge 'Em | 222892 | [222892-dodge-em.json](./222892-dodge-em.json) |
@@ -17172,6 +17177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamscapes | 405821 | [405821-dreamscapes.json](./405821-dreamscapes.json) |
 | DreamScapes Dimensions | 189339 | [189339-dreamscapes-dimensions.json](./189339-dreamscapes-dimensions.json) |
 | Dreamscapes: Nightmare's Heir | 59908 | [59908-dreamscapes-nightmares-heir.json](./59908-dreamscapes-nightmares-heir.json) |
+| Dreamscapes: Nightmare's Heir - Premium Edition | 35693 | [35693-dreamscapes-nightmares-heir-premium-edition.json](./35693-dreamscapes-nightmares-heir-premium-edition.json) |
 | Dreamscapes: The Full Journey | 410379 | [410379-dreamscapes-the-full-journey.json](./410379-dreamscapes-the-full-journey.json) |
 | Dreamscapes: The Sandman | 10246 | [10246-dreamscapes-the-sandman.json](./10246-dreamscapes-the-sandman.json) |
 | Dreamscapes: The Sandman - Collector's Edition | 356189 | [356189-dreamscapes-the-sandman-collectors-edition.json](./356189-dreamscapes-the-sandman-collectors-edition.json) |
