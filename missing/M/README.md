@@ -7044,6 +7044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic 8230: Mission Citytone | 260527 | [260527-mechanic-8230-mission-citytone.json](./260527-mechanic-8230-mission-citytone.json) |
 | Mechanic Battle | 203724 | [203724-mechanic-battle.json](./203724-mechanic-battle.json) |
 | Mechanic Beyond the Horizon | 356344 | [356344-mechanic-beyond-the-horizon.json](./356344-mechanic-beyond-the-horizon.json) |
+| Mechanic Escape | 9719 | [9719-mechanic-escape.json](./9719-mechanic-escape.json) |
 | Mechanic Heroes | 207565 | [207565-mechanic-heroes.json](./207565-mechanic-heroes.json) |
 | Mechanic Infantry | 61986 | [61986-mechanic-infantry.json](./61986-mechanic-infantry.json) |
 | Mechanic Legends | 314472 | [314472-mechanic-legends.json](./314472-mechanic-legends.json) |
@@ -8129,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Inverse | 323768 | [323768-mega-man-inverse.json](./323768-mega-man-inverse.json) |
 | Mega Man IV SNES | 377763 | [377763-mega-man-iv-snes.json](./377763-mega-man-iv-snes.json) |
 | Mega Man Legacy Collection | 19874 | [19874-mega-man-legacy-collection.json](./19874-mega-man-legacy-collection.json) |
+| Mega Man Legacy Collection 1 + 2 | 87782 | [87782-mega-man-legacy-collection-1-2.json](./87782-mega-man-legacy-collection-1-2.json) |
 | Mega Man Legacy Collection: Collector's Edition | 44016 | [44016-mega-man-legacy-collection-collectors-edition.json](./44016-mega-man-legacy-collection-collectors-edition.json) |
 | Mega Man Legacy Collection: Special Edition | 89843 | [89843-mega-man-legacy-collection-special-edition.json](./89843-mega-man-legacy-collection-special-edition.json) |
 | Mega Man Legends | 1752 | [1752-mega-man-legends.json](./1752-mega-man-legends.json) |
@@ -18635,6 +18637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto X Madness 2025: Ultimate Dirt Bike Championship | 324137 | [324137-moto-x-madness-2025-ultimate-dirt-bike-championship.json](./324137-moto-x-madness-2025-ultimate-dirt-bike-championship.json) |
 | Moto X Maniac | 66936 | [66936-moto-x-maniac.json](./66936-moto-x-maniac.json) |
 | Moto X Simulator | 41114 | [41114-moto-x-simulator.json](./41114-moto-x-simulator.json) |
+| Moto x3m | 86838 | [86838-moto-x3m.json](./86838-moto-x3m.json) |
 | Moto X3M 2 | 95990 | [95990-moto-x3m-2.json](./95990-moto-x3m-2.json) |
 | Moto X3M 3 | 142394 | [142394-moto-x3m-3.json](./142394-moto-x3m-3.json) |
 | Moto X3m: Pool Party | 327874 | [327874-moto-x3m-pool-party.json](./327874-moto-x3m-pool-party.json) |
@@ -20464,6 +20467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroam | 348387 | [348387-mushroam.json](./348387-mushroam.json) |
 | Mushroom | 309382 | [309382-mushroom.json](./309382-mushroom.json) |
 | Mushroom 11 | 15549 | [15549-mushroom-11.json](./15549-mushroom-11.json) |
+| Mushroom Age | 87324 | [87324-mushroom-age.json](./87324-mushroom-age.json) |
 | Mushroom Agent | 235795 | [235795-mushroom-agent.json](./235795-mushroom-agent.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
 | Mushroom Cats | 118067 | [118067-mushroom-cats.json](./118067-mushroom-cats.json) |
