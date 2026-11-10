@@ -464,6 +464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Future Part II & III | 8517 | [8517-back-to-the-future-part-ii-and-iii.json](./8517-back-to-the-future-part-ii-and-iii.json) |
 | Back to the Future Part III | 8519 | [8519-back-to-the-future-part-iii.json](./8519-back-to-the-future-part-iii.json) |
 | Back to the Future: The Game | 3232 | [3232-back-to-the-future-the-game.json](./3232-back-to-the-future-the-game.json) |
+| Back to the Future: The Game - 30th Anniversary Edition | 41592 | [41592-back-to-the-future-the-game-30th-anniversary-edition.json](./41592-back-to-the-future-the-game-30th-anniversary-edition.json) |
 | Back to the Future: The Game - Episode 1: It's About Time | 78249 | [78249-back-to-the-future-the-game-episode-1-its-about-time.json](./78249-back-to-the-future-the-game-episode-1-its-about-time.json) |
 | Back to the Future: The Game - Episode 2: Get Tannen! | 78253 | [78253-back-to-the-future-the-game-episode-2-get-tannen.json](./78253-back-to-the-future-the-game-episode-2-get-tannen.json) |
 | Back to the Future: The Game - Episode 3: Citizen Brown | 78250 | [78250-back-to-the-future-the-game-episode-3-citizen-brown.json](./78250-back-to-the-future-the-game-episode-3-citizen-brown.json) |
@@ -5304,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast OL | 358509 | [358509-beast-ol.json](./358509-beast-ol.json) |
 | Beast Park | 281950 | [281950-beast-park.json](./281950-beast-park.json) |
 | Beast Pets | 44271 | [44271-beast-pets.json](./44271-beast-pets.json) |
+| Beast Quest | 38973 | [38973-beast-quest.json](./38973-beast-quest.json) |
 | Beast Quest | 90331 | [90331-beast-quest.json](./90331-beast-quest.json) |
 | Beast Quest: Ultimate Heroes | 175761 | [175761-beast-quest-ultimate-heroes.json](./175761-beast-quest-ultimate-heroes.json) |
 | Beast Saga | 334624 | [334624-beast-saga.json](./334624-beast-saga.json) |
