@@ -833,9 +833,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro | 397480 | [397480-maestro.json](./397480-maestro.json) |
 | Maestro Mario | 328592 | [328592-maestro-mario.json](./328592-maestro-mario.json) |
 | Maestro VR | 174017 | [174017-maestro-vr.json](./174017-maestro-vr.json) |
+| Maestro: All Aboard! | 414923 | [414923-maestro-all-aboard.json](./414923-maestro-all-aboard.json) |
 | Maestro: Attack on Titan | 414808 | [414808-maestro-attack-on-titan.json](./414808-maestro-attack-on-titan.json) |
 | Maestro: Dark Talent | 140137 | [140137-maestro-dark-talent.json](./140137-maestro-dark-talent.json) |
 | Maestro: Dark Talent - Collector's Edition | 114065 | [114065-maestro-dark-talent-collectors-edition.json](./114065-maestro-dark-talent-collectors-edition.json) |
+| Maestro: Doom Bound | 414922 | [414922-maestro-doom-bound.json](./414922-maestro-doom-bound.json) |
 | Maestro: Duel of the Fates | 344161 | [344161-maestro-duel-of-the-fates.json](./344161-maestro-duel-of-the-fates.json) |
 | Maestro: La Crème de la Crème | 371280 | [371280-maestro-la-creme-de-la-creme.json](./371280-maestro-la-creme-de-la-creme.json) |
 | Maestro: Music from the Void | 140138 | [140138-maestro-music-from-the-void.json](./140138-maestro-music-from-the-void.json) |
@@ -844,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro: Music of Death - Collector's Edition | 37012 | [37012-maestro-music-of-death-collectors-edition.json](./37012-maestro-music-of-death-collectors-edition.json) |
 | Maestro: Notes of Life | 140140 | [140140-maestro-notes-of-life.json](./140140-maestro-notes-of-life.json) |
 | Maestro: Notes of Life - Collector's Edition | 84029 | [84029-maestro-notes-of-life-collectors-edition.json](./84029-maestro-notes-of-life-collectors-edition.json) |
+| Maestro: Secret Sorcery | 414921 | [414921-maestro-secret-sorcery.json](./414921-maestro-secret-sorcery.json) |
 | Maestro! Green Groove | 67080 | [67080-maestro-green-groove.json](./67080-maestro-green-groove.json) |
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
 | Maestro's Cold War 2 | 323013 | [323013-maestros-cold-war-2.json](./323013-maestros-cold-war-2.json) |
@@ -4989,7 +4992,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Super Heroes: War Of The Gems | 271768 | [271768-marvel-super-heroes-war-of-the-gems.json](./271768-marvel-super-heroes-war-of-the-gems.json) |
 | Marvel Super War | 119172 | [119172-marvel-super-war.json](./119172-marvel-super-war.json) |
 | Marvel Super-Heroes | 290325 | [290325-marvel-super-heroes.json](./290325-marvel-super-heroes.json) |
+| Marvel Tokon: Fighting Souls - Animated Chromatic Color Unlock | 414684 | [414684-marvel-tokon-fighting-souls-animated-chromatic-color-unlock.json](./414684-marvel-tokon-fighting-souls-animated-chromatic-color-unlock.json) |
+| Marvel Tokon: Fighting Souls - Captain America Classic Costume | 414772 | [414772-marvel-tokon-fighting-souls-captain-america-classic-costume.json](./414772-marvel-tokon-fighting-souls-captain-america-classic-costume.json) |
+| Marvel Tokon: Fighting Souls - Doctor Doom Supreme Ruler Costume | 414776 | [414776-marvel-tokon-fighting-souls-doctor-doom-supreme-ruler-costume.json](./414776-marvel-tokon-fighting-souls-doctor-doom-supreme-ruler-costume.json) |
+| Marvel Tokon: Fighting Souls - Howard the Duck Lobby Avatar and Cosmo Lobby Pet | 414774 | [414774-marvel-tokon-fighting-souls-howard-the-duck-lobby-avatar-and-cosmo-lobby-pet.json](./414774-marvel-tokon-fighting-souls-howard-the-duck-lobby-avatar-and-cosmo-lobby-pet.json) |
 | Marvel Tokon: Fighting Souls - Iron Man Classic Costume | 414687 | [414687-marvel-tokon-fighting-souls-iron-man-classic-costume.json](./414687-marvel-tokon-fighting-souls-iron-man-classic-costume.json) |
+| Marvel Tokon: Fighting Souls - Storm Punk Rock Costume | 414773 | [414773-marvel-tokon-fighting-souls-storm-punk-rock-costume.json](./414773-marvel-tokon-fighting-souls-storm-punk-rock-costume.json) |
 | Marvel Tokon: Fighting Souls - Year 1 Character and Stage Pass | 411741 | [411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json](./411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json) |
 | Marvel Tokon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops | 411743 | [411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json](./411743-marvel-tokon-fighting-souls-year-1-dlc-character-phoenix-cyclops.json) |
 | Marvel Trading Card Game | 21955 | [21955-marvel-trading-card-game.json](./21955-marvel-trading-card-game.json) |
@@ -9634,6 +9642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow's Meow | 400512 | [400512-meows-meow.json](./400512-meows-meow.json) |
 | Meowdoku | 409810 | [409810-meowdoku.json](./409810-meowdoku.json) |
 | Meowdoku | 409811 | [409811-meowdoku.json](./409811-meowdoku.json) |
+| Meowdventure | 414905 | [414905-meowdventure.json](./414905-meowdventure.json) |
 | Meower's Quest: Jasper's Tale | 104025 | [104025-meowers-quest-jaspers-tale.json](./104025-meowers-quest-jaspers-tale.json) |
 | MeowFactory | 403691 | [403691-meowfactory.json](./403691-meowfactory.json) |
 | MeowFall | 310074 | [310074-meowfall.json](./310074-meowfall.json) |
@@ -13188,6 +13197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minefield | 175624 | [175624-minefield.json](./175624-minefield.json) |
 | Minefield | 39724 | [39724-minefield.json](./39724-minefield.json) |
 | Minefield Combat | 315660 | [315660-minefield-combat.json](./315660-minefield-combat.json) |
+| Minefield: Rupture | 414682 | [414682-minefield-rupture.json](./414682-minefield-rupture.json) |
 | Minefields | 299512 | [299512-minefields.json](./299512-minefields.json) |
 | MineFight | 56625 | [56625-minefight.json](./56625-minefight.json) |
 | MineFinitum | 186276 | [186276-minefinitum.json](./186276-minefinitum.json) |
@@ -20950,6 +20960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutual Place | 252920 | [252920-mutual-place.json](./252920-mutual-place.json) |
 | Mutual Secret | 107386 | [107386-mutual-secret.json](./107386-mutual-secret.json) |
 | Mutus Meteora | 261190 | [261190-mutus-meteora.json](./261190-mutus-meteora.json) |
+| Muumit ja näkymätön lapsi | 414930 | [414930-muumit-ja-nakymaton-lapsi.json](./414930-muumit-ja-nakymaton-lapsi.json) |
 | Muumit ja Taikalamppu | 178047 | [178047-muumit-ja-taikalamppu.json](./178047-muumit-ja-taikalamppu.json) |
 | Muumit ja Taikurin hattu | 108737 | [108737-muumit-ja-taikurin-hattu.json](./108737-muumit-ja-taikurin-hattu.json) |
 | Muumit meren aalloilla | 26376 | [26376-muumit-meren-aalloilla.json](./26376-muumit-meren-aalloilla.json) |
@@ -23356,6 +23367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythical Agent | 249650 | [249650-mythical-agent.json](./249650-mythical-agent.json) |
 | Mythical Boom Party | 120463 | [120463-mythical-boom-party.json](./120463-mythical-boom-party.json) |
 | Mythical Concept Starnaut | 272387 | [272387-mythical-concept-starnaut.json](./272387-mythical-concept-starnaut.json) |
+| Mythical Creature Personality Quiz: 16 Types | 414888 | [414888-mythical-creature-personality-quiz-16-types.json](./414888-mythical-creature-personality-quiz-16-types.json) |
 | Mythical Haven | 419979 | [419979-mythical-haven.json](./419979-mythical-haven.json) |
 | Mythical Hearts | 299027 | [299027-mythical-hearts.json](./299027-mythical-hearts.json) |
 | Mythical Love | 319018 | [319018-mythical-love.json](./319018-mythical-love.json) |
