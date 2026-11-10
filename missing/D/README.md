@@ -2553,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Das Geheimnis der Happy Hippo-Insel | 130607 | [130607-das-geheimnis-der-happy-hippo-insel.json](./130607-das-geheimnis-der-happy-hippo-insel.json) |
 | Das Geheimnis von Lakeshore | 265381 | [265381-das-geheimnis-von-lakeshore.json](./265381-das-geheimnis-von-lakeshore.json) |
 | Das Geisterschiff Remixed | 179421 | [179421-das-geisterschiff-remixed.json](./179421-das-geisterschiff-remixed.json) |
+| Das Heim | 398051 | [398051-das-heim.json](./398051-das-heim.json) |
 | Das Kopialbuch | 405482 | [405482-das-kopialbuch.json](./405482-das-kopialbuch.json) |
 | Das Magische Labyrinth | 301499 | [301499-das-magische-labyrinth.json](./301499-das-magische-labyrinth.json) |
 | Das Milliarden-Quiz | 94533 | [94533-das-milliarden-quiz.json](./94533-das-milliarden-quiz.json) |
@@ -9190,6 +9191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Survivor | 240603 | [240603-dice-survivor.json](./240603-dice-survivor.json) |
 | Dice Tactics | 166900 | [166900-dice-tactics.json](./166900-dice-tactics.json) |
 | Dice Tactics: Demon King Chapters 2, 3, 4 | 168835 | [168835-dice-tactics-demon-king-chapters-2-3-4.json](./168835-dice-tactics-demon-king-chapters-2-3-4.json) |
+| Dice Tavern: Farkle Roguelike | 398071 | [398071-dice-tavern-farkle-roguelike.json](./398071-dice-tavern-farkle-roguelike.json) |
 | Dice Team | 373757 | [373757-dice-team.json](./373757-dice-team.json) |
 | Dice Throne Digital | 388981 | [388981-dice-throne-digital.json](./388981-dice-throne-digital.json) |
 | Dice to Meet You | 270140 | [270140-dice-to-meet-you.json](./270140-dice-to-meet-you.json) |
@@ -19966,6 +19968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunrog | 124203 | [124203-dunrog.json](./124203-dunrog.json) |
 | Dunthera | 357837 | [357837-dunthera.json](./357837-dunthera.json) |
 | Dunwell | 133990 | [133990-dunwell.json](./133990-dunwell.json) |
+| Dunwich Horror | 397980 | [397980-dunwich-horror.json](./397980-dunwich-horror.json) |
 | Dunzhin | 2866 | [2866-dunzhin.json](./2866-dunzhin.json) |
 | Duo | 30003 | [30003-duo.json](./30003-duo.json) |
 | Duo | 32384 | [32384-duo.json](./32384-duo.json) |
