@@ -8570,6 +8570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Fantasy | 264984 | [264984-lost-in-fantasy.json](./264984-lost-in-fantasy.json) |
 | Lost In Ferry VR | 367146 | [367146-lost-in-ferry-vr.json](./367146-lost-in-ferry-vr.json) |
 | Lost in Firefly Forest | 142778 | [142778-lost-in-firefly-forest.json](./142778-lost-in-firefly-forest.json) |
+| Lost in Fuzz | 406431 | [406431-lost-in-fuzz.json](./406431-lost-in-fuzz.json) |
 | Lost in Harmony | 58892 | [58892-lost-in-harmony.json](./58892-lost-in-harmony.json) |
 | Lost in Heart of Chernobyl: Survival | 314864 | [314864-lost-in-heart-of-chernobyl-survival.json](./314864-lost-in-heart-of-chernobyl-survival.json) |
 | Lost in Hell | 207786 | [207786-lost-in-hell.json](./207786-lost-in-hell.json) |
