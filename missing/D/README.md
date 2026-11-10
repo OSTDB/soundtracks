@@ -3263,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Dual Force | 212690 | [212690-dc-dual-force.json](./212690-dc-dual-force.json) |
 | DC Heroes & Villains | 194123 | [194123-dc-heroes-and-villains.json](./194123-dc-heroes-and-villains.json) |
 | DC Heroes United | 323030 | [323030-dc-heroes-united.json](./323030-dc-heroes-united.json) |
+| DC League of Super-Pets: The Adventures of Krypto and Ace | 183648 | [183648-dc-league-of-super-pets-the-adventures-of-krypto-and-ace.json](./183648-dc-league-of-super-pets-the-adventures-of-krypto-and-ace.json) |
 | DC Legends | 88509 | [88509-dc-legends.json](./88509-dc-legends.json) |
 | DC Super Hero Girls | 58643 | [58643-dc-super-hero-girls.json](./58643-dc-super-hero-girls.json) |
 | DC Super Hero Girls: Blitz | 294679 | [294679-dc-super-hero-girls-blitz.json](./294679-dc-super-hero-girls-blitz.json) |
@@ -7348,6 +7349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derace | 393602 | [393602-derace.json](./393602-derace.json) |
 | Déraciné | 103332 | [103332-deracine.json](./103332-deracine.json) |
 | Déraciné: Collector's Edition | 136701 | [136701-deracine-collectors-edition.json](./136701-deracine-collectors-edition.json) |
+| Derail Valley | 29564 | [29564-derail-valley.json](./29564-derail-valley.json) |
 | Derail: Sacrifice | 351057 | [351057-derail-sacrifice.json](./351057-derail-sacrifice.json) |
 | Derailed | 348710 | [348710-derailed.json](./348710-derailed.json) |
 | DeRailed | 169664 | [169664-derailed.json](./169664-derailed.json) |
