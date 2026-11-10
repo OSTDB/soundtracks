@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lands of Crown | 207617 | [207617-lands-of-crown.json](./207617-lands-of-crown.json) |
 | Lands of Devastation | 32697 | [32697-lands-of-devastation.json](./32697-lands-of-devastation.json) |
 | Lands of Fire | 215195 | [215195-lands-of-fire.json](./215195-lands-of-fire.json) |
+| Lands of Fury | 403285 | [403285-lands-of-fury.json](./403285-lands-of-fury.json) |
 | Lands of Havoc | 15244 | [15244-lands-of-havoc.json](./15244-lands-of-havoc.json) |
 | Lands of Hope Redemption | 34439 | [34439-lands-of-hope-redemption.json](./34439-lands-of-hope-redemption.json) |
 | Lands of Jail | 381063 | [381063-lands-of-jail.json](./381063-lands-of-jail.json) |
@@ -3877,6 +3878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Cheer! | 20241 | [20241-lets-cheer.json](./20241-lets-cheer.json) |
 | Let's Compare the Speed of Our Punches! | 327441 | [327441-lets-compare-the-speed-of-our-punches.json](./327441-lets-compare-the-speed-of-our-punches.json) |
 | Let's Cook | 98445 | [98445-lets-cook.json](./98445-lets-cook.json) |
+| Let's Cook It! | 403248 | [403248-lets-cook-it.json](./403248-lets-cook-it.json) |
 | Let's Cook Together | 133455 | [133455-lets-cook-together.json](./133455-lets-cook-together.json) |
 | Let's Cook Together 2 | 203251 | [203251-lets-cook-together-2.json](./203251-lets-cook-together-2.json) |
 | Let's Create! Pottery | 64876 | [64876-lets-create-pottery.json](./64876-lets-create-pottery.json) |
@@ -7780,6 +7782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look Up and Go | 404493 | [404493-look-up-and-go.json](./404493-look-up-and-go.json) |
 | Look_in_Dark | 304061 | [304061-look-in-dark.json](./304061-look-in-dark.json) |
 | Look, Your Loot! | 153624 | [153624-look-your-loot.json](./153624-look-your-loot.json) |
+| LookFoorMe | 403262 | [403262-lookfoorme.json](./403262-lookfoorme.json) |
 | Looking | 178031 | [178031-looking.json](./178031-looking.json) |
 | Looking Back | 120506 | [120506-looking-back.json](./120506-looking-back.json) |
 | Looking for Aliens | 186530 | [186530-looking-for-aliens.json](./186530-looking-for-aliens.json) |
