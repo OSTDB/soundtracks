@@ -5037,6 +5037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catsperience | 146043 | [146043-catsperience.json](./146043-catsperience.json) |
 | Catsploration | 172901 | [172901-catsploration.json](./172901-catsploration.json) |
 | CatsPots | 267561 | [267561-catspots.json](./267561-catspots.json) |
+| CatstaC | 419442 | [419442-catstac.json](./419442-catstac.json) |
 | Catstronaut, Félicette's adventures | 422157 | [422157-catstronaut-felicettes-adventures.json](./422157-catstronaut-felicettes-adventures.json) |
 | Catstronauts | 421319 | [421319-catstronauts.json](./421319-catstronauts.json) |
 | Catsuhi and Eva | 373275 | [373275-catsuhi-and-eva.json](./373275-catsuhi-and-eva.json) |
@@ -10679,6 +10680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaning Queens 2: Sparkling Palace | 293367 | [293367-cleaning-queens-2-sparkling-palace.json](./293367-cleaning-queens-2-sparkling-palace.json) |
 | Cleaning Redville | 217873 | [217873-cleaning-redville.json](./217873-cleaning-redville.json) |
 | Cleaning Robot Match: Scatter Battlers | 151672 | [151672-cleaning-robot-match-scatter-battlers.json](./151672-cleaning-robot-match-scatter-battlers.json) |
+| Cleaning Robot: Subservient | 419422 | [419422-cleaning-robot-subservient.json](./419422-cleaning-robot-subservient.json) |
 | Cleaning Service | 183544 | [183544-cleaning-service.json](./183544-cleaning-service.json) |
 | Cleaning Simulator | 138183 | [138183-cleaning-simulator.json](./138183-cleaning-simulator.json) |
 | Cleaning Simulator | 374584 | [374584-cleaning-simulator.json](./374584-cleaning-simulator.json) |
@@ -11159,6 +11161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone War | 295290 | [295290-clone-war.json](./295290-clone-war.json) |
 | Clone Your Way Out | 318254 | [318254-clone-your-way-out.json](./318254-clone-your-way-out.json) |
 | Clone-A-Doodle-Doo | 357350 | [357350-clone-a-doodle-doo.json](./357350-clone-a-doodle-doo.json) |
+| Clone.Optimize.Sacrifice. | 419398 | [419398-clone-optimize-sacrifice.json](./419398-clone-optimize-sacrifice.json) |
 | Clones | 16218 | [16218-clones.json](./16218-clones.json) |
 | Clones Conquer Worlds | 374010 | [374010-clones-conquer-worlds.json](./374010-clones-conquer-worlds.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
@@ -13240,6 +13243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columbo's Mystery Capers | 343251 | [343251-columbos-mystery-capers.json](./343251-columbos-mystery-capers.json) |
 | Columbus Discovery | 78317 | [78317-columbus-discovery.json](./78317-columbus-discovery.json) |
 | Columbus: Ougon no Yoake | 48534 | [48534-columbus-ougon-no-yoake.json](./48534-columbus-ougon-no-yoake.json) |
+| Column Attack | 419464 | [419464-column-attack.json](./419464-column-attack.json) |
 | Column Climbers | 95079 | [95079-column-climbers.json](./95079-column-climbers.json) |
 | Column Dodger | 263005 | [263005-column-dodger.json](./263005-column-dodger.json) |
 | Column on the Sea | 122186 | [122186-column-on-the-sea.json](./122186-column-on-the-sea.json) |
@@ -14441,6 +14445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conqueror's Blade: Season VIII - Dynasty | 158110 | [158110-conquerors-blade-season-viii-dynasty.json](./158110-conquerors-blade-season-viii-dynasty.json) |
 | Conqueror's Blade: Season X - Highlanders | 185949 | [185949-conquerors-blade-season-x-highlanders.json](./185949-conquerors-blade-season-x-highlanders.json) |
 | Conqueror's Blade: Three Kingdoms | 411543 | [411543-conquerors-blade-three-kingdoms.json](./411543-conquerors-blade-three-kingdoms.json) |
+| Conquerors of Fate | 419426 | [419426-conquerors-of-fate.json](./419426-conquerors-of-fate.json) |
 | Conquest | 186436 | [186436-conquest.json](./186436-conquest.json) |
 | Conquest | 339778 | [339778-conquest.json](./339778-conquest.json) |
 | Conquest | 379715 | [379715-conquest.json](./379715-conquest.json) |
