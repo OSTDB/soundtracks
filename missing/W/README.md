@@ -1584,6 +1584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Sanctus Reach - Legacy of the Weirdboy | 111745 | [111745-warhammer-40-000-sanctus-reach-legacy-of-the-weirdboy.json](./111745-warhammer-40-000-sanctus-reach-legacy-of-the-weirdboy.json) |
 | Warhammer 40,000: Sanctus Reach - Sons of Cadia | 111744 | [111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json](./111744-warhammer-40-000-sanctus-reach-sons-of-cadia.json) |
 | Warhammer 40,000: Space Hulk | 74199 | [74199-warhammer-40-000-space-hulk.json](./74199-warhammer-40-000-space-hulk.json) |
+| Warhammer 40,000: Space Marine - Anniversary Edition | 186034 | [186034-warhammer-40-000-space-marine-anniversary-edition.json](./186034-warhammer-40-000-space-marine-anniversary-edition.json) |
 | Warhammer 40,000: Space Marine - Chaos Unleashed Map Pack | 163390 | [163390-warhammer-40-000-space-marine-chaos-unleashed-map-pack.json](./163390-warhammer-40-000-space-marine-chaos-unleashed-map-pack.json) |
 | Warhammer 40,000: Space Marine - Death Guard Champion Chapter Pack DLC | 225870 | [225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json](./225870-warhammer-40-000-space-marine-death-guard-champion-chapter-pack-dlc.json) |
 | Warhammer 40,000: Space Marine - Dreadnought | 53905 | [53905-warhammer-40-000-space-marine-dreadnought.json](./53905-warhammer-40-000-space-marine-dreadnought.json) |
@@ -1857,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlords IV: Heroes of Etheria | 24182 | [24182-warlords-iv-heroes-of-etheria.json](./24182-warlords-iv-heroes-of-etheria.json) |
 | Warlords of Aternum | 107181 | [107181-warlords-of-aternum.json](./107181-warlords-of-aternum.json) |
 | Warlords of the Deck | 301805 | [301805-warlords-of-the-deck.json](./301805-warlords-of-the-deck.json) |
+| Warlords: Call to Arms | 63227 | [63227-warlords-call-to-arms.json](./63227-warlords-call-to-arms.json) |
 | Warlords: Castles | 261942 | [261942-warlords-castles.json](./261942-warlords-castles.json) |
 | Warlords: Evolved | 329637 | [329637-warlords-evolved.json](./329637-warlords-evolved.json) |
 | Warlords: Heroes | 101726 | [101726-warlords-heroes.json](./101726-warlords-heroes.json) |
