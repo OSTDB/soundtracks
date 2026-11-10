@@ -10319,6 +10319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodeo | 71559 | [71559-rodeo.json](./71559-rodeo.json) |
 | Rodeo Clown | 319554 | [319554-rodeo-clown.json](./319554-rodeo-clown.json) |
 | Rodeo Judge | 57068 | [57068-rodeo-judge.json](./57068-rodeo-judge.json) |
+| Rodeo Stampede: Sky Zoo Safari | 87669 | [87669-rodeo-stampede-sky-zoo-safari.json](./87669-rodeo-stampede-sky-zoo-safari.json) |
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
 | Rodina.doc | 174065 | [174065-rodina-doc.json](./174065-rodina-doc.json) |
 | Rodney's Funscreen 2 Extreme | 257256 | [257256-rodneys-funscreen-2-extreme.json](./257256-rodneys-funscreen-2-extreme.json) |
@@ -10879,6 +10880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RollerCoaster Tycoon Joyride | 99460 | [99460-rollercoaster-tycoon-joyride.json](./99460-rollercoaster-tycoon-joyride.json) |
 | RollerCoaster Tycoon on Nintendo Switch | 95855 | [95855-rollercoaster-tycoon-on-nintendo-switch.json](./95855-rollercoaster-tycoon-on-nintendo-switch.json) |
 | RollerCoaster Tycoon Puzzle | 420932 | [420932-rollercoaster-tycoon-puzzle.json](./420932-rollercoaster-tycoon-puzzle.json) |
+| RollerCoaster Tycoon Touch | 86494 | [86494-rollercoaster-tycoon-touch.json](./86494-rollercoaster-tycoon-touch.json) |
 | RollerCoaster Tycoon World | 7627 | [7627-rollercoaster-tycoon-world.json](./7627-rollercoaster-tycoon-world.json) |
 | RollerCoaster Tycoon World Deluxe | 25053 | [25053-rollercoaster-tycoon-world-deluxe.json](./25053-rollercoaster-tycoon-world-deluxe.json) |
 | RollerCoaster Tycoon World: Deluxe Edition | 53524 | [53524-rollercoaster-tycoon-world-deluxe-edition.json](./53524-rollercoaster-tycoon-world-deluxe-edition.json) |
@@ -11413,6 +11415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roommania #203 | 94027 | [94027-roommania-203.json](./94027-roommania-203.json) |
 | Roommate: Asami - Oku-sama wa Joshikousei | 330582 | [330582-roommate-asami-oku-sama-wa-joshikousei.json](./330582-roommate-asami-oku-sama-wa-joshikousei.json) |
 | Roommates | 297205 | [297205-roommates.json](./297205-roommates.json) |
+| Roommates | 9885 | [9885-roommates.json](./9885-roommates.json) |
 | Roommates with Benefits | 313802 | [313802-roommates-with-benefits.json](./313802-roommates-with-benefits.json) |
 | RoomRental | 94190 | [94190-roomrental.json](./94190-roomrental.json) |
 | Roomrush Racer | 404166 | [404166-roomrush-racer.json](./404166-roomrush-racer.json) |
@@ -12849,6 +12852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Salmon Run | 338692 | [338692-run-salmon-run.json](./338692-run-salmon-run.json) |
 | Run Sausage Run: Coins, Bugs and Chicken | 247754 | [247754-run-sausage-run-coins-bugs-and-chicken.json](./247754-run-sausage-run-coins-bugs-and-chicken.json) |
 | Run Sausage Run: Complete Edition | 248060 | [248060-run-sausage-run-complete-edition.json](./248060-run-sausage-run-complete-edition.json) |
+| Run Sausage Run! | 87661 | [87661-run-sausage-run.json](./87661-run-sausage-run.json) |
 | Run Sausage Run!: Bones Edition | 368779 | [368779-run-sausage-run-bones-edition.json](./368779-run-sausage-run-bones-edition.json) |
 | Run Sausage Run!: Cop, Crime and Crazy | 353593 | [353593-run-sausage-run-cop-crime-and-crazy.json](./353593-run-sausage-run-cop-crime-and-crazy.json) |
 | Run Sausage Run!: Crazy Edition | 362217 | [362217-run-sausage-run-crazy-edition.json](./362217-run-sausage-run-crazy-edition.json) |
@@ -13075,6 +13079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes of Aereal | 257944 | [257944-runes-of-aereal.json](./257944-runes-of-aereal.json) |
 | Runes of Avalon | 25538 | [25538-runes-of-avalon.json](./25538-runes-of-avalon.json) |
 | Runes of Avalon - Path of Magic | 91003 | [91003-runes-of-avalon-path-of-magic.json](./91003-runes-of-avalon-path-of-magic.json) |
+| Runes of Avalon 2 | 87067 | [87067-runes-of-avalon-2.json](./87067-runes-of-avalon-2.json) |
 | Runes of Brennos | 17977 | [17977-runes-of-brennos.json](./17977-runes-of-brennos.json) |
 | Runes of Chaos | 184177 | [184177-runes-of-chaos.json](./184177-runes-of-chaos.json) |
 | Runes of Dragon | 193957 | [193957-runes-of-dragon.json](./193957-runes-of-dragon.json) |
