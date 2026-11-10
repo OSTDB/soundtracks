@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tainted | 415211 | [415211-tainted.json](./415211-tainted.json) |
 | Tainted Fate | 101343 | [101343-tainted-fate.json](./101343-tainted-fate.json) |
 | Tainted Grail: The Fall of Avalon | 127697 | [127697-tainted-grail-the-fall-of-avalon.json](./127697-tainted-grail-the-fall-of-avalon.json) |
+| Tainted Grail: The Fall of Avalon - Excalibur Edition | 401967 | [401967-tainted-grail-the-fall-of-avalon-excalibur-edition.json](./401967-tainted-grail-the-fall-of-avalon-excalibur-edition.json) |
 | Tainted Grail: The Fall of Avalon - Sanctuary of Sarras | 380816 | [380816-tainted-grail-the-fall-of-avalon-sanctuary-of-sarras.json](./380816-tainted-grail-the-fall-of-avalon-sanctuary-of-sarras.json) |
 | Tainted Ground | 373031 | [373031-tainted-ground.json](./373031-tainted-ground.json) |
 | Tainted Gun | 208597 | [208597-tainted-gun.json](./208597-tainted-gun.json) |
@@ -12731,6 +12732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Knight | 310061 | [310061-the-last-knight.json](./310061-the-last-knight.json) |
 | The Last Knight Hawk | 405302 | [405302-the-last-knight-hawk.json](./405302-the-last-knight-hawk.json) |
 | The Last Knight: Day One | 83194 | [83194-the-last-knight-day-one.json](./83194-the-last-knight-day-one.json) |
+| The Last Ladybug | 402013 | [402013-the-last-ladybug.json](./402013-the-last-ladybug.json) |
 | The Last Legion | 390346 | [390346-the-last-legion.json](./390346-the-last-legion.json) |
 | The Last Letter | 400574 | [400574-the-last-letter.json](./400574-the-last-letter.json) |
 | The Last Leviathan | 32873 | [32873-the-last-leviathan.json](./32873-the-last-leviathan.json) |
@@ -13131,6 +13133,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Sora no Kiseki SC Kai - HD Edition | 268050 | [268050-the-legend-of-heroes-sora-no-kiseki-sc-kai-hd-edition.json](./268050-the-legend-of-heroes-sora-no-kiseki-sc-kai-hd-edition.json) |
 | The Legend of Heroes: Sora no Kiseki the 3rd Kai - HD Edition | 268097 | [268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json](./268097-the-legend-of-heroes-sora-no-kiseki-the-3rd-kai-hd-edition.json) |
 | The Legend of Heroes: Trails Beyond the Horizon | 280573 | [280573-the-legend-of-heroes-trails-beyond-the-horizon.json](./280573-the-legend-of-heroes-trails-beyond-the-horizon.json) |
+| The Legend of Heroes: Trails Beyond the Horizon - Complete Launch Edition | 401965 | [401965-the-legend-of-heroes-trails-beyond-the-horizon-complete-launch-edition.json](./401965-the-legend-of-heroes-trails-beyond-the-horizon-complete-launch-edition.json) |
+| The Legend of Heroes: Trails Beyond the Horizon - Ultimate Edition | 401966 | [401966-the-legend-of-heroes-trails-beyond-the-horizon-ultimate-edition.json](./401966-the-legend-of-heroes-trails-beyond-the-horizon-ultimate-edition.json) |
 | The Legend of Heroes: Trails from Zero - Deluxe Edition | 248792 | [248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json](./248792-the-legend-of-heroes-trails-from-zero-deluxe-edition.json) |
 | The Legend of Heroes: Trails from Zero - Limited Edition | 313563 | [313563-the-legend-of-heroes-trails-from-zero-limited-edition.json](./313563-the-legend-of-heroes-trails-from-zero-limited-edition.json) |
 | The Legend of Heroes: Trails from Zero / The Legend of Heroes: Trails to Azure | 419594 | [419594-the-legend-of-heroes-trails-from-zero-the-legend-of-heroes-trails-to-azure.json](./419594-the-legend-of-heroes-trails-from-zero-the-legend-of-heroes-trails-to-azure.json) |
@@ -18006,6 +18010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Starfighter | 371585 | [371585-the-starfighter.json](./371585-the-starfighter.json) |
 | The Starfire Soccer Challenge | 70383 | [70383-the-starfire-soccer-challenge.json](./70383-the-starfire-soccer-challenge.json) |
 | The Stargazers | 33478 | [33478-the-stargazers.json](./33478-the-stargazers.json) |
+| The Starlit Escape | 401979 | [401979-the-starlit-escape.json](./401979-the-starlit-escape.json) |
 | The Starlite Project | 273245 | [273245-the-starlite-project.json](./273245-the-starlite-project.json) |
 | The Stars Are Not Ready | 406505 | [406505-the-stars-are-not-ready.json](./406505-the-stars-are-not-ready.json) |
 | The Stars are Right | 391346 | [391346-the-stars-are-right.json](./391346-the-stars-are-right.json) |
@@ -24583,6 +24588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Bridge: Ratventure | 35486 | [35486-tiny-bridge-ratventure.json](./35486-tiny-bridge-ratventure.json) |
 | Tiny Brush | 232583 | [232583-tiny-brush.json](./232583-tiny-brush.json) |
 | Tiny Bubbles | 54978 | [54978-tiny-bubbles.json](./54978-tiny-bubbles.json) |
+| Tiny Builders Coloring Book for Kids | 402014 | [402014-tiny-builders-coloring-book-for-kids.json](./402014-tiny-builders-coloring-book-for-kids.json) |
 | Tiny Bullets | 4146 | [4146-tiny-bullets.json](./4146-tiny-bullets.json) |
 | Tiny Cafe | 319297 | [319297-tiny-cafe.json](./319297-tiny-cafe.json) |
 | Tiny Candy Guardian | 264034 | [264034-tiny-candy-guardian.json](./264034-tiny-candy-guardian.json) |
