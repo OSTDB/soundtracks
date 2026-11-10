@@ -8534,6 +8534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Girl | 270156 | [270156-floating-girl.json](./270156-floating-girl.json) |
 | Floating Islands of Nucifera | 159434 | [159434-floating-islands-of-nucifera.json](./159434-floating-islands-of-nucifera.json) |
 | Floating Isle Days | 379015 | [379015-floating-isle-days.json](./379015-floating-isle-days.json) |
+| Floating Life | 403980 | [403980-floating-life.json](./403980-floating-life.json) |
 | Floating Life 2 | 216788 | [216788-floating-life-2.json](./216788-floating-life-2.json) |
 | Floating Life in Other-World | 156531 | [156531-floating-life-in-other-world.json](./156531-floating-life-in-other-world.json) |
 | Floating Life Record | 264663 | [264663-floating-life-record.json](./264663-floating-life-record.json) |
@@ -10391,6 +10392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forge of Titans | 120223 | [120223-forge-of-titans.json](./120223-forge-of-titans.json) |
 | Forge Party | 185270 | [185270-forge-party.json](./185270-forge-party.json) |
 | Forge Quest | 16652 | [16652-forge-quest.json](./16652-forge-quest.json) |
+| Forge Shop | 404492 | [404492-forge-shop.json](./404492-forge-shop.json) |
 | Forge Simulator | 302811 | [302811-forge-simulator.json](./302811-forge-simulator.json) |
 | Forge the Fates | 361765 | [361765-forge-the-fates.json](./361765-forge-the-fates.json) |
 | Forgebeast | 244506 | [244506-forgebeast.json](./244506-forgebeast.json) |
