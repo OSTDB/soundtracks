@@ -10340,6 +10340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Waltz: Anime tank girls | 28431 | [28431-metal-waltz-anime-tank-girls.json](./28431-metal-waltz-anime-tank-girls.json) |
 | Metal War | 242008 | [242008-metal-war.json](./242008-metal-war.json) |
 | Metal War Online: Retribution | 34156 | [34156-metal-war-online-retribution.json](./34156-metal-war-online-retribution.json) |
+| Metal Warriors | 14386 | [14386-metal-warriors.json](./14386-metal-warriors.json) |
 | Metal Wars 2 | 196627 | [196627-metal-wars-2.json](./196627-metal-wars-2.json) |
 | Metal Wars 3 | 200248 | [200248-metal-wars-3.json](./200248-metal-wars-3.json) |
 | Metal Wolf | 109171 | [109171-metal-wolf.json](./109171-metal-wolf.json) |
@@ -12741,6 +12742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindseeker | 48427 | [48427-mindseeker.json](./48427-mindseeker.json) |
 | Mindset | 253171 | [253171-mindset.json](./253171-mindset.json) |
 | Mindset | 68616 | [68616-mindset.json](./68616-mindset.json) |
+| MindsEye | 320873 | [320873-mindseye.json](./320873-mindseye.json) |
 | Mindseye Blacklisted | 400290 | [400290-mindseye-blacklisted.json](./400290-mindseye-blacklisted.json) |
 | Mindshadow | 12185 | [12185-mindshadow.json](./12185-mindshadow.json) |
 | Mindshadow | 338119 | [338119-mindshadow.json](./338119-mindshadow.json) |
@@ -14937,6 +14939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 22: MVP Edition | 196516 | [196516-mlb-the-show-22-mvp-edition.json](./196516-mlb-the-show-22-mvp-edition.json) |
 | MLB The Show 23: Digital Deluxe Edition | 237756 | [237756-mlb-the-show-23-digital-deluxe-edition.json](./237756-mlb-the-show-23-digital-deluxe-edition.json) |
 | MLB The Show 23: The Captain Edition | 242888 | [242888-mlb-the-show-23-the-captain-edition.json](./242888-mlb-the-show-23-the-captain-edition.json) |
+| MLB The Show 24 | 282900 | [282900-mlb-the-show-24.json](./282900-mlb-the-show-24.json) |
 | MLB The Show 24: Digital Deluxe Edition | 286200 | [286200-mlb-the-show-24-digital-deluxe-edition.json](./286200-mlb-the-show-24-digital-deluxe-edition.json) |
 | MLB The Show 24: MVP Edition | 286201 | [286201-mlb-the-show-24-mvp-edition.json](./286201-mlb-the-show-24-mvp-edition.json) |
 | MLB The Show 25 | 329844 | [329844-mlb-the-show-25.json](./329844-mlb-the-show-25.json) |
@@ -16197,6 +16200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 30242 | [30242-monopoly.json](./30242-monopoly.json) |
 | Monopoly | 305234 | [305234-monopoly.json](./305234-monopoly.json) |
 | Monopoly | 308609 | [308609-monopoly.json](./308609-monopoly.json) |
+| Monopoly | 332 | [332-monopoly.json](./332-monopoly.json) |
 | Monopoly | 335112 | [335112-monopoly.json](./335112-monopoly.json) |
 | Monopoly | 335884 | [335884-monopoly.json](./335884-monopoly.json) |
 | Monopoly | 336268 | [336268-monopoly.json](./336268-monopoly.json) |
@@ -20422,6 +20426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushoku Tensei: Jobless Reincarnation - Quest of Memories | 230619 | [230619-mushoku-tensei-jobless-reincarnation-quest-of-memories.json](./230619-mushoku-tensei-jobless-reincarnation-quest-of-memories.json) |
 | Mushroam | 348387 | [348387-mushroam.json](./348387-mushroam.json) |
 | Mushroom | 309382 | [309382-mushroom.json](./309382-mushroom.json) |
+| Mushroom 11 | 15549 | [15549-mushroom-11.json](./15549-mushroom-11.json) |
 | Mushroom Agent | 235795 | [235795-mushroom-agent.json](./235795-mushroom-agent.json) |
 | Mushroom Card RPG | 219818 | [219818-mushroom-card-rpg.json](./219818-mushroom-card-rpg.json) |
 | Mushroom Cats | 118067 | [118067-mushroom-cats.json](./118067-mushroom-cats.json) |
