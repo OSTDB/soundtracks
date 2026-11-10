@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Armageddon | 48436 | [48436-last-armageddon.json](./48436-last-armageddon.json) |
 | Last Arrows | 123535 | [123535-last-arrows.json](./123535-last-arrows.json) |
 | Last Ascender | 413985 | [413985-last-ascender.json](./413985-last-ascender.json) |
+| Last Asylum | 398722 | [398722-last-asylum.json](./398722-last-asylum.json) |
 | Last Barrier | 263114 | [263114-last-barrier.json](./263114-last-barrier.json) |
 | Last Bastion | 186580 | [186580-last-bastion.json](./186580-last-bastion.json) |
 | Last Battalion | 20127 | [20127-last-battalion.json](./20127-last-battalion.json) |
@@ -6020,6 +6021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LISA: Desolate Expanse | 409650 | [409650-lisa-desolate-expanse.json](./409650-lisa-desolate-expanse.json) |
 | Lisa: Is Fearless | 172490 | [172490-lisa-is-fearless.json](./172490-lisa-is-fearless.json) |
 | Lisa: Paradise | 370093 | [370093-lisa-paradise.json](./370093-lisa-paradise.json) |
+| Lisa: The 2 | 398732 | [398732-lisa-the-2.json](./398732-lisa-the-2.json) |
 | Lisa: The Bashful | 172484 | [172484-lisa-the-bashful.json](./172484-lisa-the-bashful.json) |
 | Lisa: The Clueless | 222113 | [222113-lisa-the-clueless.json](./222113-lisa-the-clueless.json) |
 | Lisa: The Doleful | 187119 | [187119-lisa-the-doleful.json](./187119-lisa-the-doleful.json) |
