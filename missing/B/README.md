@@ -1895,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
 | Balls? | 177645 | [177645-balls.json](./177645-balls.json) |
 | BallsBlasterVR | 128229 | [128229-ballsblastervr.json](./128229-ballsblastervr.json) |
+| Ballseye | 420584 | [420584-ballseye.json](./420584-ballseye.json) |
 | Ballshit | 373219 | [373219-ballshit.json](./373219-ballshit.json) |
 | Ballshit 2D | 420784 | [420784-ballshit-2d.json](./420784-ballshit-2d.json) |
 | Ballskin | 414048 | [414048-ballskin.json](./414048-ballskin.json) |
