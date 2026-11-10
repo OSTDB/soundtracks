@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lane of the Eternal Night | 406207 | [406207-lane-of-the-eternal-night.json](./406207-lane-of-the-eternal-night.json) |
 | Lane Splitter | 233227 | [233227-lane-splitter.json](./233227-lane-splitter.json) |
 | Lane-4: A dystopian Programming Thriller | 403334 | [403334-lane-4-a-dystopian-programming-thriller.json](./403334-lane-4-a-dystopian-programming-thriller.json) |
+| Lanelord | 424871 | [424871-lanelord.json](./424871-lanelord.json) |
 | Lanescape | 203570 | [203570-lanescape.json](./203570-lanescape.json) |
 | Lanesplit | 345072 | [345072-lanesplit.json](./345072-lanesplit.json) |
 | Lanesplitterz | 340895 | [340895-lanesplitterz.json](./340895-lanesplitterz.json) |
@@ -1460,6 +1461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Labyrinth: Lucidity Lost | 249725 | [249725-last-labyrinth-lucidity-lost.json](./249725-last-labyrinth-lucidity-lost.json) |
 | Last Lap Heroes | 211279 | [211279-last-lap-heroes.json](./211279-last-lap-heroes.json) |
 | Last Laugh | 337191 | [337191-last-laugh.json](./337191-last-laugh.json) |
+| Last Lawn Standing | 424817 | [424817-last-lawn-standing.json](./424817-last-lawn-standing.json) |
 | Last Leave | 372236 | [372236-last-leave.json](./372236-last-leave.json) |
 | Last Legacy | 172442 | [172442-last-legacy.json](./172442-last-legacy.json) |
 | Last Legion UX | 3534 | [3534-last-legion-ux.json](./3534-last-legion-ux.json) |
@@ -3019,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Fate | 50857 | [50857-legends-of-fate.json](./50857-legends-of-fate.json) |
 | Legends of Future Past | 65515 | [65515-legends-of-future-past.json](./65515-legends-of-future-past.json) |
 | Legends of Gems | 348010 | [348010-legends-of-gems.json](./348010-legends-of-gems.json) |
+| Legends Of Glory | 424826 | [424826-legends-of-glory.json](./424826-legends-of-glory.json) |
 | Legends of Gondwana | 157467 | [157467-legends-of-gondwana.json](./157467-legends-of-gondwana.json) |
 | Legends of Haired Pyra | 251130 | [251130-legends-of-haired-pyra.json](./251130-legends-of-haired-pyra.json) |
 | Legends of Hapax | 199442 | [199442-legends-of-hapax.json](./199442-legends-of-hapax.json) |
@@ -5865,6 +5868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linsips | 395725 | [395725-linsips.json](./395725-linsips.json) |
 | Lint | 394619 | [394619-lint.json](./394619-lint.json) |
 | Lint | 55972 | [55972-lint.json](./55972-lint.json) |
+| Lintbreakers: Night Shift | 424874 | [424874-lintbreakers-night-shift.json](./424874-lintbreakers-night-shift.json) |
 | Lintrix | 58151 | [58151-lintrix.json](./58151-lintrix.json) |
 | Linum | 234063 | [234063-linum.json](./234063-linum.json) |
 | Linum | 337830 | [337830-linum.json](./337830-linum.json) |
@@ -9163,6 +9167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love is a Canvas | 210315 | [210315-love-is-a-canvas.json](./210315-love-is-a-canvas.json) |
 | Love is a Demon | 381526 | [381526-love-is-a-demon.json](./381526-love-is-a-demon.json) |
 | Love is a Game | 179848 | [179848-love-is-a-game.json](./179848-love-is-a-game.json) |
+| Love is a Roguelite | 424833 | [424833-love-is-a-roguelite.json](./424833-love-is-a-roguelite.json) |
 | Love Is All Around | 253391 | [253391-love-is-all-around.json](./253391-love-is-all-around.json) |
 | Love Is All Around 2 | 348790 | [348790-love-is-all-around-2.json](./348790-love-is-all-around-2.json) |
 | Love is All Around Collection | 409337 | [409337-love-is-all-around-collection.json](./409337-love-is-all-around-collection.json) |
