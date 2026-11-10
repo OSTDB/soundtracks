@@ -9351,6 +9351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greedy Chicken | 264171 | [264171-greedy-chicken.json](./264171-greedy-chicken.json) |
 | Greedy Crush | 113171 | [113171-greedy-crush.json](./113171-greedy-crush.json) |
 | Greedy Darts | 348128 | [348128-greedy-darts.json](./348128-greedy-darts.json) |
+| Greedy Drivers 2 | 398082 | [398082-greedy-drivers-2.json](./398082-greedy-drivers-2.json) |
 | Greedy Dungeon | 153395 | [153395-greedy-dungeon.json](./153395-greedy-dungeon.json) |
 | Greedy Dungeons | 86521 | [86521-greedy-dungeons.json](./86521-greedy-dungeons.json) |
 | Greedy Dwarf | 114656 | [114656-greedy-dwarf.json](./114656-greedy-dwarf.json) |
