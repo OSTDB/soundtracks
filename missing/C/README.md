@@ -699,6 +699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops - Annihilation | 22636 | [22636-call-of-duty-black-ops-annihilation.json](./22636-call-of-duty-black-ops-annihilation.json) |
 | Call of Duty: Black Ops - Declassified | 8548 | [8548-call-of-duty-black-ops-declassified.json](./8548-call-of-duty-black-ops-declassified.json) |
 | Call of Duty: Black Ops - Escalation | 22945 | [22945-call-of-duty-black-ops-escalation.json](./22945-call-of-duty-black-ops-escalation.json) |
+| Call of Duty: Black Ops - First Strike | 21859 | [21859-call-of-duty-black-ops-first-strike.json](./21859-call-of-duty-black-ops-first-strike.json) |
 | Call of Duty: Black Ops - Gold Edition | 118925 | [118925-call-of-duty-black-ops-gold-edition.json](./118925-call-of-duty-black-ops-gold-edition.json) |
 | Call of Duty: Black Ops - Hardened Edition | 47476 | [47476-call-of-duty-black-ops-hardened-edition.json](./47476-call-of-duty-black-ops-hardened-edition.json) |
 | Call of Duty: Black Ops - Prestige Edition | 102079 | [102079-call-of-duty-black-ops-prestige-edition.json](./102079-call-of-duty-black-ops-prestige-edition.json) |
@@ -13559,6 +13560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: The First Decade | 18165 | [18165-command-and-conquer-the-first-decade.json](./18165-command-and-conquer-the-first-decade.json) |
 | Command & Conquer: The Ultimate Collection | 50885 | [50885-command-and-conquer-the-ultimate-collection.json](./50885-command-and-conquer-the-ultimate-collection.json) |
 | Command & Conquer: Tiberian Sun - Firestorm | 900 | [900-command-and-conquer-tiberian-sun-firestorm.json](./900-command-and-conquer-tiberian-sun-firestorm.json) |
+| Command & Conquer: Tiberium Alliances | 23545 | [23545-command-and-conquer-tiberium-alliances.json](./23545-command-and-conquer-tiberium-alliances.json) |
 | Command & Control 3 | 150976 | [150976-command-and-control-3.json](./150976-command-and-control-3.json) |
 | Command Adventures: Starship | 11678 | [11678-command-adventures-starship.json](./11678-command-adventures-starship.json) |
 | Command and Conquer Map Pack | 273143 | [273143-command-and-conquer-map-pack.json](./273143-command-and-conquer-map-pack.json) |
@@ -16833,6 +16835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackle Cradle | 57187 | [57187-crackle-cradle.json](./57187-crackle-cradle.json) |
 | Crackout | 48292 | [48292-crackout.json](./48292-crackout.json) |
 | Crackpot Despot: Trump Warfare | 107993 | [107993-crackpot-despot-trump-warfare.json](./107993-crackpot-despot-trump-warfare.json) |
+| Crackpots | 23843 | [23843-crackpots.json](./23843-crackpots.json) |
 | Cracks | 174015 | [174015-cracks.json](./174015-cracks.json) |
 | Cracks In Hell | 231172 | [231172-cracks-in-hell.json](./231172-cracks-in-hell.json) |
 | Cracks Where the Light Gets In | 245795 | [245795-cracks-where-the-light-gets-in.json](./245795-cracks-where-the-light-gets-in.json) |
