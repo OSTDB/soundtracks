@@ -3548,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Games II | 206891 | [206891-casino-games-ii.json](./206891-casino-games-ii.json) |
 | Casino Games Solitaire | 217659 | [217659-casino-games-solitaire.json](./217659-casino-games-solitaire.json) |
 | Casino Golf | 204283 | [204283-casino-golf.json](./204283-casino-golf.json) |
+| Casino Heaven: Slots & Bonus Games | 400046 | [400046-casino-heaven-slots-and-bonus-games.json](./400046-casino-heaven-slots-and-bonus-games.json) |
 | Casino Heist | 243587 | [243587-casino-heist.json](./243587-casino-heist.json) |
 | Casino Heist: Aruba | 327449 | [327449-casino-heist-aruba.json](./327449-casino-heist-aruba.json) |
 | Casino Heist: Escape Room | 302052 | [302052-casino-heist-escape-room.json](./302052-casino-heist-escape-room.json) |
@@ -11395,6 +11396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudpunk: City of Ghosts | 145294 | [145294-cloudpunk-city-of-ghosts.json](./145294-cloudpunk-city-of-ghosts.json) |
 | Cloudpunk: Ultimate Edition | 193737 | [193737-cloudpunk-ultimate-edition.json](./193737-cloudpunk-ultimate-edition.json) |
 | Cloudrift | 19031 | [19031-cloudrift.json](./19031-cloudrift.json) |
+| Cloudrooms | 400618 | [400618-cloudrooms.json](./400618-cloudrooms.json) |
 | Clouds & Sheep | 255732 | [255732-clouds-and-sheep.json](./255732-clouds-and-sheep.json) |
 | Clouds & Sheep 2 | 33595 | [33595-clouds-and-sheep-2.json](./33595-clouds-and-sheep-2.json) |
 | Clouds Ahoy! | 235863 | [235863-clouds-ahoy.json](./235863-clouds-ahoy.json) |
@@ -17187,6 +17189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank Up | 346919 | [346919-crank-up.json](./346919-crank-up.json) |
 | Crank-A-Sketch | 202025 | [202025-crank-a-sketch.json](./202025-crank-a-sketch.json) |
 | Crank! Push! Tilt! | 243697 | [243697-crank-push-tilt.json](./243697-crank-push-tilt.json) |
+| CrankBoy | 400614 | [400614-crankboy.json](./400614-crankboy.json) |
 | CrankCore Incremental | 413211 | [413211-crankcore-incremental.json](./413211-crankcore-incremental.json) |
 | Cranked | 354951 | [354951-cranked.json](./354951-cranked.json) |
 | Cranked Up | 121490 | [121490-cranked-up.json](./121490-cranked-up.json) |
