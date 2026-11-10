@@ -9740,6 +9740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: For You Who Walk in Snow | 388537 | [388537-wuthering-waves-for-you-who-walk-in-snow.json](./388537-wuthering-waves-for-you-who-walk-in-snow.json) |
 | Wuthering Waves: In the Turquoise Moonglow | 314735 | [314735-wuthering-waves-in-the-turquoise-moonglow.json](./314735-wuthering-waves-in-the-turquoise-moonglow.json) |
 | Wuthering Waves: Lightly We Toss the Crown | 346182 | [346182-wuthering-waves-lightly-we-toss-the-crown.json](./346182-wuthering-waves-lightly-we-toss-the-crown.json) |
+| Wuthering Waves: Prism's Illusion, Heart's Illumination | 423062 | [423062-wuthering-waves-prisms-illusion-hearts-illumination.json](./423062-wuthering-waves-prisms-illusion-hearts-illumination.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
 | Wuthering Waves: Tangled Truth in Inverted Tower | 336262 | [336262-wuthering-waves-tangled-truth-in-inverted-tower.json](./336262-wuthering-waves-tangled-truth-in-inverted-tower.json) |
 | Wuthering Waves: Thaw of Eons | 311653 | [311653-wuthering-waves-thaw-of-eons.json](./311653-wuthering-waves-thaw-of-eons.json) |
