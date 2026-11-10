@@ -17,9 +17,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z Day Shootout | 240007 | [240007-z-day-shootout.json](./240007-z-day-shootout.json) |
 | Z Day: Hearts of Heroes | 105797 | [105797-z-day-hearts-of-heroes.json](./105797-z-day-hearts-of-heroes.json) |
 | Z Escape | 270462 | [270462-z-escape.json](./270462-z-escape.json) |
+| Z Escape: Balloons And Guns | 404565 | [404565-z-escape-balloons-and-guns.json](./404565-z-escape-balloons-and-guns.json) |
 | Z Escape: Complete Edition | 277911 | [277911-z-escape-complete-edition.json](./277911-z-escape-complete-edition.json) |
+| Z Escape: Fire and Choppers | 404566 | [404566-z-escape-fire-and-choppers.json](./404566-z-escape-fire-and-choppers.json) |
 | Z Escape: Floaty Edition | 300881 | [300881-z-escape-floaty-edition.json](./300881-z-escape-floaty-edition.json) |
 | Z Escape: Laser Edition | 362218 | [362218-z-escape-laser-edition.json](./362218-z-escape-laser-edition.json) |
+| Z Escape: Lasers and Choppers | 404567 | [404567-z-escape-lasers-and-choppers.json](./404567-z-escape-lasers-and-choppers.json) |
 | Z Evil Road | 374886 | [374886-z-evil-road.json](./374886-z-evil-road.json) |
 | Z is for Zombie | 223623 | [223623-z-is-for-zombie.json](./223623-z-is-for-zombie.json) |
 | Z Juice | 311812 | [311812-z-juice.json](./311812-z-juice.json) |
@@ -216,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaccaria Pinball: Zankor 2017 Table | 158483 | [158483-zaccaria-pinball-zankor-2017-table.json](./158483-zaccaria-pinball-zankor-2017-table.json) |
 | Zaccaria Pinball: Zankor Table | 158491 | [158491-zaccaria-pinball-zankor-table.json](./158491-zaccaria-pinball-zankor-table.json) |
 | Zaccaria Pinball: Zombie Invasion | 208455 | [208455-zaccaria-pinball-zombie-invasion.json](./208455-zaccaria-pinball-zombie-invasion.json) |
+| Zaccaria Pinball: Zombie Invasion Mode | 404563 | [404563-zaccaria-pinball-zombie-invasion-mode.json](./404563-zaccaria-pinball-zombie-invasion-mode.json) |
 | Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
 | ZaciSa: Defense of the Crayon Dimensions! | 84971 | [84971-zacisa-defense-of-the-crayon-dimensions.json](./84971-zacisa-defense-of-the-crayon-dimensions.json) |
 | ZaciSa's Last Stand | 84957 | [84957-zacisas-last-stand.json](./84957-zacisas-last-stand.json) |
@@ -1705,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Defense: Commando Edition | 277914 | [277914-zombie-defense-commando-edition.json](./277914-zombie-defense-commando-edition.json) |
 | Zombie Defense: Definitive Edition | 275047 | [275047-zombie-defense-definitive-edition.json](./275047-zombie-defense-definitive-edition.json) |
 | Zombie Defense: Emerald Edition | 400206 | [400206-zombie-defense-emerald-edition.json](./400206-zombie-defense-emerald-edition.json) |
+| Zombie Defense: Flamethrower | 404562 | [404562-zombie-defense-flamethrower.json](./404562-zombie-defense-flamethrower.json) |
 | Zombie Defense: Flaming Edition | 300880 | [300880-zombie-defense-flaming-edition.json](./300880-zombie-defense-flaming-edition.json) |
 | Zombie Defense: Fruity Edition | 320672 | [320672-zombie-defense-fruity-edition.json](./320672-zombie-defense-fruity-edition.json) |
 | Zombie Defense: Jungle Edition | 371432 | [371432-zombie-defense-jungle-edition.json](./371432-zombie-defense-jungle-edition.json) |
