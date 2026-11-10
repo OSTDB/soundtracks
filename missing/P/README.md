@@ -4023,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peek-A-Boo Poker | 48277 | [48277-peek-a-boo-poker.json](./48277-peek-a-boo-poker.json) |
 | Peek-a-Boo! | 40407 | [40407-peek-a-boo.json](./40407-peek-a-boo.json) |
 | Peek-A-Mimic Christmas Castle | 326261 | [326261-peek-a-mimic-christmas-castle.json](./326261-peek-a-mimic-christmas-castle.json) |
+| Peekablock | 414002 | [414002-peekablock.json](./414002-peekablock.json) |
 | Peekaboo | 337585 | [337585-peekaboo.json](./337585-peekaboo.json) |
 | Peekaboo Collection - 3 Tales of Horror | 132347 | [132347-peekaboo-collection-3-tales-of-horror.json](./132347-peekaboo-collection-3-tales-of-horror.json) |
 | Peekaboo Lite | 250306 | [250306-peekaboo-lite.json](./250306-peekaboo-lite.json) |
@@ -4607,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Circle: Stand Alone | 346650 | [346650-perfect-circle-stand-alone.json](./346650-perfect-circle-stand-alone.json) |
 | Perfect Color | 368268 | [368268-perfect-color.json](./368268-perfect-color.json) |
 | Perfect Crime | 116895 | [116895-perfect-crime.json](./116895-perfect-crime.json) |
+| Perfect Crime Case Files | 413951 | [413951-perfect-crime-case-files.json](./413951-perfect-crime-case-files.json) |
 | Perfect Crime: Collector's Death | 170288 | [170288-perfect-crime-collectors-death.json](./170288-perfect-crime-collectors-death.json) |
 | Perfect Dark | 141537 | [141537-perfect-dark.json](./141537-perfect-dark.json) |
 | Perfect Dark | 1463 | [1463-perfect-dark.json](./1463-perfect-dark.json) |
@@ -4985,6 +4987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Q2: New Cinema Labyrinth | 54220 | [54220-persona-q2-new-cinema-labyrinth.json](./54220-persona-q2-new-cinema-labyrinth.json) |
 | Persona Q2: New Cinema Labyrinth - Showtime Premium Edition | 136347 | [136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json](./136347-persona-q2-new-cinema-labyrinth-showtime-premium-edition.json) |
 | Persona5: The Phantom X | 242315 | [242315-persona5-the-phantom-x.json](./242315-persona5-the-phantom-x.json) |
+| Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 1 | 413924 | [413924-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-1.json](./413924-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-1.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 2 | 415618 | [415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json](./415618-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-2.json) |
 | Persona5: The Phantom X - Main Story Chapter 3: Unconditional Love Phase 3 | 428405 | [428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json](./428405-persona5-the-phantom-x-main-story-chapter-3-unconditional-love-phase-3.json) |
 | Persona5: The Phantom X - The Revenge Fox | 412804 | [412804-persona5-the-phantom-x-the-revenge-fox.json](./412804-persona5-the-phantom-x-the-revenge-fox.json) |
@@ -7051,6 +7054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilotwings 64 | 3573 | [3573-pilotwings-64.json](./3573-pilotwings-64.json) |
 | Pilotwings Resort | 6862 | [6862-pilotwings-resort.json](./6862-pilotwings-resort.json) |
 | PilotXross | 123757 | [123757-pilotxross.json](./123757-pilotxross.json) |
+| Pilou Games | 414004 | [414004-pilou-games.json](./414004-pilou-games.json) |
 | Pilsner Urquell: Undress Me!!! | 270673 | [270673-pilsner-urquell-undress-me.json](./270673-pilsner-urquell-undress-me.json) |
 | Pim World | 291746 | [291746-pim-world.json](./291746-pim-world.json) |
 | Pim: The Forgotten | 261767 | [261767-pim-the-forgotten.json](./261767-pim-the-forgotten.json) |
