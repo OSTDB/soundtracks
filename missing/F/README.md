@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FactoryCapi | 338290 | [338290-factorycapi.json](./338290-factorycapi.json) |
 | Factoryopolis | 246018 | [246018-factoryopolis.json](./246018-factoryopolis.json) |
 | FactoryX | 271986 | [271986-factoryx.json](./271986-factoryx.json) |
+| Factotum | 85648 | [85648-factotum.json](./85648-factotum.json) |
 | Factotum 90 | 21317 | [21317-factotum-90.json](./21317-factotum-90.json) |
 | Factropy | 196661 | [196661-factropy.json](./196661-factropy.json) |
 | Facts 'N Fractions | 83096 | [83096-facts-n-fractions.json](./83096-facts-n-fractions.json) |
@@ -5007,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill the Void | 419326 | [419326-fill-the-void.json](./419326-fill-the-void.json) |
 | Fill Up the Hole | 346799 | [346799-fill-up-the-hole.json](./346799-fill-up-the-hole.json) |
 | Fill Up! | 34379 | [34379-fill-up.json](./34379-fill-up.json) |
+| Fill-a-Pix: Phil's Epic Adventure | 84693 | [84693-fill-a-pix-phils-epic-adventure.json](./84693-fill-a-pix-phils-epic-adventure.json) |
 | Fille Fatale Compassion | 388211 | [388211-fille-fatale-compassion.json](./388211-fille-fatale-compassion.json) |
 | Filled to the Limit | 266113 | [266113-filled-to-the-limit.json](./266113-filled-to-the-limit.json) |
 | Filler | 261210 | [261210-filler.json](./261210-filler.json) |
@@ -12046,6 +12048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy's Journey | 104083 | [104083-freddys-journey.json](./104083-freddys-journey.json) |
 | Freddy's Pizza Parlor Survival | 245306 | [245306-freddys-pizza-parlor-survival.json](./245306-freddys-pizza-parlor-survival.json) |
 | Freddy's Rescue Roundup | 72088 | [72088-freddys-rescue-roundup.json](./72088-freddys-rescue-roundup.json) |
+| Frederic 2: Evil Strikes Back | 85154 | [85154-frederic-2-evil-strikes-back.json](./85154-frederic-2-evil-strikes-back.json) |
 | Frederic: Evil Strikes Back | 9845 | [9845-frederic-evil-strikes-back.json](./9845-frederic-evil-strikes-back.json) |
 | Frederic: Resurrection of Music - Director's Cut | 33261 | [33261-frederic-resurrection-of-music-directors-cut.json](./33261-frederic-resurrection-of-music-directors-cut.json) |
 | Free | 287512 | [287512-free.json](./287512-free.json) |
