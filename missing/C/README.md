@@ -21005,6 +21005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse the Cursor | 376834 | [376834-curse-the-cursor.json](./376834-curse-the-cursor.json) |
 | Curse Warrior | 335574 | [335574-curse-warrior.json](./335574-curse-warrior.json) |
 | Curse Words | 370775 | [370775-curse-words.json](./370775-curse-words.json) |
+| Curse You, Hospital! | 401997 | [401997-curse-you-hospital.json](./401997-curse-you-hospital.json) |
 | Curse You! Red Baron | 68738 | [68738-curse-you-red-baron.json](./68738-curse-you-red-baron.json) |
 | Curse: The Eye of Isis | 5796 | [5796-curse-the-eye-of-isis.json](./5796-curse-the-eye-of-isis.json) |
 | Curse: The First Knot | 400932 | [400932-curse-the-first-knot.json](./400932-curse-the-first-knot.json) |
