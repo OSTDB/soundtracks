@@ -1000,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1866,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls n Blocks | 120255 | [120255-balls-n-blocks.json](./120255-balls-n-blocks.json) |
 | Balls of Destiny | 328892 | [328892-balls-of-destiny.json](./328892-balls-of-destiny.json) |
 | Balls of Fame Holiday Bundle | 227700 | [227700-balls-of-fame-holiday-bundle.json](./227700-balls-of-fame-holiday-bundle.json) |
+| Balls of Fury | 6573 | [6573-balls-of-fury.json](./6573-balls-of-fury.json) |
 | Balls of Glory Pinball | 261803 | [261803-balls-of-glory-pinball.json](./261803-balls-of-glory-pinball.json) |
 | Balls of Life | 313546 | [313546-balls-of-life.json](./313546-balls-of-life.json) |
 | Balls of Steel | 11097 | [11097-balls-of-steel.json](./11097-balls-of-steel.json) |
@@ -3071,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball 101 | 230839 | [230839-baseball-101.json](./230839-baseball-101.json) |
 | Baseball 3DS | 21150 | [21150-baseball-3ds.json](./21150-baseball-3ds.json) |
 | Baseball 9 | 159122 | [159122-baseball-9.json](./159122-baseball-9.json) |
+| Baseball Advance | 6319 | [6319-baseball-advance.json](./6319-baseball-advance.json) |
 | Baseball Battle | 243738 | [243738-baseball-battle.json](./243738-baseball-battle.json) |
 | Baseball Blast! | 51048 | [51048-baseball-blast.json](./51048-baseball-blast.json) |
 | Baseball Bout: Otterrific Arcade | 214517 | [214517-baseball-bout-otterrific-arcade.json](./214517-baseball-bout-otterrific-arcade.json) |
@@ -10511,6 +10514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blend X Brand | 387133 | [387133-blend-x-brand.json](./387133-blend-x-brand.json) |
 | Blend_IT | 338245 | [338245-blend-it.json](./338245-blend-it.json) |
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
+| Blender Bros. | 6324 | [6324-blender-bros.json](./6324-blender-bros.json) |
 | Blender Express HD | 245259 | [245259-blender-express-hd.json](./245259-blender-express-hd.json) |
 | Blenderman | 303364 | [303364-blenderman.json](./303364-blenderman.json) |
 | Blendix: Puzzle Game | 131724 | [131724-blendix-puzzle-game.json](./131724-blendix-puzzle-game.json) |
@@ -13260,6 +13264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Live | 17456 | [17456-bomberman-live.json](./17456-bomberman-live.json) |
 | Bomberman Live: Battlefest | 67696 | [67696-bomberman-live-battlefest.json](./67696-bomberman-live-battlefest.json) |
 | Bomberman Max 2 | 69781 | [69781-bomberman-max-2.json](./69781-bomberman-max-2.json) |
+| Bomberman Max 2: Blue Advance | 6331 | [6331-bomberman-max-2-blue-advance.json](./6331-bomberman-max-2-blue-advance.json) |
 | Bomberman Max 2: Red Advance | 6333 | [6333-bomberman-max-2-red-advance.json](./6333-bomberman-max-2-red-advance.json) |
 | Bomberman Max: Ain Version | 197961 | [197961-bomberman-max-ain-version.json](./197961-bomberman-max-ain-version.json) |
 | Bomberman Max: Blue Champion | 49839 | [49839-bomberman-max-blue-champion.json](./49839-bomberman-max-blue-champion.json) |
@@ -14946,6 +14951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Club Manager | 188210 | [188210-boxing-club-manager.json](./188210-boxing-club-manager.json) |
 | Boxing Club: Ultimate Fighting | 108469 | [108469-boxing-club-ultimate-fighting.json](./108469-boxing-club-ultimate-fighting.json) |
 | Boxing Coach | 156193 | [156193-boxing-coach.json](./156193-boxing-coach.json) |
+| Boxing Fever | 6335 | [6335-boxing-fever.json](./6335-boxing-fever.json) |
 | Boxing Fight | 63344 | [63344-boxing-fight.json](./63344-boxing-fight.json) |
 | Boxing Fighter: Shadow Battle | 355149 | [355149-boxing-fighter-shadow-battle.json](./355149-boxing-fighter-shadow-battle.json) |
 | Boxing Fighter: Super Punch | 93717 | [93717-boxing-fighter-super-punch.json](./93717-boxing-fighter-super-punch.json) |
@@ -16581,6 +16587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Britney Spears: American Dream | 57972 | [57972-britney-spears-american-dream.json](./57972-britney-spears-american-dream.json) |
 | Britney Spears' Theme Park | 305843 | [305843-britney-spears-theme-park.json](./305843-britney-spears-theme-park.json) |
 | Britney's Dance Beat | 248750 | [248750-britneys-dance-beat.json](./248750-britneys-dance-beat.json) |
+| Britney's Dance Beat | 6338 | [6338-britneys-dance-beat.json](./6338-britneys-dance-beat.json) |
 | Brittany Home Alone | 177628 | [177628-brittany-home-alone.json](./177628-brittany-home-alone.json) |
 | Brittle | 278684 | [278684-brittle.json](./278684-brittle.json) |
 | Brittle Blue | 184591 | [184591-brittle-blue.json](./184591-brittle-blue.json) |
@@ -18617,6 +18624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BurgerTime Deluxe | 48958 | [48958-burgertime-deluxe.json](./48958-burgertime-deluxe.json) |
 | BurgerTime Micro Player | 229893 | [229893-burgertime-micro-player.json](./229893-burgertime-micro-player.json) |
 | BurgerTime Party! | 117745 | [117745-burgertime-party.json](./117745-burgertime-party.json) |
+| BurgerTime: World Tour | 6576 | [6576-burgertime-world-tour.json](./6576-burgertime-world-tour.json) |
 | BurgerWave | 225964 | [225964-burgerwave.json](./225964-burgerwave.json) |
 | Burgerwise the Clown | 101618 | [101618-burgerwise-the-clown.json](./101618-burgerwise-the-clown.json) |
 | Burggeist | 302962 | [302962-burggeist.json](./302962-burggeist.json) |
