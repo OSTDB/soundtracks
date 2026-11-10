@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceless | 320882 | [320882-faceless.json](./320882-faceless.json) |
 | Faceless | 340047 | [340047-faceless.json](./340047-faceless.json) |
 | Faceless | 54586 | [54586-faceless.json](./54586-faceless.json) |
+| Faceless Assassin | 397448 | [397448-faceless-assassin.json](./397448-faceless-assassin.json) |
 | Faceless: Prologue | 320880 | [320880-faceless-prologue.json](./320880-faceless-prologue.json) |
 | Facemaker | 326621 | [326621-facemaker.json](./326621-facemaker.json) |
 | Facemaker | 40897 | [40897-facemaker.json](./40897-facemaker.json) |
@@ -8679,6 +8680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floppy From Outer Space | 183347 | [183347-floppy-from-outer-space.json](./183347-floppy-from-outer-space.json) |
 | Floppy Heroes | 32537 | [32537-floppy-heroes.json](./32537-floppy-heroes.json) |
 | Floppy Heroes 2 | 131777 | [131777-floppy-heroes-2.json](./131777-floppy-heroes-2.json) |
+| Floppy Jet | 397461 | [397461-floppy-jet.json](./397461-floppy-jet.json) |
 | Floppy Jump 3-in-1 | 385550 | [385550-floppy-jump-3-in-1.json](./385550-floppy-jump-3-in-1.json) |
 | Floppy Knights: Version 2.0 | 230299 | [230299-floppy-knights-version-2-0.json](./230299-floppy-knights-version-2-0.json) |
 | Floppy Minecraft | 144104 | [144104-floppy-minecraft.json](./144104-floppy-minecraft.json) |
@@ -10448,6 +10450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forging Ahead | 244740 | [244740-forging-ahead.json](./244740-forging-ahead.json) |
 | Forging Glory | 132814 | [132814-forging-glory.json](./132814-forging-glory.json) |
 | Forging History Saga: The big bang | 182842 | [182842-forging-history-saga-the-big-bang.json](./182842-forging-history-saga-the-big-bang.json) |
+| Forging: An Interactive Poem | 397460 | [397460-forging-an-interactive-poem.json](./397460-forging-an-interactive-poem.json) |
 | Forgive Me Father | 165479 | [165479-forgive-me-father.json](./165479-forgive-me-father.json) |
 | Forgive Me Father 2 | 244784 | [244784-forgive-me-father-2.json](./244784-forgive-me-father-2.json) |
 | Forgive Me Father 2: Deluxe Edition | 383427 | [383427-forgive-me-father-2-deluxe-edition.json](./383427-forgive-me-father-2-deluxe-edition.json) |
