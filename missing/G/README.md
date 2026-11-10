@@ -1784,7 +1784,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangs of London | 23136 | [23136-gangs-of-london.json](./23136-gangs-of-london.json) |
 | Gangs of Neo Tokyo | 325986 | [325986-gangs-of-neo-tokyo.json](./325986-gangs-of-neo-tokyo.json) |
 | Gangs of Rikton | 167592 | [167592-gangs-of-rikton.json](./167592-gangs-of-rikton.json) |
+| Gangs of Sherwood: Alan-a-Dale Alternative Skin | 426050 | [426050-gangs-of-sherwood-alan-a-dale-alternative-skin.json](./426050-gangs-of-sherwood-alan-a-dale-alternative-skin.json) |
 | Gangs of Sherwood: Lionheart Edition | 271679 | [271679-gangs-of-sherwood-lionheart-edition.json](./271679-gangs-of-sherwood-lionheart-edition.json) |
+| Gangs of Sherwood: Lionheart Skin Set | 426049 | [426049-gangs-of-sherwood-lionheart-skin-set.json](./426049-gangs-of-sherwood-lionheart-skin-set.json) |
+| Gangs of Sherwood: Prestige Skin Set | 426051 | [426051-gangs-of-sherwood-prestige-skin-set.json](./426051-gangs-of-sherwood-prestige-skin-set.json) |
 | Gangs of Space | 54522 | [54522-gangs-of-space.json](./54522-gangs-of-space.json) |
 | Gangs of the Magic Realm | 299021 | [299021-gangs-of-the-magic-realm.json](./299021-gangs-of-the-magic-realm.json) |
 | Gangs of the street | 285379 | [285379-gangs-of-the-street.json](./285379-gangs-of-the-street.json) |
@@ -2802,6 +2805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem'X | 93210 | [93210-gemx.json](./93210-gemx.json) |
 | Gemaboy Zero X | 274964 | [274964-gemaboy-zero-x.json](./274964-gemaboy-zero-x.json) |
 | GemaBoy: Zero Origins | 208041 | [208041-gemaboy-zero-origins.json](./208041-gemaboy-zero-origins.json) |
+| Gemaica | 426086 | [426086-gemaica.json](./426086-gemaica.json) |
 | Gemalomania | 313304 | [313304-gemalomania.json](./313304-gemalomania.json) |
 | Gematombe | 101445 | [101445-gematombe.json](./101445-gematombe.json) |
 | Gemaze TD | 411665 | [411665-gemaze-td.json](./411665-gemaze-td.json) |
@@ -10120,6 +10124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gromada Revenge | 73413 | [73413-gromada-revenge.json](./73413-gromada-revenge.json) |
 | Grombcross | 288692 | [288692-grombcross.json](./288692-grombcross.json) |
 | Grombiez save souls | 236074 | [236074-grombiez-save-souls.json](./236074-grombiez-save-souls.json) |
+| Grombo Card Shop Tycoon | 425409 | [425409-grombo-card-shop-tycoon.json](./425409-grombo-card-shop-tycoon.json) |
 | Grommet Chod | 410325 | [410325-grommet-chod.json](./410325-grommet-chod.json) |
 | Gromopoli | 178244 | [178244-gromopoli.json](./178244-gromopoli.json) |
 | Grompula | 107674 | [107674-grompula.json](./107674-grompula.json) |
