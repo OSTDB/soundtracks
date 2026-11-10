@@ -17384,6 +17384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Colonization Project: Deluxe Edition | 53375 | [53375-moon-colonization-project-deluxe-edition.json](./53375-moon-colonization-project-deluxe-edition.json) |
 | Moon Colony | 311531 | [311531-moon-colony.json](./311531-moon-colony.json) |
+| Moon Commanders | 427221 | [427221-moon-commanders.json](./427221-moon-commanders.json) |
 | Moon Corp. Tower Defense | 188764 | [188764-moon-corp-tower-defense.json](./188764-moon-corp-tower-defense.json) |
 | Moon Cradle | 108902 | [108902-moon-cradle.json](./108902-moon-cradle.json) |
 | Moon Cradle | 201632 | [201632-moon-cradle.json](./201632-moon-cradle.json) |
@@ -17468,6 +17469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Watch | 315789 | [315789-moon-watch.json](./315789-moon-watch.json) |
 | Moon Whalers | 214245 | [214245-moon-whalers.json](./214245-moon-whalers.json) |
 | Moon Whistle | 166142 | [166142-moon-whistle.json](./166142-moon-whistle.json) |
+| Moon-Oriented Autonomous Biological Model | 427216 | [427216-moon-oriented-autonomous-biological-model.json](./427216-moon-oriented-autonomous-biological-model.json) |
 | Moon: Premium Edition | 136965 | [136965-moon-premium-edition.json](./136965-moon-premium-edition.json) |
 | Moon: Remix RPG Adventure | 73672 | [73672-moon-remix-rpg-adventure.json](./73672-moon-remix-rpg-adventure.json) |
 | Moon: The Final Word | 21222 | [21222-moon-the-final-word.json](./21222-moon-the-final-word.json) |
@@ -21445,6 +21447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Date RPG: Oriana - Story One | 215100 | [215100-my-first-date-rpg-oriana-story-one.json](./215100-my-first-date-rpg-oriana-story-one.json) |
 | My First Date RPG: Oriana - Story Three | 314024 | [314024-my-first-date-rpg-oriana-story-three.json](./314024-my-first-date-rpg-oriana-story-three.json) |
 | My First Date RPG: Oriana - Story Two | 313488 | [313488-my-first-date-rpg-oriana-story-two.json](./313488-my-first-date-rpg-oriana-story-two.json) |
+| My First Day as an Ethically Sourced Lab-Grown Serial Killer Didn't Go So Well (Now It's My Last) | 427257 | [427257-my-first-day-as-an-ethically-sourced-lab-grown-serial-killer-didnt-go-so-well-now-its-my-last.json](./427257-my-first-day-as-an-ethically-sourced-lab-grown-serial-killer-didnt-go-so-well-now-its-my-last.json) |
 | My First Dollhouse | 206769 | [206769-my-first-dollhouse.json](./206769-my-first-dollhouse.json) |
 | My First Encyclopedia | 143571 | [143571-my-first-encyclopedia.json](./143571-my-first-encyclopedia.json) |
 | My First Engine | 101052 | [101052-my-first-engine.json](./101052-my-first-engine.json) |
