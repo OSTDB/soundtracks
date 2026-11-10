@@ -13574,6 +13574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comit the Astrodian 2 | 29408 | [29408-comit-the-astrodian-2.json](./29408-comit-the-astrodian-2.json) |
 | Comit the Astrodian 3 | 65821 | [65821-comit-the-astrodian-3.json](./65821-comit-the-astrodian-3.json) |
 | Comix Breaker | 174262 | [174262-comix-breaker.json](./174262-comix-breaker.json) |
+| Comix Harem | 426633 | [426633-comix-harem.json](./426633-comix-harem.json) |
 | Comix Zero | 324330 | [324330-comix-zero.json](./324330-comix-zero.json) |
 | Comix Zone | 3071 | [3071-comix-zone.json](./3071-comix-zone.json) |
 | ComixPlay #1: The Endless Incident | 33923 | [33923-comixplay-1-the-endless-incident.json](./33923-comixplay-1-the-endless-incident.json) |
