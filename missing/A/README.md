@@ -2748,6 +2748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 8: Wings of Theve - Customizable Cosmetic Set | 404096 | [404096-ace-combat-8-wings-of-theve-customizable-cosmetic-set.json](./404096-ace-combat-8-wings-of-theve-customizable-cosmetic-set.json) |
 | Ace Combat 8: Wings of Theve - Playable Aircraft: F-14A | 404094 | [404094-ace-combat-8-wings-of-theve-playable-aircraft-f-14a.json](./404094-ace-combat-8-wings-of-theve-playable-aircraft-f-14a.json) |
 | Ace Combat 8: Wings of Theve Deluxe Edition | 404097 | [404097-ace-combat-8-wings-of-theve-deluxe-edition.json](./404097-ace-combat-8-wings-of-theve-deluxe-edition.json) |
+| Ace Combat Advance | 6297 | [6297-ace-combat-advance.json](./6297-ace-combat-advance.json) |
 | Ace Combat Infinity | 6628 | [6628-ace-combat-infinity.json](./6628-ace-combat-infinity.json) |
 | Ace Combat X: Recompiled | 413916 | [413916-ace-combat-x-recompiled.json](./413916-ace-combat-x-recompiled.json) |
 | Ace Combat X: Skies of Deception | 14755 | [14755-ace-combat-x-skies-of-deception.json](./14755-ace-combat-x-skies-of-deception.json) |
@@ -9055,6 +9056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American History Lux | 25290 | [25290-american-history-lux.json](./25290-american-history-lux.json) |
 | American Horseshoes | 39376 | [39376-american-horseshoes.json](./39376-american-horseshoes.json) |
 | American Idol | 248734 | [248734-american-idol.json](./248734-american-idol.json) |
+| American Idol | 6304 | [6304-american-idol.json](./6304-american-idol.json) |
 | American Idol: Double Dance Showdown | 378150 | [378150-american-idol-double-dance-showdown.json](./378150-american-idol-double-dance-showdown.json) |
 | American Idol: The Search For A Superstar | 63636 | [63636-american-idol-the-search-for-a-superstar.json](./63636-american-idol-the-search-for-a-superstar.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
@@ -14917,6 +14919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men | 118488 | [118488-army-men.json](./118488-army-men.json) |
 | Army Men | 26819 | [26819-army-men.json](./26819-army-men.json) |
 | Army Men 3D | 22833 | [22833-army-men-3d.json](./22833-army-men-3d.json) |
+| Army Men Advance | 6307 | [6307-army-men-advance.json](./6307-army-men-advance.json) |
 | Army Men Battle Simulator | 351039 | [351039-army-men-battle-simulator.json](./351039-army-men-battle-simulator.json) |
 | Army Men For Kids | 101941 | [101941-army-men-for-kids.json](./101941-army-men-for-kids.json) |
 | Army Men II | 22830 | [22830-army-men-ii.json](./22830-army-men-ii.json) |
@@ -14932,6 +14935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Men: Major Malfunction | 5732 | [5732-army-men-major-malfunction.json](./5732-army-men-major-malfunction.json) |
 | Army Men: Mobile Ops | 280921 | [280921-army-men-mobile-ops.json](./280921-army-men-mobile-ops.json) |
 | Army Men: Omega Soldier | 43766 | [43766-army-men-omega-soldier.json](./43766-army-men-omega-soldier.json) |
+| Army Men: Operation Green | 6308 | [6308-army-men-operation-green.json](./6308-army-men-operation-green.json) |
 | Army Men: RTS | 8498 | [8498-army-men-rts.json](./8498-army-men-rts.json) |
 | Army Men: Sarge's Heroes | 3440 | [3440-army-men-sarges-heroes.json](./3440-army-men-sarges-heroes.json) |
 | Army Men: Sarge's Heroes 2 | 201091 | [201091-army-men-sarges-heroes-2.json](./201091-army-men-sarges-heroes-2.json) |
@@ -15237,6 +15241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art Style: Boxlife | 47826 | [47826-art-style-boxlife.json](./47826-art-style-boxlife.json) |
 | Art Style: Cubello | 21135 | [21135-art-style-cubello.json](./21135-art-style-cubello.json) |
 | Art Style: Digidrive | 29045 | [29045-art-style-digidrive.json](./29045-art-style-digidrive.json) |
+| Art Style: Light Trax | 6567 | [6567-art-style-light-trax.json](./6567-art-style-light-trax.json) |
 | Art Style: Orbient | 21181 | [21181-art-style-orbient.json](./21181-art-style-orbient.json) |
 | Art Style: Pictobits | 21672 | [21672-art-style-pictobits.json](./21672-art-style-pictobits.json) |
 | Art Style: Precipice | 69261 | [69261-art-style-precipice.json](./69261-art-style-precipice.json) |
@@ -17239,6 +17244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari 50: The Namco Legendary Pack | 356570 | [356570-atari-50-the-namco-legendary-pack.json](./356570-atari-50-the-namco-legendary-pack.json) |
 | Atari 50: The Wider World of Atari | 317814 | [317814-atari-50-the-wider-world-of-atari.json](./317814-atari-50-the-wider-world-of-atari.json) |
 | Atari Anniversary Advance | 80442 | [80442-atari-anniversary-advance.json](./80442-atari-anniversary-advance.json) |
+| Atari Anniversary Edition | 6311 | [6311-atari-anniversary-edition.json](./6311-atari-anniversary-edition.json) |
 | Atari Anniversary Edition Redux | 43923 | [43923-atari-anniversary-edition-redux.json](./43923-atari-anniversary-edition-redux.json) |
 | Atari Anthology | 338673 | [338673-atari-anthology.json](./338673-atari-anthology.json) |
 | Atari Arcade 1 | 149293 | [149293-atari-arcade-1.json](./149293-atari-arcade-1.json) |
@@ -17553,6 +17559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17670,6 +17677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic 79 | 30119 | [30119-atomic-79.json](./30119-atomic-79.json) |
 | Atomic Adam: Episode 1 | 79801 | [79801-atomic-adam-episode-1.json](./79801-atomic-adam-episode-1.json) |
 | Atomic Arena | 293568 | [293568-atomic-arena.json](./293568-atomic-arena.json) |
+| Atomic Betty | 6312 | [6312-atomic-betty.json](./6312-atomic-betty.json) |
 | Atomic Betty 2 | 202191 | [202191-atomic-betty-2.json](./202191-atomic-betty-2.json) |
 | Atomic Betty: Intergalactic Conspiracy | 205892 | [205892-atomic-betty-intergalactic-conspiracy.json](./205892-atomic-betty-intergalactic-conspiracy.json) |
 | Atomic Blast | 242418 | [242418-atomic-blast.json](./242418-atomic-blast.json) |
