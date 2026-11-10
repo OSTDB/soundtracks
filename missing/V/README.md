@@ -3159,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visual novel for the kids: Lumi And Baby - Hamster And Baby Dragon | 274917 | [274917-visual-novel-for-the-kids-lumi-and-baby-hamster-and-baby-dragon.json](./274917-visual-novel-for-the-kids-lumi-and-baby-hamster-and-baby-dragon.json) |
 | Visual Novel Sisters | 167169 | [167169-visual-novel-sisters.json](./167169-visual-novel-sisters.json) |
 | Visual Novel: Call of Toilet | 397247 | [397247-visual-novel-call-of-toilet.json](./397247-visual-novel-call-of-toilet.json) |
+| Visual Out | 76375 | [76375-visual-out.json](./76375-visual-out.json) |
 | Visual Pinball | 99113 | [99113-visual-pinball.json](./99113-visual-pinball.json) |
 | Visual Pinball VR | 278793 | [278793-visual-pinball-vr.json](./278793-visual-pinball-vr.json) |
 | Visual Pinball X | 278792 | [278792-visual-pinball-x.json](./278792-visual-pinball-x.json) |
@@ -3374,6 +3375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vocanova | 198307 | [198307-vocanova.json](./198307-vocanova.json) |
 | Você é um Defunto Mecânico | 185808 | [185808-voce-e-um-defunto-mecanico.json](./185808-voce-e-um-defunto-mecanico.json) |
 | Voce. | 183238 | [183238-voce.json](./183238-voce.json) |
+| Vodka | 76052 | [76052-vodka.json](./76052-vodka.json) |
 | Vodobanka | 207831 | [207831-vodobanka.json](./207831-vodobanka.json) |
 | Voez | 27397 | [27397-voez.json](./27397-voez.json) |
 | Vogue | 183884 | [183884-vogue.json](./183884-vogue.json) |
@@ -3382,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vohenn | 387538 | [387538-vohenn.json](./387538-vohenn.json) |
 | Voi | 25788 | [25788-voi.json](./25788-voi.json) |
 | Voice | 191246 | [191246-voice.json](./191246-voice.json) |
+| Voice Actress | 76058 | [76058-voice-actress.json](./76058-voice-actress.json) |
 | Voice Actress II | 104801 | [104801-voice-actress-ii.json](./104801-voice-actress-ii.json) |
 | Voice Changer 360 | 80639 | [80639-voice-changer-360.json](./80639-voice-changer-360.json) |
 | Voice Commander, a Microsoft Garage project | 82404 | [82404-voice-commander-a-microsoft-garage-project.json](./82404-voice-commander-a-microsoft-garage-project.json) |
