@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Identity Sector | 119694 | [119694-identity-sector.json](./119694-identity-sector.json) |
 | Identity V: Ashes of Memory Episode I | 399371 | [399371-identity-v-ashes-of-memory-episode-i.json](./399371-identity-v-ashes-of-memory-episode-i.json) |
 | Identity V: Ashes of Memory Episode II | 409134 | [409134-identity-v-ashes-of-memory-episode-ii.json](./409134-identity-v-ashes-of-memory-episode-ii.json) |
+| Identity V: Cage of Yesteryear | 409186 | [409186-identity-v-cage-of-yesteryear.json](./409186-identity-v-cage-of-yesteryear.json) |
 | Identity: Town Square | 111884 | [111884-identity-town-square.json](./111884-identity-town-square.json) |
 | Ideology in Friction | 114317 | [114317-ideology-in-friction.json](./114317-ideology-in-friction.json) |
 | Ideology in Friction: Append | 170990 | [170990-ideology-in-friction-append.json](./170990-ideology-in-friction-append.json) |
@@ -4081,7 +4082,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
