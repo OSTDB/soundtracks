@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncharted: Fight for Fortune - Drake's Deception Expansion | 381860 | [381860-uncharted-fight-for-fortune-drakes-deception-expansion.json](./381860-uncharted-fight-for-fortune-drakes-deception-expansion.json) |
 | Uncharted: Fortune Hunter | 19609 | [19609-uncharted-fortune-hunter.json](./19609-uncharted-fortune-hunter.json) |
 | Uncharted: The Lost Legacy - Remastered | 168669 | [168669-uncharted-the-lost-legacy-remastered.json](./168669-uncharted-the-lost-legacy-remastered.json) |
+| Uncharted: The Nathan Drake Collection - Special Edition | 89929 | [89929-uncharted-the-nathan-drake-collection-special-edition.json](./89929-uncharted-the-nathan-drake-collection-special-edition.json) |
 | Unchosen: Forsaken | 164592 | [164592-unchosen-forsaken.json](./164592-unchosen-forsaken.json) |
 | Unciv | 144487 | [144487-unciv.json](./144487-unciv.json) |
 | Uncivil War TCG: Trading Card Game | 99417 | [99417-uncivil-war-tcg-trading-card-game.json](./99417-uncivil-war-tcg-trading-card-game.json) |
@@ -3540,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | URG | 143202 | [143202-urg.json](./143202-urg.json) |
 | Urge | 133065 | [133065-urge.json](./133065-urge.json) |
 | Urgent Message | 343232 | [343232-urgent-message.json](./343232-urgent-message.json) |
+| Uridium | 26349 | [26349-uridium.json](./26349-uridium.json) |
 | Uridium 2 | 12808 | [12808-uridium-2.json](./12808-uridium-2.json) |
 | Uridium Plus | 140259 | [140259-uridium-plus.json](./140259-uridium-plus.json) |
 | Uridium Plus & Paradroid: Competition Edition | 137262 | [137262-uridium-plus-and-paradroid-competition-edition.json](./137262-uridium-plus-and-paradroid-competition-edition.json) |
