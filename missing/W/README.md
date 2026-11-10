@@ -5228,6 +5228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Surfing | 200674 | [200674-wicked-surfing.json](./200674-wicked-surfing.json) |
 | Wicked Tuna | 248700 | [248700-wicked-tuna.json](./248700-wicked-tuna.json) |
 | Wicked Willow | 137647 | [137647-wicked-willow.json](./137647-wicked-willow.json) |
+| Wicked Witches | 34186 | [34186-wicked-witches.json](./34186-wicked-witches.json) |
 | Wicked World #1 | 197780 | [197780-wicked-world-1.json](./197780-wicked-world-1.json) |
 | Wicked! | 297463 | [297463-wicked.json](./297463-wicked.json) |
 | Wicket Cricket Manager | 243977 | [243977-wicket-cricket-manager.json](./243977-wicket-cricket-manager.json) |
