@@ -2889,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
 | ReactorX | 138917 | [138917-reactorx.json](./138917-reactorx.json) |
 | ReactorX 3 | 331906 | [331906-reactorx-3.json](./331906-reactorx-3.json) |
+| ReactorX 4 | 428427 | [428427-reactorx-4.json](./428427-reactorx-4.json) |
 | Reactoryx | 330375 | [330375-reactoryx.json](./330375-reactoryx.json) |
 | Read Only Memories: Double Pack | 323983 | [323983-read-only-memories-double-pack.json](./323983-read-only-memories-double-pack.json) |
 | Read Only Memories: Neurodiver | 119401 | [119401-read-only-memories-neurodiver.json](./119401-read-only-memories-neurodiver.json) |
@@ -4942,6 +4943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rekesh Gaal | 292232 | [292232-rekesh-gaal.json](./292232-rekesh-gaal.json) |
 | Rekindle | 155922 | [155922-rekindle.json](./155922-rekindle.json) |
 | Rekindle | 318709 | [318709-rekindle.json](./318709-rekindle.json) |
+| Rekindle: Dark Tidy Up | 428437 | [428437-rekindle-dark-tidy-up.json](./428437-rekindle-dark-tidy-up.json) |
 | Rekindled | 404192 | [404192-rekindled.json](./404192-rekindled.json) |
 | Rekindled | 424019 | [424019-rekindled.json](./424019-rekindled.json) |
 | Rekindled Trails | 342079 | [342079-rekindled-trails.json](./342079-rekindled-trails.json) |
