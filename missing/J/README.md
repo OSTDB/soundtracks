@@ -2504,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joey Cross - Jumping on Roads in the Outback | 87222 | [87222-joey-cross-jumping-on-roads-in-the-outback.json](./87222-joey-cross-jumping-on-roads-in-the-outback.json) |
 | Joey The Duck | 370217 | [370217-joey-the-duck.json](./370217-joey-the-duck.json) |
 | Joey Wamoney's: The Metamorphosis | 278464 | [278464-joey-wamoneys-the-metamorphosis.json](./278464-joey-wamoneys-the-metamorphosis.json) |
+| Joey's Nightmare II | 405792 | [405792-joeys-nightmare-ii.json](./405792-joeys-nightmare-ii.json) |
 | Joey's Shisha Simulator | 326412 | [326412-joeys-shisha-simulator.json](./326412-joeys-shisha-simulator.json) |
 | Jogger | 14137 | [14137-jogger.json](./14137-jogger.json) |
 | JoggerKnight | 183774 | [183774-joggerknight.json](./183774-joggerknight.json) |
