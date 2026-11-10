@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caladria Chronicles | 114913 | [114913-caladria-chronicles.json](./114913-caladria-chronicles.json) |
 | Caladria Chronicles Volume 2 | 230972 | [230972-caladria-chronicles-volume-2.json](./230972-caladria-chronicles-volume-2.json) |
 | Caladrius | 47482 | [47482-caladrius.json](./47482-caladrius.json) |
+| Caladrius 2: Dark Element | 412682 | [412682-caladrius-2-dark-element.json](./412682-caladrius-2-dark-element.json) |
 | Caladrius Blaze | 26703 | [26703-caladrius-blaze.json](./26703-caladrius-blaze.json) |
 | Calamai Kid | 95688 | [95688-calamai-kid.json](./95688-calamai-kid.json) |
 | Calamari Capsize | 266346 | [266346-calamari-capsize.json](./266346-calamari-capsize.json) |
@@ -4827,6 +4828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catherine: Japanese Edition | 74899 | [74899-catherine-japanese-edition.json](./74899-catherine-japanese-edition.json) |
 | Catherine: Love is Over Edition | 74897 | [74897-catherine-love-is-over-edition.json](./74897-catherine-love-is-over-edition.json) |
 | Catherine: Stray Sheep Deluxe Edition | 74898 | [74898-catherine-stray-sheep-deluxe-edition.json](./74898-catherine-stray-sheep-deluxe-edition.json) |
+| Catherine? | 412690 | [412690-catherine.json](./412690-catherine.json) |
 | Catherna's Destiny | 323415 | [323415-cathernas-destiny.json](./323415-cathernas-destiny.json) |
 | Cathexis | 292462 | [292462-cathexis.json](./292462-cathexis.json) |
 | Cathode Quest 64 | 393412 | [393412-cathode-quest-64.json](./393412-cathode-quest-64.json) |
@@ -13262,6 +13264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colum and His Friends | 118346 | [118346-colum-and-his-friends.json](./118346-colum-and-his-friends.json) |
 | Columbine | 392878 | [392878-columbine.json](./392878-columbine.json) |
 | Columbo's Mystery Capers | 343251 | [343251-columbos-mystery-capers.json](./343251-columbos-mystery-capers.json) |
+| Columbus | 412696 | [412696-columbus.json](./412696-columbus.json) |
 | Columbus Discovery | 78317 | [78317-columbus-discovery.json](./78317-columbus-discovery.json) |
 | Columbus: Ougon no Yoake | 48534 | [48534-columbus-ougon-no-yoake.json](./48534-columbus-ougon-no-yoake.json) |
 | Column Attack | 419464 | [419464-column-attack.json](./419464-column-attack.json) |
