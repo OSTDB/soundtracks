@@ -8312,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man X6 | 1746 | [1746-mega-man-x6.json](./1746-mega-man-x6.json) |
 | Mega Man X6 Tweaks | 187363 | [187363-mega-man-x6-tweaks.json](./187363-mega-man-x6-tweaks.json) |
 | Mega Man X6: Recompiled | 409014 | [409014-mega-man-x6-recompiled.json](./409014-mega-man-x6-recompiled.json) |
+| Mega Man X6: Survivor | 403266 | [403266-mega-man-x6-survivor.json](./403266-mega-man-x6-survivor.json) |
 | Mega Man X7 | 1747 | [1747-mega-man-x7.json](./1747-mega-man-x7.json) |
 | Mega Man X8 | 1748 | [1748-mega-man-x8.json](./1748-mega-man-x8.json) |
 | Mega Man X8 Demake: Axl Mod | 329292 | [329292-mega-man-x8-demake-axl-mod.json](./329292-mega-man-x8-demake-axl-mod.json) |
@@ -15112,6 +15113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 26 | 387374 | [387374-mlb-the-show-26.json](./387374-mlb-the-show-26.json) |
 | MLB The Show 26: Digital Deluxe Edition | 390533 | [390533-mlb-the-show-26-digital-deluxe-edition.json](./390533-mlb-the-show-26-digital-deluxe-edition.json) |
 | MLB The Show 26: Digital Deluxe Edition Bonus Content | 390925 | [390925-mlb-the-show-26-digital-deluxe-edition-bonus-content.json](./390925-mlb-the-show-26-digital-deluxe-edition-bonus-content.json) |
+| MLB The Show Mobile | 403253 | [403253-mlb-the-show-mobile.json](./403253-mlb-the-show-mobile.json) |
 | MLB.com Franchise MVP | 61355 | [61355-mlb-com-franchise-mvp.json](./61355-mlb-com-franchise-mvp.json) |
 | MLB.com Home Run Derby 14 | 61357 | [61357-mlb-com-home-run-derby-14.json](./61357-mlb-com-home-run-derby-14.json) |
 | MLBPA Baseball | 46345 | [46345-mlbpa-baseball.json](./46345-mlbpa-baseball.json) |
@@ -22268,6 +22270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Riding Stables | 17045 | [17045-my-riding-stables.json](./17045-my-riding-stables.json) |
 | My Riding Stables 2: A New Adventure | 140008 | [140008-my-riding-stables-2-a-new-adventure.json](./140008-my-riding-stables-2-a-new-adventure.json) |
 | My Riding Stables 3D - Jumping for the Team | 84718 | [84718-my-riding-stables-3d-jumping-for-the-team.json](./84718-my-riding-stables-3d-jumping-for-the-team.json) |
+| My Riding Stables: Life with Horses | 403280 | [403280-my-riding-stables-life-with-horses.json](./403280-my-riding-stables-life-with-horses.json) |
 | My Riding Stables: Life with Horses 2 | 109770 | [109770-my-riding-stables-life-with-horses-2.json](./109770-my-riding-stables-life-with-horses-2.json) |
 | My Robot Girlfriend | 221367 | [221367-my-robot-girlfriend.json](./221367-my-robot-girlfriend.json) |
 | My Rose | 384317 | [384317-my-rose.json](./384317-my-rose.json) |
@@ -22411,6 +22414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Confession | 133047 | [133047-my-sweet-confession.json](./133047-my-sweet-confession.json) |
 | My Sweet Devil 3: Ring | 97695 | [97695-my-sweet-devil-3-ring.json](./97695-my-sweet-devil-3-ring.json) |
 | My Sweet Devilish Maids | 234387 | [234387-my-sweet-devilish-maids.json](./234387-my-sweet-devilish-maids.json) |
+| My Sweet Fairy | 403260 | [403260-my-sweet-fairy.json](./403260-my-sweet-fairy.json) |
 | My Sweet Herbivore High | 231421 | [231421-my-sweet-herbivore-high.json](./231421-my-sweet-herbivore-high.json) |
 | My Sweet High School Memories | 214915 | [214915-my-sweet-high-school-memories.json](./214915-my-sweet-high-school-memories.json) |
 | My Sweet Home Dungeon | 299199 | [299199-my-sweet-home-dungeon.json](./299199-my-sweet-home-dungeon.json) |
