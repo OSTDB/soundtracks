@@ -3478,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pawn of the Dead | 107909 | [107909-pawn-of-the-dead.json](./107909-pawn-of-the-dead.json) |
 | Pawn Planet | 258783 | [258783-pawn-planet.json](./258783-pawn-planet.json) |
 | Pawn Planet: First Sales | 306351 | [306351-pawn-planet-first-sales.json](./306351-pawn-planet-first-sales.json) |
+| Pawn Shop Days | 425396 | [425396-pawn-shop-days.json](./425396-pawn-shop-days.json) |
 | Pawn Shop Simulator | 208605 | [208605-pawn-shop-simulator.json](./208605-pawn-shop-simulator.json) |
 | Pawn Shop Simulator | 297178 | [297178-pawn-shop-simulator.json](./297178-pawn-shop-simulator.json) |
 | Pawn Shop: Simulator | 347209 | [347209-pawn-shop-simulator.json](./347209-pawn-shop-simulator.json) |
@@ -4785,6 +4786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PermaNight | 220463 | [220463-permanight.json](./220463-permanight.json) |
 | Permia - Duels | 9717 | [9717-permia-duels.json](./9717-permia-duels.json) |
 | Permission VR | 108425 | [108425-permission-vr.json](./108425-permission-vr.json) |
+| Permit Pending | 425397 | [425397-permit-pending.json](./425397-permit-pending.json) |
 | Permuter | 325902 | [325902-permuter.json](./325902-permuter.json) |
 | Pernalonga | 281877 | [281877-pernalonga.json](./281877-pernalonga.json) |
 | Perncops Virtual Rig | 226707 | [226707-perncops-virtual-rig.json](./226707-perncops-virtual-rig.json) |
@@ -10655,6 +10657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plunder | 344278 | [344278-plunder.json](./344278-plunder.json) |
 | Plunder & Pillage | 159212 | [159212-plunder-and-pillage.json](./159212-plunder-and-pillage.json) |
 | Plunder Ball | 275838 | [275838-plunder-ball.json](./275838-plunder-ball.json) |
+| Plunder Bay | 425403 | [425403-plunder-bay.json](./425403-plunder-bay.json) |
 | Plunder Defense | 290198 | [290198-plunder-defense.json](./290198-plunder-defense.json) |
 | Plunder Dungeons | 199710 | [199710-plunder-dungeons.json](./199710-plunder-dungeons.json) |
 | Plunder Islands | 239486 | [239486-plunder-islands.json](./239486-plunder-islands.json) |
