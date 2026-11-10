@@ -4115,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Green Donkey | 278286 | [278286-red-green-donkey.json](./278286-red-green-donkey.json) |
 | Red Grimly Tale | 397131 | [397131-red-grimly-tale.json](./397131-red-grimly-tale.json) |
 | Red Gun | 196609 | [196609-red-gun.json](./196609-red-gun.json) |
+| Red Hallways: Horror | 413953 | [413953-red-hallways-horror.json](./413953-red-hallways-horror.json) |
 | Red Handed | 144544 | [144544-red-handed.json](./144544-red-handed.json) |
 | Red Hands: 2-Player Game | 174002 | [174002-red-hands-2-player-game.json](./174002-red-hands-2-player-game.json) |
 | Red Haven | 218714 | [218714-red-haven.json](./218714-red-haven.json) |
@@ -8871,6 +8872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Jumper | 394482 | [394482-road-jumper.json](./394482-road-jumper.json) |
 | Road Kings | 361840 | [361840-road-kings.json](./361840-road-kings.json) |
 | Road Legends | 90128 | [90128-road-legends.json](./90128-road-legends.json) |
+| Road Line Puzzle: Connect the Paths | 413954 | [413954-road-line-puzzle-connect-the-paths.json](./413954-road-line-puzzle-connect-the-paths.json) |
 | Road Madness | 33140 | [33140-road-madness.json](./33140-road-madness.json) |
 | Road Maintenance Simulator | 193766 | [193766-road-maintenance-simulator.json](./193766-road-maintenance-simulator.json) |
 | Road Maintenance Simulator 2: Winter Services | 315612 | [315612-road-maintenance-simulator-2-winter-services.json](./315612-road-maintenance-simulator-2-winter-services.json) |
@@ -10781,6 +10783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogunky | 333376 | [333376-rogunky.json](./333376-rogunky.json) |
 | Rogus: Kingdom of the Lost Souls | 35330 | [35330-rogus-kingdom-of-the-lost-souls.json](./35330-rogus-kingdom-of-the-lost-souls.json) |
 | Roguze | 311351 | [311351-roguze.json](./311351-roguze.json) |
+| Rogventure | 414016 | [414016-rogventure.json](./414016-rogventure.json) |
 | Rohan II | 371876 | [371876-rohan-ii.json](./371876-rohan-ii.json) |
 | Rohan: Blood Feud | 79227 | [79227-rohan-blood-feud.json](./79227-rohan-blood-feud.json) |
 | Rohga: Armor Force | 40260 | [40260-rohga-armor-force.json](./40260-rohga-armor-force.json) |
@@ -11070,6 +11073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Stairs Master-Falling | 223922 | [223922-rolling-stairs-master-falling.json](./223922-rolling-stairs-master-falling.json) |
 | Rolling Star | 329235 | [329235-rolling-star.json](./329235-rolling-star.json) |
 | Rolling Star: Tomomi Another Story | 396379 | [396379-rolling-star-tomomi-another-story.json](./396379-rolling-star-tomomi-another-story.json) |
+| Rolling Stock | 414001 | [414001-rolling-stock.json](./414001-rolling-stock.json) |
 | Rolling Sun | 26719 | [26719-rolling-sun.json](./26719-rolling-sun.json) |
 | Rolling Thunder | 219018 | [219018-rolling-thunder.json](./219018-rolling-thunder.json) |
 | Rolling Thunder 2 | 18401 | [18401-rolling-thunder-2.json](./18401-rolling-thunder-2.json) |
