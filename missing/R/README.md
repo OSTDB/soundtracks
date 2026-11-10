@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranma ½: Chounai Gekitou-hen | 75857 | [75857-ranma-1-2-chounai-gekitou-hen.json](./75857-ranma-1-2-chounai-gekitou-hen.json) |
 | Ranma ½: Datou, Ganso Musabetsu Kakutou-ryuu! | 75858 | [75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json](./75858-ranma-1-2-datou-ganso-musabetsu-kakutou-ryuu.json) |
 | Ranma ½: Netsuretsu Kakutou-hen | 49129 | [49129-ranma-1-2-netsuretsu-kakutou-hen.json](./49129-ranma-1-2-netsuretsu-kakutou-hen.json) |
+| Ranman | 403979 | [403979-ranman.json](./403979-ranman.json) |
 | Ranocta | 292239 | [292239-ranocta.json](./292239-ranocta.json) |
 | Ranphon | 258623 | [258623-ranphon.json](./258623-ranphon.json) |
 | Ransack Raccoon | 165766 | [165766-ransack-raccoon.json](./165766-ransack-raccoon.json) |
@@ -6128,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rest In Peace | 174006 | [174006-rest-in-peace.json](./174006-rest-in-peace.json) |
 | Rest In Peace | 30057 | [30057-rest-in-peace.json](./30057-rest-in-peace.json) |
 | Rest in Pieces | 115315 | [115315-rest-in-pieces.json](./115315-rest-in-pieces.json) |
+| Rest Stop | 404476 | [404476-rest-stop.json](./404476-rest-stop.json) |
 | Rest to Landia | 292279 | [292279-rest-to-landia.json](./292279-rest-to-landia.json) |
 | Rest: In a Dark Room | 391447 | [391447-rest-in-a-dark-room.json](./391447-rest-in-a-dark-room.json) |
 | Resta um | 230716 | [230716-resta-um.json](./230716-resta-um.json) |
@@ -6700,6 +6702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Returning Nightmares | 202363 | [202363-returning-nightmares.json](./202363-returning-nightmares.json) |
 | Returning the favor of the dog | 169358 | [169358-returning-the-favor-of-the-dog.json](./169358-returning-the-favor-of-the-dog.json) |
 | Returning to Mia | 226726 | [226726-returning-to-mia.json](./226726-returning-to-mia.json) |
+| Returnless | 404495 | [404495-returnless.json](./404495-returnless.json) |
 | Returns Outlet Simulator | 361272 | [361272-returns-outlet-simulator.json](./361272-returns-outlet-simulator.json) |
 | ReturnState | 75607 | [75607-returnstate.json](./75607-returnstate.json) |
 | ReTux | 22181 | [22181-retux.json](./22181-retux.json) |
