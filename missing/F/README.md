@@ -9833,6 +9833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football, Tactics & Glory: Football Stars | 170718 | [170718-football-tactics-and-glory-football-stars.json](./170718-football-tactics-and-glory-football-stars.json) |
 | Football, Tactics & Glory: Manager's Journey | 192149 | [192149-football-tactics-and-glory-managers-journey.json](./192149-football-tactics-and-glory-managers-journey.json) |
 | Football, Tactics & Glory: Treble Deluxe Edition | 378754 | [378754-football-tactics-and-glory-treble-deluxe-edition.json](./378754-football-tactics-and-glory-treble-deluxe-edition.json) |
+| Football, Tactics & Glory: World Championship | 409181 | [409181-football-tactics-and-glory-world-championship.json](./409181-football-tactics-and-glory-world-championship.json) |
 | Football: Breakthrough Gaming Arcade | 145489 | [145489-football-breakthrough-gaming-arcade.json](./145489-football-breakthrough-gaming-arcade.json) |
 | Football: The Beautiful Game | 257008 | [257008-football-the-beautiful-game.json](./257008-football-the-beautiful-game.json) |
 | Football: The Hardest Job | 123574 | [123574-football-the-hardest-job.json](./123574-football-the-hardest-job.json) |
