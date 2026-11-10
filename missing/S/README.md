@@ -11060,6 +11060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Reel | 367979 | [367979-silent-reel.json](./367979-silent-reel.json) |
 | Silent Residence | 362402 | [362402-silent-residence.json](./362402-silent-residence.json) |
 | Silent Rooms: Chapter 1 | 293474 | [293474-silent-rooms-chapter-1.json](./293474-silent-rooms-chapter-1.json) |
+| Silent Roots | 420607 | [420607-silent-roots.json](./420607-silent-roots.json) |
 | Silent Ruins | 183520 | [183520-silent-ruins.json](./183520-silent-ruins.json) |
 | Silent Sadie | 319040 | [319040-silent-sadie.json](./319040-silent-sadie.json) |
 | Silent Santicado | 181442 | [181442-silent-santicado.json](./181442-silent-santicado.json) |
@@ -11410,6 +11411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimHarbor | 171245 | [171245-simharbor.json](./171245-simharbor.json) |
 | Simhaus: Football | 425872 | [425872-simhaus-football.json](./425872-simhaus-football.json) |
 | SimHealth | 93048 | [93048-simhealth.json](./93048-simhealth.json) |
+| Simi Aventuras FS | 420609 | [420609-simi-aventuras-fs.json](./420609-simi-aventuras-fs.json) |
 | Simian | 390344 | [390344-simian.json](./390344-simian.json) |
 | Simian Rising | 102147 | [102147-simian-rising.json](./102147-simian-rising.json) |
 | Simian.Interface | 32702 | [32702-simian-interface.json](./32702-simian-interface.json) |
@@ -13302,6 +13304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky on Fire: 1940 | 182846 | [182846-sky-on-fire-1940.json](./182846-sky-on-fire-1940.json) |
 | Sky Patch | 347890 | [347890-sky-patch.json](./347890-sky-patch.json) |
 | Sky Patrol | 40793 | [40793-sky-patrol.json](./40793-sky-patrol.json) |
+| Sky Paws Awakening | 420611 | [420611-sky-paws-awakening.json](./420611-sky-paws-awakening.json) |
 | Sky Piper | 238388 | [238388-sky-piper.json](./238388-sky-piper.json) |
 | Sky Pirates of Actorius | 129101 | [129101-sky-pirates-of-actorius.json](./129101-sky-pirates-of-actorius.json) |
 | Sky Plankers | 28195 | [28195-sky-plankers.json](./28195-sky-plankers.json) |
@@ -23788,6 +23791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Night: Remastered | 170369 | [170369-spooky-night-remastered.json](./170369-spooky-night-remastered.json) |
 | Spooky Paths | 188793 | [188793-spooky-paths.json](./188793-spooky-paths.json) |
 | Spooky Pixel Hero | 307816 | [307816-spooky-pixel-hero.json](./307816-spooky-pixel-hero.json) |
+| Spooky Ride | 420629 | [420629-spooky-ride.json](./420629-spooky-ride.json) |
 | Spooky Runes | 88708 | [88708-spooky-runes.json](./88708-spooky-runes.json) |
 | Spooky Scary Spaces | 297440 | [297440-spooky-scary-spaces.json](./297440-spooky-scary-spaces.json) |
 | Spooky Season | 361696 | [361696-spooky-season.json](./361696-spooky-season.json) |
