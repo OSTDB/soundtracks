@@ -244,6 +244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vain Riser | 150532 | [150532-vain-riser.json](./150532-vain-riser.json) |
 | Vain Uprising | 331322 | [331322-vain-uprising.json](./331322-vain-uprising.json) |
 | Vainger | 318725 | [318725-vainger.json](./318725-vainger.json) |
+| Vainglory | 13174 | [13174-vainglory.json](./13174-vainglory.json) |
 | Vainglory 5V5 | 88078 | [88078-vainglory-5v5.json](./88078-vainglory-5v5.json) |
 | Vainglory All Stars | 136750 | [136750-vainglory-all-stars.json](./136750-vainglory-all-stars.json) |
 | VainPlanet | 129074 | [129074-vainplanet.json](./129074-vainplanet.json) |
