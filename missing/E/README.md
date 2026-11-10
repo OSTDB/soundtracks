@@ -4093,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endoparasitic VR | 271633 | [271633-endoparasitic-vr.json](./271633-endoparasitic-vr.json) |
 | Endor Awakens | 336979 | [336979-endor-awakens.json](./336979-endor-awakens.json) |
 | Endorfire Tower Defense | 164760 | [164760-endorfire-tower-defense.json](./164760-endorfire-tower-defense.json) |
+| Endorfun | 22600 | [22600-endorfun.json](./22600-endorfun.json) |
 | Endorlight: Deluxe Edition | 52948 | [52948-endorlight-deluxe-edition.json](./52948-endorlight-deluxe-edition.json) |
 | Endou-san | 398090 | [398090-endou-san.json](./398090-endou-san.json) |
 | Endowed | 279990 | [279990-endowed.json](./279990-endowed.json) |
@@ -8860,6 +8861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy: AntiGrav | 19253 | [19253-eyetoy-antigrav.json](./19253-eyetoy-antigrav.json) |
 | EyeToy: Chat | 262194 | [262194-eyetoy-chat.json](./262194-eyetoy-chat.json) |
 | EyeToy: Groove | 22250 | [22250-eyetoy-groove.json](./22250-eyetoy-groove.json) |
+| EyeToy: Kinetic | 22550 | [22550-eyetoy-kinetic.json](./22550-eyetoy-kinetic.json) |
 | EyeToy: Kinetic Combat | 23119 | [23119-eyetoy-kinetic-combat.json](./23119-eyetoy-kinetic-combat.json) |
 | EyeToy: Monkey Mania | 44677 | [44677-eyetoy-monkey-mania.json](./44677-eyetoy-monkey-mania.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
