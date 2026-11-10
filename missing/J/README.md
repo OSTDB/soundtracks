@@ -351,6 +351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jagainu-kun | 281588 | [281588-jagainu-kun.json](./281588-jagainu-kun.json) |
 | Jagan: Evil Eye | 97991 | [97991-jagan-evil-eye.json](./97991-jagan-evil-eye.json) |
 | Jagd Lanzer | 125109 | [125109-jagd-lanzer.json](./125109-jagd-lanzer.json) |
+| Jagdstaffel | 416893 | [416893-jagdstaffel.json](./416893-jagdstaffel.json) |
 | Jägermörder 1: Chemical Lab | 310622 | [310622-jagermorder-1-chemical-lab.json](./310622-jagermorder-1-chemical-lab.json) |
 | Jägermörder 2: Terra Nova | 262426 | [262426-jagermorder-2-terra-nova.json](./262426-jagermorder-2-terra-nova.json) |
 | Jagged Alliance | 7 | [7-jagged-alliance.json](./7-jagged-alliance.json) |
@@ -1549,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Match Solitaire Winterscapes 3: Collector's Edition | 362851 | [362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json](./362851-jewel-match-solitaire-winterscapes-3-collectors-edition.json) |
 | Jewel Match Solitaire X | 397877 | [397877-jewel-match-solitaire-x.json](./397877-jewel-match-solitaire-x.json) |
 | Jewel Match Solitaire X: Collector's Edition | 201697 | [201697-jewel-match-solitaire-x-collectors-edition.json](./201697-jewel-match-solitaire-x-collectors-edition.json) |
+| Jewel Match Solitaire: Cats and Cards - Collector's Edition | 416482 | [416482-jewel-match-solitaire-cats-and-cards-collectors-edition.json](./416482-jewel-match-solitaire-cats-and-cards-collectors-edition.json) |
 | Jewel Match Solitaire: Collector's Edition | 170213 | [170213-jewel-match-solitaire-collectors-edition.json](./170213-jewel-match-solitaire-collectors-edition.json) |
 | Jewel Match Solitaire: Summertime | 165683 | [165683-jewel-match-solitaire-summertime.json](./165683-jewel-match-solitaire-summertime.json) |
 | Jewel Match Twilight | 223346 | [223346-jewel-match-twilight.json](./223346-jewel-match-twilight.json) |
@@ -1856,6 +1858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Novel: Sexy Job Interview | 286470 | [286470-jigsaw-novel-sexy-job-interview.json](./286470-jigsaw-novel-sexy-job-interview.json) |
 | Jigsaw Novel: Summer Threesome | 286492 | [286492-jigsaw-novel-summer-threesome.json](./286492-jigsaw-novel-summer-threesome.json) |
 | Jigsaw Novel: The Job Promotion | 286491 | [286491-jigsaw-novel-the-job-promotion.json](./286491-jigsaw-novel-the-job-promotion.json) |
+| Jigsaw Odyssey 8 | 416467 | [416467-jigsaw-odyssey-8.json](./416467-jigsaw-odyssey-8.json) |
 | Jigsaw Pets | 283274 | [283274-jigsaw-pets.json](./283274-jigsaw-pets.json) |
 | Jigsaw Pieces 2: Shades of Mood | 144535 | [144535-jigsaw-pieces-2-shades-of-mood.json](./144535-jigsaw-pieces-2-shades-of-mood.json) |
 | Jigsaw Pieces 3: Fantasy | 163009 | [163009-jigsaw-pieces-3-fantasy.json](./163009-jigsaw-pieces-3-fantasy.json) |
