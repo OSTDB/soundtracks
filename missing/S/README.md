@@ -959,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Peak | 389068 | [389068-sakura-peak.json](./389068-sakura-peak.json) |
 | Sakura Priestess and Shikigami Mountain | 306060 | [306060-sakura-priestess-and-shikigami-mountain.json](./306060-sakura-priestess-and-shikigami-mountain.json) |
 | Sakura Revolution: Blooming Maidens | 226767 | [226767-sakura-revolution-blooming-maidens.json](./226767-sakura-revolution-blooming-maidens.json) |
+| Sakura Sadist | 100338 | [100338-sakura-sadist.json](./100338-sakura-sadist.json) |
 | Sakura Sakura | 69038 | [69038-sakura-sakura.json](./69038-sakura-sakura.json) |
 | Sakura Sakura | 69053 | [69053-sakura-sakura.json](./69053-sakura-sakura.json) |
 | Sakura Sakura: Haru Urara | 269524 | [269524-sakura-sakura-haru-urara.json](./269524-sakura-sakura-haru-urara.json) |
@@ -8060,6 +8061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaylushay Treasure Expedition | 275715 | [275715-shaylushay-treasure-expedition.json](./275715-shaylushay-treasure-expedition.json) |
 | Shaype | 139158 | [139158-shaype.json](./139158-shaype.json) |
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
+| She and the Light Bearer | 98736 | [98736-she-and-the-light-bearer.json](./98736-she-and-the-light-bearer.json) |
 | She Awaits | 212564 | [212564-she-awaits.json](./212564-she-awaits.json) |
 | She Could Fly: Documentary Escape Game | 304853 | [304853-she-could-fly-documentary-escape-game.json](./304853-she-could-fly-documentary-escape-game.json) |
 | She Couldn't Do Anything | 401048 | [401048-she-couldnt-do-anything.json](./401048-she-couldnt-do-anything.json) |
@@ -10785,6 +10787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signal Maze | 231821 | [231821-signal-maze.json](./231821-signal-maze.json) |
 | Signal Ops | 16734 | [16734-signal-ops.json](./16734-signal-ops.json) |
 | Signal Pit | 402651 | [402651-signal-pit.json](./402651-signal-pit.json) |
+| Signal Simulator | 99625 | [99625-signal-simulator.json](./99625-signal-simulator.json) |
 | Signal Zero | 405137 | [405137-signal-zero.json](./405137-signal-zero.json) |
 | Signal Zero | 405139 | [405139-signal-zero.json](./405139-signal-zero.json) |
 | Signal Zero: Dispatch | 405136 | [405136-signal-zero-dispatch.json](./405136-signal-zero-dispatch.json) |
@@ -35365,6 +35368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstar | 106256 | [106256-superstar.json](./106256-superstar.json) |
 | Superstar Archery | 358829 | [358829-superstar-archery.json](./358829-superstar-archery.json) |
 | SuperStar Ateez | 175622 | [175622-superstar-ateez.json](./175622-superstar-ateez.json) |
+| SuperStar BTS | 96064 | [96064-superstar-bts.json](./96064-superstar-bts.json) |
 | Superstar Chefs | 57666 | [57666-superstar-chefs.json](./57666-superstar-chefs.json) |
 | Superstar Dance Club | 35028 | [35028-superstar-dance-club.json](./35028-superstar-dance-club.json) |
 | Superstar DJ | 232353 | [232353-superstar-dj.json](./232353-superstar-dj.json) |
@@ -35832,6 +35836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival.io | 424589 | [424589-survival-io.json](./424589-survival-io.json) |
 | Survival.io - Battle Royale | 101560 | [101560-survival-io-battle-royale.json](./101560-survival-io-battle-royale.json) |
 | Survivalcraft | 87025 | [87025-survivalcraft.json](./87025-survivalcraft.json) |
+| Survivalcraft 2 | 87028 | [87028-survivalcraft-2.json](./87028-survivalcraft-2.json) |
 | SurvivalIsLand | 195902 | [195902-survivalisland.json](./195902-survivalisland.json) |
 | Survivalist | 35994 | [35994-survivalist.json](./35994-survivalist.json) |
 | Survivalist: Invisible Strain | 117233 | [117233-survivalist-invisible-strain.json](./117233-survivalist-invisible-strain.json) |
