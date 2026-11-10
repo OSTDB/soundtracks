@@ -3007,7 +3007,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
 | TC's SC Double Agent | 83867 | [83867-tcs-sc-double-agent.json](./83867-tcs-sc-double-agent.json) |
 | Tcaf: Kate Beaton Dress Up!! | 184001 | [184001-tcaf-kate-beaton-dress-up.json](./184001-tcaf-kate-beaton-dress-up.json) |
+| TCBY: Flying Toppings | 415657 | [415657-tcby-flying-toppings.json](./415657-tcby-flying-toppings.json) |
 | Tcg & Duel | 346375 | [346375-tcg-and-duel.json](./346375-tcg-and-duel.json) |
+| TCG Card Chaos | 415660 | [415660-tcg-card-chaos.json](./415660-tcg-card-chaos.json) |
 | TCG Card Collection: Tidy Up | 424614 | [424614-tcg-card-collection-tidy-up.json](./424614-tcg-card-collection-tidy-up.json) |
 | TCG Card Market Simulator | 323641 | [323641-tcg-card-market-simulator.json](./323641-tcg-card-market-simulator.json) |
 | TCG Card Shop Empire | 323680 | [323680-tcg-card-shop-empire.json](./323680-tcg-card-shop-empire.json) |
@@ -20817,6 +20819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Life Simulator | 356538 | [356538-thief-life-simulator.json](./356538-thief-life-simulator.json) |
 | Thief Monsters | 302155 | [302155-thief-monsters.json](./302155-thief-monsters.json) |
 | Thief of Hearts | 179697 | [179697-thief-of-hearts.json](./179697-thief-of-hearts.json) |
+| Thief of Seas | 415629 | [415629-thief-of-seas.json](./415629-thief-of-seas.json) |
 | Thief of Smiles | 239745 | [239745-thief-of-smiles.json](./239745-thief-of-smiles.json) |
 | Thief of Thieves: Season One | 95116 | [95116-thief-of-thieves-season-one.json](./95116-thief-of-thieves-season-one.json) |
 | Thief Puzzle | 313137 | [313137-thief-puzzle.json](./313137-thief-puzzle.json) |
@@ -21677,6 +21680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Edge | 369465 | [369465-thunder-edge.json](./369465-thunder-edge.json) |
 | Thunder Five | 98050 | [98050-thunder-five.json](./98050-thunder-five.json) |
 | Thunder Fleets | 89312 | [89312-thunder-fleets.json](./89312-thunder-fleets.json) |
+| Thunder Force | 415621 | [415621-thunder-force.json](./415621-thunder-force.json) |
 | Thunder Force | 55055 | [55055-thunder-force.json](./55055-thunder-force.json) |
 | Thunder Force | 74905 | [74905-thunder-force.json](./74905-thunder-force.json) |
 | Thunder Force AC | 287460 | [287460-thunder-force-ac.json](./287460-thunder-force-ac.json) |
