@@ -1368,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Taste for Blood | 273726 | [273726-a-taste-for-blood.json](./273726-a-taste-for-blood.json) |
 | A Taste for Murder | 90881 | [90881-a-taste-for-murder.json](./90881-a-taste-for-murder.json) |
 | A Taste of Home | 380772 | [380772-a-taste-of-home.json](./380772-a-taste-of-home.json) |
+| A Taste of the Past | 183426 | [183426-a-taste-of-the-past.json](./183426-a-taste-of-the-past.json) |
 | A Tasting Flight of Names | 315625 | [315625-a-tasting-flight-of-names.json](./315625-a-tasting-flight-of-names.json) |
 | A Tavern at Night | 299183 | [299183-a-tavern-at-night.json](./299183-a-tavern-at-night.json) |
 | A Tavern at Night: Firelight | 299184 | [299184-a-tavern-at-night-firelight.json](./299184-a-tavern-at-night-firelight.json) |
@@ -4334,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Field | 129465 | [129465-aether-field.json](./129465-aether-field.json) |
 | Aether Fighter | 277694 | [277694-aether-fighter.json](./277694-aether-fighter.json) |
 | Aether Fly | 301681 | [301681-aether-fly.json](./301681-aether-fly.json) |
+| Aether Gazer | 174971 | [174971-aether-gazer.json](./174971-aether-gazer.json) |
 | Aether Hexxen: Death-Space Requiem Act1 | 379571 | [379571-aether-hexxen-death-space-requiem-act1.json](./379571-aether-hexxen-death-space-requiem-act1.json) |
 | Aether League | 382222 | [382222-aether-league.json](./382222-aether-league.json) |
 | Aether Rush | 379568 | [379568-aether-rush.json](./379568-aether-rush.json) |
@@ -8459,6 +8461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always the Same Blue Sky... | 35477 | [35477-always-the-same-blue-sky.json](./35477-always-the-same-blue-sky.json) |
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
 | Always with You | 349030 | [349030-always-with-you.json](./349030-always-with-you.json) |
+| Alyosha Popovich i Tugarin Zmej | 187812 | [187812-alyosha-popovich-i-tugarin-zmej.json](./187812-alyosha-popovich-i-tugarin-zmej.json) |
 | Alys vs. the Phantom Feline Foe | 314370 | [314370-alys-vs-the-phantom-feline-foe.json](./314370-alys-vs-the-phantom-feline-foe.json) |
 | Alyssa | 271659 | [271659-alyssa.json](./271659-alyssa.json) |
 | Alyssa's Quest | 310536 | [310536-alyssas-quest.json](./310536-alyssas-quest.json) |
@@ -11820,6 +11823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anvil Life | 212235 | [212235-anvil-life.json](./212235-anvil-life.json) |
 | Anvil of Dawn | 2427 | [2427-anvil-of-dawn.json](./2427-anvil-of-dawn.json) |
 | Anvil of Tristheim | 263977 | [263977-anvil-of-tristheim.json](./263977-anvil-of-tristheim.json) |
+| Anvil Saga | 152766 | [152766-anvil-saga.json](./152766-anvil-saga.json) |
 | Anvil Survivors | 396403 | [396403-anvil-survivors.json](./396403-anvil-survivors.json) |
 | Anvilium | 365976 | [365976-anvilium.json](./365976-anvilium.json) |
 | Anvillage | 207793 | [207793-anvillage.json](./207793-anvillage.json) |
@@ -15934,6 +15938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asphyxiation | 368153 | [368153-asphyxiation.json](./368153-asphyxiation.json) |
 | Aspic: Majaou no Noroi | 41327 | [41327-aspic-majaou-no-noroi.json](./41327-aspic-majaou-no-noroi.json) |
 | Aspiel: Edge of Chaos | 334502 | [334502-aspiel-edge-of-chaos.json](./334502-aspiel-edge-of-chaos.json) |
+| Aspire: Ina's Tale | 172672 | [172672-aspire-inas-tale.json](./172672-aspire-inas-tale.json) |
 | Aspiring Light | 161583 | [161583-aspiring-light.json](./161583-aspiring-light.json) |
 | Aspis | 346933 | [346933-aspis.json](./346933-aspis.json) |
 | ASRECorp | 32176 | [32176-asrecorp.json](./32176-asrecorp.json) |
@@ -16000,6 +16005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed III: The Battle Hardened Pack | 151548 | [151548-assassins-creed-iii-the-battle-hardened-pack.json](./151548-assassins-creed-iii-the-battle-hardened-pack.json) |
 | Assassin's Creed III: The Tyranny of King Washington | 8218 | [8218-assassins-creed-iii-the-tyranny-of-king-washington.json](./8218-assassins-creed-iii-the-tyranny-of-king-washington.json) |
 | Assassin's Creed III: Tyranny of King Washington - The Betrayal | 302628 | [302628-assassins-creed-iii-tyranny-of-king-washington-the-betrayal.json](./302628-assassins-creed-iii-tyranny-of-king-washington-the-betrayal.json) |
+| Assassin's Creed III: Tyranny of King Washington - The Infamy | 158763 | [158763-assassins-creed-iii-tyranny-of-king-washington-the-infamy.json](./158763-assassins-creed-iii-tyranny-of-king-washington-the-infamy.json) |
 | Assassin's Creed III: Tyranny of King Washington - The Redemption | 302629 | [302629-assassins-creed-iii-tyranny-of-king-washington-the-redemption.json](./302629-assassins-creed-iii-tyranny-of-king-washington-the-redemption.json) |
 | Assassin's Creed III: Ultimate Edition | 99952 | [99952-assassins-creed-iii-ultimate-edition.json](./99952-assassins-creed-iii-ultimate-edition.json) |
 | Assassin's Creed III: Washington Edition | 42983 | [42983-assassins-creed-iii-washington-edition.json](./42983-assassins-creed-iii-washington-edition.json) |
@@ -17484,7 +17490,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
