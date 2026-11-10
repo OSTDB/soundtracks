@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR 2000 | 3548 | [3548-nascar-2000.json](./3548-nascar-2000.json) |
 | NASCAR 2000 | 70272 | [70272-nascar-2000.json](./70272-nascar-2000.json) |
 | NASCAR 2001 | 45099 | [45099-nascar-2001.json](./45099-nascar-2001.json) |
+| NASCAR 2005: Chase for the Cup | 4027 | [4027-nascar-2005-chase-for-the-cup.json](./4027-nascar-2005-chase-for-the-cup.json) |
 | NASCAR 2011: The Game | 5051 | [5051-nascar-2011-the-game.json](./5051-nascar-2011-the-game.json) |
 | NASCAR 21: Ignition | 170048 | [170048-nascar-21-ignition.json](./170048-nascar-21-ignition.json) |
 | NASCAR 21: Ignition - 2022 Patriotic Pack | 263280 | [263280-nascar-21-ignition-2022-patriotic-pack.json](./263280-nascar-21-ignition-2022-patriotic-pack.json) |
@@ -2734,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neopets Browser | 131370 | [131370-neopets-browser.json](./131370-neopets-browser.json) |
 | Neopets Mobile | 401100 | [401100-neopets-mobile.json](./401100-neopets-mobile.json) |
 | Neopets Petpet Adventures: The Wand of Wishing | 78340 | [78340-neopets-petpet-adventures-the-wand-of-wishing.json](./78340-neopets-petpet-adventures-the-wand-of-wishing.json) |
+| Neopets Puzzle Adventure | 5067 | [5067-neopets-puzzle-adventure.json](./5067-neopets-puzzle-adventure.json) |
 | Neopets: Codestone Quest | 210104 | [210104-neopets-codestone-quest.json](./210104-neopets-codestone-quest.json) |
 | Neopets: Faerie Fragments | 199906 | [199906-neopets-faerie-fragments.json](./199906-neopets-faerie-fragments.json) |
 | Neopets: Island Builders | 254592 | [254592-neopets-island-builders.json](./254592-neopets-island-builders.json) |
@@ -3456,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Spirits | 151964 | [151964-new-spirits.json](./151964-new-spirits.json) |
 | New Spring: Survival | 235907 | [235907-new-spring-survival.json](./235907-new-spring-survival.json) |
 | New Star Cricket | 234614 | [234614-new-star-cricket.json](./234614-new-star-cricket.json) |
+| New Star GP | 258418 | [258418-new-star-gp.json](./258418-new-star-gp.json) |
 | New Star Grand Prix | 67064 | [67064-new-star-grand-prix.json](./67064-new-star-grand-prix.json) |
 | New Star Soccer | 7674 | [7674-new-star-soccer.json](./7674-new-star-soccer.json) |
 | New Star Soccer | 7682 | [7682-new-star-soccer.json](./7682-new-star-soccer.json) |
