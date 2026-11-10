@@ -2720,7 +2720,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Task Men | 160095 | [160095-task-men.json](./160095-task-men.json) |
 | Task Overflow | 341255 | [341255-task-overflow.json](./341255-task-overflow.json) |
 | Task: 312 | 144861 | [144861-task-312.json](./144861-task-312.json) |
+| Taskbar Chickens | 422408 | [422408-taskbar-chickens.json](./422408-taskbar-chickens.json) |
 | Taskbar Looters | 370626 | [370626-taskbar-looters.json](./370626-taskbar-looters.json) |
+| TaskFall | 422396 | [422396-taskfall.json](./422396-taskfall.json) |
 | TaskForce Gamma-13 : An SCP Tale | 127609 | [127609-taskforce-gamma-13-an-scp-tale.json](./127609-taskforce-gamma-13-an-scp-tale.json) |
 | Taskforce: The Mutants of October Morgane | 153493 | [153493-taskforce-the-mutants-of-october-morgane.json](./153493-taskforce-the-mutants-of-october-morgane.json) |
 | Tasking | 261973 | [261973-tasking.json](./261973-tasking.json) |
@@ -12494,6 +12496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Captain | 352474 | [352474-the-last-captain.json](./352474-the-last-captain.json) |
 | The Last Caretaker | 333443 | [333443-the-last-caretaker.json](./333443-the-last-caretaker.json) |
 | The Last Cargo | 29461 | [29461-the-last-cargo.json](./29461-the-last-cargo.json) |
+| The Last Case | 422389 | [422389-the-last-case.json](./422389-the-last-case.json) |
 | The Last Case of Benedict Fox: Definitive Edition | 292897 | [292897-the-last-case-of-benedict-fox-definitive-edition.json](./292897-the-last-case-of-benedict-fox-definitive-edition.json) |
 | The Last Case of John Morley | 366598 | [366598-the-last-case-of-john-morley.json](./366598-the-last-case-of-john-morley.json) |
 | The Last Castle | 244418 | [244418-the-last-castle.json](./244418-the-last-castle.json) |
@@ -12857,6 +12860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Starfighter | 282069 | [282069-the-last-starfighter.json](./282069-the-last-starfighter.json) |
 | The Last Starfighter | 71759 | [71759-the-last-starfighter.json](./71759-the-last-starfighter.json) |
 | The Last Starship | 204184 | [204184-the-last-starship.json](./204184-the-last-starship.json) |
+| The Last Station: Baku | 422426 | [422426-the-last-station-baku.json](./422426-the-last-station-baku.json) |
 | The Last Stop | 290001 | [290001-the-last-stop.json](./290001-the-last-stop.json) |
 | The Last Story | 4966 | [4966-the-last-story.json](./4966-the-last-story.json) |
 | The Last Strand | 318621 | [318621-the-last-strand.json](./318621-the-last-strand.json) |
@@ -20440,6 +20444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theme Park Jam | 319302 | [319302-theme-park-jam.json](./319302-theme-park-jam.json) |
 | Theme Park Mystery | 71861 | [71861-theme-park-mystery.json](./71861-theme-park-mystery.json) |
 | Theme Park Roller Coaster | 43273 | [43273-theme-park-roller-coaster.json](./43273-theme-park-roller-coaster.json) |
+| Theme Park Simulator | 422399 | [422399-theme-park-simulator.json](./422399-theme-park-simulator.json) |
 | Theme Park Simulator: Collector's Edition | 140165 | [140165-theme-park-simulator-collectors-edition.json](./140165-theme-park-simulator-collectors-edition.json) |
 | Theme Park Simulator: Rollercoaster Paradise | 138910 | [138910-theme-park-simulator-rollercoaster-paradise.json](./138910-theme-park-simulator-rollercoaster-paradise.json) |
 | Theme Park Worker | 114964 | [114964-theme-park-worker.json](./114964-theme-park-worker.json) |
@@ -26346,6 +26351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomes and Quests: Nemesis Campaign | 241665 | [241665-tomes-and-quests-nemesis-campaign.json](./241665-tomes-and-quests-nemesis-campaign.json) |
 | TomHanksFrThMmrs | 305862 | [305862-tomhanksfrthmmrs.json](./305862-tomhanksfrthmmrs.json) |
 | Tomica de Asobou! | 327612 | [327612-tomica-de-asobou.json](./327612-tomica-de-asobou.json) |
+| Tomider | 422401 | [422401-tomider.json](./422401-tomider.json) |
 | Tomika Town o Tsukurou! | 376536 | [376536-tomika-town-o-tsukurou.json](./376536-tomika-town-o-tsukurou.json) |
 | Tommy and the Monster Prison | 359919 | [359919-tommy-and-the-monster-prison.json](./359919-tommy-and-the-monster-prison.json) |
 | Tommy Gun Carnage | 212674 | [212674-tommy-gun-carnage.json](./212674-tommy-gun-carnage.json) |
@@ -28227,6 +28233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Numbers | 224667 | [224667-tower-numbers.json](./224667-tower-numbers.json) |
 | Tower O-ven | 338261 | [338261-tower-o-ven.json](./338261-tower-o-ven.json) |
 | Tower of Alos | 262095 | [262095-tower-of-alos.json](./262095-tower-of-alos.json) |
+| Tower of Annihilation: Welcome to Hell | 422420 | [422420-tower-of-annihilation-welcome-to-hell.json](./422420-tower-of-annihilation-welcome-to-hell.json) |
 | Tower of Arcana | 127840 | [127840-tower-of-arcana.json](./127840-tower-of-arcana.json) |
 | Tower of Archeos | 32374 | [32374-tower-of-archeos.json](./32374-tower-of-archeos.json) |
 | Tower of Ardia | 169453 | [169453-tower-of-ardia.json](./169453-tower-of-ardia.json) |
