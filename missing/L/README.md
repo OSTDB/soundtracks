@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land Crashers | 114711 | [114711-land-crashers.json](./114711-land-crashers.json) |
 | Land der Hoffnung | 70747 | [70747-land-der-hoffnung.json](./70747-land-der-hoffnung.json) |
 | Land Develop | 387330 | [387330-land-develop.json](./387330-land-develop.json) |
+| Land Doctrine | 29330 | [29330-land-doctrine.json](./29330-land-doctrine.json) |
 | Land Drifters | 238746 | [238746-land-drifters.json](./238746-land-drifters.json) |
 | Land Fight | 91964 | [91964-land-fight.json](./91964-land-fight.json) |
 | Land It | 387514 | [387514-land-it.json](./387514-land-it.json) |
@@ -8528,6 +8529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in MaLul | 219146 | [219146-lost-in-malul.json](./219146-lost-in-malul.json) |
 | Lost In Memories | 303634 | [303634-lost-in-memories.json](./303634-lost-in-memories.json) |
 | Lost in Memory | 228087 | [228087-lost-in-memory.json](./228087-lost-in-memory.json) |
+| Lost in Nature | 29343 | [29343-lost-in-nature.json](./29343-lost-in-nature.json) |
 | Lost In Night | 90202 | [90202-lost-in-night.json](./90202-lost-in-night.json) |
 | Lost in Nowhere | 275556 | [275556-lost-in-nowhere.json](./275556-lost-in-nowhere.json) |
 | Lost in Pandation | 177215 | [177215-lost-in-pandation.json](./177215-lost-in-pandation.json) |
