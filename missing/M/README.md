@@ -2553,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majo Koi Nikki Dragon x Caravan | 144670 | [144670-majo-koi-nikki-dragon-x-caravan.json](./144670-majo-koi-nikki-dragon-x-caravan.json) |
 | Majo Kuruibana: Daria + Lito-hen | 398013 | [398013-majo-kuruibana-daria-lito-hen.json](./398013-majo-kuruibana-daria-lito-hen.json) |
 | Majo Mail | 237134 | [237134-majo-mail.json](./237134-majo-mail.json) |
+| Majo Moheka no Yakata | 416265 | [416265-majo-moheka-no-yakata.json](./416265-majo-moheka-no-yakata.json) |
 | Majo no Furo Life | 265640 | [265640-majo-no-furo-life.json](./265640-majo-no-furo-life.json) |
 | Majo no Yakata | 231592 | [231592-majo-no-yakata.json](./231592-majo-no-yakata.json) |
 | Majo'ou | 218950 | [218950-majoou.json](./218950-majoou.json) |
@@ -5225,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maska | 270592 | [270592-maska.json](./270592-maska.json) |
 | Maska's Masks | 126941 | [126941-maskas-masks.json](./126941-maskas-masks.json) |
 | Maskarable | 315108 | [315108-maskarable.json](./315108-maskarable.json) |
+| Maskborne | 416228 | [416228-maskborne.json](./416228-maskborne.json) |
 | Masked | 120940 | [120940-masked.json](./120940-masked.json) |
 | Masked and Mysterious | 75196 | [75196-masked-and-mysterious.json](./75196-masked-and-mysterious.json) |
 | Masked Chain Dance | 221580 | [221580-masked-chain-dance.json](./221580-masked-chain-dance.json) |
@@ -15873,6 +15875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momolu and Friends | 166678 | [166678-momolu-and-friends.json](./166678-momolu-and-friends.json) |
 | Momon: Relic Seekers | 273455 | [273455-momon-relic-seekers.json](./273455-momon-relic-seekers.json) |
 | Momonga Pinball Adventures | 22182 | [22182-momonga-pinball-adventures.json](./22182-momonga-pinball-adventures.json) |
+| Momotaro and the Oni Island | 416256 | [416256-momotaro-and-the-oni-island.json](./416256-momotaro-and-the-oni-island.json) |
 | Momotaro Collection | 64418 | [64418-momotaro-collection.json](./64418-momotaro-collection.json) |
 | Momotaro Collection 2 | 64417 | [64417-momotaro-collection-2.json](./64417-momotaro-collection-2.json) |
 | Momotaro Densetsu | 64411 | [64411-momotaro-densetsu.json](./64411-momotaro-densetsu.json) |
