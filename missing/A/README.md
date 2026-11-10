@@ -2899,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Zombie 3 | 368354 | [368354-achievement-hunter-zombie-3.json](./368354-achievement-hunter-zombie-3.json) |
 | Achievement Idler Black | 95124 | [95124-achievement-idler-black.json](./95124-achievement-idler-black.json) |
 | Achievement Idler: Red | 97229 | [97229-achievement-idler-red.json](./97229-achievement-idler-red.json) |
+| Achievement Lurker: Another one bites the dust | 95214 | [95214-achievement-lurker-another-one-bites-the-dust.json](./95214-achievement-lurker-another-one-bites-the-dust.json) |
 | Achievement Lurker: Ballad of the Shimapan Warrior - King of Panties | 102133 | [102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json](./102133-achievement-lurker-ballad-of-the-shimapan-warrior-king-of-panties.json) |
 | Achievement Lurker: Dad Jokes | 75802 | [75802-achievement-lurker-dad-jokes.json](./75802-achievement-lurker-dad-jokes.json) |
 | Achievement Lurker: Easiest Cosmetic Numbers | 90120 | [90120-achievement-lurker-easiest-cosmetic-numbers.json](./90120-achievement-lurker-easiest-cosmetic-numbers.json) |
@@ -8658,6 +8659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amaze Dark Times | 55285 | [55285-amaze-dark-times.json](./55285-amaze-dark-times.json) |
 | AMaze DOS | 191078 | [191078-amaze-dos.json](./191078-amaze-dos.json) |
 | Amaze Double | 75005 | [75005-amaze-double.json](./75005-amaze-double.json) |
+| Amaze Frozen | 95276 | [95276-amaze-frozen.json](./95276-amaze-frozen.json) |
 | Amaze Gears | 88087 | [88087-amaze-gears.json](./88087-amaze-gears.json) |
 | Amaze Gears 2 | 125095 | [125095-amaze-gears-2.json](./125095-amaze-gears-2.json) |
 | Amaze Gears 3 | 158660 | [158660-amaze-gears-3.json](./158660-amaze-gears-3.json) |
@@ -13423,6 +13425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Hits Pack: Gunblade NY and L.A. Machineguns | 6520 | [6520-arcade-hits-pack-gunblade-ny-and-l-a-machineguns.json](./6520-arcade-hits-pack-gunblade-ny-and-l-a-machineguns.json) |
 | Arcade Hole | 208907 | [208907-arcade-hole.json](./208907-arcade-hole.json) |
 | Arcade Hoops Basketball | 47848 | [47848-arcade-hoops-basketball.json](./47848-arcade-hoops-basketball.json) |
+| Arcade Hoops Basketball HD | 95102 | [95102-arcade-hoops-basketball-hd.json](./95102-arcade-hoops-basketball-hd.json) |
 | Arcade Horse Racing | 206137 | [206137-arcade-horse-racing.json](./206137-arcade-horse-racing.json) |
 | Arcade Hysteria | 420515 | [420515-arcade-hysteria.json](./420515-arcade-hysteria.json) |
 | Arcade Islands: Volume One | 102860 | [102860-arcade-islands-volume-one.json](./102860-arcade-islands-volume-one.json) |
@@ -14124,6 +14127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AreaZ | 110925 | [110925-areaz.json](./110925-areaz.json) |
 | Areena 4 | 317423 | [317423-areena-4.json](./317423-areena-4.json) |
 | Areena 5 | 134570 | [134570-areena-5.json](./134570-areena-5.json) |
+| Areia: Pathway to Dawn | 95151 | [95151-areia-pathway-to-dawn.json](./95151-areia-pathway-to-dawn.json) |
 | Arel Wars | 38727 | [38727-arel-wars.json](./38727-arel-wars.json) |
 | Arelite Core: Horse Armor | 156140 | [156140-arelite-core-horse-armor.json](./156140-arelite-core-horse-armor.json) |
 | Arelt City | 138456 | [138456-arelt-city.json](./138456-arelt-city.json) |
