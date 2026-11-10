@@ -4184,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feralbound Online | 295827 | [295827-feralbound-online.json](./295827-feralbound-online.json) |
 | FeralHeart | 166478 | [166478-feralheart.json](./166478-feralheart.json) |
 | FeralHeart Unleashed | 225703 | [225703-feralheart-unleashed.json](./225703-feralheart-unleashed.json) |
+| Feralpals | 398734 | [398734-feralpals.json](./398734-feralpals.json) |
 | Feralscape | 185417 | [185417-feralscape.json](./185417-feralscape.json) |
 | Ferarum | 396366 | [396366-ferarum.json](./396366-ferarum.json) |
 | Ferazel's Wand | 146178 | [146178-ferazels-wand.json](./146178-ferazels-wand.json) |
@@ -8079,6 +8080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh Blossom | 398000 | [398000-flesh-blossom.json](./398000-flesh-blossom.json) |
 | Flesh Eaters | 34957 | [34957-flesh-eaters.json](./34957-flesh-eaters.json) |
 | Flesh Eating Geriatric Internet Predator | 144308 | [144308-flesh-eating-geriatric-internet-predator.json](./144308-flesh-eating-geriatric-internet-predator.json) |
+| Flesh Engine | 398707 | [398707-flesh-engine.json](./398707-flesh-engine.json) |
 | Flesh Everest | 207356 | [207356-flesh-everest.json](./207356-flesh-everest.json) |
 | Flesh Farm | 370665 | [370665-flesh-farm.json](./370665-flesh-farm.json) |
 | Flesh Feast | 93408 | [93408-flesh-feast.json](./93408-flesh-feast.json) |
@@ -11732,6 +11734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Factory | 302163 | [302163-fractal-factory.json](./302163-fractal-factory.json) |
 | Fractal Fighter | 185751 | [185751-fractal-fighter.json](./185751-fractal-fighter.json) |
 | Fractal Fly | 196135 | [196135-fractal-fly.json](./196135-fractal-fly.json) |
+| Fractal Foundry | 398725 | [398725-fractal-foundry.json](./398725-fractal-foundry.json) |
 | Fractal Gallery VR | 372217 | [372217-fractal-gallery-vr.json](./372217-fractal-gallery-vr.json) |
 | Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
 | Fractal Odyssey | 350784 | [350784-fractal-odyssey.json](./350784-fractal-odyssey.json) |
