@@ -7855,6 +7855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Challenge! Gun Fighter | 41239 | [41239-big-challenge-gun-fighter.json](./41239-big-challenge-gun-fighter.json) |
 | Big Challenge! Judo Senshuken | 41242 | [41242-big-challenge-judo-senshuken.json](./41242-big-challenge-judo-senshuken.json) |
 | Big Chief | 96342 | [96342-big-chief.json](./96342-big-chief.json) |
+| Big Chungus Tries Not To Be The Sus Imposter While Shopping At Walmart For Eggs To Make His Breakfast Casserole | 411894 | [411894-big-chungus-tries-not-to-be-the-sus-imposter-while-shopping-at-walmart-for-eggs-to-make-his-breakfast-casserole.json](./411894-big-chungus-tries-not-to-be-the-sus-imposter-while-shopping-at-walmart-for-eggs-to-make-his-breakfast-casserole.json) |
 | Big City Adventure: Barcelona | 341050 | [341050-big-city-adventure-barcelona.json](./341050-big-city-adventure-barcelona.json) |
 | Big City Adventure: Istanbul | 294743 | [294743-big-city-adventure-istanbul.json](./294743-big-city-adventure-istanbul.json) |
 | Big City Adventure: London - Premium Edition | 417381 | [417381-big-city-adventure-london-premium-edition.json](./417381-big-city-adventure-london-premium-edition.json) |
@@ -8581,6 +8582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard 5: Limited Edition | 145195 | [145195-biohazard-5-limited-edition.json](./145195-biohazard-5-limited-edition.json) |
 | Biohazard Anniversary Package | 287316 | [287316-biohazard-anniversary-package.json](./287316-biohazard-anniversary-package.json) |
 | Biohazard Code: Veronica - Limited Edition | 407337 | [407337-biohazard-code-veronica-limited-edition.json](./407337-biohazard-code-veronica-limited-edition.json) |
+| Biohazard HD Remaster: Collector's Package | 411927 | [411927-biohazard-hd-remaster-collectors-package.json](./411927-biohazard-hd-remaster-collectors-package.json) |
 | Biohazard i Survivor | 251363 | [251363-biohazard-i-survivor.json](./251363-biohazard-i-survivor.json) |
 | Biohazard Outbreak Survive | 356225 | [356225-biohazard-outbreak-survive.json](./356225-biohazard-outbreak-survive.json) |
 | Biohazard RE: 2 - Cloud Version: Z Version | 263845 | [263845-biohazard-re-2-cloud-version-z-version.json](./263845-biohazard-re-2-cloud-version-z-version.json) |
@@ -13179,6 +13181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Wuzel | 91508 | [91508-bomb-wuzel.json](./91508-bomb-wuzel.json) |
 | Bomb Wuzel 2 | 91511 | [91511-bomb-wuzel-2.json](./91511-bomb-wuzel-2.json) |
 | Bomb-Bomb | 101628 | [101628-bomb-bomb.json](./101628-bomb-bomb.json) |
+| Bomb-Time Job | 411895 | [411895-bomb-time-job.json](./411895-bomb-time-job.json) |
 | Bomb: A Modern Missile Command | 134395 | [134395-bomb-a-modern-missile-command.json](./134395-bomb-a-modern-missile-command.json) |
 | Bomb: Who let the dogfight? | 17403 | [17403-bomb-who-let-the-dogfight.json](./17403-bomb-who-let-the-dogfight.json) |
 | Bomb! Bomb! Carnival!! | 187155 | [187155-bomb-bomb-carnival.json](./187155-bomb-bomb-carnival.json) |
