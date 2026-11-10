@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Sinclair Magnificent 7 July 1991 | 71389 | [71389-your-sinclair-magnificent-7-july-1991.json](./71389-your-sinclair-magnificent-7-july-1991.json) |
 | Your Sister's Drown'd, Laertes | 135302 | [135302-your-sisters-drownd-laertes.json](./135302-your-sisters-drownd-laertes.json) |
 | Your Sisters | 367899 | [367899-your-sisters.json](./367899-your-sisters.json) |
+| Your Smile Beyond Twilight | 41906 | [41906-your-smile-beyond-twilight.json](./41906-your-smile-beyond-twilight.json) |
 | Your Spider | 192021 | [192021-your-spider.json](./192021-your-spider.json) |
 | Your Star | 31534 | [31534-your-star.json](./31534-your-star.json) |
 | Your Story | 130093 | [130093-your-story.json](./130093-your-story.json) |
