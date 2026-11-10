@@ -2200,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat on the Run | 78607 | [78607-rat-on-the-run.json](./78607-rat-on-the-run.json) |
 | Rat Prison | 169584 | [169584-rat-prison.json](./169584-rat-prison.json) |
 | Rat Quest | 302814 | [302814-rat-quest.json](./302814-rat-quest.json) |
+| Rat Quest 2: The Quest for Moon Cheese | 426626 | [426626-rat-quest-2-the-quest-for-moon-cheese.json](./426626-rat-quest-2-the-quest-for-moon-cheese.json) |
 | Rat Quest: The Quest For Swiss | 411272 | [411272-rat-quest-the-quest-for-swiss.json](./411272-rat-quest-the-quest-for-swiss.json) |
 | Rat Race | 288824 | [288824-rat-race.json](./288824-rat-race.json) |
 | Rat Race | 375518 | [375518-rat-race.json](./375518-rat-race.json) |
@@ -4498,6 +4499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redrum: The Shining 2 | 341820 | [341820-redrum-the-shining-2.json](./341820-redrum-the-shining-2.json) |
 | Redrum: Time Lies | 111933 | [111933-redrum-time-lies.json](./111933-redrum-time-lies.json) |
 | Reds Adventure A Seasons New Beginning | 188767 | [188767-reds-adventure-a-seasons-new-beginning.json](./188767-reds-adventure-a-seasons-new-beginning.json) |
+| Redshaw Valley | 426597 | [426597-redshaw-valley.json](./426597-redshaw-valley.json) |
 | RedShift | 328963 | [328963-redshift.json](./328963-redshift.json) |
 | Redshift 7 | 27253 | [27253-redshift-7.json](./27253-redshift-7.json) |
 | Redshift Blueshift | 35314 | [35314-redshift-blueshift.json](./35314-redshift-blueshift.json) |
@@ -4745,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refunct | 13542 | [13542-refunct.json](./13542-refunct.json) |
 | Refund Me If You Can | 204074 | [204074-refund-me-if-you-can.json](./204074-refund-me-if-you-can.json) |
 | Refund Me If You Can: Lexy's Story | 234106 | [234106-refund-me-if-you-can-lexys-story.json](./234106-refund-me-if-you-can-lexys-story.json) |
+| Refund Me TD 2 | 426602 | [426602-refund-me-td-2.json](./426602-refund-me-td-2.json) |
 | Refuse & Reuse | 348296 | [348296-refuse-and-reuse.json](./348296-refuse-and-reuse.json) |
 | Refuse: Home Sweep Home | 210816 | [210816-refuse-home-sweep-home.json](./210816-refuse-home-sweep-home.json) |
 | Refuted Wind | 319343 | [319343-refuted-wind.json](./319343-refuted-wind.json) |
@@ -5217,6 +5220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reminiscence | 360643 | [360643-reminiscence.json](./360643-reminiscence.json) |
 | Reminiscence in the Night | 176121 | [176121-reminiscence-in-the-night.json](./176121-reminiscence-in-the-night.json) |
 | Reminiscence in the Rain | 294369 | [294369-reminiscence-in-the-rain.json](./294369-reminiscence-in-the-rain.json) |
+| Reminiscence of Gusuku: Card and Explore | 426599 | [426599-reminiscence-of-gusuku-card-and-explore.json](./426599-reminiscence-of-gusuku-card-and-explore.json) |
 | Reminiscience Overwrite | 184362 | [184362-reminiscience-overwrite.json](./184362-reminiscience-overwrite.json) |
 | Remission | 302090 | [302090-remission.json](./302090-remission.json) |
 | ReMix | 276642 | [276642-remix.json](./276642-remix.json) |
