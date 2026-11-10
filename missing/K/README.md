@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kelly Green: Garden Queen | 54156 | [54156-kelly-green-garden-queen.json](./54156-kelly-green-garden-queen.json) |
 | Kelly Kangaroo | 292072 | [292072-kelly-kangaroo.json](./292072-kelly-kangaroo.json) |
 | Kelly Slater's Pro Surfer | 243186 | [243186-kelly-slaters-pro-surfer.json](./243186-kelly-slaters-pro-surfer.json) |
+| Kelly Slater's Pro Surfer | 3963 | [3963-kelly-slaters-pro-surfer.json](./3963-kelly-slaters-pro-surfer.json) |
 | Kelly X | 12653 | [12653-kelly-x.json](./12653-kelly-x.json) |
 | Kelp Keeper | 290557 | [290557-kelp-keeper.json](./290557-kelp-keeper.json) |
 | Kelsi Davies: Haunt Escape | 275675 | [275675-kelsi-davies-haunt-escape.json](./275675-kelsi-davies-haunt-escape.json) |
