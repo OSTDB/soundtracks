@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacko in Hell 2 | 393912 | [393912-jacko-in-hell-2.json](./393912-jacko-in-hell-2.json) |
 | Jackplot | 346774 | [346774-jackplot.json](./346774-jackplot.json) |
 | Jackpoison | 361689 | [361689-jackpoison.json](./361689-jackpoison.json) |
+| Jackpot | 22580 | [22580-jackpot.json](./22580-jackpot.json) |
 | Jackpot | 246954 | [246954-jackpot.json](./246954-jackpot.json) |
 | Jackpot | 312259 | [312259-jackpot.json](./312259-jackpot.json) |
 | Jackpot | 84321 | [84321-jackpot.json](./84321-jackpot.json) |
@@ -4168,6 +4169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Cause 2: Monster Truck DLC | 288995 | [288995-just-cause-2-monster-truck-dlc.json](./288995-just-cause-2-monster-truck-dlc.json) |
 | Just Cause 2: Multiplayer Mod | 93898 | [93898-just-cause-2-multiplayer-mod.json](./93898-just-cause-2-multiplayer-mod.json) |
 | Just Cause 2: Rico's Signature Gun DLC | 288999 | [288999-just-cause-2-ricos-signature-gun-dlc.json](./288999-just-cause-2-ricos-signature-gun-dlc.json) |
+| Just Cause 3: Bavarium Sea Heist | 22505 | [22505-just-cause-3-bavarium-sea-heist.json](./22505-just-cause-3-bavarium-sea-heist.json) |
 | Just Cause 3: Day One Edition | 89844 | [89844-just-cause-3-day-one-edition.json](./89844-just-cause-3-day-one-edition.json) |
 | Just Cause 3: Gold Edition | 25483 | [25483-just-cause-3-gold-edition.json](./25483-just-cause-3-gold-edition.json) |
 | Just Cause 3: Mech Land Assault | 19855 | [19855-just-cause-3-mech-land-assault.json](./19855-just-cause-3-mech-land-assault.json) |
