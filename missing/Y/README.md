@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YinYang Street: Separate Ways | 345818 | [345818-yinyang-street-separate-ways.json](./345818-yinyang-street-separate-ways.json) |
 | Yip Quest | 277101 | [277101-yip-quest.json](./277101-yip-quest.json) |
 | Yippy Cube | 208270 | [208270-yippy-cube.json](./208270-yippy-cube.json) |
+| Yiqi Huijia ba | 407679 | [407679-yiqi-huijia-ba.json](./407679-yiqi-huijia-ba.json) |
 | YiShi | 295135 | [295135-yishi.json](./295135-yishi.json) |
 | Yissa Deep Realms | 75776 | [75776-yissa-deep-realms.json](./75776-yissa-deep-realms.json) |
 | Yitien Chronicles | 23638 | [23638-yitien-chronicles.json](./23638-yitien-chronicles.json) |
@@ -1146,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Are Undead | 180665 | [180665-you-are-undead.json](./180665-you-are-undead.json) |
 | You Are What You Eat | 181461 | [181461-you-are-what-you-eat.json](./181461-you-are-what-you-eat.json) |
 | You Arrive In A Town | 138653 | [138653-you-arrive-in-a-town.json](./138653-you-arrive-in-a-town.json) |
+| You Broke Me | 403257 | [403257-you-broke-me.json](./403257-you-broke-me.json) |
 | You Brought a Shield to a Tentacle Fight | 181791 | [181791-you-brought-a-shield-to-a-tentacle-fight.json](./181791-you-brought-a-shield-to-a-tentacle-fight.json) |
 | You Can Buy Every Upgrade | 368743 | [368743-you-can-buy-every-upgrade.json](./368743-you-can-buy-every-upgrade.json) |
 | You Can Do!mino | 234271 | [234271-you-can-do-mino.json](./234271-you-can-do-mino.json) |
