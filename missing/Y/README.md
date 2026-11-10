@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Must Escape | 343870 | [343870-you-must-escape.json](./343870-you-must-escape.json) |
 | You Must Escape 2 | 71197 | [71197-you-must-escape-2.json](./71197-you-must-escape-2.json) |
 | You Must Mop | 318342 | [318342-you-must-mop.json](./318342-you-must-mop.json) |
+| You Must Remember | 412660 | [412660-you-must-remember.json](./412660-you-must-remember.json) |
 | You Must Retry | 312508 | [312508-you-must-retry.json](./312508-you-must-retry.json) |
 | You Must Survive | 160048 | [160048-you-must-survive.json](./160048-you-must-survive.json) |
 | You need to Buy a Phone Charger | 361338 | [361338-you-need-to-buy-a-phone-charger.json](./361338-you-need-to-buy-a-phone-charger.json) |
