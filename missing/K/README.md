@@ -5963,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koyaa | 384020 | [384020-koyaa.json](./384020-koyaa.json) |
 | Koyamachou Watch Repair Shop | 395974 | [395974-koyamachou-watch-repair-shop.json](./395974-koyamachou-watch-repair-shop.json) |
 | Koyomin's Revenge | 343473 | [343473-koyomins-revenge.json](./343473-koyomins-revenge.json) |
+| Koyorenium | 418669 | [418669-koyorenium.json](./418669-koyorenium.json) |
 | Koza | 183314 | [183314-koza.json](./183314-koza.json) |
 | Kozeni Mushi | 396453 | [396453-kozeni-mushi.json](./396453-kozeni-mushi.json) |
 | Koziolek Matolek idzie do szkoly | 318492 | [318492-koziolek-matolek-idzie-do-szkoly.json](./318492-koziolek-matolek-idzie-do-szkoly.json) |
