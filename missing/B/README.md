@@ -2948,6 +2948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barren Realms Elite | 97310 | [97310-barren-realms-elite.json](./97310-barren-realms-elite.json) |
 | Barren Roads | 35954 | [35954-barren-roads.json](./35954-barren-roads.json) |
 | Barrett Foster: Chapter One | 250403 | [250403-barrett-foster-chapter-one.json](./250403-barrett-foster-chapter-one.json) |
+| Barrett Foster: Prologue | 419454 | [419454-barrett-foster-prologue.json](./419454-barrett-foster-prologue.json) |
 | Barrhell | 276702 | [276702-barrhell.json](./276702-barrhell.json) |
 | Barricade | 18116 | [18116-barricade.json](./18116-barricade.json) |
 | Barricade | 207646 | [207646-barricade.json](./207646-barricade.json) |
@@ -10464,6 +10465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazingAngel Mistletear | 256671 | [256671-blazingangel-mistletear.json](./256671-blazingangel-mistletear.json) |
 | Blazted VR | 207778 | [207778-blazted-vr.json](./207778-blazted-vr.json) |
 | Bleach | 201562 | [201562-bleach.json](./201562-bleach.json) |
+| Bleach & Blood | 419469 | [419469-bleach-and-blood.json](./419469-bleach-and-blood.json) |
 | Bleach DS 4th: Flame Bringer | 47832 | [47832-bleach-ds-4th-flame-bringer.json](./47832-bleach-ds-4th-flame-bringer.json) |
 | Bleach GC: Tasogare ni Mamieru Shinigami | 3820 | [3820-bleach-gc-tasogare-ni-mamieru-shinigami.json](./3820-bleach-gc-tasogare-ni-mamieru-shinigami.json) |
 | Bleach Heat the Soul | 44488 | [44488-bleach-heat-the-soul.json](./44488-bleach-heat-the-soul.json) |
@@ -11974,6 +11976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom Again | 408260 | [408260-bloom-again.json](./408260-bloom-again.json) |
 | Bloom Barrage | 240206 | [240206-bloom-barrage.json](./240206-bloom-barrage.json) |
 | Bloom Blast | 392809 | [392809-bloom-blast.json](./392809-bloom-blast.json) |
+| Bloom Control | 419407 | [419407-bloom-control.json](./419407-bloom-control.json) |
 | Bloom Defender | 252054 | [252054-bloom-defender.json](./252054-bloom-defender.json) |
 | Bloom Echo | 303363 | [303363-bloom-echo.json](./303363-bloom-echo.json) |
 | Bloom for Me | 358327 | [358327-bloom-for-me.json](./358327-bloom-for-me.json) |
@@ -14739,6 +14742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowave | 264980 | [264980-bowave.json](./264980-bowave.json) |
 | Bowels of the Beast | 283801 | [283801-bowels-of-the-beast.json](./283801-bowels-of-the-beast.json) |
 | Bowels of the Ocean | 165481 | [165481-bowels-of-the-ocean.json](./165481-bowels-of-the-ocean.json) |
+| Bowerland | 419445 | [419445-bowerland.json](./419445-bowerland.json) |
 | Bowerwhelm | 202423 | [202423-bowerwhelm.json](./202423-bowerwhelm.json) |
 | Bowja the Ninja 2 in Bigman's Compound | 404054 | [404054-bowja-the-ninja-2-in-bigmans-compound.json](./404054-bowja-the-ninja-2-in-bigmans-compound.json) |
 | Bowja the Ninja on Factory Island | 404022 | [404022-bowja-the-ninja-on-factory-island.json](./404022-bowja-the-ninja-on-factory-island.json) |
