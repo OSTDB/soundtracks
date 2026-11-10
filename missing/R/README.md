@@ -4824,6 +4824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign of Darkness | 126974 | [126974-reign-of-darkness.json](./126974-reign-of-darkness.json) |
 | Reign of Dwarf | 207622 | [207622-reign-of-dwarf.json](./207622-reign-of-dwarf.json) |
 | Reign of Fire | 248461 | [248461-reign-of-fire.json](./248461-reign-of-fire.json) |
+| Reign of Fire | 4086 | [4086-reign-of-fire.json](./4086-reign-of-fire.json) |
 | Reign of Guilds | 112329 | [112329-reign-of-guilds.json](./112329-reign-of-guilds.json) |
 | Reign of Guilds: Banneret | 289841 | [289841-reign-of-guilds-banneret.json](./289841-reign-of-guilds-banneret.json) |
 | Reign of Guilds: Black Knight | 290115 | [290115-reign-of-guilds-black-knight.json](./290115-reign-of-guilds-black-knight.json) |
