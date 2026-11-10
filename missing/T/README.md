@@ -4840,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrianis | 269759 | [269759-terrianis.json](./269759-terrianis.json) |
 | Terrible Beast from the East | 111602 | [111602-terrible-beast-from-the-east.json](./111602-terrible-beast-from-the-east.json) |
 | Terrible Clicking Game | 215391 | [215391-terrible-clicking-game.json](./215391-terrible-clicking-game.json) |
+| Terrible Forest Management | 420033 | [420033-terrible-forest-management.json](./420033-terrible-forest-management.json) |
 | Terrible Laboratory | 113862 | [113862-terrible-laboratory.json](./113862-terrible-laboratory.json) |
 | Terrible Life Expectancy | 352386 | [352386-terrible-life-expectancy.json](./352386-terrible-life-expectancy.json) |
 | Terrible Lizards | 296564 | [296564-terrible-lizards.json](./296564-terrible-lizards.json) |
@@ -7741,6 +7742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clown's Forest | 207485 | [207485-the-clowns-forest.json](./207485-the-clowns-forest.json) |
 | The Clown's Forest 2: Waking Shadows | 244362 | [244362-the-clowns-forest-2-waking-shadows.json](./244362-the-clowns-forest-2-waking-shadows.json) |
 | The Clown's Forest 3: Haunting Apparitions | 271906 | [271906-the-clowns-forest-3-haunting-apparitions.json](./271906-the-clowns-forest-3-haunting-apparitions.json) |
+| The Clown's Forest: Shadows of Blood | 420060 | [420060-the-clowns-forest-shadows-of-blood.json](./420060-the-clowns-forest-shadows-of-blood.json) |
 | The Club | 6940 | [6940-the-club.json](./6940-the-club.json) |
 | The Clue Club: Animal Detectives | 207122 | [207122-the-clue-club-animal-detectives.json](./207122-the-clue-club-animal-detectives.json) |
 | The ClueFinders 4th Grade Adventures: Puzzle of the Pyramid | 73694 | [73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json](./73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json) |
@@ -18270,6 +18272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of the Greenhouse | 180912 | [180912-the-tale-of-the-greenhouse.json](./180912-the-tale-of-the-greenhouse.json) |
 | The Tale of Treasonous Tom | 207752 | [207752-the-tale-of-treasonous-tom.json](./207752-the-tale-of-treasonous-tom.json) |
 | The Tale of Two Nekos | 310201 | [310201-the-tale-of-two-nekos.json](./310201-the-tale-of-two-nekos.json) |
+| The Tales of Acilain: Bound by Shadow | 420070 | [420070-the-tales-of-acilain-bound-by-shadow.json](./420070-the-tales-of-acilain-bound-by-shadow.json) |
 | The Tales of Bayun | 200111 | [200111-the-tales-of-bayun.json](./200111-the-tales-of-bayun.json) |
 | The Tales of Bearsworth Manor: Chaotic Conflicts | 66513 | [66513-the-tales-of-bearsworth-manor-chaotic-conflicts.json](./66513-the-tales-of-bearsworth-manor-chaotic-conflicts.json) |
 | The Tales of Bearsworth Manor: Puzzling Pages | 85446 | [85446-the-tales-of-bearsworth-manor-puzzling-pages.json](./85446-the-tales-of-bearsworth-manor-puzzling-pages.json) |
@@ -24598,6 +24601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Lands: Expansion Pack 1 | 231288 | [231288-tiny-lands-expansion-pack-1.json](./231288-tiny-lands-expansion-pack-1.json) |
 | Tiny Lands: Expansion Pack 2 | 269978 | [269978-tiny-lands-expansion-pack-2.json](./269978-tiny-lands-expansion-pack-2.json) |
 | Tiny Lands: Expansion Pack 3 | 289943 | [289943-tiny-lands-expansion-pack-3.json](./289943-tiny-lands-expansion-pack-3.json) |
+| Tiny Leaf Kingdom | 420026 | [420026-tiny-leaf-kingdom.json](./420026-tiny-leaf-kingdom.json) |
 | Tiny Legends | 373725 | [373725-tiny-legends.json](./373725-tiny-legends.json) |
 | Tiny Legends: Saving Princess | 243169 | [243169-tiny-legends-saving-princess.json](./243169-tiny-legends-saving-princess.json) |
 | Tiny Life | 142348 | [142348-tiny-life.json](./142348-tiny-life.json) |
@@ -24932,6 +24936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Tank Rumble | 85442 | [85442-titan-tank-rumble.json](./85442-titan-tank-rumble.json) |
 | Titan-3D | 53806 | [53806-titan-3d.json](./53806-titan-3d.json) |
 | Titan: The Ascension | 244152 | [244152-titan-the-ascension.json](./244152-titan-the-ascension.json) |
+| Titan's Shadow Killers | 420071 | [420071-titans-shadow-killers.json](./420071-titans-shadow-killers.json) |
 | Titan's Tower | 119238 | [119238-titans-tower.json](./119238-titans-tower.json) |
 | Titan78 | 190147 | [190147-titan78.json](./190147-titan78.json) |
 | Titanclimb | 386089 | [386089-titanclimb.json](./386089-titanclimb.json) |
@@ -25044,6 +25049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tizi Town: My Hotel Games | 299207 | [299207-tizi-town-my-hotel-games.json](./299207-tizi-town-my-hotel-games.json) |
 | Tizi Town: Room Design | 299216 | [299216-tizi-town-room-design.json](./299216-tizi-town-room-design.json) |
 | TJ's Reel Extreme CD Room | 206780 | [206780-tjs-reel-extreme-cd-room.json](./206780-tjs-reel-extreme-cd-room.json) |
+| Tkio | 420069 | [420069-tkio.json](./420069-tkio.json) |
 | Tkium Exclusion Area | 186335 | [186335-tkium-exclusion-area.json](./186335-tkium-exclusion-area.json) |
 | Tkium Underground | 225181 | [225181-tkium-underground.json](./225181-tkium-underground.json) |
 | TKKG: Alarm in der Geisterbahn | 182384 | [182384-tkkg-alarm-in-der-geisterbahn.json](./182384-tkkg-alarm-in-der-geisterbahn.json) |
