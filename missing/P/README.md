@@ -13960,6 +13960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potionomics: Boss Finn Content Pack | 360595 | [360595-potionomics-boss-finn-content-pack.json](./360595-potionomics-boss-finn-content-pack.json) |
 | Potionomics: Masterwork Edition | 300482 | [300482-potionomics-masterwork-edition.json](./300482-potionomics-masterwork-edition.json) |
 | Potions & Emotions | 264683 | [264683-potions-and-emotions.json](./264683-potions-and-emotions.json) |
+| Potions Galore | 421863 | [421863-potions-galore.json](./421863-potions-galore.json) |
 | Potions of Veldenkeep | 367000 | [367000-potions-of-veldenkeep.json](./367000-potions-of-veldenkeep.json) |
 | Potions War | 201802 | [201802-potions-war.json](./201802-potions-war.json) |
 | Potions, Frankly | 183598 | [183598-potions-frankly.json](./183598-potions-frankly.json) |
@@ -14421,6 +14422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poyon no Dungeon Room | 282510 | [282510-poyon-no-dungeon-room.json](./282510-poyon-no-dungeon-room.json) |
 | Poyon no Dungeon Room 2 | 282511 | [282511-poyon-no-dungeon-room-2.json](./282511-poyon-no-dungeon-room-2.json) |
 | Poyopoyo Kansatsu Nikki | 61410 | [61410-poyopoyo-kansatsu-nikki.json](./61410-poyopoyo-kansatsu-nikki.json) |
+| PoyPoy's Mean Mining Machine | 421770 | [421770-poypoys-mean-mining-machine.json](./421770-poypoys-mean-mining-machine.json) |
 | Pozionista | 310148 | [310148-pozionista.json](./310148-pozionista.json) |
 | Pozzo Jello Crusade | 31807 | [31807-pozzo-jello-crusade.json](./31807-pozzo-jello-crusade.json) |
 | PP | 260296 | [260296-pp.json](./260296-pp.json) |
