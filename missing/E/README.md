@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eeeek Abyss | 235811 | [235811-eeeek-abyss.json](./235811-eeeek-abyss.json) |
 | Eek! The Cat | 42613 | [42613-eek-the-cat.json](./42613-eek-the-cat.json) |
 | EEK3 Virtual Show Floor | 145630 | [145630-eek3-virtual-show-floor.json](./145630-eek3-virtual-show-floor.json) |
+| Eekeemoo - Splinters of the Dark Shard | 34172 | [34172-eekeemoo-splinters-of-the-dark-shard.json](./34172-eekeemoo-splinters-of-the-dark-shard.json) |
 | EekoWorld | 234400 | [234400-eekoworld.json](./234400-eekoworld.json) |
 | Eel Game | 361295 | [361295-eel-game.json](./361295-eel-game.json) |
 | Eel on Mask | 392752 | [392752-eel-on-mask.json](./392752-eel-on-mask.json) |
@@ -5006,6 +5007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era of Darkness | 287735 | [287735-era-of-darkness.json](./287735-era-of-darkness.json) |
 | Era of Defense | 157509 | [157509-era-of-defense.json](./157509-era-of-defense.json) |
 | Era of Legends | 125897 | [125897-era-of-legends.json](./125897-era-of-legends.json) |
+| Era of Majesty | 34198 | [34198-era-of-majesty.json](./34198-era-of-majesty.json) |
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Newborns | 113190 | [113190-era-of-newborns.json](./113190-era-of-newborns.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
