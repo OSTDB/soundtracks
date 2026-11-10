@@ -6375,6 +6375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Sports Bundle | 154966 | [154966-retro-sports-bundle.json](./154966-retro-sports-bundle.json) |
 | Retro Style: Pixel Art Jigsaw Puzzles | 239063 | [239063-retro-style-pixel-art-jigsaw-puzzles.json](./239063-retro-style-pixel-art-jigsaw-puzzles.json) |
 | Retro Style: Pixel Art Jigsaw Puzzles - Expansion Pack 1 | 239970 | [239970-retro-style-pixel-art-jigsaw-puzzles-expansion-pack-1.json](./239970-retro-style-pixel-art-jigsaw-puzzles-expansion-pack-1.json) |
+| Retro Survival | 423352 | [423352-retro-survival.json](./423352-retro-survival.json) |
 | Retro Synthesis | 109715 | [109715-retro-synthesis.json](./109715-retro-synthesis.json) |
 | Retro Tank Arcade | 231563 | [231563-retro-tank-arcade.json](./231563-retro-tank-arcade.json) |
 | Retro Tank Party | 144512 | [144512-retro-tank-party.json](./144512-retro-tank-party.json) |
@@ -9470,6 +9471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
 | Robot88 | 182364 | [182364-robot88.json](./182364-robot88.json) |
 | Robotan Wars | 138005 | [138005-robotan-wars.json](./138005-robotan-wars.json) |
+| Robotech: Battlecry | 4090 | [4090-robotech-battlecry.json](./4090-robotech-battlecry.json) |
 | Robotech: Crystal Dreams | 44035 | [44035-robotech-crystal-dreams.json](./44035-robotech-crystal-dreams.json) |
 | Robotech: The Macross Saga | 245414 | [245414-robotech-the-macross-saga.json](./245414-robotech-the-macross-saga.json) |
 | Robotech: The Macross Saga | 6563 | [6563-robotech-the-macross-saga.json](./6563-robotech-the-macross-saga.json) |
