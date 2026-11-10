@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zector 7 | 299103 | [299103-zector-7.json](./299103-zector-7.json) |
 | Zed | 112831 | [112831-zed.json](./112831-zed.json) |
 | Zed | 227650 | [227650-zed.json](./227650-zed.json) |
+| Zed and Zee | 414885 | [414885-zed-and-zee.json](./414885-zed-and-zee.json) |
 | Zed Blade | 39345 | [39345-zed-blade.json](./39345-zed-blade.json) |
 | Zed Patrol | 264185 | [264185-zed-patrol.json](./264185-zed-patrol.json) |
 | Zed Shot | 107041 | [107041-zed-shot.json](./107041-zed-shot.json) |
@@ -1691,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Defence TD | 223527 | [223527-zombie-defence-td.json](./223527-zombie-defence-td.json) |
 | Zombie Defense | 246752 | [246752-zombie-defense.json](./246752-zombie-defense.json) |
 | Zombie Defense | 271703 | [271703-zombie-defense.json](./271703-zombie-defense.json) |
+| Zombie Defense | 414899 | [414899-zombie-defense.json](./414899-zombie-defense.json) |
 | Zombie Defense HNG | 88353 | [88353-zombie-defense-hng.json](./88353-zombie-defense-hng.json) |
 | Zombie Defense Shelter | 130195 | [130195-zombie-defense-shelter.json](./130195-zombie-defense-shelter.json) |
 | Zombie Defense Squad | 59550 | [59550-zombie-defense-squad.json](./59550-zombie-defense-squad.json) |
