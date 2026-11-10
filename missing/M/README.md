@@ -7252,6 +7252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 5: Mercenaries - Legend of the Kestrel Lancers | 174540 | [174540-mechwarrior-5-mercenaries-legend-of-the-kestrel-lancers.json](./174540-mechwarrior-5-mercenaries-legend-of-the-kestrel-lancers.json) |
 | MechWarrior 5: Mercenaries - Shadow of Kerensky | 351086 | [351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json](./351086-mechwarrior-5-mercenaries-shadow-of-kerensky.json) |
 | MechWarrior 5: Mercenaries - Solaris Showdown | 291597 | [291597-mechwarrior-5-mercenaries-solaris-showdown.json](./291597-mechwarrior-5-mercenaries-solaris-showdown.json) |
+| MechWarrior 5: Mercenaries - Succession Wars Edition | 403992 | [403992-mechwarrior-5-mercenaries-succession-wars-edition.json](./403992-mechwarrior-5-mercenaries-succession-wars-edition.json) |
 | MechWarrior 5: Mercenaries - The Dragon's Gambit | 260455 | [260455-mechwarrior-5-mercenaries-the-dragons-gambit.json](./260455-mechwarrior-5-mercenaries-the-dragons-gambit.json) |
 | MechWarrior Online | 1255 | [1255-mechwarrior-online.json](./1255-mechwarrior-online.json) |
 | MechWarrior Online: Apache Legendary Mech Pack | 357326 | [357326-mechwarrior-online-apache-legendary-mech-pack.json](./357326-mechwarrior-online-apache-legendary-mech-pack.json) |
@@ -15012,6 +15013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MKDD Extended v2.0 | 294564 | [294564-mkdd-extended-v2-0.json](./294564-mkdd-extended-v2-0.json) |
 | Mkhmkh | 343037 | [343037-mkhmkh.json](./343037-mkhmkh.json) |
 | MKL The Game | 331866 | [331866-mkl-the-game.json](./331866-mkl-the-game.json) |
+| MKS: Model Kit Studio | 404473 | [404473-mks-model-kit-studio.json](./404473-mks-model-kit-studio.json) |
 | MKZ | 100248 | [100248-mkz.json](./100248-mkz.json) |
 | MLB 06: The Show | 20525 | [20525-mlb-06-the-show.json](./20525-mlb-06-the-show.json) |
 | MLB 07: The Show | 7369 | [7369-mlb-07-the-show.json](./7369-mlb-07-the-show.json) |
@@ -18198,6 +18200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat 1: Kollector's Edition | 250150 | [250150-mortal-kombat-1-kollectors-edition.json](./250150-mortal-kombat-1-kollectors-edition.json) |
 | Mortal Kombat 1: Kombat Pack | 250151 | [250151-mortal-kombat-1-kombat-pack.json](./250151-mortal-kombat-1-kombat-pack.json) |
 | Mortal Kombat 1: Mavado Kameo | 278618 | [278618-mortal-kombat-1-mavado-kameo.json](./278618-mortal-kombat-1-mavado-kameo.json) |
+| Mortal Kombat 1: MKII Movie Skins | 404504 | [404504-mortal-kombat-1-mkii-movie-skins.json](./404504-mortal-kombat-1-mkii-movie-skins.json) |
 | Mortal Kombat 1: Noob Saibot | 312334 | [312334-mortal-kombat-1-noob-saibot.json](./312334-mortal-kombat-1-noob-saibot.json) |
 | Mortal Kombat 1: Omni-Man | 266209 | [266209-mortal-kombat-1-omni-man.json](./266209-mortal-kombat-1-omni-man.json) |
 | Mortal Kombat 1: One-Time Dragon Pack | 305091 | [305091-mortal-kombat-1-one-time-dragon-pack.json](./305091-mortal-kombat-1-one-time-dragon-pack.json) |
