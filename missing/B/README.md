@@ -1000,7 +1000,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4495,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlegods CCG: Card Battle | 91104 | [91104-battlegods-ccg-card-battle.json](./91104-battlegods-ccg-card-battle.json) |
 | Battleground | 147923 | [147923-battleground.json](./147923-battleground.json) |
 | Battleground | 356383 | [356383-battleground.json](./356383-battleground.json) |
+| Battleground 2: Gettysburg | 22615 | [22615-battleground-2-gettysburg.json](./22615-battleground-2-gettysburg.json) |
 | Battleground 3: Waterloo | 608 | [608-battleground-3-waterloo.json](./608-battleground-3-waterloo.json) |
 | Battleground 4: Shiloh | 609 | [609-battleground-4-shiloh.json](./609-battleground-4-shiloh.json) |
 | Battleground 5: Antietam | 610 | [610-battleground-5-antietam.json](./610-battleground-5-antietam.json) |
@@ -10576,6 +10576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blik Ball | 413660 | [413660-blik-ball.json](./413660-blik-ball.json) |
 | Blimblau: Kill Them All! | 386830 | [386830-blimblau-kill-them-all.json](./386830-blimblau-kill-them-all.json) |
 | Blimby | 153871 | [153871-blimby.json](./153871-blimby.json) |
+| Blimp: The Flying Adventures | 21165 | [21165-blimp-the-flying-adventures.json](./21165-blimp-the-flying-adventures.json) |
 | Blimpo Warrior | 337310 | [337310-blimpo-warrior.json](./337310-blimpo-warrior.json) |
 | Blimps | 150828 | [150828-blimps.json](./150828-blimps.json) |
 | Blimpy | 328975 | [328975-blimpy.json](./328975-blimpy.json) |
@@ -14360,6 +14361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Dash: 30th Anniversary | 25569 | [25569-boulder-dash-30th-anniversary.json](./25569-boulder-dash-30th-anniversary.json) |
 | Boulder Dash: 40th Anniversary | 316942 | [316942-boulder-dash-40th-anniversary.json](./316942-boulder-dash-40th-anniversary.json) |
 | Boulder Dash: Pirate's Quest | 63971 | [63971-boulder-dash-pirates-quest.json](./63971-boulder-dash-pirates-quest.json) |
+| Boulder Dash: Rocks! | 22532 | [22532-boulder-dash-rocks.json](./22532-boulder-dash-rocks.json) |
 | Boulder Dash: The Collection | 63973 | [63973-boulder-dash-the-collection.json](./63973-boulder-dash-the-collection.json) |
 | Boulder Dash: Treasure Pleasure | 63968 | [63968-boulder-dash-treasure-pleasure.json](./63968-boulder-dash-treasure-pleasure.json) |
 | Boulder Dash: Ultimate Collection | 178765 | [178765-boulder-dash-ultimate-collection.json](./178765-boulder-dash-ultimate-collection.json) |
@@ -15096,6 +15098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain 43°C | 104051 | [104051-brain-43-c.json](./104051-brain-43-c.json) |
 | Brain Age 2: More Training in Minutes a Day! | 2711 | [2711-brain-age-2-more-training-in-minutes-a-day.json](./2711-brain-age-2-more-training-in-minutes-a-day.json) |
 | Brain Age Express: Arts & Letters | 67792 | [67792-brain-age-express-arts-and-letters.json](./67792-brain-age-express-arts-and-letters.json) |
+| Brain Age Express: Math | 22538 | [22538-brain-age-express-math.json](./22538-brain-age-express-math.json) |
 | Brain Age Express: Sudoku | 67839 | [67839-brain-age-express-sudoku.json](./67839-brain-age-express-sudoku.json) |
 | Brain Age: Concentration Training | 20884 | [20884-brain-age-concentration-training.json](./20884-brain-age-concentration-training.json) |
 | Brain Assist | 21679 | [21679-brain-assist.json](./21679-brain-assist.json) |
