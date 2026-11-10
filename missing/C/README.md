@@ -15436,7 +15436,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copero | 412505 | [412505-copero.json](./412505-copero.json) |
 | Copierre | 81868 | [81868-copierre.json](./81868-copierre.json) |
 | Coping Mechanisms | 395898 | [395898-coping-mechanisms.json](./395898-coping-mechanisms.json) |
-| Copoka | 19812 | [19812-copoka.json](./19812-copoka.json) |
 | Coppélive | 294227 | [294227-coppelive.json](./294227-coppelive.json) |
 | Copper | 312990 | [312990-copper.json](./312990-copper.json) |
 | Copper Corrosion | 271086 | [271086-copper-corrosion.json](./271086-copper-corrosion.json) |
