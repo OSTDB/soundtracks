@@ -10749,6 +10749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Forever Tomorrow | 216436 | [216436-the-great-forever-tomorrow.json](./216436-the-great-forever-tomorrow.json) |
 | The Great Fumo Binning | 311982 | [311982-the-great-fumo-binning.json](./311982-the-great-fumo-binning.json) |
 | The Great Fusion | 19499 | [19499-the-great-fusion.json](./19499-the-great-fusion.json) |
+| The Great Gaias | 95196 | [95196-the-great-gaias.json](./95196-the-great-gaias.json) |
 | The Great Gatsby | 76889 | [76889-the-great-gatsby.json](./76889-the-great-gatsby.json) |
 | The Great Gatsby: Secret Treasure | 28589 | [28589-the-great-gatsby-secret-treasure.json](./28589-the-great-gatsby-secret-treasure.json) |
 | The Great Geometric Multiverse Tour | 105337 | [105337-the-great-geometric-multiverse-tour.json](./105337-the-great-geometric-multiverse-tour.json) |
@@ -27027,6 +27028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torpedorun | 58872 | [58872-torpedorun.json](./58872-torpedorun.json) |
 | TorpedoRun Naval War | 89525 | [89525-torpedorun-naval-war.json](./89525-torpedorun-naval-war.json) |
 | Torque | 179604 | [179604-torque.json](./179604-torque.json) |
+| Torque Burnout | 95095 | [95095-torque-burnout.json](./95095-torque-burnout.json) |
 | Torque Drift | 95835 | [95835-torque-drift.json](./95835-torque-drift.json) |
 | Torque Drift 2 | 271277 | [271277-torque-drift-2.json](./271277-torque-drift-2.json) |
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
@@ -31421,6 +31423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
 | Trash Sorter Simulator | 365042 | [365042-trash-sorter-simulator.json](./365042-trash-sorter-simulator.json) |
 | Trash Squad | 81157 | [81157-trash-squad.json](./81157-trash-squad.json) |
+| Trash Story | 95267 | [95267-trash-story.json](./95267-trash-story.json) |
 | Trash Tag | 358757 | [358757-trash-tag.json](./358757-trash-tag.json) |
 | Trash Taste: The Boys Order Pizza | 214957 | [214957-trash-taste-the-boys-order-pizza.json](./214957-trash-taste-the-boys-order-pizza.json) |
 | Trash the Planet | 144624 | [144624-trash-the-planet.json](./144624-trash-the-planet.json) |
@@ -32667,6 +32670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Vault: Food Trivia | 101625 | [101625-trivia-vault-food-trivia.json](./101625-trivia-vault-food-trivia.json) |
 | Trivia Vault: Golf Trivia | 93772 | [93772-trivia-vault-golf-trivia.json](./93772-trivia-vault-golf-trivia.json) |
 | Trivia Vault: Health Trivia Deluxe | 81880 | [81880-trivia-vault-health-trivia-deluxe.json](./81880-trivia-vault-health-trivia-deluxe.json) |
+| Trivia Vault: Hockey Trivia | 95275 | [95275-trivia-vault-hockey-trivia.json](./95275-trivia-vault-hockey-trivia.json) |
 | Trivia Vault: Literature Trivia | 101626 | [101626-trivia-vault-literature-trivia.json](./101626-trivia-vault-literature-trivia.json) |
 | Trivia Vault: Mini Mixed Trivia | 55739 | [55739-trivia-vault-mini-mixed-trivia.json](./55739-trivia-vault-mini-mixed-trivia.json) |
 | Trivia Vault: Mini Mixed Trivia 2 | 55738 | [55738-trivia-vault-mini-mixed-trivia-2.json](./55738-trivia-vault-mini-mixed-trivia-2.json) |
