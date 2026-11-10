@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Revival Xanadu Easy Ver PC-9801 | 347313 | [347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json](./347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json) |
 | Eggconsole Riglas PC-8801 | 324189 | [324189-eggconsole-riglas-pc-8801.json](./324189-eggconsole-riglas-pc-8801.json) |
 | Eggconsole Rune Worth 2 PC-9801 | 385112 | [385112-eggconsole-rune-worth-2-pc-9801.json](./385112-eggconsole-rune-worth-2-pc-9801.json) |
+| Eggconsole Schwarzschild II PC-9801 | 396876 | [396876-eggconsole-schwarzschild-ii-pc-9801.json](./396876-eggconsole-schwarzschild-ii-pc-9801.json) |
 | Eggconsole Seilane PC-8801MkIISR | 308640 | [308640-eggconsole-seilane-pc-8801mkiisr.json](./308640-eggconsole-seilane-pc-8801mkiisr.json) |
 | Eggconsole Silver Ghost PC-8801mkIISR | 317893 | [317893-eggconsole-silver-ghost-pc-8801mkiisr.json](./317893-eggconsole-silver-ghost-pc-8801mkiisr.json) |
 | Eggconsole Sorcerian PC-8801mkIISR | 304797 | [304797-eggconsole-sorcerian-pc-8801mkiisr.json](./304797-eggconsole-sorcerian-pc-8801mkiisr.json) |
@@ -2199,6 +2200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch Survivors | 335728 | [335728-eldritch-survivors.json](./335728-eldritch-survivors.json) |
 | Eldritch Tactics: Apocalypse Rising | 401589 | [401589-eldritch-tactics-apocalypse-rising.json](./401589-eldritch-tactics-apocalypse-rising.json) |
 | Eldritch Tactics: Lichtmond | 301293 | [301293-eldritch-tactics-lichtmond.json](./301293-eldritch-tactics-lichtmond.json) |
+| Eldritch Tales: Inheritance | 396841 | [396841-eldritch-tales-inheritance.json](./396841-eldritch-tales-inheritance.json) |
 | Eldritch Town | 258540 | [258540-eldritch-town.json](./258540-eldritch-town.json) |
 | Eldritch University | 121475 | [121475-eldritch-university.json](./121475-eldritch-university.json) |
 | Eldritch Verdict | 316630 | [316630-eldritch-verdict.json](./316630-eldritch-verdict.json) |
