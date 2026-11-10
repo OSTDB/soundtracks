@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geckorientalism | 370998 | [370998-geckorientalism.json](./370998-geckorientalism.json) |
 | Geckos & Deckos | 379367 | [379367-geckos-and-deckos.json](./379367-geckos-and-deckos.json) |
 | GeckoShop | 328356 | [328356-geckoshop.json](./328356-geckoshop.json) |
+| GeckoShop 2 | 404587 | [404587-geckoshop-2.json](./404587-geckoshop-2.json) |
 | Gecky The Deenosaur Stars In! Adventures In SunnyDoodle Swimmingland! | 367383 | [367383-gecky-the-deenosaur-stars-in-adventures-in-sunnydoodle-swimmingland.json](./367383-gecky-the-deenosaur-stars-in-adventures-in-sunnydoodle-swimmingland.json) |
 | Gector | 96220 | [96220-gector.json](./96220-gector.json) |
 | Gedaria | 176022 | [176022-gedaria.json](./176022-gedaria.json) |
@@ -4754,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl's Garden | 6106 | [6106-girls-garden.json](./6106-girls-garden.json) |
 | Girl's Memories | 295569 | [295569-girls-memories.json](./295569-girls-memories.json) |
 | GirLand | 286406 | [286406-girland.json](./286406-girland.json) |
+| Girlballs | 405112 | [405112-girlballs.json](./405112-girlballs.json) |
 | GirlDivers | 323303 | [323303-girldivers.json](./323303-girldivers.json) |
 | Girlfailure Art Club | 412374 | [412374-girlfailure-art-club.json](./412374-girlfailure-art-club.json) |
 | Girlfight 2024 | 170785 | [170785-girlfight-2024.json](./170785-girlfight-2024.json) |
