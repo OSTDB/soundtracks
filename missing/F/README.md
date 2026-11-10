@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabled Lands: Lords of the Rising Sun | 237354 | [237354-fabled-lands-lords-of-the-rising-sun.json](./237354-fabled-lands-lords-of-the-rising-sun.json) |
 | Fabled Lands: The Serpent King's Domain | 296671 | [296671-fabled-lands-the-serpent-kings-domain.json](./296671-fabled-lands-the-serpent-kings-domain.json) |
 | Fabled Legends: The Dark Piper | 61284 | [61284-fabled-legends-the-dark-piper.json](./61284-fabled-legends-the-dark-piper.json) |
+| Fabled Legends: The Dark Piper - Collector's Edition | 426088 | [426088-fabled-legends-the-dark-piper-collectors-edition.json](./426088-fabled-legends-the-dark-piper-collectors-edition.json) |
 | Fabled Style | 257984 | [257984-fabled-style.json](./257984-fabled-style.json) |
 | Fabledom | 231098 | [231098-fabledom.json](./231098-fabledom.json) |
 | Fablery | 408253 | [408253-fablery.json](./408253-fablery.json) |
@@ -439,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faction Z | 251929 | [251929-faction-z.json](./251929-faction-z.json) |
 | Factions | 335375 | [335375-factions.json](./335375-factions.json) |
 | Factions | 375893 | [375893-factions.json](./375893-factions.json) |
+| Factions of Fate | 426098 | [426098-factions-of-fate.json](./426098-factions-of-fate.json) |
 | Factions: Origins of Malu | 36031 | [36031-factions-origins-of-malu.json](./36031-factions-origins-of-malu.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
 | Factor Find | 243637 | [243637-factor-find.json](./243637-factor-find.json) |
@@ -2914,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmquest | 186552 | [186552-farmquest.json](./186552-farmquest.json) |
 | FarmRPG | 227832 | [227832-farmrpg.json](./227832-farmrpg.json) |
 | Farmscapes | 50452 | [50452-farmscapes.json](./50452-farmscapes.json) |
+| Farmscapes: Collector's Edition | 426090 | [426090-farmscapes-collectors-edition.json](./426090-farmscapes-collectors-edition.json) |
 | Farmshore: Out Past the Horizon | 422819 | [422819-farmshore-out-past-the-horizon.json](./422819-farmshore-out-past-the-horizon.json) |
 | Farmside | 239457 | [239457-farmside.json](./239457-farmside.json) |
 | Farmstead Story | 180933 | [180933-farmstead-story.json](./180933-farmstead-story.json) |
@@ -3694,7 +3697,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear for Sale: Sunnyvale Story - Collector’s Edition | 228227 | [228227-fear-for-sale-sunnyvale-story-collector-s-edition.json](./228227-fear-for-sale-sunnyvale-story-collector-s-edition.json) |
 | Fear for Sale: The 13 Keys - Collector's Edition | 93830 | [93830-fear-for-sale-the-13-keys-collectors-edition.json](./93830-fear-for-sale-the-13-keys-collectors-edition.json) |
 | Fear For Sale: The Curse of Whitefall - Collector's Edition | 283520 | [283520-fear-for-sale-the-curse-of-whitefall-collectors-edition.json](./283520-fear-for-sale-the-curse-of-whitefall-collectors-edition.json) |
+| Fear for Sale: The Dusk Wanderer - Collector's Edition | 426091 | [426091-fear-for-sale-the-dusk-wanderer-collectors-edition.json](./426091-fear-for-sale-the-dusk-wanderer-collectors-edition.json) |
 | Fear for Sale: The House on Black River | 101654 | [101654-fear-for-sale-the-house-on-black-river.json](./101654-fear-for-sale-the-house-on-black-river.json) |
+| Fear for Sale: The House on Black River - Collector's Edition | 426092 | [426092-fear-for-sale-the-house-on-black-river-collectors-edition.json](./426092-fear-for-sale-the-house-on-black-river-collectors-edition.json) |
 | Fear Frame | 389346 | [389346-fear-frame.json](./389346-fear-frame.json) |
 | Fear Half Factor | 88079 | [88079-fear-half-factor.json](./88079-fear-half-factor.json) |
 | Fear Hour | 423309 | [423309-fear-hour.json](./423309-fear-hour.json) |
@@ -4195,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fernbus Simulator: Top Class DD | 197492 | [197492-fernbus-simulator-top-class-dd.json](./197492-fernbus-simulator-top-class-dd.json) |
 | Fernhoof Grove: Riding Academy | 410336 | [410336-fernhoof-grove-riding-academy.json](./410336-fernhoof-grove-riding-academy.json) |
 | Fernocity | 272014 | [272014-fernocity.json](./272014-fernocity.json) |
+| Fernwick | 426033 | [426033-fernwick.json](./426033-fernwick.json) |
 | Fernz Gate | 104942 | [104942-fernz-gate.json](./104942-fernz-gate.json) |
 | Ferocious | 152017 | [152017-ferocious.json](./152017-ferocious.json) |
 | Ferra | 344144 | [344144-ferra.json](./344144-ferra.json) |
@@ -11327,6 +11333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foto Flash 2 | 107872 | [107872-foto-flash-2.json](./107872-foto-flash-2.json) |
 | Foto Frenzy | 78070 | [78070-foto-frenzy.json](./78070-foto-frenzy.json) |
 | Foto Showdown | 47903 | [47903-foto-showdown.json](./47903-foto-showdown.json) |
+| Fotografias de um Visitante | 426080 | [426080-fotografias-de-um-visitante.json](./426080-fotografias-de-um-visitante.json) |
 | FotoMuseo 3D | 420770 | [420770-fotomuseo-3d.json](./420770-fotomuseo-3d.json) |
 | Fotress S | 245985 | [245985-fotress-s.json](./245985-fotress-s.json) |
 | Foturians: Myth and Reality | 399697 | [399697-foturians-myth-and-reality.json](./399697-foturians-myth-and-reality.json) |
