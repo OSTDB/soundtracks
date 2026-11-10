@@ -6347,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Rail Go! | 351104 | [351104-retro-rail-go.json](./351104-retro-rail-go.json) |
 | Retro Rally! | 274910 | [274910-retro-rally.json](./274910-retro-rally.json) |
 | Retro Relics | 312194 | [312194-retro-relics.json](./312194-retro-relics.json) |
+| Retro Revengers | 260551 | [260551-retro-revengers.json](./260551-retro-revengers.json) |
 | Retro Revolution 2 | 63230 | [63230-retro-revolution-2.json](./63230-retro-revolution-2.json) |
 | Retro Rewind: Video Store Simulator | 346334 | [346334-retro-rewind-video-store-simulator.json](./346334-retro-rewind-video-store-simulator.json) |
 | Retro Ride | 196982 | [196982-retro-ride.json](./196982-retro-ride.json) |
