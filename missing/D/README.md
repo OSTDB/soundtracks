@@ -4345,6 +4345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadlist | 387444 | [387444-deadlist.json](./387444-deadlist.json) |
 | Deadlivery Night | 375130 | [375130-deadlivery-night.json](./375130-deadlivery-night.json) |
 | DeadLock | 166073 | [166073-deadlock.json](./166073-deadlock.json) |
+| Deadlock II: Shrine Wars | 10172 | [10172-deadlock-ii-shrine-wars.json](./10172-deadlock-ii-shrine-wars.json) |
 | Deadlock Station | 240598 | [240598-deadlock-station.json](./240598-deadlock-station.json) |
 | Deadlock: Planetary Conquest | 10171 | [10171-deadlock-planetary-conquest.json](./10171-deadlock-planetary-conquest.json) |
 | Deadlocked | 177277 | [177277-deadlocked.json](./177277-deadlocked.json) |
@@ -17199,6 +17200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams: Dragons, Dungeons & Templates | 344458 | [344458-dreams-dragons-dungeons-and-templates.json](./344458-dreams-dragons-dungeons-and-templates.json) |
 | Dreams: Unlimited links | 266422 | [266422-dreams-unlimited-links.json](./266422-dreams-unlimited-links.json) |
 | Dreams: VR | 344447 | [344447-dreams-vr.json](./344447-dreams-vr.json) |
+| Dreamscape | 10245 | [10245-dreamscape.json](./10245-dreamscape.json) |
 | Dreamscape 2 | 188311 | [188311-dreamscape-2.json](./188311-dreamscape-2.json) |
 | Dreamscape Abyss | 258732 | [258732-dreamscape-abyss.json](./258732-dreamscape-abyss.json) |
 | Dreamscape Highschool | 337452 | [337452-dreamscape-highschool.json](./337452-dreamscape-highschool.json) |
@@ -17722,6 +17724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving School Classics 2019 | 245628 | [245628-driving-school-classics-2019.json](./245628-driving-school-classics-2019.json) |
 | Driving School Original | 120065 | [120065-driving-school-original.json](./120065-driving-school-original.json) |
 | Driving School Sim | 410826 | [410826-driving-school-sim.json](./410826-driving-school-sim.json) |
+| Driving School Simulator | 10248 | [10248-driving-school-simulator.json](./10248-driving-school-simulator.json) |
 | Driving School Simulator: EVO | 383520 | [383520-driving-school-simulator-evo.json](./383520-driving-school-simulator-evo.json) |
 | Driving Simulations Collection | 145121 | [145121-driving-simulations-collection.json](./145121-driving-simulations-collection.json) |
 | Driving Simulator | 159645 | [159645-driving-simulator.json](./159645-driving-simulator.json) |
