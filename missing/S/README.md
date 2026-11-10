@@ -11961,6 +11961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sine Requie: Snake Eyes | 76805 | [76805-sine-requie-snake-eyes.json](./76805-sine-requie-snake-eyes.json) |
 | Sine the Game | 140730 | [140730-sine-the-game.json](./140730-sine-the-game.json) |
 | Sine Wave City | 129393 | [129393-sine-wave-city.json](./129393-sine-wave-city.json) |
+| SinEater | 415666 | [415666-sineater.json](./415666-sineater.json) |
 | Sinemareul Butakae | 215846 | [215846-sinemareul-butakae.json](./215846-sinemareul-butakae.json) |
 | Sinergy | 268964 | [268964-sinergy.json](./268964-sinergy.json) |
 | Sinesperia | 317471 | [317471-sinesperia.json](./317471-sinesperia.json) |
@@ -15695,6 +15696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Pass | 19220 | [19220-snake-pass.json](./19220-snake-pass.json) |
 | Snake Pit | 188996 | [188996-snake-pit.json](./188996-snake-pit.json) |
 | Snake Pit | 24011 | [24011-snake-pit.json](./24011-snake-pit.json) |
+| Snake Pit | 415634 | [415634-snake-pit.json](./415634-snake-pit.json) |
 | Snake Plissken's Escape | 67295 | [67295-snake-plisskens-escape.json](./67295-snake-plisskens-escape.json) |
 | Snake Princess | 350536 | [350536-snake-princess.json](./350536-snake-princess.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
@@ -16578,6 +16580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
 | So Blonde | 5171 | [5171-so-blonde.json](./5171-so-blonde.json) |
 | So Blonde: Back to the Island | 50955 | [50955-so-blonde-back-to-the-island.json](./50955-so-blonde-back-to-the-island.json) |
+| So Close | 415626 | [415626-so-close.json](./415626-so-close.json) |
 | So Far | 60184 | [60184-so-far.json](./60184-so-far.json) |
 | So Far, So High | 191647 | [191647-so-far-so-high.json](./191647-so-far-so-high.json) |
 | So Fart Away | 338631 | [338631-so-fart-away.json](./338631-so-fart-away.json) |
