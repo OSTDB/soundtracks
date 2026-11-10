@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasite | 33748 | [33748-parasite.json](./33748-parasite.json) |
 | Parasite | 376608 | [376608-parasite.json](./376608-parasite.json) |
 | Parasite Black | 239305 | [239305-parasite-black.json](./239305-parasite-black.json) |
+| Parasite Elevator | 419438 | [419438-parasite-elevator.json](./419438-parasite-elevator.json) |
 | Parasite Eve | 7357 | [7357-parasite-eve.json](./7357-parasite-eve.json) |
 | Parasite Eve II | 7358 | [7358-parasite-eve-ii.json](./7358-parasite-eve-ii.json) |
 | Parasite in City | 131839 | [131839-parasite-in-city.json](./131839-parasite-in-city.json) |
@@ -2442,6 +2443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parchis Club | 204683 | [204683-parchis-club.json](./204683-parchis-club.json) |
 | Parchisi | 209416 | [209416-parchisi.json](./209416-parchisi.json) |
 | Parchisi Star Online | 138606 | [138606-parchisi-star-online.json](./138606-parchisi-star-online.json) |
+| Pardanthropy | 419459 | [419459-pardanthropy.json](./419459-pardanthropy.json) |
 | Pardon My French Toast | 206041 | [206041-pardon-my-french-toast.json](./206041-pardon-my-french-toast.json) |
 | Pardus | 327913 | [327913-pardus.json](./327913-pardus.json) |
 | Pareicopse | 323598 | [323598-pareicopse.json](./323598-pareicopse.json) |
@@ -8152,6 +8154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piscirazzi | 244144 | [244144-piscirazzi.json](./244144-piscirazzi.json) |
 | Piscis x Machina 4.44 You are Fish | 358446 | [358446-piscis-x-machina-4-44-you-are-fish.json](./358446-piscis-x-machina-4-44-you-are-fish.json) |
 | Piske & Usagi's Short Trip | 263570 | [263570-piske-and-usagis-short-trip.json](./263570-piske-and-usagis-short-trip.json) |
+| Piso 13 | 419402 | [419402-piso-13.json](./419402-piso-13.json) |
 | Piso 6 | 366364 | [366364-piso-6.json](./366364-piso-6.json) |
 | Piso Zero | 272302 | [272302-piso-zero.json](./272302-piso-zero.json) |
 | Piss | 136133 | [136133-piss.json](./136133-piss.json) |
@@ -9815,6 +9818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetary Control! | 149888 | [149888-planetary-control.json](./149888-planetary-control.json) |
 | Planetary Defense | 164862 | [164862-planetary-defense.json](./164862-planetary-defense.json) |
 | Planetary Defense | 408546 | [408546-planetary-defense.json](./408546-planetary-defense.json) |
+| Planetary Defense | 419404 | [419404-planetary-defense.json](./419404-planetary-defense.json) |
 | Planetary Defense Duel | 143416 | [143416-planetary-defense-duel.json](./143416-planetary-defense-duel.json) |
 | Planetary Defense Force | 129787 | [129787-planetary-defense-force.json](./129787-planetary-defense-force.json) |
 | Planetary Defense: An Orbital Turret Defense System | 210846 | [210846-planetary-defense-an-orbital-turret-defense-system.json](./210846-planetary-defense-an-orbital-turret-defense-system.json) |
