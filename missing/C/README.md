@@ -15565,6 +15565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporate Fat Cat | 250780 | [250780-corporate-fat-cat.json](./250780-corporate-fat-cat.json) |
 | Corporate Fury | 357584 | [357584-corporate-fury.json](./357584-corporate-fury.json) |
 | Corporate Hell | 391617 | [391617-corporate-hell.json](./391617-corporate-hell.json) |
+| Corporate Lifestyle Simulator | 16810 | [16810-corporate-lifestyle-simulator.json](./16810-corporate-lifestyle-simulator.json) |
 | Corporate Lockdown | 250005 | [250005-corporate-lockdown.json](./250005-corporate-lockdown.json) |
 | Corporate Property | 63374 | [63374-corporate-property.json](./63374-corporate-property.json) |
 | Corporate Pursuit | 71364 | [71364-corporate-pursuit.json](./71364-corporate-pursuit.json) |
