@@ -1760,6 +1760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer's Army | 405706 | [405706-necromancers-army.json](./405706-necromancers-army.json) |
 | Necromancer's Gift | 173317 | [173317-necromancers-gift.json](./173317-necromancers-gift.json) |
 | Necromancer's Revenge | 301880 | [301880-necromancers-revenge.json](./301880-necromancers-revenge.json) |
+| Necromancer's Workshop | 409179 | [409179-necromancers-workshop.json](./409179-necromancers-workshop.json) |
 | Necromancers' Arena | 249008 | [249008-necromancers-arena.json](./249008-necromancers-arena.json) |
 | Necromancia | 302197 | [302197-necromancia.json](./302197-necromancia.json) |
 | Necromania: Trap of Darkness | 68965 | [68965-necromania-trap-of-darkness.json](./68965-necromania-trap-of-darkness.json) |
