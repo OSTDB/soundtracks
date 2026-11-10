@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magus in Mystic Geometries. | 123591 | [123591-magus-in-mystic-geometries.json](./123591-magus-in-mystic-geometries.json) |
 | Magus Over Fool | 115364 | [115364-magus-over-fool.json](./115364-magus-over-fool.json) |
 | Magus Pocus | 212981 | [212981-magus-pocus.json](./212981-magus-pocus.json) |
+| Magus Relics: The Majimono | 420053 | [420053-magus-relics-the-majimono.json](./420053-magus-relics-the-majimono.json) |
 | Magus Tower | 304721 | [304721-magus-tower.json](./304721-magus-tower.json) |
 | Magusian | 392390 | [392390-magusian.json](./392390-magusian.json) |
 | MaguSphere: Magical Cannon Girls | 122296 | [122296-magusphere-magical-cannon-girls.json](./122296-magusphere-magical-cannon-girls.json) |
@@ -3414,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansion of Hidden Souls | 5402 | [5402-mansion-of-hidden-souls.json](./5402-mansion-of-hidden-souls.json) |
 | Mansion of Horrors | 102362 | [102362-mansion-of-horrors.json](./102362-mansion-of-horrors.json) |
 | Mansion of Memories | 266097 | [266097-mansion-of-memories.json](./266097-mansion-of-memories.json) |
+| Mansion of Relics | 420047 | [420047-mansion-of-relics.json](./420047-mansion-of-relics.json) |
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
 | Mansion Tour | 225561 | [225561-mansion-tour.json](./225561-mansion-tour.json) |
 | MansionDungeon | 404246 | [404246-mansiondungeon.json](./404246-mansiondungeon.json) |
@@ -14377,6 +14379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misplaced | 183207 | [183207-misplaced.json](./183207-misplaced.json) |
 | Misplaced | 300034 | [300034-misplaced.json](./300034-misplaced.json) |
 | Misplaced | 413185 | [413185-misplaced.json](./413185-misplaced.json) |
+| Misplaced | 420050 | [420050-misplaced.json](./420050-misplaced.json) |
 | Misplaced. | 180566 | [180566-misplaced.json](./180566-misplaced.json) |
 | Misremembered Memories | 236726 | [236726-misremembered-memories.json](./236726-misremembered-memories.json) |
 | Miss | 242777 | [242777-miss.json](./242777-miss.json) |
