@@ -1736,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer for a Week | 303930 | [303930-necromancer-for-a-week.json](./303930-necromancer-for-a-week.json) |
 | Necromancer Nonsense | 347151 | [347151-necromancer-nonsense.json](./347151-necromancer-nonsense.json) |
 | Necromancer Park | 420312 | [420312-necromancer-park.json](./420312-necromancer-park.json) |
+| Necromancer Returns | 108202 | [108202-necromancer-returns.json](./108202-necromancer-returns.json) |
 | Necromancer Rising | 66572 | [66572-necromancer-rising.json](./66572-necromancer-rising.json) |
 | Necromancer: Ash & Bone | 418262 | [418262-necromancer-ash-and-bone.json](./418262-necromancer-ash-and-bone.json) |
 | Necromancer: Winter | 156183 | [156183-necromancer-winter.json](./156183-necromancer-winter.json) |
