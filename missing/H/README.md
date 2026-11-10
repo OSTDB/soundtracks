@@ -4412,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Revealed II | 139895 | [139895-hell-revealed-ii.json](./139895-hell-revealed-ii.json) |
 | Hell Road VR | 143019 | [143019-hell-road-vr.json](./143019-hell-road-vr.json) |
 | Hell Runner | 229202 | [229202-hell-runner.json](./229202-hell-runner.json) |
+| Hell Runner | 403272 | [403272-hell-runner.json](./403272-hell-runner.json) |
 | Hell Scream | 271624 | [271624-hell-scream.json](./271624-hell-scream.json) |
 | Hell Shooter | 368654 | [368654-hell-shooter.json](./368654-hell-shooter.json) |
 | Hell Shuffle | 149820 | [149820-hell-shuffle.json](./149820-hell-shuffle.json) |
@@ -4576,6 +4577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellfire Saga | 234906 | [234906-hellfire-saga.json](./234906-hellfire-saga.json) |
 | Hellfire Tactics | 208253 | [208253-hellfire-tactics.json](./208253-hellfire-tactics.json) |
 | Hellfire Zone | 68755 | [68755-hellfire-zone.json](./68755-hellfire-zone.json) |
+| Hellfire: Howl Or Weep | 403286 | [403286-hellfire-howl-or-weep.json](./403286-hellfire-howl-or-weep.json) |
 | Hellfire: Reborn | 274131 | [274131-hellfire-reborn.json](./274131-hellfire-reborn.json) |
 | HellFire: The Summoning | 27690 | [27690-hellfire-the-summoning.json](./27690-hellfire-the-summoning.json) |
 | Hellfire: Wukong | 392184 | [392184-hellfire-wukong.json](./392184-hellfire-wukong.json) |
