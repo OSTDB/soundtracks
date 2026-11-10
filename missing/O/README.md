@@ -3987,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Abyss: Cipher Division | 384854 | [384854-orbital-abyss-cipher-division.json](./384854-orbital-abyss-cipher-division.json) |
 | Orbital Approach | 207566 | [207566-orbital-approach.json](./207566-orbital-approach.json) |
 | Orbital Bombardment | 237078 | [237078-orbital-bombardment.json](./237078-orbital-bombardment.json) |
+| Orbital Bullet | 122831 | [122831-orbital-bullet.json](./122831-orbital-bullet.json) |
 | Orbital Cargo Division | 224726 | [224726-orbital-cargo-division.json](./224726-orbital-cargo-division.json) |
 | Orbital Chaos | 381524 | [381524-orbital-chaos.json](./381524-orbital-chaos.json) |
 | Orbital Checkpoint | 413803 | [413803-orbital-checkpoint.json](./413803-orbital-checkpoint.json) |
