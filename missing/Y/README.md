@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomo | 308011 | [308011-yomo.json](./308011-yomo.json) |
 | Yomotsu | 110719 | [110719-yomotsu.json](./110719-yomotsu.json) |
 | Yomp for Zhi | 312506 | [312506-yomp-for-zhi.json](./312506-yomp-for-zhi.json) |
+| Yon Paradox | 19020 | [19020-yon-paradox.json](./19020-yon-paradox.json) |
 | Yon-nin Mahjong | 55857 | [55857-yon-nin-mahjong.json](./55857-yon-nin-mahjong.json) |
 | Yona Yona | 314822 | [314822-yona-yona.json](./314822-yona-yona.json) |
 | Yondel | 380777 | [380777-yondel.json](./380777-yondel.json) |
