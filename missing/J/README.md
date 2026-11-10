@@ -2544,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Madden Football | 13240 | [13240-john-madden-football.json](./13240-john-madden-football.json) |
 | John Madden Football | 295034 | [295034-john-madden-football.json](./295034-john-madden-football.json) |
 | John Madden Football | 295035 | [295035-john-madden-football.json](./295035-john-madden-football.json) |
+| John Madden Football | 4400 | [4400-john-madden-football.json](./4400-john-madden-football.json) |
 | John Madden Football | 4587 | [4587-john-madden-football.json](./4587-john-madden-football.json) |
 | John Madden Football '92 | 4588 | [4588-john-madden-football-92.json](./4588-john-madden-football-92.json) |
 | John Madden Football '93: Championship Edition | 4482 | [4482-john-madden-football-93-championship-edition.json](./4482-john-madden-football-93-championship-edition.json) |
