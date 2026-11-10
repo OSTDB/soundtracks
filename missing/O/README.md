@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: Munch's Oddysee - Limited Edition | 136115 | [136115-oddworld-munchs-oddysee-limited-edition.json](./136115-oddworld-munchs-oddysee-limited-edition.json) |
 | Oddworld: Munch's Oddysee HD | 51329 | [51329-oddworld-munchs-oddysee-hd.json](./51329-oddworld-munchs-oddysee-hd.json) |
 | Oddworld: New 'n' Tasty | 5552 | [5552-oddworld-new-n-tasty.json](./5552-oddworld-new-n-tasty.json) |
+| Oddworld: New 'n' Tasty - Alf's Escape | 26110 | [26110-oddworld-new-n-tasty-alfs-escape.json](./26110-oddworld-new-n-tasty-alfs-escape.json) |
 | Oddworld: New 'n' Tasty - Deluxe Edition | 132146 | [132146-oddworld-new-n-tasty-deluxe-edition.json](./132146-oddworld-new-n-tasty-deluxe-edition.json) |
 | Oddworld: New 'n' Tasty - Limited Edition | 139855 | [139855-oddworld-new-n-tasty-limited-edition.json](./139855-oddworld-new-n-tasty-limited-edition.json) |
 | Oddworld: Soulstorm | 18357 | [18357-oddworld-soulstorm.json](./18357-oddworld-soulstorm.json) |
@@ -4820,6 +4821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoboke Ninja Colosseum | 38118 | [38118-otoboke-ninja-colosseum.json](./38118-otoboke-ninja-colosseum.json) |
 | Otoca D'or | 395764 | [395764-otoca-dor.json](./395764-otoca-dor.json) |
 | Otocky | 41234 | [41234-otocky.json](./41234-otocky.json) |
+| Otogi 2: Immortal Warriors | 5976 | [5976-otogi-2-immortal-warriors.json](./5976-otogi-2-immortal-warriors.json) |
 | Otogi Banashi Taisen | 228629 | [228629-otogi-banashi-taisen.json](./228629-otogi-banashi-taisen.json) |
 | Otogi Ningyou Geki: Hansel's Gretel | 395360 | [395360-otogi-ningyou-geki-hansels-gretel.json](./395360-otogi-ningyou-geki-hansels-gretel.json) |
 | Otogi: Myth of Demons | 5975 | [5975-otogi-myth-of-demons.json](./5975-otogi-myth-of-demons.json) |
@@ -5774,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcooked! All You Can Eat: The Overcooked Birthday Party | 182255 | [182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json](./182255-overcooked-all-you-can-eat-the-overcooked-birthday-party.json) |
 | Overcooked!: Special Edition | 51998 | [51998-overcooked-special-edition.json](./51998-overcooked-special-edition.json) |
 | Overcooked!: The Festive Seasoning | 26255 | [26255-overcooked-the-festive-seasoning.json](./26255-overcooked-the-festive-seasoning.json) |
+| Overcooked!: The Lost Morsel | 25775 | [25775-overcooked-the-lost-morsel.json](./25775-overcooked-the-lost-morsel.json) |
 | Overcraft | 113148 | [113148-overcraft.json](./113148-overcraft.json) |
 | Overcrowded | 185147 | [185147-overcrowded.json](./185147-overcrowded.json) |
 | Overcrowded: Tycoon | 200743 | [200743-overcrowded-tycoon.json](./200743-overcrowded-tycoon.json) |
