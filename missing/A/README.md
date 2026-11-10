@@ -7385,6 +7385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Zombie Death | 15189 | [15189-alien-zombie-death.json](./15189-alien-zombie-death.json) |
 | Alien: Blackout | 112657 | [112657-alien-blackout.json](./112657-alien-blackout.json) |
 | Alien: Isolation - Corporate Lockdown | 15459 | [15459-alien-isolation-corporate-lockdown.json](./15459-alien-isolation-corporate-lockdown.json) |
+| Alien: Isolation - Last Survivor | 15464 | [15464-alien-isolation-last-survivor.json](./15464-alien-isolation-last-survivor.json) |
 | Alien: Isolation - Lost Contact | 15555 | [15555-alien-isolation-lost-contact.json](./15555-alien-isolation-lost-contact.json) |
 | Alien: Isolation - Ripley Edition | 46714 | [46714-alien-isolation-ripley-edition.json](./46714-alien-isolation-ripley-edition.json) |
 | Alien: Isolation - Safe Haven | 15552 | [15552-alien-isolation-safe-haven.json](./15552-alien-isolation-safe-haven.json) |
@@ -11376,6 +11377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Hour Another Planet | 293093 | [293093-another-hour-another-planet.json](./293093-another-hour-another-planet.json) |
 | Another Late Night | 391875 | [391875-another-late-night.json](./391875-another-late-night.json) |
 | Another Level | 348453 | [348453-another-level.json](./348453-another-level.json) |
+| Another Lost Phone: Laura's Story | 55048 | [55048-another-lost-phone-lauras-story.json](./55048-another-lost-phone-lauras-story.json) |
 | Another Man's Wife | 389629 | [389629-another-mans-wife.json](./389629-another-mans-wife.json) |
 | Another Memories | 45434 | [45434-another-memories.json](./45434-another-memories.json) |
 | Another Mind | 74800 | [74800-another-mind.json](./74800-another-mind.json) |
@@ -14124,6 +14126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of the Titans | 368365 | [368365-arena-of-the-titans.json](./368365-arena-of-the-titans.json) |
 | Arena of Trials | 398163 | [398163-arena-of-trials.json](./398163-arena-of-trials.json) |
 | Arena of Trophies | 297789 | [297789-arena-of-trophies.json](./297789-arena-of-trophies.json) |
+| Arena of Valor | 55044 | [55044-arena-of-valor.json](./55044-arena-of-valor.json) |
 | Arena Quest RPG | 56990 | [56990-arena-quest-rpg.json](./56990-arena-quest-rpg.json) |
 | Arena Renovation | 110384 | [110384-arena-renovation.json](./110384-arena-renovation.json) |
 | Arena Returns | 351798 | [351798-arena-returns.json](./351798-arena-returns.json) |
@@ -17461,7 +17464,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
