@@ -4114,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PegIdle | 293056 | [293056-pegidle.json](./293056-pegidle.json) |
 | PegIt | 92873 | [92873-pegit.json](./92873-pegit.json) |
 | Peglotto! | 389839 | [389839-peglotto.json](./389839-peglotto.json) |
+| Pegote | 398714 | [398714-pegote.json](./398714-pegote.json) |
 | PegPigeon | 405549 | [405549-pegpigeon.json](./405549-pegpigeon.json) |
 | Pegs of Hell | 416008 | [416008-pegs-of-hell.json](./416008-pegs-of-hell.json) |
 | Pegs X Stickers | 399929 | [399929-pegs-x-stickers.json](./399929-pegs-x-stickers.json) |
@@ -4455,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbra: Requiem | 8945 | [8945-penumbra-requiem.json](./8945-penumbra-requiem.json) |
 | Penumbris Doña | 325701 | [325701-penumbris-dona.json](./325701-penumbris-dona.json) |
 | Peojeul Pooh | 61672 | [61672-peojeul-pooh.json](./61672-peojeul-pooh.json) |
+| Peony Plague | 398720 | [398720-peony-plague.json](./398720-peony-plague.json) |
 | Peony's Eternity | 398760 | [398760-peonys-eternity.json](./398760-peonys-eternity.json) |
 | People | 117254 | [117254-people.json](./117254-people.json) |
 | People & Places Trivia | 87562 | [87562-people-and-places-trivia.json](./87562-people-and-places-trivia.json) |
