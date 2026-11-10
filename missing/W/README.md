@@ -9645,6 +9645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wurm: Journey to the Center of the Earth! | 48112 | [48112-wurm-journey-to-the-center-of-the-earth.json](./48112-wurm-journey-to-the-center-of-the-earth.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
 | Wurps | 91583 | [91583-wurps.json](./91583-wurps.json) |
+| Wurroom | 122448 | [122448-wurroom.json](./122448-wurroom.json) |
 | Wurst and Glory | 415115 | [415115-wurst-and-glory.json](./415115-wurst-and-glory.json) |
 | Wurst Defender Coop Edition | 76440 | [76440-wurst-defender-coop-edition.json](./76440-wurst-defender-coop-edition.json) |
 | Wuru Painting Scroll: Romance of Heaven and Earth | 205215 | [205215-wuru-painting-scroll-romance-of-heaven-and-earth.json](./205215-wuru-painting-scroll-romance-of-heaven-and-earth.json) |
