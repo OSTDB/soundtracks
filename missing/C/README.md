@@ -19961,6 +19961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuba2077 | 170669 | [170669-cuba2077.json](./170669-cuba2077.json) |
 | Cubactory | 346345 | [346345-cubactory.json](./346345-cubactory.json) |
 | Cubage | 93924 | [93924-cubage.json](./93924-cubage.json) |
+| Cuban Missile Crisis | 35591 | [35591-cuban-missile-crisis.json](./35591-cuban-missile-crisis.json) |
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
 | Cubanoids | 110923 | [110923-cubanoids.json](./110923-cubanoids.json) |
 | CuBB | 122142 | [122142-cubb.json](./122142-cubb.json) |
@@ -20940,6 +20941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Roots | 36507 | [36507-cursed-roots.json](./36507-cursed-roots.json) |
 | Cursed sarcophagus | 284994 | [284994-cursed-sarcophagus.json](./284994-cursed-sarcophagus.json) |
 | Cursed Shorts | 363058 | [363058-cursed-shorts.json](./363058-cursed-shorts.json) |
+| Cursed Sight | 35489 | [35489-cursed-sight.json](./35489-cursed-sight.json) |
 | Cursed Silence | 269273 | [269273-cursed-silence.json](./269273-cursed-silence.json) |
 | Cursed Soul | 117305 | [117305-cursed-soul.json](./117305-cursed-soul.json) |
 | Cursed Soul | 183210 | [183210-cursed-soul.json](./183210-cursed-soul.json) |
