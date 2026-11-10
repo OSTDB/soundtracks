@@ -3773,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms: Merge & Build | 291982 | [291982-kingdoms-merge-and-build.json](./291982-kingdoms-merge-and-build.json) |
 | Kingdoms: The Crown | 100212 | [100212-kingdoms-the-crown.json](./100212-kingdoms-the-crown.json) |
 | KingdomScape | 329104 | [329104-kingdomscape.json](./329104-kingdomscape.json) |
+| KingFish | 401334 | [401334-kingfish.json](./401334-kingfish.json) |
 | Kingfisher: An Autism Tale | 388913 | [388913-kingfisher-an-autism-tale.json](./388913-kingfisher-an-autism-tale.json) |
 | Kinghold | 423649 | [423649-kinghold.json](./423649-kinghold.json) |
 | KingHunt | 76626 | [76626-kinghunt.json](./76626-kinghunt.json) |
@@ -4869,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns: Platinum Edition | 274494 | [274494-knights-and-guns-platinum-edition.json](./274494-knights-and-guns-platinum-edition.json) |
 | Knights & Guns: Premium Edition | 233947 | [233947-knights-and-guns-premium-edition.json](./233947-knights-and-guns-premium-edition.json) |
 | Knights & Guns: Prime Edition | 270795 | [270795-knights-and-guns-prime-edition.json](./270795-knights-and-guns-prime-edition.json) |
+| Knights & Guns: Pro Edition | 401351 | [401351-knights-and-guns-pro-edition.json](./401351-knights-and-guns-pro-edition.json) |
 | Knights & Guns: Silver Edition | 254689 | [254689-knights-and-guns-silver-edition.json](./254689-knights-and-guns-silver-edition.json) |
 | Knights & Guns: Special Edition | 324371 | [324371-knights-and-guns-special-edition.json](./324371-knights-and-guns-special-edition.json) |
 | Knights & Guns: Summer Edition | 312056 | [312056-knights-and-guns-summer-edition.json](./312056-knights-and-guns-summer-edition.json) |
