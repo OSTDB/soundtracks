@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macaroni in a Pot | 299156 | [299156-macaroni-in-a-pot.json](./299156-macaroni-in-a-pot.json) |
 | MacArthur's War: Battles for Korea | 62152 | [62152-macarthurs-war-battles-for-korea.json](./62152-macarthurs-war-battles-for-korea.json) |
 | Macau Midnight Madness | 293140 | [293140-macau-midnight-madness.json](./293140-macau-midnight-madness.json) |
+| Macbat 64: Journey of a Nice Chap | 27974 | [27974-macbat-64-journey-of-a-nice-chap.json](./27974-macbat-64-journey-of-a-nice-chap.json) |
 | Macbeth | 25915 | [25915-macbeth.json](./25915-macbeth.json) |
 | MacBlaster | 93358 | [93358-macblaster.json](./93358-macblaster.json) |
 | Macdows 95 | 110386 | [110386-macdows-95.json](./110386-macdows-95.json) |
@@ -5030,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Guardians of the Galaxy: Cloud Version | 152370 | [152370-marvels-guardians-of-the-galaxy-cloud-version.json](./152370-marvels-guardians-of-the-galaxy-cloud-version.json) |
 | Marvel's Guardians of the Galaxy: Cosmic Deluxe Edition | 153019 | [153019-marvels-guardians-of-the-galaxy-cosmic-deluxe-edition.json](./153019-marvels-guardians-of-the-galaxy-cosmic-deluxe-edition.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 1: Tangled Up in Blue | 127039 | [127039-marvels-guardians-of-the-galaxy-the-telltale-series-episode-1-tangled-up-in-blue.json](./127039-marvels-guardians-of-the-galaxy-the-telltale-series-episode-1-tangled-up-in-blue.json) |
+| Marvel's Guardians of the Galaxy: The Telltale Series - Episode 2: Under Pressure | 127040 | [127040-marvels-guardians-of-the-galaxy-the-telltale-series-episode-2-under-pressure.json](./127040-marvels-guardians-of-the-galaxy-the-telltale-series-episode-2-under-pressure.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 3: More than a Feeling | 127041 | [127041-marvels-guardians-of-the-galaxy-the-telltale-series-episode-3-more-than-a-feeling.json](./127041-marvels-guardians-of-the-galaxy-the-telltale-series-episode-3-more-than-a-feeling.json) |
 | Marvel's Guardians of the Galaxy: The Telltale Series - Episode 4: Who Needs You | 127042 | [127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json](./127042-marvels-guardians-of-the-galaxy-the-telltale-series-episode-4-who-needs-you.json) |
 | Marvel's Iron Man VR: Digital Deluxe Edition | 255653 | [255653-marvels-iron-man-vr-digital-deluxe-edition.json](./255653-marvels-iron-man-vr-digital-deluxe-edition.json) |
@@ -11917,6 +11919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic: Heroes Kingdoms | 66416 | [66416-might-and-magic-heroes-kingdoms.json](./66416-might-and-magic-heroes-kingdoms.json) |
 | Might & Magic: Heroes Online | 20177 | [20177-might-and-magic-heroes-online.json](./20177-might-and-magic-heroes-online.json) |
 | Might & Magic: Heroes VI | 373 | [373-might-and-magic-heroes-vi.json](./373-might-and-magic-heroes-vi.json) |
+| Might & Magic: Heroes VI - Danse Macabre | 13458 | [13458-might-and-magic-heroes-vi-danse-macabre.json](./13458-might-and-magic-heroes-vi-danse-macabre.json) |
 | Might & Magic: Heroes VI - Pirates of the Savage Sea | 13457 | [13457-might-and-magic-heroes-vi-pirates-of-the-savage-sea.json](./13457-might-and-magic-heroes-vi-pirates-of-the-savage-sea.json) |
 | Might & Magic: Heroes VI - Shades of Darkness | 8112 | [8112-might-and-magic-heroes-vi-shades-of-darkness.json](./8112-might-and-magic-heroes-vi-shades-of-darkness.json) |
 | Might & Magic: Heroes VI Gold Edition | 53353 | [53353-might-and-magic-heroes-vi-gold-edition.json](./53353-might-and-magic-heroes-vi-gold-edition.json) |
@@ -13955,6 +13958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minute Knights | 221379 | [221379-minute-knights.json](./221379-minute-knights.json) |
 | Minute Man | 372711 | [372711-minute-man.json](./372711-minute-man.json) |
 | Minute Marriage | 304760 | [304760-minute-marriage.json](./304760-minute-marriage.json) |
+| Minute of Islands | 121524 | [121524-minute-of-islands.json](./121524-minute-of-islands.json) |
 | Minute of Mayhem | 108168 | [108168-minute-of-mayhem.json](./108168-minute-of-mayhem.json) |
 | Minute to Win It | 20162 | [20162-minute-to-win-it.json](./20162-minute-to-win-it.json) |
 | Minute to Win It | 418289 | [418289-minute-to-win-it.json](./418289-minute-to-win-it.json) |
@@ -16457,6 +16461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Fantasy 2: Exposed | 120738 | [120738-monster-girl-fantasy-2-exposed.json](./120738-monster-girl-fantasy-2-exposed.json) |
 | Monster Girl Incursion | 169154 | [169154-monster-girl-incursion.json](./169154-monster-girl-incursion.json) |
 | Monster Girl Invasion | 193616 | [193616-monster-girl-invasion.json](./193616-monster-girl-invasion.json) |
+| Monster Girl Island: Prologue | 119504 | [119504-monster-girl-island-prologue.json](./119504-monster-girl-island-prologue.json) |
 | Monster Girl Jungle | 375969 | [375969-monster-girl-jungle.json](./375969-monster-girl-jungle.json) |
 | Monster Girl Maker | 108697 | [108697-monster-girl-maker.json](./108697-monster-girl-maker.json) |
 | Monster Girl Maker 2 | 362265 | [362265-monster-girl-maker-2.json](./362265-monster-girl-maker-2.json) |
