@@ -2014,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abda Redeemer: Space Alien Invasion | 167451 | [167451-abda-redeemer-space-alien-invasion.json](./167451-abda-redeemer-space-alien-invasion.json) |
 | Abdicate | 377428 | [377428-abdicate.json](./377428-abdicate.json) |
 | Abdogtion | 287439 | [287439-abdogtion.json](./287439-abdogtion.json) |
+| Abdomen Expansion | 403251 | [403251-abdomen-expansion.json](./403251-abdomen-expansion.json) |
 | Abducidos | 312868 | [312868-abducidos.json](./312868-abducidos.json) |
 | Abduct 'em | 392218 | [392218-abduct-em.json](./392218-abduct-em.json) |
 | Abduct and Destroy! | 182543 | [182543-abduct-and-destroy.json](./182543-abduct-and-destroy.json) |
@@ -6258,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akasen Gairo: Shouwa 33 Nen no Hatsuyuki | 153663 | [153663-akasen-gairo-shouwa-33-nen-no-hatsuyuki.json](./153663-akasen-gairo-shouwa-33-nen-no-hatsuyuki.json) |
 | Akash: Path of the Five | 119480 | [119480-akash-path-of-the-five.json](./119480-akash-path-of-the-five.json) |
 | Akasha | 250512 | [250512-akasha.json](./250512-akasha.json) |
+| Akasha | 403244 | [403244-akasha.json](./403244-akasha.json) |
 | Akasha Dreams | 257537 | [257537-akasha-dreams.json](./257537-akasha-dreams.json) |
 | Akashi | 229379 | [229379-akashi.json](./229379-akashi.json) |
 | Akashic Migraine | 261042 | [261042-akashic-migraine.json](./261042-akashic-migraine.json) |
@@ -11591,6 +11593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another world: Truck driver | 105637 | [105637-another-world-truck-driver.json](./105637-another-world-truck-driver.json) |
 | Another World/Flashback | 130804 | [130804-another-world-flashback.json](./130804-another-world-flashback.json) |
 | Another Zero | 313889 | [313889-another-zero.json](./313889-another-zero.json) |
+| Another Zombie Shooter | 403288 | [403288-another-zombie-shooter.json](./403288-another-zombie-shooter.json) |
 | Another's Memories | 374049 | [374049-anothers-memories.json](./374049-anothers-memories.json) |
 | Anothereal | 303031 | [303031-anothereal.json](./303031-anothereal.json) |
 | AnotherEidos Of Dragon Vein R | 356002 | [356002-anothereidos-of-dragon-vein-r.json](./356002-anothereidos-of-dragon-vein-r.json) |
@@ -13070,6 +13073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: 10-Yard Fight | 99168 | [99168-arcade-archives-10-yard-fight.json](./99168-arcade-archives-10-yard-fight.json) |
 | Arcade Archives: 64th. Street | 144662 | [144662-arcade-archives-64th-street.json](./144662-arcade-archives-64th-street.json) |
 | Arcade Archives: A-Jax | 99563 | [99563-arcade-archives-a-jax.json](./99563-arcade-archives-a-jax.json) |
+| Arcade Archives: Ace Driver | 403298 | [403298-arcade-archives-ace-driver.json](./403298-arcade-archives-ace-driver.json) |
 | Arcade Archives: Adventure Canoe | 392765 | [392765-arcade-archives-adventure-canoe.json](./392765-arcade-archives-adventure-canoe.json) |
 | Arcade Archives: Aero Fighters | 280360 | [280360-arcade-archives-aero-fighters.json](./280360-arcade-archives-aero-fighters.json) |
 | Arcade Archives: Air Combat 22 | 352490 | [352490-arcade-archives-air-combat-22.json](./352490-arcade-archives-air-combat-22.json) |
@@ -19363,6 +19367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aya and the Cubes of Light | 51090 | [51090-aya-and-the-cubes-of-light.json](./51090-aya-and-the-cubes-of-light.json) |
 | Aya Go | 91740 | [91740-aya-go.json](./91740-aya-go.json) |
 | Aya Shameimaru's Case File | 231785 | [231785-aya-shameimarus-case-file.json](./231785-aya-shameimarus-case-file.json) |
+| Aya-chan wo Sagase! | 403289 | [403289-aya-chan-wo-sagase.json](./403289-aya-chan-wo-sagase.json) |
 | Aya: The Tale of Tails | 244161 | [244161-aya-the-tale-of-tails.json](./244161-aya-the-tale-of-tails.json) |
 | Aya's Journey | 55747 | [55747-ayas-journey.json](./55747-ayas-journey.json) |
 | Ayahuasca | 128131 | [128131-ayahuasca.json](./128131-ayahuasca.json) |
