@@ -7824,6 +7824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipes Puzzle Casual Arcade | 213808 | [213808-pipes-puzzle-casual-arcade.json](./213808-pipes-puzzle-casual-arcade.json) |
 | Pipes Puzzles | 213539 | [213539-pipes-puzzles.json](./213539-pipes-puzzles.json) |
 | Pipes Racer | 77158 | [77158-pipes-racer.json](./77158-pipes-racer.json) |
+| Pipes! | 76015 | [76015-pipes.json](./76015-pipes.json) |
 | Pipes.exe | 405155 | [405155-pipes-exe.json](./405155-pipes-exe.json) |
 | PipeWorks | 116927 | [116927-pipeworks.json](./116927-pipeworks.json) |
 | Pipi & Bibi's | 40138 | [40138-pipi-and-bibis.json](./40138-pipi-and-bibis.json) |
@@ -9894,6 +9895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Therapy: Plush and Pots Pack | 316403 | [316403-plant-therapy-plush-and-pots-pack.json](./316403-plant-therapy-plush-and-pots-pack.json) |
 | Plant Therapy: Queens | 266802 | [266802-plant-therapy-queens.json](./266802-plant-therapy-queens.json) |
 | Plant Therapy: Tropical Dreams | 364018 | [364018-plant-therapy-tropical-dreams.json](./364018-plant-therapy-tropical-dreams.json) |
+| Plant This | 76043 | [76043-plant-this.json](./76043-plant-this.json) |
 | Plant Trader | 269220 | [269220-plant-trader.json](./269220-plant-trader.json) |
 | Plant Tycoon | 15942 | [15942-plant-tycoon.json](./15942-plant-tycoon.json) |
 | Plant vs Undead | 166596 | [166596-plant-vs-undead.json](./166596-plant-vs-undead.json) |
@@ -9971,6 +9973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Garden Warfare - Zomboss Down | 305818 | [305818-plants-vs-zombies-garden-warfare-zomboss-down.json](./305818-plants-vs-zombies-garden-warfare-zomboss-down.json) |
 | Plants vs. Zombies: Garden Warfare 2 | 11148 | [11148-plants-vs-zombies-garden-warfare-2.json](./11148-plants-vs-zombies-garden-warfare-2.json) |
 | Plants vs. Zombies: Garden Warfare 2 - Deluxe Edition | 81997 | [81997-plants-vs-zombies-garden-warfare-2-deluxe-edition.json](./81997-plants-vs-zombies-garden-warfare-2-deluxe-edition.json) |
+| Plants vs. Zombies: Garden Warfare 2 - Frosty Edition | 75975 | [75975-plants-vs-zombies-garden-warfare-2-frosty-edition.json](./75975-plants-vs-zombies-garden-warfare-2-frosty-edition.json) |
 | Plants vs. Zombies: Garden Warfare 2 - No-Brainerz Upgrade | 225460 | [225460-plants-vs-zombies-garden-warfare-2-no-brainerz-upgrade.json](./225460-plants-vs-zombies-garden-warfare-2-no-brainerz-upgrade.json) |
 | Plants vs. Zombies: GOTY Edition | 20546 | [20546-plants-vs-zombies-goty-edition.json](./20546-plants-vs-zombies-goty-edition.json) |
 | Plants vs. Zombies: Heroes | 25230 | [25230-plants-vs-zombies-heroes.json](./25230-plants-vs-zombies-heroes.json) |
@@ -16022,6 +16025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Profana | 373825 | [373825-profana.json](./373825-profana.json) |
 | Profanation | 304127 | [304127-profanation.json](./304127-profanation.json) |
 | Profane | 57196 | [57196-profane.json](./57196-profane.json) |
+| Profane | 76065 | [76065-profane.json](./76065-profane.json) |
 | Profaned | 412101 | [412101-profaned.json](./412101-profaned.json) |
 | Profanity Police | 310338 | [310338-profanity-police.json](./310338-profanity-police.json) |
 | Profectus | 155308 | [155308-profectus.json](./155308-profectus.json) |
