@@ -305,6 +305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 6: Ranger Weapons: Broken MR98 Fang | 325412 | [325412-earth-defense-force-6-ranger-weapons-broken-mr98-fang.json](./325412-earth-defense-force-6-ranger-weapons-broken-mr98-fang.json) |
 | Earth Defense Force 6: Strengthening Parts for Fencer - Gunner's Exoskeleton | 325417 | [325417-earth-defense-force-6-strengthening-parts-for-fencer-gunners-exoskeleton.json](./325417-earth-defense-force-6-strengthening-parts-for-fencer-gunners-exoskeleton.json) |
 | Earth Defense Force 6: Wing Diver Independently Operated Equipment - Handy Saber Type 0 | 325411 | [325411-earth-defense-force-6-wing-diver-independently-operated-equipment-handy-saber-type-0.json](./325411-earth-defense-force-6-wing-diver-independently-operated-equipment-handy-saber-type-0.json) |
+| Earth Defense Force 6.2: Invaders from Another World | 414910 | [414910-earth-defense-force-6-2-invaders-from-another-world.json](./414910-earth-defense-force-6-2-invaders-from-another-world.json) |
 | Earth Defense Force: Insect Armageddon | 5584 | [5584-earth-defense-force-insect-armageddon.json](./5584-earth-defense-force-insect-armageddon.json) |
 | Earth Defense Force: Insect Armageddon - Aerialist Munitions Package | 226815 | [226815-earth-defense-force-insect-armageddon-aerialist-munitions-package.json](./226815-earth-defense-force-insect-armageddon-aerialist-munitions-package.json) |
 | Earth Defense Force: Insect Armageddon - Tactician Advanced Tech Package | 226814 | [226814-earth-defense-force-insect-armageddon-tactician-advanced-tech-package.json](./226814-earth-defense-force-insect-armageddon-tactician-advanced-tech-package.json) |
@@ -905,6 +906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes Afterfall | 303513 | [303513-echoes-afterfall.json](./303513-echoes-afterfall.json) |
 | Echoes Below | 348221 | [348221-echoes-below.json](./348221-echoes-below.json) |
 | Echoes Beyond the Stars | 386304 | [386304-echoes-beyond-the-stars.json](./386304-echoes-beyond-the-stars.json) |
+| Echoes From Below | 414902 | [414902-echoes-from-below.json](./414902-echoes-from-below.json) |
 | Echoes From Ciudadela | 387335 | [387335-echoes-from-ciudadela.json](./387335-echoes-from-ciudadela.json) |
 | Echoes from Levia: Soulbound | 105816 | [105816-echoes-from-levia-soulbound.json](./105816-echoes-from-levia-soulbound.json) |
 | Echoes from the Abyss | 309135 | [309135-echoes-from-the-abyss.json](./309135-echoes-from-the-abyss.json) |
@@ -2948,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsword | 19133 | [19133-elsword.json](./19133-elsword.json) |
 | Elsword M Shadow of Luna | 109972 | [109972-elsword-m-shadow-of-luna.json](./109972-elsword-m-shadow-of-luna.json) |
 | Elta 7 | 192684 | [192684-elta-7.json](./192684-elta-7.json) |
+| Elta: Defy All Gods | 414942 | [414942-elta-defy-all-gods.json](./414942-elta-defy-all-gods.json) |
 | Elthlead Senshi | 92072 | [92072-elthlead-senshi.json](./92072-elthlead-senshi.json) |
 | Elude | 152474 | [152474-elude.json](./152474-elude.json) |
 | Elude | 93802 | [93802-elude.json](./93802-elude.json) |
