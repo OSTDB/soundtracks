@@ -9357,6 +9357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love's Fiery Imbroglio | 73372 | [73372-loves-fiery-imbroglio.json](./73372-loves-fiery-imbroglio.json) |
 | Love's Hella Punk | 239868 | [239868-loves-hella-punk.json](./239868-loves-hella-punk.json) |
 | Love's Power Mahjong | 192312 | [192312-loves-power-mahjong.json](./192312-loves-power-mahjong.json) |
+| Love's Sweet Garnish | 109301 | [109301-loves-sweet-garnish.json](./109301-loves-sweet-garnish.json) |
 | Love’s Sweet Garnish 2 | 335495 | [335495-love-s-sweet-garnish-2.json](./335495-love-s-sweet-garnish-2.json) |
 | Love(Battle)Doll | 381914 | [381914-love-battle-doll.json](./381914-love-battle-doll.json) |
 | Love+ | 80609 | [80609-love.json](./80609-love.json) |
