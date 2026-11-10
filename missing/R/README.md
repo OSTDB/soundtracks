@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Raygun | 63779 | [63779-rad-raygun.json](./63779-rad-raygun.json) |
 | Rad Road Rally | 185206 | [185206-rad-road-rally.json](./185206-rad-road-rally.json) |
 | Rad Rocket | 138516 | [138516-rad-rocket.json](./138516-rad-rocket.json) |
+| Rad Rodgers | 90322 | [90322-rad-rodgers.json](./90322-rad-rodgers.json) |
 | Rad Rodgers: Radical Edition | 113422 | [113422-rad-rodgers-radical-edition.json](./113422-rad-rodgers-radical-edition.json) |
 | Rad Rodgers: World One | 23797 | [23797-rad-rodgers-world-one.json](./23797-rad-rodgers-world-one.json) |
 | RAD Soldiers | 64100 | [64100-rad-soldiers.json](./64100-rad-soldiers.json) |
@@ -7832,6 +7833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Righty Tighty XL | 99653 | [99653-righty-tighty-xl.json](./99653-righty-tighty-xl.json) |
 | Rigid | 292447 | [292447-rigid.json](./292447-rigid.json) |
 | Rigid Chess | 117792 | [117792-rigid-chess.json](./117792-rigid-chess.json) |
+| Rigid Force Alpha | 99007 | [99007-rigid-force-alpha.json](./99007-rigid-force-alpha.json) |
 | Rigid Force Redux | 134368 | [134368-rigid-force-redux.json](./134368-rigid-force-redux.json) |
 | Rigid Memory | 205107 | [205107-rigid-memory.json](./205107-rigid-memory.json) |
 | Riglas | 281255 | [281255-riglas.json](./281255-riglas.json) |
@@ -8328,6 +8330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising City | 236875 | [236875-rising-city.json](./236875-rising-city.json) |
 | Rising Constellation | 139367 | [139367-rising-constellation.json](./139367-rising-constellation.json) |
 | Rising Dead | 265125 | [265125-rising-dead.json](./265125-rising-dead.json) |
+| Rising Dusk | 99131 | [99131-rising-dusk.json](./99131-rising-dusk.json) |
 | Rising Empires 2 | 176623 | [176623-rising-empires-2.json](./176623-rising-empires-2.json) |
 | Rising Evil VR | 112176 | [112176-rising-evil-vr.json](./112176-rising-evil-vr.json) |
 | Rising Fire | 112515 | [112515-rising-fire.json](./112515-rising-fire.json) |
