@@ -2877,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carestia | 136143 | [136143-carestia.json](./136143-carestia.json) |
 | Caretaker | 362014 | [362014-caretaker.json](./362014-caretaker.json) |
 | Caretaker Retribution | 34236 | [34236-caretaker-retribution.json](./34236-caretaker-retribution.json) |
+| Caretaker Sacrifice | 18353 | [18353-caretaker-sacrifice.json](./18353-caretaker-sacrifice.json) |
 | Caretaker: The Bureau | 324822 | [324822-caretaker-the-bureau.json](./324822-caretaker-the-bureau.json) |
 | Cargame | 143727 | [143727-cargame.json](./143727-cargame.json) |
 | Cargasm | 79256 | [79256-cargasm.json](./79256-cargasm.json) |
@@ -3112,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpe Diem Project | 226297 | [226297-carpe-diem-project.json](./226297-carpe-diem-project.json) |
 | Carpe Diem: Reboot | 58360 | [58360-carpe-diem-reboot.json](./58360-carpe-diem-reboot.json) |
 | Carpe Dino: Seize the Date | 302906 | [302906-carpe-dino-seize-the-date.json](./302906-carpe-dino-seize-the-date.json) |
+| Carpe Lucem - Seize the light | 18432 | [18432-carpe-lucem-seize-the-light.json](./18432-carpe-lucem-seize-the-light.json) |
 | Carpe Noctem | 309372 | [309372-carpe-noctem.json](./309372-carpe-noctem.json) |
 | Carpenter Genzo: Robot Empire | 55937 | [55937-carpenter-genzo-robot-empire.json](./55937-carpenter-genzo-robot-empire.json) |
 | Carperation | 163973 | [163973-carperation.json](./163973-carperation.json) |
@@ -5419,6 +5421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CD-Man Version 2.0 | 98917 | [98917-cd-man-version-2-0.json](./98917-cd-man-version-2-0.json) |
 | CD-Run | 127226 | [127226-cd-run.json](./127226-cd-run.json) |
 | CDF Ghostship | 16844 | [16844-cdf-ghostship.json](./16844-cdf-ghostship.json) |
+| CDF Starfighter VR | 19054 | [19054-cdf-starfighter-vr.json](./19054-cdf-starfighter-vr.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
 | CDO2: Dungeon Defense | 256574 | [256574-cdo2-dungeon-defense.json](./256574-cdo2-dungeon-defense.json) |
 | Ceana the Wraithress | 314951 | [314951-ceana-the-wraithress.json](./314951-ceana-the-wraithress.json) |
@@ -11307,6 +11310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudheim | 330328 | [330328-cloudheim.json](./330328-cloudheim.json) |
 | CloudJumper | 107052 | [107052-cloudjumper.json](./107052-cloudjumper.json) |
 | Cloudlands 2 | 127857 | [127857-cloudlands-2.json](./127857-cloudlands-2.json) |
+| Cloudlands: VR Minigolf | 19066 | [19066-cloudlands-vr-minigolf.json](./19066-cloudlands-vr-minigolf.json) |
 | Cloudlapse! | 419961 | [419961-cloudlapse.json](./419961-cloudlapse.json) |
 | Cloudlings | 404925 | [404925-cloudlings.json](./404925-cloudlings.json) |
 | Cloudly Aware | 412934 | [412934-cloudly-aware.json](./412934-cloudly-aware.json) |
@@ -11316,6 +11320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudpunk | 111837 | [111837-cloudpunk.json](./111837-cloudpunk.json) |
 | Cloudpunk: City of Ghosts | 145294 | [145294-cloudpunk-city-of-ghosts.json](./145294-cloudpunk-city-of-ghosts.json) |
 | Cloudpunk: Ultimate Edition | 193737 | [193737-cloudpunk-ultimate-edition.json](./193737-cloudpunk-ultimate-edition.json) |
+| Cloudrift | 19031 | [19031-cloudrift.json](./19031-cloudrift.json) |
 | Clouds & Sheep | 255732 | [255732-clouds-and-sheep.json](./255732-clouds-and-sheep.json) |
 | Clouds & Sheep 2 | 33595 | [33595-clouds-and-sheep-2.json](./33595-clouds-and-sheep-2.json) |
 | Clouds Ahoy! | 235863 | [235863-clouds-ahoy.json](./235863-clouds-ahoy.json) |
@@ -14519,6 +14524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consortium | 9572 | [9572-consortium.json](./9572-consortium.json) |
 | Consortium Remastered | 248980 | [248980-consortium-remastered.json](./248980-consortium-remastered.json) |
 | Consortium VR | 235940 | [235940-consortium-vr.json](./235940-consortium-vr.json) |
+| Consortium: The Tower | 18736 | [18736-consortium-the-tower.json](./18736-consortium-the-tower.json) |
 | Consorts of the Emperor | 402695 | [402695-consorts-of-the-emperor.json](./402695-consorts-of-the-emperor.json) |
 | Consortya | 150999 | [150999-consortya.json](./150999-consortya.json) |
 | Conspiracies | 52312 | [52312-conspiracies.json](./52312-conspiracies.json) |
@@ -17313,6 +17319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashday: Redline Edition | 50093 | [50093-crashday-redline-edition.json](./50093-crashday-redline-edition.json) |
 | Crashed | 329598 | [329598-crashed.json](./329598-crashed.json) |
 | Crashed Bandicoot | 184342 | [184342-crashed-bandicoot.json](./184342-crashed-bandicoot.json) |
+| Crashed Lander | 19026 | [19026-crashed-lander.json](./19026-crashed-lander.json) |
 | Crashers of Aetheria | 149332 | [149332-crashers-of-aetheria.json](./149332-crashers-of-aetheria.json) |
 | Crashimals | 120893 | [120893-crashimals.json](./120893-crashimals.json) |
 | Crashimals | 268931 | [268931-crashimals.json](./268931-crashimals.json) |
