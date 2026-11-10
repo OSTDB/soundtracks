@@ -3366,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WeeMee Superhero Maker | 109201 | [109201-weemee-superhero-maker.json](./109201-weemee-superhero-maker.json) |
 | Weeny Adventure | 233513 | [233513-weeny-adventure.json](./233513-weeny-adventure.json) |
 | Weeny Wise | 288470 | [288470-weeny-wise.json](./288470-weeny-wise.json) |
+| Weeping Angels | 407669 | [407669-weeping-angels.json](./407669-weeping-angels.json) |
 | Weeping Cherries | 358645 | [358645-weeping-cherries.json](./358645-weeping-cherries.json) |
 | Weeping Doll | 25340 | [25340-weeping-doll.json](./25340-weeping-doll.json) |
 | Weeping Falls Massacre | 204467 | [204467-weeping-falls-massacre.json](./204467-weeping-falls-massacre.json) |
@@ -3920,6 +3921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What a Ball | 225727 | [225727-what-a-ball.json](./225727-what-a-ball.json) |
 | What a Cluster Fight | 133130 | [133130-what-a-cluster-fight.json](./133130-what-a-cluster-fight.json) |
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
+| What a Mario World! | 407617 | [407617-what-a-mario-world.json](./407617-what-a-mario-world.json) |
 | What a Shitty Job | 348869 | [348869-what-a-shitty-job.json](./348869-what-a-shitty-job.json) |
 | What A Trash Game | 104150 | [104150-what-a-trash-game.json](./104150-what-a-trash-game.json) |
 | What Are You Stupid | 96403 | [96403-what-are-you-stupid.json](./96403-what-are-you-stupid.json) |
@@ -5193,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why Me | 377147 | [377147-why-me.json](./377147-why-me.json) |
 | Why Me? | 373059 | [373059-why-me.json](./373059-why-me.json) |
 | Why Neon Lights Again? | 128990 | [128990-why-neon-lights-again.json](./128990-why-neon-lights-again.json) |
+| Why Not | 407640 | [407640-why-not.json](./407640-why-not.json) |
 | Why Not Both? | 345233 | [345233-why-not-both.json](./345233-why-not-both.json) |
 | Why Not Frog? | 185474 | [185474-why-not-frog.json](./185474-why-not-frog.json) |
 | Why Not? | 152009 | [152009-why-not.json](./152009-why-not.json) |
@@ -6602,6 +6605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wish Upon a Block | 388707 | [388707-wish-upon-a-block.json](./388707-wish-upon-a-block.json) |
 | Wish Upon a Cat | 356718 | [356718-wish-upon-a-cat.json](./356718-wish-upon-a-cat.json) |
 | Wish Upon a Llama | 258962 | [258962-wish-upon-a-llama.json](./258962-wish-upon-a-llama.json) |
+| Wish Upon a Star | 407689 | [407689-wish-upon-a-star.json](./407689-wish-upon-a-star.json) |
 | Wish World | 197546 | [197546-wish-world.json](./197546-wish-world.json) |
 | Wish You All the Best | 402934 | [402934-wish-you-all-the-best.json](./402934-wish-you-all-the-best.json) |
 | Wish You Happiness | 310043 | [310043-wish-you-happiness.json](./310043-wish-you-happiness.json) |
