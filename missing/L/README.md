@@ -10141,6 +10141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines: Puzzle Fusion | 78329 | [78329-lumines-puzzle-fusion.json](./78329-lumines-puzzle-fusion.json) |
 | Luminesce | 159302 | [159302-luminesce.json](./159302-luminesce.json) |
 | Luminescence | 343594 | [343594-luminescence.json](./343594-luminescence.json) |
+| Luminescence | 95160 | [95160-luminescence.json](./95160-luminescence.json) |
 | Luminescent | 218084 | [218084-luminescent.json](./218084-luminescent.json) |
 | Luminesweeper | 246569 | [246569-luminesweeper.json](./246569-luminesweeper.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
