@@ -4374,6 +4374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Patrol: Paw Showtime | 296236 | [296236-kitty-patrol-paw-showtime.json](./296236-kitty-patrol-paw-showtime.json) |
 | Kitty Pig | 291001 | [291001-kitty-pig.json](./291001-kitty-pig.json) |
 | Kitty Play | 105079 | [105079-kitty-play.json](./105079-kitty-play.json) |
+| Kitty Powers' Love Life | 84570 | [84570-kitty-powers-love-life.json](./84570-kitty-powers-love-life.json) |
 | Kitty Powers' Matchmaker Makeover | 388047 | [388047-kitty-powers-matchmaker-makeover.json](./388047-kitty-powers-matchmaker-makeover.json) |
 | Kitty Powers' Matchmaker: Deluxe Edition | 146689 | [146689-kitty-powers-matchmaker-deluxe-edition.json](./146689-kitty-powers-matchmaker-deluxe-edition.json) |
 | Kitty Rainbow | 136466 | [136466-kitty-rainbow.json](./136466-kitty-rainbow.json) |
