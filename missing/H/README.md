@@ -3936,6 +3936,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hector Dinger | 415041 | [415041-hector-dinger.json](./415041-hector-dinger.json) |
 | Hector The Cat: Treasure Hunter | 257437 | [257437-hector-the-cat-treasure-hunter.json](./257437-hector-the-cat-treasure-hunter.json) |
 | Hector: Badge of Carnage! - Episode 1 | 119182 | [119182-hector-badge-of-carnage-episode-1.json](./119182-hector-badge-of-carnage-episode-1.json) |
+| Hector: Badge of Carnage! - Episode 2 | 94101 | [94101-hector-badge-of-carnage-episode-2.json](./94101-hector-badge-of-carnage-episode-2.json) |
+| Hector: Badge of Carnage! - Episode 3 | 94100 | [94100-hector-badge-of-carnage-episode-3.json](./94100-hector-badge-of-carnage-episode-3.json) |
 | Hector'39 | 328247 | [328247-hector39.json](./328247-hector39.json) |
 | Hed the Pig | 142305 | [142305-hed-the-pig.json](./142305-hed-the-pig.json) |
 | Hedenite | 277991 | [277991-hedenite.json](./277991-hedenite.json) |
@@ -7579,6 +7581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Pass | 253352 | [253352-hidden-pass.json](./253352-hidden-pass.json) |
 | Hidden Pass Skirmishes | 321878 | [321878-hidden-pass-skirmishes.json](./321878-hidden-pass-skirmishes.json) |
 | Hidden Path of Faery | 356135 | [356135-hidden-path-of-faery.json](./356135-hidden-path-of-faery.json) |
+| Hidden Paws | 91160 | [91160-hidden-paws.json](./91160-hidden-paws.json) |
 | Hidden Paws Bundle | 262324 | [262324-hidden-paws-bundle.json](./262324-hidden-paws-bundle.json) |
 | Hidden Paws Mystery | 109412 | [109412-hidden-paws-mystery.json](./109412-hidden-paws-mystery.json) |
 | Hidden Photo | 84520 | [84520-hidden-photo.json](./84520-hidden-photo.json) |
@@ -13200,6 +13203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypergate | 87985 | [87985-hypergate.json](./87985-hypergate.json) |
 | HyperGate Mall | 328131 | [328131-hypergate-mall.json](./328131-hypergate-mall.json) |
 | HyperGlide | 211194 | [211194-hyperglide.json](./211194-hyperglide.json) |
+| Hypergun | 101173 | [101173-hypergun.json](./101173-hypergun.json) |
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
 | Hyperide | 131423 | [131423-hyperide.json](./131423-hyperide.json) |
 | Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
