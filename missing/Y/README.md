@@ -939,6 +939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yongjiang River | 376275 | [376275-yongjiang-river.json](./376275-yongjiang-river.json) |
 | Yǒngshì Chōng Chōng Chōng | 93675 | [93675-yongshi-chong-chong-chong.json](./93675-yongshi-chong-chong-chong.json) |
 | Yongye Xiezouqu | 411106 | [411106-yongye-xiezouqu.json](./411106-yongye-xiezouqu.json) |
+| Yǒngzhě Dàbàozǒu | 428385 | [428385-yongzhe-dabaozou.json](./428385-yongzhe-dabaozou.json) |
 | Yǒngzhě de Shí Rì Rénshēng | 161573 | [161573-yongzhe-de-shi-ri-rensheng.json](./161573-yongzhe-de-shi-ri-rensheng.json) |
 | Yoobot Vs. Yoonot | 320350 | [320350-yoobot-vs-yoonot.json](./320350-yoobot-vs-yoonot.json) |
 | Yooca: Next Horizon | 369058 | [369058-yooca-next-horizon.json](./369058-yooca-next-horizon.json) |
