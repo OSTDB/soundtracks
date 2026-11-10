@@ -5454,6 +5454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy: Crystal Chronicles - The Crystal Bearers | 401 | [401-final-fantasy-crystal-chronicles-the-crystal-bearers.json](./401-final-fantasy-crystal-chronicles-the-crystal-bearers.json) |
 | Final Fantasy: Dimensions II | 74965 | [74965-final-fantasy-dimensions-ii.json](./74965-final-fantasy-dimensions-ii.json) |
 | Final Fantasy: Economic Collapse | 345622 | [345622-final-fantasy-economic-collapse.json](./345622-final-fantasy-economic-collapse.json) |
+| Final Fantasy: Endless Nova | 416766 | [416766-final-fantasy-endless-nova.json](./416766-final-fantasy-endless-nova.json) |
 | Final Fantasy: Explorers | 7413 | [7413-final-fantasy-explorers.json](./7413-final-fantasy-explorers.json) |
 | Final Fantasy: Explorers - Collector's Edition | 41831 | [41831-final-fantasy-explorers-collectors-edition.json](./41831-final-fantasy-explorers-collectors-edition.json) |
 | Final Fantasy: Legend of Balance | 222978 | [222978-final-fantasy-legend-of-balance.json](./222978-final-fantasy-legend-of-balance.json) |
