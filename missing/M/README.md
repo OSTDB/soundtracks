@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Ambulation | 320913 | [320913-madness-ambulation.json](./320913-madness-ambulation.json) |
 | Madness Arena | 322755 | [322755-madness-arena.json](./322755-madness-arena.json) |
 | Madness Below | 326619 | [326619-madness-below.json](./326619-madness-below.json) |
+| Madness Beverage | 164298 | [164298-madness-beverage.json](./164298-madness-beverage.json) |
 | Madness Brutal Fighting | 243214 | [243214-madness-brutal-fighting.json](./243214-madness-brutal-fighting.json) |
 | Madness Chambers | 246947 | [246947-madness-chambers.json](./246947-madness-chambers.json) |
 | Madness Combat | 252101 | [252101-madness-combat.json](./252101-madness-combat.json) |
@@ -10998,6 +10999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mousecapade | 8126 | [8126-mickey-mousecapade.json](./8126-mickey-mousecapade.json) |
 | Mickey no Boku ha Meitantei | 63051 | [63051-mickey-no-boku-ha-meitantei.json](./63051-mickey-no-boku-ha-meitantei.json) |
 | Mickey no Tokyo Disneyland Daibouken | 42543 | [42543-mickey-no-tokyo-disneyland-daibouken.json](./42543-mickey-no-tokyo-disneyland-daibouken.json) |
+| Mickey Storm and the Cursed Mask | 165587 | [165587-mickey-storm-and-the-cursed-mask.json](./165587-mickey-storm-and-the-cursed-mask.json) |
 | Mickey to Donald Magical Adventure 3 | 42489 | [42489-mickey-to-donald-magical-adventure-3.json](./42489-mickey-to-donald-magical-adventure-3.json) |
 | Mickey to Ooki na Furudokei | 299463 | [299463-mickey-to-ooki-na-furudokei.json](./299463-mickey-to-ooki-na-furudokei.json) |
 | Mickey: Boxing Champ | 349448 | [349448-mickey-boxing-champ.json](./349448-mickey-boxing-champ.json) |
@@ -16868,6 +16870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Rain | 110226 | [110226-monster-rain.json](./110226-monster-rain.json) |
 | Monster Ramp Racing | 368753 | [368753-monster-ramp-racing.json](./368753-monster-ramp-racing.json) |
 | Monster Rancher | 4104 | [4104-monster-rancher.json](./4104-monster-rancher.json) |
+| Monster Rancher 1 & 2 DX | 165816 | [165816-monster-rancher-1-and-2-dx.json](./165816-monster-rancher-1-and-2-dx.json) |
 | Monster Rancher 1 DX | 184782 | [184782-monster-rancher-1-dx.json](./184782-monster-rancher-1-dx.json) |
 | Monster Rancher 2 DX | 184783 | [184783-monster-rancher-2-dx.json](./184783-monster-rancher-2-dx.json) |
 | Monster Rancher 3 | 43631 | [43631-monster-rancher-3.json](./43631-monster-rancher-3.json) |
@@ -16948,6 +16951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Train | 129483 | [129483-monster-train.json](./129483-monster-train.json) |
 | Monster Train 2: Destiny of the Railforged | 387479 | [387479-monster-train-2-destiny-of-the-railforged.json](./387479-monster-train-2-destiny-of-the-railforged.json) |
 | Monster Train Collection | 346010 | [346010-monster-train-collection.json](./346010-monster-train-collection.json) |
+| Monster Train: First Class | 163698 | [163698-monster-train-first-class.json](./163698-monster-train-first-class.json) |
 | Monster Train: The Last Divinity | 148116 | [148116-monster-train-the-last-divinity.json](./148116-monster-train-the-last-divinity.json) |
 | Monster Trampoline | 113477 | [113477-monster-trampoline.json](./113477-monster-trampoline.json) |
 | Monster Traveler | 270058 | [270058-monster-traveler.json](./270058-monster-traveler.json) |
