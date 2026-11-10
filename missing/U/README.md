@@ -730,6 +730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Rivals: The Court | 150098 | [150098-ultimate-rivals-the-court.json](./150098-ultimate-rivals-the-court.json) |
 | Ultimate Rivals: The Rink | 127349 | [127349-ultimate-rivals-the-rink.json](./127349-ultimate-rivals-the-rink.json) |
 | Ultimate Robot Fighting | 334939 | [334939-ultimate-robot-fighting.json](./334939-ultimate-robot-fighting.json) |
+| Ultimate Robotoru: Super Alpha Z | 397133 | [397133-ultimate-robotoru-super-alpha-z.json](./397133-ultimate-robotoru-super-alpha-z.json) |
 | Ultimate Rock Climbing Challenge | 306892 | [306892-ultimate-rock-climbing-challenge.json](./306892-ultimate-rock-climbing-challenge.json) |
 | Ultimate Romance Test | 399794 | [399794-ultimate-romance-test.json](./399794-ultimate-romance-test.json) |
 | Ultimate Royal Battlegrounds | 95311 | [95311-ultimate-royal-battlegrounds.json](./95311-ultimate-royal-battlegrounds.json) |
