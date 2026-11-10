@@ -18937,6 +18937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasure of Civilization | 153422 | [153422-the-treasure-of-civilization.json](./153422-the-treasure-of-civilization.json) |
 | The Treasure of Neverland | 319304 | [319304-the-treasure-of-neverland.json](./319304-the-treasure-of-neverland.json) |
 | The treasure of the lost temple | 104953 | [104953-the-treasure-of-the-lost-temple.json](./104953-the-treasure-of-the-lost-temple.json) |
+| The Treasure of the Monkey on the Island | 421749 | [421749-the-treasure-of-the-monkey-on-the-island.json](./421749-the-treasure-of-the-monkey-on-the-island.json) |
 | The Treasure of Usas | 18921 | [18921-the-treasure-of-usas.json](./18921-the-treasure-of-usas.json) |
 | The Treasure Seekers of Lady Luck | 83596 | [83596-the-treasure-seekers-of-lady-luck.json](./83596-the-treasure-seekers-of-lady-luck.json) |
 | The Treasures of Hotei | 96071 | [96071-the-treasures-of-hotei.json](./96071-the-treasures-of-hotei.json) |
@@ -26324,6 +26325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombstone City | 44377 | [44377-tombstone-city.json](./44377-tombstone-city.json) |
 | Tombstone City: 21st Century | 73720 | [73720-tombstone-city-21st-century.json](./73720-tombstone-city-21st-century.json) |
 | Tombstone MMO | 288582 | [288582-tombstone-mmo.json](./288582-tombstone-mmo.json) |
+| Tombstone Showdown | 421784 | [421784-tombstone-showdown.json](./421784-tombstone-showdown.json) |
 | Tombstone Tactics | 421821 | [421821-tombstone-tactics.json](./421821-tombstone-tactics.json) |
 | Tombstone Tally | 319361 | [319361-tombstone-tally.json](./319361-tombstone-tally.json) |
 | Tombstone Taxi | 258435 | [258435-tombstone-taxi.json](./258435-tombstone-taxi.json) |
