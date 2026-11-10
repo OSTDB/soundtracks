@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain Island | 131762 | [131762-rain-island.json](./131762-rain-island.json) |
 | Rain Kills | 334559 | [334559-rain-kills.json](./334559-rain-kills.json) |
 | Rain of Arrows | 145594 | [145594-rain-of-arrows.json](./145594-rain-of-arrows.json) |
+| Rain of Awakening | 410540 | [410540-rain-of-awakening.json](./410540-rain-of-awakening.json) |
 | Rain of Fire | 125721 | [125721-rain-of-fire.json](./125721-rain-of-fire.json) |
 | Rain of Flames | 134917 | [134917-rain-of-flames.json](./134917-rain-of-flames.json) |
 | Rain of Pumpkins | 75071 | [75071-rain-of-pumpkins.json](./75071-rain-of-pumpkins.json) |
@@ -4811,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regional Power II | 238362 | [238362-regional-power-ii.json](./238362-regional-power-ii.json) |
 | Regional Power III | 238365 | [238365-regional-power-iii.json](./238365-regional-power-iii.json) |
 | Regions | 134210 | [134210-regions.json](./134210-regions.json) |
+| Regions | 410527 | [410527-regions.json](./410527-regions.json) |
 | Regions of Ruin | 61884 | [61884-regions-of-ruin.json](./61884-regions-of-ruin.json) |
 | Regions of Ruin: Runegate | 157865 | [157865-regions-of-ruin-runegate.json](./157865-regions-of-ruin-runegate.json) |
 | Regions of Ruin: Runegate - Deluxe Edition | 402329 | [402329-regions-of-ruin-runegate-deluxe-edition.json](./402329-regions-of-ruin-runegate-deluxe-edition.json) |
@@ -7674,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride to Hell: Route 666 | 63561 | [63561-ride-to-hell-route-666.json](./63561-ride-to-hell-route-666.json) |
 | Ride to hill: Offroad Hill Climb | 95784 | [95784-ride-to-hill-offroad-hill-climb.json](./95784-ride-to-hill-offroad-hill-climb.json) |
 | Ride Up | 374890 | [374890-ride-up.json](./374890-ride-up.json) |
+| Ride Up Together | 410574 | [410574-ride-up-together.json](./410574-ride-up-together.json) |
 | Ride with the Reaper | 117053 | [117053-ride-with-the-reaper.json](./117053-ride-with-the-reaper.json) |
 | Ride Your Mind | 141208 | [141208-ride-your-mind.json](./141208-ride-your-mind.json) |
 | Ride Your Mind: Blossoms | 141210 | [141210-ride-your-mind-blossoms.json](./141210-ride-your-mind-blossoms.json) |
