@@ -1011,7 +1011,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -11223,6 +11222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockBawks | 293102 | [293102-blockbawks.json](./293102-blockbawks.json) |
 | BlockBlast Friend Edition | 412895 | [412895-blockblast-friend-edition.json](./412895-blockblast-friend-edition.json) |
 | BlockBlasters | 356548 | [356548-blockblasters.json](./356548-blockblasters.json) |
+| Blockbound | 396879 | [396879-blockbound.json](./396879-blockbound.json) |
 | Blockboy and The Wizard | 397985 | [397985-blockboy-and-the-wizard.json](./397985-blockboy-and-the-wizard.json) |
 | BlockBuild: Craft Your Dream World | 213679 | [213679-blockbuild-craft-your-dream-world.json](./213679-blockbuild-craft-your-dream-world.json) |
 | Blockbuster | 15677 | [15677-blockbuster.json](./15677-blockbuster.json) |
