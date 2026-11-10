@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 8 | 262830 | [262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json](./262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json) |
 | Nature and Girls | 165815 | [165815-nature-and-girls.json](./165815-nature-and-girls.json) |
 | Nature Atelier | 368520 | [368520-nature-atelier.json](./368520-nature-atelier.json) |
+| Nature Calls | 101342 | [101342-nature-calls.json](./101342-nature-calls.json) |
 | Nature Challenge | 316017 | [316017-nature-challenge.json](./316017-nature-challenge.json) |
 | Nature Defenders | 33833 | [33833-nature-defenders.json](./33833-nature-defenders.json) |
 | Nature Escapes | 215635 | [215635-nature-escapes.json](./215635-nature-escapes.json) |
@@ -1196,6 +1197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naval War: Arctic Circle - Operation Tarnhelm | 10590 | [10590-naval-war-arctic-circle-operation-tarnhelm.json](./10590-naval-war-arctic-circle-operation-tarnhelm.json) |
 | Naval Warfare | 16245 | [16245-naval-warfare.json](./16245-naval-warfare.json) |
 | Naval Warfare Multi-shot | 344919 | [344919-naval-warfare-multi-shot.json](./344919-naval-warfare-multi-shot.json) |
+| NavalArt | 101282 | [101282-navalart.json](./101282-navalart.json) |
 | Navalia | 30639 | [30639-navalia.json](./30639-navalia.json) |
 | Navalny: A Nightmare of Corrupt | 123572 | [123572-navalny-a-nightmare-of-corrupt.json](./123572-navalny-a-nightmare-of-corrupt.json) |
 | Navalny: Posledniy miting | 111016 | [111016-navalny-posledniy-miting.json](./111016-navalny-posledniy-miting.json) |
