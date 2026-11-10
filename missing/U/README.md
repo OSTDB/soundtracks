@@ -2440,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unitystation | 82365 | [82365-unitystation.json](./82365-unitystation.json) |
 | Unium | 35532 | [35532-unium.json](./35532-unium.json) |
 | UniUni Union | 63418 | [63418-uniuni-union.json](./63418-uniuni-union.json) |
+| Univ: Ai Omatase | 428376 | [428376-univ-ai-omatase.json](./428376-univ-ai-omatase.json) |
 | UniverCity | 106455 | [106455-univercity.json](./106455-univercity.json) |
 | Univers | 149745 | [149745-univers.json](./149745-univers.json) |
 | Univers 11: Under the Sky | 195721 | [195721-univers-11-under-the-sky.json](./195721-univers-11-under-the-sky.json) |
