@@ -1781,6 +1781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capcom Essentials | 42959 | [42959-capcom-essentials.json](./42959-capcom-essentials.json) |
 | Capcom Fighting All-Stars | 77245 | [77245-capcom-fighting-all-stars.json](./77245-capcom-fighting-all-stars.json) |
 | Capcom Fighting Bundle | 207898 | [207898-capcom-fighting-bundle.json](./207898-capcom-fighting-bundle.json) |
+| Capcom Fighting Evolution | 99551 | [99551-capcom-fighting-evolution.json](./99551-capcom-fighting-evolution.json) |
 | Capcom Generations | 43897 | [43897-capcom-generations.json](./43897-capcom-generations.json) |
 | Capcom Generations 1: Wings of Destiny | 66122 | [66122-capcom-generations-1-wings-of-destiny.json](./66122-capcom-generations-1-wings-of-destiny.json) |
 | Capcom Generations 2: Chronicles of Arthur | 66123 | [66123-capcom-generations-2-chronicles-of-arthur.json](./66123-capcom-generations-2-chronicles-of-arthur.json) |
@@ -11387,6 +11388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Penguin Island | 94967 | [94967-club-penguin-island.json](./94967-club-penguin-island.json) |
 | Club Penguin Journey | 312869 | [312869-club-penguin-journey.json](./312869-club-penguin-journey.json) |
 | Club Penguin Rewritten | 98486 | [98486-club-penguin-rewritten.json](./98486-club-penguin-rewritten.json) |
+| Club Penguin: Elite Penguin Force | 78695 | [78695-club-penguin-elite-penguin-force.json](./78695-club-penguin-elite-penguin-force.json) |
 | Club Penguin: Elite Penguin Force - Herbert's Revenge | 66998 | [66998-club-penguin-elite-penguin-force-herberts-revenge.json](./66998-club-penguin-elite-penguin-force-herberts-revenge.json) |
 | Club Penguin: Game Day! | 92058 | [92058-club-penguin-game-day.json](./92058-club-penguin-game-day.json) |
 | Club Pinball | 243691 | [243691-club-pinball.json](./243691-club-pinball.json) |
@@ -13617,6 +13619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Commander Kamala Lays Down the Law | 60293 | [60293-commander-kamala-lays-down-the-law.json](./60293-commander-kamala-lays-down-the-law.json) |
 | Commander Keen | 119309 | [119309-commander-keen.json](./119309-commander-keen.json) |
 | Commander Keen | 2447 | [2447-commander-keen.json](./2447-commander-keen.json) |
+| Commander Keen Complete Pack | 93840 | [93840-commander-keen-complete-pack.json](./93840-commander-keen-complete-pack.json) |
 | Commander Keen Enters RON | 71177 | [71177-commander-keen-enters-ron.json](./71177-commander-keen-enters-ron.json) |
 | Commander Keen in Goodbye, Galaxy!: Secret of the Oracle | 2443 | [2443-commander-keen-in-goodbye-galaxy-secret-of-the-oracle.json](./2443-commander-keen-in-goodbye-galaxy-secret-of-the-oracle.json) |
 | Commander Keen in Goodbye, Galaxy!: The Armageddon Machine | 2445 | [2445-commander-keen-in-goodbye-galaxy-the-armageddon-machine.json](./2445-commander-keen-in-goodbye-galaxy-the-armageddon-machine.json) |
@@ -14644,6 +14647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
 | Consumption | 179537 | [179537-consumption.json](./179537-consumption.json) |
 | Contact | 187113 | [187113-contact.json](./187113-contact.json) |
+| Contact | 20581 | [20581-contact.json](./20581-contact.json) |
 | Contact | 243837 | [243837-contact.json](./243837-contact.json) |
 | Contact | 314759 | [314759-contact.json](./314759-contact.json) |
 | Contact | 357745 | [357745-contact.json](./357745-contact.json) |
@@ -15147,6 +15151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cool Ball | 92263 | [92263-cool-ball.json](./92263-cool-ball.json) |
 | Cool Boarders | 20728 | [20728-cool-boarders.json](./20728-cool-boarders.json) |
 | Cool Boarders | 292899 | [292899-cool-boarders.json](./292899-cool-boarders.json) |
+| Cool Boarders 2 | 26115 | [26115-cool-boarders-2.json](./26115-cool-boarders-2.json) |
 | Cool Boarders 2001 | 26135 | [26135-cool-boarders-2001.json](./26135-cool-boarders-2001.json) |
 | Cool Boarders 3 | 26130 | [26130-cool-boarders-3.json](./26130-cool-boarders-3.json) |
 | Cool Boarders 4 | 26131 | [26131-cool-boarders-4.json](./26131-cool-boarders-4.json) |
