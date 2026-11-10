@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N++: Ultimate Edition | 81203 | [81203-n-ultimate-edition.json](./81203-n-ultimate-edition.json) |
 | N+1: New Life For Unemployed Youth! | 290518 | [290518-n-1-new-life-for-unemployed-youth.json](./290518-n-1-new-life-for-unemployed-youth.json) |
 | N0-Exit | 31987 | [31987-n0-exit.json](./31987-n0-exit.json) |
+| N00b.gg | 412053 | [412053-n00b-gg.json](./412053-n00b-gg.json) |
 | N00b's Guide | 404956 | [404956-n00bs-guide.json](./404956-n00bs-guide.json) |
 | N0de: Machina Omega | 82470 | [82470-n0de-machina-omega.json](./82470-n0de-machina-omega.json) |
 | N1NE: The Splintered Mind | 120535 | [120535-n1ne-the-splintered-mind.json](./120535-n1ne-the-splintered-mind.json) |
@@ -2708,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Struct: Desperation Column | 187444 | [187444-neon-struct-desperation-column.json](./187444-neon-struct-desperation-column.json) |
 | Neon Struct: Die Augen der Welt | 17571 | [17571-neon-struct-die-augen-der-welt.json](./17571-neon-struct-die-augen-der-welt.json) |
 | Neon Sundown | 193421 | [193421-neon-sundown.json](./193421-neon-sundown.json) |
+| Neon Sunset | 412055 | [412055-neon-sunset.json](./412055-neon-sunset.json) |
 | Neon Survivor | 418542 | [418542-neon-survivor.json](./418542-neon-survivor.json) |
 | Neon Survivors | 245759 | [245759-neon-survivors.json](./245759-neon-survivors.json) |
 | Neon Sword | 107169 | [107169-neon-sword.json](./107169-neon-sword.json) |
@@ -4340,6 +4342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niels Penguin Adventure | 277627 | [277627-niels-penguin-adventure.json](./277627-niels-penguin-adventure.json) |
 | Nienix: Cosmic Warfare | 139629 | [139629-nienix-cosmic-warfare.json](./139629-nienix-cosmic-warfare.json) |
 | Nièpán zhī Lù | 116728 | [116728-niepan-zhi-lu.json](./116728-niepan-zhi-lu.json) |
+| NieR Gestalt ver.1.22474487139... | 412056 | [412056-nier-gestalt-ver-1-22474487139.json](./412056-nier-gestalt-ver-1-22474487139.json) |
 | NieR Re[in]carnation: The People and the World | 259669 | [259669-nier-re-in-carnation-the-people-and-the-world.json](./259669-nier-re-in-carnation-the-people-and-the-world.json) |
 | NieR Re[in]carnation: The Sun and the Moon | 259657 | [259657-nier-re-in-carnation-the-sun-and-the-moon.json](./259657-nier-re-in-carnation-the-sun-and-the-moon.json) |
 | NieR Replicant Ver. 1.22474487139...: White Snow Edition | 139071 | [139071-nier-replicant-ver-1-22474487139-white-snow-edition.json](./139071-nier-replicant-ver-1-22474487139-white-snow-edition.json) |
