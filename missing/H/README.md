@@ -2269,6 +2269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpoons & Balls | 57083 | [57083-harpoons-and-balls.json](./57083-harpoons-and-balls.json) |
 | Harpy | 412265 | [412265-harpy.json](./412265-harpy.json) |
 | Harpy Gaiden | 130551 | [130551-harpy-gaiden.json](./130551-harpy-gaiden.json) |
+| Harpy Lady Lyd | 421781 | [421781-harpy-lady-lyd.json](./421781-harpy-lady-lyd.json) |
 | Harpy Monster Bird Simulator 3D | 88802 | [88802-harpy-monster-bird-simulator-3d.json](./88802-harpy-monster-bird-simulator-3d.json) |
 | Harpy Raiders | 248024 | [248024-harpy-raiders.json](./248024-harpy-raiders.json) |
 | Harpy Star | 149148 | [149148-harpy-star.json](./149148-harpy-star.json) |
