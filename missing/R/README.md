@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rambo | 48210 | [48210-rambo.json](./48210-rambo.json) |
 | Rambo | 74174 | [74174-rambo.json](./74174-rambo.json) |
 | Rambo | 94890 | [94890-rambo.json](./94890-rambo.json) |
+| Rambo III | 12469 | [12469-rambo-iii.json](./12469-rambo-iii.json) |
 | Rambo III | 136726 | [136726-rambo-iii.json](./136726-rambo-iii.json) |
 | Rambo III | 18145 | [18145-rambo-iii.json](./18145-rambo-iii.json) |
 | Rambo III | 199790 | [199790-rambo-iii.json](./199790-rambo-iii.json) |
@@ -8902,6 +8903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road-Frog | 137340 | [137340-road-frog.json](./137340-road-frog.json) |
 | Road's Edge | 28135 | [28135-roads-edge.json](./28135-roads-edge.json) |
 | Road59: A Yakuza’s Last Stand | 326923 | [326923-road59-a-yakuza-s-last-stand.json](./326923-road59-a-yakuza-s-last-stand.json) |
+| RoadBlasters | 12367 | [12367-roadblasters.json](./12367-roadblasters.json) |
 | Roadclub: League Racing | 33644 | [33644-roadclub-league-racing.json](./33644-roadclub-league-racing.json) |
 | RoadCraft | 314239 | [314239-roadcraft.json](./314239-roadcraft.json) |
 | RoadCraft: 1-Year Anniversary Edition | 397906 | [397906-roadcraft-1-year-anniversary-edition.json](./397906-roadcraft-1-year-anniversary-edition.json) |
@@ -13201,6 +13203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Water a.k.a Jugsy | 178424 | [178424-running-water-a-k-a-jugsy.json](./178424-running-water-a-k-a-jugsy.json) |
 | Running Wild | 44973 | [44973-running-wild.json](./44973-running-wild.json) |
 | Running With Dinosaurs | 103470 | [103470-running-with-dinosaurs.json](./103470-running-with-dinosaurs.json) |
+| Running With Rifles | 11584 | [11584-running-with-rifles.json](./11584-running-with-rifles.json) |
 | Running With Rifles 2 | 359709 | [359709-running-with-rifles-2.json](./359709-running-with-rifles-2.json) |
 | Running With Rifles: Eastern Front | 222673 | [222673-running-with-rifles-eastern-front.json](./222673-running-with-rifles-eastern-front.json) |
 | RunningDead | 29650 | [29650-runningdead.json](./29650-runningdead.json) |
