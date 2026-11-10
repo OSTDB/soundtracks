@@ -13162,6 +13162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Train Corporation | 102194 | [102194-hyper-train-corporation.json](./102194-hyper-train-corporation.json) |
 | Hyper Treasure: Macaronic Labyrinth | 174106 | [174106-hyper-treasure-macaronic-labyrinth.json](./174106-hyper-treasure-macaronic-labyrinth.json) |
 | Hyper Treasure: The Legend of Macaron | 151653 | [151653-hyper-treasure-the-legend-of-macaron.json](./151653-hyper-treasure-the-legend-of-macaron.json) |
+| Hyper Trigger | 411946 | [411946-hyper-trigger.json](./411946-hyper-trigger.json) |
 | Hyper Tunnel | 323486 | [323486-hyper-tunnel.json](./323486-hyper-tunnel.json) |
 | Hyper Turbo Boost | 292153 | [292153-hyper-turbo-boost.json](./292153-hyper-turbo-boost.json) |
 | Hyper Ultra Astronautics | 116664 | [116664-hyper-ultra-astronautics.json](./116664-hyper-ultra-astronautics.json) |
