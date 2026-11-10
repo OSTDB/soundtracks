@@ -3559,6 +3559,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opening Weekend - Varmint Season | 115778 | [115778-opening-weekend-varmint-season.json](./115778-opening-weekend-varmint-season.json) |
 | Opening Weekend: Bear Season | 208993 | [208993-opening-weekend-bear-season.json](./208993-opening-weekend-bear-season.json) |
 | Opening Weekend: Big Cat Season | 208992 | [208992-opening-weekend-big-cat-season.json](./208992-opening-weekend-big-cat-season.json) |
+| OpenJade: Prince of Persia - The Sands of Time | 426035 | [426035-openjade-prince-of-persia-the-sands-of-time.json](./426035-openjade-prince-of-persia-the-sands-of-time.json) |
+| OpenJade: Prince of Persia - The Two Thrones | 426037 | [426037-openjade-prince-of-persia-the-two-thrones.json](./426037-openjade-prince-of-persia-the-two-thrones.json) |
+| OpenJade: Prince of Persia - Warrior Within | 426036 | [426036-openjade-prince-of-persia-warrior-within.json](./426036-openjade-prince-of-persia-warrior-within.json) |
 | Openlid | 257193 | [257193-openlid.json](./257193-openlid.json) |
 | OpenLoco | 138233 | [138233-openloco.json](./138233-openloco.json) |
 | OpenMMO | 410878 | [410878-openmmo.json](./410878-openmmo.json) |
@@ -3567,6 +3570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenQuest | 94550 | [94550-openquest.json](./94550-openquest.json) |
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
 | OpenRA | 57205 | [57205-openra.json](./57205-openra.json) |
+| OpenRAC: Ratchet & Clank | 426056 | [426056-openrac-ratchet-and-clank.json](./426056-openrac-ratchet-and-clank.json) |
 | OpenRCT2 | 80720 | [80720-openrct2.json](./80720-openrct2.json) |
 | OpenSandbox | 354902 | [354902-opensandbox.json](./354902-opensandbox.json) |
 | OpenSeason | 279154 | [279154-openseason.json](./279154-openseason.json) |
