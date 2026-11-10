@@ -2592,6 +2592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie: Vacation Adventure | 3318 | [3318-barbie-vacation-adventure.json](./3318-barbie-vacation-adventure.json) |
 | Barbie's Game Room | 293188 | [293188-barbies-game-room.json](./293188-barbies-game-room.json) |
 | Barbie's Team Gymnastics | 59942 | [59942-barbies-team-gymnastics.json](./59942-barbies-team-gymnastics.json) |
+| BarbieGirls.com | 418713 | [418713-barbiegirls-com.json](./418713-barbiegirls-com.json) |
 | Barboozeled | 214732 | [214732-barboozeled.json](./214732-barboozeled.json) |
 | Barbuta | 317573 | [317573-barbuta.json](./317573-barbuta.json) |
 | Barca B.C. | 92648 | [92648-barca-b-c.json](./92648-barca-b-c.json) |
@@ -5992,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty Clicker 2 | 389646 | [389646-beauty-clicker-2.json](./389646-beauty-clicker-2.json) |
 | Beauty Contest | 157309 | [157309-beauty-contest.json](./157309-beauty-contest.json) |
 | Beauty Crush | 259126 | [259126-beauty-crush.json](./259126-beauty-crush.json) |
+| Beauty Escort | 418750 | [418750-beauty-escort.json](./418750-beauty-escort.json) |
 | Beauty Factory | 52447 | [52447-beauty-factory.json](./52447-beauty-factory.json) |
 | Beauty from Wisdom | 236372 | [236372-beauty-from-wisdom.json](./236372-beauty-from-wisdom.json) |
 | Beauty Girl Chronicles: Island Obstacle Challenge | 302797 | [302797-beauty-girl-chronicles-island-obstacle-challenge.json](./302797-beauty-girl-chronicles-island-obstacle-challenge.json) |
@@ -6609,6 +6611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belt Miners | 114617 | [114617-belt-miners.json](./114617-belt-miners.json) |
 | Beltane: A strange encounter at Duloe - Stone Circle | 206329 | [206329-beltane-a-strange-encounter-at-duloe-stone-circle.json](./206329-beltane-a-strange-encounter-at-duloe-stone-circle.json) |
 | Beltex | 207637 | [207637-beltex.json](./207637-beltex.json) |
+| Beltfed | 418690 | [418690-beltfed.json](./418690-beltfed.json) |
 | Beltion: Beyond Ritual | 267177 | [267177-beltion-beyond-ritual.json](./267177-beltion-beyond-ritual.json) |
 | Beltlife: Prospector | 391084 | [391084-beltlife-prospector.json](./391084-beltlife-prospector.json) |
 | Beltmatic | 281960 | [281960-beltmatic.json](./281960-beltmatic.json) |
@@ -9958,6 +9961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Eagle 3-D | 45663 | [45663-blade-eagle-3-d.json](./45663-blade-eagle-3-d.json) |
 | Blade Exload | 231872 | [231872-blade-exload.json](./231872-blade-exload.json) |
 | Blade Fantasy | 213192 | [213192-blade-fantasy.json](./213192-blade-fantasy.json) |
+| Blade Ferret | 418653 | [418653-blade-ferret.json](./418653-blade-ferret.json) |
 | Blade Flash Death | 151278 | [151278-blade-flash-death.json](./151278-blade-flash-death.json) |
 | Blade Force | 11860 | [11860-blade-force.json](./11860-blade-force.json) |
 | Blade Fury | 256946 | [256946-blade-fury.json](./256946-blade-fury.json) |
