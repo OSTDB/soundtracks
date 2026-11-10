@@ -3524,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Conquest | 80750 | [80750-kingdom-conquest.json](./80750-kingdom-conquest.json) |
 | Kingdom Conquest II | 51652 | [51652-kingdom-conquest-ii.json](./51652-kingdom-conquest-ii.json) |
 | Kingdom Coronation Collection | 320464 | [320464-kingdom-coronation-collection.json](./320464-kingdom-coronation-collection.json) |
+| Kingdom Craft | 406999 | [406999-kingdom-craft.json](./406999-kingdom-craft.json) |
 | Kingdom Crusade | 49047 | [49047-kingdom-crusade.json](./49047-kingdom-crusade.json) |
 | Kingdom Cum | 340790 | [340790-kingdom-cum.json](./340790-kingdom-cum.json) |
 | Kingdom Days Sim Date | 197618 | [197618-kingdom-days-sim-date.json](./197618-kingdom-days-sim-date.json) |
