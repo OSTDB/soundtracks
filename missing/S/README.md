@@ -17111,6 +17111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Savage | 347891 | [347891-solar-savage.json](./347891-solar-savage.json) |
 | Solar Scion | 139010 | [139010-solar-scion.json](./139010-solar-scion.json) |
 | Solar Serpent Squadron | 287921 | [287921-solar-serpent-squadron.json](./287921-solar-serpent-squadron.json) |
+| Solar Shifter EX | 35565 | [35565-solar-shifter-ex.json](./35565-solar-shifter-ex.json) |
 | Solar Siege | 56260 | [56260-solar-siege.json](./56260-solar-siege.json) |
 | Solar Smash | 175674 | [175674-solar-smash.json](./175674-solar-smash.json) |
 | Solar Smash 2D | 208135 | [208135-solar-smash-2d.json](./208135-solar-smash-2d.json) |
@@ -29649,6 +29650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets Ablaze | 97175 | [97175-streets-ablaze.json](./97175-streets-ablaze.json) |
 | Streets At Midnight | 179857 | [179857-streets-at-midnight.json](./179857-streets-at-midnight.json) |
 | Streets of Chaos | 212019 | [212019-streets-of-chaos.json](./212019-streets-of-chaos.json) |
+| Streets of Chaos | 35822 | [35822-streets-of-chaos.json](./35822-streets-of-chaos.json) |
 | Streets of Fear | 351754 | [351754-streets-of-fear.json](./351754-streets-of-fear.json) |
 | Streets of Fortuna | 305186 | [305186-streets-of-fortuna.json](./305186-streets-of-fortuna.json) |
 | Streets of Fury EX | 20151 | [20151-streets-of-fury-ex.json](./20151-streets-of-fury-ex.json) |
@@ -35859,6 +35861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival: Lost Way | 143206 | [143206-survival-lost-way.json](./143206-survival-lost-way.json) |
 | Survival: Man vs. Wild | 100492 | [100492-survival-man-vs-wild.json](./100492-survival-man-vs-wild.json) |
 | Survival: Man vs. Wild - Island Escape | 102685 | [102685-survival-man-vs-wild-island-escape.json](./102685-survival-man-vs-wild-island-escape.json) |
+| Survival: Postapocalypse Now | 35706 | [35706-survival-postapocalypse-now.json](./35706-survival-postapocalypse-now.json) |
 | Survival: Revelation | 124225 | [124225-survival-revelation.json](./124225-survival-revelation.json) |
 | Survival: The Ultimate Challenge | 51243 | [51243-survival-the-ultimate-challenge.json](./51243-survival-the-ultimate-challenge.json) |
 | Survival: Wicked Forest | 102626 | [102626-survival-wicked-forest.json](./102626-survival-wicked-forest.json) |
