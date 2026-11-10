@@ -1725,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Project | 92699 | [92699-family-project.json](./92699-family-project.json) |
 | Family Quiz | 172089 | [172089-family-quiz.json](./172089-family-quiz.json) |
 | Family Quiz | 268129 | [268129-family-quiz.json](./268129-family-quiz.json) |
+| Family Quiz | 413990 | [413990-family-quiz.json](./413990-family-quiz.json) |
 | Family Quiz 4-nin wa Rival | 48496 | [48496-family-quiz-4-nin-wa-rival.json](./48496-family-quiz-4-nin-wa-rival.json) |
 | Family Quiz 6 | 151928 | [151928-family-quiz-6.json](./151928-family-quiz-6.json) |
 | Family Restaurant | 209249 | [209249-family-restaurant.json](./209249-family-restaurant.json) |
@@ -5219,9 +5220,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy IV Namingway Edition | 379337 | [379337-final-fantasy-iv-namingway-edition.json](./379337-final-fantasy-iv-namingway-edition.json) |
 | Final Fantasy IV: Daughter of Darkness and Light | 316531 | [316531-final-fantasy-iv-daughter-of-darkness-and-light.json](./316531-final-fantasy-iv-daughter-of-darkness-and-light.json) |
 | Final Fantasy IV: Interlude | 131995 | [131995-final-fantasy-iv-interlude.json](./131995-final-fantasy-iv-interlude.json) |
+| Final Fantasy IV: T-Edition | 413963 | [413963-final-fantasy-iv-t-edition.json](./413963-final-fantasy-iv-t-edition.json) |
 | Final Fantasy IV: The After Years | 146022 | [146022-final-fantasy-iv-the-after-years.json](./146022-final-fantasy-iv-the-after-years.json) |
 | Final Fantasy IV: The After Years | 388 | [388-final-fantasy-iv-the-after-years.json](./388-final-fantasy-iv-the-after-years.json) |
 | Final Fantasy IV: The Complete Collection | 21779 | [21779-final-fantasy-iv-the-complete-collection.json](./21779-final-fantasy-iv-the-complete-collection.json) |
+| Final Fantasy IV: The Darkness Within | 413940 | [413940-final-fantasy-iv-the-darkness-within.json](./413940-final-fantasy-iv-the-darkness-within.json) |
 | Final Fantasy IV: The DSfication | 274983 | [274983-final-fantasy-iv-the-dsfication.json](./274983-final-fantasy-iv-the-dsfication.json) |
 | Final Fantasy IV: Ultima | 215388 | [215388-final-fantasy-iv-ultima.json](./215388-final-fantasy-iv-ultima.json) |
 | Final Fantasy IV: Unprecedented Crisis | 215385 | [215385-final-fantasy-iv-unprecedented-crisis.json](./215385-final-fantasy-iv-unprecedented-crisis.json) |
@@ -6105,6 +6108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem 7 Legacy | 373022 | [373022-fire-emblem-7-legacy.json](./373022-fire-emblem-7-legacy.json) |
 | Fire Emblem 8: Self-Randomizing | 259869 | [259869-fire-emblem-8-self-randomizing.json](./259869-fire-emblem-8-self-randomizing.json) |
 | Fire Emblem 8R | 380529 | [380529-fire-emblem-8r.json](./380529-fire-emblem-8r.json) |
+| Fire Emblem Advance: Homecoming | 413928 | [413928-fire-emblem-advance-homecoming.json](./413928-fire-emblem-advance-homecoming.json) |
 | Fire Emblem Echoes: Shadows of Valentia | 26840 | [26840-fire-emblem-echoes-shadows-of-valentia.json](./26840-fire-emblem-echoes-shadows-of-valentia.json) |
 | Fire Emblem Echoes: Shadows of Valentia - Limited Edition | 136336 | [136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json](./136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json) |
 | Fire Emblem Engage Bundle | 278003 | [278003-fire-emblem-engage-bundle.json](./278003-fire-emblem-engage-bundle.json) |
@@ -6184,6 +6188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: In the Name of Bern | 345125 | [345125-fire-emblem-in-the-name-of-bern.json](./345125-fire-emblem-in-the-name-of-bern.json) |
 | Fire Emblem: Justice & Pride | 214536 | [214536-fire-emblem-justice-and-pride.json](./214536-fire-emblem-justice-and-pride.json) |
 | Fire Emblem: Legends of Avenir | 261267 | [261267-fire-emblem-legends-of-avenir.json](./261267-fire-emblem-legends-of-avenir.json) |
+| Fire Emblem: Life of Seiros | 413930 | [413930-fire-emblem-life-of-seiros.json](./413930-fire-emblem-life-of-seiros.json) |
 | Fire Emblem: Midori | 243641 | [243641-fire-emblem-midori.json](./243641-fire-emblem-midori.json) |
 | Fire Emblem: Monshou no Nazo | 1435 | [1435-fire-emblem-monshou-no-nazo.json](./1435-fire-emblem-monshou-no-nazo.json) |
 | Fire Emblem: New Theory of Thracia 776 | 309610 | [309610-fire-emblem-new-theory-of-thracia-776.json](./309610-fire-emblem-new-theory-of-thracia-776.json) |
@@ -6880,6 +6885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisherones | 81898 | [81898-fisherones.json](./81898-fisherones.json) |
 | Fishery Tycoon | 212475 | [212475-fishery-tycoon.json](./212475-fishery-tycoon.json) |
 | Fishes and Barrels | 244797 | [244797-fishes-and-barrels.json](./244797-fishes-and-barrels.json) |
+| FishFishFishFishFish | 413986 | [413986-fishfishfishfishfish.json](./413986-fishfishfishfishfish.json) |
 | Fishgun | 255238 | [255238-fishgun.json](./255238-fishgun.json) |
 | Fishhead 3: The Search For a Heart of Gold | 191256 | [191256-fishhead-3-the-search-for-a-heart-of-gold.json](./191256-fishhead-3-the-search-for-a-heart-of-gold.json) |
 | Fishhead: Blueprint | 142805 | [142805-fishhead-blueprint.json](./142805-fishhead-blueprint.json) |
@@ -8891,6 +8897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Friends | 57040 | [57040-fluffy-friends.json](./57040-fluffy-friends.json) |
 | Fluffy Friends 2 | 74943 | [74943-fluffy-friends-2.json](./74943-fluffy-friends-2.json) |
 | Fluffy Friends 3 | 116038 | [116038-fluffy-friends-3.json](./116038-fluffy-friends-3.json) |
+| Fluffy Friends: Cute Preschool | 413945 | [413945-fluffy-friends-cute-preschool.json](./413945-fluffy-friends-cute-preschool.json) |
 | Fluffy Gore | 150156 | [150156-fluffy-gore.json](./150156-fluffy-gore.json) |
 | Fluffy Horde | 107385 | [107385-fluffy-horde.json](./107385-fluffy-horde.json) |
 | Fluffy Horde + Clumsy Rush | 230407 | [230407-fluffy-horde-clumsy-rush.json](./230407-fluffy-horde-clumsy-rush.json) |
