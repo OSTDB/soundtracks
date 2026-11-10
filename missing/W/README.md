@@ -4557,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Perry? | 65064 | [65064-wheres-my-perry.json](./65064-wheres-my-perry.json) |
 | Where's My Phone?! | 149863 | [149863-wheres-my-phone.json](./149863-wheres-my-phone.json) |
 | Where's My Tripod? | 180801 | [180801-wheres-my-tripod.json](./180801-wheres-my-tripod.json) |
+| Where's My Valentine? | 400612 | [400612-wheres-my-valentine.json](./400612-wheres-my-valentine.json) |
 | Where's My Water? | 13460 | [13460-wheres-my-water.json](./13460-wheres-my-water.json) |
 | Where's My Water? Featuring XYY | 61758 | [61758-wheres-my-water-featuring-xyy.json](./61758-wheres-my-water-featuring-xyy.json) |
 | Where's My What? | 31201 | [31201-wheres-my-what.json](./31201-wheres-my-what.json) |
@@ -9801,6 +9802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wuthering Waves: Lightly We Toss the Crown | 346182 | [346182-wuthering-waves-lightly-we-toss-the-crown.json](./346182-wuthering-waves-lightly-we-toss-the-crown.json) |
 | Wuthering Waves: Prism's Illusion, Heart's Illumination | 423062 | [423062-wuthering-waves-prisms-illusion-hearts-illumination.json](./423062-wuthering-waves-prisms-illusion-hearts-illumination.json) |
 | Wuthering Waves: Resolution to Illuminate the Shadows | 394857 | [394857-wuthering-waves-resolution-to-illuminate-the-shadows.json](./394857-wuthering-waves-resolution-to-illuminate-the-shadows.json) |
+| Wuthering Waves: Reverbs From the End of Galaxies | 400641 | [400641-wuthering-waves-reverbs-from-the-end-of-galaxies.json](./400641-wuthering-waves-reverbs-from-the-end-of-galaxies.json) |
 | Wuthering Waves: Tangled Truth in Inverted Tower | 336262 | [336262-wuthering-waves-tangled-truth-in-inverted-tower.json](./336262-wuthering-waves-tangled-truth-in-inverted-tower.json) |
 | Wuthering Waves: Thaw of Eons | 311653 | [311653-wuthering-waves-thaw-of-eons.json](./311653-wuthering-waves-thaw-of-eons.json) |
 | Wuthering Waves: To the City Set in Amber | 377973 | [377973-wuthering-waves-to-the-city-set-in-amber.json](./377973-wuthering-waves-to-the-city-set-in-amber.json) |
