@@ -9169,6 +9169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Live! Nijigasaki High School Idol Club: Tokimeki Roadmap to the Future | 282695 | [282695-love-live-nijigasaki-high-school-idol-club-tokimeki-roadmap-to-the-future.json](./282695-love-live-nijigasaki-high-school-idol-club-tokimeki-roadmap-to-the-future.json) |
 | Love Live! School Idol Festival | 36660 | [36660-love-live-school-idol-festival.json](./36660-love-live-school-idol-festival.json) |
 | Love Live! School Idol Festival 2: Miracle Live! | 218658 | [218658-love-live-school-idol-festival-2-miracle-live.json](./218658-love-live-school-idol-festival-2-miracle-live.json) |
+| Love Live! School Idol Festival All Stars | 122640 | [122640-love-live-school-idol-festival-all-stars.json](./122640-love-live-school-idol-festival-all-stars.json) |
 | Love Live! School Idol Festival: After School Activity | 36689 | [36689-love-live-school-idol-festival-after-school-activity.json](./36689-love-live-school-idol-festival-after-school-activity.json) |
 | Love Live! School Idol Festival: After School Activity - Wai-Wai! Home Meeting!! | 141248 | [141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json](./141248-love-live-school-idol-festival-after-school-activity-wai-wai-home-meeting.json) |
 | Love Live! School Idol Paradise | 81340 | [81340-love-live-school-idol-paradise.json](./81340-love-live-school-idol-paradise.json) |
