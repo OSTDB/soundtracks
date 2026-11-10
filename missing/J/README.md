@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaleco Collection: Vol.1 | 80756 | [80756-jaleco-collection-vol-1.json](./80756-jaleco-collection-vol-1.json) |
 | Jaleco Rally: Big Run - The Supreme 4WD Challenge | 38169 | [38169-jaleco-rally-big-run-the-supreme-4wd-challenge.json](./38169-jaleco-rally-big-run-the-supreme-4wd-challenge.json) |
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
+| Jaleco Sports: Bases Loaded 2 | 396872 | [396872-jaleco-sports-bases-loaded-2.json](./396872-jaleco-sports-bases-loaded-2.json) |
 | Jaleco Sports: Faceoffs | 417317 | [417317-jaleco-sports-faceoffs.json](./417317-jaleco-sports-faceoffs.json) |
 | Jaleco Sports: Goal! | 347556 | [347556-jaleco-sports-goal.json](./347556-jaleco-sports-goal.json) |
 | Jalecolle Famicom Ver. Bio Warrior Dan: The Increaser War | 317557 | [317557-jalecolle-famicom-ver-bio-warrior-dan-the-increaser-war.json](./317557-jalecolle-famicom-ver-bio-warrior-dan-the-increaser-war.json) |
