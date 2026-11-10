@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Typing The Alphabet | 350726 | [350726-a-game-about-typing-the-alphabet.json](./350726-a-game-about-typing-the-alphabet.json) |
 | A Game About You | 379504 | [379504-a-game-about-you.json](./379504-a-game-about-you.json) |
 | A Game Called Paako: The Game Called Paako | 293526 | [293526-a-game-called-paako-the-game-called-paako.json](./293526-a-game-called-paako-the-game-called-paako.json) |
+| A Game of Chance | 405043 | [405043-a-game-of-chance.json](./405043-a-game-of-chance.json) |
 | A Game of Changes | 32728 | [32728-a-game-of-changes.json](./32728-a-game-of-changes.json) |
 | A Game of Concentration | 40723 | [40723-a-game-of-concentration.json](./40723-a-game-of-concentration.json) |
 | A Game of D.I.C.E. | 373905 | [373905-a-game-of-d-i-c-e.json](./373905-a-game-of-d-i-c-e.json) |
@@ -7315,6 +7316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien League | 115349 | [115349-alien-league.json](./115349-alien-league.json) |
 | Alien Legacy | 14419 | [14419-alien-legacy.json](./14419-alien-legacy.json) |
 | Alien Legion | 14243 | [14243-alien-legion.json](./14243-alien-legion.json) |
+| Alien Life | 405105 | [405105-alien-life.json](./405105-alien-life.json) |
 | Alien Looter | 267270 | [267270-alien-looter.json](./267270-alien-looter.json) |
 | Alien Madness | 363161 | [363161-alien-madness.json](./363161-alien-madness.json) |
 | Alien Makeout Simulator | 229625 | [229625-alien-makeout-simulator.json](./229625-alien-makeout-simulator.json) |
@@ -10817,6 +10819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals' Matching | 92008 | [92008-animals-matching.json](./92008-animals-matching.json) |
 | AnimaLudo | 153823 | [153823-animaludo.json](./153823-animaludo.json) |
 | AnimaLudo: Extended Edition | 199839 | [199839-animaludo-extended-edition.json](./199839-animaludo-extended-edition.json) |
+| AnimaLudo: Zoo pack | 404564 | [404564-animaludo-zoo-pack.json](./404564-animaludo-zoo-pack.json) |
 | Animaly Bar: No Humanity! | 402714 | [402714-animaly-bar-no-humanity.json](./402714-animaly-bar-no-humanity.json) |
 | Animalz Pop-em | 232361 | [232361-animalz-pop-em.json](./232361-animalz-pop-em.json) |
 | Animamundi: Dark Alchemist | 72665 | [72665-animamundi-dark-alchemist.json](./72665-animamundi-dark-alchemist.json) |
@@ -17683,7 +17686,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
