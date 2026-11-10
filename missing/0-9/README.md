@@ -2192,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Player Battle | 58720 | [58720-3-player-battle.json](./58720-3-player-battle.json) |
 | 3 Point Basketball | 2376 | [2376-3-point-basketball.json](./2376-3-point-basketball.json) |
 | 3 Point Contest | 64319 | [64319-3-point-contest.json](./64319-3-point-contest.json) |
+| 3 Puck Chuck | 405215 | [405215-3-puck-chuck.json](./405215-3-puck-chuck.json) |
 | 3 Scary Games | 254035 | [254035-3-scary-games.json](./254035-3-scary-games.json) |
 | 3 Seasons | 221208 | [221208-3-seasons.json](./221208-3-seasons.json) |
 | 3 Seconds Remaining | 365045 | [365045-3-seconds-remaining.json](./365045-3-seconds-remaining.json) |
