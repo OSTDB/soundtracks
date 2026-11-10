@@ -9647,6 +9647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World Dawn | 21521 | [21521-digimon-world-dawn.json](./21521-digimon-world-dawn.json) |
 | Digimon World DS | 20609 | [20609-digimon-world-ds.json](./20609-digimon-world-ds.json) |
 | Digimon World Legends | 331981 | [331981-digimon-world-legends.json](./331981-digimon-world-legends.json) |
+| Digimon World Re:Digitize | 11391 | [11391-digimon-world-re-digitize.json](./11391-digimon-world-re-digitize.json) |
 | Digimon World Re:Digitize Decode | 80507 | [80507-digimon-world-re-digitize-decode.json](./80507-digimon-world-re-digitize-decode.json) |
 | Digimon World Vice | 339254 | [339254-digimon-world-vice.json](./339254-digimon-world-vice.json) |
 | Digimon World: Digital Card Battle | 186116 | [186116-digimon-world-digital-card-battle.json](./186116-digimon-world-digital-card-battle.json) |
@@ -17551,6 +17552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive.RS | 252324 | [252324-drive-rs.json](./252324-drive-rs.json) |
 | Drive//Shaft | 75921 | [75921-drive-shaft.json](./75921-drive-shaft.json) |
 | Driveby Gangster | 34452 | [34452-driveby-gangster.json](./34452-driveby-gangster.json) |
+| Driveclub Bikes | 14369 | [14369-driveclub-bikes.json](./14369-driveclub-bikes.json) |
 | DriveCraft | 392909 | [392909-drivecraft.json](./392909-drivecraft.json) |
 | DriveCrazy | 151746 | [151746-drivecrazy.json](./151746-drivecrazy.json) |
 | Driveland | 285559 | [285559-driveland.json](./285559-driveland.json) |
