@@ -2679,6 +2679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Humans | 167269 | [167269-kill-the-humans.json](./167269-kill-the-humans.json) |
 | Kill The K.O.T.H | 261794 | [261794-kill-the-k-o-t-h.json](./261794-kill-the-k-o-t-h.json) |
 | Kill the King | 142705 | [142705-kill-the-king.json](./142705-kill-the-king.json) |
+| Kill the Lich | 398726 | [398726-kill-the-lich.json](./398726-kill-the-lich.json) |
 | Kill The Lights! | 337636 | [337636-kill-the-lights.json](./337636-kill-the-lights.json) |
 | Kill the Man in the House | 252104 | [252104-kill-the-man-in-the-house.json](./252104-kill-the-man-in-the-house.json) |
 | Kill The Monk | 269865 | [269865-kill-the-monk.json](./269865-kill-the-monk.json) |
@@ -3274,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
 | King of Kingdoms | 224030 | [224030-king-of-kingdoms.json](./224030-king-of-kingdoms.json) |
 | King of Kings | 231927 | [231927-king-of-kings.json](./231927-king-of-kings.json) |
+| King of Kings | 398937 | [398937-king-of-kings.json](./398937-king-of-kings.json) |
 | King of Kings | 48721 | [48721-king-of-kings.json](./48721-king-of-kings.json) |
 | King of Kings 3 | 54155 | [54155-king-of-kings-3.json](./54155-king-of-kings-3.json) |
 | King of Kings: The Early Years | 48148 | [48148-king-of-kings-the-early-years.json](./48148-king-of-kings-the-early-years.json) |
