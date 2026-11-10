@@ -1172,6 +1172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 123 Mazes | 358058 | [358058-123-mazes.json](./358058-123-mazes.json) |
 | 123 Picture Match | 110220 | [110220-123-picture-match.json](./110220-123-picture-match.json) |
 | 123 Slaughter Me Street | 19810 | [19810-123-slaughter-me-street.json](./19810-123-slaughter-me-street.json) |
+| 123 Slaughter Me Street 2 | 30676 | [30676-123-slaughter-me-street-2.json](./30676-123-slaughter-me-street-2.json) |
 | 123 Wooden Figures | 358059 | [358059-123-wooden-figures.json](./358059-123-wooden-figures.json) |
 | 1234 Connect Puzzle | 357975 | [357975-1234-connect-puzzle.json](./357975-1234-connect-puzzle.json) |
 | 123Babycount | 89724 | [89724-123babycount.json](./89724-123babycount.json) |
