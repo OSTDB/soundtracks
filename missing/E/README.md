@@ -2169,6 +2169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldrador Creatures | 139836 | [139836-eldrador-creatures.json](./139836-eldrador-creatures.json) |
 | Eldrador Creatures: Shadowfall | 324762 | [324762-eldrador-creatures-shadowfall.json](./324762-eldrador-creatures-shadowfall.json) |
 | Eldramoor: Haven in the Mist | 397671 | [397671-eldramoor-haven-in-the-mist.json](./397671-eldramoor-haven-in-the-mist.json) |
+| Eldread: Horrors of a Dark Moon | 412034 | [412034-eldread-horrors-of-a-dark-moon.json](./412034-eldread-horrors-of-a-dark-moon.json) |
 | Eldrian Legacy | 109524 | [109524-eldrian-legacy.json](./109524-eldrian-legacy.json) |
 | Eldrimar | 244064 | [244064-eldrimar.json](./244064-eldrimar.json) |
 | Eldrimar: The Card Game | 261638 | [261638-eldrimar-the-card-game.json](./261638-eldrimar-the-card-game.json) |
@@ -4721,6 +4722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic City Builder 4 | 142194 | [142194-epic-city-builder-4.json](./142194-epic-city-builder-4.json) |
 | Epic Clicker Journey | 34134 | [34134-epic-clicker-journey.json](./34134-epic-clicker-journey.json) |
 | Epic Clickers | 373230 | [373230-epic-clickers.json](./373230-epic-clickers.json) |
+| Epic Coaster | 412459 | [412459-epic-coaster.json](./412459-epic-coaster.json) |
 | Epic Combo Redux | 387903 | [387903-epic-combo-redux.json](./387903-epic-combo-redux.json) |
 | Epic Combo! | 387904 | [387904-epic-combo.json](./387904-epic-combo.json) |
 | Epic Conquest | 129606 | [129606-epic-conquest.json](./129606-epic-conquest.json) |
@@ -7693,6 +7695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eviternity | 136040 | [136040-eviternity.json](./136040-eviternity.json) |
 | Eviternity II | 279772 | [279772-eviternity-ii.json](./279772-eviternity-ii.json) |
 | Evkworld | 120379 | [120379-evkworld.json](./120379-evkworld.json) |
+| Evo Born | 412051 | [412051-evo-born.json](./412051-evo-born.json) |
 | Evo Defense | 395564 | [395564-evo-defense.json](./395564-evo-defense.json) |
 | Evo Explores | 32731 | [32731-evo-explores.json](./32731-evo-explores.json) |
 | Evo Island | 290415 | [290415-evo-island.json](./290415-evo-island.json) |
