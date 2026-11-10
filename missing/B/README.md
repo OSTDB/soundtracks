@@ -997,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6446,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bejeweled Live | 92015 | [92015-bejeweled-live.json](./92015-bejeweled-live.json) |
 | Bejeweled Live + | 106044 | [106044-bejeweled-live.json](./106044-bejeweled-live.json) |
 | Bejeweled Stars | 19941 | [19941-bejeweled-stars.json](./19941-bejeweled-stars.json) |
+| Bejeweled Twist | 15712 | [15712-bejeweled-twist.json](./15712-bejeweled-twist.json) |
 | Beki, Do You Copy? | 372731 | [372731-beki-do-you-copy.json](./372731-beki-do-you-copy.json) |
 | Bekkouame | 93708 | [93708-bekkouame.json](./93708-bekkouame.json) |
 | Beku | 171759 | [171759-beku.json](./171759-beku.json) |
@@ -12164,6 +12166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Man Adventure | 412516 | [412516-blue-man-adventure.json](./412516-blue-man-adventure.json) |
 | Blue Mansion | 349113 | [349113-blue-mansion.json](./349113-blue-mansion.json) |
 | Blue Mario Bros. 3 | 259910 | [259910-blue-mario-bros-3.json](./259910-blue-mario-bros-3.json) |
+| Blue Max | 13817 | [13817-blue-max.json](./13817-blue-max.json) |
 | Blue Max 2001 | 13818 | [13818-blue-max-2001.json](./13818-blue-max-2001.json) |
 | Blue Max: Aces of the Great War | 11972 | [11972-blue-max-aces-of-the-great-war.json](./11972-blue-max-aces-of-the-great-war.json) |
 | Blue Mint | 340216 | [340216-blue-mint.json](./340216-blue-mint.json) |
@@ -18616,6 +18619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn The Witch: Toll of the Bell Bearer | 358957 | [358957-burn-the-witch-toll-of-the-bell-bearer.json](./358957-burn-the-witch-toll-of-the-bell-bearer.json) |
 | Burn Them | 255137 | [255137-burn-them.json](./255137-burn-them.json) |
 | Burn Your Fat with Me! | 210716 | [210716-burn-your-fat-with-me.json](./210716-burn-your-fat-with-me.json) |
+| Burn Zombie Burn! | 16174 | [16174-burn-zombie-burn.json](./16174-burn-zombie-burn.json) |
 | Burn-9 | 404870 | [404870-burn-9.json](./404870-burn-9.json) |
 | Burn, Clown, Burn! | 74940 | [74940-burn-clown-burn.json](./74940-burn-clown-burn.json) |
 | Burn:Cycle | 45942 | [45942-burn-cycle.json](./45942-burn-cycle.json) |
