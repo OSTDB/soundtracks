@@ -4973,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tessa's Fate | 140583 | [140583-tessas-fate.json](./140583-tessas-fate.json) |
 | Tessallation | 62829 | [62829-tessallation.json](./62829-tessallation.json) |
 | Tessel Run | 391753 | [391753-tessel-run.json](./391753-tessel-run.json) |
+| Tessela | 425437 | [425437-tessela.json](./425437-tessela.json) |
 | Tessera | 333113 | [333113-tessera.json](./333113-tessera.json) |
 | TesserAct | 17496 | [17496-tesseract.json](./17496-tesseract.json) |
 | Tesseract VR | 99602 | [99602-tesseract-vr.json](./99602-tesseract-vr.json) |
@@ -20576,6 +20577,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's This Girl | 134135 | [134135-theres-this-girl.json](./134135-theres-this-girl.json) |
 | Thereafter | 247622 | [247622-thereafter.json](./247622-thereafter.json) |
 | Theresia | 21300 | [21300-theresia.json](./21300-theresia.json) |
+| Theresia | 425405 | [425405-theresia.json](./425405-theresia.json) |
+| Theresia II: Dear Lizst | 425404 | [425404-theresia-ii-dear-lizst.json](./425404-theresia-ii-dear-lizst.json) |
 | Therian Crush: Wild Animal Girls | 414453 | [414453-therian-crush-wild-animal-girls.json](./414453-therian-crush-wild-animal-girls.json) |
 | Therian Saga | 30951 | [30951-therian-saga.json](./30951-therian-saga.json) |
 | Thermal Power Plant K-13 | 182989 | [182989-thermal-power-plant-k-13.json](./182989-thermal-power-plant-k-13.json) |
@@ -23806,6 +23809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timagi | 268941 | [268941-timagi.json](./268941-timagi.json) |
 | Timber | 25881 | [25881-timber.json](./25881-timber.json) |
 | Timber | 288597 | [288597-timber.json](./288597-timber.json) |
+| Timber & Fortune | 425432 | [425432-timber-and-fortune.json](./425432-timber-and-fortune.json) |
 | Timber and Stone | 24518 | [24518-timber-and-stone.json](./24518-timber-and-stone.json) |
 | Timber Fever | 385974 | [385974-timber-fever.json](./385974-timber-fever.json) |
 | Timber Jump VR | 149589 | [149589-timber-jump-vr.json](./149589-timber-jump-vr.json) |
@@ -26368,6 +26372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomorrow Don't Come: Vicious Cycle | 172124 | [172124-tomorrow-dont-come-vicious-cycle.json](./172124-tomorrow-dont-come-vicious-cycle.json) |
 | Tomorrow for Mar | 199608 | [199608-tomorrow-for-mar.json](./199608-tomorrow-for-mar.json) |
 | Tomorrow is my Birthday | 260088 | [260088-tomorrow-is-my-birthday.json](./260088-tomorrow-is-my-birthday.json) |
+| Tomorrow Never Comes | 425400 | [425400-tomorrow-never-comes.json](./425400-tomorrow-never-comes.json) |
 | Tomorrow Never Dies 64 | 194838 | [194838-tomorrow-never-dies-64.json](./194838-tomorrow-never-dies-64.json) |
 | Tomorrow Will Be Dying | 177874 | [177874-tomorrow-will-be-dying.json](./177874-tomorrow-will-be-dying.json) |
 | Tomorrow Won't Come For Those Without | 135658 | [135658-tomorrow-wont-come-for-those-without.json](./135658-tomorrow-wont-come-for-those-without.json) |
