@@ -9,6 +9,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q | 74270 | [74270-q.json](./74270-q.json) |
 | Q | 80330 | [80330-q.json](./80330-q.json) |
 | Q Billion | 49026 | [49026-q-billion.json](./49026-q-billion.json) |
+| Q Collection | 400202 | [400202-q-collection.json](./400202-q-collection.json) |
 | Q Remastered | 222250 | [222250-q-remastered.json](./222250-q-remastered.json) |
 | Q Steps | 327103 | [327103-q-steps.json](./327103-q-steps.json) |
 | Q to Q2 Butsuri Edition | 328141 | [328141-q-to-q2-butsuri-edition.json](./328141-q-to-q2-butsuri-edition.json) |
@@ -771,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Conquest | 157390 | [157390-queens-conquest.json](./157390-queens-conquest.json) |
 | Queen's Crown | 80571 | [80571-queens-crown.json](./80571-queens-crown.json) |
 | Queen's Crown 2 | 38734 | [38734-queens-crown-2.json](./38734-queens-crown-2.json) |
+| Queen's Domain | 258775 | [258775-queens-domain.json](./258775-queens-domain.json) |
 | Queen's Gamble | 411234 | [411234-queens-gamble.json](./411234-queens-gamble.json) |
 | Queen's Garden | 54269 | [54269-queens-garden.json](./54269-queens-garden.json) |
 | Queen's Garden 2 | 101504 | [101504-queens-garden-2.json](./101504-queens-garden-2.json) |
