@@ -4814,6 +4814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life source | 117093 | [117093-life-source.json](./117093-life-source.json) |
 | Life Stage, Virtual House | 37122 | [37122-life-stage-virtual-house.json](./37122-life-stage-virtual-house.json) |
 | Life The Game | 326720 | [326720-life-the-game.json](./326720-life-the-game.json) |
+| Life Warp | 426070 | [426070-life-warp.json](./426070-life-warp.json) |
 | Life with a Homunculus | 364408 | [364408-life-with-a-homunculus.json](./364408-life-with-a-homunculus.json) |
 | Life with Horses 3D | 85251 | [85251-life-with-horses-3d.json](./85251-life-with-horses-3d.json) |
 | Life with Mary | 150513 | [150513-life-with-mary.json](./150513-life-with-mary.json) |
@@ -7673,6 +7674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
 | Long Trip | 285827 | [285827-long-trip.json](./285827-long-trip.json) |
 | Long Truck Simulator | 243544 | [243544-long-truck-simulator.json](./243544-long-truck-simulator.json) |
+| Long Voyage | 426027 | [426027-long-voyage.json](./426027-long-voyage.json) |
 | Long War of the Chosen | 315590 | [315590-long-war-of-the-chosen.json](./315590-long-war-of-the-chosen.json) |
 | Long Way | 261640 | [261640-long-way.json](./261640-long-way.json) |
 | Long Yard Run | 311052 | [311052-long-yard-run.json](./311052-long-yard-run.json) |
@@ -10246,6 +10248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luna League Soccer | 267324 | [267324-luna-league-soccer.json](./267324-luna-league-soccer.json) |
 | Luna Online | 93982 | [93982-luna-online.json](./93982-luna-online.json) |
 | Luna Online: Reborn | 54806 | [54806-luna-online-reborn.json](./54806-luna-online-reborn.json) |
+| Luna Plena | 426071 | [426071-luna-plena.json](./426071-luna-plena.json) |
 | Luna Sanctus | 121563 | [121563-luna-sanctus.json](./121563-luna-sanctus.json) |
 | Luna Sky | 35447 | [35447-luna-sky.json](./35447-luna-sky.json) |
 | Luna Sky RDX | 118734 | [118734-luna-sky-rdx.json](./118734-luna-sky-rdx.json) |
