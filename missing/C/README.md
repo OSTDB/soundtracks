@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caged Beast | 207696 | [207696-caged-beast.json](./207696-caged-beast.json) |
 | Caged Bird Don't Fly Caught in a Wire Sing Like a Good Canary Come When Called | 122335 | [122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json](./122335-caged-bird-dont-fly-caught-in-a-wire-sing-like-a-good-canary-come-when-called.json) |
 | Caged Garden Cock Robin | 120259 | [120259-caged-garden-cock-robin.json](./120259-caged-garden-cock-robin.json) |
+| Caged In Concrete | 407003 | [407003-caged-in-concrete.json](./407003-caged-in-concrete.json) |
 | Cages: Hidden Worlds | 406114 | [406114-cages-hidden-worlds.json](./406114-cages-hidden-worlds.json) |
 | Caging me Softly | 60611 | [60611-caging-me-softly.json](./60611-caging-me-softly.json) |
 | Cagio | 210325 | [210325-cagio.json](./210325-cagio.json) |
@@ -5699,6 +5700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemetery Defence | 268308 | [268308-cemetery-defence.json](./268308-cemetery-defence.json) |
 | Cemetery Mary | 177883 | [177883-cemetery-mary.json](./177883-cemetery-mary.json) |
 | Cemetery of Bob | 293510 | [293510-cemetery-of-bob.json](./293510-cemetery-of-bob.json) |
+| Cemetery Simulator | 406996 | [406996-cemetery-simulator.json](./406996-cemetery-simulator.json) |
 | Cemetery War | 163772 | [163772-cemetery-war.json](./163772-cemetery-war.json) |
 | Cemetery Warrior 2 | 82471 | [82471-cemetery-warrior-2.json](./82471-cemetery-warrior-2.json) |
 | Cemetery Warrior 3 | 29991 | [29991-cemetery-warrior-3.json](./29991-cemetery-warrior-3.json) |
@@ -7358,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChessFriends.com | 131095 | [131095-chessfriends-com.json](./131095-chessfriends-com.json) |
 | Chessia | 68164 | [68164-chessia.json](./68164-chessia.json) |
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
+| Chessillo | 407023 | [407023-chessillo.json](./407023-chessillo.json) |
 | Chessium: 3D Chess Battle | 271646 | [271646-chessium-3d-chess-battle.json](./271646-chessium-3d-chess-battle.json) |
 | Chesskoban | 181045 | [181045-chesskoban.json](./181045-chesskoban.json) |
 | Chesskoban Bishop | 189106 | [189106-chesskoban-bishop.json](./189106-chesskoban-bishop.json) |
@@ -8389,6 +8392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chop Loop | 428391 | [428391-chop-loop.json](./428391-chop-loop.json) |
 | Chop Shop | 324659 | [324659-chop-shop.json](./324659-chop-shop.json) |
 | Chop Signal | 389455 | [389455-chop-signal.json](./389455-chop-signal.json) |
+| Chop Sous-y-chef | 406990 | [406990-chop-sous-y-chef.json](./406990-chop-sous-y-chef.json) |
 | Chop Suey | 234212 | [234212-chop-suey.json](./234212-chop-suey.json) |
 | Chop Suey | 47297 | [47297-chop-suey.json](./47297-chop-suey.json) |
 | Chop Sushi | 18252 | [18252-chop-sushi.json](./18252-chop-sushi.json) |
@@ -10255,6 +10259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clandestiny | 57588 | [57588-clandestiny.json](./57588-clandestiny.json) |
 | Clanfolk | 172261 | [172261-clanfolk.json](./172261-clanfolk.json) |
 | Clang | 85956 | [85956-clang.json](./85956-clang.json) |
+| Clank-Robotics | 407028 | [407028-clank-robotics.json](./407028-clank-robotics.json) |
 | Clankers! | 376050 | [376050-clankers.json](./376050-clankers.json) |
 | Clannad | 262473 | [262473-clannad.json](./262473-clannad.json) |
 | Clannad | 262492 | [262492-clannad.json](./262492-clannad.json) |
