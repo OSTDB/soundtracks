@@ -7820,6 +7820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktoptale | 329657 | [329657-desktoptale.json](./329657-desktoptale.json) |
 | Desktown | 373323 | [373323-desktown.json](./373323-desktown.json) |
 | Deskworm | 387487 | [387487-deskworm.json](./387487-deskworm.json) |
+| Deslot | 425395 | [425395-deslot.json](./425395-deslot.json) |
 | Desmond's Castle | 328317 | [328317-desmonds-castle.json](./328317-desmonds-castle.json) |
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
 | Desohunter | 156524 | [156524-desohunter.json](./156524-desohunter.json) |
@@ -8204,6 +8205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Boiled-Hard / Case File - Death of the Space Dino Hunter | 393455 | [393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json](./393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json) |
 | Detective Bot | 133121 | [133121-detective-bot.json](./133121-detective-bot.json) |
 | Detective Boto: Belle Memoir | 410934 | [410934-detective-boto-belle-memoir.json](./410934-detective-boto-belle-memoir.json) |
+| Detective Brand Golf | 425388 | [425388-detective-brand-golf.json](./425388-detective-brand-golf.json) |
 | Detective Bureau Simulator | 150015 | [150015-detective-bureau-simulator.json](./150015-detective-bureau-simulator.json) |
 | Detective Butler and the King of Hearts | 244238 | [244238-detective-butler-and-the-king-of-hearts.json](./244238-detective-butler-and-the-king-of-hearts.json) |
 | Detective Butler: Maiden Voyage Murder | 34660 | [34660-detective-butler-maiden-voyage-murder.json](./34660-detective-butler-maiden-voyage-murder.json) |
@@ -9464,6 +9466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Differences Master | 392930 | [392930-differences-master.json](./392930-differences-master.json) |
 | Different Stories VR | 169592 | [169592-different-stories-vr.json](./169592-different-stories-vr.json) |
 | Different Strokes | 213030 | [213030-different-strokes.json](./213030-different-strokes.json) |
+| Differentiate | 425431 | [425431-differentiate.json](./425431-differentiate.json) |
 | Differently Fast | 74519 | [74519-differently-fast.json](./74519-differently-fast.json) |
 | Differlands | 257705 | [257705-differlands.json](./257705-differlands.json) |
 | Difficult | 399873 | [399873-difficult.json](./399873-difficult.json) |
