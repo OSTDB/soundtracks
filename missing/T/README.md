@@ -9712,6 +9712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Family | 218652 | [218652-the-family.json](./218652-the-family.json) |
 | The Family Castle | 226597 | [226597-the-family-castle.json](./226597-the-family-castle.json) |
 | The Family Cat | 190963 | [190963-the-family-cat.json](./190963-the-family-cat.json) |
+| The Family Detective: Hidden Legacy | 416486 | [416486-the-family-detective-hidden-legacy.json](./416486-the-family-detective-hidden-legacy.json) |
 | The Family Skeleton | 72343 | [72343-the-family-skeleton.json](./72343-the-family-skeleton.json) |
 | The Family Trip | 394449 | [394449-the-family-trip.json](./394449-the-family-trip.json) |
 | The FamiRes | 66172 | [66172-the-famires.json](./66172-the-famires.json) |
@@ -14527,6 +14528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misshitsu kara no Dasshutsu: Terebi Kyoku Micchaku 24-Ji-hen | 222037 | [222037-the-misshitsu-kara-no-dasshutsu-terebi-kyoku-micchaku-24-ji-hen.json](./222037-the-misshitsu-kara-no-dasshutsu-terebi-kyoku-micchaku-24-ji-hen.json) |
 | The Misshitsu kara no Dasshutsu: The Suiri Bangai-hen | 125778 | [125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json](./125778-the-misshitsu-kara-no-dasshutsu-the-suiri-bangai-hen.json) |
 | The Misshitsu kara no Dasshutsu: Unmei wo Tsunagu 35 no Nazo | 147327 | [147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json](./147327-the-misshitsu-kara-no-dasshutsu-unmei-wo-tsunagu-35-no-nazo.json) |
+| The Missile Game 3D | 416760 | [416760-the-missile-game-3d.json](./416760-the-missile-game-3d.json) |
 | The Missing Daughter | 315408 | [315408-the-missing-daughter.json](./315408-the-missing-daughter.json) |
 | The Missing Few | 110808 | [110808-the-missing-few.json](./110808-the-missing-few.json) |
 | The Missing Link | 190442 | [190442-the-missing-link.json](./190442-the-missing-link.json) |
