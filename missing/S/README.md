@@ -1469,6 +1469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Slaughter House | 150468 | [150468-samurai-slaughter-house.json](./150468-samurai-slaughter-house.json) |
 | Samurai Solitaire: Return of the Ronin | 204103 | [204103-samurai-solitaire-return-of-the-ronin.json](./204103-samurai-solitaire-return-of-the-ronin.json) |
 | Samurai Solitaire: Threads of Fate | 195694 | [195694-samurai-solitaire-threads-of-fate.json](./195694-samurai-solitaire-threads-of-fate.json) |
+| Samurai Space Cowboy | 426610 | [426610-samurai-space-cowboy.json](./426610-samurai-space-cowboy.json) |
 | Samurai Spirits Zero Special (Fixed) | 75446 | [75446-samurai-spirits-zero-special-fixed.json](./75446-samurai-spirits-zero-special-fixed.json) |
 | Samurai Spirits Zero Special (Unfixed) | 75447 | [75447-samurai-spirits-zero-special-unfixed.json](./75447-samurai-spirits-zero-special-unfixed.json) |
 | Samurai Spirits: Kenkaku Yubinan Pack | 56455 | [56455-samurai-spirits-kenkaku-yubinan-pack.json](./56455-samurai-spirits-kenkaku-yubinan-pack.json) |
@@ -10150,6 +10151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrinking Pains | 99624 | [99624-shrinking-pains.json](./99624-shrinking-pains.json) |
 | Shrinking Planet | 182932 | [182932-shrinking-planet.json](./182932-shrinking-planet.json) |
 | Shrinking Professor | 262094 | [262094-shrinking-professor.json](./262094-shrinking-professor.json) |
+| Shrinko's Big Adventure | 426629 | [426629-shrinkos-big-adventure.json](./426629-shrinkos-big-adventure.json) |
 | Shrommzzz | 247752 | [247752-shrommzzz.json](./247752-shrommzzz.json) |
 | Shroom | 63716 | [63716-shroom.json](./63716-shroom.json) |
 | Shroom & Blade | 419982 | [419982-shroom-and-blade.json](./419982-shroom-and-blade.json) |
@@ -21060,6 +21062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Seeker | 41101 | [41101-space-seeker.json](./41101-space-seeker.json) |
 | Space Sergeants | 143941 | [143941-space-sergeants.json](./143941-space-sergeants.json) |
 | Space Sex | 156794 | [156794-space-sex.json](./156794-space-sex.json) |
+| Space Sex Shop | 426634 | [426634-space-sex-shop.json](./426634-space-sex-shop.json) |
 | Space Shadow | 178988 | [178988-space-shadow.json](./178988-space-shadow.json) |
 | Space Shaft | 81026 | [81026-space-shaft.json](./81026-space-shaft.json) |
 | Space Shapes | 126567 | [126567-space-shapes.json](./126567-space-shapes.json) |
@@ -28076,6 +28079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticker Delight | 311854 | [311854-sticker-delight.json](./311854-sticker-delight.json) |
 | Sticker Kittens | 270489 | [270489-sticker-kittens.json](./270489-sticker-kittens.json) |
 | Sticker Picker | 422017 | [422017-sticker-picker.json](./422017-sticker-picker.json) |
+| Sticker Skin | 426640 | [426640-sticker-skin.json](./426640-sticker-skin.json) |
 | Sticker/Ball | 336304 | [336304-sticker-ball.json](./336304-sticker-ball.json) |
 | Stickerino | 396195 | [396195-stickerino.json](./396195-stickerino.json) |
 | Stickers for You | 306592 | [306592-stickers-for-you.json](./306592-stickers-for-you.json) |
@@ -31818,6 +31822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Artisan Chocolate | 412247 | [412247-sunset-artisan-chocolate.json](./412247-sunset-artisan-chocolate.json) |
 | Sunset Beach | 358397 | [358397-sunset-beach.json](./358397-sunset-beach.json) |
 | Sunset Before New Year | 397498 | [397498-sunset-before-new-year.json](./397498-sunset-before-new-year.json) |
+| Sunset Bite | 426625 | [426625-sunset-bite.json](./426625-sunset-bite.json) |
 | Sunset Coast Collection | 328481 | [328481-sunset-coast-collection.json](./328481-sunset-coast-collection.json) |
 | Sunset Crime | 385658 | [385658-sunset-crime.json](./385658-sunset-crime.json) |
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
@@ -31986,6 +31991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Animal Royale: Starter Pack Bundle - Seasons 0-4 | 375198 | [375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json](./375198-super-animal-royale-starter-pack-bundle-seasons-0-4.json) |
 | Super Animal Royale: Starter Pack Bundle - Seasons 5-9 | 375199 | [375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json](./375199-super-animal-royale-starter-pack-bundle-seasons-5-9.json) |
 | Super Animal Soccer | 382536 | [382536-super-animal-soccer.json](./382536-super-animal-soccer.json) |
+| Super Animals TD | 426617 | [426617-super-animals-td.json](./426617-super-animals-td.json) |
 | Super Anime Waifu BBQ Simulator | 216235 | [216235-super-anime-waifu-bbq-simulator.json](./216235-super-anime-waifu-bbq-simulator.json) |
 | Super Ant Art Tycoon | 391603 | [391603-super-ant-art-tycoon.json](./391603-super-ant-art-tycoon.json) |
 | Super Anthony's Joltzsi | 266581 | [266581-super-anthonys-joltzsi.json](./266581-super-anthonys-joltzsi.json) |
