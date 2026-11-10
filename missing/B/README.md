@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B-12: Brantisky Mk. 12 | 28949 | [28949-b-12-brantisky-mk-12.json](./28949-b-12-brantisky-mk-12.json) |
 | B-17 Bomber | 5660 | [5660-b-17-bomber.json](./5660-b-17-bomber.json) |
 | B-17 Flying Fortress the Bloody 100th | 223421 | [223421-b-17-flying-fortress-the-bloody-100th.json](./223421-b-17-flying-fortress-the-bloody-100th.json) |
+| B-17 Flying Fortress: The Mighty 8th | 10016 | [10016-b-17-flying-fortress-the-mighty-8th.json](./10016-b-17-flying-fortress-the-mighty-8th.json) |
 | B-17 Flying Fortress: The Mighty 8th Redux | 226242 | [226242-b-17-flying-fortress-the-mighty-8th-redux.json](./226242-b-17-flying-fortress-the-mighty-8th-redux.json) |
 | B-17 Fortress in the Sky | 47933 | [47933-b-17-fortress-in-the-sky.json](./47933-b-17-fortress-in-the-sky.json) |
 | B-17 Gunner: Air War Over Germany | 62016 | [62016-b-17-gunner-air-war-over-germany.json](./62016-b-17-gunner-air-war-over-germany.json) |
@@ -3006,6 +3007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bartender: The Right Mix | 192098 | [192098-bartender-the-right-mix.json](./192098-bartender-the-right-mix.json) |
 | Bartenders | 244205 | [244205-bartenders.json](./244205-bartenders.json) |
 | Barter & Blades | 281953 | [281953-barter-and-blades.json](./281953-barter-and-blades.json) |
+| Barter Empire | 10024 | [10024-barter-empire.json](./10024-barter-empire.json) |
 | Bartholomew.exe | 358899 | [358899-bartholomew-exe.json](./358899-bartholomew-exe.json) |
 | Bartigo | 30582 | [30582-bartigo.json](./30582-bartigo.json) |
 | Bartlow's Dread Machine | 128934 | [128934-bartlows-dread-machine.json](./128934-bartlows-dread-machine.json) |
@@ -3285,6 +3287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Pinball | 148567 | [148567-basketball-pinball.json](./148567-basketball-pinball.json) |
 | Basketball Playgrounds | 212460 | [212460-basketball-playgrounds.json](./212460-basketball-playgrounds.json) |
 | Basketball Pro Management 2013 | 10025 | [10025-basketball-pro-management-2013.json](./10025-basketball-pro-management-2013.json) |
+| Basketball Pro Management 2014 | 10026 | [10026-basketball-pro-management-2014.json](./10026-basketball-pro-management-2014.json) |
 | Basketball Pro Management 2015 | 10027 | [10027-basketball-pro-management-2015.json](./10027-basketball-pro-management-2015.json) |
 | Basketball PVP | 87279 | [87279-basketball-pvp.json](./87279-basketball-pvp.json) |
 | Basketball Rivals | 227267 | [227267-basketball-rivals.json](./227267-basketball-rivals.json) |
@@ -7395,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Skyrim: Bruma | 210400 | [210400-beyond-skyrim-bruma.json](./210400-beyond-skyrim-bruma.json) |
 | Beyond SMBWii | 336104 | [336104-beyond-smbwii.json](./336104-beyond-smbwii.json) |
 | Beyond Solar | 172135 | [172135-beyond-solar.json](./172135-beyond-solar.json) |
+| Beyond Space | 10044 | [10044-beyond-space.json](./10044-beyond-space.json) |
 | Beyond Space Remastered | 108616 | [108616-beyond-space-remastered.json](./108616-beyond-space-remastered.json) |
 | Beyond Stories: Jester | 338231 | [338231-beyond-stories-jester.json](./338231-beyond-stories-jester.json) |
 | Beyond Sunset | 164206 | [164206-beyond-sunset.json](./164206-beyond-sunset.json) |
@@ -9567,6 +9571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Prophecy | 280361 | [280361-black-prophecy.json](./280361-black-prophecy.json) |
 | Black Queen | 13697 | [13697-black-queen.json](./13697-black-queen.json) |
 | Black Rain | 345445 | [345445-black-rain.json](./345445-black-rain.json) |
+| Black Rainbow | 10050 | [10050-black-rainbow.json](./10050-black-rainbow.json) |
 | Black Rainbow | 370780 | [370780-black-rainbow.json](./370780-black-rainbow.json) |
 | Black Raven | 119139 | [119139-black-raven.json](./119139-black-raven.json) |
 | Black Raven | 330354 | [330354-black-raven.json](./330354-black-raven.json) |
@@ -9646,6 +9651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Trail | 205018 | [205018-black-trail.json](./205018-black-trail.json) |
 | Black Turn: Operation Barbarossa 1941 | 22647 | [22647-black-turn-operation-barbarossa-1941.json](./22647-black-turn-operation-barbarossa-1941.json) |
 | Black Viper | 14311 | [14311-black-viper.json](./14311-black-viper.json) |
+| Black Viper: Sophia's Fate | 10058 | [10058-black-viper-sophias-fate.json](./10058-black-viper-sophias-fate.json) |
 | Black Vultures: Prey of Greed | 357100 | [357100-black-vultures-prey-of-greed.json](./357100-black-vultures-prey-of-greed.json) |
 | Black Walls | 415190 | [415190-black-walls.json](./415190-black-walls.json) |
 | Black Well Devil | 410331 | [410331-black-well-devil.json](./410331-black-well-devil.json) |
@@ -10665,6 +10671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blindfold: Hide and Seek | 413172 | [413172-blindfold-hide-and-seek.json](./413172-blindfold-hide-and-seek.json) |
 | BlindGiRl | 23361 | [23361-blindgirl.json](./23361-blindgirl.json) |
 | BlindGiRl2 | 65449 | [65449-blindgirl2.json](./65449-blindgirl2.json) |
+| Blinding Dark | 10053 | [10053-blinding-dark.json](./10053-blinding-dark.json) |
 | Blinding Lite | 302370 | [302370-blinding-lite.json](./302370-blinding-lite.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
 | Blinding Silence | 92270 | [92270-blinding-silence.json](./92270-blinding-silence.json) |
