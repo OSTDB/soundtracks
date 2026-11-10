@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race for the Galaxy: Brink of War | 171486 | [171486-race-for-the-galaxy-brink-of-war.json](./171486-race-for-the-galaxy-brink-of-war.json) |
 | Race for the Galaxy: Rebel vs. Imperium | 167759 | [167759-race-for-the-galaxy-rebel-vs-imperium.json](./167759-race-for-the-galaxy-rebel-vs-imperium.json) |
 | Race for The White House | 234170 | [234170-race-for-the-white-house.json](./234170-race-for-the-white-house.json) |
+| Race for Tuning | 115167 | [115167-race-for-tuning.json](./115167-race-for-tuning.json) |
 | Race Horses Champions | 87488 | [87488-race-horses-champions.json](./87488-race-horses-champions.json) |
 | Race Horses Champions 2 | 108711 | [108711-race-horses-champions-2.json](./108711-race-horses-champions-2.json) |
 | Race Illegal | 240211 | [240211-race-illegal.json](./240211-race-illegal.json) |
@@ -1025,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rags to Liches | 304175 | [304175-rags-to-liches.json](./304175-rags-to-liches.json) |
 | Rags to Riches | 397233 | [397233-rags-to-riches.json](./397233-rags-to-riches.json) |
 | Rags to Riches | 81174 | [81174-rags-to-riches.json](./81174-rags-to-riches.json) |
+| Ragtag | 114969 | [114969-ragtag.json](./114969-ragtag.json) |
 | Ragtag Heroes | 211765 | [211765-ragtag-heroes.json](./211765-ragtag-heroes.json) |
 | Ragtag Rescue | 183914 | [183914-ragtag-rescue.json](./183914-ragtag-rescue.json) |
 | Raguna and the Crystal of Miracles | 225801 | [225801-raguna-and-the-crystal-of-miracles.json](./225801-raguna-and-the-crystal-of-miracles.json) |
@@ -2689,6 +2691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RDF 1985 | 23838 | [23838-rdf-1985.json](./23838-rdf-1985.json) |
 | RDomino | 419067 | [419067-rdomino.json](./419067-rdomino.json) |
 | RDP-Files_ | 265673 | [265673-rdp-files.json](./265673-rdp-files.json) |
+| RDS: The Official Drift Videogame | 115128 | [115128-rds-the-official-drift-videogame.json](./115128-rds-the-official-drift-videogame.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #1 | 226977 | [226977-rds-the-official-drift-videogame-premium-cars-pack-1.json](./226977-rds-the-official-drift-videogame-premium-cars-pack-1.json) |
 | RDS: The Official Drift Videogame - Premium Cars Pack #2 | 226978 | [226978-rds-the-official-drift-videogame-premium-cars-pack-2.json](./226978-rds-the-official-drift-videogame-premium-cars-pack-2.json) |
 | RDS: The Official Drift Videogame - Russian Cars Pack | 226979 | [226979-rds-the-official-drift-videogame-russian-cars-pack.json](./226979-rds-the-official-drift-videogame-russian-cars-pack.json) |
@@ -10308,6 +10311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Rocpain: Rock Paper Scissors | 226366 | [226366-rocpain-rock-paper-scissors.json](./226366-rocpain-rock-paper-scissors.json) |
 | Rocrasher | 374034 | [374034-rocrasher.json](./374034-rocrasher.json) |
+| Rocwood Academy | 114578 | [114578-rocwood-academy.json](./114578-rocwood-academy.json) |
 | Rod | 121136 | [121136-rod.json](./121136-rod.json) |
 | Rod & Ripple | 343223 | [343223-rod-and-ripple.json](./343223-rod-and-ripple.json) |
 | Rod Multiplayer Car Driving | 226146 | [226146-rod-multiplayer-car-driving.json](./226146-rod-multiplayer-car-driving.json) |
