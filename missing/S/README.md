@@ -7395,6 +7395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Beneath the Badge: An Undercover Affair | 337705 | [337705-shadows-beneath-the-badge-an-undercover-affair.json](./337705-shadows-beneath-the-badge-an-undercover-affair.json) |
 | Shadows Bounce Once | 332484 | [332484-shadows-bounce-once.json](./332484-shadows-bounce-once.json) |
 | Shadows Fall | 332547 | [332547-shadows-fall.json](./332547-shadows-fall.json) |
+| Shadows In Sanluca | 410560 | [410560-shadows-in-sanluca.json](./410560-shadows-in-sanluca.json) |
 | Shadows in Silence | 285574 | [285574-shadows-in-silence.json](./285574-shadows-in-silence.json) |
 | Shadows in the City | 302480 | [302480-shadows-in-the-city.json](./302480-shadows-in-the-city.json) |
 | Shadows in the Dark | 217335 | [217335-shadows-in-the-dark.json](./217335-shadows-in-the-dark.json) |
@@ -13177,6 +13178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skwish | 212294 | [212294-skwish.json](./212294-skwish.json) |
 | Skwug | 77069 | [77069-skwug.json](./77069-skwug.json) |
 | Sky | 244940 | [244940-sky.json](./244940-sky.json) |
+| Sky | 410559 | [410559-sky.json](./410559-sky.json) |
 | Sky & Heart Last Survival | 83342 | [83342-sky-and-heart-last-survival.json](./83342-sky-and-heart-last-survival.json) |
 | Sky 2120 | 408216 | [408216-sky-2120.json](./408216-sky-2120.json) |
 | Sky Abyss | 400823 | [400823-sky-abyss.json](./400823-sky-abyss.json) |
@@ -16848,6 +16850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Credit Simulator | 226344 | [226344-social-credit-simulator.json](./226344-social-credit-simulator.json) |
 | Social Democracy: An Alternate History | 301376 | [301376-social-democracy-an-alternate-history.json](./301376-social-democracy-an-alternate-history.json) |
 | Social Democracy: Petrograd 1917 - An Alternate History | 345454 | [345454-social-democracy-petrograd-1917-an-alternate-history.json](./345454-social-democracy-petrograd-1917-an-alternate-history.json) |
+| Social Democracy: Popular Front | 410565 | [410565-social-democracy-popular-front.json](./410565-social-democracy-popular-front.json) |
 | Social Dev Story | 276131 | [276131-social-dev-story.json](./276131-social-dev-story.json) |
 | Social Distancing Simulator | 166204 | [166204-social-distancing-simulator.json](./166204-social-distancing-simulator.json) |
 | Social Hook | 333000 | [333000-social-hook.json](./333000-social-hook.json) |
@@ -17176,6 +17179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solace Inc. 2 | 332929 | [332929-solace-inc-2.json](./332929-solace-inc-2.json) |
 | Solace State | 107594 | [107594-solace-state.json](./107594-solace-state.json) |
 | Solace: Begin Your Escape | 391557 | [391557-solace-begin-your-escape.json](./391557-solace-begin-your-escape.json) |
+| Solaire | 410576 | [410576-solaire.json](./410576-solaire.json) |
 | Solana and Sunny's Atelier | 216783 | [216783-solana-and-sunnys-atelier.json](./216783-solana-and-sunnys-atelier.json) |
 | Solanaceae: After All | 216530 | [216530-solanaceae-after-all.json](./216530-solanaceae-after-all.json) |
 | Solanis | 343136 | [343136-solanis.json](./343136-solanis.json) |
@@ -19439,6 +19443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sotsugyou Vacation | 381647 | [381647-sotsugyou-vacation.json](./381647-sotsugyou-vacation.json) |
 | Sotsugyou: Graduation | 242774 | [242774-sotsugyou-graduation.json](./242774-sotsugyou-graduation.json) |
 | Sotsugyou: Graduation - Final | 268543 | [268543-sotsugyou-graduation-final.json](./268543-sotsugyou-graduation-final.json) |
+| Sotsugyousei | 410556 | [410556-sotsugyousei.json](./410556-sotsugyousei.json) |
 | Sottaku | 388986 | [388986-sottaku.json](./388986-sottaku.json) |
 | Sou Desu, Anata no Koibito Desu. | 285992 | [285992-sou-desu-anata-no-koibito-desu.json](./285992-sou-desu-anata-no-koibito-desu.json) |
 | Sou, Atashi-tachi wa Konna ni mo Rifujin na Sekai ni Ikiteiru no dara yo | 112508 | [112508-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo.json](./112508-sou-atashi-tachi-wa-konna-ni-mo-rifujin-na-sekai-ni-ikiteiru-no-dara-yo.json) |
@@ -22705,6 +22710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheroid | 34535 | [34535-spheroid.json](./34535-spheroid.json) |
 | Spheroll | 399340 | [399340-spheroll.json](./399340-spheroll.json) |
 | Spheromania | 378361 | [378361-spheromania.json](./378361-spheromania.json) |
+| Spherun | 410575 | [410575-spherun.json](./410575-spherun.json) |
 | Spherythm | 118456 | [118456-spherythm.json](./118456-spherythm.json) |
 | Sphex: Minimal Arcade Game | 307429 | [307429-sphex-minimal-arcade-game.json](./307429-sphex-minimal-arcade-game.json) |
 | Sphinx Adventure | 13760 | [13760-sphinx-adventure.json](./13760-sphinx-adventure.json) |
@@ -22927,6 +22933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: 059 - Enemy Mod: Quick Learner | 363371 | [363371-spider-man-059-enemy-mod-quick-learner.json](./363371-spider-man-059-enemy-mod-quick-learner.json) |
 | Spider-Man: 060 - FX Mod: Comic Book Mode | 363373 | [363373-spider-man-060-fx-mod-comic-book-mode.json](./363373-spider-man-060-fx-mod-comic-book-mode.json) |
 | Spider-Man: Battle for New York | 6604 | [6604-spider-man-battle-for-new-york.json](./6604-spider-man-battle-for-new-york.json) |
+| Spider-Man: Brand New Day | 410529 | [410529-spider-man-brand-new-day.json](./410529-spider-man-brand-new-day.json) |
 | Spider-Man: City Raid | 337120 | [337120-spider-man-city-raid.json](./337120-spider-man-city-raid.json) |
 | Spider-Man: Edge of Time | 218005 | [218005-spider-man-edge-of-time.json](./218005-spider-man-edge-of-time.json) |
 | Spider-Man: Edge of Time | 249160 | [249160-spider-man-edge-of-time.json](./249160-spider-man-edge-of-time.json) |
@@ -27307,6 +27314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay with Me!: An Alien Abduction Story | 192638 | [192638-stay-with-me-an-alien-abduction-story.json](./192638-stay-with-me-an-alien-abduction-story.json) |
 | Stay Woke Etheral Edition | 75499 | [75499-stay-woke-etheral-edition.json](./75499-stay-woke-etheral-edition.json) |
 | Stay: Ember's Desktop Adventures | 411078 | [411078-stay-embers-desktop-adventures.json](./411078-stay-embers-desktop-adventures.json) |
+| Stay: Your Forever Pet! | 410553 | [410553-stay-your-forever-pet.json](./410553-stay-your-forever-pet.json) |
 | Stay! Stay! Democratic People's Republic of Korea | 28861 | [28861-stay-stay-democratic-peoples-republic-of-korea.json](./28861-stay-stay-democratic-peoples-republic-of-korea.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
 | Stay.: Fragments of Memories | 308972 | [308972-stay-fragments-of-memories.json](./308972-stay-fragments-of-memories.json) |
@@ -27987,6 +27995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Step Into the Dark | 400365 | [400365-step-into-the-dark.json](./400365-step-into-the-dark.json) |
 | Step Journey | 215711 | [215711-step-journey.json](./215711-step-journey.json) |
 | Step Jun: Koi no Dai Pinch | 385575 | [385575-step-jun-koi-no-dai-pinch.json](./385575-step-jun-koi-no-dai-pinch.json) |
+| Step Lightly | 410551 | [410551-step-lightly.json](./410551-step-lightly.json) |
 | Step On It! | 343001 | [343001-step-on-it.json](./343001-step-on-it.json) |
 | Step Quest | 240671 | [240671-step-quest.json](./240671-step-quest.json) |
 | Step Right Up: Adventure Isle | 310654 | [310654-step-right-up-adventure-isle.json](./310654-step-right-up-adventure-isle.json) |
