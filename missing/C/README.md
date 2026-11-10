@@ -3831,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Shikigami 2 | 174090 | [174090-castle-of-shikigami-2.json](./174090-castle-of-shikigami-2.json) |
 | Castle of Shikigami 3 | 331315 | [331315-castle-of-shikigami-3.json](./331315-castle-of-shikigami-3.json) |
 | Castle of Shikigami III | 4751 | [4751-castle-of-shikigami-iii.json](./4751-castle-of-shikigami-iii.json) |
+| Castle of Shikigami Trilogy | 405624 | [405624-castle-of-shikigami-trilogy.json](./405624-castle-of-shikigami-trilogy.json) |
 | Castle of Shikigami: Evolution | 174166 | [174166-castle-of-shikigami-evolution.json](./174166-castle-of-shikigami-evolution.json) |
 | Castle of Spirits | 41171 | [41171-castle-of-spirits.json](./41171-castle-of-spirits.json) |
 | Castle of the Countess | 343682 | [343682-castle-of-the-countess.json](./343682-castle-of-the-countess.json) |
@@ -8795,6 +8796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrome Switcher | 148490 | [148490-chrome-switcher.json](./148490-chrome-switcher.json) |
 | Chrome Valley Customs | 288794 | [288794-chrome-valley-customs.json](./288794-chrome-valley-customs.json) |
 | Chrome Wars | 235244 | [235244-chrome-wars.json](./235244-chrome-wars.json) |
+| Chrome Wolf | 260043 | [260043-chrome-wolf.json](./260043-chrome-wolf.json) |
 | Chrome: SpecForce | 16147 | [16147-chrome-specforce.json](./16147-chrome-specforce.json) |
 | Chromehounds | 6937 | [6937-chromehounds.json](./6937-chromehounds.json) |
 | Chromentum | 70188 | [70188-chromentum.json](./70188-chromentum.json) |
