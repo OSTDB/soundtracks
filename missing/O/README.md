@@ -4067,6 +4067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbs of Chaos | 290743 | [290743-orbs-of-chaos.json](./290743-orbs-of-chaos.json) |
 | Orbs of Duality | 349114 | [349114-orbs-of-duality.json](./349114-orbs-of-duality.json) |
 | Orbs Orbs Orbs | 342160 | [342160-orbs-orbs-orbs.json](./342160-orbs-orbs-orbs.json) |
+| Orbt XL | 28935 | [28935-orbt-xl.json](./28935-orbt-xl.json) |
 | Orbtangle | 221119 | [221119-orbtangle.json](./221119-orbtangle.json) |
 | Orbtrain: Slot Racing | 151270 | [151270-orbtrain-slot-racing.json](./151270-orbtrain-slot-racing.json) |
 | Orbu | 101456 | [101456-orbu.json](./101456-orbu.json) |
