@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFC Undisputed 3 | 7229 | [7229-ufc-undisputed-3.json](./7229-ufc-undisputed-3.json) |
 | UFC Undisputed Forever | 410484 | [410484-ufc-undisputed-forever.json](./410484-ufc-undisputed-forever.json) |
 | UFC: Sudden Impact | 92763 | [92763-ufc-sudden-impact.json](./92763-ufc-sudden-impact.json) |
+| UFC: Tapout | 6218 | [6218-ufc-tapout.json](./6218-ufc-tapout.json) |
 | UFC: Tapout 2 | 6219 | [6219-ufc-tapout-2.json](./6219-ufc-tapout-2.json) |
 | UFC: Throwdown | 4221 | [4221-ufc-throwdown.json](./4221-ufc-throwdown.json) |
 | Ufflegrim | 118587 | [118587-ufflegrim.json](./118587-ufflegrim.json) |
