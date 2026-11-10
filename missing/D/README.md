@@ -7738,6 +7738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Fishing Cat | 390885 | [390885-desktop-fishing-cat.json](./390885-desktop-fishing-cat.json) |
 | Desktop Football | 196831 | [196831-desktop-football.json](./196831-desktop-football.json) |
 | Desktop Friend | 385649 | [385649-desktop-friend.json](./385649-desktop-friend.json) |
+| Desktop Games | 87459 | [87459-desktop-games.json](./87459-desktop-games.json) |
 | Desktop Garden | 177478 | [177478-desktop-garden.json](./177478-desktop-garden.json) |
 | Desktop Garden | 377977 | [377977-desktop-garden.json](./377977-desktop-garden.json) |
 | Desktop Girlfriend Neo | 384815 | [384815-desktop-girlfriend-neo.json](./384815-desktop-girlfriend-neo.json) |
