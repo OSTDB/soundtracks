@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haiyuuenchi no Memento Memoria | 259056 | [259056-haiyuuenchi-no-memento-memoria.json](./259056-haiyuuenchi-no-memento-memoria.json) |
 | Hǎizéiwáng Jiējī Idle | 368443 | [368443-haizeiwang-jieji-idle.json](./368443-haizeiwang-jieji-idle.json) |
 | Hajiite! Block Rush | 344482 | [344482-hajiite-block-rush.json](./344482-hajiite-block-rush.json) |
+| Hajiki | 426004 | [426004-hajiki.json](./426004-hajiki.json) |
 | Hajikise! | 265155 | [265155-hajikise.json](./265155-hajikise.json) |
 | HajiLove: Making Lovers - Limited Edition | 207915 | [207915-hajilove-making-lovers-limited-edition.json](./207915-hajilove-making-lovers-limited-edition.json) |
 | Hajime no Ippo: The Fighting! | 44778 | [44778-hajime-no-ippo-the-fighting.json](./44778-hajime-no-ippo-the-fighting.json) |
@@ -2878,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House Mobile | 86182 | [86182-haunted-house-mobile.json](./86182-haunted-house-mobile.json) |
 | Haunted House Mysteries | 122103 | [122103-haunted-house-mysteries.json](./122103-haunted-house-mysteries.json) |
 | Haunted House of Rock | 338149 | [338149-haunted-house-of-rock.json](./338149-haunted-house-of-rock.json) |
+| Haunted House Quest | 426084 | [426084-haunted-house-quest.json](./426084-haunted-house-quest.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
 | Haunted House Renovator: Prologue | 316421 | [316421-haunted-house-renovator-prologue.json](./316421-haunted-house-renovator-prologue.json) |
 | Haunted House: Cryptic Graves | 17673 | [17673-haunted-house-cryptic-graves.json](./17673-haunted-house-cryptic-graves.json) |
@@ -8697,6 +8699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Brakes | 178496 | [178496-hit-the-brakes.json](./178496-hit-the-brakes.json) |
 | Hit the Button | 316878 | [316878-hit-the-button.json](./316878-hit-the-button.json) |
 | Hit the Button RPG | 58876 | [58876-hit-the-button-rpg.json](./58876-hit-the-button-rpg.json) |
+| Hit The Buzzer | 426030 | [426030-hit-the-buzzer.json](./426030-hit-the-buzzer.json) |
 | Hit The Clock | 377708 | [377708-hit-the-clock.json](./377708-hit-the-clock.json) |
 | Hit The Dot | 282728 | [282728-hit-the-dot.json](./282728-hit-the-dot.json) |
 | Hit the Fan | 365797 | [365797-hit-the-fan.json](./365797-hit-the-fan.json) |
@@ -10099,6 +10102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honu | 369079 | [369079-honu.json](./369079-honu.json) |
 | Honya Monogatari | 173415 | [173415-honya-monogatari.json](./173415-honya-monogatari.json) |
 | Honyarara Magic | 98446 | [98446-honyarara-magic.json](./98446-honyarara-magic.json) |
+| Hood | 426054 | [426054-hood.json](./426054-hood.json) |
 | Hood Ninja | 321932 | [321932-hood-ninja.json](./321932-hood-ninja.json) |
 | Hood RPG | 326099 | [326099-hood-rpg.json](./326099-hood-rpg.json) |
 | Hood Story: Kaito Yamazaki | 216717 | [216717-hood-story-kaito-yamazaki.json](./216717-hood-story-kaito-yamazaki.json) |
