@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1917: The Alien Invasion DX Remastered | 332592 | [332592-1917-the-alien-invasion-dx-remastered.json](./332592-1917-the-alien-invasion-dx-remastered.json) |
 | 1919 | 189015 | [189015-1919.json](./189015-1919.json) |
 | 1930 Langman Tan | 187087 | [187087-1930-langman-tan.json](./187087-1930-langman-tan.json) |
+| 1930: Ink & Bullets | 415652 | [415652-1930-ink-and-bullets.json](./415652-1930-ink-and-bullets.json) |
 | 1931: Scheherazade at the Library of Pergamum | 36136 | [36136-1931-scheherazade-at-the-library-of-pergamum.json](./36136-1931-scheherazade-at-the-library-of-pergamum.json) |
 | 1938 | 357750 | [357750-1938.json](./357750-1938.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
@@ -1860,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2048 Infinite: The Circle of Fifths | 61286 | [61286-2048-infinite-the-circle-of-fifths.json](./61286-2048-infinite-the-circle-of-fifths.json) |
 | 2048 Knight | 57437 | [57437-2048-knight.json](./57437-2048-knight.json) |
 | 2048 Maniac | 317633 | [317633-2048-maniac.json](./317633-2048-maniac.json) |
+| 2048 Nexus | 416195 | [416195-2048-nexus.json](./416195-2048-nexus.json) |
 | 2048 Numbers Mania | 233515 | [233515-2048-numbers-mania.json](./233515-2048-numbers-mania.json) |
 | 2048 Plus | 113347 | [113347-2048-plus.json](./113347-2048-plus.json) |
 | 2048 Pool | 264475 | [264475-2048-pool.json](./264475-2048-pool.json) |
