@@ -381,6 +381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zarzon | 39346 | [39346-zarzon.json](./39346-zarzon.json) |
 | Zasa: An AI Story | 33399 | [33399-zasa-an-ai-story.json](./33399-zasa-an-ai-story.json) |
 | Zashiki-mawashi | 356812 | [356812-zashiki-mawashi.json](./356812-zashiki-mawashi.json) |
+| Zatch Bell! Mamodo Battles | 4584 | [4584-zatch-bell-mamodo-battles.json](./4584-zatch-bell-mamodo-battles.json) |
 | Zatch Bell! Mamodo Fury | 4585 | [4585-zatch-bell-mamodo-fury.json](./4585-zatch-bell-mamodo-fury.json) |
 | Zatch Bell! Mamodo Fury Update | 358308 | [358308-zatch-bell-mamodo-fury-update.json](./358308-zatch-bell-mamodo-fury-update.json) |
 | Zatch Bell! The Electric Arena 2 | 202177 | [202177-zatch-bell-the-electric-arena-2.json](./202177-zatch-bell-the-electric-arena-2.json) |
