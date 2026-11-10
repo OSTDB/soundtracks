@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DaeusProfundis | 408163 | [408163-daeusprofundis.json](./408163-daeusprofundis.json) |
 | Daffy Duck | 67271 | [67271-daffy-duck.json](./67271-daffy-duck.json) |
 | Daffy Duck in Hollywood | 369244 | [369244-daffy-duck-in-hollywood.json](./369244-daffy-duck-in-hollywood.json) |
+| Daffy Duck in Hollywood | 4461 | [4461-daffy-duck-in-hollywood.json](./4461-daffy-duck-in-hollywood.json) |
 | Daffy Duck, P.I.: The Case of the Missing Letters | 63814 | [63814-daffy-duck-p-i-the-case-of-the-missing-letters.json](./63814-daffy-duck-p-i-the-case-of-the-missing-letters.json) |
 | Daffy Duck: Fowl Play | 25800 | [25800-daffy-duck-fowl-play.json](./25800-daffy-duck-fowl-play.json) |
 | Daffy Duck: The Marvin Missions | 144564 | [144564-daffy-duck-the-marvin-missions.json](./144564-daffy-duck-the-marvin-missions.json) |
@@ -5884,6 +5885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deez | 114340 | [114340-deez.json](./114340-deez.json) |
 | Deez Shells | 328067 | [328067-deez-shells.json](./328067-deez-shells.json) |
 | Def Jam Fight for NY Mobile | 209012 | [209012-def-jam-fight-for-ny-mobile.json](./209012-def-jam-fight-for-ny-mobile.json) |
+| Def Jam Rapstar | 4803 | [4803-def-jam-rapstar.json](./4803-def-jam-rapstar.json) |
 | Def Jam Vendetta | 3874 | [3874-def-jam-vendetta.json](./3874-def-jam-vendetta.json) |
 | Def Jam: Icon | 6964 | [6964-def-jam-icon.json](./6964-def-jam-icon.json) |
 | Def Leppard: Let's Rock It! | 254164 | [254164-def-leppard-lets-rock-it.json](./254164-def-leppard-lets-rock-it.json) |
@@ -11140,6 +11142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Beauty and the Beast: Belle's Quest | 46233 | [46233-disneys-beauty-and-the-beast-belles-quest.json](./46233-disneys-beauty-and-the-beast-belles-quest.json) |
 | Disney's Beauty and the Beast: LCD Wrist Game | 200503 | [200503-disneys-beauty-and-the-beast-lcd-wrist-game.json](./200503-disneys-beauty-and-the-beast-lcd-wrist-game.json) |
 | Disney's Beauty and the Beast: Magical Ballroom | 57919 | [57919-disneys-beauty-and-the-beast-magical-ballroom.json](./57919-disneys-beauty-and-the-beast-magical-ballroom.json) |
+| Disney's Beauty and the Beast: Roar of the Beast | 4406 | [4406-disneys-beauty-and-the-beast-roar-of-the-beast.json](./4406-disneys-beauty-and-the-beast-roar-of-the-beast.json) |
 | Disney's Bonkers | 45564 | [45564-disneys-bonkers.json](./45564-disneys-bonkers.json) |
 | Disney's Bonkers: Wax Up! | 57622 | [57622-disneys-bonkers-wax-up.json](./57622-disneys-bonkers-wax-up.json) |
 | Disney's Brother Bear | 248637 | [248637-disneys-brother-bear.json](./248637-disneys-brother-bear.json) |
@@ -11215,6 +11218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Peter Pan: The Legend of Never Land | 79954 | [79954-disneys-peter-pan-the-legend-of-never-land.json](./79954-disneys-peter-pan-the-legend-of-never-land.json) |
 | Disney's Pinocchio | 308714 | [308714-disneys-pinocchio.json](./308714-disneys-pinocchio.json) |
 | Disney's Pinocchio | 38844 | [38844-disneys-pinocchio.json](./38844-disneys-pinocchio.json) |
+| Disney's PK: Out of the Shadows | 3887 | [3887-disneys-pk-out-of-the-shadows.json](./3887-disneys-pk-out-of-the-shadows.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
 | Disney's Pocahontas | 45780 | [45780-disneys-pocahontas.json](./45780-disneys-pocahontas.json) |
 | Disney's Pooh and Tigger's Hunny Safari | 50008 | [50008-disneys-pooh-and-tiggers-hunny-safari.json](./50008-disneys-pooh-and-tiggers-hunny-safari.json) |
@@ -16113,6 +16117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair | 272320 | [272320-dragons-lair.json](./272320-dragons-lair.json) |
 | Dragon's Lair | 283008 | [283008-dragons-lair.json](./283008-dragons-lair.json) |
 | Dragon's Lair 2: Time Warp HD | 100233 | [100233-dragons-lair-2-time-warp-hd.json](./100233-dragons-lair-2-time-warp-hd.json) |
+| Dragon's Lair 3D: Return to the Lair | 3898 | [3898-dragons-lair-3d-return-to-the-lair.json](./3898-dragons-lair-3d-return-to-the-lair.json) |
 | Dragon's Lair HD | 100618 | [100618-dragons-lair-hd.json](./100618-dragons-lair-hd.json) |
 | Dragon's Lair II: Time Warp | 14660 | [14660-dragons-lair-ii-time-warp.json](./14660-dragons-lair-ii-time-warp.json) |
 | Dragon's Lair II: Time Warp | 323845 | [323845-dragons-lair-ii-time-warp.json](./323845-dragons-lair-ii-time-warp.json) |
@@ -16483,6 +16488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn to Life | 4821 | [4821-drawn-to-life.json](./4821-drawn-to-life.json) |
 | Drawn to Life 64 | 165550 | [165550-drawn-to-life-64.json](./165550-drawn-to-life-64.json) |
 | Drawn to Life Collection | 47876 | [47876-drawn-to-life-collection.json](./47876-drawn-to-life-collection.json) |
+| Drawn to Life: SpongeBob SquarePants Edition | 4822 | [4822-drawn-to-life-spongebob-squarepants-edition.json](./4822-drawn-to-life-spongebob-squarepants-edition.json) |
 | Drawn to Life: The Next Chapter | 240140 | [240140-drawn-to-life-the-next-chapter.json](./240140-drawn-to-life-the-next-chapter.json) |
 | Drawn to Life: The Next Chapter | 4820 | [4820-drawn-to-life-the-next-chapter.json](./4820-drawn-to-life-the-next-chapter.json) |
 | Drawn to Light | 110305 | [110305-drawn-to-light.json](./110305-drawn-to-light.json) |
@@ -18496,6 +18502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Legends | 369734 | [369734-duel-legends.json](./369734-duel-legends.json) |
 | Duel Love: Koisuru Otome wa Shouri no Megami | 123306 | [123306-duel-love-koisuru-otome-wa-shouri-no-megami.json](./123306-duel-love-koisuru-otome-wa-shouri-no-megami.json) |
 | Duel Masters | 374543 | [374543-duel-masters.json](./374543-duel-masters.json) |
+| Duel Masters | 3902 | [3902-duel-masters.json](./3902-duel-masters.json) |
 | Duel Masters 2 - Kirifuda Shoubu Ver. | 49583 | [49583-duel-masters-2-kirifuda-shoubu-ver.json](./49583-duel-masters-2-kirifuda-shoubu-ver.json) |
 | Duel Masters 2: Invincible Advance | 49584 | [49584-duel-masters-2-invincible-advance.json](./49584-duel-masters-2-invincible-advance.json) |
 | Duel Masters 3 | 412221 | [412221-duel-masters-3.json](./412221-duel-masters-3.json) |
@@ -19557,6 +19564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons: Shadow over Mystara | 10253 | [10253-dungeons-and-dragons-shadow-over-mystara.json](./10253-dungeons-and-dragons-shadow-over-mystara.json) |
 | Dungeons & Dragons: Tiny Adventures | 368742 | [368742-dungeons-and-dragons-tiny-adventures.json](./368742-dungeons-and-dragons-tiny-adventures.json) |
 | Dungeons & Dragons: Tower of Doom | 39328 | [39328-dungeons-and-dragons-tower-of-doom.json](./39328-dungeons-and-dragons-tower-of-doom.json) |
+| Dungeons & Dragons: Warriors of the Eternal Sun | 4486 | [4486-dungeons-and-dragons-warriors-of-the-eternal-sun.json](./4486-dungeons-and-dragons-warriors-of-the-eternal-sun.json) |
 | Dungeons & Drivers | 332842 | [332842-dungeons-and-drivers.json](./332842-dungeons-and-drivers.json) |
 | Dungeons & Dropped Things | 251906 | [251906-dungeons-and-dropped-things.json](./251906-dungeons-and-dropped-things.json) |
 | Dungeons & Dummies | 408190 | [408190-dungeons-and-dummies.json](./408190-dungeons-and-dummies.json) |
