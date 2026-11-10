@@ -967,6 +967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Ice Cream | 106009 | [106009-bad-ice-cream.json](./106009-bad-ice-cream.json) |
 | Bad Ice Cream 2 | 142551 | [142551-bad-ice-cream-2.json](./142551-bad-ice-cream-2.json) |
 | Bad Ice Cream 3 | 142552 | [142552-bad-ice-cream-3.json](./142552-bad-ice-cream-3.json) |
+| Bad Ice Cream Resort | 426014 | [426014-bad-ice-cream-resort.json](./426014-bad-ice-cream-resort.json) |
 | Bad Impressions | 211424 | [211424-bad-impressions.json](./211424-bad-impressions.json) |
 | Bad Janitor | 346250 | [346250-bad-janitor.json](./346250-bad-janitor.json) |
 | Bad Karma | 337007 | [337007-bad-karma.json](./337007-bad-karma.json) |
@@ -1004,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4096,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Luzon 1945 | 103530 | [103530-battle-of-luzon-1945.json](./103530-battle-of-luzon-1945.json) |
 | Battle of Orion 10: First contact | 235474 | [235474-battle-of-orion-10-first-contact.json](./235474-battle-of-orion-10-first-contact.json) |
 | Battle of Painters | 37403 | [37403-battle-of-painters.json](./37403-battle-of-painters.json) |
+| Battle of Pirates | 426039 | [426039-battle-of-pirates.json](./426039-battle-of-pirates.json) |
 | Battle of Pirates: Legend Return | 194147 | [194147-battle-of-pirates-legend-return.json](./194147-battle-of-pirates-legend-return.json) |
 | Battle of Plans | 417500 | [417500-battle-of-plans.json](./417500-battle-of-plans.json) |
 | Battle of Puppets | 66616 | [66616-battle-of-puppets.json](./66616-battle-of-puppets.json) |
@@ -7012,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berzerk: Enhanced Edition | 280756 | [280756-berzerk-enhanced-edition.json](./280756-berzerk-enhanced-edition.json) |
 | Berzerk: Recharged | 270485 | [270485-berzerk-recharged.json](./270485-berzerk-recharged.json) |
 | Besert Bydra | 338230 | [338230-besert-bydra.json](./338230-besert-bydra.json) |
+| Beset | 425984 | [425984-beset.json](./425984-beset.json) |
 | Besiedelte Welten: Das alte Ägypten | 91559 | [91559-besiedelte-welten-das-alte-agypten.json](./91559-besiedelte-welten-das-alte-agypten.json) |
 | Besiege | 9047 | [9047-besiege.json](./9047-besiege.json) |
 | Besiege: The Broken Beyond | 389128 | [389128-besiege-the-broken-beyond.json](./389128-besiege-the-broken-beyond.json) |
@@ -8485,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binky show | 123512 | [123512-binky-show.json](./123512-binky-show.json) |
 | Binky XXIV: Game Streamer "Binky" Plays Grotto of the Grebulons | 279024 | [279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json](./279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
+| Binyuu Hunter | 426046 | [426046-binyuu-hunter.json](./426046-binyuu-hunter.json) |
 | Bio Attack | 40031 | [40031-bio-attack.json](./40031-bio-attack.json) |
 | Bio Blaster | 354889 | [354889-bio-blaster.json](./354889-bio-blaster.json) |
 | Bio Block | 274518 | [274518-bio-block.json](./274518-bio-block.json) |
@@ -9671,6 +9676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Zork | 289537 | [289537-black-zork.json](./289537-black-zork.json) |
 | Black, no sugar | 183361 | [183361-black-no-sugar.json](./183361-black-no-sugar.json) |
 | Black, White and Grey | 251314 | [251314-black-white-and-grey.json](./251314-black-white-and-grey.json) |
+| Black: XBE Recomp | 426016 | [426016-black-xbe-recomp.json](./426016-black-xbe-recomp.json) |
 | Black/Matrix | 45415 | [45415-black-matrix.json](./45415-black-matrix.json) |
 | Black/Matrix + | 93534 | [93534-black-matrix.json](./93534-black-matrix.json) |
 | Black/Matrix 00 | 137090 | [137090-black-matrix-00.json](./137090-black-matrix-00.json) |
@@ -17394,6 +17400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
 | Bubble Raider | 110204 | [110204-bubble-raider.json](./110204-bubble-raider.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
+| Bubble Rumble: Pompa Pómpez Adventure | 426029 | [426029-bubble-rumble-pompa-pompez-adventure.json](./426029-bubble-rumble-pompa-pompez-adventure.json) |
 | Bubble Rush | 72400 | [72400-bubble-rush.json](./72400-bubble-rush.json) |
 | Bubble Seahorse Adventure | 304756 | [304756-bubble-seahorse-adventure.json](./304756-bubble-seahorse-adventure.json) |
 | Bubble Shock! Bane Blaster Game | 306203 | [306203-bubble-shock-bane-blaster-game.json](./306203-bubble-shock-bane-blaster-game.json) |
