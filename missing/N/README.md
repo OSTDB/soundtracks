@@ -2116,6 +2116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Golf: Anime Golf | 223126 | [223126-neko-golf-anime-golf.json](./223126-neko-golf-anime-golf.json) |
 | Neko Hacker Plus | 169779 | [169779-neko-hacker-plus.json](./169779-neko-hacker-plus.json) |
 | Neko Hentai Girl: Beach Match-3 | 241280 | [241280-neko-hentai-girl-beach-match-3.json](./241280-neko-hentai-girl-beach-match-3.json) |
+| Neko House | 426619 | [426619-neko-house.json](./426619-neko-house.json) |
 | Neko Journey | 190462 | [190462-neko-journey.json](./190462-neko-journey.json) |
 | Neko Jump | 148640 | [148640-neko-jump.json](./148640-neko-jump.json) |
 | Neko Kitchen | 359552 | [359552-neko-kitchen.json](./359552-neko-kitchen.json) |
@@ -6236,6 +6237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Straight Roads: Encore Edition | 178093 | [178093-no-straight-roads-encore-edition.json](./178093-no-straight-roads-encore-edition.json) |
 | No Strangers | 321880 | [321880-no-strangers.json](./321880-no-strangers.json) |
 | No Strings Attached | 289795 | [289795-no-strings-attached.json](./289795-no-strings-attached.json) |
+| No Such Floor | 426593 | [426593-no-such-floor.json](./426593-no-such-floor.json) |
 | No Such Place | 345447 | [345447-no-such-place.json](./345447-no-such-place.json) |
 | No Sun To Worship | 236015 | [236015-no-sun-to-worship.json](./236015-no-sun-to-worship.json) |
 | No Surrender Heroes | 287769 | [287769-no-surrender-heroes.json](./287769-no-surrender-heroes.json) |
@@ -7085,6 +7087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | North Town | 143902 | [143902-north-town.json](./143902-north-town.json) |
 | North Wind: Eien no Yakusoku | 331050 | [331050-north-wind-eien-no-yakusoku.json](./331050-north-wind-eien-no-yakusoku.json) |
 | Northanda Chronicles | 277294 | [277294-northanda-chronicles.json](./277294-northanda-chronicles.json) |
+| Northanger Abbey | 426609 | [426609-northanger-abbey.json](./426609-northanger-abbey.json) |
 | Northbound: Long Road Ahead | 133014 | [133014-northbound-long-road-ahead.json](./133014-northbound-long-road-ahead.json) |
 | Northbury Grove | 112217 | [112217-northbury-grove.json](./112217-northbury-grove.json) |
 | Northbury Grove: Entity | 187605 | [187605-northbury-grove-entity.json](./187605-northbury-grove-entity.json) |
