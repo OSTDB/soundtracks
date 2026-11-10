@@ -2807,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barking Irons | 57328 | [57328-barking-irons.json](./57328-barking-irons.json) |
 | Barking Puzzle | 156224 | [156224-barking-puzzle.json](./156224-barking-puzzle.json) |
 | Barkley, Shut Up and Jam: Gaiden | 50786 | [50786-barkley-shut-up-and-jam-gaiden.json](./50786-barkley-shut-up-and-jam-gaiden.json) |
+| Barkley: Shut Up and Jam 2 | 4524 | [4524-barkley-shut-up-and-jam-2.json](./4524-barkley-shut-up-and-jam-2.json) |
 | Barkley: Shut Up and Jam! | 4520 | [4520-barkley-shut-up-and-jam.json](./4520-barkley-shut-up-and-jam.json) |
 | Barko | 413751 | [413751-barko.json](./413751-barko.json) |
 | Barkour | 177202 | [177202-barkour.json](./177202-barkour.json) |
@@ -4624,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship | 285030 | [285030-battleship.json](./285030-battleship.json) |
 | Battleship | 317631 | [317631-battleship.json](./317631-battleship.json) |
 | Battleship | 346341 | [346341-battleship.json](./346341-battleship.json) |
+| Battleship | 4710 | [4710-battleship.json](./4710-battleship.json) |
 | Battleship | 77147 | [77147-battleship.json](./77147-battleship.json) |
 | Battleship | 95434 | [95434-battleship.json](./95434-battleship.json) |
 | Battleship / Connect Four / Sorry! / Trouble | 70154 | [70154-battleship-connect-four-sorry-trouble.json](./70154-battleship-connect-four-sorry-trouble.json) |
@@ -5038,6 +5040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Secrets | 312172 | [312172-beach-secrets.json](./312172-beach-secrets.json) |
 | Beach Soccer | 359302 | [359302-beach-soccer.json](./359302-beach-soccer.json) |
 | Beach Soccer | 52450 | [52450-beach-soccer.json](./52450-beach-soccer.json) |
+| Beach Spikers | 3805 | [3805-beach-spikers.json](./3805-beach-spikers.json) |
 | Beach Tennis | 323840 | [323840-beach-tennis.json](./323840-beach-tennis.json) |
 | Beach Vacation Simulator | 258908 | [258908-beach-vacation-simulator.json](./258908-beach-vacation-simulator.json) |
 | Beach Volley | 11950 | [11950-beach-volley.json](./11950-beach-volley.json) |
@@ -7894,6 +7897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Mac: The Mad Maintenance Man | 47221 | [47221-big-mac-the-mad-maintenance-man.json](./47221-big-mac-the-mad-maintenance-man.json) |
 | Big Market Simulator | 413106 | [413106-big-market-simulator.json](./413106-big-market-simulator.json) |
 | Big Mess | 176354 | [176354-big-mess.json](./176354-big-mess.json) |
+| Big Money! | 3756 | [3756-big-money.json](./3756-big-money.json) |
 | Big Mountain 2000 | 3367 | [3367-big-mountain-2000.json](./3367-big-mountain-2000.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
 | Big Mushroom RPG | 166915 | [166915-big-mushroom-rpg.json](./166915-big-mushroom-rpg.json) |
@@ -12027,6 +12031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blown Away | 175638 | [175638-blown-away.json](./175638-blown-away.json) |
 | Blown Away | 187703 | [187703-blown-away.json](./187703-blown-away.json) |
 | Blown Away | 69611 | [69611-blown-away.json](./69611-blown-away.json) |
+| BlowOut | 3825 | [3825-blowout.json](./3825-blowout.json) |
 | Blowout & Cosmic Alphabet | 14325 | [14325-blowout-and-cosmic-alphabet.json](./14325-blowout-and-cosmic-alphabet.json) |
 | Blowup | 269109 | [269109-blowup.json](./269109-blowup.json) |
 | Blowup!! | 233246 | [233246-blowup.json](./233246-blowup.json) |
