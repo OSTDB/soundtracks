@@ -1006,6 +1006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Range | 413968 | [413968-bad-range.json](./413968-bad-range.json) |
@@ -1219,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bake Jack | 382216 | [382216-bake-jack.json](./382216-bake-jack.json) |
 | Bake Star VR | 159535 | [159535-bake-star-vr.json](./159535-bake-star-vr.json) |
 | Bake Until Done | 347744 | [347744-bake-until-done.json](./347744-bake-until-done.json) |
+| Bake.gg | 408466 | [408466-bake-gg.json](./408466-bake-gg.json) |
 | Bakeaway | 389197 | [389197-bakeaway.json](./389197-bakeaway.json) |
 | Bakeborough | 211085 | [211085-bakeborough.json](./211085-bakeborough.json) |
 | Bakechu Relay | 366917 | [366917-bakechu-relay.json](./366917-bakechu-relay.json) |
@@ -8863,6 +8865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Watching Simulator | 260559 | [260559-bird-watching-simulator.json](./260559-bird-watching-simulator.json) |
 | Bird Week | 48543 | [48543-bird-week.json](./48543-bird-week.json) |
 | Bird Year | 295206 | [295206-bird-year.json](./295206-bird-year.json) |
+| Bird-Shot | 408556 | [408556-bird-shot.json](./408556-bird-shot.json) |
 | Bird's Eye | 160249 | [160249-birds-eye.json](./160249-birds-eye.json) |
 | Bird's Eye Odyssey | 245954 | [245954-birds-eye-odyssey.json](./245954-birds-eye-odyssey.json) |
 | Bird's Town | 120264 | [120264-birds-town.json](./120264-birds-town.json) |
@@ -10062,6 +10065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bladed Fury | 108787 | [108787-bladed-fury.json](./108787-bladed-fury.json) |
 | Bladefall | 378429 | [378429-bladefall.json](./378429-bladefall.json) |
 | Bladeforge: Ascension Crusade | 417962 | [417962-bladeforge-ascension-crusade.json](./417962-bladeforge-ascension-crusade.json) |
+| Bladeforged: The Seventh Sword | 408471 | [408471-bladeforged-the-seventh-sword.json](./408471-bladeforged-the-seventh-sword.json) |
 | Bladeheart: Ninja | 109221 | [109221-bladeheart-ninja.json](./109221-bladeheart-ninja.json) |
 | Bladeless Sword: Tale of Qin | 419987 | [419987-bladeless-sword-tale-of-qin.json](./419987-bladeless-sword-tale-of-qin.json) |
 | Bladeline VR | 111428 | [111428-bladeline-vr.json](./111428-bladeline-vr.json) |
