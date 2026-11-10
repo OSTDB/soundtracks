@@ -5334,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wikipedia Quest | 402504 | [402504-wikipedia-quest.json](./402504-wikipedia-quest.json) |
 | Wikipedia Speedrun | 315397 | [315397-wikipedia-speedrun.json](./315397-wikipedia-speedrun.json) |
 | Wikipedia Speedruns | 230092 | [230092-wikipedia-speedruns.json](./230092-wikipedia-speedruns.json) |
+| WikiRNG | 420048 | [420048-wikirng.json](./420048-wikirng.json) |
 | Wikitrivia | 212691 | [212691-wikitrivia.json](./212691-wikitrivia.json) |
 | Wiktor TD | 178426 | [178426-wiktor-td.json](./178426-wiktor-td.json) |
 | Wil | 96844 | [96844-wil.json](./96844-wil.json) |
