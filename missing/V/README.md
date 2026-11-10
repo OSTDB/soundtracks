@@ -3532,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Racer: Extreme | 174561 | [174561-void-racer-extreme.json](./174561-void-racer-extreme.json) |
 | Void Raid | 384043 | [384043-void-raid.json](./384043-void-raid.json) |
 | Void Raider | 362041 | [362041-void-raider.json](./362041-void-raider.json) |
+| Void Raiders | 19105 | [19105-void-raiders.json](./19105-void-raiders.json) |
 | Void Raiders | 335962 | [335962-void-raiders.json](./335962-void-raiders.json) |
 | Void Rangers | 31277 | [31277-void-rangers.json](./31277-void-rangers.json) |
 | Void Reaper | 280129 | [280129-void-reaper.json](./280129-void-reaper.json) |
@@ -4386,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroom Racing | 230156 | [230156-vroom-racing.json](./230156-vroom-racing.json) |
 | Vroom Vroom !!! | 87527 | [87527-vroom-vroom.json](./87527-vroom-vroom.json) |
 | Vroom Vroom Valley | 253444 | [253444-vroom-vroom-valley.json](./253444-vroom-vroom-valley.json) |
+| Vroom: Aerie | 19052 | [19052-vroom-aerie.json](./19052-vroom-aerie.json) |
 | Vroom: Galleon | 34188 | [34188-vroom-galleon.json](./34188-vroom-galleon.json) |
 | Vroom! | 165215 | [165215-vroom.json](./165215-vroom.json) |
 | Vroomies | 296734 | [296734-vroomies.json](./296734-vroomies.json) |
