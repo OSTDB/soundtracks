@@ -4271,6 +4271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell | 17612 | [17612-hell.json](./17612-hell.json) |
 | Hell | 184834 | [184834-hell.json](./184834-hell.json) |
 | Hell | 287523 | [287523-hell.json](./287523-hell.json) |
+| Hell Above | 408376 | [408376-hell-above.json](./408376-hell-above.json) |
 | Hell and Back | 348132 | [348132-hell-and-back.json](./348132-hell-and-back.json) |
 | Hell Apartment | 415448 | [415448-hell-apartment.json](./415448-hell-apartment.json) |
 | Hell Architect | 117590 | [117590-hell-architect.json](./117590-hell-architect.json) |
