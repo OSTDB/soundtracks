@@ -4197,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Puzzle Box | 126111 | [126111-vr-puzzle-box.json](./126111-vr-puzzle-box.json) |
 | VR Quest: SCP-087 | 114229 | [114229-vr-quest-scp-087.json](./114229-vr-quest-scp-087.json) |
 | VR Quiet Life | 139716 | [139716-vr-quiet-life.json](./139716-vr-quiet-life.json) |
+| VR Racing | 114850 | [114850-vr-racing.json](./114850-vr-racing.json) |
 | VR Racing | 277640 | [277640-vr-racing.json](./277640-vr-racing.json) |
 | VR Racing on Dinosaur Island | 236175 | [236175-vr-racing-on-dinosaur-island.json](./236175-vr-racing-on-dinosaur-island.json) |
 | VR Racket Ball | 68770 | [68770-vr-racket-ball.json](./68770-vr-racket-ball.json) |
