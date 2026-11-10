@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yui Tui | 190451 | [190451-yui-tui.json](./190451-yui-tui.json) |
 | Yuika My Bestie | 351595 | [351595-yuika-my-bestie.json](./351595-yuika-my-bestie.json) |
 | Yuji Naka's NES Game | 257650 | [257650-yuji-nakas-nes-game.json](./257650-yuji-nakas-nes-game.json) |
+| Yujian Flying Shooting Training Space | 425414 | [425414-yujian-flying-shooting-training-space.json](./425414-yujian-flying-shooting-training-space.json) |
 | Yujian Love | 287354 | [287354-yujian-love.json](./287354-yujian-love.json) |
 | Yujiro's Mansion | 262866 | [262866-yujiros-mansion.json](./262866-yujiros-mansion.json) |
 | Yuka: Scattered Shards of the Yokai | 247461 | [247461-yuka-scattered-shards-of-the-yokai.json](./247461-yuka-scattered-shards-of-the-yokai.json) |
