@@ -4968,6 +4968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurance Hunter | 405952 | [405952-insurance-hunter.json](./405952-insurance-hunter.json) |
 | Insurance Worker Game | 380510 | [380510-insurance-worker-game.json](./380510-insurance-worker-game.json) |
 | Insurgence | 183349 | [183349-insurgence.json](./183349-insurgence.json) |
+| Insurgence: Chains of Renegade | 108339 | [108339-insurgence-chains-of-renegade.json](./108339-insurgence-chains-of-renegade.json) |
 | Insurgence: Chains of Renegade - Remastered | 240768 | [240768-insurgence-chains-of-renegade-remastered.json](./240768-insurgence-chains-of-renegade-remastered.json) |
 | Insurgence: Last Wishes | 235184 | [235184-insurgence-last-wishes.json](./235184-insurgence-last-wishes.json) |
 | Insurgence: Second Assault | 118796 | [118796-insurgence-second-assault.json](./118796-insurgence-second-assault.json) |
@@ -5698,6 +5699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion | 95388 | [95388-invasion.json](./95388-invasion.json) |
 | Invasion - The Abductors | 39624 | [39624-invasion-the-abductors.json](./39624-invasion-the-abductors.json) |
 | Invasion 2: Doomed | 150434 | [150434-invasion-2-doomed.json](./150434-invasion-2-doomed.json) |
+| Invasion 2037 | 123742 | [123742-invasion-2037.json](./123742-invasion-2037.json) |
 | Invasion 360 | 333665 | [333665-invasion-360.json](./333665-invasion-360.json) |
 | Invasion Deutschland | 125313 | [125313-invasion-deutschland.json](./125313-invasion-deutschland.json) |
 | Invasion Eternity | 258218 | [258218-invasion-eternity.json](./258218-invasion-eternity.json) |
