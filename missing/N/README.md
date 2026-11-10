@@ -238,6 +238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nam-1975 | 95471 | [95471-nam-1975.json](./95471-nam-1975.json) |
 | Nama Chuukei 68 | 98256 | [98256-nama-chuukei-68.json](./98256-nama-chuukei-68.json) |
 | Namachuukei 68 | 127787 | [127787-namachuukei-68.json](./127787-namachuukei-68.json) |
+| Namae no Nai Kiroku | 396252 | [396252-namae-no-nai-kiroku.json](./396252-namae-no-nai-kiroku.json) |
 | Namae no Nai Yoru | 201077 | [201077-namae-no-nai-yoru.json](./201077-namae-no-nai-yoru.json) |
 | Namaiki Dark Elf 3 Shimai ga Boku ni Nakadashi o Motomeru. | 108976 | [108976-namaiki-dark-elf-3-shimai-ga-boku-ni-nakadashi-o-motomeru.json](./108976-namaiki-dark-elf-3-shimai-ga-boku-ni-nakadashi-o-motomeru.json) |
 | Namaiki Dark Elf Sisters | 173389 | [173389-namaiki-dark-elf-sisters.json](./173389-namaiki-dark-elf-sisters.json) |
