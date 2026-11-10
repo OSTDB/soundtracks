@@ -4412,6 +4412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giant's Path | 393442 | [393442-giants-path.json](./393442-giants-path.json) |
 | Giant's Revenge | 25726 | [25726-giants-revenge.json](./25726-giants-revenge.json) |
 | Giantess Girls! Job Jigsaw Jamboree | 357691 | [357691-giantess-girls-job-jigsaw-jamboree.json](./357691-giantess-girls-job-jigsaw-jamboree.json) |
+| Giantess Naval Defense | 420468 | [420468-giantess-naval-defense.json](./420468-giantess-naval-defense.json) |
 | Giantess Playground | 413114 | [413114-giantess-playground.json](./413114-giantess-playground.json) |
 | Giantfall | 381676 | [381676-giantfall.json](./381676-giantfall.json) |
 | Giants | 158196 | [158196-giants.json](./158196-giants.json) |
