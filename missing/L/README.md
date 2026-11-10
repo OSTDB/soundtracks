@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lagrange Point | 48576 | [48576-lagrange-point.json](./48576-lagrange-point.json) |
 | Lagsters | 109185 | [109185-lagsters.json](./109185-lagsters.json) |
 | Laguna Racer | 170525 | [170525-laguna-racer.json](./170525-laguna-racer.json) |
+| Laguna Rosa: A Long Story With Reckless Consequences | 428403 | [428403-laguna-rosa-a-long-story-with-reckless-consequences.json](./428403-laguna-rosa-a-long-story-with-reckless-consequences.json) |
 | Lagunita | 228275 | [228275-lagunita.json](./228275-lagunita.json) |
 | Lái Shàng Dàxué ba! | 130149 | [130149-lai-shang-daxue-ba.json](./130149-lai-shang-daxue-ba.json) |
 | Laica | 422203 | [422203-laica.json](./422203-laica.json) |
