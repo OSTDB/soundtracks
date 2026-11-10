@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Manager 2024: Historical Livery Pack | 339293 | [339293-f1-manager-2024-historical-livery-pack.json](./339293-f1-manager-2024-historical-livery-pack.json) |
 | F1 Online: The Game | 92512 | [92512-f1-online-the-game.json](./92512-f1-online-the-game.json) |
 | F1 Pilot | 44326 | [44326-f1-pilot.json](./44326-f1-pilot.json) |
+| F1 Pole Position | 48947 | [48947-f1-pole-position.json](./48947-f1-pole-position.json) |
 | F1 Pole Position 2 | 42557 | [42557-f1-pole-position-2.json](./42557-f1-pole-position-2.json) |
 | F1 Pole Position 64 | 3494 | [3494-f1-pole-position-64.json](./3494-f1-pole-position-64.json) |
 | F1 Race | 11689 | [11689-f1-race.json](./11689-f1-race.json) |
@@ -683,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Biography 3: Obsession | 235542 | [235542-fairy-biography-3-obsession.json](./235542-fairy-biography-3-obsession.json) |
 | Fairy Biography 5: Demon | 285609 | [285609-fairy-biography-5-demon.json](./285609-fairy-biography-5-demon.json) |
 | Fairy Bloom | 281283 | [281283-fairy-bloom.json](./281283-fairy-bloom.json) |
+| Fairy Bloom Freesia | 10296 | [10296-fairy-bloom-freesia.json](./10296-fairy-bloom-freesia.json) |
 | Fairy Bloom Ultra Encore | 22784 | [22784-fairy-bloom-ultra-encore.json](./22784-fairy-bloom-ultra-encore.json) |
 | Fairy Boyfriend | 298882 | [298882-fairy-boyfriend.json](./298882-fairy-boyfriend.json) |
 | Fairy Bubble | 172100 | [172100-fairy-bubble.json](./172100-fairy-bubble.json) |
@@ -1010,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of Gyes | 22098 | [22098-fall-of-gyes.json](./22098-fall-of-gyes.json) |
 | Fall of Imiryn | 69257 | [69257-fall-of-imiryn.json](./69257-fall-of-imiryn.json) |
 | Fall of Jake Paul Hop World | 195085 | [195085-fall-of-jake-paul-hop-world.json](./195085-fall-of-jake-paul-hop-world.json) |
+| Fall of Light | 36504 | [36504-fall-of-light.json](./36504-fall-of-light.json) |
 | Fall of Light: Deluxe Edition | 119076 | [119076-fall-of-light-deluxe-edition.json](./119076-fall-of-light-deluxe-edition.json) |
 | Fall of Magic: Digital Edition | 56480 | [56480-fall-of-magic-digital-edition.json](./56480-fall-of-magic-digital-edition.json) |
 | Fall Of Mankind | 336851 | [336851-fall-of-mankind.json](./336851-fall-of-mankind.json) |
@@ -2871,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator Kids | 287580 | [287580-farming-simulator-kids.json](./287580-farming-simulator-kids.json) |
 | Farming Simulator: Farm, Tractor, Experience Logic Games - Nintendo Switch Edition | 254854 | [254854-farming-simulator-farm-tractor-experience-logic-games-nintendo-switch-edition.json](./254854-farming-simulator-farm-tractor-experience-logic-games-nintendo-switch-edition.json) |
 | Farming Simulator: Grow a Garden 2025 | 378801 | [378801-farming-simulator-grow-a-garden-2025.json](./378801-farming-simulator-grow-a-garden-2025.json) |
+| Farming Simulator: Nintendo Switch Edition | 36777 | [36777-farming-simulator-nintendo-switch-edition.json](./36777-farming-simulator-nintendo-switch-edition.json) |
 | Farming Slimes | 419964 | [419964-farming-slimes.json](./419964-farming-slimes.json) |
 | Farming Supermarket Simulator | 312459 | [312459-farming-supermarket-simulator.json](./312459-farming-supermarket-simulator.json) |
 | Farming Sweeper | 191201 | [191201-farming-sweeper.json](./191201-farming-sweeper.json) |
@@ -8405,6 +8409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flitspire | 184748 | [184748-flitspire.json](./184748-flitspire.json) |
 | Flitter Inc. | 103101 | [103101-flitter-inc.json](./103101-flitter-inc.json) |
 | Flix and Chill | 29418 | [29418-flix-and-chill.json](./29418-flix-and-chill.json) |
+| Flix and Chill 2: Millennials | 44087 | [44087-flix-and-chill-2-millennials.json](./44087-flix-and-chill-2-millennials.json) |
 | Flix the Flea | 10323 | [10323-flix-the-flea.json](./10323-flix-the-flea.json) |
 | Flixfam Abenteuer | 409215 | [409215-flixfam-abenteuer.json](./409215-flixfam-abenteuer.json) |
 | FlixMix | 21410 | [21410-flixmix.json](./21410-flixmix.json) |
@@ -8485,6 +8490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flood Fighting Hero | 165019 | [165019-flood-fighting-hero.json](./165019-flood-fighting-hero.json) |
 | Flood Fill | 157927 | [157927-flood-fill.json](./157927-flood-fill.json) |
 | Flood Is Coming | 91073 | [91073-flood-is-coming.json](./91073-flood-is-coming.json) |
+| Flood of Light | 38494 | [38494-flood-of-light.json](./38494-flood-of-light.json) |
 | Flood of Tears | 299552 | [299552-flood-of-tears.json](./299552-flood-of-tears.json) |
 | Flood of Zombies | 333241 | [333241-flood-of-zombies.json](./333241-flood-of-zombies.json) |
 | Flood Parkour Obby | 363654 | [363654-flood-parkour-obby.json](./363654-flood-parkour-obby.json) |
@@ -9751,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foothold VR | 283409 | [283409-foothold-vr.json](./283409-foothold-vr.json) |
 | Footie | 268485 | [268485-footie.json](./268485-footie.json) |
 | FootLOL: Crazy Soccer! | 102620 | [102620-footlol-crazy-soccer.json](./102620-footlol-crazy-soccer.json) |
+| FootLOL: Epic Fail League | 10329 | [10329-footlol-epic-fail-league.json](./10329-footlol-epic-fail-league.json) |
 | Footlord | 383527 | [383527-footlord.json](./383527-footlord.json) |
 | Footprints Combination | 309565 | [309565-footprints-combination.json](./309565-footprints-combination.json) |
 | FootRock | 74735 | [74735-footrock.json](./74735-footrock.json) |
@@ -11112,6 +11119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 3: Mountain Dew Car Pack | 140368 | [140368-forza-horizon-3-mountain-dew-car-pack.json](./140368-forza-horizon-3-mountain-dew-car-pack.json) |
 | Forza Horizon 3: Platinum plus Expansions Bundle | 201179 | [201179-forza-horizon-3-platinum-plus-expansions-bundle.json](./201179-forza-horizon-3-platinum-plus-expansions-bundle.json) |
 | Forza Horizon 3: Porsche Car Pack | 140367 | [140367-forza-horizon-3-porsche-car-pack.json](./140367-forza-horizon-3-porsche-car-pack.json) |
+| Forza Horizon 3: Ultimate Edition | 41609 | [41609-forza-horizon-3-ultimate-edition.json](./41609-forza-horizon-3-ultimate-edition.json) |
 | Forza Horizon 4: 1959 Cadillac Eldorado Biarritz Convertible | 153726 | [153726-forza-horizon-4-1959-cadillac-eldorado-biarritz-convertible.json](./153726-forza-horizon-4-1959-cadillac-eldorado-biarritz-convertible.json) |
 | Forza Horizon 4: 1959 Porsche 356A Coupe | 153715 | [153715-forza-horizon-4-1959-porsche-356a-coupe.json](./153715-forza-horizon-4-1959-porsche-356a-coupe.json) |
 | Forza Horizon 4: 1962 Triumph TR3B | 153722 | [153722-forza-horizon-4-1962-triumph-tr3b.json](./153722-forza-horizon-4-1962-triumph-tr3b.json) |
@@ -13342,6 +13350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Synapse | 2248 | [2248-frozen-synapse.json](./2248-frozen-synapse.json) |
 | Frozen Synapse | 259532 | [259532-frozen-synapse.json](./259532-frozen-synapse.json) |
 | Frozen Synapse 2 | 18435 | [18435-frozen-synapse-2.json](./18435-frozen-synapse-2.json) |
+| Frozen Synapse Prime | 10338 | [10338-frozen-synapse-prime.json](./10338-frozen-synapse-prime.json) |
 | Frozen Synapse: Prime Soundtrack Edition | 118844 | [118844-frozen-synapse-prime-soundtrack-edition.json](./118844-frozen-synapse-prime-soundtrack-edition.json) |
 | Frozen Synapse: Red | 51805 | [51805-frozen-synapse-red.json](./51805-frozen-synapse-red.json) |
 | Frozen Synapse: Tactics | 52228 | [52228-frozen-synapse-tactics.json](./52228-frozen-synapse-tactics.json) |
