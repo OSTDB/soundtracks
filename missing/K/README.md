@@ -2681,6 +2681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill The Shadow | 276201 | [276201-kill-the-shadow.json](./276201-kill-the-shadow.json) |
 | Kill the Sun | 364236 | [364236-kill-the-sun.json](./364236-kill-the-sun.json) |
 | Kill the Super Duper Big Monster | 407737 | [407737-kill-the-super-duper-big-monster.json](./407737-kill-the-super-duper-big-monster.json) |
+| Kill the Superweapon | 76294 | [76294-kill-the-superweapon.json](./76294-kill-the-superweapon.json) |
 | Kill the Thing | 420518 | [420518-kill-the-thing.json](./420518-kill-the-thing.json) |
 | Kill The Topulus | 265836 | [265836-kill-the-topulus.json](./265836-kill-the-topulus.json) |
 | Kill the Twister | 339679 | [339679-kill-the-twister.json](./339679-kill-the-twister.json) |
@@ -2939,6 +2940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3507,6 +3509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Cum | 340790 | [340790-kingdom-cum.json](./340790-kingdom-cum.json) |
 | Kingdom Days Sim Date | 197618 | [197618-kingdom-days-sim-date.json](./197618-kingdom-days-sim-date.json) |
 | Kingdom Death: Simulator | 360609 | [360609-kingdom-death-simulator.json](./360609-kingdom-death-simulator.json) |
+| Kingdom Defense | 76104 | [76104-kingdom-defense.json](./76104-kingdom-defense.json) |
 | Kingdom Defense 2: Empire Warriors | 104361 | [104361-kingdom-defense-2-empire-warriors.json](./104361-kingdom-defense-2-empire-warriors.json) |
 | Kingdom Defense: Deliverance | 333136 | [333136-kingdom-defense-deliverance.json](./333136-kingdom-defense-deliverance.json) |
 | Kingdom Defense: Hero Legend | 105834 | [105834-kingdom-defense-hero-legend.json](./105834-kingdom-defense-hero-legend.json) |
@@ -5000,6 +5003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout | 245133 | [245133-knockout.json](./245133-knockout.json) |
 | Knockout 2: Wrath of the Karen | 244756 | [244756-knockout-2-wrath-of-the-karen.json](./244756-knockout-2-wrath-of-the-karen.json) |
 | Knockout Bowling VR | 129695 | [129695-knockout-bowling-vr.json](./129695-knockout-bowling-vr.json) |
+| Knockout Checkers Chamber | 76348 | [76348-knockout-checkers-chamber.json](./76348-knockout-checkers-chamber.json) |
 | Knockout City | 143615 | [143615-knockout-city.json](./143615-knockout-city.json) |
 | Knockout City: Block Party Edition | 169177 | [169177-knockout-city-block-party-edition.json](./169177-knockout-city-block-party-edition.json) |
 | Knockout City: Deluxe Block Party Edition | 169176 | [169176-knockout-city-deluxe-block-party-edition.json](./169176-knockout-city-deluxe-block-party-edition.json) |
