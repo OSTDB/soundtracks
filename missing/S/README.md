@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.K.I.L.L.: Special Force 2 | 17174 | [17174-s-k-i-l-l-special-force-2.json](./17174-s-k-i-l-l-special-force-2.json) |
 | S.K.R.U.B. Squad | 412352 | [412352-s-k-r-u-b-squad.json](./412352-s-k-r-u-b-squad.json) |
 | S.L.A.I.: Steel Lancer Arena International | 22515 | [22515-s-l-a-i-steel-lancer-arena-international.json](./22515-s-l-a-i-steel-lancer-arena-international.json) |
+| S.L.O.P | 407621 | [407621-s-l-o-p.json](./407621-s-l-o-p.json) |
 | S.L.Y Special Project Y | 41083 | [41083-s-l-y-special-project-y.json](./41083-s-l-y-special-project-y.json) |
 | S.M.A.C.K. | 225097 | [225097-s-m-a-c-k.json](./225097-s-m-a-c-k.json) |
 | S.M.A.R.T. Adventures: Mission Math - Sabotage at the Space Station | 86092 | [86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json](./86092-s-m-a-r-t-adventures-mission-math-sabotage-at-the-space-station.json) |
@@ -11436,6 +11437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity Graphics Set 2: Future Cities | 77969 | [77969-simcity-graphics-set-2-future-cities.json](./77969-simcity-graphics-set-2-future-cities.json) |
 | SimCity Jr. | 38225 | [38225-simcity-jr.json](./38225-simcity-jr.json) |
 | SimCity Social | 64978 | [64978-simcity-social.json](./64978-simcity-social.json) |
+| SimCity Societies Deluxe Edition | 407611 | [407611-simcity-societies-deluxe-edition.json](./407611-simcity-societies-deluxe-edition.json) |
 | SimCity Societies: Destinations | 20181 | [20181-simcity-societies-destinations.json](./20181-simcity-societies-destinations.json) |
 | SimCity: Cities of Tomorrow | 20106 | [20106-simcity-cities-of-tomorrow.json](./20106-simcity-cities-of-tomorrow.json) |
 | SimCity: Complete Edition | 87191 | [87191-simcity-complete-edition.json](./87191-simcity-complete-edition.json) |
@@ -13719,6 +13721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slalom | 245138 | [245138-slalom.json](./245138-slalom.json) |
 | Slalom | 378177 | [378177-slalom.json](./378177-slalom.json) |
 | Slam | 35046 | [35046-slam.json](./35046-slam.json) |
+| Slam | 407639 | [407639-slam.json](./407639-slam.json) |
 | Slam 'N Jam | 20708 | [20708-slam-n-jam.json](./20708-slam-n-jam.json) |
 | Slam 'n Jam 95 | 39017 | [39017-slam-n-jam-95.json](./39017-slam-n-jam-95.json) |
 | Slam and Roll | 220702 | [220702-slam-and-roll.json](./220702-slam-and-roll.json) |
@@ -17692,6 +17695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitude | 347799 | [347799-solitude.json](./347799-solitude.json) |
 | Solitude Underwater | 213319 | [213319-solitude-underwater.json](./213319-solitude-underwater.json) |
 | Solitude: Escape of Head | 102939 | [102939-solitude-escape-of-head.json](./102939-solitude-escape-of-head.json) |
+| Solitude: UTSS-4005 | 407608 | [407608-solitude-utss-4005.json](./407608-solitude-utss-4005.json) |
 | Solitune | 28266 | [28266-solitune.json](./28266-solitune.json) |
 | Solium Infernum | 92627 | [92627-solium-infernum.json](./92627-solium-infernum.json) |
 | Solium Infernum: Belphegor, Paragon of Impiety | 298101 | [298101-solium-infernum-belphegor-paragon-of-impiety.json](./298101-solium-infernum-belphegor-paragon-of-impiety.json) |
@@ -17833,6 +17837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Sword, Some Play | 215774 | [215774-some-sword-some-play.json](./215774-some-sword-some-play.json) |
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
 | Some Trashy Game | 181536 | [181536-some-trashy-game.json](./181536-some-trashy-game.json) |
+| Some Type of Trip | 407613 | [407613-some-type-of-trip.json](./407613-some-type-of-trip.json) |
 | Some: The House | 350308 | [350308-some-the-house.json](./350308-some-the-house.json) |
 | Someday | 120923 | [120923-someday.json](./120923-someday.json) |
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
@@ -21634,6 +21639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceship Idle: Design, Build, Explore & Battle | 346879 | [346879-spaceship-idle-design-build-explore-and-battle.json](./346879-spaceship-idle-design-build-explore-and-battle.json) |
 | Spaceship Looter | 29333 | [29333-spaceship-looter.json](./29333-spaceship-looter.json) |
 | Spaceship Man 2 | 351258 | [351258-spaceship-man-2.json](./351258-spaceship-man-2.json) |
+| Spaceship Pro Simulator | 407648 | [407648-spaceship-pro-simulator.json](./407648-spaceship-pro-simulator.json) |
 | Spaceship Racer: Portal | 243041 | [243041-spaceship-racer-portal.json](./243041-spaceship-racer-portal.json) |
 | Spaceship Racer: Portal | 244744 | [244744-spaceship-racer-portal.json](./244744-spaceship-racer-portal.json) |
 | Spaceship Running Dudu | 250409 | [250409-spaceship-running-dudu.json](./250409-spaceship-running-dudu.json) |
@@ -24802,6 +24808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Simulator | 389266 | [389266-squirrel-simulator.json](./389266-squirrel-simulator.json) |
 | Squirrel Sphere | 89999 | [89999-squirrel-sphere.json](./89999-squirrel-sphere.json) |
 | Squirrel Stapler | 263382 | [263382-squirrel-stapler.json](./263382-squirrel-stapler.json) |
+| Squirrel University Simulator | 407651 | [407651-squirrel-university-simulator.json](./407651-squirrel-university-simulator.json) |
 | Squirrel vs. Worms | 262075 | [262075-squirrel-vs-worms.json](./262075-squirrel-vs-worms.json) |
 | Squirrel with a Gun: Pride Month Update | 370901 | [370901-squirrel-with-a-gun-pride-month-update.json](./370901-squirrel-with-a-gun-pride-month-update.json) |
 | Squirreled Away | 314650 | [314650-squirreled-away.json](./314650-squirreled-away.json) |
@@ -28211,6 +28218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Together!: Co-op Frog Parkour | 391561 | [391561-stick-together-co-op-frog-parkour.json](./391561-stick-together-co-op-frog-parkour.json) |
 | Stick Tongue | 324346 | [324346-stick-tongue.json](./324346-stick-tongue.json) |
 | Stick Tower | 143433 | [143433-stick-tower.json](./143433-stick-tower.json) |
+| Stick Trampoline | 407660 | [407660-stick-trampoline.json](./407660-stick-trampoline.json) |
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
 | Stick Veterans | 176360 | [176360-stick-veterans.json](./176360-stick-veterans.json) |
 | Stick War | 234161 | [234161-stick-war.json](./234161-stick-war.json) |
@@ -31983,6 +31991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise: The Game | 187088 | [187088-sunrise-the-game.json](./187088-sunrise-the-game.json) |
 | Sunrise's Order | 216727 | [216727-sunrises-order.json](./216727-sunrises-order.json) |
 | Sunrock Lake | 395774 | [395774-sunrock-lake.json](./395774-sunrock-lake.json) |
+| Sunrose | 407642 | [407642-sunrose.json](./407642-sunrose.json) |
 | Sunrose.p8 | 179488 | [179488-sunrose-p8.json](./179488-sunrose-p8.json) |
 | Suns of Wiraqocha | 270886 | [270886-suns-of-wiraqocha.json](./270886-suns-of-wiraqocha.json) |
 | Sunsave | 390591 | [390591-sunsave.json](./390591-sunsave.json) |
@@ -33020,6 +33029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ice Hockey | 38196 | [38196-super-ice-hockey.json](./38196-super-ice-hockey.json) |
 | Super Ick | 193502 | [193502-super-ick.json](./193502-super-ick.json) |
 | Super Idle Cats - Tap Farm | 106965 | [106965-super-idle-cats-tap-farm.json](./106965-super-idle-cats-tap-farm.json) |
+| Super Idle Imagination | 407691 | [407691-super-idle-imagination.json](./407691-super-idle-imagination.json) |
 | Super Igo Go-ou | 37828 | [37828-super-igo-go-ou.json](./37828-super-igo-go-ou.json) |
 | Super II Sonik | 342990 | [342990-super-ii-sonik.json](./342990-super-ii-sonik.json) |
 | Super Ileheart Quest | 113435 | [113435-super-ileheart-quest.json](./113435-super-ileheart-quest.json) |
