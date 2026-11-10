@@ -1126,6 +1126,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales from the Age of Men | 423994 | [423994-tales-from-the-age-of-men.json](./423994-tales-from-the-age-of-men.json) |
 | Tales From The Arcade: Fartmania | 296471 | [296471-tales-from-the-arcade-fartmania.json](./296471-tales-from-the-arcade-fartmania.json) |
 | Tales From The Arcade: Starship Murder | 263742 | [263742-tales-from-the-arcade-starship-murder.json](./263742-tales-from-the-arcade-starship-murder.json) |
+| Tales from the Borderlands: Episode 1 - Zer0 Sum | 95009 | [95009-tales-from-the-borderlands-episode-1-zer0-sum.json](./95009-tales-from-the-borderlands-episode-1-zer0-sum.json) |
+| Tales from the Borderlands: Episode 2 - Atlas Mugged | 95010 | [95010-tales-from-the-borderlands-episode-2-atlas-mugged.json](./95010-tales-from-the-borderlands-episode-2-atlas-mugged.json) |
+| Tales from the Borderlands: Episode 3 - Catch a Ride | 95011 | [95011-tales-from-the-borderlands-episode-3-catch-a-ride.json](./95011-tales-from-the-borderlands-episode-3-catch-a-ride.json) |
 | Tales from the Borderlands: Episode 4 - Escape Plan Bravo | 127037 | [127037-tales-from-the-borderlands-episode-4-escape-plan-bravo.json](./127037-tales-from-the-borderlands-episode-4-escape-plan-bravo.json) |
 | Tales from the Borderlands: Episode 5 - The Vault of the Traveler | 127038 | [127038-tales-from-the-borderlands-episode-5-the-vault-of-the-traveler.json](./127038-tales-from-the-borderlands-episode-5-the-vault-of-the-traveler.json) |
 | Tales from the Cache | 145420 | [145420-tales-from-the-cache.json](./145420-tales-from-the-cache.json) |
@@ -5922,6 +5925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aeronautics Quiz MK 2 | 69766 | [69766-the-aeronautics-quiz-mk-2.json](./69766-the-aeronautics-quiz-mk-2.json) |
 | The Aether | 213699 | [213699-the-aether.json](./213699-the-aether.json) |
 | The Aether II | 245708 | [245708-the-aether-ii.json](./245708-the-aether-ii.json) |
+| The Aether: Life as a God | 96271 | [96271-the-aether-life-as-a-god.json](./96271-the-aether-life-as-a-god.json) |
 | The Aetherlight: Chronicles of the Resistance | 58583 | [58583-the-aetherlight-chronicles-of-the-resistance.json](./58583-the-aetherlight-chronicles-of-the-resistance.json) |
 | The Aethra Chronicles, Volume One: Celystra's Bane | 70125 | [70125-the-aethra-chronicles-volume-one-celystras-bane.json](./70125-the-aethra-chronicles-volume-one-celystras-bane.json) |
 | The Afterglow of Grisaia | 32956 | [32956-the-afterglow-of-grisaia.json](./32956-the-afterglow-of-grisaia.json) |
@@ -25854,6 +25858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege - Pro League Clash Set | 224422 | [224422-tom-clancys-rainbow-six-siege-pro-league-clash-set.json](./224422-tom-clancys-rainbow-six-siege-pro-league-clash-set.json) |
 | Tom Clancy's Rainbow Six Siege + The Division Double Pack | 144734 | [144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json](./144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json) |
 | Tom Clancy's Rainbow Six Siege X | 349484 | [349484-tom-clancys-rainbow-six-siege-x.json](./349484-tom-clancys-rainbow-six-siege-x.json) |
+| Tom Clancy's Rainbow Six Siege: Advanced Edition | 91311 | [91311-tom-clancys-rainbow-six-siege-advanced-edition.json](./91311-tom-clancys-rainbow-six-siege-advanced-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Complete Edition | 53820 | [53820-tom-clancys-rainbow-six-siege-complete-edition.json](./53820-tom-clancys-rainbow-six-siege-complete-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Crimson Heist | 144049 | [144049-tom-clancys-rainbow-six-siege-crimson-heist.json](./144049-tom-clancys-rainbow-six-siege-crimson-heist.json) |
 | Tom Clancy's Rainbow Six Siege: Crystal Guard | 183112 | [183112-tom-clancys-rainbow-six-siege-crystal-guard.json](./183112-tom-clancys-rainbow-six-siege-crystal-guard.json) |
@@ -26678,6 +26683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Punch | 97203 | [97203-top-punch.json](./97203-top-punch.json) |
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
 | Top Racer: Crossroads | 262047 | [262047-top-racer-crossroads.json](./262047-top-racer-crossroads.json) |
+| Top Rank Tennis | 94186 | [94186-top-rank-tennis.json](./94186-top-rank-tennis.json) |
 | Top Rider | 64284 | [64284-top-rider.json](./64284-top-rider.json) |
 | Top Roller | 93399 | [93399-top-roller.json](./93399-top-roller.json) |
 | Top Run | 129126 | [129126-top-run.json](./129126-top-run.json) |
