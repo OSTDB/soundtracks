@@ -6086,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Respawn Man | 34527 | [34527-respawn-man.json](./34527-respawn-man.json) |
 | Respawnables Heroes | 149317 | [149317-respawnables-heroes.json](./149317-respawnables-heroes.json) |
 | Respawnables: Special Forces | 94784 | [94784-respawnables-special-forces.json](./94784-respawnables-special-forces.json) |
+| Respect The Horde | 417143 | [417143-respect-the-horde.json](./417143-respect-the-horde.json) |
 | Respite | 179083 | [179083-respite.json](./179083-respite.json) |
 | Resplendent | 316560 | [316560-resplendent.json](./316560-resplendent.json) |
 | Responding | 128585 | [128585-responding.json](./128585-responding.json) |
