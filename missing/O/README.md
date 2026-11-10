@@ -2515,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One More Bounce | 260107 | [260107-one-more-bounce.json](./260107-one-more-bounce.json) |
 | One More Brick | 87170 | [87170-one-more-brick.json](./87170-one-more-brick.json) |
 | One More Button | 106299 | [106299-one-more-button.json](./106299-one-more-button.json) |
+| One More Claw | 422437 | [422437-one-more-claw.json](./422437-one-more-claw.json) |
 | One More Core | 399868 | [399868-one-more-core.json](./399868-one-more-core.json) |
 | One More Cup | 421810 | [421810-one-more-cup.json](./421810-one-more-cup.json) |
 | One More Dash | 260105 | [260105-one-more-dash.json](./260105-one-more-dash.json) |
@@ -2567,6 +2568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Must Fall | 14428 | [14428-one-must-fall.json](./14428-one-must-fall.json) |
 | One Must Fall: 2097 | 14429 | [14429-one-must-fall-2097.json](./14429-one-must-fall-2097.json) |
 | One Must Fall: Battlegrounds | 14430 | [14430-one-must-fall-battlegrounds.json](./14430-one-must-fall-battlegrounds.json) |
+| One Must Rule | 422443 | [422443-one-must-rule.json](./422443-one-must-rule.json) |
 | One Nation Under the Old Gods | 372532 | [372532-one-nation-under-the-old-gods.json](./372532-one-nation-under-the-old-gods.json) |
 | One Night | 286505 | [286505-one-night.json](./286505-one-night.json) |
 | One Night | 86341 | [86341-one-night.json](./86341-one-night.json) |
@@ -3553,6 +3555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenGoal: Jak and Daxter - The Precursor Legacy | 206008 | [206008-opengoal-jak-and-daxter-the-precursor-legacy.json](./206008-opengoal-jak-and-daxter-the-precursor-legacy.json) |
 | OpenGoal: Jak II | 275306 | [275306-opengoal-jak-ii.json](./275306-opengoal-jak-ii.json) |
 | OpenGuessr | 314022 | [314022-openguessr.json](./314022-openguessr.json) |
+| OpenHunter | 422476 | [422476-openhunter.json](./422476-openhunter.json) |
 | OpenHV | 184413 | [184413-openhv.json](./184413-openhv.json) |
 | Opening | 390710 | [390710-opening.json](./390710-opening.json) |
 | Opening Night | 287325 | [287325-opening-night.json](./287325-opening-night.json) |
