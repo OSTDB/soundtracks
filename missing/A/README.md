@@ -4382,6 +4382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | Aether’s Echo: Yazid’s Paradox | 379569 | [379569-aether-s-echo-yazid-s-paradox.json](./379569-aether-s-echo-yazid-s-paradox.json) |
 | Aetherbound | 357789 | [357789-aetherbound.json](./357789-aetherbound.json) |
+| Aethercore | 412036 | [412036-aethercore.json](./412036-aethercore.json) |
 | AetherCycle | 399767 | [399767-aethercycle.json](./399767-aethercycle.json) |
 | Aetherdale | 316455 | [316455-aetherdale.json](./316455-aetherdale.json) |
 | Aetherdrift | 384194 | [384194-aetherdrift.json](./384194-aetherdrift.json) |
@@ -6883,6 +6884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfelus | 125669 | [125669-alfelus.json](./125669-alfelus.json) |
 | Alfie Atkins | 114613 | [114613-alfie-atkins.json](./114613-alfie-atkins.json) |
 | Alfie Atkins Game Collection | 385142 | [385142-alfie-atkins-game-collection.json](./385142-alfie-atkins-game-collection.json) |
+| Alfons Åberg ”Bara överallt!” | 412514 | [412514-alfons-aberg-bara-overallt.json](./412514-alfons-aberg-bara-overallt.json) |
 | Alfons World | 345053 | [345053-alfons-world.json](./345053-alfons-world.json) |
 | Alfonzo's Arctic Adventure | 122808 | [122808-alfonzos-arctic-adventure.json](./122808-alfonzos-arctic-adventure.json) |
 | Alfonzo's Bowling Challenge | 131789 | [131789-alfonzos-bowling-challenge.json](./131789-alfonzos-bowling-challenge.json) |
