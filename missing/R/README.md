@@ -12732,6 +12732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rummel & Rabalder: SkumCity | 399390 | [399390-rummel-and-rabalder-skumcity.json](./399390-rummel-and-rabalder-skumcity.json) |
 | Rummi | 181530 | [181530-rummi.json](./181530-rummi.json) |
 | Rummikub | 243274 | [243274-rummikub.json](./243274-rummikub.json) |
+| Rummikub | 84850 | [84850-rummikub.json](./84850-rummikub.json) |
 | Rummix | 387075 | [387075-rummix.json](./387075-rummix.json) |
 | Rummy | 370401 | [370401-rummy.json](./370401-rummy.json) |
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
@@ -12997,6 +12998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runbow | 11215 | [11215-runbow.json](./11215-runbow.json) |
 | Runbow: Complete Collection | 53561 | [53561-runbow-complete-collection.json](./53561-runbow-complete-collection.json) |
 | Runbow: Deluxe Edition | 51142 | [51142-runbow-deluxe-edition.json](./51142-runbow-deluxe-edition.json) |
+| Runbow: Pocket Deluxe Edition | 84910 | [84910-runbow-pocket-deluxe-edition.json](./84910-runbow-pocket-deluxe-edition.json) |
 | RunBunRunBun | 275977 | [275977-runbunrunbun.json](./275977-runbunrunbun.json) |
 | Rundat | 145355 | [145355-rundat.json](./145355-rundat.json) |
 | Rundom | 149817 | [149817-rundom.json](./149817-rundom.json) |
