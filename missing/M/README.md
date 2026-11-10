@@ -2776,6 +2776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MakeRoom | 235552 | [235552-makeroom.json](./235552-makeroom.json) |
 | Makeruna! Makendo 2: Kimero Yokai Souri | 38265 | [38265-makeruna-makendo-2-kimero-yokai-souri.json](./38265-makeruna-makendo-2-kimero-yokai-souri.json) |
 | Makeruna! Makendou Z | 64091 | [64091-makeruna-makendou-z.json](./64091-makeruna-makendou-z.json) |
+| MakeShift Mayhem | 427837 | [427837-makeshift-mayhem.json](./427837-makeshift-mayhem.json) |
 | MakeThatMoney | 90473 | [90473-makethatmoney.json](./90473-makethatmoney.json) |
 | Makeup Artist | 400056 | [400056-makeup-artist.json](./400056-makeup-artist.json) |
 | Makeup ASMR: Makeover Story | 355866 | [355866-makeup-asmr-makeover-story.json](./355866-makeup-asmr-makeover-story.json) |
@@ -20422,6 +20423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muri | 16896 | [16896-muri.json](./16896-muri.json) |
 | Muri: Wildwoods | 324950 | [324950-muri-wildwoods.json](./324950-muri-wildwoods.json) |
 | Murica | 114890 | [114890-murica.json](./114890-murica.json) |
+| Murim Sect Leader | 427829 | [427829-murim-sect-leader.json](./427829-murim-sect-leader.json) |
 | Murk | 143924 | [143924-murk.json](./143924-murk.json) |
 | Murk | 426420 | [426420-murk.json](./426420-murk.json) |
 | Murkon's Refuge | 65490 | [65490-murkons-refuge.json](./65490-murkons-refuge.json) |
@@ -22484,6 +22486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myastere -Ruins of Deazniff- | 145211 | [145211-myastere-ruins-of-deazniff.json](./145211-myastere-ruins-of-deazniff.json) |
 | MyBiz: Pomodoro Desk Tycoon | 405557 | [405557-mybiz-pomodoro-desk-tycoon.json](./405557-mybiz-pomodoro-desk-tycoon.json) |
 | MyBot | 128218 | [128218-mybot.json](./128218-mybot.json) |
+| Mycel Pipi | 427817 | [427817-mycel-pipi.json](./427817-mycel-pipi.json) |
 | Mycelium | 295350 | [295350-mycelium.json](./295350-mycelium.json) |
 | Mycelium Conquest | 401813 | [401813-mycelium-conquest.json](./401813-mycelium-conquest.json) |
 | Mycelium Guardians | 272961 | [272961-mycelium-guardians.json](./272961-mycelium-guardians.json) |
