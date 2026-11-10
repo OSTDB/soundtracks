@@ -7919,6 +7919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pippin | 92542 | [92542-pippin.json](./92542-pippin.json) |
 | Pippin Atmark Demonstration Disk | 289751 | [289751-pippin-atmark-demonstration-disk.json](./289751-pippin-atmark-demonstration-disk.json) |
 | Pippin's Mysterious Garden | 258729 | [258729-pippins-mysterious-garden.json](./258729-pippins-mysterious-garden.json) |
+| Pipplop's Tiny Adventure | 402598 | [402598-pipplops-tiny-adventure.json](./402598-pipplops-tiny-adventure.json) |
 | Pippo | 92906 | [92906-pippo.json](./92906-pippo.json) |
 | Pippo's Quest | 251584 | [251584-pippos-quest.json](./251584-pippos-quest.json) |
 | Pippols | 40882 | [40882-pippols.json](./40882-pippols.json) |
@@ -11712,6 +11713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Echo | 392776 | [392776-pokemon-echo.json](./392776-pokemon-echo.json) |
 | Pokémon Eclesia | 306671 | [306671-pokemon-eclesia.json](./306671-pokemon-eclesia.json) |
 | Pokémon Edición Reloaded | 250629 | [250629-pokemon-edicion-reloaded.json](./250629-pokemon-edicion-reloaded.json) |
+| Pokémon Edición Sombría: Vientos del Pasado | 402632 | [402632-pokemon-edicion-sombria-vientos-del-pasado.json](./402632-pokemon-edicion-sombria-vientos-del-pasado.json) |
 | Pokémon Edición Team Rocket | 353274 | [353274-pokemon-edicion-team-rocket.json](./353274-pokemon-edicion-team-rocket.json) |
 | Pokémon Electronic Battle Arena | 198862 | [198862-pokemon-electronic-battle-arena.json](./198862-pokemon-electronic-battle-arena.json) |
 | Pokémon Elite Redux | 261954 | [261954-pokemon-elite-redux.json](./261954-pokemon-elite-redux.json) |
@@ -13103,6 +13105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool & Snooker Fever: 2 in 1 Bundle - Premium Edition | 395683 | [395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json](./395683-pool-and-snooker-fever-2-in-1-bundle-premium-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Silver Edition | 411181 | [411181-pool-and-snooker-fever-2-in-1-bundle-silver-edition.json](./411181-pool-and-snooker-fever-2-in-1-bundle-silver-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Superior Edition | 413572 | [413572-pool-and-snooker-fever-2-in-1-bundle-superior-edition.json](./413572-pool-and-snooker-fever-2-in-1-bundle-superior-edition.json) |
+| Pool & Snooker Fever: 2 in 1 Bundle Elite Edition | 402607 | [402607-pool-and-snooker-fever-2-in-1-bundle-elite-edition.json](./402607-pool-and-snooker-fever-2-in-1-bundle-elite-edition.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle Upgrade Edition | 397886 | [397886-pool-and-snooker-fever-2-in-1-bundle-upgrade-edition.json](./397886-pool-and-snooker-fever-2-in-1-bundle-upgrade-edition.json) |
 | Pool 2 | 335496 | [335496-pool-2.json](./335496-pool-2.json) |
 | Pool 2D - Poolians | 107406 | [107406-pool-2d-poolians.json](./107406-pool-2d-poolians.json) |
@@ -15766,6 +15769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prizhm: Fantastic Side Scrolling STG | 124383 | [124383-prizhm-fantastic-side-scrolling-stg.json](./124383-prizhm-fantastic-side-scrolling-stg.json) |
 | Prizm | 92899 | [92899-prizm.json](./92899-prizm.json) |
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
+| Prizma Puzzle Classic 2 | 402615 | [402615-prizma-puzzle-classic-2.json](./402615-prizma-puzzle-classic-2.json) |
 | Prizma Puzzle Prime | 234275 | [234275-prizma-puzzle-prime.json](./234275-prizma-puzzle-prime.json) |
 | Pro 123 My Little Funny Animals Connect the Dots | 102616 | [102616-pro-123-my-little-funny-animals-connect-the-dots.json](./102616-pro-123-my-little-funny-animals-connect-the-dots.json) |
 | Pro 18: World Tour Golf | 43821 | [43821-pro-18-world-tour-golf.json](./43821-pro-18-world-tour-golf.json) |
