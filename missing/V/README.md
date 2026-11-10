@@ -4003,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoxLand | 410640 | [410640-voxland.json](./410640-voxland.json) |
 | Voxmons | 425869 | [425869-voxmons.json](./425869-voxmons.json) |
 | Voxorp | 178628 | [178628-voxorp.json](./178628-voxorp.json) |
+| Voxotron | 405237 | [405237-voxotron.json](./405237-voxotron.json) |
 | Voxquarter | 366461 | [366461-voxquarter.json](./366461-voxquarter.json) |
 | Voxquest: The Firebird | 193574 | [193574-voxquest-the-firebird.json](./193574-voxquest-the-firebird.json) |
 | VoxreD | 31083 | [31083-voxred.json](./31083-voxred.json) |
