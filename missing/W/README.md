@@ -3855,6 +3855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WhackAKyouka | 164870 | [164870-whackakyouka.json](./164870-whackakyouka.json) |
 | WhackaMon Hammer Hideout | 423889 | [423889-whackamon-hammer-hideout.json](./423889-whackamon-hammer-hideout.json) |
 | Whacked! | 377148 | [377148-whacked.json](./377148-whacked.json) |
+| Whacked! | 6229 | [6229-whacked.json](./6229-whacked.json) |
 | Whacker Guy: Distance Hunter | 107731 | [107731-whacker-guy-distance-hunter.json](./107731-whacker-guy-distance-hunter.json) |
 | Whackerball | 234120 | [234120-whackerball.json](./234120-whackerball.json) |
 | Whacking Hell! | 282223 | [282223-whacking-hell.json](./282223-whacking-hell.json) |
@@ -6910,6 +6911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Without Pain | 172952 | [172952-without-pain.json](./172952-without-pain.json) |
 | Without Portalgun Collection | 417433 | [417433-without-portalgun-collection.json](./417433-without-portalgun-collection.json) |
 | Without Romance | 158542 | [158542-without-romance.json](./158542-without-romance.json) |
+| Without Warning | 6236 | [6236-without-warning.json](./6236-without-warning.json) |
 | Without Wings | 340932 | [340932-without-wings.json](./340932-without-wings.json) |
 | Without Within | 35853 | [35853-without-within.json](./35853-without-within.json) |
 | Without Within 2 | 34531 | [34531-without-within-2.json](./34531-without-within-2.json) |
@@ -8801,6 +8803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series Baseball '96 | 46685 | [46685-world-series-baseball-96.json](./46685-world-series-baseball-96.json) |
 | World Series Baseball 2K1 | 45849 | [45849-world-series-baseball-2k1.json](./45849-world-series-baseball-2k1.json) |
 | World Series Baseball 2K2 | 6240 | [6240-world-series-baseball-2k2.json](./6240-world-series-baseball-2k2.json) |
+| World Series Baseball 2K3 | 6241 | [6241-world-series-baseball-2k3.json](./6241-world-series-baseball-2k3.json) |
 | World Series Baseball 98 | 4473 | [4473-world-series-baseball-98.json](./4473-world-series-baseball-98.json) |
 | World Series Baseball II | 45511 | [45511-world-series-baseball-ii.json](./45511-world-series-baseball-ii.json) |
 | World Series Baseball Starring Deion Sanders | 46428 | [46428-world-series-baseball-starring-deion-sanders.json](./46428-world-series-baseball-starring-deion-sanders.json) |
@@ -9384,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of Thor | 115238 | [115238-wrath-of-thor.json](./115238-wrath-of-thor.json) |
 | Wrath of Towers | 294383 | [294383-wrath-of-towers.json](./294383-wrath-of-towers.json) |
 | Wrath Rally | 184934 | [184934-wrath-rally.json](./184934-wrath-rally.json) |
+| Wrath Unleashed | 6248 | [6248-wrath-unleashed.json](./6248-wrath-unleashed.json) |
 | Wrath: Aeon of Ruin | 115873 | [115873-wrath-aeon-of-ruin.json](./115873-wrath-aeon-of-ruin.json) |
 | Wrath: Aeon of Ruin VR - Brutal Edition | 313772 | [313772-wrath-aeon-of-ruin-vr-brutal-edition.json](./313772-wrath-aeon-of-ruin-vr-brutal-edition.json) |
 | Wrathline | 414738 | [414738-wrathline.json](./414738-wrathline.json) |
