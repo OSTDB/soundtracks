@@ -4173,6 +4173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Oddities | 239155 | [239155-red-oddities.json](./239155-red-oddities.json) |
 | Red Ops: The First Infection | 253860 | [253860-red-ops-the-first-infection.json](./253860-red-ops-the-first-infection.json) |
 | Red or Blue | 333620 | [333620-red-or-blue.json](./333620-red-or-blue.json) |
+| Red or Green | 425425 | [425425-red-or-green.json](./425425-red-or-green.json) |
 | Red Orchestra: Ostfront 41-45 | 9409 | [9409-red-orchestra-ostfront-41-45.json](./9409-red-orchestra-ostfront-41-45.json) |
 | Red Out Block | 377788 | [377788-red-out-block.json](./377788-red-out-block.json) |
 | Red Out Block Aim! Shooting | 385946 | [385946-red-out-block-aim-shooting.json](./385946-red-out-block-aim-shooting.json) |
@@ -5455,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renxia | 278696 | [278696-renxia.json](./278696-renxia.json) |
 | Rěnzhě Guī OL | 83088 | [83088-renzhe-gui-ol.json](./83088-renzhe-gui-ol.json) |
 | Renzo Racer | 38812 | [38812-renzo-racer.json](./38812-renzo-racer.json) |
+| Reoguna | 425435 | [425435-reoguna.json](./425435-reoguna.json) |
 | Reouija Sleepover | 214436 | [214436-reouija-sleepover.json](./214436-reouija-sleepover.json) |
 | Repair Adventure | 265531 | [265531-repair-adventure.json](./265531-repair-adventure.json) |
 | Repair Plane | 303790 | [303790-repair-plane.json](./303790-repair-plane.json) |
@@ -6623,6 +6625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Pirate's Island 2 | 72537 | [72537-return-to-pirates-island-2.json](./72537-return-to-pirates-island-2.json) |
 | Return to Pirate's Isle | 18527 | [18527-return-to-pirates-isle.json](./18527-return-to-pirates-isle.json) |
 | Return to Planet X | 38810 | [38810-return-to-planet-x.json](./38810-return-to-planet-x.json) |
+| Return to Planet Zoveka | 425402 | [425402-return-to-planet-zoveka.json](./425402-return-to-planet-zoveka.json) |
 | Return to PopoloCrois: A Story of Seasons Fairytale | 11005 | [11005-return-to-popolocrois-a-story-of-seasons-fairytale.json](./11005-return-to-popolocrois-a-story-of-seasons-fairytale.json) |
 | Return to Ravenholm | 237522 | [237522-return-to-ravenholm.json](./237522-return-to-ravenholm.json) |
 | Return to Riddle School | 261427 | [261427-return-to-riddle-school.json](./261427-return-to-riddle-school.json) |
@@ -7022,6 +7025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolve A | 274595 | [274595-revolve-a.json](./274595-revolve-a.json) |
 | Revolve8 | 113553 | [113553-revolve8.json](./113553-revolve8.json) |
 | Revolve8: Episodic Dueling | 110868 | [110868-revolve8-episodic-dueling.json](./110868-revolve8-episodic-dueling.json) |
+| Revolved | 425389 | [425389-revolved.json](./425389-revolved.json) |
 | Revolver | 336748 | [336748-revolver.json](./336748-revolver.json) |
 | Revolver and Co | 152759 | [152759-revolver-and-co.json](./152759-revolver-and-co.json) |
 | Revolver Gambit | 364986 | [364986-revolver-gambit.json](./364986-revolver-gambit.json) |
