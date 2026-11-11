@@ -10985,6 +10985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
 | Pocket Cuisine | 277504 | [277504-pocket-cuisine.json](./277504-pocket-cuisine.json) |
 | Pocket Densha 2 | 282418 | [282418-pocket-densha-2.json](./282418-pocket-densha-2.json) |
+| Pocket Dictator | 350116 | [350116-pocket-dictator.json](./350116-pocket-dictator.json) |
 | Pocket Digimon World: Cool & Nature Battle Disc | 141342 | [141342-pocket-digimon-world-cool-and-nature-battle-disc.json](./141342-pocket-digimon-world-cool-and-nature-battle-disc.json) |
 | Pocket Digimon World: Wind Battle Disc | 141341 | [141341-pocket-digimon-world-wind-battle-disc.json](./141341-pocket-digimon-world-wind-battle-disc.json) |
 | Pocket Dinosaurs to the Moon | 233182 | [233182-pocket-dinosaurs-to-the-moon.json](./233182-pocket-dinosaurs-to-the-moon.json) |
@@ -15410,6 +15411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Lost Crown - Dark Prince Skin | 317689 | [317689-prince-of-persia-the-lost-crown-dark-prince-skin.json](./317689-prince-of-persia-the-lost-crown-dark-prince-skin.json) |
 | Prince of Persia: The Lost Crown - Deluxe Edition | 252992 | [252992-prince-of-persia-the-lost-crown-deluxe-edition.json](./252992-prince-of-persia-the-lost-crown-deluxe-edition.json) |
 | Prince of Persia: The Lost Crown - Divine Trials | 305239 | [305239-prince-of-persia-the-lost-crown-divine-trials.json](./305239-prince-of-persia-the-lost-crown-divine-trials.json) |
+| Prince of Persia: The Lost Crown - Immortal Skin | 350094 | [350094-prince-of-persia-the-lost-crown-immortal-skin.json](./350094-prince-of-persia-the-lost-crown-immortal-skin.json) |
 | Prince of Persia: The Lost Crown - Mask of Darkness | 305240 | [305240-prince-of-persia-the-lost-crown-mask-of-darkness.json](./305240-prince-of-persia-the-lost-crown-mask-of-darkness.json) |
 | Prince of Persia: The Lost Crown - Two Thrones Skin | 317690 | [317690-prince-of-persia-the-lost-crown-two-thrones-skin.json](./317690-prince-of-persia-the-lost-crown-two-thrones-skin.json) |
 | Prince of Persia: The Sands of Time | 142650 | [142650-prince-of-persia-the-sands-of-time.json](./142650-prince-of-persia-the-sands-of-time.json) |
