@@ -9229,6 +9229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | America's Army: Proving Grounds | 7843 | [7843-americas-army-proving-grounds.json](./7843-americas-army-proving-grounds.json) |
 | America's Army: Rise of a Soldier | 5722 | [5722-americas-army-rise-of-a-soldier.json](./5722-americas-army-rise-of-a-soldier.json) |
 | America's Army: True Soldiers | 5482 | [5482-americas-army-true-soldiers.json](./5482-americas-army-true-soldiers.json) |
+| America's Funniest Home Videos: Interactive DVD Game | 331020 | [331020-americas-funniest-home-videos-interactive-dvd-game.json](./331020-americas-funniest-home-videos-interactive-dvd-game.json) |
 | America's Greatest Arcade Hits 3D | 146195 | [146195-americas-greatest-arcade-hits-3d.json](./146195-americas-greatest-arcade-hits-3d.json) |
 | America's Greatest Game Shows: Wheel of Fortune & Jeopardy! | 112182 | [112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json](./112182-americas-greatest-game-shows-wheel-of-fortune-and-jeopardy.json) |
 | America's Greatest Solitaire Games | 206114 | [206114-americas-greatest-solitaire-games.json](./206114-americas-greatest-solitaire-games.json) |
