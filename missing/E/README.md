@@ -1176,6 +1176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecstatica II | 15479 | [15479-ecstatica-ii.json](./15479-ecstatica-ii.json) |
 | Ecstatica II | 414855 | [414855-ecstatica-ii.json](./414855-ecstatica-ii.json) |
 | Ecto | 298341 | [298341-ecto.json](./298341-ecto.json) |
+| Ecto Corporations | 360823 | [360823-ecto-corporations.json](./360823-ecto-corporations.json) |
 | Ecto Mercenary Program | 373292 | [373292-ecto-mercenary-program.json](./373292-ecto-mercenary-program.json) |
 | Ecto Portal | 163951 | [163951-ecto-portal.json](./163951-ecto-portal.json) |
 | Ectolibrium | 110770 | [110770-ectolibrium.json](./110770-ectolibrium.json) |
