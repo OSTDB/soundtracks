@@ -5256,7 +5256,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy I & II | 41835 | [41835-final-fantasy-i-and-ii.json](./41835-final-fantasy-i-and-ii.json) |
 | Final Fantasy I & II: Mod of Balance | 269904 | [269904-final-fantasy-i-and-ii-mod-of-balance.json](./269904-final-fantasy-i-and-ii-mod-of-balance.json) |
 | Final Fantasy I+II Premium Package | 323153 | [323153-final-fantasy-i-ii-premium-package.json](./323153-final-fantasy-i-ii-premium-package.json) |
-| Final Fantasy II | 271819 | [271819-final-fantasy-ii.json](./271819-final-fantasy-ii.json) |
 | Final Fantasy II | 380633 | [380633-final-fantasy-ii.json](./380633-final-fantasy-ii.json) |
 | Final Fantasy II: 20th Anniversary Edition | 121717 | [121717-final-fantasy-ii-20th-anniversary-edition.json](./121717-final-fantasy-ii-20th-anniversary-edition.json) |
 | Final Fantasy II: Job System | 343369 | [343369-final-fantasy-ii-job-system.json](./343369-final-fantasy-ii-job-system.json) |
