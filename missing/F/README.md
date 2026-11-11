@@ -6742,6 +6742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Steps | 263217 | [263217-first-steps.json](./263217-first-steps.json) |
 | First Steps in Child Developmental Support | 340081 | [340081-first-steps-in-child-developmental-support.json](./340081-first-steps-in-child-developmental-support.json) |
 | First Steps in Learning About Pregnancy | 367040 | [367040-first-steps-in-learning-about-pregnancy.json](./367040-first-steps-in-learning-about-pregnancy.json) |
+| First Steps in the NICU: Discovery Edition | 331006 | [331006-first-steps-in-the-nicu-discovery-edition.json](./331006-first-steps-in-the-nicu-discovery-edition.json) |
 | First Steps with the Mr. Men | 97797 | [97797-first-steps-with-the-mr-men.json](./97797-first-steps-with-the-mr-men.json) |
 | First Strike | 24942 | [24942-first-strike.json](./24942-first-strike.json) |
 | First Strike Final Hour | 29582 | [29582-first-strike-final-hour.json](./29582-first-strike-final-hour.json) |
@@ -9416,6 +9417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FNAFB: Desk Fan's Particularly Unusual Journey - Refreshed Edition | 373849 | [373849-fnafb-desk-fans-particularly-unusual-journey-refreshed-edition.json](./373849-fnafb-desk-fans-particularly-unusual-journey-refreshed-edition.json) |
 | FNAFMIN | 358249 | [358249-fnafmin.json](./358249-fnafmin.json) |
 | FNF Big Chungus Mod Piano Tiles | 200775 | [200775-fnf-big-chungus-mod-piano-tiles.json](./200775-fnf-big-chungus-mod-piano-tiles.json) |
+| FNF Vs. Coca Cola | 331022 | [331022-fnf-vs-coca-cola.json](./331022-fnf-vs-coca-cola.json) |
 | FNF Weekly | 314498 | [314498-fnf-weekly.json](./314498-fnf-weekly.json) |
 | FNF x Ace Attorney: Turnabout | 314044 | [314044-fnf-x-ace-attorney-turnabout.json](./314044-fnf-x-ace-attorney-turnabout.json) |
 | FNF: Executable Mania | 314507 | [314507-fnf-executable-mania.json](./314507-fnf-executable-mania.json) |
@@ -12217,6 +12219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frayed Knights: The Skull of S'makh-Daon | 17649 | [17649-frayed-knights-the-skull-of-smakh-daon.json](./17649-frayed-knights-the-skull-of-smakh-daon.json) |
 | Frayhem | 146723 | [146723-frayhem.json](./146723-frayhem.json) |
 | Fraymakers | 141090 | [141090-fraymakers.json](./141090-fraymakers.json) |
+| Fraymakers: Mickey's Speedway USA | 331015 | [331015-fraymakers-mickeys-speedway-usa.json](./331015-fraymakers-mickeys-speedway-usa.json) |
 | Frayspace | 236457 | [236457-frayspace.json](./236457-frayspace.json) |
 | Frazzle Dazzle | 180710 | [180710-frazzle-dazzle.json](./180710-frazzle-dazzle.json) |
 | FRC 25 | 377792 | [377792-frc-25.json](./377792-frc-25.json) |
