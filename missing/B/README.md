@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backspin Billards | 205901 | [205901-backspin-billards.json](./205901-backspin-billards.json) |
 | Backstab | 271663 | [271663-backstab.json](./271663-backstab.json) |
 | BackStab HD | 19257 | [19257-backstab-hd.json](./19257-backstab-hd.json) |
+| Backstabbing King | 356954 | [356954-backstabbing-king.json](./356954-backstabbing-king.json) |
 | Backstage | 141414 | [141414-backstage.json](./141414-backstage.json) |
 | Backstage | 206727 | [206727-backstage.json](./206727-backstage.json) |
 | Backstage at Naked Porn Battle | 280204 | [280204-backstage-at-naked-porn-battle.json](./280204-backstage-at-naked-porn-battle.json) |
@@ -1017,7 +1018,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
