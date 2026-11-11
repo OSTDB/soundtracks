@@ -4481,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - Huge Manatees | 252509 | [252509-tentacle-prawn-actually-a-cthulhu-dating-sim-huge-manatees.json](./252509-tentacle-prawn-actually-a-cthulhu-dating-sim-huge-manatees.json) |
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
 | Tentacle Slave: Saori | 97790 | [97790-tentacle-slave-saori.json](./97790-tentacle-slave-saori.json) |
+| Tentacle Tango | 328118 | [328118-tentacle-tango.json](./328118-tentacle-tango.json) |
 | Tentacle Typer | 152090 | [152090-tentacle-typer.json](./152090-tentacle-typer.json) |
 | Tentacle Wars | 365194 | [365194-tentacle-wars.json](./365194-tentacle-wars.json) |
 | Tentacles | 179543 | [179543-tentacles.json](./179543-tentacles.json) |
@@ -4638,6 +4639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminate: Study X | 253574 | [253574-terminate-study-x.json](./253574-terminate-study-x.json) |
 | Termination Mental | 309190 | [309190-termination-mental.json](./309190-termination-mental.json) |
 | Terminator | 208419 | [208419-terminator.json](./208419-terminator.json) |
+| Terminator | 327477 | [327477-terminator.json](./327477-terminator.json) |
 | Terminator | 417738 | [417738-terminator.json](./417738-terminator.json) |
 | Terminator 2: Judgment Day | 12793 | [12793-terminator-2-judgment-day.json](./12793-terminator-2-judgment-day.json) |
 | Terminator 2: Judgment Day | 218325 | [218325-terminator-2-judgment-day.json](./218325-terminator-2-judgment-day.json) |
@@ -8084,6 +8086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cow Game | 189022 | [189022-the-cow-game.json](./189022-the-cow-game.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
 | The Cows Are Watching | 30313 | [30313-the-cows-are-watching.json](./30313-the-cows-are-watching.json) |
+| The Coyote Kills The Road Runner! | 327514 | [327514-the-coyote-kills-the-road-runner.json](./327514-the-coyote-kills-the-road-runner.json) |
 | The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
 | The Crab-Hat | 421813 | [421813-the-crab-hat.json](./421813-the-crab-hat.json) |
 | The Crack of Doom | 70056 | [70056-the-crack-of-doom.json](./70056-the-crack-of-doom.json) |
@@ -9106,6 +9109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
 | The Drop | 125578 | [125578-the-drop.json](./125578-the-drop.json) |
 | The Drop | 377315 | [377315-the-drop.json](./377315-the-drop.json) |
+| The Dropouts | 327508 | [327508-the-dropouts.json](./327508-the-dropouts.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
 | The Dropping of the Dead | 55330 | [55330-the-dropping-of-the-dead.json](./55330-the-dropping-of-the-dead.json) |
 | The Drowned Deal | 365726 | [365726-the-drowned-deal.json](./365726-the-drowned-deal.json) |
@@ -17539,6 +17543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons: Itchy & Scratchy in Miniature Golf Madness | 2836 | [2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json](./2836-the-simpsons-itchy-and-scratchy-in-miniature-golf-madness.json) |
 | The Simpsons: Itchy & Scratchy Land | 190876 | [190876-the-simpsons-itchy-and-scratchy-land.json](./190876-the-simpsons-itchy-and-scratchy-land.json) |
 | The Simpsons: Minutes to Meltdown | 256656 | [256656-the-simpsons-minutes-to-meltdown.json](./256656-the-simpsons-minutes-to-meltdown.json) |
+| The Simpsons: Night of the Dolphin! | 327507 | [327507-the-simpsons-night-of-the-dolphin.json](./327507-the-simpsons-night-of-the-dolphin.json) |
 | The Simpsons: Night of the Living - Treehouse of Horror | 2840 | [2840-the-simpsons-night-of-the-living-treehouse-of-horror.json](./2840-the-simpsons-night-of-the-living-treehouse-of-horror.json) |
 | The Simpsons: Road Rage | 2842 | [2842-the-simpsons-road-rage.json](./2842-the-simpsons-road-rage.json) |
 | The Simpsons: Tapped Out | 2845 | [2845-the-simpsons-tapped-out.json](./2845-the-simpsons-tapped-out.json) |
@@ -17809,6 +17814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sintonia Chronicles | 348129 | [348129-the-sintonia-chronicles.json](./348129-the-sintonia-chronicles.json) |
 | The Sireen | 277324 | [277324-the-sireen.json](./277324-the-sireen.json) |
 | The Siren's Song | 223454 | [223454-the-sirens-song.json](./223454-the-sirens-song.json) |
+| The Sisterhood Pasture | 327527 | [327527-the-sisterhood-pasture.json](./327527-the-sisterhood-pasture.json) |
 | The Sisters 2: Road to Fame | 249972 | [249972-the-sisters-2-road-to-fame.json](./249972-the-sisters-2-road-to-fame.json) |
 | The Sisters Collection | 284733 | [284733-the-sisters-collection.json](./284733-the-sisters-collection.json) |
 | The Sisters: Party of the Year | 144079 | [144079-the-sisters-party-of-the-year.json](./144079-the-sisters-party-of-the-year.json) |
@@ -18670,6 +18676,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terminal 2 | 17635 | [17635-the-terminal-2.json](./17635-the-terminal-2.json) |
 | The Terminator | 198940 | [198940-the-terminator.json](./198940-the-terminator.json) |
 | The Terminator | 234211 | [234211-the-terminator.json](./234211-the-terminator.json) |
+| The Terminator | 327476 | [327476-the-terminator.json](./327476-the-terminator.json) |
+| The Terminator | 327478 | [327478-the-terminator.json](./327478-the-terminator.json) |
 | The Terminator | 4372 | [4372-the-terminator.json](./4372-the-terminator.json) |
 | The Terminator | 7688 | [7688-the-terminator.json](./7688-the-terminator.json) |
 | The Terminator | 85846 | [85846-the-terminator.json](./85846-the-terminator.json) |
@@ -19260,6 +19268,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasure of Usas | 18921 | [18921-the-treasure-of-usas.json](./18921-the-treasure-of-usas.json) |
 | The Treasure Seekers of Lady Luck | 83596 | [83596-the-treasure-seekers-of-lady-luck.json](./83596-the-treasure-seekers-of-lady-luck.json) |
 | The Treasures of Hotei | 96071 | [96071-the-treasures-of-hotei.json](./96071-the-treasures-of-hotei.json) |
+| The Treasures of Montezuma | 327489 | [327489-the-treasures-of-montezuma.json](./327489-the-treasures-of-montezuma.json) |
+| The Treasures of Montezuma | 327491 | [327491-the-treasures-of-montezuma.json](./327491-the-treasures-of-montezuma.json) |
+| The Treasures of Montezuma | 327493 | [327493-the-treasures-of-montezuma.json](./327493-the-treasures-of-montezuma.json) |
 | The Treasures of Montezuma | 44068 | [44068-the-treasures-of-montezuma.json](./44068-the-treasures-of-montezuma.json) |
 | The Treasures of Montezuma 3 | 17790 | [17790-the-treasures-of-montezuma-3.json](./17790-the-treasures-of-montezuma-3.json) |
 | The Treasures of Montezuma 4 Easter Bundle | 121421 | [121421-the-treasures-of-montezuma-4-easter-bundle.json](./121421-the-treasures-of-montezuma-4-easter-bundle.json) |
@@ -31891,6 +31902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in The Tricky Prison | 270478 | [270478-trapped-in-the-tricky-prison.json](./270478-trapped-in-the-tricky-prison.json) |
 | Trapped Inside a Train (And There's Nothing You Can Do About It) | 299304 | [299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json](./299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json) |
 | Trapped on Monster Island | 116507 | [116507-trapped-on-monster-island.json](./116507-trapped-on-monster-island.json) |
+| Trapped on the Balcony | 327480 | [327480-trapped-on-the-balcony.json](./327480-trapped-on-the-balcony.json) |
 | Trapped Out | 338612 | [338612-trapped-out.json](./338612-trapped-out.json) |
 | Trapped Part One: The White Rabbit | 257854 | [257854-trapped-part-one-the-white-rabbit.json](./257854-trapped-part-one-the-white-rabbit.json) |
 | Trapped Souls | 30026 | [30026-trapped-souls.json](./30026-trapped-souls.json) |
