@@ -1797,6 +1797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late Stage | 269227 | [269227-late-stage.json](./269227-late-stage.json) |
 | Late Stage Capitalism | 355125 | [355125-late-stage-capitalism.json](./355125-late-stage-capitalism.json) |
 | Late Stage Inferno | 149871 | [149871-late-stage-inferno.json](./149871-late-stage-inferno.json) |
+| Late Stops | 354120 | [354120-late-stops.json](./354120-late-stops.json) |
 | Late to the Party | 60829 | [60829-late-to-the-party.json](./60829-late-to-the-party.json) |
 | Late Work | 177487 | [177487-late-work.json](./177487-late-work.json) |
 | Late'O'Clock | 111362 | [111362-lateoclock.json](./111362-lateoclock.json) |
@@ -4473,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexi | 415625 | [415625-lexi.json](./415625-lexi.json) |
 | Lexi-Cross | 47117 | [47117-lexi-cross.json](./47117-lexi-cross.json) |
 | Lexibble | 305344 | [305344-lexibble.json](./305344-lexibble.json) |
+| Lexiblocks | 354132 | [354132-lexiblocks.json](./354132-lexiblocks.json) |
 | Lexiblox | 175585 | [175585-lexiblox.json](./175585-lexiblox.json) |
 | Lexibook Batman Compact Cyber Arcade Portable Console | 304232 | [304232-lexibook-batman-compact-cyber-arcade-portable-console.json](./304232-lexibook-batman-compact-cyber-arcade-portable-console.json) |
 | Lexibook Electronic Thesaurus: Model DC 750 | 245457 | [245457-lexibook-electronic-thesaurus-model-dc-750.json](./245457-lexibook-electronic-thesaurus-model-dc-750.json) |
