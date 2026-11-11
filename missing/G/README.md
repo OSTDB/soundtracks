@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Collection 1 | 308644 | [308644-game-collection-1.json](./308644-game-collection-1.json) |
 | Game Collector | 266792 | [266792-game-collector.json](./266792-game-collector.json) |
 | Game Company Simulator | 292934 | [292934-game-company-simulator.json](./292934-game-company-simulator.json) |
+| Game Company Simulator | 383889 | [383889-game-company-simulator.json](./383889-game-company-simulator.json) |
 | Game Company Simulator: Back to 2000 | 372837 | [372837-game-company-simulator-back-to-2000.json](./372837-game-company-simulator-back-to-2000.json) |
 | Game Conveni 21 | 281452 | [281452-game-conveni-21.json](./281452-game-conveni-21.json) |
 | Game Corp DX | 25276 | [25276-game-corp-dx.json](./25276-game-corp-dx.json) |
@@ -2860,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemini Lost | 16080 | [16080-gemini-lost.json](./16080-gemini-lost.json) |
 | Gemini of the Abandoned | 130082 | [130082-gemini-of-the-abandoned.json](./130082-gemini-of-the-abandoned.json) |
 | Gemini Rue | 6325 | [6325-gemini-rue.json](./6325-gemini-rue.json) |
+| Gemini Rush | 383863 | [383863-gemini-rush.json](./383863-gemini-rush.json) |
 | Gemini Strategy Origin | 156893 | [156893-gemini-strategy-origin.json](./156893-gemini-strategy-origin.json) |
 | Gemini Wars | 10357 | [10357-gemini-wars.json](./10357-gemini-wars.json) |
 | Gemini Wing | 12117 | [12117-gemini-wing.json](./12117-gemini-wing.json) |
