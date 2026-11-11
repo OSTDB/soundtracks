@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Ys MSX2 | 324212 | [324212-eggconsole-ys-msx2.json](./324212-eggconsole-ys-msx2.json) |
 | Eggconsole Ys PC-8801mkIISR | 286210 | [286210-eggconsole-ys-pc-8801mkiisr.json](./286210-eggconsole-ys-pc-8801mkiisr.json) |
 | Eggconsole Yuureikun MSX2 | 381705 | [381705-eggconsole-yuureikun-msx2.json](./381705-eggconsole-yuureikun-msx2.json) |
+| Eggconsole Zanac EX MSX2 | 353575 | [353575-eggconsole-zanac-ex-msx2.json](./353575-eggconsole-zanac-ex-msx2.json) |
 | Eggconsole Zanac MSX | 328734 | [328734-eggconsole-zanac-msx.json](./328734-eggconsole-zanac-msx.json) |
 | Eggconsole Zodiac PC-8801 | 406070 | [406070-eggconsole-zodiac-pc-8801.json](./406070-eggconsole-zodiac-pc-8801.json) |
 | Eggconsole: Arugisu no Tsubasa | 385060 | [385060-eggconsole-arugisu-no-tsubasa.json](./385060-eggconsole-arugisu-no-tsubasa.json) |
