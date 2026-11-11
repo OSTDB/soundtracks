@@ -15387,6 +15387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aro & Elmi | 146716 | [146716-aro-and-elmi.json](./146716-aro-and-elmi.json) |
 | Aro: Tales in the Dome | 378248 | [378248-aro-tales-in-the-dome.json](./378248-aro-tales-in-the-dome.json) |
 | Arobynn: Below The Surface | 248893 | [248893-arobynn-below-the-surface.json](./248893-arobynn-below-the-surface.json) |
+| Arobynn: Sword of Adventure | 323452 | [323452-arobynn-sword-of-adventure.json](./323452-arobynn-sword-of-adventure.json) |
 | Arobynn: The First Adventure | 199734 | [199734-arobynn-the-first-adventure.json](./199734-arobynn-the-first-adventure.json) |
 | Aroma | 226231 | [226231-aroma.json](./226231-aroma.json) |
 | Aroma Button | 380110 | [380110-aroma-button.json](./380110-aroma-button.json) |
@@ -17012,6 +17013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids RX | 178987 | [178987-asteroids-rx.json](./178987-asteroids-rx.json) |
 | Asteroids Space Shooter | 178631 | [178631-asteroids-space-shooter.json](./178631-asteroids-space-shooter.json) |
 | Asteroids Star Fields | 266112 | [266112-asteroids-star-fields.json](./266112-asteroids-star-fields.json) |
+| Asteroids X | 323448 | [323448-asteroids-x.json](./323448-asteroids-x.json) |
 | Asteroids, Inc. | 175839 | [175839-asteroids-inc.json](./175839-asteroids-inc.json) |
 | Asteroids: Evolved | 329634 | [329634-asteroids-evolved.json](./329634-asteroids-evolved.json) |
 | Asteroids: Far Away From Home | 158993 | [158993-asteroids-far-away-from-home.json](./158993-asteroids-far-away-from-home.json) |
