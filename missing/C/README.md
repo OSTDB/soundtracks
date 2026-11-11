@@ -624,6 +624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Blood | 418084 | [418084-call-of-blood.json](./418084-call-of-blood.json) |
 | Call of Boba | 244391 | [244391-call-of-boba.json](./244391-call-of-boba.json) |
 | Call of Booty | 105617 | [105617-call-of-booty.json](./105617-call-of-booty.json) |
+| Call of Brothers: The Backrooms Zombie Survival | 353555 | [353555-call-of-brothers-the-backrooms-zombie-survival.json](./353555-call-of-brothers-the-backrooms-zombie-survival.json) |
 | Call of Champions | 13175 | [13175-call-of-champions.json](./13175-call-of-champions.json) |
 | Call of Clans | 328923 | [328923-call-of-clans.json](./328923-call-of-clans.json) |
 | Call of Clans: Optional Elite Card Pack | 355221 | [355221-call-of-clans-optional-elite-card-pack.json](./355221-call-of-clans-optional-elite-card-pack.json) |
@@ -13831,6 +13832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Ops: Battles from the Bulge | 54653 | [54653-command-ops-battles-from-the-bulge.json](./54653-command-ops-battles-from-the-bulge.json) |
 | Command Ops: Highway to the Reich | 63093 | [63093-command-ops-highway-to-the-reich.json](./63093-command-ops-highway-to-the-reich.json) |
 | Command Thousands Troops | 391144 | [391144-command-thousands-troops.json](./391144-command-thousands-troops.json) |
+| Command Under Fire RTS | 353556 | [353556-command-under-fire-rts.json](./353556-command-under-fire-rts.json) |
 | Command War : Super Special Battle & War Game | 252637 | [252637-command-war-super-special-battle-and-war-game.json](./252637-command-war-super-special-battle-and-war-game.json) |
 | Command-Ω Omega | 357814 | [357814-command-omega.json](./357814-command-omega.json) |
 | Command: Aces of the Deep | 72276 | [72276-command-aces-of-the-deep.json](./72276-command-aces-of-the-deep.json) |
@@ -14111,6 +14113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compost | 170638 | [170638-compost.json](./170638-compost.json) |
 | Compound | 28927 | [28927-compound.json](./28927-compound.json) |
 | Compound Fracture | 143560 | [143560-compound-fracture.json](./143560-compound-fracture.json) |
+| Compound Word Puzzles | 353557 | [353557-compound-word-puzzles.json](./353557-compound-word-puzzles.json) |
 | Compound Word Puzzles 2 | 359997 | [359997-compound-word-puzzles-2.json](./359997-compound-word-puzzles-2.json) |
 | Compress Space: Expanded | 301794 | [301794-compress-space-expanded.json](./301794-compress-space-expanded.json) |
 | Compress(Space) | 346199 | [346199-compress-space.json](./346199-compress-space.json) |
@@ -16897,6 +16900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozmic Fantasy 2: Bouken Shounen Pan | 251628 | [251628-cozmic-fantasy-2-bouken-shounen-pan.json](./251628-cozmic-fantasy-2-bouken-shounen-pan.json) |
 | Cozmic Fantasy: Bouken Shounen Yuu | 251495 | [251495-cozmic-fantasy-bouken-shounen-yuu.json](./251495-cozmic-fantasy-bouken-shounen-yuu.json) |
 | Cozy | 179745 | [179745-cozy.json](./179745-cozy.json) |
+| Cozy Adventures | 353574 | [353574-cozy-adventures.json](./353574-cozy-adventures.json) |
 | Cozy Aquarium | 339315 | [339315-cozy-aquarium.json](./339315-cozy-aquarium.json) |
 | Cozy Autumn Bug Hunt | 339890 | [339890-cozy-autumn-bug-hunt.json](./339890-cozy-autumn-bug-hunt.json) |
 | Cozy Bay Hike | 395219 | [395219-cozy-bay-hike.json](./395219-cozy-bay-hike.json) |
@@ -17421,6 +17425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot: Mutant Island | 148198 | [148198-crash-bandicoot-mutant-island.json](./148198-crash-bandicoot-mutant-island.json) |
 | Crash Bandicoot: On the Run! | 132793 | [132793-crash-bandicoot-on-the-run.json](./132793-crash-bandicoot-on-the-run.json) |
 | Crash Bandicoot: Quadrilogy Bundle | 163176 | [163176-crash-bandicoot-quadrilogy-bundle.json](./163176-crash-bandicoot-quadrilogy-bundle.json) |
+| Crash Bandicoot: Respun | 353547 | [353547-crash-bandicoot-respun.json](./353547-crash-bandicoot-respun.json) |
 | Crash Bandicoot: The Huge Adventure | 1197 | [1197-crash-bandicoot-the-huge-adventure.json](./1197-crash-bandicoot-the-huge-adventure.json) |
 | Crash Bandicoot: The Secret Place | 339944 | [339944-crash-bandicoot-the-secret-place.json](./339944-crash-bandicoot-the-secret-place.json) |
 | Crash Bandicoot: Time to Rumble Bundle | 385410 | [385410-crash-bandicoot-time-to-rumble-bundle.json](./385410-crash-bandicoot-time-to-rumble-bundle.json) |
