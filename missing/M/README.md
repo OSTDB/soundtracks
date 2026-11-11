@@ -6315,7 +6315,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Cyber Shooter | 343547 | [343547-max-cyber-shooter.json](./343547-max-cyber-shooter.json) |
 | Max Dirt Bike | 142086 | [142086-max-dirt-bike.json](./142086-max-dirt-bike.json) |
 | Max Downforce | 182948 | [182948-max-downforce.json](./182948-max-downforce.json) |
-| Max Gentlemen Sexy Business! | 128178 | [128178-max-gentlemen-sexy-business.json](./128178-max-gentlemen-sexy-business.json) |
 | Max Gentlemen: Animal Pack | 170384 | [170384-max-gentlemen-animal-pack.json](./170384-max-gentlemen-animal-pack.json) |
 | Max Gentlemen: Escape From Moriarty Mansion | 402670 | [402670-max-gentlemen-escape-from-moriarty-mansion.json](./402670-max-gentlemen-escape-from-moriarty-mansion.json) |
 | Max Goes by Bus, Train and Ship | 410468 | [410468-max-goes-by-bus-train-and-ship.json](./410468-max-goes-by-bus-train-and-ship.json) |
@@ -7414,7 +7413,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medal of Honor : Warfighter - Limited Edition | 47411 | [47411-medal-of-honor-warfighter-limited-edition.json](./47411-medal-of-honor-warfighter-limited-edition.json) |
 | Medal of Honor Reborn | 375754 | [375754-medal-of-honor-reborn.json](./375754-medal-of-honor-reborn.json) |
 | Medal of Honor: 10th Anniversary Edition | 45980 | [45980-medal-of-honor-10th-anniversary-edition.json](./45980-medal-of-honor-10th-anniversary-edition.json) |
-| Medal of Honor: Above and Beyond | 122592 | [122592-medal-of-honor-above-and-beyond.json](./122592-medal-of-honor-above-and-beyond.json) |
 | Medal of Honor: Airborne | 264877 | [264877-medal-of-honor-airborne.json](./264877-medal-of-honor-airborne.json) |
 | Medal of Honor: Airborne Elite | 341117 | [341117-medal-of-honor-airborne-elite.json](./341117-medal-of-honor-airborne-elite.json) |
 | Medal of Honor: Allied Assault - Breakthrough | 9229 | [9229-medal-of-honor-allied-assault-breakthrough.json](./9229-medal-of-honor-allied-assault-breakthrough.json) |
