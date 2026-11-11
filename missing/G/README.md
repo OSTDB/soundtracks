@@ -2104,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield and His Nine Lives | 6417 | [6417-garfield-and-his-nine-lives.json](./6417-garfield-and-his-nine-lives.json) |
 | Garfield Collection 2 in 1 | 340739 | [340739-garfield-collection-2-in-1.json](./340739-garfield-collection-2-in-1.json) |
 | Garfield Double Dares | 306764 | [306764-garfield-double-dares.json](./306764-garfield-double-dares.json) |
+| Garfield Food Truck | 331035 | [331035-garfield-food-truck.json](./331035-garfield-food-truck.json) |
 | Garfield Gets Real | 234567 | [234567-garfield-gets-real.json](./234567-garfield-gets-real.json) |
 | Garfield Gets Real | 4882 | [4882-garfield-gets-real.json](./4882-garfield-gets-real.json) |
 | Garfield GO | 55964 | [55964-garfield-go.json](./55964-garfield-go.json) |
