@@ -3861,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next time... I'll work from home | 424830 | [424830-next-time-ill-work-from-home.json](./424830-next-time-ill-work-from-home.json) |
 | Next Turn for D&D 5E | 89769 | [89769-next-turn-for-d-and-d-5e.json](./89769-next-turn-for-d-and-d-5e.json) |
 | Next Up Hero | 45026 | [45026-next-up-hero.json](./45026-next-up-hero.json) |
+| Next Week at Freddy's | 338987 | [338987-next-week-at-freddys.json](./338987-next-week-at-freddys.json) |
 | Next: Merger with Power of 2 | 252562 | [252562-next-merger-with-power-of-2.json](./252562-next-merger-with-power-of-2.json) |
 | Next: The Portopia Serial Murder Case | 417188 | [417188-next-the-portopia-serial-murder-case.json](./417188-next-the-portopia-serial-murder-case.json) |
 | Nextbots In Backrooms: Obunga | 221228 | [221228-nextbots-in-backrooms-obunga.json](./221228-nextbots-in-backrooms-obunga.json) |
