@@ -1387,6 +1387,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: Atlantic City - Boardwalk Paradise: Deluxe Edition | 279250 | [279250-fallout-76-atlantic-city-boardwalk-paradise-deluxe-edition.json](./279250-fallout-76-atlantic-city-boardwalk-paradise-deluxe-edition.json) |
 | Fallout 76: Brotherhood of Steel | 142165 | [142165-fallout-76-brotherhood-of-steel.json](./142165-fallout-76-brotherhood-of-steel.json) |
 | Fallout 76: Brotherhood Recruitment Bundle | 142167 | [142167-fallout-76-brotherhood-recruitment-bundle.json](./142167-fallout-76-brotherhood-recruitment-bundle.json) |
+| Fallout 76: Burning Springs | 375094 | [375094-fallout-76-burning-springs.json](./375094-fallout-76-burning-springs.json) |
+| Fallout 76: C.A.M.P. Revamp | 375093 | [375093-fallout-76-c-a-m-p-revamp.json](./375093-fallout-76-c-a-m-p-revamp.json) |
 | Fallout 76: Camp Pets | 317825 | [317825-fallout-76-camp-pets.json](./317825-fallout-76-camp-pets.json) |
 | Fallout 76: Enclave Armory Bundle | 334291 | [334291-fallout-76-enclave-armory-bundle.json](./334291-fallout-76-enclave-armory-bundle.json) |
 | Fallout 76: Ghoul Within | 341476 | [341476-fallout-76-ghoul-within.json](./341476-fallout-76-ghoul-within.json) |
@@ -1446,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: Miami | 189281 | [189281-fallout-miami.json](./189281-fallout-miami.json) |
 | Fallout: Nevada | 237830 | [237830-fallout-nevada.json](./237830-fallout-nevada.json) |
 | Fallout: New California | 142745 | [142745-fallout-new-california.json](./142745-fallout-new-california.json) |
+| Fallout: New Vegas - 15th Anniversary Bundle | 375090 | [375090-fallout-new-vegas-15th-anniversary-bundle.json](./375090-fallout-new-vegas-15th-anniversary-bundle.json) |
 | Fallout: New Vegas - Collector's Edition | 45129 | [45129-fallout-new-vegas-collectors-edition.json](./45129-fallout-new-vegas-collectors-edition.json) |
 | Fallout: New Vegas - Courier's Stash | 45127 | [45127-fallout-new-vegas-couriers-stash.json](./45127-fallout-new-vegas-couriers-stash.json) |
 | Fallout: New Vegas - Dead Money | 10304 | [10304-fallout-new-vegas-dead-money.json](./10304-fallout-new-vegas-dead-money.json) |
@@ -7016,6 +7019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Planet: Carp Pro Pack | 365987 | [365987-fishing-planet-carp-pro-pack.json](./365987-fishing-planet-carp-pro-pack.json) |
 | Fishing Planet: Chamaeleon Cruiser Pack | 365981 | [365981-fishing-planet-chamaeleon-cruiser-pack.json](./365981-fishing-planet-chamaeleon-cruiser-pack.json) |
 | Fishing Planet: Christmas Giant's Pack | 366014 | [366014-fishing-planet-christmas-giants-pack.json](./366014-fishing-planet-christmas-giants-pack.json) |
+| Fishing Planet: Christmas Magic Pack | 375106 | [375106-fishing-planet-christmas-magic-pack.json](./375106-fishing-planet-christmas-magic-pack.json) |
 | Fishing Planet: Congo Discovery Pack | 366010 | [366010-fishing-planet-congo-discovery-pack.json](./366010-fishing-planet-congo-discovery-pack.json) |
 | Fishing Planet: Daredevil Boat Pack | 365986 | [365986-fishing-planet-daredevil-boat-pack.json](./365986-fishing-planet-daredevil-boat-pack.json) |
 | Fishing Planet: Dnipro Delta Pack | 365985 | [365985-fishing-planet-dnipro-delta-pack.json](./365985-fishing-planet-dnipro-delta-pack.json) |
@@ -7030,7 +7034,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Planet: Lucky Start Bundle | 118865 | [118865-fishing-planet-lucky-start-bundle.json](./118865-fishing-planet-lucky-start-bundle.json) |
 | Fishing Planet: Ocean Voyager Pack | 304419 | [304419-fishing-planet-ocean-voyager-pack.json](./304419-fishing-planet-ocean-voyager-pack.json) |
 | Fishing Planet: Rainforest Journey Pack | 366007 | [366007-fishing-planet-rainforest-journey-pack.json](./366007-fishing-planet-rainforest-journey-pack.json) |
+| Fishing Planet: Revolutionary Pack | 375103 | [375103-fishing-planet-revolutionary-pack.json](./375103-fishing-planet-revolutionary-pack.json) |
+| Fishing Planet: Rigs Combo Pack | 375102 | [375102-fishing-planet-rigs-combo-pack.json](./375102-fishing-planet-rigs-combo-pack.json) |
 | Fishing Planet: Sailor Collection Pack | 365990 | [365990-fishing-planet-sailor-collection-pack.json](./365990-fishing-planet-sailor-collection-pack.json) |
+| Fishing Planet: Saint Patrick's Pack | 375098 | [375098-fishing-planet-saint-patricks-pack.json](./375098-fishing-planet-saint-patricks-pack.json) |
 | Fishing Planet: Saltwater Match Pack | 366012 | [366012-fishing-planet-saltwater-match-pack.json](./366012-fishing-planet-saltwater-match-pack.json) |
 | Fishing Planet: Santa's Kayak Pack | 366008 | [366008-fishing-planet-santas-kayak-pack.json](./366008-fishing-planet-santas-kayak-pack.json) |
 | Fishing Planet: Sport Bottom Pack | 365994 | [365994-fishing-planet-sport-bottom-pack.json](./365994-fishing-planet-sport-bottom-pack.json) |
@@ -7039,13 +7046,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Planet: Sport Feeder Pack | 366016 | [366016-fishing-planet-sport-feeder-pack.json](./366016-fishing-planet-sport-feeder-pack.json) |
 | Fishing Planet: Sport Float Pack | 366011 | [366011-fishing-planet-sport-float-pack.json](./366011-fishing-planet-sport-float-pack.json) |
 | Fishing Planet: Sport Kayak Pack | 292673 | [292673-fishing-planet-sport-kayak-pack.json](./292673-fishing-planet-sport-kayak-pack.json) |
+| Fishing Planet: Sport Outfit Pack | 375100 | [375100-fishing-planet-sport-outfit-pack.json](./375100-fishing-planet-sport-outfit-pack.json) |
+| Fishing Planet: Sport Spinning Trout Pack | 375104 | [375104-fishing-planet-sport-spinning-trout-pack.json](./375104-fishing-planet-sport-spinning-trout-pack.json) |
 | Fishing Planet: Sport Topwater Night Pack | 365999 | [365999-fishing-planet-sport-topwater-night-pack.json](./365999-fishing-planet-sport-topwater-night-pack.json) |
+| Fishing Planet: Sport Ultralight Panfish Pack | 375099 | [375099-fishing-planet-sport-ultralight-panfish-pack.json](./375099-fishing-planet-sport-ultralight-panfish-pack.json) |
 | Fishing Planet: Supernatural Explorer Pack | 365989 | [365989-fishing-planet-supernatural-explorer-pack.json](./365989-fishing-planet-supernatural-explorer-pack.json) |
 | Fishing Planet: Taimen Khan Pack | 366006 | [366006-fishing-planet-taimen-khan-pack.json](./366006-fishing-planet-taimen-khan-pack.json) |
 | Fishing Planet: Thanksgiving Cornucopia Pack | 277352 | [277352-fishing-planet-thanksgiving-cornucopia-pack.json](./277352-fishing-planet-thanksgiving-cornucopia-pack.json) |
 | Fishing Planet: Topwater Kayak Pack | 263088 | [263088-fishing-planet-topwater-kayak-pack.json](./263088-fishing-planet-topwater-kayak-pack.json) |
+| Fishing Planet: Tricky Treats Pack | 375101 | [375101-fishing-planet-tricky-treats-pack.json](./375101-fishing-planet-tricky-treats-pack.json) |
 | Fishing Planet: Tropic Hunter Pack | 366000 | [366000-fishing-planet-tropic-hunter-pack.json](./366000-fishing-planet-tropic-hunter-pack.json) |
 | Fishing Planet: Ultimate Sport Bundle | 365998 | [365998-fishing-planet-ultimate-sport-bundle.json](./365998-fishing-planet-ultimate-sport-bundle.json) |
+| Fishing Planet: Winter Pike Pack | 375105 | [375105-fishing-planet-winter-pike-pack.json](./375105-fishing-planet-winter-pike-pack.json) |
 | Fishing Planet: World Cats Cup Pack | 366009 | [366009-fishing-planet-world-cats-cup-pack.json](./366009-fishing-planet-world-cats-cup-pack.json) |
 | Fishing Pond Simulator | 346157 | [346157-fishing-pond-simulator.json](./346157-fishing-pond-simulator.json) |
 | Fishing Pro Simulator | 348174 | [348174-fishing-pro-simulator.json](./348174-fishing-pro-simulator.json) |
@@ -12056,6 +12068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein: The Village | 177050 | [177050-frankenstein-the-village.json](./177050-frankenstein-the-village.json) |
 | Frankenstein: Through the Eyes of the Monster | 46055 | [46055-frankenstein-through-the-eyes-of-the-monster.json](./46055-frankenstein-through-the-eyes-of-the-monster.json) |
 | Frankenstein's Monster | 22763 | [22763-frankensteins-monster.json](./22763-frankensteins-monster.json) |
+| Frankenstein's Monster | 375071 | [375071-frankensteins-monster.json](./375071-frankensteins-monster.json) |
 | Frankenstein's Monsters, Inc. | 179561 | [179561-frankensteins-monsters-inc.json](./179561-frankensteins-monsters-inc.json) |
 | Frankenstories | 194289 | [194289-frankenstories.json](./194289-frankenstories.json) |
 | FrankenStorm TD | 236236 | [236236-frankenstorm-td.json](./236236-frankenstorm-td.json) |
