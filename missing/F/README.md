@@ -3112,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Food | 14454 | [14454-fast-food.json](./14454-fast-food.json) |
 | Fast Food | 18287 | [18287-fast-food.json](./18287-fast-food.json) |
 | Fast Food 2025 Simulator | 336417 | [336417-fast-food-2025-simulator.json](./336417-fast-food-2025-simulator.json) |
+| Fast Food 2025 Simulator & Myside Reality | 370808 | [370808-fast-food-2025-simulator-and-myside-reality.json](./370808-fast-food-2025-simulator-and-myside-reality.json) |
 | Fast Food 64 | 301785 | [301785-fast-food-64.json](./301785-fast-food-64.json) |
 | Fast Food 64: Holiday Snacks | 301786 | [301786-fast-food-64-holiday-snacks.json](./301786-fast-food-64-holiday-snacks.json) |
 | Fast Food Chef | 234745 | [234745-fast-food-chef.json](./234745-fast-food-chef.json) |
@@ -6725,6 +6726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Words Builder | 102494 | [102494-first-words-builder.json](./102494-first-words-builder.json) |
 | First Words Deluxe | 87207 | [87207-first-words-deluxe.json](./87207-first-words-deluxe.json) |
 | First Words Feelings | 103582 | [103582-first-words-feelings.json](./103582-first-words-feelings.json) |
+| First World Problems | 370614 | [370614-first-world-problems.json](./370614-first-world-problems.json) |
 | First World War | 59322 | [59322-first-world-war.json](./59322-first-world-war.json) |
 | First-Person Bundle | 82545 | [82545-first-person-bundle.json](./82545-first-person-bundle.json) |
 | First-Person Data Explorer | 363622 | [363622-first-person-data-explorer.json](./363622-first-person-data-explorer.json) |
@@ -10308,6 +10310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Lookout | 410057 | [410057-forest-lookout.json](./410057-forest-lookout.json) |
 | Forest Loop | 389520 | [389520-forest-loop.json](./389520-forest-loop.json) |
 | Forest Mage | 120815 | [120815-forest-mage.json](./120815-forest-mage.json) |
+| Forest Mansion Incident | 370621 | [370621-forest-mansion-incident.json](./370621-forest-mansion-incident.json) |
 | Forest Mystery | 192704 | [192704-forest-mystery.json](./192704-forest-mystery.json) |
 | Forest Ninja | 181774 | [181774-forest-ninja.json](./181774-forest-ninja.json) |
 | Forest Nothing | 415701 | [415701-forest-nothing.json](./415701-forest-nothing.json) |
@@ -11910,6 +11913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragment | 268282 | [268282-fragment.json](./268282-fragment.json) |
 | Fragment | 307019 | [307019-fragment.json](./307019-fragment.json) |
 | Fragment | 310980 | [310980-fragment.json](./310980-fragment.json) |
+| Fragment | 371153 | [371153-fragment.json](./371153-fragment.json) |
 | Fragment | 381506 | [381506-fragment.json](./381506-fragment.json) |
 | Fragment Collapse | 409678 | [409678-fragment-collapse.json](./409678-fragment-collapse.json) |
 | Fragment Hunter | 101725 | [101725-fragment-hunter.json](./101725-fragment-hunter.json) |
