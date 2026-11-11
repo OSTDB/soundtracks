@@ -21472,7 +21472,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curve Fever 2 | 63080 | [63080-curve-fever-2.json](./63080-curve-fever-2.json) |
 | Curve Racer | 147616 | [147616-curve-racer.json](./147616-curve-racer.json) |
 | Curveball | 96590 | [96590-curveball.json](./96590-curveball.json) |
-| Curved Space | 137680 | [137680-curved-space.json](./137680-curved-space.json) |
 | Curved World | 428426 | [428426-curved-world.json](./428426-curved-world.json) |
 | CurveFever | 112097 | [112097-curvefever.json](./112097-curvefever.json) |
 | Curvelicious | 321223 | [321223-curvelicious.json](./321223-curvelicious.json) |
