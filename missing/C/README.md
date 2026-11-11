@@ -3724,6 +3724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Capture Topkapi | 232447 | [232447-castle-capture-topkapi.json](./232447-castle-capture-topkapi.json) |
 | Castle Cardians | 160033 | [160033-castle-cardians.json](./160033-castle-cardians.json) |
 | Castle Cat | 406422 | [406422-castle-cat.json](./406422-castle-cat.json) |
+| Castle Cat 2 | 395598 | [395598-castle-cat-2.json](./395598-castle-cat-2.json) |
 | Castle Cat 3 | 356074 | [356074-castle-cat-3.json](./356074-castle-cat-3.json) |
 | Castle Cat IV | 406421 | [406421-castle-cat-iv.json](./406421-castle-cat-iv.json) |
 | Castle Cats | 54991 | [54991-castle-cats.json](./54991-castle-cats.json) |
@@ -6059,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge | 11150 | [11150-challenge.json](./11150-challenge.json) |
 | Challenge | 245163 | [245163-challenge.json](./245163-challenge.json) |
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
+| Challenge Accepted | 395934 | [395934-challenge-accepted.json](./395934-challenge-accepted.json) |
 | Challenge Churchill Bus Racer | 313381 | [313381-challenge-churchill-bus-racer.json](./313381-challenge-churchill-bus-racer.json) |
 | Challenge Cube VR | 91198 | [91198-challenge-cube-vr.json](./91198-challenge-cube-vr.json) |
 | Challenge Derby | 45386 | [45386-challenge-derby.json](./45386-challenge-derby.json) |
@@ -16801,6 +16803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Cards | 209616 | [209616-cozy-cards.json](./209616-cozy-cards.json) |
 | Cozy Cat Cafe | 399630 | [399630-cozy-cat-cafe.json](./399630-cozy-cat-cafe.json) |
 | Cozy Catch | 352355 | [352355-cozy-catch.json](./352355-cozy-catch.json) |
+| Cozy Cats Fit | 395916 | [395916-cozy-cats-fit.json](./395916-cozy-cats-fit.json) |
 | Cozy Christmas Home Jigsaw Puzzles | 228114 | [228114-cozy-christmas-home-jigsaw-puzzles.json](./228114-cozy-christmas-home-jigsaw-puzzles.json) |
 | Cozy Claw Machine | 321513 | [321513-cozy-claw-machine.json](./321513-cozy-claw-machine.json) |
 | Cozy Cleaner | 393392 | [393392-cozy-cleaner.json](./393392-cozy-cleaner.json) |
