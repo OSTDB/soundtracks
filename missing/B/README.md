@@ -9959,6 +9959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
 | Blackout!! | 197087 | [197087-blackout.json](./197087-blackout.json) |
 | Blackpink: The Game | 250430 | [250430-blackpink-the-game.json](./250430-blackpink-the-game.json) |
+| Blackrock | 359097 | [359097-blackrock.json](./359097-blackrock.json) |
 | Blackroom | 18915 | [18915-blackroom.json](./18915-blackroom.json) |
 | Blackroot: Medieval Survival | 348571 | [348571-blackroot-medieval-survival.json](./348571-blackroot-medieval-survival.json) |
 | Blacksad: Under the Skin - Collector's Edition | 166272 | [166272-blacksad-under-the-skin-collectors-edition.json](./166272-blacksad-under-the-skin-collectors-edition.json) |
