@@ -3001,7 +3001,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elsewhere in the Night | 229373 | [229373-elsewhere-in-the-night.json](./229373-elsewhere-in-the-night.json) |
 | Elshe no Shounen | 257902 | [257902-elshe-no-shounen.json](./257902-elshe-no-shounen.json) |
 | Elsie | 130761 | [130761-elsie.json](./130761-elsie.json) |
-| Elsinore | 58994 | [58994-elsinore.json](./58994-elsinore.json) |
 | Elsp | 229822 | [229822-elsp.json](./229822-elsp.json) |
 | Elspell | 203673 | [203673-elspell.json](./203673-elspell.json) |
 | Elsword | 115692 | [115692-elsword.json](./115692-elsword.json) |
