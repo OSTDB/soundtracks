@@ -2291,9 +2291,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jinsei Game for Nintendo Switch | 254467 | [254467-jinsei-game-for-nintendo-switch.json](./254467-jinsei-game-for-nintendo-switch.json) |
 | Jinsei Game Q: DS Heisei no Dekigoto | 269782 | [269782-jinsei-game-q-ds-heisei-no-dekigoto.json](./269782-jinsei-game-q-ds-heisei-no-dekigoto.json) |
 | Jinsei Game Q: DS Shouwa no Dekigoto | 269783 | [269783-jinsei-game-q-ds-shouwa-no-dekigoto.json](./269783-jinsei-game-q-ds-shouwa-no-dekigoto.json) |
+| Jinsei Game: Happy Step | 344633 | [344633-jinsei-game-happy-step.json](./344633-jinsei-game-happy-step.json) |
 | Jinsei Game: Tomodachi Takusan Tsukurou yo! | 228565 | [228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json](./228565-jinsei-game-tomodachi-takusan-tsukurou-yo.json) |
 | Jinsei Owata no Daibouken | 285132 | [285132-jinsei-owata-no-daibouken.json](./285132-jinsei-owata-no-daibouken.json) |
 | Jinshin | 208100 | [208100-jinshin.json](./208100-jinshin.json) |
+| Jintori Action! Taikoukenchi: Karakuri Shiro no Nazo | 344636 | [344636-jintori-action-taikoukenchi-karakuri-shiro-no-nazo.json](./344636-jintori-action-taikoukenchi-karakuri-shiro-no-nazo.json) |
 | Jinx | 22223 | [22223-jinx.json](./22223-jinx.json) |
 | Jinx | 369191 | [369191-jinx.json](./369191-jinx.json) |
 | Jinx 2 1/2: Portal Peril | 395943 | [395943-jinx-2-1-2-portal-peril.json](./395943-jinx-2-1-2-portal-peril.json) |
