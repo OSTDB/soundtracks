@@ -2422,6 +2422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Giant Hole | 371869 | [371869-one-giant-hole.json](./371869-one-giant-hole.json) |
 | One Giant Leap | 31735 | [31735-one-giant-leap.json](./31735-one-giant-leap.json) |
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
+| One Girl's Trash | 332127 | [332127-one-girls-trash.json](./332127-one-girls-trash.json) |
 | One Goal Spirit | 80493 | [80493-one-goal-spirit.json](./80493-one-goal-spirit.json) |
 | One Got in the House | 179882 | [179882-one-got-in-the-house.json](./179882-one-got-in-the-house.json) |
 | One Gun 2: Stickman | 126908 | [126908-one-gun-2-stickman.json](./126908-one-gun-2-stickman.json) |
@@ -5446,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Shades of Horror Chromatic Split Undead Cheer Collection | 331424 | [331424-outbreak-shades-of-horror-chromatic-split-undead-cheer-collection.json](./331424-outbreak-shades-of-horror-chromatic-split-undead-cheer-collection.json) |
 | Outbreak: Shattered Dreams Collection | 331419 | [331419-outbreak-shattered-dreams-collection.json](./331419-outbreak-shattered-dreams-collection.json) |
 | Outbreak: Silver Collection | 205579 | [205579-outbreak-silver-collection.json](./205579-outbreak-silver-collection.json) |
+| Outbreak: Sinister Investigations Collection | 332106 | [332106-outbreak-sinister-investigations-collection.json](./332106-outbreak-sinister-investigations-collection.json) |
 | Outbreak: Strange Shades Collection | 331413 | [331413-outbreak-strange-shades-collection.json](./331413-outbreak-strange-shades-collection.json) |
 | Outbreak: Survival Kit Collection | 314806 | [314806-outbreak-survival-kit-collection.json](./314806-outbreak-survival-kit-collection.json) |
 | Outbreak: Take a Bite Collection | 331416 | [331416-outbreak-take-a-bite-collection.json](./331416-outbreak-take-a-bite-collection.json) |
