@@ -4543,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pepi House | 175697 | [175697-pepi-house.json](./175697-pepi-house.json) |
 | PePiBo: Peregrino Pinata Bowling | 155800 | [155800-pepibo-peregrino-pinata-bowling.json](./155800-pepibo-peregrino-pinata-bowling.json) |
 | Pepita Viajera Arctic | 297181 | [297181-pepita-viajera-arctic.json](./297181-pepita-viajera-arctic.json) |
+| Pépito | 331597 | [331597-pepito.json](./331597-pepito.json) |
 | Pépito Returned Home | 269770 | [269770-pepito-returned-home.json](./269770-pepito-returned-home.json) |
 | Pepo | 171047 | [171047-pepo.json](./171047-pepo.json) |
 | Peppa Pig: Fun and Games | 20318 | [20318-peppa-pig-fun-and-games.json](./20318-peppa-pig-fun-and-games.json) |
