@@ -1625,6 +1625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Cafe | 233451 | [233451-gamer-cafe.json](./233451-gamer-cafe.json) |
 | Gamer Den | 177928 | [177928-gamer-den.json](./177928-gamer-den.json) |
 | Gamer Girl | 200778 | [200778-gamer-girl.json](./200778-gamer-girl.json) |
+| Gamer Girl Adventure | 385034 | [385034-gamer-girl-adventure.json](./385034-gamer-girl-adventure.json) |
 | Gamer Girls 2 | 162842 | [162842-gamer-girls-2.json](./162842-gamer-girls-2.json) |
 | Gamer Girls: Cyberpunk 2069 | 286461 | [286461-gamer-girls-cyberpunk-2069.json](./286461-gamer-girls-cyberpunk-2069.json) |
 | Gamer Girls: Dating Sim | 199729 | [199729-gamer-girls-dating-sim.json](./199729-gamer-girls-dating-sim.json) |
@@ -4736,6 +4737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl Jigsaw | 149385 | [149385-girl-jigsaw.json](./149385-girl-jigsaw.json) |
 | Girl Jigsaw 2 | 154365 | [154365-girl-jigsaw-2.json](./154365-girl-jigsaw-2.json) |
 | Girl Jigsaw 2: Patch | 162993 | [162993-girl-jigsaw-2-patch.json](./162993-girl-jigsaw-2-patch.json) |
+| Girl Kill Zombies | 385030 | [385030-girl-kill-zombies.json](./385030-girl-kill-zombies.json) |
 | Girl Like A Dreaming Two in a Restless Night | 391854 | [391854-girl-like-a-dreaming-two-in-a-restless-night.json](./391854-girl-like-a-dreaming-two-in-a-restless-night.json) |
 | Girl Like A Dreaming: Flowering Sacrifice | 284490 | [284490-girl-like-a-dreaming-flowering-sacrifice.json](./284490-girl-like-a-dreaming-flowering-sacrifice.json) |
 | Girl Meets Princess | 82841 | [82841-girl-meets-princess.json](./82841-girl-meets-princess.json) |
@@ -4760,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl with a Big Sword | 110174 | [110174-girl-with-a-big-sword.json](./110174-girl-with-a-big-sword.json) |
 | Girl with a Heart of | 64906 | [64906-girl-with-a-heart-of.json](./64906-girl-with-a-heart-of.json) |
 | Girl With Gun | 390203 | [390203-girl-with-gun.json](./390203-girl-with-gun.json) |
+| Girl X | 385019 | [385019-girl-x.json](./385019-girl-x.json) |
 | Girl X Hunter | 208189 | [208189-girl-x-hunter.json](./208189-girl-x-hunter.json) |
 | Girl X Island | 273814 | [273814-girl-x-island.json](./273814-girl-x-island.json) |
 | Girl Zone | 66945 | [66945-girl-zone.json](./66945-girl-zone.json) |
@@ -5563,6 +5566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glowmonkey2k | 229617 | [229617-glowmonkey2k.json](./229617-glowmonkey2k.json) |
 | glowWorm | 104576 | [104576-glowworm.json](./104576-glowworm.json) |
 | GlowyJump | 129732 | [129732-glowyjump.json](./129732-glowyjump.json) |
+| Gloxinia | 385008 | [385008-gloxinia.json](./385008-gloxinia.json) |
 | Glozzle | 107122 | [107122-glozzle.json](./107122-glozzle.json) |
 | Glubtastic Maps | 403986 | [403986-glubtastic-maps.json](./403986-glubtastic-maps.json) |
 | Gluck | 258180 | [258180-gluck.json](./258180-gluck.json) |
@@ -7718,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gore | 371991 | [371991-gore.json](./371991-gore.json) |
 | Gore Crush | 323728 | [323728-gore-crush.json](./323728-gore-crush.json) |
 | Gore Grind | 423867 | [423867-gore-grind.json](./423867-gore-grind.json) |
+| Gore In Crayon | 385022 | [385022-gore-in-crayon.json](./385022-gore-in-crayon.json) |
 | Gore Rapture | 349080 | [349080-gore-rapture.json](./349080-gore-rapture.json) |
 | Gore Screaming Show | 224168 | [224168-gore-screaming-show.json](./224168-gore-screaming-show.json) |
 | Gore Sword | 387274 | [387274-gore-sword.json](./387274-gore-sword.json) |
@@ -9812,6 +9817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridz | 229815 | [229815-gridz.json](./229815-gridz.json) |
 | Gridz Keeper | 378760 | [378760-gridz-keeper.json](./378760-gridz-keeper.json) |
 | Grief | 207713 | [207713-grief.json](./207713-grief.json) |
+| Grief | 384998 | [384998-grief.json](./384998-grief.json) |
 | Grief | 396971 | [396971-grief.json](./396971-grief.json) |
 | Grief | 415253 | [415253-grief.json](./415253-grief.json) |
 | Grief | 61934 | [61934-grief.json](./61934-grief.json) |
