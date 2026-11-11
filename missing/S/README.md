@@ -1327,6 +1327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samozbor: Rebellion | 112677 | [112677-samozbor-rebellion.json](./112677-samozbor-rebellion.json) |
 | Samphi | 35944 | [35944-samphi.json](./35944-samphi.json) |
 | Sample Gunpowder | 310271 | [310271-sample-gunpowder.json](./310271-sample-gunpowder.json) |
+| Sample Sonic | 321726 | [321726-sample-sonic.json](./321726-sample-sonic.json) |
 | Sampling | 107874 | [107874-sampling.json](./107874-sampling.json) |
 | Sampras Extreme Tennis | 44851 | [44851-sampras-extreme-tennis.json](./44851-sampras-extreme-tennis.json) |
 | Sampras Tennis 96 | 46183 | [46183-sampras-tennis-96.json](./46183-sampras-tennis-96.json) |
@@ -4056,6 +4057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuba Diver | 40744 | [40744-scuba-diver.json](./40744-scuba-diver.json) |
 | Scuba Diver | 40766 | [40766-scuba-diver.json](./40766-scuba-diver.json) |
 | Scuba Diver the Simulation | 143399 | [143399-scuba-diver-the-simulation.json](./143399-scuba-diver-the-simulation.json) |
+| Scuba in Aruba | 321731 | [321731-scuba-in-aruba.json](./321731-scuba-in-aruba.json) |
 | Scuba Kidz | 92069 | [92069-scuba-kidz.json](./92069-scuba-kidz.json) |
 | Scuba's Ocean Odyssey VR | 113139 | [113139-scubas-ocean-odyssey-vr.json](./113139-scubas-ocean-odyssey-vr.json) |
 | Scubaman's Quest | 143459 | [143459-scubamans-quest.json](./143459-scubamans-quest.json) |
@@ -5842,6 +5844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senile Wizards | 259815 | [259815-senile-wizards.json](./259815-senile-wizards.json) |
 | Senile Zombies | 311180 | [311180-senile-zombies.json](./311180-senile-zombies.json) |
 | Senior Sunset | 384060 | [384060-senior-sunset.json](./384060-senior-sunset.json) |
+| Senioritis | 321723 | [321723-senioritis.json](./321723-senioritis.json) |
 | Senity: The Game | 116329 | [116329-senity-the-game.json](./116329-senity-the-game.json) |
 | Senjin Aleste | 165428 | [165428-senjin-aleste.json](./165428-senjin-aleste.json) |
 | Senjo no Valkyria Duel | 77367 | [77367-senjo-no-valkyria-duel.json](./77367-senjo-no-valkyria-duel.json) |
@@ -6525,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Seas Jewels 2: Collector's Edition | 398822 | [398822-seven-seas-jewels-2-collectors-edition.json](./398822-seven-seas-jewels-2-collectors-edition.json) |
 | Seven Seas Jewels: Collector's Edition | 398821 | [398821-seven-seas-jewels-collectors-edition.json](./398821-seven-seas-jewels-collectors-edition.json) |
 | Seven Seas Solitaire | 30505 | [30505-seven-seas-solitaire.json](./30505-seven-seas-solitaire.json) |
+| Seven Seas: Adventures | 321013 | [321013-seven-seas-adventures.json](./321013-seven-seas-adventures.json) |
 | Seven Seasonings | 184449 | [184449-seven-seasonings.json](./184449-seven-seasonings.json) |
 | Seven Senses | 421369 | [421369-seven-senses.json](./421369-seven-senses.json) |
 | Seven Sinners | 346393 | [346393-seven-sinners.json](./346393-seven-sinners.json) |
@@ -15087,6 +15091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM Word | 93041 | [93041-sm-word.json](./93041-sm-word.json) |
 | SM2 | 237870 | [237870-sm2.json](./237870-sm2.json) |
 | SM228: Vanilla | 299850 | [299850-sm228-vanilla.json](./299850-sm228-vanilla.json) |
+| SM64 Adventure | 321008 | [321008-sm64-adventure.json](./321008-sm64-adventure.json) |
 | SM64 Colorful Stars | 313109 | [313109-sm64-colorful-stars.json](./313109-sm64-colorful-stars.json) |
 | SM64 Coop Deluxe: Mario in the Multiverse | 378261 | [378261-sm64-coop-deluxe-mario-in-the-multiverse.json](./378261-sm64-coop-deluxe-mario-in-the-multiverse.json) |
 | SM64 Coop DX: Bananza Kong | 386853 | [386853-sm64-coop-dx-bananza-kong.json](./386853-sm64-coop-dx-bananza-kong.json) |
@@ -18930,6 +18935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Red Ridge | 333886 | [333886-sonic-red-ridge.json](./333886-sonic-red-ridge.json) |
 | Sonic Rediscovery | 326157 | [326157-sonic-rediscovery.json](./326157-sonic-rediscovery.json) |
 | Sonic Redux | 330300 | [330300-sonic-redux.json](./330300-sonic-redux.json) |
+| Sonic Regress | 321081 | [321081-sonic-regress.json](./321081-sonic-regress.json) |
 | Sonic Relighted | 333938 | [333938-sonic-relighted.json](./333938-sonic-relighted.json) |
 | Sonic Remade | 333934 | [333934-sonic-remade.json](./333934-sonic-remade.json) |
 | Sonic Remastered | 326158 | [326158-sonic-remastered.json](./326158-sonic-remastered.json) |
@@ -22007,6 +22013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spanking Exorcist | 409227 | [409227-spanking-exorcist.json](./409227-spanking-exorcist.json) |
 | Spanking Runners | 62282 | [62282-spanking-runners.json](./62282-spanking-runners.json) |
 | Spanky "Bat-a-Swing" | 370559 | [370559-spanky-bat-a-swing.json](./370559-spanky-bat-a-swing.json) |
+| Spanky Attourney Ch.1 | 321719 | [321719-spanky-attourney-ch-1.json](./321719-spanky-attourney-ch-1.json) |
 | Spanky! | 254526 | [254526-spanky.json](./254526-spanky.json) |
 | Spanky's Quest | 144149 | [144149-spankys-quest.json](./144149-spankys-quest.json) |
 | Spanky's Quest | 49017 | [49017-spankys-quest.json](./49017-spankys-quest.json) |
@@ -23904,6 +23911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split | 199726 | [199726-split.json](./199726-split.json) |
 | Split | 20364 | [20364-split.json](./20364-split.json) |
 | Split Apart | 324313 | [324313-split-apart.json](./324313-split-apart.json) |
+| Split Brain | 321680 | [321680-split-brain.json](./321680-split-brain.json) |
 | Split Brain Samsara | 401487 | [401487-split-brain-samsara.json](./401487-split-brain-samsara.json) |
 | Split Bullet | 33341 | [33341-split-bullet.json](./33341-split-bullet.json) |
 | Split Circuit Arena | 407049 | [407049-split-circuit-arena.json](./407049-split-circuit-arena.json) |
@@ -27267,6 +27275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Stars of the Valkyrie | 337392 | [337392-stars-of-the-valkyrie.json](./337392-stars-of-the-valkyrie.json) |
 | Stars over Half Moon Bay | 68720 | [68720-stars-over-half-moon-bay.json](./68720-stars-over-half-moon-bay.json) |
+| Stars Reach | 321689 | [321689-stars-reach.json](./321689-stars-reach.json) |
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
 | Stars Simulation | 31618 | [31618-stars-simulation.json](./31618-stars-simulation.json) |
 | Stars Slide | 153160 | [153160-stars-slide.json](./153160-stars-slide.json) |
@@ -31403,6 +31412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku | 267544 | [267544-sudoku.json](./267544-sudoku.json) |
 | Sudoku | 268048 | [268048-sudoku.json](./268048-sudoku.json) |
 | Sudoku | 316552 | [316552-sudoku.json](./316552-sudoku.json) |
+| Sudoku | 321000 | [321000-sudoku.json](./321000-sudoku.json) |
 | Sudoku | 326509 | [326509-sudoku.json](./326509-sudoku.json) |
 | Sudoku | 337482 | [337482-sudoku.json](./337482-sudoku.json) |
 | Sudoku | 386771 | [386771-sudoku.json](./386771-sudoku.json) |
@@ -34780,6 +34790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pinkie World | 231496 | [231496-super-pinkie-world.json](./231496-super-pinkie-world.json) |
 | Super Pinkie World 2 | 231497 | [231497-super-pinkie-world-2.json](./231497-super-pinkie-world-2.json) |
 | Super Pinkie World 3 | 231498 | [231498-super-pinkie-world-3.json](./231498-super-pinkie-world-3.json) |
+| Super Pionero | 321730 | [321730-super-pionero.json](./321730-super-pionero.json) |
 | Super Pipeline | 24662 | [24662-super-pipeline.json](./24662-super-pipeline.json) |
 | Super Pipeline 2 | 13039 | [13039-super-pipeline-2.json](./13039-super-pipeline-2.json) |
 | Super Pipeline II | 39135 | [39135-super-pipeline-ii.json](./39135-super-pipeline-ii.json) |
