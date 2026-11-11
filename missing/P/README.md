@@ -14020,6 +14020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Explosion | 86850 | [86850-potion-explosion.json](./86850-potion-explosion.json) |
 | Potion Explosion: The Fifth Ingredient | 171463 | [171463-potion-explosion-the-fifth-ingredient.json](./171463-potion-explosion-the-fifth-ingredient.json) |
 | Potion in Motion | 341559 | [341559-potion-in-motion.json](./341559-potion-in-motion.json) |
+| Potion Knight | 387805 | [387805-potion-knight.json](./387805-potion-knight.json) |
 | Potion Lore | 56919 | [56919-potion-lore.json](./56919-potion-lore.json) |
 | Potion Maker | 119210 | [119210-potion-maker.json](./119210-potion-maker.json) |
 | Potion Meister | 163834 | [163834-potion-meister.json](./163834-potion-meister.json) |
