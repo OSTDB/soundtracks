@@ -7775,6 +7775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desk Rumble | 425173 | [425173-desk-rumble.json](./425173-desk-rumble.json) |
 | Desk Space: Idle Spacefleet clicker | 404989 | [404989-desk-space-idle-spacefleet-clicker.json](./404989-desk-space-idle-spacefleet-clicker.json) |
 | Desk Top Racer | 412731 | [412731-desk-top-racer.json](./412731-desk-top-racer.json) |
+| DeskAlchemy: Fairy Mine Tales | 391401 | [391401-deskalchemy-fairy-mine-tales.json](./391401-deskalchemy-fairy-mine-tales.json) |
 | Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
 | Deskeroes | 348424 | [348424-deskeroes.json](./348424-deskeroes.json) |
 | Deskmate Girl | 161485 | [161485-deskmate-girl.json](./161485-deskmate-girl.json) |
@@ -10769,6 +10770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Station Vol. 17 | 266652 | [266652-disc-station-vol-17.json](./266652-disc-station-vol-17.json) |
 | Discard All Hope | 350614 | [350614-discard-all-hope.json](./350614-discard-all-hope.json) |
 | Discard: A Memory Game | 186440 | [186440-discard-a-memory-game.json](./186440-discard-a-memory-game.json) |
+| Discarded | 391394 | [391394-discarded.json](./391394-discarded.json) |
 | Discarded Empire | 244128 | [244128-discarded-empire.json](./244128-discarded-empire.json) |
 | Discarded Memories: Mysteries of the Past | 261838 | [261838-discarded-memories-mysteries-of-the-past.json](./261838-discarded-memories-mysteries-of-the-past.json) |
 | Discarded Stronghold | 272101 | [272101-discarded-stronghold.json](./272101-discarded-stronghold.json) |
@@ -16705,6 +16707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dread Descent | 251763 | [251763-dread-descent.json](./251763-dread-descent.json) |
 | Dread Dice | 184444 | [184444-dread-dice.json](./184444-dread-dice.json) |
 | Dread Disc | 403240 | [403240-dread-disc.json](./403240-dread-disc.json) |
+| Dread Eagle | 391916 | [391916-dread-eagle.json](./391916-dread-eagle.json) |
 | Dread Fields | 383923 | [383923-dread-fields.json](./383923-dread-fields.json) |
 | Dread Flats | 351690 | [351690-dread-flats.json](./351690-dread-flats.json) |
 | Dread Hunger | 141365 | [141365-dread-hunger.json](./141365-dread-hunger.json) |
@@ -16887,6 +16890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Day: Wedding Destinations | 47781 | [47781-dream-day-wedding-destinations.json](./47781-dream-day-wedding-destinations.json) |
 | Dream Dazia | 378543 | [378543-dream-dazia.json](./378543-dream-dazia.json) |
 | Dream Dealer | 31214 | [31214-dream-dealer.json](./31214-dream-dealer.json) |
+| Dream Delirio's | 391398 | [391398-dream-delirios.json](./391398-dream-delirios.json) |
 | Dream Detective | 126379 | [126379-dream-detective.json](./126379-dream-detective.json) |
 | Dream Diary | 352482 | [352482-dream-diary.json](./352482-dream-diary.json) |
 | Dream Distortion | 375830 | [375830-dream-distortion.json](./375830-dream-distortion.json) |
