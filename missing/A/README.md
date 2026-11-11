@@ -10608,6 +10608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Away Jam | 297651 | [297651-animal-away-jam.json](./297651-animal-away-jam.json) |
 | Animal Babies Puzzle | 222053 | [222053-animal-babies-puzzle.json](./222053-animal-babies-puzzle.json) |
 | Animal Babysister Fighter | 200474 | [200474-animal-babysister-fighter.json](./200474-animal-babysister-fighter.json) |
+| Animal Bakery | 376951 | [376951-animal-bakery.json](./376951-animal-bakery.json) |
 | Animal Basket | 313573 | [313573-animal-basket.json](./313573-animal-basket.json) |
 | Animal Battle Arena | 315808 | [315808-animal-battle-arena.json](./315808-animal-battle-arena.json) |
 | Animal Bingo | 351580 | [351580-animal-bingo.json](./351580-animal-bingo.json) |
@@ -13138,6 +13139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Tatakae! Big Fighter | 403300 | [403300-arcade-archives-2-tatakae-big-fighter.json](./403300-arcade-archives-2-tatakae-big-fighter.json) |
 | Arcade Archives 2: Tekken | 408158 | [408158-arcade-archives-2-tekken.json](./408158-arcade-archives-2-tekken.json) |
 | Arcade Archives 2: The Outfoxies | 382963 | [382963-arcade-archives-2-the-outfoxies.json](./382963-arcade-archives-2-the-outfoxies.json) |
+| Arcade Archives 2: Tokyo Wars | 377001 | [377001-arcade-archives-2-tokyo-wars.json](./377001-arcade-archives-2-tokyo-wars.json) |
 | Arcade Archives 2: Top Speed | 389061 | [389061-arcade-archives-2-top-speed.json](./389061-arcade-archives-2-top-speed.json) |
 | Arcade Archives 2: Touchdown Fever | 384203 | [384203-arcade-archives-2-touchdown-fever.json](./384203-arcade-archives-2-touchdown-fever.json) |
 | Arcade Archives 2: TX-1 | 411809 | [411809-arcade-archives-2-tx-1.json](./411809-arcade-archives-2-tx-1.json) |
@@ -13481,6 +13483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Time Pilot '84 | 149990 | [149990-arcade-archives-time-pilot-84.json](./149990-arcade-archives-time-pilot-84.json) |
 | Arcade Archives: Time Tunnel | 122746 | [122746-arcade-archives-time-tunnel.json](./122746-arcade-archives-time-tunnel.json) |
 | Arcade Archives: Tinkle Pit | 308297 | [308297-arcade-archives-tinkle-pit.json](./308297-arcade-archives-tinkle-pit.json) |
+| Arcade Archives: Tokyo Wars | 377002 | [377002-arcade-archives-tokyo-wars.json](./377002-arcade-archives-tokyo-wars.json) |
 | Arcade Archives: Top Speed | 389060 | [389060-arcade-archives-top-speed.json](./389060-arcade-archives-top-speed.json) |
 | Arcade Archives: Touchdown Fever | 384202 | [384202-arcade-archives-touchdown-fever.json](./384202-arcade-archives-touchdown-fever.json) |
 | Arcade Archives: Touki Denshou Angel Eyes | 222390 | [222390-arcade-archives-touki-denshou-angel-eyes.json](./222390-arcade-archives-touki-denshou-angel-eyes.json) |
@@ -18097,6 +18100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Gigant Zombie vs Unity chan | 87996 | [87996-attack-of-the-gigant-zombie-vs-unity-chan.json](./87996-attack-of-the-gigant-zombie-vs-unity-chan.json) |
 | Attack of the Goofy Ahh Bandicoots! | 321919 | [321919-attack-of-the-goofy-ahh-bandicoots.json](./321919-attack-of-the-goofy-ahh-bandicoots.json) |
 | Attack of the Gooobers | 50545 | [50545-attack-of-the-gooobers.json](./50545-attack-of-the-gooobers.json) |
+| Attack of the Jersey Drones | 376981 | [376981-attack-of-the-jersey-drones.json](./376981-attack-of-the-jersey-drones.json) |
 | Attack of the Karens | 150376 | [150376-attack-of-the-karens.json](./150376-attack-of-the-karens.json) |
 | Attack of the Killer Beast | 234710 | [234710-attack-of-the-killer-beast.json](./234710-attack-of-the-killer-beast.json) |
 | Attack of the Killer Furries | 101261 | [101261-attack-of-the-killer-furries.json](./101261-attack-of-the-killer-furries.json) |
