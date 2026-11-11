@@ -1997,6 +1997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranfren: Not Lucid | 338644 | [338644-ranfren-not-lucid.json](./338644-ranfren-not-lucid.json) |
 | Rangarok End Girls | 309357 | [309357-rangarok-end-girls.json](./309357-rangarok-end-girls.json) |
 | RangBi | 297720 | [297720-rangbi.json](./297720-rangbi.json) |
+| Range | 338982 | [338982-range.json](./338982-range.json) |
 | Range Ball | 104056 | [104056-range-ball.json](./104056-range-ball.json) |
 | Range Day VR | 29303 | [29303-range-day-vr.json](./29303-range-day-vr.json) |
 | Range Game | 125837 | [125837-range-game.json](./125837-range-game.json) |
@@ -6584,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroGunX | 55557 | [55557-retrogunx.json](./55557-retrogunx.json) |
 | Retroid | 181176 | [181176-retroid.json](./181176-retroid.json) |
 | Retroid | 268414 | [268414-retroid.json](./268414-retroid.json) |
+| Retroid | 339005 | [339005-retroid.json](./339005-retroid.json) |
 | Retroid: Cartridge Protocol | 361006 | [361006-retroid-cartridge-protocol.json](./361006-retroid-cartridge-protocol.json) |
 | Retroids | 175521 | [175521-retroids.json](./175521-retroids.json) |
 | Retroids | 340111 | [340111-retroids.json](./340111-retroids.json) |
@@ -7547,6 +7549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick and Morty Presents: Jerry's Game | 74299 | [74299-rick-and-morty-presents-jerrys-game.json](./74299-rick-and-morty-presents-jerrys-game.json) |
 | Rick and Morty: Clone Rumble | 194111 | [194111-rick-and-morty-clone-rumble.json](./194111-rick-and-morty-clone-rumble.json) |
 | Rick and Morty: Virtual Rick-ality | 20459 | [20459-rick-and-morty-virtual-rick-ality.json](./20459-rick-and-morty-virtual-rick-ality.json) |
+| Rick Ardurous | 339019 | [339019-rick-ardurous.json](./339019-rick-ardurous.json) |
 | Rick Astley: The Game | 195335 | [195335-rick-astley-the-game.json](./195335-rick-astley-the-game.json) |
 | Rick Dangerous | 12202 | [12202-rick-dangerous.json](./12202-rick-dangerous.json) |
 | Rick Dangerous 2 | 12203 | [12203-rick-dangerous-2.json](./12203-rick-dangerous-2.json) |
