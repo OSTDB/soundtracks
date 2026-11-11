@@ -1724,6 +1724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Games Quiz | 344243 | [344243-olympic-games-quiz.json](./344243-olympic-games-quiz.json) |
 | Olympic Games Tokyo 2020: The Official Video Game | 116797 | [116797-olympic-games-tokyo-2020-the-official-video-game.json](./116797-olympic-games-tokyo-2020-the-official-video-game.json) |
 | Olympic Games: Atlanta 1996 | 4264 | [4264-olympic-games-atlanta-1996.json](./4264-olympic-games-atlanta-1996.json) |
+| Olympic Gold: Barcelona '92 | 345179 | [345179-olympic-gold-barcelona-92.json](./345179-olympic-gold-barcelona-92.json) |
 | Olympic Gold: Barcelona '92 | 46266 | [46266-olympic-gold-barcelona-92.json](./46266-olympic-gold-barcelona-92.json) |
 | Olympic Hockey 98 | 47754 | [47754-olympic-hockey-98.json](./47754-olympic-hockey-98.json) |
 | Olympic Skier | 41133 | [41133-olympic-skier.json](./41133-olympic-skier.json) |
