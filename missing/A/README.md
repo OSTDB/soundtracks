@@ -495,6 +495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Making Mosaics | 379507 | [379507-a-game-about-making-mosaics.json](./379507-a-game-about-making-mosaics.json) |
 | A Game About Media & Warfare | 419131 | [419131-a-game-about-media-and-warfare.json](./419131-a-game-about-media-and-warfare.json) |
 | A Game About Mining an Asteroid | 379508 | [379508-a-game-about-mining-an-asteroid.json](./379508-a-game-about-mining-an-asteroid.json) |
+| A Game About Mining Rocks | 350678 | [350678-a-game-about-mining-rocks.json](./350678-a-game-about-mining-rocks.json) |
 | A Game About Mowing Your Lawn | 335270 | [335270-a-game-about-mowing-your-lawn.json](./335270-a-game-about-mowing-your-lawn.json) |
 | A Game About My Cat | 303749 | [303749-a-game-about-my-cat.json](./303749-a-game-about-my-cat.json) |
 | A Game About Opening a Chest | 390749 | [390749-a-game-about-opening-a-chest.json](./390749-a-game-about-opening-a-chest.json) |
@@ -5563,6 +5564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Shogi 2 | 45445 | [45445-ai-shogi-2.json](./45445-ai-shogi-2.json) |
 | AI Shogi 2003 | 269328 | [269328-ai-shogi-2003.json](./269328-ai-shogi-2003.json) |
 | AI Shogi 3 | 44041 | [44041-ai-shogi-3.json](./44041-ai-shogi-3.json) |
+| AI Shogi Selection | 350708 | [350708-ai-shogi-selection.json](./350708-ai-shogi-selection.json) |
 | AI Shoujo | 127944 | [127944-ai-shoujo.json](./127944-ai-shoujo.json) |
 | AI Slop Simulator | 398536 | [398536-ai-slop-simulator.json](./398536-ai-slop-simulator.json) |
 | AI Solitaire | 303127 | [303127-ai-solitaire.json](./303127-ai-solitaire.json) |
@@ -7322,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Bob | 293083 | [293083-alien-bob.json](./293083-alien-bob.json) |
 | Alien Boom Boom | 247917 | [247917-alien-boom-boom.json](./247917-alien-boom-boom.json) |
 | Alien Breaker Deluxe | 225515 | [225515-alien-breaker-deluxe.json](./225515-alien-breaker-deluxe.json) |
+| Alien Breakout | 350717 | [350717-alien-breakout.json](./350717-alien-breakout.json) |
 | Alien Breed | 8633 | [8633-alien-breed.json](./8633-alien-breed.json) |
 | Alien Breed + Alien Breed: Tower Assault | 154438 | [154438-alien-breed-alien-breed-tower-assault.json](./154438-alien-breed-alien-breed-tower-assault.json) |
 | Alien Breed 2: Assault | 9962 | [9962-alien-breed-2-assault.json](./9962-alien-breed-2-assault.json) |
