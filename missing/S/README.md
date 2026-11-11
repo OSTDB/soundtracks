@@ -3940,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screw Master | 340523 | [340523-screw-master.json](./340523-screw-master.json) |
 | Screw Master 3D: Pin Puzzle | 328582 | [328582-screw-master-3d-pin-puzzle.json](./328582-screw-master-3d-pin-puzzle.json) |
 | Screw Pin Jam Puzzle | 307558 | [307558-screw-pin-jam-puzzle.json](./307558-screw-pin-jam-puzzle.json) |
+| Screw Puzzle Master | 357991 | [357991-screw-puzzle-master.json](./357991-screw-puzzle-master.json) |
 | Screw That | 403975 | [403975-screw-that.json](./403975-screw-that.json) |
 | Screw Workshop | 421452 | [421452-screw-workshop.json](./421452-screw-workshop.json) |
 | Screw You, Bear Dad | 57495 | [57495-screw-you-bear-dad.json](./57495-screw-you-bear-dad.json) |
@@ -5551,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
 | Sekai de Ichiban Dame na Koi | 413068 | [413068-sekai-de-ichiban-dame-na-koi.json](./413068-sekai-de-ichiban-dame-na-koi.json) |
 | Sekai de Ichiban Dame na Koi | 413382 | [413382-sekai-de-ichiban-dame-na-koi.json](./413382-sekai-de-ichiban-dame-na-koi.json) |
+| Sekai de Ichiban Kanashii Egao | 357525 | [357525-sekai-de-ichiban-kanashii-egao.json](./357525-sekai-de-ichiban-kanashii-egao.json) |
 | Sekai de Ichiban Kimi ga Suki! | 270691 | [270691-sekai-de-ichiban-kimi-ga-suki.json](./270691-sekai-de-ichiban-kimi-ga-suki.json) |
 | Sekai no Chuushin de Mawaru | 260687 | [260687-sekai-no-chuushin-de-mawaru.json](./260687-sekai-no-chuushin-de-mawaru.json) |
 | Sekai no Chuushin de, AI ha Tatakau | 187622 | [187622-sekai-no-chuushin-de-ai-ha-tatakau.json](./187622-sekai-no-chuushin-de-ai-ha-tatakau.json) |
@@ -9256,6 +9258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ship Fight! | 372129 | [372129-ship-fight.json](./372129-ship-fight.json) |
 | Ship Graveyard Simulator | 176083 | [176083-ship-graveyard-simulator.json](./176083-ship-graveyard-simulator.json) |
 | Ship Graveyard Simulator 2 | 225984 | [225984-ship-graveyard-simulator-2.json](./225984-ship-graveyard-simulator-2.json) |
+| Ship Graveyard Simulator 2: Fishing Boats DLC | 357526 | [357526-ship-graveyard-simulator-2-fishing-boats-dlc.json](./357526-ship-graveyard-simulator-2-fishing-boats-dlc.json) |
 | Ship Graveyard Simulator 2: Floating Cities | 337530 | [337530-ship-graveyard-simulator-2-floating-cities.json](./337530-ship-graveyard-simulator-2-floating-cities.json) |
 | Ship Graveyard Simulator 2: Steam Ships | 337529 | [337529-ship-graveyard-simulator-2-steam-ships.json](./337529-ship-graveyard-simulator-2-steam-ships.json) |
 | Ship Graveyard Simulator 2: Steel Giants | 289843 | [289843-ship-graveyard-simulator-2-steel-giants.json](./289843-ship-graveyard-simulator-2-steel-giants.json) |
@@ -14382,6 +14385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide N' Go | 218534 | [218534-slide-n-go.json](./218534-slide-n-go.json) |
 | Slide On Ice | 243714 | [243714-slide-on-ice.json](./243714-slide-on-ice.json) |
 | Slide Princess: Dungeon Escape | 403018 | [403018-slide-princess-dungeon-escape.json](./403018-slide-princess-dungeon-escape.json) |
+| Slide Puzzle | 357989 | [357989-slide-puzzle.json](./357989-slide-puzzle.json) |
 | Slide Puzzle World History | 300850 | [300850-slide-puzzle-world-history.json](./300850-slide-puzzle-world-history.json) |
 | Slide Puzzle: Cute Moe Girls | 241272 | [241272-slide-puzzle-cute-moe-girls.json](./241272-slide-puzzle-cute-moe-girls.json) |
 | Slide Ride Arcade | 32985 | [32985-slide-ride-arcade.json](./32985-slide-ride-arcade.json) |
@@ -31720,6 +31724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sulver's Journey | 129305 | [129305-sulvers-journey.json](./129305-sulvers-journey.json) |
 | Sum | 105690 | [105690-sum.json](./105690-sum.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
+| Sum | 357507 | [357507-sum.json](./357507-sum.json) |
 | Sum Blocks | 120161 | [120161-sum-blocks.json](./120161-sum-blocks.json) |
 | Sum Ducks | 71150 | [71150-sum-ducks.json](./71150-sum-ducks.json) |
 | Sum Idea | 254811 | [254811-sum-idea.json](./254811-sum-idea.json) |
@@ -31881,6 +31886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
 | Summer Pop | 296790 | [296790-summer-pop.json](./296790-summer-pop.json) |
 | Summer Pop!+ | 296791 | [296791-summer-pop.json](./296791-summer-pop.json) |
+| Summer Puzzle | 357990 | [357990-summer-puzzle.json](./357990-summer-puzzle.json) |
 | Summer Puzzles | 226200 | [226200-summer-puzzles.json](./226200-summer-puzzles.json) |
 | Summer Resort Mogul | 53683 | [53683-summer-resort-mogul.json](./53683-summer-resort-mogul.json) |
 | Summer Reunion | 370102 | [370102-summer-reunion.json](./370102-summer-reunion.json) |
