@@ -17768,6 +17768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Ahead! | 88869 | [88869-drive-ahead.json](./88869-drive-ahead.json) |
 | Drive Ahead! Carcade | 321142 | [321142-drive-ahead-carcade.json](./321142-drive-ahead-carcade.json) |
 | Drive and Jump | 175243 | [175243-drive-and-jump.json](./175243-drive-and-jump.json) |
+| Drive and Park | 377531 | [377531-drive-and-park.json](./377531-drive-and-park.json) |
 | Drive and Unwind | 344107 | [344107-drive-and-unwind.json](./344107-drive-and-unwind.json) |
 | Drive Beyond Horizons | 290959 | [290959-drive-beyond-horizons.json](./290959-drive-beyond-horizons.json) |
 | Drive Buy | 113404 | [113404-drive-buy.json](./113404-drive-buy.json) |
