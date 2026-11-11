@@ -1807,6 +1807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omega Landing | 312264 | [312264-omega-landing.json](./312264-omega-landing.json) |
 | Omega Legends | 147943 | [147943-omega-legends.json](./147943-omega-legends.json) |
 | Omega Luma: The First Battle | 367941 | [367941-omega-luma-the-first-battle.json](./367941-omega-luma-the-first-battle.json) |
+| Omega Man | 379805 | [379805-omega-man.json](./379805-omega-man.json) |
 | Omega Mario 64 | 365076 | [365076-omega-mario-64.json](./365076-omega-mario-64.json) |
 | Omega Mouse | 223408 | [223408-omega-mouse.json](./223408-omega-mouse.json) |
 | Omega Mouse Zero | 296677 | [296677-omega-mouse-zero.json](./296677-omega-mouse-zero.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneHit | 75104 | [75104-onehit.json](./75104-onehit.json) |
 | Oneiric | 285509 | [285509-oneiric.json](./285509-oneiric.json) |
 | Oneiric Gardens | 146541 | [146541-oneiric-gardens.json](./146541-oneiric-gardens.json) |
+| Oneirium | 379812 | [379812-oneirium.json](./379812-oneirium.json) |
 | Oneiro | 161545 | [161545-oneiro.json](./161545-oneiro.json) |
 | Oneiro | 226668 | [226668-oneiro.json](./226668-oneiro.json) |
 | Oneiro Man | 299779 | [299779-oneiro-man.json](./299779-oneiro-man.json) |
