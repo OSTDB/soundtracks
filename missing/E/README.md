@@ -7762,6 +7762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evo Island | 290415 | [290415-evo-island.json](./290415-evo-island.json) |
 | Evo Pop | 237843 | [237843-evo-pop.json](./237843-evo-pop.json) |
 | Evo Pop: Sweet Edition | 395677 | [395677-evo-pop-sweet-edition.json](./395677-evo-pop-sweet-edition.json) |
+| Evo Pop: Virus DLC | 373411 | [373411-evo-pop-virus-dlc.json](./373411-evo-pop-virus-dlc.json) |
 | Evo Q | 284141 | [284141-evo-q.json](./284141-evo-q.json) |
 | Evo\Wave | 144614 | [144614-evo-wave.json](./144614-evo-wave.json) |
 | EvoBots | 315713 | [315713-evobots.json](./315713-evobots.json) |
