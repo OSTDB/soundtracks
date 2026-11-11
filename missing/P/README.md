@@ -7782,6 +7782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PinOut | 25565 | [25565-pinout.json](./25565-pinout.json) |
 | PinPin BallBall | 111605 | [111605-pinpin-ballball.json](./111605-pinpin-ballball.json) |
 | Pinpoint | 321116 | [321116-pinpoint.json](./321116-pinpoint.json) |
+| PinPow | 379801 | [379801-pinpow.json](./379801-pinpow.json) |
 | PinRogue | 406935 | [406935-pinrogue.json](./406935-pinrogue.json) |
 | PinScape | 412707 | [412707-pinscape.json](./412707-pinscape.json) |
 | Pinsky Protocol | 360881 | [360881-pinsky-protocol.json](./360881-pinsky-protocol.json) |
@@ -12436,6 +12437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokkie | 181477 | [181477-pokkie.json](./181477-pokkie.json) |
 | Poko Memorial: 18th Hole Miniature Golf | 73537 | [73537-poko-memorial-18th-hole-miniature-golf.json](./73537-poko-memorial-18th-hole-miniature-golf.json) |
 | Poko Poko Field | 412749 | [412749-poko-poko-field.json](./412749-poko-poko-field.json) |
+| Poko's Artic Quest | 379301 | [379301-pokos-artic-quest.json](./379301-pokos-artic-quest.json) |
 | Pokoh | 155914 | [155914-pokoh.json](./155914-pokoh.json) |
 | Pokon Factory Survival | 150936 | [150936-pokon-factory-survival.json](./150936-pokon-factory-survival.json) |
 | Pokonyan! Balloon | 140850 | [140850-pokonyan-balloon.json](./140850-pokonyan-balloon.json) |
@@ -13369,6 +13371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop the Lock | 256976 | [256976-pop-the-lock.json](./256976-pop-the-lock.json) |
 | Pop the Lock | 58518 | [58518-pop-the-lock.json](./58518-pop-the-lock.json) |
 | Pop This Pop-It | 163189 | [163189-pop-this-pop-it.json](./163189-pop-this-pop-it.json) |
+| Pop to Win | 379807 | [379807-pop-to-win.json](./379807-pop-to-win.json) |
 | Pop Top Adventure | 195538 | [195538-pop-top-adventure.json](./195538-pop-top-adventure.json) |
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
 | Pop up Blaster | 150844 | [150844-pop-up-blaster.json](./150844-pop-up-blaster.json) |
@@ -17204,6 +17207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Xmas | 192250 | [192250-project-xmas.json](./192250-project-xmas.json) |
 | Project Xsting | 278987 | [278987-project-xsting.json](./278987-project-xsting.json) |
 | Project XY | 178645 | [178645-project-xy.json](./178645-project-xy.json) |
+| Project Yoake | 379795 | [379795-project-yoake.json](./379795-project-yoake.json) |
 | Project Z | 126431 | [126431-project-z.json](./126431-project-z.json) |
 | Project Z: The beginning of the end - Chapter I | 369280 | [369280-project-z-the-beginning-of-the-end-chapter-i.json](./369280-project-z-the-beginning-of-the-end-chapter-i.json) |
 | Project Zero | 236252 | [236252-project-zero.json](./236252-project-zero.json) |
@@ -18272,6 +18276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse Cage Episode 1 | 25629 | [25629-pulse-cage-episode-1.json](./25629-pulse-cage-episode-1.json) |
 | Pulse Codex EP | 260061 | [260061-pulse-codex-ep.json](./260061-pulse-codex-ep.json) |
 | Pulse Drive | 415322 | [415322-pulse-drive.json](./415322-pulse-drive.json) |
+| Pulse Grid | 379787 | [379787-pulse-grid.json](./379787-pulse-grid.json) |
 | Pulse Jumper | 149442 | [149442-pulse-jumper.json](./149442-pulse-jumper.json) |
 | Pulse of Love | 258719 | [258719-pulse-of-love.json](./258719-pulse-of-love.json) |
 | Pulse Online | 288333 | [288333-pulse-online.json](./288333-pulse-online.json) |
@@ -19519,6 +19524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Quest: The Legend Returns | 122246 | [122246-puzzle-quest-the-legend-returns.json](./122246-puzzle-quest-the-legend-returns.json) |
 | Puzzle Retreat | 38867 | [38867-puzzle-retreat.json](./38867-puzzle-retreat.json) |
 | Puzzle Rocks | 85356 | [85356-puzzle-rocks.json](./85356-puzzle-rocks.json) |
+| Puzzle Rogue | 379782 | [379782-puzzle-rogue.json](./379782-puzzle-rogue.json) |
 | Puzzle Room Escape | 261983 | [261983-puzzle-room-escape.json](./261983-puzzle-room-escape.json) |
 | Puzzle Sages | 34493 | [34493-puzzle-sages.json](./34493-puzzle-sages.json) |
 | Puzzle Scape | 46021 | [46021-puzzle-scape.json](./46021-puzzle-scape.json) |
