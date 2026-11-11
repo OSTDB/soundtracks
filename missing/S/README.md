@@ -25070,6 +25070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squirrel Knight | 298145 | [298145-squirrel-knight.json](./298145-squirrel-knight.json) |
 | Squirrel Launcher | 230307 | [230307-squirrel-launcher.json](./230307-squirrel-launcher.json) |
 | Squirrel Legacy II: Children of the Nut | 286045 | [286045-squirrel-legacy-ii-children-of-the-nut.json](./286045-squirrel-legacy-ii-children-of-the-nut.json) |
+| Squirrel Madness | 342321 | [342321-squirrel-madness.json](./342321-squirrel-madness.json) |
 | Squirrel Madness & Silent Mist | 371431 | [371431-squirrel-madness-and-silent-mist.json](./371431-squirrel-madness-and-silent-mist.json) |
 | Squirrel Simulator | 389266 | [389266-squirrel-simulator.json](./389266-squirrel-simulator.json) |
 | Squirrel Sphere | 89999 | [89999-squirrel-sphere.json](./89999-squirrel-sphere.json) |
@@ -31699,6 +31700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Sprunki Edition | 361955 | [361955-suika-sprunki-edition.json](./361955-suika-sprunki-edition.json) |
 | Suika vs. Mechasuika | 332751 | [332751-suika-vs-mechasuika.json](./332751-suika-vs-mechasuika.json) |
 | Suika Wan! | 397064 | [397064-suika-wan.json](./397064-suika-wan.json) |
+| Suika Water World | 342357 | [342357-suika-water-world.json](./342357-suika-water-world.json) |
 | Suika Watermelon Fruits | 288171 | [288171-suika-watermelon-fruits.json](./288171-suika-watermelon-fruits.json) |
 | Suika World | 280422 | [280422-suika-world.json](./280422-suika-world.json) |
 | Suikaiju | 331520 | [331520-suikaiju.json](./331520-suikaiju.json) |
@@ -34439,6 +34441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Minesweeper Attack | 126250 | [126250-super-minesweeper-attack.json](./126250-super-minesweeper-attack.json) |
 | Super Mini Mart | 204530 | [204530-super-mini-mart.json](./204530-super-mini-mart.json) |
 | Super Mini Puzzle Heroes | 64711 | [64711-super-mini-puzzle-heroes.json](./64711-super-mini-puzzle-heroes.json) |
+| Super Mini World: The Legend of the Hidden Garden | 342356 | [342356-super-mini-world-the-legend-of-the-hidden-garden.json](./342356-super-mini-world-the-legend-of-the-hidden-garden.json) |
 | Super MiniJolt | 276342 | [276342-super-minijolt.json](./276342-super-minijolt.json) |
 | Super Mining Mechs | 319672 | [319672-super-mining-mechs.json](./319672-super-mining-mechs.json) |
 | Super Mining Mechs: Toxic Treasures | 340567 | [340567-super-mining-mechs-toxic-treasures.json](./340567-super-mining-mechs-toxic-treasures.json) |
