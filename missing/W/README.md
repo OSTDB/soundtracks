@@ -5842,6 +5842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Will of Destiny | 372811 | [372811-will-of-destiny.json](./372811-will-of-destiny.json) |
 | Will of Nen | 234436 | [234436-will-of-nen.json](./234436-will-of-nen.json) |
 | Will of Steel | 23810 | [23810-will-of-steel.json](./23810-will-of-steel.json) |
+| Will She? | 338970 | [338970-will-she.json](./338970-will-she.json) |
 | Will the King Escape? | 345792 | [345792-will-the-king-escape.json](./345792-will-the-king-escape.json) |
 | Will The Man Get Frog | 284835 | [284835-will-the-man-get-frog.json](./284835-will-the-man-get-frog.json) |
 | Will There Bee Another? | 225740 | [225740-will-there-bee-another.json](./225740-will-there-bee-another.json) |
