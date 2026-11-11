@@ -12008,6 +12008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Respect V | 126179 | [126179-djmax-respect-v.json](./126179-djmax-respect-v.json) |
 | DJMax Respect V: Arcaea Pack | 366929 | [366929-djmax-respect-v-arcaea-pack.json](./366929-djmax-respect-v-arcaea-pack.json) |
 | DJMax Respect V: Black Square Pack | 225049 | [225049-djmax-respect-v-black-square-pack.json](./225049-djmax-respect-v-black-square-pack.json) |
+| DJMax Respect V: Blue Archive Pack | 344079 | [344079-djmax-respect-v-blue-archive-pack.json](./344079-djmax-respect-v-blue-archive-pack.json) |
 | DJMax Respect V: Chunithm Pack | 225047 | [225047-djmax-respect-v-chunithm-pack.json](./225047-djmax-respect-v-chunithm-pack.json) |
 | DJMax Respect V: Clazziquai Edition Pack | 225044 | [225044-djmax-respect-v-clazziquai-edition-pack.json](./225044-djmax-respect-v-clazziquai-edition-pack.json) |
 | DJMax Respect V: Clear Pass - S8 Premium Ticket | 231818 | [231818-djmax-respect-v-clear-pass-s8-premium-ticket.json](./231818-djmax-respect-v-clear-pass-s8-premium-ticket.json) |
@@ -13401,6 +13402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Look Back | 343785 | [343785-dont-look-back.json](./343785-dont-look-back.json) |
 | Don't Look Back | 95057 | [95057-dont-look-back.json](./95057-dont-look-back.json) |
 | Don't Look Back! | 317395 | [317395-dont-look-back.json](./317395-dont-look-back.json) |
+| Don't Look Behind | 344096 | [344096-dont-look-behind.json](./344096-dont-look-behind.json) |
 | Don't Look Down | 107877 | [107877-dont-look-down.json](./107877-dont-look-down.json) |
 | Don't Look Down | 186244 | [186244-dont-look-down.json](./186244-dont-look-down.json) |
 | Don't Look! | 168387 | [168387-dont-look.json](./168387-dont-look.json) |
@@ -15942,6 +15944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Fishing | 339561 | [339561-dragon-fishing.json](./339561-dragon-fishing.json) |
 | Dragon Fist 2 | 234562 | [234562-dragon-fist-2.json](./234562-dragon-fist-2.json) |
 | Dragon Fist: VR Kung Fu | 156582 | [156582-dragon-fist-vr-kung-fu.json](./156582-dragon-fist-vr-kung-fu.json) |
+| Dragon Flagon | 344085 | [344085-dragon-flagon.json](./344085-dragon-flagon.json) |
 | Dragon Flight | 59829 | [59829-dragon-flight.json](./59829-dragon-flight.json) |
 | Dragon Force | 2968 | [2968-dragon-force.json](./2968-dragon-force.json) |
 | Dragon Force II: Kamisarishi Daichi ni | 45461 | [45461-dragon-force-ii-kamisarishi-daichi-ni.json](./45461-dragon-force-ii-kamisarishi-daichi-ni.json) |
