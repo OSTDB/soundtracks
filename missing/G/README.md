@@ -353,6 +353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gadget Tycoon | 245892 | [245892-gadget-tycoon.json](./245892-gadget-tycoon.json) |
 | Gadget Tycoon | 77189 | [77189-gadget-tycoon.json](./77189-gadget-tycoon.json) |
 | Gadget: Invention, Travel & Adventure | 73567 | [73567-gadget-invention-travel-and-adventure.json](./73567-gadget-invention-travel-and-adventure.json) |
+| Gadget: Lost in Time | 392563 | [392563-gadget-lost-in-time.json](./392563-gadget-lost-in-time.json) |
 | Gadget: Past as Future | 131905 | [131905-gadget-past-as-future.json](./131905-gadget-past-as-future.json) |
 | Gadgeteer | 103264 | [103264-gadgeteer.json](./103264-gadgeteer.json) |
 | Gadgets: Design It, Build It, Play It | 209584 | [209584-gadgets-design-it-build-it-play-it.json](./209584-gadgets-design-it-build-it-play-it.json) |
@@ -3662,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Fit: Power Workout | 399639 | [399639-get-fit-power-workout.json](./399639-get-fit-power-workout.json) |
 | Get Fit: Women’s Fitness | 394999 | [394999-get-fit-women-s-fitness.json](./394999-get-fit-women-s-fitness.json) |
 | Get Ghost! | 238992 | [238992-get-ghost.json](./238992-get-ghost.json) |
+| Get Glue | 392568 | [392568-get-glue.json](./392568-get-glue.json) |
 | Get Goating | 386502 | [386502-get-goating.json](./386502-get-goating.json) |
 | Get Good by Vypur | 132536 | [132536-get-good-by-vypur.json](./132536-get-good-by-vypur.json) |
 | Get Home Safe | 229327 | [229327-get-home-safe.json](./229327-get-home-safe.json) |
@@ -6429,6 +6431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godfist | 235356 | [235356-godfist.json](./235356-godfist.json) |
 | Godforged: Origins of Ozgalor | 313473 | [313473-godforged-origins-of-ozgalor.json](./313473-godforged-origins-of-ozgalor.json) |
 | Godforsaken | 258085 | [258085-godforsaken.json](./258085-godforsaken.json) |
+| Godforsaken Hole Called... | 392555 | [392555-godforsaken-hole-called.json](./392555-godforsaken-hole-called.json) |
 | Godfreys Demesne | 271570 | [271570-godfreys-demesne.json](./271570-godfreys-demesne.json) |
 | Godfuck | 343756 | [343756-godfuck.json](./343756-godfuck.json) |
 | Godherja: The Dying World | 356006 | [356006-godherja-the-dying-world.json](./356006-godherja-the-dying-world.json) |
