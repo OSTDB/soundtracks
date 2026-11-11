@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warface: Sniper Tournament Pack | 226886 | [226886-warface-sniper-tournament-pack.json](./226886-warface-sniper-tournament-pack.json) |
 | Warface: Starter Edition | 118677 | [118677-warface-starter-edition.json](./118677-warface-starter-edition.json) |
 | Warface: Ultimate Edition | 118509 | [118509-warface-ultimate-edition.json](./118509-warface-ultimate-edition.json) |
+| Warfactory | 359655 | [359655-warfactory.json](./359655-warfactory.json) |
 | WarFallen | 82438 | [82438-warfallen.json](./82438-warfallen.json) |
 | Warfare | 16048 | [16048-warfare.json](./16048-warfare.json) |
 | Warfare 1776 | 420976 | [420976-warfare-1776.json](./420976-warfare-1776.json) |
@@ -1944,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warno: Nemesis #5 | 404460 | [404460-warno-nemesis-5.json](./404460-warno-nemesis-5.json) |
 | Warno: Northag | 302063 | [302063-warno-northag.json](./302063-warno-northag.json) |
 | Warno: Reinforcement Pack #1 | 323264 | [323264-warno-reinforcement-pack-1.json](./323264-warno-reinforcement-pack-1.json) |
+| Warno: RP #5 - Valley and Factory | 359663 | [359663-warno-rp-5-valley-and-factory.json](./359663-warno-rp-5-valley-and-factory.json) |
 | Warno: Southag | 302064 | [302064-warno-southag.json](./302064-warno-southag.json) |
 | WarOfGods 2 | 329068 | [329068-warofgods-2.json](./329068-warofgods-2.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
@@ -4048,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Must Be Done | 309132 | [309132-what-must-be-done.json](./309132-what-must-be-done.json) |
 | What Never Was | 113512 | [113512-what-never-was.json](./113512-what-never-was.json) |
 | What Never Was: Chapter II | 154275 | [154275-what-never-was-chapter-ii.json](./154275-what-never-was-chapter-ii.json) |
+| What not coffee | 359629 | [359629-what-not-coffee.json](./359629-what-not-coffee.json) |
 | What Now? | 183534 | [183534-what-now.json](./183534-what-now.json) |
 | What on Earth? | 406778 | [406778-what-on-earth.json](./406778-what-on-earth.json) |
 | What Remains | 260665 | [260665-what-remains.json](./260665-what-remains.json) |
@@ -5346,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Widower's Sky | 106116 | [106116-widowers-sky.json](./106116-widowers-sky.json) |
 | Wielders of the Essence | 378342 | [378342-wielders-of-the-essence.json](./378342-wielders-of-the-essence.json) |
 | Wieldo | 214155 | [214155-wieldo.json](./214155-wieldo.json) |
+| Wiener Coffee | 359630 | [359630-wiener-coffee.json](./359630-wiener-coffee.json) |
 | Wiener Dog | 174489 | [174489-wiener-dog.json](./174489-wiener-dog.json) |
 | Wiener Wars | 216834 | [216834-wiener-wars.json](./216834-wiener-wars.json) |
 | Wienne | 127373 | [127373-wienne.json](./127373-wienne.json) |
