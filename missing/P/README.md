@@ -9310,6 +9310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelus | 209383 | [209383-pixelus.json](./209383-pixelus.json) |
 | Pixelus Deluxe | 94582 | [94582-pixelus-deluxe.json](./94582-pixelus-deluxe.json) |
 | Pixelvader | 335923 | [335923-pixelvader.json](./335923-pixelvader.json) |
+| Pixelwoods: Coloring Book & Decor | 333247 | [333247-pixelwoods-coloring-book-and-decor.json](./333247-pixelwoods-coloring-book-and-decor.json) |
 | Pixely People Making Movies | 114654 | [114654-pixely-people-making-movies.json](./114654-pixely-people-making-movies.json) |
 | Pixelz - Color by Number Pixel Art Coloring Book | 104616 | [104616-pixelz-color-by-number-pixel-art-coloring-book.json](./104616-pixelz-color-by-number-pixel-art-coloring-book.json) |
 | PixelZen | 296550 | [296550-pixelzen.json](./296550-pixelzen.json) |
