@@ -4387,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Foxes | 306781 | [306781-where-foxes.json](./306781-where-foxes.json) |
 | Where Ghost Cats | 306783 | [306783-where-ghost-cats.json](./306783-where-ghost-cats.json) |
 | Where Giants Fall | 403137 | [403137-where-giants-fall.json](./403137-where-giants-fall.json) |
+| Where Girls Are Made | 389790 | [389790-where-girls-are-made.json](./389790-where-girls-are-made.json) |
 | Where Have All the Globbletops Gone? | 298425 | [298425-where-have-all-the-globbletops-gone.json](./298425-where-have-all-the-globbletops-gone.json) |
 | Where Humans Shouldn't Go | 107445 | [107445-where-humans-shouldnt-go.json](./107445-where-humans-shouldnt-go.json) |
 | Where I Lived | 224463 | [224463-where-i-lived.json](./224463-where-i-lived.json) |
