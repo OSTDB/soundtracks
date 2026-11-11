@@ -2664,9 +2664,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill It With Fire: Exterminator Edition | 208574 | [208574-kill-it-with-fire-exterminator-edition.json](./208574-kill-it-with-fire-exterminator-edition.json) |
 | Kill It With Fire: HeatWave | 137005 | [137005-kill-it-with-fire-heatwave.json](./137005-kill-it-with-fire-heatwave.json) |
 | Kill It With Fire: Ignition | 133071 | [133071-kill-it-with-fire-ignition.json](./133071-kill-it-with-fire-ignition.json) |
+| Kill Justin Beaver | 332152 | [332152-kill-justin-beaver.json](./332152-kill-justin-beaver.json) |
 | Kill Kill Kill Kill | 312579 | [312579-kill-kill-kill-kill.json](./312579-kill-kill-kill-kill.json) |
 | Kill King | 189923 | [189923-kill-king.json](./189923-kill-king.json) |
 | Kill la Kill: IF - Limited Box Edition | 167112 | [167112-kill-la-kill-if-limited-box-edition.json](./167112-kill-la-kill-if-limited-box-edition.json) |
+| Kill Lola Bunny | 332151 | [332151-kill-lola-bunny.json](./332151-kill-lola-bunny.json) |
 | Kill Loop | 409824 | [409824-kill-loop.json](./409824-kill-loop.json) |
 | Kill Me Again: Infectors | 59726 | [59726-kill-me-again-infectors.json](./59726-kill-me-again-infectors.json) |
 | Kill Me If You Can | 292293 | [292293-kill-me-if-you-can.json](./292293-kill-me-if-you-can.json) |
@@ -2909,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killing Floor: Toy Master | 17912 | [17912-killing-floor-toy-master.json](./17912-killing-floor-toy-master.json) |
 | Killing Floor: Urban Nightmare Character Pack | 162719 | [162719-killing-floor-urban-nightmare-character-pack.json](./162719-killing-floor-urban-nightmare-character-pack.json) |
 | Killing Floor: Weapons Bundle | 334621 | [334621-killing-floor-weapons-bundle.json](./334621-killing-floor-weapons-bundle.json) |
+| Killing Floors 2: Plague Doctor Outfit Bundle | 332112 | [332112-killing-floors-2-plague-doctor-outfit-bundle.json](./332112-killing-floors-2-plague-doctor-outfit-bundle.json) |
 | Killing Kiss | 191905 | [191905-killing-kiss.json](./191905-killing-kiss.json) |
 | Killing Machine | 355234 | [355234-killing-machine.json](./355234-killing-machine.json) |
 | Killing Machine Loves Slime Prince | 300694 | [300694-killing-machine-loves-slime-prince.json](./300694-killing-machine-loves-slime-prince.json) |
@@ -2994,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
