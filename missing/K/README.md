@@ -3858,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of the Castle | 123693 | [123693-kings-of-the-castle.json](./123693-kings-of-the-castle.json) |
 | Kings of the Realm | 344914 | [344914-kings-of-the-realm.json](./344914-kings-of-the-realm.json) |
 | Kings on the Corner | 411290 | [411290-kings-on-the-corner.json](./411290-kings-on-the-corner.json) |
+| Kings Origin | 375714 | [375714-kings-origin.json](./375714-kings-origin.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
 | Kings Town | 157361 | [157361-kings-town.json](./157361-kings-town.json) |
 | Kings under the hill | 31390 | [31390-kings-under-the-hill.json](./31390-kings-under-the-hill.json) |
@@ -5047,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knock Out!! | 40231 | [40231-knock-out.json](./40231-knock-out.json) |
 | Knock the Bloody Door Down | 244568 | [244568-knock-the-bloody-door-down.json](./244568-knock-the-bloody-door-down.json) |
 | Knock-a-Block | 58171 | [58171-knock-a-block.json](./58171-knock-a-block.json) |
+| Knock-Em Out Boxing | 375726 | [375726-knock-em-out-boxing.json](./375726-knock-em-out-boxing.json) |
 | Knock-knock | 13153 | [13153-knock-knock.json](./13153-knock-knock.json) |
 | Knock'Em Out | 224637 | [224637-knockem-out.json](./224637-knockem-out.json) |
 | Knockback | 428370 | [428370-knockback.json](./428370-knockback.json) |
