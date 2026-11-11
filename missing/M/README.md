@@ -9881,6 +9881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Coin: Mai | 355678 | [355678-merge-coin-mai.json](./355678-merge-coin-mai.json) |
 | Merge Cooking | 234472 | [234472-merge-cooking.json](./234472-merge-cooking.json) |
 | Merge County | 212449 | [212449-merge-county.json](./212449-merge-county.json) |
+| Merge Critters | 388456 | [388456-merge-critters.json](./388456-merge-critters.json) |
 | Merge Day: Office Girls | 415327 | [415327-merge-day-office-girls.json](./415327-merge-day-office-girls.json) |
 | Merge Design: Mansion Makeover | 246662 | [246662-merge-design-mansion-makeover.json](./246662-merge-design-mansion-makeover.json) |
 | Merge Donut | 311580 | [311580-merge-donut.json](./311580-merge-donut.json) |
@@ -21634,6 +21635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Horse: Adventures on Seahorse Island | 238478 | [238478-my-first-horse-adventures-on-seahorse-island.json](./238478-my-first-horse-adventures-on-seahorse-island.json) |
 | My First Money | 87920 | [87920-my-first-money.json](./87920-my-first-money.json) |
 | My First Music Workshop | 105693 | [105693-my-first-music-workshop.json](./105693-my-first-music-workshop.json) |
+| My First PC Game | 388442 | [388442-my-first-pc-game.json](./388442-my-first-pc-game.json) |
 | My First Quantum Translocator | 320248 | [320248-my-first-quantum-translocator.json](./320248-my-first-quantum-translocator.json) |
 | My First Songs | 84631 | [84631-my-first-songs.json](./84631-my-first-songs.json) |
 | My First Songs | 84715 | [84715-my-first-songs.json](./84715-my-first-songs.json) |
