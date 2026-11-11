@@ -10512,6 +10512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Arrows | 139635 | [139635-rogue-arrows.json](./139635-rogue-arrows.json) |
 | Rogue Ascent VR | 191914 | [191914-rogue-ascent-vr.json](./191914-rogue-ascent-vr.json) |
 | Rogue Assault | 404373 | [404373-rogue-assault.json](./404373-rogue-assault.json) |
+| Rogue Balls | 388658 | [388658-rogue-balls.json](./388658-rogue-balls.json) |
 | Rogue Bit | 110363 | [110363-rogue-bit.json](./110363-rogue-bit.json) |
 | Rogue Blaster | 232435 | [232435-rogue-blaster.json](./232435-rogue-blaster.json) |
 | Rogue Blight | 212912 | [212912-rogue-blight.json](./212912-rogue-blight.json) |
