@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CallBreak: Fun Card Game | 99201 | [99201-callbreak-fun-card-game.json](./99201-callbreak-fun-card-game.json) |
 | Caller of the Crows | 348857 | [348857-caller-of-the-crows.json](./348857-caller-of-the-crows.json) |
 | Caller's Bane | 2600 | [2600-callers-bane.json](./2600-callers-bane.json) |
+| Calligraphic | 387852 | [387852-calligraphic.json](./387852-calligraphic.json) |
 | Calling | 403030 | [403030-calling.json](./403030-calling.json) |
 | Calling | 4742 | [4742-calling.json](./4742-calling.json) |
 | Calling All Cars! | 20701 | [20701-calling-all-cars.json](./20701-calling-all-cars.json) |
@@ -12127,6 +12128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codex Arcana: Grimoire of Monsters | 386832 | [386832-codex-arcana-grimoire-of-monsters.json](./386832-codex-arcana-grimoire-of-monsters.json) |
 | Codex Combat | 392180 | [392180-codex-combat.json](./392180-codex-combat.json) |
 | Codex Lost | 235597 | [235597-codex-lost.json](./235597-codex-lost.json) |
+| Codex Lost 2 | 387838 | [387838-codex-lost-2.json](./387838-codex-lost-2.json) |
 | Codex Mortis | 380942 | [380942-codex-mortis.json](./380942-codex-mortis.json) |
 | Codex of Victory | 27802 | [27802-codex-of-victory.json](./27802-codex-of-victory.json) |
 | Codex Temondera: Lost Vision | 115340 | [115340-codex-temondera-lost-vision.json](./115340-codex-temondera-lost-vision.json) |
@@ -12627,6 +12629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collider | 35186 | [35186-collider.json](./35186-collider.json) |
 | Colliderscope | 109673 | [109673-colliderscope.json](./109673-colliderscope.json) |
 | Colliding Forces | 63543 | [63543-colliding-forces.json](./63543-colliding-forces.json) |
+| Collie Call | 387843 | [387843-collie-call.json](./387843-collie-call.json) |
 | Collie Call: Farm of Tomorrow | 344964 | [344964-collie-call-farm-of-tomorrow.json](./344964-collie-call-farm-of-tomorrow.json) |
 | Collie Call: The Future Is Calling | 393041 | [393041-collie-call-the-future-is-calling.json](./393041-collie-call-the-future-is-calling.json) |
 | Collie Defense | 338788 | [338788-collie-defense.json](./338788-collie-defense.json) |
@@ -12688,6 +12691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony 42 | 132388 | [132388-colony-42.json](./132388-colony-42.json) |
 | Colony 7 | 281286 | [281286-colony-7.json](./281286-colony-7.json) |
 | Colony 7 | 8398 | [8398-colony-7.json](./8398-colony-7.json) |
+| Colony Alpha | 387847 | [387847-colony-alpha.json](./387847-colony-alpha.json) |
 | Colony Antares | 150682 | [150682-colony-antares.json](./150682-colony-antares.json) |
 | Colony Assault | 34554 | [34554-colony-assault.json](./34554-colony-assault.json) |
 | Colony Attack | 323097 | [323097-colony-attack.json](./323097-colony-attack.json) |
@@ -18656,6 +18660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Tower | 365176 | [365176-crimson-tower.json](./365176-crimson-tower.json) |
 | Crimson Trigger | 30174 | [30174-crimson-trigger.json](./30174-crimson-trigger.json) |
 | Crimson Twilight: Undead Lover | 298977 | [298977-crimson-twilight-undead-lover.json](./298977-crimson-twilight-undead-lover.json) |
+| Crimson Warfare | 387806 | [387806-crimson-warfare.json](./387806-crimson-warfare.json) |
 | Crimson Wars | 413512 | [413512-crimson-wars.json](./413512-crimson-wars.json) |
 | Crimson Waves on the Emerald Sea | 189831 | [189831-crimson-waves-on-the-emerald-sea.json](./189831-crimson-waves-on-the-emerald-sea.json) |
 | Crimson Waves on the Emerald Sea: Amaranthine Moon | 309166 | [309166-crimson-waves-on-the-emerald-sea-amaranthine-moon.json](./309166-crimson-waves-on-the-emerald-sea-amaranthine-moon.json) |
@@ -21128,6 +21133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Gun | 396895 | [396895-cursed-gun.json](./396895-cursed-gun.json) |
 | Cursed Halls | 244217 | [244217-cursed-halls.json](./244217-cursed-halls.json) |
 | Cursed Halo Again | 252123 | [252123-cursed-halo-again.json](./252123-cursed-halo-again.json) |
+| Cursed Home | 387795 | [387795-cursed-home.json](./387795-cursed-home.json) |
 | Cursed Hours | 319183 | [319183-cursed-hours.json](./319183-cursed-hours.json) |
 | Cursed House | 186326 | [186326-cursed-house.json](./186326-cursed-house.json) |
 | Cursed House 10 | 195425 | [195425-cursed-house-10.json](./195425-cursed-house-10.json) |
@@ -22255,6 +22261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyrgoth's Manor | 268890 | [268890-cyrgoths-manor.json](./268890-cyrgoths-manor.json) |
 | Cyrgoth's Revenge | 268891 | [268891-cyrgoths-revenge.json](./268891-cyrgoths-revenge.json) |
 | Cyril Cyberpunk | 19339 | [19339-cyril-cyberpunk.json](./19339-cyril-cyberpunk.json) |
+| Cyrkam Airtos | 387807 | [387807-cyrkam-airtos.json](./387807-cyrkam-airtos.json) |
 | Cyroad | 128570 | [128570-cyroad.json](./128570-cyroad.json) |
 | Cyrox | 14024 | [14024-cyrox.json](./14024-cyrox.json) |
 | Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
