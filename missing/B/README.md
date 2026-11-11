@@ -5265,6 +5265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Shooter | 330487 | [330487-bear-shooter.json](./330487-bear-shooter.json) |
 | Bear Simulator: Ragnarok's Rise Survival | 324214 | [324214-bear-simulator-ragnaroks-rise-survival.json](./324214-bear-simulator-ragnaroks-rise-survival.json) |
 | Bear Soul | 152686 | [152686-bear-soul.json](./152686-bear-soul.json) |
+| Bear Squire Honey Journey | 379302 | [379302-bear-squire-honey-journey.json](./379302-bear-squire-honey-journey.json) |
 | Bear Stearns Bravo | 308154 | [308154-bear-stearns-bravo.json](./308154-bear-stearns-bravo.json) |
 | Bear Stormin' | 339647 | [339647-bear-stormin.json](./339647-bear-stormin.json) |
 | Bear Surfin Mega Wave | 200638 | [200638-bear-surfin-mega-wave.json](./200638-bear-surfin-mega-wave.json) |
@@ -9042,6 +9043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birushana: Rising Flower of Genpei | 145094 | [145094-birushana-rising-flower-of-genpei.json](./145094-birushana-rising-flower-of-genpei.json) |
 | Birushana: Winds of Fate | 401103 | [401103-birushana-winds-of-fate.json](./401103-birushana-winds-of-fate.json) |
 | Birushana: Winds of Fate - Deluxe Edition | 401109 | [401109-birushana-winds-of-fate-deluxe-edition.json](./401109-birushana-winds-of-fate-deluxe-edition.json) |
+| Biryado | 379791 | [379791-biryado.json](./379791-biryado.json) |
 | Birza | 361029 | [361029-birza.json](./361029-birza.json) |
 | Birzzle | 341849 | [341849-birzzle.json](./341849-birzzle.json) |
 | Biscats | 259445 | [259445-biscats.json](./259445-biscats.json) |
@@ -14776,6 +14778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boundland | 329511 | [329511-boundland.json](./329511-boundland.json) |
 | Boundless | 14365 | [14365-boundless.json](./14365-boundless.json) |
 | Boundless | 369560 | [369560-boundless.json](./369560-boundless.json) |
+| Boundless Evil: Awakening | 379793 | [379793-boundless-evil-awakening.json](./379793-boundless-evil-awakening.json) |
 | Boundless Lust | 303933 | [303933-boundless-lust.json](./303933-boundless-lust.json) |
 | Boundless Paths | 267023 | [267023-boundless-paths.json](./267023-boundless-paths.json) |
 | Boundless Planet | 70500 | [70500-boundless-planet.json](./70500-boundless-planet.json) |
@@ -16124,6 +16127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakHack | 107503 | [107503-breakhack.json](./107503-breakhack.json) |
 | BreakIn 360 | 25288 | [25288-breakin-360.json](./25288-breakin-360.json) |
 | Breaking & Entering | 200857 | [200857-breaking-and-entering.json](./200857-breaking-and-entering.json) |
+| Breaking And Wintering | 379813 | [379813-breaking-and-wintering.json](./379813-breaking-and-wintering.json) |
 | Breaking Bad DS | 277201 | [277201-breaking-bad-ds.json](./277201-breaking-bad-ds.json) |
 | Breaking Bad: Criminal Elements | 114003 | [114003-breaking-bad-criminal-elements.json](./114003-breaking-bad-criminal-elements.json) |
 | Breaking Bad: VR Experience | 36757 | [36757-breaking-bad-vr-experience.json](./36757-breaking-bad-vr-experience.json) |
@@ -16577,6 +16581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge of Dawn | 172975 | [172975-bridge-of-dawn.json](./172975-bridge-of-dawn.json) |
 | Bridge of Doom | 420188 | [420188-bridge-of-doom.json](./420188-bridge-of-doom.json) |
 | Bridge Olympiad | 71382 | [71382-bridge-olympiad.json](./71382-bridge-olympiad.json) |
+| Bridge Orders: Outrim - The Unseen Enemy | 379806 | [379806-bridge-orders-outrim-the-unseen-enemy.json](./379806-bridge-orders-outrim-the-unseen-enemy.json) |
 | Bridge Player | 13443 | [13443-bridge-player.json](./13443-bridge-player.json) |
 | Bridge Player 2000 with Tutor | 15205 | [15205-bridge-player-2000-with-tutor.json](./15205-bridge-player-2000-with-tutor.json) |
 | Bridge Player 3 | 13442 | [13442-bridge-player-3.json](./13442-bridge-player-3.json) |
@@ -18803,6 +18808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Chef Tycoon: Multiplayer Edition | 240404 | [240404-burger-chef-tycoon-multiplayer-edition.json](./240404-burger-chef-tycoon-multiplayer-edition.json) |
 | Burger Chef Tycoon: Premium Edition | 227704 | [227704-burger-chef-tycoon-premium-edition.json](./227704-burger-chef-tycoon-premium-edition.json) |
 | Burger Cooking Simulator | 250855 | [250855-burger-cooking-simulator.json](./250855-burger-cooking-simulator.json) |
+| Burger Daily Mate | 379786 | [379786-burger-daily-mate.json](./379786-burger-daily-mate.json) |
 | Burger Flipper: A Fast Food Restaurant Simulator | 326480 | [326480-burger-flipper-a-fast-food-restaurant-simulator.json](./326480-burger-flipper-a-fast-food-restaurant-simulator.json) |
 | Burger For Me | 180607 | [180607-burger-for-me.json](./180607-burger-for-me.json) |
 | Burger Fun | 205254 | [205254-burger-fun.json](./205254-burger-fun.json) |
