@@ -7136,7 +7136,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserk and the Band of the Hawk: Additional Scenario Set | 168104 | [168104-berserk-and-the-band-of-the-hawk-additional-scenario-set.json](./168104-berserk-and-the-band-of-the-hawk-additional-scenario-set.json) |
 | Berserk and the Band of the Hawk: Additional Warhorse Set | 224121 | [224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json](./224121-berserk-and-the-band-of-the-hawk-additional-warhorse-set.json) |
 | Berserk B.I.T.S | 307979 | [307979-berserk-b-i-t-s.json](./307979-berserk-b-i-t-s.json) |
-| Berserk Boy | 150032 | [150032-berserk-boy.json](./150032-berserk-boy.json) |
 | Berserk Boy: Collector's Edition | 350790 | [350790-berserk-boy-collectors-edition.json](./350790-berserk-boy-collectors-edition.json) |
 | Berserk Emblem | 401306 | [401306-berserk-emblem.json](./401306-berserk-emblem.json) |
 | Berserk Heroes Online | 377267 | [377267-berserk-heroes-online.json](./377267-berserk-heroes-online.json) |
@@ -11973,7 +11972,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodgeon | 125444 | [125444-bloodgeon.json](./125444-bloodgeon.json) |
 | Bloodgrounds | 303164 | [303164-bloodgrounds.json](./303164-bloodgrounds.json) |
 | Bloodholic | 126743 | [126743-bloodholic.json](./126743-bloodholic.json) |
-| Bloodhound | 195382 | [195382-bloodhound.json](./195382-bloodhound.json) |
 | Bloodia | 118394 | [118394-bloodia.json](./118394-bloodia.json) |
 | Bloodicide | 262270 | [262270-bloodicide.json](./262270-bloodicide.json) |
 | Bloodied Fear | 199681 | [199681-bloodied-fear.json](./199681-bloodied-fear.json) |
