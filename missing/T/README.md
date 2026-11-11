@@ -8827,6 +8827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Diner at the End of the Galaxy | 267128 | [267128-the-diner-at-the-end-of-the-galaxy.json](./267128-the-diner-at-the-end-of-the-galaxy.json) |
 | The Dinner | 337767 | [337767-the-dinner.json](./337767-the-dinner.json) |
 | The Dinner Heist | 308561 | [308561-the-dinner-heist.json](./308561-the-dinner-heist.json) |
+| The Dinner Table | 383888 | [383888-the-dinner-table.json](./383888-the-dinner-table.json) |
 | The Dino R | 233623 | [233623-the-dino-r.json](./233623-the-dino-r.json) |
 | The DinoHunters | 142967 | [142967-the-dinohunters.json](./142967-the-dinohunters.json) |
 | The Dinosaur Dooley | 46109 | [46109-the-dinosaur-dooley.json](./46109-the-dinosaur-dooley.json) |
@@ -9007,6 +9008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream Observatory | 318148 | [318148-the-dream-observatory.json](./318148-the-dream-observatory.json) |
 | The Dream Of A Cockspur | 276570 | [276570-the-dream-of-a-cockspur.json](./276570-the-dream-of-a-cockspur.json) |
 | The Dream of Cocoon | 242881 | [242881-the-dream-of-cocoon.json](./242881-the-dream-of-cocoon.json) |
+| The Dream of Jacob | 383887 | [383887-the-dream-of-jacob.json](./383887-the-dream-of-jacob.json) |
 | The Dream of Shadowlands | 142170 | [142170-the-dream-of-shadowlands.json](./142170-the-dream-of-shadowlands.json) |
 | The Dream of Shadowlands: Episode 2 | 174071 | [174071-the-dream-of-shadowlands-episode-2.json](./174071-the-dream-of-shadowlands-episode-2.json) |
 | The Dream of the Limbo | 298601 | [298601-the-dream-of-the-limbo.json](./298601-the-dream-of-the-limbo.json) |
@@ -20632,6 +20634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theorists | 261185 | [261185-theorists.json](./261185-theorists.json) |
 | Théoros | 412185 | [412185-theoros.json](./412185-theoros.json) |
 | Theory | 288813 | [288813-theory.json](./288813-theory.json) |
+| Theory | 383893 | [383893-theory.json](./383893-theory.json) |
 | Theory of Fear | 29225 | [29225-theory-of-fear.json](./29225-theory-of-fear.json) |
 | Theory of Poltaran | 186314 | [186314-theory-of-poltaran.json](./186314-theory-of-poltaran.json) |
 | Theos: Cities of Myth | 403819 | [403819-theos-cities-of-myth.json](./403819-theos-cities-of-myth.json) |
@@ -28393,6 +28396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower climber | 90193 | [90193-tower-climber.json](./90193-tower-climber.json) |
 | Tower Command | 370908 | [370908-tower-command.json](./370908-tower-command.json) |
 | Tower Craft | 263859 | [263859-tower-craft.json](./263859-tower-craft.json) |
+| Tower Crusher | 383877 | [383877-tower-crusher.json](./383877-tower-crusher.json) |
 | Tower Crusher! | 223877 | [223877-tower-crusher.json](./223877-tower-crusher.json) |
 | Tower Dash | 251508 | [251508-tower-dash.json](./251508-tower-dash.json) |
 | Tower Deckfense | 332189 | [332189-tower-deckfense.json](./332189-tower-deckfense.json) |
