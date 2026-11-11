@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kali's Legion | 373543 | [373543-kalis-legion.json](./373543-kalis-legion.json) |
 | Kalia | 334138 | [334138-kalia.json](./334138-kalia.json) |
 | Kalia and The Fire Staff | 282832 | [282832-kalia-and-the-fire-staff.json](./282832-kalia-and-the-fire-staff.json) |
+| Kalico @ Uni | 379796 | [379796-kalico-uni.json](./379796-kalico-uni.json) |
 | Kalidazkoph | 135794 | [135794-kalidazkoph.json](./135794-kalidazkoph.json) |
 | Kalikan | 255868 | [255868-kalikan.json](./255868-kalikan.json) |
 | Kalimat Karash | 314637 | [314637-kalimat-karash.json](./314637-kalimat-karash.json) |
