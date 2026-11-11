@@ -6727,6 +6727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Survival | 382161 | [382161-island-survival.json](./382161-island-survival.json) |
 | Island Survival 2026: Craft, Build, Grow | 393047 | [393047-island-survival-2026-craft-build-grow.json](./393047-island-survival-2026-craft-build-grow.json) |
 | Island Survival: Craft, Build, Grow | 314858 | [314858-island-survival-craft-build-grow.json](./314858-island-survival-craft-build-grow.json) |
+| Island Survival: Craft, Build, Grow & Zombie Harvest: Survival Farming Simulator Bundle Collection | 345723 | [345723-island-survival-craft-build-grow-and-zombie-harvest-survival-farming-simulator-bundle-collection.json](./345723-island-survival-craft-build-grow-and-zombie-harvest-survival-farming-simulator-bundle-collection.json) |
 | Island Survival: Escape from Paradise | 413088 | [413088-island-survival-escape-from-paradise.json](./413088-island-survival-escape-from-paradise.json) |
 | Island Time VR | 88301 | [88301-island-time-vr.json](./88301-island-time-vr.json) |
 | Island Town Zombie Paradise | 117478 | [117478-island-town-zombie-paradise.json](./117478-island-town-zombie-paradise.json) |
