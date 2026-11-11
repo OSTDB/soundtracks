@@ -11476,6 +11476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Anatolia | 29328 | [29328-hotel-anatolia.json](./29328-hotel-anatolia.json) |
 | Hotel Barcelona | 125125 | [125125-hotel-barcelona.json](./125125-hotel-barcelona.json) |
 | Hotel Blind | 33139 | [33139-hotel-blind.json](./33139-hotel-blind.json) |
+| Hotel Blue Rose no 99 no Heya | 330989 | [330989-hotel-blue-rose-no-99-no-heya.json](./330989-hotel-blue-rose-no-99-no-heya.json) |
 | Hotel Builder | 217168 | [217168-hotel-builder.json](./217168-hotel-builder.json) |
 | Hotel City | 182312 | [182312-hotel-city.json](./182312-hotel-city.json) |
 | Hotel Clover | 263984 | [263984-hotel-clover.json](./263984-hotel-clover.json) |
