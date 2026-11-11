@@ -2349,6 +2349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturnia | 267993 | [267993-saturnia.json](./267993-saturnia.json) |
 | Saturnine | 110127 | [110127-saturnine.json](./110127-saturnine.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
+| Sauce Factory Tycoon | 375701 | [375701-sauce-factory-tycoon.json](./375701-sauce-factory-tycoon.json) |
 | SauceLore | 265541 | [265541-saucelore.json](./265541-saucelore.json) |
 | Saucepanhead I: Pangalactic Panic | 389806 | [389806-saucepanhead-i-pangalactic-panic.json](./389806-saucepanhead-i-pangalactic-panic.json) |
 | Saucer Arena | 348957 | [348957-saucer-arena.json](./348957-saucer-arena.json) |
@@ -14346,6 +14347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Stories: Neko's Journey | 157272 | [157272-slide-stories-nekos-journey.json](./157272-slide-stories-nekos-journey.json) |
 | Slide the Shakes | 96893 | [96893-slide-the-shakes.json](./96893-slide-the-shakes.json) |
 | Slide the Signs | 234509 | [234509-slide-the-signs.json](./234509-slide-the-signs.json) |
+| Slide The Tiles | 375694 | [375694-slide-the-tiles.json](./375694-slide-the-tiles.json) |
 | Slide to finish | 111477 | [111477-slide-to-finish.json](./111477-slide-to-finish.json) |
 | Slide to Solve | 329592 | [329592-slide-to-solve.json](./329592-slide-to-solve.json) |
 | Slide to Spell | 243315 | [243315-slide-to-spell.json](./243315-slide-to-spell.json) |
@@ -14522,6 +14524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Scramble | 309328 | [309328-slime-scramble.json](./309328-slime-scramble.json) |
 | Slime Sexy Party | 358339 | [358339-slime-sexy-party.json](./358339-slime-sexy-party.json) |
 | Slime Shoot | 312329 | [312329-slime-shoot.json](./312329-slime-shoot.json) |
+| Slime Shot Adventure | 375696 | [375696-slime-shot-adventure.json](./375696-slime-shot-adventure.json) |
 | Slime Siege | 262741 | [262741-slime-siege.json](./262741-slime-siege.json) |
 | Slime Simulator Games | 286786 | [286786-slime-simulator-games.json](./286786-slime-simulator-games.json) |
 | Slime Slam | 126967 | [126967-slime-slam.json](./126967-slime-slam.json) |
@@ -16155,6 +16158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Elite: Resistance - Commando Weapon Pack | 375751 | [375751-sniper-elite-resistance-commando-weapon-pack.json](./375751-sniper-elite-resistance-commando-weapon-pack.json) |
 | Sniper Elite: Resistance - Deluxe Edition | 324606 | [324606-sniper-elite-resistance-deluxe-edition.json](./324606-sniper-elite-resistance-deluxe-edition.json) |
 | Sniper Elite: Resistance - Mud and Thunder Mission, Weapons and Skin Pack | 351494 | [351494-sniper-elite-resistance-mud-and-thunder-mission-weapons-and-skin-pack.json](./351494-sniper-elite-resistance-mud-and-thunder-mission-weapons-and-skin-pack.json) |
+| Sniper Elite: Resistance - Striking Range | 375750 | [375750-sniper-elite-resistance-striking-range.json](./375750-sniper-elite-resistance-striking-range.json) |
 | Sniper Elite: Resistance - Target Führer: Lights, Camera, Achtung | 343572 | [343572-sniper-elite-resistance-target-fuhrer-lights-camera-achtung.json](./343572-sniper-elite-resistance-target-fuhrer-lights-camera-achtung.json) |
 | Sniper Elite: Resistance - Wrath of the Resistance Weapon and Skins Pack | 351493 | [351493-sniper-elite-resistance-wrath-of-the-resistance-weapon-and-skins-pack.json](./351493-sniper-elite-resistance-wrath-of-the-resistance-weapon-and-skins-pack.json) |
 | Sniper Fodder | 103815 | [103815-sniper-fodder.json](./103815-sniper-fodder.json) |
@@ -18530,6 +18534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Forces: Day One Edition | 136167 | [136167-sonic-forces-day-one-edition.json](./136167-sonic-forces-day-one-edition.json) |
 | Sonic Forces: Episode Shadow | 112095 | [112095-sonic-forces-episode-shadow.json](./112095-sonic-forces-episode-shadow.json) |
 | Sonic Forces: Rival Rush | 421173 | [421173-sonic-forces-rival-rush.json](./421173-sonic-forces-rival-rush.json) |
+| Sonic Forces: Sanic T-Shirt | 375740 | [375740-sonic-forces-sanic-t-shirt.json](./375740-sonic-forces-sanic-t-shirt.json) |
 | Sonic Forces: Speed Battle | 69392 | [69392-sonic-forces-speed-battle.json](./69392-sonic-forces-speed-battle.json) |
 | Sonic Forces: Super Sonic | 255540 | [255540-sonic-forces-super-sonic.json](./255540-sonic-forces-super-sonic.json) |
 | Sonic Free Riders | 20118 | [20118-sonic-free-riders.json](./20118-sonic-free-riders.json) |
@@ -28067,6 +28072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Tactics | 26293 | [26293-stellar-tactics.json](./26293-stellar-tactics.json) |
 | Stellar Terminus | 318178 | [318178-stellar-terminus.json](./318178-stellar-terminus.json) |
 | Stellar Track | 18427 | [18427-stellar-track.json](./18427-stellar-track.json) |
+| Stellar Trader | 375747 | [375747-stellar-trader.json](./375747-stellar-trader.json) |
 | Stellar Transports | 252474 | [252474-stellar-transports.json](./252474-stellar-transports.json) |
 | Stellar Tunes | 265289 | [265289-stellar-tunes.json](./265289-stellar-tunes.json) |
 | Stellar Valkyrie | 165072 | [165072-stellar-valkyrie.json](./165072-stellar-valkyrie.json) |
@@ -30007,6 +30013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Racer | 19770 | [19770-street-racer.json](./19770-street-racer.json) |
 | Street Racer | 307078 | [307078-street-racer.json](./307078-street-racer.json) |
 | Street Racer | 49118 | [49118-street-racer.json](./49118-street-racer.json) |
+| Street Racer Collection | 375682 | [375682-street-racer-collection.json](./375682-street-racer-collection.json) |
 | Street Racer Europe | 391905 | [391905-street-racer-europe.json](./391905-street-racer-europe.json) |
 | Street Racer Underground | 139819 | [139819-street-racer-underground.json](./139819-street-racer-underground.json) |
 | Street Racer X Ace of Love | 206198 | [206198-street-racer-x-ace-of-love.json](./206198-street-racer-x-ace-of-love.json) |
