@@ -6658,6 +6658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to College Age | 355226 | [355226-return-to-college-age.json](./355226-return-to-college-age.json) |
 | Return to Company Oziisan | 379853 | [379853-return-to-company-oziisan.json](./379853-return-to-company-oziisan.json) |
 | Return to Cube Planet | 118651 | [118651-return-to-cube-planet.json](./118651-return-to-cube-planet.json) |
+| Return to Dark Castle | 392571 | [392571-return-to-dark-castle.json](./392571-return-to-dark-castle.json) |
 | Return to Dark Castle | 72902 | [72902-return-to-dark-castle.json](./72902-return-to-dark-castle.json) |
 | Return to Ditch Day | 10796 | [10796-return-to-ditch-day.json](./10796-return-to-ditch-day.json) |
 | Return to Dust | 271737 | [271737-return-to-dust.json](./271737-return-to-dust.json) |
@@ -9424,6 +9425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robomancer | 181183 | [181183-robomancer.json](./181183-robomancer.json) |
 | Robomancer_000 | 184809 | [184809-robomancer-000.json](./184809-robomancer-000.json) |
 | Robomania | 261987 | [261987-robomania.json](./261987-robomania.json) |
+| Robomaro | 392573 | [392573-robomaro.json](./392573-robomaro.json) |
 | RoboMatch | 29360 | [29360-robomatch.json](./29360-robomatch.json) |
 | RoboMaze II: The Lobby | 70282 | [70282-robomaze-ii-the-lobby.json](./70282-robomaze-ii-the-lobby.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
@@ -10936,6 +10938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roll the World | 137347 | [137347-roll-the-world.json](./137347-roll-the-world.json) |
 | Roll to Ruin | 418256 | [418256-roll-to-ruin.json](./418256-roll-to-ruin.json) |
 | Roll to the Top | 108194 | [108194-roll-to-the-top.json](./108194-roll-to-the-top.json) |
+| Roll Together | 392828 | [392828-roll-together.json](./392828-roll-together.json) |
 | Roll Turtle | 208577 | [208577-roll-turtle.json](./208577-roll-turtle.json) |
 | Roll-a-word | 241571 | [241571-roll-a-word.json](./241571-roll-a-word.json) |
 | Roll-chan L | 269884 | [269884-roll-chan-l.json](./269884-roll-chan-l.json) |
@@ -13542,6 +13545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushaug: Feline Warfare | 151293 | [151293-rushaug-feline-warfare.json](./151293-rushaug-feline-warfare.json) |
 | Rushaway | 211790 | [211790-rushaway.json](./211790-rushaway.json) |
 | Rushberry Mercs | 132552 | [132552-rushberry-mercs.json](./132552-rushberry-mercs.json) |
+| Rushcraft | 392544 | [392544-rushcraft.json](./392544-rushcraft.json) |
 | Rushcremental | 381635 | [381635-rushcremental.json](./381635-rushcremental.json) |
 | Rushdown Revolt | 138604 | [138604-rushdown-revolt.json](./138604-rushdown-revolt.json) |
 | Rushdown Revolt: Nemesis Afi & Galu | 311776 | [311776-rushdown-revolt-nemesis-afi-and-galu.json](./311776-rushdown-revolt-nemesis-afi-and-galu.json) |
