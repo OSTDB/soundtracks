@@ -3447,6 +3447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Chronicles | 163985 | [163985-empire-chronicles.json](./163985-empire-chronicles.json) |
 | Empire City Simulator | 326446 | [326446-empire-city-simulator.json](./326446-empire-city-simulator.json) |
 | Empire Classic | 11395 | [11395-empire-classic.json](./11395-empire-classic.json) |
+| Empire Deck | 387837 | [387837-empire-deck.json](./387837-empire-deck.json) |
 | Empire Defenders | 129630 | [129630-empire-defenders.json](./129630-empire-defenders.json) |
 | Empire Deluxe | 70251 | [70251-empire-deluxe.json](./70251-empire-deluxe.json) |
 | Empire Deluxe: Combined Edition | 75326 | [75326-empire-deluxe-combined-edition.json](./75326-empire-deluxe-combined-edition.json) |
