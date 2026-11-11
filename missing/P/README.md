@@ -7433,6 +7433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Williams Pinball Volume 6 | 247697 | [247697-pinball-fx-williams-pinball-volume-6.json](./247697-pinball-fx-williams-pinball-volume-6.json) |
 | Pinball FX: Williams Pinball Volume 7 | 271828 | [271828-pinball-fx-williams-pinball-volume-7.json](./271828-pinball-fx-williams-pinball-volume-7.json) |
 | Pinball FX: Williams Pinball Volume 8 | 325528 | [325528-pinball-fx-williams-pinball-volume-8.json](./325528-pinball-fx-williams-pinball-volume-8.json) |
+| Pinball FX: Williams Pinball Volume 9 | 355800 | [355800-pinball-fx-williams-pinball-volume-9.json](./355800-pinball-fx-williams-pinball-volume-9.json) |
 | Pinball FX: World War Z Pinball | 239016 | [239016-pinball-fx-world-war-z-pinball.json](./239016-pinball-fx-world-war-z-pinball.json) |
 | Pinball FX: Wrath of the Elder Gods | 238936 | [238936-pinball-fx-wrath-of-the-elder-gods.json](./238936-pinball-fx-wrath-of-the-elder-gods.json) |
 | Pinball FX: Zen Originals Collection 1 | 239015 | [239015-pinball-fx-zen-originals-collection-1.json](./239015-pinball-fx-zen-originals-collection-1.json) |
@@ -11486,6 +11487,28 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle Card e+ Emerald: 19-A038 - Gentleman Ed | 355763 | [355763-pokemon-battle-card-e-emerald-19-a038-gentleman-ed.json](./355763-pokemon-battle-card-e-emerald-19-a038-gentleman-ed.json) |
 | Pokémon Battle Card e+ Emerald: 19-A039 - Pokémon Breeder Kaiji | 355764 | [355764-pokemon-battle-card-e-emerald-19-a039-pokemon-breeder-kaiji.json](./355764-pokemon-battle-card-e-emerald-19-a039-pokemon-breeder-kaiji.json) |
 | Pokémon Battle Card e+ Emerald: 19-A040 - Mushi Tori Shounen Kiichi | 355765 | [355765-pokemon-battle-card-e-emerald-19-a040-mushi-tori-shounen-kiichi.json](./355765-pokemon-battle-card-e-emerald-19-a040-mushi-tori-shounen-kiichi.json) |
+| Pokémon Battle Card e+ Emerald: 19-A043 - Parasol Onee-san Isuzu | 355768 | [355768-pokemon-battle-card-e-emerald-19-a043-parasol-onee-san-isuzu.json](./355768-pokemon-battle-card-e-emerald-19-a043-parasol-onee-san-isuzu.json) |
+| Pokémon Battle Card e+ Emerald: 19-A044 - Pokémon Collector Etsuji | 355769 | [355769-pokemon-battle-card-e-emerald-19-a044-pokemon-collector-etsuji.json](./355769-pokemon-battle-card-e-emerald-19-a044-pokemon-collector-etsuji.json) |
+| Pokémon Battle Card e+ Emerald: 19-A045 - Obocchama Fumito | 355770 | [355770-pokemon-battle-card-e-emerald-19-a045-obocchama-fumito.json](./355770-pokemon-battle-card-e-emerald-19-a045-obocchama-fumito.json) |
+| Pokémon Battle Card e+ Emerald: 19-A046 - Ojou-sama Kinuka | 355771 | [355771-pokemon-battle-card-e-emerald-19-a046-ojou-sama-kinuka.json](./355771-pokemon-battle-card-e-emerald-19-a046-ojou-sama-kinuka.json) |
+| Pokémon Battle Card e+ Emerald: 19-A047 - Daisuki Club Kazufumi | 355772 | [355772-pokemon-battle-card-e-emerald-19-a047-daisuki-club-kazufumi.json](./355772-pokemon-battle-card-e-emerald-19-a047-daisuki-club-kazufumi.json) |
+| Pokémon Battle Card e+ Emerald: 19-A048 - Daisuki Club Fumiyo | 355773 | [355773-pokemon-battle-card-e-emerald-19-a048-daisuki-club-fumiyo.json](./355773-pokemon-battle-card-e-emerald-19-a048-daisuki-club-fumiyo.json) |
+| Pokémon Battle Card e+ Emerald: 19-A049 - Campfire Raizou | 355774 | [355774-pokemon-battle-card-e-emerald-19-a049-campfire-raizou.json](./355774-pokemon-battle-card-e-emerald-19-a049-campfire-raizou.json) |
+| Pokémon Battle Card e+ Emerald: 19-A050 - Pokémon Ranger Isayo | 355775 | [355775-pokemon-battle-card-e-emerald-19-a050-pokemon-ranger-isayo.json](./355775-pokemon-battle-card-e-emerald-19-a050-pokemon-ranger-isayo.json) |
+| Pokémon Battle Card e+ Emerald: 19-A051 - Iseki Mania Ikkaku | 355776 | [355776-pokemon-battle-card-e-emerald-19-a051-iseki-mania-ikkaku.json](./355776-pokemon-battle-card-e-emerald-19-a051-iseki-mania-ikkaku.json) |
+| Pokémon Battle Card e+ Emerald: 19-A052 - Ukiwa Boy Kiyoaki | 355777 | [355777-pokemon-battle-card-e-emerald-19-a052-ukiwa-boy-kiyoaki.json](./355777-pokemon-battle-card-e-emerald-19-a052-ukiwa-boy-kiyoaki.json) |
+| Pokémon Battle Card e+ Emerald: 19-A053 - Tanpan Kozou Kengo | 355778 | [355778-pokemon-battle-card-e-emerald-19-a053-tanpan-kozou-kengo.json](./355778-pokemon-battle-card-e-emerald-19-a053-tanpan-kozou-kengo.json) |
+| Pokémon Battle Card e+ Emerald: 19-A054 - Ukiwa Girl Aika | 355779 | [355779-pokemon-battle-card-e-emerald-19-a054-ukiwa-girl-aika.json](./355779-pokemon-battle-card-e-emerald-19-a054-ukiwa-girl-aika.json) |
+| Pokémon Battle Card e+ Emerald: 19-A055 - Triathlete Chisae | 355780 | [355780-pokemon-battle-card-e-emerald-19-a055-triathlete-chisae.json](./355780-pokemon-battle-card-e-emerald-19-a055-triathlete-chisae.json) |
+| Pokémon Battle Card e+ Emerald: 19-A056 - Tori Tsukai Yuuma | 355781 | [355781-pokemon-battle-card-e-emerald-19-a056-tori-tsukai-yuuma.json](./355781-pokemon-battle-card-e-emerald-19-a056-tori-tsukai-yuuma.json) |
+| Pokémon Battle Card e+ Emerald: 19-A057 - Elite Trainer Kaname | 355782 | [355782-pokemon-battle-card-e-emerald-19-a057-elite-trainer-kaname.json](./355782-pokemon-battle-card-e-emerald-19-a057-elite-trainer-kaname.json) |
+| Pokémon Battle Card e+ Emerald: 19-A058 - Psychicher Kanoe | 355783 | [355783-pokemon-battle-card-e-emerald-19-a058-psychicher-kanoe.json](./355783-pokemon-battle-card-e-emerald-19-a058-psychicher-kanoe.json) |
+| Pokémon Battle Card e+ Emerald: 19-A059 - Elite Trainer Naoyuki | 355784 | [355784-pokemon-battle-card-e-emerald-19-a059-elite-trainer-naoyuki.json](./355784-pokemon-battle-card-e-emerald-19-a059-elite-trainer-naoyuki.json) |
+| Pokémon Battle Card e+ Emerald: 19-A060 - Elite Trainer Nazuna | 355785 | [355785-pokemon-battle-card-e-emerald-19-a060-elite-trainer-nazuna.json](./355785-pokemon-battle-card-e-emerald-19-a060-elite-trainer-nazuna.json) |
+| Pokémon Battle Card e+ Emerald: 19-A061 - Tatsujin Kichihei | 355786 | [355786-pokemon-battle-card-e-emerald-19-a061-tatsujin-kichihei.json](./355786-pokemon-battle-card-e-emerald-19-a061-tatsujin-kichihei.json) |
+| Pokémon Battle Card e+ Emerald: 19-A062 - Tatsujin Kiyako | 355787 | [355787-pokemon-battle-card-e-emerald-19-a062-tatsujin-kiyako.json](./355787-pokemon-battle-card-e-emerald-19-a062-tatsujin-kiyako.json) |
+| Pokémon Battle Card e+ Emerald: 19-A063 - Pokémon Ranger Chigusa | 355788 | [355788-pokemon-battle-card-e-emerald-19-a063-pokemon-ranger-chigusa.json](./355788-pokemon-battle-card-e-emerald-19-a063-pokemon-ranger-chigusa.json) |
+| Pokémon Battle Card e+ Emerald: 19-A064 - Pokémon Ranger Taito | 355789 | [355789-pokemon-battle-card-e-emerald-19-a064-pokemon-ranger-taito.json](./355789-pokemon-battle-card-e-emerald-19-a064-pokemon-ranger-taito.json) |
 | Pokémon Battle Card e+ Emerald: 19-P001 - Camp Boy Soushi | 355722 | [355722-pokemon-battle-card-e-emerald-19-p001-camp-boy-soushi.json](./355722-pokemon-battle-card-e-emerald-19-p001-camp-boy-soushi.json) |
 | Pokémon Battle Card e+ Emerald: 19-P002 - Juku Kaeri Toshinori | 355723 | [355723-pokemon-battle-card-e-emerald-19-p002-juku-kaeri-toshinori.json](./355723-pokemon-battle-card-e-emerald-19-p002-juku-kaeri-toshinori.json) |
 | Pokémon Battle Card e+ FireRed & LeafGreen: 15-A001 - Tanpan Kozou Akira | 355679 | [355679-pokemon-battle-card-e-firered-and-leafgreen-15-a001-tanpan-kozou-akira.json](./355679-pokemon-battle-card-e-firered-and-leafgreen-15-a001-tanpan-kozou-akira.json) |
@@ -11697,10 +11720,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Celebrations | 354397 | [354397-pokemon-celebrations.json](./354397-pokemon-celebrations.json) |
 | Pokémon Cerulean Aquarium | 384837 | [384837-pokemon-cerulean-aquarium.json](./384837-pokemon-cerulean-aquarium.json) |
 | Pokémon Champions | 333568 | [333568-pokemon-champions.json](./333568-pokemon-champions.json) |
+| Pokémon Channel | 355808 | [355808-pokemon-channel.json](./355808-pokemon-channel.json) |
+| Pokémon Channel | 355811 | [355811-pokemon-channel.json](./355811-pokemon-channel.json) |
+| Pokémon Channel Bangumi Kakuchou Pack | 355809 | [355809-pokemon-channel-bangumi-kakuchou-pack.json](./355809-pokemon-channel-bangumi-kakuchou-pack.json) |
 | Pokémon Channel-e: Line Art Card - Jirachi | 354533 | [354533-pokemon-channel-e-line-art-card-jirachi.json](./354533-pokemon-channel-e-line-art-card-jirachi.json) |
 | Pokémon Channel-e: Line Art Card - The Kyogre Constellation | 354534 | [354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json](./354534-pokemon-channel-e-line-art-card-the-kyogre-constellation.json) |
 | Pokémon Channel-e: Line Art Card - The Pikachu Star | 354532 | [354532-pokemon-channel-e-line-art-card-the-pikachu-star.json](./354532-pokemon-channel-e-line-art-card-the-pikachu-star.json) |
 | Pokémon Channel-e: Paint Pattern Card - Poké A La Card | 351674 | [351674-pokemon-channel-e-paint-pattern-card-poke-a-la-card.json](./351674-pokemon-channel-e-paint-pattern-card-poke-a-la-card.json) |
+| Pokémon Channel: Pikachu to Issho! | 355810 | [355810-pokemon-channel-pikachu-to-issho.json](./355810-pokemon-channel-pikachu-to-issho.json) |
 | Pokémon Chaos Black | 222610 | [222610-pokemon-chaos-black.json](./222610-pokemon-chaos-black.json) |
 | Pokémon Chaos in Vesita | 327701 | [327701-pokemon-chaos-in-vesita.json](./327701-pokemon-chaos-in-vesita.json) |
 | Pokémon Chasm Crosser | 55011 | [55011-pokemon-chasm-crosser.json](./55011-pokemon-chasm-crosser.json) |
@@ -11711,6 +11738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Cock Version | 141480 | [141480-pokemon-cock-version.json](./141480-pokemon-cock-version.json) |
 | Pokémon Coda | 360178 | [360178-pokemon-coda.json](./360178-pokemon-coda.json) |
 | Pokémon Colosseum | 2725 | [2725-pokemon-colosseum.json](./2725-pokemon-colosseum.json) |
+| Pokémon Colosseum Bonus Disc | 355812 | [355812-pokemon-colosseum-bonus-disc.json](./355812-pokemon-colosseum-bonus-disc.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-A001 - Chaser no Draw | 355468 | [355468-pokemon-colosseum-double-battle-card-e-13-a001-chaser-no-draw.json](./355468-pokemon-colosseum-double-battle-card-e-13-a001-chaser-no-draw.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-A002 - Hogaraka Ojii-san no Yamon | 355472 | [355472-pokemon-colosseum-double-battle-card-e-13-a002-hogaraka-ojii-san-no-yamon.json](./355472-pokemon-colosseum-double-battle-card-e-13-a002-hogaraka-ojii-san-no-yamon.json) |
 | Pokémon Colosseum Double Battle Card e+: 13-A003 - Rider no Hipp | 355473 | [355473-pokemon-colosseum-double-battle-card-e-13-a003-rider-no-hipp.json](./355473-pokemon-colosseum-double-battle-card-e-13-a003-rider-no-hipp.json) |
@@ -12030,6 +12058,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pinball Generations | 259768 | [259768-pokemon-pinball-generations.json](./259768-pokemon-pinball-generations.json) |
 | Pokémon Pinball Mini | 66030 | [66030-pokemon-pinball-mini.json](./66030-pokemon-pinball-mini.json) |
 | Pokémon Pinball: Ruby & Sapphire | 4069 | [4069-pokemon-pinball-ruby-and-sapphire.json](./4069-pokemon-pinball-ruby-and-sapphire.json) |
+| Pokémon Pinball: Ruby & Sapphire Card e+ - 09-A001: Bonus-dai Card | 355795 | [355795-pokemon-pinball-ruby-and-sapphire-card-e-09-a001-bonus-dai-card.json](./355795-pokemon-pinball-ruby-and-sapphire-card-e-09-a001-bonus-dai-card.json) |
+| Pokémon Pinball: Ruby & Sapphire Card e+ - 09-A002: Tokubetsu Shutsuen Get Card | 355796 | [355796-pokemon-pinball-ruby-and-sapphire-card-e-09-a002-tokubetsu-shutsuen-get-card.json](./355796-pokemon-pinball-ruby-and-sapphire-card-e-09-a002-tokubetsu-shutsuen-get-card.json) |
+| Pokémon Pinball: Ruby & Sapphire Card e+ - 09-A003: Iseki Area Card | 355797 | [355797-pokemon-pinball-ruby-and-sapphire-card-e-09-a003-iseki-area-card.json](./355797-pokemon-pinball-ruby-and-sapphire-card-e-09-a003-iseki-area-card.json) |
+| Pokémon Pinball: Ruby & Sapphire Card e+ - 09-A004: DX Mode Card | 355798 | [355798-pokemon-pinball-ruby-and-sapphire-card-e-09-a004-dx-mode-card.json](./355798-pokemon-pinball-ruby-and-sapphire-card-e-09-a004-dx-mode-card.json) |
+| Pokémon Pinball: Ruby & Sapphire Card e+ - 09-A005: Shutsugen Ritsu Up Card | 355799 | [355799-pokemon-pinball-ruby-and-sapphire-card-e-09-a005-shutsugen-ritsu-up-card.json](./355799-pokemon-pinball-ruby-and-sapphire-card-e-09-a005-shutsugen-ritsu-up-card.json) |
 | Pokémon Pink | 231706 | [231706-pokemon-pink.json](./231706-pokemon-pink.json) |
 | Pokémon Pink Version | 141333 | [141333-pokemon-pink-version.json](./141333-pokemon-pink-version.json) |
 | Pokémon Pisces Version | 313075 | [313075-pokemon-pisces-version.json](./313075-pokemon-pisces-version.json) |
