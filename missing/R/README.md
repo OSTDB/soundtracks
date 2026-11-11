@@ -1092,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidborn | 212178 | [212178-raidborn.json](./212178-raidborn.json) |
 | Raidborn: Founder's Pack | 298337 | [298337-raidborn-founders-pack.json](./298337-raidborn-founders-pack.json) |
 | Raidbound | 372957 | [372957-raidbound.json](./372957-raidbound.json) |
+| Raide | 318238 | [318238-raide.json](./318238-raide.json) |
 | Raiden | 6841 | [6841-raiden.json](./6841-raiden.json) |
 | Raiden DX | 8857 | [8857-raiden-dx.json](./8857-raiden-dx.json) |
 | Raiden Fighters | 8858 | [8858-raiden-fighters.json](./8858-raiden-fighters.json) |
