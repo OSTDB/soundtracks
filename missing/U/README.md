@@ -1644,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Tread | 374879 | [374879-undead-tread.json](./374879-undead-tread.json) |
 | Undead Under Night Rain | 199267 | [199267-undead-under-night-rain.json](./199267-undead-under-night-rain.json) |
 | Undead Uprising | 270871 | [270871-undead-uprising.json](./270871-undead-uprising.json) |
+| Undead Vendetta | 322309 | [322309-undead-vendetta.json](./322309-undead-vendetta.json) |
 | Undead Village | 244375 | [244375-undead-village.json](./244375-undead-village.json) |
 | Undead vs. Plants | 18120 | [18120-undead-vs-plants.json](./18120-undead-vs-plants.json) |
 | Undead Walking Experiment | 106724 | [106724-undead-walking-experiment.json](./106724-undead-walking-experiment.json) |
@@ -2000,6 +2001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undertale Yellow: Shades of Justice | 351780 | [351780-undertale-yellow-shades-of-justice.json](./351780-undertale-yellow-shades-of-justice.json) |
 | Undertale: Act to Flirt | 317771 | [317771-undertale-act-to-flirt.json](./317771-undertale-act-to-flirt.json) |
 | Undertale: Bits and Pieces | 213254 | [213254-undertale-bits-and-pieces.json](./213254-undertale-bits-and-pieces.json) |
+| Undertale: Bits and Pieces Together | 322297 | [322297-undertale-bits-and-pieces-together.json](./322297-undertale-bits-and-pieces-together.json) |
 | Undertale: Call of the Void | 330051 | [330051-undertale-call-of-the-void.json](./330051-undertale-call-of-the-void.json) |
 | Undertale: Call of the Void - Placek's Take | 329609 | [329609-undertale-call-of-the-void-placeks-take.json](./329609-undertale-call-of-the-void-placeks-take.json) |
 | Undertale: Chara Boss Fight | 283766 | [283766-undertale-chara-boss-fight.json](./283766-undertale-chara-boss-fight.json) |
