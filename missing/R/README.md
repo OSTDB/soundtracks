@@ -9805,6 +9805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock City Empire | 333987 | [333987-rock-city-empire.json](./333987-rock-city-empire.json) |
 | Rock Clicker | 373841 | [373841-rock-clicker.json](./373841-rock-clicker.json) |
 | Rock Climber | 40421 | [40421-rock-climber.json](./40421-rock-climber.json) |
+| Rock Climbing: Mitouhou he no Chousen - Alps-hen | 386624 | [386624-rock-climbing-mitouhou-he-no-chousen-alps-hen.json](./386624-rock-climbing-mitouhou-he-no-chousen-alps-hen.json) |
 | Rock Climbing? | 288790 | [288790-rock-climbing.json](./288790-rock-climbing.json) |
 | Rock Crawler: Offroad Driving | 95297 | [95297-rock-crawler-offroad-driving.json](./95297-rock-crawler-offroad-driving.json) |
 | Rock Crusher | 333032 | [333032-rock-crusher.json](./333032-rock-crusher.json) |
