@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeah! Fighting Girl | 216804 | [216804-yeah-fighting-girl.json](./216804-yeah-fighting-girl.json) |
 | Yeah! Wow! Hey! | 272713 | [272713-yeah-wow-hey.json](./272713-yeah-wow-hey.json) |
 | Yeah! You Want "Those Games", Right? So Here You Go! Now, Let's See You Clear Them! | 257267 | [257267-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them.json](./257267-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them.json) |
+| Yeah! You Want "Those Games", Right? So Here You Go! Now, Let's See You Clear Them! 1+2 | 328718 | [328718-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them-1-2.json](./328718-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them-1-2.json) |
 | Yeah! You Want "Those Games", Right? So Here You Go! Now, Let's See You Clear Them! 2 | 308732 | [308732-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them-2.json](./308732-yeah-you-want-those-games-right-so-here-you-go-now-lets-see-you-clear-them-2.json) |
 | Year 0 | 62404 | [62404-year-0.json](./62404-year-0.json) |
 | Year 2088 | 276094 | [276094-year-2088.json](./276094-year-2088.json) |
