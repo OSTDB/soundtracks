@@ -9484,6 +9484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dies Irae: Amantes Amentes | 37018 | [37018-dies-irae-amantes-amentes.json](./37018-dies-irae-amantes-amentes.json) |
 | Dies Irae: Amantes Amentes - Act I: Omnia Vincit Amor (Kasumi & Marie Scenario) | 174420 | [174420-dies-irae-amantes-amentes-act-i-omnia-vincit-amor-kasumi-and-marie-scenario.json](./174420-dies-irae-amantes-amentes-act-i-omnia-vincit-amor-kasumi-and-marie-scenario.json) |
 | Dies Irae: Amantes Amentes - Act II: Nihil Difficile Amanti (Kei & Rea Scenario) | 174536 | [174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json](./174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json) |
+| Dies irae: Amantes Amentes - HD Animation Anniversary | 392545 | [392545-dies-irae-amantes-amentes-hd-animation-anniversary.json](./392545-dies-irae-amantes-amentes-hd-animation-anniversary.json) |
 | Dies irae: Amantes Amentes for Nintendo Switch | 105059 | [105059-dies-irae-amantes-amentes-for-nintendo-switch.json](./105059-dies-irae-amantes-amentes-for-nintendo-switch.json) |
 | Dies Irae: Interview with Kaziklu Bey | 115243 | [115243-dies-irae-interview-with-kaziklu-bey.json](./115243-dies-irae-interview-with-kaziklu-bey.json) |
 | Dies irae: Pantheon | 105060 | [105060-dies-irae-pantheon.json](./105060-dies-irae-pantheon.json) |
@@ -16619,6 +16620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Something 2 | 38913 | [38913-draw-something-2.json](./38913-draw-something-2.json) |
 | Draw Souls | 54488 | [54488-draw-souls.json](./54488-draw-souls.json) |
 | Draw Steel | 396612 | [396612-draw-steel.json](./396612-draw-steel.json) |
+| Draw Story 2 | 392562 | [392562-draw-story-2.json](./392562-draw-story-2.json) |
 | Draw Stuff | 65043 | [65043-draw-stuff.json](./65043-draw-stuff.json) |
 | Draw Sword | 358926 | [358926-draw-sword.json](./358926-draw-sword.json) |
 | Draw Sword | 359540 | [359540-draw-sword.json](./359540-draw-sword.json) |
