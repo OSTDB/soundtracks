@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T23:35:56.851Z",
-  "total_soundtracks": 3181,
+  "generated_at": "2026-11-11T23:40:52.248Z",
+  "total_soundtracks": 3182,
   "games": [
     {
       "igdb_id": 7522,
@@ -4073,6 +4073,20 @@
         {
           "album_name": "Bit Heroes Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5XWAi3b51Iy7hV24mFQYKx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 15280,
+      "game_name": "Bit.Trip Core",
+      "game_url": "https://ostdb.net/games/bit-trip-core",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d564014e37ad9d917bc68ea8",
+      "albums": [
+        {
+          "album_name": "Bit.Trip Core Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6lmq3RC6LiqbEZ7IOXSQfq",
           "apple_music_url": "",
           "album_link_url": ""
         }
