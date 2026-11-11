@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icarus: Art Deco Furniture Pack | 276231 | [276231-icarus-art-deco-furniture-pack.json](./276231-icarus-art-deco-furniture-pack.json) |
 | Icarus: Cactus Outpost | 262455 | [262455-icarus-cactus-outpost.json](./262455-icarus-cactus-outpost.json) |
 | Icarus: Climb to Olympus | 329581 | [329581-icarus-climb-to-olympus.json](./329581-icarus-climb-to-olympus.json) |
+| Icarus: Console Edition | 375108 | [375108-icarus-console-edition.json](./375108-icarus-console-edition.json) |
 | Icarus: Creature Comforts Pack | 293434 | [293434-icarus-creature-comforts-pack.json](./293434-icarus-creature-comforts-pack.json) |
 | Icarus: Everbark Outpost | 262459 | [262459-icarus-everbark-outpost.json](./262459-icarus-everbark-outpost.json) |
 | Icarus: Great Hunts | 348301 | [348301-icarus-great-hunts.json](./348301-icarus-great-hunts.json) |
@@ -6048,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Under Construction | 403627 | [403627-iq-under-construction.json](./403627-iq-under-construction.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
 | Iquarium | 80169 | [80169-iquarium.json](./80169-iquarium.json) |
+| IQuarters | 375110 | [375110-iquarters.json](./375110-iquarters.json) |
 | iQuest Math: Grade 5 | 318741 | [318741-iquest-math-grade-5.json](./318741-iquest-math-grade-5.json) |
 | iQuest Math: Grades 6-8 | 318742 | [318742-iquest-math-grades-6-8.json](./318742-iquest-math-grades-6-8.json) |
 | iQuest Science: Grade 5 | 318743 | [318743-iquest-science-grade-5.json](./318743-iquest-science-grade-5.json) |
@@ -7400,6 +7402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Izumi Jiken File Vol. 3 - Yujuku-hen | 292113 | [292113-izumi-jiken-file-vol-3-yujuku-hen.json](./292113-izumi-jiken-file-vol-3-yujuku-hen.json) |
 | Izumo | 58168 | [58168-izumo.json](./58168-izumo.json) |
 | Izumo 0 | 153684 | [153684-izumo-0.json](./153684-izumo-0.json) |
+| Izumo 2 | 375050 | [375050-izumo-2.json](./375050-izumo-2.json) |
 | Izumo 3 | 401172 | [401172-izumo-3.json](./401172-izumo-3.json) |
 | Izumo 4 | 401173 | [401173-izumo-4.json](./401173-izumo-4.json) |
 | Izuna | 268840 | [268840-izuna.json](./268840-izuna.json) |
