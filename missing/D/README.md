@@ -20686,6 +20686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dystopian Pet Simulator | 389824 | [389824-dystopian-pet-simulator.json](./389824-dystopian-pet-simulator.json) |
 | Dystopians | 211511 | [211511-dystopians.json](./211511-dystopians.json) |
 | Dystopicon | 163134 | [163134-dystopicon.json](./163134-dystopicon.json) |
+| Dystopika: B-Sides | 378697 | [378697-dystopika-b-sides.json](./378697-dystopika-b-sides.json) |
 | Dystopy | 30748 | [30748-dystopy.json](./30748-dystopy.json) |
 | Dystoria | 27387 | [27387-dystoria.json](./27387-dystoria.json) |
 | Dystropicana | 184188 | [184188-dystropicana.json](./184188-dystropicana.json) |
