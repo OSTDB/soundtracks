@@ -6925,6 +6925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the Sus | 177268 | [177268-revenge-of-the-sus.json](./177268-revenge-of-the-sus.json) |
 | Revenge of the Titans | 9588 | [9588-revenge-of-the-titans.json](./9588-revenge-of-the-titans.json) |
 | Revenge of the Toys | 209196 | [209196-revenge-of-the-toys.json](./209196-revenge-of-the-toys.json) |
+| Revenge of the Walrus | 322891 | [322891-revenge-of-the-walrus.json](./322891-revenge-of-the-walrus.json) |
 | Revenge of the Wounded Dragons | 21770 | [21770-revenge-of-the-wounded-dragons.json](./21770-revenge-of-the-wounded-dragons.json) |
 | Revenge of Trasmoz | 311953 | [311953-revenge-of-trasmoz.json](./311953-revenge-of-trasmoz.json) |
 | Revenge on Bad Guy | 220316 | [220316-revenge-on-bad-guy.json](./220316-revenge-on-bad-guy.json) |
@@ -8016,6 +8017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Right Side Up | 110006 | [110006-right-side-up.json](./110006-right-side-up.json) |
 | Right Swipes: Blast Date | 200735 | [200735-right-swipes-blast-date.json](./200735-right-swipes-blast-date.json) |
 | Right to Rule | 59753 | [59753-right-to-rule.json](./59753-right-to-rule.json) |
+| Right Turn | 322906 | [322906-right-turn.json](./322906-right-turn.json) |
 | Right Way | 157047 | [157047-right-way.json](./157047-right-way.json) |
 | Righteous Kill | 209161 | [209161-righteous-kill.json](./209161-righteous-kill.json) |
 | Righteous Mojo | 235651 | [235651-righteous-mojo.json](./235651-righteous-mojo.json) |
