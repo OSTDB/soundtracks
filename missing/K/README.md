@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kairo: Lore of the Magic | 317992 | [317992-kairo-lore-of-the-magic.json](./317992-kairo-lore-of-the-magic.json) |
 | Kairobotica | 61069 | [61069-kairobotica.json](./61069-kairobotica.json) |
 | Kairos | 229155 | [229155-kairos.json](./229155-kairos.json) |
+| Kairos | 388438 | [388438-kairos.json](./388438-kairos.json) |
 | Kairos | 411799 | [411799-kairos.json](./411799-kairos.json) |
 | Kairos'Light | 132235 | [132235-kairoslight.json](./132235-kairoslight.json) |
 | Kairos'Light: Vanilla | 322625 | [322625-kairoslight-vanilla.json](./322625-kairoslight-vanilla.json) |
@@ -2972,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5803,6 +5805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korokoro Post Nin | 92677 | [92677-korokoro-post-nin.json](./92677-korokoro-post-nin.json) |
 | Korolevskaya Noch | 327667 | [327667-korolevskaya-noch.json](./327667-korolevskaya-noch.json) |
 | Koromeke | 386768 | [386768-koromeke.json](./386768-koromeke.json) |
+| Koromi | 388452 | [388452-koromi.json](./388452-koromi.json) |
 | Korona:Nemesis | 121281 | [121281-korona-nemesis.json](./121281-korona-nemesis.json) |
 | KoroNeko | 262856 | [262856-koroneko.json](./262856-koroneko.json) |
 | Koropokkur in Love: A Little Fairy's Tale | 107769 | [107769-koropokkur-in-love-a-little-fairys-tale.json](./107769-koropokkur-in-love-a-little-fairys-tale.json) |
@@ -6756,6 +6759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoto Anomaly | 342108 | [342108-kyoto-anomaly.json](./342108-kyoto-anomaly.json) |
 | Kyoto Maiko Monogatari | 333558 | [333558-kyoto-maiko-monogatari.json](./333558-kyoto-maiko-monogatari.json) |
 | Kyoto Tanoji Quest | 30420 | [30420-kyoto-tanoji-quest.json](./30420-kyoto-tanoji-quest.json) |
+| Kyoto Xanadu: The Blooming Phantom | 388439 | [388439-kyoto-xanadu-the-blooming-phantom.json](./388439-kyoto-xanadu-the-blooming-phantom.json) |
 | Kyotokei | 85236 | [85236-kyotokei.json](./85236-kyotokei.json) |
 | Kyou Kara Maou!: Hajimari no Tabi | 200991 | [200991-kyou-kara-maou-hajimari-no-tabi.json](./200991-kyou-kara-maou-hajimari-no-tabi.json) |
 | Kyou Kara Maou!: Ore-sama Quest | 200801 | [200801-kyou-kara-maou-ore-sama-quest.json](./200801-kyou-kara-maou-ore-sama-quest.json) |
