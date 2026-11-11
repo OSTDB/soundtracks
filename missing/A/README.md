@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hoy Pirates Adventure | 86656 | [86656-a-hoy-pirates-adventure.json](./86656-a-hoy-pirates-adventure.json) |
 | A Human Haunting! | 306724 | [306724-a-human-haunting.json](./306724-a-human-haunting.json) |
 | A Hundred Kinds of Your Smile | 224846 | [224846-a-hundred-kinds-of-your-smile.json](./224846-a-hundred-kinds-of-your-smile.json) |
+| A Hundred Years of Love and Death | 359098 | [359098-a-hundred-years-of-love-and-death.json](./359098-a-hundred-years-of-love-and-death.json) |
 | A Hunt for the Fae Folk | 323628 | [323628-a-hunt-for-the-fae-folk.json](./323628-a-hunt-for-the-fae-folk.json) |
 | A Hunter's Day | 181198 | [181198-a-hunters-day.json](./181198-a-hunters-day.json) |
 | A Hunter's Tale | 303119 | [303119-a-hunters-tale.json](./303119-a-hunters-tale.json) |
@@ -11124,6 +11125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Redemption | 284512 | [284512-anime-redemption.json](./284512-anime-redemption.json) |
 | Anime Romance Boys Collection: 2 Game Bundle | 393763 | [393763-anime-romance-boys-collection-2-game-bundle.json](./393763-anime-romance-boys-collection-2-game-bundle.json) |
 | Anime RPG: Isekai Journey | 282156 | [282156-anime-rpg-isekai-journey.json](./282156-anime-rpg-isekai-journey.json) |
+| Anime Scary Teacher 3D | 359110 | [359110-anime-scary-teacher-3d.json](./359110-anime-scary-teacher-3d.json) |
 | Anime School Chase Sim | 301215 | [301215-anime-school-chase-sim.json](./301215-anime-school-chase-sim.json) |
 | Anime School Girl Dating Sim | 296758 | [296758-anime-school-girl-dating-sim.json](./296758-anime-school-girl-dating-sim.json) |
 | Anime School Girl Parkour 3D | 297671 | [297671-anime-school-girl-parkour-3d.json](./297671-anime-school-girl-parkour-3d.json) |
