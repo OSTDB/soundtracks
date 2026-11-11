@@ -1407,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Pump - Can you save them ALL? | 76069 | [76069-panic-pump-can-you-save-them-all.json](./76069-panic-pump-can-you-save-them-all.json) |
 | Panic Road | 268003 | [268003-panic-road.json](./268003-panic-road.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
+| Panic Room | 326871 | [326871-panic-room.json](./326871-panic-room.json) |
 | Panic Sell | 363132 | [363132-panic-sell.json](./363132-panic-sell.json) |
 | Panic Sell 2 | 422424 | [422424-panic-sell-2.json](./422424-panic-sell-2.json) |
 | Panic Space | 41371 | [41371-panic-space.json](./41371-panic-space.json) |
@@ -7231,6 +7232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 287542 | [287542-pinball.json](./287542-pinball.json) |
 | Pinball | 312266 | [312266-pinball.json](./312266-pinball.json) |
 | Pinball | 319529 | [319529-pinball.json](./319529-pinball.json) |
+| Pinball | 326866 | [326866-pinball.json](./326866-pinball.json) |
 | Pinball | 361379 | [361379-pinball.json](./361379-pinball.json) |
 | Pinball | 410874 | [410874-pinball.json](./410874-pinball.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
