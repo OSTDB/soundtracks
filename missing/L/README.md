@@ -2441,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play Chess with Fritz & Chesster | 323714 | [323714-learn-to-play-chess-with-fritz-and-chesster.json](./323714-learn-to-play-chess-with-fritz-and-chesster.json) |
 | Learn to Play Chess with Fritz and Chesster 2: Chess in the Black Castle | 77972 | [77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json](./77972-learn-to-play-chess-with-fritz-and-chesster-2-chess-in-the-black-castle.json) |
 | Learn to Play Vol. 1: Fruit Collect | 293365 | [293365-learn-to-play-vol-1-fruit-collect.json](./293365-learn-to-play-vol-1-fruit-collect.json) |
+| Learn to Play Vol. 10: Gravity Space Walk | 325785 | [325785-learn-to-play-vol-10-gravity-space-walk.json](./325785-learn-to-play-vol-10-gravity-space-walk.json) |
 | Learn to Play vol. 11: Drift Moto | 356504 | [356504-learn-to-play-vol-11-drift-moto.json](./356504-learn-to-play-vol-11-drift-moto.json) |
 | Learn to Play Vol. 2: A Simple Shooter | 299494 | [299494-learn-to-play-vol-2-a-simple-shooter.json](./299494-learn-to-play-vol-2-a-simple-shooter.json) |
 | Learn to Play Vol. 3: Mice Love Cheese | 305786 | [305786-learn-to-play-vol-3-mice-love-cheese.json](./305786-learn-to-play-vol-3-mice-love-cheese.json) |
@@ -2449,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn to Play Vol. 6: Labyrinth | 317449 | [317449-learn-to-play-vol-6-labyrinth.json](./317449-learn-to-play-vol-6-labyrinth.json) |
 | Learn to Play Vol. 7: Safe Journey | 317450 | [317450-learn-to-play-vol-7-safe-journey.json](./317450-learn-to-play-vol-7-safe-journey.json) |
 | Learn to Play vol. 8: Penalty Shootout | 322416 | [322416-learn-to-play-vol-8-penalty-shootout.json](./322416-learn-to-play-vol-8-penalty-shootout.json) |
+| Learn to Play Vol. 9: Santa's Sleigh Ride | 325783 | [325783-learn-to-play-vol-9-santas-sleigh-ride.json](./325783-learn-to-play-vol-9-santas-sleigh-ride.json) |
 | Learn to Play: Jungle Frog | 358660 | [358660-learn-to-play-jungle-frog.json](./358660-learn-to-play-jungle-frog.json) |
 | Learn to Play: Pumpkin Smash! | 375132 | [375132-learn-to-play-pumpkin-smash.json](./375132-learn-to-play-pumpkin-smash.json) |
 | Learn with Illustrations! English Prepositions 4-Choice Quiz | 399658 | [399658-learn-with-illustrations-english-prepositions-4-choice-quiz.json](./399658-learn-with-illustrations-english-prepositions-4-choice-quiz.json) |
