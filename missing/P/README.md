@@ -3784,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Classix | 79018 | [79018-pc-classix.json](./79018-pc-classix.json) |
 | PC Collection | 79443 | [79443-pc-collection.json](./79443-pc-collection.json) |
 | PC Creator: PC Building Simulator | 186329 | [186329-pc-creator-pc-building-simulator.json](./186329-pc-creator-pc-building-simulator.json) |
+| PC Cursed 98 | 372361 | [372361-pc-cursed-98.json](./372361-pc-cursed-98.json) |
 | PC Engine Best Collection: Tengai Makyou Collection | 62136 | [62136-pc-engine-best-collection-tengai-makyou-collection.json](./62136-pc-engine-best-collection-tengai-makyou-collection.json) |
 | PC Engine Game Box | 261908 | [261908-pc-engine-game-box.json](./261908-pc-engine-game-box.json) |
 | PC Engine Mini | 215423 | [215423-pc-engine-mini.json](./215423-pc-engine-mini.json) |
@@ -8012,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Dawn | 62414 | [62414-pirate-dawn.json](./62414-pirate-dawn.json) |
 | Pirate Defender | 176805 | [176805-pirate-defender.json](./176805-pirate-defender.json) |
 | Pirate Defense | 30604 | [30604-pirate-defense.json](./30604-pirate-defense.json) |
+| Pirate Den | 372376 | [372376-pirate-den.json](./372376-pirate-den.json) |
 | Pirate Doom | 140875 | [140875-pirate-doom.json](./140875-pirate-doom.json) |
 | Pirate Doom II | 298313 | [298313-pirate-doom-ii.json](./298313-pirate-doom-ii.json) |
 | Pirate Dragons | 217351 | [217351-pirate-dragons.json](./217351-pirate-dragons.json) |
@@ -16175,6 +16177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Process of Elimination | 216583 | [216583-process-of-elimination.json](./216583-process-of-elimination.json) |
 | Process of Elimination: Deluxe Edition | 216584 | [216584-process-of-elimination-deluxe-edition.json](./216584-process-of-elimination-deluxe-edition.json) |
 | Procession Engine | 413079 | [413079-procession-engine.json](./413079-procession-engine.json) |
+| Processor Dev Tycoon | 372378 | [372378-processor-dev-tycoon.json](./372378-processor-dev-tycoon.json) |
 | Processor Tycoon | 361407 | [361407-processor-tycoon.json](./361407-processor-tycoon.json) |
 | Procrabstination | 199216 | [199216-procrabstination.json](./199216-procrabstination.json) |
 | Procrastinaire: Solitairy Confinement | 179932 | [179932-procrastinaire-solitairy-confinement.json](./179932-procrastinaire-solitairy-confinement.json) |
