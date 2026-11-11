@@ -4050,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania 2 Remake | 323883 | [323883-castlevania-2-remake.json](./323883-castlevania-2-remake.json) |
 | Castlevania Chronicles | 19468 | [19468-castlevania-chronicles.json](./19468-castlevania-chronicles.json) |
 | Castlevania Chronicles II: Simon's Quest | 233564 | [233564-castlevania-chronicles-ii-simons-quest.json](./233564-castlevania-chronicles-ii-simons-quest.json) |
+| Castlevania Collections Bundle | 319328 | [319328-castlevania-collections-bundle.json](./319328-castlevania-collections-bundle.json) |
 | Castlevania Dominus Collection | 314944 | [314944-castlevania-dominus-collection.json](./314944-castlevania-dominus-collection.json) |
 | Castlevania Double Pack | 22575 | [22575-castlevania-double-pack.json](./22575-castlevania-double-pack.json) |
 | Castlevania II English Re-Translation (+Map) | 364173 | [364173-castlevania-ii-english-re-translation-map.json](./364173-castlevania-ii-english-re-translation-map.json) |
@@ -8906,6 +8907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma Chronicles | 194450 | [194450-chroma-chronicles.json](./194450-chroma-chronicles.json) |
 | Chroma Circuit | 223509 | [223509-chroma-circuit.json](./223509-chroma-circuit.json) |
 | Chroma Crew | 421389 | [421389-chroma-crew.json](./421389-chroma-crew.json) |
+| Chroma Cross | 319403 | [319403-chroma-cross.json](./319403-chroma-cross.json) |
 | Chroma Crush | 343955 | [343955-chroma-crush.json](./343955-chroma-crush.json) |
 | Chroma Deluxe: Sexy Hentai Girls | 368062 | [368062-chroma-deluxe-sexy-hentai-girls.json](./368062-chroma-deluxe-sexy-hentai-girls.json) |
 | Chroma Lab | 51382 | [51382-chroma-lab.json](./51382-chroma-lab.json) |
@@ -10440,6 +10442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash for Crust | 310042 | [310042-clash-for-crust.json](./310042-clash-for-crust.json) |
 | Clash For Dawn | 57986 | [57986-clash-for-dawn.json](./57986-clash-for-dawn.json) |
 | Clash Force | 72405 | [72405-clash-force.json](./72405-clash-force.json) |
+| Clash Force 2 | 319464 | [319464-clash-force-2.json](./319464-clash-force-2.json) |
 | Clash Heroes | 145547 | [145547-clash-heroes.json](./145547-clash-heroes.json) |
 | Clash II | 150930 | [150930-clash-ii.json](./150930-clash-ii.json) |
 | Clash King | 93954 | [93954-clash-king.json](./93954-clash-king.json) |
@@ -16507,6 +16510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Costa Capers | 13522 | [13522-costa-capers.json](./13522-costa-capers.json) |
 | Costa Verde Transport Department | 249204 | [249204-costa-verde-transport-department.json](./249204-costa-verde-transport-department.json) |
 | Costa's Classic Cosmic Pizzas | 156137 | [156137-costas-classic-cosmic-pizzas.json](./156137-costas-classic-cosmic-pizzas.json) |
+| Costcodle | 319471 | [319471-costcodle.json](./319471-costcodle.json) |
 | Costly Adventure | 247735 | [247735-costly-adventure.json](./247735-costly-adventure.json) |
 | Costrutto | 191266 | [191266-costrutto.json](./191266-costrutto.json) |
 | Costume Clash | 196953 | [196953-costume-clash.json](./196953-costume-clash.json) |
