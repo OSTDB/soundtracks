@@ -6550,6 +6550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delta | 13839 | [13839-delta.json](./13839-delta.json) |
 | Delta | 319816 | [319816-delta.json](./319816-delta.json) |
 | Delta 4: Terminal Protocol | 416726 | [416726-delta-4-terminal-protocol.json](./416726-delta-4-terminal-protocol.json) |
+| Delta 78 | 356333 | [356333-delta-78.json](./356333-delta-78.json) |
 | Delta Arm | 282751 | [282751-delta-arm.json](./282751-delta-arm.json) |
 | Delta Chase | 183339 | [183339-delta-chase.json](./183339-delta-chase.json) |
 | Delta Dash | 213621 | [213621-delta-dash.json](./213621-delta-dash.json) |
