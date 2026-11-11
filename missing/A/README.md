@@ -11470,6 +11470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalous Adventure | 309951 | [309951-anomalous-adventure.json](./309951-anomalous-adventure.json) |
 | Anomalous City | 250274 | [250274-anomalous-city.json](./250274-anomalous-city.json) |
 | Anomalous Cleaning Detail | 390898 | [390898-anomalous-cleaning-detail.json](./390898-anomalous-cleaning-detail.json) |
+| Anomalous Coffee Machine 2 | 359627 | [359627-anomalous-coffee-machine-2.json](./359627-anomalous-coffee-machine-2.json) |
 | Anomalous Crossing: Shibuya | 306408 | [306408-anomalous-crossing-shibuya.json](./306408-anomalous-crossing-shibuya.json) |
 | Anomalous Materials | 252095 | [252095-anomalous-materials.json](./252095-anomalous-materials.json) |
 | Anomalous Railroad Crossing | 348127 | [348127-anomalous-railroad-crossing.json](./348127-anomalous-railroad-crossing.json) |
