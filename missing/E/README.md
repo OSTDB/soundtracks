@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Star Trader PC-8801mkIISR | 314867 | [314867-eggconsole-star-trader-pc-8801mkiisr.json](./314867-eggconsole-star-trader-pc-8801mkiisr.json) |
 | Eggconsole Super Laydock Mission Striker MSX | 380840 | [380840-eggconsole-super-laydock-mission-striker-msx.json](./380840-eggconsole-super-laydock-mission-striker-msx.json) |
 | Eggconsole Super Tritorn MSX2 | 387663 | [387663-eggconsole-super-tritorn-msx2.json](./387663-eggconsole-super-tritorn-msx2.json) |
+| Eggconsole Super Zenon Gamma 5 PC-8801mkIISR | 334984 | [334984-eggconsole-super-zenon-gamma-5-pc-8801mkiisr.json](./334984-eggconsole-super-zenon-gamma-5-pc-8801mkiisr.json) |
 | Eggconsole Take the A-Train PC-8801 | 395655 | [395655-eggconsole-take-the-a-train-pc-8801.json](./395655-eggconsole-take-the-a-train-pc-8801.json) |
 | Eggconsole Templo Del Sol: Asteka II PC-8801 | 319319 | [319319-eggconsole-templo-del-sol-asteka-ii-pc-8801.json](./319319-eggconsole-templo-del-sol-asteka-ii-pc-8801.json) |
 | Eggconsole The Legend of Heroes III: "White Witch" Renewal PC-9801 | 413946 | [413946-eggconsole-the-legend-of-heroes-iii-white-witch-renewal-pc-9801.json](./413946-eggconsole-the-legend-of-heroes-iii-white-witch-renewal-pc-9801.json) |
