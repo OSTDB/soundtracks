@@ -2453,8 +2453,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maimai Green Plus | 330954 | [330954-maimai-green-plus.json](./330954-maimai-green-plus.json) |
 | Maimai Milk | 331127 | [331127-maimai-milk.json](./331127-maimai-milk.json) |
 | Maimai Milk Plus | 331132 | [331132-maimai-milk-plus.json](./331132-maimai-milk-plus.json) |
+| Maimai Murasaki | 331011 | [331011-maimai-murasaki.json](./331011-maimai-murasaki.json) |
+| Maimai Murasaki Plus | 331018 | [331018-maimai-murasaki-plus.json](./331018-maimai-murasaki-plus.json) |
 | Maimai Orange | 60814 | [60814-maimai-orange.json](./60814-maimai-orange.json) |
 | Maimai Orange Plus | 330970 | [330970-maimai-orange-plus.json](./330970-maimai-orange-plus.json) |
+| Maimai Pink | 330988 | [330988-maimai-pink.json](./330988-maimai-pink.json) |
+| Maimai Pink Plus | 330998 | [330998-maimai-pink-plus.json](./330998-maimai-pink-plus.json) |
 | Maimai Plus | 330948 | [330948-maimai-plus.json](./330948-maimai-plus.json) |
 | Maimaimai Goen | 300114 | [300114-maimaimai-goen.json](./300114-maimaimai-goen.json) |
 | Maimaimaigoen | 368082 | [368082-maimaimaigoen.json](./368082-maimaimaigoen.json) |
@@ -7254,6 +7258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechanixMind: IQ Puzzle Adventure | 275889 | [275889-mechanixmind-iq-puzzle-adventure.json](./275889-mechanixmind-iq-puzzle-adventure.json) |
 | Mechanization | 264590 | [264590-mechanization.json](./264590-mechanization.json) |
 | Mechanized Attack | 40357 | [40357-mechanized-attack.json](./40357-mechanized-attack.json) |
+| Mechanized Corps: Rebirth | 330985 | [330985-mechanized-corps-rebirth.json](./330985-mechanized-corps-rebirth.json) |
 | Mechanized Super Mario Bros. U | 314103 | [314103-mechanized-super-mario-bros-u.json](./314103-mechanized-super-mario-bros-u.json) |
 | Mechanode | 238757 | [238757-mechanode.json](./238757-mechanode.json) |
 | Mechanophagia | 287730 | [287730-mechanophagia.json](./287730-mechanophagia.json) |
@@ -13411,6 +13416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: The Wild Update | 222612 | [222612-minecraft-the-wild-update.json](./222612-minecraft-the-wild-update.json) |
 | Minecraft: The Wild Update | 223161 | [223161-minecraft-the-wild-update.json](./223161-minecraft-the-wild-update.json) |
 | Minecraft: The World Warrior | 276090 | [276090-minecraft-the-world-warrior.json](./276090-minecraft-the-world-warrior.json) |
+| Minecraft: Thomas and friends 3 in 1 Shampoo Hair and Body Wash Mod | 331017 | [331017-minecraft-thomas-and-friends-3-in-1-shampoo-hair-and-body-wash-mod.json](./331017-minecraft-thomas-and-friends-3-in-1-shampoo-hair-and-body-wash-mod.json) |
 | Minecraft: Time Capsule | 343905 | [343905-minecraft-time-capsule.json](./343905-minecraft-time-capsule.json) |
 | Minecraft: Tiny Takeover | 393595 | [393595-minecraft-tiny-takeover.json](./393595-minecraft-tiny-takeover.json) |
 | Minecraft: Toontown | 326036 | [326036-minecraft-toontown.json](./326036-minecraft-toontown.json) |
