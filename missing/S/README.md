@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Stars | 132662 | [132662-sakura-stars.json](./132662-sakura-stars.json) |
 | Sakura Street: Tycoon | 296786 | [296786-sakura-street-tycoon.json](./296786-sakura-street-tycoon.json) |
 | Sakura Succubus | 129707 | [129707-sakura-succubus.json](./129707-sakura-succubus.json) |
+| Sakura Succubus 10 | 389793 | [389793-sakura-succubus-10.json](./389793-sakura-succubus-10.json) |
 | Sakura Succubus 2 | 146837 | [146837-sakura-succubus-2.json](./146837-sakura-succubus-2.json) |
 | Sakura Succubus 3 | 152892 | [152892-sakura-succubus-3.json](./152892-sakura-succubus-3.json) |
 | Sakura Succubus 5 | 193262 | [193262-sakura-succubus-5.json](./193262-sakura-succubus-5.json) |
@@ -2347,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturnine | 110127 | [110127-saturnine.json](./110127-saturnine.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
 | SauceLore | 265541 | [265541-saucelore.json](./265541-saucelore.json) |
+| Saucepanhead I: Pangalactic Panic | 389806 | [389806-saucepanhead-i-pangalactic-panic.json](./389806-saucepanhead-i-pangalactic-panic.json) |
 | Saucer Arena | 348957 | [348957-saucer-arena.json](./348957-saucer-arena.json) |
 | Saucer Attack! | 59645 | [59645-saucer-attack.json](./59645-saucer-attack.json) |
 | Saucer Destruction 3: Armagedon | 337204 | [337204-saucer-destruction-3-armagedon.json](./337204-saucer-destruction-3-armagedon.json) |
@@ -15127,6 +15129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Games Stratajams | 85765 | [85765-smart-games-stratajams.json](./85765-smart-games-stratajams.json) |
 | Smart Games Word Puzzles #1 | 51376 | [51376-smart-games-word-puzzles-1.json](./51376-smart-games-word-puzzles-1.json) |
 | Smart Gecko | 117794 | [117794-smart-gecko.json](./117794-smart-gecko.json) |
+| Smart Girl: Christmas | 389779 | [389779-smart-girl-christmas.json](./389779-smart-girl-christmas.json) |
 | Smart Girl's Playhouse Mini | 21011 | [21011-smart-girls-playhouse-mini.json](./21011-smart-girls-playhouse-mini.json) |
 | Smart Girl's: Magical Book Club | 124047 | [124047-smart-girls-magical-book-club.json](./124047-smart-girls-magical-book-club.json) |
 | Smart Girl's: Party Games | 124046 | [124046-smart-girls-party-games.json](./124046-smart-girls-party-games.json) |
@@ -15570,6 +15573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurfs' Village | 234053 | [234053-smurfs-village.json](./234053-smurfs-village.json) |
 | Smurftastic Collection | 301211 | [301211-smurftastic-collection.json](./301211-smurftastic-collection.json) |
 | Smush | 119028 | [119028-smush.json](./119028-smush.json) |
+| Smush Bois | 389785 | [389785-smush-bois.json](./389785-smush-bois.json) |
 | Smush.TV | 111707 | [111707-smush-tv.json](./111707-smush-tv.json) |
 | Smuta | 294643 | [294643-smuta.json](./294643-smuta.json) |
 | Smuta: Inception | 204892 | [204892-smuta-inception.json](./204892-smuta-inception.json) |
@@ -37045,6 +37049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Girl Adventure | 103975 | [103975-sweet-girl-adventure.json](./103975-sweet-girl-adventure.json) |
 | Sweet Girl Adventure 2 | 106151 | [106151-sweet-girl-adventure-2.json](./106151-sweet-girl-adventure-2.json) |
 | Sweet Girl Gurumelo | 258992 | [258992-sweet-girl-gurumelo.json](./258992-sweet-girl-gurumelo.json) |
+| Sweet Girlfriend | 389782 | [389782-sweet-girlfriend.json](./389782-sweet-girlfriend.json) |
 | Sweet Girls Collection | 352294 | [352294-sweet-girls-collection.json](./352294-sweet-girls-collection.json) |
 | Sweet Glassirl | 339462 | [339462-sweet-glassirl.json](./339462-sweet-glassirl.json) |
 | Sweet God | 385611 | [385611-sweet-god.json](./385611-sweet-god.json) |
