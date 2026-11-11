@@ -1878,6 +1878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
 | Sanity Chase | 274274 | [274274-sanity-chase.json](./274274-sanity-chase.json) |
 | Sanity City | 192559 | [192559-sanity-city.json](./192559-sanity-city.json) |
+| Sanity Loops | 347960 | [347960-sanity-loops.json](./347960-sanity-loops.json) |
 | Sanity of Morris | 137638 | [137638-sanity-of-morris.json](./137638-sanity-of-morris.json) |
 | Sanity Protocol | 355029 | [355029-sanity-protocol.json](./355029-sanity-protocol.json) |
 | Sanity: Aiken's Artifact | 90142 | [90142-sanity-aikens-artifact.json](./90142-sanity-aikens-artifact.json) |
@@ -1952,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa Claws | 50224 | [50224-santa-claws.json](./50224-santa-claws.json) |
 | Santa Clicker Tycoon | 209630 | [209630-santa-clicker-tycoon.json](./209630-santa-clicker-tycoon.json) |
 | Santa Draw Ride | 243725 | [243725-santa-draw-ride.json](./243725-santa-draw-ride.json) |
+| Santa Elena | 348473 | [348473-santa-elena.json](./348473-santa-elena.json) |
 | Santa Factory | 85365 | [85365-santa-factory.json](./85365-santa-factory.json) |
 | Santa Fe Mysteries: Sacred Ground | 70296 | [70296-santa-fe-mysteries-sacred-ground.json](./70296-santa-fe-mysteries-sacred-ground.json) |
 | Santa Fe Mysteries: The Elk Moon Murder | 13783 | [13783-santa-fe-mysteries-the-elk-moon-murder.json](./13783-santa-fe-mysteries-the-elk-moon-murder.json) |
@@ -7604,6 +7606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shake | 399840 | [399840-shake.json](./399840-shake.json) |
 | Shake Cubes | 386205 | [386205-shake-cubes.json](./386205-shake-cubes.json) |
 | Shake Ground | 202659 | [202659-shake-ground.json](./202659-shake-ground.json) |
+| Shake It Co! | 348484 | [348484-shake-it-co.json](./348484-shake-it-co.json) |
 | Shake it up! Dice | 228296 | [228296-shake-it-up-dice.json](./228296-shake-it-up-dice.json) |
 | Shake Kids | 108959 | [108959-shake-kids.json](./108959-shake-kids.json) |
 | Shake Spears! | 52795 | [52795-shake-spears.json](./52795-shake-spears.json) |
@@ -17036,6 +17039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Social Status: Life Simulator | 279103 | [279103-social-status-life-simulator.json](./279103-social-status-life-simulator.json) |
 | Social Warfare | 319609 | [319609-social-warfare.json](./319609-social-warfare.json) |
 | Social Wars | 172811 | [172811-social-wars.json](./172811-social-wars.json) |
+| SocialChess | 348500 | [348500-socialchess.json](./348500-socialchess.json) |
 | Socialiskigrad | 406764 | [406764-socialiskigrad.json](./406764-socialiskigrad.json) |
 | Socialism Simulator | 159583 | [159583-socialism-simulator.json](./159583-socialism-simulator.json) |
 | Socialize | 182217 | [182217-socialize.json](./182217-socialize.json) |
@@ -19510,6 +19514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcevival | 276169 | [276169-sorcevival.json](./276169-sorcevival.json) |
 | Sorcières & Compagnie | 351105 | [351105-sorcieres-and-compagnie.json](./351105-sorcieres-and-compagnie.json) |
 | Sorcs: Siege Chronicles | 164126 | [164126-sorcs-siege-chronicles.json](./164126-sorcs-siege-chronicles.json) |
+| Sorderon's Shadow | 348469 | [348469-sorderons-shadow.json](./348469-sorderons-shadow.json) |
 | Sordwin: The Evertree Saga | 115214 | [115214-sordwin-the-evertree-saga.json](./115214-sordwin-the-evertree-saga.json) |
 | Sore | 74211 | [74211-sore.json](./74211-sore.json) |
 | Sore ha Maichiru Sakura no You ni | 413795 | [413795-sore-ha-maichiru-sakura-no-you-ni.json](./413795-sore-ha-maichiru-sakura-no-you-ni.json) |
