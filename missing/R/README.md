@@ -1243,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Engineer | 161639 | [161639-railroad-engineer.json](./161639-railroad-engineer.json) |
 | Railroad Ink Challenge | 156127 | [156127-railroad-ink-challenge.json](./156127-railroad-ink-challenge.json) |
 | Railroad Ink Challenge: Forest | 196142 | [196142-railroad-ink-challenge-forest.json](./196142-railroad-ink-challenge-forest.json) |
+| Railroad Manager | 368398 | [368398-railroad-manager.json](./368398-railroad-manager.json) |
 | Railroad Operator | 89332 | [89332-railroad-operator.json](./89332-railroad-operator.json) |
 | Railroad Pioneer | 71393 | [71393-railroad-pioneer.json](./71393-railroad-pioneer.json) |
 | Railroad Pioneer | 9417 | [9417-railroad-pioneer.json](./9417-railroad-pioneer.json) |
@@ -12049,6 +12050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Round the Bend! | 73670 | [73670-round-the-bend.json](./73670-round-the-bend.json) |
 | Round The U-Bend | 271306 | [271306-round-the-u-bend.json](./271306-round-the-u-bend.json) |
 | Round Trip | 244280 | [244280-round-trip.json](./244280-round-trip.json) |
+| Round Trip | 367882 | [367882-round-trip.json](./367882-round-trip.json) |
 | Round Up 5: Super Delta Force | 407524 | [407524-round-up-5-super-delta-force.json](./407524-round-up-5-super-delta-force.json) |
 | Round Ways | 104181 | [104181-round-ways.json](./104181-round-ways.json) |
 | Round-Up | 92222 | [92222-round-up.json](./92222-round-up.json) |
