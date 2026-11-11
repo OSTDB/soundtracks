@@ -3725,6 +3725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leo's Red Carpet Rampage | 249608 | [249608-leos-red-carpet-rampage.json](./249608-leos-red-carpet-rampage.json) |
 | Leon's Crusade | 55333 | [55333-leons-crusade.json](./55333-leons-crusade.json) |
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
+| Leon's Mahjong | 356933 | [356933-leons-mahjong.json](./356933-leons-mahjong.json) |
 | Leon&Suharto | 401867 | [401867-leon-and-suharto.json](./401867-leon-and-suharto.json) |
 | Leona's Tricky Adventures | 17518 | [17518-leonas-tricky-adventures.json](./17518-leonas-tricky-adventures.json) |
 | Leonard's Maze | 423655 | [423655-leonards-maze.json](./423655-leonards-maze.json) |
@@ -7554,6 +7555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lollihop | 277811 | [277811-lollihop.json](./277811-lollihop.json) |
 | Lollipop | 198329 | [198329-lollipop.json](./198329-lollipop.json) |
 | Lollipop Chainsaw | 1284 | [1284-lollipop-chainsaw.json](./1284-lollipop-chainsaw.json) |
+| Lollipop Chainsaw 2 Back2Back | 356930 | [356930-lollipop-chainsaw-2-back2back.json](./356930-lollipop-chainsaw-2-back2back.json) |
 | Lollipop Chainsaw RePop: Nintendo Switch 2 Edition | 401101 | [401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json](./401101-lollipop-chainsaw-repop-nintendo-switch-2-edition.json) |
 | Lollipop Chainsaw: Premium Edition | 268855 | [268855-lollipop-chainsaw-premium-edition.json](./268855-lollipop-chainsaw-premium-edition.json) |
 | Lollipop Land | 230625 | [230625-lollipop-land.json](./230625-lollipop-land.json) |
