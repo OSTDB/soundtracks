@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ra Ra Boom | 242111 | [242111-ra-ra-boom.json](./242111-ra-ra-boom.json) |
 | Ra.One: The Game | 18295 | [18295-ra-one-the-game.json](./18295-ra-one-the-game.json) |
 | Raahi | 379051 | [379051-raahi.json](./379051-raahi.json) |
+| Raaka-Tu | 384470 | [384470-raaka-tu.json](./384470-raaka-tu.json) |
 | Raanaa: The Shaman Girl | 321137 | [321137-raanaa-the-shaman-girl.json](./321137-raanaa-the-shaman-girl.json) |
 | Raanaa: The Shaman Girl - Helheim | 342145 | [342145-raanaa-the-shaman-girl-helheim.json](./342145-raanaa-the-shaman-girl-helheim.json) |
 | Raanaa: The Shaman Girl - Land of the Birds | 342094 | [342094-raanaa-the-shaman-girl-land-of-the-birds.json](./342094-raanaa-the-shaman-girl-land-of-the-birds.json) |
