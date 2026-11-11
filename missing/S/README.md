@@ -5275,7 +5275,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SeeNa | 62590 | [62590-seena.json](./62590-seena.json) |
 | Seer | 397381 | [397381-seer.json](./397381-seer.json) |
 | Seer's Gambit | 265301 | [265301-seers-gambit.json](./265301-seers-gambit.json) |
-| Seers Isle | 86344 | [86344-seers-isle.json](./86344-seers-isle.json) |
 | Seers of Ages Past 1: The Harbinger of Mah | 285884 | [285884-seers-of-ages-past-1-the-harbinger-of-mah.json](./285884-seers-of-ages-past-1-the-harbinger-of-mah.json) |
 | Sees Game | 276615 | [276615-sees-game.json](./276615-sees-game.json) |
 | SeesawC 2 | 281360 | [281360-seesawc-2.json](./281360-seesawc-2.json) |
@@ -13937,7 +13936,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap 'em Up! | 348014 | [348014-slap-em-up.json](./348014-slap-em-up.json) |
 | Slap Cats | 298190 | [298190-slap-cats.json](./298190-slap-cats.json) |
 | Slap Circle | 237644 | [237644-slap-circle.json](./237644-slap-circle.json) |
-| Slap City | 87935 | [87935-slap-city.json](./87935-slap-city.json) |
 | Slap Dab | 72011 | [72011-slap-dab.json](./72011-slap-dab.json) |
 | Slap Fight | 37296 | [37296-slap-fight.json](./37296-slap-fight.json) |
 | Slap Fight MD | 4521 | [4521-slap-fight-md.json](./4521-slap-fight-md.json) |
@@ -37289,7 +37287,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarmed: Nuts & Bolts | 219559 | [219559-swarmed-nuts-and-bolts.json](./219559-swarmed-nuts-and-bolts.json) |
 | Swarmhunters | 276607 | [276607-swarmhunters.json](./276607-swarmhunters.json) |
 | Swarming Planet | 146099 | [146099-swarming-planet.json](./146099-swarming-planet.json) |
-| Swarmlake | 86468 | [86468-swarmlake.json](./86468-swarmlake.json) |
 | Swarmrider Omega | 67901 | [67901-swarmrider-omega.json](./67901-swarmrider-omega.json) |
 | Swarmriders | 32839 | [32839-swarmriders.json](./32839-swarmriders.json) |
 | Swarmsign | 304904 | [304904-swarmsign.json](./304904-swarmsign.json) |
