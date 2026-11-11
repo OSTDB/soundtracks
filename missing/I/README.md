@@ -3576,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indie Heroes Collection 1 | 145831 | [145831-indie-heroes-collection-1.json](./145831-indie-heroes-collection-1.json) |
 | Indie Heroes Collection 2 | 227614 | [227614-indie-heroes-collection-2.json](./227614-indie-heroes-collection-2.json) |
 | Indie Heroes Collection 3 | 252064 | [252064-indie-heroes-collection-3.json](./252064-indie-heroes-collection-3.json) |
+| Indie Heroes Collection 4 | 332139 | [332139-indie-heroes-collection-4.json](./332139-indie-heroes-collection-4.json) |
 | Indie Hoverboard Racing | 400577 | [400577-indie-hoverboard-racing.json](./400577-indie-hoverboard-racing.json) |
 | Indie Jane and the Snake Tower | 240198 | [240198-indie-jane-and-the-snake-tower.json](./240198-indie-jane-and-the-snake-tower.json) |
 | Indie Nights | 274481 | [274481-indie-nights.json](./274481-indie-nights.json) |
@@ -5530,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into Arith | 270567 | [270567-into-arith.json](./270567-into-arith.json) |
 | Into Asteroid Belt | 178641 | [178641-into-asteroid-belt.json](./178641-into-asteroid-belt.json) |
 | Into Black | 319608 | [319608-into-black.json](./319608-into-black.json) |
+| Into Death and Beyond | 332157 | [332157-into-death-and-beyond.json](./332157-into-death-and-beyond.json) |
 | Into Evil | 217470 | [217470-into-evil.json](./217470-into-evil.json) |
 | Into Hell | 261179 | [261179-into-hell.json](./261179-into-hell.json) |
 | Into King Rabbit's Mansion | 185295 | [185295-into-king-rabbits-mansion.json](./185295-into-king-rabbits-mansion.json) |
