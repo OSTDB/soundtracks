@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T21:01:06.448Z",
-  "total_soundtracks": 3070,
+  "generated_at": "2026-11-11T21:06:49.202Z",
+  "total_soundtracks": 3080,
   "games": [
     {
       "igdb_id": 7522,
@@ -1667,6 +1667,20 @@
       ]
     },
     {
+      "igdb_id": 76566,
+      "game_name": "Antigraviator",
+      "game_url": "https://ostdb.net/games/antigraviator",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e2e3a64186f1d799ce6d7769",
+      "albums": [
+        {
+          "album_name": "Antigraviator (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1gy5Hjb5nNXzfnZMhivs5q",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 201752,
       "game_name": "Antonblast",
       "game_url": "https://ostdb.net/games/antonblast",
@@ -1793,6 +1807,20 @@
         {
           "album_name": "Aragami 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0w1brI7dB7Bws2EufCqgx1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 96020,
+      "game_name": "Aragami: Nightfall",
+      "game_url": "https://ostdb.net/games/aragami-nightfall",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733373245519d6875341308ff2",
+      "albums": [
+        {
+          "album_name": "Aragami: Nightfall (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/71k80x4rQtW20UNHYic9jL",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -2931,6 +2959,20 @@
       ]
     },
     {
+      "igdb_id": 97932,
+      "game_name": "Banner of the Maid",
+      "game_url": "https://ostdb.net/games/banner-of-the-maid",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ebb94f80c4139ac8ad15e538",
+      "albums": [
+        {
+          "album_name": "Banner of the Maid (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1HyJaYy8bC68E0UVdZzbmO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3794,
       "game_name": "Barnyard",
       "game_url": "https://ostdb.net/games/barnyard",
@@ -3109,6 +3151,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/batman-arkham-shadow-original-video-game-soundtrack/1794869007?uo=4",
           "album_link_url": "https://album.link/i/1794869007"
+        }
+      ]
+    },
+    {
+      "igdb_id": 76858,
+      "game_name": "Battle Bay",
+      "game_url": "https://ostdb.net/games/battle-bay",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731cdf6696916933ebfbf59c21",
+      "albums": [
+        {
+          "album_name": "Battle Bay (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7lGdUGQHEuPYBJeScbRwrX",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -21413,6 +21469,20 @@
       ]
     },
     {
+      "igdb_id": 77157,
+      "game_name": "My Big Sister",
+      "game_url": "https://ostdb.net/games/my-big-sister",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27369bfb8e4db23822cdae3ee33",
+      "albums": [
+        {
+          "album_name": "My Big Sister (The Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7tCD37FeK9Es0bv8XmhUcu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 27192,
       "game_name": "My Memory of Us",
       "game_url": "https://ostdb.net/games/my-memory-of-us",
@@ -21519,6 +21589,20 @@
         {
           "album_name": "Myst V: End of Ages (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/13GPxpmYQf1a1jfKGscyv2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 93804,
+      "game_name": "Mythic Ocean",
+      "game_url": "https://ostdb.net/games/mythic-ocean",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730e9131191cd27026a892cbb1",
+      "albums": [
+        {
+          "album_name": "Mythic Ocean (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1ixsGKCMullowL5YPkNckS",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -23991,6 +24075,20 @@
         {
           "album_name": "PHOGS! Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4gdwbIh7hLp2aR499l511m",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 80878,
+      "game_name": "Photographs",
+      "game_url": "https://ostdb.net/games/photographs",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ebbeb5ad334bf3e8fdbd4f11",
+      "albums": [
+        {
+          "album_name": "Photographs Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6GnjCLAOQg9gX2JMyUUWxb",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -27521,6 +27619,20 @@
       ]
     },
     {
+      "igdb_id": 86344,
+      "game_name": "Seers Isle",
+      "game_url": "https://ostdb.net/games/seers-isle",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273749a7b28e223d2ef88429b78",
+      "albums": [
+        {
+          "album_name": "Seers Isle (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3VTJxqZNnGKxlEbE3rj85z",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 55173,
       "game_name": "Semblance",
       "game_url": "https://ostdb.net/games/semblance",
@@ -28619,6 +28731,20 @@
         {
           "album_name": "Skylanders Trap Team (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2qkJV8TkFHNN9BwaP1nGmZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 87935,
+      "game_name": "Slap City",
+      "game_url": "https://ostdb.net/games/slap-city",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737d93f8aa26769d072bba47ba",
+      "albums": [
+        {
+          "album_name": "Slap City (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5p6wkMmgnxALCrS6S3kVjw",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -31501,6 +31627,20 @@
         {
           "album_name": "Swallow the Sea (Official Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6MNAyTTQOyTxwx9CUa87tu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 86468,
+      "game_name": "Swarmlake",
+      "game_url": "https://ostdb.net/games/swarmlake",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734c0c2a51378190fc57a96576",
+      "albums": [
+        {
+          "album_name": "Swarmlake (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/05G5uRZNYJpc5S5F5JZ2Ac",
           "apple_music_url": "",
           "album_link_url": ""
         }
