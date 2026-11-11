@@ -3075,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Hapax | 199442 | [199442-legends-of-hapax.json](./199442-legends-of-hapax.json) |
 | Legends of Heropolis | 202851 | [202851-legends-of-heropolis.json](./202851-legends-of-heropolis.json) |
 | Legends Of Heropolis DX | 317840 | [317840-legends-of-heropolis-dx.json](./317840-legends-of-heropolis-dx.json) |
+| Legends Of Hiro | 355794 | [355794-legends-of-hiro.json](./355794-legends-of-hiro.json) |
 | Legends of Horror | 209414 | [209414-legends-of-horror.json](./209414-legends-of-horror.json) |
 | Legends of Iconoclast 2: Unfinished Business | 276384 | [276384-legends-of-iconoclast-2-unfinished-business.json](./276384-legends-of-iconoclast-2-unfinished-business.json) |
 | Legends of Iconoclast: Scourge of Humanity | 276383 | [276383-legends-of-iconoclast-scourge-of-humanity.json](./276383-legends-of-iconoclast-scourge-of-humanity.json) |
