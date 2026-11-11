@@ -4378,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letty9 | 218081 | [218081-letty9.json](./218081-letty9.json) |
 | Letux Game | 199469 | [199469-letux-game.json](./199469-letux-game.json) |
 | Letzte Worte VR | 111587 | [111587-letzte-worte-vr.json](./111587-letzte-worte-vr.json) |
+| Leucanthemum Eyes | 322889 | [322889-leucanthemum-eyes.json](./322889-leucanthemum-eyes.json) |
 | Leucistic Wyvern | 266657 | [266657-leucistic-wyvern.json](./266657-leucistic-wyvern.json) |
 | LeukoBlast! | 179295 | [179295-leukoblast.json](./179295-leukoblast.json) |
 | Levaluhta | 155380 | [155380-levaluhta.json](./155380-levaluhta.json) |
@@ -5529,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Night Off | 104845 | [104845-lilys-night-off.json](./104845-lilys-night-off.json) |
 | Lily's Town | 328394 | [328394-lilys-town.json](./328394-lilys-town.json) |
 | Lily's Well | 186311 | [186311-lilys-well.json](./186311-lilys-well.json) |
+| Lily's World XD | 323462 | [323462-lilys-world-xd.json](./323462-lilys-world-xd.json) |
 | Lilycle Rainbow Stage!!! | 115310 | [115310-lilycle-rainbow-stage.json](./115310-lilycle-rainbow-stage.json) |
 | LilyDeux: Black Lily Warning | 129698 | [129698-lilydeux-black-lily-warning.json](./129698-lilydeux-black-lily-warning.json) |
 | Lilywhite Lilith | 257175 | [257175-lilywhite-lilith.json](./257175-lilywhite-lilith.json) |
@@ -7034,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizzie's Lucky Potion Shop | 178916 | [178916-lizzies-lucky-potion-shop.json](./178916-lizzies-lucky-potion-shop.json) |
 | LJ65 | 305313 | [305313-lj65.json](./305313-lj65.json) |
 | Lkyt. | 207259 | [207259-lkyt.json](./207259-lkyt.json) |
+| Llama Adventure | 322886 | [322886-llama-adventure.json](./322886-llama-adventure.json) |
 | Llama God | 179991 | [179991-llama-god.json](./179991-llama-god.json) |
 | Llama Legends | 394812 | [394812-llama-legends.json](./394812-llama-legends.json) |
 | Llama the Farm Drama | 220397 | [220397-llama-the-farm-drama.json](./220397-llama-the-farm-drama.json) |
@@ -10197,6 +10200,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi's Cursed Fortune | 395362 | [395362-luigis-cursed-fortune.json](./395362-luigis-cursed-fortune.json) |
 | Luigi's Final Ghost Hunt | 259267 | [259267-luigis-final-ghost-hunt.json](./259267-luigis-final-ghost-hunt.json) |
 | Luigi's Game | 318029 | [318029-luigis-game.json](./318029-luigis-game.json) |
+| Luigi's Invasion | 322899 | [322899-luigis-invasion.json](./322899-luigis-invasion.json) |
+| Luigi's Invasion 2: Mushroom Rebirth | 322897 | [322897-luigis-invasion-2-mushroom-rebirth.json](./322897-luigis-invasion-2-mushroom-rebirth.json) |
+| Luigi's Invasion 3 | 322898 | [322898-luigis-invasion-3.json](./322898-luigis-invasion-3.json) |
 | Luigi's Lost Levels | 314099 | [314099-luigis-lost-levels.json](./314099-luigis-lost-levels.json) |
 | Luigi's Mansion | 339799 | [339799-luigis-mansion.json](./339799-luigis-mansion.json) |
 | Luigi's Mansion | 90109 | [90109-luigis-mansion.json](./90109-luigis-mansion.json) |
