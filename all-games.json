@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T23:50:58.005Z",
-  "total_soundtracks": 3187,
+  "generated_at": "2026-11-11T23:55:58.842Z",
+  "total_soundtracks": 3190,
   "games": [
     {
       "igdb_id": 7522,
@@ -23477,6 +23477,20 @@
       ]
     },
     {
+      "igdb_id": 18082,
+      "game_name": "Obliteracers",
+      "game_url": "https://ostdb.net/games/obliteracers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730ccb732a9cedac06c49749c6",
+      "albums": [
+        {
+          "album_name": "Obliteracers (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/34b3bhr2fFGUBCwcNXNDDV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 132165,
       "game_name": "Observer: System Redux",
       "game_url": "https://ostdb.net/games/observer-system-redux",
@@ -39477,6 +39491,20 @@
       ]
     },
     {
+      "igdb_id": 15840,
+      "game_name": "Wild 9",
+      "game_url": "https://ostdb.net/games/wild-9",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27306bf1610e26f08cb0affa6d0",
+      "albums": [
+        {
+          "album_name": "Wild 9 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0xWMNof8Efaw1nPM30tcDE",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 83504,
       "game_name": "Wildermyth",
       "game_url": "https://ostdb.net/games/wildermyth",
@@ -40325,6 +40353,20 @@
           "spotify_url": "https://open.spotify.com/album/10dZi7nBd49IImREMdZGdC",
           "apple_music_url": "https://music.apple.com/us/album/xenogears-original-soundtrack/296408171",
           "album_link_url": "https://album.link/i/296408171"
+        }
+      ]
+    },
+    {
+      "igdb_id": 19408,
+      "game_name": "Xenonauts 2",
+      "game_url": "https://ostdb.net/games/xenonauts-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27398565eaec1409a470c9bb259",
+      "albums": [
+        {
+          "album_name": "Xenonauts 2 (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2VkNMisGfZvqh8IJhZSb9p",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
