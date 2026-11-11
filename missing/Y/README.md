@@ -25,6 +25,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ya Budu Kosmonavtom | 171969 | [171969-ya-budu-kosmonavtom.json](./171969-ya-budu-kosmonavtom.json) |
 | Ya Gotta, Piñata! | 58513 | [58513-ya-gotta-pinata.json](./58513-ya-gotta-pinata.json) |
 | Yaad | 289879 | [289879-yaad.json](./289879-yaad.json) |
+| Yaarmi Tycoon | 363101 | [363101-yaarmi-tycoon.json](./363101-yaarmi-tycoon.json) |
 | Yaarrgh! Battle Island! | 149372 | [149372-yaarrgh-battle-island.json](./149372-yaarrgh-battle-island.json) |
 | YAB! Baseball | 93407 | [93407-yab-baseball.json](./93407-yab-baseball.json) |
 | Yabai Girls: Ballet Beauty | 388065 | [388065-yabai-girls-ballet-beauty.json](./388065-yabai-girls-ballet-beauty.json) |
@@ -480,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yeerk Pool | 257435 | [257435-yeerk-pool.json](./257435-yeerk-pool.json) |
 | Yeet | 264516 | [264516-yeet.json](./264516-yeet.json) |
 | Yeet the Chest | 414084 | [414084-yeet-the-chest.json](./414084-yeet-the-chest.json) |
+| Yeet Up! | 363111 | [363111-yeet-up.json](./363111-yeet-up.json) |
 | Yeetus | 276582 | [276582-yeetus.json](./276582-yeetus.json) |
 | YeGung | 306238 | [306238-yegung.json](./306238-yegung.json) |
 | Yeh Yeh Tennis | 58519 | [58519-yeh-yeh-tennis.json](./58519-yeh-yeh-tennis.json) |
