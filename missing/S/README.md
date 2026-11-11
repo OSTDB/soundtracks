@@ -3974,6 +3974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scribbly Walrus | 128571 | [128571-scribbly-walrus.json](./128571-scribbly-walrus.json) |
 | Scribe | 320430 | [320430-scribe.json](./320430-scribe.json) |
 | Scribe RPG | 339089 | [339089-scribe-rpg.json](./339089-scribe-rpg.json) |
+| Scribed Castle | 368424 | [368424-scribed-castle.json](./368424-scribed-castle.json) |
 | Scribo Magi | 178922 | [178922-scribo-magi.json](./178922-scribo-magi.json) |
 | Scripps Spelling Bee | 206644 | [206644-scripps-spelling-bee.json](./206644-scripps-spelling-bee.json) |
 | Script Ship | 182895 | [182895-script-ship.json](./182895-script-ship.json) |
@@ -8160,6 +8161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatterland | 372438 | [372438-shatterland.json](./372438-shatterland.json) |
 | Shatterline | 212877 | [212877-shatterline.json](./212877-shatterline.json) |
 | Shatterpoint | 234800 | [234800-shatterpoint.json](./234800-shatterpoint.json) |
+| ShatterRush | 368417 | [368417-shatterrush.json](./368417-shatterrush.json) |
 | Shatterspace | 197395 | [197395-shatterspace.json](./197395-shatterspace.json) |
 | Shattle | 182189 | [182189-shattle.json](./182189-shattle.json) |
 | Shaun Palmer's Pro Snowboarder | 248602 | [248602-shaun-palmers-pro-snowboarder.json](./248602-shaun-palmers-pro-snowboarder.json) |
@@ -22806,6 +22808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spelunx and the Caves of Mr. Seudo | 15067 | [15067-spelunx-and-the-caves-of-mr-seudo.json](./15067-spelunx-and-the-caves-of-mr-seudo.json) |
 | Spelvin Goolie, Private Eyeball | 397386 | [397386-spelvin-goolie-private-eyeball.json](./397386-spelvin-goolie-private-eyeball.json) |
 | Spencer | 90124 | [90124-spencer.json](./90124-spencer.json) |
+| Spencer's Spaghetti Quest | 368414 | [368414-spencers-spaghetti-quest.json](./368414-spencers-spaghetti-quest.json) |
 | Spend Bill Gates' Money | 409850 | [409850-spend-bill-gates-money.json](./409850-spend-bill-gates-money.json) |
 | Spend the Night with Kitty | 288122 | [288122-spend-the-night-with-kitty.json](./288122-spend-the-night-with-kitty.json) |
 | Spent | 174177 | [174177-spent.json](./174177-spent.json) |
@@ -36991,6 +36994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Universe | 34334 | [34334-swarm-universe.json](./34334-swarm-universe.json) |
 | Swarm! | 22559 | [22559-swarm.json](./22559-swarm.json) |
 | Swarmcade | 219558 | [219558-swarmcade.json](./219558-swarmcade.json) |
+| Swarmdustry | 368931 | [368931-swarmdustry.json](./368931-swarmdustry.json) |
 | Swarmed | 424640 | [424640-swarmed.json](./424640-swarmed.json) |
 | Swarmed: Nuts & Bolts | 219559 | [219559-swarmed-nuts-and-bolts.json](./219559-swarmed-nuts-and-bolts.json) |
 | Swarmhunters | 276607 | [276607-swarmhunters.json](./276607-swarmhunters.json) |
