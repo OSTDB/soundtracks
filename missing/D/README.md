@@ -5839,6 +5839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deeper Red 2028: We Are Escape | 128345 | [128345-deeper-red-2028-we-are-escape.json](./128345-deeper-red-2028-we-are-escape.json) |
 | Deeper Still | 398088 | [398088-deeper-still.json](./398088-deeper-still.json) |
 | Deeper Than Hell | 295792 | [295792-deeper-than-hell.json](./295792-deeper-than-hell.json) |
+| Deeper Underground | 371179 | [371179-deeper-underground.json](./371179-deeper-underground.json) |
 | Deeper You Go | 346746 | [346746-deeper-you-go.json](./346746-deeper-you-go.json) |
 | Deepest Chamber: Resurrection | 144450 | [144450-deepest-chamber-resurrection.json](./144450-deepest-chamber-resurrection.json) |
 | Deepest Depth | 320186 | [320186-deepest-depth.json](./320186-deepest-depth.json) |
@@ -6716,6 +6717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demersus | 406473 | [406473-demersus.json](./406473-demersus.json) |
 | Demesne | 18215 | [18215-demesne.json](./18215-demesne.json) |
 | Demeter | 280059 | [280059-demeter.json](./280059-demeter.json) |
+| Demeter | 371143 | [371143-demeter.json](./371143-demeter.json) |
 | Demeter and Persephone | 138963 | [138963-demeter-and-persephone.json](./138963-demeter-and-persephone.json) |
 | Demeter: The Asklepios Chronicles | 279398 | [279398-demeter-the-asklepios-chronicles.json](./279398-demeter-the-asklepios-chronicles.json) |
 | Demetria Spirit | 166843 | [166843-demetria-spirit.json](./166843-demetria-spirit.json) |
@@ -7849,6 +7851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Hacker: Echoes of Pandora | 288061 | [288061-desktop-hacker-echoes-of-pandora.json](./288061-desktop-hacker-echoes-of-pandora.json) |
 | Desktop Heroes | 361291 | [361291-desktop-heroes.json](./361291-desktop-heroes.json) |
 | Desktop Island: Idle Together! | 412456 | [412456-desktop-island-idle-together.json](./412456-desktop-island-idle-together.json) |
+| Desktop Kitten Girl | 370622 | [370622-desktop-kitten-girl.json](./370622-desktop-kitten-girl.json) |
 | Desktop Mark | 253589 | [253589-desktop-mark.json](./253589-desktop-mark.json) |
 | Desktop Mars | 388330 | [388330-desktop-mars.json](./388330-desktop-mars.json) |
 | Desktop Meadow | 142795 | [142795-desktop-meadow.json](./142795-desktop-meadow.json) |
@@ -19131,6 +19134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Adventure Gang | 272371 | [272371-dungeon-adventure-gang.json](./272371-dungeon-adventure-gang.json) |
 | Dungeon Adventure Island | 282168 | [282168-dungeon-adventure-island.json](./282168-dungeon-adventure-island.json) |
 | Dungeon Adventurer | 197965 | [197965-dungeon-adventurer.json](./197965-dungeon-adventurer.json) |
+| Dungeon Alone | 371145 | [371145-dungeon-alone.json](./371145-dungeon-alone.json) |
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
 | Dungeon and Craft | 252517 | [252517-dungeon-and-craft.json](./252517-dungeon-and-craft.json) |
 | Dungeon And Darkness | 332562 | [332562-dungeon-and-darkness.json](./332562-dungeon-and-darkness.json) |
