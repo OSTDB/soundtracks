@@ -7264,6 +7264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiboka | 203671 | [203671-hiboka.json](./203671-hiboka.json) |
 | Hibow | 158210 | [158210-hibow.json](./158210-hibow.json) |
 | Hibow Supporter | 182873 | [182873-hibow-supporter.json](./182873-hibow-supporter.json) |
+| Hibr | 359107 | [359107-hibr.json](./359107-hibr.json) |
 | Hibridya | 371274 | [371274-hibridya.json](./371274-hibridya.json) |
 | Hickory Clock | 312591 | [312591-hickory-clock.json](./312591-hickory-clock.json) |
 | Hidalgo | 314641 | [314641-hidalgo.json](./314641-hidalgo.json) |
@@ -10477,6 +10478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope Springs Eternal | 94227 | [94227-hope-springs-eternal.json](./94227-hope-springs-eternal.json) |
 | Hope Springs Hotel: Whisper Of Winter | 310013 | [310013-hope-springs-hotel-whisper-of-winter.json](./310013-hope-springs-hotel-whisper-of-winter.json) |
 | Hope Timbre | 295531 | [295531-hope-timbre.json](./295531-hope-timbre.json) |
+| Hope Town | 359108 | [359108-hope-town.json](./359108-hope-town.json) |
 | Hope VR: Emotional Intelligence Assistant | 169926 | [169926-hope-vr-emotional-intelligence-assistant.json](./169926-hope-vr-emotional-intelligence-assistant.json) |
 | Hope We'll Still be Friends Tomorrow | 410251 | [410251-hope-well-still-be-friends-tomorrow.json](./410251-hope-well-still-be-friends-tomorrow.json) |
 | Hope with Island | 283094 | [283094-hope-with-island.json](./283094-hope-with-island.json) |
