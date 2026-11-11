@@ -2911,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 25: NEXAT Pack | 352884 | [352884-farming-simulator-25-nexat-pack.json](./352884-farming-simulator-25-nexat-pack.json) |
 | Farming Simulator 25: Plains & Prairies Pack | 352879 | [352879-farming-simulator-25-plains-and-prairies-pack.json](./352879-farming-simulator-25-plains-and-prairies-pack.json) |
 | Farming Simulator 25: Straw Harvest Pack | 360753 | [360753-farming-simulator-25-straw-harvest-pack.json](./360753-farming-simulator-25-straw-harvest-pack.json) |
+| Farming Simulator 25: Year 1 Bundle | 331551 | [331551-farming-simulator-25-year-1-bundle.json](./331551-farming-simulator-25-year-1-bundle.json) |
 | Farming Simulator 25: Year 1 Season Pass | 352888 | [352888-farming-simulator-25-year-1-season-pass.json](./352888-farming-simulator-25-year-1-season-pass.json) |
 | Farming Simulator C64 Edition | 110482 | [110482-farming-simulator-c64-edition.json](./110482-farming-simulator-c64-edition.json) |
 | Farming Simulator C64: Limited Edition | 260776 | [260776-farming-simulator-c64-limited-edition.json](./260776-farming-simulator-c64-limited-edition.json) |
@@ -5728,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All 2: Middle Ages | 173931 | [173931-find-all-2-middle-ages.json](./173931-find-all-2-middle-ages.json) |
 | Find All 4: Magic | 226805 | [226805-find-all-4-magic.json](./226805-find-all-4-magic.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
+| Find All 6: Netherlands | 331587 | [331587-find-all-6-netherlands.json](./331587-find-all-6-netherlands.json) |
 | Find All 7: Japan | 344688 | [344688-find-all-7-japan.json](./344688-find-all-7-japan.json) |
 | Find All 7: Japan - Extra Level | 345247 | [345247-find-all-7-japan-extra-level.json](./345247-find-all-7-japan-extra-level.json) |
 | Find All 8: The Road to the Maya | 344979 | [344979-find-all-8-the-road-to-the-maya.json](./344979-find-all-8-the-road-to-the-maya.json) |
@@ -7597,6 +7599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights With Los Penguinos | 293579 | [293579-five-nights-with-los-penguinos.json](./293579-five-nights-with-los-penguinos.json) |
 | Five Nights with Mac Tonight | 268031 | [268031-five-nights-with-mac-tonight.json](./268031-five-nights-with-mac-tonight.json) |
 | Five Nights with Mac Tonight 2 | 305326 | [305326-five-nights-with-mac-tonight-2.json](./305326-five-nights-with-mac-tonight-2.json) |
+| Five Nights with Mac Tonight: Halloween Special | 331593 | [331593-five-nights-with-mac-tonight-halloween-special.json](./331593-five-nights-with-mac-tonight-halloween-special.json) |
 | Five Nights with Maids | 405935 | [405935-five-nights-with-maids.json](./405935-five-nights-with-maids.json) |
 | Five Nights With Your Mother | 376200 | [376200-five-nights-with-your-mother.json](./376200-five-nights-with-your-mother.json) |
 | Five Owls | 343867 | [343867-five-owls.json](./343867-five-owls.json) |
@@ -10159,6 +10162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Greater Good | 343045 | [343045-for-the-greater-good.json](./343045-for-the-greater-good.json) |
 | For the Hive | 190704 | [190704-for-the-hive.json](./190704-for-the-hive.json) |
 | For the Honor | 134646 | [134646-for-the-honor.json](./134646-for-the-honor.json) |
+| For The King Franchise Bundle | 331550 | [331550-for-the-king-franchise-bundle.json](./331550-for-the-king-franchise-bundle.json) |
 | For the King: Deluxe Edition | 374979 | [374979-for-the-king-deluxe-edition.json](./374979-for-the-king-deluxe-edition.json) |
 | For the Motherland | 235371 | [235371-for-the-motherland.json](./235371-for-the-motherland.json) |
 | For the Night | 123486 | [123486-for-the-night.json](./123486-for-the-night.json) |
@@ -14361,6 +14365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Bob Ross Pack | 323400 | [323400-funko-fusion-bob-ross-pack.json](./323400-funko-fusion-bob-ross-pack.json) |
 | Funko Fusion: Deluxe Edition | 362964 | [362964-funko-fusion-deluxe-edition.json](./362964-funko-fusion-deluxe-edition.json) |
 | Funko Fusion: Frankenstein | 354049 | [354049-funko-fusion-frankenstein.json](./354049-funko-fusion-frankenstein.json) |
+| Funko Fusion: Funko Fusion and Wicked Movie DLC Bundle | 331549 | [331549-funko-fusion-funko-fusion-and-wicked-movie-dlc-bundle.json](./331549-funko-fusion-funko-fusion-and-wicked-movie-dlc-bundle.json) |
 | Funko Fusion: Happy Funkoween Pack | 373882 | [373882-funko-fusion-happy-funkoween-pack.json](./373882-funko-fusion-happy-funkoween-pack.json) |
 | Funko Fusion: Hazel & Cha-Cha Pack | 325360 | [325360-funko-fusion-hazel-and-cha-cha-pack.json](./325360-funko-fusion-hazel-and-cha-cha-pack.json) |
 | Funko Fusion: Invincible Pack | 323320 | [323320-funko-fusion-invincible-pack.json](./323320-funko-fusion-invincible-pack.json) |
