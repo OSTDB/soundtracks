@@ -4368,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Are the Alices? | 405849 | [405849-where-are-the-alices.json](./405849-where-are-the-alices.json) |
 | Where Are the Fish? | 399168 | [399168-where-are-the-fish.json](./399168-where-are-the-fish.json) |
 | Where Are They? | 300688 | [300688-where-are-they.json](./300688-where-are-they.json) |
+| Where Are We Floating? | 382715 | [382715-where-are-we-floating.json](./382715-where-are-we-floating.json) |
 | Where Are We Now | 122068 | [122068-where-are-we-now.json](./122068-where-are-we-now.json) |
 | Where Are We? | 303713 | [303713-where-are-we.json](./303713-where-are-we.json) |
 | Where are you, Cinderella? | 193305 | [193305-where-are-you-cinderella.json](./193305-where-are-you-cinderella.json) |
@@ -5197,6 +5198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Why | 257413 | [257413-why.json](./257413-why.json) |
 | Why Am I Dead At Sea | 35525 | [35525-why-am-i-dead-at-sea.json](./35525-why-am-i-dead-at-sea.json) |
 | Why Am I Dead: Rebirth | 101862 | [101862-why-am-i-dead-rebirth.json](./101862-why-am-i-dead-rebirth.json) |
+| Why Am I Here | 382697 | [382697-why-am-i-here.json](./382697-why-am-i-here.json) |
 | Why Are My Prefects So Hot!!? | 419950 | [419950-why-are-my-prefects-so-hot.json](./419950-why-are-my-prefects-so-hot.json) |
 | Why Can't I Just Speak Normally to My High School Crush?! | 177190 | [177190-why-cant-i-just-speak-normally-to-my-high-school-crush.json](./177190-why-cant-i-just-speak-normally-to-my-high-school-crush.json) |
 | Why Chicken? Why? | 114973 | [114973-why-chicken-why.json](./114973-why-chicken-why.json) |
