@@ -2623,7 +2623,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayman Legends/Rayman Origins | 138688 | [138688-rayman-legends-rayman-origins.json](./138688-rayman-legends-rayman-origins.json) |
 | Rayman Lum'o'Grams | 330064 | [330064-rayman-lumograms.json](./330064-rayman-lumograms.json) |
 | Rayman Mini | 122560 | [122560-rayman-mini.json](./122560-rayman-mini.json) |
-| Rayman Origins | 288944 | [288944-rayman-origins.json](./288944-rayman-origins.json) |
 | Rayman Origins: Collector's Edition | 43006 | [43006-rayman-origins-collectors-edition.json](./43006-rayman-origins-collectors-edition.json) |
 | Rayman Raving Rabbids | 151927 | [151927-rayman-raving-rabbids.json](./151927-rayman-raving-rabbids.json) |
 | Rayman Raving Rabbids | 193362 | [193362-rayman-raving-rabbids.json](./193362-rayman-raving-rabbids.json) |
