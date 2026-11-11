@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La costurera | 333974 | [333974-la-costurera.json](./333974-la-costurera.json) |
 | La Crapule | 386319 | [386319-la-crapule.json](./386319-la-crapule.json) |
 | La Crypte des Maudits | 320777 | [320777-la-crypte-des-maudits.json](./320777-la-crypte-des-maudits.json) |
+| La Crypte des Maudits | 334970 | [334970-la-crypte-des-maudits.json](./334970-la-crypte-des-maudits.json) |
 | La Culture Generale pour les Nuls | 269831 | [269831-la-culture-generale-pour-les-nuls.json](./269831-la-culture-generale-pour-les-nuls.json) |
 | La Dame de Monsoreau | 209442 | [209442-la-dame-de-monsoreau.json](./209442-la-dame-de-monsoreau.json) |
 | LA Deadzone | 121994 | [121994-la-deadzone.json](./121994-la-deadzone.json) |
@@ -10098,6 +10099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ludo Okpo | 237508 | [237508-ludo-okpo.json](./237508-ludo-okpo.json) |
 | Ludo Online | 89583 | [89583-ludo-online.json](./89583-ludo-online.json) |
 | Ludo Park | 257342 | [257342-ludo-park.json](./257342-ludo-park.json) |
+| Ludo Party | 334993 | [334993-ludo-party.json](./334993-ludo-party.json) |
 | Ludo Saga | 240349 | [240349-ludo-saga.json](./240349-ludo-saga.json) |
 | Ludo Supremo | 32407 | [32407-ludo-supremo.json](./32407-ludo-supremo.json) |
 | Ludo Tactics | 248813 | [248813-ludo-tactics.json](./248813-ludo-tactics.json) |
