@@ -10607,6 +10607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow School | 406794 | [406794-grow-school.json](./406794-grow-school.json) |
 | Grow Survivor - Dead Survival | 96822 | [96822-grow-survivor-dead-survival.json](./96822-grow-survivor-dead-survival.json) |
 | Grow the Seed | 244158 | [244158-grow-the-seed.json](./244158-grow-the-seed.json) |
+| Grow to Perfection | 324053 | [324053-grow-to-perfection.json](./324053-grow-to-perfection.json) |
 | Grow Tower | 175830 | [175830-grow-tower.json](./175830-grow-tower.json) |
 | Grow Turret | 248155 | [248155-grow-turret.json](./248155-grow-turret.json) |
 | Grow Up | 19552 | [19552-grow-up.json](./19552-grow-up.json) |
