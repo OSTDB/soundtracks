@@ -767,6 +767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xess: The New Revolution | 39933 | [39933-xess-the-new-revolution.json](./39933-xess-the-new-revolution.json) |
 | Xeta | 274283 | [274283-xeta.json](./274283-xeta.json) |
 | Xetanon | 289685 | [289685-xetanon.json](./289685-xetanon.json) |
+| Xetter 2020 | 364121 | [364121-xetter-2020.json](./364121-xetter-2020.json) |
 | Xevious | 284382 | [284382-xevious.json](./284382-xevious.json) |
 | Xevious 3D | 23394 | [23394-xevious-3d.json](./23394-xevious-3d.json) |
 | Xevious 3D/G | 20133 | [20133-xevious-3d-g.json](./20133-xevious-3d-g.json) |
