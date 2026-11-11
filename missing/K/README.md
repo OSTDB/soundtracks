@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kahi | 180921 | [180921-kahi.json](./180921-kahi.json) |
 | Kahmate | 207992 | [207992-kahmate.json](./207992-kahmate.json) |
 | Kahogo de Ecchi na Boku no Ane | 97449 | [97449-kahogo-de-ecchi-na-boku-no-ane.json](./97449-kahogo-de-ecchi-na-boku-no-ane.json) |
+| Kahoro and Tetra | 321690 | [321690-kahoro-and-tetra.json](./321690-kahoro-and-tetra.json) |
 | Kai | 302610 | [302610-kai.json](./302610-kai.json) |
 | Kai Entity | 107510 | [107510-kai-entity.json](./107510-kai-entity.json) |
 | Kai Temple | 94910 | [94910-kai-temple.json](./94910-kai-temple.json) |
@@ -338,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KaiseR Land 03 | 273183 | [273183-kaiser-land-03.json](./273183-kaiser-land-03.json) |
 | Kaiser of Singularity | 260868 | [260868-kaiser-of-singularity.json](./260868-kaiser-of-singularity.json) |
 | Kaiserpunk | 276655 | [276655-kaiserpunk.json](./276655-kaiserpunk.json) |
+| Kaiserredux | 321697 | [321697-kaiserredux.json](./321697-kaiserredux.json) |
 | Kaiserreich: Legacy of the Weltkrieg | 403344 | [403344-kaiserreich-legacy-of-the-weltkrieg.json](./403344-kaiserreich-legacy-of-the-weltkrieg.json) |
 | Kaisho | 276270 | [276270-kaisho.json](./276270-kaisho.json) |
 | Kaitasume: Zero | 388406 | [388406-kaitasume-zero.json](./388406-kaitasume-zero.json) |
@@ -4357,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Burst | 201690 | [201690-kitten-burst.json](./201690-kitten-burst.json) |
 | Kitten Cannon | 25889 | [25889-kitten-cannon.json](./25889-kitten-cannon.json) |
 | Kitten Coliseum | 388230 | [388230-kitten-coliseum.json](./388230-kitten-coliseum.json) |
+| Kitten Command | 321684 | [321684-kitten-command.json](./321684-kitten-command.json) |
 | Kitten Connection | 422816 | [422816-kitten-connection.json](./422816-kitten-connection.json) |
 | Kitten Food Alley | 332963 | [332963-kitten-food-alley.json](./332963-kitten-food-alley.json) |
 | Kitten Greatest | 422812 | [422812-kitten-greatest.json](./422812-kitten-greatest.json) |
@@ -5263,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodoku | 387318 | [387318-kodoku.json](./387318-kodoku.json) |
 | Kodoku | 52531 | [52531-kodoku.json](./52531-kodoku.json) |
 | Kodoku no Yurikago | 260941 | [260941-kodoku-no-yurikago.json](./260941-kodoku-no-yurikago.json) |
+| Kodokuhime | 321010 | [321010-kodokuhime.json](./321010-kodokuhime.json) |
 | Kodomo Chousadan Mighty Pockets | 134461 | [134461-kodomo-chousadan-mighty-pockets.json](./134461-kodomo-chousadan-mighty-pockets.json) |
 | Kodomo Chousadan Mighty Pockets: Chousa 1 - Junk-ya Black no Ie | 179964 | [179964-kodomo-chousadan-mighty-pockets-chousa-1-junk-ya-black-no-ie.json](./179964-kodomo-chousadan-mighty-pockets-chousa-1-junk-ya-black-no-ie.json) |
 | Kodomo Chousadan Mighty Pockets: Chousa 2 - Hanzai Toshi Big Apple | 179965 | [179965-kodomo-chousadan-mighty-pockets-chousa-2-hanzai-toshi-big-apple.json](./179965-kodomo-chousadan-mighty-pockets-chousa-2-hanzai-toshi-big-apple.json) |
@@ -5440,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokoro Clover Infinite Phantasm | 416056 | [416056-kokoro-clover-infinite-phantasm.json](./416056-kokoro-clover-infinite-phantasm.json) |
 | Kokoro Clover Part2 | 142151 | [142151-kokoro-clover-part2.json](./142151-kokoro-clover-part2.json) |
 | Kokoro Clover Season 1 | 204950 | [204950-kokoro-clover-season-1.json](./204950-kokoro-clover-season-1.json) |
+| Kokoro Clover Sun: Prehistoric Invaders! | 321083 | [321083-kokoro-clover-sun-prehistoric-invaders.json](./321083-kokoro-clover-sun-prehistoric-invaders.json) |
 | Kokoro Connect: Yochi Random | 112296 | [112296-kokoro-connect-yochi-random.json](./112296-kokoro-connect-yochi-random.json) |
 | Kokoro Kitchen | 334463 | [334463-kokoro-kitchen.json](./334463-kokoro-kitchen.json) |
 | Kokoro no Doki Doki Senpai?? | 150133 | [150133-kokoro-no-doki-doki-senpai.json](./150133-kokoro-no-doki-doki-senpai.json) |
