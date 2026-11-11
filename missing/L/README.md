@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lantern Lagoon | 221837 | [221837-lantern-lagoon.json](./221837-lantern-lagoon.json) |
 | Lantern Light | 379701 | [379701-lantern-light.json](./379701-lantern-light.json) |
 | Lantern Light VR | 160039 | [160039-lantern-light-vr.json](./160039-lantern-light-vr.json) |
+| Lantern of Remembrance | 361947 | [361947-lantern-of-remembrance.json](./361947-lantern-of-remembrance.json) |
 | Lantern of Worlds | 68511 | [68511-lantern-of-worlds.json](./68511-lantern-of-worlds.json) |
 | Lantern of Worlds - The First Quest | 110646 | [110646-lantern-of-worlds-the-first-quest.json](./110646-lantern-of-worlds-the-first-quest.json) |
 | Lantern of Worlds - The Story of Layla | 116290 | [116290-lantern-of-worlds-the-story-of-layla.json](./116290-lantern-of-worlds-the-story-of-layla.json) |
@@ -1431,6 +1432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Harem | 297911 | [297911-last-harem.json](./297911-last-harem.json) |
 | Last Harvest | 138779 | [138779-last-harvest.json](./138779-last-harvest.json) |
 | Last Haul | 421264 | [421264-last-haul.json](./421264-last-haul.json) |
+| Last Heist | 361939 | [361939-last-heist.json](./361939-last-heist.json) |
 | Last Helion | 317863 | [317863-last-helion.json](./317863-last-helion.json) |
 | Last Hero | 196430 | [196430-last-hero.json](./196430-last-hero.json) |
 | Last Heroes | 35248 | [35248-last-heroes.json](./35248-last-heroes.json) |
