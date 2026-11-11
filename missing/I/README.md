@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'Max Shougi II | 419312 | [419312-imax-shougi-ii.json](./419312-imax-shougi-ii.json) |
 | I'mitation: The Eight Suicide Note | 132258 | [132258-imitation-the-eight-suicide-note.json](./132258-imitation-the-eight-suicide-note.json) |
 | I've Been Busy Being Dead | 182131 | [182131-ive-been-busy-being-dead.json](./182131-ive-been-busy-being-dead.json) |
+| I've Been Holding My Breath Since 2008 | 385031 | [385031-ive-been-holding-my-breath-since-2008.json](./385031-ive-been-holding-my-breath-since-2008.json) |
 | I've Fallen For You! | 319944 | [319944-ive-fallen-for-you.json](./319944-ive-fallen-for-you.json) |
 | I've Got a Brand New Pair of Legs | 129498 | [129498-ive-got-a-brand-new-pair-of-legs.json](./129498-ive-got-a-brand-new-pair-of-legs.json) |
 | I've Got to Run: Complete Edition! | 85188 | [85188-ive-got-to-run-complete-edition.json](./85188-ive-got-to-run-complete-edition.json) |
@@ -1422,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
 | Idle Cannon | 182781 | [182781-idle-cannon.json](./182781-idle-cannon.json) |
 | Idle Cannon: Tower TD Geometry | 299354 | [299354-idle-cannon-tower-td-geometry.json](./299354-idle-cannon-tower-td-geometry.json) |
+| Idle Car Clicker | 385024 | [385024-idle-car-clicker.json](./385024-idle-car-clicker.json) |
 | Idle Car Manager | 101856 | [101856-idle-car-manager.json](./101856-idle-car-manager.json) |
 | Idle Casino Empire | 311153 | [311153-idle-casino-empire.json](./311153-idle-casino-empire.json) |
 | Idle Cat Live Concert | 327655 | [327655-idle-cat-live-concert.json](./327655-idle-cat-live-concert.json) |
@@ -1729,6 +1731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Space | 128266 | [128266-idle-space.json](./128266-idle-space.json) |
 | Idle Space Force | 246425 | [246425-idle-space-force.json](./246425-idle-space-force.json) |
 | Idle Space Navy | 266983 | [266983-idle-space-navy.json](./266983-idle-space-navy.json) |
+| Idle Space Shooter | 384986 | [384986-idle-space-shooter.json](./384986-idle-space-shooter.json) |
 | Idle Space Station | 214101 | [214101-idle-space-station.json](./214101-idle-space-station.json) |
 | Idle Sphere | 323157 | [323157-idle-sphere.json](./323157-idle-sphere.json) |
 | Idle Spiral | 211230 | [211230-idle-spiral.json](./211230-idle-spiral.json) |
