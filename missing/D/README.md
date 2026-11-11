@@ -1017,7 +1017,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dandy | 13568 | [13568-dandy.json](./13568-dandy.json) |
 | Dandy & Randy | 110964 | [110964-dandy-and-randy.json](./110964-dandy-and-randy.json) |
 | Dandy & Randy DX | 193624 | [193624-dandy-and-randy-dx.json](./193624-dandy-and-randy-dx.json) |
-| Dandy Ace | 116533 | [116533-dandy-ace.json](./116533-dandy-ace.json) |
 | Dandy Boy Adventures | 280637 | [280637-dandy-boy-adventures.json](./280637-dandy-boy-adventures.json) |
 | Dandy Boy Halloween Adventure | 292056 | [292056-dandy-boy-halloween-adventure.json](./292056-dandy-boy-halloween-adventure.json) |
 | Dandy Dungeon: Legend of Brave Yamada | 27104 | [27104-dandy-dungeon-legend-of-brave-yamada.json](./27104-dandy-dungeon-legend-of-brave-yamada.json) |
@@ -14032,7 +14031,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom | 259941 | [259941-doom.json](./259941-doom.json) |
 | Doom | 259942 | [259942-doom.json](./259942-doom.json) |
 | Doom | 259943 | [259943-doom.json](./259943-doom.json) |
-| Doom | 259944 | [259944-doom.json](./259944-doom.json) |
 | Doom | 259982 | [259982-doom.json](./259982-doom.json) |
 | Doom | 313161 | [313161-doom.json](./313161-doom.json) |
 | Doom | 341698 | [341698-doom.json](./341698-doom.json) |
