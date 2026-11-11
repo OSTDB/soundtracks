@@ -9758,6 +9758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ananias | 56898 | [56898-ananias.json](./56898-ananias.json) |
 | Ananke | 221293 | [221293-ananke.json](./221293-ananke.json) |
 | Ananse and the Pot of Wisdom | 251827 | [251827-ananse-and-the-pot-of-wisdom.json](./251827-ananse-and-the-pot-of-wisdom.json) |
+| Anant Express | 361950 | [361950-anant-express.json](./361950-anant-express.json) |
 | Anant Shrankhla | 244664 | [244664-anant-shrankhla.json](./244664-anant-shrankhla.json) |
 | Anaon | 274031 | [274031-anaon.json](./274031-anaon.json) |
 | Anaphora | 274916 | [274916-anaphora.json](./274916-anaphora.json) |
@@ -10355,6 +10356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anger of Stick 2 | 299011 | [299011-anger-of-stick-2.json](./299011-anger-of-stick-2.json) |
 | Anger of Stick 4 | 237643 | [237643-anger-of-stick-4.json](./237643-anger-of-stick-4.json) |
 | Anger of Stick 5: Zombie | 331159 | [331159-anger-of-stick-5-zombie.json](./331159-anger-of-stick-5-zombie.json) |
+| Angeraze | 361954 | [361954-angeraze.json](./361954-angeraze.json) |
 | Angeraze 2: Tenshi no Kiseki | 130601 | [130601-angeraze-2-tenshi-no-kiseki.json](./130601-angeraze-2-tenshi-no-kiseki.json) |
 | AngerDark | 112797 | [112797-angerdark.json](./112797-angerdark.json) |
 | AngerForce: Reloaded | 55808 | [55808-angerforce-reloaded.json](./55808-angerforce-reloaded.json) |
@@ -12036,6 +12038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AntVentor | 75809 | [75809-antventor.json](./75809-antventor.json) |
 | AntWar.io | 185442 | [185442-antwar-io.json](./185442-antwar-io.json) |
 | Anty | 47546 | [47546-anty.json](./47546-anty.json) |
+| Antyavan | 361941 | [361941-antyavan.json](./361941-antyavan.json) |
 | Antz | 94622 | [94622-antz.json](./94622-antz.json) |
 | Antz Extreme Racing | 248605 | [248605-antz-extreme-racing.json](./248605-antz-extreme-racing.json) |
 | Antz Extreme Racing | 5727 | [5727-antz-extreme-racing.json](./5727-antz-extreme-racing.json) |
@@ -18840,6 +18843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autumn Romance | 191039 | [191039-autumn-romance.json](./191039-autumn-romance.json) |
 | Autumn Soil | 184998 | [184998-autumn-soil.json](./184998-autumn-soil.json) |
 | Autumn Spirit | 219363 | [219363-autumn-spirit.json](./219363-autumn-spirit.json) |
+| Autumn Waifu | 361977 | [361977-autumn-waifu.json](./361977-autumn-waifu.json) |
 | Autumn Walk | 63883 | [63883-autumn-walk.json](./63883-autumn-walk.json) |
 | Autumn war | 331289 | [331289-autumn-war.json](./331289-autumn-war.json) |
 | Autumn War: Survivor | 378005 | [378005-autumn-war-survivor.json](./378005-autumn-war-survivor.json) |
