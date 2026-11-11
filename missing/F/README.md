@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fans Rush | 104700 | [104700-fans-rush.json](./104700-fans-rush.json) |
 | Fant Kids Animated Puzzle | 116982 | [116982-fant-kids-animated-puzzle.json](./116982-fant-kids-animated-puzzle.json) |
 | Fant Kids Matching Game | 112864 | [112864-fant-kids-matching-game.json](./112864-fant-kids-matching-game.json) |
+| Fantahouse | 360834 | [360834-fantahouse.json](./360834-fantahouse.json) |
 | Fantamal | 132483 | [132483-fantamal.json](./132483-fantamal.json) |
 | Fantamon | 348794 | [348794-fantamon.json](./348794-fantamon.json) |
 | Fantashooting | 175088 | [175088-fantashooting.json](./175088-fantashooting.json) |
@@ -3824,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fears | 15541 | [15541-fears.json](./15541-fears.json) |
 | Fears of Glasses O-O | 180008 | [180008-fears-of-glasses-o-o.json](./180008-fears-of-glasses-o-o.json) |
 | Fears of Glasses o-o World War | 237215 | [237215-fears-of-glasses-o-o-world-war.json](./237215-fears-of-glasses-o-o-world-war.json) |
+| Fears to Fathom Bundle | 360828 | [360828-fears-to-fathom-bundle.json](./360828-fears-to-fathom-bundle.json) |
 | Fears to Fathom: Carson House | 215569 | [215569-fears-to-fathom-carson-house.json](./215569-fears-to-fathom-carson-house.json) |
 | Fears to Fathom: Home Alone | 171390 | [171390-fears-to-fathom-home-alone.json](./171390-fears-to-fathom-home-alone.json) |
 | Fears to Fathom: Ironbark Lookout | 256636 | [256636-fears-to-fathom-ironbark-lookout.json](./256636-fears-to-fathom-ironbark-lookout.json) |
@@ -5771,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Me in the Maze | 214733 | [214733-find-me-in-the-maze.json](./214733-find-me-in-the-maze.json) |
 | Find Me: Horror Game | 127772 | [127772-find-me-horror-game.json](./127772-find-me-horror-game.json) |
 | Find me... | 184761 | [184761-find-me.json](./184761-find-me.json) |
+| Find Meow in Dwarf Mines | 360837 | [360837-find-meow-in-dwarf-mines.json](./360837-find-meow-in-dwarf-mines.json) |
 | Find Meow in Wild West | 356748 | [356748-find-meow-in-wild-west.json](./356748-find-meow-in-wild-west.json) |
 | Find My Frogs | 347218 | [347218-find-my-frogs.json](./347218-find-my-frogs.json) |
 | Find My Frogs: Branches | 362893 | [362893-find-my-frogs-branches.json](./362893-find-my-frogs-branches.json) |
