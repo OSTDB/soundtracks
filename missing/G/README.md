@@ -8651,6 +8651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandpa Needs Fish | 407753 | [407753-grandpa-needs-fish.json](./407753-grandpa-needs-fish.json) |
 | Grandpa Pip's Birthday | 182639 | [182639-grandpa-pips-birthday.json](./182639-grandpa-pips-birthday.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
+| Grandpa: Bread Adventure | 338444 | [338444-grandpa-bread-adventure.json](./338444-grandpa-bread-adventure.json) |
 | Grandpa: The Horror Game | 99307 | [99307-grandpa-the-horror-game.json](./99307-grandpa-the-horror-game.json) |
 | Grandpa's Bee Haven | 387836 | [387836-grandpas-bee-haven.json](./387836-grandpas-bee-haven.json) |
 | Grandpa's Cheese | 200532 | [200532-grandpas-cheese.json](./200532-grandpas-cheese.json) |
