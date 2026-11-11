@@ -514,7 +514,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiheiyou no Arashi: Koukoku no Kouhai Koko ni Ari, 1942 Senkan Yamato Hankou no Kouhou | 245034 | [245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json](./245034-taiheiyou-no-arashi-koukoku-no-kouhai-koko-ni-ari-1942-senkan-yamato-hankou-no-kouhou.json) |
 | Taiheiyou no Arashi: Senkan Yamato, Akatsuki ni Shutsugeki su! | 241437 | [241437-taiheiyou-no-arashi-senkan-yamato-akatsuki-ni-shutsugeki-su.json](./241437-taiheiyou-no-arashi-senkan-yamato-akatsuki-ni-shutsugeki-su.json) |
 | Taiheiyou no Arashi: Shijou Saidai no Gekisen Normandy Koubousen | 147317 | [147317-taiheiyou-no-arashi-shijou-saidai-no-gekisen-normandy-koubousen.json](./147317-taiheiyou-no-arashi-shijou-saidai-no-gekisen-normandy-koubousen.json) |
-| Taiji | 127440 | [127440-taiji.json](./127440-taiji.json) |
 | Taijitu: A Game About Balance | 167289 | [167289-taijitu-a-game-about-balance.json](./167289-taijitu-a-game-about-balance.json) |
 | Taika | 306425 | [306425-taika.json](./306425-taika.json) |
 | Taiker | 26547 | [26547-taiker.json](./26547-taiker.json) |
@@ -9302,7 +9301,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Firesong | 237340 | [237340-the-elder-scrolls-online-firesong.json](./237340-the-elder-scrolls-online-firesong.json) |
 | The Elder Scrolls Online: Flames of Ambition | 180622 | [180622-the-elder-scrolls-online-flames-of-ambition.json](./180622-the-elder-scrolls-online-flames-of-ambition.json) |
 | The Elder Scrolls Online: Gold Road | 283120 | [283120-the-elder-scrolls-online-gold-road.json](./283120-the-elder-scrolls-online-gold-road.json) |
-| The Elder Scrolls Online: Greymoor | 128442 | [128442-the-elder-scrolls-online-greymoor.json](./128442-the-elder-scrolls-online-greymoor.json) |
 | The Elder Scrolls Online: Greymoor - Collector's Edition | 128765 | [128765-the-elder-scrolls-online-greymoor-collectors-edition.json](./128765-the-elder-scrolls-online-greymoor-collectors-edition.json) |
 | The Elder Scrolls Online: Harrowstorm | 128443 | [128443-the-elder-scrolls-online-harrowstorm.json](./128443-the-elder-scrolls-online-harrowstorm.json) |
 | The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
@@ -10250,7 +10248,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flow | 140544 | [140544-the-flow.json](./140544-the-flow.json) |
 | The Flow Experience | 191071 | [191071-the-flow-experience.json](./191071-the-flow-experience.json) |
 | The Flower | 361747 | [361747-the-flower.json](./361747-the-flower.json) |
-| The Flower Collectors | 131930 | [131930-the-flower-collectors.json](./131930-the-flower-collectors.json) |
 | The Flower Inspector | 348889 | [348889-the-flower-inspector.json](./348889-the-flower-inspector.json) |
 | The flower of desire | 237166 | [237166-the-flower-of-desire.json](./237166-the-flower-of-desire.json) |
 | The Flower on Christmas Eve | 122052 | [122052-the-flower-on-christmas-eve.json](./122052-the-flower-on-christmas-eve.json) |
