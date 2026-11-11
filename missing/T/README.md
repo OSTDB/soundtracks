@@ -12038,6 +12038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jackbox Big Bang Bundle | 376263 | [376263-the-jackbox-big-bang-bundle.json](./376263-the-jackbox-big-bang-bundle.json) |
 | The Jackbox Bundle | 53750 | [53750-the-jackbox-bundle.json](./53750-the-jackbox-bundle.json) |
 | The Jackbox Decade Bundle | 295644 | [295644-the-jackbox-decade-bundle.json](./295644-the-jackbox-decade-bundle.json) |
+| The Jackbox Naughty and Nice Bundle | 328720 | [328720-the-jackbox-naughty-and-nice-bundle.json](./328720-the-jackbox-naughty-and-nice-bundle.json) |
 | The Jackbox Naughty Pack | 299591 | [299591-the-jackbox-naughty-pack.json](./299591-the-jackbox-naughty-pack.json) |
 | The Jackbox Party Pack | 11529 | [11529-the-jackbox-party-pack.json](./11529-the-jackbox-party-pack.json) |
 | The Jackbox Party Pack 11 | 338919 | [338919-the-jackbox-party-pack-11.json](./338919-the-jackbox-party-pack-11.json) |
@@ -13851,6 +13852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Engine That Could | 242030 | [242030-the-little-engine-that-could.json](./242030-the-little-engine-that-could.json) |
 | The Little Fox | 103096 | [103096-the-little-fox.json](./103096-the-little-fox.json) |
 | The Little Girl Mill of a Ginko | 300383 | [300383-the-little-girl-mill-of-a-ginko.json](./300383-the-little-girl-mill-of-a-ginko.json) |
+| The Little Gnomes: The Secret of the Magical Forest | 328719 | [328719-the-little-gnomes-the-secret-of-the-magical-forest.json](./328719-the-little-gnomes-the-secret-of-the-magical-forest.json) |
 | The Little Land | 403022 | [403022-the-little-land.json](./403022-the-little-land.json) |
 | The Little Lifeform That Could | 57483 | [57483-the-little-lifeform-that-could.json](./57483-the-little-lifeform-that-could.json) |
 | The Little Match Girl 2: Annus Evertens | 290400 | [290400-the-little-match-girl-2-annus-evertens.json](./290400-the-little-match-girl-2-annus-evertens.json) |
