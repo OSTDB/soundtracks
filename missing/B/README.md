@@ -5562,6 +5562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: 2Pac - "All Eyez On Me (feat. Big Syke)" | 296579 | [296579-beat-saber-2pac-all-eyez-on-me-feat-big-syke.json](./296579-beat-saber-2pac-all-eyez-on-me-feat-big-syke.json) |
 | Beat Saber: Aero Chord - "Boundless" | 358199 | [358199-beat-saber-aero-chord-boundless.json](./358199-beat-saber-aero-chord-boundless.json) |
 | Beat Saber: Alan Walker - "Wake Up" | 357566 | [357566-beat-saber-alan-walker-wake-up.json](./357566-beat-saber-alan-walker-wake-up.json) |
+| Beat Saber: Billie Eilish - "Birds of a Feather" | 357540 | [357540-beat-saber-billie-eilish-birds-of-a-feather.json](./357540-beat-saber-billie-eilish-birds-of-a-feather.json) |
 | Beat Saber: Billie Eilish Music Pack | 363178 | [363178-beat-saber-billie-eilish-music-pack.json](./363178-beat-saber-billie-eilish-music-pack.json) |
 | Beat Saber: Bossfight - "Endgame" | 357565 | [357565-beat-saber-bossfight-endgame.json](./357565-beat-saber-bossfight-endgame.json) |
 | Beat Saber: Britney Spears - "…Baby One More Time" | 357222 | [357222-beat-saber-britney-spears-baby-one-more-time.json](./357222-beat-saber-britney-spears-baby-one-more-time.json) |
@@ -5631,7 +5632,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Interscope Mixtape Music Pack | 363177 | [363177-beat-saber-interscope-mixtape-music-pack.json](./363177-beat-saber-interscope-mixtape-music-pack.json) |
 | Beat Saber: JAY-Z, Linkin Park - "Numb/Encore" | 357601 | [357601-beat-saber-jay-z-linkin-park-numb-encore.json](./357601-beat-saber-jay-z-linkin-park-numb-encore.json) |
 | Beat Saber: Katseye - "Gabriela" | 407194 | [407194-beat-saber-katseye-gabriela.json](./407194-beat-saber-katseye-gabriela.json) |
+| Beat Saber: Kendrick Lamar - "Not Like Us" | 357542 | [357542-beat-saber-kendrick-lamar-not-like-us.json](./357542-beat-saber-kendrick-lamar-not-like-us.json) |
 | Beat Saber: KISS - "I Was Made For Lovin' You" | 357229 | [357229-beat-saber-kiss-i-was-made-for-lovin-you.json](./357229-beat-saber-kiss-i-was-made-for-lovin-you.json) |
+| Beat Saber: Lady Gaga - "Abracadabra" | 357539 | [357539-beat-saber-lady-gaga-abracadabra.json](./357539-beat-saber-lady-gaga-abracadabra.json) |
 | Beat Saber: Lady Gaga - "Alejandro" | 357242 | [357242-beat-saber-lady-gaga-alejandro.json](./357242-beat-saber-lady-gaga-alejandro.json) |
 | Beat Saber: Lady Gaga - "Poker Face" | 357241 | [357241-beat-saber-lady-gaga-poker-face.json](./357241-beat-saber-lady-gaga-poker-face.json) |
 | Beat Saber: Lady Gaga Music Pack | 357355 | [357355-beat-saber-lady-gaga-music-pack.json](./357355-beat-saber-lady-gaga-music-pack.json) |
@@ -5652,9 +5655,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Saber: Linkin Park x Mike Shinoda Music Pack | 363196 | [363196-beat-saber-linkin-park-x-mike-shinoda-music-pack.json](./363196-beat-saber-linkin-park-x-mike-shinoda-music-pack.json) |
 | Beat Saber: Lizzo Music Pack | 363193 | [363193-beat-saber-lizzo-music-pack.json](./363193-beat-saber-lizzo-music-pack.json) |
 | Beat Saber: Metallica - "Atlas, Rise!" | 357559 | [357559-beat-saber-metallica-atlas-rise.json](./357559-beat-saber-metallica-atlas-rise.json) |
+| Beat Saber: Metallica - "Battery" | 357546 | [357546-beat-saber-metallica-battery.json](./357546-beat-saber-metallica-battery.json) |
 | Beat Saber: Metallica - "Blackened" | 357550 | [357550-beat-saber-metallica-blackened.json](./357550-beat-saber-metallica-blackened.json) |
 | Beat Saber: Metallica - "Creeping Death" | 357549 | [357549-beat-saber-metallica-creeping-death.json](./357549-beat-saber-metallica-creeping-death.json) |
 | Beat Saber: Metallica - "Enter Sandman" | 357556 | [357556-beat-saber-metallica-enter-sandman.json](./357556-beat-saber-metallica-enter-sandman.json) |
+| Beat Saber: Metallica - "Fade to Black" | 357543 | [357543-beat-saber-metallica-fade-to-black.json](./357543-beat-saber-metallica-fade-to-black.json) |
 | Beat Saber: Metallica - "For Whom the Bell Tolls" | 357553 | [357553-beat-saber-metallica-for-whom-the-bell-tolls.json](./357553-beat-saber-metallica-for-whom-the-bell-tolls.json) |
 | Beat Saber: Metallica - "Fuel" | 357560 | [357560-beat-saber-metallica-fuel.json](./357560-beat-saber-metallica-fuel.json) |
 | Beat Saber: Metallica - "Hit the Lights" | 357548 | [357548-beat-saber-metallica-hit-the-lights.json](./357548-beat-saber-metallica-hit-the-lights.json) |
@@ -14810,6 +14815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bound by Desire | 367203 | [367203-bound-by-desire.json](./367203-bound-by-desire.json) |
 | Bound By Havoc | 384646 | [384646-bound-by-havoc.json](./384646-bound-by-havoc.json) |
 | Bound by Love | 186837 | [186837-bound-by-love.json](./186837-bound-by-love.json) |
+| Bound City | 357519 | [357519-bound-city.json](./357519-bound-city.json) |
 | Bound Crystal Saga | 388927 | [388927-bound-crystal-saga.json](./388927-bound-crystal-saga.json) |
 | Bound Destiny 2: Destiny's Requiem | 345365 | [345365-bound-destiny-2-destinys-requiem.json](./345365-bound-destiny-2-destinys-requiem.json) |
 | Bound Destiny 3: Resonance | 345366 | [345366-bound-destiny-3-resonance.json](./345366-bound-destiny-3-resonance.json) |
