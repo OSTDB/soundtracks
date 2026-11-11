@@ -5728,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invadead | 209486 | [209486-invadead.json](./209486-invadead.json) |
 | Invaded | 121698 | [121698-invaded.json](./121698-invaded.json) |
 | Invader | 59801 | [59801-invader.json](./59801-invader.json) |
+| Invader of the Galaxy | 374528 | [374528-invader-of-the-galaxy.json](./374528-invader-of-the-galaxy.json) |
 | Invader Signal | 207404 | [207404-invader-signal.json](./207404-invader-signal.json) |
 | Invader Simulator | 351616 | [351616-invader-simulator.json](./351616-invader-simulator.json) |
 | Invader's Revenge | 38572 | [38572-invaders-revenge.json](./38572-invaders-revenge.json) |
