@@ -5577,6 +5577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal Explorer | 407805 | [407805-liminal-explorer.json](./407805-liminal-explorer.json) |
 | Liminal Gallery | 274214 | [274214-liminal-gallery.json](./274214-liminal-gallery.json) |
 | Liminal Game | 341082 | [341082-liminal-game.json](./341082-liminal-game.json) |
+| Liminal Horror | 359129 | [359129-liminal-horror.json](./359129-liminal-horror.json) |
 | Liminal Industries | 359721 | [359721-liminal-industries.json](./359721-liminal-industries.json) |
 | Liminal Lands | 249898 | [249898-liminal-lands.json](./249898-liminal-lands.json) |
 | Liminal Lane | 349957 | [349957-liminal-lane.json](./349957-liminal-lane.json) |
