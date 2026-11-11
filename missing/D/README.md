@@ -24,6 +24,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Day | 27252 | [27252-d-day.json](./27252-d-day.json) |
 | D-Day | 32367 | [32367-d-day.json](./32367-d-day.json) |
 | D-Day | 410295 | [410295-d-day.json](./410295-d-day.json) |
+| D-Day Defender | 387810 | [387810-d-day-defender.json](./387810-d-day-defender.json) |
 | D-Day Enhanced | 286867 | [286867-d-day-enhanced.json](./286867-d-day-enhanced.json) |
 | D-Day Invasions | 293836 | [293836-d-day-invasions.json](./293836-d-day-invasions.json) |
 | D-Day VR Museum | 295790 | [295790-d-day-vr-museum.json](./295790-d-day-vr-museum.json) |
@@ -1135,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Zombies | 169031 | [169031-danger-zombies.json](./169031-danger-zombies.json) |
 | Danger Zone | 277687 | [277687-danger-zone.json](./277687-danger-zone.json) |
 | Danger Zone | 28242 | [28242-danger-zone.json](./28242-danger-zone.json) |
+| Danger Zone | 387839 | [387839-danger-zone.json](./387839-danger-zone.json) |
 | Danger Zone 2 | 104231 | [104231-danger-zone-2.json](./104231-danger-zone-2.json) |
 | Danger Zone Friends | 135044 | [135044-danger-zone-friends.json](./135044-danger-zone-friends.json) |
 | Danger, Bob-omb! Danger!: Handle with Care | 322377 | [322377-danger-bob-omb-danger-handle-with-care.json](./322377-danger-bob-omb-danger-handle-with-care.json) |
@@ -4842,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death in a Party | 381738 | [381738-death-in-a-party.json](./381738-death-in-a-party.json) |
 | Death In Abyss | 247609 | [247609-death-in-abyss.json](./247609-death-in-abyss.json) |
 | Death in Excess | 222623 | [222623-death-in-excess.json](./222623-death-in-excess.json) |
+| Death in Sakkara: An Egyptian Adventure | 387813 | [387813-death-in-sakkara-an-egyptian-adventure.json](./387813-death-in-sakkara-an-egyptian-adventure.json) |
 | Death in sands | 190850 | [190850-death-in-sands.json](./190850-death-in-sands.json) |
 | Death in the Bunker | 224555 | [224555-death-in-the-bunker.json](./224555-death-in-the-bunker.json) |
 | Death in the Caribbean | 23243 | [23243-death-in-the-caribbean.json](./23243-death-in-the-caribbean.json) |
@@ -5040,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Valley | 291744 | [291744-death-valley.json](./291744-death-valley.json) |
 | Death Vegas | 397407 | [397407-death-vegas.json](./397407-death-vegas.json) |
 | Death Voting Game | 110667 | [110667-death-voting-game.json](./110667-death-voting-game.json) |
+| Death vs Monstars | 387815 | [387815-death-vs-monstars.json](./387815-death-vs-monstars.json) |
 | Death Wake | 13580 | [13580-death-wake.json](./13580-death-wake.json) |
 | Death Walk | 217295 | [217295-death-walk.json](./217295-death-walk.json) |
 | Death Waves | 114978 | [114978-death-waves.json](./114978-death-waves.json) |
@@ -6961,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Street | 387560 | [387560-demon-street.json](./387560-demon-street.json) |
 | Demon Strikes Back | 156647 | [156647-demon-strikes-back.json](./156647-demon-strikes-back.json) |
 | Demon Survival | 226756 | [226756-demon-survival.json](./226756-demon-survival.json) |
+| Demon Swield | 387820 | [387820-demon-swield.json](./387820-demon-swield.json) |
 | Demon Sword | 48065 | [48065-demon-sword.json](./48065-demon-sword.json) |
 | Demon Sword: Incubus | 203955 | [203955-demon-sword-incubus.json](./203955-demon-sword-incubus.json) |
 | Demon Tamer | 168587 | [168587-demon-tamer.json](./168587-demon-tamer.json) |
@@ -7041,7 +7046,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
 | Demonic Deckmaster | 291505 | [291505-demonic-deckmaster.json](./291505-demonic-deckmaster.json) |
+| Demonic Defence 2 | 387821 | [387821-demonic-defence-2.json](./387821-demonic-defence-2.json) |
 | Demonic Defence 3 | 380695 | [380695-demonic-defence-3.json](./380695-demonic-defence-3.json) |
+| Demonic Defence 4 | 387822 | [387822-demonic-defence-4.json](./387822-demonic-defence-4.json) |
 | Demonic Destruction! | 261451 | [261451-demonic-destruction.json](./261451-demonic-destruction.json) |
 | Demonic Deviation | 260512 | [260512-demonic-deviation.json](./260512-demonic-deviation.json) |
 | Demonic Episode | 269479 | [269479-demonic-episode.json](./269479-demonic-episode.json) |
@@ -7356,6 +7363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth of Consciousness | 114315 | [114315-depth-of-consciousness.json](./114315-depth-of-consciousness.json) |
 | Depth of Extinction | 55543 | [55543-depth-of-extinction.json](./55543-depth-of-extinction.json) |
 | Depth of Extinction: Definitive Edition | 222236 | [222236-depth-of-extinction-definitive-edition.json](./222236-depth-of-extinction-definitive-edition.json) |
+| Depth Overload | 387812 | [387812-depth-overload.json](./387812-depth-overload.json) |
 | Depth Siege Atlantis | 96521 | [96521-depth-siege-atlantis.json](./96521-depth-siege-atlantis.json) |
 | Depth VR | 31098 | [31098-depth-vr.json](./31098-depth-vr.json) |
 | Depth-Blind | 326565 | [326565-depth-blind.json](./326565-depth-blind.json) |
@@ -7853,6 +7861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Table Tennis | 119524 | [119524-desktop-table-tennis.json](./119524-desktop-table-tennis.json) |
 | Desktop Tourney World | 282011 | [282011-desktop-tourney-world.json](./282011-desktop-tourney-world.json) |
 | Desktop Tower Defense | 21189 | [21189-desktop-tower-defense.json](./21189-desktop-tower-defense.json) |
+| Desktop Tower Defense | 387825 | [387825-desktop-tower-defense.json](./387825-desktop-tower-defense.json) |
 | Desktop Town | 372681 | [372681-desktop-town.json](./372681-desktop-town.json) |
 | Desktop Tree | 108408 | [108408-desktop-tree.json](./108408-desktop-tree.json) |
 | Desktop Volleyball | 147834 | [147834-desktop-volleyball.json](./147834-desktop-volleyball.json) |
@@ -13148,6 +13157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Blame You | 229809 | [229809-dont-blame-you.json](./229809-dont-blame-you.json) |
 | Don't Bleed | 76949 | [76949-dont-bleed.json](./76949-dont-bleed.json) |
 | Don't Blink | 155980 | [155980-dont-blink.json](./155980-dont-blink.json) |
+| Don't Blink | 387803 | [387803-dont-blink.json](./387803-dont-blink.json) |
 | Don't Boop My Booper | 143843 | [143843-dont-boop-my-booper.json](./143843-dont-boop-my-booper.json) |
 | Don't Bow | 224330 | [224330-dont-bow.json](./224330-dont-bow.json) |
 | Don't Break | 354772 | [354772-dont-break.json](./354772-dont-break.json) |
@@ -18044,8 +18054,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop by Hippo Cooperation | 107020 | [107020-drop-by-hippo-cooperation.json](./107020-drop-by-hippo-cooperation.json) |
 | Drop Cat | 127769 | [127769-drop-cat.json](./127769-drop-cat.json) |
 | Drop Cooking | 311478 | [311478-drop-cooking.json](./311478-drop-cooking.json) |
+| Drop Dead: Extended Edit | 387830 | [387830-drop-dead-extended-edit.json](./387830-drop-dead-extended-edit.json) |
 | Drop Dead: Remains | 95986 | [95986-drop-dead-remains.json](./95986-drop-dead-remains.json) |
 | Drop Dead: The Cabin | 238999 | [238999-drop-dead-the-cabin.json](./238999-drop-dead-the-cabin.json) |
+| Drop Dead! | 387829 | [387829-drop-dead.json](./387829-drop-dead.json) |
 | Drop Doll | 268297 | [268297-drop-doll.json](./268297-drop-doll.json) |
 | Drop Duchy | 317865 | [317865-drop-duchy.json](./317865-drop-duchy.json) |
 | Drop Duchy: The North | 383572 | [383572-drop-duchy-the-north.json](./383572-drop-duchy-the-north.json) |
