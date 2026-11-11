@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Street Fighter IV: Shoryuken Wild Pack | 225129 | [225129-ultra-street-fighter-iv-shoryuken-wild-pack.json](./225129-ultra-street-fighter-iv-shoryuken-wild-pack.json) |
 | Ultra Strikers | 299606 | [299606-ultra-strikers.json](./299606-ultra-strikers.json) |
 | Ultra Sudoku | 338598 | [338598-ultra-sudoku.json](./338598-ultra-sudoku.json) |
+| Ultra Super Reflection Guide | 361356 | [361356-ultra-super-reflection-guide.json](./361356-ultra-super-reflection-guide.json) |
 | Ultra Sweeper | 338597 | [338597-ultra-sweeper.json](./338597-ultra-sweeper.json) |
 | Ultra Tank | 39402 | [39402-ultra-tank.json](./39402-ultra-tank.json) |
 | Ultra Thunderball | 187037 | [187037-ultra-thunderball.json](./187037-ultra-thunderball.json) |
