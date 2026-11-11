@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T20:00:50.874Z",
-  "total_soundtracks": 3046,
+  "generated_at": "2026-11-11T20:06:45.417Z",
+  "total_soundtracks": 3056,
   "games": [
     {
       "igdb_id": 7522,
@@ -291,6 +291,20 @@
         {
           "album_name": "A Light in the Dark (Original Soundtracks)",
           "spotify_url": "https://open.spotify.com/album/6WppdgWVd1encVHaEgCyxY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 132300,
+      "game_name": "A Little Golf Journey",
+      "game_url": "https://ostdb.net/games/a-little-golf-journey",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ae6cd1c81a6e4cea3dbccbb1",
+      "albums": [
+        {
+          "album_name": "A Little Golf Journey (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1J7QIcpx53Ll6FsJfORaM3",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -751,6 +765,20 @@
         {
           "album_name": "After Death (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3M9mOkEG5bbzjEobAlepHc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 119330,
+      "game_name": "After the Fall",
+      "game_url": "https://ostdb.net/games/after-the-fall",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27315aae6beb5be23e38b7107cb",
+      "albums": [
+        {
+          "album_name": "After the Fall (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3BB1chUFOKRVMtpGB9b74b",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -2925,6 +2953,20 @@
         {
           "album_name": "Barotrauma Original Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4mpf6eRGe5RlTCXgIWqrEz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 128934,
+      "game_name": "Bartlow's Dread Machine",
+      "game_url": "https://ostdb.net/games/bartlows-dread-machine",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733d514850e93026b8ce28a2d7",
+      "albums": [
+        {
+          "album_name": "Bartlow's Dread Machine (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7KW5VcJnHv4TVyBnsBPfdc",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -7073,6 +7115,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/cuphead-the-delicious-last-course-original-soundtrack/1632758089?uo=4",
           "album_link_url": "https://album.link/i/1632758089"
+        }
+      ]
+    },
+    {
+      "igdb_id": 137680,
+      "game_name": "Curved Space",
+      "game_url": "https://ostdb.net/games/curved-space",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273955748d29a601946a9fa47a1",
+      "albums": [
+        {
+          "album_name": "Curved Space (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/04356QNRw99AjKPDCF0G8C",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -13623,6 +13679,20 @@
       ]
     },
     {
+      "igdb_id": 139960,
+      "game_name": "Golden Force",
+      "game_url": "https://ostdb.net/games/golden-force",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273905df15860a8cb033e9ae355",
+      "albums": [
+        {
+          "album_name": "Golden Force (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/35TJurHrzrB86KOnu9d5xx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1638,
       "game_name": "GoldenEye 007",
       "game_url": "https://ostdb.net/games/goldeneye-007",
@@ -15913,6 +15983,20 @@
         {
           "album_name": "Immortal Planet (Original Soundtrack) [Remastered]",
           "spotify_url": "https://open.spotify.com/album/4QKysrwDN9DL31pYwesdFz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 119258,
+      "game_name": "Immortal Realms: Vampire Wars",
+      "game_url": "https://ostdb.net/games/immortal-realms-vampire-wars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b5c536f46db082b84cc48dc5",
+      "albums": [
+        {
+          "album_name": "Immortal Realms: Vampire Wars (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5M83WGcliUvrMOjMHQoSth",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26297,6 +26381,20 @@
       ]
     },
     {
+      "igdb_id": 137195,
+      "game_name": "River City Girls Zero",
+      "game_url": "https://ostdb.net/games/river-city-girls-zero",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27376d094625404b3f7045d0d51",
+      "albums": [
+        {
+          "album_name": "River City Girls Zero (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0MYqbPX3Cr43pbn6rQnO4E",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 57420,
       "game_name": "Riverbond",
       "game_url": "https://ostdb.net/games/riverbond",
@@ -30045,6 +30143,20 @@
       ]
     },
     {
+      "igdb_id": 134957,
+      "game_name": "Star Wars: Tales from the Galaxy's Edge",
+      "game_url": "https://ostdb.net/games/star-wars-tales-from-the-galaxys-edge",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734db22b785aaae1d9cc2243f4",
+      "albums": [
+        {
+          "album_name": "Star Wars: Tales from the Galaxy's Edge (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0nrW0u5Serdhb1GQmPQo72",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 19174,
       "game_name": "StarBreak",
       "game_url": "https://ostdb.net/games/starbreak",
@@ -32013,6 +32125,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/the-ascent-original-game-soundtrack/1826900384?uo=4",
           "album_link_url": "https://album.link/i/1826900384"
+        }
+      ]
+    },
+    {
+      "igdb_id": 120645,
+      "game_name": "The Bard's Tale IV: Director's Cut",
+      "game_url": "https://ostdb.net/games/the-bards-tale-iv-directors-cut",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735d99a1659271418734bb68fe",
+      "albums": [
+        {
+          "album_name": "The Bard's Tale IV: Director's Cut, Vol. 3 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5yvmxN6C4EpEBQTKB3CpoK",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -38529,6 +38655,20 @@
         {
           "album_name": "Yesterday Origins Soundtrack",
           "spotify_url": "https://open.spotify.com/album/0vAIJbhCkr6WGMEa58HVxA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 120533,
+      "game_name": "YesterMorrow",
+      "game_url": "https://ostdb.net/games/yestermorrow",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731e2e4849c2b633181a23985b",
+      "albums": [
+        {
+          "album_name": "YesterMorrow (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2yT9RnsBWtQUvXtKMHJEbT",
           "apple_music_url": "",
           "album_link_url": ""
         }
