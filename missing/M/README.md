@@ -16436,6 +16436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monomals | 175809 | [175809-monomals.json](./175809-monomals.json) |
 | Monomino | 17483 | [17483-monomino.json](./17483-monomino.json) |
 | Monomon: The Black Sun | 190908 | [190908-monomon-the-black-sun.json](./190908-monomon-the-black-sun.json) |
+| Monomoon | 360260 | [360260-monomoon.json](./360260-monomoon.json) |
 | Monomyth | 112491 | [112491-monomyth.json](./112491-monomyth.json) |
 | Monomyth | 179437 | [179437-monomyth.json](./179437-monomyth.json) |
 | Mononc's Adventures | 368659 | [368659-mononcs-adventures.json](./368659-mononcs-adventures.json) |
