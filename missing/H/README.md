@@ -2618,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hashire Hebereke: EX | 325670 | [325670-hashire-hebereke-ex.json](./325670-hashire-hebereke-ex.json) |
 | Hashire! Chuukan Kanrishoku | 254930 | [254930-hashire-chuukan-kanrishoku.json](./254930-hashire-chuukan-kanrishoku.json) |
 | Hashiriya Drifter | 186282 | [186282-hashiriya-drifter.json](./186282-hashiriya-drifter.json) |
+| Hashiriya Drifter: Car Racing, Drift, Drag Remaster | 377007 | [377007-hashiriya-drifter-car-racing-drift-drag-remaster.json](./377007-hashiriya-drifter-car-racing-drift-drag-remaster.json) |
 | Hashrine | 271026 | [271026-hashrine.json](./271026-hashrine.json) |
 | Hashtag Bacon | 248409 | [248409-hashtag-bacon.json](./248409-hashtag-bacon.json) |
 | Hashtag Dungeon | 35942 | [35942-hashtag-dungeon.json](./35942-hashtag-dungeon.json) |
@@ -5304,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Furry Wolfy | 368526 | [368526-hentai-furry-wolfy.json](./368526-hentai-furry-wolfy.json) |
 | Hentai Furry Wolfy 2 | 418717 | [418717-hentai-furry-wolfy-2.json](./418717-hentai-furry-wolfy-2.json) |
 | Hentai Galaxy | 240692 | [240692-hentai-galaxy.json](./240692-hentai-galaxy.json) |
+| Hentai Gallery: Cute Girls | 377011 | [377011-hentai-gallery-cute-girls.json](./377011-hentai-gallery-cute-girls.json) |
 | Hentai Gallery: Hidden Charms | 380700 | [380700-hentai-gallery-hidden-charms.json](./380700-hentai-gallery-hidden-charms.json) |
 | Hentai Gallery: Hot Fantasy | 378805 | [378805-hentai-gallery-hot-fantasy.json](./378805-hentai-gallery-hot-fantasy.json) |
 | Hentai Gallery: Lovely Angels | 381004 | [381004-hentai-gallery-lovely-angels.json](./381004-hentai-gallery-lovely-angels.json) |
@@ -5642,6 +5644,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzle Simulator 3 | 409530 | [409530-hentai-puzzle-simulator-3.json](./409530-hentai-puzzle-simulator-3.json) |
 | Hentai Puzzle Universe | 235268 | [235268-hentai-puzzle-universe.json](./235268-hentai-puzzle-universe.json) |
 | Hentai Puzzle X | 108356 | [108356-hentai-puzzle-x.json](./108356-hentai-puzzle-x.json) |
+| Hentai Puzzle X | 377000 | [377000-hentai-puzzle-x.json](./377000-hentai-puzzle-x.json) |
+| Hentai Puzzle XX | 377012 | [377012-hentai-puzzle-xx.json](./377012-hentai-puzzle-xx.json) |
 | Hentai Puzzle XXX | 378807 | [378807-hentai-puzzle-xxx.json](./378807-hentai-puzzle-xxx.json) |
 | Hentai Puzzle: Clarise | 289439 | [289439-hentai-puzzle-clarise.json](./289439-hentai-puzzle-clarise.json) |
 | Hentai Puzzle: Cyber Girls | 342403 | [342403-hentai-puzzle-cyber-girls.json](./342403-hentai-puzzle-cyber-girls.json) |
