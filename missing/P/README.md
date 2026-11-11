@@ -14846,6 +14846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presentfall: Santa Defense | 384521 | [384521-presentfall-santa-defense.json](./384521-presentfall-santa-defense.json) |
 | Presentiment of Death | 241650 | [241650-presentiment-of-death.json](./241650-presentiment-of-death.json) |
 | Presents to the Metal | 307601 | [307601-presents-to-the-metal.json](./307601-presents-to-the-metal.json) |
+| Preserve: Ice Age | 380930 | [380930-preserve-ice-age.json](./380930-preserve-ice-age.json) |
 | President | 93038 | [93038-president.json](./93038-president.json) |
 | President 47 | 318435 | [318435-president-47.json](./318435-president-47.json) |
 | President card game | 99377 | [99377-president-card-game.json](./99377-president-card-game.json) |
@@ -15163,6 +15164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prime Mover | 100491 | [100491-prime-mover.json](./100491-prime-mover.json) |
 | Prime Mover | 12722 | [12722-prime-mover.json](./12722-prime-mover.json) |
 | Prime Remastered | 314573 | [314573-prime-remastered.json](./314573-prime-remastered.json) |
+| Prime Rush | 380924 | [380924-prime-rush.json](./380924-prime-rush.json) |
 | Prime Shift | 51771 | [51771-prime-shift.json](./51771-prime-shift.json) |
 | Prime Slime | 183275 | [183275-prime-slime.json](./183275-prime-slime.json) |
 | Prime T!me: Der Fernsehmanager | 98938 | [98938-prime-t-me-der-fernsehmanager.json](./98938-prime-t-me-der-fernsehmanager.json) |
@@ -19189,6 +19191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Art: Dogs | 173043 | [173043-puzzle-art-dogs.json](./173043-puzzle-art-dogs.json) |
 | Puzzle Art: Horses | 191207 | [191207-puzzle-art-horses.json](./191207-puzzle-art-horses.json) |
 | Puzzle Art: Primates | 189963 | [189963-puzzle-art-primates.json](./189963-puzzle-art-primates.json) |
+| Puzzle Art: Reptiles | 380933 | [380933-puzzle-art-reptiles.json](./380933-puzzle-art-reptiles.json) |
 | Puzzle Art: Rodents | 191208 | [191208-puzzle-art-rodents.json](./191208-puzzle-art-rodents.json) |
 | Puzzle Art: Snakes | 175644 | [175644-puzzle-art-snakes.json](./175644-puzzle-art-snakes.json) |
 | Puzzle Atlas | 404402 | [404402-puzzle-atlas.json](./404402-puzzle-atlas.json) |
