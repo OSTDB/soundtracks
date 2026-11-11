@@ -358,6 +358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dream About Parking Lots | 340114 | [340114-a-dream-about-parking-lots.json](./340114-a-dream-about-parking-lots.json) |
 | A Dream For Aaron | 72406 | [72406-a-dream-for-aaron.json](./72406-a-dream-for-aaron.json) |
 | A Dream of Burning Sand | 113337 | [113337-a-dream-of-burning-sand.json](./113337-a-dream-of-burning-sand.json) |
+| A Dream of Silence | 317637 | [317637-a-dream-of-silence.json](./317637-a-dream-of-silence.json) |
 | A Dream That Never Wakes Up | 236391 | [236391-a-dream-that-never-wakes-up.json](./236391-a-dream-that-never-wakes-up.json) |
 | A Dream Within a Dream | 394781 | [394781-a-dream-within-a-dream.json](./394781-a-dream-within-a-dream.json) |
 | A Drift for the Irresolute | 180614 | [180614-a-drift-for-the-irresolute.json](./180614-a-drift-for-the-irresolute.json) |
@@ -5250,7 +5251,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders III | 5652 | [5652-age-of-wonders-iii.json](./5652-age-of-wonders-iii.json) |
 | Age of Wonders III: Deluxe Edition | 51696 | [51696-age-of-wonders-iii-deluxe-edition.json](./51696-age-of-wonders-iii-deluxe-edition.json) |
 | Age of Wonders III: Eternal Lords | 11085 | [11085-age-of-wonders-iii-eternal-lords.json](./11085-age-of-wonders-iii-eternal-lords.json) |
-| Age of Wonders III: Golden Realms | 8863 | [8863-age-of-wonders-iii-golden-realms.json](./8863-age-of-wonders-iii-golden-realms.json) |
 | Age of Wonders: Planetfall | 102057 | [102057-age-of-wonders-planetfall.json](./102057-age-of-wonders-planetfall.json) |
 | Age of Wonders: Planetfall - Day One Edition | 136153 | [136153-age-of-wonders-planetfall-day-one-edition.json](./136153-age-of-wonders-planetfall-day-one-edition.json) |
 | Age of Wonders: Planetfall - Deluxe Edition | 118845 | [118845-age-of-wonders-planetfall-deluxe-edition.json](./118845-age-of-wonders-planetfall-deluxe-edition.json) |
@@ -8240,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almighty: Kill Your Gods | 134781 | [134781-almighty-kill-your-gods.json](./134781-almighty-kill-your-gods.json) |
 | Almirante Graf Spee | 39098 | [39098-almirante-graf-spee.json](./39098-almirante-graf-spee.json) |
 | Almistice | 274010 | [274010-almistice.json](./274010-almistice.json) |
+| Almohadin: Escape from the Basement | 317650 | [317650-almohadin-escape-from-the-basement.json](./317650-almohadin-escape-from-the-basement.json) |
 | Almond Ridge | 270753 | [270753-almond-ridge.json](./270753-almond-ridge.json) |
 | Almora Darkosen | 180955 | [180955-almora-darkosen.json](./180955-almora-darkosen.json) |
 | Almos a Dream Painter's Tale | 415125 | [415125-almos-a-dream-painters-tale.json](./415125-almos-a-dream-painters-tale.json) |
@@ -17149,6 +17150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Frontier | 319827 | [319827-astral-frontier.json](./319827-astral-frontier.json) |
 | Astral Frontier Online | 403629 | [403629-astral-frontier-online.json](./403629-astral-frontier-online.json) |
 | Astral Gate | 294043 | [294043-astral-gate.json](./294043-astral-gate.json) |
+| Astral Globetrot | 317505 | [317505-astral-globetrot.json](./317505-astral-globetrot.json) |
 | Astral Green | 184079 | [184079-astral-green.json](./184079-astral-green.json) |
 | Astral Guard | 218640 | [218640-astral-guard.json](./218640-astral-guard.json) |
 | Astral Guardian | 243600 | [243600-astral-guardian.json](./243600-astral-guardian.json) |
