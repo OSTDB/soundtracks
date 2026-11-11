@@ -7360,6 +7360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats vs Zombies | 380610 | [380610-hidden-cats-vs-zombies.json](./380610-hidden-cats-vs-zombies.json) |
 | Hidden Cats vs. Zombies 3 | 380609 | [380609-hidden-cats-vs-zombies-3.json](./380609-hidden-cats-vs-zombies-3.json) |
 | Hidden Cats: Castle | 412261 | [412261-hidden-cats-castle.json](./412261-hidden-cats-castle.json) |
+| Hidden Cats: City | 331585 | [331585-hidden-cats-city.json](./331585-hidden-cats-city.json) |
 | Hidden Cats: Japan | 334038 | [334038-hidden-cats-japan.json](./334038-hidden-cats-japan.json) |
 | Hidden Cats: Magic Forest | 277297 | [277297-hidden-cats-magic-forest.json](./277297-hidden-cats-magic-forest.json) |
 | Hidden Cats: Old Amusement Park | 363110 | [363110-hidden-cats-old-amusement-park.json](./363110-hidden-cats-old-amusement-park.json) |
