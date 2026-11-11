@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .45 Parabellum Bloodhound | 307541 | [307541-45-parabellum-bloodhound.json](./307541-45-parabellum-bloodhound.json) |
 | .Atorb. | 330318 | [330318-atorb.json](./330318-atorb.json) |
 | .Cat | 145537 | [145537-cat.json](./145537-cat.json) |
+| .Cat 2 | 368426 | [368426-cat-2.json](./368426-cat-2.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
 | .Curator | 413458 | [413458-curator.json](./413458-curator.json) |
 | .Decluster & .Decluster Zero | 380429 | [380429-decluster-and-decluster-zero.json](./380429-decluster-and-decluster-zero.json) |
