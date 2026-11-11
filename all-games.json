@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T23:06:21.958Z",
-  "total_soundtracks": 3164,
+  "generated_at": "2026-11-11T23:15:56.593Z",
+  "total_soundtracks": 3169,
   "games": [
     {
       "igdb_id": 7522,
@@ -5927,6 +5927,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/chernobylite-original-soundtrack/1603631498?uo=4",
           "album_link_url": "https://album.link/i/1603631498"
+        }
+      ]
+    },
+    {
+      "igdb_id": 8192,
+      "game_name": "Chex Quest",
+      "game_url": "https://ostdb.net/games/chex-quest",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f5752bf801a84a5c2a83278b",
+      "albums": [
+        {
+          "album_name": "Chex Quest (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2fKcPWAzF9wyPshBzKxWXS",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -24305,6 +24319,20 @@
       ]
     },
     {
+      "igdb_id": 349463,
+      "game_name": "Pathogenic",
+      "game_url": "https://ostdb.net/games/pathogenic",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b85f641cc4374f89ee9b9abe",
+      "albums": [
+        {
+          "album_name": "Pathogenic (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5AF5G3GL6Iy7dF5LXUXK9x",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 26597,
       "game_name": "Pathway",
       "game_url": "https://ostdb.net/games/pathway",
@@ -32725,6 +32753,20 @@
       ]
     },
     {
+      "igdb_id": 1208,
+      "game_name": "Tales of Innocence",
+      "game_url": "https://ostdb.net/games/tales-of-innocence",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735bc6e841eb37fea5b11799f0",
+      "albums": [
+        {
+          "album_name": "Tales of Innocence Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7cXxalhJ80cTTik4xR9CCU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1204,
       "game_name": "Tales of Symphonia",
       "game_url": "https://ostdb.net/games/tales-of-symphonia",
@@ -35067,6 +35109,20 @@
       ]
     },
     {
+      "igdb_id": 4071,
+      "game_name": "The Polar Express",
+      "game_url": "https://ostdb.net/games/the-polar-express",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc142438146abc2b9f078c17",
+      "albums": [
+        {
+          "album_name": "The Polar Express (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0Bb3mwZIDDxgpIn4yShEBR",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 249013,
       "game_name": "The Precinct",
       "game_url": "https://ostdb.net/games/the-precinct",
@@ -35312,6 +35368,20 @@
     },
     {
       "igdb_id": 248568,
+      "game_name": "The Sims 3",
+      "game_url": "https://ostdb.net/games/the-sims-3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e1617f312c1177474cd2cc12",
+      "albums": [
+        {
+          "album_name": "The Sims 3 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3syY41k4hVl9Y0tsKAcPop",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 327976,
       "game_name": "The Sims 3",
       "game_url": "https://ostdb.net/games/the-sims-3",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273e1617f312c1177474cd2cc12",
