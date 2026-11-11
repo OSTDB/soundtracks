@@ -3215,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Verbis Virtus | 16560 | [16560-in-verbis-virtus.json](./16560-in-verbis-virtus.json) |
 | In Vino Veritas | 420627 | [420627-in-vino-veritas.json](./420627-in-vino-veritas.json) |
 | In Vitra | 30310 | [30310-in-vitra.json](./30310-in-vitra.json) |
+| In Winter: A New Apartment | 337354 | [337354-in-winter-a-new-apartment.json](./337354-in-winter-a-new-apartment.json) |
 | In Woods | 217140 | [217140-in-woods.json](./217140-in-woods.json) |
 | In Your Arms Tonight 2 | 238888 | [238888-in-your-arms-tonight-2.json](./238888-in-your-arms-tonight-2.json) |
 | In Your Books | 204167 | [204167-in-your-books.json](./204167-in-your-books.json) |
@@ -3660,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indigo Park: Chapter 2 | 402870 | [402870-indigo-park-chapter-2.json](./402870-indigo-park-chapter-2.json) |
 | Indigo Prohecy: 15th Anniversary Edition | 139933 | [139933-indigo-prohecy-15th-anniversary-edition.json](./139933-indigo-prohecy-15th-anniversary-edition.json) |
 | Indigo Prophecy | 410247 | [410247-indigo-prophecy.json](./410247-indigo-prophecy.json) |
+| Indigo Satellite | 337327 | [337327-indigo-satellite.json](./337327-indigo-satellite.json) |
 | Indika: Deluxe Edition | 380153 | [380153-indika-deluxe-edition.json](./380153-indika-deluxe-edition.json) |
 | Indirection | 186000 | [186000-indirection.json](./186000-indirection.json) |
 | Indirian Solitaire | 91732 | [91732-indirian-solitaire.json](./91732-indirian-solitaire.json) |
