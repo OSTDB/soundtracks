@@ -14311,6 +14311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Fall: Don't Stack High | 174719 | [174719-slide-fall-dont-stack-high.json](./174719-slide-fall-dont-stack-high.json) |
 | Slide Faster | 319795 | [319795-slide-faster.json](./319795-slide-faster.json) |
 | Slide Furry | 367207 | [367207-slide-furry.json](./367207-slide-furry.json) |
+| Slide Furry Boys | 385010 | [385010-slide-furry-boys.json](./385010-slide-furry-boys.json) |
 | Slide Furry Futanari | 367625 | [367625-slide-furry-futanari.json](./367625-slide-furry-futanari.json) |
 | Slide Golf Mini | 234054 | [234054-slide-golf-mini.json](./234054-slide-golf-mini.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
@@ -21133,6 +21134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Prison: Holo Dancer | 389553 | [389553-space-prison-holo-dancer.json](./389553-space-prison-holo-dancer.json) |
 | Space Probes | 155820 | [155820-space-probes.json](./155820-space-probes.json) |
 | Space Professor | 62842 | [62842-space-professor.json](./62842-space-professor.json) |
+| Space Pussy Hunter | 384994 | [384994-space-pussy-hunter.json](./384994-space-pussy-hunter.json) |
 | Space puzzle | 152724 | [152724-space-puzzle.json](./152724-space-puzzle.json) |
 | Space Quarks | 25296 | [25296-space-quarks.json](./25296-space-quarks.json) |
 | Space Qube | 200022 | [200022-space-qube.json](./200022-space-qube.json) |
@@ -37314,6 +37316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swimming with Humpbacks | 117463 | [117463-swimming-with-humpbacks.json](./117463-swimming-with-humpbacks.json) |
 | Swimpossible! | 366238 | [366238-swimpossible.json](./366238-swimpossible.json) |
 | Swimsanity! | 63572 | [63572-swimsanity.json](./63572-swimsanity.json) |
+| Swimsuit Girl: Battle to Avoid | 385021 | [385021-swimsuit-girl-battle-to-avoid.json](./385021-swimsuit-girl-battle-to-avoid.json) |
 | Swinario Super Bros. Play | 169252 | [169252-swinario-super-bros-play.json](./169252-swinario-super-bros-play.json) |
 | Swindler | 51170 | [51170-swindler.json](./51170-swindler.json) |
 | Swindler 1.11 | 177790 | [177790-swindler-1-11.json](./177790-swindler-1-11.json) |
