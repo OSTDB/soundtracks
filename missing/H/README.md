@@ -2074,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardcore Cottagecore | 285275 | [285275-hardcore-cottagecore.json](./285275-hardcore-cottagecore.json) |
 | Hardcore Dirt Bike | 87720 | [87720-hardcore-dirt-bike.json](./87720-hardcore-dirt-bike.json) |
 | Hardcore Dirt Bike 2 | 97918 | [97918-hardcore-dirt-bike-2.json](./97918-hardcore-dirt-bike-2.json) |
+| Hardcore Knight! | 360824 | [360824-hardcore-knight.json](./360824-hardcore-knight.json) |
 | Hardcore Leveling Warrior | 382444 | [382444-hardcore-leveling-warrior.json](./382444-hardcore-leveling-warrior.json) |
 | Hardcore Mecha | 54911 | [54911-hardcore-mecha.json](./54911-hardcore-mecha.json) |
 | Hardcore Mecha: Fighter Edition | 136927 | [136927-hardcore-mecha-fighter-edition.json](./136927-hardcore-mecha-fighter-edition.json) |
@@ -9327,6 +9328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole Digging Beach Simulator | 344285 | [344285-hole-digging-beach-simulator.json](./344285-hole-digging-beach-simulator.json) |
 | Hole Digging Game | 251719 | [251719-hole-digging-game.json](./251719-hole-digging-game.json) |
 | Hole Digging Master | 339150 | [339150-hole-digging-master.json](./339150-hole-digging-master.json) |
+| Hole Digging Simulator 2025 | 361365 | [361365-hole-digging-simulator-2025.json](./361365-hole-digging-simulator-2025.json) |
 | Hole Dweller | 333200 | [333200-hole-dweller.json](./333200-hole-dweller.json) |
 | Hole in Clone | 177135 | [177135-hole-in-clone.json](./177135-hole-in-clone.json) |
 | Hole in One | 41794 | [41794-hole-in-one.json](./41794-hole-in-one.json) |
@@ -10167,6 +10169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Ritual Imayoh Revival | 362028 | [362028-honkai-impact-3rd-ritual-imayoh-revival.json](./362028-honkai-impact-3rd-ritual-imayoh-revival.json) |
 | Honkai Impact 3rd: Rosemary's Nocturne | 279716 | [279716-honkai-impact-3rd-rosemarys-nocturne.json](./279716-honkai-impact-3rd-rosemarys-nocturne.json) |
 | Honkai Impact 3rd: Roving Among Clouds | 340972 | [340972-honkai-impact-3rd-roving-among-clouds.json](./340972-honkai-impact-3rd-roving-among-clouds.json) |
+| Honkai Impact 3rd: Sakura Samsara | 361351 | [361351-honkai-impact-3rd-sakura-samsara.json](./361351-honkai-impact-3rd-sakura-samsara.json) |
 | Honkai Impact 3rd: Silverwing: Beyond | 276498 | [276498-honkai-impact-3rd-silverwing-beyond.json](./276498-honkai-impact-3rd-silverwing-beyond.json) |
 | Honkai Impact 3rd: Starbound Painter | 279423 | [279423-honkai-impact-3rd-starbound-painter.json](./279423-honkai-impact-3rd-starbound-painter.json) |
 | Honkai Impact 3rd: Starlit Sanctum | 279723 | [279723-honkai-impact-3rd-starlit-sanctum.json](./279723-honkai-impact-3rd-starlit-sanctum.json) |
@@ -10180,6 +10183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: The Phantom of the Theater | 279429 | [279429-honkai-impact-3rd-the-phantom-of-the-theater.json](./279429-honkai-impact-3rd-the-phantom-of-the-theater.json) |
 | Honkai Impact 3rd: The Silver Wolf Awakens | 361398 | [361398-honkai-impact-3rd-the-silver-wolf-awakens.json](./361398-honkai-impact-3rd-the-silver-wolf-awakens.json) |
 | Honkai Impact 3rd: The Wings to Mars | 282498 | [282498-honkai-impact-3rd-the-wings-to-mars.json](./282498-honkai-impact-3rd-the-wings-to-mars.json) |
+| Honkai Impact 3rd: Theresa, Attack! | 361352 | [361352-honkai-impact-3rd-theresa-attack.json](./361352-honkai-impact-3rd-theresa-attack.json) |
 | Honkai Impact 3rd: Undine's Phantasm | 281578 | [281578-honkai-impact-3rd-undines-phantasm.json](./281578-honkai-impact-3rd-undines-phantasm.json) |
 | Honkai Impact 3rd: Unequaled, Unrivaled | 279704 | [279704-honkai-impact-3rd-unequaled-unrivaled.json](./279704-honkai-impact-3rd-unequaled-unrivaled.json) |
 | Honkai: Nexus Anima | 364158 | [364158-honkai-nexus-anima.json](./364158-honkai-nexus-anima.json) |
