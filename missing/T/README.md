@@ -7438,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Callisto Protocol: Final Transmission | 254275 | [254275-the-callisto-protocol-final-transmission.json](./254275-the-callisto-protocol-final-transmission.json) |
 | The Callisto Protocol: Outer Way Skin Collection | 308274 | [308274-the-callisto-protocol-outer-way-skin-collection.json](./308274-the-callisto-protocol-outer-way-skin-collection.json) |
 | The Callisto Protocol: Riot Bundle | 272560 | [272560-the-callisto-protocol-riot-bundle.json](./272560-the-callisto-protocol-riot-bundle.json) |
+| The Camel | 331025 | [331025-the-camel.json](./331025-the-camel.json) |
 | The Cameraman | 343145 | [343145-the-cameraman.json](./343145-the-cameraman.json) |
 | The Cameron Files - Loch Ness | 53708 | [53708-the-cameron-files-loch-ness.json](./53708-the-cameron-files-loch-ness.json) |
 | The Cameron Files: Pharaoh's Curse | 70729 | [70729-the-cameron-files-pharaohs-curse.json](./70729-the-cameron-files-pharaohs-curse.json) |
@@ -16172,6 +16173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Psychotron | 72061 | [72061-the-psychotron.json](./72061-the-psychotron.json) |
 | The PTSD Mod | 312622 | [312622-the-ptsd-mod.json](./312622-the-ptsd-mod.json) |
 | The PTSD Mod 2 | 312623 | [312623-the-ptsd-mod-2.json](./312623-the-ptsd-mod-2.json) |
+| The Pub Life Simulator | 331027 | [331027-the-pub-life-simulator.json](./331027-the-pub-life-simulator.json) |
 | The Pub Simulator | 238727 | [238727-the-pub-simulator.json](./238727-the-pub-simulator.json) |
 | The Public Domain: The Game | 298356 | [298356-the-public-domain-the-game.json](./298356-the-public-domain-the-game.json) |
 | The Pulps Company | 283764 | [283764-the-pulps-company.json](./283764-the-pulps-company.json) |
@@ -20907,6 +20909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There's an Only One Way Exit. | 314065 | [314065-theres-an-only-one-way-exit.json](./314065-theres-an-only-one-way-exit.json) |
 | There's Blood in my Soup | 382340 | [382340-theres-blood-in-my-soup.json](./382340-theres-blood-in-my-soup.json) |
 | There's No Aliens | 306306 | [306306-theres-no-aliens.json](./306306-theres-no-aliens.json) |
+| There's No Cake | 331024 | [331024-theres-no-cake.json](./331024-theres-no-cake.json) |
 | There's No Differences: Monsters | 373313 | [373313-theres-no-differences-monsters.json](./373313-theres-no-differences-monsters.json) |
 | There's No Differences: Santa | 380846 | [380846-theres-no-differences-santa.json](./380846-theres-no-differences-santa.json) |
 | There's No Dinosaurs | 258755 | [258755-theres-no-dinosaurs.json](./258755-theres-no-dinosaurs.json) |
@@ -28313,6 +28316,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Puppet Dance Performance | 46722 | [46722-touhou-puppet-dance-performance.json](./46722-touhou-puppet-dance-performance.json) |
 | Touhou Puppet Dance Performance: Shard of Dreams | 207227 | [207227-touhou-puppet-dance-performance-shard-of-dreams.json](./207227-touhou-puppet-dance-performance-shard-of-dreams.json) |
 | Touhou Puppet Dance Performance: Shard of Dreams - Extended | 225489 | [225489-touhou-puppet-dance-performance-shard-of-dreams-extended.json](./225489-touhou-puppet-dance-performance-shard-of-dreams-extended.json) |
+| Touhou Puppet Dance Performance: Shard of Dreams - Extended: Fanchara | 330983 | [330983-touhou-puppet-dance-performance-shard-of-dreams-extended-fanchara.json](./330983-touhou-puppet-dance-performance-shard-of-dreams-extended-fanchara.json) |
+| Touhou Puppet Dance Performance: Shard of Dreams - Genso Network Connection | 330982 | [330982-touhou-puppet-dance-performance-shard-of-dreams-genso-network-connection.json](./330982-touhou-puppet-dance-performance-shard-of-dreams-genso-network-connection.json) |
 | Touhou Puppet Play Enhanced (Reloaded) | 349738 | [349738-touhou-puppet-play-enhanced-reloaded.json](./349738-touhou-puppet-play-enhanced-reloaded.json) |
 | Touhou Rakuryuusei: The Shattered Sky | 280870 | [280870-touhou-rakuryuusei-the-shattered-sky.json](./280870-touhou-rakuryuusei-the-shattered-sky.json) |
 | Touhou Rei'iden: The Highly Responsive to Prayers | 45967 | [45967-touhou-reiiden-the-highly-responsive-to-prayers.json](./45967-touhou-reiiden-the-highly-responsive-to-prayers.json) |
