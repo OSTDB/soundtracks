@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
 | LaborSurviveManual | 246825 | [246825-laborsurvivemanual.json](./246825-laborsurvivemanual.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
+| Labratory | 379797 | [379797-labratory.json](./379797-labratory.json) |
 | LabRpgUp! | 102990 | [102990-labrpgup.json](./102990-labrpgup.json) |
 | Labsylle | 381515 | [381515-labsylle.json](./381515-labsylle.json) |
 | LabTrainingVR: Biosafety Cabinet Edition | 163711 | [163711-labtrainingvr-biosafety-cabinet-edition.json](./163711-labtrainingvr-biosafety-cabinet-edition.json) |
@@ -5594,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminalphobia | 149555 | [149555-liminalphobia.json](./149555-liminalphobia.json) |
 | Liminoid | 413643 | [413643-liminoid.json](./413643-liminoid.json) |
 | Liminophobia | 347998 | [347998-liminophobia.json](./347998-liminophobia.json) |
+| Limirama | 379789 | [379789-limirama.json](./379789-limirama.json) |
 | Limit Break | 359075 | [359075-limit-break.json](./359075-limit-break.json) |
 | Limit Buffet | 260505 | [260505-limit-buffet.json](./260505-limit-buffet.json) |
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
@@ -8833,6 +8835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Paradise of Karuta | 314837 | [314837-lost-paradise-of-karuta.json](./314837-lost-paradise-of-karuta.json) |
 | Lost Passage: Ushinawareta Hitofushi | 165536 | [165536-lost-passage-ushinawareta-hitofushi.json](./165536-lost-passage-ushinawareta-hitofushi.json) |
 | Lost Patient | 369858 | [369858-lost-patient.json](./369858-lost-patient.json) |
+| Lost Patient | 379798 | [379798-lost-patient.json](./379798-lost-patient.json) |
 | Lost Patrol | 37270 | [37270-lost-patrol.json](./37270-lost-patrol.json) |
 | Lost Paws | 207343 | [207343-lost-paws.json](./207343-lost-paws.json) |
 | Lost Perspective | 137602 | [137602-lost-perspective.json](./137602-lost-perspective.json) |
