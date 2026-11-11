@@ -3122,6 +3122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawk F-123 | 128362 | [128362-hawk-f-123.json](./128362-hawk-f-123.json) |
 | Hawk Kawasaki Racing | 146546 | [146546-hawk-kawasaki-racing.json](./146546-hawk-kawasaki-racing.json) |
 | Hawk Tuah | 310242 | [310242-hawk-tuah.json](./310242-hawk-tuah.json) |
+| Hawk Tuah | 327521 | [327521-hawk-tuah.json](./327521-hawk-tuah.json) |
 | Hawk Tuah Run | 321782 | [321782-hawk-tuah-run.json](./321782-hawk-tuah-run.json) |
 | Hawk: Freedom Squadron | 56572 | [56572-hawk-freedom-squadron.json](./56572-hawk-freedom-squadron.json) |
 | Hawked | 227636 | [227636-hawked.json](./227636-hawked.json) |
@@ -10522,6 +10523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope: Winter Tale | 358247 | [358247-hope-winter-tale.json](./358247-hope-winter-tale.json) |
 | Hope's End | 238519 | [238519-hopes-end.json](./238519-hopes-end.json) |
 | Hope's Farm | 127000 | [127000-hopes-farm.json](./127000-hopes-farm.json) |
+| Hope's Farm 2 | 328116 | [328116-hopes-farm-2.json](./328116-hopes-farm-2.json) |
 | Hope's Journey: A Therapeutic Experience | 158570 | [158570-hopes-journey-a-therapeutic-experience.json](./158570-hopes-journey-a-therapeutic-experience.json) |
 | Hope's Peak | 134985 | [134985-hopes-peak.json](./134985-hopes-peak.json) |
 | Hopebringers | 143898 | [143898-hopebringers.json](./143898-hopebringers.json) |
