@@ -19180,6 +19180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Ascent | 335386 | [335386-dungeon-ascent.json](./335386-dungeon-ascent.json) |
 | Dungeon Attack | 151655 | [151655-dungeon-attack.json](./151655-dungeon-attack.json) |
 | Dungeon Avenger | 180272 | [180272-dungeon-avenger.json](./180272-dungeon-avenger.json) |
+| Dungeon Ball: Balance Ball | 361360 | [361360-dungeon-ball-balance-ball.json](./361360-dungeon-ball-balance-ball.json) |
 | Dungeon Baller | 310936 | [310936-dungeon-baller.json](./310936-dungeon-baller.json) |
 | Dungeon Bandit | 63829 | [63829-dungeon-bandit.json](./63829-dungeon-bandit.json) |
 | Dungeon Bar: Gachi Puzzles | 272631 | [272631-dungeon-bar-gachi-puzzles.json](./272631-dungeon-bar-gachi-puzzles.json) |
