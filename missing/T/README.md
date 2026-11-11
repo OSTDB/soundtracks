@@ -9284,7 +9284,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online Collection: Necrom - Deluxe Edition | 254217 | [254217-the-elder-scrolls-online-collection-necrom-deluxe-edition.json](./254217-the-elder-scrolls-online-collection-necrom-deluxe-edition.json) |
 | The Elder Scrolls Online: 2025 Premium Edition | 340745 | [340745-the-elder-scrolls-online-2025-premium-edition.json](./340745-the-elder-scrolls-online-2025-premium-edition.json) |
 | The Elder Scrolls Online: Ascending Tide | 237337 | [237337-the-elder-scrolls-online-ascending-tide.json](./237337-the-elder-scrolls-online-ascending-tide.json) |
-| The Elder Scrolls Online: Blackwood | 143024 | [143024-the-elder-scrolls-online-blackwood.json](./143024-the-elder-scrolls-online-blackwood.json) |
 | The Elder Scrolls Online: Blackwood Collection | 146127 | [146127-the-elder-scrolls-online-blackwood-collection.json](./146127-the-elder-scrolls-online-blackwood-collection.json) |
 | The Elder Scrolls Online: Clockwork City | 237335 | [237335-the-elder-scrolls-online-clockwork-city.json](./237335-the-elder-scrolls-online-clockwork-city.json) |
 | The Elder Scrolls Online: Dark Brotherhood | 128473 | [128473-the-elder-scrolls-online-dark-brotherhood.json](./128473-the-elder-scrolls-online-dark-brotherhood.json) |
