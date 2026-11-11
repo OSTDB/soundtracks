@@ -8022,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Energy Heroes | 271207 | [271207-high-energy-heroes.json](./271207-high-energy-heroes.json) |
 | High Entropy: Challenges | 136112 | [136112-high-entropy-challenges.json](./136112-high-entropy-challenges.json) |
 | High Factory | 182097 | [182097-high-factory.json](./182097-high-factory.json) |
+| High Fantasy Idle | 356924 | [356924-high-fantasy-idle.json](./356924-high-fantasy-idle.json) |
 | High Fidelity | 34749 | [34749-high-fidelity.json](./34749-high-fidelity.json) |
 | High Five! | 132819 | [132819-high-five.json](./132819-high-five.json) |
 | High Flyer | 332463 | [332463-high-flyer.json](./332463-high-flyer.json) |
