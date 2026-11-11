@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of the Space Core, Vol. 1 | 392847 | [392847-fall-of-the-space-core-vol-1.json](./392847-fall-of-the-space-core-vol-1.json) |
 | Fall of the Titanic | 15036 | [15036-fall-of-the-titanic.json](./15036-fall-of-the-titanic.json) |
 | Fall off Reach | 415337 | [415337-fall-off-reach.json](./415337-fall-off-reach.json) |
+| Fall or Nothing | 361934 | [361934-fall-or-nothing.json](./361934-fall-or-nothing.json) |
 | Fall Platform | 320536 | [320536-fall-platform.json](./320536-fall-platform.json) |
 | Fall Squad Guys: Stumble Knockout Royale | 314016 | [314016-fall-squad-guys-stumble-knockout-royale.json](./314016-fall-squad-guys-stumble-knockout-royale.json) |
 | Fall Up | 188897 | [188897-fall-up.json](./188897-fall-up.json) |
@@ -3744,6 +3745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of Bugs: The Fear Experience | 218991 | [218991-fear-of-bugs-the-fear-experience.json](./218991-fear-of-bugs-the-fear-experience.json) |
 | Fear of Clowns | 28420 | [28420-fear-of-clowns.json](./28420-fear-of-clowns.json) |
 | Fear of Dark | 129968 | [129968-fear-of-dark.json](./129968-fear-of-dark.json) |
+| Fear of Energy | 361938 | [361938-fear-of-energy.json](./361938-fear-of-energy.json) |
 | Fear of Faith | 414514 | [414514-fear-of-faith.json](./414514-fear-of-faith.json) |
 | Fear of Fear | 294292 | [294292-fear-of-fear.json](./294292-fear-of-fear.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
@@ -5623,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Set | 44430 | [44430-final-set.json](./44430-final-set.json) |
 | Final Shot | 175704 | [175704-final-shot.json](./175704-final-shot.json) |
 | Final Shot | 177554 | [177554-final-shot.json](./177554-final-shot.json) |
+| Final Signature | 361956 | [361956-final-signature.json](./361956-final-signature.json) |
 | Final Sim | 116109 | [116109-final-sim.json](./116109-final-sim.json) |
 | Final Sky | 59819 | [59819-final-sky.json](./59819-final-sky.json) |
 | Final Slam 2 | 8868 | [8868-final-slam-2.json](./8868-final-slam-2.json) |
