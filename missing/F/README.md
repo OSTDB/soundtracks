@@ -6149,6 +6149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Fates: Silent Waves | 403051 | [403051-fire-emblem-fates-silent-waves.json](./403051-fire-emblem-fates-silent-waves.json) |
 | Fire Emblem Fates: Special Edition | 10229 | [10229-fire-emblem-fates-special-edition.json](./10229-fire-emblem-fates-special-edition.json) |
 | Fire Emblem Fates: V.O.W Edition | 337600 | [337600-fire-emblem-fates-v-o-w-edition.json](./337600-fire-emblem-fates-v-o-w-edition.json) |
+| Fire Emblem Girls | 389020 | [389020-fire-emblem-girls.json](./389020-fire-emblem-girls.json) |
 | Fire Emblem Guess | 410101 | [410101-fire-emblem-guess.json](./410101-fire-emblem-guess.json) |
 | Fire Emblem Heroes | 26841 | [26841-fire-emblem-heroes.json](./26841-fire-emblem-heroes.json) |
 | Fire Emblem Proto-Rogue | 398378 | [398378-fire-emblem-proto-rogue.json](./398378-fire-emblem-proto-rogue.json) |
@@ -12584,6 +12585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frest | 343298 | [343298-frest.json](./343298-frest.json) |
 | Fret Nice | 52230 | [52230-fret-nice.json](./52230-fret-nice.json) |
 | Fret Smasher | 139272 | [139272-fret-smasher.json](./139272-fret-smasher.json) |
+| Fret's Quest | 389037 | [389037-frets-quest.json](./389037-frets-quest.json) |
 | Fretless: The Wrath of Riffson | 252794 | [252794-fretless-the-wrath-of-riffson.json](./252794-fretless-the-wrath-of-riffson.json) |
 | Frets on Fire | 19283 | [19283-frets-on-fire.json](./19283-frets-on-fire.json) |
 | Freud Gate | 125200 | [125200-freud-gate.json](./125200-freud-gate.json) |
