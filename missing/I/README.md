@@ -182,6 +182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Can Hold My Breath Forever | 139813 | [139813-i-can-hold-my-breath-forever.json](./139813-i-can-hold-my-breath-forever.json) |
 | I Can Human | 211827 | [211827-i-can-human.json](./211827-i-can-human.json) |
 | I Can Offer You Flowers | 386477 | [386477-i-can-offer-you-flowers.json](./386477-i-can-offer-you-flowers.json) |
+| I Can Only Speak Doner | 391408 | [391408-i-can-only-speak-doner.json](./391408-i-can-only-speak-doner.json) |
 | I can save myself | 182749 | [182749-i-can-save-myself.json](./182749-i-can-save-myself.json) |
 | I Can Save This! | 326612 | [326612-i-can-save-this.json](./326612-i-can-save-this.json) |
 | I Can See the Future | 68510 | [68510-i-can-see-the-future.json](./68510-i-can-see-the-future.json) |
