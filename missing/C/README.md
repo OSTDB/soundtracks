@@ -710,7 +710,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Advanced Warfare - Steampunk Exoskeleton Pack | 26064 | [26064-call-of-duty-advanced-warfare-steampunk-exoskeleton-pack.json](./26064-call-of-duty-advanced-warfare-steampunk-exoskeleton-pack.json) |
 | Call of Duty: Advanced Warfare - Supremacy | 20891 | [20891-call-of-duty-advanced-warfare-supremacy.json](./20891-call-of-duty-advanced-warfare-supremacy.json) |
 | Call of Duty: Advanced Warfare - United States Exoskeleton Pack | 26065 | [26065-call-of-duty-advanced-warfare-united-states-exoskeleton-pack.json](./26065-call-of-duty-advanced-warfare-united-states-exoskeleton-pack.json) |
-| Call of Duty: Black Ops | 135299 | [135299-call-of-duty-black-ops.json](./135299-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops | 343819 | [343819-call-of-duty-black-ops.json](./343819-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops - Annihilation | 22636 | [22636-call-of-duty-black-ops-annihilation.json](./22636-call-of-duty-black-ops-annihilation.json) |
 | Call of Duty: Black Ops - Declassified | 8548 | [8548-call-of-duty-black-ops-declassified.json](./8548-call-of-duty-black-ops-declassified.json) |
