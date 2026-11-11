@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrifices must be made, but... | 135715 | [135715-sacrifices-must-be-made-but.json](./135715-sacrifices-must-be-made-but.json) |
 | Sacrificial God | 318915 | [318915-sacrificial-god.json](./318915-sacrificial-god.json) |
 | Sacrificial Run | 183294 | [183294-sacrificial-run.json](./183294-sacrificial-run.json) |
+| Sacrificio | 346311 | [346311-sacrificio.json](./346311-sacrificio.json) |
 | Sacrifights | 120907 | [120907-sacrifights.json](./120907-sacrifights.json) |
 | SacriFire | 152268 | [152268-sacrifire.json](./152268-sacrifire.json) |
 | SacriFrogos | 390009 | [390009-sacrifrogos.json](./390009-sacrifrogos.json) |
@@ -2913,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Hollow: Episode 5 | 377878 | [377878-scarlet-hollow-episode-5.json](./377878-scarlet-hollow-episode-5.json) |
 | Scarlet Hood and the Wicked Wood | 143814 | [143814-scarlet-hood-and-the-wicked-wood.json](./143814-scarlet-hood-and-the-wicked-wood.json) |
 | Scarlet Hood and the Wicked Wood: Deluxe Edition | 154546 | [154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json](./154546-scarlet-hood-and-the-wicked-wood-deluxe-edition.json) |
+| Scarlet Hunt | 346285 | [346285-scarlet-hunt.json](./346285-scarlet-hunt.json) |
 | Scarlet Idol | 408245 | [408245-scarlet-idol.json](./408245-scarlet-idol.json) |
 | Scarlet Lake | 253872 | [253872-scarlet-lake.json](./253872-scarlet-lake.json) |
 | Scarlet Manor: The Heir | 272937 | [272937-scarlet-manor-the-heir.json](./272937-scarlet-manor-the-heir.json) |
@@ -3054,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scavenger | 92066 | [92066-scavenger.json](./92066-scavenger.json) |
 | Scavenger by Fiona | 146501 | [146501-scavenger-by-fiona.json](./146501-scavenger-by-fiona.json) |
 | Scavenger Hunt | 214335 | [214335-scavenger-hunt.json](./214335-scavenger-hunt.json) |
+| Scavenger Hunt | 346287 | [346287-scavenger-hunt.json](./346287-scavenger-hunt.json) |
 | Scavenger Hunt Find Hidden Objects | 393890 | [393890-scavenger-hunt-find-hidden-objects.json](./393890-scavenger-hunt-find-hidden-objects.json) |
 | Scavenger Hunt: Italy | 257327 | [257327-scavenger-hunt-italy.json](./257327-scavenger-hunt-italy.json) |
 | Scavenger Hunt: Switzerland | 253256 | [253256-scavenger-hunt-switzerland.json](./253256-scavenger-hunt-switzerland.json) |
@@ -7368,6 +7371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow's Bullet | 191871 | [191871-shadows-bullet.json](./191871-shadows-bullet.json) |
 | Shadow's Descent | 321530 | [321530-shadows-descent.json](./321530-shadows-descent.json) |
 | Shadow's Edge | 82154 | [82154-shadows-edge.json](./82154-shadows-edge.json) |
+| Shadow's End | 346299 | [346299-shadows-end.json](./346299-shadows-end.json) |
 | Shadow's Gamble | 340797 | [340797-shadows-gamble.json](./340797-shadows-gamble.json) |
 | Shadow's Grove | 370433 | [370433-shadows-grove.json](./370433-shadows-grove.json) |
 | Shadow's Kiss | 201584 | [201584-shadows-kiss.json](./201584-shadows-kiss.json) |
@@ -7402,6 +7406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShadowFlare | 70866 | [70866-shadowflare.json](./70866-shadowflare.json) |
 | Shadowforge | 138684 | [138684-shadowforge.json](./138684-shadowforge.json) |
 | Shadowforge Chronicles | 332341 | [332341-shadowforge-chronicles.json](./332341-shadowforge-chronicles.json) |
+| Shadowforge Chronicles & Flames of Damnation | 345726 | [345726-shadowforge-chronicles-and-flames-of-damnation.json](./345726-shadowforge-chronicles-and-flames-of-damnation.json) |
 | Shadowframe | 349569 | [349569-shadowframe.json](./349569-shadowframe.json) |
 | Shadowgate | 389384 | [389384-shadowgate.json](./389384-shadowgate.json) |
 | Shadowgate | 8697 | [8697-shadowgate.json](./8697-shadowgate.json) |
@@ -7773,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shank | 7518 | [7518-shank.json](./7518-shank.json) |
 | Shank 2 | 9623 | [9623-shank-2.json](./9623-shank-2.json) |
 | Shank the Cop | 155988 | [155988-shank-the-cop.json](./155988-shank-the-cop.json) |
+| Shank: Prison Survival | 346291 | [346291-shank-prison-survival.json](./346291-shank-prison-survival.json) |
 | Shankala | 377045 | [377045-shankala.json](./377045-shankala.json) |
 | Shankaram: Code Reborn | 193061 | [193061-shankaram-code-reborn.json](./193061-shankaram-code-reborn.json) |
 | Shankstars | 223605 | [223605-shankstars.json](./223605-shankstars.json) |
@@ -13294,6 +13300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulltiverse | 259662 | [259662-skulltiverse.json](./259662-skulltiverse.json) |
 | Skulltiverse II | 388719 | [388719-skulltiverse-ii.json](./388719-skulltiverse-ii.json) |
 | Skullwake | 414057 | [414057-skullwake.json](./414057-skullwake.json) |
+| SkullX: Aibohphobia | 346314 | [346314-skullx-aibohphobia.json](./346314-skullx-aibohphobia.json) |
 | Skully | 133902 | [133902-skully.json](./133902-skully.json) |
 | Skully Bunnies | 335287 | [335287-skully-bunnies.json](./335287-skully-bunnies.json) |
 | Skullz | 178551 | [178551-skullz.json](./178551-skullz.json) |
@@ -17653,6 +17660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire | 312270 | [312270-solitaire.json](./312270-solitaire.json) |
 | Solitaire | 313972 | [313972-solitaire.json](./313972-solitaire.json) |
 | Solitaire | 318922 | [318922-solitaire.json](./318922-solitaire.json) |
+| Solitaire | 346273 | [346273-solitaire.json](./346273-solitaire.json) |
 | Solitaire | 395638 | [395638-solitaire.json](./395638-solitaire.json) |
 | Solitaire | 74206 | [74206-solitaire.json](./74206-solitaire.json) |
 | Solitaire | 75661 | [75661-solitaire.json](./75661-solitaire.json) |
@@ -20095,6 +20103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulTail | 295296 | [295296-soultail.json](./295296-soultail.json) |
 | Soulthread | 310979 | [310979-soulthread.json](./310979-soulthread.json) |
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
+| Soultracer | 346308 | [346308-soultracer.json](./346308-soultracer.json) |
 | SoulTrap | 62373 | [62373-soultrap.json](./62373-soultrap.json) |
 | SoulTrigger | 372606 | [372606-soultrigger.json](./372606-soultrigger.json) |
 | SoulUp | 377515 | [377515-soulup.json](./377515-soulup.json) |
@@ -22898,6 +22907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SPGP Super Polygon Grand Prix | 274542 | [274542-spgp-super-polygon-grand-prix.json](./274542-spgp-super-polygon-grand-prix.json) |
 | Sphaera | 103771 | [103771-sphaera.json](./103771-sphaera.json) |
 | Sphaze | 185747 | [185747-sphaze.json](./185747-sphaze.json) |
+| Sphenoid | 346288 | [346288-sphenoid.json](./346288-sphenoid.json) |
 | Sphera Turris | 87950 | [87950-sphera-turris.json](./87950-sphera-turris.json) |
 | Sphera: The Inner Journey | 208787 | [208787-sphera-the-inner-journey.json](./208787-sphera-the-inner-journey.json) |
 | Spherakill | 97717 | [97717-spherakill.json](./97717-spherakill.json) |
@@ -33786,6 +33796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64: Openworld Quest | 350958 | [350958-super-mario-64-openworld-quest.json](./350958-super-mario-64-openworld-quest.json) |
 | Super Mario 64: Play as a Dragon! | 248348 | [248348-super-mario-64-play-as-a-dragon.json](./248348-super-mario-64-play-as-a-dragon.json) |
 | Super Mario 64: Remastered Quest | 268716 | [268716-super-mario-64-remastered-quest.json](./268716-super-mario-64-remastered-quest.json) |
+| Super Mario 64: Rogue Chaos Edition | 346313 | [346313-super-mario-64-rogue-chaos-edition.json](./346313-super-mario-64-rogue-chaos-edition.json) |
 | Super Mario 64: Rogue Chaos Edition Version 2.0 | 413054 | [413054-super-mario-64-rogue-chaos-edition-version-2-0.json](./413054-super-mario-64-rogue-chaos-edition-version-2-0.json) |
 | Super Mario 64: Royal Legacy | 268717 | [268717-super-mario-64-royal-legacy.json](./268717-super-mario-64-royal-legacy.json) |
 | Super Mario 64: Royal Legacy - Definitive Edition | 314021 | [314021-super-mario-64-royal-legacy-definitive-edition.json](./314021-super-mario-64-royal-legacy-definitive-edition.json) |
