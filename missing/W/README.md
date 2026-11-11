@@ -3815,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wet | 331273 | [331273-wet.json](./331273-wet.json) |
 | Wet and Wild | 369893 | [369893-wet-and-wild.json](./369893-wet-and-wild.json) |
 | Wet Attack: The Empire Cums Back | 73159 | [73159-wet-attack-the-empire-cums-back.json](./73159-wet-attack-the-empire-cums-back.json) |
+| Wet Beach Pussies | 384992 | [384992-wet-beach-pussies.json](./384992-wet-beach-pussies.json) |
 | Wet Candy | 408263 | [408263-wet-candy.json](./408263-wet-candy.json) |
 | Wet City | 347204 | [347204-wet-city.json](./347204-wet-city.json) |
 | Wet Cute Girls | 286752 | [286752-wet-cute-girls.json](./286752-wet-cute-girls.json) |
@@ -4687,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whirly Word | 87507 | [87507-whirly-word.json](./87507-whirly-word.json) |
 | Whirlybird | 230852 | [230852-whirlybird.json](./230852-whirlybird.json) |
 | Whirlygig | 105178 | [105178-whirlygig.json](./105178-whirlygig.json) |
+| Whisk | 385020 | [385020-whisk.json](./385020-whisk.json) |
 | Whiskara | 324954 | [324954-whiskara.json](./324954-whiskara.json) |
 | Whisker Cowboy | 385625 | [385625-whisker-cowboy.json](./385625-whisker-cowboy.json) |
 | Whisker President | 302880 | [302880-whisker-president.json](./302880-whisker-president.json) |
@@ -5164,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WhoBob WhatPants??? | 343185 | [343185-whobob-whatpants.json](./343185-whobob-whatpants.json) |
 | Whodunchat | 418675 | [418675-whodunchat.json](./418675-whodunchat.json) |
 | Whodunnit | 387577 | [387577-whodunnit.json](./387577-whodunnit.json) |
+| Whodunnit: The Midnight Murder Mystery Files | 384985 | [384985-whodunnit-the-midnight-murder-mystery-files.json](./384985-whodunnit-the-midnight-murder-mystery-files.json) |
 | WhoIs | 374005 | [374005-whois.json](./374005-whois.json) |
 | Whole | 323619 | [323619-whole.json](./323619-whole.json) |
 | Whole Lotta Lies | 255536 | [255536-whole-lotta-lies.json](./255536-whole-lotta-lies.json) |
