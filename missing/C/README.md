@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cakewalk | 18537 | [18537-cakewalk.json](./18537-cakewalk.json) |
 | Cakey's Twisted Bakery | 307692 | [307692-cakeys-twisted-bakery.json](./307692-cakeys-twisted-bakery.json) |
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
+| Cal & Bomba | 318656 | [318656-cal-and-bomba.json](./318656-cal-and-bomba.json) |
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
 | Cal III | 94313 | [94313-cal-iii.json](./94313-cal-iii.json) |
 | Cal Ripken Jr. Baseball | 46230 | [46230-cal-ripken-jr-baseball.json](./46230-cal-ripken-jr-baseball.json) |
@@ -1140,6 +1141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camino de Santiago | 319549 | [319549-camino-de-santiago.json](./319549-camino-de-santiago.json) |
 | Camisole | 128366 | [128366-camisole.json](./128366-camisole.json) |
 | Camo Sniper | 337157 | [337157-camo-sniper.json](./337157-camo-sniper.json) |
+| Camouflage | 318662 | [318662-camouflage.json](./318662-camouflage.json) |
 | Camouflet | 219734 | [219734-camouflet.json](./219734-camouflet.json) |
 | Camp 1 | 134815 | [134815-camp-1.json](./134815-camp-1.json) |
 | Camp Buddy | 127114 | [127114-camp-buddy.json](./127114-camp-buddy.json) |
@@ -1198,6 +1200,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campaigns on the Danube | 59498 | [59498-campaigns-on-the-danube.json](./59498-campaigns-on-the-danube.json) |
 | Campaña contra el Opio 2024 | 298967 | [298967-campana-contra-el-opio-2024.json](./298967-campana-contra-el-opio-2024.json) |
 | Campanella | 318469 | [318469-campanella.json](./318469-campanella.json) |
+| Campanella 2 | 318657 | [318657-campanella-2.json](./318657-campanella-2.json) |
+| Campanella 3 | 318658 | [318658-campanella-3.json](./318658-campanella-3.json) |
 | Camped Out! | 111257 | [111257-camped-out.json](./111257-camped-out.json) |
 | Campeones | 39117 | [39117-campeones.json](./39117-campeones.json) |
 | Camper Jumper Simulator | 31541 | [31541-camper-jumper-simulator.json](./31541-camper-jumper-simulator.json) |
@@ -2513,6 +2517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carambola | 370055 | [370055-carambola.json](./370055-carambola.json) |
 | Carambole Fireworks | 375717 | [375717-carambole-fireworks.json](./375717-carambole-fireworks.json) |
 | Caramel Action Micro | 386161 | [386161-caramel-action-micro.json](./386161-caramel-action-micro.json) |
+| Caramel Caramel | 318665 | [318665-caramel-caramel.json](./318665-caramel-caramel.json) |
 | Caramel Creek | 423999 | [423999-caramel-creek.json](./423999-caramel-creek.json) |
 | Caramel Performance | 323463 | [323463-caramel-performance.json](./323463-caramel-performance.json) |
 | Caramel Port | 114558 | [114558-caramel-port.json](./114558-caramel-port.json) |
@@ -13645,6 +13650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Zone Special Forces | 52317 | [52317-combat-zone-special-forces.json](./52317-combat-zone-special-forces.json) |
 | Combat: Task Force 121 | 24745 | [24745-combat-task-force-121.json](./24745-combat-task-force-121.json) |
 | Combatant | 193407 | [193407-combatant.json](./193407-combatant.json) |
+| Combatants | 318666 | [318666-combatants.json](./318666-combatants.json) |
 | CombatArms: Reloaded | 110906 | [110906-combatarms-reloaded.json](./110906-combatarms-reloaded.json) |
 | Combate | 251313 | [251313-combate.json](./251313-combate.json) |
 | Combate Monero | 117622 | [117622-combate-monero.json](./117622-combate-monero.json) |
@@ -21922,6 +21928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Ops | 114068 | [114068-cyber-ops.json](./114068-cyber-ops.json) |
 | Cyber Org | 72900 | [72900-cyber-org.json](./72900-cyber-org.json) |
 | Cyber OutRun | 121461 | [121461-cyber-outrun.json](./121461-cyber-outrun.json) |
+| Cyber Owls | 318667 | [318667-cyber-owls.json](./318667-cyber-owls.json) |
 | Cyber Paradise | 258574 | [258574-cyber-paradise.json](./258574-cyber-paradise.json) |
 | Cyber Paranoia | 408058 | [408058-cyber-paranoia.json](./408058-cyber-paranoia.json) |
 | Cyber Parkour | 317387 | [317387-cyber-parkour.json](./317387-cyber-parkour.json) |
