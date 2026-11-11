@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Latin America Empire 2027 | 219664 | [219664-latin-america-empire-2027.json](./219664-latin-america-empire-2027.json) |
 | Latin Heat | 394330 | [394330-latin-heat.json](./394330-latin-heat.json) |
 | Latin Shadows: The Visitor | 404073 | [404073-latin-shadows-the-visitor.json](./404073-latin-shadows-the-visitor.json) |
+| Latitude 76: Land of the Onkilons | 352428 | [352428-latitude-76-land-of-the-onkilons.json](./352428-latitude-76-land-of-the-onkilons.json) |
 | Latmos Explorer | 263975 | [263975-latmos-explorer.json](./263975-latmos-explorer.json) |
 | Latte Stand Tycoon | 113802 | [113802-latte-stand-tycoon.json](./113802-latte-stand-tycoon.json) |
 | Latte Stand Tycoon + | 130214 | [130214-latte-stand-tycoon.json](./130214-latte-stand-tycoon.json) |
@@ -5690,6 +5691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Fluffy Diver | 381908 | [381908-line-fluffy-diver.json](./381908-line-fluffy-diver.json) |
 | Line Forge BlackSmith | 402544 | [402544-line-forge-blacksmith.json](./402544-line-forge-blacksmith.json) |
 | Line Go Up | 422436 | [422436-line-go-up.json](./422436-line-go-up.json) |
+| Line Goes Up | 352470 | [352470-line-goes-up.json](./352470-line-goes-up.json) |
 | Line GoGo! TwinBee | 282827 | [282827-line-gogo-twinbee.json](./282827-line-gogo-twinbee.json) |
 | Line Hopper | 349875 | [349875-line-hopper.json](./349875-line-hopper.json) |
 | Line Leader | 151509 | [151509-line-leader.json](./151509-line-leader.json) |
