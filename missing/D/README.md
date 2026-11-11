@@ -7373,6 +7373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depth of Consciousness | 114315 | [114315-depth-of-consciousness.json](./114315-depth-of-consciousness.json) |
 | Depth of Extinction | 55543 | [55543-depth-of-extinction.json](./55543-depth-of-extinction.json) |
 | Depth of Extinction: Definitive Edition | 222236 | [222236-depth-of-extinction-definitive-edition.json](./222236-depth-of-extinction-definitive-edition.json) |
+| Depth of Mind | 372394 | [372394-depth-of-mind.json](./372394-depth-of-mind.json) |
 | Depth Overload | 387812 | [387812-depth-overload.json](./387812-depth-overload.json) |
 | Depth Siege Atlantis | 96521 | [96521-depth-siege-atlantis.json](./96521-depth-siege-atlantis.json) |
 | Depth VR | 31098 | [31098-depth-vr.json](./31098-depth-vr.json) |
@@ -7570,6 +7571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descend | 264044 | [264044-descend.json](./264044-descend.json) |
 | Descend | 400828 | [400828-descend.json](./400828-descend.json) |
 | Descend into Madness | 162837 | [162837-descend-into-madness.json](./162837-descend-into-madness.json) |
+| Descend With Caution | 371805 | [371805-descend-with-caution.json](./371805-descend-with-caution.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descendant | 309422 | [309422-descendant.json](./309422-descendant.json) |
 | Descendants of the Hellbeast | 184250 | [184250-descendants-of-the-hellbeast.json](./184250-descendants-of-the-hellbeast.json) |
@@ -11819,6 +11821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Souls | 36303 | [36303-divine-souls.json](./36303-divine-souls.json) |
 | Divine Souls Online | 51264 | [51264-divine-souls-online.json](./51264-divine-souls-online.json) |
 | Divine Stone | 150375 | [150375-divine-stone.json](./150375-divine-stone.json) |
+| Divine Tactics | 372393 | [372393-divine-tactics.json](./372393-divine-tactics.json) |
 | Divine Trials | 311757 | [311757-divine-trials.json](./311757-divine-trials.json) |
 | Divine Twins | 285022 | [285022-divine-twins.json](./285022-divine-twins.json) |
 | Divine W: Perfect Wonderland | 219787 | [219787-divine-w-perfect-wonderland.json](./219787-divine-w-perfect-wonderland.json) |
@@ -13990,6 +13993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom City | 273233 | [273233-doom-city.json](./273233-doom-city.json) |
 | Doom Classic Complete | 52918 | [52918-doom-classic-complete.json](./52918-doom-classic-complete.json) |
 | Doom Core | 275569 | [275569-doom-core.json](./275569-doom-core.json) |
+| Doom Dawn | 372384 | [372384-doom-dawn.json](./372384-doom-dawn.json) |
 | Doom Day | 195930 | [195930-doom-day.json](./195930-doom-day.json) |
 | Doom Days: Fire Shooter | 226761 | [226761-doom-days-fire-shooter.json](./226761-doom-days-fire-shooter.json) |
 | Doom Delta | 252029 | [252029-doom-delta.json](./252029-doom-delta.json) |
@@ -20294,6 +20298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarf | 83341 | [83341-dwarf.json](./83341-dwarf.json) |
 | Dwarf Block | 115964 | [115964-dwarf-block.json](./115964-dwarf-block.json) |
 | Dwarf Boozter | 353619 | [353619-dwarf-boozter.json](./353619-dwarf-boozter.json) |
+| Dwarf Brew Master | 372388 | [372388-dwarf-brew-master.json](./372388-dwarf-brew-master.json) |
 | Dwarf Complete | 191796 | [191796-dwarf-complete.json](./191796-dwarf-complete.json) |
 | Dwarf Core | 417611 | [417611-dwarf-core.json](./417611-dwarf-core.json) |
 | Dwarf Defense | 101339 | [101339-dwarf-defense.json](./101339-dwarf-defense.json) |
@@ -20364,6 +20369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarves: Glory, Death and Loot | 226680 | [226680-dwarves-glory-death-and-loot.json](./226680-dwarves-glory-death-and-loot.json) |
 | Dwarves: Idle Battles | 413753 | [413753-dwarves-idle-battles.json](./413753-dwarves-idle-battles.json) |
 | DwarVRs | 83611 | [83611-dwarvrs.json](./83611-dwarvrs.json) |
+| DWD: Drunk Wizard Dungeoneer | 372375 | [372375-dwd-drunk-wizard-dungeoneer.json](./372375-dwd-drunk-wizard-dungeoneer.json) |
 | Dweebers | 313187 | [313187-dweebers.json](./313187-dweebers.json) |
 | Dweebs 3 | 25406 | [25406-dweebs-3.json](./25406-dweebs-3.json) |
 | DweeMixed: Thwee Pack | 187477 | [187477-dweemixed-thwee-pack.json](./187477-dweemixed-thwee-pack.json) |
