@@ -2006,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kerry and Alice Run into Some Trouble | 267550 | [267550-kerry-and-alice-run-into-some-trouble.json](./267550-kerry-and-alice-run-into-some-trouble.json) |
 | Kersploosh! | 84894 | [84894-kersploosh.json](./84894-kersploosh.json) |
 | Kesenai Boken no Sho | 97693 | [97693-kesenai-boken-no-sho.json](./97693-kesenai-boken-no-sho.json) |
+| Kesha Jump | 380921 | [380921-kesha-jump.json](./380921-kesha-jump.json) |
 | Keshtat | 72368 | [72368-keshtat.json](./72368-keshtat.json) |
 | Kessakusen! Ganbare Goemon 1+2: Yuki-hime to McGuiness | 82068 | [82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json](./82068-kessakusen-ganbare-goemon-1-2-yuki-hime-to-mcguiness.json) |
 | Kessen Daikaiju | 218231 | [218231-kessen-daikaiju.json](./218231-kessen-daikaiju.json) |
