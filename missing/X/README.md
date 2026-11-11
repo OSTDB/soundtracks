@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XWarShooterVR | 283856 | [283856-xwarshootervr.json](./283856-xwarshootervr.json) |
 | XWing Fighter | 25158 | [25158-xwing-fighter.json](./25158-xwing-fighter.json) |
 | Xwung | 77017 | [77017-xwung.json](./77017-xwung.json) |
+| XWVM | 346853 | [346853-xwvm.json](./346853-xwvm.json) |
 | XX Delicto | 297336 | [297336-xx-delicto.json](./297336-xx-delicto.json) |
 | XX Game: The Evolution Merge Puzzle | 411133 | [411133-xx-game-the-evolution-merge-puzzle.json](./411133-xx-game-the-evolution-merge-puzzle.json) |
 | XX Mission | 39423 | [39423-xx-mission.json](./39423-xx-mission.json) |
