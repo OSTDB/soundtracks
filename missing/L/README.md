@@ -7956,6 +7956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loop: A Tranquil Puzzle Game | 35278 | [35278-loop-a-tranquil-puzzle-game.json](./35278-loop-a-tranquil-puzzle-game.json) |
 | Loop: New Reality | 333219 | [333219-loop-new-reality.json](./333219-loop-new-reality.json) |
 | Loop: the distress call | 131949 | [131949-loop-the-distress-call.json](./131949-loop-the-distress-call.json) |
+| Loop//Error | 363084 | [363084-loop-error.json](./363084-loop-error.json) |
 | Loop2Loop | 183776 | [183776-loop2loop.json](./183776-loop2loop.json) |
 | Loop8: Celestial Edition | 221330 | [221330-loop8-celestial-edition.json](./221330-loop8-celestial-edition.json) |
 | Loop8: Summer of Gods | 191416 | [191416-loop8-summer-of-gods.json](./191416-loop8-summer-of-gods.json) |
@@ -9829,6 +9830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid Aether | 127675 | [127675-lucid-aether.json](./127675-lucid-aether.json) |
 | Lucid Awakening 2 | 36012 | [36012-lucid-awakening-2.json](./36012-lucid-awakening-2.json) |
 | Lucid Cats | 419831 | [419831-lucid-cats.json](./419831-lucid-cats.json) |
+| Lucid Clowder | 363096 | [363096-lucid-clowder.json](./363096-lucid-clowder.json) |
 | Lucid Cycle | 149940 | [149940-lucid-cycle.json](./149940-lucid-cycle.json) |
 | Lucid Deep | 132774 | [132774-lucid-deep.json](./132774-lucid-deep.json) |
 | Lucid Dream | 202933 | [202933-lucid-dream.json](./202933-lucid-dream.json) |
