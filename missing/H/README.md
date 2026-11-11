@@ -10636,6 +10636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Fighter | 105090 | [105090-horny-fighter.json](./105090-horny-fighter.json) |
 | Horny Girl Hentai Puzzle | 158399 | [158399-horny-girl-hentai-puzzle.json](./158399-horny-girl-hentai-puzzle.json) |
 | Horny Girls Hentai | 161327 | [161327-horny-girls-hentai.json](./161327-horny-girls-hentai.json) |
+| Horny Goddesses Quiz | 391919 | [391919-horny-goddesses-quiz.json](./391919-horny-goddesses-quiz.json) |
 | Horny Heart | 148176 | [148176-horny-heart.json](./148176-horny-heart.json) |
 | Horny Holiday | 277087 | [277087-horny-holiday.json](./277087-horny-holiday.json) |
 | Horny Honey | 156628 | [156628-horny-honey.json](./156628-horny-honey.json) |
@@ -10702,6 +10703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Cliche | 412115 | [412115-horror-cliche.json](./412115-horror-cliche.json) |
 | Horror Drift | 187531 | [187531-horror-drift.json](./187531-horror-drift.json) |
 | Horror em Amityville | 246249 | [246249-horror-em-amityville.json](./246249-horror-em-amityville.json) |
+| Horror Engine: Tech Demo | 391923 | [391923-horror-engine-tech-demo.json](./391923-horror-engine-tech-demo.json) |
 | Horror Family: Flight | 303971 | [303971-horror-family-flight.json](./303971-horror-family-flight.json) |
 | Horror Fan House | 344859 | [344859-horror-fan-house.json](./344859-horror-fan-house.json) |
 | Horror Fun | 214666 | [214666-horror-fun.json](./214666-horror-fun.json) |
@@ -12206,6 +12208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo 2 1/2 | 64504 | [64504-hugo-2-1-2.json](./64504-hugo-2-1-2.json) |
 | Hugo 2 in 1 | 94142 | [94142-hugo-2-in-1.json](./94142-hugo-2-in-1.json) |
 | Hugo and the Animals of the Ocean | 286610 | [286610-hugo-and-the-animals-of-the-ocean.json](./286610-hugo-and-the-animals-of-the-ocean.json) |
+| Hugo Classic #3 | 391907 | [391907-hugo-classic-3.json](./391907-hugo-classic-3.json) |
 | Hugo Gold | 265969 | [265969-hugo-gold.json](./265969-hugo-gold.json) |
 | Hugo Hound's Vowel Sounds | 285866 | [285866-hugo-hounds-vowel-sounds.json](./285866-hugo-hounds-vowel-sounds.json) |
 | Hugo II, Whodunit? | 8882 | [8882-hugo-ii-whodunit.json](./8882-hugo-ii-whodunit.json) |
@@ -13417,6 +13420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperplasm | 142656 | [142656-hyperplasm.json](./142656-hyperplasm.json) |
 | HyperPop | 298664 | [298664-hyperpop.json](./298664-hyperpop.json) |
 | HyperPortals | 195712 | [195712-hyperportals.json](./195712-hyperportals.json) |
+| Hyperquiz | 391406 | [391406-hyperquiz.json](./391406-hyperquiz.json) |
 | HyperRaid | 293578 | [293578-hyperraid.json](./293578-hyperraid.json) |
 | Hyperrail Detective | 272762 | [272762-hyperrail-detective.json](./272762-hyperrail-detective.json) |
 | HyperRogue | 35931 | [35931-hyperrogue.json](./35931-hyperrogue.json) |
