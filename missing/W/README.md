@@ -2630,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterfall | 251196 | [251196-waterfall.json](./251196-waterfall.json) |
 | Waterfall Canyon | 223683 | [223683-waterfall-canyon.json](./223683-waterfall-canyon.json) |
 | Waterfall Prisoner | 244932 | [244932-waterfall-prisoner.json](./244932-waterfall-prisoner.json) |
+| Waterflow | 377533 | [377533-waterflow.json](./377533-waterflow.json) |
 | Waterful | 404861 | [404861-waterful.json](./404861-waterful.json) |
 | Watergate Xtreme | 52090 | [52090-watergate-xtreme.json](./52090-watergate-xtreme.json) |
 | Watering a Flower | 183907 | [183907-watering-a-flower.json](./183907-watering-a-flower.json) |
@@ -3629,6 +3630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Well of Darkness | 346490 | [346490-well-of-darkness.json](./346490-well-of-darkness.json) |
 | Well of Lost Souls | 271788 | [271788-well-of-lost-souls.json](./271788-well-of-lost-souls.json) |
 | Well of Souls | 67091 | [67091-well-of-souls.json](./67091-well-of-souls.json) |
+| Well Tended | 377534 | [377534-well-tended.json](./377534-well-tended.json) |
 | Well to Hell | 319214 | [319214-well-to-hell.json](./319214-well-to-hell.json) |
 | Well-Beings: Wellness for Kids | 192083 | [192083-well-beings-wellness-for-kids.json](./192083-well-beings-wellness-for-kids.json) |
 | Well, Fuck You Too | 352755 | [352755-well-fuck-you-too.json](./352755-well-fuck-you-too.json) |
@@ -7040,6 +7042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wittle Mistakes | 322041 | [322041-wittle-mistakes.json](./322041-wittle-mistakes.json) |
 | Witty Apee | 54914 | [54914-witty-apee.json](./54914-witty-apee.json) |
 | Witty witch | 152455 | [152455-witty-witch.json](./152455-witty-witch.json) |
+| Witz | 377527 | [377527-witz.json](./377527-witz.json) |
 | Wixoss | 56135 | [56135-wixoss.json](./56135-wixoss.json) |
 | Wiz | 157517 | [157517-wiz.json](./157517-wiz.json) |
 | Wiz | 162406 | [162406-wiz.json](./162406-wiz.json) |
