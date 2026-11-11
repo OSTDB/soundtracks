@@ -4961,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gitadora | 60810 | [60810-gitadora.json](./60810-gitadora.json) |
 | Gitadora Exchain | 154831 | [154831-gitadora-exchain.json](./154831-gitadora-exchain.json) |
 | Gitadora Fuzz-Up | 266955 | [266955-gitadora-fuzz-up.json](./266955-gitadora-fuzz-up.json) |
+| Gitadora Galaxy Wave | 322338 | [322338-gitadora-galaxy-wave.json](./322338-gitadora-galaxy-wave.json) |
 | Gitadora Galaxy Wave Delta | 353530 | [353530-gitadora-galaxy-wave-delta.json](./353530-gitadora-galaxy-wave-delta.json) |
 | Gitadora High-Voltage | 154836 | [154836-gitadora-high-voltage.json](./154836-gitadora-high-voltage.json) |
 | Gitadora Matixx | 154828 | [154828-gitadora-matixx.json](./154828-gitadora-matixx.json) |
