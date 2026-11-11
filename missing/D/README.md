@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dappervolk | 130667 | [130667-dappervolk.json](./130667-dappervolk.json) |
 | Dappou Undead Factory | 206544 | [206544-dappou-undead-factory.json](./206544-dappou-undead-factory.json) |
 | Daraku Gear | 186391 | [186391-daraku-gear.json](./186391-daraku-gear.json) |
+| Darby is Here Forever | 325764 | [325764-darby-is-here-forever.json](./325764-darby-is-here-forever.json) |
 | Darby the Dragon | 72931 | [72931-darby-the-dragon.json](./72931-darby-the-dragon.json) |
 | Darcade | 28447 | [28447-darcade.json](./28447-darcade.json) |
 | Darco: Reign of Elements | 90092 | [90092-darco-reign-of-elements.json](./90092-darco-reign-of-elements.json) |
@@ -3448,6 +3449,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F/A-18C Operation Green Line by BADGER633 | 302026 | [302026-dcs-world-f-a-18c-operation-green-line-by-badger633.json](./302026-dcs-world-f-a-18c-operation-green-line-by-badger633.json) |
 | DCS World: F/A-18C Operation Mountain Breeze by Sandman Simulations | 316379 | [316379-dcs-world-f-a-18c-operation-mountain-breeze-by-sandman-simulations.json](./316379-dcs-world-f-a-18c-operation-mountain-breeze-by-sandman-simulations.json) |
 | DCS World: F/A-18C Operation Pontus Campaign | 156292 | [156292-dcs-world-f-a-18c-operation-pontus-campaign.json](./156292-dcs-world-f-a-18c-operation-pontus-campaign.json) |
+| DCS World: F/A-18C Raven One Сampaign by Baltic Dragon | 325771 | [325771-dcs-world-f-a-18c-raven-one-ampaign-by-baltic-dragon.json](./325771-dcs-world-f-a-18c-raven-one-ampaign-by-baltic-dragon.json) |
+| DCS World: F/A-18C Raven One: Dominant Fury Campaign by Baltic Dragon | 325777 | [325777-dcs-world-f-a-18c-raven-one-dominant-fury-campaign-by-baltic-dragon.json](./325777-dcs-world-f-a-18c-raven-one-dominant-fury-campaign-by-baltic-dragon.json) |
 | DCS World: F/A-18C Rise of the Persian Lion Campaign | 162862 | [162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json](./162862-dcs-world-f-a-18c-rise-of-the-persian-lion-campaign.json) |
 | DCS World: F/A-18C Rise of the Persian Lion II Campaign by Badger 633 | 325538 | [325538-dcs-world-f-a-18c-rise-of-the-persian-lion-ii-campaign-by-badger-633.json](./325538-dcs-world-f-a-18c-rise-of-the-persian-lion-ii-campaign-by-badger-633.json) |
 | DCS World: F/A-18C: The Rampagers Campaign by Baltic Dragon | 408215 | [408215-dcs-world-f-a-18c-the-rampagers-campaign-by-baltic-dragon.json](./408215-dcs-world-f-a-18c-the-rampagers-campaign-by-baltic-dragon.json) |
@@ -3676,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Definitive Edition | 136185 | [136185-dead-by-daylight-definitive-edition.json](./136185-dead-by-daylight-definitive-edition.json) |
 | Dead by Daylight: Demise of the Faithful Chapter | 129407 | [129407-dead-by-daylight-demise-of-the-faithful-chapter.json](./129407-dead-by-daylight-demise-of-the-faithful-chapter.json) |
 | Dead by Daylight: Descend Beyond Chapter | 154345 | [154345-dead-by-daylight-descend-beyond-chapter.json](./154345-dead-by-daylight-descend-beyond-chapter.json) |
+| Dead By Daylight: Doomed Course | 325776 | [325776-dead-by-daylight-doomed-course.json](./325776-dead-by-daylight-doomed-course.json) |
 | Dead by Daylight: Dungeons & Dragons | 300798 | [300798-dead-by-daylight-dungeons-and-dragons.json](./300798-dead-by-daylight-dungeons-and-dragons.json) |
 | Dead by Daylight: Dungeons & Dragons Edition | 305485 | [305485-dead-by-daylight-dungeons-and-dragons-edition.json](./305485-dead-by-daylight-dungeons-and-dragons-edition.json) |
 | Dead by Daylight: End Transmission | 253114 | [253114-dead-by-daylight-end-transmission.json](./253114-dead-by-daylight-end-transmission.json) |
@@ -9342,6 +9346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Heroes | 346176 | [346176-dicey-heroes.json](./346176-dicey-heroes.json) |
 | Dicey Jump | 287444 | [287444-dicey-jump.json](./287444-dicey-jump.json) |
 | Dicey Krime: Traveler of Time | 155850 | [155850-dicey-krime-traveler-of-time.json](./155850-dicey-krime-traveler-of-time.json) |
+| Dicey Tales | 325762 | [325762-dicey-tales.json](./325762-dicey-tales.json) |
 | Dicey Towers | 188489 | [188489-dicey-towers.json](./188489-dicey-towers.json) |
 | Dicey Words | 347446 | [347446-dicey-words.json](./347446-dicey-words.json) |
 | DiceyTable | 422531 | [422531-diceytable.json](./422531-diceytable.json) |
@@ -13585,6 +13590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't wake up | 381009 | [381009-dont-wake-up.json](./381009-dont-wake-up.json) |
 | Don't Wake Up | 183915 | [183915-dont-wake-up.json](./183915-dont-wake-up.json) |
 | Don't Wake Up My Dream | 369588 | [369588-dont-wake-up-my-dream.json](./369588-dont-wake-up-my-dream.json) |
+| Don't Whack the Lorax | 325800 | [325800-dont-whack-the-lorax.json](./325800-dont-whack-the-lorax.json) |
 | Don't Win | 310898 | [310898-dont-win.json](./310898-dont-win.json) |
 | Don't Worry, I'll Bring the Beer | 307788 | [307788-dont-worry-ill-bring-the-beer.json](./307788-dont-worry-ill-bring-the-beer.json) |
 | Don't! Heroes | 181932 | [181932-dont-heroes.json](./181932-dont-heroes.json) |
@@ -15214,6 +15220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
 | Dr. Chatelet: Faith | 207757 | [207757-dr-chatelet-faith.json](./207757-dr-chatelet-faith.json) |
 | Dr. Chess | 268534 | [268534-dr-chess.json](./268534-dr-chess.json) |
+| Dr. Cog | 325757 | [325757-dr-cog.json](./325757-dr-cog.json) |
 | Dr. Daisy Pet Vet | 15790 | [15790-dr-daisy-pet-vet.json](./15790-dr-daisy-pet-vet.json) |
 | Dr. Dental | 385549 | [385549-dr-dental.json](./385549-dr-dental.json) |
 | Dr. Derk's Mutant Battlegrounds | 120604 | [120604-dr-derks-mutant-battlegrounds.json](./120604-dr-derks-mutant-battlegrounds.json) |
