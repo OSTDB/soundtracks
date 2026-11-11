@@ -1822,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi: Shinsen | 218061 | [218061-sangokushi-shinsen.json](./218061-sangokushi-shinsen.json) |
 | Sangokushi: Strategy Edition | 188391 | [188391-sangokushi-strategy-edition.json](./188391-sangokushi-strategy-edition.json) |
 | Sangokutaisen Smash | 83431 | [83431-sangokutaisen-smash.json](./83431-sangokutaisen-smash.json) |
+| Sangra | 330987 | [330987-sangra.json](./330987-sangra.json) |
 | SangRaciner | 244265 | [244265-sangraciner.json](./244265-sangraciner.json) |
 | Sàngshī Wéichéng: Límíng | 369184 | [369184-sangshi-weicheng-liming.json](./369184-sangshi-weicheng-liming.json) |
 | Sanguinaria | 337674 | [337674-sanguinaria.json](./337674-sanguinaria.json) |
@@ -5393,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega GT Online | 6040 | [6040-sega-gt-online.json](./6040-sega-gt-online.json) |
 | Sega GT: European Edition | 46366 | [46366-sega-gt-european-edition.json](./46366-sega-gt-european-edition.json) |
 | Sega Heroes | 112014 | [112014-sega-heroes.json](./112014-sega-heroes.json) |
+| Sega Kara for Dreamcast | 331023 | [331023-sega-kara-for-dreamcast.json](./331023-sega-kara-for-dreamcast.json) |
 | Sega Legends | 108842 | [108842-sega-legends.json](./108842-sega-legends.json) |
 | Sega Marine Fishing | 45838 | [45838-sega-marine-fishing.json](./45838-sega-marine-fishing.json) |
 | Sega Master System Brawl | 266667 | [266667-sega-master-system-brawl.json](./266667-sega-master-system-brawl.json) |
@@ -29033,6 +29035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonerid | 9880 | [9880-stonerid.json](./9880-stonerid.json) |
 | Stonerill | 370161 | [370161-stonerill.json](./370161-stonerill.json) |
 | Stones | 282401 | [282401-stones.json](./282401-stones.json) |
+| Stones Keeper II: Chaos Lord | 331038 | [331038-stones-keeper-ii-chaos-lord.json](./331038-stones-keeper-ii-chaos-lord.json) |
 | Stones Keeper: Director's Cut | 419645 | [419645-stones-keeper-directors-cut.json](./419645-stones-keeper-directors-cut.json) |
 | Stones Keeper: King Aurelius | 212863 | [212863-stones-keeper-king-aurelius.json](./212863-stones-keeper-king-aurelius.json) |
 | Stones of Harlath | 152747 | [152747-stones-of-harlath.json](./152747-stones-of-harlath.json) |
@@ -35170,11 +35173,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Alternate Universe | 358315 | [358315-super-smash-bros-alternate-universe.json](./358315-super-smash-bros-alternate-universe.json) |
 | Super Smash Bros. Brawl | 328674 | [328674-super-smash-bros-brawl.json](./328674-super-smash-bros-brawl.json) |
 | Super Smash Bros. Brawl: Limited Edition | 231867 | [231867-super-smash-bros-brawl-limited-edition.json](./231867-super-smash-bros-brawl-limited-edition.json) |
+| Super Smash Bros. Brawl: Mafia Mario | 331000 | [331000-super-smash-bros-brawl-mafia-mario.json](./331000-super-smash-bros-brawl-mafia-mario.json) |
+| Super Smash Bros. Brawl: WarioWare w/ Anti-Camping Mechanics | 330993 | [330993-super-smash-bros-brawl-warioware-w-anti-camping-mechanics.json](./330993-super-smash-bros-brawl-warioware-w-anti-camping-mechanics.json) |
 | Super Smash Bros. Clash | 279590 | [279590-super-smash-bros-clash.json](./279590-super-smash-bros-clash.json) |
 | Super Smash Bros. CMC+ | 265878 | [265878-super-smash-bros-cmc.json](./265878-super-smash-bros-cmc.json) |
 | Super Smash Bros. Crusade | 132730 | [132730-super-smash-bros-crusade.json](./132730-super-smash-bros-crusade.json) |
 | Super Smash Bros. Crusade Remix | 408816 | [408816-super-smash-bros-crusade-remix.json](./408816-super-smash-bros-crusade-remix.json) |
+| Super Smash Bros. Crusade: How to Play | 331002 | [331002-super-smash-bros-crusade-how-to-play.json](./331002-super-smash-bros-crusade-how-to-play.json) |
 | Super Smash Bros. Crusade: Light Yagami | 335016 | [335016-super-smash-bros-crusade-light-yagami.json](./335016-super-smash-bros-crusade-light-yagami.json) |
+| Super Smash Bros. Crusade: Nintendo.comm - You Cannot Beat Us | 331003 | [331003-super-smash-bros-crusade-nintendo-comm-you-cannot-beat-us.json](./331003-super-smash-bros-crusade-nintendo-comm-you-cannot-beat-us.json) |
+| Super Smash Bros. Crusade: Untitled School | 331001 | [331001-super-smash-bros-crusade-untitled-school.json](./331001-super-smash-bros-crusade-untitled-school.json) |
 | Super Smash Bros. Deluxe | 230369 | [230369-super-smash-bros-deluxe.json](./230369-super-smash-bros-deluxe.json) |
 | Super Smash Bros. for Nintendo 3DS | 9621 | [9621-super-smash-bros-for-nintendo-3ds.json](./9621-super-smash-bros-for-nintendo-3ds.json) |
 | Super Smash Bros. for Nintendo 3DS: Ashley Hat + Ashley Outfit | 325073 | [325073-super-smash-bros-for-nintendo-3ds-ashley-hat-ashley-outfit.json](./325073-super-smash-bros-for-nintendo-3ds-ashley-hat-ashley-outfit.json) |
@@ -35198,11 +35206,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. for Wii U: Better Woolly World | 342694 | [342694-super-smash-bros-for-wii-u-better-woolly-world.json](./342694-super-smash-bros-for-wii-u-better-woolly-world.json) |
 | Super Smash Bros. for Wii U: Cloud | 178322 | [178322-super-smash-bros-for-wii-u-cloud.json](./178322-super-smash-bros-for-wii-u-cloud.json) |
 | Super Smash Bros. for Wii U: Corrin | 178318 | [178318-super-smash-bros-for-wii-u-corrin.json](./178318-super-smash-bros-for-wii-u-corrin.json) |
+| Super Smash Bros. for Wii U: Delfino's Secret | 331012 | [331012-super-smash-bros-for-wii-u-delfinos-secret.json](./331012-super-smash-bros-for-wii-u-delfinos-secret.json) |
 | Super Smash Bros. for Wii U: Geno Hat + Geno Outfit | 325076 | [325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json](./325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json) |
 | Super Smash Bros. for Wii U: Igglybuff moveset | 343431 | [343431-super-smash-bros-for-wii-u-igglybuff-moveset.json](./343431-super-smash-bros-for-wii-u-igglybuff-moveset.json) |
 | Super Smash Bros. for Wii U: King K. Rool Hat + King K. Rool Outfit | 313048 | [313048-super-smash-bros-for-wii-u-king-k-rool-hat-king-k-rool-outfit.json](./313048-super-smash-bros-for-wii-u-king-k-rool-hat-king-k-rool-outfit.json) |
 | Super Smash Bros. for Wii U: Lucas | 178311 | [178311-super-smash-bros-for-wii-u-lucas.json](./178311-super-smash-bros-for-wii-u-lucas.json) |
 | Super Smash Bros. for Wii U: Mewtwo | 178309 | [178309-super-smash-bros-for-wii-u-mewtwo.json](./178309-super-smash-bros-for-wii-u-mewtwo.json) |
+| Super Smash Bros. for Wii U: Non-scrolling Pac-Land | 331013 | [331013-super-smash-bros-for-wii-u-non-scrolling-pac-land.json](./331013-super-smash-bros-for-wii-u-non-scrolling-pac-land.json) |
 | Super Smash Bros. for Wii U: Peach's Castle | 312969 | [312969-super-smash-bros-for-wii-u-peachs-castle.json](./312969-super-smash-bros-for-wii-u-peachs-castle.json) |
 | Super Smash Bros. for Wii U: Roy | 178313 | [178313-super-smash-bros-for-wii-u-roy.json](./178313-super-smash-bros-for-wii-u-roy.json) |
 | Super Smash Bros. for Wii U: Ryu | 178315 | [178315-super-smash-bros-for-wii-u-ryu.json](./178315-super-smash-bros-for-wii-u-ryu.json) |
@@ -35212,21 +35222,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Infinite | 234117 | [234117-super-smash-bros-infinite.json](./234117-super-smash-bros-infinite.json) |
 | Super Smash Bros. Melee; Marth with a Massive Sword | 342702 | [342702-super-smash-bros-melee-marth-with-a-massive-sword.json](./342702-super-smash-bros-melee-marth-with-a-massive-sword.json) |
 | Super Smash Bros. Melee: 20XX Edition | 165116 | [165116-super-smash-bros-melee-20xx-edition.json](./165116-super-smash-bros-melee-20xx-edition.json) |
+| Super Smash Bros. Melee: Footstools | 331009 | [331009-super-smash-bros-melee-footstools.json](./331009-super-smash-bros-melee-footstools.json) |
 | Super Smash Bros. Melee: How to Play - N64 | 342700 | [342700-super-smash-bros-melee-how-to-play-n64.json](./342700-super-smash-bros-melee-how-to-play-n64.json) |
 | Super Smash Bros. Melee: Hyrule Temple, but It’s a Half Decent Stage | 342698 | [342698-super-smash-bros-melee-hyrule-temple-but-it-s-a-half-decent-stage.json](./342698-super-smash-bros-melee-hyrule-temple-but-it-s-a-half-decent-stage.json) |
+| Super Smash Bros. Melee: King of the Rock | 331007 | [331007-super-smash-bros-melee-king-of-the-rock.json](./331007-super-smash-bros-melee-king-of-the-rock.json) |
 | Super Smash Bros. Melee: Melee-Style Castle Siege | 342699 | [342699-super-smash-bros-melee-melee-style-castle-siege.json](./342699-super-smash-bros-melee-melee-style-castle-siege.json) |
 | Super Smash Bros. Melee: Tourney Floats | 342701 | [342701-super-smash-bros-melee-tourney-floats.json](./342701-super-smash-bros-melee-tourney-floats.json) |
+| Super Smash Bros. Melee: Trophy Tussle - Waluigi | 331008 | [331008-super-smash-bros-melee-trophy-tussle-waluigi.json](./331008-super-smash-bros-melee-trophy-tussle-waluigi.json) |
 | Super Smash Bros. Melee: Yoshi's Forest | 390287 | [390287-super-smash-bros-melee-yoshis-forest.json](./390287-super-smash-bros-melee-yoshis-forest.json) |
+| Super Smash Bros. Melee: Yoshi's Story - 2 Clouds | 331004 | [331004-super-smash-bros-melee-yoshis-story-2-clouds.json](./331004-super-smash-bros-melee-yoshis-story-2-clouds.json) |
 | Super Smash Bros. Open | 269059 | [269059-super-smash-bros-open.json](./269059-super-smash-bros-open.json) |
 | Super Smash Bros. Rumble | 232799 | [232799-super-smash-bros-rumble.json](./232799-super-smash-bros-rumble.json) |
 | Super Smash Bros. Sonic 2 Mod | 173085 | [173085-super-smash-bros-sonic-2-mod.json](./173085-super-smash-bros-sonic-2-mod.json) |
 | Super Smash Bros. Ultimate - Piranha Plant | 136383 | [136383-super-smash-bros-ultimate-piranha-plant.json](./136383-super-smash-bros-ultimate-piranha-plant.json) |
 | Super Smash Bros. Ultimate: Akaza Moveset | 395017 | [395017-super-smash-bros-ultimate-akaza-moveset.json](./395017-super-smash-bros-ultimate-akaza-moveset.json) |
 | Super Smash Bros. Ultimate: All Might Custom Moveset | 394598 | [394598-super-smash-bros-ultimate-all-might-custom-moveset.json](./394598-super-smash-bros-ultimate-all-might-custom-moveset.json) |
+| Super Smash Bros. Ultimate: Almost Competitive Summit | 330996 | [330996-super-smash-bros-ultimate-almost-competitive-summit.json](./330996-super-smash-bros-ultimate-almost-competitive-summit.json) |
 | Super Smash Bros. Ultimate: Animdude Moveset | 395034 | [395034-super-smash-bros-ultimate-animdude-moveset.json](./395034-super-smash-bros-ultimate-animdude-moveset.json) |
 | Super Smash Bros. Ultimate: Armstrong Moveset | 394273 | [394273-super-smash-bros-ultimate-armstrong-moveset.json](./394273-super-smash-bros-ultimate-armstrong-moveset.json) |
 | Super Smash Bros. Ultimate: Bandana Dee Moveset | 385677 | [385677-super-smash-bros-ultimate-bandana-dee-moveset.json](./385677-super-smash-bros-ultimate-bandana-dee-moveset.json) |
 | Super Smash Bros. Ultimate: Bayonetta Reimagined Moveset | 394601 | [394601-super-smash-bros-ultimate-bayonetta-reimagined-moveset.json](./394601-super-smash-bros-ultimate-bayonetta-reimagined-moveset.json) |
+| Super Smash Bros. Ultimate: Better Yoshi's Story | 330995 | [330995-super-smash-bros-ultimate-better-yoshis-story.json](./330995-super-smash-bros-ultimate-better-yoshis-story.json) |
 | Super Smash Bros. Ultimate: Black Knight Moveset | 394261 | [394261-super-smash-bros-ultimate-black-knight-moveset.json](./394261-super-smash-bros-ultimate-black-knight-moveset.json) |
 | Super Smash Bros. Ultimate: Blaziken Moveset | 394264 | [394264-super-smash-bros-ultimate-blaziken-moveset.json](./394264-super-smash-bros-ultimate-blaziken-moveset.json) |
 | Super Smash Bros. Ultimate: Blood Falcon Moveset | 375986 | [375986-super-smash-bros-ultimate-blood-falcon-moveset.json](./375986-super-smash-bros-ultimate-blood-falcon-moveset.json) |
@@ -35266,6 +35282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Herobrine Moveset | 394267 | [394267-super-smash-bros-ultimate-herobrine-moveset.json](./394267-super-smash-bros-ultimate-herobrine-moveset.json) |
 | Super Smash Bros. Ultimate: Hilda Moveset | 394274 | [394274-super-smash-bros-ultimate-hilda-moveset.json](./394274-super-smash-bros-ultimate-hilda-moveset.json) |
 | Super Smash Bros. Ultimate: Hong Meiling Moveset (Touhou Hisoutensoku) | 394271 | [394271-super-smash-bros-ultimate-hong-meiling-moveset-touhou-hisoutensoku.json](./394271-super-smash-bros-ultimate-hong-meiling-moveset-touhou-hisoutensoku.json) |
+| Super Smash Bros. Ultimate: How to Play | 330997 | [330997-super-smash-bros-ultimate-how-to-play.json](./330997-super-smash-bros-ultimate-how-to-play.json) |
 | Super Smash Bros. Ultimate: Ice Beam Moveset | 394596 | [394596-super-smash-bros-ultimate-ice-beam-moveset.json](./394596-super-smash-bros-ultimate-ice-beam-moveset.json) |
 | Super Smash Bros. Ultimate: Ichiban Kasuga Moveset (Yakuza) | 395018 | [395018-super-smash-bros-ultimate-ichiban-kasuga-moveset-yakuza.json](./395018-super-smash-bros-ultimate-ichiban-kasuga-moveset-yakuza.json) |
 | Super Smash Bros. Ultimate: Ike 20% Bigger | 343411 | [343411-super-smash-bros-ultimate-ike-20-bigger.json](./343411-super-smash-bros-ultimate-ike-20-bigger.json) |
@@ -35327,6 +35344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Ultron Moveset | 395035 | [395035-super-smash-bros-ultimate-ultron-moveset.json](./395035-super-smash-bros-ultimate-ultron-moveset.json) |
 | Super Smash Bros. Ultimate: Vegeta Moveset | 375984 | [375984-super-smash-bros-ultimate-vegeta-moveset.json](./375984-super-smash-bros-ultimate-vegeta-moveset.json) |
 | Super Smash Bros. Ultimate: Wario Land Wario Moveset | 394294 | [394294-super-smash-bros-ultimate-wario-land-wario-moveset.json](./394294-super-smash-bros-ultimate-wario-land-wario-moveset.json) |
+| Super Smash Bros. Ultimate: Waterfall Basin | 330994 | [330994-super-smash-bros-ultimate-waterfall-basin.json](./330994-super-smash-bros-ultimate-waterfall-basin.json) |
 | Super Smash Bros. Ultimate: Waxing Crescent Meta Knight Moveset | 394597 | [394597-super-smash-bros-ultimate-waxing-crescent-meta-knight-moveset.json](./394597-super-smash-bros-ultimate-waxing-crescent-meta-knight-moveset.json) |
 | Super Smash Bros. Ultimate: Weiss Schnee Moveset | 394269 | [394269-super-smash-bros-ultimate-weiss-schnee-moveset.json](./394269-super-smash-bros-ultimate-weiss-schnee-moveset.json) |
 | Super Smash Bros. Ultimate: World of Memes | 390285 | [390285-super-smash-bros-ultimate-world-of-memes.json](./390285-super-smash-bros-ultimate-world-of-memes.json) |
