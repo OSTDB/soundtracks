@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Ball | 126540 | [126540-e-ball.json](./126540-e-ball.json) |
 | E-circle | 203943 | [203943-e-circle.json](./203943-e-circle.json) |
 | E-commerce Simulator | 303507 | [303507-e-commerce-simulator.json](./303507-e-commerce-simulator.json) |
+| E-Commerce Simulator | 383886 | [383886-e-commerce-simulator.json](./383886-e-commerce-simulator.json) |
 | E-Commerce Simulator 2025 | 329331 | [329331-e-commerce-simulator-2025.json](./329331-e-commerce-simulator-2025.json) |
 | E-Elementals | 208436 | [208436-e-elementals.json](./208436-e-elementals.json) |
 | E-FCC | 311742 | [311742-e-fcc.json](./311742-e-fcc.json) |
@@ -8254,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus Guilty Vol. 2 Past | 61955 | [61955-exodus-guilty-vol-2-past.json](./61955-exodus-guilty-vol-2-past.json) |
 | Exodus Guilty Vol. 3 Future | 61954 | [61954-exodus-guilty-vol-3-future.json](./61954-exodus-guilty-vol-3-future.json) |
 | Exodus Idle | 211761 | [211761-exodus-idle.json](./211761-exodus-idle.json) |
+| Exodus II | 383857 | [383857-exodus-ii.json](./383857-exodus-ii.json) |
 | Exodus of Descent | 244059 | [244059-exodus-of-descent.json](./244059-exodus-of-descent.json) |
 | Exodus of Souls | 217161 | [217161-exodus-of-souls.json](./217161-exodus-of-souls.json) |
 | Exodus Vigil | 207353 | [207353-exodus-vigil.json](./207353-exodus-vigil.json) |
