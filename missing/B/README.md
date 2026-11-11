@@ -1015,6 +1015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1880,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballroom Banter | 388235 | [388235-ballroom-banter.json](./388235-ballroom-banter.json) |
 | Ballroom Bonanza | 246499 | [246499-ballroom-bonanza.json](./246499-ballroom-bonanza.json) |
 | Ballrun | 358270 | [358270-ballrun.json](./358270-ballrun.json) |
+| Ballrun 3D Marble Maze Speedrun | 368913 | [368913-ballrun-3d-marble-maze-speedrun.json](./368913-ballrun-3d-marble-maze-speedrun.json) |
 | Balls | 15657 | [15657-balls.json](./15657-balls.json) |
 | Balls | 355067 | [355067-balls.json](./355067-balls.json) |
 | Balls | 379996 | [379996-balls.json](./379996-balls.json) |
@@ -6254,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beehive Bedlam | 238469 | [238469-beehive-bedlam.json](./238469-beehive-bedlam.json) |
 | Beehive Bedlam | 262021 | [262021-beehive-bedlam.json](./262021-beehive-bedlam.json) |
 | Beehive Bedlam | 262024 | [262024-beehive-bedlam.json](./262024-beehive-bedlam.json) |
+| Beeing | 368917 | [368917-beeing.json](./368917-beeing.json) |
 | Beeing Hive | 407030 | [407030-beeing-hive.json](./407030-beeing-hive.json) |
 | Beek: Familiar Spirit - Remastered | 342497 | [342497-beek-familiar-spirit-remastered.json](./342497-beek-familiar-spirit-remastered.json) |
 | Beekeeper | 117804 | [117804-beekeeper.json](./117804-beekeeper.json) |
@@ -10318,6 +10321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Force | 123616 | [123616-blast-force.json](./123616-blast-force.json) |
 | Blast Frenzy | 301509 | [301509-blast-frenzy.json](./301509-blast-frenzy.json) |
 | Blast from the Past! | 206299 | [206299-blast-from-the-past.json](./206299-blast-from-the-past.json) |
+| Blast Head | 368934 | [368934-blast-head.json](./368934-blast-head.json) |
 | Blast Hopper | 284011 | [284011-blast-hopper.json](./284011-blast-hopper.json) |
 | Blast Horizon | 416290 | [416290-blast-horizon.json](./416290-blast-horizon.json) |
 | Blast in the Past | 295612 | [295612-blast-in-the-past.json](./295612-blast-in-the-past.json) |
@@ -11130,6 +11134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Game Skyland Forrest | 213681 | [213681-block-game-skyland-forrest.json](./213681-block-game-skyland-forrest.json) |
 | Block Game: Mine, Craft and Drive | 213680 | [213680-block-game-mine-craft-and-drive.json](./213680-block-game-mine-craft-and-drive.json) |
 | Block Games:Avoid | 273764 | [273764-block-games-avoid.json](./273764-block-games-avoid.json) |
+| Block Granny Horror | 368700 | [368700-block-granny-horror.json](./368700-block-granny-horror.json) |
 | Block Gun | 255332 | [255332-block-gun.json](./255332-block-gun.json) |
 | Block Heads: Instakill | 108305 | [108305-block-heads-instakill.json](./108305-block-heads-instakill.json) |
 | Block Heist | 189893 | [189893-block-heist.json](./189893-block-heist.json) |
@@ -11209,6 +11214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Royale | 30589 | [30589-block-royale.json](./30589-block-royale.json) |
 | Block Run | 400587 | [400587-block-run.json](./400587-block-run.json) |
 | Block Rush 3 | 369015 | [369015-block-rush-3.json](./369015-block-rush-3.json) |
+| Block Rush: Mega Obby | 368427 | [368427-block-rush-mega-obby.json](./368427-block-rush-mega-obby.json) |
 | Block Sandbox World | 99873 | [99873-block-sandbox-world.json](./99873-block-sandbox-world.json) |
 | Block Shock: The Last Chance | 14321 | [14321-block-shock-the-last-chance.json](./14321-block-shock-the-last-chance.json) |
 | Block Shop | 283387 | [283387-block-shop.json](./283387-block-shop.json) |
@@ -13194,6 +13200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoltBreak: Powers and Maps Pack | 252595 | [252595-boltbreak-powers-and-maps-pack.json](./252595-boltbreak-powers-and-maps-pack.json) |
 | Boltcraft | 203914 | [203914-boltcraft.json](./203914-boltcraft.json) |
 | BoltHalt | 120785 | [120785-bolthalt.json](./120785-bolthalt.json) |
+| BoltHead | 368701 | [368701-bolthead.json](./368701-bolthead.json) |
 | Bolty | 184579 | [184579-bolty.json](./184579-bolty.json) |
 | Boltzmann Brain | 95211 | [95211-boltzmann-brain.json](./95211-boltzmann-brain.json) |
 | Bolu | 204987 | [204987-bolu.json](./204987-bolu.json) |
@@ -14070,6 +14077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boost Buddies | 277116 | [277116-boost-buddies.json](./277116-boost-buddies.json) |
 | Boost Panic | 315361 | [315361-boost-panic.json](./315361-boost-panic.json) |
 | Boost Race | 105893 | [105893-boost-race.json](./105893-boost-race.json) |
+| Boost Vector EX | 368923 | [368923-boost-vector-ex.json](./368923-boost-vector-ex.json) |
 | BoostBots VR | 54841 | [54841-boostbots-vr.json](./54841-boostbots-vr.json) |
 | Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
@@ -15986,6 +15994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bread Duck | 407684 | [407684-bread-duck.json](./407684-bread-duck.json) |
 | Bread Fish Clicker | 306637 | [306637-bread-fish-clicker.json](./306637-bread-fish-clicker.json) |
 | Bread Kittens | 159352 | [159352-bread-kittens.json](./159352-bread-kittens.json) |
+| Bread Makes the Heart Aflutter | 368693 | [368693-bread-makes-the-heart-aflutter.json](./368693-bread-makes-the-heart-aflutter.json) |
 | Bread or Dead | 249934 | [249934-bread-or-dead.json](./249934-bread-or-dead.json) |
 | Bread Puppies | 62046 | [62046-bread-puppies.json](./62046-bread-puppies.json) |
 | BreadAttack | 276689 | [276689-breadattack.json](./276689-breadattack.json) |
@@ -16993,6 +17002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Skies | 181136 | [181136-broken-skies.json](./181136-broken-skies.json) |
 | Broken Sky | 147237 | [147237-broken-sky.json](./147237-broken-sky.json) |
 | Broken Soul | 245789 | [245789-broken-soul.json](./245789-broken-soul.json) |
+| Broken Space Traveler | 368697 | [368697-broken-space-traveler.json](./368697-broken-space-traveler.json) |
 | Broken Spectre | 242871 | [242871-broken-spectre.json](./242871-broken-spectre.json) |
 | Broken Spell | 122422 | [122422-broken-spell.json](./122422-broken-spell.json) |
 | Broken Spell 2 | 129009 | [129009-broken-spell-2.json](./129009-broken-spell-2.json) |
