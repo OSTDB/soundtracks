@@ -19854,7 +19854,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aztec: Hunt for the Sun-God | 145995 | [145995-aztec-hunt-for-the-sun-god.json](./145995-aztec-hunt-for-the-sun-god.json) |
 | Azteca | 206013 | [206013-azteca.json](./206013-azteca.json) |
 | Aztecalypse | 31620 | [31620-aztecalypse.json](./31620-aztecalypse.json) |
-| Aztech Forgotten Gods | 145783 | [145783-aztech-forgotten-gods.json](./145783-aztech-forgotten-gods.json) |
 | Aztecs: The Last Sun | 243211 | [243211-aztecs-the-last-sun.json](./243211-aztecs-the-last-sun.json) |
 | Aztex | 14278 | [14278-aztex.json](./14278-aztex.json) |
 | Aztez | 8651 | [8651-aztez.json](./8651-aztez.json) |
