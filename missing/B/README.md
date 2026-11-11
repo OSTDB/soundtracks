@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -13985,6 +13986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomer | 214541 | [214541-boomer.json](./214541-boomer.json) |
 | Boomer | 410649 | [410649-boomer.json](./410649-boomer.json) |
 | Boomer Brawler | 355616 | [355616-boomer-brawler.json](./355616-boomer-brawler.json) |
+| Boomer Grandma | 372379 | [372379-boomer-grandma.json](./372379-boomer-grandma.json) |
 | Boomer Rampage | 81828 | [81828-boomer-rampage.json](./81828-boomer-rampage.json) |
 | Boomer Simulator | 142729 | [142729-boomer-simulator.json](./142729-boomer-simulator.json) |
 | Boomer Slayers | 193587 | [193587-boomer-slayers.json](./193587-boomer-slayers.json) |
@@ -17444,6 +17446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubblbrst | 24081 | [24081-bubblbrst.json](./24081-bubblbrst.json) |
 | Bubble | 153746 | [153746-bubble.json](./153746-bubble.json) |
 | Bubble | 287650 | [287650-bubble.json](./287650-bubble.json) |
+| Bubble | 372377 | [372377-bubble.json](./372377-bubble.json) |
 | Bubble | 88295 | [88295-bubble.json](./88295-bubble.json) |
 | Bubble Aim | 316555 | [316555-bubble-aim.json](./316555-bubble-aim.json) |
 | Bubble Attack | 193993 | [193993-bubble-attack.json](./193993-bubble-attack.json) |
