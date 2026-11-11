@@ -297,6 +297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Bubbles | 208963 | [208963-raccoon-bubbles.json](./208963-raccoon-bubbles.json) |
 | Raccoon City Edition | 132952 | [132952-raccoon-city-edition.json](./132952-raccoon-city-edition.json) |
 | Raccoon City Edition: Z Version | 218545 | [218545-raccoon-city-edition-z-version.json](./218545-raccoon-city-edition-z-version.json) |
+| Raccoon Cocoon | 348476 | [348476-raccoon-cocoon.json](./348476-raccoon-cocoon.json) |
 | Raccoon Crafts Factory | 197160 | [197160-raccoon-crafts-factory.json](./197160-raccoon-crafts-factory.json) |
 | Raccoon Crime Spree | 359342 | [359342-raccoon-crime-spree.json](./359342-raccoon-crime-spree.json) |
 | Raccoon Hero | 54482 | [54482-raccoon-hero.json](./54482-raccoon-hero.json) |
@@ -813,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raffle Cat | 123254 | [123254-raffle-cat.json](./123254-raffle-cat.json) |
 | Raffles | 122555 | [122555-raffles.json](./122555-raffles.json) |
 | Rafflesia | 40167 | [40167-rafflesia.json](./40167-rafflesia.json) |
+| Raft Days | 348504 | [348504-raft-days.json](./348504-raft-days.json) |
 | Raft Island Shark Survival | 88985 | [88985-raft-island-shark-survival.json](./88985-raft-island-shark-survival.json) |
 | Raft Life | 203704 | [203704-raft-life.json](./203704-raft-life.json) |
 | Raft Rider | 22819 | [22819-raft-rider.json](./22819-raft-rider.json) |
