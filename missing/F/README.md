@@ -5698,6 +5698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FinalFort | 231556 | [231556-finalfort.json](./231556-finalfort.json) |
 | Finalizer: Super Transformation | 40040 | [40040-finalizer-super-transformation.json](./40040-finalizer-super-transformation.json) |
 | Finalloop | 348779 | [348779-finalloop.json](./348779-finalloop.json) |
+| Finally A NSMB2 Christmas Mod | 326902 | [326902-finally-a-nsmb2-christmas-mod.json](./326902-finally-a-nsmb2-christmas-mod.json) |
 | Finally Free | 290625 | [290625-finally-free.json](./290625-finally-free.json) |
 | Finally, in Love Again | 238891 | [238891-finally-in-love-again.json](./238891-finally-in-love-again.json) |
 | Finance | 131124 | [131124-finance.json](./131124-finance.json) |
@@ -10524,6 +10525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forg Feast Frenzy | 291458 | [291458-forg-feast-frenzy.json](./291458-forg-feast-frenzy.json) |
 | Forge | 19937 | [19937-forge.json](./19937-forge.json) |
 | Forge | 280963 | [280963-forge.json](./280963-forge.json) |
+| Forge | 326884 | [326884-forge.json](./326884-forge.json) |
 | Forge & Flame | 387257 | [387257-forge-and-flame.json](./387257-forge-and-flame.json) |
 | Forge & Fortune | 264701 | [264701-forge-and-fortune.json](./264701-forge-and-fortune.json) |
 | Forge and Fight | 118768 | [118768-forge-and-fight.json](./118768-forge-and-fight.json) |
