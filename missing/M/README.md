@@ -4290,8 +4290,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Net Quest | 246087 | [246087-mario-net-quest.json](./246087-mario-net-quest.json) |
 | Mario no Photopi | 3541 | [3541-mario-no-photopi.json](./3541-mario-no-photopi.json) |
 | Mario no Photopi: Characters Collection - Bomberman | 350660 | [350660-mario-no-photopi-characters-collection-bomberman.json](./350660-mario-no-photopi-characters-collection-bomberman.json) |
+| Mario no Photopi: Characters Collection - Cardcaptor Sakura | 350673 | [350673-mario-no-photopi-characters-collection-cardcaptor-sakura.json](./350673-mario-no-photopi-characters-collection-cardcaptor-sakura.json) |
+| Mario no Photopi: Characters Collection - Hello Kitty | 350672 | [350672-mario-no-photopi-characters-collection-hello-kitty.json](./350672-mario-no-photopi-characters-collection-hello-kitty.json) |
+| Mario no Photopi: Characters Collection - Himitsu no Akko-chan | 350671 | [350671-mario-no-photopi-characters-collection-himitsu-no-akko-chan.json](./350671-mario-no-photopi-characters-collection-himitsu-no-akko-chan.json) |
+| Mario no Photopi: Characters Collection - Medarot | 350674 | [350674-mario-no-photopi-characters-collection-medarot.json](./350674-mario-no-photopi-characters-collection-medarot.json) |
 | Mario no Photopi: Characters Collection - Sylvanian Families | 350659 | [350659-mario-no-photopi-characters-collection-sylvanian-families.json](./350659-mario-no-photopi-characters-collection-sylvanian-families.json) |
 | Mario no Photopi: Characters Collection - Yoshi's Story | 350658 | [350658-mario-no-photopi-characters-collection-yoshis-story.json](./350658-mario-no-photopi-characters-collection-yoshis-story.json) |
+| Mario no Photopi: Characters Collection - Zelda no Densetsu: Toki no Ocarina | 350670 | [350670-mario-no-photopi-characters-collection-zelda-no-densetsu-toki-no-ocarina.json](./350670-mario-no-photopi-characters-collection-zelda-no-densetsu-toki-no-ocarina.json) |
 | Mario no Photopi: Illustrations - Funny Accessories 1 | 350657 | [350657-mario-no-photopi-illustrations-funny-accessories-1.json](./350657-mario-no-photopi-illustrations-funny-accessories-1.json) |
 | Mario no Photopi: Illustrations - Postal Cards 1 | 350656 | [350656-mario-no-photopi-illustrations-postal-cards-1.json](./350656-mario-no-photopi-illustrations-postal-cards-1.json) |
 | Mario Noir | 323924 | [323924-mario-noir.json](./323924-mario-noir.json) |
@@ -12736,6 +12741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milo no Senki 3 | 239696 | [239696-milo-no-senki-3.json](./239696-milo-no-senki-3.json) |
 | Milo the Fuel Run | 92866 | [92866-milo-the-fuel-run.json](./92866-milo-the-fuel-run.json) |
 | Milo's Astro Lanes | 3411 | [3411-milos-astro-lanes.json](./3411-milos-astro-lanes.json) |
+| Milo's Dream | 350714 | [350714-milos-dream.json](./350714-milos-dream.json) |
 | Milo's Magical Adventure | 392488 | [392488-milos-magical-adventure.json](./392488-milos-magical-adventure.json) |
 | Milo's Quest | 137608 | [137608-milos-quest.json](./137608-milos-quest.json) |
 | Milo's Quest | 360286 | [360286-milos-quest.json](./360286-milos-quest.json) |
@@ -19812,6 +19818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Amo | 259896 | [259896-mr-amo.json](./259896-mr-amo.json) |
 | Mr. and Mrs. Potato Head Go on Vacation | 209156 | [209156-mr-and-mrs-potato-head-go-on-vacation.json](./209156-mr-and-mrs-potato-head-go-on-vacation.json) |
 | Mr. Angry | 77380 | [77380-mr-angry.json](./77380-mr-angry.json) |
+| Mr. Ashfish's Distant Rehab | 350701 | [350701-mr-ashfishs-distant-rehab.json](./350701-mr-ashfishs-distant-rehab.json) |
 | Mr. Ball | 232512 | [232512-mr-ball.json](./232512-mr-ball.json) |
 | Mr. Balls | 230677 | [230677-mr-balls.json](./230677-mr-balls.json) |
 | Mr. Barrel | 68218 | [68218-mr-barrel.json](./68218-mr-barrel.json) |
@@ -19884,6 +19891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Friendly | 131754 | [131754-mr-friendly.json](./131754-mr-friendly.json) |
 | Mr. Future Ninja | 113931 | [113931-mr-future-ninja.json](./113931-mr-future-ninja.json) |
 | Mr. Gimmick | 6546 | [6546-mr-gimmick.json](./6546-mr-gimmick.json) |
+| Mr. Gimmick! 2 Shadow's Revenge | 350664 | [350664-mr-gimmick-2-shadows-revenge.json](./350664-mr-gimmick-2-shadows-revenge.json) |
 | Mr. Go! Extra | 218419 | [218419-mr-go-extra.json](./218419-mr-go-extra.json) |
 | Mr. Goemon | 38580 | [38580-mr-goemon.json](./38580-mr-goemon.json) |
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
