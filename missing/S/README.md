@@ -11052,7 +11052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Signs of Danger | 380964 | [380964-signs-of-danger.json](./380964-signs-of-danger.json) |
 | Signs of Darkness | 76531 | [76531-signs-of-darkness.json](./76531-signs-of-darkness.json) |
 | Signs Of Life | 366579 | [366579-signs-of-life.json](./366579-signs-of-life.json) |
-| Signs of the Sojourner | 118603 | [118603-signs-of-the-sojourner.json](./118603-signs-of-the-sojourner.json) |
 | Signs of Zodiac | 161605 | [161605-signs-of-zodiac.json](./161605-signs-of-zodiac.json) |
 | Signum Malum | 342095 | [342095-signum-malum.json](./342095-signum-malum.json) |
 | Signum Perfectum | 190213 | [190213-signum-perfectum.json](./190213-signum-perfectum.json) |
