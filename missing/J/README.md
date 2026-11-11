@@ -889,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jawbreaker | 217341 | [217341-jawbreaker.json](./217341-jawbreaker.json) |
 | Jawbreaker | 339639 | [339639-jawbreaker.json](./339639-jawbreaker.json) |
 | Jawed | 408909 | [408909-jawed.json](./408909-jawed.json) |
+| Jawlah | 374522 | [374522-jawlah.json](./374522-jawlah.json) |
 | Jawless Fishtank | 348440 | [348440-jawless-fishtank.json](./348440-jawless-fishtank.json) |
 | Jawns | 87813 | [87813-jawns.json](./87813-jawns.json) |
 | Jaws | 346093 | [346093-jaws.json](./346093-jaws.json) |
@@ -2427,6 +2428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Job Burnout | 414153 | [414153-job-burnout.json](./414153-job-burnout.json) |
 | Job Fit For a Devil | 369044 | [369044-job-fit-for-a-devil.json](./369044-job-fit-for-a-devil.json) |
 | Job Hunter 202X | 375822 | [375822-job-hunter-202x.json](./375822-job-hunter-202x.json) |
+| Job Hunting | 374535 | [374535-job-hunting.json](./374535-job-hunting.json) |
 | Job Hunting 9000 | 363164 | [363164-job-hunting-9000.json](./363164-job-hunting-9000.json) |
 | Job Hunting 9000 Dehlux | 385936 | [385936-job-hunting-9000-dehlux.json](./385936-job-hunting-9000-dehlux.json) |
 | Job Interview | 295508 | [295508-job-interview.json](./295508-job-interview.json) |
