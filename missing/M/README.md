@@ -101,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M&M's Kart Racing | 47923 | [47923-m-and-ms-kart-racing.json](./47923-m-and-ms-kart-racing.json) |
 | M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
 | M&M's Shell Shocked | 44749 | [44749-m-and-ms-shell-shocked.json](./44749-m-and-ms-shell-shocked.json) |
+| M&M's Sudoku Game | 317108 | [317108-m-and-ms-sudoku-game.json](./317108-m-and-ms-sudoku-game.json) |
 | M&M's: Color Stacker | 361094 | [361094-m-and-ms-color-stacker.json](./361094-m-and-ms-color-stacker.json) |
 | M&M's: Do You Remember Color? | 324833 | [324833-m-and-ms-do-you-remember-color.json](./324833-m-and-ms-do-you-remember-color.json) |
 | M&M's: Flip The Mix | 361093 | [361093-m-and-ms-flip-the-mix.json](./361093-m-and-ms-flip-the-mix.json) |
@@ -6666,6 +6667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
 | Maze Defenders | 255734 | [255734-maze-defenders.json](./255734-maze-defenders.json) |
 | Maze Domination | 318450 | [318450-maze-domination.json](./318450-maze-domination.json) |
+| Maze Dungeon | 317039 | [317039-maze-dungeon.json](./317039-maze-dungeon.json) |
 | Maze Escape | 160303 | [160303-maze-escape.json](./160303-maze-escape.json) |
 | Maze Escape | 320813 | [320813-maze-escape.json](./320813-maze-escape.json) |
 | Maze Escape | 345524 | [345524-maze-escape.json](./345524-maze-escape.json) |
@@ -16840,7 +16842,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Crown: Sin Eater | 327715 | [327715-monster-crown-sin-eater.json](./327715-monster-crown-sin-eater.json) |
 | Monster Crush - C4 Demolition Edition | 117429 | [117429-monster-crush-c4-demolition-edition.json](./117429-monster-crush-c4-demolition-edition.json) |
 | Monster Cube | 223357 | [223357-monster-cube.json](./223357-monster-cube.json) |
-| Monster Dash | 18497 | [18497-monster-dash.json](./18497-monster-dash.json) |
 | Monster Demolition | 261416 | [261416-monster-demolition.json](./261416-monster-demolition.json) |
 | Monster Desert | 233458 | [233458-monster-desert.json](./233458-monster-desert.json) |
 | Monster destroyer | 212628 | [212628-monster-destroyer.json](./212628-monster-destroyer.json) |
