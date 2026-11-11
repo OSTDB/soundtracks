@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Story - Train Simulator | 88617 | [88617-railroad-story-train-simulator.json](./88617-railroad-story-train-simulator.json) |
 | Railroad Story HD | 175393 | [175393-railroad-story-hd.json](./175393-railroad-story-hd.json) |
 | Railroad to Amberfield | 380204 | [380204-railroad-to-amberfield.json](./380204-railroad-to-amberfield.json) |
+| Railroad Tycoon | 350134 | [350134-railroad-tycoon.json](./350134-railroad-tycoon.json) |
 | Railroad Tycoon 2: Platinum Edition | 124961 | [124961-railroad-tycoon-2-platinum-edition.json](./124961-railroad-tycoon-2-platinum-edition.json) |
 | Railroad Tycoon 3 | 840 | [840-railroad-tycoon-3.json](./840-railroad-tycoon-3.json) |
 | Railroad Tycoon Collection | 53490 | [53490-railroad-tycoon-collection.json](./53490-railroad-tycoon-collection.json) |
