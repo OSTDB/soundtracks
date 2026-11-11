@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talk to Yuno | 111005 | [111005-talk-to-yuno.json](./111005-talk-to-yuno.json) |
 | Talker Tales | 258923 | [258923-talker-tales.json](./258923-talker-tales.json) |
 | Talking ABC's: A Day at the Beach | 292118 | [292118-talking-abcs-a-day-at-the-beach.json](./292118-talking-abcs-a-day-at-the-beach.json) |
+| Talking Bacteria John, John and John | 343511 | [343511-talking-bacteria-john-john-and-john.json](./343511-talking-bacteria-john-john-and-john.json) |
 | Talking Ben the Dog | 191877 | [191877-talking-ben-the-dog.json](./191877-talking-ben-the-dog.json) |
 | Talking Bruce the Panda | 266251 | [266251-talking-bruce-the-panda.json](./266251-talking-bruce-the-panda.json) |
 | Talking Cactus | 358423 | [358423-talking-cactus.json](./358423-talking-cactus.json) |
@@ -12164,6 +12165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Burrito: Turbo | 208382 | [208382-the-jumping-burrito-turbo.json](./208382-the-jumping-burrito-turbo.json) |
 | The Jumping Carrot Race | 334078 | [334078-the-jumping-carrot-race.json](./334078-the-jumping-carrot-race.json) |
 | The Jumping Cat | 392287 | [392287-the-jumping-cat.json](./392287-the-jumping-cat.json) |
+| The Jumping Cheese Maze | 343507 | [343507-the-jumping-cheese-maze.json](./343507-the-jumping-cheese-maze.json) |
 | The Jumping Choco Santa | 227839 | [227839-the-jumping-choco-santa.json](./227839-the-jumping-choco-santa.json) |
 | The Jumping Choco Santa: Turbo | 227840 | [227840-the-jumping-choco-santa-turbo.json](./227840-the-jumping-choco-santa-turbo.json) |
 | The Jumping Chocolate | 231371 | [231371-the-jumping-chocolate.json](./231371-the-jumping-chocolate.json) |
@@ -13391,6 +13393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Studentenfutter | 185534 | [185534-the-legend-of-studentenfutter.json](./185534-the-legend-of-studentenfutter.json) |
 | The Legend of Styk | 62938 | [62938-the-legend-of-styk.json](./62938-the-legend-of-styk.json) |
 | The Legend of Super Mario: Save Mushroom Kingdom | 264418 | [264418-the-legend-of-super-mario-save-mushroom-kingdom.json](./264418-the-legend-of-super-mario-save-mushroom-kingdom.json) |
+| The Legend Of Surprisia | 342973 | [342973-the-legend-of-surprisia.json](./342973-the-legend-of-surprisia.json) |
 | The Legend of Sword and Fairy | 18928 | [18928-the-legend-of-sword-and-fairy.json](./18928-the-legend-of-sword-and-fairy.json) |
 | The Legend of Sword and Fairy 2 | 78448 | [78448-the-legend-of-sword-and-fairy-2.json](./78448-the-legend-of-sword-and-fairy-2.json) |
 | The Legend of Sword and Fairy 3 | 56624 | [56624-the-legend-of-sword-and-fairy-3.json](./56624-the-legend-of-sword-and-fairy-3.json) |
@@ -25085,6 +25088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tower | 39208 | [39208-tiny-tower.json](./39208-tiny-tower.json) |
 | Tiny Tower Vegas | 60892 | [60892-tiny-tower-vegas.json](./60892-tiny-tower-vegas.json) |
 | Tiny Town Mail | 202131 | [202131-tiny-town-mail.json](./202131-tiny-town-mail.json) |
+| Tiny Town Roll | 343509 | [343509-tiny-town-roll.json](./343509-tiny-town-roll.json) |
 | Tiny Town VR | 51976 | [51976-tiny-town-vr.json](./51976-tiny-town-vr.json) |
 | Tiny Town VR: Zombie Pack | 170389 | [170389-tiny-town-vr-zombie-pack.json](./170389-tiny-town-vr-zombie-pack.json) |
 | Tiny Toy Tanks | 159849 | [159849-tiny-toy-tanks.json](./159849-tiny-toy-tanks.json) |
@@ -26167,6 +26171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Onmyouji: Tengenjibashi Rei no Baai - V Edition | 144684 | [144684-tokyo-onmyouji-tengenjibashi-rei-no-baai-v-edition.json](./144684-tokyo-onmyouji-tengenjibashi-rei-no-baai-v-edition.json) |
 | Tokyo Pachi-Slot Adventure | 48877 | [48877-tokyo-pachi-slot-adventure.json](./48877-tokyo-pachi-slot-adventure.json) |
 | Tokyo Pinball | 250264 | [250264-tokyo-pinball.json](./250264-tokyo-pinball.json) |
+| Tokyo Racer X | 343508 | [343508-tokyo-racer-x.json](./343508-tokyo-racer-x.json) |
 | Tokyo Ramen Drifter | 414096 | [414096-tokyo-ramen-drifter.json](./414096-tokyo-ramen-drifter.json) |
 | Tokyo Re:Connect | 166956 | [166956-tokyo-re-connect.json](./166956-tokyo-re-connect.json) |
 | Tokyo Revengers Pazuribe! | 254572 | [254572-tokyo-revengers-pazuribe.json](./254572-tokyo-revengers-pazuribe.json) |
