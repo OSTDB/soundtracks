@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xeno Shooter | 146884 | [146884-xeno-shooter.json](./146884-xeno-shooter.json) |
 | Xeno Strike | 366388 | [366388-xeno-strike.json](./366388-xeno-strike.json) |
 | Xeno Strikers Hyper Squadron | 374139 | [374139-xeno-strikers-hyper-squadron.json](./374139-xeno-strikers-hyper-squadron.json) |
+| Xeno Swarm | 350114 | [350114-xeno-swarm.json](./350114-xeno-swarm.json) |
 | Xeno Tactic | 388112 | [388112-xeno-tactic.json](./388112-xeno-tactic.json) |
 | Xeno TD | 319292 | [319292-xeno-td.json](./319292-xeno-td.json) |
 | Xeno Time Inception | 104938 | [104938-xeno-time-inception.json](./104938-xeno-time-inception.json) |
