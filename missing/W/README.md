@@ -6128,6 +6128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander Arena | 23131 | [23131-wing-commander-arena.json](./23131-wing-commander-arena.json) |
 | Wing Commander II: Deluxe Edition | 51373 | [51373-wing-commander-ii-deluxe-edition.json](./51373-wing-commander-ii-deluxe-edition.json) |
 | Wing Commander II: Speech Accessory Pack | 77320 | [77320-wing-commander-ii-speech-accessory-pack.json](./77320-wing-commander-ii-speech-accessory-pack.json) |
+| Wing Commander II: Vengeance of the Kilrathi | 350131 | [350131-wing-commander-ii-vengeance-of-the-kilrathi.json](./350131-wing-commander-ii-vengeance-of-the-kilrathi.json) |
 | Wing Commander II: Vengeance of the Kilrathi | 940 | [940-wing-commander-ii-vengeance-of-the-kilrathi.json](./940-wing-commander-ii-vengeance-of-the-kilrathi.json) |
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 1 | 50170 | [50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json](./50170-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1.json) |
 | Wing Commander II: Vengeance of the Kilrathi - Special Operations 2 | 50169 | [50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json](./50169-wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2.json) |
@@ -9678,6 +9679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestledunk Sports | 153361 | [153361-wrestledunk-sports.json](./153361-wrestledunk-sports.json) |
 | WrestleQuest | 194466 | [194466-wrestlequest.json](./194466-wrestlequest.json) |
 | Wrestler Rush | 302419 | [302419-wrestler-rush.json](./302419-wrestler-rush.json) |
+| Wrestlerage | 350130 | [350130-wrestlerage.json](./350130-wrestlerage.json) |
 | Wrestlers Without Boundaries | 102356 | [102356-wrestlers-without-boundaries.json](./102356-wrestlers-without-boundaries.json) |
 | Wrestling | 217707 | [217707-wrestling.json](./217707-wrestling.json) |
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
