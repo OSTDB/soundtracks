@@ -7333,6 +7333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Cats: Castle | 412261 | [412261-hidden-cats-castle.json](./412261-hidden-cats-castle.json) |
 | Hidden Cats: Japan | 334038 | [334038-hidden-cats-japan.json](./334038-hidden-cats-japan.json) |
 | Hidden Cats: Magic Forest | 277297 | [277297-hidden-cats-magic-forest.json](./277297-hidden-cats-magic-forest.json) |
+| Hidden Cats: Old Amusement Park | 363110 | [363110-hidden-cats-old-amusement-park.json](./363110-hidden-cats-old-amusement-park.json) |
 | Hidden Cats: Rome | 350572 | [350572-hidden-cats-rome.json](./350572-hidden-cats-rome.json) |
 | Hidden Cats: Thief | 322031 | [322031-hidden-cats-thief.json](./322031-hidden-cats-thief.json) |
 | Hidden Cats: Zombie Hunter | 365284 | [365284-hidden-cats-zombie-hunter.json](./365284-hidden-cats-zombie-hunter.json) |
@@ -9662,6 +9663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Book | 400289 | [400289-holy-book.json](./400289-holy-book.json) |
 | Holy Breaker! 2 The Wish in the Night of the Star Talers | 256322 | [256322-holy-breaker-2-the-wish-in-the-night-of-the-star-talers.json](./256322-holy-breaker-2-the-wish-in-the-night-of-the-star-talers.json) |
 | Holy Breaker! The Witch Betrayed Blue Moon Wicca | 256321 | [256321-holy-breaker-the-witch-betrayed-blue-moon-wicca.json](./256321-holy-breaker-the-witch-betrayed-blue-moon-wicca.json) |
+| Holy Carrot Simulator | 363083 | [363083-holy-carrot-simulator.json](./363083-holy-carrot-simulator.json) |
 | Holy Chick! | 155827 | [155827-holy-chick.json](./155827-holy-chick.json) |
 | Holy Clash Cards | 301700 | [301700-holy-clash-cards.json](./301700-holy-clash-cards.json) |
 | Holy Cow! Milking Simulator | 118390 | [118390-holy-cow-milking-simulator.json](./118390-holy-cow-milking-simulator.json) |
