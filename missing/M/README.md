@@ -6776,6 +6776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazeskalation | 183767 | [183767-mazeskalation.json](./183767-mazeskalation.json) |
 | MazeSlug | 342788 | [342788-mazeslug.json](./342788-mazeslug.json) |
 | MazeSnake | 27963 | [27963-mazesnake.json](./27963-mazesnake.json) |
+| Mazestalker: The Veil of Silenos | 372363 | [372363-mazestalker-the-veil-of-silenos.json](./372363-mazestalker-the-veil-of-silenos.json) |
 | MazeTD | 384330 | [384330-mazetd.json](./384330-mazetd.json) |
 | Mazethingie | 318890 | [318890-mazethingie.json](./318890-mazethingie.json) |
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
@@ -14871,6 +14872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misty Isles | 179408 | [179408-misty-isles.json](./179408-misty-isles.json) |
 | Misty Judgment | 367356 | [367356-misty-judgment.json](./367356-misty-judgment.json) |
 | Misty no Kira-kira Hanjouki | 265217 | [265217-misty-no-kira-kira-hanjouki.json](./265217-misty-no-kira-kira-hanjouki.json) |
+| Misty Onsen | 372381 | [372381-misty-onsen.json](./372381-misty-onsen.json) |
 | Misty Puzzle | 350231 | [350231-misty-puzzle.json](./350231-misty-puzzle.json) |
 | Misty Village | 330652 | [330652-misty-village.json](./330652-misty-village.json) |
 | Misty Vol.1 | 392402 | [392402-misty-vol-1.json](./392402-misty-vol-1.json) |
@@ -19314,6 +19316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mousetrap | 12923 | [12923-mousetrap.json](./12923-mousetrap.json) |
 | Mousetrap | 245136 | [245136-mousetrap.json](./245136-mousetrap.json) |
 | MouseVentures | 331967 | [331967-mouseventures.json](./331967-mouseventures.json) |
+| Mouseward | 372356 | [372356-mouseward.json](./372356-mouseward.json) |
 | MouseWars | 211190 | [211190-mousewars.json](./211190-mousewars.json) |
 | Mousey | 231625 | [231625-mousey.json](./231625-mousey.json) |
 | Mousey Mick | 152575 | [152575-mousey-mick.json](./152575-mousey-mick.json) |
