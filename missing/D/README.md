@@ -3252,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days with Evraco: The Blind witch in Blue Forest | 392944 | [392944-days-with-evraco-the-blind-witch-in-blue-forest.json](./392944-days-with-evraco-the-blind-witch-in-blue-forest.json) |
 | Days With Girlfriends Ⅲ | 391601 | [391601-days-with-girlfriends-iii.json](./391601-days-with-girlfriends-iii.json) |
 | Days with Girlfriends: Kello & Cammy | 375954 | [375954-days-with-girlfriends-kello-and-cammy.json](./375954-days-with-girlfriends-kello-and-cammy.json) |
+| Days with Girlfriends: Laler & Reese | 389789 | [389789-days-with-girlfriends-laler-and-reese.json](./389789-days-with-girlfriends-laler-and-reese.json) |
 | Days with My Lonely Teacher | 346666 | [346666-days-with-my-lonely-teacher.json](./346666-days-with-my-lonely-teacher.json) |
 | Days With Ollie | 294689 | [294689-days-with-ollie.json](./294689-days-with-ollie.json) |
 | Days with Ophelia: The Girl From Wind City | 196109 | [196109-days-with-ophelia-the-girl-from-wind-city.json](./196109-days-with-ophelia-the-girl-from-wind-city.json) |
@@ -9233,6 +9234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice: The Dice Game! | 229971 | [229971-dice-the-dice-game.json](./229971-dice-the-dice-game.json) |
 | Dice'n'Go | 404963 | [404963-dicengo.json](./404963-dicengo.json) |
 | Dicealot | 319726 | [319726-dicealot.json](./319726-dicealot.json) |
+| Diceaster | 389255 | [389255-diceaster.json](./389255-diceaster.json) |
 | Diceball | 342532 | [342532-diceball.json](./342532-diceball.json) |
 | Diced Pilot | 236648 | [236648-diced-pilot.json](./236648-diced-pilot.json) |
 | Diceeee | 373869 | [373869-diceeee.json](./373869-diceeee.json) |
@@ -18995,6 +18997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune 2000 | 87 | [87-dune-2000.json](./87-dune-2000.json) |
 | Dune Dasher | 299377 | [299377-dune-dasher.json](./299377-dune-dasher.json) |
 | Dune Dynasty | 134529 | [134529-dune-dynasty.json](./134529-dune-dynasty.json) |
+| Dune Girls Attack! | 389788 | [389788-dune-girls-attack.json](./389788-dune-girls-attack.json) |
 | Dune II: The Building of a Dynasty | 86 | [86-dune-ii-the-building-of-a-dynasty.json](./86-dune-ii-the-building-of-a-dynasty.json) |
 | Dune Legacy | 134535 | [134535-dune-legacy.json](./134535-dune-legacy.json) |
 | Dune MUD | 228880 | [228880-dune-mud.json](./228880-dune-mud.json) |
