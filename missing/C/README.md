@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
 | Car Dealer Garage Simulator 2026 | 393297 | [393297-car-dealer-garage-simulator-2026.json](./393297-car-dealer-garage-simulator-2026.json) |
 | Car Dealer Simulator: Retro Car for Sale | 413362 | [413362-car-dealer-simulator-retro-car-for-sale.json](./413362-car-dealer-simulator-retro-car-for-sale.json) |
+| Car Dealer Simulator: Up 2 You DLC | 372366 | [372366-car-dealer-simulator-up-2-you-dlc.json](./372366-car-dealer-simulator-up-2-you-dlc.json) |
 | Car Dealer's Life | 244534 | [244534-car-dealers-life.json](./244534-car-dealers-life.json) |
 | Car Dealership Business Simulator | 336414 | [336414-car-dealership-business-simulator.json](./336414-car-dealership-business-simulator.json) |
 | Car Dealership Simulator | 216183 | [216183-car-dealership-simulator.json](./216183-car-dealership-simulator.json) |
@@ -15736,6 +15737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cornucopia | 237054 | [237054-cornucopia.json](./237054-cornucopia.json) |
 | Cornucopia of Kaizo | 330124 | [330124-cornucopia-of-kaizo.json](./330124-cornucopia-of-kaizo.json) |
 | Corny Crush | 210691 | [210691-corny-crush.json](./210691-corny-crush.json) |
+| Coroconnect | 372341 | [372341-coroconnect.json](./372341-coroconnect.json) |
 | Corocoro Friends | 402650 | [402650-corocoro-friends.json](./402650-corocoro-friends.json) |
 | Coromon: Rogue Planet | 315506 | [315506-coromon-rogue-planet.json](./315506-coromon-rogue-planet.json) |
 | Coron Land | 38199 | [38199-coron-land.json](./38199-coron-land.json) |
