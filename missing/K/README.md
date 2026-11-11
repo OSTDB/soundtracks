@@ -3659,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Explorers | 240971 | [240971-kingdom-of-explorers.json](./240971-kingdom-of-explorers.json) |
 | Kingdom of Fallen: The Last Stand | 270161 | [270161-kingdom-of-fallen-the-last-stand.json](./270161-kingdom-of-fallen-the-last-stand.json) |
 | Kingdom of Force | 164430 | [164430-kingdom-of-force.json](./164430-kingdom-of-force.json) |
+| Kingdom of Foundry | 371165 | [371165-kingdom-of-foundry.json](./371165-kingdom-of-foundry.json) |
 | Kingdom of Hamil | 13734 | [13734-kingdom-of-hamil.json](./13734-kingdom-of-hamil.json) |
 | Kingdom of Heroes | 171876 | [171876-kingdom-of-heroes.json](./171876-kingdom-of-heroes.json) |
 | Kingdom of Heroes: Tactics War | 138552 | [138552-kingdom-of-heroes-tactics-war.json](./138552-kingdom-of-heroes-tactics-war.json) |
