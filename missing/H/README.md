@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HackBot Hacking Game | 398259 | [398259-hackbot-hacking-game.json](./398259-hackbot-hacking-game.json) |
 | Hacked | 108948 | [108948-hacked.json](./108948-hacked.json) |
 | Hacked | 33233 | [33233-hacked.json](./33233-hacked.json) |
+| Hacked: The Streamer | 373456 | [373456-hacked-the-streamer.json](./373456-hacked-the-streamer.json) |
 | Hacker | 12131 | [12131-hacker.json](./12131-hacker.json) |
 | Hacker | 292252 | [292252-hacker.json](./292252-hacker.json) |
 | Hacker 2089 | 36763 | [36763-hacker-2089.json](./36763-hacker-2089.json) |
@@ -5686,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Sakura | 286453 | [286453-hentai-sakura.json](./286453-hentai-sakura.json) |
 | Hentai Sally | 340449 | [340449-hentai-sally.json](./340449-hentai-sally.json) |
 | Hentai Saves Australia | 366513 | [366513-hentai-saves-australia.json](./366513-hentai-saves-australia.json) |
+| Hentai Sayo | 373416 | [373416-hentai-sayo.json](./373416-hentai-sayo.json) |
 | Hentai Sea Battle | 190793 | [190793-hentai-sea-battle.json](./190793-hentai-sea-battle.json) |
 | Hentai Secrets | 237563 | [237563-hentai-secrets.json](./237563-hentai-secrets.json) |
 | Hentai Secrets | 286392 | [286392-hentai-secrets.json](./286392-hentai-secrets.json) |
