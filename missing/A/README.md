@@ -5387,6 +5387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aggressors of Dark Kombat | 39336 | [39336-aggressors-of-dark-kombat.json](./39336-aggressors-of-dark-kombat.json) |
 | Aggretsuko Office Rush | 311666 | [311666-aggretsuko-office-rush.json](./311666-aggretsuko-office-rush.json) |
 | Aggretsuko: The Short Timer Strikes Back | 139121 | [139121-aggretsuko-the-short-timer-strikes-back.json](./139121-aggretsuko-the-short-timer-strikes-back.json) |
+| Aggrolotls | 325769 | [325769-aggrolotls.json](./325769-aggrolotls.json) |
 | Agharta: The Hollow Earth | 73280 | [73280-agharta-the-hollow-earth.json](./73280-agharta-the-hollow-earth.json) |
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Aghia | 406804 | [406804-aghia.json](./406804-aghia.json) |
@@ -9606,6 +9607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us Story: On Guard | 404707 | [404707-among-us-story-on-guard.json](./404707-among-us-story-on-guard.json) |
 | Among Us VR: Glove Pack - Catch Deez Hands | 316401 | [316401-among-us-vr-glove-pack-catch-deez-hands.json](./316401-among-us-vr-glove-pack-catch-deez-hands.json) |
 | Among Us VR: Limited Time Pack - DUM Duo | 316402 | [316402-among-us-vr-limited-time-pack-dum-duo.json](./316402-among-us-vr-limited-time-pack-dum-duo.json) |
+| Among Us VR: Limited Time Pack: Round Up | 325747 | [325747-among-us-vr-limited-time-pack-round-up.json](./325747-among-us-vr-limited-time-pack-round-up.json) |
 | Among Us: All in One Pack | 182053 | [182053-among-us-all-in-one-pack.json](./182053-among-us-all-in-one-pack.json) |
 | Among Us: Crewmate Edition | 155093 | [155093-among-us-crewmate-edition.json](./155093-among-us-crewmate-edition.json) |
 | Among Us: District 5 | 355060 | [355060-among-us-district-5.json](./355060-among-us-district-5.json) |
@@ -10111,6 +10113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient TriPeaks | 202099 | [202099-ancient-tripeaks.json](./202099-ancient-tripeaks.json) |
 | Ancient TriPeaks & Ancient Spiders | 202056 | [202056-ancient-tripeaks-and-ancient-spiders.json](./202056-ancient-tripeaks-and-ancient-spiders.json) |
 | Ancient Viking | 262855 | [262855-ancient-viking.json](./262855-ancient-viking.json) |
+| Ancient Villa | 325797 | [325797-ancient-villa.json](./325797-ancient-villa.json) |
 | Ancient Village 2 | 249685 | [249685-ancient-village-2.json](./249685-ancient-village-2.json) |
 | Ancient VR coaster | 32297 | [32297-ancient-vr-coaster.json](./32297-ancient-vr-coaster.json) |
 | Ancient War: Three Kingdoms | 113695 | [113695-ancient-war-three-kingdoms.json](./113695-ancient-war-three-kingdoms.json) |
