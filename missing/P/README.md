@@ -2856,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Saboteurs | 25313 | [25313-party-saboteurs.json](./25313-party-saboteurs.json) |
 | Party Saboteurs: After Party | 130364 | [130364-party-saboteurs-after-party.json](./130364-party-saboteurs-after-party.json) |
 | Party Shift | 236454 | [236454-party-shift.json](./236454-party-shift.json) |
+| Party Slime Time | 387270 | [387270-party-slime-time.json](./387270-party-slime-time.json) |
 | Party Spirits | 324625 | [324625-party-spirits.json](./324625-party-spirits.json) |
 | Party Stars | 309181 | [309181-party-stars.json](./309181-party-stars.json) |
 | Party Talk Simulator | 183232 | [183232-party-talk-simulator.json](./183232-party-talk-simulator.json) |
@@ -5280,6 +5281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petka 6: Novaya Realnost | 52760 | [52760-petka-6-novaya-realnost.json](./52760-petka-6-novaya-realnost.json) |
 | Petka 8: Pokorenie Rima | 52762 | [52762-petka-8-pokorenie-rima.json](./52762-petka-8-pokorenie-rima.json) |
 | Petka 9: Proletarskiy Glamur | 52763 | [52763-petka-9-proletarskiy-glamur.json](./52763-petka-9-proletarskiy-glamur.json) |
+| Petmagotchi | 387102 | [387102-petmagotchi.json](./387102-petmagotchi.json) |
 | Petmancer | 351400 | [351400-petmancer.json](./351400-petmancer.json) |
 | Petoons Party | 117453 | [117453-petoons-party.json](./117453-petoons-party.json) |
 | Petpet Park | 268054 | [268054-petpet-park.json](./268054-petpet-park.json) |
