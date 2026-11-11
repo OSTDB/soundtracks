@@ -871,6 +871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm on Observation Duty 3 | 141126 | [141126-im-on-observation-duty-3.json](./141126-im-on-observation-duty-3.json) |
 | I'm on Observation Duty 4 | 184481 | [184481-im-on-observation-duty-4.json](./184481-im-on-observation-duty-4.json) |
 | I'm on Observation Duty 6 | 254443 | [254443-im-on-observation-duty-6.json](./254443-im-on-observation-duty-6.json) |
+| I'm on Observation Duty 7 | 318811 | [318811-im-on-observation-duty-7.json](./318811-im-on-observation-duty-7.json) |
 | I'm on Observation Duty 8 | 369153 | [369153-im-on-observation-duty-8.json](./369153-im-on-observation-duty-8.json) |
 | I'm on Sorority Duty | 372672 | [372672-im-on-sorority-duty.json](./372672-im-on-sorority-duty.json) |
 | I'm Only Sleeping | 71001 | [71001-im-only-sleeping.json](./71001-im-only-sleeping.json) |
@@ -1456,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Baldur's Gate Dynaheir Theme Pack | 289849 | [289849-idle-champions-baldurs-gate-dynaheir-theme-pack.json](./289849-idle-champions-baldurs-gate-dynaheir-theme-pack.json) |
 | Idle Champions: Casual Karlach Skin & Feat Pack | 303545 | [303545-idle-champions-casual-karlach-skin-and-feat-pack.json](./303545-idle-champions-casual-karlach-skin-and-feat-pack.json) |
 | Idle Champions: Chibi Birdsong Skin & Feat Pack | 313708 | [313708-idle-champions-chibi-birdsong-skin-and-feat-pack.json](./313708-idle-champions-chibi-birdsong-skin-and-feat-pack.json) |
+| Idle Champions: Chibi Gale Skin & Feat Pack | 317720 | [317720-idle-champions-chibi-gale-skin-and-feat-pack.json](./317720-idle-champions-chibi-gale-skin-and-feat-pack.json) |
 | Idle Champions: Chibi Shadowheart Skin & Feat Pack | 313697 | [313697-idle-champions-chibi-shadowheart-skin-and-feat-pack.json](./313697-idle-champions-chibi-shadowheart-skin-and-feat-pack.json) |
 | Idle Champions: Classic Beholder Familiar Pack | 302013 | [302013-idle-champions-classic-beholder-familiar-pack.json](./302013-idle-champions-classic-beholder-familiar-pack.json) |
 | Idle Champions: Classic Demogorgon Familiar Pack | 303543 | [303543-idle-champions-classic-demogorgon-familiar-pack.json](./303543-idle-champions-classic-demogorgon-familiar-pack.json) |
@@ -5832,6 +5834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion Machine | 110597 | [110597-invasion-machine.json](./110597-invasion-machine.json) |
 | Invasion of Alien X: Earth in Crisis | 122723 | [122723-invasion-of-alien-x-earth-in-crisis.json](./122723-invasion-of-alien-x-earth-in-crisis.json) |
 | Invasion of Space | 294681 | [294681-invasion-of-space.json](./294681-invasion-of-space.json) |
+| Invasion Of Space 2 | 317655 | [317655-invasion-of-space-2.json](./317655-invasion-of-space-2.json) |
 | Invasion of the Alien Blobs! | 85624 | [85624-invasion-of-the-alien-blobs.json](./85624-invasion-of-the-alien-blobs.json) |
 | Invasion of the Box People | 105562 | [105562-invasion-of-the-box-people.json](./105562-invasion-of-the-box-people.json) |
 | Invasion of the Geminorons | 304476 | [304476-invasion-of-the-geminorons.json](./304476-invasion-of-the-geminorons.json) |
@@ -6096,6 +6099,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iQuest Math: Grades 6-8 | 318742 | [318742-iquest-math-grades-6-8.json](./318742-iquest-math-grades-6-8.json) |
 | iQuest Science: Grade 5 | 318743 | [318743-iquest-science-grade-5.json](./318743-iquest-science-grade-5.json) |
 | iQuest Science: Grades 6-8 | 318745 | [318745-iquest-science-grades-6-8.json](./318745-iquest-science-grades-6-8.json) |
+| iQuest Social Studies: Grade 5 | 318749 | [318749-iquest-social-studies-grade-5.json](./318749-iquest-social-studies-grade-5.json) |
+| iQuest Social Studies: Grades 6-8 | 318748 | [318748-iquest-social-studies-grades-6-8.json](./318748-iquest-social-studies-grades-6-8.json) |
+| iQuest Starter Pack Cartridge | 318746 | [318746-iquest-starter-pack-cartridge.json](./318746-iquest-starter-pack-cartridge.json) |
 | iQuiz | 91697 | [91697-iquiz.json](./91697-iquiz.json) |
 | Ir/rational Investigator | 110316 | [110316-ir-rational-investigator.json](./110316-ir-rational-investigator.json) |
 | Ir/rational Redux | 63377 | [63377-ir-rational-redux.json](./63377-ir-rational-redux.json) |
@@ -7297,7 +7303,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ItsyRealm | 212012 | [212012-itsyrealm.json](./212012-itsyrealm.json) |
 | Itta | 89378 | [89378-itta.json](./89378-itta.json) |
 | Ittle Dew | 7964 | [7964-ittle-dew.json](./7964-ittle-dew.json) |
-| Ittle Dew 2 | 11598 | [11598-ittle-dew-2.json](./11598-ittle-dew-2.json) |
 | Ittle Dew 2+ | 75286 | [75286-ittle-dew-2.json](./75286-ittle-dew-2.json) |
 | Ittle Dew no Densetsu: Ushinawareta Reta Shima to Nazo no Shiro | 222317 | [222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json](./222317-ittle-dew-no-densetsu-ushinawareta-reta-shima-to-nazo-no-shiro.json) |
 | Itty Bitty Little Kitties | 344550 | [344550-itty-bitty-little-kitties.json](./344550-itty-bitty-little-kitties.json) |
