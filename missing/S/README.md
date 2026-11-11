@@ -12084,7 +12084,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sin Hotel | 417823 | [417823-sin-hotel.json](./417823-sin-hotel.json) |
 | Sin or Suffer | 413137 | [413137-sin-or-suffer.json](./413137-sin-or-suffer.json) |
 | Sin Return | 387481 | [387481-sin-return.json](./387481-sin-return.json) |
-| Sin Slayers | 81650 | [81650-sin-slayers.json](./81650-sin-slayers.json) |
 | Sin Slayers: Enhanced Edition | 148002 | [148002-sin-slayers-enhanced-edition.json](./148002-sin-slayers-enhanced-edition.json) |
 | Sin Slayers: Meat & Greed | 370373 | [370373-sin-slayers-meat-and-greed.json](./370373-sin-slayers-meat-and-greed.json) |
 | Sin Slayers: Pharmacist | 155061 | [155061-sin-slayers-pharmacist.json](./155061-sin-slayers-pharmacist.json) |
@@ -28421,7 +28420,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stepwell | 416614 | [416614-stepwell.json](./416614-stepwell.json) |
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
 | Steredenn | 14146 | [14146-steredenn.json](./14146-steredenn.json) |
-| Steredenn: Binary Stars | 87197 | [87197-steredenn-binary-stars.json](./87197-steredenn-binary-stars.json) |
 | Stereo Aereo | 31143 | [31143-stereo-aereo.json](./31143-stereo-aereo.json) |
 | Stereo Boy | 211115 | [211115-stereo-boy.json](./211115-stereo-boy.json) |
 | Stereo Driver | 185208 | [185208-stereo-driver.json](./185208-stereo-driver.json) |
