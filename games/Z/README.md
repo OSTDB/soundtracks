@@ -4,6 +4,7 @@
 
 | Cover | Game | Albums |
 |---|---|---|
+| <img src="https://i.scdn.co/image/ab67616d0000b2734c18b67b45e08852c1703f81" width="60" /> | [Zeepkist](https://ostdb.net/games/zeepkist) | **Zeepkist (Original Game Soundtrack) Volume 1** · [Spotify](https://open.spotify.com/album/1Rysz98yuWzE3WtpljCvfR) |
 | <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/19/a8/35/19a83569-0078-a740-a997-757143093b81/cover.jpg/1000x1000bb.jpg" width="60" /> | [Zenless Zone Zero](https://ostdb.net/games/zenless-zone-zero) | **Hyper Commission 2.0 (Zenless Zone Zero Original Soundtrack)** · [Apple Music](https://music.apple.com/us/album/hyper-commission-2-0-zenless-zone-zero-original-soundtrack/1873964895?uo=4) · [Album](https://album.link/i/1873964895) |
 | <img src="https://i.scdn.co/image/ab67616d0000b273f95ba6275b01bd6870ee3871" width="60" /> | [Zero Hour](https://ostdb.net/games/zero-hour) | **Zero Hour (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/78grn7ajDNq2yqqPsH3bqS) |
 | <img src="https://i.scdn.co/image/ab67616d0000b2738d3e925aecb159fad3cf2653" width="60" /> | [Zero Parades: For Dead Spies](https://ostdb.net/games/zero-parades-for-dead-spies) | **ZERO PARADES: For Dead Spies (Original Game Soundtrack)** · [Spotify](https://open.spotify.com/album/1NbwZ1IWNCIxylLFEB8QST) |
