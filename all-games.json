@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T22:16:13.532Z",
-  "total_soundtracks": 3139,
+  "generated_at": "2026-11-11T22:26:00.776Z",
+  "total_soundtracks": 3146,
   "games": [
     {
       "igdb_id": 7522,
@@ -9415,6 +9415,20 @@
       ]
     },
     {
+      "igdb_id": 259944,
+      "game_name": "Doom",
+      "game_url": "https://ostdb.net/games/doom",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739d83f8af506d83594dda66e8",
+      "albums": [
+        {
+          "album_name": "DOOM (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2kYRPh6BbYzaeunZBWHE6Z",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 7351,
       "game_name": "Doom",
       "game_url": "https://ostdb.net/games/doom",
@@ -10285,6 +10299,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/its-no-problem-easy-delivery-co-original-soundtrack-single/1844623248?uo=4",
           "album_link_url": "https://album.link/i/1844623248"
+        }
+      ]
+    },
+    {
+      "igdb_id": 235861,
+      "game_name": "Echoes of the Plum Grove",
+      "game_url": "https://ostdb.net/games/echoes-of-the-plum-grove",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273441b1e2a420a5d2a714f80c2",
+      "albums": [
+        {
+          "album_name": "Echoes of the Plum Grove (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5EkoHV6QpBhcW1A0JUgMff",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -14322,6 +14350,20 @@
           "album_name": "Grand Theft Auto: San Andreas (Official Theme Song)",
           "spotify_url": "https://open.spotify.com/album/20kEyCFY0DQz9VwbhxkKgZ",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 235732,
+      "game_name": "Grapples Galore",
+      "game_url": "https://ostdb.net/games/grapples-galore",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fdfbe1c514d5087c1ea9c41d",
+      "albums": [
+        {
+          "album_name": "Grapples Galore (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7dbKgDzNamPSbQZZwy3RUT",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -23319,6 +23361,20 @@
       ]
     },
     {
+      "igdb_id": 244287,
+      "game_name": "Once Alive",
+      "game_url": "https://ostdb.net/games/once-alive",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730271758254c19fbc3c73424e",
+      "albums": [
+        {
+          "album_name": "Once Alive (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0JeEFEpHXwudj0Z8ZE8UHm",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 204538,
       "game_name": "Once Human",
       "game_url": "https://ostdb.net/games/once-human",
@@ -25788,6 +25844,20 @@
           "album_name": "Ratchet & Clank: Rift Apart (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4Dq65Lwt50IB0eAKuT10nC",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 236479,
+      "game_name": "Ratopia",
+      "game_url": "https://ostdb.net/games/ratopia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cf0e9da50bab03c715005fb2",
+      "albums": [
+        {
+          "album_name": "Ratopia (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/414rS3BgsZXBDM3scP7UfX",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -32123,6 +32193,20 @@
       ]
     },
     {
+      "igdb_id": 202858,
+      "game_name": "Super Mega Baseball 4",
+      "game_url": "https://ostdb.net/games/super-mega-baseball-4",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27381c38841f0f26b50d4eb8a66",
+      "albums": [
+        {
+          "album_name": "Super Mega Baseball 4 (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7Md6bnQdIEfcpns0TjTkc0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 20078,
       "game_name": "Super Motherload",
       "game_url": "https://ostdb.net/games/super-motherload",
@@ -34984,6 +35068,20 @@
           "album_name": "The Sims 3 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3syY41k4hVl9Y0tsKAcPop",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 248568,
+      "game_name": "The Sims 3",
+      "game_url": "https://ostdb.net/games/the-sims-3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e1617f312c1177474cd2cc12",
+      "albums": [
+        {
+          "album_name": "The Sims 3 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3syY41k4hVl9Y0tsKAcPop",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
