@@ -1580,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verbena: Tales of Growing Up | 379429 | [379429-verbena-tales-of-growing-up.json](./379429-verbena-tales-of-growing-up.json) |
 | Verdant | 380956 | [380956-verdant.json](./380956-verdant.json) |
 | Verdant Citadel | 141778 | [141778-verdant-citadel.json](./141778-verdant-citadel.json) |
+| Verdant Idea | 336213 | [336213-verdant-idea.json](./336213-verdant-idea.json) |
 | Verdant Village | 134277 | [134277-verdant-village.json](./134277-verdant-village.json) |
 | Verdge | 377701 | [377701-verdge.json](./377701-verdge.json) |
 | Verdict | 166606 | [166606-verdict.json](./166606-verdict.json) |
