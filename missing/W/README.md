@@ -9604,6 +9604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckboy | 229632 | [229632-wreckboy.json](./229632-wreckboy.json) |
 | Wreckdigger | 188922 | [188922-wreckdigger.json](./188922-wreckdigger.json) |
 | Wrecked | 333503 | [333503-wrecked.json](./333503-wrecked.json) |
+| Wrecked | 356952 | [356952-wrecked.json](./356952-wrecked.json) |
 | Wrecked | 391312 | [391312-wrecked.json](./391312-wrecked.json) |
 | Wrecked Crash Simulator | 114965 | [114965-wrecked-crash-simulator.json](./114965-wrecked-crash-simulator.json) |
 | Wrecked Shot | 314970 | [314970-wrecked-shot.json](./314970-wrecked-shot.json) |
