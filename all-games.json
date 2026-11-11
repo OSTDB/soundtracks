@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T22:51:03.848Z",
-  "total_soundtracks": 3156,
+  "generated_at": "2026-11-11T22:56:07.835Z",
+  "total_soundtracks": 3160,
   "games": [
     {
       "igdb_id": 7522,
@@ -8949,6 +8949,20 @@
       ]
     },
     {
+      "igdb_id": 276684,
+      "game_name": "Dice & Fold",
+      "game_url": "https://ostdb.net/games/dice-and-fold",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731411f36e9297b7a202e9c014",
+      "albums": [
+        {
+          "album_name": "Dice & Fold (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4txRSriCCMggEhbpCxr2I6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 13058,
       "game_name": "Dick Tracy",
       "game_url": "https://ostdb.net/games/dick-tracy",
@@ -11816,6 +11830,20 @@
     },
     {
       "igdb_id": 395,
+      "game_name": "Final Fantasy II",
+      "game_url": "https://ostdb.net/games/final-fantasy-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27377a64a9e8acbcce7c554d6d3",
+      "albums": [
+        {
+          "album_name": "FINAL FANTASY II Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0aVvwC4fVEcu7VH7y8bkA6",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 271819,
       "game_name": "Final Fantasy II",
       "game_url": "https://ostdb.net/games/final-fantasy-ii",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b27377a64a9e8acbcce7c554d6d3",
@@ -25805,6 +25833,20 @@
       ]
     },
     {
+      "igdb_id": 297737,
+      "game_name": "Rain World: The Watcher",
+      "game_url": "https://ostdb.net/games/rain-world-the-watcher",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736b7332cb534bf4f94c65968a",
+      "albums": [
+        {
+          "album_name": "Rain World: The Watcher (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7sDtmSjYRlK6eGU25kp4PI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 7360,
       "game_name": "Rainbow Six Siege",
       "game_url": "https://ostdb.net/games/rainbow-six-siege",
@@ -28915,6 +28957,20 @@
         {
           "album_name": "Shipped (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/71Qbl4RfFVNUXFmiGQnHBu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 268079,
+      "game_name": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island",
+      "game_url": "https://ostdb.net/games/shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27319fbb4ab626a21a2c54743b7",
+      "albums": [
+        {
+          "album_name": "Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7BEOygGEhkm8BlVFzJncNY",
           "apple_music_url": "",
           "album_link_url": ""
         }
