@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Assault Dice | 175183 | [175183-warhammer-40-000-assault-dice.json](./175183-warhammer-40-000-assault-dice.json) |
 | Warhammer 40,000: Battle Sister | 146646 | [146646-warhammer-40-000-battle-sister.json](./146646-warhammer-40-000-battle-sister.json) |
 | Warhammer 40,000: Battlesector - Astra Militarum | 302171 | [302171-warhammer-40-000-battlesector-astra-militarum.json](./302171-warhammer-40-000-battlesector-astra-militarum.json) |
+| Warhammer 40,000: Battlesector - Black Legion | 380947 | [380947-warhammer-40-000-battlesector-black-legion.json](./380947-warhammer-40-000-battlesector-black-legion.json) |
 | Warhammer 40,000: Battlesector - Blood Angels Elites | 196104 | [196104-warhammer-40-000-battlesector-blood-angels-elites.json](./196104-warhammer-40-000-battlesector-blood-angels-elites.json) |
 | Warhammer 40,000: Battlesector - Daemons of Khorne | 263148 | [263148-warhammer-40-000-battlesector-daemons-of-khorne.json](./263148-warhammer-40-000-battlesector-daemons-of-khorne.json) |
 | Warhammer 40,000: Battlesector - Necrons | 251007 | [251007-warhammer-40-000-battlesector-necrons.json](./251007-warhammer-40-000-battlesector-necrons.json) |
