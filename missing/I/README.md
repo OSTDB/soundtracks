@@ -3037,6 +3037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Passing | 125443 | [125443-in-passing.json](./125443-in-passing.json) |
 | In Peaceful Days | 178878 | [178878-in-peaceful-days.json](./178878-in-peaceful-days.json) |
 | In Plain Sight | 132506 | [132506-in-plain-sight.json](./132506-in-plain-sight.json) |
+| In Print | 379788 | [379788-in-print.json](./379788-in-print.json) |
 | In Purr-Suit | 332966 | [332966-in-purr-suit.json](./332966-in-purr-suit.json) |
 | In Pursuit of Greed | 73489 | [73489-in-pursuit-of-greed.json](./73489-in-pursuit-of-greed.json) |
 | In Requiem | 178460 | [178460-in-requiem.json](./178460-in-requiem.json) |
