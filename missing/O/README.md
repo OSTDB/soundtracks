@@ -2309,6 +2309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onder | 159781 | [159781-onder.json](./159781-onder.json) |
 | One | 202503 | [202503-one.json](./202503-one.json) |
 | One | 247411 | [247411-one.json](./247411-one.json) |
+| One | 375711 | [375711-one.json](./375711-one.json) |
 | One | 6267 | [6267-one.json](./6267-one.json) |
 | One Action Heroes | 177259 | [177259-one-action-heroes.json](./177259-one-action-heroes.json) |
 | One Against the Galaxy | 76106 | [76106-one-against-the-galaxy.json](./76106-one-against-the-galaxy.json) |
