@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.A.T.S. | 30606 | [30606-r-a-t-s.json](./30606-r-a-t-s.json) |
 | R.A.T.T.Z. Maze | 238563 | [238563-r-a-t-t-z-maze.json](./238563-r-a-t-t-z-maze.json) |
 | R.A.T#200 | 395738 | [395738-r-a-t-200.json](./395738-r-a-t-200.json) |
+| R.A.V.E | 328108 | [328108-r-a-v-e.json](./328108-r-a-v-e.json) |
 | R.A.Z.I.O.N | 75512 | [75512-r-a-z-i-o-n.json](./75512-r-a-z-i-o-n.json) |
 | R.B.I Baseball 18 | 83781 | [83781-r-b-i-baseball-18.json](./83781-r-b-i-baseball-18.json) |
 | R.B.I. Baseball | 18022 | [18022-r-b-i-baseball.json](./18022-r-b-i-baseball.json) |
@@ -10576,6 +10577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roger Clemens' MVP Baseball | 365656 | [365656-roger-clemens-mvp-baseball.json](./365656-roger-clemens-mvp-baseball.json) |
 | Roger Clemens' MVP Baseball | 365658 | [365658-roger-clemens-mvp-baseball.json](./365658-roger-clemens-mvp-baseball.json) |
 | Roger Clemens' MVP Baseball | 48710 | [48710-roger-clemens-mvp-baseball.json](./48710-roger-clemens-mvp-baseball.json) |
+| Roger Kills The Smiths! | 327512 | [327512-roger-kills-the-smiths.json](./327512-roger-kills-the-smiths.json) |
 | Roger Rabbit | 153448 | [153448-roger-rabbit.json](./153448-roger-rabbit.json) |
 | RoGlass | 271603 | [271603-roglass.json](./271603-roglass.json) |
 | Rogo | 112922 | [112922-rogo.json](./112922-rogo.json) |
