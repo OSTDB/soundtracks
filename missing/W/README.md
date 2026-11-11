@@ -1356,6 +1356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfare Legacy Collection | 287786 | [287786-warfare-legacy-collection.json](./287786-warfare-legacy-collection.json) |
 | Warfare Online | 19140 | [19140-warfare-online.json](./19140-warfare-online.json) |
 | Warfare Reloaded | 25472 | [25472-warfare-reloaded.json](./25472-warfare-reloaded.json) |
+| Warfare Transporter | 387854 | [387854-warfare-transporter.json](./387854-warfare-transporter.json) |
 | Warfare Ultimatum | 295606 | [295606-warfare-ultimatum.json](./295606-warfare-ultimatum.json) |
 | Warfare: Battleground | 293511 | [293511-warfare-battleground.json](./293511-warfare-battleground.json) |
 | Warfield | 144232 | [144232-warfield.json](./144232-warfield.json) |
