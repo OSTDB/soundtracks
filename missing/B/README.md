@@ -1017,7 +1017,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -6032,6 +6031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Mystic Defenders | 159748 | [159748-beautiful-mystic-defenders.json](./159748-beautiful-mystic-defenders.json) |
 | Beautiful Mystic Survivors | 200465 | [200465-beautiful-mystic-survivors.json](./200465-beautiful-mystic-survivors.json) |
 | Beautiful Sakura: Fashion Club | 327971 | [327971-beautiful-sakura-fashion-club.json](./327971-beautiful-sakura-fashion-club.json) |
+| Beautiful Sakura: Fighting Club | 361374 | [361374-beautiful-sakura-fighting-club.json](./361374-beautiful-sakura-fighting-club.json) |
 | Beautiful Sakura: Football Club | 367136 | [367136-beautiful-sakura-football-club.json](./367136-beautiful-sakura-football-club.json) |
 | Beautiful Sakura: Racing Club | 334547 | [334547-beautiful-sakura-racing-club.json](./334547-beautiful-sakura-racing-club.json) |
 | Beautiful Sakura: Running Club | 327973 | [327973-beautiful-sakura-running-club.json](./327973-beautiful-sakura-running-club.json) |
@@ -13549,6 +13549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomboban | 386355 | [386355-bomboban.json](./386355-bomboban.json) |
 | Bombogramm | 422170 | [422170-bombogramm.json](./422170-bombogramm.json) |
 | Bomboras Forever | 58173 | [58173-bomboras-forever.json](./58173-bomboras-forever.json) |
+| Bombordiro Crocodilo: Flight Simulator | 361350 | [361350-bombordiro-crocodilo-flight-simulator.json](./361350-bombordiro-crocodilo-flight-simulator.json) |
 | Bombox | 293339 | [293339-bombox.json](./293339-bombox.json) |
 | Bomboy | 45737 | [45737-bomboy.json](./45737-bomboy.json) |
 | BombParty | 186047 | [186047-bombparty.json](./186047-bombparty.json) |
@@ -18992,6 +18993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burn Ban | 104776 | [104776-burn-ban.json](./104776-burn-ban.json) |
 | Burn Depth | 203891 | [203891-burn-depth.json](./203891-burn-depth.json) |
 | Burn Ghost Pinball | 415816 | [415816-burn-ghost-pinball.json](./415816-burn-ghost-pinball.json) |
+| Burn in Health | 361369 | [361369-burn-in-health.json](./361369-burn-in-health.json) |
 | Burn It All! | 92262 | [92262-burn-it-all.json](./92262-burn-it-all.json) |
 | Burn It Down | 47991 | [47991-burn-it-down.json](./47991-burn-it-down.json) |
 | Burn Me Alive | 165929 | [165929-burn-me-alive.json](./165929-burn-me-alive.json) |
