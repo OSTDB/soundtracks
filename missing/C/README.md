@@ -6405,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Battle League | 69350 | [69350-chaos-battle-league.json](./69350-chaos-battle-league.json) |
 | Chaos Battle Universe | 148865 | [148865-chaos-battle-universe.json](./148865-chaos-battle-universe.json) |
 | Chaos Beach: A Virgin Boy’s Pheromone-Fueled Summer of Lust! | 383910 | [383910-chaos-beach-a-virgin-boy-s-pheromone-fueled-summer-of-lust.json](./383910-chaos-beach-a-virgin-boy-s-pheromone-fueled-summer-of-lust.json) |
+| Chaos Below | 383880 | [383880-chaos-below.json](./383880-chaos-below.json) |
 | Chaos Brave Village | 298693 | [298693-chaos-brave-village.json](./298693-chaos-brave-village.json) |
 | Chaos Break | 46084 | [46084-chaos-break.json](./46084-chaos-break.json) |
 | Chaos Breaker | 76597 | [76597-chaos-breaker.json](./76597-chaos-breaker.json) |
@@ -9498,6 +9499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle Empires Rivals | 124215 | [124215-circle-empires-rivals.json](./124215-circle-empires-rivals.json) |
 | Circle Empires Rivals: Forces of Nature | 171520 | [171520-circle-empires-rivals-forces-of-nature.json](./171520-circle-empires-rivals-forces-of-nature.json) |
 | Circle Empires Tactics | 145295 | [145295-circle-empires-tactics.json](./145295-circle-empires-tactics.json) |
+| Circle Illusion: Calm Clicker | 383316 | [383316-circle-illusion-calm-clicker.json](./383316-circle-illusion-calm-clicker.json) |
 | Circle Killer | 253653 | [253653-circle-killer.json](./253653-circle-killer.json) |
 | Circle of Blood | 616 | [616-circle-of-blood.json](./616-circle-of-blood.json) |
 | Circle of Bosses | 373052 | [373052-circle-of-bosses.json](./373052-circle-of-bosses.json) |
