@@ -627,6 +627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I wanna Reach the Top | 201007 | [201007-i-wanna-reach-the-top.json](./201007-i-wanna-reach-the-top.json) |
 | I Wanna Run the Marathon | 124996 | [124996-i-wanna-run-the-marathon.json](./124996-i-wanna-run-the-marathon.json) |
 | I Wanna Save the Kids! | 287995 | [287995-i-wanna-save-the-kids.json](./287995-i-wanna-save-the-kids.json) |
+| I Wanna Start a Party | 353536 | [353536-i-wanna-start-a-party.json](./353536-i-wanna-start-a-party.json) |
 | I Wanna Take the Time Machine | 79520 | [79520-i-wanna-take-the-time-machine.json](./79520-i-wanna-take-the-time-machine.json) |
 | I Wanna Take the Time-Machine 2 | 187366 | [187366-i-wanna-take-the-time-machine-2.json](./187366-i-wanna-take-the-time-machine-2.json) |
 | I Wanna Touch | 389984 | [389984-i-wanna-touch.json](./389984-i-wanna-touch.json) |
