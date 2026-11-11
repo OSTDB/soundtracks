@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Identity V: Ashes of Memory Episode I | 399371 | [399371-identity-v-ashes-of-memory-episode-i.json](./399371-identity-v-ashes-of-memory-episode-i.json) |
 | Identity V: Ashes of Memory Episode II | 409134 | [409134-identity-v-ashes-of-memory-episode-ii.json](./409134-identity-v-ashes-of-memory-episode-ii.json) |
 | Identity V: Cage of Yesteryear | 409186 | [409186-identity-v-cage-of-yesteryear.json](./409186-identity-v-cage-of-yesteryear.json) |
+| Identity V: Closing Night | 354123 | [354123-identity-v-closing-night.json](./354123-identity-v-closing-night.json) |
 | Identity: Town Square | 111884 | [111884-identity-town-square.json](./111884-identity-town-square.json) |
 | Ideology in Friction | 114317 | [114317-ideology-in-friction.json](./114317-ideology-in-friction.json) |
 | Ideology in Friction: Append | 170990 | [170990-ideology-in-friction-append.json](./170990-ideology-in-friction-append.json) |
@@ -4838,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insert Rich Family Name | 247601 | [247601-insert-rich-family-name.json](./247601-insert-rich-family-name.json) |
 | Insert Title Here | 251382 | [251382-insert-title-here.json](./251382-insert-title-here.json) |
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
+| Insetolimpíadas: A Olimpíada dos Insetos | 354124 | [354124-insetolimpiadas-a-olimpiada-dos-insetos.json](./354124-insetolimpiadas-a-olimpiada-dos-insetos.json) |
 | Insexsity | 165920 | [165920-insexsity.json](./165920-insexsity.json) |
 | Inside | 266747 | [266747-inside.json](./266747-inside.json) |
 | Inside | 80481 | [80481-inside.json](./80481-inside.json) |
