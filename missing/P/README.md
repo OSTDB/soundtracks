@@ -5786,6 +5786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom: Phantom of Inferno | 242388 | [242388-phantom-phantom-of-inferno.json](./242388-phantom-phantom-of-inferno.json) |
 | Phantom: Phantom of Inferno - Nitro Archive | 413191 | [413191-phantom-phantom-of-inferno-nitro-archive.json](./413191-phantom-phantom-of-inferno-nitro-archive.json) |
 | Phantom's Call | 262858 | [262858-phantoms-call.json](./262858-phantoms-call.json) |
+| Phantom's Estate | 328109 | [328109-phantoms-estate.json](./328109-phantoms-estate.json) |
 | Phantom's Hour | 407387 | [407387-phantoms-hour.json](./407387-phantoms-hour.json) |
 | Phantomancer | 331234 | [331234-phantomancer.json](./331234-phantomancer.json) |
 | Phantomas | 37029 | [37029-phantomas.json](./37029-phantomas.json) |
@@ -13119,6 +13120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pome Rumble M | 299416 | [299416-pome-rumble-m.json](./299416-pome-rumble-m.json) |
 | Pomegranate Housing Complex | 346854 | [346854-pomegranate-housing-complex.json](./346854-pomegranate-housing-complex.json) |
 | Pomegranate Tea | 235667 | [235667-pomegranate-tea.json](./235667-pomegranate-tea.json) |
+| Pomegranates | 327520 | [327520-pomegranates.json](./327520-pomegranates.json) |
 | Pomelo & Friends: Sevilla | 373137 | [373137-pomelo-and-friends-sevilla.json](./373137-pomelo-and-friends-sevilla.json) |
 | Pomeraider | 316381 | [316381-pomeraider.json](./316381-pomeraider.json) |
 | Pomeron no Senshi Tachi 2 | 392992 | [392992-pomeron-no-senshi-tachi-2.json](./392992-pomeron-no-senshi-tachi-2.json) |
@@ -18116,6 +18118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PsychoPhobia | 196025 | [196025-psychophobia.json](./196025-psychophobia.json) |
 | Psychophonies: What Ghosts Say | 238438 | [238438-psychophonies-what-ghosts-say.json](./238438-psychophonies-what-ghosts-say.json) |
 | Psychopomp | 284511 | [284511-psychopomp.json](./284511-psychopomp.json) |
+| Psychopomp | 327524 | [327524-psychopomp.json](./327524-psychopomp.json) |
 | Psychopomp 2 | 375510 | [375510-psychopomp-2.json](./375510-psychopomp-2.json) |
 | Psychopomp Gold | 319765 | [319765-psychopomp-gold.json](./319765-psychopomp-gold.json) |
 | Psychoscopy | 207195 | [207195-psychoscopy.json](./207195-psychoscopy.json) |
