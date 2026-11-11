@@ -29189,6 +29189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toys: Crash Arena | 221396 | [221396-toys-crash-arena.json](./221396-toys-crash-arena.json) |
 | Toyshop Trouble | 40608 | [40608-toyshop-trouble.json](./40608-toyshop-trouble.json) |
 | ToyShot VR | 112982 | [112982-toyshot-vr.json](./112982-toyshot-vr.json) |
+| Toytles | 355818 | [355818-toytles.json](./355818-toytles.json) |
 | Toytopia | 273291 | [273291-toytopia.json](./273291-toytopia.json) |
 | Toz | 124200 | [124200-toz.json](./124200-toz.json) |
 | Tozerath in Ruins | 261968 | [261968-tozerath-in-ruins.json](./261968-tozerath-in-ruins.json) |
