@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.X. 2: Mechanized Assault & Exploration | 80979 | [80979-m-a-x-2-mechanized-assault-and-exploration.json](./80979-m-a-x-2-mechanized-assault-and-exploration.json) |
 | M.A.X.: Mechanized Assault & Exploration | 775 | [775-m-a-x-mechanized-assault-and-exploration.json](./775-m-a-x-mechanized-assault-and-exploration.json) |
 | M.A.Y.A | 397827 | [397827-m-a-y-a.json](./397827-m-a-y-a.json) |
+| M.A.Z.E | 364956 | [364956-m-a-z-e.json](./364956-m-a-z-e.json) |
 | M.C Kids | 2718 | [2718-m-c-kids.json](./2718-m-c-kids.json) |
 | M.C Kids | 285032 | [285032-m-c-kids.json](./285032-m-c-kids.json) |
 | M.Duck | 197797 | [197797-m-duck.json](./197797-m-duck.json) |
@@ -7039,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mech Arena Shooter Battle | 380843 | [380843-mech-arena-shooter-battle.json](./380843-mech-arena-shooter-battle.json) |
 | Mech Armada | 145929 | [145929-mech-armada.json](./145929-mech-armada.json) |
 | Mech Assembler: Model Kit Builder Simulator | 346632 | [346632-mech-assembler-model-kit-builder-simulator.json](./346632-mech-assembler-model-kit-builder-simulator.json) |
+| Mech Attack | 364752 | [364752-mech-attack.json](./364752-mech-attack.json) |
 | Mech Battle | 417137 | [417137-mech-battle.json](./417137-mech-battle.json) |
 | Mech Bros | 302678 | [302678-mech-bros.json](./302678-mech-bros.json) |
 | Mech Builder | 292277 | [292277-mech-builder.json](./292277-mech-builder.json) |
@@ -7207,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechapunk | 215314 | [215314-mechapunk.json](./215314-mechapunk.json) |
 | Mecharashi | 302230 | [302230-mecharashi.json](./302230-mecharashi.json) |
 | Mecharise | 297140 | [297140-mecharise.json](./297140-mecharise.json) |
+| Mechasaur vs Punchatron | 364744 | [364744-mechasaur-vs-punchatron.json](./364744-mechasaur-vs-punchatron.json) |
 | MechAssault | 5910 | [5910-mechassault.json](./5910-mechassault.json) |
 | MechAssault 2: Lone Wolf | 5911 | [5911-mechassault-2-lone-wolf.json](./5911-mechassault-2-lone-wolf.json) |
 | MechAssault 2: Lone Wolf Limited Edition | 47315 | [47315-mechassault-2-lone-wolf-limited-edition.json](./47315-mechassault-2-lone-wolf-limited-edition.json) |
@@ -23515,6 +23518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Realms | 335289 | [335289-mythic-realms.json](./335289-mythic-realms.json) |
 | Mythic Samkok | 304970 | [304970-mythic-samkok.json](./304970-mythic-samkok.json) |
 | Mythic Trials | 290534 | [290534-mythic-trials.json](./290534-mythic-trials.json) |
+| Mythic Trials 2 | 364749 | [364749-mythic-trials-2.json](./364749-mythic-trials-2.json) |
 | Mythic Victory Arena | 31795 | [31795-mythic-victory-arena.json](./31795-mythic-victory-arena.json) |
 | Mythic Wonders: The Child of Prophecy | 59790 | [59790-mythic-wonders-the-child-of-prophecy.json](./59790-mythic-wonders-the-child-of-prophecy.json) |
 | Mythic Wonders: The Philosopher's Stone | 33111 | [33111-mythic-wonders-the-philosophers-stone.json](./33111-mythic-wonders-the-philosophers-stone.json) |
