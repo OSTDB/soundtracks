@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T20:06:45.417Z",
-  "total_soundtracks": 3056,
+  "generated_at": "2026-11-11T20:16:32.944Z",
+  "total_soundtracks": 3063,
   "games": [
     {
       "igdb_id": 7522,
@@ -3729,6 +3729,20 @@
       ]
     },
     {
+      "igdb_id": 150032,
+      "game_name": "Berserk Boy",
+      "game_url": "https://ostdb.net/games/berserk-boy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734af57eb028f0a70e6ac92db7",
+      "albums": [
+        {
+          "album_name": "Berserk Boy Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6T3cg7TCXXi6MJZ9ILhLhu",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 116634,
       "game_name": "Beyond a Steel Sky",
       "game_url": "https://ostdb.net/games/beyond-a-steel-sky",
@@ -4207,6 +4221,20 @@
           "spotify_url": "https://open.spotify.com/album/6XSHziwWFxrUiO7oEmBya1",
           "apple_music_url": "https://music.apple.com/us/album/bloodborne-the-old-hunters-original-soundtrack-ep/1087350318",
           "album_link_url": "https://album.link/i/1087350318"
+        }
+      ]
+    },
+    {
+      "igdb_id": 195382,
+      "game_name": "Bloodhound",
+      "game_url": "https://ostdb.net/games/bloodhound",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bf9175750423f7588b7c9b27",
+      "albums": [
+        {
+          "album_name": "The Bloodhound (Bloodhound Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2314AjmubuVHZHOyRuK00m",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -14329,6 +14357,20 @@
       ]
     },
     {
+      "igdb_id": 151140,
+      "game_name": "Gunborg: Dark Matters",
+      "game_url": "https://ostdb.net/games/gunborg-dark-matters",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e3e48adeaea140cc9ae6913d",
+      "albums": [
+        {
+          "album_name": "Gunborg: Dark Matters (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6krCiGqUJnJaQRI4Vcpy5B",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3076,
       "game_name": "Guns of Icarus Online",
       "game_url": "https://ostdb.net/games/guns-of-icarus-online",
@@ -17385,6 +17427,20 @@
         {
           "album_name": "Kirby: Planet Robobot Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2YK3Pjm8viuZ09wTTNeQCq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 144542,
+      "game_name": "Kitaria Fables",
+      "game_url": "https://ostdb.net/games/kitaria-fables",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f3608164aae590704d9b5a00",
+      "albums": [
+        {
+          "album_name": "Kitaria Fables (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2pmP24FWGeJ7v2Sag7il5K",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -22423,6 +22479,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/noita-vol-2-original-game-soundtrack/1521670900?uo=4",
           "album_link_url": "https://album.link/i/1521670900"
+        }
+      ]
+    },
+    {
+      "igdb_id": 211738,
+      "game_name": "Noreya: The Gold Project",
+      "game_url": "https://ostdb.net/games/noreya-the-gold-project",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273158236476ddd61273822feb2",
+      "albums": [
+        {
+          "album_name": "Noreya: The Gold Project (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5JcDIY3iVTtfnGBicUvRl9",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -30551,6 +30621,20 @@
       ]
     },
     {
+      "igdb_id": 144171,
+      "game_name": "Stonefly",
+      "game_url": "https://ostdb.net/games/stonefly",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5276aebe747601cfdfaf271",
+      "albums": [
+        {
+          "album_name": "Stonefly (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3F6Igl63HXUUWdIRzn5TgK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 8751,
       "game_name": "Stranded Deep",
       "game_url": "https://ostdb.net/games/stranded-deep",
@@ -32675,6 +32759,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/the-elder-scrolls-online-summerset-original-game/1421236503?uo=4",
           "album_link_url": "https://album.link/i/1421236503"
+        }
+      ]
+    },
+    {
+      "igdb_id": 143024,
+      "game_name": "The Elder Scrolls Online: Blackwood",
+      "game_url": "https://ostdb.net/games/the-elder-scrolls-online-blackwood",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27327a0346248df9572dd9ca33b",
+      "albums": [
+        {
+          "album_name": "The Elder Scrolls Online: Blackwood (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6xXLKHjzvAx1Y6s92Xt4SZ",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
