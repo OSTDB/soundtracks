@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuickBite Express | 314200 | [314200-quickbite-express.json](./314200-quickbite-express.json) |
 | Quickboy | 348759 | [348759-quickboy.json](./348759-quickboy.json) |
 | QuickCalculation | 387520 | [387520-quickcalculation.json](./387520-quickcalculation.json) |
+| Quickcast | 331586 | [331586-quickcast.json](./331586-quickcast.json) |
 | Quickclaw | 257848 | [257848-quickclaw.json](./257848-quickclaw.json) |
 | Quickdraw | 173926 | [173926-quickdraw.json](./173926-quickdraw.json) |
 | Quickerflak | 186860 | [186860-quickerflak.json](./186860-quickerflak.json) |
