@@ -3999,6 +3999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peck Peck's Garden | 243633 | [243633-peck-pecks-garden.json](./243633-peck-pecks-garden.json) |
 | Peck'Em | 224924 | [224924-peckem.json](./224924-peckem.json) |
 | Pecker | 244272 | [244272-pecker.json](./244272-pecker.json) |
+| Peckers | 390829 | [390829-peckers.json](./390829-peckers.json) |
 | Peckin' Pixels | 135692 | [135692-peckin-pixels.json](./135692-peckin-pixels.json) |
 | Pecking Order | 337778 | [337778-pecking-order.json](./337778-pecking-order.json) |
 | Peckout | 420222 | [420222-peckout.json](./420222-peckout.json) |
@@ -8336,6 +8337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piworld | 318224 | [318224-piworld.json](./318224-piworld.json) |
 | Pix | 55312 | [55312-pix.json](./55312-pix.json) |
 | Pix Arts Masters Tennis | 335083 | [335083-pix-arts-masters-tennis.json](./335083-pix-arts-masters-tennis.json) |
+| Pix Football Manager | 390305 | [390305-pix-football-manager.json](./390305-pix-football-manager.json) |
 | Pix Hop | 183359 | [183359-pix-hop.json](./183359-pix-hop.json) |
 | Pix Jungle Adventures | 151602 | [151602-pix-jungle-adventures.json](./151602-pix-jungle-adventures.json) |
 | Pix the Cat | 9374 | [9374-pix-the-cat.json](./9374-pix-the-cat.json) |
@@ -18814,6 +18816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pursuit of Justice | 70315 | [70315-pursuit-of-justice.json](./70315-pursuit-of-justice.json) |
 | Pursuit of Laughter | 291900 | [291900-pursuit-of-laughter.json](./291900-pursuit-of-laughter.json) |
 | Pursuit of Light | 104272 | [104272-pursuit-of-light.json](./104272-pursuit-of-light.json) |
+| Pursuit of Mercantile Power | 390824 | [390824-pursuit-of-mercantile-power.json](./390824-pursuit-of-mercantile-power.json) |
 | Pursuit of Power 2 | 30866 | [30866-pursuit-of-power-2.json](./30866-pursuit-of-power-2.json) |
 | Pursuit of Redemption | 148979 | [148979-pursuit-of-redemption.json](./148979-pursuit-of-redemption.json) |
 | Pursuit of the Bookkeeper | 150412 | [150412-pursuit-of-the-bookkeeper.json](./150412-pursuit-of-the-bookkeeper.json) |
