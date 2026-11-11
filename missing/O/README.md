@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh! Robot: Legendary Mechanic | 356300 | [356300-oh-robot-legendary-mechanic.json](./356300-oh-robot-legendary-mechanic.json) |
 | Oh! RPG! | 33983 | [33983-oh-rpg.json](./33983-oh-rpg.json) |
 | Oh! Sheep | 233733 | [233733-oh-sheep.json](./233733-oh-sheep.json) |
+| Oh!Ware | 388642 | [388642-oh-ware.json](./388642-oh-ware.json) |
 | Oh? Me | 348513 | [348513-oh-me.json](./348513-oh-me.json) |
 | Oh...Sir! Prototype | 90604 | [90604-oh-sir-prototype.json](./90604-oh-sir-prototype.json) |
 | Oh...Sir! The Hollywood Roast | 29994 | [29994-oh-sir-the-hollywood-roast.json](./29994-oh-sir-the-hollywood-roast.json) |
@@ -2327,6 +2328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Button Dungeon | 386734 | [386734-one-button-dungeon.json](./386734-one-button-dungeon.json) |
 | One Button Games 5-in-1 | 259133 | [259133-one-button-games-5-in-1.json](./259133-one-button-games-5-in-1.json) |
 | One Button Games 5-in-1 Vol. 2 | 349818 | [349818-one-button-games-5-in-1-vol-2.json](./349818-one-button-games-5-in-1-vol-2.json) |
+| One Button Games 5-in-1 Vol. 3 | 388479 | [388479-one-button-games-5-in-1-vol-3.json](./388479-one-button-games-5-in-1-vol-3.json) |
 | One Button Games 5-in-1 Vol. 4 | 394464 | [394464-one-button-games-5-in-1-vol-4.json](./394464-one-button-games-5-in-1-vol-4.json) |
 | One Button Games 5-in-1 Vol. 6 | 400556 | [400556-one-button-games-5-in-1-vol-6.json](./400556-one-button-games-5-in-1-vol-6.json) |
 | One Button Games 5-in-1 Vol. 7 | 409803 | [409803-one-button-games-5-in-1-vol-7.json](./409803-one-button-games-5-in-1-vol-7.json) |
