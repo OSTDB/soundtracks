@@ -9559,6 +9559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Stylist: Design Game | 214672 | [214672-food-stylist-design-game.json](./214672-food-stylist-design-game.json) |
 | Food Truck Business Simulator | 343531 | [343531-food-truck-business-simulator.json](./343531-food-truck-business-simulator.json) |
 | Food Truck Chef | 105841 | [105841-food-truck-chef.json](./105841-food-truck-chef.json) |
+| Food Truck Chef: Full Course Edition | 386673 | [386673-food-truck-chef-full-course-edition.json](./386673-food-truck-chef-full-course-edition.json) |
 | Food Truck Empire | 194743 | [194743-food-truck-empire.json](./194743-food-truck-empire.json) |
 | Food Truck Monopoly | 348875 | [348875-food-truck-monopoly.json](./348875-food-truck-monopoly.json) |
 | Food Truck Rush | 109237 | [109237-food-truck-rush.json](./109237-food-truck-rush.json) |
@@ -12304,6 +12305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Strategy Chess Game | 349862 | [349862-free-strategy-chess-game.json](./349862-free-strategy-chess-game.json) |
 | Free Style | 359740 | [359740-free-style.json](./359740-free-style.json) |
 | Free SuDoKu | 71981 | [71981-free-sudoku.json](./71981-free-sudoku.json) |
+| Free Talk Studio | 386623 | [386623-free-talk-studio.json](./386623-free-talk-studio.json) |
 | Free the Animation | 101318 | [101318-free-the-animation.json](./101318-free-the-animation.json) |
 | Free the Bird | 319165 | [319165-free-the-bird.json](./319165-free-the-bird.json) |
 | Free the Blobs | 18428 | [18428-free-the-blobs.json](./18428-free-the-blobs.json) |
@@ -14263,6 +14265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funky Fish | 281194 | [281194-funky-fish.json](./281194-funky-fish.json) |
 | Funky Fish | 281195 | [281195-funky-fish.json](./281195-funky-fish.json) |
 | Funky Fish | 39685 | [39685-funky-fish.json](./39685-funky-fish.json) |
+| Funky Forest | 386638 | [386638-funky-forest.json](./386638-funky-forest.json) |
 | Funky Funny Aliens | 242706 | [242706-funky-funny-aliens.json](./242706-funky-funny-aliens.json) |
 | Funky Head Boxers | 54964 | [54964-funky-head-boxers.json](./54964-funky-head-boxers.json) |
 | Funky Hoops! | 63651 | [63651-funky-hoops.json](./63651-funky-hoops.json) |
@@ -14644,6 +14647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi Deka | 59442 | [59442-fushigi-deka.json](./59442-fushigi-deka.json) |
 | Fushigi Densha | 143636 | [143636-fushigi-densha.json](./143636-fushigi-densha.json) |
 | Fushigi na Jikken Quiz! | 257760 | [257760-fushigi-na-jikken-quiz.json](./257760-fushigi-na-jikken-quiz.json) |
+| Fushigi na Mori no Pokora | 386649 | [386649-fushigi-na-mori-no-pokora.json](./386649-fushigi-na-mori-no-pokora.json) |
 | Fushigi na Sekai no Kankou Nikki | 309359 | [309359-fushigi-na-sekai-no-kankou-nikki.json](./309359-fushigi-na-sekai-no-kankou-nikki.json) |
 | Fushigi na Sekai no Kankou Nikki II: Pakuru World to Sejika no Gyakushuu | 346376 | [346376-fushigi-na-sekai-no-kankou-nikki-ii-pakuru-world-to-sejika-no-gyakushuu.json](./346376-fushigi-na-sekai-no-kankou-nikki-ii-pakuru-world-to-sejika-no-gyakushuu.json) |
 | Fushigi no Daibouken Chiruno Kenzan! | 236317 | [236317-fushigi-no-daibouken-chiruno-kenzan.json](./236317-fushigi-no-daibouken-chiruno-kenzan.json) |
@@ -14875,6 +14879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futurewar | 234634 | [234634-futurewar.json](./234634-futurewar.json) |
 | Futuridium EP | 88752 | [88752-futuridium-ep.json](./88752-futuridium-ep.json) |
 | Futuridium EP Deluxe | 8500 | [8500-futuridium-ep-deluxe.json](./8500-futuridium-ep-deluxe.json) |
+| Futurika Online | 386622 | [386622-futurika-online.json](./386622-futurika-online.json) |
 | Futurion | 401204 | [401204-futurion.json](./401204-futurion.json) |
 | Futuructa: Merge the Future | 244008 | [244008-futuructa-merge-the-future.json](./244008-futuructa-merge-the-future.json) |
 | Futurust | 56294 | [56294-futurust.json](./56294-futurust.json) |
