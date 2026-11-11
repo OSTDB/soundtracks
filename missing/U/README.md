@@ -1934,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underload | 25763 | [25763-underload.json](./25763-underload.json) |
 | UnderMine | 107198 | [107198-undermine.json](./107198-undermine.json) |
 | Underminer | 282013 | [282013-underminer.json](./282013-underminer.json) |
+| UnderMire | 345177 | [345177-undermire.json](./345177-undermire.json) |
 | Undermoon | 424659 | [424659-undermoon.json](./424659-undermoon.json) |
 | Undernauts: Labyrinth of Yomi | 25672 | [25672-undernauts-labyrinth-of-yomi.json](./25672-undernauts-labyrinth-of-yomi.json) |
 | Undernauts: Labyrinth of Yomi & Mon-Yu | 304331 | [304331-undernauts-labyrinth-of-yomi-and-mon-yu.json](./304331-undernauts-labyrinth-of-yomi-and-mon-yu.json) |
