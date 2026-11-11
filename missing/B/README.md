@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B. C. Story | 39879 | [39879-b-c-story.json](./39879-b-c-story.json) |
 | B.A.D Battle Armor Division | 34960 | [34960-b-a-d-battle-armor-division.json](./34960-b-a-d-battle-armor-division.json) |
 | B.A.D. | 362277 | [362277-b-a-d.json](./362277-b-a-d.json) |
+| B.A.D. Institute | 367067 | [367067-b-a-d-institute.json](./367067-b-a-d-institute.json) |
 | B.A.L.L.O | 338753 | [338753-b-a-l-l-o.json](./338753-b-a-l-l-o.json) |
 | B.A.N.K. | 346766 | [346766-b-a-n-k.json](./346766-b-a-n-k.json) |
 | B.A.S.E | 80395 | [80395-b-a-s-e.json](./80395-b-a-s-e.json) |
@@ -2119,6 +2120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banchou Tactics: Lion Heart | 418327 | [418327-banchou-tactics-lion-heart.json](./418327-banchou-tactics-lion-heart.json) |
 | Banco Imobiliário 2000 | 187876 | [187876-banco-imobiliario-2000.json](./187876-banco-imobiliario-2000.json) |
 | Bancroft Academy | 265412 | [265412-bancroft-academy.json](./265412-bancroft-academy.json) |
+| Band Girls | 366756 | [366756-band-girls.json](./366756-band-girls.json) |
 | Band Hero | 2678 | [2678-band-hero.json](./2678-band-hero.json) |
 | Band Land | 232095 | [232095-band-land.json](./232095-band-land.json) |
 | Band Manager | 78934 | [78934-band-manager.json](./78934-band-manager.json) |
@@ -6027,6 +6029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Mystic Defenders | 159748 | [159748-beautiful-mystic-defenders.json](./159748-beautiful-mystic-defenders.json) |
 | Beautiful Mystic Survivors | 200465 | [200465-beautiful-mystic-survivors.json](./200465-beautiful-mystic-survivors.json) |
 | Beautiful Sakura: Fashion Club | 327971 | [327971-beautiful-sakura-fashion-club.json](./327971-beautiful-sakura-fashion-club.json) |
+| Beautiful Sakura: Football Club | 367136 | [367136-beautiful-sakura-football-club.json](./367136-beautiful-sakura-football-club.json) |
 | Beautiful Sakura: Racing Club | 334547 | [334547-beautiful-sakura-racing-club.json](./334547-beautiful-sakura-racing-club.json) |
 | Beautiful Sakura: Running Club | 327973 | [327973-beautiful-sakura-running-club.json](./327973-beautiful-sakura-running-club.json) |
 | Beautiful Sakura: Surfing Club | 265240 | [265240-beautiful-sakura-surfing-club.json](./265240-beautiful-sakura-surfing-club.json) |
@@ -10725,6 +10728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blight Night: You Are Not Safe | 242000 | [242000-blight-night-you-are-not-safe.json](./242000-blight-night-you-are-not-safe.json) |
 | Blight of the Immortals | 25301 | [25301-blight-of-the-immortals.json](./25301-blight-of-the-immortals.json) |
 | Blight: Survival | 211470 | [211470-blight-survival.json](./211470-blight-survival.json) |
+| Blight's Grasp | 367069 | [367069-blights-grasp.json](./367069-blights-grasp.json) |
 | Blightborn | 338714 | [338714-blightborn.json](./338714-blightborn.json) |
 | Blightbound | 133932 | [133932-blightbound.json](./133932-blightbound.json) |
 | Blighted | 347662 | [347662-blighted.json](./347662-blighted.json) |
