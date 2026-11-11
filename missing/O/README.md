@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh Crab! | 129573 | [129573-oh-crab.json](./129573-oh-crab.json) |
 | Oh Darling! I Hate To Tell You This... | 275990 | [275990-oh-darling-i-hate-to-tell-you-this.json](./275990-oh-darling-i-hate-to-tell-you-this.json) |
 | Oh Deer | 285913 | [285913-oh-deer.json](./285913-oh-deer.json) |
+| Oh Demon! Fix my TV | 384989 | [384989-oh-demon-fix-my-tv.json](./384989-oh-demon-fix-my-tv.json) |
 | Oh Frog | 132242 | [132242-oh-frog.json](./132242-oh-frog.json) |
 | Oh High! | 182785 | [182785-oh-high.json](./182785-oh-high.json) |
 | Oh Jeez, Oh No, My Rabbits Are Gone! | 127201 | [127201-oh-jeez-oh-no-my-rabbits-are-gone.json](./127201-oh-jeez-oh-no-my-rabbits-are-gone.json) |
