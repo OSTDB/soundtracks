@@ -15985,6 +15985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snapshot Adventures: Secret of Bird Island | 412563 | [412563-snapshot-adventures-secret-of-bird-island.json](./412563-snapshot-adventures-secret-of-bird-island.json) |
 | Snapshot Aquarium | 216889 | [216889-snapshot-aquarium.json](./216889-snapshot-aquarium.json) |
 | Snapshot Girls | 364970 | [364970-snapshot-girls.json](./364970-snapshot-girls.json) |
+| Snapshot Girls 2 | 366772 | [366772-snapshot-girls-2.json](./366772-snapshot-girls-2.json) |
 | Snapshot Girls 3 | 370798 | [370798-snapshot-girls-3.json](./370798-snapshot-girls-3.json) |
 | Snapshot Girls 5 | 374897 | [374897-snapshot-girls-5.json](./374897-snapshot-girls-5.json) |
 | Snapshot Girls 6 | 375409 | [375409-snapshot-girls-6.json](./375409-snapshot-girls-6.json) |
