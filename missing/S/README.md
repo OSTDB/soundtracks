@@ -9105,7 +9105,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Legend | 323060 | [323060-shining-legend.json](./323060-shining-legend.json) |
 | Shining Lore | 316800 | [316800-shining-lore.json](./316800-shining-lore.json) |
 | Shining Maiden | 142691 | [142691-shining-maiden.json](./142691-shining-maiden.json) |
-| Shining Nikki | 145944 | [145944-shining-nikki.json](./145944-shining-nikki.json) |
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
 | Shining Plume | 31110 | [31110-shining-plume.json](./31110-shining-plume.json) |
 | Shining Plume 2 | 29385 | [29385-shining-plume-2.json](./29385-shining-plume-2.json) |
@@ -29790,7 +29789,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Straycloud | 404931 | [404931-straycloud.json](./404931-straycloud.json) |
 | StrayDoll Conflict | 156005 | [156005-straydoll-conflict.json](./156005-straydoll-conflict.json) |
 | Strayed | 248912 | [248912-strayed.json](./248912-strayed.json) |
-| Strayed Lights | 233576 | [233576-strayed-lights.json](./233576-strayed-lights.json) |
 | Strayed Lights: Deluxe Edition | 244793 | [244793-strayed-lights-deluxe-edition.json](./244793-strayed-lights-deluxe-edition.json) |
 | Strayed: 404 Not Found Skin Pack | 382417 | [382417-strayed-404-not-found-skin-pack.json](./382417-strayed-404-not-found-skin-pack.json) |
 | Strayed: America Skin Pack | 382426 | [382426-strayed-america-skin-pack.json](./382426-strayed-america-skin-pack.json) |
@@ -38450,7 +38448,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syndrome VR | 74263 | [74263-syndrome-vr.json](./74263-syndrome-vr.json) |
 | Syndrome: Extended Edition | 233005 | [233005-syndrome-extended-edition.json](./233005-syndrome-extended-edition.json) |
 | Syndrome: Ultimate Edition | 231234 | [231234-syndrome-ultimate-edition.json](./231234-syndrome-ultimate-edition.json) |
-| Synduality: Echo of Ada | 217601 | [217601-synduality-echo-of-ada.json](./217601-synduality-echo-of-ada.json) |
 | Synduality: Echo of Ada - Deluxe Edition | 317828 | [317828-synduality-echo-of-ada-deluxe-edition.json](./317828-synduality-echo-of-ada-deluxe-edition.json) |
 | Synduality: Echo of Ada - Ultimate Edition | 317829 | [317829-synduality-echo-of-ada-ultimate-edition.json](./317829-synduality-echo-of-ada-ultimate-edition.json) |
 | Syne | 183759 | [183759-syne.json](./183759-syne.json) |
