@@ -3458,6 +3458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Movement | 190779 | [190779-jump-movement.json](./190779-jump-movement.json) |
 | Jump N Shooters | 244374 | [244374-jump-n-shooters.json](./244374-jump-n-shooters.json) |
 | Jump Now | 359348 | [359348-jump-now.json](./359348-jump-now.json) |
+| Jump Nuts | 351338 | [351338-jump-nuts.json](./351338-jump-nuts.json) |
 | Jump O'Clock | 65226 | [65226-jump-oclock.json](./65226-jump-oclock.json) |
 | Jump Off the Bridge | 117553 | [117553-jump-off-the-bridge.json](./117553-jump-off-the-bridge.json) |
 | Jump On Clouds | 295502 | [295502-jump-on-clouds.json](./295502-jump-on-clouds.json) |
