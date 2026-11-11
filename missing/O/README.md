@@ -2892,6 +2892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Way Home | 244491 | [244491-one-way-home.json](./244491-one-way-home.json) |
 | One Way Lane | 302780 | [302780-one-way-lane.json](./302780-one-way-lane.json) |
 | One Way Road | 167433 | [167433-one-way-road.json](./167433-one-way-road.json) |
+| One Way Ticket | 325155 | [325155-one-way-ticket.json](./325155-one-way-ticket.json) |
 | One Way to Die | 60205 | [60205-one-way-to-die.json](./60205-one-way-to-die.json) |
 | One Way to Die: Deluxe | 116653 | [116653-one-way-to-die-deluxe.json](./116653-one-way-to-die-deluxe.json) |
 | One Way to Die: Deluxe Edition | 116652 | [116652-one-way-to-die-deluxe-edition.json](./116652-one-way-to-die-deluxe-edition.json) |
@@ -4371,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ORE x TRACTOR | 401823 | [401823-ore-x-tractor.json](./401823-ore-x-tractor.json) |
 | Ore-sama Kingdom: Ikemen Kareshi wo Get Shiyo! Moe Kyun School Days | 141587 | [141587-ore-sama-kingdom-ikemen-kareshi-wo-get-shiyo-moe-kyun-school-days.json](./141587-ore-sama-kingdom-ikemen-kareshi-wo-get-shiyo-moe-kyun-school-days.json) |
 | Ore-sama Kingdom: Koi mo Manga mo Debut wo Mezase! Doki-doki Love Lesson | 202704 | [202704-ore-sama-kingdom-koi-mo-manga-mo-debut-wo-mezase-doki-doki-love-lesson.json](./202704-ore-sama-kingdom-koi-mo-manga-mo-debut-wo-mezase-doki-doki-love-lesson.json) |
+| Ore-tachi Gesen-zoku | 324600 | [324600-ore-tachi-gesen-zoku.json](./324600-ore-tachi-gesen-zoku.json) |
 | Ore'n: Battle Meme Chronicle | 303221 | [303221-oren-battle-meme-chronicle.json](./303221-oren-battle-meme-chronicle.json) |
 | Orebital Dynamics | 410007 | [410007-orebital-dynamics.json](./410007-orebital-dynamics.json) |
 | Orebits | 364215 | [364215-orebits.json](./364215-orebits.json) |
