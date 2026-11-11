@@ -4242,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Neaker | 97811 | [97811-nick-neaker.json](./97811-nick-neaker.json) |
 | Nick News with Linda Ellerbee Word Search | 325083 | [325083-nick-news-with-linda-ellerbee-word-search.json](./325083-nick-news-with-linda-ellerbee-word-search.json) |
 | Nick of Time | 176225 | [176225-nick-of-time.json](./176225-nick-of-time.json) |
+| Nick Pals: Can I Keep 'Em? | 389030 | [389030-nick-pals-can-i-keep-em.json](./389030-nick-pals-can-i-keep-em.json) |
 | Nick Project | 96174 | [96174-nick-project.json](./96174-nick-project.json) |
 | Nick Quest | 176032 | [176032-nick-quest.json](./176032-nick-quest.json) |
 | Nick Racers Revolution 3D | 259986 | [259986-nick-racers-revolution-3d.json](./259986-nick-racers-revolution-3d.json) |
