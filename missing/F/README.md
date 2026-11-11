@@ -1683,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Gameshow | 51028 | [51028-family-gameshow.json](./51028-family-gameshow.json) |
 | Family Glide Hockey | 21203 | [21203-family-glide-hockey.json](./21203-family-glide-hockey.json) |
 | Family Go-Kart Racing | 50695 | [50695-family-go-kart-racing.json](./50695-family-go-kart-racing.json) |
+| Family Gunjin Shougi | 376996 | [376996-family-gunjin-shougi.json](./376996-family-gunjin-shougi.json) |
 | Family Guy Bowling | 286624 | [286624-family-guy-bowling.json](./286624-family-guy-bowling.json) |
 | Family Guy Invaders | 335726 | [335726-family-guy-invaders.json](./335726-family-guy-invaders.json) |
 | Family Guy Online | 76456 | [76456-family-guy-online.json](./76456-family-guy-online.json) |
@@ -5036,6 +5037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | File Tricks | 372719 | [372719-file-tricks.json](./372719-file-tricks.json) |
 | File://maniac | 118374 | [118374-file-maniac.json](./118374-file-maniac.json) |
 | FileKiller | 294215 | [294215-filekiller.json](./294215-filekiller.json) |
+| FILF | 376967 | [376967-filf.json](./376967-filf.json) |
 | Filing Cistem | 218207 | [218207-filing-cistem.json](./218207-filing-cistem.json) |
 | Filiy Eclipse | 334597 | [334597-filiy-eclipse.json](./334597-filiy-eclipse.json) |
 | Fill & Cross: Christmas Riddles | 169788 | [169788-fill-and-cross-christmas-riddles.json](./169788-fill-and-cross-christmas-riddles.json) |
@@ -6806,6 +6808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Person Shooter | 145636 | [145636-fish-person-shooter.json](./145636-fish-person-shooter.json) |
 | Fish Pond Park | 212819 | [212819-fish-pond-park.json](./212819-fish-pond-park.json) |
 | Fish Racer Arcade | 68628 | [68628-fish-racer-arcade.json](./68628-fish-racer-arcade.json) |
+| Fish Rescue! Pull the Pin | 377010 | [377010-fish-rescue-pull-the-pin.json](./377010-fish-rescue-pull-the-pin.json) |
 | Fish Royale | 227500 | [227500-fish-royale.json](./227500-fish-royale.json) |
 | Fish RPG | 232912 | [232912-fish-rpg.json](./232912-fish-rpg.json) |
 | Fish Season | 350506 | [350506-fish-season.json](./350506-fish-season.json) |
@@ -13496,6 +13499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostpoint Toll | 380662 | [380662-frostpoint-toll.json](./380662-frostpoint-toll.json) |
 | Frostpoint VR: Proving Grounds | 139228 | [139228-frostpoint-vr-proving-grounds.json](./139228-frostpoint-vr-proving-grounds.json) |
 | Frostpunk 2: Breach of Trust | 397575 | [397575-frostpunk-2-breach-of-trust.json](./397575-frostpunk-2-breach-of-trust.json) |
+| Frostpunk 2: Deluxe Edition | 376982 | [376982-frostpunk-2-deluxe-edition.json](./376982-frostpunk-2-deluxe-edition.json) |
 | Frostpunk 2: Fractured Utopias | 375800 | [375800-frostpunk-2-fractured-utopias.json](./375800-frostpunk-2-fractured-utopias.json) |
 | Frostpunk 2: Icebreaker Edition | 362011 | [362011-frostpunk-2-icebreaker-edition.json](./362011-frostpunk-2-icebreaker-edition.json) |
 | Frostpunk Pico | 284128 | [284128-frostpunk-pico.json](./284128-frostpunk-pico.json) |
@@ -14740,6 +14744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futa Jigsaw Dating | 368126 | [368126-futa-jigsaw-dating.json](./368126-futa-jigsaw-dating.json) |
 | Futa Nights: Bloody Sluts | 362274 | [362274-futa-nights-bloody-sluts.json](./362274-futa-nights-bloody-sluts.json) |
 | Futa Paradise | 382384 | [382384-futa-paradise.json](./382384-futa-paradise.json) |
+| Futa Slug EX | 376956 | [376956-futa-slug-ex.json](./376956-futa-slug-ex.json) |
 | Futa Spell | 191061 | [191061-futa-spell.json](./191061-futa-spell.json) |
 | Futa Tales | 273490 | [273490-futa-tales.json](./273490-futa-tales.json) |
 | Futa Training | 285604 | [285604-futa-training.json](./285604-futa-training.json) |
