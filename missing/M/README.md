@@ -15159,6 +15159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mmmmm Donuts Arhhh...... | 286754 | [286754-mmmmm-donuts-arhhh.json](./286754-mmmmm-donuts-arhhh.json) |
 | Mmmmmm | 207138 | [207138-mmmmmm.json](./207138-mmmmmm.json) |
 | Mmmmmm... Cake! | 107833 | [107833-mmmmmm-cake.json](./107833-mmmmmm-cake.json) |
+| MMO98 | 391914 | [391914-mmo98.json](./391914-mmo98.json) |
 | MMORPG NPC Simulator | 404197 | [404197-mmorpg-npc-simulator.json](./404197-mmorpg-npc-simulator.json) |
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
 | MMOS: MMO Simulator | 423904 | [423904-mmos-mmo-simulator.json](./423904-mmos-mmo-simulator.json) |
