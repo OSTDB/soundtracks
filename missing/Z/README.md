@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaibaly | 414164 | [414164-zaibaly.json](./414164-zaibaly.json) |
 | Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kounin: KanKen DS | 288658 | [288658-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kounin-kanken-ds.json](./288658-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kounin-kanken-ds.json) |
 | Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kyouryoku: Kanken DS Training | 123032 | [123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json](./123032-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kyouryoku-kanken-ds-training.json) |
+| Zàijiàn Duàn Dāo | 395912 | [395912-zaijian-duan-dao.json](./395912-zaijian-duan-dao.json) |
 | Zaijian Eurydice | 403638 | [403638-zaijian-eurydice.json](./403638-zaijian-eurydice.json) |
 | Zaitaku Touhyou System: Spat4-Wide | 37749 | [37749-zaitaku-touhyou-system-spat4-wide.json](./37749-zaitaku-touhyou-system-spat4-wide.json) |
 | Zak | 125835 | [125835-zak.json](./125835-zak.json) |
