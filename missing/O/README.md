@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octoplex | 83376 | [83376-octoplex.json](./83376-octoplex.json) |
 | Octopo | 306050 | [306050-octopo.json](./306050-octopo.json) |
 | Octoportals | 387424 | [387424-octoportals.json](./387424-octoportals.json) |
+| Octopticom 3D | 395918 | [395918-octopticom-3d.json](./395918-octopticom-3d.json) |
 | Octopus | 145159 | [145159-octopus.json](./145159-octopus.json) |
 | Octopus | 231722 | [231722-octopus.json](./231722-octopus.json) |
 | Octopus | 231723 | [231723-octopus.json](./231723-octopus.json) |
