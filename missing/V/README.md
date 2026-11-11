@@ -174,6 +174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaccine War | 33231 | [33231-vaccine-war.json](./33231-vaccine-war.json) |
 | Vacoo: The Adventure in Garbage City | 223413 | [223413-vacoo-the-adventure-in-garbage-city.json](./223413-vacoo-the-adventure-in-garbage-city.json) |
 | Vactics | 202067 | [202067-vactics.json](./202067-vactics.json) |
+| Vacuous Sugar Quest | 350707 | [350707-vacuous-sugar-quest.json](./350707-vacuous-sugar-quest.json) |
 | VacuuBot: Home Cleaning Simulator | 378135 | [378135-vacuubot-home-cleaning-simulator.json](./378135-vacuubot-home-cleaning-simulator.json) |
 | Vacuum | 195824 | [195824-vacuum.json](./195824-vacuum.json) |
 | Vacuum | 274673 | [274673-vacuum.json](./274673-vacuum.json) |
@@ -2356,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikingbyen 2 | 78416 | [78416-vikingbyen-2.json](./78416-vikingbyen-2.json) |
 | VikingJourney | 95671 | [95671-vikingjourney.json](./95671-vikingjourney.json) |
 | Vikings | 100048 | [100048-vikings.json](./100048-vikings.json) |
+| Vikings | 350711 | [350711-vikings.json](./350711-vikings.json) |
 | Vikings and Thrones | 240398 | [240398-vikings-and-thrones.json](./240398-vikings-and-thrones.json) |
 | Vikings Dynasty | 343265 | [343265-vikings-dynasty.json](./343265-vikings-dynasty.json) |
 | Vikings Hnefatafl: Kings of the Dark Age | 249712 | [249712-vikings-hnefatafl-kings-of-the-dark-age.json](./249712-vikings-hnefatafl-kings-of-the-dark-age.json) |
