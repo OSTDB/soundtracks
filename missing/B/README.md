@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back To School | 379991 | [379991-back-to-school.json](./379991-back-to-school.json) |
 | Back to School: My Worst Day | 218653 | [218653-back-to-school-my-worst-day.json](./218653-back-to-school-my-worst-day.json) |
 | Back to Skool | 26419 | [26419-back-to-skool.json](./26419-back-to-skool.json) |
+| Back to Stables | 394247 | [394247-back-to-stables.json](./394247-back-to-stables.json) |
 | Back to Stone | 19217 | [19217-back-to-stone.json](./19217-back-to-stone.json) |
 | Back to the Collis | 244708 | [244708-back-to-the-collis.json](./244708-back-to-the-collis.json) |
 | Back to the Dark | 243606 | [243606-back-to-the-dark.json](./243606-back-to-the-dark.json) |
@@ -1011,7 +1012,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -4961,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BDSM Sex: Episode 6 | 302081 | [302081-bdsm-sex-episode-6.json](./302081-bdsm-sex-episode-6.json) |
 | BDSM Sex: Futanari | 417409 | [417409-bdsm-sex-futanari.json](./417409-bdsm-sex-futanari.json) |
 | BDSM Sex: Futanari 2 | 411241 | [411241-bdsm-sex-futanari-2.json](./411241-bdsm-sex-futanari-2.json) |
+| BDSM Slave Training | 393707 | [393707-bdsm-slave-training.json](./393707-bdsm-slave-training.json) |
 | BDSM VR | 384682 | [384682-bdsm-vr.json](./384682-bdsm-vr.json) |
 | Be | 207329 | [207329-be.json](./207329-be.json) |
 | Be (Not) Afraid | 356832 | [356832-be-not-afraid.json](./356832-be-not-afraid.json) |
