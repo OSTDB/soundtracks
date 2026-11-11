@@ -13601,6 +13601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonedle | 379170 | [379170-bonedle.json](./379170-bonedle.json) |
 | BoneField: Bodycam Horror | 275414 | [275414-bonefield-bodycam-horror.json](./275414-bonefield-bodycam-horror.json) |
 | Bonegard | 159952 | [159952-bonegard.json](./159952-bonegard.json) |
+| Bonegrinder | 378700 | [378700-bonegrinder.json](./378700-bonegrinder.json) |
 | Bonehammer | 331791 | [331791-bonehammer.json](./331791-bonehammer.json) |
 | Bonehearts | 395147 | [395147-bonehearts.json](./395147-bonehearts.json) |
 | Bonehold | 366910 | [366910-bonehold.json](./366910-bonehold.json) |
