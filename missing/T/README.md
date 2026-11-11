@@ -7279,6 +7279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bugs Bunny Crazy Castle Atarisized | 289885 | [289885-the-bugs-bunny-crazy-castle-atarisized.json](./289885-the-bugs-bunny-crazy-castle-atarisized.json) |
 | The Bugs Manor | 273275 | [273275-the-bugs-manor.json](./273275-the-bugs-manor.json) |
 | The Build and Race Hotrod Game | 150283 | [150283-the-build-and-race-hotrod-game.json](./150283-the-build-and-race-hotrod-game.json) |
+| The Builder: Season 1 | 389801 | [389801-the-builder-season-1.json](./389801-the-builder-season-1.json) |
 | The Builder: Season 2 | 392889 | [392889-the-builder-season-2.json](./392889-the-builder-season-2.json) |
 | The Building 71 Incident | 176513 | [176513-the-building-71-incident.json](./176513-the-building-71-incident.json) |
 | The BuildSphere: Rise of the Anomalbots | 193504 | [193504-the-buildsphere-rise-of-the-anomalbots.json](./193504-the-buildsphere-rise-of-the-anomalbots.json) |
@@ -33924,6 +33925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukimi Planet | 124355 | [124355-tsukimi-planet.json](./124355-tsukimi-planet.json) |
 | Tsukino Paradise | 44105 | [44105-tsukino-paradise.json](./44105-tsukino-paradise.json) |
 | Tsukisas Arena | 149225 | [149225-tsukisas-arena.json](./149225-tsukisas-arena.json) |
+| Tsukiyo ni Karen | 389803 | [389803-tsukiyo-ni-karen.json](./389803-tsukiyo-ni-karen.json) |
 | Tsukiyo no Mura | 77724 | [77724-tsukiyo-no-mura.json](./77724-tsukiyo-no-mura.json) |
 | Tsukkomi! Magical Balls | 82554 | [82554-tsukkomi-magical-balls.json](./82554-tsukkomi-magical-balls.json) |
 | Tsukodome | 280469 | [280469-tsukodome.json](./280469-tsukodome.json) |
