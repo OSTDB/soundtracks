@@ -3331,6 +3331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sci-Fi Highway Racer | 105606 | [105606-sci-fi-highway-racer.json](./105606-sci-fi-highway-racer.json) |
 | Sci-Fi Pinball | 69691 | [69691-sci-fi-pinball.json](./69691-sci-fi-pinball.json) |
 | Sci-Fi Racer Simulator | 283245 | [283245-sci-fi-racer-simulator.json](./283245-sci-fi-racer-simulator.json) |
+| Sci-Futa | 352462 | [352462-sci-futa.json](./352462-sci-futa.json) |
 | SCI-Hard | 368255 | [368255-sci-hard.json](./368255-sci-hard.json) |
 | SciAnts Evolved | 123214 | [123214-sciants-evolved.json](./123214-sciants-evolved.json) |
 | Scicry | 390206 | [390206-scicry.json](./390206-scicry.json) |
@@ -4033,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrutinized | 136668 | [136668-scrutinized.json](./136668-scrutinized.json) |
 | ScruTiny in the Great Round | 172409 | [172409-scrutiny-in-the-great-round.json](./172409-scrutiny-in-the-great-round.json) |
 | Scruzzleword | 21582 | [21582-scruzzleword.json](./21582-scruzzleword.json) |
+| Scryer's Shadow | 352460 | [352460-scryers-shadow.json](./352460-scryers-shadow.json) |
 | SCS deOrbit | 36050 | [36050-scs-deorbit.json](./36050-scs-deorbit.json) |
 | SCSIcide | 70766 | [70766-scsicide.json](./70766-scsicide.json) |
 | Scuba Bear | 178678 | [178678-scuba-bear.json](./178678-scuba-bear.json) |
@@ -14832,6 +14834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slopey | 96918 | [96918-slopey.json](./96918-slopey.json) |
 | Sloppy Eater | 186593 | [186593-sloppy-eater.json](./186593-sloppy-eater.json) |
 | Sloppy Eater: Meal Deal Edition | 186638 | [186638-sloppy-eater-meal-deal-edition.json](./186638-sloppy-eater-meal-deal-edition.json) |
+| Sloppy Fields | 352458 | [352458-sloppy-fields.json](./352458-sloppy-fields.json) |
 | Sloppy Goat | 93782 | [93782-sloppy-goat.json](./93782-sloppy-goat.json) |
 | Sloppy Shopping | 183298 | [183298-sloppy-shopping.json](./183298-sloppy-shopping.json) |
 | Sloptoberfest | 423070 | [423070-sloptoberfest.json](./423070-sloptoberfest.json) |
@@ -15743,6 +15746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Detective | 116008 | [116008-snail-detective.json](./116008-snail-detective.json) |
 | Snail Mail | 84877 | [84877-snail-mail.json](./84877-snail-mail.json) |
 | Snail Maze | 46118 | [46118-snail-maze.json](./46118-snail-maze.json) |
+| Snail Race | 352467 | [352467-snail-race.json](./352467-snail-race.json) |
 | Snail Racer Extreme | 99054 | [99054-snail-racer-extreme.json](./99054-snail-racer-extreme.json) |
 | Snail Runner | 105470 | [105470-snail-runner.json](./105470-snail-runner.json) |
 | Snail Simulator | 272721 | [272721-snail-simulator.json](./272721-snail-simulator.json) |
@@ -26676,6 +26680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfell | 372792 | [372792-starfell.json](./372792-starfell.json) |
 | StarFence: Heroic Edition | 35498 | [35498-starfence-heroic-edition.json](./35498-starfence-heroic-edition.json) |
 | Starfend | 268962 | [268962-starfend.json](./268962-starfend.json) |
+| Starfield Battlegrounds | 352468 | [352468-starfield-battlegrounds.json](./352468-starfield-battlegrounds.json) |
 | Starfield Digipick-Locking Minigame Simulator | 269304 | [269304-starfield-digipick-locking-minigame-simulator.json](./269304-starfield-digipick-locking-minigame-simulator.json) |
 | Starfield: Constellation Edition | 254216 | [254216-starfield-constellation-edition.json](./254216-starfield-constellation-edition.json) |
 | Starfield: Premium Edition | 254215 | [254215-starfield-premium-edition.json](./254215-starfield-premium-edition.json) |
