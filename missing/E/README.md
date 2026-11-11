@@ -1302,6 +1302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edgar | 193072 | [193072-edgar.json](./193072-edgar.json) |
 | Edgar | 33189 | [33189-edgar.json](./33189-edgar.json) |
 | Edgar A. Poe: The Oval Portrait | 205109 | [205109-edgar-a-poe-the-oval-portrait.json](./205109-edgar-a-poe-the-oval-portrait.json) |
+| Edgar Allan Poe's Interactive Horror: 1995 Edition | 386640 | [386640-edgar-allan-poes-interactive-horror-1995-edition.json](./386640-edgar-allan-poes-interactive-horror-1995-edition.json) |
 | Edgar Torronteras Extreme Biker | 24112 | [24112-edgar-torronteras-extreme-biker.json](./24112-edgar-torronteras-extreme-biker.json) |
 | Edgar Torronteras' Moto-X 2000 | 63629 | [63629-edgar-torronteras-moto-x-2000.json](./63629-edgar-torronteras-moto-x-2000.json) |
 | Edgar: Bokbok in Boulzac | 114591 | [114591-edgar-bokbok-in-boulzac.json](./114591-edgar-bokbok-in-boulzac.json) |
@@ -1835,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egyptian Settlement | 53993 | [53993-egyptian-settlement.json](./53993-egyptian-settlement.json) |
 | Egyptian Settlement Gold | 35308 | [35308-egyptian-settlement-gold.json](./35308-egyptian-settlement-gold.json) |
 | Egyptian Trilogy | 209179 | [209179-egyptian-trilogy.json](./209179-egyptian-trilogy.json) |
+| EGZ | 386650 | [386650-egz.json](./386650-egz.json) |
 | Ehandcipation | 119874 | [119874-ehandcipation.json](./119874-ehandcipation.json) |
 | Ehrgeiz | 1361 | [1361-ehrgeiz.json](./1361-ehrgeiz.json) |
 | Ehub Cities: Blackout | 392004 | [392004-ehub-cities-blackout.json](./392004-ehub-cities-blackout.json) |
@@ -4148,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endlight | 157905 | [157905-endlight.json](./157905-endlight.json) |
 | Endline | 144984 | [144984-endline.json](./144984-endline.json) |
 | Endling | 187734 | [187734-endling.json](./187734-endling.json) |
+| Endling | 386652 | [386652-endling.json](./386652-endling.json) |
 | Endling: Extinction is Forever | 105623 | [105623-endling-extinction-is-forever.json](./105623-endling-extinction-is-forever.json) |
 | Endloop | 295818 | [295818-endloop.json](./295818-endloop.json) |
 | Endme | 316571 | [316571-endme.json](./316571-endme.json) |
@@ -4963,6 +4966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epitaph: The Parchment Anthology | 399589 | [399589-epitaph-the-parchment-anthology.json](./399589-epitaph-the-parchment-anthology.json) |
 | Epitasis | 52051 | [52051-epitasis.json](./52051-epitasis.json) |
 | Epithymía | 352759 | [352759-epithymia.json](./352759-epithymia.json) |
+| Epitome | 386631 | [386631-epitome.json](./386631-epitome.json) |
 | Epoch | 16939 | [16939-epoch.json](./16939-epoch.json) |
 | Epoch | 19304 | [19304-epoch.json](./19304-epoch.json) |
 | Epoch | 24889 | [24889-epoch.json](./24889-epoch.json) |
