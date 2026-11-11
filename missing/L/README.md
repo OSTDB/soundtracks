@@ -2521,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left = Lose | 178622 | [178622-left-lose.json](./178622-left-lose.json) |
 | Left 2 Dating | 207809 | [207809-left-2-dating.json](./207809-left-2-dating.json) |
 | Left 2Die | 94045 | [94045-left-2die.json](./94045-left-2die.json) |
+| Left 4 Bread | 387846 | [387846-left-4-bread.json](./387846-left-4-bread.json) |
 | Left 4 Dead 2 Beta Pack | 358317 | [358317-left-4-dead-2-beta-pack.json](./358317-left-4-dead-2-beta-pack.json) |
 | Left 4 Dead 2: Alien Trilogy | 309209 | [309209-left-4-dead-2-alien-trilogy.json](./309209-left-4-dead-2-alien-trilogy.json) |
 | Left 4 Dead 2: Nightmare | 358402 | [358402-left-4-dead-2-nightmare.json](./358402-left-4-dead-2-nightmare.json) |
