@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Action | 364974 | [364974-magnetic-action.json](./364974-magnetic-action.json) |
 | Magnetic Billiards | 47276 | [47276-magnetic-billiards.json](./47276-magnetic-billiards.json) |
 | Magnetic Billiards: Blueprint | 22314 | [22314-magnetic-billiards-blueprint.json](./22314-magnetic-billiards-blueprint.json) |
+| Magnetic Block Puzzle | 367877 | [367877-magnetic-block-puzzle.json](./367877-magnetic-block-puzzle.json) |
 | Magnetic Bonds | 208563 | [208563-magnetic-bonds.json](./208563-magnetic-bonds.json) |
 | Magnetic By Nature | 17322 | [17322-magnetic-by-nature.json](./17322-magnetic-by-nature.json) |
 | Magnetic Crane | 70952 | [70952-magnetic-crane.json](./70952-magnetic-crane.json) |
@@ -19038,6 +19039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Racing Triple Pack | 149047 | [149047-motorbike-racing-triple-pack.json](./149047-motorbike-racing-triple-pack.json) |
 | Motorbike Shop Simulator 2025 | 372971 | [372971-motorbike-shop-simulator-2025.json](./372971-motorbike-shop-simulator-2025.json) |
 | Motorbike Simulator MX Driving | 312446 | [312446-motorbike-simulator-mx-driving.json](./312446-motorbike-simulator-mx-driving.json) |
+| Motorbike Video Puzzle | 368384 | [368384-motorbike-video-puzzle.json](./368384-motorbike-video-puzzle.json) |
 | Motorbikes Pro 2025 | 328737 | [328737-motorbikes-pro-2025.json](./328737-motorbikes-pro-2025.json) |
 | Motorbikes Pro 2025: Discovery Edition | 399822 | [399822-motorbikes-pro-2025-discovery-edition.json](./399822-motorbikes-pro-2025-discovery-edition.json) |
 | Motorbikes Pro 2025: Prime Edition | 404281 | [404281-motorbikes-pro-2025-prime-edition.json](./404281-motorbikes-pro-2025-prime-edition.json) |
@@ -19261,6 +19263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mourningwood Lodge 2: Hidden Voice | 375487 | [375487-mourningwood-lodge-2-hidden-voice.json](./375487-mourningwood-lodge-2-hidden-voice.json) |
 | Mournwake: Across the Styx | 422846 | [422846-mournwake-across-the-styx.json](./422846-mournwake-across-the-styx.json) |
 | Mouryou Senki Madara | 48418 | [48418-mouryou-senki-madara.json](./48418-mouryou-senki-madara.json) |
+| Mouse | 367884 | [367884-mouse.json](./367884-mouse.json) |
 | Mouse (Sneaking) | 81968 | [81968-mouse-sneaking.json](./81968-mouse-sneaking.json) |
 | Mouse & Crane | 302243 | [302243-mouse-and-crane.json](./302243-mouse-and-crane.json) |
 | Mouse adventure | 152956 | [152956-mouse-adventure.json](./152956-mouse-adventure.json) |
@@ -23048,6 +23051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Lover 2: Forgotten Truth | 275490 | [275490-mystery-lover-2-forgotten-truth.json](./275490-mystery-lover-2-forgotten-truth.json) |
 | Mystery Lover: Nonexistent Memories | 365053 | [365053-mystery-lover-nonexistent-memories.json](./365053-mystery-lover-nonexistent-memories.json) |
 | Mystery Lover: Nonexistent Summer | 259722 | [259722-mystery-lover-nonexistent-summer.json](./259722-mystery-lover-nonexistent-summer.json) |
+| Mystery Mania | 368404 | [368404-mystery-mania.json](./368404-mystery-mania.json) |
 | Mystery Manor | 88456 | [88456-mystery-manor.json](./88456-mystery-manor.json) |
 | Mystery Manor: Hidden Objects | 104411 | [104411-mystery-manor-hidden-objects.json](./104411-mystery-manor-hidden-objects.json) |
 | Mystery Mansion | 251102 | [251102-mystery-mansion.json](./251102-mystery-mansion.json) |
