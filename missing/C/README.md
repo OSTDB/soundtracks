@@ -9501,6 +9501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cipher-8 | 263882 | [263882-cipher-8.json](./263882-cipher-8.json) |
 | Ciphercell | 144753 | [144753-ciphercell.json](./144753-ciphercell.json) |
 | CipherCraft: Cyber Guardian Introduction | 278690 | [278690-ciphercraft-cyber-guardian-introduction.json](./278690-ciphercraft-cyber-guardian-introduction.json) |
+| CipherMind | 350099 | [350099-ciphermind.json](./350099-ciphermind.json) |
 | CipherPilot | 155863 | [155863-cipherpilot.json](./155863-cipherpilot.json) |
 | Cipheur | 330901 | [330901-cipheur.json](./330901-cipheur.json) |
 | Cipheur - Famous People Quotes 3 | 361018 | [361018-cipheur-famous-people-quotes-3.json](./361018-cipheur-famous-people-quotes-3.json) |
@@ -13699,6 +13700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CometStriker DX | 238813 | [238813-cometstriker-dx.json](./238813-cometstriker-dx.json) |
 | Comfort | 134414 | [134414-comfort.json](./134414-comfort.json) |
 | Comfort | 195880 | [195880-comfort.json](./195880-comfort.json) |
+| Comfort and Warmth | 350083 | [350083-comfort-and-warmth.json](./350083-comfort-and-warmth.json) |
 | Comfort Zone | 266724 | [266724-comfort-zone.json](./266724-comfort-zone.json) |
 | Comforting Sounds | 183924 | [183924-comforting-sounds.json](./183924-comforting-sounds.json) |
 | Comfwee Café | 393517 | [393517-comfwee-cafe.json](./393517-comfwee-cafe.json) |
