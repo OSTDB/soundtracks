@@ -7612,6 +7612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Elves II: The Return of the Christmas Presents! | 268189 | [268189-evil-elves-ii-the-return-of-the-christmas-presents.json](./268189-evil-elves-ii-the-return-of-the-christmas-presents.json) |
 | Evil Empire | 245093 | [245093-evil-empire.json](./245093-evil-empire.json) |
 | Evil Exhumed | 271530 | [271530-evil-exhumed.json](./271530-evil-exhumed.json) |
+| Evil Eye | 380341 | [380341-evil-eye.json](./380341-evil-eye.json) |
 | Evil Eye | 94612 | [94612-evil-eye.json](./94612-evil-eye.json) |
 | Evil Eyes | 289560 | [289560-evil-eyes.json](./289560-evil-eyes.json) |
 | Evil Factory | 74790 | [74790-evil-factory.json](./74790-evil-factory.json) |
