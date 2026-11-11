@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanshakudama Nage Kantarou no Tokaido Gojuusan-tsugi | 48443 | [48443-kanshakudama-nage-kantarou-no-tokaido-gojuusan-tsugi.json](./48443-kanshakudama-nage-kantarou-no-tokaido-gojuusan-tsugi.json) |
 | Kanso | 153520 | [153520-kanso.json](./153520-kanso.json) |
 | Kantai Collection | 12737 | [12737-kantai-collection.json](./12737-kantai-collection.json) |
+| Kantmis-Zero | 387271 | [387271-kantmis-zero.json](./387271-kantmis-zero.json) |
 | Kanto Expansion Pak | 282044 | [282044-kanto-expansion-pak.json](./282044-kanto-expansion-pak.json) |
 | Kanuchi: Futatsu No Tsubasa | 56765 | [56765-kanuchi-futatsu-no-tsubasa.json](./56765-kanuchi-futatsu-no-tsubasa.json) |
 | Kanuchi: Kuroki Tsubasa no Shou | 218646 | [218646-kanuchi-kuroki-tsubasa-no-shou.json](./218646-kanuchi-kuroki-tsubasa-no-shou.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5300,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Mekuri Clover Mini Fandisk | 399195 | [399195-koi-mekuri-clover-mini-fandisk.json](./399195-koi-mekuri-clover-mini-fandisk.json) |
 | Koi Mekuri Clover: Itsuka no Kimi he, Yakusoku no Ashita wo | 399190 | [399190-koi-mekuri-clover-itsuka-no-kimi-he-yakusoku-no-ashita-wo.json](./399190-koi-mekuri-clover-itsuka-no-kimi-he-yakusoku-no-ashita-wo.json) |
 | Koi Musubi | 30780 | [30780-koi-musubi.json](./30780-koi-musubi.json) |
+| Koi ni ha Amae ga Hitsuyou Desu | 387177 | [387177-koi-ni-ha-amae-ga-hitsuyou-desu.json](./387177-koi-ni-ha-amae-ga-hitsuyou-desu.json) |
 | Koi ni Ochite ha Ikenai 20-ppun | 347035 | [347035-koi-ni-ochite-ha-ikenai-20-ppun.json](./347035-koi-ni-ochite-ha-ikenai-20-ppun.json) |
 | Koi ni, Kanmi o Soete | 83402 | [83402-koi-ni-kanmi-o-soete.json](./83402-koi-ni-kanmi-o-soete.json) |
 | Koi no Hanasaku Hyakkaen | 136929 | [136929-koi-no-hanasaku-hyakkaen.json](./136929-koi-no-hanasaku-hyakkaen.json) |
