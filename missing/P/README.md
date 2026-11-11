@@ -10712,6 +10712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plowing | 276190 | [276190-plowing.json](./276190-plowing.json) |
 | Plowing Through | 271806 | [271806-plowing-through.json](./271806-plowing-through.json) |
 | Plox Neon | 80963 | [80963-plox-neon.json](./80963-plox-neon.json) |
+| Pls Kill it. | 368162 | [368162-pls-kill-it.json](./368162-pls-kill-it.json) |
 | Pluck | 35986 | [35986-pluck.json](./35986-pluck.json) |
 | Pluck It | 105910 | [105910-pluck-it.json](./105910-pluck-it.json) |
 | Plucked | 410004 | [410004-plucked.json](./410004-plucked.json) |
@@ -12217,6 +12218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Umbra Moon | 288202 | [288202-pokemon-umbra-moon.json](./288202-pokemon-umbra-moon.json) |
 | Pokémon Unbound | 141663 | [141663-pokemon-unbound.json](./141663-pokemon-unbound.json) |
 | Pokémon Unbreakable Ties | 271214 | [271214-pokemon-unbreakable-ties.json](./271214-pokemon-unbreakable-ties.json) |
+| Pokémon Uncanny Version | 368159 | [368159-pokemon-uncanny-version.json](./368159-pokemon-uncanny-version.json) |
 | Pokémon Unite | 135381 | [135381-pokemon-unite.json](./135381-pokemon-unite.json) |
 | Pokémon Unite: Season 1 | 194419 | [194419-pokemon-unite-season-1.json](./194419-pokemon-unite-season-1.json) |
 | Pokémon Unite: Season 2 | 194418 | [194418-pokemon-unite-season-2.json](./194418-pokemon-unite-season-2.json) |
