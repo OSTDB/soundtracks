@@ -6758,6 +6758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Ambush | 68280 | [68280-gold-ambush.json](./68280-gold-ambush.json) |
 | Gold and Bricks | 350296 | [350296-gold-and-bricks.json](./350296-gold-and-bricks.json) |
 | Gold and Gems | 3274 | [3274-gold-and-gems.json](./3274-gold-and-gems.json) |
+| Gold and Glory | 357523 | [357523-gold-and-glory.json](./357523-gold-and-glory.json) |
 | Gold and Glory: The Road to El Dorado | 13776 | [13776-gold-and-glory-the-road-to-el-dorado.json](./13776-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold and Glory: The Road to El Dorado | 209636 | [209636-gold-and-glory-the-road-to-el-dorado.json](./209636-gold-and-glory-the-road-to-el-dorado.json) |
 | Gold and Graves | 345281 | [345281-gold-and-graves.json](./345281-gold-and-graves.json) |
@@ -10461,6 +10462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grorb: Grow the Orb | 348141 | [348141-grorb-grow-the-orb.json](./348141-grorb-grow-the-orb.json) |
 | Grordbattle | 116386 | [116386-grordbattle.json](./116386-grordbattle.json) |
 | Gross | 150091 | [150091-gross.json](./150091-gross.json) |
+| Grosseries | 357532 | [357532-grosseries.json](./357532-grosseries.json) |
 | Grot Slasher | 203668 | [203668-grot-slasher.json](./203668-grot-slasher.json) |
 | Grotesk | 405312 | [405312-grotesk.json](./405312-grotesk.json) |
 | Grotesque Beauty | 117206 | [117206-grotesque-beauty.json](./117206-grotesque-beauty.json) |
