@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RainyDay | 265243 | [265243-rainyday.json](./265243-rainyday.json) |
 | Raioh | 265303 | [265303-raioh.json](./265303-raioh.json) |
 | Raiohgar: Asuka and the King of Steel | 126816 | [126816-raiohgar-asuka-and-the-king-of-steel.json](./126816-raiohgar-asuka-and-the-king-of-steel.json) |
+| Raion | 321724 | [321724-raion.json](./321724-raion.json) |
 | Raios Funde | 245012 | [245012-raios-funde.json](./245012-raios-funde.json) |
 | Raise | 216948 | [216948-raise.json](./216948-raise.json) |
 | Raise | 239556 | [239556-raise.json](./239556-raise.json) |
@@ -8542,7 +8543,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Front | 149679 | [149679-rising-front.json](./149679-rising-front.json) |
 | Rising Hazard | 180405 | [180405-rising-hazard.json](./180405-rising-hazard.json) |
 | Rising Heat | 319372 | [319372-rising-heat.json](./319372-rising-heat.json) |
-| Rising Hell | 108409 | [108409-rising-hell.json](./108409-rising-hell.json) |
 | Rising Islands | 19242 | [19242-rising-islands.json](./19242-rising-islands.json) |
 | Rising Islands: Collector's Edition | 53515 | [53515-rising-islands-collectors-edition.json](./53515-rising-islands-collectors-edition.json) |
 | Rising Lands | 94667 | [94667-rising-lands.json](./94667-rising-lands.json) |
