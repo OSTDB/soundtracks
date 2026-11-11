@@ -4400,6 +4400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penrose | 262681 | [262681-penrose.json](./262681-penrose.json) |
 | Penroses | 181880 | [181880-penroses.json](./181880-penroses.json) |
 | Pens: Ballad of the Erasers | 214271 | [214271-pens-ballad-of-the-erasers.json](./214271-pens-ballad-of-the-erasers.json) |
+| Pens: The Freeware Collection | 388434 | [388434-pens-the-freeware-collection.json](./388434-pens-the-freeware-collection.json) |
 | Pensate | 117025 | [117025-pensate.json](./117025-pensate.json) |
 | Pense Bem | 230665 | [230665-pense-bem.json](./230665-pense-bem.json) |
 | Pense Bem | 305889 | [305889-pense-bem.json](./305889-pense-bem.json) |
@@ -6171,6 +6172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physics car Forever | 143299 | [143299-physics-car-forever.json](./143299-physics-car-forever.json) |
 | Physics Cats in Space | 97053 | [97053-physics-cats-in-space.json](./97053-physics-cats-in-space.json) |
 | Physics Drop | 100924 | [100924-physics-drop.json](./100924-physics-drop.json) |
+| Physics Lab | 388435 | [388435-physics-lab.json](./388435-physics-lab.json) |
 | Physics Overdrive | 252935 | [252935-physics-overdrive.json](./252935-physics-overdrive.json) |
 | Physics Playground | 372071 | [372071-physics-playground.json](./372071-physics-playground.json) |
 | Physics Puzzle Ball | 358034 | [358034-physics-puzzle-ball.json](./358034-physics-puzzle-ball.json) |
@@ -14424,6 +14426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerful Courses | 371123 | [371123-powerful-courses.json](./371123-powerful-courses.json) |
 | Powerful Dabl | 271905 | [271905-powerful-dabl.json](./271905-powerful-dabl.json) |
 | Powerful Golf | 122502 | [122502-powerful-golf.json](./122502-powerful-golf.json) |
+| Powerful Pro Yakyuu 2026-2027 | 388457 | [388457-powerful-pro-yakyuu-2026-2027.json](./388457-powerful-pro-yakyuu-2026-2027.json) |
 | Powerful Wind, Slicked-back Cabbages | 327360 | [327360-powerful-wind-slicked-back-cabbages.json](./327360-powerful-wind-slicked-back-cabbages.json) |
 | Powerful Wind, Slicked-back Hair, But It’s a Game | 393484 | [393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json](./393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json) |
 | Powerglove | 183459 | [183459-powerglove.json](./183459-powerglove.json) |
