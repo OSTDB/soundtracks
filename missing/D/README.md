@@ -6139,6 +6139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Dome | 58896 | [58896-defense-dome.json](./58896-defense-dome.json) |
 | Defense Golem | 319422 | [319422-defense-golem.json](./319422-defense-golem.json) |
 | Defense Grid 2 | 10184 | [10184-defense-grid-2.json](./10184-defense-grid-2.json) |
+| Defense Grid 2: Aftermath | 394257 | [394257-defense-grid-2-aftermath.json](./394257-defense-grid-2-aftermath.json) |
 | Defense Grid 2: Enhanced VR Edition | 58745 | [58745-defense-grid-2-enhanced-vr-edition.json](./58745-defense-grid-2-enhanced-vr-edition.json) |
 | Defense Grid: DLC Bundle | 227415 | [227415-defense-grid-dlc-bundle.json](./227415-defense-grid-dlc-bundle.json) |
 | Defense Grid: The Awakening | 8190 | [8190-defense-grid-the-awakening.json](./8190-defense-grid-the-awakening.json) |
@@ -8604,6 +8605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Kings | 22568 | [22568-devil-kings.json](./22568-devil-kings.json) |
 | Devil Kiss | 196443 | [196443-devil-kiss.json](./196443-devil-kiss.json) |
 | Devil Legion: Battle war | 193889 | [193889-devil-legion-battle-war.json](./193889-devil-legion-battle-war.json) |
+| Devil Lift | 393685 | [393685-devil-lift.json](./393685-devil-lift.json) |
 | Devil Mail | 318758 | [318758-devil-mail.json](./318758-devil-mail.json) |
 | Devil Maker: Tokyo | 39183 | [39183-devil-maker-tokyo.json](./39183-devil-maker-tokyo.json) |
 | Devil May Cry | 302712 | [302712-devil-may-cry.json](./302712-devil-may-cry.json) |
@@ -9291,6 +9293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dick Wilde 2 | 114006 | [114006-dick-wilde-2.json](./114006-dick-wilde-2.json) |
 | Dickdown Duel | 197407 | [197407-dickdown-duel.json](./197407-dickdown-duel.json) |
 | Dickie A Cumming: The Prequel | 196033 | [196033-dickie-a-cumming-the-prequel.json](./196033-dickie-a-cumming-the-prequel.json) |
+| Dickland | 393697 | [393697-dickland.json](./393697-dickland.json) |
 | Dickland: Horror Quest | 253980 | [253980-dickland-horror-quest.json](./253980-dickland-horror-quest.json) |
 | Dickland: Mini Games | 367281 | [367281-dickland-mini-games.json](./367281-dickland-mini-games.json) |
 | Dickland: Quest | 367280 | [367280-dickland-quest.json](./367280-dickland-quest.json) |
