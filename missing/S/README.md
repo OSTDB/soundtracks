@@ -2546,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Dodos: Special Edition | 53577 | [53577-save-the-dodos-special-edition.json](./53577-save-the-dodos-special-edition.json) |
 | Save the Doge | 212441 | [212441-save-the-doge.json](./212441-save-the-doge.json) |
 | Save The Doge | 387574 | [387574-save-the-doge.json](./387574-save-the-doge.json) |
+| Save The Doge 2 | 325779 | [325779-save-the-doge-2.json](./325779-save-the-doge-2.json) |
 | Save the Dungeon! | 265578 | [265578-save-the-dungeon.json](./265578-save-the-dungeon.json) |
 | Save the Earth | 230962 | [230962-save-the-earth.json](./230962-save-the-earth.json) |
 | Save the Eggs | 416110 | [416110-save-the-eggs.json](./416110-save-the-eggs.json) |
@@ -17329,6 +17330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoMelody | 236956 | [236956-sokomelody.json](./236956-sokomelody.json) |
 | Sokomine | 368039 | [368039-sokomine.json](./368039-sokomine.json) |
 | Sokomini | 282380 | [282380-sokomini.json](./282380-sokomini.json) |
+| Sokomonster | 325773 | [325773-sokomonster.json](./325773-sokomonster.json) |
 | Sokomonster + Sokolab + Feed Your Cat | 335101 | [335101-sokomonster-sokolab-feed-your-cat.json](./335101-sokomonster-sokolab-feed-your-cat.json) |
 | Sokonashi No Me | 370883 | [370883-sokonashi-no-me.json](./370883-sokonashi-no-me.json) |
 | SokoNature | 324666 | [324666-sokonature.json](./324666-sokonature.json) |
@@ -27687,6 +27689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay with Me!: An Alien Abduction Story | 192638 | [192638-stay-with-me-an-alien-abduction-story.json](./192638-stay-with-me-an-alien-abduction-story.json) |
 | Stay Woke Etheral Edition | 75499 | [75499-stay-woke-etheral-edition.json](./75499-stay-woke-etheral-edition.json) |
 | Stay: Ember's Desktop Adventures | 411078 | [411078-stay-embers-desktop-adventures.json](./411078-stay-embers-desktop-adventures.json) |
+| Stay: Forever Home | 325749 | [325749-stay-forever-home.json](./325749-stay-forever-home.json) |
 | Stay: Your Forever Pet! | 410553 | [410553-stay-your-forever-pet.json](./410553-stay-your-forever-pet.json) |
 | Stay! Stay! Democratic People's Republic of Korea | 28861 | [28861-stay-stay-democratic-peoples-republic-of-korea.json](./28861-stay-stay-democratic-peoples-republic-of-korea.json) |
 | Stay? | 184073 | [184073-stay.json](./184073-stay.json) |
@@ -35791,6 +35794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super-Ferrari | 40592 | [40592-super-ferrari.json](./40592-super-ferrari.json) |
 | Super-Patriota Simulator | 238998 | [238998-super-patriota-simulator.json](./238998-super-patriota-simulator.json) |
 | Super-Space | 311002 | [311002-super-space.json](./311002-super-space.json) |
+| Super-Spatial | 325752 | [325752-super-spatial.json](./325752-super-spatial.json) |
 | Super-VGA Harrier | 70114 | [70114-super-vga-harrier.json](./70114-super-vga-harrier.json) |
 | Super-X | 46861 | [46861-super-x.json](./46861-super-x.json) |
 | Super: Taxi Simulation | 285692 | [285692-super-taxi-simulation.json](./285692-super-taxi-simulation.json) |
@@ -37099,6 +37103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Svea Rike 2 | 84179 | [84179-svea-rike-2.json](./84179-svea-rike-2.json) |
 | Sveerz | 201280 | [201280-sveerz.json](./201280-sveerz.json) |
 | Sveerz Deluxe | 78378 | [78378-sveerz-deluxe.json](./78378-sveerz-deluxe.json) |
+| Svekmas: The Game | 325772 | [325772-svekmas-the-game.json](./325772-svekmas-the-game.json) |
 | Sven - Gut zu Vogeln | 190486 | [190486-sven-gut-zu-vogeln.json](./190486-sven-gut-zu-vogeln.json) |
 | Sven 004 | 93299 | [93299-sven-004.json](./93299-sven-004.json) |
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
