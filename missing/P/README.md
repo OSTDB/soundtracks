@@ -11697,6 +11697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Battle e: 08-P006 - Elite Trainer no Yufu | 355505 | [355505-pokemon-battle-e-08-p006-elite-trainer-no-yufu.json](./355505-pokemon-battle-e-08-p006-elite-trainer-no-yufu.json) |
 | Pokémon Battle e: 129-B001 - Gentleman Nils | 355501 | [355501-pokemon-battle-e-129-b001-gentleman-nils.json](./355501-pokemon-battle-e-129-b001-gentleman-nils.json) |
 | Pokémon Battle e: 129-B002 - Lady Astrid | 355503 | [355503-pokemon-battle-e-129-b002-lady-astrid.json](./355503-pokemon-battle-e-129-b002-lady-astrid.json) |
+| Pokémon Battle Labyrinth | 350667 | [350667-pokemon-battle-labyrinth.json](./350667-pokemon-battle-labyrinth.json) |
 | Pokémon Battle Online | 323760 | [323760-pokemon-battle-online.json](./323760-pokemon-battle-online.json) |
 | Pokémon Battle Revolution | 2325 | [2325-pokemon-battle-revolution.json](./2325-pokemon-battle-revolution.json) |
 | Pokémon Battle Trozei | 8589 | [8589-pokemon-battle-trozei.json](./8589-pokemon-battle-trozei.json) |
@@ -12213,6 +12214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon SoulGold | 414034 | [414034-pokemon-soulgold.json](./414034-pokemon-soulgold.json) |
 | Pokémon Soulstones | 221276 | [221276-pokemon-soulstones.json](./221276-pokemon-soulstones.json) |
 | Pokémon Soulstones 2: Time Wardens | 334001 | [334001-pokemon-soulstones-2-time-wardens.json](./334001-pokemon-soulstones-2-time-wardens.json) |
+| Pokémon SpinSpinSpin | 350668 | [350668-pokemon-spinspinspin.json](./350668-pokemon-spinspinspin.json) |
 | Pokémon Spirits of the Storm | 397766 | [397766-pokemon-spirits-of-the-storm.json](./397766-pokemon-spirits-of-the-storm.json) |
 | Pokémon Splice | 146982 | [146982-pokemon-splice.json](./146982-pokemon-splice.json) |
 | Pokémon Stadium | 163098 | [163098-pokemon-stadium.json](./163098-pokemon-stadium.json) |
