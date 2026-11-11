@@ -3032,6 +3032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TCG Card Chaos | 415660 | [415660-tcg-card-chaos.json](./415660-tcg-card-chaos.json) |
 | TCG Card Collection: Tidy Up | 424614 | [424614-tcg-card-collection-tidy-up.json](./424614-tcg-card-collection-tidy-up.json) |
 | TCG Card Market Simulator | 323641 | [323641-tcg-card-market-simulator.json](./323641-tcg-card-market-simulator.json) |
+| TCG Card Market Simulator & Airport Manager Simulator 2025 & Heist Simulator 2025 | 373979 | [373979-tcg-card-market-simulator-and-airport-manager-simulator-2025-and-heist-simulator-2025.json](./373979-tcg-card-market-simulator-and-airport-manager-simulator-2025-and-heist-simulator-2025.json) |
 | TCG Card Shop Empire | 323680 | [323680-tcg-card-shop-empire.json](./323680-tcg-card-shop-empire.json) |
 | TCG Card Shop Manager | 328084 | [328084-tcg-card-shop-manager.json](./328084-tcg-card-shop-manager.json) |
 | TCG Card Shop Master | 322506 | [322506-tcg-card-shop-master.json](./322506-tcg-card-shop-master.json) |
@@ -17704,6 +17705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sisters 2: Road to Fame | 249972 | [249972-the-sisters-2-road-to-fame.json](./249972-the-sisters-2-road-to-fame.json) |
 | The Sisters Collection | 284733 | [284733-the-sisters-collection.json](./284733-the-sisters-collection.json) |
 | The Sisters: Party of the Year | 144079 | [144079-the-sisters-party-of-the-year.json](./144079-the-sisters-party-of-the-year.json) |
+| The Site: Night Shift | 373986 | [373986-the-site-night-shift.json](./373986-the-site-night-shift.json) |
 | The Six Dragons | 82572 | [82572-the-six-dragons.json](./82572-the-six-dragons.json) |
 | The Six Transgender Lesbian Goddesses of Love Are Having A Petty Argument, So They Try To Settle Things Alongside The Three Transgender Gay Gods of Flavor | 318796 | [318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json](./318796-the-six-transgender-lesbian-goddesses-of-love-are-having-a-petty-argument-so-they-try-to-settle-things-alongside-the-three-transgender-gay-gods-of-flavor.json) |
 | The Sixth Extinction | 391716 | [391716-the-sixth-extinction.json](./391716-the-sixth-extinction.json) |
@@ -32030,8 +32032,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Dive | 278504 | [278504-treasure-dive.json](./278504-treasure-dive.json) |
 | Treasure Dive | 317459 | [317459-treasure-dive.json](./317459-treasure-dive.json) |
 | Treasure Drop | 373651 | [373651-treasure-drop.json](./373651-treasure-drop.json) |
+| Treasure Drop: Algae Valley DLC | 373987 | [373987-treasure-drop-algae-valley-dlc.json](./373987-treasure-drop-algae-valley-dlc.json) |
 | Treasure Drop: Complete Edition | 385211 | [385211-treasure-drop-complete-edition.json](./385211-treasure-drop-complete-edition.json) |
+| Treasure Drop: Coral Reef DLC | 373988 | [373988-treasure-drop-coral-reef-dlc.json](./373988-treasure-drop-coral-reef-dlc.json) |
+| Treasure Drop: Deep Trench DLC | 373989 | [373989-treasure-drop-deep-trench-dlc.json](./373989-treasure-drop-deep-trench-dlc.json) |
 | Treasure Drop: Gold Edition | 376775 | [376775-treasure-drop-gold-edition.json](./376775-treasure-drop-gold-edition.json) |
+| Treasure Drop: Open Sea DLC | 373990 | [373990-treasure-drop-open-sea-dlc.json](./373990-treasure-drop-open-sea-dlc.json) |
 | Treasure Far Away | 184166 | [184166-treasure-far-away.json](./184166-treasure-far-away.json) |
 | Treasure Flea Market | 382355 | [382355-treasure-flea-market.json](./382355-treasure-flea-market.json) |
 | Treasure Forest Clicker | 350494 | [350494-treasure-forest-clicker.json](./350494-treasure-forest-clicker.json) |
