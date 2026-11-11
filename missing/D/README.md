@@ -10267,6 +10267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Panic | 351680 | [351680-dino-panic.json](./351680-dino-panic.json) |
 | Dino Park | 290253 | [290253-dino-park.json](./290253-dino-park.json) |
 | Dino Party | 382519 | [382519-dino-party.json](./382519-dino-party.json) |
+| Dino Party Island | 368425 | [368425-dino-party-island.json](./368425-dino-party-island.json) |
 | Dino Path Trail | 258308 | [258308-dino-path-trail.json](./258308-dino-path-trail.json) |
 | Dino Pet Walker | 394535 | [394535-dino-pet-walker.json](./394535-dino-pet-walker.json) |
 | Dino Precision Platformer | 303476 | [303476-dino-precision-platformer.json](./303476-dino-precision-platformer.json) |
@@ -13963,6 +13964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom + Doom II | 313126 | [313126-doom-doom-ii.json](./313126-doom-doom-ii.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom 2 In Name Only | 294749 | [294749-doom-2-in-name-only.json](./294749-doom-2-in-name-only.json) |
+| Doom 2 In Rural Only | 368423 | [368423-doom-2-in-rural-only.json](./368423-doom-2-in-rural-only.json) |
 | Doom 2 In Spain Only | 258890 | [258890-doom-2-in-spain-only.json](./258890-doom-2-in-spain-only.json) |
 | Doom 2 Reloaded | 160288 | [160288-doom-2-reloaded.json](./160288-doom-2-reloaded.json) |
 | Doom 2 the Way id Did | 141066 | [141066-doom-2-the-way-id-did.json](./141066-doom-2-the-way-id-did.json) |
