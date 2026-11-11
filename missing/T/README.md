@@ -2869,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taurus VR | 127776 | [127776-taurus-vr.json](./127776-taurus-vr.json) |
 | Taurus War | 290701 | [290701-taurus-war.json](./290701-taurus-war.json) |
 | Tavenier | 81420 | [81420-tavenier.json](./81420-tavenier.json) |
+| Tavern Adventures | 391397 | [391397-tavern-adventures.json](./391397-tavern-adventures.json) |
 | Tavern Brawl: Tactics | 239981 | [239981-tavern-brawl-tactics.json](./239981-tavern-brawl-tactics.json) |
 | Tavern Cards | 129098 | [129098-tavern-cards.json](./129098-tavern-cards.json) |
 | Tavern Crawl | 192234 | [192234-tavern-crawl.json](./192234-tavern-crawl.json) |
@@ -11986,6 +11987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jolly Gang's Misadventures in Africa | 53751 | [53751-the-jolly-gangs-misadventures-in-africa.json](./53751-the-jolly-gangs-misadventures-in-africa.json) |
 | The Jolly Gangs Spooky Adventure | 53752 | [53752-the-jolly-gangs-spooky-adventure.json](./53752-the-jolly-gangs-spooky-adventure.json) |
 | The Jongg CD | 80184 | [80184-the-jongg-cd.json](./80184-the-jongg-cd.json) |
+| The Joogle Bros. | 391396 | [391396-the-joogle-bros.json](./391396-the-joogle-bros.json) |
 | The Journal of Ambrose Brant | 401025 | [401025-the-journal-of-ambrose-brant.json](./401025-the-journal-of-ambrose-brant.json) |
 | The Journalist | 280111 | [280111-the-journalist.json](./280111-the-journalist.json) |
 | The Journey | 118946 | [118946-the-journey.json](./118946-the-journey.json) |
@@ -17257,6 +17259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shopkeeper | 9481 | [9481-the-shopkeeper.json](./9481-the-shopkeeper.json) |
 | The Shopping List | 198373 | [198373-the-shopping-list.json](./198373-the-shopping-list.json) |
 | The Shore | 138862 | [138862-the-shore.json](./138862-the-shore.json) |
+| The Shore: Enhanced Edition | 391918 | [391918-the-shore-enhanced-edition.json](./391918-the-shore-enhanced-edition.json) |
 | The Shores of Stellaluna | 357001 | [357001-the-shores-of-stellaluna.json](./357001-the-shores-of-stellaluna.json) |
 | The Short Bread Game | 324900 | [324900-the-short-bread-game.json](./324900-the-short-bread-game.json) |
 | The Short Story of a Drifting Labyrinth | 82341 | [82341-the-short-story-of-a-drifting-labyrinth.json](./82341-the-short-story-of-a-drifting-labyrinth.json) |
@@ -25398,6 +25401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Edge of the Sky | 102534 | [102534-to-the-edge-of-the-sky.json](./102534-to-the-edge-of-the-sky.json) |
 | To the Eds-treme | 315086 | [315086-to-the-eds-treme.json](./315086-to-the-eds-treme.json) |
 | To the End 2 | 174304 | [174304-to-the-end-2.json](./174304-to-the-end-2.json) |
+| To the End of Days | 391874 | [391874-to-the-end-of-days.json](./391874-to-the-end-of-days.json) |
 | To the End of the Way | 327432 | [327432-to-the-end-of-the-way.json](./327432-to-the-end-of-the-way.json) |
 | To the Finale. | 373713 | [373713-to-the-finale.json](./373713-to-the-finale.json) |
 | To The Flame | 288587 | [288587-to-the-flame.json](./288587-to-the-flame.json) |
@@ -27758,6 +27762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchdown: Armor League | 28057 | [28057-touchdown-armor-league.json](./28057-touchdown-armor-league.json) |
 | Touchdowners | 106066 | [106066-touchdowners.json](./106066-touchdowners.json) |
 | Touché: The Adventures of the Fifth Musketeer | 13788 | [13788-touche-the-adventures-of-the-fifth-musketeer.json](./13788-touche-the-adventures-of-the-fifth-musketeer.json) |
+| Touched by an Outer God | 391901 | [391901-touched-by-an-outer-god.json](./391901-touched-by-an-outer-god.json) |
 | TouchFish | 137011 | [137011-touchfish.json](./137011-touchfish.json) |
 | Touchgrind | 66732 | [66732-touchgrind.json](./66732-touchgrind.json) |
 | Touchgrind BMX | 86849 | [86849-touchgrind-bmx.json](./86849-touchgrind-bmx.json) |
@@ -34754,6 +34759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twelve Chairs | 94370 | [94370-twelve-chairs.json](./94370-twelve-chairs.json) |
 | Twelve Containers | 137187 | [137187-twelve-containers.json](./137187-twelve-containers.json) |
 | Twelve Floors Below. | 173348 | [173348-twelve-floors-below.json](./173348-twelve-floors-below.json) |
+| Twelve Men Life Simulator | 391903 | [391903-twelve-men-life-simulator.json](./391903-twelve-men-life-simulator.json) |
 | Twelve Mental Patients | 359362 | [359362-twelve-mental-patients.json](./359362-twelve-mental-patients.json) |
 | Twelve Sky | 67321 | [67321-twelve-sky.json](./67321-twelve-sky.json) |
 | Twelve Sky 2 | 104129 | [104129-twelve-sky-2.json](./104129-twelve-sky-2.json) |
