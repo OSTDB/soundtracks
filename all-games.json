@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T22:40:54.842Z",
-  "total_soundtracks": 3153,
+  "generated_at": "2026-11-11T22:51:03.848Z",
+  "total_soundtracks": 3156,
   "games": [
     {
       "igdb_id": 7522,
@@ -8325,6 +8325,20 @@
       ]
     },
     {
+      "igdb_id": 270354,
+      "game_name": "Deep Rock Galactic: Rogue Core",
+      "game_url": "https://ostdb.net/games/deep-rock-galactic-rogue-core",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273857de5406613ab9919a25b80",
+      "albums": [
+        {
+          "album_name": "Deep Rock Galactic: Rogue Core (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7lrkyI2ucbtxYTdf1v8PZd",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 110503,
       "game_name": "Degrees of Separation",
       "game_url": "https://ostdb.net/games/degrees-of-separation",
@@ -10038,6 +10052,20 @@
           "album_name": "Dune: Awakening (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7ywGD6818xlYT3tawU95Hi",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 290897,
+      "game_name": "Dungeon Clawler",
+      "game_url": "https://ostdb.net/games/dungeon-clawler",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ab499d985a8423ec827d9570",
+      "albums": [
+        {
+          "album_name": "Dungeon Clawler Original Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1GnR9FuYFU1SQRScxI09Vq",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -19603,6 +19631,20 @@
         {
           "album_name": "Maize Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5L9O9mISxkqWHuGrqSNWi5",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 260528,
+      "game_name": "Manny's",
+      "game_url": "https://ostdb.net/games/mannys",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27309ba616aa47e53bb3872f6d8",
+      "albums": [
+        {
+          "album_name": "Manny's: Official Soundtrack of the Game",
+          "spotify_url": "https://open.spotify.com/album/4q3rOroIj9e8J8o8UGZbQY",
           "apple_music_url": "",
           "album_link_url": ""
         }
