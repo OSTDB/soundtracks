@@ -2652,7 +2652,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Mantis: Revenge | 264742 | [264742-immortal-mantis-revenge.json](./264742-immortal-mantis-revenge.json) |
 | Immortal Markets Stock Market Simulator Game | 312444 | [312444-immortal-markets-stock-market-simulator-game.json](./312444-immortal-markets-stock-market-simulator-game.json) |
 | Immortal Quest | 106398 | [106398-immortal-quest.json](./106398-immortal-quest.json) |
-| Immortal Realms: Vampire Wars | 119258 | [119258-immortal-realms-vampire-wars.json](./119258-immortal-realms-vampire-wars.json) |
 | Immortal Realms: Vampire Wars - Fangs and Bones | 238480 | [238480-immortal-realms-vampire-wars-fangs-and-bones.json](./238480-immortal-realms-vampire-wars-fangs-and-bones.json) |
 | Immortal Rebirth | 382764 | [382764-immortal-rebirth.json](./382764-immortal-rebirth.json) |
 | Immortal Redneck: Deluxe Edition | 53223 | [53223-immortal-redneck-deluxe-edition.json](./53223-immortal-redneck-deluxe-edition.json) |
