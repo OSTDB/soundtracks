@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball vs Block | 186185 | [186185-ball-vs-block.json](./186185-ball-vs-block.json) |
 | Ball vs. Zombie | 239102 | [239102-ball-vs-zombie.json](./239102-ball-vs-zombie.json) |
 | Ball Wall | 246864 | [246864-ball-wall.json](./246864-ball-wall.json) |
+| Ball Wall Jump Bump | 375693 | [375693-ball-wall-jump-bump.json](./375693-ball-wall-jump-bump.json) |
 | Ball With Pistons | 204807 | [204807-ball-with-pistons.json](./204807-ball-with-pistons.json) |
 | Ball X Pit: The Shadow Update | 400629 | [400629-ball-x-pit-the-shadow-update.json](./400629-ball-x-pit-the-shadow-update.json) |
 | Ball-e | 229823 | [229823-ball-e.json](./229823-ball-e.json) |
@@ -19498,6 +19499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buy Me Some Soup | 188682 | [188682-buy-me-some-soup.json](./188682-buy-me-some-soup.json) |
 | Buy My Snake Oil | 236645 | [236645-buy-my-snake-oil.json](./236645-buy-my-snake-oil.json) |
 | Buy Sell | 374158 | [374158-buy-sell.json](./374158-buy-sell.json) |
+| Buy the Game, I Have a Gun: Sheesh-Man - Digital Deluxe Mega Chad Edition | 375704 | [375704-buy-the-game-i-have-a-gun-sheesh-man-digital-deluxe-mega-chad-edition.json](./375704-buy-the-game-i-have-a-gun-sheesh-man-digital-deluxe-mega-chad-edition.json) |
 | Buyhads | 169872 | [169872-buyhads.json](./169872-buyhads.json) |
 | Buying Tomato | 394869 | [394869-buying-tomato.json](./394869-buying-tomato.json) |
 | Bǔyú Zhàfāntiān | 167346 | [167346-buyu-zhafantian.json](./167346-buyu-zhafantian.json) |
