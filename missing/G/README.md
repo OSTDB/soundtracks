@@ -4479,6 +4479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gibbonacci | 410992 | [410992-gibbonacci.json](./410992-gibbonacci.json) |
 | Gibbous: A Cthulhu Adventure | 18841 | [18841-gibbous-a-cthulhu-adventure.json](./18841-gibbous-a-cthulhu-adventure.json) |
 | Gibbous: A Cthulhu Adventure - Deluxe Edition | 124910 | [124910-gibbous-a-cthulhu-adventure-deluxe-edition.json](./124910-gibbous-a-cthulhu-adventure-deluxe-edition.json) |
+| Giblasnia | 370026 | [370026-giblasnia.json](./370026-giblasnia.json) |
 | Gibo: Sayaka | 128363 | [128363-gibo-sayaka.json](./128363-gibo-sayaka.json) |
 | Gibson | 375220 | [375220-gibson.json](./375220-gibson.json) |
 | Gibson Hyperdrive | 60189 | [60189-gibson-hyperdrive.json](./60189-gibson-hyperdrive.json) |
@@ -4805,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girlfriend's sister | 75784 | [75784-girlfriends-sister.json](./75784-girlfriends-sister.json) |
 | Girlfriends Forever: Magic Skate | 84511 | [84511-girlfriends-forever-magic-skate.json](./84511-girlfriends-forever-magic-skate.json) |
 | Girlfriends with Benefits | 206029 | [206029-girlfriends-with-benefits.json](./206029-girlfriends-with-benefits.json) |
+| Girlfriends: Office! | 370034 | [370034-girlfriends-office.json](./370034-girlfriends-office.json) |
 | Girlfriends: Rich vs Rebel | 263325 | [263325-girlfriends-rich-vs-rebel.json](./263325-girlfriends-rich-vs-rebel.json) |
 | GirlHub | 189982 | [189982-girlhub.json](./189982-girlhub.json) |
 | Girlish Grimoire Littlewitch Romanesque | 60425 | [60425-girlish-grimoire-littlewitch-romanesque.json](./60425-girlish-grimoire-littlewitch-romanesque.json) |
@@ -7604,7 +7606,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goombario and the Adventure of the Hot Lava Rocks | 328623 | [328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json](./328623-goombario-and-the-adventure-of-the-hot-lava-rocks.json) |
 | Goombario's Quest | 322546 | [322546-goombarios-quest.json](./322546-goombarios-quest.json) |
 | Gooms: A Physics Puzzle | 358048 | [358048-gooms-a-physics-puzzle.json](./358048-gooms-a-physics-puzzle.json) |
+| Goomy Clicker | 370404 | [370404-goomy-clicker.json](./370404-goomy-clicker.json) |
 | Goomy Clicker 1 | 370402 | [370402-goomy-clicker-1.json](./370402-goomy-clicker-1.json) |
+| Goomy Clicker 2 | 370403 | [370403-goomy-clicker-2.json](./370403-goomy-clicker-2.json) |
 | Goon Company | 400695 | [400695-goon-company.json](./400695-goon-company.json) |
 | Gooncrusher | 302113 | [302113-gooncrusher.json](./302113-gooncrusher.json) |
 | Goonect | 207212 | [207212-goonect.json](./207212-goonect.json) |
@@ -8012,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GP World | 6108 | [6108-gp-world.json](./6108-gp-world.json) |
 | GP-1 Part II | 42591 | [42591-gp-1-part-ii.json](./42591-gp-1-part-ii.json) |
 | Gpi | 171871 | [171871-gpi.json](./171871-gpi.json) |
+| GPMoto Challenge | 370607 | [370607-gpmoto-challenge.json](./370607-gpmoto-challenge.json) |
 | Gpop.io | 230192 | [230192-gpop-io.json](./230192-gpop-io.json) |
 | GPRO: Classic Racing Manager | 237723 | [237723-gpro-classic-racing-manager.json](./237723-gpro-classic-racing-manager.json) |
 | GPS Monster Scouter | 372137 | [372137-gps-monster-scouter.json](./372137-gps-monster-scouter.json) |
