@@ -5585,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Neon | 366503 | [366503-hentai-neon.json](./366503-hentai-neon.json) |
 | Hentai Neon Nights | 265608 | [265608-hentai-neon-nights.json](./265608-hentai-neon-nights.json) |
 | Hentai NetPuzzle | 366505 | [366505-hentai-netpuzzle.json](./366505-hentai-netpuzzle.json) |
+| Hentai NetWalk | 368422 | [368422-hentai-netwalk.json](./368422-hentai-netwalk.json) |
 | Hentai Night Club | 375521 | [375521-hentai-night-club.json](./375521-hentai-night-club.json) |
 | Hentai Night Milf | 371377 | [371377-hentai-night-milf.json](./371377-hentai-night-milf.json) |
 | Hentai Ninja Garden | 366506 | [366506-hentai-ninja-garden.json](./366506-hentai-ninja-garden.json) |
@@ -5828,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: The Red Act In Lockdown | 389604 | [389604-hentai-tales-the-red-act-in-lockdown.json](./389604-hentai-tales-the-red-act-in-lockdown.json) |
 | Hentai Tales: The World Only Maid | 295401 | [295401-hentai-tales-the-world-only-maid.json](./295401-hentai-tales-the-world-only-maid.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
+| Hentai Tales: Under Her Watch Forbidden Lessons | 368418 | [368418-hentai-tales-under-her-watch-forbidden-lessons.json](./368418-hentai-tales-under-her-watch-forbidden-lessons.json) |
 | Hentai Tales: Uninhabited Island | 332613 | [332613-hentai-tales-uninhabited-island.json](./332613-hentai-tales-uninhabited-island.json) |
 | Hentai Tanvi | 384692 | [384692-hentai-tanvi.json](./384692-hentai-tanvi.json) |
 | Hentai Temple | 104911 | [104911-hentai-temple.json](./104911-hentai-temple.json) |
@@ -5920,6 +5922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Zarhuna | 384690 | [384690-hentai-zarhuna.json](./384690-hentai-zarhuna.json) |
 | Hentai Zodiac Puzzle | 213723 | [213723-hentai-zodiac-puzzle.json](./213723-hentai-zodiac-puzzle.json) |
 | Hentai Zodiac Puzzle 2 | 213725 | [213725-hentai-zodiac-puzzle-2.json](./213725-hentai-zodiac-puzzle-2.json) |
+| Hentai Zombie Moriana | 368942 | [368942-hentai-zombie-moriana.json](./368942-hentai-zombie-moriana.json) |
 | Hentai: Area 51 | 148703 | [148703-hentai-area-51.json](./148703-hentai-area-51.json) |
 | Hentai: Beach Day | 296905 | [296905-hentai-beach-day.json](./296905-hentai-beach-day.json) |
 | Hentai: Color by Number | 368515 | [368515-hentai-color-by-number.json](./368515-hentai-color-by-number.json) |
@@ -11172,6 +11175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Office: Sex Story | 296910 | [296910-hot-office-sex-story.json](./296910-hot-office-sex-story.json) |
 | Hot Pickle! | 187035 | [187035-hot-pickle.json](./187035-hot-pickle.json) |
 | Hot Pieces | 384883 | [384883-hot-pieces.json](./384883-hot-pieces.json) |
+| Hot Pig Jump! | 368925 | [368925-hot-pig-jump.json](./368925-hot-pig-jump.json) |
 | Hot Pinball | 398447 | [398447-hot-pinball.json](./398447-hot-pinball.json) |
 | Hot Pinball Thrills | 35134 | [35134-hot-pinball-thrills.json](./35134-hot-pinball-thrills.json) |
 | Hot Pink | 100468 | [100468-hot-pink.json](./100468-hot-pink.json) |
@@ -13445,6 +13449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperforma | 96727 | [96727-hyperforma.json](./96727-hyperforma.json) |
 | Hyperforma: Lost Archives - Fragment I | 262316 | [262316-hyperforma-lost-archives-fragment-i.json](./262316-hyperforma-lost-archives-fragment-i.json) |
 | Hyperforma: Lost Archives - Fragment II | 262317 | [262317-hyperforma-lost-archives-fragment-ii.json](./262317-hyperforma-lost-archives-fragment-ii.json) |
+| Hyperfunk | 368929 | [368929-hyperfunk.json](./368929-hyperfunk.json) |
 | Hypergalactic Psychic Table Tennis 3000 | 129705 | [129705-hypergalactic-psychic-table-tennis-3000.json](./129705-hypergalactic-psychic-table-tennis-3000.json) |
 | Hypergalaxy Squad | 113397 | [113397-hypergalaxy-squad.json](./113397-hypergalaxy-squad.json) |
 | Hypergate | 87985 | [87985-hypergate.json](./87985-hypergate.json) |
