@@ -19220,6 +19220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Devil | 220207 | [220207-awesome-devil.json](./220207-awesome-devil.json) |
 | Awesome Earl in SkateRock | 52196 | [52196-awesome-earl-in-skaterock.json](./52196-awesome-earl-in-skaterock.json) |
 | Awesome Game | 316872 | [316872-awesome-game.json](./316872-awesome-game.json) |
+| Awesome Ghosts vs Stupid Zombies | 392570 | [392570-awesome-ghosts-vs-stupid-zombies.json](./392570-awesome-ghosts-vs-stupid-zombies.json) |
 | Awesome Golf | 12363 | [12363-awesome-golf.json](./12363-awesome-golf.json) |
 | Awesome Golf Simulator | 426042 | [426042-awesome-golf-simulator.json](./426042-awesome-golf-simulator.json) |
 | Awesome Land | 146029 | [146029-awesome-land.json](./146029-awesome-land.json) |
