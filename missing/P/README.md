@@ -10469,10 +10469,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation All-Stars Battle Royale: Bistro Toro | 315078 | [315078-playstation-all-stars-battle-royale-bistro-toro.json](./315078-playstation-all-stars-battle-royale-bistro-toro.json) |
 | PlayStation All-Stars Battle Royale: Emmet Graves | 313038 | [313038-playstation-all-stars-battle-royale-emmet-graves.json](./313038-playstation-all-stars-battle-royale-emmet-graves.json) |
 | PlayStation All-Stars Battle Royale: Fearless | 312972 | [312972-playstation-all-stars-battle-royale-fearless.json](./312972-playstation-all-stars-battle-royale-fearless.json) |
+| PlayStation All-Stars Battle Royale: Fun Pack Costumes | 388494 | [388494-playstation-all-stars-battle-royale-fun-pack-costumes.json](./388494-playstation-all-stars-battle-royale-fun-pack-costumes.json) |
 | PlayStation All-Stars Battle Royale: Funky Astro Suit PaRappa | 315077 | [315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json](./315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json) |
+| PlayStation All-Stars Battle Royale: Heavy Hitters Pack | 388491 | [388491-playstation-all-stars-battle-royale-heavy-hitters-pack.json](./388491-playstation-all-stars-battle-royale-heavy-hitters-pack.json) |
+| PlayStation All-Stars Battle Royale: Heroes Pack Costumes | 388493 | [388493-playstation-all-stars-battle-royale-heroes-pack-costumes.json](./388493-playstation-all-stars-battle-royale-heroes-pack-costumes.json) |
 | PlayStation All-Stars Battle Royale: Instructor Mooselini Minion | 315079 | [315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json](./315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json) |
 | PlayStation All-Stars Battle Royale: Isaac Clarke | 313041 | [313041-playstation-all-stars-battle-royale-isaac-clarke.json](./313041-playstation-all-stars-battle-royale-isaac-clarke.json) |
 | PlayStation All-Stars Battle Royale: Kat & Dusty | 313037 | [313037-playstation-all-stars-battle-royale-kat-and-dusty.json](./313037-playstation-all-stars-battle-royale-kat-and-dusty.json) |
+| PlayStation All-Stars Battle Royale: Minion Pack 1 | 388492 | [388492-playstation-all-stars-battle-royale-minion-pack-1.json](./388492-playstation-all-stars-battle-royale-minion-pack-1.json) |
 | PlayStation All-Stars Battle Royale: Zeus | 313040 | [313040-playstation-all-stars-battle-royale-zeus.json](./313040-playstation-all-stars-battle-royale-zeus.json) |
 | PlayStation All-Stars Island | 16596 | [16596-playstation-all-stars-island.json](./16596-playstation-all-stars-island.json) |
 | PlayStation Classic | 213365 | [213365-playstation-classic.json](./213365-playstation-classic.json) |
@@ -12305,6 +12309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker France | 402345 | [402345-poker-france.json](./402345-poker-france.json) |
 | Poker Game: World Poker Club | 351351 | [351351-poker-game-world-poker-club.json](./351351-poker-game-world-poker-club.json) |
 | Poker Hands | 147993 | [147993-poker-hands.json](./147993-poker-hands.json) |
+| Poker Hands Bullshit | 388639 | [388639-poker-hands-bullshit.json](./388639-poker-hands-bullshit.json) |
 | Poker HD | 88440 | [88440-poker-hd.json](./88440-poker-hd.json) |
 | Poker Kingdom | 232360 | [232360-poker-kingdom.json](./232360-poker-kingdom.json) |
 | Poker Ladies | 39397 | [39397-poker-ladies.json](./39397-poker-ladies.json) |
