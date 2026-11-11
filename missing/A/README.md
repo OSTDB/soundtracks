@@ -4109,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurers of Tamora | 151377 | [151377-adventurers-of-tamora.json](./151377-adventurers-of-tamora.json) |
 | Adventurers Shop | 386860 | [386860-adventurers-shop.json](./386860-adventurers-shop.json) |
 | Adventures | 179815 | [179815-adventures.json](./179815-adventures.json) |
+| Adventures & Quests: The Black Crystal | 341750 | [341750-adventures-and-quests-the-black-crystal.json](./341750-adventures-and-quests-the-black-crystal.json) |
 | Adventures at the North Pole | 203865 | [203865-adventures-at-the-north-pole.json](./203865-adventures-at-the-north-pole.json) |
 | Adventures Diary of Merchant | 115579 | [115579-adventures-diary-of-merchant.json](./115579-adventures-diary-of-merchant.json) |
 | Adventures in Adventureland | 98320 | [98320-adventures-in-adventureland.json](./98320-adventures-in-adventureland.json) |
@@ -7833,6 +7834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Aboard! The Twilight Train | 347434 | [347434-all-aboard-the-twilight-train.json](./347434-all-aboard-the-twilight-train.json) |
 | All Aboard!: The Microgauge Train Set | 15202 | [15202-all-aboard-the-microgauge-train-set.json](./15202-all-aboard-the-microgauge-train-set.json) |
 | All About America | 14245 | [14245-all-about-america.json](./14245-all-about-america.json) |
+| All About Chopsticks | 341722 | [341722-all-about-chopsticks.json](./341722-all-about-chopsticks.json) |
 | All About Maze | 326237 | [326237-all-about-maze.json](./326237-all-about-maze.json) |
 | All About The High Score | 276202 | [276202-all-about-the-high-score.json](./276202-all-about-the-high-score.json) |
 | All Abug! | 334745 | [334745-all-abug.json](./334745-all-abug.json) |
@@ -14390,6 +14392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardu-EZ Button | 333764 | [333764-ardu-ez-button.json](./333764-ardu-ez-button.json) |
 | Ardu-man | 227996 | [227996-ardu-man.json](./227996-ardu-man.json) |
 | Ardu-Racer | 311006 | [311006-ardu-racer.json](./311006-ardu-racer.json) |
+| Arduboy Says | 341756 | [341756-arduboy-says.json](./341756-arduboy-says.json) |
 | Ardubullets | 381726 | [381726-ardubullets.json](./381726-ardubullets.json) |
 | ArduGods | 227994 | [227994-ardugods.json](./227994-ardugods.json) |
 | ArduGolf: 18-Hole Mini Golf | 227997 | [227997-ardugolf-18-hole-mini-golf.json](./227997-ardugolf-18-hole-mini-golf.json) |
@@ -18014,6 +18017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlas | 113116 | [113116-atlas.json](./113116-atlas.json) |
 | Atlas | 324945 | [324945-atlas.json](./324945-atlas.json) |
 | Atlas Architect | 157191 | [157191-atlas-architect.json](./157191-atlas-architect.json) |
+| Atlas Brave | 341775 | [341775-atlas-brave.json](./341775-atlas-brave.json) |
 | Atlas Earth: Buy Virtual Land | 247217 | [247217-atlas-earth-buy-virtual-land.json](./247217-atlas-earth-buy-virtual-land.json) |
 | Atlas Endgames | 253165 | [253165-atlas-endgames.json](./253165-atlas-endgames.json) |
 | Atlas Fallen: Limited Edition | 252210 | [252210-atlas-fallen-limited-edition.json](./252210-atlas-fallen-limited-edition.json) |
