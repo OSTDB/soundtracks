@@ -3781,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Tactical Fighter II | 8899 | [8899-advanced-tactical-fighter-ii.json](./8899-advanced-tactical-fighter-ii.json) |
 | Advanced Thinking Skills | 305166 | [305166-advanced-thinking-skills.json](./305166-advanced-thinking-skills.json) |
 | Advanced V.G. | 37639 | [37639-advanced-v-g.json](./37639-advanced-v-g.json) |
+| Advanced V.G.: Saturn Tribute | 343527 | [343527-advanced-v-g-saturn-tribute.json](./343527-advanced-v-g-saturn-tribute.json) |
 | Advanced World War Sen-nen Teikoku no Koubou: Last of the Millennium | 45448 | [45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json](./45448-advanced-world-war-sen-nen-teikoku-no-koubou-last-of-the-millennium.json) |
 | Advanced Xoru | 2297 | [2297-advanced-xoru.json](./2297-advanced-xoru.json) |
 | Advancing Chess | 296352 | [296352-advancing-chess.json](./296352-advancing-chess.json) |
@@ -8710,6 +8711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Always the Same Blue Sky... | 35477 | [35477-always-the-same-blue-sky.json](./35477-always-the-same-blue-sky.json) |
 | Always Together | 393647 | [393647-always-together.json](./393647-always-together.json) |
 | Always with You | 349030 | [349030-always-with-you.json](./349030-always-with-you.json) |
+| Always: Ill | 342975 | [342975-always-ill.json](./342975-always-ill.json) |
 | Alyosha Popovich i Tugarin Zmej | 187812 | [187812-alyosha-popovich-i-tugarin-zmej.json](./187812-alyosha-popovich-i-tugarin-zmej.json) |
 | Alys vs. the Phantom Feline Foe | 314370 | [314370-alys-vs-the-phantom-feline-foe.json](./314370-alys-vs-the-phantom-feline-foe.json) |
 | Alyssa | 271659 | [271659-alyssa.json](./271659-alyssa.json) |
@@ -11162,6 +11164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Naughty Neko | 349572 | [349572-anime-girls-naughty-neko.json](./349572-anime-girls-naughty-neko.json) |
 | Anime Girls: Nimble Ninja | 362370 | [362370-anime-girls-nimble-ninja.json](./362370-anime-girls-nimble-ninja.json) |
 | Anime Girls: Puffy Pumpkin | 375125 | [375125-anime-girls-puffy-pumpkin.json](./375125-anime-girls-puffy-pumpkin.json) |
+| Anime Girls: Royal Romance | 343526 | [343526-anime-girls-royal-romance.json](./343526-anime-girls-royal-romance.json) |
 | Anime Girls: Shanghai Romance | 393414 | [393414-anime-girls-shanghai-romance.json](./393414-anime-girls-shanghai-romance.json) |
 | Anime Girls: Stellar Invasion | 396432 | [396432-anime-girls-stellar-invasion.json](./396432-anime-girls-stellar-invasion.json) |
 | Anime Girls: Summer Vacay | 360218 | [360218-anime-girls-summer-vacay.json](./360218-anime-girls-summer-vacay.json) |
@@ -12423,6 +12426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Heroines: Character Outfit - Summer Candy | 309089 | [309089-apex-heroines-character-outfit-summer-candy.json](./309089-apex-heroines-character-outfit-summer-candy.json) |
 | Apex Heroines: Character Outfit - Warm-up | 309087 | [309087-apex-heroines-character-outfit-warm-up.json](./309087-apex-heroines-character-outfit-warm-up.json) |
 | Apex Heroines: Deluxe Edition | 315876 | [315876-apex-heroines-deluxe-edition.json](./315876-apex-heroines-deluxe-edition.json) |
+| Apex Heroines: Ultimate Edition | 343516 | [343516-apex-heroines-ultimate-edition.json](./343516-apex-heroines-ultimate-edition.json) |
 | Apex Legends Mobile | 118210 | [118210-apex-legends-mobile.json](./118210-apex-legends-mobile.json) |
 | Apex Legends Mobile: Champions | 236657 | [236657-apex-legends-mobile-champions.json](./236657-apex-legends-mobile-champions.json) |
 | Apex Legends Mobile: Cold Snap | 211298 | [211298-apex-legends-mobile-cold-snap.json](./211298-apex-legends-mobile-cold-snap.json) |
@@ -12531,6 +12535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocalypse Island | 337958 | [337958-apocalypse-island.json](./337958-apocalypse-island.json) |
 | Apocalypse Lords | 258567 | [258567-apocalypse-lords.json](./258567-apocalypse-lords.json) |
 | Apocalypse Love Shelter | 290495 | [290495-apocalypse-love-shelter.json](./290495-apocalypse-love-shelter.json) |
+| Apocalypse Market Simulator | 343525 | [343525-apocalypse-market-simulator.json](./343525-apocalypse-market-simulator.json) |
 | Apocalypse Max | 188353 | [188353-apocalypse-max.json](./188353-apocalypse-max.json) |
 | Apocalypse Mechanism | 103499 | [103499-apocalypse-mechanism.json](./103499-apocalypse-mechanism.json) |
 | Apocalypse Meow | 374636 | [374636-apocalypse-meow.json](./374636-apocalypse-meow.json) |
@@ -13516,6 +13521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Pro Tennis World Court | 200943 | [200943-arcade-archives-pro-tennis-world-court.json](./200943-arcade-archives-pro-tennis-world-court.json) |
 | Arcade Archives: Psycho Soldier | 117879 | [117879-arcade-archives-psycho-soldier.json](./117879-arcade-archives-psycho-soldier.json) |
 | Arcade Archives: Punch-Out!! | 68357 | [68357-arcade-archives-punch-out.json](./68357-arcade-archives-punch-out.json) |
+| Arcade Archives: Punk Shot | 342962 | [342962-arcade-archives-punk-shot.json](./342962-arcade-archives-punk-shot.json) |
 | Arcade Archives: Qix | 194365 | [194365-arcade-archives-qix.json](./194365-arcade-archives-qix.json) |
 | Arcade Archives: Quester | 389843 | [389843-arcade-archives-quester.json](./389843-arcade-archives-quester.json) |
 | Arcade Archives: Rabio Lepus | 208425 | [208425-arcade-archives-rabio-lepus.json](./208425-arcade-archives-rabio-lepus.json) |
@@ -16241,6 +16247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashrun Survivors | 410416 | [410416-ashrun-survivors.json](./410416-ashrun-survivors.json) |
 | Ashton's Family Resort | 52420 | [52420-ashtons-family-resort.json](./52420-ashtons-family-resort.json) |
 | Ashton's Family Resort | 52604 | [52604-ashtons-family-resort.json](./52604-ashtons-family-resort.json) |
+| Ashuk and Mashuk | 342978 | [342978-ashuk-and-mashuk.json](./342978-ashuk-and-mashuk.json) |
 | Ashunnor's Game | 314760 | [314760-ashunnors-game.json](./314760-ashunnors-game.json) |
 | Ashura Blaster | 38516 | [38516-ashura-blaster.json](./38516-ashura-blaster.json) |
 | Ashura The Glitch | 316301 | [316301-ashura-the-glitch.json](./316301-ashura-the-glitch.json) |
@@ -18243,6 +18250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack Heroes | 28305 | [28305-attack-heroes.json](./28305-attack-heroes.json) |
 | Attack Hole | 324782 | [324782-attack-hole.json](./324782-attack-hole.json) |
 | Attack Hole: Hero Edition | 349593 | [349593-attack-hole-hero-edition.json](./349593-attack-hole-hero-edition.json) |
+| Attack Hole: Monster Edition | 343515 | [343515-attack-hole-monster-edition.json](./343515-attack-hole-monster-edition.json) |
 | Attack of Insects | 56655 | [56655-attack-of-insects.json](./56655-attack-of-insects.json) |
 | Attack of Jeff the Killer: Scary Slender Life | 63154 | [63154-attack-of-jeff-the-killer-scary-slender-life.json](./63154-attack-of-jeff-the-killer-scary-slender-life.json) |
 | Attack of Mutants | 110466 | [110466-attack-of-mutants.json](./110466-attack-of-mutants.json) |
