@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Balls-Rolling Ahead Go | 86776 | [86776-dancing-balls-rolling-ahead-go.json](./86776-dancing-balls-rolling-ahead-go.json) |
 | Dancing Ballz: Magic Dance Line Tiles Game | 105993 | [105993-dancing-ballz-magic-dance-line-tiles-game.json](./105993-dancing-ballz-magic-dance-line-tiles-game.json) |
 | Dancing Beats | 181980 | [181980-dancing-beats.json](./181980-dancing-beats.json) |
+| Dancing Beauty: Idol Project | 336234 | [336234-dancing-beauty-idol-project.json](./336234-dancing-beauty-idol-project.json) |
 | Dancing Blade Katteni Momotenshi II: Tears of Eden | 64858 | [64858-dancing-blade-katteni-momotenshi-ii-tears-of-eden.json](./64858-dancing-blade-katteni-momotenshi-ii-tears-of-eden.json) |
 | Dancing Blade Katteni Momotenshi! | 64856 | [64856-dancing-blade-katteni-momotenshi.json](./64856-dancing-blade-katteni-momotenshi.json) |
 | Dancing Block | 267510 | [267510-dancing-block.json](./267510-dancing-block.json) |
@@ -12790,6 +12791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Despair | 333918 | [333918-doki-doki-despair.json](./333918-doki-doki-despair.json) |
 | Doki Doki Dollmaker | 246651 | [246651-doki-doki-dollmaker.json](./246651-doki-doki-dollmaker.json) |
 | Doki Doki Don't | 333784 | [333784-doki-doki-dont.json](./333784-doki-doki-dont.json) |
+| Doki Doki Easter Hunt! | 336239 | [336239-doki-doki-easter-hunt.json](./336239-doki-doki-easter-hunt.json) |
 | Doki Doki Emerald Affection | 334816 | [334816-doki-doki-emerald-affection.json](./334816-doki-doki-emerald-affection.json) |
 | Doki Doki Exit Music | 165138 | [165138-doki-doki-exit-music.json](./165138-doki-doki-exit-music.json) |
 | Doki Doki Exit Music Epilogue | 353423 | [353423-doki-doki-exit-music-epilogue.json](./353423-doki-doki-exit-music-epilogue.json) |
@@ -12798,6 +12800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Fiendish | 332852 | [332852-doki-doki-fiendish.json](./332852-doki-doki-fiendish.json) |
 | Doki Doki First Love Club! | 153950 | [153950-doki-doki-first-love-club.json](./153950-doki-doki-first-love-club.json) |
 | Doki Doki Fleeting Feelings | 333842 | [333842-doki-doki-fleeting-feelings.json](./333842-doki-doki-fleeting-feelings.json) |
+| Doki Doki Forever & Ever | 336248 | [336248-doki-doki-forever-and-ever.json](./336248-doki-doki-forever-and-ever.json) |
 | Doki Doki Grappling Hook Yuri: The Origin Arc | 334269 | [334269-doki-doki-grappling-hook-yuri-the-origin-arc.json](./334269-doki-doki-grappling-hook-yuri-the-origin-arc.json) |
 | Doki Doki Gravity Dive | 163863 | [163863-doki-doki-gravity-dive.json](./163863-doki-doki-gravity-dive.json) |
 | Doki Doki Happy Thoughts | 334821 | [334821-doki-doki-happy-thoughts.json](./334821-doki-doki-happy-thoughts.json) |
@@ -12815,8 +12818,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Loser MC | 334271 | [334271-doki-doki-loser-mc.json](./334271-doki-doki-loser-mc.json) |
 | Doki Doki Love and Literature | 336270 | [336270-doki-doki-love-and-literature.json](./336270-doki-doki-love-and-literature.json) |
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
+| Doki Doki Meme Club 2: Rise of The Dark Memes | 336243 | [336243-doki-doki-meme-club-2-rise-of-the-dark-memes.json](./336243-doki-doki-meme-club-2-rise-of-the-dark-memes.json) |
 | Doki Doki Memories of Nothing | 333832 | [333832-doki-doki-memories-of-nothing.json](./333832-doki-doki-memories-of-nothing.json) |
 | Doki Doki Metal Club | 256956 | [256956-doki-doki-metal-club.json](./256956-doki-doki-metal-club.json) |
+| Doki Doki New Eyes | 336242 | [336242-doki-doki-new-eyes.json](./336242-doki-doki-new-eyes.json) |
 | Doki Doki Nightmare | 333927 | [333927-doki-doki-nightmare.json](./333927-doki-doki-nightmare.json) |
 | Doki Doki No Happiness | 336060 | [336060-doki-doki-no-happiness.json](./336060-doki-doki-no-happiness.json) |
 | Doki Doki Our Final Heartbeat | 333609 | [333609-doki-doki-our-final-heartbeat.json](./333609-doki-doki-our-final-heartbeat.json) |
@@ -12845,6 +12850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Tri-Line Quest | 191218 | [191218-doki-doki-tri-line-quest.json](./191218-doki-doki-tri-line-quest.json) |
 | Doki Doki Tutorial! | 256833 | [256833-doki-doki-tutorial.json](./256833-doki-doki-tutorial.json) |
 | Doki Doki Twin Realities | 384661 | [384661-doki-doki-twin-realities.json](./384661-doki-doki-twin-realities.json) |
+| Doki Doki Undone Fate | 336247 | [336247-doki-doki-undone-fate.json](./336247-doki-doki-undone-fate.json) |
 | Doki Doki Vacation: Kirameku Kisetsu no Naka de | 257560 | [257560-doki-doki-vacation-kirameku-kisetsu-no-naka-de.json](./257560-doki-doki-vacation-kirameku-kisetsu-no-naka-de.json) |
 | Doki Doki What If | 334823 | [334823-doki-doki-what-if.json](./334823-doki-doki-what-if.json) |
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
@@ -12856,6 +12862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki: The Dark Rainclouds | 333104 | [333104-doki-doki-the-dark-rainclouds.json](./333104-doki-doki-the-dark-rainclouds.json) |
 | Doki Doki! Pretty Cure Narikiri Life! | 216180 | [216180-doki-doki-pretty-cure-narikiri-life.json](./216180-doki-doki-pretty-cure-narikiri-life.json) |
 | Doki Doki! RainClouds | 242083 | [242083-doki-doki-rainclouds.json](./242083-doki-doki-rainclouds.json) |
+| Doki Heika Banzai! | 336240 | [336240-doki-heika-banzai.json](./336240-doki-heika-banzai.json) |
 | Doki Majo Plus | 69120 | [69120-doki-majo-plus.json](./69120-doki-majo-plus.json) |
 | Doki Monsters: Quest | 378792 | [378792-doki-monsters-quest.json](./378792-doki-monsters-quest.json) |
 | Doki Oki | 123274 | [123274-doki-oki.json](./123274-doki-oki.json) |
