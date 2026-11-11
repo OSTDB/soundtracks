@@ -6046,7 +6046,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ion Assault HD | 52244 | [52244-ion-assault-hd.json](./52244-ion-assault-hd.json) |
 | Ion Driver | 164310 | [164310-ion-driver.json](./164310-ion-driver.json) |
 | Ion Fury + Aftershock | 274835 | [274835-ion-fury-aftershock.json](./274835-ion-fury-aftershock.json) |
-| Ion Fury: Aftershock | 145471 | [145471-ion-fury-aftershock.json](./145471-ion-fury-aftershock.json) |
 | Ion Shift | 257941 | [257941-ion-shift.json](./257941-ion-shift.json) |
 | Ion Stormfire | 211012 | [211012-ion-stormfire.json](./211012-ion-stormfire.json) |
 | Ion.A | 290541 | [290541-ion-a.json](./290541-ion-a.json) |
@@ -6372,7 +6371,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironcast Complete Collection | 83738 | [83738-ironcast-complete-collection.json](./83738-ironcast-complete-collection.json) |
 | Ironcast: The Stirling Pack | 170296 | [170296-ironcast-the-stirling-pack.json](./170296-ironcast-the-stirling-pack.json) |
 | Ironclad | 66823 | [66823-ironclad.json](./66823-ironclad.json) |
-| Ironclad Tactics | 10459 | [10459-ironclad-tactics.json](./10459-ironclad-tactics.json) |
 | Ironclad Tactics: Deluxe Edition | 51849 | [51849-ironclad-tactics-deluxe-edition.json](./51849-ironclad-tactics-deluxe-edition.json) |
 | Ironclads 2: American Civil War | 34229 | [34229-ironclads-2-american-civil-war.json](./34229-ironclads-2-american-civil-war.json) |
 | Ironclads 2: Boshin War | 29289 | [29289-ironclads-2-boshin-war.json](./29289-ironclads-2-boshin-war.json) |
