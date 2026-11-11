@@ -235,6 +235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Run Carrot Hunt | 361347 | [361347-rabbit-run-carrot-hunt.json](./361347-rabbit-run-carrot-hunt.json) |
 | Rabbit Runner | 402228 | [402228-rabbit-runner.json](./402228-rabbit-runner.json) |
 | Rabbit Rush | 363024 | [363024-rabbit-rush.json](./363024-rabbit-rush.json) |
+| Rabbit Samurai | 374523 | [374523-rabbit-samurai.json](./374523-rabbit-samurai.json) |
 | Rabbit Simulator | 143939 | [143939-rabbit-simulator.json](./143939-rabbit-simulator.json) |
 | Rabbit Simulator | 248389 | [248389-rabbit-simulator.json](./248389-rabbit-simulator.json) |
 | Rabbit Story | 28162 | [28162-rabbit-story.json](./28162-rabbit-story.json) |
@@ -11438,6 +11439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rondo Leaflet | 60402 | [60402-rondo-leaflet.json](./60402-rondo-leaflet.json) |
 | Rondo of Swords | 21481 | [21481-rondo-of-swords.json](./21481-rondo-of-swords.json) |
 | Rondo's Romp | 422137 | [422137-rondos-romp.json](./422137-rondos-romp.json) |
+| Rondoku | 374514 | [374514-rondoku.json](./374514-rondoku.json) |
 | Rong Yu Zhi Hui Guan | 283406 | [283406-rong-yu-zhi-hui-guan.json](./283406-rong-yu-zhi-hui-guan.json) |
 | Róngshēn zhī Dìtiě | 117649 | [117649-rongshen-zhi-ditie.json](./117649-rongshen-zhi-ditie.json) |
 | Rongu | 403719 | [403719-rongu.json](./403719-rongu.json) |
