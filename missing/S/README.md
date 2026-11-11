@@ -2260,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satellite Reign | 11577 | [11577-satellite-reign.json](./11577-satellite-reign.json) |
 | Satellite Repairman | 30015 | [30015-satellite-repairman.json](./30015-satellite-repairman.json) |
 | Satellite Rush | 33846 | [33846-satellite-rush.json](./33846-satellite-rush.json) |
+| SatelliteInfection | 388437 | [388437-satelliteinfection.json](./388437-satelliteinfection.json) |
 | Satellites | 78342 | [78342-satellites.json](./78342-satellites.json) |
 | SatelliTV | 386678 | [386678-satellitv.json](./386678-satellitv.json) |
 | Satisdom | 337095 | [337095-satisdom.json](./337095-satisdom.json) |
@@ -2703,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayako Story | 253868 | [253868-sayako-story.json](./253868-sayako-story.json) |
 | Sayara's Path | 423633 | [423633-sayaras-path.json](./423633-sayaras-path.json) |
 | Sayfield Defense | 253543 | [253543-sayfield-defense.json](./253543-sayfield-defense.json) |
+| Saylor Animals Puzzle | 388433 | [388433-saylor-animals-puzzle.json](./388433-saylor-animals-puzzle.json) |
 | Sayo no Bus ni te | 394796 | [394796-sayo-no-bus-ni-te.json](./394796-sayo-no-bus-ni-te.json) |
 | Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
 | Sayonalaika | 340880 | [340880-sayonalaika.json](./340880-sayonalaika.json) |
@@ -14559,6 +14561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimecore | 305705 | [305705-slimecore.json](./305705-slimecore.json) |
 | Slimed | 186273 | [186273-slimed.json](./186273-slimed.json) |
 | Slimefall | 420216 | [420216-slimefall.json](./420216-slimefall.json) |
+| SlimeFlip | 388466 | [388466-slimeflip.json](./388466-slimeflip.json) |
 | Slimefrog | 167821 | [167821-slimefrog.json](./167821-slimefrog.json) |
 | SlimeGear | 106389 | [106389-slimegear.json](./106389-slimegear.json) |
 | Slimegeon | 254145 | [254145-slimegeon.json](./254145-slimegeon.json) |
@@ -16071,6 +16074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper at Work | 329764 | [329764-sniper-at-work.json](./329764-sniper-at-work.json) |
 | Sniper Blacklist | 34465 | [34465-sniper-blacklist.json](./34465-sniper-blacklist.json) |
 | Sniper Camouflage Orange Spy Warrior I Buried Two Bodies in the Garden and the Police Haven't Figured Out Yet That They're Missing Because They Were a Lonely Old Couple Who Had No Relatives Simulator 2026 | 386546 | [386546-sniper-camouflage-orange-spy-warrior-i-buried-two-bodies-in-the-garden-and-the-police-havent-figured-out-yet-that-theyre-missing-because-they-were-a-lonely-old-couple-who-had-no-relatives-simulator-2026.json](./386546-sniper-camouflage-orange-spy-warrior-i-buried-two-bodies-in-the-garden-and-the-police-havent-figured-out-yet-that-theyre-missing-because-they-were-a-lonely-old-couple-who-had-no-relatives-simulator-2026.json) |
+| Sniper Dan | 388436 | [388436-sniper-dan.json](./388436-sniper-dan.json) |
 | Sniper Elite | 3077 | [3077-sniper-elite.json](./3077-sniper-elite.json) |
 | Sniper Elite 3: Camouflage Weapons Pack | 254534 | [254534-sniper-elite-3-camouflage-weapons-pack.json](./254534-sniper-elite-3-camouflage-weapons-pack.json) |
 | Sniper Elite 4 | 18366 | [18366-sniper-elite-4.json](./18366-sniper-elite-4.json) |
@@ -33326,6 +33330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super John 2: The Revenge of the Johnsons | 388071 | [388071-super-john-2-the-revenge-of-the-johnsons.json](./388071-super-john-2-the-revenge-of-the-johnsons.json) |
 | Super Jolly RPG | 282440 | [282440-super-jolly-rpg.json](./282440-super-jolly-rpg.json) |
 | Super Juicy HD | 232346 | [232346-super-juicy-hd.json](./232346-super-juicy-hd.json) |
+| Super Juicy Stack | 388470 | [388470-super-juicy-stack.json](./388470-super-juicy-stack.json) |
 | Super Jump Guys | 267683 | [267683-super-jump-guys.json](./267683-super-jump-guys.json) |
 | Super Jump Ninja | 400458 | [400458-super-jump-ninja.json](./400458-super-jump-ninja.json) |
 | Super Jump Soccer | 188363 | [188363-super-jump-soccer.json](./188363-super-jump-soccer.json) |
