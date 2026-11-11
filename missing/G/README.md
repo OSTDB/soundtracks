@@ -5775,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go | 379916 | [379916-go.json](./379916-go.json) |
 | Go 3D | 68624 | [68624-go-3d.json](./68624-go-3d.json) |
 | Go Ace It | 192198 | [192198-go-ace-it.json](./192198-go-ace-it.json) |
+| Go Ahead | 360821 | [360821-go-ahead.json](./360821-go-ahead.json) |
 | Go All Out | 221571 | [221571-go-all-out.json](./221571-go-all-out.json) |
 | Go All Out: Free to Play | 130190 | [130190-go-all-out-free-to-play.json](./130190-go-all-out-free-to-play.json) |
 | Go All Out! | 90015 | [90015-go-all-out.json](./90015-go-all-out.json) |
@@ -8322,6 +8323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Circuit | 305817 | [305817-grand-circuit.json](./305817-grand-circuit.json) |
 | Grand City Car Driving | 219808 | [219808-grand-city-car-driving.json](./219808-grand-city-car-driving.json) |
 | Grand Classes | 313415 | [313415-grand-classes.json](./313415-grand-classes.json) |
+| Grand Classic Auto | 361359 | [361359-grand-classic-auto.json](./361359-grand-classic-auto.json) |
 | Grand Craft: Adventures | 99204 | [99204-grand-craft-adventures.json](./99204-grand-craft-adventures.json) |
 | Grand Crime Miami | 366950 | [366950-grand-crime-miami.json](./366950-grand-crime-miami.json) |
 | Grand Criminal Online | 174987 | [174987-grand-criminal-online.json](./174987-grand-criminal-online.json) |
@@ -10235,6 +10237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grizelda: Lynx and the Nine Lives | 201678 | [201678-grizelda-lynx-and-the-nine-lives.json](./201678-grizelda-lynx-and-the-nine-lives.json) |
 | Grizzland | 119915 | [119915-grizzland.json](./119915-grizzland.json) |
 | Grizzly Adventure | 107829 | [107829-grizzly-adventure.json](./107829-grizzly-adventure.json) |
+| Grizzly Bear is Hungry | 361375 | [361375-grizzly-bear-is-hungry.json](./361375-grizzly-bear-is-hungry.json) |
 | Grizzly Cup Turbo Challenge '92 | 393927 | [393927-grizzly-cup-turbo-challenge-92.json](./393927-grizzly-cup-turbo-challenge-92.json) |
 | Grizzly Gulch Western Extravaganza | 392340 | [392340-grizzly-gulch-western-extravaganza.json](./392340-grizzly-gulch-western-extravaganza.json) |
 | Grizzly Retro Platformer | 98784 | [98784-grizzly-retro-platformer.json](./98784-grizzly-retro-platformer.json) |
