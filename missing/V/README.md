@@ -1927,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viande Crue | 329330 | [329330-viande-crue.json](./329330-viande-crue.json) |
 | Vianiato PopOut | 334757 | [334757-vianiato-popout.json](./334757-vianiato-popout.json) |
 | Viarkanoid | 89373 | [89373-viarkanoid.json](./89373-viarkanoid.json) |
+| Viatica | 374534 | [374534-viatica.json](./374534-viatica.json) |
 | Viatoree | 180892 | [180892-viatoree.json](./180892-viatoree.json) |
 | Vib-Ribbon | 9676 | [9676-vib-ribbon.json](./9676-vib-ribbon.json) |
 | Vib-Ripple | 25096 | [25096-vib-ripple.json](./25096-vib-ripple.json) |
