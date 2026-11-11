@@ -1558,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Bows 1 Arrow | 358075 | [358075-2-bows-1-arrow.json](./358075-2-bows-1-arrow.json) |
 | 2 Cars | 397280 | [397280-2-cars.json](./397280-2-cars.json) |
 | 2 Cats & 1 Dog | 203696 | [203696-2-cats-and-1-dog.json](./203696-2-cats-and-1-dog.json) |
+| 2 Cooks 1 Mess | 387173 | [387173-2-cooks-1-mess.json](./387173-2-cooks-1-mess.json) |
 | 2 Cubes 1 Ball | 107206 | [107206-2-cubes-1-ball.json](./107206-2-cubes-1-ball.json) |
 | 2 Days to Vegas | 27751 | [27751-2-days-to-vegas.json](./27751-2-days-to-vegas.json) |
 | 2 Disney Games: Disney Sports Skateboarding + Disney Sports Football | 147310 | [147310-2-disney-games-disney-sports-skateboarding-disney-sports-football.json](./147310-2-disney-games-disney-sports-skateboarding-disney-sports-football.json) |
