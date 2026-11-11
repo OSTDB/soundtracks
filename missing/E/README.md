@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Past: Wolf Healer | 139289 | [139289-echoes-of-the-past-wolf-healer.json](./139289-echoes-of-the-past-wolf-healer.json) |
 | Echoes of the Past: Wolf Healer - Collector's Edition | 102414 | [102414-echoes-of-the-past-wolf-healer-collectors-edition.json](./102414-echoes-of-the-past-wolf-healer-collectors-edition.json) |
 | Echoes of the Plum Grove: Deluxe Edition | 401668 | [401668-echoes-of-the-plum-grove-deluxe-edition.json](./401668-echoes-of-the-plum-grove-deluxe-edition.json) |
+| Echoes of the Rest | 377514 | [377514-echoes-of-the-rest.json](./377514-echoes-of-the-rest.json) |
 | Echoes of the Scourge | 398979 | [398979-echoes-of-the-scourge.json](./398979-echoes-of-the-scourge.json) |
 | Echoes of the Skyfire | 356372 | [356372-echoes-of-the-skyfire.json](./356372-echoes-of-the-skyfire.json) |
 | Echoes of the Stars | 201586 | [201586-echoes-of-the-stars.json](./201586-echoes-of-the-stars.json) |
