@@ -14230,6 +14230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomtide | 400041 | [400041-doomtide.json](./400041-doomtide.json) |
 | Doomtrain | 386910 | [386910-doomtrain.json](./386910-doomtrain.json) |
 | Doomtrooper CCG | 71196 | [71196-doomtrooper-ccg.json](./71196-doomtrooper-ccg.json) |
+| Doomvile Brainrot | 350081 | [350081-doomvile-brainrot.json](./350081-doomvile-brainrot.json) |
 | DoomWall | 323830 | [323830-doomwall.json](./323830-doomwall.json) |
 | Doomworld Forum Adventures! | 252214 | [252214-doomworld-forum-adventures.json](./252214-doomworld-forum-adventures.json) |
 | Doomworld Forums 3 | 252216 | [252216-doomworld-forums-3.json](./252216-doomworld-forums-3.json) |
@@ -20343,6 +20344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dvor | 414122 | [414122-dvor.json](./414122-dvor.json) |
 | DVR Simulator | 151374 | [151374-dvr-simulator.json](./151374-dvr-simulator.json) |
 | DW | 168616 | [168616-dw.json](./168616-dw.json) |
+| Dwagons | 350125 | [350125-dwagons.json](./350125-dwagons.json) |
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
 | Dwarf | 292069 | [292069-dwarf.json](./292069-dwarf.json) |
 | Dwarf | 83341 | [83341-dwarf.json](./83341-dwarf.json) |
