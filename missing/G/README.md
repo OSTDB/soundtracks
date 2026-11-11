@@ -5018,6 +5018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator School | 30486 | [30486-gladiator-school.json](./30486-gladiator-school.json) |
 | Gladiator Trainer | 31289 | [31289-gladiator-trainer.json](./31289-gladiator-trainer.json) |
 | Gladiator Vs. | 137521 | [137521-gladiator-vs.json](./137521-gladiator-vs.json) |
+| Gladiator Warrior | 390849 | [390849-gladiator-warrior.json](./390849-gladiator-warrior.json) |
 | Gladiator X | 130795 | [130795-gladiator-x.json](./130795-gladiator-x.json) |
 | Gladiator: About to Die | 190830 | [190830-gladiator-about-to-die.json](./190830-gladiator-about-to-die.json) |
 | Gladiator: Blades of Fury | 115586 | [115586-gladiator-blades-of-fury.json](./115586-gladiator-blades-of-fury.json) |
@@ -5193,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glingdom | 317022 | [317022-glingdom.json](./317022-glingdom.json) |
 | Glint | 182630 | [182630-glint.json](./182630-glint.json) |
 | Glint Glitters | 304119 | [304119-glint-glitters.json](./304119-glint-glitters.json) |
+| Glint's Revenge | 390319 | [390319-glints-revenge.json](./390319-glints-revenge.json) |
 | Glint's Trial | 356156 | [356156-glints-trial.json](./356156-glints-trial.json) |
 | Glintland | 355293 | [355293-glintland.json](./355293-glintland.json) |
 | Glintseeker Island | 325975 | [325975-glintseeker-island.json](./325975-glintseeker-island.json) |
@@ -7085,6 +7087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf is Hard | 237963 | [237963-golf-is-hard.json](./237963-golf-is-hard.json) |
 | Golf Island | 381054 | [381054-golf-island.json](./381054-golf-island.json) |
 | Golf Island | 58211 | [58211-golf-island.json](./58211-golf-island.json) |
+| Golf Journey Without End | 390851 | [390851-golf-journey-without-end.json](./390851-golf-journey-without-end.json) |
 | Golf Keeper | 130954 | [130954-golf-keeper.json](./130954-golf-keeper.json) |
 | Golf King: World Tour | 233430 | [233430-golf-king-world-tour.json](./233430-golf-king-world-tour.json) |
 | Golf knight | 232131 | [232131-golf-knight.json](./232131-golf-knight.json) |
