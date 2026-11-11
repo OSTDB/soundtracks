@@ -1275,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Demons Be Good? | 409184 | [409184-can-demons-be-good.json](./409184-can-demons-be-good.json) |
 | Can Do! | 298813 | [298813-can-do.json](./298813-can-do.json) |
 | Can I Buy You a Cheeseburger? | 358486 | [358486-can-i-buy-you-a-cheeseburger.json](./358486-can-i-buy-you-a-cheeseburger.json) |
+| Can I Crash At Your Place? Oshikakene-chin | 342349 | [342349-can-i-crash-at-your-place-oshikakene-chin.json](./342349-can-i-crash-at-your-place-oshikakene-chin.json) |
 | Can I Get an Iced Coffee with Breastmilk!? | 391264 | [391264-can-i-get-an-iced-coffee-with-breastmilk.json](./391264-can-i-get-an-iced-coffee-with-breastmilk.json) |
 | Can I Go Home Yet? | 397393 | [397393-can-i-go-home-yet.json](./397393-can-i-go-home-yet.json) |
 | Can I Have a Glass of Water? | 415489 | [415489-can-i-have-a-glass-of-water.json](./415489-can-i-have-a-glass-of-water.json) |
@@ -2419,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Racing | 344646 | [344646-car-racing.json](./344646-car-racing.json) |
 | Car Racing | 59803 | [59803-car-racing.json](./59803-car-racing.json) |
 | Car Racing : Dirt Drifting | 103683 | [103683-car-racing-dirt-drifting.json](./103683-car-racing-dirt-drifting.json) |
+| Car Racing & Drift & Driving & Drag Bundle | 342347 | [342347-car-racing-and-drift-and-driving-and-drag-bundle.json](./342347-car-racing-and-drift-and-driving-and-drag-bundle.json) |
 | Car Racing & Driving Bundle: Drag Racing, Highway Racer, Drift Japan, Toon Cars | 362378 | [362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json](./362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json) |
 | Car Racing 3D: High on Fuel | 91250 | [91250-car-racing-3d-high-on-fuel.json](./91250-car-racing-3d-high-on-fuel.json) |
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
@@ -4204,6 +4206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat & Onion | 284800 | [284800-cat-and-onion.json](./284800-cat-and-onion.json) |
 | Cat & Potat! | 178574 | [178574-cat-and-potat.json](./178574-cat-and-potat.json) |
 | Cat & Rabbit Magic Farming | 404262 | [404262-cat-and-rabbit-magic-farming.json](./404262-cat-and-rabbit-magic-farming.json) |
+| Cat & Rabbit Pizza Farming | 342342 | [342342-cat-and-rabbit-pizza-farming.json](./342342-cat-and-rabbit-pizza-farming.json) |
 | Cat & Sheep Guiding Puzzle | 206545 | [206545-cat-and-sheep-guiding-puzzle.json](./206545-cat-and-sheep-guiding-puzzle.json) |
 | Cat + Dog | 237061 | [237061-cat-dog.json](./237061-cat-dog.json) |
 | Cat 2048 Story | 233530 | [233530-cat-2048-story.json](./233530-cat-2048-story.json) |
@@ -5003,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Catching Mice: The Black and White World | 347989 | [347989-cats-catching-mice-the-black-and-white-world.json](./347989-cats-catching-mice-the-black-and-white-world.json) |
 | Cats Clicker | 302878 | [302878-cats-clicker.json](./302878-cats-clicker.json) |
 | Cats Contrast | 332970 | [332970-cats-contrast.json](./332970-cats-contrast.json) |
+| Cats Defense Robots: Meow Legends | 342343 | [342343-cats-defense-robots-meow-legends.json](./342343-cats-defense-robots-meow-legends.json) |
 | Cats Diner | 392948 | [392948-cats-diner.json](./392948-cats-diner.json) |
 | Cats Epic Puzzles | 334827 | [334827-cats-epic-puzzles.json](./334827-cats-epic-puzzles.json) |
 | Cats Everywhere | 284797 | [284797-cats-everywhere.json](./284797-cats-everywhere.json) |
@@ -5073,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Visiting Cozy Town | 386179 | [386179-cats-visiting-cozy-town.json](./386179-cats-visiting-cozy-town.json) |
 | Cats Visiting El Dorado | 368761 | [368761-cats-visiting-el-dorado.json](./368761-cats-visiting-el-dorado.json) |
 | Cats Visiting Fairy Tales | 343725 | [343725-cats-visiting-fairy-tales.json](./343725-cats-visiting-fairy-tales.json) |
+| Cats Visiting Historical Times | 342344 | [342344-cats-visiting-historical-times.json](./342344-cats-visiting-historical-times.json) |
 | Cats Visiting Lunar New Year | 328566 | [328566-cats-visiting-lunar-new-year.json](./328566-cats-visiting-lunar-new-year.json) |
 | Cats Visiting the Cinema | 356961 | [356961-cats-visiting-the-cinema.json](./356961-cats-visiting-the-cinema.json) |
 | Cats Visiting Underwater World | 328542 | [328542-cats-visiting-underwater-world.json](./328542-cats-visiting-underwater-world.json) |
@@ -10462,6 +10467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Mushroom | 196356 | [196356-clash-of-mushroom.json](./196356-clash-of-mushroom.json) |
 | Clash of Panzer | 220159 | [220159-clash-of-panzer.json](./220159-clash-of-panzer.json) |
 | Clash of Puppets | 17892 | [17892-clash-of-puppets.json](./17892-clash-of-puppets.json) |
+| Clash of Rivals | 342345 | [342345-clash-of-rivals.json](./342345-clash-of-rivals.json) |
 | Clash of Robots | 50752 | [50752-clash-of-robots.json](./50752-clash-of-robots.json) |
 | Clash of Rock Paper Scissors | 364766 | [364766-clash-of-rock-paper-scissors.json](./364766-clash-of-rock-paper-scissors.json) |
 | Clash of Seven Heroes | 368284 | [368284-clash-of-seven-heroes.json](./368284-clash-of-seven-heroes.json) |
@@ -11407,6 +11413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clostrophobia: Vol 1 | 293650 | [293650-clostrophobia-vol-1.json](./293650-clostrophobia-vol-1.json) |
 | Closure | 201622 | [201622-closure.json](./201622-closure.json) |
 | Closure | 8146 | [8146-closure.json](./8146-closure.json) |
+| Clothes & Outlet Supermarket Store Simulator | 342346 | [342346-clothes-and-outlet-supermarket-store-simulator.json](./342346-clothes-and-outlet-supermarket-store-simulator.json) |
 | Clothes Forever - Styling Game | 90674 | [90674-clothes-forever-styling-game.json](./90674-clothes-forever-styling-game.json) |
 | Clothes Line | 298764 | [298764-clothes-line.json](./298764-clothes-line.json) |
 | Clotheslines | 180430 | [180430-clotheslines.json](./180430-clotheslines.json) |
