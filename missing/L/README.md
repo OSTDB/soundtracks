@@ -1733,6 +1733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late For Class: Variety King | 191252 | [191252-late-for-class-variety-king.json](./191252-late-for-class-variety-king.json) |
 | Late for Love | 176517 | [176517-late-for-love.json](./176517-late-for-love.json) |
 | Late For Work | 43064 | [43064-late-for-work.json](./43064-late-for-work.json) |
+| Late gift | 392548 | [392548-late-gift.json](./392548-late-gift.json) |
 | Late Homework | 313188 | [313188-late-homework.json](./313188-late-homework.json) |
 | Late Hours | 383559 | [383559-late-hours.json](./383559-late-hours.json) |
 | Late Last Nite | 184683 | [184683-late-last-nite.json](./184683-late-last-nite.json) |
