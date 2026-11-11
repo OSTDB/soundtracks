@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unheim | 283083 | [283083-unheim.json](./283083-unheim.json) |
 | Unherd | 143590 | [143590-unherd.json](./143590-unherd.json) |
 | Unheroic Misfits | 286068 | [286068-unheroic-misfits.json](./286068-unheroic-misfits.json) |
+| Unhidden: Cozy Hidden Object | 325786 | [325786-unhidden-cozy-hidden-object.json](./325786-unhidden-cozy-hidden-object.json) |
 | Unhinged | 144979 | [144979-unhinged.json](./144979-unhinged.json) |
 | Unhinged | 375056 | [375056-unhinged.json](./375056-unhinged.json) |
 | Unhinged | 380740 | [380740-unhinged.json](./380740-unhinged.json) |
