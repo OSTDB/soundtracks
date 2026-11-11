@@ -6719,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeroSquare | 251773 | [251773-herosquare.json](./251773-herosquare.json) |
 | HeroStory | 289273 | [289273-herostory.json](./289273-herostory.json) |
 | HeroSurvival | 248148 | [248148-herosurvival.json](./248148-herosurvival.json) |
+| HeroTail: Survivors | 390855 | [390855-herotail-survivors.json](./390855-herotail-survivors.json) |
 | Herotome | 364377 | [364377-herotome.json](./364377-herotome.json) |
 | HeroTower | 259677 | [259677-herotower.json](./259677-herotower.json) |
 | HeroVerse | 237735 | [237735-heroverse.json](./237735-heroverse.json) |
@@ -9633,6 +9634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Light | 305966 | [305966-holy-light.json](./305966-holy-light.json) |
 | Holy Moly | 185816 | [185816-holy-moly.json](./185816-holy-moly.json) |
 | Holy Moonlight | 401454 | [401454-holy-moonlight.json](./401454-holy-moonlight.json) |
+| Holy Nope! | 390307 | [390307-holy-nope.json](./390307-holy-nope.json) |
 | Holy Ocean | 239744 | [239744-holy-ocean.json](./239744-holy-ocean.json) |
 | Holy Paladin Cynthia | 235390 | [235390-holy-paladin-cynthia.json](./235390-holy-paladin-cynthia.json) |
 | Holy Potatoes! A Spy Story?! | 96384 | [96384-holy-potatoes-a-spy-story.json](./96384-holy-potatoes-a-spy-story.json) |
@@ -11109,6 +11111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Line | 47261 | [47261-hot-line.json](./47261-hot-line.json) |
 | Hot Love Dreams: Classic Hentai Logic Puzzle | 274502 | [274502-hot-love-dreams-classic-hentai-logic-puzzle.json](./274502-hot-love-dreams-classic-hentai-logic-puzzle.json) |
 | Hot Mars 69 | 89587 | [89587-hot-mars-69.json](./89587-hot-mars-69.json) |
+| Hot Meals Fast Wheels | 390318 | [390318-hot-meals-fast-wheels.json](./390318-hot-meals-fast-wheels.json) |
 | Hot Mic | 424634 | [424634-hot-mic.json](./424634-hot-mic.json) |
 | Hot Milf | 193265 | [193265-hot-milf.json](./193265-hot-milf.json) |
 | Hot Milf 10 Bikini | 384880 | [384880-hot-milf-10-bikini.json](./384880-hot-milf-10-bikini.json) |
