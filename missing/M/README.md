@@ -5268,6 +5268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maska | 270592 | [270592-maska.json](./270592-maska.json) |
 | Maska's Masks | 126941 | [126941-maskas-masks.json](./126941-maskas-masks.json) |
 | Maskarable | 315108 | [315108-maskarable.json](./315108-maskarable.json) |
+| Maskared | 368966 | [368966-maskared.json](./368966-maskared.json) |
 | Maskborne | 416228 | [416228-maskborne.json](./416228-maskborne.json) |
 | Masked | 120940 | [120940-masked.json](./120940-masked.json) |
 | Masked and Mysterious | 75196 | [75196-masked-and-mysterious.json](./75196-masked-and-mysterious.json) |
@@ -11041,6 +11042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miasma | 253908 | [253908-miasma.json](./253908-miasma.json) |
 | Miasma | 257289 | [257289-miasma.json](./257289-miasma.json) |
 | Miasma 2 | 54205 | [54205-miasma-2.json](./54205-miasma-2.json) |
+| Miasma 2: Freedom Uprising | 369495 | [369495-miasma-2-freedom-uprising.json](./369495-miasma-2-freedom-uprising.json) |
 | Miasma Caves | 95179 | [95179-miasma-caves.json](./95179-miasma-caves.json) |
 | Miasma Chronicles | 201795 | [201795-miasma-chronicles.json](./201795-miasma-chronicles.json) |
 | Miasma: Citizens of Free Thought | 54204 | [54204-miasma-citizens-of-free-thought.json](./54204-miasma-citizens-of-free-thought.json) |
