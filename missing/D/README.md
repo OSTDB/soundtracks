@@ -5752,6 +5752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Endurance | 114894 | [114894-deep-sea-endurance.json](./114894-deep-sea-endurance.json) |
 | Deep Sea Fish: Hidden World | 408590 | [408590-deep-sea-fish-hidden-world.json](./408590-deep-sea-fish-hidden-world.json) |
 | Deep Sea Fishing 2: Offshore Angler | 208718 | [208718-deep-sea-fishing-2-offshore-angler.json](./208718-deep-sea-fishing-2-offshore-angler.json) |
+| Deep Sea Heroes | 333266 | [333266-deep-sea-heroes.json](./333266-deep-sea-heroes.json) |
 | Deep Sea Hunter | 95988 | [95988-deep-sea-hunter.json](./95988-deep-sea-hunter.json) |
 | Deep Sea Hunter 2 | 95989 | [95989-deep-sea-hunter-2.json](./95989-deep-sea-hunter-2.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
@@ -11166,6 +11167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Return to Beast's Castle | 371229 | [371229-disney-dreamlight-valley-return-to-beasts-castle.json](./371229-disney-dreamlight-valley-return-to-beasts-castle.json) |
 | Disney Dreamlight Valley: Scar's Kingdom | 222272 | [222272-disney-dreamlight-valley-scars-kingdom.json](./222272-disney-dreamlight-valley-scars-kingdom.json) |
 | Disney Dreamlight Valley: Sew Delightful | 324607 | [324607-disney-dreamlight-valley-sew-delightful.json](./324607-disney-dreamlight-valley-sew-delightful.json) |
+| Disney Dreamlight Valley: Tales of Agrabah | 333253 | [333253-disney-dreamlight-valley-tales-of-agrabah.json](./333253-disney-dreamlight-valley-tales-of-agrabah.json) |
 | Disney Dreamlight Valley: The Keepsake Sea | 417172 | [417172-disney-dreamlight-valley-the-keepsake-sea.json](./417172-disney-dreamlight-valley-the-keepsake-sea.json) |
 | Disney Dreamlight Valley: The Laugh Floor | 288695 | [288695-disney-dreamlight-valley-the-laugh-floor.json](./288695-disney-dreamlight-valley-the-laugh-floor.json) |
 | Disney Dreamlight Valley: The Pumpkin King Returns | 279239 | [279239-disney-dreamlight-valley-the-pumpkin-king-returns.json](./279239-disney-dreamlight-valley-the-pumpkin-king-returns.json) |
@@ -12848,6 +12850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Takeover!: Bad Ending | 208412 | [208412-doki-doki-takeover-bad-ending.json](./208412-doki-doki-takeover-bad-ending.json) |
 | Doki Doki Tegami Relay | 217845 | [217845-doki-doki-tegami-relay.json](./217845-doki-doki-tegami-relay.json) |
 | Doki Doki The New Literature Club | 336276 | [336276-doki-doki-the-new-literature-club.json](./336276-doki-doki-the-new-literature-club.json) |
+| Doki Doki The Yuri Parable | 332731 | [332731-doki-doki-the-yuri-parable.json](./332731-doki-doki-the-yuri-parable.json) |
 | Doki Doki Theo Club | 374835 | [374835-doki-doki-theo-club.json](./374835-doki-doki-theo-club.json) |
 | Doki Doki Tri-Line Quest | 191218 | [191218-doki-doki-tri-line-quest.json](./191218-doki-doki-tri-line-quest.json) |
 | Doki Doki Tutorial! | 256833 | [256833-doki-doki-tutorial.json](./256833-doki-doki-tutorial.json) |
@@ -12855,6 +12858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Undone Fate | 336247 | [336247-doki-doki-undone-fate.json](./336247-doki-doki-undone-fate.json) |
 | Doki Doki Vacation: Kirameku Kisetsu no Naka de | 257560 | [257560-doki-doki-vacation-kirameku-kisetsu-no-naka-de.json](./257560-doki-doki-vacation-kirameku-kisetsu-no-naka-de.json) |
 | Doki Doki What If | 334823 | [334823-doki-doki-what-if.json](./334823-doki-doki-what-if.json) |
+| Doki Doki Yandere Club! | 332730 | [332730-doki-doki-yandere-club.json](./332730-doki-doki-yandere-club.json) |
 | Doki Doki Your Bully: Natsuki | 332853 | [332853-doki-doki-your-bully-natsuki.json](./332853-doki-doki-your-bully-natsuki.json) |
 | Doki Doki Youtuber Club | 333458 | [333458-doki-doki-youtuber-club.json](./333458-doki-doki-youtuber-club.json) |
 | Doki Doki Zero Bitches Plan | 334272 | [334272-doki-doki-zero-bitches-plan.json](./334272-doki-doki-zero-bitches-plan.json) |
@@ -13790,6 +13794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donna Matrix | 60956 | [60956-donna-matrix.json](./60956-donna-matrix.json) |
 | Donna the Firebreather | 418525 | [418525-donna-the-firebreather.json](./418525-donna-the-firebreather.json) |
 | Donnie Darko: The Adventure Game | 77539 | [77539-donnie-darko-the-adventure-game.json](./77539-donnie-darko-the-adventure-game.json) |
+| Donnie the Chao | 332736 | [332736-donnie-the-chao.json](./332736-donnie-the-chao.json) |
 | Donnie the Chao Final Mix | 316971 | [316971-donnie-the-chao-final-mix.json](./316971-donnie-the-chao-final-mix.json) |
 | Donnie's Delicious Nuclear Funeral | 390521 | [390521-donnies-delicious-nuclear-funeral.json](./390521-donnies-delicious-nuclear-funeral.json) |
 | Donny Donut 3 | 277185 | [277185-donny-donut-3.json](./277185-donny-donut-3.json) |
@@ -15603,6 +15608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Assault | 360148 | [360148-dragon-assault.json](./360148-dragon-assault.json) |
 | Dragon Atlas | 23635 | [23635-dragon-atlas.json](./23635-dragon-atlas.json) |
 | Dragon Attack | 137784 | [137784-dragon-attack.json](./137784-dragon-attack.json) |
+| Dragon Attack Mythologies: A Night Wolf Revenge | 333257 | [333257-dragon-attack-mythologies-a-night-wolf-revenge.json](./333257-dragon-attack-mythologies-a-night-wolf-revenge.json) |
 | Dragon Audit | 103589 | [103589-dragon-audit.json](./103589-dragon-audit.json) |
 | Dragon Audit: Deluxe Edition | 237853 | [237853-dragon-audit-deluxe-edition.json](./237853-dragon-audit-deluxe-edition.json) |
 | Dragon Awaken | 110084 | [110084-dragon-awaken.json](./110084-dragon-awaken.json) |
