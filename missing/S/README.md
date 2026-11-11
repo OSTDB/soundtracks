@@ -2350,6 +2350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturnalia: Deluxe Edition | 227182 | [227182-saturnalia-deluxe-edition.json](./227182-saturnalia-deluxe-edition.json) |
 | Saturnia | 267993 | [267993-saturnia.json](./267993-saturnia.json) |
 | Saturnine | 110127 | [110127-saturnine.json](./110127-saturnine.json) |
+| Saturnine | 364119 | [364119-saturnine.json](./364119-saturnine.json) |
 | Saturnine Chapel | 141835 | [141835-saturnine-chapel.json](./141835-saturnine-chapel.json) |
 | Sauce Factory Tycoon | 375701 | [375701-sauce-factory-tycoon.json](./375701-sauce-factory-tycoon.json) |
 | SauceLore | 265541 | [265541-saucelore.json](./265541-saucelore.json) |
@@ -4261,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Hero Quest | 21645 | [21645-sea-hero-quest.json](./21645-sea-hero-quest.json) |
 | Sea Horizon | 199477 | [199477-sea-horizon.json](./199477-sea-horizon.json) |
 | Sea Horse Hide'n Seek | 114788 | [114788-sea-horse-hiden-seek.json](./114788-sea-horse-hiden-seek.json) |
+| Sea Hotel: Fish Scales | 364129 | [364129-sea-hotel-fish-scales.json](./364129-sea-hotel-fish-scales.json) |
 | Sea Hunt | 40620 | [40620-sea-hunt.json](./40620-sea-hunt.json) |
 | Sea Hunter Idle | 399703 | [399703-sea-hunter-idle.json](./399703-sea-hunter-idle.json) |
 | Sea King | 119515 | [119515-sea-king.json](./119515-sea-king.json) |
@@ -12605,6 +12607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixty Second Shooter Deluxe | 80088 | [80088-sixty-second-shooter-deluxe.json](./80088-sixty-second-shooter-deluxe.json) |
 | Sixty Second Shooter Prime | 20056 | [20056-sixty-second-shooter-prime.json](./20056-sixty-second-shooter-prime.json) |
 | Sixty Words by Powgi | 206719 | [206719-sixty-words-by-powgi.json](./206719-sixty-words-by-powgi.json) |
+| Sixyato | 364111 | [364111-sixyato.json](./364111-sixyato.json) |
 | Siyah: Initiation | 382565 | [382565-siyah-initiation.json](./382565-siyah-initiation.json) |
 | Size Does Matter | 9716 | [9716-size-does-matter.json](./9716-size-does-matter.json) |
 | Size Experiments at Morinomma Tech | 275801 | [275801-size-experiments-at-morinomma-tech.json](./275801-size-experiments-at-morinomma-tech.json) |
@@ -20517,6 +20520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Cheese Defenders | 278511 | [278511-space-cheese-defenders.json](./278511-space-cheese-defenders.json) |
 | Space Cheetah Hyper Runner | 224820 | [224820-space-cheetah-hyper-runner.json](./224820-space-cheetah-hyper-runner.json) |
 | Space Chef | 132526 | [132526-space-chef.json](./132526-space-chef.json) |
+| Space Chess | 364123 | [364123-space-chess.json](./364123-space-chess.json) |
 | Space Chicks | 60792 | [60792-space-chicks.json](./60792-space-chicks.json) |
 | Space Child | 53621 | [53621-space-child.json](./53621-space-child.json) |
 | Space Chimps | 200685 | [200685-space-chimps.json](./200685-space-chimps.json) |
@@ -30202,6 +30206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stretch! | 106059 | [106059-stretch.json](./106059-stretch.json) |
 | StretchBot | 128098 | [128098-stretchbot.json](./128098-stretchbot.json) |
 | Stretcher Men | 291291 | [291291-stretcher-men.json](./291291-stretcher-men.json) |
+| Stretcher Together | 364127 | [364127-stretcher-together.json](./364127-stretcher-together.json) |
 | StretchingVr | 99014 | [99014-stretchingvr.json](./99014-stretchingvr.json) |
 | Stretchmancer | 282093 | [282093-stretchmancer.json](./282093-stretchmancer.json) |
 | Stretchmancer | 331185 | [331185-stretchmancer.json](./331185-stretchmancer.json) |
@@ -31364,12 +31369,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku XL | 90885 | [90885-sudoku-xl.json](./90885-sudoku-xl.json) |
 | Sudoku XP | 278700 | [278700-sudoku-xp.json](./278700-sudoku-xp.json) |
 | Sudoku Zenkai | 93712 | [93712-sudoku-zenkai.json](./93712-sudoku-zenkai.json) |
+| Sudoku-9 | 364131 | [364131-sudoku-9.json](./364131-sudoku-9.json) |
 | Sudoku-Color | 366325 | [366325-sudoku-color.json](./366325-sudoku-color.json) |
 | Sudoku-Duo | 366290 | [366290-sudoku-duo.json](./366290-sudoku-duo.json) |
 | Sudoku-Edge | 366289 | [366289-sudoku-edge.json](./366289-sudoku-edge.json) |
 | Sudoku-Mini | 366324 | [366324-sudoku-mini.json](./366324-sudoku-mini.json) |
 | Sudoku-Nbp | 228390 | [228390-sudoku-nbp.json](./228390-sudoku-nbp.json) |
 | Sudoku-Pro | 366323 | [366323-sudoku-pro.json](./366323-sudoku-pro.json) |
+| Sudoku-X | 364128 | [364128-sudoku-x.json](./364128-sudoku-x.json) |
+| Sudoku-Zen | 364113 | [364113-sudoku-zen.json](./364113-sudoku-zen.json) |
 | Sudoku: Casual Board Game | 250393 | [250393-sudoku-casual-board-game.json](./250393-sudoku-casual-board-game.json) |
 | Sudoku: Classic Sudoku | 223906 | [223906-sudoku-classic-sudoku.json](./223906-sudoku-classic-sudoku.json) |
 | Sudoku: Classic Sudoku Puzzle | 356882 | [356882-sudoku-classic-sudoku-puzzle.json](./356882-sudoku-classic-sudoku-puzzle.json) |
@@ -37243,6 +37251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Kimono | 367311 | [367311-sweet-kimono.json](./367311-sweet-kimono.json) |
 | Sweet Lily Dreams | 9273 | [9273-sweet-lily-dreams.json](./9273-sweet-lily-dreams.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
+| Sweet Lyoria: Cozy Homes | 364125 | [364125-sweet-lyoria-cozy-homes.json](./364125-sweet-lyoria-cozy-homes.json) |
 | Sweet Magic Madness | 99774 | [99774-sweet-magic-madness.json](./99774-sweet-magic-madness.json) |
 | Sweet Massage | 339453 | [339453-sweet-massage.json](./339453-sweet-massage.json) |
 | Sweet Match 3 | 171300 | [171300-sweet-match-3.json](./171300-sweet-match-3.json) |
