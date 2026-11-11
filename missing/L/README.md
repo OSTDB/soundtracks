@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LastSafeZone | 265131 | [265131-lastsafezone.json](./265131-lastsafezone.json) |
 | LastShot | 128338 | [128338-lastshot.json](./128338-lastshot.json) |
 | LastStanding | 413750 | [413750-laststanding.json](./413750-laststanding.json) |
+| LastYear | 382073 | [382073-lastyear.json](./382073-lastyear.json) |
 | Lasy Legacy: Null Space | 277673 | [277673-lasy-legacy-null-space.json](./277673-lasy-legacy-null-space.json) |
 | Lasy Podpoduszańskie | 146655 | [146655-lasy-podpoduszanskie.json](./146655-lasy-podpoduszanskie.json) |
 | Latale | 94907 | [94907-latale.json](./94907-latale.json) |
@@ -3782,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Ripoux | 133439 | [133439-les-ripoux.json](./133439-les-ripoux.json) |
 | Les Schtroumpfs Sauvent la Nature | 400625 | [400625-les-schtroumpfs-sauvent-la-nature.json](./400625-les-schtroumpfs-sauvent-la-nature.json) |
 | Les Terres d'Amarande | 69473 | [69473-les-terres-damarande.json](./69473-les-terres-damarande.json) |
+| Les Trucs qui Tombent | 381502 | [381502-les-trucs-qui-tombent.json](./381502-les-trucs-qui-tombent.json) |
 | Les Visiteurs: Le Jeu | 213566 | [213566-les-visiteurs-le-jeu.json](./213566-les-visiteurs-le-jeu.json) |
 | Les: The Horror Game | 158963 | [158963-les-the-horror-game.json](./158963-les-the-horror-game.json) |
 | Lesbian Kissing Simulator in RPGMaker 2003 | 404040 | [404040-lesbian-kissing-simulator-in-rpgmaker-2003.json](./404040-lesbian-kissing-simulator-in-rpgmaker-2003.json) |
@@ -9534,6 +9536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Anime Puzzle: Autumn | 397288 | [397288-lovely-anime-puzzle-autumn.json](./397288-lovely-anime-puzzle-autumn.json) |
 | Lovely Anime Puzzle: Christmas | 369696 | [369696-lovely-anime-puzzle-christmas.json](./369696-lovely-anime-puzzle-christmas.json) |
 | Lovely Anime Puzzle: Easter | 397639 | [397639-lovely-anime-puzzle-easter.json](./397639-lovely-anime-puzzle-easter.json) |
+| Lovely Anime Puzzle: Lunar | 382091 | [382091-lovely-anime-puzzle-lunar.json](./382091-lovely-anime-puzzle-lunar.json) |
 | Lovely Anime Puzzle: Spring | 398328 | [398328-lovely-anime-puzzle-spring.json](./398328-lovely-anime-puzzle-spring.json) |
 | Lovely Anime Puzzle: Summer | 385868 | [385868-lovely-anime-puzzle-summer.json](./385868-lovely-anime-puzzle-summer.json) |
 | Lovely Anime Puzzle: Valentine | 329163 | [329163-lovely-anime-puzzle-valentine.json](./329163-lovely-anime-puzzle-valentine.json) |
@@ -9598,6 +9601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely x Cation 1 & 2 | 79306 | [79306-lovely-x-cation-1-and-2.json](./79306-lovely-x-cation-1-and-2.json) |
 | Lovelydoll/Wildmachine | 188559 | [188559-lovelydoll-wildmachine.json](./188559-lovelydoll-wildmachine.json) |
 | Lovengrad | 150809 | [150809-lovengrad.json](./150809-lovengrad.json) |
+| Lovepical-Poppy! | 382067 | [382067-lovepical-poppy.json](./382067-lovepical-poppy.json) |
 | LovePlus | 6850 | [6850-loveplus.json](./6850-loveplus.json) |
 | LovePlus Every | 70861 | [70861-loveplus-every.json](./70861-loveplus-every.json) |
 | LovePlus+ | 124475 | [124475-loveplus.json](./124475-loveplus.json) |
