@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UCaptain2: World of Fishing | 247834 | [247834-ucaptain2-world-of-fishing.json](./247834-ucaptain2-world-of-fishing.json) |
 | Ucchan Nanchan no Honoo no Challenger: Denryuu Iraira Bou | 44053 | [44053-ucchan-nanchan-no-honoo-no-challenger-denryuu-iraira-bou.json](./44053-ucchan-nanchan-no-honoo-no-challenger-denryuu-iraira-bou.json) |
 | Uchi Mata | 28467 | [28467-uchi-mata.json](./28467-uchi-mata.json) |
+| Uchi ni Pochi ga Yattekita: In My Pocket | 387124 | [387124-uchi-ni-pochi-ga-yattekita-in-my-pocket.json](./387124-uchi-ni-pochi-ga-yattekita-in-my-pocket.json) |
 | Uchi No Heya! | 403050 | [403050-uchi-no-heya.json](./403050-uchi-no-heya.json) |
 | Uchi no Tama: Wakarimasen ka? | 218269 | [218269-uchi-no-tama-wakarimasen-ka.json](./218269-uchi-no-tama-wakarimasen-ka.json) |
 | Uchi no Tama: Wakarimasen ka? - Kocchi Muite Tama! | 218295 | [218295-uchi-no-tama-wakarimasen-ka-kocchi-muite-tama.json](./218295-uchi-no-tama-wakarimasen-ka-kocchi-muite-tama.json) |
