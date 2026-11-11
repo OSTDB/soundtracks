@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villagers and Heroes | 16843 | [16843-villagers-and-heroes.json](./16843-villagers-and-heroes.json) |
 | Villagers vs Robots Run | 87518 | [87518-villagers-vs-robots-run.json](./87518-villagers-vs-robots-run.json) |
 | Villages | 81014 | [81014-villages.json](./81014-villages.json) |
+| Villages & Dungeons | 344054 | [344054-villages-and-dungeons.json](./344054-villages-and-dungeons.json) |
 | Villages on Wheels | 420496 | [420496-villages-on-wheels.json](./420496-villages-on-wheels.json) |
 | Villaging | 249906 | [249906-villaging.json](./249906-villaging.json) |
 | Villain Academy | 379694 | [379694-villain-academy.json](./379694-villain-academy.json) |
