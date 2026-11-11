@@ -372,6 +372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanafushigi: Nanase to Fushigi no Otome-dou | 200950 | [200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json](./200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json) |
 | Nanairo Reincarnation | 113845 | [113845-nanairo-reincarnation.json](./113845-nanairo-reincarnation.json) |
 | Nanaka: Fushigi no Meikyuuroku | 200951 | [200951-nanaka-fushigi-no-meikyuuroku.json](./200951-nanaka-fushigi-no-meikyuuroku.json) |
+| NanaKnight | 360226 | [360226-nanaknight.json](./360226-nanaknight.json) |
 | Nanako Descends to Hell | 39151 | [39151-nanako-descends-to-hell.json](./39151-nanako-descends-to-hell.json) |
 | Nanali in another world | 226195 | [226195-nanali-in-another-world.json](./226195-nanali-in-another-world.json) |
 | Naname de Magic! | 213831 | [213831-naname-de-magic.json](./213831-naname-de-magic.json) |
@@ -7399,6 +7400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Not 2 | 239444 | [239444-not-not-2.json](./239444-not-not-2.json) |
 | Not Not 2: A Brain Challenge - Complete Edition | 349596 | [349596-not-not-2-a-brain-challenge-complete-edition.json](./349596-not-not-2-a-brain-challenge-complete-edition.json) |
 | Not Not 2: A Brain Challenge - Golden DLC | 343730 | [343730-not-not-2-a-brain-challenge-golden-dlc.json](./343730-not-not-2-a-brain-challenge-golden-dlc.json) |
+| Not Not 2: A Brain Challenge - Golden Edition | 360234 | [360234-not-not-2-a-brain-challenge-golden-edition.json](./360234-not-not-2-a-brain-challenge-golden-edition.json) |
 | Not Not 2: A Brain Challenge - Platinum DLC | 343731 | [343731-not-not-2-a-brain-challenge-platinum-dlc.json](./343731-not-not-2-a-brain-challenge-platinum-dlc.json) |
 | Not Not 2: A Brain Challenge - Platinum Edition | 378856 | [378856-not-not-2-a-brain-challenge-platinum-edition.json](./378856-not-not-2-a-brain-challenge-platinum-edition.json) |
 | Not Not: A Brain Buster | 117957 | [117957-not-not-a-brain-buster.json](./117957-not-not-a-brain-buster.json) |
