@@ -1146,6 +1146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RaidersSphere4th | 35981 | [35981-raiderssphere4th.json](./35981-raiderssphere4th.json) |
 | RaiderZ | 20883 | [20883-raiderz.json](./20883-raiderz.json) |
 | Raidfield 2 | 160242 | [160242-raidfield-2.json](./160242-raidfield-2.json) |
+| Raiding Area 51: Break out Waifu | 389798 | [389798-raiding-area-51-break-out-waifu.json](./389798-raiding-area-51-break-out-waifu.json) |
 | Raiding Company | 94038 | [94038-raiding-company.json](./94038-raiding-company.json) |
 | Raiding Zone | 236242 | [236242-raiding-zone.json](./236242-raiding-zone.json) |
 | Raiding.Zone | 246713 | [246713-raiding-zone.json](./246713-raiding-zone.json) |
