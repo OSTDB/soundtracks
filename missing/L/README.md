@@ -5026,6 +5026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Cycle | 96525 | [96525-light-cycle.json](./96525-light-cycle.json) |
 | Light Dark | 273573 | [273573-light-dark.json](./273573-light-dark.json) |
 | Light De Deux | 338264 | [338264-light-de-deux.json](./338264-light-de-deux.json) |
+| Light Dude | 344070 | [344070-light-dude.json](./344070-light-dude.json) |
 | Light Eater | 215642 | [215642-light-eater.json](./215642-light-eater.json) |
 | Light Em Up!: Escape from Transylvania | 184690 | [184690-light-em-up-escape-from-transylvania.json](./184690-light-em-up-escape-from-transylvania.json) |
 | Light Engine | 333973 | [333973-light-engine.json](./333973-light-engine.json) |
@@ -8043,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopy Treasure | 180764 | [180764-loopy-treasure.json](./180764-loopy-treasure.json) |
 | Loopy Wizard | 200138 | [200138-loopy-wizard.json](./200138-loopy-wizard.json) |
 | Loopy's Train Set | 367617 | [367617-loopys-train-set.json](./367617-loopys-train-set.json) |
+| Loopz | 344062 | [344062-loopz.json](./344062-loopz.json) |
 | Loopz | 77213 | [77213-loopz.json](./77213-loopz.json) |
 | Loose Cannon | 60668 | [60668-loose-cannon.json](./60668-loose-cannon.json) |
 | Loose Dog | 415506 | [415506-loose-dog.json](./415506-loose-dog.json) |
