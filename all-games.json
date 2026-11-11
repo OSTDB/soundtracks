@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T20:20:59.690Z",
-  "total_soundtracks": 3066,
+  "generated_at": "2026-11-11T20:55:50.816Z",
+  "total_soundtracks": 3067,
   "games": [
     {
       "igdb_id": 7522,
@@ -21947,6 +21947,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/neva-prologue-original-soundtrack/1873035980?uo=4",
           "album_link_url": "https://album.link/i/1873035980"
+        }
+      ]
+    },
+    {
+      "igdb_id": 53930,
+      "game_name": "Never Again",
+      "game_url": "https://ostdb.net/games/never-again",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735c81c0308f4fe3291183cf8b",
+      "albums": [
+        {
+          "album_name": "Never Again Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2FaZW8ZH2BL9bfNPWwmbJU",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
