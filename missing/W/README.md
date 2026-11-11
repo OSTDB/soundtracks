@@ -3520,6 +3520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Graystone | 172349 | [172349-welcome-to-graystone.json](./172349-welcome-to-graystone.json) |
 | Welcome to Greedcorp | 355721 | [355721-welcome-to-greedcorp.json](./355721-welcome-to-greedcorp.json) |
 | Welcome to Hanwell | 29076 | [29076-welcome-to-hanwell.json](./29076-welcome-to-hanwell.json) |
+| Welcome to Harmony | 393682 | [393682-welcome-to-harmony.json](./393682-welcome-to-harmony.json) |
 | Welcome to Heaven | 41976 | [41976-welcome-to-heaven.json](./41976-welcome-to-heaven.json) |
 | Welcome to Hell | 178231 | [178231-welcome-to-hell.json](./178231-welcome-to-hell.json) |
 | Welcome to Hell Resort! | 423876 | [423876-welcome-to-hell-resort.json](./423876-welcome-to-hell-resort.json) |
@@ -9209,6 +9210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worlds of Nyx | 391695 | [391695-worlds-of-nyx.json](./391695-worlds-of-nyx.json) |
 | Worlds of the Future | 169170 | [169170-worlds-of-the-future.json](./169170-worlds-of-the-future.json) |
 | Worlds Series Battle Grand Master Endgame | 170966 | [170966-worlds-series-battle-grand-master-endgame.json](./170966-worlds-series-battle-grand-master-endgame.json) |
+| Worlds Upon The Wind | 393684 | [393684-worlds-upon-the-wind.json](./393684-worlds-upon-the-wind.json) |
 | Worlds War 1 | 251649 | [251649-worlds-war-1.json](./251649-worlds-war-1.json) |
 | Worlds Within Worlds | 176312 | [176312-worlds-within-worlds.json](./176312-worlds-within-worlds.json) |
 | Worlds: History Simulator | 125297 | [125297-worlds-history-simulator.json](./125297-worlds-history-simulator.json) |
@@ -9387,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worst Chess: Esther Sauce | 183423 | [183423-worst-chess-esther-sauce.json](./183423-worst-chess-esther-sauce.json) |
 | Worst Coach in the World | 289893 | [289893-worst-coach-in-the-world.json](./289893-worst-coach-in-the-world.json) |
 | Worst Dating Sim | 178658 | [178658-worst-dating-sim.json](./178658-worst-dating-sim.json) |
+| Worst Game in World | 394238 | [394238-worst-game-in-world.json](./394238-worst-game-in-world.json) |
 | Worst Guest | 82555 | [82555-worst-guest.json](./82555-worst-guest.json) |
 | Worst Idea | 295402 | [295402-worst-idea.json](./295402-worst-idea.json) |
 | Worst Nightmare | 151554 | [151554-worst-nightmare.json](./151554-worst-nightmare.json) |
