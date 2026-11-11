@@ -3905,6 +3905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vos en Haas: Het plan van Haas | 98923 | [98923-vos-en-haas-het-plan-van-haas.json](./98923-vos-en-haas-het-plan-van-haas.json) |
 | Vosaria | 103779 | [103779-vosaria.json](./103779-vosaria.json) |
 | Vosaria: Lair of the Forgotten | 118576 | [118576-vosaria-lair-of-the-forgotten.json](./118576-vosaria-lair-of-the-forgotten.json) |
+| Vospetka Simulator | 392549 | [392549-vospetka-simulator.json](./392549-vospetka-simulator.json) |
 | Vosphia | 224558 | [224558-vosphia.json](./224558-vosphia.json) |
 | Vossarium | 400517 | [400517-vossarium.json](./400517-vossarium.json) |
 | Vostok 2061 | 216849 | [216849-vostok-2061.json](./216849-vostok-2061.json) |
