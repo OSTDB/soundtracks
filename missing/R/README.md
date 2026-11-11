@@ -2526,6 +2526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rayball | 119657 | [119657-rayball.json](./119657-rayball.json) |
 | Raybeem | 369204 | [369204-raybeem.json](./369204-raybeem.json) |
 | Raybound | 145683 | [145683-raybound.json](./145683-raybound.json) |
+| Raybounder | 361968 | [361968-raybounder.json](./361968-raybounder.json) |
 | Raycast Racer | 185508 | [185508-raycast-racer.json](./185508-raycast-racer.json) |
 | RayCity | 116391 | [116391-raycity.json](./116391-raycity.json) |
 | RayCity | 388167 | [388167-raycity.json](./388167-raycity.json) |
@@ -3720,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebound RPG | 177690 | [177690-rebound-rpg.json](./177690-rebound-rpg.json) |
 | Rebound Rush | 360617 | [360617-rebound-rush.json](./360617-rebound-rush.json) |
 | Rebound VR | 107504 | [107504-rebound-vr.json](./107504-rebound-vr.json) |
+| Rebounder | 361966 | [361966-rebounder.json](./361966-rebounder.json) |
 | RebreatheR | 373203 | [373203-rebreather.json](./373203-rebreather.json) |
 | Rebuild | 100493 | [100493-rebuild.json](./100493-rebuild.json) |
 | Rebuild / Resist | 185523 | [185523-rebuild-resist.json](./185523-rebuild-resist.json) |
