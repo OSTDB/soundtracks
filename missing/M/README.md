@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Caster | 291716 | [291716-magic-caster.json](./291716-magic-caster.json) |
 | Magic Castle | 142128 | [142128-magic-castle.json](./142128-magic-castle.json) |
 | Magic Castle | 317812 | [317812-magic-castle.json](./317812-magic-castle.json) |
+| Magic Cat | 363098 | [363098-magic-cat.json](./363098-magic-cat.json) |
 | Magic Cat | 89412 | [89412-magic-cat.json](./89412-magic-cat.json) |
 | Magic Cat Academy | 165413 | [165413-magic-cat-academy.json](./165413-magic-cat-academy.json) |
 | Magic Cat Academy 2 | 165414 | [165414-magic-cat-academy-2.json](./165414-magic-cat-academy-2.json) |
@@ -9168,6 +9169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memary: Memory of The Nameless One | 296476 | [296476-memary-memory-of-the-nameless-one.json](./296476-memary-memory-of-the-nameless-one.json) |
 | Memasiki | 368567 | [368567-memasiki.json](./368567-memasiki.json) |
 | Memasiki 2: Oldskuly svelo | 369603 | [369603-memasiki-2-oldskuly-svelo.json](./369603-memasiki-2-oldskuly-svelo.json) |
+| Memasiki Is My 2007th | 363076 | [363076-memasiki-is-my-2007th.json](./363076-memasiki-is-my-2007th.json) |
 | Memasiki po Classice | 404875 | [404875-memasiki-po-classice.json](./404875-memasiki-po-classice.json) |
 | Membal | 287163 | [287163-membal.json](./287163-membal.json) |
 | Membrane | 377596 | [377596-membrane.json](./377596-membrane.json) |
@@ -14350,6 +14352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Mysteries | 17204 | [17204-mirror-mysteries.json](./17204-mirror-mysteries.json) |
 | Mirror Mysteries 2: Forgotten Kingdoms | 36333 | [36333-mirror-mysteries-2-forgotten-kingdoms.json](./36333-mirror-mysteries-2-forgotten-kingdoms.json) |
 | Mirror of Heaven | 380979 | [380979-mirror-of-heaven.json](./380979-mirror-of-heaven.json) |
+| Mirror of the Phantom Maiden | 363087 | [363087-mirror-of-the-phantom-maiden.json](./363087-mirror-of-the-phantom-maiden.json) |
 | Mirror Party | 190914 | [190914-mirror-party.json](./190914-mirror-party.json) |
 | Mirror Quest Dog and Cat | 368566 | [368566-mirror-quest-dog-and-cat.json](./368566-mirror-quest-dog-and-cat.json) |
 | Mirror Shoot | 193478 | [193478-mirror-shoot.json](./193478-mirror-shoot.json) |
@@ -16721,6 +16724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Maker | 108697 | [108697-monster-girl-maker.json](./108697-monster-girl-maker.json) |
 | Monster Girl Maker 2 | 362265 | [362265-monster-girl-maker-2.json](./362265-monster-girl-maker-2.json) |
 | Monster Girl Manager | 190438 | [190438-monster-girl-manager.json](./190438-monster-girl-manager.json) |
+| Monster Girl Manor | 363071 | [363071-monster-girl-manor.json](./363071-monster-girl-manor.json) |
 | Monster Girl Prom | 96672 | [96672-monster-girl-prom.json](./96672-monster-girl-prom.json) |
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
 | Monster Girl Therapy | 399575 | [399575-monster-girl-therapy.json](./399575-monster-girl-therapy.json) |
@@ -21009,6 +21013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Factions | 60989 | [60989-mutant-factions.json](./60989-mutant-factions.json) |
 | Mutant Fighting Cup | 234193 | [234193-mutant-fighting-cup.json](./234193-mutant-fighting-cup.json) |
 | Mutant Fighting Cup 2 | 30367 | [30367-mutant-fighting-cup-2.json](./30367-mutant-fighting-cup-2.json) |
+| Mutant Fish Lab | 363066 | [363066-mutant-fish-lab.json](./363066-mutant-fish-lab.json) |
 | Mutant Football League 2 | 296351 | [296351-mutant-football-league-2.json](./296351-mutant-football-league-2.json) |
 | Mutant Football League: Brainwashington Cadavers | 227389 | [227389-mutant-football-league-brainwashington-cadavers.json](./227389-mutant-football-league-brainwashington-cadavers.json) |
 | Mutant Football League: Brawltimore Razors | 154931 | [154931-mutant-football-league-brawltimore-razors.json](./154931-mutant-football-league-brawltimore-razors.json) |
