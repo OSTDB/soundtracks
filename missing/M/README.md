@@ -13103,7 +13103,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MindLess | 128457 | [128457-mindless.json](./128457-mindless.json) |
 | Mindless Breakpoint | 236440 | [236440-mindless-breakpoint.json](./236440-mindless-breakpoint.json) |
 | Mindless Running | 33533 | [33533-mindless-running.json](./33533-mindless-running.json) |
-| Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindLoop | 182613 | [182613-mindloop.json](./182613-mindloop.json) |
 | MindLoop | 365195 | [365195-mindloop.json](./365195-mindloop.json) |
 | MindMaze | 94823 | [94823-mindmaze.json](./94823-mindmaze.json) |
