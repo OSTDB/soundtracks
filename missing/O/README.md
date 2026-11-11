@@ -4365,6 +4365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oregon Trail II | 47099 | [47099-oregon-trail-ii.json](./47099-oregon-trail-ii.json) |
 | OreLight | 35293 | [35293-orelight.json](./35293-orelight.json) |
 | OreMania | 389097 | [389097-oremania.json](./389097-oremania.json) |
+| Oremus | 356918 | [356918-oremus.json](./356918-oremus.json) |
 | Orendale | 317995 | [317995-orendale.json](./317995-orendale.json) |
 | Orenji-iro no Kumo | 164597 | [164597-orenji-iro-no-kumo.json](./164597-orenji-iro-no-kumo.json) |
 | Oreo O's Extreme Creme Control | 145671 | [145671-oreo-os-extreme-creme-control.json](./145671-oreo-os-extreme-creme-control.json) |
