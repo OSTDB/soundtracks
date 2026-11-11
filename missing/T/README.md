@@ -7361,6 +7361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Burning Wheel | 109099 | [109099-the-burning-wheel.json](./109099-the-burning-wheel.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
 | The Burst | 253186 | [253186-the-burst.json](./253186-the-burst.json) |
+| The Burton Equation | 325167 | [325167-the-burton-equation.json](./325167-the-burton-equation.json) |
 | The Bus | 143887 | [143887-the-bus.json](./143887-the-bus.json) |
 | The Bus: Hamburg City | 371245 | [371245-the-bus-hamburg-city.json](./371245-the-bus-hamburg-city.json) |
 | The Busker | 197268 | [197268-the-busker.json](./197268-the-busker.json) |
@@ -10079,6 +10080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finals: Season 2 | 290770 | [290770-the-finals-season-2.json](./290770-the-finals-season-2.json) |
 | The Finals: Season 3 Starter Pack | 305527 | [305527-the-finals-season-3-starter-pack.json](./305527-the-finals-season-3-starter-pack.json) |
 | The Finals: Season 4 - It's Showtime! | 326563 | [326563-the-finals-season-4-its-showtime.json](./326563-the-finals-season-4-its-showtime.json) |
+| The Finals: Season 5 - Next Stage | 324587 | [324587-the-finals-season-5-next-stage.json](./324587-the-finals-season-5-next-stage.json) |
 | The Finals: Season 6 - Rising Stars! | 400948 | [400948-the-finals-season-6-rising-stars.json](./400948-the-finals-season-6-rising-stars.json) |
 | The Finals: Season 7 - The Divide | 347873 | [347873-the-finals-season-7-the-divide.json](./347873-the-finals-season-7-the-divide.json) |
 | The Finals: Season 9 - Dragon Rising | 381152 | [381152-the-finals-season-9-dragon-rising.json](./381152-the-finals-season-9-dragon-rising.json) |
@@ -15000,6 +15002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery Files of Detective Inaba No. 2 | 131576 | [131576-the-mystery-files-of-detective-inaba-no-2.json](./131576-the-mystery-files-of-detective-inaba-no-2.json) |
 | The Mystery Files of Detective Inaba No. 3 | 131577 | [131577-the-mystery-files-of-detective-inaba-no-3.json](./131577-the-mystery-files-of-detective-inaba-no-3.json) |
 | The Mystery Fountain in Space | 192878 | [192878-the-mystery-fountain-in-space.json](./192878-the-mystery-fountain-in-space.json) |
+| The Mystery Mist | 325156 | [325156-the-mystery-mist.json](./325156-the-mystery-mist.json) |
 | The Mystery of a Lost Planet | 34522 | [34522-the-mystery-of-a-lost-planet.json](./34522-the-mystery-of-a-lost-planet.json) |
 | The Mystery of Arkham Manor | 232516 | [232516-the-mystery-of-arkham-manor.json](./232516-the-mystery-of-arkham-manor.json) |
 | The Mystery of Bikini Island | 286519 | [286519-the-mystery-of-bikini-island.json](./286519-the-mystery-of-bikini-island.json) |
@@ -15699,6 +15702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Passage | 234809 | [234809-the-passage.json](./234809-the-passage.json) |
 | The Passage of Time | 155869 | [155869-the-passage-of-time.json](./155869-the-passage-of-time.json) |
 | The Passenger | 266393 | [266393-the-passenger.json](./266393-the-passenger.json) |
+| The Passive Voice | 325154 | [325154-the-passive-voice.json](./325154-the-passive-voice.json) |
 | The Password Game | 254888 | [254888-the-password-game.json](./254888-the-password-game.json) |
 | The Past | 236225 | [236225-the-past.json](./236225-the-past.json) |
 | The Past is Present | 335039 | [335039-the-past-is-present.json](./335039-the-past-is-present.json) |
@@ -15980,6 +15984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Plutonia Experiment | 313170 | [313170-the-plutonia-experiment.json](./313170-the-plutonia-experiment.json) |
 | The Plutonia Experiment | 46615 | [46615-the-plutonia-experiment.json](./46615-the-plutonia-experiment.json) |
 | The Pocket Arcade | 264008 | [264008-the-pocket-arcade.json](./264008-the-pocket-arcade.json) |
+| The Pocket Master | 324052 | [324052-the-pocket-master.json](./324052-the-pocket-master.json) |
 | The Podlands | 117484 | [117484-the-podlands.json](./117484-the-podlands.json) |
 | The Pogo Witch | 416551 | [416551-the-pogo-witch.json](./416551-the-pogo-witch.json) |
 | The Pointless Car Chase | 121701 | [121701-the-pointless-car-chase.json](./121701-the-pointless-car-chase.json) |
