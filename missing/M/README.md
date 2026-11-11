@@ -3450,7 +3450,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mannerheim's Saloon Car | 277636 | [277636-mannerheims-saloon-car.json](./277636-mannerheims-saloon-car.json) |
 | Manners Be Damned! | 330900 | [330900-manners-be-damned.json](./330900-manners-be-damned.json) |
 | Manny Boxing VR | 202634 | [202634-manny-boxing-vr.json](./202634-manny-boxing-vr.json) |
-| Manny's | 260528 | [260528-mannys.json](./260528-mannys.json) |
 | Manny's 2 | 329018 | [329018-mannys-2.json](./329018-mannys-2.json) |
 | Manny's Mechanical Emporium | 224679 | [224679-mannys-mechanical-emporium.json](./224679-mannys-mechanical-emporium.json) |
 | Manny's Murderous Movie Theater: The Snackbar Simulator | 370718 | [370718-mannys-murderous-movie-theater-the-snackbar-simulator.json](./370718-mannys-murderous-movie-theater-the-snackbar-simulator.json) |
