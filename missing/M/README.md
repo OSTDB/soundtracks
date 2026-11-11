@@ -6740,6 +6740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze.io | 105807 | [105807-maze-io.json](./105807-maze-io.json) |
 | Mazebert TD | 207848 | [207848-mazebert-td.json](./207848-mazebert-td.json) |
 | MazeBot | 97070 | [97070-mazebot.json](./97070-mazebot.json) |
+| Mazebound: Hunt, Gather, Run! | 368415 | [368415-mazebound-hunt-gather-run.json](./368415-mazebound-hunt-gather-run.json) |
 | MazeBrew | 242771 | [242771-mazebrew.json](./242771-mazebrew.json) |
 | MazeCraft | 365217 | [365217-mazecraft.json](./365217-mazecraft.json) |
 | Mazed and Bemused | 143963 | [143963-mazed-and-bemused.json](./143963-mazed-and-bemused.json) |
@@ -14762,6 +14763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Wolf | 68815 | [68815-mission-wolf.json](./68815-mission-wolf.json) |
 | Mission:Amazing | 128341 | [128341-mission-amazing.json](./128341-mission-amazing.json) |
 | MissionForce: CyberStorm | 792 | [792-missionforce-cyberstorm.json](./792-missionforce-cyberstorm.json) |
+| Mississauga Tycoon | 368416 | [368416-mississauga-tycoon.json](./368416-mississauga-tycoon.json) |
 | Missland | 225613 | [225613-missland.json](./225613-missland.json) |
 | Missland 2 | 277427 | [277427-missland-2.json](./277427-missland-2.json) |
 | Missman | 295360 | [295360-missman.json](./295360-missman.json) |
@@ -20849,6 +20851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Game | 376646 | [376646-music-game.json](./376646-music-game.json) |
 | Music Genius Pro / Stream | 409734 | [409734-music-genius-pro-stream.json](./409734-music-genius-pro-stream.json) |
 | Music Girl | 335741 | [335741-music-girl.json](./335741-music-girl.json) |
+| Music Girl Hatsune Miku | 368411 | [368411-music-girl-hatsune-miku.json](./368411-music-girl-hatsune-miku.json) |
 | Music Girls | 196344 | [196344-music-girls.json](./196344-music-girls.json) |
 | Music GunGun! | 64963 | [64963-music-gungun.json](./64963-music-gungun.json) |
 | Music in Motion | 265745 | [265745-music-in-motion.json](./265745-music-in-motion.json) |
@@ -23120,6 +23123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Sky Temple | 360369 | [360369-mystery-of-the-sky-temple.json](./360369-mystery-of-the-sky-temple.json) |
 | Mystery of the Sleeping Castle | 301467 | [301467-mystery-of-the-sleeping-castle.json](./301467-mystery-of-the-sleeping-castle.json) |
 | Mystery of Time and Space | 78675 | [78675-mystery-of-time-and-space.json](./78675-mystery-of-time-and-space.json) |
+| Mystery of Unicorn Castle | 368930 | [368930-mystery-of-unicorn-castle.json](./368930-mystery-of-unicorn-castle.json) |
 | Mystery of Unicorn Castle: The Beastmaster | 33876 | [33876-mystery-of-unicorn-castle-the-beastmaster.json](./33876-mystery-of-unicorn-castle-the-beastmaster.json) |
 | Mystery P.I. - Lost in Los Angeles | 14816 | [14816-mystery-p-i-lost-in-los-angeles.json](./14816-mystery-p-i-lost-in-los-angeles.json) |
 | Mystery P.I. - The New York Fortune | 14814 | [14814-mystery-p-i-the-new-york-fortune.json](./14814-mystery-p-i-the-new-york-fortune.json) |
