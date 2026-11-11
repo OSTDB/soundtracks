@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las gafas nuevas del yayo Carmelo | 314380 | [314380-las-gafas-nuevas-del-yayo-carmelo.json](./314380-las-gafas-nuevas-del-yayo-carmelo.json) |
 | Las Gymkhanikas de Uli | 377290 | [377290-las-gymkhanikas-de-uli.json](./377290-las-gymkhanikas-de-uli.json) |
 | Las Vegas | 305463 | [305463-las-vegas.json](./305463-las-vegas.json) |
+| Las Vegas | 367874 | [367874-las-vegas.json](./367874-las-vegas.json) |
 | Las Vegas | 41423 | [41423-las-vegas.json](./41423-las-vegas.json) |
 | Las Vegas | 91384 | [91384-las-vegas.json](./91384-las-vegas.json) |
 | Las Vegas Blackjack! | 41544 | [41544-las-vegas-blackjack.json](./41544-las-vegas-blackjack.json) |
@@ -2743,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Egypt: Jewels of the Gods | 275970 | [275970-legend-of-egypt-jewels-of-the-gods.json](./275970-legend-of-egypt-jewels-of-the-gods.json) |
 | Legend of Egypt: Pharaoh's Garden 2 - The Sacred Crocodile | 227100 | [227100-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json](./227100-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json) |
 | Legend of Egypt: Pharaohs Garden 2 - The sacred crocodile | 215339 | [215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json](./215339-legend-of-egypt-pharaohs-garden-2-the-sacred-crocodile.json) |
+| Legend of Elements | 368160 | [368160-legend-of-elements.json](./368160-legend-of-elements.json) |
 | Legend of Empress | 255118 | [255118-legend-of-empress.json](./255118-legend-of-empress.json) |
 | Legend of Equip > Pants | 396346 | [396346-legend-of-equip-pants.json](./396346-legend-of-equip-pants.json) |
 | Legend of Etad | 208211 | [208211-legend-of-etad.json](./208211-legend-of-etad.json) |
@@ -3729,6 +3731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leonardo's Island | 160075 | [160075-leonardos-island.json](./160075-leonardos-island.json) |
 | Leonidov | 374277 | [374277-leonidov.json](./374277-leonidov.json) |
 | Leons Identität | 168598 | [168598-leons-identitat.json](./168598-leons-identitat.json) |
+| LeonWaan MineSweeper | 368382 | [368382-leonwaan-minesweeper.json](./368382-leonwaan-minesweeper.json) |
 | Leopard Lord | 137348 | [137348-leopard-lord.json](./137348-leopard-lord.json) |
 | Leopoldo Manquiseil | 110789 | [110789-leopoldo-manquiseil.json](./110789-leopoldo-manquiseil.json) |
 | Leowald | 116106 | [116106-leowald.json](./116106-leowald.json) |
@@ -8579,6 +8582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost girl's [diary] | 33473 | [33473-lost-girls-diary.json](./33473-lost-girls-diary.json) |
 | Lost God | 24939 | [24939-lost-god.json](./24939-lost-god.json) |
 | Lost Gold | 156065 | [156065-lost-gold.json](./156065-lost-gold.json) |
+| Lost Gorga | 368397 | [368397-lost-gorga.json](./368397-lost-gorga.json) |
 | Lost Gray | 208561 | [208561-lost-gray.json](./208561-lost-gray.json) |
 | Lost Grimoires 1-3 | 185983 | [185983-lost-grimoires-1-3.json](./185983-lost-grimoires-1-3.json) |
 | Lost Grimoires 2: Shard of Mystery | 29961 | [29961-lost-grimoires-2-shard-of-mystery.json](./29961-lost-grimoires-2-shard-of-mystery.json) |
