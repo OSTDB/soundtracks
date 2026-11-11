@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T23:25:58.169Z",
-  "total_soundtracks": 3174,
+  "generated_at": "2026-11-11T23:31:12.101Z",
+  "total_soundtracks": 3179,
   "games": [
     {
       "igdb_id": 7522,
@@ -3560,6 +3560,20 @@
           "album_name": "Battlefield: Bad Company 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5Ng1Pl9BTKiPb8dPwzMpyY",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 8713,
+      "game_name": "Battlefleet Gothic: Armada",
+      "game_url": "https://ostdb.net/games/battlefleet-gothic-armada",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27328dc773cc9953cddd1407e4a",
+      "albums": [
+        {
+          "album_name": "Battlefleet Gothic: Armada (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2SMRsqhOvhj3ieKHCgaqc0",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -10471,6 +10485,20 @@
       ]
     },
     {
+      "igdb_id": 11159,
+      "game_name": "Edge of Nowhere",
+      "game_url": "https://ostdb.net/games/edge-of-nowhere",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27398186d9a5335719919f247a7",
+      "albums": [
+        {
+          "album_name": "Edge of Nowhere (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7v3DXLQ7w0KGi2FGmd0QTM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 137451,
       "game_name": "Eiyuden Chronicle: Hundred Heroes",
       "game_url": "https://ostdb.net/games/eiyuden-chronicle-hundred-heroes",
@@ -17266,6 +17294,20 @@
           "album_name": "It Takes Two (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1RVUhqrZ6vEkghRDhe76qV",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11598,
+      "game_name": "Ittle Dew 2",
+      "game_url": "https://ostdb.net/games/ittle-dew-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273aeb94d6a933af060f2b90b56",
+      "albums": [
+        {
+          "album_name": "Ittle Dew 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2j1HlC9cweUyuBUarOOOTc",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -26249,6 +26291,20 @@
         {
           "album_name": "REANIMAL (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1hHJt42xqtAvo5J3ma5CCP",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11691,
+      "game_name": "Reassembly",
+      "game_url": "https://ostdb.net/games/reassembly",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27396c02c0849399cf063efebf8",
+      "albums": [
+        {
+          "album_name": "Reassembly (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0w2RxPCZHpHNu6SewCsRNe",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -38719,6 +38775,20 @@
         {
           "album_name": "Warhammer 40,000: Mechanicus (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2MorNFoa0orgkZEoX0FUcn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 11450,
+      "game_name": "Warhammer 40,000: Regicide",
+      "game_url": "https://ostdb.net/games/warhammer-40-000-regicide",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732bf5497b81848f325dce5b6a",
+      "albums": [
+        {
+          "album_name": "Warhammer 40,000: Regicide (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3cfrPfzHWNMohDL1sRTIJR",
           "apple_music_url": "",
           "album_link_url": ""
         }
