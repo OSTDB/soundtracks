@@ -4068,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR # Avoid | 288489 | [288489-vr-avoid.json](./288489-vr-avoid.json) |
 | VR Adventure (Virtual Reality for mobile devices) | 68485 | [68485-vr-adventure-virtual-reality-for-mobile-devices.json](./68485-vr-adventure-virtual-reality-for-mobile-devices.json) |
 | VR Agent | 288069 | [288069-vr-agent.json](./288069-vr-agent.json) |
+| VR AIM | 387844 | [387844-vr-aim.json](./387844-vr-aim.json) |
 | VR Aim Trainer | 371590 | [371590-vr-aim-trainer.json](./371590-vr-aim-trainer.json) |
 | VR AirHockey | 195221 | [195221-vr-airhockey.json](./195221-vr-airhockey.json) |
 | VR Amazing Files: Horror Hospital | 31588 | [31588-vr-amazing-files-horror-hospital.json](./31588-vr-amazing-files-horror-hospital.json) |
