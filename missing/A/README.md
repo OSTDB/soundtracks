@@ -2925,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Alien | 334767 | [334767-achievement-hunter-alien.json](./334767-achievement-hunter-alien.json) |
 | Achievement Hunter: Begins | 307333 | [307333-achievement-hunter-begins.json](./307333-achievement-hunter-begins.json) |
 | Achievement Hunter: Cromulent | 368014 | [368014-achievement-hunter-cromulent.json](./368014-achievement-hunter-cromulent.json) |
+| Achievement Hunter: Darkness | 368386 | [368386-achievement-hunter-darkness.json](./368386-achievement-hunter-darkness.json) |
 | Achievement Hunter: Darkness 2 | 368352 | [368352-achievement-hunter-darkness-2.json](./368352-achievement-hunter-darkness-2.json) |
 | Achievement Hunter: Dogger | 368355 | [368355-achievement-hunter-dogger.json](./368355-achievement-hunter-dogger.json) |
 | Achievement Hunter: Dragon | 334782 | [334782-achievement-hunter-dragon.json](./334782-achievement-hunter-dragon.json) |
@@ -2936,9 +2937,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Offensive | 368412 | [368412-achievement-hunter-offensive.json](./368412-achievement-hunter-offensive.json) |
 | Achievement Hunter: Overdose | 368155 | [368155-achievement-hunter-overdose.json](./368155-achievement-hunter-overdose.json) |
 | Achievement Hunter: Princess | 367847 | [367847-achievement-hunter-princess.json](./367847-achievement-hunter-princess.json) |
+| Achievement Hunter: Punk | 368387 | [368387-achievement-hunter-punk.json](./368387-achievement-hunter-punk.json) |
 | Achievement Hunter: Samurai | 334772 | [334772-achievement-hunter-samurai.json](./334772-achievement-hunter-samurai.json) |
 | Achievement Hunter: Scars | 368356 | [368356-achievement-hunter-scars.json](./368356-achievement-hunter-scars.json) |
 | Achievement Hunter: Thief | 334762 | [334762-achievement-hunter-thief.json](./334762-achievement-hunter-thief.json) |
+| Achievement Hunter: Urban | 368390 | [368390-achievement-hunter-urban.json](./368390-achievement-hunter-urban.json) |
 | Achievement Hunter: Urban 2 | 368943 | [368943-achievement-hunter-urban-2.json](./368943-achievement-hunter-urban-2.json) |
 | Achievement Hunter: Witch | 334780 | [334780-achievement-hunter-witch.json](./334780-achievement-hunter-witch.json) |
 | Achievement Hunter: Wizard | 368633 | [368633-achievement-hunter-wizard.json](./368633-achievement-hunter-wizard.json) |
@@ -6120,6 +6123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Mania: Non-Stop Flights | 63985 | [63985-airport-mania-non-stop-flights.json](./63985-airport-mania-non-stop-flights.json) |
 | Airport Master | 208904 | [208904-airport-master.json](./208904-airport-master.json) |
 | Airport Master | 29649 | [29649-airport-master.json](./29649-airport-master.json) |
+| Airport Panic | 367886 | [367886-airport-panic.json](./367886-airport-panic.json) |
 | Airport Police Contraband Simulator: Border Patrol | 324982 | [324982-airport-police-contraband-simulator-border-patrol.json](./324982-airport-police-contraband-simulator-border-patrol.json) |
 | Airport Police Simulator | 374416 | [374416-airport-police-simulator.json](./374416-airport-police-simulator.json) |
 | Airport Renovator | 174580 | [174580-airport-renovator.json](./174580-airport-renovator.json) |
@@ -11217,6 +11221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ankoku Densetsu | 38095 | [38095-ankoku-densetsu.json](./38095-ankoku-densetsu.json) |
 | Ankoku Shinwa: Yamato Takeru Densetsu | 48633 | [48633-ankoku-shinwa-yamato-takeru-densetsu.json](./48633-ankoku-shinwa-yamato-takeru-densetsu.json) |
 | Ankoku-jou | 334900 | [334900-ankoku-jou.json](./334900-ankoku-jou.json) |
+| Ankora | 368167 | [368167-ankora.json](./368167-ankora.json) |
 | Ankora: Lost Days | 108867 | [108867-ankora-lost-days.json](./108867-ankora-lost-days.json) |
 | Anlife: Motion-Learning Life Evolution | 264202 | [264202-anlife-motion-learning-life-evolution.json](./264202-anlife-motion-learning-life-evolution.json) |
 | Anmynor Puzzles | 17040 | [17040-anmynor-puzzles.json](./17040-anmynor-puzzles.json) |
