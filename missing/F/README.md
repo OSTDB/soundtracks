@@ -7970,6 +7970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Snooker Game | 161562 | [161562-flash-snooker-game.json](./161562-flash-snooker-game.json) |
 | Flash Splash | 94592 | [94592-flash-splash.json](./94592-flash-splash.json) |
 | Flash Tennis | 312805 | [312805-flash-tennis.json](./312805-flash-tennis.json) |
+| Flash The Simpsons Pacman | 334955 | [334955-flash-the-simpsons-pacman.json](./334955-flash-the-simpsons-pacman.json) |
 | Flash Traffic: City of Angels | 70063 | [70063-flash-traffic-city-of-angels.json](./70063-flash-traffic-city-of-angels.json) |
 | Flashback | 185854 | [185854-flashback.json](./185854-flashback.json) |
 | Flashback | 19833 | [19833-flashback.json](./19833-flashback.json) |
@@ -10402,6 +10403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Pop | 218724 | [218724-forest-pop.json](./218724-forest-pop.json) |
 | Forest Problems | 161705 | [161705-forest-problems.json](./161705-forest-problems.json) |
 | Forest Puzzle | 209561 | [209561-forest-puzzle.json](./209561-forest-puzzle.json) |
+| Forest Ranger Life Simulator | 334983 | [334983-forest-ranger-life-simulator.json](./334983-forest-ranger-life-simulator.json) |
 | Forest Ranger Services | 351376 | [351376-forest-ranger-services.json](./351376-forest-ranger-services.json) |
 | Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
 | Forest Ranger Services: Episode 2 | 351374 | [351374-forest-ranger-services-episode-2.json](./351374-forest-ranger-services-episode-2.json) |
