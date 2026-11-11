@@ -3420,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel Super Heroes 2: Runaways Level and Character Pack | 137311 | [137311-lego-marvel-super-heroes-2-runaways-level-and-character-pack.json](./137311-lego-marvel-super-heroes-2-runaways-level-and-character-pack.json) |
 | LEGO Marvel Super Heroes: Asgard Character Pack | 101063 | [101063-lego-marvel-super-heroes-asgard-character-pack.json](./101063-lego-marvel-super-heroes-asgard-character-pack.json) |
 | LEGO Marvel Super Heroes: Iron Patriot Minifigure - Limited Edition | 89899 | [89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json](./89899-lego-marvel-super-heroes-iron-patriot-minifigure-limited-edition.json) |
+| LEGO Marvel Super Heroes: Universe in Peril | 345159 | [345159-lego-marvel-super-heroes-universe-in-peril.json](./345159-lego-marvel-super-heroes-universe-in-peril.json) |
 | LEGO Marvel Super Heroes: Universe in Peril | 47966 | [47966-lego-marvel-super-heroes-universe-in-peril.json](./47966-lego-marvel-super-heroes-universe-in-peril.json) |
 | LEGO Marvel's Avengers | 11069 | [11069-lego-marvels-avengers.json](./11069-lego-marvels-avengers.json) |
 | LEGO Marvel's Avengers | 423220 | [423220-lego-marvels-avengers.json](./423220-lego-marvels-avengers.json) |
