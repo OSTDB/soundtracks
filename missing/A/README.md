@@ -760,7 +760,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Little Age | 404181 | [404181-a-little-age.json](./404181-a-little-age.json) |
 | A Little Bird | 148797 | [148797-a-little-bird.json](./148797-a-little-bird.json) |
 | A Little Bus Stop | 176254 | [176254-a-little-bus-stop.json](./176254-a-little-bus-stop.json) |
-| A Little Golf Journey | 132300 | [132300-a-little-golf-journey.json](./132300-a-little-golf-journey.json) |
 | A little Jumpingspider's Garden Adventure (Day 1+2) | 392700 | [392700-a-little-jumpingspiders-garden-adventure-day-1-2.json](./392700-a-little-jumpingspiders-garden-adventure-day-1-2.json) |
 | A Little Less Desperation | 392213 | [392213-a-little-less-desperation.json](./392213-a-little-less-desperation.json) |
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
@@ -4775,7 +4774,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the End: Forsaken Destiny | 74792 | [74792-after-the-end-forsaken-destiny.json](./74792-after-the-end-forsaken-destiny.json) |
 | After The End: Southern Land | 356044 | [356044-after-the-end-southern-land.json](./356044-after-the-end-southern-land.json) |
 | After The End: The Harvest | 34892 | [34892-after-the-end-the-harvest.json](./34892-after-the-end-the-harvest.json) |
-| After the Fall | 119330 | [119330-after-the-fall.json](./119330-after-the-fall.json) |
 | After the Fall | 203158 | [203158-after-the-fall.json](./203158-after-the-fall.json) |
 | After the Fall | 257177 | [257177-after-the-fall.json](./257177-after-the-fall.json) |
 | After the Fall: Complete Edition | 237751 | [237751-after-the-fall-complete-edition.json](./237751-after-the-fall-complete-edition.json) |
