@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20 Challenges: Episode 5 - Community Vibe | 392352 | [392352-20-challenges-episode-5-community-vibe.json](./392352-20-challenges-episode-5-community-vibe.json) |
 | 20 Days | 184870 | [184870-20-days.json](./184870-20-days.json) |
 | 20 Days | 371267 | [371267-20-days.json](./371267-20-days.json) |
+| 20 Days to Find Amy | 380347 | [380347-20-days-to-find-amy.json](./380347-20-days-to-find-amy.json) |
 | 20 Doors | 256769 | [256769-20-doors.json](./256769-20-doors.json) |
 | 20 em 1 | 94700 | [94700-20-em-1.json](./94700-20-em-1.json) |
 | 20 em 1: Game 1 | 245217 | [245217-20-em-1-game-1.json](./245217-20-em-1-game-1.json) |
@@ -2284,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 days to Defence | 126267 | [126267-30-days-to-defence.json](./126267-30-days-to-defence.json) |
 | 30 Days to Survive | 89775 | [89775-30-days-to-survive.json](./89775-30-days-to-survive.json) |
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
+| 30 Games | 380343 | [380343-30-games.json](./380343-30-games.json) |
 | 30 Impossible Levels | 33054 | [33054-30-impossible-levels.json](./33054-30-impossible-levels.json) |
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
 | 30 in 1 Game Collection Vol.1 | 135976 | [135976-30-in-1-game-collection-vol-1.json](./135976-30-in-1-game-collection-vol-1.json) |
