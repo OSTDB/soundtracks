@@ -2694,6 +2694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Tennis Club | 419881 | [419881-elf-tennis-club.json](./419881-elf-tennis-club.json) |
 | Elf Wives Cheat to Ride my Meat | 210394 | [210394-elf-wives-cheat-to-ride-my-meat.json](./210394-elf-wives-cheat-to-ride-my-meat.json) |
 | Elf World Adventure | 339736 | [339736-elf-world-adventure.json](./339736-elf-world-adventure.json) |
+| Elf World Adventure 11: Halloween Episode! | 389802 | [389802-elf-world-adventure-11-halloween-episode.json](./389802-elf-world-adventure-11-halloween-episode.json) |
 | Elf World Adventure 2 | 339737 | [339737-elf-world-adventure-2.json](./339737-elf-world-adventure-2.json) |
 | Elf World Adventure 3 | 339738 | [339738-elf-world-adventure-3.json](./339738-elf-world-adventure-3.json) |
 | Elf World Adventure 4 | 339739 | [339739-elf-world-adventure-4.json](./339739-elf-world-adventure-4.json) |
