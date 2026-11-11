@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kingdom for Keflings | 15860 | [15860-a-kingdom-for-keflings.json](./15860-a-kingdom-for-keflings.json) |
 | A Kingdom of Flesh and Stone | 120610 | [120610-a-kingdom-of-flesh-and-stone.json](./120610-a-kingdom-of-flesh-and-stone.json) |
+| A Kingdom of Soil | 365532 | [365532-a-kingdom-of-soil.json](./365532-a-kingdom-of-soil.json) |
 | A Kingdom to Conquer | 279500 | [279500-a-kingdom-to-conquer.json](./279500-a-kingdom-to-conquer.json) |
 | A Kishoutenketsu in the Countryside | 134688 | [134688-a-kishoutenketsu-in-the-countryside.json](./134688-a-kishoutenketsu-in-the-countryside.json) |
 | A Kiss for the Petals - Remembering How We Met | 34585 | [34585-a-kiss-for-the-petals-remembering-how-we-met.json](./34585-a-kiss-for-the-petals-remembering-how-we-met.json) |
@@ -3844,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure in the Tower of Flight | 35295 | [35295-adventure-in-the-tower-of-flight.json](./35295-adventure-in-the-tower-of-flight.json) |
 | Adventure in Time | 205774 | [205774-adventure-in-time.json](./205774-adventure-in-time.json) |
 | Adventure In Vegas: Slot Machine | 84974 | [84974-adventure-in-vegas-slot-machine.json](./84974-adventure-in-vegas-slot-machine.json) |
+| Adventure in Wonderwood | 365339 | [365339-adventure-in-wonderwood.json](./365339-adventure-in-wonderwood.json) |
 | Adventure in XX City 2: Finding BB | 314411 | [314411-adventure-in-xx-city-2-finding-bb.json](./314411-adventure-in-xx-city-2-finding-bb.json) |
 | Adventure Inlay | 139720 | [139720-adventure-inlay.json](./139720-adventure-inlay.json) |
 | Adventure Inlay: Safari Edition | 52550 | [52550-adventure-inlay-safari-edition.json](./52550-adventure-inlay-safari-edition.json) |
