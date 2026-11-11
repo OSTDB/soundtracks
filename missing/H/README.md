@@ -3491,6 +3491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Fragment: Book Three - Despair Fragments | 246566 | [246566-heart-fragment-book-three-despair-fragments.json](./246566-heart-fragment-book-three-despair-fragments.json) |
 | Heart Fragment: Book Two - Belief Fragments | 196126 | [196126-heart-fragment-book-two-belief-fragments.json](./196126-heart-fragment-book-two-belief-fragments.json) |
 | Heart Heroes: Wolf Knight | 258767 | [258767-heart-heroes-wolf-knight.json](./258767-heart-heroes-wolf-knight.json) |
+| Heart Idler | 349012 | [349012-heart-idler.json](./349012-heart-idler.json) |
 | Heart in the Cell: Rebirth | 157020 | [157020-heart-in-the-cell-rebirth.json](./157020-heart-in-the-cell-rebirth.json) |
 | Heart in the Dark | 125090 | [125090-heart-in-the-dark.json](./125090-heart-in-the-dark.json) |
 | Heart Inside | 152623 | [152623-heart-inside.json](./152623-heart-inside.json) |
