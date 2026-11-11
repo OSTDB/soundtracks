@@ -2178,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capture | 104672 | [104672-capture.json](./104672-capture.json) |
 | Capture | 281217 | [281217-capture.json](./281217-capture.json) |
 | Capture | 72369 | [72369-capture.json](./72369-capture.json) |
+| Capture Catcoffee | 359626 | [359626-capture-catcoffee.json](./359626-capture-catcoffee.json) |
 | Capture Corps: Archipelago | 217867 | [217867-capture-corps-archipelago.json](./217867-capture-corps-archipelago.json) |
 | Capture Creatures | 195252 | [195252-capture-creatures.json](./195252-capture-creatures.json) |
 | Capture the Flag | 215496 | [215496-capture-the-flag.json](./215496-capture-the-flag.json) |
@@ -2294,6 +2295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Escape 1-5 | 88697 | [88697-car-escape-1-5.json](./88697-car-escape-1-5.json) |
 | Car Factory | 259914 | [259914-car-factory.json](./259914-car-factory.json) |
 | Car Factory Driver | 233866 | [233866-car-factory-driver.json](./233866-car-factory-driver.json) |
+| Car Factory Empire | 359640 | [359640-car-factory-empire.json](./359640-car-factory-empire.json) |
 | Car Factory Simulator | 232166 | [232166-car-factory-simulator.json](./232166-car-factory-simulator.json) |
 | Car Factory Tycoon | 230372 | [230372-car-factory-tycoon.json](./230372-car-factory-tycoon.json) |
 | Car Fighter | 47539 | [47539-car-fighter.json](./47539-car-fighter.json) |
@@ -12205,6 +12207,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee At Night | 339351 | [339351-coffee-at-night.json](./339351-coffee-at-night.json) |
 | Coffee Bar Renovator | 216608 | [216608-coffee-bar-renovator.json](./216608-coffee-bar-renovator.json) |
 | Coffee Bar Simulator | 373269 | [373269-coffee-bar-simulator.json](./373269-coffee-bar-simulator.json) |
+| Coffee Beans | 359625 | [359625-coffee-beans.json](./359625-coffee-beans.json) |
+| Coffee Bonds | 359624 | [359624-coffee-bonds.json](./359624-coffee-bonds.json) |
 | Coffee Brakes | 276207 | [276207-coffee-brakes.json](./276207-coffee-brakes.json) |
 | Coffee Break | 128114 | [128114-coffee-break.json](./128114-coffee-break.json) |
 | Coffee Break | 206303 | [206303-coffee-break.json](./206303-coffee-break.json) |
@@ -12245,6 +12249,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Run | 74470 | [74470-coffee-run.json](./74470-coffee-run.json) |
 | Coffee Runner Black and Mocha | 119490 | [119490-coffee-runner-black-and-mocha.json](./119490-coffee-runner-black-and-mocha.json) |
 | Coffee Rush | 126740 | [126740-coffee-rush.json](./126740-coffee-rush.json) |
+| Coffee Rush | 359623 | [359623-coffee-rush.json](./359623-coffee-rush.json) |
+| Coffee Shop "Keyhole" | 359622 | [359622-coffee-shop-keyhole.json](./359622-coffee-shop-keyhole.json) |
 | Coffee Shop Simulator | 217070 | [217070-coffee-shop-simulator.json](./217070-coffee-shop-simulator.json) |
 | Coffee Shop Simulator | 356970 | [356970-coffee-shop-simulator.json](./356970-coffee-shop-simulator.json) |
 | Coffee Shop Tycoon | 35274 | [35274-coffee-shop-tycoon.json](./35274-coffee-shop-tycoon.json) |
@@ -12342,6 +12348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Eruption | 304551 | [304551-coin-eruption.json](./304551-coin-eruption.json) |
 | Coin Exchange Craze | 275356 | [275356-coin-exchange-craze.json](./275356-coin-exchange-craze.json) |
 | Coin Factory | 312885 | [312885-coin-factory.json](./312885-coin-factory.json) |
+| Coin Factory 2 | 359639 | [359639-coin-factory-2.json](./359639-coin-factory-2.json) |
 | Coin Factory Idle: Money Games | 249312 | [249312-coin-factory-idle-money-games.json](./249312-coin-factory-idle-money-games.json) |
 | Coin Fall | 269918 | [269918-coin-fall.json](./269918-coin-fall.json) |
 | Coin Flipper | 219741 | [219741-coin-flipper.json](./219741-coin-flipper.json) |
@@ -16919,6 +16926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Earth: Hawaii Island Love Anime Boys | 342363 | [342363-cozy-earth-hawaii-island-love-anime-boys.json](./342363-cozy-earth-hawaii-island-love-anime-boys.json) |
 | Cozy Earth: Hawaii Island Love Anime Girls | 342364 | [342364-cozy-earth-hawaii-island-love-anime-girls.json](./342364-cozy-earth-hawaii-island-love-anime-girls.json) |
 | Cozy Escapes | 279006 | [279006-cozy-escapes.json](./279006-cozy-escapes.json) |
+| Cozy Factory | 359638 | [359638-cozy-factory.json](./359638-cozy-factory.json) |
 | Cozy Farm Defense | 415386 | [415386-cozy-farm-defense.json](./415386-cozy-farm-defense.json) |
 | Cozy Farm Life Simulator | 412458 | [412458-cozy-farm-life-simulator.json](./412458-cozy-farm-life-simulator.json) |
 | Cozy Farm Manager | 391563 | [391563-cozy-farm-manager.json](./391563-cozy-farm-manager.json) |
