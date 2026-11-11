@@ -4227,6 +4227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead State: Reanimated | 16544 | [16544-dead-state-reanimated.json](./16544-dead-state-reanimated.json) |
 | Dead Station | 225883 | [225883-dead-station.json](./225883-dead-station.json) |
 | Dead Station 2 | 305410 | [305410-dead-station-2.json](./305410-dead-station-2.json) |
+| Dead Station Files | 348493 | [348493-dead-station-files.json](./348493-dead-station-files.json) |
 | Dead sticks | 177674 | [177674-dead-sticks.json](./177674-dead-sticks.json) |
 | Dead Stop | 34298 | [34298-dead-stop.json](./34298-dead-stop.json) |
 | Dead Stop: No Vacancy | 413462 | [413462-dead-stop-no-vacancy.json](./413462-dead-stop-no-vacancy.json) |
@@ -4237,6 +4238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Synchronicity: The Longest Night | 59947 | [59947-dead-synchronicity-the-longest-night.json](./59947-dead-synchronicity-the-longest-night.json) |
 | Dead Synchronicity: Tomorrow Comes Today | 194216 | [194216-dead-synchronicity-tomorrow-comes-today.json](./194216-dead-synchronicity-tomorrow-comes-today.json) |
 | Dead Take | 347032 | [347032-dead-take.json](./347032-dead-take.json) |
+| Dead Target | 348487 | [348487-dead-target.json](./348487-dead-target.json) |
 | Dead Target VR: Zombie Intensified | 80955 | [80955-dead-target-vr-zombie-intensified.json](./80955-dead-target-vr-zombie-intensified.json) |
 | Dead TD | 164117 | [164117-dead-td.json](./164117-dead-td.json) |
 | Dead to Rights | 194267 | [194267-dead-to-rights.json](./194267-dead-to-rights.json) |
@@ -13831,6 +13833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle | 136587 | [136587-doodle.json](./136587-doodle.json) |
 | Doodle Adventure of Chameleon | 274317 | [274317-doodle-adventure-of-chameleon.json](./274317-doodle-adventure-of-chameleon.json) |
 | Doodle Adventures | 56770 | [56770-doodle-adventures.json](./56770-doodle-adventures.json) |
+| Doodle Alchemy | 348502 | [348502-doodle-alchemy.json](./348502-doodle-alchemy.json) |
 | Doodle Army | 61655 | [61655-doodle-army.json](./61655-doodle-army.json) |
 | Doodle Army HD | 95288 | [95288-doodle-army-hd.json](./95288-doodle-army-hd.json) |
 | Doodle Art: Drawing Games | 190937 | [190937-doodle-art-drawing-games.json](./190937-doodle-art-drawing-games.json) |
