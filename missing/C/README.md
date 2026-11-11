@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car for Trade | 267352 | [267352-car-for-trade.json](./267352-car-for-trade.json) |
 | Car G1 | 295954 | [295954-car-g1.json](./295954-car-g1.json) |
 | Car Game | 176820 | [176820-car-game.json](./176820-car-game.json) |
+| Car Games Bundle & Stimulator: Car Parking, Offroad Car, Offroad Truck, Car Racing, Taxi | 343524 | [343524-car-games-bundle-and-stimulator-car-parking-offroad-car-offroad-truck-car-racing-taxi.json](./343524-car-games-bundle-and-stimulator-car-parking-offroad-car-offroad-truck-car-racing-taxi.json) |
 | Car Games Bundle: Racing Driving School Police Drag Drift Taxi | 269360 | [269360-car-games-bundle-racing-driving-school-police-drag-drift-taxi.json](./269360-car-games-bundle-racing-driving-school-police-drag-drift-taxi.json) |
 | Car Games for Kids & Toddlers Bundle 3 in 1 | 303878 | [303878-car-games-for-kids-and-toddlers-bundle-3-in-1.json](./303878-car-games-for-kids-and-toddlers-bundle-3-in-1.json) |
 | Car Go Fast | 206121 | [206121-car-go-fast.json](./206121-car-go-fast.json) |
@@ -5455,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Jumping Tiger | 308304 | [308304-cazzarion-jumping-tiger.json](./308304-cazzarion-jumping-tiger.json) |
 | Cazzarion: Kutululu | 347065 | [347065-cazzarion-kutululu.json](./347065-cazzarion-kutululu.json) |
 | Cazzarion: Laser Puzzle | 399876 | [399876-cazzarion-laser-puzzle.json](./399876-cazzarion-laser-puzzle.json) |
+| Cazzarion: Little Dragon | 343497 | [343497-cazzarion-little-dragon.json](./343497-cazzarion-little-dragon.json) |
 | Cazzarion: Mosquito Hunt | 308305 | [308305-cazzarion-mosquito-hunt.json](./308305-cazzarion-mosquito-hunt.json) |
 | Cazzarion: Pop The Bubbles | 296737 | [296737-cazzarion-pop-the-bubbles.json](./296737-cazzarion-pop-the-bubbles.json) |
 | Cazzarion: Portal Pilot | 305782 | [305782-cazzarion-portal-pilot.json](./305782-cazzarion-portal-pilot.json) |
@@ -7438,6 +7440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmaster | 206921 | [206921-chessmaster.json](./206921-chessmaster.json) |
 | Chessmaster | 23562 | [23562-chessmaster.json](./23562-chessmaster.json) |
 | Chessmaster | 23714 | [23714-chessmaster.json](./23714-chessmaster.json) |
+| Chessmaster | 342981 | [342981-chessmaster.json](./342981-chessmaster.json) |
 | Chessmaster | 343921 | [343921-chessmaster.json](./343921-chessmaster.json) |
 | Chessmaster | 402778 | [402778-chessmaster.json](./402778-chessmaster.json) |
 | Chessmaster 10th Edition | 15883 | [15883-chessmaster-10th-edition.json](./15883-chessmaster-10th-edition.json) |
@@ -16671,6 +16674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Varmint Hunter | 83236 | [83236-country-varmint-hunter.json](./83236-country-varmint-hunter.json) |
 | Country Vid Grid | 77565 | [77565-country-vid-grid.json](./77565-country-vid-grid.json) |
 | Countryball Football Online | 422142 | [422142-countryball-football-online.json](./422142-countryball-football-online.json) |
+| Countryball Game | 343523 | [343523-countryball-game.json](./343523-countryball-game.json) |
 | Countryball: Europe 1890 | 193590 | [193590-countryball-europe-1890.json](./193590-countryball-europe-1890.json) |
 | Countryballs At War | 300427 | [300427-countryballs-at-war.json](./300427-countryballs-at-war.json) |
 | Countryballs Conquest | 363683 | [363683-countryballs-conquest.json](./363683-countryballs-conquest.json) |
