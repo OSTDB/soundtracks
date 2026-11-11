@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -16263,6 +16264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking the 4th wall | 128914 | [128914-breaking-the-4th-wall.json](./128914-breaking-the-4th-wall.json) |
 | Breaking the Bank | 101898 | [101898-breaking-the-bank.json](./101898-breaking-the-bank.json) |
 | Breaking the Barrier | 268670 | [268670-breaking-the-barrier.json](./268670-breaking-the-barrier.json) |
+| Breaking the Grip | 338981 | [338981-breaking-the-grip.json](./338981-breaking-the-grip.json) |
 | Breaking The Rules: The Roman Tournament | 52477 | [52477-breaking-the-rules-the-roman-tournament.json](./52477-breaking-the-rules-the-roman-tournament.json) |
 | Breaking the Silent Lies | 216611 | [216611-breaking-the-silent-lies.json](./216611-breaking-the-silent-lies.json) |
 | Breaking Time | 302547 | [302547-breaking-time.json](./302547-breaking-time.json) |
@@ -16646,6 +16648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brides of Dracula | 14348 | [14348-brides-of-dracula.json](./14348-brides-of-dracula.json) |
 | Bridg | 149438 | [149438-bridg.json](./149438-bridg.json) |
 | Bridge | 131267 | [131267-bridge.json](./131267-bridge.json) |
+| Bridge | 338984 | [338984-bridge.json](./338984-bridge.json) |
 | Bridge | 55105 | [55105-bridge.json](./55105-bridge.json) |
 | Bridge | 85515 | [85515-bridge.json](./85515-bridge.json) |
 | Bridge 2 Code | 150876 | [150876-bridge-2-code.json](./150876-bridge-2-code.json) |
