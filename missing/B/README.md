@@ -1019,7 +1019,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -11267,6 +11266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Room | 259452 | [259452-block-room.json](./259452-block-room.json) |
 | Block Royale | 30589 | [30589-block-royale.json](./30589-block-royale.json) |
 | Block Run | 400587 | [400587-block-run.json](./400587-block-run.json) |
+| Block Rush | 338463 | [338463-block-rush.json](./338463-block-rush.json) |
 | Block Rush 3 | 369015 | [369015-block-rush-3.json](./369015-block-rush-3.json) |
 | Block Rush: Mega Obby | 368427 | [368427-block-rush-mega-obby.json](./368427-block-rush-mega-obby.json) |
 | Block Sandbox World | 99873 | [99873-block-sandbox-world.json](./99873-block-sandbox-world.json) |
@@ -12484,6 +12484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Print | 216550 | [216550-blue-print.json](./216550-blue-print.json) |
 | Blue Rabbit | 149975 | [149975-blue-rabbit.json](./149975-blue-rabbit.json) |
 | Blue rabbit a world of shapes and lost colors | 195263 | [195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json](./195263-blue-rabbit-a-world-of-shapes-and-lost-colors.json) |
+| Blue Rabbit, Black Future | 338427 | [338427-blue-rabbit-black-future.json](./338427-blue-rabbit-black-future.json) |
 | Blue Rabbits Climate Chaos | 286870 | [286870-blue-rabbits-climate-chaos.json](./286870-blue-rabbits-climate-chaos.json) |
 | Blue red aaaargh | 106837 | [106837-blue-red-aaaargh.json](./106837-blue-red-aaaargh.json) |
 | Blue Reflection | 25708 | [25708-blue-reflection.json](./25708-blue-reflection.json) |
@@ -12680,6 +12681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blyte | 358867 | [358867-blyte.json](./358867-blyte.json) |
 | Blythe | 287904 | [287904-blythe.json](./287904-blythe.json) |
 | Blyx | 272859 | [272859-blyx.json](./272859-blyx.json) |
+| BM Love Cafe | 338428 | [338428-bm-love-cafe.json](./338428-bm-love-cafe.json) |
 | BMP Puzzle | 217997 | [217997-bmp-puzzle.json](./217997-bmp-puzzle.json) |
 | BMPES | 319899 | [319899-bmpes.json](./319899-bmpes.json) |
 | BMW M3 Challenge | 27466 | [27466-bmw-m3-challenge.json](./27466-bmw-m3-challenge.json) |
@@ -13461,6 +13463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BomberGast | 179383 | [179383-bombergast.json](./179383-bombergast.json) |
 | Bombergeddon | 129745 | [129745-bombergeddon.json](./129745-bombergeddon.json) |
 | Bombergirl | 27285 | [27285-bombergirl.json](./27285-bombergirl.json) |
+| Bombergrounds: Classic | 338429 | [338429-bombergrounds-classic.json](./338429-bombergrounds-classic.json) |
 | Bombergrounds: Reborn | 120852 | [120852-bombergrounds-reborn.json](./120852-bombergrounds-reborn.json) |
 | BomberGuys | 191449 | [191449-bomberguys.json](./191449-bomberguys.json) |
 | BomberHit | 303066 | [303066-bomberhit.json](./303066-bomberhit.json) |
@@ -13641,6 +13644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bondage Black Jack | 151621 | [151621-bondage-black-jack.json](./151621-bondage-black-jack.json) |
 | Bondage Girl | 156715 | [156715-bondage-girl.json](./156715-bondage-girl.json) |
 | Bondage Girl | 389787 | [389787-bondage-girl.json](./389787-bondage-girl.json) |
+| Bondage Mermaids: Fatal Fap | 338430 | [338430-bondage-mermaids-fatal-fap.json](./338430-bondage-mermaids-fatal-fap.json) |
 | Bondage Nightmare | 385897 | [385897-bondage-nightmare.json](./385897-bondage-nightmare.json) |
 | Bonded in Darkness | 320893 | [320893-bonded-in-darkness.json](./320893-bonded-in-darkness.json) |
 | Bonded Realities | 66109 | [66109-bonded-realities.json](./66109-bonded-realities.json) |
@@ -13685,6 +13689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoneBone: Rise of the Deathlord | 32808 | [32808-bonebone-rise-of-the-deathlord.json](./32808-bonebone-rise-of-the-deathlord.json) |
 | Bonebuilder | 344058 | [344058-bonebuilder.json](./344058-bonebuilder.json) |
 | BoneCraft | 51268 | [51268-bonecraft.json](./51268-bonecraft.json) |
+| Boned | 338431 | [338431-boned.json](./338431-boned.json) |
 | Boned Again: Survivors | 362185 | [362185-boned-again-survivors.json](./362185-boned-again-survivors.json) |
 | BoneD: Dead Men Don't Jump | 66163 | [66163-boned-dead-men-dont-jump.json](./66163-boned-dead-men-dont-jump.json) |
 | BoneDelver | 421761 | [421761-bonedelver.json](./421761-bonedelver.json) |
@@ -13771,10 +13776,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonito Days | 175817 | [175817-bonito-days.json](./175817-bonito-days.json) |
 | Bonjin: An Ordinary Man | 349869 | [349869-bonjin-an-ordinary-man.json](./349869-bonjin-an-ordinary-man.json) |
 | Bonk | 230865 | [230865-bonk.json](./230865-bonk.json) |
+| Bonk | 338433 | [338433-bonk.json](./338433-bonk.json) |
 | Bonk 'N Bash | 379122 | [379122-bonk-n-bash.json](./379122-bonk-n-bash.json) |
 | Bonk 3: Bonk's Big Adventure | 37615 | [37615-bonk-3-bonks-big-adventure.json](./37615-bonk-3-bonks-big-adventure.json) |
+| Bonk It! | 338435 | [338435-bonk-it.json](./338435-bonk-it.json) |
 | Bonk the Ball! | 181602 | [181602-bonk-the-ball.json](./181602-bonk-the-ball.json) |
 | Bonk The Goblins! | 325232 | [325232-bonk-the-goblins.json](./325232-bonk-the-goblins.json) |
+| Bonk the Rat | 338436 | [338436-bonk-the-rat.json](./338436-bonk-the-rat.json) |
+| Bonk the Rat | 338437 | [338437-bonk-the-rat.json](./338437-bonk-the-rat.json) |
 | Bonk Voyage | 415112 | [415112-bonk-voyage.json](./415112-bonk-voyage.json) |
 | Bonk-A-Donk | 427811 | [427811-bonk-a-donk.json](./427811-bonk-a-donk.json) |
 | Bonk: Brink of Extinction | 51632 | [51632-bonk-brink-of-extinction.json](./51632-bonk-brink-of-extinction.json) |
@@ -15422,6 +15431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Battle Q | 176070 | [176070-brain-battle-q.json](./176070-brain-battle-q.json) |
 | Brain Beats | 147202 | [147202-brain-beats.json](./147202-brain-beats.json) |
 | Brain Bistro | 414069 | [414069-brain-bistro.json](./414069-brain-bistro.json) |
+| Brain Boom | 338438 | [338438-brain-boom.json](./338438-brain-boom.json) |
 | Brain Boost Beta / Gamma Wave | 21381 | [21381-brain-boost-beta-gamma-wave.json](./21381-brain-boost-beta-gamma-wave.json) |
 | Brain Boost Buddies | 378819 | [378819-brain-boost-buddies.json](./378819-brain-boost-buddies.json) |
 | Brain Boost: Beta Wave | 47836 | [47836-brain-boost-beta-wave.json](./47836-brain-boost-beta-wave.json) |
@@ -15627,6 +15637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrainZ Defender | 304879 | [304879-brainz-defender.json](./304879-brainz-defender.json) |
 | Brainzzz | 342247 | [342247-brainzzz.json](./342247-brainzzz.json) |
 | Braise | 332996 | [332996-braise.json](./332996-braise.json) |
+| Braise Satan | 338439 | [338439-braise-satan.json](./338439-braise-satan.json) |
 | Braiser | 323593 | [323593-braiser.json](./323593-braiser.json) |
 | Brake Away | 178561 | [178561-brake-away.json](./178561-brake-away.json) |
 | Brake Away | 239443 | [239443-brake-away.json](./239443-brake-away.json) |
@@ -16062,6 +16073,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaching Harkon | 382555 | [382555-breaching-harkon.json](./382555-breaching-harkon.json) |
 | Breachway | 215481 | [215481-breachway.json](./215481-breachway.json) |
 | Bread | 178027 | [178027-bread.json](./178027-bread.json) |
+| Bread | 338441 | [338441-bread.json](./338441-bread.json) |
+| Bread | 338442 | [338442-bread.json](./338442-bread.json) |
+| Bread & Bravery | 338443 | [338443-bread-and-bravery.json](./338443-bread-and-bravery.json) |
+| Bread & Butter | 338445 | [338445-bread-and-butter.json](./338445-bread-and-butter.json) |
 | Bread Adventure | 373334 | [373334-bread-adventure.json](./373334-bread-adventure.json) |
 | Bread and Butter | 45639 | [45639-bread-and-butter.json](./45639-bread-and-butter.json) |
 | Bread and Circuses | 214112 | [214112-bread-and-circuses.json](./214112-bread-and-circuses.json) |
@@ -16392,6 +16407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breathspace | 226271 | [226271-breathspace.json](./226271-breathspace.json) |
 | Breaworlds | 125830 | [125830-breaworlds.json](./125830-breaworlds.json) |
 | BrebeMan | 329237 | [329237-brebeman.json](./329237-brebeman.json) |
+| Breecell | 338446 | [338446-breecell.json](./338446-breecell.json) |
 | Breed | 78822 | [78822-breed.json](./78822-breed.json) |
 | Breed Laboratory | 383917 | [383917-breed-laboratory.json](./383917-breed-laboratory.json) |
 | Breed Master | 268484 | [268484-breed-master.json](./268484-breed-master.json) |
@@ -16616,6 +16632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks of Camelot | 72267 | [72267-bricks-of-camelot.json](./72267-bricks-of-camelot.json) |
 | Bricks of Egypt 2: Tears of the Pharaohs | 71353 | [71353-bricks-of-egypt-2-tears-of-the-pharaohs.json](./71353-bricks-of-egypt-2-tears-of-the-pharaohs.json) |
 | Bricks of Rome | 254699 | [254699-bricks-of-rome.json](./254699-bricks-of-rome.json) |
+| Bricks Over Blocks | 338447 | [338447-bricks-over-blocks.json](./338447-bricks-over-blocks.json) |
 | Bricks Pinball V | 147573 | [147573-bricks-pinball-v.json](./147573-bricks-pinball-v.json) |
 | Bricks Pinball VI | 147575 | [147575-bricks-pinball-vi.json](./147575-bricks-pinball-vi.json) |
 | Bricks Survivors | 320640 | [320640-bricks-survivors.json](./320640-bricks-survivors.json) |
@@ -16732,6 +16749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: Secrets of the Nutcracker | 236819 | [236819-bridge-to-another-world-secrets-of-the-nutcracker.json](./236819-bridge-to-another-world-secrets-of-the-nutcracker.json) |
 | Bridge to Another World: Secrets of the Nutcracker - Collector's Edition | 169530 | [169530-bridge-to-another-world-secrets-of-the-nutcracker-collectors-edition.json](./169530-bridge-to-another-world-secrets-of-the-nutcracker-collectors-edition.json) |
 | Bridge to Another World: The Christmas Curse | 397116 | [397116-bridge-to-another-world-the-christmas-curse.json](./397116-bridge-to-another-world-the-christmas-curse.json) |
+| Bridge to Another World: The Christmas Curse - Collector's Edition | 338448 | [338448-bridge-to-another-world-the-christmas-curse-collectors-edition.json](./338448-bridge-to-another-world-the-christmas-curse-collectors-edition.json) |
 | Bridge to Another World: The Others | 140289 | [140289-bridge-to-another-world-the-others.json](./140289-bridge-to-another-world-the-others.json) |
 | Bridge to Another World: The Others - Collector's Edition | 75655 | [75655-bridge-to-another-world-the-others-collectors-edition.json](./75655-bridge-to-another-world-the-others-collectors-edition.json) |
 | Bridge to Another World: The Others HD | 100518 | [100518-bridge-to-another-world-the-others-hd.json](./100518-bridge-to-another-world-the-others-hd.json) |
@@ -16935,6 +16953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brix and Trix | 237955 | [237955-brix-and-trix.json](./237955-brix-and-trix.json) |
 | Brix II Deluxe | 148451 | [148451-brix-ii-deluxe.json](./148451-brix-ii-deluxe.json) |
 | Brix VR | 116324 | [116324-brix-vr.json](./116324-brix-vr.json) |
+| Brixby | 338424 | [338424-brixby.json](./338424-brixby.json) |
 | Brixity | 188331 | [188331-brixity.json](./188331-brixity.json) |
 | Brixout XP | 92788 | [92788-brixout-xp.json](./92788-brixout-xp.json) |
 | Brköut | 56602 | [56602-brkout.json](./56602-brkout.json) |
@@ -17654,6 +17673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Frog DX | 339711 | [339711-bubble-frog-dx.json](./339711-bubble-frog-dx.json) |
 | Bubble Ghost | 7802 | [7802-bubble-ghost.json](./7802-bubble-ghost.json) |
 | Bubble Ghost Remake | 250892 | [250892-bubble-ghost-remake.json](./250892-bubble-ghost-remake.json) |
+| Bubble Girl | 338449 | [338449-bubble-girl.json](./338449-bubble-girl.json) |
 | Bubble Gum Popper | 85010 | [85010-bubble-gum-popper.json](./85010-bubble-gum-popper.json) |
 | Bubble Gum Rosie | 245082 | [245082-bubble-gum-rosie.json](./245082-bubble-gum-rosie.json) |
 | Bubble Gun 3D | 150690 | [150690-bubble-gun-3d.json](./150690-bubble-gun-3d.json) |
@@ -17808,6 +17828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubbletica | 349913 | [349913-bubbletica.json](./349913-bubbletica.json) |
 | Bubblets | 298725 | [298725-bubblets.json](./298725-bubblets.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
+| Bubbleware | 338450 | [338450-bubbleware.json](./338450-bubbleware.json) |
 | BubbleXRush | 61089 | [61089-bubblexrush.json](./61089-bubblexrush.json) |
 | Bubblien Pop | 81709 | [81709-bubblien-pop.json](./81709-bubblien-pop.json) |
 | Bubbly | 407150 | [407150-bubbly.json](./407150-bubbly.json) |
@@ -18426,6 +18447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Hell Action Roguelites | 333753 | [333753-bullet-hell-action-roguelites.json](./333753-bullet-hell-action-roguelites.json) |
 | Bullet Hell Advanced | 100592 | [100592-bullet-hell-advanced.json](./100592-bullet-hell-advanced.json) |
 | Bullet Hell Collection: Volume 1 | 283596 | [283596-bullet-hell-collection-volume-1.json](./283596-bullet-hell-collection-volume-1.json) |
+| Bullet Hell Game Anthology | 338451 | [338451-bullet-hell-game-anthology.json](./338451-bullet-hell-game-anthology.json) |
 | Bullet Hell Heroes | 194158 | [194158-bullet-hell-heroes.json](./194158-bullet-hell-heroes.json) |
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
 | Bullet Hell Monday Black | 142912 | [142912-bullet-hell-monday-black.json](./142912-bullet-hell-monday-black.json) |
@@ -18895,6 +18917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burdock 2 | 353766 | [353766-burdock-2.json](./353766-burdock-2.json) |
 | Bureau 13 | 47012 | [47012-bureau-13.json](./47012-bureau-13.json) |
 | Bureau of Contacts | 288669 | [288669-bureau-of-contacts.json](./288669-bureau-of-contacts.json) |
+| Bureau of Contacts: Mansion | 338452 | [338452-bureau-of-contacts-mansion.json](./338452-bureau-of-contacts-mansion.json) |
 | Bureaucracy | 12618 | [12618-bureaucracy.json](./12618-bureaucracy.json) |
 | Bureaucromancer | 408233 | [408233-bureaucromancer.json](./408233-bureaucromancer.json) |
 | Burg | 208562 | [208562-burg.json](./208562-burg.json) |
@@ -18972,12 +18995,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Shop HD | 88997 | [88997-burger-shop-hd.json](./88997-burger-shop-hd.json) |
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
 | Burger Shot | 362186 | [362186-burger-shot.json](./362186-burger-shot.json) |
+| Burger Station | 338453 | [338453-burger-station.json](./338453-burger-station.json) |
 | Burger Story Beach Edition | 97150 | [97150-burger-story-beach-edition.json](./97150-burger-story-beach-edition.json) |
 | Burger Time | 210494 | [210494-burger-time.json](./210494-burger-time.json) |
 | Burger Time | 292985 | [292985-burger-time.json](./292985-burger-time.json) |
 | Burger Truck Trump | 334056 | [334056-burger-truck-trump.json](./334056-burger-truck-trump.json) |
 | Burger Typer | 369713 | [369713-burger-typer.json](./369713-burger-typer.json) |
 | Burger Up | 121037 | [121037-burger-up.json](./121037-burger-up.json) |
+| Burger Wars | 338454 | [338454-burger-wars.json](./338454-burger-wars.json) |
 | Burger Wars | 66112 | [66112-burger-wars.json](./66112-burger-wars.json) |
 | Burger World | 181794 | [181794-burger-world.json](./181794-burger-world.json) |
 | Burger Yum! | 233995 | [233995-burger-yum.json](./233995-burger-yum.json) |
@@ -19199,6 +19224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnt Rubber | 112850 | [112850-burnt-rubber.json](./112850-burnt-rubber.json) |
 | Burntcrust | 389089 | [389089-burntcrust.json](./389089-burntcrust.json) |
 | Burntime | 2453 | [2453-burntime.json](./2453-burntime.json) |
+| Burntime Remastered | 338455 | [338455-burntime-remastered.json](./338455-burntime-remastered.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
 | Burokku Girls | 33525 | [33525-burokku-girls.json](./33525-burokku-girls.json) |
 | Burr Puzzle | 357978 | [357978-burr-puzzle.json](./357978-burr-puzzle.json) |
@@ -19420,6 +19446,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bussy Birds | 331161 | [331161-bussy-birds.json](./331161-bussy-birds.json) |
 | Bussy Master: Club Leather | 311795 | [311795-bussy-master-club-leather.json](./311795-bussy-master-club-leather.json) |
 | Bussy Master: Count Fuckula's Cum Castle | 393831 | [393831-bussy-master-count-fuckulas-cum-castle.json](./393831-bussy-master-count-fuckulas-cum-castle.json) |
+| Bussy Master: Cyberbussy 2069 | 338457 | [338457-bussy-master-cyberbussy-2069.json](./338457-bussy-master-cyberbussy-2069.json) |
+| Bussy Master: Firefuckers | 338458 | [338458-bussy-master-firefuckers.json](./338458-bussy-master-firefuckers.json) |
 | Bussy Master: Halloween Advent 2024 | 318421 | [318421-bussy-master-halloween-advent-2024.json](./318421-bussy-master-halloween-advent-2024.json) |
 | Bussy Master: Ropeshooter Ranch | 393379 | [393379-bussy-master-ropeshooter-ranch.json](./393379-bussy-master-ropeshooter-ranch.json) |
 | Bust 'Em Up: Online FFA | 417007 | [417007-bust-em-up-online-ffa.json](./417007-bust-em-up-online-ffa.json) |
@@ -19731,6 +19759,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bye-Bye, Wacky Planet | 25787 | [25787-bye-bye-wacky-planet.json](./25787-bye-bye-wacky-planet.json) |
 | Bye, Bye Birdie | 385515 | [385515-bye-bye-birdie.json](./385515-bye-bye-birdie.json) |
 | Bye: Integral | 403994 | [403994-bye-integral.json](./403994-bye-integral.json) |
+| Bye!Den, Go! | 338459 | [338459-bye-den-go.json](./338459-bye-den-go.json) |
+| Bye!Den, Go!: Last Christmas | 338460 | [338460-bye-den-go-last-christmas.json](./338460-bye-den-go-last-christmas.json) |
 | ByeByeObake! | 425849 | [425849-byebyeobake.json](./425849-byebyeobake.json) |
 | Byflvgvr | 306686 | [306686-byflvgvr.json](./306686-byflvgvr.json) |
 | Bygg Båtar med Mulle Meck | 97733 | [97733-bygg-batar-med-mulle-meck.json](./97733-bygg-batar-med-mulle-meck.json) |
