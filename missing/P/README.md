@@ -11819,6 +11819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Eternal X | 233652 | [233652-pokemon-eternal-x.json](./233652-pokemon-eternal-x.json) |
 | Pokémon Evol | 314729 | [314729-pokemon-evol.json](./314729-pokemon-evol.json) |
 | Pokémon Existence | 314730 | [314730-pokemon-existence.json](./314730-pokemon-existence.json) |
+| Pokémon Extreme Yellow | 357517 | [357517-pokemon-extreme-yellow.json](./357517-pokemon-extreme-yellow.json) |
 | Pokémon Factory Adventure | 231683 | [231683-pokemon-factory-adventure.json](./231683-pokemon-factory-adventure.json) |
 | Pokémon Fairies | 272077 | [272077-pokemon-fairies.json](./272077-pokemon-fairies.json) |
 | Pokémon Fat Kid | 191987 | [191987-pokemon-fat-kid.json](./191987-pokemon-fat-kid.json) |
@@ -16492,6 +16493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 44: Enlightenment | 220657 | [220657-project-44-enlightenment.json](./220657-project-44-enlightenment.json) |
 | Project 5: Sightseer | 76122 | [76122-project-5-sightseer.json](./76122-project-5-sightseer.json) |
 | Project 59 | 105222 | [105222-project-59.json](./105222-project-59.json) |
+| Project 7: Escape Room | 357533 | [357533-project-7-escape-room.json](./357533-project-7-escape-room.json) |
 | Project 83113 | 22267 | [22267-project-83113.json](./22267-project-83113.json) |
 | Project A 2: Shijou Saidai no Hyouteki | 97296 | [97296-project-a-2-shijou-saidai-no-hyouteki.json](./97296-project-a-2-shijou-saidai-no-hyouteki.json) |
 | Project A Part II | 41670 | [41670-project-a-part-ii.json](./41670-project-a-part-ii.json) |
@@ -19972,6 +19974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Platformer: The Gem Heist | 329516 | [329516-pyramid-platformer-the-gem-heist.json](./329516-pyramid-platformer-the-gem-heist.json) |
 | Pyramid Plunder | 105399 | [105399-pyramid-plunder.json](./105399-pyramid-plunder.json) |
 | Pyramid Power | 71535 | [71535-pyramid-power.json](./71535-pyramid-power.json) |
+| Pyramid Puzzle | 357995 | [357995-pyramid-puzzle.json](./357995-pyramid-puzzle.json) |
 | Pyramid Quest Bundle | 399801 | [399801-pyramid-quest-bundle.json](./399801-pyramid-quest-bundle.json) |
 | Pyramid Quest Junior | 407100 | [407100-pyramid-quest-junior.json](./407100-pyramid-quest-junior.json) |
 | Pyramid Raid | 26871 | [26871-pyramid-raid.json](./26871-pyramid-raid.json) |
