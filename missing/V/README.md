@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Park Ranger 7 | 168682 | [168682-vacation-adventures-park-ranger-7.json](./168682-vacation-adventures-park-ranger-7.json) |
 | Vacation Adventures: Park Ranger 8 | 191072 | [191072-vacation-adventures-park-ranger-8.json](./191072-vacation-adventures-park-ranger-8.json) |
 | Vacation Adventures: Park Ranger 9 | 193599 | [193599-vacation-adventures-park-ranger-9.json](./193599-vacation-adventures-park-ranger-9.json) |
+| Vacation Cafe Simulator | 326325 | [326325-vacation-cafe-simulator.json](./326325-vacation-cafe-simulator.json) |
 | Vacation Cove | 273221 | [273221-vacation-cove.json](./273221-vacation-cove.json) |
 | Vacation Gone Awry | 74019 | [74019-vacation-gone-awry.json](./74019-vacation-gone-awry.json) |
 | Vacation in Paradise | 370256 | [370256-vacation-in-paradise.json](./370256-vacation-in-paradise.json) |
@@ -814,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Van Helsing sniper Zx100 | 85470 | [85470-van-helsing-sniper-zx100.json](./85470-van-helsing-sniper-zx100.json) |
 | Van Life: Home Simulator | 370793 | [370793-van-life-home-simulator.json](./370793-van-life-home-simulator.json) |
 | Van Pershing | 194186 | [194186-van-pershing.json](./194186-van-pershing.json) |
+| Van Simulator | 326326 | [326326-van-simulator.json](./326326-van-simulator.json) |
 | Van Stalker | 386969 | [386969-van-stalker.json](./386969-van-stalker.json) |
 | Van Tourisimo | 182947 | [182947-van-tourisimo.json](./182947-van-tourisimo.json) |
 | Van V. Vamp | 342125 | [342125-van-v-vamp.json](./342125-van-v-vamp.json) |
@@ -2872,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Foosball | 99151 | [99151-virtual-foosball.json](./99151-virtual-foosball.json) |
 | Virtual Frenzy: Nexus Corps | 349970 | [349970-virtual-frenzy-nexus-corps.json](./349970-virtual-frenzy-nexus-corps.json) |
 | Virtual girl save virtual boy | 282016 | [282016-virtual-girl-save-virtual-boy.json](./282016-virtual-girl-save-virtual-boy.json) |
+| Virtual Girl: Sex Simulator VR | 326327 | [326327-virtual-girl-sex-simulator-vr.json](./326327-virtual-girl-sex-simulator-vr.json) |
 | Virtual Girlfriend | 389786 | [389786-virtual-girlfriend.json](./389786-virtual-girlfriend.json) |
 | Virtual Girlfriend Dating Simulator | 289196 | [289196-virtual-girlfriend-dating-simulator.json](./289196-virtual-girlfriend-dating-simulator.json) |
 | Virtual Girlfriend Lia | 384813 | [384813-virtual-girlfriend-lia.json](./384813-virtual-girlfriend-lia.json) |
@@ -4330,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Squash 2017 | 74398 | [74398-vr-squash-2017.json](./74398-vr-squash-2017.json) |
 | VR Stalker | 4272 | [4272-vr-stalker.json](./4272-vr-stalker.json) |
 | VR Stock Car Racers | 83558 | [83558-vr-stock-car-racers.json](./83558-vr-stock-car-racers.json) |
+| VR Store Simulator | 326321 | [326321-vr-store-simulator.json](./326321-vr-store-simulator.json) |
 | VR Summer Sports | 174058 | [174058-vr-summer-sports.json](./174058-vr-summer-sports.json) |
 | VR Super Sports: 10 Edition | 170866 | [170866-vr-super-sports-10-edition.json](./170866-vr-super-sports-10-edition.json) |
 | VR Super Sports: Golf | 170865 | [170865-vr-super-sports-golf.json](./170865-vr-super-sports-golf.json) |
