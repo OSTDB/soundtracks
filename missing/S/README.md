@@ -6347,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street Letters | 206014 | [206014-sesame-street-letters.json](./206014-sesame-street-letters.json) |
 | Sesame Street Mecha Builders | 342765 | [342765-sesame-street-mecha-builders.json](./342765-sesame-street-mecha-builders.json) |
 | Sesame Street Pals Around Town | 213177 | [213177-sesame-street-pals-around-town.json](./213177-sesame-street-pals-around-town.json) |
+| Sesame Street Sports | 322339 | [322339-sesame-street-sports.json](./322339-sesame-street-sports.json) |
 | Sesame Street Sports | 49916 | [49916-sesame-street-sports.json](./49916-sesame-street-sports.json) |
 | Sesame Street: 1-2-3 | 78035 | [78035-sesame-street-1-2-3.json](./78035-sesame-street-1-2-3.json) |
 | Sesame Street: Alphabet Avenue | 176058 | [176058-sesame-street-alphabet-avenue.json](./176058-sesame-street-alphabet-avenue.json) |
@@ -8609,6 +8610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Purr Adventures | 332339 | [332339-sherlock-purr-adventures.json](./332339-sherlock-purr-adventures.json) |
 | Sherlock Purr: Extended Edition | 243369 | [243369-sherlock-purr-extended-edition.json](./243369-sherlock-purr-extended-edition.json) |
 | Sherlock Spot DX | 370823 | [370823-sherlock-spot-dx.json](./370823-sherlock-spot-dx.json) |
+| Sherlock: A Rose Among Thorns | 322300 | [322300-sherlock-a-rose-among-thorns.json](./322300-sherlock-a-rose-among-thorns.json) |
 | Sherlock: Hidden Object & Match-3 Mystery | 357304 | [357304-sherlock-hidden-object-and-match-3-mystery.json](./357304-sherlock-hidden-object-and-match-3-mystery.json) |
 | Sherlock: The Game of Logic | 66792 | [66792-sherlock-the-game-of-logic.json](./66792-sherlock-the-game-of-logic.json) |
 | Sherlock: The Network | 285038 | [285038-sherlock-the-network.json](./285038-sherlock-the-network.json) |
@@ -33978,11 +33980,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bratarsi | 323361 | [323361-super-mario-bratarsi.json](./323361-super-mario-bratarsi.json) |
 | Super Mario Bro-op | 294574 | [294574-super-mario-bro-op.json](./294574-super-mario-bro-op.json) |
 | Super Mario Bros 2: Mega Mario X | 269136 | [269136-super-mario-bros-2-mega-mario-x.json](./269136-super-mario-bros-2-mega-mario-x.json) |
+| Super Mario Bros 2010 | 322312 | [322312-super-mario-bros-2010.json](./322312-super-mario-bros-2010.json) |
 | Super Mario Bros 3000 | 250057 | [250057-super-mario-bros-3000.json](./250057-super-mario-bros-3000.json) |
 | Super Mario Bros 4: Escapade | 318550 | [318550-super-mario-bros-4-escapade.json](./318550-super-mario-bros-4-escapade.json) |
+| Super Mario Bros Doomsday | 322310 | [322310-super-mario-bros-doomsday.json](./322310-super-mario-bros-doomsday.json) |
 | Super Mario Bros Galaxy DS | 146354 | [146354-super-mario-bros-galaxy-ds.json](./146354-super-mario-bros-galaxy-ds.json) |
 | Super Mario Bros HF | 274982 | [274982-super-mario-bros-hf.json](./274982-super-mario-bros-hf.json) |
 | Super Mario Bros: Adventure Journey | 318924 | [318924-super-mario-bros-adventure-journey.json](./318924-super-mario-bros-adventure-journey.json) |
+| Super Mario Bros: Attack of the Bloopers | 322311 | [322311-super-mario-bros-attack-of-the-bloopers.json](./322311-super-mario-bros-attack-of-the-bloopers.json) |
 | Super Mario Bros: Bloody Battles | 320215 | [320215-super-mario-bros-bloody-battles.json](./320215-super-mario-bros-bloody-battles.json) |
 | Super Mario Bros: Bowser's Terror | 318930 | [318930-super-mario-bros-bowsers-terror.json](./318930-super-mario-bros-bowsers-terror.json) |
 | Super Mario Bros: Chaos of the Ztar | 324091 | [324091-super-mario-bros-chaos-of-the-ztar.json](./324091-super-mario-bros-chaos-of-the-ztar.json) |
@@ -36303,8 +36308,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supra Mayro 64 FM | 354110 | [354110-supra-mayro-64-fm.json](./354110-supra-mayro-64-fm.json) |
 | Supra Mayro Bross: Legend of the Lost Kingdom | 321902 | [321902-supra-mayro-bross-legend-of-the-lost-kingdom.json](./321902-supra-mayro-bross-legend-of-the-lost-kingdom.json) |
 | Supra Mayro Kratt | 300345 | [300345-supra-mayro-kratt.json](./300345-supra-mayro-kratt.json) |
+| Supra Smash Bross | 322294 | [322294-supra-smash-bross.json](./322294-supra-smash-bross.json) |
 | Supra Smash Bross Devolution | 265074 | [265074-supra-smash-bross-devolution.json](./265074-supra-smash-bross-devolution.json) |
 | Supra Smash Bross Devolution 2.22: You Can (Not) Be Serious | 316599 | [316599-supra-smash-bross-devolution-2-22-you-can-not-be-serious.json](./316599-supra-smash-bross-devolution-2-22-you-can-not-be-serious.json) |
+| Supra Smash Bross For the Commodore 64 and ZX Spectrum | 322296 | [322296-supra-smash-bross-for-the-commodore-64-and-zx-spectrum.json](./322296-supra-smash-bross-for-the-commodore-64-and-zx-spectrum.json) |
+| Supra Smash Bross Mayday | 322295 | [322295-supra-smash-bross-mayday.json](./322295-supra-smash-bross-mayday.json) |
 | Suprabac.io | 243380 | [243380-suprabac-io.json](./243380-suprabac-io.json) |
 | Supraball | 9563 | [9563-supraball.json](./9563-supraball.json) |
 | Supracore | 251854 | [251854-supracore.json](./251854-supracore.json) |
