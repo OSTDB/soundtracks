@@ -8294,6 +8294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Blood: Vampire RPG | 323156 | [323156-lords-of-blood-vampire-rpg.json](./323156-lords-of-blood-vampire-rpg.json) |
 | Lords of Cards | 154265 | [154265-lords-of-cards.json](./154265-lords-of-cards.json) |
 | Lords of Chaos | 12668 | [12668-lords-of-chaos.json](./12668-lords-of-chaos.json) |
+| Lords of Chaos | 322333 | [322333-lords-of-chaos.json](./322333-lords-of-chaos.json) |
 | Lords of Conquest | 26391 | [26391-lords-of-conquest.json](./26391-lords-of-conquest.json) |
 | Lords of Delusia | 74867 | [74867-lords-of-delusia.json](./74867-lords-of-delusia.json) |
 | Lords of Diskonia | 318467 | [318467-lords-of-diskonia.json](./318467-lords-of-diskonia.json) |
