@@ -1794,7 +1794,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Scary Gays | 177909 | [177909-very-scary-gays.json](./177909-very-scary-gays.json) |
 | Very Unserious Game | 346502 | [346502-very-unserious-game.json](./346502-very-unserious-game.json) |
 | Very Very Cat | 393511 | [393511-very-very-cat.json](./393511-very-very-cat.json) |
-| Very Very Valet | 141680 | [141680-very-very-valet.json](./141680-very-very-valet.json) |
 | Verydice | 88876 | [88876-verydice.json](./88876-verydice.json) |
 | VeryVeryHouse | 356637 | [356637-veryveryhouse.json](./356637-veryveryhouse.json) |
 | Verz | 161497 | [161497-verz.json](./161497-verz.json) |
