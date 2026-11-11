@@ -1013,7 +1013,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -12779,6 +12778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boba Avoider | 413031 | [413031-boba-avoider.json](./413031-boba-avoider.json) |
 | Boba Bar: Bubble Tea Tycoon | 276209 | [276209-boba-bar-bubble-tea-tycoon.json](./276209-boba-bar-bubble-tea-tycoon.json) |
 | Boba Boyz | 258270 | [258270-boba-boyz.json](./258270-boba-boyz.json) |
+| Boba Buba | 384999 | [384999-boba-buba.json](./384999-boba-buba.json) |
 | Boba Cafe Simulator | 346644 | [346644-boba-cafe-simulator.json](./346644-boba-cafe-simulator.json) |
 | Boba Monsters | 309140 | [309140-boba-monsters.json](./309140-boba-monsters.json) |
 | Boba Simulator | 230091 | [230091-boba-simulator.json](./230091-boba-simulator.json) |
