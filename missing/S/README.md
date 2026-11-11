@@ -4060,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculptor | 374775 | [374775-sculptor.json](./374775-sculptor.json) |
 | Sculptorgeist | 128742 | [128742-sculptorgeist.json](./128742-sculptorgeist.json) |
 | SculptrVR | 359909 | [359909-sculptrvr.json](./359909-sculptrvr.json) |
+| Sculpture Hentai Edition | 367891 | [367891-sculpture-hentai-edition.json](./367891-sculpture-hentai-edition.json) |
 | Sculpture of Chance | 244749 | [244749-sculpture-of-chance.json](./244749-sculpture-of-chance.json) |
 | Sculpturn | 264141 | [264141-sculpturn.json](./264141-sculpturn.json) |
 | Scum | 31712 | [31712-scum.json](./31712-scum.json) |
@@ -23242,6 +23243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Deluxe | 64857 | [64857-spin-deluxe.json](./64857-spin-deluxe.json) |
 | Spin Doctor | 175389 | [175389-spin-doctor.json](./175389-spin-doctor.json) |
 | Spin Evolution | 116288 | [116288-spin-evolution.json](./116288-spin-evolution.json) |
+| Spin Fighter | 368383 | [368383-spin-fighter.json](./368383-spin-fighter.json) |
 | Spin for Love | 134326 | [134326-spin-for-love.json](./134326-spin-for-love.json) |
 | Spin Forward | 360716 | [360716-spin-forward.json](./360716-spin-forward.json) |
 | Spin Fun | 404005 | [404005-spin-fun.json](./404005-spin-fun.json) |
@@ -24408,6 +24410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprinkle Junior | 103088 | [103088-sprinkle-junior.json](./103088-sprinkle-junior.json) |
 | Sprinklebottom and the Haunted Ruins | 385217 | [385217-sprinklebottom-and-the-haunted-ruins.json](./385217-sprinklebottom-and-the-haunted-ruins.json) |
 | Sprinkler & Ghost | 216249 | [216249-sprinkler-and-ghost.json](./216249-sprinkler-and-ghost.json) |
+| Sprinkler Co. | 367890 | [367890-sprinkler-co.json](./367890-sprinkler-co.json) |
 | Sprint | 246481 | [246481-sprint.json](./246481-sprint.json) |
 | Sprint | 359441 | [359441-sprint.json](./359441-sprint.json) |
 | Sprint 1 | 18393 | [18393-sprint-1.json](./18393-sprint-1.json) |
@@ -26669,6 +26672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarFox: Game&Watch | 376430 | [376430-starfox-game-and-watch.json](./376430-starfox-game-and-watch.json) |
 | StarFringe: Adversus | 33148 | [33148-starfringe-adversus.json](./33148-starfringe-adversus.json) |
 | Starfront: Collision | 87701 | [87701-starfront-collision.json](./87701-starfront-collision.json) |
+| StarFront: Lancers | 368388 | [368388-starfront-lancers.json](./368388-starfront-lancers.json) |
 | Starfuse | 260214 | [260214-starfuse.json](./260214-starfuse.json) |
 | Stargate | 10162 | [10162-stargate.json](./10162-stargate.json) |
 | Stargate | 17459 | [17459-stargate.json](./17459-stargate.json) |
@@ -32359,6 +32363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Airline Tycoon | 346520 | [346520-super-airline-tycoon.json](./346520-super-airline-tycoon.json) |
 | Super Airwolf | 45548 | [45548-super-airwolf.json](./45548-super-airwolf.json) |
 | Super Alabama Beach Mouse | 377600 | [377600-super-alabama-beach-mouse.json](./377600-super-alabama-beach-mouse.json) |
+| Super Ale Bros. Redux | 368161 | [368161-super-ale-bros-redux.json](./368161-super-ale-bros-redux.json) |
 | Super Aleste | 295441 | [295441-super-aleste.json](./295441-super-aleste.json) |
 | Super Alfred Chicken | 44455 | [44455-super-alfred-chicken.json](./44455-super-alfred-chicken.json) |
 | Super Algator Bros | 417811 | [417811-super-algator-bros.json](./417811-super-algator-bros.json) |
@@ -35426,6 +35431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ultimate Fighters | 271862 | [271862-super-ultimate-fighters.json](./271862-super-ultimate-fighters.json) |
 | Super Ultimate Fighters X | 381710 | [381710-super-ultimate-fighters-x.json](./381710-super-ultimate-fighters-x.json) |
 | Super Ultimate Party Game | 339080 | [339080-super-ultimate-party-game.json](./339080-super-ultimate-party-game.json) |
+| Super Ultimatum Quiz | 368406 | [368406-super-ultimatum-quiz.json](./368406-super-ultimatum-quiz.json) |
 | Super Ultra Baseball 2 | 38242 | [38242-super-ultra-baseball-2.json](./38242-super-ultra-baseball-2.json) |
 | Super Ultra Dead Rising 3 Arcade Remix Hyper Edition EX Plus Alpha | 20095 | [20095-super-ultra-dead-rising-3-arcade-remix-hyper-edition-ex-plus-alpha.json](./20095-super-ultra-dead-rising-3-arcade-remix-hyper-edition-ex-plus-alpha.json) |
 | Super Ultra Dead Rising 4 Mini Golf | 36664 | [36664-super-ultra-dead-rising-4-mini-golf.json](./36664-super-ultra-dead-rising-4-mini-golf.json) |
@@ -36698,6 +36704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi Nights | 403393 | [403393-sushi-nights.json](./403393-sushi-nights.json) |
 | Sushi on Wheels | 386292 | [386292-sushi-on-wheels.json](./386292-sushi-on-wheels.json) |
 | Sushi Ou | 308894 | [308894-sushi-ou.json](./308894-sushi-ou.json) |
+| Sushi Pachi Panic | 367879 | [367879-sushi-pachi-panic.json](./367879-sushi-pachi-panic.json) |
 | Sushi Plus | 302236 | [302236-sushi-plus.json](./302236-sushi-plus.json) |
 | Sushi Race | 302005 | [302005-sushi-race.json](./302005-sushi-race.json) |
 | Sushi Race: More Toppings Race Pack | 332600 | [332600-sushi-race-more-toppings-race-pack.json](./332600-sushi-race-more-toppings-race-pack.json) |
@@ -37384,6 +37391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swift by Knight | 258918 | [258918-swift-by-knight.json](./258918-swift-by-knight.json) |
 | Swift Death | 138229 | [138229-swift-death.json](./138229-swift-death.json) |
 | Swift Elf | 152667 | [152667-swift-elf.json](./152667-swift-elf.json) |
+| Swift Striders Parkour | 368395 | [368395-swift-striders-parkour.json](./368395-swift-striders-parkour.json) |
 | Swift*Stitch | 65439 | [65439-swift-stitch.json](./65439-swift-stitch.json) |
 | Swifter | 346770 | [346770-swifter.json](./346770-swifter.json) |
 | SwiftGrids | 380486 | [380486-swiftgrids.json](./380486-swiftgrids.json) |
