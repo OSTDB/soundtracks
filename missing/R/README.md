@@ -4023,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Bird Adventure: Classic Physics Puzzle | 237358 | [237358-red-bird-adventure-classic-physics-puzzle.json](./237358-red-bird-adventure-classic-physics-puzzle.json) |
 | Red Bit Escape | 343983 | [343983-red-bit-escape.json](./343983-red-bit-escape.json) |
 | Red Bit Ninja | 35424 | [35424-red-bit-ninja.json](./35424-red-bit-ninja.json) |
+| Red Blaster | 344097 | [344097-red-blaster.json](./344097-red-blaster.json) |
 | Red Blood | 52719 | [52719-red-blood.json](./52719-red-blood.json) |
 | Red Blue | 111197 | [111197-red-blue.json](./111197-red-blue.json) |
 | Red Blue Cell | 327844 | [327844-red-blue-cell.json](./327844-red-blue-cell.json) |
@@ -7510,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Richard Scarry’s Busytown: Best Math Ever | 313377 | [313377-richard-scarry-s-busytown-best-math-ever.json](./313377-richard-scarry-s-busytown-best-math-ever.json) |
 | Richard Scarry's How Things Work In Busytown | 64086 | [64086-richard-scarrys-how-things-work-in-busytown.json](./64086-richard-scarrys-how-things-work-in-busytown.json) |
 | Richard West and the Golden Mask | 190139 | [190139-richard-west-and-the-golden-mask.json](./190139-richard-west-and-the-golden-mask.json) |
+| Richat Structure | 344095 | [344095-richat-structure.json](./344095-richat-structure.json) |
 | Richdle | 348949 | [348949-richdle.json](./348949-richdle.json) |
 | Riches in the Deep | 392925 | [392925-riches-in-the-deep.json](./392925-riches-in-the-deep.json) |
 | Richest Thief | 369360 | [369360-richest-thief.json](./369360-richest-thief.json) |
@@ -8115,6 +8117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ring Quest | 26262 | [26262-ring-quest.json](./26262-ring-quest.json) |
 | Ring Racer | 147379 | [147379-ring-racer.json](./147379-ring-racer.json) |
 | Ring Racer | 259151 | [259151-ring-racer.json](./259151-ring-racer.json) |
+| Ring Rage | 344049 | [344049-ring-rage.json](./344049-ring-rage.json) |
 | Ring Rage | 39498 | [39498-ring-rage.json](./39498-ring-rage.json) |
 | Ring Ring | 135689 | [135689-ring-ring.json](./135689-ring-ring.json) |
 | Ring Run Circus | 52705 | [52705-ring-run-circus.json](./52705-ring-run-circus.json) |
@@ -8616,6 +8619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk: Pogo Domination | 354995 | [354995-risk-pogo-domination.json](./354995-risk-pogo-domination.json) |
 | Risk: The Game of Global Domination | 146155 | [146155-risk-the-game-of-global-domination.json](./146155-risk-the-game-of-global-domination.json) |
 | Risk: The Game of Global Domination | 62161 | [62161-risk-the-game-of-global-domination.json](./62161-risk-the-game-of-global-domination.json) |
+| Risk: The Official Game | 344056 | [344056-risk-the-official-game.json](./344056-risk-the-official-game.json) |
 | Riskant! | 263454 | [263454-riskant.json](./263454-riskant.json) |
 | Risker | 259409 | [259409-risker.json](./259409-risker.json) |
 | Riskers | 29736 | [29736-riskers.json](./29736-riskers.json) |
