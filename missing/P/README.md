@@ -5305,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petit Computer | 332200 | [332200-petit-computer.json](./332200-petit-computer.json) |
 | Petit Computer | 64865 | [64865-petit-computer.json](./64865-petit-computer.json) |
 | Petit Game Collection Vol.1 | 283315 | [283315-petit-game-collection-vol-1.json](./283315-petit-game-collection-vol-1.json) |
+| Petit Hedgehog | 316898 | [316898-petit-hedgehog.json](./316898-petit-hedgehog.json) |
 | Petit Island | 204526 | [204526-petit-island.json](./204526-petit-island.json) |
 | Petit Novel Series: Harvest December | 59433 | [59433-petit-novel-series-harvest-december.json](./59433-petit-novel-series-harvest-december.json) |
 | Petit Petit Petit | 239763 | [239763-petit-petit-petit.json](./239763-petit-petit-petit.json) |
@@ -10979,6 +10980,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Aquarium | 381900 | [381900-pocket-aquarium.json](./381900-pocket-aquarium.json) |
 | Pocket Arcade Story | 56989 | [56989-pocket-arcade-story.json](./56989-pocket-arcade-story.json) |
 | Pocket Arcade Story DX | 208033 | [208033-pocket-arcade-story-dx.json](./208033-pocket-arcade-story-dx.json) |
+| Pocket Arcade: Sudoku Electronic | 317107 | [317107-pocket-arcade-sudoku-electronic.json](./317107-pocket-arcade-sudoku-electronic.json) |
+| Pocket Arcade: Sudoku for Kids | 317106 | [317106-pocket-arcade-sudoku-for-kids.json](./317106-pocket-arcade-sudoku-for-kids.json) |
 | Pocket Archery Master | 393885 | [393885-pocket-archery-master.json](./393885-pocket-archery-master.json) |
 | Pocket Army | 344887 | [344887-pocket-army.json](./344887-pocket-army.json) |
 | Pocket Assault | 118818 | [118818-pocket-assault.json](./118818-pocket-assault.json) |
@@ -11790,6 +11793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Channel: Pikachu to Issho! | 355810 | [355810-pokemon-channel-pikachu-to-issho.json](./355810-pokemon-channel-pikachu-to-issho.json) |
 | Pokémon Chaos Black | 222610 | [222610-pokemon-chaos-black.json](./222610-pokemon-chaos-black.json) |
 | Pokémon Chaos in Vesita | 327701 | [327701-pokemon-chaos-in-vesita.json](./327701-pokemon-chaos-in-vesita.json) |
+| Pokemon Charged Red | 317477 | [317477-pokemon-charged-red.json](./317477-pokemon-charged-red.json) |
 | Pokémon Chasm Crosser | 55011 | [55011-pokemon-chasm-crosser.json](./55011-pokemon-chasm-crosser.json) |
 | Pokémon Chess | 249112 | [249112-pokemon-chess.json](./249112-pokemon-chess.json) |
 | Pokemon Classic | 409748 | [409748-pokemon-classic.json](./409748-pokemon-classic.json) |
@@ -11909,6 +11913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Eterna Emoción | 333642 | [333642-pokemon-eterna-emocion.json](./333642-pokemon-eterna-emocion.json) |
 | Pokémon Eternal X | 233652 | [233652-pokemon-eternal-x.json](./233652-pokemon-eternal-x.json) |
 | Pokémon Evol | 314729 | [314729-pokemon-evol.json](./314729-pokemon-evol.json) |
+| Pokémon Exceeded | 317478 | [317478-pokemon-exceeded.json](./317478-pokemon-exceeded.json) |
 | Pokémon Existence | 314730 | [314730-pokemon-existence.json](./314730-pokemon-existence.json) |
 | Pokémon Extreme Yellow | 357517 | [357517-pokemon-extreme-yellow.json](./357517-pokemon-extreme-yellow.json) |
 | Pokémon Factory Adventure | 231683 | [231683-pokemon-factory-adventure.json](./231683-pokemon-factory-adventure.json) |
@@ -12223,6 +12228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Scarlet and Pokémon Violet Double Pack | 203516 | [203516-pokemon-scarlet-and-pokemon-violet-double-pack.json](./203516-pokemon-scarlet-and-pokemon-violet-double-pack.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero | 239935 | [239935-pokemon-scarlet-the-hidden-treasure-of-area-zero.json](./239935-pokemon-scarlet-the-hidden-treasure-of-area-zero.json) |
 | Pokémon Scarlet: The Hidden Treasure of Area Zero - Part 2: The Indigo Disk | 239932 | [239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json](./239932-pokemon-scarlet-the-hidden-treasure-of-area-zero-part-2-the-indigo-disk.json) |
+| Pokémon Scorched Silver | 317474 | [317474-pokemon-scorched-silver.json](./317474-pokemon-scorched-silver.json) |
 | Pokémon Seek & Find | 61005 | [61005-pokemon-seek-and-find.json](./61005-pokemon-seek-and-find.json) |
 | Pokémon Serene Crystal | 337418 | [337418-pokemon-serene-crystal.json](./337418-pokemon-serene-crystal.json) |
 | Pokémon Shattered Dimensions | 199782 | [199782-pokemon-shattered-dimensions.json](./199782-pokemon-shattered-dimensions.json) |
@@ -17980,6 +17986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PsiSyn: The Game | 368381 | [368381-psisyn-the-game.json](./368381-psisyn-the-game.json) |
 | PSN Protector | 320978 | [320978-psn-protector.json](./320978-psn-protector.json) |
 | Psoltrix | 299547 | [299547-psoltrix.json](./299547-psoltrix.json) |
+| PSoul | 317114 | [317114-psoul.json](./317114-psoul.json) |
 | PSP1G: The Incident 2 | 287467 | [287467-psp1g-the-incident-2.json](./287467-psp1g-the-incident-2.json) |
 | Psps Dream Mart | 394109 | [394109-psps-dream-mart.json](./394109-psps-dream-mart.json) |
 | PSS-61 | 263675 | [263675-pss-61.json](./263675-pss-61.json) |
@@ -18437,7 +18444,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsar Arena | 411889 | [411889-pulsar-arena.json](./411889-pulsar-arena.json) |
 | Pulsar II | 59557 | [59557-pulsar-ii.json](./59557-pulsar-ii.json) |
 | Pulsar no Hikari | 64649 | [64649-pulsar-no-hikari.json](./64649-pulsar-no-hikari.json) |
-| Pulsar: Lost Colony | 16687 | [16687-pulsar-lost-colony.json](./16687-pulsar-lost-colony.json) |
 | Pulsari | 404782 | [404782-pulsari.json](./404782-pulsari.json) |
 | Pulsars & Crowbars | 271599 | [271599-pulsars-and-crowbars.json](./271599-pulsars-and-crowbars.json) |
 | Pulsatio Cordis | 326567 | [326567-pulsatio-cordis.json](./326567-pulsatio-cordis.json) |
