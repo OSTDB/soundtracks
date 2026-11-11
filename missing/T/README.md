@@ -14742,6 +14742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Misanthropic Girl | 202458 | [202458-the-misanthropic-girl.json](./202458-the-misanthropic-girl.json) |
 | The Miser's House | 25116 | [25116-the-misers-house.json](./25116-the-misers-house.json) |
 | The Miserable Crimson Hooded Girl | 125041 | [125041-the-miserable-crimson-hooded-girl.json](./125041-the-miserable-crimson-hooded-girl.json) |
+| The Misfits | 323454 | [323454-the-misfits.json](./323454-the-misfits.json) |
 | The Misfits | 56229 | [56229-the-misfits.json](./56229-the-misfits.json) |
 | The Misfits Burger Joint | 255341 | [255341-the-misfits-burger-joint.json](./255341-the-misfits-burger-joint.json) |
 | The Misfortunes of a Nekomimi Catgirl Sorceress | 82914 | [82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json](./82914-the-misfortunes-of-a-nekomimi-catgirl-sorceress.json) |
@@ -16413,6 +16414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ranger: A Skyhopper Tale | 226542 | [226542-the-ranger-a-skyhopper-tale.json](./226542-the-ranger-a-skyhopper-tale.json) |
 | The Ranger: Border Hunt | 297848 | [297848-the-ranger-border-hunt.json](./297848-the-ranger-border-hunt.json) |
 | The Ranger: Lost Tribe | 52057 | [52057-the-ranger-lost-tribe.json](./52057-the-ranger-lost-tribe.json) |
+| The Rangers in the South | 323460 | [323460-the-rangers-in-the-south.json](./323460-the-rangers-in-the-south.json) |
 | The Ransom of Atawallpa | 337644 | [337644-the-ransom-of-atawallpa.json](./337644-the-ransom-of-atawallpa.json) |
 | The Raphael Parable | 305306 | [305306-the-raphael-parable.json](./305306-the-raphael-parable.json) |
 | The Rapid Treasure Escape | 176325 | [176325-the-rapid-treasure-escape.json](./176325-the-rapid-treasure-escape.json) |
