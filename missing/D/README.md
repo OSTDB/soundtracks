@@ -5001,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Squad 2: Idle Space Raiders | 101784 | [101784-death-squad-2-idle-space-raiders.json](./101784-death-squad-2-idle-space-raiders.json) |
 | Death Squared | 26972 | [26972-death-squared.json](./26972-death-squared.json) |
 | Death Stair | 33462 | [33462-death-stair.json](./33462-death-stair.json) |
+| Death Stairwell 99F | 359672 | [359672-death-stairwell-99f.json](./359672-death-stairwell-99f.json) |
 | Death Stalker | 13579 | [13579-death-stalker.json](./13579-death-stalker.json) |
 | Death Standing | 402098 | [402098-death-standing.json](./402098-death-standing.json) |
 | Death Star | 12949 | [12949-death-star.json](./12949-death-star.json) |
@@ -13205,6 +13206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't be crushed | 54846 | [54846-dont-be-crushed.json](./54846-dont-be-crushed.json) |
 | Don't Be Greedy | 233522 | [233522-dont-be-greedy.json](./233522-dont-be-greedy.json) |
 | Don't Be Nervous Talking to Girls | 91628 | [91628-dont-be-nervous-talking-to-girls.json](./91628-dont-be-nervous-talking-to-girls.json) |
+| Don't Be Scared Of The Factory | 359637 | [359637-dont-be-scared-of-the-factory.json](./359637-dont-be-scared-of-the-factory.json) |
 | Don't Be Squared | 57458 | [57458-dont-be-squared.json](./57458-dont-be-squared.json) |
 | Don't Beg for Help | 245774 | [245774-dont-beg-for-help.json](./245774-dont-beg-for-help.json) |
 | Don't Bite Me Bro! | 95161 | [95161-dont-bite-me-bro.json](./95161-dont-bite-me-bro.json) |
@@ -17786,6 +17788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
 | Drink Clicker: Idle Tycoon | 233384 | [233384-drink-clicker-idle-tycoon.json](./233384-drink-clicker-idle-tycoon.json) |
 | Drink Drank Drunk | 153578 | [153578-drink-drank-drunk.json](./153578-drink-drank-drunk.json) |
+| Drink Factory Simulator | 359634 | [359634-drink-factory-simulator.json](./359634-drink-factory-simulator.json) |
 | Drink Human Beans | 274571 | [274571-drink-human-beans.json](./274571-drink-human-beans.json) |
 | Drink Inc. | 90280 | [90280-drink-inc.json](./90280-drink-inc.json) |
 | Drink it Bitter | 341262 | [341262-drink-it-bitter.json](./341262-drink-it-bitter.json) |
@@ -17795,6 +17798,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Tea or Die!!! | 56202 | [56202-drink-tea-or-die.json](./56202-drink-tea-or-die.json) |
 | Drinkbox Vita Collection | 99542 | [99542-drinkbox-vita-collection.json](./99542-drinkbox-vita-collection.json) |
 | Drinking in the Hot Spring! | 330180 | [330180-drinking-in-the-hot-spring.json](./330180-drinking-in-the-hot-spring.json) |
+| Drinking Medieval | 359633 | [359633-drinking-medieval.json](./359633-drinking-medieval.json) |
+| Drinking Song | 359632 | [359632-drinking-song.json](./359632-drinking-song.json) |
 | Drinking Tea (with the Trans Boy You Secretly Have a Crush On) | 225519 | [225519-drinking-tea-with-the-trans-boy-you-secretly-have-a-crush-on.json](./225519-drinking-tea-with-the-trans-boy-you-secretly-have-a-crush-on.json) |
 | Drinko | 77710 | [77710-drinko.json](./77710-drinko.json) |
 | Drinkrime | 267717 | [267717-drinkrime.json](./267717-drinkrime.json) |
@@ -20299,6 +20304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dutchman's Dash | 358587 | [358587-dutchmans-dash.json](./358587-dutchmans-dash.json) |
 | Duterra | 213018 | [213018-duterra.json](./213018-duterra.json) |
 | Dutiful Bulldozer | 106518 | [106518-dutiful-bulldozer.json](./106518-dutiful-bulldozer.json) |
+| Duty 3: Factory Guard | 359636 | [359636-duty-3-factory-guard.json](./359636-duty-3-factory-guard.json) |
 | Duty and Beyond | 94589 | [94589-duty-and-beyond.json](./94589-duty-and-beyond.json) |
 | Duty Calls | 80555 | [80555-duty-calls.json](./80555-duty-calls.json) |
 | Duty First | 317095 | [317095-duty-first.json](./317095-duty-first.json) |
