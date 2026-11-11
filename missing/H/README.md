@@ -6991,6 +6991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Alphard | 397883 | [397883-hexceed-alphard.json](./397883-hexceed-alphard.json) |
 | hexceed: Animo | 155694 | [155694-hexceed-animo.json](./155694-hexceed-animo.json) |
 | Hexceed: Aquila | 397882 | [397882-hexceed-aquila.json](./397882-hexceed-aquila.json) |
+| Hexceed: Caeruleum | 342318 | [342318-hexceed-caeruleum.json](./342318-hexceed-caeruleum.json) |
 | Hexceed: Capricornus | 397881 | [397881-hexceed-capricornus.json](./397881-hexceed-capricornus.json) |
 | Hexceed: Casus | 204299 | [204299-hexceed-casus.json](./204299-hexceed-casus.json) |
 | Hexceed: Centaurus | 397880 | [397880-hexceed-centaurus.json](./397880-hexceed-centaurus.json) |
@@ -7002,6 +7003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Exsupero Pack | 224229 | [224229-hexceed-exsupero-pack.json](./224229-hexceed-exsupero-pack.json) |
 | Hexceed: Finis | 239490 | [239490-hexceed-finis.json](./239490-hexceed-finis.json) |
 | Hexceed: Flavum Pack | 295124 | [295124-hexceed-flavum-pack.json](./295124-hexceed-flavum-pack.json) |
+| Hexceed: Fuscus | 342319 | [342319-hexceed-fuscus.json](./342319-hexceed-fuscus.json) |
 | Hexceed: Glacialis Pack | 275961 | [275961-hexceed-glacialis-pack.json](./275961-hexceed-glacialis-pack.json) |
 | Hexceed: Ignis Pack | 246837 | [246837-hexceed-ignis-pack.json](./246837-hexceed-ignis-pack.json) |
 | hexceed: Illumina Pack | 174461 | [174461-hexceed-illumina-pack.json](./174461-hexceed-illumina-pack.json) |
