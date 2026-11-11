@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | h Checkers | 91164 | [91164-h-checkers.json](./91164-h-checkers.json) |
 | h Find the Differences 1 | 88842 | [88842-h-find-the-differences-1.json](./88842-h-find-the-differences-1.json) |
 | h Find the Differences 2 | 88449 | [88449-h-find-the-differences-2.json](./88449-h-find-the-differences-2.json) |
+| H Girl | 389780 | [389780-h-girl.json](./389780-h-girl.json) |
 | H Girl 2 | 244271 | [244271-h-girl-2.json](./244271-h-girl-2.json) |
 | H Girl 3 | 289711 | [289711-h-girl-3.json](./289711-h-girl-3.json) |
 | H Girl 4 | 301810 | [301810-h-girl-4.json](./301810-h-girl-4.json) |
@@ -10636,6 +10637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Elves and a Moral Orc | 221043 | [221043-horny-elves-and-a-moral-orc.json](./221043-horny-elves-and-a-moral-orc.json) |
 | Horny Fantasy Girl Hentai | 149407 | [149407-horny-fantasy-girl-hentai.json](./149407-horny-fantasy-girl-hentai.json) |
 | Horny Fighter | 105090 | [105090-horny-fighter.json](./105090-horny-fighter.json) |
+| Horny Girl | 389791 | [389791-horny-girl.json](./389791-horny-girl.json) |
 | Horny Girl Hentai Puzzle | 158399 | [158399-horny-girl-hentai-puzzle.json](./158399-horny-girl-hentai-puzzle.json) |
 | Horny Girls Hentai | 161327 | [161327-horny-girls-hentai.json](./161327-horny-girls-hentai.json) |
 | Horny Goddesses Quiz | 391919 | [391919-horny-goddesses-quiz.json](./391919-horny-goddesses-quiz.json) |
@@ -10884,6 +10886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horses | 265637 | [265637-horses.json](./265637-horses.json) |
 | Horses 2025 | 394645 | [394645-horses-2025.json](./394645-horses-2025.json) |
 | Horses 3D | 47637 | [47637-horses-3d.json](./47637-horses-3d.json) |
+| Horses and Girls | 389776 | [389776-horses-and-girls.json](./389776-horses-and-girls.json) |
 | Horses of Gavarnie | 387653 | [387653-horses-of-gavarnie.json](./387653-horses-of-gavarnie.json) |
 | Horses of Hoofprint Bay | 376483 | [376483-horses-of-hoofprint-bay.json](./376483-horses-of-hoofprint-bay.json) |
 | Horses.io: Horse Herd Racing | 269010 | [269010-horses-io-horse-herd-racing.json](./269010-horses-io-horse-herd-racing.json) |
@@ -10947,6 +10950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshiwari x Yoizanai | 396476 | [396476-hoshiwari-x-yoizanai.json](./396476-hoshiwari-x-yoizanai.json) |
 | Hoshizora e Kakaru Hashi AA | 144889 | [144889-hoshizora-e-kakaru-hashi-aa.json](./144889-hoshizora-e-kakaru-hashi-aa.json) |
 | Hoshizora he Kakaru Hashi | 60656 | [60656-hoshizora-he-kakaru-hashi.json](./60656-hoshizora-he-kakaru-hashi.json) |
+| Hoshizora he Tatsu Hi | 389809 | [389809-hoshizora-he-tatsu-hi.json](./389809-hoshizora-he-tatsu-hi.json) |
 | Hoshizora he Tatsuhi | 414936 | [414936-hoshizora-he-tatsuhi.json](./414936-hoshizora-he-tatsuhi.json) |
 | Hoshizora Navi | 92412 | [92412-hoshizora-navi.json](./92412-hoshizora-navi.json) |
 | Hoshizora no Comic Garden | 70660 | [70660-hoshizora-no-comic-garden.json](./70660-hoshizora-no-comic-garden.json) |
