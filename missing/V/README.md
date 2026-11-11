@@ -3513,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Dungeon | 322694 | [322694-void-dungeon.json](./322694-void-dungeon.json) |
 | Void Eagle | 215671 | [215671-void-eagle.json](./215671-void-eagle.json) |
 | Void Eaters | 418415 | [418415-void-eaters.json](./418415-void-eaters.json) |
+| Void Echo | 333258 | [333258-void-echo.json](./333258-void-echo.json) |
 | Void Eclipse | 126372 | [126372-void-eclipse.json](./126372-void-eclipse.json) |
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
 | Void Excursion | 79130 | [79130-void-excursion.json](./79130-void-excursion.json) |
