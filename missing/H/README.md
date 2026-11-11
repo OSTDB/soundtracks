@@ -2130,6 +2130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HardPunch: Sex Plague | 417403 | [417403-hardpunch-sex-plague.json](./417403-hardpunch-sex-plague.json) |
 | Hardrock Sex 3D | 215687 | [215687-hardrock-sex-3d.json](./215687-hardrock-sex-3d.json) |
 | Hardships of a Vampire | 370050 | [370050-hardships-of-a-vampire.json](./370050-hardships-of-a-vampire.json) |
+| Hardstrike: The Fall | 344083 | [344083-hardstrike-the-fall.json](./344083-hardstrike-the-fall.json) |
 | Hardwar | 19566 | [19566-hardwar.json](./19566-hardwar.json) |
 | Hardwar | 80278 | [80278-hardwar.json](./80278-hardwar.json) |
 | Hardware Engineering | 31400 | [31400-hardware-engineering.json](./31400-hardware-engineering.json) |
