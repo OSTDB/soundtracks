@@ -6033,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chains on Sand | 372001 | [372001-chains-on-sand.json](./372001-chains-on-sand.json) |
 | Chainsaw | 382079 | [382079-chainsaw.json](./382079-chainsaw.json) |
 | Chainsaw Dance | 159059 | [159059-chainsaw-dance.json](./159059-chainsaw-dance.json) |
+| Chainsaw Dodge | 364748 | [364748-chainsaw-dodge.json](./364748-chainsaw-dodge.json) |
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chainsaw Man: Nusunda Baiku De Kirihiraku!! | 261115 | [261115-chainsaw-man-nusunda-baiku-de-kirihiraku.json](./261115-chainsaw-man-nusunda-baiku-de-kirihiraku.json) |
 | Chainsaw Maniac | 289402 | [289402-chainsaw-maniac.json](./289402-chainsaw-maniac.json) |
@@ -9448,6 +9449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinema Theater Tycoon | 358377 | [358377-cinema-theater-tycoon.json](./358377-cinema-theater-tycoon.json) |
 | Cinema Tycoon | 369679 | [369679-cinema-tycoon.json](./369679-cinema-tycoon.json) |
 | Cinema Tycoon 2: Movie Mania | 62486 | [62486-cinema-tycoon-2-movie-mania.json](./62486-cinema-tycoon-2-movie-mania.json) |
+| CinemaLandVR | 364729 | [364729-cinemalandvr.json](./364729-cinemalandvr.json) |
 | CinemApocalypse | 202502 | [202502-cinemapocalypse.json](./202502-cinemapocalypse.json) |
 | Cinemaster Cinema Simulator | 326452 | [326452-cinemaster-cinema-simulator.json](./326452-cinemaster-cinema-simulator.json) |
 | Cinematic Mod | 308290 | [308290-cinematic-mod.json](./308290-cinematic-mod.json) |
@@ -10429,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Panzer | 220159 | [220159-clash-of-panzer.json](./220159-clash-of-panzer.json) |
 | Clash of Puppets | 17892 | [17892-clash-of-puppets.json](./17892-clash-of-puppets.json) |
 | Clash of Robots | 50752 | [50752-clash-of-robots.json](./50752-clash-of-robots.json) |
+| Clash of Rock Paper Scissors | 364766 | [364766-clash-of-rock-paper-scissors.json](./364766-clash-of-rock-paper-scissors.json) |
 | Clash of Seven Heroes | 368284 | [368284-clash-of-seven-heroes.json](./368284-clash-of-seven-heroes.json) |
 | Clash of Sky | 196551 | [196551-clash-of-sky.json](./196551-clash-of-sky.json) |
 | Clash of Spells | 101228 | [101228-clash-of-spells.json](./101228-clash-of-spells.json) |
@@ -11150,6 +11153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clip Grip Power | 110014 | [110014-clip-grip-power.json](./110014-clip-grip-power.json) |
 | Clipmatrix | 414073 | [414073-clipmatrix.json](./414073-clipmatrix.json) |
 | Clipped | 132588 | [132588-clipped.json](./132588-clipped.json) |
+| Clippy Commando | 364757 | [364757-clippy-commando.json](./364757-clippy-commando.json) |
 | Clippyworld: An Unexpected Journey | 260787 | [260787-clippyworld-an-unexpected-journey.json](./260787-clippyworld-an-unexpected-journey.json) |
 | Clive 'N' Wrench | 59598 | [59598-clive-n-wrench.json](./59598-clive-n-wrench.json) |
 | Clive 'N' Wrench: Badge Edition | 139847 | [139847-clive-n-wrench-badge-edition.json](./139847-clive-n-wrench-badge-edition.json) |
@@ -14946,6 +14950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continental Circus | 12010 | [12010-continental-circus.json](./12010-continental-circus.json) |
 | Continental Drift | 135834 | [135834-continental-drift.json](./135834-continental-drift.json) |
 | Continental Galaxy 2020 | 59811 | [59811-continental-galaxy-2020.json](./59811-continental-galaxy-2020.json) |
+| Contingence | 364946 | [364946-contingence.json](./364946-contingence.json) |
 | Contingency | 181626 | [181626-contingency.json](./181626-contingency.json) |
 | Contingency Plan | 303425 | [303425-contingency-plan.json](./303425-contingency-plan.json) |
 | Contingency Plan | 336632 | [336632-contingency-plan.json](./336632-contingency-plan.json) |
@@ -20443,6 +20448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube's Kaizo World 2 | 338842 | [338842-cubes-kaizo-world-2.json](./338842-cubes-kaizo-world-2.json) |
 | Cube's Kaizo World 3 | 338843 | [338843-cubes-kaizo-world-3.json](./338843-cubes-kaizo-world-3.json) |
 | Cube's Kaizo World 4 | 338844 | [338844-cubes-kaizo-world-4.json](./338844-cubes-kaizo-world-4.json) |
+| Cube1 vs. Cube2 | 364737 | [364737-cube1-vs-cube2.json](./364737-cube1-vs-cube2.json) |
 | CubeBall VR | 28806 | [28806-cubeball-vr.json](./28806-cubeball-vr.json) |
 | Cubebam | 284981 | [284981-cubebam.json](./284981-cubebam.json) |
 | Cubecat | 311979 | [311979-cubecat.json](./311979-cubecat.json) |
@@ -20506,6 +20512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes Control | 256167 | [256167-cubes-control.json](./256167-cubes-control.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
 | Cubes Empire Champions | 234423 | [234423-cubes-empire-champions.json](./234423-cubes-empire-champions.json) |
+| Cubes Go | 364945 | [364945-cubes-go.json](./364945-cubes-go.json) |
 | Cubes of Death | 190326 | [190326-cubes-of-death.json](./190326-cubes-of-death.json) |
 | Cubes on the floor | 176161 | [176161-cubes-on-the-floor.json](./176161-cubes-on-the-floor.json) |
 | Cubes Problem | 347102 | [347102-cubes-problem.json](./347102-cubes-problem.json) |
