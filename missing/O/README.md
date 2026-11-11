@@ -5238,6 +5238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Hand: Deluxe | 330138 | [330138-out-of-hand-deluxe.json](./330138-out-of-hand-deluxe.json) |
 | Out of Hands | 211231 | [211231-out-of-hands.json](./211231-out-of-hands.json) |
 | Out of Hell | 218655 | [218655-out-of-hell.json](./218655-out-of-hell.json) |
+| Out of Hell | 382106 | [382106-out-of-hell.json](./382106-out-of-hell.json) |
 | Out of Jail | 216963 | [216963-out-of-jail.json](./216963-out-of-jail.json) |
 | Out of Line | 58479 | [58479-out-of-line.json](./58479-out-of-line.json) |
 | Out Of Memories | 320933 | [320933-out-of-memories.json](./320933-out-of-memories.json) |
