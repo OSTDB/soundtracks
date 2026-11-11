@@ -8783,6 +8783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals of Aether: Heat Wave Skin Pack | 382513 | [382513-rivals-of-aether-heat-wave-skin-pack.json](./382513-rivals-of-aether-heat-wave-skin-pack.json) |
 | Rivals of Aether: Legacy Skin Pack | 382508 | [382508-rivals-of-aether-legacy-skin-pack.json](./382508-rivals-of-aether-legacy-skin-pack.json) |
 | Rivals of Aether: Mario Pissing | 325926 | [325926-rivals-of-aether-mario-pissing.json](./325926-rivals-of-aether-mario-pissing.json) |
+| Rivals of Aether: Mickey's Speedway USA | 331016 | [331016-rivals-of-aether-mickeys-speedway-usa.json](./331016-rivals-of-aether-mickeys-speedway-usa.json) |
 | Rivals of Aether: Norm | 325924 | [325924-rivals-of-aether-norm.json](./325924-rivals-of-aether-norm.json) |
 | Rivals of Aether: Pool Party Skin Pack | 382506 | [382506-rivals-of-aether-pool-party-skin-pack.json](./382506-rivals-of-aether-pool-party-skin-pack.json) |
 | Rivals of Aether: Speedrunner Mario | 300355 | [300355-rivals-of-aether-speedrunner-mario.json](./300355-rivals-of-aether-speedrunner-mario.json) |
