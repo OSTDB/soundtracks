@@ -9390,6 +9390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shit Storm | 81100 | [81100-shit-storm.json](./81100-shit-storm.json) |
 | Shit!! | 79214 | [79214-shit.json](./79214-shit.json) |
 | Shita ni | 238565 | [238565-shita-ni.json](./238565-shita-ni.json) |
+| Shitai wo Arau | 387849 | [387849-shitai-wo-arau.json](./387849-shitai-wo-arau.json) |
 | Shitamachi Ninjou Gekijou | 307509 | [307509-shitamachi-ninjou-gekijou.json](./307509-shitamachi-ninjou-gekijou.json) |
 | Shitamichi Chinsou Club | 374331 | [374331-shitamichi-chinsou-club.json](./374331-shitamichi-chinsou-club.json) |
 | Shitataru Ano Ko: Drenched Girls | 271505 | [271505-shitataru-ano-ko-drenched-girls.json](./271505-shitataru-ano-ko-drenched-girls.json) |
@@ -22395,6 +22396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedRunners: Salem's Sprint Squad | 238040 | [238040-speedrunners-salems-sprint-squad.json](./238040-speedrunners-salems-sprint-squad.json) |
 | SpeedRunners: Youtuber Pack 2 | 202202 | [202202-speedrunners-youtuber-pack-2.json](./202202-speedrunners-youtuber-pack-2.json) |
 | Speedrunnerz | 257438 | [257438-speedrunnerz.json](./257438-speedrunnerz.json) |
+| Speedshot | 387827 | [387827-speedshot.json](./387827-speedshot.json) |
 | Speedster's Collection | 283210 | [283210-speedsters-collection.json](./283210-speedsters-collection.json) |
 | SpeedStrip | 80398 | [80398-speedstrip.json](./80398-speedstrip.json) |
 | Speedtickers | 365898 | [365898-speedtickers.json](./365898-speedtickers.json) |
@@ -24180,6 +24182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot It | 320341 | [320341-spot-it.json](./320341-spot-it.json) |
 | Spot It in the Picture! Worldwide Knowledge x Academic Quiz | 409516 | [409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json](./409516-spot-it-in-the-picture-worldwide-knowledge-x-academic-quiz.json) |
 | Spot It! Challenge | 64619 | [64619-spot-it-challenge.json](./64619-spot-it-challenge.json) |
+| Spot It! Go! | 387842 | [387842-spot-it-go.json](./387842-spot-it-go.json) |
 | Spot It! Mean Machines | 23679 | [23679-spot-it-mean-machines.json](./23679-spot-it-mean-machines.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
 | Spot Sample Witness Simulator | 161491 | [161491-spot-sample-witness-simulator.json](./161491-spot-sample-witness-simulator.json) |
@@ -25011,6 +25014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stabby Cats | 159734 | [159734-stabby-cats.json](./159734-stabby-cats.json) |
 | Stabby Machine | 102910 | [102910-stabby-machine.json](./102910-stabby-machine.json) |
 | Stabby the Clown | 176774 | [176774-stabby-the-clown.json](./176774-stabby-the-clown.json) |
+| Stäbe Anordnen | 387845 | [387845-stabe-anordnen.json](./387845-stabe-anordnen.json) |
 | Stabfish 2 | 200190 | [200190-stabfish-2.json](./200190-stabfish-2.json) |
 | Stabfish.io | 276540 | [276540-stabfish-io.json](./276540-stabfish-io.json) |
 | Stability | 43171 | [43171-stability.json](./43171-stability.json) |
