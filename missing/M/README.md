@@ -2467,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mainframe Escape | 417386 | [417386-mainframe-escape.json](./417386-mainframe-escape.json) |
 | Mainframe Mayhem | 271328 | [271328-mainframe-mayhem.json](./271328-mainframe-mayhem.json) |
 | Mainframe Men | 384147 | [384147-mainframe-men.json](./384147-mainframe-men.json) |
+| Mainframent | 361373 | [361373-mainframent.json](./361373-mainframent.json) |
 | MainGuns | 56478 | [56478-mainguns.json](./56478-mainguns.json) |
 | Mainichi | 144226 | [144226-mainichi.json](./144226-mainichi.json) |
 | Mainichi ga Ecchi | 356055 | [356055-mainichi-ga-ecchi.json](./356055-mainichi-ga-ecchi.json) |
@@ -11789,6 +11790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Arrow | 239725 | [239725-midnight-arrow.json](./239725-midnight-arrow.json) |
 | Midnight at Blackwood Manor | 370150 | [370150-midnight-at-blackwood-manor.json](./370150-midnight-at-blackwood-manor.json) |
 | Midnight at Forest | 193546 | [193546-midnight-at-forest.json](./193546-midnight-at-forest.json) |
+| Midnight at Grimmi's | 360827 | [360827-midnight-at-grimmis.json](./360827-midnight-at-grimmis.json) |
 | Midnight at the Disco | 265325 | [265325-midnight-at-the-disco.json](./265325-midnight-at-the-disco.json) |
 | Midnight at the Red Light | 41948 | [41948-midnight-at-the-red-light.json](./41948-midnight-at-the-red-light.json) |
 | Midnight at the Red Light : An Investigation | 82601 | [82601-midnight-at-the-red-light-an-investigation.json](./82601-midnight-at-the-red-light-an-investigation.json) |
@@ -13175,6 +13177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Mob Weapons | 333584 | [333584-minecraft-mob-weapons.json](./333584-minecraft-mob-weapons.json) |
 | Minecraft: Moon Edition | 416048 | [416048-minecraft-moon-edition.json](./416048-minecraft-moon-edition.json) |
 | Minecraft: Mounts of Mayhem | 383126 | [383126-minecraft-mounts-of-mayhem.json](./383126-minecraft-mounts-of-mayhem.json) |
+| Minecraft: Music Disc 11 | 361358 | [361358-minecraft-music-disc-11.json](./361358-minecraft-music-disc-11.json) |
 | Minecraft: Mutant Zombie Dungeons | 334047 | [334047-minecraft-mutant-zombie-dungeons.json](./334047-minecraft-mutant-zombie-dungeons.json) |
 | Minecraft: Mutants Add-On 2.0 | 334049 | [334049-minecraft-mutants-add-on-2-0.json](./334049-minecraft-mutants-add-on-2-0.json) |
 | Minecraft: Natural Texture Pack | 334052 | [334052-minecraft-natural-texture-pack.json](./334052-minecraft-natural-texture-pack.json) |
@@ -23372,6 +23375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Sun I | 95724 | [95724-mystic-sun-i.json](./95724-mystic-sun-i.json) |
 | Mystic Tavern | 390667 | [390667-mystic-tavern.json](./390667-mystic-tavern.json) |
 | Mystic Tesserae | 346887 | [346887-mystic-tesserae.json](./346887-mystic-tesserae.json) |
+| Mystic Thief: Elemental Conquest | 361377 | [361377-mystic-thief-elemental-conquest.json](./361377-mystic-thief-elemental-conquest.json) |
 | Mystic Totem | 246355 | [246355-mystic-totem.json](./246355-mystic-totem.json) |
 | Mystic Tower Legends | 341354 | [341354-mystic-tower-legends.json](./341354-mystic-tower-legends.json) |
 | Mystic Towers | 2519 | [2519-mystic-towers.json](./2519-mystic-towers.json) |
