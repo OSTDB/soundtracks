@@ -1014,7 +1014,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -14664,6 +14663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncedown | 67235 | [67235-bouncedown.json](./67235-bouncedown.json) |
 | Bouncefield: Bricks Breaker | 237469 | [237469-bouncefield-bricks-breaker.json](./237469-bouncefield-bricks-breaker.json) |
 | Bouncemasters | 370674 | [370674-bouncemasters.json](./370674-bouncemasters.json) |
+| Bouncemasters 2: Pengu Throw | 374501 | [374501-bouncemasters-2-pengu-throw.json](./374501-bouncemasters-2-pengu-throw.json) |
 | Bouncemasters: Aiming Assist | 379378 | [379378-bouncemasters-aiming-assist.json](./379378-bouncemasters-aiming-assist.json) |
 | Bouncemasters! | 123683 | [123683-bouncemasters.json](./123683-bouncemasters.json) |
 | Bouncer | 100671 | [100671-bouncer.json](./100671-bouncer.json) |
@@ -17772,6 +17772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket Crusher: Complete Edition | 290440 | [290440-bucket-crusher-complete-edition.json](./290440-bucket-crusher-complete-edition.json) |
 | Bucket Crusher: Cool Kidz | 287162 | [287162-bucket-crusher-cool-kidz.json](./287162-bucket-crusher-cool-kidz.json) |
 | Bucket Crusher: Cool Kidz Edition | 300904 | [300904-bucket-crusher-cool-kidz-edition.json](./300904-bucket-crusher-cool-kidz-edition.json) |
+| Bucket Crusher: Cool World Edition | 373984 | [373984-bucket-crusher-cool-world-edition.json](./373984-bucket-crusher-cool-world-edition.json) |
 | Bucket Crusher: Gold Edition | 378854 | [378854-bucket-crusher-gold-edition.json](./378854-bucket-crusher-gold-edition.json) |
 | Bucket Crusher: Holiday Spirit | 287161 | [287161-bucket-crusher-holiday-spirit.json](./287161-bucket-crusher-holiday-spirit.json) |
 | Bucket Crusher: Worldwide Edition | 304781 | [304781-bucket-crusher-worldwide-edition.json](./304781-bucket-crusher-worldwide-edition.json) |
