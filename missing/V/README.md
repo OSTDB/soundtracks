@@ -122,6 +122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Cruise Director 6 - Collector's Edition | 416159 | [416159-vacation-adventures-cruise-director-6-collectors-edition.json](./416159-vacation-adventures-cruise-director-6-collectors-edition.json) |
 | Vacation Adventures: Cruise Director 7 | 207476 | [207476-vacation-adventures-cruise-director-7.json](./207476-vacation-adventures-cruise-director-7.json) |
 | Vacation Adventures: Cruise Director 8 - Collector's Edition | 248015 | [248015-vacation-adventures-cruise-director-8-collectors-edition.json](./248015-vacation-adventures-cruise-director-8-collectors-edition.json) |
+| Vacation Adventures: Cruise Director 9 - Grand Tour USA 2 | 365912 | [365912-vacation-adventures-cruise-director-9-grand-tour-usa-2.json](./365912-vacation-adventures-cruise-director-9-grand-tour-usa-2.json) |
 | Vacation Adventures: Park Ranger | 85464 | [85464-vacation-adventures-park-ranger.json](./85464-vacation-adventures-park-ranger.json) |
 | Vacation Adventures: Park Ranger 10 | 169119 | [169119-vacation-adventures-park-ranger-10.json](./169119-vacation-adventures-park-ranger-10.json) |
 | Vacation Adventures: Park Ranger 11 | 147421 | [147421-vacation-adventures-park-ranger-11.json](./147421-vacation-adventures-park-ranger-11.json) |
@@ -1962,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vice Extended | 414843 | [414843-vice-extended.json](./414843-vice-extended.json) |
 | Vice Grill: Synthwave Survival | 297885 | [297885-vice-grill-synthwave-survival.json](./297885-vice-grill-synthwave-survival.json) |
 | Vice Signalling | 412097 | [412097-vice-signalling.json](./412097-vice-signalling.json) |
+| Vice Thief Simulator: 80s Nostalgia | 365344 | [365344-vice-thief-simulator-80s-nostalgia.json](./365344-vice-thief-simulator-80s-nostalgia.json) |
 | Vice Undercover | 204447 | [204447-vice-undercover.json](./204447-vice-undercover.json) |
 | Vice Vision Runner | 414262 | [414262-vice-vision-runner.json](./414262-vice-vision-runner.json) |
 | Vice: Magic City Mayhem | 331378 | [331378-vice-magic-city-mayhem.json](./331378-vice-magic-city-mayhem.json) |
