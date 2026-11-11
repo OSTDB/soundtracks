@@ -4424,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Broadcast | 153878 | [153878-deadly-broadcast.json](./153878-deadly-broadcast.json) |
 | Deadly Burrito | 111506 | [111506-deadly-burrito.json](./111506-deadly-burrito.json) |
 | Deadly Chance | 346301 | [346301-deadly-chance.json](./346301-deadly-chance.json) |
+| Deadly Connection | 322313 | [322313-deadly-connection.json](./322313-deadly-connection.json) |
 | Deadly Contact | 76810 | [76810-deadly-contact.json](./76810-deadly-contact.json) |
 | Deadly Contagion | 275130 | [275130-deadly-contagion.json](./275130-deadly-contagion.json) |
 | Deadly Cosmic | 146956 | [146956-deadly-cosmic.json](./146956-deadly-cosmic.json) |
@@ -9979,6 +9980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Runner | 93725 | [93725-digital-runner.json](./93725-digital-runner.json) |
 | Digital Seclusion | 246697 | [246697-digital-seclusion.json](./246697-digital-seclusion.json) |
 | Digital Shift | 398380 | [398380-digital-shift.json](./398380-digital-shift.json) |
+| Digital Soul Data | 322329 | [322329-digital-soul-data.json](./322329-digital-soul-data.json) |
 | Digital Spacecade | 28181 | [28181-digital-spacecade.json](./28181-digital-spacecade.json) |
 | Digital Survivor | 411728 | [411728-digital-survivor.json](./411728-digital-survivor.json) |
 | Digital Tamers 2 | 315728 | [315728-digital-tamers-2.json](./315728-digital-tamers-2.json) |
