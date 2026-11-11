@@ -9493,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Siedler IV: Community Pack | 255533 | [255533-die-siedler-iv-community-pack.json](./255533-die-siedler-iv-community-pack.json) |
 | Die Siedler IV: Die Neue Welt | 255532 | [255532-die-siedler-iv-die-neue-welt.json](./255532-die-siedler-iv-die-neue-welt.json) |
 | Die Stadt der Löwen | 99696 | [99696-die-stadt-der-lowen.json](./99696-die-stadt-der-lowen.json) |
+| Die to Play | 350698 | [350698-die-to-play.json](./350698-die-to-play.json) |
 | Die to Survive | 210994 | [210994-die-to-survive.json](./210994-die-to-survive.json) |
 | Die Together | 184465 | [184465-die-together.json](./184465-die-together.json) |
 | Die Totenmaske | 184105 | [184105-die-totenmaske.json](./184105-die-totenmaske.json) |
@@ -13667,6 +13668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong Country 3: Tag Team Trouble | 162834 | [162834-donkey-kong-country-3-tag-team-trouble.json](./162834-donkey-kong-country-3-tag-team-trouble.json) |
 | Donkey Kong Country 4 | 186648 | [186648-donkey-kong-country-4.json](./186648-donkey-kong-country-4.json) |
 | Donkey Kong Country Mania | 162831 | [162831-donkey-kong-country-mania.json](./162831-donkey-kong-country-mania.json) |
+| Donkey Kong Country Mirrored | 350715 | [350715-donkey-kong-country-mirrored.json](./350715-donkey-kong-country-mirrored.json) |
 | Donkey Kong Country NES Edition | 338803 | [338803-donkey-kong-country-nes-edition.json](./338803-donkey-kong-country-nes-edition.json) |
 | Donkey Kong Country Returns 3D | 20110 | [20110-donkey-kong-country-returns-3d.json](./20110-donkey-kong-country-returns-3d.json) |
 | Donkey Kong Country Returns HD | 306143 | [306143-donkey-kong-country-returns-hd.json](./306143-donkey-kong-country-returns-hd.json) |
@@ -17363,6 +17365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamlike Love with Seira | 314376 | [314376-dreamlike-love-with-seira.json](./314376-dreamlike-love-with-seira.json) |
 | Dreamlike Worlds | 28349 | [28349-dreamlike-worlds.json](./28349-dreamlike-worlds.json) |
 | Dreamline 404 | 339567 | [339567-dreamline-404.json](./339567-dreamline-404.json) |
+| Dreamlocked | 350703 | [350703-dreamlocked.json](./350703-dreamlocked.json) |
 | Dreamlords: The Reawakening | 21460 | [21460-dreamlords-the-reawakening.json](./21460-dreamlords-the-reawakening.json) |
 | Dreamly | 93706 | [93706-dreamly.json](./93706-dreamly.json) |
 | DreamMix TV World Fighters | 3899 | [3899-dreammix-tv-world-fighters.json](./3899-dreammix-tv-world-fighters.json) |
