@@ -2423,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RavenStar | 404613 | [404613-ravenstar.json](./404613-ravenstar.json) |
 | Ravensthorn | 316730 | [316730-ravensthorn.json](./316730-ravensthorn.json) |
 | Ravenswatch: Legendary Edition | 331840 | [331840-ravenswatch-legendary-edition.json](./331840-ravenswatch-legendary-edition.json) |
+| Ravenswatch: Merlin | 382681 | [382681-ravenswatch-merlin.json](./382681-ravenswatch-merlin.json) |
 | Ravensword Legacy | 196431 | [196431-ravensword-legacy.json](./196431-ravensword-legacy.json) |
 | Ravensword: Shadowlands | 7196 | [7196-ravensword-shadowlands.json](./7196-ravensword-shadowlands.json) |
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
@@ -8581,6 +8582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risky Challenge | 394394 | [394394-risky-challenge.json](./394394-risky-challenge.json) |
 | Risky Chronicles and the Curse of Destiny | 296595 | [296595-risky-chronicles-and-the-curse-of-destiny.json](./296595-risky-chronicles-and-the-curse-of-destiny.json) |
 | Risky Floors | 167374 | [167374-risky-floors.json](./167374-risky-floors.json) |
+| Risky Mining | 382702 | [382702-risky-mining.json](./382702-risky-mining.json) |
 | Risky Rescue | 33558 | [33558-risky-rescue.json](./33558-risky-rescue.json) |
 | Risky Rider 3D | 175598 | [175598-risky-rider-3d.json](./175598-risky-rider-3d.json) |
 | Risky Roads | 300993 | [300993-risky-roads.json](./300993-risky-roads.json) |
