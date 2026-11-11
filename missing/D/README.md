@@ -6648,7 +6648,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Chapter 1 | 111563 | [111563-deltarune-chapter-1.json](./111563-deltarune-chapter-1.json) |
 | Deltarune: Chapter 1 - Noelle Edition | 335691 | [335691-deltarune-chapter-1-noelle-edition.json](./335691-deltarune-chapter-1-noelle-edition.json) |
 | Deltarune: Chapter 2 | 170777 | [170777-deltarune-chapter-2.json](./170777-deltarune-chapter-2.json) |
-| Deltarune: Chapter 5 | 274238 | [274238-deltarune-chapter-5.json](./274238-deltarune-chapter-5.json) |
 | Deltarune: Chapter 6 | 408171 | [408171-deltarune-chapter-6.json](./408171-deltarune-chapter-6.json) |
 | Deltarune: Chapter 7 | 409874 | [409874-deltarune-chapter-7.json](./409874-deltarune-chapter-7.json) |
 | Deltarune: Chapter Rewritten - Scampton The Great | 243746 | [243746-deltarune-chapter-rewritten-scampton-the-great.json](./243746-deltarune-chapter-rewritten-scampton-the-great.json) |
