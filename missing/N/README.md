@@ -2487,6 +2487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon | 78351 | [78351-neon.json](./78351-neon.json) |
 | Neon Abyss | 116100 | [116100-neon-abyss.json](./116100-neon-abyss.json) |
 | Neon Abyss 2 | 325279 | [325279-neon-abyss-2.json](./325279-neon-abyss-2.json) |
+| Neon Abyss 2: Archenemy Returns | 375683 | [375683-neon-abyss-2-archenemy-returns.json](./375683-neon-abyss-2-archenemy-returns.json) |
 | Neon Abyss: Alter Ego | 172094 | [172094-neon-abyss-alter-ego.json](./172094-neon-abyss-alter-ego.json) |
 | Neon Abyss: Chrono Trap | 193164 | [193164-neon-abyss-chrono-trap.json](./193164-neon-abyss-chrono-trap.json) |
 | Neon Abyss: Deluxe Edition | 169182 | [169182-neon-abyss-deluxe-edition.json](./169182-neon-abyss-deluxe-edition.json) |
@@ -3779,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nex:Os Colosseum | 108760 | [108760-nex-os-colosseum.json](./108760-nex-os-colosseum.json) |
 | Nexa Tech Laboratory | 273636 | [273636-nexa-tech-laboratory.json](./273636-nexa-tech-laboratory.json) |
 | Nexagon: Deathmatch | 23691 | [23691-nexagon-deathmatch.json](./23691-nexagon-deathmatch.json) |
+| Nexen | 375713 | [375713-nexen.json](./375713-nexen.json) |
 | Nexo | 368376 | [368376-nexo.json](./368376-nexo.json) |
 | Nexomon | 88130 | [88130-nexomon.json](./88130-nexomon.json) |
 | Nexomon + Nexomon Extinction: Complete Collection | 203097 | [203097-nexomon-nexomon-extinction-complete-collection.json](./203097-nexomon-nexomon-extinction-complete-collection.json) |
