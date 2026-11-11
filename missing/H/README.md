@@ -1250,7 +1250,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamtaro Card e: Gekijou Gentei - 03-A020: Good-chan | 356420 | [356420-hamtaro-card-e-gekijou-gentei-03-a020-good-chan.json](./356420-hamtaro-card-e-gekijou-gentei-03-a020-good-chan.json) |
 | Hamtaro Card e: Ham Ham Ham-ja! Maboroshi no Princess - Gekijou Gentei Minihamuzu & Mo Hams & Ko Hams Version | 356398 | [356398-hamtaro-card-e-ham-ham-ham-ja-maboroshi-no-princess-gekijou-gentei-minihamuzu-and-mo-hams-and-ko-hams-version.json](./356398-hamtaro-card-e-ham-ham-ham-ja-maboroshi-no-princess-gekijou-gentei-minihamuzu-and-mo-hams-and-ko-hams-version.json) |
 | Hamtaro Card e: Kaburu-kun Kaburu | 355824 | [355824-hamtaro-card-e-kaburu-kun-kaburu.json](./355824-hamtaro-card-e-kaburu-kun-kaburu.json) |
+| Hamtaro Card e: Kassha wo Mawasu yo Hamtaro | 355819 | [355819-hamtaro-card-e-kassha-wo-mawasu-yo-hamtaro.json](./355819-hamtaro-card-e-kassha-wo-mawasu-yo-hamtaro.json) |
 | Hamtaro Card e: Kokohore Taishou-kun | 355822 | [355822-hamtaro-card-e-kokohore-taishou-kun.json](./355822-hamtaro-card-e-kokohore-taishou-kun.json) |
+| Hamtaro Card e: Konpeitou wo Tsukamaeru no Da | 355820 | [355820-hamtaro-card-e-konpeitou-wo-tsukamaeru-no-da.json](./355820-hamtaro-card-e-konpeitou-wo-tsukamaeru-no-da.json) |
 | Hamtaro Card e: Maido-kun no Maido | 355821 | [355821-hamtaro-card-e-maido-kun-no-maido.json](./355821-hamtaro-card-e-maido-kun-no-maido.json) |
 | Hamtaro Card e: Neteru-kun wo Mamoru no Da | 355825 | [355825-hamtaro-card-e-neteru-kun-wo-mamoru-no-da.json](./355825-hamtaro-card-e-neteru-kun-wo-mamoru-no-da.json) |
 | Hamtaro: Ham-Ham Games | 6429 | [6429-hamtaro-ham-ham-games.json](./6429-hamtaro-ham-ham-games.json) |
