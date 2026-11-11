@@ -1039,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshi's Cookie | 18657 | [18657-yoshis-cookie.json](./18657-yoshis-cookie.json) |
 | Yoshi's Crafted World | 37135 | [37135-yoshis-crafted-world.json](./37135-yoshis-crafted-world.json) |
 | Yoshi's Dreamer | 323351 | [323351-yoshis-dreamer.json](./323351-yoshis-dreamer.json) |
+| Yoshi's Dreamer 2: Tropical Island | 321683 | [321683-yoshis-dreamer-2-tropical-island.json](./321683-yoshis-dreamer-2-tropical-island.json) |
 | Yoshi's Egg Toss | 231529 | [231529-yoshis-egg-toss.json](./231529-yoshis-egg-toss.json) |
 | Yoshi's Island | 270350 | [270350-yoshis-island.json](./270350-yoshis-island.json) |
 | Yoshi's Island DS | 20601 | [20601-yoshis-island-ds.json](./20601-yoshis-island-ds.json) |
@@ -1080,6 +1081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yotsume God: Reunion | 193025 | [193025-yotsume-god-reunion.json](./193025-yotsume-god-reunion.json) |
 | Yotsunoha | 401170 | [401170-yotsunoha.json](./401170-yotsunoha.json) |
 | Yotsunoha ~A Journey of Sincerity~ | 140528 | [140528-yotsunoha-a-journey-of-sincerity.json](./140528-yotsunoha-a-journey-of-sincerity.json) |
+| You | 321681 | [321681-you.json](./321681-you.json) |
 | You | 372568 | [372568-you.json](./372568-you.json) |
 | You (Can)Not Survive | 112713 | [112713-you-can-not-survive.json](./112713-you-can-not-survive.json) |
 | You All Know! Arm Tank Volley | 390269 | [390269-you-all-know-arm-tank-volley.json](./390269-you-all-know-arm-tank-volley.json) |
