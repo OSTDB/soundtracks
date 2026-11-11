@@ -8002,6 +8002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gotta Protectors: Cart of Darkness DLC Pack 4 | 199881 | [199881-gotta-protectors-cart-of-darkness-dlc-pack-4.json](./199881-gotta-protectors-cart-of-darkness-dlc-pack-4.json) |
 | GottaGoFast | 275211 | [275211-gottagofast.json](./275211-gottagofast.json) |
 | Gotthic II: The Sisters | 398775 | [398775-gotthic-ii-the-sisters.json](./398775-gotthic-ii-the-sisters.json) |
+| Götz | 327497 | [327497-gotz.json](./327497-gotz.json) |
 | Götzendiener | 19661 | [19661-gotzendiener.json](./19661-gotzendiener.json) |
 | Goubakuran: RumbleStorm | 260742 | [260742-goubakuran-rumblestorm.json](./260742-goubakuran-rumblestorm.json) |
 | Goudall | 350616 | [350616-goudall.json](./350616-goudall.json) |
