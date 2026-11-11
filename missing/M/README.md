@@ -340,6 +340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Ball | 128449 | [128449-mad-ball.json](./128449-mad-ball.json) |
 | Mad Ball v2.0 | 258841 | [258841-mad-ball-v2-0.json](./258841-mad-ball-v2-0.json) |
 | Mad BalloonRider | 243172 | [243172-mad-balloonrider.json](./243172-mad-balloonrider.json) |
+| Mad Birds | 359086 | [359086-mad-birds.json](./359086-mad-birds.json) |
 | Mad Blocker | 94032 | [94032-mad-blocker.json](./94032-mad-blocker.json) |
 | Mad Blocker Arcade | 65744 | [65744-mad-blocker-arcade.json](./65744-mad-blocker-arcade.json) |
 | Mad Blocker HD | 52558 | [52558-mad-blocker-hd.json](./52558-mad-blocker-hd.json) |
@@ -2997,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malware Rewritten | 217353 | [217353-malware-rewritten.json](./217353-malware-rewritten.json) |
 | Malware Tycoon | 388478 | [388478-malware-tycoon.json](./388478-malware-tycoon.json) |
 | Malys | 341817 | [341817-malys.json](./341817-malys.json) |
+| Malysa | 359101 | [359101-malysa.json](./359101-malysa.json) |
 | Malyshka | 188716 | [188716-malyshka.json](./188716-malyshka.json) |
 | Malzbie's Pinball Collection | 74463 | [74463-malzbies-pinball-collection.json](./74463-malzbies-pinball-collection.json) |
 | Malzbie's Pinball Collection: Carnival Table | 166015 | [166015-malzbies-pinball-collection-carnival-table.json](./166015-malzbies-pinball-collection-carnival-table.json) |
@@ -15959,6 +15961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentum Mod | 58157 | [58157-momentum-mod.json](./58157-momentum-mod.json) |
 | Momentum Tenebris | 184678 | [184678-momentum-tenebris.json](./184678-momentum-tenebris.json) |
 | Momery | 95135 | [95135-momery.json](./95135-momery.json) |
+| Momi | 358564 | [358564-momi.json](./358564-momi.json) |
 | Momibosu | 151726 | [151726-momibosu.json](./151726-momibosu.json) |
 | Momiji From Purgatory | 152490 | [152490-momiji-from-purgatory.json](./152490-momiji-from-purgatory.json) |
 | Mominesweeper | 224005 | [224005-mominesweeper.json](./224005-mominesweeper.json) |
