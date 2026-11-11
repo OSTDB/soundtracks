@@ -2843,6 +2843,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Implosion | 14126 | [14126-implosion.json](./14126-implosion.json) |
 | Implosion: Never Lose Hope | 26907 | [26907-implosion-never-lose-hope.json](./26907-implosion-never-lose-hope.json) |
 | Import Tuner Challenge | 7017 | [7017-import-tuner-challenge.json](./7017-import-tuner-challenge.json) |
+| Important People of History: Presidents - Abraham Lincoln | 356923 | [356923-important-people-of-history-presidents-abraham-lincoln.json](./356923-important-people-of-history-presidents-abraham-lincoln.json) |
+| Important People of History: Presidents - George Washington | 356921 | [356921-important-people-of-history-presidents-george-washington.json](./356921-important-people-of-history-presidents-george-washington.json) |
+| Important People of History: Presidents - Thomas Jefferson | 356922 | [356922-important-people-of-history-presidents-thomas-jefferson.json](./356922-important-people-of-history-presidents-thomas-jefferson.json) |
 | Important things | 412569 | [412569-important-things.json](./412569-important-things.json) |
 | Impossaball | 36859 | [36859-impossaball.json](./36859-impossaball.json) |
 | Impossamole | 12611 | [12611-impossamole.json](./12611-impossamole.json) |
