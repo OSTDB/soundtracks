@@ -4849,6 +4849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
 | Catetris | 419899 | [419899-catetris.json](./419899-catetris.json) |
 | CatExpress | 271077 | [271077-catexpress.json](./271077-catexpress.json) |
+| Catfall | 326873 | [326873-catfall.json](./326873-catfall.json) |
 | Catfender | 109871 | [109871-catfender.json](./109871-catfender.json) |
 | Catffee Time! | 303727 | [303727-catffee-time.json](./303727-catffee-time.json) |
 | CatFight: The Ultimate Female Fighting Game | 8537 | [8537-catfight-the-ultimate-female-fighting-game.json](./8537-catfight-the-ultimate-female-fighting-game.json) |
@@ -19793,6 +19794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushcrop | 424628 | [424628-crushcrop.json](./424628-crushcrop.json) |
 | CrushCrushCrushCrush | 391218 | [391218-crushcrushcrushcrush.json](./391218-crushcrushcrushcrush.json) |
 | Crushed | 141171 | [141171-crushed.json](./141171-crushed.json) |
+| Crushed | 326898 | [326898-crushed.json](./326898-crushed.json) |
 | Crushed | 377307 | [377307-crushed.json](./377307-crushed.json) |
 | Crushed Baseball | 49306 | [49306-crushed-baseball.json](./49306-crushed-baseball.json) |
 | Crushed in Time | 362089 | [362089-crushed-in-time.json](./362089-crushed-in-time.json) |
@@ -21692,6 +21694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutie Crowd Control | 272776 | [272776-cutie-crowd-control.json](./272776-cutie-crowd-control.json) |
 | Cutie Garden | 188280 | [188280-cutie-garden.json](./188280-cutie-garden.json) |
 | Cutie Monsters Battle Arena | 90399 | [90399-cutie-monsters-battle-arena.json](./90399-cutie-monsters-battle-arena.json) |
+| Cutie Panda | 326892 | [326892-cutie-panda.json](./326892-cutie-panda.json) |
 | Cutie Paws | 74650 | [74650-cutie-paws.json](./74650-cutie-paws.json) |
 | Cutie Pets Go Fishing | 85070 | [85070-cutie-pets-go-fishing.json](./85070-cutie-pets-go-fishing.json) |
 | Cutie Pets Jump Rope | 85069 | [85069-cutie-pets-jump-rope.json](./85069-cutie-pets-jump-rope.json) |
