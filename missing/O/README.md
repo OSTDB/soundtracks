@@ -3958,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Simulator | 351769 | [351769-orange-simulator.json](./351769-orange-simulator.json) |
 | Orange: The Annoying Clicker | 314358 | [314358-orange-the-annoying-clicker.json](./314358-orange-the-annoying-clicker.json) |
 | Orangeblood | 119591 | [119591-orangeblood.json](./119591-orangeblood.json) |
+| Orangepeel, Onionskin | 377535 | [377535-orangepeel-onionskin.json](./377535-orangepeel-onionskin.json) |
 | Oranges | 270716 | [270716-oranges.json](./270716-oranges.json) |
 | Orangia | 366934 | [366934-orangia.json](./366934-orangia.json) |
 | Orangia DLC | 366935 | [366935-orangia-dlc.json](./366935-orangia-dlc.json) |
