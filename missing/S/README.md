@@ -28459,6 +28459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steventon Street: Deluxe Edition | 359069 | [359069-steventon-street-deluxe-edition.json](./359069-steventon-street-deluxe-edition.json) |
 | Stevo Life | 341016 | [341016-stevo-life.json](./341016-stevo-life.json) |
 | Stewart the Fox | 231552 | [231552-stewart-the-fox.json](./231552-stewart-the-fox.json) |
+| Stewie Kills the Griffins! | 327490 | [327490-stewie-kills-the-griffins.json](./327490-stewie-kills-the-griffins.json) |
 | Stewie Talking Electronic Pinball | 218441 | [218441-stewie-talking-electronic-pinball.json](./218441-stewie-talking-electronic-pinball.json) |
 | STG Become on Immortal: Opening Chapter | 155788 | [155788-stg-become-on-immortal-opening-chapter.json](./155788-stg-become-on-immortal-opening-chapter.json) |
 | STG Football | 222769 | [222769-stg-football.json](./222769-stg-football.json) |
@@ -31767,6 +31768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suikoden I & II HD Remaster: Gate Rune and Dunan Unification Wars | 217909 | [217909-suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars.json](./217909-suikoden-i-and-ii-hd-remaster-gate-rune-and-dunan-unification-wars.json) |
 | Suikoden I HD Remaster: Gate Rune War | 328110 | [328110-suikoden-i-hd-remaster-gate-rune-war.json](./328110-suikoden-i-hd-remaster-gate-rune-war.json) |
 | Suikoden II | 1454 | [1454-suikoden-ii.json](./1454-suikoden-ii.json) |
+| Suikoden II HD Remaster: Dunan Unification War | 328111 | [328111-suikoden-ii-hd-remaster-dunan-unification-war.json](./328111-suikoden-ii-hd-remaster-dunan-unification-war.json) |
 | Suikoden IV | 1449 | [1449-suikoden-iv.json](./1449-suikoden-iv.json) |
 | Suikoden Tierkreis | 1452 | [1452-suikoden-tierkreis.json](./1452-suikoden-tierkreis.json) |
 | Suikoden V | 1456 | [1456-suikoden-v.json](./1456-suikoden-v.json) |
@@ -34218,6 +34220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey: Balloon World | 221524 | [221524-super-mario-odyssey-balloon-world.json](./221524-super-mario-odyssey-balloon-world.json) |
 | Super Mario Odyssey: Bon-Bones Mountain | 246625 | [246625-super-mario-odyssey-bon-bones-mountain.json](./246625-super-mario-odyssey-bon-bones-mountain.json) |
 | Super Mario Odyssey: Fluffy Bluff Kingdom | 345487 | [345487-super-mario-odyssey-fluffy-bluff-kingdom.json](./345487-super-mario-odyssey-fluffy-bluff-kingdom.json) |
+| Super Mario Odyssey: Google Translated | 327482 | [327482-super-mario-odyssey-google-translated.json](./327482-super-mario-odyssey-google-translated.json) |
 | Super Mario Odyssey: The Lost Kingdoms | 344010 | [344010-super-mario-odyssey-the-lost-kingdoms.json](./344010-super-mario-odyssey-the-lost-kingdoms.json) |
 | Super Mario Odyssey: Wuhu Kingdom | 314569 | [314569-super-mario-odyssey-wuhu-kingdom.json](./314569-super-mario-odyssey-wuhu-kingdom.json) |
 | Super Mario Odyssey: Yoshi Star Kingdom | 246302 | [246302-super-mario-odyssey-yoshi-star-kingdom.json](./246302-super-mario-odyssey-yoshi-star-kingdom.json) |
@@ -35354,6 +35357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Z Broly Moveset | 394593 | [394593-super-smash-bros-ultimate-z-broly-moveset.json](./394593-super-smash-bros-ultimate-z-broly-moveset.json) |
 | Super Smash Bros. Ultimate: Zero Moveset | 395033 | [395033-super-smash-bros-ultimate-zero-moveset.json](./395033-super-smash-bros-ultimate-zero-moveset.json) |
 | Super Smash Bros. Ultimate: Zero's Armor and Helmet | 317937 | [317937-super-smash-bros-ultimate-zeros-armor-and-helmet.json](./317937-super-smash-bros-ultimate-zeros-armor-and-helmet.json) |
+| Super Smash Brothers Ultimate Spirit Directory: Quiz Game | 327513 | [327513-super-smash-brothers-ultimate-spirit-directory-quiz-game.json](./327513-super-smash-brothers-ultimate-spirit-directory-quiz-game.json) |
 | Super Smash Flash | 127051 | [127051-super-smash-flash.json](./127051-super-smash-flash.json) |
 | Super Smash Flash 2 | 14247 | [14247-super-smash-flash-2.json](./14247-super-smash-flash-2.json) |
 | Super Smash Kart | 269293 | [269293-super-smash-kart.json](./269293-super-smash-kart.json) |
