@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturday AM: Battle Manga | 382452 | [382452-saturday-am-battle-manga.json](./382452-saturday-am-battle-manga.json) |
 | Saturday Edition | 151982 | [151982-saturday-edition.json](./151982-saturday-edition.json) |
 | Saturday Morning Rogue | 159528 | [159528-saturday-morning-rogue.json](./159528-saturday-morning-rogue.json) |
+| Saturday Morning RPG: It's So Bad Edition | 353568 | [353568-saturday-morning-rpg-its-so-bad-edition.json](./353568-saturday-morning-rpg-its-so-bad-edition.json) |
 | Saturday Morning Sandbox | 163032 | [163032-saturday-morning-sandbox.json](./163032-saturday-morning-sandbox.json) |
 | Saturday Night at Freddy's | 406253 | [406253-saturday-night-at-freddys.json](./406253-saturday-night-at-freddys.json) |
 | Saturday Night is the Loneliest Night of the Week | 230855 | [230855-saturday-night-is-the-loneliest-night-of-the-week.json](./230855-saturday-night-is-the-loneliest-night-of-the-week.json) |
@@ -15791,6 +15792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake 1 | 318258 | [318258-snake-1.json](./318258-snake-1.json) |
 | Snake 2 | 81508 | [81508-snake-2.json](./81508-snake-2.json) |
 | Snake 2 DX: Reawakening | 171624 | [171624-snake-2-dx-reawakening.json](./171624-snake-2-dx-reawakening.json) |
+| Snake 2048 | 353569 | [353569-snake-2048.json](./353569-snake-2048.json) |
 | Snake 3310 | 177382 | [177382-snake-3310.json](./177382-snake-3310.json) |
 | Snake 3D Adventures | 91032 | [91032-snake-3d-adventures.json](./91032-snake-3d-adventures.json) |
 | Snake and Block: Free Game | 102527 | [102527-snake-and-block-free-game.json](./102527-snake-and-block-free-game.json) |
