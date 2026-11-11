@@ -2722,6 +2722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Speed | 199738 | [199738-neon-speed.json](./199738-neon-speed.json) |
 | Neon Spellstorm | 329750 | [329750-neon-spellstorm.json](./329750-neon-spellstorm.json) |
 | Neon Spin | 359382 | [359382-neon-spin.json](./359382-neon-spin.json) |
+| Neon Strike | 374507 | [374507-neon-strike.json](./374507-neon-strike.json) |
 | Neon Striker | 348305 | [348305-neon-striker.json](./348305-neon-striker.json) |
 | Neon Struct: Carrion Carrier | 158211 | [158211-neon-struct-carrion-carrier.json](./158211-neon-struct-carrion-carrier.json) |
 | Neon Struct: Desperation Column | 187444 | [187444-neon-struct-desperation-column.json](./187444-neon-struct-desperation-column.json) |
@@ -6753,6 +6754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noise | 131406 | [131406-noise.json](./131406-noise.json) |
 | Noise | 327192 | [327192-noise.json](./327192-noise.json) |
 | Noise | 50544 | [50544-noise.json](./50544-noise.json) |
+| Noise Canceler | 374509 | [374509-noise-canceler.json](./374509-noise-canceler.json) |
 | Noise City Osaka | 140020 | [140020-noise-city-osaka.json](./140020-noise-city-osaka.json) |
 | Noise Hunters | 158141 | [158141-noise-hunters.json](./158141-noise-hunters.json) |
 | Noise Snke | 183538 | [183538-noise-snke.json](./183538-noise-snke.json) |
