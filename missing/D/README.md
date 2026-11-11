@@ -13844,6 +13844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
 | Dood's Big Adventure | 18255 | [18255-doods-big-adventure.json](./18255-doods-big-adventure.json) |
 | Doodle | 136587 | [136587-doodle.json](./136587-doodle.json) |
+| Doodle | 340659 | [340659-doodle.json](./340659-doodle.json) |
 | Doodle Adventure of Chameleon | 274317 | [274317-doodle-adventure-of-chameleon.json](./274317-doodle-adventure-of-chameleon.json) |
 | Doodle Adventures | 56770 | [56770-doodle-adventures.json](./56770-doodle-adventures.json) |
 | Doodle Alchemy | 348502 | [348502-doodle-alchemy.json](./348502-doodle-alchemy.json) |
