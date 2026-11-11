@@ -3541,6 +3541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance II - Day One Edition | 326773 | [326773-kingdom-come-deliverance-ii-day-one-edition.json](./326773-kingdom-come-deliverance-ii-day-one-edition.json) |
 | Kingdom Come: Deliverance II - Gold Edition | 317636 | [317636-kingdom-come-deliverance-ii-gold-edition.json](./317636-kingdom-come-deliverance-ii-gold-edition.json) |
 | Kingdom Come: Deliverance II - Mysteria Ecclesiae | 362029 | [362029-kingdom-come-deliverance-ii-mysteria-ecclesiae.json](./362029-kingdom-come-deliverance-ii-mysteria-ecclesiae.json) |
+| Kingdom Come: Deliverance II - Royal Edition | 386648 | [386648-kingdom-come-deliverance-ii-royal-edition.json](./386648-kingdom-come-deliverance-ii-royal-edition.json) |
 | Kingdom Come: Deliverance II - The Lion’s Crest | 337179 | [337179-kingdom-come-deliverance-ii-the-lion-s-crest.json](./337179-kingdom-come-deliverance-ii-the-lion-s-crest.json) |
 | Kingdom Come: Deliverance II: Legacy of the Forge | 361887 | [361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json](./361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json) |
 | Kingdom Come: Salvation | 402334 | [402334-kingdom-come-salvation.json](./402334-kingdom-come-salvation.json) |
