@@ -2958,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nestables | 134029 | [134029-nestables.json](./134029-nestables.json) |
 | NEStalgia | 16650 | [16650-nestalgia.json](./16650-nestalgia.json) |
 | Nested | 274101 | [274101-nested.json](./274101-nested.json) |
+| Nested | 350086 | [350086-nested.json](./350086-nested.json) |
 | Nested Lands | 270136 | [270136-nested-lands.json](./270136-nested-lands.json) |
 | Nested Rooms | 186812 | [186812-nested-rooms.json](./186812-nested-rooms.json) |
 | Nestify | 403936 | [403936-nestify.json](./403936-nestify.json) |
