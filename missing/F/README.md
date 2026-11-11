@@ -9677,6 +9677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fools Fortune | 134961 | [134961-fools-fortune.json](./134961-fools-fortune.json) |
 | Fools, Maniacs and Liars | 317786 | [317786-fools-maniacs-and-liars.json](./317786-fools-maniacs-and-liars.json) |
 | Foonda | 196172 | [196172-foonda.json](./196172-foonda.json) |
+| Foos | 356932 | [356932-foos.json](./356932-foos.json) |
 | Foosball | 95332 | [95332-foosball.json](./95332-foosball.json) |
 | Foosball - Street Edition | 17113 | [17113-foosball-street-edition.json](./17113-foosball-street-edition.json) |
 | Foosball 2012 | 52219 | [52219-foosball-2012.json](./52219-foosball-2012.json) |
@@ -10211,6 +10212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ForceBerg | 187238 | [187238-forceberg.json](./187238-forceberg.json) |
 | Forced Abroad | 193976 | [193976-forced-abroad.json](./193976-forced-abroad.json) |
 | Forced Alliance: The Glarious Mandate | 78417 | [78417-forced-alliance-the-glarious-mandate.json](./78417-forced-alliance-the-glarious-mandate.json) |
+| Forced Entry | 356917 | [356917-forced-entry.json](./356917-forced-entry.json) |
 | Forced Sacrifice: Hejled | 247771 | [247771-forced-sacrifice-hejled.json](./247771-forced-sacrifice-hejled.json) |
 | Forced Showdown | 14578 | [14578-forced-showdown.json](./14578-forced-showdown.json) |
 | Forced Showdown: Deluxe Content | 51810 | [51810-forced-showdown-deluxe-content.json](./51810-forced-showdown-deluxe-content.json) |
