@@ -3158,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeuroVoider: Deluxe Edition | 53413 | [53413-neurovoider-deluxe-edition.json](./53413-neurovoider-deluxe-edition.json) |
 | Neurowake | 41896 | [41896-neurowake.json](./41896-neurowake.json) |
 | NeuroWorm | 190812 | [190812-neuroworm.json](./190812-neuroworm.json) |
+| Neuroxus | 364338 | [364338-neuroxus.json](./364338-neuroxus.json) |
 | Neuroza | 335867 | [335867-neuroza.json](./335867-neuroza.json) |
 | Neuter Master | 372463 | [372463-neuter-master.json](./372463-neuter-master.json) |
 | Neutopia | 28524 | [28524-neutopia.json](./28524-neutopia.json) |
@@ -7646,6 +7647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novena Diabolos | 132267 | [132267-novena-diabolos.json](./132267-novena-diabolos.json) |
 | Novi Cube | 216973 | [216973-novi-cube.json](./216973-novi-cube.json) |
 | Novice Dungeon Master | 295100 | [295100-novice-dungeon-master.json](./295100-novice-dungeon-master.json) |
+| Novice in the World | 364115 | [364115-novice-in-the-world.json](./364115-novice-in-the-world.json) |
 | Novivors | 301984 | [301984-novivors.json](./301984-novivors.json) |
 | Novopangea | 277671 | [277671-novopangea.json](./277671-novopangea.json) |
 | Novovu | 130879 | [130879-novovu.json](./130879-novovu.json) |
@@ -8042,6 +8044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number One Rich | 158198 | [158198-number-one-rich.json](./158198-number-one-rich.json) |
 | Number Party | 223994 | [223994-number-party.json](./223994-number-party.json) |
 | Number Place 10000 | 114130 | [114130-number-place-10000.json](./114130-number-place-10000.json) |
+| Number Place Cats | 364124 | [364124-number-place-cats.json](./364124-number-place-cats.json) |
 | Number Place Value Tutor | 108497 | [108497-number-place-value-tutor.json](./108497-number-place-value-tutor.json) |
 | Number Puzzle | 106250 | [106250-number-puzzle.json](./106250-number-puzzle.json) |
 | Number Puzzler | 109042 | [109042-number-puzzler.json](./109042-number-puzzler.json) |
