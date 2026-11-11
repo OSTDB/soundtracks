@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La La Land 3 | 215008 | [215008-la-la-land-3.json](./215008-la-la-land-3.json) |
 | La La Land 4 | 215009 | [215009-la-la-land-4.json](./215009-la-la-land-4.json) |
 | La La Land 5 | 73635 | [73635-la-la-land-5.json](./73635-la-la-land-5.json) |
+| La Lellenda de la Cerda DX | 380938 | [380938-la-lellenda-de-la-cerda-dx.json](./380938-la-lellenda-de-la-cerda-dx.json) |
 | La Leyenda de la Biblioteca | 323224 | [323224-la-leyenda-de-la-biblioteca.json](./323224-la-leyenda-de-la-biblioteca.json) |
 | La Leyenda del Chupacabra | 75094 | [75094-la-leyenda-del-chupacabra.json](./75094-la-leyenda-del-chupacabra.json) |
 | La Libertad Arrasa: Milei | 323725 | [323725-la-libertad-arrasa-milei.json](./323725-la-libertad-arrasa-milei.json) |
@@ -491,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Death Demonicron | 310761 | [310761-lady-death-demonicron.json](./310761-lady-death-demonicron.json) |
 | Lady Dracula | 350027 | [350027-lady-dracula.json](./350027-lady-dracula.json) |
 | Lady Dracula's Mansion | 317978 | [317978-lady-draculas-mansion.json](./317978-lady-draculas-mansion.json) |
+| Lady Gaga Jump | 380922 | [380922-lady-gaga-jump.json](./380922-lady-gaga-jump.json) |
 | Lady Gaga Revenge 2 | 66039 | [66039-lady-gaga-revenge-2.json](./66039-lady-gaga-revenge-2.json) |
 | Lady Gaga: Born This Way Revenge | 65922 | [65922-lady-gaga-born-this-way-revenge.json](./65922-lady-gaga-born-this-way-revenge.json) |
 | Lady Godiva: Naked Eye | 310741 | [310741-lady-godiva-naked-eye.json](./310741-lady-godiva-naked-eye.json) |
