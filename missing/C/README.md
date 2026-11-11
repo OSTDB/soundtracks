@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Manager | 297862 | [297862-cafe-manager.json](./297862-cafe-manager.json) |
 | Café Mania | 262209 | [262209-cafe-mania.json](./262209-cafe-mania.json) |
 | Cafe Master Story | 256146 | [256146-cafe-master-story.json](./256146-cafe-master-story.json) |
+| Cafe New York 9/11 | 346295 | [346295-cafe-new-york-9-11.json](./346295-cafe-new-york-9-11.json) |
 | Cafe Nocturn | 353754 | [353754-cafe-nocturn.json](./353754-cafe-nocturn.json) |
 | Cafe of Roses | 379716 | [379716-cafe-of-roses.json](./379716-cafe-of-roses.json) |
 | Cafe on the moon | 337534 | [337534-cafe-on-the-moon.json](./337534-cafe-on-the-moon.json) |
@@ -893,6 +894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Farming: Together | 278741 | [278741-call-of-farming-together.json](./278741-call-of-farming-together.json) |
 | Call of FireWork | 274972 | [274972-call-of-firework.json](./274972-call-of-firework.json) |
 | Call of Fries | 116977 | [116977-call-of-fries.json](./116977-call-of-fries.json) |
+| Call of Glory: Critical Warfare | 345719 | [345719-call-of-glory-critical-warfare.json](./345719-call-of-glory-critical-warfare.json) |
 | Call of Glory: Critical Warfare & AirJet Fighter: Sky Assault Bundle Collection | 386563 | [386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json](./386563-call-of-glory-critical-warfare-and-airjet-fighter-sky-assault-bundle-collection.json) |
 | Call of Gods | 46946 | [46946-call-of-gods.json](./46946-call-of-gods.json) |
 | Call of Gruty WWII | 179861 | [179861-call-of-gruty-wwii.json](./179861-call-of-gruty-wwii.json) |
@@ -11056,6 +11058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClickRaid | 50512 | [50512-clickraid.json](./50512-clickraid.json) |
 | ClickRaid2 | 120019 | [120019-clickraid2.json](./120019-clickraid2.json) |
 | Clicks Of Courage | 249717 | [249717-clicks-of-courage.json](./249717-clicks-of-courage.json) |
+| Clicksama | 346306 | [346306-clicksama.json](./346306-clicksama.json) |
 | ClickShot | 381739 | [381739-clickshot.json](./381739-clickshot.json) |
 | ClickTown | 391315 | [391315-clicktown.json](./391315-clicktown.json) |
 | Clicky | 284822 | [284822-clicky.json](./284822-clicky.json) |
@@ -11080,6 +11083,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CliffDivers | 273294 | [273294-cliffdivers.json](./273294-cliffdivers.json) |
 | Cliffed | 92163 | [92163-cliffed.json](./92163-cliffed.json) |
 | Cliffhanger | 346265 | [346265-cliffhanger.json](./346265-cliffhanger.json) |
+| Cliffhanger | 346266 | [346266-cliffhanger.json](./346266-cliffhanger.json) |
+| Cliffhanger | 346267 | [346267-cliffhanger.json](./346267-cliffhanger.json) |
+| Cliffhanger | 346272 | [346272-cliffhanger.json](./346272-cliffhanger.json) |
+| Cliffhanger | 346275 | [346275-cliffhanger.json](./346275-cliffhanger.json) |
 | Cliffhanger | 5370 | [5370-cliffhanger.json](./5370-cliffhanger.json) |
 | Cliffhanger | 81446 | [81446-cliffhanger.json](./81446-cliffhanger.json) |
 | Cliffhanger - Chat Stories | 87042 | [87042-cliffhanger-chat-stories.json](./87042-cliffhanger-chat-stories.json) |
@@ -11814,6 +11821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coal Road | 303419 | [303419-coal-road.json](./303419-coal-road.json) |
 | Coal Rush: Tap a Train | 179585 | [179585-coal-rush-tap-a-train.json](./179585-coal-rush-tap-a-train.json) |
 | Coalescence | 218661 | [218661-coalescence.json](./218661-coalescence.json) |
+| Coalescent: Tidal Rapture | 346321 | [346321-coalescent-tidal-rapture.json](./346321-coalescent-tidal-rapture.json) |
 | Coalhero | 154396 | [154396-coalhero.json](./154396-coalhero.json) |
 | Coalminer | 273705 | [273705-coalminer.json](./273705-coalminer.json) |
 | Coarse Blade | 332236 | [332236-coarse-blade.json](./332236-coarse-blade.json) |
@@ -14965,6 +14973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Containment Search | 303173 | [303173-containment-search.json](./303173-containment-search.json) |
 | Containment Zone | 235749 | [235749-containment-zone.json](./235749-containment-zone.json) |
 | Containment Zones | 279466 | [279466-containment-zones.json](./279466-containment-zones.json) |
+| Contaminant | 346303 | [346303-contaminant.json](./346303-contaminant.json) |
 | Contamination | 12986 | [12986-contamination.json](./12986-contamination.json) |
 | Contasion 2 | 33891 | [33891-contasion-2.json](./33891-contasion-2.json) |
 | Contemp | 105685 | [105685-contemp.json](./105685-contemp.json) |
@@ -20718,6 +20727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubixx | 377995 | [377995-cubixx.json](./377995-cubixx.json) |
 | Cubixx HD | 20632 | [20632-cubixx-hd.json](./20632-cubixx-hd.json) |
 | Cubiya | 164881 | [164881-cubiya.json](./164881-cubiya.json) |
+| Cubo | 346290 | [346290-cubo.json](./346290-cubo.json) |
 | Cubo ao Topo | 167348 | [167348-cubo-ao-topo.json](./167348-cubo-ao-topo.json) |
 | Cubob | 229006 | [229006-cubob.json](./229006-cubob.json) |
 | Cuboid | 23024 | [23024-cuboid.json](./23024-cuboid.json) |
@@ -20780,6 +20790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CuckTales | 309448 | [309448-cucktales.json](./309448-cucktales.json) |
 | Cuckwork: Mama pays for her useless son's failures with her body | 82898 | [82898-cuckwork-mama-pays-for-her-useless-sons-failures-with-her-body.json](./82898-cuckwork-mama-pays-for-her-useless-sons-failures-with-her-body.json) |
 | Cuco | 68195 | [68195-cuco.json](./68195-cuco.json) |
+| Cucu | 346320 | [346320-cucu.json](./346320-cucu.json) |
 | Cucu | 380100 | [380100-cucu.json](./380100-cucu.json) |
 | Cucumber | 303437 | [303437-cucumber.json](./303437-cucumber.json) |
 | Cucumber | 311228 | [311228-cucumber.json](./311228-cucumber.json) |
