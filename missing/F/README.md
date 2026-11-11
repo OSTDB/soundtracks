@@ -9954,6 +9954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Power | 372348 | [372348-football-power.json](./372348-football-power.json) |
 | Football President | 82313 | [82313-football-president.json](./82313-football-president.json) |
 | Football Quiz | 340926 | [340926-football-quiz.json](./340926-football-quiz.json) |
+| Football Quiz 2024 | 318747 | [318747-football-quiz-2024.json](./318747-football-quiz-2024.json) |
 | Football Quiz Deluxe | 116397 | [116397-football-quiz-deluxe.json](./116397-football-quiz-deluxe.json) |
 | Football Referee | 111161 | [111161-football-referee.json](./111161-football-referee.json) |
 | Football Referee Simulator | 307975 | [307975-football-referee-simulator.json](./307975-football-referee-simulator.json) |
@@ -11223,6 +11224,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Intrepid Engines Pack | 255445 | [255445-fortnite-intrepid-engines-pack.json](./255445-fortnite-intrepid-engines-pack.json) |
 | Fortnite: Kyran Aryk Crew Pack | 321446 | [321446-fortnite-kyran-aryk-crew-pack.json](./321446-fortnite-kyran-aryk-crew-pack.json) |
 | Fortnite: Lava Legends Pack | 227107 | [227107-fortnite-lava-legends-pack.json](./227107-fortnite-lava-legends-pack.json) |
+| Fortnite: Lockjaw Starter Quest Pack | 318650 | [318650-fortnite-lockjaw-starter-quest-pack.json](./318650-fortnite-lockjaw-starter-quest-pack.json) |
+| Fortnite: Lockjaw Starter Quest Pack | 318651 | [318651-fortnite-lockjaw-starter-quest-pack.json](./318651-fortnite-lockjaw-starter-quest-pack.json) |
 | Fortnite: Lok-Bot Pack | 227082 | [227082-fortnite-lok-bot-pack.json](./227082-fortnite-lok-bot-pack.json) |
 | Fortnite: Luminary Hypatia Starter Pack | 360188 | [360188-fortnite-luminary-hypatia-starter-pack.json](./360188-fortnite-luminary-hypatia-starter-pack.json) |
 | Fortnite: Magma Masters Pack | 227106 | [227106-fortnite-magma-masters-pack.json](./227106-fortnite-magma-masters-pack.json) |
@@ -11245,6 +11248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Shadows Rising Pack | 227105 | [227105-fortnite-shadows-rising-pack.json](./227105-fortnite-shadows-rising-pack.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | Fortnite: Summer Legends Pack | 227104 | [227104-fortnite-summer-legends-pack.json](./227104-fortnite-summer-legends-pack.json) |
+| Fortnite: Sun & Scales Pack | 318648 | [318648-fortnite-sun-and-scales-pack.json](./318648-fortnite-sun-and-scales-pack.json) |
 | Fortnite: The Final Reckoning Pack | 277521 | [277521-fortnite-the-final-reckoning-pack.json](./277521-fortnite-the-final-reckoning-pack.json) |
 | Fortnite: The High Stakes Club Pack | 267769 | [267769-fortnite-the-high-stakes-club-pack.json](./267769-fortnite-the-high-stakes-club-pack.json) |
 | Fortnite: The Laguna Pack | 255541 | [255541-fortnite-the-laguna-pack.json](./255541-fortnite-the-laguna-pack.json) |
@@ -12108,6 +12112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fran Bow Chapter 5 | 375346 | [375346-fran-bow-chapter-5.json](./375346-fran-bow-chapter-5.json) |
 | France '14 | 59184 | [59184-france-14.json](./59184-france-14.json) |
 | Franchise Hockey Manager 10 | 273894 | [273894-franchise-hockey-manager-10.json](./273894-franchise-hockey-manager-10.json) |
+| Franchise Hockey Manager 11 | 318644 | [318644-franchise-hockey-manager-11.json](./318644-franchise-hockey-manager-11.json) |
 | Franchise Hockey Manager 12 | 371750 | [371750-franchise-hockey-manager-12.json](./371750-franchise-hockey-manager-12.json) |
 | Franchise Hockey Manager 2013 | 63352 | [63352-franchise-hockey-manager-2013.json](./63352-franchise-hockey-manager-2013.json) |
 | Franchise Hockey Manager 2014 | 8913 | [8913-franchise-hockey-manager-2014.json](./8913-franchise-hockey-manager-2014.json) |
@@ -12603,6 +12608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeway Crossing Program | 351414 | [351414-freeway-crossing-program.json](./351414-freeway-crossing-program.json) |
 | Freeway Fiasco | 203837 | [203837-freeway-fiasco.json](./203837-freeway-fiasco.json) |
 | Freeway Fury | 175859 | [175859-freeway-fury.json](./175859-freeway-fury.json) |
+| Freeway Fury 2 | 318173 | [318173-freeway-fury-2.json](./318173-freeway-fury-2.json) |
 | Freeway Fury 3 | 338141 | [338141-freeway-fury-3.json](./338141-freeway-fury-3.json) |
 | Freeway Fury: Annihilation | 318188 | [318188-freeway-fury-annihilation.json](./318188-freeway-fury-annihilation.json) |
 | Freeway Mutant | 144658 | [144658-freeway-mutant.json](./144658-freeway-mutant.json) |
