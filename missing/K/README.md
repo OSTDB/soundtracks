@@ -2092,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Master | 166940 | [166940-keyboard-master.json](./166940-keyboard-master.json) |
 | Keyboard Party | 128715 | [128715-keyboard-party.json](./128715-keyboard-party.json) |
 | Keyboard Party | 363036 | [363036-keyboard-party.json](./363036-keyboard-party.json) |
+| Keyboard Quest | 359091 | [359091-keyboard-quest.json](./359091-keyboard-quest.json) |
 | Keyboard Simulator | 360575 | [360575-keyboard-simulator.json](./360575-keyboard-simulator.json) |
 | Keyboard Smash | 410954 | [410954-keyboard-smash.json](./410954-keyboard-smash.json) |
 | Keyboard Soldier | 340788 | [340788-keyboard-soldier.json](./340788-keyboard-soldier.json) |
