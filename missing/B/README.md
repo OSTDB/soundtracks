@@ -4068,6 +4068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Legends Arena | 196573 | [196573-battle-legends-arena.json](./196573-battle-legends-arena.json) |
 | Battle Life Online | 154868 | [154868-battle-life-online.json](./154868-battle-life-online.json) |
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
+| Battle Live! School of idols | 350676 | [350676-battle-live-school-of-idols.json](./350676-battle-live-school-of-idols.json) |
 | Battle Lode Runner | 42086 | [42086-battle-lode-runner.json](./42086-battle-lode-runner.json) |
 | Battle Lust | 152615 | [152615-battle-lust.json](./152615-battle-lust.json) |
 | Battle Mage | 236729 | [236729-battle-mage.json](./236729-battle-mage.json) |
@@ -6120,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bebok Invasion | 226253 | [226253-bebok-invasion.json](./226253-bebok-invasion.json) |
 | Beboop to the Rescue! | 211431 | [211431-beboop-to-the-rescue.json](./211431-beboop-to-the-rescue.json) |
 | Bebop and Tempo | 43893 | [43893-bebop-and-tempo.json](./43893-bebop-and-tempo.json) |
+| Bebshoru Lodbuka | 350675 | [350675-bebshoru-lodbuka.json](./350675-bebshoru-lodbuka.json) |
 | Bebylon Battle Royale | 56757 | [56757-bebylon-battle-royale.json](./56757-bebylon-battle-royale.json) |
 | Becalm | 113863 | [113863-becalm.json](./113863-becalm.json) |
 | Becalmed | 382360 | [382360-becalmed.json](./382360-becalmed.json) |
@@ -8165,6 +8167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Win NHL | 59621 | [59621-big-win-nhl.json](./59621-big-win-nhl.json) |
 | Big Win Racing | 59622 | [59622-big-win-racing.json](./59622-big-win-racing.json) |
 | Big Win Soccer | 59624 | [59624-big-win-soccer.json](./59624-big-win-soccer.json) |
+| Big Winner | 350680 | [350680-big-winner.json](./350680-big-winner.json) |
 | Big XXL Kids Games Collection Bundle 11-in-1 Educational Children Learning Fun | 223753 | [223753-big-xxl-kids-games-collection-bundle-11-in-1-educational-children-learning-fun.json](./223753-big-xxl-kids-games-collection-bundle-11-in-1-educational-children-learning-fun.json) |
 | Big Yeetus | 260096 | [260096-big-yeetus.json](./260096-big-yeetus.json) |
 | Big-Battle Tanks | 388220 | [388220-big-battle-tanks.json](./388220-big-battle-tanks.json) |
@@ -15169,6 +15172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box2Glory | 110241 | [110241-box2glory.json](./110241-box2glory.json) |
 | BoxBoxBoy! | 19598 | [19598-boxboxboy.json](./19598-boxboxboy.json) |
 | Boxboy! | 15654 | [15654-boxboy.json](./15654-boxboy.json) |
+| Boxboyman | 350681 | [350681-boxboyman.json](./350681-boxboyman.json) |
 | Boxcar Brats | 313385 | [313385-boxcar-brats.json](./313385-boxcar-brats.json) |
 | BoxCar Racing | 241209 | [241209-boxcar-racing.json](./241209-boxcar-racing.json) |
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
