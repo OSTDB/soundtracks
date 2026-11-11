@@ -3156,7 +3156,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: Warlord of the Karui Supporter Pack | 332082 | [332082-path-of-exile-warlord-of-the-karui-supporter-pack.json](./332082-path-of-exile-warlord-of-the-karui-supporter-pack.json) |
 | Path of Fury: Episode I - Tetsuo's Tower | 335484 | [335484-path-of-fury-episode-i-tetsuos-tower.json](./335484-path-of-fury-episode-i-tetsuos-tower.json) |
 | Path of Gear: Blacksmith’s Legend | 358971 | [358971-path-of-gear-blacksmith-s-legend.json](./358971-path-of-gear-blacksmith-s-legend.json) |
-| Path of Giants | 122047 | [122047-path-of-giants.json](./122047-path-of-giants.json) |
 | Path of Heaven | 278142 | [278142-path-of-heaven.json](./278142-path-of-heaven.json) |
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
 | Path of Idle: Old Gods Rising | 388087 | [388087-path-of-idle-old-gods-rising.json](./388087-path-of-idle-old-gods-rising.json) |
