@@ -597,7 +597,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lair Land Story: Remake Edition | 119030 | [119030-lair-land-story-remake-edition.json](./119030-lair-land-story-remake-edition.json) |
 | Lair of Anubis | 236303 | [236303-lair-of-anubis.json](./236303-lair-of-anubis.json) |
 | Lair of Goblins | 233029 | [233029-lair-of-goblins.json](./233029-lair-of-goblins.json) |
-| Lair of the Clockwork God | 117058 | [117058-lair-of-the-clockwork-god.json](./117058-lair-of-the-clockwork-god.json) |
 | Lair Of The Dragon Ogre | 271735 | [271735-lair-of-the-dragon-ogre.json](./271735-lair-of-the-dragon-ogre.json) |
 | Lair of the Evildoer | 65713 | [65713-lair-of-the-evildoer.json](./65713-lair-of-the-evildoer.json) |
 | Lair Of The Leviathan | 291220 | [291220-lair-of-the-leviathan.json](./291220-lair-of-the-leviathan.json) |
@@ -3657,7 +3656,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemnis Gate | 119464 | [119464-lemnis-gate.json](./119464-lemnis-gate.json) |
 | Lemon | 314314 | [314314-lemon.json](./314314-lemon.json) |
 | Lemon | 314315 | [314315-lemon.json](./314315-lemon.json) |
-| Lemon Cake | 137111 | [137111-lemon-cake.json](./137111-lemon-cake.json) |
 | Lemon Pending | 179362 | [179362-lemon-pending.json](./179362-lemon-pending.json) |
 | Lemon Run | 192576 | [192576-lemon-run.json](./192576-lemon-run.json) |
 | Lemon Sans: The Sensational Experiance | 331770 | [331770-lemon-sans-the-sensational-experiance.json](./331770-lemon-sans-the-sensational-experiance.json) |
