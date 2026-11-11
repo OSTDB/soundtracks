@@ -4234,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Battle | 134381 | [134381-sea-battle.json](./134381-sea-battle.json) |
 | Sea Battle | 171261 | [171261-sea-battle.json](./171261-sea-battle.json) |
 | Sea Battle | 343563 | [343563-sea-battle.json](./343563-sea-battle.json) |
+| Sea Battle | 344045 | [344045-sea-battle.json](./344045-sea-battle.json) |
 | Sea Battle | 413060 | [413060-sea-battle.json](./413060-sea-battle.json) |
 | Sea Battle | 5694 | [5694-sea-battle.json](./5694-sea-battle.json) |
 | Sea Battle | 86250 | [86250-sea-battle.json](./86250-sea-battle.json) |
@@ -14014,6 +14015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughter Horse 2 | 211133 | [211133-slaughter-horse-2.json](./211133-slaughter-horse-2.json) |
 | Slaughter Me Street: 1999 | 327276 | [327276-slaughter-me-street-1999.json](./327276-slaughter-me-street-1999.json) |
 | Slaughter Until Death | 274217 | [274217-slaughter-until-death.json](./274217-slaughter-until-death.json) |
+| Slaughter Void | 344076 | [344076-slaughter-void.json](./344076-slaughter-void.json) |
 | Slaughter: The Lost Outpost | 261038 | [261038-slaughter-the-lost-outpost.json](./261038-slaughter-the-lost-outpost.json) |
 | Slaughterfest | 308310 | [308310-slaughterfest.json](./308310-slaughterfest.json) |
 | Slaughterfest 2011 | 140890 | [140890-slaughterfest-2011.json](./140890-slaughterfest-2011.json) |
@@ -23596,6 +23598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Swap: Lofi Beats to Match-3 To | 145872 | [145872-spirit-swap-lofi-beats-to-match-3-to.json](./145872-spirit-swap-lofi-beats-to-match-3-to.json) |
 | Spirit Talk | 386950 | [386950-spirit-talk.json](./386950-spirit-talk.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
+| Spirit Trail | 344072 | [344072-spirit-trail.json](./344072-spirit-trail.json) |
 | Spirit Trigger | 382704 | [382704-spirit-trigger.json](./382704-spirit-trigger.json) |
 | Spirit Valley | 285319 | [285319-spirit-valley.json](./285319-spirit-valley.json) |
 | Spirit Valor | 319702 | [319702-spirit-valor.json](./319702-spirit-valor.json) |
@@ -24337,6 +24340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot Challenge Vol. 2 | 331921 | [331921-spot-challenge-vol-2.json](./331921-spot-challenge-vol-2.json) |
 | Spot Challenge Vol. 4 | 343567 | [343567-spot-challenge-vol-4.json](./343567-spot-challenge-vol-4.json) |
 | Spot Girls Difference | 114330 | [114330-spot-girls-difference.json](./114330-spot-girls-difference.json) |
+| Spot Goes to Hollywood | 344044 | [344044-spot-goes-to-hollywood.json](./344044-spot-goes-to-hollywood.json) |
 | Spot Goes to Hollywood | 4454 | [4454-spot-goes-to-hollywood.json](./4454-spot-goes-to-hollywood.json) |
 | Spot H9 | 301309 | [301309-spot-h9.json](./301309-spot-h9.json) |
 | Spot It | 320341 | [320341-spot-it.json](./320341-spot-it.json) |
@@ -28494,6 +28498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Squad 3 | 101924 | [101924-stick-squad-3.json](./101924-stick-squad-3.json) |
 | Stick Squad 4 | 388091 | [388091-stick-squad-4.json](./388091-stick-squad-4.json) |
 | Stick Squad Battlegrounds | 388093 | [388093-stick-squad-battlegrounds.json](./388093-stick-squad-battlegrounds.json) |
+| Stick Strike | 344055 | [344055-stick-strike.json](./344055-stick-strike.json) |
 | Stick Stunt Biker | 289564 | [289564-stick-stunt-biker.json](./289564-stick-stunt-biker.json) |
 | Stick Stunt Biker 2 | 87927 | [87927-stick-stunt-biker-2.json](./87927-stick-stunt-biker-2.json) |
 | Stick Survivor | 299355 | [299355-stick-survivor.json](./299355-stick-survivor.json) |
@@ -30324,6 +30329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike & Resist | 346635 | [346635-strike-and-resist.json](./346635-strike-and-resist.json) |
 | Strike at Night | 349835 | [349835-strike-at-night.json](./349835-strike-at-night.json) |
 | Strike Back | 279097 | [279097-strike-back.json](./279097-strike-back.json) |
+| Strike Back | 344094 | [344094-strike-back.json](./344094-strike-back.json) |
 | Strike Ball 2 Deluxe | 72152 | [72152-strike-ball-2-deluxe.json](./72152-strike-ball-2-deluxe.json) |
 | Strike Ball 3 | 54405 | [54405-strike-ball-3.json](./54405-strike-ball-3.json) |
 | Strike Blazinger | 57907 | [57907-strike-blazinger.json](./57907-strike-blazinger.json) |
@@ -31039,6 +31045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subocto | 263598 | [263598-subocto.json](./263598-subocto.json) |
 | Suboptimal | 300336 | [300336-suboptimal.json](./300336-suboptimal.json) |
 | Suborbital | 260386 | [260386-suborbital.json](./260386-suborbital.json) |
+| Suborbital Salvage | 344084 | [344084-suborbital-salvage.json](./344084-suborbital-salvage.json) |
 | SuborWin 2000 | 309611 | [309611-suborwin-2000.json](./309611-suborwin-2000.json) |
 | Subpar Commander | 27808 | [27808-subpar-commander.json](./27808-subpar-commander.json) |
 | SubPixels | 339926 | [339926-subpixels.json](./339926-subpixels.json) |
@@ -32237,6 +32244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunken Engine | 336738 | [336738-sunken-engine.json](./336738-sunken-engine.json) |
 | Sunken Fallacy | 271540 | [271540-sunken-fallacy.json](./271540-sunken-fallacy.json) |
 | Sunken Heads | 138821 | [138821-sunken-heads.json](./138821-sunken-heads.json) |
+| Sunken Memories | 344077 | [344077-sunken-memories.json](./344077-sunken-memories.json) |
 | Sunken Realms | 197140 | [197140-sunken-realms.json](./197140-sunken-realms.json) |
 | Sunken Sailor | 176263 | [176263-sunken-sailor.json](./176263-sunken-sailor.json) |
 | Sunken Secrets | 69359 | [69359-sunken-secrets.json](./69359-sunken-secrets.json) |
@@ -32340,6 +32348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Coast Collection | 328481 | [328481-sunset-coast-collection.json](./328481-sunset-coast-collection.json) |
 | Sunset Crime | 385658 | [385658-sunset-crime.json](./385658-sunset-crime.json) |
 | Sunset Devils | 295549 | [295549-sunset-devils.json](./295549-sunset-devils.json) |
+| Sunset Drive | 344089 | [344089-sunset-drive.json](./344089-sunset-drive.json) |
 | Sunset Drive 1986 | 141133 | [141133-sunset-drive-1986.json](./141133-sunset-drive-1986.json) |
 | Sunset Driver | 199981 | [199981-sunset-driver.json](./199981-sunset-driver.json) |
 | Sunset Fighter | 367020 | [367020-sunset-fighter.json](./367020-sunset-fighter.json) |
