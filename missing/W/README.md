@@ -2149,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warriors Orochi 4: Scenario Pack | 237975 | [237975-warriors-orochi-4-scenario-pack.json](./237975-warriors-orochi-4-scenario-pack.json) |
 | Warriors Orochi 4: Scenario Pack 1 | 252804 | [252804-warriors-orochi-4-scenario-pack-1.json](./252804-warriors-orochi-4-scenario-pack-1.json) |
 | Warriors Orochi 4: Scenario Pack 2 | 226880 | [226880-warriors-orochi-4-scenario-pack-2.json](./226880-warriors-orochi-4-scenario-pack-2.json) |
+| Warriors United | 321679 | [321679-warriors-united.json](./321679-warriors-united.json) |
 | Warriors Waifus Mahjong | 336559 | [336559-warriors-waifus-mahjong.json](./336559-warriors-waifus-mahjong.json) |
 | Warriors: Abyss | 331203 | [331203-warriors-abyss.json](./331203-warriors-abyss.json) |
 | Warriors: Abyss - "Dynasty Warriors" Costume Set | 379117 | [379117-warriors-abyss-dynasty-warriors-costume-set.json](./379117-warriors-abyss-dynasty-warriors-costume-set.json) |
@@ -7001,6 +7002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With Ribbon | 418074 | [418074-with-ribbon.json](./418074-with-ribbon.json) |
 | With Seven Cats | 184118 | [184118-with-seven-cats.json](./184118-with-seven-cats.json) |
 | With Shining Eyes | 278957 | [278957-with-shining-eyes.json](./278957-with-shining-eyes.json) |
+| With Sprinkles | 321089 | [321089-with-sprinkles.json](./321089-with-sprinkles.json) |
 | With the Addition of Markiplier | 159181 | [159181-with-the-addition-of-markiplier.json](./159181-with-the-addition-of-markiplier.json) |
 | With the Devilish Her… | 418082 | [418082-with-the-devilish-her.json](./418082-with-the-devilish-her.json) |
 | With The Fire And Sword | 330885 | [330885-with-the-fire-and-sword.json](./330885-with-the-fire-and-sword.json) |
