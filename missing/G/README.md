@@ -160,6 +160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Nome | 78909 | [78909-g-nome.json](./78909-g-nome.json) |
 | G-Police | 8305 | [8305-g-police.json](./8305-g-police.json) |
 | G-Police: Weapons of Justice | 8306 | [8306-g-police-weapons-of-justice.json](./8306-g-police-weapons-of-justice.json) |
+| G-Rebels | 319482 | [319482-g-rebels.json](./319482-g-rebels.json) |
 | G-Saviour | 66587 | [66587-g-saviour.json](./66587-g-saviour.json) |
 | G-Scramble | 260753 | [260753-g-scramble.json](./260753-g-scramble.json) |
 | G-Sector | 306857 | [306857-g-sector.json](./306857-g-sector.json) |
@@ -1836,6 +1837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsta Underground: The Poker | 132263 | [132263-gangsta-underground-the-poker.json](./132263-gangsta-underground-the-poker.json) |
 | Gangsta Woman | 120860 | [120860-gangsta-woman.json](./120860-gangsta-woman.json) |
 | Gangsta: The Return | 189117 | [189117-gangsta-the-return.json](./189117-gangsta-the-return.json) |
+| Gangstalk | 321711 | [321711-gangstalk.json](./321711-gangstalk.json) |
 | Gangstar 2: Kings of L.A | 67149 | [67149-gangstar-2-kings-of-l-a.json](./67149-gangstar-2-kings-of-l-a.json) |
 | Gangstar City | 383591 | [383591-gangstar-city.json](./383591-gangstar-city.json) |
 | Gangstar City | 403574 | [403574-gangstar-city.json](./403574-gangstar-city.json) |
@@ -4000,6 +4002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Files: The Face of Guilt | 28781 | [28781-ghost-files-the-face-of-guilt.json](./28781-ghost-files-the-face-of-guilt.json) |
 | Ghost Follows | 191224 | [191224-ghost-follows.json](./191224-ghost-follows.json) |
 | Ghost For Hire | 295310 | [295310-ghost-for-hire.json](./295310-ghost-for-hire.json) |
+| Ghost Frequency | 319487 | [319487-ghost-frequency.json](./319487-ghost-frequency.json) |
 | Ghost Girl Ghussy: XXXL Edition | 271042 | [271042-ghost-girl-ghussy-xxxl-edition.json](./271042-ghost-girl-ghussy-xxxl-edition.json) |
 | Ghost Girl Lasling | 204035 | [204035-ghost-girl-lasling.json](./204035-ghost-girl-lasling.json) |
 | Ghost Golfing | 350721 | [350721-ghost-golfing.json](./350721-ghost-golfing.json) |
@@ -8091,6 +8094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab the Win | 131237 | [131237-grab-the-win.json](./131237-grab-the-win.json) |
 | Grab Them by the Eyes | 11738 | [11738-grab-them-by-the-eyes.json](./11738-grab-them-by-the-eyes.json) |
 | Grab Toy | 181035 | [181035-grab-toy.json](./181035-grab-toy.json) |
+| Grab-A-Crab | 319518 | [319518-grab-a-crab.json](./319518-grab-a-crab.json) |
 | Grabage | 307623 | [307623-grabage.json](./307623-grabage.json) |
 | Grabanakki | 180782 | [180782-grabanakki.json](./180782-grabanakki.json) |
 | Grabatron | 174643 | [174643-grabatron.json](./174643-grabatron.json) |
@@ -9141,6 +9145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Force | 357726 | [357726-gravity-force.json](./357726-gravity-force.json) |
 | Gravity Force | 37243 | [37243-gravity-force.json](./37243-gravity-force.json) |
 | Gravity Force 2 | 37241 | [37241-gravity-force-2.json](./37241-gravity-force-2.json) |
+| Gravity Forge | 319489 | [319489-gravity-forge.json](./319489-gravity-forge.json) |
 | Gravity Game | 187265 | [187265-gravity-game.json](./187265-gravity-game.json) |
 | Gravity Games Bike: Street Vert Dirt | 5851 | [5851-gravity-games-bike-street-vert-dirt.json](./5851-gravity-games-bike-street-vert-dirt.json) |
 | Gravity Garden | 125685 | [125685-gravity-garden.json](./125685-gravity-garden.json) |
