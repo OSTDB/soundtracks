@@ -3373,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emma: Lost in Memories | 121380 | [121380-emma-lost-in-memories.json](./121380-emma-lost-in-memories.json) |
 | Emma's Armaments | 213017 | [213017-emmas-armaments.json](./213017-emmas-armaments.json) |
 | Emma's Story | 376167 | [376167-emmas-story.json](./376167-emmas-story.json) |
+| Emma's Umbrella | 349527 | [349527-emmas-umbrella.json](./349527-emmas-umbrella.json) |
 | Emma's World | 299220 | [299220-emmas-world.json](./299220-emmas-world.json) |
 | Emmanuelle | 37238 | [37238-emmanuelle.json](./37238-emmanuelle.json) |
 | Emme Saves the Galaxy | 260204 | [260204-emme-saves-the-galaxy.json](./260204-emme-saves-the-galaxy.json) |
@@ -7292,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergreen Blues | 123794 | [123794-evergreen-blues.json](./123794-evergreen-blues.json) |
 | Evergreen Meadow | 390495 | [390495-evergreen-meadow.json](./390495-evergreen-meadow.json) |
 | Evergreen South | 285691 | [285691-evergreen-south.json](./285691-evergreen-south.json) |
+| Evergreen Tavern | 349537 | [349537-evergreen-tavern.json](./349537-evergreen-tavern.json) |
 | Evergreen Valley: The Parkour Game | 398292 | [398292-evergreen-valley-the-parkour-game.json](./398292-evergreen-valley-the-parkour-game.json) |
 | Evergreen: Cacti Expansion | 298326 | [298326-evergreen-cacti-expansion.json](./298326-evergreen-cacti-expansion.json) |
 | Evergreen: Mountain Life Simulator | 217252 | [217252-evergreen-mountain-life-simulator.json](./217252-evergreen-mountain-life-simulator.json) |
@@ -7435,6 +7437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everstead: Origins | 346498 | [346498-everstead-origins.json](./346498-everstead-origins.json) |
 | Everstill Valley | 394899 | [394899-everstill-valley.json](./394899-everstill-valley.json) |
 | Everstorm | 283100 | [283100-everstorm.json](./283100-everstorm.json) |
+| Everstrife | 349019 | [349019-everstrife.json](./349019-everstrife.json) |
 | Evertale | 113924 | [113924-evertale.json](./113924-evertale.json) |
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
 | Evertech Sandbox | 102662 | [102662-evertech-sandbox.json](./102662-evertech-sandbox.json) |
