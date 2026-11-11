@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walls | 275006 | [275006-walls.json](./275006-walls.json) |
 | Walls | 343015 | [343015-walls.json](./343015-walls.json) |
 | Walls | 383534 | [383534-walls.json](./383534-walls.json) |
+| Walls and Tower Party | 372372 | [372372-walls-and-tower-party.json](./372372-walls-and-tower-party.json) |
 | Walls of Illusion | 70443 | [70443-walls-of-illusion.json](./70443-walls-of-illusion.json) |
 | Walls of Rust | 287201 | [287201-walls-of-rust.json](./287201-walls-of-rust.json) |
 | Walls That Watch | 350291 | [350291-walls-that-watch.json](./350291-walls-that-watch.json) |
@@ -1053,6 +1054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Worlds | 175633 | [175633-war-of-the-worlds.json](./175633-war-of-the-worlds.json) |
 | War of the Worlds | 232866 | [232866-war-of-the-worlds.json](./232866-war-of-the-worlds.json) |
 | War of the Worlds | 333949 | [333949-war-of-the-worlds.json](./333949-war-of-the-worlds.json) |
+| War of the Worlds | 372391 | [372391-war-of-the-worlds.json](./372391-war-of-the-worlds.json) |
 | War of the Worlds | 39425 | [39425-war-of-the-worlds.json](./39425-war-of-the-worlds.json) |
 | War of the Wormholes: Janitor Duty | 397991 | [397991-war-of-the-wormholes-janitor-duty.json](./397991-war-of-the-wormholes-janitor-duty.json) |
 | War of the Zombie | 90516 | [90516-war-of-the-zombie.json](./90516-war-of-the-zombie.json) |
@@ -3003,6 +3005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are So Cooked | 388939 | [388939-we-are-so-cooked.json](./388939-we-are-so-cooked.json) |
 | We Are So Dead | 412043 | [412043-we-are-so-dead.json](./412043-we-are-so-dead.json) |
 | We Are Soccer | 331782 | [331782-we-are-soccer.json](./331782-we-are-soccer.json) |
+| We Are Square | 372346 | [372346-we-are-square.json](./372346-we-are-square.json) |
 | We Are Stardust | 299162 | [299162-we-are-stardust.json](./299162-we-are-stardust.json) |
 | We Are Sup | 288469 | [288469-we-are-sup.json](./288469-we-are-sup.json) |
 | We Are Terror: The First Days | 107762 | [107762-we-are-terror-the-first-days.json](./107762-we-are-terror-the-first-days.json) |
