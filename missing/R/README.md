@@ -8011,6 +8011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RIIP | 394445 | [394445-riip.json](./394445-riip.json) |
 | RiiPlay | 294784 | [294784-riiplay.json](./294784-riiplay.json) |
 | Rijn the Specpyre in... Manor of the Damned! | 10770 | [10770-rijn-the-specpyre-in-manor-of-the-damned.json](./10770-rijn-the-specpyre-in-manor-of-the-damned.json) |
+| Rik the Roadie | 355238 | [355238-rik-the-roadie.json](./355238-rik-the-roadie.json) |
 | Rika Furude Simulator '25 | 378518 | [378518-rika-furude-simulator-25.json](./378518-rika-furude-simulator-25.json) |
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
 | Riki | 294983 | [294983-riki.json](./294983-riki.json) |
@@ -13009,6 +13010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run For Cover | 117655 | [117655-run-for-cover.json](./117655-run-for-cover.json) |
 | Run for Eat | 119970 | [119970-run-for-eat.json](./119970-run-for-eat.json) |
 | Run For Exodus | 261665 | [261665-run-for-exodus.json](./261665-run-for-exodus.json) |
+| Run for Gold | 355240 | [355240-run-for-gold.json](./355240-run-for-gold.json) |
 | Run for Love | 180747 | [180747-run-for-love.json](./180747-run-for-love.json) |
 | Run For Money | 199970 | [199970-run-for-money.json](./199970-run-for-money.json) |
 | Run for Money Tousouchuu | 141123 | [141123-run-for-money-tousouchuu.json](./141123-run-for-money-tousouchuu.json) |
