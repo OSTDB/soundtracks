@@ -909,7 +909,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Juarez: The Cartel | 543 | [543-call-of-juarez-the-cartel.json](./543-call-of-juarez-the-cartel.json) |
 | Call of Knights | 159541 | [159541-call-of-knights.json](./159541-call-of-knights.json) |
 | Call of LDPR | 142640 | [142640-call-of-ldpr.json](./142640-call-of-ldpr.json) |
+| Call of Mini Dino Hunter | 348481 | [348481-call-of-mini-dino-hunter.json](./348481-call-of-mini-dino-hunter.json) |
 | Call of Mini: Beyond Infinity | 104533 | [104533-call-of-mini-beyond-infinity.json](./104533-call-of-mini-beyond-infinity.json) |
+| Call of Mini: Brawlers | 348485 | [348485-call-of-mini-brawlers.json](./348485-call-of-mini-brawlers.json) |
+| Call of Mini: Double Shot | 348479 | [348479-call-of-mini-double-shot.json](./348479-call-of-mini-double-shot.json) |
 | Call of Mini: Sniper | 254352 | [254352-call-of-mini-sniper.json](./254352-call-of-mini-sniper.json) |
 | Call of Mini: Zombies | 77994 | [77994-call-of-mini-zombies.json](./77994-call-of-mini-zombies.json) |
 | Call of Mini: Zombies 2 | 233407 | [233407-call-of-mini-zombies-2.json](./233407-call-of-mini-zombies-2.json) |
@@ -6945,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Checkers Master | 346113 | [346113-checkers-master.json](./346113-checkers-master.json) |
 | Checkers Minimal | 192075 | [192075-checkers-minimal.json](./192075-checkers-minimal.json) |
 | Checkers Online | 225746 | [225746-checkers-online.json](./225746-checkers-online.json) |
+| Checkers Online Elite | 348496 | [348496-checkers-online-elite.json](./348496-checkers-online-elite.json) |
 | Checkers Premium | 87269 | [87269-checkers-premium.json](./87269-checkers-premium.json) |
 | Checkers Q | 108197 | [108197-checkers-q.json](./108197-checkers-q.json) |
 | Checkers Quest Bundle | 231068 | [231068-checkers-quest-bundle.json](./231068-checkers-quest-bundle.json) |
@@ -20119,6 +20123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Sequence | 151015 | [151015-crystal-sequence.json](./151015-crystal-sequence.json) |
 | Crystal Shard Adventure Bundle | 30646 | [30646-crystal-shard-adventure-bundle.json](./30646-crystal-shard-adventure-bundle.json) |
 | Crystal Shard Adventure: Meta | 169913 | [169913-crystal-shard-adventure-meta.json](./169913-crystal-shard-adventure-meta.json) |
+| Crystal Siege | 348495 | [348495-crystal-siege.json](./348495-crystal-siege.json) |
 | Crystal Soul Arena | 122899 | [122899-crystal-soul-arena.json](./122899-crystal-soul-arena.json) |
 | Crystal Soul Chambers | 132257 | [132257-crystal-soul-chambers.json](./132257-crystal-soul-chambers.json) |
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
@@ -20417,6 +20422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Hopper | 80721 | [80721-cube-hopper.json](./80721-cube-hopper.json) |
 | Cube Human | 115572 | [115572-cube-human.json](./115572-cube-human.json) |
 | Cube Island | 79554 | [79554-cube-island.json](./79554-cube-island.json) |
+| Cube Jump | 348505 | [348505-cube-jump.json](./348505-cube-jump.json) |
 | Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
 | Cube Jump Game | 402937 | [402937-cube-jump-game.json](./402937-cube-jump-game.json) |
 | Cube Jump Ultimate | 290467 | [290467-cube-jump-ultimate.json](./290467-cube-jump-ultimate.json) |
@@ -21340,6 +21346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursedom | 400531 | [400531-cursedom.json](./400531-cursedom.json) |
 | CursedSword | 235195 | [235195-cursedsword.json](./235195-cursedsword.json) |
 | Cursedville | 306277 | [306277-cursedville.json](./306277-cursedville.json) |
+| Cursemark | 348494 | [348494-cursemark.json](./348494-cursemark.json) |
 | Cursery: The Crooked Man and the Crooked Cat | 139772 | [139772-cursery-the-crooked-man-and-the-crooked-cat.json](./139772-cursery-the-crooked-man-and-the-crooked-cat.json) |
 | Cursery: The Crooked Man and the Crooked Cat - Collector's Edition | 28676 | [28676-cursery-the-crooked-man-and-the-crooked-cat-collectors-edition.json](./28676-cursery-the-crooked-man-and-the-crooked-cat-collectors-edition.json) |
 | Curses | 165279 | [165279-curses.json](./165279-curses.json) |
