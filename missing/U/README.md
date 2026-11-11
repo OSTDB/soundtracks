@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Castle | 275663 | [275663-under-the-castle.json](./275663-under-the-castle.json) |
 | Under The Concrete Wave | 306068 | [306068-under-the-concrete-wave.json](./306068-under-the-concrete-wave.json) |
 | Under the Counter | 149686 | [149686-under-the-counter.json](./149686-under-the-counter.json) |
+| Under The Crisis: Dárlia Island Remaster | 350716 | [350716-under-the-crisis-darlia-island-remaster.json](./350716-under-the-crisis-darlia-island-remaster.json) |
 | Under the Disco Lights: 80's Bar Simulator | 348678 | [348678-under-the-disco-lights-80s-bar-simulator.json](./348678-under-the-disco-lights-80s-bar-simulator.json) |
 | Under the Farm | 184648 | [184648-under-the-farm.json](./184648-under-the-farm.json) |
 | Under the Garden | 80362 | [80362-under-the-garden.json](./80362-under-the-garden.json) |
@@ -2352,6 +2353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicycle Journey | 415082 | [415082-unicycle-journey.json](./415082-unicycle-journey.json) |
 | Unicycle Legend | 244087 | [244087-unicycle-legend.json](./244087-unicycle-legend.json) |
 | Unicycle Pizza Time! | 314910 | [314910-unicycle-pizza-time.json](./314910-unicycle-pizza-time.json) |
+| Unicycle Rage | 350712 | [350712-unicycle-rage.json](./350712-unicycle-rage.json) |
 | Unicycle Together | 389403 | [389403-unicycle-together.json](./389403-unicycle-together.json) |
 | Unicyclist | 249380 | [249380-unicyclist.json](./249380-unicyclist.json) |
 | Unidentified | 112841 | [112841-unidentified.json](./112841-unidentified.json) |
@@ -3872,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uwol 2 | 299168 | [299168-uwol-2.json](./299168-uwol-2.json) |
 | Uwol: Quest for Money | 46675 | [46675-uwol-quest-for-money.json](./46675-uwol-quest-for-money.json) |
 | uWordsmith | 85466 | [85466-uwordsmith.json](./85466-uwordsmith.json) |
+| UwU Hunter | 350697 | [350697-uwu-hunter.json](./350697-uwu-hunter.json) |
 | Uyuriih's Perscription | 202600 | [202600-uyuriihs-perscription.json](./202600-uyuriihs-perscription.json) |
 | Uze Feud | 311352 | [311352-uze-feud.json](./311352-uze-feud.json) |
 | Uze Snakes | 270428 | [270428-uze-snakes.json](./270428-uze-snakes.json) |
