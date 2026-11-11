@@ -4435,6 +4435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in the World Is Carmen Sandiego? | 242316 | [242316-where-in-the-world-is-carmen-sandiego.json](./242316-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 251 | [251-where-in-the-world-is-carmen-sandiego.json](./251-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 299326 | [299326-where-in-the-world-is-carmen-sandiego.json](./299326-where-in-the-world-is-carmen-sandiego.json) |
+| Where in the World Is Carmen Sandiego? | 344042 | [344042-where-in-the-world-is-carmen-sandiego.json](./344042-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 367753 | [367753-where-in-the-world-is-carmen-sandiego.json](./367753-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 367754 | [367754-where-in-the-world-is-carmen-sandiego.json](./367754-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World is Carmen Sandiego? 3: New Carmen Adventure | 327059 | [327059-where-in-the-world-is-carmen-sandiego-3-new-carmen-adventure.json](./327059-where-in-the-world-is-carmen-sandiego-3-new-carmen-adventure.json) |
@@ -4966,6 +4967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Rectangle | 182778 | [182778-white-rectangle.json](./182778-white-rectangle.json) |
 | White Redemption | 289667 | [289667-white-redemption.json](./289667-white-redemption.json) |
 | White Room | 271526 | [271526-white-room.json](./271526-white-room.json) |
+| White Room Protocol | 344051 | [344051-white-room-protocol.json](./344051-white-room-protocol.json) |
 | White Room: Mind’s Prison | 327175 | [327175-white-room-mind-s-prison.json](./327175-white-room-mind-s-prison.json) |
 | White Rooms | 399708 | [399708-white-rooms.json](./399708-white-rooms.json) |
 | White Sands | 236228 | [236228-white-sands.json](./236228-white-sands.json) |
@@ -6416,6 +6418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Games | 281644 | [281644-winter-games.json](./281644-winter-games.json) |
 | Winter Games | 281646 | [281646-winter-games.json](./281646-winter-games.json) |
 | Winter Games | 281647 | [281647-winter-games.json](./281647-winter-games.json) |
+| Winter Games | 344065 | [344065-winter-games.json](./344065-winter-games.json) |
 | Winter Games | 388392 | [388392-winter-games.json](./388392-winter-games.json) |
 | Winter Games 2023 | 210911 | [210911-winter-games-2023.json](./210911-winter-games-2023.json) |
 | Winter Games Challenge | 279866 | [279866-winter-games-challenge.json](./279866-winter-games-challenge.json) |
@@ -6631,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wireless Air 60 | 246212 | [246212-wireless-air-60.json](./246212-wireless-air-60.json) |
 | Wireless Hunting Video Game System | 246215 | [246215-wireless-hunting-video-game-system.json](./246215-wireless-hunting-video-game-system.json) |
 | Wireless Ms. Pac-Man | 219422 | [219422-wireless-ms-pac-man.json](./219422-wireless-ms-pac-man.json) |
+| Wirelight | 344086 | [344086-wirelight.json](./344086-wirelight.json) |
 | Wires and Whiskers | 357162 | [357162-wires-and-whiskers.json](./357162-wires-and-whiskers.json) |
 | Wirewalk | 172351 | [172351-wirewalk.json](./172351-wirewalk.json) |
 | Wirewalker | 260610 | [260610-wirewalker.json](./260610-wirewalker.json) |
@@ -8314,6 +8318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordsweeper by Powgi | 121643 | [121643-wordsweeper-by-powgi.json](./121643-wordsweeper-by-powgi.json) |
 | WordTactics | 164605 | [164605-wordtactics.json](./164605-wordtactics.json) |
 | WordTrip: Word Swipe Puzzles | 98795 | [98795-wordtrip-word-swipe-puzzles.json](./98795-wordtrip-word-swipe-puzzles.json) |
+| Wordtris | 344069 | [344069-wordtris.json](./344069-wordtris.json) |
 | Wordtris | 37254 | [37254-wordtris.json](./37254-wordtris.json) |
 | WordUp | 71975 | [71975-wordup.json](./71975-wordup.json) |
 | Wordventures: The Vampire Pirate | 411516 | [411516-wordventures-the-vampire-pirate.json](./411516-wordventures-the-vampire-pirate.json) |
