@@ -5170,6 +5170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightbox | 153861 | [153861-lightbox.json](./153861-lightbox.json) |
 | Lightbreak | 139003 | [139003-lightbreak.json](./139003-lightbreak.json) |
 | Lightbringer | 100302 | [100302-lightbringer.json](./100302-lightbringer.json) |
+| Lightbulb | 341751 | [341751-lightbulb.json](./341751-lightbulb.json) |
 | LightCells | 368582 | [368582-lightcells.json](./368582-lightcells.json) |
 | Lightclusters | 289552 | [289552-lightclusters.json](./289552-lightclusters.json) |
 | Lightcore Guardians | 357147 | [357147-lightcore-guardians.json](./357147-lightcore-guardians.json) |
