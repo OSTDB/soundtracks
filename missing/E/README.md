@@ -1619,6 +1619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Arctic PC-8801mkIISR | 332330 | [332330-eggconsole-arctic-pc-8801mkiisr.json](./332330-eggconsole-arctic-pc-8801mkiisr.json) |
 | Eggconsole Arguice no Tsubasa PC-8801mkIISR | 312082 | [312082-eggconsole-arguice-no-tsubasa-pc-8801mkiisr.json](./312082-eggconsole-arguice-no-tsubasa-pc-8801mkiisr.json) |
 | Eggconsole Babylon PC-8801mkIISR | 328528 | [328528-eggconsole-babylon-pc-8801mkiisr.json](./328528-eggconsole-babylon-pc-8801mkiisr.json) |
+| Eggconsole Brandish Renewal PC-9801 | 360220 | [360220-eggconsole-brandish-renewal-pc-9801.json](./360220-eggconsole-brandish-renewal-pc-9801.json) |
 | Eggconsole Burai: Jokan PC-8801mkIISR | 332331 | [332331-eggconsole-burai-jokan-pc-8801mkiisr.json](./332331-eggconsole-burai-jokan-pc-8801mkiisr.json) |
 | Eggconsole Carbuncle Pi MSX2 | 385115 | [385115-eggconsole-carbuncle-pi-msx2.json](./385115-eggconsole-carbuncle-pi-msx2.json) |
 | Eggconsole Carmine 88 PC-8801mkIISR | 330400 | [330400-eggconsole-carmine-88-pc-8801mkiisr.json](./330400-eggconsole-carmine-88-pc-8801mkiisr.json) |
