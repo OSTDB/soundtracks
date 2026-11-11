@@ -2935,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn | 29216 | [29216-dawn.json](./29216-dawn.json) |
 | Dawn | 319979 | [319979-dawn.json](./319979-dawn.json) |
 | Dawn | 380240 | [380240-dawn.json](./380240-dawn.json) |
+| Dawn After Dusk | 366137 | [366137-dawn-after-dusk.json](./366137-dawn-after-dusk.json) |
 | Dawn Apart | 231392 | [231392-dawn-apart.json](./231392-dawn-apart.json) |
 | Dawn Awakening | 174705 | [174705-dawn-awakening.json](./174705-dawn-awakening.json) |
 | Dawn Bell | 405255 | [405255-dawn-bell.json](./405255-dawn-bell.json) |
@@ -4311,6 +4312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadbus | 380452 | [380452-deadbus.json](./380452-deadbus.json) |
 | Deadcam | 323190 | [323190-deadcam.json](./323190-deadcam.json) |
 | Deadcam | 373301 | [373301-deadcam.json](./373301-deadcam.json) |
+| Deadcave | 365335 | [365335-deadcave.json](./365335-deadcave.json) |
 | DeadCore | 7864 | [7864-deadcore.json](./7864-deadcore.json) |
 | DeadCore Redux | 345547 | [345547-deadcore-redux.json](./345547-deadcore-redux.json) |
 | Deadcraft: Deluxe Edition | 199896 | [199896-deadcraft-deluxe-edition.json](./199896-deadcraft-deluxe-edition.json) |
@@ -7715,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Rush | 265430 | [265430-desert-rush.json](./265430-desert-rush.json) |
 | Desert Shadows | 420056 | [420056-desert-shadows.json](./420056-desert-shadows.json) |
 | Desert Skies | 116767 | [116767-desert-skies.json](./116767-desert-skies.json) |
+| Desert Sky Rider | 365922 | [365922-desert-sky-rider.json](./365922-desert-sky-rider.json) |
 | Desert Speedtrap Starring Road Runner & Wile E. Coyote | 8098 | [8098-desert-speedtrap-starring-road-runner-and-wile-e-coyote.json](./8098-desert-speedtrap-starring-road-runner-and-wile-e-coyote.json) |
 | Desert Spirit Grave | 253978 | [253978-desert-spirit-grave.json](./253978-desert-spirit-grave.json) |
 | Desert Storm | 270687 | [270687-desert-storm.json](./270687-desert-storm.json) |
@@ -10046,6 +10049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensional Phobos Threat | 305701 | [305701-dimensional-phobos-threat.json](./305701-dimensional-phobos-threat.json) |
 | Dimensional Racing Board | 389654 | [389654-dimensional-racing-board.json](./389654-dimensional-racing-board.json) |
 | Dimensional Rift | 29746 | [29746-dimensional-rift.json](./29746-dimensional-rift.json) |
+| Dimensional Rift | 365916 | [365916-dimensional-rift.json](./365916-dimensional-rift.json) |
 | Dimensional Shift Awakening | 277268 | [277268-dimensional-shift-awakening.json](./277268-dimensional-shift-awakening.json) |
 | Dimensional Slaughter | 209696 | [209696-dimensional-slaughter.json](./209696-dimensional-slaughter.json) |
 | Dimensional Wars | 410913 | [410913-dimensional-wars.json](./410913-dimensional-wars.json) |
@@ -10184,6 +10188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Cap | 376499 | [376499-dino-cap.json](./376499-dino-cap.json) |
 | Dino Cats | 291411 | [291411-dino-cats.json](./291411-dino-cats.json) |
 | Dino Chomp | 351695 | [351695-dino-chomp.json](./351695-dino-chomp.json) |
+| Dino Citadel | 365977 | [365977-dino-citadel.json](./365977-dino-citadel.json) |
 | Dino City | 42202 | [42202-dino-city.json](./42202-dino-city.json) |
 | Dino Crisis | 317628 | [317628-dino-crisis.json](./317628-dino-crisis.json) |
 | Dino Crisis | 329772 | [329772-dino-crisis.json](./329772-dino-crisis.json) |
