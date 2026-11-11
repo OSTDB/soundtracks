@@ -1019,7 +1019,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1290,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking with Lizzie | 240961 | [240961-baking-with-lizzie.json](./240961-baking-with-lizzie.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
 | Bakken: Ski Jumping - Next Season | 388133 | [388133-bakken-ski-jumping-next-season.json](./388133-bakken-ski-jumping-next-season.json) |
+| Bakken: Ski Jumping 2025 | 333249 | [333249-bakken-ski-jumping-2025.json](./333249-bakken-ski-jumping-2025.json) |
 | Bakkorila | 387279 | [387279-bakkorila.json](./387279-bakkorila.json) |
 | Baklava Simulator | 165757 | [165757-baklava-simulator.json](./165757-baklava-simulator.json) |
 | Baklava Simulator 2 | 283975 | [283975-baklava-simulator-2.json](./283975-baklava-simulator-2.json) |
@@ -15998,6 +15998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawler Friends | 58186 | [58186-brawler-friends.json](./58186-brawler-friends.json) |
 | Brawlers | 266240 | [266240-brawlers.json](./266240-brawlers.json) |
 | Brawlers of Duality | 310500 | [310500-brawlers-of-duality.json](./310500-brawlers-of-duality.json) |
+| Brawlers of the West | 333268 | [333268-brawlers-of-the-west.json](./333268-brawlers-of-the-west.json) |
 | Brawlers Tavern | 141363 | [141363-brawlers-tavern.json](./141363-brawlers-tavern.json) |
 | Brawlerz Zombies | 239437 | [239437-brawlerz-zombies.json](./239437-brawlerz-zombies.json) |
 | Brawlerz: Nitro | 28433 | [28433-brawlerz-nitro.json](./28433-brawlerz-nitro.json) |
@@ -17405,6 +17406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutalist Golf | 312983 | [312983-brutalist-golf.json](./312983-brutalist-golf.json) |
 | Brutalist Jam 2 | 274259 | [274259-brutalist-jam-2.json](./274259-brutalist-jam-2.json) |
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
+| Brutalistika | 333264 | [333264-brutalistika.json](./333264-brutalistika.json) |
 | Brutality club | 150981 | [150981-brutality-club.json](./150981-brutality-club.json) |
 | Brute | 33279 | [33279-brute.json](./33279-brute.json) |
 | Brute Battles | 395922 | [395922-brute-battles.json](./395922-brute-battles.json) |
