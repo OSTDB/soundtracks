@@ -1019,7 +1019,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1883,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballotron | 192297 | [192297-ballotron.json](./192297-ballotron.json) |
 | Ballotron Coolbox | 284761 | [284761-ballotron-coolbox.json](./284761-ballotron-coolbox.json) |
 | Ballotron Galaxy | 329509 | [329509-ballotron-galaxy.json](./329509-ballotron-galaxy.json) |
+| Ballotron Mega Bundle | 331567 | [331567-ballotron-mega-bundle.json](./331567-ballotron-mega-bundle.json) |
 | Ballotron Oceans | 231345 | [231345-ballotron-oceans.json](./231345-ballotron-oceans.json) |
 | Ballpark | 24749 | [24749-ballpark.json](./24749-ballpark.json) |
 | Ballpoint Universe | 50861 | [50861-ballpoint-universe.json](./50861-ballpoint-universe.json) |
@@ -7236,6 +7236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Plumber | 125397 | [125397-best-plumber.json](./125397-best-plumber.json) |
 | Best Rally | 104247 | [104247-best-rally.json](./104247-best-rally.json) |
 | Best Romance Game Ever | 183996 | [183996-best-romance-game-ever.json](./183996-best-romance-game-ever.json) |
+| Best Sellers Complete Bundle | 331568 | [331568-best-sellers-complete-bundle.json](./331568-best-sellers-complete-bundle.json) |
 | Best Served Cold | 318952 | [318952-best-served-cold.json](./318952-best-served-cold.json) |
 | Best Served Haute | 323995 | [323995-best-served-haute.json](./323995-best-served-haute.json) |
 | Best Shot Pro Golf | 44422 | [44422-best-shot-pro-golf.json](./44422-best-shot-pro-golf.json) |
@@ -13829,6 +13830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bontãgo | 93086 | [93086-bontago.json](./93086-bontago.json) |
 | Bonus Mania Slots Vol. 3 | 24457 | [24457-bonus-mania-slots-vol-3.json](./24457-bonus-mania-slots-vol-3.json) |
 | Bonus Mania Slots Vol.5 | 25481 | [25481-bonus-mania-slots-vol-5.json](./25481-bonus-mania-slots-vol-5.json) |
+| Bonville Bandit | 331598 | [331598-bonville-bandit.json](./331598-bonville-bandit.json) |
 | BonVoyage! | 118785 | [118785-bonvoyage.json](./118785-bonvoyage.json) |
 | Bonx | 92059 | [92059-bonx.json](./92059-bonx.json) |
 | Bony Bones Adventures | 303358 | [303358-bony-bones-adventures.json](./303358-bony-bones-adventures.json) |
@@ -17889,6 +17891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buccanyar | 245661 | [245661-buccanyar.json](./245661-buccanyar.json) |
 | Buciyo 5 | 307829 | [307829-buciyo-5.json](./307829-buciyo-5.json) |
 | Buck | 33521 | [33521-buck.json](./33521-buck.json) |
+| Buck 'n Grunts Bundle | 331569 | [331569-buck-n-grunts-bundle.json](./331569-buck-n-grunts-bundle.json) |
 | Buck and the Coin of Destiny | 315070 | [315070-buck-and-the-coin-of-destiny.json](./315070-buck-and-the-coin-of-destiny.json) |
 | Buck and the Cursed Cartridge | 376636 | [376636-buck-and-the-cursed-cartridge.json](./376636-buck-and-the-cursed-cartridge.json) |
 | Buck Blastem | 322987 | [322987-buck-blastem.json](./322987-buck-blastem.json) |
@@ -18611,6 +18614,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulwark Evolution: Falconeer Chronicles - Dreadnot Day One | 294008 | [294008-bulwark-evolution-falconeer-chronicles-dreadnot-day-one.json](./294008-bulwark-evolution-falconeer-chronicles-dreadnot-day-one.json) |
 | Bulwark Evolution: Falconeer Chronicles - GunBoat | 350915 | [350915-bulwark-evolution-falconeer-chronicles-gunboat.json](./350915-bulwark-evolution-falconeer-chronicles-gunboat.json) |
 | Bulwark Evolution: Falconeer Chronicles - Mad Lector | 350925 | [350925-bulwark-evolution-falconeer-chronicles-mad-lector.json](./350925-bulwark-evolution-falconeer-chronicles-mad-lector.json) |
+| Bulwark Evolution: Falconeer Chronicles - Mad Lector Bundle | 331570 | [331570-bulwark-evolution-falconeer-chronicles-mad-lector-bundle.json](./331570-bulwark-evolution-falconeer-chronicles-mad-lector-bundle.json) |
+| Bulwark Evolution: Falconeer Chronicles - Mongres Trader Bundle | 331571 | [331571-bulwark-evolution-falconeer-chronicles-mongres-trader-bundle.json](./331571-bulwark-evolution-falconeer-chronicles-mongres-trader-bundle.json) |
 | Bulwark Evolution: Falconeer Chronicles - Mongres Trader Pack | 351177 | [351177-bulwark-evolution-falconeer-chronicles-mongres-trader-pack.json](./351177-bulwark-evolution-falconeer-chronicles-mongres-trader-pack.json) |
 | Bulwark Evolution: Falconeer Chronicles - Verne Bannerless Pack | 351176 | [351176-bulwark-evolution-falconeer-chronicles-verne-bannerless-pack.json](./351176-bulwark-evolution-falconeer-chronicles-verne-bannerless-pack.json) |
 | Bulwark: Falconeer Chronicles - Berracutta | 351178 | [351178-bulwark-falconeer-chronicles-berracutta.json](./351178-bulwark-falconeer-chronicles-berracutta.json) |
