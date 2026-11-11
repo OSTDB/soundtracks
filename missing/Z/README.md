@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zack Zero | 7490 | [7490-zack-zero.json](./7490-zack-zero.json) |
 | Zack! | 106300 | [106300-zack.json](./106300-zack.json) |
 | Zackman | 385842 | [385842-zackman.json](./385842-zackman.json) |
+| Zad Archery | 392540 | [392540-zad-archery.json](./392540-zad-archery.json) |
 | Zad Maldan My Bloody Sacrifice | 219679 | [219679-zad-maldan-my-bloody-sacrifice.json](./219679-zad-maldan-my-bloody-sacrifice.json) |
 | Zadel Princess | 191827 | [191827-zadel-princess.json](./191827-zadel-princess.json) |
 | Zadette | 142654 | [142654-zadette.json](./142654-zadette.json) |
