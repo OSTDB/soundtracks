@@ -9602,6 +9602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circuit Breakers | 135771 | [135771-circuit-breakers.json](./135771-circuit-breakers.json) |
 | Circuit Breakers | 34753 | [34753-circuit-breakers.json](./34753-circuit-breakers.json) |
 | Circuit Breakout: Dual Polarity | 250544 | [250544-circuit-breakout-dual-polarity.json](./250544-circuit-breakout-dual-polarity.json) |
+| Circuit Chakula | 345167 | [345167-circuit-chakula.json](./345167-circuit-chakula.json) |
 | Circuit City | 188676 | [188676-circuit-city.json](./188676-circuit-city.json) |
 | Circuit Defender | 211197 | [211197-circuit-defender.json](./211197-circuit-defender.json) |
 | Circuit Defender | 380074 | [380074-circuit-defender.json](./380074-circuit-defender.json) |
@@ -18925,6 +18926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critterball Derby | 293594 | [293594-critterball-derby.json](./293594-critterball-derby.json) |
 | CritterGarden | 273766 | [273766-crittergarden.json](./273766-crittergarden.json) |
 | Critterland | 167458 | [167458-critterland.json](./167458-critterland.json) |
+| Critterrupters | 345184 | [345184-critterrupters.json](./345184-critterrupters.json) |
 | Critters Breakout | 373355 | [373355-critters-breakout.json](./373355-critters-breakout.json) |
 | Critters for Sale | 123420 | [123420-critters-for-sale.json](./123420-critters-for-sale.json) |
 | Critters for Sale: Snake | 158055 | [158055-critters-for-sale-snake.json](./158055-critters-for-sale-snake.json) |
