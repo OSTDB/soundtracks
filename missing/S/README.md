@@ -14572,6 +14572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Guy | 348881 | [348881-slime-guy.json](./348881-slime-guy.json) |
 | Slime Hero | 216890 | [216890-slime-hero.json](./216890-slime-hero.json) |
 | Slime Heroes | 152171 | [152171-slime-heroes.json](./152171-slime-heroes.json) |
+| Slime in a Trench Coat: A Cooking Mystery | 323473 | [323473-slime-in-a-trench-coat-a-cooking-mystery.json](./323473-slime-in-a-trench-coat-a-cooking-mystery.json) |
 | Slime in the Ice Machine | 414391 | [414391-slime-in-the-ice-machine.json](./414391-slime-in-the-ice-machine.json) |
 | Slime Islands | 188468 | [188468-slime-islands.json](./188468-slime-islands.json) |
 | Slime Jump | 411758 | [411758-slime-jump.json](./411758-slime-jump.json) |
@@ -16806,6 +16807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snuff | 399121 | [399121-snuff.json](./399121-snuff.json) |
 | Snuff Puppy Shelter | 400607 | [400607-snuff-puppy-shelter.json](./400607-snuff-puppy-shelter.json) |
 | Snufkin: Melody of Moominvalley - Cherished Keepsakes | 288289 | [288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json](./288289-snufkin-melody-of-moominvalley-cherished-keepsakes.json) |
+| Snufkin: Melody of Moominvalley - Fuddler's Courtship | 322884 | [322884-snufkin-melody-of-moominvalley-fuddlers-courtship.json](./322884-snufkin-melody-of-moominvalley-fuddlers-courtship.json) |
 | Snug | 375366 | [375366-snug.json](./375366-snug.json) |
 | Snug Finder | 207879 | [207879-snug-finder.json](./207879-snug-finder.json) |
 | Snug Finder & Puzzles | 231059 | [231059-snug-finder-and-puzzles.json](./231059-snug-finder-and-puzzles.json) |
@@ -22139,6 +22141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartoi Meadow | 149147 | [149147-spartoi-meadow.json](./149147-spartoi-meadow.json) |
 | Spårvagn | 142361 | [142361-sparvagn.json](./142361-sparvagn.json) |
 | Sparx | 120508 | [120508-sparx.json](./120508-sparx.json) |
+| Spase Defense | 323470 | [323470-spase-defense.json](./323470-spase-defense.json) |
 | Spasibo: Spanking Simulation Box | 414008 | [414008-spasibo-spanking-simulation-box.json](./414008-spasibo-spanking-simulation-box.json) |
 | Spasms of Stupidity | 265725 | [265725-spasms-of-stupidity.json](./265725-spasms-of-stupidity.json) |
 | Spaß Taxi | 128396 | [128396-spa-taxi.json](./128396-spa-taxi.json) |
@@ -34107,6 +34110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Construct 2: Yoshi's Fabrication Station | 250040 | [250040-super-mario-construct-2-yoshis-fabrication-station.json](./250040-super-mario-construct-2-yoshis-fabrication-station.json) |
 | Super Mario Continuance | 266356 | [266356-super-mario-continuance.json](./266356-super-mario-continuance.json) |
 | Super Mario Country | 321888 | [321888-super-mario-country.json](./321888-super-mario-country.json) |
+| Super Mario Coz | 322890 | [322890-super-mario-coz.json](./322890-super-mario-coz.json) |
 | Super Mario Craft | 313112 | [313112-super-mario-craft.json](./313112-super-mario-craft.json) |
 | Super Mario Cyclone Fighter | 350754 | [350754-super-mario-cyclone-fighter.json](./350754-super-mario-cyclone-fighter.json) |
 | Super Mario Death Row 2: Shroomshank Redemption | 220042 | [220042-super-mario-death-row-2-shroomshank-redemption.json](./220042-super-mario-death-row-2-shroomshank-redemption.json) |
@@ -34221,6 +34225,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Maker: Key Update! | 364580 | [364580-super-mario-maker-key-update.json](./364580-super-mario-maker-key-update.json) |
 | Super Mario Maker: World Engine | 360912 | [360912-super-mario-maker-world-engine.json](./360912-super-mario-maker-world-engine.json) |
 | Super Mario Megamix | 72323 | [72323-super-mario-megamix.json](./72323-super-mario-megamix.json) |
+| Super Mario Melatonin | 322893 | [322893-super-mario-melatonin.json](./322893-super-mario-melatonin.json) |
+| Super Mario Melatonin 3 | 322894 | [322894-super-mario-melatonin-3.json](./322894-super-mario-melatonin-3.json) |
 | Super Mario Meltdown | 313408 | [313408-super-mario-meltdown.json](./313408-super-mario-meltdown.json) |
 | Super Mario Moonlight | 313080 | [313080-super-mario-moonlight.json](./313080-super-mario-moonlight.json) |
 | Super Mario Moonlite World | 260832 | [260832-super-mario-moonlite-world.json](./260832-super-mario-moonlite-world.json) |
@@ -34306,6 +34312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Surf | 324094 | [324094-super-mario-surf.json](./324094-super-mario-surf.json) |
 | Super Mario Terrestrial | 323053 | [323053-super-mario-terrestrial.json](./323053-super-mario-terrestrial.json) |
 | Super Mario the Nightshift | 324006 | [324006-super-mario-the-nightshift.json](./324006-super-mario-the-nightshift.json) |
+| Super Mario Theta | 322895 | [322895-super-mario-theta.json](./322895-super-mario-theta.json) |
 | Super Mario Ticks of Time | 323582 | [323582-super-mario-ticks-of-time.json](./323582-super-mario-ticks-of-time.json) |
 | Super Mario Timeless Rendezvous | 382413 | [382413-super-mario-timeless-rendezvous.json](./382413-super-mario-timeless-rendezvous.json) |
 | Super Mario Toxic Tension | 314110 | [314110-super-mario-toxic-tension.json](./314110-super-mario-toxic-tension.json) |
@@ -35735,6 +35742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wash Simulator | 391040 | [391040-super-wash-simulator.json](./391040-super-wash-simulator.json) |
 | Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
 | Super Web Kittens: Act I | 119203 | [119203-super-web-kittens-act-i.json](./119203-super-web-kittens-act-i.json) |
+| Super Web Soccer | 323446 | [323446-super-web-soccer.json](./323446-super-web-soccer.json) |
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
 | Super Whatever Quest!!! | 277063 | [277063-super-whatever-quest.json](./277063-super-whatever-quest.json) |
 | Super Whiplash | 160077 | [160077-super-whiplash.json](./160077-super-whiplash.json) |
@@ -36148,6 +36156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernatural Visual Novel: The Fourteenth Guzai Vol. 1 & 2 | 373524 | [373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json](./373524-supernatural-visual-novel-the-fourteenth-guzai-vol-1-and-2.json) |
 | Supernatural: The Game | 316718 | [316718-supernatural-the-game.json](./316718-supernatural-the-game.json) |
 | Supernaturals | 66358 | [66358-supernaturals.json](./66358-supernaturals.json) |
+| Superno | 323468 | [323468-superno.json](./323468-superno.json) |
 | Supernormal | 278716 | [278716-supernormal.json](./278716-supernormal.json) |
 | Supernova | 100090 | [100090-supernova.json](./100090-supernova.json) |
 | Supernova | 11463 | [11463-supernova.json](./11463-supernova.json) |
