@@ -2981,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3720,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Tales 2 | 10487 | [10487-kingdom-tales-2.json](./10487-kingdom-tales-2.json) |
 | Kingdom Traveler | 189080 | [189080-kingdom-traveler.json](./189080-kingdom-traveler.json) |
 | Kingdom Treasury Collection | 121422 | [121422-kingdom-treasury-collection.json](./121422-kingdom-treasury-collection.json) |
+| Kingdom Two Crowns: 10th Rulerversary Update | 368699 | [368699-kingdom-two-crowns-10th-rulerversary-update.json](./368699-kingdom-two-crowns-10th-rulerversary-update.json) |
 | Kingdom Two Crowns: Call of Olympus | 291949 | [291949-kingdom-two-crowns-call-of-olympus.json](./291949-kingdom-two-crowns-call-of-olympus.json) |
 | Kingdom Two Crowns: Essentials Pack | 324494 | [324494-kingdom-two-crowns-essentials-pack.json](./324494-kingdom-two-crowns-essentials-pack.json) |
 | Kingdom Two Crowns: Jarl Edition | 186896 | [186896-kingdom-two-crowns-jarl-edition.json](./186896-kingdom-two-crowns-jarl-edition.json) |
