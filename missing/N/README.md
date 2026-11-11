@@ -1972,6 +1972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Needle in a Haystack | 417152 | [417152-needle-in-a-haystack.json](./417152-needle-in-a-haystack.json) |
 | Needle in a Haystack: A Time for Goats | 417153 | [417153-needle-in-a-haystack-a-time-for-goats.json](./417153-needle-in-a-haystack-a-time-for-goats.json) |
 | Needle Of Anger | 254671 | [254671-needle-of-anger.json](./254671-needle-of-anger.json) |
+| Needle Sleep | 394239 | [394239-needle-sleep.json](./394239-needle-sleep.json) |
 | Needy Dragons | 220678 | [220678-needy-dragons.json](./220678-needy-dragons.json) |
 | Needy Princess Nerd Club | 256066 | [256066-needy-princess-nerd-club.json](./256066-needy-princess-nerd-club.json) |
 | Needy Streamer Overload | 146564 | [146564-needy-streamer-overload.json](./146564-needy-streamer-overload.json) |
@@ -6628,6 +6629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodame Cantabile: Dream Orchestra | 268432 | [268432-nodame-cantabile-dream-orchestra.json](./268432-nodame-cantabile-dream-orchestra.json) |
 | Noddy and the Birthday Party | 50549 | [50549-noddy-and-the-birthday-party.json](./50549-noddy-and-the-birthday-party.json) |
 | Noddy and the Magic Book | 83367 | [83367-noddy-and-the-magic-book.json](./83367-noddy-and-the-magic-book.json) |
+| Noddy and the Toyland Fair | 394245 | [394245-noddy-and-the-toyland-fair.json](./394245-noddy-and-the-toyland-fair.json) |
 | Noddy in Toyland | 98333 | [98333-noddy-in-toyland.json](./98333-noddy-in-toyland.json) |
 | Noddy: A Day in Toyland | 49388 | [49388-noddy-a-day-in-toyland.json](./49388-noddy-a-day-in-toyland.json) |
 | Noddy: Detective for a Day | 73664 | [73664-noddy-detective-for-a-day.json](./73664-noddy-detective-for-a-day.json) |
