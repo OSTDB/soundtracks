@@ -2970,6 +2970,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the Center of Hawkthorne | 47032 | [47032-journey-to-the-center-of-hawkthorne.json](./47032-journey-to-the-center-of-hawkthorne.json) |
 | Journey to the Center of the Earth | 297693 | [297693-journey-to-the-center-of-the-earth.json](./297693-journey-to-the-center-of-the-earth.json) |
 | Journey to the Center of the Earth | 32597 | [32597-journey-to-the-center-of-the-earth.json](./32597-journey-to-the-center-of-the-earth.json) |
+| Journey to the Center of the Earth | 350126 | [350126-journey-to-the-center-of-the-earth.json](./350126-journey-to-the-center-of-the-earth.json) |
+| Journey to the Center of the Earth | 350127 | [350127-journey-to-the-center-of-the-earth.json](./350127-journey-to-the-center-of-the-earth.json) |
+| Journey to the Center of the Earth | 350128 | [350128-journey-to-the-center-of-the-earth.json](./350128-journey-to-the-center-of-the-earth.json) |
 | Journey to the Center of the Earth | 375864 | [375864-journey-to-the-center-of-the-earth.json](./375864-journey-to-the-center-of-the-earth.json) |
 | Journey to the Center of the Earth | 59862 | [59862-journey-to-the-center-of-the-earth.json](./59862-journey-to-the-center-of-the-earth.json) |
 | Journey to the Center of the Earth | 81426 | [81426-journey-to-the-center-of-the-earth.json](./81426-journey-to-the-center-of-the-earth.json) |
@@ -4278,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 3: Valentine Pack | 386639 | [386639-just-dance-3-valentine-pack.json](./386639-just-dance-3-valentine-pack.json) |
 | Just Dance 4 | 3255 | [3255-just-dance-4.json](./3255-just-dance-4.json) |
 | Just Dance 4: Special Edition | 241439 | [241439-just-dance-4-special-edition.json](./241439-just-dance-4-special-edition.json) |
+| Just Dance East | 350103 | [350103-just-dance-east.json](./350103-just-dance-east.json) |
 | Just Dance Kids | 3299 | [3299-just-dance-kids.json](./3299-just-dance-kids.json) |
 | Just Dance Kids 2 | 3300 | [3300-just-dance-kids-2.json](./3300-just-dance-kids-2.json) |
 | Just Dance Kids 2014 | 3301 | [3301-just-dance-kids-2014.json](./3301-just-dance-kids-2014.json) |
@@ -4291,6 +4295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance: Disney Party 2 | 19340 | [19340-just-dance-disney-party-2.json](./19340-just-dance-disney-party-2.json) |
 | Just Dance: Greatest Hits | 241441 | [241441-just-dance-greatest-hits.json](./241441-just-dance-greatest-hits.json) |
 | Just Dance: Summer Party | 14982 | [14982-just-dance-summer-party.json](./14982-just-dance-summer-party.json) |
+| Just Dance: Unlimited Party - Volume 1 | 350105 | [350105-just-dance-unlimited-party-volume-1.json](./350105-just-dance-unlimited-party-volume-1.json) |
 | Just Dance: Vitality School | 250329 | [250329-just-dance-vitality-school.json](./250329-just-dance-vitality-school.json) |
 | Just Dance.exe | 292066 | [292066-just-dance-exe.json](./292066-just-dance-exe.json) |
 | Just Dash | 107912 | [107912-just-dash.json](./107912-just-dash.json) |
