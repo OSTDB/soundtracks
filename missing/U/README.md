@@ -2247,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnFound | 132471 | [132471-unfound.json](./132471-unfound.json) |
 | Unfound Footage | 347743 | [347743-unfound-footage.json](./347743-unfound-footage.json) |
 | Unfreeze Penguins | 416164 | [416164-unfreeze-penguins.json](./416164-unfreeze-penguins.json) |
+| Unfriendly Friend | 331588 | [331588-unfriendly-friend.json](./331588-unfriendly-friend.json) |
 | Unfrost | 423998 | [423998-unfrost.json](./423998-unfrost.json) |
 | Unfunded: An SCP Management Game | 180931 | [180931-unfunded-an-scp-management-game.json](./180931-unfunded-an-scp-management-game.json) |
 | Unga Needs Mumba | 327668 | [327668-unga-needs-mumba.json](./327668-unga-needs-mumba.json) |
