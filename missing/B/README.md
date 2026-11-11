@@ -14794,6 +14794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Chicken | 306529 | [306529-bouncy-chicken.json](./306529-bouncy-chicken.json) |
 | Bouncy Click | 366274 | [366274-bouncy-click.json](./366274-bouncy-click.json) |
 | Bouncy Cloud | 156724 | [156724-bouncy-cloud.json](./156724-bouncy-cloud.json) |
+| Bouncy Colors | 351342 | [351342-bouncy-colors.json](./351342-bouncy-colors.json) |
 | Bouncy Cube | 190334 | [190334-bouncy-cube.json](./190334-bouncy-cube.json) |
 | Bouncy Drops | 295987 | [295987-bouncy-drops.json](./295987-bouncy-drops.json) |
 | Bouncy Ducks | 69476 | [69476-bouncy-ducks.json](./69476-bouncy-ducks.json) |
