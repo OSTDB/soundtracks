@@ -5771,6 +5771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Acid Queens of the Moon | 379409 | [379409-the-acid-queens-of-the-moon.json](./379409-the-acid-queens-of-the-moon.json) |
 | The Acorn Bounty | 321920 | [321920-the-acorn-bounty.json](./321920-the-acorn-bounty.json) |
 | The Acorn Protocol | 408036 | [408036-the-acorn-protocol.json](./408036-the-acorn-protocol.json) |
+| The Acrobats | 387249 | [387249-the-acrobats.json](./387249-the-acrobats.json) |
 | The Act | 64990 | [64990-the-act.json](./64990-the-act.json) |
 | The Act: An Interactive Comedy | 300664 | [300664-the-act-an-interactive-comedy.json](./300664-the-act-an-interactive-comedy.json) |
 | The Action Pack | 69649 | [69649-the-action-pack.json](./69649-the-action-pack.json) |
@@ -26630,6 +26631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tone's froggy adventure! | 229094 | [229094-tones-froggy-adventure.json](./229094-tones-froggy-adventure.json) |
 | Tonetaker VR | 123510 | [123510-tonetaker-vr.json](./123510-tonetaker-vr.json) |
 | ToneTrek | 356016 | [356016-tonetrek.json](./356016-tonetrek.json) |
+| Tong | 387261 | [387261-tong.json](./387261-tong.json) |
 | Tong Create Thorns | 358513 | [358513-tong-create-thorns.json](./358513-tong-create-thorns.json) |
 | Tóng Dāo Yín Jiàn | 373707 | [373707-tong-dao-yin-jian.json](./373707-tong-dao-yin-jian.json) |
 | Tong Jyun | 178488 | [178488-tong-jyun.json](./178488-tong-jyun.json) |
@@ -27638,6 +27640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Unbalanced | 32402 | [32402-totally-unbalanced.json](./32402-totally-unbalanced.json) |
 | Totally Working Game | 168130 | [168130-totally-working-game.json](./168130-totally-working-game.json) |
 | TotalNerds | 208254 | [208254-totalnerds.json](./208254-totalnerds.json) |
+| Tote & Go Laptop | 387073 | [387073-tote-and-go-laptop.json](./387073-tote-and-go-laptop.json) |
 | Totem | 32070 | [32070-totem.json](./32070-totem.json) |
 | Totem | 396483 | [396483-totem.json](./396483-totem.json) |
 | Totem | 85888 | [85888-totem.json](./85888-totem.json) |
@@ -31385,6 +31388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transfer Point | 395064 | [395064-transfer-point.json](./395064-transfer-point.json) |
 | Transference | 37064 | [37064-transference.json](./37064-transference.json) |
 | Transformagician | 181457 | [181457-transformagician.json](./181457-transformagician.json) |
+| Transformation Masks in Ocarina of Time | 387178 | [387178-transformation-masks-in-ocarina-of-time.json](./387178-transformation-masks-in-ocarina-of-time.json) |
 | Transformation Tycoon | 192646 | [192646-transformation-tycoon.json](./192646-transformation-tycoon.json) |
 | Transformer | 40500 | [40500-transformer.json](./40500-transformer.json) |
 | Transformers | 18361 | [18361-transformers.json](./18361-transformers.json) |
