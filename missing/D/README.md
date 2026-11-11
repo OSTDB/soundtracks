@@ -316,6 +316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon x Machina: Titanic Scion - Special Equipment Set | 349604 | [349604-daemon-x-machina-titanic-scion-special-equipment-set.json](./349604-daemon-x-machina-titanic-scion-special-equipment-set.json) |
 | Daemon x Machina: Titanic Scion - Special SFX Weapon Set | 349605 | [349605-daemon-x-machina-titanic-scion-special-sfx-weapon-set.json](./349605-daemon-x-machina-titanic-scion-special-sfx-weapon-set.json) |
 | Daemon x Machina: Titanic Scion - Super Digital Deluxe Edition | 349592 | [349592-daemon-x-machina-titanic-scion-super-digital-deluxe-edition.json](./349592-daemon-x-machina-titanic-scion-super-digital-deluxe-edition.json) |
+| Daemon x Machina: Titanic Scion - Vehicle Set | 375686 | [375686-daemon-x-machina-titanic-scion-vehicle-set.json](./375686-daemon-x-machina-titanic-scion-vehicle-set.json) |
 | Daemon: The Wolf, the Witch, and the Labyrinth | 390477 | [390477-daemon-the-wolf-the-witch-and-the-labyrinth.json](./390477-daemon-the-wolf-the-witch-and-the-labyrinth.json) |
 | Daemonfall | 345115 | [345115-daemonfall.json](./345115-daemonfall.json) |
 | Daemonic Runner | 127779 | [127779-daemonic-runner.json](./127779-daemonic-runner.json) |
@@ -614,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dali | 409075 | [409075-dali.json](./409075-dali.json) |
 | Dalig the Ghost Killer | 415795 | [415795-dalig-the-ghost-killer.json](./415795-dalig-the-ghost-killer.json) |
 | Dallen Clicker Ultimate | 149768 | [149768-dallen-clicker-ultimate.json](./149768-dallen-clicker-ultimate.json) |
+| Dally Doo You Can Too! Numbers | 375719 | [375719-dally-doo-you-can-too-numbers.json](./375719-dally-doo-you-can-too-numbers.json) |
 | Dallyeola Pigu Wang | 125971 | [125971-dallyeola-pigu-wang.json](./125971-dallyeola-pigu-wang.json) |
 | Dalmatians 2 | 44846 | [44846-dalmatians-2.json](./44846-dalmatians-2.json) |
 | Dalmatians 3 | 43473 | [43473-dalmatians-3.json](./43473-dalmatians-3.json) |
@@ -4177,6 +4179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Shell | 193943 | [193943-dead-shell.json](./193943-dead-shell.json) |
 | Dead Shells | 295394 | [295394-dead-shells.json](./295394-dead-shells.json) |
 | Dead Shits | 129690 | [129690-dead-shits.json](./129690-dead-shits.json) |
+| Dead Sight | 375741 | [375741-dead-sight.json](./375741-dead-sight.json) |
 | Dead Signal | 269849 | [269849-dead-signal.json](./269849-dead-signal.json) |
 | Dead Silence: Echoes of the Damned | 336007 | [336007-dead-silence-echoes-of-the-damned.json](./336007-dead-silence-echoes-of-the-damned.json) |
 | Dead Simple 21 | 123565 | [123565-dead-simple-21.json](./123565-dead-simple-21.json) |
@@ -6946,6 +6949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Slayer: Kimetsu no Yaiba - Sweep the Board! | 266193 | [266193-demon-slayer-kimetsu-no-yaiba-sweep-the-board.json](./266193-demon-slayer-kimetsu-no-yaiba-sweep-the-board.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles | 153054 | [153054-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json](./153054-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2 | 337907 | [337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json](./337907-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2.json) |
+| Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2 - Kaigaku Character Pack | 375684 | [375684-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-kaigaku-character-pack.json](./375684-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-kaigaku-character-pack.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles 2: Deluxe Edition | 345692 | [345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json](./345692-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-deluxe-edition.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Additional Costume Pack - Kimetsu Academy Summer Uniforms | 230981 | [230981-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-additional-costume-pack-kimetsu-academy-summer-uniforms.json](./230981-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-additional-costume-pack-kimetsu-academy-summer-uniforms.json) |
 | Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles: Akaza (Infinity Castle) Character Pack | 376262 | [376262-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-akaza-infinity-castle-character-pack.json](./376262-demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-akaza-infinity-castle-character-pack.json) |
@@ -9500,6 +9504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diercke: Junior-Quiz Geographie | 269744 | [269744-diercke-junior-quiz-geographie.json](./269744-diercke-junior-quiz-geographie.json) |
 | DieRoll | 88263 | [88263-dieroll.json](./88263-dieroll.json) |
 | Diery Heaven | 158872 | [158872-diery-heaven.json](./158872-diery-heaven.json) |
+| Dies Irae | 375732 | [375732-dies-irae.json](./375732-dies-irae.json) |
 | Dies Irae: Amantes Amentes | 37018 | [37018-dies-irae-amantes-amentes.json](./37018-dies-irae-amantes-amentes.json) |
 | Dies Irae: Amantes Amentes - Act I: Omnia Vincit Amor (Kasumi & Marie Scenario) | 174420 | [174420-dies-irae-amantes-amentes-act-i-omnia-vincit-amor-kasumi-and-marie-scenario.json](./174420-dies-irae-amantes-amentes-act-i-omnia-vincit-amor-kasumi-and-marie-scenario.json) |
 | Dies Irae: Amantes Amentes - Act II: Nihil Difficile Amanti (Kei & Rea Scenario) | 174536 | [174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json](./174536-dies-irae-amantes-amentes-act-ii-nihil-difficile-amanti-kei-and-rea-scenario.json) |
