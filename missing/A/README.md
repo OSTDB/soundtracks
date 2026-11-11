@@ -5483,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ah, Love! Season 4 | 388477 | [388477-ah-love-season-4.json](./388477-ah-love-season-4.json) |
 | Ah! Heaven | 84737 | [84737-ah-heaven.json](./84737-ah-heaven.json) |
 | Ah!! My Roommate is a Succubus Hellbent on World Conquest!! | 178738 | [178738-ah-my-roommate-is-a-succubus-hellbent-on-world-conquest.json](./178738-ah-my-roommate-is-a-succubus-hellbent-on-world-conquest.json) |
+| Ah!Zombies HD | 334960 | [334960-ah-zombies-hd.json](./334960-ah-zombies-hd.json) |
 | Ah. Ah. Ah. | 406654 | [406654-ah-ah-ah.json](./406654-ah-ah-ah.json) |
 | AH3AD: Retrowave Runner | 191583 | [191583-ah3ad-retrowave-runner.json](./191583-ah3ad-retrowave-runner.json) |
 | Aha Hit tile 3D | 101321 | [101321-aha-hit-tile-3d.json](./101321-aha-hit-tile-3d.json) |
@@ -11271,6 +11272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Uni St. Patrick’s Puzzle | 394996 | [394996-anime-uni-st-patrick-s-puzzle.json](./394996-anime-uni-st-patrick-s-puzzle.json) |
 | Anime Vampire Slayer | 118421 | [118421-anime-vampire-slayer.json](./118421-anime-vampire-slayer.json) |
 | Anime vs. Evil: Apocalypse | 238081 | [238081-anime-vs-evil-apocalypse.json](./238081-anime-vs-evil-apocalypse.json) |
+| Anime Waifu Simulator: Sakura Garden | 334990 | [334990-anime-waifu-simulator-sakura-garden.json](./334990-anime-waifu-simulator-sakura-garden.json) |
 | Anime War: Modern Campaign | 135664 | [135664-anime-war-modern-campaign.json](./135664-anime-war-modern-campaign.json) |
 | Anime Warriors Clash | 366755 | [366755-anime-warriors-clash.json](./366755-anime-warriors-clash.json) |
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
@@ -18174,6 +18176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Wilds | 216661 | [216661-atomic-wilds.json](./216661-atomic-wilds.json) |
 | Atomica | 379989 | [379989-atomica.json](./379989-atomica.json) |
 | Atomical | 364367 | [364367-atomical.json](./364367-atomical.json) |
+| Atomicboy 2 | 334999 | [334999-atomicboy-2.json](./334999-atomicboy-2.json) |
 | Atomicrops | 76954 | [76954-atomicrops.json](./76954-atomicrops.json) |
 | Atomicrops Double Bundle | 263611 | [263611-atomicrops-double-bundle.json](./263611-atomicrops-double-bundle.json) |
 | Atomicrops: Deerly Beloved | 224435 | [224435-atomicrops-deerly-beloved.json](./224435-atomicrops-deerly-beloved.json) |
