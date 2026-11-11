@@ -6129,6 +6129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seraphim Flame | 402352 | [402352-seraphim-flame.json](./402352-seraphim-flame.json) |
 | Seraphim Slum | 272162 | [272162-seraphim-slum.json](./272162-seraphim-slum.json) |
 | Seraphim: Master of Legend | 146537 | [146537-seraphim-master-of-legend.json](./146537-seraphim-master-of-legend.json) |
+| Seraphima | 350665 | [350665-seraphima.json](./350665-seraphima.json) |
 | Seraphims of Astraeus | 109332 | [109332-seraphims-of-astraeus.json](./109332-seraphims-of-astraeus.json) |
 | Seraphine's Skyward Journey | 388054 | [388054-seraphines-skyward-journey.json](./388054-seraphines-skyward-journey.json) |
 | Seraphixial | 392164 | [392164-seraphixial.json](./392164-seraphixial.json) |
@@ -6374,6 +6375,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Session: Skate Sim - Brandalised Pack | 231325 | [231325-session-skate-sim-brandalised-pack.json](./231325-session-skate-sim-brandalised-pack.json) |
 | Session: Skate Sim - Deluxe Edition | 218488 | [218488-session-skate-sim-deluxe-edition.json](./218488-session-skate-sim-deluxe-edition.json) |
 | Session: Skate Sim - El Lay | 377891 | [377891-session-skate-sim-el-lay.json](./377891-session-skate-sim-el-lay.json) |
+| Session: Skate Sim - Paris | 350688 | [350688-session-skate-sim-paris.json](./350688-session-skate-sim-paris.json) |
+| Session: Skate Sim - Prague | 350690 | [350690-session-skate-sim-prague.json](./350690-session-skate-sim-prague.json) |
 | Session: Skate Sim - Schoolyard | 293491 | [293491-session-skate-sim-schoolyard.json](./293491-session-skate-sim-schoolyard.json) |
 | Session: Skate Sim - Year 1 Pack | 285110 | [285110-session-skate-sim-year-1-pack.json](./285110-session-skate-sim-year-1-pack.json) |
 | Session: Skate Sim - Year One Complete Edition | 284760 | [284760-session-skate-sim-year-one-complete-edition.json](./284760-session-skate-sim-year-one-complete-edition.json) |
@@ -18912,6 +18915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast 2: Top Down | 282704 | [282704-sonic-robo-blast-2-top-down.json](./282704-sonic-robo-blast-2-top-down.json) |
 | Sonic Robo Blast! | 201071 | [201071-sonic-robo-blast.json](./201071-sonic-robo-blast.json) |
 | Sonic Robo Christmas Blast | 280224 | [280224-sonic-robo-christmas-blast.json](./280224-sonic-robo-christmas-blast.json) |
+| Sonic Robo Smash | 350699 | [350699-sonic-robo-smash.json](./350699-sonic-robo-smash.json) |
 | Sonic Robo-Blast! From The Past | 280017 | [280017-sonic-robo-blast-from-the-past.json](./280017-sonic-robo-blast-from-the-past.json) |
 | Sonic Rock 2 | 331076 | [331076-sonic-rock-2.json](./331076-sonic-rock-2.json) |
 | Sonic Roll-a-Ball | 326162 | [326162-sonic-roll-a-ball.json](./326162-sonic-roll-a-ball.json) |
@@ -35622,6 +35626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yakyuudou 2 | 66208 | [66208-super-yakyuudou-2.json](./66208-super-yakyuudou-2.json) |
 | Super Yakyuudou Limited | 91655 | [91655-super-yakyuudou-limited.json](./91655-super-yakyuudou-limited.json) |
 | Super Yandere 64 | 145770 | [145770-super-yandere-64.json](./145770-super-yandere-64.json) |
+| Super Yapori Minigames | 350718 | [350718-super-yapori-minigames.json](./350718-super-yapori-minigames.json) |
 | Super Yodelland: Legend of the Katzenbär | 192564 | [192564-super-yodelland-legend-of-the-katzenbar.json](./192564-super-yodelland-legend-of-the-katzenbar.json) |
 | Super Yoshi no Tamago | 319823 | [319823-super-yoshi-no-tamago.json](./319823-super-yoshi-no-tamago.json) |
 | Super Yuki Onna-chan | 154423 | [154423-super-yuki-onna-chan.json](./154423-super-yuki-onna-chan.json) |
