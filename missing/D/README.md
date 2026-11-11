@@ -11877,6 +11877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Fashion Star: Beauty Edition | 300898 | [300898-diy-fashion-star-beauty-edition.json](./300898-diy-fashion-star-beauty-edition.json) |
 | DIY Fashion Star: Complete Edition | 292918 | [292918-diy-fashion-star-complete-edition.json](./292918-diy-fashion-star-complete-edition.json) |
 | DIY Fashion Star: Glow Up! | 289212 | [289212-diy-fashion-star-glow-up.json](./289212-diy-fashion-star-glow-up.json) |
+| DIY Fashion Star: Stylish Beauty Edition | 373983 | [373983-diy-fashion-star-stylish-beauty-edition.json](./373983-diy-fashion-star-stylish-beauty-edition.json) |
 | DIY Fashion Star: Stylish Edition | 305600 | [305600-diy-fashion-star-stylish-edition.json](./305600-diy-fashion-star-stylish-edition.json) |
 | DIY Fashion Star: Stylish Outfits | 289213 | [289213-diy-fashion-star-stylish-outfits.json](./289213-diy-fashion-star-stylish-outfits.json) |
 | DIY Horse Race Thing | 342860 | [342860-diy-horse-race-thing.json](./342860-diy-horse-race-thing.json) |
@@ -16442,6 +16443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons: The Helmet of the Forkai | 309756 | [309756-dragons-the-helmet-of-the-forkai.json](./309756-dragons-the-helmet-of-the-forkai.json) |
 | Dragons: Titan Uprising | 123626 | [123626-dragons-titan-uprising.json](./123626-dragons-titan-uprising.json) |
 | Dragonsbane | 38921 | [38921-dragonsbane.json](./38921-dragonsbane.json) |
+| Dragonsbane Sword Brawdia High! | 374530 | [374530-dragonsbane-sword-brawdia-high.json](./374530-dragonsbane-sword-brawdia-high.json) |
 | Dragonscale Monastery | 260170 | [260170-dragonscale-monastery.json](./260170-dragonscale-monastery.json) |
 | DragonScales 1-7 Bundle | 224328 | [224328-dragonscales-1-7-bundle.json](./224328-dragonscales-1-7-bundle.json) |
 | DragonScales 2: Beneath a Bloodstained Moon | 55821 | [55821-dragonscales-2-beneath-a-bloodstained-moon.json](./55821-dragonscales-2-beneath-a-bloodstained-moon.json) |
