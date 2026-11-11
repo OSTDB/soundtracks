@@ -1391,7 +1391,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Spark: Dragon-Horse Spirit | 290799 | [290799-tales-of-spark-dragon-horse-spirit.json](./290799-tales-of-spark-dragon-horse-spirit.json) |
 | Tales of Spark: Probation | 258496 | [258496-tales-of-spark-probation.json](./258496-tales-of-spark-probation.json) |
 | Tales of Survival Horror | 379431 | [379431-tales-of-survival-horror.json](./379431-tales-of-survival-horror.json) |
-| Tales of Symphonia | 221716 | [221716-tales-of-symphonia.json](./221716-tales-of-symphonia.json) |
 | Tales of Symphonia Chronicles | 7464 | [7464-tales-of-symphonia-chronicles.json](./7464-tales-of-symphonia-chronicles.json) |
 | Tales Of Symphonia Chronicles: Collector's Edition | 42960 | [42960-tales-of-symphonia-chronicles-collectors-edition.json](./42960-tales-of-symphonia-chronicles-collectors-edition.json) |
 | Tales of Symphonia Remastered | 217564 | [217564-tales-of-symphonia-remastered.json](./217564-tales-of-symphonia-remastered.json) |
