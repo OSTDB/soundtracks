@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarOfGods 2 | 329068 | [329068-warofgods-2.json](./329068-warofgods-2.json) |
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Waronoi | 149194 | [149194-waronoi.json](./149194-waronoi.json) |
+| WarOS | 333800 | [333800-waros.json](./333800-waros.json) |
 | Warota: I Live Next to The Demon King's Castle LOL | 399887 | [399887-warota-i-live-next-to-the-demon-kings-castle-lol.json](./399887-warota-i-live-next-to-the-demon-kings-castle-lol.json) |
 | Warp | 2347 | [2347-warp.json](./2347-warp.json) |
 | Warp | 74327 | [74327-warp.json](./74327-warp.json) |
@@ -6972,6 +6973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchy Woo | 379902 | [379902-witchy-woo.json](./379902-witchy-woo.json) |
 | Witchydoku | 419862 | [419862-witchydoku.json](./419862-witchydoku.json) |
 | With All My Heart | 253038 | [253038-with-all-my-heart.json](./253038-with-all-my-heart.json) |
+| With Dream | 333275 | [333275-with-dream.json](./333275-with-dream.json) |
 | With Every Heartbeat | 313851 | [313851-with-every-heartbeat.json](./313851-with-every-heartbeat.json) |
 | With Eyes Closed: Season 1 | 267431 | [267431-with-eyes-closed-season-1.json](./267431-with-eyes-closed-season-1.json) |
 | With Eyes Closed: Season 2 | 414314 | [414314-with-eyes-closed-season-2.json](./414314-with-eyes-closed-season-2.json) |
