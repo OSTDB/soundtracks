@@ -13431,7 +13431,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeyana | 32935 | [32935-runeyana.json](./32935-runeyana.json) |
 | Runflexio | 133144 | [133144-runflexio.json](./133144-runflexio.json) |
 | Runflexio: Exhibition Version | 183330 | [183330-runflexio-exhibition-version.json](./183330-runflexio-exhibition-version.json) |
-| Rungore | 220488 | [220488-rungore.json](./220488-rungore.json) |
 | Rungore: Beginner Experience | 214974 | [214974-rungore-beginner-experience.json](./214974-rungore-beginner-experience.json) |
 | RunGx | 384593 | [384593-rungx.json](./384593-rungx.json) |
 | RunGX mini | 391011 | [391011-rungx-mini.json](./391011-rungx-mini.json) |
