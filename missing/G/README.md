@@ -6270,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobutiko | 367927 | [367927-gobutiko.json](./367927-gobutiko.json) |
 | Gobyworld | 245828 | [245828-gobyworld.json](./245828-gobyworld.json) |
 | GOC Royale | 156002 | [156002-goc-royale.json](./156002-goc-royale.json) |
+| GOC-Streetz | 342311 | [342311-goc-streetz.json](./342311-goc-streetz.json) |
 | Gocco | 212769 | [212769-gocco.json](./212769-gocco.json) |
 | Gocco of War | 14677 | [14677-gocco-of-war.json](./14677-gocco-of-war.json) |
 | Gochachiru | 166562 | [166562-gochachiru.json](./166562-gochachiru.json) |
