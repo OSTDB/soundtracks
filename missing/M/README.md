@@ -173,6 +173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macbat 64: Journey of a Nice Chap | 27974 | [27974-macbat-64-journey-of-a-nice-chap.json](./27974-macbat-64-journey-of-a-nice-chap.json) |
 | Macbeth | 25915 | [25915-macbeth.json](./25915-macbeth.json) |
 | MacBlaster | 93358 | [93358-macblaster.json](./93358-macblaster.json) |
+| Maccha's World | 336238 | [336238-macchas-world.json](./336238-macchas-world.json) |
 | Macdows 95 | 110386 | [110386-macdows-95.json](./110386-macdows-95.json) |
 | Mace and Grace | 117465 | [117465-mace-and-grace.json](./117465-mace-and-grace.json) |
 | Mace Griffin: Bounty Hunter | 5904 | [5904-mace-griffin-bounty-hunter.json](./5904-mace-griffin-bounty-hunter.json) |
@@ -1958,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnitude | 322417 | [322417-magnitude.json](./322417-magnitude.json) |
 | Magnitude: Epsilon | 328101 | [328101-magnitude-epsilon.json](./328101-magnitude-epsilon.json) |
 | Magnitude: Eta | 344283 | [344283-magnitude-eta.json](./344283-magnitude-eta.json) |
+| Magnitude: Gamma | 336217 | [336217-magnitude-gamma.json](./336217-magnitude-gamma.json) |
 | Magnitude: Lambda | 356505 | [356505-magnitude-lambda.json](./356505-magnitude-lambda.json) |
 | Magnitude: Sigma | 366213 | [366213-magnitude-sigma.json](./366213-magnitude-sigma.json) |
 | Magnitude: X | 391969 | [391969-magnitude-x.json](./391969-magnitude-x.json) |
@@ -2997,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maluch Racer | 62652 | [62652-maluch-racer.json](./62652-maluch-racer.json) |
 | Maluch Racer 3 | 62644 | [62644-maluch-racer-3.json](./62644-maluch-racer-3.json) |
 | Malum Escape | 311500 | [311500-malum-escape.json](./311500-malum-escape.json) |
+| Malum Incarnatum | 336200 | [336200-malum-incarnatum.json](./336200-malum-incarnatum.json) |
 | Malus | 133214 | [133214-malus.json](./133214-malus.json) |
 | Malus Code | 33557 | [33557-malus-code.json](./33557-malus-code.json) |
 | Malvin`s Prehistoric Adventures | 129228 | [129228-malvin-s-prehistoric-adventures.json](./129228-malvin-s-prehistoric-adventures.json) |
@@ -13261,6 +13264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Caves & Cliffs - Part II | 222606 | [222606-minecraft-caves-and-cliffs-part-ii.json](./222606-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Caves & Cliffs - Part II | 223159 | [223159-minecraft-caves-and-cliffs-part-ii.json](./223159-minecraft-caves-and-cliffs-part-ii.json) |
 | Minecraft: Chaos Cubed | 406874 | [406874-minecraft-chaos-cubed.json](./406874-minecraft-chaos-cubed.json) |
+| Minecraft: Chase the Skies | 336254 | [336254-minecraft-chase-the-skies.json](./336254-minecraft-chase-the-skies.json) |
 | Minecraft: Chase the Skies | 336257 | [336257-minecraft-chase-the-skies.json](./336257-minecraft-chase-the-skies.json) |
 | Minecraft: China Edition | 129496 | [129496-minecraft-china-edition.json](./129496-minecraft-china-edition.json) |
 | Minecraft: Chinese Mythology Mash-up | 234679 | [234679-minecraft-chinese-mythology-mash-up.json](./234679-minecraft-chinese-mythology-mash-up.json) |
@@ -13358,6 +13362,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Sonic Texture Pack | 254791 | [254791-minecraft-sonic-texture-pack.json](./254791-minecraft-sonic-texture-pack.json) |
 | Minecraft: Sonic the Hedgehog | 214454 | [214454-minecraft-sonic-the-hedgehog.json](./214454-minecraft-sonic-the-hedgehog.json) |
 | Minecraft: SpongeBob SquarePants | 254265 | [254265-minecraft-spongebob-squarepants.json](./254265-minecraft-spongebob-squarepants.json) |
+| Minecraft: Spring to Life | 336251 | [336251-minecraft-spring-to-life.json](./336251-minecraft-spring-to-life.json) |
+| Minecraft: Spring to Life | 336252 | [336252-minecraft-spring-to-life.json](./336252-minecraft-spring-to-life.json) |
 | Minecraft: Stampy's Lovely World | 315117 | [315117-minecraft-stampys-lovely-world.json](./315117-minecraft-stampys-lovely-world.json) |
 | Minecraft: Star Wars - Path of the Jedi | 272800 | [272800-minecraft-star-wars-path-of-the-jedi.json](./272800-minecraft-star-wars-path-of-the-jedi.json) |
 | Minecraft: Star Wars Classic Skin Pack | 303041 | [303041-minecraft-star-wars-classic-skin-pack.json](./303041-minecraft-star-wars-classic-skin-pack.json) |
@@ -17214,6 +17220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Pitfall | 56841 | [56841-monster-pitfall.json](./56841-monster-pitfall.json) |
 | Monster Planet 2 | 233426 | [233426-monster-planet-2.json](./233426-monster-planet-2.json) |
 | Monster Poolside Sumo | 263468 | [263468-monster-poolside-sumo.json](./263468-monster-poolside-sumo.json) |
+| Monster Popper | 336230 | [336230-monster-popper.json](./336230-monster-popper.json) |
 | Monster Pow | 193720 | [193720-monster-pow.json](./193720-monster-pow.json) |
 | Monster Pro Wrestling | 42069 | [42069-monster-pro-wrestling.json](./42069-monster-pro-wrestling.json) |
 | Monster Prom | 69483 | [69483-monster-prom.json](./69483-monster-prom.json) |
