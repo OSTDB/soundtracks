@@ -582,6 +582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarantine Area: Zombie Lockdown | 375472 | [375472-quarantine-area-zombie-lockdown.json](./375472-quarantine-area-zombie-lockdown.json) |
 | Quarantine Arena | 138630 | [138630-quarantine-arena.json](./138630-quarantine-arena.json) |
 | Quarantine Breach | 260511 | [260511-quarantine-breach.json](./260511-quarantine-breach.json) |
+| Quarantine City | 361970 | [361970-quarantine-city.json](./361970-quarantine-city.json) |
 | Quarantine Cutz | 150519 | [150519-quarantine-cutz.json](./150519-quarantine-cutz.json) |
 | Quarantine Diary | 142539 | [142539-quarantine-diary.json](./142539-quarantine-diary.json) |
 | Quarantine II: Road Warrior | 9234 | [9234-quarantine-ii-road-warrior.json](./9234-quarantine-ii-road-warrior.json) |
