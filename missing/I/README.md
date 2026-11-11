@@ -1443,6 +1443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Cave Miner | 227273 | [227273-idle-cave-miner.json](./227273-idle-cave-miner.json) |
 | Idle Cave Miner 2 | 347488 | [347488-idle-cave-miner-2.json](./347488-idle-cave-miner-2.json) |
 | Idle Champions of the Forgotten Realms | 43178 | [43178-idle-champions-of-the-forgotten-realms.json](./43178-idle-champions-of-the-forgotten-realms.json) |
+| Idle Champions of the Forgotten Realms: Shadowheart's Champions of Renown | 331574 | [331574-idle-champions-of-the-forgotten-realms-shadowhearts-champions-of-renown.json](./331574-idle-champions-of-the-forgotten-realms-shadowhearts-champions-of-renown.json) |
 | Idle Champions: Aarakocra Glitch Orkira Skin & Feat Pack | 303546 | [303546-idle-champions-aarakocra-glitch-orkira-skin-and-feat-pack.json](./303546-idle-champions-aarakocra-glitch-orkira-skin-and-feat-pack.json) |
 | Idle Champions: Aasimar Glitch Donaar Skin & Feat Pack | 289847 | [289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json](./289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json) |
 | Idle Champions: Aasimar Glitch Penelope Theme Pack | 295364 | [295364-idle-champions-aasimar-glitch-penelope-theme-pack.json](./295364-idle-champions-aasimar-glitch-penelope-theme-pack.json) |
@@ -4566,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InkBall | 66582 | [66582-inkball.json](./66582-inkball.json) |
 | Inkball adventures | 130148 | [130148-inkball-adventures.json](./130148-inkball-adventures.json) |
 | Inkblood | 380440 | [380440-inkblood.json](./380440-inkblood.json) |
+| Inkborn | 331578 | [331578-inkborn.json](./331578-inkborn.json) |
 | Inkborn | 424638 | [424638-inkborn.json](./424638-inkborn.json) |
 | Inkbound | 205955 | [205955-inkbound.json](./205955-inkbound.json) |
 | Inkbound: Supporter Pack - Rise of the Unbound | 296570 | [296570-inkbound-supporter-pack-rise-of-the-unbound.json](./296570-inkbound-supporter-pack-rise-of-the-unbound.json) |
