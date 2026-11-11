@@ -17671,6 +17671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype Blocks 2 | 193429 | [193429-prototype-blocks-2.json](./193429-prototype-blocks-2.json) |
 | Prototype Chaos | 368596 | [368596-prototype-chaos.json](./368596-prototype-chaos.json) |
 | Prototype Franchise Pack | 99787 | [99787-prototype-franchise-pack.json](./99787-prototype-franchise-pack.json) |
+| Prototype is !Lisa | 374515 | [374515-prototype-is-lisa.json](./374515-prototype-is-lisa.json) |
 | Prototype Jam 3 | 271192 | [271192-prototype-jam-3.json](./271192-prototype-jam-3.json) |
 | Prototype Mansion - Used No Cover | 77443 | [77443-prototype-mansion-used-no-cover.json](./77443-prototype-mansion-used-no-cover.json) |
 | Prototype Mint B | 332403 | [332403-prototype-mint-b.json](./332403-prototype-mint-b.json) |
@@ -18362,6 +18363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Adventure II | 41699 | [41699-pumpkin-adventure-ii.json](./41699-pumpkin-adventure-ii.json) |
 | Pumpkin Adventure III | 41700 | [41700-pumpkin-adventure-iii.json](./41700-pumpkin-adventure-iii.json) |
 | Pumpkin Attack! | 298934 | [298934-pumpkin-attack.json](./298934-pumpkin-attack.json) |
+| Pumpkin Bloodshed | 374526 | [374526-pumpkin-bloodshed.json](./374526-pumpkin-bloodshed.json) |
 | Pumpkin Breaker | 126609 | [126609-pumpkin-breaker.json](./126609-pumpkin-breaker.json) |
 | Pumpkin Clicker | 341436 | [341436-pumpkin-clicker.json](./341436-pumpkin-clicker.json) |
 | Pumpkin Curse | 184671 | [184671-pumpkin-curse.json](./184671-pumpkin-curse.json) |
