@@ -2581,6 +2581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearbits: Gear Angels | 287029 | [287029-gearbits-gear-angels.json](./287029-gearbits-gear-angels.json) |
 | Gearbits: Raider Expedition | 311094 | [311094-gearbits-raider-expedition.json](./311094-gearbits-raider-expedition.json) |
 | GearBlocks | 123193 | [123193-gearblocks.json](./123193-gearblocks.json) |
+| Gearbound: Odyssey | 377528 | [377528-gearbound-odyssey.json](./377528-gearbound-odyssey.json) |
 | Gearcrack Arena | 8924 | [8924-gearcrack-arena.json](./8924-gearcrack-arena.json) |
 | GearDude | 402634 | [402634-geardude.json](./402634-geardude.json) |
 | Geared | 35961 | [35961-geared.json](./35961-geared.json) |
