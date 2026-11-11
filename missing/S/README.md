@@ -4945,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets Agent | 136440 | [136440-secrets-agent.json](./136440-secrets-agent.json) |
 | Secrets and Treasure: The Lost Cities | 106253 | [106253-secrets-and-treasure-the-lost-cities.json](./106253-secrets-and-treasure-the-lost-cities.json) |
 | Secrets by Episode | 332434 | [332434-secrets-by-episode.json](./332434-secrets-by-episode.json) |
+| Secrets for Taking | 337332 | [337332-secrets-for-taking.json](./337332-secrets-for-taking.json) |
 | Secrets in Green | 326006 | [326006-secrets-in-green.json](./326006-secrets-in-green.json) |
 | Secrets of a Campfire | 156072 | [156072-secrets-of-a-campfire.json](./156072-secrets-of-a-campfire.json) |
 | Secrets of Ailzylia | 234680 | [234680-secrets-of-ailzylia.json](./234680-secrets-of-ailzylia.json) |
@@ -16640,6 +16641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowday! | 310945 | [310945-snowday.json](./310945-snowday.json) |
 | Snowdome | 260961 | [260961-snowdome.json](./260961-snowdome.json) |
 | Snowdown | 176228 | [176228-snowdown.json](./176228-snowdown.json) |
+| SnowDown | 336815 | [336815-snowdown.json](./336815-snowdown.json) |
 | Snowdown Sled Racers | 414097 | [414097-snowdown-sled-racers.json](./414097-snowdown-sled-racers.json) |
 | Snowdreams -lost in winter- | 146324 | [146324-snowdreams-lost-in-winter.json](./146324-snowdreams-lost-in-winter.json) |
 | Snowdrift | 401698 | [401698-snowdrift.json](./401698-snowdrift.json) |
@@ -20357,6 +20359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Simulator | 164194 | [164194-soviet-simulator.json](./164194-soviet-simulator.json) |
 | Soviet Soldier | 291402 | [291402-soviet-soldier.json](./291402-soviet-soldier.json) |
 | Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
+| Soviet Spooky Tales: Green Eyes | 337351 | [337351-soviet-spooky-tales-green-eyes.json](./337351-soviet-spooky-tales-green-eyes.json) |
 | Soviet Strike | 19418 | [19418-soviet-strike.json](./19418-soviet-strike.json) |
 | Soviet Union 2010 | 267567 | [267567-soviet-union-2010.json](./267567-soviet-union-2010.json) |
 | Soviet Union 2011 | 404414 | [404414-soviet-union-2011.json](./404414-soviet-union-2011.json) |
@@ -20660,6 +20663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Crusaders | 211582 | [211582-space-crusaders.json](./211582-space-crusaders.json) |
 | Space Cube Racers | 149789 | [149789-space-cube-racers.json](./149789-space-cube-racers.json) |
 | Space Cube Tower Defense | 169096 | [169096-space-cube-tower-defense.json](./169096-space-cube-tower-defense.json) |
+| Space Cube X | 337353 | [337353-space-cube-x.json](./337353-space-cube-x.json) |
 | Space Cycle | 318129 | [318129-space-cycle.json](./318129-space-cycle.json) |
 | Space Cycler | 412602 | [412602-space-cycler.json](./412602-space-cycler.json) |
 | Space Cyclone | 39308 | [39308-space-cyclone.json](./39308-space-cyclone.json) |
@@ -23466,6 +23470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral Knights | 9265 | [9265-spiral-knights.json](./9265-spiral-knights.json) |
 | Spiral Knights: Operation Crimson Hammer | 170877 | [170877-spiral-knights-operation-crimson-hammer.json](./170877-spiral-knights-operation-crimson-hammer.json) |
 | Spiral Memoria: The Summer I Meet Myself | 138386 | [138386-spiral-memoria-the-summer-i-meet-myself.json](./138386-spiral-memoria-the-summer-i-meet-myself.json) |
+| Spiral of Regret | 336811 | [336811-spiral-of-regret.json](./336811-spiral-of-regret.json) |
 | Spiral of War | 270785 | [270785-spiral-of-war.json](./270785-spiral-of-war.json) |
 | Spiral Roll | 273860 | [273860-spiral-roll.json](./273860-spiral-roll.json) |
 | Spiral Smash | 244871 | [244871-spiral-smash.json](./244871-spiral-smash.json) |
@@ -29454,6 +29459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Investigations: Secrets Can be Deadly - Collector's Edition | 256713 | [256713-strange-investigations-secrets-can-be-deadly-collectors-edition.json](./256713-strange-investigations-secrets-can-be-deadly-collectors-edition.json) |
 | Strange Investigations: Truth Will Out - Collector's Edition | 356764 | [356764-strange-investigations-truth-will-out-collectors-edition.json](./356764-strange-investigations-truth-will-out-collectors-edition.json) |
 | Strange Investigations: Two for Solitaire - Collector's Edition | 207087 | [207087-strange-investigations-two-for-solitaire-collectors-edition.json](./207087-strange-investigations-two-for-solitaire-collectors-edition.json) |
+| Strange Jigsaws | 337338 | [337338-strange-jigsaws.json](./337338-strange-jigsaws.json) |
 | Strange Keyworld | 182612 | [182612-strange-keyworld.json](./182612-strange-keyworld.json) |
 | Strange Labyrinth | 310096 | [310096-strange-labyrinth.json](./310096-strange-labyrinth.json) |
 | Strange Lands | 158320 | [158320-strange-lands.json](./158320-strange-lands.json) |
@@ -32229,6 +32235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sundered: Eldritch Edition | 113102 | [113102-sundered-eldritch-edition.json](./113102-sundered-eldritch-edition.json) |
 | Sunderfolk | 319359 | [319359-sunderfolk.json](./319359-sunderfolk.json) |
 | Sundermead | 209426 | [209426-sundermead.json](./209426-sundermead.json) |
+| Sundial | 337325 | [337325-sundial.json](./337325-sundial.json) |
 | Sundog: Frozen Legacy | 15380 | [15380-sundog-frozen-legacy.json](./15380-sundog-frozen-legacy.json) |
 | Sundown | 299443 | [299443-sundown.json](./299443-sundown.json) |
 | Sundown | 86071 | [86071-sundown.json](./86071-sundown.json) |
@@ -34547,6 +34554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Munchers | 50336 | [50336-super-munchers.json](./50336-super-munchers.json) |
 | Super Munchers: The Challenge Continues... | 70478 | [70478-super-munchers-the-challenge-continues.json](./70478-super-munchers-the-challenge-continues.json) |
 | Super Muscle Bomber | 39958 | [39958-super-muscle-bomber.json](./39958-super-muscle-bomber.json) |
+| Super Muscle Knight | 337331 | [337331-super-muscle-knight.json](./337331-super-muscle-knight.json) |
 | Super Muscle Mario Bros | 323808 | [323808-super-muscle-mario-bros.json](./323808-super-muscle-mario-bros.json) |
 | Super Mushroom Kingdom Hearts 64 | 392013 | [392013-super-mushroom-kingdom-hearts-64.json](./392013-super-mushroom-kingdom-hearts-64.json) |
 | Super Mustache | 24616 | [24616-super-mustache.json](./24616-super-mustache.json) |
