@@ -12275,6 +12275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon: The Pit | 308392 | [308392-pokemon-the-pit.json](./308392-pokemon-the-pit.json) |
 | Pokémon: Tick-Tock Walk! | 289143 | [289143-pokemon-tick-tock-walk.json](./289143-pokemon-tick-tock-walk.json) |
 | Pokémon: Too Many Types | 278078 | [278078-pokemon-too-many-types.json](./278078-pokemon-too-many-types.json) |
+| Pokemon: Too Many Types 2 | 382081 | [382081-pokemon-too-many-types-2.json](./382081-pokemon-too-many-types-2.json) |
 | Pokémon: Towering Legends | 203147 | [203147-pokemon-towering-legends.json](./203147-pokemon-towering-legends.json) |
 | Pokémon: Ultra Violet Version | 203221 | [203221-pokemon-ultra-violet-version.json](./203221-pokemon-ultra-violet-version.json) |
 | Pokémon/Grand Order | 330927 | [330927-pokemon-grand-order.json](./330927-pokemon-grand-order.json) |
@@ -18826,6 +18827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purrrification | 365161 | [365161-purrrification.json](./365161-purrrification.json) |
 | Purrrifiers: Cleaning Chaos | 322196 | [322196-purrrifiers-cleaning-chaos.json](./322196-purrrifiers-cleaning-chaos.json) |
 | Purrs In Heaven | 146800 | [146800-purrs-in-heaven.json](./146800-purrs-in-heaven.json) |
+| Purrspective | 382100 | [382100-purrspective.json](./382100-purrspective.json) |
 | Purrtopia | 413852 | [413852-purrtopia.json](./413852-purrtopia.json) |
 | Purrvivors | 409174 | [409174-purrvivors.json](./409174-purrvivors.json) |
 | Purry & Panther: Lost in Helsinki | 304646 | [304646-purry-and-panther-lost-in-helsinki.json](./304646-purry-and-panther-lost-in-helsinki.json) |
