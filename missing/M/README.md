@@ -23756,7 +23756,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Merchants | 322902 | [322902-mythic-merchants.json](./322902-mythic-merchants.json) |
 | Mythic Mire | 332454 | [332454-mythic-mire.json](./332454-mythic-mire.json) |
 | Mythic Mountain | 234615 | [234615-mythic-mountain.json](./234615-mythic-mountain.json) |
-| Mythic Ocean | 93804 | [93804-mythic-ocean.json](./93804-mythic-ocean.json) |
 | Mythic Origin | 227265 | [227265-mythic-origin.json](./227265-mythic-origin.json) |
 | Mythic Origins | 207321 | [207321-mythic-origins.json](./207321-mythic-origins.json) |
 | Mythic Palace | 122973 | [122973-mythic-palace.json](./122973-mythic-palace.json) |
