@@ -3404,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Quest | 388908 | [388908-emoji-quest.json](./388908-emoji-quest.json) |
 | Emoji Quiz Football | 305265 | [305265-emoji-quiz-football.json](./305265-emoji-quiz-football.json) |
 | Emoji Rampage: Origins | 378798 | [378798-emoji-rampage-origins.json](./378798-emoji-rampage-origins.json) |
+| Emoji Random Defence | 363102 | [363102-emoji-random-defence.json](./363102-emoji-random-defence.json) |
 | Emoji Scream | 97716 | [97716-emoji-scream.json](./97716-emoji-scream.json) |
 | Emoji Solitaire | 89831 | [89831-emoji-solitaire.json](./89831-emoji-solitaire.json) |
 | Emoji Sport | 274539 | [274539-emoji-sport.json](./274539-emoji-sport.json) |
@@ -8052,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Execute | 373337 | [373337-execute.json](./373337-execute.json) |
 | Execute Daddy: Papa ga Nandemo Shinu Game | 215889 | [215889-execute-daddy-papa-ga-nandemo-shinu-game.json](./215889-execute-daddy-papa-ga-nandemo-shinu-game.json) |
 | Execution | 13650 | [13650-execution.json](./13650-execution.json) |
+| Executioner | 363095 | [363095-executioner.json](./363095-executioner.json) |
 | Executioner | 88648 | [88648-executioner.json](./88648-executioner.json) |
 | Executioner Girls | 243572 | [243572-executioner-girls.json](./243572-executioner-girls.json) |
 | Executioner Girls: Legacy Pack | 293447 | [293447-executioner-girls-legacy-pack.json](./293447-executioner-girls-legacy-pack.json) |
@@ -8205,6 +8207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit/Corners | 101734 | [101734-exit-corners.json](./101734-exit-corners.json) |
 | Exit16: Byilhan Hotel | 305523 | [305523-exit16-byilhan-hotel.json](./305523-exit16-byilhan-hotel.json) |
 | Exit84 | 96415 | [96415-exit84.json](./96415-exit84.json) |
+| ExitApartment | 363069 | [363069-exitapartment.json](./363069-exitapartment.json) |
 | Exiting the White Room | 310598 | [310598-exiting-the-white-room.json](./310598-exiting-the-white-room.json) |
 | Exitium | 131457 | [131457-exitium.json](./131457-exitium.json) |
 | Exitium | 367909 | [367909-exitium.json](./367909-exitium.json) |
