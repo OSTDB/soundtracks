@@ -5329,6 +5329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Jump | 328200 | [328200-bear-jump.json](./328200-bear-jump.json) |
 | Bear Knight Honey Quest | 340734 | [340734-bear-knight-honey-quest.json](./340734-bear-knight-honey-quest.json) |
 | Bear Miner | 315236 | [315236-bear-miner.json](./315236-bear-miner.json) |
+| Bear No Grudge | 321705 | [321705-bear-no-grudge.json](./321705-bear-no-grudge.json) |
 | Bear Party: Adventure | 132436 | [132436-bear-party-adventure.json](./132436-bear-party-adventure.json) |
 | Bear Shooter | 330487 | [330487-bear-shooter.json](./330487-bear-shooter.json) |
 | Bear Simulator: Ragnarok's Rise Survival | 324214 | [324214-bear-simulator-ragnaroks-rise-survival.json](./324214-bear-simulator-ragnaroks-rise-survival.json) |
@@ -6556,6 +6557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behind The Beyond | 344424 | [344424-behind-the-beyond.json](./344424-behind-the-beyond.json) |
 | Behind the Beyond: Ulti | 277979 | [277979-behind-the-beyond-ulti.json](./277979-behind-the-beyond-ulti.json) |
 | Behind the Broadcast: The Director's Cut | 412620 | [412620-behind-the-broadcast-the-directors-cut.json](./412620-behind-the-broadcast-the-directors-cut.json) |
+| Behind the Brush! | 321700 | [321700-behind-the-brush.json](./321700-behind-the-brush.json) |
 | Behind the Curtain | 342609 | [342609-behind-the-curtain.json](./342609-behind-the-curtain.json) |
 | Behind the Door | 55450 | [55450-behind-the-door.json](./55450-behind-the-door.json) |
 | Behind the Frame: The Finest Scenery - Deluxe Edition | 203690 | [203690-behind-the-frame-the-finest-scenery-deluxe-edition.json](./203690-behind-the-frame-the-finest-scenery-deluxe-edition.json) |
@@ -8134,6 +8136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Nose the Caveman | 11960 | [11960-big-nose-the-caveman.json](./11960-big-nose-the-caveman.json) |
 | Big Nose's American Adventure | 108112 | [108112-big-noses-american-adventure.json](./108112-big-noses-american-adventure.json) |
 | Big Oil | 91864 | [91864-big-oil.json](./91864-big-oil.json) |
+| Big Oil: Build an Oil Empire | 321687 | [321687-big-oil-build-an-oil-empire.json](./321687-big-oil-build-an-oil-empire.json) |
 | Big Ol' Bass 2 | 43921 | [43921-big-ol-bass-2.json](./43921-big-ol-bass-2.json) |
 | Big Orbit | 308450 | [308450-big-orbit.json](./308450-big-orbit.json) |
 | Big Pharma | 24396 | [24396-big-pharma.json](./24396-big-pharma.json) |
@@ -17887,6 +17890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubbles Swimsuit | 225063 | [225063-bubbles-swimsuit.json](./225063-bubbles-swimsuit.json) |
 | Bubbles the Cat | 112934 | [112934-bubbles-the-cat.json](./112934-bubbles-the-cat.json) |
 | Bubbles! | 366109 | [366109-bubbles.json](./366109-bubbles.json) |
+| Bubbleshot | 321091 | [321091-bubbleshot.json](./321091-bubbleshot.json) |
 | Bubbletica | 349913 | [349913-bubbletica.json](./349913-bubbletica.json) |
 | Bubblets | 298725 | [298725-bubblets.json](./298725-bubblets.json) |
 | BubbleTT: Oh! My Fart | 256528 | [256528-bubblett-oh-my-fart.json](./256528-bubblett-oh-my-fart.json) |
