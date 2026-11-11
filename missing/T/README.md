@@ -1892,6 +1892,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tango Survival: Omoshiroi Kotoba Game | 208852 | [208852-tango-survival-omoshiroi-kotoba-game.json](./208852-tango-survival-omoshiroi-kotoba-game.json) |
 | Tango: The Adventure Game | 106402 | [106402-tango-the-adventure-game.json](./106402-tango-the-adventure-game.json) |
 | Tangol | 125945 | [125945-tangol.json](./125945-tangol.json) |
+| Tangomon | 322316 | [322316-tangomon.json](./322316-tangomon.json) |
+| Tangomon 2 | 322317 | [322317-tangomon-2.json](./322317-tangomon-2.json) |
 | Tangoo & Ullashong | 374087 | [374087-tangoo-and-ullashong.json](./374087-tangoo-and-ullashong.json) |
 | Tangram | 12499 | [12499-tangram.json](./12499-tangram.json) |
 | Tangram | 208373 | [208373-tangram.json](./208373-tangram.json) |
@@ -10349,6 +10351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Journey Through Time | 133641 | [133641-the-forgotten-journey-through-time.json](./133641-the-forgotten-journey-through-time.json) |
 | The Forgotten Land | 126112 | [126112-the-forgotten-land.json](./126112-the-forgotten-land.json) |
 | The Forgotten Level | 271763 | [271763-the-forgotten-level.json](./271763-the-forgotten-level.json) |
+| The Forgotten Nightmare | 322334 | [322334-the-forgotten-nightmare.json](./322334-the-forgotten-nightmare.json) |
 | The Forgotten Nightmare Series | 409390 | [409390-the-forgotten-nightmare-series.json](./409390-the-forgotten-nightmare-series.json) |
 | The Forgotten Ones | 17656 | [17656-the-forgotten-ones.json](./17656-the-forgotten-ones.json) |
 | The Forgotten Ones | 419850 | [419850-the-forgotten-ones.json](./419850-the-forgotten-ones.json) |
@@ -13578,6 +13581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Ocarina of Time - Master Quest | 45142 | [45142-the-legend-of-zelda-ocarina-of-time-master-quest.json](./45142-the-legend-of-zelda-ocarina-of-time-master-quest.json) |
 | The Legend of Zelda: Ocarina of Time - Stamina Bar | 263457 | [263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json](./263457-the-legend-of-zelda-ocarina-of-time-stamina-bar.json) |
 | The Legend of Zelda: Ocarina of Time + The Legend of Zelda: Ocarina of Time - Master Quest: Two-game Bonus Disc! | 176087 | [176087-the-legend-of-zelda-ocarina-of-time-the-legend-of-zelda-ocarina-of-time-master-quest-two-game-bonus-disc.json](./176087-the-legend-of-zelda-ocarina-of-time-the-legend-of-zelda-ocarina-of-time-master-quest-two-game-bonus-disc.json) |
+| The Legend of Zelda: Ocarina of Time 2D | 322314 | [322314-the-legend-of-zelda-ocarina-of-time-2d.json](./322314-the-legend-of-zelda-ocarina-of-time-2d.json) |
 | The Legend of Zelda: Ocarina of Time 3D Randomizer | 335717 | [335717-the-legend-of-zelda-ocarina-of-time-3d-randomizer.json](./335717-the-legend-of-zelda-ocarina-of-time-3d-randomizer.json) |
 | The Legend of Zelda: Ocarina of Time Online | 198341 | [198341-the-legend-of-zelda-ocarina-of-time-online.json](./198341-the-legend-of-zelda-ocarina-of-time-online.json) |
 | The Legend of Zelda: Ocarina of Time Randomizer | 203116 | [203116-the-legend-of-zelda-ocarina-of-time-randomizer.json](./203116-the-legend-of-zelda-ocarina-of-time-randomizer.json) |
@@ -18426,6 +18430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sunken Hero | 150833 | [150833-the-sunken-hero.json](./150833-the-sunken-hero.json) |
 | The Sunny Day | 104959 | [104959-the-sunny-day.json](./104959-the-sunny-day.json) |
 | The Sunny Life | 210217 | [210217-the-sunny-life.json](./210217-the-sunny-life.json) |
+| The Sunnylands | 322299 | [322299-the-sunnylands.json](./322299-the-sunnylands.json) |
 | The Sunset | 32107 | [32107-the-sunset.json](./32107-the-sunset.json) |
 | The Sunset that day | 132763 | [132763-the-sunset-that-day.json](./132763-the-sunset-that-day.json) |
 | The Super 1-1 Challenge | 132172 | [132172-the-super-1-1-challenge.json](./132172-the-super-1-1-challenge.json) |
@@ -32232,6 +32237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Adventure World | 58243 | [58243-treasure-adventure-world.json](./58243-treasure-adventure-world.json) |
 | Treasure Arena | 62074 | [62074-treasure-arena.json](./62074-treasure-arena.json) |
 | Treasure at the Top | 55669 | [55669-treasure-at-the-top.json](./55669-treasure-at-the-top.json) |
+| Treasure Atlas | 322331 | [322331-treasure-atlas.json](./322331-treasure-atlas.json) |
 | Treasure Beach | 366948 | [366948-treasure-beach.json](./366948-treasure-beach.json) |
 | Treasure Below | 282745 | [282745-treasure-below.json](./282745-treasure-below.json) |
 | Treasure Blast Quest | 398030 | [398030-treasure-blast-quest.json](./398030-treasure-blast-quest.json) |
