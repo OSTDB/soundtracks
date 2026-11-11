@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wardens | 122900 | [122900-wardens.json](./122900-wardens.json) |
 | Wardens of Avalon | 405146 | [405146-wardens-of-avalon.json](./405146-wardens-of-avalon.json) |
 | Wardens of Chaos | 288477 | [288477-wardens-of-chaos.json](./288477-wardens-of-chaos.json) |
+| Wardens of Romance | 322322 | [322322-wardens-of-romance.json](./322322-wardens-of-romance.json) |
 | Wardens of the Amber Cage | 103477 | [103477-wardens-of-the-amber-cage.json](./103477-wardens-of-the-amber-cage.json) |
 | Wardens of Wen | 397370 | [397370-wardens-of-wen.json](./397370-wardens-of-wen.json) |
 | Wardens Rising | 144514 | [144514-wardens-rising.json](./144514-wardens-rising.json) |
