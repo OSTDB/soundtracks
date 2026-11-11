@@ -5776,6 +5776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines Lines | 232500 | [232500-lines-lines.json](./232500-lines-lines.json) |
 | Lines Millennium | 79432 | [79432-lines-millennium.json](./79432-lines-millennium.json) |
 | Lines of Balls | 362319 | [362319-lines-of-balls.json](./362319-lines-of-balls.json) |
+| Lines of Battle | 374536 | [374536-lines-of-battle.json](./374536-lines-of-battle.json) |
 | Lines on Sides | 174224 | [174224-lines-on-sides.json](./174224-lines-on-sides.json) |
 | Lines Progress | 316919 | [316919-lines-progress.json](./316919-lines-progress.json) |
 | Lines Splitter | 142876 | [142876-lines-splitter.json](./142876-lines-splitter.json) |
