@@ -3858,6 +3858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ​Our Life: Beginnings & Always - Step 3 Expansion | 161753 | [161753-our-life-beginnings-and-always-step-3-expansion.json](./161753-our-life-beginnings-and-always-step-3-expansion.json) |
 | ​Outer Wilds: A Thrilling Graphical Text Adventure | 304188 | [304188-outer-wilds-a-thrilling-graphical-text-adventure.json](./304188-outer-wilds-a-thrilling-graphical-text-adventure.json) |
 | ​Sonic Robo Blast 2: Official Level Design Collab 2022 - Round 2 | 241897 | [241897-sonic-robo-blast-2-official-level-design-collab-2022-round-2.json](./241897-sonic-robo-blast-2-official-level-design-collab-2022-round-2.json) |
+| ⁤Square Wars | 367321 | [367321-square-wars.json](./367321-square-wars.json) |
 | ​​Star Trek​ x World of Warships: Commander Gowron | 332617 | [332617-star-trek-x-world-of-warships-commander-gowron.json](./332617-star-trek-x-world-of-warships-commander-gowron.json) |
 | Şükür | 223297 | [223297-sukur.json](./223297-sukur.json) |
 | Świrus | 330017 | [330017-swirus.json](./330017-swirus.json) |
