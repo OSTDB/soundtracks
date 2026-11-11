@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Hit Kill | 105211 | [105211-1-hit-kill.json](./105211-1-hit-kill.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
+| 1 in a Million: A Game of Odds | 364950 | [364950-1-in-a-million-a-game-of-odds.json](./364950-1-in-a-million-a-game-of-odds.json) |
 | 1 Line Space Trader | 83129 | [83129-1-line-space-trader.json](./83129-1-line-space-trader.json) |
 | 1 Line: One Stroke Connect Puzzle | 102848 | [102848-1-line-one-stroke-connect-puzzle.json](./102848-1-line-one-stroke-connect-puzzle.json) |
 | 1 Meter | 327613 | [327613-1-meter.json](./327613-1-meter.json) |
@@ -1615,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1 Collection: Culture of Asia + The Mystery of Pirates Treasure | 93970 | [93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json](./93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json) |
 | 2 in 1 Combo Pack: Sonic Heroes/Super Monkey Ball Deluxe | 233976 | [233976-2-in-1-combo-pack-sonic-heroes-super-monkey-ball-deluxe.json](./233976-2-in-1-combo-pack-sonic-heroes-super-monkey-ball-deluxe.json) |
 | 2 in 1 Crazy Bundle | 357724 | [357724-2-in-1-crazy-bundle.json](./357724-2-in-1-crazy-bundle.json) |
+| 2 in 1 Experience Hidden Objects | 364951 | [364951-2-in-1-experience-hidden-objects.json](./364951-2-in-1-experience-hidden-objects.json) |
 | 2 in 1 Game Pack I Spider-Man: Mysterio's Menace + X2: Wolverine's Revenge | 80112 | [80112-2-in-1-game-pack-i-spider-man-mysterios-menace-x2-wolverines-revenge.json](./80112-2-in-1-game-pack-i-spider-man-mysterios-menace-x2-wolverines-revenge.json) |
 | 2 in 1 Game Pack: DreamWorks' Shark Tale + Shrek 2 | 79558 | [79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json](./79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json) |
 | 2 In 1 Game Pack: Tony Hawk's Underground + Kelly Slater's Pro Surfer | 80114 | [80114-2-in-1-game-pack-tony-hawks-underground-kelly-slaters-pro-surfer.json](./80114-2-in-1-game-pack-tony-hawks-underground-kelly-slaters-pro-surfer.json) |
