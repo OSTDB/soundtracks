@@ -2640,6 +2640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill Commando II | 270210 | [270210-kill-commando-ii.json](./270210-kill-commando-ii.json) |
 | Kill Crab | 255124 | [255124-kill-crab.json](./255124-kill-crab.json) |
 | Kill Dad | 126034 | [126034-kill-dad.json](./126034-kill-dad.json) |
+| Kill Dee | 368960 | [368960-kill-dee.json](./368960-kill-dee.json) |
 | Kill Demons | 150951 | [150951-kill-demons.json](./150951-kill-demons.json) |
 | Kill Fish | 142189 | [142189-kill-fish.json](./142189-kill-fish.json) |
 | Kill Fun Yeah | 11173 | [11173-kill-fun-yeah.json](./11173-kill-fun-yeah.json) |
@@ -2664,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill PC | 121728 | [121728-kill-pc.json](./121728-kill-pc.json) |
 | Kill Pig Death Squads | 396067 | [396067-kill-pig-death-squads.json](./396067-kill-pig-death-squads.json) |
 | Kill Pill | 237451 | [237451-kill-pill.json](./237451-kill-pill.json) |
+| Kill Ralph | 369252 | [369252-kill-ralph.json](./369252-kill-ralph.json) |
 | Kill Santa | 279464 | [279464-kill-santa.json](./279464-kill-santa.json) |
 | Kill Shot | 221901 | [221901-kill-shot.json](./221901-kill-shot.json) |
 | Kill Shot | 59639 | [59639-kill-shot.json](./59639-kill-shot.json) |
@@ -2979,7 +2981,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4288,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitchinko | 271009 | [271009-kitchinko.json](./271009-kitchinko.json) |
 | Kite | 31757 | [31757-kite.json](./31757-kite.json) |
 | Kite Fight | 213267 | [213267-kite-fight.json](./213267-kite-fight.json) |
+| Kite Flying Simulator | 368951 | [368951-kite-flying-simulator.json](./368951-kite-flying-simulator.json) |
 | Kite Hunter | 333147 | [333147-kite-hunter.json](./333147-kite-hunter.json) |
 | Kite Trip | 174505 | [174505-kite-trip.json](./174505-kite-trip.json) |
 | Kiteboard Hero | 175339 | [175339-kiteboard-hero.json](./175339-kiteboard-hero.json) |
