@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oceancatch | 235562 | [235562-oceancatch.json](./235562-oceancatch.json) |
 | OceanCraft | 156955 | [156955-oceancraft.json](./156955-oceancraft.json) |
 | OceanDive | 94369 | [94369-oceandive.json](./94369-oceandive.json) |
+| Oceaneers | 318652 | [318652-oceaneers.json](./318652-oceaneers.json) |
 | Oceanhorn | 22117 | [22117-oceanhorn.json](./22117-oceanhorn.json) |
 | Oceanhorn 2: Knights of the Lost Realm | 22800 | [22800-oceanhorn-2-knights-of-the-lost-realm.json](./22800-oceanhorn-2-knights-of-the-lost-realm.json) |
 | Oceanhorn 3: Legend of the Shadow Sea | 391260 | [391260-oceanhorn-3-legend-of-the-shadow-sea.json](./391260-oceanhorn-3-legend-of-the-shadow-sea.json) |
