@@ -2997,6 +2997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Tales V: Price of Power - Collector's Edition | 416783 | [416783-legendary-tales-v-price-of-power-collectors-edition.json](./416783-legendary-tales-v-price-of-power-collectors-edition.json) |
 | Legendary Tales: Cataclysm | 186322 | [186322-legendary-tales-cataclysm.json](./186322-legendary-tales-cataclysm.json) |
 | Legendary Tales: Dawn of History | 413598 | [413598-legendary-tales-dawn-of-history.json](./413598-legendary-tales-dawn-of-history.json) |
+| Legendary Tales: Map of Hope | 366769 | [366769-legendary-tales-map-of-hope.json](./366769-legendary-tales-map-of-hope.json) |
 | Legendary Tales: Stolen Life | 172944 | [172944-legendary-tales-stolen-life.json](./172944-legendary-tales-stolen-life.json) |
 | Legendary Tales: Stories | 287165 | [287165-legendary-tales-stories.json](./287165-legendary-tales-stories.json) |
 | Legendary Tomb Digger | 357036 | [357036-legendary-tomb-digger.json](./357036-legendary-tomb-digger.json) |
@@ -8000,6 +8001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopquarium | 410915 | [410915-loopquarium.json](./410915-loopquarium.json) |
 | Loopr | 391163 | [391163-loopr.json](./391163-loopr.json) |
 | Loops of Zen | 54811 | [54811-loops-of-zen.json](./54811-loops-of-zen.json) |
+| Loopsters | 367079 | [367079-loopsters.json](./367079-loopsters.json) |
 | Loopstructor | 296978 | [296978-loopstructor.json](./296978-loopstructor.json) |
 | Looptide | 386912 | [386912-looptide.json](./386912-looptide.json) |
 | Loopwood | 274670 | [274670-loopwood.json](./274670-loopwood.json) |
