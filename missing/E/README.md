@@ -1675,7 +1675,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Revival Xanadu Easy Ver PC-9801 | 347313 | [347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json](./347313-eggconsole-revival-xanadu-easy-ver-pc-9801.json) |
 | Eggconsole Riglas PC-8801 | 324189 | [324189-eggconsole-riglas-pc-8801.json](./324189-eggconsole-riglas-pc-8801.json) |
 | Eggconsole Rune Worth 2 PC-9801 | 385112 | [385112-eggconsole-rune-worth-2-pc-9801.json](./385112-eggconsole-rune-worth-2-pc-9801.json) |
+| Eggconsole Rune Worth PC-9801 | 343528 | [343528-eggconsole-rune-worth-pc-9801.json](./343528-eggconsole-rune-worth-pc-9801.json) |
 | Eggconsole Schwarzschild II PC-9801 | 396876 | [396876-eggconsole-schwarzschild-ii-pc-9801.json](./396876-eggconsole-schwarzschild-ii-pc-9801.json) |
+| Eggconsole Schwarzschild PC-9801 | 343529 | [343529-eggconsole-schwarzschild-pc-9801.json](./343529-eggconsole-schwarzschild-pc-9801.json) |
 | Eggconsole Seilane PC-8801MkIISR | 308640 | [308640-eggconsole-seilane-pc-8801mkiisr.json](./308640-eggconsole-seilane-pc-8801mkiisr.json) |
 | Eggconsole Silver Ghost PC-8801mkIISR | 317893 | [317893-eggconsole-silver-ghost-pc-8801mkiisr.json](./317893-eggconsole-silver-ghost-pc-8801mkiisr.json) |
 | Eggconsole Sorcerian PC-8801mkIISR | 304797 | [304797-eggconsole-sorcerian-pc-8801mkiisr.json](./304797-eggconsole-sorcerian-pc-8801mkiisr.json) |
@@ -2456,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Ascent | 276676 | [276676-elemental-ascent.json](./276676-elemental-ascent.json) |
 | Elemental Battle Academy | 124405 | [124405-elemental-battle-academy.json](./124405-elemental-battle-academy.json) |
 | Elemental Battlefields | 188999 | [188999-elemental-battlefields.json](./188999-elemental-battlefields.json) |
+| Elemental Brawl | 342967 | [342967-elemental-brawl.json](./342967-elemental-brawl.json) |
 | Elemental Combat | 55223 | [55223-elemental-combat.json](./55223-elemental-combat.json) |
 | Elemental Cube | 308317 | [308317-elemental-cube.json](./308317-elemental-cube.json) |
 | Elemental Defender | 339733 | [339733-elemental-defender.json](./339733-elemental-defender.json) |
@@ -6057,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Trick: The Secret of Rock City Prison | 85127 | [85127-escape-trick-the-secret-of-rock-city-prison.json](./85127-escape-trick-the-secret-of-rock-city-prison.json) |
 | Escape Tsunami For Brainrots | 402007 | [402007-escape-tsunami-for-brainrots.json](./402007-escape-tsunami-for-brainrots.json) |
 | Escape Tsunami: Take Brainrots! | 388523 | [388523-escape-tsunami-take-brainrots.json](./388523-escape-tsunami-take-brainrots.json) |
+| Escape Tung Sahur Backrooms | 343500 | [343500-escape-tung-sahur-backrooms.json](./343500-escape-tung-sahur-backrooms.json) |
 | Escape Until Friday | 117591 | [117591-escape-until-friday.json](./117591-escape-until-friday.json) |
 | Escape Up | 392557 | [392557-escape-up.json](./392557-escape-up.json) |
 | Escape Vauban | 183179 | [183179-escape-vauban.json](./183179-escape-vauban.json) |
