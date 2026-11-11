@@ -8869,6 +8869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chroma+Elektron | 199564 | [199564-chroma-elektron.json](./199564-chroma-elektron.json) |
 | ChromaBeat | 171712 | [171712-chromabeat.json](./171712-chromabeat.json) |
 | Chromacell | 290540 | [290540-chromacell.json](./290540-chromacell.json) |
+| Chromacore | 365332 | [365332-chromacore.json](./365332-chromacore.json) |
 | Chromadi | 367931 | [367931-chromadi.json](./367931-chromadi.json) |
 | Chromadrome | 73511 | [73511-chromadrome.json](./73511-chromadrome.json) |
 | ChromaFlow | 414393 | [414393-chromaflow.json](./414393-chromaflow.json) |
@@ -14882,6 +14883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consumed Awakening | 126726 | [126726-consumed-awakening.json](./126726-consumed-awakening.json) |
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
 | Consumption | 179537 | [179537-consumption.json](./179537-consumption.json) |
+| Consumption Line | 365924 | [365924-consumption-line.json](./365924-consumption-line.json) |
 | Contact | 187113 | [187113-contact.json](./187113-contact.json) |
 | Contact | 20581 | [20581-contact.json](./20581-contact.json) |
 | Contact | 243837 | [243837-contact.json](./243837-contact.json) |
@@ -15691,6 +15693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corgi Simulator | 128588 | [128588-corgi-simulator.json](./128588-corgi-simulator.json) |
 | Corgi Snow Day | 178579 | [178579-corgi-snow-day.json](./178579-corgi-snow-day.json) |
 | Corgi's Travel | 300537 | [300537-corgis-travel.json](./300537-corgis-travel.json) |
+| Corgi´s Travel: A Miniature Journey | 365340 | [365340-corgi-s-travel-a-miniature-journey.json](./365340-corgi-s-travel-a-miniature-journey.json) |
 | CorgiSpace | 381084 | [381084-corgispace.json](./381084-corgispace.json) |
 | Corgix | 138698 | [138698-corgix.json](./138698-corgix.json) |
 | Coria and the Sunken City | 141621 | [141621-coria-and-the-sunken-city.json](./141621-coria-and-the-sunken-city.json) |
@@ -18179,6 +18182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CreativeDestruction | 107922 | [107922-creativedestruction.json](./107922-creativedestruction.json) |
 | Creativerse | 17112 | [17112-creativerse.json](./17112-creativerse.json) |
 | Creator | 308047 | [308047-creator.json](./308047-creator.json) |
+| Creator Chronicles | 365531 | [365531-creator-chronicles.json](./365531-creator-chronicles.json) |
 | Creator of Another World | 294167 | [294167-creator-of-another-world.json](./294167-creator-of-another-world.json) |
 | Creator Shelter: DLC Cuisine | 418504 | [418504-creator-shelter-dlc-cuisine.json](./418504-creator-shelter-dlc-cuisine.json) |
 | Creator's Asteroid | 191191 | [191191-creators-asteroid.json](./191191-creators-asteroid.json) |
