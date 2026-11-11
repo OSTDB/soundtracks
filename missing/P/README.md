@@ -11770,6 +11770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon FireRed Deluxe | 338914 | [338914-pokemon-firered-deluxe.json](./338914-pokemon-firered-deluxe.json) |
 | Pokémon Floral Tempus EX | 240005 | [240005-pokemon-floral-tempus-ex.json](./240005-pokemon-floral-tempus-ex.json) |
 | Pokemon Flux | 250199 | [250199-pokemon-flux.json](./250199-pokemon-flux.json) |
+| Pokémon Following Platinum | 395562 | [395562-pokemon-following-platinum.json](./395562-pokemon-following-platinum.json) |
 | Pokémon Fool's Gold | 136877 | [136877-pokemon-fools-gold.json](./136877-pokemon-fools-gold.json) |
 | Pokémon FR Advanced Challenge | 136412 | [136412-pokemon-fr-advanced-challenge.json](./136412-pokemon-fr-advanced-challenge.json) |
 | Pokémon Frienda | 303820 | [303820-pokemon-frienda.json](./303820-pokemon-frienda.json) |
