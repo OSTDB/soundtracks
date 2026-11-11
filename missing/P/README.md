@@ -17004,6 +17004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project M | 203771 | [203771-project-m.json](./203771-project-m.json) |
 | Project M | 382401 | [382401-project-m.json](./382401-project-m.json) |
 | Project M EX Remix | 202916 | [202916-project-m-ex-remix.json](./202916-project-m-ex-remix.json) |
+| Project M EX Remix: Dr. Wario Moveset | 330999 | [330999-project-m-ex-remix-dr-wario-moveset.json](./330999-project-m-ex-remix-dr-wario-moveset.json) |
 | Project MA | 317422 | [317422-project-ma.json](./317422-project-ma.json) |
 | Project Madison | 183242 | [183242-project-madison.json](./183242-project-madison.json) |
 | Project Madness | 308134 | [308134-project-madness.json](./308134-project-madness.json) |
@@ -17540,6 +17541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prologue | 127345 | [127345-prologue.json](./127345-prologue.json) |
 | Prologue For A Vacant Kingdom | 116206 | [116206-prologue-for-a-vacant-kingdom.json](./116206-prologue-for-a-vacant-kingdom.json) |
 | Prologue: Go Wayback! | 324576 | [324576-prologue-go-wayback.json](./324576-prologue-go-wayback.json) |
+| Prolonged Winter | 331036 | [331036-prolonged-winter.json](./331036-prolonged-winter.json) |
 | Prom Dreams: A High School Love Story | 336332 | [336332-prom-dreams-a-high-school-love-story.json](./336332-prom-dreams-a-high-school-love-story.json) |
 | Prom Night | 140704 | [140704-prom-night.json](./140704-prom-night.json) |
 | Prom Queen | 25439 | [25439-prom-queen.json](./25439-prom-queen.json) |
@@ -18864,6 +18866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pure Pinball: American Pinball Reborn | 209750 | [209750-pure-pinball-american-pinball-reborn.json](./209750-pure-pinball-american-pinball-reborn.json) |
 | Pure Pool Pro | 347286 | [347286-pure-pool-pro.json](./347286-pure-pool-pro.json) |
 | Pure Pool Snooker Bundle | 193761 | [193761-pure-pool-snooker-bundle.json](./193761-pure-pool-snooker-bundle.json) |
+| Pure Pure Pero Pero Princess | 331039 | [331039-pure-pure-pero-pero-princess.json](./331039-pure-pure-pero-pero-princess.json) |
 | Pure Shooter | 360687 | [360687-pure-shooter.json](./360687-pure-shooter.json) |
 | Pure Song Garden! | 194575 | [194575-pure-song-garden.json](./194575-pure-song-garden.json) |
 | Pure Stat College Basketball | 47212 | [47212-pure-stat-college-basketball.json](./47212-pure-stat-college-basketball.json) |
