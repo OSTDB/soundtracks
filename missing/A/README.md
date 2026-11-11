@@ -5347,6 +5347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ah-Hoy! | 176293 | [176293-ah-hoy.json](./176293-ah-hoy.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
 | Ah, Love! Season 3 | 384577 | [384577-ah-love-season-3.json](./384577-ah-love-season-3.json) |
+| Ah, Love! Season 4 | 388477 | [388477-ah-love-season-4.json](./388477-ah-love-season-4.json) |
 | Ah! Heaven | 84737 | [84737-ah-heaven.json](./84737-ah-heaven.json) |
 | Ah!! My Roommate is a Succubus Hellbent on World Conquest!! | 178738 | [178738-ah-my-roommate-is-a-succubus-hellbent-on-world-conquest.json](./178738-ah-my-roommate-is-a-succubus-hellbent-on-world-conquest.json) |
 | Ah. Ah. Ah. | 406654 | [406654-ah-ah-ah.json](./406654-ah-ah-ah.json) |
@@ -15187,6 +15188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World 5: Beautiful America - Collector's Edition | 363162 | [363162-around-the-world-5-beautiful-america-collectors-edition.json](./363162-around-the-world-5-beautiful-america-collectors-edition.json) |
 | Around the World in 50 Games | 50692 | [50692-around-the-world-in-50-games.json](./50692-around-the-world-in-50-games.json) |
 | Around the World in 80 Days | 231324 | [231324-around-the-world-in-80-days.json](./231324-around-the-world-in-80-days.json) |
+| Around the World in 80 Days | 389103 | [389103-around-the-world-in-80-days.json](./389103-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 74935 | [74935-around-the-world-in-80-days.json](./74935-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 80445 | [80445-around-the-world-in-80-days.json](./80445-around-the-world-in-80-days.json) |
 | Around the World in 80 Days | 86235 | [86235-around-the-world-in-80-days.json](./86235-around-the-world-in-80-days.json) |
