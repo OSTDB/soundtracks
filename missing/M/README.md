@@ -10648,6 +10648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Volleyball! | 186485 | [186485-meteor-volleyball.json](./186485-meteor-volleyball.json) |
 | Meteor World Actor: Badge & Dagger | 194451 | [194451-meteor-world-actor-badge-and-dagger.json](./194451-meteor-world-actor-badge-and-dagger.json) |
 | Meteor World Actor: Badge & Dagger | 252088 | [252088-meteor-world-actor-badge-and-dagger.json](./252088-meteor-world-actor-badge-and-dagger.json) |
+| Meteor World Actor: Gaslight Bullet | 375055 | [375055-meteor-world-actor-gaslight-bullet.json](./375055-meteor-world-actor-gaslight-bullet.json) |
 | Meteora | 149823 | [149823-meteora.json](./149823-meteora.json) |
 | Meteora's Mystic Merge | 285146 | [285146-meteoras-mystic-merge.json](./285146-meteoras-mystic-merge.json) |
 | MeteoRain | 290244 | [290244-meteorain.json](./290244-meteorain.json) |
