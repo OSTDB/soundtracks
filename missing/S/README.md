@@ -5159,6 +5159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek & Destroy - Steampunk Arcade | 83797 | [83797-seek-and-destroy-steampunk-arcade.json](./83797-seek-and-destroy-steampunk-arcade.json) |
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Find Vol 1 | 109164 | [109164-seek-and-find-vol-1.json](./109164-seek-and-find-vol-1.json) |
+| Seek & Sail | 371180 | [371180-seek-and-sail.json](./371180-seek-and-sail.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
 | Seek and Destroy | 68783 | [68783-seek-and-destroy.json](./68783-seek-and-destroy.json) |
 | Seek and Find Adventures 3 | 206633 | [206633-seek-and-find-adventures-3.json](./206633-seek-and-find-adventures-3.json) |
@@ -10891,6 +10892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sightings from the Deep | 313754 | [313754-sightings-from-the-deep.json](./313754-sightings-from-the-deep.json) |
 | Sightings of Beyond | 383406 | [383406-sightings-of-beyond.json](./383406-sightings-of-beyond.json) |
 | Sightline | 202944 | [202944-sightline.json](./202944-sightline.json) |
+| Sightline | 371156 | [371156-sightline.json](./371156-sightline.json) |
 | SightLineVR | 74763 | [74763-sightlinevr.json](./74763-sightlinevr.json) |
 | Sightseeing Puzzle: Echter Puzzlespass für Unterwegs | 252679 | [252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json](./252679-sightseeing-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | SightWords Pro | 89157 | [89157-sightwords-pro.json](./89157-sightwords-pro.json) |
@@ -22440,6 +22442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
 | Speedrun the Game | 159309 | [159309-speedrun-the-game.json](./159309-speedrun-the-game.json) |
 | Speedrun World | 405669 | [405669-speedrun-world.json](./405669-speedrun-world.json) |
+| Speedrunner | 370618 | [370618-speedrunner.json](./370618-speedrunner.json) |
 | SpeedRunner | 405298 | [405298-speedrunner.json](./405298-speedrunner.json) |
 | Speedrunner's Paradise: Sky is the limit | 215716 | [215716-speedrunners-paradise-sky-is-the-limit.json](./215716-speedrunners-paradise-sky-is-the-limit.json) |
 | SpeedRunners | 9527 | [9527-speedrunners.json](./9527-speedrunners.json) |
@@ -25065,6 +25068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | St. Nick's: Dash Away All! | 184931 | [184931-st-nicks-dash-away-all.json](./184931-st-nicks-dash-away-all.json) |
 | St. Orchint's Orphanage | 180914 | [180914-st-orchints-orphanage.json](./180914-st-orchints-orphanage.json) |
 | St. Thomas | 123171 | [123171-st-thomas.json](./123171-st-thomas.json) |
+| St. Yariman's Former Sluts: Mega MILF Edition | 371177 | [371177-st-yarimans-former-sluts-mega-milf-edition.json](./371177-st-yarimans-former-sluts-mega-milf-edition.json) |
 | St. Yariman's Little Black Book: Complete | 82980 | [82980-st-yarimans-little-black-book-complete.json](./82980-st-yarimans-little-black-book-complete.json) |
 | St/P | 97644 | [97644-st-p.json](./97644-st-p.json) |
 | Staars | 318918 | [318918-staars.json](./318918-staars.json) |
@@ -25391,6 +25395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Boy | 96676 | [96676-star-boy.json](./96676-star-boy.json) |
 | Star Breaker | 13082 | [13082-star-breaker.json](./13082-star-breaker.json) |
 | Star Bridge | 59917 | [59917-star-bridge.json](./59917-star-bridge.json) |
+| Star Buddy | 371164 | [371164-star-buddy.json](./371164-star-buddy.json) |
 | Star Burial Dragnir | 64848 | [64848-star-burial-dragnir.json](./64848-star-burial-dragnir.json) |
 | Star Cadre: Combat Class | 396216 | [396216-star-cadre-combat-class.json](./396216-star-cadre-combat-class.json) |
 | Star Carrier | 352785 | [352785-star-carrier.json](./352785-star-carrier.json) |
