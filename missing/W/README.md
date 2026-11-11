@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Machines: Tanks Battle Game | 260867 | [260867-war-machines-tanks-battle-game.json](./260867-war-machines-tanks-battle-game.json) |
 | War Mahjong | 254405 | [254405-war-mahjong.json](./254405-war-mahjong.json) |
 | War Maze | 272712 | [272712-war-maze.json](./272712-war-maze.json) |
+| War Mechanic | 319483 | [319483-war-mechanic.json](./319483-war-mechanic.json) |
 | War Mines Collection | 199182 | [199182-war-mines-collection.json](./199182-war-mines-collection.json) |
 | War Mines: WW1 | 152721 | [152721-war-mines-ww1.json](./152721-war-mines-ww1.json) |
 | War Mongrels | 138062 | [138062-war-mongrels.json](./138062-war-mongrels.json) |
@@ -4705,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whimsical Heroes | 211485 | [211485-whimsical-heroes.json](./211485-whimsical-heroes.json) |
 | Whimsical Quest | 111421 | [111421-whimsical-quest.json](./111421-whimsical-quest.json) |
 | Whimsical Wizardry | 303964 | [303964-whimsical-wizardry.json](./303964-whimsical-wizardry.json) |
+| Whimside | 319478 | [319478-whimside.json](./319478-whimside.json) |
 | Whimsy | 126214 | [126214-whimsy.json](./126214-whimsy.json) |
 | Whimsy Bake ＆ Craft | 349469 | [349469-whimsy-bake-and-craft.json](./349469-whimsy-bake-and-craft.json) |
 | Whimsy Koi | 384307 | [384307-whimsy-koi.json](./384307-whimsy-koi.json) |
@@ -5635,6 +5637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Turkey Hunter VR | 106863 | [106863-wild-turkey-hunter-vr.json](./106863-wild-turkey-hunter-vr.json) |
 | Wild Unknown | 29472 | [29472-wild-unknown.json](./29472-wild-unknown.json) |
 | Wild Varmint Bounty Hunter | 118220 | [118220-wild-varmint-bounty-hunter.json](./118220-wild-varmint-bounty-hunter.json) |
+| Wild Wafers Deluxe | 319510 | [319510-wild-wafers-deluxe.json](./319510-wild-wafers-deluxe.json) |
 | Wild Warfare | 17598 | [17598-wild-warfare.json](./17598-wild-warfare.json) |
 | Wild Water Adrenaline featuring Salomon | 218799 | [218799-wild-water-adrenaline-featuring-salomon.json](./218799-wild-water-adrenaline-featuring-salomon.json) |
 | Wild Web | 359553 | [359553-wild-web.json](./359553-wild-web.json) |
@@ -7916,6 +7919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WooLoop: Advent Pack | 277634 | [277634-wooloop-advent-pack.json](./277634-wooloop-advent-pack.json) |
 | WooLoop: Aquatic Pack | 291697 | [291697-wooloop-aquatic-pack.json](./291697-wooloop-aquatic-pack.json) |
 | WooLoop: Fantasy Pack | 232641 | [232641-wooloop-fantasy-pack.json](./232641-wooloop-fantasy-pack.json) |
+| WooLoop: Flags Pack | 319490 | [319490-wooloop-flags-pack.json](./319490-wooloop-flags-pack.json) |
 | WooLoop: Food Pack | 262039 | [262039-wooloop-food-pack.json](./262039-wooloop-food-pack.json) |
 | WooLoop: Halloween Pack | 272238 | [272238-wooloop-halloween-pack.json](./272238-wooloop-halloween-pack.json) |
 | WooLoop: Industry Pack | 266315 | [266315-wooloop-industry-pack.json](./266315-wooloop-industry-pack.json) |
