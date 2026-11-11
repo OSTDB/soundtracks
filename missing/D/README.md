@@ -12388,6 +12388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodo Duckie | 342305 | [342305-dodo-duckie.json](./342305-dodo-duckie.json) |
 | Dodo Fly: New World | 241824 | [241824-dodo-fly-new-world.json](./241824-dodo-fly-new-world.json) |
 | Dodo Life | 201361 | [201361-dodo-life.json](./201361-dodo-life.json) |
+| Dodo Master | 379809 | [379809-dodo-master.json](./379809-dodo-master.json) |
 | Dodo Peak | 124397 | [124397-dodo-peak.json](./124397-dodo-peak.json) |
 | Dodo Zombies | 417204 | [417204-dodo-zombies.json](./417204-dodo-zombies.json) |
 | DoDodge | 231330 | [231330-dododge.json](./231330-dododge.json) |
