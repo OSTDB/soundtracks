@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candied Carols | 177343 | [177343-candied-carols.json](./177343-candied-carols.json) |
 | Candied Violets | 178527 | [178527-candied-violets.json](./178527-candied-violets.json) |
 | Candies 'N Curses | 112174 | [112174-candies-n-curses.json](./112174-candies-n-curses.json) |
+| Candivity | 324058 | [324058-candivity.json](./324058-candivity.json) |
 | Candivity: Complete Edition | 346001 | [346001-candivity-complete-edition.json](./346001-candivity-complete-edition.json) |
 | Candivity: Deep Mines DLC | 324431 | [324431-candivity-deep-mines-dlc.json](./324431-candivity-deep-mines-dlc.json) |
 | Candivity: Outer Space DLC | 324432 | [324432-candivity-outer-space-dlc.json](./324432-candivity-outer-space-dlc.json) |
@@ -1545,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candybox: Mobile | 402348 | [402348-candybox-mobile.json](./402348-candybox-mobile.json) |
 | Candyboy | 236351 | [236351-candyboy.json](./236351-candyboy.json) |
 | CandyCraft | 241500 | [241500-candycraft.json](./241500-candycraft.json) |
+| CandyCraft | 324590 | [324590-candycraft.json](./324590-candycraft.json) |
 | CandyGeist | 91472 | [91472-candygeist.json](./91472-candygeist.json) |
 | Candyhouse | 250268 | [250268-candyhouse.json](./250268-candyhouse.json) |
 | Candylands Journey | 355982 | [355982-candylands-journey.json](./355982-candylands-journey.json) |
@@ -2211,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capuchin | 338491 | [338491-capuchin.json](./338491-capuchin.json) |
 | Caput Mortum | 341136 | [341136-caput-mortum.json](./341136-caput-mortum.json) |
 | Capy Cakes | 398293 | [398293-capy-cakes.json](./398293-capy-cakes.json) |
+| Capy Castaway | 325171 | [325171-capy-castaway.json](./325171-capy-castaway.json) |
 | Capy Farm | 407389 | [407389-capy-farm.json](./407389-capy-farm.json) |
 | Capy Hoky | 129426 | [129426-capy-hoky.json](./129426-capy-hoky.json) |
 | Capy Island | 310944 | [310944-capy-island.json](./310944-capy-island.json) |
@@ -15006,6 +15009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Containment | 100079 | [100079-containment.json](./100079-containment.json) |
 | Containment | 81618 | [81618-containment.json](./81618-containment.json) |
 | Containment Breach | 309813 | [309813-containment-breach.json](./309813-containment-breach.json) |
+| Containment Corp, Inc. | 324591 | [324591-containment-corp-inc.json](./324591-containment-corp-inc.json) |
 | Containment Corps | 55668 | [55668-containment-corps.json](./55668-containment-corps.json) |
 | Containment Initiative 2 | 304383 | [304383-containment-initiative-2.json](./304383-containment-initiative-2.json) |
 | Containment Initiative: PC Standalone | 99583 | [99583-containment-initiative-pc-standalone.json](./99583-containment-initiative-pc-standalone.json) |
@@ -15317,6 +15321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
 | Cookie Monster Munch | 40587 | [40587-cookie-monster-munch.json](./40587-cookie-monster-munch.json) |
 | Cookie Run | 74416 | [74416-cookie-run.json](./74416-cookie-run.json) |
+| Cookie Run India | 325170 | [325170-cookie-run-india.json](./325170-cookie-run-india.json) |
 | Cookie Run: Kingdom | 142737 | [142737-cookie-run-kingdom.json](./142737-cookie-run-kingdom.json) |
 | Cookie Run: OvenSmash | 193973 | [193973-cookie-run-ovensmash.json](./193973-cookie-run-ovensmash.json) |
 | Cookie Run: Puzzle World | 198315 | [198315-cookie-run-puzzle-world.json](./198315-cookie-run-puzzle-world.json) |
@@ -19999,6 +20004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CryptoFarm | 107771 | [107771-cryptofarm.json](./107771-cryptofarm.json) |
 | CryptoFights | 111891 | [111891-cryptofights.json](./111891-cryptofights.json) |
 | Cryptoforce | 247500 | [247500-cryptoforce.json](./247500-cryptoforce.json) |
+| Cryptogamous Flowers | 325151 | [325151-cryptogamous-flowers.json](./325151-cryptogamous-flowers.json) |
 | Cryptogram | 355105 | [355105-cryptogram.json](./355105-cryptogram.json) |
 | Cryptogram | 413000 | [413000-cryptogram.json](./413000-cryptogram.json) |
 | Cryptogram Nature Facts | 377537 | [377537-cryptogram-nature-facts.json](./377537-cryptogram-nature-facts.json) |
