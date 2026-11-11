@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Prime | 16713 | [16713-echo-prime.json](./16713-echo-prime.json) |
 | Echo Protocol: Escape Room | 360642 | [360642-echo-protocol-escape-room.json](./360642-echo-protocol-escape-room.json) |
 | Echo Punk | 381634 | [381634-echo-punk.json](./381634-echo-punk.json) |
+| Echo Re:kill | 365911 | [365911-echo-re-kill.json](./365911-echo-re-kill.json) |
 | Echo Resonance | 423074 | [423074-echo-resonance.json](./423074-echo-resonance.json) |
 | Echo Royale | 116784 | [116784-echo-royale.json](./116784-echo-royale.json) |
 | Echo Signal | 329101 | [329101-echo-signal.json](./329101-echo-signal.json) |
@@ -1298,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edepth Angel: Pinocchio's Murder | 83609 | [83609-edepth-angel-pinocchios-murder.json](./83609-edepth-angel-pinocchios-murder.json) |
 | Ederon Online | 136767 | [136767-ederon-online.json](./136767-ederon-online.json) |
 | Edessa: School of Wizardry | 205938 | [205938-edessa-school-of-wizardry.json](./205938-edessa-school-of-wizardry.json) |
+| Edevreal's Theater: The Final Show | 366140 | [366140-edevreals-theater-the-final-show.json](./366140-edevreals-theater-the-final-show.json) |
 | EDF Computer Base | 272136 | [272136-edf-computer-base.json](./272136-edf-computer-base.json) |
 | EDF Overtaken | 273236 | [273236-edf-overtaken.json](./273236-edf-overtaken.json) |
 | EDF Secret Base | 270698 | [270698-edf-secret-base.json](./270698-edf-secret-base.json) |
