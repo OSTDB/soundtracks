@@ -8627,6 +8627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Art: Learn with Jigsaw Puzzles | 162216 | [162216-world-of-art-learn-with-jigsaw-puzzles.json](./162216-world-of-art-learn-with-jigsaw-puzzles.json) |
 | World of Art: Learn with Jigsaw Puzzles - Pixel Art by Numbers | 254652 | [254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json](./254652-world-of-art-learn-with-jigsaw-puzzles-pixel-art-by-numbers.json) |
 | World of Asgabas | 169504 | [169504-world-of-asgabas.json](./169504-world-of-asgabas.json) |
+| World of Astérix | 347968 | [347968-world-of-asterix.json](./347968-world-of-asterix.json) |
 | World of Barn | 190833 | [190833-world-of-barn.json](./190833-world-of-barn.json) |
 | World of Battles: Morningstar | 23540 | [23540-world-of-battles-morningstar.json](./23540-world-of-battles-morningstar.json) |
 | World of Bingo | 97427 | [97427-world-of-bingo.json](./97427-world-of-bingo.json) |
