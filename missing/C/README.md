@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
 | Café Guile | 364495 | [364495-cafe-guile.json](./364495-cafe-guile.json) |
 | Cafe Haven | 406157 | [406157-cafe-haven.json](./406157-cafe-haven.json) |
+| Cafe Heaven | 333246 | [333246-cafe-heaven.json](./333246-cafe-heaven.json) |
 | Cafe in the Clouds | 175923 | [175923-cafe-in-the-clouds.json](./175923-cafe-in-the-clouds.json) |
 | Café International | 113281 | [113281-cafe-international.json](./113281-cafe-international.json) |
 | Cafe Junkie | 59174 | [59174-cafe-junkie.json](./59174-cafe-junkie.json) |
@@ -14356,6 +14357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condemned To Be Free | 345538 | [345538-condemned-to-be-free.json](./345538-condemned-to-be-free.json) |
 | Condemned: Criminal Origins | 6942 | [6942-condemned-criminal-origins.json](./6942-condemned-criminal-origins.json) |
 | Condemned: Nightfall | 391706 | [391706-condemned-nightfall.json](./391706-condemned-nightfall.json) |
+| Condemned: No Escape | 333809 | [333809-condemned-no-escape.json](./333809-condemned-no-escape.json) |
 | Condemned: The Prequel Story | 246202 | [246202-condemned-the-prequel-story.json](./246202-condemned-the-prequel-story.json) |
 | Condition 24 | 159774 | [159774-condition-24.json](./159774-condition-24.json) |
 | Condition Red | 111810 | [111810-condition-red.json](./111810-condition-red.json) |
@@ -15069,6 +15071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra Returns | 174697 | [174697-contra-returns.json](./174697-contra-returns.json) |
 | Contra Run & Gun Bundle | 317236 | [317236-contra-run-and-gun-bundle.json](./317236-contra-run-and-gun-bundle.json) |
 | Contra SNES | 377741 | [377741-contra-snes.json](./377741-contra-snes.json) |
+| Contra Spem Spero | 333274 | [333274-contra-spem-spero.json](./333274-contra-spem-spero.json) |
 | Contra Spirits | 242088 | [242088-contra-spirits.json](./242088-contra-spirits.json) |
 | Contra x Castlevania Bundle | 319315 | [319315-contra-x-castlevania-bundle.json](./319315-contra-x-castlevania-bundle.json) |
 | Contra: Hard Corps | 20192 | [20192-contra-hard-corps.json](./20192-contra-hard-corps.json) |
