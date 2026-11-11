@@ -7375,6 +7375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cabin | 171837 | [171837-the-cabin.json](./171837-the-cabin.json) |
 | The Cabin | 184140 | [184140-the-cabin.json](./184140-the-cabin.json) |
 | The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
+| The Cabin Factory: Supporters Pack | 359664 | [359664-the-cabin-factory-supporters-pack.json](./359664-the-cabin-factory-supporters-pack.json) |
 | The Cabin Game | 398960 | [398960-the-cabin-game.json](./398960-the-cabin-game.json) |
 | The Cabin: VR Escape the Room | 30389 | [30389-the-cabin-vr-escape-the-room.json](./30389-the-cabin-vr-escape-the-room.json) |
 | The Cabinets of Doctor Arcana | 95597 | [95597-the-cabinets-of-doctor-arcana.json](./95597-the-cabinets-of-doctor-arcana.json) |
@@ -9716,6 +9717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Facility | 34646 | [34646-the-facility.json](./34646-the-facility.json) |
 | The Facility | 422081 | [422081-the-facility.json](./422081-the-facility.json) |
 | The Facility Project | 172942 | [172942-the-facility-project.json](./172942-the-facility-project.json) |
+| The Factory | 359659 | [359659-the-factory.json](./359659-the-factory.json) |
 | The Factory in the Shadows | 423067 | [423067-the-factory-in-the-shadows.json](./423067-the-factory-in-the-shadows.json) |
 | The Factory Must Fall | 394065 | [394065-the-factory-must-fall.json](./394065-the-factory-must-fall.json) |
 | The Factory Must Grow | 317295 | [317295-the-factory-must-grow.json](./317295-the-factory-must-grow.json) |
@@ -10575,6 +10577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gaze of The Eternal Sun | 302409 | [302409-the-gaze-of-the-eternal-sun.json](./302409-the-gaze-of-the-eternal-sun.json) |
 | The Gazebo | 358949 | [358949-the-gazebo.json](./358949-the-gazebo.json) |
 | The Gears Don't Grind | 124573 | [124573-the-gears-dont-grind.json](./124573-the-gears-dont-grind.json) |
+| The Gears: Factory | 359658 | [359658-the-gears-factory.json](./359658-the-gears-factory.json) |
 | The Geekwad: Games of the Galaxy | 71772 | [71772-the-geekwad-games-of-the-galaxy.json](./71772-the-geekwad-games-of-the-galaxy.json) |
 | The Gem Collector | 85435 | [85435-the-gem-collector.json](./85435-the-gem-collector.json) |
 | The Gem Hunter | 130453 | [130453-the-gem-hunter.json](./130453-the-gem-hunter.json) |
@@ -14497,6 +14500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meaning | 203303 | [203303-the-meaning.json](./203303-the-meaning.json) |
 | The Meaning of Auri | 349310 | [349310-the-meaning-of-auri.json](./349310-the-meaning-of-auri.json) |
 | The Meaning of Life | 379154 | [379154-the-meaning-of-life.json](./379154-the-meaning-of-life.json) |
+| The Meat Factory | 359657 | [359657-the-meat-factory.json](./359657-the-meat-factory.json) |
 | The Meating | 141111 | [141111-the-meating.json](./141111-the-meating.json) |
 | The Mech is on Fire | 184823 | [184823-the-mech-is-on-fire.json](./184823-the-mech-is-on-fire.json) |
 | The Mechanical World of Dr. Gearbox | 128138 | [128138-the-mechanical-world-of-dr-gearbox.json](./128138-the-mechanical-world-of-dr-gearbox.json) |
@@ -16444,6 +16448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red Village | 201652 | [201652-the-red-village.json](./201652-the-red-village.json) |
 | The Red Weight | 402406 | [402406-the-red-weight.json](./402406-the-red-weight.json) |
 | The Red Wood | 397223 | [397223-the-red-wood.json](./397223-the-red-wood.json) |
+| The Red Zone: Zombie Factory | 359656 | [359656-the-red-zone-zombie-factory.json](./359656-the-red-zone-zombie-factory.json) |
 | The redemption of pancakes | 106555 | [106555-the-redemption-of-pancakes.json](./106555-the-redemption-of-pancakes.json) |
 | The Redundant | 318979 | [318979-the-redundant.json](./318979-the-redundant.json) |
 | The Reeve | 298458 | [298458-the-reeve.json](./298458-the-reeve.json) |
@@ -34594,6 +34599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turkey Shoot | 24649 | [24649-turkey-shoot.json](./24649-turkey-shoot.json) |
 | Turkey Stuffin' | 62690 | [62690-turkey-stuffin.json](./62690-turkey-stuffin.json) |
 | Turkey, Please! | 130582 | [130582-turkey-please.json](./130582-turkey-please.json) |
+| Turkish Coffee Daily | 359628 | [359628-turkish-coffee-daily.json](./359628-turkish-coffee-daily.json) |
 | Turkish Throne | 288558 | [288558-turkish-throne.json](./288558-turkish-throne.json) |
 | Turkmenchay | 362858 | [362858-turkmenchay.json](./362858-turkmenchay.json) |
 | Turleon | 390755 | [390755-turleon.json](./390755-turleon.json) |
