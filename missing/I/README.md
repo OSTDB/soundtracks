@@ -6922,6 +6922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isop0dyssey | 250830 | [250830-isop0dyssey.json](./250830-isop0dyssey.json) |
 | Isophoria | 375316 | [375316-isophoria.json](./375316-isophoria.json) |
 | Isopix Art Club | 213919 | [213919-isopix-art-club.json](./213919-isopix-art-club.json) |
+| Isopod Keeping Simulator | 333810 | [333810-isopod-keeping-simulator.json](./333810-isopod-keeping-simulator.json) |
 | Isorropia | 133451 | [133451-isorropia.json](./133451-isorropia.json) |
 | Isoscape | 217283 | [217283-isoscape.json](./217283-isoscape.json) |
 | Isostasy | 212989 | [212989-isostasy.json](./212989-isostasy.json) |
