@@ -14805,6 +14805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slitterhead: Deluxe Edition | 331846 | [331846-slitterhead-deluxe-edition.json](./331846-slitterhead-deluxe-edition.json) |
 | Slivania | 327377 | [327377-slivania.json](./327377-slivania.json) |
 | Sliver-Sclicker | 102385 | [102385-sliver-sclicker.json](./102385-sliver-sclicker.json) |
+| Slivercall | 352996 | [352996-slivercall.json](./352996-slivercall.json) |
 | Slizer Battle Management System | 71188 | [71188-slizer-battle-management-system.json](./71188-slizer-battle-management-system.json) |
 | Slizza | 116993 | [116993-slizza.json](./116993-slizza.json) |
 | Sloane and MacHale's Mysterious Stories | 63965 | [63965-sloane-and-machales-mysterious-stories.json](./63965-sloane-and-machales-mysterious-stories.json) |
@@ -24155,6 +24156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SporeBloom | 304716 | [304716-sporebloom.json](./304716-sporebloom.json) |
 | Sporeborn Dark | 272907 | [272907-sporeborn-dark.json](./272907-sporeborn-dark.json) |
 | Sporeborne | 367535 | [367535-sporeborne.json](./367535-sporeborne.json) |
+| Spores of Fortune | 353000 | [353000-spores-of-fortune.json](./353000-spores-of-fortune.json) |
 | Sporestory | 271126 | [271126-sporestory.json](./271126-sporestory.json) |
 | Spori | 391384 | [391384-spori.json](./391384-spori.json) |
 | Spork: The Manic Utensil Storm | 111826 | [111826-spork-the-manic-utensil-storm.json](./111826-spork-the-manic-utensil-storm.json) |
@@ -31201,6 +31203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suck It Up! | 403775 | [403775-suck-it-up.json](./403775-suck-it-up.json) |
 | Suck It! | 266236 | [266236-suck-it.json](./266236-suck-it.json) |
 | Suck Up! | 280431 | [280431-suck-up.json](./280431-suck-up.json) |
+| Sucker for Love: Crush Landing | 352990 | [352990-sucker-for-love-crush-landing.json](./352990-sucker-for-love-crush-landing.json) |
 | Sucker for Love: Date to Die For | 236347 | [236347-sucker-for-love-date-to-die-for.json](./236347-sucker-for-love-date-to-die-for.json) |
 | Sucker for Love: First Date | 186818 | [186818-sucker-for-love-first-date.json](./186818-sucker-for-love-first-date.json) |
 | Sucker for Love: Prelude | 194399 | [194399-sucker-for-love-prelude.json](./194399-sucker-for-love-prelude.json) |
