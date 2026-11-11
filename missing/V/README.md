@@ -3371,6 +3371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vladimir Putin Style | 125362 | [125362-vladimir-putin-style.json](./125362-vladimir-putin-style.json) |
 | Vlak | 273190 | [273190-vlak.json](./273190-vlak.json) |
 | Vlak | 377281 | [377281-vlak.json](./377281-vlak.json) |
+| Vlare | 395911 | [395911-vlare.json](./395911-vlare.json) |
 | Vlinder Life | 301133 | [301133-vlinder-life.json](./301133-vlinder-life.json) |
 | Vlobs | 235536 | [235536-vlobs.json](./235536-vlobs.json) |
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
