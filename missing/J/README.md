@@ -3693,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumps VR | 156041 | [156041-jumps-vr.json](./156041-jumps-vr.json) |
 | Jumpscare Scare Jump | 407180 | [407180-jumpscare-scare-jump.json](./407180-jumpscare-scare-jump.json) |
 | Jumpscare Simulator | 337568 | [337568-jumpscare-simulator.json](./337568-jumpscare-simulator.json) |
+| Jumpscare Slayer | 348470 | [348470-jumpscare-slayer.json](./348470-jumpscare-slayer.json) |
 | Jumpscare Storey Loop | 395757 | [395757-jumpscare-storey-loop.json](./395757-jumpscare-storey-loop.json) |
 | Jumpscare to Live | 374715 | [374715-jumpscare-to-live.json](./374715-jumpscare-to-live.json) |
 | JumpSky | 74472 | [74472-jumpsky.json](./74472-jumpsky.json) |
