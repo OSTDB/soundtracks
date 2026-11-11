@@ -8077,6 +8077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Ships | 395154 | [395154-pirate-ships.json](./395154-pirate-ships.json) |
 | Pirate Shooter Fantasy Survival | 111075 | [111075-pirate-shooter-fantasy-survival.json](./111075-pirate-shooter-fantasy-survival.json) |
 | Pirate Simulator | 149924 | [149924-pirate-simulator.json](./149924-pirate-simulator.json) |
+| Pirate Simulator: Corsair Skull & Sails | 369254 | [369254-pirate-simulator-corsair-skull-and-sails.json](./369254-pirate-simulator-corsair-skull-and-sails.json) |
 | Pirate Solitaire | 58844 | [58844-pirate-solitaire.json](./58844-pirate-solitaire.json) |
 | Pirate Solitaire 2 | 195347 | [195347-pirate-solitaire-2.json](./195347-pirate-solitaire-2.json) |
 | Pirate Storm | 23531 | [23531-pirate-storm.json](./23531-pirate-storm.json) |
@@ -8144,6 +8145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of Gensokyo | 324287 | [324287-pirates-of-gensokyo.json](./324287-pirates-of-gensokyo.json) |
 | Pirates of Gravitae | 182296 | [182296-pirates-of-gravitae.json](./182296-pirates-of-gravitae.json) |
 | Pirates of Heaven | 237240 | [237240-pirates-of-heaven.json](./237240-pirates-of-heaven.json) |
+| Pirates of Justice | 369251 | [369251-pirates-of-justice.json](./369251-pirates-of-justice.json) |
 | Pirates of New Horizons | 65361 | [65361-pirates-of-new-horizons.json](./65361-pirates-of-new-horizons.json) |
 | Pirates of New Horizons: Planet Buster | 54287 | [54287-pirates-of-new-horizons-planet-buster.json](./54287-pirates-of-new-horizons-planet-buster.json) |
 | Pirates of Perfidy | 420549 | [420549-pirates-of-perfidy.json](./420549-pirates-of-perfidy.json) |
@@ -11981,6 +11983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Orange Islands | 213823 | [213823-pokemon-orange-islands.json](./213823-pokemon-orange-islands.json) |
 | Pokemon Orb Version | 283116 | [283116-pokemon-orb-version.json](./283116-pokemon-orb-version.json) |
 | Pokémon Origins | 395775 | [395775-pokemon-origins.json](./395775-pokemon-origins.json) |
+| Pokémon Otherside | 369472 | [369472-pokemon-otherside.json](./369472-pokemon-otherside.json) |
 | Pokémon Overlord | 383168 | [383168-pokemon-overlord.json](./383168-pokemon-overlord.json) |
 | Pokémon Panteón | 314723 | [314723-pokemon-panteon.json](./314723-pokemon-panteon.json) |
 | Pokémon Parallel Emerald | 397762 | [397762-pokemon-parallel-emerald.json](./397762-pokemon-parallel-emerald.json) |
