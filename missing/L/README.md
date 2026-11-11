@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Explorer | 57394 | [57394-last-explorer.json](./57394-last-explorer.json) |
 | Last Fantasy | 234482 | [234482-last-fantasy.json](./234482-last-fantasy.json) |
 | Last Fantasy Hentai | 149388 | [149388-last-fantasy-hentai.json](./149388-last-fantasy-hentai.json) |
+| Last Fisherman | 385001 | [385001-last-fisherman.json](./385001-last-fisherman.json) |
 | Last Fishing: Monster Clash | 220208 | [220208-last-fishing-monster-clash.json](./220208-last-fishing-monster-clash.json) |
 | Last Flag | 347665 | [347665-last-flag.json](./347665-last-flag.json) |
 | Last Flame | 181733 | [181733-last-flame.json](./181733-last-flame.json) |
@@ -7292,6 +7293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lofi Ball: Wipeout | 256277 | [256277-lofi-ball-wipeout.json](./256277-lofi-ball-wipeout.json) |
 | Lofi Chill Sessions: Relax Island | 343492 | [343492-lofi-chill-sessions-relax-island.json](./343492-lofi-chill-sessions-relax-island.json) |
 | Lofi Funkin' | 198381 | [198381-lofi-funkin.json](./198381-lofi-funkin.json) |
+| Lofi Furries | 385007 | [385007-lofi-furries.json](./385007-lofi-furries.json) |
 | Lofi Haven | 388418 | [388418-lofi-haven.json](./388418-lofi-haven.json) |
 | Lofi Hip Hop Worlds to Study in | 203207 | [203207-lofi-hip-hop-worlds-to-study-in.json](./203207-lofi-hip-hop-worlds-to-study-in.json) |
 | Lofi Hollow | 192787 | [192787-lofi-hollow.json](./192787-lofi-hollow.json) |
@@ -9580,6 +9582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Pop Mahjong: JangJang Shimasho | 130298 | [130298-lovely-pop-mahjong-jangjang-shimasho.json](./130298-lovely-pop-mahjong-jangjang-shimasho.json) |
 | Lovely Quest | 62445 | [62445-lovely-quest.json](./62445-lovely-quest.json) |
 | Lovely Quest: Unlimited | 147302 | [147302-lovely-quest-unlimited.json](./147302-lovely-quest-unlimited.json) |
+| Lovely Sex With Childhood Friend: An Innocent Girl Becomes Addicted to Lewd Play | 385013 | [385013-lovely-sex-with-childhood-friend-an-innocent-girl-becomes-addicted-to-lewd-play.json](./385013-lovely-sex-with-childhood-friend-an-innocent-girl-becomes-addicted-to-lewd-play.json) |
 | Lovely Sex with Tsundere Girl: She is too much into pleasure and loves your cock- | 384599 | [384599-lovely-sex-with-tsundere-girl-she-is-too-much-into-pleasure-and-loves-your-cock.json](./384599-lovely-sex-with-tsundere-girl-she-is-too-much-into-pleasure-and-loves-your-cock.json) |
 | Lovely Spot the Difference | 370813 | [370813-lovely-spot-the-difference.json](./370813-lovely-spot-the-difference.json) |
 | Lovely Spot the Difference Fantasy Edition | 379002 | [379002-lovely-spot-the-difference-fantasy-edition.json](./379002-lovely-spot-the-difference-fantasy-edition.json) |
@@ -10794,6 +10797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lycoris | 379603 | [379603-lycoris.json](./379603-lycoris.json) |
 | Lycoris;Lastwords | 319732 | [319732-lycoris-lastwords.json](./319732-lycoris-lastwords.json) |
 | Lycoris: Underworld | 413834 | [413834-lycoris-underworld.json](./413834-lycoris-underworld.json) |
+| Lydia Was Here | 385000 | [385000-lydia-was-here.json](./385000-lydia-was-here.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lydia's Labyrinth | 318537 | [318537-lydias-labyrinth.json](./318537-lydias-labyrinth.json) |
 | Lying Souls | 168508 | [168508-lying-souls.json](./168508-lying-souls.json) |
