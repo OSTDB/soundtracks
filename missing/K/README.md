@@ -1882,6 +1882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kengo: Legend of the 9 | 1423 | [1423-kengo-legend-of-the-9.json](./1423-kengo-legend-of-the-9.json) |
 | Kengo: Master of Bushido | 1420 | [1420-kengo-master-of-bushido.json](./1420-kengo-master-of-bushido.json) |
 | Kengohazard 2 | 118418 | [118418-kengohazard-2.json](./118418-kengohazard-2.json) |
+| Kenix and the Cat King | 367880 | [367880-kenix-and-the-cat-king.json](./367880-kenix-and-the-cat-king.json) |
 | Kenja no Ishi | 373029 | [373029-kenja-no-ishi.json](./373029-kenja-no-ishi.json) |
 | Kenji: Rise of a Hero | 85229 | [85229-kenji-rise-of-a-hero.json](./85229-kenji-rise-of-a-hero.json) |
 | Kenju | 39440 | [39440-kenju.json](./39440-kenju.json) |
