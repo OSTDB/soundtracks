@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1549,6 +1550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Bash | 251955 | [251955-ball-bash.json](./251955-ball-bash.json) |
 | Ball Blast | 101191 | [101191-ball-blast.json](./101191-ball-blast.json) |
 | Ball Blast | 356523 | [356523-ball-blast.json](./356523-ball-blast.json) |
+| Ball Blast: Complete Edition | 360232 | [360232-ball-blast-complete-edition.json](./360232-ball-blast-complete-edition.json) |
 | Ball Blast: Dreamland DLC | 356814 | [356814-ball-blast-dreamland-dlc.json](./356814-ball-blast-dreamland-dlc.json) |
 | Ball Blast: Halloween Edition | 376248 | [376248-ball-blast-halloween-edition.json](./376248-ball-blast-halloween-edition.json) |
 | Ball Blast: Platinum Edition | 395674 | [395674-ball-blast-platinum-edition.json](./395674-ball-blast-platinum-edition.json) |
@@ -14408,6 +14410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Speedjam 1 | 308526 | [308526-boss-speedjam-1.json](./308526-boss-speedjam-1.json) |
 | Boss Up | 365056 | [365056-boss-up.json](./365056-boss-up.json) |
 | Boss, Blind, Brandy | 349989 | [349989-boss-blind-brandy.json](./349989-boss-blind-brandy.json) |
+| Boss: Beyond Moria | 360273 | [360273-boss-beyond-moria.json](./360273-boss-beyond-moria.json) |
 | Boss! | 60766 | [60766-boss.json](./60766-boss.json) |
 | Bossa Presents | 190883 | [190883-bossa-presents.json](./190883-bossa-presents.json) |
 | BossConstructor | 17971 | [17971-bossconstructor.json](./17971-bossconstructor.json) |
@@ -18730,6 +18733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Garden | 294658 | [294658-bunny-garden.json](./294658-bunny-garden.json) |
 | Bunny Garden 2 | 375379 | [375379-bunny-garden-2.json](./375379-bunny-garden-2.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
+| Bunny Girls | 360224 | [360224-bunny-girls.json](./360224-bunny-girls.json) |
 | Bunny Gladiator | 89334 | [89334-bunny-gladiator.json](./89334-bunny-gladiator.json) |
 | Bunny Guntz | 294189 | [294189-bunny-guntz.json](./294189-bunny-guntz.json) |
 | Bunny Guys! | 258361 | [258361-bunny-guys.json](./258361-bunny-guys.json) |
@@ -18963,6 +18967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buried | 380046 | [380046-buried.json](./380046-buried.json) |
 | Buried Alive VR | 95123 | [95123-buried-alive-vr.json](./95123-buried-alive-vr.json) |
 | Buried Alive: Breathless Rescue | 258999 | [258999-buried-alive-breathless-rescue.json](./258999-buried-alive-breathless-rescue.json) |
+| Buried Alive: Breathless Rescue & Whittingham Asylum: The Investigation | 360237 | [360237-buried-alive-breathless-rescue-and-whittingham-asylum-the-investigation.json](./360237-buried-alive-breathless-rescue-and-whittingham-asylum-the-investigation.json) |
 | Buried Alive: The Annihilation VR | 128911 | [128911-buried-alive-the-annihilation-vr.json](./128911-buried-alive-the-annihilation-vr.json) |
 | Buried Below | 398736 | [398736-buried-below.json](./398736-buried-below.json) |
 | Buried Beneath | 108849 | [108849-buried-beneath.json](./108849-buried-beneath.json) |
