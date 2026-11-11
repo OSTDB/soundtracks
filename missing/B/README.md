@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -4608,7 +4609,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefish: Free Zombie Games | 39766 | [39766-battlefish-free-zombie-games.json](./39766-battlefish-free-zombie-games.json) |
 | Battlefleet Commander | 91552 | [91552-battlefleet-commander.json](./91552-battlefleet-commander.json) |
 | Battlefleet Engineer | 36999 | [36999-battlefleet-engineer.json](./36999-battlefleet-engineer.json) |
-| Battlefleet Gothic: Armada | 8713 | [8713-battlefleet-gothic-armada.json](./8713-battlefleet-gothic-armada.json) |
 | Battlefleet Gothic: Armada - Complete Edition | 154950 | [154950-battlefleet-gothic-armada-complete-edition.json](./154950-battlefleet-gothic-armada-complete-edition.json) |
 | Battlefleet Gothic: Armada - Deluxe Edition | 186341 | [186341-battlefleet-gothic-armada-deluxe-edition.json](./186341-battlefleet-gothic-armada-deluxe-edition.json) |
 | Battlefleet Gothic: Armada - Space Marines | 52637 | [52637-battlefleet-gothic-armada-space-marines.json](./52637-battlefleet-gothic-armada-space-marines.json) |
@@ -13286,6 +13286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boli | 407610 | [407610-boli.json](./407610-boli.json) |
 | Bolide | 332757 | [332757-bolide.json](./332757-bolide.json) |
 | BoliKa | 328072 | [328072-bolika.json](./328072-bolika.json) |
+| Bolinha | 317569 | [317569-bolinha.json](./317569-bolinha.json) |
 | Bolix | 300382 | [300382-bolix.json](./300382-bolix.json) |
 | Boll Deluxe | 134084 | [134084-boll-deluxe.json](./134084-boll-deluxe.json) |
 | Boll Tower | 344695 | [344695-boll-tower.json](./344695-boll-tower.json) |
@@ -14314,6 +14315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border of Insanity | 110152 | [110152-border-of-insanity.json](./110152-border-of-insanity.json) |
 | Border of Insanity Origins | 128206 | [128206-border-of-insanity-origins.json](./128206-border-of-insanity-origins.json) |
 | Border Officer | 117132 | [117132-border-officer.json](./117132-border-officer.json) |
+| Border Patrol Officer: Control Duty Simulator | 317567 | [317567-border-patrol-officer-control-duty-simulator.json](./317567-border-patrol-officer-control-duty-simulator.json) |
 | Border Patrol Simulator | 334342 | [334342-border-patrol-simulator.json](./334342-border-patrol-simulator.json) |
 | Border Pioneer | 290777 | [290777-border-pioneer.json](./290777-border-pioneer.json) |
 | Border Police: Contraband & Dinosaur RPG: Dino Survival Simulator | 342352 | [342352-border-police-contraband-and-dinosaur-rpg-dino-survival-simulator.json](./342352-border-police-contraband-and-dinosaur-rpg-dino-survival-simulator.json) |
