@@ -20342,7 +20342,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Pub | 158630 | [158630-cthulhu-pub.json](./158630-cthulhu-pub.json) |
 | Cthulhu Rampage | 420497 | [420497-cthulhu-rampage.json](./420497-cthulhu-rampage.json) |
 | Cthulhu Realms | 32510 | [32510-cthulhu-realms.json](./32510-cthulhu-realms.json) |
-| Cthulhu Saves Christmas | 124286 | [124286-cthulhu-saves-christmas.json](./124286-cthulhu-saves-christmas.json) |
 | Cthulhu Saves the World | 8427 | [8427-cthulhu-saves-the-world.json](./8427-cthulhu-saves-the-world.json) |
 | Cthulhu Saves the World: Super Hyper Enhanced Championship Edition Alpha Diamond DX Plus Alpha FES HD – Premium Enhanced Game of the Year Collector’s Edition (without Avatars!) | 133889 | [133889-cthulhu-saves-the-world-super-hyper-enhanced-championship-edition-alpha-diamond-dx-plus-alpha-fes-hd-premium-enhanced-game-of-the-year-collector-s-edition-without-avatars.json](./133889-cthulhu-saves-the-world-super-hyper-enhanced-championship-edition-alpha-diamond-dx-plus-alpha-fes-hd-premium-enhanced-game-of-the-year-collector-s-edition-without-avatars.json) |
 | Cthulhu Tower | 266750 | [266750-cthulhu-tower.json](./266750-cthulhu-tower.json) |
