@@ -9945,6 +9945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anchor Panic | 279428 | [279428-anchor-panic.json](./279428-anchor-panic.json) |
 | Anchor Up | 166050 | [166050-anchor-up.json](./166050-anchor-up.json) |
 | Anchor-13 | 408047 | [408047-anchor-13.json](./408047-anchor-13.json) |
+| Anchor: Quest for Atlantis | 337336 | [337336-anchor-quest-for-atlantis.json](./337336-anchor-quest-for-atlantis.json) |
 | Anchor: The Last Hope of the Brilliant Ocean | 311427 | [311427-anchor-the-last-hope-of-the-brilliant-ocean.json](./311427-anchor-the-last-hope-of-the-brilliant-ocean.json) |
 | Anchor's Lament | 372720 | [372720-anchors-lament.json](./372720-anchors-lament.json) |
 | Anchored | 182787 | [182787-anchored.json](./182787-anchored.json) |
@@ -11601,6 +11602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomaly Evolution | 377943 | [377943-anomaly-evolution.json](./377943-anomaly-evolution.json) |
 | Anomaly Exit | 290720 | [290720-anomaly-exit.json](./290720-anomaly-exit.json) |
 | Anomaly Hotel | 298446 | [298446-anomaly-hotel.json](./298446-anomaly-hotel.json) |
+| Anomaly Hunter: Observation Duty | 336812 | [336812-anomaly-hunter-observation-duty.json](./336812-anomaly-hunter-observation-duty.json) |
 | Anomaly Investigations | 298740 | [298740-anomaly-investigations.json](./298740-anomaly-investigations.json) |
 | Anomaly Jobs: Data Center | 402105 | [402105-anomaly-jobs-data-center.json](./402105-anomaly-jobs-data-center.json) |
 | Anomaly Living | 334922 | [334922-anomaly-living.json](./334922-anomaly-living.json) |
@@ -16791,6 +16793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aster Initiative | 274035 | [274035-aster-initiative.json](./274035-aster-initiative.json) |
 | Aster League: 2179 | 408839 | [408839-aster-league-2179.json](./408839-aster-league-2179.json) |
 | Aster Pebble and the Case of Bad Bureaucracy | 383402 | [383402-aster-pebble-and-the-case-of-bad-bureaucracy.json](./383402-aster-pebble-and-the-case-of-bad-bureaucracy.json) |
+| Aster Symphona | 337322 | [337322-aster-symphona.json](./337322-aster-symphona.json) |
 | Aster Tatariqus | 253704 | [253704-aster-tatariqus.json](./253704-aster-tatariqus.json) |
 | Astera | 304678 | [304678-astera.json](./304678-astera.json) |
 | Asterball | 290883 | [290883-asterball.json](./290883-asterball.json) |
