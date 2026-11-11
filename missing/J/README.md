@@ -4263,6 +4263,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2025: Deluxe Edition | 320685 | [320685-just-dance-2025-deluxe-edition.json](./320685-just-dance-2025-deluxe-edition.json) |
 | Just Dance 2025: Ultimate Edition | 320686 | [320686-just-dance-2025-ultimate-edition.json](./320686-just-dance-2025-ultimate-edition.json) |
 | Just Dance 2026 Edition | 381725 | [381725-just-dance-2026-edition.json](./381725-just-dance-2026-edition.json) |
+| Just Dance 2026 Edition: Deluxe Edition | 373412 | [373412-just-dance-2026-edition-deluxe-edition.json](./373412-just-dance-2026-edition-deluxe-edition.json) |
+| Just Dance 2026 Edition: Ultimate Edition | 373413 | [373413-just-dance-2026-edition-ultimate-edition.json](./373413-just-dance-2026-edition-ultimate-edition.json) |
 | Just Dance 3 | 2705 | [2705-just-dance-3.json](./2705-just-dance-3.json) |
 | Just Dance 3: Target Exclusive Edition | 375276 | [375276-just-dance-3-target-exclusive-edition.json](./375276-just-dance-3-target-exclusive-edition.json) |
 | Just Dance 3: Valentine Pack | 386639 | [386639-just-dance-3-valentine-pack.json](./386639-just-dance-3-valentine-pack.json) |
