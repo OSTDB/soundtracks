@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NachoCado | 246084 | [246084-nachocado.json](./246084-nachocado.json) |
 | Nacht-sama is quitting being the demon king! | 262788 | [262788-nacht-sama-is-quitting-being-the-demon-king.json](./262788-nacht-sama-is-quitting-being-the-demon-king.json) |
 | Nachtigal | 57177 | [57177-nachtigal.json](./57177-nachtigal.json) |
+| Nachtmahr | 356909 | [356909-nachtmahr.json](./356909-nachtmahr.json) |
 | Nachtmission | 94966 | [94966-nachtmission.json](./94966-nachtmission.json) |
 | Nachtschicht | 345797 | [345797-nachtschicht.json](./345797-nachtschicht.json) |
 | Nachzehrer | 285302 | [285302-nachzehrer.json](./285302-nachzehrer.json) |
@@ -5792,6 +5793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintendogs + Cats: Golden Retriever & New Friends | 21935 | [21935-nintendogs-cats-golden-retriever-and-new-friends.json](./21935-nintendogs-cats-golden-retriever-and-new-friends.json) |
 | Nintendogs + Cats: Shiba Inu & New Friends | 222328 | [222328-nintendogs-cats-shiba-inu-and-new-friends.json](./222328-nintendogs-cats-shiba-inu-and-new-friends.json) |
 | Nintendogs + Cats: Toy Poodle & New Friends | 3059 | [3059-nintendogs-cats-toy-poodle-and-new-friends.json](./3059-nintendogs-cats-toy-poodle-and-new-friends.json) |
+| Nintendogs Deluxe | 356919 | [356919-nintendogs-deluxe.json](./356919-nintendogs-deluxe.json) |
 | Nintendogs: Best Friends | 47727 | [47727-nintendogs-best-friends.json](./47727-nintendogs-best-friends.json) |
 | Nintendogs: Chihuahua & Friends | 47707 | [47707-nintendogs-chihuahua-and-friends.json](./47707-nintendogs-chihuahua-and-friends.json) |
 | Nintendogs: Dachshund & Friends | 47710 | [47710-nintendogs-dachshund-and-friends.json](./47710-nintendogs-dachshund-and-friends.json) |
