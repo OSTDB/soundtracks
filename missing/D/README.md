@@ -8828,6 +8828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devour | 181916 | [181916-devour.json](./181916-devour.json) |
 | Devour the Elixir | 390151 | [390151-devour-the-elixir.json](./390151-devour-the-elixir.json) |
 | Devour Them All | 72510 | [72510-devour-them-all.json](./72510-devour-them-all.json) |
+| Devour: The Carnival | 375085 | [375085-devour-the-carnival.json](./375085-devour-the-carnival.json) |
 | Devoured by Darkness | 216015 | [216015-devoured-by-darkness.json](./216015-devoured-by-darkness.json) |
 | Devoured Time | 35583 | [35583-devoured-time.json](./35583-devoured-time.json) |
 | Devouring Stars | 35663 | [35663-devouring-stars.json](./35663-devouring-stars.json) |
@@ -10122,6 +10123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DingDingDing | 109719 | [109719-dingdingding.json](./109719-dingdingding.json) |
 | DingDongVG's Summer Resort | 312289 | [312289-dingdongvgs-summer-resort.json](./312289-dingdongvgs-summer-resort.json) |
 | Dinghai: The Ocean Pillar | 404908 | [404908-dinghai-the-ocean-pillar.json](./404908-dinghai-the-ocean-pillar.json) |
+| Dingir OS | 375080 | [375080-dingir-os.json](./375080-dingir-os.json) |
 | Dingleberries | 132509 | [132509-dingleberries.json](./132509-dingleberries.json) |
 | Dinglehoppers | 246534 | [246534-dinglehoppers.json](./246534-dinglehoppers.json) |
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
@@ -18977,6 +18979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumb Ways to Die 4 | 248649 | [248649-dumb-ways-to-die-4.json](./248649-dumb-ways-to-die-4.json) |
 | Dumb Ways to Draw | 231864 | [231864-dumb-ways-to-draw.json](./231864-dumb-ways-to-draw.json) |
 | Dumb Ways to Draw 2 | 231861 | [231861-dumb-ways-to-draw-2.json](./231861-dumb-ways-to-draw-2.json) |
+| Dumb Ways to Party | 375096 | [375096-dumb-ways-to-party.json](./375096-dumb-ways-to-party.json) |
 | Dumb Ways to Survive | 297229 | [297229-dumb-ways-to-survive.json](./297229-dumb-ways-to-survive.json) |
 | Dumb Witchfinder | 362018 | [362018-dumb-witchfinder.json](./362018-dumb-witchfinder.json) |
 | Dumball Rush | 278950 | [278950-dumball-rush.json](./278950-dumball-rush.json) |
