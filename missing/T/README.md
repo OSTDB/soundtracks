@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythm Connect | 269597 | [269597-taiko-no-tatsujin-rhythm-connect.json](./269597-taiko-no-tatsujin-rhythm-connect.json) |
 | Taiko no Tatsujin: Rhythm Festival | 191409 | [191409-taiko-no-tatsujin-rhythm-festival.json](./191409-taiko-no-tatsujin-rhythm-festival.json) |
 | Taiko no Tatsujin: Rhythm Festival - 2000s Pops Pack | 356257 | [356257-taiko-no-tatsujin-rhythm-festival-2000s-pops-pack.json](./356257-taiko-no-tatsujin-rhythm-festival-2000s-pops-pack.json) |
+| Taiko no Tatsujin: Rhythm Festival - 2020s Pops Pack | 365334 | [365334-taiko-no-tatsujin-rhythm-festival-2020s-pops-pack.json](./365334-taiko-no-tatsujin-rhythm-festival-2020s-pops-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - 90s Pops Pack | 416680 | [416680-taiko-no-tatsujin-rhythm-festival-90s-pops-pack.json](./416680-taiko-no-tatsujin-rhythm-festival-90s-pops-pack.json) |
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 1 | 356089 | [356089-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-1.json](./356089-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-1.json) |
 | Taiko no Tatsujin: Rhythm Festival - Anime Pack Vol. 2 | 356090 | [356090-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-2.json](./356090-taiko-no-tatsujin-rhythm-festival-anime-pack-vol-2.json) |
@@ -9019,6 +9020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dream | 272120 | [272120-the-dream.json](./272120-the-dream.json) |
 | The Dream Alchemist | 179696 | [179696-the-dream-alchemist.json](./179696-the-dream-alchemist.json) |
 | The Dream Circus | 387118 | [387118-the-dream-circus.json](./387118-the-dream-circus.json) |
+| The Dream Collector | 365906 | [365906-the-dream-collector.json](./365906-the-dream-collector.json) |
 | The Dream Collector | 75914 | [75914-the-dream-collector.json](./75914-the-dream-collector.json) |
 | The Dream Compass | 108123 | [108123-the-dream-compass.json](./108123-the-dream-compass.json) |
 | The Dream Diary | 229259 | [229259-the-dream-diary.json](./229259-the-dream-diary.json) |
@@ -10808,6 +10810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Jump 5 | 99416 | [99416-the-grand-jump-5.json](./99416-the-grand-jump-5.json) |
 | The Grand Lord | 148643 | [148643-the-grand-lord.json](./148643-the-grand-lord.json) |
 | The Grand Mafia | 212519 | [212519-the-grand-mafia.json](./212519-the-grand-mafia.json) |
+| The Grand Planto Heists | 365333 | [365333-the-grand-planto-heists.json](./365333-the-grand-planto-heists.json) |
 | The Grand Prismatic | 411613 | [411613-the-grand-prismatic.json](./411613-the-grand-prismatic.json) |
 | The Grand Sumo | 123161 | [123161-the-grand-sumo.json](./123161-the-grand-sumo.json) |
 | The Grand Tap Tournament | 38640 | [38640-the-grand-tap-tournament.json](./38640-the-grand-tap-tournament.json) |
@@ -20550,6 +20553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheCube | 380904 | [380904-thecube.json](./380904-thecube.json) |
 | TheDawn | 141735 | [141735-thedawn.json](./141735-thedawn.json) |
 | TheDay | 292935 | [292935-theday.json](./292935-theday.json) |
+| Theden | 365909 | [365909-theden.json](./365909-theden.json) |
 | TheDrippingSound | 392494 | [392494-thedrippingsound.json](./392494-thedrippingsound.json) |
 | TheExit8NYC | 305065 | [305065-theexit8nyc.json](./305065-theexit8nyc.json) |
 | TheFirstClass VR | 74538 | [74538-thefirstclass-vr.json](./74538-thefirstclass-vr.json) |
@@ -25045,6 +25049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Visitors | 254656 | [254656-tiny-visitors.json](./254656-tiny-visitors.json) |
 | Tiny Whaley | 267670 | [267670-tiny-whaley.json](./267670-tiny-whaley.json) |
 | Tiny Whaley 2 | 312978 | [312978-tiny-whaley-2.json](./312978-tiny-whaley-2.json) |
+| Tiny Whiny Island | 365923 | [365923-tiny-whiny-island.json](./365923-tiny-whiny-island.json) |
 | Tiny Whoop GO | 144143 | [144143-tiny-whoop-go.json](./144143-tiny-whoop-go.json) |
 | Tiny Wings | 7780 | [7780-tiny-wings.json](./7780-tiny-wings.json) |
 | Tiny Witch | 188725 | [188725-tiny-witch.json](./188725-tiny-witch.json) |
@@ -27682,6 +27687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Accurate Dating Simulator | 241505 | [241505-totally-accurate-dating-simulator.json](./241505-totally-accurate-dating-simulator.json) |
 | Totally Accurate GamePlay | 188321 | [188321-totally-accurate-gameplay.json](./188321-totally-accurate-gameplay.json) |
 | Totally Accurate Holiday Bowling | 331259 | [331259-totally-accurate-holiday-bowling.json](./331259-totally-accurate-holiday-bowling.json) |
+| Totally Accurate Kissing Booth Simulator | 365917 | [365917-totally-accurate-kissing-booth-simulator.json](./365917-totally-accurate-kissing-booth-simulator.json) |
 | Totally Baseball | 127163 | [127163-totally-baseball.json](./127163-totally-baseball.json) |
 | Totally Convenient | 188907 | [188907-totally-convenient.json](./188907-totally-convenient.json) |
 | Totally Defenceless | 331801 | [331801-totally-defenceless.json](./331801-totally-defenceless.json) |
