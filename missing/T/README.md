@@ -12771,6 +12771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Haven | 127615 | [127615-the-last-haven.json](./127615-the-last-haven.json) |
 | The Last Haven | 381306 | [381306-the-last-haven.json](./381306-the-last-haven.json) |
 | The Last Hearth Defense | 352321 | [352321-the-last-hearth-defense.json](./352321-the-last-hearth-defense.json) |
+| The Last Hentai: Miku | 367885 | [367885-the-last-hentai-miku.json](./367885-the-last-hentai-miku.json) |
 | The Last Hero | 343592 | [343592-the-last-hero.json](./343592-the-last-hero.json) |
 | The Last Hero | 343593 | [343593-the-last-hero.json](./343593-the-last-hero.json) |
 | The Last Hero | 377321 | [377321-the-last-hero.json](./377321-the-last-hero.json) |
@@ -16745,6 +16746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Royal Romance: Book 3 | 313670 | [313670-the-royal-romance-book-3.json](./313670-the-royal-romance-book-3.json) |
 | The Royal Writ | 340830 | [340830-the-royal-writ.json](./340830-the-royal-writ.json) |
 | The RPG | 250819 | [250819-the-rpg.json](./250819-the-rpg.json) |
+| The RPG Engine | 368385 | [368385-the-rpg-engine.json](./368385-the-rpg-engine.json) |
 | The RPS Game Show | 371189 | [371189-the-rps-game-show.json](./371189-the-rps-game-show.json) |
 | The Rub Rabbits! | 20488 | [20488-the-rub-rabbits.json](./20488-the-rub-rabbits.json) |
 | The Rubro Rose's Castle | 271563 | [271563-the-rubro-roses-castle.json](./271563-the-rubro-roses-castle.json) |
