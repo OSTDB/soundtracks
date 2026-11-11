@@ -13155,7 +13155,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Araf: The In Between | 425833 | [425833-araf-the-in-between.json](./425833-araf-the-in-between.json) |
 | Arafinn Kontor | 203850 | [203850-arafinn-kontor.json](./203850-arafinn-kontor.json) |
 | Aragami: Collector's Edition | 38489 | [38489-aragami-collectors-edition.json](./38489-aragami-collectors-edition.json) |
-| Aragami: Nightfall | 96020 | [96020-aragami-nightfall.json](./96020-aragami-nightfall.json) |
 | Aragami: Shadow Edition | 100437 | [100437-aragami-shadow-edition.json](./100437-aragami-shadow-edition.json) |
 | Araha : Curse of Yieun Island | 126347 | [126347-araha-curse-of-yieun-island.json](./126347-araha-curse-of-yieun-island.json) |
 | Arai-san Mansion Exploration Game: Incarnation | 402949 | [402949-arai-san-mansion-exploration-game-incarnation.json](./402949-arai-san-mansion-exploration-game-incarnation.json) |
