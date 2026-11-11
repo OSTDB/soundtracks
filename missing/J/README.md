@@ -1713,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiānghú Xíng | 154763 | [154763-jianghu-xing.json](./154763-jianghu-xing.json) |
 | Jiānghú Yúshēng: Yuánqǐ | 395753 | [395753-jianghu-yusheng-yuanqi.json](./395753-jianghu-yusheng-yuanqi.json) |
 | Jiangshi x Daoshi | 135880 | [135880-jiangshi-x-daoshi.json](./135880-jiangshi-x-daoshi.json) |
+| Jianling: The Chosen Soul | 327519 | [327519-jianling-the-chosen-soul.json](./327519-jianling-the-chosen-soul.json) |
 | JianLong Mountain in Chongzuo City | 377041 | [377041-jianlong-mountain-in-chongzuo-city.json](./377041-jianlong-mountain-in-chongzuo-city.json) |
 | Jiànxí Sǐshén | 374622 | [374622-jianxi-sishen.json](./374622-jianxi-sishen.json) |
 | Jiànxiá Qíngyuán Èr | 350553 | [350553-jianxia-qingyuan-er.json](./350553-jianxia-qingyuan-er.json) |
@@ -2773,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jolly Battle | 105538 | [105538-jolly-battle.json](./105538-jolly-battle.json) |
 | Jolly Bunny's Adventure | 151592 | [151592-jolly-bunnys-adventure.json](./151592-jolly-bunnys-adventure.json) |
 | Jolly Chimp Champ | 291587 | [291587-jolly-chimp-champ.json](./291587-jolly-chimp-champ.json) |
+| Jolly Essentials | 327526 | [327526-jolly-essentials.json](./327526-jolly-essentials.json) |
 | Jolly Good: Cakes and Ale | 156882 | [156882-jolly-good-cakes-and-ale.json](./156882-jolly-good-cakes-and-ale.json) |
 | Jolly Good: Tea and Scones | 273805 | [273805-jolly-good-tea-and-scones.json](./273805-jolly-good-tea-and-scones.json) |
 | Jolly Jam | 56432 | [56432-jolly-jam.json](./56432-jolly-jam.json) |
@@ -3690,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpmaster | 303747 | [303747-jumpmaster.json](./303747-jumpmaster.json) |
 | Jumpng Disable | 329193 | [329193-jumpng-disable.json](./329193-jumpng-disable.json) |
 | Jumpo Joe | 103423 | [103423-jumpo-joe.json](./103423-jumpo-joe.json) |
+| Jumpo World | 327528 | [327528-jumpo-world.json](./327528-jumpo-world.json) |
 | JumpoCalypse | 406124 | [406124-jumpocalypse.json](./406124-jumpocalypse.json) |
 | Jumponaut | 102978 | [102978-jumponaut.json](./102978-jumponaut.json) |
 | JumpoPitec | 111968 | [111968-jumpopitec.json](./111968-jumpopitec.json) |
