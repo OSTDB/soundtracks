@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-scape | 186962 | [186962-e-scape.json](./186962-e-scape.json) |
 | E-Shop Tycoon | 293624 | [293624-e-shop-tycoon.json](./293624-e-shop-tycoon.json) |
 | E-Shop Tycoon | 390034 | [390034-e-shop-tycoon.json](./390034-e-shop-tycoon.json) |
+| E-Snake | 346280 | [346280-e-snake.json](./346280-e-snake.json) |
 | E-Startup | 96707 | [96707-e-startup.json](./96707-e-startup.json) |
 | E-Startup 2: Business Tycoon | 292488 | [292488-e-startup-2-business-tycoon.json](./292488-e-startup-2-business-tycoon.json) |
 | E-Tech Simulator | 308960 | [308960-e-tech-simulator.json](./308960-e-tech-simulator.json) |
@@ -2496,6 +2497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Saga | 361301 | [361301-elemental-saga.json](./361301-elemental-saga.json) |
 | Elemental Seasons | 323147 | [323147-elemental-seasons.json](./323147-elemental-seasons.json) |
 | Elemental Showdown | 325380 | [325380-elemental-showdown.json](./325380-elemental-showdown.json) |
+| Elemental Slime | 346282 | [346282-elemental-slime.json](./346282-elemental-slime.json) |
 | Elemental Soul | 391606 | [391606-elemental-soul.json](./391606-elemental-soul.json) |
 | Elemental Strike: Mirage Tower | 132107 | [132107-elemental-strike-mirage-tower.json](./132107-elemental-strike-mirage-tower.json) |
 | Elemental Surge | 339735 | [339735-elemental-surge.json](./339735-elemental-surge.json) |
@@ -3813,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End of Despair | 199354 | [199354-end-of-despair.json](./199354-end-of-despair.json) |
 | End of Eden | 379854 | [379854-end-of-eden.json](./379854-end-of-eden.json) |
 | End of Edge | 257384 | [257384-end-of-edge.json](./257384-end-of-edge.json) |
+| End of Ember | 346315 | [346315-end-of-ember.json](./346315-end-of-ember.json) |
 | End of End | 394122 | [394122-end-of-end.json](./394122-end-of-end.json) |
 | End of Everything | 387153 | [387153-end-of-everything.json](./387153-end-of-everything.json) |
 | End of Garbage | 382774 | [382774-end-of-garbage.json](./382774-end-of-garbage.json) |
@@ -8237,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exmortis 3 | 242163 | [242163-exmortis-3.json](./242163-exmortis-3.json) |
 | Exo | 185737 | [185737-exo.json](./185737-exo.json) |
 | Exo | 398008 | [398008-exo.json](./398008-exo.json) |
+| Exo Attack | 346284 | [346284-exo-attack.json](./346284-exo-attack.json) |
 | Exo Digger | 407813 | [407813-exo-digger.json](./407813-exo-digger.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
 | Exo Exit | 18542 | [18542-exo-exit.json](./18542-exo-exit.json) |
@@ -9024,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes of War | 249913 | [249913-eyes-of-war.json](./249913-eyes-of-war.json) |
 | Eyes on Me | 385855 | [385855-eyes-on-me.json](./385855-eyes-on-me.json) |
 | Eyes On Me | 383577 | [383577-eyes-on-me.json](./383577-eyes-on-me.json) |
+| Eyes on the Exam | 345746 | [345746-eyes-on-the-exam.json](./345746-eyes-on-the-exam.json) |
 | Eyes on Them | 405769 | [405769-eyes-on-them.json](./405769-eyes-on-them.json) |
 | Eyes on Yuki | 361287 | [361287-eyes-on-yuki.json](./361287-eyes-on-yuki.json) |
 | Eyes That Hypnotise | 324878 | [324878-eyes-that-hypnotise.json](./324878-eyes-that-hypnotise.json) |
