@@ -8983,6 +8983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Horde + Cyber Protocol | 237571 | [237571-fluffy-horde-cyber-protocol.json](./237571-fluffy-horde-cyber-protocol.json) |
 | Fluffy Kitchen Saga | 369078 | [369078-fluffy-kitchen-saga.json](./369078-fluffy-kitchen-saga.json) |
 | Fluffy Milo | 195631 | [195631-fluffy-milo.json](./195631-fluffy-milo.json) |
+| Fluffy Party | 365910 | [365910-fluffy-party.json](./365910-fluffy-party.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
 | Fluffy Sailors | 309924 | [309924-fluffy-sailors.json](./309924-fluffy-sailors.json) |
 | Fluffy Showdown | 360679 | [360679-fluffy-showdown.json](./360679-fluffy-showdown.json) |
