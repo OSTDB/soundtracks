@@ -3001,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Kagura: Natsu's Story | 402618 | [402618-dawn-of-kagura-natsus-story.json](./402618-dawn-of-kagura-natsus-story.json) |
 | Dawn of Mages | 241855 | [241855-dawn-of-mages.json](./241855-dawn-of-mages.json) |
 | Dawn of Magic | 11024 | [11024-dawn-of-magic.json](./11024-dawn-of-magic.json) |
+| Dawn of Magic | 321727 | [321727-dawn-of-magic.json](./321727-dawn-of-magic.json) |
 | Dawn of Magic 2 | 11025 | [11025-dawn-of-magic-2.json](./11025-dawn-of-magic-2.json) |
 | Dawn of Man | 102163 | [102163-dawn-of-man.json](./102163-dawn-of-man.json) |
 | Dawn of Man + Planetbase | 254294 | [254294-dawn-of-man-planetbase.json](./254294-dawn-of-man-planetbase.json) |
@@ -3435,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F-5E Flaming Cliffs | 321853 | [321853-dcs-world-f-5e-flaming-cliffs.json](./321853-dcs-world-f-5e-flaming-cliffs.json) |
 | DCS World: F-5E Remastered | 324873 | [324873-dcs-world-f-5e-remastered.json](./324873-dcs-world-f-5e-remastered.json) |
 | DCS World: F-5E Tiger II | 156303 | [156303-dcs-world-f-5e-tiger-ii.json](./156303-dcs-world-f-5e-tiger-ii.json) |
+| DCS World: F-86F Flaming Cliffs | 321691 | [321691-dcs-world-f-86f-flaming-cliffs.json](./321691-dcs-world-f-86f-flaming-cliffs.json) |
 | DCS World: F-86F Sabre | 156272 | [156272-dcs-world-f-86f-sabre.json](./156272-dcs-world-f-86f-sabre.json) |
 | DCS World: F-86F Sabre Hunters Over the Yalu Campaign | 156265 | [156265-dcs-world-f-86f-sabre-hunters-over-the-yalu-campaign.json](./156265-dcs-world-f-86f-sabre-hunters-over-the-yalu-campaign.json) |
 | DCS World: F/A-18C - Aggressors BFM Campaign | 169958 | [169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json](./169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json) |
@@ -5056,6 +5058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death to Spies: Gold Edition | 51291 | [51291-death-to-spies-gold-edition.json](./51291-death-to-spies-gold-edition.json) |
 | Death to Spies: Moment of Truth | 9377 | [9377-death-to-spies-moment-of-truth.json](./9377-death-to-spies-moment-of-truth.json) |
 | Death to the Dragon Lord | 126795 | [126795-death-to-the-dragon-lord.json](./126795-death-to-the-dragon-lord.json) |
+| Death to Venice | 321005 | [321005-death-to-venice.json](./321005-death-to-venice.json) |
 | Death Toll | 74762 | [74762-death-toll.json](./74762-death-toll.json) |
 | Death Tormention: The Complete Trilogy | 261287 | [261287-death-tormention-the-complete-trilogy.json](./261287-death-tormention-the-complete-trilogy.json) |
 | Death Tour | 242798 | [242798-death-tour.json](./242798-death-tour.json) |
@@ -7435,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Darkness | 292484 | [292484-depths-of-darkness.json](./292484-depths-of-darkness.json) |
 | Depths of Despair | 300443 | [300443-depths-of-despair.json](./300443-depths-of-despair.json) |
 | Depths of Dread | 32174 | [32174-depths-of-dread.json](./32174-depths-of-dread.json) |
+| Depths of Endor | 320627 | [320627-depths-of-endor.json](./320627-depths-of-endor.json) |
 | Depths of Europa | 413404 | [413404-depths-of-europa.json](./413404-depths-of-europa.json) |
 | Depths of Faveg | 318060 | [318060-depths-of-faveg.json](./318060-depths-of-faveg.json) |
 | Depths of Fear: Knossos | 10182 | [10182-depths-of-fear-knossos.json](./10182-depths-of-fear-knossos.json) |
@@ -11190,6 +11194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: The Laugh Floor | 288695 | [288695-disney-dreamlight-valley-the-laugh-floor.json](./288695-disney-dreamlight-valley-the-laugh-floor.json) |
 | Disney Dreamlight Valley: The Pumpkin King Returns | 279239 | [279239-disney-dreamlight-valley-the-pumpkin-king-returns.json](./279239-disney-dreamlight-valley-the-pumpkin-king-returns.json) |
 | Disney Dreamlight Valley: The Remembering | 252303 | [252303-disney-dreamlight-valley-the-remembering.json](./252303-disney-dreamlight-valley-the-remembering.json) |
+| Disney Dreamlight Valley: The Storybook Vale | 321087 | [321087-disney-dreamlight-valley-the-storybook-vale.json](./321087-disney-dreamlight-valley-the-storybook-vale.json) |
 | Disney Dreamlight Valley: The Storybook Vale Bundle | 331227 | [331227-disney-dreamlight-valley-the-storybook-vale-bundle.json](./331227-disney-dreamlight-valley-the-storybook-vale-bundle.json) |
 | Disney Dreamlight Valley: The Winter Ball | 381099 | [381099-disney-dreamlight-valley-the-winter-ball.json](./381099-disney-dreamlight-valley-the-winter-ball.json) |
 | Disney Dreamlight Valley: Thrills & Frills | 300014 | [300014-disney-dreamlight-valley-thrills-and-frills.json](./300014-disney-dreamlight-valley-thrills-and-frills.json) |
