@@ -3589,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Soul | 295132 | [295132-void-soul.json](./295132-void-soul.json) |
 | Void Soul Awakening | 192516 | [192516-void-soul-awakening.json](./192516-void-soul-awakening.json) |
 | Void Source | 41941 | [41941-void-source.json](./41941-void-source.json) |
+| Void Source Origins | 368963 | [368963-void-source-origins.json](./368963-void-source-origins.json) |
 | Void Stealer: Bodycam Horror | 317975 | [317975-void-stealer-bodycam-horror.json](./317975-void-stealer-bodycam-horror.json) |
 | Void Step | 419159 | [419159-void-step.json](./419159-void-step.json) |
 | Void Stranger | 178900 | [178900-void-stranger.json](./178900-void-stranger.json) |
