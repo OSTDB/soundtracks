@@ -5375,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Blue Buddy | 44249 | [44249-lil-blue-buddy.json](./44249-lil-blue-buddy.json) |
 | Lil' Drone | 186149 | [186149-lil-drone.json](./186149-lil-drone.json) |
 | Lil' Guardsman | 243914 | [243914-lil-guardsman.json](./243914-lil-guardsman.json) |
+| Lil' Henry and Penny's Big Adventure Pack | 375691 | [375691-lil-henry-and-pennys-big-adventure-pack.json](./375691-lil-henry-and-pennys-big-adventure-pack.json) |
 | Lil' Herder | 146891 | [146891-lil-herder.json](./146891-lil-herder.json) |
 | Lil' Hustler | 281859 | [281859-lil-hustler.json](./281859-lil-hustler.json) |
 | Lil' King | 182743 | [182743-lil-king.json](./182743-lil-king.json) |
@@ -7851,6 +7852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loondon | 91834 | [91834-loondon.json](./91834-loondon.json) |
 | Looney Landers | 325936 | [325936-looney-landers.json](./325936-looney-landers.json) |
 | Looney Rally | 86489 | [86489-looney-rally.json](./86489-looney-rally.json) |
+| Looney Test | 375716 | [375716-looney-test.json](./375716-looney-test.json) |
 | Looney Toons Dash revived | 100803 | [100803-looney-toons-dash-revived.json](./100803-looney-toons-dash-revived.json) |
 | Looney Tune Dash | 101947 | [101947-looney-tune-dash.json](./101947-looney-tune-dash.json) |
 | Looney Tunes | 265041 | [265041-looney-tunes.json](./265041-looney-tunes.json) |
