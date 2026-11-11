@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T20:55:50.816Z",
-  "total_soundtracks": 3067,
+  "generated_at": "2026-11-11T21:01:06.448Z",
+  "total_soundtracks": 3070,
   "games": [
     {
       "igdb_id": 7522,
@@ -10253,6 +10253,20 @@
         {
           "album_name": "Elroy and the Aliens (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5B6I1aCOopaBywImX5ZglS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 58994,
+      "game_name": "Elsinore",
+      "game_url": "https://ostdb.net/games/elsinore",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc1f924b16ea80b828545951",
+      "albums": [
+        {
+          "album_name": "Elsinore (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6hIuy1V93a0j51srQmiNq6",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -27605,6 +27619,20 @@
       ]
     },
     {
+      "igdb_id": 36390,
+      "game_name": "Serious Sam's Bogus Detour",
+      "game_url": "https://ostdb.net/games/serious-sams-bogus-detour",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739908f0131f0ab78204ae2de8",
+      "albums": [
+        {
+          "album_name": "Serious Sam's Bogus Detour (Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/07adXMI0SzNbEzMc7FW2EL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 350179,
       "game_name": "Servant of the Lake",
       "game_url": "https://ostdb.net/games/servant-of-the-lake",
@@ -34839,6 +34867,20 @@
         {
           "album_name": "Tin Hearts (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3ucOa33N5mdGEIUB9vaC3Q",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 54978,
+      "game_name": "Tiny Bubbles",
+      "game_url": "https://ostdb.net/games/tiny-bubbles",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737824ea6e06ef6a1e6b78ea11",
+      "albums": [
+        {
+          "album_name": "Tiny Bubbles (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0airxTtmnbjsacQqRYUAT0",
           "apple_music_url": "",
           "album_link_url": ""
         }
