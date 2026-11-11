@@ -3768,6 +3768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Water | 196822 | [196822-west-water.json](./196822-west-water.json) |
 | West-Ward | 126257 | [126257-west-ward.json](./126257-west-ward.json) |
 | Westale: Peelgrimage | 356828 | [356828-westale-peelgrimage.json](./356828-westale-peelgrimage.json) |
+| Westard | 336807 | [336807-westard.json](./336807-westard.json) |
 | Westard | 82258 | [82258-westard.json](./82258-westard.json) |
 | Westboro | 28296 | [28296-westboro.json](./28296-westboro.json) |
 | Westbound: Perils Ranch | 323325 | [323325-westbound-perils-ranch.json](./323325-westbound-perils-ranch.json) |
