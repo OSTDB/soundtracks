@@ -10099,6 +10099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Dance | 130083 | [130083-honey-dance.json](./130083-honey-dance.json) |
 | Honey Dolls | 37338 | [37338-honey-dolls.json](./37338-honey-dolls.json) |
 | Honey Dress Up | 332194 | [332194-honey-dress-up.json](./332194-honey-dress-up.json) |
+| Honey Farm Simulator | 318240 | [318240-honey-farm-simulator.json](./318240-honey-farm-simulator.json) |
 | Honey Grove | 313030 | [313030-honey-grove.json](./313030-honey-grove.json) |
 | Honey Guardian | 212430 | [212430-honey-guardian.json](./212430-honey-guardian.json) |
 | Honey Guardian | 341651 | [341651-honey-guardian.json](./341651-honey-guardian.json) |
@@ -13505,7 +13506,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperdimension Neptunia: Producing Perfection - Vert's Buoyant Swimsuit Set | 402019 | [402019-hyperdimension-neptunia-producing-perfection-verts-buoyant-swimsuit-set.json](./402019-hyperdimension-neptunia-producing-perfection-verts-buoyant-swimsuit-set.json) |
 | HyperDissonance | 372831 | [372831-hyperdissonance.json](./372831-hyperdissonance.json) |
 | Hyperdome | 12919 | [12919-hyperdome.json](./12919-hyperdome.json) |
-| HyperDot | 119536 | [119536-hyperdot.json](./119536-hyperdot.json) |
 | Hyperdrive | 309051 | [309051-hyperdrive.json](./309051-hyperdrive.json) |
 | Hyperdrive Horizon | 340495 | [340495-hyperdrive-horizon.json](./340495-hyperdrive-horizon.json) |
 | Hyperdrive Hunter | 104713 | [104713-hyperdrive-hunter.json](./104713-hyperdrive-hunter.json) |
