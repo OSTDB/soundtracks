@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take the Dream IX | 33887 | [33887-take-the-dream-ix.json](./33887-take-the-dream-ix.json) |
 | Take the Earth | 258439 | [258439-take-the-earth.json](./258439-take-the-earth.json) |
 | Take the King! | 270737 | [270737-take-the-king.json](./270737-take-the-king.json) |
+| Take the L | 334400 | [334400-take-the-l.json](./334400-take-the-l.json) |
 | Take the Money and Run! | 23290 | [23290-take-the-money-and-run.json](./23290-take-the-money-and-run.json) |
 | Take the Throne | 142301 | [142301-take-the-throne.json](./142301-take-the-throne.json) |
 | Take the Veil | 201638 | [201638-take-the-veil.json](./201638-take-the-veil.json) |
@@ -3894,6 +3895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tell Me Why: Chapter Three - Inheritance | 141014 | [141014-tell-me-why-chapter-three-inheritance.json](./141014-tell-me-why-chapter-three-inheritance.json) |
 | Tell Me Why: Chapter Two - Family Secrets | 141013 | [141013-tell-me-why-chapter-two-family-secrets.json](./141013-tell-me-why-chapter-two-family-secrets.json) |
 | Tell Me Your Story | 278363 | [278363-tell-me-your-story.json](./278363-tell-me-your-story.json) |
+| Tell Me Your Story Games Collection | 334978 | [334978-tell-me-your-story-games-collection.json](./334978-tell-me-your-story-games-collection.json) |
 | Tell Me Your Story: Ancient Puzzle | 324444 | [324444-tell-me-your-story-ancient-puzzle.json](./324444-tell-me-your-story-ancient-puzzle.json) |
 | Tell Me Your Story: Complete + | 328825 | [328825-tell-me-your-story-complete.json](./328825-tell-me-your-story-complete.json) |
 | Tell Me Your Story: Complete Edition | 328787 | [328787-tell-me-your-story-complete-edition.json](./328787-tell-me-your-story-complete-edition.json) |
@@ -5328,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris: The Absolute - The Grand Master 2 Plus | 28455 | [28455-tetris-the-absolute-the-grand-master-2-plus.json](./28455-tetris-the-absolute-the-grand-master-2-plus.json) |
 | Tetris: The Grand Master | 25022 | [25022-tetris-the-grand-master.json](./25022-tetris-the-grand-master.json) |
 | Tetris: The Grand Master 3 - Terror‑Instinct | 25024 | [25024-tetris-the-grand-master-3-terror-instinct.json](./25024-tetris-the-grand-master-3-terror-instinct.json) |
+| Tetris: The Grand Master 4 - Absolute Eye | 334968 | [334968-tetris-the-grand-master-4-absolute-eye.json](./334968-tetris-the-grand-master-4-absolute-eye.json) |
 | Tetris: The Grand Master 4 - The Masters of Round | 25026 | [25026-tetris-the-grand-master-4-the-masters-of-round.json](./25026-tetris-the-grand-master-4-the-masters-of-round.json) |
 | Tetris: The Grand Master Ace | 25025 | [25025-tetris-the-grand-master-ace.json](./25025-tetris-the-grand-master-ace.json) |
 | Tetris.com | 203114 | [203114-tetris-com.json](./203114-tetris-com.json) |
@@ -13440,6 +13443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Spirit Orbs | 230050 | [230050-the-legend-of-the-spirit-orbs.json](./230050-the-legend-of-the-spirit-orbs.json) |
 | The Legend of The Tolteks | 25365 | [25365-the-legend-of-the-tolteks.json](./25365-the-legend-of-the-tolteks.json) |
 | The Legend of the Tolteks Gold | 66560 | [66560-the-legend-of-the-tolteks-gold.json](./66560-the-legend-of-the-tolteks-gold.json) |
+| The Legend of the Vampire | 335001 | [335001-the-legend-of-the-vampire.json](./335001-the-legend-of-the-vampire.json) |
 | The Legend of the War Axe | 190129 | [190129-the-legend-of-the-war-axe.json](./190129-the-legend-of-the-war-axe.json) |
 | The Legend of the Wind | 388124 | [388124-the-legend-of-the-wind.json](./388124-the-legend-of-the-wind.json) |
 | The Legend of Tianding | 151693 | [151693-the-legend-of-tianding.json](./151693-the-legend-of-tianding.json) |
@@ -17508,6 +17512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons Game | 2656 | [2656-the-simpsons-game.json](./2656-the-simpsons-game.json) |
 | The Simpsons Game: Recompiled | 421446 | [421446-the-simpsons-game-recompiled.json](./421446-the-simpsons-game-recompiled.json) |
 | The Simpsons Movie: The Ball of Death | 315195 | [315195-the-simpsons-movie-the-ball-of-death.json](./315195-the-simpsons-movie-the-ball-of-death.json) |
+| The Simpsons Pacman | 334956 | [334956-the-simpsons-pacman.json](./334956-the-simpsons-pacman.json) |
 | The Simpsons Skateboarding | 2843 | [2843-the-simpsons-skateboarding.json](./2843-the-simpsons-skateboarding.json) |
 | The Simpsons Trivia | 221270 | [221270-the-simpsons-trivia.json](./221270-the-simpsons-trivia.json) |
 | The Simpsons: Bart & the Beanstalk | 2837 | [2837-the-simpsons-bart-and-the-beanstalk.json](./2837-the-simpsons-bart-and-the-beanstalk.json) |
@@ -24107,6 +24112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiles Match | 314876 | [314876-tiles-match.json](./314876-tiles-match.json) |
 | Tiles of Hope: Matching Games | 331373 | [331373-tiles-of-hope-matching-games.json](./331373-tiles-of-hope-matching-games.json) |
 | Tiles of the Dragon | 71416 | [71416-tiles-of-the-dragon.json](./71416-tiles-of-the-dragon.json) |
+| Tiles of the Simpsons | 334954 | [334954-tiles-of-the-simpsons.json](./334954-tiles-of-the-simpsons.json) |
 | Tiles of War | 396027 | [396027-tiles-of-war.json](./396027-tiles-of-war.json) |
 | Tiles Puzzle | 310278 | [310278-tiles-puzzle.json](./310278-tiles-puzzle.json) |
 | Tiles Shooter Puzzle Cube | 128315 | [128315-tiles-shooter-puzzle-cube.json](./128315-tiles-shooter-puzzle-cube.json) |
@@ -24965,6 +24971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Knights | 180481 | [180481-tiny-knights.json](./180481-tiny-knights.json) |
 | Tiny Landlord | 213996 | [213996-tiny-landlord.json](./213996-tiny-landlord.json) |
 | Tiny Lands | 142488 | [142488-tiny-lands.json](./142488-tiny-lands.json) |
+| Tiny Lands & Not Not: A Brain Buster | 334979 | [334979-tiny-lands-and-not-not-a-brain-buster.json](./334979-tiny-lands-and-not-not-a-brain-buster.json) |
 | Tiny Lands 2 | 305077 | [305077-tiny-lands-2.json](./305077-tiny-lands-2.json) |
 | Tiny Lands: Deluxe Edition | 332347 | [332347-tiny-lands-deluxe-edition.json](./332347-tiny-lands-deluxe-edition.json) |
 | Tiny Lands: Diorama set 1 | 404268 | [404268-tiny-lands-diorama-set-1.json](./404268-tiny-lands-diorama-set-1.json) |
