@@ -5274,6 +5274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Brigade: Ocean Attack! | 376510 | [376510-bear-brigade-ocean-attack.json](./376510-bear-brigade-ocean-attack.json) |
 | Bear Care | 177916 | [177916-bear-care.json](./177916-bear-care.json) |
 | Bear Defence Situation | 354125 | [354125-bear-defence-situation.json](./354125-bear-defence-situation.json) |
+| Bear Escape Mission | 340092 | [340092-bear-escape-mission.json](./340092-bear-escape-mission.json) |
 | Bear Football | 93598 | [93598-bear-football.json](./93598-bear-football.json) |
 | Bear Go Home | 71676 | [71676-bear-go-home.json](./71676-bear-go-home.json) |
 | Bear Haven Nights | 33743 | [33743-bear-haven-nights.json](./33743-bear-haven-nights.json) |
