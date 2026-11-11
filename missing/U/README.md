@@ -1536,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncontrollable Dream | 182677 | [182677-uncontrollable-dream.json](./182677-uncontrollable-dream.json) |
 | UnControlled Shooter | 331179 | [331179-uncontrolled-shooter.json](./331179-uncontrolled-shooter.json) |
 | Unconventional Broadcasting Department Mika & Luna | 405948 | [405948-unconventional-broadcasting-department-mika-and-luna.json](./405948-unconventional-broadcasting-department-mika-and-luna.json) |
+| Unconventional Fantasy | 375078 | [375078-unconventional-fantasy.json](./375078-unconventional-fantasy.json) |
 | Unconventional Ragdoll Game | 151525 | [151525-unconventional-ragdoll-game.json](./151525-unconventional-ragdoll-game.json) |
 | Unconventional Warfare | 119907 | [119907-unconventional-warfare.json](./119907-unconventional-warfare.json) |
 | Uncopy | 104698 | [104698-uncopy.json](./104698-uncopy.json) |
@@ -2273,6 +2274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unherd | 143590 | [143590-unherd.json](./143590-unherd.json) |
 | Unheroic Misfits | 286068 | [286068-unheroic-misfits.json](./286068-unheroic-misfits.json) |
 | Unhinged | 144979 | [144979-unhinged.json](./144979-unhinged.json) |
+| Unhinged | 375056 | [375056-unhinged.json](./375056-unhinged.json) |
 | Unhinged | 380740 | [380740-unhinged.json](./380740-unhinged.json) |
 | Unhinged | 408623 | [408623-unhinged.json](./408623-unhinged.json) |
 | Unhinged 2 | 245864 | [245864-unhinged-2.json](./245864-unhinged-2.json) |
