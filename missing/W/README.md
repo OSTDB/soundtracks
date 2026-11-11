@@ -11,6 +11,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W. L. O. Sekai Renai Kikou | 7239 | [7239-w-l-o-sekai-renai-kikou.json](./7239-w-l-o-sekai-renai-kikou.json) |
 | W. T. B. | 106436 | [106436-w-t-b.json](./106436-w-t-b.json) |
 | W.A.N.D. Project | 266782 | [266782-w-a-n-d-project.json](./266782-w-a-n-d-project.json) |
+| W.A.PU Space Orderty | 364107 | [364107-w-a-pu-space-orderty.json](./364107-w-a-pu-space-orderty.json) |
 | W.A.R. | 28461 | [28461-w-a-r.json](./28461-w-a-r.json) |
 | W.A.R. Hangry | 302104 | [302104-w-a-r-hangry.json](./302104-w-a-r-hangry.json) |
 | W.A.R.D. | 379375 | [379375-w-a-r-d.json](./379375-w-a-r-d.json) |
@@ -5023,6 +5024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who am I: Remedy | 280363 | [280363-who-am-i-remedy.json](./280363-who-am-i-remedy.json) |
 | Who Am I: The Tale of Dorothy | 96654 | [96654-who-am-i-the-tale-of-dorothy.json](./96654-who-am-i-the-tale-of-dorothy.json) |
 | Who am I? | 328408 | [328408-who-am-i.json](./328408-who-am-i.json) |
+| Who Am I? | 363827 | [363827-who-am-i.json](./363827-who-am-i.json) |
 | Who am I? (Biblical) | 100514 | [100514-who-am-i-biblical.json](./100514-who-am-i-biblical.json) |
 | Who Am You? | 306335 | [306335-who-am-you.json](./306335-who-am-you.json) |
 | Who Are Ya | 239284 | [239284-who-are-ya.json](./239284-who-are-ya.json) |
