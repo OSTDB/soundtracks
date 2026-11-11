@@ -194,7 +194,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 311349 | [311349-pac-man.json](./311349-pac-man.json) |
 | Pac-Man | 63639 | [63639-pac-man.json](./63639-pac-man.json) |
 | Pac-Man (speedup) | 308719 | [308719-pac-man-speedup.json](./308719-pac-man-speedup.json) |
-| Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
 | Pac-Man 12-in-1 Legacy Series | 253713 | [253713-pac-man-12-in-1-legacy-series.json](./253713-pac-man-12-in-1-legacy-series.json) |
 | Pac-Man 2: The New Adventures | 11603 | [11603-pac-man-2-the-new-adventures.json](./11603-pac-man-2-the-new-adventures.json) |
 | Pac-Man 256 | 14701 | [14701-pac-man-256.json](./14701-pac-man-256.json) |
