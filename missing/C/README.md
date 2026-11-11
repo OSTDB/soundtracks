@@ -10381,7 +10381,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Wars 2: Red Reign | 403070 | [403070-clan-wars-2-red-reign.json](./403070-clan-wars-2-red-reign.json) |
 | Clan Wars: The Green Goblins Forest | 403021 | [403021-clan-wars-the-green-goblins-forest.json](./403021-clan-wars-the-green-goblins-forest.json) |
 | Clan's Revenge | 272184 | [272184-clans-revenge.json](./272184-clans-revenge.json) |
-| Clandestine | 14465 | [14465-clandestine.json](./14465-clandestine.json) |
 | Clandestine Castle Crashing | 262566 | [262566-clandestine-castle-crashing.json](./262566-clandestine-castle-crashing.json) |
 | Clandestine: Anomaly | 232502 | [232502-clandestine-anomaly.json](./232502-clandestine-anomaly.json) |
 | Clandestine: The Hidden Truth | 290379 | [290379-clandestine-the-hidden-truth.json](./290379-clandestine-the-hidden-truth.json) |
