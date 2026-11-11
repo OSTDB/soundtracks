@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T19:51:47.022Z",
-  "total_soundtracks": 3036,
+  "generated_at": "2026-11-11T19:56:43.512Z",
+  "total_soundtracks": 3045,
   "games": [
     {
       "igdb_id": 7522,
@@ -8967,6 +8967,20 @@
       ]
     },
     {
+      "igdb_id": 118784,
+      "game_name": "Doctor Who: The Edge of Time",
+      "game_url": "https://ostdb.net/games/doctor-who-the-edge-of-time",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f9ac2248a0224ed7e8d2a092",
+      "albums": [
+        {
+          "album_name": "Doctor Who : The Edge of Time - Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3KKf9wIFj4OmTlSEuQJYCd",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 152255,
       "game_name": "Dodgeball Academia",
       "game_url": "https://ostdb.net/games/dodgeball-academia",
@@ -12491,6 +12505,20 @@
       ]
     },
     {
+      "igdb_id": 115925,
+      "game_name": "Freedom Finger",
+      "game_url": "https://ostdb.net/games/freedom-finger",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27396f8fa01b00bcca85f8610aa",
+      "albums": [
+        {
+          "album_name": "Freedom Finger (Music from the Game)",
+          "spotify_url": "https://open.spotify.com/album/3egs3PeULuaZ753GSJqIk2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 140635,
       "game_name": "Friday Night Funkin'",
       "game_url": "https://ostdb.net/games/friday-night-funkin",
@@ -13535,6 +13563,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/godfall-music-from-the-video-game/1537461882?uo=4",
           "album_link_url": "https://album.link/i/1537461882"
+        }
+      ]
+    },
+    {
+      "igdb_id": 106679,
+      "game_name": "Godhood",
+      "game_url": "https://ostdb.net/games/godhood",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27316d42f93ddfff3dfa66f60aa",
+      "albums": [
+        {
+          "album_name": "Godhood (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6H35B8lts8cs87CY77TpkA",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -18881,6 +18923,20 @@
       ]
     },
     {
+      "igdb_id": 104679,
+      "game_name": "Maiden & Spell",
+      "game_url": "https://ostdb.net/games/maiden-and-spell",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737d683ea8a591cd82826e0f88",
+      "albums": [
+        {
+          "album_name": "Maiden & Spell Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/3x9CHSxM5ym46Y9e1WPq4E",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 313809,
       "game_name": "MainFrames",
       "game_url": "https://ostdb.net/games/mainframes",
@@ -20807,6 +20863,20 @@
           "spotify_url": "https://open.spotify.com/album/4tTuU0u3qLeB6DjJPv2jY1",
           "apple_music_url": "",
           "album_link_url": "https://album.link/s/4tTuU0u3qLeB6DjJPv2jY1"
+        }
+      ]
+    },
+    {
+      "igdb_id": 119236,
+      "game_name": "Moonlighter: Between Dimensions",
+      "game_url": "https://ostdb.net/games/moonlighter-between-dimensions",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732c7aee950251d98ba50cc0d4",
+      "albums": [
+        {
+          "album_name": "Moonlighter Between Dimensions (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7BgS5HqUyCNvhATWjUbOvw",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -24715,6 +24785,20 @@
       ]
     },
     {
+      "igdb_id": 90322,
+      "game_name": "Rad Rodgers",
+      "game_url": "https://ostdb.net/games/rad-rodgers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f3b0b189f879f93ea6fd7883",
+      "albums": [
+        {
+          "album_name": "Rad Rodgers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5fv1eta3ICw3MtpVk6CO89",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 27082,
       "game_name": "Raft",
       "game_url": "https://ostdb.net/games/raft",
@@ -27549,6 +27633,20 @@
       ]
     },
     {
+      "igdb_id": 98736,
+      "game_name": "She and the Light Bearer",
+      "game_url": "https://ostdb.net/games/she-and-the-light-bearer",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735e277c284784782ede9c3263",
+      "albums": [
+        {
+          "album_name": "She and the Light Bearer (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3Y00Twmtd3RI4vKtllt52f",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 26808,
       "game_name": "She Remembered Caterpillars",
       "game_url": "https://ostdb.net/games/she-remembered-caterpillars",
@@ -29395,6 +29493,20 @@
         {
           "album_name": "Spectrobes (Original Soundtrack Remade)",
           "spotify_url": "https://open.spotify.com/album/0OK8un2mTaSi5V0Y7X2sTo",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 101460,
+      "game_name": "Speed Brawl",
+      "game_url": "https://ostdb.net/games/speed-brawl",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733197c31428e3363d5691d83b",
+      "albums": [
+        {
+          "album_name": "Speed Brawl (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4VUa1jzX3rp642T88KsILY",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -36517,6 +36629,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC-visions-of-mana-original-soundtrack/1765291659?uo=4",
           "album_link_url": "https://album.link/i/1765291659"
+        }
+      ]
+    },
+    {
+      "igdb_id": 107724,
+      "game_name": "Viviette",
+      "game_url": "https://ostdb.net/games/viviette",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737079a7fa6a580032aec10261",
+      "albums": [
+        {
+          "album_name": "Viviette (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/57Qo0OswcWlJYg2u3HOEaw",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
