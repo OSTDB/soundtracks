@@ -4185,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Whisperer | 307691 | [307691-ghost-whisperer.json](./307691-ghost-whisperer.json) |
 | Ghost Wiper | 236814 | [236814-ghost-wiper.json](./236814-ghost-wiper.json) |
 | Ghost Witch: Soulstice Sprint | 341892 | [341892-ghost-witch-soulstice-sprint.json](./341892-ghost-witch-soulstice-sprint.json) |
+| Ghost with a Gun | 374512 | [374512-ghost-with-a-gun.json](./374512-ghost-with-a-gun.json) |
 | Ghost Writer | 404946 | [404946-ghost-writer.json](./404946-ghost-writer.json) |
 | Ghost Yantra | 290746 | [290746-ghost-yantra.json](./290746-ghost-yantra.json) |
 | Ghost: Elisa Cameron | 146929 | [146929-ghost-elisa-cameron.json](./146929-ghost-elisa-cameron.json) |
@@ -12111,6 +12112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gūzhùyīzhì de Míngtiān | 221048 | [221048-guzhuyizhi-de-mingtian.json](./221048-guzhuyizhi-de-mingtian.json) |
 | Guzzler | 13865 | [13865-guzzler.json](./13865-guzzler.json) |
 | Guzzler | 387406 | [387406-guzzler.json](./387406-guzzler.json) |
+| Gvalt | 374517 | [374517-gvalt.json](./374517-gvalt.json) |
 | Gverse | 236913 | [236913-gverse.json](./236913-gverse.json) |
 | Gwan Moon High School: The Ghost Gate | 144011 | [144011-gwan-moon-high-school-the-ghost-gate.json](./144011-gwan-moon-high-school-the-ghost-gate.json) |
 | Gwarf | 294122 | [294122-gwarf.json](./294122-gwarf.json) |
