@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfield | 144232 | [144232-warfield.json](./144232-warfield.json) |
 | WarFire | 32657 | [32657-warfire.json](./32657-warfire.json) |
 | WarFire: Deluxe Edition | 53886 | [53886-warfire-deluxe-edition.json](./53886-warfire-deluxe-edition.json) |
+| Warfleet Captains | 379781 | [379781-warfleet-captains.json](./379781-warfleet-captains.json) |
 | Warforged | 114193 | [114193-warforged.json](./114193-warforged.json) |
 | Warfork | 121290 | [121290-warfork.json](./121290-warfork.json) |
 | WarForwards | 119531 | [119531-warforwards.json](./119531-warforwards.json) |
@@ -3009,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We are the Literature Club | 353411 | [353411-we-are-the-literature-club.json](./353411-we-are-the-literature-club.json) |
 | We are the Plague | 113565 | [113565-we-are-the-plague.json](./113565-we-are-the-plague.json) |
 | We Are the Universe | 236138 | [236138-we-are-the-universe.json](./236138-we-are-the-universe.json) |
+| We Are The Wall | 379820 | [379820-we-are-the-wall.json](./379820-we-are-the-wall.json) |
 | We are Warriors! | 322689 | [322689-we-are-warriors.json](./322689-we-are-warriors.json) |
 | We Are* | 56541 | [56541-we-are.json](./56541-we-are.json) |
 | We Bare Bears - StirFry Stunts | 112906 | [112906-we-bare-bears-stirfry-stunts.json](./112906-we-bare-bears-stirfry-stunts.json) |
@@ -7050,6 +7052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wiz Khalifa's Weed Farm | 56168 | [56168-wiz-khalifas-weed-farm.json](./56168-wiz-khalifas-weed-farm.json) |
 | Wiz Mud | 213132 | [213132-wiz-mud.json](./213132-wiz-mud.json) |
 | Wiz Party | 194294 | [194294-wiz-party.json](./194294-wiz-party.json) |
+| Wiz Quest: Crystal Power | 379295 | [379295-wiz-quest-crystal-power.json](./379295-wiz-quest-crystal-power.json) |
 | Wiz-herd | 346541 | [346541-wiz-herd.json](./346541-wiz-herd.json) |
 | Wizabeasts | 235792 | [235792-wizabeasts.json](./235792-wizabeasts.json) |
 | Wizadore | 13769 | [13769-wizadore.json](./13769-wizadore.json) |
