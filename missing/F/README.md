@@ -9024,6 +9024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluster Cluck | 52210 | [52210-fluster-cluck.json](./52210-fluster-cluck.json) |
 | Flute Master: Epic Christmas | 170514 | [170514-flute-master-epic-christmas.json](./170514-flute-master-epic-christmas.json) |
 | Flute Master: Trick or Treat | 170513 | [170513-flute-master-trick-or-treat.json](./170513-flute-master-trick-or-treat.json) |
+| Flute of Gobelin | 368420 | [368420-flute-of-gobelin.json](./368420-flute-of-gobelin.json) |
 | Flute The Snake Charmer | 295465 | [295465-flute-the-snake-charmer.json](./295465-flute-the-snake-charmer.json) |
 | Fluttabyes | 10325 | [10325-fluttabyes.json](./10325-fluttabyes.json) |
 | Flutter | 395923 | [395923-flutter.json](./395923-flutter.json) |
@@ -14801,6 +14802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Sex Adventures: Episode 1 | 316388 | [316388-futanari-sex-adventures-episode-1.json](./316388-futanari-sex-adventures-episode-1.json) |
 | Futanari Sex Adventures: Episode 2 | 311582 | [311582-futanari-sex-adventures-episode-2.json](./311582-futanari-sex-adventures-episode-2.json) |
 | Futanari Sex Adventures: Episode 4 | 368101 | [368101-futanari-sex-adventures-episode-4.json](./368101-futanari-sex-adventures-episode-4.json) |
+| Futanari Sex Adventures: Episode 6 | 368410 | [368410-futanari-sex-adventures-episode-6.json](./368410-futanari-sex-adventures-episode-6.json) |
 | Futanari Sex: BDSM Room | 201564 | [201564-futanari-sex-bdsm-room.json](./201564-futanari-sex-bdsm-room.json) |
 | Futanari Sex: Mile High Fun | 208225 | [208225-futanari-sex-mile-high-fun.json](./208225-futanari-sex-mile-high-fun.json) |
 | Futanari Sex: Naughty Massage | 203847 | [203847-futanari-sex-naughty-massage.json](./203847-futanari-sex-naughty-massage.json) |
