@@ -3981,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario 7-in-1 | 242230 | [242230-mario-7-in-1.json](./242230-mario-7-in-1.json) |
 | Mario a Plumber in Time Re-Mastered | 294773 | [294773-mario-a-plumber-in-time-re-mastered.json](./294773-mario-a-plumber-in-time-re-mastered.json) |
 | Mario Adventure | 182211 | [182211-mario-adventure.json](./182211-mario-adventure.json) |
+| Mario Adventure 2 | 376957 | [376957-mario-adventure-2.json](./376957-mario-adventure-2.json) |
 | Mario Adventure III | 281013 | [281013-mario-adventure-iii.json](./281013-mario-adventure-iii.json) |
 | Mario and Donkey Kong: Minis on the Move | 18027 | [18027-mario-and-donkey-kong-minis-on-the-move.json](./18027-mario-and-donkey-kong-minis-on-the-move.json) |
 | Mario and Donkey Kong: Minis on the Move + Mario vs. Donkey Kong: Minis March Again! | 60579 | [60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json](./60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json) |
@@ -17284,6 +17285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterS in haha Island | 54464 | [54464-monsters-in-haha-island.json](./54464-monsters-in-haha-island.json) |
 | Monsters in Hell | 58419 | [58419-monsters-in-hell.json](./58419-monsters-in-hell.json) |
 | Monsters in Moonlight: Block Braw | 417192 | [417192-monsters-in-moonlight-block-braw.json](./417192-monsters-in-moonlight-block-braw.json) |
+| Monsters In My Closet | 376978 | [376978-monsters-in-my-closet.json](./376978-monsters-in-my-closet.json) |
 | Monsters Inc.: Scream Team Training | 281988 | [281988-monsters-inc-scream-team-training.json](./281988-monsters-inc-scream-team-training.json) |
 | Monsters James P. Sullivan Stomach Doctor | 380550 | [380550-monsters-james-p-sullivan-stomach-doctor.json](./380550-monsters-james-p-sullivan-stomach-doctor.json) |
 | Monsters Lair | 356669 | [356669-monsters-lair.json](./356669-monsters-lair.json) |
