@@ -7817,6 +7817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clown's Forest 2: Waking Shadows | 244362 | [244362-the-clowns-forest-2-waking-shadows.json](./244362-the-clowns-forest-2-waking-shadows.json) |
 | The Clown's Forest 3: Haunting Apparitions | 271906 | [271906-the-clowns-forest-3-haunting-apparitions.json](./271906-the-clowns-forest-3-haunting-apparitions.json) |
 | The Clown's Forest: Shadows of Blood | 420060 | [420060-the-clowns-forest-shadows-of-blood.json](./420060-the-clowns-forest-shadows-of-blood.json) |
+| The Club | 352992 | [352992-the-club.json](./352992-the-club.json) |
 | The Club | 6940 | [6940-the-club.json](./6940-the-club.json) |
 | The Clue Club: Animal Detectives | 207122 | [207122-the-clue-club-animal-detectives.json](./207122-the-clue-club-animal-detectives.json) |
 | The ClueFinders 4th Grade Adventures: Puzzle of the Pyramid | 73694 | [73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json](./73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json) |
