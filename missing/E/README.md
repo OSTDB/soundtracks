@@ -5140,6 +5140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erebe | 199344 | [199344-erebe.json](./199344-erebe.json) |
 | Erebound | 393875 | [393875-erebound.json](./393875-erebound.json) |
 | Erebus | 36919 | [36919-erebus.json](./36919-erebus.json) |
+| Erebus-9 | 371166 | [371166-erebus-9.json](./371166-erebus-9.json) |
 | Erect! | 77726 | [77726-erect.json](./77726-erect.json) |
 | Erectus | 204839 | [204839-erectus.json](./204839-erectus.json) |
 | Erectus the Game | 115188 | [115188-erectus-the-game.json](./115188-erectus-the-game.json) |
@@ -7217,6 +7218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everbloom | 178663 | [178663-everbloom.json](./178663-everbloom.json) |
 | Everblue | 37082 | [37082-everblue.json](./37082-everblue.json) |
 | Everblue 2 | 9656 | [9656-everblue-2.json](./9656-everblue-2.json) |
+| Everbrew | 371158 | [371158-everbrew.json](./371158-everbrew.json) |
 | Everburning | 197423 | [197423-everburning.json](./197423-everburning.json) |
 | Everburning Dark | 423048 | [423048-everburning-dark.json](./423048-everburning-dark.json) |
 | Evercade Alpha Mega Man Bartop Arcade | 304227 | [304227-evercade-alpha-mega-man-bartop-arcade.json](./304227-evercade-alpha-mega-man-bartop-arcade.json) |
@@ -8151,6 +8153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit 8 / Platform 8 | 404112 | [404112-exit-8-platform-8.json](./404112-exit-8-platform-8.json) |
 | Exit Control | 368486 | [368486-exit-control.json](./368486-exit-control.json) |
 | Exit Doors | 240639 | [240639-exit-doors.json](./240639-exit-doors.json) |
+| Exit Dream | 371159 | [371159-exit-dream.json](./371159-exit-dream.json) |
 | Exit DS | 21471 | [21471-exit-ds.json](./21471-exit-ds.json) |
 | Exit Fate | 124555 | [124555-exit-fate.json](./124555-exit-fate.json) |
 | Exit From | 119692 | [119692-exit-from.json](./119692-exit-from.json) |
