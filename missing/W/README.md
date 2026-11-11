@@ -199,6 +199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Bunny Club | 384716 | [384716-waifu-bunny-club.json](./384716-waifu-bunny-club.json) |
 | Waifu by Myside: Patch Me In | 384718 | [384718-waifu-by-myside-patch-me-in.json](./384718-waifu-by-myside-patch-me-in.json) |
 | Waifu Cam Girl | 401328 | [401328-waifu-cam-girl.json](./401328-waifu-cam-girl.json) |
+| Waifu Cards | 370031 | [370031-waifu-cards.json](./370031-waifu-cards.json) |
 | Waifu Closet | 331097 | [331097-waifu-closet.json](./331097-waifu-closet.json) |
 | Waifu Club: Ayame | 259153 | [259153-waifu-club-ayame.json](./259153-waifu-club-ayame.json) |
 | Waifu Club: Azumi | 295374 | [295374-waifu-club-azumi.json](./295374-waifu-club-azumi.json) |
@@ -7215,6 +7216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: Llylgamyn Saga | 78865 | [78865-wizardry-llylgamyn-saga.json](./78865-wizardry-llylgamyn-saga.json) |
 | Wizardry: New Age of Llylgamyn | 181493 | [181493-wizardry-new-age-of-llylgamyn.json](./181493-wizardry-new-age-of-llylgamyn.json) |
 | Wizardry: Prisoners of the Lost City | 410542 | [410542-wizardry-prisoners-of-the-lost-city.json](./410542-wizardry-prisoners-of-the-lost-city.json) |
+| Wizardry: Proving Grounds of the Mad Overlord | 370599 | [370599-wizardry-proving-grounds-of-the-mad-overlord.json](./370599-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 370644 | [370644-wizardry-proving-grounds-of-the-mad-overlord.json](./370644-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 370647 | [370647-wizardry-proving-grounds-of-the-mad-overlord.json](./370647-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 370743 | [370743-wizardry-proving-grounds-of-the-mad-overlord.json](./370743-wizardry-proving-grounds-of-the-mad-overlord.json) |
