@@ -3215,6 +3215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Gallery: 2-Score | 384160 | [384160-emerald-gallery-2-score.json](./384160-emerald-gallery-2-score.json) |
 | Emerald Glazed Bundle | 82383 | [82383-emerald-glazed-bundle.json](./82383-emerald-glazed-bundle.json) |
 | Emerald Hunter | 330961 | [330961-emerald-hunter.json](./330961-emerald-hunter.json) |
+| Emerald Huntress | 379298 | [379298-emerald-huntress.json](./379298-emerald-huntress.json) |
 | Emerald Isle | 13635 | [13635-emerald-isle.json](./13635-emerald-isle.json) |
 | Emerald Isle | 318995 | [318995-emerald-isle.json](./318995-emerald-isle.json) |
 | Emerald Lake | 166916 | [166916-emerald-lake.json](./166916-emerald-lake.json) |
@@ -4030,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Nesla | 231176 | [231176-endless-nesla.json](./231176-endless-nesla.json) |
 | Endless Night: Alpha | 91055 | [91055-endless-night-alpha.json](./91055-endless-night-alpha.json) |
 | Endless Night: The Darkness Within | 344663 | [344663-endless-night-the-darkness-within.json](./344663-endless-night-the-darkness-within.json) |
+| Endless Nightbreak: Blood Horde | 379818 | [379818-endless-nightbreak-blood-horde.json](./379818-endless-nightbreak-blood-horde.json) |
 | Endless Nightmare | 193996 | [193996-endless-nightmare.json](./193996-endless-nightmare.json) |
 | Endless Nightmare: Shrine | 200737 | [200737-endless-nightmare-shrine.json](./200737-endless-nightmare-shrine.json) |
 | Endless Nightmare: Weird Hospital | 174767 | [174767-endless-nightmare-weird-hospital.json](./174767-endless-nightmare-weird-hospital.json) |
@@ -6343,6 +6345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estilhaço | 294922 | [294922-estilhaco.json](./294922-estilhaco.json) |
 | Estiman | 30396 | [30396-estiman.json](./30396-estiman.json) |
 | Estium Online | 417541 | [417541-estium-online.json](./417541-estium-online.json) |
+| Estória | 379815 | [379815-estoria.json](./379815-estoria.json) |
 | Estra | 13711 | [13711-estra.json](./13711-estra.json) |
 | Estrada Real: Caminho das Almas | 398931 | [398931-estrada-real-caminho-das-almas.json](./398931-estrada-real-caminho-das-almas.json) |
 | EstradaBus HD | 148951 | [148951-estradabus-hd.json](./148951-estradabus-hd.json) |
