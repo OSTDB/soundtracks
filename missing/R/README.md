@@ -10099,6 +10099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket League: Season 15 | 305787 | [305787-rocket-league-season-15.json](./305787-rocket-league-season-15.json) |
 | Rocket League: Season 15 Rookie Pack | 326039 | [326039-rocket-league-season-15-rookie-pack.json](./326039-rocket-league-season-15-rookie-pack.json) |
 | Rocket League: Season 16 | 316170 | [316170-rocket-league-season-16.json](./316170-rocket-league-season-16.json) |
+| Rocket League: Season 17 | 325185 | [325185-rocket-league-season-17.json](./325185-rocket-league-season-17.json) |
 | Rocket League: Season 17 Rocketeer Pack | 331860 | [331860-rocket-league-season-17-rocketeer-pack.json](./331860-rocket-league-season-17-rocketeer-pack.json) |
 | Rocket League: Season 17 Veteran Pack | 330705 | [330705-rocket-league-season-17-veteran-pack.json](./330705-rocket-league-season-17-veteran-pack.json) |
 | Rocket League: Season 18 | 335761 | [335761-rocket-league-season-18.json](./335761-rocket-league-season-18.json) |
@@ -13373,6 +13374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runemon | 296685 | [296685-runemon.json](./296685-runemon.json) |
 | Runeomicon | 318184 | [318184-runeomicon.json](./318184-runeomicon.json) |
 | Runeous: Part One | 32451 | [32451-runeous-part-one.json](./32451-runeous-part-one.json) |
+| RuneQuest: Warlords | 325161 | [325161-runequest-warlords.json](./325161-runequest-warlords.json) |
 | Runerod | 61988 | [61988-runerod.json](./61988-runerod.json) |
 | Runeroots | 211800 | [211800-runeroots.json](./211800-runeroots.json) |
 | Runeroots TD | 253865 | [253865-runeroots-td.json](./253865-runeroots-td.json) |
@@ -13467,6 +13469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner Frog | 372177 | [372177-runner-frog.json](./372177-runner-frog.json) |
 | Runner Fruit Jumping | 265511 | [265511-runner-fruit-jumping.json](./265511-runner-fruit-jumping.json) |
 | Runner Heroes: The Curse of Night and Day | 127001 | [127001-runner-heroes-the-curse-of-night-and-day.json](./127001-runner-heroes-the-curse-of-night-and-day.json) |
+| Runner Heroes: The Curse of Night and Day - Enhanced Edition | 324601 | [324601-runner-heroes-the-curse-of-night-and-day-enhanced-edition.json](./324601-runner-heroes-the-curse-of-night-and-day-enhanced-edition.json) |
 | Runner Party | 193306 | [193306-runner-party.json](./193306-runner-party.json) |
 | Runner Roy | 250396 | [250396-runner-roy.json](./250396-runner-roy.json) |
 | Runner Rtx | 188721 | [188721-runner-rtx.json](./188721-runner-rtx.json) |
