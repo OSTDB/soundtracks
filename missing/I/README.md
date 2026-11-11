@@ -2752,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperfect | 213171 | [213171-imperfect.json](./213171-imperfect.json) |
 | Imperfect Garden | 358297 | [358297-imperfect-garden.json](./358297-imperfect-garden.json) |
 | Imperfect Hatred | 262567 | [262567-imperfect-hatred.json](./262567-imperfect-hatred.json) |
+| Imperfect Smile | 390827 | [390827-imperfect-smile.json](./390827-imperfect-smile.json) |
 | Imperfections | 414502 | [414502-imperfections.json](./414502-imperfections.json) |
 | Imperfectly Perfect | 383679 | [383679-imperfectly-perfect.json](./383679-imperfectly-perfect.json) |
 | Imperi | 75791 | [75791-imperi.json](./75791-imperi.json) |
