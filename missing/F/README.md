@@ -14801,6 +14801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futa Jigsaw Dating | 368126 | [368126-futa-jigsaw-dating.json](./368126-futa-jigsaw-dating.json) |
 | Futa Nights: Bloody Sluts | 362274 | [362274-futa-nights-bloody-sluts.json](./362274-futa-nights-bloody-sluts.json) |
 | Futa Paradise | 382384 | [382384-futa-paradise.json](./382384-futa-paradise.json) |
+| Futa Runner: Big Dick Edition | 352438 | [352438-futa-runner-big-dick-edition.json](./352438-futa-runner-big-dick-edition.json) |
 | Futa Slug EX | 376956 | [376956-futa-slug-ex.json](./376956-futa-slug-ex.json) |
 | Futa Spell | 191061 | [191061-futa-spell.json](./191061-futa-spell.json) |
 | Futa Tales | 273490 | [273490-futa-tales.json](./273490-futa-tales.json) |
