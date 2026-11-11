@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caelum: Into the Sky | 91202 | [91202-caelum-into-the-sky.json](./91202-caelum-into-the-sky.json) |
 | Caelum: Into the Sky Vol. 1 | 40523 | [40523-caelum-into-the-sky-vol-1.json](./40523-caelum-into-the-sky-vol-1.json) |
 | Caelum's Crux | 389619 | [389619-caelums-crux.json](./389619-caelums-crux.json) |
+| Caemdale | 369492 | [369492-caemdale.json](./369492-caemdale.json) |
 | Caesar | 7416 | [7416-caesar.json](./7416-caesar.json) |
 | Caesar Bubbles | 106883 | [106883-caesar-bubbles.json](./106883-caesar-bubbles.json) |
 | Caesar Empire War | 150263 | [150263-caesar-empire-war.json](./150263-caesar-empire-war.json) |
@@ -6870,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheapshot | 130885 | [130885-cheapshot.json](./130885-cheapshot.json) |
 | Cheapskate | 371493 | [371493-cheapskate.json](./371493-cheapskate.json) |
 | Cheat Day | 190778 | [190778-cheat-day.json](./190778-cheat-day.json) |
+| Cheat Death | 369490 | [369490-cheat-death.json](./369490-cheat-death.json) |
 | Cheat or Die | 160031 | [160031-cheat-or-die.json](./160031-cheat-or-die.json) |
 | Cheatbusters | 52497 | [52497-cheatbusters.json](./52497-cheatbusters.json) |
 | CheatCheat | 402363 | [402363-cheatcheat.json](./402363-cheatcheat.json) |
@@ -11709,6 +11711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutch | 16049 | [16049-clutch.json](./16049-clutch.json) |
 | Clutch | 403990 | [403990-clutch.json](./403990-clutch.json) |
 | Clutch Hitter | 369246 | [369246-clutch-hitter.json](./369246-clutch-hitter.json) |
+| Clutch Hitter | 369247 | [369247-clutch-hitter.json](./369247-clutch-hitter.json) |
 | Clutch-Master | 303420 | [303420-clutch-master.json](./303420-clutch-master.json) |
 | Clutch: The Drift Simulation | 338531 | [338531-clutch-the-drift-simulation.json](./338531-clutch-the-drift-simulation.json) |
 | Clutchball | 129409 | [129409-clutchball.json](./129409-clutchball.json) |
