@@ -2709,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Station | 244639 | [244639-farm-station.json](./244639-farm-station.json) |
 | Farm Story | 80579 | [80579-farm-story.json](./80579-farm-story.json) |
 | Farm Story 2 | 359220 | [359220-farm-story-2.json](./359220-farm-story-2.json) |
+| Farm Supply Simulator 25 | 382671 | [382671-farm-supply-simulator-25.json](./382671-farm-supply-simulator-25.json) |
 | Farm Tiles | 101772 | [101772-farm-tiles.json](./101772-farm-tiles.json) |
 | Farm to Fork: Collector's Edition | 355526 | [355526-farm-to-fork-collectors-edition.json](./355526-farm-to-fork-collectors-edition.json) |
 | Farm to Table | 356719 | [356719-farm-to-table.json](./356719-farm-to-table.json) |
@@ -8346,6 +8347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Flop - Reversi for Playdate | 230788 | [230788-flip-flop-reversi-for-playdate.json](./230788-flip-flop-reversi-for-playdate.json) |
 | Flip Flop XL | 322782 | [322782-flip-flop-xl.json](./322782-flip-flop-xl.json) |
 | Flip for Cake | 361721 | [361721-flip-for-cake.json](./361721-flip-for-cake.json) |
+| Flip Hammy | 382706 | [382706-flip-hammy.json](./382706-flip-hammy.json) |
 | Flip it | 268815 | [268815-flip-it.json](./268815-flip-it.json) |
 | Flip It | 309636 | [309636-flip-it.json](./309636-flip-it.json) |
 | Flip It 2 | 254698 | [254698-flip-it-2.json](./254698-flip-it-2.json) |
