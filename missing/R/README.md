@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Dawn | 176380 | [176380-radiant-dawn.json](./176380-radiant-dawn.json) |
 | Radiant Defense | 17442 | [17442-radiant-defense.json](./17442-radiant-defense.json) |
 | Radiant Devotion | 225812 | [225812-radiant-devotion.json](./225812-radiant-devotion.json) |
+| Radiant Elusion | 336814 | [336814-radiant-elusion.json](./336814-radiant-elusion.json) |
 | Radiant Exodus | 293741 | [293741-radiant-exodus.json](./293741-radiant-exodus.json) |
 | Radiant Flux | 64004 | [64004-radiant-flux.json](./64004-radiant-flux.json) |
 | Radiant Flux: Hyperfractal | 85361 | [85361-radiant-flux-hyperfractal.json](./85361-radiant-flux-hyperfractal.json) |
@@ -2864,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re:Ozma | 118162 | [118162-re-ozma.json](./118162-re-ozma.json) |
 | Re:Pairn’t | 181173 | [181173-re-pairn-t.json](./181173-re-pairn-t.json) |
 | Re:Pik 3 Deluxe | 313361 | [313361-re-pik-3-deluxe.json](./313361-re-pik-3-deluxe.json) |
+| Re:play | 337342 | [337342-re-play.json](./337342-re-play.json) |
 | Re:Play | 358648 | [358648-re-play.json](./358648-re-play.json) |
 | Re:Red | 415332 | [415332-re-red.json](./415332-re-red.json) |
 | Re:Rite | 402518 | [402518-re-rite.json](./402518-re-rite.json) |
@@ -11519,6 +11521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rontgard | 398553 | [398553-rontgard.json](./398553-rontgard.json) |
 | Ronza | 370781 | [370781-ronza.json](./370781-ronza.json) |
 | Roober | 251993 | [251993-roober.json](./251993-roober.json) |
+| Roodies Factory | 336813 | [336813-roodies-factory.json](./336813-roodies-factory.json) |
 | Roody: 2d | 182087 | [182087-roody-2d.json](./182087-roody-2d.json) |
 | Roof Genocide | 193492 | [193492-roof-genocide.json](./193492-roof-genocide.json) |
 | Roof Jump Stunt Driver | 231054 | [231054-roof-jump-stunt-driver.json](./231054-roof-jump-stunt-driver.json) |
@@ -12170,6 +12173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rovonaut Comrade | 128656 | [128656-rovonaut-comrade.json](./128656-rovonaut-comrade.json) |
 | RoVR | 55127 | [55127-rovr.json](./55127-rovr.json) |
 | Row Away | 365743 | [365743-row-away.json](./365743-row-away.json) |
+| Row Divers | 337345 | [337345-row-divers.json](./337345-row-divers.json) |
 | Row Farm | 319534 | [319534-row-farm.json](./319534-row-farm.json) |
 | Row Hard | 351383 | [351383-row-hard.json](./351383-row-hard.json) |
 | Row of Numbers | 234731 | [234731-row-of-numbers.json](./234731-row-of-numbers.json) |
