@@ -5728,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Sensei | 301666 | [301666-hentai-sensei.json](./301666-hentai-sensei.json) |
 | Hentai Sera | 239832 | [239832-hentai-sera.json](./239832-hentai-sera.json) |
 | Hentai Series: Classic | 236188 | [236188-hentai-series-classic.json](./236188-hentai-series-classic.json) |
+| Hentai Sexy Girls: Splashes and Water | 347380 | [347380-hentai-sexy-girls-splashes-and-water.json](./347380-hentai-sexy-girls-splashes-and-water.json) |
 | Hentai Sexy Nurse | 411074 | [411074-hentai-sexy-nurse.json](./411074-hentai-sexy-nurse.json) |
 | Hentai Sexy Nurses | 222284 | [222284-hentai-sexy-nurses.json](./222284-hentai-sexy-nurses.json) |
 | Hentai Shadow | 112839 | [112839-hentai-shadow.json](./112839-hentai-shadow.json) |
@@ -10426,6 +10427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Mania | 240013 | [240013-hop-mania.json](./240013-hop-mania.json) |
 | Hop n Pee Dreams VR | 259094 | [259094-hop-n-pee-dreams-vr.json](./259094-hop-n-pee-dreams-vr.json) |
 | Hop N' Drop | 265186 | [265186-hop-n-drop.json](./265186-hop-n-drop.json) |
+| Hop n' Hook | 347418 | [347418-hop-n-hook.json](./347418-hop-n-hook.json) |
 | Hop N' Swap | 340481 | [340481-hop-n-swap.json](./340481-hop-n-swap.json) |
 | Hop Off | 184958 | [184958-hop-off.json](./184958-hop-off.json) |
 | Hop on It | 332890 | [332890-hop-on-it.json](./332890-hop-on-it.json) |
@@ -10471,6 +10473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope for City | 122163 | [122163-hope-for-city.json](./122163-hope-for-city.json) |
 | Hope for Village | 116813 | [116813-hope-for-village.json](./116813-hope-for-village.json) |
 | Hope For Winter | 167584 | [167584-hope-for-winter.json](./167584-hope-for-winter.json) |
+| Hope Harrison | 347406 | [347406-hope-harrison.json](./347406-hope-harrison.json) |
 | Hope in Hell | 34277 | [34277-hope-in-hell.json](./34277-hope-in-hell.json) |
 | Hope in the City | 347898 | [347898-hope-in-the-city.json](./347898-hope-in-the-city.json) |
 | Hope is Gone | 251952 | [251952-hope-is-gone.json](./251952-hope-is-gone.json) |
