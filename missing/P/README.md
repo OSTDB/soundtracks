@@ -7810,6 +7810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PinWar | 93632 | [93632-pinwar.json](./93632-pinwar.json) |
 | Pinwheel Playground | 418399 | [418399-pinwheel-playground.json](./418399-pinwheel-playground.json) |
 | Pinyon Shift | 421204 | [421204-pinyon-shift.json](./421204-pinyon-shift.json) |
+| PinYuAn Tales | 370025 | [370025-pinyuan-tales.json](./370025-pinyuan-tales.json) |
 | Pinzzo | 195597 | [195597-pinzzo.json](./195597-pinzzo.json) |
 | Pio | 327713 | [327713-pio.json](./327713-pio.json) |
 | Pio the Chick | 391663 | [391663-pio-the-chick.json](./391663-pio-the-chick.json) |
@@ -13706,6 +13707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Port Town: Survival | 319828 | [319828-port-town-survival.json](./319828-port-town-survival.json) |
 | Port Traventor | 184881 | [184881-port-traventor.json](./184881-port-traventor.json) |
 | Porta Nubi | 400670 | [400670-porta-nubi.json](./400670-porta-nubi.json) |
+| Porta-Pilots | 370600 | [370600-porta-pilots.json](./370600-porta-pilots.json) |
 | Porta-Tower | 260203 | [260203-porta-tower.json](./260203-porta-tower.json) |
 | Portaball | 240564 | [240564-portaball.json](./240564-portaball.json) |
 | Portabellows | 247780 | [247780-portabellows.json](./247780-portabellows.json) |
@@ -14026,6 +14028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potato Vs. Potato | 341560 | [341560-potato-vs-potato.json](./341560-potato-vs-potato.json) |
 | Potato's Dream | 164958 | [164958-potatos-dream.json](./164958-potatos-dream.json) |
 | Potatoes | 197180 | [197180-potatoes.json](./197180-potatoes.json) |
+| Potatogeddon | 370603 | [370603-potatogeddon.json](./370603-potatogeddon.json) |
 | Potatoman Seeks the Troof | 36224 | [36224-potatoman-seeks-the-troof.json](./36224-potatoman-seeks-the-troof.json) |
 | Potatostrike | 316140 | [316140-potatostrike.json](./316140-potatostrike.json) |
 | PotDuckRun | 364677 | [364677-potduckrun.json](./364677-potduckrun.json) |
