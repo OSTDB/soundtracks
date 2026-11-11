@@ -5323,6 +5323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightwood | 236962 | [236962-lightwood.json](./236962-lightwood.json) |
 | Lightworkers | 203872 | [203872-lightworkers.json](./203872-lightworkers.json) |
 | Lightyear Frontier | 163456 | [163456-lightyear-frontier.json](./163456-lightyear-frontier.json) |
+| Lightyear Frontier: Supporter Pack: Pioneer Bundle | 331573 | [331573-lightyear-frontier-supporter-pack-pioneer-bundle.json](./331573-lightyear-frontier-supporter-pack-pioneer-bundle.json) |
 | Lightyears from Home | 124634 | [124634-lightyears-from-home.json](./124634-lightyears-from-home.json) |
 | Ligmanauts | 391283 | [391283-ligmanauts.json](./391283-ligmanauts.json) |
 | Ligmar | 361692 | [361692-ligmar.json](./361692-ligmar.json) |
