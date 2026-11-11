@@ -13059,6 +13059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong No Friends | 180480 | [180480-pong-no-friends.json](./180480-pong-no-friends.json) |
 | Pong Ping | 238352 | [238352-pong-ping.json](./238352-pong-ping.json) |
 | Pong Pong Candy | 84812 | [84812-pong-pong-candy.json](./84812-pong-pong-candy.json) |
+| Pong Pong Crows | 367077 | [367077-pong-pong-crows.json](./367077-pong-pong-crows.json) |
 | Pong Pong's Learning Adventure: Animals | 361609 | [361609-pong-pongs-learning-adventure-animals.json](./361609-pong-pongs-learning-adventure-animals.json) |
 | Pong Pong's Learning Adventure: Back to the Future | 188078 | [188078-pong-pongs-learning-adventure-back-to-the-future.json](./188078-pong-pongs-learning-adventure-back-to-the-future.json) |
 | Pong Pong's Learning Adventure: Mysteries of Human Body | 188076 | [188076-pong-pongs-learning-adventure-mysteries-of-human-body.json](./188076-pong-pongs-learning-adventure-mysteries-of-human-body.json) |
@@ -15795,6 +15796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Dancer | 76461 | [76461-private-dancer.json](./76461-private-dancer.json) |
 | Private Detective | 230086 | [230086-private-detective.json](./230086-private-detective.json) |
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
+| Private Detective, Freeze | 367137 | [367137-private-detective-freeze.json](./367137-private-detective-freeze.json) |
 | Private Eye | 10999 | [10999-private-eye.json](./10999-private-eye.json) |
 | Private Eye | 25833 | [25833-private-eye.json](./25833-private-eye.json) |
 | Private Eye VR | 17471 | [17471-private-eye-vr.json](./17471-private-eye-vr.json) |
@@ -16036,6 +16038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Pinball: Fantastic Journey | 43877 | [43877-pro-pinball-fantastic-journey.json](./43877-pro-pinball-fantastic-journey.json) |
 | Pro Pinball: Timeshock! | 12905 | [12905-pro-pinball-timeshock.json](./12905-pro-pinball-timeshock.json) |
 | Pro Pinball: Trilogy | 46372 | [46372-pro-pinball-trilogy.json](./46372-pro-pinball-trilogy.json) |
+| Pro Player Life | 367315 | [367315-pro-player-life.json](./367315-pro-player-life.json) |
 | Pro Pool | 49952 | [49952-pro-pool.json](./49952-pro-pool.json) |
 | Pro Power Boat | 279693 | [279693-pro-power-boat.json](./279693-pro-power-boat.json) |
 | Pro Powerboat Simulator | 79097 | [79097-pro-powerboat-simulator.json](./79097-pro-powerboat-simulator.json) |
