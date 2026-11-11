@@ -11651,6 +11651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Ten | 31181 | [31181-room-ten.json](./31181-room-ten.json) |
 | Room to Breathe | 399382 | [399382-room-to-breathe.json](./399382-room-to-breathe.json) |
 | Room to Grow | 143916 | [143916-room-to-grow.json](./143916-room-to-grow.json) |
+| Room Washer | 329282 | [329282-room-washer.json](./329282-room-washer.json) |
 | Room with Lina | 370861 | [370861-room-with-lina.json](./370861-room-with-lina.json) |
 | Room XIII | 360042 | [360042-room-xiii.json](./360042-room-xiii.json) |
 | Room Zero | 424604 | [424604-room-zero.json](./424604-room-zero.json) |
