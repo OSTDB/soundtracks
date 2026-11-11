@@ -4519,6 +4519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enraged | 189159 | [189159-enraged.json](./189159-enraged.json) |
 | Enraged Red Ogre | 264080 | [264080-enraged-red-ogre.json](./264080-enraged-red-ogre.json) |
 | Enraged Rocket House | 57579 | [57579-enraged-rocket-house.json](./57579-enraged-rocket-house.json) |
+| Enscroll | 325754 | [325754-enscroll.json](./325754-enscroll.json) |
 | Ensemble Girls!!: Memories | 397257 | [397257-ensemble-girls-memories.json](./397257-ensemble-girls-memories.json) |
 | Ensemble Stars | 102567 | [102567-ensemble-stars.json](./102567-ensemble-stars.json) |
 | Ensemble Stars! 2 | 197334 | [197334-ensemble-stars-2.json](./197334-ensemble-stars-2.json) |
