@@ -510,6 +510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haley's Story | 393580 | [393580-haleys-story.json](./393580-haleys-story.json) |
 | Half | 178472 | [178472-half.json](./178472-half.json) |
 | Half + Half | 152230 | [152230-half-half.json](./152230-half-half.json) |
+| Half a Minute | 387169 | [387169-half-a-minute.json](./387169-half-a-minute.json) |
 | Half Alive | 264176 | [264176-half-alive.json](./264176-half-alive.json) |
 | Half An Hour | 179990 | [179990-half-an-hour.json](./179990-half-an-hour.json) |
 | Half Away | 322756 | [322756-half-away.json](./322756-half-away.json) |
@@ -1057,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamidashi Creative: Limited Edition | 146033 | [146033-hamidashi-creative-limited-edition.json](./146033-hamidashi-creative-limited-edition.json) |
 | Hamilton's Great Adventure | 10317 | [10317-hamiltons-great-adventure.json](./10317-hamiltons-great-adventure.json) |
 | Hamilton's Great Adventure: Retro Fever DLC | 29212 | [29212-hamiltons-great-adventure-retro-fever-dlc.json](./29212-hamiltons-great-adventure-retro-fever-dlc.json) |
+| Hamish | 387278 | [387278-hamish.json](./387278-hamish.json) |
 | HamJam!! | 108972 | [108972-hamjam.json](./108972-hamjam.json) |
 | Hamlet | 108579 | [108579-hamlet.json](./108579-hamlet.json) |
 | Hamlet | 176717 | [176717-hamlet.json](./176717-hamlet.json) |
