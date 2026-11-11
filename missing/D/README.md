@@ -9591,6 +9591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dig Deeper | 358464 | [358464-dig-deeper.json](./358464-dig-deeper.json) |
 | Dig Dig Boom | 235417 | [235417-dig-dig-boom.json](./235417-dig-dig-boom.json) |
 | Dig Dig Burrito! | 391996 | [391996-dig-dig-burrito.json](./391996-dig-dig-burrito.json) |
+| Dig Dig Spud Spud Harvest | 364767 | [364767-dig-dig-spud-spud-harvest.json](./364767-dig-dig-spud-spud-harvest.json) |
 | Dig Dirt | 278462 | [278462-dig-dirt.json](./278462-dig-dirt.json) |
 | Dig Dog | 87678 | [87678-dig-dog.json](./87678-dig-dog.json) |
 | Dig Dogs: Streetbusters | 50160 | [50160-dig-dogs-streetbusters.json](./50160-dig-dogs-streetbusters.json) |
@@ -19657,6 +19658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Tiny Hunter | 308908 | [308908-dungeon-tiny-hunter.json](./308908-dungeon-tiny-hunter.json) |
 | Dungeon Tourists | 375542 | [375542-dungeon-tourists.json](./375542-dungeon-tourists.json) |
 | Dungeon Town | 111719 | [111719-dungeon-town.json](./111719-dungeon-town.json) |
+| Dungeon Tracer | 364735 | [364735-dungeon-tracer.json](./364735-dungeon-tracer.json) |
 | Dungeon Trader | 183832 | [183832-dungeon-trader.json](./183832-dungeon-trader.json) |
 | Dungeon Trail | 374595 | [374595-dungeon-trail.json](./374595-dungeon-trail.json) |
 | Dungeon Train | 333404 | [333404-dungeon-train.json](./333404-dungeon-train.json) |
@@ -20004,6 +20006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonTop: Spell Sword Cards | 127610 | [127610-dungeontop-spell-sword-cards.json](./127610-dungeontop-spell-sword-cards.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
 | DungeonUp | 34808 | [34808-dungeonup.json](./34808-dungeonup.json) |
+| Dungero | 364954 | [364954-dungero.json](./364954-dungero.json) |
 | Dungescape! | 173354 | [173354-dungescape.json](./173354-dungescape.json) |
 | Dungetris | 32981 | [32981-dungetris.json](./32981-dungetris.json) |
 | Dungeum | 310793 | [310793-dungeum.json](./310793-dungeum.json) |
