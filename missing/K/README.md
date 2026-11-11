@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karumaruka Circle: Limited Edition | 167036 | [167036-karumaruka-circle-limited-edition.json](./167036-karumaruka-circle-limited-edition.json) |
 | Karumaruka Circle: Limited Edition | 339404 | [339404-karumaruka-circle-limited-edition.json](./339404-karumaruka-circle-limited-edition.json) |
 | Karumaruka Circle: Smartphone Version | 208222 | [208222-karumaruka-circle-smartphone-version.json](./208222-karumaruka-circle-smartphone-version.json) |
+| KaruQ | 354119 | [354119-karuq.json](./354119-karuq.json) |
 | Karvan | 217187 | [217187-karvan.json](./217187-karvan.json) |
 | Karvaros | 167507 | [167507-karvaros.json](./167507-karvaros.json) |
 | Kary | 286958 | [286958-kary.json](./286958-kary.json) |
