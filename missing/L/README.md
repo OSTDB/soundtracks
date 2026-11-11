@@ -1865,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
 | Laundry Simulator | 154059 | [154059-laundry-simulator.json](./154059-laundry-simulator.json) |
 | Laundry Simulator | 326396 | [326396-laundry-simulator.json](./326396-laundry-simulator.json) |
+| Laundry Simulator 2025 | 343512 | [343512-laundry-simulator-2025.json](./343512-laundry-simulator-2025.json) |
 | Laundry Store Simulator | 324720 | [324720-laundry-store-simulator.json](./324720-laundry-store-simulator.json) |
 | Laundry++ | 183943 | [183943-laundry.json](./183943-laundry.json) |
 | Laura | 210115 | [210115-laura.json](./210115-laura.json) |
