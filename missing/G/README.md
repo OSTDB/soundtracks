@@ -703,6 +703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Revolution | 25345 | [25345-galactic-revolution.json](./25345-galactic-revolution.json) |
 | Galactic Rivalry | 25761 | [25761-galactic-rivalry.json](./25761-galactic-rivalry.json) |
 | Galactic Ruler | 126926 | [126926-galactic-ruler.json](./126926-galactic-ruler.json) |
+| Galactic Rumble | 393199 | [393199-galactic-rumble.json](./393199-galactic-rumble.json) |
 | Galactic Rush | 399554 | [399554-galactic-rush.json](./399554-galactic-rush.json) |
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
 | Galactic Seals Survivors | 398169 | [398169-galactic-seals-survivors.json](./398169-galactic-seals-survivors.json) |
@@ -11757,6 +11758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns & Dragons | 403118 | [403118-guns-and-dragons.json](./403118-guns-and-dragons.json) |
 | Guns & Fishes | 234403 | [234403-guns-and-fishes.json](./234403-guns-and-fishes.json) |
 | Guns & Notes | 81876 | [81876-guns-and-notes.json](./81876-guns-and-notes.json) |
+| Guns & Thorns | 393193 | [393193-guns-and-thorns.json](./393193-guns-and-thorns.json) |
 | Guns 30 | 198476 | [198476-guns-30.json](./198476-guns-30.json) |
 | Guns 4 Hire | 117728 | [117728-guns-4-hire.json](./117728-guns-4-hire.json) |
 | Guns 4 Hire | 222959 | [222959-guns-4-hire.json](./222959-guns-4-hire.json) |
