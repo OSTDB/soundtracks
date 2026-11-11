@@ -8266,6 +8266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeTechtive 2112 | 295333 | [295333-detechtive-2112.json](./295333-detechtive-2112.json) |
 | Detect Dan the Dog! | 416975 | [416975-detect-dan-the-dog.json](./416975-detect-dan-the-dog.json) |
 | Detect Occult | 183064 | [183064-detect-occult.json](./183064-detect-occult.json) |
+| Detecti Meow | 363112 | [363112-detecti-meow.json](./363112-detecti-meow.json) |
 | Detective | 379886 | [379886-detective.json](./379886-detective.json) |
 | Detective 26 | 390789 | [390789-detective-26.json](./390789-detective-26.json) |
 | Detective Agency | 53960 | [53960-detective-agency.json](./53960-detective-agency.json) |
@@ -11699,6 +11700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive | 88462 | [88462-dive.json](./88462-dive.json) |
 | Dive Alert: Becky's Version | 69075 | [69075-dive-alert-beckys-version.json](./69075-dive-alert-beckys-version.json) |
 | Dive Alert: Matt's Version | 69072 | [69072-dive-alert-matts-version.json](./69072-dive-alert-matts-version.json) |
+| Dive and Dine Simulator | 363089 | [363089-dive-and-dine-simulator.json](./363089-dive-and-dine-simulator.json) |
 | Dive Bar Superstars | 187695 | [187695-dive-bar-superstars.json](./187695-dive-bar-superstars.json) |
 | Dive Bomber | 68462 | [68462-dive-bomber.json](./68462-dive-bomber.json) |
 | Dive Expedition | 378953 | [378953-dive-expedition.json](./378953-dive-expedition.json) |
