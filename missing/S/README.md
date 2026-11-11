@@ -6281,6 +6281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ServiceIT: Microcontroller DLC | 403116 | [403116-serviceit-microcontroller-dlc.json](./403116-serviceit-microcontroller-dlc.json) |
 | ServiceIT: Phone Service DLC | 378681 | [378681-serviceit-phone-service-dlc.json](./378681-serviceit-phone-service-dlc.json) |
 | Servo | 17509 | [17509-servo.json](./17509-servo.json) |
+| Servo | 377519 | [377519-servo.json](./377519-servo.json) |
 | Servonauts | 260339 | [260339-servonauts.json](./260339-servonauts.json) |
 | Servus 64 | 260835 | [260835-servus-64.json](./260835-servus-64.json) |
 | Sesame Street | 85858 | [85858-sesame-street.json](./85858-sesame-street.json) |
@@ -19759,6 +19760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Rebellion | 108071 | [108071-soul-rebellion.json](./108071-soul-rebellion.json) |
 | Soul Recursion | 172183 | [172183-soul-recursion.json](./172183-soul-recursion.json) |
 | Soul Redemption | 369065 | [369065-soul-redemption.json](./369065-soul-redemption.json) |
+| Soul Reflex | 377522 | [377522-soul-reflex.json](./377522-soul-reflex.json) |
 | Soul Return | 297346 | [297346-soul-return.json](./297346-soul-return.json) |
 | Soul Reverse Zero | 137202 | [137202-soul-reverse-zero.json](./137202-soul-reverse-zero.json) |
 | Soul Ride | 70976 | [70976-soul-ride.json](./70976-soul-ride.json) |
@@ -20003,6 +20005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soultia | 130939 | [130939-soultia.json](./130939-soultia.json) |
 | SoulTrap | 62373 | [62373-soultrap.json](./62373-soultrap.json) |
 | SoulTrigger | 372606 | [372606-soultrigger.json](./372606-soultrigger.json) |
+| SoulUp | 377515 | [377515-soulup.json](./377515-soulup.json) |
 | Soulvars | 150176 | [150176-soulvars.json](./150176-soulvars.json) |
 | Soulvars Fatal Error | 206420 | [206420-soulvars-fatal-error.json](./206420-soulvars-fatal-error.json) |
 | Soulvester vs. Lil' Beezey | 245730 | [245730-soulvester-vs-lil-beezey.json](./245730-soulvester-vs-lil-beezey.json) |
@@ -35642,6 +35645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superior Soldiers | 10457 | [10457-superior-soldiers.json](./10457-superior-soldiers.json) |
 | Superior Wizards | 110134 | [110134-superior-wizards.json](./110134-superior-wizards.json) |
 | Superior: Vengeance | 256979 | [256979-superior-vengeance.json](./256979-superior-vengeance.json) |
+| Superjueves | 377524 | [377524-superjueves.json](./377524-superjueves.json) |
 | SuperJumpWorld Rage | 391299 | [391299-superjumpworld-rage.json](./391299-superjumpworld-rage.json) |
 | SuperKarts | 74017 | [74017-superkarts.json](./74017-superkarts.json) |
 | Superkid | 123064 | [123064-superkid.json](./123064-superkid.json) |
