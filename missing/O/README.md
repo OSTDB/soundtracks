@@ -235,7 +235,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oblige of Chaos | 212964 | [212964-oblige-of-chaos.json](./212964-oblige-of-chaos.json) |
 | Oblin Party | 280294 | [280294-oblin-party.json](./280294-oblin-party.json) |
 | Oblings | 387705 | [387705-oblings.json](./387705-oblings.json) |
-| Obliteracers | 18082 | [18082-obliteracers.json](./18082-obliteracers.json) |
 | Obliteracy | 107375 | [107375-obliteracy.json](./107375-obliteracy.json) |
 | Obliterate | 43246 | [43246-obliterate.json](./43246-obliterate.json) |
 | Obliterate Everything 2 | 416769 | [416769-obliterate-everything-2.json](./416769-obliterate-everything-2.json) |
