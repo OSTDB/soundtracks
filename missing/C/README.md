@@ -4397,6 +4397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat MeowMart: Supermarket Simulator | 328567 | [328567-cat-meowmart-supermarket-simulator.json](./328567-cat-meowmart-supermarket-simulator.json) |
 | Cat Merge | 374927 | [374927-cat-merge.json](./374927-cat-merge.json) |
 | Cat Milk | 163171 | [163171-cat-milk.json](./163171-cat-milk.json) |
+| Cat Mines | 341760 | [341760-cat-mines.json](./341760-cat-mines.json) |
 | Cat Minesweeper | 396599 | [396599-cat-minesweeper.json](./396599-cat-minesweeper.json) |
 | Cat Mirror | 414010 | [414010-cat-mirror.json](./414010-cat-mirror.json) |
 | Cat Movies! | 132960 | [132960-cat-movies.json](./132960-cat-movies.json) |
@@ -5128,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cattle Country | 306909 | [306909-cattle-country.json](./306909-cattle-country.json) |
 | Cattle Crisis! | 346466 | [346466-cattle-crisis.json](./346466-cattle-crisis.json) |
 | Cattle Hyperdrive | 247745 | [247745-cattle-hyperdrive.json](./247745-cattle-hyperdrive.json) |
+| Cattle Quest | 341744 | [341744-cattle-quest.json](./341744-cattle-quest.json) |
 | Cattlieb | 349851 | [349851-cattlieb.json](./349851-cattlieb.json) |
 | Catto Boi Forever | 398086 | [398086-catto-boi-forever.json](./398086-catto-boi-forever.json) |
 | Catto Chateau | 366387 | [366387-catto-chateau.json](./366387-catto-chateau.json) |
@@ -16353,6 +16355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmoAlley Bowling | 146449 | [146449-cosmoalley-bowling.json](./146449-cosmoalley-bowling.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
 | Cosmobot | 109934 | [109934-cosmobot.json](./109934-cosmobot.json) |
+| Cosmobreeder Yiffai | 341726 | [341726-cosmobreeder-yiffai.json](./341726-cosmobreeder-yiffai.json) |
 | Cosmocade: The Arcade of Tomorrow | 181436 | [181436-cosmocade-the-arcade-of-tomorrow.json](./181436-cosmocade-the-arcade-of-tomorrow.json) |
 | Cosmochoria | 17230 | [17230-cosmochoria.json](./17230-cosmochoria.json) |
 | Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
