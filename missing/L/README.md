@@ -6119,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lithoi: Trials of Memory | 172002 | [172002-lithoi-trials-of-memory.json](./172002-lithoi-trials-of-memory.json) |
 | Litil Divil | 10516 | [10516-litil-divil.json](./10516-litil-divil.json) |
 | Litlip | 387281 | [387281-litlip.json](./387281-litlip.json) |
+| Litter Factory | 376409 | [376409-litter-factory.json](./376409-litter-factory.json) |
 | Litter ShiFu | 296623 | [296623-litter-shifu.json](./296623-litter-shifu.json) |
 | Litterbox League | 404654 | [404654-litterbox-league.json](./404654-litterbox-league.json) |
 | Little | 191414 | [191414-little.json](./191414-little.json) |
