@@ -5447,7 +5447,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild | 257947 | [257947-wild.json](./257947-wild.json) |
 | WiLD | 7608 | [7608-wild.json](./7608-wild.json) |
 | Wild & Horror Pinball | 173126 | [173126-wild-and-horror-pinball.json](./173126-wild-and-horror-pinball.json) |
-| Wild 9 | 15840 | [15840-wild-9.json](./15840-wild-9.json) |
 | Wild Adventure | 208032 | [208032-wild-adventure.json](./208032-wild-adventure.json) |
 | Wild Adventures | 195621 | [195621-wild-adventures.json](./195621-wild-adventures.json) |
 | Wild Adventures: Ultimate Deer Hunt 3D | 85491 | [85491-wild-adventures-ultimate-deer-hunt-3d.json](./85491-wild-adventures-ultimate-deer-hunt-3d.json) |
@@ -8861,6 +8860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Titans | 230933 | [230933-world-of-titans.json](./230933-world-of-titans.json) |
 | World of Turtle | 132043 | [132043-world-of-turtle.json](./132043-world-of-turtle.json) |
 | World of Undead | 33217 | [33217-world-of-undead.json](./33217-world-of-undead.json) |
+| World of Unlit | 316914 | [316914-world-of-unlit.json](./316914-world-of-unlit.json) |
 | World of Van Helsing: Deathtrap | 82402 | [82402-world-of-van-helsing-deathtrap.json](./82402-world-of-van-helsing-deathtrap.json) |
 | World of Vasnar | 356190 | [356190-world-of-vasnar.json](./356190-world-of-vasnar.json) |
 | World of Vespuccia Bundle | 406330 | [406330-world-of-vespuccia-bundle.json](./406330-world-of-vespuccia-bundle.json) |
