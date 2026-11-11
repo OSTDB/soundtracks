@@ -3941,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recycler's Terminal | 116327 | [116327-recyclers-terminal.json](./116327-recyclers-terminal.json) |
 | Recyclic | 348888 | [348888-recyclic.json](./348888-recyclic.json) |
 | Recycling Center Simulator | 298400 | [298400-recycling-center-simulator.json](./298400-recycling-center-simulator.json) |
+| Recycling Center Simulator: E-Waste DLC | 372365 | [372365-recycling-center-simulator-e-waste-dlc.json](./372365-recycling-center-simulator-e-waste-dlc.json) |
 | Recycling Shift | 366946 | [366946-recycling-shift.json](./366946-recycling-shift.json) |
 | Recycling Tycoon: Junk to Gems | 312413 | [312413-recycling-tycoon-junk-to-gems.json](./312413-recycling-tycoon-junk-to-gems.json) |
 | Recyclomania | 121892 | [121892-recyclomania.json](./121892-recyclomania.json) |
@@ -11269,6 +11270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms | 392223 | [392223-romance-of-the-three-kingdoms.json](./392223-romance-of-the-three-kingdoms.json) |
 | Romance of the Three Kingdoms 11 with Power Up Kit | 82406 | [82406-romance-of-the-three-kingdoms-11-with-power-up-kit.json](./82406-romance-of-the-three-kingdoms-11-with-power-up-kit.json) |
 | Romance of the Three Kingdoms 8 Remake | 266723 | [266723-romance-of-the-three-kingdoms-8-remake.json](./266723-romance-of-the-three-kingdoms-8-remake.json) |
+| Romance of the Three Kingdoms 8 Remake: Destiny and Strategy Expansion Pack | 372351 | [372351-romance-of-the-three-kingdoms-8-remake-destiny-and-strategy-expansion-pack.json](./372351-romance-of-the-three-kingdoms-8-remake-destiny-and-strategy-expansion-pack.json) |
 | Romance of The Three Kingdoms 8 Remake: Digital Deluxe Edition | 317904 | [317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json](./317904-romance-of-the-three-kingdoms-8-remake-digital-deluxe-edition.json) |
 | Romance of the Three Kingdoms 8 Remake: Scenario "Tiger and Wolf Unleashed" | 336966 | [336966-romance-of-the-three-kingdoms-8-remake-scenario-tiger-and-wolf-unleashed.json](./336966-romance-of-the-three-kingdoms-8-remake-scenario-tiger-and-wolf-unleashed.json) |
 | Romance of the Three Kingdoms 8 Remake: Scenario "Tiger Generals of the Three Kingdoms, Locked in Battle!" | 336967 | [336967-romance-of-the-three-kingdoms-8-remake-scenario-tiger-generals-of-the-three-kingdoms-locked-in-battle.json](./336967-romance-of-the-three-kingdoms-8-remake-scenario-tiger-generals-of-the-three-kingdoms-locked-in-battle.json) |
