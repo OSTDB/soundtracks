@@ -2033,6 +2033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Toy Factory Nonograms | 149787 | [149787-santas-toy-factory-nonograms.json](./149787-santas-toy-factory-nonograms.json) |
 | Santa's Vacation | 76391 | [76391-santas-vacation.json](./76391-santas-vacation.json) |
 | Santa's Visit | 123895 | [123895-santas-visit.json](./123895-santas-visit.json) |
+| Santa's Winter Wonders | 388480 | [388480-santas-winter-wonders.json](./388480-santas-winter-wonders.json) |
 | Santa's Workshop | 185282 | [185282-santas-workshop.json](./185282-santas-workshop.json) |
 | Santa's Workshop | 343787 | [343787-santas-workshop.json](./343787-santas-workshop.json) |
 | Santa's Workshop | 74122 | [74122-santas-workshop.json](./74122-santas-workshop.json) |
@@ -3229,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Rumble: Neru Musume ha Sodatsu | 72583 | [72583-school-rumble-neru-musume-ha-sodatsu.json](./72583-school-rumble-neru-musume-ha-sodatsu.json) |
 | School Simulator | 55721 | [55721-school-simulator.json](./55721-school-simulator.json) |
 | School Simulator RPG | 195387 | [195387-school-simulator-rpg.json](./195387-school-simulator-rpg.json) |
+| School Tales | 388496 | [388496-school-tales.json](./388496-school-tales.json) |
 | School Trip | 181022 | [181022-school-trip.json](./181022-school-trip.json) |
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
 | School Wars | 218785 | [218785-school-wars.json](./218785-school-wars.json) |
@@ -7918,6 +7920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
 | Shards of Order | 363332 | [363332-shards-of-order.json](./363332-shards-of-order.json) |
 | Shards Of Solitude | 404621 | [404621-shards-of-solitude.json](./404621-shards-of-solitude.json) |
+| Shards of the Heart | 388635 | [388635-shards-of-the-heart.json](./388635-shards-of-the-heart.json) |
 | Shards of the Library | 366296 | [366296-shards-of-the-library.json](./366296-shards-of-the-library.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
 | Shards of the Past | 266977 | [266977-shards-of-the-past.json](./266977-shards-of-the-past.json) |
@@ -13478,6 +13481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky-Rain | 407711 | [407711-sky-rain.json](./407711-sky-rain.json) |
 | Sky: Children of the Light | 65503 | [65503-sky-children-of-the-light.json](./65503-sky-children-of-the-light.json) |
 | Sky: Children of the Light - Season of Belonging | 388383 | [388383-sky-children-of-the-light-season-of-belonging.json](./388383-sky-children-of-the-light-season-of-belonging.json) |
+| Sky: Children of the Light - Season of Enchantment | 388508 | [388508-sky-children-of-the-light-season-of-enchantment.json](./388508-sky-children-of-the-light-season-of-enchantment.json) |
 | Sky: Children of the Light - Season of Gratitude | 388290 | [388290-sky-children-of-the-light-season-of-gratitude.json](./388290-sky-children-of-the-light-season-of-gratitude.json) |
 | Sky: Children of the Light - Season of Lightseekers | 388381 | [388381-sky-children-of-the-light-season-of-lightseekers.json](./388381-sky-children-of-the-light-season-of-lightseekers.json) |
 | Sky: Children of the Light - Season of Rhythm | 388395 | [388395-sky-children-of-the-light-season-of-rhythm.json](./388395-sky-children-of-the-light-season-of-rhythm.json) |
@@ -24528,6 +24532,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy-der Pig | 297005 | [297005-spy-der-pig.json](./297005-spy-der-pig.json) |
 | Spy-Trek Adventure | 70060 | [70060-spy-trek-adventure.json](./70060-spy-trek-adventure.json) |
 | Spy's Demise | 23315 | [23315-spys-demise.json](./23315-spys-demise.json) |
+| Spy's Demise | 388657 | [388657-spys-demise.json](./388657-spys-demise.json) |
+| Spy's Demise Remake | 388655 | [388655-spys-demise-remake.json](./388655-spys-demise-remake.json) |
 | Spy/Cell | 404994 | [404994-spy-cell.json](./404994-spy-cell.json) |
 | Spyborgs | 5206 | [5206-spyborgs.json](./5206-spyborgs.json) |
 | Spycity | 157849 | [157849-spycity.json](./157849-spycity.json) |
@@ -29841,6 +29847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter X Tekken: Balrog (Swap Costume) | 388827 | [388827-street-fighter-x-tekken-balrog-swap-costume.json](./388827-street-fighter-x-tekken-balrog-swap-costume.json) |
 | Street Fighter X Tekken: Blanka (Swap Costume) | 388838 | [388838-street-fighter-x-tekken-blanka-swap-costume.json](./388838-street-fighter-x-tekken-blanka-swap-costume.json) |
 | Street Fighter X Tekken: Cammy (Swap Costume) | 388545 | [388545-street-fighter-x-tekken-cammy-swap-costume.json](./388545-street-fighter-x-tekken-cammy-swap-costume.json) |
+| Street Fighter X Tekken: Christie (Swap Costume) | 388611 | [388611-street-fighter-x-tekken-christie-swap-costume.json](./388611-street-fighter-x-tekken-christie-swap-costume.json) |
 | Street Fighter X Tekken: Chun-Li (Swap Costume) | 388832 | [388832-street-fighter-x-tekken-chun-li-swap-costume.json](./388832-street-fighter-x-tekken-chun-li-swap-costume.json) |
 | Street Fighter X Tekken: Dhalsim (Swap Costume) | 388524 | [388524-street-fighter-x-tekken-dhalsim-swap-costume.json](./388524-street-fighter-x-tekken-dhalsim-swap-costume.json) |
 | Street Fighter X Tekken: Guile (Swap Costume) | 388546 | [388546-street-fighter-x-tekken-guile-swap-costume.json](./388546-street-fighter-x-tekken-guile-swap-costume.json) |
@@ -31157,6 +31164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Dreams | 149919 | [149919-sudoku-dreams.json](./149919-sudoku-dreams.json) |
 | Sudoku Dreams | 379021 | [379021-sudoku-dreams.json](./379021-sudoku-dreams.json) |
 | Sudoku Dreams: Hints Pack | 379020 | [379020-sudoku-dreams-hints-pack.json](./379020-sudoku-dreams-hints-pack.json) |
+| Sudoku Dungeon | 388638 | [388638-sudoku-dungeon.json](./388638-sudoku-dungeon.json) |
 | Sudoku Epic | 83413 | [83413-sudoku-epic.json](./83413-sudoku-epic.json) |
 | Sudoku Fever | 49233 | [49233-sudoku-fever.json](./49233-sudoku-fever.json) |
 | Sudoku For 2 | 233721 | [233721-sudoku-for-2.json](./233721-sudoku-for-2.json) |
@@ -34958,6 +34966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Miles "Tails" Prower Moveset | 385639 | [385639-super-smash-bros-ultimate-miles-tails-prower-moveset.json](./385639-super-smash-bros-ultimate-miles-tails-prower-moveset.json) |
 | Super Smash Bros. Ultimate: Monster Hunter Moveset | 395029 | [395029-super-smash-bros-ultimate-monster-hunter-moveset.json](./395029-super-smash-bros-ultimate-monster-hunter-moveset.json) |
 | Super Smash Bros. Ultimate: Morgana Hat | 317930 | [317930-super-smash-bros-ultimate-morgana-hat.json](./317930-super-smash-bros-ultimate-morgana-hat.json) |
+| Super Smash Bros. Ultimate: Ninjara Outfit and Wig | 388804 | [388804-super-smash-bros-ultimate-ninjara-outfit-and-wig.json](./388804-super-smash-bros-ultimate-ninjara-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Ninten Moveset | 281460 | [281460-super-smash-bros-ultimate-ninten-moveset.json](./281460-super-smash-bros-ultimate-ninten-moveset.json) |
 | Super Smash Bros. Ultimate: Octavius Jeremy Moveset! | 394600 | [394600-super-smash-bros-ultimate-octavius-jeremy-moveset.json](./394600-super-smash-bros-ultimate-octavius-jeremy-moveset.json) |
 | Super Smash Bros. Ultimate: Paper Mario Moveset | 394612 | [394612-super-smash-bros-ultimate-paper-mario-moveset.json](./394612-super-smash-bros-ultimate-paper-mario-moveset.json) |
@@ -34965,6 +34974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Persona 4 Protagonist Outfit and Wig | 317932 | [317932-super-smash-bros-ultimate-persona-4-protagonist-outfit-and-wig.json](./317932-super-smash-bros-ultimate-persona-4-protagonist-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Phoenix Wright Moveset | 385646 | [385646-super-smash-bros-ultimate-phoenix-wright-moveset.json](./385646-super-smash-bros-ultimate-phoenix-wright-moveset.json) |
 | Super Smash Bros. Ultimate: Phosphora Moveset | 394270 | [394270-super-smash-bros-ultimate-phosphora-moveset.json](./394270-super-smash-bros-ultimate-phosphora-moveset.json) |
+| Super Smash Bros. Ultimate: Pig Outfit and Mask | 388806 | [388806-super-smash-bros-ultimate-pig-outfit-and-mask.json](./388806-super-smash-bros-ultimate-pig-outfit-and-mask.json) |
 | Super Smash Bros. Ultimate: Planet Zebes Smash 64 Stage | 394299 | [394299-super-smash-bros-ultimate-planet-zebes-smash-64-stage.json](./394299-super-smash-bros-ultimate-planet-zebes-smash-64-stage.json) |
 | Super Smash Bros. Ultimate: Proto Man's Armor and Helmet | 317933 | [317933-super-smash-bros-ultimate-proto-mans-armor-and-helmet.json](./317933-super-smash-bros-ultimate-proto-mans-armor-and-helmet.json) |
 | Super Smash Bros. Ultimate: Rayman Custom Moveset | 394615 | [394615-super-smash-bros-ultimate-rayman-custom-moveset.json](./394615-super-smash-bros-ultimate-rayman-custom-moveset.json) |
@@ -34990,6 +35000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Teddie Hat | 317936 | [317936-super-smash-bros-ultimate-teddie-hat.json](./317936-super-smash-bros-ultimate-teddie-hat.json) |
 | Super Smash Bros. Ultimate: Tetrimino Moveset | 385674 | [385674-super-smash-bros-ultimate-tetrimino-moveset.json](./385674-super-smash-bros-ultimate-tetrimino-moveset.json) |
 | Super Smash Bros. Ultimate: The Alucard Moveset | 281459 | [281459-super-smash-bros-ultimate-the-alucard-moveset.json](./281459-super-smash-bros-ultimate-the-alucard-moveset.json) |
+| Super Smash Bros. Ultimate: Travis Outfit and Wig | 388810 | [388810-super-smash-bros-ultimate-travis-outfit-and-wig.json](./388810-super-smash-bros-ultimate-travis-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Ultron Moveset | 395035 | [395035-super-smash-bros-ultimate-ultron-moveset.json](./395035-super-smash-bros-ultimate-ultron-moveset.json) |
 | Super Smash Bros. Ultimate: Vegeta Moveset | 375984 | [375984-super-smash-bros-ultimate-vegeta-moveset.json](./375984-super-smash-bros-ultimate-vegeta-moveset.json) |
 | Super Smash Bros. Ultimate: Wario Land Wario Moveset | 394294 | [394294-super-smash-bros-ultimate-wario-land-wario-moveset.json](./394294-super-smash-bros-ultimate-wario-land-wario-moveset.json) |
@@ -35842,6 +35853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperStar Starship | 137227 | [137227-superstar-starship.json](./137227-superstar-starship.json) |
 | SuperStar Stayc | 250121 | [250121-superstar-stayc.json](./250121-superstar-stayc.json) |
 | Superstar Streetz | 186318 | [186318-superstar-streetz.json](./186318-superstar-streetz.json) |
+| SuperStar Wakeone | 388481 | [388481-superstar-wakeone.json](./388481-superstar-wakeone.json) |
 | SuperStar Woollim | 137874 | [137874-superstar-woollim.json](./137874-superstar-woollim.json) |
 | Superstar YG | 178345 | [178345-superstar-yg.json](./178345-superstar-yg.json) |
 | SuperStar: Oh My Girl | 232094 | [232094-superstar-oh-my-girl.json](./232094-superstar-oh-my-girl.json) |
