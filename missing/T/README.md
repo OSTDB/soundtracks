@@ -28748,6 +28748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: EDDL Airport | 396515 | [396515-tower-simulator-3-eddl-airport.json](./396515-tower-simulator-3-eddl-airport.json) |
 | Tower! Simulator 3: EDDM Airport | 353313 | [353313-tower-simulator-3-eddm-airport.json](./353313-tower-simulator-3-eddm-airport.json) |
 | Tower! Simulator 3: EDDV Airport | 372527 | [372527-tower-simulator-3-eddv-airport.json](./372527-tower-simulator-3-eddv-airport.json) |
+| Tower! Simulator 3: EGCC Airport | 350104 | [350104-tower-simulator-3-egcc-airport.json](./350104-tower-simulator-3-egcc-airport.json) |
 | Tower! Simulator 3: EGLL Airport | 257454 | [257454-tower-simulator-3-egll-airport.json](./257454-tower-simulator-3-egll-airport.json) |
 | Tower! Simulator 3: EHAM Airport | 353331 | [353331-tower-simulator-3-eham-airport.json](./353331-tower-simulator-3-eham-airport.json) |
 | Tower! Simulator 3: EHEH Airport | 396502 | [396502-tower-simulator-3-eheh-airport.json](./396502-tower-simulator-3-eheh-airport.json) |
@@ -33080,6 +33081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triumph | 184041 | [184041-triumph.json](./184041-triumph.json) |
 | Triumph | 412412 | [412412-triumph.json](./412412-triumph.json) |
 | Triumph Action | 128233 | [128233-triumph-action.json](./128233-triumph-action.json) |
+| Triumph! War 2099 | 350129 | [350129-triumph-war-2099.json](./350129-triumph-war-2099.json) |
 | TriumphInTheSkies | 126401 | [126401-triumphintheskies.json](./126401-triumphintheskies.json) |
 | Triumvora | 346200 | [346200-triumvora.json](./346200-triumvora.json) |
 | Triuna: The Seven | 128280 | [128280-triuna-the-seven.json](./128280-triuna-the-seven.json) |
