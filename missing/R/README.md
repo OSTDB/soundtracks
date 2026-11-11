@@ -12979,6 +12979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Buddy | 274211 | [274211-run-buddy.json](./274211-run-buddy.json) |
 | Run Build Pew! | 201572 | [201572-run-build-pew.json](./201572-run-build-pew.json) |
 | Run Bunny Home | 257770 | [257770-run-bunny-home.json](./257770-run-bunny-home.json) |
+| Run Chicken Run | 363078 | [363078-run-chicken-run.json](./363078-run-chicken-run.json) |
 | Run Chicken, Run! | 370795 | [370795-run-chicken-run.json](./370795-run-chicken-run.json) |
 | Run Coffee Run | 384817 | [384817-run-coffee-run.json](./384817-run-coffee-run.json) |
 | Run Crabby Run | 54462 | [54462-run-crabby-run.json](./54462-run-crabby-run.json) |
