@@ -2123,8 +2123,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptainment | 96845 | [96845-raptainment.json](./96845-raptainment.json) |
 | Raptor | 352790 | [352790-raptor.json](./352790-raptor.json) |
 | Raptor Boyfriend: A High School Romance | 140822 | [140822-raptor-boyfriend-a-high-school-romance.json](./140822-raptor-boyfriend-a-high-school-romance.json) |
+| Raptor Evolution | 378715 | [378715-raptor-evolution.json](./378715-raptor-evolution.json) |
+| Raptor Evolution: Celestosaurus | 378716 | [378716-raptor-evolution-celestosaurus.json](./378716-raptor-evolution-celestosaurus.json) |
 | Raptor Evolution: Complete Edition | 385207 | [385207-raptor-evolution-complete-edition.json](./385207-raptor-evolution-complete-edition.json) |
 | Raptor Evolution: Gold Edition | 404283 | [404283-raptor-evolution-gold-edition.json](./404283-raptor-evolution-gold-edition.json) |
+| Raptor Evolution: Infermadon | 378718 | [378718-raptor-evolution-infermadon.json](./378718-raptor-evolution-infermadon.json) |
+| Raptor Evolution: Vectoraptor | 378717 | [378717-raptor-evolution-vectoraptor.json](./378717-raptor-evolution-vectoraptor.json) |
 | Raptor Rampage: Dino Hunter | 317208 | [317208-raptor-rampage-dino-hunter.json](./317208-raptor-rampage-dino-hunter.json) |
 | Raptor RPG: Dino Sim | 328377 | [328377-raptor-rpg-dino-sim.json](./328377-raptor-rpg-dino-sim.json) |
 | Raptor Runner | 349656 | [349656-raptor-runner.json](./349656-raptor-runner.json) |
@@ -2671,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razor's Edge | 321654 | [321654-razors-edge.json](./321654-razors-edge.json) |
 | Razor2: Hidden Skies | 14972 | [14972-razor2-hidden-skies.json](./14972-razor2-hidden-skies.json) |
 | Razorback | 336008 | [336008-razorback.json](./336008-razorback.json) |
+| Razorlocks | 378684 | [378684-razorlocks.json](./378684-razorlocks.json) |
 | Razortron 2084 | 116893 | [116893-razortron-2084.json](./116893-razortron-2084.json) |
 | Razzmatazz | 40392 | [40392-razzmatazz.json](./40392-razzmatazz.json) |
 | RB Axolotl | 108962 | [108962-rb-axolotl.json](./108962-rb-axolotl.json) |
@@ -3221,6 +3226,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Vampires | 351402 | [351402-real-vampires.json](./351402-real-vampires.json) |
 | Real Video Blackjack | 79462 | [79462-real-video-blackjack.json](./79462-real-video-blackjack.json) |
 | Real VR Fishing | 130566 | [130566-real-vr-fishing.json](./130566-real-vr-fishing.json) |
+| Real VR Fishing: Canada DLC | 378726 | [378726-real-vr-fishing-canada-dlc.json](./378726-real-vr-fishing-canada-dlc.json) |
+| Real VR Fishing: Europe DLC Vol.2 | 378723 | [378723-real-vr-fishing-europe-dlc-vol-2.json](./378723-real-vr-fishing-europe-dlc-vol-2.json) |
+| Real VR Fishing: Japan DLC Part 1 | 378729 | [378729-real-vr-fishing-japan-dlc-part-1.json](./378729-real-vr-fishing-japan-dlc-part-1.json) |
+| Real VR Fishing: Japan DLC Part 2 | 378728 | [378728-real-vr-fishing-japan-dlc-part-2.json](./378728-real-vr-fishing-japan-dlc-part-2.json) |
+| Real VR Fishing: Mexico DLC | 378724 | [378724-real-vr-fishing-mexico-dlc.json](./378724-real-vr-fishing-mexico-dlc.json) |
+| Real VR Fishing: Oceania DLC | 378722 | [378722-real-vr-fishing-oceania-dlc.json](./378722-real-vr-fishing-oceania-dlc.json) |
+| Real VR Fishing: United Kingdom | 378720 | [378720-real-vr-fishing-united-kingdom.json](./378720-real-vr-fishing-united-kingdom.json) |
+| Real VR Fishing: US East Coast DLC | 378730 | [378730-real-vr-fishing-us-east-coast-dlc.json](./378730-real-vr-fishing-us-east-coast-dlc.json) |
+| Real VR Fishing: US West Coast DLC | 378731 | [378731-real-vr-fishing-us-west-coast-dlc.json](./378731-real-vr-fishing-us-west-coast-dlc.json) |
+| Real VR Fishing: Western Europe - Belgium | 378725 | [378725-real-vr-fishing-western-europe-belgium.json](./378725-real-vr-fishing-western-europe-belgium.json) |
+| Real VR Fishing: Western Europe - France | 378727 | [378727-real-vr-fishing-western-europe-france.json](./378727-real-vr-fishing-western-europe-france.json) |
+| Real VR Fishing: Western Europe - Netherlands | 378721 | [378721-real-vr-fishing-western-europe-netherlands.json](./378721-real-vr-fishing-western-europe-netherlands.json) |
 | Real War | 27595 | [27595-real-war.json](./27595-real-war.json) |
 | Real War: Rogue States | 72294 | [72294-real-war-rogue-states.json](./72294-real-war-rogue-states.json) |
 | Real WarBots | 24459 | [24459-real-warbots.json](./24459-real-warbots.json) |
@@ -12905,6 +12922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumor Reporter | 391072 | [391072-rumor-reporter.json](./391072-rumor-reporter.json) |
 | Rumour | 350560 | [350560-rumour.json](./350560-rumour.json) |
 | Rumours From Elsewhere | 112214 | [112214-rumours-from-elsewhere.json](./112214-rumours-from-elsewhere.json) |
+| Rumours of a Roman Empire | 378735 | [378735-rumours-of-a-roman-empire.json](./378735-rumours-of-a-roman-empire.json) |
 | Rump! | 35772 | [35772-rump.json](./35772-rump.json) |
 | Rumple Town | 226501 | [226501-rumple-town.json](./226501-rumple-town.json) |
 | Rumpus | 150522 | [150522-rumpus.json](./150522-rumpus.json) |
