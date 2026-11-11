@@ -9818,6 +9818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Cat Village | 314471 | [314471-meow-cat-village.json](./314471-meow-cat-village.json) |
 | Meow Craft | 392235 | [392235-meow-craft.json](./392235-meow-craft.json) |
 | Meow Defence | 214159 | [214159-meow-defence.json](./214159-meow-defence.json) |
+| Meow Delivery: Fish Frenzy | 334996 | [334996-meow-delivery-fish-frenzy.json](./334996-meow-delivery-fish-frenzy.json) |
 | Meow Express | 186685 | [186685-meow-express.json](./186685-meow-express.json) |
 | Meow Garden | 333906 | [333906-meow-garden.json](./333906-meow-garden.json) |
 | Meow Go | 76501 | [76501-meow-go.json](./76501-meow-go.json) |
