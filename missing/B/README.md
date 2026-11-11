@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babycar Driver | 101401 | [101401-babycar-driver.json](./101401-babycar-driver.json) |
 | Babylon 2055 Pinball | 33113 | [33113-babylon-2055-pinball.json](./33113-babylon-2055-pinball.json) |
 | Babylon 5 | 218435 | [218435-babylon-5.json](./218435-babylon-5.json) |
+| Babylon 5 Armada 2 | 342961 | [342961-babylon-5-armada-2.json](./342961-babylon-5-armada-2.json) |
 | Babylon 5: I've Found Her - Danger and Opportunity | 78731 | [78731-babylon-5-ive-found-her-danger-and-opportunity.json](./78731-babylon-5-ive-found-her-danger-and-opportunity.json) |
 | Babylon 5: Into the Fire | 8346 | [8346-babylon-5-into-the-fire.json](./8346-babylon-5-into-the-fire.json) |
 | Babylon 5: Shadow Wars | 80357 | [80357-babylon-5-shadow-wars.json](./80357-babylon-5-shadow-wars.json) |
@@ -18762,6 +18763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Catch Those Eggs | 387730 | [387730-bunny-catch-those-eggs.json](./387730-bunny-catch-those-eggs.json) |
 | Bunny Clicker | 320340 | [320340-bunny-clicker.json](./320340-bunny-clicker.json) |
 | Bunny Count | 150918 | [150918-bunny-count.json](./150918-bunny-count.json) |
+| Bunny Cubed | 343498 | [343498-bunny-cubed.json](./343498-bunny-cubed.json) |
 | Bunny Dodge | 118933 | [118933-bunny-dodge.json](./118933-bunny-dodge.json) |
 | Bunny E-shop | 306528 | [306528-bunny-e-shop.json](./306528-bunny-e-shop.json) |
 | Bunny Eureka | 221162 | [221162-bunny-eureka.json](./221162-bunny-eureka.json) |
