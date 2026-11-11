@@ -12840,6 +12840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Moon | 37310 | [37310-hunters-moon.json](./37310-hunters-moon.json) |
 | Hunter's Moon | 416105 | [416105-hunters-moon.json](./416105-hunters-moon.json) |
 | Hunter's Moon Remastered | 134523 | [134523-hunters-moon-remastered.json](./134523-hunters-moon-remastered.json) |
+| Hunter's Moon: A Sovereign Syndicate Adventure | 357518 | [357518-hunters-moon-a-sovereign-syndicate-adventure.json](./357518-hunters-moon-a-sovereign-syndicate-adventure.json) |
 | Hunter's Requiem | 303563 | [303563-hunters-requiem.json](./303563-hunters-requiem.json) |
 | Hunter's Seal | 365681 | [365681-hunters-seal.json](./365681-hunters-seal.json) |
 | Hunter's Soul | 122435 | [122435-hunters-soul.json](./122435-hunters-soul.json) |
