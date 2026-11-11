@@ -4241,6 +4241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
+| Wheelchair Wizards | 359113 | [359113-wheelchair-wizards.json](./359113-wheelchair-wizards.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
 | Wheelie | 23069 | [23069-wheelie.json](./23069-wheelie.json) |
 | Wheelie 1 | 331401 | [331401-wheelie-1.json](./331401-wheelie-1.json) |
@@ -4678,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whimel Academy | 275558 | [275558-whimel-academy.json](./275558-whimel-academy.json) |
 | Whimpact! | 378538 | [378538-whimpact.json](./378538-whimpact.json) |
 | Whimre | 252228 | [252228-whimre.json](./252228-whimre.json) |
+| Whimsical Artefacts | 359109 | [359109-whimsical-artefacts.json](./359109-whimsical-artefacts.json) |
 | Whimsical Heroes | 211485 | [211485-whimsical-heroes.json](./211485-whimsical-heroes.json) |
 | Whimsical Quest | 111421 | [111421-whimsical-quest.json](./111421-whimsical-quest.json) |
 | Whimsical Wizardry | 303964 | [303964-whimsical-wizardry.json](./303964-whimsical-wizardry.json) |
@@ -6881,6 +6883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches X Warlocks: Lawrence's Route | 252913 | [252913-witches-x-warlocks-lawrences-route.json](./252913-witches-x-warlocks-lawrences-route.json) |
 | Witches, Heroes and Magic | 35015 | [35015-witches-heroes-and-magic.json](./35015-witches-heroes-and-magic.json) |
 | Witches' Hallow | 270549 | [270549-witches-hallow.json](./270549-witches-hallow.json) |
+| Witches' Hand | 359134 | [359134-witches-hand.json](./359134-witches-hand.json) |
 | Witches' Legacy: Awakening Darkness HD (Full) | 89986 | [89986-witches-legacy-awakening-darkness-hd-full.json](./89986-witches-legacy-awakening-darkness-hd-full.json) |
 | Witches' Legacy: Dark Days to Come | 415975 | [415975-witches-legacy-dark-days-to-come.json](./415975-witches-legacy-dark-days-to-come.json) |
 | Witches' Legacy: Dark Days to Come - Collector's Edition | 415974 | [415974-witches-legacy-dark-days-to-come-collectors-edition.json](./415974-witches-legacy-dark-days-to-come-collectors-edition.json) |
@@ -9155,6 +9158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Without Reason | 284410 | [284410-world-without-reason.json](./284410-world-without-reason.json) |
 | World Without Time | 390214 | [390214-world-without-time.json](./390214-world-without-time.json) |
 | World Wonders Hidden Histories 3 | 364105 | [364105-world-wonders-hidden-histories-3.json](./364105-world-wonders-hidden-histories-3.json) |
+| World Wonders: Hidden Histories | 359099 | [359099-world-wonders-hidden-histories.json](./359099-world-wonders-hidden-histories.json) |
 | World Wonders: Hidden Histories 2 | 359216 | [359216-world-wonders-hidden-histories-2.json](./359216-world-wonders-hidden-histories-2.json) |
 | World Wrestling Mania: Hell Cell 2K18 | 96175 | [96175-world-wrestling-mania-hell-cell-2k18.json](./96175-world-wrestling-mania-hell-cell-2k18.json) |
 | World Xplore | 288451 | [288451-world-xplore.json](./288451-world-xplore.json) |
