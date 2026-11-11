@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danger Zombies | 169031 | [169031-danger-zombies.json](./169031-danger-zombies.json) |
 | Danger Zone | 277687 | [277687-danger-zone.json](./277687-danger-zone.json) |
 | Danger Zone | 28242 | [28242-danger-zone.json](./28242-danger-zone.json) |
+| Danger Zone | 359115 | [359115-danger-zone.json](./359115-danger-zone.json) |
 | Danger Zone | 387839 | [387839-danger-zone.json](./387839-danger-zone.json) |
 | Danger Zone 2 | 104231 | [104231-danger-zone-2.json](./104231-danger-zone-2.json) |
 | Danger Zone Friends | 135044 | [135044-danger-zone-friends.json](./135044-danger-zone-friends.json) |
@@ -5462,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decommissioner | 186252 | [186252-decommissioner.json](./186252-decommissioner.json) |
 | Decompose With Me | 408160 | [408160-decompose-with-me.json](./408160-decompose-with-me.json) |
 | Decomposition | 339791 | [339791-decomposition.json](./339791-decomposition.json) |
+| Decon Protocol | 359104 | [359104-decon-protocol.json](./359104-decon-protocol.json) |
 | Deconstruct | 60727 | [60727-deconstruct.json](./60727-deconstruct.json) |
 | Deconstruction | 105069 | [105069-deconstruction.json](./105069-deconstruction.json) |
 | Deconstruction Lab | 111228 | [111228-deconstruction-lab.json](./111228-deconstruction-lab.json) |
@@ -18199,6 +18201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropoff Dealer | 236444 | [236444-dropoff-dealer.json](./236444-dropoff-dealer.json) |
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
 | Dropper | 135551 | [135551-dropper.json](./135551-dropper.json) |
+| Droppy Ball | 359121 | [359121-droppy-ball.json](./359121-droppy-ball.json) |
 | Drops of God: Creating your Ambrosia | 291378 | [291378-drops-of-god-creating-your-ambrosia.json](./291378-drops-of-god-creating-your-ambrosia.json) |
 | Drops: Rhythm Garden | 102403 | [102403-drops-rhythm-garden.json](./102403-drops-rhythm-garden.json) |
 | DROPSHIP | 93925 | [93925-dropship.json](./93925-dropship.json) |
