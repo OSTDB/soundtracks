@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero4 Champ DooZy-J | 125856 | [125856-zero4-champ-doozy-j.json](./125856-zero4-champ-doozy-j.json) |
 | Zero4 Champ II | 125857 | [125857-zero4-champ-ii.json](./125857-zero4-champ-ii.json) |
 | Zero4 Champ Series: Drift Champ | 124629 | [124629-zero4-champ-series-drift-champ.json](./124629-zero4-champ-series-drift-champ.json) |
+| Zeroad | 383883 | [383883-zeroad.json](./383883-zeroad.json) |
 | ZeroAtlas | 24699 | [24699-zeroatlas.json](./24699-zeroatlas.json) |
 | ZeroCar | 88249 | [88249-zerocar.json](./88249-zerocar.json) |
 | Zerocar: Future Motorsport | 116453 | [116453-zerocar-future-motorsport.json](./116453-zerocar-future-motorsport.json) |
