@@ -10031,6 +10031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Year 1 - Heroes Bundle | 256746 | [256746-for-honor-year-1-heroes-bundle.json](./256746-for-honor-year-1-heroes-bundle.json) |
 | For Honor: Yokai Banishers - Hero Skin Bundle | 375240 | [375240-for-honor-yokai-banishers-hero-skin-bundle.json](./375240-for-honor-yokai-banishers-hero-skin-bundle.json) |
 | For Honor: Yoshiro the Damned - Orochi Hero Skin | 375239 | [375239-for-honor-yoshiro-the-damned-orochi-hero-skin.json](./375239-for-honor-yoshiro-the-damned-orochi-hero-skin.json) |
+| For Humanity | 379304 | [379304-for-humanity.json](./379304-for-humanity.json) |
 | For I, the Moon | 216276 | [216276-for-i-the-moon.json](./216276-for-i-the-moon.json) |
 | For Inco | 126266 | [126266-for-inco.json](./126266-for-inco.json) |
 | For Love of Evil | 271779 | [271779-for-love-of-evil.json](./271779-for-love-of-evil.json) |
@@ -11077,6 +11078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 6 - Season 1: Demon Hunters | 323914 | [323914-fortnite-chapter-6-season-1-demon-hunters.json](./323914-fortnite-chapter-6-season-1-demon-hunters.json) |
 | Fortnite: Chapter 6 - Season 2: Lawless | 332192 | [332192-fortnite-chapter-6-season-2-lawless.json](./332192-fortnite-chapter-6-season-2-lawless.json) |
 | Fortnite: Chapter 6 - Season 4: Shock 'N Awesome | 360278 | [360278-fortnite-chapter-6-season-4-shock-n-awesome.json](./360278-fortnite-chapter-6-season-4-shock-n-awesome.json) |
+| Fortnite: Chapter 7 - Season 1: Pacific Break | 379299 | [379299-fortnite-chapter-7-season-1-pacific-break.json](./379299-fortnite-chapter-7-season-1-pacific-break.json) |
 | Fortnite: Chapter 7 - Season 2: Showdown | 394366 | [394366-fortnite-chapter-7-season-2-showdown.json](./394366-fortnite-chapter-7-season-2-showdown.json) |
 | Fortnite: Chapter 7 - Season 3: Runners | 404689 | [404689-fortnite-chapter-7-season-3-runners.json](./404689-fortnite-chapter-7-season-3-runners.json) |
 | Fortnite: Chapter 7 - Season 4: Override | 414179 | [414179-fortnite-chapter-7-season-4-override.json](./414179-fortnite-chapter-7-season-4-override.json) |
