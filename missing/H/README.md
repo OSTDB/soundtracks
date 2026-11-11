@@ -9605,6 +9605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holos lisu | 279752 | [279752-holos-lisu.json](./279752-holos-lisu.json) |
 | Holosaga: Invasion of the HoloX | 298148 | [298148-holosaga-invasion-of-the-holox.json](./298148-holosaga-invasion-of-the-holox.json) |
 | Holoscope: Another Day Another Data | 176773 | [176773-holoscope-another-day-another-data.json](./176773-holoscope-another-day-another-data.json) |
+| HoloSeeker | 380934 | [380934-holoseeker.json](./380934-holoseeker.json) |
 | HoloSona5 | 340479 | [340479-holosona5.json](./340479-holosona5.json) |
 | Holospecter | 317075 | [317075-holospecter.json](./317075-holospecter.json) |
 | HoloSprint | 127706 | [127706-holosprint.json](./127706-holosprint.json) |
