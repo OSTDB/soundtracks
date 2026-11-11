@@ -4702,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refarm | 312178 | [312178-refarm.json](./312178-refarm.json) |
 | Refate: Echoes of Desire | 375209 | [375209-refate-echoes-of-desire.json](./375209-refate-echoes-of-desire.json) |
 | Refbals | 392272 | [392272-refbals.json](./392272-refbals.json) |
+| Refence | 333244 | [333244-refence.json](./333244-refence.json) |
 | Referee Life Simulator 2026 | 373192 | [373192-referee-life-simulator-2026.json](./373192-referee-life-simulator-2026.json) |
 | Referee Simulator | 171818 | [171818-referee-simulator.json](./171818-referee-simulator.json) |
 | Reficul | 74504 | [74504-reficul.json](./74504-reficul.json) |
@@ -12761,6 +12762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugosi | 106417 | [106417-rugosi.json](./106417-rugosi.json) |
 | Rugrats Adventure Game | 8089 | [8089-rugrats-adventure-game.json](./8089-rugrats-adventure-game.json) |
 | Rugrats Food Fight | 8090 | [8090-rugrats-food-fight.json](./8090-rugrats-food-fight.json) |
+| Rugrats Go Wild Wildlife Rescue | 333250 | [333250-rugrats-go-wild-wildlife-rescue.json](./333250-rugrats-go-wild-wildlife-rescue.json) |
 | Rugrats Go Wild! | 248691 | [248691-rugrats-go-wild.json](./248691-rugrats-go-wild.json) |
 | Rugrats Go Wild! | 7999 | [7999-rugrats-go-wild.json](./7999-rugrats-go-wild.json) |
 | Rugrats in Paris: The Movie | 249130 | [249130-rugrats-in-paris-the-movie.json](./249130-rugrats-in-paris-the-movie.json) |
