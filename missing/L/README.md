@@ -10137,6 +10137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lulanda | 363006 | [363006-lulanda.json](./363006-lulanda.json) |
 | Lull Aby | 121221 | [121221-lull-aby.json](./121221-lull-aby.json) |
 | Lull Away | 184339 | [184339-lull-away.json](./184339-lull-away.json) |
+| Lullabies Made of Static | 389250 | [389250-lullabies-made-of-static.json](./389250-lullabies-made-of-static.json) |
 | Lullaby | 203654 | [203654-lullaby.json](./203654-lullaby.json) |
 | Lullaby | 256805 | [256805-lullaby.json](./256805-lullaby.json) |
 | Lullaby Data | 311639 | [311639-lullaby-data.json](./311639-lullaby-data.json) |
