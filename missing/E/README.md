@@ -2217,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch Bulwark | 351180 | [351180-eldritch-bulwark.json](./351180-eldritch-bulwark.json) |
 | Eldritch Cards: The Lovecraftian Dungeon Crawler Game | 413600 | [413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json](./413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json) |
 | Eldritch Empathy | 314356 | [314356-eldritch-empathy.json](./314356-eldritch-empathy.json) |
+| Eldritch Escape | 330986 | [330986-eldritch-escape.json](./330986-eldritch-escape.json) |
 | Eldritch Evolution | 340106 | [340106-eldritch-evolution.json](./340106-eldritch-evolution.json) |
 | Eldritch Exterminators | 264600 | [264600-eldritch-exterminators.json](./264600-eldritch-exterminators.json) |
 | Eldritch Horror: Digital Edition | 375792 | [375792-eldritch-horror-digital-edition.json](./375792-eldritch-horror-digital-edition.json) |
