@@ -1556,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Void Society | 319757 | [319757-a-void-society.json](./319757-a-void-society.json) |
 | A Voxel Action | 65411 | [65411-a-voxel-action.json](./65411-a-voxel-action.json) |
 | A Voz do Operário | 276740 | [276740-a-voz-do-operario.json](./276740-a-voz-do-operario.json) |
+| A Waddleful Life | 325178 | [325178-a-waddleful-life.json](./325178-a-waddleful-life.json) |
 | A Wake Between Worlds | 350415 | [350415-a-wake-between-worlds.json](./350415-a-wake-between-worlds.json) |
 | A Wake Inn: Rebooked | 165400 | [165400-a-wake-inn-rebooked.json](./165400-a-wake-inn-rebooked.json) |
 | A Walk Along the Wall | 81955 | [81955-a-walk-along-the-wall.json](./81955-a-walk-along-the-wall.json) |
@@ -6414,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akaneiro ni Somaru Saka | 312678 | [312678-akaneiro-ni-somaru-saka.json](./312678-akaneiro-ni-somaru-saka.json) |
 | Akaneiro ni Somaru Saka Portable | 56532 | [56532-akaneiro-ni-somaru-saka-portable.json](./56532-akaneiro-ni-somaru-saka-portable.json) |
 | Akaneiro: Demon Hunters | 1900 | [1900-akaneiro-demon-hunters.json](./1900-akaneiro-demon-hunters.json) |
+| Akanemachi Kitan | 325153 | [325153-akanemachi-kitan.json](./325153-akanemachi-kitan.json) |
 | Akanesasu Sekai de Kimi to Utau | 240479 | [240479-akanesasu-sekai-de-kimi-to-utau.json](./240479-akanesasu-sekai-de-kimi-to-utau.json) |
 | Akapulka: The Rainbow | 201666 | [201666-akapulka-the-rainbow.json](./201666-akapulka-the-rainbow.json) |
 | Akari and the Abyss | 246013 | [246013-akari-and-the-abyss.json](./246013-akari-and-the-abyss.json) |
