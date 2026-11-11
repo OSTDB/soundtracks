@@ -2332,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasabi Game | 245044 | [245044-wasabi-game.json](./245044-wasabi-game.json) |
 | Wasard | 264512 | [264512-wasard.json](./264512-wasard.json) |
 | WASD Quartet | 216840 | [216840-wasd-quartet.json](./216840-wasd-quartet.json) |
+| WASD Wizard | 373450 | [373450-wasd-wizard.json](./373450-wasd-wizard.json) |
 | WASD: The Adventure of Tori | 358333 | [358333-wasd-the-adventure-of-tori.json](./358333-wasd-the-adventure-of-tori.json) |
 | WASDead | 108015 | [108015-wasdead.json](./108015-wasdead.json) |
 | WASDead: Complete Edition | 126766 | [126766-wasdead-complete-edition.json](./126766-wasdead-complete-edition.json) |
@@ -7697,6 +7698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wongo | 57073 | [57073-wongo.json](./57073-wongo.json) |
 | Wonhon: A Vengeful Spirit | 132239 | [132239-wonhon-a-vengeful-spirit.json](./132239-wonhon-a-vengeful-spirit.json) |
 | Wonhon: The Beginning | 174037 | [174037-wonhon-the-beginning.json](./174037-wonhon-the-beginning.json) |
+| Wonka Bars: Chocolate Pipe Madness | 373436 | [373436-wonka-bars-chocolate-pipe-madness.json](./373436-wonka-bars-chocolate-pipe-madness.json) |
 | Wonka Block Party | 373531 | [373531-wonka-block-party.json](./373531-wonka-block-party.json) |
 | Wonka's World of Candy | 112151 | [112151-wonkas-world-of-candy.json](./112151-wonkas-world-of-candy.json) |
 | WonkaZoid: Oompa Candy Flip | 313237 | [313237-wonkazoid-oompa-candy-flip.json](./313237-wonkazoid-oompa-candy-flip.json) |
