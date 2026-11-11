@@ -7330,6 +7330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bundle of Wonders | 173792 | [173792-the-bundle-of-wonders.json](./173792-the-bundle-of-wonders.json) |
 | The Bunker | 171794 | [171794-the-bunker.json](./171794-the-bunker.json) |
 | The Bunker | 24017 | [24017-the-bunker.json](./24017-the-bunker.json) |
+| The Bunker Notes | 342308 | [342308-the-bunker-notes.json](./342308-the-bunker-notes.json) |
 | The Bunny Burrow | 362738 | [362738-the-bunny-burrow.json](./362738-the-bunny-burrow.json) |
 | The Bunny Graveyard | 197086 | [197086-the-bunny-graveyard.json](./197086-the-bunny-graveyard.json) |
 | The Bunny Graveyard II | 350142 | [350142-the-bunny-graveyard-ii.json](./350142-the-bunny-graveyard-ii.json) |
@@ -10603,6 +10604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gene Machine | 19672 | [19672-the-gene-machine.json](./19672-the-gene-machine.json) |
 | The General | 174369 | [174369-the-general.json](./174369-the-general.json) |
 | The General Retreats | 102375 | [102375-the-general-retreats.json](./102375-the-general-retreats.json) |
+| The General Saga | 342355 | [342355-the-general-saga.json](./342355-the-general-saga.json) |
 | The General's Son | 257580 | [257580-the-generals-son.json](./257580-the-generals-son.json) |
 | The Genesis Order | 263938 | [263938-the-genesis-order.json](./263938-the-genesis-order.json) |
 | The Genesis Project | 109057 | [109057-the-genesis-project.json](./109057-the-genesis-project.json) |
@@ -14566,6 +14568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Men of Yoshiwara: Ohgiya | 33398 | [33398-the-men-of-yoshiwara-ohgiya.json](./33398-the-men-of-yoshiwara-ohgiya.json) |
 | The Menacing | 156030 | [156030-the-menacing.json](./156030-the-menacing.json) |
 | The Mensional | 197112 | [197112-the-mensional.json](./197112-the-mensional.json) |
+| The Meownth | 342354 | [342354-the-meownth.json](./342354-the-meownth.json) |
 | the Mercenary | 154297 | [154297-the-mercenary.json](./154297-the-mercenary.json) |
 | The Mercenary's Adventure | 388420 | [388420-the-mercenarys-adventure.json](./388420-the-mercenarys-adventure.json) |
 | The Mercer Slough and You | 145622 | [145622-the-mercer-slough-and-you.json](./145622-the-mercer-slough-and-you.json) |
@@ -16585,6 +16588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Return To Freddy's 2 | 401704 | [401704-the-return-to-freddys-2.json](./401704-the-return-to-freddys-2.json) |
 | The Return to Freddy's Classic | 272805 | [272805-the-return-to-freddys-classic.json](./272805-the-return-to-freddys-classic.json) |
 | The Return: Survival | 114771 | [114771-the-return-survival.json](./114771-the-return-survival.json) |
+| The Reunion: Rediscovering Lost Love | 342353 | [342353-the-reunion-rediscovering-lost-love.json](./342353-the-reunion-rediscovering-lost-love.json) |
 | The Revanchist | 338722 | [338722-the-revanchist.json](./338722-the-revanchist.json) |
 | The Revelation of Gensokyo | 157121 | [157121-the-revelation-of-gensokyo.json](./157121-the-revelation-of-gensokyo.json) |
 | The Revenant Prince | 129761 | [129761-the-revenant-prince.json](./129761-the-revenant-prince.json) |
@@ -35732,6 +35736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typo Man | 42142 | [42142-typo-man.json](./42142-typo-man.json) |
 | Typo! | 323488 | [323488-typo.json](./323488-typo.json) |
 | TypoGun | 93364 | [93364-typogun.json](./93364-typogun.json) |
+| TypoJam | 342315 | [342315-typojam.json](./342315-typojam.json) |
 | Typomagical | 358232 | [358232-typomagical.json](./358232-typomagical.json) |
 | Typoman Mobile | 194082 | [194082-typoman-mobile.json](./194082-typoman-mobile.json) |
 | Typoman: Revised | 52993 | [52993-typoman-revised.json](./52993-typoman-revised.json) |
