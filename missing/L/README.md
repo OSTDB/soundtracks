@@ -2107,6 +2107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lazy Jiangshi | 259048 | [259048-lazy-jiangshi.json](./259048-lazy-jiangshi.json) |
 | Lazy Jones | 18964 | [18964-lazy-jones.json](./18964-lazy-jones.json) |
 | Lazy Kickers | 407559 | [407559-lazy-kickers.json](./407559-lazy-kickers.json) |
+| Lazy Lord: War on the Desktop | 372389 | [372389-lazy-lord-war-on-the-desktop.json](./372389-lazy-lord-war-on-the-desktop.json) |
 | Lazy Master | 251445 | [251445-lazy-master.json](./251445-lazy-master.json) |
 | Lazy Paper | 415884 | [415884-lazy-paper.json](./415884-lazy-paper.json) |
 | Lazy Pirates | 180752 | [180752-lazy-pirates.json](./180752-lazy-pirates.json) |
@@ -5126,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light: Fellowship of Loux | 58335 | [58335-light-fellowship-of-loux.json](./58335-light-fellowship-of-loux.json) |
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
+| Light'Em Up | 372374 | [372374-lightem-up.json](./372374-lightem-up.json) |
 | Light'em Up: For brainiacs only | 232495 | [232495-lightem-up-for-brainiacs-only.json](./232495-lightem-up-for-brainiacs-only.json) |
 | Light's End | 294179 | [294179-lights-end.json](./294179-lights-end.json) |
 | Light&Dark | 117218 | [117218-light-and-dark.json](./117218-light-and-dark.json) |
