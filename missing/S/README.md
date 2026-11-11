@@ -2758,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scale Star | 97686 | [97686-scale-star.json](./97686-scale-star.json) |
 | Scale the Depths | 341134 | [341134-scale-the-depths.json](./341134-scale-the-depths.json) |
 | Scale the Depths | 403754 | [403754-scale-the-depths.json](./403754-scale-the-depths.json) |
+| Scale2fit | 390834 | [390834-scale2fit.json](./390834-scale2fit.json) |
 | Scalebound | 264882 | [264882-scalebound.json](./264882-scalebound.json) |
 | Scalebound | 7345 | [7345-scalebound.json](./7345-scalebound.json) |
 | ScaleBox | 344714 | [344714-scalebox.json](./344714-scalebox.json) |
@@ -17150,6 +17151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokogeek | 403321 | [403321-sokogeek.json](./403321-sokogeek.json) |
 | Sokogeon | 134254 | [134254-sokogeon.json](./134254-sokogeon.json) |
 | SokoGhost: Unfinished Business | 390021 | [390021-sokoghost-unfinished-business.json](./390021-sokoghost-unfinished-business.json) |
+| Sokogram | 390857 | [390857-sokogram.json](./390857-sokogram.json) |
 | Sokoku | 369349 | [369349-sokoku.json](./369349-sokoku.json) |
 | SokoLab | 244173 | [244173-sokolab.json](./244173-sokolab.json) |
 | SokoMage | 235205 | [235205-sokomage.json](./235205-sokomage.json) |
@@ -24801,6 +24803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squibble | 38699 | [38699-squibble.json](./38699-squibble.json) |
 | Squibs Arcade | 92354 | [92354-squibs-arcade.json](./92354-squibs-arcade.json) |
 | Squid and Let Die | 57342 | [57342-squid-and-let-die.json](./57342-squid-and-let-die.json) |
+| Squid Arrives II: Make Squid Great Again | 390856 | [390856-squid-arrives-ii-make-squid-great-again.json](./390856-squid-arrives-ii-make-squid-great-again.json) |
 | Squid Commando | 270562 | [270562-squid-commando.json](./270562-squid-commando.json) |
 | Squid Fighter | 226613 | [226613-squid-fighter.json](./226613-squid-fighter.json) |
 | Squid Game | 428386 | [428386-squid-game.json](./428386-squid-game.json) |
@@ -25196,6 +25199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalker 2 | 314379 | [314379-stalker-2.json](./314379-stalker-2.json) |
 | Stalker Crab Simulator | 100461 | [100461-stalker-crab-simulator.json](./100461-stalker-crab-simulator.json) |
 | Stalker Defender Bunker 3D | 89238 | [89238-stalker-defender-bunker-3d.json](./89238-stalker-defender-bunker-3d.json) |
+| Stalker From Willowfield St. | 390822 | [390822-stalker-from-willowfield-st.json](./390822-stalker-from-willowfield-st.json) |
 | Stalker Girl | 250839 | [250839-stalker-girl.json](./250839-stalker-girl.json) |
 | Stalker Together | 327831 | [327831-stalker-together.json](./327831-stalker-together.json) |
 | Stalker: Spatial Trap | 321516 | [321516-stalker-spatial-trap.json](./321516-stalker-spatial-trap.json) |
@@ -28670,6 +28674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Realm | 140445 | [140445-stolen-realm.json](./140445-stolen-realm.json) |
 | Stolen Realm Survivors | 325324 | [325324-stolen-realm-survivors.json](./325324-stolen-realm-survivors.json) |
 | Stolen Recovery | 133373 | [133373-stolen-recovery.json](./133373-stolen-recovery.json) |
+| Stolen Skies | 390840 | [390840-stolen-skies.json](./390840-stolen-skies.json) |
 | Stolen Steel VR | 29568 | [29568-stolen-steel-vr.json](./29568-stolen-steel-vr.json) |
 | Stomach | 358750 | [358750-stomach.json](./358750-stomach.json) |
 | Stomp | 27294 | [27294-stomp.json](./27294-stomp.json) |
@@ -30000,6 +30005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streetdance 3D | 9466 | [9466-streetdance-3d.json](./9466-streetdance-3d.json) |
 | Streetdog BMX | 280252 | [280252-streetdog-bmx.json](./280252-streetdog-bmx.json) |
 | Streetkix Freestyle | 52865 | [52865-streetkix-freestyle.json](./52865-streetkix-freestyle.json) |
+| Streetlight Syndicate | 390833 | [390833-streetlight-syndicate.json](./390833-streetlight-syndicate.json) |
 | StreetMobsters | 65375 | [65375-streetmobsters.json](./65375-streetmobsters.json) |
 | Streetoir | 272226 | [272226-streetoir.json](./272226-streetoir.json) |
 | StreetPass Mii Plaza | 80022 | [80022-streetpass-mii-plaza.json](./80022-streetpass-mii-plaza.json) |
