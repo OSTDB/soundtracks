@@ -4223,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 3 | 270866 | [270866-aerial-nature-jigsaw-puzzles-expansion-pack-3.json](./270866-aerial-nature-jigsaw-puzzles-expansion-pack-3.json) |
 | Aerial Nature Jigsaw Puzzles: Expansion Pack 4 | 270199 | [270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json](./270199-aerial-nature-jigsaw-puzzles-expansion-pack-4.json) |
 | Aerial Racers | 76195 | [76195-aerial-racers.json](./76195-aerial-racers.json) |
+| Aerial Raider | 375730 | [375730-aerial-raider.json](./375730-aerial-raider.json) |
 | Aerial Rave | 286483 | [286483-aerial-rave.json](./286483-aerial-rave.json) |
 | Aerial Raver | 131829 | [131829-aerial-raver.json](./131829-aerial-raver.json) |
 | Aerial Strike: The Yager Missions | 72587 | [72587-aerial-strike-the-yager-missions.json](./72587-aerial-strike-the-yager-missions.json) |
@@ -12543,6 +12544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apparatus | 204796 | [204796-apparatus.json](./204796-apparatus.json) |
 | Apparatus | 63976 | [63976-apparatus.json](./63976-apparatus.json) |
 | Apparatus: Exanimus | 361328 | [361328-apparatus-exanimus.json](./361328-apparatus-exanimus.json) |
+| Appare Usappie! | 375722 | [375722-appare-usappie.json](./375722-appare-usappie.json) |
 | Appare-den: Fukuryuu no Shou | 243782 | [243782-appare-den-fukuryuu-no-shou.json](./243782-appare-den-fukuryuu-no-shou.json) |
 | Appare! Gateball | 42092 | [42092-appare-gateball.json](./42092-appare-gateball.json) |
 | Appare! Shogi Jiisan | 269650 | [269650-appare-shogi-jiisan.json](./269650-appare-shogi-jiisan.json) |
@@ -13128,6 +13130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Ridge Racer | 338097 | [338097-arcade-archives-2-ridge-racer.json](./338097-arcade-archives-2-ridge-racer.json) |
 | Arcade Archives 2: Roc'n Rope | 381796 | [381796-arcade-archives-2-rocn-rope.json](./381796-arcade-archives-2-rocn-rope.json) |
 | Arcade Archives 2: Satan of Saturn | 415720 | [415720-arcade-archives-2-satan-of-saturn.json](./415720-arcade-archives-2-satan-of-saturn.json) |
+| Arcade Archives 2: Scion | 375698 | [375698-arcade-archives-2-scion.json](./375698-arcade-archives-2-scion.json) |
 | Arcade Archives 2: Scrambled Egg | 364071 | [364071-arcade-archives-2-scrambled-egg.json](./364071-arcade-archives-2-scrambled-egg.json) |
 | Arcade Archives 2: Space Cyclone | 407268 | [407268-arcade-archives-2-space-cyclone.json](./407268-arcade-archives-2-space-cyclone.json) |
 | Arcade Archives 2: Space Invaders Part II | 385155 | [385155-arcade-archives-2-space-invaders-part-ii.json](./385155-arcade-archives-2-space-invaders-part-ii.json) |
@@ -13408,6 +13411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Saint Dragon | 129766 | [129766-arcade-archives-saint-dragon.json](./129766-arcade-archives-saint-dragon.json) |
 | Arcade Archives: Sasuke vs Commander | 129955 | [129955-arcade-archives-sasuke-vs-commander.json](./129955-arcade-archives-sasuke-vs-commander.json) |
 | Arcade Archives: Satan of Saturn | 416064 | [416064-arcade-archives-satan-of-saturn.json](./416064-arcade-archives-satan-of-saturn.json) |
+| Arcade Archives: Scion | 375697 | [375697-arcade-archives-scion.json](./375697-arcade-archives-scion.json) |
 | Arcade Archives: Scramble | 75699 | [75699-arcade-archives-scramble.json](./75699-arcade-archives-scramble.json) |
 | Arcade Archives: Scramble Formation | 278567 | [278567-arcade-archives-scramble-formation.json](./278567-arcade-archives-scramble-formation.json) |
 | Arcade Archives: Scrambled Egg | 364072 | [364072-arcade-archives-scrambled-egg.json](./364072-arcade-archives-scrambled-egg.json) |
