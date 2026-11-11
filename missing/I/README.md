@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Icontrivia: Guess the Celebrity | 232473 | [232473-icontrivia-guess-the-celebrity.json](./232473-icontrivia-guess-the-celebrity.json) |
 | Icontrivia: Guess the Character | 233746 | [233746-icontrivia-guess-the-character.json](./233746-icontrivia-guess-the-character.json) |
 | Icontrivia: Guess the Dogs | 233101 | [233101-icontrivia-guess-the-dogs.json](./233101-icontrivia-guess-the-dogs.json) |
+| Icoptic Journey | 347372 | [347372-icoptic-journey.json](./347372-icoptic-journey.json) |
 | ICoreBreach | 175115 | [175115-icorebreach.json](./175115-icorebreach.json) |
 | Icorp | 151388 | [151388-icorp.json](./151388-icorp.json) |
 | Icosi-Do | 209391 | [209391-icosi-do.json](./209391-icosi-do.json) |
