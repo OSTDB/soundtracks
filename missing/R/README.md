@@ -8818,7 +8818,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River City Girls 1, 2, and Zero + Double Dragon DLC Bundle | 346009 | [346009-river-city-girls-1-2-and-zero-double-dragon-dlc-bundle.json](./346009-river-city-girls-1-2-and-zero-double-dragon-dlc-bundle.json) |
 | River City Girls 1, 2, and Zero Bundle | 263897 | [263897-river-city-girls-1-2-and-zero-bundle.json](./263897-river-city-girls-1-2-and-zero-bundle.json) |
 | River City Girls 2: Double Dragon DLC | 309037 | [309037-river-city-girls-2-double-dragon-dlc.json](./309037-river-city-girls-2-double-dragon-dlc.json) |
-| River City Girls Zero | 137195 | [137195-river-city-girls-zero.json](./137195-river-city-girls-zero.json) |
 | River City Melee Mach!! | 115481 | [115481-river-city-melee-mach.json](./115481-river-city-melee-mach.json) |
 | River City Melee: Battle Royal Special | 63712 | [63712-river-city-melee-battle-royal-special.json](./63712-river-city-melee-battle-royal-special.json) |
 | River City Ransom | 376654 | [376654-river-city-ransom.json](./376654-river-city-ransom.json) |
