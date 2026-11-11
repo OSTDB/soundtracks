@@ -4581,6 +4581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkjet Apocalypse | 350036 | [350036-inkjet-apocalypse.json](./350036-inkjet-apocalypse.json) |
 | Inkling Cats: Beneath the dreams | 323635 | [323635-inkling-cats-beneath-the-dreams.json](./323635-inkling-cats-beneath-the-dreams.json) |
 | Inklings | 32800 | [32800-inklings.json](./32800-inklings.json) |
+| Inko Beasts | 334974 | [334974-inko-beasts.json](./334974-inko-beasts.json) |
 | Inko Joshikosei | 97692 | [97692-inko-joshikosei.json](./97692-inko-joshikosei.json) |
 | Inkognito for iPad | 175081 | [175081-inkognito-for-ipad.json](./175081-inkognito-for-ipad.json) |
 | Inkoid | 390615 | [390615-inkoid.json](./390615-inkoid.json) |
@@ -4645,6 +4646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Life | 185081 | [185081-inner-life.json](./185081-inner-life.json) |
 | Inner Light | 190363 | [190363-inner-light.json](./190363-inner-light.json) |
 | Inner Mazes: Souls Guides | 74613 | [74613-inner-mazes-souls-guides.json](./74613-inner-mazes-souls-guides.json) |
+| Inner Rain | 334402 | [334402-inner-rain.json](./334402-inner-rain.json) |
 | Inner Riddle | 96669 | [96669-inner-riddle.json](./96669-inner-riddle.json) |
 | Inner Rooms | 405938 | [405938-inner-rooms.json](./405938-inner-rooms.json) |
 | Inner Seasons | 258964 | [258964-inner-seasons.json](./258964-inner-seasons.json) |
