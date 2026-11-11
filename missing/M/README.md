@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macho Spinner | 270176 | [270176-macho-spinner.json](./270176-macho-spinner.json) |
 | Machorium: Muscle Aquarium Simulator | 295222 | [295222-machorium-muscle-aquarium-simulator.json](./295222-machorium-muscle-aquarium-simulator.json) |
 | MachRace | 32865 | [32865-machrace.json](./32865-machrace.json) |
+| Macht Magie | 341199 | [341199-macht-magie.json](./341199-macht-magie.json) |
 | Macie's Magic Melee | 306403 | [306403-macies-magic-melee.json](./306403-macies-magic-melee.json) |
 | Macis | 307068 | [307068-macis.json](./307068-macis.json) |
 | Mackerelmedia Fish | 172499 | [172499-mackerelmedia-fish.json](./172499-mackerelmedia-fish.json) |
@@ -951,6 +952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magalumina | 392932 | [392932-magalumina.json](./392932-magalumina.json) |
 | Magatama | 59329 | [59329-magatama.json](./59329-magatama.json) |
 | Magatama Earrings | 32576 | [32576-magatama-earrings.json](./32576-magatama-earrings.json) |
+| Magatch | 341200 | [341200-magatch.json](./341200-magatch.json) |
 | Magatsu Barai | 172730 | [172730-magatsu-barai.json](./172730-magatsu-barai.json) |
 | Magatsu Wahrheit | 194004 | [194004-magatsu-wahrheit.json](./194004-magatsu-wahrheit.json) |
 | Magazine Editor | 29433 | [29433-magazine-editor.json](./29433-magazine-editor.json) |
@@ -967,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Arena: Voice of Magic | 378761 | [378761-mage-arena-voice-of-magic.json](./378761-mage-arena-voice-of-magic.json) |
 | Mage Arena: Voice of Power | 376236 | [376236-mage-arena-voice-of-power.json](./376236-mage-arena-voice-of-power.json) |
 | Mage Arena: Voicebound | 366214 | [366214-mage-arena-voicebound.json](./366214-mage-arena-voicebound.json) |
+| Mage at Stake | 341201 | [341201-mage-at-stake.json](./341201-mage-at-stake.json) |
 | Mage Ball | 232942 | [232942-mage-ball.json](./232942-mage-ball.json) |
 | Mage Battle Arena | 370436 | [370436-mage-battle-arena.json](./370436-mage-battle-arena.json) |
 | Mage Blast | 356369 | [356369-mage-blast.json](./356369-mage-blast.json) |
@@ -1376,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
 | Magic Puzzle | 328296 | [328296-magic-puzzle.json](./328296-magic-puzzle.json) |
 | Magic Puzzle King | 358040 | [358040-magic-puzzle-king.json](./358040-magic-puzzle-king.json) |
+| Magic Puzzle King 2: Rolling Cat | 341202 | [341202-magic-puzzle-king-2-rolling-cat.json](./341202-magic-puzzle-king-2-rolling-cat.json) |
 | Magic Quest | 33221 | [33221-magic-quest.json](./33221-magic-quest.json) |
 | Magic Quest: TCG | 121394 | [121394-magic-quest-tcg.json](./121394-magic-quest-tcg.json) |
 | Magic Quiz | 391635 | [391635-magic-quiz.json](./391635-magic-quiz.json) |
@@ -1432,7 +1436,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Survivors | 314470 | [314470-magic-survivors.json](./314470-magic-survivors.json) |
 | Magic Survivors | 355198 | [355198-magic-survivors.json](./355198-magic-survivors.json) |
 | Magic Survivors | 359539 | [359539-magic-survivors.json](./359539-magic-survivors.json) |
+| Magic Sword | 341203 | [341203-magic-sword.json](./341203-magic-sword.json) |
 | Magic Sword | 71549 | [71549-magic-sword.json](./71549-magic-sword.json) |
+| Magic Sword Girl Twins | 341204 | [341204-magic-sword-girl-twins.json](./341204-magic-sword-girl-twins.json) |
 | Magic Sword: Heroic Fantasy | 39500 | [39500-magic-sword-heroic-fantasy.json](./39500-magic-sword-heroic-fantasy.json) |
 | Magic Synthesis | 103449 | [103449-magic-synthesis.json](./103449-magic-synthesis.json) |
 | Magic Synthesis | 103487 | [103487-magic-synthesis.json](./103487-magic-synthesis.json) |
@@ -2978,6 +2984,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maloomify the Ocean | 401770 | [401770-maloomify-the-ocean.json](./401770-maloomify-the-ocean.json) |
 | MalOvent | 408536 | [408536-malovent.json](./408536-malovent.json) |
 | Malpiot Horror | 369927 | [369927-malpiot-horror.json](./369927-malpiot-horror.json) |
+| Malpractice | 341205 | [341205-malpractice.json](./341205-malpractice.json) |
+| Malpractice Hospital | 341206 | [341206-malpractice-hospital.json](./341206-malpractice-hospital.json) |
 | Malpraxis | 389124 | [389124-malpraxis.json](./389124-malpraxis.json) |
 | Malsort | 423900 | [423900-malsort.json](./423900-malsort.json) |
 | Malstrum's Mansion | 254509 | [254509-malstrums-mansion.json](./254509-malstrums-mansion.json) |
@@ -3094,6 +3102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man I Just Wanna Live | 412338 | [412338-man-i-just-wanna-live.json](./412338-man-i-just-wanna-live.json) |
 | Man in a Maze | 62219 | [62219-man-in-a-maze.json](./62219-man-in-a-maze.json) |
 | Man in a Maze: Deathmatch | 17576 | [17576-man-in-a-maze-deathmatch.json](./17576-man-in-a-maze-deathmatch.json) |
+| Man in a Suit in a Building in a City | 341209 | [341209-man-in-a-suit-in-a-building-in-a-city.json](./341209-man-in-a-suit-in-a-building-in-a-city.json) |
 | Man in gravity | 156539 | [156539-man-in-gravity.json](./156539-man-in-gravity.json) |
 | Man in the Dark | 278268 | [278268-man-in-the-dark.json](./278268-man-in-the-dark.json) |
 | Man Made | 312768 | [312768-man-made.json](./312768-man-made.json) |
@@ -3157,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Spark: Forgotten Crypts | 238187 | [238187-mana-spark-forgotten-crypts.json](./238187-mana-spark-forgotten-crypts.json) |
 | Mana Valley | 211189 | [211189-mana-valley.json](./211189-mana-valley.json) |
 | Mana's Manual | 248884 | [248884-manas-manual.json](./248884-manas-manual.json) |
+| Manaballs | 341207 | [341207-manaballs.json](./341207-manaballs.json) |
 | Manabi Get! | 222205 | [222205-manabi-get.json](./222205-manabi-get.json) |
 | Manacaster | 334054 | [334054-manacaster.json](./334054-manacaster.json) |
 | Manacircle | 192501 | [192501-manacircle.json](./192501-manacircle.json) |
@@ -3298,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mango's Wonderland | 252283 | [252283-mangos-wonderland.json](./252283-mangos-wonderland.json) |
 | Mangoji | 293886 | [293886-mangoji.json](./293886-mangoji.json) |
 | MangoMan | 183471 | [183471-mangoman.json](./183471-mangoman.json) |
+| Mangoo | 341208 | [341208-mangoo.json](./341208-mangoo.json) |
 | Mangrove Express | 408107 | [408107-mangrove-express.json](./408107-mangrove-express.json) |
 | MangueBoy | 279241 | [279241-mangueboy.json](./279241-mangueboy.json) |
 | Mangui | 327101 | [327101-mangui.json](./327101-mangui.json) |
@@ -3453,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ManServant: Gay Visual Novel | 229115 | [229115-manservant-gay-visual-novel.json](./229115-manservant-gay-visual-novel.json) |
 | Mansion | 269861 | [269861-mansion.json](./269861-mansion.json) |
 | Mansion 2 | 269863 | [269863-mansion-2.json](./269863-mansion-2.json) |
+| Mansion Affairs | 341210 | [341210-mansion-affairs.json](./341210-mansion-affairs.json) |
 | Mansion At Midnight | 272749 | [272749-mansion-at-midnight.json](./272749-mansion-at-midnight.json) |
 | Mansion Mystery | 257205 | [257205-mansion-mystery.json](./257205-mansion-mystery.json) |
 | Mansion of Hidden Souls | 5402 | [5402-mansion-of-hidden-souls.json](./5402-mansion-of-hidden-souls.json) |
@@ -3735,6 +3747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble's Marbles | 384201 | [384201-marbles-marbles.json](./384201-marbles-marbles.json) |
 | Marblearium | 400091 | [400091-marblearium.json](./400091-marblearium.json) |
 | Marbled Memories | 416805 | [416805-marbled-memories.json](./416805-marbled-memories.json) |
+| MarbleGP | 341211 | [341211-marblegp.json](./341211-marblegp.json) |
 | Marblelous Animals | 120174 | [120174-marblelous-animals.json](./120174-marblelous-animals.json) |
 | Marbleous Blocks | 163825 | [163825-marbleous-blocks.json](./163825-marbleous-blocks.json) |
 | Marbles Garden | 192298 | [192298-marbles-garden.json](./192298-marbles-garden.json) |
@@ -4577,6 +4590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mark of the Ninja: Special Edition DLC | 26891 | [26891-mark-of-the-ninja-special-edition-dlc.json](./26891-mark-of-the-ninja-special-edition-dlc.json) |
 | Mark of the Void | 220405 | [220405-mark-of-the-void.json](./220405-mark-of-the-void.json) |
 | Mark One | 160121 | [160121-mark-one.json](./160121-mark-one.json) |
+| Mark Sharp & The Bar Thieves | 341212 | [341212-mark-sharp-and-the-bar-thieves.json](./341212-mark-sharp-and-the-bar-thieves.json) |
 | Mark the Game | 369268 | [369268-mark-the-game.json](./369268-mark-the-game.json) |
 | Mark the Headless Chicken | 391616 | [391616-mark-the-headless-chicken.json](./391616-mark-the-headless-chicken.json) |
 | Mark Twain's Tom Sawyer: Survival Game | 151108 | [151108-mark-twains-tom-sawyer-survival-game.json](./151108-mark-twains-tom-sawyer-survival-game.json) |
@@ -4665,6 +4679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marquis Cut | 352491 | [352491-marquis-cut.json](./352491-marquis-cut.json) |
 | Marrakech | 188890 | [188890-marrakech.json](./188890-marrakech.json) |
 | Marrakesh Club | 101899 | [101899-marrakesh-club.json](./101899-marrakesh-club.json) |
+| Marriage Contract With Billionaire CEO | 341213 | [341213-marriage-contract-with-billionaire-ceo.json](./341213-marriage-contract-with-billionaire-ceo.json) |
 | Marriage or Pervert: The Small Penis Warrior & The Perverted Magician | 82909 | [82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json](./82909-marriage-or-pervert-the-small-penis-warrior-and-the-perverted-magician.json) |
 | Marriage Royale: Prism Story | 269499 | [269499-marriage-royale-prism-story.json](./269499-marriage-royale-prism-story.json) |
 | Marriage to the Demon Wife! | 202197 | [202197-marriage-to-the-demon-wife.json](./202197-marriage-to-the-demon-wife.json) |
@@ -4726,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Lives!! | 322612 | [322612-mars-lives.json](./322612-mars-lives.json) |
 | Mars Man | 287348 | [287348-mars-man.json](./287348-mars-man.json) |
 | Mars Miner | 69537 | [69537-mars-miner.json](./69537-mars-miner.json) |
+| Mars Mirage | 341214 | [341214-mars-mirage.json](./341214-mars-mirage.json) |
 | Mars Mission | 155836 | [155836-mars-mission.json](./155836-mars-mission.json) |
 | Mars Mission II | 59475 | [59475-mars-mission-ii.json](./59475-mars-mission-ii.json) |
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
@@ -5239,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masefeh | 378443 | [378443-masefeh.json](./378443-masefeh.json) |
 | Maseylia: Echoes of the Past | 302107 | [302107-maseylia-echoes-of-the-past.json](./302107-maseylia-echoes-of-the-past.json) |
 | Mash | 100606 | [100606-mash.json](./100606-mash.json) |
+| Mash Box | 341215 | [341215-mash-box.json](./341215-mash-box.json) |
 | Mash Gadget | 202049 | [202049-mash-gadget.json](./202049-mash-gadget.json) |
 | Mash Man | 245096 | [245096-mash-man.json](./245096-mash-man.json) |
 | Mash Motion: Sprint Rush | 397950 | [397950-mash-motion-sprint-rush.json](./397950-mash-motion-sprint-rush.json) |
@@ -5628,6 +5645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Pyrox Wizard Smackdown | 102924 | [102924-master-pyrox-wizard-smackdown.json](./102924-master-pyrox-wizard-smackdown.json) |
 | Master Rallye | 44707 | [44707-master-rallye.json](./44707-master-rallye.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
+| Master RNG | 341216 | [341216-master-rng.json](./341216-master-rng.json) |
 | Master Show VR | 403968 | [403968-master-show-vr.json](./403968-master-show-vr.json) |
 | Master Sleuth Bundle | 209692 | [209692-master-sleuth-bundle.json](./209692-master-sleuth-bundle.json) |
 | Master Spy | 24583 | [24583-master-spy.json](./24583-master-spy.json) |
@@ -5973,6 +5991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Climber | 345236 | [345236-math-climber.json](./345236-math-climber.json) |
 | Math Combat Challenge | 55124 | [55124-math-combat-challenge.json](./55124-math-combat-challenge.json) |
 | Math Connect PRO | 106785 | [106785-math-connect-pro.json](./106785-math-connect-pro.json) |
+| Math Dash | 341217 | [341217-math-dash.json](./341217-math-dash.json) |
 | Math Duel | 251043 | [251043-math-duel.json](./251043-math-duel.json) |
 | Math Effect | 400628 | [400628-math-effect.json](./400628-math-effect.json) |
 | Math Evolve: A Fun Math Game | 175372 | [175372-math-evolve-a-fun-math-game.json](./175372-math-evolve-a-fun-math-game.json) |
@@ -6005,6 +6024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Jam | 138493 | [138493-math-jam.json](./138493-math-jam.json) |
 | Math Man | 225625 | [225625-math-man.json](./225625-math-man.json) |
 | Math Marvel | 245449 | [245449-math-marvel.json](./245449-math-marvel.json) |
+| Math Master | 341218 | [341218-math-master.json](./341218-math-master.json) |
 | Math Match Three | 348433 | [348433-math-match-three.json](./348433-math-match-three.json) |
 | Math Mayhem!! | 281831 | [281831-math-mayhem.json](./281831-math-mayhem.json) |
 | Math Maze | 387697 | [387697-math-maze.json](./387697-math-maze.json) |
@@ -6684,6 +6704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Realities: Ride in the Sky DLC | 288048 | [288048-maze-of-realities-ride-in-the-sky-dlc.json](./288048-maze-of-realities-ride-in-the-sky-dlc.json) |
 | Maze of Realities: Symphony of Invention - Collector's Edition | 289460 | [289460-maze-of-realities-symphony-of-invention-collectors-edition.json](./289460-maze-of-realities-symphony-of-invention-collectors-edition.json) |
 | Maze of Realities: Symphony of Invention DLC | 289859 | [289859-maze-of-realities-symphony-of-invention-dlc.json](./289859-maze-of-realities-symphony-of-invention-dlc.json) |
+| Maze of Realities: Synergy of Worlds - Collector's Edition | 341219 | [341219-maze-of-realities-synergy-of-worlds-collectors-edition.json](./341219-maze-of-realities-synergy-of-worlds-collectors-edition.json) |
 | Maze Of Tenfon: Chapter 1 | 411748 | [411748-maze-of-tenfon-chapter-1.json](./411748-maze-of-tenfon-chapter-1.json) |
 | Maze of Terror | 347485 | [347485-maze-of-terror.json](./347485-maze-of-terror.json) |
 | Maze of the Gamja | 211920 | [211920-maze-of-the-gamja.json](./211920-maze-of-the-gamja.json) |
@@ -6881,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | mdiapp+ SE | 74347 | [74347-mdiapp-se.json](./74347-mdiapp-se.json) |
 | MDK 2 HD | 29768 | [29768-mdk-2-hd.json](./29768-mdk-2-hd.json) |
 | MDK2: Armageddon | 414467 | [414467-mdk2-armageddon.json](./414467-mdk2-armageddon.json) |
+| MDNE | 341220 | [341220-mdne.json](./341220-mdne.json) |
 | MDT: Make It or Die Trying | 405000 | [405000-mdt-make-it-or-die-trying.json](./405000-mdt-make-it-or-die-trying.json) |
 | Me | 145034 | [145034-me.json](./145034-me.json) |
 | Me & My Friend Pippa! | 311714 | [311714-me-and-my-friend-pippa.json](./311714-me-and-my-friend-pippa.json) |
@@ -7534,6 +7556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Grandmaster: Tavern Board Battle | 319778 | [319778-medieval-grandmaster-tavern-board-battle.json](./319778-medieval-grandmaster-tavern-board-battle.json) |
 | Medieval HD | 249265 | [249265-medieval-hd.json](./249265-medieval-hd.json) |
 | Medieval Hero | 153367 | [153367-medieval-hero.json](./153367-medieval-hero.json) |
+| Medieval Heroes Gold Hunt | 341221 | [341221-medieval-heroes-gold-hunt.json](./341221-medieval-heroes-gold-hunt.json) |
 | Medieval Horse Dealer Simulator | 357857 | [357857-medieval-horse-dealer-simulator.json](./357857-medieval-horse-dealer-simulator.json) |
 | Medieval Idle: Quest | 249185 | [249185-medieval-idle-quest.json](./249185-medieval-idle-quest.json) |
 | Medieval II: Total War | 440 | [440-medieval-ii-total-war.json](./440-medieval-ii-total-war.json) |
@@ -7678,6 +7701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meerkats | 91535 | [91535-meerkats.json](./91535-meerkats.json) |
 | Meet a Married Woman at a Hot Spring | 273467 | [273467-meet-a-married-woman-at-a-hot-spring.json](./273467-meet-a-married-woman-at-a-hot-spring.json) |
 | Meet Again Bundle | 219047 | [219047-meet-again-bundle.json](./219047-meet-again-bundle.json) |
+| Meet and Fuck Kingdom | 341222 | [341222-meet-and-fuck-kingdom.json](./341222-meet-and-fuck-kingdom.json) |
 | Meet and Fuck Leila | 221557 | [221557-meet-and-fuck-leila.json](./221557-meet-and-fuck-leila.json) |
 | Meet and Fuck My Favorite Teacher | 221618 | [221618-meet-and-fuck-my-favorite-teacher.json](./221618-meet-and-fuck-my-favorite-teacher.json) |
 | Meet Bub: Bub to Eigo Tanken | 327596 | [327596-meet-bub-bub-to-eigo-tanken.json](./327596-meet-bub-bub-to-eigo-tanken.json) |
@@ -7754,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet'N'Fuck: Street Racing | 221627 | [221627-meetnfuck-street-racing.json](./221627-meetnfuck-street-racing.json) |
 | Meet'N'Fuck: The Plumber | 221725 | [221725-meetnfuck-the-plumber.json](./221725-meetnfuck-the-plumber.json) |
 | MeetCute | 192726 | [192726-meetcute.json](./192726-meetcute.json) |
+| Meeting a Hunk in the Park | 341223 | [341223-meeting-a-hunk-in-the-park.json](./341223-meeting-a-hunk-in-the-park.json) |
 | Meeting a Pony | 128825 | [128825-meeting-a-pony.json](./128825-meeting-a-pony.json) |
 | Meeting Her | 253909 | [253909-meeting-her.json](./253909-meeting-her.json) |
 | Meeting in the Flesh | 135008 | [135008-meeting-in-the-flesh.json](./135008-meeting-in-the-flesh.json) |
@@ -9236,6 +9261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melt Abyss | 353902 | [353902-melt-abyss.json](./353902-melt-abyss.json) |
 | Melt Away | 330896 | [330896-melt-away.json](./330896-melt-away.json) |
 | Melt Down | 294238 | [294238-melt-down.json](./294238-melt-down.json) |
+| Melt Them All | 341224 | [341224-melt-them-all.json](./341224-melt-them-all.json) |
 | Meltdown | 415681 | [415681-meltdown.json](./415681-meltdown.json) |
 | Meltdown | 80511 | [80511-meltdown.json](./80511-meltdown.json) |
 | Meltdown Crew | 417195 | [417195-meltdown-crew.json](./417195-meltdown-crew.json) |
@@ -9368,6 +9394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memology: Escape of Memes | 371200 | [371200-memology-escape-of-memes.json](./371200-memology-escape-of-memes.json) |
 | Memology: Goyda | 372583 | [372583-memology-goyda.json](./372583-memology-goyda.json) |
 | Memology: Italian Brainrot | 360483 | [360483-memology-italian-brainrot.json](./360483-memology-italian-brainrot.json) |
+| Memology: War of Memes | 341225 | [341225-memology-war-of-memes.json](./341225-memology-war-of-memes.json) |
 | MeMoMi | 227035 | [227035-memomi.json](./227035-memomi.json) |
 | Memopoly | 106905 | [106905-memopoly.json](./106905-memopoly.json) |
 | Memora Wanderer | 298267 | [298267-memora-wanderer.json](./298267-memora-wanderer.json) |
@@ -9793,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Master: Battle for Catnip | 251726 | [251726-meow-master-battle-for-catnip.json](./251726-meow-master-battle-for-catnip.json) |
 | Meow Match | 103743 | [103743-meow-match.json](./103743-meow-match.json) |
 | Meow Meow Invasion | 323139 | [323139-meow-meow-invasion.json](./323139-meow-meow-invasion.json) |
+| Meow Meow Kattie | 341226 | [341226-meow-meow-kattie.json](./341226-meow-meow-kattie.json) |
 | Meow Meow Wizard Arena | 289256 | [289256-meow-meow-wizard-arena.json](./289256-meow-meow-wizard-arena.json) |
 | Meow Meoww | 265415 | [265415-meow-meoww.json](./265415-meow-meoww.json) |
 | Meow Mission | 322246 | [322246-meow-mission.json](./322246-meow-mission.json) |
@@ -10258,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Message for My Dog | 385028 | [385028-message-for-my-dog.json](./385028-message-for-my-dog.json) |
 | Message From Aliens | 415077 | [415077-message-from-aliens.json](./415077-message-from-aliens.json) |
 | Message from Andromeda | 13014 | [13014-message-from-andromeda.json](./13014-message-from-andromeda.json) |
+| Message in a Melody | 341227 | [341227-message-in-a-melody.json](./341227-message-in-a-melody.json) |
 | Message Navi Vol. 2 | 222670 | [222670-message-navi-vol-2.json](./222670-message-navi-vol-2.json) |
 | Message Quest | 13665 | [13665-message-quest.json](./13665-message-quest.json) |
 | Message Quest - adventures of Feste | 102526 | [102526-message-quest-adventures-of-feste.json](./102526-message-quest-adventures-of-feste.json) |
@@ -10296,6 +10325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
 | Meta Pong | 304823 | [304823-meta-pong.json](./304823-meta-pong.json) |
 | Meta Revelations - Ring Spirits | 112194 | [112194-meta-revelations-ring-spirits.json](./112194-meta-revelations-ring-spirits.json) |
+| Meta Soulmate | 341228 | [341228-meta-soulmate.json](./341228-meta-soulmate.json) |
 | Meta Star | 55514 | [55514-meta-star.json](./55514-meta-star.json) |
 | Meta Sudoku | 208639 | [208639-meta-sudoku.json](./208639-meta-sudoku.json) |
 | Meta Toy DragonZ Saga | 359706 | [359706-meta-toy-dragonz-saga.json](./359706-meta-toy-dragonz-saga.json) |
@@ -11006,6 +11036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metroidvania Maker | 407169 | [407169-metroidvania-maker.json](./407169-metroidvania-maker.json) |
 | Metroland | 201688 | [201688-metroland.json](./201688-metroland.json) |
 | MetroLand | 319770 | [319770-metroland.json](./319770-metroland.json) |
+| Metroloop | 341229 | [341229-metroloop.json](./341229-metroloop.json) |
 | Metromino | 424276 | [424276-metromino.json](./424276-metromino.json) |
 | Metronium | 120820 | [120820-metronium.json](./120820-metronium.json) |
 | Metronome | 79577 | [79577-metronome.json](./79577-metronome.json) |
@@ -11098,6 +11129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MGCM Combat Edition | 264805 | [264805-mgcm-combat-edition.json](./264805-mgcm-combat-edition.json) |
 | MGCM Combat Edition: DLC Char: Kamisaman (Isana Hakari) | 293455 | [293455-mgcm-combat-edition-dlc-char-kamisaman-isana-hakari.json](./293455-mgcm-combat-edition-dlc-char-kamisaman-isana-hakari.json) |
 | MGCM Magical Girls | 188247 | [188247-mgcm-magical-girls.json](./188247-mgcm-magical-girls.json) |
+| MGDC Minigame Collection | 341230 | [341230-mgdc-minigame-collection.json](./341230-mgdc-minigame-collection.json) |
 | MGG: Manic Game Girl | 96398 | [96398-mgg-manic-game-girl.json](./96398-mgg-manic-game-girl.json) |
 | MGM Slots Live | 370750 | [370750-mgm-slots-live.json](./370750-mgm-slots-live.json) |
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
