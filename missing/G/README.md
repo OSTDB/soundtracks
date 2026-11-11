@@ -7750,6 +7750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordianaut | 200878 | [200878-gordianaut.json](./200878-gordianaut.json) |
 | Gordiho Filmové Dobrodružství | 141391 | [141391-gordiho-filmove-dobrodruzstvi.json](./141391-gordiho-filmove-dobrodruzstvi.json) |
 | Gordinho Adventure | 322675 | [322675-gordinho-adventure.json](./322675-gordinho-adventure.json) |
+| Gordo 106 | 350123 | [350123-gordo-106.json](./350123-gordo-106.json) |
 | Gordo 106 | 40837 | [40837-gordo-106.json](./40837-gordo-106.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
 | Gordon Freakman | 322671 | [322671-gordon-freakman.json](./322671-gordon-freakman.json) |
@@ -8485,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto Online: Heists | 251244 | [251244-grand-theft-auto-online-heists.json](./251244-grand-theft-auto-online-heists.json) |
 | Grand Theft Auto Online: Los Santos Drug Wars | 239053 | [239053-grand-theft-auto-online-los-santos-drug-wars.json](./239053-grand-theft-auto-online-los-santos-drug-wars.json) |
 | Grand Theft Auto Online: Los Santos Tuners | 239051 | [239051-grand-theft-auto-online-los-santos-tuners.json](./239051-grand-theft-auto-online-los-santos-tuners.json) |
+| Grand Theft Auto Online: Money Fronts | 350111 | [350111-grand-theft-auto-online-money-fronts.json](./350111-grand-theft-auto-online-money-fronts.json) |
 | Grand Theft Auto Online: San Andreas Mercenaries | 400331 | [400331-grand-theft-auto-online-san-andreas-mercenaries.json](./400331-grand-theft-auto-online-san-andreas-mercenaries.json) |
 | Grand Theft Auto Online: The Cayo Perico Heist | 239050 | [239050-grand-theft-auto-online-the-cayo-perico-heist.json](./239050-grand-theft-auto-online-the-cayo-perico-heist.json) |
 | Grand Theft Auto Online: The Chop Shop | 400332 | [400332-grand-theft-auto-online-the-chop-shop.json](./400332-grand-theft-auto-online-the-chop-shop.json) |
