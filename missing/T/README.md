@@ -3754,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Character Costume - Aurora Outfit Pack | 414330 | [414330-tekken-8-character-costume-aurora-outfit-pack.json](./414330-tekken-8-character-costume-aurora-outfit-pack.json) |
 | Tekken 8: Clive Rosfield | 325597 | [325597-tekken-8-clive-rosfield.json](./325597-tekken-8-clive-rosfield.json) |
 | Tekken 8: Collaboration Set - Clive Rosfield & Phoenix Gate | 384749 | [384749-tekken-8-collaboration-set-clive-rosfield-and-phoenix-gate.json](./384749-tekken-8-collaboration-set-clive-rosfield-and-phoenix-gate.json) |
+| Tekken 8: Customization Item Pack | 349564 | [349564-tekken-8-customization-item-pack.json](./349564-tekken-8-customization-item-pack.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
 | Tekken 8: Fahkumram | 352429 | [352429-tekken-8-fahkumram.json](./352429-tekken-8-fahkumram.json) |
 | Tekken 8: Genmaji Temple | 319605 | [319605-tekken-8-genmaji-temple.json](./319605-tekken-8-genmaji-temple.json) |
@@ -26305,6 +26306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege - Pro League Clash Set | 224422 | [224422-tom-clancys-rainbow-six-siege-pro-league-clash-set.json](./224422-tom-clancys-rainbow-six-siege-pro-league-clash-set.json) |
 | Tom Clancy's Rainbow Six Siege + The Division Double Pack | 144734 | [144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json](./144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json) |
 | Tom Clancy's Rainbow Six Siege X | 349484 | [349484-tom-clancys-rainbow-six-siege-x.json](./349484-tom-clancys-rainbow-six-siege-x.json) |
+| Tom Clancy's Rainbow Six Siege X: Elite Edition | 349562 | [349562-tom-clancys-rainbow-six-siege-x-elite-edition.json](./349562-tom-clancys-rainbow-six-siege-x-elite-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Advanced Edition | 91311 | [91311-tom-clancys-rainbow-six-siege-advanced-edition.json](./91311-tom-clancys-rainbow-six-siege-advanced-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Complete Edition | 53820 | [53820-tom-clancys-rainbow-six-siege-complete-edition.json](./53820-tom-clancys-rainbow-six-siege-complete-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Crimson Heist | 144049 | [144049-tom-clancys-rainbow-six-siege-crimson-heist.json](./144049-tom-clancys-rainbow-six-siege-crimson-heist.json) |
