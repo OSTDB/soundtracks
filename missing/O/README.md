@@ -3655,6 +3655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Breakout | 30839 | [30839-operation-breakout.json](./30839-operation-breakout.json) |
 | Operation C | 11522 | [11522-operation-c.json](./11522-operation-c.json) |
 | Operation Carnage | 72257 | [72257-operation-carnage.json](./72257-operation-carnage.json) |
+| Operation Caucasus | 369475 | [369475-operation-caucasus.json](./369475-operation-caucasus.json) |
 | Operation Chromite 1950 VR | 86506 | [86506-operation-chromite-1950-vr.json](./86506-operation-chromite-1950-vr.json) |
 | Operation Cobra | 85598 | [85598-operation-cobra.json](./85598-operation-cobra.json) |
 | Operation Covid-19 | 149027 | [149027-operation-covid-19.json](./149027-operation-covid-19.json) |
