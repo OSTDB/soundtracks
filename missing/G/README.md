@@ -2536,6 +2536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GB Studio's 5th Anniversary | 316682 | [316682-gb-studios-5th-anniversary.json](./316682-gb-studios-5th-anniversary.json) |
 | GB Wordyl | 229081 | [229081-gb-wordyl.json](./229081-gb-wordyl.json) |
 | GBA Championship Basketball: Two-on-Two | 12114 | [12114-gba-championship-basketball-two-on-two.json](./12114-gba-championship-basketball-two-on-two.json) |
+| GBA Microjam '23 | 339016 | [339016-gba-microjam-23.json](./339016-gba-microjam-23.json) |
 | Gbbbs5 | 387146 | [387146-gbbbs5.json](./387146-gbbbs5.json) |
 | GbDices | 184461 | [184461-gbdices.json](./184461-gbdices.json) |
 | GBox: The Puzzle Collection | 107014 | [107014-gbox-the-puzzle-collection.json](./107014-gbox-the-puzzle-collection.json) |
@@ -11752,6 +11753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunGun Online: Shooting Game | 108153 | [108153-gungun-online-shooting-game.json](./108153-gungun-online-shooting-game.json) |
 | GunGun: Race Against Time | 297514 | [297514-gungun-race-against-time.json](./297514-gungun-race-against-time.json) |
 | Gungungun | 30905 | [30905-gungungun.json](./30905-gungungun.json) |
+| Gunhawk | 339018 | [339018-gunhawk.json](./339018-gunhawk.json) |
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
 | Gunhed | 37710 | [37710-gunhed.json](./37710-gunhed.json) |
 | GunHed: Aratanaru Tatakai | 48478 | [48478-gunhed-aratanaru-tatakai.json](./48478-gunhed-aratanaru-tatakai.json) |
