@@ -8946,6 +8946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Měishàonián Mèng Gōngchǎng 3: Chóngshēng | 116981 | [116981-meishaonian-meng-gongchang-3-chongsheng.json](./116981-meishaonian-meng-gongchang-3-chongsheng.json) |
 | Měishàonǚ Mahjong Jiēlóng | 106442 | [106442-meishaonu-mahjong-jielong.json](./106442-meishaonu-mahjong-jielong.json) |
 | Měishàonǚ Xiàrì Huānlè! | 101255 | [101255-meishaonu-xiari-huanle.json](./101255-meishaonu-xiari-huanle.json) |
+| Měishí Dàzhàn Lǎoshǔ | 387831 | [387831-meishi-dazhan-laoshu.json](./387831-meishi-dazhan-laoshu.json) |
 | Meister | 113670 | [113670-meister.json](./113670-meister.json) |
 | Meister2 | 192639 | [192639-meister2.json](./192639-meister2.json) |
 | MeisterPower | 383980 | [383980-meisterpower.json](./383980-meisterpower.json) |
