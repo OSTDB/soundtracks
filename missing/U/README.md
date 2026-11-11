@@ -2647,6 +2647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Fight Ultimate Strike | 235353 | [235353-unlimited-fight-ultimate-strike.json](./235353-unlimited-fight-ultimate-strike.json) |
 | Unlimited Heart | 126183 | [126183-unlimited-heart.json](./126183-unlimited-heart.json) |
 | Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
+| Unlimited SaGa: Limited Edition | 382675 | [382675-unlimited-saga-limited-edition.json](./382675-unlimited-saga-limited-edition.json) |
 | Unlimited Skills Hero | 227521 | [227521-unlimited-skills-hero.json](./227521-unlimited-skills-hero.json) |
 | Unlimited World 1 | 159423 | [159423-unlimited-world-1.json](./159423-unlimited-world-1.json) |
 | Unlimited Worlds | 298616 | [298616-unlimited-worlds.json](./298616-unlimited-worlds.json) |
@@ -3149,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unto the Night | 202986 | [202986-unto-the-night.json](./202986-unto-the-night.json) |
 | Untold | 184415 | [184415-untold.json](./184415-untold.json) |
 | Untold Atlas | 218836 | [218836-untold-atlas.json](./218836-untold-atlas.json) |
+| Untold Capers | 382676 | [382676-untold-capers.json](./382676-untold-capers.json) |
 | Untold Cases: Stillwater Lake | 390356 | [390356-untold-cases-stillwater-lake.json](./390356-untold-cases-stillwater-lake.json) |
 | Untold Chronicles: The Harvest | 374829 | [374829-untold-chronicles-the-harvest.json](./374829-untold-chronicles-the-harvest.json) |
 | Untold History: Descendant of the Sun - Collector's Edition | 416161 | [416161-untold-history-descendant-of-the-sun-collectors-edition.json](./416161-untold-history-descendant-of-the-sun-collectors-edition.json) |
