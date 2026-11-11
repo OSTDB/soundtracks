@@ -3110,6 +3110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untitled Kirby Game | 245010 | [245010-untitled-kirby-game.json](./245010-untitled-kirby-game.json) |
 | Untitled Lord of the Rings MMO | 131430 | [131430-untitled-lord-of-the-rings-mmo.json](./131430-untitled-lord-of-the-rings-mmo.json) |
 | Untitled Marble Game | 152631 | [152631-untitled-marble-game.json](./152631-untitled-marble-game.json) |
+| Untitled Mech Game | 395908 | [395908-untitled-mech-game.json](./395908-untitled-mech-game.json) |
 | Untitled NieR:Automata Project | 391942 | [391942-untitled-nier-automata-project.json](./391942-untitled-nier-automata-project.json) |
 | Untitled One | 202340 | [202340-untitled-one.json](./202340-untitled-one.json) |
 | Untitled Paper Mario Fangame | 266509 | [266509-untitled-paper-mario-fangame.json](./266509-untitled-paper-mario-fangame.json) |
