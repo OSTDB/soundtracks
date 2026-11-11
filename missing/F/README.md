@@ -12635,6 +12635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freiwillig | 151072 | [151072-freiwillig.json](./151072-freiwillig.json) |
 | Freja | 268280 | [268280-freja.json](./268280-freja.json) |
 | Freja and the False Prophecy | 142532 | [142532-freja-and-the-false-prophecy.json](./142532-freja-and-the-false-prophecy.json) |
+| Freja And The Sequel | 329257 | [329257-freja-and-the-sequel.json](./329257-freja-and-the-sequel.json) |
 | Fremd Wagen: Mod Chaos | 391960 | [391960-fremd-wagen-mod-chaos.json](./391960-fremd-wagen-mod-chaos.json) |
 | Fremdganger: The Cheating Demon | 240297 | [240297-fremdganger-the-cheating-demon.json](./240297-fremdganger-the-cheating-demon.json) |
 | French Baker | 245075 | [245075-french-baker.json](./245075-french-baker.json) |
