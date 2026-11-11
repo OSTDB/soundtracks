@@ -9546,6 +9546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveBug | 107982 | [107982-lovebug.json](./107982-lovebug.json) |
 | LoveBug Quest | 331652 | [331652-lovebug-quest.json](./331652-lovebug-quest.json) |
 | Lovebugz: An Anthro Insect Dating Sim | 298385 | [298385-lovebugz-an-anthro-insect-dating-sim.json](./298385-lovebugz-an-anthro-insect-dating-sim.json) |
+| Lovebyte.exe | 349521 | [349521-lovebyte-exe.json](./349521-lovebyte-exe.json) |
 | LoveChess: Age of Egypt | 73944 | [73944-lovechess-age-of-egypt.json](./73944-lovechess-age-of-egypt.json) |
 | LoveChess: The Greek Era | 71868 | [71868-lovechess-the-greek-era.json](./71868-lovechess-the-greek-era.json) |
 | LoveChoice | 109733 | [109733-lovechoice.json](./109733-lovechoice.json) |
