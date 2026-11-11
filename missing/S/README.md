@@ -212,6 +212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabbat: Director's Kvt | 128873 | [128873-sabbat-directors-kvt.json](./128873-sabbat-directors-kvt.json) |
 | Sabbath | 275548 | [275548-sabbath.json](./275548-sabbath.json) |
 | Sabbuth | 188737 | [188737-sabbuth.json](./188737-sabbuth.json) |
+| Saber Arena | 392708 | [392708-saber-arena.json](./392708-saber-arena.json) |
 | Saber Ball | 247836 | [247836-saber-ball.json](./247836-saber-ball.json) |
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
 | Saber Marionette J: Battle Sabers | 44821 | [44821-saber-marionette-j-battle-sabers.json](./44821-saber-marionette-j-battle-sabers.json) |
@@ -3501,6 +3502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorphius | 213782 | [213782-scorphius.json](./213782-scorphius.json) |
 | Scorpio | 68453 | [68453-scorpio.json](./68453-scorpio.json) |
 | Scorpion | 22729 | [22729-scorpion.json](./22729-scorpion.json) |
+| Scorpion | 392561 | [392561-scorpion.json](./392561-scorpion.json) |
 | Scorpion Champions: Island Warfare | 397719 | [397719-scorpion-champions-island-warfare.json](./397719-scorpion-champions-island-warfare.json) |
 | Scorpion Disfigured | 25400 | [25400-scorpion-disfigured.json](./25400-scorpion-disfigured.json) |
 | Scorpion Garrison | 280227 | [280227-scorpion-garrison.json](./280227-scorpion-garrison.json) |
@@ -14791,6 +14793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotracers VR | 144007 | [144007-slotracers-vr.json](./144007-slotracers-vr.json) |
 | Slots | 287558 | [287558-slots.json](./287558-slots.json) |
 | Slots - Pharaoh's Riches | 85386 | [85386-slots-pharaohs-riches.json](./85386-slots-pharaohs-riches.json) |
+| Slots & Diapers | 392541 | [392541-slots-and-diapers.json](./392541-slots-and-diapers.json) |
 | Slots & Skulls | 413379 | [413379-slots-and-skulls.json](./413379-slots-and-skulls.json) |
 | Slots & Slaughter | 411731 | [411731-slots-and-slaughter.json](./411731-slots-and-slaughter.json) |
 | Slots Ancient | 232572 | [232572-slots-ancient.json](./232572-slots-ancient.json) |
@@ -15062,6 +15065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Town Detective | 236333 | [236333-small-town-detective.json](./236333-small-town-detective.json) |
 | Small Town Detective | 310585 | [310585-small-town-detective.json](./310585-small-town-detective.json) |
 | Small Town Detective in Where are Ray And Cooper | 310586 | [310586-small-town-detective-in-where-are-ray-and-cooper.json](./310586-small-town-detective-in-where-are-ray-and-cooper.json) |
+| Small Town Filled With Cats | 392559 | [392559-small-town-filled-with-cats.json](./392559-small-town-filled-with-cats.json) |
 | Small Town Robot | 151288 | [151288-small-town-robot.json](./151288-small-town-robot.json) |
 | Small Town Rocket Ship | 183199 | [183199-small-town-rocket-ship.json](./183199-small-town-rocket-ship.json) |
 | Small Town Terrors: Galdor's Bluff | 79248 | [79248-small-town-terrors-galdors-bluff.json](./79248-small-town-terrors-galdors-bluff.json) |
