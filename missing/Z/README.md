@@ -495,7 +495,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeebo Sports Tênis | 91901 | [91901-zeebo-sports-tenis.json](./91901-zeebo-sports-tenis.json) |
 | Zeebo Sports Vôlei | 92374 | [92374-zeebo-sports-volei.json](./92374-zeebo-sports-volei.json) |
 | Zeemenshu -Aftermath- | 415463 | [415463-zeemenshu-aftermath.json](./415463-zeemenshu-aftermath.json) |
-| Zeepkist | 142800 | [142800-zeepkist.json](./142800-zeepkist.json) |
 | Zeeverse | 224119 | [224119-zeeverse.json](./224119-zeeverse.json) |
 | Zeewolf | 12629 | [12629-zeewolf.json](./12629-zeewolf.json) |
 | Zeewolf 2: Wild Justice | 28516 | [28516-zeewolf-2-wild-justice.json](./28516-zeewolf-2-wild-justice.json) |
