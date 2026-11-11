@@ -13827,6 +13827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Posledniy Den' v Uryupinske | 368254 | [368254-posledniy-den-v-uryupinske.json](./368254-posledniy-den-v-uryupinske.json) |
 | Posse of 3 | 391091 | [391091-posse-of-3.json](./391091-posse-of-3.json) |
 | Possess Quest | 266186 | [266186-possess-quest.json](./266186-possess-quest.json) |
+| Possess Squad | 389247 | [389247-possess-squad.json](./389247-possess-squad.json) |
 | Possessed | 36520 | [36520-possessed.json](./36520-possessed.json) |
 | Possessed Bloody Asylum | 157570 | [157570-possessed-bloody-asylum.json](./157570-possessed-bloody-asylum.json) |
 | Possessed Kingdom | 411313 | [411313-possessed-kingdom.json](./411313-possessed-kingdom.json) |
@@ -15631,6 +15632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Life Simulator: The Legend of Navalny | 190268 | [190268-prison-life-simulator-the-legend-of-navalny.json](./190268-prison-life-simulator-the-legend-of-navalny.json) |
 | Prison Life: Idle Game | 408750 | [408750-prison-life-idle-game.json](./408750-prison-life-idle-game.json) |
 | Prison Loop | 300350 | [300350-prison-loop.json](./300350-prison-loop.json) |
+| Prison Love | 389769 | [389769-prison-love.json](./389769-prison-love.json) |
 | Prison Manager 2 | 194002 | [194002-prison-manager-2.json](./194002-prison-manager-2.json) |
 | Prison Miners | 333546 | [333546-prison-miners.json](./333546-prison-miners.json) |
 | Prison Notes | 328192 | [328192-prison-notes.json](./328192-prison-notes.json) |
