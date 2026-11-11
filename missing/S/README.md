@@ -3131,6 +3131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schein | 8990 | [8990-schein.json](./8990-schein.json) |
 | Schemata | 90059 | [90059-schemata.json](./90059-schemata.json) |
 | Schematic | 152499 | [152499-schematic.json](./152499-schematic.json) |
+| Schematic Void | 345169 | [345169-schematic-void.json](./345169-schematic-void.json) |
 | Scheme | 379840 | [379840-scheme.json](./379840-scheme.json) |
 | Scheme!!! Spica, Chinatsu, and Haruka's Enchanting, Marvelous, and Quite Frankly Elaborate Quest to Save Their Cute Girlfriend! | 202566 | [202566-scheme-spica-chinatsu-and-harukas-enchanting-marvelous-and-quite-frankly-elaborate-quest-to-save-their-cute-girlfriend.json](./202566-scheme-spica-chinatsu-and-harukas-enchanting-marvelous-and-quite-frankly-elaborate-quest-to-save-their-cute-girlfriend.json) |
 | Scheming Through the Zombie Apocalypse: Episode 2 - Caged | 110542 | [110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json](./110542-scheming-through-the-zombie-apocalypse-episode-2-caged.json) |
@@ -6540,6 +6541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sevencore | 64622 | [64622-sevencore.json](./64622-sevencore.json) |
 | Sevenfall | 387540 | [387540-sevenfall.json](./387540-sevenfall.json) |
 | Sevens Card Game | 296554 | [296554-sevens-card-game.json](./296554-sevens-card-game.json) |
+| Seventh | 344632 | [344632-seventh.json](./344632-seventh.json) |
 | Seventh Angel | 189129 | [189129-seventh-angel.json](./189129-seventh-angel.json) |
 | Seventh Cavalry | 60220 | [60220-seventh-cavalry.json](./60220-seventh-cavalry.json) |
 | Seventh Choir | 337713 | [337713-seventh-choir.json](./337713-seventh-choir.json) |
@@ -6991,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shade | 171056 | [171056-shade.json](./171056-shade.json) |
 | Shade | 79903 | [79903-shade.json](./79903-shade.json) |
 | Shade Hunters | 291225 | [291225-shade-hunters.json](./291225-shade-hunters.json) |
+| Shade Protocol | 345174 | [345174-shade-protocol.json](./345174-shade-protocol.json) |
 | Shade Silver | 297215 | [297215-shade-silver.json](./297215-shade-silver.json) |
 | Shade Silver 2 a Walk in the Darkness | 345008 | [345008-shade-silver-2-a-walk-in-the-darkness.json](./345008-shade-silver-2-a-walk-in-the-darkness.json) |
 | Shade: A Dog's Expedition | 280165 | [280165-shade-a-dogs-expedition.json](./280165-shade-a-dogs-expedition.json) |
@@ -12650,6 +12653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Size Matters | 112777 | [112777-size-matters.json](./112777-size-matters.json) |
 | Size Matters! | 331709 | [331709-size-matters.json](./331709-size-matters.json) |
 | Sizif | 257433 | [257433-sizif.json](./257433-sizif.json) |
+| Sizzle & Stack | 344623 | [344623-sizzle-and-stack.json](./344623-sizzle-and-stack.json) |
 | Sizzlefist | 396749 | [396749-sizzlefist.json](./396749-sizzlefist.json) |
 | SJ-19 Learns to Love! | 144112 | [144112-sj-19-learns-to-love.json](./144112-sj-19-learns-to-love.json) |
 | SJS1: Streets Of Fear | 310645 | [310645-sjs1-streets-of-fear.json](./310645-sjs1-streets-of-fear.json) |
@@ -15372,6 +15376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Rush | 127183 | [127183-smash-rush.json](./127183-smash-rush.json) |
 | Smash Sector | 357275 | [357275-smash-sector.json](./357275-smash-sector.json) |
 | Smash simulator | 320833 | [320833-smash-simulator.json](./320833-smash-simulator.json) |
+| Smash Simulator | 344622 | [344622-smash-simulator.json](./344622-smash-simulator.json) |
 | Smash Simulator | 391550 | [391550-smash-simulator.json](./391550-smash-simulator.json) |
 | Smash Slug | 194877 | [194877-smash-slug.json](./194877-smash-slug.json) |
 | Smash Splat Deluxe Set | 231788 | [231788-smash-splat-deluxe-set.json](./231788-smash-splat-deluxe-set.json) |
@@ -31248,6 +31253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sucker Punch 2 | 261460 | [261460-sucker-punch-2.json](./261460-sucker-punch-2.json) |
 | Sucker Punch Mech Gunner | 59357 | [59357-sucker-punch-mech-gunner.json](./59357-sucker-punch-mech-gunner.json) |
 | Sucker Punch VR | 153563 | [153563-sucker-punch-vr.json](./153563-sucker-punch-vr.json) |
+| Sucks To Be In The Sticks | 344643 | [344643-sucks-to-be-in-the-sticks.json](./344643-sucks-to-be-in-the-sticks.json) |
 | Sucky Safari | 365956 | [365956-sucky-safari.json](./365956-sucky-safari.json) |
 | Sucre: Sweet and Charming Time for You | 396945 | [396945-sucre-sweet-and-charming-time-for-you.json](./396945-sucre-sweet-and-charming-time-for-you.json) |
 | Sucronomicon | 414171 | [414171-sucronomicon.json](./414171-sucronomicon.json) |
@@ -31764,6 +31770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sully | 63552 | [63552-sully.json](./63552-sully.json) |
 | Sully: A Very Serious RPG | 216868 | [216868-sully-a-very-serious-rpg.json](./216868-sully-a-very-serious-rpg.json) |
 | Sullyland Nursery Rhyme | 392429 | [392429-sullyland-nursery-rhyme.json](./392429-sullyland-nursery-rhyme.json) |
+| Sulo the Sidekick | 344645 | [344645-sulo-the-sidekick.json](./344645-sulo-the-sidekick.json) |
 | Sulphur Nimbus: Hel's Elixir | 130625 | [130625-sulphur-nimbus-hels-elixir.json](./130625-sulphur-nimbus-hels-elixir.json) |
 | Sultan Jumps | 290749 | [290749-sultan-jumps.json](./290749-sultan-jumps.json) |
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
