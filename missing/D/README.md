@@ -13316,6 +13316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Get Pinned | 26306 | [26306-dont-get-pinned.json](./26306-dont-get-pinned.json) |
 | Don't Get Tagged | 203667 | [203667-dont-get-tagged.json](./203667-dont-get-tagged.json) |
 | Don't Get the Job | 177870 | [177870-dont-get-the-job.json](./177870-dont-get-the-job.json) |
+| Don't Get Your Hopes Up | 367893 | [367893-dont-get-your-hopes-up.json](./367893-dont-get-your-hopes-up.json) |
 | Don't Give Up on Me! | 238840 | [238840-dont-give-up-on-me.json](./238840-dont-give-up-on-me.json) |
 | Don't Give Up the Cat | 229450 | [229450-dont-give-up-the-cat.json](./229450-dont-give-up-the-cat.json) |
 | Don't Give Up: A Cynical Tale | 111141 | [111141-dont-give-up-a-cynical-tale.json](./111141-dont-give-up-a-cynical-tale.json) |
