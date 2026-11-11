@@ -3332,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam's Venture Episode 3: Revelations | 8183 | [8183-adams-venture-episode-3-revelations.json](./8183-adams-venture-episode-3-revelations.json) |
 | Adam's Venture: Origins | 16298 | [16298-adams-venture-origins.json](./16298-adams-venture-origins.json) |
 | Adam's Venture: Origins - Deluxe Edition | 118747 | [118747-adams-venture-origins-deluxe-edition.json](./118747-adams-venture-origins-deluxe-edition.json) |
+| Adamant Heart | 386633 | [386633-adamant-heart.json](./386633-adamant-heart.json) |
 | Adamanta View | 189328 | [189328-adamanta-view.json](./189328-adamanta-view.json) |
 | Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
 | Adams Ascending | 113210 | [113210-adams-ascending.json](./113210-adams-ascending.json) |
@@ -12580,6 +12581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apple Worm | 101767 | [101767-apple-worm.json](./101767-apple-worm.json) |
 | Appleblossom Academy | 185427 | [185427-appleblossom-academy.json](./185427-appleblossom-academy.json) |
 | Appleblossom Academy 2 | 185422 | [185422-appleblossom-academy-2.json](./185422-appleblossom-academy-2.json) |
+| Applecalypse | 386664 | [386664-applecalypse.json](./386664-applecalypse.json) |
 | Appleocalypse | 223375 | [223375-appleocalypse.json](./223375-appleocalypse.json) |
 | ApplePop | 352541 | [352541-applepop.json](./352541-applepop.json) |
 | Apples & Oranges | 72237 | [72237-apples-and-oranges.json](./72237-apples-and-oranges.json) |
@@ -15016,6 +15018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Tussle | 275750 | [275750-armored-tussle.json](./275750-armored-tussle.json) |
 | Armored Unit | 37525 | [37525-armored-unit.json](./37525-armored-unit.json) |
 | Armored Us | 241619 | [241619-armored-us.json](./241619-armored-us.json) |
+| Armored Vehicle Designer | 386653 | [386653-armored-vehicle-designer.json](./386653-armored-vehicle-designer.json) |
 | Armored War | 277327 | [277327-armored-war.json](./277327-armored-war.json) |
 | Armored Warfare | 15853 | [15853-armored-warfare.json](./15853-armored-warfare.json) |
 | Armored Warfare: Assault | 88988 | [88988-armored-warfare-assault.json](./88988-armored-warfare-assault.json) |
