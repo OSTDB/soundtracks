@@ -6583,6 +6583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sevgilim Olur musun ? | 92423 | [92423-sevgilim-olur-musun.json](./92423-sevgilim-olur-musun.json) |
 | Sevn | 232486 | [232486-sevn.json](./232486-sevn.json) |
 | SevTech: Ages | 236686 | [236686-sevtech-ages.json](./236686-sevtech-ages.json) |
+| Sevver Levvel | 319467 | [319467-sevver-levvel.json](./319467-sevver-levvel.json) |
 | Sevyal | 254321 | [254321-sevyal.json](./254321-sevyal.json) |
 | Sew in Love | 184903 | [184903-sew-in-love.json](./184903-sew-in-love.json) |
 | Sewage | 202329 | [202329-sewage.json](./202329-sewage.json) |
@@ -7768,6 +7769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Legend | 278201 | [278201-shanghai-legend.json](./278201-shanghai-legend.json) |
 | Shanghai Mahjong | 205088 | [205088-shanghai-mahjong.json](./205088-shanghai-mahjong.json) |
 | Shanghai Mahjong | 84854 | [84854-shanghai-mahjong.json](./84854-shanghai-mahjong.json) |
+| Shanghai Mahjong Solitaire Deluxe | 319333 | [319333-shanghai-mahjong-solitaire-deluxe.json](./319333-shanghai-mahjong-solitaire-deluxe.json) |
 | Shanghai Mahjong Solitaire Premium II | 323112 | [323112-shanghai-mahjong-solitaire-premium-ii.json](./323112-shanghai-mahjong-solitaire-premium-ii.json) |
 | Shanghai Musume: Mahjong Girls | 58523 | [58523-shanghai-musume-mahjong-girls.json](./58523-shanghai-musume-mahjong-girls.json) |
 | Shanghai Office Simulator | 137203 | [137203-shanghai-office-simulator.json](./137203-shanghai-office-simulator.json) |
@@ -18483,6 +18485,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic and the Secret Rings | 5167 | [5167-sonic-and-the-secret-rings.json](./5167-sonic-and-the-secret-rings.json) |
 | Sonic and the Sunken Temple | 326159 | [326159-sonic-and-the-sunken-temple.json](./326159-sonic-and-the-sunken-temple.json) |
 | Sonic and the World Rings | 331982 | [331982-sonic-and-the-world-rings.json](./331982-sonic-and-the-world-rings.json) |
+| Sonic Anniversary | 319496 | [319496-sonic-anniversary.json](./319496-sonic-anniversary.json) |
+| Sonic Arcus 2D | 319463 | [319463-sonic-arcus-2d.json](./319463-sonic-arcus-2d.json) |
 | Sonic Arena | 282366 | [282366-sonic-arena.json](./282366-sonic-arena.json) |
 | Sonic Arena | 331867 | [331867-sonic-arena.json](./331867-sonic-arena.json) |
 | Sonic Arena 2 | 331868 | [331868-sonic-arena-2.json](./331868-sonic-arena-2.json) |
@@ -18513,6 +18517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Battle Rush | 266507 | [266507-sonic-battle-rush.json](./266507-sonic-battle-rush.json) |
 | Sonic Battles | 330460 | [330460-sonic-battles.json](./330460-sonic-battles.json) |
 | Sonic Beat | 58689 | [58689-sonic-beat.json](./58689-sonic-beat.json) |
+| Sonic Beyond the Speed | 319497 | [319497-sonic-beyond-the-speed.json](./319497-sonic-beyond-the-speed.json) |
 | Sonic Billiards | 261246 | [261246-sonic-billiards.json](./261246-sonic-billiards.json) |
 | Sonic Black Ace | 331957 | [331957-sonic-black-ace.json](./331957-sonic-black-ace.json) |
 | Sonic Blast | 19538 | [19538-sonic-blast.json](./19538-sonic-blast.json) |
@@ -18596,6 +18601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Core | 332596 | [332596-sonic-core.json](./332596-sonic-core.json) |
 | Sonic Crackers | 45753 | [45753-sonic-crackers.json](./45753-sonic-crackers.json) |
 | Sonic Cricket | 232774 | [232774-sonic-cricket.json](./232774-sonic-cricket.json) |
+| Sonic Crisis Twilight Revelation | 319498 | [319498-sonic-crisis-twilight-revelation.json](./319498-sonic-crisis-twilight-revelation.json) |
 | Sonic Darts | 261252 | [261252-sonic-darts.json](./261252-sonic-darts.json) |
 | Sonic Dash | 19506 | [19506-sonic-dash.json](./19506-sonic-dash.json) |
 | Sonic Dash | 330299 | [330299-sonic-dash.json](./330299-sonic-dash.json) |
@@ -18812,6 +18818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Mars | 229527 | [229527-sonic-mars.json](./229527-sonic-mars.json) |
 | Sonic Mars Remake | 332576 | [332576-sonic-mars-remake.json](./332576-sonic-mars-remake.json) |
 | Sonic Matrix | 331397 | [331397-sonic-matrix.json](./331397-sonic-matrix.json) |
+| Sonic Max | 319499 | [319499-sonic-max.json](./319499-sonic-max.json) |
 | Sonic Mayhem | 299381 | [299381-sonic-mayhem.json](./299381-sonic-mayhem.json) |
 | Sonic Maze Craze | 273985 | [273985-sonic-maze-craze.json](./273985-sonic-maze-craze.json) |
 | Sonic McOrigins | 264391 | [264391-sonic-mcorigins.json](./264391-sonic-mcorigins.json) |
@@ -18888,6 +18895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Prime Dash | 254490 | [254490-sonic-prime-dash.json](./254490-sonic-prime-dash.json) |
 | Sonic Project Hero Rewired | 413926 | [413926-sonic-project-hero-rewired.json](./413926-sonic-project-hero-rewired.json) |
 | Sonic Project S | 317282 | [317282-sonic-project-s.json](./317282-sonic-project-s.json) |
+| Sonic Project Twisted | 319500 | [319500-sonic-project-twisted.json](./319500-sonic-project-twisted.json) |
 | Sonic Pursuit | 317202 | [317202-sonic-pursuit.json](./317202-sonic-pursuit.json) |
 | Sonic Putter | 233037 | [233037-sonic-putter.json](./233037-sonic-putter.json) |
 | Sonic Putter | 261251 | [261251-sonic-putter.json](./261251-sonic-putter.json) |
@@ -19333,6 +19341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Project Eclipse | 332572 | [332572-sonic-project-eclipse.json](./332572-sonic-project-eclipse.json) |
 | Sonic: Project Endless | 332577 | [332577-sonic-project-endless.json](./332577-sonic-project-endless.json) |
 | Sonic: Project Hero | 227991 | [227991-sonic-project-hero.json](./227991-sonic-project-hero.json) |
+| Sonic: Project Purple | 319501 | [319501-sonic-project-purple.json](./319501-sonic-project-purple.json) |
 | Sonic: Project Survival | 246089 | [246089-sonic-project-survival.json](./246089-sonic-project-survival.json) |
 | Sonic: Project Time | 332653 | [332653-sonic-project-time.json](./332653-sonic-project-time.json) |
 | Sonic: Quick Step Challenge | 332604 | [332604-sonic-quick-step-challenge.json](./332604-sonic-quick-step-challenge.json) |
@@ -24721,6 +24730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy Memory: Indonesia | 364102 | [364102-spy-guy-memory-indonesia.json](./364102-spy-guy-memory-indonesia.json) |
 | Spy Guy Memory: Vacation Edition | 404286 | [404286-spy-guy-memory-vacation-edition.json](./404286-spy-guy-memory-vacation-edition.json) |
 | Spy Guy The Circus Mission Edition | 364093 | [364093-spy-guy-the-circus-mission-edition.json](./364093-spy-guy-the-circus-mission-edition.json) |
+| Spy Guy: Detective Games Bundle (3 in 1) | 319332 | [319332-spy-guy-detective-games-bundle-3-in-1.json](./319332-spy-guy-detective-games-bundle-3-in-1.json) |
 | Spy Guy: Poznan Edition | 386804 | [386804-spy-guy-poznan-edition.json](./386804-spy-guy-poznan-edition.json) |
 | Spy Guy: Vacation Bundle | 404287 | [404287-spy-guy-vacation-bundle.json](./404287-spy-guy-vacation-bundle.json) |
 | Spy Hunter | 21042 | [21042-spy-hunter.json](./21042-spy-hunter.json) |
@@ -26341,6 +26351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Blaster Strike | 389227 | [389227-star-wars-blaster-strike.json](./389227-star-wars-blaster-strike.json) |
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
 | Star Wars: Bounty Hunter | 4180 | [4180-star-wars-bounty-hunter.json](./4180-star-wars-bounty-hunter.json) |
+| Star Wars: Bounty Hunter & Republic Commando Bundle | 319331 | [319331-star-wars-bounty-hunter-and-republic-commando-bundle.json](./319331-star-wars-bounty-hunter-and-republic-commando-bundle.json) |
 | Star Wars: Cantina | 66790 | [66790-star-wars-cantina.json](./66790-star-wars-cantina.json) |
 | Star Wars: Clone Trooper | 389232 | [389232-star-wars-clone-trooper.json](./389232-star-wars-clone-trooper.json) |
 | Star Wars: Clone Trooper Blaster Game | 389235 | [389235-star-wars-clone-trooper-blaster-game.json](./389235-star-wars-clone-trooper-blaster-game.json) |
@@ -27792,6 +27803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Chain | 135567 | [135567-steam-chain.json](./135567-steam-chain.json) |
 | Steam Dreams | 332762 | [332762-steam-dreams.json](./332762-steam-dreams.json) |
 | Steam Droid | 270508 | [270508-steam-droid.json](./270508-steam-droid.json) |
+| Steam Drulls | 319502 | [319502-steam-drulls.json](./319502-steam-drulls.json) |
 | Steam Engine Simulator | 249057 | [249057-steam-engine-simulator.json](./249057-steam-engine-simulator.json) |
 | Steam Engine Simulator: Power Generation | 276602 | [276602-steam-engine-simulator-power-generation.json](./276602-steam-engine-simulator-power-generation.json) |
 | Steam Girls | 410406 | [410406-steam-girls.json](./410406-steam-girls.json) |
@@ -28500,6 +28512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Bros | 233702 | [233702-stick-bros.json](./233702-stick-bros.json) |
 | Stick City Run 2 By Lettu Games | 232160 | [232160-stick-city-run-2-by-lettu-games.json](./232160-stick-city-run-2-by-lettu-games.json) |
 | Stick Combat | 57175 | [57175-stick-combat.json](./57175-stick-combat.json) |
+| Stick Combat: Fighting Platformer | 319330 | [319330-stick-combat-fighting-platformer.json](./319330-stick-combat-fighting-platformer.json) |
 | Stick Cricket | 138002 | [138002-stick-cricket.json](./138002-stick-cricket.json) |
 | Stick Cricket Super League | 229878 | [229878-stick-cricket-super-league.json](./229878-stick-cricket-super-league.json) |
 | Stick Death | 70130 | [70130-stick-death.json](./70130-stick-death.json) |
