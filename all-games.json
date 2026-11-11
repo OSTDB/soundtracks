@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T21:16:47.376Z",
-  "total_soundtracks": 3090,
+  "generated_at": "2026-11-11T21:26:44.333Z",
+  "total_soundtracks": 3100,
   "games": [
     {
       "igdb_id": 7522,
@@ -2849,6 +2849,20 @@
       ]
     },
     {
+      "igdb_id": 145783,
+      "game_name": "Aztech Forgotten Gods",
+      "game_url": "https://ostdb.net/games/aztech-forgotten-gods",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732e1eaaed5f78f2c01f9543f7",
+      "albums": [
+        {
+          "album_name": "Aztech Forgotten Gods (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2AuW3pYRszfhbEtWcKO8Cm",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 103312,
       "game_name": "Babylon's Fall",
       "game_url": "https://ostdb.net/games/babylons-fall",
@@ -5118,6 +5132,20 @@
           "album_name": "Call of Duty: Black Ops (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3Y8ClzfVlZHVWkKazWj1j9",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 135299,
+      "game_name": "Call of Duty: Black Ops",
+      "game_url": "https://ostdb.net/games/call-of-duty-black-ops",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b8edf054daabeb2da797691b",
+      "albums": [
+        {
+          "album_name": "Call of Duty: Black Ops (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3Y8ClzfVlZHVWkKazWj1j9",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -16963,6 +16991,20 @@
       ]
     },
     {
+      "igdb_id": 134591,
+      "game_name": "Jett: The Far Shore",
+      "game_url": "https://ostdb.net/games/jett-the-far-shore",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27373e7c6c84558cc421edc1df6",
+      "albums": [
+        {
+          "album_name": "JETT: The Far Shore (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6RbVNrs16EZGbFpy1x5Bm1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 59227,
       "game_name": "Jimmy and the Pulsating Mass",
       "game_url": "https://ostdb.net/games/jimmy-and-the-pulsating-mass",
@@ -28291,6 +28333,20 @@
       ]
     },
     {
+      "igdb_id": 145944,
+      "game_name": "Shining Nikki",
+      "game_url": "https://ostdb.net/games/shining-nikki",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27300579c00402cea9982e38c37",
+      "albums": [
+        {
+          "album_name": "Shining Nikki Original Soundtrack Vol.2",
+          "spotify_url": "https://open.spotify.com/album/2IcDKUY5tVxEINfAeKzt42",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 10223,
       "game_name": "Shinobi",
       "game_url": "https://ostdb.net/games/shinobi",
@@ -31013,6 +31069,20 @@
       ]
     },
     {
+      "igdb_id": 233576,
+      "game_name": "Strayed Lights",
+      "game_url": "https://ostdb.net/games/strayed-lights",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737205819c6c407622b258cd2c",
+      "albums": [
+        {
+          "album_name": "Strayed Lights (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1YUU2Vg19fmAEYElTy3Ddi",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 191692,
       "game_name": "Street Fighter 6",
       "game_url": "https://ostdb.net/games/street-fighter-6",
@@ -31809,6 +31879,20 @@
         {
           "album_name": "Syberia: The World Before (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0HWNDnRxZ4iwq08a2uMzTc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 217601,
+      "game_name": "Synduality: Echo of Ada",
+      "game_url": "https://ostdb.net/games/synduality-echo-of-ada",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737a552d9d695acd3141354675",
+      "albums": [
+        {
+          "album_name": "SYNDUALITY Echo of Ada (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1GYN6Sy94QC0ZC0cWWI8EK",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -37123,6 +37207,20 @@
       ]
     },
     {
+      "igdb_id": 141680,
+      "game_name": "Very Very Valet",
+      "game_url": "https://ostdb.net/games/very-very-valet",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27351b94308cc8100e2cf87937e",
+      "albums": [
+        {
+          "album_name": "Very Very Valet (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7zjyMryoqaVd5L9ojElwcM",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 27924,
       "game_name": "Vestige of the Past",
       "game_url": "https://ostdb.net/games/vestige-of-the-past",
@@ -37913,6 +38011,20 @@
         {
           "album_name": "WE ARE DOOMED Original Soundtrack ∞",
           "spotify_url": "https://open.spotify.com/album/0zZyTL75BEcxs8nLNzwoyr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 152177,
+      "game_name": "We Are OFK",
+      "game_url": "https://ostdb.net/games/we-are-ofk",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734e420afafc4330a09a03611f",
+      "albums": [
+        {
+          "album_name": "We Are OFK (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0NYUmorbhKT7kOOTZcTLZ5",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -38795,6 +38907,34 @@
         {
           "album_name": "Worms W.M.D (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/52qiyarJS3sHm7Gtm1ud3C",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 135110,
+      "game_name": "Wraith: The Oblivion - Afterlife",
+      "game_url": "https://ostdb.net/games/wraith-the-oblivion-afterlife",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e4265d985640ebaa2d1269d8",
+      "albums": [
+        {
+          "album_name": "Wraith: The Oblivion - Afterlife (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/48cvpFJPI288Le5z5avwmN",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 194466,
+      "game_name": "WrestleQuest",
+      "game_url": "https://ostdb.net/games/wrestlequest",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d4ff804d271f62d99c1874f5",
+      "albums": [
+        {
+          "album_name": "WrestleQuest (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/35BMgG2QHDyl4VWbuSg3SK",
           "apple_music_url": "",
           "album_link_url": ""
         }
