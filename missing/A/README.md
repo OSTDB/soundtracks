@@ -4629,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Life: Story of a Father | 30704 | [30704-after-life-story-of-a-father.json](./30704-after-life-story-of-a-father.json) |
 | After Light Fades | 258803 | [258803-after-light-fades.json](./258803-after-light-fades.json) |
 | After Lights Out | 346733 | [346733-after-lights-out.json](./346733-after-lights-out.json) |
+| After Long Night | 369474 | [369474-after-long-night.json](./369474-after-long-night.json) |
 | After Mankind: TD | 367545 | [367545-after-mankind-td.json](./367545-after-mankind-td.json) |
 | After Midnight | 180438 | [180438-after-midnight.json](./180438-after-midnight.json) |
 | After Midnight | 376845 | [376845-after-midnight.json](./376845-after-midnight.json) |
@@ -11598,6 +11599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Hope | 309439 | [309439-another-hope.json](./309439-another-hope.json) |
 | Another Hour Another Planet | 293093 | [293093-another-hour-another-planet.json](./293093-another-hour-another-planet.json) |
 | Another Late Night | 391875 | [391875-another-late-night.json](./391875-another-late-night.json) |
+| Another Layer Down | 368967 | [368967-another-layer-down.json](./368967-another-layer-down.json) |
 | Another Level | 348453 | [348453-another-level.json](./348453-another-level.json) |
 | Another Lost Phone: Laura's Story | 55048 | [55048-another-lost-phone-lauras-story.json](./55048-another-lost-phone-lauras-story.json) |
 | Another Man's Wife | 389629 | [389629-another-mans-wife.json](./389629-another-mans-wife.json) |
@@ -14380,6 +14382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Kingdoms | 265690 | [265690-arena-kingdoms.json](./265690-arena-kingdoms.json) |
 | Arena Master | 30802 | [30802-arena-master.json](./30802-arena-master.json) |
 | Arena Masters: Legend Begins | 77587 | [77587-arena-masters-legend-begins.json](./77587-arena-masters-legend-begins.json) |
+| Arena Maze of Death GG2SMS | 369478 | [369478-arena-maze-of-death-gg2sms.json](./369478-arena-maze-of-death-gg2sms.json) |
 | Arena Monarchy | 367917 | [367917-arena-monarchy.json](./367917-arena-monarchy.json) |
 | Arena of Block Puzzle | 302437 | [302437-arena-of-block-puzzle.json](./302437-arena-of-block-puzzle.json) |
 | Arena of cube | 105561 | [105561-arena-of-cube.json](./105561-arena-of-cube.json) |
@@ -14583,6 +14586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arie: Moonprayer | 258534 | [258534-arie-moonprayer.json](./258534-arie-moonprayer.json) |
 | Ariel | 33319 | [33319-ariel.json](./33319-ariel.json) |
 | Ariel Cleanomancer and the Eldritch Sweep | 184980 | [184980-ariel-cleanomancer-and-the-eldritch-sweep.json](./184980-ariel-cleanomancer-and-the-eldritch-sweep.json) |
+| Ariel the Little Mermaid GG2SMS | 369479 | [369479-ariel-the-little-mermaid-gg2sms.json](./369479-ariel-the-little-mermaid-gg2sms.json) |
 | Ariel's Daily Grind | 223492 | [223492-ariels-daily-grind.json](./223492-ariels-daily-grind.json) |
 | Ariel's Story Studio | 57920 | [57920-ariels-story-studio.json](./57920-ariels-story-studio.json) |
 | Aries | 170824 | [170824-aries.json](./170824-aries.json) |
@@ -19361,6 +19365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AWS Argentina Wingshooting Simulator | 75032 | [75032-aws-argentina-wingshooting-simulator.json](./75032-aws-argentina-wingshooting-simulator.json) |
 | Awsome Metal Detecting | 74730 | [74730-awsome-metal-detecting.json](./74730-awsome-metal-detecting.json) |
 | Awurda First Wave | 353759 | [353759-awurda-first-wave.json](./353759-awurda-first-wave.json) |
+| Ax Battler GG2SMS | 369480 | [369480-ax-battler-gg2sms.json](./369480-ax-battler-gg2sms.json) |
 | Ax Battler: A Legend of Golden Axe | 19485 | [19485-ax-battler-a-legend-of-golden-axe.json](./19485-ax-battler-a-legend-of-golden-axe.json) |
 | Ax RPG II | 404596 | [404596-ax-rpg-ii.json](./404596-ax-rpg-ii.json) |
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
