@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamtaro: Little Hamsters, Big Adventures | 63221 | [63221-hamtaro-little-hamsters-big-adventures.json](./63221-hamtaro-little-hamsters-big-adventures.json) |
 | Hamtaro: Rainbow Rescue | 6427 | [6427-hamtaro-rainbow-rescue.json](./6427-hamtaro-rainbow-rescue.json) |
 | Hamtaro: Wake Up Snoozer! | 63223 | [63223-hamtaro-wake-up-snoozer.json](./63223-hamtaro-wake-up-snoozer.json) |
+| HamuHamu | 321009 | [321009-hamuhamu.json](./321009-hamuhamu.json) |
 | Hamurabi | 11302 | [11302-hamurabi.json](./11302-hamurabi.json) |
 | Hamurabi | 366374 | [366374-hamurabi.json](./366374-hamurabi.json) |
 | Hamventure | 424296 | [424296-hamventure.json](./424296-hamventure.json) |
@@ -10792,6 +10793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horrid Henry's Horrid Adventure | 269630 | [269630-horrid-henrys-horrid-adventure.json](./269630-horrid-henrys-horrid-adventure.json) |
 | Horrid Henry's Krazy Karts | 187451 | [187451-horrid-henrys-krazy-karts.json](./187451-horrid-henrys-krazy-karts.json) |
 | Horrific Xanatorium | 266044 | [266044-horrific-xanatorium.json](./266044-horrific-xanatorium.json) |
+| Horrified Hector! | 321718 | [321718-horrified-hector.json](./321718-horrified-hector.json) |
 | Horripilant | 342102 | [342102-horripilant.json](./342102-horripilant.json) |
 | Horror | 387419 | [387419-horror.json](./387419-horror.json) |
 | Horror | 409374 | [409374-horror.json](./409374-horror.json) |
@@ -12717,6 +12719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt Club On Stream | 398057 | [398057-hunt-club-on-stream.json](./398057-hunt-club-on-stream.json) |
 | Hunt Cook: Catch and Serve | 308356 | [308356-hunt-cook-catch-and-serve.json](./308356-hunt-cook-catch-and-serve.json) |
 | Hunt Down the Freeman | 89147 | [89147-hunt-down-the-freeman.json](./89147-hunt-down-the-freeman.json) |
+| Hunt Down the Freeman: 24 Hours | 321716 | [321716-hunt-down-the-freeman-24-hours.json](./321716-hunt-down-the-freeman-24-hours.json) |
 | Hunt Ducks | 164741 | [164741-hunt-ducks.json](./164741-hunt-ducks.json) |
 | Hunt For Gods | 55248 | [55248-hunt-for-gods.json](./55248-hunt-for-gods.json) |
 | Hunt for Junk | 205247 | [205247-hunt-for-junk.json](./205247-hunt-for-junk.json) |
