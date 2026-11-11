@@ -6504,7 +6504,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godfreys Demesne | 271570 | [271570-godfreys-demesne.json](./271570-godfreys-demesne.json) |
 | Godfuck | 343756 | [343756-godfuck.json](./343756-godfuck.json) |
 | Godherja: The Dying World | 356006 | [356006-godherja-the-dying-world.json](./356006-godherja-the-dying-world.json) |
-| Godhood | 106679 | [106679-godhood.json](./106679-godhood.json) |
 | Godhood: Deluxe Edition | 154207 | [154207-godhood-deluxe-edition.json](./154207-godhood-deluxe-edition.json) |
 | Godinc | 342515 | [342515-godinc.json](./342515-godinc.json) |
 | Godkiller | 161172 | [161172-godkiller.json](./161172-godkiller.json) |
