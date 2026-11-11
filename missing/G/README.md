@@ -2538,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ge-Sen Love Plus Pengo! | 61571 | [61571-ge-sen-love-plus-pengo.json](./61571-ge-sen-love-plus-pengo.json) |
 | Ge.ne.sis: Down the Road of Tales | 228949 | [228949-ge-ne-sis-down-the-road-of-tales.json](./228949-ge-ne-sis-down-the-road-of-tales.json) |
 | Geadows | 155904 | [155904-geadows.json](./155904-geadows.json) |
+| Geamana Village | 360252 | [360252-geamana-village.json](./360252-geamana-village.json) |
 | Géants Disparus VR | 368282 | [368282-geants-disparus-vr.json](./368282-geants-disparus-vr.json) |
 | Gear | 117687 | [117687-gear.json](./117687-gear.json) |
 | Gear City | 10355 | [10355-gear-city.json](./10355-gear-city.json) |
@@ -7799,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Cop | 392725 | [392725-gorilla-cop.json](./392725-gorilla-cop.json) |
 | Gorilla Galaxy | 398096 | [398096-gorilla-galaxy.json](./398096-gorilla-galaxy.json) |
 | Gorilla Guerrillas | 143919 | [143919-gorilla-guerrillas.json](./143919-gorilla-guerrillas.json) |
+| Gorilla Jungle King Simulator | 360216 | [360216-gorilla-jungle-king-simulator.json](./360216-gorilla-jungle-king-simulator.json) |
 | Gorilla Online! | 188402 | [188402-gorilla-online.json](./188402-gorilla-online.json) |
 | Gorilla Showdown | 396646 | [396646-gorilla-showdown.json](./396646-gorilla-showdown.json) |
 | Gorilla Simulator | 396017 | [396017-gorilla-simulator.json](./396017-gorilla-simulator.json) |
@@ -11308,6 +11310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuitarFreaks 8thMix & DrumMania 7thMix | 72779 | [72779-guitarfreaks-8thmix-and-drummania-7thmix.json](./72779-guitarfreaks-8thmix-and-drummania-7thmix.json) |
 | GuitarFreaks V & DrumMania V | 78691 | [78691-guitarfreaks-v-and-drummania-v.json](./78691-guitarfreaks-v-and-drummania-v.json) |
 | GuitarFreaks V7 & DrumMania V7 | 383024 | [383024-guitarfreaks-v7-and-drummania-v7.json](./383024-guitarfreaks-v7-and-drummania-v7.json) |
+| GuitarFreaks V8 & DrumMania V8 | 360266 | [360266-guitarfreaks-v8-and-drummania-v8.json](./360266-guitarfreaks-v8-and-drummania-v8.json) |
 | Guītú | 156699 | [156699-guitu.json](./156699-guitu.json) |
 | Guītú | 414118 | [414118-guitu.json](./414118-guitu.json) |
 | Guivo | 409193 | [409193-guivo.json](./409193-guivo.json) |
