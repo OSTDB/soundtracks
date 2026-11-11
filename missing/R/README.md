@@ -2953,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit Kindergarten | 301429 | [301429-reader-rabbit-kindergarten.json](./301429-reader-rabbit-kindergarten.json) |
 | Reader Rabbit Kindergarten: Bounce Down in Balloon Town | 139350 | [139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json](./139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json) |
 | Reader Rabbit Math Adventures Ages 4-6 | 313291 | [313291-reader-rabbit-math-adventures-ages-4-6.json](./313291-reader-rabbit-math-adventures-ages-4-6.json) |
+| Reader Rabbit Personalized Preschool | 373423 | [373423-reader-rabbit-personalized-preschool.json](./373423-reader-rabbit-personalized-preschool.json) |
 | Reader Rabbit Preschool: Sparkle Star Rescue | 139349 | [139349-reader-rabbit-preschool-sparkle-star-rescue.json](./139349-reader-rabbit-preschool-sparkle-star-rescue.json) |
 | Reader Rabbit: Beginner Addition | 245415 | [245415-reader-rabbit-beginner-addition.json](./245415-reader-rabbit-beginner-addition.json) |
 | Reader Rabbit: I Can Read With Phonics | 366183 | [366183-reader-rabbit-i-can-read-with-phonics.json](./366183-reader-rabbit-i-can-read-with-phonics.json) |
