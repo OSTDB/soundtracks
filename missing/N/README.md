@@ -7995,6 +7995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number Drawing - Coloring Book | 88990 | [88990-number-drawing-coloring-book.json](./88990-number-drawing-coloring-book.json) |
 | Number Drop | 370389 | [370389-number-drop.json](./370389-number-drop.json) |
 | Number Dungeon | 388364 | [388364-number-dungeon.json](./388364-number-dungeon.json) |
+| Number Factory | 385027 | [385027-number-factory.json](./385027-number-factory.json) |
 | Number Fields | 325904 | [325904-number-fields.json](./325904-number-fields.json) |
 | Number Gacha | 402241 | [402241-number-gacha.json](./402241-number-gacha.json) |
 | Number Game: 24 Points | 369736 | [369736-number-game-24-points.json](./369736-number-game-24-points.json) |
