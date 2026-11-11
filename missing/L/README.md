@@ -5400,6 +5400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | lil' Sherman | 127628 | [127628-lil-sherman.json](./127628-lil-sherman.json) |
 | Lil' Snot: Moon Escape | 350883 | [350883-lil-snot-moon-escape.json](./350883-lil-snot-moon-escape.json) |
 | Lil'Johnny Watermelon Smash | 324274 | [324274-liljohnny-watermelon-smash.json](./324274-liljohnny-watermelon-smash.json) |
+| Lila Colorful | 360225 | [360225-lila-colorful.json](./360225-lila-colorful.json) |
 | Lila's Atelier | 391450 | [391450-lilas-atelier.json](./391450-lilas-atelier.json) |
 | Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
 | Lila's Synthetic Shadows | 297119 | [297119-lilas-synthetic-shadows.json](./297119-lilas-synthetic-shadows.json) |
@@ -7419,6 +7420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logica Emotica | 203540 | [203540-logica-emotica.json](./203540-logica-emotica.json) |
 | Logical | 375548 | [375548-logical.json](./375548-logical.json) |
 | Logical Now! | 116085 | [116085-logical-now.json](./116085-logical-now.json) |
+| Logical Reasoning of Ritsu | 360235 | [360235-logical-reasoning-of-ritsu.json](./360235-logical-reasoning-of-ritsu.json) |
 | Logical Shino | 233955 | [233955-logical-shino.json](./233955-logical-shino.json) |
 | Logicality | 203762 | [203762-logicality.json](./203762-logicality.json) |
 | LogiCally | 164938 | [164938-logically.json](./164938-logically.json) |
