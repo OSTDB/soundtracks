@@ -3351,6 +3351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scientifically Accurate Dinosaur Mating Simulator 2022: American Revolution 1775 - 1786: Scientifically Accurate Dinosaur Mating Simulator 2023: French Revolution 1789 - 1799 | 254042 | [254042-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786-scientifically-accurate-dinosaur-mating-simulator-2023-french-revolution-1789-1799.json](./254042-scientifically-accurate-dinosaur-mating-simulator-2022-american-revolution-1775-1786-scientifically-accurate-dinosaur-mating-simulator-2023-french-revolution-1789-1799.json) |
 | Scientist 2023 | 287989 | [287989-scientist-2023.json](./287989-scientist-2023.json) |
 | Scientist and Alchemist | 413140 | [413140-scientist-and-alchemist.json](./413140-scientist-and-alchemist.json) |
+| Scientist Creature | 369488 | [369488-scientist-creature.json](./369488-scientist-creature.json) |
 | Scientist Hunt | 248299 | [248299-scientist-hunt.json](./248299-scientist-hunt.json) |
 | Scientist Slaughterhouse | 221665 | [221665-scientist-slaughterhouse.json](./221665-scientist-slaughterhouse.json) |
 | SciFi Racer Simulator | 286885 | [286885-scifi-racer-simulator.json](./286885-scifi-racer-simulator.json) |
@@ -4249,6 +4250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Fable | 225488 | [225488-sea-fable.json](./225488-sea-fable.json) |
 | Sea Fantasy | 291825 | [291825-sea-fantasy.json](./291825-sea-fantasy.json) |
 | Sea Fever | 270759 | [270759-sea-fever.json](./270759-sea-fever.json) |
+| Sea Fight | 368968 | [368968-sea-fight.json](./368968-sea-fight.json) |
 | Sea Fighter Poseidon | 40409 | [40409-sea-fighter-poseidon.json](./40409-sea-fighter-poseidon.json) |
 | Sea Fishing Simulator | 129741 | [129741-sea-fishing-simulator.json](./129741-sea-fishing-simulator.json) |
 | Sea Fortress | 125353 | [125353-sea-fortress.json](./125353-sea-fortress.json) |
@@ -8294,6 +8296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Sweep | 302182 | [302182-sheep-sweep.json](./302182-sheep-sweep.json) |
 | Sheep Tag 2 | 141967 | [141967-sheep-tag-2.json](./141967-sheep-tag-2.json) |
 | Sheep Up! | 120247 | [120247-sheep-up.json](./120247-sheep-up.json) |
+| Sheep vs Tiger | 369250 | [369250-sheep-vs-tiger.json](./369250-sheep-vs-tiger.json) |
 | Sheep with Mates | 135997 | [135997-sheep-with-mates.json](./135997-sheep-with-mates.json) |
 | Sheep.io | 119878 | [119878-sheep-io.json](./119878-sheep-io.json) |
 | Sheep's Quest | 173403 | [173403-sheeps-quest.json](./173403-sheeps-quest.json) |
@@ -12071,6 +12074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinful Discharge | 268459 | [268459-sinful-discharge.json](./268459-sinful-discharge.json) |
 | Sinful Eden | 32770 | [32770-sinful-eden.json](./32770-sinful-eden.json) |
 | Sinful Soul | 240710 | [240710-sinful-soul.json](./240710-sinful-soul.json) |
+| Sinful Villa | 368949 | [368949-sinful-villa.json](./368949-sinful-villa.json) |
 | Sing & Fly: Music space game | 175101 | [175101-sing-and-fly-music-space-game.json](./175101-sing-and-fly-music-space-game.json) |
 | Sing 4: The Hits Edition | 50602 | [50602-sing-4-the-hits-edition.json](./50602-sing-4-the-hits-edition.json) |
 | Sing Party | 3108 | [3108-sing-party.json](./3108-sing-party.json) |
@@ -34294,6 +34298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Momotaro Dentetsu III | 38343 | [38343-super-momotaro-dentetsu-iii.json](./38343-super-momotaro-dentetsu-iii.json) |
 | Super Momotarou Dentetsu III | 282486 | [282486-super-momotarou-dentetsu-iii.json](./282486-super-momotarou-dentetsu-iii.json) |
 | Super Monaco GP | 198652 | [198652-super-monaco-gp.json](./198652-super-monaco-gp.json) |
+| Super Monaco GP | 369249 | [369249-super-monaco-gp.json](./369249-super-monaco-gp.json) |
 | Super Monaco GP | 4528 | [4528-super-monaco-gp.json](./4528-super-monaco-gp.json) |
 | Super Monday Night Combat | 16255 | [16255-super-monday-night-combat.json](./16255-super-monday-night-combat.json) |
 | Super Monk War Z | 151038 | [151038-super-monk-war-z.json](./151038-super-monk-war-z.json) |
