@@ -1300,11 +1300,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nazoler Land Dai 3-gou | 41399 | [41399-nazoler-land-dai-3-gou.json](./41399-nazoler-land-dai-3-gou.json) |
 | Nazoler Land Soukan-gou | 41398 | [41398-nazoler-land-soukan-gou.json](./41398-nazoler-land-soukan-gou.json) |
 | Nazoler Land Special!! Quiz-Ou wo Ikuse | 41397 | [41397-nazoler-land-special-quiz-ou-wo-ikuse.json](./41397-nazoler-land-special-quiz-ou-wo-ikuse.json) |
+| Nazono-Jikenbo: Bijin Joyuu Satsujin Jiken | 349558 | [349558-nazono-jikenbo-bijin-joyuu-satsujin-jiken.json](./349558-nazono-jikenbo-bijin-joyuu-satsujin-jiken.json) |
 | Nazono-Jikenbo: Chinurareta Bungaku-sho Satsujin Jiken | 349498 | [349498-nazono-jikenbo-chinurareta-bungaku-sho-satsujin-jiken.json](./349498-nazono-jikenbo-chinurareta-bungaku-sho-satsujin-jiken.json) |
+| Nazono-Jikenbo: Gisou Alibi Satsujin Jiken | 349554 | [349554-nazono-jikenbo-gisou-alibi-satsujin-jiken.json](./349554-nazono-jikenbo-gisou-alibi-satsujin-jiken.json) |
+| Nazono-Jikenbo: Hero Satsujin Jiken | 349550 | [349550-nazono-jikenbo-hero-satsujin-jiken.json](./349550-nazono-jikenbo-hero-satsujin-jiken.json) |
+| Nazono-Jikenbo: Imaizumi Meitantei Jiken | 349559 | [349559-nazono-jikenbo-imaizumi-meitantei-jiken.json](./349559-nazono-jikenbo-imaizumi-meitantei-jiken.json) |
+| Nazono-Jikenbo: Kieta Kyouki! Satsujin jiken | 349552 | [349552-nazono-jikenbo-kieta-kyouki-satsujin-jiken.json](./349552-nazono-jikenbo-kieta-kyouki-satsujin-jiken.json) |
+| Nazono-Jikenbo: Kiken na Pet Satsujin Jiken | 349561 | [349561-nazono-jikenbo-kiken-na-pet-satsujin-jiken.json](./349561-nazono-jikenbo-kiken-na-pet-satsujin-jiken.json) |
 | Nazono-Jikenbo: Konchuu Gakusha Satsujin Jiken | 349502 | [349502-nazono-jikenbo-konchuu-gakusha-satsujin-jiken.json](./349502-nazono-jikenbo-konchuu-gakusha-satsujin-jiken.json) |
+| Nazono-Jikenbo: Kyoufu! Gantan Osechi Jiken | 349551 | [349551-nazono-jikenbo-kyoufu-gantan-osechi-jiken.json](./349551-nazono-jikenbo-kyoufu-gantan-osechi-jiken.json) |
 | Nazono-Jikenbo: Senjou no Shoushitsu Jiken | 349500 | [349500-nazono-jikenbo-senjou-no-shoushitsu-jiken.json](./349500-nazono-jikenbo-senjou-no-shoushitsu-jiken.json) |
 | Nazono-Jikenbo: Shinjuku Renzoku Quiz Jiken | 349506 | [349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json](./349506-nazono-jikenbo-shinjuku-renzoku-quiz-jiken.json) |
 | Nazono-Jikenbo: The Composer Murder Case. | 349510 | [349510-nazono-jikenbo-the-composer-murder-case.json](./349510-nazono-jikenbo-the-composer-murder-case.json) |
+| Nazono-Jikenbo: Touji-ba Onsen Satsujin Jiken | 349560 | [349560-nazono-jikenbo-touji-ba-onsen-satsujin-jiken.json](./349560-nazono-jikenbo-touji-ba-onsen-satsujin-jiken.json) |
+| Nazono-Jikenbo: Yukemuri Onsen Satsujin Jiken | 349553 | [349553-nazono-jikenbo-yukemuri-onsen-satsujin-jiken.json](./349553-nazono-jikenbo-yukemuri-onsen-satsujin-jiken.json) |
+| Nazono-Jikenbo: Yukiyama Doukutsu Satsujin Jiken | 349555 | [349555-nazono-jikenbo-yukiyama-doukutsu-satsujin-jiken.json](./349555-nazono-jikenbo-yukiyama-doukutsu-satsujin-jiken.json) |
 | Nazoritas Addictive Puzzle | 206558 | [206558-nazoritas-addictive-puzzle.json](./206558-nazoritas-addictive-puzzle.json) |
 | Nazoritas Addictive Puzzle | 321245 | [321245-nazoritas-addictive-puzzle.json](./321245-nazoritas-addictive-puzzle.json) |
 | Nazotoki Battle Tore! Densetsu no Mamiya wo Fukkatsu Saseyo! | 221494 | [221494-nazotoki-battle-tore-densetsu-no-mamiya-wo-fukkatsu-saseyo.json](./221494-nazotoki-battle-tore-densetsu-no-mamiya-wo-fukkatsu-saseyo.json) |
@@ -4472,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Confessional | 293343 | [293343-night-confessional.json](./293343-night-confessional.json) |
 | Night Creatures | 42103 | [42103-night-creatures.json](./42103-night-creatures.json) |
 | Night Creed | 412619 | [412619-night-creed.json](./412619-night-creed.json) |
+| Night Crew | 349018 | [349018-night-crew.json](./349018-night-crew.json) |
 | Night Crisis | 113838 | [113838-night-crisis.json](./113838-night-crisis.json) |
 | Night Darkness | 166602 | [166602-night-darkness.json](./166602-night-darkness.json) |
 | Night Dessert | 334458 | [334458-night-dessert.json](./334458-night-dessert.json) |
@@ -7092,6 +7103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norm Koger's: The Operational Art of War III | 69928 | [69928-norm-kogers-the-operational-art-of-war-iii.json](./69928-norm-kogers-the-operational-art-of-war-iii.json) |
 | Norm of the North: Arctic Dash | 307971 | [307971-norm-of-the-north-arctic-dash.json](./307971-norm-of-the-north-arctic-dash.json) |
 | Norm of the North's Digit Dodge | 232336 | [232336-norm-of-the-norths-digit-dodge.json](./232336-norm-of-the-norths-digit-dodge.json) |
+| Norm: A Serial Killer RPG | 349545 | [349545-norm-a-serial-killer-rpg.json](./349545-norm-a-serial-killer-rpg.json) |
 | Norma | 330252 | [330252-norma.json](./330252-norma.json) |
 | Normal Adult Human Person | 216173 | [216173-normal-adult-human-person.json](./216173-normal-adult-human-person.json) |
 | Normal Club | 200236 | [200236-normal-club.json](./200236-normal-club.json) |
