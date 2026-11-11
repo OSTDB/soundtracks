@@ -15985,6 +15985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Knight 4 | 80844 | [80844-dragon-knight-4.json](./80844-dragon-knight-4.json) |
 | Dragon Knight 5 | 78427 | [78427-dragon-knight-5.json](./78427-dragon-knight-5.json) |
 | Dragon Knight II | 41779 | [41779-dragon-knight-ii.json](./41779-dragon-knight-ii.json) |
+| Dragon Knights Chronicle | 360221 | [360221-dragon-knights-chronicle.json](./360221-dragon-knights-chronicle.json) |
 | Dragon Knights Glorious | 65353 | [65353-dragon-knights-glorious.json](./65353-dragon-knights-glorious.json) |
 | Dragon Lair | 298548 | [298548-dragon-lair.json](./298548-dragon-lair.json) |
 | Dragon Lair Depths | 251005 | [251005-dragon-lair-depths.json](./251005-dragon-lair-depths.json) |
