@@ -9210,6 +9210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Idol: Double Dance Showdown | 378150 | [378150-american-idol-double-dance-showdown.json](./378150-american-idol-double-dance-showdown.json) |
 | American Idol: The Search For A Superstar | 63636 | [63636-american-idol-the-search-for-a-superstar.json](./63636-american-idol-the-search-for-a-superstar.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
+| American Journey Solitaire | 355805 | [355805-american-journey-solitaire.json](./355805-american-journey-solitaire.json) |
 | American Lowriders | 52394 | [52394-american-lowriders.json](./52394-american-lowriders.json) |
 | American MahJong Practice 2017 | 87496 | [87496-american-mahjong-practice-2017.json](./87496-american-mahjong-practice-2017.json) |
 | American MahJong Practice 2018 | 96789 | [96789-american-mahjong-practice-2018.json](./96789-american-mahjong-practice-2018.json) |
