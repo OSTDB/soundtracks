@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paccie | 241879 | [241879-paccie.json](./241879-paccie.json) |
 | PacDoom III: Halloween Party | 71857 | [71857-pacdoom-iii-halloween-party.json](./71857-pacdoom-iii-halloween-party.json) |
 | Pace Car Pro | 110853 | [110853-pace-car-pro.json](./110853-pace-car-pro.json) |
+| PaceBreak | 386663 | [386663-pacebreak.json](./386663-pacebreak.json) |
 | Pacebreaker: An Experiment in AI-Perfected Exercise | 208343 | [208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json](./208343-pacebreaker-an-experiment-in-ai-perfected-exercise.json) |
 | Pacer: Classic | 255811 | [255811-pacer-classic.json](./255811-pacer-classic.json) |
 | Pacewar | 322776 | [322776-pacewar.json](./322776-pacewar.json) |
@@ -7721,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Marmalade 2 | 182652 | [182652-pink-marmalade-2.json](./182652-pink-marmalade-2.json) |
 | Pink Noise | 297975 | [297975-pink-noise.json](./297975-pink-noise.json) |
 | Pink or Blue | 191319 | [191319-pink-or-blue.json](./191319-pink-or-blue.json) |
+| Pink Panic | 386657 | [386657-pink-panic.json](./386657-pink-panic.json) |
 | Pink Panther | 219014 | [219014-pink-panther.json](./219014-pink-panther.json) |
 | Pink Panther | 8105 | [8105-pink-panther.json](./8105-pink-panther.json) |
 | Pink Panther: Pinkadelic Pursuit | 140700 | [140700-pink-panther-pinkadelic-pursuit.json](./140700-pink-panther-pinkadelic-pursuit.json) |
@@ -17142,6 +17144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project User | 179285 | [179285-project-user.json](./179285-project-user.json) |
 | Project Utgardr | 196608 | [196608-project-utgardr.json](./196608-project-utgardr.json) |
 | Project V: Origins | 304717 | [304717-project-v-origins.json](./304717-project-v-origins.json) |
+| Project V6 | 386626 | [386626-project-v6.json](./386626-project-v6.json) |
 | Project Valkyrie | 192204 | [192204-project-valkyrie.json](./192204-project-valkyrie.json) |
 | Project Velocity | 86675 | [86675-project-velocity.json](./86675-project-velocity.json) |
 | Project Venus.RP | 165823 | [165823-project-venus-rp.json](./165823-project-venus-rp.json) |
@@ -18767,6 +18770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purple Shift | 422492 | [422492-purple-shift.json](./422492-purple-shift.json) |
 | Purple Slime Production Line | 298581 | [298581-purple-slime-production-line.json](./298581-purple-slime-production-line.json) |
 | Purple Tentacle | 391274 | [391274-purple-tentacle.json](./391274-purple-tentacle.json) |
+| Purple The Adventurous Fruit | 386619 | [386619-purple-the-adventurous-fruit.json](./386619-purple-the-adventurous-fruit.json) |
 | Purple Turtles | 62685 | [62685-purple-turtles.json](./62685-purple-turtles.json) |
 | Purple War | 198541 | [198541-purple-war.json](./198541-purple-war.json) |
 | Purple: Director's Cut | 306202 | [306202-purple-directors-cut.json](./306202-purple-directors-cut.json) |
@@ -19611,6 +19615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Lines and Knots - Levels Pack 3 | 163438 | [163438-puzzle-lines-and-knots-levels-pack-3.json](./163438-puzzle-lines-and-knots-levels-pack-3.json) |
 | Puzzle: Lines and Knots 2 | 293427 | [293427-puzzle-lines-and-knots-2.json](./293427-puzzle-lines-and-knots-2.json) |
 | Puzzle: Lines and Knots 2 - Free Levels Pack | 293426 | [293426-puzzle-lines-and-knots-2-free-levels-pack.json](./293426-puzzle-lines-and-knots-2-free-levels-pack.json) |
+| Puzzle: Lines and Knots 3 | 386630 | [386630-puzzle-lines-and-knots-3.json](./386630-puzzle-lines-and-knots-3.json) |
 | Puzzle: Nature | 195418 | [195418-puzzle-nature.json](./195418-puzzle-nature.json) |
 | Puzzle: Nature 2 | 213980 | [213980-puzzle-nature-2.json](./213980-puzzle-nature-2.json) |
 | Puzzle: Ocean | 116941 | [116941-puzzle-ocean.json](./116941-puzzle-ocean.json) |
