@@ -5629,6 +5629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Replikator | 145251 | [145251-replikator.json](./145251-replikator.json) |
 | Reply All | 350055 | [350055-reply-all.json](./350055-reply-all.json) |
 | Repo Man | 117403 | [117403-repo-man.json](./117403-repo-man.json) |
+| Report Extraction | 343505 | [343505-report-extraction.json](./343505-report-extraction.json) |
 | Report II | 322812 | [322812-report-ii.json](./322812-report-ii.json) |
 | Report III | 322813 | [322813-report-iii.json](./322813-report-iii.json) |
 | Report on the Death of Robert Evergreen | 277322 | [277322-report-on-the-death-of-robert-evergreen.json](./277322-report-on-the-death-of-robert-evergreen.json) |
@@ -7199,6 +7200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rex Blade: The Apocalypse | 71822 | [71822-rex-blade-the-apocalypse.json](./71822-rex-blade-the-apocalypse.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
 | Rex Hard | 39149 | [39149-rex-hard.json](./39149-rex-hard.json) |
+| Rex n Run | 343506 | [343506-rex-n-run.json](./343506-rex-n-run.json) |
 | Rex Nebular and the Cosmic Gender Bender | 8680 | [8680-rex-nebular-and-the-cosmic-gender-bender.json](./8680-rex-nebular-and-the-cosmic-gender-bender.json) |
 | Rex Rocket | 17191 | [17191-rex-rocket.json](./17191-rex-rocket.json) |
 | Rex Ronan: Experimental Surgeon | 42651 | [42651-rex-ronan-experimental-surgeon.json](./42651-rex-ronan-experimental-surgeon.json) |
@@ -10267,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman 6: Unique Harassment | 216422 | [216422-rockman-6-unique-harassment.json](./216422-rockman-6-unique-harassment.json) |
 | Rockman 7 EP | 212782 | [212782-rockman-7-ep.json](./212782-rockman-7-ep.json) |
 | Rockman 7 FC | 137115 | [137115-rockman-7-fc.json](./137115-rockman-7-fc.json) |
+| Rockman 8 | 342976 | [342976-rockman-8.json](./342976-rockman-8.json) |
 | Rockman 8 FC | 137116 | [137116-rockman-8-fc.json](./137116-rockman-8-fc.json) |
 | Rockman 8 Metal Heroes Famicom | 142354 | [142354-rockman-8-metal-heroes-famicom.json](./142354-rockman-8-metal-heroes-famicom.json) |
 | Rockman Battle & Fighters | 75515 | [75515-rockman-battle-and-fighters.json](./75515-rockman-battle-and-fighters.json) |
