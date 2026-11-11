@@ -5209,6 +5209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris 2 | 254511 | [254511-tetris-2.json](./254511-tetris-2.json) |
 | Tetris 2 | 254512 | [254512-tetris-2.json](./254512-tetris-2.json) |
 | Tetris 2 | 263866 | [263866-tetris-2.json](./263866-tetris-2.json) |
+| Tetris 2 | 387802 | [387802-tetris-2.json](./387802-tetris-2.json) |
 | Tetris 2 | 9083 | [9083-tetris-2.json](./9083-tetris-2.json) |
 | Tetris 2 + BomBliss | 78699 | [78699-tetris-2-bombliss.json](./78699-tetris-2-bombliss.json) |
 | Tetris 2 + BomBliss LT | 263871 | [263871-tetris-2-bombliss-lt.json](./263871-tetris-2-bombliss-lt.json) |
@@ -11342,6 +11343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Holoween collection | 206123 | [206123-the-holoween-collection.json](./206123-the-holoween-collection.json) |
 | The Holy Chalice | 190402 | [190402-the-holy-chalice.json](./190402-the-holy-chalice.json) |
 | The Holy Chalice | 194890 | [194890-the-holy-chalice.json](./194890-the-holy-chalice.json) |
+| The Holy Fool | 387816 | [387816-the-holy-fool.json](./387816-the-holy-fool.json) |
 | The Holy Gosh Darn | 240644 | [240644-the-holy-gosh-darn.json](./240644-the-holy-gosh-darn.json) |
 | The Holy Grail | 24677 | [24677-the-holy-grail.json](./24677-the-holy-grail.json) |
 | The Holy Orange | 167513 | [167513-the-holy-orange.json](./167513-the-holy-orange.json) |
@@ -12537,6 +12539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lands of Hyberian | 289996 | [289996-the-lands-of-hyberian.json](./289996-the-lands-of-hyberian.json) |
 | The Language Game | 35157 | [35157-the-language-game.json](./35157-the-language-game.json) |
 | The Language of Love | 118052 | [118052-the-language-of-love.json](./118052-the-language-of-love.json) |
+| The Lantern of the Laughless Saint | 387817 | [387817-the-lantern-of-the-laughless-saint.json](./387817-the-lantern-of-the-laughless-saint.json) |
 | The Lar | 118380 | [118380-the-lar.json](./118380-the-lar.json) |
 | The Lara Croft Collection | 253646 | [253646-the-lara-croft-collection.json](./253646-the-lara-croft-collection.json) |
 | The Larper | 402988 | [402988-the-larper.json](./402988-the-larper.json) |
@@ -21910,6 +21913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thy Flesh Vored | 262543 | [262543-thy-flesh-vored.json](./262543-thy-flesh-vored.json) |
 | Thy Kingdom Crumble | 122575 | [122575-thy-kingdom-crumble.json](./122575-thy-kingdom-crumble.json) |
 | Thy Knights of Climbalot | 109675 | [109675-thy-knights-of-climbalot.json](./109675-thy-knights-of-climbalot.json) |
+| Thy Lyin' Eyes Be Damned! | 387840 | [387840-thy-lyin-eyes-be-damned.json](./387840-thy-lyin-eyes-be-damned.json) |
 | Thy Sword | 210447 | [210447-thy-sword.json](./210447-thy-sword.json) |
 | Thy Sword | 68320 | [68320-thy-sword.json](./68320-thy-sword.json) |
 | Thymesia | 145028 | [145028-thymesia.json](./145028-thymesia.json) |
@@ -33667,6 +33671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust Me | 373815 | [373815-trust-me.json](./373815-trust-me.json) |
 | Trust Me Bro, I Trade | 384515 | [384515-trust-me-bro-i-trade.json](./384515-trust-me-bro-i-trade.json) |
 | Trust Me, I Got This! | 176660 | [176660-trust-me-i-got-this.json](./176660-trust-me-i-got-this.json) |
+| Trust Me, I Nailed It | 387826 | [387826-trust-me-i-nailed-it.json](./387826-trust-me-i-nailed-it.json) |
 | Trust Me, Not Her | 191176 | [191176-trust-me-not-her.json](./191176-trust-me-not-her.json) |
 | Trust No Bunny | 195028 | [195028-trust-no-bunny.json](./195028-trust-no-bunny.json) |
 | Trust No One | 281923 | [281923-trust-no-one.json](./281923-trust-no-one.json) |
