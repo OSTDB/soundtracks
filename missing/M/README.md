@@ -18757,6 +18757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mothership | 293414 | [293414-mothership.json](./293414-mothership.json) |
 | Mothership Down | 403976 | [403976-mothership-down.json](./403976-mothership-down.json) |
 | Mothership Forever | 235737 | [235737-mothership-forever.json](./235737-mothership-forever.json) |
+| Mothiary | 378685 | [378685-mothiary.json](./378685-mothiary.json) |
 | Mothkeep | 403892 | [403892-mothkeep.json](./403892-mothkeep.json) |
 | Mothlight | 54445 | [54445-mothlight.json](./54445-mothlight.json) |
 | Mothman | 277983 | [277983-mothman.json](./277983-mothman.json) |
