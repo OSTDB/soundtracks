@@ -4013,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hed the Pig | 142305 | [142305-hed-the-pig.json](./142305-hed-the-pig.json) |
 | Hedenite | 277991 | [277991-hedenite.json](./277991-hedenite.json) |
 | Hedera | 135605 | [135605-hedera.json](./135605-hedera.json) |
+| Hedge Fund Manager Simulator MMO | 374537 | [374537-hedge-fund-manager-simulator-mmo.json](./374537-hedge-fund-manager-simulator-mmo.json) |
 | Hedge Fund Tycoon | 239779 | [239779-hedge-fund-tycoon.json](./239779-hedge-fund-tycoon.json) |
 | Hedgebomber Stories: A Shy Guy's Panic | 323675 | [323675-hedgebomber-stories-a-shy-guys-panic.json](./323675-hedgebomber-stories-a-shy-guys-panic.json) |
 | Hedgeborough | 390712 | [390712-hedgeborough.json](./390712-hedgeborough.json) |
@@ -5133,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Babes: Sport Lovers | 365408 | [365408-hentai-babes-sport-lovers.json](./365408-hentai-babes-sport-lovers.json) |
 | Hentai Babes: Waifu | 365409 | [365409-hentai-babes-waifu.json](./365409-hentai-babes-waifu.json) |
 | Hentai Bad Girls | 280267 | [280267-hentai-bad-girls.json](./280267-hentai-bad-girls.json) |
+| Hentai Bae Pinky | 374532 | [374532-hentai-bae-pinky.json](./374532-hentai-bae-pinky.json) |
 | Hentai Bae Sunny | 369307 | [369307-hentai-bae-sunny.json](./369307-hentai-bae-sunny.json) |
 | Hentai Bae Violet | 369830 | [369830-hentai-bae-violet.json](./369830-hentai-bae-violet.json) |
 | Hentai Balloons | 161549 | [161549-hentai-balloons.json](./161549-hentai-balloons.json) |
@@ -5626,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Polka | 294139 | [294139-hentai-polka.json](./294139-hentai-polka.json) |
 | Hentai Pool | 241386 | [241386-hentai-pool.json](./241386-hentai-pool.json) |
 | Hentai Portrait | 378849 | [378849-hentai-portrait.json](./378849-hentai-portrait.json) |
+| Hentai Princess | 374521 | [374521-hentai-princess.json](./374521-hentai-princess.json) |
 | Hentai Project | 262366 | [262366-hentai-project.json](./262366-hentai-project.json) |
 | Hentai Project 67 | 409529 | [409529-hentai-project-67.json](./409529-hentai-project-67.json) |
 | Hentai Protocol: Lesson One | 413948 | [413948-hentai-protocol-lesson-one.json](./413948-hentai-protocol-lesson-one.json) |
@@ -11383,6 +11386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotdog Samurai | 246953 | [246953-hotdog-samurai.json](./246953-hotdog-samurai.json) |
 | Hotdog Storm | 39679 | [39679-hotdog-storm.json](./39679-hotdog-storm.json) |
 | HotDog TD | 264656 | [264656-hotdog-td.json](./264656-hotdog-td.json) |
+| Hotdog: The Videogame | 374505 | [374505-hotdog-the-videogame.json](./374505-hotdog-the-videogame.json) |
 | HotDogs HotGals | 209888 | [209888-hotdogs-hotgals.json](./209888-hotdogs-hotgals.json) |
 | Hotel | 10417 | [10417-hotel.json](./10417-hotel.json) |
 | Hotel 12th | 317970 | [317970-hotel-12th.json](./317970-hotel-12th.json) |
