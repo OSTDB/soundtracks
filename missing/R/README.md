@@ -7053,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revhead | 26728 | [26728-revhead.json](./26728-revhead.json) |
 | Revhead: Turbo | 170958 | [170958-revhead-turbo.json](./170958-revhead-turbo.json) |
 | Review: Jashin Fukkatsu | 97233 | [97233-review-jashin-fukkatsu.json](./97233-review-jashin-fukkatsu.json) |
+| Revila | 350700 | [350700-revila.json](./350700-revila.json) |
 | Reviser | 125103 | [125103-reviser.json](./125103-reviser.json) |
 | Revisitor | 148832 | [148832-revisitor.json](./148832-revisitor.json) |
 | Revita | 139672 | [139672-revita.json](./139672-revita.json) |
@@ -11282,6 +11283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Forgotten Kingdom | 63109 | [63109-romance-of-the-forgotten-kingdom.json](./63109-romance-of-the-forgotten-kingdom.json) |
 | Romance of the Three Kingdom Touch | 21956 | [21956-romance-of-the-three-kingdom-touch.json](./21956-romance-of-the-three-kingdom-touch.json) |
 | Romance of the Three Kingdoms | 336965 | [336965-romance-of-the-three-kingdoms.json](./336965-romance-of-the-three-kingdoms.json) |
+| Romance of the Three Kingdoms | 350709 | [350709-romance-of-the-three-kingdoms.json](./350709-romance-of-the-three-kingdoms.json) |
 | Romance of the Three Kingdoms | 392223 | [392223-romance-of-the-three-kingdoms.json](./392223-romance-of-the-three-kingdoms.json) |
 | Romance of the Three Kingdoms 11 with Power Up Kit | 82406 | [82406-romance-of-the-three-kingdoms-11-with-power-up-kit.json](./82406-romance-of-the-three-kingdoms-11-with-power-up-kit.json) |
 | Romance of the Three Kingdoms 8 Remake | 266723 | [266723-romance-of-the-three-kingdoms-8-remake.json](./266723-romance-of-the-three-kingdoms-8-remake.json) |
