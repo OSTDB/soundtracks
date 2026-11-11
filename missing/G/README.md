@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gang of Paws | 167449 | [167449-gang-of-paws.json](./167449-gang-of-paws.json) |
 | Gang Start | 208178 | [208178-gang-start.json](./208178-gang-start.json) |
 | Gang Wars | 150778 | [150778-gang-wars.json](./150778-gang-wars.json) |
+| Gang Wars: Cards and Bullets | 366762 | [366762-gang-wars-cards-and-bullets.json](./366762-gang-wars-cards-and-bullets.json) |
 | GangBusters | 46773 | [46773-gangbusters.json](./46773-gangbusters.json) |
 | Ganghood Survival | 111361 | [111361-ganghood-survival.json](./111361-ganghood-survival.json) |
 | Gangnam City Deluxe | 242207 | [242207-gangnam-city-deluxe.json](./242207-gangnam-city-deluxe.json) |
@@ -1858,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsters | 69233 | [69233-gangsters.json](./69233-gangsters.json) |
 | Gangsters 1920 | 125078 | [125078-gangsters-1920.json](./125078-gangsters-1920.json) |
 | Gangsters 2: Vendetta | 51226 | [51226-gangsters-2-vendetta.json](./51226-gangsters-2-vendetta.json) |
+| Gangsters in Love | 366761 | [366761-gangsters-in-love.json](./366761-gangsters-in-love.json) |
 | Gangsters Way | 361989 | [361989-gangsters-way.json](./361989-gangsters-way.json) |
 | GangV: Battle Royale | 144201 | [144201-gangv-battle-royale.json](./144201-gangv-battle-royale.json) |
 | Gangway Monsters | 43844 | [43844-gangway-monsters.json](./43844-gangway-monsters.json) |
@@ -9173,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Switch | 247415 | [247415-gravity-switch.json](./247415-gravity-switch.json) |
 | Gravity Thrust | 231036 | [231036-gravity-thrust.json](./231036-gravity-thrust.json) |
 | Gravity Tilt | 266394 | [266394-gravity-tilt.json](./266394-gravity-tilt.json) |
+| Gravity Trials: Underground | 366763 | [366763-gravity-trials-underground.json](./366763-gravity-trials-underground.json) |
 | Gravity Typist | 134791 | [134791-gravity-typist.json](./134791-gravity-typist.json) |
 | Gravity Up | 318424 | [318424-gravity-up.json](./318424-gravity-up.json) |
 | Gravity Vector | 104791 | [104791-gravity-vector.json](./104791-gravity-vector.json) |
@@ -10920,6 +10923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gudetama Tap! Puzzle | 258874 | [258874-gudetama-tap-puzzle.json](./258874-gudetama-tap-puzzle.json) |
 | Gudetama: Hanjuku de Tanomuwa | 57560 | [57560-gudetama-hanjuku-de-tanomuwa.json](./57560-gudetama-hanjuku-de-tanomuwa.json) |
 | Gudetama: Okawari Ikagassuka | 57711 | [57711-gudetama-okawari-ikagassuka.json](./57711-gudetama-okawari-ikagassuka.json) |
+| Gudetamarun: Running Gudetama! But Gudetama wants to be Gudegude | 366764 | [366764-gudetamarun-running-gudetama-but-gudetama-wants-to-be-gudegude.json](./366764-gudetamarun-running-gudetama-but-gudetama-wants-to-be-gudegude.json) |
 | Gudrun's Solitaire Duel | 340403 | [340403-gudruns-solitaire-duel.json](./340403-gudruns-solitaire-duel.json) |
 | Guerilla Bob | 94760 | [94760-guerilla-bob.json](./94760-guerilla-bob.json) |
 | Guerilla Cinema // Guerilla Theater | 394838 | [394838-guerilla-cinema-guerilla-theater.json](./394838-guerilla-cinema-guerilla-theater.json) |
