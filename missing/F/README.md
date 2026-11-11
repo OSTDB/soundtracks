@@ -3939,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed the Head | 96185 | [96185-feed-the-head.json](./96185-feed-the-head.json) |
 | Feed the Horsebear | 130236 | [130236-feed-the-horsebear.json](./130236-feed-the-horsebear.json) |
 | Feed the Lie | 372273 | [372273-feed-the-lie.json](./372273-feed-the-lie.json) |
+| Feed the Maw | 387809 | [387809-feed-the-maw.json](./387809-feed-the-maw.json) |
 | Feed the Pets | 109717 | [109717-feed-the-pets.json](./109717-feed-the-pets.json) |
 | Feed the Pets: Fall Animals | 192373 | [192373-feed-the-pets-fall-animals.json](./192373-feed-the-pets-fall-animals.json) |
 | Feed the Pig | 403230 | [403230-feed-the-pig.json](./403230-feed-the-pig.json) |
