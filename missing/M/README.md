@@ -19896,6 +19896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Prepper | 81680 | [81680-mr-prepper.json](./81680-mr-prepper.json) |
 | Mr. Prepper: Animal Farm | 197593 | [197593-mr-prepper-animal-farm.json](./197593-mr-prepper-animal-farm.json) |
 | Mr. Prepper: Anniversary Edition | 284742 | [284742-mr-prepper-anniversary-edition.json](./284742-mr-prepper-anniversary-edition.json) |
+| Mr. Prepper: Uranium Project | 356943 | [356943-mr-prepper-uranium-project.json](./356943-mr-prepper-uranium-project.json) |
 | Mr. President | 332232 | [332232-mr-president.json](./332232-mr-president.json) |
 | Mr. President! | 403624 | [403624-mr-president.json](./403624-mr-president.json) |
 | Mr. Presidents | 208027 | [208027-mr-presidents.json](./208027-mr-presidents.json) |
