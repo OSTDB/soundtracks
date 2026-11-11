@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -5381,6 +5382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearly Baking | 355040 | [355040-bearly-baking.json](./355040-bearly-baking.json) |
 | Bearly Chillin' | 363976 | [363976-bearly-chillin.json](./363976-bearly-chillin.json) |
 | Bearly Delivered | 283986 | [283986-bearly-delivered.json](./283986-bearly-delivered.json) |
+| Bearly Escape | 326897 | [326897-bearly-escape.json](./326897-bearly-escape.json) |
 | Bearnard | 265533 | [265533-bearnard.json](./265533-bearnard.json) |
 | Bearnard + What Lies in the Multiverse | 375405 | [375405-bearnard-what-lies-in-the-multiverse.json](./375405-bearnard-what-lies-in-the-multiverse.json) |
 | BearPit | 338719 | [338719-bearpit.json](./338719-bearpit.json) |
@@ -7408,6 +7410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between the Shelves | 406388 | [406388-between-the-shelves.json](./406388-between-the-shelves.json) |
 | Between the Worlds 2: The Pyramid | 175798 | [175798-between-the-worlds-2-the-pyramid.json](./175798-between-the-worlds-2-the-pyramid.json) |
 | Between them | 149536 | [149536-between-them.json](./149536-between-them.json) |
+| Between These Dark Walls | 326880 | [326880-between-these-dark-walls.json](./326880-between-these-dark-walls.json) |
 | Between These Two | 390836 | [390836-between-these-two.json](./390836-between-these-two.json) |
 | Between Time: Escape Room | 164977 | [164977-between-time-escape-room.json](./164977-between-time-escape-room.json) |
 | Between Two Castles | 125068 | [125068-between-two-castles.json](./125068-between-two-castles.json) |
