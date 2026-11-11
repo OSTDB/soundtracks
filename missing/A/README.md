@@ -6437,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akira | 248743 | [248743-akira.json](./248743-akira.json) |
 | Akira | 248744 | [248744-akira.json](./248744-akira.json) |
 | Akira | 26411 | [26411-akira.json](./26411-akira.json) |
+| Akira | 356916 | [356916-akira.json](./356916-akira.json) |
 | Akira GBC | 316527 | [316527-akira-gbc.json](./316527-akira-gbc.json) |
 | Akira's Deep Sea Ventures | 414693 | [414693-akiras-deep-sea-ventures.json](./414693-akiras-deep-sea-ventures.json) |
 | Akira*Hero | 400567 | [400567-akira-hero.json](./400567-akira-hero.json) |
@@ -11461,6 +11462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalia | 211142 | [211142-anomalia.json](./211142-anomalia.json) |
 | Anomalia O Despertar | 320027 | [320027-anomalia-o-despertar.json](./320027-anomalia-o-despertar.json) |
 | Anomalice | 172695 | [172695-anomalice.json](./172695-anomalice.json) |
+| Anomalien | 356915 | [356915-anomalien.json](./356915-anomalien.json) |
 | Anomalies | 30841 | [30841-anomalies.json](./30841-anomalies.json) |
 | Anomalies Detective | 325068 | [325068-anomalies-detective.json](./325068-anomalies-detective.json) |
 | Anomalistic Revolution | 226235 | [226235-anomalistic-revolution.json](./226235-anomalistic-revolution.json) |
@@ -17771,8 +17773,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Yumia: "Blooming Heart" Costume for Nina | 333754 | [333754-atelier-yumia-blooming-heart-costume-for-nina.json](./333754-atelier-yumia-blooming-heart-costume-for-nina.json) |
 | Atelier Yumia: "Cute Kitty Swimsuit" Costume for Lenja | 333755 | [333755-atelier-yumia-cute-kitty-swimsuit-costume-for-lenja.json](./333755-atelier-yumia-cute-kitty-swimsuit-costume-for-lenja.json) |
 | Atelier Yumia: "Ebony Outlaw" Costume for Rutger | 333756 | [333756-atelier-yumia-ebony-outlaw-costume-for-rutger.json](./333756-atelier-yumia-ebony-outlaw-costume-for-rutger.json) |
+| Atelier Yumia: "Fantasy Academy" Costume Set for Yumia and Flammi | 356944 | [356944-atelier-yumia-fantasy-academy-costume-set-for-yumia-and-flammi.json](./356944-atelier-yumia-fantasy-academy-costume-set-for-yumia-and-flammi.json) |
 | Atelier Yumia: "Knight's Long-Distance Swimwear" Costume for Viktor | 333757 | [333757-atelier-yumia-knights-long-distance-swimwear-costume-for-viktor.json](./333757-atelier-yumia-knights-long-distance-swimwear-costume-for-viktor.json) |
+| Atelier Yumia: "Newbie Maid" Costume for Isla | 356949 | [356949-atelier-yumia-newbie-maid-costume-for-isla.json](./356949-atelier-yumia-newbie-maid-costume-for-isla.json) |
+| Atelier Yumia: "Perfect Butler" Costume for Viktor | 356948 | [356948-atelier-yumia-perfect-butler-costume-for-viktor.json](./356948-atelier-yumia-perfect-butler-costume-for-viktor.json) |
 | Atelier Yumia: "Super Cute! Beach Memories" Costume for Isla | 333758 | [333758-atelier-yumia-super-cute-beach-memories-costume-for-isla.json](./333758-atelier-yumia-super-cute-beach-memories-costume-for-isla.json) |
+| Atelier Yumia: "Twilight Memories" Costume for Lenja | 356945 | [356945-atelier-yumia-twilight-memories-costume-for-lenja.json](./356945-atelier-yumia-twilight-memories-costume-for-lenja.json) |
+| Atelier Yumia: "Ultimate Teacher" Costume for Nina | 356946 | [356946-atelier-yumia-ultimate-teacher-costume-for-nina.json](./356946-atelier-yumia-ultimate-teacher-costume-for-nina.json) |
+| Atelier Yumia: "Wolf of the Streets" Costume for Rutger | 356947 | [356947-atelier-yumia-wolf-of-the-streets-costume-for-rutger.json](./356947-atelier-yumia-wolf-of-the-streets-costume-for-rutger.json) |
 | Atelier Yumia: Additional Map "Falbra Thicket" | 351151 | [351151-atelier-yumia-additional-map-falbra-thicket.json](./351151-atelier-yumia-additional-map-falbra-thicket.json) |
 | Atelier Yumia: Aladiss Investigation Preparation Set | 333751 | [333751-atelier-yumia-aladiss-investigation-preparation-set.json](./333751-atelier-yumia-aladiss-investigation-preparation-set.json) |
 | Atelier Yumia: Atelier Yumia and "Tekken" Series Collaboration Pack | 356797 | [356797-atelier-yumia-atelier-yumia-and-tekken-series-collaboration-pack.json](./356797-atelier-yumia-atelier-yumia-and-tekken-series-collaboration-pack.json) |
