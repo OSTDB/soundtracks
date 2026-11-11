@@ -15060,8 +15060,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slut Squad | 385808 | [385808-slut-squad.json](./385808-slut-squad.json) |
 | SlutWitch's Atelier | 83163 | [83163-slutwitchs-atelier.json](./83163-slutwitchs-atelier.json) |
 | Sly 2: Band of Thieves | 1799 | [1799-sly-2-band-of-thieves.json](./1799-sly-2-band-of-thieves.json) |
+| Sly 2: Band of Thieves | 325150 | [325150-sly-2-band-of-thieves.json](./325150-sly-2-band-of-thieves.json) |
 | Sly 3: Honor Among Thieves | 1800 | [1800-sly-3-honor-among-thieves.json](./1800-sly-3-honor-among-thieves.json) |
 | Sly 3: Honor Among Thieves | 222127 | [222127-sly-3-honor-among-thieves.json](./222127-sly-3-honor-among-thieves.json) |
+| Sly 3: Honor Among Thieves | 325157 | [325157-sly-3-honor-among-thieves.json](./325157-sly-3-honor-among-thieves.json) |
 | Sly Cooper and the Thievius Raccoonus | 1798 | [1798-sly-cooper-and-the-thievius-raccoonus.json](./1798-sly-cooper-and-the-thievius-raccoonus.json) |
 | Sly Cooper and the Thievius Raccoonus | 222125 | [222125-sly-cooper-and-the-thievius-raccoonus.json](./222125-sly-cooper-and-the-thievius-raccoonus.json) |
 | Sly Cooper and the Thievius Raccoonus | 304144 | [304144-sly-cooper-and-the-thievius-raccoonus.json](./304144-sly-cooper-and-the-thievius-raccoonus.json) |
@@ -15650,6 +15652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smoots Golf | 149215 | [149215-smoots-golf.json](./149215-smoots-golf.json) |
 | Smoots Pinball | 260221 | [260221-smoots-pinball.json](./260221-smoots-pinball.json) |
 | Smoots Summer Games | 120795 | [120795-smoots-summer-games.json](./120795-smoots-summer-games.json) |
+| Smoots Summer Games II | 324054 | [324054-smoots-summer-games-ii.json](./324054-smoots-summer-games-ii.json) |
 | Smoots World Cup Tennis | 24720 | [24720-smoots-world-cup-tennis.json](./24720-smoots-world-cup-tennis.json) |
 | Smoq Games 25 | 396361 | [396361-smoq-games-25.json](./396361-smoq-games-25.json) |
 | Smorca | 363627 | [363627-smorca.json](./363627-smorca.json) |
@@ -24810,6 +24813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyro: Attack of the Rhynocs | 1589 | [1589-spyro-attack-of-the-rhynocs.json](./1589-spyro-attack-of-the-rhynocs.json) |
 | Spyro: Collector's Edition | 43686 | [43686-spyro-collectors-edition.json](./43686-spyro-collectors-edition.json) |
 | Spyro: Enter the Dragonfly | 1579 | [1579-spyro-enter-the-dragonfly.json](./1579-spyro-enter-the-dragonfly.json) |
+| Spyro: Enter the Dragonfly - Definitive Edition | 324592 | [324592-spyro-enter-the-dragonfly-definitive-edition.json](./324592-spyro-enter-the-dragonfly-definitive-edition.json) |
 | Spyro: Ripto Quest | 251290 | [251290-spyro-ripto-quest.json](./251290-spyro-ripto-quest.json) |
 | Spyro: Season of Ice | 1587 | [1587-spyro-season-of-ice.json](./1587-spyro-season-of-ice.json) |
 | Spyro: Shadow Legacy | 1581 | [1581-spyro-shadow-legacy.json](./1581-spyro-shadow-legacy.json) |
@@ -35722,6 +35726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wagyan Land | 42539 | [42539-super-wagyan-land.json](./42539-super-wagyan-land.json) |
 | Super Wagyan Land 2 | 38195 | [38195-super-wagyan-land-2.json](./38195-super-wagyan-land-2.json) |
 | Super Waifu Bakery Simulator | 278892 | [278892-super-waifu-bakery-simulator.json](./278892-super-waifu-bakery-simulator.json) |
+| Super Waifu Ball | 324056 | [324056-super-waifu-ball.json](./324056-super-waifu-ball.json) |
 | Super Waifu Tsunami | 403083 | [403083-super-waifu-tsunami.json](./403083-super-waifu-tsunami.json) |
 | Super Wakana Land | 275567 | [275567-super-wakana-land.json](./275567-super-wakana-land.json) |
 | Super Walrus Entertainment System | 156630 | [156630-super-walrus-entertainment-system.json](./156630-super-walrus-entertainment-system.json) |
