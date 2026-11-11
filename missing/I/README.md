@@ -6003,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inzipid | 74476 | [74476-inzipid.json](./74476-inzipid.json) |
 | Inziva | 243540 | [243540-inziva.json](./243540-inziva.json) |
 | Inzo | 99609 | [99609-inzo.json](./99609-inzo.json) |
+| Inzoi: Island Getaway | 360274 | [360274-inzoi-island-getaway.json](./360274-inzoi-island-getaway.json) |
 | iO | 6465 | [6465-io.json](./6465-io.json) |
 | IO | 54644 | [54644-io.json](./54644-io.json) |
 | iO Inner Self: The Lava Planet VR | 225614 | [225614-io-inner-self-the-lava-planet-vr.json](./225614-io-inner-self-the-lava-planet-vr.json) |
