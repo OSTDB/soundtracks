@@ -681,6 +681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Nemesis | 197252 | [197252-galactic-nemesis.json](./197252-galactic-nemesis.json) |
 | Galactic Nine Lives | 360850 | [360850-galactic-nine-lives.json](./360850-galactic-nine-lives.json) |
 | Galactic Orbital Death Sport | 75190 | [75190-galactic-orbital-death-sport.json](./75190-galactic-orbital-death-sport.json) |
+| Galactic Outlaws | 347961 | [347961-galactic-outlaws.json](./347961-galactic-outlaws.json) |
 | Galactic Overlord | 22003 | [22003-galactic-overlord.json](./22003-galactic-overlord.json) |
 | Galactic Overlord | 352259 | [352259-galactic-overlord.json](./352259-galactic-overlord.json) |
 | Galactic Overthrow | 386820 | [386820-galactic-overthrow.json](./386820-galactic-overthrow.json) |
@@ -1640,6 +1641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamer Pack | 131182 | [131182-gamer-pack.json](./131182-gamer-pack.json) |
 | Gamer Quest | 319951 | [319951-gamer-quest.json](./319951-gamer-quest.json) |
 | Gamer Shop Simulator | 129309 | [129309-gamer-shop-simulator.json](./129309-gamer-shop-simulator.json) |
+| Gamer Stop Simulator | 347959 | [347959-gamer-stop-simulator.json](./347959-gamer-stop-simulator.json) |
 | Gamer Stories: Dating Real Japanese Female Gamers | 309804 | [309804-gamer-stories-dating-real-japanese-female-gamers.json](./309804-gamer-stories-dating-real-japanese-female-gamers.json) |
 | Gamer's Dream | 410544 | [410544-gamers-dream.json](./410544-gamers-dream.json) |
 | Gamer's Jackpot 30 PAC | 73649 | [73649-gamers-jackpot-30-pac.json](./73649-gamers-jackpot-30-pac.json) |
@@ -7447,6 +7449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Knight's Sleep | 369021 | [369021-good-knights-sleep.json](./369021-good-knights-sleep.json) |
 | Good Kniight | 408475 | [408475-good-kniight.json](./408475-good-kniight.json) |
 | Good Lord! Everyone at the Reunion For My Religious All-Girls School Is a Trans Man... And They're Hot?! | 307341 | [307341-good-lord-everyone-at-the-reunion-for-my-religious-all-girls-school-is-a-trans-man-and-theyre-hot.json](./307341-good-lord-everyone-at-the-reunion-for-my-religious-all-girls-school-is-a-trans-man-and-theyre-hot.json) |
+| Good Luck | 347955 | [347955-good-luck.json](./347955-good-luck.json) |
 | Good Luck Baby! | 240712 | [240712-good-luck-baby.json](./240712-good-luck-baby.json) |
 | Good Luck Citizen | 305777 | [305777-good-luck-citizen.json](./305777-good-luck-citizen.json) |
 | Good Luck Crossing | 344393 | [344393-good-luck-crossing.json](./344393-good-luck-crossing.json) |
