@@ -481,6 +481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Creating The Universe | 402230 | [402230-a-game-about-creating-the-universe.json](./402230-a-game-about-creating-the-universe.json) |
 | A Game About Digging A Hole | 325554 | [325554-a-game-about-digging-a-hole.json](./325554-a-game-about-digging-a-hole.json) |
 | A Game About Dodging Balls | 389708 | [389708-a-game-about-dodging-balls.json](./389708-a-game-about-dodging-balls.json) |
+| A Game About Feeding A Black Hole | 370580 | [370580-a-game-about-feeding-a-black-hole.json](./370580-a-game-about-feeding-a-black-hole.json) |
 | A Game About Fishing | 412382 | [412382-a-game-about-fishing.json](./412382-a-game-about-fishing.json) |
 | A Game About Flicking A Switch | 287146 | [287146-a-game-about-flicking-a-switch.json](./287146-a-game-about-flicking-a-switch.json) |
 | A Game About Flipping Cards | 407864 | [407864-a-game-about-flipping-cards.json](./407864-a-game-about-flipping-cards.json) |
@@ -822,6 +823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Loving Family | 297061 | [297061-a-loving-family.json](./297061-a-loving-family.json) |
 | A Lucky First Turnabout: A Klavier Gavin Story | 308550 | [308550-a-lucky-first-turnabout-a-klavier-gavin-story.json](./308550-a-lucky-first-turnabout-a-klavier-gavin-story.json) |
 | A Lucky Hunt With Calista | 385277 | [385277-a-lucky-hunt-with-calista.json](./385277-a-lucky-hunt-with-calista.json) |
+| A Lucky Hunt With Daphne | 370579 | [370579-a-lucky-hunt-with-daphne.json](./370579-a-lucky-hunt-with-daphne.json) |
 | A Lucky Hunt With: Elara | 392958 | [392958-a-lucky-hunt-with-elara.json](./392958-a-lucky-hunt-with-elara.json) |
 | A Lucky Hunt With: Ione | 392956 | [392956-a-lucky-hunt-with-ione.json](./392956-a-lucky-hunt-with-ione.json) |
 | A Lullaby of Colors | 114901 | [114901-a-lullaby-of-colors.json](./114901-a-lullaby-of-colors.json) |
@@ -5426,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Dawn | 368678 | [368678-ai-dawn.json](./368678-ai-dawn.json) |
 | AI Detective Collection | 302397 | [302397-ai-detective-collection.json](./302397-ai-detective-collection.json) |
 | AI Doctor | 319307 | [319307-ai-doctor.json](./319307-ai-doctor.json) |
+| AI Doll Repairer | 370581 | [370581-ai-doll-repairer.json](./370581-ai-doll-repairer.json) |
 | AI Dummy | 75434 | [75434-ai-dummy.json](./75434-ai-dummy.json) |
 | AI Dungeon | 203870 | [203870-ai-dungeon.json](./203870-ai-dungeon.json) |
 | AI Escort | 96421 | [96421-ai-escort.json](./96421-ai-escort.json) |
@@ -17662,6 +17665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Online: Alchemists of Braceir | 196529 | [196529-atelier-online-alchemists-of-braceir.json](./196529-atelier-online-alchemists-of-braceir.json) |
 | Atelier Questboard | 130323 | [130323-atelier-questboard.json](./130323-atelier-questboard.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian | 318001 | [318001-atelier-resleriana-the-red-alchemist-and-the-white-guardian.json](./318001-atelier-resleriana-the-red-alchemist-and-the-white-guardian.json) |
+| Atelier Resleriana: The Red Alchemist & The White Guardian - Activewear Adventuring Set | 370586 | [370586-atelier-resleriana-the-red-alchemist-and-the-white-guardian-activewear-adventuring-set.json](./370586-atelier-resleriana-the-red-alchemist-and-the-white-guardian-activewear-adventuring-set.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Additional Characters: Resna and Valeria | 375157 | [375157-atelier-resleriana-the-red-alchemist-and-the-white-guardian-additional-characters-resna-and-valeria.json](./375157-atelier-resleriana-the-red-alchemist-and-the-white-guardian-additional-characters-resna-and-valeria.json) |
 | Atelier Resleriana: The Red Alchemist & the White Guardian - Atelier Series Legacy BGM Pack | 380622 | [380622-atelier-resleriana-the-red-alchemist-and-the-white-guardian-atelier-series-legacy-bgm-pack.json](./380622-atelier-resleriana-the-red-alchemist-and-the-white-guardian-atelier-series-legacy-bgm-pack.json) |
 | Atelier Resleriana: The Red Alchemist & The White Guardian - Beginning of Summer Days Costume Set | 375158 | [375158-atelier-resleriana-the-red-alchemist-and-the-white-guardian-beginning-of-summer-days-costume-set.json](./375158-atelier-resleriana-the-red-alchemist-and-the-white-guardian-beginning-of-summer-days-costume-set.json) |
