@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varnir of the Dragon Star: Ecdysis of the Dragon Limited Edition | 116234 | [116234-varnir-of-the-dragon-star-ecdysis-of-the-dragon-limited-edition.json](./116234-varnir-of-the-dragon-star-ecdysis-of-the-dragon-limited-edition.json) |
 | Varooom 3D | 181877 | [181877-varooom-3d.json](./181877-varooom-3d.json) |
 | Varsapura | 378268 | [378268-varsapura.json](./378268-varsapura.json) |
+| Varslo Tactics | 349526 | [349526-varslo-tactics.json](./349526-varslo-tactics.json) |
 | Varth: Operation Thunderstorm | 39312 | [39312-varth-operation-thunderstorm.json](./39312-varth-operation-thunderstorm.json) |
 | Varthos: Heir to the Throne | 369888 | [369888-varthos-heir-to-the-throne.json](./369888-varthos-heir-to-the-throne.json) |
 | Vartio | 347586 | [347586-vartio.json](./347586-vartio.json) |
@@ -1349,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velato | 398989 | [398989-velato.json](./398989-velato.json) |
 | Velaya: Tale of a Warrior | 383436 | [383436-velaya-tale-of-a-warrior.json](./383436-velaya-tale-of-a-warrior.json) |
 | Velberan In Miracle World | 253692 | [253692-velberan-in-miracle-world.json](./253692-velberan-in-miracle-world.json) |
+| Velcira Chronicles: The Veil of Alba | 349539 | [349539-velcira-chronicles-the-veil-of-alba.json](./349539-velcira-chronicles-the-veil-of-alba.json) |
 | Velcro Mind | 69617 | [69617-velcro-mind.json](./69617-velcro-mind.json) |
 | Velen | 398785 | [398785-velen.json](./398785-velen.json) |
 | Velev | 299556 | [299556-velev.json](./299556-velev.json) |
@@ -1375,6 +1377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocimom | 187610 | [187610-velocimom.json](./187610-velocimom.json) |
 | Velocipede | 416714 | [416714-velocipede.json](./416714-velocipede.json) |
 | Velocipede II | 416716 | [416716-velocipede-ii.json](./416716-velocipede-ii.json) |
+| Velocirambo | 349017 | [349017-velocirambo.json](./349017-velocirambo.json) |
 | Velocirapture | 61375 | [61375-velocirapture.json](./61375-velocirapture.json) |
 | Velocispider | 69020 | [69020-velocispider.json](./69020-velocispider.json) |
 | Velocity | 9184 | [9184-velocity.json](./9184-velocity.json) |
