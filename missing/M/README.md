@@ -1831,6 +1831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magika Land of Fantasy | 95621 | [95621-magika-land-of-fantasy.json](./95621-magika-land-of-fantasy.json) |
 | Magikiras | 88127 | [88127-magikiras.json](./88127-magikiras.json) |
 | Magikoopa Security Force | 322101 | [322101-magikoopa-security-force.json](./322101-magikoopa-security-force.json) |
+| Magikoopa's Midnight Mayhem | 322293 | [322293-magikoopas-midnight-mayhem.json](./322293-magikoopas-midnight-mayhem.json) |
 | Magilore | 74588 | [74588-magilore.json](./74588-magilore.json) |
 | Magimon Adventures | 243095 | [243095-magimon-adventures.json](./243095-magimon-adventures.json) |
 | Magimot | 130473 | [130473-magimot.json](./130473-magimot.json) |
@@ -3329,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manhattan Dealers | 10846 | [10846-manhattan-dealers.json](./10846-manhattan-dealers.json) |
 | Manhattan Dolls | 265329 | [265329-manhattan-dolls.json](./265329-manhattan-dolls.json) |
 | Manhattan Requiem | 349955 | [349955-manhattan-requiem.json](./349955-manhattan-requiem.json) |
+| Manhattan's Left-Overs | 322325 | [322325-manhattans-left-overs.json](./322325-manhattans-left-overs.json) |
 | Manhole | 100229 | [100229-manhole.json](./100229-manhole.json) |
 | Manhole | 206334 | [206334-manhole.json](./206334-manhole.json) |
 | Manhole | 231719 | [231719-manhole.json](./231719-manhole.json) |
@@ -12537,6 +12539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikro Mortal Tennis | 73473 | [73473-mikro-mortal-tennis.json](./73473-mikro-mortal-tennis.json) |
 | Mikrocosmos | 232944 | [232944-mikrocosmos.json](./232944-mikrocosmos.json) |
 | MikroGame: Rotator | 84635 | [84635-mikrogame-rotator.json](./84635-mikrogame-rotator.json) |
+| Miku Break | 322308 | [322308-miku-break.json](./322308-miku-break.json) |
 | Miku Chan's Robot | 277400 | [277400-miku-chans-robot.json](./277400-miku-chans-robot.json) |
 | Miku Flick | 11769 | [11769-miku-flick.json](./11769-miku-flick.json) |
 | Miku Flick/02 | 11770 | [11770-miku-flick-02.json](./11770-miku-flick-02.json) |
@@ -12694,10 +12697,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Way TD Survivors Autobattler RTS: Earth | 291429 | [291429-milky-way-td-survivors-autobattler-rts-earth.json](./291429-milky-way-td-survivors-autobattler-rts-earth.json) |
 | Milky Way Wishes | 271264 | [271264-milky-way-wishes.json](./271264-milky-way-wishes.json) |
 | Milky Way Wishes | 271407 | [271407-milky-way-wishes.json](./271407-milky-way-wishes.json) |
+| Milky Way: Galaxy Adventure | 322298 | [322298-milky-way-galaxy-adventure.json](./322298-milky-way-galaxy-adventure.json) |
 | Milky Way: TD Survivors Autobattler RTS | 289782 | [289782-milky-way-td-survivors-autobattler-rts.json](./289782-milky-way-td-survivors-autobattler-rts.json) |
 | Milkyway Funland | 156953 | [156953-milkyway-funland.json](./156953-milkyway-funland.json) |
 | MilkyWay: Galaxy Adventure | 206416 | [206416-milkyway-galaxy-adventure.json](./206416-milkyway-galaxy-adventure.json) |
 | Mill | 92299 | [92299-mill.json](./92299-mill.json) |
+| Millas | 322323 | [322323-millas.json](./322323-millas.json) |
 | Mille Bornes | 75952 | [75952-mille-bornes.json](./75952-mille-bornes.json) |
 | Mille Bornes | 94925 | [94925-mille-bornes.json](./94925-mille-bornes.json) |
 | Mille Miglia | 37260 | [37260-mille-miglia.json](./37260-mille-miglia.json) |
@@ -17932,6 +17937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Blade | 26716 | [26716-moonlight-blade.json](./26716-moonlight-blade.json) |
 | Moonlight Cow: Guardian of the Night | 386229 | [386229-moonlight-cow-guardian-of-the-night.json](./386229-moonlight-cow-guardian-of-the-night.json) |
 | Moonlight Cradle | 404334 | [404334-moonlight-cradle.json](./404334-moonlight-cradle.json) |
+| Moonlight Crush | 322327 | [322327-moonlight-crush.json](./322327-moonlight-crush.json) |
 | Moonlight Destiny | 222607 | [222607-moonlight-destiny.json](./222607-moonlight-destiny.json) |
 | Moonlight Dialogue | 369812 | [369812-moonlight-dialogue.json](./369812-moonlight-dialogue.json) |
 | Moonlight Express: Fortnight | 193726 | [193726-moonlight-express-fortnight.json](./193726-moonlight-express-fortnight.json) |
