@@ -22732,6 +22732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Wife Is An Office Manager | 389634 | [389634-my-wife-is-an-office-manager.json](./389634-my-wife-is-an-office-manager.json) |
 | My Wife Serves the King | 385243 | [385243-my-wife-serves-the-king.json](./385243-my-wife-serves-the-king.json) |
 | My Wife Sucked a Futanari's Toes | 341356 | [341356-my-wife-sucked-a-futanaris-toes.json](./341356-my-wife-sucked-a-futanaris-toes.json) |
+| My Wife Threw Out My Card Collection (So I Bought a Dump to Find Them All) | 354121 | [354121-my-wife-threw-out-my-card-collection-so-i-bought-a-dump-to-find-them-all.json](./354121-my-wife-threw-out-my-card-collection-so-i-bought-a-dump-to-find-them-all.json) |
 | My Wife Wants to Be a Professional Cosplayer?! | 380787 | [380787-my-wife-wants-to-be-a-professional-cosplayer.json](./380787-my-wife-wants-to-be-a-professional-cosplayer.json) |
 | My Winter Car | 379608 | [379608-my-winter-car.json](./379608-my-winter-car.json) |
 | My Winter Drive | 380505 | [380505-my-winter-drive.json](./380505-my-winter-drive.json) |
