@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V Rising: Razer Night Serpent Pack | 297495 | [297495-v-rising-razer-night-serpent-pack.json](./297495-v-rising-razer-night-serpent-pack.json) |
 | V Rising: Sinister Evolution Pack | 297497 | [297497-v-rising-sinister-evolution-pack.json](./297497-v-rising-sinister-evolution-pack.json) |
 | V tylu vraga 2: Brat'ya po oruzhiyu | 383942 | [383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json](./383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json) |
+| V tylu vraga: Diversanty 2 | 383881 | [383881-v-tylu-vraga-diversanty-2.json](./383881-v-tylu-vraga-diversanty-2.json) |
 | V tylu vraga: Diversanty 3 | 383941 | [383941-v-tylu-vraga-diversanty-3.json](./383941-v-tylu-vraga-diversanty-3.json) |
 | V-Air Traffic Control | 251958 | [251958-v-air-traffic-control.json](./251958-v-air-traffic-control.json) |
 | V-Ball: Beach Volley Heroes | 72234 | [72234-v-ball-beach-volley-heroes.json](./72234-v-ball-beach-volley-heroes.json) |
@@ -1901,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VHS Collection: Goodnight Me | 321460 | [321460-vhs-collection-goodnight-me.json](./321460-vhs-collection-goodnight-me.json) |
 | VHS Nights: The Tidy Up Shift | 419889 | [419889-vhs-nights-the-tidy-up-shift.json](./419889-vhs-nights-the-tidy-up-shift.json) |
 | VHS Platform: 2D | 193133 | [193133-vhs-platform-2d.json](./193133-vhs-platform-2d.json) |
+| VHS Romance | 383876 | [383876-vhs-romance.json](./383876-vhs-romance.json) |
 | VHS Slaughter | 301557 | [301557-vhs-slaughter.json](./301557-vhs-slaughter.json) |
 | VHS Tapes | 422442 | [422442-vhs-tapes.json](./422442-vhs-tapes.json) |
 | VHS Vermin | 379728 | [379728-vhs-vermin.json](./379728-vhs-vermin.json) |
@@ -3271,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivaldia 2 | 272358 | [272358-vivaldia-2.json](./272358-vivaldia-2.json) |
 | Vivarium | 354306 | [354306-vivarium.json](./354306-vivarium.json) |
 | Vivarium: Summer Vacay Update | 354376 | [354376-vivarium-summer-vacay-update.json](./354376-vivarium-summer-vacay-update.json) |
+| Vivariums | 383867 | [383867-vivariums.json](./383867-vivariums.json) |
 | Vivat Rex | 235674 | [235674-vivat-rex.json](./235674-vivat-rex.json) |
 | Vivat Sloboda | 283608 | [283608-vivat-sloboda.json](./283608-vivat-sloboda.json) |
 | Vivat Slovakia | 216496 | [216496-vivat-slovakia.json](./216496-vivat-slovakia.json) |
