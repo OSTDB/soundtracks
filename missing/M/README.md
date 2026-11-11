@@ -17673,6 +17673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonday | 221006 | [221006-moonday.json](./221006-moonday.json) |
 | MoonDigger | 83830 | [83830-moondigger.json](./83830-moondigger.json) |
 | Moondrop | 185019 | [185019-moondrop.json](./185019-moondrop.json) |
+| MoonDrop Chronicles | 370606 | [370606-moondrop-chronicles.json](./370606-moondrop-chronicles.json) |
 | Moondrop Isle | 306861 | [306861-moondrop-isle.json](./306861-moondrop-isle.json) |
 | Moondusk Masquerade | 334499 | [334499-moondusk-masquerade.json](./334499-moondusk-masquerade.json) |
 | Moondust | 23208 | [23208-moondust.json](./23208-moondust.json) |
