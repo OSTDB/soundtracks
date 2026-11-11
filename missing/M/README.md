@@ -6145,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matris | 32649 | [32649-matris.json](./32649-matris.json) |
 | Matrix Blocks | 149463 | [149463-matrix-blocks.json](./149463-matrix-blocks.json) |
 | Matrix Brain Twister | 367127 | [367127-matrix-brain-twister.json](./367127-matrix-brain-twister.json) |
+| Matrix Bro | 337350 | [337350-matrix-bro.json](./337350-matrix-bro.json) |
 | Matrix Bullet | 266766 | [266766-matrix-bullet.json](./266766-matrix-bullet.json) |
 | Matrix Hearts: Season 1 | 389800 | [389800-matrix-hearts-season-1.json](./389800-matrix-hearts-season-1.json) |
 | Matrix Jump | 215848 | [215848-matrix-jump.json](./215848-matrix-jump.json) |
@@ -21217,6 +21218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
 | Mutant Hunter | 338909 | [338909-mutant-hunter.json](./338909-mutant-hunter.json) |
 | Mutant Karate Canary | 214156 | [214156-mutant-karate-canary.json](./214156-mutant-karate-canary.json) |
+| Mutant Kingdom | 337335 | [337335-mutant-kingdom.json](./337335-mutant-kingdom.json) |
 | Mutant League Football | 46254 | [46254-mutant-league-football.json](./46254-mutant-league-football.json) |
 | Mutant League Hockey | 46253 | [46253-mutant-league-hockey.json](./46253-mutant-league-hockey.json) |
 | Mutant Legion | 330484 | [330484-mutant-legion.json](./330484-mutant-legion.json) |
