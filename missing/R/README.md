@@ -5197,6 +5197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics: The Card Game | 347980 | [347980-relics-the-card-game.json](./347980-relics-the-card-game.json) |
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
 | Relicta In Memoriam | 420040 | [420040-relicta-in-memoriam.json](./420040-relicta-in-memoriam.json) |
+| Relictus: Blackout | 338426 | [338426-relictus-blackout.json](./338426-relictus-blackout.json) |
 | ReliCursed | 420044 | [420044-relicursed.json](./420044-relicursed.json) |
 | RelicWar | 345809 | [345809-relicwar.json](./345809-relicwar.json) |
 | Relief | 404831 | [404831-relief.json](./404831-relief.json) |
