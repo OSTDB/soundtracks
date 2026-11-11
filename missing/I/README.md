@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Remember This Dream | 314905 | [314905-i-remember-this-dream.json](./314905-i-remember-this-dream.json) |
 | I Rented a Boat | 229469 | [229469-i-rented-a-boat.json](./229469-i-rented-a-boat.json) |
 | I ride a Scooter | 117444 | [117444-i-ride-a-scooter.json](./117444-i-ride-a-scooter.json) |
+| I Rizzed Up a Femboy | 382092 | [382092-i-rizzed-up-a-femboy.json](./382092-i-rizzed-up-a-femboy.json) |
 | I Saw a Flying Saucer | 369092 | [369092-i-saw-a-flying-saucer.json](./369092-i-saw-a-flying-saucer.json) |
 | I Saw A Strange Little Man | 301368 | [301368-i-saw-a-strange-little-man.json](./301368-i-saw-a-strange-little-man.json) |
 | i saw her across the world | 293991 | [293991-i-saw-her-across-the-world.json](./293991-i-saw-her-across-the-world.json) |
