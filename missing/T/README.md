@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails' High Flying Adventure | 331391 | [331391-tails-high-flying-adventure.json](./331391-tails-high-flying-adventure.json) |
 | Tails' Nightmare | 278076 | [278076-tails-nightmare.json](./278076-tails-nightmare.json) |
 | Tails' Nightmare 2 | 307584 | [307584-tails-nightmare-2.json](./307584-tails-nightmare-2.json) |
+| Tails' Nightmare 3 | 332145 | [332145-tails-nightmare-3.json](./332145-tails-nightmare-3.json) |
 | Tails' Picross | 321400 | [321400-tails-picross.json](./321400-tails-picross.json) |
 | Tails' Skypatrol | 198593 | [198593-tails-skypatrol.json](./198593-tails-skypatrol.json) |
 | Tails' Skypatrol | 45796 | [45796-tails-skypatrol.json](./45796-tails-skypatrol.json) |
@@ -2902,6 +2903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Master: Pirates Retreat | 377716 | [377716-tavern-master-pirates-retreat.json](./377716-tavern-master-pirates-retreat.json) |
 | Tavern of Empire | 248670 | [248670-tavern-of-empire.json](./248670-tavern-of-empire.json) |
 | Tavern of Gods | 149261 | [149261-tavern-of-gods.json](./149261-tavern-of-gods.json) |
+| Tavern Owner Simulator | 332155 | [332155-tavern-owner-simulator.json](./332155-tavern-owner-simulator.json) |
 | Tavern Revisited | 308871 | [308871-tavern-revisited.json](./308871-tavern-revisited.json) |
 | Tavern Rivals | 417566 | [417566-tavern-rivals.json](./417566-tavern-rivals.json) |
 | Tavern Rumble: Roguelike Card | 256517 | [256517-tavern-rumble-roguelike-card.json](./256517-tavern-rumble-roguelike-card.json) |
@@ -10061,6 +10063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Finals: FNATIC TGM25 | 375248 | [375248-the-finals-fnatic-tgm25.json](./375248-the-finals-fnatic-tgm25.json) |
 | The Finals: Funkomatic 2000 Set | 409997 | [409997-the-finals-funkomatic-2000-set.json](./409997-the-finals-funkomatic-2000-set.json) |
 | The Finals: GEN. G TGM25 | 375246 | [375246-the-finals-gen-g-tgm25.json](./375246-the-finals-gen-g-tgm25.json) |
+| The Finals: Metro Drifter Set | 332104 | [332104-the-finals-metro-drifter-set.json](./332104-the-finals-metro-drifter-set.json) |
 | The Finals: Season 1 | 279659 | [279659-the-finals-season-1.json](./279659-the-finals-season-1.json) |
 | The Finals: Season 10 - Fantasy League | 398016 | [398016-the-finals-season-10-fantasy-league.json](./398016-the-finals-season-10-fantasy-league.json) |
 | The Finals: Season 11 - Galaxy Masters! | 409700 | [409700-the-finals-season-11-galaxy-masters.json](./409700-the-finals-season-11-galaxy-masters.json) |
@@ -16904,6 +16907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Safeguard Garrison | 29672 | [29672-the-safeguard-garrison.json](./29672-the-safeguard-garrison.json) |
 | The Safeguard Garrison 2 | 28899 | [28899-the-safeguard-garrison-2.json](./28899-the-safeguard-garrison-2.json) |
 | The Safeguard Garrison: Space Colonies | 43159 | [43159-the-safeguard-garrison-space-colonies.json](./43159-the-safeguard-garrison-space-colonies.json) |
+| The SaGa of a Lone Man | 332128 | [332128-the-saga-of-a-lone-man.json](./332128-the-saga-of-a-lone-man.json) |
 | The Saga of Erik the Viking | 39095 | [39095-the-saga-of-erik-the-viking.json](./39095-the-saga-of-erik-the-viking.json) |
 | The Saga of Nino's Transmigration | 120389 | [120389-the-saga-of-ninos-transmigration.json](./120389-the-saga-of-ninos-transmigration.json) |
 | The Saga of the Candy Scroll | 345609 | [345609-the-saga-of-the-candy-scroll.json](./345609-the-saga-of-the-candy-scroll.json) |
@@ -18716,7 +18720,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Danny Outfit Pack | 308572 | [308572-the-texas-chain-saw-massacre-danny-outfit-pack.json](./308572-the-texas-chain-saw-massacre-danny-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Danny Outfit Pack 2 | 350737 | [350737-the-texas-chain-saw-massacre-danny-outfit-pack-2.json](./350737-the-texas-chain-saw-massacre-danny-outfit-pack-2.json) |
 | The Texas Chain Saw Massacre: Denim Outfit Pack | 351011 | [351011-the-texas-chain-saw-massacre-denim-outfit-pack.json](./351011-the-texas-chain-saw-massacre-denim-outfit-pack.json) |
+| The Texas Chain Saw Massacre: Execution Pack 3 | 332101 | [332101-the-texas-chain-saw-massacre-execution-pack-3.json](./332101-the-texas-chain-saw-massacre-execution-pack-3.json) |
 | The Texas Chain Saw Massacre: Execution Pack 4 | 350741 | [350741-the-texas-chain-saw-massacre-execution-pack-4.json](./350741-the-texas-chain-saw-massacre-execution-pack-4.json) |
+| The Texas Chain Saw Massacre: Hands | 332102 | [332102-the-texas-chain-saw-massacre-hands.json](./332102-the-texas-chain-saw-massacre-hands.json) |
 | The Texas Chain Saw Massacre: Hands Suspenders Outfit | 351020 | [351020-the-texas-chain-saw-massacre-hands-suspenders-outfit.json](./351020-the-texas-chain-saw-massacre-hands-suspenders-outfit.json) |
 | The Texas Chain Saw Massacre: Hitchhiker Outfit Pack 1 | 350732 | [350732-the-texas-chain-saw-massacre-hitchhiker-outfit-pack-1.json](./350732-the-texas-chain-saw-massacre-hitchhiker-outfit-pack-1.json) |
 | The Texas Chain Saw Massacre: Johnny Razor-sharp Outfit | 308574 | [308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json](./308574-the-texas-chain-saw-massacre-johnny-razor-sharp-outfit.json) |
@@ -18727,6 +18733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Leland Outfit Pack | 273836 | [273836-the-texas-chain-saw-massacre-leland-outfit-pack.json](./273836-the-texas-chain-saw-massacre-leland-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Leland Outfit Pack 2 | 350735 | [350735-the-texas-chain-saw-massacre-leland-outfit-pack-2.json](./350735-the-texas-chain-saw-massacre-leland-outfit-pack-2.json) |
 | The Texas Chain Saw Massacre: Leland Outfit Pack 3 | 350743 | [350743-the-texas-chain-saw-massacre-leland-outfit-pack-3.json](./350743-the-texas-chain-saw-massacre-leland-outfit-pack-3.json) |
+| The Texas Chain Saw Massacre: Maria | 332103 | [332103-the-texas-chain-saw-massacre-maria.json](./332103-the-texas-chain-saw-massacre-maria.json) |
 | The Texas Chain Saw Massacre: Maria Outfit Pack 1 | 350742 | [350742-the-texas-chain-saw-massacre-maria-outfit-pack-1.json](./350742-the-texas-chain-saw-massacre-maria-outfit-pack-1.json) |
 | The Texas Chain Saw Massacre: Nancy | 278359 | [278359-the-texas-chain-saw-massacre-nancy.json](./278359-the-texas-chain-saw-massacre-nancy.json) |
 | The Texas Chain Saw Massacre: Nancy Prim 'N Proper Outfit | 308573 | [308573-the-texas-chain-saw-massacre-nancy-prim-n-proper-outfit.json](./308573-the-texas-chain-saw-massacre-nancy-prim-n-proper-outfit.json) |
@@ -20161,6 +20168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The will of space | 271567 | [271567-the-will-of-space.json](./271567-the-will-of-space.json) |
 | The Williams Family Sacrifice | 385860 | [385860-the-williams-family-sacrifice.json](./385860-the-williams-family-sacrifice.json) |
 | The Willow Man | 244557 | [244557-the-willow-man.json](./244557-the-willow-man.json) |
+| The Willowmist Emporium of Antiques & Curiosities | 332131 | [332131-the-willowmist-emporium-of-antiques-and-curiosities.json](./332131-the-willowmist-emporium-of-antiques-and-curiosities.json) |
 | The Wilting Amaranth | 102416 | [102416-the-wilting-amaranth.json](./102416-the-wilting-amaranth.json) |
 | The Wind | 232769 | [232769-the-wind.json](./232769-the-wind.json) |
 | The Wind and the Wisp | 359994 | [359994-the-wind-and-the-wisp.json](./359994-the-wind-and-the-wisp.json) |
@@ -29884,6 +29892,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: Blackpool Branches: Preston - Blackpool & Ormskirk Route Add-On | 279149 | [279149-train-sim-world-4-blackpool-branches-preston-blackpool-and-ormskirk-route-add-on.json](./279149-train-sim-world-4-blackpool-branches-preston-blackpool-and-ormskirk-route-add-on.json) |
 | Train Sim World 4: Cargo Line Vol. 1 - Petroleum | 280244 | [280244-train-sim-world-4-cargo-line-vol-1-petroleum.json](./280244-train-sim-world-4-cargo-line-vol-1-petroleum.json) |
 | Train Sim World 4: Cargo Line Vol. 2 - Aggregates | 310370 | [310370-train-sim-world-4-cargo-line-vol-2-aggregates.json](./310370-train-sim-world-4-cargo-line-vol-2-aggregates.json) |
+| Train Sim World 4: Cathcart Circle Line - Glasgow - Newton & Neilston | 332114 | [332114-train-sim-world-4-cathcart-circle-line-glasgow-newton-and-neilston.json](./332114-train-sim-world-4-cathcart-circle-line-glasgow-newton-and-neilston.json) |
+| Train Sim World 4: Clinchfield Railroad - Elkhorn - Dante | 332115 | [332115-train-sim-world-4-clinchfield-railroad-elkhorn-dante.json](./332115-train-sim-world-4-clinchfield-railroad-elkhorn-dante.json) |
 | Train Sim World 4: East Coast Main Line - Peterborough - Doncaster Route | 269354 | [269354-train-sim-world-4-east-coast-main-line-peterborough-doncaster-route.json](./269354-train-sim-world-4-east-coast-main-line-peterborough-doncaster-route.json) |
 | Train Sim World 4: Edinburgh - Glasgow: Engineering Express Pack | 288920 | [288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json](./288920-train-sim-world-4-edinburgh-glasgow-engineering-express-pack.json) |
 | Train Sim World 4: Fife Circle Line - Edinburgh: Markinch via Dunfermline & Kirkcaldy Route | 290905 | [290905-train-sim-world-4-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route.json](./290905-train-sim-world-4-fife-circle-line-edinburgh-markinch-via-dunfermline-and-kirkcaldy-route.json) |
@@ -29893,9 +29903,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 4: London Overground Suffragette line: Gospel Oak - Barking Riverside Route Add-On | 293692 | [293692-train-sim-world-4-london-overground-suffragette-line-gospel-oak-barking-riverside-route-add-on.json](./293692-train-sim-world-4-london-overground-suffragette-line-gospel-oak-barking-riverside-route-add-on.json) |
 | Train Sim World 4: Maintalbahn: Aschaffenburg - Miltenberg Route Add-On | 279147 | [279147-train-sim-world-4-maintalbahn-aschaffenburg-miltenberg-route-add-on.json](./279147-train-sim-world-4-maintalbahn-aschaffenburg-miltenberg-route-add-on.json) |
 | Train Sim World 4: Nahverkehr Dresden - Riesa Route Add-On | 307970 | [307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json](./307970-train-sim-world-4-nahverkehr-dresden-riesa-route-add-on.json) |
+| Train Sim World 4: Peninsula Corridor - San Francisco - San Jose | 332116 | [332116-train-sim-world-4-peninsula-corridor-san-francisco-san-jose.json](./332116-train-sim-world-4-peninsula-corridor-san-francisco-san-jose.json) |
 | Train Sim World 4: RhB Arosa Aggregates Pack | 277587 | [277587-train-sim-world-4-rhb-arosa-aggregates-pack.json](./277587-train-sim-world-4-rhb-arosa-aggregates-pack.json) |
 | Train Sim World 4: S-Bahn Vorarlberg - Lindau - Bludenz Route | 269322 | [269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json](./269322-train-sim-world-4-s-bahn-vorarlberg-lindau-bludenz-route.json) |
 | Train Sim World 4: Semmeringbahn - Wiener Neustadt - Mürzzuschlag Route | 298259 | [298259-train-sim-world-4-semmeringbahn-wiener-neustadt-murzzuschlag-route.json](./298259-train-sim-world-4-semmeringbahn-wiener-neustadt-murzzuschlag-route.json) |
+| Train Sim World 4: Spirit of Steam - Liverpool Lime Street - Crewe | 332117 | [332117-train-sim-world-4-spirit-of-steam-liverpool-lime-street-crewe.json](./332117-train-sim-world-4-spirit-of-steam-liverpool-lime-street-crewe.json) |
 | Train Sim World 4: UK Regional Edition | 268835 | [268835-train-sim-world-4-uk-regional-edition.json](./268835-train-sim-world-4-uk-regional-edition.json) |
 | Train Sim World 4: USA Regional Edition | 268838 | [268838-train-sim-world-4-usa-regional-edition.json](./268838-train-sim-world-4-usa-regional-edition.json) |
 | Train Sim World 5 | 314215 | [314215-train-sim-world-5.json](./314215-train-sim-world-5.json) |
@@ -29983,6 +29995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 5: Metrolink Holiday Train Pack | 336879 | [336879-train-sim-world-5-metrolink-holiday-train-pack.json](./336879-train-sim-world-5-metrolink-holiday-train-pack.json) |
 | Train Sim World 5: Midland Main Line: Leicester - Derby & Nottingham Route Add-On | 359947 | [359947-train-sim-world-5-midland-main-line-leicester-derby-and-nottingham-route-add-on.json](./359947-train-sim-world-5-midland-main-line-leicester-derby-and-nottingham-route-add-on.json) |
 | Train Sim World 5: Nahverkehr Dresden - Riesa Route Add-On | 329323 | [329323-train-sim-world-5-nahverkehr-dresden-riesa-route-add-on.json](./329323-train-sim-world-5-nahverkehr-dresden-riesa-route-add-on.json) |
+| Train Sim World 5: NEC - New York - Trenton | 332098 | [332098-train-sim-world-5-nec-new-york-trenton.json](./332098-train-sim-world-5-nec-new-york-trenton.json) |
 | Train Sim World 5: New Journeys - CSX SD40 Add-On | 359968 | [359968-train-sim-world-5-new-journeys-csx-sd40-add-on.json](./359968-train-sim-world-5-new-journeys-csx-sd40-add-on.json) |
 | Train Sim World 5: New Journeys - S-Bahn Köln BR 423 Add-On | 359172 | [359172-train-sim-world-5-new-journeys-s-bahn-koln-br-423-add-on.json](./359172-train-sim-world-5-new-journeys-s-bahn-koln-br-423-add-on.json) |
 | Train Sim World 5: New Journeys - Silver 1972 Stock Add-On | 359934 | [359934-train-sim-world-5-new-journeys-silver-1972-stock-add-on.json](./359934-train-sim-world-5-new-journeys-silver-1972-stock-add-on.json) |
