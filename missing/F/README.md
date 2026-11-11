@@ -9873,6 +9873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Penalty | 234315 | [234315-football-penalty.json](./234315-football-penalty.json) |
 | Football Pitch Simulator | 326428 | [326428-football-pitch-simulator.json](./326428-football-pitch-simulator.json) |
 | Football Players Quiz | 232058 | [232058-football-players-quiz.json](./232058-football-players-quiz.json) |
+| Football Power | 372348 | [372348-football-power.json](./372348-football-power.json) |
 | Football President | 82313 | [82313-football-president.json](./82313-football-president.json) |
 | Football Quiz | 340926 | [340926-football-quiz.json](./340926-football-quiz.json) |
 | Football Quiz Deluxe | 116397 | [116397-football-quiz-deluxe.json](./116397-football-quiz-deluxe.json) |
