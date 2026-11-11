@@ -3277,6 +3277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Up: Skibidi Together | 297819 | [297819-only-up-skibidi-together.json](./297819-only-up-skibidi-together.json) |
 | Only Up: With Friends | 259952 | [259952-only-up-with-friends.json](./259952-only-up-with-friends.json) |
 | Only Up! | 263896 | [263896-only-up.json](./263896-only-up.json) |
+| Only Up! Remaster | 349568 | [349568-only-up-remaster.json](./349568-only-up-remaster.json) |
 | Only Up? Climb the Tower! | 343245 | [343245-only-up-climb-the-tower.json](./343245-only-up-climb-the-tower.json) |
 | Only Way is Down | 304447 | [304447-only-way-is-down.json](./304447-only-way-is-down.json) |
 | Only Way Up! Parkour Jump Simulator | 266245 | [266245-only-way-up-parkour-jump-simulator.json](./266245-only-way-up-parkour-jump-simulator.json) |
@@ -4430,6 +4431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oriental Blue: Ao no Tengai | 49414 | [49414-oriental-blue-ao-no-tengai.json](./49414-oriental-blue-ao-no-tengai.json) |
 | Oriental Bundle | 284749 | [284749-oriental-bundle.json](./284749-oriental-bundle.json) |
 | Oriental Dreams | 54263 | [54263-oriental-dreams.json](./54263-oriental-dreams.json) |
+| Oriental Dreams: The Forgotten Realm | 349020 | [349020-oriental-dreams-the-forgotten-realm.json](./349020-oriental-dreams-the-forgotten-realm.json) |
 | Oriental Empires | 35526 | [35526-oriental-empires.json](./35526-oriental-empires.json) |
 | Oriental Empires: Three Kingdoms | 154558 | [154558-oriental-empires-three-kingdoms.json](./154558-oriental-empires-three-kingdoms.json) |
 | Oriental Games | 74906 | [74906-oriental-games.json](./74906-oriental-games.json) |
