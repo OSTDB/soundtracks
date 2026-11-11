@@ -2578,6 +2578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm 2+ | 412347 | [412347-farm-2.json](./412347-farm-2.json) |
 | Farm Alarm | 176327 | [176327-farm-alarm.json](./176327-farm-alarm.json) |
 | Farm and Click - Idle Hell Clicker | 95862 | [95862-farm-and-click-idle-hell-clicker.json](./95862-farm-and-click-idle-hell-clicker.json) |
+| Farm and Dishes | 370035 | [370035-farm-and-dishes.json](./370035-farm-and-dishes.json) |
 | Farm and Fix Simulator | 244785 | [244785-farm-and-fix-simulator.json](./244785-farm-and-fix-simulator.json) |
 | Farm and Girls | 367046 | [367046-farm-and-girls.json](./367046-farm-and-girls.json) |
 | Farm and Mine | 184858 | [184858-farm-and-mine.json](./184858-farm-and-mine.json) |
@@ -9947,6 +9948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foqus | 46609 | [46609-foqus.json](./46609-foqus.json) |
 | For a Better Country | 121373 | [121373-for-a-better-country.json](./121373-for-a-better-country.json) |
 | For a Change | 60113 | [60113-for-a-change.json](./60113-for-a-change.json) |
+| For a Few Minutes | 370591 | [370591-for-a-few-minutes.json](./370591-for-a-few-minutes.json) |
 | For a Place by the Putrid Sea | 297600 | [297600-for-a-place-by-the-putrid-sea.json](./297600-for-a-place-by-the-putrid-sea.json) |
 | For a Reason | 264437 | [264437-for-a-reason.json](./264437-for-a-reason.json) |
 | For a Vast Future | 144170 | [144170-for-a-vast-future.json](./144170-for-a-vast-future.json) |
@@ -12310,6 +12312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Jazz Party Animals | 185271 | [185271-free-jazz-party-animals.json](./185271-free-jazz-party-animals.json) |
 | Free Kick | 111306 | [111306-free-kick.json](./111306-free-kick.json) |
 | Free Lives Collection | 300781 | [300781-free-lives-collection.json](./300781-free-lives-collection.json) |
+| Free Lottery | 370038 | [370038-free-lottery.json](./370038-free-lottery.json) |
 | Free Nights with Freddy's | 242308 | [242308-free-nights-with-freddys.json](./242308-free-nights-with-freddys.json) |
 | Free Ninja | 317635 | [317635-free-ninja.json](./317635-free-ninja.json) |
 | Free Puzzle | 407946 | [407946-free-puzzle.json](./407946-free-puzzle.json) |
