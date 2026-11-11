@@ -8778,6 +8778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devileader | 152576 | [152576-devileader.json](./152576-devileader.json) |
 | Deviled | 262290 | [262290-deviled.json](./262290-deviled.json) |
 | Deviled Dice | 397711 | [397711-deviled-dice.json](./397711-deviled-dice.json) |
+| DeviLevel: Try Again | 353559 | [353559-devilevel-try-again.json](./353559-devilevel-try-again.json) |
 | Devilgotchi | 229844 | [229844-devilgotchi.json](./229844-devilgotchi.json) |
 | Devilian | 11827 | [11827-devilian.json](./11827-devilian.json) |
 | Devilish | 21546 | [21546-devilish.json](./21546-devilish.json) |
