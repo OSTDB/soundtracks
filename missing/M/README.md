@@ -16138,6 +16138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Simulator: Brokeville | 379601 | [379601-money-simulator-brokeville.json](./379601-money-simulator-brokeville.json) |
 | Money Swipe | 232270 | [232270-money-swipe.json](./232270-money-swipe.json) |
 | Money Theft | 341249 | [341249-money-theft.json](./341249-money-theft.json) |
+| Money Theft 3: Last Mission | 383874 | [383874-money-theft-3-last-mission.json](./383874-money-theft-3-last-mission.json) |
 | Money Town | 47294 | [47294-money-town.json](./47294-money-town.json) |
 | Money Trails | 406675 | [406675-money-trails.json](./406675-money-trails.json) |
 | Money Transporter | 272602 | [272602-money-transporter.json](./272602-money-transporter.json) |
