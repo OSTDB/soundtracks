@@ -13314,6 +13314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
 | Mineral Defense | 326685 | [326685-mineral-defense.json](./326685-mineral-defense.json) |
 | Mineral Madness | 265829 | [265829-mineral-madness.json](./265829-mineral-madness.json) |
+| Mineral Mining Simulator | 392702 | [392702-mineral-mining-simulator.json](./392702-mineral-mining-simulator.json) |
 | Mineral Zone | 420927 | [420927-mineral-zone.json](./420927-mineral-zone.json) |
 | Mineralis | 212003 | [212003-mineralis.json](./212003-mineralis.json) |
 | MineRalph | 112260 | [112260-mineralph.json](./112260-mineralph.json) |
@@ -16896,6 +16897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Luv Radio | 302217 | [302217-monster-luv-radio.json](./302217-monster-luv-radio.json) |
 | Monster Madness Online | 62533 | [62533-monster-madness-online.json](./62533-monster-madness-online.json) |
 | Monster Madness: Battle for Suburbia | 7076 | [7076-monster-madness-battle-for-suburbia.json](./7076-monster-madness-battle-for-suburbia.json) |
+| Monster Mage Madness | 392547 | [392547-monster-mage-madness.json](./392547-monster-mage-madness.json) |
 | Monster Maker | 220645 | [220645-monster-maker.json](./220645-monster-maker.json) |
 | Monster Maker | 418581 | [418581-monster-maker.json](./418581-monster-maker.json) |
 | Monster Maker 4: Flash Card | 49715 | [49715-monster-maker-4-flash-card.json](./49715-monster-maker-4-flash-card.json) |
