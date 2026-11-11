@@ -3656,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lemon Street | 180937 | [180937-lemon-street.json](./180937-lemon-street.json) |
 | Lemonade | 366258 | [366258-lemonade.json](./366258-lemonade.json) |
 | Lemonade Apocalypse | 290965 | [290965-lemonade-apocalypse.json](./290965-lemonade-apocalypse.json) |
+| Lemonade Apocalypse | 346297 | [346297-lemonade-apocalypse.json](./346297-lemonade-apocalypse.json) |
 | Lemonade Stand | 207283 | [207283-lemonade-stand.json](./207283-lemonade-stand.json) |
 | Lemonade Stand | 234287 | [234287-lemonade-stand.json](./234287-lemonade-stand.json) |
 | Lemonade Tycoon | 11824 | [11824-lemonade-tycoon.json](./11824-lemonade-tycoon.json) |
@@ -7125,6 +7126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Local Network | 178019 | [178019-local-network.json](./178019-local-network.json) |
 | Local News with Cliff Rockslide | 237725 | [237725-local-news-with-cliff-rockslide.json](./237725-local-news-with-cliff-rockslide.json) |
 | Local Paper Small Town | 195181 | [195181-local-paper-small-town.json](./195181-local-paper-small-town.json) |
+| Local Supermarket Tycoon | 346296 | [346296-local-supermarket-tycoon.json](./346296-local-supermarket-tycoon.json) |
 | Local Zombies | 389712 | [389712-local-zombies.json](./389712-local-zombies.json) |
 | Localhost | 68110 | [68110-localhost.json](./68110-localhost.json) |
 | Locally Sourced Anthology I: A Space Atlas | 309188 | [309188-locally-sourced-anthology-i-a-space-atlas.json](./309188-locally-sourced-anthology-i-a-space-atlas.json) |
@@ -8695,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Random: The Eternal Die - Cursed Couture | 375591 | [375591-lost-in-random-the-eternal-die-cursed-couture.json](./375591-lost-in-random-the-eternal-die-cursed-couture.json) |
 | Lost in Random: The Eternal Die - Fortune Edition | 343683 | [343683-lost-in-random-the-eternal-die-fortune-edition.json](./343683-lost-in-random-the-eternal-die-fortune-edition.json) |
 | Lost in Random: The Eternal Die - Stitched in Style | 361062 | [361062-lost-in-random-the-eternal-die-stitched-in-style.json](./361062-lost-in-random-the-eternal-die-stitched-in-style.json) |
+| Lost In Random: The Eternal Die - Wardrobe Expansion | 345728 | [345728-lost-in-random-the-eternal-die-wardrobe-expansion.json](./345728-lost-in-random-the-eternal-die-wardrobe-expansion.json) |
 | Lost in Red Valley | 165636 | [165636-lost-in-red-valley.json](./165636-lost-in-red-valley.json) |
 | Lost In Reefs 2 | 87063 | [87063-lost-in-reefs-2.json](./87063-lost-in-reefs-2.json) |
 | Lost In Reefs 3 | 89565 | [89565-lost-in-reefs-3.json](./89565-lost-in-reefs-3.json) |
@@ -9556,6 +9559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveChess: The Greek Era | 71868 | [71868-lovechess-the-greek-era.json](./71868-lovechess-the-greek-era.json) |
 | LoveChoice | 109733 | [109733-lovechoice.json](./109733-lovechoice.json) |
 | LoveCraft | 286544 | [286544-lovecraft.json](./286544-lovecraft.json) |
+| Lovecraft Academy | 346312 | [346312-lovecraft-academy.json](./346312-lovecraft-academy.json) |
 | Lovecraft Game | 199196 | [199196-lovecraft-game.json](./199196-lovecraft-game.json) |
 | Lovecraft Quest: A Comix Game | 110643 | [110643-lovecraft-quest-a-comix-game.json](./110643-lovecraft-quest-a-comix-game.json) |
 | Lovecraft Tales | 103394 | [103394-lovecraft-tales.json](./103394-lovecraft-tales.json) |
