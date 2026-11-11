@@ -710,7 +710,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Damper/Glooper | 319577 | [319577-damper-glooper.json](./319577-damper-glooper.json) |
 | Dampf: The Cozy Tower Defense | 275756 | [275756-dampf-the-cozy-tower-defense.json](./275756-dampf-the-cozy-tower-defense.json) |
 | Dampftraum | 201111 | [201111-dampftraum.json](./201111-dampftraum.json) |
-| Damsel | 58533 | [58533-damsel.json](./58533-damsel.json) |
 | Damsel: Chapter One - Stress on the Tress | 166967 | [166967-damsel-chapter-one-stress-on-the-tress.json](./166967-damsel-chapter-one-stress-on-the-tress.json) |
 | Damsels in Distress | 276199 | [276199-damsels-in-distress.json](./276199-damsels-in-distress.json) |
 | Damsels in Distress | 404525 | [404525-damsels-in-distress.json](./404525-damsels-in-distress.json) |
@@ -5546,7 +5545,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deemo | 27028 | [27028-deemo.json](./27028-deemo.json) |
 | Deemo II | 127797 | [127797-deemo-ii.json](./127797-deemo-ii.json) |
 | Deemo Reborn: Premium Edition | 167005 | [167005-deemo-reborn-premium-edition.json](./167005-deemo-reborn-premium-edition.json) |
-| Deemo: Reborn | 74540 | [74540-deemo-reborn.json](./74540-deemo-reborn.json) |
 | Deemo: Reborn - Aioi Collection | 356573 | [356573-deemo-reborn-aioi-collection.json](./356573-deemo-reborn-aioi-collection.json) |
 | Deemo: Reborn - Classic Song Packs Season Pass | 356587 | [356587-deemo-reborn-classic-song-packs-season-pass.json](./356587-deemo-reborn-classic-song-packs-season-pass.json) |
 | Deemo: Reborn - Cytus Selection vol.1 | 356574 | [356574-deemo-reborn-cytus-selection-vol-1.json](./356574-deemo-reborn-cytus-selection-vol-1.json) |
@@ -20146,7 +20144,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunk It (VR Basketball) | 29710 | [29710-dunk-it-vr-basketball.json](./29710-dunk-it-vr-basketball.json) |
 | Dunk Kids | 46319 | [46319-dunk-kids.json](./46319-dunk-kids.json) |
 | Dunk Line | 87883 | [87883-dunk-line.json](./87883-dunk-line.json) |
-| Dunk Lords | 69481 | [69481-dunk-lords.json](./69481-dunk-lords.json) |
 | Dunk Mania | 39824 | [39824-dunk-mania.json](./39824-dunk-mania.json) |
 | Dunk Nation 3x3 | 83323 | [83323-dunk-nation-3x3.json](./83323-dunk-nation-3x3.json) |
 | Dunk Shot | 40977 | [40977-dunk-shot.json](./40977-dunk-shot.json) |
