@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz & Learn: Food & Drink | 336222 | [336222-quiz-and-learn-food-and-drink.json](./336222-quiz-and-learn-food-and-drink.json) |
 | Quiz & Learn: Geography | 344132 | [344132-quiz-and-learn-geography.json](./344132-quiz-and-learn-geography.json) |
 | Quiz 4 All | 242017 | [242017-quiz-4-all.json](./242017-quiz-4-all.json) |
+| Quiz 50 Ways to Read the Kanji 生 | 334995 | [334995-quiz-50-ways-to-read-the-kanji.json](./334995-quiz-50-ways-to-read-the-kanji.json) |
 | Quiz Aa! Megami-sama: Tatakau Tsubasa to Tomoni | 131572 | [131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json](./131572-quiz-aa-megami-sama-tatakau-tsubasa-to-tomoni.json) |
 | Quiz Academy | 398689 | [398689-quiz-academy.json](./398689-quiz-academy.json) |
 | Quiz Animania | 209744 | [209744-quiz-animania.json](./209744-quiz-animania.json) |
