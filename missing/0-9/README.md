@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1870: Cyberpunk Forever | 145279 | [145279-1870-cyberpunk-forever.json](./145279-1870-cyberpunk-forever.json) |
 | 1873 | 316846 | [316846-1873.json](./316846-1873.json) |
 | 1893: A World's Fair Mystery | 12374 | [12374-1893-a-worlds-fair-mystery.json](./12374-1893-a-worlds-fair-mystery.json) |
+| 1899: Secrets of the Maze | 359671 | [359671-1899-secrets-of-the-maze.json](./359671-1899-secrets-of-the-maze.json) |
 | 18Hell: Lost | 283081 | [283081-18hell-lost.json](./283081-18hell-lost.json) |
 | 18Korea | 192177 | [192177-18korea.json](./192177-18korea.json) |
 | 18th Airborne | 299485 | [299485-18th-airborne.json](./299485-18th-airborne.json) |
@@ -1491,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1990: Die 1993'er Edition | 38854 | [38854-1990-die-1993er-edition.json](./38854-1990-die-1993er-edition.json) |
 | 1991 | 283080 | [283080-1991.json](./283080-1991.json) |
 | 1991 Du Ma Racing | 22428 | [22428-1991-du-ma-racing.json](./22428-1991-du-ma-racing.json) |
+| 1992: Rasputie | 359670 | [359670-1992-rasputie.json](./359670-1992-rasputie.json) |
 | 1993 Shenandoah | 137426 | [137426-1993-shenandoah.json](./137426-1993-shenandoah.json) |
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
 | 1993Tris | 94288 | [94288-1993tris.json](./94288-1993tris.json) |
@@ -3769,6 +3771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Cars: Zig Zag Racer | 240209 | [240209-99-cars-zig-zag-racer.json](./240209-99-cars-zig-zag-racer.json) |
 | 99 Dead Pirates | 240886 | [240886-99-dead-pirates.json](./240886-99-dead-pirates.json) |
 | 99 Fails | 239125 | [239125-99-fails.json](./239125-99-fails.json) |
+| 99 Managers Futsal Edition | 359667 | [359667-99-managers-futsal-edition.json](./359667-99-managers-futsal-edition.json) |
 | 99 Nendohan: Eitango Center 1500 | 133254 | [133254-99-nendohan-eitango-center-1500.json](./133254-99-nendohan-eitango-center-1500.json) |
 | 99 Nights In The Apocalypse | 414522 | [414522-99-nights-in-the-apocalypse.json](./414522-99-nights-in-the-apocalypse.json) |
 | 99 no Namida | 66970 | [66970-99-no-namida.json](./66970-99-no-namida.json) |
@@ -3781,12 +3784,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Waves | 283870 | [283870-99-waves.json](./283870-99-waves.json) |
 | 99 Waves to Die | 35492 | [35492-99-waves-to-die.json](./35492-99-waves-to-die.json) |
 | 99 Ways to Die | 313838 | [313838-99-ways-to-die.json](./313838-99-ways-to-die.json) |
+| 99% | 359669 | [359669-99.json](./359669-99.json) |
 | 99% Can't Spot It! Common Sense Battle | 409671 | [409671-99-cant-spot-it-common-sense-battle.json](./409671-99-cant-spot-it-common-sense-battle.json) |
 | 99% Sky Car Racing | 108858 | [108858-99-sky-car-racing.json](./108858-99-sky-car-racing.json) |
 | 994 W 24th | 31147 | [31147-994-w-24th.json](./31147-994-w-24th.json) |
 | 999 | 104675 | [104675-999.json](./104675-999.json) |
 | 999 Hidden Cats: Brazil Together | 349281 | [349281-999-hidden-cats-brazil-together.json](./349281-999-hidden-cats-brazil-together.json) |
 | 9999 in 1 | 279737 | [279737-9999-in-1.json](./279737-9999-in-1.json) |
+| 99999 Ryo | 359668 | [359668-99999-ryo.json](./359668-99999-ryo.json) |
 | 999999 | 263385 | [263385-999999.json](./263385-999999.json) |
 | 999Seconds!Survivors | 400259 | [400259-999seconds-survivors.json](./400259-999seconds-survivors.json) |
 | 99Bullets | 84689 | [84689-99bullets.json](./84689-99bullets.json) |
