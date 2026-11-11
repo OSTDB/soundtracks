@@ -6048,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windwalker | 14483 | [14483-windwalker.json](./14483-windwalker.json) |
 | Windwalker | 270013 | [270013-windwalker.json](./270013-windwalker.json) |
 | Windwalkers | 9185 | [9185-windwalkers.json](./9185-windwalkers.json) |
+| Windwalkers: Below the Storm | 395925 | [395925-windwalkers-below-the-storm.json](./395925-windwalkers-below-the-storm.json) |
 | Windward | 17902 | [17902-windward.json](./17902-windward.json) |
 | Windward Horizon | 298621 | [298621-windward-horizon.json](./298621-windward-horizon.json) |
 | Windward Rush | 176560 | [176560-windward-rush.json](./176560-windward-rush.json) |
@@ -6219,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingspan: Special Edition | 154223 | [154223-wingspan-special-edition.json](./154223-wingspan-special-edition.json) |
 | Wingspan: The Board Game | 174266 | [174266-wingspan-the-board-game.json](./174266-wingspan-the-board-game.json) |
 | Wingspan: Woodland Wonders Decorative Pack | 310400 | [310400-wingspan-woodland-wonders-decorative-pack.json](./310400-wingspan-woodland-wonders-decorative-pack.json) |
+| WingsSimulations Flight Simulator 2027 | 395600 | [395600-wingssimulations-flight-simulator-2027.json](./395600-wingssimulations-flight-simulator-2027.json) |
 | Wingstar | 94499 | [94499-wingstar.json](./94499-wingstar.json) |
 | Wingsuit Dream | 190389 | [190389-wingsuit-dream.json](./190389-wingsuit-dream.json) |
 | Wingsuit Flying | 108688 | [108688-wingsuit-flying.json](./108688-wingsuit-flying.json) |
