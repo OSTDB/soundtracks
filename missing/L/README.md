@@ -5122,6 +5122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light-It Up | 266253 | [266253-light-it-up.json](./266253-light-it-up.json) |
 | Light-It Up: Complete Edition | 283170 | [283170-light-it-up-complete-edition.json](./283170-light-it-up-complete-edition.json) |
 | Light-It Up: Neon Adventure | 279862 | [279862-light-it-up-neon-adventure.json](./279862-light-it-up-neon-adventure.json) |
+| Light-Strucked | 364130 | [364130-light-strucked.json](./364130-light-strucked.json) |
 | Light-Years Away | 314919 | [314919-light-years-away.json](./314919-light-years-away.json) |
 | Light, Dark or Hrak? | 192259 | [192259-light-dark-or-hrak.json](./192259-light-dark-or-hrak.json) |
 | Light, Wax, Shadow, Wick | 142148 | [142148-light-wax-shadow-wick.json](./142148-light-wax-shadow-wick.json) |
@@ -8561,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Faces. | 388358 | [388358-lost-faces.json](./388358-lost-faces.json) |
 | Lost Fairy: Spirituality Extincted | 83686 | [83686-lost-fairy-spirituality-extincted.json](./83686-lost-fairy-spirituality-extincted.json) |
 | Lost Fleet | 218589 | [218589-lost-fleet.json](./218589-lost-fleet.json) |
+| Lost Flight: Survival | 364137 | [364137-lost-flight-survival.json](./364137-lost-flight-survival.json) |
 | Lost Flower | 267577 | [267577-lost-flower.json](./267577-lost-flower.json) |
 | Lost For Swords | 274511 | [274511-lost-for-swords.json](./274511-lost-for-swords.json) |
 | Lost Forest | 256920 | [256920-lost-forest.json](./256920-lost-forest.json) |
