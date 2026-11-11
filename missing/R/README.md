@@ -196,7 +196,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Invasion: Gold Edition | 82425 | [82425-rabbids-invasion-gold-edition.json](./82425-rabbids-invasion-gold-edition.json) |
 | Rabbids Invasion: The Interactive TV Show | 20308 | [20308-rabbids-invasion-the-interactive-tv-show.json](./20308-rabbids-invasion-the-interactive-tv-show.json) |
 | Rabbids Lab | 50699 | [50699-rabbids-lab.json](./50699-rabbids-lab.json) |
-| Rabbids Land | 5320 | [5320-rabbids-land.json](./5320-rabbids-land.json) |
 | Rabbids Travel in Time 3D | 47641 | [47641-rabbids-travel-in-time-3d.json](./47641-rabbids-travel-in-time-3d.json) |
 | Rabbids: Legends of the Multiverse | 300343 | [300343-rabbids-legends-of-the-multiverse.json](./300343-rabbids-legends-of-the-multiverse.json) |
 | Rabbids: Party of Legends | 201254 | [201254-rabbids-party-of-legends.json](./201254-rabbids-party-of-legends.json) |
@@ -5936,6 +5935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 2 | 287844 | [287844-resident-evil-2.json](./287844-resident-evil-2.json) |
 | Resident Evil 2 | 396728 | [396728-resident-evil-2.json](./396728-resident-evil-2.json) |
 | Resident Evil 2 + Resident Evil 3 Bundle | 167078 | [167078-resident-evil-2-resident-evil-3-bundle.json](./167078-resident-evil-2-resident-evil-3-bundle.json) |
+| Resident Evil 2 demake | 319513 | [319513-resident-evil-2-demake.json](./319513-resident-evil-2-demake.json) |
 | Resident Evil 2: Arcade | 387130 | [387130-resident-evil-2-arcade.json](./387130-resident-evil-2-arcade.json) |
 | Resident Evil 2: Claire Costume '98 | 327113 | [327113-resident-evil-2-claire-costume-98.json](./327113-resident-evil-2-claire-costume-98.json) |
 | Resident Evil 2: Collector's Edition | 105979 | [105979-resident-evil-2-collectors-edition.json](./105979-resident-evil-2-collectors-edition.json) |
@@ -10151,6 +10151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Raid | 13751 | [13751-rocket-raid.json](./13751-rocket-raid.json) |
 | Rocket Ranger | 5486 | [5486-rocket-ranger.json](./5486-rocket-ranger.json) |
 | Rocket Ranger: Emulated Amiga Edition | 154944 | [154944-rocket-ranger-emulated-amiga-edition.json](./154944-rocket-ranger-emulated-amiga-edition.json) |
+| Rocket Rats | 319519 | [319519-rocket-rats.json](./319519-rocket-rats.json) |
 | Rocket Riot | 20479 | [20479-rocket-riot.json](./20479-rocket-riot.json) |
 | Rocket Riot 3D | 106261 | [106261-rocket-riot-3d.json](./106261-rocket-riot-3d.json) |
 | Rocket Riot HD | 20646 | [20646-rocket-riot-hd.json](./20646-rocket-riot-hd.json) |
@@ -13581,6 +13582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rupture | 261821 | [261821-rupture.json](./261821-rupture.json) |
 | Ruptured | 226438 | [226438-ruptured.json](./226438-ruptured.json) |
 | Ruptured Floor | 416635 | [416635-ruptured-floor.json](./416635-ruptured-floor.json) |
+| Ruptus | 319514 | [319514-ruptus.json](./319514-ruptus.json) |
 | Rupupu Cube: Lup Salad | 66137 | [66137-rupupu-cube-lup-salad.json](./66137-rupupu-cube-lup-salad.json) |
 | RuPush | 118476 | [118476-rupush.json](./118476-rupush.json) |
 | Rural Cat Trails | 393290 | [393290-rural-cat-trails.json](./393290-rural-cat-trails.json) |
