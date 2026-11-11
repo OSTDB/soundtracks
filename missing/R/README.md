@@ -9660,6 +9660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Wars: Extreme Destruction | 6014 | [6014-robot-wars-extreme-destruction.json](./6014-robot-wars-extreme-destruction.json) |
 | Robot Wars: Extreme Destruction | 78623 | [78623-robot-wars-extreme-destruction.json](./78623-robot-wars-extreme-destruction.json) |
 | Robot Wars: Metal Mayhem | 50022 | [50022-robot-wars-metal-mayhem.json](./50022-robot-wars-metal-mayhem.json) |
+| Robot Warzone Tactical Assault | 361364 | [361364-robot-warzone-tactical-assault.json](./361364-robot-warzone-tactical-assault.json) |
 | Robot with a Ram Cannon | 357277 | [357277-robot-with-a-ram-cannon.json](./357277-robot-with-a-ram-cannon.json) |
 | Robot Zombies | 180595 | [180595-robot-zombies.json](./180595-robot-zombies.json) |
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
