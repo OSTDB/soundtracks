@@ -5117,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Dragon Girl | 230892 | [230892-pet-dragon-girl.json](./230892-pet-dragon-girl.json) |
 | Pet Evolution | 174765 | [174765-pet-evolution.json](./174765-pet-evolution.json) |
 | Pet Furball | 180451 | [180451-pet-furball.json](./180451-pet-furball.json) |
+| Pet Girl | 385037 | [385037-pet-girl.json](./385037-pet-girl.json) |
 | Pet Grooming Studio | 293207 | [293207-pet-grooming-studio.json](./293207-pet-grooming-studio.json) |
 | Pet Hero vs. Zombie | 341119 | [341119-pet-hero-vs-zombie.json](./341119-pet-hero-vs-zombie.json) |
 | Pet Hospital | 85342 | [85342-pet-hospital.json](./85342-pet-hospital.json) |
@@ -13266,6 +13267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop on Red | 326238 | [326238-poop-on-red.json](./326238-poop-on-red.json) |
 | Poop Plague in Fairyland | 189948 | [189948-poop-plague-in-fairyland.json](./189948-poop-plague-in-fairyland.json) |
 | Poop Prince | 285962 | [285962-poop-prince.json](./285962-poop-prince.json) |
+| Poop Right Now | 385005 | [385005-poop-right-now.json](./385005-poop-right-now.json) |
 | Poop Rocket | 341562 | [341562-poop-rocket.json](./341562-poop-rocket.json) |
 | Poop Slinger | 97031 | [97031-poop-slinger.json](./97031-poop-slinger.json) |
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
@@ -18961,6 +18963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pussy Cum with Me | 370631 | [370631-pussy-cum-with-me.json](./370631-pussy-cum-with-me.json) |
 | Pussy Flip: Purrfect Reversi | 64822 | [64822-pussy-flip-purrfect-reversi.json](./64822-pussy-flip-purrfect-reversi.json) |
 | Pussy Kingdom: Queen of Passion | 278393 | [278393-pussy-kingdom-queen-of-passion.json](./278393-pussy-kingdom-queen-of-passion.json) |
+| Pussy Master: The Wet Pussy Pit | 384993 | [384993-pussy-master-the-wet-pussy-pit.json](./384993-pussy-master-the-wet-pussy-pit.json) |
 | Pussy Password | 335306 | [335306-pussy-password.json](./335306-pussy-password.json) |
 | Pussy Puzzle | 128277 | [128277-pussy-puzzle.json](./128277-pussy-puzzle.json) |
 | Pussy Puzzle: Over 9000 | 141661 | [141661-pussy-puzzle-over-9000.json](./141661-pussy-puzzle-over-9000.json) |
