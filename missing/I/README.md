@@ -5783,6 +5783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion Deutschland | 125313 | [125313-invasion-deutschland.json](./125313-invasion-deutschland.json) |
 | Invasion Eternity | 258218 | [258218-invasion-eternity.json](./258218-invasion-eternity.json) |
 | Invasion Force | 85518 | [85518-invasion-force.json](./85518-invasion-force.json) |
+| Invasion from Beyond | 375709 | [375709-invasion-from-beyond.json](./375709-invasion-from-beyond.json) |
 | Invasion From Planet X2½ | 395608 | [395608-invasion-from-planet-x21-2.json](./395608-invasion-from-planet-x21-2.json) |
 | Invasion From Space | 191063 | [191063-invasion-from-space.json](./191063-invasion-from-space.json) |
 | Invasion Machine | 110597 | [110597-invasion-machine.json](./110597-invasion-machine.json) |
