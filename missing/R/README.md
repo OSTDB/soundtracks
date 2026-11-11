@@ -9937,6 +9937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Car: Ultimate Ball League Machines - Premium Edition | 306523 | [306523-rocket-car-ultimate-ball-league-machines-premium-edition.json](./306523-rocket-car-ultimate-ball-league-machines-premium-edition.json) |
 | Rocket Car: Wheel Rim Collection | 304815 | [304815-rocket-car-wheel-rim-collection.json](./304815-rocket-car-wheel-rim-collection.json) |
 | Rocket Cars | 265427 | [265427-rocket-cars.json](./265427-rocket-cars.json) |
+| Rocket Cars | 388469 | [388469-rocket-cars.json](./388469-rocket-cars.json) |
 | Rocket Carz Racing | 260195 | [260195-rocket-carz-racing.json](./260195-rocket-carz-racing.json) |
 | Rocket Cave Adventure | 160227 | [160227-rocket-cave-adventure.json](./160227-rocket-cave-adventure.json) |
 | Rocket Chameleon | 58750 | [58750-rocket-chameleon.json](./58750-rocket-chameleon.json) |
