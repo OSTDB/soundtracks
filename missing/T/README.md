@@ -3754,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 8: Clive Rosfield | 325597 | [325597-tekken-8-clive-rosfield.json](./325597-tekken-8-clive-rosfield.json) |
 | Tekken 8: Collaboration Set - Clive Rosfield & Phoenix Gate | 384749 | [384749-tekken-8-collaboration-set-clive-rosfield-and-phoenix-gate.json](./384749-tekken-8-collaboration-set-clive-rosfield-and-phoenix-gate.json) |
 | Tekken 8: Eddy Gordo | 296675 | [296675-tekken-8-eddy-gordo.json](./296675-tekken-8-eddy-gordo.json) |
+| Tekken 8: Fahkumram | 352429 | [352429-tekken-8-fahkumram.json](./352429-tekken-8-fahkumram.json) |
 | Tekken 8: Genmaji Temple | 319605 | [319605-tekken-8-genmaji-temple.json](./319605-tekken-8-genmaji-temple.json) |
 | Tekken 8: Heihachi Mishima | 310523 | [310523-tekken-8-heihachi-mishima.json](./310523-tekken-8-heihachi-mishima.json) |
 | Tekken 8: Hibiscus Pack | 317357 | [317357-tekken-8-hibiscus-pack.json](./317357-tekken-8-hibiscus-pack.json) |
@@ -11249,6 +11250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Heist | 24018 | [24018-the-heist.json](./24018-the-heist.json) |
 | The Heist | 268809 | [268809-the-heist.json](./268809-the-heist.json) |
 | The Heist | 78503 | [78503-the-heist.json](./78503-the-heist.json) |
+| The Heist 2 | 352463 | [352463-the-heist-2.json](./352463-the-heist-2.json) |
 | The Heist in LS | 328220 | [328220-the-heist-in-ls.json](./328220-the-heist-in-ls.json) |
 | The Heist mobile | 83914 | [83914-the-heist-mobile.json](./83914-the-heist-mobile.json) |
 | The Heist of the Argonaut Limited | 305347 | [305347-the-heist-of-the-argonaut-limited.json](./305347-the-heist-of-the-argonaut-limited.json) |
@@ -12119,6 +12121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Joy of Sex | 46561 | [46561-the-joy-of-sex.json](./46561-the-joy-of-sex.json) |
 | The Joycare | 350583 | [350583-the-joycare.json](./350583-the-joycare.json) |
 | The Joylancer: Legendary Motor Knight | 10974 | [10974-the-joylancer-legendary-motor-knight.json](./10974-the-joylancer-legendary-motor-knight.json) |
+| The Judge | 352469 | [352469-the-judge.json](./352469-the-judge.json) |
 | The Judgement Chamber | 243656 | [243656-the-judgement-chamber.json](./243656-the-judgement-chamber.json) |
 | The Judgement of Q | 173272 | [173272-the-judgement-of-q.json](./173272-the-judgement-of-q.json) |
 | The Judgment Collection | 342629 | [342629-the-judgment-collection.json](./342629-the-judgment-collection.json) |
