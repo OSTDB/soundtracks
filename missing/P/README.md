@@ -3292,7 +3292,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathogen: Code Omega | 400467 | [400467-pathogen-code-omega.json](./400467-pathogen-code-omega.json) |
 | Pathogen: Survival | 220460 | [220460-pathogen-survival.json](./220460-pathogen-survival.json) |
 | Pathogenesis: Overcome | 122387 | [122387-pathogenesis-overcome.json](./122387-pathogenesis-overcome.json) |
-| Pathogenic | 349463 | [349463-pathogenic.json](./349463-pathogenic.json) |
 | Pathologic | 8074 | [8074-pathologic.json](./8074-pathologic.json) |
 | Pathologic 2 | 55322 | [55322-pathologic-2.json](./55322-pathologic-2.json) |
 | Pathologic 2 + Marble Nest DLC Bundle | 165881 | [165881-pathologic-2-marble-nest-dlc-bundle.json](./165881-pathologic-2-marble-nest-dlc-bundle.json) |
@@ -20144,6 +20143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramis | 397668 | [397668-pyramis.json](./397668-pyramis.json) |
 | Pyrastak | 351757 | [351757-pyrastak.json](./351757-pyrastak.json) |
 | Pyratel | 308239 | [308239-pyratel.json](./308239-pyratel.json) |
+| Pyrates | 317493 | [317493-pyrates.json](./317493-pyrates.json) |
 | Pyrates! | 176742 | [176742-pyrates.json](./176742-pyrates.json) |
 | Pyrax | 120020 | [120020-pyrax.json](./120020-pyrax.json) |
 | Pyre | 18822 | [18822-pyre.json](./18822-pyre.json) |
