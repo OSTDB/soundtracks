@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
 | Gamefest Puzzle Classic | 209592 | [209592-gamefest-puzzle-classic.json](./209592-gamefest-puzzle-classic.json) |
 | GameFutebol | 250211 | [250211-gamefutebol.json](./250211-gamefutebol.json) |
+| GameGuessr | 395332 | [395332-gameguessr.json](./395332-gameguessr.json) |
 | GameGuru | 59978 | [59978-gameguru.json](./59978-gameguru.json) |
 | GameGuru: Industrial Sewer Pack | 166190 | [166190-gameguru-industrial-sewer-pack.json](./166190-gameguru-industrial-sewer-pack.json) |
 | Gamehunt | 119768 | [119768-gamehunt.json](./119768-gamehunt.json) |
@@ -9104,6 +9105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
 | Gravity Shift | 180556 | [180556-gravity-shift.json](./180556-gravity-shift.json) |
 | Gravity Shifter | 157056 | [157056-gravity-shifter.json](./157056-gravity-shifter.json) |
+| Gravity Shooter | 395915 | [395915-gravity-shooter.json](./395915-gravity-shooter.json) |
 | Gravity Shot | 31756 | [31756-gravity-shot.json](./31756-gravity-shot.json) |
 | Gravity Shots | 107112 | [107112-gravity-shots.json](./107112-gravity-shots.json) |
 | Gravity Simulator | 101768 | [101768-gravity-simulator.json](./101768-gravity-simulator.json) |
@@ -9784,6 +9786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridtrap | 297246 | [297246-gridtrap.json](./297246-gridtrap.json) |
 | GridVR | 29780 | [29780-gridvr.json](./29780-gridvr.json) |
 | Gridwalker | 405587 | [405587-gridwalker.json](./405587-gridwalker.json) |
+| Gridwardens | 395905 | [395905-gridwardens.json](./395905-gridwardens.json) |
 | GridWars | 92989 | [92989-gridwars.json](./92989-gridwars.json) |
 | Gridworld | 34617 | [34617-gridworld.json](./34617-gridworld.json) |
 | Gridz | 229815 | [229815-gridz.json](./229815-gridz.json) |
