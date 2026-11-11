@@ -5419,6 +5419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai Bakumatsu Kareshi: Toki no Kanata de Hanasaku Koi | 163345 | [163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json](./163345-renai-bakumatsu-kareshi-toki-no-kanata-de-hanasaku-koi.json) |
 | Renai Banchou 2: Midnight Lesson!!! | 63413 | [63413-renai-banchou-2-midnight-lesson.json](./63413-renai-banchou-2-midnight-lesson.json) |
 | Renai Banchou! Inochi Mijikashi, Koiseyo Otome! Love is Power | 221887 | [221887-renai-banchou-inochi-mijikashi-koiseyo-otome-love-is-power.json](./221887-renai-banchou-inochi-mijikashi-koiseyo-otome-love-is-power.json) |
+| Renai Karichaimashita: Emi & Hasumi Mini After Story | 376975 | [376975-renai-karichaimashita-emi-and-hasumi-mini-after-story.json](./376975-renai-karichaimashita-emi-and-hasumi-mini-after-story.json) |
 | Renai Karichaimashita: Koikari - Love For Hire | 174072 | [174072-renai-karichaimashita-koikari-love-for-hire.json](./174072-renai-karichaimashita-koikari-love-for-hire.json) |
 | Renai Karichaimashita: Koikari - Love For Hire - After Hours | 376587 | [376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json](./376587-renai-karichaimashita-koikari-love-for-hire-after-hours.json) |
 | Renai Karichaimashita: Koikari - Love For Hire: Limited Edition | 335969 | [335969-renai-karichaimashita-koikari-love-for-hire-limited-edition.json](./335969-renai-karichaimashita-koikari-love-for-hire-limited-edition.json) |
