@@ -6095,6 +6095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenger | 176104 | [176104-challenger.json](./176104-challenger.json) |
 | Challenger Tank | 70869 | [70869-challenger-tank.json](./70869-challenger-tank.json) |
 | Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
+| Challengers of the Realm TCG | 390831 | [390831-challengers-of-the-realm-tcg.json](./390831-challengers-of-the-realm-tcg.json) |
 | Challenging Dogfights | 121843 | [121843-challenging-dogfights.json](./121843-challenging-dogfights.json) |
 | Challenging Land | 357824 | [357824-challenging-land.json](./357824-challenging-land.json) |
 | Chalo Chalo | 34292 | [34292-chalo-chalo.json](./34292-chalo-chalo.json) |
@@ -9408,6 +9409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinema Madness | 310551 | [310551-cinema-madness.json](./310551-cinema-madness.json) |
 | Cinema Manager | 157171 | [157171-cinema-manager.json](./157171-cinema-manager.json) |
 | Cinema Manager Simulator | 365827 | [365827-cinema-manager-simulator.json](./365827-cinema-manager-simulator.json) |
+| Cinema Owner | 390315 | [390315-cinema-owner.json](./390315-cinema-owner.json) |
 | Cinema Quest | 107249 | [107249-cinema-quest.json](./107249-cinema-quest.json) |
 | Cinema Simulator | 167581 | [167581-cinema-simulator.json](./167581-cinema-simulator.json) |
 | Cinema Simulator 2025 | 311546 | [311546-cinema-simulator-2025.json](./311546-cinema-simulator-2025.json) |
@@ -10743,6 +10745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaning house | 176350 | [176350-cleaning-house.json](./176350-cleaning-house.json) |
 | Cleaning Queens | 234655 | [234655-cleaning-queens.json](./234655-cleaning-queens.json) |
 | Cleaning Queens 2: Sparkling Palace | 293367 | [293367-cleaning-queens-2-sparkling-palace.json](./293367-cleaning-queens-2-sparkling-palace.json) |
+| Cleaning Raccrew | 390838 | [390838-cleaning-raccrew.json](./390838-cleaning-raccrew.json) |
 | Cleaning Redville | 217873 | [217873-cleaning-redville.json](./217873-cleaning-redville.json) |
 | Cleaning Robot Match: Scatter Battlers | 151672 | [151672-cleaning-robot-match-scatter-battlers.json](./151672-cleaning-robot-match-scatter-battlers.json) |
 | Cleaning Robot: Subservient | 419422 | [419422-cleaning-robot-subservient.json](./419422-cleaning-robot-subservient.json) |
