@@ -71,6 +71,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Dead Detective | 246755 | [246755-x-dead-detective.json](./246755-x-dead-detective.json) |
 | X-Files: Resist or Serve | 24136 | [24136-x-files-resist-or-serve.json](./24136-x-files-resist-or-serve.json) |
 | X-Force Genesis | 165652 | [165652-x-force-genesis.json](./165652-x-force-genesis.json) |
+| X-Force Genesis: Definitive Edition | 373982 | [373982-x-force-genesis-definitive-edition.json](./373982-x-force-genesis-definitive-edition.json) |
 | X-Force Under Attack | 251694 | [251694-x-force-under-attack.json](./251694-x-force-under-attack.json) |
 | X-Games: Pro Boarder | 44844 | [44844-x-games-pro-boarder.json](./44844-x-games-pro-boarder.json) |
 | X-Girl: Cyber Punk Adventure | 52331 | [52331-x-girl-cyber-punk-adventure.json](./52331-x-girl-cyber-punk-adventure.json) |
