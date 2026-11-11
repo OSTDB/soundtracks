@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zerra's Adventure | 297757 | [297757-zerras-adventure.json](./297757-zerras-adventure.json) |
 | Zerstorer | 195864 | [195864-zerstorer.json](./195864-zerstorer.json) |
 | Zerstört Zerstört | 128582 | [128582-zerstort-zerstort.json](./128582-zerstort-zerstort.json) |
+| Zerun | 364948 | [364948-zerun.json](./364948-zerun.json) |
 | ZEscape | 103502 | [103502-zescape.json](./103502-zescape.json) |
 | Zest & Goop | 183512 | [183512-zest-and-goop.json](./183512-zest-and-goop.json) |
 | Zest to Fantasy | 257655 | [257655-zest-to-fantasy.json](./257655-zest-to-fantasy.json) |
@@ -2001,6 +2002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Slayer | 166713 | [166713-zombie-slayer.json](./166713-zombie-slayer.json) |
 | Zombie Slayer Diox | 84967 | [84967-zombie-slayer-diox.json](./84967-zombie-slayer-diox.json) |
 | Zombie Slayers | 129031 | [129031-zombie-slayers.json](./129031-zombie-slayers.json) |
+| Zombie Smash | 364955 | [364955-zombie-smash.json](./364955-zombie-smash.json) |
 | Zombie Smash Racer | 254314 | [254314-zombie-smash-racer.json](./254314-zombie-smash-racer.json) |
 | Zombie Smash: Road Kill | 167675 | [167675-zombie-smash-road-kill.json](./167675-zombie-smash-road-kill.json) |
 | Zombie Smash! Basketball | 261355 | [261355-zombie-smash-basketball.json](./261355-zombie-smash-basketball.json) |
