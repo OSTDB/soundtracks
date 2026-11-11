@@ -1130,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Quick Trip to the Old World | 271338 | [271338-a-quick-trip-to-the-old-world.json](./271338-a-quick-trip-to-the-old-world.json) |
 | A Quiet Air | 229561 | [229561-a-quiet-air.json](./229561-a-quiet-air.json) |
 | A Quiet Mind | 100669 | [100669-a-quiet-mind.json](./100669-a-quiet-mind.json) |
+| A Quiet Place | 344628 | [344628-a-quiet-place.json](./344628-a-quiet-place.json) |
 | A Quiet Place: The Road Ahead | 294453 | [294453-a-quiet-place-the-road-ahead.json](./294453-a-quiet-place-the-road-ahead.json) |
 | A Rabbit and the Mystic Fog | 157345 | [157345-a-rabbit-and-the-mystic-fog.json](./157345-a-rabbit-and-the-mystic-fog.json) |
 | A Rabbit Fable | 58087 | [58087-a-rabbit-fable.json](./58087-a-rabbit-fable.json) |
