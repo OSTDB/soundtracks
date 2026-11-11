@@ -8399,6 +8399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Maker | 102716 | [102716-mega-man-maker.json](./102716-mega-man-maker.json) |
 | Mega Man Mobile | 89016 | [89016-mega-man-mobile.json](./89016-mega-man-mobile.json) |
 | Mega Man Network Transmission | 1766 | [1766-mega-man-network-transmission.json](./1766-mega-man-network-transmission.json) |
+| Mega Man New Menace | 327479 | [327479-mega-man-new-menace.json](./327479-mega-man-new-menace.json) |
 | Mega Man NT Warrior: Battle Chip - WideShot1 | 352839 | [352839-mega-man-nt-warrior-battle-chip-wideshot1.json](./352839-mega-man-nt-warrior-battle-chip-wideshot1.json) |
 | Mega Man Overdrive | 326497 | [326497-mega-man-overdrive.json](./326497-mega-man-overdrive.json) |
 | Mega Man Perfect Blue | 132024 | [132024-mega-man-perfect-blue.json](./132024-mega-man-perfect-blue.json) |
@@ -8409,6 +8410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Powered Up | 12937 | [12937-mega-man-powered-up.json](./12937-mega-man-powered-up.json) |
 | Mega Man Ram | 209252 | [209252-mega-man-ram.json](./209252-mega-man-ram.json) |
 | Mega Man Redux | 45189 | [45189-mega-man-redux.json](./45189-mega-man-redux.json) |
+| Mega Man Reloaded | 327481 | [327481-mega-man-reloaded.json](./327481-mega-man-reloaded.json) |
 | Mega Man Revamped | 391132 | [391132-mega-man-revamped.json](./391132-mega-man-revamped.json) |
 | Mega Man Revolution | 102071 | [102071-mega-man-revolution.json](./102071-mega-man-revolution.json) |
 | Mega Man Rock | 323771 | [323771-mega-man-rock.json](./323771-mega-man-rock.json) |
@@ -18346,6 +18348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Ritual | 97706 | [97706-morning-ritual.json](./97706-morning-ritual.json) |
 | Morning Room | 317091 | [317091-morning-room.json](./317091-morning-room.json) |
 | Morning Star | 103323 | [103323-morning-star.json](./103323-morning-star.json) |
+| Morning Star | 327483 | [327483-morning-star.json](./327483-morning-star.json) |
 | Morning,Star-2021 | 418904 | [418904-morning-star-2021.json](./418904-morning-star-2021.json) |
 | Morning's Wrath | 72259 | [72259-mornings-wrath.json](./72259-mornings-wrath.json) |
 | Morningdew Farms: A Gay Farming Game | 118602 | [118602-morningdew-farms-a-gay-farming-game.json](./118602-morningdew-farms-a-gay-farming-game.json) |
