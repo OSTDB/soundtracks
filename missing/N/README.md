@@ -2650,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Junctions | 118352 | [118352-neon-junctions.json](./118352-neon-junctions.json) |
 | Neon Kicks | 117462 | [117462-neon-kicks.json](./117462-neon-kicks.json) |
 | Neon Knight | 160295 | [160295-neon-knight.json](./160295-neon-knight.json) |
+| Neon Knights | 340110 | [340110-neon-knights.json](./340110-neon-knights.json) |
 | Neon Knights: Humanity Erased | 190484 | [190484-neon-knights-humanity-erased.json](./190484-neon-knights-humanity-erased.json) |
 | Neon Knives | 349204 | [349204-neon-knives.json](./349204-neon-knives.json) |
 | Neon Krieger Yamato | 82357 | [82357-neon-krieger-yamato.json](./82357-neon-krieger-yamato.json) |
@@ -5963,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niu War | 427224 | [427224-niu-war.json](./427224-niu-war.json) |
 | Nium | 217817 | [217817-nium.json](./217817-nium.json) |
 | NiuMa | 339085 | [339085-niuma.json](./339085-niuma.json) |
+| Niut | 340104 | [340104-niut.json](./340104-niut.json) |
 | NIV Bible & the 20 Lost Levels of Joshua | 70062 | [70062-niv-bible-and-the-20-lost-levels-of-joshua.json](./70062-niv-bible-and-the-20-lost-levels-of-joshua.json) |
 | Niva | 341480 | [341480-niva.json](./341480-niva.json) |
 | Niva | 97303 | [97303-niva.json](./97303-niva.json) |
