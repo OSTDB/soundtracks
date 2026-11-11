@@ -17140,6 +17140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Software Inc. | 35463 | [35463-software-inc.json](./35463-software-inc.json) |
 | Software Jukebox: Adventure/Fantasy | 78388 | [78388-software-jukebox-adventure-fantasy.json](./78388-software-jukebox-adventure-fantasy.json) |
 | Software Manager | 78597 | [78597-software-manager.json](./78597-software-manager.json) |
+| Software Star | 355241 | [355241-software-star.json](./355241-software-star.json) |
 | Software Tycoon: Der Spielemanager | 243953 | [243953-software-tycoon-der-spielemanager.json](./243953-software-tycoon-der-spielemanager.json) |
 | SOG: Vietnam | 345606 | [345606-sog-vietnam.json](./345606-sog-vietnam.json) |
 | Soggy Froggy | 417431 | [417431-soggy-froggy.json](./417431-soggy-froggy.json) |
