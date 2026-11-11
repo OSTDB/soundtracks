@@ -4037,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temples vs. Buildings | 296353 | [296353-temples-vs-buildings.json](./296353-temples-vs-buildings.json) |
 | Templum de Malum | 118399 | [118399-templum-de-malum.json](./118399-templum-de-malum.json) |
 | Templum Dormiens Dei | 268460 | [268460-templum-dormiens-dei.json](./268460-templum-dormiens-dei.json) |
+| Temply Girls | 385029 | [385029-temply-girls.json](./385029-temply-girls.json) |
 | Tempo | 174085 | [174085-tempo.json](./174085-tempo.json) |
 | Tempo | 45881 | [45881-tempo.json](./45881-tempo.json) |
 | Tempo | 74385 | [74385-tempo.json](./74385-tempo.json) |
@@ -10694,6 +10695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Eagle | 327540 | [327540-the-golden-eagle.json](./327540-the-golden-eagle.json) |
 | The Golden Eyed Ghosts | 200521 | [200521-the-golden-eyed-ghosts.json](./200521-the-golden-eyed-ghosts.json) |
 | The Golden Gate | 398701 | [398701-the-golden-gate.json](./398701-the-golden-gate.json) |
+| The Golden Girl Cloud Top Board | 385014 | [385014-the-golden-girl-cloud-top-board.json](./385014-the-golden-girl-cloud-top-board.json) |
 | The Golden Girl Pulls and Licks the Dog | 256061 | [256061-the-golden-girl-pulls-and-licks-the-dog.json](./256061-the-golden-girl-pulls-and-licks-the-dog.json) |
 | The Golden Girls Take Manhattan DX | 241237 | [241237-the-golden-girls-take-manhattan-dx.json](./241237-the-golden-girls-take-manhattan-dx.json) |
 | The Golden Harp | 176784 | [176784-the-golden-harp.json](./176784-the-golden-harp.json) |
@@ -25209,6 +25211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TitTok | 171866 | [171866-tittok.json](./171866-tittok.json) |
 | TitTok 2 | 173222 | [173222-tittok-2.json](./173222-tittok-2.json) |
 | TitTok 3 | 202124 | [202124-tittok-3.json](./202124-tittok-3.json) |
+| TitTok Girls | 385035 | [385035-tittok-girls.json](./385035-tittok-girls.json) |
 | TitTok Kitty | 224970 | [224970-tittok-kitty.json](./224970-tittok-kitty.json) |
 | TitTok Kitty: Pussy | 235183 | [235183-tittok-kitty-pussy.json](./235183-tittok-kitty-pussy.json) |
 | Titty Crush | 99701 | [99701-titty-crush.json](./99701-titty-crush.json) |
