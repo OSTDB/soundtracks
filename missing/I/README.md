@@ -2038,6 +2038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignition | 7139 | [7139-ignition.json](./7139-ignition.json) |
 | Ignition 2000: Origins | 374415 | [374415-ignition-2000-origins.json](./374415-ignition-2000-origins.json) |
 | Ignition Arena | 314896 | [314896-ignition-arena.json](./314896-ignition-arena.json) |
+| Ignoble | 386667 | [386667-ignoble.json](./386667-ignoble.json) |
 | Ignorance Fighter II: Tour Bus | 181754 | [181754-ignorance-fighter-ii-tour-bus.json](./181754-ignorance-fighter-ii-tour-bus.json) |
 | Ignore the blackbird | 398152 | [398152-ignore-the-blackbird.json](./398152-ignore-the-blackbird.json) |
 | Ignore the Blackbird | 400951 | [400951-ignore-the-blackbird.json](./400951-ignore-the-blackbird.json) |
