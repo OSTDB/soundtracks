@@ -4261,6 +4261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2026 Edition | 381725 | [381725-just-dance-2026-edition.json](./381725-just-dance-2026-edition.json) |
 | Just Dance 3 | 2705 | [2705-just-dance-3.json](./2705-just-dance-3.json) |
 | Just Dance 3: Target Exclusive Edition | 375276 | [375276-just-dance-3-target-exclusive-edition.json](./375276-just-dance-3-target-exclusive-edition.json) |
+| Just Dance 3: Valentine Pack | 386639 | [386639-just-dance-3-valentine-pack.json](./386639-just-dance-3-valentine-pack.json) |
 | Just Dance 4 | 3255 | [3255-just-dance-4.json](./3255-just-dance-4.json) |
 | Just Dance 4: Special Edition | 241439 | [241439-just-dance-4-special-edition.json](./241439-just-dance-4-special-edition.json) |
 | Just Dance Kids | 3299 | [3299-just-dance-kids.json](./3299-just-dance-kids.json) |
