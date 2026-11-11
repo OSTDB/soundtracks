@@ -2546,6 +2546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vintage Flashlight | 136179 | [136179-vintage-flashlight.json](./136179-vintage-flashlight.json) |
 | Vintage Gaming Trivia Challenge | 73689 | [73689-vintage-gaming-trivia-challenge.json](./73689-vintage-gaming-trivia-challenge.json) |
 | Vintage Hero | 46482 | [46482-vintage-hero.json](./46482-vintage-hero.json) |
+| Vintage Pinball | 364126 | [364126-vintage-pinball.json](./364126-vintage-pinball.json) |
 | Vintage Records from Hell | 202616 | [202616-vintage-records-from-hell.json](./202616-vintage-records-from-hell.json) |
 | Vintage VR | 32749 | [32749-vintage-vr.json](./32749-vintage-vr.json) |
 | Vintergard | 354654 | [354654-vintergard.json](./354654-vintergard.json) |
