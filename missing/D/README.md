@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Realm: Queen of Flames - Collector's Edition | 29502 | [29502-dark-realm-queen-of-flames-collectors-edition.json](./29502-dark-realm-queen-of-flames-collectors-edition.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
 | Dark Reaper Shoots! | 112068 | [112068-dark-reaper-shoots.json](./112068-dark-reaper-shoots.json) |
+| Dark Receipt | 334985 | [334985-dark-receipt.json](./334985-dark-receipt.json) |
 | Dark Reflection | 121970 | [121970-dark-reflection.json](./121970-dark-reflection.json) |
 | Dark Reflection | 380233 | [380233-dark-reflection.json](./380233-dark-reflection.json) |
 | Dark Regents | 133657 | [133657-dark-regents.json](./133657-dark-regents.json) |
@@ -4717,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DearS | 60880 | [60880-dears.json](./60880-dears.json) |
 | Dearth | 91485 | [91485-dearth.json](./91485-dearth.json) |
 | Death | 123553 | [123553-death.json](./123553-death.json) |
+| Death & Faeology | 334959 | [334959-death-and-faeology.json](./334959-death-and-faeology.json) |
 | Death & Lead | 392968 | [392968-death-and-lead.json](./392968-death-and-lead.json) |
 | Death & Tactics | 274931 | [274931-death-and-tactics.json](./274931-death-and-tactics.json) |
 | Death & Taxes | 370868 | [370868-death-and-taxes.json](./370868-death-and-taxes.json) |
