@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jected: Rivals | 206966 | [206966-jected-rivals.json](./206966-jected-rivals.json) |
 | Jected: Rivals - Expansion Pack | 271144 | [271144-jected-rivals-expansion-pack.json](./271144-jected-rivals-expansion-pack.json) |
 | Jedi Survive | 393847 | [393847-jedi-survive.json](./393847-jedi-survive.json) |
+| Jedi vs Jedi: Blades of Light | 382670 | [382670-jedi-vs-jedi-blades-of-light.json](./382670-jedi-vs-jedi-blades-of-light.json) |
 | Jeebo & Jerbo vs. Life | 171985 | [171985-jeebo-and-jerbo-vs-life.json](./171985-jeebo-and-jerbo-vs-life.json) |
 | Jeeboman | 34688 | [34688-jeeboman.json](./34688-jeeboman.json) |
 | Jeep 4x4 Adventure | 70131 | [70131-jeep-4x4-adventure.json](./70131-jeep-4x4-adventure.json) |
