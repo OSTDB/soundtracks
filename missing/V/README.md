@@ -3339,7 +3339,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vividlope | 224808 | [224808-vividlope.json](./224808-vividlope.json) |
 | Vividly Blank | 427847 | [427847-vividly-blank.json](./427847-vividly-blank.json) |
 | ViviEon | 120830 | [120830-vivieon.json](./120830-vivieon.json) |
-| Viviette | 107724 | [107724-viviette.json](./107724-viviette.json) |
 | Viviparous Dumpling | 354449 | [354449-viviparous-dumpling.json](./354449-viviparous-dumpling.json) |
 | Vivisection | 396584 | [396584-vivisection.json](./396584-vivisection.json) |
 | Vivisector: Beast Within | 54638 | [54638-vivisector-beast-within.json](./54638-vivisector-beast-within.json) |
