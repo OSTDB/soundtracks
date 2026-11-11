@@ -2516,6 +2516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Astronaut | 155270 | [155270-save-the-astronaut.json](./155270-save-the-astronaut.json) |
 | Save The Babies | 335260 | [335260-save-the-babies.json](./335260-save-the-babies.json) |
 | Save The Bear Cubs | 367564 | [367564-save-the-bear-cubs.json](./367564-save-the-bear-cubs.json) |
+| Save the Bloogs | 383897 | [383897-save-the-bloogs.json](./383897-save-the-bloogs.json) |
 | Save the Body | 190466 | [190466-save-the-body.json](./190466-save-the-body.json) |
 | Save The Castle! | 294062 | [294062-save-the-castle.json](./294062-save-the-castle.json) |
 | Save the City | 233164 | [233164-save-the-city.json](./233164-save-the-city.json) |
@@ -3119,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schism | 136135 | [136135-schism.json](./136135-schism.json) |
 | Schism | 260885 | [260885-schism.json](./260885-schism.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
+| Schism | 383895 | [383895-schism.json](./383895-schism.json) |
 | Schismo's Sideshow | 313985 | [313985-schismos-sideshow.json](./313985-schismos-sideshow.json) |
 | Schizm: Mysterious Journey | 73940 | [73940-schizm-mysterious-journey.json](./73940-schizm-mysterious-journey.json) |
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
@@ -5027,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Zero | 35783 | [35783-sector-zero.json](./35783-sector-zero.json) |
 | Sector: Cyber Crash Episode One: The Cyber Hour | 423625 | [423625-sector-cyber-crash-episode-one-the-cyber-hour.json](./423625-sector-cyber-crash-episode-one-the-cyber-hour.json) |
 | SectorA23 | 182552 | [182552-sectora23.json](./182552-sectora23.json) |
+| Sectoris Sky | 383861 | [383861-sectoris-sky.json](./383861-sectoris-sky.json) |
 | Sectron | 401629 | [401629-sectron.json](./401629-sectron.json) |
 | Séculos | 144459 | [144459-seculos.json](./144459-seculos.json) |
 | Secure | 176815 | [176815-secure.json](./176815-secure.json) |
@@ -7824,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape World Level up Lite | 390342 | [390342-shape-world-level-up-lite.json](./390342-shape-world-level-up-lite.json) |
 | Shapebreaker | 197590 | [197590-shapebreaker.json](./197590-shapebreaker.json) |
 | ShapeBreaker | 422515 | [422515-shapebreaker.json](./422515-shapebreaker.json) |
+| ShapeCycle | 383869 | [383869-shapecycle.json](./383869-shapecycle.json) |
 | Shaped Beats | 187637 | [187637-shaped-beats.json](./187637-shaped-beats.json) |
 | Shaped Touches | 154311 | [154311-shaped-touches.json](./154311-shaped-touches.json) |
 | Shapefall | 295554 | [295554-shapefall.json](./295554-shapefall.json) |
@@ -20634,6 +20638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Fantasy Zone | 42007 | [42007-space-fantasy-zone.json](./42007-space-fantasy-zone.json) |
 | Space Fantasy: Anonymous Hero | 226620 | [226620-space-fantasy-anonymous-hero.json](./226620-space-fantasy-anonymous-hero.json) |
 | Space Farm | 107384 | [107384-space-farm.json](./107384-space-farm.json) |
+| Space Farmer | 383891 | [383891-space-farmer.json](./383891-space-farmer.json) |
 | Space Farmers 2 | 169870 | [169870-space-farmers-2.json](./169870-space-farmers-2.json) |
 | Space Fat: To the Core | 155655 | [155655-space-fat-to-the-core.json](./155655-space-fat-to-the-core.json) |
 | Space Fever | 39974 | [39974-space-fever.json](./39974-space-fever.json) |
@@ -22582,6 +22587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpellCaster | 46124 | [46124-spellcaster.json](./46124-spellcaster.json) |
 | Spellcaster University | 111086 | [111086-spellcaster-university.json](./111086-spellcaster-university.json) |
 | Spellcaster University: Gears and Gobelins | 347676 | [347676-spellcaster-university-gears-and-gobelins.json](./347676-spellcaster-university-gears-and-gobelins.json) |
+| Spellcaster: Origins - Duel | 383892 | [383892-spellcaster-origins-duel.json](./383892-spellcaster-origins-duel.json) |
 | Spellcaster: The Forgotten Spell | 61895 | [61895-spellcaster-the-forgotten-spell.json](./61895-spellcaster-the-forgotten-spell.json) |
 | Spellcaster's Assistant | 96733 | [96733-spellcasters-assistant.json](./96733-spellcasters-assistant.json) |
 | Spellcastia | 113181 | [113181-spellcastia.json](./113181-spellcastia.json) |
@@ -28383,6 +28389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Basketball Blitz | 239983 | [239983-stickman-basketball-blitz.json](./239983-stickman-basketball-blitz.json) |
 | Stickman Battle War | 231893 | [231893-stickman-battle-war.json](./231893-stickman-battle-war.json) |
 | Stickman Battlefields | 39226 | [39226-stickman-battlefields.json](./39226-stickman-battlefields.json) |
+| Stickman Beach Volleyball Deluxe | 383856 | [383856-stickman-beach-volleyball-deluxe.json](./383856-stickman-beach-volleyball-deluxe.json) |
 | Stickman Bike: Pro Ride | 378403 | [378403-stickman-bike-pro-ride.json](./378403-stickman-bike-pro-ride.json) |
 | Stickman BMX | 133031 | [133031-stickman-bmx.json](./133031-stickman-bmx.json) |
 | Stickman Bow Mastery: Flying Arrows | 106176 | [106176-stickman-bow-mastery-flying-arrows.json](./106176-stickman-bow-mastery-flying-arrows.json) |
