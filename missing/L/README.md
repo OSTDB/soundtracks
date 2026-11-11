@@ -1404,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Game of the Decade 2019 | 229630 | [229630-last-game-of-the-decade-2019.json](./229630-last-game-of-the-decade-2019.json) |
 | Last Gang Standing | 159843 | [159843-last-gang-standing.json](./159843-last-gang-standing.json) |
 | Last Gary | 188739 | [188739-last-gary.json](./188739-last-gary.json) |
+| Last Gasp | 386632 | [386632-last-gasp.json](./386632-last-gasp.json) |
 | Last Generation: Survival | 155817 | [155817-last-generation-survival.json](./155817-last-generation-survival.json) |
 | Last Genesis | 175851 | [175851-last-genesis.json](./175851-last-genesis.json) |
 | Last Gleam | 182073 | [182073-last-gleam.json](./182073-last-gleam.json) |
@@ -9416,6 +9417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Tavern 2: Beastmen Kingdoms | 258888 | [258888-love-tavern-2-beastmen-kingdoms.json](./258888-love-tavern-2-beastmen-kingdoms.json) |
 | Love the Game | 314142 | [314142-love-the-game.json](./314142-love-the-game.json) |
 | Love the Guard, Be the King | 179686 | [179686-love-the-guard-be-the-king.json](./179686-love-the-guard-be-the-king.json) |
+| Love Therapy | 386628 | [386628-love-therapy.json](./386628-love-therapy.json) |
 | Love Thyself: A Horatio Story | 116948 | [116948-love-thyself-a-horatio-story.json](./116948-love-thyself-a-horatio-story.json) |
 | Love to Live | 346860 | [346860-love-to-live.json](./346860-love-to-live.json) |
 | Love Too Easily | 237569 | [237569-love-too-easily.json](./237569-love-too-easily.json) |
@@ -9826,6 +9828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucifer's Kingdom | 72097 | [72097-lucifers-kingdom.json](./72097-lucifers-kingdom.json) |
 | Lucifer's Realm | 25895 | [25895-lucifers-realm.json](./25895-lucifers-realm.json) |
 | Lucifer's Spell | 268635 | [268635-lucifers-spell.json](./268635-lucifers-spell.json) |
+| Luciferd: Psychological Adventure | 386627 | [386627-luciferd-psychological-adventure.json](./386627-luciferd-psychological-adventure.json) |
 | Luciferian: The Conjuring Book | 345654 | [345654-luciferian-the-conjuring-book.json](./345654-luciferian-the-conjuring-book.json) |
 | Luciform | 130208 | [130208-luciform.json](./130208-luciform.json) |
 | Lucilla in the Dark | 228933 | [228933-lucilla-in-the-dark.json](./228933-lucilla-in-the-dark.json) |
