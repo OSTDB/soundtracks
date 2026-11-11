@@ -3863,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | İstanbul Puzzle | 358041 | [358041-istanbul-puzzle.json](./358041-istanbul-puzzle.json) |
 | ‎Love & Magic: Spellfyre | 387640 | [387640-love-and-magic-spellfyre.json](./387640-love-and-magic-spellfyre.json) |
 | Łowca Głów | 98944 | [98944-owca-g-ow.json](./98944-owca-g-ow.json) |
+| ‎MPG Football | 332129 | [332129-mpg-football.json](./332129-mpg-football.json) |
 | Ñamto | 379383 | [379383-namto.json](./379383-namto.json) |
 | Ô | 360452 | [360452-o.json](./360452-o.json) |
 | Ōban Star-Racers | 379410 | [379410-oban-star-racers.json](./379410-oban-star-racers.json) |
