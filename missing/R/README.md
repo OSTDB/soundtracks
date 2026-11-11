@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidlands | 125826 | [125826-raidlands.json](./125826-raidlands.json) |
 | Raidol: Injoku ni Ochita Seiningyou | 108970 | [108970-raidol-injoku-ni-ochita-seiningyou.json](./108970-raidol-injoku-ni-ochita-seiningyou.json) |
 | Raidou Remastered: Kuzunoha Village Trainings | 347332 | [347332-raidou-remastered-kuzunoha-village-trainings.json](./347332-raidou-remastered-kuzunoha-village-trainings.json) |
+| Raidou Remastered: The Mystery of the Soulless Army - Digital Deluxe Edition | 342320 | [342320-raidou-remastered-the-mystery-of-the-soulless-army-digital-deluxe-edition.json](./342320-raidou-remastered-the-mystery-of-the-soulless-army-digital-deluxe-edition.json) |
 | Raids & Puzzles: RPG Quest | 126143 | [126143-raids-and-puzzles-rpg-quest.json](./126143-raids-and-puzzles-rpg-quest.json) |
 | Raids Inc. | 244851 | [244851-raids-inc.json](./244851-raids-inc.json) |
 | Raids of Nohosphere | 116395 | [116395-raids-of-nohosphere.json](./116395-raids-of-nohosphere.json) |
@@ -9167,6 +9168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadside | 286079 | [286079-roadside.json](./286079-roadside.json) |
 | Roadside Assistance Simulator | 154268 | [154268-roadside-assistance-simulator.json](./154268-roadside-assistance-simulator.json) |
 | Roadside Assistance Simulator | 36317 | [36317-roadside-assistance-simulator.json](./36317-roadside-assistance-simulator.json) |
+| Roadside Egg Stand | 342310 | [342310-roadside-egg-stand.json](./342310-roadside-egg-stand.json) |
 | Roadside Store Simulator | 382741 | [382741-roadside-store-simulator.json](./382741-roadside-store-simulator.json) |
 | Roadster | 78529 | [78529-roadster.json](./78529-roadster.json) |
 | Roadsters | 3590 | [3590-roadsters.json](./3590-roadsters.json) |
@@ -13004,6 +13006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Away With Me, Empress! | 225270 | [225270-run-away-with-me-empress.json](./225270-run-away-with-me-empress.json) |
 | Run Baby Run | 85915 | [85915-run-baby-run.json](./85915-run-baby-run.json) |
 | Run Ball: Jump on Helix Road | 100321 | [100321-run-ball-jump-on-helix-road.json](./100321-run-ball-jump-on-helix-road.json) |
+| Run Before He Knows | 342313 | [342313-run-before-he-knows.json](./342313-run-before-he-knows.json) |
 | Run Bird Run | 344926 | [344926-run-bird-run.json](./344926-run-bird-run.json) |
 | Run Bird Run! | 332763 | [332763-run-bird-run.json](./332763-run-bird-run.json) |
 | Run Blob Run 2 | 222956 | [222956-run-blob-run-2.json](./222956-run-blob-run-2.json) |
