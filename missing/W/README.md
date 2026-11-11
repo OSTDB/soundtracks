@@ -1578,6 +1578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - Relics of War: Specialist Pack | 153083 | [153083-warhammer-40-000-gladius-relics-of-war-specialist-pack.json](./153083-warhammer-40-000-gladius-relics-of-war-specialist-pack.json) |
 | Warhammer 40,000: Gladius - T'au | 148958 | [148958-warhammer-40-000-gladius-tau.json](./148958-warhammer-40-000-gladius-tau.json) |
 | Warhammer 40,000: Gladius - Tyranids | 124951 | [124951-warhammer-40-000-gladius-tyranids.json](./124951-warhammer-40-000-gladius-tyranids.json) |
+| Warhammer 40,000: Gladius - Ultima Founding | 325158 | [325158-warhammer-40-000-gladius-ultima-founding.json](./325158-warhammer-40-000-gladius-ultima-founding.json) |
 | Warhammer 40,000: Inquisitor - Martyr | 203272 | [203272-warhammer-40-000-inquisitor-martyr.json](./203272-warhammer-40-000-inquisitor-martyr.json) |
 | Warhammer 40,000: Inquisitor - Martyr Complete Collection | 173158 | [173158-warhammer-40-000-inquisitor-martyr-complete-collection.json](./173158-warhammer-40-000-inquisitor-martyr-complete-collection.json) |
 | Warhammer 40,000: Inquisitor - Martyr Deluxe Edition | 117983 | [117983-warhammer-40-000-inquisitor-martyr-deluxe-edition.json](./117983-warhammer-40-000-inquisitor-martyr-deluxe-edition.json) |
@@ -10156,6 +10157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wycheweald | 340730 | [340730-wycheweald.json](./340730-wycheweald.json) |
 | Wyld Land | 334480 | [334480-wyld-land.json](./334480-wyld-land.json) |
 | Wylde Flowers | 191747 | [191747-wylde-flowers.json](./191747-wylde-flowers.json) |
+| Wylde Society | 325181 | [325181-wylde-society.json](./325181-wylde-society.json) |
 | Wyldheart | 395042 | [395042-wyldheart.json](./395042-wyldheart.json) |
 | WyndBlast | 234752 | [234752-wyndblast.json](./234752-wyndblast.json) |
 | Wyprawa po zlote runo | 318490 | [318490-wyprawa-po-zlote-runo.json](./318490-wyprawa-po-zlote-runo.json) |
