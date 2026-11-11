@@ -13589,6 +13589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Attack | 70621 | [70621-fruit-attack.json](./70621-fruit-attack.json) |
 | Fruit Attack!! | 314606 | [314606-fruit-attack.json](./314606-fruit-attack.json) |
 | Fruit Attacks VR | 81113 | [81113-fruit-attacks-vr.json](./81113-fruit-attacks-vr.json) |
+| Fruit Auto Fighters | 385003 | [385003-fruit-auto-fighters.json](./385003-fruit-auto-fighters.json) |
 | Fruit Basket | 189829 | [189829-fruit-basket.json](./189829-fruit-basket.json) |
 | Fruit Basket TV | 196858 | [196858-fruit-basket-tv.json](./196858-fruit-basket-tv.json) |
 | Fruit Battle: Survival | 253276 | [253276-fruit-battle-survival.json](./253276-fruit-battle-survival.json) |
@@ -14403,6 +14404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furies: Last Escape | 181491 | [181491-furies-last-escape.json](./181491-furies-last-escape.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
 | Furiko | 135416 | [135416-furiko.json](./135416-furiko.json) |
+| Furion Chronicles | 385004 | [385004-furion-chronicles.json](./385004-furion-chronicles.json) |
 | Furion Chronicles 3 | 418432 | [418432-furion-chronicles-3.json](./418432-furion-chronicles-3.json) |
 | Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
 | Furious Angels | 27743 | [27743-furious-angels.json](./27743-furious-angels.json) |
@@ -14478,6 +14480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Cybersex | 204431 | [204431-furry-cybersex.json](./204431-furry-cybersex.json) |
 | Furry Defenders​​ | 381176 | [381176-furry-defenders.json](./381176-furry-defenders.json) |
 | Furry Dream | 236118 | [236118-furry-dream.json](./236118-furry-dream.json) |
+| Furry Dreams | 385011 | [385011-furry-dreams.json](./385011-furry-dreams.json) |
 | Furry Exodus | 330085 | [330085-furry-exodus.json](./330085-furry-exodus.json) |
 | Furry Fairy Tales | 310487 | [310487-furry-fairy-tales.json](./310487-furry-fairy-tales.json) |
 | Furry Fantasy | 207794 | [207794-furry-fantasy.json](./207794-furry-fantasy.json) |
