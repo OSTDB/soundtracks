@@ -1604,7 +1604,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Mechanicus - Heretek | 121158 | [121158-warhammer-40-000-mechanicus-heretek.json](./121158-warhammer-40-000-mechanicus-heretek.json) |
 | Warhammer 40,000: Mechanicus - Omnissiah Edition | 124973 | [124973-warhammer-40-000-mechanicus-omnissiah-edition.json](./124973-warhammer-40-000-mechanicus-omnissiah-edition.json) |
 | Warhammer 40,000: Mechanicus II | 302176 | [302176-warhammer-40-000-mechanicus-ii.json](./302176-warhammer-40-000-mechanicus-ii.json) |
-| Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
 | Warhammer 40,000: Regicide - Deluxe Edition | 53903 | [53903-warhammer-40-000-regicide-deluxe-edition.json](./53903-warhammer-40-000-regicide-deluxe-edition.json) |
 | Warhammer 40,000: Rites of War | 24113 | [24113-warhammer-40-000-rites-of-war.json](./24113-warhammer-40-000-rites-of-war.json) |
 | Warhammer 40,000: Rogue Trader - Collector’s Edition | 251060 | [251060-warhammer-40-000-rogue-trader-collector-s-edition.json](./251060-warhammer-40-000-rogue-trader-collector-s-edition.json) |
@@ -8793,6 +8792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Solitaire: Deluxe Edition | 304777 | [304777-world-of-solitaire-deluxe-edition.json](./304777-world-of-solitaire-deluxe-edition.json) |
 | World of Speed | 8733 | [8733-world-of-speed.json](./8733-world-of-speed.json) |
 | World Of Sports | 370756 | [370756-world-of-sports.json](./370756-world-of-sports.json) |
+| World of Squares | 317499 | [317499-world-of-squares.json](./317499-world-of-squares.json) |
 | World Of Stalkers | 173331 | [173331-world-of-stalkers.json](./173331-world-of-stalkers.json) |
 | World of Submarines | 255764 | [255764-world-of-submarines.json](./255764-world-of-submarines.json) |
 | World of Subways Vol.3: Circle Line | 79924 | [79924-world-of-subways-vol-3-circle-line.json](./79924-world-of-subways-vol-3-circle-line.json) |
