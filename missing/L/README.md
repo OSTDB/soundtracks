@@ -253,6 +253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Escape | 358037 | [358037-lab-escape.json](./358037-lab-escape.json) |
 | Lab Escape! | 299450 | [299450-lab-escape.json](./299450-lab-escape.json) |
 | Lab Inspect | 226141 | [226141-lab-inspect.json](./226141-lab-inspect.json) |
+| Lab LVL | 350119 | [350119-lab-lvl.json](./350119-lab-lvl.json) |
 | Lab Rags | 145824 | [145824-lab-rags.json](./145824-lab-rags.json) |
 | Lab Rat | 94244 | [94244-lab-rat.json](./94244-lab-rat.json) |
 | Lab Rat Escape | 323541 | [323541-lab-rat-escape.json](./323541-lab-rat-escape.json) |
@@ -2500,6 +2501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaving | 183720 | [183720-leaving.json](./183720-leaving.json) |
 | Leaving | 195532 | [195532-leaving.json](./195532-leaving.json) |
 | Leaving Eden | 420621 | [420621-leaving-eden.json](./420621-leaving-eden.json) |
+| Leaving Home | 350080 | [350080-leaving-home.json](./350080-leaving-home.json) |
 | Leaving L.A. | 273138 | [273138-leaving-l-a.json](./273138-leaving-l-a.json) |
 | Leaving the formation | 211559 | [211559-leaving-the-formation.json](./211559-leaving-the-formation.json) |
 | Leaving The Hospital | 296240 | [296240-leaving-the-hospital.json](./296240-leaving-the-hospital.json) |
@@ -6833,6 +6835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Portrait Maker | 101497 | [101497-live-portrait-maker.json](./101497-live-portrait-maker.json) |
 | Live Portrait Maker: Guys | 103167 | [103167-live-portrait-maker-guys.json](./103167-live-portrait-maker-guys.json) |
 | Live Rise!!: 4K Fever | 413072 | [413072-live-rise-4k-fever.json](./413072-live-rise-4k-fever.json) |
+| Live Russia | 350091 | [350091-live-russia.json](./350091-live-russia.json) |
 | Live Shiver | 264709 | [264709-live-shiver.json](./264709-live-shiver.json) |
 | Live the Guitar | 89333 | [89333-live-the-guitar.json](./89333-live-the-guitar.json) |
 | Live to Win | 129622 | [129622-live-to-win.json](./129622-live-to-win.json) |
@@ -9056,6 +9059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotte | 245815 | [245815-lotte.json](./245815-lotte.json) |
 | Lotte’s Forest: The Tale of Love | 274403 | [274403-lotte-s-forest-the-tale-of-love.json](./274403-lotte-s-forest-the-tale-of-love.json) |
 | Lottery Center Simulator | 369723 | [369723-lottery-center-simulator.json](./369723-lottery-center-simulator.json) |
+| Lottery vs. Aliens | 350113 | [350113-lottery-vs-aliens.json](./350113-lottery-vs-aliens.json) |
 | Lottery Winner | 278932 | [278932-lottery-winner.json](./278932-lottery-winner.json) |
 | Lottery World | 341181 | [341181-lottery-world.json](./341181-lottery-world.json) |
 | Lottie! | 388890 | [388890-lottie.json](./388890-lottie.json) |
