@@ -4478,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewis Carroll's Alice | 208824 | [208824-lewis-carrolls-alice.json](./208824-lewis-carrolls-alice.json) |
 | Lewis Quest | 337085 | [337085-lewis-quest.json](./337085-lewis-quest.json) |
 | Lex Mortis | 26510 | [26510-lex-mortis.json](./26510-lex-mortis.json) |
+| Lex Talionis A | 337330 | [337330-lex-talionis-a.json](./337330-lex-talionis-a.json) |
 | Lexagrana | 174196 | [174196-lexagrana.json](./174196-lexagrana.json) |
 | Lexi | 415625 | [415625-lexi.json](./415625-lexi.json) |
 | Lexi-Cross | 47117 | [47117-lexi-cross.json](./47117-lexi-cross.json) |
@@ -5392,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Johnny Goes Home | 258213 | [258213-lil-johnny-goes-home.json](./258213-lil-johnny-goes-home.json) |
 | Lil Jump 2 | 253024 | [253024-lil-jump-2.json](./253024-lil-jump-2.json) |
 | Lil Kobold's Big Stew | 376203 | [376203-lil-kobolds-big-stew.json](./376203-lil-kobolds-big-stew.json) |
+| Lil Lootin Lizards | 337333 | [337333-lil-lootin-lizards.json](./337333-lil-lootin-lizards.json) |
 | Lil Pothead | 374639 | [374639-lil-pothead.json](./374639-lil-pothead.json) |
 | Lil Pump Piano Tiles | 95867 | [95867-lil-pump-piano-tiles.json](./95867-lil-pump-piano-tiles.json) |
 | Lil Splody: Look Out Below! | 197144 | [197144-lil-splody-look-out-below.json](./197144-lil-splody-look-out-below.json) |
@@ -7677,6 +7679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | lone.AI | 295404 | [295404-lone-ai.json](./295404-lone-ai.json) |
 | Lonecastle | 132493 | [132493-lonecastle.json](./132493-lonecastle.json) |
 | Lonefarm | 145916 | [145916-lonefarm.json](./145916-lonefarm.json) |
+| Lonefield Evacutation Survivor | 337316 | [337316-lonefield-evacutation-survivor.json](./337316-lonefield-evacutation-survivor.json) |
 | Loneliest Depths | 300391 | [300391-loneliest-depths.json](./300391-loneliest-depths.json) |
 | Loneliness | 139344 | [139344-loneliness.json](./139344-loneliness.json) |
 | Loneliness After: Chapter 1 | 88464 | [88464-loneliness-after-chapter-1.json](./88464-loneliness-after-chapter-1.json) |
@@ -10332,6 +10335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminaria | 365602 | [365602-luminaria.json](./365602-luminaria.json) |
 | Luminaria: Dark Echoes | 278450 | [278450-luminaria-dark-echoes.json](./278450-luminaria-dark-echoes.json) |
 | Luminaria: Forgotten Echoes | 263297 | [263297-luminaria-forgotten-echoes.json](./263297-luminaria-forgotten-echoes.json) |
+| LuminaRun | 337323 | [337323-luminarun.json](./337323-luminarun.json) |
 | Luminary | 152498 | [152498-luminary.json](./152498-luminary.json) |
 | Luminas: Parasite Reign | 377204 | [377204-luminas-parasite-reign.json](./377204-luminas-parasite-reign.json) |
 | Luminastadt | 295258 | [295258-luminastadt.json](./295258-luminastadt.json) |
@@ -10495,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Drifter | 333701 | [333701-lunar-drifter.json](./333701-lunar-drifter.json) |
 | Lunar Echoes | 332875 | [332875-lunar-echoes.json](./332875-lunar-echoes.json) |
 | Lunar Eclipse | 305691 | [305691-lunar-eclipse.json](./305691-lunar-eclipse.json) |
+| Lunar Elixer | 337339 | [337339-lunar-elixer.json](./337339-lunar-elixer.json) |
 | Lunar Escape | 178642 | [178642-lunar-escape.json](./178642-lunar-escape.json) |
 | Lunar Explorer | 28715 | [28715-lunar-explorer.json](./28715-lunar-explorer.json) |
 | Lunar Explorer: A Space Flight Simulator | 70293 | [70293-lunar-explorer-a-space-flight-simulator.json](./70293-lunar-explorer-a-space-flight-simulator.json) |
