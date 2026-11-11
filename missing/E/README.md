@@ -8034,6 +8034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EXD: Extra Dimensional | 380540 | [380540-exd-extra-dimensional.json](./380540-exd-extra-dimensional.json) |
 | ExE | 304991 | [304991-exe.json](./304991-exe.json) |
 | EXE Clash | 265874 | [265874-exe-clash.json](./265874-exe-clash.json) |
+| Exe Tries to Save the Holidays | 375748 | [375748-exe-tries-to-save-the-holidays.json](./375748-exe-tries-to-save-the-holidays.json) |
 | Exector | 43797 | [43797-exector.json](./43797-exector.json) |
 | Executanks | 184880 | [184880-executanks.json](./184880-executanks.json) |
 | Execute | 373337 | [373337-execute.json](./373337-execute.json) |
