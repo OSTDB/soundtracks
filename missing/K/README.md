@@ -2988,6 +2988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5772,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Jinchon Beach | 343542 | [343542-korean-drone-flying-tour-jinchon-beach.json](./343542-korean-drone-flying-tour-jinchon-beach.json) |
 | Korean Drone Flying Tour Nakhwaam | 362180 | [362180-korean-drone-flying-tour-nakhwaam.json](./362180-korean-drone-flying-tour-nakhwaam.json) |
 | Korean Drone Flying Tour Namhan River | 342419 | [342419-korean-drone-flying-tour-namhan-river.json](./342419-korean-drone-flying-tour-namhan-river.json) |
+| Korean Drone Flying Tour Namyangju-si | 353577 | [353577-korean-drone-flying-tour-namyangju-si.json](./353577-korean-drone-flying-tour-namyangju-si.json) |
 | Korean Drone Flying Tour Odong-do Dragon Cave | 358360 | [358360-korean-drone-flying-tour-odong-do-dragon-cave.json](./358360-korean-drone-flying-tour-odong-do-dragon-cave.json) |
 | Korean Drone Flying Tour Okcheon-gun | 377004 | [377004-korean-drone-flying-tour-okcheon-gun.json](./377004-korean-drone-flying-tour-okcheon-gun.json) |
 | Korean Drone Flying Tour Okgyecheon | 411818 | [411818-korean-drone-flying-tour-okgyecheon.json](./411818-korean-drone-flying-tour-okgyecheon.json) |
