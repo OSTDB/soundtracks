@@ -4326,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Fire: Seed of Calamity | 418727 | [418727-hell-fire-seed-of-calamity.json](./418727-hell-fire-seed-of-calamity.json) |
 | Hell Firefighter | 156932 | [156932-hell-firefighter.json](./156932-hell-firefighter.json) |
 | Hell Forest | 411794 | [411794-hell-forest.json](./411794-hell-forest.json) |
+| Hell Forge | 385015 | [385015-hell-forge.json](./385015-hell-forge.json) |
 | Hell Forged | 141139 | [141139-hell-forged.json](./141139-hell-forged.json) |
 | Hell Frontier | 319652 | [319652-hell-frontier.json](./319652-hell-frontier.json) |
 | Hell Froze Over | 342151 | [342151-hell-froze-over.json](./342151-hell-froze-over.json) |
@@ -8420,6 +8421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiking Simulator 2017 | 55491 | [55491-hiking-simulator-2017.json](./55491-hiking-simulator-2017.json) |
 | Hiking Simulator 2018 | 84088 | [84088-hiking-simulator-2018.json](./84088-hiking-simulator-2018.json) |
 | Hikisakareta Badaaru | 394545 | [394545-hikisakareta-badaaru.json](./394545-hikisakareta-badaaru.json) |
+| Hikki Girls | 385033 | [385033-hikki-girls.json](./385033-hikki-girls.json) |
 | Hikkikomori Quest | 267172 | [267172-hikkikomori-quest.json](./267172-hikkikomori-quest.json) |
 | Hikkonuki Pikmin | 232900 | [232900-hikkonuki-pikmin.json](./232900-hikkonuki-pikmin.json) |
 | Hilarious Delivery | 390224 | [390224-hilarious-delivery.json](./390224-hilarious-delivery.json) |
@@ -10488,6 +10490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppie II | 69030 | [69030-hoppie-ii.json](./69030-hoppie-ii.json) |
 | Hoppin | 235765 | [235765-hoppin.json](./235765-hoppin.json) |
 | Hoppin: Into the Woods | 374930 | [374930-hoppin-into-the-woods.json](./374930-hoppin-into-the-woods.json) |
+| Hoppin' Tom | 385009 | [385009-hoppin-tom.json](./385009-hoppin-tom.json) |
 | Hopping Bunny | 287169 | [287169-hopping-bunny.json](./287169-hopping-bunny.json) |
 | Hopping Girl Kohane EX | 234734 | [234734-hopping-girl-kohane-ex.json](./234734-hopping-girl-kohane-ex.json) |
 | Hopping girl Kohane Jumping Kingdom: Princess of the Black Rabbit | 124022 | [124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json](./124022-hopping-girl-kohane-jumping-kingdom-princess-of-the-black-rabbit.json) |
