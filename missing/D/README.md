@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon x Machina: Titanic Scion - Free Reclaimer Outfit | 375262 | [375262-daemon-x-machina-titanic-scion-free-reclaimer-outfit.json](./375262-daemon-x-machina-titanic-scion-free-reclaimer-outfit.json) |
 | Daemon x Machina: Titanic Scion - Into the Abyss | 375177 | [375177-daemon-x-machina-titanic-scion-into-the-abyss.json](./375177-daemon-x-machina-titanic-scion-into-the-abyss.json) |
 | Daemon x Machina: Titanic Scion - Reclaimers Outfit Set | 375261 | [375261-daemon-x-machina-titanic-scion-reclaimers-outfit-set.json](./375261-daemon-x-machina-titanic-scion-reclaimers-outfit-set.json) |
+| Daemon x Machina: Titanic Scion - Sovereign Axiom Outfit Set | 373414 | [373414-daemon-x-machina-titanic-scion-sovereign-axiom-outfit-set.json](./373414-daemon-x-machina-titanic-scion-sovereign-axiom-outfit-set.json) |
 | Daemon x Machina: Titanic Scion - Special Equipment Set | 349604 | [349604-daemon-x-machina-titanic-scion-special-equipment-set.json](./349604-daemon-x-machina-titanic-scion-special-equipment-set.json) |
 | Daemon x Machina: Titanic Scion - Special SFX Weapon Set | 349605 | [349605-daemon-x-machina-titanic-scion-special-sfx-weapon-set.json](./349605-daemon-x-machina-titanic-scion-special-sfx-weapon-set.json) |
 | Daemon x Machina: Titanic Scion - Super Digital Deluxe Edition | 349592 | [349592-daemon-x-machina-titanic-scion-super-digital-deluxe-edition.json](./349592-daemon-x-machina-titanic-scion-super-digital-deluxe-edition.json) |
@@ -8067,6 +8068,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: The Witch Queen - Season of the Seraph | 228435 | [228435-destiny-2-the-witch-queen-season-of-the-seraph.json](./228435-destiny-2-the-witch-queen-season-of-the-seraph.json) |
 | Destiny 2: The Witch Queen Deluxe + Bungie 30th Anniversary Bundle | 166036 | [166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json](./166036-destiny-2-the-witch-queen-deluxe-bungie-30th-anniversary-bundle.json) |
 | Destiny 2: Warmind | 97258 | [97258-destiny-2-warmind.json](./97258-destiny-2-warmind.json) |
+| Destiny 2: Year of Prophecy | 373457 | [373457-destiny-2-year-of-prophecy.json](./373457-destiny-2-year-of-prophecy.json) |
+| Destiny 2: Year of Prophecy Ultimate Edition | 373458 | [373458-destiny-2-year-of-prophecy-ultimate-edition.json](./373458-destiny-2-year-of-prophecy-ultimate-edition.json) |
 | Destiny Architect | 70225 | [70225-destiny-architect.json](./70225-destiny-architect.json) |
 | Destiny Blade | 331758 | [331758-destiny-blade.json](./331758-destiny-blade.json) |
 | Destiny Chaser | 114413 | [114413-destiny-chaser.json](./114413-destiny-chaser.json) |
@@ -11532,6 +11535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissida Final Fantasy NT: Vayne Carudas Solidor Starter Pack | 404505 | [404505-dissida-final-fantasy-nt-vayne-carudas-solidor-starter-pack.json](./404505-dissida-final-fantasy-nt-vayne-carudas-solidor-starter-pack.json) |
 | Dissida Final Fantsy NT: Tifa Lockhart Starter Pack | 383762 | [383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json](./383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json) |
 | Dissidia 012 Final Fantasy | 24288 | [24288-dissidia-012-final-fantasy.json](./24288-dissidia-012-final-fantasy.json) |
+| Dissidia Duellum Final Fantasy | 373430 | [373430-dissidia-duellum-final-fantasy.json](./373430-dissidia-duellum-final-fantasy.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
 | Dissidia Final Fantasy Arcade | 24405 | [24405-dissidia-final-fantasy-arcade.json](./24405-dissidia-final-fantasy-arcade.json) |
 | Dissidia Final Fantasy NT: 3rd Appearance Special Set for Warrior of Light and Y'shtola | 224425 | [224425-dissidia-final-fantasy-nt-3rd-appearance-special-set-for-warrior-of-light-and-yshtola.json](./224425-dissidia-final-fantasy-nt-3rd-appearance-special-set-for-warrior-of-light-and-yshtola.json) |
@@ -15519,6 +15523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Origins - Witch Hunt | 17464 | [17464-dragon-age-origins-witch-hunt.json](./17464-dragon-age-origins-witch-hunt.json) |
 | Dragon Age: Origins Collector's Edition | 21765 | [21765-dragon-age-origins-collectors-edition.json](./21765-dragon-age-origins-collectors-edition.json) |
 | Dragon Age: The Veilguard - Deluxe Edition | 321666 | [321666-dragon-age-the-veilguard-deluxe-edition.json](./321666-dragon-age-the-veilguard-deluxe-edition.json) |
+| Dragon Age: The Veilguard - Rook's Weapons Appearance Offer | 373465 | [373465-dragon-age-the-veilguard-rooks-weapons-appearance-offer.json](./373465-dragon-age-the-veilguard-rooks-weapons-appearance-offer.json) |
 | Dragon and Home | 164129 | [164129-dragon-and-home.json](./164129-dragon-and-home.json) |
 | Dragon and Mahjong | 402371 | [402371-dragon-and-mahjong.json](./402371-dragon-and-mahjong.json) |
 | Dragon and Phoenix | 330503 | [330503-dragon-and-phoenix.json](./330503-dragon-and-phoenix.json) |
