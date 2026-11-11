@@ -4045,6 +4045,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempo Punk | 212148 | [212148-tempo-punk.json](./212148-tempo-punk.json) |
 | Tempo Quest | 103049 | [103049-tempo-quest.json](./103049-tempo-quest.json) |
 | Tempo Tamer | 384853 | [384853-tempo-tamer.json](./384853-tempo-tamer.json) |
+| Tempo Typen | 386055 | [386055-tempo-typen.json](./386055-tempo-typen.json) |
+| Tempo Typen | 386056 | [386056-tempo-typen.json](./386056-tempo-typen.json) |
 | Tempo Wizard | 108672 | [108672-tempo-wizard.json](./108672-tempo-wizard.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Tempomancy | 266582 | [266582-tempomancy.json](./266582-tempomancy.json) |
@@ -6626,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baseball 2003: Akikigou | 78816 | [78816-the-baseball-2003-akikigou.json](./78816-the-baseball-2003-akikigou.json) |
 | The Baseball 2003: Shuuki-gou | 269389 | [269389-the-baseball-2003-shuuki-gou.json](./269389-the-baseball-2003-shuuki-gou.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
+| The Baseball: Hero Stadium | 385505 | [385505-the-baseball-hero-stadium.json](./385505-the-baseball-hero-stadium.json) |
 | The Based Turnabout | 308419 | [308419-the-based-turnabout.json](./308419-the-based-turnabout.json) |
 | The Basement | 183153 | [183153-the-basement.json](./183153-the-basement.json) |
 | The Basement | 274942 | [274942-the-basement.json](./274942-the-basement.json) |
@@ -12407,6 +12410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kingsward | 400393 | [400393-the-kingsward.json](./400393-the-kingsward.json) |
 | The Kinky Kitsune and The Tantalizing Tanuki | 236088 | [236088-the-kinky-kitsune-and-the-tantalizing-tanuki.json](./236088-the-kinky-kitsune-and-the-tantalizing-tanuki.json) |
 | The Kite | 111664 | [111664-the-kite.json](./111664-the-kite.json) |
+| The Kite | 386658 | [386658-the-kite.json](./386658-the-kite.json) |
 | The Kitten Game | 409370 | [409370-the-kitten-game.json](./409370-the-kitten-game.json) |
 | The Kitty in The Spaceship | 256593 | [256593-the-kitty-in-the-spaceship.json](./256593-the-kitty-in-the-spaceship.json) |
 | The Kitty in the Trapping Garden | 273316 | [273316-the-kitty-in-the-trapping-garden.json](./273316-the-kitty-in-the-trapping-garden.json) |
@@ -27313,6 +27317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torte Le Magic | 246694 | [246694-torte-le-magic.json](./246694-torte-le-magic.json) |
 | Torto: Cursed Divine | 140842 | [140842-torto-cursed-divine.json](./140842-torto-cursed-divine.json) |
 | Tortuga | 170232 | [170232-tortuga.json](./170232-tortuga.json) |
+| Tortuga 2 | 386635 | [386635-tortuga-2.json](./386635-tortuga-2.json) |
 | Tortuga 3 | 392731 | [392731-tortuga-3.json](./392731-tortuga-3.json) |
 | Tortuga Bay | 92987 | [92987-tortuga-bay.json](./92987-tortuga-bay.json) |
 | Tortuga City | 298778 | [298778-tortuga-city.json](./298778-tortuga-city.json) |
