@@ -5716,6 +5716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Exit | 190024 | [190024-find-exit.json](./190024-find-exit.json) |
 | Find Food | 246329 | [246329-find-food.json](./246329-find-food.json) |
 | Find Girl | 157276 | [157276-find-girl.json](./157276-find-girl.json) |
+| Find Gold! | 395935 | [395935-find-gold.json](./395935-find-gold.json) |
 | Find Her in Dungeon | 195841 | [195841-find-her-in-dungeon.json](./195841-find-her-in-dungeon.json) |
 | Find Hidden Objects - Spot It! | 387469 | [387469-find-hidden-objects-spot-it.json](./387469-find-hidden-objects-spot-it.json) |
 | Find Him | 292771 | [292771-find-him.json](./292771-find-him.json) |
@@ -8985,6 +8986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flute Master: Trick or Treat | 170513 | [170513-flute-master-trick-or-treat.json](./170513-flute-master-trick-or-treat.json) |
 | Flute The Snake Charmer | 295465 | [295465-flute-the-snake-charmer.json](./295465-flute-the-snake-charmer.json) |
 | Fluttabyes | 10325 | [10325-fluttabyes.json](./10325-fluttabyes.json) |
+| Flutter | 395923 | [395923-flutter.json](./395923-flutter.json) |
 | Flutter Bombs | 118515 | [118515-flutter-bombs.json](./118515-flutter-bombs.json) |
 | Flutter of birds II: Tenshi-tachi no Tsubasa | 310651 | [310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json](./310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json) |
 | Flutter of Birds: Tori-tachi no Habataki | 293164 | [293164-flutter-of-birds-tori-tachi-no-habataki.json](./293164-flutter-of-birds-tori-tachi-no-habataki.json) |
