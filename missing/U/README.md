@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercurrent | 187067 | [187067-undercurrent.json](./187067-undercurrent.json) |
 | Undercurrent | 399199 | [399199-undercurrent.json](./399199-undercurrent.json) |
 | Undercurrent: The Hollow Crown | 421578 | [421578-undercurrent-the-hollow-crown.json](./421578-undercurrent-the-hollow-crown.json) |
+| Underdark | 357535 | [357535-underdark.json](./357535-underdark.json) |
 | UnderDark | 313950 | [313950-underdark.json](./313950-underdark.json) |
 | Underdeck | 100755 | [100755-underdeck.json](./100755-underdeck.json) |
 | Underdeep | 423858 | [423858-underdeep.json](./423858-underdeep.json) |
