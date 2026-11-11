@@ -3135,11 +3135,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: Forsaken Masters | 75573 | [75573-path-of-exile-forsaken-masters.json](./75573-path-of-exile-forsaken-masters.json) |
 | Path of Exile: Keepers of the Flame | 375214 | [375214-path-of-exile-keepers-of-the-flame.json](./375214-path-of-exile-keepers-of-the-flame.json) |
 | Path of Exile: King of the Faridun Supporter Pack | 332030 | [332030-path-of-exile-king-of-the-faridun-supporter-pack.json](./332030-path-of-exile-king-of-the-faridun-supporter-pack.json) |
+| Path of Exile: Liberator of Wraeclast Supporter Pack | 332122 | [332122-path-of-exile-liberator-of-wraeclast-supporter-pack.json](./332122-path-of-exile-liberator-of-wraeclast-supporter-pack.json) |
+| Path of Exile: Lord of Ogham Supporter Pack | 332121 | [332121-path-of-exile-lord-of-ogham-supporter-pack.json](./332121-path-of-exile-lord-of-ogham-supporter-pack.json) |
 | Path of Exile: Mirage | 393960 | [393960-path-of-exile-mirage.json](./393960-path-of-exile-mirage.json) |
 | Path of Exile: Sacrifice of the Vaal | 75574 | [75574-path-of-exile-sacrifice-of-the-vaal.json](./75574-path-of-exile-sacrifice-of-the-vaal.json) |
 | Path of Exile: Secrets of the Atlas | 350378 | [350378-path-of-exile-secrets-of-the-atlas.json](./350378-path-of-exile-secrets-of-the-atlas.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
 | Path of Exile: Synthesis | 115463 | [115463-path-of-exile-synthesis.json](./115463-path-of-exile-synthesis.json) |
+| Path of Exile: Thaumaturge of the Vaal Supporter Pack | 332100 | [332100-path-of-exile-thaumaturge-of-the-vaal-supporter-pack.json](./332100-path-of-exile-thaumaturge-of-the-vaal-supporter-pack.json) |
 | Path of Exile: The Awakening | 75570 | [75570-path-of-exile-the-awakening.json](./75570-path-of-exile-the-awakening.json) |
 | Path of Exile: The Fall of Oriath | 51543 | [51543-path-of-exile-the-fall-of-oriath.json](./51543-path-of-exile-the-fall-of-oriath.json) |
 | Path of Exile: Trial of the Ancestors | 262570 | [262570-path-of-exile-trial-of-the-ancestors.json](./262570-path-of-exile-trial-of-the-ancestors.json) |
@@ -9737,6 +9740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Coaster 2: Bonus Ride Collection | 371960 | [371960-planet-coaster-2-bonus-ride-collection.json](./371960-planet-coaster-2-bonus-ride-collection.json) |
 | Planet Coaster 2: Deluxe Edition | 331854 | [331854-planet-coaster-2-deluxe-edition.json](./331854-planet-coaster-2-deluxe-edition.json) |
 | Planet Coaster 2: Sorcery Pack | 369234 | [369234-planet-coaster-2-sorcery-pack.json](./369234-planet-coaster-2-sorcery-pack.json) |
+| Planet Coaster 2: Thrill-Seekers Ride Pack | 332111 | [332111-planet-coaster-2-thrill-seekers-ride-pack.json](./332111-planet-coaster-2-thrill-seekers-ride-pack.json) |
 | Planet Coaster 2: Vintage Funfair Ride Pack | 369235 | [369235-planet-coaster-2-vintage-funfair-ride-pack.json](./369235-planet-coaster-2-vintage-funfair-ride-pack.json) |
 | Planet Coaster: Adventure Pack | 76963 | [76963-planet-coaster-adventure-pack.json](./76963-planet-coaster-adventure-pack.json) |
 | Planet Coaster: Back to the Future Time Machine Construction Kit | 168240 | [168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json](./168240-planet-coaster-back-to-the-future-time-machine-construction-kit.json) |
@@ -12747,8 +12751,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Simulator: Patrol Officers - Guardian Police Vehicle | 278390 | [278390-police-simulator-patrol-officers-guardian-police-vehicle.json](./278390-police-simulator-patrol-officers-guardian-police-vehicle.json) |
 | Police Simulator: Patrol Officers - Highway Patrol Expansion | 297735 | [297735-police-simulator-patrol-officers-highway-patrol-expansion.json](./297735-police-simulator-patrol-officers-highway-patrol-expansion.json) |
 | Police Simulator: Patrol Officers - Nintendo Switch Edition | 308630 | [308630-police-simulator-patrol-officers-nintendo-switch-edition.json](./308630-police-simulator-patrol-officers-nintendo-switch-edition.json) |
+| Police Simulator: Patrol Officers - Special Police Vehicle Pack | 332107 | [332107-police-simulator-patrol-officers-special-police-vehicle-pack.json](./332107-police-simulator-patrol-officers-special-police-vehicle-pack.json) |
 | Police Simulator: Patrol Officers - Steelbook Edition | 210908 | [210908-police-simulator-patrol-officers-steelbook-edition.json](./210908-police-simulator-patrol-officers-steelbook-edition.json) |
 | Police Simulator: Patrol Officers - Surveillance Police Vehicle | 278391 | [278391-police-simulator-patrol-officers-surveillance-police-vehicle.json](./278391-police-simulator-patrol-officers-surveillance-police-vehicle.json) |
+| Police Simulator: Patrol Officers - Tropical Taskforce Pack | 332108 | [332108-police-simulator-patrol-officers-tropical-taskforce-pack.json](./332108-police-simulator-patrol-officers-tropical-taskforce-pack.json) |
+| Police Simulator: Patrol Officers - Unmarked Police Vehicle Pack | 332109 | [332109-police-simulator-patrol-officers-unmarked-police-vehicle-pack.json](./332109-police-simulator-patrol-officers-unmarked-police-vehicle-pack.json) |
 | Police Simulator: Patrol Officers - Urban Terrain Vehicle | 268836 | [268836-police-simulator-patrol-officers-urban-terrain-vehicle.json](./268836-police-simulator-patrol-officers-urban-terrain-vehicle.json) |
 | Police Simulator: Patrol Officers - Warden Police Vehicle | 290843 | [290843-police-simulator-patrol-officers-warden-police-vehicle.json](./290843-police-simulator-patrol-officers-warden-police-vehicle.json) |
 | Police Skill | 277706 | [277706-police-skill.json](./277706-police-skill.json) |
