@@ -176,6 +176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raatihuone | 116219 | [116219-raatihuone.json](./116219-raatihuone.json) |
 | Rabanaz | 403571 | [403571-rabanaz.json](./403571-rabanaz.json) |
 | Rabauken: Spirit Resort | 400394 | [400394-rabauken-spirit-resort.json](./400394-rabauken-spirit-resort.json) |
+| Rabbat | 365908 | [365908-rabbat.json](./365908-rabbat.json) |
 | Rabbi-T | 240780 | [240780-rabbi-t.json](./240780-rabbi-t.json) |
 | Rabbicent Adventures | 258777 | [258777-rabbicent-adventures.json](./258777-rabbicent-adventures.json) |
 | Rabbids & Ladders | 228663 | [228663-rabbids-and-ladders.json](./228663-rabbids-and-ladders.json) |
