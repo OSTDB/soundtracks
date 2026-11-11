@@ -6427,6 +6427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God’s Blessing on That Desire World! | 405872 | [405872-god-s-blessing-on-that-desire-world.json](./405872-god-s-blessing-on-that-desire-world.json) |
 | God's Continent | 365355 | [365355-gods-continent.json](./365355-gods-continent.json) |
 | God's Death | 32747 | [32747-gods-death.json](./32747-gods-death.json) |
+| God's Disdain | 331583 | [331583-gods-disdain.json](./331583-gods-disdain.json) |
 | God's Forest | 265133 | [265133-gods-forest.json](./265133-gods-forest.json) |
 | God's Gift | 236876 | [236876-gods-gift.json](./236876-gods-gift.json) |
 | God's League | 341477 | [341477-gods-league.json](./341477-gods-league.json) |
