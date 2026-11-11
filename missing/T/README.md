@@ -16248,6 +16248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quiet Days of Dorothy | 391324 | [391324-the-quiet-days-of-dorothy.json](./391324-the-quiet-days-of-dorothy.json) |
 | The Quiet Execution | 275411 | [275411-the-quiet-execution.json](./275411-the-quiet-execution.json) |
 | The Quiet Flat | 416368 | [416368-the-quiet-flat.json](./416368-the-quiet-flat.json) |
+| The Quiet Hum of a Lonely Heart | 361976 | [361976-the-quiet-hum-of-a-lonely-heart.json](./361976-the-quiet-hum-of-a-lonely-heart.json) |
 | The Quiet Lonely House | 186264 | [186264-the-quiet-lonely-house.json](./186264-the-quiet-lonely-house.json) |
 | The Quiet Man | 103313 | [103313-the-quiet-man.json](./103313-the-quiet-man.json) |
 | The Quiet Order | 410549 | [410549-the-quiet-order.json](./410549-the-quiet-order.json) |
@@ -16669,6 +16670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road to Recovery: A Personal 2D Adventure Game | 259174 | [259174-the-road-to-recovery-a-personal-2d-adventure-game.json](./259174-the-road-to-recovery-a-personal-2d-adventure-game.json) |
 | The Road to Wellchapel | 180938 | [180938-the-road-to-wellchapel.json](./180938-the-road-to-wellchapel.json) |
 | The Road Trip | 100460 | [100460-the-road-trip.json](./100460-the-road-trip.json) |
+| The Roadside Motel | 361946 | [361946-the-roadside-motel.json](./361946-the-roadside-motel.json) |
 | The Roaring Empire | 132661 | [132661-the-roaring-empire.json](./132661-the-roaring-empire.json) |
 | The Roast: Coffee Shop Simulator | 350012 | [350012-the-roast-coffee-shop-simulator.json](./350012-the-roast-coffee-shop-simulator.json) |
 | The Robolovers | 172707 | [172707-the-robolovers.json](./172707-the-robolovers.json) |
@@ -18388,6 +18390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Survivors | 345387 | [345387-the-survivors.json](./345387-the-survivors.json) |
 | The Survivors | 47142 | [47142-the-survivors.json](./47142-the-survivors.json) |
 | The Survivors: Battle Royale | 108808 | [108808-the-survivors-battle-royale.json](./108808-the-survivors-battle-royale.json) |
+| The Sushi House | 361978 | [361978-the-sushi-house.json](./361978-the-sushi-house.json) |
 | The Sushi Restaurant | 374548 | [374548-the-sushi-restaurant.json](./374548-the-sushi-restaurant.json) |
 | The Sushi Spinnery | 63346 | [63346-the-sushi-spinnery.json](./63346-the-sushi-spinnery.json) |
 | The Suspected Murder | 308911 | [308911-the-suspected-murder.json](./308911-the-suspected-murder.json) |
@@ -19312,6 +19315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Arena | 77357 | [77357-the-ultimate-arena.json](./77357-the-ultimate-arena.json) |
 | The Ultimate Banana Game | 330898 | [330898-the-ultimate-banana-game.json](./330898-the-ultimate-banana-game.json) |
 | The Ultimate Battle of the Sexes: Quiz & Play! | 65242 | [65242-the-ultimate-battle-of-the-sexes-quiz-and-play.json](./65242-the-ultimate-battle-of-the-sexes-quiz-and-play.json) |
+| The Ultimate Box Games | 361969 | [361969-the-ultimate-box-games.json](./361969-the-ultimate-box-games.json) |
 | The Ultimate Celebration | 124587 | [124587-the-ultimate-celebration.json](./124587-the-ultimate-celebration.json) |
 | The Ultimate Clicker Master of the Universe | 334825 | [334825-the-ultimate-clicker-master-of-the-universe.json](./334825-the-ultimate-clicker-master-of-the-universe.json) |
 | The Ultimate Couch Game | 288626 | [288626-the-ultimate-couch-game.json](./288626-the-ultimate-couch-game.json) |
@@ -19362,6 +19366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unbeatable Path | 137209 | [137209-the-unbeatable-path.json](./137209-the-unbeatable-path.json) |
 | The Unbreakable Chain | 62967 | [62967-the-unbreakable-chain.json](./62967-the-unbreakable-chain.json) |
 | The Unbreakable Gumball | 108316 | [108316-the-unbreakable-gumball.json](./108316-the-unbreakable-gumball.json) |
+| The Uncalled | 361929 | [361929-the-uncalled.json](./361929-the-uncalled.json) |
 | The Uncanny X-Men | 48050 | [48050-the-uncanny-x-men.json](./48050-the-uncanny-x-men.json) |
 | The Uncanny X-Men: Days of the Future Past | 62067 | [62067-the-uncanny-x-men-days-of-the-future-past.json](./62067-the-uncanny-x-men-days-of-the-future-past.json) |
 | The Uncertain: Last Quiet Day | 34366 | [34366-the-uncertain-last-quiet-day.json](./34366-the-uncertain-last-quiet-day.json) |
@@ -26655,6 +26660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommyknockers | 90005 | [90005-tommyknockers.json](./90005-tommyknockers.json) |
 | Tommyrot | 416523 | [416523-tommyrot.json](./416523-tommyrot.json) |
 | Tomo Jam! | 378142 | [378142-tomo-jam.json](./378142-tomo-jam.json) |
+| Tomo the Wildcat | 361953 | [361953-tomo-the-wildcat.json](./361953-tomo-the-wildcat.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
 | Tomodachi 8in1 | 376653 | [376653-tomodachi-8in1.json](./376653-tomodachi-8in1.json) |
 | Tomodachi Ijou, Joubutsu Miman | 394078 | [394078-tomodachi-ijou-joubutsu-miman.json](./394078-tomodachi-ijou-joubutsu-miman.json) |
