@@ -2805,7 +2805,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Planet HD | 88976 | [88976-tasty-planet-hd.json](./88976-tasty-planet-hd.json) |
 | Tasty Planet: Back for Seconds | 33469 | [33469-tasty-planet-back-for-seconds.json](./33469-tasty-planet-back-for-seconds.json) |
 | Tasty Planet: Final Bite | 384906 | [384906-tasty-planet-final-bite.json](./384906-tasty-planet-final-bite.json) |
-| Tasty Ramen | 176503 | [176503-tasty-ramen.json](./176503-tasty-ramen.json) |
 | Tasty Shafts | 128402 | [128402-tasty-shafts.json](./128402-tasty-shafts.json) |
 | Tasty Slot Machine | 242552 | [242552-tasty-slot-machine.json](./242552-tasty-slot-machine.json) |
 | Tasty Static | 216166 | [216166-tasty-static.json](./216166-tasty-static.json) |
@@ -8860,6 +8859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Shoes | 165813 | [165813-the-devils-shoes.json](./165813-the-devils-shoes.json) |
 | The Devil's Soul Inside Me | 299078 | [299078-the-devils-soul-inside-me.json](./299078-the-devils-soul-inside-me.json) |
 | The Devil's Teeth | 234806 | [234806-the-devils-teeth.json](./234806-the-devils-teeth.json) |
+| The Devil's Whisper | 318876 | [318876-the-devils-whisper.json](./318876-the-devils-whisper.json) |
 | The Devil's Womb | 122006 | [122006-the-devils-womb.json](./122006-the-devils-womb.json) |
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
 | The Devilry Reservation 2 | 356599 | [356599-the-devilry-reservation-2.json](./356599-the-devilry-reservation-2.json) |
@@ -15477,7 +15477,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The ordinary case of Margaret Luoni | 152819 | [152819-the-ordinary-case-of-margaret-luoni.json](./152819-the-ordinary-case-of-margaret-luoni.json) |
 | The Oregon Trail | 11325 | [11325-the-oregon-trail.json](./11325-the-oregon-trail.json) |
 | The Oregon Trail | 191526 | [191526-the-oregon-trail.json](./191526-the-oregon-trail.json) |
-| The Oregon Trail | 193664 | [193664-the-oregon-trail.json](./193664-the-oregon-trail.json) |
 | The Oregon Trail | 213730 | [213730-the-oregon-trail.json](./213730-the-oregon-trail.json) |
 | The Oregon Trail | 256938 | [256938-the-oregon-trail.json](./256938-the-oregon-trail.json) |
 | The Oregon Trail | 78864 | [78864-the-oregon-trail.json](./78864-the-oregon-trail.json) |
@@ -17569,7 +17568,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Simpsons.exe | 388397 | [388397-the-simpsons-exe.json](./388397-the-simpsons-exe.json) |
 | The Sims | 224864 | [224864-the-sims.json](./224864-the-sims.json) |
 | The Sims 2 | 210459 | [210459-the-sims-2.json](./210459-the-sims-2.json) |
-| The Sims 2 | 210460 | [210460-the-sims-2.json](./210460-the-sims-2.json) |
 | The Sims 2: Apartment Life | 5538 | [5538-the-sims-2-apartment-life.json](./5538-the-sims-2-apartment-life.json) |
 | The Sims 2: Apartment Pets | 21464 | [21464-the-sims-2-apartment-pets.json](./21464-the-sims-2-apartment-pets.json) |
 | The Sims 2: Bon Voyage | 5536 | [5536-the-sims-2-bon-voyage.json](./5536-the-sims-2-bon-voyage.json) |
