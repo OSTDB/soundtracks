@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F29 Retaliator | 195920 | [195920-f29-retaliator.json](./195920-f29-retaliator.json) |
 | F2oggy | 231752 | [231752-f2oggy.json](./231752-f2oggy.json) |
 | F355 Challenge | 10348 | [10348-f355-challenge.json](./10348-f355-challenge.json) |
+| F355 Challenge 2: International Course Edition | 392560 | [392560-f355-challenge-2-international-course-edition.json](./392560-f355-challenge-2-international-course-edition.json) |
 | F40 Pursuit Simulator | 47217 | [47217-f40-pursuit-simulator.json](./47217-f40-pursuit-simulator.json) |
 | F8S | 114519 | [114519-f8s.json](./114519-f8s.json) |
 | Fa Jin | 288054 | [288054-fa-jin.json](./288054-fa-jin.json) |
@@ -3861,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feda: The Emblem of Justice Remake | 45521 | [45521-feda-the-emblem-of-justice-remake.json](./45521-feda-the-emblem-of-justice-remake.json) |
 | Fedanheim | 415921 | [415921-fedanheim.json](./415921-fedanheim.json) |
 | Federal Cadet | 412257 | [412257-federal-cadet.json](./412257-federal-cadet.json) |
+| Federal Reserve Simulator | 392827 | [392827-federal-reserve-simulator.json](./392827-federal-reserve-simulator.json) |
 | Federation | 229319 | [229319-federation.json](./229319-federation.json) |
 | Federation | 257004 | [257004-federation.json](./257004-federation.json) |
 | Federation 2: Community Edition | 229756 | [229756-federation-2-community-edition.json](./229756-federation-2-community-edition.json) |
@@ -7876,6 +7878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Gordon | 218420 | [218420-flash-gordon.json](./218420-flash-gordon.json) |
 | Flash Gordon | 22735 | [22735-flash-gordon.json](./22735-flash-gordon.json) |
 | Flash Hiders | 37600 | [37600-flash-hiders.json](./37600-flash-hiders.json) |
+| Flash Knight Nymphelia | 392701 | [392701-flash-knight-nymphelia.json](./392701-flash-knight-nymphelia.json) |
 | Flash Koibito-Kun | 37547 | [37547-flash-koibito-kun.json](./37547-flash-koibito-kun.json) |
 | Flash Memory | 230692 | [230692-flash-memory.json](./230692-flash-memory.json) |
 | Flash Motor Karen | 58570 | [58570-flash-motor-karen.json](./58570-flash-motor-karen.json) |
@@ -8771,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow Free: Hexes | 96260 | [96260-flow-free-hexes.json](./96260-flow-free-hexes.json) |
 | Flow Gear Racing | 153399 | [153399-flow-gear-racing.json](./153399-flow-gear-racing.json) |
 | Flow Handcrafted | 75663 | [75663-flow-handcrafted.json](./75663-flow-handcrafted.json) |
+| Flow Legends | 392546 | [392546-flow-legends.json](./392546-flow-legends.json) |
 | Flow levels | 95755 | [95755-flow-levels.json](./95755-flow-levels.json) |
 | Flow of Sound | 262764 | [262764-flow-of-sound.json](./262764-flow-of-sound.json) |
 | Flow of War | 272262 | [272262-flow-of-war.json](./272262-flow-of-war.json) |
@@ -8894,6 +8898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlowScape | 121007 | [121007-flowscape.json](./121007-flowscape.json) |
 | FlowState | 137343 | [137343-flowstate.json](./137343-flowstate.json) |
 | Flowstone Saga | 152329 | [152329-flowstone-saga.json](./152329-flowstone-saga.json) |
+| Flowsxty | 392566 | [392566-flowsxty.json](./392566-flowsxty.json) |
 | Flowtris | 364726 | [364726-flowtris.json](./364726-flowtris.json) |
 | Flowxie's Mission | 307778 | [307778-flowxies-mission.json](./307778-flowxies-mission.json) |
 | Floyd Factory Jam | 319704 | [319704-floyd-factory-jam.json](./319704-floyd-factory-jam.json) |
@@ -9034,6 +9039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Corp: DLC Bundle | 330220 | [330220-fly-corp-dlc-bundle.json](./330220-fly-corp-dlc-bundle.json) |
 | Fly Corp: Extreme Scenarios DLC Pack | 330219 | [330219-fly-corp-extreme-scenarios-dlc-pack.json](./330219-fly-corp-extreme-scenarios-dlc-pack.json) |
 | Fly Corp: Quick Scenarios DLC Pack | 330218 | [330218-fly-corp-quick-scenarios-dlc-pack.json](./330218-fly-corp-quick-scenarios-dlc-pack.json) |
+| Fly Cowboy Online | 392705 | [392705-fly-cowboy-online.json](./392705-fly-cowboy-online.json) |
 | Fly Dangerous | 175784 | [175784-fly-dangerous.json](./175784-fly-dangerous.json) |
 | Fly Destroyer | 74344 | [74344-fly-destroyer.json](./74344-fly-destroyer.json) |
 | Fly Fish | 148949 | [148949-fly-fish.json](./148949-fly-fish.json) |
@@ -10425,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forged in Epic | 286337 | [286337-forged-in-epic.json](./286337-forged-in-epic.json) |
 | Forged in Fire: Master Smith | 397087 | [397087-forged-in-fire-master-smith.json](./397087-forged-in-fire-master-smith.json) |
 | Forged of Blood | 27954 | [27954-forged-of-blood.json](./27954-forged-of-blood.json) |
+| Forged: Reconquest | 392706 | [392706-forged-reconquest.json](./392706-forged-reconquest.json) |
 | Forgekeepers | 332542 | [332542-forgekeepers.json](./332542-forgekeepers.json) |
 | ForgeRun | 374047 | [374047-forgerun.json](./374047-forgerun.json) |
 | Forgery Craft | 276210 | [276210-forgery-craft.json](./276210-forgery-craft.json) |
