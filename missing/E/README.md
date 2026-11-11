@@ -7720,6 +7720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Nun 2: Origins | 269425 | [269425-evil-nun-2-origins.json](./269425-evil-nun-2-origins.json) |
 | Evil Nun Maze | 356568 | [356568-evil-nun-maze.json](./356568-evil-nun-maze.json) |
 | Evil Nun Rush | 208177 | [208177-evil-nun-rush.json](./208177-evil-nun-rush.json) |
+| Evil Nun: The Broken Mask - Unholy Edition | 324596 | [324596-evil-nun-the-broken-mask-unholy-edition.json](./324596-evil-nun-the-broken-mask-unholy-edition.json) |
 | Evil of Demons: Algailah | 243948 | [243948-evil-of-demons-algailah.json](./243948-evil-of-demons-algailah.json) |
 | Evil of Fate | 373549 | [373549-evil-of-fate.json](./373549-evil-of-fate.json) |
 | Evil Officer | 259596 | [259596-evil-officer.json](./259596-evil-officer.json) |
