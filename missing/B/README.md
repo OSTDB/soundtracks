@@ -1018,7 +1018,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -2883,6 +2882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barko | 413751 | [413751-barko.json](./413751-barko.json) |
 | Barkour | 177202 | [177202-barkour.json](./177202-barkour.json) |
 | Barkour | 313588 | [313588-barkour.json](./313588-barkour.json) |
+| Barks and Bytes | 347966 | [347966-barks-and-bytes.json](./347966-barks-and-bytes.json) |
 | Barles Charkley's Shut Up and Paint | 180507 | [180507-barles-charkleys-shut-up-and-paint.json](./180507-barles-charkleys-shut-up-and-paint.json) |
 | Barman Simulator | 334465 | [334465-barman-simulator.json](./334465-barman-simulator.json) |
 | Barmark | 114665 | [114665-barmark.json](./114665-barmark.json) |
