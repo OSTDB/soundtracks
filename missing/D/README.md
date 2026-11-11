@@ -2108,6 +2108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's Lenore - Collector's Edition | 370676 | [370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json](./370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Ligeia | 140122 | [140122-dark-tales-edgar-allan-poes-ligeia.json](./140122-dark-tales-edgar-allan-poes-ligeia.json) |
 | Dark Tales: Edgar Allan Poe's Ligeia - Collector's Edition | 121318 | [121318-dark-tales-edgar-allan-poes-ligeia-collectors-edition.json](./121318-dark-tales-edgar-allan-poes-ligeia-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's Metzengerstein - Collector's Edition | 370587 | [370587-dark-tales-edgar-allan-poes-metzengerstein-collectors-edition.json](./370587-dark-tales-edgar-allan-poes-metzengerstein-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Morella - Collector's Edition | 370677 | [370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json](./370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Murders in the Rue Morgue | 120626 | [120626-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue.json](./120626-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue.json) |
 | Dark Tales: Edgar Allan Poe's Murders in the Rue Morgue - Collector's Edition | 209007 | [209007-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue-collectors-edition.json](./209007-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue-collectors-edition.json) |
@@ -12133,6 +12134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Play | 339989 | [339989-do-not-play.json](./339989-do-not-play.json) |
 | Do Not Press Me | 398135 | [398135-do-not-press-me.json](./398135-do-not-press-me.json) |
 | Do Not Press the Red Button | 88105 | [88105-do-not-press-the-red-button.json](./88105-do-not-press-the-red-button.json) |
+| Do Not Say 21! | 370046 | [370046-do-not-say-21.json](./370046-do-not-say-21.json) |
 | Do Not Smile | 271107 | [271107-do-not-smile.json](./271107-do-not-smile.json) |
 | Do Not Take This Cat Home | 289118 | [289118-do-not-take-this-cat-home.json](./289118-do-not-take-this-cat-home.json) |
 | Do Not Touch | 266518 | [266518-do-not-touch.json](./266518-do-not-touch.json) |
@@ -16440,6 +16442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons in Space | 194349 | [194349-dragons-in-space.json](./194349-dragons-in-space.json) |
 | Dragons Legacy | 291804 | [291804-dragons-legacy.json](./291804-dragons-legacy.json) |
 | Dragons Legacy: Monsters Lair | 342379 | [342379-dragons-legacy-monsters-lair.json](./342379-dragons-legacy-monsters-lair.json) |
+| Dragons of 1066 | 370585 | [370585-dragons-of-1066.json](./370585-dragons-of-1066.json) |
 | Dragons of Atlantis | 303231 | [303231-dragons-of-atlantis.json](./303231-dragons-of-atlantis.json) |
 | Dragons of Elanthia | 62998 | [62998-dragons-of-elanthia.json](./62998-dragons-of-elanthia.json) |
 | Dragons of Hong Kong | 55836 | [55836-dragons-of-hong-kong.json](./55836-dragons-of-hong-kong.json) |
