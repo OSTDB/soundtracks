@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Zero World GP | 338830 | [338830-g-zero-world-gp.json](./338830-g-zero-world-gp.json) |
 | G-Zilla | 196271 | [196271-g-zilla.json](./196271-g-zilla.json) |
 | G:nom | 125389 | [125389-g-nom.json](./125389-g-nom.json) |
+| G! | 353549 | [353549-g.json](./353549-g.json) |
 | G.B.R : Special Commando Unit | 24734 | [24734-g-b-r-special-commando-unit.json](./24734-g-b-r-special-commando-unit.json) |
 | G.E.A.R. | 323238 | [323238-g-e-a-r.json](./323238-g-e-a-r.json) |
 | G.E.M. Grab & Exit | 413476 | [413476-g-e-m-grab-and-exit.json](./413476-g-e-m-grab-and-exit.json) |
@@ -2944,6 +2945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GemWords | 53084 | [53084-gemwords.json](./53084-gemwords.json) |
 | Gemz | 299501 | [299501-gemz.json](./299501-gemz.json) |
 | Gemz | 92346 | [92346-gemz.json](./92346-gemz.json) |
+| Gemz Burst | 353561 | [353561-gemz-burst.json](./353561-gemz-burst.json) |
 | Gen 2.1. No Escape | 239608 | [239608-gen-2-1-no-escape.json](./239608-gen-2-1-no-escape.json) |
 | Gen Atlas | 325593 | [325593-gen-atlas.json](./325593-gen-atlas.json) |
 | Gen-Abyss | 351557 | [351557-gen-abyss.json](./351557-gen-abyss.json) |
@@ -3792,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get to the Top 2: Breakthrough Gaming Arcade | 200726 | [200726-get-to-the-top-2-breakthrough-gaming-arcade.json](./200726-get-to-the-top-2-breakthrough-gaming-arcade.json) |
 | Get to the Top Although There Is No Top!! | 286572 | [286572-get-to-the-top-although-there-is-no-top.json](./286572-get-to-the-top-although-there-is-no-top.json) |
 | Get to the Top: Breakthrough Gaming Arcade | 187679 | [187679-get-to-the-top-breakthrough-gaming-arcade.json](./187679-get-to-the-top-breakthrough-gaming-arcade.json) |
+| Get to Work Simulator | 353562 | [353562-get-to-work-simulator.json](./353562-get-to-work-simulator.json) |
 | Get to Work, Succubus-Chan! | 169356 | [169356-get-to-work-succubus-chan.json](./169356-get-to-work-succubus-chan.json) |
 | Get Together | 144126 | [144126-get-together.json](./144126-get-together.json) |
 | Get Up and Dance | 23396 | [23396-get-up-and-dance.json](./23396-get-up-and-dance.json) |
@@ -4946,6 +4949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gitadora | 60810 | [60810-gitadora.json](./60810-gitadora.json) |
 | Gitadora Exchain | 154831 | [154831-gitadora-exchain.json](./154831-gitadora-exchain.json) |
 | Gitadora Fuzz-Up | 266955 | [266955-gitadora-fuzz-up.json](./266955-gitadora-fuzz-up.json) |
+| Gitadora Galaxy Wave Delta | 353530 | [353530-gitadora-galaxy-wave-delta.json](./353530-gitadora-galaxy-wave-delta.json) |
 | Gitadora High-Voltage | 154836 | [154836-gitadora-high-voltage.json](./154836-gitadora-high-voltage.json) |
 | Gitadora Matixx | 154828 | [154828-gitadora-matixx.json](./154828-gitadora-matixx.json) |
 | Gitadora Nextage | 154833 | [154833-gitadora-nextage.json](./154833-gitadora-nextage.json) |
@@ -9241,6 +9245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gray Space | 149351 | [149351-gray-space.json](./149351-gray-space.json) |
 | Gray Tank | 29394 | [29394-gray-tank.json](./29394-gray-tank.json) |
 | Gray Trading | 406492 | [406492-gray-trading.json](./406492-gray-trading.json) |
+| Gray War Conflict | 353563 | [353563-gray-war-conflict.json](./353563-gray-war-conflict.json) |
 | Grayland | 127715 | [127715-grayland.json](./127715-grayland.json) |
 | Grayland | 171899 | [171899-grayland.json](./171899-grayland.json) |
 | Grayland Remastered | 374967 | [374967-grayland-remastered.json](./374967-grayland-remastered.json) |
