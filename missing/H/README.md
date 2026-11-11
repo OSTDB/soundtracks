@@ -6549,6 +6549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic II: The Succession Wars | 363 | [363-heroes-of-might-and-magic-ii-the-succession-wars.json](./363-heroes-of-might-and-magic-ii-the-succession-wars.json) |
 | Heroes of Might and Magic III: Armageddon's Blade | 365 | [365-heroes-of-might-and-magic-iii-armageddons-blade.json](./365-heroes-of-might-and-magic-iii-armageddons-blade.json) |
 | Heroes of Might and Magic III: Complete | 51820 | [51820-heroes-of-might-and-magic-iii-complete.json](./51820-heroes-of-might-and-magic-iii-complete.json) |
+| Heroes of Might and Magic III: Day of Reckoning | 372364 | [372364-heroes-of-might-and-magic-iii-day-of-reckoning.json](./372364-heroes-of-might-and-magic-iii-day-of-reckoning.json) |
 | Heroes of Might and Magic III: Horn of the Abyss | 14173 | [14173-heroes-of-might-and-magic-iii-horn-of-the-abyss.json](./14173-heroes-of-might-and-magic-iii-horn-of-the-abyss.json) |
 | Heroes of Might and Magic III: The Shadow of Death | 366 | [366-heroes-of-might-and-magic-iii-the-shadow-of-death.json](./366-heroes-of-might-and-magic-iii-the-shadow-of-death.json) |
 | Heroes of Might and Magic IV: Complete Edition | 25364 | [25364-heroes-of-might-and-magic-iv-complete-edition.json](./25364-heroes-of-might-and-magic-iv-complete-edition.json) |
@@ -8752,6 +8753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Historia Battles Rome | 134006 | [134006-historia-battles-rome.json](./134006-historia-battles-rome.json) |
 | Historia Battles WW2 CFEL | 134007 | [134007-historia-battles-ww2-cfel.json](./134007-historia-battles-ww2-cfel.json) |
 | Historic Fighters | 161370 | [161370-historic-fighters.json](./161370-historic-fighters.json) |
+| Historic Helix | 372360 | [372360-historic-helix.json](./372360-historic-helix.json) |
 | Historica Fantasia | 132464 | [132464-historica-fantasia.json](./132464-historica-fantasia.json) |
 | Historical Invaders | 291880 | [291880-historical-invaders.json](./291880-historical-invaders.json) |
 | Historical Jigsaw Puzzle: World War I | 154287 | [154287-historical-jigsaw-puzzle-world-war-i.json](./154287-historical-jigsaw-puzzle-world-war-i.json) |
@@ -11595,6 +11597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Builder & Thief Simulator | 225479 | [225479-house-builder-and-thief-simulator.json](./225479-house-builder-and-thief-simulator.json) |
 | House Builder & Ultimate Fishing Simulator | 225831 | [225831-house-builder-and-ultimate-fishing-simulator.json](./225831-house-builder-and-ultimate-fishing-simulator.json) |
 | House Builder 2 | 343234 | [343234-house-builder-2.json](./343234-house-builder-2.json) |
+| House Builder: Egyptian DLC | 372368 | [372368-house-builder-egyptian-dlc.json](./372368-house-builder-egyptian-dlc.json) |
 | House Builder: First Job | 158404 | [158404-house-builder-first-job.json](./158404-house-builder-first-job.json) |
 | House Builder: Medieval | 306216 | [306216-house-builder-medieval.json](./306216-house-builder-medieval.json) |
 | House Builder: Paving & Driveways DLC | 397489 | [397489-house-builder-paving-and-driveways-dlc.json](./397489-house-builder-paving-and-driveways-dlc.json) |
@@ -12781,6 +12784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter: Red Star | 409232 | [409232-hunter-red-star.json](./409232-hunter-red-star.json) |
 | Hunter: Snowfall | 409231 | [409231-hunter-snowfall.json](./409231-hunter-snowfall.json) |
 | Hunter: The Reckoning | 3950 | [3950-hunter-the-reckoning.json](./3950-hunter-the-reckoning.json) |
+| Hunter: The Reckoning - A Time of Monsters | 372354 | [372354-hunter-the-reckoning-a-time-of-monsters.json](./372354-hunter-the-reckoning-a-time-of-monsters.json) |
 | Hunter: The Reckoning - Day for Night | 408918 | [408918-hunter-the-reckoning-day-for-night.json](./408918-hunter-the-reckoning-day-for-night.json) |
 | Hunter: The Reckoning - Deathwish | 396020 | [396020-hunter-the-reckoning-deathwish.json](./396020-hunter-the-reckoning-deathwish.json) |
 | Hunter: The Reckoning - Redeemer | 5865 | [5865-hunter-the-reckoning-redeemer.json](./5865-hunter-the-reckoning-redeemer.json) |
@@ -13102,6 +13106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyke: Northern Light(s) - A Witch’s Chill Time | 399417 | [399417-hyke-northern-light-s-a-witch-s-chill-time.json](./399417-hyke-northern-light-s-a-witch-s-chill-time.json) |
 | Hykee: Episode 1 - Underwater | 93787 | [93787-hykee-episode-1-underwater.json](./93787-hykee-episode-1-underwater.json) |
 | Hylics | 11599 | [11599-hylics.json](./11599-hylics.json) |
+| Hymble Ventures | 372350 | [372350-hymble-ventures.json](./372350-hymble-ventures.json) |
 | Hymeno Striker: Akashicverse Minigame | 171597 | [171597-hymeno-striker-akashicverse-minigame.json](./171597-hymeno-striker-akashicverse-minigame.json) |
 | Hymer 2000 | 359686 | [359686-hymer-2000.json](./359686-hymer-2000.json) |
 | Hymn | 183937 | [183937-hymn.json](./183937-hymn.json) |
@@ -13319,6 +13324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperblade | 191070 | [191070-hyperblade.json](./191070-hyperblade.json) |
 | Hyperblade | 344579 | [344579-hyperblade.json](./344579-hyperblade.json) |
 | Hyperblade | 51379 | [51379-hyperblade.json](./51379-hyperblade.json) |
+| HyperBlade 2050: Dystopian Sports Manager | 372373 | [372373-hyperblade-2050-dystopian-sports-manager.json](./372373-hyperblade-2050-dystopian-sports-manager.json) |
 | Hyperblast! | 342612 | [342612-hyperblast.json](./342612-hyperblast.json) |
 | Hyperboard Extreme | 369176 | [369176-hyperboard-extreme.json](./369176-hyperboard-extreme.json) |
 | HyperBody | 292518 | [292518-hyperbody.json](./292518-hyperbody.json) |
@@ -13534,6 +13540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypnagogia: Broken Dreams | 398266 | [398266-hypnagogia-broken-dreams.json](./398266-hypnagogia-broken-dreams.json) |
 | Hypnagonia | 199264 | [199264-hypnagonia.json](./199264-hypnagonia.json) |
 | Hypno | 309821 | [309821-hypno.json](./309821-hypno.json) |
+| Hypno Halo | 372386 | [372386-hypno-halo.json](./372386-hypno-halo.json) |
 | Hypno Tetris | 269469 | [269469-hypno-tetris.json](./269469-hypno-tetris.json) |
 | Hypno Vol. 1 | 67063 | [67063-hypno-vol-1.json](./67063-hypno-vol-1.json) |
 | Hypno-Mart | 246815 | [246815-hypno-mart.json](./246815-hypno-mart.json) |
