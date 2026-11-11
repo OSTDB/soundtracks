@@ -12179,6 +12179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Onigiri: Turbo | 229481 | [229481-the-jumping-onigiri-turbo.json](./229481-the-jumping-onigiri-turbo.json) |
 | The Jumping Onion Ring | 329575 | [329575-the-jumping-onion-ring.json](./329575-the-jumping-onion-ring.json) |
 | The Jumping Orange | 340837 | [340837-the-jumping-orange.json](./340837-the-jumping-orange.json) |
+| The Jumping Orange 2 | 361361 | [361361-the-jumping-orange-2.json](./361361-the-jumping-orange-2.json) |
 | The Jumping Orange 3 | 373563 | [373563-the-jumping-orange-3.json](./373563-the-jumping-orange-3.json) |
 | The Jumping Pasta | 214012 | [214012-the-jumping-pasta.json](./214012-the-jumping-pasta.json) |
 | The Jumping Pasta: Turbo | 214011 | [214011-the-jumping-pasta-turbo.json](./214011-the-jumping-pasta-turbo.json) |
@@ -12671,6 +12672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Cove | 152155 | [152155-the-last-cove.json](./152155-the-last-cove.json) |
 | The Last Cowboy | 119784 | [119784-the-last-cowboy.json](./119784-the-last-cowboy.json) |
 | The Last Craftsman | 229937 | [229937-the-last-craftsman.json](./229937-the-last-craftsman.json) |
+| The Last Crawler | 360822 | [360822-the-last-crawler.json](./360822-the-last-crawler.json) |
 | The Last Crown | 175712 | [175712-the-last-crown.json](./175712-the-last-crown.json) |
 | The Last Crown: Midnight Horror | 17206 | [17206-the-last-crown-midnight-horror.json](./17206-the-last-crown-midnight-horror.json) |
 | The Last Crusade | 315774 | [315774-the-last-crusade.json](./315774-the-last-crusade.json) |
@@ -16866,6 +16868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Samaritan Paradox | 18642 | [18642-the-samaritan-paradox.json](./18642-the-samaritan-paradox.json) |
 | The Same Crime | 89330 | [89330-the-same-crime.json](./89330-the-same-crime.json) |
 | The Same World 2 | 214022 | [214022-the-same-world-2.json](./214022-the-same-world-2.json) |
+| The Samurai Quest | 361372 | [361372-the-samurai-quest.json](./361372-the-samurai-quest.json) |
 | The Sand Dunes | 161613 | [161613-the-sand-dunes.json](./161613-the-sand-dunes.json) |
 | The Sand Knight | 204128 | [204128-the-sand-knight.json](./204128-the-sand-knight.json) |
 | The Sand Man | 81095 | [81095-the-sand-man.json](./81095-the-sand-man.json) |
@@ -21760,6 +21763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Fragmentation | 147400 | [147400-through-the-fragmentation.json](./147400-through-the-fragmentation.json) |
 | Through the Frame | 169402 | [169402-through-the-frame.json](./169402-through-the-frame.json) |
 | Through the Galaxy | 312129 | [312129-through-the-galaxy.json](./312129-through-the-galaxy.json) |
+| Through the Gates | 361354 | [361354-through-the-gates.json](./361354-through-the-gates.json) |
 | Through the Helios | 148849 | [148849-through-the-helios.json](./148849-through-the-helios.json) |
 | Through the Hoop | 239442 | [239442-through-the-hoop.json](./239442-through-the-hoop.json) |
 | Through the Lens | 392977 | [392977-through-the-lens.json](./392977-through-the-lens.json) |
@@ -25445,6 +25449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To End All Wars | 17608 | [17608-to-end-all-wars.json](./17608-to-end-all-wars.json) |
 | To End All Wars: Breaking the Deadlock | 171955 | [171955-to-end-all-wars-breaking-the-deadlock.json](./171955-to-end-all-wars-breaking-the-deadlock.json) |
 | To Eternity | 219639 | [219639-to-eternity.json](./219639-to-eternity.json) |
+| To Farm Lands | 361353 | [361353-to-farm-lands.json](./361353-to-farm-lands.json) |
 | To Farm Lands: Sowing Fields | 399652 | [399652-to-farm-lands-sowing-fields.json](./399652-to-farm-lands-sowing-fields.json) |
 | To Fight | 274116 | [274116-to-fight.json](./274116-to-fight.json) |
 | To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
@@ -26662,6 +26667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomo Jam! | 378142 | [378142-tomo-jam.json](./378142-tomo-jam.json) |
 | Tomo the Wildcat | 361953 | [361953-tomo-the-wildcat.json](./361953-tomo-the-wildcat.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
+| Tomochi | 360835 | [360835-tomochi.json](./360835-tomochi.json) |
 | Tomodachi 8in1 | 376653 | [376653-tomodachi-8in1.json](./376653-tomodachi-8in1.json) |
 | Tomodachi Ijou, Joubutsu Miman | 394078 | [394078-tomodachi-ijou-joubutsu-miman.json](./394078-tomodachi-ijou-joubutsu-miman.json) |
 | Tomodachi Kara Koibito he | 220419 | [220419-tomodachi-kara-koibito-he.json](./220419-tomodachi-kara-koibito-he.json) |
@@ -34327,6 +34333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tune Cruiser | 194194 | [194194-tune-cruiser.json](./194194-tune-cruiser.json) |
 | Tune Her Out | 303211 | [303211-tune-her-out.json](./303211-tune-her-out.json) |
 | Tune in to the Show | 380183 | [380183-tune-in-to-the-show.json](./380183-tune-in-to-the-show.json) |
+| Tune My Car: Tuning Studio & Mechanic Simulator 2025 | 361366 | [361366-tune-my-car-tuning-studio-and-mechanic-simulator-2025.json](./361366-tune-my-car-tuning-studio-and-mechanic-simulator-2025.json) |
 | Tune My Car: Tuning Studio & Mechanic Simulator 2026 | 409562 | [409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json](./409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json) |
 | Tune the Tone | 128198 | [128198-tune-the-tone.json](./128198-tune-the-tone.json) |
 | Tune to Win | 390823 | [390823-tune-to-win.json](./390823-tune-to-win.json) |
