@@ -8241,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HighScore Anomaly Underground | 296958 | [296958-highscore-anomaly-underground.json](./296958-highscore-anomaly-underground.json) |
 | Highscore Hunter Hodgepodge | 129412 | [129412-highscore-hunter-hodgepodge.json](./129412-highscore-hunter-hodgepodge.json) |
 | Highscore Processing Unit | 99645 | [99645-highscore-processing-unit.json](./99645-highscore-processing-unit.json) |
+| Highspeed Etoile Paddock Stories | 338983 | [338983-highspeed-etoile-paddock-stories.json](./338983-highspeed-etoile-paddock-stories.json) |
 | HighSpell | 341850 | [341850-highspell.json](./341850-highspell.json) |
 | Hightail | 236072 | [236072-hightail.json](./236072-hightail.json) |
 | Hightail | 369261 | [369261-hightail.json](./369261-hightail.json) |
