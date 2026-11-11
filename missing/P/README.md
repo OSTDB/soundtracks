@@ -13085,6 +13085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polytopia | 357697 | [357697-polytopia.json](./357697-polytopia.json) |
 | Polytoria | 194461 | [194461-polytoria.json](./194461-polytoria.json) |
 | Polytrack | 293354 | [293354-polytrack.json](./293354-polytrack.json) |
+| Polytropos: A Tactical Odyssey | 334949 | [334949-polytropos-a-tactical-odyssey.json](./334949-polytropos-a-tactical-odyssey.json) |
 | Polyturbo Drift Racing Simulator | 275036 | [275036-polyturbo-drift-racing-simulator.json](./275036-polyturbo-drift-racing-simulator.json) |
 | Polyturned | 238383 | [238383-polyturned.json](./238383-polyturned.json) |
 | Polyville Canyon | 140795 | [140795-polyville-canyon.json](./140795-polyville-canyon.json) |
