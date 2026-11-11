@@ -19085,6 +19085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushing Through... | 107520 | [107520-pushing-through.json](./107520-pushing-through.json) |
 | Pushle Deluxe | 328896 | [328896-pushle-deluxe.json](./328896-pushle-deluxe.json) |
 | Pushman | 247313 | [247313-pushman.json](./247313-pushman.json) |
+| Pushmania | 341771 | [341771-pushmania.json](./341771-pushmania.json) |
 | Pushmasters | 51669 | [51669-pushmasters.json](./51669-pushmasters.json) |
 | Pushmo | 22921 | [22921-pushmo.json](./22921-pushmo.json) |
 | Pushmo World | 19925 | [19925-pushmo-world.json](./19925-pushmo-world.json) |
