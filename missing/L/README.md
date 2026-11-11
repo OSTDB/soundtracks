@@ -3962,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's go | 270996 | [270996-lets-go.json](./270996-lets-go.json) |
 | Let's Go | 246466 | [246466-lets-go.json](./246466-lets-go.json) |
 | Let's Go Baby! Suffocation | 201932 | [201932-lets-go-baby-suffocation.json](./201932-lets-go-baby-suffocation.json) |
+| Let's Go Back to Our Village | 332738 | [332738-lets-go-back-to-our-village.json](./332738-lets-go-back-to-our-village.json) |
 | Let's Go Bassfishing! | 282681 | [282681-lets-go-bassfishing.json](./282681-lets-go-bassfishing.json) |
 | Let's Go Buildit | 114609 | [114609-lets-go-buildit.json](./114609-lets-go-buildit.json) |
 | Let's Go By Train! | 21398 | [21398-lets-go-by-train.json](./21398-lets-go-by-train.json) |
@@ -5589,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liminal City | 346366 | [346366-liminal-city.json](./346366-liminal-city.json) |
 | Liminal City: Axiom of Maria - Chapter One | 401804 | [401804-liminal-city-axiom-of-maria-chapter-one.json](./401804-liminal-city-axiom-of-maria-chapter-one.json) |
 | Liminal Death | 340921 | [340921-liminal-death.json](./340921-liminal-death.json) |
+| Liminal Department | 333802 | [333802-liminal-department.json](./333802-liminal-department.json) |
 | Liminal Doom | 252724 | [252724-liminal-doom.json](./252724-liminal-doom.json) |
 | Liminal Doom 2 | 301972 | [301972-liminal-doom-2.json](./301972-liminal-doom-2.json) |
 | Liminal Dreams | 234851 | [234851-liminal-dreams.json](./234851-liminal-dreams.json) |
