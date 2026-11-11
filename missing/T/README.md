@@ -1294,7 +1294,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Hongyuan | 90995 | [90995-tales-of-hongyuan.json](./90995-tales-of-hongyuan.json) |
 | Tales of Howl Town | 221773 | [221773-tales-of-howl-town.json](./221773-tales-of-howl-town.json) |
 | Tales of Inca: Lost Land | 68873 | [68873-tales-of-inca-lost-land.json](./68873-tales-of-inca-lost-land.json) |
-| Tales of Innocence | 1208 | [1208-tales-of-innocence.json](./1208-tales-of-innocence.json) |
 | Tales of Innocence R | 42673 | [42673-tales-of-innocence-r.json](./42673-tales-of-innocence-r.json) |
 | Tales of Innocence R: Limited Edition | 89870 | [89870-tales-of-innocence-r-limited-edition.json](./89870-tales-of-innocence-r-limited-edition.json) |
 | Tales of Isenberg | 375419 | [375419-tales-of-isenberg.json](./375419-tales-of-isenberg.json) |
@@ -8514,6 +8513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Mind | 320529 | [320529-the-dark-mind.json](./320529-the-dark-mind.json) |
 | The Dark Mod | 50344 | [50344-the-dark-mod.json](./50344-the-dark-mod.json) |
 | The Dark Path to the Black Tower | 398065 | [398065-the-dark-path-to-the-black-tower.json](./398065-the-dark-path-to-the-black-tower.json) |
+| The Dark Phantom: Dawn of Darkness | 317496 | [317496-the-dark-phantom-dawn-of-darkness.json](./317496-the-dark-phantom-dawn-of-darkness.json) |
 | The Dark Pictures Anthology: House of Ashes - Pazuzu Edition | 152103 | [152103-the-dark-pictures-anthology-house-of-ashes-pazuzu-edition.json](./152103-the-dark-pictures-anthology-house-of-ashes-pazuzu-edition.json) |
 | The Dark Pictures Anthology: Intercession | 257076 | [257076-the-dark-pictures-anthology-intercession.json](./257076-the-dark-pictures-anthology-intercession.json) |
 | The Dark Pictures Anthology: Little Hope & Man of Medan Bundle | 169246 | [169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json](./169246-the-dark-pictures-anthology-little-hope-and-man-of-medan-bundle.json) |
@@ -16002,7 +16002,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Poisoner: Complete Story | 174431 | [174431-the-poisoner-complete-story.json](./174431-the-poisoner-complete-story.json) |
 | The Polar Explorer: Hokkyoku he no VR Soriasobi | 308903 | [308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json](./308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json) |
 | The Polar Express | 210732 | [210732-the-polar-express.json](./210732-the-polar-express.json) |
-| The Polar Express | 4071 | [4071-the-polar-express.json](./4071-the-polar-express.json) |
 | The Police Interceptors Simulator: War Against Racers | 263111 | [263111-the-police-interceptors-simulator-war-against-racers.json](./263111-the-police-interceptors-simulator-war-against-racers.json) |
 | The Police Mystery | 274876 | [274876-the-police-mystery.json](./274876-the-police-mystery.json) |
 | The Political Compass: Devil's Labyrinth | 135063 | [135063-the-political-compass-devils-labyrinth.json](./135063-the-political-compass-devils-labyrinth.json) |
@@ -17596,7 +17595,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3 | 141634 | [141634-the-sims-3.json](./141634-the-sims-3.json) |
 | The Sims 3 | 248566 | [248566-the-sims-3.json](./248566-the-sims-3.json) |
 | The Sims 3 | 248567 | [248567-the-sims-3.json](./248567-the-sims-3.json) |
-| The Sims 3 | 327976 | [327976-the-sims-3.json](./327976-the-sims-3.json) |
 | The Sims 3: 70s, 80s, & 90s Stuff | 13124 | [13124-the-sims-3-70s-80s-and-90s-stuff.json](./13124-the-sims-3-70s-80s-and-90s-stuff.json) |
 | The Sims 3: Ambitions | 13098 | [13098-the-sims-3-ambitions.json](./13098-the-sims-3-ambitions.json) |
 | The Sims 3: Aurora Skies | 14583 | [14583-the-sims-3-aurora-skies.json](./14583-the-sims-3-aurora-skies.json) |
