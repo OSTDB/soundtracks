@@ -6203,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblins and Gunslingers | 415761 | [415761-goblins-and-gunslingers.json](./415761-goblins-and-gunslingers.json) |
 | Goblins Can Conquer | 404972 | [404972-goblins-can-conquer.json](./404972-goblins-can-conquer.json) |
 | Goblins Factory | 213003 | [213003-goblins-factory.json](./213003-goblins-factory.json) |
+| Goblins Go Up! | 382722 | [382722-goblins-go-up.json](./382722-goblins-go-up.json) |
 | Goblins Keep Coming - Tower Defense | 75390 | [75390-goblins-keep-coming-tower-defense.json](./75390-goblins-keep-coming-tower-defense.json) |
 | Goblins Never Die | 258446 | [258446-goblins-never-die.json](./258446-goblins-never-die.json) |
 | Goblins of Elderstone | 55262 | [55262-goblins-of-elderstone.json](./55262-goblins-of-elderstone.json) |
