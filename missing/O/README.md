@@ -443,6 +443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Hell | 204052 | [204052-ocean-hell.json](./204052-ocean-hell.json) |
 | Ocean Is Home | 224782 | [224782-ocean-is-home.json](./224782-ocean-is-home.json) |
 | Ocean Is Home: Survival Island | 86793 | [86793-ocean-is-home-survival-island.json](./86793-ocean-is-home-survival-island.json) |
+| Ocean Journey | 382712 | [382712-ocean-journey.json](./382712-ocean-journey.json) |
 | Ocean Keeper Co-op | 371840 | [371840-ocean-keeper-co-op.json](./371840-ocean-keeper-co-op.json) |
 | Ocean Legend | 100699 | [100699-ocean-legend.json](./100699-ocean-legend.json) |
 | Ocean Legend | 100792 | [100792-ocean-legend.json](./100792-ocean-legend.json) |
