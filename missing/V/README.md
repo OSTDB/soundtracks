@@ -3566,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Reforest | 382597 | [382597-void-reforest.json](./382597-void-reforest.json) |
 | Void Rifter XR | 232920 | [232920-void-rifter-xr.json](./232920-void-rifter-xr.json) |
 | Void Rogue | 232231 | [232231-void-rogue.json](./232231-void-rogue.json) |
+| Void Roots | 386665 | [386665-void-roots.json](./386665-void-roots.json) |
 | Void Runner | 134982 | [134982-void-runner.json](./134982-void-runner.json) |
 | Void Runner | 259593 | [259593-void-runner.json](./259593-void-runner.json) |
 | Void Rush | 378602 | [378602-void-rush.json](./378602-void-rush.json) |
