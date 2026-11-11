@@ -15047,6 +15047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Price of Resurrection | 212700 | [212700-price-of-resurrection.json](./212700-price-of-resurrection.json) |
 | PriceGuessers | 394860 | [394860-priceguessers.json](./394860-priceguessers.json) |
 | PriceRPG | 111217 | [111217-pricerpg.json](./111217-pricerpg.json) |
+| Prichal | 377525 | [377525-prichal.json](./377525-prichal.json) |
 | Pricia Defense | 225204 | [225204-pricia-defense.json](./225204-pricia-defense.json) |
 | Prickle | 297186 | [297186-prickle.json](./297186-prickle.json) |
 | Prickly Goo To The Rescue | 328051 | [328051-prickly-goo-to-the-rescue.json](./328051-prickly-goo-to-the-rescue.json) |
