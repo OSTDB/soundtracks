@@ -4377,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea War | 168633 | [168633-sea-war.json](./168633-sea-war.json) |
 | Sea War | 277662 | [277662-sea-war.json](./277662-sea-war.json) |
 | Sea War Naval Supremacy | 391539 | [391539-sea-war-naval-supremacy.json](./391539-sea-war-naval-supremacy.json) |
+| Sea Warden | 382694 | [382694-sea-warden.json](./382694-sea-warden.json) |
 | Sea Warfare: Glorious | 188024 | [188024-sea-warfare-glorious.json](./188024-sea-warfare-glorious.json) |
 | Sea Wolf | 17241 | [17241-sea-wolf.json](./17241-sea-wolf.json) |
 | Sea Wolf / Missile | 169268 | [169268-sea-wolf-missile.json](./169268-sea-wolf-missile.json) |
@@ -14751,6 +14752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slonderman | 288119 | [288119-slonderman.json](./288119-slonderman.json) |
 | Sloomy | 251658 | [251658-sloomy.json](./251658-sloomy.json) |
 | Sloop | 384032 | [384032-sloop.json](./384032-sloop.json) |
+| Slop Fest | 382696 | [382696-slop-fest.json](./382696-slop-fest.json) |
 | Slop Simulator | 394773 | [394773-slop-simulator.json](./394773-slop-simulator.json) |
 | Slope | 101945 | [101945-slope.json](./101945-slope.json) |
 | Slope | 264867 | [264867-slope.json](./264867-slope.json) |
@@ -16715,6 +16717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Much Stuff: Collector's Edition | 251596 | [251596-so-much-stuff-collectors-edition.json](./251596-so-much-stuff-collectors-edition.json) |
 | So Obscure; | 178534 | [178534-so-obscure.json](./178534-so-obscure.json) |
 | So Quirky! Puzzle Escape Game | 399789 | [399789-so-quirky-puzzle-escape-game.json](./399789-so-quirky-puzzle-escape-game.json) |
+| So Stoked | 382710 | [382710-so-stoked.json](./382710-so-stoked.json) |
 | So to Speak | 199463 | [199463-so-to-speak.json](./199463-so-to-speak.json) |
 | So Who's Dr. Rabbit? | 291974 | [291974-so-whos-dr-rabbit.json](./291974-so-whos-dr-rabbit.json) |
 | So you think you can Chad?: An Incel Dating Sim | 180531 | [180531-so-you-think-you-can-chad-an-incel-dating-sim.json](./180531-so-you-think-you-can-chad-an-incel-dating-sim.json) |
@@ -22193,6 +22196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum | 192785 | [192785-spectrum.json](./192785-spectrum.json) |
 | Spectrum | 260129 | [260129-spectrum.json](./260129-spectrum.json) |
 | Spectrum | 34009 | [34009-spectrum.json](./34009-spectrum.json) |
+| Spectrum 2000 | 382668 | [382668-spectrum-2000.json](./382668-spectrum-2000.json) |
 | Spectrum 6 | 240838 | [240838-spectrum-6.json](./240838-spectrum-6.json) |
 | Spectrum Break | 77712 | [77712-spectrum-break.json](./77712-spectrum-break.json) |
 | Spectrum Descent | 304082 | [304082-spectrum-descent.json](./304082-spectrum-descent.json) |
@@ -23452,6 +23456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Swap: Lofi Beats to Match-3 To | 145872 | [145872-spirit-swap-lofi-beats-to-match-3-to.json](./145872-spirit-swap-lofi-beats-to-match-3-to.json) |
 | Spirit Talk | 386950 | [386950-spirit-talk.json](./386950-spirit-talk.json) |
 | Spirit Timer | 223666 | [223666-spirit-timer.json](./223666-spirit-timer.json) |
+| Spirit Trigger | 382704 | [382704-spirit-trigger.json](./382704-spirit-trigger.json) |
 | Spirit Valley | 285319 | [285319-spirit-valley.json](./285319-spirit-valley.json) |
 | Spirit Valor | 319702 | [319702-spirit-valor.json](./319702-spirit-valor.json) |
 | Spirit Vendor | 374618 | [374618-spirit-vendor.json](./374618-spirit-vendor.json) |
@@ -29631,6 +29636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StreamFest | 187007 | [187007-streamfest.json](./187007-streamfest.json) |
 | StreamGods: Streamer Tycoon | 169449 | [169449-streamgods-streamer-tycoon.json](./169449-streamgods-streamer-tycoon.json) |
 | Streaming Girls 18+:- OnlyFap Live | 286468 | [286468-streaming-girls-18-onlyfap-live.json](./286468-streaming-girls-18-onlyfap-live.json) |
+| Streaming Race | 382700 | [382700-streaming-race.json](./382700-streaming-race.json) |
 | StreamInk | 166594 | [166594-streamink.json](./166594-streamink.json) |
 | Streamlands: Defense | 371947 | [371947-streamlands-defense.json](./371947-streamlands-defense.json) |
 | Streamline | 171512 | [171512-streamline.json](./171512-streamline.json) |
@@ -30410,6 +30416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold Crusader II: The Templar &The Duke | 89219 | [89219-stronghold-crusader-ii-the-templar-and-the-duke.json](./89219-stronghold-crusader-ii-the-templar-and-the-duke.json) |
 | Stronghold Crusader: Definitive Edition - Baldwin & Bullseye | 396611 | [396611-stronghold-crusader-definitive-edition-baldwin-and-bullseye.json](./396611-stronghold-crusader-definitive-edition-baldwin-and-bullseye.json) |
 | Stronghold Crusader: Definitive Edition - The Canary & The Trader | 371879 | [371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json](./371879-stronghold-crusader-definitive-edition-the-canary-and-the-trader.json) |
+| Stronghold Crusader: Definitive Edition - The Sergeant & The Lioness | 382673 | [382673-stronghold-crusader-definitive-edition-the-sergeant-and-the-lioness.json](./382673-stronghold-crusader-definitive-edition-the-sergeant-and-the-lioness.json) |
 | Stronghold Crusader: Definitive Edition - The Surgeon and Baibars | 413989 | [413989-stronghold-crusader-definitive-edition-the-surgeon-and-baibars.json](./413989-stronghold-crusader-definitive-edition-the-surgeon-and-baibars.json) |
 | Stronghold Defender | 18321 | [18321-stronghold-defender.json](./18321-stronghold-defender.json) |
 | Stronghold Deluxe | 98961 | [98961-stronghold-deluxe.json](./98961-stronghold-deluxe.json) |
@@ -31558,6 +31565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suki! | 92119 | [92119-suki.json](./92119-suki.json) |
 | Suki's Spooky Romance | 100631 | [100631-sukis-spooky-romance.json](./100631-sukis-spooky-romance.json) |
 | Sukima | 361312 | [361312-sukima.json](./361312-sukima.json) |
+| Sukima: The Creeping Gap | 382711 | [382711-sukima-the-creeping-gap.json](./382711-sukima-the-creeping-gap.json) |
 | SuKuBus-Mission | 301306 | [301306-sukubus-mission.json](./301306-sukubus-mission.json) |
 | Sukuji to Teikyou ni Kansuru Kousatsu | 420340 | [420340-sukuji-to-teikyou-ni-kansuru-kousatsu.json](./420340-sukuji-to-teikyou-ni-kansuru-kousatsu.json) |
 | Sukusuku Mizugi: Nusunda Mizugi wa Karukishu | 68135 | [68135-sukusuku-mizugi-nusunda-mizugi-wa-karukishu.json](./68135-sukusuku-mizugi-nusunda-mizugi-wa-karukishu.json) |
@@ -35636,6 +35644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: Kaiteiban Mark Yazaki no Seiyou Senseijutsu | 382823 | [382823-superlite-1500-series-kaiteiban-mark-yazaki-no-seiyou-senseijutsu.json](./382823-superlite-1500-series-kaiteiban-mark-yazaki-no-seiyou-senseijutsu.json) |
 | SuperLite 1500 Series: Kaiteiban Shichuu Suimei - Mark Yazaki Kanshuu | 387260 | [387260-superlite-1500-series-kaiteiban-shichuu-suimei-mark-yazaki-kanshuu.json](./387260-superlite-1500-series-kaiteiban-shichuu-suimei-mark-yazaki-kanshuu.json) |
 | SuperLite 1500 Series: Lode Runner 2 | 382928 | [382928-superlite-1500-series-lode-runner-2.json](./382928-superlite-1500-series-lode-runner-2.json) |
+| SuperLite 1500 Series: Mahjong II | 382680 | [382680-superlite-1500-series-mahjong-ii.json](./382680-superlite-1500-series-mahjong-ii.json) |
 | SuperLite 1500 Series: Mark Yazaki no Shichuu Suimei | 387256 | [387256-superlite-1500-series-mark-yazaki-no-shichuu-suimei.json](./387256-superlite-1500-series-mark-yazaki-no-shichuu-suimei.json) |
 | SuperLite 1500 Series: Nankuro | 214863 | [214863-superlite-1500-series-nankuro.json](./214863-superlite-1500-series-nankuro.json) |
 | SuperLite 1500 Series: Nankuro 2 | 214864 | [214864-superlite-1500-series-nankuro-2.json](./214864-superlite-1500-series-nankuro-2.json) |
@@ -37735,6 +37744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordfighting for People Who Are Really Bad at Swordfighting | 362797 | [362797-swordfighting-for-people-who-are-really-bad-at-swordfighting.json](./362797-swordfighting-for-people-who-are-really-bad-at-swordfighting.json) |
 | Swordfish | 272656 | [272656-swordfish.json](./272656-swordfish.json) |
 | Swordflight | 358271 | [358271-swordflight.json](./358271-swordflight.json) |
+| Swordformer | 382691 | [382691-swordformer.json](./382691-swordformer.json) |
 | Swordhaven: Iron Conspiracy | 290620 | [290620-swordhaven-iron-conspiracy.json](./290620-swordhaven-iron-conspiracy.json) |
 | Swordia | 309882 | [309882-swordia.json](./309882-swordia.json) |
 | Swordian Hero | 155679 | [155679-swordian-hero.json](./155679-swordian-hero.json) |
