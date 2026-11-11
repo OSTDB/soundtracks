@@ -5680,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senalux: Level Pack 3 | 168755 | [168755-senalux-level-pack-3.json](./168755-senalux-level-pack-3.json) |
 | Senalux: Level Pack 4 | 168756 | [168756-senalux-level-pack-4.json](./168756-senalux-level-pack-4.json) |
 | Senara: The Sacrament | 384122 | [384122-senara-the-sacrament.json](./384122-senara-the-sacrament.json) |
+| Senatus | 386670 | [386670-senatus.json](./386670-senatus.json) |
 | Senbazuru | 288681 | [288681-senbazuru.json](./288681-senbazuru.json) |
 | Send | 133672 | [133672-send.json](./133672-send.json) |
 | Send & Defend | 421335 | [421335-send-and-defend.json](./421335-send-and-defend.json) |
@@ -37296,6 +37297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swim | 359195 | [359195-swim.json](./359195-swim.json) |
 | Swim | 369819 | [369819-swim.json](./369819-swim.json) |
 | Swim Meet | 242453 | [242453-swim-meet.json](./242453-swim-meet.json) |
+| Swim Meet | 386655 | [386655-swim-meet.json](./386655-swim-meet.json) |
 | Swim Out | 47995 | [47995-swim-out.json](./47995-swim-out.json) |
 | Swim Penguin | 106298 | [106298-swim-penguin.json](./106298-swim-penguin.json) |
 | Swim with the Whales | 138924 | [138924-swim-with-the-whales.json](./138924-swim-with-the-whales.json) |
