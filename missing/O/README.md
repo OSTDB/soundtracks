@@ -6125,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: Season 16 - Stadium | 341007 | [341007-overwatch-2-season-16-stadium.json](./341007-overwatch-2-season-16-stadium.json) |
 | Overwatch 2: Season 17 - Powered Up! | 350615 | [350615-overwatch-2-season-17-powered-up.json](./350615-overwatch-2-season-17-powered-up.json) |
 | Overwatch 2: Season 18 - Stadium Quickplay | 362281 | [362281-overwatch-2-season-18-stadium-quickplay.json](./362281-overwatch-2-season-18-stadium-quickplay.json) |
+| Overwatch 2: Season 19 - Haunted Masquerade | 373424 | [373424-overwatch-2-season-19-haunted-masquerade.json](./373424-overwatch-2-season-19-haunted-masquerade.json) |
 | Overwatch 2: Season 2 - Greek Mythology | 228002 | [228002-overwatch-2-season-2-greek-mythology.json](./228002-overwatch-2-season-2-greek-mythology.json) |
 | Overwatch 2: Season 20 - Vendetta | 380108 | [380108-overwatch-2-season-20-vendetta.json](./380108-overwatch-2-season-20-vendetta.json) |
 | Overwatch 2: Season 4 - Space Opera | 243933 | [243933-overwatch-2-season-4-space-opera.json](./243933-overwatch-2-season-4-space-opera.json) |
