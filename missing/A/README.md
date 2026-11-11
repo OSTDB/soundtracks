@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A little Jumpingspider's Garden Adventure (Day 1+2) | 392700 | [392700-a-little-jumpingspiders-garden-adventure-day-1-2.json](./392700-a-little-jumpingspiders-garden-adventure-day-1-2.json) |
 | A Little Less Desperation | 392213 | [392213-a-little-less-desperation.json](./392213-a-little-less-desperation.json) |
 | A Little Lily Princess | 33333 | [33333-a-little-lily-princess.json](./33333-a-little-lily-princess.json) |
+| A Little Perspective | 336198 | [336198-a-little-perspective.json](./336198-a-little-perspective.json) |
 | A Little Physics Roguelike | 389960 | [389960-a-little-physics-roguelike.json](./389960-a-little-physics-roguelike.json) |
 | A Little Piece of Healing | 308423 | [308423-a-little-piece-of-healing.json](./308423-a-little-piece-of-healing.json) |
 | A Little Rabbit Story | 83521 | [83521-a-little-rabbit-story.json](./83521-a-little-rabbit-story.json) |
@@ -3849,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AdVenture Autist | 109124 | [109124-adventure-autist.json](./109124-adventure-autist.json) |
 | Adventure Awaits | 226100 | [226100-adventure-awaits.json](./226100-adventure-awaits.json) |
 | Adventure B: Inca Curse | 45354 | [45354-adventure-b-inca-curse.json](./45354-adventure-b-inca-curse.json) |
+| Adventure Backpack | 336195 | [336195-adventure-backpack.json](./336195-adventure-backpack.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure Bar Labyrinth | 60096 | [60096-adventure-bar-labyrinth.json](./60096-adventure-bar-labyrinth.json) |
 | Adventure Bar Story | 279048 | [279048-adventure-bar-story.json](./279048-adventure-bar-story.json) |
@@ -6947,6 +6949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleph Null | 31809 | [31809-aleph-null.json](./31809-aleph-null.json) |
 | Aleph: A Life | 203644 | [203644-aleph-a-life.json](./203644-aleph-a-life.json) |
 | Alephant | 190400 | [190400-alephant.json](./190400-alephant.json) |
+| Aleprok | 336193 | [336193-aleprok.json](./336193-aleprok.json) |
 | Alert | 14236 | [14236-alert.json](./14236-alert.json) |
 | Alert X: Ostatnia Nadzieja Ziemi | 14237 | [14237-alert-x-ostatnia-nadzieja-ziemi.json](./14237-alert-x-ostatnia-nadzieja-ziemi.json) |
 | Alert! Cat Girl's In Heat!! | 98601 | [98601-alert-cat-girls-in-heat.json](./98601-alert-cat-girls-in-heat.json) |
@@ -9726,6 +9729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An American Tail: Fievel Goes West | 217950 | [217950-an-american-tail-fievel-goes-west.json](./217950-an-american-tail-fievel-goes-west.json) |
 | An American Tail: Fievel Goes West | 2308 | [2308-an-american-tail-fievel-goes-west.json](./2308-an-american-tail-fievel-goes-west.json) |
 | An American Werewolf in LA | 135404 | [135404-an-american-werewolf-in-la.json](./135404-an-american-werewolf-in-la.json) |
+| An Angel Dances In The Sparks of a Bonfire | 336211 | [336211-an-angel-dances-in-the-sparks-of-a-bonfire.json](./336211-an-angel-dances-in-the-sparks-of-a-bonfire.json) |
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
 | An Angler's Light | 408596 | [408596-an-anglers-light.json](./408596-an-anglers-light.json) |
 | An Ankou | 250946 | [250946-an-ankou.json](./250946-an-ankou.json) |
@@ -13578,6 +13582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Scrambled Egg | 364072 | [364072-arcade-archives-scrambled-egg.json](./364072-arcade-archives-scrambled-egg.json) |
 | Arcade Archives: Sea Fighter Poseidon | 154981 | [154981-arcade-archives-sea-fighter-poseidon.json](./154981-arcade-archives-sea-fighter-poseidon.json) |
 | Arcade Archives: Senjyo | 231212 | [231212-arcade-archives-senjyo.json](./231212-arcade-archives-senjyo.json) |
+| Arcade Archives: Senkyu | 336227 | [336227-arcade-archives-senkyu.json](./336227-arcade-archives-senkyu.json) |
 | Arcade Archives: Shao-Lin's Road | 275809 | [275809-arcade-archives-shao-lins-road.json](./275809-arcade-archives-shao-lins-road.json) |
 | Arcade Archives: Shingen Samurai-Fighter | 153832 | [153832-arcade-archives-shingen-samurai-fighter.json](./153832-arcade-archives-shingen-samurai-fighter.json) |
 | Arcade Archives: Shusse Ozumo | 75706 | [75706-arcade-archives-shusse-ozumo.json](./75706-arcade-archives-shusse-ozumo.json) |
@@ -17197,6 +17202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrid & the Witch | 177941 | [177941-astrid-and-the-witch.json](./177941-astrid-and-the-witch.json) |
 | Astrid: Reverie | 223493 | [223493-astrid-reverie.json](./223493-astrid-reverie.json) |
 | Astride | 216726 | [216726-astride.json](./216726-astride.json) |
+| Astro | 336250 | [336250-astro.json](./336250-astro.json) |
 | Astro & Suzy Go to the Beach | 234284 | [234284-astro-and-suzy-go-to-the-beach.json](./234284-astro-and-suzy-go-to-the-beach.json) |
 | Astro & Suzy Go to the Circus | 397071 | [397071-astro-and-suzy-go-to-the-circus.json](./397071-astro-and-suzy-go-to-the-circus.json) |
 | Astro Ace | 165737 | [165737-astro-ace.json](./165737-astro-ace.json) |
@@ -18272,6 +18278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack Hole | 324782 | [324782-attack-hole.json](./324782-attack-hole.json) |
 | Attack Hole: Hero Edition | 349593 | [349593-attack-hole-hero-edition.json](./349593-attack-hole-hero-edition.json) |
 | Attack Hole: Monster Edition | 343515 | [343515-attack-hole-monster-edition.json](./343515-attack-hole-monster-edition.json) |
+| Attack Hole: Monsters DLC | 335562 | [335562-attack-hole-monsters-dlc.json](./335562-attack-hole-monsters-dlc.json) |
 | Attack of Insects | 56655 | [56655-attack-of-insects.json](./56655-attack-of-insects.json) |
 | Attack of Jeff the Killer: Scary Slender Life | 63154 | [63154-attack-of-jeff-the-killer-scary-slender-life.json](./63154-attack-of-jeff-the-killer-scary-slender-life.json) |
 | Attack of Mutants | 110466 | [110466-attack-of-mutants.json](./110466-attack-of-mutants.json) |
