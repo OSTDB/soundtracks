@@ -6588,6 +6588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bard's Quest: Dungeons of the Unknown | 335043 | [335043-the-bards-quest-dungeons-of-the-unknown.json](./335043-the-bards-quest-dungeons-of-the-unknown.json) |
 | The Bard's Tale | 273089 | [273089-the-bards-tale.json](./273089-the-bards-tale.json) |
 | The Bard's Tale | 3803 | [3803-the-bards-tale.json](./3803-the-bards-tale.json) |
+| The Bard's Tale | 394237 | [394237-the-bards-tale.json](./394237-the-bards-tale.json) |
 | The Bard's Tale II: The Destiny Knight | 2430 | [2430-the-bards-tale-ii-the-destiny-knight.json](./2430-the-bards-tale-ii-the-destiny-knight.json) |
 | The Bard's Tale II: The Destiny Knight | 273091 | [273091-the-bards-tale-ii-the-destiny-knight.json](./273091-the-bards-tale-ii-the-destiny-knight.json) |
 | The Bard's Tale IV | 26986 | [26986-the-bards-tale-iv.json](./26986-the-bards-tale-iv.json) |
@@ -18091,6 +18092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Storm | 149400 | [149400-the-storm.json](./149400-the-storm.json) |
 | The Storm Guard: Darkness is Coming | 23174 | [23174-the-storm-guard-darkness-is-coming.json](./23174-the-storm-guard-darkness-is-coming.json) |
 | The Stormy Islands | 267793 | [267793-the-stormy-islands.json](./267793-the-stormy-islands.json) |
+| The Story About Princess 8 Out of 10 | 394240 | [394240-the-story-about-princess-8-out-of-10.json](./394240-the-story-about-princess-8-out-of-10.json) |
 | The Story For Snow Moon | 97830 | [97830-the-story-for-snow-moon.json](./97830-the-story-for-snow-moon.json) |
 | The Story Goes On | 35268 | [35268-the-story-goes-on.json](./35268-the-story-goes-on.json) |
 | The Story Goes On Chapter 1 | 337688 | [337688-the-story-goes-on-chapter-1.json](./337688-the-story-goes-on-chapter-1.json) |
@@ -28559,6 +28561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Up | 254631 | [254631-tower-up.json](./254631-tower-up.json) |
 | Tower Up | 346547 | [346547-tower-up.json](./346547-tower-up.json) |
 | Tower VR | 121307 | [121307-tower-vr.json](./121307-tower-vr.json) |
+| Tower vs Goblins: Fight & Defence | 394252 | [394252-tower-vs-goblins-fight-and-defence.json](./394252-tower-vs-goblins-fight-and-defence.json) |
 | Tower Walker - The Ancient Ones | 252259 | [252259-tower-walker-the-ancient-ones.json](./252259-tower-walker-the-ancient-ones.json) |
 | Tower Walker: MMO Grind Simulator | 217504 | [217504-tower-walker-mmo-grind-simulator.json](./217504-tower-walker-mmo-grind-simulator.json) |
 | Tower Walker: MMO Grind Simulator - Tower Walker: The Lich | 276588 | [276588-tower-walker-mmo-grind-simulator-tower-walker-the-lich.json](./276588-tower-walker-mmo-grind-simulator-tower-walker-the-lich.json) |
