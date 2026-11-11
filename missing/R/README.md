@@ -6002,6 +6002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Archives: Resident Evil | 22993 | [22993-resident-evil-archives-resident-evil.json](./22993-resident-evil-archives-resident-evil.json) |
 | Resident Evil Archives: Resident Evil Zero | 23251 | [23251-resident-evil-archives-resident-evil-zero.json](./23251-resident-evil-archives-resident-evil-zero.json) |
 | Resident Evil Assault the Nightmare | 356222 | [356222-resident-evil-assault-the-nightmare.json](./356222-resident-evil-assault-the-nightmare.json) |
+| Resident Evil Bundle | 336206 | [336206-resident-evil-bundle.json](./336206-resident-evil-bundle.json) |
 | Resident Evil Classic Bundle | 419744 | [419744-resident-evil-classic-bundle.json](./419744-resident-evil-classic-bundle.json) |
 | Resident Evil Code: Veronica | 968 | [968-resident-evil-code-veronica.json](./968-resident-evil-code-veronica.json) |
 | Resident Evil Code: Veronica X | 24369 | [24369-resident-evil-code-veronica-x.json](./24369-resident-evil-code-veronica-x.json) |
