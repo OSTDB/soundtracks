@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [Don't] Let Go | 371279 | [371279-dont-let-go.json](./371279-dont-let-go.json) |
 | [HammerA] HammerTime ! | 134969 | [134969-hammera-hammertime.json](./134969-hammera-hammertime.json) |
 | [Hell is Empty] | 412727 | [412727-hell-is-empty.json](./412727-hell-is-empty.json) |
+| [Herror] Gas Station Case | 369486 | [369486-herror-gas-station-case.json](./369486-herror-gas-station-case.json) |
 | [K]night City | 365226 | [365226-k-night-city.json](./365226-k-night-city.json) |
 | [OPT-OUT]: Uncanny | 153742 | [153742-opt-out-uncanny.json](./153742-opt-out-uncanny.json) |
 | [REC] Desolation | 333760 | [333760-rec-desolation.json](./333760-rec-desolation.json) |
@@ -2645,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Wood House | 192241 | [192241-3d-puzzle-wood-house.json](./192241-3d-puzzle-wood-house.json) |
 | 3D Quasars | 12356 | [12356-3d-quasars.json](./12356-3d-quasars.json) |
 | 3D Race Game | 393185 | [393185-3d-race-game.json](./393185-3d-race-game.json) |
+| 3D Raid River | 368952 | [368952-3d-raid-river.json](./368952-3d-raid-river.json) |
 | 3D Rally Racing | 175178 | [175178-3d-rally-racing.json](./175178-3d-rally-racing.json) |
 | 3D Realms Anthology | 172419 | [172419-3d-realms-anthology.json](./172419-3d-realms-anthology.json) |
 | 3D Recon | 57651 | [57651-3d-recon.json](./57651-3d-recon.json) |
