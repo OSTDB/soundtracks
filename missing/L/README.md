@@ -6403,6 +6403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Licence | 239248 | [239248-little-licence.json](./239248-little-licence.json) |
 | Little Life: Island Tales | 308895 | [308895-little-life-island-tales.json](./308895-little-life-island-tales.json) |
 | Little Lighthouse of Horror | 329694 | [329694-little-lighthouse-of-horror.json](./329694-little-lighthouse-of-horror.json) |
+| Little Lights Remain TD | 371168 | [371168-little-lights-remain-td.json](./371168-little-lights-remain-td.json) |
 | Little Lights Remains TD | 374883 | [374883-little-lights-remains-td.json](./374883-little-lights-remains-td.json) |
 | Little Lilicia | 406267 | [406267-little-lilicia.json](./406267-little-lilicia.json) |
 | Little Lives | 149097 | [149097-little-lives.json](./149097-little-lives.json) |
