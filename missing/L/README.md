@@ -2886,7 +2886,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Forest: Bigfoot | 101045 | [101045-legend-of-the-forest-bigfoot.json](./101045-legend-of-the-forest-bigfoot.json) |
 | Legend of the Ghost Lion | 73926 | [73926-legend-of-the-ghost-lion.json](./73926-legend-of-the-ghost-lion.json) |
-| Legend of the Guardians: The Owls of Ga'Hoole | 4968 | [4968-legend-of-the-guardians-the-owls-of-gahoole.json](./4968-legend-of-the-guardians-the-owls-of-gahoole.json) |
 | Legend of the Hidden Tech | 257173 | [257173-legend-of-the-hidden-tech.json](./257173-legend-of-the-hidden-tech.json) |
 | Legend of the Holy Sword | 340910 | [340910-legend-of-the-holy-sword.json](./340910-legend-of-the-holy-sword.json) |
 | Legend of the Hunter: House of Dragons | 313221 | [313221-legend-of-the-hunter-house-of-dragons.json](./313221-legend-of-the-hunter-house-of-dragons.json) |
@@ -9294,6 +9293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Exalt 8372 | 237566 | [237566-love-exalt-8372.json](./237566-love-exalt-8372.json) |
 | Love Fantasy | 164064 | [164064-love-fantasy.json](./164064-love-fantasy.json) |
 | Love Fashion and Friends | 70598 | [70598-love-fashion-and-friends.json](./70598-love-fashion-and-friends.json) |
+| Love Finds A Whey | 321732 | [321732-love-finds-a-whey.json](./321732-love-finds-a-whey.json) |
 | Love Flute | 172868 | [172868-love-flute.json](./172868-love-flute.json) |
 | Love FMV | 286972 | [286972-love-fmv.json](./286972-love-fmv.json) |
 | Love Football | 7059 | [7059-love-football.json](./7059-love-football.json) |
