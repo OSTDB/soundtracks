@@ -6499,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefighters: Plant Fire Department | 187762 | [187762-firefighters-plant-fire-department.json](./187762-firefighters-plant-fire-department.json) |
 | Firefighters: The Simulation | 32042 | [32042-firefighters-the-simulation.json](./32042-firefighters-the-simulation.json) |
 | Firefighters: The Simulation - Platinum Edition | 146129 | [146129-firefighters-the-simulation-platinum-edition.json](./146129-firefighters-the-simulation-platinum-edition.json) |
+| Firefighting Heroes: Truck 911 Simulator | 336220 | [336220-firefighting-heroes-truck-911-simulator.json](./336220-firefighting-heroes-truck-911-simulator.json) |
 | Firefighting Rescue Simulator | 359988 | [359988-firefighting-rescue-simulator.json](./359988-firefighting-rescue-simulator.json) |
 | Firefighting Simulator | 55630 | [55630-firefighting-simulator.json](./55630-firefighting-simulator.json) |
 | Firefighting Simulator: Be a Hero | 422049 | [422049-firefighting-simulator-be-a-hero.json](./422049-firefighting-simulator-be-a-hero.json) |
@@ -6887,6 +6888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish vs. Crabs | 62806 | [62806-fish-vs-crabs.json](./62806-fish-vs-crabs.json) |
 | Fish War | 247024 | [247024-fish-war.json](./247024-fish-war.json) |
 | Fish With Friends | 422784 | [422784-fish-with-friends.json](./422784-fish-with-friends.json) |
+| Fish With Names | 336233 | [336233-fish-with-names.json](./336233-fish-with-names.json) |
 | Fish World | 337220 | [337220-fish-world.json](./337220-fish-world.json) |
 | Fish World | 426423 | [426423-fish-world.json](./426423-fish-world.json) |
 | Fish-Click Squad! | 333511 | [333511-fish-click-squad.json](./333511-fish-click-squad.json) |
@@ -13084,6 +13086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Jumper | 305406 | [305406-frog-jumper.json](./305406-frog-jumper.json) |
 | Frog King | 181219 | [181219-frog-king.json](./181219-frog-king.json) |
 | Frog King | 289452 | [289452-frog-king.json](./289452-frog-king.json) |
+| Frog King DX | 336224 | [336224-frog-king-dx.json](./336224-frog-king-dx.json) |
 | Frog Knight | 381175 | [381175-frog-knight.json](./381175-frog-knight.json) |
 | Frog lands | 202501 | [202501-frog-lands.json](./202501-frog-lands.json) |
 | Frog Legs | 337730 | [337730-frog-legs.json](./337730-frog-legs.json) |
