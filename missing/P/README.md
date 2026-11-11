@@ -3221,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path to the Creator: DLC1 | 290850 | [290850-path-to-the-creator-dlc1.json](./290850-path-to-the-creator-dlc1.json) |
 | Path to the Cyber Land | 82513 | [82513-path-to-the-cyber-land.json](./82513-path-to-the-cyber-land.json) |
 | Path to the Devil | 257359 | [257359-path-to-the-devil.json](./257359-path-to-the-devil.json) |
+| Path to the Goal | 319400 | [319400-path-to-the-goal.json](./319400-path-to-the-goal.json) |
 | Path to the Sky | 35237 | [35237-path-to-the-sky.json](./35237-path-to-the-sky.json) |
 | Path to the Unknown | 253325 | [253325-path-to-the-unknown.json](./253325-path-to-the-unknown.json) |
 | Path to the Void | 346631 | [346631-path-to-the-void.json](./346631-path-to-the-void.json) |
