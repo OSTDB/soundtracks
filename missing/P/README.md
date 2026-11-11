@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Splash | 85326 | [85326-paint-splash.json](./85326-paint-splash.json) |
 | Paint the Snow: Idle | 365230 | [365230-paint-the-snow-idle.json](./365230-paint-the-snow-idle.json) |
 | Paint the Town Red VR | 253179 | [253179-paint-the-town-red-vr.json](./253179-paint-the-town-red-vr.json) |
+| Paint the Town Red VR | 376986 | [376986-paint-the-town-red-vr.json](./376986-paint-the-town-red-vr.json) |
 | Paint to Pixel | 192959 | [192959-paint-to-pixel.json](./192959-paint-to-pixel.json) |
 | Paint Tower! | 88763 | [88763-paint-tower.json](./88763-paint-tower.json) |
 | Paint Tubes | 108217 | [108217-paint-tubes.json](./108217-paint-tubes.json) |
@@ -4713,6 +4714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Shot | 370722 | [370722-perfect-shot.json](./370722-perfect-shot.json) |
 | Perfect Slices | 253282 | [253282-perfect-slices.json](./253282-perfect-slices.json) |
 | Perfect Split | 173804 | [173804-perfect-split.json](./173804-perfect-split.json) |
+| Perfect Spot | 376987 | [376987-perfect-spot.json](./376987-perfect-spot.json) |
 | Perfect Stride | 9612 | [9612-perfect-stride.json](./9612-perfect-stride.json) |
 | Perfect Swing | 241867 | [241867-perfect-swing.json](./241867-perfect-swing.json) |
 | Perfect Teams | 178291 | [178291-perfect-teams.json](./178291-perfect-teams.json) |
