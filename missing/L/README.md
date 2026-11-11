@@ -9384,6 +9384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Live! School Idol Paradise: Vol.1 Printemps Unit | 36690 | [36690-love-live-school-idol-paradise-vol-1-printemps-unit.json](./36690-love-live-school-idol-paradise-vol-1-printemps-unit.json) |
 | Love Live! School Idol Paradise: Vol.2 BiBi Unit | 36691 | [36691-love-live-school-idol-paradise-vol-2-bibi-unit.json](./36691-love-live-school-idol-paradise-vol-2-bibi-unit.json) |
 | Love Live! School Idol Paradise: Vol.3 Lily White Unit | 36692 | [36692-love-live-school-idol-paradise-vol-3-lily-white-unit.json](./36692-love-live-school-idol-paradise-vol-3-lily-white-unit.json) |
+| Love Love 2024: The Love Election | 341184 | [341184-love-love-2024-the-love-election.json](./341184-love-love-2024-the-love-election.json) |
 | Love Love Candy | 253902 | [253902-love-love-candy.json](./253902-love-love-candy.json) |
 | Love love demon ji | 385906 | [385906-love-love-demon-ji.json](./385906-love-love-demon-ji.json) |
 | Love Love Diary | 247748 | [247748-love-love-diary.json](./247748-love-love-diary.json) |
@@ -9509,6 +9510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love with Kadyrov | 383525 | [383525-love-with-kadyrov.json](./383525-love-with-kadyrov.json) |
 | Love WMC | 395140 | [395140-love-wmc.json](./395140-love-wmc.json) |
 | Love Worthy: Episode 1 | 128753 | [128753-love-worthy-episode-1.json](./128753-love-worthy-episode-1.json) |
+| Love x Debut | 341185 | [341185-love-x-debut.json](./341185-love-x-debut.json) |
 | Love x Fantasy: Horny Elf | 385057 | [385057-love-x-fantasy-horny-elf.json](./385057-love-x-fantasy-horny-elf.json) |
 | Love X Love | 422083 | [422083-love-x-love.json](./422083-love-x-love.json) |
 | Love x Time | 235743 | [235743-love-x-time.json](./235743-love-x-time.json) |
@@ -9587,6 +9589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveKami Trilogy | 381756 | [381756-lovekami-trilogy.json](./381756-lovekami-trilogy.json) |
 | Lovekami: Healing Harem | 110702 | [110702-lovekami-healing-harem.json](./110702-lovekami-healing-harem.json) |
 | Loveland | 144917 | [144917-loveland.json](./144917-loveland.json) |
+| Loveland's Leap | 341183 | [341183-lovelands-leap.json](./341183-lovelands-leap.json) |
 | Loveless cat | 111182 | [111182-loveless-cat.json](./111182-loveless-cat.json) |
 | Loveless General Hospital | 383774 | [383774-loveless-general-hospital.json](./383774-loveless-general-hospital.json) |
 | Loveless on Lockdown | 177869 | [177869-loveless-on-lockdown.json](./177869-loveless-on-lockdown.json) |
@@ -9758,6 +9761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lower Forecourt | 271370 | [271370-lower-forecourt.json](./271370-lower-forecourt.json) |
 | Lower to Higher | 102072 | [102072-lower-to-higher.json](./102072-lower-to-higher.json) |
 | Lower? Higher! | 303640 | [303640-lower-higher.json](./303640-lower-higher.json) |
+| Lower? Higher!: Buy or Bye | 341186 | [341186-lower-higher-buy-or-bye.json](./341186-lower-higher-buy-or-bye.json) |
 | Lowglow | 18190 | [18190-lowglow.json](./18190-lowglow.json) |
 | Lowland Keepers | 328956 | [328956-lowland-keepers.json](./328956-lowland-keepers.json) |
 | Lowlander | 95556 | [95556-lowlander.json](./95556-lowlander.json) |
@@ -10010,6 +10014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Punk | 402372 | [402372-lucky-punk.json](./402372-lucky-punk.json) |
 | Lucky Pyramid Solitaire | 87295 | [87295-lucky-pyramid-solitaire.json](./87295-lucky-pyramid-solitaire.json) |
 | Lucky Rabbit Club | 380997 | [380997-lucky-rabbit-club.json](./380997-lucky-rabbit-club.json) |
+| Lucky Realtor | 341187 | [341187-lucky-realtor.json](./341187-lucky-realtor.json) |
 | Lucky Season: End of the Rainbow - Collector's Edition | 338060 | [338060-lucky-season-end-of-the-rainbow-collectors-edition.json](./338060-lucky-season-end-of-the-rainbow-collectors-edition.json) |
 | Lucky Season: King of Fools | 338784 | [338784-lucky-season-king-of-fools.json](./338784-lucky-season-king-of-fools.json) |
 | Lucky Season: King of Fools - Collector's Edition | 386926 | [386926-lucky-season-king-of-fools-collectors-edition.json](./386926-lucky-season-king-of-fools-collectors-edition.json) |
@@ -10212,6 +10217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luke & Rebecca | 111455 | [111455-luke-and-rebecca.json](./111455-luke-and-rebecca.json) |
 | Luke Jump | 412498 | [412498-luke-jump.json](./412498-luke-jump.json) |
 | Luke Sidewalker | 30856 | [30856-luke-sidewalker.json](./30856-luke-sidewalker.json) |
+| Luke The Hybrid | 341188 | [341188-luke-the-hybrid.json](./341188-luke-the-hybrid.json) |
 | Lukewarm Ironclad | 113702 | [113702-lukewarm-ironclad.json](./113702-lukewarm-ironclad.json) |
 | Lukewarm Massacre: The Killer Who May or May Not Be a Moron. | 292760 | [292760-lukewarm-massacre-the-killer-who-may-or-may-not-be-a-moron.json](./292760-lukewarm-massacre-the-killer-who-may-or-may-not-be-a-moron.json) |
 | Lukewarm Massacre: The Spirit of Light | 303641 | [303641-lukewarm-massacre-the-spirit-of-light.json](./303641-lukewarm-massacre-the-spirit-of-light.json) |
@@ -10292,6 +10298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumen Race | 370776 | [370776-lumen-race.json](./370776-lumen-race.json) |
 | Lumen Rider | 256749 | [256749-lumen-rider.json](./256749-lumen-rider.json) |
 | Lumen the Red Panda | 410586 | [410586-lumen-the-red-panda.json](./410586-lumen-the-red-panda.json) |
+| Lumen World of Color | 341189 | [341189-lumen-world-of-color.json](./341189-lumen-world-of-color.json) |
 | Lumen: The Last Hope | 365612 | [365612-lumen-the-last-hope.json](./365612-lumen-the-last-hope.json) |
 | Lumen. | 124596 | [124596-lumen.json](./124596-lumen.json) |
 | Lumencraft | 186294 | [186294-lumencraft.json](./186294-lumencraft.json) |
@@ -10559,6 +10566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar: The Silver Star | 5334 | [5334-lunar-the-silver-star.json](./5334-lunar-the-silver-star.json) |
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
 | Lunar's Chosen: Episode 2 | 277748 | [277748-lunars-chosen-episode-2.json](./277748-lunars-chosen-episode-2.json) |
+| Lunara | 341190 | [341190-lunara.json](./341190-lunara.json) |
 | Lunaraxia: Magpie Sings of the World's End | 344648 | [344648-lunaraxia-magpie-sings-of-the-worlds-end.json](./344648-lunaraxia-magpie-sings-of-the-worlds-end.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
 | Lunares Insaniam | 289582 | [289582-lunares-insaniam.json](./289582-lunares-insaniam.json) |
@@ -10677,6 +10685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lure | 139953 | [139953-lure.json](./139953-lure.json) |
 | Lure | 180207 | [180207-lure.json](./180207-lure.json) |
 | Lure of the Temptress | 8482 | [8482-lure-of-the-temptress.json](./8482-lure-of-the-temptress.json) |
+| Lure: Free | 341191 | [341191-lure-free.json](./341191-lure-free.json) |
 | Lure: The King's Gold | 120167 | [120167-lure-the-kings-gold.json](./120167-lure-the-kings-gold.json) |
 | Lured | 245753 | [245753-lured.json](./245753-lured.json) |
 | Lurid Land | 124369 | [124369-lurid-land.json](./124369-lurid-land.json) |
@@ -10713,6 +10722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lusófona Games Collection 2023 | 260335 | [260335-lusofona-games-collection-2023.json](./260335-lusofona-games-collection-2023.json) |
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
 | Lusófona Games Collection 2025 | 406292 | [406292-lusofona-games-collection-2025.json](./406292-lusofona-games-collection-2025.json) |
+| Lust 'n Dead | 341196 | [341196-lust-n-dead.json](./341196-lust-n-dead.json) |
 | Lust & Legends | 296965 | [296965-lust-and-legends.json](./296965-lust-and-legends.json) |
 | Lust & Magic | 373417 | [373417-lust-and-magic.json](./373417-lust-and-magic.json) |
 | Lust & Magic: Chisalla in a Flower Basket | 199775 | [199775-lust-and-magic-chisalla-in-a-flower-basket.json](./199775-lust-and-magic-chisalla-in-a-flower-basket.json) |
@@ -10730,6 +10740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Element: Season 1 | 262229 | [262229-lust-element-season-1.json](./262229-lust-element-season-1.json) |
 | Lust Epidemic | 127643 | [127643-lust-epidemic.json](./127643-lust-epidemic.json) |
 | Lust Eternal | 379529 | [379529-lust-eternal.json](./379529-lust-eternal.json) |
+| Lust Fantasy | 341192 | [341192-lust-fantasy.json](./341192-lust-fantasy.json) |
 | Lust for Darkness | 36815 | [36815-lust-for-darkness.json](./36815-lust-for-darkness.json) |
 | Lust for Darkness VR | 193508 | [193508-lust-for-darkness-vr.json](./193508-lust-for-darkness-vr.json) |
 | Lust for Darkness VR: M Edition | 196060 | [196060-lust-for-darkness-vr-m-edition.json](./196060-lust-for-darkness-vr-m-edition.json) |
@@ -10745,9 +10756,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lust Girl | 241514 | [241514-lust-girl.json](./241514-lust-girl.json) |
 | Lust Goddess | 342791 | [342791-lust-goddess.json](./342791-lust-goddess.json) |
 | Lust Harem 1001 Pleasures | 384757 | [384757-lust-harem-1001-pleasures.json](./384757-lust-harem-1001-pleasures.json) |
+| Lust in Space | 341194 | [341194-lust-in-space.json](./341194-lust-in-space.json) |
 | Lust in Terror Manor | 200546 | [200546-lust-in-terror-manor.json](./200546-lust-in-terror-manor.json) |
 | Lust Island | 384761 | [384761-lust-island.json](./384761-lust-island.json) |
 | Lust Kingdom | 264032 | [264032-lust-kingdom.json](./264032-lust-kingdom.json) |
+| Lust Lady Friends | 341195 | [341195-lust-lady-friends.json](./341195-lust-lady-friends.json) |
+| Lust Night | 341197 | [341197-lust-night.json](./341197-lust-night.json) |
 | Lust of the Apartment Wives | 249106 | [249106-lust-of-the-apartment-wives.json](./249106-lust-of-the-apartment-wives.json) |
 | Lust Office MILFs | 396834 | [396834-lust-office-milfs.json](./396834-lust-office-milfs.json) |
 | Lust Potions | 304464 | [304464-lust-potions.json](./304464-lust-potions.json) |
@@ -10770,6 +10784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lustful BlackJack: My Succubus Dealer | 384752 | [384752-lustful-blackjack-my-succubus-dealer.json](./384752-lustful-blackjack-my-succubus-dealer.json) |
 | Lustful Butler and Charming Sisters | 346685 | [346685-lustful-butler-and-charming-sisters.json](./346685-lustful-butler-and-charming-sisters.json) |
 | Lustful Chemistry | 405951 | [405951-lustful-chemistry.json](./405951-lustful-chemistry.json) |
+| Lustful Dead | 341193 | [341193-lustful-dead.json](./341193-lustful-dead.json) |
 | Lustful Desires | 289165 | [289165-lustful-desires.json](./289165-lustful-desires.json) |
 | Lustful Ponies | 195738 | [195738-lustful-ponies.json](./195738-lustful-ponies.json) |
 | Lustful Ponies 2 | 215607 | [215607-lustful-ponies-2.json](./215607-lustful-ponies-2.json) |
@@ -10899,6 +10914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyonesse | 190493 | [190493-lyonesse.json](./190493-lyonesse.json) |
 | Lyra | 323986 | [323986-lyra.json](./323986-lyra.json) |
 | Lyra and the Echo of the Abyss | 345696 | [345696-lyra-and-the-echo-of-the-abyss.json](./345696-lyra-and-the-echo-of-the-abyss.json) |
+| Lyra Convolution | 341198 | [341198-lyra-convolution.json](./341198-lyra-convolution.json) |
 | Lyra the Tenrec | 265073 | [265073-lyra-the-tenrec.json](./265073-lyra-the-tenrec.json) |
 | Lyra's Melody | 191339 | [191339-lyras-melody.json](./191339-lyras-melody.json) |
 | Lyrane | 62103 | [62103-lyrane.json](./62103-lyrane.json) |
