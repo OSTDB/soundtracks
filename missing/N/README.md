@@ -4658,6 +4658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Shift: Remade | 181792 | [181792-night-shift-remade.json](./181792-night-shift-remade.json) |
 | Night Shift: Something Is Wrong | 417005 | [417005-night-shift-something-is-wrong.json](./417005-night-shift-something-is-wrong.json) |
 | Night Shift: Warehouse | 412015 | [412015-night-shift-warehouse.json](./412015-night-shift-warehouse.json) |
+| Night Shippers | 370583 | [370583-night-shippers.json](./370583-night-shippers.json) |
 | Night shot | 116071 | [116071-night-shot.json](./116071-night-shot.json) |
 | Night Shot | 343744 | [343744-night-shot.json](./343744-night-shot.json) |
 | Night Signal | 119740 | [119740-night-signal.json](./119740-night-signal.json) |
