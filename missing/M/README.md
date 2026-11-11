@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Quest: TCG | 121394 | [121394-magic-quest-tcg.json](./121394-magic-quest-tcg.json) |
 | Magic Quiz | 391635 | [391635-magic-quiz.json](./391635-magic-quiz.json) |
 | Magic Rampage | 61995 | [61995-magic-rampage.json](./61995-magic-rampage.json) |
+| Magic Ready: Shopping Rush | 348475 | [348475-magic-ready-shopping-rush.json](./348475-magic-ready-shopping-rush.json) |
 | Magic Realm | 182943 | [182943-magic-realm.json](./182943-magic-realm.json) |
 | Magic Realm | 316636 | [316636-magic-realm.json](./316636-magic-realm.json) |
 | Magic Realm Obby | 391250 | [391250-magic-realm-obby.json](./391250-magic-realm-obby.json) |
@@ -19740,6 +19741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MPaliens | 120913 | [120913-mpaliens.json](./120913-mpaliens.json) |
 | Mpdc | 177653 | [177653-mpdc.json](./177653-mpdc.json) |
 | Mpirimpa | 341339 | [341339-mpirimpa.json](./341339-mpirimpa.json) |
+| MPPP: Multidimensional Paper Plane Project | 348472 | [348472-mppp-multidimensional-paper-plane-project.json](./348472-mppp-multidimensional-paper-plane-project.json) |
 | MR 333 | 192568 | [192568-mr-333.json](./192568-mr-333.json) |
 | Mr Anchry's Day of Twilight | 132076 | [132076-mr-anchrys-day-of-twilight.json](./132076-mr-anchrys-day-of-twilight.json) |
 | Mr Anchry's Divine Intervention | 124271 | [124271-mr-anchrys-divine-intervention.json](./124271-mr-anchrys-divine-intervention.json) |
