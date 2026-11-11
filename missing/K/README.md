@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kabobber | 40684 | [40684-kabobber.json](./40684-kabobber.json) |
 | KabochaFarm | 150970 | [150970-kabochafarm.json](./150970-kabochafarm.json) |
 | Kabod Online | 65209 | [65209-kabod-online.json](./65209-kabod-online.json) |
+| Kabonk! | 338434 | [338434-kabonk.json](./338434-kabonk.json) |
 | Kaboom | 219869 | [219869-kaboom.json](./219869-kaboom.json) |
 | Kaboom Farm | 412924 | [412924-kaboom-farm.json](./412924-kaboom-farm.json) |
 | Kaboom Swing | 179151 | [179151-kaboom-swing.json](./179151-kaboom-swing.json) |
