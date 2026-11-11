@@ -3413,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Era Mod | 403058 | [403058-new-era-mod.json](./403058-new-era-mod.json) |
 | New Era Old World | 355997 | [355997-new-era-old-world.json](./355997-new-era-old-world.json) |
 | New Era Old World | 397812 | [397812-new-era-old-world.json](./397812-new-era-old-world.json) |
+| New Eromancer | 389811 | [389811-new-eromancer.json](./389811-new-eromancer.json) |
 | New Eyes Cycle | 374273 | [374273-new-eyes-cycle.json](./374273-new-eyes-cycle.json) |
 | New Face On The Block | 388185 | [388185-new-face-on-the-block.json](./388185-new-face-on-the-block.json) |
 | New fantasia | 39810 | [39810-new-fantasia.json](./39810-new-fantasia.json) |
