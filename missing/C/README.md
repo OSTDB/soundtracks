@@ -17558,6 +17558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crates 3D | 339020 | [339020-crates-3d.json](./339020-crates-3d.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
+| Crathos Deep | 375084 | [375084-crathos-deep.json](./375084-crathos-deep.json) |
 | Crave | 170250 | [170250-crave.json](./170250-crave.json) |
 | Crave | 201974 | [201974-crave.json](./201974-crave.json) |
 | Crave New World | 423667 | [423667-crave-new-world.json](./423667-crave-new-world.json) |
@@ -18614,6 +18615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Defense | 95226 | [95226-crimson-defense.json](./95226-crimson-defense.json) |
 | Crimson Desert: Charting the Unknown | 416102 | [416102-crimson-desert-charting-the-unknown.json](./416102-crimson-desert-charting-the-unknown.json) |
 | Crimson Desert: Deluxe Edition | 396302 | [396302-crimson-desert-deluxe-edition.json](./396302-crimson-desert-deluxe-edition.json) |
+| Crimson Devotion | 375065 | [375065-crimson-devotion.json](./375065-crimson-devotion.json) |
 | Crimson Dragon | 4757 | [4757-crimson-dragon.json](./4757-crimson-dragon.json) |
 | Crimson Dragon Side Story | 79815 | [79815-crimson-dragon-side-story.json](./79815-crimson-dragon-side-story.json) |
 | Crimson Earth | 28945 | [28945-crimson-earth.json](./28945-crimson-earth.json) |
@@ -20816,6 +20818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultivation Fantasy | 274042 | [274042-cultivation-fantasy.json](./274042-cultivation-fantasy.json) |
 | Cultivation Magic World | 374882 | [374882-cultivation-magic-world.json](./374882-cultivation-magic-world.json) |
 | Cultivation of The Strong | 334527 | [334527-cultivation-of-the-strong.json](./334527-cultivation-of-the-strong.json) |
+| Cultivation Story: Infinite Sword Realm | 375107 | [375107-cultivation-story-infinite-sword-realm.json](./375107-cultivation-story-infinite-sword-realm.json) |
 | Cultivation Story: Reincarnation | 211228 | [211228-cultivation-story-reincarnation.json](./211228-cultivation-story-reincarnation.json) |
 | Cultivator | 383561 | [383561-cultivator.json](./383561-cultivator.json) |
 | Cultivator Legacy | 199987 | [199987-cultivator-legacy.json](./199987-cultivator-legacy.json) |
@@ -21718,6 +21721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Knight | 16471 | [16471-cyber-knight.json](./16471-cyber-knight.json) |
 | Cyber Knight II | 16472 | [16472-cyber-knight-ii.json](./16472-cyber-knight-ii.json) |
 | Cyber Knight II: Chikyuu Teikoku no Yabou | 42548 | [42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json](./42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json) |
+| Cyber Knights | 375053 | [375053-cyber-knights.json](./375053-cyber-knights.json) |
 | Cyber Knights: Flashpoint | 129596 | [129596-cyber-knights-flashpoint.json](./129596-cyber-knights-flashpoint.json) |
 | Cyber Lab | 379029 | [379029-cyber-lab.json](./379029-cyber-lab.json) |
 | Cyber Lady | 177632 | [177632-cyber-lady.json](./177632-cyber-lady.json) |
