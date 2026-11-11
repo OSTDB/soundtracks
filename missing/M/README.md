@@ -9815,6 +9815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Salvo | 311659 | [311659-mental-salvo.json](./311659-mental-salvo.json) |
 | Mental: The Dark Night | 236828 | [236828-mental-the-dark-night.json](./236828-mental-the-dark-night.json) |
 | Mentally, I am | 139273 | [139273-mentally-i-am.json](./139273-mentally-i-am.json) |
+| Mentari | 319479 | [319479-mentari.json](./319479-mentari.json) |
 | Menticide | 324629 | [324629-menticide.json](./324629-menticide.json) |
 | Menticide | 329201 | [329201-menticide.json](./329201-menticide.json) |
 | Mentis Cohorts | 41538 | [41538-mentis-cohorts.json](./41538-mentis-cohorts.json) |
@@ -12868,6 +12869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimic | 286103 | [286103-mimic.json](./286103-mimic.json) |
 | Mimic | 359605 | [359605-mimic.json](./359605-mimic.json) |
 | Mimic | 80902 | [80902-mimic.json](./80902-mimic.json) |
+| Mimic Alert | 319475 | [319475-mimic-alert.json](./319475-mimic-alert.json) |
 | Mimic Arena | 33785 | [33785-mimic-arena.json](./33785-mimic-arena.json) |
 | Mimic Busters | 418674 | [418674-mimic-busters.json](./418674-mimic-busters.json) |
 | Mimic Dungeon | 273707 | [273707-mimic-dungeon.json](./273707-mimic-dungeon.json) |
@@ -14333,6 +14335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mint Fantome's Freak or Treat | 321270 | [321270-mint-fantomes-freak-or-treat.json](./321270-mint-fantomes-freak-or-treat.json) |
 | Mint Muse Sound Flare | 168126 | [168126-mint-muse-sound-flare.json](./168126-mint-muse-sound-flare.json) |
 | Mint Works | 159818 | [159818-mint-works.json](./159818-mint-works.json) |
+| Mint's Hints 2 | 319506 | [319506-mints-hints-2.json](./319506-mints-hints-2.json) |
 | Mint's Hints 3 | 328008 | [328008-mints-hints-3.json](./328008-mints-hints-3.json) |
 | Minton Keibu no Sousa File Doukeshi Satsujin Jiken | 166661 | [166661-minton-keibu-no-sousa-file-doukeshi-satsujin-jiken.json](./166661-minton-keibu-no-sousa-file-doukeshi-satsujin-jiken.json) |
 | Mintroid | 188619 | [188619-mintroid.json](./188619-mintroid.json) |
