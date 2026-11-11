@@ -4811,6 +4811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare at the lighthouse | 54454 | [54454-nightmare-at-the-lighthouse.json](./54454-nightmare-at-the-lighthouse.json) |
 | Nightmare Before Blackgate | 399096 | [399096-nightmare-before-blackgate.json](./399096-nightmare-before-blackgate.json) |
 | Nightmare Before Disney 2 April Fools | 272471 | [272471-nightmare-before-disney-2-april-fools.json](./272471-nightmare-before-disney-2-april-fools.json) |
+| Nightmare Before Disney 3 | 387808 | [387808-nightmare-before-disney-3.json](./387808-nightmare-before-disney-3.json) |
 | Nightmare Before Disney: Halloween Edition | 270751 | [270751-nightmare-before-disney-halloween-edition.json](./270751-nightmare-before-disney-halloween-edition.json) |
 | Nightmare Below Disney | 270671 | [270671-nightmare-below-disney.json](./270671-nightmare-below-disney.json) |
 | Nightmare Boy | 29384 | [29384-nightmare-boy.json](./29384-nightmare-boy.json) |
