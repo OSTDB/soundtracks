@@ -3482,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indian Attack | 60299 | [60299-indian-attack.json](./60299-indian-attack.json) |
 | Indian Battle | 91665 | [91665-indian-battle.json](./91665-indian-battle.json) |
 | Indian Bus Simulator: Game | 384620 | [384620-indian-bus-simulator-game.json](./384620-indian-bus-simulator-game.json) |
+| Indian Legends Solitaire | 380931 | [380931-indian-legends-solitaire.json](./380931-indian-legends-solitaire.json) |
 | Indian Mission | 57018 | [57018-indian-mission.json](./57018-indian-mission.json) |
 | Indian Mutiny: Little Sepoy | 101351 | [101351-indian-mutiny-little-sepoy.json](./101351-indian-mutiny-little-sepoy.json) |
 | Indian Princess: Dress Up! | 320466 | [320466-indian-princess-dress-up.json](./320466-indian-princess-dress-up.json) |
