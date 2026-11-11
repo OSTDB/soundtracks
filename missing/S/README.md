@@ -13063,6 +13063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinscape | 102358 | [102358-skinscape.json](./102358-skinscape.json) |
 | Skinwalker | 60934 | [60934-skinwalker.json](./60934-skinwalker.json) |
 | Skinwalker Hunt | 130126 | [130126-skinwalker-hunt.json](./130126-skinwalker-hunt.json) |
+| Skinwalker: First Blood | 375091 | [375091-skinwalker-first-blood.json](./375091-skinwalker-first-blood.json) |
 | Skinwalkers | 150625 | [150625-skinwalkers.json](./150625-skinwalkers.json) |
 | Skinwalkers Valley | 379339 | [379339-skinwalkers-valley.json](./379339-skinwalkers-valley.json) |
 | Skinwoods: The Full Cut | 390737 | [390737-skinwoods-the-full-cut.json](./390737-skinwoods-the-full-cut.json) |
