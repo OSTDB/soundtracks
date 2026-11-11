@@ -3357,11 +3357,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Firm: Replanted | 408490 | [408490-weed-firm-replanted.json](./408490-weed-firm-replanted.json) |
 | Weed Garden Online | 374623 | [374623-weed-garden-online.json](./374623-weed-garden-online.json) |
 | Weed Harvest | 291339 | [291339-weed-harvest.json](./291339-weed-harvest.json) |
+| Weed Lord Simulator | 326316 | [326316-weed-lord-simulator.json](./326316-weed-lord-simulator.json) |
 | Weed Merge Inc | 374661 | [374661-weed-merge-inc.json](./374661-weed-merge-inc.json) |
 | Weed Shop | 374627 | [374627-weed-shop.json](./374627-weed-shop.json) |
 | Weed Shop 2 | 28907 | [28907-weed-shop-2.json](./28907-weed-shop-2.json) |
 | Weed Shop 4: Highland | 309645 | [309645-weed-shop-4-highland.json](./309645-weed-shop-4-highland.json) |
 | Weed Shop Simulator | 344284 | [344284-weed-shop-simulator.json](./344284-weed-shop-simulator.json) |
+| Weed Simulator | 326317 | [326317-weed-simulator.json](./326317-weed-simulator.json) |
 | Weed Store Simulator | 404032 | [404032-weed-store-simulator.json](./404032-weed-store-simulator.json) |
 | Weed Supermarket Simulator | 383739 | [383739-weed-supermarket-simulator.json](./383739-weed-supermarket-simulator.json) |
 | Weed Syndicate Empire | 347066 | [347066-weed-syndicate-empire.json](./347066-weed-syndicate-empire.json) |
@@ -4253,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelborne | 359144 | [359144-wheelborne.json](./359144-wheelborne.json) |
 | Wheelchair for Two | 406738 | [406738-wheelchair-for-two.json](./406738-wheelchair-for-two.json) |
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
+| Wheelchair Simulator | 326315 | [326315-wheelchair-simulator.json](./326315-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
 | Wheelchair Wizards | 359113 | [359113-wheelchair-wizards.json](./359113-wheelchair-wizards.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
@@ -7450,6 +7453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Simulator | 258514 | [258514-wolf-simulator.json](./258514-wolf-simulator.json) |
 | Wolf Simulator | 32481 | [32481-wolf-simulator.json](./32481-wolf-simulator.json) |
 | Wolf Simulator 2025: Wild RPG Survival | 364817 | [364817-wolf-simulator-2025-wild-rpg-survival.json](./364817-wolf-simulator-2025-wild-rpg-survival.json) |
+| Wolf Simulator: Silent Paws | 326318 | [326318-wolf-simulator-silent-paws.json](./326318-wolf-simulator-silent-paws.json) |
 | Wolf Souls | 249670 | [249670-wolf-souls.json](./249670-wolf-souls.json) |
 | Wolf Souls: Arena | 324331 | [324331-wolf-souls-arena.json](./324331-wolf-souls-arena.json) |
 | Wolf Survival | 287688 | [287688-wolf-survival.json](./287688-wolf-survival.json) |
@@ -7789,6 +7793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Killer | 152638 | [152638-wood-killer.json](./152638-wood-killer.json) |
 | Wood Nuts & Bolts Puzzle | 331341 | [331341-wood-nuts-and-bolts-puzzle.json](./331341-wood-nuts-and-bolts-puzzle.json) |
 | Wood Puzzle | 208942 | [208942-wood-puzzle.json](./208942-wood-puzzle.json) |
+| Wood Shop Simulator | 326319 | [326319-wood-shop-simulator.json](./326319-wood-shop-simulator.json) |
 | Wood Unroll Ball | 214283 | [214283-wood-unroll-ball.json](./214283-wood-unroll-ball.json) |
 | Wood Walker | 395874 | [395874-wood-walker.json](./395874-wood-walker.json) |
 | Wood'N'Destroy | 396367 | [396367-woodndestroy.json](./396367-woodndestroy.json) |
