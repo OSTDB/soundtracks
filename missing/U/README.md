@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Genjin | 282804 | [282804-ultra-genjin.json](./282804-ultra-genjin.json) |
 | Ultra Goku Super Battle | 95813 | [95813-ultra-goku-super-battle.json](./95813-ultra-goku-super-battle.json) |
 | Ultra Golf | 49057 | [49057-ultra-golf.json](./49057-ultra-golf.json) |
+| Ultra Gravity | 340109 | [340109-ultra-gravity.json](./340109-ultra-gravity.json) |
 | Ultra Hard! Spot the Difference Challenge | 306549 | [306549-ultra-hard-spot-the-difference-challenge.json](./306549-ultra-hard-spot-the-difference-challenge.json) |
 | Ultra Hat Dimension | 59472 | [59472-ultra-hat-dimension.json](./59472-ultra-hat-dimension.json) |
 | Ultra Hell | 83272 | [83272-ultra-hell.json](./83272-ultra-hell.json) |
