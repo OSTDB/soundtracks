@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T21:36:38.532Z",
-  "total_soundtracks": 3110,
+  "generated_at": "2026-11-11T21:57:09.629Z",
+  "total_soundtracks": 3129,
   "games": [
     {
       "igdb_id": 7522,
@@ -589,6 +589,20 @@
       ]
     },
     {
+      "igdb_id": 121711,
+      "game_name": "Across the Grooves",
+      "game_url": "https://ostdb.net/games/across-the-grooves",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27364f8727be2977fd01b639a1a",
+      "albums": [
+        {
+          "album_name": "Across the Grooves (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1aNlqH8MZPQh6j3OiT4OCv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 143000,
       "game_name": "Across the Obelisk",
       "game_url": "https://ostdb.net/games/across-the-obelisk",
@@ -1001,6 +1015,20 @@
         {
           "album_name": "Age of Wonders 4: Ways of War (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1h4y9lvHJ7GPWBoG8JqUsj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 131622,
+      "game_name": "Ageless",
+      "game_url": "https://ostdb.net/games/ageless",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f834effc5771feec71fbd936",
+      "albums": [
+        {
+          "album_name": "Ageless (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4FiOtYpU3nZMzJwjUlyygq",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -2025,6 +2053,20 @@
         {
           "album_name": "Art of Balance Soundtrack",
           "spotify_url": "https://open.spotify.com/album/48u3XFXoBaCk0sSjmVkdKj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 129107,
+      "game_name": "As Far as the Eye",
+      "game_url": "https://ostdb.net/games/as-far-as-the-eye",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738091635f1f7080a3774bc3e2",
+      "albums": [
+        {
+          "album_name": "As Far As The Eye (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2iq1NslwMRAy0JIS3VbmFZ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -6269,6 +6311,20 @@
       ]
     },
     {
+      "igdb_id": 137300,
+      "game_name": "Cobra Kai: The Karate Kid Saga Continues",
+      "game_url": "https://ostdb.net/games/cobra-kai-the-karate-kid-saga-continues",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a17f73631c6164797a5c28ec",
+      "albums": [
+        {
+          "album_name": "Cobra Kai: The Karate Kid Saga Continues (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2HFWv0aXyzKtJG1L3uE1LO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 204627,
       "game_name": "Cocoon",
       "game_url": "https://ostdb.net/games/cocoon",
@@ -7407,6 +7463,20 @@
         {
           "album_name": "Dandara: Trials of Fear Edition (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6KyOTLgNixYUrmFlsT6D2Z",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 116533,
+      "game_name": "Dandy Ace",
+      "game_url": "https://ostdb.net/games/dandy-ace",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273715c8f4cdb36a47001ae2494",
+      "albums": [
+        {
+          "album_name": "Dandy Ace Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5ADQPt0dbtLTJbLcqu0dcf",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -10323,6 +10393,20 @@
         {
           "album_name": "Eldest Souls (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/22BGzcyLNuyFoxUMN1eMPk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 129518,
+      "game_name": "ElecHead",
+      "game_url": "https://ostdb.net/games/elechead",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e7075f3c30311ae3dc0ac7c0",
+      "albums": [
+        {
+          "album_name": "ElecHead Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4olI4fQVdIlPXmHK1gfysq",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -13651,6 +13735,20 @@
       ]
     },
     {
+      "igdb_id": 11844,
+      "game_name": "God Eater",
+      "game_url": "https://ostdb.net/games/god-eater",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b1c511ab8df2d94491910436",
+      "albums": [
+        {
+          "album_name": "GOD EATER ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/0toYSzFbNt8pQq8DPxFYP2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 28010,
       "game_name": "God Eater 3",
       "game_url": "https://ostdb.net/games/god-eater-3",
@@ -16047,6 +16145,20 @@
       ]
     },
     {
+      "igdb_id": 119536,
+      "game_name": "HyperDot",
+      "game_url": "https://ostdb.net/games/hyperdot",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273be191ff5a723b1cf79b5ab73",
+      "albums": [
+        {
+          "album_name": "HyperDot (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3FwBKNjAcw7y0YPymGyVPI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 113360,
       "game_name": "Hytale",
       "game_url": "https://ostdb.net/games/hytale",
@@ -16809,6 +16921,20 @@
       ]
     },
     {
+      "igdb_id": 145471,
+      "game_name": "Ion Fury: Aftershock",
+      "game_url": "https://ostdb.net/games/ion-fury-aftershock",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737f6f231d5494c5dd74849d48",
+      "albums": [
+        {
+          "album_name": "Ion Fury: Aftershock (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0gkwo4TX9SXRtJ08nwm7Py",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 64288,
       "game_name": "Irisu Syndrome",
       "game_url": "https://ostdb.net/games/irisu-syndrome",
@@ -16832,6 +16958,20 @@
           "album_name": "Iron Harvest (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3hAnNJYcctcZyemQFNvKe5",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 10459,
+      "game_name": "Ironclad Tactics",
+      "game_url": "https://ostdb.net/games/ironclad-tactics",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27379dc1f3e08dd8bfebac00c41",
+      "albums": [
+        {
+          "album_name": "Ironclad Tactics (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/612728g6dibjxQArre60ev",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -17783,6 +17923,20 @@
       ]
     },
     {
+      "igdb_id": 117058,
+      "game_name": "Lair of the Clockwork God",
+      "game_url": "https://ostdb.net/games/lair-of-the-clockwork-god",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fe47307499ed752f8b00ec46",
+      "albums": [
+        {
+          "album_name": "Lair of the Clockwork God (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0kezQnUeBtjWrwwBpT5N1z",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 152260,
       "game_name": "Lakeburg Legacies",
       "game_url": "https://ostdb.net/games/lakeburg-legacies",
@@ -18210,6 +18364,20 @@
           "album_name": "LEGO Voyagers (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7rjVUsWvSi304oX18mWTYm",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 137111,
+      "game_name": "Lemon Cake",
+      "game_url": "https://ostdb.net/games/lemon-cake",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273abdd7930e6f2a6635aed4aa8",
+      "albums": [
+        {
+          "album_name": "Lemon Cake (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6HowMu5JRzByGHvFKtU60F",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -20175,6 +20343,20 @@
         {
           "album_name": "MEGA MAN X LEGACY COLLECTION SOUNDTRACK",
           "spotify_url": "https://open.spotify.com/album/1o8CsovLIhrJpyi57Dl6a2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 120032,
+      "game_name": "Mekabolt",
+      "game_url": "https://ostdb.net/games/mekabolt",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f79678401ad0fe34965a55f7",
+      "albums": [
+        {
+          "album_name": "Mekabolt (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5jokaUiOP7UtjEwwtcmRtL",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -25550,6 +25732,20 @@
           "album_name": "Ratchet & Clank: Rift Apart (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4Dq65Lwt50IB0eAKuT10nC",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 121270,
+      "game_name": "Ratropolis",
+      "game_url": "https://ostdb.net/games/ratropolis",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732f126de7dfc56ce782c21ea7",
+      "albums": [
+        {
+          "album_name": "Ratropolis (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1LmOlJdT7ibjZJ7At4jCJV",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -32053,6 +32249,20 @@
       ]
     },
     {
+      "igdb_id": 127440,
+      "game_name": "Taiji",
+      "game_url": "https://ostdb.net/games/taiji",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27366520f3250d51b9bd86deb09",
+      "albums": [
+        {
+          "album_name": "Taiji (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/23PNDejRxtKAizWgjcbAPG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 146424,
       "game_name": "Tainted Grail: Conquest",
       "game_url": "https://ostdb.net/games/tainted-grail-conquest",
@@ -33323,6 +33533,20 @@
       ]
     },
     {
+      "igdb_id": 128442,
+      "game_name": "The Elder Scrolls Online: Greymoor",
+      "game_url": "https://ostdb.net/games/the-elder-scrolls-online-greymoor",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736c528c0d9aac977de92222be",
+      "albums": [
+        {
+          "album_name": "The Elder Scrolls Online: Greymoor (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0zDT34v8u4QcadsHrvDPbI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 472,
       "game_name": "The Elder Scrolls V: Skyrim",
       "game_url": "https://ostdb.net/games/the-elder-scrolls-v-skyrim",
@@ -33540,6 +33764,20 @@
           "album_name": "The First Descendant (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4wglXs9CPzXyzUdQNXIa0y",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 131930,
+      "game_name": "The Flower Collectors",
+      "game_url": "https://ostdb.net/games/the-flower-collectors",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734b84c54efff6c42581e529bc",
+      "albums": [
+        {
+          "album_name": "The Flower Collectors (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0zJ3OviwZctKlIYLD0klpe",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -37249,6 +37487,20 @@
       ]
     },
     {
+      "igdb_id": 123580,
+      "game_name": "Vampire's Fall: Origins",
+      "game_url": "https://ostdb.net/games/vampires-fall-origins",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27354f83ae25357b3c0d0c48c55",
+      "albums": [
+        {
+          "album_name": "VAMPIRE'S FALL: ORIGINS (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/67TrbhxOKhOGUxW1zOlwAY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 8729,
       "game_name": "Vampyr",
       "game_url": "https://ostdb.net/games/vampyr",
@@ -39579,6 +39831,20 @@
         {
           "album_name": "Yuppie Psycho (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4gK9ahoEVy0db5Qn0VNSqj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 142800,
+      "game_name": "Zeepkist",
+      "game_url": "https://ostdb.net/games/zeepkist",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734c18b67b45e08852c1703f81",
+      "albums": [
+        {
+          "album_name": "Zeepkist (Original Game Soundtrack) Volume 1",
+          "spotify_url": "https://open.spotify.com/album/1Rysz98yuWzE3WtpljCvfR",
           "apple_music_url": "",
           "album_link_url": ""
         }
