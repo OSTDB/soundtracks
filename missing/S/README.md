@@ -26465,7 +26465,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Starfighter | 149 | [149-star-wars-starfighter.json](./149-star-wars-starfighter.json) |
 | Star Wars: Starfighter - Special Edition | 242773 | [242773-star-wars-starfighter-special-edition.json](./242773-star-wars-starfighter-special-edition.json) |
 | Star Wars: Super Bombad Racing | 18046 | [18046-star-wars-super-bombad-racing.json](./18046-star-wars-super-bombad-racing.json) |
-| Star Wars: Tales from the Galaxy's Edge | 134957 | [134957-star-wars-tales-from-the-galaxys-edge.json](./134957-star-wars-tales-from-the-galaxys-edge.json) |
 | Star Wars: Tales from the Galaxy’s Edge - Enhanced Edition | 217591 | [217591-star-wars-tales-from-the-galaxy-s-edge-enhanced-edition.json](./217591-star-wars-tales-from-the-galaxy-s-edge-enhanced-edition.json) |
 | Star Wars: Tales from the Galaxy's Edge - Last Call | 166008 | [166008-star-wars-tales-from-the-galaxys-edge-last-call.json](./166008-star-wars-tales-from-the-galaxys-edge-last-call.json) |
 | Star Wars: The Battle Above Coruscant | 75561 | [75561-star-wars-the-battle-above-coruscant.json](./75561-star-wars-the-battle-above-coruscant.json) |
