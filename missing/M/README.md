@@ -4669,6 +4669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marlon’s Mystery: The Darkside of Crime | 189840 | [189840-marlon-s-mystery-the-darkside-of-crime.json](./189840-marlon-s-mystery-the-darkside-of-crime.json) |
 | Marlow Briggs and the Mask of Death | 8006 | [8006-marlow-briggs-and-the-mask-of-death.json](./8006-marlow-briggs-and-the-mask-of-death.json) |
 | Marlow in Apocalyptic Acid World | 180053 | [180053-marlow-in-apocalyptic-acid-world.json](./180053-marlow-in-apocalyptic-acid-world.json) |
+| Marlow in Apocalyptic Acid World | 318684 | [318684-marlow-in-apocalyptic-acid-world.json](./318684-marlow-in-apocalyptic-acid-world.json) |
 | Marlowe's Path | 179060 | [179060-marlowes-path.json](./179060-marlowes-path.json) |
 | Marmalade box | 188817 | [188817-marmalade-box.json](./188817-marmalade-box.json) |
 | Marmalade Boy | 202585 | [202585-marmalade-boy.json](./202585-marmalade-boy.json) |
@@ -14065,6 +14066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minimal Maze | 151389 | [151389-minimal-maze.json](./151389-minimal-maze.json) |
 | Minimal Maze | 197772 | [197772-minimal-maze.json](./197772-minimal-maze.json) |
 | Minimal Move | 115677 | [115677-minimal-move.json](./115677-minimal-move.json) |
+| Minimal Slide | 318673 | [318673-minimal-slide.json](./318673-minimal-slide.json) |
 | Minimalism | 29648 | [29648-minimalism.json](./29648-minimalism.json) |
 | Minimalist | 138976 | [138976-minimalist.json](./138976-minimalist.json) |
 | Minimalist Box | 367010 | [367010-minimalist-box.json](./367010-minimalist-box.json) |
@@ -14334,6 +14336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mint Fantome's Freak or Treat | 321270 | [321270-mint-fantomes-freak-or-treat.json](./321270-mint-fantomes-freak-or-treat.json) |
 | Mint Muse Sound Flare | 168126 | [168126-mint-muse-sound-flare.json](./168126-mint-muse-sound-flare.json) |
 | Mint Works | 159818 | [159818-mint-works.json](./159818-mint-works.json) |
+| Mint's Hints | 318297 | [318297-mints-hints.json](./318297-mints-hints.json) |
 | Mint's Hints 2 | 319506 | [319506-mints-hints-2.json](./319506-mints-hints-2.json) |
 | Mint's Hints 3 | 328008 | [328008-mints-hints-3.json](./328008-mints-hints-3.json) |
 | Minton Keibu no Sousa File Doukeshi Satsujin Jiken | 166661 | [166661-minton-keibu-no-sousa-file-doukeshi-satsujin-jiken.json](./166661-minton-keibu-no-sousa-file-doukeshi-satsujin-jiken.json) |
@@ -17165,6 +17168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maker | 418581 | [418581-monster-maker.json](./418581-monster-maker.json) |
 | Monster Maker 4: Flash Card | 49715 | [49715-monster-maker-4-flash-card.json](./49715-monster-maker-4-flash-card.json) |
 | Monster Maker 4: Killer Dice | 49714 | [49714-monster-maker-4-killer-dice.json](./49714-monster-maker-4-killer-dice.json) |
+| Monster Maker II: Uru no Hiken | 318677 | [318677-monster-maker-ii-uru-no-hiken.json](./318677-monster-maker-ii-uru-no-hiken.json) |
 | Monster Maker III: Hikari no Majutsushi | 37922 | [37922-monster-maker-iii-hikari-no-majutsushi.json](./37922-monster-maker-iii-hikari-no-majutsushi.json) |
 | Monster Maker Kids | 37921 | [37921-monster-maker-kids.json](./37921-monster-maker-kids.json) |
 | Monster Maker: 7-tsu no Hihou | 48420 | [48420-monster-maker-7-tsu-no-hihou.json](./48420-monster-maker-7-tsu-no-hihou.json) |
@@ -20965,6 +20969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
 | Museum of War | 156766 | [156766-museum-of-war.json](./156766-museum-of-war.json) |
 | Museum Simulator | 349824 | [349824-museum-simulator.json](./349824-museum-simulator.json) |
+| Museum.exe | 318236 | [318236-museum-exe.json](./318236-museum-exe.json) |
 | Museums of History | 339921 | [339921-museums-of-history.json](./339921-museums-of-history.json) |
 | Musgro Farm | 303098 | [303098-musgro-farm.json](./303098-musgro-farm.json) |
 | Mush | 92588 | [92588-mush.json](./92588-mush.json) |
@@ -23564,6 +23569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Labyrinth | 295408 | [295408-mystic-labyrinth.json](./295408-mystic-labyrinth.json) |
 | Mystic Land: The search for Maphaldo | 270967 | [270967-mystic-land-the-search-for-maphaldo.json](./270967-mystic-land-the-search-for-maphaldo.json) |
 | Mystic Legacy : The Great Ring | 145114 | [145114-mystic-legacy-the-great-ring.json](./145114-mystic-legacy-the-great-ring.json) |
+| Mystic Mansion | 318647 | [318647-mystic-mansion.json](./318647-mystic-mansion.json) |
 | Mystic Marathon | 38579 | [38579-mystic-marathon.json](./38579-mystic-marathon.json) |
 | Mystic Mayhem | 64647 | [64647-mystic-mayhem.json](./64647-mystic-mayhem.json) |
 | Mystic Mayhem Unleashed | 121398 | [121398-mystic-mayhem-unleashed.json](./121398-mystic-mayhem-unleashed.json) |
