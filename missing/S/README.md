@@ -11641,6 +11641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simp Simulator 2023 | 253857 | [253857-simp-simulator-2023.json](./253857-simp-simulator-2023.json) |
 | SIMP: Super Infection Massive Pathology | 336586 | [336586-simp-super-infection-massive-pathology.json](./336586-simp-super-infection-massive-pathology.json) |
 | SimPark | 16613 | [16613-simpark.json](./16613-simpark.json) |
+| Simpatico | 339011 | [339011-simpatico.json](./339011-simpatico.json) |
 | Simple 1500 Jitsuyou Series Vol. 08: 1-jikan de Wakaru Kabushiki Toushi | 298760 | [298760-simple-1500-jitsuyou-series-vol-08-1-jikan-de-wakaru-kabushiki-toushi.json](./298760-simple-1500-jitsuyou-series-vol-08-1-jikan-de-wakaru-kabushiki-toushi.json) |
 | Simple 1500 Series Hello Kitty Vol. 01: Hello Kitty Bowling | 64656 | [64656-simple-1500-series-hello-kitty-vol-01-hello-kitty-bowling.json](./64656-simple-1500-series-hello-kitty-vol-01-hello-kitty-bowling.json) |
 | Simple 1500 Series Hello Kitty Vol. 02: Hello Kitty Illust Puzzle | 64658 | [64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json](./64658-simple-1500-series-hello-kitty-vol-02-hello-kitty-illust-puzzle.json) |
@@ -33714,6 +33715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Luigi Dreams | 135129 | [135129-super-luigi-dreams.json](./135129-super-luigi-dreams.json) |
 | Super Luigi Dreams 2: Tale of the Dream Stone | 323817 | [323817-super-luigi-dreams-2-tale-of-the-dream-stone.json](./323817-super-luigi-dreams-2-tale-of-the-dream-stone.json) |
 | Super Luigi Land | 130090 | [130090-super-luigi-land.json](./130090-super-luigi-land.json) |
+| Super Luigi Land 2 | 339014 | [339014-super-luigi-land-2.json](./339014-super-luigi-land-2.json) |
 | Super Luigi Land Wii | 294783 | [294783-super-luigi-land-wii.json](./294783-super-luigi-land-wii.json) |
 | Super Luigi Odyssey | 282683 | [282683-super-luigi-odyssey.json](./282683-super-luigi-odyssey.json) |
 | Super Luigi Paradise | 318928 | [318928-super-luigi-paradise.json](./318928-super-luigi-paradise.json) |
@@ -34208,6 +34210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Star Road | 44044 | [44044-super-mario-star-road.json](./44044-super-mario-star-road.json) |
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
 | Super Mario Star Road Retooled | 287617 | [287617-super-mario-star-road-retooled.json](./287617-super-mario-star-road-retooled.json) |
+| Super Mario Star Road: Hint Arts | 339006 | [339006-super-mario-star-road-hint-arts.json](./339006-super-mario-star-road-hint-arts.json) |
 | Super Mario Star Road: The Green Comet | 222747 | [222747-super-mario-star-road-the-green-comet.json](./222747-super-mario-star-road-the-green-comet.json) |
 | Super Mario Star Scramble 3 | 215250 | [215250-super-mario-star-scramble-3.json](./215250-super-mario-star-scramble-3.json) |
 | Super Mario Star Scramble Jam | 370297 | [370297-super-mario-star-scramble-jam.json](./370297-super-mario-star-scramble-jam.json) |
