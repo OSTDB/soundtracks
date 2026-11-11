@@ -3897,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Agatharia | 356038 | [356038-battle-for-agatharia.json](./356038-battle-for-agatharia.json) |
 | Battle for Antares | 152942 | [152942-battle-for-antares.json](./152942-battle-for-antares.json) |
 | Battle for Antares | 152943 | [152943-battle-for-antares.json](./152943-battle-for-antares.json) |
+| Battle for Asciion | 388651 | [388651-battle-for-asciion.json](./388651-battle-for-asciion.json) |
 | Battle for Atlantis | 341135 | [341135-battle-for-atlantis.json](./341135-battle-for-atlantis.json) |
 | Battle for Borders | 236802 | [236802-battle-for-borders.json](./236802-battle-for-borders.json) |
 | Battle for Cloud 9 | 337285 | [337285-battle-for-cloud-9.json](./337285-battle-for-cloud-9.json) |
@@ -10424,6 +10425,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlayzBloo: Super Melee Brawlers Battle Royale | 67246 | [67246-blayzbloo-super-melee-brawlers-battle-royale.json](./67246-blayzbloo-super-melee-brawlers-battle-royale.json) |
 | BlazBlue (Tentative Title) | 86364 | [86364-blazblue-tentative-title.json](./86364-blazblue-tentative-title.json) |
 | BlazBlue Alternative: Dark War | 54568 | [54568-blazblue-alternative-dark-war.json](./54568-blazblue-alternative-dark-war.json) |
+| BlazBlue Central Fiction: Famitsu Additional Colors | 388483 | [388483-blazblue-central-fiction-famitsu-additional-colors.json](./388483-blazblue-central-fiction-famitsu-additional-colors.json) |
+| BlazBlue Central Fiction: Famitsu Items | 388485 | [388485-blazblue-central-fiction-famitsu-items.json](./388485-blazblue-central-fiction-famitsu-items.json) |
+| BlazBlue Central Fiction: Toukiden 2 Collaboration Items | 388489 | [388489-blazblue-central-fiction-toukiden-2-collaboration-items.json](./388489-blazblue-central-fiction-toukiden-2-collaboration-items.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 2 | 332825 | [332825-blazblue-cross-tag-battle-additional-color-set-2.json](./332825-blazblue-cross-tag-battle-additional-color-set-2.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
@@ -10436,6 +10440,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Calamity Trigger - Limited Edition | 42964 | [42964-blazblue-calamity-trigger-limited-edition.json](./42964-blazblue-calamity-trigger-limited-edition.json) |
 | BlazBlue: Calamity Trigger Portable | 46018 | [46018-blazblue-calamity-trigger-portable.json](./46018-blazblue-calamity-trigger-portable.json) |
 | BlazBlue: Central Fiction | 11613 | [11613-blazblue-central-fiction.json](./11613-blazblue-central-fiction.json) |
+| BlazBlue: Central Fiction - Gunslinger Stratos Pack | 388487 | [388487-blazblue-central-fiction-gunslinger-stratos-pack.json](./388487-blazblue-central-fiction-gunslinger-stratos-pack.json) |
+| BlazBlue: Central Fiction - Hangame Bunya Set | 388488 | [388488-blazblue-central-fiction-hangame-bunya-set.json](./388488-blazblue-central-fiction-hangame-bunya-set.json) |
 | BlazBlue: Central Fiction - Limited Edition | 212326 | [212326-blazblue-central-fiction-limited-edition.json](./212326-blazblue-central-fiction-limited-edition.json) |
 | BlazBlue: Central Fiction - Special Edition | 109607 | [109607-blazblue-central-fiction-special-edition.json](./109607-blazblue-central-fiction-special-edition.json) |
 | BlazBlue: Chrono Phantasma | 5643 | [5643-blazblue-chrono-phantasma.json](./5643-blazblue-chrono-phantasma.json) |
@@ -15450,6 +15456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainrot Clicker: Steal All | 401375 | [401375-brainrot-clicker-steal-all.json](./401375-brainrot-clicker-steal-all.json) |
 | Brainrot Dash | 338791 | [338791-brainrot-dash.json](./338791-brainrot-dash.json) |
 | Brainrot Kart | 349904 | [349904-brainrot-kart.json](./349904-brainrot-kart.json) |
+| Brainrot Online | 388482 | [388482-brainrot-online.json](./388482-brainrot-online.json) |
 | Brainrot Showdown | 408239 | [408239-brainrot-showdown.json](./408239-brainrot-showdown.json) |
 | Brainrot Survivors | 391041 | [391041-brainrot-survivors.json](./391041-brainrot-survivors.json) |
 | Brainrot Tung Tung Sahur | 344287 | [344287-brainrot-tung-tung-sahur.json](./344287-brainrot-tung-tung-sahur.json) |
