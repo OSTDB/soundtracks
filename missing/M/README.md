@@ -5986,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Games PRO | 105956 | [105956-math-games-pro.json](./105956-math-games-pro.json) |
 | Math Genius King of Arithmetic | 233753 | [233753-math-genius-king-of-arithmetic.json](./233753-math-genius-king-of-arithmetic.json) |
 | Math Genius: Addition Edition | 318250 | [318250-math-genius-addition-edition.json](./318250-math-genius-addition-edition.json) |
+| Math Genius: Division | 343502 | [343502-math-genius-division.json](./343502-math-genius-division.json) |
 | Math Genius: Multiplication | 321483 | [321483-math-genius-multiplication.json](./321483-math-genius-multiplication.json) |
 | Math Genius: Subtraction | 333204 | [333204-math-genius-subtraction.json](./333204-math-genius-subtraction.json) |
 | Math Gran Prix | 17260 | [17260-math-gran-prix.json](./17260-math-gran-prix.json) |
