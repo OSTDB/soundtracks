@@ -15003,6 +15003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slug Races | 180482 | [180482-slug-races.json](./180482-slug-races.json) |
 | Slug Slasher | 93786 | [93786-slug-slasher.json](./93786-slug-slasher.json) |
 | Slug Survival | 393817 | [393817-slug-survival.json](./393817-slug-survival.json) |
+| Slug's Sister Defense | 329241 | [329241-slugs-sister-defense.json](./329241-slugs-sister-defense.json) |
 | Slugfest | 257750 | [257750-slugfest.json](./257750-slugfest.json) |
 | Slugger | 299426 | [299426-slugger.json](./299426-slugger.json) |
 | Slugger 2 | 326802 | [326802-slugger-2.json](./326802-slugger-2.json) |
@@ -31676,6 +31677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoi Girls: Raunchy Rabbit | 345704 | [345704-sugoi-girls-raunchy-rabbit.json](./345704-sugoi-girls-raunchy-rabbit.json) |
 | Sugoi Girls: Sassy Heroine | 315843 | [315843-sugoi-girls-sassy-heroine.json](./315843-sugoi-girls-sassy-heroine.json) |
 | Sugoi Girls: Sexy Steampunk | 333739 | [333739-sugoi-girls-sexy-steampunk.json](./333739-sugoi-girls-sexy-steampunk.json) |
+| Sugoi Girls: Tribal Crush | 328722 | [328722-sugoi-girls-tribal-crush.json](./328722-sugoi-girls-tribal-crush.json) |
 | Sugoi Girls: Victoria Vogue | 380845 | [380845-sugoi-girls-victoria-vogue.json](./380845-sugoi-girls-victoria-vogue.json) |
 | Sugoi Girls: Vivacious Vampire | 320458 | [320458-sugoi-girls-vivacious-vampire.json](./320458-sugoi-girls-vivacious-vampire.json) |
 | Sugoi RPG? | 151632 | [151632-sugoi-rpg.json](./151632-sugoi-rpg.json) |
@@ -31956,6 +31958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Games II | 300243 | [300243-summer-games-ii.json](./300243-summer-games-ii.json) |
 | Summer Garden | 82183 | [82183-summer-garden.json](./82183-summer-garden.json) |
 | Summer Gems | 185242 | [185242-summer-gems.json](./185242-summer-gems.json) |
+| Summer Girlfriend: Natsu Kano | 328721 | [328721-summer-girlfriend-natsu-kano.json](./328721-summer-girlfriend-natsu-kano.json) |
 | Summer Haze/Glory Days | 309718 | [309718-summer-haze-glory-days.json](./309718-summer-haze-glory-days.json) |
 | Summer Heat | 278092 | [278092-summer-heat.json](./278092-summer-heat.json) |
 | Summer Heat Beach Volleyball | 22242 | [22242-summer-heat-beach-volleyball.json](./22242-summer-heat-beach-volleyball.json) |
