@@ -5467,6 +5467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koltera 2 | 392207 | [392207-koltera-2.json](./392207-koltera-2.json) |
 | Kolumno | 111641 | [111641-kolumno.json](./111641-kolumno.json) |
 | Kolydr | 387605 | [387605-kolydr.json](./387605-kolydr.json) |
+| Kolyma | 378701 | [378701-kolyma.json](./378701-kolyma.json) |
 | Koma | 168607 | [168607-koma.json](./168607-koma.json) |
 | Koma | 266883 | [266883-koma.json](./266883-koma.json) |
 | Komadori Inn | 296649 | [296649-komadori-inn.json](./296649-komadori-inn.json) |
