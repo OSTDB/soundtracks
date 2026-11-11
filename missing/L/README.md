@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'Impiccato in Italiano | 96042 | [96042-limpiccato-in-italiano.json](./96042-limpiccato-in-italiano.json) |
 | L'intrépide: Le Futur de L'imparfait | 145320 | [145320-lintrepide-le-futur-de-limparfait.json](./145320-lintrepide-le-futur-de-limparfait.json) |
 | L'Odyssée Sibérienne: Le Rêve Utile de Nicolas Vanier | 321859 | [321859-lodyssee-siberienne-le-reve-utile-de-nicolas-vanier.json](./321859-lodyssee-siberienne-le-reve-utile-de-nicolas-vanier.json) |
+| L'Oeil de Set | 378734 | [378734-loeil-de-set.json](./378734-loeil-de-set.json) |
 | L@ve Once | 139450 | [139450-l-ve-once.json](./139450-l-ve-once.json) |
 | L@ve Once: Mermaid's Tears | 81571 | [81571-l-ve-once-mermaids-tears.json](./81571-l-ve-once-mermaids-tears.json) |
 | L/Right Reflection | 239816 | [239816-l-right-reflection.json](./239816-l-right-reflection.json) |
