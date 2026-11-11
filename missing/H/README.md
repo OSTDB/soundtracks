@@ -3213,6 +3213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haze | 7317 | [7317-haze.json](./7317-haze.json) |
 | Haze Man: The Local Hero | 327952 | [327952-haze-man-the-local-hero.json](./327952-haze-man-the-local-hero.json) |
 | Haze of Lucidity: The Fish | 390087 | [390087-haze-of-lucidity-the-fish.json](./390087-haze-of-lucidity-the-fish.json) |
+| Haze of Lucidity: The Fracture | 364943 | [364943-haze-of-lucidity-the-fracture.json](./364943-haze-of-lucidity-the-fracture.json) |
 | Haze Together | 411047 | [411047-haze-together.json](./411047-haze-together.json) |
 | Haze's Hectic Halloween Happenstance | 330054 | [330054-hazes-hectic-halloween-happenstance.json](./330054-hazes-hectic-halloween-happenstance.json) |
 | Hazel | 227930 | [227930-hazel.json](./227930-hazel.json) |
