@@ -6328,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Fiefdom: Medieval | 390259 | [390259-little-fiefdom-medieval.json](./390259-little-fiefdom-medieval.json) |
 | Little fight | 84477 | [84477-little-fight.json](./84477-little-fight.json) |
 | Little Fighter 2 | 8700 | [8700-little-fighter-2.json](./8700-little-fighter-2.json) |
+| Little Fighter 2 Remastered | 319474 | [319474-little-fighter-2-remastered.json](./319474-little-fighter-2-remastered.json) |
 | Little Fighter Online | 79905 | [79905-little-fighter-online.json](./79905-little-fighter-online.json) |
 | Little Fighters on Stream | 146528 | [146528-little-fighters-on-stream.json](./146528-little-fighters-on-stream.json) |
 | Little Fire Girl | 157825 | [157825-little-fire-girl.json](./157825-little-fire-girl.json) |
@@ -8128,6 +8129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Shop Simulator | 346922 | [346922-loot-shop-simulator.json](./346922-loot-shop-simulator.json) |
 | Loot Slider | 148955 | [148955-loot-slider.json](./148955-loot-slider.json) |
 | Loot Snake | 184211 | [184211-loot-snake.json](./184211-loot-snake.json) |
+| Loot Stack: Relics Hunter | 319401 | [319401-loot-stack-relics-hunter.json](./319401-loot-stack-relics-hunter.json) |
 | Loot Survivor | 392485 | [392485-loot-survivor.json](./392485-loot-survivor.json) |
 | Loot Survivors | 413098 | [413098-loot-survivors.json](./413098-loot-survivors.json) |
 | Loot The Game | 377752 | [377752-loot-the-game.json](./377752-loot-the-game.json) |
