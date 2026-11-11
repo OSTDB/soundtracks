@@ -7955,6 +7955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Heroes | 31898 | [31898-flat-heroes.json](./31898-flat-heroes.json) |
 | Flat Kingdom | 18795 | [18795-flat-kingdom.json](./18795-flat-kingdom.json) |
 | Flat Machine | 304316 | [304316-flat-machine.json](./304316-flat-machine.json) |
+| Flat MMO | 381504 | [381504-flat-mmo.json](./381504-flat-mmo.json) |
 | Flat Pack | 83287 | [83287-flat-pack.json](./83287-flat-pack.json) |
 | Flat Path | 31734 | [31734-flat-path.json](./31734-flat-path.json) |
 | Flat Spot | 258129 | [258129-flat-spot.json](./258129-flat-spot.json) |
@@ -11881,6 +11882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragment | 268282 | [268282-fragment.json](./268282-fragment.json) |
 | Fragment | 307019 | [307019-fragment.json](./307019-fragment.json) |
 | Fragment | 310980 | [310980-fragment.json](./310980-fragment.json) |
+| Fragment | 381506 | [381506-fragment.json](./381506-fragment.json) |
 | Fragment Collapse | 409678 | [409678-fragment-collapse.json](./409678-fragment-collapse.json) |
 | Fragment Hunter | 101725 | [101725-fragment-hunter.json](./101725-fragment-hunter.json) |
 | Fragment Hunters | 213009 | [213009-fragment-hunters.json](./213009-fragment-hunters.json) |
