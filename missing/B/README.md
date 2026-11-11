@@ -12177,6 +12177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blooming Nightshade | 122025 | [122025-blooming-nightshade.json](./122025-blooming-nightshade.json) |
 | Blooming Suspicion | 365308 | [365308-blooming-suspicion.json](./365308-blooming-suspicion.json) |
 | Bloomino | 403357 | [403357-bloomino.json](./403357-bloomino.json) |
+| BloomKeeper | 352998 | [352998-bloomkeeper.json](./352998-bloomkeeper.json) |
 | Bloompunk | 249355 | [249355-bloompunk.json](./249355-bloompunk.json) |
 | Blooms | 202241 | [202241-blooms.json](./202241-blooms.json) |
 | Blooms of April | 372280 | [372280-blooms-of-april.json](./372280-blooms-of-april.json) |
