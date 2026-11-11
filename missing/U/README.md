@@ -2195,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfair Mario | 225008 | [225008-unfair-mario.json](./225008-unfair-mario.json) |
 | Unfair Rampage: Knightfall | 317293 | [317293-unfair-rampage-knightfall.json](./317293-unfair-rampage-knightfall.json) |
 | Unfair Souls: Darkest Grind | 190303 | [190303-unfair-souls-darkest-grind.json](./190303-unfair-souls-darkest-grind.json) |
+| Unfair Undyne | 368953 | [368953-unfair-undyne.json](./368953-unfair-undyne.json) |
 | Unfair War: Survivors | 398394 | [398394-unfair-war-survivors.json](./398394-unfair-war-survivors.json) |
 | Unfamiliar | 118284 | [118284-unfamiliar.json](./118284-unfamiliar.json) |
 | Unfamiliar | 275214 | [275214-unfamiliar.json](./275214-unfamiliar.json) |
