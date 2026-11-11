@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T23:15:56.593Z",
-  "total_soundtracks": 3169,
+  "generated_at": "2026-11-11T23:21:02.660Z",
+  "total_soundtracks": 3172,
   "games": [
     {
       "igdb_id": 7522,
@@ -1015,6 +1015,20 @@
         {
           "album_name": "Age of Wonders 4: Ways of War (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1h4y9lvHJ7GPWBoG8JqUsj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 8863,
+      "game_name": "Age of Wonders III: Golden Realms",
+      "game_url": "https://ostdb.net/games/age-of-wonders-iii-golden-realms",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a7a1e217223c1bece8ac1d39",
+      "albums": [
+        {
+          "album_name": "Age of Wonders III: Golden Realms (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3x0OrEnTgFCigdoBHrMmut",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -5549,6 +5563,20 @@
         {
           "album_name": "Cargo Commander Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5qSmcVmpbidcxBZ6E0E3Je",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 9792,
+      "game_name": "Cargo! The Quest for Gravity",
+      "game_url": "https://ostdb.net/games/cargo-the-quest-for-gravity",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bd7feed6081a2f756191391e",
+      "albums": [
+        {
+          "album_name": "Cargo! The Quest For Gravity Original Game Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5hcWPa0cuEbbvc6xPLwmmz",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -40182,6 +40210,20 @@
           "album_name": "Yandere Simulator Original Soundtrack 2022",
           "spotify_url": "https://open.spotify.com/album/37jeKu6MdvCIUD5iviRW7l",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 304187,
+      "game_name": "Yeeps",
+      "game_url": "https://ostdb.net/games/yeeps",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273935b70a39c5f17548b3a385c",
+      "albums": [
+        {
+          "album_name": "Yeeps Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5KpOG6s96446iI1YZRPHNe",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
