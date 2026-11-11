@@ -9376,6 +9376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboCo | 121739 | [121739-roboco.json](./121739-roboco.json) |
 | Robocock | 240015 | [240015-robocock.json](./240015-robocock.json) |
 | RoboCock | 274454 | [274454-robocock.json](./274454-robocock.json) |
+| Robocod: James Pond II | 368919 | [368919-robocod-james-pond-ii.json](./368919-robocod-james-pond-ii.json) |
 | RoboCop | 112909 | [112909-robocop.json](./112909-robocop.json) |
 | RoboCop | 198282 | [198282-robocop.json](./198282-robocop.json) |
 | RoboCop | 198283 | [198283-robocop.json](./198283-robocop.json) |
@@ -13290,6 +13291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeforge | 190290 | [190290-runeforge.json](./190290-runeforge.json) |
 | Runeforged: Monolith | 389856 | [389856-runeforged-monolith.json](./389856-runeforged-monolith.json) |
 | Runehaven | 275366 | [275366-runehaven.json](./275366-runehaven.json) |
+| RuneHero | 368698 | [368698-runehero.json](./368698-runehero.json) |
 | RuneKeeper | 396664 | [396664-runekeeper.json](./396664-runekeeper.json) |
 | RuneLight | 250858 | [250858-runelight.json](./250858-runelight.json) |
 | Runeline | 388081 | [388081-runeline.json](./388081-runeline.json) |
