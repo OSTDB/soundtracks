@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperthin | 184839 | [184839-paperthin.json](./184839-paperthin.json) |
 | Papertris | 190941 | [190941-papertris.json](./190941-papertris.json) |
 | Paperwork | 374620 | [374620-paperwork.json](./374620-paperwork.json) |
+| Papetura: Craft Edition | 324599 | [324599-papetura-craft-edition.json](./324599-papetura-craft-edition.json) |
 | Papi Chocolate | 87107 | [87107-papi-chocolate.json](./87107-papi-chocolate.json) |
 | Papi Commando: Second Blood | 142053 | [142053-papi-commando-second-blood.json](./142053-papi-commando-second-blood.json) |
 | Papi Trampoline | 58581 | [58581-papi-trampoline.json](./58581-papi-trampoline.json) |
@@ -6676,6 +6677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pie-Man | 287026 | [287026-pie-man.json](./287026-pie-man.json) |
 | Pie.ai | 194066 | [194066-pie-ai.json](./194066-pie-ai.json) |
 | Pie's Ancient Europe | 405744 | [405744-pies-ancient-europe.json](./405744-pies-ancient-europe.json) |
+| Piece by Piece | 325173 | [325173-piece-by-piece.json](./325173-piece-by-piece.json) |
 | Piece by Piece | 332318 | [332318-piece-by-piece.json](./332318-piece-by-piece.json) |
 | Piece by Piece | 332452 | [332452-piece-by-piece.json](./332452-piece-by-piece.json) |
 | Piece by Piece | 412923 | [412923-piece-by-piece.json](./412923-piece-by-piece.json) |
@@ -7622,6 +7624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinballistik Alien Tycoon Bundle | 118858 | [118858-pinballistik-alien-tycoon-bundle.json](./118858-pinballistik-alien-tycoon-bundle.json) |
 | Pinballtoon | 289299 | [289299-pinballtoon.json](./289299-pinballtoon.json) |
 | Pinballvania! | 177148 | [177148-pinballvania.json](./177148-pinballvania.json) |
+| Pinbleton Park | 325179 | [325179-pinbleton-park.json](./325179-pinbleton-park.json) |
 | Pinbo | 39987 | [39987-pinbo.json](./39987-pinbo.json) |
 | Pinbomb | 417419 | [417419-pinbomb.json](./417419-pinbomb.json) |
 | Pinbot | 295908 | [295908-pinbot.json](./295908-pinbot.json) |
@@ -14966,6 +14969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preschool Numbers - Play & Learn | 89700 | [89700-preschool-numbers-play-and-learn.json](./89700-preschool-numbers-play-and-learn.json) |
 | Prescience | 217373 | [217373-prescience.json](./217373-prescience.json) |
 | Prescribe and Pray | 361879 | [361879-prescribe-and-pray.json](./361879-prescribe-and-pray.json) |
+| Prescription: Love | 325165 | [325165-prescription-love.json](./325165-prescription-love.json) |
 | Prescription: Madness | 389100 | [389100-prescription-madness.json](./389100-prescription-madness.json) |
 | Presence | 124269 | [124269-presence.json](./124269-presence.json) |
 | Presence | 170989 | [170989-presence.json](./170989-presence.json) |
