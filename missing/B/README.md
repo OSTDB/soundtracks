@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back 4 More | 338185 | [338185-back-4-more.json](./338185-back-4-more.json) |
 | Back 40 III | 70842 | [70842-back-40-iii.json](./70842-back-40-iii.json) |
 | Back Again | 192507 | [192507-back-again.json](./192507-back-again.json) |
+| Back Alley Arcane Shop | 319472 | [319472-back-alley-arcane-shop.json](./319472-back-alley-arcane-shop.json) |
 | Back Alley Chronicle | 244394 | [244394-back-alley-chronicle.json](./244394-back-alley-chronicle.json) |
 | Back Alley Chronicle: Episode Saeki | 397092 | [397092-back-alley-chronicle-episode-saeki.json](./397092-back-alley-chronicle-episode-saeki.json) |
 | Back Alley Darts | 320783 | [320783-back-alley-darts.json](./320783-back-alley-darts.json) |
@@ -2271,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bangman | 188733 | [188733-bangman.json](./188733-bangman.json) |
 | Bangman | 363653 | [363653-bangman.json](./363653-bangman.json) |
 | Bangungot | 217862 | [217862-bangungot.json](./217862-bangungot.json) |
+| BangXBang | 319469 | [319469-bangxbang.json](./319469-bangxbang.json) |
 | Bangy: Adventures in Egypt | 179135 | [179135-bangy-adventures-in-egypt.json](./179135-bangy-adventures-in-egypt.json) |
 | BanHammer | 286506 | [286506-banhammer.json](./286506-banhammer.json) |
 | BanHown | 240631 | [240631-banhown.json](./240631-banhown.json) |
@@ -5127,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Bowling Dream VR | 30451 | [30451-beach-bowling-dream-vr.json](./30451-beach-bowling-dream-vr.json) |
 | Beach Boys 2: Zodiac Date | 283726 | [283726-beach-boys-2-zodiac-date.json](./283726-beach-boys-2-zodiac-date.json) |
 | Beach Boys 3: Zodiac Signs, Love & Horoscope Dating | 334091 | [334091-beach-boys-3-zodiac-signs-love-and-horoscope-dating.json](./334091-beach-boys-3-zodiac-signs-love-and-horoscope-dating.json) |
+| Beach Boys: Tarot Hot Cards | 319326 | [319326-beach-boys-tarot-hot-cards.json](./319326-beach-boys-tarot-hot-cards.json) |
 | Beach Boys: The Perfect Date | 203708 | [203708-beach-boys-the-perfect-date.json](./203708-beach-boys-the-perfect-date.json) |
 | Beach Boys: You and Me | 214669 | [214669-beach-boys-you-and-me.json](./214669-beach-boys-you-and-me.json) |
 | Beach Buddies Brawl | 333674 | [333674-beach-buddies-brawl.json](./333674-beach-buddies-brawl.json) |
@@ -6116,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and the Beast: Hidden Object Fairy Tale | 137807 | [137807-beauty-and-the-beast-hidden-object-fairy-tale.json](./137807-beauty-and-the-beast-hidden-object-fairy-tale.json) |
 | Beauty and The Beast: Interactive Book | 256590 | [256590-beauty-and-the-beast-interactive-book.json](./256590-beauty-and-the-beast-interactive-book.json) |
 | Beauty and the Beast: Perfect Match | 31554 | [31554-beauty-and-the-beast-perfect-match.json](./31554-beauty-and-the-beast-perfect-match.json) |
+| Beauty and the Beast: The New Adventure | 319327 | [319327-beauty-and-the-beast-the-new-adventure.json](./319327-beauty-and-the-beast-the-new-adventure.json) |
 | Beauty and the Silent Beast | 137801 | [137801-beauty-and-the-silent-beast.json](./137801-beauty-and-the-silent-beast.json) |
 | Beauty and the Thug | 371621 | [371621-beauty-and-the-thug.json](./371621-beauty-and-the-thug.json) |
 | Beauty and Violence: Valkyries | 122299 | [122299-beauty-and-violence-valkyries.json](./122299-beauty-and-violence-valkyries.json) |
@@ -11822,6 +11826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of Heroes | 146880 | [146880-blood-of-heroes.json](./146880-blood-of-heroes.json) |
 | Blood of Jurassic | 48366 | [48366-blood-of-jurassic.json](./48366-blood-of-jurassic.json) |
 | Blood of Magic | 33941 | [33941-blood-of-magic.json](./33941-blood-of-magic.json) |
+| Blood of Mehran | 319481 | [319481-blood-of-mehran.json](./319481-blood-of-mehran.json) |
 | Blood of Old | 28759 | [28759-blood-of-old.json](./28759-blood-of-old.json) |
 | Blood of Old: The Rise To Greatness | 307570 | [307570-blood-of-old-the-rise-to-greatness.json](./307570-blood-of-old-the-rise-to-greatness.json) |
 | Blood of Patriots | 86318 | [86318-blood-of-patriots.json](./86318-blood-of-patriots.json) |
@@ -18776,6 +18781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bundle of Joy | 317526 | [317526-bundle-of-joy.json](./317526-bundle-of-joy.json) |
 | Bundle with 19 Games | 390903 | [390903-bundle-with-19-games.json](./390903-bundle-with-19-games.json) |
 | Bundle: Journey of the Broken Circle + Cosmic Top Secret | 218468 | [218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json](./218468-bundle-journey-of-the-broken-circle-cosmic-top-secret.json) |
+| Bundle: Memory - The Original Matching Game from Ravensburger + Rush Hour Deluxe: The Ultimate Traffic Jam Game! | 319334 | [319334-bundle-memory-the-original-matching-game-from-ravensburger-rush-hour-deluxe-the-ultimate-traffic-jam-game.json](./319334-bundle-memory-the-original-matching-game-from-ravensburger-rush-hour-deluxe-the-ultimate-traffic-jam-game.json) |
 | Bundle: Monster Dynamite + Ultimate Runner | 330432 | [330432-bundle-monster-dynamite-ultimate-runner.json](./330432-bundle-monster-dynamite-ultimate-runner.json) |
 | Bunflower | 205014 | [205014-bunflower.json](./205014-bunflower.json) |
 | Bung Ball | 252808 | [252808-bung-ball.json](./252808-bung-ball.json) |
