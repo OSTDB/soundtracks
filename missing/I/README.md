@@ -4879,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inside The Crystal Mountain | 278891 | [278891-inside-the-crystal-mountain.json](./278891-inside-the-crystal-mountain.json) |
 | Inside the Cubes | 123504 | [123504-inside-the-cubes.json](./123504-inside-the-cubes.json) |
 | Inside the Facility | 57511 | [57511-inside-the-facility.json](./57511-inside-the-facility.json) |
+| Inside the Flesh Engine | 360825 | [360825-inside-the-flesh-engine.json](./360825-inside-the-flesh-engine.json) |
 | Inside the Forest | 181070 | [181070-inside-the-forest.json](./181070-inside-the-forest.json) |
 | Inside the Forest | 324633 | [324633-inside-the-forest.json](./324633-inside-the-forest.json) |
 | Inside the Gear | 10437 | [10437-inside-the-gear.json](./10437-inside-the-gear.json) |
@@ -7100,6 +7101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Hard Being a Meatball | 132808 | [132808-its-hard-being-a-meatball.json](./132808-its-hard-being-a-meatball.json) |
 | It's Harvest Time! | 169595 | [169595-its-harvest-time.json](./169595-its-harvest-time.json) |
 | It's Hasegawa-san!? | 370474 | [370474-its-hasegawa-san.json](./370474-its-hasegawa-san.json) |
+| It's Just A Jump! | 360836 | [360836-its-just-a-jump.json](./360836-its-just-a-jump.json) |
 | It's Just the End of the World, Love | 179860 | [179860-its-just-the-end-of-the-world-love.json](./179860-its-just-the-end-of-the-world-love.json) |
 | It's Just TIC TAC TOE | 101704 | [101704-its-just-tic-tac-toe.json](./101704-its-just-tic-tac-toe.json) |
 | It's Kooky | 186408 | [186408-its-kooky.json](./186408-its-kooky.json) |
