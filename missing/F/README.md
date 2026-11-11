@@ -3039,6 +3039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Holiday: A Game of Texas Hold 'Em | 252246 | [252246-fashion-holiday-a-game-of-texas-hold-em.json](./252246-fashion-holiday-a-game-of-texas-hold-em.json) |
 | Fashion Mall Story | 421374 | [421374-fashion-mall-story.json](./421374-fashion-mall-story.json) |
 | Fashion Model Story | 133713 | [133713-fashion-model-story.json](./133713-fashion-model-story.json) |
+| Fashion Passion Puzzle | 347382 | [347382-fashion-passion-puzzle.json](./347382-fashion-passion-puzzle.json) |
 | Fashion Police Squad | 140801 | [140801-fashion-police-squad.json](./140801-fashion-police-squad.json) |
 | Fashion Princess | 215118 | [215118-fashion-princess.json](./215118-fashion-princess.json) |
 | Fashion Princess: Gold Edition | 320688 | [320688-fashion-princess-gold-edition.json](./320688-fashion-princess-gold-edition.json) |
