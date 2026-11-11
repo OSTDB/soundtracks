@@ -5627,6 +5627,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Temple | 402888 | [402888-celestial-temple.json](./402888-celestial-temple.json) |
 | Celestial Trails | 322975 | [322975-celestial-trails.json](./322975-celestial-trails.json) |
 | Celestial Vale | 25028 | [25028-celestial-vale.json](./25028-celestial-vale.json) |
+| Celestial Visitor | 359087 | [359087-celestial-visitor.json](./359087-celestial-visitor.json) |
+| Celestial Wardens | 359118 | [359118-celestial-wardens.json](./359118-celestial-wardens.json) |
 | Celestial-World 2.0 | 130805 | [130805-celestial-world-2-0.json](./130805-celestial-world-2-0.json) |
 | Celestials Door | 310287 | [310287-celestials-door.json](./310287-celestials-door.json) |
 | Celestials Door | 380070 | [380070-celestials-door.json](./380070-celestials-door.json) |
@@ -12343,6 +12345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Dash | 149414 | [149414-coin-dash.json](./149414-coin-dash.json) |
 | Coin Devotee | 349035 | [349035-coin-devotee.json](./349035-coin-devotee.json) |
 | Coin Digger | 246349 | [246349-coin-digger.json](./246349-coin-digger.json) |
+| Coin Digger 2 | 359088 | [359088-coin-digger-2.json](./359088-coin-digger-2.json) |
 | Coin Dozer | 354047 | [354047-coin-dozer.json](./354047-coin-dozer.json) |
 | Coin Drop | 58196 | [58196-coin-drop.json](./58196-coin-drop.json) |
 | Coin Eruption | 304551 | [304551-coin-eruption.json](./304551-coin-eruption.json) |
@@ -15679,6 +15682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core MUD | 229773 | [229773-core-mud.json](./229773-core-mud.json) |
 | Core of Darkness | 117681 | [117681-core-of-darkness.json](./117681-core-of-darkness.json) |
 | Core of Innocence | 201127 | [201127-core-of-innocence.json](./201127-core-of-innocence.json) |
+| Core of Magic | 359102 | [359102-core-of-magic.json](./359102-core-of-magic.json) |
 | Core of Y | 395087 | [395087-core-of-y.json](./395087-core-of-y.json) |
 | Core Online | 59767 | [59767-core-online.json](./59767-core-online.json) |
 | Core Panic! | 416669 | [416669-core-panic.json](./416669-core-panic.json) |
@@ -22059,6 +22063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpink | 120532 | [120532-cyberpink.json](./120532-cyberpink.json) |
 | Cyberplug | 153343 | [153343-cyberplug.json](./153343-cyberplug.json) |
 | Cyberpoly | 201444 | [201444-cyberpoly.json](./201444-cyberpoly.json) |
+| Cyberpong AI | 359116 | [359116-cyberpong-ai.json](./359116-cyberpong-ai.json) |
 | Cyberpong VR | 58629 | [58629-cyberpong-vr.json](./58629-cyberpong-vr.json) |
 | Cyberpop | 219982 | [219982-cyberpop.json](./219982-cyberpop.json) |
 | Cyberpulse | 150973 | [150973-cyberpulse.json](./150973-cyberpulse.json) |
