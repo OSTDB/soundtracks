@@ -1832,6 +1832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanaka 3D | 247113 | [247113-tanaka-3d.json](./247113-tanaka-3d.json) |
 | Tanat Online | 366226 | [366226-tanat-online.json](./366226-tanat-online.json) |
 | Tanbi Musou: Meine Liebe | 49825 | [49825-tanbi-musou-meine-liebe.json](./49825-tanbi-musou-meine-liebe.json) |
+| TanCrush | 388652 | [388652-tancrush.json](./388652-tancrush.json) |
 | Tandem Together | 418260 | [418260-tandem-together.json](./418260-tandem-together.json) |
 | Tandem: A Tale of Shadows | 151134 | [151134-tandem-a-tale-of-shadows.json](./151134-tandem-a-tale-of-shadows.json) |
 | Tandis | 144176 | [144176-tandis.json](./144176-tandis.json) |
@@ -14432,6 +14433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mechanical World of Dr. Gearbox | 128138 | [128138-the-mechanical-world-of-dr-gearbox.json](./128138-the-mechanical-world-of-dr-gearbox.json) |
 | The Mechsmith Run=Dim | 227976 | [227976-the-mechsmith-run-dim.json](./227976-the-mechsmith-run-dim.json) |
 | The Medic | 150306 | [150306-the-medic.json](./150306-the-medic.json) |
+| The Medical Examination Diary: Teamwork in Paradise. | 388636 | [388636-the-medical-examination-diary-teamwork-in-paradise.json](./388636-the-medical-examination-diary-teamwork-in-paradise.json) |
 | The Medical Examination Diary: The Exciting Days of Me and My Senpai | 199680 | [199680-the-medical-examination-diary-the-exciting-days-of-me-and-my-senpai.json](./199680-the-medical-examination-diary-the-exciting-days-of-me-and-my-senpai.json) |
 | The Medieval Doctor | 416825 | [416825-the-medieval-doctor.json](./416825-the-medieval-doctor.json) |
 | The Medieval Journey | 414755 | [414755-the-medieval-journey.json](./414755-the-medieval-journey.json) |
