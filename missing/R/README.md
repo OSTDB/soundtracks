@@ -4207,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ocean | 50918 | [50918-red-ocean.json](./50918-red-ocean.json) |
 | Red October | 316119 | [316119-red-october.json](./316119-red-october.json) |
 | Red Oddities | 239155 | [239155-red-oddities.json](./239155-red-oddities.json) |
+| Red Ops: Side Story | 393683 | [393683-red-ops-side-story.json](./393683-red-ops-side-story.json) |
 | Red Ops: The First Infection | 253860 | [253860-red-ops-the-first-infection.json](./253860-red-ops-the-first-infection.json) |
 | Red or Blue | 333620 | [333620-red-or-blue.json](./333620-red-or-blue.json) |
 | Red or Green | 425425 | [425425-red-or-green.json](./425425-red-or-green.json) |
@@ -6016,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: Seamless HD Project | 322044 | [322044-resident-evil-seamless-hd-project.json](./322044-resident-evil-seamless-hd-project.json) |
 | Resident Evil: Super Bundle | 99513 | [99513-resident-evil-super-bundle.json](./99513-resident-evil-super-bundle.json) |
 | Resident Evil: Survival Unit | 352832 | [352832-resident-evil-survival-unit.json](./352832-resident-evil-survival-unit.json) |
+| Resident Evil: Survive | 393681 | [393681-resident-evil-survive.json](./393681-resident-evil-survive.json) |
 | Resident Evil: Survivor Redux | 313129 | [313129-resident-evil-survivor-redux.json](./313129-resident-evil-survivor-redux.json) |
 | Resident Evil: The Arklay Chronicle | 194785 | [194785-resident-evil-the-arklay-chronicle.json](./194785-resident-evil-the-arklay-chronicle.json) |
 | Resident Evil: The Darkside Chronicles | 497 | [497-resident-evil-the-darkside-chronicles.json](./497-resident-evil-the-darkside-chronicles.json) |
