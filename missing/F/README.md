@@ -7561,6 +7561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fives | 397478 | [397478-fives.json](./397478-fives.json) |
 | FiveSeven | 222727 | [222727-fiveseven.json](./222727-fiveseven.json) |
 | Fivies | 220343 | [220343-fivies.json](./220343-fivies.json) |
+| Fix and Clerk | 390837 | [390837-fix-and-clerk.json](./390837-fix-and-clerk.json) |
 | Fix and Foxi: Episode 1 - Lupo | 208380 | [208380-fix-and-foxi-episode-1-lupo.json](./208380-fix-and-foxi-episode-1-lupo.json) |
 | Fix EV3 Rover | 104002 | [104002-fix-ev3-rover.json](./104002-fix-ev3-rover.json) |
 | Fix Fixer | 253504 | [253504-fix-fixer.json](./253504-fix-fixer.json) |
@@ -8574,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floats | 397834 | [397834-floats.json](./397834-floats.json) |
 | Floaty Brain In Space | 60893 | [60893-floaty-brain-in-space.json](./60893-floaty-brain-in-space.json) |
 | Floaty Fighters | 123041 | [123041-floaty-fighters.json](./123041-floaty-fighters.json) |
+| Floaty Rescue | 390842 | [390842-floaty-rescue.json](./390842-floaty-rescue.json) |
 | Flob and the Shattered Dimension | 315323 | [315323-flob-and-the-shattered-dimension.json](./315323-flob-and-the-shattered-dimension.json) |
 | Flobe | 33718 | [33718-flobe.json](./33718-flobe.json) |
 | Flocc | 194190 | [194190-flocc.json](./194190-flocc.json) |
@@ -9331,6 +9333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foad | 238809 | [238809-foad.json](./238809-foad.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
 | Foam Dart Frenzy | 129297 | [129297-foam-dart-frenzy.json](./129297-foam-dart-frenzy.json) |
+| Foam Frenzy | 390843 | [390843-foam-frenzy.json](./390843-foam-frenzy.json) |
 | FoamFix | 233698 | [233698-foamfix.json](./233698-foamfix.json) |
 | Foamstars: Season 1 | 284717 | [284717-foamstars-season-1.json](./284717-foamstars-season-1.json) |
 | Fobia | 104177 | [104177-fobia.json](./104177-fobia.json) |
@@ -9617,6 +9620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fool's Pub | 325264 | [325264-fools-pub.json](./325264-fools-pub.json) |
 | Fool's Trigger | 422205 | [422205-fools-trigger.json](./422205-fools-trigger.json) |
 | Foolball | 232603 | [232603-foolball.json](./232603-foolball.json) |
+| Foolhearted | 390309 | [390309-foolhearted.json](./390309-foolhearted.json) |
 | FoolHut Pack: 3 games in 1 | 295123 | [295123-foolhut-pack-3-games-in-1.json](./295123-foolhut-pack-3-games-in-1.json) |
 | Fooling Dead | 392709 | [392709-fooling-dead.json](./392709-fooling-dead.json) |
 | Foolish Earthlings! | 362789 | [362789-foolish-earthlings.json](./362789-foolish-earthlings.json) |
@@ -9673,6 +9677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football 2: Breakthrough Gaming Arcade | 237722 | [237722-football-2-breakthrough-gaming-arcade.json](./237722-football-2-breakthrough-gaming-arcade.json) |
 | Football 2019 | 220064 | [220064-football-2019.json](./220064-football-2019.json) |
 | Football 2024 Journey | 305408 | [305408-football-2024-journey.json](./305408-football-2024-journey.json) |
+| Football 26 League Superstar | 390844 | [390844-football-26-league-superstar.json](./390844-football-26-league-superstar.json) |
 | Football Academy | 124015 | [124015-football-academy.json](./124015-football-academy.json) |
 | Football Academy Clicker | 152488 | [152488-football-academy-clicker.json](./152488-football-academy-clicker.json) |
 | Football Academy Manager | 372745 | [372745-football-academy-manager.json](./372745-football-academy-manager.json) |
@@ -13213,6 +13218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From the Age of Dinosaurs to the Edo Period: Tokio no Meiro - By Gentaro Kagawa | 396908 | [396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json](./396908-from-the-age-of-dinosaurs-to-the-edo-period-tokio-no-meiro-by-gentaro-kagawa.json) |
 | From the Ashes | 224243 | [224243-from-the-ashes.json](./224243-from-the-ashes.json) |
 | From the Bunker | 235921 | [235921-from-the-bunker.json](./235921-from-the-bunker.json) |
+| From The Bunker | 390846 | [390846-from-the-bunker.json](./390846-from-the-bunker.json) |
 | From the Dark | 373228 | [373228-from-the-dark.json](./373228-from-the-dark.json) |
 | From the Darkness | 149716 | [149716-from-the-darkness.json](./149716-from-the-darkness.json) |
 | From the Deep | 224240 | [224240-from-the-deep.json](./224240-from-the-deep.json) |
@@ -13695,6 +13701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruits - Connect the Dots and Add Colors | 87908 | [87908-fruits-connect-the-dots-and-add-colors.json](./87908-fruits-connect-the-dots-and-add-colors.json) |
 | Fruits & Vegetables | 309455 | [309455-fruits-and-vegetables.json](./309455-fruits-and-vegetables.json) |
 | Fruits Blast - Match Cube | 108953 | [108953-fruits-blast-match-cube.json](./108953-fruits-blast-match-cube.json) |
+| Fruits Drop | 390848 | [390848-fruits-drop.json](./390848-fruits-drop.json) |
 | Fruits Inc. Deluxe Pack | 35750 | [35750-fruits-inc-deluxe-pack.json](./35750-fruits-inc-deluxe-pack.json) |
 | Fruits Jigsaw Puzzle | 88167 | [88167-fruits-jigsaw-puzzle.json](./88167-fruits-jigsaw-puzzle.json) |
 | Fruits Mura no Doubutsu Tachi 2: Osora no Fruits Land | 122543 | [122543-fruits-mura-no-doubutsu-tachi-2-osora-no-fruits-land.json](./122543-fruits-mura-no-doubutsu-tachi-2-osora-no-fruits-land.json) |
