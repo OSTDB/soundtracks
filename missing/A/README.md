@@ -354,6 +354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Drawing's Journey | 84686 | [84686-a-drawings-journey.json](./84686-a-drawings-journey.json) |
 | A Dream 2 | 272121 | [272121-a-dream-2.json](./272121-a-dream-2.json) |
 | A Dream About a Room With Four Doors | 255855 | [255855-a-dream-about-a-room-with-four-doors.json](./255855-a-dream-about-a-room-with-four-doors.json) |
+| A Dream About Parking Lots | 340114 | [340114-a-dream-about-parking-lots.json](./340114-a-dream-about-parking-lots.json) |
 | A Dream For Aaron | 72406 | [72406-a-dream-for-aaron.json](./72406-a-dream-for-aaron.json) |
 | A Dream of Burning Sand | 113337 | [113337-a-dream-of-burning-sand.json](./113337-a-dream-of-burning-sand.json) |
 | A Dream That Never Wakes Up | 236391 | [236391-a-dream-that-never-wakes-up.json](./236391-a-dream-that-never-wakes-up.json) |
