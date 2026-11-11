@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jasper's Island | 274978 | [274978-jaspers-island.json](./274978-jaspers-island.json) |
 | Jasper's Journeys | 50439 | [50439-jaspers-journeys.json](./50439-jaspers-journeys.json) |
 | JassPro | 415637 | [415637-jasspro.json](./415637-jasspro.json) |
+| Jataí: The Bee | 321710 | [321710-jatai-the-bee.json](./321710-jatai-the-bee.json) |
 | Jaunt | 154382 | [154382-jaunt.json](./154382-jaunt.json) |
 | Java Jim in Square Shaped Trouble | 37069 | [37069-java-jim-in-square-shaped-trouble.json](./37069-java-jim-in-square-shaped-trouble.json) |
 | Java Journey | 303589 | [303589-java-journey.json](./303589-java-journey.json) |
@@ -1472,7 +1473,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jett Rocket | 50722 | [50722-jett-rocket.json](./50722-jett-rocket.json) |
 | Jett Rocket II: The Wrath of Taikai | 63769 | [63769-jett-rocket-ii-the-wrath-of-taikai.json](./63769-jett-rocket-ii-the-wrath-of-taikai.json) |
 | Jett Tailfin Racers | 60759 | [60759-jett-tailfin-racers.json](./60759-jett-tailfin-racers.json) |
-| Jett: The Far Shore | 134591 | [134591-jett-the-far-shore.json](./134591-jett-the-far-shore.json) |
 | Jett: The Far Shore - Given Time | 231858 | [231858-jett-the-far-shore-given-time.json](./231858-jett-the-far-shore-given-time.json) |
 | Jett: The Far Shore + Given Time | 217201 | [217201-jett-the-far-shore-given-time.json](./217201-jett-the-far-shore-given-time.json) |
 | Jettatura | 207502 | [207502-jettatura.json](./207502-jettatura.json) |
