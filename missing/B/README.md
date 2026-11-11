@@ -7003,6 +7003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bermuda | 36048 | [36048-bermuda.json](./36048-bermuda.json) |
 | Bermuda | 380011 | [380011-bermuda.json](./380011-bermuda.json) |
 | Bermuda Adventures | 216414 | [216414-bermuda-adventures.json](./216414-bermuda-adventures.json) |
+| Bermuda Escape | 386636 | [386636-bermuda-escape.json](./386636-bermuda-escape.json) |
 | Bermuda Farm | 214304 | [214304-bermuda-farm.json](./214304-bermuda-farm.json) |
 | Bermuda Project | 11953 | [11953-bermuda-project.json](./11953-bermuda-project.json) |
 | Bermuda Rectangle | 415239 | [415239-bermuda-rectangle.json](./415239-bermuda-rectangle.json) |
@@ -15236,6 +15237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boyfriend's Rescue | 225639 | [225639-boyfriends-rescue.json](./225639-boyfriends-rescue.json) |
 | Boyhood's End | 250286 | [250286-boyhoods-end.json](./250286-boyhoods-end.json) |
 | BoyKisser Clicker | 310600 | [310600-boykisser-clicker.json](./310600-boykisser-clicker.json) |
+| Boykisser Collection | 386671 | [386671-boykisser-collection.json](./386671-boykisser-collection.json) |
 | Boykisser Mayhem | 268332 | [268332-boykisser-mayhem.json](./268332-boykisser-mayhem.json) |
 | Boys Be | 166447 | [166447-boys-be.json](./166447-boys-be.json) |
 | Boys Be 2nd Season | 166448 | [166448-boys-be-2nd-season.json](./166448-boys-be-2nd-season.json) |
