@@ -6115,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Septourian | 232126 | [232126-septourian.json](./232126-septourian.json) |
 | Septurian Might | 405284 | [405284-septurian-might.json](./405284-septurian-might.json) |
 | Sepulchre | 86177 | [86177-sepulchre.json](./86177-sepulchre.json) |
+| Sepulchron | 318880 | [318880-sepulchron.json](./318880-sepulchron.json) |
 | Sepulcri | 36918 | [36918-sepulcri.json](./36918-sepulcri.json) |
 | Sepulcrum | 344889 | [344889-sepulcrum.json](./344889-sepulcrum.json) |
 | Seq | 175080 | [175080-seq.json](./175080-seq.json) |
@@ -22348,6 +22349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
 | Spectral Panic | 137204 | [137204-spectral-panic.json](./137204-spectral-panic.json) |
+| Spectral Prison | 318877 | [318877-spectral-prison.json](./318877-spectral-prison.json) |
 | Spectral Protocol | 350363 | [350363-spectral-protocol.json](./350363-spectral-protocol.json) |
 | Spectral Realm | 340191 | [340191-spectral-realm.json](./340191-spectral-realm.json) |
 | Spectral Report | 377957 | [377957-spectral-report.json](./377957-spectral-report.json) |
