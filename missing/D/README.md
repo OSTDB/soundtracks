@@ -1684,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Facets | 149114 | [149114-dark-facets.json](./149114-dark-facets.json) |
 | Dark Fairy Fantasy | 122432 | [122432-dark-fairy-fantasy.json](./122432-dark-fairy-fantasy.json) |
 | Dark Fairy Tale | 348332 | [348332-dark-fairy-tale.json](./348332-dark-fairy-tale.json) |
+| Dark Fairy Tale: Dreamland Survivors | 344626 | [344626-dark-fairy-tale-dreamland-survivors.json](./344626-dark-fairy-tale-dreamland-survivors.json) |
 | Dark Fairy Tales: The Boogeyman | 138405 | [138405-dark-fairy-tales-the-boogeyman.json](./138405-dark-fairy-tales-the-boogeyman.json) |
 | Dark Fall | 9817 | [9817-dark-fall.json](./9817-dark-fall.json) |
 | Dark Fall 2: Lights Out | 9818 | [9818-dark-fall-2-lights-out.json](./9818-dark-fall-2-lights-out.json) |
@@ -6630,6 +6631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune: Chapter 6 | 408171 | [408171-deltarune-chapter-6.json](./408171-deltarune-chapter-6.json) |
 | Deltarune: Chapter 7 | 409874 | [409874-deltarune-chapter-7.json](./409874-deltarune-chapter-7.json) |
 | Deltarune: Chapter Rewritten - Scampton The Great | 243746 | [243746-deltarune-chapter-rewritten-scampton-the-great.json](./243746-deltarune-chapter-rewritten-scampton-the-great.json) |
+| Deltarune: Friend Inside Me | 345183 | [345183-deltarune-friend-inside-me.json](./345183-deltarune-friend-inside-me.json) |
 | Deltarune: Frozen Heart | 308059 | [308059-deltarune-frozen-heart.json](./308059-deltarune-frozen-heart.json) |
 | Deltarune: Hummer Jevil | 352215 | [352215-deltarune-hummer-jevil.json](./352215-deltarune-hummer-jevil.json) |
 | Deltarune: Hypothesis | 329606 | [329606-deltarune-hypothesis.json](./329606-deltarune-hypothesis.json) |
@@ -14437,6 +14439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon no Study Boy: Kanji Yomikaki Master | 65540 | [65540-doraemon-no-study-boy-kanji-yomikaki-master.json](./65540-doraemon-no-study-boy-kanji-yomikaki-master.json) |
 | Doraemon no Study Boy: Kuku Game | 65537 | [65537-doraemon-no-study-boy-kuku-game.json](./65537-doraemon-no-study-boy-kuku-game.json) |
 | Doraemon Pocket Drill Moji Quiz | 310524 | [310524-doraemon-pocket-drill-moji-quiz.json](./310524-doraemon-pocket-drill-moji-quiz.json) |
+| Doraemon Repair Shop | 344635 | [344635-doraemon-repair-shop.json](./344635-doraemon-repair-shop.json) |
 | Doraemon Step-Up PC | 314372 | [314372-doraemon-step-up-pc.json](./314372-doraemon-step-up-pc.json) |
 | Doraemon Story of Season: Friends of the Great Kingdom - Winter Tales | 227156 | [227156-doraemon-story-of-season-friends-of-the-great-kingdom-winter-tales.json](./227156-doraemon-story-of-season-friends-of-the-great-kingdom-winter-tales.json) |
 | Doraemon Story of Seasons | 115286 | [115286-doraemon-story-of-seasons.json](./115286-doraemon-story-of-seasons.json) |
