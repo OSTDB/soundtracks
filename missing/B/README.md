@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -3168,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball in Hell | 177842 | [177842-baseball-in-hell.json](./177842-baseball-in-hell.json) |
 | Baseball Kings 2015 | 240849 | [240849-baseball-kings-2015.json](./240849-baseball-kings-2015.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
+| Baseball Legacy Manager 25 | 337341 | [337341-baseball-legacy-manager-25.json](./337341-baseball-legacy-manager-25.json) |
 | Baseball Live 2005 | 269390 | [269390-baseball-live-2005.json](./269390-baseball-live-2005.json) |
 | Baseball Mania | 56963 | [56963-baseball-mania.json](./56963-baseball-mania.json) |
 | Baseball Megastar | 104363 | [104363-baseball-megastar.json](./104363-baseball-megastar.json) |
@@ -10855,6 +10857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind World | 183695 | [183695-blind-world.json](./183695-blind-world.json) |
 | Blind zum Bus | 383973 | [383973-blind-zum-bus.json](./383973-blind-zum-bus.json) |
 | Blind_ | 168532 | [168532-blind.json](./168532-blind.json) |
+| Blind_Site | 337324 | [337324-blind-site.json](./337324-blind-site.json) |
 | Blind: Summer Sunset | 324425 | [324425-blind-summer-sunset.json](./324425-blind-summer-sunset.json) |
 | BlindBlade II | 133374 | [133374-blindblade-ii.json](./133374-blindblade-ii.json) |
 | BlinDead | 289298 | [289298-blindead.json](./289298-blindead.json) |
@@ -11902,6 +11905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodBlast VR | 134648 | [134648-bloodblast-vr.json](./134648-bloodblast-vr.json) |
 | BloodBoarderz | 307867 | [307867-bloodboarderz.json](./307867-bloodboarderz.json) |
 | Bloodborne 2 | 28734 | [28734-bloodborne-2.json](./28734-bloodborne-2.json) |
+| Bloodborne First Person Mod | 337349 | [337349-bloodborne-first-person-mod.json](./337349-bloodborne-first-person-mod.json) |
 | Bloodborne for Windows | 423964 | [423964-bloodborne-for-windows.json](./423964-bloodborne-for-windows.json) |
 | Bloodborne Kart | 233928 | [233928-bloodborne-kart.json](./233928-bloodborne-kart.json) |
 | Bloodborne PSX | 179685 | [179685-bloodborne-psx.json](./179685-bloodborne-psx.json) |
@@ -14106,6 +14110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang Woman | 190299 | [190299-boomerang-woman.json](./190299-boomerang-woman.json) |
 | Boomerang X | 126851 | [126851-boomerang-x.json](./126851-boomerang-x.json) |
 | Boomeraxe | 258522 | [258522-boomeraxe.json](./258522-boomeraxe.json) |
+| BoomerPunk | 337337 | [337337-boomerpunk.json](./337337-boomerpunk.json) |
 | Boomies | 307256 | [307256-boomies.json](./307256-boomies.json) |
 | Booming Boy | 41732 | [41732-booming-boy.json](./41732-booming-boy.json) |
 | Boomliner | 376866 | [376866-boomliner.json](./376866-boomliner.json) |
@@ -15896,6 +15901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BraveStarr | 13434 | [13434-bravestarr.json](./13434-bravestarr.json) |
 | BraveWorld: Helix Jumper | 103103 | [103103-braveworld-helix-jumper.json](./103103-braveworld-helix-jumper.json) |
 | BraveWorld: Sky Rolling Ball | 100777 | [100777-braveworld-sky-rolling-ball.json](./100777-braveworld-sky-rolling-ball.json) |
+| Braving Chronicles | 337344 | [337344-braving-chronicles.json](./337344-braving-chronicles.json) |
 | Bravion | 400650 | [400650-bravion.json](./400650-bravion.json) |
 | Bravium | 81083 | [81083-bravium.json](./81083-bravium.json) |
 | Bravium: Hero Defense | 38974 | [38974-bravium-hero-defense.json](./38974-bravium-hero-defense.json) |
@@ -18799,6 +18805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Bye-Bye | 242117 | [242117-bunny-bye-bye.json](./242117-bunny-bye-bye.json) |
 | Bunny Catch Those Eggs | 387730 | [387730-bunny-catch-those-eggs.json](./387730-bunny-catch-those-eggs.json) |
 | Bunny Clicker | 320340 | [320340-bunny-clicker.json](./320340-bunny-clicker.json) |
+| Bunny Clicker | 337347 | [337347-bunny-clicker.json](./337347-bunny-clicker.json) |
 | Bunny Count | 150918 | [150918-bunny-count.json](./150918-bunny-count.json) |
 | Bunny Cubed | 343498 | [343498-bunny-cubed.json](./343498-bunny-cubed.json) |
 | Bunny Dodge | 118933 | [118933-bunny-dodge.json](./118933-bunny-dodge.json) |
