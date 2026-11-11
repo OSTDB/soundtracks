@@ -1409,6 +1409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Znkl: 177 | 83582 | [83582-znkl-177.json](./83582-znkl-177.json) |
 | ZOA: The Zone of Avoidance | 339228 | [339228-zoa-the-zone-of-avoidance.json](./339228-zoa-the-zone-of-avoidance.json) |
 | Zoar | 39307 | [39307-zoar.json](./39307-zoar.json) |
+| Zoboomafoo: Animal Kids | 380941 | [380941-zoboomafoo-animal-kids.json](./380941-zoboomafoo-animal-kids.json) |
 | Zoboomafoo: Leapin' Lemurs | 45308 | [45308-zoboomafoo-leapin-lemurs.json](./45308-zoboomafoo-leapin-lemurs.json) |
 | Zoboomafoo: Playtime in Zobooland | 49978 | [49978-zoboomafoo-playtime-in-zobooland.json](./49978-zoboomafoo-playtime-in-zobooland.json) |
 | Zobre Zombie | 275011 | [275011-zobre-zombie.json](./275011-zobre-zombie.json) |
