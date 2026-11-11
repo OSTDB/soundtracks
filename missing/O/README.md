@@ -2080,6 +2080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI: The Bus Simulator | 47037 | [47037-omsi-the-bus-simulator.json](./47037-omsi-the-bus-simulator.json) |
 | Omurice Next Time | 275958 | [275958-omurice-next-time.json](./275958-omurice-next-time.json) |
 | Omusubi | 304818 | [304818-omusubi.json](./304818-omusubi.json) |
+| Omusubikororin Kurenai | 359120 | [359120-omusubikororin-kurenai.json](./359120-omusubikororin-kurenai.json) |
 | Omut | 317184 | [317184-omut.json](./317184-omut.json) |
 | Omvorm | 109494 | [109494-omvorm.json](./109494-omvorm.json) |
 | Omvros | 404187 | [404187-omvros.json](./404187-omvros.json) |
@@ -4062,6 +4063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital 1 | 96089 | [96089-orbital-1.json](./96089-orbital-1.json) |
 | Orbital Abyss: Cipher Division | 384854 | [384854-orbital-abyss-cipher-division.json](./384854-orbital-abyss-cipher-division.json) |
 | Orbital Approach | 207566 | [207566-orbital-approach.json](./207566-orbital-approach.json) |
+| Orbital Arena | 359106 | [359106-orbital-arena.json](./359106-orbital-arena.json) |
 | Orbital Bombardment | 237078 | [237078-orbital-bombardment.json](./237078-orbital-bombardment.json) |
 | Orbital Bullet | 122831 | [122831-orbital-bullet.json](./122831-orbital-bullet.json) |
 | Orbital Cargo Division | 224726 | [224726-orbital-cargo-division.json](./224726-orbital-cargo-division.json) |
