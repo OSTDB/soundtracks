@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Perfect Day | 384775 | [384775-a-perfect-day.json](./384775-a-perfect-day.json) |
 | A Perfect Day | 97271 | [97271-a-perfect-day.json](./97271-a-perfect-day.json) |
 | A Perfect Day for White Dolphin | 150480 | [150480-a-perfect-day-for-white-dolphin.json](./150480-a-perfect-day-for-white-dolphin.json) |
+| A Person Stands on an Empty Stage | 327522 | [327522-a-person-stands-on-an-empty-stage.json](./327522-a-person-stands-on-an-empty-stage.json) |
 | A Personal Nightmare | 41868 | [41868-a-personal-nightmare.json](./41868-a-personal-nightmare.json) |
 | A Pet Shop After Dark | 138081 | [138081-a-pet-shop-after-dark.json](./138081-a-pet-shop-after-dark.json) |
 | A Philosophical Discussion of Worms | 382736 | [382736-a-philosophical-discussion-of-worms.json](./382736-a-philosophical-discussion-of-worms.json) |
