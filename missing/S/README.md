@@ -7081,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Hearts: From the New World | 4172 | [4172-shadow-hearts-from-the-new-world.json](./4172-shadow-hearts-from-the-new-world.json) |
 | Shadow Heroes | 212072 | [212072-shadow-heroes.json](./212072-shadow-heroes.json) |
 | Shadow Heroes: Vengeance In Flames | 34542 | [34542-shadow-heroes-vengeance-in-flames.json](./34542-shadow-heroes-vengeance-in-flames.json) |
+| Shadow Hills Manor | 379817 | [379817-shadow-hills-manor.json](./379817-shadow-hills-manor.json) |
 | Shadow Hockey | 198598 | [198598-shadow-hockey.json](./198598-shadow-hockey.json) |
 | Shadow Hold | 236223 | [236223-shadow-hold.json](./236223-shadow-hold.json) |
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
@@ -11272,6 +11273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silk Worm | 12224 | [12224-silk-worm.json](./12224-silk-worm.json) |
 | Silk: A Leo Parker Adventure | 319901 | [319901-silk-a-leo-parker-adventure.json](./319901-silk-a-leo-parker-adventure.json) |
 | Silkbulb Test | 272723 | [272723-silkbulb-test.json](./272723-silkbulb-test.json) |
+| Silkdown | 379790 | [379790-silkdown.json](./379790-silkdown.json) |
 | Silke, Pixelines Lillesøster: Der Bor En Bager | 349491 | [349491-silke-pixelines-lilles-ster-der-bor-en-bager.json](./349491-silke-pixelines-lilles-ster-der-bor-en-bager.json) |
 | Silke, Pixelines Lillesøster: Hønsefødder Og Gulerødder | 349490 | [349490-silke-pixelines-lilles-ster-h-nsef-dder-og-guler-dder.json](./349490-silke-pixelines-lilles-ster-h-nsef-dder-og-guler-dder.json) |
 | Silke, Pixelines Lillesøster: Kan Du Alfabetet? | 349493 | [349493-silke-pixelines-lilles-ster-kan-du-alfabetet.json](./349493-silke-pixelines-lilles-ster-kan-du-alfabetet.json) |
@@ -19266,6 +19268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sons of Eye Championship | 132006 | [132006-sons-of-eye-championship.json](./132006-sons-of-eye-championship.json) |
 | Sons of Liberty | 70013 | [70013-sons-of-liberty.json](./70013-sons-of-liberty.json) |
 | Sons of Odin | 346570 | [346570-sons-of-odin.json](./346570-sons-of-odin.json) |
+| Sons of Poseidon | 379800 | [379800-sons-of-poseidon.json](./379800-sons-of-poseidon.json) |
 | Sons of Ra | 120889 | [120889-sons-of-ra.json](./120889-sons-of-ra.json) |
 | Sons of Saturn | 256546 | [256546-sons-of-saturn.json](./256546-sons-of-saturn.json) |
 | Sons of Sol | 56446 | [56446-sons-of-sol.json](./56446-sons-of-sol.json) |
@@ -22659,6 +22662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellgear | 32691 | [32691-spellgear.json](./32691-spellgear.json) |
 | Spellgrimage | 199226 | [199226-spellgrimage.json](./199226-spellgrimage.json) |
 | Spellgroove | 220600 | [220600-spellgroove.json](./220600-spellgroove.json) |
+| Spellgun Sprint | 379784 | [379784-spellgun-sprint.json](./379784-spellgun-sprint.json) |
 | Spellhack!! | 295097 | [295097-spellhack.json](./295097-spellhack.json) |
 | Spellhearts | 192547 | [192547-spellhearts.json](./192547-spellhearts.json) |
 | Spellhook | 402548 | [402548-spellhook.json](./402548-spellhook.json) |
@@ -24237,6 +24241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot the Odd Pictogram! | 332343 | [332343-spot-the-odd-pictogram.json](./332343-spot-the-odd-pictogram.json) |
 | Spot the Odd! | 300831 | [300831-spot-the-odd.json](./300831-spot-the-odd.json) |
 | Spot the Oddity | 111516 | [111516-spot-the-oddity.json](./111516-spot-the-oddity.json) |
+| Spot The Pup | 379296 | [379296-spot-the-pup.json](./379296-spot-the-pup.json) |
 | Spot the Spy Guy | 390910 | [390910-spot-the-spy-guy.json](./390910-spot-the-spy-guy.json) |
 | Spot the Wrong Character | 362361 | [362361-spot-the-wrong-character.json](./362361-spot-the-wrong-character.json) |
 | Spot Them All | 409930 | [409930-spot-them-all.json](./409930-spot-them-all.json) |
@@ -26745,6 +26750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlink: Battle for Atlas - Digital Edition | 246893 | [246893-starlink-battle-for-atlas-digital-edition.json](./246893-starlink-battle-for-atlas-digital-edition.json) |
 | Starlit Adventures | 99463 | [99463-starlit-adventures.json](./99463-starlit-adventures.json) |
 | Starlit Adventures Golden Stars | 147627 | [147627-starlit-adventures-golden-stars.json](./147627-starlit-adventures-golden-stars.json) |
+| Starlit Bottle | 379816 | [379816-starlit-bottle.json](./379816-starlit-bottle.json) |
 | Starlit Kart Racing | 215153 | [215153-starlit-kart-racing.json](./215153-starlit-kart-racing.json) |
 | Starlit On Wheels: Super Kart | 239614 | [239614-starlit-on-wheels-super-kart.json](./239614-starlit-on-wheels-super-kart.json) |
 | Starlit Stories | 304825 | [304825-starlit-stories.json](./304825-starlit-stories.json) |
@@ -28365,6 +28371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StickDodgeVR | 51573 | [51573-stickdodgevr.json](./51573-stickdodgevr.json) |
 | Sticked Man Fighting Deluxe- Gravity Combat | 97096 | [97096-sticked-man-fighting-deluxe-gravity-combat.json](./97096-sticked-man-fighting-deluxe-gravity-combat.json) |
 | Sticker Business | 356738 | [356738-sticker-business.json](./356738-sticker-business.json) |
+| Sticker Catcher: Star Invasion | 379804 | [379804-sticker-catcher-star-invasion.json](./379804-sticker-catcher-star-invasion.json) |
 | Sticker Clicker | 306722 | [306722-sticker-clicker.json](./306722-sticker-clicker.json) |
 | Sticker Craft | 30660 | [30660-sticker-craft.json](./30660-sticker-craft.json) |
 | Sticker Delight | 311854 | [311854-sticker-delight.json](./311854-sticker-delight.json) |
@@ -28681,6 +28688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stock Exchange Game | 363695 | [363695-stock-exchange-game.json](./363695-stock-exchange-game.json) |
 | Stock Exchange Kabutore Next | 76136 | [76136-stock-exchange-kabutore-next.json](./76136-stock-exchange-kabutore-next.json) |
 | Stock Fighter | 353645 | [353645-stock-fighter.json](./353645-stock-fighter.json) |
+| Stock Market | 379616 | [379616-stock-market.json](./379616-stock-market.json) |
 | Stock Market Tycoon: Challenge | 333703 | [333703-stock-market-tycoon-challenge.json](./333703-stock-market-tycoon-challenge.json) |
 | Stock Market: The Game | 78732 | [78732-stock-market-the-game.json](./78732-stock-market-the-game.json) |
 | Stock Stack | 312205 | [312205-stock-stack.json](./312205-stock-stack.json) |
