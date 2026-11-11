@@ -2933,11 +2933,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Gnom | 368451 | [368451-achievement-hunter-gnom.json](./368451-achievement-hunter-gnom.json) |
 | Achievement Hunter: Kiborg | 334760 | [334760-achievement-hunter-kiborg.json](./334760-achievement-hunter-kiborg.json) |
 | Achievement Hunter: Knight | 334781 | [334781-achievement-hunter-knight.json](./334781-achievement-hunter-knight.json) |
+| Achievement Hunter: Offensive | 368412 | [368412-achievement-hunter-offensive.json](./368412-achievement-hunter-offensive.json) |
 | Achievement Hunter: Overdose | 368155 | [368155-achievement-hunter-overdose.json](./368155-achievement-hunter-overdose.json) |
 | Achievement Hunter: Princess | 367847 | [367847-achievement-hunter-princess.json](./367847-achievement-hunter-princess.json) |
 | Achievement Hunter: Samurai | 334772 | [334772-achievement-hunter-samurai.json](./334772-achievement-hunter-samurai.json) |
 | Achievement Hunter: Scars | 368356 | [368356-achievement-hunter-scars.json](./368356-achievement-hunter-scars.json) |
 | Achievement Hunter: Thief | 334762 | [334762-achievement-hunter-thief.json](./334762-achievement-hunter-thief.json) |
+| Achievement Hunter: Urban 2 | 368943 | [368943-achievement-hunter-urban-2.json](./368943-achievement-hunter-urban-2.json) |
 | Achievement Hunter: Witch | 334780 | [334780-achievement-hunter-witch.json](./334780-achievement-hunter-witch.json) |
 | Achievement Hunter: Wizard | 368633 | [368633-achievement-hunter-wizard.json](./368633-achievement-hunter-wizard.json) |
 | Achievement Hunter: Zombie 2 | 369471 | [369471-achievement-hunter-zombie-2.json](./369471-achievement-hunter-zombie-2.json) |
@@ -6686,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alchemical Inc. | 190141 | [190141-alchemical-inc.json](./190141-alchemical-inc.json) |
 | Alchemical Keyboard | 321810 | [321810-alchemical-keyboard.json](./321810-alchemical-keyboard.json) |
 | AlcheMice | 366621 | [366621-alchemice.json](./366621-alchemice.json) |
+| Alchemickal | 368935 | [368935-alchemickal.json](./368935-alchemickal.json) |
 | Alchemicraft | 181666 | [181666-alchemicraft.json](./181666-alchemicraft.json) |
 | Alchemist | 202678 | [202678-alchemist.json](./202678-alchemist.json) |
 | Alchemist | 304130 | [304130-alchemist.json](./304130-alchemist.json) |
@@ -12139,6 +12142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoi Umi no Tristia: Hatsumei Koubou Funtou ki | 407995 | [407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json](./407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json) |
 | Aoi Umi no Tristia: Nanoca Flanka Hatsumei Koubou ki | 68255 | [68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json](./68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json) |
 | Aoi's Alternate World Escape | 82699 | [82699-aois-alternate-world-escape.json](./82699-aois-alternate-world-escape.json) |
+| Aoihana | 368421 | [368421-aoihana.json](./368421-aoihana.json) |
 | Aoitenryuu: The Arcade | 68258 | [68258-aoitenryuu-the-arcade.json](./68258-aoitenryuu-the-arcade.json) |
 | Aojuji Hospital: Tokyo Eidolic Anatomy Division | 255596 | [255596-aojuji-hospital-tokyo-eidolic-anatomy-division.json](./255596-aojuji-hospital-tokyo-eidolic-anatomy-division.json) |
 | Aokaki | 304947 | [304947-aokaki.json](./304947-aokaki.json) |
