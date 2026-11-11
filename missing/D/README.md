@@ -7225,6 +7225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denpa Shounenteki Game | 108784 | [108784-denpa-shounenteki-game.json](./108784-denpa-shounenteki-game.json) |
 | Denpa Virus | 418820 | [418820-denpa-virus.json](./418820-denpa-virus.json) |
 | Denpa-tou | 281944 | [281944-denpa-tou.json](./281944-denpa-tou.json) |
+| Denrei Survivors | 364109 | [364109-denrei-survivors.json](./364109-denrei-survivors.json) |
 | Dense forest | 282009 | [282009-dense-forest.json](./282009-dense-forest.json) |
 | Densetsu no Kusuriya-san | 255429 | [255429-densetsu-no-kusuriya-san.json](./255429-densetsu-no-kusuriya-san.json) |
 | Densetsu no Ogre Battle Gaiden: Zenobia no Ouji | 43975 | [43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json](./43975-densetsu-no-ogre-battle-gaiden-zenobia-no-ouji.json) |
@@ -7447,6 +7448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Pfad des Pinguins | 262242 | [262242-der-pfad-des-pinguins.json](./262242-der-pfad-des-pinguins.json) |
 | Der Planer | 86048 | [86048-der-planer.json](./86048-der-planer.json) |
 | Der Planer 3 | 92964 | [92964-der-planer-3.json](./92964-der-planer-3.json) |
+| Der Räuber Hotzenplotz | 364340 | [364340-der-rauber-hotzenplotz.json](./364340-der-rauber-hotzenplotz.json) |
 | Der Schatz im Silbersee | 72045 | [72045-der-schatz-im-silbersee.json](./72045-der-schatz-im-silbersee.json) |
 | Der Spiel Tipp | 91607 | [91607-der-spiel-tipp.json](./91607-der-spiel-tipp.json) |
 | Der unsägliche und vermeidbare Tod des Matthias Claudius | 393522 | [393522-der-unsagliche-und-vermeidbare-tod-des-matthias-claudius.json](./393522-der-unsagliche-und-vermeidbare-tod-des-matthias-claudius.json) |
@@ -18560,6 +18562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dub Together | 413849 | [413849-dub-together.json](./413849-dub-together.json) |
 | Dubai | 257296 | [257296-dubai.json](./257296-dubai.json) |
 | Dubai Builder | 272247 | [272247-dubai-builder.json](./272247-dubai-builder.json) |
+| Dubai Chocolate Simulator | 364120 | [364120-dubai-chocolate-simulator.json](./364120-dubai-chocolate-simulator.json) |
 | Dubai Drift 2 | 120236 | [120236-dubai-drift-2.json](./120236-dubai-drift-2.json) |
 | Dubai Simulator | 252004 | [252004-dubai-simulator.json](./252004-dubai-simulator.json) |
 | Dubbed | 416687 | [416687-dubbed.json](./416687-dubbed.json) |
