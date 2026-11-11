@@ -3066,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamono Musume to no Seikatsu: Lamia no Baai | 77601 | [77601-mamono-musume-to-no-seikatsu-lamia-no-baai.json](./77601-mamono-musume-to-no-seikatsu-lamia-no-baai.json) |
 | Mamono Musume-tachi to no Rakuen: Kumo to Tori to Hitotsume to | 77605 | [77605-mamono-musume-tachi-to-no-rakuen-kumo-to-tori-to-hitotsume-to.json](./77605-mamono-musume-tachi-to-no-rakuen-kumo-to-tori-to-hitotsume-to.json) |
 | Mamono Musume-tachi to no Rakuen: Slime & Scylla | 77604 | [77604-mamono-musume-tachi-to-no-rakuen-slime-and-scylla.json](./77604-mamono-musume-tachi-to-no-rakuen-slime-and-scylla.json) |
+| Mamono Slayer | 355245 | [355245-mamono-slayer.json](./355245-mamono-slayer.json) |
 | Mamono Sweeper | 57806 | [57806-mamono-sweeper.json](./57806-mamono-sweeper.json) |
 | Mamoru of the Anti Sex Crime Department | 82633 | [82633-mamoru-of-the-anti-sex-crime-department.json](./82633-mamoru-of-the-anti-sex-crime-department.json) |
 | Mamorukun Curse! | 7065 | [7065-mamorukun-curse.json](./7065-mamorukun-curse.json) |
