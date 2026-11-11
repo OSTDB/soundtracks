@@ -14881,6 +14881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slotracers VR | 144007 | [144007-slotracers-vr.json](./144007-slotracers-vr.json) |
 | Slots | 287558 | [287558-slots.json](./287558-slots.json) |
 | Slots - Pharaoh's Riches | 85386 | [85386-slots-pharaohs-riches.json](./85386-slots-pharaohs-riches.json) |
+| Slots & Daggers | 356904 | [356904-slots-and-daggers.json](./356904-slots-and-daggers.json) |
 | Slots & Diapers | 392541 | [392541-slots-and-diapers.json](./392541-slots-and-diapers.json) |
 | Slots & Skulls | 413379 | [413379-slots-and-skulls.json](./413379-slots-and-skulls.json) |
 | Slots & Slaughter | 411731 | [411731-slots-and-slaughter.json](./411731-slots-and-slaughter.json) |
@@ -21198,6 +21199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilot 2 | 25723 | [25723-space-pilot-2.json](./25723-space-pilot-2.json) |
 | Space Pilot Alliance | 182834 | [182834-space-pilot-alliance.json](./182834-space-pilot-alliance.json) |
 | Space Pilot II | 63426 | [63426-space-pilot-ii.json](./63426-space-pilot-ii.json) |
+| Space Pinball | 356942 | [356942-space-pinball.json](./356942-space-pinball.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
 | Space Pioneer | 95073 | [95073-space-pioneer.json](./95073-space-pioneer.json) |
 | Space Pirate Amai | 107513 | [107513-space-pirate-amai.json](./107513-space-pirate-amai.json) |
@@ -21306,6 +21308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ripper | 29505 | [29505-space-ripper.json](./29505-space-ripper.json) |
 | Space Ripper Plastiline | 108362 | [108362-space-ripper-plastiline.json](./108362-space-ripper-plastiline.json) |
 | Space Road | 125713 | [125713-space-road.json](./125713-space-road.json) |
+| Space Road: Elite | 356927 | [356927-space-road-elite.json](./356927-space-road-elite.json) |
 | Space Roaming | 149832 | [149832-space-roaming.json](./149832-space-roaming.json) |
 | Space Robinson | 111807 | [111807-space-robinson.json](./111807-space-robinson.json) |
 | Space Robot | 46895 | [46895-space-robot.json](./46895-space-robot.json) |
@@ -24374,6 +24377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spread: Transmission | 241387 | [241387-spread-transmission.json](./241387-spread-transmission.json) |
 | SpreadCheat | 322905 | [322905-spreadcheat.json](./322905-spreadcheat.json) |
 | Spreadsheets & Dungeons | 400388 | [400388-spreadsheets-and-dungeons.json](./400388-spreadsheets-and-dungeons.json) |
+| Spreadsheets and Nothing More | 356951 | [356951-spreadsheets-and-nothing-more.json](./356951-spreadsheets-and-nothing-more.json) |
 | Spreadstorm | 76542 | [76542-spreadstorm.json](./76542-spreadstorm.json) |
 | Spready | 302009 | [302009-spready.json](./302009-spready.json) |
 | Sprig | 425990 | [425990-sprig.json](./425990-sprig.json) |
@@ -38273,6 +38277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: 80s Mixtape Side B Music Pack | 382176 | [382176-synth-riders-80s-mixtape-side-b-music-pack.json](./382176-synth-riders-80s-mixtape-side-b-music-pack.json) |
 | Synth Riders: 90s Rock Music Pack | 353648 | [353648-synth-riders-90s-rock-music-pack.json](./353648-synth-riders-90s-rock-music-pack.json) |
 | Synth Riders: A-ha - "Take On Me" | 298699 | [298699-synth-riders-a-ha-take-on-me.json](./298699-synth-riders-a-ha-take-on-me.json) |
+| Synth Riders: Adrenaline | 356906 | [356906-synth-riders-adrenaline.json](./356906-synth-riders-adrenaline.json) |
 | Synth Riders: Artemas - "I Like the Way You Kiss Me" | 354554 | [354554-synth-riders-artemas-i-like-the-way-you-kiss-me.json](./354554-synth-riders-artemas-i-like-the-way-you-kiss-me.json) |
 | Synth Riders: Au5 - "Eden" | 356362 | [356362-synth-riders-au5-eden.json](./356362-synth-riders-au5-eden.json) |
 | Synth Riders: Bad Religion - "21st Century (Digital Boy)" | 356085 | [356085-synth-riders-bad-religion-21st-century-digital-boy.json](./356085-synth-riders-bad-religion-21st-century-digital-boy.json) |
@@ -38285,6 +38290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Caravan Palace - "Rock It For Me" | 356356 | [356356-synth-riders-caravan-palace-rock-it-for-me.json](./356356-synth-riders-caravan-palace-rock-it-for-me.json) |
 | Synth Riders: Caravan Palace - "Tattoos" | 356183 | [356183-synth-riders-caravan-palace-tattoos.json](./356183-synth-riders-caravan-palace-tattoos.json) |
 | Synth Riders: Caravan Palace - "Wonderland" | 353652 | [353652-synth-riders-caravan-palace-wonderland.json](./353652-synth-riders-caravan-palace-wonderland.json) |
+| Synth Riders: Caravan Palace Music Pack & Experience | 356907 | [356907-synth-riders-caravan-palace-music-pack-and-experience.json](./356907-synth-riders-caravan-palace-music-pack-and-experience.json) |
 | Synth Riders: Challenges+ Update | 341049 | [341049-synth-riders-challenges-update.json](./341049-synth-riders-challenges-update.json) |
 | Synth Riders: Charli xcx - "Apple" | 352399 | [352399-synth-riders-charli-xcx-apple.json](./352399-synth-riders-charli-xcx-apple.json) |
 | Synth Riders: Crypt of The NecroDancer Music Pack | 401744 | [401744-synth-riders-crypt-of-the-necrodancer-music-pack.json](./401744-synth-riders-crypt-of-the-necrodancer-music-pack.json) |
@@ -38308,6 +38314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Gorillaz Music Pack | 353181 | [353181-synth-riders-gorillaz-music-pack.json](./353181-synth-riders-gorillaz-music-pack.json) |
 | Synth Riders: Gorillaz Music Pack | 382179 | [382179-synth-riders-gorillaz-music-pack.json](./382179-synth-riders-gorillaz-music-pack.json) |
 | Synth Riders: Groovin' Essentials | 356180 | [356180-synth-riders-groovin-essentials.json](./356180-synth-riders-groovin-essentials.json) |
+| Synth Riders: Gunship - "Tech Noir (Carpenter Brut Remix)" | 356331 | [356331-synth-riders-gunship-tech-noir-carpenter-brut-remix.json](./356331-synth-riders-gunship-tech-noir-carpenter-brut-remix.json) |
 | Synth Riders: Infected Mushroom - "Becoming Insane" | 364548 | [364548-synth-riders-infected-mushroom-becoming-insane.json](./364548-synth-riders-infected-mushroom-becoming-insane.json) |
 | Synth Riders: Infected Mushroom - "Black Velvet" (feat. Ninet Tayeb) | 364550 | [364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json](./364550-synth-riders-infected-mushroom-black-velvet-feat-ninet-tayeb.json) |
 | Synth Riders: Infected Mushroom - "I Wish" | 364549 | [364549-synth-riders-infected-mushroom-i-wish.json](./364549-synth-riders-infected-mushroom-i-wish.json) |
@@ -38333,10 +38340,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Lady Gaga Music Pack | 382178 | [382178-synth-riders-lady-gaga-music-pack.json](./382178-synth-riders-lady-gaga-music-pack.json) |
 | Synth Riders: Lady Gaga Music Pack | 382272 | [382272-synth-riders-lady-gaga-music-pack.json](./382272-synth-riders-lady-gaga-music-pack.json) |
 | Synth Riders: League of Legends - "Legends Never Die" | 353649 | [353649-synth-riders-league-of-legends-legends-never-die.json](./353649-synth-riders-league-of-legends-legends-never-die.json) |
+| Synth Riders: League of Legends Music Pack | 356908 | [356908-synth-riders-league-of-legends-music-pack.json](./356908-synth-riders-league-of-legends-music-pack.json) |
 | Synth Riders: Lindsey Stirling - "First Light" | 356173 | [356173-synth-riders-lindsey-stirling-first-light.json](./356173-synth-riders-lindsey-stirling-first-light.json) |
 | Synth Riders: Lindsey Stirling - "Mirage" | 356082 | [356082-synth-riders-lindsey-stirling-mirage.json](./356082-synth-riders-lindsey-stirling-mirage.json) |
 | Synth Riders: Lindsey Stirling - "Shadows" | 356117 | [356117-synth-riders-lindsey-stirling-shadows.json](./356117-synth-riders-lindsey-stirling-shadows.json) |
 | Synth Riders: Lindsey Stirling - "Underground" | 353651 | [353651-synth-riders-lindsey-stirling-underground.json](./353651-synth-riders-lindsey-stirling-underground.json) |
+| Synth Riders: Lindsey Stirling Music Pack & Experience | 356911 | [356911-synth-riders-lindsey-stirling-music-pack-and-experience.json](./356911-synth-riders-lindsey-stirling-music-pack-and-experience.json) |
 | Synth Riders: Linkin Park - "Battle Symphony" | 420357 | [420357-synth-riders-linkin-park-battle-symphony.json](./420357-synth-riders-linkin-park-battle-symphony.json) |
 | Synth Riders: Linkin Park - "Breaking the Habit" | 420359 | [420359-synth-riders-linkin-park-breaking-the-habit.json](./420359-synth-riders-linkin-park-breaking-the-habit.json) |
 | Synth Riders: Linkin Park - "Castle of Glass" | 420353 | [420353-synth-riders-linkin-park-castle-of-glass.json](./420353-synth-riders-linkin-park-castle-of-glass.json) |
@@ -38362,9 +38371,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Phil Collins - "Sussudio" | 298702 | [298702-synth-riders-phil-collins-sussudio.json](./298702-synth-riders-phil-collins-sussudio.json) |
 | Synth Riders: Queen - "Don't Stop Me Now" | 352400 | [352400-synth-riders-queen-dont-stop-me-now.json](./352400-synth-riders-queen-dont-stop-me-now.json) |
 | Synth Riders: Radiohead - "Creep" | 353166 | [353166-synth-riders-radiohead-creep.json](./353166-synth-riders-radiohead-creep.json) |
+| Synth Riders: Rancid - "Time Bomb" | 356330 | [356330-synth-riders-rancid-time-bomb.json](./356330-synth-riders-rancid-time-bomb.json) |
 | Synth Riders: Red Hot Chili Peppers - "Give It Away" | 353165 | [353165-synth-riders-red-hot-chili-peppers-give-it-away.json](./353165-synth-riders-red-hot-chili-peppers-give-it-away.json) |
 | Synth Riders: Remastered Edition | 235073 | [235073-synth-riders-remastered-edition.json](./235073-synth-riders-remastered-edition.json) |
 | Synth Riders: Rick Astley - "Never Gonna Give You Up" | 352396 | [352396-synth-riders-rick-astley-never-gonna-give-you-up.json](./352396-synth-riders-rick-astley-never-gonna-give-you-up.json) |
+| Synth Riders: Riot - "Take That" | 356328 | [356328-synth-riders-riot-take-that.json](./356328-synth-riders-riot-take-that.json) |
 | Synth Riders: Sia - "Gimme Love" | 353164 | [353164-synth-riders-sia-gimme-love.json](./353164-synth-riders-sia-gimme-love.json) |
 | Synth Riders: Silk Sonic - "Skate" | 356116 | [356116-synth-riders-silk-sonic-skate.json](./356116-synth-riders-silk-sonic-skate.json) |
 | Synth Riders: Simple Minds - "Don't You (Forget About Me)" | 353168 | [353168-synth-riders-simple-minds-dont-you-forget-about-me.json](./353168-synth-riders-simple-minds-dont-you-forget-about-me.json) |
@@ -38376,6 +38387,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synth Riders: Swingrowers - "Butterfly" | 356084 | [356084-synth-riders-swingrowers-butterfly.json](./356084-synth-riders-swingrowers-butterfly.json) |
 | Synth Riders: Swingrowers - "No Strings Attached" | 356358 | [356358-synth-riders-swingrowers-no-strings-attached.json](./356358-synth-riders-swingrowers-no-strings-attached.json) |
 | Synth Riders: Swingrowers - "Rose" | 288235 | [288235-synth-riders-swingrowers-rose.json](./288235-synth-riders-swingrowers-rose.json) |
+| Synth Riders: Synthwave Essentials 2 | 356912 | [356912-synth-riders-synthwave-essentials-2.json](./356912-synth-riders-synthwave-essentials-2.json) |
+| Synth Riders: Synthwave Essentials 3 | 356913 | [356913-synth-riders-synthwave-essentials-3.json](./356913-synth-riders-synthwave-essentials-3.json) |
 | Synth Riders: Synthwave Essentials 3 Music Pack | 382181 | [382181-synth-riders-synthwave-essentials-3-music-pack.json](./382181-synth-riders-synthwave-essentials-3-music-pack.json) |
 | Synth Riders: Tamela D'Amico, Wolfgang Lohr - "Boring 20s" | 288237 | [288237-synth-riders-tamela-damico-wolfgang-lohr-boring-20s.json](./288237-synth-riders-tamela-damico-wolfgang-lohr-boring-20s.json) |
 | Synth Riders: The Cure - "Just Like Heaven" | 353390 | [353390-synth-riders-the-cure-just-like-heaven.json](./353390-synth-riders-the-cure-just-like-heaven.json) |
