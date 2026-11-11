@@ -3765,6 +3765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat Incremental | 366965 | [366965-heat-incremental.json](./366965-heat-incremental.json) |
 | Heat Index | 338278 | [338278-heat-index.json](./338278-heat-index.json) |
 | Heat Me Up! | 378385 | [378385-heat-me-up.json](./378385-heat-me-up.json) |
+| Heat of Eleven '98 | 381508 | [381508-heat-of-eleven-98.json](./381508-heat-of-eleven-98.json) |
 | Heat Online | 86349 | [86349-heat-online.json](./86349-heat-online.json) |
 | Heat or Die | 291496 | [291496-heat-or-die.json](./291496-heat-or-die.json) |
 | Heat Project 2 | 140225 | [140225-heat-project-2.json](./140225-heat-project-2.json) |
@@ -10645,6 +10646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Academy | 390747 | [390747-horny-academy.json](./390747-horny-academy.json) |
 | Horny Adventurer Karen | 382666 | [382666-horny-adventurer-karen.json](./382666-horny-adventurer-karen.json) |
 | Horny Alice: Gothic Run | 148341 | [148341-horny-alice-gothic-run.json](./148341-horny-alice-gothic-run.json) |
+| Horny Blocks | 382083 | [382083-horny-blocks.json](./382083-horny-blocks.json) |
 | Horny Clinic | 226188 | [226188-horny-clinic.json](./226188-horny-clinic.json) |
 | Horny Dungeon | 272285 | [272285-horny-dungeon.json](./272285-horny-dungeon.json) |
 | Horny Elf | 411237 | [411237-horny-elf.json](./411237-horny-elf.json) |
@@ -13198,6 +13200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Meteor | 151971 | [151971-hyper-meteor.json](./151971-hyper-meteor.json) |
 | Hyper Metroid Super | 349938 | [349938-hyper-metroid-super.json](./349938-hyper-metroid-super.json) |
 | Hyper Mirror Run | 275088 | [275088-hyper-mirror-run.json](./275088-hyper-mirror-run.json) |
+| Hyper Monks 3 | 381497 | [381497-hyper-monks-3.json](./381497-hyper-monks-3.json) |
 | Hyper Mum Ft Adult Gaming | 230122 | [230122-hyper-mum-ft-adult-gaming.json](./230122-hyper-mum-ft-adult-gaming.json) |
 | Hyper Olympic | 278484 | [278484-hyper-olympic.json](./278484-hyper-olympic.json) |
 | Hyper Olympic | 278573 | [278573-hyper-olympic.json](./278573-hyper-olympic.json) |
