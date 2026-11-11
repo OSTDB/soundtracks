@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umami Island | 377201 | [377201-umami-island.json](./377201-umami-island.json) |
 | Umamusume Delish Derby | 360111 | [360111-umamusume-delish-derby.json](./360111-umamusume-delish-derby.json) |
 | Umamusume: Pretty Derby | 97494 | [97494-umamusume-pretty-derby.json](./97494-umamusume-pretty-derby.json) |
+| Umamusume: Pretty Derby - Party Dash Team Bundle | 362544 | [362544-umamusume-pretty-derby-party-dash-team-bundle.json](./362544-umamusume-pretty-derby-party-dash-team-bundle.json) |
 | Umamusume: Pretty Derby - Party Dash: DLC Vol. 1 - Team Iris | 316227 | [316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json](./316227-umamusume-pretty-derby-party-dash-dlc-vol-1-team-iris.json) |
 | Umamusume: Pretty Derby - Party Dash: DLC Vol. 2 - Team Geranium | 361492 | [361492-umamusume-pretty-derby-party-dash-dlc-vol-2-team-geranium.json](./361492-umamusume-pretty-derby-party-dash-dlc-vol-2-team-geranium.json) |
 | Umamusume: Pretty Derby - Party Dash: DLC Vol. 3 - Team Primrose | 361493 | [361493-umamusume-pretty-derby-party-dash-dlc-vol-3-team-primrose.json](./361493-umamusume-pretty-derby-party-dash-dlc-vol-3-team-primrose.json) |
@@ -1428,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unchained | 130262 | [130262-unchained.json](./130262-unchained.json) |
 | Unchained | 178075 | [178075-unchained.json](./178075-unchained.json) |
 | Unchained | 335229 | [335229-unchained.json](./335229-unchained.json) |
+| Unchained | 363114 | [363114-unchained.json](./363114-unchained.json) |
 | Unchained Blades | 6906 | [6906-unchained-blades.json](./6906-unchained-blades.json) |
 | Unchained Blades Exxiv | 65041 | [65041-unchained-blades-exxiv.json](./65041-unchained-blades-exxiv.json) |
 | Unchained: Tale of Enra | 343197 | [343197-unchained-tale-of-enra.json](./343197-unchained-tale-of-enra.json) |
@@ -2549,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | University | 252205 | [252205-university.json](./252205-university.json) |
 | University between the streets | 180369 | [180369-university-between-the-streets.json](./180369-university-between-the-streets.json) |
 | University Days: Season 1 | 303060 | [303060-university-days-season-1.json](./303060-university-days-season-1.json) |
+| University Is Hell | 363106 | [363106-university-is-hell.json](./363106-university-is-hell.json) |
 | University Life | 75309 | [75309-university-life.json](./75309-university-life.json) |
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
 | University Love Affair | 235883 | [235883-university-love-affair.json](./235883-university-love-affair.json) |
