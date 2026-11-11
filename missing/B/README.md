@@ -1018,7 +1018,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -14362,6 +14361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born of Bread: Baker Edition | 278720 | [278720-born-of-bread-baker-edition.json](./278720-born-of-bread-baker-edition.json) |
 | Born Punk | 128459 | [128459-born-punk.json](./128459-born-punk.json) |
 | Born to Be Big | 228825 | [228825-born-to-be-big.json](./228825-born-to-be-big.json) |
+| Born to Breed | 352459 | [352459-born-to-breed.json](./352459-born-to-breed.json) |
 | Born to Fight | 269598 | [269598-born-to-fight.json](./269598-born-to-fight.json) |
 | Born to Fire | 92575 | [92575-born-to-fire.json](./92575-born-to-fire.json) |
 | Born to Kill | 167460 | [167460-born-to-kill.json](./167460-born-to-kill.json) |
