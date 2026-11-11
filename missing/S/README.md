@@ -1340,7 +1340,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samsara | 312790 | [312790-samsara.json](./312790-samsara.json) |
 | Samsara | 76641 | [76641-samsara.json](./76641-samsara.json) |
 | Samsara Agent | 267779 | [267779-samsara-agent.json](./267779-samsara-agent.json) |
-| Samsara Room | 300426 | [300426-samsara-room.json](./300426-samsara-room.json) |
 | Samsara Room | 75123 | [75123-samsara-room.json](./75123-samsara-room.json) |
 | Samsara: Deluxe Edition | 114050 | [114050-samsara-deluxe-edition.json](./114050-samsara-deluxe-edition.json) |
 | Samsara: Lost Soul | 28541 | [28541-samsara-lost-soul.json](./28541-samsara-lost-soul.json) |
@@ -18605,6 +18604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Dash | 19506 | [19506-sonic-dash.json](./19506-sonic-dash.json) |
 | Sonic Dash | 330299 | [330299-sonic-dash.json](./330299-sonic-dash.json) |
 | Sonic Dash 2: Sonic Boom | 38695 | [38695-sonic-dash-2-sonic-boom.json](./38695-sonic-dash-2-sonic-boom.json) |
+| Sonic Dash Club | 317488 | [317488-sonic-dash-club.json](./317488-sonic-dash-club.json) |
 | Sonic Dash Quiz | 261292 | [261292-sonic-dash-quiz.json](./261292-sonic-dash-quiz.json) |
 | Sonic Dash Remastered 3 | 321079 | [321079-sonic-dash-remastered-3.json](./321079-sonic-dash-remastered-3.json) |
 | Sonic Dash S | 232771 | [232771-sonic-dash-s.json](./232771-sonic-dash-s.json) |
@@ -18723,6 +18723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic GML | 332208 | [332208-sonic-gml.json](./332208-sonic-gml.json) |
 | Sonic Golf | 261242 | [261242-sonic-golf.json](./261242-sonic-golf.json) |
 | Sonic Golf 3D | 261280 | [261280-sonic-golf-3d.json](./261280-sonic-golf-3d.json) |
+| Sonic Golf C-Mode Cup | 317491 | [317491-sonic-golf-c-mode-cup.json](./317491-sonic-golf-c-mode-cup.json) |
 | Sonic Golf DX | 261294 | [261294-sonic-golf-dx.json](./261294-sonic-golf-dx.json) |
 | Sonic Grind | 316482 | [316482-sonic-grind.json](./316482-sonic-grind.json) |
 | Sonic Groove | 331532 | [331532-sonic-groove.json](./331532-sonic-groove.json) |
@@ -18762,6 +18763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Island: Lost Paradise | 317512 | [317512-sonic-island-lost-paradise.json](./317512-sonic-island-lost-paradise.json) |
 | Sonic Islands | 368089 | [368089-sonic-islands.json](./368089-sonic-islands.json) |
 | Sonic J | 232775 | [232775-sonic-j.json](./232775-sonic-j.json) |
+| Sonic J | 317568 | [317568-sonic-j.json](./317568-sonic-j.json) |
 | Sonic Jam | 133930 | [133930-sonic-jam.json](./133930-sonic-jam.json) |
 | Sonic Jam | 72129 | [72129-sonic-jam.json](./72129-sonic-jam.json) |
 | Sonic Jam 6 | 163154 | [163154-sonic-jam-6.json](./163154-sonic-jam-6.json) |
@@ -19114,6 +19116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 2 | 202256 | [202256-sonic-the-hedgehog-2.json](./202256-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 239069 | [239069-sonic-the-hedgehog-2.json](./239069-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 273286 | [273286-sonic-the-hedgehog-2.json](./273286-sonic-the-hedgehog-2.json) |
+| Sonic the Hedgehog 2 | 317489 | [317489-sonic-the-hedgehog-2.json](./317489-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 HD | 148231 | [148231-sonic-the-hedgehog-2-hd.json](./148231-sonic-the-hedgehog-2-hd.json) |
 | Sonic the Hedgehog 2: Absolute | 198256 | [198256-sonic-the-hedgehog-2-absolute.json](./198256-sonic-the-hedgehog-2-absolute.json) |
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
@@ -19152,6 +19155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Golf | 197369 | [197369-sonic-the-hedgehog-golf.json](./197369-sonic-the-hedgehog-golf.json) |
 | Sonic the Hedgehog in Giant Jungle | 361647 | [361647-sonic-the-hedgehog-in-giant-jungle.json](./361647-sonic-the-hedgehog-in-giant-jungle.json) |
 | Sonic the Hedgehog Interactive Watch | 238200 | [238200-sonic-the-hedgehog-interactive-watch.json](./238200-sonic-the-hedgehog-interactive-watch.json) |
+| Sonic The Hedgehog Journey | 317501 | [317501-sonic-the-hedgehog-journey.json](./317501-sonic-the-hedgehog-journey.json) |
 | Sonic the Hedgehog Legacy Bundle | 316736 | [316736-sonic-the-hedgehog-legacy-bundle.json](./316736-sonic-the-hedgehog-legacy-bundle.json) |
 | Sonic the Hedgehog Legacy Bundle | 339849 | [339849-sonic-the-hedgehog-legacy-bundle.json](./339849-sonic-the-hedgehog-legacy-bundle.json) |
 | Sonic the Hedgehog Level Creator | 197598 | [197598-sonic-the-hedgehog-level-creator.json](./197598-sonic-the-hedgehog-level-creator.json) |
@@ -23645,6 +23649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of the North: Enhanced Edition - Signature Edition | 141442 | [141442-spirit-of-the-north-enhanced-edition-signature-edition.json](./141442-spirit-of-the-north-enhanced-edition-signature-edition.json) |
 | Spirit of the Obelisk | 325306 | [325306-spirit-of-the-obelisk.json](./325306-spirit-of-the-obelisk.json) |
 | Spirit of the Sky | 288039 | [288039-spirit-of-the-sky.json](./288039-spirit-of-the-sky.json) |
+| Spirit of the Stones | 317498 | [317498-spirit-of-the-stones.json](./317498-spirit-of-the-stones.json) |
 | Spirit of Wandering - The Legend | 87071 | [87071-spirit-of-wandering-the-legend.json](./87071-spirit-of-wandering-the-legend.json) |
 | Spirit of War | 10838 | [10838-spirit-of-war.json](./10838-spirit-of-war.json) |
 | Spirit Overflow | 173249 | [173249-spirit-overflow.json](./173249-spirit-overflow.json) |
@@ -27485,6 +27490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starve.io | 79268 | [79268-starve-io.json](./79268-starve-io.json) |
 | Starvedge | 349454 | [349454-starvedge.json](./349454-starvedge.json) |
 | Starveil | 258582 | [258582-starveil.json](./258582-starveil.json) |
+| Starveil Protocol A.A.A. | 317495 | [317495-starveil-protocol-a-a-a.json](./317495-starveil-protocol-a-a-a.json) |
 | Starveling Way | 166897 | [166897-starveling-way.json](./166897-starveling-way.json) |
 | Starverse: Requiem Aeternam Eden | 342543 | [342543-starverse-requiem-aeternam-eden.json](./342543-starverse-requiem-aeternam-eden.json) |
 | Starvester | 382810 | [382810-starvester.json](./382810-starvester.json) |
@@ -35726,6 +35732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ultra Mustard Man | 351737 | [351737-super-ultra-mustard-man.json](./351737-super-ultra-mustard-man.json) |
 | Super Ultra Star Shooter | 85417 | [85417-super-ultra-star-shooter.json](./85417-super-ultra-star-shooter.json) |
 | Super Ultra Usagi Rush!! | 335975 | [335975-super-ultra-usagi-rush.json](./335975-super-ultra-usagi-rush.json) |
+| Super Universe Brawl | 317503 | [317503-super-universe-brawl.json](./317503-super-universe-brawl.json) |
 | Super Uno | 37946 | [37946-super-uno.json](./37946-super-uno.json) |
 | Super Urban Wizard | 111414 | [111414-super-urban-wizard.json](./111414-super-urban-wizard.json) |
 | Super Uwol | 299173 | [299173-super-uwol.json](./299173-super-uwol.json) |
