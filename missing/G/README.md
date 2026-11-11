@@ -4950,6 +4950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Up 2 | 250183 | [250183-give-up-2.json](./250183-give-up-2.json) |
 | Give Up Robot 2 | 281591 | [281591-give-up-robot-2.json](./281591-give-up-robot-2.json) |
 | Give up the Dupe | 127538 | [127538-give-up-the-dupe.json](./127538-give-up-the-dupe.json) |
+| Give Up the Ghost | 387835 | [387835-give-up-the-ghost.json](./387835-give-up-the-ghost.json) |
 | Give Up the Ghost: A Puzzle Checklist | 206471 | [206471-give-up-the-ghost-a-puzzle-checklist.json](./206471-give-up-the-ghost-a-puzzle-checklist.json) |
 | Give Up, Robot | 147049 | [147049-give-up-robot.json](./147049-give-up-robot.json) |
 | Giving Yourself Away | 340826 | [340826-giving-yourself-away.json](./340826-giving-yourself-away.json) |
@@ -6099,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobliiins5 | 249288 | [249288-gobliiins5.json](./249288-gobliiins5.json) |
 | Gobliins 2: The Prince Buffoon | 1931 | [1931-gobliins-2-the-prince-buffoon.json](./1931-gobliins-2-the-prince-buffoon.json) |
 | Gobliins Trilogy | 24763 | [24763-gobliins-trilogy.json](./24763-gobliins-trilogy.json) |
+| Gobliins6 | 387834 | [387834-gobliins6.json](./387834-gobliins6.json) |
 | Goblin Adventure: Free From Lore | 365163 | [365163-goblin-adventure-free-from-lore.json](./365163-goblin-adventure-free-from-lore.json) |
 | Goblin and Coins | 30638 | [30638-goblin-and-coins.json](./30638-goblin-and-coins.json) |
 | Goblin and Coins 2 | 117715 | [117715-goblin-and-coins-2.json](./117715-goblin-and-coins-2.json) |
@@ -8581,6 +8583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandpa Pip's Birthday | 182639 | [182639-grandpa-pips-birthday.json](./182639-grandpa-pips-birthday.json) |
 | Grandpa Rally | 255730 | [255730-grandpa-rally.json](./255730-grandpa-rally.json) |
 | Grandpa: The Horror Game | 99307 | [99307-grandpa-the-horror-game.json](./99307-grandpa-the-horror-game.json) |
+| Grandpa's Bee Haven | 387836 | [387836-grandpas-bee-haven.json](./387836-grandpas-bee-haven.json) |
 | Grandpa's Cheese | 200532 | [200532-grandpas-cheese.json](./200532-grandpas-cheese.json) |
 | Grandpa's House | 257900 | [257900-grandpas-house.json](./257900-grandpas-house.json) |
 | Grandpa's House | 426416 | [426416-grandpas-house.json](./426416-grandpas-house.json) |
@@ -11295,6 +11298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gum Flesh | 311990 | [311990-gum-flesh.json](./311990-gum-flesh.json) |
 | Gum Girl | 181847 | [181847-gum-girl.json](./181847-gum-girl.json) |
 | Gum Guy | 30007 | [30007-gum-guy.json](./30007-gum-guy.json) |
+| Gum Squad | 387828 | [387828-gum-squad.json](./387828-gum-squad.json) |
 | Gum+ | 124590 | [124590-gum.json](./124590-gum.json) |
 | Gumball | 25612 | [25612-gumball.json](./25612-gumball.json) |
 | Gumball 3000 | 300795 | [300795-gumball-3000.json](./300795-gumball-3000.json) |
