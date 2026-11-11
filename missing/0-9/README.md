@@ -2184,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Minutes to Midnight | 86657 | [86657-3-minutes-to-midnight.json](./86657-3-minutes-to-midnight.json) |
 | 3 Missing, 4am | 128589 | [128589-3-missing-4am.json](./128589-3-missing-4am.json) |
 | 3 Nights of Terror | 366184 | [366184-3-nights-of-terror.json](./366184-3-nights-of-terror.json) |
+| 3 Ninjas Kick Back | 356910 | [356910-3-ninjas-kick-back.json](./356910-3-ninjas-kick-back.json) |
 | 3 Ninjas Kick Back | 5337 | [5337-3-ninjas-kick-back.json](./5337-3-ninjas-kick-back.json) |
 | 3 Ninjas Kick Back / Hook | 409773 | [409773-3-ninjas-kick-back-hook.json](./409773-3-ninjas-kick-back-hook.json) |
 | 3 O'clock Horror | 157261 | [157261-3-oclock-horror.json](./157261-3-oclock-horror.json) |
@@ -2811,6 +2812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Degrees: Vol 1 | 92657 | [92657-4-degrees-vol-1.json](./92657-4-degrees-vol-1.json) |
 | 4 Degrees: Vol 2 | 92655 | [92655-4-degrees-vol-2.json](./92655-4-degrees-vol-2.json) |
 | 4 Elements | 27893 | [27893-4-elements.json](./27893-4-elements.json) |
+| 4 Elements Double Pack | 356937 | [356937-4-elements-double-pack.json](./356937-4-elements-double-pack.json) |
 | 4 Elements HD | 52038 | [52038-4-elements-hd.json](./52038-4-elements-hd.json) |
 | 4 Elements II | 64131 | [64131-4-elements-ii.json](./64131-4-elements-ii.json) |
 | 4 Elements II: Special Edition | 106038 | [106038-4-elements-ii-special-edition.json](./106038-4-elements-ii-special-edition.json) |
