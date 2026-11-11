@@ -8327,6 +8327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise and Grind! | 253490 | [253490-rise-and-grind.json](./253490-rise-and-grind.json) |
 | Rise Eterna | 113809 | [113809-rise-eterna.json](./113809-rise-eterna.json) |
 | Rise Eterna Bundle | 314601 | [314601-rise-eterna-bundle.json](./314601-rise-eterna-bundle.json) |
+| Rise Eterna II | 331589 | [331589-rise-eterna-ii.json](./331589-rise-eterna-ii.json) |
 | Rise Eterna War | 290503 | [290503-rise-eterna-war.json](./290503-rise-eterna-war.json) |
 | Rise for the Fight | 253514 | [253514-rise-for-the-fight.json](./253514-rise-for-the-fight.json) |
 | Rise from Disaster | 245212 | [245212-rise-from-disaster.json](./245212-rise-from-disaster.json) |
@@ -9282,6 +9283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roberto el Lagarto | 302618 | [302618-roberto-el-lagarto.json](./302618-roberto-el-lagarto.json) |
 | Roberto Selavino's Putting Championship | 60853 | [60853-roberto-selavinos-putting-championship.json](./60853-roberto-selavinos-putting-championship.json) |
 | Robes | 176343 | [176343-robes.json](./176343-robes.json) |
+| Robes & Wrinkles | 331584 | [331584-robes-and-wrinkles.json](./331584-robes-and-wrinkles.json) |
 | Robfather World | 268350 | [268350-robfather-world.json](./268350-robfather-world.json) |
 | Robicon | 373764 | [373764-robicon.json](./373764-robicon.json) |
 | Robikon | 107448 | [107448-robikon.json](./107448-robikon.json) |
