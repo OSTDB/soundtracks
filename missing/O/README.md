@@ -5330,6 +5330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of the Shadows | 343199 | [343199-out-of-the-shadows.json](./343199-out-of-the-shadows.json) |
 | Out of the Shelter | 156701 | [156701-out-of-the-shelter.json](./156701-out-of-the-shelter.json) |
 | Out of the Sun | 64916 | [64916-out-of-the-sun.json](./64916-out-of-the-sun.json) |
+| Out Of The Vortex | 352981 | [352981-out-of-the-vortex.json](./352981-out-of-the-vortex.json) |
 | Out of the Woods | 220616 | [220616-out-of-the-woods.json](./220616-out-of-the-woods.json) |
 | Out of the World | 250239 | [250239-out-of-the-world.json](./250239-out-of-the-world.json) |
 | Out of This World | 343396 | [343396-out-of-this-world.json](./343396-out-of-this-world.json) |
