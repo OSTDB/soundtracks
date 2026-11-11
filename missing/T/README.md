@@ -9725,6 +9725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairly OddParents: Shadow Showdown | 248497 | [248497-the-fairly-oddparents-shadow-showdown.json](./248497-the-fairly-oddparents-shadow-showdown.json) |
 | The Fairly OddParents: Shadow Showdown | 332836 | [332836-the-fairly-oddparents-shadow-showdown.json](./332836-the-fairly-oddparents-shadow-showdown.json) |
 | The Fairly OddParents: Shadow Showdown | 3912 | [3912-the-fairly-oddparents-shadow-showdown.json](./3912-the-fairly-oddparents-shadow-showdown.json) |
+| The Fairview Files: Episode Zero | 378732 | [378732-the-fairview-files-episode-zero.json](./378732-the-fairview-files-episode-zero.json) |
 | The Fairway Club | 264572 | [264572-the-fairway-club.json](./264572-the-fairway-club.json) |
 | The fairy tale you don't know | 169046 | [169046-the-fairy-tale-you-dont-know.json](./169046-the-fairy-tale-you-dont-know.json) |
 | The Fairy's Song | 140405 | [140405-the-fairys-song.json](./140405-the-fairys-song.json) |
@@ -10531,6 +10532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gardener and the Wild Vines | 141524 | [141524-the-gardener-and-the-wild-vines.json](./141524-the-gardener-and-the-wild-vines.json) |
 | The Gardener Simulator: Plant, Grow, Decorate, Build Sim | 283234 | [283234-the-gardener-simulator-plant-grow-decorate-build-sim.json](./283234-the-gardener-simulator-plant-grow-decorate-build-sim.json) |
 | The Gardens Between | 27324 | [27324-the-gardens-between.json](./27324-the-gardens-between.json) |
+| The Garry Story | 378708 | [378708-the-garry-story.json](./378708-the-garry-story.json) |
 | The Gas Station: Graveyard Shift | 379883 | [379883-the-gas-station-graveyard-shift.json](./379883-the-gas-station-graveyard-shift.json) |
 | The Gassal | 425882 | [425882-the-gassal.json](./425882-the-gassal.json) |
 | The Gastarbeiters | 414029 | [414029-the-gastarbeiters.json](./414029-the-gastarbeiters.json) |
@@ -14485,6 +14487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Melody of Grisaia | 32910 | [32910-the-melody-of-grisaia.json](./32910-the-melody-of-grisaia.json) |
 | the Melody of Iris | 83976 | [83976-the-melody-of-iris.json](./83976-the-melody-of-iris.json) |
 | The Melting Apartment | 278282 | [278282-the-melting-apartment.json](./278282-the-melting-apartment.json) |
+| The Melty Way | 378705 | [378705-the-melty-way.json](./378705-the-melty-way.json) |
 | The Membrane | 403012 | [403012-the-membrane.json](./403012-the-membrane.json) |
 | The Meme Hunter | 238745 | [238745-the-meme-hunter.json](./238745-the-meme-hunter.json) |
 | The Memological Dungeon | 357705 | [357705-the-memological-dungeon.json](./357705-the-memological-dungeon.json) |
@@ -16109,6 +16112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Purity of the Surf | 71173 | [71173-the-purity-of-the-surf.json](./71173-the-purity-of-the-surf.json) |
 | The Purple Coin: Club Saturn Edition | 381765 | [381765-the-purple-coin-club-saturn-edition.json](./381765-the-purple-coin-club-saturn-edition.json) |
 | The Purple Hike | 413608 | [413608-the-purple-hike.json](./413608-the-purple-hike.json) |
+| The Purple Peacock | 378712 | [378712-the-purple-peacock.json](./378712-the-purple-peacock.json) |
 | The Purrfect Valentine | 177957 | [177957-the-purrfect-valentine.json](./177957-the-purrfect-valentine.json) |
 | The Purring Quest | 14566 | [14566-the-purring-quest.json](./14566-the-purring-quest.json) |
 | The Pursuing Realm | 128803 | [128803-the-pursuing-realm.json](./128803-the-pursuing-realm.json) |
@@ -24054,6 +24058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timber Wars | 339305 | [339305-timber-wars.json](./339305-timber-wars.json) |
 | Timber! The Logging Experts | 30595 | [30595-timber-the-logging-experts.json](./30595-timber-the-logging-experts.json) |
 | Timberdoku | 300840 | [300840-timberdoku.json](./300840-timberdoku.json) |
+| Timberflow: Sawmill Simulator | 378693 | [378693-timberflow-sawmill-simulator.json](./378693-timberflow-sawmill-simulator.json) |
 | Timberholt | 388253 | [388253-timberholt.json](./388253-timberholt.json) |
 | Timberjack | 215063 | [215063-timberjack.json](./215063-timberjack.json) |
 | Timberlodge Inn | 232838 | [232838-timberlodge-inn.json](./232838-timberlodge-inn.json) |
@@ -24751,6 +24756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Fragments | 142360 | [142360-tiny-fragments.json](./142360-tiny-fragments.json) |
 | Tiny Friends Desktop Pet | 387630 | [387630-tiny-friends-desktop-pet.json](./387630-tiny-friends-desktop-pet.json) |
 | Tiny Frightened | 249905 | [249905-tiny-frightened.json](./249905-tiny-frightened.json) |
+| Tiny Frontier | 378683 | [378683-tiny-frontier.json](./378683-tiny-frontier.json) |
 | Tiny Galaxy | 84951 | [84951-tiny-galaxy.json](./84951-tiny-galaxy.json) |
 | Tiny Games: Knights & Dragons | 84950 | [84950-tiny-games-knights-and-dragons.json](./84950-tiny-games-knights-and-dragons.json) |
 | Tiny Garden | 300390 | [300390-tiny-garden.json](./300390-tiny-garden.json) |
@@ -33733,6 +33739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust the blackbird | 183986 | [183986-trust-the-blackbird.json](./183986-trust-the-blackbird.json) |
 | Trust the Watchers | 415497 | [415497-trust-the-watchers.json](./415497-trust-the-watchers.json) |
 | Trust Your Ears | 249193 | [249193-trust-your-ears.json](./249193-trust-your-ears.json) |
+| Trustfall | 378699 | [378699-trustfall.json](./378699-trustfall.json) |
 | Trusty Brothers | 128216 | [128216-trusty-brothers.json](./128216-trusty-brothers.json) |
 | Truth | 259040 | [259040-truth.json](./259040-truth.json) |
 | Truth | 281922 | [281922-truth.json](./281922-truth.json) |
