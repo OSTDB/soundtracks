@@ -5294,6 +5294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceive Inc.: Neon Nights | 257432 | [257432-deceive-inc-neon-nights.json](./257432-deceive-inc-neon-nights.json) |
 | Deceive Inc.: Of Queens and Kings | 272493 | [272493-deceive-inc-of-queens-and-kings.json](./272493-deceive-inc-of-queens-and-kings.json) |
 | Deceived by the Host | 267734 | [267734-deceived-by-the-host.json](./267734-deceived-by-the-host.json) |
+| Deceived of Joy | 387167 | [387167-deceived-of-joy.json](./387167-deceived-of-joy.json) |
 | Deceiver | 74788 | [74788-deceiver.json](./74788-deceiver.json) |
 | December 1914 | 235637 | [235637-december-1914.json](./235637-december-1914.json) |
 | December 24th | 200859 | [200859-december-24th.json](./200859-december-24th.json) |
@@ -9251,6 +9252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicefolk | 251938 | [251938-dicefolk.json](./251938-dicefolk.json) |
 | Dicefolk: Will Chimeras Pack | 324415 | [324415-dicefolk-will-chimeras-pack.json](./324415-dicefolk-will-chimeras-pack.json) |
 | Diceies | 79898 | [79898-diceies.json](./79898-diceies.json) |
+| Dicement | 387268 | [387268-dicement.json](./387268-dicement.json) |
 | Dicentra | 255649 | [255649-dicentra.json](./255649-dicentra.json) |
 | Diceomancer | 267805 | [267805-diceomancer.json](./267805-diceomancer.json) |
 | Dicepath | 405592 | [405592-dicepath.json](./405592-dicepath.json) |
@@ -9727,6 +9729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Adventure | 399333 | [399333-digimon-adventure.json](./399333-digimon-adventure.json) |
 | Digimon Adventure 02: D-1 Tamers | 37553 | [37553-digimon-adventure-02-d-1-tamers.json](./37553-digimon-adventure-02-d-1-tamers.json) |
 | Digimon Adventure 02: Tag Tamers | 37518 | [37518-digimon-adventure-02-tag-tamers.json](./37518-digimon-adventure-02-tag-tamers.json) |
+| Digimon Adventure TCG Remastered | 387166 | [387166-digimon-adventure-tcg-remastered.json](./387166-digimon-adventure-tcg-remastered.json) |
 | Digimon Adventure Trading Card Game | 276115 | [276115-digimon-adventure-trading-card-game.json](./276115-digimon-adventure-trading-card-game.json) |
 | Digimon Adventure: Anode Tamer | 37517 | [37517-digimon-adventure-anode-tamer.json](./37517-digimon-adventure-anode-tamer.json) |
 | Digimon Adventure: Cathode Tamer | 37516 | [37516-digimon-adventure-cathode-tamer.json](./37516-digimon-adventure-cathode-tamer.json) |
@@ -10402,6 +10405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Park: Jurassic Trex World | 105462 | [105462-dinosaur-park-jurassic-trex-world.json](./105462-dinosaur-park-jurassic-trex-world.json) |
 | Dinosaur Planet | 134251 | [134251-dinosaur-planet.json](./134251-dinosaur-planet.json) |
 | Dinosaur Planet: Recompiled | 343047 | [343047-dinosaur-planet-recompiled.json](./343047-dinosaur-planet-recompiled.json) |
+| Dinosaur Planet: Recompiled - Dinomod Enhanced | 387175 | [387175-dinosaur-planet-recompiled-dinomod-enhanced.json](./387175-dinosaur-planet-recompiled-dinomod-enhanced.json) |
 | Dinosaur Predators | 73584 | [73584-dinosaur-predators.json](./73584-dinosaur-predators.json) |
 | Dinosaur Puzzle | 222269 | [222269-dinosaur-puzzle.json](./222269-dinosaur-puzzle.json) |
 | Dinosaur Race | 193278 | [193278-dinosaur-race.json](./193278-dinosaur-race.json) |
@@ -10419,6 +10423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Simulator 2019 | 231964 | [231964-dinosaur-simulator-2019.json](./231964-dinosaur-simulator-2019.json) |
 | Dinosaur Stacker | 108250 | [108250-dinosaur-stacker.json](./108250-dinosaur-stacker.json) |
 | Dinosaur Survival Run: Jungle of Despair | 51686 | [51686-dinosaur-survival-run-jungle-of-despair.json](./51686-dinosaur-survival-run-jungle-of-despair.json) |
+| Dinosaur Survival Simulator: Prehistoric RPG | 387179 | [387179-dinosaur-survival-simulator-prehistoric-rpg.json](./387179-dinosaur-survival-simulator-prehistoric-rpg.json) |
 | Dinosaur War | 298513 | [298513-dinosaur-war.json](./298513-dinosaur-war.json) |
 | Dinosaur World | 140470 | [140470-dinosaur-world.json](./140470-dinosaur-world.json) |
 | Dinosaur World | 276205 | [276205-dinosaur-world.json](./276205-dinosaur-world.json) |
