@@ -4974,6 +4974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terry's Treasure Trouble! | 265934 | [265934-terrys-treasure-trouble.json](./265934-terrys-treasure-trouble.json) |
 | TerTD | 120731 | [120731-tertd.json](./120731-tertd.json) |
 | Terunyan to Amanoiwato | 298100 | [298100-terunyan-to-amanoiwato.json](./298100-terunyan-to-amanoiwato.json) |
+| Teryndor: Caelorn’s Quest | 390850 | [390850-teryndor-caelorn-s-quest.json](./390850-teryndor-caelorn-s-quest.json) |
 | Tescaris | 339274 | [339274-tescaris.json](./339274-tescaris.json) |
 | Tesco: Delivery Dash | 274994 | [274994-tesco-delivery-dash.json](./274994-tesco-delivery-dash.json) |
 | Tesco: Delivery Dash | 274995 | [274995-tesco-delivery-dash.json](./274995-tesco-delivery-dash.json) |
@@ -22112,6 +22113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tides of War | 206790 | [206790-tides-of-war.json](./206790-tides-of-war.json) |
 | Tidesworn | 403052 | [403052-tidesworn.json](./403052-tidesworn.json) |
 | TideTurn | 142262 | [142262-tideturn.json](./142262-tideturn.json) |
+| Tidewake | 390854 | [390854-tidewake.json](./390854-tidewake.json) |
 | Tideward | 419365 | [419365-tideward.json](./419365-tideward.json) |
 | Tidewatch | 412273 | [412273-tidewatch.json](./412273-tidewatch.json) |
 | Tidewell | 413884 | [413884-tidewell.json](./413884-tidewell.json) |
@@ -34183,6 +34185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tune in to the Show | 380183 | [380183-tune-in-to-the-show.json](./380183-tune-in-to-the-show.json) |
 | Tune My Car: Tuning Studio & Mechanic Simulator 2026 | 409562 | [409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json](./409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json) |
 | Tune the Tone | 128198 | [128198-tune-the-tone.json](./128198-tune-the-tone.json) |
+| Tune to Win | 390823 | [390823-tune-to-win.json](./390823-tune-to-win.json) |
 | Tunebound | 418296 | [418296-tunebound.json](./418296-tunebound.json) |
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
 | Tuned to Your Heart | 225562 | [225562-tuned-to-your-heart.json](./225562-tuned-to-your-heart.json) |
