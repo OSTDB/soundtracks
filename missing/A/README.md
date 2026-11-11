@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A way up! | 115617 | [115617-a-way-up.json](./115617-a-way-up.json) |
 | A Way With Words | 354960 | [354960-a-way-with-words.json](./354960-a-way-with-words.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
+| A Week in Paradise | 390825 | [390825-a-week-in-paradise.json](./390825-a-week-in-paradise.json) |
 | A Week in the Cold | 132745 | [132745-a-week-in-the-cold.json](./132745-a-week-in-the-cold.json) |
 | A Week in the Life of Asocial Giraffe | 333220 | [333220-a-week-in-the-life-of-asocial-giraffe.json](./333220-a-week-in-the-life-of-asocial-giraffe.json) |
 | A Week in the Office: Under the Table | 154976 | [154976-a-week-in-the-office-under-the-table.json](./154976-a-week-in-the-office-under-the-table.json) |
@@ -15675,6 +15676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Aventuras de Kiwi | 306710 | [306710-as-aventuras-de-kiwi.json](./306710-as-aventuras-de-kiwi.json) |
 | As Aventuras de Zé Baldinho | 252049 | [252049-as-aventuras-de-ze-baldinho.json](./252049-as-aventuras-de-ze-baldinho.json) |
 | As Cold as the Grave | 176924 | [176924-as-cold-as-the-grave.json](./176924-as-cold-as-the-grave.json) |
+| As Cores De Ofelia | 390852 | [390852-as-cores-de-ofelia.json](./390852-as-cores-de-ofelia.json) |
 | As Crônicas de Mar Céu | 247988 | [247988-as-cronicas-de-mar-ceu.json](./247988-as-cronicas-de-mar-ceu.json) |
 | As Dark as Night | 167543 | [167543-as-dark-as-night.json](./167543-as-dark-as-night.json) |
 | As Dusk Falls | 135995 | [135995-as-dusk-falls.json](./135995-as-dusk-falls.json) |
@@ -16664,6 +16666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astero | 157342 | [157342-astero.json](./157342-astero.json) |
 | Astero Inc. | 176506 | [176506-astero-inc.json](./176506-astero-inc.json) |
 | Asteroad | 149089 | [149089-asteroad.json](./149089-asteroad.json) |
+| Asterobits | 390310 | [390310-asterobits.json](./390310-asterobits.json) |
 | Asterogue | 184854 | [184854-asterogue.json](./184854-asterogue.json) |
 | Asterogues | 213433 | [213433-asterogues.json](./213433-asterogues.json) |
 | Asteroid | 170781 | [170781-asteroid.json](./170781-asteroid.json) |
