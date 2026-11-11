@@ -5708,6 +5708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom Mansion II: Treasures of the Seven Seas - The Black Sea | 405111 | [405111-phantom-mansion-ii-treasures-of-the-seven-seas-the-black-sea.json](./405111-phantom-mansion-ii-treasures-of-the-seven-seas-the-black-sea.json) |
 | Phantom Mansion II: Treasures of the Seven Seas - The North Sea | 405115 | [405115-phantom-mansion-ii-treasures-of-the-seven-seas-the-north-sea.json](./405115-phantom-mansion-ii-treasures-of-the-seven-seas-the-north-sea.json) |
 | Phantom Matrix | 212011 | [212011-phantom-matrix.json](./212011-phantom-matrix.json) |
+| Phantom Necro | 354133 | [354133-phantom-necro.json](./354133-phantom-necro.json) |
 | Phantom of Inferno | 387689 | [387689-phantom-of-inferno.json](./387689-phantom-of-inferno.json) |
 | Phantom of the Asteroids | 66539 | [66539-phantom-of-the-asteroids.json](./66539-phantom-of-the-asteroids.json) |
 | Phantom of the Black Rose Revue | 269862 | [269862-phantom-of-the-black-rose-revue.json](./269862-phantom-of-the-black-rose-revue.json) |
