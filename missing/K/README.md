@@ -2989,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -6381,6 +6382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuma Sushi Bar | 200745 | [200745-kuma-sushi-bar.json](./200745-kuma-sushi-bar.json) |
 | Kuma Uta | 70220 | [70220-kuma-uta.json](./70220-kuma-uta.json) |
 | Kuma: The Environmental Protector | 186981 | [186981-kuma-the-environmental-protector.json](./186981-kuma-the-environmental-protector.json) |
+| Kuma's Panty | 345741 | [345741-kumas-panty.json](./345741-kumas-panty.json) |
 | Kuma\War | 23563 | [23563-kuma-war.json](./23563-kuma-war.json) |
 | Kumacure | 118609 | [118609-kumacure.json](./118609-kumacure.json) |
 | Kumakichi & Nyanzou Birth Destruction God DX | 336432 | [336432-kumakichi-and-nyanzou-birth-destruction-god-dx.json](./336432-kumakichi-and-nyanzou-birth-destruction-god-dx.json) |
@@ -6569,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuraburo Kai | 32094 | [32094-kuraburo-kai.json](./32094-kuraburo-kai.json) |
 | Kurage Life | 368103 | [368103-kurage-life.json](./368103-kurage-life.json) |
 | Kurai Nichiyoubi: Sombre Dimanche | 260982 | [260982-kurai-nichiyoubi-sombre-dimanche.json](./260982-kurai-nichiyoubi-sombre-dimanche.json) |
+| Kurai Yama | 346310 | [346310-kurai-yama.json](./346310-kurai-yama.json) |
 | Kurama and the Cursed Isles | 196986 | [196986-kurama-and-the-cursed-isles.json](./196986-kurama-and-the-cursed-isles.json) |
 | Kurayami | 187054 | [187054-kurayami.json](./187054-kurayami.json) |
 | Kurayami | 94763 | [94763-kurayami.json](./94763-kurayami.json) |
