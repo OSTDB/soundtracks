@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Smoking Snakes | 420568 | [420568-call-of-smoking-snakes.json](./420568-call-of-smoking-snakes.json) |
 | Call of Snakes | 193705 | [193705-call-of-snakes.json](./193705-call-of-snakes.json) |
 | Call of Sniper Combat: WW2 | 276558 | [276558-call-of-sniper-combat-ww2.json](./276558-call-of-sniper-combat-ww2.json) |
+| Call of the Abyss | 385026 | [385026-call-of-the-abyss.json](./385026-call-of-the-abyss.json) |
 | Call of the Ages: Collector's Edition | 341086 | [341086-call-of-the-ages-collectors-edition.json](./341086-call-of-the-ages-collectors-edition.json) |
 | Call of the Apostate | 268766 | [268766-call-of-the-apostate.json](./268766-call-of-the-apostate.json) |
 | Call of The Deep | 311530 | [311530-call-of-the-deep.json](./311530-call-of-the-deep.json) |
@@ -6802,6 +6803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chasm | 313020 | [313020-chasm.json](./313020-chasm.json) |
 | Chasm Bound | 250896 | [250896-chasm-bound.json](./250896-chasm-bound.json) |
 | Chasm Crawl | 277761 | [277761-chasm-crawl.json](./277761-chasm-crawl.json) |
+| Chasm Shift | 385002 | [385002-chasm-shift.json](./385002-chasm-shift.json) |
 | Chasmal | 231798 | [231798-chasmal.json](./231798-chasmal.json) |
 | Chaste Tris | 202615 | [202615-chaste-tris.json](./202615-chaste-tris.json) |
 | Chastity Catastrophe | 192588 | [192588-chastity-catastrophe.json](./192588-chastity-catastrophe.json) |
@@ -7036,6 +7038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef Curry | 113849 | [113849-chef-curry.json](./113849-chef-curry.json) |
 | Chef de Bubble | 323096 | [323096-chef-de-bubble.json](./323096-chef-de-bubble.json) |
 | Chef Express | 397512 | [397512-chef-express.json](./397512-chef-express.json) |
+| Chef Knight | 384996 | [384996-chef-knight.json](./384996-chef-knight.json) |
 | Chef Leo's Creative Kitchen | 343378 | [343378-chef-leos-creative-kitchen.json](./343378-chef-leos-creative-kitchen.json) |
 | Chef Life: A Restaurant Simulator - Al Forno Edition | 229122 | [229122-chef-life-a-restaurant-simulator-al-forno-edition.json](./229122-chef-life-a-restaurant-simulator-al-forno-edition.json) |
 | Chef Life: A Restaurant Simulator - Al Forno Pack | 242489 | [242489-chef-life-a-restaurant-simulator-al-forno-pack.json](./242489-chef-life-a-restaurant-simulator-al-forno-pack.json) |
