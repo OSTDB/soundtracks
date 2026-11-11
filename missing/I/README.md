@@ -2557,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IMM Defense | 86769 | [86769-imm-defense.json](./86769-imm-defense.json) |
 | IMM Defense 2 | 129354 | [129354-imm-defense-2.json](./129354-imm-defense-2.json) |
 | Imma Potato | 414077 | [414077-imma-potato.json](./414077-imma-potato.json) |
+| Immaculate Grid | 350108 | [350108-immaculate-grid.json](./350108-immaculate-grid.json) |
 | Immaculate Heart | 423636 | [423636-immaculate-heart.json](./423636-immaculate-heart.json) |
 | Immanence | 128213 | [128213-immanence.json](./128213-immanence.json) |
 | Immay | 253922 | [253922-immay.json](./253922-immay.json) |
@@ -4711,6 +4712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inoue Takehiko: Buzzer Beater - Kouhen | 209725 | [209725-inoue-takehiko-buzzer-beater-kouhen.json](./209725-inoue-takehiko-buzzer-beater-kouhen.json) |
 | Inoue Takehiko: Buzzer Beater - Zenpen | 209724 | [209724-inoue-takehiko-buzzer-beater-zenpen.json](./209724-inoue-takehiko-buzzer-beater-zenpen.json) |
 | Inout | 224622 | [224622-inout.json](./224622-inout.json) |
+| InOut | 350101 | [350101-inout.json](./350101-inout.json) |
 | Inoutcar | 399942 | [399942-inoutcar.json](./399942-inoutcar.json) |
 | InOutPath | 295880 | [295880-inoutpath.json](./295880-inoutpath.json) |
 | Inpulse | 253925 | [253925-inpulse.json](./253925-inpulse.json) |
