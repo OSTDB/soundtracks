@@ -29,6 +29,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P-Type | 282377 | [282377-p-type.json](./282377-p-type.json) |
 | P-Walker's Simulation | 36820 | [36820-p-walkers-simulation.json](./36820-p-walkers-simulation.json) |
 | P.3 | 123815 | [123815-p-3.json](./123815-p-3.json) |
+| P.A.C.K.: Post Apocalyptic Cleaning Kit | 344087 | [344087-p-a-c-k-post-apocalyptic-cleaning-kit.json](./344087-p-a-c-k-post-apocalyptic-cleaning-kit.json) |
 | P.A.I.N.T. | 161522 | [161522-p-a-i-n-t.json](./161522-p-a-i-n-t.json) |
 | P.A.M.E.L.A. | 9216 | [9216-p-a-m-e-l-a.json](./9216-p-a-m-e-l-a.json) |
 | P.A.M.U | 184808 | [184808-p-a-m-u.json](./184808-p-a-m-u.json) |
@@ -394,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Kanzen Kouryaku: Universal Koushiki Guide Volume 4 | 402745 | [402745-pachi-slot-kanzen-kouryaku-universal-koushiki-guide-volume-4.json](./402745-pachi-slot-kanzen-kouryaku-universal-koushiki-guide-volume-4.json) |
 | Pachi-Slot Kanzen Kouryaku: Universal Shindai Nyuuka Volume 1 | 66960 | [66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json](./66960-pachi-slot-kanzen-kouryaku-universal-shindai-nyuuka-volume-1.json) |
 | Pachi-Slot Kenkyuu | 37900 | [37900-pachi-slot-kenkyuu.json](./37900-pachi-slot-kenkyuu.json) |
+| Pachi-slot Kids 3 | 344043 | [344043-pachi-slot-kids-3.json](./344043-pachi-slot-kids-3.json) |
 | Pachi-Slot King! Kagaku Ninja-Tai Gatchaman | 62232 | [62232-pachi-slot-king-kagaku-ninja-tai-gatchaman.json](./62232-pachi-slot-king-kagaku-ninja-tai-gatchaman.json) |
 | Pachi-Slot Land: Pachi-pachi Coin no Densetsu | 37899 | [37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json](./37899-pachi-slot-land-pachi-pachi-coin-no-densetsu.json) |
 | Pachi-Slot Love Story | 37898 | [37898-pachi-slot-love-story.json](./37898-pachi-slot-love-story.json) |
@@ -996,6 +998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladog! | 198003 | [198003-paladog.json](./198003-paladog.json) |
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
 | Palallel | 161460 | [161460-palallel.json](./161460-palallel.json) |
+| Palamedes | 344064 | [344064-palamedes.json](./344064-palamedes.json) |
 | Palamedes | 40563 | [40563-palamedes.json](./40563-palamedes.json) |
 | Palamedes II: Star Twinkles | 48808 | [48808-palamedes-ii-star-twinkles.json](./48808-palamedes-ii-star-twinkles.json) |
 | Palavra500 | 411948 | [411948-palavra500.json](./411948-palavra500.json) |
@@ -18888,7 +18891,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purify Puzzle | 54277 | [54277-purify-puzzle.json](./54277-purify-puzzle.json) |
 | Purifying Fox | 358507 | [358507-purifying-fox.json](./358507-purifying-fox.json) |
 | Purikura Daisakusen | 39572 | [39572-purikura-daisakusen.json](./39572-purikura-daisakusen.json) |
+| Purikura Pocket 2: Kareshi Kaizou Daisakusen | 344074 | [344074-purikura-pocket-2-kareshi-kaizou-daisakusen.json](./344074-purikura-pocket-2-kareshi-kaizou-daisakusen.json) |
 | Purikura Pocket 3: Talent Debut Daisakusen | 418593 | [418593-purikura-pocket-3-talent-debut-daisakusen.json](./418593-purikura-pocket-3-talent-debut-daisakusen.json) |
+| Purikura Pocket: Fukanzen Joshikousei Manual | 344073 | [344073-purikura-pocket-fukanzen-joshikousei-manual.json](./344073-purikura-pocket-fukanzen-joshikousei-manual.json) |
 | Purin-chan's Boxing Gym 2 | 83229 | [83229-purin-chans-boxing-gym-2.json](./83229-purin-chans-boxing-gym-2.json) |
 | Puriore!: Smile Princess | 196566 | [196566-puriore-smile-princess.json](./196566-puriore-smile-princess.json) |
 | Purity | 184113 | [184113-purity.json](./184113-purity.json) |
