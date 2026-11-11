@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q: Cue | 153738 | [153738-q-cue.json](./153738-q-cue.json) |
 | Q!Zone | 62367 | [62367-q-zone.json](./62367-q-zone.json) |
 | Q.U.B.E: Director's Cut | 19961 | [19961-q-u-b-e-directors-cut.json](./19961-q-u-b-e-directors-cut.json) |
+| Q.U.B.E: Incremental TD | 392576 | [392576-q-u-b-e-incremental-td.json](./392576-q-u-b-e-incremental-td.json) |
 | Q.U.B.E. | 5445 | [5445-q-u-b-e.json](./5445-q-u-b-e.json) |
 | Q.U.B.E. 10th Anniversary | 206756 | [206756-q-u-b-e-10th-anniversary.json](./206756-q-u-b-e-10th-anniversary.json) |
 | Q.U.B.E. 2 | 36766 | [36766-q-u-b-e-2.json](./36766-q-u-b-e-2.json) |
