@@ -3961,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Populi: Brazil 2022 | 220522 | [220522-vox-populi-brazil-2022.json](./220522-vox-populi-brazil-2022.json) |
 | Vox Populi: Canada 2025 | 347173 | [347173-vox-populi-canada-2025.json](./347173-vox-populi-canada-2025.json) |
 | Vox Populi: Europa 2024 | 288488 | [288488-vox-populi-europa-2024.json](./288488-vox-populi-europa-2024.json) |
+| Vox Populi: Germany 2025 | 331030 | [331030-vox-populi-germany-2025.json](./331030-vox-populi-germany-2025.json) |
 | Vox Populi: Poland 2023 | 267678 | [267678-vox-populi-poland-2023.json](./267678-vox-populi-poland-2023.json) |
 | Vox Populi: Spain 2023 | 258042 | [258042-vox-populi-spain-2023.json](./258042-vox-populi-spain-2023.json) |
 | Vox Populi: USA 2024 | 309464 | [309464-vox-populi-usa-2024.json](./309464-vox-populi-usa-2024.json) |
