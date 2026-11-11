@@ -6541,6 +6541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kupala | 392713 | [392713-kupala.json](./392713-kupala.json) |
 | Kupala Night | 298505 | [298505-kupala-night.json](./298505-kupala-night.json) |
 | Kupechestvo | 190211 | [190211-kupechestvo.json](./190211-kupechestvo.json) |
+| Kupiec | 373429 | [373429-kupiec.json](./373429-kupiec.json) |
 | Kupimon | 261979 | [261979-kupimon.json](./261979-kupimon.json) |
 | Kupu!! Mamegoma! | 67742 | [67742-kupu-mamegoma.json](./67742-kupu-mamegoma.json) |
 | Kur | 130250 | [130250-kur.json](./130250-kur.json) |
