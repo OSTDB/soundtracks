@@ -2904,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4004Ripper | 342062 | [342062-4004ripper.json](./342062-4004ripper.json) |
 | 403 Puppet | 259994 | [259994-403-puppet.json](./259994-403-puppet.json) |
 | 404 Beat Crash | 374652 | [374652-404-beat-crash.json](./374652-404-beat-crash.json) |
+| 404 Breakpoint | 376947 | [376947-404-breakpoint.json](./376947-404-breakpoint.json) |
 | 404 Game Re:Set | 237801 | [237801-404-game-re-set.json](./237801-404-game-re-set.json) |
 | 404 Knight | 277397 | [277397-404-knight.json](./277397-404-knight.json) |
 | 404 Missing Page Detective Agency | 182768 | [182768-404-missing-page-detective-agency.json](./182768-404-missing-page-detective-agency.json) |
@@ -2921,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4185113 | 212755 | [212755-4185113.json](./212755-4185113.json) |
 | 419 | 389733 | [389733-419.json](./389733-419.json) |
 | 41m | 234073 | [234073-41m.json](./234073-41m.json) |
+| 42 Space Mayhem | 376948 | [376948-42-space-mayhem.json](./376948-42-space-mayhem.json) |
 | 42 Ways to Die in Space | 199346 | [199346-42-ways-to-die-in-space.json](./199346-42-ways-to-die-in-space.json) |
 | 420 Button Clicker | 124689 | [124689-420-button-clicker.json](./124689-420-button-clicker.json) |
 | 420Blaze It 2: Game of the Year | 298607 | [298607-420blaze-it-2-game-of-the-year.json](./298607-420blaze-it-2-game-of-the-year.json) |
