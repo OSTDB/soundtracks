@@ -5753,6 +5753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Markets | 348262 | [348262-beat-the-markets.json](./348262-beat-the-markets.json) |
 | Beat the Moles | 157023 | [157023-beat-the-moles.json](./157023-beat-the-moles.json) |
 | Beat the Mons! | 153135 | [153135-beat-the-mons.json](./153135-beat-the-mons.json) |
+| Beat the Nettles! | 382714 | [382714-beat-the-nettles.json](./382714-beat-the-nettles.json) |
 | Beat the Wall | 323848 | [323848-beat-the-wall.json](./323848-beat-the-wall.json) |
 | Beat Them All | 166676 | [166676-beat-them-all.json](./166676-beat-them-all.json) |
 | Beat Them Up: Box Simulator | 234626 | [234626-beat-them-up-box-simulator.json](./234626-beat-them-up-box-simulator.json) |
@@ -7058,6 +7059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserker Girl | 365039 | [365039-berserker-girl.json](./365039-berserker-girl.json) |
 | Berserker Girl | 377202 | [377202-berserker-girl.json](./377202-berserker-girl.json) |
 | Berserker Onslaught | 399292 | [399292-berserker-onslaught.json](./399292-berserker-onslaught.json) |
+| Berserker Penguin | 382705 | [382705-berserker-penguin.json](./382705-berserker-penguin.json) |
 | Berserker Raids | 316920 | [316920-berserker-raids.json](./316920-berserker-raids.json) |
 | Berserker: A Viking Board Game | 213203 | [213203-berserker-a-viking-board-game.json](./213203-berserker-a-viking-board-game.json) |
 | Berserker's Descent | 145433 | [145433-berserkers-descent.json](./145433-berserkers-descent.json) |
