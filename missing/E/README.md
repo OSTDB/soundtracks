@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edge: Mech-Ascent | 230303 | [230303-edge-mech-ascent.json](./230303-edge-mech-ascent.json) |
 | Edgefield | 346489 | [346489-edgefield.json](./346489-edgefield.json) |
 | Edgeless | 291146 | [291146-edgeless.json](./291146-edgeless.json) |
+| EdgeLords | 382088 | [382088-edgelords.json](./382088-edgelords.json) |
 | EdgeRunner | 244316 | [244316-edgerunner.json](./244316-edgerunner.json) |
 | Edges 2 | 53095 | [53095-edges-2.json](./53095-edges-2.json) |
 | Edgy Fantasy Battle Deluxe | 184632 | [184632-edgy-fantasy-battle-deluxe.json](./184632-edgy-fantasy-battle-deluxe.json) |
