@@ -8509,6 +8509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup of Pool | 47963 | [47963-world-cup-of-pool.json](./47963-world-cup-of-pool.json) |
 | World Cup Soccer | 245608 | [245608-world-cup-soccer.json](./245608-world-cup-soccer.json) |
 | World Cup Soccer | 41444 | [41444-world-cup-soccer.json](./41444-world-cup-soccer.json) |
+| World Cup Soccer 2026 | 340099 | [340099-world-cup-soccer-2026.json](./340099-world-cup-soccer-2026.json) |
 | World Cup USA 94 | 217942 | [217942-world-cup-usa-94.json](./217942-world-cup-usa-94.json) |
 | World Cup USA 94 | 349268 | [349268-world-cup-usa-94.json](./349268-world-cup-usa-94.json) |
 | World Cup USA 94 | 365668 | [365668-world-cup-usa-94.json](./365668-world-cup-usa-94.json) |
