@@ -920,6 +920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Puzzle | 62036 | [62036-xmas-puzzle.json](./62036-xmas-puzzle.json) |
 | Xmas Santa Mad Sleigh Run | 232082 | [232082-xmas-santa-mad-sleigh-run.json](./232082-xmas-santa-mad-sleigh-run.json) |
 | Xmas Shooting: Scramble!! | 26594 | [26594-xmas-shooting-scramble.json](./26594-xmas-shooting-scramble.json) |
+| Xmas Surprise | 393706 | [393706-xmas-surprise.json](./393706-xmas-surprise.json) |
 | Xmas Survivors | 382876 | [382876-xmas-survivors.json](./382876-xmas-survivors.json) |
 | Xmas Tripeaks | 95661 | [95661-xmas-tripeaks.json](./95661-xmas-tripeaks.json) |
 | Xmas Zombie Rampage | 30079 | [30079-xmas-zombie-rampage.json](./30079-xmas-zombie-rampage.json) |
