@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Town Billionaire | 340513 | [340513-idle-town-billionaire.json](./340513-idle-town-billionaire.json) |
 | Idle Trader Simulator | 165764 | [165764-idle-trader-simulator.json](./165764-idle-trader-simulator.json) |
 | Idle Traffic Tycoon Game | 227263 | [227263-idle-traffic-tycoon-game.json](./227263-idle-traffic-tycoon-game.json) |
+| Idle Trainer | 377530 | [377530-idle-trainer.json](./377530-idle-trainer.json) |
 | Idle Transport Tycoon | 263027 | [263027-idle-transport-tycoon.json](./263027-idle-transport-tycoon.json) |
 | Idle Tree | 365747 | [365747-idle-tree.json](./365747-idle-tree.json) |
 | Idle Trillionaire | 294137 | [294137-idle-trillionaire.json](./294137-idle-trillionaire.json) |
@@ -2788,6 +2789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperialism: The Dark Continent | 97113 | [97113-imperialism-the-dark-continent.json](./97113-imperialism-the-dark-continent.json) |
 | Imperialism:The Dark Continent | 105521 | [105521-imperialism-the-dark-continent.json](./105521-imperialism-the-dark-continent.json) |
 | Imperialist | 400247 | [400247-imperialist.json](./400247-imperialist.json) |
+| Imperializer | 377503 | [377503-imperializer.json](./377503-imperializer.json) |
 | Imperian | 78655 | [78655-imperian.json](./78655-imperian.json) |
 | Imperil | 74186 | [74186-imperil.json](./74186-imperil.json) |
 | Imperion | 243217 | [243217-imperion.json](./243217-imperion.json) |
