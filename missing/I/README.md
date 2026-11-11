@@ -1498,6 +1498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Yuan-ti Glitch Havilar Skin & Feat Pack | 313701 | [313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json](./313701-idle-champions-yuan-ti-glitch-havilar-skin-and-feat-pack.json) |
 | Idle Chapel | 402628 | [402628-idle-chapel.json](./402628-idle-chapel.json) |
 | Idle Chess Story | 117793 | [117793-idle-chess-story.json](./117793-idle-chess-story.json) |
+| Idle Chibi Knight | 387823 | [387823-idle-chibi-knight.json](./387823-idle-chibi-knight.json) |
 | Idle Cinema Empire | 231937 | [231937-idle-cinema-empire.json](./231937-idle-cinema-empire.json) |
 | Idle Cinema Tycoon | 369567 | [369567-idle-cinema-tycoon.json](./369567-idle-cinema-tycoon.json) |
 | Idle City Empire | 101068 | [101068-idle-city-empire.json](./101068-idle-city-empire.json) |
@@ -2908,6 +2909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Improbability Control Bureau | 264787 | [264787-improbability-control-bureau.json](./264787-improbability-control-bureau.json) |
 | Improbable Soccer | 141236 | [141236-improbable-soccer.json](./141236-improbable-soccer.json) |
 | Impromptu Trip | 285910 | [285910-impromptu-trip.json](./285910-impromptu-trip.json) |
+| Improper | 387811 | [387811-improper.json](./387811-improper.json) |
 | Improvise, Adapt, Overcome | 402802 | [402802-improvise-adapt-overcome.json](./402802-improvise-adapt-overcome.json) |
 | Improvised Tactics | 373866 | [373866-improvised-tactics.json](./373866-improvised-tactics.json) |
 | Improvisio | 92269 | [92269-improvisio.json](./92269-improvisio.json) |
@@ -4229,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Mechs | 235150 | [235150-infinity-mechs.json](./235150-infinity-mechs.json) |
 | Infinity Nikki: Blue Tears Season | 353286 | [353286-infinity-nikki-blue-tears-season.json](./353286-infinity-nikki-blue-tears-season.json) |
 | Infinity Nikki: Bubble Season | 341797 | [341797-infinity-nikki-bubble-season.json](./341797-infinity-nikki-bubble-season.json) |
+| Infinity Nikki: Chromatic Beings Everbright | 387824 | [387824-infinity-nikki-chromatic-beings-everbright.json](./387824-infinity-nikki-chromatic-beings-everbright.json) |
 | Infinity Nikki: Danqing Season | 357174 | [357174-infinity-nikki-danqing-season.json](./357174-infinity-nikki-danqing-season.json) |
 | Infinity Nikki: Encore Season | 375611 | [375611-infinity-nikki-encore-season.json](./375611-infinity-nikki-encore-season.json) |
 | Infinity Nikki: Exploration Season | 334414 | [334414-infinity-nikki-exploration-season.json](./334414-infinity-nikki-exploration-season.json) |
@@ -5458,6 +5461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interview | 80233 | [80233-interview.json](./80233-interview.json) |
 | Interview With The Horny Ghost | 301640 | [301640-interview-with-the-horny-ghost.json](./301640-interview-with-the-horny-ghost.json) |
 | Interview With the Whisperer | 141366 | [141366-interview-with-the-whisperer.json](./141366-interview-with-the-whisperer.json) |
+| InterViolence | 387818 | [387818-interviolence.json](./387818-interviolence.json) |
 | Intervoid | 380166 | [380166-intervoid.json](./380166-intervoid.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
 | Interworlds | 74220 | [74220-interworlds.json](./74220-interworlds.json) |
