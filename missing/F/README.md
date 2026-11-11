@@ -10920,6 +10920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsake The Rake | 240240 | [240240-forsake-the-rake.json](./240240-forsake-the-rake.json) |
 | Forsaken | 196138 | [196138-forsaken.json](./196138-forsaken.json) |
 | Forsaken | 321637 | [321637-forsaken.json](./321637-forsaken.json) |
+| Forsaken | 322332 | [322332-forsaken.json](./322332-forsaken.json) |
 | Forsaken | 322700 | [322700-forsaken.json](./322700-forsaken.json) |
 | Forsaken | 378535 | [378535-forsaken.json](./378535-forsaken.json) |
 | Forsaken | 718 | [718-forsaken.json](./718-forsaken.json) |
@@ -13988,6 +13989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugitive | 249871 | [249871-fugitive.json](./249871-fugitive.json) |
 | Fugitive 3D | 152758 | [152758-fugitive-3d.json](./152758-fugitive-3d.json) |
 | Fugitive Criminal | 149794 | [149794-fugitive-criminal.json](./149794-fugitive-criminal.json) |
+| Fugitive Desires | 322292 | [322292-fugitive-desires.json](./322292-fugitive-desires.json) |
 | Fugitive Flight | 395835 | [395835-fugitive-flight.json](./395835-fugitive-flight.json) |
 | Fugitive Free Rider | 388775 | [388775-fugitive-free-rider.json](./388775-fugitive-free-rider.json) |
 | Fugitive Hunter | 24101 | [24101-fugitive-hunter.json](./24101-fugitive-hunter.json) |
