@@ -3754,6 +3754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of Faith | 414514 | [414514-fear-of-faith.json](./414514-fear-of-faith.json) |
 | Fear of Fear | 294292 | [294292-fear-of-fear.json](./294292-fear-of-fear.json) |
 | Fear of Hot Water Ghost | 335685 | [335685-fear-of-hot-water-ghost.json](./335685-fear-of-hot-water-ghost.json) |
+| Fear of Hunger | 353558 | [353558-fear-of-hunger.json](./353558-fear-of-hunger.json) |
 | Fear of Mine | 226560 | [226560-fear-of-mine.json](./226560-fear-of-mine.json) |
 | Fear of Reptiles: Chapter 1 | 404595 | [404595-fear-of-reptiles-chapter-1.json](./404595-fear-of-reptiles-chapter-1.json) |
 | Fear of Sleep | 391107 | [391107-fear-of-sleep.json](./391107-fear-of-sleep.json) |
@@ -5077,6 +5078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fill one-line puzzle game | 88820 | [88820-fill-one-line-puzzle-game.json](./88820-fill-one-line-puzzle-game.json) |
 | Fill the Cup | 228220 | [228220-fill-the-cup.json](./228220-fill-the-cup.json) |
 | Fill The Cup | 315705 | [315705-fill-the-cup.json](./315705-fill-the-cup.json) |
+| Fill The Cup 2 | 353560 | [353560-fill-the-cup-2.json](./353560-fill-the-cup-2.json) |
 | Fill The Cup 3: Frost | 390801 | [390801-fill-the-cup-3-frost.json](./390801-fill-the-cup-3-frost.json) |
 | Fill the Fridge | 194161 | [194161-fill-the-fridge.json](./194161-fill-the-fridge.json) |
 | Fill the Fridge | 311817 | [311817-fill-the-fridge.json](./311817-fill-the-fridge.json) |
