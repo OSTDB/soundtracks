@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R/A\W | 341548 | [341548-r-a-w.json](./341548-r-a-w.json) |
 | R/C Sports: Copter Challenge | 202927 | [202927-r-c-sports-copter-challenge.json](./202927-r-c-sports-copter-challenge.json) |
 | R/C Stunt Copter | 44953 | [44953-r-c-stunt-copter.json](./44953-r-c-stunt-copter.json) |
+| R/nosleep: The Night Shift at Paradise Valley Pool | 326899 | [326899-r-nosleep-the-night-shift-at-paradise-valley-pool.json](./326899-r-nosleep-the-night-shift-at-paradise-valley-pool.json) |
 | R&Dy | 254940 | [254940-r-and-dy.json](./254940-r-and-dy.json) |
 | R00000 | 260309 | [260309-r00000.json](./260309-r00000.json) |
 | R00m | 199862 | [199862-r00m.json](./199862-r00m.json) |
@@ -13528,6 +13529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Souls | 418868 | [418868-running-souls.json](./418868-running-souls.json) |
 | Running Strike | 247174 | [247174-running-strike.json](./247174-running-strike.json) |
 | Running Tadpoles | 113013 | [113013-running-tadpoles.json](./113013-running-tadpoles.json) |
+| Running Through Backrooms | 326885 | [326885-running-through-backrooms.json](./326885-running-through-backrooms.json) |
 | Running Through Russia 2 | 104074 | [104074-running-through-russia-2.json](./104074-running-through-russia-2.json) |
 | Running Through The Beat | 270931 | [270931-running-through-the-beat.json](./270931-running-through-the-beat.json) |
 | Running VoltGun | 370115 | [370115-running-voltgun.json](./370115-running-voltgun.json) |
