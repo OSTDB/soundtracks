@@ -4237,6 +4237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel Saint: Hellride | 384669 | [384669-wheel-saint-hellride.json](./384669-wheel-saint-hellride.json) |
 | Wheel Smash | 149352 | [149352-wheel-smash.json](./149352-wheel-smash.json) |
 | Wheel Stars | 236313 | [236313-wheel-stars.json](./236313-wheel-stars.json) |
+| Wheel Up the Hill | 341732 | [341732-wheel-up-the-hill.json](./341732-wheel-up-the-hill.json) |
 | Wheelbarrow Warrior | 107365 | [107365-wheelbarrow-warrior.json](./107365-wheelbarrow-warrior.json) |
 | Wheelborn | 282222 | [282222-wheelborn.json](./282222-wheelborn.json) |
 | Wheelborne | 359144 | [359144-wheelborne.json](./359144-wheelborne.json) |
@@ -4336,6 +4337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Team3 Gets Bored | 330091 | [330091-when-team3-gets-bored.json](./330091-when-team3-gets-bored.json) |
 | When the Barn Sleeps | 389998 | [389998-when-the-barn-sleeps.json](./389998-when-the-barn-sleeps.json) |
 | When The Bell Goes Silent | 356517 | [356517-when-the-bell-goes-silent.json](./356517-when-the-bell-goes-silent.json) |
+| When the Crow Sings | 341748 | [341748-when-the-crow-sings.json](./341748-when-the-crow-sings.json) |
 | When the Devil Takes Hold | 235799 | [235799-when-the-devil-takes-hold.json](./235799-when-the-devil-takes-hold.json) |
 | When the Embers Wake | 381581 | [381581-when-the-embers-wake.json](./381581-when-the-embers-wake.json) |
 | When the Light Dies | 258000 | [258000-when-the-light-dies.json](./258000-when-the-light-dies.json) |
