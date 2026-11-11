@@ -6775,6 +6775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Girls | 284272 | [284272-gold-girls.json](./284272-gold-girls.json) |
 | Gold Gold Adventure Gold | 317162 | [317162-gold-gold-adventure-gold.json](./317162-gold-gold-adventure-gold.json) |
 | Gold Grabbing Goblin | 271627 | [271627-gold-grabbing-goblin.json](./271627-gold-grabbing-goblin.json) |
+| Gold Grove | 365341 | [365341-gold-grove.json](./365341-gold-grove.json) |
 | Gold Hunter | 118477 | [118477-gold-hunter.json](./118477-gold-hunter.json) |
 | Gold Is Mine | 148842 | [148842-gold-is-mine.json](./148842-gold-is-mine.json) |
 | Gold key | 74658 | [74658-gold-key.json](./74658-gold-key.json) |
