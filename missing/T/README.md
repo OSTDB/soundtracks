@@ -1485,6 +1485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Windy Land | 66046 | [66046-tales-of-windy-land.json](./66046-tales-of-windy-land.json) |
 | Tales of Xillia / Tales of Xillia 2 | 98731 | [98731-tales-of-xillia-tales-of-xillia-2.json](./98731-tales-of-xillia-tales-of-xillia-2.json) |
 | Tales of Xillia 2 | 1213 | [1213-tales-of-xillia-2.json](./1213-tales-of-xillia-2.json) |
+| Tales of Xillia 2 Remastered | 375051 | [375051-tales-of-xillia-2-remastered.json](./375051-tales-of-xillia-2-remastered.json) |
 | Tales Of Xillia 2: Collector's Edition | 42961 | [42961-tales-of-xillia-2-collectors-edition.json](./42961-tales-of-xillia-2-collectors-edition.json) |
 | Tales of Xillia Remastered | 361791 | [361791-tales-of-xillia-remastered.json](./361791-tales-of-xillia-remastered.json) |
 | Tales of Xillia Remastered: Deluxe Edition | 365550 | [365550-tales-of-xillia-remastered-deluxe-edition.json](./365550-tales-of-xillia-remastered-deluxe-edition.json) |
@@ -3956,6 +3957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest: Treasure Lands | 151542 | [151542-tempest-treasure-lands.json](./151542-tempest-treasure-lands.json) |
 | Tempete sur les Bermudes | 310966 | [310966-tempete-sur-les-bermudes.json](./310966-tempete-sur-les-bermudes.json) |
 | Templar | 324332 | [324332-templar.json](./324332-templar.json) |
+| Templar Assault | 375057 | [375057-templar-assault.json](./375057-templar-assault.json) |
 | Templar Battleforce | 13217 | [13217-templar-battleforce.json](./13217-templar-battleforce.json) |
 | Templar Battleforce Elite | 89703 | [89703-templar-battleforce-elite.json](./89703-templar-battleforce-elite.json) |
 | Templar Castle Builder | 152790 | [152790-templar-castle-builder.json](./152790-templar-castle-builder.json) |
@@ -11087,6 +11089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hallways | 284310 | [284310-the-hallways.json](./284310-the-hallways.json) |
 | The Hallways | 313655 | [313655-the-hallways.json](./313655-the-hallways.json) |
 | The Halting Solution | 364639 | [364639-the-halting-solution.json](./364639-the-halting-solution.json) |
+| The Hambagu Shop | 375083 | [375083-the-hambagu-shop.json](./375083-the-hambagu-shop.json) |
 | The Hamburger Isles | 356292 | [356292-the-hamburger-isles.json](./356292-the-hamburger-isles.json) |
 | The Hamiltonian Circuit | 297612 | [297612-the-hamiltonian-circuit.json](./297612-the-hamiltonian-circuit.json) |
 | The Hamlet | 326991 | [326991-the-hamlet.json](./326991-the-hamlet.json) |
@@ -15171,6 +15174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The No Goblin Complete Collection | 53767 | [53767-the-no-goblin-complete-collection.json](./53767-the-no-goblin-complete-collection.json) |
 | The No Jumpscare Show | 416253 | [416253-the-no-jumpscare-show.json](./416253-the-no-jumpscare-show.json) |
 | The No No Man | 316412 | [316412-the-no-no-man.json](./316412-the-no-no-man.json) |
+| The Nobody Woods: Lucy | 375082 | [375082-the-nobody-woods-lucy.json](./375082-the-nobody-woods-lucy.json) |
 | The Node | 391425 | [391425-the-node.json](./391425-the-node.json) |
 | The Nodus | 219897 | [219897-the-nodus.json](./219897-the-nodus.json) |
 | The Noexistencen of You and Me | 325916 | [325916-the-noexistencen-of-you-and-me.json](./325916-the-noexistencen-of-you-and-me.json) |
@@ -24396,6 +24400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time's Tear | 417964 | [417964-times-tear.json](./417964-times-tear.json) |
 | Time's Up | 75409 | [75409-times-up.json](./75409-times-up.json) |
 | Time's Up in Tiny Town | 190471 | [190471-times-up-in-tiny-town.json](./190471-times-up-in-tiny-town.json) |
+| Timeater | 375054 | [375054-timeater.json](./375054-timeater.json) |
 | Timeball | 7791 | [7791-timeball.json](./7791-timeball.json) |
 | Timebomb | 135085 | [135085-timebomb.json](./135085-timebomb.json) |
 | TimeBomb90second | 289179 | [289179-timebomb90second.json](./289179-timebomb90second.json) |
@@ -32037,6 +32042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Girl 3D 2 | 196099 | [196099-treasure-girl-3d-2.json](./196099-treasure-girl-3d-2.json) |
 | Treasure Grab | 199198 | [199198-treasure-grab.json](./199198-treasure-grab.json) |
 | Treasure Guardian: Collector Shift Defender's Saga | 301536 | [301536-treasure-guardian-collector-shift-defenders-saga.json](./301536-treasure-guardian-collector-shift-defenders-saga.json) |
+| Treasure Guessr | 375058 | [375058-treasure-guessr.json](./375058-treasure-guessr.json) |
 | Treasure Hunt | 12969 | [12969-treasure-hunt.json](./12969-treasure-hunt.json) |
 | Treasure Hunt | 208892 | [208892-treasure-hunt.json](./208892-treasure-hunt.json) |
 | Treasure Hunt | 230708 | [230708-treasure-hunt.json](./230708-treasure-hunt.json) |
