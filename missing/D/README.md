@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DACHstudio Jigsaw Puzzle Box: Vanlau's Tinybuns | 289862 | [289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json](./289862-dachstudio-jigsaw-puzzle-box-vanlaus-tinybuns.json) |
 | DACHstudio Puzzle Box: Falkis Potpourri | 357981 | [357981-dachstudio-puzzle-box-falkis-potpourri.json](./357981-dachstudio-puzzle-box-falkis-potpourri.json) |
 | DachStudio Puzzle Box: Grimmstories by datGestruepp | 296427 | [296427-dachstudio-puzzle-box-grimmstories-by-datgestruepp.json](./296427-dachstudio-puzzle-box-grimmstories-by-datgestruepp.json) |
+| DACHstudio Puzzle Box: JujiBla Landscapes | 357985 | [357985-dachstudio-puzzle-box-jujibla-landscapes.json](./357985-dachstudio-puzzle-box-jujibla-landscapes.json) |
 | DachStudio Puzzle Box: JuVentures | 296428 | [296428-dachstudio-puzzle-box-juventures.json](./296428-dachstudio-puzzle-box-juventures.json) |
 | DachStudio Puzzle Box: Megumi_M Gemstone Zodiacs | 296429 | [296429-dachstudio-puzzle-box-megumi-m-gemstone-zodiacs.json](./296429-dachstudio-puzzle-box-megumi-m-gemstone-zodiacs.json) |
 | DACHstudio Puzzle Box: Melextis' Unicorns | 357984 | [357984-dachstudio-puzzle-box-melextis-unicorns.json](./357984-dachstudio-puzzle-box-melextis-unicorns.json) |
@@ -2003,6 +2004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
 | Dark Scrolls | 395294 | [395294-dark-scrolls.json](./395294-dark-scrolls.json) |
 | Dark Scythe | 313965 | [313965-dark-scythe.json](./313965-dark-scythe.json) |
+| Dark Sea | 357529 | [357529-dark-sea.json](./357529-dark-sea.json) |
 | Dark Secrets | 53912 | [53912-dark-secrets.json](./53912-dark-secrets.json) |
 | Dark Secrets Mystery Files | 399627 | [399627-dark-secrets-mystery-files.json](./399627-dark-secrets-mystery-files.json) |
 | Dark Secrets of Africa | 71341 | [71341-dark-secrets-of-africa.json](./71341-dark-secrets-of-africa.json) |
@@ -4594,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadzone: Rogue - Apophis | 373616 | [373616-deadzone-rogue-apophis.json](./373616-deadzone-rogue-apophis.json) |
 | Deadzone: Rogue - Deluxe Edition | 393895 | [393895-deadzone-rogue-deluxe-edition.json](./393895-deadzone-rogue-deluxe-edition.json) |
 | Deadzone: Rogue - Mark II Pack | 393898 | [393898-deadzone-rogue-mark-ii-pack.json](./393898-deadzone-rogue-mark-ii-pack.json) |
+| Deadzone: Rogue: Operative Pack | 357508 | [357508-deadzone-rogue-operative-pack.json](./357508-deadzone-rogue-operative-pack.json) |
 | DeadZone: Survival Ops Zombie Shooter | 376225 | [376225-deadzone-survival-ops-zombie-shooter.json](./376225-deadzone-survival-ops-zombie-shooter.json) |
 | DeadZone: Survival Ops Zombie Shooter & WW2 Soldiers of Honor - Warzone Assault | 393065 | [393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json](./393065-deadzone-survival-ops-zombie-shooter-and-ww2-soldiers-of-honor-warzone-assault.json) |
 | Deadzoned | 157461 | [157461-deadzoned.json](./157461-deadzoned.json) |
@@ -5042,6 +5045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Train!!! Samara – Voronezh. | 362357 | [362357-death-train-samara-voronezh.json](./362357-death-train-samara-voronezh.json) |
 | Death Trap | 12566 | [12566-death-trap.json](./12566-death-trap.json) |
 | Death Trap | 23205 | [23205-death-trap.json](./23205-death-trap.json) |
+| Death Trash: Perished City | 357511 | [357511-death-trash-perished-city.json](./357511-death-trash-perished-city.json) |
 | Death Travelers | 315124 | [315124-death-travelers.json](./315124-death-travelers.json) |
 | Death tree | 291735 | [291735-death-tree.json](./291735-death-tree.json) |
 | Death Trial | 357670 | [357670-death-trial.json](./357670-death-trial.json) |
@@ -10300,6 +10304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Run | 8309 | [8309-dino-run.json](./8309-dino-run.json) |
 | Dino Run 2 | 87853 | [87853-dino-run-2.json](./87853-dino-run-2.json) |
 | Dino Run DX | 16636 | [16636-dino-run-dx.json](./16636-dino-run-dx.json) |
+| Dino Run Puzzle | 357986 | [357986-dino-run-puzzle.json](./357986-dino-run-puzzle.json) |
 | Dino Run SE | 64965 | [64965-dino-run-se.json](./64965-dino-run-se.json) |
 | Dino Run: Marathon of Doom | 74166 | [74166-dino-run-marathon-of-doom.json](./74166-dino-run-marathon-of-doom.json) |
 | Dino Running from a Furry: Gamesforfarm | 327727 | [327727-dino-running-from-a-furry-gamesforfarm.json](./327727-dino-running-from-a-furry-gamesforfarm.json) |
@@ -17372,6 +17377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreampunk | 248798 | [248798-dreampunk.json](./248798-dreampunk.json) |
 | Dreampunk: Virtual Unreality | 278316 | [278316-dreampunk-virtual-unreality.json](./278316-dreampunk-virtual-unreality.json) |
 | DreamPusher | 368047 | [368047-dreampusher.json](./368047-dreampusher.json) |
+| DreamPuzzle | 357987 | [357987-dreampuzzle.json](./357987-dreampuzzle.json) |
 | DreamRace | 412052 | [412052-dreamrace.json](./412052-dreamrace.json) |
 | DreamRace 4x4 | 175492 | [175492-dreamrace-4x4.json](./175492-dreamrace-4x4.json) |
 | Dreamrealm's Tower of Despair | 353379 | [353379-dreamrealms-tower-of-despair.json](./353379-dreamrealms-tower-of-despair.json) |
@@ -19548,6 +19554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Overlord | 65261 | [65261-dungeon-overlord.json](./65261-dungeon-overlord.json) |
 | Dungeon Overseer | 163017 | [163017-dungeon-overseer.json](./163017-dungeon-overseer.json) |
 | Dungeon Pain Maniac | 117561 | [117561-dungeon-pain-maniac.json](./117561-dungeon-pain-maniac.json) |
+| Dungeon Parkour Block Puzzle Adventure | 357988 | [357988-dungeon-parkour-block-puzzle-adventure.json](./357988-dungeon-parkour-block-puzzle-adventure.json) |
 | Dungeon Party | 134613 | [134613-dungeon-party.json](./134613-dungeon-party.json) |
 | Dungeon Party | 15317 | [15317-dungeon-party.json](./15317-dungeon-party.json) |
 | Dungeon Party | 296233 | [296233-dungeon-party.json](./296233-dungeon-party.json) |
