@@ -4208,6 +4208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Kart 360 | 309681 | [309681-vr-kart-360.json](./309681-vr-kart-360.json) |
 | VR Karts | 35536 | [35536-vr-karts.json](./35536-vr-karts.json) |
 | VR Karts SteamVR | 34002 | [34002-vr-karts-steamvr.json](./34002-vr-karts-steamvr.json) |
+| VR Katherine | 368402 | [368402-vr-katherine.json](./368402-vr-katherine.json) |
 | VR Kayaking Game | 186255 | [186255-vr-kayaking-game.json](./186255-vr-kayaking-game.json) |
 | VR King Arthur's Sword in Romano Britania | 164422 | [164422-vr-king-arthurs-sword-in-romano-britania.json](./164422-vr-king-arthurs-sword-in-romano-britania.json) |
 | VR King of Battle Cards | 155674 | [155674-vr-king-of-battle-cards.json](./155674-vr-king-of-battle-cards.json) |
@@ -4510,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vs. RetroSpecter | 372149 | [372149-vs-retrospecter.json](./372149-vs-retrospecter.json) |
 | Vs. RetroSpecter P2: Infernadise | 378156 | [378156-vs-retrospecter-p2-infernadise.json](./378156-vs-retrospecter-p2-infernadise.json) |
 | Vs. Self | 311143 | [311143-vs-self.json](./311143-vs-self.json) |
+| Vs. Sky | 368166 | [368166-vs-sky.json](./368166-vs-sky.json) |
 | Vs. Slalom | 40543 | [40543-vs-slalom.json](./40543-vs-slalom.json) |
 | Vs. Soccer | 40542 | [40542-vs-soccer.json](./40542-vs-soccer.json) |
 | Vs. Star Luster | 214576 | [214576-vs-star-luster.json](./214576-vs-star-luster.json) |
