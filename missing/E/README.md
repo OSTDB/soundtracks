@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Punk | 381634 | [381634-echo-punk.json](./381634-echo-punk.json) |
 | Echo Re:kill | 365911 | [365911-echo-re-kill.json](./365911-echo-re-kill.json) |
 | Echo Resonance | 423074 | [423074-echo-resonance.json](./423074-echo-resonance.json) |
+| Echo Rift | 344047 | [344047-echo-rift.json](./344047-echo-rift.json) |
 | Echo Royale | 116784 | [116784-echo-royale.json](./116784-echo-royale.json) |
 | Echo Signal | 329101 | [329101-echo-signal.json](./329101-echo-signal.json) |
 | Echo Stalker | 425408 | [425408-echo-stalker.json](./425408-echo-stalker.json) |
@@ -7430,6 +7431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evershard: Heroes of Gallan's Landing | 404828 | [404828-evershard-heroes-of-gallans-landing.json](./404828-evershard-heroes-of-gallans-landing.json) |
 | Evershire | 320062 | [320062-evershire.json](./320062-evershire.json) |
 | Eversiege | 304657 | [304657-eversiege.json](./304657-eversiege.json) |
+| EverSiege: Untold Ages | 344068 | [344068-eversiege-untold-ages.json](./344068-eversiege-untold-ages.json) |
 | Eversion | 14402 | [14402-eversion.json](./14402-eversion.json) |
 | Everslash | 122424 | [122424-everslash.json](./122424-everslash.json) |
 | Everslaught Invasion | 252108 | [252108-everslaught-invasion.json](./252108-everslaught-invasion.json) |
