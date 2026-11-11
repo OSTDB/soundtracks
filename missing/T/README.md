@@ -6831,6 +6831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Best Stories, The Best Time for Us | 114297 | [114297-the-best-stories-the-best-time-for-us.json](./114297-the-best-stories-the-best-time-for-us.json) |
 | The Best Text Adventure | 308410 | [308410-the-best-text-adventure.json](./308410-the-best-text-adventure.json) |
 | The Best Treasure | 302218 | [302218-the-best-treasure.json](./302218-the-best-treasure.json) |
+| The Bestest Alchemist | 371171 | [371171-the-bestest-alchemist.json](./371171-the-bestest-alchemist.json) |
 | The Better Angels | 281370 | [281370-the-better-angels.json](./281370-the-better-angels.json) |
 | The Better Dead Ratification | 156190 | [156190-the-better-dead-ratification.json](./156190-the-better-dead-ratification.json) |
 | The Better Place | 229707 | [229707-the-better-place.json](./229707-the-better-place.json) |
@@ -8642,6 +8643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deadseat | 343226 | [343226-the-deadseat.json](./343226-the-deadseat.json) |
 | The Deal | 292893 | [292893-the-deal.json](./292893-the-deal.json) |
 | The Deal | 30118 | [30118-the-deal.json](./30118-the-deal.json) |
+| The Deal | 371149 | [371149-the-deal.json](./371149-the-deal.json) |
 | The Dealer | 121899 | [121899-the-dealer.json](./121899-the-dealer.json) |
 | The Dealer | 234805 | [234805-the-dealer.json](./234805-the-dealer.json) |
 | The Dearest Person | 301630 | [301630-the-dearest-person.json](./301630-the-dearest-person.json) |
@@ -9571,6 +9573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ever-Changing Jianghu | 280080 | [280080-the-ever-changing-jianghu.json](./280080-the-ever-changing-jianghu.json) |
 | The Everlasting Lovestory at the Windcap | 322019 | [322019-the-everlasting-lovestory-at-the-windcap.json](./322019-the-everlasting-lovestory-at-the-windcap.json) |
 | The Everloom | 377901 | [377901-the-everloom.json](./377901-the-everloom.json) |
+| The Everything Building | 371167 | [371167-the-everything-building.json](./371167-the-everything-building.json) |
 | The Eviction Game | 142559 | [142559-the-eviction-game.json](./142559-the-eviction-game.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
 | The Evil Church | 179319 | [179319-the-evil-church.json](./179319-the-evil-church.json) |
@@ -31819,6 +31822,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trashville | 29546 | [29546-trashville.json](./29546-trashville.json) |
 | Trashworld Chaos | 323480 | [323480-trashworld-chaos.json](./323480-trashworld-chaos.json) |
 | Trashyard | 163192 | [163192-trashyard.json](./163192-trashyard.json) |
+| Trasmoz Legends: Revenge of Trasmoz | 371174 | [371174-trasmoz-legends-revenge-of-trasmoz.json](./371174-trasmoz-legends-revenge-of-trasmoz.json) |
+| Trasmoz Legends: The Curse of Trasmoz | 371175 | [371175-trasmoz-legends-the-curse-of-trasmoz.json](./371175-trasmoz-legends-the-curse-of-trasmoz.json) |
 | Trasta | 128978 | [128978-trasta.json](./128978-trasta.json) |
 | Tratel64 | 75207 | [75207-tratel64.json](./75207-tratel64.json) |
 | Tratritle | 199674 | [199674-tratritle.json](./199674-tratritle.json) |
@@ -33134,6 +33139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
 | Troll | 53955 | [53955-troll.json](./53955-troll.json) |
 | Troll & Armor | 91856 | [91856-troll-and-armor.json](./91856-troll-and-armor.json) |
+| Troll Chess Sekai | 371162 | [371162-troll-chess-sekai.json](./371162-troll-chess-sekai.json) |
 | Troll Control | 125146 | [125146-troll-control.json](./125146-troll-control.json) |
 | Troll Face Clicker Quest | 105860 | [105860-troll-face-clicker-quest.json](./105860-troll-face-clicker-quest.json) |
 | Troll Face Horror Quest 2: Halloween Special | 144488 | [144488-troll-face-horror-quest-2-halloween-special.json](./144488-troll-face-horror-quest-2-halloween-special.json) |
@@ -33516,6 +33522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 2026: USA | 407646 | [407646-truck-simulator-2026-usa.json](./407646-truck-simulator-2026-usa.json) |
 | Truck Simulator 25 VR: American Driver | 353964 | [353964-truck-simulator-25-vr-american-driver.json](./353964-truck-simulator-25-vr-american-driver.json) |
 | Truck Simulator 25: Euro Driver | 344245 | [344245-truck-simulator-25-euro-driver.json](./344245-truck-simulator-25-euro-driver.json) |
+| Truck Simulator 25: Euro Driver VR | 370611 | [370611-truck-simulator-25-euro-driver-vr.json](./370611-truck-simulator-25-euro-driver-vr.json) |
 | Truck Simulator 3 | 231069 | [231069-truck-simulator-3.json](./231069-truck-simulator-3.json) |
 | Truck Simulator America | 104994 | [104994-truck-simulator-america.json](./104994-truck-simulator-america.json) |
 | Truck Simulator Big Rigs | 363941 | [363941-truck-simulator-big-rigs.json](./363941-truck-simulator-big-rigs.json) |
