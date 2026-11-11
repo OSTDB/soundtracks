@@ -6936,6 +6936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexahedral Pathfinder | 108418 | [108418-hexahedral-pathfinder.json](./108418-hexahedral-pathfinder.json) |
 | Hexalert | 337635 | [337635-hexalert.json](./337635-hexalert.json) |
 | HexaLife | 158117 | [158117-hexalife.json](./158117-hexalife.json) |
+| Hexalith | 350702 | [350702-hexalith.json](./350702-hexalith.json) |
 | Hexalot | 53215 | [53215-hexalot.json](./53215-hexalot.json) |
 | Hexaluga: Dungeons and Hunting | 101400 | [101400-hexaluga-dungeons-and-hunting.json](./101400-hexaluga-dungeons-and-hunting.json) |
 | Hexaluga: Weapon and Shield | 96475 | [96475-hexaluga-weapon-and-shield.json](./96475-hexaluga-weapon-and-shield.json) |
