@@ -6018,6 +6018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Maniac | 262351 | [262351-finger-maniac.json](./262351-finger-maniac.json) |
 | Finger Ninja | 82006 | [82006-finger-ninja.json](./82006-finger-ninja.json) |
 | Finger on the Roof! Go! Rooftop Runner! | 214568 | [214568-finger-on-the-roof-go-rooftop-runner.json](./214568-finger-on-the-roof-go-rooftop-runner.json) |
+| Finger Party | 345744 | [345744-finger-party.json](./345744-finger-party.json) |
 | Finger Physics | 66426 | [66426-finger-physics.json](./66426-finger-physics.json) |
 | Finger Pump | 381990 | [381990-finger-pump.json](./381990-finger-pump.json) |
 | Finger Punch | 378802 | [378802-finger-punch.json](./378802-finger-punch.json) |
@@ -9001,6 +9002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Horde + Clumsy Rush | 230407 | [230407-fluffy-horde-clumsy-rush.json](./230407-fluffy-horde-clumsy-rush.json) |
 | Fluffy Horde + Cyber Protocol | 237571 | [237571-fluffy-horde-cyber-protocol.json](./237571-fluffy-horde-cyber-protocol.json) |
 | Fluffy Kitchen Saga | 369078 | [369078-fluffy-kitchen-saga.json](./369078-fluffy-kitchen-saga.json) |
+| Fluffy Memories | 346281 | [346281-fluffy-memories.json](./346281-fluffy-memories.json) |
 | Fluffy Milo | 195631 | [195631-fluffy-milo.json](./195631-fluffy-milo.json) |
 | Fluffy Party | 365910 | [365910-fluffy-party.json](./365910-fluffy-party.json) |
 | Fluffy Run | 292818 | [292818-fluffy-run.json](./292818-fluffy-run.json) |
@@ -12129,6 +12131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franky, Joe & Dirk... On the Tiles | 49049 | [49049-franky-joe-and-dirk-on-the-tiles.json](./49049-franky-joe-and-dirk-on-the-tiles.json) |
 | Franky's Adventures | 283562 | [283562-frankys-adventures.json](./283562-frankys-adventures.json) |
 | Frankystein | 97451 | [97451-frankystein.json](./97451-frankystein.json) |
+| Franny Answers | 346286 | [346286-franny-answers.json](./346286-franny-answers.json) |
 | Frantic | 292087 | [292087-frantic.json](./292087-frantic.json) |
 | Frantic | 387920 | [387920-frantic.json](./387920-frantic.json) |
 | Frantic Birdies | 357849 | [357849-frantic-birdies.json](./357849-frantic-birdies.json) |
