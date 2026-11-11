@@ -2749,6 +2749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-O-Ri | 111493 | [111493-re-o-ri.json](./111493-re-o-ri.json) |
 | Re-Pair | 139249 | [139249-re-pair.json](./139249-re-pair.json) |
 | Re-Spawn Tournament | 213465 | [213465-re-spawn-tournament.json](./213465-re-spawn-tournament.json) |
+| Re-Taped | 390314 | [390314-re-taped.json](./390314-re-taped.json) |
 | Re-telling | 176955 | [176955-re-telling.json](./176955-re-telling.json) |
 | Re-Volt | 3585 | [3585-re-volt.json](./3585-re-volt.json) |
 | Re-Volt OpenGL | 257552 | [257552-re-volt-opengl.json](./257552-re-volt-opengl.json) |
@@ -4631,6 +4632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Steal | 151984 | [151984-reel-steal.json](./151984-reel-steal.json) |
 | Reel Talk | 389750 | [389750-reel-talk.json](./389750-reel-talk.json) |
 | Reel Talk: A Thoughtful Fishcussion | 408172 | [408172-reel-talk-a-thoughtful-fishcussion.json](./408172-reel-talk-a-thoughtful-fishcussion.json) |
+| Reel Tiny | 390306 | [390306-reel-tiny.json](./390306-reel-tiny.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
 | Reelect JFK | 71833 | [71833-reelect-jfk.json](./71833-reelect-jfk.json) |
 | Reelism | 141643 | [141643-reelism.json](./141643-reelism.json) |
