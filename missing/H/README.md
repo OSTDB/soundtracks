@@ -11753,6 +11753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of the Dying Sun | 25587 | [25587-house-of-the-dying-sun.json](./25587-house-of-the-dying-sun.json) |
 | House of the Golden Mask | 378175 | [378175-house-of-the-golden-mask.json](./378175-house-of-the-golden-mask.json) |
 | House of the Soul | 234198 | [234198-house-of-the-soul.json](./234198-house-of-the-soul.json) |
+| House of the Vigil | 371157 | [371157-house-of-the-vigil.json](./371157-house-of-the-vigil.json) |
 | House of Torment | 308177 | [308177-house-of-torment.json](./308177-house-of-torment.json) |
 | House of Usher | 125339 | [125339-house-of-usher.json](./125339-house-of-usher.json) |
 | House of Usher | 14560 | [14560-house-of-usher.json](./14560-house-of-usher.json) |
