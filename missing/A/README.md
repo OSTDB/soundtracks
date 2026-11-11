@@ -14821,6 +14821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark Saver | 256225 | [256225-ark-saver.json](./256225-ark-saver.json) |
 | Ark: Aberration | 76206 | [76206-ark-aberration.json](./76206-ark-aberration.json) |
 | Ark: Aberration Ascended | 316101 | [316101-ark-aberration-ascended.json](./316101-ark-aberration-ascended.json) |
+| Ark: Bob's Bundle | 331560 | [331560-ark-bobs-bundle.json](./331560-ark-bobs-bundle.json) |
 | Ark: Bob's Tall Tales | 294908 | [294908-ark-bobs-tall-tales.json](./294908-ark-bobs-tall-tales.json) |
 | ARK: Dinosaur Discovery | 223802 | [223802-ark-dinosaur-discovery.json](./223802-ark-dinosaur-discovery.json) |
 | Ark: Extinction | 103515 | [103515-ark-extinction.json](./103515-ark-extinction.json) |
@@ -17382,6 +17383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrodogs | 138055 | [138055-astrodogs.json](./138055-astrodogs.json) |
 | Astrodrifter | 304682 | [304682-astrodrifter.json](./304682-astrodrifter.json) |
 | AstroDrop | 370620 | [370620-astrodrop.json](./370620-astrodrop.json) |
+| AstroDX | 331575 | [331575-astrodx.json](./331575-astrodx.json) |
 | Astroe | 59234 | [59234-astroe.json](./59234-astroe.json) |
 | AstroFire | 82500 | [82500-astrofire.json](./82500-astrofire.json) |
 | Astroflux | 32875 | [32875-astroflux.json](./32875-astroflux.json) |
@@ -17732,6 +17734,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Outlaw | 64065 | [64065-atari-outlaw.json](./64065-atari-outlaw.json) |
 | Atari R.B.I. Baseball | 40288 | [40288-atari-r-b-i-baseball.json](./40288-atari-r-b-i-baseball.json) |
 | Atari Recharged Bundle | 230800 | [230800-atari-recharged-bundle.json](./230800-atari-recharged-bundle.json) |
+| Atari Recharged Bundle: Asteroids + Breakout | 331561 | [331561-atari-recharged-bundle-asteroids-breakout.json](./331561-atari-recharged-bundle-asteroids-breakout.json) |
+| Atari Recharged Bundle: Berzerk + Quantum | 331562 | [331562-atari-recharged-bundle-berzerk-quantum.json](./331562-atari-recharged-bundle-berzerk-quantum.json) |
+| Atari Recharged Bundle: Centipede + Black Widow | 331563 | [331563-atari-recharged-bundle-centipede-black-widow.json](./331563-atari-recharged-bundle-centipede-black-widow.json) |
+| Atari Recharged Bundle: Gravitar + Missile Command | 331564 | [331564-atari-recharged-bundle-gravitar-missile-command.json](./331564-atari-recharged-bundle-gravitar-missile-command.json) |
+| Atari Recharged Bundle: Yars + Caverns of Mars | 331566 | [331566-atari-recharged-bundle-yars-caverns-of-mars.json](./331566-atari-recharged-bundle-yars-caverns-of-mars.json) |
 | Atari Recharged Collection 3 | 341962 | [341962-atari-recharged-collection-3.json](./341962-atari-recharged-collection-3.json) |
 | Atari Recharged Collection 4 | 341964 | [341964-atari-recharged-collection-4.json](./341964-atari-recharged-collection-4.json) |
 | Atari Recharged: Volume One | 324499 | [324499-atari-recharged-volume-one.json](./324499-atari-recharged-volume-one.json) |
@@ -18754,6 +18761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Author Clicker | 115889 | [115889-author-clicker.json](./115889-author-clicker.json) |
 | Author Sim | 392011 | [392011-author-sim.json](./392011-author-sim.json) |
 | Auti-Sim | 306806 | [306806-auti-sim.json](./306806-auti-sim.json) |
+| Auto Adventures | 331592 | [331592-auto-adventures.json](./331592-auto-adventures.json) |
 | Auto Afterlife | 133251 | [133251-auto-afterlife.json](./133251-auto-afterlife.json) |
 | Auto Age: Standoff | 33119 | [33119-auto-age-standoff.json](./33119-auto-age-standoff.json) |
 | Auto Assault | 20625 | [20625-auto-assault.json](./20625-auto-assault.json) |
