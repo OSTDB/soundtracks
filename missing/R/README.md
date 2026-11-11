@@ -3570,7 +3570,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reasoning of Courage Nori 8 Definition of Kindness | 317274 | [317274-reasoning-of-courage-nori-8-definition-of-kindness.json](./317274-reasoning-of-courage-nori-8-definition-of-kindness.json) |
 | Reasons | 349789 | [349789-reasons.json](./349789-reasons.json) |
 | Reasons For Kym | 304720 | [304720-reasons-for-kym.json](./304720-reasons-for-kym.json) |
-| Reassembly | 11691 | [11691-reassembly.json](./11691-reassembly.json) |
 | Reave | 335126 | [335126-reave.json](./335126-reave.json) |
 | Reaver | 194429 | [194429-reaver.json](./194429-reaver.json) |
 | Reavers of New Rome | 138133 | [138133-reavers-of-new-rome.json](./138133-reavers-of-new-rome.json) |
@@ -6958,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverb Arcade | 256145 | [256145-reverb-arcade.json](./256145-reverb-arcade.json) |
 | Reverberant | 128619 | [128619-reverberant.json](./128619-reverberant.json) |
 | ReverC | 138994 | [138994-reverc.json](./138994-reverc.json) |
+| Revere | 317718 | [317718-revere.json](./317718-revere.json) |
 | Reverence | 193732 | [193732-reverence.json](./193732-reverence.json) |
 | Reverence: The Ultimate Combat Experience | 32493 | [32493-reverence-the-ultimate-combat-experience.json](./32493-reverence-the-ultimate-combat-experience.json) |
 | Reverend | 305123 | [305123-reverend.json](./305123-reverend.json) |
@@ -8713,6 +8713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual | 327677 | [327677-ritual.json](./327677-ritual.json) |
 | Ritual | 343168 | [343168-ritual.json](./343168-ritual.json) |
 | Ritual Bound | 250120 | [250120-ritual-bound.json](./250120-ritual-bound.json) |
+| Ritual Chamber | 317713 | [317713-ritual-chamber.json](./317713-ritual-chamber.json) |
 | Ritual Night | 189853 | [189853-ritual-night.json](./189853-ritual-night.json) |
 | Ritual of Raven | 281390 | [281390-ritual-of-raven.json](./281390-ritual-of-raven.json) |
 | Ritual of the Moon | 113185 | [113185-ritual-of-the-moon.json](./113185-ritual-of-the-moon.json) |
@@ -9368,6 +9369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Oh vs. Uchu Mega Fight | 351570 | [351570-robo-oh-vs-uchu-mega-fight.json](./351570-robo-oh-vs-uchu-mega-fight.json) |
 | Robo Panic | 307599 | [307599-robo-panic.json](./307599-robo-panic.json) |
 | Robo Pit | 20249 | [20249-robo-pit.json](./20249-robo-pit.json) |
+| Robo Pit | 317716 | [317716-robo-pit.json](./317716-robo-pit.json) |
 | Robo pocket: 3d fighter with rollback | 195925 | [195925-robo-pocket-3d-fighter-with-rollback.json](./195925-robo-pocket-3d-fighter-with-rollback.json) |
 | Robo Pose | 296354 | [296354-robo-pose.json](./296354-robo-pose.json) |
 | Robo Puzzle Smash | 88023 | [88023-robo-puzzle-smash.json](./88023-robo-puzzle-smash.json) |
