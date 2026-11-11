@@ -13119,6 +13119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorful Tower of Hanoi | 386701 | [386701-colorful-tower-of-hanoi.json](./386701-colorful-tower-of-hanoi.json) |
 | Colorful Trip | 150337 | [150337-colorful-trip.json](./150337-colorful-trip.json) |
 | Colorful3D II | 131623 | [131623-colorful3d-ii.json](./131623-colorful3d-ii.json) |
+| Colorfull Games Bundle | 331559 | [331559-colorfull-games-bundle.json](./331559-colorfull-games-bundle.json) |
 | Colorfuly Ball | 321485 | [321485-colorfuly-ball.json](./321485-colorfuly-ball.json) |
 | ColorFusion | 289119 | [289119-colorfusion.json](./289119-colorfusion.json) |
 | Colorider | 213324 | [213324-colorider.json](./213324-colorider.json) |
@@ -21074,6 +21075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuprum2929 | 311131 | [311131-cuprum2929.json](./311131-cuprum2929.json) |
 | Cups and Cats | 181722 | [181722-cups-and-cats.json](./181722-cups-and-cats.json) |
 | Cura | 287792 | [287792-cura.json](./287792-cura.json) |
+| Curation | 331594 | [331594-curation.json](./331594-curation.json) |
 | Curatours | 181083 | [181083-curatours.json](./181083-curatours.json) |
 | Curb Hound | 414100 | [414100-curb-hound.json](./414100-curb-hound.json) |
 | Curdle | 382578 | [382578-curdle.json](./382578-curdle.json) |
