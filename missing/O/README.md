@@ -3096,6 +3096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oniko Kororin Game | 300928 | [300928-oniko-kororin-game.json](./300928-oniko-kororin-game.json) |
 | Onikura | 315189 | [315189-onikura.json](./315189-onikura.json) |
 | Onimod Land | 74992 | [74992-onimod-land.json](./74992-onimod-land.json) |
+| Onimusha 1+2 Pack | 345724 | [345724-onimusha-1-2-pack.json](./345724-onimusha-1-2-pack.json) |
 | Onimusha 2: Samurai's Destiny | 11757 | [11757-onimusha-2-samurais-destiny.json](./11757-onimusha-2-samurais-destiny.json) |
 | Onimusha 2: Samurai's Destiny | 330283 | [330283-onimusha-2-samurais-destiny.json](./330283-onimusha-2-samurais-destiny.json) |
 | Onimusha 3: Demon Siege | 11758 | [11758-onimusha-3-demon-siege.json](./11758-onimusha-3-demon-siege.json) |
