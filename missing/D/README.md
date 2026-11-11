@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing on Ice | 20419 | [20419-dancing-on-ice.json](./20419-dancing-on-ice.json) |
 | Dancing Onigiri | 210330 | [210330-dancing-onigiri.json](./210330-dancing-onigiri.json) |
 | Dancing Pandas | 236881 | [236881-dancing-pandas.json](./236881-dancing-pandas.json) |
+| Dancing Pandas: Ranger's Path | 331032 | [331032-dancing-pandas-rangers-path.json](./331032-dancing-pandas-rangers-path.json) |
 | Dancing Queen: Club Puzzle | 107059 | [107059-dancing-queen-club-puzzle.json](./107059-dancing-queen-club-puzzle.json) |
 | Dancing Road: Color Ball Run! | 120309 | [120309-dancing-road-color-ball-run.json](./120309-dancing-road-color-ball-run.json) |
 | Dancing Snake | 89138 | [89138-dancing-snake.json](./89138-dancing-snake.json) |
@@ -8076,6 +8077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Forsaken - Season of the Drifter | 129887 | [129887-destiny-2-forsaken-season-of-the-drifter.json](./129887-destiny-2-forsaken-season-of-the-drifter.json) |
 | Destiny 2: Forsaken - Season of the Forge | 129889 | [129889-destiny-2-forsaken-season-of-the-forge.json](./129889-destiny-2-forsaken-season-of-the-forge.json) |
 | Destiny 2: Forsaken Pack | 227352 | [227352-destiny-2-forsaken-pack.json](./227352-destiny-2-forsaken-pack.json) |
+| Destiny 2: Heresy | 331040 | [331040-destiny-2-heresy.json](./331040-destiny-2-heresy.json) |
 | Destiny 2: Heresy Silver Bundle | 330703 | [330703-destiny-2-heresy-silver-bundle.json](./330703-destiny-2-heresy-silver-bundle.json) |
 | Destiny 2: Into The Light | 291624 | [291624-destiny-2-into-the-light.json](./291624-destiny-2-into-the-light.json) |
 | Destiny 2: Launch Edition | 82386 | [82386-destiny-2-launch-edition.json](./82386-destiny-2-launch-edition.json) |
