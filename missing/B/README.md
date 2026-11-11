@@ -17676,7 +17676,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble 2 | 298940 | [298940-bubble-bobble-2.json](./298940-bubble-bobble-2.json) |
 | Bubble Bobble 2 classic | 232400 | [232400-bubble-bobble-2-classic.json](./232400-bubble-bobble-2-classic.json) |
 | Bubble Bobble 4 CPC | 39080 | [39080-bubble-bobble-4-cpc.json](./39080-bubble-bobble-4-cpc.json) |
-| Bubble Bobble 4 Friends | 121708 | [121708-bubble-bobble-4-friends.json](./121708-bubble-bobble-4-friends.json) |
 | Bubble Bobble 4 Friends: Special Edition | 136075 | [136075-bubble-bobble-4-friends-special-edition.json](./136075-bubble-bobble-4-friends-special-edition.json) |
 | Bubble Bobble 4 Friends: The Baron Is Back! | 139837 | [139837-bubble-bobble-4-friends-the-baron-is-back.json](./139837-bubble-bobble-4-friends-the-baron-is-back.json) |
 | Bubble Bobble Also Featuring Rainbow Islands | 78385 | [78385-bubble-bobble-also-featuring-rainbow-islands.json](./78385-bubble-bobble-also-featuring-rainbow-islands.json) |
