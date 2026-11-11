@@ -13659,6 +13659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hysteria Hospital: Emergency Ward | 4920 | [4920-hysteria-hospital-emergency-ward.json](./4920-hysteria-hospital-emergency-ward.json) |
 | Hysteria in Howlsbend | 264396 | [264396-hysteria-in-howlsbend.json](./264396-hysteria-in-howlsbend.json) |
 | Hysteria Project 2 | 20623 | [20623-hysteria-project-2.json](./20623-hysteria-project-2.json) |
+| Hysteric Kingdom | 351344 | [351344-hysteric-kingdom.json](./351344-hysteric-kingdom.json) |
 | Hysteric Mama | 385329 | [385329-hysteric-mama.json](./385329-hysteric-mama.json) |
 | Hytopia | 374978 | [374978-hytopia.json](./374978-hytopia.json) |
 | Hyzer Sky | 138566 | [138566-hyzer-sky.json](./138566-hyzer-sky.json) |
