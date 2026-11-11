@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game About Penguins | 346487 | [346487-a-game-about-penguins.json](./346487-a-game-about-penguins.json) |
 | A Game About Picking Fruits | 422829 | [422829-a-game-about-picking-fruits.json](./422829-a-game-about-picking-fruits.json) |
 | A Game About Plant | 379506 | [379506-a-game-about-plant.json](./379506-a-game-about-plant.json) |
+| A Game About Ramen | 387272 | [387272-a-game-about-ramen.json](./387272-a-game-about-ramen.json) |
 | A Game About Selling Used Games | 379505 | [379505-a-game-about-selling-used-games.json](./379505-a-game-about-selling-used-games.json) |
 | A Game About Shooting Bullets At Bullets | 383674 | [383674-a-game-about-shooting-bullets-at-bullets.json](./383674-a-game-about-shooting-bullets-at-bullets.json) |
 | A Game About Sucking (Up Ghosts With a Vacuum) | 402671 | [402671-a-game-about-sucking-up-ghosts-with-a-vacuum.json](./402671-a-game-about-sucking-up-ghosts-with-a-vacuum.json) |
@@ -7888,6 +7889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All the Mods 10 | 388536 | [388536-all-the-mods-10.json](./388536-all-the-mods-10.json) |
 | All the Mods 10: To the Sky | 366322 | [366322-all-the-mods-10-to-the-sky.json](./366322-all-the-mods-10-to-the-sky.json) |
 | All the Mods 9: No Frills | 291253 | [291253-all-the-mods-9-no-frills.json](./291253-all-the-mods-9-no-frills.json) |
+| All the Mons | 387071 | [387071-all-the-mons.json](./387071-all-the-mons.json) |
 | All The Places You'll Go (Women As Place) | 393497 | [393497-all-the-places-youll-go-women-as-place.json](./393497-all-the-places-youll-go-women-as-place.json) |
 | All the Rain | 96699 | [96699-all-the-rain.json](./96699-all-the-rain.json) |
 | All The Stars | 364866 | [364866-all-the-stars.json](./364866-all-the-stars.json) |
@@ -12188,6 +12190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apathy: Midnight Collection - Vol. 2 | 210819 | [210819-apathy-midnight-collection-vol-2.json](./210819-apathy-midnight-collection-vol-2.json) |
 | Apathy: Napoli no Otoko-tachi in Gakkou de Atta Kowai Hanashi | 212260 | [212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json](./212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json) |
 | Apathy: Narugami Gakuen Nana Fushigi | 206171 | [206171-apathy-narugami-gakuen-nana-fushigi.json](./206171-apathy-narugami-gakuen-nana-fushigi.json) |
+| Apathy: Narugami Gakuen Reikaiki - Kyuukousha no Kaii | 387094 | [387094-apathy-narugami-gakuen-reikaiki-kyuukousha-no-kaii.json](./387094-apathy-narugami-gakuen-reikaiki-kyuukousha-no-kaii.json) |
 | Apathy: Narugami Gakuen Toshi Densetsu Tantei Kyoku | 66997 | [66997-apathy-narugami-gakuen-toshi-densetsu-tantei-kyoku.json](./66997-apathy-narugami-gakuen-toshi-densetsu-tantei-kyoku.json) |
 | Apathy: Rental Kazoku | 212254 | [212254-apathy-rental-kazoku.json](./212254-apathy-rental-kazoku.json) |
 | Apathy: Shougakkou de Atta Kowai Hanashi - Getsuyoubi | 210824 | [210824-apathy-shougakkou-de-atta-kowai-hanashi-getsuyoubi.json](./210824-apathy-shougakkou-de-atta-kowai-hanashi-getsuyoubi.json) |
@@ -13632,6 +13635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Redemption | 154879 | [154879-arcade-redemption.json](./154879-arcade-redemption.json) |
 | Arcade Reflex | 337965 | [337965-arcade-reflex.json](./337965-arcade-reflex.json) |
 | Arcade Room Simulator | 319788 | [319788-arcade-room-simulator.json](./319788-arcade-room-simulator.json) |
+| Arcade Room Simulator 2026 | 387176 | [387176-arcade-room-simulator-2026.json](./387176-arcade-room-simulator-2026.json) |
 | Arcade Shoot-em-up Bundle | 325883 | [325883-arcade-shoot-em-up-bundle.json](./325883-arcade-shoot-em-up-bundle.json) |
 | Arcade Shooting Gallery | 50626 | [50626-arcade-shooting-gallery.json](./50626-arcade-shooting-gallery.json) |
 | Arcade Shop Simulator | 388791 | [388791-arcade-shop-simulator.json](./388791-arcade-shop-simulator.json) |
