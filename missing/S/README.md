@@ -5613,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selenophobia | 96167 | [96167-selenophobia.json](./96167-selenophobia.json) |
 | Selenwald | 190988 | [190988-selenwald.json](./190988-selenwald.json) |
 | Seleos | 334443 | [334443-seleos.json](./334443-seleos.json) |
+| Seleri's Lament | 365920 | [365920-seleris-lament.json](./365920-seleris-lament.json) |
 | Self | 118430 | [118430-self.json](./118430-self.json) |
 | Self | 177635 | [177635-self.json](./177635-self.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
@@ -6563,6 +6564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex | 185852 | [185852-sex.json](./185852-sex.json) |
 | Sex | 77074 | [77074-sex.json](./77074-sex.json) |
 | Sex * Royale: The world that desires and pleasures interweave | 83093 | [83093-sex-royale-the-world-that-desires-and-pleasures-interweave.json](./83093-sex-royale-the-world-that-desires-and-pleasures-interweave.json) |
+| Sex & Coffee | 365918 | [365918-sex-and-coffee.json](./365918-sex-and-coffee.json) |
 | Sex & Drift | 237181 | [237181-sex-and-drift.json](./237181-sex-and-drift.json) |
 | Sex & Gun | 368092 | [368092-sex-and-gun.json](./368092-sex-and-gun.json) |
 | Sex 2 | 185853 | [185853-sex-2.json](./185853-sex-2.json) |
@@ -9112,6 +9114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi III: Return of the Ninja Master | 2623 | [2623-shinobi-iii-return-of-the-ninja-master.json](./2623-shinobi-iii-return-of-the-ninja-master.json) |
 | Shinobi Legions | 10221 | [10221-shinobi-legions.json](./10221-shinobi-legions.json) |
 | Shinobi Match | 332845 | [332845-shinobi-match.json](./332845-shinobi-match.json) |
+| Shinobi Nightmare | 365921 | [365921-shinobi-nightmare.json](./365921-shinobi-nightmare.json) |
 | Shinobi no Dokutsu | 181773 | [181773-shinobi-no-dokutsu.json](./181773-shinobi-no-dokutsu.json) |
 | Shinobi no Okite | 132759 | [132759-shinobi-no-okite.json](./132759-shinobi-no-okite.json) |
 | Shinobi Non Grata | 192565 | [192565-shinobi-non-grata.json](./192565-shinobi-non-grata.json) |
@@ -21054,6 +21057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Megaforce | 42583 | [42583-space-megaforce.json](./42583-space-megaforce.json) |
 | Space Memory TDG | 412970 | [412970-space-memory-tdg.json](./412970-space-memory-tdg.json) |
 | Space Memory: Animals | 340194 | [340194-space-memory-animals.json](./340194-space-memory-animals.json) |
+| Space Memory: Artiodactyls | 365913 | [365913-space-memory-artiodactyls.json](./365913-space-memory-artiodactyls.json) |
 | Space Memory: Butterflies | 343288 | [343288-space-memory-butterflies.json](./343288-space-memory-butterflies.json) |
 | Space Memory: Cats | 340193 | [340193-space-memory-cats.json](./340193-space-memory-cats.json) |
 | Space Memory: Chinchillas | 366098 | [366098-space-memory-chinchillas.json](./366098-space-memory-chinchillas.json) |
@@ -27831,6 +27835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Graves | 143583 | [143583-steel-graves.json](./143583-steel-graves.json) |
 | Steel Guardian | 204364 | [204364-steel-guardian.json](./204364-steel-guardian.json) |
 | Steel Gullet | 417436 | [417436-steel-gullet.json](./417436-steel-gullet.json) |
+| Steel Hail | 365533 | [365533-steel-hail.json](./365533-steel-hail.json) |
 | Steel Harbinger | 9584 | [9584-steel-harbinger.json](./9584-steel-harbinger.json) |
 | Steel Heart | 311855 | [311855-steel-heart.json](./311855-steel-heart.json) |
 | Steel Hearts | 337703 | [337703-steel-hearts.json](./337703-steel-hearts.json) |
@@ -29178,6 +29183,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons: Pioneers of Olive Town - Buffalo Costume | 365902 | [365902-story-of-seasons-pioneers-of-olive-town-buffalo-costume.json](./365902-story-of-seasons-pioneers-of-olive-town-buffalo-costume.json) |
 | Story of Seasons: Pioneers of Olive Town - Deluxe Edition | 141440 | [141440-story-of-seasons-pioneers-of-olive-town-deluxe-edition.json](./141440-story-of-seasons-pioneers-of-olive-town-deluxe-edition.json) |
 | Story of Seasons: Pioneers of Olive Town - Expansion Pass | 365899 | [365899-story-of-seasons-pioneers-of-olive-town-expansion-pass.json](./365899-story-of-seasons-pioneers-of-olive-town-expansion-pass.json) |
+| Story of Seasons: Pioneers of Olive Town - Fox Costume | 365904 | [365904-story-of-seasons-pioneers-of-olive-town-fox-costume.json](./365904-story-of-seasons-pioneers-of-olive-town-fox-costume.json) |
+| Story of Seasons: Pioneers of Olive Town - Neil's Jacket | 365905 | [365905-story-of-seasons-pioneers-of-olive-town-neils-jacket.json](./365905-story-of-seasons-pioneers-of-olive-town-neils-jacket.json) |
 | Story of Seasons: Pioneers of Olive Town - Panda Costume | 366267 | [366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json](./366267-story-of-seasons-pioneers-of-olive-town-panda-costume.json) |
 | Story of Seasons: Pioneers of Olive Town - Premium Edition | 141441 | [141441-story-of-seasons-pioneers-of-olive-town-premium-edition.json](./141441-story-of-seasons-pioneers-of-olive-town-premium-edition.json) |
 | Story of Seasons: Pioneers of Olive Town Special | 197607 | [197607-story-of-seasons-pioneers-of-olive-town-special.json](./197607-story-of-seasons-pioneers-of-olive-town-special.json) |
@@ -31289,6 +31296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Killer | 103420 | [103420-sudoku-killer.json](./103420-sudoku-killer.json) |
 | Sudoku Kingdom | 264099 | [264099-sudoku-kingdom.json](./264099-sudoku-kingdom.json) |
 | Sudoku Man - Number Puzzle | 102769 | [102769-sudoku-man-number-puzzle.json](./102769-sudoku-man-number-puzzle.json) |
+| Sudoku Mania | 365338 | [365338-sudoku-mania.json](./365338-sudoku-mania.json) |
 | Sudoku Mania | 47950 | [47950-sudoku-mania.json](./47950-sudoku-mania.json) |
 | Sudoku Mania! | 208362 | [208362-sudoku-mania.json](./208362-sudoku-mania.json) |
 | Sudoku Mansion | 414326 | [414326-sudoku-mansion.json](./414326-sudoku-mansion.json) |
