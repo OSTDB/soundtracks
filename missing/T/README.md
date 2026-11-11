@@ -5087,6 +5087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tet | 232646 | [232646-tet.json](./232646-tet.json) |
 | Tet Story | 400370 | [400370-tet-story.json](./400370-tet-story.json) |
 | Tet VR | 103610 | [103610-tet-vr.json](./103610-tet-vr.json) |
+| Tet~Craft: The Fourth Temple | 393192 | [393192-tet-craft-the-fourth-temple.json](./393192-tet-craft-the-fourth-temple.json) |
 | Tetanus | 257353 | [257353-tetanus.json](./257353-tetanus.json) |
 | Tete | 409798 | [409798-tete.json](./409798-tete.json) |
 | Tete's Atelier: Patches | 374434 | [374434-tetes-atelier-patches.json](./374434-tetes-atelier-patches.json) |
@@ -7885,6 +7886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
 | The Company Game | 110063 | [110063-the-company-game.json](./110063-the-company-game.json) |
 | The Company Man | 150054 | [150054-the-company-man.json](./150054-the-company-man.json) |
+| The Company of Copperhill | 393162 | [393162-the-company-of-copperhill.json](./393162-the-company-of-copperhill.json) |
 | The Company of Myself | 101723 | [101723-the-company-of-myself.json](./101723-the-company-of-myself.json) |
 | The Complete Carriers at War | 281299 | [281299-the-complete-carriers-at-war.json](./281299-the-complete-carriers-at-war.json) |
 | The Complete Emergency | 136375 | [136375-the-complete-emergency.json](./136375-the-complete-emergency.json) |
@@ -9522,6 +9524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ethernal Spiral | 302551 | [302551-the-ethernal-spiral.json](./302551-the-ethernal-spiral.json) |
 | The Evelyn Game | 370315 | [370315-the-evelyn-game.json](./370315-the-evelyn-game.json) |
 | The Even More Incredible Machine | 70233 | [70233-the-even-more-incredible-machine.json](./70233-the-even-more-incredible-machine.json) |
+| The Evening of the Son | 393155 | [393155-the-evening-of-the-son.json](./393155-the-evening-of-the-son.json) |
 | The Event | 253479 | [253479-the-event.json](./253479-the-event.json) |
 | The Eventide | 411687 | [411687-the-eventide.json](./411687-the-eventide.json) |
 | The Events at Unity Farm: Magic & Melee | 279391 | [279391-the-events-at-unity-farm-magic-and-melee.json](./279391-the-events-at-unity-farm-magic-and-melee.json) |
@@ -16753,6 +16756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sage's Spirit: Shining Flame | 373197 | [373197-the-sages-spirit-shining-flame.json](./373197-the-sages-spirit-shining-flame.json) |
 | The Sagittarian | 381771 | [381771-the-sagittarian.json](./381771-the-sagittarian.json) |
 | The Sagittarian 2 | 381772 | [381772-the-sagittarian-2.json](./381772-the-sagittarian-2.json) |
+| The Sagittarian 4: Bayou | 393146 | [393146-the-sagittarian-4-bayou.json](./393146-the-sagittarian-4-bayou.json) |
 | The Sailor’s Guide to Game Design | 263140 | [263140-the-sailor-s-guide-to-game-design.json](./263140-the-sailor-s-guide-to-game-design.json) |
 | The Saint | 387384 | [387384-the-saint.json](./387384-the-saint.json) |
 | The Saint Wife’s Newlywed Trials | 376560 | [376560-the-saint-wife-s-newlywed-trials.json](./376560-the-saint-wife-s-newlywed-trials.json) |
@@ -21728,6 +21732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrusty Ship | 113660 | [113660-thrusty-ship.json](./113660-thrusty-ship.json) |
 | Thrymly Disguised | 232781 | [232781-thrymly-disguised.json](./232781-thrymly-disguised.json) |
 | Thud Ridge: American Aces in 'Nam | 57594 | [57594-thud-ridge-american-aces-in-nam.json](./57594-thud-ridge-american-aces-in-nam.json) |
+| Thug Destroyer | 393201 | [393201-thug-destroyer.json](./393201-thug-destroyer.json) |
 | Thug Life | 377562 | [377562-thug-life.json](./377562-thug-life.json) |
 | Thug Life | 76080 | [76080-thug-life.json](./76080-thug-life.json) |
 | THUG Pro | 138344 | [138344-thug-pro.json](./138344-thug-pro.json) |
