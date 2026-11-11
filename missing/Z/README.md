@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball World: A Samurai's Vengeance | 354060 | [354060-zen-pinball-world-a-samurais-vengeance.json](./354060-zen-pinball-world-a-samurais-vengeance.json) |
 | Zen Pinball World: Adventures of Lara Croft | 354055 | [354055-zen-pinball-world-adventures-of-lara-croft.json](./354055-zen-pinball-world-adventures-of-lara-croft.json) |
 | Zen Pinball World: Attack from Mars | 354084 | [354084-zen-pinball-world-attack-from-mars.json](./354084-zen-pinball-world-attack-from-mars.json) |
+| Zen Pinball World: Back to the Future Pinball | 354113 | [354113-zen-pinball-world-back-to-the-future-pinball.json](./354113-zen-pinball-world-back-to-the-future-pinball.json) |
 | Zen Pinball World: Banzai Run | 354061 | [354061-zen-pinball-world-banzai-run.json](./354061-zen-pinball-world-banzai-run.json) |
 | Zen Pinball World: Battlestar Galactica Pinball | 354062 | [354062-zen-pinball-world-battlestar-galactica-pinball.json](./354062-zen-pinball-world-battlestar-galactica-pinball.json) |
 | Zen Pinball World: Black Knight 2000 | 354063 | [354063-zen-pinball-world-black-knight-2000.json](./354063-zen-pinball-world-black-knight-2000.json) |
@@ -665,6 +666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball World: Cirqus Voltaire | 354096 | [354096-zen-pinball-world-cirqus-voltaire.json](./354096-zen-pinball-world-cirqus-voltaire.json) |
 | Zen Pinball World: Crypt of the Necrodancer Pinball | 354067 | [354067-zen-pinball-world-crypt-of-the-necrodancer-pinball.json](./354067-zen-pinball-world-crypt-of-the-necrodancer-pinball.json) |
 | Zen Pinball World: Dr. Dude and his Excellent Ray | 354097 | [354097-zen-pinball-world-dr-dude-and-his-excellent-ray.json](./354097-zen-pinball-world-dr-dude-and-his-excellent-ray.json) |
+| Zen Pinball World: E.T. the Extra-Terrestrial Pinball | 354114 | [354114-zen-pinball-world-e-t-the-extra-terrestrial-pinball.json](./354114-zen-pinball-world-e-t-the-extra-terrestrial-pinball.json) |
 | Zen Pinball World: Earthshaker! | 354068 | [354068-zen-pinball-world-earthshaker.json](./354068-zen-pinball-world-earthshaker.json) |
 | Zen Pinball World: Exploding Kittens - A Pinball Cat-astrophe | 354069 | [354069-zen-pinball-world-exploding-kittens-a-pinball-cat-astrophe.json](./354069-zen-pinball-world-exploding-kittens-a-pinball-cat-astrophe.json) |
 | Zen Pinball World: FunHouse | 354098 | [354098-zen-pinball-world-funhouse.json](./354098-zen-pinball-world-funhouse.json) |
@@ -674,7 +676,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball World: Godzilla vs. Kong Pinball | 354100 | [354100-zen-pinball-world-godzilla-vs-kong-pinball.json](./354100-zen-pinball-world-godzilla-vs-kong-pinball.json) |
 | Zen Pinball World: Homeworld - Journey to Hiigara Pinball | 354072 | [354072-zen-pinball-world-homeworld-journey-to-hiigara-pinball.json](./354072-zen-pinball-world-homeworld-journey-to-hiigara-pinball.json) |
 | Zen Pinball World: Hurricane | 354101 | [354101-zen-pinball-world-hurricane.json](./354101-zen-pinball-world-hurricane.json) |
+| Zen Pinball World: Jaws Pinball | 354115 | [354115-zen-pinball-world-jaws-pinball.json](./354115-zen-pinball-world-jaws-pinball.json) |
 | Zen Pinball World: Junk Yard | 354086 | [354086-zen-pinball-world-junk-yard.json](./354086-zen-pinball-world-junk-yard.json) |
+| Zen Pinball World: Jurassic Park Pinball | 354116 | [354116-zen-pinball-world-jurassic-park-pinball.json](./354116-zen-pinball-world-jurassic-park-pinball.json) |
+| Zen Pinball World: Jurassic Park Pinball Mayhem | 354117 | [354117-zen-pinball-world-jurassic-park-pinball-mayhem.json](./354117-zen-pinball-world-jurassic-park-pinball-mayhem.json) |
+| Zen Pinball World: Jurassic World Pinball | 354118 | [354118-zen-pinball-world-jurassic-world-pinball.json](./354118-zen-pinball-world-jurassic-world-pinball.json) |
 | Zen Pinball World: Knight Rider Pinball | 354073 | [354073-zen-pinball-world-knight-rider-pinball.json](./354073-zen-pinball-world-knight-rider-pinball.json) |
 | Zen Pinball World: Kong Pinball | 354102 | [354102-zen-pinball-world-kong-pinball.json](./354102-zen-pinball-world-kong-pinball.json) |
 | Zen Pinball World: Medieval Madness | 354087 | [354087-zen-pinball-world-medieval-madness.json](./354087-zen-pinball-world-medieval-madness.json) |
@@ -690,16 +696,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zen Pinball World: Space Station | 354106 | [354106-zen-pinball-world-space-station.json](./354106-zen-pinball-world-space-station.json) |
 | Zen Pinball World: Star Trek - The Next Generation | 354057 | [354057-zen-pinball-world-star-trek-the-next-generation.json](./354057-zen-pinball-world-star-trek-the-next-generation.json) |
 | Zen Pinball World: Swords of Fury | 354107 | [354107-zen-pinball-world-swords-of-fury.json](./354107-zen-pinball-world-swords-of-fury.json) |
+| Zen Pinball World: Tales of the Arabian Nights | 354108 | [354108-zen-pinball-world-tales-of-the-arabian-nights.json](./354108-zen-pinball-world-tales-of-the-arabian-nights.json) |
 | Zen Pinball World: Terraforming Mars Pinball | 354077 | [354077-zen-pinball-world-terraforming-mars-pinball.json](./354077-zen-pinball-world-terraforming-mars-pinball.json) |
 | Zen Pinball World: The Addams Family | 354078 | [354078-zen-pinball-world-the-addams-family.json](./354078-zen-pinball-world-the-addams-family.json) |
 | Zen Pinball World: The Champion Pub | 354092 | [354092-zen-pinball-world-the-champion-pub.json](./354092-zen-pinball-world-the-champion-pub.json) |
 | Zen Pinball World: The Creature From the Black Lagoon | 354093 | [354093-zen-pinball-world-the-creature-from-the-black-lagoon.json](./354093-zen-pinball-world-the-creature-from-the-black-lagoon.json) |
 | Zen Pinball World: The Getaway - High Speed II | 354094 | [354094-zen-pinball-world-the-getaway-high-speed-ii.json](./354094-zen-pinball-world-the-getaway-high-speed-ii.json) |
+| Zen Pinball World: The Machine - Bride of Pin-Bot | 354109 | [354109-zen-pinball-world-the-machine-bride-of-pin-bot.json](./354109-zen-pinball-world-the-machine-bride-of-pin-bot.json) |
 | Zen Pinball World: The Party Zone | 354056 | [354056-zen-pinball-world-the-party-zone.json](./354056-zen-pinball-world-the-party-zone.json) |
 | Zen Pinball World: The Princess Bride Pinball | 354079 | [354079-zen-pinball-world-the-princess-bride-pinball.json](./354079-zen-pinball-world-the-princess-bride-pinball.json) |
 | Zen Pinball World: Theatre of Magic | 354095 | [354095-zen-pinball-world-theatre-of-magic.json](./354095-zen-pinball-world-theatre-of-magic.json) |
 | Zen Pinball World: Twilight Zone | 354080 | [354080-zen-pinball-world-twilight-zone.json](./354080-zen-pinball-world-twilight-zone.json) |
 | Zen Pinball World: Verne's Mysterious Island | 354081 | [354081-zen-pinball-world-vernes-mysterious-island.json](./354081-zen-pinball-world-vernes-mysterious-island.json) |
+| Zen Pinball World: Whirlwind | 354111 | [354111-zen-pinball-world-whirlwind.json](./354111-zen-pinball-world-whirlwind.json) |
+| Zen Pinball World: White Water | 354112 | [354112-zen-pinball-world-white-water.json](./354112-zen-pinball-world-white-water.json) |
 | Zen Pinball World: World Cup Soccer | 354082 | [354082-zen-pinball-world-world-cup-soccer.json](./354082-zen-pinball-world-world-cup-soccer.json) |
 | Zen Pinball World: Xena - Warrior Princess Pinball | 354083 | [354083-zen-pinball-world-xena-warrior-princess-pinball.json](./354083-zen-pinball-world-xena-warrior-princess-pinball.json) |
 | Zen Pinball: Alien - Isolation Pinball | 354360 | [354360-zen-pinball-alien-isolation-pinball.json](./354360-zen-pinball-alien-isolation-pinball.json) |
@@ -2323,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zompizza | 302102 | [302102-zompizza.json](./302102-zompizza.json) |
 | Zoms & Guns | 190201 | [190201-zoms-and-guns.json](./190201-zoms-and-guns.json) |
 | Zomt | 397171 | [397171-zomt.json](./397171-zomt.json) |
+| Zomvac | 354131 | [354131-zomvac.json](./354131-zomvac.json) |
 | ZomVox | 410705 | [410705-zomvox.json](./410705-zomvox.json) |
 | Zomzoms | 130381 | [130381-zomzoms.json](./130381-zomzoms.json) |
 | Zona 0 | 45374 | [45374-zona-0.json](./45374-zona-0.json) |
