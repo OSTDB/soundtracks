@@ -3781,6 +3781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrambled Egzz | 68524 | [68524-scrambled-egzz.json](./68524-scrambled-egzz.json) |
 | Scrambled Galaxy | 93697 | [93697-scrambled-galaxy.json](./93697-scrambled-galaxy.json) |
 | Scrambled: Syd City | 178896 | [178896-scrambled-syd-city.json](./178896-scrambled-syd-city.json) |
+| Scrambler | 338418 | [338418-scrambler.json](./338418-scrambler.json) |
 | Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
 | Scrandle | 342592 | [342592-scrandle.json](./342592-scrandle.json) |
 | Scranny | 207649 | [207649-scranny.json](./207649-scranny.json) |
@@ -9098,6 +9099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Orb Prequel | 109704 | [109704-shining-orb-prequel.json](./109704-shining-orb-prequel.json) |
 | Shining Plume | 31110 | [31110-shining-plume.json](./31110-shining-plume.json) |
 | Shining Plume 2 | 29385 | [29385-shining-plume-2.json](./29385-shining-plume-2.json) |
+| Shining Princess Lapisphilia | 338417 | [338417-shining-princess-lapisphilia.json](./338417-shining-princess-lapisphilia.json) |
 | Shining Resonance | 44561 | [44561-shining-resonance.json](./44561-shining-resonance.json) |
 | Shining Resonance Refrain | 75865 | [75865-shining-resonance-refrain.json](./75865-shining-resonance-refrain.json) |
 | Shining Resonance Refrain: Draconic Launch Edition | 136281 | [136281-shining-resonance-refrain-draconic-launch-edition.json](./136281-shining-resonance-refrain-draconic-launch-edition.json) |
@@ -22716,6 +22718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound Hearts | 286013 | [286013-spellbound-hearts.json](./286013-spellbound-hearts.json) |
 | Spellbound Party | 268382 | [268382-spellbound-party.json](./268382-spellbound-party.json) |
 | Spellbound Schoolgirls! | 206950 | [206950-spellbound-schoolgirls.json](./206950-spellbound-schoolgirls.json) |
+| Spellbound Skirmish | 338440 | [338440-spellbound-skirmish.json](./338440-spellbound-skirmish.json) |
 | Spellbound Spire | 142428 | [142428-spellbound-spire.json](./142428-spellbound-spire.json) |
 | Spellbound Stumble | 340185 | [340185-spellbound-stumble.json](./340185-spellbound-stumble.json) |
 | Spellbound: A Detective's Tale | 309486 | [309486-spellbound-a-detectives-tale.json](./309486-spellbound-a-detectives-tale.json) |
