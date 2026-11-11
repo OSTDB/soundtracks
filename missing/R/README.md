@@ -2299,6 +2299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rated. | 382386 | [382386-rated.json](./382386-rated.json) |
 | Ratergy | 90532 | [90532-ratergy.json](./90532-ratergy.json) |
 | Rathe: The Beginning | 158379 | [158379-rathe-the-beginning.json](./158379-rathe-the-beginning.json) |
+| Ratico Puzzle Adventure | 357993 | [357993-ratico-puzzle-adventure.json](./357993-ratico-puzzle-adventure.json) |
 | Ratings War | 34357 | [34357-ratings-war.json](./34357-ratings-war.json) |
 | Ratio (Rat Patio) | 337382 | [337382-ratio-rat-patio.json](./337382-ratio-rat-patio.json) |
 | Rations, Please! | 176970 | [176970-rations-please.json](./176970-rations-please.json) |
@@ -5094,6 +5095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relax Industry | 343808 | [343808-relax-industry.json](./343808-relax-industry.json) |
 | Relax It's Aqua | 149544 | [149544-relax-its-aqua.json](./149544-relax-its-aqua.json) |
 | Relax Memory Game | 155903 | [155903-relax-memory-game.json](./155903-relax-memory-game.json) |
+| Relax Scramble: Endless Word Puzzle | 357992 | [357992-relax-scramble-endless-word-puzzle.json](./357992-relax-scramble-endless-word-puzzle.json) |
 | Relax Simulator | 129359 | [129359-relax-simulator.json](./129359-relax-simulator.json) |
 | Relax Walk VR | 37020 | [37020-relax-walk-vr.json](./37020-relax-walk-vr.json) |
 | Relaxation balls | 30765 | [30765-relaxation-balls.json](./30765-relaxation-balls.json) |
