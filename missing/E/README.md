@@ -2267,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Election Manager 2016 | 94887 | [94887-election-manager-2016.json](./94887-election-manager-2016.json) |
 | Election Town | 218055 | [218055-election-town.json](./218055-election-town.json) |
 | Election Train | 406206 | [406206-election-train.json](./406206-election-train.json) |
+| Election Tycoon: Trump vs. Harris | 322288 | [322288-election-tycoon-trump-vs-harris.json](./322288-election-tycoon-trump-vs-harris.json) |
 | Election Year Knockout | 130663 | [130663-election-year-knockout.json](./130663-election-year-knockout.json) |
 | Election Year Knockout: Boxing | 264012 | [264012-election-year-knockout-boxing.json](./264012-election-year-knockout-boxing.json) |
 | Electioneering | 174080 | [174080-electioneering.json](./174080-electioneering.json) |
