@@ -4055,6 +4055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Maze | 405037 | [405037-endless-maze.json](./405037-endless-maze.json) |
 | Endless Memories | 126265 | [126265-endless-memories.json](./126265-endless-memories.json) |
 | Endless Midnight: Zombie Swarm | 65960 | [65960-endless-midnight-zombie-swarm.json](./65960-endless-midnight-zombie-swarm.json) |
+| Endless Mind | 327494 | [327494-endless-mind.json](./327494-endless-mind.json) |
 | Endless Mines | 182790 | [182790-endless-mines.json](./182790-endless-mines.json) |
 | Endless Monday: Dreams and Deadlines | 236360 | [236360-endless-monday-dreams-and-deadlines.json](./236360-endless-monday-dreams-and-deadlines.json) |
 | Endless Mountain | 234058 | [234058-endless-mountain.json](./234058-endless-mountain.json) |
@@ -6754,6 +6755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etrian Odyssey III HD Character Set DLC | 251696 | [251696-etrian-odyssey-iii-hd-character-set-dlc.json](./251696-etrian-odyssey-iii-hd-character-set-dlc.json) |
 | Etrian Odyssey III: The Drowned City | 14718 | [14718-etrian-odyssey-iii-the-drowned-city.json](./14718-etrian-odyssey-iii-the-drowned-city.json) |
 | Etrian Odyssey IV: Legends of the Titan | 6767 | [6767-etrian-odyssey-iv-legends-of-the-titan.json](./6767-etrian-odyssey-iv-legends-of-the-titan.json) |
+| Etrian Odyssey Mobile | 327492 | [327492-etrian-odyssey-mobile.json](./327492-etrian-odyssey-mobile.json) |
 | Etrian Odyssey Origins Collection: Limited Edition | 236687 | [236687-etrian-odyssey-origins-collection-limited-edition.json](./236687-etrian-odyssey-origins-collection-limited-edition.json) |
 | Etrian Odyssey Untold: The Millennium Girl | 6768 | [6768-etrian-odyssey-untold-the-millennium-girl.json](./6768-etrian-odyssey-untold-the-millennium-girl.json) |
 | Etrian Odyssey V: Beyond the Myth | 18224 | [18224-etrian-odyssey-v-beyond-the-myth.json](./18224-etrian-odyssey-v-beyond-the-myth.json) |
