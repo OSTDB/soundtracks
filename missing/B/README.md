@@ -3111,7 +3111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barter Empire | 10024 | [10024-barter-empire.json](./10024-barter-empire.json) |
 | Bartholomew.exe | 358899 | [358899-bartholomew-exe.json](./358899-bartholomew-exe.json) |
 | Bartigo | 30582 | [30582-bartigo.json](./30582-bartigo.json) |
-| Bartlow's Dread Machine | 128934 | [128934-bartlows-dread-machine.json](./128934-bartlows-dread-machine.json) |
 | Bartman: Avenger of Evil | 218328 | [218328-bartman-avenger-of-evil.json](./218328-bartman-avenger-of-evil.json) |
 | Bartolomeo, Misled by Circumstances, Learns that Appearances can be Deceptive | 317311 | [317311-bartolomeo-misled-by-circumstances-learns-that-appearances-can-be-deceptive.json](./317311-bartolomeo-misled-by-circumstances-learns-that-appearances-can-be-deceptive.json) |
 | Bartolomeu Odyssey | 248891 | [248891-bartolomeu-odyssey.json](./248891-bartolomeu-odyssey.json) |
