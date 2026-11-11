@@ -4335,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeroWings 2: Airstrike | 3708 | [3708-aerowings-2-airstrike.json](./3708-aerowings-2-airstrike.json) |
 | Aerox | 27948 | [27948-aerox.json](./27948-aerox.json) |
 | Aertan | 415931 | [415931-aertan.json](./415931-aertan.json) |
+| Aerthlings | 373441 | [373441-aerthlings.json](./373441-aerthlings.json) |
 | Aery VR | 126749 | [126749-aery-vr.json](./126749-aery-vr.json) |
 | Aery VR: A Journey Beyond Time | 237216 | [237216-aery-vr-a-journey-beyond-time.json](./237216-aery-vr-a-journey-beyond-time.json) |
 | Aery VR: Broken Memories | 237248 | [237248-aery-vr-broken-memories.json](./237248-aery-vr-broken-memories.json) |
@@ -15522,6 +15523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur Owl's Word Block: Video Games Pack | 338162 | [338162-arthur-owls-word-block-video-games-pack.json](./338162-arthur-owls-word-block-video-games-pack.json) |
 | Arthur to Astaroth no Nazomakaimura: Incredible Toons | 45427 | [45427-arthur-to-astaroth-no-nazomakaimura-incredible-toons.json](./45427-arthur-to-astaroth-no-nazomakaimura-incredible-toons.json) |
 | Arthur Yahtzee: The Curse of Hell's Cheesecake | 217857 | [217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json](./217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json) |
+| Arthur: Dream On | 373434 | [373434-arthur-dream-on.json](./373434-arthur-dream-on.json) |
 | Arthur: The Quest for Excalibur | 2312 | [2312-arthur-the-quest-for-excalibur.json](./2312-arthur-the-quest-for-excalibur.json) |
 | Arthur: Wizard Academy | 343420 | [343420-arthur-wizard-academy.json](./343420-arthur-wizard-academy.json) |
 | Arthur! Ready to Race | 56050 | [56050-arthur-ready-to-race.json](./56050-arthur-ready-to-race.json) |
