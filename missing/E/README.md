@@ -1010,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Iron Prison | 339589 | [339589-echoes-of-the-iron-prison.json](./339589-echoes-of-the-iron-prison.json) |
 | Echoes of the Living | 235038 | [235038-echoes-of-the-living.json](./235038-echoes-of-the-living.json) |
 | Echoes of the Museum | 402321 | [402321-echoes-of-the-museum.json](./402321-echoes-of-the-museum.json) |
+| Echoes of the Night | 337321 | [337321-echoes-of-the-night.json](./337321-echoes-of-the-night.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
 | Echoes of the Past: Kingdom of Despair | 140249 | [140249-echoes-of-the-past-kingdom-of-despair.json](./140249-echoes-of-the-past-kingdom-of-despair.json) |
 | Echoes of the Past: Kingdom of Despair - Collector's Edition | 32017 | [32017-echoes-of-the-past-kingdom-of-despair-collectors-edition.json](./32017-echoes-of-the-past-kingdom-of-despair-collectors-edition.json) |
