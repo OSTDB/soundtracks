@@ -389,6 +389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Fear of Heights, and Other Things | 31138 | [31138-a-fear-of-heights-and-other-things.json](./31138-a-fear-of-heights-and-other-things.json) |
 | A Femboy Polished My Knob | 385245 | [385245-a-femboy-polished-my-knob.json](./385245-a-femboy-polished-my-knob.json) |
 | A Few Billion Square Tiles | 104687 | [104687-a-few-billion-square-tiles.json](./104687-a-few-billion-square-tiles.json) |
+| A Few Days With: Amber | 367313 | [367313-a-few-days-with-amber.json](./367313-a-few-days-with-amber.json) |
 | A Few Days With: Bianca | 329203 | [329203-a-few-days-with-bianca.json](./329203-a-few-days-with-bianca.json) |
 | A Few Days With: Cassandra | 301682 | [301682-a-few-days-with-cassandra.json](./301682-a-few-days-with-cassandra.json) |
 | A Few Days With: Darlene | 382068 | [382068-a-few-days-with-darlene.json](./382068-a-few-days-with-darlene.json) |
@@ -1012,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ninja's Tale | 23598 | [23598-a-ninjas-tale.json](./23598-a-ninjas-tale.json) |
 | A Noble Circle | 174207 | [174207-a-noble-circle.json](./174207-a-noble-circle.json) |
 | A Noite dos Patriotas | 232413 | [232413-a-noite-dos-patriotas.json](./232413-a-noite-dos-patriotas.json) |
+| A Noite Sem Fim | 367318 | [367318-a-noite-sem-fim.json](./367318-a-noite-sem-fim.json) |
 | A Normal Day at a Normal Beach | 420476 | [420476-a-normal-day-at-a-normal-beach.json](./420476-a-normal-day-at-a-normal-beach.json) |
 | A Normal Home in Ohio | 256730 | [256730-a-normal-home-in-ohio.json](./256730-a-normal-home-in-ohio.json) |
 | A Normal Lost Phone | 27024 | [27024-a-normal-lost-phone.json](./27024-a-normal-lost-phone.json) |
@@ -2945,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achievement Hunter: Urban 2 | 368943 | [368943-achievement-hunter-urban-2.json](./368943-achievement-hunter-urban-2.json) |
 | Achievement Hunter: Witch | 334780 | [334780-achievement-hunter-witch.json](./334780-achievement-hunter-witch.json) |
 | Achievement Hunter: Wizard | 368633 | [368633-achievement-hunter-wizard.json](./368633-achievement-hunter-wizard.json) |
+| Achievement Hunter: Zombie | 367317 | [367317-achievement-hunter-zombie.json](./367317-achievement-hunter-zombie.json) |
 | Achievement Hunter: Zombie 2 | 369471 | [369471-achievement-hunter-zombie-2.json](./369471-achievement-hunter-zombie-2.json) |
 | Achievement Hunter: Zombie 3 | 368354 | [368354-achievement-hunter-zombie-3.json](./368354-achievement-hunter-zombie-3.json) |
 | Achievement Idler Black | 95124 | [95124-achievement-idler-black.json](./95124-achievement-idler-black.json) |
@@ -3543,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adrenaline Rush 4‑Pack | 396438 | [396438-adrenaline-rush-4-pack.json](./396438-adrenaline-rush-4-pack.json) |
 | Adrenaline Rush: Highway Extreme Traffic Racer | 300767 | [300767-adrenaline-rush-highway-extreme-traffic-racer.json](./300767-adrenaline-rush-highway-extreme-traffic-racer.json) |
 | Adrenaline Rush: Miami Drive | 122735 | [122735-adrenaline-rush-miami-drive.json](./122735-adrenaline-rush-miami-drive.json) |
+| Adrenaline: May the Sun Return | 366757 | [366757-adrenaline-may-the-sun-return.json](./366757-adrenaline-may-the-sun-return.json) |
 | Adrenalynn | 11886 | [11886-adrenalynn.json](./11886-adrenalynn.json) |
 | Adrenix | 18486 | [18486-adrenix.json](./18486-adrenix.json) |
 | Adrian Ford in the Tomb of the Moon | 314994 | [314994-adrian-ford-in-the-tomb-of-the-moon.json](./314994-adrian-ford-in-the-tomb-of-the-moon.json) |
@@ -11148,6 +11152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Vampire Slayer | 118421 | [118421-anime-vampire-slayer.json](./118421-anime-vampire-slayer.json) |
 | Anime vs. Evil: Apocalypse | 238081 | [238081-anime-vs-evil-apocalypse.json](./238081-anime-vs-evil-apocalypse.json) |
 | Anime War: Modern Campaign | 135664 | [135664-anime-war-modern-campaign.json](./135664-anime-war-modern-campaign.json) |
+| Anime Warriors Clash | 366755 | [366755-anime-warriors-clash.json](./366755-anime-warriors-clash.json) |
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
 | Anime World | 167886 | [167886-anime-world.json](./167886-anime-world.json) |
 | Anime World Bundle 4 in 1 | 398190 | [398190-anime-world-bundle-4-in-1.json](./398190-anime-world-bundle-4-in-1.json) |
@@ -16630,6 +16635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astala Muerte | 398940 | [398940-astala-muerte.json](./398940-astala-muerte.json) |
 | Astalo | 147879 | [147879-astalo.json](./147879-astalo.json) |
 | Astalon: Tears of the Earth | 80885 | [80885-astalon-tears-of-the-earth.json](./80885-astalon-tears-of-the-earth.json) |
+| Astana Iyagi: Nuga Dakimakura Mandeuleosseo! | 367138 | [367138-astana-iyagi-nuga-dakimakura-mandeuleosseo.json](./367138-astana-iyagi-nuga-dakimakura-mandeuleosseo.json) |
 | AStar | 84300 | [84300-astar.json](./84300-astar.json) |
 | Astar Solis | 366396 | [366396-astar-solis.json](./366396-astar-solis.json) |
 | Astarian Adventures | 267741 | [267741-astarian-adventures.json](./267741-astarian-adventures.json) |
@@ -19227,6 +19233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awake | 203605 | [203605-awake.json](./203605-awake.json) |
 | Awake | 34025 | [34025-awake.json](./34025-awake.json) |
 | Awake | 343247 | [343247-awake.json](./343247-awake.json) |
+| Awake | 366766 | [366766-awake.json](./366766-awake.json) |
 | Awake Episode One | 110717 | [110717-awake-episode-one.json](./110717-awake-episode-one.json) |
 | Awake: Definitive Edition | 113787 | [113787-awake-definitive-edition.json](./113787-awake-definitive-edition.json) |
 | AwakeMUD | 228698 | [228698-awakemud.json](./228698-awakemud.json) |
