@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A way up! | 115617 | [115617-a-way-up.json](./115617-a-way-up.json) |
 | A Way With Words | 354960 | [354960-a-way-with-words.json](./354960-a-way-with-words.json) |
 | A Week | 223494 | [223494-a-week.json](./223494-a-week.json) |
+| A Week at Polar's Buffet | 375109 | [375109-a-week-at-polars-buffet.json](./375109-a-week-at-polars-buffet.json) |
 | A Week in Paradise | 390825 | [390825-a-week-in-paradise.json](./390825-a-week-in-paradise.json) |
 | A Week in the Cold | 132745 | [132745-a-week-in-the-cold.json](./132745-a-week-in-the-cold.json) |
 | A Week in the Life of Asocial Giraffe | 333220 | [333220-a-week-in-the-life-of-asocial-giraffe.json](./333220-a-week-in-the-life-of-asocial-giraffe.json) |
@@ -5066,6 +5067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Omens | 116777 | [116777-age-of-omens.json](./116777-age-of-omens.json) |
 | Age of Oracles: Tara's Journey | 293948 | [293948-age-of-oracles-taras-journey.json](./293948-age-of-oracles-taras-journey.json) |
 | Age of Pahlevans | 191670 | [191670-age-of-pahlevans.json](./191670-age-of-pahlevans.json) |
+| Age of Pirates | 375060 | [375060-age-of-pirates.json](./375060-age-of-pirates.json) |
 | Age of Pirates | 376848 | [376848-age-of-pirates.json](./376848-age-of-pirates.json) |
 | Age of Pirates: Caribbean Tales | 9431 | [9431-age-of-pirates-caribbean-tales.json](./9431-age-of-pirates-caribbean-tales.json) |
 | Age of Pixels | 118261 | [118261-age-of-pixels.json](./118261-age-of-pixels.json) |
@@ -9824,6 +9826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anchors: Blockade Zone | 239900 | [239900-anchors-blockade-zone.json](./239900-anchors-blockade-zone.json) |
 | Anchors: Start | 303160 | [303160-anchors-start.json](./303160-anchors-start.json) |
 | Anchorz Field | 37526 | [37526-anchorz-field.json](./37526-anchorz-field.json) |
+| Ancible Online | 375086 | [375086-ancible-online.json](./375086-ancible-online.json) |
 | Ancient | 371889 | [371889-ancient.json](./371889-ancient.json) |
 | Ancient Abyss | 107024 | [107024-ancient-abyss.json](./107024-ancient-abyss.json) |
 | Ancient Adventure | 406222 | [406222-ancient-adventure.json](./406222-ancient-adventure.json) |
@@ -19369,6 +19372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe Girl | 149556 | [149556-axe-girl.json](./149556-axe-girl.json) |
 | Axe in Face | 93933 | [93933-axe-in-face.json](./93933-axe-in-face.json) |
 | Axe Me Down | 250165 | [250165-axe-me-down.json](./250165-axe-me-down.json) |
+| Axe Me Why | 375073 | [375073-axe-me-why.json](./375073-axe-me-why.json) |
 | Axe of Janissary | 233619 | [233619-axe-of-janissary.json](./233619-axe-of-janissary.json) |
 | Axe of Kolt | 15610 | [15610-axe-of-kolt.json](./15610-axe-of-kolt.json) |
 | Axe Over It | 144296 | [144296-axe-over-it.json](./144296-axe-over-it.json) |
