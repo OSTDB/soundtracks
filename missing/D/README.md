@@ -1663,6 +1663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Elf | 391806 | [391806-dark-elf.json](./391806-dark-elf.json) |
 | Dark Elf | 51570 | [51570-dark-elf.json](./51570-dark-elf.json) |
 | Dark Elf Historia | 69505 | [69505-dark-elf-historia.json](./69505-dark-elf-historia.json) |
+| Dark Elven Legacy | 331556 | [331556-dark-elven-legacy.json](./331556-dark-elven-legacy.json) |
 | Dark Elves Escape | 315604 | [315604-dark-elves-escape.json](./315604-dark-elves-escape.json) |
 | Dark Elves Escape 2 | 315606 | [315606-dark-elves-escape-2.json](./315606-dark-elves-escape-2.json) |
 | Dark Empire | 14026 | [14026-dark-empire.json](./14026-dark-empire.json) |
@@ -8314,6 +8315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Bot | 133121 | [133121-detective-bot.json](./133121-detective-bot.json) |
 | Detective Boto: Belle Memoir | 410934 | [410934-detective-boto-belle-memoir.json](./410934-detective-boto-belle-memoir.json) |
 | Detective Brand Golf | 425388 | [425388-detective-brand-golf.json](./425388-detective-brand-golf.json) |
+| Detective Bundle 4 in 1 | 331557 | [331557-detective-bundle-4-in-1.json](./331557-detective-bundle-4-in-1.json) |
 | Detective Bundle 4 in 1 | 343521 | [343521-detective-bundle-4-in-1.json](./343521-detective-bundle-4-in-1.json) |
 | Detective Bureau Simulator | 150015 | [150015-detective-bureau-simulator.json](./150015-detective-bureau-simulator.json) |
 | Detective Butler and the King of Hearts | 244238 | [244238-detective-butler-and-the-king-of-hearts.json](./244238-detective-butler-and-the-king-of-hearts.json) |
@@ -9275,6 +9277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Tower | 352502 | [352502-dice-tower.json](./352502-dice-tower.json) |
 | Dice Tower Defense | 55593 | [55593-dice-tower-defense.json](./55593-dice-tower-defense.json) |
 | Dice Town Mobile | 175217 | [175217-dice-town-mobile.json](./175217-dice-town-mobile.json) |
+| Dice Trek | 331580 | [331580-dice-trek.json](./331580-dice-trek.json) |
 | Dice Tribes: Ambitions | 200871 | [200871-dice-tribes-ambitions.json](./200871-dice-tribes-ambitions.json) |
 | Dice Up | 274754 | [274754-dice-up.json](./274754-dice-up.json) |
 | Dice Versa | 218406 | [218406-dice-versa.json](./218406-dice-versa.json) |
@@ -17720,6 +17723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Stunt Racing 2019 | 109769 | [109769-drift-stunt-racing-2019.json](./109769-drift-stunt-racing-2019.json) |
 | Drift Sumi-e | 64294 | [64294-drift-sumi-e.json](./64294-drift-sumi-e.json) |
 | Drift Survivor | 266623 | [266623-drift-survivor.json](./266623-drift-survivor.json) |
+| Drift Survivor 2 | 331595 | [331595-drift-survivor-2.json](./331595-drift-survivor-2.json) |
 | Drift Tank | 427821 | [427821-drift-tank.json](./427821-drift-tank.json) |
 | Drift to Sleep | 414103 | [414103-drift-to-sleep.json](./414103-drift-to-sleep.json) |
 | Drift Type C | 200471 | [200471-drift-type-c.json](./200471-drift-type-c.json) |
@@ -18077,6 +18081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drom | 225821 | [225821-drom.json](./225821-drom.json) |
 | Drome Racers | 22244 | [22244-drome-racers.json](./22244-drome-racers.json) |
 | Drome Racers | 3901 | [3901-drome-racers.json](./3901-drome-racers.json) |
+| Drome van Slange Bundle | 331558 | [331558-drome-van-slange-bundle.json](./331558-drome-van-slange-bundle.json) |
 | Dromedary | 80244 | [80244-dromedary.json](./80244-dromedary.json) |
 | Drömjobbet i Rosemond Valley | 196700 | [196700-dromjobbet-i-rosemond-valley.json](./196700-dromjobbet-i-rosemond-valley.json) |
 | Drömmar | 314631 | [314631-drommar.json](./314631-drommar.json) |
@@ -19758,6 +19763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Ward | 193851 | [193851-dungeon-ward.json](./193851-dungeon-ward.json) |
 | Dungeon Warfare | 28205 | [28205-dungeon-warfare.json](./28205-dungeon-warfare.json) |
 | Dungeon Warfare 2 | 102273 | [102273-dungeon-warfare-2.json](./102273-dungeon-warfare-2.json) |
+| Dungeon Warfare III | 331576 | [331576-dungeon-warfare-iii.json](./331576-dungeon-warfare-iii.json) |
 | Dungeon Warriors | 155849 | [155849-dungeon-warriors.json](./155849-dungeon-warriors.json) |
 | Dungeon Warriors | 165727 | [165727-dungeon-warriors.json](./165727-dungeon-warriors.json) |
 | Dungeon Watchers | 319213 | [319213-dungeon-watchers.json](./319213-dungeon-watchers.json) |
@@ -20482,6 +20488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwellink: War of the Nine | 301331 | [301331-dwellink-war-of-the-nine.json](./301331-dwellink-war-of-the-nine.json) |
 | Dwelp | 128547 | [128547-dwelp.json](./128547-dwelp.json) |
 | Dwerg Saga | 134764 | [134764-dwerg-saga.json](./134764-dwerg-saga.json) |
+| DWG 2024 Bundle | 331555 | [331555-dwg-2024-bundle.json](./331555-dwg-2024-bundle.json) |
 | Dwingle B.O.T | 37387 | [37387-dwingle-b-o-t.json](./37387-dwingle-b-o-t.json) |
 | DWK 5: Hinter dem Horizont | 81577 | [81577-dwk-5-hinter-dem-horizont.json](./81577-dwk-5-hinter-dem-horizont.json) |
 | Dwoemer of the Drill Faced Goddess | 377597 | [377597-dwoemer-of-the-drill-faced-goddess.json](./377597-dwoemer-of-the-drill-faced-goddess.json) |
