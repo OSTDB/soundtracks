@@ -2688,7 +2688,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortals Fenyx Rising: Gold Edition | 139859 | [139859-immortals-fenyx-rising-gold-edition.json](./139859-immortals-fenyx-rising-gold-edition.json) |
 | Immortals Fenyx Rising: Limited Edition | 139850 | [139850-immortals-fenyx-rising-limited-edition.json](./139850-immortals-fenyx-rising-limited-edition.json) |
 | Immortals Fenyx Rising: Season Pass | 293724 | [293724-immortals-fenyx-rising-season-pass.json](./293724-immortals-fenyx-rising-season-pass.json) |
-| Immortals Fenyx Rising: The Lost Gods | 144580 | [144580-immortals-fenyx-rising-the-lost-gods.json](./144580-immortals-fenyx-rising-the-lost-gods.json) |
 | Immortals Must Die | 287880 | [287880-immortals-must-die.json](./287880-immortals-must-die.json) |
 | Immortals of Aveum | 228531 | [228531-immortals-of-aveum.json](./228531-immortals-of-aveum.json) |
 | Immortals of Aveum: Deluxe Edition | 245934 | [245934-immortals-of-aveum-deluxe-edition.json](./245934-immortals-of-aveum-deluxe-edition.json) |
@@ -4381,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infommi | 108363 | [108363-infommi.json](./108363-infommi.json) |
 | Informal Detective | 119661 | [119661-informal-detective.json](./119661-informal-detective.json) |
 | Informaticus | 343876 | [343876-informaticus.json](./343876-informaticus.json) |
+| Informe Ypsilon | 321082 | [321082-informe-ypsilon.json](./321082-informe-ypsilon.json) |
 | Informe Zenteno | 322947 | [322947-informe-zenteno.json](./322947-informe-zenteno.json) |
 | Infra | 16310 | [16310-infra.json](./16310-infra.json) |
 | Infra | 382369 | [382369-infra.json](./382369-infra.json) |
@@ -6464,6 +6464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Is it Love?: Adam | 103110 | [103110-is-it-love-adam.json](./103110-is-it-love-adam.json) |
 | Is it Normal to be Down Bad For My Friend? | 410025 | [410025-is-it-normal-to-be-down-bad-for-my-friend.json](./410025-is-it-normal-to-be-down-bad-for-my-friend.json) |
 | Is it OK to pick up Anomalies at a University? | 301946 | [301946-is-it-ok-to-pick-up-anomalies-at-a-university.json](./301946-is-it-ok-to-pick-up-anomalies-at-a-university.json) |
+| Is It Okay for Me to Live | 321003 | [321003-is-it-okay-for-me-to-live.json](./321003-is-it-okay-for-me-to-live.json) |
 | Is It Okay to Trust a Talkative Turtle? | 419091 | [419091-is-it-okay-to-trust-a-talkative-turtle.json](./419091-is-it-okay-to-trust-a-talkative-turtle.json) |
 | Is It That Deep, Bro? | 141982 | [141982-is-it-that-deep-bro.json](./141982-is-it-that-deep-bro.json) |
 | Is it True? Castle True-or-False Quiz | 385096 | [385096-is-it-true-castle-true-or-false-quiz.json](./385096-is-it-true-castle-true-or-false-quiz.json) |
