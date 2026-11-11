@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canjin | 345194 | [345194-canjin.json](./345194-canjin.json) |
 | Cannabis | 121862 | [121862-cannabis.json](./121862-cannabis.json) |
 | Cannabis Farmer Strain Master | 159481 | [159481-cannabis-farmer-strain-master.json](./159481-cannabis-farmer-strain-master.json) |
+| Cannabis Shop Simulator | 370612 | [370612-cannabis-shop-simulator.json](./370612-cannabis-shop-simulator.json) |
 | Cannabis Store Simulator | 359338 | [359338-cannabis-store-simulator.json](./359338-cannabis-store-simulator.json) |
 | Cannabiz: Weed Shop Owner | 391640 | [391640-cannabiz-weed-shop-owner.json](./391640-cannabiz-weed-shop-owner.json) |
 | Cannelé & Nomnom: Defective Agency | 242904 | [242904-cannele-and-nomnom-defective-agency.json](./242904-cannele-and-nomnom-defective-agency.json) |
@@ -14983,6 +14984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contraband | 152240 | [152240-contraband.json](./152240-contraband.json) |
 | Contraband Patrol Simulator | 364973 | [364973-contraband-patrol-simulator.json](./364973-contraband-patrol-simulator.json) |
 | Contraband Police - Crimson Fall | 381783 | [381783-contraband-police-crimson-fall.json](./381783-contraband-police-crimson-fall.json) |
+| Contrabandist: Contraband Cartel Simulator | 370613 | [370613-contrabandist-contraband-cartel-simulator.json](./370613-contrabandist-contraband-cartel-simulator.json) |
 | Contrablade World | 197162 | [197162-contrablade-world.json](./197162-contrablade-world.json) |
 | Contrablade: Stadium Rush | 194674 | [194674-contrablade-stadium-rush.json](./194674-contrablade-stadium-rush.json) |
 | Contract | 131217 | [131217-contract.json](./131217-contract.json) |
@@ -15332,6 +15334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Simulator 2: Better Together | 259127 | [259127-cooking-simulator-2-better-together.json](./259127-cooking-simulator-2-better-together.json) |
 | Cooking Simulator Mobile | 174780 | [174780-cooking-simulator-mobile.json](./174780-cooking-simulator-mobile.json) |
 | Cooking Simulator VR | 148926 | [148926-cooking-simulator-vr.json](./148926-cooking-simulator-vr.json) |
+| Cooking Simulator: BBQ | 371170 | [371170-cooking-simulator-bbq.json](./371170-cooking-simulator-bbq.json) |
 | Cooking Simulator: Cakes and Cookies | 129196 | [129196-cooking-simulator-cakes-and-cookies.json](./129196-cooking-simulator-cakes-and-cookies.json) |
 | Cooking Simulator: Cooking with Food Network | 168934 | [168934-cooking-simulator-cooking-with-food-network.json](./168934-cooking-simulator-cooking-with-food-network.json) |
 | Cooking Simulator: Pizza | 148101 | [148101-cooking-simulator-pizza.json](./148101-cooking-simulator-pizza.json) |
@@ -16157,6 +16160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Relief: Prof. Renegade to the Rescue | 12282 | [12282-cosmic-relief-prof-renegade-to-the-rescue.json](./12282-cosmic-relief-prof-renegade-to-the-rescue.json) |
 | Cosmic Remnants | 309831 | [309831-cosmic-remnants.json](./309831-cosmic-remnants.json) |
 | Cosmic Resistance | 262816 | [262816-cosmic-resistance.json](./262816-cosmic-resistance.json) |
+| Cosmic Rift | 371152 | [371152-cosmic-rift.json](./371152-cosmic-rift.json) |
 | Cosmic Rift | 72918 | [72918-cosmic-rift.json](./72918-cosmic-rift.json) |
 | Cosmic Roads | 261601 | [261601-cosmic-roads.json](./261601-cosmic-roads.json) |
 | Cosmic Robots | 301006 | [301006-cosmic-robots.json](./301006-cosmic-robots.json) |
