@@ -2485,6 +2485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caracolino | 293236 | [293236-caracolino.json](./293236-caracolino.json) |
 | Caramba | 108019 | [108019-caramba.json](./108019-caramba.json) |
 | Carambola | 370055 | [370055-carambola.json](./370055-carambola.json) |
+| Carambole Fireworks | 375717 | [375717-carambole-fireworks.json](./375717-carambole-fireworks.json) |
 | Caramel Action Micro | 386161 | [386161-caramel-action-micro.json](./386161-caramel-action-micro.json) |
 | Caramel Creek | 423999 | [423999-caramel-creek.json](./423999-caramel-creek.json) |
 | Caramel Port | 114558 | [114558-caramel-port.json](./114558-caramel-port.json) |
@@ -11564,6 +11565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Penguin Island | 94967 | [94967-club-penguin-island.json](./94967-club-penguin-island.json) |
 | Club Penguin Journey | 312869 | [312869-club-penguin-journey.json](./312869-club-penguin-journey.json) |
 | Club Penguin Rewritten | 98486 | [98486-club-penguin-rewritten.json](./98486-club-penguin-rewritten.json) |
+| Club Penguin Zero | 375700 | [375700-club-penguin-zero.json](./375700-club-penguin-zero.json) |
 | Club Penguin: Elite Penguin Force | 78695 | [78695-club-penguin-elite-penguin-force.json](./78695-club-penguin-elite-penguin-force.json) |
 | Club Penguin: Elite Penguin Force - Herbert's Revenge | 66998 | [66998-club-penguin-elite-penguin-force-herberts-revenge.json](./66998-club-penguin-elite-penguin-force-herberts-revenge.json) |
 | Club Penguin: Game Day! | 92058 | [92058-club-penguin-game-day.json](./92058-club-penguin-game-day.json) |
