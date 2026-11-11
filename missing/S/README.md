@@ -4409,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Scenes | 219616 | [219616-sea-scenes.json](./219616-sea-scenes.json) |
 | Sea Scraps | 337360 | [337360-sea-scraps.json](./337360-sea-scraps.json) |
 | Sea Search | 36688 | [36688-sea-search.json](./36688-sea-search.json) |
+| Sea Sniffers | 318171 | [318171-sea-sniffers.json](./318171-sea-sniffers.json) |
 | Sea Stars | 59626 | [59626-sea-stars.json](./59626-sea-stars.json) |
 | Sea Strike | 69896 | [69896-sea-strike.json](./69896-sea-strike.json) |
 | Sea Town | 238093 | [238093-sea-town.json](./238093-sea-town.json) |
@@ -13731,13 +13732,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders: Battlecast | 21563 | [21563-skylanders-battlecast.json](./21563-skylanders-battlecast.json) |
 | Skylanders: Battlegrounds | 63345 | [63345-skylanders-battlegrounds.json](./63345-skylanders-battlegrounds.json) |
 | Skylanders: Cloud Patrol | 65286 | [65286-skylanders-cloud-patrol.json](./65286-skylanders-cloud-patrol.json) |
-| Skylanders: Giants | 256679 | [256679-skylanders-giants.json](./256679-skylanders-giants.json) |
 | Skylanders: Imaginators | 19576 | [19576-skylanders-imaginators.json](./19576-skylanders-imaginators.json) |
 | Skylanders: Imaginators | 317016 | [317016-skylanders-imaginators.json](./317016-skylanders-imaginators.json) |
 | Skylanders: Lost Islands | 59963 | [59963-skylanders-lost-islands.json](./59963-skylanders-lost-islands.json) |
 | Skylanders: Ring of Heroes | 112193 | [112193-skylanders-ring-of-heroes.json](./112193-skylanders-ring-of-heroes.json) |
 | Skylanders: Spyro's Adventure | 1585 | [1585-skylanders-spyros-adventure.json](./1585-skylanders-spyros-adventure.json) |
-| Skylanders: Spyro's Adventure | 256678 | [256678-skylanders-spyros-adventure.json](./256678-skylanders-spyros-adventure.json) |
 | Skylanders: Spyro's Adventure - Empire of Ice | 340392 | [340392-skylanders-spyros-adventure-empire-of-ice.json](./340392-skylanders-spyros-adventure-empire-of-ice.json) |
 | Skylanders: SuperChargers | 317015 | [317015-skylanders-superchargers.json](./317015-skylanders-superchargers.json) |
 | Skylanders: SuperChargers - Portal Owner's Pack | 82418 | [82418-skylanders-superchargers-portal-owners-pack.json](./82418-skylanders-superchargers-portal-owners-pack.json) |
@@ -22124,6 +22123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sparrow Warfare | 368183 | [368183-sparrow-warfare.json](./368183-sparrow-warfare.json) |
 | Sparrows | 197795 | [197795-sparrows.json](./197795-sparrows.json) |
 | SparSpecial | 292547 | [292547-sparspecial.json](./292547-sparspecial.json) |
+| Sparta 2035 | 318668 | [318668-sparta-2035.json](./318668-sparta-2035.json) |
 | Sparta Anthology | 324565 | [324565-sparta-anthology.json](./324565-sparta-anthology.json) |
 | Sparta: War of Empires | 194783 | [194783-sparta-war-of-empires.json](./194783-sparta-war-of-empires.json) |
 | Spartacus Blood Arena | 370447 | [370447-spartacus-blood-arena.json](./370447-spartacus-blood-arena.json) |
@@ -29627,6 +29627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strashilka | 118786 | [118786-strashilka.json](./118786-strashilka.json) |
 | Strashilki: Shestoe chuvstvo | 315017 | [315017-strashilki-shestoe-chuvstvo.json](./315017-strashilki-shestoe-chuvstvo.json) |
 | Strashna 2 | 291911 | [291911-strashna-2.json](./291911-strashna-2.json) |
+| Straße des Erfolgs | 318663 | [318663-stra-e-des-erfolgs.json](./318663-stra-e-des-erfolgs.json) |
 | Strat-O-Gems Deluxe | 40751 | [40751-strat-o-gems-deluxe.json](./40751-strat-o-gems-deluxe.json) |
 | Strat-O-Matic PC Baseball | 137265 | [137265-strat-o-matic-pc-baseball.json](./137265-strat-o-matic-pc-baseball.json) |
 | Strata | 17165 | [17165-strata.json](./17165-strata.json) |
@@ -32134,6 +32135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon Quest | 291980 | [291980-summon-quest.json](./291980-summon-quest.json) |
 | Summon The Dudes! | 339480 | [339480-summon-the-dudes.json](./339480-summon-the-dudes.json) |
 | Summon, then build an invincible harem | 216870 | [216870-summon-then-build-an-invincible-harem.json](./216870-summon-then-build-an-invincible-harem.json) |
+| Summon: Joint Escape | 318672 | [318672-summon-joint-escape.json](./318672-summon-joint-escape.json) |
 | Summona Realm: The Secret Flame | 382366 | [382366-summona-realm-the-secret-flame.json](./382366-summona-realm-the-secret-flame.json) |
 | SummonArk | 364944 | [364944-summonark.json](./364944-summonark.json) |
 | Summoned by a Magic Goddess | 206152 | [206152-summoned-by-a-magic-goddess.json](./206152-summoned-by-a-magic-goddess.json) |
@@ -34471,7 +34473,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Baseball 2: El Viejo Stadium | 171906 | [171906-super-mega-baseball-2-el-viejo-stadium.json](./171906-super-mega-baseball-2-el-viejo-stadium.json) |
 | Super Mega Baseball 2: Red Rock Park | 171907 | [171907-super-mega-baseball-2-red-rock-park.json](./171907-super-mega-baseball-2-red-rock-park.json) |
 | Super Mega Baseball 3 | 131946 | [131946-super-mega-baseball-3.json](./131946-super-mega-baseball-3.json) |
-| Super Mega Baseball 4 | 202858 | [202858-super-mega-baseball-4.json](./202858-super-mega-baseball-4.json) |
 | Super Mega Baseball 4: Ballpark Edition | 248341 | [248341-super-mega-baseball-4-ballpark-edition.json](./248341-super-mega-baseball-4-ballpark-edition.json) |
 | Super Mega Baseball 4: Castillo Arena Stadium | 266742 | [266742-super-mega-baseball-4-castillo-arena-stadium.json](./266742-super-mega-baseball-4-castillo-arena-stadium.json) |
 | Super Mega Baseball 4: Peril Point Stadium | 252626 | [252626-super-mega-baseball-4-peril-point-stadium.json](./252626-super-mega-baseball-4-peril-point-stadium.json) |
