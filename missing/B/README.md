@@ -2522,6 +2522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie and Her Sisters: Puppy Rescue | 25143 | [25143-barbie-and-her-sisters-puppy-rescue.json](./25143-barbie-and-her-sisters-puppy-rescue.json) |
 | Barbie and the Magic of Pegasus | 248681 | [248681-barbie-and-the-magic-of-pegasus.json](./248681-barbie-and-the-magic-of-pegasus.json) |
 | Barbie and the Magic of Pegasus | 45172 | [45172-barbie-and-the-magic-of-pegasus.json](./45172-barbie-and-the-magic-of-pegasus.json) |
+| Barbie and the Magic of Pegasus: 3D Games | 395596 | [395596-barbie-and-the-magic-of-pegasus-3d-games.json](./395596-barbie-and-the-magic-of-pegasus-3d-games.json) |
 | Barbie and the Three Musketeers | 45176 | [45176-barbie-and-the-three-musketeers.json](./45176-barbie-and-the-three-musketeers.json) |
 | Barbie as Princess Bride | 200600 | [200600-barbie-as-princess-bride.json](./200600-barbie-as-princess-bride.json) |
 | Barbie as Rapunzel | 200599 | [200599-barbie-as-rapunzel.json](./200599-barbie-as-rapunzel.json) |
@@ -10897,6 +10898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob | 348045 | [348045-blob.json](./348045-blob.json) |
 | Blob Attack | 338812 | [338812-blob-attack.json](./338812-blob-attack.json) |
 | Blob Beats | 230095 | [230095-blob-beats.json](./230095-blob-beats.json) |
+| Blob Bob: Lost Levels | 395597 | [395597-blob-bob-lost-levels.json](./395597-blob-bob-lost-levels.json) |
 | Blob Boy | 191518 | [191518-blob-boy.json](./191518-blob-boy.json) |
 | Blob Command | 265668 | [265668-blob-command.json](./265668-blob-command.json) |
 | Blob Command: New Attack | 265669 | [265669-blob-command-new-attack.json](./265669-blob-command-new-attack.json) |
@@ -11044,6 +11046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Destruction | 150986 | [150986-block-destruction.json](./150986-block-destruction.json) |
 | Block Destruction | 56391 | [56391-block-destruction.json](./56391-block-destruction.json) |
 | Block Dizzy | 235099 | [235099-block-dizzy.json](./235099-block-dizzy.json) |
+| Block Dodge 3D | 395595 | [395595-block-dodge-3d.json](./395595-block-dodge-3d.json) |
 | Block Dodge Challenge | 121584 | [121584-block-dodge-challenge.json](./121584-block-dodge-challenge.json) |
 | Block Drop | 396758 | [396758-block-drop.json](./396758-block-drop.json) |
 | Block Drop Duel | 186423 | [186423-block-drop-duel.json](./186423-block-drop-duel.json) |
@@ -16979,6 +16982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bronze Dragon: Conquest of Infinity | 122987 | [122987-bronze-dragon-conquest-of-infinity.json](./122987-bronze-dragon-conquest-of-infinity.json) |
 | Bronze Hoof | 127083 | [127083-bronze-hoof.json](./127083-bronze-hoof.json) |
 | Bronzebeard's Tavern | 258955 | [258955-bronzebeards-tavern.json](./258955-bronzebeards-tavern.json) |
+| Bronzebeard's Tavern 2 | 395329 | [395329-bronzebeards-tavern-2.json](./395329-bronzebeards-tavern-2.json) |
 | Bronzebeard's Tavern: Founder's Pack | 292752 | [292752-bronzebeards-tavern-founders-pack.json](./292752-bronzebeards-tavern-founders-pack.json) |
 | Bronzebeard's Tavern: Supporter Pack | 293450 | [293450-bronzebeards-tavern-supporter-pack.json](./293450-bronzebeards-tavern-supporter-pack.json) |
 | Bronzette | 183267 | [183267-bronzette.json](./183267-bronzette.json) |
@@ -17209,6 +17213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brutality club | 150981 | [150981-brutality-club.json](./150981-brutality-club.json) |
 | Brute | 33279 | [33279-brute.json](./33279-brute.json) |
+| Brute Battles | 395922 | [395922-brute-battles.json](./395922-brute-battles.json) |
 | Brute Force | 5759 | [5759-brute-force.json](./5759-brute-force.json) |
 | Brute Force | 80634 | [80634-brute-force.json](./80634-brute-force.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
