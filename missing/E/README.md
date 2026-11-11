@@ -5050,6 +5050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equality | 339761 | [339761-equality.json](./339761-equality.json) |
 | Equalizer | 55498 | [55498-equalizer.json](./55498-equalizer.json) |
 | Equan the Watchful Guardian | 251997 | [251997-equan-the-watchful-guardian.json](./251997-equan-the-watchful-guardian.json) |
+| Equate 8 | 347389 | [347389-equate-8.json](./347389-equate-8.json) |
 | Equations | 44352 | [44352-equations.json](./44352-equations.json) |
 | Equestria | 128563 | [128563-equestria.json](./128563-equestria.json) |
 | Equestria at War | 285300 | [285300-equestria-at-war.json](./285300-equestria-at-war.json) |
@@ -6056,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Vauban | 183179 | [183179-escape-vauban.json](./183179-escape-vauban.json) |
 | Escape Velocity | 113399 | [113399-escape-velocity.json](./113399-escape-velocity.json) |
 | Escape Velocity | 334070 | [334070-escape-velocity.json](./334070-escape-velocity.json) |
+| Escape Velocity | 347404 | [347404-escape-velocity.json](./347404-escape-velocity.json) |
 | Escape Velocity | 377579 | [377579-escape-velocity.json](./377579-escape-velocity.json) |
 | Escape Velocity Nova | 50144 | [50144-escape-velocity-nova.json](./50144-escape-velocity-nova.json) |
 | Escape Virus | 91711 | [91711-escape-virus.json](./91711-escape-virus.json) |
