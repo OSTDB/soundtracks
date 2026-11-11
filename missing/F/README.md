@@ -8898,6 +8898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flower, Sun, and Rain: Murder and Mystery in Paradise | 159295 | [159295-flower-sun-and-rain-murder-and-mystery-in-paradise.json](./159295-flower-sun-and-rain-murder-and-mystery-in-paradise.json) |
 | Flowerbloom Cottage | 380212 | [380212-flowerbloom-cottage.json](./380212-flowerbloom-cottage.json) |
 | Flowerbots | 330213 | [330213-flowerbots.json](./330213-flowerbots.json) |
+| Flowerbud | 350691 | [350691-flowerbud.json](./350691-flowerbud.json) |
 | FlowerCorner: Plant Watering To Vibe To | 380213 | [380213-flowercorner-plant-watering-to-vibe-to.json](./380213-flowercorner-plant-watering-to-vibe-to.json) |
 | Flowerdrops | 134984 | [134984-flowerdrops.json](./134984-flowerdrops.json) |
 | Flowereverie | 275940 | [275940-flowereverie.json](./275940-flowereverie.json) |
@@ -11397,6 +11398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Horizon 5: Expansions Bundle | 200693 | [200693-forza-horizon-5-expansions-bundle.json](./200693-forza-horizon-5-expansions-bundle.json) |
 | Forza Horizon 5: Hide & Seek | 314386 | [314386-forza-horizon-5-hide-and-seek.json](./314386-forza-horizon-5-hide-and-seek.json) |
 | Forza Horizon 5: Italian Exotics Car Pack | 261851 | [261851-forza-horizon-5-italian-exotics-car-pack.json](./261851-forza-horizon-5-italian-exotics-car-pack.json) |
+| Forza Horizon 5: JDM Jewels Car Pack | 350686 | [350686-forza-horizon-5-jdm-jewels-car-pack.json](./350686-forza-horizon-5-jdm-jewels-car-pack.json) |
 | Forza Horizon 5: Premium Edition | 171270 | [171270-forza-horizon-5-premium-edition.json](./171270-forza-horizon-5-premium-edition.json) |
 | Forza Horizon 5: Summer Party | 256985 | [256985-forza-horizon-5-summer-party.json](./256985-forza-horizon-5-summer-party.json) |
 | Forza Horizon 5: VIP | 387371 | [387371-forza-horizon-5-vip.json](./387371-forza-horizon-5-vip.json) |
