@@ -5397,6 +5397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls: Director's Cut | 284501 | [284501-hentai-girls-directors-cut.json](./284501-hentai-girls-directors-cut.json) |
 | Hentai Girls: DJ Romance | 347201 | [347201-hentai-girls-dj-romance.json](./347201-hentai-girls-dj-romance.json) |
 | Hentai Girls: Extended Edition | 261348 | [261348-hentai-girls-extended-edition.json](./261348-hentai-girls-extended-edition.json) |
+| Hentai Girls: Flight Crush | 334981 | [334981-hentai-girls-flight-crush.json](./334981-hentai-girls-flight-crush.json) |
 | Hentai Girls: Fresh Firefighter | 300863 | [300863-hentai-girls-fresh-firefighter.json](./300863-hentai-girls-fresh-firefighter.json) |
 | Hentai Girls: GOTY Edition | 287128 | [287128-hentai-girls-goty-edition.json](./287128-hentai-girls-goty-edition.json) |
 | Hentai Girls: Happy Edition | 290427 | [290427-hentai-girls-happy-edition.json](./290427-hentai-girls-happy-edition.json) |
