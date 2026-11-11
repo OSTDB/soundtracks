@@ -5342,6 +5342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi x Mitsu: Kinuori Futaba to Okashi no Kuni no Yakusoku | 221247 | [221247-koi-x-mitsu-kinuori-futaba-to-okashi-no-kuni-no-yakusoku.json](./221247-koi-x-mitsu-kinuori-futaba-to-okashi-no-kuni-no-yakusoku.json) |
 | Koi x Mitsu: Senba Shizuku to Saboten no Tegami | 221248 | [221248-koi-x-mitsu-senba-shizuku-to-saboten-no-tegami.json](./221248-koi-x-mitsu-senba-shizuku-to-saboten-no-tegami.json) |
 | Koi x Mitsu: Yaeneri Saki to Akai Ito no Ouji-sama | 221249 | [221249-koi-x-mitsu-yaeneri-saki-to-akai-ito-no-ouji-sama.json](./221249-koi-x-mitsu-yaeneri-saki-to-akai-ito-no-ouji-sama.json) |
+| Koi x Shin Ai Kanojo | 370027 | [370027-koi-x-shin-ai-kanojo.json](./370027-koi-x-shin-ai-kanojo.json) |
 | Koi Zen: Opposite Colors | 253306 | [253306-koi-zen-opposite-colors.json](./253306-koi-zen-opposite-colors.json) |
 | Koi-Koi Japan | 35426 | [35426-koi-koi-japan.json](./35426-koi-koi-japan.json) |
 | Koi-Koi Japan: Hana-Awase Rule | 168065 | [168065-koi-koi-japan-hana-awase-rule.json](./168065-koi-koi-japan-hana-awase-rule.json) |
