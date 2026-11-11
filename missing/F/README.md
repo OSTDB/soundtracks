@@ -276,7 +276,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fa Jin | 288054 | [288054-fa-jin.json](./288054-fa-jin.json) |
 | FA Manager | 44818 | [44818-fa-manager.json](./44818-fa-manager.json) |
 | FA Tetris | 250372 | [250372-fa-tetris.json](./250372-fa-tetris.json) |
-| Faaast Penguin | 314424 | [314424-faaast-penguin.json](./314424-faaast-penguin.json) |
 | Faani | 178154 | [178154-faani.json](./178154-faani.json) |
 | Fab 5 Soccer | 124633 | [124633-fab-5-soccer.json](./124633-fab-5-soccer.json) |
 | Fab Fashion | 142716 | [142716-fab-fashion.json](./142716-fab-fashion.json) |
@@ -2434,7 +2433,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far East of Eden: Ziria | 42002 | [42002-far-east-of-eden-ziria.json](./42002-far-east-of-eden-ziria.json) |
 | Far Far Away | 231564 | [231564-far-far-away.json](./231564-far-far-away.json) |
 | Far Far Away From Here | 186836 | [186836-far-far-away-from-here.json](./186836-far-far-away-from-here.json) |
-| Far Far West | 348263 | [348263-far-far-west.json](./348263-far-far-west.json) |
 | Far Fetched | 150622 | [150622-far-fetched.json](./150622-far-fetched.json) |
 | Far Fishing | 351753 | [351753-far-fishing.json](./351753-far-fishing.json) |
 | Far Fresnel | 374289 | [374289-far-fresnel.json](./374289-far-fresnel.json) |
@@ -3514,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fated Blade | 169151 | [169151-fated-blade.json](./169151-fated-blade.json) |
 | Fated Demon Lovers | 221593 | [221593-fated-demon-lovers.json](./221593-fated-demon-lovers.json) |
 | Fated Era | 114514 | [114514-fated-era.json](./114514-fated-era.json) |
+| Fated Flatline | 317649 | [317649-fated-flatline.json](./317649-fated-flatline.json) |
 | Fated Haven | 61724 | [61724-fated-haven.json](./61724-fated-haven.json) |
 | Fated Kingdom | 97111 | [97111-fated-kingdom.json](./97111-fated-kingdom.json) |
 | Fated Land | 317164 | [317164-fated-land.json](./317164-fated-land.json) |
@@ -9757,6 +9756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foot Fashion Simulator | 258983 | [258983-foot-fashion-simulator.json](./258983-foot-fashion-simulator.json) |
 | Foot Fetish Fortress VolTitan Vs. The Jundoh Empire Vol.2 | 389804 | [389804-foot-fetish-fortress-voltitan-vs-the-jundoh-empire-vol-2.json](./389804-foot-fetish-fortress-voltitan-vs-the-jundoh-empire-vol-2.json) |
 | Foot Fetish Fortress VolTitan Vs. The Jundoh Empire Volume 1 | 389799 | [389799-foot-fetish-fortress-voltitan-vs-the-jundoh-empire-volume-1.json](./389799-foot-fetish-fortress-voltitan-vs-the-jundoh-empire-volume-1.json) |
+| Foot Laser | 317572 | [317572-foot-laser.json](./317572-foot-laser.json) |
 | Foot Lovers | 340089 | [340089-foot-lovers.json](./340089-foot-lovers.json) |
 | Foot Massage | 288909 | [288909-foot-massage.json](./288909-foot-massage.json) |
 | Foot Odor Girl | 288910 | [288910-foot-odor-girl.json](./288910-foot-odor-girl.json) |
@@ -13285,6 +13285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogo | 208426 | [208426-frogo.json](./208426-frogo.json) |
 | Frogo 2 | 214251 | [214251-frogo-2.json](./214251-frogo-2.json) |
 | Frogo 3 | 225444 | [225444-frogo-3.json](./225444-frogo-3.json) |
+| Frogo Deluxe | 317652 | [317652-frogo-deluxe.json](./317652-frogo-deluxe.json) |
 | Frogo Jump | 293601 | [293601-frogo-jump.json](./293601-frogo-jump.json) |
 | Frogrammer | 349074 | [349074-frogrammer.json](./349074-frogrammer.json) |
 | Frogreign | 260558 | [260558-frogreign.json](./260558-frogreign.json) |
