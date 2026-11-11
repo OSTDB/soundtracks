@@ -392,6 +392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajime no Ippo: The Fighting! Portable - Victorious Spirits | 61447 | [61447-hajime-no-ippo-the-fighting-portable-victorious-spirits.json](./61447-hajime-no-ippo-the-fighting-portable-victorious-spirits.json) |
 | Hajime no Ippo: Victorious Boxers - Championship Version | 403521 | [403521-hajime-no-ippo-victorious-boxers-championship-version.json](./403521-hajime-no-ippo-victorious-boxers-championship-version.json) |
 | Hajimemashite Boku no Kanojo | 375340 | [375340-hajimemashite-boku-no-kanojo.json](./375340-hajimemashite-boku-no-kanojo.json) |
+| Hajimeow: Tiny Box Cat | 379814 | [379814-hajimeow-tiny-box-cat.json](./379814-hajimeow-tiny-box-cat.json) |
 | Hajimeru Sekai no Risouron: Goodbye World Index | 337092 | [337092-hajimeru-sekai-no-risouron-goodbye-world-index.json](./337092-hajimeru-sekai-no-risouron-goodbye-world-index.json) |
 | Hajimete no Eigo: Typing & Puzzle Keyboard Hairetsu mo Manaberu Youji-muke Gakushuu Benkyou Game | 274650 | [274650-hajimete-no-eigo-typing-and-puzzle-keyboard-hairetsu-mo-manaberu-youji-muke-gakushuu-benkyou-game.json](./274650-hajimete-no-eigo-typing-and-puzzle-keyboard-hairetsu-mo-manaberu-youji-muke-gakushuu-benkyou-game.json) |
 | Hajis | 201404 | [201404-hajis.json](./201404-hajis.json) |
@@ -10917,6 +10918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horsez | 5096 | [5096-horsez.json](./5096-horsez.json) |
 | Horsle | 314416 | [314416-horsle.json](./314416-horsle.json) |
 | Horst: Der Ultimatives Rollenspiel | 285437 | [285437-horst-der-ultimatives-rollenspiel.json](./285437-horst-der-ultimatives-rollenspiel.json) |
+| HorSteal | 379808 | [379808-horsteal.json](./379808-horsteal.json) |
 | Horta Maluca | 416490 | [416490-horta-maluca.json](./416490-horta-maluca.json) |
 | Hortal | 251139 | [251139-hortal.json](./251139-hortal.json) |
 | Horticular | 220381 | [220381-horticular.json](./220381-horticular.json) |
@@ -11559,6 +11561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hounded | 347083 | [347083-hounded.json](./347083-hounded.json) |
 | Hounds: The Last Hope | 35373 | [35373-hounds-the-last-hope.json](./35373-hounds-the-last-hope.json) |
 | Hour Night | 178083 | [178083-hour-night.json](./178083-hour-night.json) |
+| Hour of Redemption | 379785 | [379785-hour-of-redemption.json](./379785-hour-of-redemption.json) |
 | Hour of Survival: Zombie Craft | 309913 | [309913-hour-of-survival-zombie-craft.json](./309913-hour-of-survival-zombie-craft.json) |
 | Hour of the Snake | 117042 | [117042-hour-of-the-snake.json](./117042-hour-of-the-snake.json) |
 | Hour of the Witch | 312048 | [312048-hour-of-the-witch.json](./312048-hour-of-the-witch.json) |
