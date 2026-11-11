@@ -14688,6 +14688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimekoban | 179306 | [179306-slimekoban.json](./179306-slimekoban.json) |
 | SlimeLabs | 152083 | [152083-slimelabs.json](./152083-slimelabs.json) |
 | Slimelon | 300786 | [300786-slimelon.json](./300786-slimelon.json) |
+| Slimenator | 331577 | [331577-slimenator.json](./331577-slimenator.json) |
 | Slimepatch | 392904 | [392904-slimepatch.json](./392904-slimepatch.json) |
 | Slimepocalypse | 340362 | [340362-slimepocalypse.json](./340362-slimepocalypse.json) |
 | Slimer | 184489 | [184489-slimer.json](./184489-slimer.json) |
@@ -26977,6 +26978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starmetal Crusaders | 293598 | [293598-starmetal-crusaders.json](./293598-starmetal-crusaders.json) |
 | Starmind | 172321 | [172321-starmind.json](./172321-starmind.json) |
 | Starminer | 280353 | [280353-starminer.json](./280353-starminer.json) |
+| StarMoon Forest | 331590 | [331590-starmoon-forest.json](./331590-starmoon-forest.json) |
 | Starmount | 327323 | [327323-starmount.json](./327323-starmount.json) |
 | Starmourn | 122849 | [122849-starmourn.json](./122849-starmourn.json) |
 | Starnded: Gardens of the Rubellite | 391541 | [391541-starnded-gardens-of-the-rubellite.json](./391541-starnded-gardens-of-the-rubellite.json) |
@@ -30762,6 +30764,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stufft TD | 358604 | [358604-stufft-td.json](./358604-stufft-td.json) |
 | Stug | 180219 | [180219-stug.json](./180219-stug.json) |
 | Stumble And Fall | 310388 | [310388-stumble-and-fall.json](./310388-stumble-and-fall.json) |
+| Stumble Guys: Astro Sagittarius | 331565 | [331565-stumble-guys-astro-sagittarius.json](./331565-stumble-guys-astro-sagittarius.json) |
+| Stumble Guys: Bacon | 331572 | [331572-stumble-guys-bacon.json](./331572-stumble-guys-bacon.json) |
 | Stumble Guys: Burger Banger | 331462 | [331462-stumble-guys-burger-banger.json](./331462-stumble-guys-burger-banger.json) |
 | Stumble Guys: Diamond Special Banger | 312838 | [312838-stumble-guys-diamond-special-banger.json](./312838-stumble-guys-diamond-special-banger.json) |
 | Stumble Guys: Founder's Pack Bundle | 313218 | [313218-stumble-guys-founders-pack-bundle.json](./313218-stumble-guys-founders-pack-bundle.json) |
