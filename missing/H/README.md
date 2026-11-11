@@ -3748,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearts of Iron IV: The Great War | 321861 | [321861-hearts-of-iron-iv-the-great-war.json](./321861-hearts-of-iron-iv-the-great-war.json) |
 | Hearts of Iron IV: Together for Victory | 53182 | [53182-hearts-of-iron-iv-together-for-victory.json](./53182-hearts-of-iron-iv-together-for-victory.json) |
 | Hearts of Iron: Road to War | 64993 | [64993-hearts-of-iron-road-to-war.json](./64993-hearts-of-iron-road-to-war.json) |
+| Hearts of Olympus | 322315 | [322315-hearts-of-olympus.json](./322315-hearts-of-olympus.json) |
 | Hearts of the Dungeon List | 173036 | [173036-hearts-of-the-dungeon-list.json](./173036-hearts-of-the-dungeon-list.json) |
 | Hearts on Fire | 313720 | [313720-hearts-on-fire.json](./313720-hearts-on-fire.json) |
 | Hearts Online | 317011 | [317011-hearts-online.json](./317011-hearts-online.json) |
@@ -6256,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Jumper | 220034 | [220034-hero-jumper.json](./220034-hero-jumper.json) |
 | Hero Keeper | 125183 | [125183-hero-keeper.json](./125183-hero-keeper.json) |
 | Hero Kid | 70871 | [70871-hero-kid.json](./70871-hero-kid.json) |
+| Hero King Quest: Peacemaker Prologue | 322301 | [322301-hero-king-quest-peacemaker-prologue.json](./322301-hero-king-quest-peacemaker-prologue.json) |
 | Hero Legend | 246338 | [246338-hero-legend.json](./246338-hero-legend.json) |
 | Hero Like | 396188 | [396188-hero-like.json](./396188-hero-like.json) |
 | Hero Lilith | 189919 | [189919-hero-lilith.json](./189919-hero-lilith.json) |
@@ -6413,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Journey | 216013 | [216013-heros-journey.json](./216013-heros-journey.json) |
 | Hero's Journey | 368005 | [368005-heros-journey.json](./368005-heros-journey.json) |
 | Hero's Journey | 92023 | [92023-heros-journey.json](./92023-heros-journey.json) |
+| Hero's Last Words | 322285 | [322285-heros-last-words.json](./322285-heros-last-words.json) |
 | Hero's Odyssey | 330675 | [330675-heros-odyssey.json](./330675-heros-odyssey.json) |
 | Hero's Party R | 211566 | [211566-heros-party-r.json](./211566-heros-party-r.json) |
 | Hero's Puzzle Path | 57572 | [57572-heros-puzzle-path.json](./57572-heros-puzzle-path.json) |
@@ -7138,6 +7141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexoria | 244722 | [244722-hexoria.json](./244722-hexoria.json) |
 | Hexos CCG Missions | 55947 | [55947-hexos-ccg-missions.json](./55947-hexos-ccg-missions.json) |
 | Hexoscope: Collector's Edition | 53214 | [53214-hexoscope-collectors-edition.json](./53214-hexoscope-collectors-edition.json) |
+| Hexoshi | 322319 | [322319-hexoshi.json](./322319-hexoshi.json) |
 | Hexothermic | 69170 | [69170-hexothermic.json](./69170-hexothermic.json) |
 | Hexpand | 410909 | [410909-hexpand.json](./410909-hexpand.json) |
 | Hexpert | 137552 | [137552-hexpert.json](./137552-hexpert.json) |
