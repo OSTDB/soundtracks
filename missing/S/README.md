@@ -8244,7 +8244,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaylushay Treasure Expedition | 275715 | [275715-shaylushay-treasure-expedition.json](./275715-shaylushay-treasure-expedition.json) |
 | Shaype | 139158 | [139158-shaype.json](./139158-shaype.json) |
 | Shazabi and the Cantina Catacombs | 230542 | [230542-shazabi-and-the-cantina-catacombs.json](./230542-shazabi-and-the-cantina-catacombs.json) |
-| She and the Light Bearer | 98736 | [98736-she-and-the-light-bearer.json](./98736-she-and-the-light-bearer.json) |
 | She Awaits | 212564 | [212564-she-awaits.json](./212564-she-awaits.json) |
 | She Could Fly: Documentary Escape Game | 304853 | [304853-she-could-fly-documentary-escape-game.json](./304853-she-could-fly-documentary-escape-game.json) |
 | She Couldn't Do Anything | 401048 | [401048-she-couldnt-do-anything.json](./401048-she-couldnt-do-anything.json) |
@@ -22425,7 +22424,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Boat | 245148 | [245148-speed-boat.json](./245148-speed-boat.json) |
 | Speed Box | 105132 | [105132-speed-box.json](./105132-speed-box.json) |
 | Speed Box | 278241 | [278241-speed-box.json](./278241-speed-box.json) |
-| Speed Brawl | 101460 | [101460-speed-brawl.json](./101460-speed-brawl.json) |
 | Speed Bubble | 360287 | [360287-speed-bubble.json](./360287-speed-bubble.json) |
 | Speed Builder | 117672 | [117672-speed-builder.json](./117672-speed-builder.json) |
 | Speed Busters: American Highways | 46531 | [46531-speed-busters-american-highways.json](./46531-speed-busters-american-highways.json) |
