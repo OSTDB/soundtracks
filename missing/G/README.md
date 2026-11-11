@@ -2329,6 +2329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate 88 | 77982 | [77982-gate-88.json](./77982-gate-88.json) |
 | Gate Breaker: Ascension | 412921 | [412921-gate-breaker-ascension.json](./412921-gate-breaker-ascension.json) |
 | Gate Builders | 197414 | [197414-gate-builders.json](./197414-gate-builders.json) |
+| Gate Guard Simulator | 380943 | [380943-gate-guard-simulator.json](./380943-gate-guard-simulator.json) |
 | Gate Keepers | 69303 | [69303-gate-keepers.json](./69303-gate-keepers.json) |
 | Gate of Doom | 46847 | [46847-gate-of-doom.json](./46847-gate-of-doom.json) |
 | Gate of Gates | 406750 | [406750-gate-of-gates.json](./406750-gate-of-gates.json) |
