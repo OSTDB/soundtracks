@@ -17150,6 +17150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bros | 198391 | [198391-bros.json](./198391-bros.json) |
 | Bros Survivors | 404928 | [404928-bros-survivors.json](./404928-bros-survivors.json) |
 | BRoS: Battle Royale of Survival | 240722 | [240722-bros-battle-royale-of-survival.json](./240722-bros-battle-royale-of-survival.json) |
+| Brotank | 347386 | [347386-brotank.json](./347386-brotank.json) |
 | Brotate | 163704 | [163704-brotate.json](./163704-brotate.json) |
 | Brotato + Abyssal Terrors DLC Bundle | 327717 | [327717-brotato-abyssal-terrors-dlc-bundle.json](./327717-brotato-abyssal-terrors-dlc-bundle.json) |
 | Brotato + Space Gladiators Bundle | 259575 | [259575-brotato-space-gladiators-bundle.json](./259575-brotato-space-gladiators-bundle.json) |
