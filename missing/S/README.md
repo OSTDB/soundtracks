@@ -11773,6 +11773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Fear | 157046 | [157046-simple-fear.json](./157046-simple-fear.json) |
 | Simple Fight 2 | 310135 | [310135-simple-fight-2.json](./310135-simple-fight-2.json) |
 | Simple Fish Adventure | 163209 | [163209-simple-fish-adventure.json](./163209-simple-fish-adventure.json) |
+| Simple Flight | 391410 | [391410-simple-flight.json](./391410-simple-flight.json) |
 | Simple FPS Aim Trainer | 182502 | [182502-simple-fps-aim-trainer.json](./182502-simple-fps-aim-trainer.json) |
 | Simple FPS Platformer | 347268 | [347268-simple-fps-platformer.json](./347268-simple-fps-platformer.json) |
 | Simple Game | 121602 | [121602-simple-game.json](./121602-simple-game.json) |
@@ -12998,6 +12999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skillhead | 419434 | [419434-skillhead.json](./419434-skillhead.json) |
 | SkillQuest | 101861 | [101861-skillquest.json](./101861-skillquest.json) |
+| Skills & Raids | 391920 | [391920-skills-and-raids.json](./391920-skills-and-raids.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
 | Skills Hockey VR | 29431 | [29431-skills-hockey-vr.json](./29431-skills-hockey-vr.json) |
 | Skillshot City | 28014 | [28014-skillshot-city.json](./28014-skillshot-city.json) |
@@ -19237,6 +19239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sons of Tyr | 176424 | [176424-sons-of-tyr.json](./176424-sons-of-tyr.json) |
 | Sonsgorod: The Archipelago | 311900 | [311900-sonsgorod-the-archipelago.json](./311900-sonsgorod-the-archipelago.json) |
 | Sonucido: The Mage - A Dungeon Crawler by Daniel da Silva | 193200 | [193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json](./193200-sonucido-the-mage-a-dungeon-crawler-by-daniel-da-silva.json) |
+| Sonya | 391412 | [391412-sonya.json](./391412-sonya.json) |
 | Sonya: The Great Adventure | 30423 | [30423-sonya-the-great-adventure.json](./30423-sonya-the-great-adventure.json) |
 | Sonyc | 269933 | [269933-sonyc.json](./269933-sonyc.json) |
 | Sonyc | 269934 | [269934-sonyc.json](./269934-sonyc.json) |
@@ -23221,6 +23224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinner Galactic | 56375 | [56375-spinner-galactic.json](./56375-spinner-galactic.json) |
 | Spinner Invaders | 172967 | [172967-spinner-invaders.json](./172967-spinner-invaders.json) |
 | Spinner Invaders 2: A Mad Revenge | 220669 | [220669-spinner-invaders-2-a-mad-revenge.json](./220669-spinner-invaders-2-a-mad-revenge.json) |
+| Spinner Smash | 391387 | [391387-spinner-smash.json](./391387-spinner-smash.json) |
 | Spinner: Rogueblade | 347602 | [347602-spinner-rogueblade.json](./347602-spinner-rogueblade.json) |
 | Spinners | 309945 | [309945-spinners.json](./309945-spinners.json) |
 | Spinnin' Flare | 72338 | [72338-spinnin-flare.json](./72338-spinnin-flare.json) |
@@ -23966,6 +23970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Station | 122836 | [122836-spooky-station.json](./122836-spooky-station.json) |
 | Spooky Story | 188472 | [188472-spooky-story.json](./188472-spooky-story.json) |
 | Spooky Survivors | 333640 | [333640-spooky-survivors.json](./333640-spooky-survivors.json) |
+| Spooky Tales | 391399 | [391399-spooky-tales.json](./391399-spooky-tales.json) |
 | Spooky Tales and Mummy Trails | 420659 | [420659-spooky-tales-and-mummy-trails.json](./420659-spooky-tales-and-mummy-trails.json) |
 | Spooky Tales: Nini's Teddy | 409849 | [409849-spooky-tales-ninis-teddy.json](./409849-spooky-tales-ninis-teddy.json) |
 | Spooky Town | 272565 | [272565-spooky-town.json](./272565-spooky-town.json) |
@@ -24014,6 +24019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporeborn Dark | 272907 | [272907-sporeborn-dark.json](./272907-sporeborn-dark.json) |
 | Sporeborne | 367535 | [367535-sporeborne.json](./367535-sporeborne.json) |
 | Sporestory | 271126 | [271126-sporestory.json](./271126-sporestory.json) |
+| Spori | 391384 | [391384-spori.json](./391384-spori.json) |
 | Spork: The Manic Utensil Storm | 111826 | [111826-spork-the-manic-utensil-storm.json](./111826-spork-the-manic-utensil-storm.json) |
 | Sporos | 203314 | [203314-sporos.json](./203314-sporos.json) |
 | Sport & Fun: Swimming | 233865 | [233865-sport-and-fun-swimming.json](./233865-sport-and-fun-swimming.json) |
@@ -29932,6 +29938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Racer | 19770 | [19770-street-racer.json](./19770-street-racer.json) |
 | Street Racer | 307078 | [307078-street-racer.json](./307078-street-racer.json) |
 | Street Racer | 49118 | [49118-street-racer.json](./49118-street-racer.json) |
+| Street Racer Europe | 391905 | [391905-street-racer-europe.json](./391905-street-racer-europe.json) |
 | Street Racer Underground | 139819 | [139819-street-racer-underground.json](./139819-street-racer-underground.json) |
 | Street Racer X Ace of Love | 206198 | [206198-street-racer-x-ace-of-love.json](./206198-street-racer-x-ace-of-love.json) |
 | Street Racers | 233863 | [233863-street-racers.json](./233863-street-racers.json) |
