@@ -3947,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recyclic | 348888 | [348888-recyclic.json](./348888-recyclic.json) |
 | Recycling Center Simulator | 298400 | [298400-recycling-center-simulator.json](./298400-recycling-center-simulator.json) |
 | Recycling Center Simulator: E-Waste DLC | 372365 | [372365-recycling-center-simulator-e-waste-dlc.json](./372365-recycling-center-simulator-e-waste-dlc.json) |
+| Recycling Factory | 359643 | [359643-recycling-factory.json](./359643-recycling-factory.json) |
 | Recycling Shift | 366946 | [366946-recycling-shift.json](./366946-recycling-shift.json) |
 | Recycling Tycoon: Junk to Gems | 312413 | [312413-recycling-tycoon-junk-to-gems.json](./312413-recycling-tycoon-junk-to-gems.json) |
 | Recyclomania | 121892 | [121892-recyclomania.json](./121892-recyclomania.json) |
@@ -11572,6 +11573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Escape: Strange Case 2 | 285859 | [285859-room-escape-strange-case-2.json](./285859-room-escape-strange-case-2.json) |
 | Room Explorer 2010 | 198511 | [198511-room-explorer-2010.json](./198511-room-explorer-2010.json) |
 | Room Explorer 2010: Deluxe Lover's Paque | 198512 | [198512-room-explorer-2010-deluxe-lovers-paque.json](./198512-room-explorer-2010-deluxe-lovers-paque.json) |
+| Room Football: Abandoned Factory | 359642 | [359642-room-football-abandoned-factory.json](./359642-room-football-abandoned-factory.json) |
 | Room Football: Apocalyptic Wasteland | 368223 | [368223-room-football-apocalyptic-wasteland.json](./368223-room-football-apocalyptic-wasteland.json) |
 | Room Football: Cursed West | 368545 | [368545-room-football-cursed-west.json](./368545-room-football-cursed-west.json) |
 | Room Football: Hangar | 371034 | [371034-room-football-hangar.json](./371034-room-football-hangar.json) |
@@ -13235,8 +13237,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Factory 6 | 250924 | [250924-rune-factory-6.json](./250924-rune-factory-6.json) |
 | Rune Factory Frontier | 5132 | [5132-rune-factory-frontier.json](./5132-rune-factory-frontier.json) |
 | Rune Factory: A Fantasy Harvest Moon | 20767 | [20767-rune-factory-a-fantasy-harvest-moon.json](./20767-rune-factory-a-fantasy-harvest-moon.json) |
+| Rune Factory: Guardians of Azuma - Digital Deluxe DLC Set | 359666 | [359666-rune-factory-guardians-of-azuma-digital-deluxe-dlc-set.json](./359666-rune-factory-guardians-of-azuma-digital-deluxe-dlc-set.json) |
 | Rune Factory: Guardians of Azuma - Rune Factory 4 Bachelorette Outfit Bundle | 351193 | [351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json](./351193-rune-factory-guardians-of-azuma-rune-factory-4-bachelorette-outfit-bundle.json) |
 | Rune Factory: Guardians of Azuma - Story of Seasons Bundle | 377761 | [377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json](./377761-rune-factory-guardians-of-azuma-story-of-seasons-bundle.json) |
+| Rune Factory: Guardians of Azuma - Super Digital Deluxe DLC Set | 359665 | [359665-rune-factory-guardians-of-azuma-super-digital-deluxe-dlc-set.json](./359665-rune-factory-guardians-of-azuma-super-digital-deluxe-dlc-set.json) |
 | Rune Factory: Tides of Destiny | 5133 | [5133-rune-factory-tides-of-destiny.json](./5133-rune-factory-tides-of-destiny.json) |
 | Rune Fencer Illyia | 121258 | [121258-rune-fencer-illyia.json](./121258-rune-fencer-illyia.json) |
 | Rune Gate | 261738 | [261738-rune-gate.json](./261738-rune-gate.json) |
