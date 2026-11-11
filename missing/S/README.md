@@ -2706,6 +2706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayara's Path | 423633 | [423633-sayaras-path.json](./423633-sayaras-path.json) |
 | Sayfield Defense | 253543 | [253543-sayfield-defense.json](./253543-sayfield-defense.json) |
 | Saylor Animals Puzzle | 388433 | [388433-saylor-animals-puzzle.json](./388433-saylor-animals-puzzle.json) |
+| Saylor Anime Puzzle Boys & Girls | 380935 | [380935-saylor-anime-puzzle-boys-and-girls.json](./380935-saylor-anime-puzzle-boys-and-girls.json) |
 | Sayo no Bus ni te | 394796 | [394796-sayo-no-bus-ni-te.json](./394796-sayo-no-bus-ni-te.json) |
 | Sayo-kun no Omajinai | 314850 | [314850-sayo-kun-no-omajinai.json](./314850-sayo-kun-no-omajinai.json) |
 | Sayonalaika | 340880 | [340880-sayonalaika.json](./340880-sayonalaika.json) |
@@ -2731,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sayori Shoots Up The Literature Club | 257531 | [257531-sayori-shoots-up-the-literature-club.json](./257531-sayori-shoots-up-the-literature-club.json) |
 | Sayri: The Beginning | 130521 | [130521-sayri-the-beginning.json](./130521-sayri-the-beginning.json) |
 | Sbaceball | 197700 | [197700-sbaceball.json](./197700-sbaceball.json) |
+| Sbeve | 380928 | [380928-sbeve.json](./380928-sbeve.json) |
 | SBK 09: Superbike World Championship | 7179 | [7179-sbk-09-superbike-world-championship.json](./7179-sbk-09-superbike-world-championship.json) |
 | SBK 14: Official Mobile Game | 238673 | [238673-sbk-14-official-mobile-game.json](./238673-sbk-14-official-mobile-game.json) |
 | SBK 2011: Superbike World Championship | 41583 | [41583-sbk-2011-superbike-world-championship.json](./41583-sbk-2011-superbike-world-championship.json) |
@@ -26093,6 +26095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Outlaws: Wild Card | 315804 | [315804-star-wars-outlaws-wild-card.json](./315804-star-wars-outlaws-wild-card.json) |
 | Star Wars Pinball | 136076 | [136076-star-wars-pinball.json](./136076-star-wars-pinball.json) |
 | Star Wars Pinball | 86260 | [86260-star-wars-pinball.json](./86260-star-wars-pinball.json) |
+| Star Wars Pinball 7 | 380936 | [380936-star-wars-pinball-7.json](./380936-star-wars-pinball-7.json) |
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
 | Star Wars Pinball VR | 146363 | [146363-star-wars-pinball-vr.json](./146363-star-wars-pinball-vr.json) |
 | Star Wars Pinball: The Empire Strikes Back | 22196 | [22196-star-wars-pinball-the-empire-strikes-back.json](./22196-star-wars-pinball-the-empire-strikes-back.json) |
