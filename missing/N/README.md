@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty List | 341359 | [341359-naughty-list.json](./341359-naughty-list.json) |
 | Naughty Memories: Asian Beauty | 172267 | [172267-naughty-memories-asian-beauty.json](./172267-naughty-memories-asian-beauty.json) |
 | Naughty Monster Story | 174692 | [174692-naughty-monster-story.json](./174692-naughty-monster-story.json) |
+| Naughty Nate: Cosplay | 382090 | [382090-naughty-nate-cosplay.json](./382090-naughty-nate-cosplay.json) |
 | Naughty New Year | 393385 | [393385-naughty-new-year.json](./393385-naughty-new-year.json) |
 | Naughty Nurse | 416844 | [416844-naughty-nurse.json](./416844-naughty-nurse.json) |
 | Naughty Ones | 12695 | [12695-naughty-ones.json](./12695-naughty-ones.json) |
@@ -3278,6 +3279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nevermind | 290939 | [290939-nevermind.json](./290939-nevermind.json) |
 | Nevermind This | 244123 | [244123-nevermind-this.json](./244123-nevermind-this.json) |
 | Nevermore | 115564 | [115564-nevermore.json](./115564-nevermore.json) |
+| Nevermore | 382104 | [382104-nevermore.json](./382104-nevermore.json) |
 | NeverMore | 143460 | [143460-nevermore.json](./143460-nevermore.json) |
 | Nevermore 2 | 382121 | [382121-nevermore-2.json](./382121-nevermore-2.json) |
 | Nevermore 3 | 328005 | [328005-nevermore-3.json](./328005-nevermore-3.json) |
@@ -3782,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexomon: Extinction | 133905 | [133905-nexomon-extinction.json](./133905-nexomon-extinction.json) |
 | Nexonauts | 336563 | [336563-nexonauts.json](./336563-nexonauts.json) |
 | Nexoria: Dungeon Rogue Heroes | 128859 | [128859-nexoria-dungeon-rogue-heroes.json](./128859-nexoria-dungeon-rogue-heroes.json) |
+| NexPets: Puppies | 382105 | [382105-nexpets-puppies.json](./382105-nexpets-puppies.json) |
 | Next | 83878 | [83878-next.json](./83878-next.json) |
 | Next 2 | 81627 | [81627-next-2.json](./81627-next-2.json) |
 | Next 3 | 95189 | [95189-next-3.json](./95189-next-3.json) |
