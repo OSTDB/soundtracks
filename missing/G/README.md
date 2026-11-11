@@ -92,6 +92,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 56: Mystia3 | 381724 | [381724-g-mode-archives-56-mystia3.json](./381724-g-mode-archives-56-mystia3.json) |
 | G-Mode Archives 58: Gekidan Musume Akane & Aoi | 381255 | [381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json](./381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json) |
 | G-Mode Archives+: Armored Core Mobile 2 | 350578 | [350578-g-mode-archives-armored-core-mobile-2.json](./350578-g-mode-archives-armored-core-mobile-2.json) |
+| G-Mode Archives+: Armored Core Mobile 3 | 386621 | [386621-g-mode-archives-armored-core-mobile-3.json](./386621-g-mode-archives-armored-core-mobile-3.json) |
 | G-Mode Archives+: Armored Core Mobile Mission | 342805 | [342805-g-mode-archives-armored-core-mobile-mission.json](./342805-g-mode-archives-armored-core-mobile-mission.json) |
 | G-Mode Archives+: Bokujou Monogatari Mobile - Life & Love | 315678 | [315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json](./315678-g-mode-archives-bokujou-monogatari-mobile-life-and-love.json) |
 | G-Mode Archives+: Bokujou Monogatari Mobile - Minori no Shima | 340310 | [340310-g-mode-archives-bokujou-monogatari-mobile-minori-no-shima.json](./340310-g-mode-archives-bokujou-monogatari-mobile-minori-no-shima.json) |
