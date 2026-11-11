@@ -5255,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nina in Depravity | 333615 | [333615-nina-in-depravity.json](./333615-nina-in-depravity.json) |
 | Nina: Agent Chronicles | 24090 | [24090-nina-agent-chronicles.json](./24090-nina-agent-chronicles.json) |
 | Nina: Season of Adventures | 326681 | [326681-nina-season-of-adventures.json](./326681-nina-season-of-adventures.json) |
+| Nina’s Sugar Cage | 347408 | [347408-nina-s-sugar-cage.json](./347408-nina-s-sugar-cage.json) |
 | Ninano: Dream Ranch | 235676 | [235676-ninano-dream-ranch.json](./235676-ninano-dream-ranch.json) |
 | NinCat | 204971 | [204971-nincat.json](./204971-nincat.json) |
 | Nindash: Skull Valley | 93836 | [93836-nindash-skull-valley.json](./93836-nindash-skull-valley.json) |
@@ -6345,6 +6346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Ticket Back: Craft, Survive & Escape | 290945 | [290945-no-ticket-back-craft-survive-and-escape.json](./290945-no-ticket-back-craft-survive-and-escape.json) |
 | No Time | 116296 | [116296-no-time.json](./116296-no-time.json) |
 | No Time 2 Freeze | 385443 | [385443-no-time-2-freeze.json](./385443-no-time-2-freeze.json) |
+| No Time for Pants | 347395 | [347395-no-time-for-pants.json](./347395-no-time-for-pants.json) |
 | No Time Left | 104111 | [104111-no-time-left.json](./104111-no-time-left.json) |
 | No Time Left | 385729 | [385729-no-time-left.json](./385729-no-time-left.json) |
 | No Time Left | 397935 | [397935-no-time-left.json](./397935-no-time-left.json) |
