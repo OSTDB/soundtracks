@@ -8064,6 +8064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimeras: What Wishes May Come - Collector's Edition | 166813 | [166813-chimeras-what-wishes-may-come-collectors-edition.json](./166813-chimeras-what-wishes-may-come-collectors-edition.json) |
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
 | Chimken | 338514 | [338514-chimken.json](./338514-chimken.json) |
+| Chimney Man | 319520 | [319520-chimney-man.json](./319520-chimney-man.json) |
 | Chimney Presents | 134406 | [134406-chimney-presents.json](./134406-chimney-presents.json) |
 | Chimney Prowler | 185210 | [185210-chimney-prowler.json](./185210-chimney-prowler.json) |
 | Chimp Chase | 211594 | [211594-chimp-chase.json](./211594-chimp-chase.json) |
