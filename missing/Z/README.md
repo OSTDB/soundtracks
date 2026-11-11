@@ -1303,6 +1303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZigZag | 231998 | [231998-zigzag.json](./231998-zigzag.json) |
 | ZigZag | 26920 | [26920-zigzag.json](./26920-zigzag.json) |
 | ZigZag Ball | 332156 | [332156-zigzag-ball.json](./332156-zigzag-ball.json) |
+| Zigzag Car | 325774 | [325774-zigzag-car.json](./325774-zigzag-car.json) |
 | ZigZag Drifter | 302392 | [302392-zigzag-drifter.json](./302392-zigzag-drifter.json) |
 | ZigZag Fidget | 82529 | [82529-zigzag-fidget.json](./82529-zigzag-fidget.json) |
 | Zigzag Infinite Runner | 123480 | [123480-zigzag-infinite-runner.json](./123480-zigzag-infinite-runner.json) |
