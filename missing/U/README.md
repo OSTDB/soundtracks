@@ -3330,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Updog | 205739 | [205739-updog.json](./205739-updog.json) |
 | Upducted | 315982 | [315982-upducted.json](./315982-upducted.json) |
 | Upekkha | 313984 | [313984-upekkha.json](./313984-upekkha.json) |
+| Upfall | 345737 | [345737-upfall.json](./345737-upfall.json) |
 | Upg | 323614 | [323614-upg.json](./323614-upg.json) |
 | UPG: Underground | 416384 | [416384-upg-underground.json](./416384-upg-underground.json) |
 | UPgrade | 124754 | [124754-upgrade.json](./124754-upgrade.json) |
