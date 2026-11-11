@@ -12210,6 +12210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyelfars | 188818 | [188818-gyelfars.json](./188818-gyelfars.json) |
 | Gylt | 119247 | [119247-gylt.json](./119247-gylt.json) |
 | Gylt: Collector's Edition | 256177 | [256177-gylt-collectors-edition.json](./256177-gylt-collectors-edition.json) |
+| Gym Buddies | 352461 | [352461-gym-buddies.json](./352461-gym-buddies.json) |
 | Gym Bullies | 302935 | [302935-gym-bullies.json](./302935-gym-bullies.json) |
 | Gym Business: Fitness Empire Simulator | 319306 | [319306-gym-business-fitness-empire-simulator.json](./319306-gym-business-fitness-empire-simulator.json) |
 | Gym Camp Simulator | 290810 | [290810-gym-camp-simulator.json](./290810-gym-camp-simulator.json) |
