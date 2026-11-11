@@ -6116,6 +6116,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heretic Treasure Chest | 260783 | [260783-heretic-treasure-chest.json](./260783-heretic-treasure-chest.json) |
 | Heretic Upstart Mapping Project | 268597 | [268597-heretic-upstart-mapping-project.json](./268597-heretic-upstart-mapping-project.json) |
 | Heretic Upstart Mapping Project Mini | 268598 | [268598-heretic-upstart-mapping-project-mini.json](./268598-heretic-upstart-mapping-project-mini.json) |
+| Heretic: Faith Renewed | 360255 | [360255-heretic-faith-renewed.json](./360255-heretic-faith-renewed.json) |
+| Heretic: Shadow of the Serpent Riders | 360246 | [360246-heretic-shadow-of-the-serpent-riders.json](./360246-heretic-shadow-of-the-serpent-riders.json) |
 | Heretic: Shadow of the Serpent Riders | 8419 | [8419-heretic-shadow-of-the-serpent-riders.json](./8419-heretic-shadow-of-the-serpent-riders.json) |
 | Heretic's Fork: Abyssal Update | 320278 | [320278-heretics-fork-abyssal-update.json](./320278-heretics-fork-abyssal-update.json) |
 | Heretic's Fork: Inside The Fire | 285116 | [285116-heretics-fork-inside-the-fire.json](./285116-heretics-fork-inside-the-fire.json) |
@@ -7041,9 +7043,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexen II Mission Pack: Portal of Praevus | 745 | [745-hexen-ii-mission-pack-portal-of-praevus.json](./745-hexen-ii-mission-pack-portal-of-praevus.json) |
 | Hexen Upstart Mapping Project | 268879 | [268879-hexen-upstart-mapping-project.json](./268879-hexen-upstart-mapping-project.json) |
 | Hexen: Beyond Heretic | 3512 | [3512-hexen-beyond-heretic.json](./3512-hexen-beyond-heretic.json) |
+| Hexen: Beyond Heretic | 360247 | [360247-hexen-beyond-heretic.json](./360247-hexen-beyond-heretic.json) |
 | Hexen: Beyond Heretic | 93643 | [93643-hexen-beyond-heretic.json](./93643-hexen-beyond-heretic.json) |
+| Hexen: Deathkings of the Dark Citadel | 360253 | [360253-hexen-deathkings-of-the-dark-citadel.json](./360253-hexen-deathkings-of-the-dark-citadel.json) |
 | Hexen: Deathkings of the Dark Citadel | 8851 | [8851-hexen-deathkings-of-the-dark-citadel.json](./8851-hexen-deathkings-of-the-dark-citadel.json) |
 | Hexen: Veil of Darkness | 298754 | [298754-hexen-veil-of-darkness.json](./298754-hexen-veil-of-darkness.json) |
+| Hexen: Vestiges of Grandeur | 360254 | [360254-hexen-vestiges-of-grandeur.json](./360254-hexen-vestiges-of-grandeur.json) |
 | HexenHold | 340469 | [340469-hexenhold.json](./340469-hexenhold.json) |
 | Hexep | 409871 | [409871-hexep.json](./409871-hexep.json) |
 | Hexepta: Logic Hack | 302600 | [302600-hexepta-logic-hack.json](./302600-hexepta-logic-hack.json) |
@@ -11267,6 +11272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Sprint Trip With A Married Woman | 97506 | [97506-hot-sprint-trip-with-a-married-woman.json](./97506-hot-sprint-trip-with-a-married-woman.json) |
 | Hot Squat | 30574 | [30574-hot-squat.json](./30574-hot-squat.json) |
 | Hot Squat 2: New Glory | 122377 | [122377-hot-squat-2-new-glory.json](./122377-hot-squat-2-new-glory.json) |
+| Hot Stakes Casino: American Roulette | 360215 | [360215-hot-stakes-casino-american-roulette.json](./360215-hot-stakes-casino-american-roulette.json) |
 | Hot Steam | 231300 | [231300-hot-steam.json](./231300-hot-steam.json) |
 | Hot Sugar Presents: The Melody of Dust | 31317 | [31317-hot-sugar-presents-the-melody-of-dust.json](./31317-hot-sugar-presents-the-melody-of-dust.json) |
 | Hot Summer | 153063 | [153063-hot-summer.json](./153063-hot-summer.json) |
