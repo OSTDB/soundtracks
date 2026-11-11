@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ham Tank! | 420576 | [420576-ham-tank.json](./420576-ham-tank.json) |
 | Ham-Master | 125081 | [125081-ham-master.json](./125081-ham-master.json) |
 | Ham-Spin | 385634 | [385634-ham-spin.json](./385634-ham-spin.json) |
+| Ham: The Game | 388449 | [388449-ham-the-game.json](./388449-ham-the-game.json) |
 | Ham's Kitchen | 323822 | [323822-hams-kitchen.json](./323822-hams-kitchen.json) |
 | Hamam: The Steaming Backrooms | 387445 | [387445-hamam-the-steaming-backrooms.json](./387445-hamam-the-steaming-backrooms.json) |
 | Hamatora: Look at Smoking World | 60542 | [60542-hamatora-look-at-smoking-world.json](./60542-hamatora-look-at-smoking-world.json) |
@@ -2703,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsuka | 367652 | [367652-hatsuka.json](./367652-hatsuka.json) |
 | HatsuKare Renai Debut Sengen! | 59151 | [59151-hatsukare-renai-debut-sengen.json](./59151-hatsukare-renai-debut-sengen.json) |
 | Hatsukoi Bloom | 345245 | [345245-hatsukoi-bloom.json](./345245-hatsukoi-bloom.json) |
+| Hatsukoi Crash | 388393 | [388393-hatsukoi-crash.json](./388393-hatsukoi-crash.json) |
 | Hatsukoi Master Up | 329945 | [329945-hatsukoi-master-up.json](./329945-hatsukoi-master-up.json) |
 | Hatsukoi Monogatari | 330102 | [330102-hatsukoi-monogatari.json](./330102-hatsukoi-monogatari.json) |
 | Hatsukoi Monogatari | 330209 | [330209-hatsukoi-monogatari.json](./330209-hatsukoi-monogatari.json) |
@@ -3595,6 +3597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearth and Hamlet | 392964 | [392964-hearth-and-hamlet.json](./392964-hearth-and-hamlet.json) |
 | Hearth Bound | 397128 | [397128-hearth-bound.json](./397128-hearth-bound.json) |
 | Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
+| Hearth's Neighbor | 388350 | [388350-hearths-neighbor.json](./388350-hearths-neighbor.json) |
 | Hearth's Neighbor 2: Magistarium | 389024 | [389024-hearths-neighbor-2-magistarium.json](./389024-hearths-neighbor-2-magistarium.json) |
 | Hearth's Pantheon | 251957 | [251957-hearths-pantheon.json](./251957-hearths-pantheon.json) |
 | Hearthguard | 356677 | [356677-hearthguard.json](./356677-hearthguard.json) |
@@ -9262,6 +9265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Your Ground | 126909 | [126909-hold-your-ground.json](./126909-hold-your-ground.json) |
 | Hold Your Horses | 417468 | [417468-hold-your-horses.json](./417468-hold-your-horses.json) |
 | Hold your houses | 29621 | [29621-hold-your-houses.json](./29621-hold-your-houses.json) |
+| Hold Your King | 388467 | [388467-hold-your-king.json](./388467-hold-your-king.json) |
 | Hold Your Own | 75608 | [75608-hold-your-own.json](./75608-hold-your-own.json) |
 | Hold-Up | 240779 | [240779-hold-up.json](./240779-hold-up.json) |
 | Hold-Up | 74016 | [74016-hold-up.json](./74016-hold-up.json) |
@@ -10577,6 +10581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Forbidden West: Regalla Edition | 173110 | [173110-horizon-forbidden-west-regalla-edition.json](./173110-horizon-forbidden-west-regalla-edition.json) |
 | Horizon Forbidden West: Special Edition | 168557 | [168557-horizon-forbidden-west-special-edition.json](./168557-horizon-forbidden-west-special-edition.json) |
 | Horizon Heat | 241223 | [241223-horizon-heat.json](./241223-horizon-heat.json) |
+| Horizon Hunters Gathering | 388464 | [388464-horizon-hunters-gathering.json](./388464-horizon-hunters-gathering.json) |
 | Horizon Journey | 320472 | [320472-horizon-journey.json](./320472-horizon-journey.json) |
 | Horizon Midnight Sky Combat Aircraft: War Arena Flight Simulator 2022 | 203707 | [203707-horizon-midnight-sky-combat-aircraft-war-arena-flight-simulator-2022.json](./203707-horizon-midnight-sky-combat-aircraft-war-arena-flight-simulator-2022.json) |
 | Horizon Midnight: Aircraft | 276118 | [276118-horizon-midnight-aircraft.json](./276118-horizon-midnight-aircraft.json) |
