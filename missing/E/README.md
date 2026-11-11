@@ -4713,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EOS: Earth Orbit Stations | 39745 | [39745-eos-earth-orbit-stations.json](./39745-eos-earth-orbit-stations.json) |
 | EOS: Edge of Skyhigh | 43798 | [43798-eos-edge-of-skyhigh.json](./43798-eos-edge-of-skyhigh.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
+| EoW: Willer's Dominion | 357514 | [357514-eow-willers-dominion.json](./357514-eow-willers-dominion.json) |
 | Ep. Kazoku | 266005 | [266005-ep-kazoku.json](./266005-ep-kazoku.json) |
 | Ep3 | 229588 | [229588-ep3.json](./229588-ep3.json) |
 | Epanalepsis | 11425 | [11425-epanalepsis.json](./11425-epanalepsis.json) |
