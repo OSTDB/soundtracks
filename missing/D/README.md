@@ -5759,6 +5759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space | 149190 | [149190-deep-space.json](./149190-deep-space.json) |
 | Deep Space | 237377 | [237377-deep-space.json](./237377-deep-space.json) |
 | Deep Space | 272554 | [272554-deep-space.json](./272554-deep-space.json) |
+| Deep Space | 386654 | [386654-deep-space.json](./386654-deep-space.json) |
 | Deep Space 7 | 308881 | [308881-deep-space-7.json](./308881-deep-space-7.json) |
 | Deep Space Airships | 176322 | [176322-deep-space-airships.json](./176322-deep-space-airships.json) |
 | Deep Space Anomaly | 113847 | [113847-deep-space-anomaly.json](./113847-deep-space-anomaly.json) |
@@ -9768,6 +9769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Story: Cyber Sleuth - Hacker's Memory | 27920 | [27920-digimon-story-cyber-sleuth-hackers-memory.json](./27920-digimon-story-cyber-sleuth-hackers-memory.json) |
 | Digimon Story: Cyber Sleuth - Hacker's Memory: Digimon 20th Anniversary Box | 167006 | [167006-digimon-story-cyber-sleuth-hackers-memory-digimon-20th-anniversary-box.json](./167006-digimon-story-cyber-sleuth-hackers-memory-digimon-20th-anniversary-box.json) |
 | Digimon Story: Lost Evolution | 67307 | [67307-digimon-story-lost-evolution.json](./67307-digimon-story-lost-evolution.json) |
+| Digimon Story: Time Stranger - Additional Digimon & Episode Pack 2: Gaku-Ran | 386646 | [386646-digimon-story-time-stranger-additional-digimon-and-episode-pack-2-gaku-ran.json](./386646-digimon-story-time-stranger-additional-digimon-and-episode-pack-2-gaku-ran.json) |
 | Digimon Story: Time Stranger - Costume Digimon Costume Set | 372277 | [372277-digimon-story-time-stranger-costume-digimon-costume-set.json](./372277-digimon-story-time-stranger-costume-digimon-costume-set.json) |
 | Digimon Story: Time Stranger - Costume Pack | 372276 | [372276-digimon-story-time-stranger-costume-pack.json](./372276-digimon-story-time-stranger-costume-pack.json) |
 | Digimon Story: Time Stranger - Costume Swimwear Set | 372278 | [372278-digimon-story-time-stranger-costume-swimwear-set.json](./372278-digimon-story-time-stranger-costume-swimwear-set.json) |
@@ -12408,6 +12410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodonpachi True Death exA Label | 219161 | [219161-dodonpachi-true-death-exa-label.json](./219161-dodonpachi-true-death-exa-label.json) |
 | DoDonPachi Unlimited | 264093 | [264093-dodonpachi-unlimited.json](./264093-dodonpachi-unlimited.json) |
 | DoDoon | 390178 | [390178-dodoon.json](./390178-dodoon.json) |
+| Dodori | 386659 | [386659-dodori.json](./386659-dodori.json) |
 | Doeo | 254300 | [254300-doeo.json](./254300-doeo.json) |
 | Doeoriki | 339485 | [339485-doeoriki.json](./339485-doeoriki.json) |
 | Does Blood: VR | 21953 | [21953-does-blood-vr.json](./21953-does-blood-vr.json) |
