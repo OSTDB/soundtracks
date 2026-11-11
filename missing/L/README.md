@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leapbound | 413883 | [413883-leapbound.json](./413883-leapbound.json) |
 | Leaper | 376574 | [376574-leaper.json](./376574-leaper.json) |
 | Leapfrog | 310992 | [310992-leapfrog.json](./310992-leapfrog.json) |
+| LeapFrog ABC Phonics Word Builder | 331026 | [331026-leapfrog-abc-phonics-word-builder.json](./331026-leapfrog-abc-phonics-word-builder.json) |
 | LeapFrog: Text & Learn | 327425 | [327425-leapfrog-text-and-learn.json](./327425-leapfrog-text-and-learn.json) |
 | Leapgate | 207629 | [207629-leapgate.json](./207629-leapgate.json) |
 | LeapII | 103955 | [103955-leapii.json](./103955-leapii.json) |
