@@ -10117,6 +10117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mess in the Toy Shop | 419827 | [419827-mess-in-the-toy-shop.json](./419827-mess-in-the-toy-shop.json) |
 | Mess Quest | 217139 | [217139-mess-quest.json](./217139-mess-quest.json) |
 | Messa Anomaly | 420762 | [420762-messa-anomaly.json](./420762-messa-anomaly.json) |
+| Message for My Dog | 385028 | [385028-message-for-my-dog.json](./385028-message-for-my-dog.json) |
 | Message From Aliens | 415077 | [415077-message-from-aliens.json](./415077-message-from-aliens.json) |
 | Message from Andromeda | 13014 | [13014-message-from-andromeda.json](./13014-message-from-andromeda.json) |
 | Message Navi Vol. 2 | 222670 | [222670-message-navi-vol-2.json](./222670-message-navi-vol-2.json) |
@@ -21445,6 +21446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cup of Coffee: Earl Grey Forever After | 57904 | [57904-my-cup-of-coffee-earl-grey-forever-after.json](./57904-my-cup-of-coffee-earl-grey-forever-after.json) |
 | My Cup of Coffee: The Trouble With Earl Grey | 57903 | [57903-my-cup-of-coffee-the-trouble-with-earl-grey.json](./57903-my-cup-of-coffee-the-trouble-with-earl-grey.json) |
 | My Cute Fuhrer | 280265 | [280265-my-cute-fuhrer.json](./280265-my-cute-fuhrer.json) |
+| My Cute Girls | 385017 | [385017-my-cute-girls.json](./385017-my-cute-girls.json) |
 | My Cute Pagangirl | 153037 | [153037-my-cute-pagangirl.json](./153037-my-cute-pagangirl.json) |
 | My Cute Roommate | 367134 | [367134-my-cute-roommate.json](./367134-my-cute-roommate.json) |
 | My Cute Succubus | 224528 | [224528-my-cute-succubus.json](./224528-my-cute-succubus.json) |
