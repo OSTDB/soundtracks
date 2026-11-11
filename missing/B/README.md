@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1713,7 +1714,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballade For Maria | 71563 | [71563-ballade-for-maria.json](./71563-ballade-for-maria.json) |
 | Ballade: With Memories | 127433 | [127433-ballade-with-memories.json](./127433-ballade-with-memories.json) |
 | Ballade2: the Celestial Promise | 118414 | [118414-ballade2-the-celestial-promise.json](./118414-ballade2-the-celestial-promise.json) |
-| Ballads at Midnight | 207399 | [207399-ballads-at-midnight.json](./207399-ballads-at-midnight.json) |
 | Ballads of Hongye | 197151 | [197151-ballads-of-hongye.json](./197151-ballads-of-hongye.json) |
 | Ballads of Hongye Reborn | 317781 | [317781-ballads-of-hongye-reborn.json](./317781-ballads-of-hongye-reborn.json) |
 | Ballads of Hongye: Grand Edition | 231575 | [231575-ballads-of-hongye-grand-edition.json](./231575-ballads-of-hongye-grand-edition.json) |
