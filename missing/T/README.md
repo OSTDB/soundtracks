@@ -10146,6 +10146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Five Nights at Freddy's Mod | 366300 | [366300-the-five-nights-at-freddys-mod.json](./366300-the-five-nights-at-freddys-mod.json) |
 | The Five Rivers Land | 277089 | [277089-the-five-rivers-land.json](./277089-the-five-rivers-land.json) |
 | The Five Steps to Ensuring Momo Graduates Successfully!!! | 216253 | [216253-the-five-steps-to-ensuring-momo-graduates-successfully.json](./216253-the-five-steps-to-ensuring-momo-graduates-successfully.json) |
+| The Fixer | 355244 | [355244-the-fixer.json](./355244-the-fixer.json) |
 | The Fixer of the Adventurer's Guild | 287106 | [287106-the-fixer-of-the-adventurers-guild.json](./287106-the-fixer-of-the-adventurers-guild.json) |
 | The Fixies | 296083 | [296083-the-fixies.json](./296083-the-fixies.json) |
 | The Flake Factory | 108293 | [108293-the-flake-factory.json](./108293-the-flake-factory.json) |
