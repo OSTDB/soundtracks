@@ -1019,7 +1019,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -11394,6 +11393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockiverse: Camouflage | 106144 | [106144-blockiverse-camouflage.json](./106144-blockiverse-camouflage.json) |
 | BlockJump | 273822 | [273822-blockjump.json](./273822-blockjump.json) |
 | Blockland | 7591 | [7591-blockland.json](./7591-blockland.json) |
+| Blockland Rebuilt | 341728 | [341728-blockland-rebuilt.json](./341728-blockland-rebuilt.json) |
 | Blockle | 36497 | [36497-blockle.json](./36497-blockle.json) |
 | BlockLock | 167468 | [167468-blocklock.json](./167468-blocklock.json) |
 | Blocklords | 262888 | [262888-blocklords.json](./262888-blocklords.json) |
@@ -19774,6 +19774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bytecollector | 349621 | [349621-bytecollector.json](./349621-bytecollector.json) |
 | Byter | 319575 | [319575-byter.json](./319575-byter.json) |
 | ByteRogue | 344990 | [344990-byterogue.json](./344990-byterogue.json) |
+| Bytes and Knights | 341761 | [341761-bytes-and-knights.json](./341761-bytes-and-knights.json) |
 | Bytes and Knights Adventure | 402433 | [402433-bytes-and-knights-adventure.json](./402433-bytes-and-knights-adventure.json) |
 | Bytes: The Reverse Tower Defense | 244707 | [244707-bytes-the-reverse-tower-defense.json](./244707-bytes-the-reverse-tower-defense.json) |
 | Bytesize | 263489 | [263489-bytesize.json](./263489-bytesize.json) |
