@@ -13962,6 +13962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Adventures | 233659 | [233659-boom-adventures.json](./233659-boom-adventures.json) |
 | Boom and Rum | 370412 | [370412-boom-and-rum.json](./370412-boom-and-rum.json) |
 | Boom Arena | 261988 | [261988-boom-arena.json](./261988-boom-arena.json) |
+| Boom Ascent | 355803 | [355803-boom-ascent.json](./355803-boom-ascent.json) |
 | Boom Ball 3 for Kinect | 83757 | [83757-boom-ball-3-for-kinect.json](./83757-boom-ball-3-for-kinect.json) |
 | Boom Ball for Kinect | 20305 | [20305-boom-ball-for-kinect.json](./20305-boom-ball-for-kinect.json) |
 | Boom Bang | 40631 | [40631-boom-bang.json](./40631-boom-bang.json) |
