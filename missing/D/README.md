@@ -13800,6 +13800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donna Kanji? Ii Kanji | 256271 | [256271-donna-kanji-ii-kanji.json](./256271-donna-kanji-ii-kanji.json) |
 | Donna Matrix | 60956 | [60956-donna-matrix.json](./60956-donna-matrix.json) |
 | Donna the Firebreather | 418525 | [418525-donna-the-firebreather.json](./418525-donna-the-firebreather.json) |
+| Donna: The Canine Quest | 329244 | [329244-donna-the-canine-quest.json](./329244-donna-the-canine-quest.json) |
 | Donnie Darko: The Adventure Game | 77539 | [77539-donnie-darko-the-adventure-game.json](./77539-donnie-darko-the-adventure-game.json) |
 | Donnie the Chao | 332736 | [332736-donnie-the-chao.json](./332736-donnie-the-chao.json) |
 | Donnie the Chao Final Mix | 316971 | [316971-donnie-the-chao-final-mix.json](./316971-donnie-the-chao-final-mix.json) |
