@@ -2118,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananas!!! | 22093 | [22093-bananas.json](./22093-bananas.json) |
 | BananaTron | 74066 | [74066-bananatron.json](./74066-bananatron.json) |
 | Bananaventure | 283563 | [283563-bananaventure.json](./283563-bananaventure.json) |
+| Bananitro | 329242 | [329242-bananitro.json](./329242-bananitro.json) |
 | Bananner Nababber | 211089 | [211089-bananner-nababber.json](./211089-bananner-nababber.json) |
 | Banano Bros. | 74586 | [74586-banano-bros.json](./74586-banano-bros.json) |
 | Bananoid | 11677 | [11677-bananoid.json](./11677-bananoid.json) |
@@ -2650,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barclay: The Marrowdale Murder | 29219 | [29219-barclay-the-marrowdale-murder.json](./29219-barclay-the-marrowdale-murder.json) |
 | Barcode Battler | 308060 | [308060-barcode-battler.json](./308060-barcode-battler.json) |
 | Barcode Battler | 308062 | [308062-barcode-battler.json](./308062-barcode-battler.json) |
+| Barcode Battler II: Senyou Card Software - Super Mario Kart | 329275 | [329275-barcode-battler-ii-senyou-card-software-super-mario-kart.json](./329275-barcode-battler-ii-senyou-card-software-super-mario-kart.json) |
 | Barcode Battler II: Senyou Card Software - Super Mario World | 329117 | [329117-barcode-battler-ii-senyou-card-software-super-mario-world.json](./329117-barcode-battler-ii-senyou-card-software-super-mario-world.json) |
 | Barcode Battler II: Senyou Card Software - Zelda no Densetsu: Kamigami no Triforce | 328949 | [328949-barcode-battler-ii-senyou-card-software-zelda-no-densetsu-kamigami-no-triforce.json](./328949-barcode-battler-ii-senyou-card-software-zelda-no-densetsu-kamigami-no-triforce.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Doraemon (Comics Ichizoku) | 329356 | [329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json](./329356-barcode-battler-ii-shogaku-ninensei-special-barcode-card-doraemon-comics-ichizoku.json) |
@@ -2657,9 +2659,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Hell Amb. (Hero Ichizoku) | 329361 | [329361-barcode-battler-ii-shogaku-ninensei-special-barcode-card-hell-amb-hero-ichizoku.json](./329361-barcode-battler-ii-shogaku-ninensei-special-barcode-card-hell-amb-hero-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Kamen Rider V3 (Hero Ichizoku) | 329358 | [329358-barcode-battler-ii-shogaku-ninensei-special-barcode-card-kamen-rider-v3-hero-ichizoku.json](./329358-barcode-battler-ii-shogaku-ninensei-special-barcode-card-kamen-rider-v3-hero-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Kirby (Game Ichizoku) | 329350 | [329350-barcode-battler-ii-shogaku-ninensei-special-barcode-card-kirby-game-ichizoku.json](./329350-barcode-battler-ii-shogaku-ninensei-special-barcode-card-kirby-game-ichizoku.json) |
+| Barcode Battler II: Shogaku Ninensei Special Barcode Card - Koopa | 329279 | [329279-barcode-battler-ii-shogaku-ninensei-special-barcode-card-koopa.json](./329279-barcode-battler-ii-shogaku-ninensei-special-barcode-card-koopa.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Koopa (Game Ichizoku) | 329347 | [329347-barcode-battler-ii-shogaku-ninensei-special-barcode-card-koopa-game-ichizoku.json](./329347-barcode-battler-ii-shogaku-ninensei-special-barcode-card-koopa-game-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Kunio (Game Ichizoku) | 329349 | [329349-barcode-battler-ii-shogaku-ninensei-special-barcode-card-kunio-game-ichizoku.json](./329349-barcode-battler-ii-shogaku-ninensei-special-barcode-card-kunio-game-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Luigi (Game Ichizoku) | 329346 | [329346-barcode-battler-ii-shogaku-ninensei-special-barcode-card-luigi-game-ichizoku.json](./329346-barcode-battler-ii-shogaku-ninensei-special-barcode-card-luigi-game-ichizoku.json) |
+| Barcode Battler II: Shogaku Ninensei Special Barcode Card - Mario | 329278 | [329278-barcode-battler-ii-shogaku-ninensei-special-barcode-card-mario.json](./329278-barcode-battler-ii-shogaku-ninensei-special-barcode-card-mario.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Mario (Game Ichizoku) | 329344 | [329344-barcode-battler-ii-shogaku-ninensei-special-barcode-card-mario-game-ichizoku.json](./329344-barcode-battler-ii-shogaku-ninensei-special-barcode-card-mario-game-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Redking (Hero Ichizoku) | 329360 | [329360-barcode-battler-ii-shogaku-ninensei-special-barcode-card-redking-hero-ichizoku.json](./329360-barcode-battler-ii-shogaku-ninensei-special-barcode-card-redking-hero-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Sonic (Game Ichizoku) | 329351 | [329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json](./329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json) |
@@ -2697,8 +2701,36 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Street Fighter II - 85. Shoryuken | 387989 | [387989-barcode-battler-ii-street-fighter-ii-85-shoryuken.json](./387989-barcode-battler-ii-street-fighter-ii-85-shoryuken.json) |
 | Barcode Battler II: Street Fighter II - 86. Tatsumaki Senpuukyaku | 387990 | [387990-barcode-battler-ii-street-fighter-ii-86-tatsumaki-senpuukyaku.json](./387990-barcode-battler-ii-street-fighter-ii-86-tatsumaki-senpuukyaku.json) |
 | Barcode Battler II: Street Fighter II - 9. Hyakuretsu Kyaku | 387991 | [387991-barcode-battler-ii-street-fighter-ii-9-hyakuretsu-kyaku.json](./387991-barcode-battler-ii-street-fighter-ii-9-hyakuretsu-kyaku.json) |
+| Barcode Battler II: Super Mario Kart - Banana | 329252 | [329252-barcode-battler-ii-super-mario-kart-banana.json](./329252-barcode-battler-ii-super-mario-kart-banana.json) |
+| Barcode Battler II: Super Mario Kart - Choropoo | 329259 | [329259-barcode-battler-ii-super-mario-kart-choropoo.json](./329259-barcode-battler-ii-super-mario-kart-choropoo.json) |
+| Barcode Battler II: Super Mario Kart - Coin | 329273 | [329273-barcode-battler-ii-super-mario-kart-coin.json](./329273-barcode-battler-ii-super-mario-kart-coin.json) |
+| Barcode Battler II: Super Mario Kart - Dashbahn | 329266 | [329266-barcode-battler-ii-super-mario-kart-dashbahn.json](./329266-barcode-battler-ii-super-mario-kart-dashbahn.json) |
+| Barcode Battler II: Super Mario Kart - Dokan | 329251 | [329251-barcode-battler-ii-super-mario-kart-dokan.json](./329251-barcode-battler-ii-super-mario-kart-dokan.json) |
+| Barcode Battler II: Super Mario Kart - Dokan X 3 | 329265 | [329265-barcode-battler-ii-super-mario-kart-dokan-x-3.json](./329265-barcode-battler-ii-super-mario-kart-dokan-x-3.json) |
+| Barcode Battler II: Super Mario Kart - Donkey Kong Jr. | 329248 | [329248-barcode-battler-ii-super-mario-kart-donkey-kong-jr.json](./329248-barcode-battler-ii-super-mario-kart-donkey-kong-jr.json) |
+| Barcode Battler II: Super Mario Kart - Dossun | 329264 | [329264-barcode-battler-ii-super-mario-kart-dossun.json](./329264-barcode-battler-ii-super-mario-kart-dossun.json) |
+| Barcode Battler II: Super Mario Kart - Egg | 329260 | [329260-barcode-battler-ii-super-mario-kart-egg.json](./329260-barcode-battler-ii-super-mario-kart-egg.json) |
+| Barcode Battler II: Super Mario Kart - Fireball | 329263 | [329263-barcode-battler-ii-super-mario-kart-fireball.json](./329263-barcode-battler-ii-super-mario-kart-fireball.json) |
+| Barcode Battler II: Super Mario Kart - Hane | 329272 | [329272-barcode-battler-ii-super-mario-kart-hane.json](./329272-barcode-battler-ii-super-mario-kart-hane.json) |
+| Barcode Battler II: Super Mario Kart - Inazuma | 329274 | [329274-barcode-battler-ii-super-mario-kart-inazuma.json](./329274-barcode-battler-ii-super-mario-kart-inazuma.json) |
+| Barcode Battler II: Super Mario Kart - Jugem | 329267 | [329267-barcode-battler-ii-super-mario-kart-jugem.json](./329267-barcode-battler-ii-super-mario-kart-jugem.json) |
+| Barcode Battler II: Super Mario Kart - Jumpbahn | 329261 | [329261-barcode-battler-ii-super-mario-kart-jumpbahn.json](./329261-barcode-battler-ii-super-mario-kart-jumpbahn.json) |
+| Barcode Battler II: Super Mario Kart - Kinoko | 329269 | [329269-barcode-battler-ii-super-mario-kart-kinoko.json](./329269-barcode-battler-ii-super-mario-kart-kinoko.json) |
+| Barcode Battler II: Super Mario Kart - Kinopio | 329250 | [329250-barcode-battler-ii-super-mario-kart-kinopio.json](./329250-barcode-battler-ii-super-mario-kart-kinopio.json) |
+| Barcode Battler II: Super Mario Kart - Koopa | 329247 | [329247-barcode-battler-ii-super-mario-kart-koopa.json](./329247-barcode-battler-ii-super-mario-kart-koopa.json) |
+| Barcode Battler II: Super Mario Kart - Koura. G | 329270 | [329270-barcode-battler-ii-super-mario-kart-koura-g.json](./329270-barcode-battler-ii-super-mario-kart-koura-g.json) |
+| Barcode Battler II: Super Mario Kart - Koura. R | 329271 | [329271-barcode-battler-ii-super-mario-kart-koura-r.json](./329271-barcode-battler-ii-super-mario-kart-koura-r.json) |
 | Barcode Battler II: Super Mario Kart - Luigi | 329223 | [329223-barcode-battler-ii-super-mario-kart-luigi.json](./329223-barcode-battler-ii-super-mario-kart-luigi.json) |
 | Barcode Battler II: Super Mario Kart - Mario | 329221 | [329221-barcode-battler-ii-super-mario-kart-mario.json](./329221-barcode-battler-ii-super-mario-kart-mario.json) |
+| Barcode Battler II: Super Mario Kart - Mud | 329258 | [329258-barcode-battler-ii-super-mario-kart-mud.json](./329258-barcode-battler-ii-super-mario-kart-mud.json) |
+| Barcode Battler II: Super Mario Kart - Nokonoko | 329249 | [329249-barcode-battler-ii-super-mario-kart-nokonoko.json](./329249-barcode-battler-ii-super-mario-kart-nokonoko.json) |
+| Barcode Battler II: Super Mario Kart - Oil | 329253 | [329253-barcode-battler-ii-super-mario-kart-oil.json](./329253-barcode-battler-ii-super-mario-kart-oil.json) |
+| Barcode Battler II: Super Mario Kart - Pakkun-Flower | 329254 | [329254-barcode-battler-ii-super-mario-kart-pakkun-flower.json](./329254-barcode-battler-ii-super-mario-kart-pakkun-flower.json) |
+| Barcode Battler II: Super Mario Kart - Peach | 329246 | [329246-barcode-battler-ii-super-mario-kart-peach.json](./329246-barcode-battler-ii-super-mario-kart-peach.json) |
+| Barcode Battler II: Super Mario Kart - Pond | 329256 | [329256-barcode-battler-ii-super-mario-kart-pond.json](./329256-barcode-battler-ii-super-mario-kart-pond.json) |
+| Barcode Battler II: Super Mario Kart - Pukupuku | 329255 | [329255-barcode-battler-ii-super-mario-kart-pukupuku.json](./329255-barcode-battler-ii-super-mario-kart-pukupuku.json) |
+| Barcode Battler II: Super Mario Kart - Star | 329268 | [329268-barcode-battler-ii-super-mario-kart-star.json](./329268-barcode-battler-ii-super-mario-kart-star.json) |
+| Barcode Battler II: Super Mario Kart - Yossy | 329245 | [329245-barcode-battler-ii-super-mario-kart-yossy.json](./329245-barcode-battler-ii-super-mario-kart-yossy.json) |
 | Barcode Battler II: Super Mario World - 1Up-Kinoko | 328648 | [328648-barcode-battler-ii-super-mario-world-1up-kinoko.json](./328648-barcode-battler-ii-super-mario-world-1up-kinoko.json) |
 | Barcode Battler II: Super Mario World - Bodypress | 328650 | [328650-barcode-battler-ii-super-mario-world-bodypress.json](./328650-barcode-battler-ii-super-mario-world-bodypress.json) |
 | Barcode Battler II: Super Mario World - Buibui | 328635 | [328635-barcode-battler-ii-super-mario-world-buibui.json](./328635-barcode-battler-ii-super-mario-world-buibui.json) |
@@ -13916,6 +13948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boogy | 193890 | [193890-boogy.json](./193890-boogy.json) |
 | BoohaBlox: Arcade | 276770 | [276770-boohablox-arcade.json](./276770-boohablox-arcade.json) |
 | Book 5 Untold | 254549 | [254549-book-5-untold.json](./254549-book-5-untold.json) |
+| Book Bound | 329286 | [329286-book-bound.json](./329286-book-bound.json) |
 | Book Collector | 212688 | [212688-book-collector.json](./212688-book-collector.json) |
 | Book End | 221419 | [221419-book-end.json](./221419-book-end.json) |
 | Book Head Monster | 359695 | [359695-book-head-monster.json](./359695-book-head-monster.json) |
@@ -14649,6 +14682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boukyaku no Senritsu | 49523 | [49523-boukyaku-no-senritsu.json](./49523-boukyaku-no-senritsu.json) |
 | Boulder Baby | 396450 | [396450-boulder-baby.json](./396450-boulder-baby.json) |
 | Boulder Boy | 61639 | [61639-boulder-boy.json](./61639-boulder-boy.json) |
+| Boulder Crash | 329283 | [329283-boulder-crash.json](./329283-boulder-crash.json) |
 | Boulder Dash | 12942 | [12942-boulder-dash.json](./12942-boulder-dash.json) |
 | Boulder Dash | 280820 | [280820-boulder-dash.json](./280820-boulder-dash.json) |
 | Boulder Dash | 280821 | [280821-boulder-dash.json](./280821-boulder-dash.json) |
