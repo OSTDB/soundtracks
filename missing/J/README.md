@@ -3442,6 +3442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump King: Ghost of the Babe | 386222 | [386222-jump-king-ghost-of-the-babe.json](./386222-jump-king-ghost-of-the-babe.json) |
 | Jump King: New Babe+ | 386223 | [386223-jump-king-new-babe.json](./386223-jump-king-new-babe.json) |
 | Jump Kingdom | 155998 | [155998-jump-kingdom.json](./155998-jump-kingdom.json) |
+| Jump Land Glow Challenge | 370595 | [370595-jump-land-glow-challenge.json](./370595-jump-land-glow-challenge.json) |
 | Jump Lanes | 187381 | [187381-jump-lanes.json](./187381-jump-lanes.json) |
 | Jump Like a Fricking Lobster | 419424 | [419424-jump-like-a-fricking-lobster.json](./419424-jump-like-a-fricking-lobster.json) |
 | Jump Like a Grad Student | 264763 | [264763-jump-like-a-grad-student.json](./264763-jump-like-a-grad-student.json) |
