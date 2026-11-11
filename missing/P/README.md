@@ -12039,6 +12039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Nameless Version | 381791 | [381791-pokemon-nameless-version.json](./381791-pokemon-nameless-version.json) |
 | Pokémon Nightmare | 409918 | [409918-pokemon-nightmare.json](./409918-pokemon-nightmare.json) |
 | Pokémon Nightmare Version: Invasion | 279053 | [279053-pokemon-nightmare-version-invasion.json](./279053-pokemon-nightmare-version-invasion.json) |
+| Pokémon Noon | 351876 | [351876-pokemon-noon.json](./351876-pokemon-noon.json) |
 | Pokémon Nova | 406870 | [406870-pokemon-nova.json](./406870-pokemon-nova.json) |
 | Pokemon Nova Sun | 288201 | [288201-pokemon-nova-sun.json](./288201-pokemon-nova-sun.json) |
 | Pokémon Null | 402136 | [402136-pokemon-null.json](./402136-pokemon-null.json) |
