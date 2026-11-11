@@ -592,6 +592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PACS: Post Apocalypse Courier Service | 323035 | [323035-pacs-post-apocalypse-courier-service.json](./323035-pacs-post-apocalypse-courier-service.json) |
 | Pact | 207683 | [207683-pact.json](./207683-pact.json) |
 | Pact | 230082 | [230082-pact.json](./230082-pact.json) |
+| Pact | 393154 | [393154-pact.json](./393154-pact.json) |
 | Pact of Blood | 351487 | [351487-pact-of-blood.json](./351487-pact-of-blood.json) |
 | Pact of Darkness | 217188 | [217188-pact-of-darkness.json](./217188-pact-of-darkness.json) |
 | Pact of Joy | 211619 | [211619-pact-of-joy.json](./211619-pact-of-joy.json) |
@@ -2226,6 +2227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallyzed | 28201 | [28201-parallyzed.json](./28201-parallyzed.json) |
 | Paralysi | 273999 | [273999-paralysi.json](./273999-paralysi.json) |
 | Paralysis | 89249 | [89249-paralysis.json](./89249-paralysis.json) |
+| Paralysis Penguin | 393178 | [393178-paralysis-penguin.json](./393178-paralysis-penguin.json) |
 | Paralyzed | 141787 | [141787-paralyzed.json](./141787-paralyzed.json) |
 | Paralyzis | 184500 | [184500-paralyzis.json](./184500-paralyzis.json) |
 | Paramedic Simulator | 141858 | [141858-paramedic-simulator.json](./141858-paramedic-simulator.json) |
@@ -4152,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pelé! | 78098 | [78098-pele.json](./78098-pele.json) |
 | Pelea | 51546 | [51546-pelea.json](./51546-pelea.json) |
 | Pelican | 345633 | [345633-pelican.json](./345633-pelican.json) |
+| Pelican Deep | 393195 | [393195-pelican-deep.json](./393195-pelican-deep.json) |
 | Pelican Empyrean | 373187 | [373187-pelican-empyrean.json](./373187-pelican-empyrean.json) |
 | Pelican Harbor | 302057 | [302057-pelican-harbor.json](./302057-pelican-harbor.json) |
 | Pelican Post | 338966 | [338966-pelican-post.json](./338966-pelican-post.json) |
@@ -6635,6 +6638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece of Memory | 48014 | [48014-piece-of-memory.json](./48014-piece-of-memory.json) |
 | Piece of Memory 2: Prologue | 48010 | [48010-piece-of-memory-2-prologue.json](./48010-piece-of-memory-2-prologue.json) |
 | Piece of Mind | 143649 | [143649-piece-of-mind.json](./143649-piece-of-mind.json) |
+| Piece of Ship | 393196 | [393196-piece-of-ship.json](./393196-piece-of-ship.json) |
 | Piece of the Pie Pursuit | 97155 | [97155-piece-of-the-pie-pursuit.json](./97155-piece-of-the-pie-pursuit.json) |
 | Piece of Wonder | 72669 | [72669-piece-of-wonder.json](./72669-piece-of-wonder.json) |
 | Piece of..Horror | 253873 | [253873-piece-of-horror.json](./253873-piece-of-horror.json) |
@@ -10081,6 +10085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
 | Plaquist Simulator | 280140 | [280140-plaquist-simulator.json](./280140-plaquist-simulator.json) |
 | Plarail Yume Ga Ippai! | 270150 | [270150-plarail-yume-ga-ippai.json](./270150-plarail-yume-ga-ippai.json) |
+| Plaser | 393187 | [393187-plaser.json](./393187-plaser.json) |
 | Plasma | 219093 | [219093-plasma.json](./219093-plasma.json) |
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
 | Plasma Ball | 294223 | [294223-plasma-ball.json](./294223-plasma-ball.json) |
