@@ -62,6 +62,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Blind Spot | 342330 | [342330-a-blind-spot.json](./342330-a-blind-spot.json) |
 | A Blocc World | 293077 | [293077-a-blocc-world.json](./293077-a-blocc-world.json) |
 | A Block Party! | 237595 | [237595-a-block-party.json](./237595-a-block-party.json) |
+| A Blocky Christmas | 319517 | [319517-a-blocky-christmas.json](./319517-a-blocky-christmas.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
 | A Bloody Night | 41960 | [41960-a-bloody-night.json](./41960-a-bloody-night.json) |
 | A Bloody Party | 114125 | [114125-a-bloody-party.json](./114125-a-bloody-party.json) |
@@ -3158,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Act Out | 67837 | [67837-act-out.json](./67837-act-out.json) |
 | Act-Fancer: Cybernetick Hyper Weapon | 12270 | [12270-act-fancer-cybernetick-hyper-weapon.json](./12270-act-fancer-cybernetick-hyper-weapon.json) |
 | Actala: The Hero's Shadow | 219700 | [219700-actala-the-heros-shadow.json](./219700-actala-the-heros-shadow.json) |
+| Acted | 319492 | [319492-acted.json](./319492-acted.json) |
 | Acter World | 80364 | [80364-acter-world.json](./80364-acter-world.json) |
 | Actias | 204681 | [204681-actias.json](./204681-actias.json) |
 | Acting Lessons | 121823 | [121823-acting-lessons.json](./121823-acting-lessons.json) |
@@ -10872,6 +10874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Kingdom 3 | 337279 | [337279-animal-kingdom-3.json](./337279-animal-kingdom-3.json) |
 | Animal Kingdom: Wildlife Expedition | 51010 | [51010-animal-kingdom-wildlife-expedition.json](./51010-animal-kingdom-wildlife-expedition.json) |
 | Animal Kostume | 249878 | [249878-animal-kostume.json](./249878-animal-kostume.json) |
+| Animal Kung Fu | 319329 | [319329-animal-kung-fu.json](./319329-animal-kung-fu.json) |
 | Animal Land Satsujin Jiken | 131910 | [131910-animal-land-satsujin-jiken.json](./131910-animal-land-satsujin-jiken.json) |
 | Animal Learning Puzzle for Toddlers and Kids | 147939 | [147939-animal-learning-puzzle-for-toddlers-and-kids.json](./147939-animal-learning-puzzle-for-toddlers-and-kids.json) |
 | Animal Liberation Squad | 155777 | [155777-animal-liberation-squad.json](./155777-animal-liberation-squad.json) |
@@ -15610,6 +15613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Rally: Australia | 275115 | [275115-art-of-rally-australia.json](./275115-art-of-rally-australia.json) |
 | Art of Rally: Collector's Edition | 199323 | [199323-art-of-rally-collectors-edition.json](./199323-art-of-rally-collectors-edition.json) |
 | Art of Rally: Deluxe Edition | 155074 | [155074-art-of-rally-deluxe-edition.json](./155074-art-of-rally-deluxe-edition.json) |
+| Art of Running | 319466 | [319466-art-of-running.json](./319466-art-of-running.json) |
 | Art of Solitaire | 347884 | [347884-art-of-solitaire.json](./347884-art-of-solitaire.json) |
 | Art of Speed | 264419 | [264419-art-of-speed.json](./264419-art-of-speed.json) |
 | Art of Stealth | 378322 | [378322-art-of-stealth.json](./378322-art-of-stealth.json) |
@@ -18651,6 +18655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurans | 289672 | [289672-aurans.json](./289672-aurans.json) |
 | Aurascope | 177951 | [177951-aurascope.json](./177951-aurascope.json) |
 | AuraTitan | 417677 | [417677-auratitan.json](./417677-auratitan.json) |
+| AuraVale | 319486 | [319486-auravale.json](./319486-auravale.json) |
 | Aurcus Online | 132715 | [132715-aurcus-online.json](./132715-aurcus-online.json) |
 | Aure | 349251 | [349251-aure.json](./349251-aure.json) |
 | Aurelia | 140721 | [140721-aurelia.json](./140721-aurelia.json) |
