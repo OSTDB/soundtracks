@@ -5994,6 +5994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties! They're All After Me | 306240 | [306240-beauties-theyre-all-after-me.json](./306240-beauties-theyre-all-after-me.json) |
 | Beautiful Amazing Jungle Animals for Kids | 100194 | [100194-beautiful-amazing-jungle-animals-for-kids.json](./100194-beautiful-amazing-jungle-animals-for-kids.json) |
 | Beautiful Bricks | 121035 | [121035-beautiful-bricks.json](./121035-beautiful-bricks.json) |
+| Beautiful Cell | 371161 | [371161-beautiful-cell.json](./371161-beautiful-cell.json) |
 | Beautiful Checkers | 338207 | [338207-beautiful-checkers.json](./338207-beautiful-checkers.json) |
 | Beautiful Chicken | 174804 | [174804-beautiful-chicken.json](./174804-beautiful-chicken.json) |
 | Beautiful Dangerous | 343371 | [343371-beautiful-dangerous.json](./343371-beautiful-dangerous.json) |
@@ -9451,6 +9452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Cat Adventures | 129752 | [129752-black-cat-adventures.json](./129752-black-cat-adventures.json) |
 | Black Cat Blitz | 316085 | [316085-black-cat-blitz.json](./316085-black-cat-blitz.json) |
 | Black Cat Book Club | 370010 | [370010-black-cat-book-club.json](./370010-black-cat-book-club.json) |
+| Black Cat Brawl | 370615 | [370615-black-cat-brawl.json](./370615-black-cat-brawl.json) |
 | Black Cat Bundle | 367627 | [367627-black-cat-bundle.json](./367627-black-cat-bundle.json) |
 | Black Cat Explores Minds | 151736 | [151736-black-cat-explores-minds.json](./151736-black-cat-explores-minds.json) |
 | Black Cat in a Black Room | 70046 | [70046-black-cat-in-a-black-room.json](./70046-black-cat-in-a-black-room.json) |
@@ -11200,6 +11202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Shock: The Last Chance | 14321 | [14321-block-shock-the-last-chance.json](./14321-block-shock-the-last-chance.json) |
 | Block Shop | 283387 | [283387-block-shop.json](./283387-block-shop.json) |
 | Block Siege VR | 309482 | [309482-block-siege-vr.json](./309482-block-siege-vr.json) |
+| Block Sky Rise | 370623 | [370623-block-sky-rise.json](./370623-block-sky-rise.json) |
 | Block Slender-Man 2: The Forest of Soul Harvest Hunter - Pocket Edition | 101016 | [101016-block-slender-man-2-the-forest-of-soul-harvest-hunter-pocket-edition.json](./101016-block-slender-man-2-the-forest-of-soul-harvest-hunter-pocket-edition.json) |
 | Block Slender-Man 3D: Lucky Survivor - Worldwide Multiplayer Edition | 327592 | [327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json](./327592-block-slender-man-3d-lucky-survivor-worldwide-multiplayer-edition.json) |
 | Block Slime Cave | 151563 | [151563-block-slime-cave.json](./151563-block-slime-cave.json) |
