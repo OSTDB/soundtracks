@@ -3668,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FC Barcelona Club Football | 267881 | [267881-fc-barcelona-club-football.json](./267881-fc-barcelona-club-football.json) |
 | FC Barcelona Club Football 2005 | 267909 | [267909-fc-barcelona-club-football-2005.json](./267909-fc-barcelona-club-football-2005.json) |
 | FCK: Lille Leo Bruger Bolden | 129778 | [129778-fck-lille-leo-bruger-bolden.json](./129778-fck-lille-leo-bruger-bolden.json) |
+| Fcorvus | 377516 | [377516-fcorvus.json](./377516-fcorvus.json) |
 | FD 27: Direct Your Football Club | 402996 | [402996-fd-27-direct-your-football-club.json](./402996-fd-27-direct-your-football-club.json) |
 | FD's Industry Tycoon | 409588 | [409588-fds-industry-tycoon.json](./409588-fds-industry-tycoon.json) |
 | FDNY Firefighter: American Heroes | 206050 | [206050-fdny-firefighter-american-heroes.json](./206050-fdny-firefighter-american-heroes.json) |
@@ -9387,6 +9388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog of War: Extended Edition | 53038 | [53038-fog-of-war-extended-edition.json](./53038-fog-of-war-extended-edition.json) |
 | Fog Racing Circuit | 370177 | [370177-fog-racing-circuit.json](./370177-fog-racing-circuit.json) |
 | Fog: Battle Royale | 208186 | [208186-fog-battle-royale.json](./208186-fog-battle-royale.json) |
+| Fogbound | 377512 | [377512-fogbound.json](./377512-fogbound.json) |
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
 | Foggy Golf | 378686 | [378686-foggy-golf.json](./378686-foggy-golf.json) |
 | Foggy Rainfall Escapade | 267265 | [267265-foggy-rainfall-escapade.json](./267265-foggy-rainfall-escapade.json) |
@@ -11916,6 +11918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fragmented Memories | 190387 | [190387-fragmented-memories.json](./190387-fragmented-memories.json) |
 | Fragmented Memories: Escape Room | 286345 | [286345-fragmented-memories-escape-room.json](./286345-fragmented-memories-escape-room.json) |
 | Fragmented Mind | 169477 | [169477-fragmented-mind.json](./169477-fragmented-mind.json) |
+| Fragmented Time | 377509 | [377509-fragmented-time.json](./377509-fragmented-time.json) |
 | Fragmentia | 180407 | [180407-fragmentia.json](./180407-fragmentia.json) |
 | Fragments | 142384 | [142384-fragments.json](./142384-fragments.json) |
 | Fragments | 224926 | [224926-fragments.json](./224926-fragments.json) |
