@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Augusta 3: Masters New | 37932 | [37932-harukanaru-augusta-3-masters-new.json](./37932-harukanaru-augusta-3-masters-new.json) |
 | Harukanaru Nirai Kanai | 318860 | [318860-harukanaru-nirai-kanai.json](./318860-harukanaru-nirai-kanai.json) |
 | Harukanaru Toki no Naka de | 49749 | [49749-harukanaru-toki-no-naka-de.json](./49749-harukanaru-toki-no-naka-de.json) |
+| Harukanaru Toki no Naka de : Ryugu no Miko | 394251 | [394251-harukanaru-toki-no-naka-de-ryugu-no-miko.json](./394251-harukanaru-toki-no-naka-de-ryugu-no-miko.json) |
 | Harukanaru Toki no Naka de 2 | 70658 | [70658-harukanaru-toki-no-naka-de-2.json](./70658-harukanaru-toki-no-naka-de-2.json) |
 | Harukanaru Toki no Naka de 3 | 70657 | [70657-harukanaru-toki-no-naka-de-3.json](./70657-harukanaru-toki-no-naka-de-3.json) |
 | Harukanaru Toki no Naka de 3 Ultimate | 136461 | [136461-harukanaru-toki-no-naka-de-3-ultimate.json](./136461-harukanaru-toki-no-naka-de-3-ultimate.json) |
@@ -6207,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Must Die. Again | 127334 | [127334-hero-must-die-again.json](./127334-hero-must-die-again.json) |
 | Hero Nexus | 216032 | [216032-hero-nexus.json](./216032-hero-nexus.json) |
 | Hero of Allacrost | 127885 | [127885-hero-of-allacrost.json](./127885-hero-of-allacrost.json) |
+| Hero of Cursed Island | 393694 | [393694-hero-of-cursed-island.json](./393694-hero-of-cursed-island.json) |
 | Hero of Fate | 250886 | [250886-hero-of-fate.json](./250886-hero-of-fate.json) |
 | Hero of Fate: Darkness Land | 292647 | [292647-hero-of-fate-darkness-land.json](./292647-hero-of-fate-darkness-land.json) |
 | Hero of Fate: Deluxe Edition | 284936 | [284936-hero-of-fate-deluxe-edition.json](./284936-hero-of-fate-deluxe-edition.json) |
@@ -8815,6 +8817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitler My Friend | 277006 | [277006-hitler-my-friend.json](./277006-hitler-my-friend.json) |
 | Hitler no Fukkatsu: Top Secret | 48580 | [48580-hitler-no-fukkatsu-top-secret.json](./48580-hitler-no-fukkatsu-top-secret.json) |
 | Hitler on the Moon | 154766 | [154766-hitler-on-the-moon.json](./154766-hitler-on-the-moon.json) |
+| Hitler: BDSM Bunker | 393699 | [393699-hitler-bdsm-bunker.json](./393699-hitler-bdsm-bunker.json) |
 | Hitm3 | 291870 | [291870-hitm3.json](./291870-hitm3.json) |
 | Hitmaker Tycoon | 395704 | [395704-hitmaker-tycoon.json](./395704-hitmaker-tycoon.json) |
 | Hitman | 218314 | [218314-hitman.json](./218314-hitman.json) |
