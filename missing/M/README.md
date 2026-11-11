@@ -10928,6 +10928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mezase Pachi Pro: Pachio-kun | 48776 | [48776-mezase-pachi-pro-pachio-kun.json](./48776-mezase-pachi-pro-pachio-kun.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
 | Mezase! Koushien | 49688 | [49688-mezase-koushien.json](./49688-mezase-koushien.json) |
+| Mezase! Meimon Yakyuu-bu | 387119 | [387119-mezase-meimon-yakyuu-bu.json](./387119-mezase-meimon-yakyuu-bu.json) |
 | Mezase! Monmusu Idol | 77847 | [77847-mezase-monmusu-idol.json](./77847-mezase-monmusu-idol.json) |
 | Mezase! Senkyu Ou | 166151 | [166151-mezase-senkyu-ou.json](./166151-mezase-senkyu-ou.json) |
 | Mezase! Shoujo Mangaka! Chao Manga School | 130715 | [130715-mezase-shoujo-mangaka-chao-manga-school.json](./130715-mezase-shoujo-mangaka-chao-manga-school.json) |
