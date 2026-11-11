@@ -11594,6 +11594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clown Works Kyojitsu Gairon 0 Shou Soshite 1 Shou | 153733 | [153733-clown-works-kyojitsu-gairon-0-shou-soshite-1-shou.json](./153733-clown-works-kyojitsu-gairon-0-shou-soshite-1-shou.json) |
 | Clown's Secret | 90219 | [90219-clowns-secret.json](./90219-clowns-secret.json) |
 | Clown2Beat | 30828 | [30828-clown2beat.json](./30828-clown2beat.json) |
+| Clowned King | 329288 | [329288-clowned-king.json](./329288-clowned-king.json) |
 | Clowned Pro | 276060 | [276060-clowned-pro.json](./276060-clowned-pro.json) |
 | Clownfield 2042 | 186132 | [186132-clownfield-2042.json](./186132-clownfield-2042.json) |
 | Clownfield 6 | 383451 | [383451-clownfield-6.json](./383451-clownfield-6.json) |
