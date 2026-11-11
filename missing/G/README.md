@@ -2434,6 +2434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gatuno in Christmas | 315152 | [315152-gatuno-in-christmas.json](./315152-gatuno-in-christmas.json) |
 | Gatuno in Halloween | 315150 | [315150-gatuno-in-halloween.json](./315150-gatuno-in-halloween.json) |
 | Gaucho and the Grassland | 192368 | [192368-gaucho-and-the-grassland.json](./192368-gaucho-and-the-grassland.json) |
+| Gaucho: Subway Escape | 341749 | [341749-gaucho-subway-escape.json](./341749-gaucho-subway-escape.json) |
 | Gaudi: Barcelona no Kaze | 118312 | [118312-gaudi-barcelona-no-kaze.json](./118312-gaudi-barcelona-no-kaze.json) |
 | Gauge | 9837 | [9837-gauge.json](./9837-gauge.json) |
 | Gauge Guessr | 409727 | [409727-gauge-guessr.json](./409727-gauge-guessr.json) |
@@ -3888,6 +3889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gex Trilogy | 256406 | [256406-gex-trilogy.json](./256406-gex-trilogy.json) |
 | Gex: Enter the Gecko | 248746 | [248746-gex-enter-the-gecko.json](./248746-gex-enter-the-gecko.json) |
 | Gex: Enter the Gecko | 3506 | [3506-gex-enter-the-gecko.json](./3506-gex-enter-the-gecko.json) |
+| Geyserlands | 341724 | [341724-geyserlands.json](./341724-geyserlands.json) |
 | Gezeichnet: Unsere Flucht 1945 | 244928 | [244928-gezeichnet-unsere-flucht-1945.json](./244928-gezeichnet-unsere-flucht-1945.json) |
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
 | GFL Championship Football | 14896 | [14896-gfl-championship-football.json](./14896-gfl-championship-football.json) |
@@ -5150,6 +5152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade 2: Illusions - Scaryfolks Puzzle Pack | 230163 | [230163-glass-masquerade-2-illusions-scaryfolks-puzzle-pack.json](./230163-glass-masquerade-2-illusions-scaryfolks-puzzle-pack.json) |
 | Glass Masquerade 3: Honeylines | 249809 | [249809-glass-masquerade-3-honeylines.json](./249809-glass-masquerade-3-honeylines.json) |
 | Glass Masquerade 3: Honeylines - Folks & Spirits | 307201 | [307201-glass-masquerade-3-honeylines-folks-and-spirits.json](./307201-glass-masquerade-3-honeylines-folks-and-spirits.json) |
+| Glass Masquerade 3: Honeylines - Tales & Strives | 341774 | [341774-glass-masquerade-3-honeylines-tales-and-strives.json](./341774-glass-masquerade-3-honeylines-tales-and-strives.json) |
 | Glass Masquerade 3: Honeylines - Wings & Tunes | 274640 | [274640-glass-masquerade-3-honeylines-wings-and-tunes.json](./274640-glass-masquerade-3-honeylines-wings-and-tunes.json) |
 | Glass Masquerade 4: Constellations | 362786 | [362786-glass-masquerade-4-constellations.json](./362786-glass-masquerade-4-constellations.json) |
 | Glass Masquerade 4: Constellations - Celestials | 403633 | [403633-glass-masquerade-4-constellations-celestials.json](./403633-glass-masquerade-4-constellations-celestials.json) |
@@ -5226,6 +5229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glimmer | 381053 | [381053-glimmer.json](./381053-glimmer.json) |
 | Glimmer and the Dark Halloween Pumpkin | 323105 | [323105-glimmer-and-the-dark-halloween-pumpkin.json](./323105-glimmer-and-the-dark-halloween-pumpkin.json) |
 | Glimmer Chain | 239727 | [239727-glimmer-chain.json](./239727-glimmer-chain.json) |
+| Glimmer Fighters | 341727 | [341727-glimmer-fighters.json](./341727-glimmer-fighters.json) |
 | Glimmer in Mirror | 139576 | [139576-glimmer-in-mirror.json](./139576-glimmer-in-mirror.json) |
 | Glimmerati | 6263 | [6263-glimmerati.json](./6263-glimmerati.json) |
 | Glimmers of the Past | 409774 | [409774-glimmers-of-the-past.json](./409774-glimmers-of-the-past.json) |
