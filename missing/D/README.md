@@ -11810,7 +11810,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divi-Dead | 12420 | [12420-divi-dead.json](./12420-divi-dead.json) |
 | Divid[E]: D[E]Ad Letters | 396196 | [396196-divid-e-d-e-ad-letters.json](./396196-divid-e-d-e-ad-letters.json) |
 | Divide | 178473 | [178473-divide.json](./178473-divide.json) |
-| Divide | 18364 | [18364-divide.json](./18364-divide.json) |
 | Divide & Conquer | 75609 | [75609-divide-and-conquer.json](./75609-divide-and-conquer.json) |
 | Divide and Conquer | 356229 | [356229-divide-and-conquer.json](./356229-divide-and-conquer.json) |
 | Divide By Sheep | 15924 | [15924-divide-by-sheep.json](./15924-divide-by-sheep.json) |
