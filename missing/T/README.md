@@ -7334,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bundle of Wonders | 173792 | [173792-the-bundle-of-wonders.json](./173792-the-bundle-of-wonders.json) |
 | The Bunker | 171794 | [171794-the-bunker.json](./171794-the-bunker.json) |
 | The Bunker | 24017 | [24017-the-bunker.json](./24017-the-bunker.json) |
+| The Bunker | 333252 | [333252-the-bunker.json](./333252-the-bunker.json) |
 | The Bunker Notes | 342308 | [342308-the-bunker-notes.json](./342308-the-bunker-notes.json) |
 | The Bunny Burrow | 362738 | [362738-the-bunny-burrow.json](./362738-the-bunny-burrow.json) |
 | The Bunny Graveyard | 197086 | [197086-the-bunny-graveyard.json](./197086-the-bunny-graveyard.json) |
@@ -13334,6 +13335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Korra | 7877 | [7877-the-legend-of-korra.json](./7877-the-legend-of-korra.json) |
 | The Legend of Korra A New Era Beings | 44022 | [44022-the-legend-of-korra-a-new-era-beings.json](./44022-the-legend-of-korra-a-new-era-beings.json) |
 | The Legend of Korra: A New Era Begins | 7996 | [7996-the-legend-of-korra-a-new-era-begins.json](./7996-the-legend-of-korra-a-new-era-begins.json) |
+| The Legend Of Kuro | 333273 | [333273-the-legend-of-kuro.json](./333273-the-legend-of-kuro.json) |
 | The Legend of Kusakari | 23421 | [23421-the-legend-of-kusakari.json](./23421-the-legend-of-kusakari.json) |
 | The Legend of Kyrandia | 1282 | [1282-the-legend-of-kyrandia.json](./1282-the-legend-of-kyrandia.json) |
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
@@ -26600,6 +26602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider Anthology | 44886 | [44886-tomb-raider-anthology.json](./44886-tomb-raider-anthology.json) |
 | Tomb Raider Arcade | 86503 | [86503-tomb-raider-arcade.json](./86503-tomb-raider-arcade.json) |
 | Tomb Raider Collection 1 | 299439 | [299439-tomb-raider-collection-1.json](./299439-tomb-raider-collection-1.json) |
+| Tomb Raider Collection 2 | 333259 | [333259-tomb-raider-collection-2.json](./333259-tomb-raider-collection-2.json) |
 | Tomb Raider I-VI Remastered | 331905 | [331905-tomb-raider-i-vi-remastered.json](./331905-tomb-raider-i-vi-remastered.json) |
 | Tomb Raider I•II•III Remastered | 266683 | [266683-tomb-raider-i-ii-iii-remastered.json](./266683-tomb-raider-i-ii-iii-remastered.json) |
 | Tomb Raider I•II•III Remastered: Deluxe Edition | 324605 | [324605-tomb-raider-i-ii-iii-remastered-deluxe-edition.json](./324605-tomb-raider-i-ii-iii-remastered-deluxe-edition.json) |
