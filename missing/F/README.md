@@ -7511,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Raiden's | 327792 | [327792-five-nights-at-raidens.json](./327792-five-nights-at-raidens.json) |
 | Five Nights at Roblox 2 RePartyin | 262219 | [262219-five-nights-at-roblox-2-repartyin.json](./262219-five-nights-at-roblox-2-repartyin.json) |
 | Five Nights at Roner's 2 | 302308 | [302308-five-nights-at-roners-2.json](./302308-five-nights-at-roners-2.json) |
+| Five Nights at Roner's 3 | 350118 | [350118-five-nights-at-roners-3.json](./350118-five-nights-at-roners-3.json) |
 | Five Nights at Roner's: Remastered | 330734 | [330734-five-nights-at-roners-remastered.json](./330734-five-nights-at-roners-remastered.json) |
 | Five Nights at RPG Boy's | 339599 | [339599-five-nights-at-rpg-boys.json](./339599-five-nights-at-rpg-boys.json) |
 | Five Nights at SCP | 274256 | [274256-five-nights-at-scp.json](./274256-five-nights-at-scp.json) |
@@ -12809,6 +12810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friend Guys | 428424 | [428424-friend-guys.json](./428424-friend-guys.json) |
 | Friend Hunt | 276777 | [276777-friend-hunt.json](./276777-friend-hunt.json) |
 | Friend Network | 52229 | [52229-friend-network.json](./52229-friend-network.json) |
+| Friend of a Slime | 350092 | [350092-friend-of-a-slime.json](./350092-friend-of-a-slime.json) |
 | Friend on the Go | 217243 | [217243-friend-on-the-go.json](./217243-friend-on-the-go.json) |
 | Friend or Foe | 231728 | [231728-friend-or-foe.json](./231728-friend-or-foe.json) |
 | Friend Ship | 270043 | [270043-friend-ship.json](./270043-friend-ship.json) |
