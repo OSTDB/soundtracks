@@ -3317,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
 | Head Strike: 1v1 Soccer Games | 216033 | [216033-head-strike-1v1-soccer-games.json](./216033-head-strike-1v1-soccer-games.json) |
 | Head to Head Basketball | 245467 | [245467-head-to-head-basketball.json](./245467-head-to-head-basketball.json) |
+| Head To Head Boxing | 375725 | [375725-head-to-head-boxing.json](./375725-head-to-head-boxing.json) |
 | Head to Head Football | 217833 | [217833-head-to-head-football.json](./217833-head-to-head-football.json) |
 | Head to Head Hockey | 245466 | [245466-head-to-head-hockey.json](./245466-head-to-head-hockey.json) |
 | Head to Head Talking Baseball | 217667 | [217667-head-to-head-talking-baseball.json](./217667-head-to-head-talking-baseball.json) |
