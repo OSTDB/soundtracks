@@ -8863,6 +8863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riyou | 369076 | [369076-riyou.json](./369076-riyou.json) |
 | Riyou Kiyaku | 418728 | [418728-riyou-kiyaku.json](./418728-riyou-kiyaku.json) |
 | Rize of the Summonds | 25594 | [25594-rize-of-the-summonds.json](./25594-rize-of-the-summonds.json) |
+| Riziki | 345185 | [345185-riziki.json](./345185-riziki.json) |
 | Rizline | 245214 | [245214-rizline.json](./245214-rizline.json) |
 | Rizuberuru no Ma 1+2 | 386857 | [386857-rizuberuru-no-ma-1-2.json](./386857-rizuberuru-no-ma-1-2.json) |
 | Rizuberuru no Ma 3+4 | 386858 | [386858-rizuberuru-no-ma-3-4.json](./386858-rizuberuru-no-ma-3-4.json) |
