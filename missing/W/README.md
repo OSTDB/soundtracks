@@ -3487,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Home | 327352 | [327352-welcome-home.json](./327352-welcome-home.json) |
 | Welcome Home 2 | 181062 | [181062-welcome-home-2.json](./181062-welcome-home-2.json) |
 | Welcome Home, Love | 30594 | [30594-welcome-home-love.json](./30594-welcome-home-love.json) |
+| Welcome Home, Sweetie | 363079 | [363079-welcome-home-sweetie.json](./363079-welcome-home-sweetie.json) |
 | Welcome House | 62987 | [62987-welcome-house.json](./62987-welcome-house.json) |
 | Welcome House 2: Keaton and His Uncle | 62985 | [62985-welcome-house-2-keaton-and-his-uncle.json](./62985-welcome-house-2-keaton-and-his-uncle.json) |
 | Welcome into the Forest of Aurora !! | 70344 | [70344-welcome-into-the-forest-of-aurora.json](./70344-welcome-into-the-forest-of-aurora.json) |
@@ -4335,6 +4336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When the Night Comes | 117139 | [117139-when-the-night-comes.json](./117139-when-the-night-comes.json) |
 | When the Past Was Around | 119324 | [119324-when-the-past-was-around.json](./119324-when-the-past-was-around.json) |
 | When the River Runs Dry | 185247 | [185247-when-the-river-runs-dry.json](./185247-when-the-river-runs-dry.json) |
+| When the Road Darkens | 363099 | [363099-when-the-road-darkens.json](./363099-when-the-road-darkens.json) |
 | When The Rumors Become Real | 370185 | [370185-when-the-rumors-become-real.json](./370185-when-the-rumors-become-real.json) |
 | When the Shutter Stops | 109713 | [109713-when-the-shutter-stops.json](./109713-when-the-shutter-stops.json) |
 | When The Snow is Gone | 383352 | [383352-when-the-snow-is-gone.json](./383352-when-the-snow-is-gone.json) |
