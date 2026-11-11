@@ -2217,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara Carbonara | 132760 | [132760-capybara-carbonara.json](./132760-capybara-carbonara.json) |
 | Capybara Fighters! | 312609 | [312609-capybara-fighters.json](./312609-capybara-fighters.json) |
 | Capybara Go! | 318448 | [318448-capybara-go.json](./318448-capybara-go.json) |
+| Capybara Goes to Space | 361371 | [361371-capybara-goes-to-space.json](./361371-capybara-goes-to-space.json) |
 | Capybara Hotel | 239833 | [239833-capybara-hotel.json](./239833-capybara-hotel.json) |
 | Capybara Journey Go | 378782 | [378782-capybara-journey-go.json](./378782-capybara-journey-go.json) |
 | Capybara Madness | 231273 | [231273-capybara-madness.json](./231273-capybara-madness.json) |
@@ -5443,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cazzarion: Mosquito Hunt | 308305 | [308305-cazzarion-mosquito-hunt.json](./308305-cazzarion-mosquito-hunt.json) |
 | Cazzarion: Pop The Bubbles | 296737 | [296737-cazzarion-pop-the-bubbles.json](./296737-cazzarion-pop-the-bubbles.json) |
 | Cazzarion: Portal Pilot | 305782 | [305782-cazzarion-portal-pilot.json](./305782-cazzarion-portal-pilot.json) |
+| Cazzarion: Raccoon Valley | 361348 | [361348-cazzarion-raccoon-valley.json](./361348-cazzarion-raccoon-valley.json) |
 | Cazzarion: Robot Rush | 300994 | [300994-cazzarion-robot-rush.json](./300994-cazzarion-robot-rush.json) |
 | Cazzarion: Rocket Raid | 302234 | [302234-cazzarion-rocket-raid.json](./302234-cazzarion-rocket-raid.json) |
 | Cazzarion: Shellfish Frenzy | 292900 | [292900-cazzarion-shellfish-frenzy.json](./292900-cazzarion-shellfish-frenzy.json) |
@@ -14163,6 +14165,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ComputerCraft | 232659 | [232659-computercraft.json](./232659-computercraft.json) |
 | Computerfriend | 215231 | [215231-computerfriend.json](./215231-computerfriend.json) |
 | Computergirl888 | 226683 | [226683-computergirl888.json](./226683-computergirl888.json) |
+| ComputerHead: Leapbound | 361380 | [361380-computerhead-leapbound.json](./361380-computerhead-leapbound.json) |
+| ComputerHead: Recoil | 361370 | [361370-computerhead-recoil.json](./361370-computerhead-recoil.json) |
 | ComputerHead: Springloaded | 349817 | [349817-computerhead-springloaded.json](./349817-computerhead-springloaded.json) |
 | Comrade Quack | 195176 | [195176-comrade-quack.json](./195176-comrade-quack.json) |
 | Comrade Trump's Re-election | 286523 | [286523-comrade-trumps-re-election.json](./286523-comrade-trumps-re-election.json) |
