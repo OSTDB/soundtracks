@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstraction | 154572 | [154572-abstraction.json](./154572-abstraction.json) |
 | Abstractism | 81877 | [81877-abstractism.json](./81877-abstractism.json) |
 | Abstracto | 283874 | [283874-abstracto.json](./283874-abstracto.json) |
+| Abstractpunk | 346283 | [346283-abstractpunk.json](./346283-abstractpunk.json) |
 | Abstrrkt Explorers | 143607 | [143607-abstrrkt-explorers.json](./143607-abstrrkt-explorers.json) |
 | Absum | 366999 | [366999-absum.json](./366999-absum.json) |
 | Absurbia: A Trashy Satire of Suburban Outcries | 159858 | [159858-absurbia-a-trashy-satire-of-suburban-outcries.json](./159858-absurbia-a-trashy-satire-of-suburban-outcries.json) |
