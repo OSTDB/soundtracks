@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raef | 131588 | [131588-raef.json](./131588-raef.json) |
 | Raev: Kingdom on the Distant Shores | 336154 | [336154-raev-kingdom-on-the-distant-shores.json](./336154-raev-kingdom-on-the-distant-shores.json) |
 | Raey | 296586 | [296586-raey.json](./296586-raey.json) |
+| RAF Survival: Ocean Shark Survivor | 325781 | [325781-raf-survival-ocean-shark-survivor.json](./325781-raf-survival-ocean-shark-survivor.json) |
 | Rafa Nadal Tennis | 23104 | [23104-rafa-nadal-tennis.json](./23104-rafa-nadal-tennis.json) |
 | Rafa's World | 231034 | [231034-rafas-world.json](./231034-rafas-world.json) |
 | Rafa's World + Axolotl + Cat Milk | 242658 | [242658-rafas-world-axolotl-cat-milk.json](./242658-rafas-world-axolotl-cat-milk.json) |
