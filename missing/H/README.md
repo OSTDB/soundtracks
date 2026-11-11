@@ -2421,6 +2421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harts Island | 137771 | [137771-harts-island.json](./137771-harts-island.json) |
 | Harts Island | 153492 | [153492-harts-island.json](./153492-harts-island.json) |
 | Haru | 148855 | [148855-haru.json](./148855-haru.json) |
+| Haru and Wonder Land | 337346 | [337346-haru-and-wonder-land.json](./337346-haru-and-wonder-land.json) |
 | Haru he to Tsuzuku Oka | 388003 | [388003-haru-he-to-tsuzuku-oka.json](./388003-haru-he-to-tsuzuku-oka.json) |
 | Haru Ichiban | 209708 | [209708-haru-ichiban.json](./209708-haru-ichiban.json) |
 | Haru Kiss | 59738 | [59738-haru-kiss.json](./59738-haru-kiss.json) |
