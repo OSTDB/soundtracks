@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawn Mower | 48731 | [48731-lawn-mower.json](./48731-lawn-mower.json) |
 | Lawn Mower Racing | 353956 | [353956-lawn-mower-racing.json](./353956-lawn-mower-racing.json) |
 | Lawn Mowing Simulator | 145134 | [145134-lawn-mowing-simulator.json](./145134-lawn-mowing-simulator.json) |
+| Lawn Mowing Simulator 2 | 375076 | [375076-lawn-mowing-simulator-2.json](./375076-lawn-mowing-simulator-2.json) |
 | Lawn Mowing Simulator VR | 284830 | [284830-lawn-mowing-simulator-vr.json](./284830-lawn-mowing-simulator-vr.json) |
 | Lawn Mowing Simulator: Ancient Britain | 196062 | [196062-lawn-mowing-simulator-ancient-britain.json](./196062-lawn-mowing-simulator-ancient-britain.json) |
 | Lawn Mowing Simulator: Dino Safari | 196154 | [196154-lawn-mowing-simulator-dino-safari.json](./196154-lawn-mowing-simulator-dino-safari.json) |
