@@ -10065,6 +10065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merry Xmas Santa | 57170 | [57170-merry-xmas-santa.json](./57170-merry-xmas-santa.json) |
 | Merry XMerge | 280128 | [280128-merry-xmerge.json](./280128-merry-xmerge.json) |
 | Merry's Errands | 208221 | [208221-merrys-errands.json](./208221-merrys-errands.json) |
+| Merry’s Seven Wishes | 390839 | [390839-merry-s-seven-wishes.json](./390839-merry-s-seven-wishes.json) |
 | Merto's Part | 168644 | [168644-mertos-part.json](./168644-mertos-part.json) |
 | Meru Purana | 125421 | [125421-meru-purana.json](./125421-meru-purana.json) |
 | Merv Griffin's Crosswords | 50945 | [50945-merv-griffins-crosswords.json](./50945-merv-griffins-crosswords.json) |
@@ -13243,6 +13244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineDeeper | 376265 | [376265-minedeeper.json](./376265-minedeeper.json) |
 | Minedle | 375535 | [375535-minedle.json](./375535-minedle.json) |
 | MineDrill Redux | 41945 | [41945-minedrill-redux.json](./41945-minedrill-redux.json) |
+| MineEngineer | 390830 | [390830-mineengineer.json](./390830-mineengineer.json) |
 | Minefield | 175624 | [175624-minefield.json](./175624-minefield.json) |
 | Minefield | 39724 | [39724-minefield.json](./39724-minefield.json) |
 | Minefield Combat | 315660 | [315660-minefield-combat.json](./315660-minefield-combat.json) |
@@ -20681,6 +20683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mush Rush: Stock Market Tycoon | 250389 | [250389-mush-rush-stock-market-tycoon.json](./250389-mush-rush-stock-market-tycoon.json) |
 | Mush Work Together | 183406 | [183406-mush-work-together.json](./183406-mush-work-together.json) |
 | Musha Musha Memorial | 355187 | [355187-musha-musha-memorial.json](./355187-musha-musha-memorial.json) |
+| Mushi | 390313 | [390313-mushi.json](./390313-mushi.json) |
 | Mushi Battle Arena | 328616 | [328616-mushi-battle-arena.json](./328616-mushi-battle-arena.json) |
 | Mushi Life | 376115 | [376115-mushi-life.json](./376115-mushi-life.json) |
 | Mushi Mansion | 389826 | [389826-mushi-mansion.json](./389826-mushi-mansion.json) |
