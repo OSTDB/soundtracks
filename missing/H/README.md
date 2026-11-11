@@ -7318,6 +7318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Castle Top-Down 3D | 290761 | [290761-hidden-castle-top-down-3d.json](./290761-hidden-castle-top-down-3d.json) |
 | Hidden Cat Outlaws | 291414 | [291414-hidden-cat-outlaws.json](./291414-hidden-cat-outlaws.json) |
 | Hidden Cats | 183564 | [183564-hidden-cats.json](./183564-hidden-cats.json) |
+| Hidden Cats Ellara | 341738 | [341738-hidden-cats-ellara.json](./341738-hidden-cats-ellara.json) |
 | Hidden Cats In Amusement Park | 263791 | [263791-hidden-cats-in-amusement-park.json](./263791-hidden-cats-in-amusement-park.json) |
 | Hidden Cats in Barcelona | 400653 | [400653-hidden-cats-in-barcelona.json](./400653-hidden-cats-in-barcelona.json) |
 | Hidden Cats in Berlin | 291421 | [291421-hidden-cats-in-berlin.json](./291421-hidden-cats-in-berlin.json) |
@@ -8742,6 +8743,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hishou Same! Same! Same! | 186708 | [186708-hishou-same-same-same.json](./186708-hishou-same-same-same.json) |
 | Hisou Kihei Kai Serd | 42034 | [42034-hisou-kihei-kai-serd.json](./42034-hisou-kihei-kai-serd.json) |
 | Hisou Kihei X-Serd | 59349 | [59349-hisou-kihei-x-serd.json](./59349-hisou-kihei-x-serd.json) |
+| Hispalis Cardgame | 341784 | [341784-hispalis-cardgame.json](./341784-hispalis-cardgame.json) |
+| Hispalis: Proyecto NoDo | 341783 | [341783-hispalis-proyecto-nodo.json](./341783-hispalis-proyecto-nodo.json) |
 | Hispania 1200 | 356167 | [356167-hispania-1200.json](./356167-hispania-1200.json) |
 | Hispania in the Middle Ages | 356238 | [356238-hispania-in-the-middle-ages.json](./356238-hispania-in-the-middle-ages.json) |
 | Hispanic Community Project | 314746 | [314746-hispanic-community-project.json](./314746-hispanic-community-project.json) |
@@ -12404,6 +12407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Farm | 133347 | [133347-human-farm.json](./133347-human-farm.json) |
 | Human Farm | 375935 | [375935-human-farm.json](./375935-human-farm.json) |
 | Human Farm: Pratice Section | 260445 | [260445-human-farm-pratice-section.json](./260445-human-farm-pratice-section.json) |
+| Human Fast Food | 341723 | [341723-human-fast-food.json](./341723-human-fast-food.json) |
 | Human Grand Prix III: F1 Triple Battle | 38172 | [38172-human-grand-prix-iii-f1-triple-battle.json](./38172-human-grand-prix-iii-f1-triple-battle.json) |
 | Human Grand Prix IV: F1 Dream Battle | 38171 | [38171-human-grand-prix-iv-f1-dream-battle.json](./38171-human-grand-prix-iv-f1-dream-battle.json) |
 | Human Heritage | 346177 | [346177-human-heritage.json](./346177-human-heritage.json) |
