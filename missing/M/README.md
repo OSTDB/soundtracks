@@ -3393,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manic X | 266655 | [266655-manic-x.json](./266655-manic-x.json) |
 | Manic you and depressed me | 357816 | [357816-manic-you-and-depressed-me.json](./357816-manic-you-and-depressed-me.json) |
 | Manic: Unknown World | 394758 | [394758-manic-unknown-world.json](./394758-manic-unknown-world.json) |
+| Manickologi | 318879 | [318879-manickologi.json](./318879-manickologi.json) |
 | Manicos Haunted Hotel | 337508 | [337508-manicos-haunted-hotel.json](./337508-manicos-haunted-hotel.json) |
 | Manifest | 128581 | [128581-manifest.json](./128581-manifest.json) |
 | Manifest | 131337 | [131337-manifest.json](./131337-manifest.json) |
@@ -9147,7 +9148,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meitantei Shikkaku na Kanojo | 221044 | [221044-meitantei-shikkaku-na-kanojo.json](./221044-meitantei-shikkaku-na-kanojo.json) |
 | Meji Jones y la Última Búsqueda Desesperada | 324144 | [324144-meji-jones-y-la-ultima-busqueda-desesperada.json](./324144-meji-jones-y-la-ultima-busqueda-desesperada.json) |
 | Meka Sigurat | 232931 | [232931-meka-sigurat.json](./232931-meka-sigurat.json) |
-| Mekabolt | 120032 | [120032-mekabolt.json](./120032-mekabolt.json) |
 | Mekabolt+ | 192300 | [192300-mekabolt.json](./192300-mekabolt.json) |
 | MekaFighters | 146350 | [146350-mekafighters.json](./146350-mekafighters.json) |
 | Mekakare | 242063 | [242063-mekakare.json](./242063-mekakare.json) |
@@ -22351,7 +22351,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Sister Callie | 321767 | [321767-my-little-sister-callie.json](./321767-my-little-sister-callie.json) |
 | My Little Sister's Special Place | 253712 | [253712-my-little-sisters-special-place.json](./253712-my-little-sisters-special-place.json) |
 | My Little Spider | 374616 | [374616-my-little-spider.json](./374616-my-little-spider.json) |
-| My Little Universe | 207161 | [207161-my-little-universe.json](./207161-my-little-universe.json) |
 | My Little Universe + God of Light Remastered Bundle | 309060 | [309060-my-little-universe-god-of-light-remastered-bundle.json](./309060-my-little-universe-god-of-light-remastered-bundle.json) |
 | My Little Universe: Complete Edition | 294825 | [294825-my-little-universe-complete-edition.json](./294825-my-little-universe-complete-edition.json) |
 | My Little Universe: Demodium | 286542 | [286542-my-little-universe-demodium.json](./286542-my-little-universe-demodium.json) |
