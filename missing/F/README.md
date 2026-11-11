@@ -2114,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Life | 6770 | [6770-fantasy-life.json](./6770-fantasy-life.json) |
 | Fantasy Life i: The Celestial Express | 417334 | [417334-fantasy-life-i-the-celestial-express.json](./417334-fantasy-life-i-the-celestial-express.json) |
 | Fantasy Life i: The Girl Who Steals Time - Digital Deluxe Edition | 336364 | [336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json](./336364-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition.json) |
+| Fantasy Life i: The Girl Who Steals Time - Digital Deluxe Edition Upgrade | 343514 | [343514-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition-upgrade.json](./343514-fantasy-life-i-the-girl-who-steals-time-digital-deluxe-edition-upgrade.json) |
 | Fantasy Life i: The Girl Who Steals Time - The Sinister Broker Bazario's Schemes | 370134 | [370134-fantasy-life-i-the-girl-who-steals-time-the-sinister-broker-bazarios-schemes.json](./370134-fantasy-life-i-the-girl-who-steals-time-the-sinister-broker-bazarios-schemes.json) |
 | Fantasy Life Link! | 138174 | [138174-fantasy-life-link.json](./138174-fantasy-life-link.json) |
 | Fantasy Life Online | 26609 | [26609-fantasy-life-online.json](./26609-fantasy-life-online.json) |
@@ -9315,6 +9316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flyonoid | 122971 | [122971-flyonoid.json](./122971-flyonoid.json) |
 | FlyOrDie GemJam | 79952 | [79952-flyordie-gemjam.json](./79952-flyordie-gemjam.json) |
 | Flyout | 271036 | [271036-flyout.json](./271036-flyout.json) |
+| Flypso | 342972 | [342972-flypso.json](./342972-flypso.json) |
 | Flyra: FPV Drone Simulator | 407654 | [407654-flyra-fpv-drone-simulator.json](./407654-flyra-fpv-drone-simulator.json) |
 | Flyto | 244480 | [244480-flyto.json](./244480-flyto.json) |
 | Flytrapped | 392491 | [392491-flytrapped.json](./392491-flytrapped.json) |
@@ -13690,6 +13692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Chef | 234448 | [234448-fruit-chef.json](./234448-fruit-chef.json) |
 | Fruit Clicker | 150646 | [150646-fruit-clicker.json](./150646-fruit-clicker.json) |
 | Fruit Cocktail | 257669 | [257669-fruit-cocktail.json](./257669-fruit-cocktail.json) |
+| Fruit Collector | 343501 | [343501-fruit-collector.json](./343501-fruit-collector.json) |
 | Fruit Couple | 334798 | [334798-fruit-couple.json](./334798-fruit-couple.json) |
 | Fruit Crawler | 117791 | [117791-fruit-crawler.json](./117791-fruit-crawler.json) |
 | Fruit Dating | 174502 | [174502-fruit-dating.json](./174502-fruit-dating.json) |
@@ -13921,9 +13924,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuga: Melodies of Steel 2 - Ultimate Edition | 283150 | [283150-fuga-melodies-of-steel-2-ultimate-edition.json](./283150-fuga-melodies-of-steel-2-ultimate-edition.json) |
 | Fuga: Melodies of Steel 3 | 307648 | [307648-fuga-melodies-of-steel-3.json](./307648-fuga-melodies-of-steel-3.json) |
 | Fuga: Melodies of Steel 3 - Cyberpunk Costume Pack | 343532 | [343532-fuga-melodies-of-steel-3-cyberpunk-costume-pack.json](./343532-fuga-melodies-of-steel-3-cyberpunk-costume-pack.json) |
+| Fuga: Melodies of Steel 3 - Deluxe Edition | 343517 | [343517-fuga-melodies-of-steel-3-deluxe-edition.json](./343517-fuga-melodies-of-steel-3-deluxe-edition.json) |
+| Fuga: Melodies of Steel 3 - Deluxe Edition Upgrade Pack | 343518 | [343518-fuga-melodies-of-steel-3-deluxe-edition-upgrade-pack.json](./343518-fuga-melodies-of-steel-3-deluxe-edition-upgrade-pack.json) |
 | Fuga: Melodies of Steel 3 - Halloween Costume Pack | 343533 | [343533-fuga-melodies-of-steel-3-halloween-costume-pack.json](./343533-fuga-melodies-of-steel-3-halloween-costume-pack.json) |
 | Fuga: Melodies of Steel 3 - Season Pass | 371315 | [371315-fuga-melodies-of-steel-3-season-pass.json](./371315-fuga-melodies-of-steel-3-season-pass.json) |
 | Fuga: Melodies of Steel 3 - Solatorobo: Red the Hunter Costume Pack | 343534 | [343534-fuga-melodies-of-steel-3-solatorobo-red-the-hunter-costume-pack.json](./343534-fuga-melodies-of-steel-3-solatorobo-red-the-hunter-costume-pack.json) |
+| Fuga: Melodies of Steel 3 - Ultimate Edition | 343519 | [343519-fuga-melodies-of-steel-3-ultimate-edition.json](./343519-fuga-melodies-of-steel-3-ultimate-edition.json) |
 | Fuga: Melodies of Steel Trilogy Box | 347087 | [347087-fuga-melodies-of-steel-trilogy-box.json](./347087-fuga-melodies-of-steel-trilogy-box.json) |
 | Fugaz | 405056 | [405056-fugaz.json](./405056-fugaz.json) |
 | Fuggedaboutit Farm | 372996 | [372996-fuggedaboutit-farm.json](./372996-fuggedaboutit-farm.json) |
