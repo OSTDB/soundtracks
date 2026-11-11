@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm not a Psycho Invader | 414142 | [414142-im-not-a-psycho-invader.json](./414142-im-not-a-psycho-invader.json) |
 | I'm Not a Robot | 368175 | [368175-im-not-a-robot.json](./368175-im-not-a-robot.json) |
 | I'm Not a Robot! | 373117 | [373117-im-not-a-robot.json](./373117-im-not-a-robot.json) |
+| I’m Not Allowed in that Store Anymore | 364424 | [364424-i-m-not-allowed-in-that-store-anymore.json](./364424-i-m-not-allowed-in-that-store-anymore.json) |
 | I'm Not Alone | 346713 | [346713-im-not-alone.json](./346713-im-not-alone.json) |
 | I'm Not Alone | 66893 | [66893-im-not-alone.json](./66893-im-not-alone.json) |
 | I'm Not Crazy | 309866 | [309866-im-not-crazy.json](./309866-im-not-crazy.json) |
@@ -1785,6 +1786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Time Slime | 366787 | [366787-idle-time-slime.json](./366787-idle-time-slime.json) |
 | Idle Tiny Wizard | 212516 | [212516-idle-tiny-wizard.json](./212516-idle-tiny-wizard.json) |
 | Idle to Level 1000 | 359570 | [359570-idle-to-level-1000.json](./359570-idle-to-level-1000.json) |
+| Idle Together | 364755 | [364755-idle-together.json](./364755-idle-together.json) |
 | Idle Tower Builder | 184142 | [184142-idle-tower-builder.json](./184142-idle-tower-builder.json) |
 | Idle Tower Defense | 248156 | [248156-idle-tower-defense.json](./248156-idle-tower-defense.json) |
 | Idle Tower Defense | 318454 | [318454-idle-tower-defense.json](./318454-idle-tower-defense.json) |
@@ -2276,6 +2278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ilequ | 404085 | [404085-ilequ.json](./404085-ilequ.json) |
 | Iles | 211949 | [211949-iles.json](./211949-iles.json) |
 | Ilha do Empreendedor | 257347 | [257347-ilha-do-empreendedor.json](./257347-ilha-do-empreendedor.json) |
+| IlhaZ | 364731 | [364731-ilhaz.json](./364731-ilhaz.json) |
 | Ilhumia | 111591 | [111591-ilhumia.json](./111591-ilhumia.json) |
 | Ili | 401199 | [401199-ili.json](./401199-ili.json) |
 | Ilíada Espacial 2 | 310142 | [310142-iliada-espacial-2.json](./310142-iliada-espacial-2.json) |
