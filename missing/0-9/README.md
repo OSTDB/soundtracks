@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 in 1: Scrap Bolts + Toroom + Last Mage Survivor + Home Sweet Home + Bruxa | 273928 | [273928-5-in-1-scrap-bolts-toroom-last-mage-survivor-home-sweet-home-bruxa.json](./273928-5-in-1-scrap-bolts-toroom-last-mage-survivor-home-sweet-home-bruxa.json) |
 | 5 In One Fun Pak | 93568 | [93568-5-in-one-fun-pak.json](./93568-5-in-one-fun-pak.json) |
 | 5 Intelligent Strategy Games | 320405 | [320405-5-intelligent-strategy-games.json](./320405-5-intelligent-strategy-games.json) |
+| 5 Min Space Battle | 363093 | [363093-5-min-space-battle.json](./363093-5-min-space-battle.json) |
 | 5 Minute Climb | 245786 | [245786-5-minute-climb.json](./245786-5-minute-climb.json) |
 | 5 Minute Raid | 304004 | [304004-5-minute-raid.json](./304004-5-minute-raid.json) |
 | 5 minutes | 250903 | [250903-5-minutes.json](./250903-5-minutes.json) |
