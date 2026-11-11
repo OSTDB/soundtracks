@@ -16011,6 +16011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snap! A Cerrado Adventure | 282117 | [282117-snap-a-cerrado-adventure.json](./282117-snap-a-cerrado-adventure.json) |
 | Snap64 Recomp | 416462 | [416462-snap64-recomp.json](./416462-snap64-recomp.json) |
 | SnaPaul | 332828 | [332828-snapaul.json](./332828-snapaul.json) |
+| SnaPaul 2: Anomalies | 347409 | [347409-snapaul-2-anomalies.json](./347409-snapaul-2-anomalies.json) |
 | Snapback | 258365 | [258365-snapback.json](./258365-snapback.json) |
 | SnapCat: Mia's Cozy Adventure | 381802 | [381802-snapcat-mias-cozy-adventure.json](./381802-snapcat-mias-cozy-adventure.json) |
 | Snapdots | 62193 | [62193-snapdots.json](./62193-snapdots.json) |
@@ -20217,6 +20218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SourceForts | 129949 | [129949-sourceforts.json](./129949-sourceforts.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
 | Sourcevoid Online | 407768 | [407768-sourcevoid-online.json](./407768-sourcevoid-online.json) |
+| SourceWorld | 347416 | [347416-sourceworld.json](./347416-sourceworld.json) |
 | SourceWorlds | 164136 | [164136-sourceworlds.json](./164136-sourceworlds.json) |
 | Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
 | Sousaku Alice to Ouji-sama! | 202608 | [202608-sousaku-alice-to-ouji-sama.json](./202608-sousaku-alice-to-ouji-sama.json) |
@@ -29501,6 +29503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strangers of the Power 2: Forgotten Evil | 347194 | [347194-strangers-of-the-power-2-forgotten-evil.json](./347194-strangers-of-the-power-2-forgotten-evil.json) |
 | Strangers of the Power 2: Pain Queen Character | 347199 | [347199-strangers-of-the-power-2-pain-queen-character.json](./347199-strangers-of-the-power-2-pain-queen-character.json) |
 | Strangers of the Power 3 | 116323 | [116323-strangers-of-the-power-3.json](./116323-strangers-of-the-power-3.json) |
+| Strangers of the Power: Trancevania | 347417 | [347417-strangers-of-the-power-trancevania.json](./347417-strangers-of-the-power-trancevania.json) |
 | Strangers on Paper | 259143 | [259143-strangers-on-paper.json](./259143-strangers-on-paper.json) |
 | Strangers World: The Swarm | 236365 | [236365-strangers-world-the-swarm.json](./236365-strangers-world-the-swarm.json) |
 | StrangerZ | 237435 | [237435-strangerz.json](./237435-strangerz.json) |
@@ -34581,6 +34584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Off Road Track Pack | 245280 | [245280-super-off-road-track-pack.json](./245280-super-off-road-track-pack.json) |
 | Super Off Road: The Baja | 42575 | [42575-super-off-road-the-baja.json](./42575-super-off-road-the-baja.json) |
 | Super Okuman Chouja Game | 37858 | [37858-super-okuman-chouja-game.json](./37858-super-okuman-chouja-game.json) |
+| Super One More Jump | 347378 | [347378-super-one-more-jump.json](./347378-super-one-more-jump.json) |
 | Super One More Jump | 83730 | [83730-super-one-more-jump.json](./83730-super-one-more-jump.json) |
 | Super Onion Boy 2 | 154002 | [154002-super-onion-boy-2.json](./154002-super-onion-boy-2.json) |
 | Super Onion Boy+ | 292476 | [292476-super-onion-boy.json](./292476-super-onion-boy.json) |
