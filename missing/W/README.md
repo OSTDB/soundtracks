@@ -4032,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Linus Bruckman Sees When His Eyes Are Closed | 73346 | [73346-what-linus-bruckman-sees-when-his-eyes-are-closed.json](./73346-what-linus-bruckman-sees-when-his-eyes-are-closed.json) |
 | What Lives Below | 143490 | [143490-what-lives-below.json](./143490-what-lives-below.json) |
 | What Lurks Inside | 295095 | [295095-what-lurks-inside.json](./295095-what-lurks-inside.json) |
+| What Makes a Hero | 368419 | [368419-what-makes-a-hero.json](./368419-what-makes-a-hero.json) |
 | What Makes Us Special | 203213 | [203213-what-makes-us-special.json](./203213-what-makes-us-special.json) |
 | What makes you tick: A stitch in time | 22501 | [22501-what-makes-you-tick-a-stitch-in-time.json](./22501-what-makes-you-tick-a-stitch-in-time.json) |
 | What Makes You Tick? | 73059 | [73059-what-makes-you-tick.json](./73059-what-makes-you-tick.json) |
