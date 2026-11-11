@@ -2184,6 +2184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandits at 3 O'Clock | 15659 | [15659-bandits-at-3-oclock.json](./15659-bandits-at-3-oclock.json) |
 | Bandits at Zero | 12933 | [12933-bandits-at-zero.json](./12933-bandits-at-zero.json) |
 | Bandits On West | 402929 | [402929-bandits-on-west.json](./402929-bandits-on-west.json) |
+| Bandits vs. Lords: Epic Clash | 364132 | [364132-bandits-vs-lords-epic-clash.json](./364132-bandits-vs-lords-epic-clash.json) |
 | Bandits: Phoenix Rising | 3207 | [3207-bandits-phoenix-rising.json](./3207-bandits-phoenix-rising.json) |
 | Bandle | 294451 | [294451-bandle.json](./294451-bandle.json) |
 | Bandle Tale: A League of Legends Story - Deluxe Edition | 283158 | [283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json](./283158-bandle-tale-a-league-of-legends-story-deluxe-edition.json) |
@@ -3463,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat Blast! | 275880 | [275880-bat-blast.json](./275880-bat-blast.json) |
 | Bat Blitz | 248323 | [248323-bat-blitz.json](./248323-bat-blitz.json) |
 | Bat Boy | 172891 | [172891-bat-boy.json](./172891-bat-boy.json) |
+| Bat Boy | 364347 | [364347-bat-boy.json](./364347-bat-boy.json) |
 | Bat Cage | 319570 | [319570-bat-cage.json](./319570-bat-cage.json) |
 | Bat Castle | 125592 | [125592-bat-castle.json](./125592-bat-castle.json) |
 | Bat Egg | 165556 | [165556-bat-egg.json](./165556-bat-egg.json) |
@@ -6746,7 +6748,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: 022 - Attack Mod: Berzerker | 363824 | [363824-ben-10-022-attack-mod-berzerker.json](./363824-ben-10-022-attack-mod-berzerker.json) |
 | Ben 10: 023 - Defense Mod: Sixth Sense | 363825 | [363825-ben-10-023-defense-mod-sixth-sense.json](./363825-ben-10-023-defense-mod-sixth-sense.json) |
 | Ben 10: 024 - Attack Mod: Soul Sink | 363826 | [363826-ben-10-024-attack-mod-soul-sink.json](./363826-ben-10-024-attack-mod-soul-sink.json) |
+| Ben 10: 025 - Speed Mod: Ectoslaught | 363828 | [363828-ben-10-025-speed-mod-ectoslaught.json](./363828-ben-10-025-speed-mod-ectoslaught.json) |
+| Ben 10: 026 - Attack Mod: Spectral Shriek | 363829 | [363829-ben-10-026-attack-mod-spectral-shriek.json](./363829-ben-10-026-attack-mod-spectral-shriek.json) |
+| Ben 10: 027 - Defense Mod: Fade Out | 363830 | [363830-ben-10-027-defense-mod-fade-out.json](./363830-ben-10-027-defense-mod-fade-out.json) |
 | Ben 10: 028 - Power Mod: High Jump | 363890 | [363890-ben-10-028-power-mod-high-jump.json](./363890-ben-10-028-power-mod-high-jump.json) |
+| Ben 10: 029 - Attack Mod: Mini-Max | 363831 | [363831-ben-10-029-attack-mod-mini-max.json](./363831-ben-10-029-attack-mod-mini-max.json) |
 | Ben 10: 030 - Attack Mod: Bounceback | 363832 | [363832-ben-10-030-attack-mod-bounceback.json](./363832-ben-10-030-attack-mod-bounceback.json) |
 | Ben 10: 031 - Defense Mod: Shrink Wrap | 363833 | [363833-ben-10-031-defense-mod-shrink-wrap.json](./363833-ben-10-031-defense-mod-shrink-wrap.json) |
 | Ben 10: 032 - Power Mod: Fliptail | 363834 | [363834-ben-10-032-power-mod-fliptail.json](./363834-ben-10-032-power-mod-fliptail.json) |
@@ -7995,6 +8001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Game Bundle 10-in-1 | 380189 | [380189-big-game-bundle-10-in-1.json](./380189-big-game-bundle-10-in-1.json) |
 | Big Game Fishing | 12403 | [12403-big-game-fishing.json](./12403-big-game-fishing.json) |
 | Big Game Trophy Hunter | 94208 | [94208-big-game-trophy-hunter.json](./94208-big-game-trophy-hunter.json) |
+| Big Giant Tanghulu: Tanghulu Legend | 364118 | [364118-big-giant-tanghulu-tanghulu-legend.json](./364118-big-giant-tanghulu-tanghulu-legend.json) |
 | Big Golden Rock | 408713 | [408713-big-golden-rock.json](./408713-big-golden-rock.json) |
 | Big Head Bash | 64331 | [64331-big-head-bash.json](./64331-big-head-bash.json) |
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
@@ -9406,6 +9413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black | 159265 | [159265-black.json](./159265-black.json) |
 | Black & Bruised | 3819 | [3819-black-and-bruised.json](./3819-black-and-bruised.json) |
 | Black & White | 308 | [308-black-and-white.json](./308-black-and-white.json) |
+| Black & White | 364348 | [364348-black-and-white.json](./364348-black-and-white.json) |
 | Black & White | 371496 | [371496-black-and-white.json](./371496-black-and-white.json) |
 | Black & White | 376747 | [376747-black-and-white.json](./376747-black-and-white.json) |
 | Black & White 2 | 1921 | [1921-black-and-white-2.json](./1921-black-and-white-2.json) |
@@ -17915,6 +17923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buffy the Vampire Slayer: Wrath of the Darkhul King | 6343 | [6343-buffy-the-vampire-slayer-wrath-of-the-darkhul-king.json](./6343-buffy-the-vampire-slayer-wrath-of-the-darkhul-king.json) |
 | Bufo Jump | 388315 | [388315-bufo-jump.json](./388315-bufo-jump.json) |
 | Bufo Merge | 374283 | [374283-bufo-merge.json](./374283-bufo-merge.json) |
+| Bufonada | 364349 | [364349-bufonada.json](./364349-bufonada.json) |
 | Bug | 302781 | [302781-bug.json](./302781-bug.json) |
 | Bug & Seek | 271464 | [271464-bug-and-seek.json](./271464-bug-and-seek.json) |
 | Bug & Seek: Isopods | 286548 | [286548-bug-and-seek-isopods.json](./286548-bug-and-seek-isopods.json) |
