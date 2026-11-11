@@ -13225,6 +13225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Feast | 90162 | [90162-skull-feast.json](./90162-skull-feast.json) |
 | Skull Golf: Creation in Decay | 181714 | [181714-skull-golf-creation-in-decay.json](./181714-skull-golf-creation-in-decay.json) |
 | Skull Head World | 157408 | [157408-skull-head-world.json](./157408-skull-head-world.json) |
+| Skull Horde | 350122 | [350122-skull-horde.json](./350122-skull-horde.json) |
 | Skull Hotel | 347285 | [347285-skull-hotel.json](./347285-skull-hotel.json) |
 | Skull Hunter | 234236 | [234236-skull-hunter.json](./234236-skull-hunter.json) |
 | Skull Island: Rise of Kong - Colossal Edition | 269382 | [269382-skull-island-rise-of-kong-colossal-edition.json](./269382-skull-island-rise-of-kong-colossal-edition.json) |
@@ -16840,6 +16841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soaring Tales of Skylines | 155286 | [155286-soaring-tales-of-skylines.json](./155286-soaring-tales-of-skylines.json) |
 | Soarocity | 169838 | [169838-soarocity.json](./169838-soarocity.json) |
 | Soba's Gunpaw | 358227 | [358227-sobas-gunpaw.json](./358227-sobas-gunpaw.json) |
+| Sobakistan: The Land of Dogs | 350117 | [350117-sobakistan-the-land-of-dogs.json](./350117-sobakistan-the-land-of-dogs.json) |
 | SobokoSnake | 216529 | [216529-sobokosnake.json](./216529-sobokosnake.json) |
 | Sobor | 80753 | [80753-sobor.json](./80753-sobor.json) |
 | Sobosuba | 293517 | [293517-sobosuba.json](./293517-sobosuba.json) |
@@ -27960,6 +27962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Strider | 34403 | [34403-steel-strider.json](./34403-steel-strider.json) |
 | Steel Surge: Revolution | 275666 | [275666-steel-surge-revolution.json](./275666-steel-surge-revolution.json) |
 | Steel Swarm: Apocalypse | 325886 | [325886-steel-swarm-apocalypse.json](./325886-steel-swarm-apocalypse.json) |
+| Steel Swarm: Invasion | 350084 | [350084-steel-swarm-invasion.json](./350084-steel-swarm-invasion.json) |
 | Steel Swarm: Survivor | 387595 | [387595-steel-swarm-survivor.json](./387595-steel-swarm-survivor.json) |
 | Steel Sword Story | 112949 | [112949-steel-sword-story.json](./112949-steel-sword-story.json) |
 | Steel Sword Story S | 151560 | [151560-steel-sword-story-s.json](./151560-steel-sword-story-s.json) |
@@ -37465,6 +37468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweetie Candy Maze: Red Cherry | 359517 | [359517-sweetie-candy-maze-red-cherry.json](./359517-sweetie-candy-maze-red-cherry.json) |
 | Sweetie Candy Maze: Violet Plum | 406218 | [406218-sweetie-candy-maze-violet-plum.json](./406218-sweetie-candy-maze-violet-plum.json) |
 | Sweetie Candy Maze: White Chocolate | 392855 | [392855-sweetie-candy-maze-white-chocolate.json](./392855-sweetie-candy-maze-white-chocolate.json) |
+| Sweetland Slumber Party | 350082 | [350082-sweetland-slumber-party.json](./350082-sweetland-slumber-party.json) |
 | Sweetopia | 207023 | [207023-sweetopia.json](./207023-sweetopia.json) |
 | Sweetoria Land | 375777 | [375777-sweetoria-land.json](./375777-sweetoria-land.json) |
 | SweetPea Village | 177894 | [177894-sweetpea-village.json](./177894-sweetpea-village.json) |
