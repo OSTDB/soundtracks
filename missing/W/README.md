@@ -3769,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Adventure - Cowboy Revenge 3D | 99186 | [99186-western-adventure-cowboy-revenge-3d.json](./99186-western-adventure-cowboy-revenge-3d.json) |
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | Western Bar | 346076 | [346076-western-bar.json](./346076-western-bar.json) |
+| Western Bar | 367888 | [367888-western-bar.json](./367888-western-bar.json) |
 | Western City Renovator | 210966 | [210966-western-city-renovator.json](./210966-western-city-renovator.json) |
 | Western Cowboy Gun Fight 2 | 234439 | [234439-western-cowboy-gun-fight-2.json](./234439-western-cowboy-gun-fight-2.json) |
 | Western Death | 312614 | [312614-western-death.json](./312614-western-death.json) |
@@ -3787,6 +3788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Riding Academy | 80469 | [80469-western-riding-academy.json](./80469-western-riding-academy.json) |
 | Western Rye | 249967 | [249967-western-rye.json](./249967-western-rye.json) |
 | Western Shadowlands | 362316 | [362316-western-shadowlands.json](./362316-western-shadowlands.json) |
+| Western Sheriff | 367889 | [367889-western-sheriff.json](./367889-western-sheriff.json) |
 | Western Sigil | 132363 | [132363-western-sigil.json](./132363-western-sigil.json) |
 | Western Slot Machine | 279254 | [279254-western-slot-machine.json](./279254-western-slot-machine.json) |
 | Western U.S. Scenery Set | 131190 | [131190-western-u-s-scenery-set.json](./131190-western-u-s-scenery-set.json) |
@@ -9504,6 +9506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of Ahnkii | 271794 | [271794-wrath-of-ahnkii.json](./271794-wrath-of-ahnkii.json) |
 | Wrath of Anias | 191826 | [191826-wrath-of-anias.json](./191826-wrath-of-anias.json) |
 | Wrath of Anna | 33115 | [33115-wrath-of-anna.json](./33115-wrath-of-anna.json) |
+| Wrath of Athena | 368399 | [368399-wrath-of-athena.json](./368399-wrath-of-athena.json) |
 | Wrath of Darkness | 146635 | [146635-wrath-of-darkness.json](./146635-wrath-of-darkness.json) |
 | Wrath of Denethenor | 37155 | [37155-wrath-of-denethenor.json](./37155-wrath-of-denethenor.json) |
 | Wrath of Earth | 72289 | [72289-wrath-of-earth.json](./72289-wrath-of-earth.json) |
