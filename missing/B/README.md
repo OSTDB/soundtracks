@@ -9914,6 +9914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout Memphis | 253414 | [253414-blackout-memphis.json](./253414-blackout-memphis.json) |
 | Blackout Route | 419157 | [419157-blackout-route.json](./419157-blackout-route.json) |
 | Blackout Rugby Manager | 126260 | [126260-blackout-rugby-manager.json](./126260-blackout-rugby-manager.json) |
+| Blackout Tonight | 375062 | [375062-blackout-tonight.json](./375062-blackout-tonight.json) |
 | Blackout Z | 139717 | [139717-blackout-z.json](./139717-blackout-z.json) |
 | Blackout Z: Slaughterhouse Edition | 74244 | [74244-blackout-z-slaughterhouse-edition.json](./74244-blackout-z-slaughterhouse-edition.json) |
 | Blackout: Director's Cut | 338244 | [338244-blackout-directors-cut.json](./338244-blackout-directors-cut.json) |
@@ -10719,6 +10720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blightseed | 369452 | [369452-blightseed.json](./369452-blightseed.json) |
 | Blightseeker | 236510 | [236510-blightseeker.json](./236510-blightseeker.json) |
 | Blightstone | 322863 | [322863-blightstone.json](./322863-blightstone.json) |
+| Blightveil | 375059 | [375059-blightveil.json](./375059-blightveil.json) |
 | Blightwreck | 309441 | [309441-blightwreck.json](./309441-blightwreck.json) |
 | Bliink: Staring Contest | 143089 | [143089-bliink-staring-contest.json](./143089-bliink-staring-contest.json) |
 | Blik | 82033 | [82033-blik.json](./82033-blik.json) |
@@ -19412,6 +19414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butcherman | 388746 | [388746-butcherman.json](./388746-butcherman.json) |
 | Butchers Don't Surf! | 243228 | [243228-butchers-dont-surf.json](./243228-butchers-dont-surf.json) |
 | Buti | 264720 | [264720-buti.json](./264720-buti.json) |
+| Butler Guillotine | 375077 | [375077-butler-guillotine.json](./375077-butler-guillotine.json) |
 | Butler Until Midnight | 238901 | [238901-butler-until-midnight.json](./238901-butler-until-midnight.json) |
 | Butler! Summon the Imps! | 382850 | [382850-butler-summon-the-imps.json](./382850-butler-summon-the-imps.json) |
 | Butt | 314259 | [314259-butt.json](./314259-butt.json) |
