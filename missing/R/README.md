@@ -5552,6 +5552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rented Nightmare | 313039 | [313039-rented-nightmare.json](./313039-rented-nightmare.json) |
 | Renters Revenge | 75177 | [75177-renters-revenge.json](./75177-renters-revenge.json) |
 | Rentguessr | 391391 | [391391-rentguessr.json](./391391-rentguessr.json) |
+| Rentlord | 334971 | [334971-rentlord.json](./334971-rentlord.json) |
 | Rento Fortune Monolit | 105624 | [105624-rento-fortune-monolit.json](./105624-rento-fortune-monolit.json) |
 | Rento Fortune Monolit: Deep Board | 170741 | [170741-rento-fortune-monolit-deep-board.json](./170741-rento-fortune-monolit-deep-board.json) |
 | Rento Fortune VR | 111592 | [111592-rento-fortune-vr.json](./111592-rento-fortune-vr.json) |
@@ -7024,6 +7025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reverse Problem | 326142 | [326142-reverse-problem.json](./326142-reverse-problem.json) |
 | Reverse Side | 17733 | [17733-reverse-side.json](./17733-reverse-side.json) |
 | Reverse Snake Extreme | 305823 | [305823-reverse-snake-extreme.json](./305823-reverse-snake-extreme.json) |
+| Reverse Sound Show | 334994 | [334994-reverse-sound-show.json](./334994-reverse-sound-show.json) |
 | Reverse Survivors | 408394 | [408394-reverse-survivors.json](./408394-reverse-survivors.json) |
 | Reverse T-gotchi | 418390 | [418390-reverse-t-gotchi.json](./418390-reverse-t-gotchi.json) |
 | Reverse Twinkle | 206505 | [206505-reverse-twinkle.json](./206505-reverse-twinkle.json) |
@@ -12505,6 +12507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rrggbb | 178004 | [178004-rrggbb.json](./178004-rrggbb.json) |
 | RRO Drive 3D | 102686 | [102686-rro-drive-3d.json](./102686-rro-drive-3d.json) |
 | rRootage | 25169 | [25169-rrootage.json](./25169-rrootage.json) |
+| Rrootage Online HD | 334962 | [334962-rrootage-online-hd.json](./334962-rrootage-online-hd.json) |
 | Rrootage Reloaded | 187358 | [187358-rrootage-reloaded.json](./187358-rrootage-reloaded.json) |
 | Rrrr | 112768 | [112768-rrrr.json](./112768-rrrr.json) |
 | RRRR 2 | 117081 | [117081-rrrr-2.json](./117081-rrrr-2.json) |
