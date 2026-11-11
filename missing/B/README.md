@@ -7298,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Between the Shelves | 406388 | [406388-between-the-shelves.json](./406388-between-the-shelves.json) |
 | Between the Worlds 2: The Pyramid | 175798 | [175798-between-the-worlds-2-the-pyramid.json](./175798-between-the-worlds-2-the-pyramid.json) |
 | Between them | 149536 | [149536-between-them.json](./149536-between-them.json) |
+| Between These Two | 390836 | [390836-between-these-two.json](./390836-between-these-two.json) |
 | Between Time: Escape Room | 164977 | [164977-between-time-escape-room.json](./164977-between-time-escape-room.json) |
 | Between Two Castles | 125068 | [125068-between-two-castles.json](./125068-between-two-castles.json) |
 | Between Two Cities | 164762 | [164762-between-two-cities.json](./164762-between-two-cities.json) |
@@ -11223,6 +11224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockado: Puzzle Island | 85000 | [85000-blockado-puzzle-island.json](./85000-blockado-puzzle-island.json) |
 | Blockage | 306966 | [306966-blockage.json](./306966-blockage.json) |
 | Blockage | 80294 | [80294-blockage.json](./80294-blockage.json) |
+| Blockaholic | 390311 | [390311-blockaholic.json](./390311-blockaholic.json) |
 | BlockAid | 32882 | [32882-blockaid.json](./32882-blockaid.json) |
 | Blockappend | 236764 | [236764-blockappend.json](./236764-blockappend.json) |
 | Blockara | 43493 | [43493-blockara.json](./43493-blockara.json) |
@@ -12051,6 +12053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloom | 198149 | [198149-bloom.json](./198149-bloom.json) |
 | Bloom | 263568 | [263568-bloom.json](./263568-bloom.json) |
 | Bloom | 380031 | [380031-bloom.json](./380031-bloom.json) |
+| Bloom | 390841 | [390841-bloom.json](./390841-bloom.json) |
 | Bloom | 60555 | [60555-bloom.json](./60555-bloom.json) |
 | Bloom & Dine | 424286 | [424286-bloom-and-dine.json](./424286-bloom-and-dine.json) |
 | Bloom Again | 408260 | [408260-bloom-again.json](./408260-bloom-again.json) |
