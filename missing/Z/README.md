@@ -825,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenge | 18792 | [18792-zenge.json](./18792-zenge.json) |
 | Zengeon | 122953 | [122953-zengeon.json](./122953-zengeon.json) |
 | ZenGM Baseball | 333818 | [333818-zengm-baseball.json](./333818-zengm-baseball.json) |
+| ZenGM Hockey | 333245 | [333245-zengm-hockey.json](./333245-zengm-hockey.json) |
 | Zengoku Juudan Ultra Shinri Game | 37745 | [37745-zengoku-juudan-ultra-shinri-game.json](./37745-zengoku-juudan-ultra-shinri-game.json) |
 | Zengrams | 68948 | [68948-zengrams.json](./68948-zengrams.json) |
 | Zenite | 187720 | [187720-zenite.json](./187720-zenite.json) |
@@ -1382,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziriax | 80305 | [80305-ziriax.json](./80305-ziriax.json) |
 | Zirkus-Simulator 2013 | 52781 | [52781-zirkus-simulator-2013.json](./52781-zirkus-simulator-2013.json) |
 | Ziro | 9298 | [9298-ziro.json](./9298-ziro.json) |
+| Zirquitz | 333803 | [333803-zirquitz.json](./333803-zirquitz.json) |
 | Zissi's Island | 31644 | [31644-zissis-island.json](./31644-zissis-island.json) |
 | Zitifono | 362715 | [362715-zitifono.json](./362715-zitifono.json) |
 | Zitrax | 106305 | [106305-zitrax.json](./106305-zitrax.json) |
