@@ -17355,6 +17355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Bandicoot Blast! | 285253 | [285253-crash-bandicoot-blast.json](./285253-crash-bandicoot-blast.json) |
 | Crash Bandicoot Collectors' Edition | 43683 | [43683-crash-bandicoot-collectors-edition.json](./43683-crash-bandicoot-collectors-edition.json) |
 | Crash Bandicoot Flash | 228752 | [228752-crash-bandicoot-flash.json](./228752-crash-bandicoot-flash.json) |
+| Crash Bandicoot Mayhem | 370609 | [370609-crash-bandicoot-mayhem.json](./370609-crash-bandicoot-mayhem.json) |
 | Crash Bandicoot N. Sane Trilogy: Bonus Edition | 220940 | [220940-crash-bandicoot-n-sane-trilogy-bonus-edition.json](./220940-crash-bandicoot-n-sane-trilogy-bonus-edition.json) |
 | Crash Bandicoot N. Sane Trilogy: Future Tense | 229857 | [229857-crash-bandicoot-n-sane-trilogy-future-tense.json](./229857-crash-bandicoot-n-sane-trilogy-future-tense.json) |
 | Crash Bandicoot N. Sane Trilogy: Stormy Ascent | 229856 | [229856-crash-bandicoot-n-sane-trilogy-stormy-ascent.json](./229856-crash-bandicoot-n-sane-trilogy-stormy-ascent.json) |
