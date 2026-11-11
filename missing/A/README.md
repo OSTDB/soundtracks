@@ -5267,7 +5267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agecraft | 362933 | [362933-agecraft.json](./362933-agecraft.json) |
 | Agefield High: Rock the School | 356188 | [356188-agefield-high-rock-the-school.json](./356188-agefield-high-rock-the-school.json) |
 | Agelast | 223484 | [223484-agelast.json](./223484-agelast.json) |
-| Ageless | 131622 | [131622-ageless.json](./131622-ageless.json) |
 | Ageless Machine: Cup of Tea | 180716 | [180716-ageless-machine-cup-of-tea.json](./180716-ageless-machine-cup-of-tea.json) |
 | Agence | 135115 | [135115-agence.json](./135115-agence.json) |
 | Agency 13 | 357800 | [357800-agency-13.json](./357800-agency-13.json) |
@@ -15919,7 +15918,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Dusk Falls | 135995 | [135995-as-dusk-falls.json](./135995-as-dusk-falls.json) |
 | As Dusk Falls: Special Edition | 324757 | [324757-as-dusk-falls-special-edition.json](./324757-as-dusk-falls-special-edition.json) |
 | As Duty Demands | 383103 | [383103-as-duty-demands.json](./383103-as-duty-demands.json) |
-| As Far as the Eye | 129107 | [129107-as-far-as-the-eye.json](./129107-as-far-as-the-eye.json) |
 | As Fast As Possible | 145819 | [145819-as-fast-as-possible.json](./145819-as-fast-as-possible.json) |
 | As Guilty As the Moon | 236453 | [236453-as-guilty-as-the-moon.json](./236453-as-guilty-as-the-moon.json) |
 | As If Dreaming When You're Wide Awake | 98326 | [98326-as-if-dreaming-when-youre-wide-awake.json](./98326-as-if-dreaming-when-youre-wide-awake.json) |
