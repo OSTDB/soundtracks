@@ -11024,6 +11024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshi no Mahoroba | 204481 | [204481-hoshi-no-mahoroba.json](./204481-hoshi-no-mahoroba.json) |
 | Hoshi no Meiling | 294655 | [294655-hoshi-no-meiling.json](./294655-hoshi-no-meiling.json) |
 | Hoshi no Natchan | 285452 | [285452-hoshi-no-natchan.json](./285452-hoshi-no-natchan.json) |
+| Hoshi no Oka Gakuen Monogatari: Gakuensai | 325183 | [325183-hoshi-no-oka-gakuen-monogatari-gakuensai.json](./325183-hoshi-no-oka-gakuen-monogatari-gakuensai.json) |
 | Hoshi no Ouji-sama | 368555 | [368555-hoshi-no-ouji-sama.json](./368555-hoshi-no-ouji-sama.json) |
 | Hoshi no Oujo: Uchuu Ishiki ni Mezameta Yoshitsune | 181522 | [181522-hoshi-no-oujo-uchuu-ishiki-ni-mezameta-yoshitsune.json](./181522-hoshi-no-oujo-uchuu-ishiki-ni-mezameta-yoshitsune.json) |
 | Hoshi no Shirusu Shinjitsu | 394495 | [394495-hoshi-no-shirusu-shinjitsu.json](./394495-hoshi-no-shirusu-shinjitsu.json) |
