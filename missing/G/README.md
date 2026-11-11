@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GbDices | 184461 | [184461-gbdices.json](./184461-gbdices.json) |
 | GBox: The Puzzle Collection | 107014 | [107014-gbox-the-puzzle-collection.json](./107014-gbox-the-puzzle-collection.json) |
 | GBS Windows | 341947 | [341947-gbs-windows.json](./341947-gbs-windows.json) |
+| GCS: Salvage Rat | 361928 | [361928-gcs-salvage-rat.json](./361928-gcs-salvage-rat.json) |
 | GDO Masters | 180016 | [180016-gdo-masters.json](./180016-gdo-masters.json) |
 | Ge-Sen Love Plus Pengo! | 61571 | [61571-ge-sen-love-plus-pengo.json](./61571-ge-sen-love-plus-pengo.json) |
 | Ge.ne.sis: Down the Road of Tales | 228949 | [228949-ge-ne-sis-down-the-road-of-tales.json](./228949-ge-ne-sis-down-the-road-of-tales.json) |
@@ -10159,6 +10160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grind Session | 45018 | [45018-grind-session.json](./45018-grind-session.json) |
 | Grind Stormer | 293645 | [293645-grind-stormer.json](./293645-grind-stormer.json) |
 | Grind Stormer | 4420 | [4420-grind-stormer.json](./4420-grind-stormer.json) |
+| Grind Survivors | 361967 | [361967-grind-survivors.json](./361967-grind-survivors.json) |
 | Grind TD | 389987 | [389987-grind-td.json](./389987-grind-td.json) |
 | Grind X Grind | 400552 | [400552-grind-x-grind.json](./400552-grind-x-grind.json) |
 | Grind Zones | 36217 | [36217-grind-zones.json](./36217-grind-zones.json) |
