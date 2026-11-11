@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wankuru | 242769 | [242769-wankuru.json](./242769-wankuru.json) |
 | Wanna B Wonka? Crazy Candy Creation Game | 373553 | [373553-wanna-b-wonka-crazy-candy-creation-game.json](./373553-wanna-b-wonka-crazy-candy-creation-game.json) |
 | Wanna Be Wizard | 65307 | [65307-wanna-be-wizard.json](./65307-wanna-be-wizard.json) |
+| Wanna Get Lucky? | 355243 | [355243-wanna-get-lucky.json](./355243-wanna-get-lucky.json) |
 | Wanna Peek? Candy Bunnies | 336464 | [336464-wanna-peek-candy-bunnies.json](./336464-wanna-peek-candy-bunnies.json) |
 | Wanna Run Again | 116368 | [116368-wanna-run-again.json](./116368-wanna-run-again.json) |
 | Wanna Sleep All Day, But | 389459 | [389459-wanna-sleep-all-day-but.json](./389459-wanna-sleep-all-day-but.json) |
