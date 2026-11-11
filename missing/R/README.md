@@ -609,7 +609,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Raygun | 63779 | [63779-rad-raygun.json](./63779-rad-raygun.json) |
 | Rad Road Rally | 185206 | [185206-rad-road-rally.json](./185206-rad-road-rally.json) |
 | Rad Rocket | 138516 | [138516-rad-rocket.json](./138516-rad-rocket.json) |
-| Rad Rodgers | 90322 | [90322-rad-rodgers.json](./90322-rad-rodgers.json) |
 | Rad Rodgers: Radical Edition | 113422 | [113422-rad-rodgers-radical-edition.json](./113422-rad-rodgers-radical-edition.json) |
 | Rad Rodgers: World One | 23797 | [23797-rad-rodgers-world-one.json](./23797-rad-rodgers-world-one.json) |
 | RAD Soldiers | 64100 | [64100-rad-soldiers.json](./64100-rad-soldiers.json) |
