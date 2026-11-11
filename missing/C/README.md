@@ -9080,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Ressurection | 263448 | [263448-chrono-ressurection.json](./263448-chrono-ressurection.json) |
 | Chrono Rift | 244039 | [244039-chrono-rift.json](./244039-chrono-rift.json) |
 | Chrono Seoul | 379411 | [379411-chrono-seoul.json](./379411-chrono-seoul.json) |
+| Chrono Space 7 | 364116 | [364116-chrono-space-7.json](./364116-chrono-space-7.json) |
 | Chrono Spin | 390176 | [390176-chrono-spin.json](./390176-chrono-spin.json) |
 | Chrono Stranded | 363659 | [363659-chrono-stranded.json](./363659-chrono-stranded.json) |
 | Chrono Survival | 214690 | [214690-chrono-survival.json](./214690-chrono-survival.json) |
@@ -16433,6 +16434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cotton Games' New Game Bundle | 196811 | [196811-cotton-games-new-game-bundle.json](./196811-cotton-games-new-game-bundle.json) |
 | Cotton Guardian Force Saturn Tribute: Special Edition | 166980 | [166980-cotton-guardian-force-saturn-tribute-special-edition.json](./166980-cotton-guardian-force-saturn-tribute-special-edition.json) |
 | Cotton Guardian Force: Saturn Tribute | 146808 | [146808-cotton-guardian-force-saturn-tribute.json](./146808-cotton-guardian-force-saturn-tribute.json) |
+| Cotton Plicker | 364135 | [364135-cotton-plicker.json](./364135-cotton-plicker.json) |
 | Cotton Reboot! | 140443 | [140443-cotton-reboot.json](./140443-cotton-reboot.json) |
 | Cotton Rock 'n' Roll: 30th Anniversary - Limited Edition | 153648 | [153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json](./153648-cotton-rock-n-roll-30th-anniversary-limited-edition.json) |
 | Cotton Rock n Roll 2 | 336949 | [336949-cotton-rock-n-roll-2.json](./336949-cotton-rock-n-roll-2.json) |
