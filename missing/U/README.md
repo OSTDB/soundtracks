@@ -1857,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underfoot | 417209 | [417209-underfoot.json](./417209-underfoot.json) |
 | Underfoot Queens | 217054 | [217054-underfoot-queens.json](./217054-underfoot-queens.json) |
 | UnderForged | 414474 | [414474-underforged.json](./414474-underforged.json) |
+| UnderGirl: Submission Path | 382080 | [382080-undergirl-submission-path.json](./382080-undergirl-submission-path.json) |
 | Undergod | 276153 | [276153-undergod.json](./276153-undergod.json) |
 | Undergoes | 312993 | [312993-undergoes.json](./312993-undergoes.json) |
 | Undergone: Before | 390658 | [390658-undergone-before.json](./390658-undergone-before.json) |
@@ -2315,6 +2316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unicopia | 311737 | [311737-unicopia.json](./311737-unicopia.json) |
 | Unicorn | 223672 | [223672-unicorn.json](./223672-unicorn.json) |
 | Unicorn 3D | 87057 | [87057-unicorn-3d.json](./87057-unicorn-3d.json) |
+| Unicorn Academy: Friendship Adventures | 382103 | [382103-unicorn-academy-friendship-adventures.json](./382103-unicorn-academy-friendship-adventures.json) |
 | Unicorn Academy: Island of Magic | 410966 | [410966-unicorn-academy-island-of-magic.json](./410966-unicorn-academy-island-of-magic.json) |
 | Unicorn and Sweets | 149951 | [149951-unicorn-and-sweets.json](./149951-unicorn-and-sweets.json) |
 | Unicorn and Sweets 2 | 152804 | [152804-unicorn-and-sweets-2.json](./152804-unicorn-and-sweets-2.json) |
