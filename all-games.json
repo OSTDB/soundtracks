@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T21:26:44.333Z",
-  "total_soundtracks": 3100,
+  "generated_at": "2026-11-11T21:36:38.532Z",
+  "total_soundtracks": 3110,
   "games": [
     {
       "igdb_id": 7522,
@@ -5471,6 +5471,20 @@
       ]
     },
     {
+      "igdb_id": 7880,
+      "game_name": "Cargo Commander",
+      "game_url": "https://ostdb.net/games/cargo-commander",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b1f301f89ce0e35560c9422b",
+      "albums": [
+        {
+          "album_name": "Cargo Commander Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5qSmcVmpbidcxBZ6E0E3Je",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 378311,
       "game_name": "Carmageddon: Rogue Shift",
       "game_url": "https://ostdb.net/games/carmageddon-rogue-shift",
@@ -8336,6 +8350,20 @@
           "album_name": "DELTARUNE Chapters 3+4 (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4wsN31rpFBwGS06xi3rp1P",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 274238,
+      "game_name": "Deltarune: Chapter 5",
+      "game_url": "https://ostdb.net/games/deltarune-chapter-5",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f2040bc37574c3f96727befd",
+      "albums": [
+        {
+          "album_name": "DELTARUNE Chapter 5 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2LFHooldVH3usvXaAW6FTz",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -18089,6 +18117,20 @@
       ]
     },
     {
+      "igdb_id": 4968,
+      "game_name": "Legend of the Guardians: The Owls of Ga'Hoole",
+      "game_url": "https://ostdb.net/games/legend-of-the-guardians-the-owls-of-gahoole",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736a29d595b3dca1026e7e7135",
+      "albums": [
+        {
+          "album_name": "Legend of the Guardians: The Owls of Ga'Hoole Original Videogame Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2lx8uDCpodiH2TCJqbtuMw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 7049,
       "game_name": "Legendary",
       "game_url": "https://ostdb.net/games/legendary",
@@ -21861,6 +21903,20 @@
       ]
     },
     {
+      "igdb_id": 248121,
+      "game_name": "Need for Speed: Carbon",
+      "game_url": "https://ostdb.net/games/need-for-speed-carbon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731ad3524038e15cf921221f91",
+      "albums": [
+        {
+          "album_name": "Need for Speed: Carbon (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0potNj20jhgGKt7y2pbSbA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 119161,
       "game_name": "Need for Speed: Heat",
       "game_url": "https://ostdb.net/games/need-for-speed-heat",
@@ -23559,6 +23615,20 @@
       ]
     },
     {
+      "igdb_id": 6861,
+      "game_name": "Pac-Man & Galaga Dimensions",
+      "game_url": "https://ostdb.net/games/pac-man-and-galaga-dimensions",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738ca1a1e4b227748281d911c9",
+      "albums": [
+        {
+          "album_name": "PAC-MAN & Galaga DIMENSIONS Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6wbeYS9a9BJOnQ1fntMm0l",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 12192,
       "game_name": "Pac-Mania",
       "game_url": "https://ostdb.net/games/pac-mania",
@@ -25213,6 +25283,20 @@
         {
           "album_name": "R:RACING EVOLUTION Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/0rzsxy1QdcIHNEBL7DWvkc",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 5320,
+      "game_name": "Rabbids Land",
+      "game_url": "https://ostdb.net/games/rabbids-land",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27305cc1af0f85c03f35d6b67d6",
+      "albums": [
+        {
+          "album_name": "Rabbids Land (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5Qa5zJr179nAE65jhiVbhA",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -27955,6 +28039,20 @@
       ]
     },
     {
+      "igdb_id": 325583,
+      "game_name": "Shadow Labyrinth",
+      "game_url": "https://ostdb.net/games/shadow-labyrinth",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739f9f5be38d7bc9783617c1a6",
+      "albums": [
+        {
+          "album_name": "Shadow Labyrinth Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4s3gruW3Sz2MO8W0wznUsZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 37094,
       "game_name": "Shadow of the Colossus",
       "game_url": "https://ostdb.net/games/shadow-of-the-colossus",
@@ -30179,6 +30277,20 @@
         {
           "album_name": "SPRAWL (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1LJ5pr8AC8s4cBJotkWhoq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 6152,
+      "game_name": "SpyHunter 2",
+      "game_url": "https://ostdb.net/games/spyhunter-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fbb59aaed47440bc61263dc8",
+      "albums": [
+        {
+          "album_name": "SpyHunter 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2azPwyBYv6lNoriok2iMAy",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -37053,6 +37165,20 @@
       ]
     },
     {
+      "igdb_id": 243440,
+      "game_name": "Vampire Survivors: Tides of the Foscari",
+      "game_url": "https://ostdb.net/games/vampire-survivors-tides-of-the-foscari",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27331e0f1e835742a02bf7efd6a",
+      "albums": [
+        {
+          "album_name": "Vampire Survivors: Tides of the Foscari (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/60hpjXtjlkYVkXdqjKYGAV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 152087,
       "game_name": "Vampire: The Masquerade - Bloodhunt",
       "game_url": "https://ostdb.net/games/vampire-the-masquerade-bloodhunt",
@@ -39369,6 +39495,20 @@
         {
           "album_name": "You Will (Not) Remain (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0Jr42Fk07D3chUPbngQEQk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 7536,
+      "game_name": "Your Shape Fitness Evolved 2012",
+      "game_url": "https://ostdb.net/games/your-shape-fitness-evolved-2012",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d4bc8e67b164f5bdf5b85abb",
+      "albums": [
+        {
+          "album_name": "Your Shape Fitness Evolved 2012 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5HbPGqKFToKHdiYlT5ufMF",
           "apple_music_url": "",
           "album_link_url": ""
         }
