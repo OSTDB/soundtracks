@@ -1133,6 +1133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hampstead | 12953 | [12953-hampstead.json](./12953-hampstead.json) |
 | Hampton Court | 123594 | [123594-hampton-court.json](./123594-hampton-court.json) |
 | Hampuzz | 165714 | [165714-hampuzz.json](./165714-hampuzz.json) |
+| Hampy's Great Adventure | 365903 | [365903-hampys-great-adventure.json](./365903-hampys-great-adventure.json) |
 | Hamspater | 371342 | [371342-hamspater.json](./371342-hamspater.json) |
 | Hamster | 147481 | [147481-hamster.json](./147481-hamster.json) |
 | Hamster | 307295 | [307295-hamster.json](./307295-hamster.json) |
@@ -4519,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellborne | 148373 | [148373-hellborne.json](./148373-hellborne.json) |
 | Hellbound | 139990 | [139990-hellbound.json](./139990-hellbound.json) |
 | Hellbound | 360769 | [360769-hellbound.json](./360769-hellbound.json) |
+| Hellbound | 365980 | [365980-hellbound.json](./365980-hellbound.json) |
 | Hellbound | 385390 | [385390-hellbound.json](./385390-hellbound.json) |
 | Hellbound Ropes | 266603 | [266603-hellbound-ropes.json](./266603-hellbound-ropes.json) |
 | Hellbound, Inc. | 358272 | [358272-hellbound-inc.json](./358272-hellbound-inc.json) |
@@ -11396,6 +11398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotch Kiss | 148358 | [148358-hotch-kiss.json](./148358-hotch-kiss.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
 | Hotcorn | 381314 | [381314-hotcorn.json](./381314-hotcorn.json) |
+| Hotdangle | 365915 | [365915-hotdangle.json](./365915-hotdangle.json) |
 | Hotdog Butcher | 406283 | [406283-hotdog-butcher.json](./406283-hotdog-butcher.json) |
 | Hotdog Cart Simulator | 385447 | [385447-hotdog-cart-simulator.json](./385447-hotdog-cart-simulator.json) |
 | Hotdog Delivery Hotdog | 390621 | [390621-hotdog-delivery-hotdog.json](./390621-hotdog-delivery-hotdog.json) |
