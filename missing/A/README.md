@@ -679,6 +679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Killer Chat! Christmas | 370876 | [370876-a-killer-chat-christmas.json](./370876-a-killer-chat-christmas.json) |
 | A Killer's Dream | 91625 | [91625-a-killers-dream.json](./91625-a-killers-dream.json) |
 | A Killer's Sorrow | 110926 | [110926-a-killers-sorrow.json](./110926-a-killers-sorrow.json) |
+| A Kin of Stardust | 387819 | [387819-a-kin-of-stardust.json](./387819-a-kin-of-stardust.json) |
 | A King's Tale: Final Fantasy XV | 19600 | [19600-a-kings-tale-final-fantasy-xv.json](./19600-a-kings-tale-final-fantasy-xv.json) |
 | A Kingdom for Keflings | 15860 | [15860-a-kingdom-for-keflings.json](./15860-a-kingdom-for-keflings.json) |
 | A Kingdom of Flesh and Stone | 120610 | [120610-a-kingdom-of-flesh-and-stone.json](./120610-a-kingdom-of-flesh-and-stone.json) |
