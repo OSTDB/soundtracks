@@ -4144,6 +4144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Arcade GP VR | 48711 | [48711-mario-kart-arcade-gp-vr.json](./48711-mario-kart-arcade-gp-vr.json) |
 | Mario Kart Black | 358436 | [358436-mario-kart-black.json](./358436-mario-kart-black.json) |
 | Mario Kart CW | 151835 | [151835-mario-kart-cw.json](./151835-mario-kart-cw.json) |
+| Mario Kart Deluxe | 341733 | [341733-mario-kart-deluxe.json](./341733-mario-kart-deluxe.json) |
 | Mario Kart DS N64 Circuit | 242435 | [242435-mario-kart-ds-n64-circuit.json](./242435-mario-kart-ds-n64-circuit.json) |
 | Mario Kart DS: GameCube Grand Prix | 313347 | [313347-mario-kart-ds-gamecube-grand-prix.json](./313347-mario-kart-ds-gamecube-grand-prix.json) |
 | Mario Kart Fusion | 313943 | [313943-mario-kart-fusion.json](./313943-mario-kart-fusion.json) |
@@ -6702,6 +6703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Quest Master: Builder | 270979 | [270979-maze-quest-master-builder.json](./270979-maze-quest-master-builder.json) |
 | Maze Quest Master: Cyclist | 272610 | [272610-maze-quest-master-cyclist.json](./272610-maze-quest-master-cyclist.json) |
 | Maze Quest Master: Gunner | 270980 | [270980-maze-quest-master-gunner.json](./270980-maze-quest-master-gunner.json) |
+| Maze Quest Vr | 341753 | [341753-maze-quest-vr.json](./341753-maze-quest-vr.json) |
 | Maze Race Challenge | 101509 | [101509-maze-race-challenge.json](./101509-maze-race-challenge.json) |
 | Maze Racers | 180503 | [180503-maze-racers.json](./180503-maze-racers.json) |
 | Maze Racing | 239116 | [239116-maze-racing.json](./239116-maze-racing.json) |
@@ -17910,6 +17912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlit Lobby | 212773 | [212773-moonlit-lobby.json](./212773-moonlit-lobby.json) |
 | Moonlit Mayhem | 31402 | [31402-moonlit-mayhem.json](./31402-moonlit-mayhem.json) |
 | Moonlit Nights | 386146 | [386146-moonlit-nights.json](./386146-moonlit-nights.json) |
+| Moonlit Reaper | 341721 | [341721-moonlit-reaper.json](./341721-moonlit-reaper.json) |
 | MoonLite | 417255 | [417255-moonlite.json](./417255-moonlite.json) |
 | MoonLost | 387344 | [387344-moonlost.json](./387344-moonlost.json) |
 | Moonman | 208569 | [208569-moonman.json](./208569-moonman.json) |
@@ -18494,8 +18497,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Kombat II | 242248 | [242248-mortal-kombat-ii.json](./242248-mortal-kombat-ii.json) |
 | Mortal Kombat II | 242249 | [242249-mortal-kombat-ii.json](./242249-mortal-kombat-ii.json) |
 | Mortal Kombat II | 299167 | [299167-mortal-kombat-ii.json](./299167-mortal-kombat-ii.json) |
+| Mortal Kombat II Plus | 341765 | [341765-mortal-kombat-ii-plus.json](./341765-mortal-kombat-ii-plus.json) |
 | Mortal Kombat II Special | 45157 | [45157-mortal-kombat-ii-special.json](./45157-mortal-kombat-ii-special.json) |
 | Mortal Kombat II Unlimited | 45152 | [45152-mortal-kombat-ii-unlimited.json](./45152-mortal-kombat-ii-unlimited.json) |
+| Mortal Kombat II: Arcade Edition | 341764 | [341764-mortal-kombat-ii-arcade-edition.json](./341764-mortal-kombat-ii-arcade-edition.json) |
 | Mortal Kombat Kollection | 43251 | [43251-mortal-kombat-kollection.json](./43251-mortal-kombat-kollection.json) |
 | Mortal Kombat Kollection Online | 133950 | [133950-mortal-kombat-kollection-online.json](./133950-mortal-kombat-kollection-online.json) |
 | Mortal Kombat Mobile | 305553 | [305553-mortal-kombat-mobile.json](./305553-mortal-kombat-mobile.json) |
