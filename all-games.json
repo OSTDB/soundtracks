@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T22:31:11.493Z",
-  "total_soundtracks": 3150,
+  "generated_at": "2026-11-11T22:35:51.761Z",
+  "total_soundtracks": 3151,
   "games": [
     {
       "igdb_id": 7522,
@@ -1333,6 +1333,20 @@
         {
           "album_name": "Amanda the Adventurer (Official Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4J19gCElJlAkLRFCquUSfK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 272840,
+      "game_name": "Amanda the Adventurer 2",
+      "game_url": "https://ostdb.net/games/amanda-the-adventurer-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b742356cee23ee0545fbb259",
+      "albums": [
+        {
+          "album_name": "Amanda the Adventurer 2 (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/68jyRCZFU1DXyv8OO4slhr",
           "apple_music_url": "",
           "album_link_url": ""
         }
