@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Dirty Whiskers | 353795 | [353795-a-tale-of-dirty-whiskers.json](./353795-a-tale-of-dirty-whiskers.json) |
 | A Tale of Fortunate Lust | 401531 | [401531-a-tale-of-fortunate-lust.json](./401531-a-tale-of-fortunate-lust.json) |
 | A Tale of Little Berry Forest | 186419 | [186419-a-tale-of-little-berry-forest.json](./186419-a-tale-of-little-berry-forest.json) |
+| A Tale of Little Berry Forest 2: Stars | 320999 | [320999-a-tale-of-little-berry-forest-2-stars.json](./320999-a-tale-of-little-berry-forest-2-stars.json) |
 | A Tale of Misery | 348913 | [348913-a-tale-of-misery.json](./348913-a-tale-of-misery.json) |
 | A Tale of Paper | 102803 | [102803-a-tale-of-paper.json](./102803-a-tale-of-paper.json) |
 | A Tale of Paper: Refolded | 213997 | [213997-a-tale-of-paper-refolded.json](./213997-a-tale-of-paper-refolded.json) |
@@ -14623,6 +14624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arfgaldt | 298525 | [298525-arfgaldt.json](./298525-arfgaldt.json) |
 | Argamasa | 266133 | [266133-argamasa.json](./266133-argamasa.json) |
 | Argebe | 333513 | [333513-argebe.json](./333513-argebe.json) |
+| ArgenMu | 321702 | [321702-argenmu.json](./321702-argenmu.json) |
 | Argent Twilight | 212539 | [212539-argent-twilight.json](./212539-argent-twilight.json) |
 | Argentum Age | 77559 | [77559-argentum-age.json](./77559-argentum-age.json) |
 | Argentum Forever | 337051 | [337051-argentum-forever.json](./337051-argentum-forever.json) |
