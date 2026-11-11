@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T21:57:09.629Z",
-  "total_soundtracks": 3129,
+  "generated_at": "2026-11-11T22:06:25.747Z",
+  "total_soundtracks": 3135,
   "games": [
     {
       "igdb_id": 7522,
@@ -10949,6 +10949,20 @@
       ]
     },
     {
+      "igdb_id": 143329,
+      "game_name": "Evil Tonight",
+      "game_url": "https://ostdb.net/games/evil-tonight",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732c86452b049baa986b3eff61",
+      "albums": [
+        {
+          "album_name": "Evil Tonight (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2eZ3nraS5CyBtjJfq1xujX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11798,
       "game_name": "Evoland 2",
       "game_url": "https://ostdb.net/games/evoland-2",
@@ -17279,6 +17293,20 @@
         {
           "album_name": "Just a To the Moon Series Beach Episode OST",
           "spotify_url": "https://open.spotify.com/album/4dPoIhs4uuj6nisSFGqpwy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 191204,
+      "game_name": "Just King",
+      "game_url": "https://ostdb.net/games/just-king",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b8074bbc1fda50f85874d720",
+      "albums": [
+        {
+          "album_name": "Just King (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6ChQO8rNvJBmOru8wcWo7N",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -27417,6 +27445,20 @@
       ]
     },
     {
+      "igdb_id": 220488,
+      "game_name": "Rungore",
+      "game_url": "https://ostdb.net/games/rungore",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f5be15293db607634b185974",
+      "albums": [
+        {
+          "album_name": "Rungore Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6ueXtJYcCYLxI6z1psP2ht",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 25658,
       "game_name": "Runner3",
       "game_url": "https://ostdb.net/games/runner3",
@@ -32473,6 +32515,20 @@
       ]
     },
     {
+      "igdb_id": 176503,
+      "game_name": "Tasty Ramen",
+      "game_url": "https://ostdb.net/games/tasty-ramen",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739a97dacc11d05700072fb5f9",
+      "albums": [
+        {
+          "album_name": "Tasty Ramen (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6NbUsuSg9CQk6Exs0KtZkV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 891,
       "game_name": "Team Fortress 2",
       "game_url": "https://ostdb.net/games/team-fortress-2",
@@ -34507,6 +34563,20 @@
       ]
     },
     {
+      "igdb_id": 193664,
+      "game_name": "The Oregon Trail",
+      "game_url": "https://ostdb.net/games/the-oregon-trail",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733f2ff7e6e7e5d15ca5d81e7b",
+      "albums": [
+        {
+          "album_name": "The Oregon Trail: Music from the Gameloft Game",
+          "spotify_url": "https://open.spotify.com/album/6echjddvt7NQraLNuvqLnZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 113114,
       "game_name": "The Outer Worlds",
       "game_url": "https://ostdb.net/games/the-outer-worlds",
@@ -34822,6 +34892,20 @@
     },
     {
       "igdb_id": 192906,
+      "game_name": "The Sims 2",
+      "game_url": "https://ostdb.net/games/the-sims-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e360fbb82e572bb9c59e1b46",
+      "albums": [
+        {
+          "album_name": "The Sims 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5y3IHg8hVlbfbFgIUWtCeL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 210460,
       "game_name": "The Sims 2",
       "game_url": "https://ostdb.net/games/the-sims-2",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273e360fbb82e572bb9c59e1b46",
