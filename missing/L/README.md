@@ -2199,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lead to Fire | 61154 | [61154-lead-to-fire.json](./61154-lead-to-fire.json) |
 | Lead Wars | 103076 | [103076-lead-wars.json](./103076-lead-wars.json) |
 | Lead: Rally | 279903 | [279903-lead-rally.json](./279903-lead-rally.json) |
+| LeadCount | 388450 | [388450-leadcount.json](./388450-leadcount.json) |
 | Leaden Sky: Nightmares | 286100 | [286100-leaden-sky-nightmares.json](./286100-leaden-sky-nightmares.json) |
 | Leader | 170846 | [170846-leader.json](./170846-leader.json) |
 | Leader of the Pack | 285971 | [285971-leader-of-the-pack.json](./285971-leader-of-the-pack.json) |
@@ -2998,6 +2999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends & Myths Bundle | 125137 | [125137-legends-and-myths-bundle.json](./125137-legends-and-myths-bundle.json) |
 | Legends Aligned | 335085 | [335085-legends-aligned.json](./335085-legends-aligned.json) |
 | Legends Aligned: Minis in Conflict | 343710 | [343710-legends-aligned-minis-in-conflict.json](./343710-legends-aligned-minis-in-conflict.json) |
+| Legends And Lore | 388429 | [388429-legends-and-lore.json](./388429-legends-and-lore.json) |
 | Legends BMX | 325081 | [325081-legends-bmx.json](./325081-legends-bmx.json) |
 | Legends Collection 6-in-1 | 349609 | [349609-legends-collection-6-in-1.json](./349609-legends-collection-6-in-1.json) |
 | Legends Core Plus | 231401 | [231401-legends-core-plus.json](./231401-legends-core-plus.json) |
@@ -5691,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Runner 2 | 90401 | [90401-line-runner-2.json](./90401-line-runner-2.json) |
 | Line Simulator | 156857 | [156857-line-simulator.json](./156857-line-simulator.json) |
 | Line Simulator 2020 | 137244 | [137244-line-simulator-2020.json](./137244-line-simulator-2020.json) |
+| Line Slider | 388455 | [388455-line-slider.json](./388455-line-slider.json) |
 | Line Space Wars | 69360 | [69360-line-space-wars.json](./69360-line-space-wars.json) |
 | Line Strike | 188791 | [188791-line-strike.json](./188791-line-strike.json) |
 | Line the Balls | 233173 | [233173-line-the-balls.json](./233173-line-the-balls.json) |
