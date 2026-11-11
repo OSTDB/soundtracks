@@ -4746,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seconds Time's the Charm | 326602 | [326602-seconds-times-the-charm.json](./326602-seconds-times-the-charm.json) |
 | Seconds to Square | 55574 | [55574-seconds-to-square.json](./55574-seconds-to-square.json) |
 | SecondSpeed | 28782 | [28782-secondspeed.json](./28782-secondspeed.json) |
+| Secret | 340101 | [340101-secret.json](./340101-secret.json) |
 | Secret Admirer | 129225 | [129225-secret-admirer.json](./129225-secret-admirer.json) |
 | Secret Agent | 264045 | [264045-secret-agent.json](./264045-secret-agent.json) |
 | Secret Agent | 8485 | [8485-secret-agent.json](./8485-secret-agent.json) |
@@ -4919,6 +4920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Spaces | 136553 | [136553-secret-spaces.json](./136553-secret-spaces.json) |
 | Secret Spy: Operation Love | 240249 | [240249-secret-spy-operation-love.json](./240249-secret-spy-operation-love.json) |
 | Secret Squonker | 407087 | [407087-secret-squonker.json](./407087-secret-squonker.json) |
+| Secret Story | 340108 | [340108-secret-story.json](./340108-secret-story.json) |
 | Secret Summer | 368096 | [368096-secret-summer.json](./368096-secret-summer.json) |
 | Secret Summoner | 236954 | [236954-secret-summoner.json](./236954-secret-summoner.json) |
 | Secret Tea Garden | 209942 | [209942-secret-tea-garden.json](./209942-secret-tea-garden.json) |
@@ -22670,6 +22672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Weaver | 335381 | [335381-spell-weaver.json](./335381-spell-weaver.json) |
 | Spell Welders | 199501 | [199501-spell-welders.json](./199501-spell-welders.json) |
 | Spell Welders | 199689 | [199689-spell-welders.json](./199689-spell-welders.json) |
+| Spell Wizard | 340097 | [340097-spell-wizard.json](./340097-spell-wizard.json) |
 | Spellagories | 208784 | [208784-spellagories.json](./208784-spellagories.json) |
 | Spellario | 171993 | [171993-spellario.json](./171993-spellario.json) |
 | Spellarium | 250164 | [250164-spellarium.json](./250164-spellarium.json) |
