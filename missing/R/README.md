@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapid Fire Brigade | 248178 | [248178-rapid-fire-brigade.json](./248178-rapid-fire-brigade.json) |
 | Rapid Fury | 298226 | [298226-rapid-fury.json](./298226-rapid-fury.json) |
 | Rapid Hero | 39881 | [39881-rapid-hero.json](./39881-rapid-hero.json) |
+| Rapid Impact | 340096 | [340096-rapid-impact.json](./340096-rapid-impact.json) |
 | Rapid Jump | 87290 | [87290-rapid-jump.json](./87290-rapid-jump.json) |
 | Rapid Magic Arcane Crystals | 174210 | [174210-rapid-magic-arcane-crystals.json](./174210-rapid-magic-arcane-crystals.json) |
 | Rapid Puppet | 391122 | [391122-rapid-puppet.json](./391122-rapid-puppet.json) |
@@ -5392,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remote Position | 346543 | [346543-remote-position.json](./346543-remote-position.json) |
 | Remote Presence | 275634 | [275634-remote-presence.json](./275634-remote-presence.json) |
 | Remote Racers | 84830 | [84830-remote-racers.json](./84830-remote-racers.json) |
+| Remote Realms | 340094 | [340094-remote-realms.json](./340094-remote-realms.json) |
 | Remote Reaper: FPV Drone | 338625 | [338625-remote-reaper-fpv-drone.json](./338625-remote-reaper-fpv-drone.json) |
 | Remote Union | 410941 | [410941-remote-union.json](./410941-remote-union.json) |
 | Remote Virtual Cockpit | 109010 | [109010-remote-virtual-cockpit.json](./109010-remote-virtual-cockpit.json) |
@@ -6584,6 +6586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retroid | 268414 | [268414-retroid.json](./268414-retroid.json) |
 | Retroid: Cartridge Protocol | 361006 | [361006-retroid-cartridge-protocol.json](./361006-retroid-cartridge-protocol.json) |
 | Retroids | 175521 | [175521-retroids.json](./175521-retroids.json) |
+| Retroids | 340111 | [340111-retroids.json](./340111-retroids.json) |
 | Retroids | 56850 | [56850-retroids.json](./56850-retroids.json) |
 | Retrojam 2 | 319545 | [319545-retrojam-2.json](./319545-retrojam-2.json) |
 | Retrojam 3 | 384214 | [384214-retrojam-3.json](./384214-retrojam-3.json) |
