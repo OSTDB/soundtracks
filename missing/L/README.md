@@ -8981,6 +8981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lostguns | 400627 | [400627-lostguns.json](./400627-lostguns.json) |
 | LostHero | 138248 | [138248-losthero.json](./138248-losthero.json) |
 | LostMagic | 20522 | [20522-lostmagic.json](./20522-lostmagic.json) |
+| Lostmiao Mjao | 377510 | [377510-lostmiao-mjao.json](./377510-lostmiao-mjao.json) |
 | LostMiner: Build & Craft Game | 298747 | [298747-lostminer-build-and-craft-game.json](./298747-lostminer-build-and-craft-game.json) |
 | LostTicket | 342910 | [342910-lostticket.json](./342910-lostticket.json) |
 | LostWinds: Winter of the Melodias | 21245 | [21245-lostwinds-winter-of-the-melodias.json](./21245-lostwinds-winter-of-the-melodias.json) |
