@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M_rdle | 372094 | [372094-m-rdle.json](./372094-m-rdle.json) |
 | M-1 Abrams Battle Tank | 45775 | [45775-m-1-abrams-battle-tank.json](./45775-m-1-abrams-battle-tank.json) |
 | M-1 Abrams Battletank | 45600 | [45600-m-1-abrams-battletank.json](./45600-m-1-abrams-battletank.json) |
+| M-1 Grand Prix no Michi: Ore-tachi no Debayashi ha Mou Natteiru | 332739 | [332739-m-1-grand-prix-no-michi-ore-tachi-no-debayashi-ha-mou-natteiru.json](./332739-m-1-grand-prix-no-michi-ore-tachi-no-debayashi-ha-mou-natteiru.json) |
 | M-4 | 40561 | [40561-m-4.json](./40561-m-4.json) |
 | M-79 Ambush | 123021 | [123021-m-79-ambush.json](./123021-m-79-ambush.json) |
 | M-Plan | 109868 | [109868-m-plan.json](./109868-m-plan.json) |
@@ -5680,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MasterChef: Learn to Cook! - Vegetables & Grains | 324482 | [324482-masterchef-learn-to-cook-vegetables-and-grains.json](./324482-masterchef-learn-to-cook-vegetables-and-grains.json) |
 | MasterChef: Learn to Cook! - Veggie Special | 385165 | [385165-masterchef-learn-to-cook-veggie-special.json](./385165-masterchef-learn-to-cook-veggie-special.json) |
 | MasterChef: Let's Cook | 165294 | [165294-masterchef-lets-cook.json](./165294-masterchef-lets-cook.json) |
+| MasterChef: The Official Video Game | 332737 | [332737-masterchef-the-official-video-game.json](./332737-masterchef-the-official-video-game.json) |
 | MasterCube | 59901 | [59901-mastercube.json](./59901-mastercube.json) |
 | Mastermind | 341711 | [341711-mastermind.json](./341711-mastermind.json) |
 | Mastermind | 419462 | [419462-mastermind.json](./419462-mastermind.json) |
@@ -21247,6 +21249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Rage | 360884 | [360884-mutant-rage.json](./360884-mutant-rage.json) |
 | Mutant Rampage: Bodyslam | 45912 | [45912-mutant-rampage-bodyslam.json](./45912-mutant-rampage-bodyslam.json) |
 | Mutant Roadkill | 233532 | [233532-mutant-roadkill.json](./233532-mutant-roadkill.json) |
+| Mutant Slime: Survivor Team | 333272 | [333272-mutant-slime-survivor-team.json](./333272-mutant-slime-survivor-team.json) |
 | Mutant Storm | 71688 | [71688-mutant-storm.json](./71688-mutant-storm.json) |
 | Mutant Storm Empire | 21914 | [21914-mutant-storm-empire.json](./21914-mutant-storm-empire.json) |
 | Mutant Storm: Reloaded | 16266 | [16266-mutant-storm-reloaded.json](./16266-mutant-storm-reloaded.json) |
