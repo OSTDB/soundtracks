@@ -7158,7 +7158,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Knight: Ninja Game RPG | 299346 | [299346-shadow-knight-ninja-game-rpg.json](./299346-shadow-knight-ninja-game-rpg.json) |
 | Shadow Knights | 80089 | [80089-shadow-knights.json](./80089-shadow-knights.json) |
 | Shadow Labyrinth | 269093 | [269093-shadow-labyrinth.json](./269093-shadow-labyrinth.json) |
-| Shadow Labyrinth | 325583 | [325583-shadow-labyrinth.json](./325583-shadow-labyrinth.json) |
 | Shadow Land | 242558 | [242558-shadow-land.json](./242558-shadow-land.json) |
 | Shadow Leap | 318280 | [318280-shadow-leap.json](./318280-shadow-leap.json) |
 | Shadow Legend VR | 112926 | [112926-shadow-legend-vr.json](./112926-shadow-legend-vr.json) |
@@ -18622,6 +18621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Double Pack: Sonic Mania Plus & Sonic Forces | 145254 | [145254-sonic-double-pack-sonic-mania-plus-and-sonic-forces.json](./145254-sonic-double-pack-sonic-mania-plus-and-sonic-forces.json) |
 | Sonic Dream Team | 274840 | [274840-sonic-dream-team.json](./274840-sonic-dream-team.json) |
 | Sonic Dreams Collection | 11656 | [11656-sonic-dreams-collection.json](./11656-sonic-dreams-collection.json) |
+| Sonic Dreamscape | 319507 | [319507-sonic-dreamscape.json](./319507-sonic-dreamscape.json) |
 | Sonic Drift | 45798 | [45798-sonic-drift.json](./45798-sonic-drift.json) |
 | Sonic Drift 16-Bit | 279759 | [279759-sonic-drift-16-bit.json](./279759-sonic-drift-16-bit.json) |
 | Sonic Duel | 141985 | [141985-sonic-duel.json](./141985-sonic-duel.json) |
@@ -18866,6 +18866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Oxilary | 325190 | [325190-sonic-oxilary.json](./325190-sonic-oxilary.json) |
 | Sonic P-06 | 148406 | [148406-sonic-p-06.json](./148406-sonic-p-06.json) |
 | Sonic Panel Puzzle | 261274 | [261274-sonic-panel-puzzle.json](./261274-sonic-panel-puzzle.json) |
+| Sonic Panic | 319504 | [319504-sonic-panic.json](./319504-sonic-panic.json) |
 | Sonic Paradigm | 333935 | [333935-sonic-paradigm.json](./333935-sonic-paradigm.json) |
 | Sonic Paradigm | 370259 | [370259-sonic-paradigm.json](./370259-sonic-paradigm.json) |
 | Sonic Paradise | 335167 | [335167-sonic-paradise.json](./335167-sonic-paradise.json) |
@@ -19003,6 +19004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Rush | 19258 | [19258-sonic-rush.json](./19258-sonic-rush.json) |
 | Sonic Rush 3D | 214972 | [214972-sonic-rush-3d.json](./214972-sonic-rush-3d.json) |
 | Sonic Rush Adventure Flash | 272921 | [272921-sonic-rush-adventure-flash.json](./272921-sonic-rush-adventure-flash.json) |
+| Sonic Rush Legacy | 319505 | [319505-sonic-rush-legacy.json](./319505-sonic-rush-legacy.json) |
 | Sonic Rush Rerun | 365772 | [365772-sonic-rush-rerun.json](./365772-sonic-rush-rerun.json) |
 | Sonic RX | 331725 | [331725-sonic-rx.json](./331725-sonic-rx.json) |
 | Sonic S Adventure | 331648 | [331648-sonic-s-adventure.json](./331648-sonic-s-adventure.json) |
@@ -19194,6 +19196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog: Spinball | 279052 | [279052-sonic-the-hedgehog-spinball.json](./279052-sonic-the-hedgehog-spinball.json) |
 | Sonic the Hedgehog: The Blue Blur! Super Sonic - Quiz Game | 325095 | [325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json](./325095-sonic-the-hedgehog-the-blue-blur-super-sonic-quiz-game.json) |
 | Sonic the Hedgehog: The Freedom Fighters | 330700 | [330700-sonic-the-hedgehog-the-freedom-fighters.json](./330700-sonic-the-hedgehog-the-freedom-fighters.json) |
+| Sonic the Hedgehog: The Home Saver | 319503 | [319503-sonic-the-hedgehog-the-home-saver.json](./319503-sonic-the-hedgehog-the-home-saver.json) |
 | Sonic the Hedgehog: The Lost Worlds | 198575 | [198575-sonic-the-hedgehog-the-lost-worlds.json](./198575-sonic-the-hedgehog-the-lost-worlds.json) |
 | Sonic the Hedgehog: The Next Level | 148199 | [148199-sonic-the-hedgehog-the-next-level.json](./148199-sonic-the-hedgehog-the-next-level.json) |
 | Sonic the Hedgehog: Time Attacked | 228594 | [228594-sonic-the-hedgehog-time-attacked.json](./228594-sonic-the-hedgehog-time-attacked.json) |
@@ -24784,7 +24787,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpyHunt | 330294 | [330294-spyhunt.json](./330294-spyhunt.json) |
 | SpyHunter | 248443 | [248443-spyhunter.json](./248443-spyhunter.json) |
 | SpyHunter | 4166 | [4166-spyhunter.json](./4166-spyhunter.json) |
-| SpyHunter 2 | 6152 | [6152-spyhunter-2.json](./6152-spyhunter-2.json) |
 | Spykebots | 113706 | [113706-spykebots.json](./113706-spykebots.json) |
 | SpyLeaks | 63057 | [63057-spyleaks.json](./63057-spyleaks.json) |
 | SpyLens: Sex in focus | 368622 | [368622-spylens-sex-in-focus.json](./368622-spylens-sex-in-focus.json) |
@@ -28449,6 +28451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sternenschweif 3D - Das Geheimnis im Zauberwald | 125212 | [125212-sternenschweif-3d-das-geheimnis-im-zauberwald.json](./125212-sternenschweif-3d-das-geheimnis-im-zauberwald.json) |
 | Sternly Worded Adventures | 261434 | [261434-sternly-worded-adventures.json](./261434-sternly-worded-adventures.json) |
 | Sterospeed | 293023 | [293023-sterospeed.json](./293023-sterospeed.json) |
+| STetris | 319515 | [319515-stetris.json](./319515-stetris.json) |
 | Steve - The Jumping Dinosaur! | 103854 | [103854-steve-the-jumping-dinosaur.json](./103854-steve-the-jumping-dinosaur.json) |
 | Steve Davis Snooker | 45323 | [45323-steve-davis-snooker.json](./45323-steve-davis-snooker.json) |
 | Steve Davis World Snooker | 12928 | [12928-steve-davis-world-snooker.json](./12928-steve-davis-world-snooker.json) |
@@ -29601,6 +29604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StrangerZ | 237435 | [237435-strangerz.json](./237435-strangerz.json) |
 | Strangest.io's My Megamix '21 | 195798 | [195798-strangest-ios-my-megamix-21.json](./195798-strangest-ios-my-megamix-21.json) |
 | Strangle/Hold | 134906 | [134906-strangle-hold.json](./134906-strangle-hold.json) |
+| Stranglehand | 319512 | [319512-stranglehand.json](./319512-stranglehand.json) |
 | Stranglehold | 6146 | [6146-stranglehold.json](./6146-stranglehold.json) |
 | Strangling a Snake Tale | 294028 | [294028-strangling-a-snake-tale.json](./294028-strangling-a-snake-tale.json) |
 | Strania: The Stella Machina | 34342 | [34342-strania-the-stella-machina.json](./34342-strania-the-stella-machina.json) |
