@@ -6909,7 +6909,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Fall 2 | 132600 | [132600-golden-fall-2.json](./132600-golden-fall-2.json) |
 | Golden Farm | 233620 | [233620-golden-farm.json](./233620-golden-farm.json) |
 | Golden Fever | 48009 | [48009-golden-fever.json](./48009-golden-fever.json) |
-| Golden Force | 139960 | [139960-golden-force.json](./139960-golden-force.json) |
 | Golden Force: Limited Edition | 142608 | [142608-golden-force-limited-edition.json](./142608-golden-force-limited-edition.json) |
 | Golden Freddy's Debauchery Simulator | 374112 | [374112-golden-freddys-debauchery-simulator.json](./374112-golden-freddys-debauchery-simulator.json) |
 | Golden Freddy's Debauchery Simulator 1986 | 374116 | [374116-golden-freddys-debauchery-simulator-1986.json](./374116-golden-freddys-debauchery-simulator-1986.json) |
