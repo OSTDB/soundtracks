@@ -7036,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheerleader: reverse side of life | 96424 | [96424-cheerleader-reverse-side-of-life.json](./96424-cheerleader-reverse-side-of-life.json) |
 | Cheerleader's Choice: New York Spirit | 338274 | [338274-cheerleaders-choice-new-york-spirit.json](./338274-cheerleaders-choice-new-york-spirit.json) |
 | Cheers! | 227934 | [227934-cheers.json](./227934-cheers.json) |
+| Cheerwine Deluxe 3 | 321685 | [321685-cheerwine-deluxe-3.json](./321685-cheerwine-deluxe-3.json) |
 | Cheery Party | 148977 | [148977-cheery-party.json](./148977-cheery-party.json) |
 | Cheery Soccer | 196620 | [196620-cheery-soccer.json](./196620-cheery-soccer.json) |
 | Chees | 390362 | [390362-chees.json](./390362-chees.json) |
@@ -10720,6 +10721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classroom Battle! | 186431 | [186431-classroom-battle.json](./186431-classroom-battle.json) |
 | Classroom Mystery Secrets Behind the Lessons | 420681 | [420681-classroom-mystery-secrets-behind-the-lessons.json](./420681-classroom-mystery-secrets-behind-the-lessons.json) |
 | Classroom of the Elite: Merge Puzzle Special Exam | 350524 | [350524-classroom-of-the-elite-merge-puzzle-special-exam.json](./350524-classroom-of-the-elite-merge-puzzle-special-exam.json) |
+| Classroom Whispers | 321729 | [321729-classroom-whispers.json](./321729-classroom-whispers.json) |
 | Classy Train | 213021 | [213021-classy-train.json](./213021-classy-train.json) |
 | Clatter | 112721 | [112721-clatter.json](./112721-clatter.json) |
 | Clatter | 385397 | [385397-clatter.json](./385397-clatter.json) |
@@ -12619,6 +12621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colin McRae: Dirt 2 - Trust Fund Pack | 237841 | [237841-colin-mcrae-dirt-2-trust-fund-pack.json](./237841-colin-mcrae-dirt-2-trust-fund-pack.json) |
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
 | Colina: Legacy | 35181 | [35181-colina-legacy.json](./35181-colina-legacy.json) |
+| Coliseum | 321682 | [321682-coliseum.json](./321682-coliseum.json) |
 | Coliseum | 39101 | [39101-coliseum.json](./39101-coliseum.json) |
 | Coliseum | 418093 | [418093-coliseum.json](./418093-coliseum.json) |
 | Coliseum City Bride | 82750 | [82750-coliseum-city-bride.json](./82750-coliseum-city-bride.json) |
@@ -17456,6 +17459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash 'N' Burn | 5789 | [5789-crash-n-burn.json](./5789-crash-n-burn.json) |
 | Crash 'N' Burn Turbo | 241108 | [241108-crash-n-burn-turbo.json](./241108-crash-n-burn-turbo.json) |
 | Crash 'n' the Boys: Street Challenge | 48291 | [48291-crash-n-the-boys-street-challenge.json](./48291-crash-n-the-boys-street-challenge.json) |
+| Crash / Impact / Contact | 321006 | [321006-crash-impact-contact.json](./321006-crash-impact-contact.json) |
 | Crash & Bump | 212807 | [212807-crash-and-bump.json](./212807-crash-and-bump.json) |
 | Crash & Burn | 257828 | [257828-crash-and-burn.json](./257828-crash-and-burn.json) |
 | Crash & Spyro Super Pack Volume 1 | 56561 | [56561-crash-and-spyro-super-pack-volume-1.json](./56561-crash-and-spyro-super-pack-volume-1.json) |
