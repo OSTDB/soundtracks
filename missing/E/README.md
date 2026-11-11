@@ -2887,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elliot | 135791 | [135791-elliot.json](./135791-elliot.json) |
 | Elliot and the Musical Journey | 133415 | [133415-elliot-and-the-musical-journey.json](./133415-elliot-and-the-musical-journey.json) |
 | Elliot Quest | 8596 | [8596-elliot-quest.json](./8596-elliot-quest.json) |
+| Elliot's Great Symphony | 352466 | [352466-elliots-great-symphony.json](./352466-elliots-great-symphony.json) |
 | Elliot's Show Time | 344404 | [344404-elliots-show-time.json](./344404-elliots-show-time.json) |
 | Ellipsis | 19862 | [19862-ellipsis.json](./19862-ellipsis.json) |
 | Elliptic Twist | 53996 | [53996-elliptic-twist.json](./53996-elliptic-twist.json) |
