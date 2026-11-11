@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Number's Life | 30397 | [30397-a-numbers-life.json](./30397-a-numbers-life.json) |
 | A Nutritious Boyfriend | 265472 | [265472-a-nutritious-boyfriend.json](./265472-a-nutritious-boyfriend.json) |
 | A Once Glorious City | 271725 | [271725-a-once-glorious-city.json](./271725-a-once-glorious-city.json) |
+| A Package for Space | 347956 | [347956-a-package-for-space.json](./347956-a-package-for-space.json) |
 | A Pact With Me | 209704 | [209704-a-pact-with-me.json](./209704-a-pact-with-me.json) |
 | A Pair of Feathers Squawk Together | 311607 | [311607-a-pair-of-feathers-squawk-together.json](./311607-a-pair-of-feathers-squawk-together.json) |
 | A Palace for Fools | 182075 | [182075-a-palace-for-fools.json](./182075-a-palace-for-fools.json) |
@@ -8623,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternator: Tactical Stealth Operations | 116881 | [116881-alternator-tactical-stealth-operations.json](./116881-alternator-tactical-stealth-operations.json) |
 | Alterniabound | 210362 | [210362-alterniabound.json](./210362-alterniabound.json) |
 | Alternian Turnabout: Aradia Megido | 383173 | [383173-alternian-turnabout-aradia-megido.json](./383173-alternian-turnabout-aradia-megido.json) |
+| Alternis | 347957 | [347957-alternis.json](./347957-alternis.json) |
 | Alternity | 59974 | [59974-alternity.json](./59974-alternity.json) |
 | Alternoidz | 134388 | [134388-alternoidz.json](./134388-alternoidz.json) |
 | Altero | 81253 | [81253-altero.json](./81253-altero.json) |
@@ -15339,6 +15341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arobynn: The First Adventure | 199734 | [199734-arobynn-the-first-adventure.json](./199734-arobynn-the-first-adventure.json) |
 | Aroma | 226231 | [226231-aroma.json](./226231-aroma.json) |
 | Aroma Button | 380110 | [380110-aroma-button.json](./380110-aroma-button.json) |
+| Aroma Love Ready! | 348489 | [348489-aroma-love-ready.json](./348489-aroma-love-ready.json) |
 | Aron's Adventure | 117147 | [117147-arons-adventure.json](./117147-arons-adventure.json) |
 | Aron's Adventure: Magic Reborn | 277355 | [277355-arons-adventure-magic-reborn.json](./277355-arons-adventure-magic-reborn.json) |
 | Aron's Gift | 96100 | [96100-arons-gift.json](./96100-arons-gift.json) |
