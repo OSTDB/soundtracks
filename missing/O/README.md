@@ -5651,6 +5651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OutRage: Fight Fest | 262662 | [262662-outrage-fight-fest.json](./262662-outrage-fight-fest.json) |
 | Outrageous Grounds: The Maze | 31739 | [31739-outrageous-grounds-the-maze.json](./31739-outrageous-grounds-the-maze.json) |
 | Outranked | 220617 | [220617-outranked.json](./220617-outranked.json) |
+| Outrankers | 361944 | [361944-outrankers.json](./361944-outrankers.json) |
 | Outrealm | 81641 | [81641-outrealm.json](./81641-outrealm.json) |
 | Outrevenge | 172337 | [172337-outrevenge.json](./172337-outrevenge.json) |
 | Outride Obama | 272175 | [272175-outride-obama.json](./272175-outride-obama.json) |
