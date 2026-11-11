@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EDM Ballistics | 374021 | [374021-edm-ballistics.json](./374021-edm-ballistics.json) |
 | EDM Storm: Match 3 VR | 193589 | [193589-edm-storm-match-3-vr.json](./193589-edm-storm-match-3-vr.json) |
 | Edmonton Trolley Car | 55762 | [55762-edmonton-trolley-car.json](./55762-edmonton-trolley-car.json) |
+| Edmund | 321675 | [321675-edmund.json](./321675-edmund.json) |
 | Edmund and Eliza | 251994 | [251994-edmund-and-eliza.json](./251994-edmund-and-eliza.json) |
 | Edmund Puzzle and The Mystery of the Sacred Relics | 269268 | [269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json](./269268-edmund-puzzle-and-the-mystery-of-the-sacred-relics.json) |
 | Edna | 367597 | [367597-edna.json](./367597-edna.json) |
@@ -1459,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edwardo | 190016 | [190016-edwardo.json](./190016-edwardo.json) |
 | Edwin Earstwhile: Medical Examiner | 404924 | [404924-edwin-earstwhile-medical-examiner.json](./404924-edwin-earstwhile-medical-examiner.json) |
 | Edxn | 381169 | [381169-edxn.json](./381169-edxn.json) |
+| EDYN | 321699 | [321699-edyn.json](./321699-edyn.json) |
 | Eeeek Abyss | 235811 | [235811-eeeek-abyss.json](./235811-eeeek-abyss.json) |
 | Eek! The Cat | 42613 | [42613-eek-the-cat.json](./42613-eek-the-cat.json) |
 | EEK3 Virtual Show Floor | 145630 | [145630-eek3-virtual-show-floor.json](./145630-eek3-virtual-show-floor.json) |
@@ -2049,6 +2051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Ídolo | 411379 | [411379-el-idolo.json](./411379-el-idolo.json) |
 | El Internado Laguna Negra | 144305 | [144305-el-internado-laguna-negra.json](./144305-el-internado-laguna-negra.json) |
 | El Interrogatorio | 135564 | [135564-el-interrogatorio.json](./135564-el-interrogatorio.json) |
+| El Laberinto Esférico | 321086 | [321086-el-laberinto-esferico.json](./321086-el-laberinto-esferico.json) |
 | El lacasito de Gandalf | 320990 | [320990-el-lacasito-de-gandalf.json](./320990-el-lacasito-de-gandalf.json) |
 | El Ladrón del Tiempo | 321134 | [321134-el-ladron-del-tiempo.json](./321134-el-ladron-del-tiempo.json) |
 | El Litri en Busca del Odrogoban Perdido | 194211 | [194211-el-litri-en-busca-del-odrogoban-perdido.json](./194211-el-litri-en-busca-del-odrogoban-perdido.json) |
@@ -5250,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ernie's Adventures in Space | 122861 | [122861-ernies-adventures-in-space.json](./122861-ernies-adventures-in-space.json) |
 | Ernie's Big Splash | 213131 | [213131-ernies-big-splash.json](./213131-ernies-big-splash.json) |
 | Ernie's Quiz | 138490 | [138490-ernies-quiz.json](./138490-ernies-quiz.json) |
+| Ero Condo | 321004 | [321004-ero-condo.json](./321004-ero-condo.json) |
 | Ero Condo: Remastered | 343882 | [343882-ero-condo-remastered.json](./343882-ero-condo-remastered.json) |
 | Ero Date | 107822 | [107822-ero-date.json](./107822-ero-date.json) |
 | Ero Girl Painter | 385032 | [385032-ero-girl-painter.json](./385032-ero-girl-painter.json) |
