@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.D.K | 170986 | [170986-b-d-k.json](./170986-b-d-k.json) |
 | B.Duck: Candy Sweets | 109942 | [109942-b-duck-candy-sweets.json](./109942-b-duck-candy-sweets.json) |
 | B.E.A.S.T.S. | 185302 | [185302-b-e-a-s-t-s.json](./185302-b-e-a-s-t-s.json) |
+| B.E.S.T | 364420 | [364420-b-e-s-t.json](./364420-b-e-s-t.json) |
 | B.E.S.T Deluxe Edition | 397023 | [397023-b-e-s-t-deluxe-edition.json](./397023-b-e-s-t-deluxe-edition.json) |
 | B.F.G:Crew | 413118 | [413118-b-f-g-crew.json](./413118-b-f-g-crew.json) |
 | B.I.D. | 390619 | [390619-b-i-d.json](./390619-b-i-d.json) |
@@ -1016,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -10832,6 +10834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blindscape | 26644 | [26644-blindscape.json](./26644-blindscape.json) |
 | Blindside | 413154 | [413154-blindside.json](./413154-blindside.json) |
 | BlindSide | 64386 | [64386-blindside.json](./64386-blindside.json) |
+| Blindsided Labs | 364753 | [364753-blindsided-labs.json](./364753-blindsided-labs.json) |
 | Blindsight | 74128 | [74128-blindsight.json](./74128-blindsight.json) |
 | BlindSight Event Zero | 186760 | [186760-blindsight-event-zero.json](./186760-blindsight-event-zero.json) |
 | Blindsight: War of the Wardens | 248889 | [248889-blindsight-war-of-the-wardens.json](./248889-blindsight-war-of-the-wardens.json) |
@@ -14059,6 +14062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boon Blast | 86779 | [86779-boon-blast.json](./86779-boon-blast.json) |
 | Boon Boon | 119691 | [119691-boon-boon.json](./119691-boon-boon.json) |
 | Boondog | 242918 | [242918-boondog.json](./242918-boondog.json) |
+| Boondoggle | 364422 | [364422-boondoggle.json](./364422-boondoggle.json) |
 | Boong-Ga Boong-Ga | 58738 | [58738-boong-ga-boong-ga.json](./58738-boong-ga-boong-ga.json) |
 | Boong?!: Die ultimatiefe Fußballsimulation | 100056 | [100056-boong-die-ultimatiefe-fu-ballsimulation.json](./100056-boong-die-ultimatiefe-fu-ballsimulation.json) |
 | Boonk Gang | 95129 | [95129-boonk-gang.json](./95129-boonk-gang.json) |
