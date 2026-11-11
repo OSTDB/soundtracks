@@ -19818,6 +19818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: Fall of the Night Brigade | 353658 | [353658-dungeons-and-dragons-online-fall-of-the-night-brigade.json](./353658-dungeons-and-dragons-online-fall-of-the-night-brigade.json) |
 | Dungeons & Dragons Online: Forsaken Lands | 209174 | [209174-dungeons-and-dragons-online-forsaken-lands.json](./209174-dungeons-and-dragons-online-forsaken-lands.json) |
 | Dungeons & Dragons Online: Grip of the Hidden Hand | 353732 | [353732-dungeons-and-dragons-online-grip-of-the-hidden-hand.json](./353732-dungeons-and-dragons-online-grip-of-the-hidden-hand.json) |
+| Dungeons & Dragons Online: Harbinger of Madness | 349541 | [349541-dungeons-and-dragons-online-harbinger-of-madness.json](./349541-dungeons-and-dragons-online-harbinger-of-madness.json) |
 | Dungeons & Dragons Online: Iconic Race - Aasimar Scourge | 349640 | [349640-dungeons-and-dragons-online-iconic-race-aasimar-scourge.json](./349640-dungeons-and-dragons-online-iconic-race-aasimar-scourge.json) |
 | Dungeons & Dragons Online: Iconic Race - Bladeforged | 353744 | [353744-dungeons-and-dragons-online-iconic-race-bladeforged.json](./353744-dungeons-and-dragons-online-iconic-race-bladeforged.json) |
 | Dungeons & Dragons Online: Iconic Race - Deep Gnome | 353742 | [353742-dungeons-and-dragons-online-iconic-race-deep-gnome.json](./353742-dungeons-and-dragons-online-iconic-race-deep-gnome.json) |
@@ -19864,11 +19865,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons Online: The Chill of Ravenloft | 352251 | [352251-dungeons-and-dragons-online-the-chill-of-ravenloft.json](./352251-dungeons-and-dragons-online-the-chill-of-ravenloft.json) |
 | Dungeons & Dragons Online: The Chill of Ravenloft - Ultimate Fan Bundle | 353737 | [353737-dungeons-and-dragons-online-the-chill-of-ravenloft-ultimate-fan-bundle.json](./353737-dungeons-and-dragons-online-the-chill-of-ravenloft-ultimate-fan-bundle.json) |
 | Dungeons & Dragons Online: The Devil's Gambit | 353724 | [353724-dungeons-and-dragons-online-the-devils-gambit.json](./353724-dungeons-and-dragons-online-the-devils-gambit.json) |
+| Dungeons & Dragons Online: The Devils of Shavarath | 349549 | [349549-dungeons-and-dragons-online-the-devils-of-shavarath.json](./349549-dungeons-and-dragons-online-the-devils-of-shavarath.json) |
 | Dungeons & Dragons Online: The Dreaming Dark | 349339 | [349339-dungeons-and-dragons-online-the-dreaming-dark.json](./349339-dungeons-and-dragons-online-the-dreaming-dark.json) |
 | Dungeons & Dragons Online: The Druid's Deep | 353721 | [353721-dungeons-and-dragons-online-the-druids-deep.json](./353721-dungeons-and-dragons-online-the-druids-deep.json) |
+| Dungeons & Dragons Online: The Haunted Halls of Eveningstar | 349546 | [349546-dungeons-and-dragons-online-the-haunted-halls-of-eveningstar.json](./349546-dungeons-and-dragons-online-the-haunted-halls-of-eveningstar.json) |
 | Dungeons & Dragons Online: The Isle of Dread | 258935 | [258935-dungeons-and-dragons-online-the-isle-of-dread.json](./258935-dungeons-and-dragons-online-the-isle-of-dread.json) |
 | Dungeons & Dragons Online: The Isle of Dread - Ultimate Fan Bundle | 349628 | [349628-dungeons-and-dragons-online-the-isle-of-dread-ultimate-fan-bundle.json](./349628-dungeons-and-dragons-online-the-isle-of-dread-ultimate-fan-bundle.json) |
 | Dungeons & Dragons Online: The Lost Gatekeepers | 338891 | [338891-dungeons-and-dragons-online-the-lost-gatekeepers.json](./338891-dungeons-and-dragons-online-the-lost-gatekeepers.json) |
+| Dungeons & Dragons Online: The Mines of Tethyamar | 349542 | [349542-dungeons-and-dragons-online-the-mines-of-tethyamar.json](./349542-dungeons-and-dragons-online-the-mines-of-tethyamar.json) |
 | Dungeons & Dragons Online: The Necropolis, Part 1 | 353659 | [353659-dungeons-and-dragons-online-the-necropolis-part-1.json](./353659-dungeons-and-dragons-online-the-necropolis-part-1.json) |
 | Dungeons & Dragons Online: The Necropolis, Part 3 | 353727 | [353727-dungeons-and-dragons-online-the-necropolis-part-3.json](./353727-dungeons-and-dragons-online-the-necropolis-part-3.json) |
 | Dungeons & Dragons Online: The Necropolis, Part 4 | 349338 | [349338-dungeons-and-dragons-online-the-necropolis-part-4.json](./349338-dungeons-and-dragons-online-the-necropolis-part-4.json) |
@@ -20252,6 +20256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust to Dust | 385854 | [385854-dust-to-dust.json](./385854-dust-to-dust.json) |
 | Dust to the End | 146016 | [146016-dust-to-the-end.json](./146016-dust-to-the-end.json) |
 | Dust Town | 386227 | [386227-dust-town.json](./386227-dust-town.json) |
+| Dust Walkers | 349522 | [349522-dust-walkers.json](./349522-dust-walkers.json) |
 | Dust: A Post Apocalyptic Role Playing Game | 199751 | [199751-dust-a-post-apocalyptic-role-playing-game.json](./199751-dust-a-post-apocalyptic-role-playing-game.json) |
 | Dust: A Tale of the Wired West | 21868 | [21868-dust-a-tale-of-the-wired-west.json](./21868-dust-a-tale-of-the-wired-west.json) |
 | Dust: An Elysian Tail | 2130 | [2130-dust-an-elysian-tail.json](./2130-dust-an-elysian-tail.json) |
