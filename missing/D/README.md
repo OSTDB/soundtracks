@@ -2931,6 +2931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davy Jones C'est Mort | 71152 | [71152-davy-jones-cest-mort.json](./71152-davy-jones-cest-mort.json) |
 | Davy Jones Dating Simulator | 282710 | [282710-davy-jones-dating-simulator.json](./282710-davy-jones-dating-simulator.json) |
 | Davy Jones is Back | 71241 | [71241-davy-jones-is-back.json](./71241-davy-jones-is-back.json) |
+| Davy Jones' Deckhand | 336809 | [336809-davy-jones-deckhand.json](./336809-davy-jones-deckhand.json) |
 | Davy Jones' Locker | 177024 | [177024-davy-jones-locker.json](./177024-davy-jones-locker.json) |
 | Davy: King of the Wild Frontier | 86181 | [86181-davy-king-of-the-wild-frontier.json](./86181-davy-king-of-the-wild-frontier.json) |
 | Davy's Debris | 201537 | [201537-davys-debris.json](./201537-davys-debris.json) |
@@ -18165,6 +18166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Dead: Remains | 95986 | [95986-drop-dead-remains.json](./95986-drop-dead-remains.json) |
 | Drop Dead: The Cabin | 238999 | [238999-drop-dead-the-cabin.json](./238999-drop-dead-the-cabin.json) |
 | Drop Dead! | 387829 | [387829-drop-dead.json](./387829-drop-dead.json) |
+| Drop Dimensions | 337318 | [337318-drop-dimensions.json](./337318-drop-dimensions.json) |
 | Drop Doll | 268297 | [268297-drop-doll.json](./268297-drop-doll.json) |
 | Drop Duchy | 317865 | [317865-drop-duchy.json](./317865-drop-duchy.json) |
 | Drop Duchy: The North | 383572 | [383572-drop-duchy-the-north.json](./383572-drop-duchy-the-north.json) |
@@ -18890,6 +18892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuelingGun | 89570 | [89570-duelinggun.json](./89570-duelinggun.json) |
 | Duelist | 154349 | [154349-duelist.json](./154349-duelist.json) |
 | Duelist: Idle Expedition | 400826 | [400826-duelist-idle-expedition.json](./400826-duelist-idle-expedition.json) |
+| Duelist's Gambit | 337319 | [337319-duelists-gambit.json](./337319-duelists-gambit.json) |
 | Duelite | 303496 | [303496-duelite.json](./303496-duelite.json) |
 | Duelmasters | 370157 | [370157-duelmasters.json](./370157-duelmasters.json) |
 | Duels | 94383 | [94383-duels.json](./94383-duels.json) |
