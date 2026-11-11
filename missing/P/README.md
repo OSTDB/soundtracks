@@ -2531,7 +2531,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park a Lot | 324743 | [324743-park-a-lot.json](./324743-park-a-lot.json) |
 | Park After Dark | 199061 | [199061-park-after-dark.json](./199061-park-after-dark.json) |
 | Park Alien: A ludo in the space | 153496 | [153496-park-alien-a-ludo-in-the-space.json](./153496-park-alien-a-ludo-in-the-space.json) |
-| Park Beyond | 165354 | [165354-park-beyond.json](./165354-park-beyond.json) |
 | Park Beyond: Beyond Extreme | 262670 | [262670-park-beyond-beyond-extreme.json](./262670-park-beyond-beyond-extreme.json) |
 | Park Beyond: Beyond eXtreme - Theme World | 272324 | [272324-park-beyond-beyond-extreme-theme-world.json](./272324-park-beyond-beyond-extreme-theme-world.json) |
 | Park Beyond: Beyond the Depths - Theme World | 311079 | [311079-park-beyond-beyond-the-depths-theme-world.json](./311079-park-beyond-beyond-the-depths-theme-world.json) |
@@ -3611,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pax Astra | 400910 | [400910-pax-astra.json](./400910-pax-astra.json) |
 | Pax Augusta | 220462 | [220462-pax-augusta.json](./220462-pax-augusta.json) |
 | Pax Autocratica | 358217 | [358217-pax-autocratica.json](./358217-pax-autocratica.json) |
+| Pax Britannica: An Imperial Timeline | 321696 | [321696-pax-britannica-an-imperial-timeline.json](./321696-pax-britannica-an-imperial-timeline.json) |
 | Pax Corpus | 44845 | [44845-pax-corpus.json](./44845-pax-corpus.json) |
 | Pax Hispanica | 356268 | [356268-pax-hispanica.json](./356268-pax-hispanica.json) |
 | Pax Historia | 383319 | [383319-pax-historia.json](./383319-pax-historia.json) |
@@ -4815,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perimeter 2: New Earth | 14859 | [14859-perimeter-2-new-earth.json](./14859-perimeter-2-new-earth.json) |
 | Perimeter: Emperor's Testament | 10692 | [10692-perimeter-emperors-testament.json](./10692-perimeter-emperors-testament.json) |
 | Perimeter: Legate Edition | 299806 | [299806-perimeter-legate-edition.json](./299806-perimeter-legate-edition.json) |
+| Perino Candy Buster | 321715 | [321715-perino-candy-buster.json](./321715-perino-candy-buster.json) |
 | Period Cube: Shackles of Amadeus | 59160 | [59160-period-cube-shackles-of-amadeus.json](./59160-period-cube-shackles-of-amadeus.json) |
 | Period. The Game | 140546 | [140546-period-the-game.json](./140546-period-the-game.json) |
 | Periodic Deliveries | 127266 | [127266-periodic-deliveries.json](./127266-periodic-deliveries.json) |
