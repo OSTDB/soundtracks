@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factions | 375893 | [375893-factions.json](./375893-factions.json) |
 | Factions of Fate | 426098 | [426098-factions-of-fate.json](./426098-factions-of-fate.json) |
 | Factions: Origins of Malu | 36031 | [36031-factions-origins-of-malu.json](./36031-factions-origins-of-malu.json) |
+| Factomancer | 391915 | [391915-factomancer.json](./391915-factomancer.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
 | Factor Find | 243637 | [243637-factor-find.json](./243637-factor-find.json) |
 | Factor Y | 236156 | [236156-factor-y.json](./236156-factor-y.json) |
@@ -1279,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallette’s Death | 370955 | [370955-fallette-s-death.json](./370955-fallette-s-death.json) |
 | Fallfate: Impulsive Plinko | 385189 | [385189-fallfate-impulsive-plinko.json](./385189-fallfate-impulsive-plinko.json) |
 | Fallgrade | 400545 | [400545-fallgrade.json](./400545-fallgrade.json) |
+| Fallin' Glocks | 391405 | [391405-fallin-glocks.json](./391405-fallin-glocks.json) |
 | Falling | 195501 | [195501-falling.json](./195501-falling.json) |
 | Falling Apart | 402261 | [402261-falling-apart.json](./402261-falling-apart.json) |
 | Falling As Lightning | 167168 | [167168-falling-as-lightning.json](./167168-falling-as-lightning.json) |
@@ -12240,6 +12242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Fall | 267940 | [267940-free-fall.json](./267940-free-fall.json) |
 | Free Fall | 321756 | [321756-free-fall.json](./321756-free-fall.json) |
 | Free Fall | 364961 | [364961-free-fall.json](./364961-free-fall.json) |
+| Free Fall | 391906 | [391906-free-fall.json](./391906-free-fall.json) |
 | Free Fire Max | 149972 | [149972-free-fire-max.json](./149972-free-fire-max.json) |
 | Free Fishing | 344785 | [344785-free-fishing.json](./344785-free-fishing.json) |
 | Free for All | 262920 | [262920-free-for-all.json](./262920-free-for-all.json) |
