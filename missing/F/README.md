@@ -4298,6 +4298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fetish Fighters | 242931 | [242931-fetish-fighters.json](./242931-fetish-fighters.json) |
 | Fetish Locator | 255686 | [255686-fetish-locator.json](./255686-fetish-locator.json) |
 | Fetish Locator Week Three | 281337 | [281337-fetish-locator-week-three.json](./281337-fetish-locator-week-three.json) |
+| Fetish Locator: S&M Studio | 393690 | [393690-fetish-locator-s-and-m-studio.json](./393690-fetish-locator-s-and-m-studio.json) |
 | Fetish: Every Second Counts | 398067 | [398067-fetish-every-second-counts.json](./398067-fetish-every-second-counts.json) |
 | Fetter and Feeling | 401325 | [401325-fetter-and-feeling.json](./401325-fetter-and-feeling.json) |
 | Fetty Wap: Nitro Nation Stories | 76553 | [76553-fetty-wap-nitro-nation-stories.json](./76553-fetty-wap-nitro-nation-stories.json) |
