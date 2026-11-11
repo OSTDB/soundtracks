@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Blastastic Love Story: KiriBaku | 178750 | [178750-a-blastastic-love-story-kiribaku.json](./178750-a-blastastic-love-story-kiribaku.json) |
 | A Bleaker Predicklement | 106014 | [106014-a-bleaker-predicklement.json](./106014-a-bleaker-predicklement.json) |
 | A Blind Legend | 33641 | [33641-a-blind-legend.json](./33641-a-blind-legend.json) |
+| A Blind Spot | 342330 | [342330-a-blind-spot.json](./342330-a-blind-spot.json) |
 | A Blocc World | 293077 | [293077-a-blocc-world.json](./293077-a-blocc-world.json) |
 | A Block Party! | 237595 | [237595-a-block-party.json](./237595-a-block-party.json) |
 | A Blocky Kind of Love | 234012 | [234012-a-blocky-kind-of-love.json](./234012-a-blocky-kind-of-love.json) |
@@ -1608,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Whole New Ball Game | 304311 | [304311-a-whole-new-ball-game.json](./304311-a-whole-new-ball-game.json) |
 | A Whole Wolfrush | 329682 | [329682-a-whole-wolfrush.json](./329682-a-whole-wolfrush.json) |
 | A Wholesome Game About Farming | 199292 | [199292-a-wholesome-game-about-farming.json](./199292-a-wholesome-game-about-farming.json) |
+| A Wicked Game | 342314 | [342314-a-wicked-game.json](./342314-a-wicked-game.json) |
 | A Wild Catgirl Appears! | 33854 | [33854-a-wild-catgirl-appears.json](./33854-a-wild-catgirl-appears.json) |
 | A Wild Heist | 390106 | [390106-a-wild-heist.json](./390106-a-wild-heist.json) |
 | A Wild Last Boss Appeared!: Black-Winged Survivor | 371248 | [371248-a-wild-last-boss-appeared-black-winged-survivor.json](./371248-a-wild-last-boss-appeared-black-winged-survivor.json) |
@@ -5490,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aha! I Got It! Escape Game | 51098 | [51098-aha-i-got-it-escape-game.json](./51098-aha-i-got-it-escape-game.json) |
 | Aha! More Photo Spot-the-Difference | 399609 | [399609-aha-more-photo-spot-the-difference.json](./399609-aha-more-photo-spot-the-difference.json) |
 | Aha! Shashin de Machigai-sagashi | 251626 | [251626-aha-shashin-de-machigai-sagashi.json](./251626-aha-shashin-de-machigai-sagashi.json) |
+| Aha! Spot the Change Brain Teaser | 342329 | [342329-aha-spot-the-change-brain-teaser.json](./342329-aha-spot-the-change-brain-teaser.json) |
 | Ahapika: Heroic Agency | 333057 | [333057-ahapika-heroic-agency.json](./333057-ahapika-heroic-agency.json) |
 | Ahead | 161704 | [161704-ahead.json](./161704-ahead.json) |
 | Ahegal | 110446 | [110446-ahegal.json](./110446-ahegal.json) |
@@ -6060,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aircraft Flag Quiz | 232116 | [232116-aircraft-flag-quiz.json](./232116-aircraft-flag-quiz.json) |
 | Aircraft in Pixels 2: Albatros D.V | 182094 | [182094-aircraft-in-pixels-2-albatros-d-v.json](./182094-aircraft-in-pixels-2-albatros-d-v.json) |
 | Aircraft Infinity | 238691 | [238691-aircraft-infinity.json](./238691-aircraft-infinity.json) |
+| Aircraft Legends: Flight Academy Simulator | 342328 | [342328-aircraft-legends-flight-academy-simulator.json](./342328-aircraft-legends-flight-academy-simulator.json) |
 | Aircraft Pushback Simulator | 234744 | [234744-aircraft-pushback-simulator.json](./234744-aircraft-pushback-simulator.json) |
 | Aircraft Sketch Shooter | 142997 | [142997-aircraft-sketch-shooter.json](./142997-aircraft-sketch-shooter.json) |
 | Aircraft War | 120079 | [120079-aircraft-war.json](./120079-aircraft-war.json) |
@@ -6154,6 +6158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airplane Delivery Simulator 2024: Realistic Geographical | 300962 | [300962-airplane-delivery-simulator-2024-realistic-geographical.json](./300962-airplane-delivery-simulator-2024-realistic-geographical.json) |
 | Airplane Flight Simulator | 251630 | [251630-airplane-flight-simulator.json](./251630-airplane-flight-simulator.json) |
 | Airplane Flight Simulator Bundle: Combat Zone & Dangerous Landings | 390901 | [390901-airplane-flight-simulator-bundle-combat-zone-and-dangerous-landings.json](./390901-airplane-flight-simulator-bundle-combat-zone-and-dangerous-landings.json) |
+| Airplane Flight Simulator: Combat Zone | 342327 | [342327-airplane-flight-simulator-combat-zone.json](./342327-airplane-flight-simulator-combat-zone.json) |
 | Airplane Flight Simulator: Dangerous Landings | 328580 | [328580-airplane-flight-simulator-dangerous-landings.json](./328580-airplane-flight-simulator-dangerous-landings.json) |
 | Airplane Flight Simulator: EVO | 343494 | [343494-airplane-flight-simulator-evo.json](./343494-airplane-flight-simulator-evo.json) |
 | Airplane Flight Simulator: Farming Agricultural Plane S2-Carrier | 310474 | [310474-airplane-flight-simulator-farming-agricultural-plane-s2-carrier.json](./310474-airplane-flight-simulator-farming-agricultural-plane-s2-carrier.json) |
@@ -6209,6 +6214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Madness Mobile | 106864 | [106864-airport-madness-mobile.json](./106864-airport-madness-mobile.json) |
 | Airport Madness: World Edition | 35258 | [35258-airport-madness-world-edition.json](./35258-airport-madness-world-edition.json) |
 | Airport Manager | 379522 | [379522-airport-manager.json](./379522-airport-manager.json) |
+| Airport Manager Simulator 2026 | 342326 | [342326-airport-manager-simulator-2026.json](./342326-airport-manager-simulator-2026.json) |
 | Airport Mania 2: Wild Trips | 63984 | [63984-airport-mania-2-wild-trips.json](./63984-airport-mania-2-wild-trips.json) |
 | Airport Mania: First Flight | 6476 | [6476-airport-mania-first-flight.json](./6476-airport-mania-first-flight.json) |
 | Airport Mania: First Flight HD | 175282 | [175282-airport-mania-first-flight-hd.json](./175282-airport-mania-first-flight-hd.json) |
@@ -6902,6 +6908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ale & Tale Tavern | 276233 | [276233-ale-and-tale-tavern.json](./276233-ale-and-tale-tavern.json) |
 | Ale Abbey | 305173 | [305173-ale-abbey.json](./305173-ale-abbey.json) |
 | Ale Hop! | 92777 | [92777-ale-hop.json](./92777-ale-hop.json) |
+| Ale Tavern Master | 342325 | [342325-ale-tavern-master.json](./342325-ale-tavern-master.json) |
 | Alea | 376853 | [376853-alea.json](./376853-alea.json) |
 | Alea | 379145 | [379145-alea.json](./379145-alea.json) |
 | Alea | 86551 | [86551-alea.json](./86551-alea.json) |
@@ -10808,6 +10815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Force | 104271 | [104271-animal-force.json](./104271-animal-force.json) |
 | Animal Frenzy | 256374 | [256374-animal-frenzy.json](./256374-animal-frenzy.json) |
 | Animal Friends Adventure | 117637 | [117637-animal-friends-adventure.json](./117637-animal-friends-adventure.json) |
+| Animal Friends: The Secret Egg | 342332 | [342332-animal-friends-the-secret-egg.json](./342332-animal-friends-the-secret-egg.json) |
 | Animal Fun for Toddlers and Kids | 147587 | [147587-animal-fun-for-toddlers-and-kids.json](./147587-animal-fun-for-toddlers-and-kids.json) |
 | Animal Fun Puzzle: Preschool and kindergarten learning and fun game for toddlers and kids | 400192 | [400192-animal-fun-puzzle-preschool-and-kindergarten-learning-and-fun-game-for-toddlers-and-kids.json](./400192-animal-fun-puzzle-preschool-and-kindergarten-learning-and-fun-game-for-toddlers-and-kids.json) |
 | Animal Game | 377099 | [377099-animal-game.json](./377099-animal-game.json) |
@@ -10884,6 +10892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Puzzles | 401999 | [401999-animal-puzzles.json](./401999-animal-puzzles.json) |
 | Animal Puzzles Games: little boys & girls puzzle | 87217 | [87217-animal-puzzles-games-little-boys-and-girls-puzzle.json](./87217-animal-puzzles-games-little-boys-and-girls-puzzle.json) |
 | Animal Quest | 70175 | [70175-animal-quest.json](./70175-animal-quest.json) |
+| Animal Quest: The Battle for Green Hollow | 342333 | [342333-animal-quest-the-battle-for-green-hollow.json](./342333-animal-quest-the-battle-for-green-hollow.json) |
 | Animal Race Run VR | 303155 | [303155-animal-race-run-vr.json](./303155-animal-race-run-vr.json) |
 | Animal Records | 100520 | [100520-animal-records.json](./100520-animal-records.json) |
 | Animal Relay A | 229502 | [229502-animal-relay-a.json](./229502-animal-relay-a.json) |
@@ -11148,6 +11157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Busty Baseball | 324207 | [324207-anime-girls-busty-baseball.json](./324207-anime-girls-busty-baseball.json) |
 | Anime Girls: Celebrity Crush | 368759 | [368759-anime-girls-celebrity-crush.json](./368759-anime-girls-celebrity-crush.json) |
 | Anime Girls: Cheerful Cosplay | 386174 | [386174-anime-girls-cheerful-cosplay.json](./386174-anime-girls-cheerful-cosplay.json) |
+| Anime Girls: Clever Clover | 342323 | [342323-anime-girls-clever-clover.json](./342323-anime-girls-clever-clover.json) |
 | Anime Girls: College Love | 378779 | [378779-anime-girls-college-love.json](./378779-anime-girls-college-love.json) |
 | Anime Girls: Deluxe Edition | 267230 | [267230-anime-girls-deluxe-edition.json](./267230-anime-girls-deluxe-edition.json) |
 | Anime Girls: Extended Edition | 277305 | [277305-anime-girls-extended-edition.json](./277305-anime-girls-extended-edition.json) |
@@ -13509,6 +13519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Phelios | 234631 | [234631-arcade-archives-phelios.json](./234631-arcade-archives-phelios.json) |
 | Arcade Archives: Phozon | 186564 | [186564-arcade-archives-phozon.json](./186564-arcade-archives-phozon.json) |
 | Arcade Archives: Pinball | 68354 | [68354-arcade-archives-pinball.json](./68354-arcade-archives-pinball.json) |
+| Arcade Archives: Pinball Action | 342334 | [342334-arcade-archives-pinball-action.json](./342334-arcade-archives-pinball-action.json) |
 | Arcade Archives: Pirate Pete | 152252 | [152252-arcade-archives-pirate-pete.json](./152252-arcade-archives-pirate-pete.json) |
 | Arcade Archives: Plump Pop | 394382 | [394382-arcade-archives-plump-pop.json](./394382-arcade-archives-plump-pop.json) |
 | Arcade Archives: Plus Alpha | 147626 | [147626-arcade-archives-plus-alpha.json](./147626-arcade-archives-plus-alpha.json) |
@@ -19536,6 +19547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Axe And Claw | 400457 | [400457-axe-and-claw.json](./400457-axe-and-claw.json) |
 | Axe Champ | 102707 | [102707-axe-champ.json](./102707-axe-champ.json) |
 | Axe Champ Shoot Out | 322659 | [322659-axe-champ-shoot-out.json](./322659-axe-champ-shoot-out.json) |
+| Axe Champ vs. | 342339 | [342339-axe-champ-vs.json](./342339-axe-champ-vs.json) |
 | Axe Champ! | 107663 | [107663-axe-champ.json](./107663-axe-champ.json) |
 | Axe Climber | 96715 | [96715-axe-climber.json](./96715-axe-climber.json) |
 | Axe Cop | 128955 | [128955-axe-cop.json](./128955-axe-cop.json) |
