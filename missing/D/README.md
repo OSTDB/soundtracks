@@ -10287,6 +10287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Zoo Transport Simulator | 122604 | [122604-dino-zoo-transport-simulator.json](./122604-dino-zoo-transport-simulator.json) |
 | Dino-D | 199479 | [199479-dino-d.json](./199479-dino-d.json) |
 | Dino-Ducks Dash | 323125 | [323125-dino-ducks-dash.json](./323125-dino-ducks-dash.json) |
+| Dino-Ducks Mayhem | 388458 | [388458-dino-ducks-mayhem.json](./388458-dino-ducks-mayhem.json) |
 | Dino-Hockey | 48715 | [48715-dino-hockey.json](./48715-dino-hockey.json) |
 | Dino-Sorcerer | 74072 | [74072-dino-sorcerer.json](./74072-dino-sorcerer.json) |
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
