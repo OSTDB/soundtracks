@@ -3849,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ​Cubeetle: Game of Creation | 179877 | [179877-cubeetle-game-of-creation.json](./179877-cubeetle-game-of-creation.json) |
 | ​Dechika: Island of Love and Bonds | 374119 | [374119-dechika-island-of-love-and-bonds.json](./374119-dechika-island-of-love-and-bonds.json) |
 | Đồng CỎ Lau: The Reed Field | 366138 | [366138-ong-co-lau-the-reed-field.json](./366138-ong-co-lau-the-reed-field.json) |
+| Éalú | 342964 | [342964-ealu.json](./342964-ealu.json) |
 | Édgimon | 287729 | [287729-edgimon.json](./287729-edgimon.json) |
 | Élan | 203825 | [203825-elan.json](./203825-elan.json) |
 | Élan Vital | 114545 | [114545-elan-vital.json](./114545-elan-vital.json) |
