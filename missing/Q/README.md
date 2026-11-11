@@ -975,6 +975,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Question Mark 2 | 359166 | [359166-question-mark-2.json](./359166-question-mark-2.json) |
 | Question Roulette | 399925 | [399925-question-roulette.json](./399925-question-roulette.json) |
 | Questionable Countdowns | 411631 | [411631-questionable-countdowns.json](./411631-questionable-countdowns.json) |
+| Questionable Ethics | 356929 | [356929-questionable-ethics.json](./356929-questionable-ethics.json) |
+| Questionable Ethics: Alpha Test | 356931 | [356931-questionable-ethics-alpha-test.json](./356931-questionable-ethics-alpha-test.json) |
 | QuestionBank | 341316 | [341316-questionbank.json](./341316-questionbank.json) |
 | Questions pour un Champion | 147473 | [147473-questions-pour-un-champion.json](./147473-questions-pour-un-champion.json) |
 | Questions Pour un Champion: Edition Spéciale 20 Ans | 215783 | [215783-questions-pour-un-champion-edition-speciale-20-ans.json](./215783-questions-pour-un-champion-edition-speciale-20-ans.json) |
