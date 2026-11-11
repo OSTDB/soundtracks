@@ -694,7 +694,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenon Valkyrie | 29949 | [29949-xenon-valkyrie.json](./29949-xenon-valkyrie.json) |
 | Xenon: Mugen no Shitai | 65259 | [65259-xenon-mugen-no-shitai.json](./65259-xenon-mugen-no-shitai.json) |
 | Xenonauts | 8508 | [8508-xenonauts.json](./8508-xenonauts.json) |
-| Xenonauts 2 | 19408 | [19408-xenonauts-2.json](./19408-xenonauts-2.json) |
 | Xenopathy | 183043 | [183043-xenopathy.json](./183043-xenopathy.json) |
 | Xenophage | 35508 | [35508-xenophage.json](./35508-xenophage.json) |
 | Xenophage: Alien BloodSport | 47105 | [47105-xenophage-alien-bloodsport.json](./47105-xenophage-alien-bloodsport.json) |
