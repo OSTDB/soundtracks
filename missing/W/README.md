@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walking Girl: Dead Parking | 149130 | [149130-walking-girl-dead-parking.json](./149130-walking-girl-dead-parking.json) |
 | Walking Heavy | 61597 | [61597-walking-heavy.json](./61597-walking-heavy.json) |
 | Walking In | 407810 | [407810-walking-in.json](./407810-walking-in.json) |
+| Walking in Fog | 338422 | [338422-walking-in-fog.json](./338422-walking-in-fog.json) |
 | Walking in the Abyss: Definitive Edition | 221175 | [221175-walking-in-the-abyss-definitive-edition.json](./221175-walking-in-the-abyss-definitive-edition.json) |
 | Walking into Walls | 164315 | [164315-walking-into-walls.json](./164315-walking-into-walls.json) |
 | Walking on Ice | 343242 | [343242-walking-on-ice.json](./343242-walking-on-ice.json) |
@@ -709,6 +710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Planet: Prelude | 298599 | [298599-wandering-planet-prelude.json](./298599-wandering-planet-prelude.json) |
 | Wandering Skies | 247477 | [247477-wandering-skies.json](./247477-wandering-skies.json) |
 | Wandering Star | 112628 | [112628-wandering-star.json](./112628-wandering-star.json) |
+| Wandering Stars | 338421 | [338421-wandering-stars.json](./338421-wandering-stars.json) |
 | Wandering Sword | 202696 | [202696-wandering-sword.json](./202696-wandering-sword.json) |
 | Wandering Sword | 377264 | [377264-wandering-sword.json](./377264-wandering-sword.json) |
 | Wandering Sword: Mount Pack - Majestic Steeds | 377263 | [377263-wandering-sword-mount-pack-majestic-steeds.json](./377263-wandering-sword-mount-pack-majestic-steeds.json) |
@@ -736,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderlust: The City of Mists - Collector's Edition | 416137 | [416137-wanderlust-the-city-of-mists-collectors-edition.json](./416137-wanderlust-the-city-of-mists-collectors-edition.json) |
 | Wanderlust: The Magnificent Journey | 346600 | [346600-wanderlust-the-magnificent-journey.json](./346600-wanderlust-the-magnificent-journey.json) |
 | Wanderlust: Transsiberian | 132503 | [132503-wanderlust-transsiberian.json](./132503-wanderlust-transsiberian.json) |
+| Wanderness | 338420 | [338420-wanderness.json](./338420-wanderness.json) |
 | Wandersky | 383709 | [383709-wandersky.json](./383709-wandersky.json) |
 | Wandersong | 23851 | [23851-wandersong.json](./23851-wandersong.json) |
 | Wandervania | 330483 | [330483-wandervania.json](./330483-wandervania.json) |
@@ -1814,6 +1817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warkanoid II: Wildlife | 122851 | [122851-warkanoid-ii-wildlife.json](./122851-warkanoid-ii-wildlife.json) |
 | Warkestra | 275336 | [275336-warkestra.json](./275336-warkestra.json) |
 | WarKind | 220529 | [220529-warkind.json](./220529-warkind.json) |
+| WarKlinika | 338419 | [338419-warklinika.json](./338419-warklinika.json) |
 | Warlander | 116684 | [116684-warlander.json](./116684-warlander.json) |
 | Warlander | 215835 | [215835-warlander.json](./215835-warlander.json) |
 | Warlanes | 301264 | [301264-warlanes.json](./301264-warlanes.json) |
@@ -6065,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windows 95 Spiele | 323647 | [323647-windows-95-spiele.json](./323647-windows-95-spiele.json) |
 | Windows Doors | 348381 | [348381-windows-doors.json](./348381-windows-doors.json) |
 | Windows Mario World | 256297 | [256297-windows-mario-world.json](./256297-windows-mario-world.json) |
+| Windows Separate Worlds: Chapter 1 | 338456 | [338456-windows-separate-worlds-chapter-1.json](./338456-windows-separate-worlds-chapter-1.json) |
 | Windows Strip Poker | 146964 | [146964-windows-strip-poker.json](./146964-windows-strip-poker.json) |
 | Windows XP Meteorite Covenant | 237516 | [237516-windows-xp-meteorite-covenant.json](./237516-windows-xp-meteorite-covenant.json) |
 | Windpunk | 313807 | [313807-windpunk.json](./313807-windpunk.json) |
