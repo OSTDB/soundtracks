@@ -10034,6 +10034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fireseed Treaty | 320825 | [320825-the-fireseed-treaty.json](./320825-the-fireseed-treaty.json) |
 | The Firlyn Stones | 99448 | [99448-the-firlyn-stones.json](./99448-the-firlyn-stones.json) |
 | The Firm | 23407 | [23407-the-firm.json](./23407-the-firm.json) |
+| The First Alkahistorian: Stage One | 381510 | [381510-the-first-alkahistorian-stage-one.json](./381510-the-first-alkahistorian-stage-one.json) |
 | The First Alkahistorian: Stage Two | 381877 | [381877-the-first-alkahistorian-stage-two.json](./381877-the-first-alkahistorian-stage-two.json) |
 | The First Backrooms | 211663 | [211663-the-first-backrooms.json](./211663-the-first-backrooms.json) |
 | The First Berserker: Khazan - Deluxe Edition | 338028 | [338028-the-first-berserker-khazan-deluxe-edition.json](./338028-the-first-berserker-khazan-deluxe-edition.json) |
@@ -17803,6 +17804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs' Nightmare | 8085 | [8085-the-smurfs-nightmare.json](./8085-the-smurfs-nightmare.json) |
 | The Smurfs' Village and the Magical Meadow | 109158 | [109158-the-smurfs-village-and-the-magical-meadow.json](./109158-the-smurfs-village-and-the-magical-meadow.json) |
 | The Snack World: TreJarers | 26501 | [26501-the-snack-world-trejarers.json](./26501-the-snack-world-trejarers.json) |
+| The Snake Is the Tower | 382098 | [382098-the-snake-is-the-tower.json](./382098-the-snake-is-the-tower.json) |
 | The Snake King | 146947 | [146947-the-snake-king.json](./146947-the-snake-king.json) |
 | The Snake Kingdom of Gennibar-Six | 337649 | [337649-the-snake-kingdom-of-gennibar-six.json](./337649-the-snake-kingdom-of-gennibar-six.json) |
 | The Snake that Wanted to Climb a Tree | 184704 | [184704-the-snake-that-wanted-to-climb-a-tree.json](./184704-the-snake-that-wanted-to-climb-a-tree.json) |
@@ -21381,6 +21383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Those Infernal Girls! | 225744 | [225744-those-infernal-girls.json](./225744-those-infernal-girls.json) |
 | Those Left Behind | 212854 | [212854-those-left-behind.json](./212854-those-left-behind.json) |
 | Those Nights at Fredbear's | 209295 | [209295-those-nights-at-fredbears.json](./209295-those-nights-at-fredbears.json) |
+| Those Nights at Fredbear's | 382094 | [382094-those-nights-at-fredbears.json](./382094-those-nights-at-fredbears.json) |
 | Those Nights at Fredbear's: Reboot | 209310 | [209310-those-nights-at-fredbears-reboot.json](./209310-those-nights-at-fredbears-reboot.json) |
 | Those Nights at Rachel's | 177626 | [177626-those-nights-at-rachels.json](./177626-those-nights-at-rachels.json) |
 | Those Nights at Rachel's 2 | 209298 | [209298-those-nights-at-rachels-2.json](./209298-those-nights-at-rachels-2.json) |
