@@ -4043,6 +4043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit Blade | 420004 | [420004-orbit-blade.json](./420004-orbit-blade.json) |
 | Orbit Defender | 74195 | [74195-orbit-defender.json](./74195-orbit-defender.json) |
 | Orbit Drop | 120339 | [120339-orbit-drop.json](./120339-orbit-drop.json) |
+| Orbit Economica | 337343 | [337343-orbit-economica.json](./337343-orbit-economica.json) |
 | Orbit Express | 258401 | [258401-orbit-express.json](./258401-orbit-express.json) |
 | Orbit HD | 35595 | [35595-orbit-hd.json](./35595-orbit-hd.json) |
 | Orbit Legends | 110029 | [110029-orbit-legends.json](./110029-orbit-legends.json) |
