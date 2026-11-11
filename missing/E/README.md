@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Grotto | 59232 | [59232-echo-grotto.json](./59232-echo-grotto.json) |
 | Echo Harvest | 415160 | [415160-echo-harvest.json](./415160-echo-harvest.json) |
 | Echo in Capistrano | 303510 | [303510-echo-in-capistrano.json](./303510-echo-in-capistrano.json) |
+| Echo Isle | 388459 | [388459-echo-isle.json](./388459-echo-isle.json) |
 | Echo Lake | 30570 | [30570-echo-lake.json](./30570-echo-lake.json) |
 | Echo Maze | 373356 | [373356-echo-maze.json](./373356-echo-maze.json) |
 | Echo Night | 9514 | [9514-echo-night.json](./9514-echo-night.json) |
@@ -1513,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | eFootball 2024: Leo Messi Edition | 265241 | [265241-efootball-2024-leo-messi-edition.json](./265241-efootball-2024-leo-messi-edition.json) |
 | EFootball 2026 by Felix Pro | 395200 | [395200-efootball-2026-by-felix-pro.json](./395200-efootball-2026-by-felix-pro.json) |
 | eFootball Champion Squads | 242170 | [242170-efootball-champion-squads.json](./242170-efootball-champion-squads.json) |
+| eFootball Kick-Off! | 388431 | [388431-efootball-kick-off.json](./388431-efootball-kick-off.json) |
 | eFootball PES 2020 | 220987 | [220987-efootball-pes-2020.json](./220987-efootball-pes-2020.json) |
 | eFootball PES 2020: Legend Edition | 119573 | [119573-efootball-pes-2020-legend-edition.json](./119573-efootball-pes-2020-legend-edition.json) |
 | eFootball PES 2021 Season Update | 135881 | [135881-efootball-pes-2021-season-update.json](./135881-efootball-pes-2021-season-update.json) |
