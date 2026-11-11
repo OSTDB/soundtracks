@@ -7196,6 +7196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 287542 | [287542-pinball.json](./287542-pinball.json) |
 | Pinball | 312266 | [312266-pinball.json](./312266-pinball.json) |
 | Pinball | 319529 | [319529-pinball.json](./319529-pinball.json) |
+| Pinball | 361379 | [361379-pinball.json](./361379-pinball.json) |
 | Pinball | 410874 | [410874-pinball.json](./410874-pinball.json) |
 | Pinball | 44636 | [44636-pinball.json](./44636-pinball.json) |
 | Pinball | 82093 | [82093-pinball.json](./82093-pinball.json) |
@@ -10697,6 +10698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plodding Recovery | 409321 | [409321-plodding-recovery.json](./409321-plodding-recovery.json) |
 | Ploid | 159682 | [159682-ploid.json](./159682-ploid.json) |
 | Ploid Saga | 132628 | [132628-ploid-saga.json](./132628-ploid-saga.json) |
+| Ploink | 360832 | [360832-ploink.json](./360832-ploink.json) |
 | Ploko | 258282 | [258282-ploko.json](./258282-ploko.json) |
 | Plokoth | 133315 | [133315-plokoth.json](./133315-plokoth.json) |
 | Plong | 258190 | [258190-plong.json](./258190-plong.json) |
@@ -18492,6 +18494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
 | Punch the Stool John | 172510 | [172510-punch-the-stool-john.json](./172510-punch-the-stool-john.json) |
 | Punch The Undead | 291519 | [291519-punch-the-undead.json](./291519-punch-the-undead.json) |
+| Punch TV | 361367 | [361367-punch-tv.json](./361367-punch-tv.json) |
 | Punch Upon a Time | 399204 | [399204-punch-upon-a-time.json](./399204-punch-upon-a-time.json) |
 | Punch Your Way Out | 424703 | [424703-punch-your-way-out.json](./424703-punch-your-way-out.json) |
 | Punch-Out!! | 191439 | [191439-punch-out.json](./191439-punch-out.json) |
