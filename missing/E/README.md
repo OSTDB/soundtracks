@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Yi: Samsara | 288880 | [288880-echoes-of-yi-samsara.json](./288880-echoes-of-yi-samsara.json) |
 | Echoes of You | 252365 | [252365-echoes-of-you.json](./252365-echoes-of-you.json) |
 | Echoes of You | 306346 | [306346-echoes-of-you.json](./306346-echoes-of-you.json) |
+| Echoes Runner | 395939 | [395939-echoes-runner.json](./395939-echoes-runner.json) |
 | Echoes Untold | 380961 | [380961-echoes-untold.json](./380961-echoes-untold.json) |
 | Echoes: Deep-sea Exploration | 116440 | [116440-echoes-deep-sea-exploration.json](./116440-echoes-deep-sea-exploration.json) |
 | Echoes: Operation Stranglehold | 334666 | [334666-echoes-operation-stranglehold.json](./334666-echoes-operation-stranglehold.json) |
