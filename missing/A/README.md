@@ -322,6 +322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A different summer | 278426 | [278426-a-different-summer.json](./278426-a-different-summer.json) |
 | A Different World | 184355 | [184355-a-different-world.json](./184355-a-different-world.json) |
 | A Difficult Game About Climbing | 283892 | [283892-a-difficult-game-about-climbing.json](./283892-a-difficult-game-about-climbing.json) |
+| A Difficult Game About Climbing: Chapter 2 | 370617 | [370617-a-difficult-game-about-climbing-chapter-2.json](./370617-a-difficult-game-about-climbing-chapter-2.json) |
 | A Difficult Game About Jumping | 298380 | [298380-a-difficult-game-about-jumping.json](./298380-a-difficult-game-about-jumping.json) |
 | A Difficult Game About Letters | 377494 | [377494-a-difficult-game-about-letters.json](./377494-a-difficult-game-about-letters.json) |
 | A Difficult Game About Rolling: ReUpRise | 293739 | [293739-a-difficult-game-about-rolling-reuprise.json](./293739-a-difficult-game-about-rolling-reuprise.json) |
@@ -2265,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Supercars | 42997 | [42997-absolute-supercars.json](./42997-absolute-supercars.json) |
 | Absolute Tactics: Daughters of Mercy | 151385 | [151385-absolute-tactics-daughters-of-mercy.json](./151385-absolute-tactics-daughters-of-mercy.json) |
 | Absolute Talent | 227209 | [227209-absolute-talent.json](./227209-absolute-talent.json) |
+| Absolute Tennis Manager | 370624 | [370624-absolute-tennis-manager.json](./370624-absolute-tennis-manager.json) |
 | Absolute Tennis Manager 2 | 379082 | [379082-absolute-tennis-manager-2.json](./379082-absolute-tennis-manager-2.json) |
 | Absolute Territory: The Space Combat Simulator | 137997 | [137997-absolute-territory-the-space-combat-simulator.json](./137997-absolute-territory-the-space-combat-simulator.json) |
 | Absolute VR Experiences | 104064 | [104064-absolute-vr-experiences.json](./104064-absolute-vr-experiences.json) |
@@ -9773,6 +9775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anaria | 350965 | [350965-anaria.json](./350965-anaria.json) |
 | Anaria: Reborn | 391383 | [391383-anaria-reborn.json](./391383-anaria-reborn.json) |
 | Anark.io | 95592 | [95592-anark-io.json](./95592-anark-io.json) |
+| Anarko Zmeu | 370616 | [370616-anarko-zmeu.json](./370616-anarko-zmeu.json) |
 | Anasazi Tasholiiwe | 69621 | [69621-anasazi-tasholiiwe.json](./69621-anasazi-tasholiiwe.json) |
 | Anasozas: Another Surreal World | 379449 | [379449-anasozas-another-surreal-world.json](./379449-anasozas-another-surreal-world.json) |
 | Anastasia | 198670 | [198670-anastasia.json](./198670-anastasia.json) |
@@ -15940,6 +15943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash of War | 109684 | [109684-ash-of-war.json](./109684-ash-of-war.json) |
 | Ash of War: Operation Sundown | 174157 | [174157-ash-of-war-operation-sundown.json](./174157-ash-of-war-operation-sundown.json) |
 | Ash Pines: The Motel | 361695 | [361695-ash-pines-the-motel.json](./361695-ash-pines-the-motel.json) |
+| Ash Road: Infection | 371160 | [371160-ash-road-infection.json](./371160-ash-road-infection.json) |
 | Ash Survival | 362763 | [362763-ash-survival.json](./362763-ash-survival.json) |
 | Ash Warden | 361767 | [361767-ash-warden.json](./361767-ash-warden.json) |
 | Ash. | 76669 | [76669-ash.json](./76669-ash.json) |
@@ -17206,6 +17210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrododge | 45382 | [45382-astrododge.json](./45382-astrododge.json) |
 | Astrodogs | 138055 | [138055-astrodogs.json](./138055-astrodogs.json) |
 | Astrodrifter | 304682 | [304682-astrodrifter.json](./304682-astrodrifter.json) |
+| AstroDrop | 370620 | [370620-astrodrop.json](./370620-astrodrop.json) |
 | Astroe | 59234 | [59234-astroe.json](./59234-astroe.json) |
 | AstroFire | 82500 | [82500-astrofire.json](./82500-astrofire.json) |
 | Astroflux | 32875 | [32875-astroflux.json](./32875-astroflux.json) |
@@ -17940,6 +17945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Butcher: Homo Metabolicus | 25223 | [25223-atomic-butcher-homo-metabolicus.json](./25223-atomic-butcher-homo-metabolicus.json) |
 | Atomic Cannon | 227826 | [227826-atomic-cannon.json](./227826-atomic-cannon.json) |
 | Atomic Cards | 169481 | [169481-atomic-cards.json](./169481-atomic-cards.json) |
+| Atomic City | 371147 | [371147-atomic-city.json](./371147-atomic-city.json) |
 | Atomic City Adventures: The Case of the Black Dragon | 65718 | [65718-atomic-city-adventures-the-case-of-the-black-dragon.json](./65718-atomic-city-adventures-the-case-of-the-black-dragon.json) |
 | Atomic Cyclecar Racing | 192363 | [192363-atomic-cyclecar-racing.json](./192363-atomic-cyclecar-racing.json) |
 | Atomic Driver | 73731 | [73731-atomic-driver.json](./73731-atomic-driver.json) |
