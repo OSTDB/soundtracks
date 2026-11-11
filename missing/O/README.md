@@ -2193,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Track | 292509 | [292509-on-track.json](./292509-on-track.json) |
 | On Tuesday, Trevor Found His Shovel | 267553 | [267553-on-tuesday-trevor-found-his-shovel.json](./267553-on-tuesday-trevor-found-his-shovel.json) |
 | On Wasteland | 284295 | [284295-on-wasteland.json](./284295-on-wasteland.json) |
+| On Wings Bringing Sleep | 319477 | [319477-on-wings-bringing-sleep.json](./319477-on-wings-bringing-sleep.json) |
 | On Your Hands | 188826 | [188826-on-your-hands.json](./188826-on-your-hands.json) |
 | On Your Mark | 120115 | [120115-on-your-mark.json](./120115-on-your-mark.json) |
 | On Your Notebook | 365845 | [365845-on-your-notebook.json](./365845-on-your-notebook.json) |
