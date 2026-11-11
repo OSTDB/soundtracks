@@ -8351,6 +8351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nympho's Path | 208450 | [208450-nymphos-path.json](./208450-nymphos-path.json) |
 | Nymphomania Paradox | 82784 | [82784-nymphomania-paradox.json](./82784-nymphomania-paradox.json) |
 | Nymphomania Priestess | 346164 | [346164-nymphomania-priestess.json](./346164-nymphomania-priestess.json) |
+| Nymphomaniac: Sex Addict | 320998 | [320998-nymphomaniac-sex-addict.json](./320998-nymphomaniac-sex-addict.json) |
 | Nymphs of the Forest | 385297 | [385297-nymphs-of-the-forest.json](./385297-nymphs-of-the-forest.json) |
 | Nyo-Nin-Jima: My New Life in Charge of a Tropical Island | 297167 | [297167-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json](./297167-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json) |
 | Nyo-Nin-Jima: My New Life in Charge of a Tropical Island | 304978 | [304978-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json](./304978-nyo-nin-jima-my-new-life-in-charge-of-a-tropical-island.json) |
