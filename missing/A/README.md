@@ -1009,6 +1009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night With Neil | 243602 | [243602-a-night-with-neil.json](./243602-a-night-with-neil.json) |
 | A Night With: Brazilian Waifu | 342818 | [342818-a-night-with-brazilian-waifu.json](./342818-a-night-with-brazilian-waifu.json) |
 | A Night With: Emily | 331294 | [331294-a-night-with-emily.json](./331294-a-night-with-emily.json) |
+| A Night With: Spirit | 318180 | [318180-a-night-with-spirit.json](./318180-a-night-with-spirit.json) |
 | A Night With: Succubus | 331291 | [331291-a-night-with-succubus.json](./331291-a-night-with-succubus.json) |
 | A Night With: SuperHero | 371043 | [371043-a-night-with-superhero.json](./371043-a-night-with-superhero.json) |
 | A Nightmare on Elm Street | 129595 | [129595-a-nightmare-on-elm-street.json](./129595-a-nightmare-on-elm-street.json) |
@@ -1123,6 +1124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Proper Cup of Tea | 294537 | [294537-a-proper-cup-of-tea.json](./294537-a-proper-cup-of-tea.json) |
 | A Punk with Wheels | 322341 | [322341-a-punk-with-wheels.json](./322341-a-punk-with-wheels.json) |
 | A Punk with Wheels 2 | 322343 | [322343-a-punk-with-wheels-2.json](./322343-a-punk-with-wheels-2.json) |
+| A Purr Tale | 318671 | [318671-a-purr-tale.json](./318671-a-purr-tale.json) |
 | A Purrtato Tail: By the Light of the Elderstar | 89482 | [89482-a-purrtato-tail-by-the-light-of-the-elderstar.json](./89482-a-purrtato-tail-by-the-light-of-the-elderstar.json) |
 | A Puzzle Game where you Fold Dice | 403912 | [403912-a-puzzle-game-where-you-fold-dice.json](./403912-a-puzzle-game-where-you-fold-dice.json) |
 | A Puzzling Combination | 177145 | [177145-a-puzzling-combination.json](./177145-a-puzzling-combination.json) |
@@ -13152,6 +13154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aracore Astromining Ventures | 337661 | [337661-aracore-astromining-ventures.json](./337661-aracore-astromining-ventures.json) |
 | Aractaur | 58008 | [58008-aractaur.json](./58008-aractaur.json) |
 | Aradena: Battlegrounds | 266121 | [266121-aradena-battlegrounds.json](./266121-aradena-battlegrounds.json) |
+| Aradia's Journey | 318241 | [318241-aradias-journey.json](./318241-aradias-journey.json) |
 | Arae: Requiem of a Lonely Spirit | 133784 | [133784-arae-requiem-of-a-lonely-spirit.json](./133784-arae-requiem-of-a-lonely-spirit.json) |
 | Araf: The In Between | 425833 | [425833-araf-the-in-between.json](./425833-araf-the-in-between.json) |
 | Arafinn Kontor | 203850 | [203850-arafinn-kontor.json](./203850-arafinn-kontor.json) |
