@@ -746,6 +746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wands Alliances | 204345 | [204345-wands-alliances.json](./204345-wands-alliances.json) |
 | Wands and Witches | 140835 | [140835-wands-and-witches.json](./140835-wands-and-witches.json) |
 | Wandsmith | 396464 | [396464-wandsmith.json](./396464-wandsmith.json) |
+| Wanech's C.A.N. | 365926 | [365926-wanechs-c-a-n.json](./365926-wanechs-c-a-n.json) |
 | Wanech's Z.O.O. | 369907 | [369907-wanechs-z-o-o.json](./369907-wanechs-z-o-o.json) |
 | Wang fried | 190843 | [190843-wang-fried.json](./190843-wang-fried.json) |
 | Wang Nukem | 308371 | [308371-wang-nukem.json](./308371-wang-nukem.json) |
@@ -5651,6 +5652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Willy West | 333056 | [333056-wild-willy-west.json](./333056-wild-willy-west.json) |
 | Wild Wind | 412595 | [412595-wild-wind.json](./412595-wild-wind.json) |
 | Wild Wizard War | 391607 | [391607-wild-wizard-war.json](./391607-wild-wizard-war.json) |
+| Wild Wizards | 365925 | [365925-wild-wizards.json](./365925-wild-wizards.json) |
 | Wild Wolf | 81013 | [81013-wild-wolf.json](./81013-wild-wolf.json) |
 | Wild Wolf Family Simulator 3D | 233043 | [233043-wild-wolf-family-simulator-3d.json](./233043-wild-wolf-family-simulator-3d.json) |
 | Wild Wolf Simulator 3D | 200662 | [200662-wild-wolf-simulator-3d.json](./200662-wild-wolf-simulator-3d.json) |
@@ -6271,6 +6273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winky the Little Bear | 213857 | [213857-winky-the-little-bear.json](./213857-winky-the-little-bear.json) |
 | Winky Trap | 131582 | [131582-winky-trap.json](./131582-winky-trap.json) |
 | Winlinez | 246313 | [246313-winlinez.json](./246313-winlinez.json) |
+| WinMon | 365978 | [365978-winmon.json](./365978-winmon.json) |
 | Winner | 130946 | [130946-winner.json](./130946-winner.json) |
 | Winner In Life | 338363 | [338363-winner-in-life.json](./338363-winner-in-life.json) |
 | Winner IV | 170845 | [170845-winner-iv.json](./170845-winner-iv.json) |
