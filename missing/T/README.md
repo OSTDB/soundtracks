@@ -1713,6 +1713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamago | 369056 | [369056-tamago.json](./369056-tamago.json) |
 | Tamago de Puzzle | 230485 | [230485-tamago-de-puzzle.json](./230485-tamago-de-puzzle.json) |
 | Tamagopanda no Muchuu Land ni Youkoso!: Waku-waku Taiken Stamp Rally 100 | 327706 | [327706-tamagopanda-no-muchuu-land-ni-youkoso-waku-waku-taiken-stamp-rally-100.json](./327706-tamagopanda-no-muchuu-land-ni-youkoso-waku-waku-taiken-stamp-rally-100.json) |
+| Tamagorudo: Floor O | 347384 | [347384-tamagorudo-floor-o.json](./347384-tamagorudo-floor-o.json) |
 | Tamagotchi | 11284 | [11284-tamagotchi.json](./11284-tamagotchi.json) |
 | Tamagotchi | 194325 | [194325-tamagotchi.json](./194325-tamagotchi.json) |
 | Tamagotchi | 301415 | [301415-tamagotchi.json](./301415-tamagotchi.json) |
@@ -8404,6 +8405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dagby Files | 383449 | [383449-the-dagby-files.json](./383449-the-dagby-files.json) |
 | The Dagger of Amon Ra | 9737 | [9737-the-dagger-of-amon-ra.json](./9737-the-dagger-of-amon-ra.json) |
 | The Daily Adventurer | 355600 | [355600-the-daily-adventurer.json](./355600-the-daily-adventurer.json) |
+| The Daily Burgle | 347413 | [347413-the-daily-burgle.json](./347413-the-daily-burgle.json) |
 | The Daily Crossword | 103919 | [103919-the-daily-crossword.json](./103919-the-daily-crossword.json) |
 | The Daily Diaonal Sudoku | 266838 | [266838-the-daily-diaonal-sudoku.json](./266838-the-daily-diaonal-sudoku.json) |
 | The Daily Dozen Trivia | 319456 | [319456-the-daily-dozen-trivia.json](./319456-the-daily-dozen-trivia.json) |
@@ -9632,6 +9634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Exhibition | 407326 | [407326-the-exhibition.json](./407326-the-exhibition.json) |
 | The Exiled | 26241 | [26241-the-exiled.json](./26241-the-exiled.json) |
 | The Existence Abstract | 38800 | [38800-the-existence-abstract.json](./38800-the-existence-abstract.json) |
+| The Existence Theory of the No.13 High School | 347394 | [347394-the-existence-theory-of-the-no-13-high-school.json](./347394-the-existence-theory-of-the-no-13-high-school.json) |
 | The Exit 8 | 275404 | [275404-the-exit-8.json](./275404-the-exit-8.json) |
 | The Exit 8 VR | 310522 | [310522-the-exit-8-vr.json](./310522-the-exit-8-vr.json) |
 | The Exit of Nightmare | 320614 | [320614-the-exit-of-nightmare.json](./320614-the-exit-of-nightmare.json) |
@@ -14331,6 +14334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magnets | 148534 | [148534-the-magnets.json](./148534-the-magnets.json) |
 | The Magnificent Five | 257168 | [257168-the-magnificent-five.json](./257168-the-magnificent-five.json) |
 | The Magnificent Fragments | 53760 | [53760-the-magnificent-fragments.json](./53760-the-magnificent-fragments.json) |
+| The Magnificent Scoundrels | 347385 | [347385-the-magnificent-scoundrels.json](./347385-the-magnificent-scoundrels.json) |
 | The Magnificent Seven | 70490 | [70490-the-magnificent-seven.json](./70490-the-magnificent-seven.json) |
 | The Magnificent Trufflepigs | 144508 | [144508-the-magnificent-trufflepigs.json](./144508-the-magnificent-trufflepigs.json) |
 | The Magnilo Case | 144589 | [144589-the-magnilo-case.json](./144589-the-magnilo-case.json) |
@@ -19130,6 +19134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Town of Light: Deluxe Edition | 86237 | [86237-the-town-of-light-deluxe-edition.json](./86237-the-town-of-light-deluxe-edition.json) |
 | The Town of Light: The Limited Black Label | 254852 | [254852-the-town-of-light-the-limited-black-label.json](./254852-the-town-of-light-the-limited-black-label.json) |
 | The Town of Nie | 315338 | [315338-the-town-of-nie.json](./315338-the-town-of-nie.json) |
+| The Town of Nie Iromusubi | 347379 | [347379-the-town-of-nie-iromusubi.json](./347379-the-town-of-nie-iromusubi.json) |
 | The Town of Nowhere: End Of The Line | 383448 | [383448-the-town-of-nowhere-end-of-the-line.json](./383448-the-town-of-nowhere-end-of-the-line.json) |
 | The Town of Prison | 82291 | [82291-the-town-of-prison.json](./82291-the-town-of-prison.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
