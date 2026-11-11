@@ -9697,6 +9697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong God | 253808 | [253808-wrong-god.json](./253808-wrong-god.json) |
 | Wrong Landing | 261645 | [261645-wrong-landing.json](./261645-wrong-landing.json) |
 | Wrong train | 186383 | [186383-wrong-train.json](./186383-wrong-train.json) |
+| Wrong Treatment | 392543 | [392543-wrong-treatment.json](./392543-wrong-treatment.json) |
 | Wronged | 75780 | [75780-wronged.json](./75780-wronged.json) |
 | Wronged Us | 190482 | [190482-wronged-us.json](./190482-wronged-us.json) |
 | Wrongly Accused | 293337 | [293337-wrongly-accused.json](./293337-wrongly-accused.json) |
