@@ -18090,6 +18090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom RPG | 28160 | [28160-atom-rpg.json](./28160-atom-rpg.json) |
 | Atom RPG 2 | 388072 | [388072-atom-rpg-2.json](./388072-atom-rpg-2.json) |
 | Atom RPG: Trudograd | 134502 | [134502-atom-rpg-trudograd.json](./134502-atom-rpg-trudograd.json) |
+| Atom RPG: Trudograd - TG Supporter Pack | 332099 | [332099-atom-rpg-trudograd-tg-supporter-pack.json](./332099-atom-rpg-trudograd-tg-supporter-pack.json) |
 | Atom RPG: Trudograd - War Supply Pack | 224437 | [224437-atom-rpg-trudograd-war-supply-pack.json](./224437-atom-rpg-trudograd-war-supply-pack.json) |
 | Atom RPG: Trudograd Deluxe Edition | 227181 | [227181-atom-rpg-trudograd-deluxe-edition.json](./227181-atom-rpg-trudograd-deluxe-edition.json) |
 | Atom Run | 61123 | [61123-atom-run.json](./61123-atom-run.json) |
@@ -19176,6 +19177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar: Frontiers of Pandora - Secrets of the Spire | 319229 | [319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json](./319229-avatar-frontiers-of-pandora-secrets-of-the-spire.json) |
 | Avatar: Frontiers of Pandora - Sky Rider Starter Pack | 332042 | [332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json](./332042-avatar-frontiers-of-pandora-sky-rider-starter-pack.json) |
 | Avatar: Frontiers of Pandora - Special Edition | 281300 | [281300-avatar-frontiers-of-pandora-special-edition.json](./281300-avatar-frontiers-of-pandora-special-edition.json) |
+| Avatar: Frontiers of Pandora - Storm Chaser Starter Pack | 332110 | [332110-avatar-frontiers-of-pandora-storm-chaser-starter-pack.json](./332110-avatar-frontiers-of-pandora-storm-chaser-starter-pack.json) |
 | Avatar: Frontiers of Pandora - The Sky Breaker | 305241 | [305241-avatar-frontiers-of-pandora-the-sky-breaker.json](./305241-avatar-frontiers-of-pandora-the-sky-breaker.json) |
 | Avatar: Ice Wars | 378930 | [378930-avatar-ice-wars.json](./378930-avatar-ice-wars.json) |
 | Avatar: Legends of the Arena | 72925 | [72925-avatar-legends-of-the-arena.json](./72925-avatar-legends-of-the-arena.json) |
