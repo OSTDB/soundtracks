@@ -2859,6 +2859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elixir of Imortality: Hidden Object Game | 145113 | [145113-elixir-of-imortality-hidden-object-game.json](./145113-elixir-of-imortality-hidden-object-game.json) |
 | Elixir of Life | 151098 | [151098-elixir-of-life.json](./151098-elixir-of-life.json) |
 | Elixirs | 274561 | [274561-elixirs.json](./274561-elixirs.json) |
+| Elixirs and Enigmas Bundle: Moonshine Inc. Supporter Edition + Cultist Simulator: Anthology | 331552 | [331552-elixirs-and-enigmas-bundle-moonshine-inc-supporter-edition-cultist-simulator-anthology.json](./331552-elixirs-and-enigmas-bundle-moonshine-inc-supporter-edition-cultist-simulator-anthology.json) |
 | Eliza | 345129 | [345129-eliza.json](./345129-eliza.json) |
 | Elizabeth | 130081 | [130081-elizabeth.json](./130081-elizabeth.json) |
 | Elizabeth Find M.D.: Diagnosis Mystery - Season 2 | 14968 | [14968-elizabeth-find-m-d-diagnosis-mystery-season-2.json](./14968-elizabeth-find-m-d-diagnosis-mystery-season-2.json) |
@@ -4479,6 +4480,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlightenus | 100251 | [100251-enlightenus.json](./100251-enlightenus.json) |
 | Enlil: Rise Of the End | 387486 | [387486-enlil-rise-of-the-end.json](./387486-enlil-rise-of-the-end.json) |
 | Enlisted | 26431 | [26431-enlisted.json](./26431-enlisted.json) |
+| Enlisted: "Firestorm" Bundle | 331553 | [331553-enlisted-firestorm-bundle.json](./331553-enlisted-firestorm-bundle.json) |
+| Enlisted: "Guerrilla Warfare" Bundle | 331554 | [331554-enlisted-guerrilla-warfare-bundle.json](./331554-enlisted-guerrilla-warfare-bundle.json) |
 | Enlisted: Calliope Squad | 293769 | [293769-enlisted-calliope-squad.json](./293769-enlisted-calliope-squad.json) |
 | Enlisted: Direct Fire Bundle | 309016 | [309016-enlisted-direct-fire-bundle.json](./309016-enlisted-direct-fire-bundle.json) |
 | Enlisted: Fedorov MG Squad | 293772 | [293772-enlisted-fedorov-mg-squad.json](./293772-enlisted-fedorov-mg-squad.json) |
