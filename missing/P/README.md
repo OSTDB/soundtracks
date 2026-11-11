@@ -2574,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Escape | 86947 | [86947-parking-escape.json](./86947-parking-escape.json) |
 | Parking Expert! | 307762 | [307762-parking-expert.json](./307762-parking-expert.json) |
 | Parking Frenzy | 343786 | [343786-parking-frenzy.json](./343786-parking-frenzy.json) |
+| Parking Garage Anomaly | 365907 | [365907-parking-garage-anomaly.json](./365907-parking-garage-anomaly.json) |
 | Parking Garage Rally Circuit DX | 381673 | [381673-parking-garage-rally-circuit-dx.json](./381673-parking-garage-rally-circuit-dx.json) |
 | Parking Garage Rally Circuit: European Tour | 377852 | [377852-parking-garage-rally-circuit-european-tour.json](./377852-parking-garage-rally-circuit-european-tour.json) |
 | Parking Garage Simulator | 374602 | [374602-parking-garage-simulator.json](./374602-parking-garage-simulator.json) |
@@ -3865,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaceful Bug Catching Story | 413368 | [413368-peaceful-bug-catching-story.json](./413368-peaceful-bug-catching-story.json) |
 | Peaceful Dog Escape | 231923 | [231923-peaceful-dog-escape.json](./231923-peaceful-dog-escape.json) |
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
+| Peaceful Gardens 2: Cute Cats | 365914 | [365914-peaceful-gardens-2-cute-cats.json](./365914-peaceful-gardens-2-cute-cats.json) |
 | Peaceful Gunner | 153389 | [153389-peaceful-gunner.json](./153389-peaceful-gunner.json) |
 | Peaceful Lands | 236866 | [236866-peaceful-lands.json](./236866-peaceful-lands.json) |
 | Peaceful Soul | 171701 | [171701-peaceful-soul.json](./171701-peaceful-soul.json) |
@@ -6050,6 +6052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix's Faye | 348184 | [348184-phoenixs-faye.json](./348184-phoenixs-faye.json) |
 | Phoenotopia | 313272 | [313272-phoenotopia.json](./313272-phoenotopia.json) |
 | Phoenotopia: Awakening | 136805 | [136805-phoenotopia-awakening.json](./136805-phoenotopia-awakening.json) |
+| Phoenyx: Breaking the Cycle | 365345 | [365345-phoenyx-breaking-the-cycle.json](./365345-phoenyx-breaking-the-cycle.json) |
 | Phogbound | 158905 | [158905-phogbound.json](./158905-phogbound.json) |
 | Pholee | 294000 | [294000-pholee.json](./294000-pholee.json) |
 | Phone | 218998 | [218998-phone.json](./218998-phone.json) |
@@ -11053,6 +11056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Mystery EP DX | 322042 | [322042-pocket-mystery-ep-dx.json](./322042-pocket-mystery-ep-dx.json) |
 | Pocket Necromancer | 319383 | [319383-pocket-necromancer.json](./319383-pocket-necromancer.json) |
 | Pocket no Naka no Doraemon | 37357 | [37357-pocket-no-naka-no-doraemon.json](./37357-pocket-no-naka-no-doraemon.json) |
+| Pocket Nook | 365343 | [365343-pocket-nook.json](./365343-pocket-nook.json) |
 | Pocket Oasis | 251982 | [251982-pocket-oasis.json](./251982-pocket-oasis.json) |
 | Pocket of Horror | 344566 | [344566-pocket-of-horror.json](./344566-pocket-of-horror.json) |
 | Pocket of warrior | 194067 | [194067-pocket-of-warrior.json](./194067-pocket-of-warrior.json) |
