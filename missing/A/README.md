@@ -385,6 +385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Few Billion Square Tiles | 104687 | [104687-a-few-billion-square-tiles.json](./104687-a-few-billion-square-tiles.json) |
 | A Few Days With: Bianca | 329203 | [329203-a-few-days-with-bianca.json](./329203-a-few-days-with-bianca.json) |
 | A Few Days With: Cassandra | 301682 | [301682-a-few-days-with-cassandra.json](./301682-a-few-days-with-cassandra.json) |
+| A Few Days With: Darlene | 382068 | [382068-a-few-days-with-darlene.json](./382068-a-few-days-with-darlene.json) |
 | A Few Days With: Emma | 326177 | [326177-a-few-days-with-emma.json](./326177-a-few-days-with-emma.json) |
 | A Few Days With: Hazel | 382146 | [382146-a-few-days-with-hazel.json](./382146-a-few-days-with-hazel.json) |
 | A Few Days With: Olivia | 392955 | [392955-a-few-days-with-olivia.json](./392955-a-few-days-with-olivia.json) |
@@ -1174,6 +1175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sexy Tour With Stella | 368573 | [368573-a-sexy-tour-with-stella.json](./368573-a-sexy-tour-with-stella.json) |
 | A Sexy Tour With: Akiko | 367290 | [367290-a-sexy-tour-with-akiko.json](./367290-a-sexy-tour-with-akiko.json) |
 | A Sexy Tour With: Fiona | 338166 | [338166-a-sexy-tour-with-fiona.json](./338166-a-sexy-tour-with-fiona.json) |
+| A Sexy Tour With: Tanvi | 382066 | [382066-a-sexy-tour-with-tanvi.json](./382066-a-sexy-tour-with-tanvi.json) |
 | A Sexy Tour With: Yeona | 368725 | [368725-a-sexy-tour-with-yeona.json](./368725-a-sexy-tour-with-yeona.json) |
 | A Shade Darker Than Gray | 338167 | [338167-a-shade-darker-than-gray.json](./338167-a-shade-darker-than-gray.json) |
 | A Shadow in Space | 383719 | [383719-a-shadow-in-space.json](./383719-a-shadow-in-space.json) |
@@ -6138,6 +6140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airships: Heroes and Villains | 244353 | [244353-airships-heroes-and-villains.json](./244353-airships-heroes-and-villains.json) |
 | AirShock | 115255 | [115255-airshock.json](./115255-airshock.json) |
 | AirShooShoo | 207589 | [207589-airshooshoo.json](./207589-airshooshoo.json) |
+| Airshot Hit | 382069 | [382069-airshot-hit.json](./382069-airshot-hit.json) |
 | Airskipper | 401463 | [401463-airskipper.json](./401463-airskipper.json) |
 | Airsoft Allstars | 393023 | [393023-airsoft-allstars.json](./393023-airsoft-allstars.json) |
 | Airsoft Bomb | 102575 | [102575-airsoft-bomb.json](./102575-airsoft-bomb.json) |
@@ -6854,7 +6857,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Kidd: Radaxian In Turmoil | 326963 | [326963-alex-kidd-radaxian-in-turmoil.json](./326963-alex-kidd-radaxian-in-turmoil.json) |
 | Alex Kidd: The Lost Stars | 13678 | [13678-alex-kidd-the-lost-stars.json](./13678-alex-kidd-the-lost-stars.json) |
 | Alex Rider: Stormbreaker | 2848 | [2848-alex-rider-stormbreaker.json](./2848-alex-rider-stormbreaker.json) |
+| Alex the Allegator | 382075 | [382075-alex-the-allegator.json](./382075-alex-the-allegator.json) |
 | Alex the Allegator 2 | 306995 | [306995-alex-the-allegator-2.json](./306995-alex-the-allegator-2.json) |
+| Alex the Allegator 3: Radioactive Racers | 382076 | [382076-alex-the-allegator-3-radioactive-racers.json](./382076-alex-the-allegator-3-radioactive-racers.json) |
 | Alex the Allegator 4 | 72286 | [72286-alex-the-allegator-4.json](./72286-alex-the-allegator-4.json) |
 | Alex the Ball | 304385 | [304385-alex-the-ball.json](./304385-alex-the-ball.json) |
 | Alex the Rabbit | 392877 | [392877-alex-the-rabbit.json](./392877-alex-the-rabbit.json) |
@@ -17851,6 +17856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atom | 42154 | [42154-atom.json](./42154-atom.json) |
 | Atom Ant | 13346 | [13346-atom-ant.json](./13346-atom-ant.json) |
 | Atom Antics | 243178 | [243178-atom-antics.json](./243178-atom-antics.json) |
+| Atom Assault | 382071 | [382071-atom-assault.json](./382071-atom-assault.json) |
 | Atom by Atom | 418620 | [418620-atom-by-atom.json](./418620-atom-by-atom.json) |
 | Atom de Pon! | 407314 | [407314-atom-de-pon.json](./407314-atom-de-pon.json) |
 | Atom Fishing II | 30459 | [30459-atom-fishing-ii.json](./30459-atom-fishing-ii.json) |
