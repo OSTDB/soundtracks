@@ -12636,6 +12636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SixCubes | 114593 | [114593-sixcubes.json](./114593-sixcubes.json) |
 | Sixide | 285494 | [285494-sixide.json](./285494-sixide.json) |
 | Sixit | 145992 | [145992-sixit.json](./145992-sixit.json) |
+| Sixtar Gate: Stargazer | 332134 | [332134-sixtar-gate-stargazer.json](./332134-sixtar-gate-stargazer.json) |
 | Sixtar Gate: Startrail | 181103 | [181103-sixtar-gate-startrail.json](./181103-sixtar-gate-startrail.json) |
 | Sixtar Gate: Startrail - Dystopia Pack | 293402 | [293402-sixtar-gate-startrail-dystopia-pack.json](./293402-sixtar-gate-startrail-dystopia-pack.json) |
 | Sixtar Gate: Startrail - Flower & Destiny Pack | 225093 | [225093-sixtar-gate-startrail-flower-and-destiny-pack.json](./225093-sixtar-gate-startrail-flower-and-destiny-pack.json) |
@@ -19197,6 +19198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Triple Trouble 16-Bit | 136814 | [136814-sonic-triple-trouble-16-bit.json](./136814-sonic-triple-trouble-16-bit.json) |
 | Sonic Turbo 2 | 331707 | [331707-sonic-turbo-2.json](./331707-sonic-turbo-2.json) |
 | Sonic Tweet | 63904 | [63904-sonic-tweet.json](./63904-sonic-tweet.json) |
+| Sonic Ultimate Battle | 332143 | [332143-sonic-ultimate-battle.json](./332143-sonic-ultimate-battle.json) |
 | Sonic Ultimate: New Beginnings | 330310 | [330310-sonic-ultimate-new-beginnings.json](./330310-sonic-ultimate-new-beginnings.json) |
 | Sonic Ultra 3 | 330868 | [330868-sonic-ultra-3.json](./330868-sonic-ultra-3.json) |
 | Sonic Ultra Compilation II | 330870 | [330870-sonic-ultra-compilation-ii.json](./330870-sonic-ultra-compilation-ii.json) |
@@ -24403,6 +24405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot The Difference: Christmas Edition | 322074 | [322074-spot-the-difference-christmas-edition.json](./322074-spot-the-difference-christmas-edition.json) |
 | Spot The Difference: Classic Finding Puzzle | 324123 | [324123-spot-the-difference-classic-finding-puzzle.json](./324123-spot-the-difference-classic-finding-puzzle.json) |
 | Spot The Difference: Fantasy Edition | 289190 | [289190-spot-the-difference-fantasy-edition.json](./289190-spot-the-difference-fantasy-edition.json) |
+| Spot The Difference: Sports | 332158 | [332158-spot-the-difference-sports.json](./332158-spot-the-difference-sports.json) |
 | Spot the Difference: Two Player Edition | 89080 | [89080-spot-the-difference-two-player-edition.json](./89080-spot-the-difference-two-player-edition.json) |
 | Spot the Difference: Ukiyo-e Thirty-six Views of Mt. Fuji | 316242 | [316242-spot-the-difference-ukiyo-e-thirty-six-views-of-mt-fuji.json](./316242-spot-the-difference-ukiyo-e-thirty-six-views-of-mt-fuji.json) |
 | Spot the Differences | 44502 | [44502-spot-the-differences.json](./44502-spot-the-differences.json) |
@@ -25543,6 +25546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Boss | 75109 | [75109-star-boss.json](./75109-star-boss.json) |
 | Star Boy | 96676 | [96676-star-boy.json](./96676-star-boy.json) |
 | Star Breaker | 13082 | [13082-star-breaker.json](./13082-star-breaker.json) |
+| Star Breaker | 332130 | [332130-star-breaker.json](./332130-star-breaker.json) |
 | Star Bridge | 59917 | [59917-star-bridge.json](./59917-star-bridge.json) |
 | Star Buddy | 371164 | [371164-star-buddy.json](./371164-star-buddy.json) |
 | Star Burial Dragnir | 64848 | [64848-star-burial-dragnir.json](./64848-star-burial-dragnir.json) |
