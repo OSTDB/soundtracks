@@ -7158,6 +7158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FishOrChicken | 260202 | [260202-fishorchicken.json](./260202-fishorchicken.json) |
 | Fishori | 215571 | [215571-fishori.json](./215571-fishori.json) |
 | Fishos | 180763 | [180763-fishos.json](./180763-fishos.json) |
+| Fishplay | 359119 | [359119-fishplay.json](./359119-fishplay.json) |
 | FishPond | 398066 | [398066-fishpond.json](./398066-fishpond.json) |
 | Fisht Fight | 367937 | [367937-fisht-fight.json](./367937-fisht-fight.json) |
 | Fishtank: Reality TV Simulator | 351159 | [351159-fishtank-reality-tv-simulator.json](./351159-fishtank-reality-tv-simulator.json) |
@@ -9133,6 +9134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly the Plane | 105430 | [105430-fly-the-plane.json](./105430-fly-the-plane.json) |
 | Fly the Plane | 263494 | [263494-fly-the-plane.json](./263494-fly-the-plane.json) |
 | Fly This!: Flight Control Tower | 222248 | [222248-fly-this-flight-control-tower.json](./222248-fly-this-flight-control-tower.json) |
+| Fly to Death! 2D Jumping Game | 359123 | [359123-fly-to-death-2d-jumping-game.json](./359123-fly-to-death-2d-jumping-game.json) |
 | Fly to hope | 211682 | [211682-fly-to-hope.json](./211682-fly-to-hope.json) |
 | Fly to Kuma | 58788 | [58788-fly-to-kuma.json](./58788-fly-to-kuma.json) |
 | Fly to Kuma Maker | 31600 | [31600-fly-to-kuma-maker.json](./31600-fly-to-kuma-maker.json) |
