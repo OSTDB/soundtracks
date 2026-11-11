@@ -2386,6 +2386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maidnight | 373733 | [373733-maidnight.json](./373733-maidnight.json) |
 | Maido Hebo Shogi | 222199 | [222199-maido-hebo-shogi.json](./222199-maido-hebo-shogi.json) |
 | Maido Manie | 274858 | [274858-maido-manie.json](./274858-maido-manie.json) |
+| Maids Girls | 389773 | [389773-maids-girls.json](./389773-maids-girls.json) |
 | Maids of Storm | 391027 | [391027-maids-of-storm.json](./391027-maids-of-storm.json) |
 | Maigo no Koneko-chan | 276472 | [276472-maigo-no-koneko-chan.json](./276472-maigo-no-koneko-chan.json) |
 | Maihon: The Impossible Jewel Stacking Puzzle Game | 116462 | [116462-maihon-the-impossible-jewel-stacking-puzzle-game.json](./116462-maihon-the-impossible-jewel-stacking-puzzle-game.json) |
@@ -6096,6 +6097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matrix Blocks | 149463 | [149463-matrix-blocks.json](./149463-matrix-blocks.json) |
 | Matrix Brain Twister | 367127 | [367127-matrix-brain-twister.json](./367127-matrix-brain-twister.json) |
 | Matrix Bullet | 266766 | [266766-matrix-bullet.json](./266766-matrix-bullet.json) |
+| Matrix Hearts: Season 1 | 389800 | [389800-matrix-hearts-season-1.json](./389800-matrix-hearts-season-1.json) |
 | Matrix Jump | 215848 | [215848-matrix-jump.json](./215848-matrix-jump.json) |
 | Matrix Mahjong | 392317 | [392317-matrix-mahjong.json](./392317-matrix-mahjong.json) |
 | Matrix Marauders | 15259 | [15259-matrix-marauders.json](./15259-matrix-marauders.json) |
@@ -12387,6 +12389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milf Toys 2 | 195244 | [195244-milf-toys-2.json](./195244-milf-toys-2.json) |
 | Milf Toys 3 | 208587 | [208587-milf-toys-3.json](./208587-milf-toys-3.json) |
 | Milford Heaven - Luken's Chronicles | 32488 | [32488-milford-heaven-lukens-chronicles.json](./32488-milford-heaven-lukens-chronicles.json) |
+| MILFs 2025 | 389794 | [389794-milfs-2025.json](./389794-milfs-2025.json) |
 | MILFs in Paris | 366234 | [366234-milfs-in-paris.json](./366234-milfs-in-paris.json) |
 | MILFs of Sunville | 337910 | [337910-milfs-of-sunville.json](./337910-milfs-of-sunville.json) |
 | Milfvania Ep. 1 | 295234 | [295234-milfvania-ep-1.json](./295234-milfvania-ep-1.json) |
@@ -14703,6 +14706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Twentynine | 296983 | [296983-mission-twentynine.json](./296983-mission-twentynine.json) |
 | Mission Veterinaire | 149283 | [149283-mission-veterinaire.json](./149283-mission-veterinaire.json) |
 | Mission Whilkas | 415754 | [415754-mission-whilkas.json](./415754-mission-whilkas.json) |
+| Mission X | 389795 | [389795-mission-x.json](./389795-mission-x.json) |
 | Mission XAM | 117224 | [117224-mission-xam.json](./117224-mission-xam.json) |
 | Mission Z | 157035 | [157035-mission-z.json](./157035-mission-z.json) |
 | Mission Zero | 208159 | [208159-mission-zero.json](./208159-mission-zero.json) |
@@ -16663,6 +16667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Dungeon | 166214 | [166214-monster-girl-dungeon.json](./166214-monster-girl-dungeon.json) |
 | Monster Girl Fantasy | 116339 | [116339-monster-girl-fantasy.json](./116339-monster-girl-fantasy.json) |
 | Monster Girl Fantasy 2: Exposed | 120738 | [120738-monster-girl-fantasy-2-exposed.json](./120738-monster-girl-fantasy-2-exposed.json) |
+| Monster Girl Garden | 389781 | [389781-monster-girl-garden.json](./389781-monster-girl-garden.json) |
 | Monster Girl Incursion | 169154 | [169154-monster-girl-incursion.json](./169154-monster-girl-incursion.json) |
 | Monster Girl Invasion | 193616 | [193616-monster-girl-invasion.json](./193616-monster-girl-invasion.json) |
 | Monster Girl Island: Prologue | 119504 | [119504-monster-girl-island-prologue.json](./119504-monster-girl-island-prologue.json) |
@@ -21710,6 +21715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Giant Sexy Sensei Bullies Me 7 | 384729 | [384729-my-giant-sexy-sensei-bullies-me-7.json](./384729-my-giant-sexy-sensei-bullies-me-7.json) |
 | My Giant Sexy Sensei Bullies Me 8 | 384732 | [384732-my-giant-sexy-sensei-bullies-me-8.json](./384732-my-giant-sexy-sensei-bullies-me-8.json) |
 | My Giant Sexy Sensei Bullies Me 9 | 384735 | [384735-my-giant-sexy-sensei-bullies-me-9.json](./384735-my-giant-sexy-sensei-bullies-me-9.json) |
+| My Girl Hates Fruit | 389792 | [389792-my-girl-hates-fruit.json](./389792-my-girl-hates-fruit.json) |
 | My Girl: Love Story | 119603 | [119603-my-girl-love-story.json](./119603-my-girl-love-story.json) |
 | My Girlfriend | 81184 | [81184-my-girlfriend.json](./81184-my-girlfriend.json) |
 | My Girlfriend is a Cat Girl?! | 205996 | [205996-my-girlfriend-is-a-cat-girl.json](./205996-my-girlfriend-is-a-cat-girl.json) |
