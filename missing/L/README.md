@@ -4811,6 +4811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of an NPC | 381128 | [381128-life-of-an-npc.json](./381128-life-of-an-npc.json) |
 | Life of Black Tiger | 56892 | [56892-life-of-black-tiger.json](./56892-life-of-black-tiger.json) |
 | Life of Boris: Super Slav | 146974 | [146974-life-of-boris-super-slav.json](./146974-life-of-boris-super-slav.json) |
+| Life of Crime | 390828 | [390828-life-of-crime.json](./390828-life-of-crime.json) |
 | Life of D. Duck | 68260 | [68260-life-of-d-duck.json](./68260-life-of-d-duck.json) |
 | Life of D. Duck II | 70643 | [70643-life-of-d-duck-ii.json](./70643-life-of-d-duck-ii.json) |
 | Life of Delivery | 392246 | [392246-life-of-delivery.json](./392246-life-of-delivery.json) |
@@ -7953,6 +7954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looping Doors: Subway | 342488 | [342488-looping-doors-subway.json](./342488-looping-doors-subway.json) |
 | Looping World | 159465 | [159465-looping-world.json](./159465-looping-world.json) |
 | Looplash | 400209 | [400209-looplash.json](./400209-looplash.json) |
+| LoopMage: The Infinite Trials | 390835 | [390835-loopmage-the-infinite-trials.json](./390835-loopmage-the-infinite-trials.json) |
 | Loopmancer | 151934 | [151934-loopmancer.json](./151934-loopmancer.json) |
 | Loopmayor | 334295 | [334295-loopmayor.json](./334295-loopmayor.json) |
 | LooPool | 367003 | [367003-loopool.json](./367003-loopool.json) |
@@ -8349,6 +8351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost | 99158 | [99158-lost.json](./99158-lost.json) |
 | Lost & Alone: Adventure Escape | 90537 | [90537-lost-and-alone-adventure-escape.json](./90537-lost-and-alone-adventure-escape.json) |
 | Lost & Found | 110786 | [110786-lost-and-found.json](./110786-lost-and-found.json) |
+| Lost & Found | 390317 | [390317-lost-and-found.json](./390317-lost-and-found.json) |
 | Lost & Found | 404803 | [404803-lost-and-found.json](./404803-lost-and-found.json) |
 | Lost & Found Agency: Collector's Edition | 264760 | [264760-lost-and-found-agency-collectors-edition.json](./264760-lost-and-found-agency-collectors-edition.json) |
 | Lost & Found Collection | 341180 | [341180-lost-and-found-collection.json](./341180-lost-and-found-collection.json) |
