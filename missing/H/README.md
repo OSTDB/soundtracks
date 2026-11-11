@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hades 2 | 134619 | [134619-hades-2.json](./134619-hades-2.json) |
 | Hades Nebula | 13867 | [13867-hades-nebula.json](./13867-hades-nebula.json) |
 | Hades Uprising | 402009 | [402009-hades-uprising.json](./402009-hades-uprising.json) |
+| Hades-Plan | 345742 | [345742-hades-plan.json](./345742-hades-plan.json) |
 | Hades: Limited Edition | 146154 | [146154-hades-limited-edition.json](./146154-hades-limited-edition.json) |
 | Hades' Star | 56959 | [56959-hades-star.json](./56959-hades-star.json) |
 | Hades' Star: Dark Nebula | 208167 | [208167-hades-star-dark-nebula.json](./208167-hades-star-dark-nebula.json) |
@@ -722,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halley2061 | 320599 | [320599-halley2061.json](./320599-halley2061.json) |
 | Halliwell's Garden | 359347 | [359347-halliwells-garden.json](./359347-halliwells-garden.json) |
 | Hallo Spaceboy | 102217 | [102217-hallo-spaceboy.json](./102217-hallo-spaceboy.json) |
+| Hallow Blade | 346317 | [346317-hallow-blade.json](./346317-hallow-blade.json) |
 | Hallow Eve | 222842 | [222842-hallow-eve.json](./222842-hallow-eve.json) |
 | Hallow Hunt | 273709 | [273709-hallow-hunt.json](./273709-hallow-hunt.json) |
 | Hallow Maze | 336525 | [336525-hallow-maze.json](./336525-hallow-maze.json) |
@@ -4660,6 +4662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellivery | 364676 | [364676-hellivery.json](./364676-hellivery.json) |
 | Hellkick | 418557 | [418557-hellkick.json](./418557-hellkick.json) |
 | Hellkid: Hook & Jump | 184071 | [184071-hellkid-hook-and-jump.json](./184071-hellkid-hook-and-jump.json) |
+| Hellkind | 346289 | [346289-hellkind.json](./346289-hellkind.json) |
 | Hellkranye | 417982 | [417982-hellkranye.json](./417982-hellkranye.json) |
 | Helllllcafeeeee | 350979 | [350979-helllllcafeeeee.json](./350979-helllllcafeeeee.json) |
 | Hellmall | 173944 | [173944-hellmall.json](./173944-hellmall.json) |
@@ -9588,6 +9591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Studios Tycoon Game | 175061 | [175061-hollywood-studios-tycoon-game.json](./175061-hollywood-studios-tycoon-game.json) |
 | Hollywood Tycoon | 67958 | [67958-hollywood-tycoon.json](./67958-hollywood-tycoon.json) |
 | Hollywood Tycoon | 78747 | [78747-hollywood-tycoon.json](./78747-hollywood-tycoon.json) |
+| Hollywood U | 345740 | [345740-hollywood-u.json](./345740-hollywood-u.json) |
 | Hollywood Visionary | 35401 | [35401-hollywood-visionary.json](./35401-hollywood-visionary.json) |
 | Hollywoodle | 325824 | [325824-hollywoodle.json](./325824-hollywoodle.json) |
 | Holmes from Homes | 257184 | [257184-holmes-from-homes.json](./257184-holmes-from-homes.json) |
