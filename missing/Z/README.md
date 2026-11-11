@@ -2325,6 +2325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zonder: Real-World Travel Game | 282723 | [282723-zonder-real-world-travel-game.json](./282723-zonder-real-world-travel-game.json) |
 | Zone | 246223 | [246223-zone.json](./246223-zone.json) |
 | Zone | 358929 | [358929-zone.json](./358929-zone.json) |
+| Zone 1-70 | 387171 | [387171-zone-1-70.json](./387171-zone-1-70.json) |
 | Zone 10 | 119559 | [119559-zone-10.json](./119559-zone-10.json) |
 | Zone 100 | 246229 | [246229-zone-100.json](./246229-zone-100.json) |
 | Zone 13 | 312655 | [312655-zone-13.json](./312655-zone-13.json) |
