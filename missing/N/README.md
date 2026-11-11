@@ -7903,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nugatory | 399690 | [399690-nugatory.json](./399690-nugatory.json) |
 | Nugget & Penny: Adventure Machine | 121604 | [121604-nugget-and-penny-adventure-machine.json](./121604-nugget-and-penny-adventure-machine.json) |
 | Nugget Royale | 123253 | [123253-nugget-royale.json](./123253-nugget-royale.json) |
+| Nuggets New Songs | 365979 | [365979-nuggets-new-songs.json](./365979-nuggets-new-songs.json) |
 | Nuggets Slitherio | 383620 | [383620-nuggets-slitherio.json](./383620-nuggets-slitherio.json) |
 | Nuggie House: Cerberus | 241255 | [241255-nuggie-house-cerberus.json](./241255-nuggie-house-cerberus.json) |
 | Nuggle | 361270 | [361270-nuggle.json](./361270-nuggle.json) |
