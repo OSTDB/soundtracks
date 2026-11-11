@@ -2438,6 +2438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Story | 29336 | [29336-village-story.json](./29336-village-story.json) |
 | Village Supermarket Simulator: Old Times Edition | 370800 | [370800-village-supermarket-simulator-old-times-edition.json](./370800-village-supermarket-simulator-old-times-edition.json) |
 | Village Tale | 346698 | [346698-village-tale.json](./346698-village-tale.json) |
+| Village Tale: Supporter Pack | 357509 | [357509-village-tale-supporter-pack.json](./357509-village-tale-supporter-pack.json) |
 | Village Tanuki | 185138 | [185138-village-tanuki.json](./185138-village-tanuki.json) |
 | Village the Siberia | 192645 | [192645-village-the-siberia.json](./192645-village-the-siberia.json) |
 | Village Tycoon: Farm City Simulator | 275035 | [275035-village-tycoon-farm-city-simulator.json](./275035-village-tycoon-farm-city-simulator.json) |
