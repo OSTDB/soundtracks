@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Soccer World Cup | 120825 | [120825-car-soccer-world-cup.json](./120825-car-soccer-world-cup.json) |
 | Car Street | 349815 | [349815-car-street.json](./349815-car-street.json) |
 | Car Stunt Challenge 2018 | 103060 | [103060-car-stunt-challenge-2018.json](./103060-car-stunt-challenge-2018.json) |
+| Car Stunt Hero Simulator 2025 | 366758 | [366758-car-stunt-hero-simulator-2025.json](./366758-car-stunt-hero-simulator-2025.json) |
 | Car Tag | 295955 | [295955-car-tag.json](./295955-car-tag.json) |
 | Car Tehc | 171677 | [171677-car-tehc.json](./171677-car-tehc.json) |
 | Car Thief Simulator 2017 | 74209 | [74209-car-thief-simulator-2017.json](./74209-car-thief-simulator-2017.json) |
@@ -13211,6 +13212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Pets Pack | 305514 | [305514-coloring-pixels-pets-pack.json](./305514-coloring-pixels-pets-pack.json) |
 | Coloring Pixels: Pirates Pack | 252239 | [252239-coloring-pixels-pirates-pack.json](./252239-coloring-pixels-pirates-pack.json) |
 | Coloring Pixels: Platformers | 193422 | [193422-coloring-pixels-platformers.json](./193422-coloring-pixels-platformers.json) |
+| Coloring Pixels: Playing Cards | 367320 | [367320-coloring-pixels-playing-cards.json](./367320-coloring-pixels-playing-cards.json) |
 | Coloring Pixels: R/Place 2023 Pack | 261089 | [261089-coloring-pixels-r-place-2023-pack.json](./261089-coloring-pixels-r-place-2023-pack.json) |
 | Coloring Pixels: r/Place Pack | 350763 | [350763-coloring-pixels-r-place-pack.json](./350763-coloring-pixels-r-place-pack.json) |
 | Coloring Pixels: Realistic 2 Pack | 351623 | [351623-coloring-pixels-realistic-2-pack.json](./351623-coloring-pixels-realistic-2-pack.json) |
