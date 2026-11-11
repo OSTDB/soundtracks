@@ -12064,6 +12064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Nova Sun | 288201 | [288201-pokemon-nova-sun.json](./288201-pokemon-nova-sun.json) |
 | Pokémon Null | 402136 | [402136-pokemon-null.json](./402136-pokemon-null.json) |
 | Pokémon Odyssey | 300329 | [300329-pokemon-odyssey.json](./300329-pokemon-odyssey.json) |
+| Pokémon Old World Dawn | 336208 | [336208-pokemon-old-world-dawn.json](./336208-pokemon-old-world-dawn.json) |
 | Pokémon Omega Ruby and Alpha Sapphire Special Demo Version | 313320 | [313320-pokemon-omega-ruby-and-alpha-sapphire-special-demo-version.json](./313320-pokemon-omega-ruby-and-alpha-sapphire-special-demo-version.json) |
 | Pokémon Omega Ruby and Pokémon Alpha Sapphire Dual Pack | 159108 | [159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json](./159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json) |
 | Pokémon Omicron | 16615 | [16615-pokemon-omicron.json](./16615-pokemon-omicron.json) |
@@ -12298,6 +12299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Trading Card Game Pocket: Paldean Wonders | 393103 | [393103-pokemon-trading-card-game-pocket-paldean-wonders.json](./393103-pokemon-trading-card-game-pocket-paldean-wonders.json) |
 | Pokémon Trading Card Game Pocket: Pulsing Aura | 401264 | [401264-pokemon-trading-card-game-pocket-pulsing-aura.json](./401264-pokemon-trading-card-game-pocket-pulsing-aura.json) |
 | Pokémon Trading Card Game Pocket: Secluded Springs | 363547 | [363547-pokemon-trading-card-game-pocket-secluded-springs.json](./363547-pokemon-trading-card-game-pocket-secluded-springs.json) |
+| Pokémon Trading Card Game Pocket: Shining Revelry | 336232 | [336232-pokemon-trading-card-game-pocket-shining-revelry.json](./336232-pokemon-trading-card-game-pocket-shining-revelry.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
 | Pokémon Trading Card Game: Generations | 276109 | [276109-pokemon-trading-card-game-generations.json](./276109-pokemon-trading-card-game-generations.json) |
 | Pokémon Trading Card Game: Kanto | 276112 | [276112-pokemon-trading-card-game-kanto.json](./276112-pokemon-trading-card-game-kanto.json) |
