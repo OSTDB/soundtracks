@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.W.'s Nightmare | 248212 | [248212-d-w-s-nightmare.json](./248212-d-w-s-nightmare.json) |
 | D.W.A.R.F.S. | 36414 | [36414-d-w-a-r-f-s.json](./36414-d-w-a-r-f-s.json) |
 | D' | 174654 | [174654-d.json](./174654-d.json) |
+| D' Mär Lucidium: Grimmgart | 393175 | [393175-d-mar-lucidium-grimmgart.json](./393175-d-mar-lucidium-grimmgart.json) |
 | D'ark | 412132 | [412132-dark.json](./412132-dark.json) |
 | D'ark Gaiden | 412135 | [412135-dark-gaiden.json](./412135-dark-gaiden.json) |
 | D'Arrancar | 57794 | [57794-darrancar.json](./57794-darrancar.json) |
@@ -8385,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Story: Reporter | 152552 | [152552-detective-story-reporter.json](./152552-detective-story-reporter.json) |
 | Detective Time | 180035 | [180035-detective-time.json](./180035-detective-time.json) |
 | Detective Turner: If Looks Could Kill | 404825 | [404825-detective-turner-if-looks-could-kill.json](./404825-detective-turner-if-looks-could-kill.json) |
+| Detective Turtletop: Who Killed Harambe? | 393197 | [393197-detective-turtletop-who-killed-harambe.json](./393197-detective-turtletop-who-killed-harambe.json) |
 | Detective VR | 360772 | [360772-detective-vr.json](./360772-detective-vr.json) |
 | Detective VR: NFT Secret Files | 168114 | [168114-detective-vr-nft-secret-files.json](./168114-detective-vr-nft-secret-files.json) |
 | Detective Worden | 358876 | [358876-detective-worden.json](./358876-detective-worden.json) |
@@ -10126,6 +10128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino & Chill | 339938 | [339938-dino-and-chill.json](./339938-dino-and-chill.json) |
 | Dino 3D | 268817 | [268817-dino-3d.json](./268817-dino-3d.json) |
 | Dino Adventure Legend | 288130 | [288130-dino-adventure-legend.json](./288130-dino-adventure-legend.json) |
+| Dino Age: The First Fracture | 393194 | [393194-dino-age-the-first-fracture.json](./393194-dino-age-the-first-fracture.json) |
 | Dino and Aliens | 93434 | [93434-dino-and-aliens.json](./93434-dino-and-aliens.json) |
 | Dino Attack | 343258 | [343258-dino-attack.json](./343258-dino-attack.json) |
 | Dino Battle Royale | 176559 | [176559-dino-battle-royale.json](./176559-dino-battle-royale.json) |
@@ -11460,6 +11463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disposable Heroes | 14037 | [14037-disposable-heroes.json](./14037-disposable-heroes.json) |
 | Disposable Heroes | 146079 | [146079-disposable-heroes.json](./146079-disposable-heroes.json) |
 | Disposable heroes 2 : The curse that killed a queen | 173193 | [173193-disposable-heroes-2-the-curse-that-killed-a-queen.json](./173193-disposable-heroes-2-the-curse-that-killed-a-queen.json) |
+| Disposabot | 393089 | [393089-disposabot.json](./393089-disposabot.json) |
 | Disposal Of Otherworldly Monsters | 271223 | [271223-disposal-of-otherworldly-monsters.json](./271223-disposal-of-otherworldly-monsters.json) |
 | Disposition | 243461 | [243461-disposition.json](./243461-disposition.json) |
 | Disposition | 318007 | [318007-disposition.json](./318007-disposition.json) |
@@ -18341,6 +18345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dry Bones | 345935 | [345935-dry-bones.json](./345935-dry-bones.json) |
 | Dry Erase: Infinite VR Whiteboard | 51559 | [51559-dry-erase-infinite-vr-whiteboard.json](./51559-dry-erase-infinite-vr-whiteboard.json) |
 | Dry Hazard | 181718 | [181718-dry-hazard.json](./181718-dry-hazard.json) |
+| Dry Meadow | 393173 | [393173-dry-meadow.json](./393173-dry-meadow.json) |
 | Dry Path | 181808 | [181808-dry-path.json](./181808-dry-path.json) |
 | Dry School | 217791 | [217791-dry-school.json](./217791-dry-school.json) |
 | Dry Sorrow | 271783 | [271783-dry-sorrow.json](./271783-dry-sorrow.json) |
