@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A House Inside Me | 397286 | [397286-a-house-inside-me.json](./397286-a-house-inside-me.json) |
 | A House Made of Sweets | 387931 | [387931-a-house-made-of-sweets.json](./387931-a-house-made-of-sweets.json) |
 | A House of Endless Windows | 345040 | [345040-a-house-of-endless-windows.json](./345040-a-house-of-endless-windows.json) |
+| A House of Locked Secrets | 326876 | [326876-a-house-of-locked-secrets.json](./326876-a-house-of-locked-secrets.json) |
 | A House of Thieves | 141992 | [141992-a-house-of-thieves.json](./141992-a-house-of-thieves.json) |
 | A House That Glows | 389593 | [389593-a-house-that-glows.json](./389593-a-house-that-glows.json) |
 | A housewife Hiroko Yamaguchi is reborn in the alternative world with her husband | 82927 | [82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json](./82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json) |
@@ -1535,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Very Special Dog | 312856 | [312856-a-very-special-dog.json](./312856-a-very-special-dog.json) |
 | A Very Splendid Otome Game | 321555 | [321555-a-very-splendid-otome-game.json](./321555-a-very-splendid-otome-game.json) |
 | A Very Super Mario World | 260811 | [260811-a-very-super-mario-world.json](./260811-a-very-super-mario-world.json) |
+| A Very Thiefy Christmas Special | 326875 | [326875-a-very-thiefy-christmas-special.json](./326875-a-very-thiefy-christmas-special.json) |
 | A Vessel of Frustration | 398569 | [398569-a-vessel-of-frustration.json](./398569-a-vessel-of-frustration.json) |
 | A Viagem de Vasco da Gama à Índia | 405497 | [405497-a-viagem-de-vasco-da-gama-a-india.json](./405497-a-viagem-de-vasco-da-gama-a-india.json) |
 | A View to a Kill: The Computer Game | 26117 | [26117-a-view-to-a-kill-the-computer-game.json](./26117-a-view-to-a-kill-the-computer-game.json) |
@@ -13024,6 +13026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarius Baseball: Genkai no, Sono Saki e. | 268110 | [268110-aquarius-baseball-genkai-no-sono-saki-e.json](./268110-aquarius-baseball-genkai-no-sono-saki-e.json) |
 | Aquarius Days | 97744 | [97744-aquarius-days.json](./97744-aquarius-days.json) |
 | Aquarius Days 2 | 97648 | [97648-aquarius-days-2.json](./97648-aquarius-days-2.json) |
+| Aquarun | 326869 | [326869-aquarun.json](./326869-aquarun.json) |
 | Aquaryouns World | 121117 | [121117-aquaryouns-world.json](./121117-aquaryouns-world.json) |
 | Aquascapers | 258345 | [258345-aquascapers.json](./258345-aquascapers.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
