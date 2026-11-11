@@ -2226,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiborg: Descent | 393609 | [393609-kiborg-descent.json](./393609-kiborg-descent.json) |
 | Kibu | 252779 | [252779-kibu.json](./252779-kibu.json) |
 | Kibus Moon Rock | 357146 | [357146-kibus-moon-rock.json](./357146-kibus-moon-rock.json) |
+| Kichi Guy | 393482 | [393482-kichi-guy.json](./393482-kichi-guy.json) |
 | Kichiku Megane | 142451 | [142451-kichiku-megane.json](./142451-kichiku-megane.json) |
 | Kichikuou Rance | 132645 | [132645-kichikuou-rance.json](./132645-kichikuou-rance.json) |
 | Kick & Fennick | 24534 | [24534-kick-and-fennick.json](./24534-kick-and-fennick.json) |
@@ -3656,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Kroz | 73796 | [73796-kingdom-of-kroz.json](./73796-kingdom-of-kroz.json) |
 | Kingdom of Kroz II | 70744 | [70744-kingdom-of-kroz-ii.json](./70744-kingdom-of-kroz-ii.json) |
 | Kingdom of Kuru: The Great Race | 149277 | [149277-kingdom-of-kuru-the-great-race.json](./149277-kingdom-of-kuru-the-great-race.json) |
+| Kingdom of Liars: Stonepath | 393158 | [393158-kingdom-of-liars-stonepath.json](./393158-kingdom-of-liars-stonepath.json) |
 | Kingdom of Lies | 120102 | [120102-kingdom-of-lies.json](./120102-kingdom-of-lies.json) |
 | Kingdom of Lies | 183804 | [183804-kingdom-of-lies.json](./183804-kingdom-of-lies.json) |
 | Kingdom of Loathing: The Home Game | 163162 | [163162-kingdom-of-loathing-the-home-game.json](./163162-kingdom-of-loathing-the-home-game.json) |
