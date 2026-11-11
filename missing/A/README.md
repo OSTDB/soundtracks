@@ -11718,6 +11718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another FPS Game | 150774 | [150774-another-fps-game.json](./150774-another-fps-game.json) |
 | Another Game About Automation | 391380 | [391380-another-game-about-automation.json](./391380-another-game-about-automation.json) |
 | Another Game About Clicking | 348859 | [348859-another-game-about-clicking.json](./348859-another-game-about-clicking.json) |
+| Another Game About Digging a Hole | 338432 | [338432-another-game-about-digging-a-hole.json](./338432-another-game-about-digging-a-hole.json) |
 | Another Generic Space Shooter | 202594 | [202594-another-generic-space-shooter.json](./202594-another-generic-space-shooter.json) |
 | Another Happiness | 264470 | [264470-another-happiness.json](./264470-another-happiness.json) |
 | Another Hardcore Game | 110995 | [110995-another-hardcore-game.json](./110995-another-hardcore-game.json) |
@@ -19516,6 +19517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awkward Girls | 149421 | [149421-awkward-girls.json](./149421-awkward-girls.json) |
 | Awkward Goalie | 246962 | [246962-awkward-goalie.json](./246962-awkward-goalie.json) |
 | Awkward Todd | 28448 | [28448-awkward-todd.json](./28448-awkward-todd.json) |
+| Awkward Valley | 337903 | [337903-awkward-valley.json](./337903-awkward-valley.json) |
 | Awoken | 408377 | [408377-awoken.json](./408377-awoken.json) |
 | Awoken Madness | 271201 | [271201-awoken-madness.json](./271201-awoken-madness.json) |
 | Awoken: Chapter One of Reverie | 168849 | [168849-awoken-chapter-one-of-reverie.json](./168849-awoken-chapter-one-of-reverie.json) |
