@@ -7294,6 +7294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards and Warlords | 30132 | [30132-wizards-and-warlords.json](./30132-wizards-and-warlords.json) |
 | Wizards and Warp Drives | 63538 | [63538-wizards-and-warp-drives.json](./63538-wizards-and-warp-drives.json) |
 | Wizards Home | 37381 | [37381-wizards-home.json](./37381-wizards-home.json) |
+| Wizards in Shorts | 323464 | [323464-wizards-in-shorts.json](./323464-wizards-in-shorts.json) |
 | Wizards Legacy: Nightmare Park Manager Simulator | 261345 | [261345-wizards-legacy-nightmare-park-manager-simulator.json](./261345-wizards-legacy-nightmare-park-manager-simulator.json) |
 | Wizards of Alamar | 182670 | [182670-wizards-of-alamar.json](./182670-wizards-of-alamar.json) |
 | Wizards of Chaos | 216823 | [216823-wizards-of-chaos.json](./216823-wizards-of-chaos.json) |
