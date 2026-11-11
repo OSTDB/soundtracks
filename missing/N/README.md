@@ -3031,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netcromancer | 183753 | [183753-netcromancer.json](./183753-netcromancer.json) |
 | NetDive | 358862 | [358862-netdive.json](./358862-netdive.json) |
 | Netdreams Sudoku | 276625 | [276625-netdreams-sudoku.json](./276625-netdreams-sudoku.json) |
+| NetEscape | 334961 | [334961-netescape.json](./334961-netescape.json) |
 | Netflix Infinite Runner | 76873 | [76873-netflix-infinite-runner.json](./76873-netflix-infinite-runner.json) |
 | Netflix Puzzled | 364819 | [364819-netflix-puzzled.json](./364819-netflix-puzzled.json) |
 | Netflix Stories | 358569 | [358569-netflix-stories.json](./358569-netflix-stories.json) |
@@ -4419,6 +4420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niflheim Academy | 225672 | [225672-niflheim-academy.json](./225672-niflheim-academy.json) |
 | Niflhel Survival | 152594 | [152594-niflhel-survival.json](./152594-niflhel-survival.json) |
 | Niflhel's Fables: The Book of Gypsies | 199315 | [199315-niflhels-fables-the-book-of-gypsies.json](./199315-niflhels-fables-the-book-of-gypsies.json) |
+| Nifty | 334963 | [334963-nifty.json](./334963-nifty.json) |
 | Nifty Drifty | 197701 | [197701-nifty-drifty.json](./197701-nifty-drifty.json) |
 | Nifty Island | 282824 | [282824-nifty-island.json](./282824-nifty-island.json) |
 | Nifty League | 184289 | [184289-nifty-league.json](./184289-nifty-league.json) |
@@ -5046,6 +5048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights of Nil | 390581 | [390581-nights-of-nil.json](./390581-nights-of-nil.json) |
 | Nights of the Sleeping God | 408011 | [408011-nights-of-the-sleeping-god.json](./408011-nights-of-the-sleeping-god.json) |
 | Nights To Remember | 263772 | [263772-nights-to-remember.json](./263772-nights-to-remember.json) |
+| Nights: Dream Wheel | 334966 | [334966-nights-dream-wheel.json](./334966-nights-dream-wheel.json) |
 | Nights: Journey of Dreams | 5074 | [5074-nights-journey-of-dreams.json](./5074-nights-journey-of-dreams.json) |
 | Nights: Moonlight Dreams... | 264895 | [264895-nights-moonlight-dreams.json](./264895-nights-moonlight-dreams.json) |
 | Nights: Realm of Dreams | 321817 | [321817-nights-realm-of-dreams.json](./321817-nights-realm-of-dreams.json) |
