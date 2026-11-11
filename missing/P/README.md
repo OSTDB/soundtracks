@@ -839,6 +839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paintboss - Car Painting VR | 75909 | [75909-paintboss-car-painting-vr.json](./75909-paintboss-car-painting-vr.json) |
 | Paintbrush Warrior | 339130 | [339130-paintbrush-warrior.json](./339130-paintbrush-warrior.json) |
 | Paintcan Panic | 357352 | [357352-paintcan-panic.json](./357352-paintcan-panic.json) |
+| Painted Echoes | 347423 | [347423-painted-echoes.json](./347423-painted-echoes.json) |
 | Painted Heart | 151581 | [151581-painted-heart.json](./151581-painted-heart.json) |
 | Painted In Blood | 303709 | [303709-painted-in-blood.json](./303709-painted-in-blood.json) |
 | Painted Kingdoms | 392796 | [392796-painted-kingdoms.json](./392796-painted-kingdoms.json) |
@@ -17780,6 +17781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prototype Franchise Pack | 99787 | [99787-prototype-franchise-pack.json](./99787-prototype-franchise-pack.json) |
 | Prototype is !Lisa | 374515 | [374515-prototype-is-lisa.json](./374515-prototype-is-lisa.json) |
 | Prototype Jam 3 | 271192 | [271192-prototype-jam-3.json](./271192-prototype-jam-3.json) |
+| Prototype Juan: A Tale of Two Mundos | 347399 | [347399-prototype-juan-a-tale-of-two-mundos.json](./347399-prototype-juan-a-tale-of-two-mundos.json) |
 | Prototype Mansion - Used No Cover | 77443 | [77443-prototype-mansion-used-no-cover.json](./77443-prototype-mansion-used-no-cover.json) |
 | Prototype Mint B | 332403 | [332403-prototype-mint-b.json](./332403-prototype-mint-b.json) |
 | Prototype N | 215210 | [215210-prototype-n.json](./215210-prototype-n.json) |
@@ -18567,6 +18569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch the Rats | 104102 | [104102-punch-the-rats.json](./104102-punch-the-rats.json) |
 | Punch the Stool John | 172510 | [172510-punch-the-stool-john.json](./172510-punch-the-stool-john.json) |
 | Punch The Undead | 291519 | [291519-punch-the-undead.json](./291519-punch-the-undead.json) |
+| Punch to Glory | 347374 | [347374-punch-to-glory.json](./347374-punch-to-glory.json) |
 | Punch TV | 361367 | [361367-punch-tv.json](./361367-punch-tv.json) |
 | Punch Upon a Time | 399204 | [399204-punch-upon-a-time.json](./399204-punch-upon-a-time.json) |
 | Punch Your Way Out | 424703 | [424703-punch-your-way-out.json](./424703-punch-your-way-out.json) |
