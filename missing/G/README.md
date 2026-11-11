@@ -1728,6 +1728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganbare Goemon 2 | 74284 | [74284-ganbare-goemon-2.json](./74284-ganbare-goemon-2.json) |
 | Ganbare Goemon 2: Kiteretsu Shogun McGuiness | 42413 | [42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json](./42413-ganbare-goemon-2-kiteretsu-shogun-mcguiness.json) |
 | Ganbare Goemon 3: Shishijuurokubee no Karakuri Manjigatame | 42412 | [42412-ganbare-goemon-3-shishijuurokubee-no-karakuri-manjigatame.json](./42412-ganbare-goemon-3-shishijuurokubee-no-karakuri-manjigatame.json) |
+| Ganbare Goemon Daishuugo | 388461 | [388461-ganbare-goemon-daishuugo.json](./388461-ganbare-goemon-daishuugo.json) |
 | Ganbare Goemon Gaiden 2: Tenka no Zaihou | 48612 | [48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json](./48612-ganbare-goemon-gaiden-2-tenka-no-zaihou.json) |
 | Ganbare Goemon Gaiden: Kieta Ougon Kiseru | 48613 | [48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json](./48613-ganbare-goemon-gaiden-kieta-ougon-kiseru.json) |
 | Ganbare Goemon: Dosukoi! Harite Ichiban | 186462 | [186462-ganbare-goemon-dosukoi-harite-ichiban.json](./186462-ganbare-goemon-dosukoi-harite-ichiban.json) |
@@ -8233,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Granblue Fantasy: Relink - Color Pack 5 | 312004 | [312004-granblue-fantasy-relink-color-pack-5.json](./312004-granblue-fantasy-relink-color-pack-5.json) |
 | Granblue Fantasy: Relink - Emote Expansion Set: Grab Bag | 312002 | [312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json](./312002-granblue-fantasy-relink-emote-expansion-set-grab-bag.json) |
 | Granblue Fantasy: Relink - Emote Expansion Set: I Work Out | 305779 | [305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json](./305779-granblue-fantasy-relink-emote-expansion-set-i-work-out.json) |
+| Granblue Fantasy: Relink - Endless Ragnarok | 388441 | [388441-granblue-fantasy-relink-endless-ragnarok.json](./388441-granblue-fantasy-relink-endless-ragnarok.json) |
 | Granblue Fantasy: Versus - Anre | 156324 | [156324-granblue-fantasy-versus-anre.json](./156324-granblue-fantasy-versus-anre.json) |
 | Granblue Fantasy: Versus - Beelzebub | 156322 | [156322-granblue-fantasy-versus-beelzebub.json](./156322-granblue-fantasy-versus-beelzebub.json) |
 | Granblue Fantasy: Versus - Belial | 156321 | [156321-granblue-fantasy-versus-belial.json](./156321-granblue-fantasy-versus-belial.json) |
