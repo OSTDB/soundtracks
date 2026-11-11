@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jason: Coming of Age | 344882 | [344882-jason-coming-of-age.json](./344882-jason-coming-of-age.json) |
 | Jason's Gem | 36916 | [36916-jasons-gem.json](./36916-jasons-gem.json) |
 | Jasper and the City of Lights | 211237 | [211237-jasper-and-the-city-of-lights.json](./211237-jasper-and-the-city-of-lights.json) |
+| Jasper Redds vs The Ares Belt | 371144 | [371144-jasper-redds-vs-the-ares-belt.json](./371144-jasper-redds-vs-the-ares-belt.json) |
 | Jasper Vice: Legends Untold | 197425 | [197425-jasper-vice-legends-untold.json](./197425-jasper-vice-legends-untold.json) |
 | Jasper! | 92971 | [92971-jasper.json](./92971-jasper.json) |
 | Jasper's Dream | 220044 | [220044-jaspers-dream.json](./220044-jaspers-dream.json) |
