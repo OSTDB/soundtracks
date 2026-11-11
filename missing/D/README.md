@@ -3478,6 +3478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: MAD JF-17 Thunder Campaign by Stone Sky | 325540 | [325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json](./325540-dcs-world-mad-jf-17-thunder-campaign-by-stone-sky.json) |
 | DCS World: Marianas | 162859 | [162859-dcs-world-marianas.json](./162859-dcs-world-marianas.json) |
 | DCS World: Marianas WWII Map | 408127 | [408127-dcs-world-marianas-wwii-map.json](./408127-dcs-world-marianas-wwii-map.json) |
+| DCS World: MB-339 | 318685 | [318685-dcs-world-mb-339.json](./318685-dcs-world-mb-339.json) |
 | DCS World: Mi-24P Hind | 156295 | [156295-dcs-world-mi-24p-hind.json](./156295-dcs-world-mi-24p-hind.json) |
 | DCS World: Mi-24P The Border Prequel Campaign by Armen Murazyan | 261935 | [261935-dcs-world-mi-24p-the-border-prequel-campaign-by-armen-murazyan.json](./261935-dcs-world-mi-24p-the-border-prequel-campaign-by-armen-murazyan.json) |
 | DCS World: Mi-8 MTV2 Magnificent Eight | 156291 | [156291-dcs-world-mi-8-mtv2-magnificent-eight.json](./156291-dcs-world-mi-8-mtv2-magnificent-eight.json) |
@@ -3745,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Wheel: Battle Royal | 109718 | [109718-dead-by-wheel-battle-royal.json](./109718-dead-by-wheel-battle-royal.json) |
 | Dead by zero | 95996 | [95996-dead-by-zero.json](./95996-dead-by-zero.json) |
 | Dead Cards | 301459 | [301459-dead-cards.json](./301459-dead-cards.json) |
+| Dead Cart | 318680 | [318680-dead-cart.json](./318680-dead-cart.json) |
 | Dead Castle | 117625 | [117625-dead-castle.json](./117625-dead-castle.json) |
 | Dead Cat Bounce | 387631 | [387631-dead-cat-bounce.json](./387631-dead-cat-bounce.json) |
 | Dead Cells: Action Game of the Year | 122268 | [122268-dead-cells-action-game-of-the-year.json](./122268-dead-cells-action-game-of-the-year.json) |
