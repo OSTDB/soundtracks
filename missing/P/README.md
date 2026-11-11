@@ -11230,6 +11230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pogo Sudoku | 354990 | [354990-pogo-sudoku.json](./354990-pogo-sudoku.json) |
 | Pogo Swing! | 388176 | [388176-pogo-swing.json](./388176-pogo-swing.json) |
 | Pogo Up! | 365289 | [365289-pogo-up.json](./365289-pogo-up.json) |
+| Pogo With Friends | 392551 | [392551-pogo-with-friends.json](./392551-pogo-with-friends.json) |
 | Pogo-Gogo | 291784 | [291784-pogo-gogo.json](./291784-pogo-gogo.json) |
 | Pogo-Rocket | 154030 | [154030-pogo-rocket.json](./154030-pogo-rocket.json) |
 | Pogo: Addiction Solitaire | 209352 | [209352-pogo-addiction-solitaire.json](./209352-pogo-addiction-solitaire.json) |
@@ -13309,6 +13310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Fu | 209328 | [209328-pop-fu.json](./209328-pop-fu.json) |
 | Pop Gems | 232575 | [232575-pop-gems.json](./232575-pop-gems.json) |
 | Pop Idol: The Official Video Game | 65883 | [65883-pop-idol-the-official-video-game.json](./65883-pop-idol-the-official-video-game.json) |
+| Pop in Q: Dance for Quintet | 392574 | [392574-pop-in-q-dance-for-quintet.json](./392574-pop-in-q-dance-for-quintet.json) |
 | Pop Island | 68124 | [68124-pop-island.json](./68124-pop-island.json) |
 | Pop Island: Paperfield | 84811 | [84811-pop-island-paperfield.json](./84811-pop-island-paperfield.json) |
 | Pop Islands | 94868 | [94868-pop-islands.json](./94868-pop-islands.json) |
