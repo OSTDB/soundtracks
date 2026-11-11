@@ -327,6 +327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactic Legends | 310202 | [310202-tactic-legends.json](./310202-tactic-legends.json) |
 | Tactica: First Contact | 396467 | [396467-tactica-first-contact.json](./396467-tactica-first-contact.json) |
 | Tactical | 83530 | [83530-tactical.json](./83530-tactical.json) |
+| Tactical Annihilation | 348501 | [348501-tactical-annihilation.json](./348501-tactical-annihilation.json) |
 | Tactical AR | 74366 | [74366-tactical-ar.json](./74366-tactical-ar.json) |
 | Tactical Armor Custom Gasaraki | 43904 | [43904-tactical-armor-custom-gasaraki.json](./43904-tactical-armor-custom-gasaraki.json) |
 | Tactical Assassin | 234160 | [234160-tactical-assassin.json](./234160-tactical-assassin.json) |
@@ -5483,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thalassophobia | 189294 | [189294-thalassophobia.json](./189294-thalassophobia.json) |
 | Thalassophobia | 266576 | [266576-thalassophobia.json](./266576-thalassophobia.json) |
 | Thalassophobia | 303799 | [303799-thalassophobia.json](./303799-thalassophobia.json) |
+| Thalia | 348482 | [348482-thalia.json](./348482-thalia.json) |
 | Thalu: Dreamtime is Now | 113707 | [113707-thalu-dreamtime-is-now.json](./113707-thalu-dreamtime-is-now.json) |
 | Thamz in a Wheelchair | 268720 | [268720-thamz-in-a-wheelchair.json](./268720-thamz-in-a-wheelchair.json) |
 | Thanatophobia | 27393 | [27393-thanatophobia.json](./27393-thanatophobia.json) |
@@ -5879,6 +5881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Bucken Berry and Ala-Gold | 367691 | [367691-the-adventures-of-bucken-berry-and-ala-gold.json](./367691-the-adventures-of-bucken-berry-and-ala-gold.json) |
 | The Adventures of Bunny and Pig | 265127 | [265127-the-adventures-of-bunny-and-pig.json](./265127-the-adventures-of-bunny-and-pig.json) |
 | The Adventures of Busy Billy | 206207 | [206207-the-adventures-of-busy-billy.json](./206207-the-adventures-of-busy-billy.json) |
+| The Adventures of Candle Boy | 347963 | [347963-the-adventures-of-candle-boy.json](./347963-the-adventures-of-candle-boy.json) |
 | The Adventures of Capitano Navarro | 51512 | [51512-the-adventures-of-capitano-navarro.json](./51512-the-adventures-of-capitano-navarro.json) |
 | The Adventures of Captain Becky | 311710 | [311710-the-adventures-of-captain-becky.json](./311710-the-adventures-of-captain-becky.json) |
 | The Adventures of Captain Comic | 9528 | [9528-the-adventures-of-captain-comic.json](./9528-the-adventures-of-captain-comic.json) |
@@ -10678,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Girl's Moving Castle | 291759 | [291759-the-girls-moving-castle.json](./291759-the-girls-moving-castle.json) |
 | The Girlfriend From My Novel | 211727 | [211727-the-girlfriend-from-my-novel.json](./211727-the-girlfriend-from-my-novel.json) |
 | The Given | 257265 | [257265-the-given.json](./257265-the-given.json) |
+| The Giving Well | 348490 | [348490-the-giving-well.json](./348490-the-giving-well.json) |
 | The Glacial Strain | 293696 | [293696-the-glacial-strain.json](./293696-the-glacial-strain.json) |
 | The Glade | 195886 | [195886-the-glade.json](./195886-the-glade.json) |
 | The Glade | 38806 | [38806-the-glade.json](./38806-the-glade.json) |
@@ -11971,6 +11975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island Castaway: Lost World | 107264 | [107264-the-island-castaway-lost-world.json](./107264-the-island-castaway-lost-world.json) |
 | The Island of Bad Women | 360082 | [360082-the-island-of-bad-women.json](./360082-the-island-of-bad-women.json) |
 | The Island of Crossed Destinies | 353356 | [353356-the-island-of-crossed-destinies.json](./353356-the-island-of-crossed-destinies.json) |
+| The Island of Doctor Morose | 348474 | [348474-the-island-of-doctor-morose.json](./348474-the-island-of-doctor-morose.json) |
 | The Island of Dr. Frankenstein | 21784 | [21784-the-island-of-dr-frankenstein.json](./21784-the-island-of-dr-frankenstein.json) |
 | The Island of Dr. Yepstein | 171304 | [171304-the-island-of-dr-yepstein.json](./171304-the-island-of-dr-yepstein.json) |
 | The Island of Kesmai | 344888 | [344888-the-island-of-kesmai.json](./344888-the-island-of-kesmai.json) |
@@ -12565,6 +12570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lair of Nekro Neko | 307695 | [307695-the-lair-of-nekro-neko.json](./307695-the-lair-of-nekro-neko.json) |
 | The Lake House: Children of Silence | 54299 | [54299-the-lake-house-children-of-silence.json](./54299-the-lake-house-children-of-silence.json) |
 | The Lake House: Children of Silence - Collector's Edition | 53263 | [53263-the-lake-house-children-of-silence-collectors-edition.json](./53263-the-lake-house-children-of-silence-collectors-edition.json) |
+| The Lake Lady | 348486 | [348486-the-lake-lady.json](./348486-the-lake-lady.json) |
 | The Lake of the Blind Mannequin | 228637 | [228637-the-lake-of-the-blind-mannequin.json](./228637-the-lake-of-the-blind-mannequin.json) |
 | The Lamb of the Sabbath is Standing Upon the Hill | 346651 | [346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json](./346651-the-lamb-of-the-sabbath-is-standing-upon-the-hill.json) |
 | The Lament of a Lifeless Star | 286029 | [286029-the-lament-of-a-lifeless-star.json](./286029-the-lament-of-a-lifeless-star.json) |
@@ -19805,6 +19811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walking Evil | 128157 | [128157-the-walking-evil.json](./128157-the-walking-evil.json) |
 | The Walking Fish | 232911 | [232911-the-walking-fish.json](./232911-the-walking-fish.json) |
 | The Walking Hero | 194816 | [194816-the-walking-hero.json](./194816-the-walking-hero.json) |
+| The Walking Pet | 348503 | [348503-the-walking-pet.json](./348503-the-walking-pet.json) |
 | The Walking Stick | 189785 | [189785-the-walking-stick.json](./189785-the-walking-stick.json) |
 | The Walking Trade | 345095 | [345095-the-walking-trade.json](./345095-the-walking-trade.json) |
 | The Walking Vegetables | 61617 | [61617-the-walking-vegetables.json](./61617-the-walking-vegetables.json) |
