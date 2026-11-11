@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -5059,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be Richest! | 140984 | [140984-be-richest.json](./140984-be-richest.json) |
 | Be Silent | 291840 | [291840-be-silent.json](./291840-be-silent.json) |
 | Be the Block | 420578 | [420578-be-the-block.json](./420578-be-the-block.json) |
+| Be the Bullet | 332142 | [332142-be-the-bullet.json](./332142-be-the-bullet.json) |
 | Be the Hero | 75796 | [75796-be-the-hero.json](./75796-be-the-hero.json) |
 | Be the King: Enjoy Your Trip to the Top | 106997 | [106997-be-the-king-enjoy-your-trip-to-the-top.json](./106997-be-the-king-enjoy-your-trip-to-the-top.json) |
 | Be the One | 154387 | [154387-be-the-one.json](./154387-be-the-one.json) |
@@ -17122,6 +17124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Sword 5: The Serpent's Curse - Episode 1 | 94068 | [94068-broken-sword-5-the-serpents-curse-episode-1.json](./94068-broken-sword-5-the-serpents-curse-episode-1.json) |
 | Broken Sword 5: The Serpent's Curse - Episode 2 | 94069 | [94069-broken-sword-5-the-serpents-curse-episode-2.json](./94069-broken-sword-5-the-serpents-curse-episode-2.json) |
 | Broken Sword 5: The Serpent's Curse - Premium Edition | 136170 | [136170-broken-sword-5-the-serpents-curse-premium-edition.json](./136170-broken-sword-5-the-serpents-curse-premium-edition.json) |
+| Broken Sword Collection | 332140 | [332140-broken-sword-collection.json](./332140-broken-sword-collection.json) |
 | Broken Sword: 20th Anniversary Collection | 52677 | [52677-broken-sword-20th-anniversary-collection.json](./52677-broken-sword-20th-anniversary-collection.json) |
 | Broken Sword: Parzival’s Stone | 262650 | [262650-broken-sword-parzival-s-stone.json](./262650-broken-sword-parzival-s-stone.json) |
 | Broken Sword: Shadow of the Templars - The Director's Cut | 206510 | [206510-broken-sword-shadow-of-the-templars-the-directors-cut.json](./206510-broken-sword-shadow-of-the-templars-the-directors-cut.json) |
@@ -17613,6 +17616,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble | 2630 | [2630-bubble-bobble.json](./2630-bubble-bobble.json) |
 | Bubble Bobble | 306222 | [306222-bubble-bobble.json](./306222-bubble-bobble.json) |
 | Bubble Bobble | 313543 | [313543-bubble-bobble.json](./313543-bubble-bobble.json) |
+| Bubble Bobble | 332123 | [332123-bubble-bobble.json](./332123-bubble-bobble.json) |
+| Bubble Bobble | 332124 | [332124-bubble-bobble.json](./332124-bubble-bobble.json) |
+| Bubble Bobble | 332126 | [332126-bubble-bobble.json](./332126-bubble-bobble.json) |
 | Bubble Bobble | 332202 | [332202-bubble-bobble.json](./332202-bubble-bobble.json) |
 | Bubble Bobble | 332216 | [332216-bubble-bobble.json](./332216-bubble-bobble.json) |
 | Bubble Bobble | 332218 | [332218-bubble-bobble.json](./332218-bubble-bobble.json) |
