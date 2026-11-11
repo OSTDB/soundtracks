@@ -49,6 +49,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Cat | 145537 | [145537-cat.json](./145537-cat.json) |
 | .Cat 2 | 368426 | [368426-cat-2.json](./368426-cat-2.json) |
 | .Cat Nincat Dinogotchi | 231044 | [231044-cat-nincat-dinogotchi.json](./231044-cat-nincat-dinogotchi.json) |
+| .CatMilk 2 | 342348 | [342348-catmilk-2.json](./342348-catmilk-2.json) |
 | .Curator | 413458 | [413458-curator.json](./413458-curator.json) |
 | .Decluster & .Decluster Zero | 380429 | [380429-decluster-and-decluster-zero.json](./380429-decluster-and-decluster-zero.json) |
 | .Decluster Zero: Bullet Nocturne | 142933 | [142933-decluster-zero-bullet-nocturne.json](./142933-decluster-zero-bullet-nocturne.json) |
@@ -2114,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2urvive | 77361 | [77361-2urvive.json](./77361-2urvive.json) |
 | 2V Hoverbike | 44184 | [44184-2v-hoverbike.json](./44184-2v-hoverbike.json) |
 | 2weistein in Asban | 320450 | [320450-2weistein-in-asban.json](./320450-2weistein-in-asban.json) |
+| 2weistein in Elfland | 342331 | [342331-2weistein-in-elfland.json](./342331-2weistein-in-elfland.json) |
 | 2weistein in Rongerland | 330600 | [330600-2weistein-in-rongerland.json](./330600-2weistein-in-rongerland.json) |
 | 2weistein: The Curse of the Red Dragon | 147439 | [147439-2weistein-the-curse-of-the-red-dragon.json](./147439-2weistein-the-curse-of-the-red-dragon.json) |
 | 2weistein: The Curse of the Red Dragon 2 | 166158 | [166158-2weistein-the-curse-of-the-red-dragon-2.json](./166158-2weistein-the-curse-of-the-red-dragon-2.json) |
