@@ -12674,6 +12674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Flight: Return Home | 355294 | [355294-the-last-flight-return-home.json](./355294-the-last-flight-return-home.json) |
 | The Last Flower | 146304 | [146304-the-last-flower.json](./146304-the-last-flower.json) |
 | The Last Flower | 294869 | [294869-the-last-flower.json](./294869-the-last-flower.json) |
+| The last fortress | 395333 | [395333-the-last-fortress.json](./395333-the-last-fortress.json) |
 | The last four | 216794 | [216794-the-last-four.json](./216794-the-last-four.json) |
 | The Last Frame | 385360 | [385360-the-last-frame.json](./385360-the-last-frame.json) |
 | The Last from Mars | 143528 | [143528-the-last-from-mars.json](./143528-the-last-from-mars.json) |
@@ -15419,6 +15420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlast Trials: Porcelain Observer Pack | 366838 | [366838-the-outlast-trials-porcelain-observer-pack.json](./366838-the-outlast-trials-porcelain-observer-pack.json) |
 | The Outlast Trials: Project Breach | 324578 | [324578-the-outlast-trials-project-breach.json](./324578-the-outlast-trials-project-breach.json) |
 | The Outlast Trials: Project Diarchy | 354915 | [354915-the-outlast-trials-project-diarchy.json](./354915-the-outlast-trials-project-diarchy.json) |
+| The Outlast Trials: Project Judas | 395601 | [395601-the-outlast-trials-project-judas.json](./395601-the-outlast-trials-project-judas.json) |
 | The Outlast Trials: Project Relapse | 342069 | [342069-the-outlast-trials-project-relapse.json](./342069-the-outlast-trials-project-relapse.json) |
 | The Outlast Trials: Reagent Starter Pack | 289436 | [289436-the-outlast-trials-reagent-starter-pack.json](./289436-the-outlast-trials-reagent-starter-pack.json) |
 | The Outlast Trials: Spelunking For Your Life Pack | 366837 | [366837-the-outlast-trials-spelunking-for-your-life-pack.json](./366837-the-outlast-trials-spelunking-for-your-life-pack.json) |
@@ -19863,6 +19865,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Weave of Heroes - RPG | 27755 | [27755-the-weave-of-heroes-rpg.json](./27755-the-weave-of-heroes-rpg.json) |
 | The Wedding | 286531 | [286531-the-wedding.json](./286531-the-wedding.json) |
 | The Wednesday | 169661 | [169661-the-wednesday.json](./169661-the-wednesday.json) |
+| The Week With Grugles | 395920 | [395920-the-week-with-grugles.json](./395920-the-week-with-grugles.json) |
+| The Week With Grugles 2 | 395921 | [395921-the-week-with-grugles-2.json](./395921-the-week-with-grugles-2.json) |
 | The Weeping Swan: Ten Days of the City's Fall | 329217 | [329217-the-weeping-swan-ten-days-of-the-citys-fall.json](./329217-the-weeping-swan-ten-days-of-the-citys-fall.json) |
 | The Weight of a Soul | 230546 | [230546-the-weight-of-a-soul.json](./230546-the-weight-of-a-soul.json) |
 | The Weird Dream | 265275 | [265275-the-weird-dream.json](./265275-the-weird-dream.json) |
