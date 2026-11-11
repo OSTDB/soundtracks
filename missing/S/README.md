@@ -6267,7 +6267,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam: The Retro Encounter | 145554 | [145554-serious-sam-the-retro-encounter.json](./145554-serious-sam-the-retro-encounter.json) |
 | Serious Sam: Tormental | 116987 | [116987-serious-sam-tormental.json](./116987-serious-sam-tormental.json) |
 | Serious Sam: Winter Wonderland | 359886 | [359886-serious-sam-winter-wonderland.json](./359886-serious-sam-winter-wonderland.json) |
-| Serious Sam's Bogus Detour | 36390 | [36390-serious-sams-bogus-detour.json](./36390-serious-sams-bogus-detour.json) |
 | Serious Scramblers | 112077 | [112077-serious-scramblers.json](./112077-serious-scramblers.json) |
 | Serious Solitaire | 84236 | [84236-serious-solitaire.json](./84236-serious-solitaire.json) |
 | Serious Survivors | 348774 | [348774-serious-survivors.json](./348774-serious-survivors.json) |
