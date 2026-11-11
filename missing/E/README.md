@@ -3416,6 +3416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emoji Merge: Puzzle Matching | 369543 | [369543-emoji-merge-puzzle-matching.json](./369543-emoji-merge-puzzle-matching.json) |
 | Emoji Pop | 133659 | [133659-emoji-pop.json](./133659-emoji-pop.json) |
 | Emoji Puzzle | 305416 | [305416-emoji-puzzle.json](./305416-emoji-puzzle.json) |
+| Emoji Puzzle Action: Codename: ManKun | 338979 | [338979-emoji-puzzle-action-codename-mankun.json](./338979-emoji-puzzle-action-codename-mankun.json) |
 | Emoji Quest | 388908 | [388908-emoji-quest.json](./388908-emoji-quest.json) |
 | Emoji Quiz Football | 305265 | [305265-emoji-quiz-football.json](./305265-emoji-quiz-football.json) |
 | Emoji Rampage: Origins | 378798 | [378798-emoji-rampage-origins.json](./378798-emoji-rampage-origins.json) |
@@ -3436,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emono | 222981 | [222981-emono.json](./222981-emono.json) |
 | Emorrior | 197876 | [197876-emorrior.json](./197876-emorrior.json) |
 | Emory Cole & The Secret at Greymar Point | 415243 | [415243-emory-cole-and-the-secret-at-greymar-point.json](./415243-emory-cole-and-the-secret-at-greymar-point.json) |
+| Emote Challenge 64 2 | 339008 | [339008-emote-challenge-64-2.json](./339008-emote-challenge-64-2.json) |
 | Emote Farming Simulator | 173082 | [173082-emote-farming-simulator.json](./173082-emote-farming-simulator.json) |
 | Emote Guesser | 252732 | [252732-emote-guesser.json](./252732-emote-guesser.json) |
 | Emote Search | 217706 | [217706-emote-search.json](./217706-emote-search.json) |
