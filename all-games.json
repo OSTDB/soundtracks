@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-10T21:12:05.004Z",
-  "total_soundtracks": 3026,
+  "generated_at": "2026-11-11T19:51:47.022Z",
+  "total_soundtracks": 3036,
   "games": [
     {
       "igdb_id": 7522,
@@ -737,6 +737,20 @@
         {
           "album_name": "AFK Journey: Original Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4Xy4DzUdKo7VbaqK4j84hr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 65786,
+      "game_name": "After Death",
+      "game_url": "https://ostdb.net/games/after-death",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dfd650c32c7c504ee48f5e80",
+      "albums": [
+        {
+          "album_name": "After Death (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3M9mOkEG5bbzjEobAlepHc",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -1647,6 +1661,20 @@
         {
           "album_name": "Aperture Tag: the Paint Gun Testing Initiative Soundtrack",
           "spotify_url": "https://open.spotify.com/album/0R3HUyBEvcAkdxcL03Baf1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 75283,
+      "game_name": "Apex Construct",
+      "game_url": "https://ostdb.net/games/apex-construct",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a14dc0f52aec41dfd2adb79c",
+      "albums": [
+        {
+          "album_name": "Apex Construct (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3JDulUmxfhWEuUI0od5V5q",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -7133,6 +7161,20 @@
       ]
     },
     {
+      "igdb_id": 58533,
+      "game_name": "Damsel",
+      "game_url": "https://ostdb.net/games/damsel",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736feb3960790a4137873d2e09",
+      "albums": [
+        {
+          "album_name": "Damsel (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6nMLjPP7l4N6H5L9xXnBOA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 38946,
       "game_name": "Dan the Man",
       "game_url": "https://ostdb.net/games/dan-the-man",
@@ -7955,6 +7997,20 @@
         {
           "album_name": "DeathTrap (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7e1mEHkbTAutqtaaGwOpVn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 74540,
+      "game_name": "Deemo: Reborn",
+      "game_url": "https://ostdb.net/games/deemo-reborn",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734e87950b6cf44f363b69fd5a",
+      "albums": [
+        {
+          "album_name": "Deemo Reborn (Original Soundtrack), Vol.1",
+          "spotify_url": "https://open.spotify.com/album/6KtKCVB5V0o1DUr6c8lH3k",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -9687,6 +9743,20 @@
         {
           "album_name": "Dungeons of Hinterberg (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5OzfZxATcJhS4j510OxksL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 69481,
+      "game_name": "Dunk Lords",
+      "game_url": "https://ostdb.net/games/dunk-lords",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c60cbe1b1654155686b61b87",
+      "albums": [
+        {
+          "album_name": "Dunk Lords (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1ozLya8HfpaBt9C0LtcuFk",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -16833,6 +16903,20 @@
       ]
     },
     {
+      "igdb_id": 81732,
+      "game_name": "Kenshō",
+      "game_url": "https://ostdb.net/games/kensho",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ae828cdab03a4b5134c03d59",
+      "albums": [
+        {
+          "album_name": "Kensho (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/54uhPoTYlwQPNZPhpTQlQo",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 130508,
       "game_name": "Kill It With Fire",
       "game_url": "https://ostdb.net/games/kill-it-with-fire",
@@ -21629,6 +21713,20 @@
       ]
     },
     {
+      "igdb_id": 74161,
+      "game_name": "Never Stop Sneakin'",
+      "game_url": "https://ostdb.net/games/never-stop-sneakin",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc88106aa979149a5e58c64b",
+      "albums": [
+        {
+          "album_name": "Never Stop Sneakin' (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6o3wn039P9qzIRuqJXKwng",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 133261,
       "game_name": "Neversong",
       "game_url": "https://ostdb.net/games/neversong",
@@ -22403,6 +22501,20 @@
         {
           "album_name": "Old World (Original Video Game Score)",
           "spotify_url": "https://open.spotify.com/album/2WkLT1m38tT0ljgpXYYowj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 87931,
+      "game_name": "Omen Exitio: Plague",
+      "game_url": "https://ostdb.net/games/omen-exitio-plague",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733d85099b7620cbedfdaebebf",
+      "albums": [
+        {
+          "album_name": "Omen Exitio: Plague (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/72ASrNJwWcRYJ4f6AqDMum",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -27933,6 +28045,20 @@
       ]
     },
     {
+      "igdb_id": 81650,
+      "game_name": "Sin Slayers",
+      "game_url": "https://ostdb.net/games/sin-slayers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738f602d6815d7df551a4d3607",
+      "albums": [
+        {
+          "album_name": "Sin Slayers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/256R6LRl1zN6juAgFAOZf4",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 571,
       "game_name": "Singularity",
       "game_url": "https://ostdb.net/games/singularity",
@@ -30097,6 +30223,20 @@
         {
           "album_name": "Stellaris: Megacorp (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/311OOzX7zp064DwXsd9e71",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 87197,
+      "game_name": "Steredenn: Binary Stars",
+      "game_url": "https://ostdb.net/games/steredenn-binary-stars",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ecb7f0c5a6e9a8d674c8e7f9",
+      "albums": [
+        {
+          "album_name": "Steredenn: Binary Stars (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5YDajuz5PeSqsxzGiO5LDl",
           "apple_music_url": "",
           "album_link_url": ""
         }
