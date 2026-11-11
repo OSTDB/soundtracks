@@ -13013,6 +13013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Story | 4966 | [4966-the-last-story.json](./4966-the-last-story.json) |
 | The Last Strand | 318621 | [318621-the-last-strand.json](./318621-the-last-strand.json) |
 | The last strategist | 74641 | [74641-the-last-strategist.json](./74641-the-last-strategist.json) |
+| The Last Summer | 367078 | [367078-the-last-summer.json](./367078-the-last-summer.json) |
 | The Last Summer | 400590 | [400590-the-last-summer.json](./400590-the-last-summer.json) |
 | The Last Sunshine | 131232 | [131232-the-last-sunshine.json](./131232-the-last-sunshine.json) |
 | The Last Sunshine | 34760 | [34760-the-last-sunshine.json](./34760-the-last-sunshine.json) |
@@ -14892,6 +14893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mushroom of Shadow | 340277 | [340277-the-mushroom-of-shadow.json](./340277-the-mushroom-of-shadow.json) |
 | The Mushroom Season | 215228 | [215228-the-mushroom-season.json](./215228-the-mushroom-season.json) |
 | The Mushrooms' Happy New Year | 396193 | [396193-the-mushrooms-happy-new-year.json](./396193-the-mushrooms-happy-new-year.json) |
+| The Music at the End of the World | 367063 | [367063-the-music-at-the-end-of-the-world.json](./367063-the-music-at-the-end-of-the-world.json) |
 | The Music Box: Arc | 377544 | [377544-the-music-box-arc.json](./377544-the-music-box-arc.json) |
 | The Music Machine | 282793 | [282793-the-music-machine.json](./282793-the-music-machine.json) |
 | The Music Machine | 35515 | [35515-the-music-machine.json](./35515-the-music-machine.json) |
@@ -16367,6 +16369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Realm of Insight Compass | 253513 | [253513-the-realm-of-insight-compass.json](./253513-the-realm-of-insight-compass.json) |
 | The Realm of Keren: Exploratio | 174691 | [174691-the-realm-of-keren-exploratio.json](./174691-the-realm-of-keren-exploratio.json) |
 | The Realm of Parthoris | 261184 | [261184-the-realm-of-parthoris.json](./261184-the-realm-of-parthoris.json) |
+| The Realm of Reincarnation | 367072 | [367072-the-realm-of-reincarnation.json](./367072-the-realm-of-reincarnation.json) |
 | The Realm Online | 73936 | [73936-the-realm-online.json](./73936-the-realm-online.json) |
 | The Reap | 21562 | [21562-the-reap.json](./21562-the-reap.json) |
 | The Reaper | 327224 | [327224-the-reaper.json](./327224-the-reaper.json) |
@@ -22148,6 +22151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TicTako | 183453 | [183453-tictako.json](./183453-tictako.json) |
 | Ticuto | 310569 | [310569-ticuto.json](./310569-ticuto.json) |
 | Ticy Adventure Club | 405276 | [405276-ticy-adventure-club.json](./405276-ticy-adventure-club.json) |
+| Ticy Adventure Club: Queen of the Spring | 367065 | [367065-ticy-adventure-club-queen-of-the-spring.json](./367065-ticy-adventure-club-queen-of-the-spring.json) |
 | Tidal Affair: Before the Storm | 34618 | [34618-tidal-affair-before-the-storm.json](./34618-tidal-affair-before-the-storm.json) |
 | Tidal Hopper | 336026 | [336026-tidal-hopper.json](./336026-tidal-hopper.json) |
 | Tidal Nexus Online | 310002 | [310002-tidal-nexus-online.json](./310002-tidal-nexus-online.json) |
@@ -32066,6 +32070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Gaust: Gaust Diver - Crimson Red | 123462 | [123462-treasure-gaust-gaust-diver-crimson-red.json](./123462-treasure-gaust-gaust-diver-crimson-red.json) |
 | Treasure Gaust: Gaust Diver - Deep Purple | 123461 | [123461-treasure-gaust-gaust-diver-deep-purple.json](./123461-treasure-gaust-gaust-diver-deep-purple.json) |
 | Treasure Gear | 130357 | [130357-treasure-gear.json](./130357-treasure-gear.json) |
+| Treasure Girl 3D | 367071 | [367071-treasure-girl-3d.json](./367071-treasure-girl-3d.json) |
 | Treasure Girl 3D 2 | 196099 | [196099-treasure-girl-3d-2.json](./196099-treasure-girl-3d-2.json) |
 | Treasure Grab | 199198 | [199198-treasure-grab.json](./199198-treasure-grab.json) |
 | Treasure Guardian: Collector Shift Defender's Saga | 301536 | [301536-treasure-guardian-collector-shift-defenders-saga.json](./301536-treasure-guardian-collector-shift-defenders-saga.json) |
