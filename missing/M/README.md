@@ -13684,6 +13684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Rogue | 144376 | [144376-mini-rogue.json](./144376-mini-rogue.json) |
 | Mini Rollers | 36518 | [36518-mini-rollers.json](./36518-mini-rollers.json) |
 | Mini Royale | 201020 | [201020-mini-royale.json](./201020-mini-royale.json) |
+| Mini Rugby: World Tour | 364117 | [364117-mini-rugby-world-tour.json](./364117-mini-rugby-world-tour.json) |
 | Mini Running Ant | 380796 | [380796-mini-running-ant.json](./380796-mini-running-ant.json) |
 | Mini Scientist | 229511 | [229511-mini-scientist.json](./229511-mini-scientist.json) |
 | Mini Settlers | 260456 | [260456-mini-settlers.json](./260456-mini-settlers.json) |
@@ -15693,6 +15694,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moero Crystal H | 121766 | [121766-moero-crystal-h.json](./121766-moero-crystal-h.json) |
 | Moero Downhill Night | 331458 | [331458-moero-downhill-night.json](./331458-moero-downhill-night.json) |
 | Moero Downhill Night 2 | 335720 | [335720-moero-downhill-night-2.json](./335720-moero-downhill-night-2.json) |
+| Moero TwinBee: Cinnamon Hakase wo Sukue! | 364339 | [364339-moero-twinbee-cinnamon-hakase-wo-sukue.json](./364339-moero-twinbee-cinnamon-hakase-wo-sukue.json) |
+| Moero TwinBee: Cinnamon Hakase wo Sukue! | 364344 | [364344-moero-twinbee-cinnamon-hakase-wo-sukue.json](./364344-moero-twinbee-cinnamon-hakase-wo-sukue.json) |
 | Moero! Nekketsu Rhythm Damashii Osu! Tatakae! Ouendan 2 | 23095 | [23095-moero-nekketsu-rhythm-damashii-osu-tatakae-ouendan-2.json](./23095-moero-nekketsu-rhythm-damashii-osu-tatakae-ouendan-2.json) |
 | Moero! Power Dodge | 385559 | [385559-moero-power-dodge.json](./385559-moero-power-dodge.json) |
 | Moero!! Jaleco Collection | 49721 | [49721-moero-jaleco-collection.json](./49721-moero-jaleco-collection.json) |
@@ -15966,6 +15969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momo Mother Bird: Final Story | 209483 | [209483-momo-mother-bird-final-story.json](./209483-momo-mother-bird-final-story.json) |
 | Momo no Hana ha Senketsu ni Somaru | 246020 | [246020-momo-no-hana-ha-senketsu-ni-somaru.json](./246020-momo-no-hana-ha-senketsu-ni-somaru.json) |
 | Momo Pop | 109965 | [109965-momo-pop.json](./109965-momo-pop.json) |
+| Momo Pop | 364342 | [364342-momo-pop.json](./364342-momo-pop.json) |
 | Momo.exe | 108391 | [108391-momo-exe.json](./108391-momo-exe.json) |
 | Momo.exe 2 | 110175 | [110175-momo-exe-2.json](./110175-momo-exe-2.json) |
 | Momo.exe VR | 173898 | [173898-momo-exe-vr.json](./173898-momo-exe-vr.json) |
@@ -23500,6 +23504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Crusade | 297857 | [297857-mythic-crusade.json](./297857-mythic-crusade.json) |
 | Mythic Defender | 195616 | [195616-mythic-defender.json](./195616-mythic-defender.json) |
 | Mythic Dreams | 276759 | [276759-mythic-dreams.json](./276759-mythic-dreams.json) |
+| Mythic Factor: Leaving the Labyrinth | 364108 | [364108-mythic-factor-leaving-the-labyrinth.json](./364108-mythic-factor-leaving-the-labyrinth.json) |
 | Mythic Glory | 98531 | [98531-mythic-glory.json](./98531-mythic-glory.json) |
 | Mythic Heroes | 183142 | [183142-mythic-heroes.json](./183142-mythic-heroes.json) |
 | Mythic Kart Maker | 381580 | [381580-mythic-kart-maker.json](./381580-mythic-kart-maker.json) |
