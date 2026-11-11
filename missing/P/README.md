@@ -1854,6 +1854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper.io | 113940 | [113940-paper-io.json](./113940-paper-io.json) |
 | Paper.io 2 | 108159 | [108159-paper-io-2.json](./108159-paper-io-2.json) |
 | Paper.io 4 | 257133 | [257133-paper-io-4.json](./257133-paper-io-4.json) |
+| Paper.Void | 375068 | [375068-paper-void.json](./375068-paper-void.json) |
 | Paperama | 83225 | [83225-paperama.json](./83225-paperama.json) |
 | Paperback | 382804 | [382804-paperback.json](./382804-paperback.json) |
 | Paperback Adventures | 220621 | [220621-paperback-adventures.json](./220621-paperback-adventures.json) |
@@ -2286,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal '98 | 376489 | [376489-paranormal-98.json](./376489-paranormal-98.json) |
 | Paranormal Activity: The Lost Soul | 32699 | [32699-paranormal-activity-the-lost-soul.json](./32699-paranormal-activity-the-lost-soul.json) |
 | Paranormal Activity: The VR Game | 25626 | [25626-paranormal-activity-the-vr-game.json](./25626-paranormal-activity-the-vr-game.json) |
+| Paranormal Activity: Threshold | 375088 | [375088-paranormal-activity-threshold.json](./375088-paranormal-activity-threshold.json) |
 | Paranormal Agency | 69012 | [69012-paranormal-agency.json](./69012-paranormal-agency.json) |
 | Paranormal Archives | 294166 | [294166-paranormal-archives.json](./294166-paranormal-archives.json) |
 | Paranormal Bundle | 164791 | [164791-paranormal-bundle.json](./164791-paranormal-bundle.json) |
@@ -17124,6 +17126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project T | 67053 | [67053-project-t.json](./67053-project-t.json) |
 | Project T.A.G | 388334 | [388334-project-t-a-g.json](./388334-project-t-a-g.json) |
 | Project Tachyon | 297793 | [297793-project-tachyon.json](./297793-project-tachyon.json) |
+| Project Tal | 375111 | [375111-project-tal.json](./375111-project-tal.json) |
 | Project Tank | 84065 | [84065-project-tank.json](./84065-project-tank.json) |
 | Project Tarvotan | 34809 | [34809-project-tarvotan.json](./34809-project-tarvotan.json) |
 | Project TB | 275989 | [275989-project-tb.json](./275989-project-tb.json) |
