@@ -5798,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharm Pharaoh | 142011 | [142011-pharm-pharaoh.json](./142011-pharm-pharaoh.json) |
 | Pharma Dealer Simulator | 365563 | [365563-pharma-dealer-simulator.json](./365563-pharma-dealer-simulator.json) |
 | Pharma Inc Simulator | 357038 | [357038-pharma-inc-simulator.json](./357038-pharma-inc-simulator.json) |
+| Pharma Noctis | 382689 | [382689-pharma-noctis.json](./382689-pharma-noctis.json) |
 | Pharma R&D Manager | 418671 | [418671-pharma-r-and-d-manager.json](./418671-pharma-r-and-d-manager.json) |
 | Pharmacist Jones | 325706 | [325706-pharmacist-jones.json](./325706-pharmacist-jones.json) |
 | Pharmacy 24 | 390643 | [390643-pharmacy-24.json](./390643-pharmacy-24.json) |
@@ -18114,6 +18115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puckish | 285267 | [285267-puckish.json](./285267-puckish.json) |
 | Puckit! | 380448 | [380448-puckit.json](./380448-puckit.json) |
 | Puckman | 47280 | [47280-puckman.json](./47280-puckman.json) |
+| Puckman Pockimon Genie 2000 | 382664 | [382664-puckman-pockimon-genie-2000.json](./382664-puckman-pockimon-genie-2000.json) |
 | Puckoff | 191060 | [191060-puckoff.json](./191060-puckoff.json) |
 | Puda + The Kid | 263198 | [263198-puda-the-kid.json](./263198-puda-the-kid.json) |
 | Puddies | 256601 | [256601-puddies.json](./256601-puddies.json) |
