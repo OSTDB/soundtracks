@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jake Hunter Unleashed 3: Picture Perfect | 349485 | [349485-jake-hunter-unleashed-3-picture-perfect.json](./349485-jake-hunter-unleashed-3-picture-perfect.json) |
 | Jake Hunter Unleashed 4: Behind Closed Doors | 349486 | [349486-jake-hunter-unleashed-4-behind-closed-doors.json](./349486-jake-hunter-unleashed-4-behind-closed-doors.json) |
 | Jake Hunter Unleashed 5: Last Christmas | 349487 | [349487-jake-hunter-unleashed-5-last-christmas.json](./349487-jake-hunter-unleashed-5-last-christmas.json) |
+| Jake Hunter Unleashed!: School Festival - Locked Office Case | 349543 | [349543-jake-hunter-unleashed-school-festival-locked-office-case.json](./349543-jake-hunter-unleashed-school-festival-locked-office-case.json) |
 | Jake Hunter: Detective Chronicles | 21049 | [21049-jake-hunter-detective-chronicles.json](./21049-jake-hunter-detective-chronicles.json) |
 | Jake Power: Handyman | 123330 | [123330-jake-power-handyman.json](./123330-jake-power-handyman.json) |
 | Jake Power: Policeman | 123329 | [123329-jake-power-policeman.json](./123329-jake-power-policeman.json) |
