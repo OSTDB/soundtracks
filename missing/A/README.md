@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Friday Night Real Music Funkin Game | 325105 | [325105-a-friday-night-real-music-funkin-game.json](./325105-a-friday-night-real-music-funkin-game.json) |
 | A Friendly Reminder | 253155 | [253155-a-friendly-reminder.json](./253155-a-friendly-reminder.json) |
 | A Frog Game | 67066 | [67066-a-frog-game.json](./67066-a-frog-game.json) |
+| A Frog in a Small Pond | 382709 | [382709-a-frog-in-a-small-pond.json](./382709-a-frog-in-a-small-pond.json) |
 | A Frog in a Well | 337798 | [337798-a-frog-in-a-well.json](./337798-a-frog-in-a-well.json) |
 | A Frog's Guide to Eating Flies | 180424 | [180424-a-frogs-guide-to-eating-flies.json](./180424-a-frogs-guide-to-eating-flies.json) |
 | A Frog's Job | 211397 | [211397-a-frogs-job.json](./211397-a-frogs-job.json) |
@@ -16735,6 +16736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AsteRoid Rage | 211409 | [211409-asteroid-rage.json](./211409-asteroid-rage.json) |
 | Asteroid Requiem | 351052 | [351052-asteroid-requiem.json](./351052-asteroid-requiem.json) |
 | Asteroid RKD | 109298 | [109298-asteroid-rkd.json](./109298-asteroid-rkd.json) |
+| Asteroid Rodeo | 382717 | [382717-asteroid-rodeo.json](./382717-asteroid-rodeo.json) |
 | Asteroid Run: No Questions Asked | 119990 | [119990-asteroid-run-no-questions-asked.json](./119990-asteroid-run-no-questions-asked.json) |
 | Asteroid Sentinel | 297791 | [297791-asteroid-sentinel.json](./297791-asteroid-sentinel.json) |
 | Asteroid Shooter VR | 36941 | [36941-asteroid-shooter-vr.json](./36941-asteroid-shooter-vr.json) |
