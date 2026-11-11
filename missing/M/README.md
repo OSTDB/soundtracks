@@ -4802,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marswar TD | 169465 | [169465-marswar-td.json](./169465-marswar-td.json) |
 | Mart and Tetra | 167171 | [167171-mart-and-tetra.json](./167171-mart-and-tetra.json) |
 | Mart Master | 227372 | [227372-mart-master.json](./227372-mart-master.json) |
+| Mart Mayhem | 373438 | [373438-mart-mayhem.json](./373438-mart-mayhem.json) |
 | Mart Racer | 21060 | [21060-mart-racer.json](./21060-mart-racer.json) |
 | Martello Tower | 416007 | [416007-martello-tower.json](./416007-martello-tower.json) |
 | Marth.exe | 311032 | [311032-marth-exe.json](./311032-marth-exe.json) |
@@ -6890,6 +6891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me With Me | 224591 | [224591-me-with-me.json](./224591-me-with-me.json) |
 | Me, My Mech and I | 235649 | [235649-me-my-mech-and-i.json](./235649-me-my-mech-and-i.json) |
 | Me, the Drifter; Her, the Optimist | 392465 | [392465-me-the-drifter-her-the-optimist.json](./392465-me-the-drifter-her-the-optimist.json) |
+| Me, You & Kaiju | 373419 | [373419-me-you-and-kaiju.json](./373419-me-you-and-kaiju.json) |
 | Me2 | 329211 | [329211-me2.json](./329211-me2.json) |
 | Mea Culpa | 225424 | [225424-mea-culpa.json](./225424-mea-culpa.json) |
 | Mea’s Saifu Collection Party | 411618 | [411618-mea-s-saifu-collection-party.json](./411618-mea-s-saifu-collection-party.json) |
@@ -9113,6 +9115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meltdown Masters | 415885 | [415885-meltdown-masters.json](./415885-meltdown-masters.json) |
 | Meltdown Moon | 64003 | [64003-meltdown-moon.json](./64003-meltdown-moon.json) |
 | Melted Time | 336526 | [336526-melted-time.json](./336526-melted-time.json) |
+| Melted Valor | 373454 | [373454-melted-valor.json](./373454-melted-valor.json) |
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
 | Melting Encyclopedia | 298402 | [298402-melting-encyclopedia.json](./298402-melting-encyclopedia.json) |
 | Melting Hearts: Our Love Will Grow 2 | 33080 | [33080-melting-hearts-our-love-will-grow-2.json](./33080-melting-hearts-our-love-will-grow-2.json) |
@@ -14848,6 +14851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mistress of Maids: First Castle | 115627 | [115627-mistress-of-maids-first-castle.json](./115627-mistress-of-maids-first-castle.json) |
 | Mistrogue: Mist and the Living Dungeons | 217313 | [217313-mistrogue-mist-and-the-living-dungeons.json](./217313-mistrogue-mist-and-the-living-dungeons.json) |
 | Mistrun | 189896 | [189896-mistrun.json](./189896-mistrun.json) |
+| Mistrz Polski '96 | 373428 | [373428-mistrz-polski-96.json](./373428-mistrz-polski-96.json) |
 | Mists of Aiden | 135840 | [135840-mists-of-aiden.json](./135840-mists-of-aiden.json) |
 | Mists of Noyah | 129667 | [129667-mists-of-noyah.json](./129667-mists-of-noyah.json) |
 | MistsBook | 296371 | [296371-mistsbook.json](./296371-mistsbook.json) |
@@ -16544,6 +16548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Battle | 240661 | [240661-monster-battle.json](./240661-monster-battle.json) |
 | Monster Battle | 302368 | [302368-monster-battle.json](./302368-monster-battle.json) |
 | Monster Battle Quest | 156930 | [156930-monster-battle-quest.json](./156930-monster-battle-quest.json) |
+| Monster Battler | 373452 | [373452-monster-battler.json](./373452-monster-battler.json) |
 | Monster Battles | 343864 | [343864-monster-battles.json](./343864-monster-battles.json) |
 | Monster Battles: Portals | 125666 | [125666-monster-battles-portals.json](./125666-monster-battles-portals.json) |
 | Monster Blast | 146780 | [146780-monster-blast.json](./146780-monster-blast.json) |
@@ -21095,6 +21100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv Alternative Remastered | 308622 | [308622-muv-luv-alternative-remastered.json](./308622-muv-luv-alternative-remastered.json) |
 | Muv-Luv Alternative: Total Eclipse | 11799 | [11799-muv-luv-alternative-total-eclipse.json](./11799-muv-luv-alternative-total-eclipse.json) |
 | Muv-Luv Complete Set: Collector's Edition | 89569 | [89569-muv-luv-complete-set-collectors-edition.json](./89569-muv-luv-complete-set-collectors-edition.json) |
+| Muv-Luv Girls Garden | 373425 | [373425-muv-luv-girls-garden.json](./373425-muv-luv-girls-garden.json) |
 | Muv-Luv Integrate | 154845 | [154845-muv-luv-integrate.json](./154845-muv-luv-integrate.json) |
 | Muv-Luv Photonflowers* | 11803 | [11803-muv-luv-photonflowers.json](./11803-muv-luv-photonflowers.json) |
 | Muv-Luv Photonmelodies | 11801 | [11801-muv-luv-photonmelodies.json](./11801-muv-luv-photonmelodies.json) |
