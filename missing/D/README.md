@@ -16685,6 +16685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn to Power | 349751 | [349751-drawn-to-power.json](./349751-drawn-to-power.json) |
 | Drawn To You | 336505 | [336505-drawn-to-you.json](./336505-drawn-to-you.json) |
 | Drawn Together | 404311 | [404311-drawn-together.json](./404311-drawn-together.json) |
+| Drawn Together: Soak It! | 388495 | [388495-drawn-together-soak-it.json](./388495-drawn-together-soak-it.json) |
 | Drawn: Dark Flight | 15227 | [15227-drawn-dark-flight.json](./15227-drawn-dark-flight.json) |
 | Drawn: Dark Flight - Collector's Edition | 33294 | [33294-drawn-dark-flight-collectors-edition.json](./33294-drawn-dark-flight-collectors-edition.json) |
 | Drawn: The Painted Tower | 11234 | [11234-drawn-the-painted-tower.json](./11234-drawn-the-painted-tower.json) |
