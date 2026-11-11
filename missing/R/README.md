@@ -10560,6 +10560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Door Defense | 198153 | [198153-rogue-door-defense.json](./198153-rogue-door-defense.json) |
 | Rogue Drifter | 355581 | [355581-rogue-drifter.json](./355581-rogue-drifter.json) |
 | Rogue Drone | 107163 | [107163-rogue-drone.json](./107163-rogue-drone.json) |
+| Rogue Drone | 395936 | [395936-rogue-drone.json](./395936-rogue-drone.json) |
 | Rogue Drone Hunter | 337759 | [337759-rogue-drone-hunter.json](./337759-rogue-drone-hunter.json) |
 | Rogue Dungeon | 188515 | [188515-rogue-dungeon.json](./188515-rogue-dungeon.json) |
 | Rogue Dungeons | 138581 | [138581-rogue-dungeons.json](./138581-rogue-dungeons.json) |
@@ -13035,6 +13036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Sausage Run!: Old, Ancient and Fossil | 353594 | [353594-run-sausage-run-old-ancient-and-fossil.json](./353594-run-sausage-run-old-ancient-and-fossil.json) |
 | Run Sausage Run!: Poison Edition | 396928 | [396928-run-sausage-run-poison-edition.json](./396928-run-sausage-run-poison-edition.json) |
 | Run Sheldon | 388670 | [388670-run-sheldon.json](./388670-run-sheldon.json) |
+| Run Shiba Run! | 395917 | [395917-run-shiba-run.json](./395917-run-shiba-run.json) |
 | Run Show Quest | 280359 | [280359-run-show-quest.json](./280359-run-show-quest.json) |
 | Run Tank Run | 247889 | [247889-run-tank-run.json](./247889-run-tank-run.json) |
 | Run TavernQuest | 132835 | [132835-run-tavernquest.json](./132835-run-tavernquest.json) |
