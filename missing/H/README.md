@@ -3242,6 +3242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazeron Starship | 277286 | [277286-hazeron-starship.json](./277286-hazeron-starship.json) |
 | Hazing: Night Shift | 305147 | [305147-hazing-night-shift.json](./305147-hazing-night-shift.json) |
 | Hazmat Hijinks | 101327 | [101327-hazmat-hijinks.json](./101327-hazmat-hijinks.json) |
+| Hazmat Hijinx | 333251 | [333251-hazmat-hijinx.json](./333251-hazmat-hijinx.json) |
 | Hazmat Magic | 180789 | [180789-hazmat-magic.json](./180789-hazmat-magic.json) |
 | Hazmat Simulator | 419614 | [419614-hazmat-simulator.json](./419614-hazmat-simulator.json) |
 | Hazordhu | 142926 | [142926-hazordhu.json](./142926-hazordhu.json) |
@@ -4823,6 +4824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Loaf | 367496 | [367496-hello-loaf.json](./367496-hello-loaf.json) |
 | Hello Love: 18 Again | 327712 | [327712-hello-love-18-again.json](./327712-hello-love-18-again.json) |
 | Hello Mr. President | 54900 | [54900-hello-mr-president.json](./54900-hello-mr-president.json) |
+| Hello Neigbour 3 | 333806 | [333806-hello-neigbour-3.json](./333806-hello-neigbour-3.json) |
 | Hello Neighbor | 18167 | [18167-hello-neighbor.json](./18167-hello-neighbor.json) |
 | Hello Neighbor 2 | 135991 | [135991-hello-neighbor-2.json](./135991-hello-neighbor-2.json) |
 | Hello Neighbor 2 Alpha 1 | 419367 | [419367-hello-neighbor-2-alpha-1.json](./419367-hello-neighbor-2-alpha-1.json) |
@@ -9559,6 +9561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollowdeep | 344861 | [344861-hollowdeep.json](./344861-hollowdeep.json) |
 | Hollowed | 68568 | [68568-hollowed.json](./68568-hollowed.json) |
 | Hollowed Oath | 400395 | [400395-hollowed-oath.json](./400395-hollowed-oath.json) |
+| Hollowforge | 333271 | [333271-hollowforge.json](./333271-hollowforge.json) |
 | Hollowglass | 335998 | [335998-hollowglass.json](./335998-hollowglass.json) |
 | Hollowgrace | 379067 | [379067-hollowgrace.json](./379067-hollowgrace.json) |
 | Hollowing | 350354 | [350354-hollowing.json](./350354-hollowing.json) |
@@ -10629,6 +10632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde Survival Bundle Xbox: Andromeda, Godsvivors and Farmer Survivors | 333691 | [333691-horde-survival-bundle-xbox-andromeda-godsvivors-and-farmer-survivors.json](./333691-horde-survival-bundle-xbox-andromeda-godsvivors-and-farmer-survivors.json) |
 | Horde Survival Bundle Xbox: Beyond Border, Shield King and Primal Survivors | 333693 | [333693-horde-survival-bundle-xbox-beyond-border-shield-king-and-primal-survivors.json](./333693-horde-survival-bundle-xbox-beyond-border-shield-king-and-primal-survivors.json) |
 | Horde Survivor | 285295 | [285295-horde-survivor.json](./285295-horde-survivor.json) |
+| Horde Together | 333267 | [333267-horde-together.json](./333267-horde-together.json) |
 | Horde: The Citadel | 375850 | [375850-horde-the-citadel.json](./375850-horde-the-citadel.json) |
 | Horde: The Northern Wind | 18879 | [18879-horde-the-northern-wind.json](./18879-horde-the-northern-wind.json) |
 | Horde: Zombie Outbreak | 105576 | [105576-horde-zombie-outbreak.json](./105576-horde-zombie-outbreak.json) |
