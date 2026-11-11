@@ -7212,6 +7212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechAssault 2: Lone Wolf Limited Edition | 47315 | [47315-mechassault-2-lone-wolf-limited-edition.json](./47315-mechassault-2-lone-wolf-limited-edition.json) |
 | MechAssault: Phantom War | 19195 | [19195-mechassault-phantom-war.json](./19195-mechassault-phantom-war.json) |
 | Mechastrike: Red War | 384505 | [384505-mechastrike-red-war.json](./384505-mechastrike-red-war.json) |
+| Mechatris | 365342 | [365342-mechatris.json](./365342-mechatris.json) |
 | Mechatronika | 166737 | [166737-mechatronika.json](./166737-mechatronika.json) |
 | Mechatroniks Attack | 30850 | [30850-mechatroniks-attack.json](./30850-mechatroniks-attack.json) |
 | MechaWing! | 244782 | [244782-mechawing.json](./244782-mechawing.json) |
@@ -7786,6 +7787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Flappy Sis | 270230 | [270230-mega-flappy-sis.json](./270230-mega-flappy-sis.json) |
 | Mega Force | 22433 | [22433-mega-force.json](./22433-mega-force.json) |
 | Mega Force | 6139 | [6139-mega-force.json](./6139-mega-force.json) |
+| Mega Fruit | 366139 | [366139-mega-fruit.json](./366139-mega-fruit.json) |
 | Mega Game Room 2 | 209531 | [209531-mega-game-room-2.json](./209531-mega-game-room-2.json) |
 | Mega Games 3 | 60328 | [60328-mega-games-3.json](./60328-mega-games-3.json) |
 | Mega Games 6 | 56847 | [56847-mega-games-6.json](./56847-mega-games-6.json) |
@@ -16953,6 +16955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
 | Monster Man | 310998 | [310998-monster-man.json](./310998-monster-man.json) |
 | Monster Manor | 115779 | [115779-monster-manor.json](./115779-monster-manor.json) |
+| Monster Manor | 365346 | [365346-monster-manor.json](./365346-monster-manor.json) |
 | Monster Mansion | 80751 | [80751-monster-mansion.json](./80751-monster-mansion.json) |
 | Monster Mash | 292498 | [292498-monster-mash.json](./292498-monster-mash.json) |
 | Monster Mashing Deluxe | 116042 | [116042-monster-mashing-deluxe.json](./116042-monster-mashing-deluxe.json) |
