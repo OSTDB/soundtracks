@@ -3041,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Dare | 22946 | [22946-we-dare.json](./22946-we-dare.json) |
 | We Die | 169849 | [169849-we-die.json](./169849-we-die.json) |
 | We Die Standing | 398945 | [398945-we-die-standing.json](./398945-we-die-standing.json) |
+| We Don't Cry: Zombie Survival | 361943 | [361943-we-dont-cry-zombie-survival.json](./361943-we-dont-cry-zombie-survival.json) |
 | We don't die here | 212281 | [212281-we-dont-die-here.json](./212281-we-dont-die-here.json) |
 | We Don't Exist | 422414 | [422414-we-dont-exist.json](./422414-we-dont-exist.json) |
 | We Don't Talk About It | 177294 | [177294-we-dont-talk-about-it.json](./177294-we-dont-talk-about-it.json) |
@@ -3950,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
 | Wham-o Frisbee Golf | 209571 | [209571-wham-o-frisbee-golf.json](./209571-wham-o-frisbee-golf.json) |
 | Whamble | 268812 | [268812-whamble.json](./268812-whamble.json) |
+| WhamPunch | 361974 | [361974-whampunch.json](./361974-whampunch.json) |
 | What a Ball | 225727 | [225727-what-a-ball.json](./225727-what-a-ball.json) |
 | What a Cluster Fight | 133130 | [133130-what-a-cluster-fight.json](./133130-what-a-cluster-fight.json) |
 | What A Legend | 239306 | [239306-what-a-legend.json](./239306-what-a-legend.json) |
@@ -4756,6 +4758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whisper Of The Curse | 287706 | [287706-whisper-of-the-curse.json](./287706-whisper-of-the-curse.json) |
 | Whisper of the House | 312555 | [312555-whisper-of-the-house.json](./312555-whisper-of-the-house.json) |
 | Whisper of the Shade: Gray | 338372 | [338372-whisper-of-the-shade-gray.json](./338372-whisper-of-the-shade-gray.json) |
+| Whisper of Y'Ryando | 361927 | [361927-whisper-of-yryando.json](./361927-whisper-of-yryando.json) |
 | Whisper Out of Time | 197066 | [197066-whisper-out-of-time.json](./197066-whisper-out-of-time.json) |
 | Whisper Trip | 154008 | [154008-whisper-trip.json](./154008-whisper-trip.json) |
 | Whisper Village | 365036 | [365036-whisper-village.json](./365036-whisper-village.json) |
@@ -7399,6 +7402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf Hero: Animals vs. Robots | 312541 | [312541-wolf-hero-animals-vs-robots.json](./312541-wolf-hero-animals-vs-robots.json) |
 | Wolf in the City | 250981 | [250981-wolf-in-the-city.json](./250981-wolf-in-the-city.json) |
 | Wolf Knight Memoir | 278982 | [278982-wolf-knight-memoir.json](./278982-wolf-knight-memoir.json) |
+| Wolf Mate | 361937 | [361937-wolf-mate.json](./361937-wolf-mate.json) |
 | Wolf Night Evening | 228512 | [228512-wolf-night-evening.json](./228512-wolf-night-evening.json) |
 | Wolf of Stock Street | 347018 | [347018-wolf-of-stock-street.json](./347018-wolf-of-stock-street.json) |
 | Wolf of the Battlefield: Commando 3 | 21342 | [21342-wolf-of-the-battlefield-commando-3.json](./21342-wolf-of-the-battlefield-commando-3.json) |
