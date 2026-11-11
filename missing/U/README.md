@@ -2943,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unseasonable Flowering | 399221 | [399221-unseasonable-flowering.json](./399221-unseasonable-flowering.json) |
 | Unseen | 165918 | [165918-unseen.json](./165918-unseen.json) |
 | Unseen | 328940 | [328940-unseen.json](./328940-unseen.json) |
+| Unseen | 372383 | [372383-unseen.json](./372383-unseen.json) |
 | Unseen | 380736 | [380736-unseen.json](./380736-unseen.json) |
 | UnSeen | 380737 | [380737-unseen.json](./380737-unseen.json) |
 | Unseen Diplomacy | 33824 | [33824-unseen-diplomacy.json](./33824-unseen-diplomacy.json) |
