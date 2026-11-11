@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caladria Chronicles Volume 2 | 230972 | [230972-caladria-chronicles-volume-2.json](./230972-caladria-chronicles-volume-2.json) |
 | Caladrius | 47482 | [47482-caladrius.json](./47482-caladrius.json) |
 | Caladrius 2: Dark Element | 412682 | [412682-caladrius-2-dark-element.json](./412682-caladrius-2-dark-element.json) |
+| Caladrius AC | 391407 | [391407-caladrius-ac.json](./391407-caladrius-ac.json) |
 | Caladrius Blaze | 26703 | [26703-caladrius-blaze.json](./26703-caladrius-blaze.json) |
 | Calamai Kid | 95688 | [95688-calamai-kid.json](./95688-calamai-kid.json) |
 | Calamari Capsize | 266346 | [266346-calamari-capsize.json](./266346-calamari-capsize.json) |
@@ -5773,6 +5774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Centipede Channel F | 311682 | [311682-centipede-channel-f.json](./311682-centipede-channel-f.json) |
 | Centipede Chaos | 124434 | [124434-centipede-chaos.json](./124434-centipede-chaos.json) |
 | Centipede Gun | 244551 | [244551-centipede-gun.json](./244551-centipede-gun.json) |
+| Centipede Simulator | 391389 | [391389-centipede-simulator.json](./391389-centipede-simulator.json) |
 | Centipede Swarm | 409115 | [409115-centipede-swarm.json](./409115-centipede-swarm.json) |
 | Centipede X | 356282 | [356282-centipede-x.json](./356282-centipede-x.json) |
 | Centipede: Evolved | 329639 | [329639-centipede-evolved.json](./329639-centipede-evolved.json) |
@@ -7933,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chilli Con Valley | 187200 | [187200-chilli-con-valley.json](./187200-chilli-con-valley.json) |
 | Chillin' | 308265 | [308265-chillin.json](./308265-chillin.json) |
 | Chilling Devotion | 386074 | [386074-chilling-devotion.json](./386074-chilling-devotion.json) |
+| Chilling Silence | 391390 | [391390-chilling-silence.json](./391390-chilling-silence.json) |
 | Chilling Urban Legends | 409670 | [409670-chilling-urban-legends.json](./409670-chilling-urban-legends.json) |
 | Chillingham | 392339 | [392339-chillingham.json](./392339-chillingham.json) |
 | Chilljong | 223505 | [223505-chilljong.json](./223505-chilljong.json) |
@@ -8500,6 +8503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chosen By Odin | 415124 | [415124-chosen-by-odin.json](./415124-chosen-by-odin.json) |
 | Chosen Card Chronicles | 324622 | [324622-chosen-card-chronicles.json](./324622-chosen-card-chronicles.json) |
 | Chosen Dice | 212302 | [212302-chosen-dice.json](./212302-chosen-dice.json) |
+| Chosen Garden | 391386 | [391386-chosen-garden.json](./391386-chosen-garden.json) |
 | Chosen of God | 321383 | [321383-chosen-of-god.json](./321383-chosen-of-god.json) |
 | Chosen War | 333353 | [333353-chosen-war.json](./333353-chosen-war.json) |
 | Chosoju Mecha MG | 152057 | [152057-chosoju-mecha-mg.json](./152057-chosoju-mecha-mg.json) |
