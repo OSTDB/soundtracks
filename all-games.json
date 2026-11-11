@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T22:35:51.761Z",
-  "total_soundtracks": 3151,
+  "generated_at": "2026-11-11T22:40:54.842Z",
+  "total_soundtracks": 3153,
   "games": [
     {
       "igdb_id": 7522,
@@ -20955,6 +20955,20 @@
       ]
     },
     {
+      "igdb_id": 275333,
+      "game_name": "Mindlock: The Apartment",
+      "game_url": "https://ostdb.net/games/mindlock-the-apartment",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e588f5b33093f34c421bb637",
+      "albums": [
+        {
+          "album_name": "Mindlock: The Apartment (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1RIwzcRUi0RzSTGRUOidJQ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 152379,
       "game_name": "Minds Beneath Us",
       "game_url": "https://ostdb.net/games/minds-beneath-us",
@@ -25970,6 +25984,20 @@
           "album_name": "Rayman Origins (Original Game Soundtrack) [Billy Martin Selection]",
           "spotify_url": "https://open.spotify.com/album/48OeUXPCWaqsFNtKr6tqvq",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 288944,
+      "game_name": "Rayman Origins",
+      "game_url": "https://ostdb.net/games/rayman-origins",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f2d6d4f36fcaf140cc487260",
+      "albums": [
+        {
+          "album_name": "Rayman Origins (Original Game Soundtrack) [Billy Martin Selection]",
+          "spotify_url": "https://open.spotify.com/album/48OeUXPCWaqsFNtKr6tqvq",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
