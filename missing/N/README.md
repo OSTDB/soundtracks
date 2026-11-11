@@ -3220,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Rain | 221103 | [221103-never-rain.json](./221103-never-rain.json) |
 | Never Really Alone | 307199 | [307199-never-really-alone.json](./307199-never-really-alone.json) |
 | Never Return | 165122 | [165122-never-return.json](./165122-never-return.json) |
+| Never Safe in Delaware | 386647 | [386647-never-safe-in-delaware.json](./386647-never-safe-in-delaware.json) |
 | Never Second in Rome | 334259 | [334259-never-second-in-rome.json](./334259-never-second-in-rome.json) |
 | Never Secure | 389717 | [389717-never-secure.json](./389717-never-secure.json) |
 | Never Shall We Die | 324260 | [324260-never-shall-we-die.json](./324260-never-shall-we-die.json) |
