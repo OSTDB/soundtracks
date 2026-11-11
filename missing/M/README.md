@@ -20725,6 +20725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushihimesama Bug Panic | 66101 | [66101-mushihimesama-bug-panic.json](./66101-mushihimesama-bug-panic.json) |
 | Mushihimesama HD | 47442 | [47442-mushihimesama-hd.json](./47442-mushihimesama-hd.json) |
 | Mushihimesama Ver 1.5 | 65500 | [65500-mushihimesama-ver-1-5.json](./65500-mushihimesama-ver-1-5.json) |
+| Mushijingi: Mezase! Saikyou no Mushinushi | 377529 | [377529-mushijingi-mezase-saikyou-no-mushinushi.json](./377529-mushijingi-mezase-saikyou-no-mushinushi.json) |
 | Mushiking: King of the Beetles | 80223 | [80223-mushiking-king-of-the-beetles.json](./80223-mushiking-king-of-the-beetles.json) |
 | Mushishi: Amefuru Sato | 147012 | [147012-mushishi-amefuru-sato.json](./147012-mushishi-amefuru-sato.json) |
 | Mushiverse: Online Boardgame | 309446 | [309446-mushiverse-online-boardgame.json](./309446-mushiverse-online-boardgame.json) |
