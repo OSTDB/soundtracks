@@ -13072,6 +13072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run to Nowhere | 206705 | [206705-run-to-nowhere.json](./206705-run-to-nowhere.json) |
 | Run Tom Hanks Run | 307294 | [307294-run-tom-hanks-run.json](./307294-run-tom-hanks-run.json) |
 | Run Turn Die | 34140 | [34140-run-turn-die.json](./34140-run-turn-die.json) |
+| Run Up | 387801 | [387801-run-up.json](./387801-run-up.json) |
 | Run VR | 95731 | [95731-run-vr.json](./95731-run-vr.json) |
 | Run Willy! | 215866 | [215866-run-willy.json](./215866-run-willy.json) |
 | Run Witch | 281327 | [281327-run-witch.json](./281327-run-witch.json) |
