@@ -2375,7 +2375,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banner Kings | 356153 | [356153-banner-kings.json](./356153-banner-kings.json) |
 | Banner of Blood | 211090 | [211090-banner-of-blood.json](./211090-banner-of-blood.json) |
 | Banner of Conquest | 333421 | [333421-banner-of-conquest.json](./333421-banner-of-conquest.json) |
-| Banner of the Maid | 97932 | [97932-banner-of-the-maid.json](./97932-banner-of-the-maid.json) |
 | Banner of the Maid: Miss Elisa's Journal | 169950 | [169950-banner-of-the-maid-miss-elisas-journal.json](./169950-banner-of-the-maid-miss-elisas-journal.json) |
 | Banner of the Maid: The Oriental Pirate | 169949 | [169949-banner-of-the-maid-the-oriental-pirate.json](./169949-banner-of-the-maid-the-oriental-pirate.json) |
 | BannerBound | 345032 | [345032-bannerbound.json](./345032-bannerbound.json) |
