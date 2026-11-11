@@ -10985,6 +10985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discs of Tron | 21817 | [21817-discs-of-tron.json](./21817-discs-of-tron.json) |
 | Discsphere | 135026 | [135026-discsphere.json](./135026-discsphere.json) |
 | Discus | 247046 | [247046-discus.json](./247046-discus.json) |
+| Discussion Over Dinner | 338425 | [338425-discussion-over-dinner.json](./338425-discussion-over-dinner.json) |
 | Discworld | 8291 | [8291-discworld.json](./8291-discworld.json) |
 | Discworld II: Mortality Bytes! | 8292 | [8292-discworld-ii-mortality-bytes.json](./8292-discworld-ii-mortality-bytes.json) |
 | Discworld MUD | 56861 | [56861-discworld-mud.json](./56861-discworld-mud.json) |
