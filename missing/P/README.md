@@ -11889,6 +11889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon GS Chronicles | 163125 | [163125-pokemon-gs-chronicles.json](./163125-pokemon-gs-chronicles.json) |
 | Pokemon Heads & Tails | 240006 | [240006-pokemon-heads-and-tails.json](./240006-pokemon-heads-and-tails.json) |
 | Pokémon Heart & Soul | 376212 | [376212-pokemon-heart-and-soul.json](./376212-pokemon-heart-and-soul.json) |
+| Pokémon HeartGold Generations | 360245 | [360245-pokemon-heartgold-generations.json](./360245-pokemon-heartgold-generations.json) |
 | Pokémon Hearth | 377553 | [377553-pokemon-hearth.json](./377553-pokemon-hearth.json) |
 | Pokémon Hero | 314728 | [314728-pokemon-hero.json](./314728-pokemon-hero.json) |
 | Pokemon HG/SS Golden Edition | 334655 | [334655-pokemon-hg-ss-golden-edition.json](./334655-pokemon-hg-ss-golden-edition.json) |
@@ -15078,6 +15079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Price for Freedom: Gold and Sand | 295345 | [295345-price-for-freedom-gold-and-sand.json](./295345-price-for-freedom-gold-and-sand.json) |
 | Price of a Life | 358991 | [358991-price-of-a-life.json](./358991-price-of-a-life.json) |
 | Price of Flight | 271597 | [271597-price-of-flight.json](./271597-price-of-flight.json) |
+| Price of Glory | 360262 | [360262-price-of-glory.json](./360262-price-of-glory.json) |
 | Price of Knowledge | 348538 | [348538-price-of-knowledge.json](./348538-price-of-knowledge.json) |
 | Price of Obsession | 372503 | [372503-price-of-obsession.json](./372503-price-of-obsession.json) |
 | Price of Power | 291069 | [291069-price-of-power.json](./291069-price-of-power.json) |
