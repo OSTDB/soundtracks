@@ -13093,6 +13093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives 2: Polaris | 398191 | [398191-arcade-archives-2-polaris.json](./398191-arcade-archives-2-polaris.json) |
 | Arcade Archives 2: Prehistoric Isle | 426412 | [426412-arcade-archives-2-prehistoric-isle.json](./426412-arcade-archives-2-prehistoric-isle.json) |
 | Arcade Archives 2: Rack'em Up | 406053 | [406053-arcade-archives-2-rackem-up.json](./406053-arcade-archives-2-rackem-up.json) |
+| Arcade Archives 2: Rave Racer | 388443 | [388443-arcade-archives-2-rave-racer.json](./388443-arcade-archives-2-rave-racer.json) |
 | Arcade Archives 2: Ridge Racer | 338097 | [338097-arcade-archives-2-ridge-racer.json](./338097-arcade-archives-2-ridge-racer.json) |
 | Arcade Archives 2: Roc'n Rope | 381796 | [381796-arcade-archives-2-rocn-rope.json](./381796-arcade-archives-2-rocn-rope.json) |
 | Arcade Archives 2: Satan of Saturn | 415720 | [415720-arcade-archives-2-satan-of-saturn.json](./415720-arcade-archives-2-satan-of-saturn.json) |
