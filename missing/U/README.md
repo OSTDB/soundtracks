@@ -2164,6 +2164,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unease | 260318 | [260318-unease.json](./260318-unease.json) |
 | Uneasy Memories | 295735 | [295735-uneasy-memories.json](./295735-uneasy-memories.json) |
 | Unemployment Quest | 50803 | [50803-unemployment-quest.json](./50803-unemployment-quest.json) |
+| Unemployment Simulator | 326322 | [326322-unemployment-simulator.json](./326322-unemployment-simulator.json) |
+| Unemployment Simulator 2018 | 326323 | [326323-unemployment-simulator-2018.json](./326323-unemployment-simulator-2018.json) |
 | Unending | 260416 | [260416-unending.json](./260416-unending.json) |
 | Unending Aqua | 405732 | [405732-unending-aqua.json](./405732-unending-aqua.json) |
 | UnEnding Bloody Call | 218276 | [218276-unending-bloody-call.json](./218276-unending-bloody-call.json) |
@@ -3235,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unwanted gray | 141513 | [141513-unwanted-gray.json](./141513-unwanted-gray.json) |
 | Unwanted Guest | 423621 | [423621-unwanted-guest.json](./423621-unwanted-guest.json) |
 | Unwanted visitors | 154090 | [154090-unwanted-visitors.json](./154090-unwanted-visitors.json) |
+| Unwanted Xmas Gift Burning Simulator | 326324 | [326324-unwanted-xmas-gift-burning-simulator.json](./326324-unwanted-xmas-gift-burning-simulator.json) |
 | Unwashed | 244294 | [244294-unwashed.json](./244294-unwashed.json) |
 | Unwavering Love | 405465 | [405465-unwavering-love.json](./405465-unwavering-love.json) |
 | Unwelcome | 195951 | [195951-unwelcome.json](./195951-unwelcome.json) |
