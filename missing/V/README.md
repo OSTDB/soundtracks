@@ -1293,12 +1293,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil of Secrets | 313817 | [313817-veil-of-secrets.json](./313817-veil-of-secrets.json) |
 | Veil of Shadows | 271551 | [271551-veil-of-shadows.json](./271551-veil-of-shadows.json) |
 | Veil of Sight | 359388 | [359388-veil-of-sight.json](./359388-veil-of-sight.json) |
+| Veil of the Soulstones | 382674 | [382674-veil-of-the-soulstones.json](./382674-veil-of-the-soulstones.json) |
 | Veil of Time | 423373 | [423373-veil-of-time.json](./423373-veil-of-time.json) |
 | Veil of Torment | 351686 | [351686-veil-of-torment.json](./351686-veil-of-torment.json) |
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
 | Veil Stream | 360675 | [360675-veil-stream.json](./360675-veil-stream.json) |
 | Veil Transfer | 318733 | [318733-veil-transfer.json](./318733-veil-transfer.json) |
 | Veil: Mirages | 350160 | [350160-veil-mirages.json](./350160-veil-mirages.json) |
+| Veil: Project Conductor | 382720 | [382720-veil-project-conductor.json](./382720-veil-project-conductor.json) |
 | Veil: Tactics | 304619 | [304619-veil-tactics.json](./304619-veil-tactics.json) |
 | Veilborn | 374945 | [374945-veilborn.json](./374945-veilborn.json) |
 | Veilborne Sacrament | 375532 | [375532-veilborne-sacrament.json](./375532-veilborne-sacrament.json) |
@@ -3774,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VolleyBrawl | 132502 | [132502-volleybrawl.json](./132502-volleybrawl.json) |
 | Volleydolls | 238824 | [238824-volleydolls.json](./238824-volleydolls.json) |
 | Volleyfire | 66618 | [66618-volleyfire.json](./66618-volleyfire.json) |
+| Volleyhalla | 382693 | [382693-volleyhalla.json](./382693-volleyhalla.json) |
 | VolleyHub | 422404 | [422404-volleyhub.json](./422404-volleyhub.json) |
 | Volleying | 72413 | [72413-volleying.json](./72413-volleying.json) |
 | Volleyring | 274863 | [274863-volleyring.json](./274863-volleyring.json) |
