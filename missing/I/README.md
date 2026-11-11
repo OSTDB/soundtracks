@@ -6660,6 +6660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Raft Survival 2021: Ocean Escape | 163915 | [163915-island-raft-survival-2021-ocean-escape.json](./163915-island-raft-survival-2021-ocean-escape.json) |
 | Island Raiders: War of Legends | 323150 | [323150-island-raiders-war-of-legends.json](./323150-island-raiders-war-of-legends.json) |
 | Island Realms | 54118 | [54118-island-realms.json](./54118-island-realms.json) |
+| Island Restoration | 392569 | [392569-island-restoration.json](./392569-island-restoration.json) |
 | Island Robot Farm | 344883 | [344883-island-robot-farm.json](./344883-island-robot-farm.json) |
 | Island Rush | 274053 | [274053-island-rush.json](./274053-island-rush.json) |
 | Island Saga | 123933 | [123933-island-saga.json](./123933-island-saga.json) |
