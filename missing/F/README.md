@@ -8335,6 +8335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fling D'Block | 239754 | [239754-fling-dblock.json](./239754-fling-dblock.json) |
 | Fling Fighters | 100641 | [100641-fling-fighters.json](./100641-fling-fighters.json) |
 | Fling Friends | 373359 | [373359-fling-friends.json](./373359-fling-friends.json) |
+| Fling it! Shoe Kicking | 366760 | [366760-fling-it-shoe-kicking.json](./366760-fling-it-shoe-kicking.json) |
 | Fling to the Finish | 116840 | [116840-fling-to-the-finish.json](./116840-fling-to-the-finish.json) |
 | Fling with a Tiefling | 322001 | [322001-fling-with-a-tiefling.json](./322001-fling-with-a-tiefling.json) |
 | Fling your Friends TD | 357833 | [357833-fling-your-friends-td.json](./357833-fling-your-friends-td.json) |
