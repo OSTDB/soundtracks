@@ -5875,6 +5875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senpai Arena | 254039 | [254039-senpai-arena.json](./254039-senpai-arena.json) |
 | Senpai ga Imouto no Saigo no Natsu | 406199 | [406199-senpai-ga-imouto-no-saigo-no-natsu.json](./406199-senpai-ga-imouto-no-saigo-no-natsu.json) |
 | Senpai Puzzle: Waifu Summer | 322839 | [322839-senpai-puzzle-waifu-summer.json](./322839-senpai-puzzle-waifu-summer.json) |
+| Senpai Sentinel | 326872 | [326872-senpai-sentinel.json](./326872-senpai-sentinel.json) |
 | Senpai Simulator | 180539 | [180539-senpai-simulator.json](./180539-senpai-simulator.json) |
 | Senpai Teaches Me Japanese | 230123 | [230123-senpai-teaches-me-japanese.json](./230123-senpai-teaches-me-japanese.json) |
 | Senpai, Suki Desu...... Osu!: Boku o Shitatte Kureru Kouhai wa Chibikko Bishoujo de...... Yankee!? | 409418 | [409418-senpai-suki-desu-osu-boku-o-shitatte-kureru-kouhai-wa-chibikko-bishoujo-de-yankee.json](./409418-senpai-suki-desu-osu-boku-o-shitatte-kureru-kouhai-wa-chibikko-bishoujo-de-yankee.json) |
@@ -12450,10 +12451,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siren Head Resurrection | 176246 | [176246-siren-head-resurrection.json](./176246-siren-head-resurrection.json) |
 | Siren Head SCP 6789 | 243223 | [243223-siren-head-scp-6789.json](./243223-siren-head-scp-6789.json) |
 | Siren Head: Remastered | 214336 | [214336-siren-head-remastered.json](./214336-siren-head-remastered.json) |
+| Siren Head: Sound Of Despair | 326870 | [326870-siren-head-sound-of-despair.json](./326870-siren-head-sound-of-despair.json) |
 | Siren Head: Stranded | 309120 | [309120-siren-head-stranded.json](./309120-siren-head-stranded.json) |
+| Siren Head: Terrifying Story | 326886 | [326886-siren-head-terrifying-story.json](./326886-siren-head-terrifying-story.json) |
 | Siren Head: The 8 Pages | 322928 | [322928-siren-head-the-8-pages.json](./322928-siren-head-the-8-pages.json) |
 | Siren Head: The Arrival | 312360 | [312360-siren-head-the-arrival.json](./312360-siren-head-the-arrival.json) |
 | Siren Head: The Horror Experience | 226006 | [226006-siren-head-the-horror-experience.json](./226006-siren-head-the-horror-experience.json) |
+| Siren Head: The Hunt Continues | 326877 | [326877-siren-head-the-hunt-continues.json](./326877-siren-head-the-hunt-continues.json) |
 | Siren Head: The Siren's Forest | 157431 | [157431-siren-head-the-sirens-forest.json](./157431-siren-head-the-sirens-forest.json) |
 | Siren Sands | 350418 | [350418-siren-sands.json](./350418-siren-sands.json) |
 | Siren: Blood Curse | 7457 | [7457-siren-blood-curse.json](./7457-siren-blood-curse.json) |
@@ -14327,6 +14331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slenderman Must Die: Chapter 7 | 321098 | [321098-slenderman-must-die-chapter-7.json](./321098-slenderman-must-die-chapter-7.json) |
 | Slenderman Must Die: Chapter 8 | 321110 | [321110-slenderman-must-die-chapter-8.json](./321110-slenderman-must-die-chapter-8.json) |
 | Slenderman Must Die: Survivors | 321122 | [321122-slenderman-must-die-survivors.json](./321122-slenderman-must-die-survivors.json) |
+| Slenderman Must Run | 326894 | [326894-slenderman-must-run.json](./326894-slenderman-must-run.json) |
 | Slenderman Saw Game | 385596 | [385596-slenderman-saw-game.json](./385596-slenderman-saw-game.json) |
 | Slenderman vs. Freddy the Fazbear | 241740 | [241740-slenderman-vs-freddy-the-fazbear.json](./241740-slenderman-vs-freddy-the-fazbear.json) |
 | Slenderman: Shadow of the Forest | 340551 | [340551-slenderman-shadow-of-the-forest.json](./340551-slenderman-shadow-of-the-forest.json) |
@@ -17302,6 +17307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SokoChess Black | 258312 | [258312-sokochess-black.json](./258312-sokochess-black.json) |
 | SokoChess White | 232960 | [232960-sokochess-white.json](./232960-sokochess-white.json) |
 | SokoCode | 322593 | [322593-sokocode.json](./322593-sokocode.json) |
+| Sokocrab | 326867 | [326867-sokocrab.json](./326867-sokocrab.json) |
 | Sokodice | 147080 | [147080-sokodice.json](./147080-sokodice.json) |
 | SokoFarm | 292237 | [292237-sokofarm.json](./292237-sokofarm.json) |
 | Sokofox | 378743 | [378743-sokofox.json](./378743-sokofox.json) |
@@ -19282,6 +19288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Z-Treme | 317084 | [317084-sonic-z-treme.json](./317084-sonic-z-treme.json) |
 | Sonic Zenith | 331752 | [331752-sonic-zenith.json](./331752-sonic-zenith.json) |
 | Sonic Zero: Remastered | 325946 | [325946-sonic-zero-remastered.json](./325946-sonic-zero-remastered.json) |
+| Sonic Zeta Overdrive | 326865 | [326865-sonic-zeta-overdrive.json](./326865-sonic-zeta-overdrive.json) |
 | Sonic Zones | 316934 | [316934-sonic-zones.json](./316934-sonic-zones.json) |
 | Sonic Zoom | 270223 | [270223-sonic-zoom.json](./270223-sonic-zoom.json) |
 | Sonic_1_2_3_Rom: Sonic.Ribs | 308635 | [308635-sonic-1-2-3-rom-sonic-ribs.json](./308635-sonic-1-2-3-rom-sonic-ribs.json) |
@@ -29385,6 +29392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stowaway | 174008 | [174008-stowaway.json](./174008-stowaway.json) |
 | Stowaway | 187078 | [187078-stowaway.json](./187078-stowaway.json) |
 | Stowaway | 288868 | [288868-stowaway.json](./288868-stowaway.json) |
+| Stowaway | 326883 | [326883-stowaway.json](./326883-stowaway.json) |
 | Stowizm | 184103 | [184103-stowizm.json](./184103-stowizm.json) |
 | Stozle: Solve the Mystery | 284563 | [284563-stozle-solve-the-mystery.json](./284563-stozle-solve-the-mystery.json) |
 | Stradale Racing Simulator | 175380 | [175380-stradale-racing-simulator.json](./175380-stradale-racing-simulator.json) |
@@ -31542,6 +31550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku: We All Play | 92341 | [92341-sudoku-we-all-play.json](./92341-sudoku-we-all-play.json) |
 | Sudoku! For Watch | 368475 | [368475-sudoku-for-watch.json](./368475-sudoku-for-watch.json) |
 | Sudoku. | 90993 | [90993-sudoku.json](./90993-sudoku.json) |
+| Sudoku.com | 326900 | [326900-sudoku-com.json](./326900-sudoku-com.json) |
 | Sudoku+ | 87862 | [87862-sudoku.json](./87862-sudoku.json) |
 | Sudoku3D | 113193 | [113193-sudoku3d.json](./113193-sudoku3d.json) |
 | Sudoku3D 2: The Cube | 115355 | [115355-sudoku3d-2-the-cube.json](./115355-sudoku3d-2-the-cube.json) |
@@ -31878,7 +31887,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumikko Gurashi: Mura wo Tsukurun Desu | 56219 | [56219-sumikko-gurashi-mura-wo-tsukurun-desu.json](./56219-sumikko-gurashi-mura-wo-tsukurun-desu.json) |
 | Sumikko Gurashi: Oheya no Sumi de Tabikibun Sugoroku | 142044 | [142044-sumikko-gurashi-oheya-no-sumi-de-tabikibun-sugoroku.json](./142044-sumikko-gurashi-oheya-no-sumi-de-tabikibun-sugoroku.json) |
 | Sumikko Gurashi: Omise Hajimerun Desu | 59889 | [59889-sumikko-gurashi-omise-hajimerun-desu.json](./59889-sumikko-gurashi-omise-hajimerun-desu.json) |
+| Sumikko Gurashi: Sumikko Catch | 326889 | [326889-sumikko-gurashi-sumikko-catch.json](./326889-sumikko-gurashi-sumikko-catch.json) |
+| Sumikko Gurashi: Sumikko Friend Plus | 326887 | [326887-sumikko-gurashi-sumikko-friend-plus.json](./326887-sumikko-gurashi-sumikko-friend-plus.json) |
 | Sumikko Gurashi: Sumikko Park he Youkoso | 55138 | [55138-sumikko-gurashi-sumikko-park-he-youkoso.json](./55138-sumikko-gurashi-sumikko-park-he-youkoso.json) |
+| Sumikko Gurashi: Sumikko Smartphone | 326891 | [326891-sumikko-gurashi-sumikko-smartphone.json](./326891-sumikko-gurashi-sumikko-smartphone.json) |
+| Sumikko Gurashi: Sumikko Water | 326890 | [326890-sumikko-gurashi-sumikko-water.json](./326890-sumikko-gurashi-sumikko-water.json) |
 | Sumikko Gurashi: Tobidasu Ehon to Himitsu no Ko | 297433 | [297433-sumikko-gurashi-tobidasu-ehon-to-himitsu-no-ko.json](./297433-sumikko-gurashi-tobidasu-ehon-to-himitsu-no-ko.json) |
 | Sumikkogurashi Create a Wonderful Sumikko Island! | 378821 | [378821-sumikkogurashi-create-a-wonderful-sumikko-island.json](./378821-sumikkogurashi-create-a-wonderful-sumikko-island.json) |
 | Sumikkogurashi Farm | 208066 | [208066-sumikkogurashi-farm.json](./208066-sumikkogurashi-farm.json) |
@@ -37226,6 +37239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swarm Harvest | 417418 | [417418-swarm-harvest.json](./417418-swarm-harvest.json) |
 | Swarm Horror | 235416 | [235416-swarm-horror.json](./235416-swarm-horror.json) |
 | Swarm Hunter | 345557 | [345557-swarm-hunter.json](./345557-swarm-hunter.json) |
+| Swarm Madness | 326868 | [326868-swarm-madness.json](./326868-swarm-madness.json) |
 | Swarm Me | 374722 | [374722-swarm-me.json](./374722-swarm-me.json) |
 | Swarm of the Plague Babies | 178789 | [178789-swarm-of-the-plague-babies.json](./178789-swarm-of-the-plague-babies.json) |
 | Swarm Queen | 68837 | [68837-swarm-queen.json](./68837-swarm-queen.json) |
