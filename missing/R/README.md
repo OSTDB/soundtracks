@@ -10133,6 +10133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Squad: Infinity | 332856 | [332856-rocket-squad-infinity.json](./332856-rocket-squad-infinity.json) |
 | Rocket Stop Incident | 151512 | [151512-rocket-stop-incident.json](./151512-rocket-stop-incident.json) |
 | Rocket Storm | 401445 | [401445-rocket-storm.json](./401445-rocket-storm.json) |
+| Rocket Strike: Deep Space | 360227 | [360227-rocket-strike-deep-space.json](./360227-rocket-strike-deep-space.json) |
 | Rocket Swing | 248403 | [248403-rocket-swing.json](./248403-rocket-swing.json) |
 | Rocket Sword | 172992 | [172992-rocket-sword.json](./172992-rocket-sword.json) |
 | Rocket Swords | 107793 | [107793-rocket-swords.json](./107793-rocket-swords.json) |
