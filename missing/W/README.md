@@ -8562,6 +8562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Fighting | 203263 | [203263-world-fighting.json](./203263-world-fighting.json) |
 | World Fighting "The Ishu Kakatou Waza" | 67045 | [67045-world-fighting-the-ishu-kakatou-waza.json](./67045-world-fighting-the-ishu-kakatou-waza.json) |
 | World Fighting Soccer 22 | 214235 | [214235-world-fighting-soccer-22.json](./214235-world-fighting-soccer-22.json) |
+| World Flag Master | 334977 | [334977-world-flag-master.json](./334977-world-flag-master.json) |
 | World Flags Quiz | 99357 | [99357-world-flags-quiz.json](./99357-world-flags-quiz.json) |
 | World Flight | 218854 | [218854-world-flight.json](./218854-world-flight.json) |
 | World Flipper | 130653 | [130653-world-flipper.json](./130653-world-flipper.json) |
