@@ -3334,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onohi | 201634 | [201634-onohi.json](./201634-onohi.json) |
 | Onomastica | 387943 | [387943-onomastica.json](./387943-onomastica.json) |
 | Onomastica 2 | 102046 | [102046-onomastica-2.json](./102046-onomastica-2.json) |
+| Onomatopeya | 350121 | [350121-onomatopeya.json](./350121-onomatopeya.json) |
 | Onoow | 298039 | [298039-onoow.json](./298039-onoow.json) |
 | OnOrbit: Virtual Space Lab | 216929 | [216929-onorbit-virtual-space-lab.json](./216929-onorbit-virtual-space-lab.json) |
 | Onore no Shinzuru Michi wo Yuke | 69196 | [69196-onore-no-shinzuru-michi-wo-yuke.json](./69196-onore-no-shinzuru-michi-wo-yuke.json) |
