@@ -11552,6 +11552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Course Dungeon | 200843 | [200843-four-course-dungeon.json](./200843-four-course-dungeon.json) |
 | Four Directions | 347440 | [347440-four-directions.json](./347440-four-directions.json) |
 | Four Divine Abidings | 352265 | [352265-four-divine-abidings.json](./352265-four-divine-abidings.json) |
+| Four Divine Abidings: Supporter | 357510 | [357510-four-divine-abidings-supporter.json](./357510-four-divine-abidings-supporter.json) |
 | Four Elements Trainer | 141562 | [141562-four-elements-trainer.json](./141562-four-elements-trainer.json) |
 | Four Eyes | 179600 | [179600-four-eyes.json](./179600-four-eyes.json) |
 | Four Flush | 67269 | [67269-four-flush.json](./67269-four-flush.json) |
