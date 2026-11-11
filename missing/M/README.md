@@ -7053,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meatgrinder | 199268 | [199268-meatgrinder.json](./199268-meatgrinder.json) |
 | Meatgrinder | 285507 | [285507-meatgrinder.json](./285507-meatgrinder.json) |
 | Meatgun | 246804 | [246804-meatgun.json](./246804-meatgun.json) |
+| Meathook | 339001 | [339001-meathook.json](./339001-meathook.json) |
 | Meatloaf Rotation | 245674 | [245674-meatloaf-rotation.json](./245674-meatloaf-rotation.json) |
 | Meatlock | 399012 | [399012-meatlock.json](./399012-meatlock.json) |
 | Meatly's Storage World | 233751 | [233751-meatlys-storage-world.json](./233751-meatlys-storage-world.json) |
@@ -18392,6 +18393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morsels | 314931 | [314931-morsels.json](./314931-morsels.json) |
 | Morshu RTX | 144069 | [144069-morshu-rtx.json](./144069-morshu-rtx.json) |
 | Morshu the Game: Adventure Road | 177638 | [177638-morshu-the-game-adventure-road.json](./177638-morshu-the-game-adventure-road.json) |
+| Morsle | 338978 | [338978-morsle.json](./338978-morsle.json) |
 | Morstairs: Part I - Oath of Fealty | 225550 | [225550-morstairs-part-i-oath-of-fealty.json](./225550-morstairs-part-i-oath-of-fealty.json) |
 | Mort the Chicken | 45049 | [45049-mort-the-chicken.json](./45049-mort-the-chicken.json) |
 | MORT: Manageably OK Response Team | 395815 | [395815-mort-manageably-ok-response-team.json](./395815-mort-manageably-ok-response-team.json) |
