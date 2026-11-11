@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden's Prison | 350517 | [350517-edens-prison.json](./350517-edens-prison.json) |
 | Eden's Quest: The Hunt for Akua | 53991 | [53991-edens-quest-the-hunt-for-akua.json](./53991-edens-quest-the-hunt-for-akua.json) |
 | Eden* | 36272 | [36272-eden.json](./36272-eden.json) |
+| EdeN404 | 392577 | [392577-eden404.json](./392577-eden404.json) |
 | Edenbound | 295813 | [295813-edenbound.json](./295813-edenbound.json) |
 | Edenfall | 321940 | [321940-edenfall.json](./321940-edenfall.json) |
 | Edenfall: Legacy of the First Wardens | 235937 | [235937-edenfall-legacy-of-the-first-wardens.json](./235937-edenfall-legacy-of-the-first-wardens.json) |
@@ -4098,6 +4099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Survival | 137856 | [137856-endless-survival.json](./137856-endless-survival.json) |
 | Endless Swarm | 70626 | [70626-endless-swarm.json](./70626-endless-swarm.json) |
 | Endless Tactics | 292379 | [292379-endless-tactics.json](./292379-endless-tactics.json) |
+| Endless Tactics: Trial Run | 392703 | [392703-endless-tactics-trial-run.json](./392703-endless-tactics-trial-run.json) |
 | Endless TD | 388515 | [388515-endless-td.json](./388515-endless-td.json) |
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
 | Endless Thunder | 284278 | [284278-endless-thunder.json](./284278-endless-thunder.json) |
@@ -6010,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Tsunami For Brainrots | 402007 | [402007-escape-tsunami-for-brainrots.json](./402007-escape-tsunami-for-brainrots.json) |
 | Escape Tsunami: Take Brainrots! | 388523 | [388523-escape-tsunami-take-brainrots.json](./388523-escape-tsunami-take-brainrots.json) |
 | Escape Until Friday | 117591 | [117591-escape-until-friday.json](./117591-escape-until-friday.json) |
+| Escape Up | 392557 | [392557-escape-up.json](./392557-escape-up.json) |
 | Escape Vauban | 183179 | [183179-escape-vauban.json](./183179-escape-vauban.json) |
 | Escape Velocity | 113399 | [113399-escape-velocity.json](./113399-escape-velocity.json) |
 | Escape Velocity | 334070 | [334070-escape-velocity.json](./334070-escape-velocity.json) |
