@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Elondria | 296996 | [296996-tales-of-elondria.json](./296996-tales-of-elondria.json) |
 | Tales of Ember | 417230 | [417230-tales-of-ember.json](./417230-tales-of-ember.json) |
 | Tales of Enders | 183750 | [183750-tales-of-enders.json](./183750-tales-of-enders.json) |
+| Tales of Epitome | 377521 | [377521-tales-of-epitome.json](./377521-tales-of-epitome.json) |
 | Tales of Erin | 112244 | [112244-tales-of-erin.json](./112244-tales-of-erin.json) |
 | Tales of Escape | 29560 | [29560-tales-of-escape.json](./29560-tales-of-escape.json) |
 | Tales of Escape: Cold As Ice | 172119 | [172119-tales-of-escape-cold-as-ice.json](./172119-tales-of-escape-cold-as-ice.json) |
@@ -16554,6 +16555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riddle Room 2 | 53781 | [53781-the-riddle-room-2.json](./53781-the-riddle-room-2.json) |
 | The Riddler | 242447 | [242447-the-riddler.json](./242447-the-riddler.json) |
 | The Ridiculous Hat | 100351 | [100351-the-ridiculous-hat.json](./100351-the-ridiculous-hat.json) |
+| The Riese Project | 377513 | [377513-the-riese-project.json](./377513-the-riese-project.json) |
 | The Rifle Man | 236070 | [236070-the-rifle-man.json](./236070-the-rifle-man.json) |
 | The Riflemen | 207311 | [207311-the-riflemen.json](./207311-the-riflemen.json) |
 | The Rift | 116300 | [116300-the-rift.json](./116300-the-rift.json) |
@@ -28059,6 +28061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kouma Daimeikyuu | 203647 | [203647-touhou-kouma-daimeikyuu.json](./203647-touhou-kouma-daimeikyuu.json) |
 | Touhou Kouma Meikyuu: Adventures of Reimu | 203160 | [203160-touhou-kouma-meikyuu-adventures-of-reimu.json](./203160-touhou-kouma-meikyuu-adventures-of-reimu.json) |
 | Touhou Koumadan | 377364 | [377364-touhou-koumadan.json](./377364-touhou-koumadan.json) |
+| Touhou Koumakyou | 377518 | [377518-touhou-koumakyou.json](./377518-touhou-koumakyou.json) |
 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil | 405461 | [405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json](./405461-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil.json) |
 | Touhou Koumakyou: New Classic - The Embodiment of Scarlet Devil: Deluxe Edition | 418331 | [418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json](./418331-touhou-koumakyou-new-classic-the-embodiment-of-scarlet-devil-deluxe-edition.json) |
 | Touhou Koumakyou: The Embodiment of Scarlet Devil | 27155 | [27155-touhou-koumakyou-the-embodiment-of-scarlet-devil.json](./27155-touhou-koumakyou-the-embodiment-of-scarlet-devil.json) |
