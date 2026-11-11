@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggconsole Crimson II PC-8801mkIISR | 365538 | [365538-eggconsole-crimson-ii-pc-8801mkiisr.json](./365538-eggconsole-crimson-ii-pc-8801mkiisr.json) |
 | Eggconsole Crimson PC-8801mkIISR | 328527 | [328527-eggconsole-crimson-pc-8801mkiisr.json](./328527-eggconsole-crimson-pc-8801mkiisr.json) |
 | Eggconsole Crystal Chaser: Overlord's Orb of the Sky - Refined PC-9801 | 378794 | [378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json](./378794-eggconsole-crystal-chaser-overlords-orb-of-the-sky-refined-pc-9801.json) |
+| Eggconsole Daidassou PC-8801 | 366759 | [366759-eggconsole-daidassou-pc-8801.json](./366759-eggconsole-daidassou-pc-8801.json) |
 | Eggconsole Deep Dungeon II MSX | 420692 | [420692-eggconsole-deep-dungeon-ii-msx.json](./420692-eggconsole-deep-dungeon-ii-msx.json) |
 | Eggconsole Deep Dungeon MSX | 400164 | [400164-eggconsole-deep-dungeon-msx.json](./400164-eggconsole-deep-dungeon-msx.json) |
 | Eggconsole Diable de Laplace PC-8801mkIISR | 362200 | [362200-eggconsole-diable-de-laplace-pc-8801mkiisr.json](./362200-eggconsole-diable-de-laplace-pc-8801mkiisr.json) |
@@ -3080,6 +3081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium Infinity | 237668 | [237668-elysium-infinity.json](./237668-elysium-infinity.json) |
 | Elysium Lost | 219823 | [219823-elysium-lost.json](./219823-elysium-lost.json) |
 | Elysium Online | 138714 | [138714-elysium-online.json](./138714-elysium-online.json) |
+| Elysium Restaurant | 367064 | [367064-elysium-restaurant.json](./367064-elysium-restaurant.json) |
 | Elysium Skies | 285711 | [285711-elysium-skies.json](./285711-elysium-skies.json) |
 | Elysium Trials | 257801 | [257801-elysium-trials.json](./257801-elysium-trials.json) |
 | Elysium VR | 103358 | [103358-elysium-vr.json](./103358-elysium-vr.json) |
@@ -5021,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epyx Winter Games | 78929 | [78929-epyx-winter-games.json](./78929-epyx-winter-games.json) |
 | Epyx's Impossible Mission | 118868 | [118868-epyxs-impossible-mission.json](./118868-epyxs-impossible-mission.json) |
 | EQ Survival Manual | 406819 | [406819-eq-survival-manual.json](./406819-eq-survival-manual.json) |
+| EQ: Countries | 367074 | [367074-eq-countries.json](./367074-eq-countries.json) |
 | Eqdrive.io | 195550 | [195550-eqdrive-io.json](./195550-eqdrive-io.json) |
 | Eqela Space Destroyer | 100701 | [100701-eqela-space-destroyer.json](./100701-eqela-space-destroyer.json) |
 | Eqi | 142629 | [142629-eqi.json](./142629-eqi.json) |
