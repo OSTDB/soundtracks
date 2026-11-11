@@ -6203,6 +6203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero by Chance | 160110 | [160110-hero-by-chance.json](./160110-hero-by-chance.json) |
 | Hero Cantare | 130642 | [130642-hero-cantare.json](./130642-hero-cantare.json) |
 | Hero Chest | 197161 | [197161-hero-chest.json](./197161-hero-chest.json) |
+| Hero Clash | 354129 | [354129-hero-clash.json](./354129-hero-clash.json) |
 | Hero Conquest | 83215 | [83215-hero-conquest.json](./83215-hero-conquest.json) |
 | Hero Core | 51307 | [51307-hero-core.json](./51307-hero-core.json) |
 | Hero Cummy | 285398 | [285398-hero-cummy.json](./285398-hero-cummy.json) |
