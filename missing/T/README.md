@@ -1765,6 +1765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamako | 366315 | [366315-tamako.json](./366315-tamako.json) |
 | Tamale Loco: Rumble in the Desert | 173076 | [173076-tamale-loco-rumble-in-the-desert.json](./173076-tamale-loco-rumble-in-the-desert.json) |
 | Tamale Loco: Rumble in the Desert 2 | 174563 | [174563-tamale-loco-rumble-in-the-desert-2.json](./174563-tamale-loco-rumble-in-the-desert-2.json) |
+| Tamamoji | 372344 | [372344-tamamoji.json](./372344-tamamoji.json) |
 | Tamamon | 380687 | [380687-tamamon.json](./380687-tamamon.json) |
 | Tamane with Happa and Friends | 82565 | [82565-tamane-with-happa-and-friends.json](./82565-tamane-with-happa-and-friends.json) |
 | Tamanegi Nashi | 130488 | [130488-tamanegi-nashi.json](./130488-tamanegi-nashi.json) |
@@ -24580,6 +24581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tin Coffins | 422683 | [422683-tin-coffins.json](./422683-tin-coffins.json) |
 | Tin Hearts | 253170 | [253170-tin-hearts.json](./253170-tin-hearts.json) |
 | Tin Knight | 240093 | [240093-tin-knight.json](./240093-tin-knight.json) |
+| Tin Lord | 372353 | [372353-tin-lord.json](./372353-tin-lord.json) |
 | Tin Soldiers: Alexander the Great | 72757 | [72757-tin-soldiers-alexander-the-great.json](./72757-tin-soldiers-alexander-the-great.json) |
 | Tin Soldiers: Julius Caesar | 72758 | [72758-tin-soldiers-julius-caesar.json](./72758-tin-soldiers-julius-caesar.json) |
 | Tin Star | 104677 | [104677-tin-star.json](./104677-tin-star.json) |
@@ -35491,6 +35493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyler: Model 005 | 29943 | [29943-tyler-model-005.json](./29943-tyler-model-005.json) |
 | Tyler's White Lie | 339465 | [339465-tylers-white-lie.json](./339465-tylers-white-lie.json) |
 | Tynk! and the Final Phonorecord | 194610 | [194610-tynk-and-the-final-phonorecord.json](./194610-tynk-and-the-final-phonorecord.json) |
+| Type | 372371 | [372371-type.json](./372371-type.json) |
 | Type | 95255 | [95255-type.json](./95255-type.json) |
 | Type 'n Jump | 183995 | [183995-type-n-jump.json](./183995-type-n-jump.json) |
 | Type 'n' Fish | 335601 | [335601-type-n-fish.json](./335601-type-n-fish.json) |
