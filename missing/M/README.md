@@ -3414,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mannequin Mayhem: Physics Ragdoll Shooter | 286671 | [286671-mannequin-mayhem-physics-ragdoll-shooter.json](./286671-mannequin-mayhem-physics-ragdoll-shooter.json) |
 | Mannequin Syndrome | 345853 | [345853-mannequin-syndrome.json](./345853-mannequin-syndrome.json) |
 | Mannequin The Spotting | 255690 | [255690-mannequin-the-spotting.json](./255690-mannequin-the-spotting.json) |
+| Mannequin: Factory | 359647 | [359647-mannequin-factory.json](./359647-mannequin-factory.json) |
 | Mannerheim's Saloon Car | 277636 | [277636-mannerheims-saloon-car.json](./277636-mannerheims-saloon-car.json) |
 | Manners Be Damned! | 330900 | [330900-manners-be-damned.json](./330900-manners-be-damned.json) |
 | Manny Boxing VR | 202634 | [202634-manny-boxing-vr.json](./202634-manny-boxing-vr.json) |
@@ -8549,6 +8550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaDrill | 286637 | [286637-megadrill.json](./286637-megadrill.json) |
 | Megadungeon | 310752 | [310752-megadungeon.json](./310752-megadungeon.json) |
 | MegaFactory Titan | 191648 | [191648-megafactory-titan.json](./191648-megafactory-titan.json) |
+| MegaFactory Tycoon | 359646 | [359646-megafactory-tycoon.json](./359646-megafactory-tycoon.json) |
 | Megafist | 332400 | [332400-megafist.json](./332400-megafist.json) |
 | Megafortress | 71481 | [71481-megafortress.json](./71481-megafortress.json) |
 | Megafortress Collection | 244870 | [244870-megafortress-collection.json](./244870-megafortress-collection.json) |
@@ -15589,6 +15591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Warships: Sea Battle Online | 174797 | [174797-modern-warships-sea-battle-online.json](./174797-modern-warships-sea-battle-online.json) |
 | Modern Zombie | 24943 | [24943-modern-zombie.json](./24943-modern-zombie.json) |
 | ModernArcheryVR | 100832 | [100832-modernarcheryvr.json](./100832-modernarcheryvr.json) |
+| ModernFactory | 359645 | [359645-modernfactory.json](./359645-modernfactory.json) |
 | ModernFire | 370079 | [370079-modernfire.json](./370079-modernfire.json) |
 | Moderngroove: Ministry of Sound Edition | 43632 | [43632-moderngroove-ministry-of-sound-edition.json](./43632-moderngroove-ministry-of-sound-edition.json) |
 | Modernism | 92806 | [92806-modernism.json](./92806-modernism.json) |
@@ -16171,6 +16174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Munchers | 59890 | [59890-money-munchers.json](./59890-money-munchers.json) |
 | Money Parasite: Usotsuki na Onna | 225885 | [225885-money-parasite-usotsuki-na-onna.json](./225885-money-parasite-usotsuki-na-onna.json) |
 | Money Planet | 354918 | [354918-money-planet.json](./354918-money-planet.json) |
+| Money Print Factory 3D Tycoon | 359644 | [359644-money-print-factory-3d-tycoon.json](./359644-money-print-factory-3d-tycoon.json) |
 | Money Puzzle Exchanger | 37280 | [37280-money-puzzle-exchanger.json](./37280-money-puzzle-exchanger.json) |
 | Money Run | 197138 | [197138-money-run.json](./197138-money-run.json) |
 | Money Simulator | 304431 | [304431-money-simulator.json](./304431-money-simulator.json) |
