@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tadpole Treble | 22444 | [22444-tadpole-treble.json](./22444-tadpole-treble.json) |
 | Tadpole Treble Encore | 142698 | [142698-tadpole-treble-encore.json](./142698-tadpole-treble-encore.json) |
 | Tae Bo Girl Dress Up | 62596 | [62596-tae-bo-girl-dress-up.json](./62596-tae-bo-girl-dress-up.json) |
+| Tae Kwon Dog | 321094 | [321094-tae-kwon-dog.json](./321094-tae-kwon-dog.json) |
 | Taekwon-do | 114033 | [114033-taekwon-do.json](./114033-taekwon-do.json) |
 | Taekwondo | 93478 | [93478-taekwondo.json](./93478-taekwondo.json) |
 | Taekwondo Demonstration Team Simulator | 160108 | [160108-taekwondo-demonstration-team-simulator.json](./160108-taekwondo-demonstration-team-simulator.json) |
@@ -2799,6 +2800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasty Love | 192453 | [192453-tasty-love.json](./192453-tasty-love.json) |
 | Tasty Ninja: Vegetable Invasion | 181769 | [181769-tasty-ninja-vegetable-invasion.json](./181769-tasty-ninja-vegetable-invasion.json) |
 | Tasty Planet | 73305 | [73305-tasty-planet.json](./73305-tasty-planet.json) |
+| Tasty Planet Dinotime | 321676 | [321676-tasty-planet-dinotime.json](./321676-tasty-planet-dinotime.json) |
 | Tasty Planet Forever | 110538 | [110538-tasty-planet-forever.json](./110538-tasty-planet-forever.json) |
 | Tasty Planet HD | 88976 | [88976-tasty-planet-hd.json](./88976-tasty-planet-hd.json) |
 | Tasty Planet: Back for Seconds | 33469 | [33469-tasty-planet-back-for-seconds.json](./33469-tasty-planet-back-for-seconds.json) |
@@ -6119,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alters: Signature Edition | 381720 | [381720-the-alters-signature-edition.json](./381720-the-alters-signature-edition.json) |
 | The Alto Collection | 136508 | [136508-the-alto-collection.json](./136508-the-alto-collection.json) |
 | The Aly & AJ Adventure | 71969 | [71969-the-aly-and-aj-adventure.json](./71969-the-aly-and-aj-adventure.json) |
+| The Amateur Deity Society | 321088 | [321088-the-amateur-deity-society.json](./321088-the-amateur-deity-society.json) |
 | The Amazeing Labyrinth | 57085 | [57085-the-amazeing-labyrinth.json](./57085-the-amazeing-labyrinth.json) |
 | The Amazing Adventures of ANSI Dude | 79231 | [79231-the-amazing-adventures-of-ansi-dude.json](./79231-the-amazing-adventures-of-ansi-dude.json) |
 | The Amazing Adventures of Ash - Afterparty | 33634 | [33634-the-amazing-adventures-of-ash-afterparty.json](./33634-the-amazing-adventures-of-ash-afterparty.json) |
@@ -10232,6 +10235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flock | 19968 | [19968-the-flock.json](./19968-the-flock.json) |
 | The Flood | 93780 | [93780-the-flood.json](./93780-the-flood.json) |
 | The Flood: Forgotten Exile | 332928 | [332928-the-flood-forgotten-exile.json](./332928-the-flood-forgotten-exile.json) |
+| ﻿﻿The Flooded Tower | 321709 | [321709-the-flooded-tower.json](./321709-the-flooded-tower.json) |
 | The Floor is [Blank] | 157140 | [157140-the-floor-is-blank.json](./157140-the-floor-is-blank.json) |
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
 | The Floor is Jelly | 11309 | [11309-the-floor-is-jelly.json](./11309-the-floor-is-jelly.json) |
@@ -11143,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hall | 399025 | [399025-the-hall.json](./399025-the-hall.json) |
 | The Hall of Epiphany | 276379 | [276379-the-hall-of-epiphany.json](./276379-the-hall-of-epiphany.json) |
 | The Halley Project: A Mission in Our Solar System | 12607 | [12607-the-halley-project-a-mission-in-our-solar-system.json](./12607-the-halley-project-a-mission-in-our-solar-system.json) |
+| The Hallowed Garden | 321701 | [321701-the-hallowed-garden.json](./321701-the-hallowed-garden.json) |
 | The Halloween | 376175 | [376175-the-halloween.json](./376175-the-halloween.json) |
 | The Halloween Incident | 368222 | [368222-the-halloween-incident.json](./368222-the-halloween-incident.json) |
 | The Halloween Party | 316470 | [316470-the-halloween-party.json](./316470-the-halloween-party.json) |
@@ -13256,6 +13261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Gandar II | 216660 | [216660-the-legend-of-gandar-ii.json](./216660-the-legend-of-gandar-ii.json) |
 | The Legend of Gandar III | 351524 | [351524-the-legend-of-gandar-iii.json](./351524-the-legend-of-gandar-iii.json) |
 | The Legend of GEML: Awakening | 307589 | [307589-the-legend-of-geml-awakening.json](./307589-the-legend-of-geml-awakening.json) |
+| The Legend of Goose: The Honk Waker | 321007 | [321007-the-legend-of-goose-the-honk-waker.json](./321007-the-legend-of-goose-the-honk-waker.json) |
 | The Legend of Gwen | 223177 | [223177-the-legend-of-gwen.json](./223177-the-legend-of-gwen.json) |
 | The Legend of Heavenly Mist | 183031 | [183031-the-legend-of-heavenly-mist.json](./183031-the-legend-of-heavenly-mist.json) |
 | The Legend of Herobrine | 231833 | [231833-the-legend-of-herobrine.json](./231833-the-legend-of-herobrine.json) |
@@ -19676,6 +19682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vaults Below Durn: A Field Study | 401853 | [401853-the-vaults-below-durn-a-field-study.json](./401853-the-vaults-below-durn-a-field-study.json) |
 | The Vaults of Minos | 213311 | [213311-the-vaults-of-minos.json](./213311-the-vaults-of-minos.json) |
 | The Veil of Mystery: Seven Little Gnomes | 185935 | [185935-the-veil-of-mystery-seven-little-gnomes.json](./185935-the-veil-of-mystery-seven-little-gnomes.json) |
+| The Veil of the Forgotten | 321688 | [321688-the-veil-of-the-forgotten.json](./321688-the-veil-of-the-forgotten.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
 | The Vellescian Gambit | 190287 | [190287-the-vellescian-gambit.json](./190287-the-vellescian-gambit.json) |
 | The Velvet Green Witch: A Quiet Life | 407701 | [407701-the-velvet-green-witch-a-quiet-life.json](./407701-the-velvet-green-witch-a-quiet-life.json) |
@@ -22087,6 +22094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderbird: The Legend Begins | 18972 | [18972-thunderbird-the-legend-begins.json](./18972-thunderbird-the-legend-begins.json) |
 | Thunderbirds | 12796 | [12796-thunderbirds.json](./12796-thunderbirds.json) |
 | Thunderbirds | 26272 | [26272-thunderbirds.json](./26272-thunderbirds.json) |
+| Thunderbirds | 321686 | [321686-thunderbirds.json](./321686-thunderbirds.json) |
 | Thunderbirds | 344248 | [344248-thunderbirds.json](./344248-thunderbirds.json) |
 | Thunderbirds | 74908 | [74908-thunderbirds.json](./74908-thunderbirds.json) |
 | Thunderbirds | 83247 | [83247-thunderbirds.json](./83247-thunderbirds.json) |
@@ -24319,6 +24327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Donkey | 219501 | [219501-time-donkey.json](./219501-time-donkey.json) |
 | Time Drifter | 105593 | [105593-time-drifter.json](./105593-time-drifter.json) |
 | Time Drive: Racing Destiny | 258029 | [258029-time-drive-racing-destiny.json](./258029-time-drive-racing-destiny.json) |
+| Time Dudes | 321674 | [321674-time-dudes.json](./321674-time-dudes.json) |
 | Time Enforcers | 337500 | [337500-time-enforcers.json](./337500-time-enforcers.json) |
 | Time Engineer Saga: Situation Zulu | 416052 | [416052-time-engineer-saga-situation-zulu.json](./416052-time-engineer-saga-situation-zulu.json) |
 | Time Escape: A Prototype | 288602 | [288602-time-escape-a-prototype.json](./288602-time-escape-a-prototype.json) |
@@ -27456,6 +27465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toridama: Brave Challenge | 114887 | [114887-toridama-brave-challenge.json](./114887-toridama-brave-challenge.json) |
 | Toride | 37784 | [37784-toride.json](./37784-toride.json) |
 | ToriDori | 211825 | [211825-toridori.json](./211825-toridori.json) |
+| ToriDori 2 | 321725 | [321725-toridori-2.json](./321725-toridori-2.json) |
 | Torii | 141335 | [141335-torii.json](./141335-torii.json) |
 | Torii Guardian | 329504 | [329504-torii-guardian.json](./329504-torii-guardian.json) |
 | Torii Path | 112932 | [112932-torii-path.json](./112932-torii-path.json) |
@@ -27612,6 +27622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toshiue Kanojo 2 | 392966 | [392966-toshiue-kanojo-2.json](./392966-toshiue-kanojo-2.json) |
 | Toshiue Kanojo no Amayaka Dousei | 402711 | [402711-toshiue-kanojo-no-amayaka-dousei.json](./402711-toshiue-kanojo-no-amayaka-dousei.json) |
 | Toshokan de ha Oshiuka ni. | 316671 | [316671-toshokan-de-ha-oshiuka-ni.json](./316671-toshokan-de-ha-oshiuka-ni.json) |
+| Toshoshitsu no Neversista | 321698 | [321698-toshoshitsu-no-neversista.json](./321698-toshoshitsu-no-neversista.json) |
 | Toska | 334482 | [334482-toska.json](./334482-toska.json) |
 | Toska | 339637 | [339637-toska.json](./339637-toska.json) |
 | Toss | 402223 | [402223-toss.json](./402223-toss.json) |
