@@ -446,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factions of Fate | 426098 | [426098-factions-of-fate.json](./426098-factions-of-fate.json) |
 | Factions: Origins of Malu | 36031 | [36031-factions-origins-of-malu.json](./36031-factions-origins-of-malu.json) |
 | Factomancer | 391915 | [391915-factomancer.json](./391915-factomancer.json) |
+| Factor 72 | 373421 | [373421-factor-72.json](./373421-factor-72.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
 | Factor Find | 243637 | [243637-factor-find.json](./243637-factor-find.json) |
 | Factor Y | 236156 | [236156-factor-y.json](./236156-factor-y.json) |
@@ -7955,6 +7956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flashout III | 199568 | [199568-flashout-iii.json](./199568-flashout-iii.json) |
 | Flashover MegaSector | 124440 | [124440-flashover-megasector.json](./124440-flashover-megasector.json) |
 | Flashpaper | 414059 | [414059-flashpaper.json](./414059-flashpaper.json) |
+| Flashpoint Campaigns: Cold War | 373422 | [373422-flashpoint-campaigns-cold-war.json](./373422-flashpoint-campaigns-cold-war.json) |
 | Flashpoint Campaigns: Red Storm | 139724 | [139724-flashpoint-campaigns-red-storm.json](./139724-flashpoint-campaigns-red-storm.json) |
 | Flashpoint Campaigns: Southern Storm | 143429 | [143429-flashpoint-campaigns-southern-storm.json](./143429-flashpoint-campaigns-southern-storm.json) |
 | Flashy Maze | 130742 | [130742-flashy-maze.json](./130742-flashy-maze.json) |
@@ -12207,6 +12209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fred the Movie: Figglehorn Fling | 320943 | [320943-fred-the-movie-figglehorn-fling.json](./320943-fred-the-movie-figglehorn-fling.json) |
 | Fred Versus | 200044 | [200044-fred-versus.json](./200044-fred-versus.json) |
 | Fred's Cereal Company | 253950 | [253950-freds-cereal-company.json](./253950-freds-cereal-company.json) |
+| Fred's Idle Garden | 373426 | [373426-freds-idle-garden.json](./373426-freds-idle-garden.json) |
 | Fred3ric | 139225 | [139225-fred3ric.json](./139225-fred3ric.json) |
 | Fredbear and Friends: Left to Rot | 233967 | [233967-fredbear-and-friends-left-to-rot.json](./233967-fredbear-and-friends-left-to-rot.json) |
 | Fredbear and Friends: Reboot | 319668 | [319668-fredbear-and-friends-reboot.json](./319668-fredbear-and-friends-reboot.json) |
