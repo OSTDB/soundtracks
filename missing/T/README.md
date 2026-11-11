@@ -1862,6 +1862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangent | 377865 | [377865-tangent.json](./377865-tangent.json) |
 | Tangent | 92813 | [92813-tangent.json](./92813-tangent.json) |
 | Tangent Rush | 169899 | [169899-tangent-rush.json](./169899-tangent-rush.json) |
+| Tangerine Antarctic | 319488 | [319488-tangerine-antarctic.json](./319488-tangerine-antarctic.json) |
 | Tangerine Clicker | 247212 | [247212-tangerine-clicker.json](./247212-tangerine-clicker.json) |
 | Tangerine Nightmare | 259354 | [259354-tangerine-nightmare.json](./259354-tangerine-nightmare.json) |
 | Tangerine Panic | 280213 | [280213-tangerine-panic.json](./280213-tangerine-panic.json) |
@@ -2675,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarmac Legends | 253545 | [253545-tarmac-legends.json](./253545-tarmac-legends.json) |
 | Tarnished | 410522 | [410522-tarnished.json](./410522-tarnished.json) |
 | Tarnished Blood | 250840 | [250840-tarnished-blood.json](./250840-tarnished-blood.json) |
+| Tarnobol | 319509 | [319509-tarnobol.json](./319509-tarnobol.json) |
 | Tarnsman's Projectile Hell | 262435 | [262435-tarnsmans-projectile-hell.json](./262435-tarnsmans-projectile-hell.json) |
 | Taro | 126637 | [126637-taro.json](./126637-taro.json) |
 | Taro Is Back | 415094 | [415094-taro-is-back.json](./415094-taro-is-back.json) |
@@ -2906,6 +2908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tavern Master: Pirates Retreat | 377716 | [377716-tavern-master-pirates-retreat.json](./377716-tavern-master-pirates-retreat.json) |
 | Tavern of Empire | 248670 | [248670-tavern-of-empire.json](./248670-tavern-of-empire.json) |
 | Tavern of Gods | 149261 | [149261-tavern-of-gods.json](./149261-tavern-of-gods.json) |
+| Tavern of Spear | 319470 | [319470-tavern-of-spear.json](./319470-tavern-of-spear.json) |
 | Tavern Owner Simulator | 332155 | [332155-tavern-owner-simulator.json](./332155-tavern-owner-simulator.json) |
 | Tavern Revisited | 308871 | [308871-tavern-revisited.json](./308871-tavern-revisited.json) |
 | Tavern Rivals | 417566 | [417566-tavern-rivals.json](./417566-tavern-rivals.json) |
@@ -4914,6 +4917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrier Manager | 390893 | [390893-terrier-manager.json](./390893-terrier-manager.json) |
 | Terrierble Logic | 251008 | [251008-terrierble-logic.json](./251008-terrierble-logic.json) |
 | Terrific Tennis | 183736 | [183736-terrific-tennis.json](./183736-terrific-tennis.json) |
+| Terrifier: The ARTcade Game | 319465 | [319465-terrifier-the-artcade-game.json](./319465-terrifier-the-artcade-game.json) |
 | Terrifying 9/11 | 165146 | [165146-terrifying-9-11.json](./165146-terrifying-9-11.json) |
 | Terrinoth: Heroes of Descent | 389109 | [389109-terrinoth-heroes-of-descent.json](./389109-terrinoth-heroes-of-descent.json) |
 | Territopple | 379666 | [379666-territopple.json](./379666-territopple.json) |
@@ -18136,6 +18140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spike | 137838 | [137838-the-spike.json](./137838-the-spike.json) |
 | The Spike Cross | 338659 | [338659-the-spike-cross.json](./338659-the-spike-cross.json) |
 | The Spikes Beneath | 61768 | [61768-the-spikes-beneath.json](./61768-the-spikes-beneath.json) |
+| The Spiral | 319493 | [319493-the-spiral.json](./319493-the-spiral.json) |
 | The Spiral Egg Challenge | 257527 | [257527-the-spiral-egg-challenge.json](./257527-the-spiral-egg-challenge.json) |
 | The Spiral Labyrinth | 149330 | [149330-the-spiral-labyrinth.json](./149330-the-spiral-labyrinth.json) |
 | The Spiral Scouts | 96200 | [96200-the-spiral-scouts.json](./96200-the-spiral-scouts.json) |
@@ -20167,6 +20172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Whittled Horse | 309461 | [309461-the-whittled-horse.json](./309461-the-whittled-horse.json) |
 | The Whole World is in Check | 185017 | [185017-the-whole-world-is-in-check.json](./185017-the-whole-world-is-in-check.json) |
 | The Wicked Days | 148907 | [148907-the-wicked-days.json](./148907-the-wicked-days.json) |
+| The Wicked Father | 319511 | [319511-the-wicked-father.json](./319511-the-wicked-father.json) |
 | The Wicked Souls | 270038 | [270038-the-wicked-souls.json](./270038-the-wicked-souls.json) |
 | The Wicked West | 296465 | [296465-the-wicked-west.json](./296465-the-wicked-west.json) |
 | The Wicked Witch of the West | 314766 | [314766-the-wicked-witch-of-the-west.json](./314766-the-wicked-witch-of-the-west.json) |
