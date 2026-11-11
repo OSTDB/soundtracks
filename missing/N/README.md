@@ -4959,6 +4959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Simulator | 89641 | [89641-nightmare-simulator.json](./89641-nightmare-simulator.json) |
 | Nightmare Simulator 2 Rebirth | 148967 | [148967-nightmare-simulator-2-rebirth.json](./148967-nightmare-simulator-2-rebirth.json) |
 | Nightmare Slash | 204374 | [204374-nightmare-slash.json](./204374-nightmare-slash.json) |
+| Nightmare SuperHighway | 336235 | [336235-nightmare-superhighway.json](./336235-nightmare-superhighway.json) |
 | Nightmare Tale | 292758 | [292758-nightmare-tale.json](./292758-nightmare-tale.json) |
 | Nightmare Temptation Academy | 144117 | [144117-nightmare-temptation-academy.json](./144117-nightmare-temptation-academy.json) |
 | Nightmare Train | 383878 | [383878-nightmare-train.json](./383878-nightmare-train.json) |
