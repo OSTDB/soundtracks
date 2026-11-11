@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Simple Door | 311647 | [311647-a-simple-door.json](./311647-a-simple-door.json) |
 | A Simple Expurriment | 254020 | [254020-a-simple-expurriment.json](./254020-a-simple-expurriment.json) |
 | A Simple Garbage Sorting Game | 329705 | [329705-a-simple-garbage-sorting-game.json](./329705-a-simple-garbage-sorting-game.json) |
+| A Simple Job | 347422 | [347422-a-simple-job.json](./347422-a-simple-job.json) |
 | A Simple Life | 300879 | [300879-a-simple-life.json](./300879-a-simple-life.json) |
 | A Simple Life with My Unobtrusive Sister | 373573 | [373573-a-simple-life-with-my-unobtrusive-sister.json](./373573-a-simple-life-with-my-unobtrusive-sister.json) |
 | A Simple Love Story | 25072 | [25072-a-simple-love-story.json](./25072-a-simple-love-story.json) |
@@ -4452,6 +4453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Path of Corruption | 213427 | [213427-aery-path-of-corruption.json](./213427-aery-path-of-corruption.json) |
 | Aery: Peace of Mind | 296628 | [296628-aery-peace-of-mind.json](./296628-aery-peace-of-mind.json) |
 | Aery: Peace of Mind 2 | 302305 | [302305-aery-peace-of-mind-2.json](./302305-aery-peace-of-mind-2.json) |
+| Aery: Peace of Mind 3 | 347383 | [347383-aery-peace-of-mind-3.json](./347383-aery-peace-of-mind-3.json) |
 | Aery: Peace of Mind 4 | 377272 | [377272-aery-peace-of-mind-4.json](./377272-aery-peace-of-mind-4.json) |
 | Aery: Stone Age | 283895 | [283895-aery-stone-age.json](./283895-aery-stone-age.json) |
 | Aery: Surreal World | 411807 | [411807-aery-surreal-world.json](./411807-aery-surreal-world.json) |
@@ -5608,6 +5610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Yori Aoshi | 72668 | [72668-ai-yori-aoshi.json](./72668-ai-yori-aoshi.json) |
 | Ai Yu Ming De Bi Duan | 151021 | [151021-ai-yu-ming-de-bi-duan.json](./151021-ai-yu-ming-de-bi-duan.json) |
 | Ai-(Onic) | 197878 | [197878-ai-onic.json](./197878-ai-onic.json) |
+| AI-deal-Rays | 347373 | [347373-ai-deal-rays.json](./347373-ai-deal-rays.json) |
 | AI: Art Impostor | 219980 | [219980-ai-art-impostor.json](./219980-ai-art-impostor.json) |
 | AI: Rampage | 33611 | [33611-ai-rampage.json](./33611-ai-rampage.json) |
 | AI: The Somnium Files | 104971 | [104971-ai-the-somnium-files.json](./104971-ai-the-somnium-files.json) |
@@ -17081,6 +17084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Dodge | 268876 | [268876-astral-dodge.json](./268876-astral-dodge.json) |
 | Astral Domine | 33078 | [33078-astral-domine.json](./33078-astral-domine.json) |
 | Astral Druids | 278002 | [278002-astral-druids.json](./278002-astral-druids.json) |
+| Astral Dusk | 347398 | [347398-astral-dusk.json](./347398-astral-dusk.json) |
 | Astral Equilibrium | 140358 | [140358-astral-equilibrium.json](./140358-astral-equilibrium.json) |
 | Astral Escape | 308324 | [308324-astral-escape.json](./308324-astral-escape.json) |
 | Astral Fable | 303187 | [303187-astral-fable.json](./303187-astral-fable.json) |
