@@ -127,6 +127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oath | 127647 | [127647-oath.json](./127647-oath.json) |
 | Oath | 169955 | [169955-oath.json](./169955-oath.json) |
 | Oath | 311762 | [311762-oath.json](./311762-oath.json) |
+| Oath | 350666 | [350666-oath.json](./350666-oath.json) |
 | Oath Eternal | 409858 | [409858-oath-eternal.json](./409858-oath-eternal.json) |
 | Oath MMORPG | 124532 | [124532-oath-mmorpg.json](./124532-oath-mmorpg.json) |
 | Oath of Miko | 171470 | [171470-oath-of-miko.json](./171470-oath-of-miko.json) |
