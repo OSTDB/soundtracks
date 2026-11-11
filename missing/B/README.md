@@ -9314,7 +9314,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit.Trip Beat | 9535 | [9535-bit-trip-beat.json](./9535-bit-trip-beat.json) |
 | Bit.Trip Beat HD | 21741 | [21741-bit-trip-beat-hd.json](./21741-bit-trip-beat-hd.json) |
 | Bit.Trip Complete | 4719 | [4719-bit-trip-complete.json](./4719-bit-trip-complete.json) |
-| Bit.Trip Core | 15280 | [15280-bit-trip-core.json](./15280-bit-trip-core.json) |
 | Bit.Trip Presents... Runner2: Future Legend of Rhythm Alien | 5592 | [5592-bit-trip-presents-runner2-future-legend-of-rhythm-alien.json](./5592-bit-trip-presents-runner2-future-legend-of-rhythm-alien.json) |
 | Bit.Trip Rerunner | 263289 | [263289-bit-trip-rerunner.json](./263289-bit-trip-rerunner.json) |
 | Bit.Trip Saga | 21894 | [21894-bit-trip-saga.json](./21894-bit-trip-saga.json) |
