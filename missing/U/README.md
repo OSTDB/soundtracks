@@ -3303,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Upbeat | 390130 | [390130-upbeat.json](./390130-upbeat.json) |
 | Upbeat Melody Project | 386257 | [386257-upbeat-melody-project.json](./386257-upbeat-melody-project.json) |
 | UpBoll | 161465 | [161465-upboll.json](./161465-upboll.json) |
+| UpBot Goes Up | 377526 | [377526-upbot-goes-up.json](./377526-upbot-goes-up.json) |
 | Upbound | 265266 | [265266-upbound.json](./265266-upbound.json) |
 | UpBreakers | 107726 | [107726-upbreakers.json](./107726-upbreakers.json) |
 | Upcreek | 395156 | [395156-upcreek.json](./395156-upcreek.json) |
