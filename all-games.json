@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T22:26:00.776Z",
-  "total_soundtracks": 3146,
+  "generated_at": "2026-11-11T22:31:11.493Z",
+  "total_soundtracks": 3150,
   "games": [
     {
       "igdb_id": 7522,
@@ -18175,6 +18175,20 @@
       ]
     },
     {
+      "igdb_id": 239163,
+      "game_name": "Layers of Fear",
+      "game_url": "https://ostdb.net/games/layers-of-fear",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273feba03688fbb642adae47dab",
+      "albums": [
+        {
+          "album_name": "Layers of Fear (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1GKkKqiQ8VIAPeHljZ2Gls",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2041,
       "game_name": "Lead and Gold: Gangs of the Wild West",
       "game_url": "https://ostdb.net/games/lead-and-gold-gangs-of-the-wild-west",
@@ -29311,6 +29325,34 @@
       ]
     },
     {
+      "igdb_id": 256679,
+      "game_name": "Skylanders: Giants",
+      "game_url": "https://ostdb.net/games/skylanders-giants",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bc4186774e41a722104b81f5",
+      "albums": [
+        {
+          "album_name": "Skylanders Giants (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7h6XB0eEGQf1eBTqcSif1G",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 256678,
+      "game_name": "Skylanders: Spyro's Adventure",
+      "game_url": "https://ostdb.net/games/skylanders-spyros-adventure",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d00311ae1a33fe45a0775174",
+      "albums": [
+        {
+          "album_name": "Skylanders: Spyro's Adventure (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4WnZqinJEVatq14X4BXOx5",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11058,
       "game_name": "Skylanders: SuperChargers",
       "game_url": "https://ostdb.net/games/skylanders-superchargers",
@@ -39666,6 +39708,20 @@
           "album_name": "Unending Verses（Original Game Soundtrack）",
           "spotify_url": "https://open.spotify.com/album/5NzHvDgdIaaipi1KlaYXbp",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 243997,
+      "game_name": "Wynncraft",
+      "game_url": "https://ostdb.net/games/wynncraft",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ef6bcc682580bb9677dfa144",
+      "albums": [
+        {
+          "album_name": "Wynncraft (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5JlwSNoKVhwTpAH87QMT4C",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
