@@ -9956,6 +9956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fifth Quadrant | 14064 | [14064-the-fifth-quadrant.json](./14064-the-fifth-quadrant.json) |
 | The Fifth Rite | 250951 | [250951-the-fifth-rite.json](./250951-the-fifth-rite.json) |
 | The Fight for Glorton | 196797 | [196797-the-fight-for-glorton.json](./196797-the-fight-for-glorton.json) |
+| The Fight Of Escaper | 370032 | [370032-the-fight-of-escaper.json](./370032-the-fight-of-escaper.json) |
 | The Fight of the Sumo-Hoppers | 314465 | [314465-the-fight-of-the-sumo-hoppers.json](./314465-the-fight-of-the-sumo-hoppers.json) |
 | The Fight: Aftermath | 311173 | [311173-the-fight-aftermath.json](./311173-the-fight-aftermath.json) |
 | The Fight: Lights Out | 7305 | [7305-the-fight-lights-out.json](./7305-the-fight-lights-out.json) |
@@ -11484,6 +11485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of Da Vinci VR | 314703 | [314703-the-house-of-da-vinci-vr.json](./314703-the-house-of-da-vinci-vr.json) |
 | The House of E. | 242490 | [242490-the-house-of-e.json](./242490-the-house-of-e.json) |
 | The House of God | 138182 | [138182-the-house-of-god.json](./138182-the-house-of-god.json) |
+| The House of Hamelin | 370598 | [370598-the-house-of-hamelin.json](./370598-the-house-of-hamelin.json) |
 | The House of Hikmah | 380426 | [380426-the-house-of-hikmah.json](./380426-the-house-of-hikmah.json) |
 | The House of Mr Chocolate | 142963 | [142963-the-house-of-mr-chocolate.json](./142963-the-house-of-mr-chocolate.json) |
 | The House of Rats | 248829 | [248829-the-house-of-rats.json](./248829-the-house-of-rats.json) |
@@ -12107,6 +12109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jumping Apple | 344128 | [344128-the-jumping-apple.json](./344128-the-jumping-apple.json) |
 | The Jumping Bagel | 223150 | [223150-the-jumping-bagel.json](./223150-the-jumping-bagel.json) |
 | The Jumping Bagel: Turbo | 223152 | [223152-the-jumping-bagel-turbo.json](./223152-the-jumping-bagel-turbo.json) |
+| The Jumping Ball | 370590 | [370590-the-jumping-ball.json](./370590-the-jumping-ball.json) |
 | The Jumping Bird | 342155 | [342155-the-jumping-bird.json](./342155-the-jumping-bird.json) |
 | The Jumping Bonbon Match | 335984 | [335984-the-jumping-bonbon-match.json](./335984-the-jumping-bonbon-match.json) |
 | The Jumping Bonbon Match 2 | 349813 | [349813-the-jumping-bonbon-match-2.json](./349813-the-jumping-bonbon-match-2.json) |
