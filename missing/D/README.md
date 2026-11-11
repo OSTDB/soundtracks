@@ -9184,7 +9184,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice 'n Goblins | 302395 | [302395-dice-n-goblins.json](./302395-dice-n-goblins.json) |
 | Dice & Dungeons | 154156 | [154156-dice-and-dungeons.json](./154156-dice-and-dungeons.json) |
 | Dice & Fighter | 126388 | [126388-dice-and-fighter.json](./126388-dice-and-fighter.json) |
-| Dice & Fold | 276684 | [276684-dice-and-fold.json](./276684-dice-and-fold.json) |
 | Dice & Sword | 286063 | [286063-dice-and-sword.json](./286063-dice-and-sword.json) |
 | Dice 1000 online | 184463 | [184463-dice-1000-online.json](./184463-dice-1000-online.json) |
 | Dice A Million | 335662 | [335662-dice-a-million.json](./335662-dice-a-million.json) |
