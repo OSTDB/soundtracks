@@ -6229,6 +6229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Movie Game | 4711 | [4711-bee-movie-game.json](./4711-bee-movie-game.json) |
 | Bee Movie: Pollenation Practice | 325146 | [325146-bee-movie-pollenation-practice.json](./325146-bee-movie-pollenation-practice.json) |
 | Bee my Bloom | 400884 | [400884-bee-my-bloom.json](./400884-bee-my-bloom.json) |
+| Bee O' Factory | 359641 | [359641-bee-o-factory.json](./359641-bee-o-factory.json) |
 | Bee Simulator: The Hive | 335301 | [335301-bee-simulator-the-hive.json](./335301-bee-simulator-the-hive.json) |
 | Bee Space | 408433 | [408433-bee-space.json](./408433-bee-space.json) |
 | Bee Streamer Idler | 392773 | [392773-bee-streamer-idler.json](./392773-bee-streamer-idler.json) |
