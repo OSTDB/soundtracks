@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T23:31:12.101Z",
-  "total_soundtracks": 3179,
+  "generated_at": "2026-11-11T23:35:56.851Z",
+  "total_soundtracks": 3181,
   "games": [
     {
       "igdb_id": 7522,
@@ -9373,6 +9373,20 @@
       ]
     },
     {
+      "igdb_id": 18364,
+      "game_name": "Divide",
+      "game_url": "https://ostdb.net/games/divide",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738d18bc636f7debd8a8b86f28",
+      "albums": [
+        {
+          "album_name": "Divide (Original Game Soundtrack) [Deluxe Edition]",
+          "spotify_url": "https://open.spotify.com/album/6XTevKJIZ4C3CvLAEiQ41N",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11800,
       "game_name": "Divinity: Original Sin II",
       "game_url": "https://ostdb.net/games/divinity-original-sin-ii",
@@ -16945,6 +16959,20 @@
         {
           "album_name": "inKONBINI: One Store. Many Stories (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/72tFHWOIMerBJNx56Iuf7n",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 9100,
+      "game_name": "Inquisitor",
+      "game_url": "https://ostdb.net/games/inquisitor",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738c18f663673acca2935dc27e",
+      "albums": [
+        {
+          "album_name": "Inquisitor (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3oBIzyBc9kuImg8i7xWstr",
           "apple_music_url": "",
           "album_link_url": ""
         }
