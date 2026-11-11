@@ -1013,7 +1013,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1911,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls to the Walls | 421174 | [421174-balls-to-the-walls.json](./421174-balls-to-the-walls.json) |
 | Balls vs. Maze | 240104 | [240104-balls-vs-maze.json](./240104-balls-vs-maze.json) |
 | Balls vs. Pixels : Break-it! | 100704 | [100704-balls-vs-pixels-break-it.json](./100704-balls-vs-pixels-break-it.json) |
+| Balls vs. Tombs | 387796 | [387796-balls-vs-tombs.json](./387796-balls-vs-tombs.json) |
 | Balls! | 99982 | [99982-balls.json](./99982-balls.json) |
 | Balls! Balls! | 163395 | [163395-balls-balls.json](./163395-balls-balls.json) |
 | Balls! Virtual Reality Cricket | 31580 | [31580-balls-virtual-reality-cricket.json](./31580-balls-virtual-reality-cricket.json) |
@@ -3649,6 +3649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Vengeance | 5740 | [5740-batman-vengeance.json](./5740-batman-vengeance.json) |
 | Batman: Wings of Steel | 284217 | [284217-batman-wings-of-steel.json](./284217-batman-wings-of-steel.json) |
 | BatMUD | 126128 | [126128-batmud.json](./126128-batmud.json) |
+| Batnum | 387800 | [387800-batnum.json](./387800-batnum.json) |
 | Bato Battle | 416671 | [416671-bato-battle.json](./416671-bato-battle.json) |
 | Bato: Treasures of Tibet | 339837 | [339837-bato-treasures-of-tibet.json](./339837-bato-treasures-of-tibet.json) |
 | Batography | 323007 | [323007-batography.json](./323007-batography.json) |
