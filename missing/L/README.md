@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Arthengard | 388174 | [388174-legends-of-arthengard.json](./388174-legends-of-arthengard.json) |
 | Legends of Astravia | 144659 | [144659-legends-of-astravia.json](./144659-legends-of-astravia.json) |
 | Legends of Atlantis: Exodus Premium | 174337 | [174337-legends-of-atlantis-exodus-premium.json](./174337-legends-of-atlantis-exodus-premium.json) |
+| Legends of Awen: Rise of The Fianna | 324589 | [324589-legends-of-awen-rise-of-the-fianna.json](./324589-legends-of-awen-rise-of-the-fianna.json) |
 | Legends of Azulgar | 32013 | [32013-legends-of-azulgar.json](./32013-legends-of-azulgar.json) |
 | Legends of Boom | 319743 | [319743-legends-of-boom.json](./319743-legends-of-boom.json) |
 | Legends of Callasia | 20349 | [20349-legends-of-callasia.json](./20349-legends-of-callasia.json) |
@@ -4486,6 +4487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lewis Quest | 337085 | [337085-lewis-quest.json](./337085-lewis-quest.json) |
 | Lex Mortis | 26510 | [26510-lex-mortis.json](./26510-lex-mortis.json) |
 | Lex Talionis A | 337330 | [337330-lex-talionis-a.json](./337330-lex-talionis-a.json) |
+| Lex Venture: A Crossword Caper | 324598 | [324598-lex-venture-a-crossword-caper.json](./324598-lex-venture-a-crossword-caper.json) |
 | Lexagrana | 174196 | [174196-lexagrana.json](./174196-lexagrana.json) |
 | Lexi | 415625 | [415625-lexi.json](./415625-lexi.json) |
 | Lexi-Cross | 47117 | [47117-lexi-cross.json](./47117-lexi-cross.json) |
@@ -6620,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Rock Shop | 385429 | [385429-little-rock-shop.json](./385429-little-rock-shop.json) |
 | Little Rock, MI | 203379 | [203379-little-rock-mi.json](./203379-little-rock-mi.json) |
 | Little Rocket Girl | 62250 | [62250-little-rocket-girl.json](./62250-little-rocket-girl.json) |
+| Little Rocket Lab | 325176 | [325176-little-rocket-lab.json](./325176-little-rocket-lab.json) |
 | Little Rocketman | 263420 | [263420-little-rocketman.json](./263420-little-rocketman.json) |
 | Little Rockets | 207975 | [207975-little-rockets.json](./207975-little-rockets.json) |
 | Little Romance | 66246 | [66246-little-romance.json](./66246-little-romance.json) |
@@ -7301,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Locomotive 2 | 66556 | [66556-locomotive-2.json](./66556-locomotive-2.json) |
 | Locomotive 4: Deluxe Edition | 54178 | [54178-locomotive-4-deluxe-edition.json](./54178-locomotive-4-deluxe-edition.json) |
 | LocoMotives | 116719 | [116719-locomotives.json](./116719-locomotives.json) |
+| Locomoto | 325177 | [325177-locomoto.json](./325177-locomoto.json) |
 | Locomotorica: Staggering Ragdoll | 220400 | [220400-locomotorica-staggering-ragdoll.json](./220400-locomotorica-staggering-ragdoll.json) |
 | LocoPets | 311861 | [311861-locopets.json](./311861-locopets.json) |
 | LocoRoco 2 | 1461 | [1461-locoroco-2.json](./1461-locoroco-2.json) |
@@ -8609,6 +8613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Fleet | 218589 | [218589-lost-fleet.json](./218589-lost-fleet.json) |
 | Lost Flight: Survival | 364137 | [364137-lost-flight-survival.json](./364137-lost-flight-survival.json) |
 | Lost Flower | 267577 | [267577-lost-flower.json](./267577-lost-flower.json) |
+| Lost Footage: Sound In The Silence | 325166 | [325166-lost-footage-sound-in-the-silence.json](./325166-lost-footage-sound-in-the-silence.json) |
 | Lost For Swords | 274511 | [274511-lost-for-swords.json](./274511-lost-for-swords.json) |
 | Lost Forest | 256920 | [256920-lost-forest.json](./256920-lost-forest.json) |
 | Lost Found Secure | 380145 | [380145-lost-found-secure.json](./380145-lost-found-secure.json) |
