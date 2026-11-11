@@ -12675,6 +12675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Bug | 371339 | [371339-the-last-bug.json](./371339-the-last-bug.json) |
 | The Last Bullet | 117784 | [117784-the-last-bullet.json](./117784-the-last-bullet.json) |
 | The Last Bullet | 320049 | [320049-the-last-bullet.json](./320049-the-last-bullet.json) |
+| The Last Bunker | 336205 | [336205-the-last-bunker.json](./336205-the-last-bunker.json) |
 | The Last Cadet | 172966 | [172966-the-last-cadet.json](./172966-the-last-cadet.json) |
 | The Last Camp | 334177 | [334177-the-last-camp.json](./334177-the-last-camp.json) |
 | The Last Camp 1990 | 289997 | [289997-the-last-camp-1990.json](./289997-the-last-camp-1990.json) |
@@ -27142,6 +27143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Down Racer | 107883 | [107883-top-down-racer.json](./107883-top-down-racer.json) |
 | Top Down Racer | 172848 | [172848-top-down-racer.json](./172848-top-down-racer.json) |
 | Top Down Zombies | 214027 | [214027-top-down-zombies.json](./214027-top-down-zombies.json) |
+| Top Driver | 336225 | [336225-top-driver.json](./336225-top-driver.json) |
 | Top Drives | 88508 | [88508-top-drives.json](./88508-top-drives.json) |
 | Top Duck | 280930 | [280930-top-duck.json](./280930-top-duck.json) |
 | Top Dungeon War | 243717 | [243717-top-dungeon-war.json](./243717-top-dungeon-war.json) |
@@ -32615,6 +32617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of Harmony ~ Experimental Visual Novel | 122816 | [122816-trials-of-harmony-experimental-visual-novel.json](./122816-trials-of-harmony-experimental-visual-novel.json) |
 | Trials of Heroes | 108256 | [108256-trials-of-heroes.json](./108256-trials-of-heroes.json) |
 | Trials of Imorah | 258531 | [258531-trials-of-imorah.json](./258531-trials-of-imorah.json) |
+| Trials of Innocence | 336237 | [336237-trials-of-innocence.json](./336237-trials-of-innocence.json) |
 | Trials of Kokoro | 204373 | [204373-trials-of-kokoro.json](./204373-trials-of-kokoro.json) |
 | Trials of Luna | 383795 | [383795-trials-of-luna.json](./383795-trials-of-luna.json) |
 | Trials of Midnight | 187268 | [187268-trials-of-midnight.json](./187268-trials-of-midnight.json) |
