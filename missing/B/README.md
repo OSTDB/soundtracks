@@ -1018,7 +1018,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1205,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bailout Wars | 41518 | [41518-bailout-wars.json](./41518-bailout-wars.json) |
 | Baimason's Thing Finder Puzzle | 293612 | [293612-baimasons-thing-finder-puzzle.json](./293612-baimasons-thing-finder-puzzle.json) |
 | Bainok: City of Fighters | 172973 | [172973-bainok-city-of-fighters.json](./172973-bainok-city-of-fighters.json) |
+| Baionlenja | 344090 | [344090-baionlenja.json](./344090-baionlenja.json) |
 | Báipiáo Sānguó | 150245 | [150245-baipiao-sanguo.json](./150245-baipiao-sanguo.json) |
 | Baise Lesbienne! | 206731 | [206731-baise-lesbienne.json](./206731-baise-lesbienne.json) |
 | Baisu | 293032 | [293032-baisu.json](./293032-baisu.json) |
@@ -12645,6 +12645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blumgi Soccer | 303170 | [303170-blumgi-soccer.json](./303170-blumgi-soccer.json) |
 | Blunder The Sea | 303169 | [303169-blunder-the-sea.json](./303169-blunder-the-sea.json) |
 | Blunderbubb! | 210493 | [210493-blunderbubb.json](./210493-blunderbubb.json) |
+| Blungo's Dungeon Luncheon | 344078 | [344078-blungos-dungeon-luncheon.json](./344078-blungos-dungeon-luncheon.json) |
 | Blunt Blade and a Hundred Halls | 391629 | [391629-blunt-blade-and-a-hundred-halls.json](./391629-blunt-blade-and-a-hundred-halls.json) |
 | Blunt Force | 26566 | [26566-blunt-force.json](./26566-blunt-force.json) |
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
@@ -13673,6 +13674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone2.exe: Life After Death | 248825 | [248825-bone2-exe-life-after-death.json](./248825-bone2-exe-life-after-death.json) |
 | BoneBone | 19752 | [19752-bonebone.json](./19752-bonebone.json) |
 | BoneBone: Rise of the Deathlord | 32808 | [32808-bonebone-rise-of-the-deathlord.json](./32808-bonebone-rise-of-the-deathlord.json) |
+| Bonebuilder | 344058 | [344058-bonebuilder.json](./344058-bonebuilder.json) |
 | BoneCraft | 51268 | [51268-bonecraft.json](./51268-bonecraft.json) |
 | Boned Again: Survivors | 362185 | [362185-boned-again-survivors.json](./362185-boned-again-survivors.json) |
 | BoneD: Dead Men Don't Jump | 66163 | [66163-boned-dead-men-dont-jump.json](./66163-boned-dead-men-dont-jump.json) |
@@ -16320,6 +16322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BreakThru | 13437 | [13437-breakthru.json](./13437-breakthru.json) |
 | BreakThru | 288105 | [288105-breakthru.json](./288105-breakthru.json) |
 | Breakthru in 3D | 169228 | [169228-breakthru-in-3d.json](./169228-breakthru-in-3d.json) |
+| BreakThru! | 344061 | [344061-breakthru.json](./344061-breakthru.json) |
 | BreakThru! | 7800 | [7800-breakthru.json](./7800-breakthru.json) |
 | Breaktory | 183552 | [183552-breaktory.json](./183552-breaktory.json) |
 | BreakTube | 126259 | [126259-breaktube.json](./126259-breaktube.json) |
