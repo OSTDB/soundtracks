@@ -7094,6 +7094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Kids | 39797 | [39797-pilot-kids.json](./39797-pilot-kids.json) |
 | Pilot Light | 319204 | [319204-pilot-light.json](./319204-pilot-light.json) |
 | Pilot Light | 96511 | [96511-pilot-light.json](./96511-pilot-light.json) |
+| Pilot ni Narou! 2 | 373440 | [373440-pilot-ni-narou-2.json](./373440-pilot-ni-narou-2.json) |
 | Pilot Perils | 107067 | [107067-pilot-perils.json](./107067-pilot-perils.json) |
 | Pilot Quest | 318727 | [318727-pilot-quest.json](./318727-pilot-quest.json) |
 | Pilot Rudder VR | 105340 | [105340-pilot-rudder-vr.json](./105340-pilot-rudder-vr.json) |
@@ -17288,6 +17289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Kate | 262436 | [262436-project-kate.json](./262436-project-kate.json) |
 | Project: Knight | 147763 | [147763-project-knight.json](./147763-project-knight.json) |
 | Project: Knight 2 Dusk of Souls | 211560 | [211560-project-knight-2-dusk-of-souls.json](./211560-project-knight-2-dusk-of-souls.json) |
+| Project: Knossos | 373420 | [373420-project-knossos.json](./373420-project-knossos.json) |
 | Project: Longtail | 114707 | [114707-project-longtail.json](./114707-project-longtail.json) |
 | Project: Mania | 333562 | [333562-project-mania.json](./333562-project-mania.json) |
 | Project: Mara | 128797 | [128797-project-mara.json](./128797-project-mara.json) |
