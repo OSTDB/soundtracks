@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wind: War on Wheels | 78069 | [78069-dark-wind-war-on-wheels.json](./78069-dark-wind-war-on-wheels.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
 | Dark Witch Connect | 381777 | [381777-dark-witch-connect.json](./381777-dark-witch-connect.json) |
+| Dark Witch Fighting Buster | 339009 | [339009-dark-witch-fighting-buster.json](./339009-dark-witch-fighting-buster.json) |
 | Dark Witch Match! | 410487 | [410487-dark-witch-match.json](./410487-dark-witch-match.json) |
 | Dark Witch Music Episode: Rudymical | 28520 | [28520-dark-witch-music-episode-rudymical.json](./28520-dark-witch-music-episode-rudymical.json) |
 | Dark Witch Music Episode: Rudymical | 323918 | [323918-dark-witch-music-episode-rudymical.json](./323918-dark-witch-music-episode-rudymical.json) |
