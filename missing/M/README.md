@@ -4303,6 +4303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart: Ultra Circuit | 318508 | [318508-mario-kart-ultra-circuit.json](./318508-mario-kart-ultra-circuit.json) |
 | Mario Kart: Virtual Cup | 195211 | [195211-mario-kart-virtual-cup.json](./195211-mario-kart-virtual-cup.json) |
 | Mario Kills Tanooki | 18448 | [18448-mario-kills-tanooki.json](./18448-mario-kills-tanooki.json) |
+| Mario Land Fun | 329281 | [329281-mario-land-fun.json](./329281-mario-land-fun.json) |
 | Mario Land: Minigame Mayhem | 134958 | [134958-mario-land-minigame-mayhem.json](./134958-mario-land-minigame-mayhem.json) |
 | Mario Learns About Colors | 323187 | [323187-mario-learns-about-colors.json](./323187-mario-learns-about-colors.json) |
 | Mario Learns About Colors 2 | 323824 | [323824-mario-learns-about-colors-2.json](./323824-mario-learns-about-colors-2.json) |
@@ -9967,6 +9968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merch Tycoon | 102138 | [102138-merch-tycoon.json](./102138-merch-tycoon.json) |
 | Merchant | 139231 | [139231-merchant.json](./139231-merchant.json) |
 | Merchant | 7714 | [7714-merchant.json](./7714-merchant.json) |
+| Merchant 64 | 329243 | [329243-merchant-64.json](./329243-merchant-64.json) |
 | Merchant Colony | 38835 | [38835-merchant-colony.json](./38835-merchant-colony.json) |
 | Merchant Empire | 176270 | [176270-merchant-empire.json](./176270-merchant-empire.json) |
 | Merchant in Dungeon | 240788 | [240788-merchant-in-dungeon.json](./240788-merchant-in-dungeon.json) |
@@ -13310,6 +13312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Halloween Mash-up | 234676 | [234676-minecraft-halloween-mash-up.json](./234676-minecraft-halloween-mash-up.json) |
 | Minecraft: HD Dragon Warriors | 333300 | [333300-minecraft-hd-dragon-warriors.json](./333300-minecraft-hd-dragon-warriors.json) |
 | Minecraft: Heat Wave Survival | 324712 | [324712-minecraft-heat-wave-survival.json](./324712-minecraft-heat-wave-survival.json) |
+| Minecraft: Hello Kitty and Friends | 329287 | [329287-minecraft-hello-kitty-and-friends.json](./329287-minecraft-hello-kitty-and-friends.json) |
 | Minecraft: Hermicraft Season 8 Map | 366814 | [366814-minecraft-hermicraft-season-8-map.json](./366814-minecraft-hermicraft-season-8-map.json) |
 | Minecraft: Hermitcraft Season 9 Map | 316750 | [316750-minecraft-hermitcraft-season-9-map.json](./316750-minecraft-hermitcraft-season-9-map.json) |
 | Minecraft: Holiday Skin Pack 2015 | 303023 | [303023-minecraft-holiday-skin-pack-2015.json](./303023-minecraft-holiday-skin-pack-2015.json) |
