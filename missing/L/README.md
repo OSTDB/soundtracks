@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Souls | 195971 | [195971-last-souls.json](./195971-last-souls.json) |
 | Last Space Guardian | 188740 | [188740-last-space-guardian.json](./188740-last-space-guardian.json) |
 | Last Space Mission | 151359 | [151359-last-space-mission.json](./151359-last-space-mission.json) |
+| Last Spaceship | 391403 | [391403-last-spaceship.json](./391403-last-spaceship.json) |
 | Last Spartan: Glory Over Madness | 261594 | [261594-last-spartan-glory-over-madness.json](./261594-last-spartan-glory-over-madness.json) |
 | Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
 | Last Stance: A JuVentures Game | 244716 | [244716-last-stance-a-juventures-game.json](./244716-last-stance-a-juventures-game.json) |
