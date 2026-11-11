@@ -67,7 +67,7 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 19937 games | 19889 games | 22509 games | 20855 games | 9127 games | 15132 games | 12316 games |
+| 19937 games | 19888 games | 22509 games | 20855 games | 9127 games | 15132 games | 12316 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -83,4 +83,4 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 
 ---
 
-_341179 games missing a soundtrack · last updated 2026-11-11T22:08:45.462Z_
+_341178 games missing a soundtrack · last updated 2026-11-11T22:12:23.372Z_
