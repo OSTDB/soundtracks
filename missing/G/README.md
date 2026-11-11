@@ -1910,6 +1910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garaku Tale | 122882 | [122882-garaku-tale.json](./122882-garaku-tale.json) |
 | Garakutale | 94004 | [94004-garakutale.json](./94004-garakutale.json) |
 | Garbage | 133215 | [133215-garbage.json](./133215-garbage.json) |
+| Garbage Classification Simulator | 378704 | [378704-garbage-classification-simulator.json](./378704-garbage-classification-simulator.json) |
 | Garbage Collect | 201223 | [201223-garbage-collect.json](./201223-garbage-collect.json) |
 | Garbage Collector | 376437 | [376437-garbage-collector.json](./376437-garbage-collector.json) |
 | Garbage Country | 260303 | [260303-garbage-country.json](./260303-garbage-country.json) |
