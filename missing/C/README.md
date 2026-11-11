@@ -1291,6 +1291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Strike | 259727 | [259727-can-strike.json](./259727-can-strike.json) |
 | Can We Be Three? | 385271 | [385271-can-we-be-three.json](./385271-can-we-be-three.json) |
 | Can We Start Over? | 321777 | [321777-can-we-start-over.json](./321777-can-we-start-over.json) |
+| Can We Still Get High | 327488 | [327488-can-we-still-get-high.json](./327488-can-we-still-get-high.json) |
 | Can You Beat the Square? | 176419 | [176419-can-you-beat-the-square.json](./176419-can-you-beat-the-square.json) |
 | Can you clear up to 100 stages? | 359569 | [359569-can-you-clear-up-to-100-stages.json](./359569-can-you-clear-up-to-100-stages.json) |
 | Can You Come In? | 144235 | [144235-can-you-come-in.json](./144235-can-you-come-in.json) |
@@ -8130,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Mythology: Journey to the West | 369216 | [369216-chinese-mythology-journey-to-the-west.json](./369216-chinese-mythology-journey-to-the-west.json) |
 | Chinese New Year 2013 | 233779 | [233779-chinese-new-year-2013.json](./233779-chinese-new-year-2013.json) |
 | Chinese Newcomer | 406524 | [406524-chinese-newcomer.json](./406524-chinese-newcomer.json) |
+| Chinese Online Game | 327505 | [327505-chinese-online-game.json](./327505-chinese-online-game.json) |
 | Chinese Paladin 5 Prequel | 68175 | [68175-chinese-paladin-5-prequel.json](./68175-chinese-paladin-5-prequel.json) |
 | Chinese Pancake Simulator | 408238 | [408238-chinese-pancake-simulator.json](./408238-chinese-pancake-simulator.json) |
 | Chinese Parents | 86430 | [86430-chinese-parents.json](./86430-chinese-parents.json) |
@@ -10798,6 +10800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Asia! | 92811 | [92811-clean-asia.json](./92811-clean-asia.json) |
 | Clean Attack! | 135025 | [135025-clean-attack.json](./135025-clean-attack.json) |
 | Clean Break | 360469 | [360469-clean-break.json](./360469-clean-break.json) |
+| Clean City Malaga | 328115 | [328115-clean-city-malaga.json](./328115-clean-city-malaga.json) |
 | Clean City Project | 292521 | [292521-clean-city-project.json](./292521-clean-city-project.json) |
 | Clean Corps | 291405 | [291405-clean-corps.json](./291405-clean-corps.json) |
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
@@ -20607,6 +20610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuber 2: Ice Age Remake | 256310 | [256310-cuber-2-ice-age-remake.json](./256310-cuber-2-ice-age-remake.json) |
 | Cuber 3: Schmidt | 284357 | [284357-cuber-3-schmidt.json](./284357-cuber-3-schmidt.json) |
 | CubeRace | 114953 | [114953-cuberace.json](./114953-cuberace.json) |
+| CubeRealm.io | 328117 | [328117-cuberealm-io.json](./328117-cuberealm-io.json) |
 | Cuberio | 390081 | [390081-cuberio.json](./390081-cuberio.json) |
 | CuberPunk 2089 | 139031 | [139031-cuberpunk-2089.json](./139031-cuberpunk-2089.json) |
 | CuberPunk 2090 | 173942 | [173942-cuberpunk-2090.json](./173942-cuberpunk-2090.json) |
