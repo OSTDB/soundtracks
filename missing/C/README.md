@@ -4232,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Caffeine | 404577 | [404577-cat-caffeine.json](./404577-cat-caffeine.json) |
 | Cat Calculations | 337670 | [337670-cat-calculations.json](./337670-cat-calculations.json) |
 | Cat Capacity | 173304 | [173304-cat-capacity.json](./173304-cat-capacity.json) |
+| Cat Caravans | 377511 | [377511-cat-caravans.json](./377511-cat-caravans.json) |
 | Cat Carried Butterfly | 374643 | [374643-cat-carried-butterfly.json](./374643-cat-carried-butterfly.json) |
 | Cat Chases Mouse | 406722 | [406722-cat-chases-mouse.json](./406722-cat-chases-mouse.json) |
 | Cat City | 260227 | [260227-cat-city.json](./260227-cat-city.json) |
@@ -10982,6 +10983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Heroes 2 | 68503 | [68503-clicker-heroes-2.json](./68503-clicker-heroes-2.json) |
 | Clicker Kids | 394068 | [394068-clicker-kids.json](./394068-clicker-kids.json) |
 | Clicker Kingdom | 348136 | [348136-clicker-kingdom.json](./348136-clicker-kingdom.json) |
+| Clicker Ore | 377523 | [377523-clicker-ore.json](./377523-clicker-ore.json) |
 | Clicker Planet | 96422 | [96422-clicker-planet.json](./96422-clicker-planet.json) |
 | Clicker Planet: Bluestone Project | 160297 | [160297-clicker-planet-bluestone-project.json](./160297-clicker-planet-bluestone-project.json) |
 | Clicker Racing | 100716 | [100716-clicker-racing.json](./100716-clicker-racing.json) |
