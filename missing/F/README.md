@@ -6585,6 +6585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireworks | 78085 | [78085-fireworks.json](./78085-fireworks.json) |
 | Fireworks Desert Blast | 30350 | [30350-fireworks-desert-blast.json](./30350-fireworks-desert-blast.json) |
 | Fireworks Extravaganza | 57611 | [57611-fireworks-extravaganza.json](./57611-fireworks-extravaganza.json) |
+| Fireworks Factory | 383318 | [383318-fireworks-factory.json](./383318-fireworks-factory.json) |
 | Fireworks Frenzy | 250727 | [250727-fireworks-frenzy.json](./250727-fireworks-frenzy.json) |
 | Fireworks Mania | 126512 | [126512-fireworks-mania.json](./126512-fireworks-mania.json) |
 | Fireworks Show A | 354392 | [354392-fireworks-show-a.json](./354392-fireworks-show-a.json) |
@@ -13371,6 +13372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier: Battle Royale | 340263 | [340263-frontier-battle-royale.json](./340263-frontier-battle-royale.json) |
 | Frontier: Elite II | 2953 | [2953-frontier-elite-ii.json](./2953-frontier-elite-ii.json) |
 | Frontier: First Encounters | 2954 | [2954-frontier-first-encounters.json](./2954-frontier-first-encounters.json) |
+| Frontier: Path of Shadows | 383868 | [383868-frontier-path-of-shadows.json](./383868-frontier-path-of-shadows.json) |
 | Frontiers | 14081 | [14081-frontiers.json](./14081-frontiers.json) |
 | Frontiers | 357731 | [357731-frontiers.json](./357731-frontiers.json) |
 | Frontiers | 63353 | [63353-frontiers.json](./63353-frontiers.json) |
@@ -14432,6 +14434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FuriusAO | 133635 | [133635-furiusao.json](./133635-furiusao.json) |
 | Furlong Fracas | 248761 | [248761-furlong-fracas.json](./248761-furlong-fracas.json) |
 | FurnCap | 145985 | [145985-furncap.json](./145985-furncap.json) |
+| Furni-Chore | 383879 | [383879-furni-chore.json](./383879-furni-chore.json) |
 | Furni-Jumpin' | 255132 | [255132-furni-jumpin.json](./255132-furni-jumpin.json) |
 | Furnish Master | 212816 | [212816-furnish-master.json](./212816-furnish-master.json) |
 | Furniture Assembler Simulator | 402351 | [402351-furniture-assembler-simulator.json](./402351-furniture-assembler-simulator.json) |
