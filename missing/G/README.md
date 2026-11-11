@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gachaga Champ | 257308 | [257308-gachaga-champ.json](./257308-gachaga-champ.json) |
 | Gachaminer | 180227 | [180227-gachaminer.json](./180227-gachaminer.json) |
 | Gachamon | 358267 | [358267-gachamon.json](./358267-gachamon.json) |
+| Gachanimals | 373444 | [373444-gachanimals.json](./373444-gachanimals.json) |
 | Gachapin & Mukku no Daiundoukai | 198194 | [198194-gachapin-and-mukku-no-daiundoukai.json](./198194-gachapin-and-mukku-no-daiundoukai.json) |
 | Gachapin Bomberman | 198038 | [198038-gachapin-bomberman.json](./198038-gachapin-bomberman.json) |
 | Gachapin Challenge DS | 124013 | [124013-gachapin-challenge-ds.json](./124013-gachapin-challenge-ds.json) |
@@ -9250,6 +9251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great American Golf 2 | 45898 | [45898-great-american-golf-2.json](./45898-great-american-golf-2.json) |
 | Great Artists Steal | 118751 | [118751-great-artists-steal.json](./118751-great-artists-steal.json) |
 | Great Ball of Fire | 117240 | [117240-great-ball-of-fire.json](./117240-great-ball-of-fire.json) |
+| Great Balls on Fire | 373462 | [373462-great-balls-on-fire.json](./373462-great-balls-on-fire.json) |
 | Great Basketball | 46672 | [46672-great-basketball.json](./46672-great-basketball.json) |
 | Great Battle Cyber | 48479 | [48479-great-battle-cyber.json](./48479-great-battle-cyber.json) |
 | Great Battle Full Blast | 65516 | [65516-great-battle-full-blast.json](./65516-great-battle-full-blast.json) |
