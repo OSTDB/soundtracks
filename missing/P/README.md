@@ -432,6 +432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Sexy Reaction | 83307 | [83307-pachinko-sexy-reaction.json](./83307-pachinko-sexy-reaction.json) |
 | Pachinko Sexy Reaction 2 | 83305 | [83305-pachinko-sexy-reaction-2.json](./83305-pachinko-sexy-reaction-2.json) |
 | Pachinko Star Wing II | 385717 | [385717-pachinko-star-wing-ii.json](./385717-pachinko-star-wing-ii.json) |
+| Pachinko TD | 325770 | [325770-pachinko-td.json](./325770-pachinko-td.json) |
 | Pachinko Tetsujin: Shichiban Shoubu | 42231 | [42231-pachinko-tetsujin-shichiban-shoubu.json](./42231-pachinko-tetsujin-shichiban-shoubu.json) |
 | Pachinko Time | 131141 | [131141-pachinko-time.json](./131141-pachinko-time.json) |
 | Pachinko Wars | 42230 | [42230-pachinko-wars.json](./42230-pachinko-wars.json) |
@@ -1421,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic+19 | 329414 | [329414-panic-19.json](./329414-panic-19.json) |
 | PanicBoy go: Pixel man run | 175086 | [175086-panicboy-go-pixel-man-run.json](./175086-panicboy-go-pixel-man-run.json) |
 | Panicked and Surrounded by Hot Vampires | 186626 | [186626-panicked-and-surrounded-by-hot-vampires.json](./186626-panicked-and-surrounded-by-hot-vampires.json) |
+| Pánico en el IPA | 325792 | [325792-panico-en-el-ipa.json](./325792-panico-en-el-ipa.json) |
 | Panicore | 277278 | [277278-panicore.json](./277278-panicore.json) |
 | Panik | 289300 | [289300-panik.json](./289300-panik.json) |
 | Panilla Saga | 159068 | [159068-panilla-saga.json](./159068-panilla-saga.json) |
@@ -3754,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payrates | 405522 | [405522-payrates.json](./405522-payrates.json) |
 | Payroll | 30710 | [30710-payroll.json](./30710-payroll.json) |
 | Payroll | 385391 | [385391-payroll.json](./385391-payroll.json) |
+| Payuta and the Ice God | 325753 | [325753-payuta-and-the-ice-god.json](./325753-payuta-and-the-ice-god.json) |
 | Pazaak Cantina | 204653 | [204653-pazaak-cantina.json](./204653-pazaak-cantina.json) |
 | Paze Knight Ellen and the Dungeon Town Sodom | 244482 | [244482-paze-knight-ellen-and-the-dungeon-town-sodom.json](./244482-paze-knight-ellen-and-the-dungeon-town-sodom.json) |
 | Pazing By | 152695 | [152695-pazing-by.json](./152695-pazing-by.json) |
