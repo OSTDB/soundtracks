@@ -447,6 +447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Kills Candy | 184988 | [184988-cake-kills-candy.json](./184988-cake-kills-candy.json) |
 | Cake Kingdom Story | 238296 | [238296-cake-kingdom-story.json](./238296-cake-kingdom-story.json) |
 | Cake Laboratory | 114184 | [114184-cake-laboratory.json](./114184-cake-laboratory.json) |
+| Cake Maker | 393198 | [393198-cake-maker.json](./393198-cake-maker.json) |
 | Cake Maker Deluxe | 103151 | [103151-cake-maker-deluxe.json](./103151-cake-maker-deluxe.json) |
 | Cake Mania | 4740 | [4740-cake-mania.json](./4740-cake-mania.json) |
 | Cake Mania 2 | 15045 | [15045-cake-mania-2.json](./15045-cake-mania-2.json) |
@@ -10900,6 +10901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click the Clown 2020 | 142437 | [142437-click-the-clown-2020.json](./142437-click-the-clown-2020.json) |
 | Click The Link To Play | 309208 | [309208-click-the-link-to-play.json](./309208-click-the-link-to-play.json) |
 | Click the Shape | 362476 | [362476-click-the-shape.json](./362476-click-the-shape.json) |
+| Click Them Off | 393189 | [393189-click-them-off.json](./393189-click-them-off.json) |
 | Click to 13 | 288334 | [288334-click-to-13.json](./288334-click-to-13.json) |
 | Click To Clear | 284821 | [284821-click-to-clear.json](./284821-click-to-clear.json) |
 | Click to Continue | 343847 | [343847-click-to-continue.json](./343847-click-to-continue.json) |
@@ -17250,6 +17252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crappy Dog 2 | 300980 | [300980-crappy-dog-2.json](./300980-crappy-dog-2.json) |
 | Crappy Game | 283808 | [283808-crappy-game.json](./283808-crappy-game.json) |
 | Crappy Tube | 112955 | [112955-crappy-tube.json](./112955-crappy-tube.json) |
+| Crappy Turd | 393086 | [393086-crappy-turd.json](./393086-crappy-turd.json) |
 | Crappy Zombie Game | 31642 | [31642-crappy-zombie-game.json](./31642-crappy-zombie-game.json) |
 | Craps | 386682 | [386682-craps.json](./386682-craps.json) |
 | Craps | 88483 | [88483-craps.json](./88483-craps.json) |
@@ -18562,6 +18565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Earth 2 | 74682 | [74682-crimson-earth-2.json](./74682-crimson-earth-2.json) |
 | Crimson Echoes | 369318 | [369318-crimson-echoes.json](./369318-crimson-echoes.json) |
 | Crimson Empire: Circumstances to Serve a Noble | 58056 | [58056-crimson-empire-circumstances-to-serve-a-noble.json](./58056-crimson-empire-circumstances-to-serve-a-noble.json) |
+| Crimson Eve | 393152 | [393152-crimson-eve.json](./393152-crimson-eve.json) |
 | Crimson Faith | 376477 | [376477-crimson-faith.json](./376477-crimson-faith.json) |
 | Crimson Freedom | 381192 | [381192-crimson-freedom.json](./381192-crimson-freedom.json) |
 | Crimson Frontier | 335864 | [335864-crimson-frontier.json](./335864-crimson-frontier.json) |
@@ -20581,6 +20585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubox: Awakening of Gods | 168156 | [168156-cubox-awakening-of-gods.json](./168156-cubox-awakening-of-gods.json) |
 | Cuboy | 251692 | [251692-cuboy.json](./251692-cuboy.json) |
 | Cuboy Back to the Cubeture: Era 2 | 57993 | [57993-cuboy-back-to-the-cubeture-era-2.json](./57993-cuboy-back-to-the-cubeture-era-2.json) |
+| Cuboy Facebutt | 393087 | [393087-cuboy-facebutt.json](./393087-cuboy-facebutt.json) |
 | Cuboy: Back to the Cubeture | 57994 | [57994-cuboy-back-to-the-cubeture.json](./57994-cuboy-back-to-the-cubeture.json) |
 | Cuboyd | 290708 | [290708-cuboyd.json](./290708-cuboyd.json) |
 | Cubrick | 28792 | [28792-cubrick.json](./28792-cubrick.json) |
