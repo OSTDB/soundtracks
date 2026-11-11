@@ -4738,6 +4738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girl in Darkness | 394126 | [394126-girl-in-darkness.json](./394126-girl-in-darkness.json) |
 | Girl in the B.L | 303787 | [303787-girl-in-the-b-l.json](./303787-girl-in-the-b-l.json) |
 | Girl is coming | 309752 | [309752-girl-is-coming.json](./309752-girl-is-coming.json) |
+| Girl Island | 379811 | [379811-girl-island.json](./379811-girl-island.json) |
 | Girl Jack | 67380 | [67380-girl-jack.json](./67380-girl-jack.json) |
 | Girl Jigsaw | 149385 | [149385-girl-jigsaw.json](./149385-girl-jigsaw.json) |
 | Girl Jigsaw 2 | 154365 | [154365-girl-jigsaw-2.json](./154365-girl-jigsaw-2.json) |
