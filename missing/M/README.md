@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MageCosmos | 192005 | [192005-magecosmos.json](./192005-magecosmos.json) |
 | Magecraft | 247913 | [247913-magecraft.json](./247913-magecraft.json) |
 | MageCraft | 244147 | [244147-magecraft.json](./244147-magecraft.json) |
+| Magecraft: Spellbuilding | 347401 | [347401-magecraft-spellbuilding.json](./347401-magecraft-spellbuilding.json) |
 | Magefall | 210719 | [210719-magefall.json](./210719-magefall.json) |
 | Magehunter: Phoenix Flame | 250834 | [250834-magehunter-phoenix-flame.json](./250834-magehunter-phoenix-flame.json) |
 | Magekeepers | 302359 | [302359-magekeepers.json](./302359-magekeepers.json) |
@@ -6387,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximus 2 | 197681 | [197681-maximus-2.json](./197681-maximus-2.json) |
 | Maximus 2: Fantasy Beat-Em-Up | 196574 | [196574-maximus-2-fantasy-beat-em-up.json](./196574-maximus-2-fantasy-beat-em-up.json) |
 | Maximus 2: Street Gladiators | 237237 | [237237-maximus-2-street-gladiators.json](./237237-maximus-2-street-gladiators.json) |
+| Maximus Mouse's Manic Mayhem | 347393 | [347393-maximus-mouses-manic-mayhem.json](./347393-maximus-mouses-manic-mayhem.json) |
 | Maxit | 78372 | [78372-maxit.json](./78372-maxit.json) |
 | Mǎxìtuán zhī Yè | 154334 | [154334-maxituan-zhi-ye.json](./154334-maxituan-zhi-ye.json) |
 | Maxix Robotics | 236057 | [236057-maxix-robotics.json](./236057-maxix-robotics.json) |
@@ -12562,6 +12564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military History Commander: Europe at War | 22999 | [22999-military-history-commander-europe-at-war.json](./22999-military-history-commander-europe-at-war.json) |
 | Military Incremental Complex | 330099 | [330099-military-incremental-complex.json](./330099-military-incremental-complex.json) |
 | Military Life: Tank Simulator | 9458 | [9458-military-life-tank-simulator.json](./9458-military-life-tank-simulator.json) |
+| Military Logistics Simulator | 347415 | [347415-military-logistics-simulator.json](./347415-military-logistics-simulator.json) |
 | Military Madness | 270701 | [270701-military-madness.json](./270701-military-madness.json) |
 | Military Madness | 44334 | [44334-military-madness.json](./44334-military-madness.json) |
 | Military Madness: Nectaris | 20505 | [20505-military-madness-nectaris.json](./20505-military-madness-nectaris.json) |
@@ -14492,6 +14495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrored Soul | 188727 | [188727-mirrored-soul.json](./188727-mirrored-soul.json) |
 | Mirrored Souls | 244278 | [244278-mirrored-souls.json](./244278-mirrored-souls.json) |
 | Mirrored: Chapter 1 | 35366 | [35366-mirrored-chapter-1.json](./35366-mirrored-chapter-1.json) |
+| Mirrorlight | 347403 | [347403-mirrorlight.json](./347403-mirrorlight.json) |
 | Mirrormind | 345647 | [345647-mirrormind.json](./345647-mirrormind.json) |
 | MirrorMoon EP | 15544 | [15544-mirrormoon-ep.json](./15544-mirrormoon-ep.json) |
 | Mirrorplume Frostfate | 384350 | [384350-mirrorplume-frostfate.json](./384350-mirrorplume-frostfate.json) |
@@ -21667,6 +21671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Demonic Romance | 243960 | [243960-my-demonic-romance.json](./243960-my-demonic-romance.json) |
 | My Desktop Dwarf: Taskbar Forge | 419913 | [419913-my-desktop-dwarf-taskbar-forge.json](./419913-my-desktop-dwarf-taskbar-forge.json) |
 | My Desktop Girlfriend | 384840 | [384840-my-desktop-girlfriend.json](./384840-my-desktop-girlfriend.json) |
+| My Desktop Sister | 347392 | [347392-my-desktop-sister.json](./347392-my-desktop-sister.json) |
 | My Destiny | 202741 | [202741-my-destiny.json](./202741-my-destiny.json) |
 | My Destiny Girls | 291091 | [291091-my-destiny-girls.json](./291091-my-destiny-girls.json) |
 | My Devil Girlfriend | 299503 | [299503-my-devil-girlfriend.json](./299503-my-devil-girlfriend.json) |
@@ -23639,6 +23644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Factor: Leaving the Labyrinth | 364108 | [364108-mythic-factor-leaving-the-labyrinth.json](./364108-mythic-factor-leaving-the-labyrinth.json) |
 | Mythic Glory | 98531 | [98531-mythic-glory.json](./98531-mythic-glory.json) |
 | Mythic Heroes | 183142 | [183142-mythic-heroes.json](./183142-mythic-heroes.json) |
+| Mythic Isle | 347407 | [347407-mythic-isle.json](./347407-mythic-isle.json) |
 | Mythic Kart Maker | 381580 | [381580-mythic-kart-maker.json](./381580-mythic-kart-maker.json) |
 | Mythic Legends | 201617 | [201617-mythic-legends.json](./201617-mythic-legends.json) |
 | Mythic Love: Iberian Legends | 386288 | [386288-mythic-love-iberian-legends.json](./386288-mythic-love-iberian-legends.json) |
