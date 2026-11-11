@@ -6763,6 +6763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigebomb | 307228 | [307228-pigebomb.json](./307228-pigebomb.json) |
 | Pigeon | 311457 | [311457-pigeon.json](./311457-pigeon.json) |
 | Pigeon Ascent | 179842 | [179842-pigeon-ascent.json](./179842-pigeon-ascent.json) |
+| Pigeon Blood | 340102 | [340102-pigeon-blood.json](./340102-pigeon-blood.json) |
 | Pigeon Coo-lette | 362394 | [362394-pigeon-coo-lette.json](./362394-pigeon-coo-lette.json) |
 | Pigeon Dev Games Collection | 140914 | [140914-pigeon-dev-games-collection.json](./140914-pigeon-dev-games-collection.json) |
 | Pigeon Fight | 72414 | [72414-pigeon-fight.json](./72414-pigeon-fight.json) |
@@ -9154,6 +9155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel vs. Zombies | 381159 | [381159-pixel-vs-zombies.json](./381159-pixel-vs-zombies.json) |
 | Pixel Waifu: Escape From the Dark Corporation. The Telepathic Power of a Lovestruck Otaku | 398558 | [398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json](./398558-pixel-waifu-escape-from-the-dark-corporation-the-telepathic-power-of-a-lovestruck-otaku.json) |
 | Pixel War | 54855 | [54855-pixel-war.json](./54855-pixel-war.json) |
+| Pixel Warrior | 340098 | [340098-pixel-warrior.json](./340098-pixel-warrior.json) |
 | Pixel Wars | 239600 | [239600-pixel-wars.json](./239600-pixel-wars.json) |
 | Pixel Washer | 263778 | [263778-pixel-washer.json](./263778-pixel-washer.json) |
 | Pixel Wheels | 186054 | [186054-pixel-wheels.json](./186054-pixel-wheels.json) |
@@ -16961,6 +16963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Kyzen | 312960 | [312960-project-kyzen.json](./312960-project-kyzen.json) |
 | Project Labyrinth | 236515 | [236515-project-labyrinth.json](./236515-project-labyrinth.json) |
 | Project Lambda | 117291 | [117291-project-lambda.json](./117291-project-lambda.json) |
+| Project Lambro: Part One | 340107 | [340107-project-lambro-part-one.json](./340107-project-lambro-part-one.json) |
 | Project Landsword | 331140 | [331140-project-landsword.json](./331140-project-landsword.json) |
 | Project Lazarus | 205275 | [205275-project-lazarus.json](./205275-project-lazarus.json) |
 | Project Lazarus 2 | 336850 | [336850-project-lazarus-2.json](./336850-project-lazarus-2.json) |
