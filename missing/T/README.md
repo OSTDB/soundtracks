@@ -3811,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teladon | 54670 | [54670-teladon.json](./54670-teladon.json) |
 | TelAIphone | 310508 | [310508-telaiphone.json](./310508-telaiphone.json) |
 | Télé 7 Jeux: Mots Fléchés | 268415 | [268415-tele-7-jeux-mots-fleches.json](./268415-tele-7-jeux-mots-fleches.json) |
+| Tele E Mezzo | 363075 | [363075-tele-e-mezzo.json](./363075-tele-e-mezzo.json) |
 | Tele-Direct Atlantic Doom: Re-Dialed | 410524 | [410524-tele-direct-atlantic-doom-re-dialed.json](./410524-tele-direct-atlantic-doom-re-dialed.json) |
 | Tele-Doodle | 220125 | [220125-tele-doodle.json](./220125-tele-doodle.json) |
 | Tele-Shibai Wii | 64427 | [64427-tele-shibai-wii.json](./64427-tele-shibai-wii.json) |
@@ -17048,6 +17049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The secret of the stone | 164150 | [164150-the-secret-of-the-stone.json](./164150-the-secret-of-the-stone.json) |
 | The Secret of Timberland | 278361 | [278361-the-secret-of-timberland.json](./278361-the-secret-of-timberland.json) |
 | The Secret of Varonis | 244780 | [244780-the-secret-of-varonis.json](./244780-the-secret-of-varonis.json) |
+| The Secret of Velmora | 363105 | [363105-the-secret-of-velmora.json](./363105-the-secret-of-velmora.json) |
 | The Secret of Weepstone | 360921 | [360921-the-secret-of-weepstone.json](./360921-the-secret-of-weepstone.json) |
 | The Secret of Whispering | 320210 | [320210-the-secret-of-whispering.json](./320210-the-secret-of-whispering.json) |
 | The Secret Ops | 232933 | [232933-the-secret-ops.json](./232933-the-secret-ops.json) |
