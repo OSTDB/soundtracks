@@ -7204,6 +7204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betaman 2000: Special Edition | 330521 | [330521-betaman-2000-special-edition.json](./330521-betaman-2000-special-edition.json) |
 | Betasuppe | 68968 | [68968-betasuppe.json](./68968-betasuppe.json) |
 | BetDog Cards | 425458 | [425458-betdog-cards.json](./425458-betdog-cards.json) |
+| Bete Grise | 391904 | [391904-bete-grise.json](./391904-bete-grise.json) |
 | Betelgeuse | 137946 | [137946-betelgeuse.json](./137946-betelgeuse.json) |
 | Beth the Exhibitionist | 154582 | [154582-beth-the-exhibitionist.json](./154582-beth-the-exhibitionist.json) |
 | Bethesda Pinball | 297501 | [297501-bethesda-pinball.json](./297501-bethesda-pinball.json) |
@@ -16291,6 +16292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brew-Ha | 89386 | [89386-brew-ha.json](./89386-brew-ha.json) |
 | Brew! | 369001 | [369001-brew.json](./369001-brew.json) |
 | Brewconomy | 372656 | [372656-brewconomy.json](./372656-brewconomy.json) |
+| Brewed and Battered | 391395 | [391395-brewed-and-battered.json](./391395-brewed-and-battered.json) |
 | Brewed Horizons | 317161 | [317161-brewed-horizons.json](./317161-brewed-horizons.json) |
 | Brewer | 117386 | [117386-brewer.json](./117386-brewer.json) |
 | Brewery | 13981 | [13981-brewery.json](./13981-brewery.json) |
