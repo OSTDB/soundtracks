@@ -2267,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SatelliteInfection | 388437 | [388437-satelliteinfection.json](./388437-satelliteinfection.json) |
 | Satellites | 78342 | [78342-satellites.json](./78342-satellites.json) |
 | SatelliTV | 386678 | [386678-satellitv.json](./386678-satellitv.json) |
+| Satelum | 349530 | [349530-satelum.json](./349530-satelum.json) |
 | Satisdom | 337095 | [337095-satisdom.json](./337095-satisdom.json) |
 | Satisfaction Drone | 330340 | [330340-satisfaction-drone.json](./330340-satisfaction-drone.json) |
 | Satisfactory 1.1 | 402387 | [402387-satisfactory-1-1.json](./402387-satisfactory-1-1.json) |
@@ -12022,6 +12023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulo | 374766 | [374766-simulo.json](./374766-simulo.json) |
 | SimuLove! vol. 1 | 309438 | [309438-simulove-vol-1.json](./309438-simulove-vol-1.json) |
 | Simultaneous Control | 196476 | [196476-simultaneous-control.json](./196476-simultaneous-control.json) |
+| Simultree | 349532 | [349532-simultree.json](./349532-simultree.json) |
 | Simulyator Odinochestva V Russkoy Derevne | 228853 | [228853-simulyator-odinochestva-v-russkoy-derevne.json](./228853-simulyator-odinochestva-v-russkoy-derevne.json) |
 | SimuSex | 94335 | [94335-simusex.json](./94335-simusex.json) |
 | Simutek I | 74707 | [74707-simutek-i.json](./74707-simutek-i.json) |
@@ -19869,6 +19871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Shards | 89747 | [89747-soul-shards.json](./89747-soul-shards.json) |
 | Soul Shuffler | 326786 | [326786-soul-shuffler.json](./326786-soul-shuffler.json) |
 | Soul Siblings | 412699 | [412699-soul-siblings.json](./412699-soul-siblings.json) |
+| Soul Sight | 349015 | [349015-soul-sight.json](./349015-soul-sight.json) |
 | Soul Sipper | 307632 | [307632-soul-sipper.json](./307632-soul-sipper.json) |
 | Soul Slasher | 353781 | [353781-soul-slasher.json](./353781-soul-slasher.json) |
 | Soul Slayer | 212007 | [212007-soul-slayer.json](./212007-soul-slayer.json) |
@@ -37312,6 +37315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Holes | 392899 | [392899-sweet-holes.json](./392899-sweet-holes.json) |
 | Sweet Holiday Jigsaws: Trick or Treat | 226349 | [226349-sweet-holiday-jigsaws-trick-or-treat.json](./226349-sweet-holiday-jigsaws-trick-or-treat.json) |
 | Sweet Home | 310820 | [310820-sweet-home.json](./310820-sweet-home.json) |
+| Sweet Home | 349014 | [349014-sweet-home.json](./349014-sweet-home.json) |
 | Sweet Home | 9426 | [9426-sweet-home.json](./9426-sweet-home.json) |
 | Sweet Home - Pets | 25411 | [25411-sweet-home-pets.json](./25411-sweet-home-pets.json) |
 | Sweet Home 3: Look and Find - Collector's Edition | 339459 | [339459-sweet-home-3-look-and-find-collectors-edition.json](./339459-sweet-home-3-look-and-find-collectors-edition.json) |
