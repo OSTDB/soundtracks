@@ -4789,6 +4789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Lab | 273541 | [273541-secret-lab.json](./273541-secret-lab.json) |
 | Secret Light | 419077 | [419077-secret-light.json](./419077-secret-light.json) |
 | Secret Little Haven | 90060 | [90060-secret-little-haven.json](./90060-secret-little-haven.json) |
+| Secret Love (Kari): Junai After Story | 387180 | [387180-secret-love-kari-junai-after-story.json](./387180-secret-love-kari-junai-after-story.json) |
 | Secret Love (Or Not?) | 387154 | [387154-secret-love-or-not.json](./387154-secret-love-or-not.json) |
 | Secret Love Temple | 368534 | [368534-secret-love-temple.json](./368534-secret-love-temple.json) |
 | Secret Manga Girlfriend | 252803 | [252803-secret-manga-girlfriend.json](./252803-secret-manga-girlfriend.json) |
@@ -11447,6 +11448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simajo: The Travel Mystery Game | 54358 | [54358-simajo-the-travel-mystery-game.json](./54358-simajo-the-travel-mystery-game.json) |
 | SimAnimals | 371270 | [371270-simanimals.json](./371270-simanimals.json) |
 | SimAnimals Africa | 20669 | [20669-simanimals-africa.json](./20669-simanimals-africa.json) |
+| SimAnimals Africa | 387264 | [387264-simanimals-africa.json](./387264-simanimals-africa.json) |
 | SimAnt | 9520 | [9520-simant.json](./9520-simant.json) |
 | Simantik | 224685 | [224685-simantik.json](./224685-simantik.json) |
 | Simba the Cat | 204820 | [204820-simba-the-cat.json](./204820-simba-the-cat.json) |
@@ -14963,6 +14965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 Coop DX: Super Mario World in Super Mario 64 | 360171 | [360171-sm64-coop-dx-super-mario-world-in-super-mario-64.json](./360171-sm64-coop-dx-super-mario-world-in-super-mario-64.json) |
 | SM64 Coop DX: Uranium Mario 64 | 378333 | [378333-sm64-coop-dx-uranium-mario-64.json](./378333-sm64-coop-dx-uranium-mario-64.json) |
 | SM64 Coop DX: Waluigi's Taco Stand | 378327 | [378327-sm64-coop-dx-waluigis-taco-stand.json](./378327-sm64-coop-dx-waluigis-taco-stand.json) |
+| SM64 Dark Matter | 387174 | [387174-sm64-dark-matter.json](./387174-sm64-dark-matter.json) |
 | SM64 from Memory | 362717 | [362717-sm64-from-memory.json](./362717-sm64-from-memory.json) |
 | SM64 GBA | 314743 | [314743-sm64-gba.json](./314743-sm64-gba.json) |
 | SM64 Generations | 195080 | [195080-sm64-generations.json](./195080-sm64-generations.json) |
@@ -17350,6 +17353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Winds: Galaxy | 73986 | [73986-solar-winds-galaxy.json](./73986-solar-winds-galaxy.json) |
 | Solar Winds: The Escape | 73585 | [73585-solar-winds-the-escape.json](./73585-solar-winds-the-escape.json) |
 | Solar: Survival Space Battle Simulator | 312421 | [312421-solar-survival-space-battle-simulator.json](./312421-solar-survival-space-battle-simulator.json) |
+| Solar.Cross | 387170 | [387170-solar-cross.json](./387170-solar-cross.json) |
 | SolarBlack | 268653 | [268653-solarblack.json](./268653-solarblack.json) |
 | Solares | 291990 | [291990-solares.json](./291990-solares.json) |
 | Solarfall | 271484 | [271484-solarfall.json](./271484-solarfall.json) |
@@ -33105,6 +33109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hero Generation | 80615 | [80615-super-hero-generation.json](./80615-super-hero-generation.json) |
 | Super Hero I.T. Software | 304658 | [304658-super-hero-i-t-software.json](./304658-super-hero-i-t-software.json) |
 | Super Hero Sakusen | 292101 | [292101-super-hero-sakusen.json](./292101-super-hero-sakusen.json) |
+| Super Hero Sakusen: Daidaru no Yabou | 387265 | [387265-super-hero-sakusen-daidaru-no-yabou.json](./387265-super-hero-sakusen-daidaru-no-yabou.json) |
 | Super Hero VR | 99637 | [99637-super-hero-vr.json](./99637-super-hero-vr.json) |
 | Super Heroine Chronicle | 63311 | [63311-super-heroine-chronicle.json](./63311-super-heroine-chronicle.json) |
 | Super Hexagon | 3251 | [3251-super-hexagon.json](./3251-super-hexagon.json) |
@@ -35619,7 +35624,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 1500 Series: Fishing Club - Bouhatei no Tsuri-hen | 382971 | [382971-superlite-1500-series-fishing-club-bouhatei-no-tsuri-hen.json](./382971-superlite-1500-series-fishing-club-bouhatei-no-tsuri-hen.json) |
 | SuperLite 1500 Series: Fishing Club - Hama no Tsuri-hen | 382974 | [382974-superlite-1500-series-fishing-club-hama-no-tsuri-hen.json](./382974-superlite-1500-series-fishing-club-hama-no-tsuri-hen.json) |
 | SuperLite 1500 Series: Kaiteiban Mark Yazaki no Seiyou Senseijutsu | 382823 | [382823-superlite-1500-series-kaiteiban-mark-yazaki-no-seiyou-senseijutsu.json](./382823-superlite-1500-series-kaiteiban-mark-yazaki-no-seiyou-senseijutsu.json) |
+| SuperLite 1500 Series: Kaiteiban Shichuu Suimei - Mark Yazaki Kanshuu | 387260 | [387260-superlite-1500-series-kaiteiban-shichuu-suimei-mark-yazaki-kanshuu.json](./387260-superlite-1500-series-kaiteiban-shichuu-suimei-mark-yazaki-kanshuu.json) |
 | SuperLite 1500 Series: Lode Runner 2 | 382928 | [382928-superlite-1500-series-lode-runner-2.json](./382928-superlite-1500-series-lode-runner-2.json) |
+| SuperLite 1500 Series: Mark Yazaki no Shichuu Suimei | 387256 | [387256-superlite-1500-series-mark-yazaki-no-shichuu-suimei.json](./387256-superlite-1500-series-mark-yazaki-no-shichuu-suimei.json) |
 | SuperLite 1500 Series: Nankuro | 214863 | [214863-superlite-1500-series-nankuro.json](./214863-superlite-1500-series-nankuro.json) |
 | SuperLite 1500 Series: Nankuro 2 | 214864 | [214864-superlite-1500-series-nankuro-2.json](./214864-superlite-1500-series-nankuro-2.json) |
 | SuperLite 1500 Series: Nankuro 3 | 214865 | [214865-superlite-1500-series-nankuro-3.json](./214865-superlite-1500-series-nankuro-3.json) |
@@ -37093,6 +37100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Home: Design & Blast | 207810 | [207810-sweet-home-design-and-blast.json](./207810-sweet-home-design-and-blast.json) |
 | Sweet Home: Look and Find - Collector's Edition | 277737 | [277737-sweet-home-look-and-find-collectors-edition.json](./277737-sweet-home-look-and-find-collectors-edition.json) |
 | Sweet Home: Look and Find 4 - Collector's Edition | 338043 | [338043-sweet-home-look-and-find-4-collectors-edition.json](./338043-sweet-home-look-and-find-4-collectors-edition.json) |
+| Sweet Home: Look and Find 5 - Collector's Edition | 387101 | [387101-sweet-home-look-and-find-5-collectors-edition.json](./387101-sweet-home-look-and-find-5-collectors-edition.json) |
 | Sweet Home: Look and Find 6 - Collector's Edition | 406073 | [406073-sweet-home-look-and-find-6-collectors-edition.json](./406073-sweet-home-look-and-find-6-collectors-edition.json) |
 | Sweet Homegirl | 385627 | [385627-sweet-homegirl.json](./385627-sweet-homegirl.json) |
 | Sweet Honey | 339458 | [339458-sweet-honey.json](./339458-sweet-honey.json) |
