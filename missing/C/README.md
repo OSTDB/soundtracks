@@ -15002,6 +15002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contrast | 202470 | [202470-contrast.json](./202470-contrast.json) |
 | Contrast | 383509 | [383509-contrast.json](./383509-contrast.json) |
 | Contrast | 3839 | [3839-contrast.json](./3839-contrast.json) |
+| Contrast & Girls | 389778 | [389778-contrast-and-girls.json](./389778-contrast-and-girls.json) |
 | Contrast Tunnel | 150942 | [150942-contrast-tunnel.json](./150942-contrast-tunnel.json) |
 | Contrasted | 99782 | [99782-contrasted.json](./99782-contrasted.json) |
 | Contrasting Brothers | 371557 | [371557-contrasting-brothers.json](./371557-contrasting-brothers.json) |
@@ -15944,6 +15945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CosmiBall 3D | 234124 | [234124-cosmiball-3d.json](./234124-cosmiball-3d.json) |
 | Cosmic Adventure | 312253 | [312253-cosmic-adventure.json](./312253-cosmic-adventure.json) |
 | Cosmic Alien | 40021 | [40021-cosmic-alien.json](./40021-cosmic-alien.json) |
+| Cosmic Anchor | 389251 | [389251-cosmic-anchor.json](./389251-cosmic-anchor.json) |
 | Cosmic Arcade Tycoon | 333497 | [333497-cosmic-arcade-tycoon.json](./333497-cosmic-arcade-tycoon.json) |
 | Cosmic Ark | 301443 | [301443-cosmic-ark.json](./301443-cosmic-ark.json) |
 | Cosmic Ark | 8466 | [8466-cosmic-ark.json](./8466-cosmic-ark.json) |
@@ -18077,6 +18079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cream War | 239746 | [239746-cream-war.json](./239746-cream-war.json) |
 | Cream Wolf | 396973 | [396973-cream-wolf.json](./396973-cream-wolf.json) |
 | Creamare: The Game | 339338 | [339338-creamare-the-game.json](./339338-creamare-the-game.json) |
+| Creampie Love | 389770 | [389770-creampie-love.json](./389770-creampie-love.json) |
 | Creamy Dream Restaurant | 87242 | [87242-creamy-dream-restaurant.json](./87242-creamy-dream-restaurant.json) |
 | Creamy Mami: Futari no Rondo | 184477 | [184477-creamy-mami-futari-no-rondo.json](./184477-creamy-mami-futari-no-rondo.json) |
 | CreArt: Painting by Numbers | 393417 | [393417-creart-painting-by-numbers.json](./393417-creart-painting-by-numbers.json) |
