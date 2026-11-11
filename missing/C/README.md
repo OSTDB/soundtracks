@@ -8456,6 +8456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choose and Easy Number IQ Quiz | 308650 | [308650-choose-and-easy-number-iq-quiz.json](./308650-choose-and-easy-number-iq-quiz.json) |
 | Choose Cthulhu Files: The Call of Cthulhu | 329343 | [329343-choose-cthulhu-files-the-call-of-cthulhu.json](./329343-choose-cthulhu-files-the-call-of-cthulhu.json) |
 | Choose for ME | 126703 | [126703-choose-for-me.json](./126703-choose-for-me.json) |
+| Choose Love | 322306 | [322306-choose-love.json](./322306-choose-love.json) |
 | Choose Wisely | 75583 | [75583-choose-wisely.json](./75583-choose-wisely.json) |
 | Choose Your 2012 | 394192 | [394192-choose-your-2012.json](./394192-choose-your-2012.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
@@ -11796,6 +11797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clutch-Master | 303420 | [303420-clutch-master.json](./303420-clutch-master.json) |
 | Clutch: The Drift Simulation | 338531 | [338531-clutch-the-drift-simulation.json](./338531-clutch-the-drift-simulation.json) |
 | Clutchball | 129409 | [129409-clutchball.json](./129409-clutchball.json) |
+| Clutchtime: Basketball Deckbuilder | 322291 | [322291-clutchtime-basketball-deckbuilder.json](./322291-clutchtime-basketball-deckbuilder.json) |
 | Clutter | 314534 | [314534-clutter.json](./314534-clutter.json) |
 | Clutter 1000 | 149844 | [149844-clutter-1000.json](./149844-clutter-1000.json) |
 | Clutter 12: It's About Time - Collector's Edition | 195433 | [195433-clutter-12-its-about-time-collectors-edition.json](./195433-clutter-12-its-about-time-collectors-edition.json) |
@@ -18746,6 +18748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Asylum | 322663 | [322663-crimson-asylum.json](./322663-crimson-asylum.json) |
 | Crimson Broadcast | 395765 | [395765-crimson-broadcast.json](./395765-crimson-broadcast.json) |
 | Crimson Capes | 305969 | [305969-crimson-capes.json](./305969-crimson-capes.json) |
+| Crimson Chaos | 322318 | [322318-crimson-chaos.json](./322318-crimson-chaos.json) |
 | Crimson Colosseum | 133112 | [133112-crimson-colosseum.json](./133112-crimson-colosseum.json) |
 | Crimson Company | 141438 | [141438-crimson-company.json](./141438-crimson-company.json) |
 | Crimson Connect Origin | 238521 | [238521-crimson-connect-origin.json](./238521-crimson-connect-origin.json) |
