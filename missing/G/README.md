@@ -2293,6 +2293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gashi Shachi no Sachi | 225841 | [225841-gashi-shachi-no-sachi.json](./225841-gashi-shachi-no-sachi.json) |
 | Gasketball | 60316 | [60316-gasketball.json](./60316-gasketball.json) |
 | Gaslamp Cases 10: The Loch Ness Enigma | 336995 | [336995-gaslamp-cases-10-the-loch-ness-enigma.json](./336995-gaslamp-cases-10-the-loch-ness-enigma.json) |
+| Gaslamp Cases 11: The Haunting of Fogley Manor | 355807 | [355807-gaslamp-cases-11-the-haunting-of-fogley-manor.json](./355807-gaslamp-cases-11-the-haunting-of-fogley-manor.json) |
 | Gaslamp Cases 16: The Final Curtain | 416468 | [416468-gaslamp-cases-16-the-final-curtain.json](./416468-gaslamp-cases-16-the-final-curtain.json) |
 | Gaslamp Cases 2: The Haunted Village | 181119 | [181119-gaslamp-cases-2-the-haunted-village.json](./181119-gaslamp-cases-2-the-haunted-village.json) |
 | Gaslamp Cases 3: Ancient Secrets | 193039 | [193039-gaslamp-cases-3-ancient-secrets.json](./193039-gaslamp-cases-3-ancient-secrets.json) |
@@ -3310,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Secret Summer Paradise | 257481 | [257481-genshin-impact-secret-summer-paradise.json](./257481-genshin-impact-secret-summer-paradise.json) |
 | Genshin Impact: Summertide Scales and Tales | 308003 | [308003-genshin-impact-summertide-scales-and-tales.json](./308003-genshin-impact-summertide-scales-and-tales.json) |
 | Genshin Impact: Sunny Summer Fontinalia | 407188 | [407188-genshin-impact-sunny-summer-fontinalia.json](./407188-genshin-impact-sunny-summer-fontinalia.json) |
+| Genshin Impact: Sunspray Summer Resort | 355791 | [355791-genshin-impact-sunspray-summer-resort.json](./355791-genshin-impact-sunspray-summer-resort.json) |
 | Genshin Impact: Tapestry of Spirit and Flame | 321597 | [321597-genshin-impact-tapestry-of-spirit-and-flame.json](./321597-genshin-impact-tapestry-of-spirit-and-flame.json) |
 | Genshin Impact: The Chalk Prince and the Dragon | 256965 | [256965-genshin-impact-the-chalk-prince-and-the-dragon.json](./256965-genshin-impact-the-chalk-prince-and-the-dragon.json) |
 | Genshin Impact: The Exquisite Night Chimes | 257476 | [257476-genshin-impact-the-exquisite-night-chimes.json](./257476-genshin-impact-the-exquisite-night-chimes.json) |
@@ -11074,6 +11076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars 2: Heart of Thorns - Deluxe Edition | 53067 | [53067-guild-wars-2-heart-of-thorns-deluxe-edition.json](./53067-guild-wars-2-heart-of-thorns-deluxe-edition.json) |
 | Guild Wars 2: Heroic Edition | 53066 | [53066-guild-wars-2-heroic-edition.json](./53066-guild-wars-2-heroic-edition.json) |
 | Guild Wars 2: Janthir Wilds | 304360 | [304360-guild-wars-2-janthir-wilds.json](./304360-guild-wars-2-janthir-wilds.json) |
+| Guild Wars 2: Visions of Eternity | 355793 | [355793-guild-wars-2-visions-of-eternity.json](./355793-guild-wars-2-visions-of-eternity.json) |
 | Guild Wars 3 | 404694 | [404694-guild-wars-3.json](./404694-guild-wars-3.json) |
 | Guild Wars Trilogy | 27843 | [27843-guild-wars-trilogy.json](./27843-guild-wars-trilogy.json) |
 | Guild Wars: Bonus Mission Pack | 97103 | [97103-guild-wars-bonus-mission-pack.json](./97103-guild-wars-bonus-mission-pack.json) |
@@ -11440,6 +11443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Dealer | 348904 | [348904-gun-dealer.json](./348904-gun-dealer.json) |
 | Gun Dealer | 40064 | [40064-gun-dealer.json](./40064-gun-dealer.json) |
 | Gun Dealer '94 | 40151 | [40151-gun-dealer-94.json](./40151-gun-dealer-94.json) |
+| Gun Dealer Simulator | 355790 | [355790-gun-dealer-simulator.json](./355790-gun-dealer-simulator.json) |
 | Gun Devil | 145027 | [145027-gun-devil.json](./145027-gun-devil.json) |
 | Gun Dog Rock Rapid | 148778 | [148778-gun-dog-rock-rapid.json](./148778-gun-dog-rock-rapid.json) |
 | Gun Done | 32888 | [32888-gun-done.json](./32888-gun-done.json) |
