@@ -11508,6 +11508,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotprops | 58929 | [58929-hotprops.json](./58929-hotprops.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
 | HOTS: Heart of the Sand | 184019 | [184019-hots-heart-of-the-sand.json](./184019-hots-heart-of-the-sand.json) |
+| Hotseat Wagons 2 | 383898 | [383898-hotseat-wagons-2.json](./383898-hotseat-wagons-2.json) |
+| Hotseat Wagons 2: Level Pack | 383900 | [383900-hotseat-wagons-2-level-pack.json](./383900-hotseat-wagons-2-level-pack.json) |
+| Hotseat Wagons 2: Space World | 383899 | [383899-hotseat-wagons-2-space-world.json](./383899-hotseat-wagons-2-space-world.json) |
 | Hotshot | 313805 | [313805-hotshot.json](./313805-hotshot.json) |
 | Hotshot | 94623 | [94623-hotshot.json](./94623-hotshot.json) |
 | Hotshots | 390116 | [390116-hotshots.json](./390116-hotshots.json) |
@@ -13502,6 +13505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hypixel | 357176 | [357176-hypixel.json](./357176-hypixel.json) |
 | Hypnaborea | 396243 | [396243-hypnaborea.json](./396243-hypnaborea.json) |
 | Hypnagogia | 144747 | [144747-hypnagogia.json](./144747-hypnagogia.json) |
+| Hypnagogia | 383317 | [383317-hypnagogia.json](./383317-hypnagogia.json) |
 | Hypnagogia: Boundless Dreams | 159865 | [159865-hypnagogia-boundless-dreams.json](./159865-hypnagogia-boundless-dreams.json) |
 | Hypnagogia: Broken Dreams | 398266 | [398266-hypnagogia-broken-dreams.json](./398266-hypnagogia-broken-dreams.json) |
 | Hypnagonia | 199264 | [199264-hypnagonia.json](./199264-hypnagonia.json) |
