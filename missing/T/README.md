@@ -670,6 +670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TailQuest: Defense | 140798 | [140798-tailquest-defense.json](./140798-tailquest-defense.json) |
 | Tailraise | 348522 | [348522-tailraise.json](./348522-tailraise.json) |
 | Tails | 22500 | [22500-tails.json](./22500-tails.json) |
+| Tails & Talons | 350677 | [350677-tails-and-talons.json](./350677-tails-and-talons.json) |
 | Tails & Titties: Hot Spring | 192696 | [192696-tails-and-titties-hot-spring.json](./192696-tails-and-titties-hot-spring.json) |
 | Tails & Trails | 415775 | [415775-tails-and-trails.json](./415775-tails-and-trails.json) |
 | Tails 64 Revamped | 335635 | [335635-tails-64-revamped.json](./335635-tails-64-revamped.json) |
@@ -11005,6 +11006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grey Dream | 260325 | [260325-the-grey-dream.json](./260325-the-grey-dream.json) |
 | The Grey Elegy: Under the Cursed Wings | 371215 | [371215-the-grey-elegy-under-the-cursed-wings.json](./371215-the-grey-elegy-under-the-cursed-wings.json) |
 | The Grey Man | 27305 | [27305-the-grey-man.json](./27305-the-grey-man.json) |
+| The Grey Road | 350693 | [350693-the-grey-road.json](./350693-the-grey-road.json) |
 | The Grey Wolves - Knight's Cross Edition | 416013 | [416013-the-grey-wolves-knights-cross-edition.json](./416013-the-grey-wolves-knights-cross-edition.json) |
 | The Greys: Human Abductions | 371546 | [371546-the-greys-human-abductions.json](./371546-the-greys-human-abductions.json) |
 | The Grid | 185943 | [185943-the-grid.json](./185943-the-grid.json) |
@@ -15835,6 +15837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pink Panther | 218447 | [218447-the-pink-panther.json](./218447-the-pink-panther.json) |
 | The Pink Panther: Hokus Pokus Pink | 8109 | [8109-the-pink-panther-hokus-pokus-pink.json](./8109-the-pink-panther-hokus-pokus-pink.json) |
 | The Pink Panther's Passport to Peril | 47088 | [47088-the-pink-panthers-passport-to-peril.json](./47088-the-pink-panthers-passport-to-peril.json) |
+| The Pinkman Files | 350710 | [350710-the-pinkman-files.json](./350710-the-pinkman-files.json) |
 | The Pinkman Files | 391523 | [391523-the-pinkman-files.json](./391523-the-pinkman-files.json) |
 | The Pioneers: Surviving Desolation | 171471 | [171471-the-pioneers-surviving-desolation.json](./171471-the-pioneers-surviving-desolation.json) |
 | The Piper of Dawn | 368746 | [368746-the-piper-of-dawn.json](./368746-the-piper-of-dawn.json) |
@@ -18693,6 +18696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Texas Chain Saw Massacre: Slaughter Family Execution Pack 1 | 262251 | [262251-the-texas-chain-saw-massacre-slaughter-family-execution-pack-1.json](./262251-the-texas-chain-saw-massacre-slaughter-family-execution-pack-1.json) |
 | The Texas Chain Saw Massacre: Slaughter Family Execution Pack 2 | 289955 | [289955-the-texas-chain-saw-massacre-slaughter-family-execution-pack-2.json](./289955-the-texas-chain-saw-massacre-slaughter-family-execution-pack-2.json) |
 | The Texas Chain Saw Massacre: Sonny Outfit Pack | 273835 | [273835-the-texas-chain-saw-massacre-sonny-outfit-pack.json](./273835-the-texas-chain-saw-massacre-sonny-outfit-pack.json) |
+| The Texas Chain Saw Massacre: Sonny Outfit Pack 2 | 350685 | [350685-the-texas-chain-saw-massacre-sonny-outfit-pack-2.json](./350685-the-texas-chain-saw-massacre-sonny-outfit-pack-2.json) |
 | The Texas Chain Saw Massacre: Sonny Outfit Pack 3 | 351012 | [351012-the-texas-chain-saw-massacre-sonny-outfit-pack-3.json](./351012-the-texas-chain-saw-massacre-sonny-outfit-pack-3.json) |
 | The Texas Chain Saw Massacre: Summer Time Outfit Pack | 350745 | [350745-the-texas-chain-saw-massacre-summer-time-outfit-pack.json](./350745-the-texas-chain-saw-massacre-summer-time-outfit-pack.json) |
 | The Texas Chain Saw Massacre: Sunday Best Outfit Pack | 351013 | [351013-the-texas-chain-saw-massacre-sunday-best-outfit-pack.json](./351013-the-texas-chain-saw-massacre-sunday-best-outfit-pack.json) |
@@ -35316,6 +35320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twistingo | 205981 | [205981-twistingo.json](./205981-twistingo.json) |
 | Twistingo | 206061 | [206061-twistingo.json](./206061-twistingo.json) |
 | Twistingo: Bird Paradise - Collector's Edition | 236204 | [236204-twistingo-bird-paradise-collectors-edition.json](./236204-twistingo-bird-paradise-collectors-edition.json) |
+| Twistingo: Blue Moon - Collector's Edition | 350683 | [350683-twistingo-blue-moon-collectors-edition.json](./350683-twistingo-blue-moon-collectors-edition.json) |
 | Twistingo: Collector's Edition | 211708 | [211708-twistingo-collectors-edition.json](./211708-twistingo-collectors-edition.json) |
 | Twistingo: Hummingbird Haven - Collector's Edition | 277127 | [277127-twistingo-hummingbird-haven-collectors-edition.json](./277127-twistingo-hummingbird-haven-collectors-edition.json) |
 | Twistingo: Tree of Life - Collector's Edition | 416168 | [416168-twistingo-tree-of-life-collectors-edition.json](./416168-twistingo-tree-of-life-collectors-edition.json) |
