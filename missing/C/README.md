@@ -3566,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Kid | 48102 | [48102-casino-kid.json](./48102-casino-kid.json) |
 | Casino Kid II | 48101 | [48101-casino-kid-ii.json](./48101-casino-kid-ii.json) |
 | Casino League | 296035 | [296035-casino-league.json](./296035-casino-league.json) |
+| Casino Los Pixels | 378703 | [378703-casino-los-pixels.json](./378703-casino-los-pixels.json) |
 | Casino Madness | 206894 | [206894-casino-madness.json](./206894-casino-madness.json) |
 | Casino Management Simulator | 292464 | [292464-casino-management-simulator.json](./292464-casino-management-simulator.json) |
 | Casino Manager Simulator | 326459 | [326459-casino-manager-simulator.json](./326459-casino-manager-simulator.json) |
@@ -9879,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Bus Simulator 2018 | 96501 | [96501-city-bus-simulator-2018.json](./96501-city-bus-simulator-2018.json) |
 | City Bus Simulator 2019 | 181610 | [181610-city-bus-simulator-2019.json](./181610-city-bus-simulator-2019.json) |
 | City Bus Simulator 2024 | 304324 | [304324-city-bus-simulator-2024.json](./304324-city-bus-simulator-2024.json) |
+| City Bus Simulator 2026 | 378696 | [378696-city-bus-simulator-2026.json](./378696-city-bus-simulator-2026.json) |
 | City Bus Simulator Munich | 52506 | [52506-city-bus-simulator-munich.json](./52506-city-bus-simulator-munich.json) |
 | City Bus Simulator New York | 52505 | [52505-city-bus-simulator-new-york.json](./52505-city-bus-simulator-new-york.json) |
 | City Bus Simulator: New York | 10594 | [10594-city-bus-simulator-new-york.json](./10594-city-bus-simulator-new-york.json) |
@@ -21577,6 +21579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CVRcade | 125575 | [125575-cvrcade.json](./125575-cvrcade.json) |
 | CW: Chaco War | 37009 | [37009-cw-chaco-war.json](./37009-cw-chaco-war.json) |
 | Cx6 | 240619 | [240619-cx6.json](./240619-cx6.json) |
+| CxC | 378694 | [378694-cxc.json](./378694-cxc.json) |
 | Cy Girls | 22284 | [22284-cy-girls.json](./22284-cy-girls.json) |
 | Cy: Cyberpunk Survivors | 248908 | [248908-cy-cyberpunk-survivors.json](./248908-cy-cyberpunk-survivors.json) |
 | Cyadonia | 99658 | [99658-cyadonia.json](./99658-cyadonia.json) |
