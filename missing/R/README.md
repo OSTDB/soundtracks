@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racecar Bed | 216943 | [216943-racecar-bed.json](./216943-racecar-bed.json) |
 | Racecar Crashers | 391835 | [391835-racecar-crashers.json](./391835-racecar-crashers.json) |
 | Racecar.io | 31020 | [31020-racecar-io.json](./31020-racecar-io.json) |
+| RaceClub | 391381 | [391381-raceclub.json](./391381-raceclub.json) |
 | Racecraft | 18188 | [18188-racecraft.json](./18188-racecraft.json) |
 | RaceCraft | 238861 | [238861-racecraft.json](./238861-racecraft.json) |
 | Raceland | 81906 | [81906-raceland.json](./81906-raceland.json) |
@@ -5496,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rentcthulhu | 391453 | [391453-rentcthulhu.json](./391453-rentcthulhu.json) |
 | Rented Nightmare | 313039 | [313039-rented-nightmare.json](./313039-rented-nightmare.json) |
 | Renters Revenge | 75177 | [75177-renters-revenge.json](./75177-renters-revenge.json) |
+| Rentguessr | 391391 | [391391-rentguessr.json](./391391-rentguessr.json) |
 | Rento Fortune Monolit | 105624 | [105624-rento-fortune-monolit.json](./105624-rento-fortune-monolit.json) |
 | Rento Fortune Monolit: Deep Board | 170741 | [170741-rento-fortune-monolit-deep-board.json](./170741-rento-fortune-monolit-deep-board.json) |
 | Rento Fortune VR | 111592 | [111592-rento-fortune-vr.json](./111592-rento-fortune-vr.json) |
@@ -13209,6 +13211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Raiders | 22327 | [22327-rune-raiders.json](./22327-rune-raiders.json) |
 | Rune Ranker | 197722 | [197722-rune-ranker.json](./197722-rune-ranker.json) |
 | Rune Rhetoric | 280902 | [280902-rune-rhetoric.json](./280902-rune-rhetoric.json) |
+| Rune Rhythm Realm | 391411 | [391411-rune-rhythm-realm.json](./391411-rune-rhythm-realm.json) |
 | Rune Seeker | 301295 | [301295-rune-seeker.json](./301295-rune-seeker.json) |
 | Rune Song | 251934 | [251934-rune-song.json](./251934-rune-song.json) |
 | Rune Stones | 304656 | [304656-rune-stones.json](./304656-rune-stones.json) |
