@@ -4712,6 +4712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Power Industries Deluxe | 122168 | [122168-mars-power-industries-deluxe.json](./122168-mars-power-industries-deluxe.json) |
 | Mars Quest | 147220 | [147220-mars-quest.json](./147220-mars-quest.json) |
 | Mars Raid | 245455 | [245455-mars-raid.json](./245455-mars-raid.json) |
+| Mars Raider | 386656 | [386656-mars-raider.json](./386656-mars-raider.json) |
 | Mars Rapid Transit | 294194 | [294194-mars-rapid-transit.json](./294194-mars-rapid-transit.json) |
 | Mars Red: Edge of the Nightmare | 153384 | [153384-mars-red-edge-of-the-nightmare.json](./153384-mars-red-edge-of-the-nightmare.json) |
 | Mars Rising | 77029 | [77029-mars-rising.json](./77029-mars-rising.json) |
@@ -5054,6 +5055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite - Captain America Gladiator Costume | 386465 | [386465-marvel-vs-capcom-infinite-captain-america-gladiator-costume.json](./386465-marvel-vs-capcom-infinite-captain-america-gladiator-costume.json) |
 | Marvel vs. Capcom: Infinite - Captain Marvel Warbird Costume | 386460 | [386460-marvel-vs-capcom-infinite-captain-marvel-warbird-costume.json](./386460-marvel-vs-capcom-infinite-captain-marvel-warbird-costume.json) |
 | Marvel vs. Capcom: Infinite - Chris Classic Costume | 386491 | [386491-marvel-vs-capcom-infinite-chris-classic-costume.json](./386491-marvel-vs-capcom-infinite-chris-classic-costume.json) |
+| Marvel vs. Capcom: Infinite - Command Mission X Costume | 386454 | [386454-marvel-vs-capcom-infinite-command-mission-x-costume.json](./386454-marvel-vs-capcom-infinite-command-mission-x-costume.json) |
 | Marvel vs. Capcom: Infinite - Dante Nephilim Costume | 386455 | [386455-marvel-vs-capcom-infinite-dante-nephilim-costume.json](./386455-marvel-vs-capcom-infinite-dante-nephilim-costume.json) |
 | Marvel vs. Capcom: Infinite - Deluxe Edition | 53342 | [53342-marvel-vs-capcom-infinite-deluxe-edition.json](./53342-marvel-vs-capcom-infinite-deluxe-edition.json) |
 | Marvel vs. Capcom: Infinite - Doctor Strange Illuminati Costume | 386492 | [386492-marvel-vs-capcom-infinite-doctor-strange-illuminati-costume.json](./386492-marvel-vs-capcom-infinite-doctor-strange-illuminati-costume.json) |
@@ -6291,6 +6293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Strong: Private Investigator | 310604 | [310604-max-strong-private-investigator.json](./310604-max-strong-private-investigator.json) |
 | Max Surfing 2nd | 398002 | [398002-max-surfing-2nd.json](./398002-max-surfing-2nd.json) |
 | Max the Frog | 68551 | [68551-max-the-frog.json](./68551-max-the-frog.json) |
+| Max the Magical Maestro | 386058 | [386058-max-the-magical-maestro.json](./386058-max-the-magical-maestro.json) |
 | Max the Unifox | 423246 | [423246-max-the-unifox.json](./423246-max-the-unifox.json) |
 | Max Time Traveler: From the Future | 186645 | [186645-max-time-traveler-from-the-future.json](./186645-max-time-traveler-from-the-future.json) |
 | Max Traffic | 191887 | [191887-max-traffic.json](./191887-max-traffic.json) |
@@ -16153,6 +16156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonGirlTile | 113305 | [113305-mongirltile.json](./113305-mongirltile.json) |
 | Mongol | 227967 | [227967-mongol.json](./227967-mongol.json) |
 | Mongol 2 | 370339 | [370339-mongol-2.json](./370339-mongol-2.json) |
+| Mongolian Death Worm Capture Department Activity Record | 386634 | [386634-mongolian-death-worm-capture-department-activity-record.json](./386634-mongolian-death-worm-capture-department-activity-record.json) |
 | Mongrel | 57197 | [57197-mongrel.json](./57197-mongrel.json) |
 | Mongrel Games Minigames | 211636 | [211636-mongrel-games-minigames.json](./211636-mongrel-games-minigames.json) |
 | Mónǐ Jiā Zhuāngxiū | 117471 | [117471-moni-jia-zhuangxiu.json](./117471-moni-jia-zhuangxiu.json) |
