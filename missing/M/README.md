@@ -15178,6 +15178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixology | 405647 | [405647-mixology.json](./405647-mixology.json) |
 | Mixolumia | 136536 | [136536-mixolumia.json](./136536-mixolumia.json) |
 | Mixolydia Fringes | 412885 | [412885-mixolydia-fringes.json](./412885-mixolydia-fringes.json) |
+| Mixpirit | 325149 | [325149-mixpirit.json](./325149-mixpirit.json) |
 | Mixtape | 223860 | [223860-mixtape.json](./223860-mixtape.json) |
 | Mixtape Fever | 177004 | [177004-mixtape-fever.json](./177004-mixtape-fever.json) |
 | Mixture | 237776 | [237776-mixture.json](./237776-mixture.json) |
@@ -23034,6 +23035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myrne 6313 | 379826 | [379826-myrne-6313.json](./379826-myrne-6313.json) |
 | Myrne: The Quest | 29551 | [29551-myrne-the-quest.json](./29551-myrne-the-quest.json) |
 | MyrnEscapes | 200033 | [200033-myrnescapes.json](./200033-myrnescapes.json) |
+| MyRobot | 324597 | [324597-myrobot.json](./324597-myrobot.json) |
 | Myror i Brallan | 305867 | [305867-myror-i-brallan.json](./305867-myror-i-brallan.json) |
 | MyRoyalCorgi | 63517 | [63517-myroyalcorgi.json](./63517-myroyalcorgi.json) |
 | MyRPG | 54223 | [54223-myrpg.json](./54223-myrpg.json) |
