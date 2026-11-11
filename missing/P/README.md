@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P'radikus Conflict | 73467 | [73467-pradikus-conflict.json](./73467-pradikus-conflict.json) |
 | P0 | 159517 | [159517-p0.json](./159517-p0.json) |
 | P0 Snake | 408479 | [408479-p0-snake.json](./408479-p0-snake.json) |
+| P0: Byte-Sized Brilliance | 383864 | [383864-p0-byte-sized-brilliance.json](./383864-p0-byte-sized-brilliance.json) |
 | p0nd | 242893 | [242893-p0nd.json](./242893-p0nd.json) |
 | P1 Select | 139803 | [139803-p1-select.json](./139803-p1-select.json) |
 | P1: Anchor Light | 363808 | [363808-p1-anchor-light.json](./363808-p1-anchor-light.json) |
@@ -524,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pack Man in Rio | 241281 | [241281-pack-man-in-rio.json](./241281-pack-man-in-rio.json) |
 | Pack Master | 135651 | [135651-pack-master.json](./135651-pack-master.json) |
 | Pack Master | 358434 | [358434-pack-master.json](./358434-pack-master.json) |
+| Pack my LunchBox | 383890 | [383890-pack-my-lunchbox.json](./383890-pack-my-lunchbox.json) |
 | Pack my LunchBox: Showtime | 406469 | [406469-pack-my-lunchbox-showtime.json](./406469-pack-my-lunchbox-showtime.json) |
 | Pack My Stuff | 197142 | [197142-pack-my-stuff.json](./197142-pack-my-stuff.json) |
 | Pack My Stuff: New City | 257206 | [257206-pack-my-stuff-new-city.json](./257206-pack-my-stuff-new-city.json) |
