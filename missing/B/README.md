@@ -8692,6 +8692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biodrone Battle | 35072 | [35072-biodrone-battle.json](./35072-biodrone-battle.json) |
 | BioEden | 404905 | [404905-bioeden.json](./404905-bioeden.json) |
 | BioEntity | 82328 | [82328-bioentity.json](./82328-bioentity.json) |
+| Biofactory | 331037 | [331037-biofactory.json](./331037-biofactory.json) |
 | Biofall: Survival | 349519 | [349519-biofall-survival.json](./349519-biofall-survival.json) |
 | BioForge | 2213 | [2213-bioforge.json](./2213-bioforge.json) |
 | Bioframe: Outpost | 211099 | [211099-bioframe-outpost.json](./211099-bioframe-outpost.json) |
@@ -12103,6 +12104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Heaven 2 | 291859 | [291859-bloody-heaven-2.json](./291859-bloody-heaven-2.json) |
 | Bloody Heck | 261548 | [261548-bloody-heck.json](./261548-bloody-heck.json) |
 | Bloody Hell | 213501 | [213501-bloody-hell.json](./213501-bloody-hell.json) |
+| Bloody Hell 2 | 331033 | [331033-bloody-hell-2.json](./331033-bloody-hell-2.json) |
 | Bloody Hell Hotel | 213557 | [213557-bloody-hell-hotel.json](./213557-bloody-hell-hotel.json) |
 | Bloody Hills | 258378 | [258378-bloody-hills.json](./258378-bloody-hills.json) |
 | Bloody Horror Plant | 239684 | [239684-bloody-horror-plant.json](./239684-bloody-horror-plant.json) |
@@ -17869,6 +17871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubsy in Fractured Furry Tales | 7805 | [7805-bubsy-in-fractured-furry-tales.json](./7805-bubsy-in-fractured-furry-tales.json) |
 | Bubsy in Sonic 2 | 360099 | [360099-bubsy-in-sonic-2.json](./360099-bubsy-in-sonic-2.json) |
 | Bubsy In: The Purrfect Collection | 306587 | [306587-bubsy-in-the-purrfect-collection.json](./306587-bubsy-in-the-purrfect-collection.json) |
+| Bubsy Night Funkin' | 331021 | [331021-bubsy-night-funkin.json](./331021-bubsy-night-funkin.json) |
 | Bubsy Two-Fur | 33965 | [33965-bubsy-two-fur.json](./33965-bubsy-two-fur.json) |
 | Bubsy: Less Bad Edition | 393941 | [393941-bubsy-less-bad-edition.json](./393941-bubsy-less-bad-edition.json) |
 | Bubsy: Paws on Fire - Limited Edition | 166269 | [166269-bubsy-paws-on-fire-limited-edition.json](./166269-bubsy-paws-on-fire-limited-edition.json) |
@@ -18993,6 +18996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Joint Simulator | 401614 | [401614-burger-joint-simulator.json](./401614-burger-joint-simulator.json) |
 | Burger King Foot Lettuce | 380546 | [380546-burger-king-foot-lettuce.json](./380546-burger-king-foot-lettuce.json) |
 | Burger King Halloween Game | 238202 | [238202-burger-king-halloween-game.json](./238202-burger-king-halloween-game.json) |
+| Burger King Jr. Club | 331034 | [331034-burger-king-jr-club.json](./331034-burger-king-jr-club.json) |
 | Burger King Orientation CD-i Training | 182507 | [182507-burger-king-orientation-cd-i-training.json](./182507-burger-king-orientation-cd-i-training.json) |
 | Burger Kombat | 314291 | [314291-burger-kombat.json](./314291-burger-kombat.json) |
 | Burger Lord | 111438 | [111438-burger-lord.json](./111438-burger-lord.json) |
