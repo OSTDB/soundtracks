@@ -17366,6 +17366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamstate Racing | 133414 | [133414-dreamstate-racing.json](./133414-dreamstate-racing.json) |
 | Dreamstones | 74676 | [74676-dreamstones.json](./74676-dreamstones.json) |
 | Dreamstory | 379026 | [379026-dreamstory.json](./379026-dreamstory.json) |
+| Dreamstranded | 390321 | [390321-dreamstranded.json](./390321-dreamstranded.json) |
 | Dreamstudio | 61860 | [61860-dreamstudio.json](./61860-dreamstudio.json) |
 | Dreamsweeper | 265772 | [265772-dreamsweeper.json](./265772-dreamsweeper.json) |
 | Dreamt | 147064 | [147064-dreamt.json](./147064-dreamt.json) |
