@@ -18165,6 +18165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morna Tales | 74804 | [74804-morna-tales.json](./74804-morna-tales.json) |
 | Mornin' Joe! | 249792 | [249792-mornin-joe.json](./249792-mornin-joe.json) |
 | Morning | 306276 | [306276-morning.json](./306276-morning.json) |
+| Morning 333 | 353564 | [353564-morning-333.json](./353564-morning-333.json) |
 | Morning Brew: Coffee Shop Management Simulator | 326388 | [326388-morning-brew-coffee-shop-management-simulator.json](./326388-morning-brew-coffee-shop-management-simulator.json) |
 | Morning Coffee | 128615 | [128615-morning-coffee.json](./128615-morning-coffee.json) |
 | Morning Glories | 398791 | [398791-morning-glories.json](./398791-morning-glories.json) |
