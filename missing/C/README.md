@@ -7632,6 +7632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Bomb | 137595 | [137595-chicken-bomb.json](./137595-chicken-bomb.json) |
 | Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
 | Chicken Brother | 253648 | [253648-chicken-brother.json](./253648-chicken-brother.json) |
+| Chicken Brother Guardian | 347375 | [347375-chicken-brother-guardian.json](./347375-chicken-brother-guardian.json) |
 | Chicken Butt | 183702 | [183702-chicken-butt.json](./183702-chicken-butt.json) |
 | Chicken Cannon! | 165120 | [165120-chicken-cannon.json](./165120-chicken-cannon.json) |
 | Chicken Cha Cha Cha | 174236 | [174236-chicken-cha-cha-cha.json](./174236-chicken-cha-cha-cha.json) |
