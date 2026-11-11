@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QuantumPulse 2A | 333349 | [333349-quantumpulse-2a.json](./333349-quantumpulse-2a.json) |
 | QuantumVR | 394625 | [394625-quantumvr.json](./394625-quantumvr.json) |
 | QuantZ | 10200 | [10200-quantz.json](./10200-quantz.json) |
+| Quanwang Gongdi: Gui Cun | 326901 | [326901-quanwang-gongdi-gui-cun.json](./326901-quanwang-gongdi-gui-cun.json) |
 | QuaQua | 188778 | [188778-quaqua.json](./188778-quaqua.json) |
 | Quar: Battle for Gate 18 | 33649 | [33649-quar-battle-for-gate-18.json](./33649-quar-battle-for-gate-18.json) |
 | Quar: Infernal Machines | 116239 | [116239-quar-infernal-machines.json](./116239-quar-infernal-machines.json) |
