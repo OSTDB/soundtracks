@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yolo Chase | 241535 | [241535-yolo-chase.json](./241535-yolo-chase.json) |
 | YOLO Life: The Beggining | 76562 | [76562-yolo-life-the-beggining.json](./76562-yolo-life-the-beggining.json) |
 | Yolo Space Hacker | 156008 | [156008-yolo-space-hacker.json](./156008-yolo-space-hacker.json) |
+| Yolo Space Hacker 2: Mission Bahamas | 350102 | [350102-yolo-space-hacker-2-mission-bahamas.json](./350102-yolo-space-hacker-2-mission-bahamas.json) |
 | Yolo Space Hacker: Mission Bahamas | 196048 | [196048-yolo-space-hacker-mission-bahamas.json](./196048-yolo-space-hacker-mission-bahamas.json) |
 | Yolo Space Hacker: Mission Forensic | 196125 | [196125-yolo-space-hacker-mission-forensic.json](./196125-yolo-space-hacker-mission-forensic.json) |
 | Yoltrund | 81818 | [81818-yoltrund.json](./81818-yoltrund.json) |
@@ -2023,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Nikki GB | 229686 | [229686-yume-nikki-gb.json](./229686-yume-nikki-gb.json) |
 | Yume Nikki Hazard | 225364 | [225364-yume-nikki-hazard.json](./225364-yume-nikki-hazard.json) |
 | Yume Nikki Jam 2018 Submission | 229601 | [229601-yume-nikki-jam-2018-submission.json](./229601-yume-nikki-jam-2018-submission.json) |
+| Yume Nikki Online Project | 350137 | [350137-yume-nikki-online-project.json](./350137-yume-nikki-online-project.json) |
 | Yume Nikki PS | 376501 | [376501-yume-nikki-ps.json](./376501-yume-nikki-ps.json) |
 | Yume Nikki Rythm | 229600 | [229600-yume-nikki-rythm.json](./229600-yume-nikki-rythm.json) |
 | Yume Nikki Smash Dream | 225349 | [225349-yume-nikki-smash-dream.json](./225349-yume-nikki-smash-dream.json) |
