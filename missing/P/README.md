@@ -6730,6 +6730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pig Commander | 391028 | [391028-pig-commander.json](./391028-pig-commander.json) |
 | Pig Escape | 185003 | [185003-pig-escape.json](./185003-pig-escape.json) |
 | Pig Escape | 336453 | [336453-pig-escape.json](./336453-pig-escape.json) |
+| Pig Escape 2 | 353565 | [353565-pig-escape-2.json](./353565-pig-escape-2.json) |
 | Pig Farm Mix | 208154 | [208154-pig-farm-mix.json](./208154-pig-farm-mix.json) |
 | Pig Friends | 128807 | [128807-pig-friends.json](./128807-pig-friends.json) |
 | Pig Jump | 140173 | [140173-pig-jump.json](./140173-pig-jump.json) |
@@ -6870,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin 1x3 | 313368 | [313368-pikmin-1x3.json](./313368-pikmin-1x3.json) |
 | Pikmin 2 | 2240 | [2240-pikmin-2.json](./2240-pikmin-2.json) |
 | Pikmin 2 | 254335 | [254335-pikmin-2.json](./254335-pikmin-2.json) |
+| Pikmin 2 | 353528 | [353528-pikmin-2.json](./353528-pikmin-2.json) |
 | Pikmin 2 | 84697 | [84697-pikmin-2.json](./84697-pikmin-2.json) |
 | Pikmin 2 Deluxe | 314134 | [314134-pikmin-2-deluxe.json](./314134-pikmin-2-deluxe.json) |
 | Pikmin 2 Hallows Haunt | 291158 | [291158-pikmin-2-hallows-haunt.json](./291158-pikmin-2-hallows-haunt.json) |
@@ -6914,7 +6916,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Maps in Minecraft | 313469 | [313469-pikmin-maps-in-minecraft.json](./313469-pikmin-maps-in-minecraft.json) |
 | Pikmin Puzzle Card e+ | 220852 | [220852-pikmin-puzzle-card-e.json](./220852-pikmin-puzzle-card-e.json) |
 | Pikmin Puzzle Card e+ | 363806 | [363806-pikmin-puzzle-card-e.json](./363806-pikmin-puzzle-card-e.json) |
+| Pikmin Puzzle Card e+: Hikkonuki Pikmin - Buta Dokkuri | 353529 | [353529-pikmin-puzzle-card-e-hikkonuki-pikmin-buta-dokkuri.json](./353529-pikmin-puzzle-card-e-hikkonuki-pikmin-buta-dokkuri.json) |
 | Pikmin Puzzle Card e+: Hikkonuki Pikmin - Olimar | 353505 | [353505-pikmin-puzzle-card-e-hikkonuki-pikmin-olimar.json](./353505-pikmin-puzzle-card-e-hikkonuki-pikmin-olimar.json) |
+| Pikmin Puzzle Card e+: Hikkonuki Pikmin - Pack 1 | 353532 | [353532-pikmin-puzzle-card-e-hikkonuki-pikmin-pack-1.json](./353532-pikmin-puzzle-card-e-hikkonuki-pikmin-pack-1.json) |
+| Pikmin Puzzle Card e+: Hikkonuki Pikmin - Pack 2 | 353533 | [353533-pikmin-puzzle-card-e-hikkonuki-pikmin-pack-2.json](./353533-pikmin-puzzle-card-e-hikkonuki-pikmin-pack-2.json) |
+| Pikmin Puzzle Card e+: Hikkonuki Pikmin - Pack 3 | 353534 | [353534-pikmin-puzzle-card-e-hikkonuki-pikmin-pack-3.json](./353534-pikmin-puzzle-card-e-hikkonuki-pikmin-pack-3.json) |
+| Pikmin Puzzle Card e+: Hikkonuki Pikmin - Pack 4 | 353535 | [353535-pikmin-puzzle-card-e-hikkonuki-pikmin-pack-4.json](./353535-pikmin-puzzle-card-e-hikkonuki-pikmin-pack-4.json) |
 | Pikmin Puzzle Card e+: No.00 - Hikkonuki Pikmin: Aka Pikmin | 353509 | [353509-pikmin-puzzle-card-e-no-00-hikkonuki-pikmin-aka-pikmin.json](./353509-pikmin-puzzle-card-e-no-00-hikkonuki-pikmin-aka-pikmin.json) |
 | Pikmin Puzzle Card e+: No.00 - Teku-teku Pikmin: Ki Pikmin | 353510 | [353510-pikmin-puzzle-card-e-no-00-teku-teku-pikmin-ki-pikmin.json](./353510-pikmin-puzzle-card-e-no-00-teku-teku-pikmin-ki-pikmin.json) |
 | Pikmin Puzzle Card e+: No.00 - Tsunagete Pikmin: Ao Pikmin | 353511 | [353511-pikmin-puzzle-card-e-no-00-tsunagete-pikmin-ao-pikmin.json](./353511-pikmin-puzzle-card-e-no-00-tsunagete-pikmin-ao-pikmin.json) |
@@ -6967,8 +6974,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Puzzle Card e+: No.13 - Teku-teku Pikmin: Daiou Deme Madara | 353525 | [353525-pikmin-puzzle-card-e-no-13-teku-teku-pikmin-daiou-deme-madara.json](./353525-pikmin-puzzle-card-e-no-13-teku-teku-pikmin-daiou-deme-madara.json) |
 | Pikmin Puzzle Card e+: No.60 - Teku-teku Pikmin: Panmodoki | 363799 | [363799-pikmin-puzzle-card-e-no-60-teku-teku-pikmin-panmodoki.json](./363799-pikmin-puzzle-card-e-no-60-teku-teku-pikmin-panmodoki.json) |
 | Pikmin Puzzle Card e+: No.66 - Hikkonuki Pikmin: Miyabi Futa-kuchi | 363805 | [363805-pikmin-puzzle-card-e-no-66-hikkonuki-pikmin-miyabi-futa-kuchi.json](./363805-pikmin-puzzle-card-e-no-66-hikkonuki-pikmin-miyabi-futa-kuchi.json) |
+| Pikmin Puzzle Card e+: Pack 1 / Pack 2 | 353545 | [353545-pikmin-puzzle-card-e-pack-1-pack-2.json](./353545-pikmin-puzzle-card-e-pack-1-pack-2.json) |
+| Pikmin Puzzle Card e+: Pack 3 / Pack 4 | 353546 | [353546-pikmin-puzzle-card-e-pack-3-pack-4.json](./353546-pikmin-puzzle-card-e-pack-3-pack-4.json) |
+| Pikmin Puzzle Card e+: Teku-teku Pikmin - Pack 1 | 353537 | [353537-pikmin-puzzle-card-e-teku-teku-pikmin-pack-1.json](./353537-pikmin-puzzle-card-e-teku-teku-pikmin-pack-1.json) |
+| Pikmin Puzzle Card e+: Teku-teku Pikmin - Pack 2 | 353538 | [353538-pikmin-puzzle-card-e-teku-teku-pikmin-pack-2.json](./353538-pikmin-puzzle-card-e-teku-teku-pikmin-pack-2.json) |
+| Pikmin Puzzle Card e+: Teku-teku Pikmin - Pack 3 | 353539 | [353539-pikmin-puzzle-card-e-teku-teku-pikmin-pack-3.json](./353539-pikmin-puzzle-card-e-teku-teku-pikmin-pack-3.json) |
+| Pikmin Puzzle Card e+: Teku-teku Pikmin - Pack 4 | 353540 | [353540-pikmin-puzzle-card-e-teku-teku-pikmin-pack-4.json](./353540-pikmin-puzzle-card-e-teku-teku-pikmin-pack-4.json) |
 | Pikmin Puzzle Card e+: Teku-teku Pikmin - President | 353506 | [353506-pikmin-puzzle-card-e-teku-teku-pikmin-president.json](./353506-pikmin-puzzle-card-e-teku-teku-pikmin-president.json) |
 | Pikmin Puzzle Card e+: Tsunagete Pikmin - Louie | 353508 | [353508-pikmin-puzzle-card-e-tsunagete-pikmin-louie.json](./353508-pikmin-puzzle-card-e-tsunagete-pikmin-louie.json) |
+| Pikmin Puzzle Card e+: Tsunagete Pikmin - Pack 1 | 353541 | [353541-pikmin-puzzle-card-e-tsunagete-pikmin-pack-1.json](./353541-pikmin-puzzle-card-e-tsunagete-pikmin-pack-1.json) |
+| Pikmin Puzzle Card e+: Tsunagete Pikmin - Pack 2 | 353542 | [353542-pikmin-puzzle-card-e-tsunagete-pikmin-pack-2.json](./353542-pikmin-puzzle-card-e-tsunagete-pikmin-pack-2.json) |
+| Pikmin Puzzle Card e+: Tsunagete Pikmin - Pack 3 | 353543 | [353543-pikmin-puzzle-card-e-tsunagete-pikmin-pack-3.json](./353543-pikmin-puzzle-card-e-tsunagete-pikmin-pack-3.json) |
+| Pikmin Puzzle Card e+: Tsunagete Pikmin - Pack 4 | 353544 | [353544-pikmin-puzzle-card-e-tsunagete-pikmin-pack-4.json](./353544-pikmin-puzzle-card-e-tsunagete-pikmin-pack-4.json) |
 | Pikmin RPG | 314175 | [314175-pikmin-rpg.json](./314175-pikmin-rpg.json) |
 | Pikmin RPG | 323886 | [323886-pikmin-rpg.json](./323886-pikmin-rpg.json) |
 | Pikmin Stellar | 313356 | [313356-pikmin-stellar.json](./313356-pikmin-stellar.json) |
@@ -9290,6 +9307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixi Poxi Autorunner Lab | 268274 | [268274-pixi-poxi-autorunner-lab.json](./268274-pixi-poxi-autorunner-lab.json) |
 | Pixicharm Collection 1 | 320377 | [320377-pixicharm-collection-1.json](./320377-pixicharm-collection-1.json) |
 | Pixicharm Collection 2 | 334080 | [334080-pixicharm-collection-2.json](./334080-pixicharm-collection-2.json) |
+| Pixicharm Collection 3 | 353566 | [353566-pixicharm-collection-3.json](./353566-pixicharm-collection-3.json) |
 | Pixicharm: Acornflare | 389416 | [389416-pixicharm-acornflare.json](./389416-pixicharm-acornflare.json) |
 | Pixicharm: BitPew | 392346 | [392346-pixicharm-bitpew.json](./392346-pixicharm-bitpew.json) |
 | Pixicharm: Blaster Orbit | 368186 | [368186-pixicharm-blaster-orbit.json](./368186-pixicharm-blaster-orbit.json) |
@@ -9303,6 +9321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixicharm: Dinoluship | 315924 | [315924-pixicharm-dinoluship.json](./315924-pixicharm-dinoluship.json) |
 | Pixicharm: Fit Frog's Feast | 315931 | [315931-pixicharm-fit-frogs-feast.json](./315931-pixicharm-fit-frogs-feast.json) |
 | Pixicharm: Flindlehop | 356508 | [356508-pixicharm-flindlehop.json](./356508-pixicharm-flindlehop.json) |
+| Pixicharm: Flip, Flap & Fang | 353567 | [353567-pixicharm-flip-flap-and-fang.json](./353567-pixicharm-flip-flap-and-fang.json) |
 | Pixicharm: Frost Ascent | 339054 | [339054-pixicharm-frost-ascent.json](./339054-pixicharm-frost-ascent.json) |
 | Pixicharm: Goo Patrol | 373564 | [373564-pixicharm-goo-patrol.json](./373564-pixicharm-goo-patrol.json) |
 | Pixicharm: Hallowkinz | 378767 | [378767-pixicharm-hallowkinz.json](./378767-pixicharm-hallowkinz.json) |
