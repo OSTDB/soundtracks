@@ -3263,6 +3263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juicy Futa | 207602 | [207602-juicy-futa.json](./207602-juicy-futa.json) |
 | Juicy Hentai | 368114 | [368114-juicy-hentai.json](./368114-juicy-hentai.json) |
 | Juicy Knife Throw - Hit Splash | 98746 | [98746-juicy-knife-throw-hit-splash.json](./98746-juicy-knife-throw-hit-splash.json) |
+| Juicy Love | 389772 | [389772-juicy-love.json](./389772-juicy-love.json) |
 | Juicy Memory Card | 156201 | [156201-juicy-memory-card.json](./156201-juicy-memory-card.json) |
 | Juicy Realm | 75263 | [75263-juicy-realm.json](./75263-juicy-realm.json) |
 | Juicy Retro Style!: Bloodhound | 265203 | [265203-juicy-retro-style-bloodhound.json](./265203-juicy-retro-style-bloodhound.json) |
