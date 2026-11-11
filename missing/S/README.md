@@ -22084,6 +22084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan's Spear | 273407 | [273407-spartans-spear.json](./273407-spartans-spear.json) |
 | SpartanPort | 423038 | [423038-spartanport.json](./423038-spartanport.json) |
 | Spartans Vs Zombies Defense | 36015 | [36015-spartans-vs-zombies-defense.json](./36015-spartans-vs-zombies-defense.json) |
+| Spartans vs. Vikings | 343513 | [343513-spartans-vs-vikings.json](./343513-spartans-vs-vikings.json) |
 | Sparticles | 107271 | [107271-sparticles.json](./107271-sparticles.json) |
 | Spartoi Meadow | 149147 | [149147-spartoi-meadow.json](./149147-spartoi-meadow.json) |
 | Spårvagn | 142361 | [142361-sparvagn.json](./142361-sparvagn.json) |
@@ -29273,6 +29274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of Seasons: Friends of Mineral Town | 120300 | [120300-story-of-seasons-friends-of-mineral-town.json](./120300-story-of-seasons-friends-of-mineral-town.json) |
 | Story of Seasons: Grand Bazaar | 337026 | [337026-story-of-seasons-grand-bazaar.json](./337026-story-of-seasons-grand-bazaar.json) |
 | Story of Seasons: Grand Bazaar - Digital Deluxe Edition | 342241 | [342241-story-of-seasons-grand-bazaar-digital-deluxe-edition.json](./342241-story-of-seasons-grand-bazaar-digital-deluxe-edition.json) |
+| Story of Seasons: Grand Bazaar - Super Digital Deluxe Edition | 343520 | [343520-story-of-seasons-grand-bazaar-super-digital-deluxe-edition.json](./343520-story-of-seasons-grand-bazaar-super-digital-deluxe-edition.json) |
 | Story of Seasons: Pioneers of Olive Town | 140500 | [140500-story-of-seasons-pioneers-of-olive-town.json](./140500-story-of-seasons-pioneers-of-olive-town.json) |
 | Story of Seasons: Pioneers of Olive Town - Buffalo Costume | 365902 | [365902-story-of-seasons-pioneers-of-olive-town-buffalo-costume.json](./365902-story-of-seasons-pioneers-of-olive-town-buffalo-costume.json) |
 | Story of Seasons: Pioneers of Olive Town - Deluxe Edition | 141440 | [141440-story-of-seasons-pioneers-of-olive-town-deluxe-edition.json](./141440-story-of-seasons-pioneers-of-olive-town-deluxe-edition.json) |
