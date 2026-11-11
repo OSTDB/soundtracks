@@ -6971,6 +6971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Sand Dream Curse | 359537 | [359537-golden-sand-dream-curse.json](./359537-golden-sand-dream-curse.json) |
 | Golden Scarab | 51680 | [51680-golden-scarab.json](./51680-golden-scarab.json) |
 | Golden Self | 385887 | [385887-golden-self.json](./385887-golden-self.json) |
+| Golden Soul | 340116 | [340116-golden-soul.json](./340116-golden-soul.json) |
 | Golden Spatula | 326661 | [326661-golden-spatula.json](./326661-golden-spatula.json) |
 | Golden Spider Solitaire | 144528 | [144528-golden-spider-solitaire.json](./144528-golden-spider-solitaire.json) |
 | Golden Sun | 1172 | [1172-golden-sun.json](./1172-golden-sun.json) |
@@ -11956,6 +11957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship Recon: Purchase Privilege | 156168 | [156168-gunship-recon-purchase-privilege.json](./156168-gunship-recon-purchase-privilege.json) |
 | Gunship War Total Battle | 296780 | [296780-gunship-war-total-battle.json](./296780-gunship-war-total-battle.json) |
 | Gunship X | 52240 | [52240-gunship-x.json](./52240-gunship-x.json) |
+| Gunship: Zombie | 340100 | [340100-gunship-zombie.json](./340100-gunship-zombie.json) |
 | Gunship! | 10383 | [10383-gunship.json](./10383-gunship.json) |
 | Gunshoot | 76614 | [76614-gunshoot.json](./76614-gunshoot.json) |
 | Gunshot Arcade | 407339 | [407339-gunshot-arcade.json](./407339-gunshot-arcade.json) |
