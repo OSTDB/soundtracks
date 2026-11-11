@@ -3812,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Fantasia: Seima Taisen | 283329 | [283329-castle-fantasia-seima-taisen.json](./283329-castle-fantasia-seima-taisen.json) |
 | Castle Fight | 156813 | [156813-castle-fight.json](./156813-castle-fight.json) |
 | Castle Flipper | 111425 | [111425-castle-flipper.json](./111425-castle-flipper.json) |
+| Castle Forbidden | 361949 | [361949-castle-forbidden.json](./361949-castle-forbidden.json) |
 | Castle Formers | 154026 | [154026-castle-formers.json](./154026-castle-formers.json) |
 | Castle Frankenstein | 391290 | [391290-castle-frankenstein.json](./391290-castle-frankenstein.json) |
 | Castle Golgotha | 274268 | [274268-castle-golgotha.json](./274268-castle-golgotha.json) |
@@ -7913,6 +7914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children's Jigsaw Puzzles: Fairy Tale | 162220 | [162220-childrens-jigsaw-puzzles-fairy-tale.json](./162220-childrens-jigsaw-puzzles-fairy-tale.json) |
 | Children's Jigsaw Puzzles: Magic Kindergarten | 162222 | [162222-childrens-jigsaw-puzzles-magic-kindergarten.json](./162222-childrens-jigsaw-puzzles-magic-kindergarten.json) |
 | Children's Musical Theatre | 45894 | [45894-childrens-musical-theatre.json](./45894-childrens-musical-theatre.json) |
+| Children's Sandbox | 361930 | [361930-childrens-sandbox.json](./361930-childrens-sandbox.json) |
 | Children's Story | 128755 | [128755-childrens-story.json](./128755-childrens-story.json) |
 | ChildrenBreak | 97239 | [97239-childrenbreak.json](./97239-childrenbreak.json) |
 | Chili Con Carnage | 23111 | [23111-chili-con-carnage.json](./23111-chili-con-carnage.json) |
@@ -11389,6 +11391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Bashers | 125554 | [125554-cloud-bashers.json](./125554-cloud-bashers.json) |
 | Cloud Bashers DX | 154251 | [154251-cloud-bashers-dx.json](./154251-cloud-bashers-dx.json) |
 | Cloud Castle | 275874 | [275874-cloud-castle.json](./275874-cloud-castle.json) |
+| Cloud Cats' Land | 361973 | [361973-cloud-cats-land.json](./361973-cloud-cats-land.json) |
 | Cloud Chamber | 10096 | [10096-cloud-chamber.json](./10096-cloud-chamber.json) |
 | Cloud Chasers | 23657 | [23657-cloud-chasers.json](./23657-cloud-chasers.json) |
 | Cloud Climber | 142314 | [142314-cloud-climber.json](./142314-cloud-climber.json) |
@@ -13626,6 +13629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come On! Heroes | 85044 | [85044-come-on-heroes.json](./85044-come-on-heroes.json) |
 | Come Out Guys | 389680 | [389680-come-out-guys.json](./389680-come-out-guys.json) |
 | Come Out, Cat | 363947 | [363947-come-out-cat.json](./363947-come-out-cat.json) |
+| Come to an End | 361958 | [361958-come-to-an-end.json](./361958-come-to-an-end.json) |
 | Come To Dust | 283730 | [283730-come-to-dust.json](./283730-come-to-dust.json) |
 | Come to Jesus | 179726 | [179726-come-to-jesus.json](./179726-come-to-jesus.json) |
 | Come To My Party! | 404091 | [404091-come-to-my-party.json](./404091-come-to-my-party.json) |
@@ -15935,6 +15939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrupted Souls | 366960 | [366960-corrupted-souls.json](./366960-corrupted-souls.json) |
 | Corrupted Universe Cries Quietly | 269282 | [269282-corrupted-universe-cries-quietly.json](./269282-corrupted-universe-cries-quietly.json) |
 | Corrupted Veil | 420063 | [420063-corrupted-veil.json](./420063-corrupted-veil.json) |
+| Corrupted World | 361979 | [361979-corrupted-world.json](./361979-corrupted-world.json) |
 | Corrupted Worlds | 408522 | [408522-corrupted-worlds.json](./408522-corrupted-worlds.json) |
 | Corruption | 101599 | [101599-corruption.json](./101599-corruption.json) |
 | Corruption | 12012 | [12012-corruption.json](./12012-corruption.json) |
