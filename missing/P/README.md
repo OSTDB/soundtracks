@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora | 240593 | [240593-pandora.json](./240593-pandora.json) |
 | Pandora | 249207 | [249207-pandora.json](./249207-pandora.json) |
 | Pandora | 255144 | [255144-pandora.json](./255144-pandora.json) |
+| Pandora Corp. | 393702 | [393702-pandora-corp.json](./393702-pandora-corp.json) |
 | Pandora Galaxy | 156987 | [156987-pandora-galaxy.json](./156987-pandora-galaxy.json) |
 | Pandora no Bikkuribako | 405673 | [405673-pandora-no-bikkuribako.json](./405673-pandora-no-bikkuribako.json) |
 | Pandora no Yume | 372435 | [372435-pandora-no-yume.json](./372435-pandora-no-yume.json) |
@@ -13888,6 +13889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal Babes | 125024 | [125024-postal-babes.json](./125024-postal-babes.json) |
 | Postal F: The Thursday Expansion - A Mod for Friday Night Funkin'. | 298715 | [298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json](./298715-postal-f-the-thursday-expansion-a-mod-for-friday-night-funkin.json) |
 | Postal III | 3110 | [3110-postal-iii.json](./3110-postal-iii.json) |
+| Postal X: 10th Anniversary Collector's Edition | 394253 | [394253-postal-x-10th-anniversary-collectors-edition.json](./394253-postal-x-10th-anniversary-collectors-edition.json) |
 | Postal: Brain Damaged - These Sunny Daze | 347105 | [347105-postal-brain-damaged-these-sunny-daze.json](./347105-postal-brain-damaged-these-sunny-daze.json) |
 | Postal: Bullet Paradise | 380133 | [380133-postal-bullet-paradise.json](./380133-postal-bullet-paradise.json) |
 | Postal: Classic and Uncut | 405310 | [405310-postal-classic-and-uncut.json](./405310-postal-classic-and-uncut.json) |
@@ -14831,6 +14833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President's Choice | 307866 | [307866-presidents-choice.json](./307866-presidents-choice.json) |
 | President's Sniper Shooting | 155945 | [155945-presidents-sniper-shooting.json](./155945-presidents-sniper-shooting.json) |
 | Presidential Beatdown | 361049 | [361049-presidential-beatdown.json](./361049-presidential-beatdown.json) |
+| Presidential Dating Simulator | 393686 | [393686-presidential-dating-simulator.json](./393686-presidential-dating-simulator.json) |
 | Presidential Knockout | 324820 | [324820-presidential-knockout.json](./324820-presidential-knockout.json) |
 | Presidential Psychologist | 366744 | [366744-presidential-psychologist.json](./366744-presidential-psychologist.json) |
 | Presidential Rise | 348293 | [348293-presidential-rise.json](./348293-presidential-rise.json) |
