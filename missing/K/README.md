@@ -39,6 +39,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-pop Idols Dating: Anime Love for B.SeveT | 334098 | [334098-k-pop-idols-dating-anime-love-for-b-sevet.json](./334098-k-pop-idols-dating-anime-love-for-b-sevet.json) |
 | K-pop Idols Dating: Anime Love for PinkOrbil T. | 335009 | [335009-k-pop-idols-dating-anime-love-for-pinkorbil-t.json](./335009-k-pop-idols-dating-anime-love-for-pinkorbil-t.json) |
 | K-Pop Karaoke Party | 413952 | [413952-k-pop-karaoke-party.json](./413952-k-pop-karaoke-party.json) |
+| K-Pop Puzzle Idols: Music Festival | 360236 | [360236-k-pop-puzzle-idols-music-festival.json](./360236-k-pop-puzzle-idols-music-festival.json) |
 | K-Pop Rising: Dream to Shine | 408838 | [408838-k-pop-rising-dream-to-shine.json](./408838-k-pop-rising-dream-to-shine.json) |
 | K-Pop VR | 76441 | [76441-k-pop-vr.json](./76441-k-pop-vr.json) |
 | K-Pop! | 309741 | [309741-k-pop.json](./309741-k-pop.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimbap Factory | 413107 | [413107-kimbap-factory.json](./413107-kimbap-factory.json) |
 | Kimbap Heaven Simulator | 390261 | [390261-kimbap-heaven-simulator.json](./390261-kimbap-heaven-simulator.json) |
 | Kimchi-Man | 65314 | [65314-kimchi-man.json](./65314-kimchi-man.json) |
+| Kimchi: A Stars in the Trash Story | 360250 | [360250-kimchi-a-stars-in-the-trash-story.json](./360250-kimchi-a-stars-in-the-trash-story.json) |
 | Kimero!! Hero Gakuen: Eiyuu ni Shinjutsu Nashi | 59439 | [59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json](./59439-kimero-hero-gakuen-eiyuu-ni-shinjutsu-nashi.json) |
 | Kimetsu no Yaiba: Keppuu Kengeki Royale | 133758 | [133758-kimetsu-no-yaiba-keppuu-kengeki-royale.json](./133758-kimetsu-no-yaiba-keppuu-kengeki-royale.json) |
 | Kimi ga Ita Kisetsu | 181187 | [181187-kimi-ga-ita-kisetsu.json](./181187-kimi-ga-ita-kisetsu.json) |
