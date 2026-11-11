@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land It! | 76071 | [76071-land-it.json](./76071-land-it.json) |
 | Land Mine Land | 418396 | [418396-land-mine-land.json](./418396-land-mine-land.json) |
 | Land of an Endless Journey | 107509 | [107509-land-of-an-endless-journey.json](./107509-land-of-an-endless-journey.json) |
+| Land of Anima: The Research of Artificer | 347387 | [347387-land-of-anima-the-research-of-artificer.json](./347387-land-of-anima-the-research-of-artificer.json) |
 | Land of Artificial Jellies | 294003 | [294003-land-of-artificial-jellies.json](./294003-land-of-artificial-jellies.json) |
 | Land of Borealia | 259090 | [259090-land-of-borealia.json](./259090-land-of-borealia.json) |
 | Land of Chaos Online | 65442 | [65442-land-of-chaos-online.json](./65442-land-of-chaos-online.json) |
@@ -4769,6 +4770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life in the Crater Lake | 407827 | [407827-life-in-the-crater-lake.json](./407827-life-in-the-crater-lake.json) |
 | Life in the Dorms | 107031 | [107031-life-in-the-dorms.json](./107031-life-in-the-dorms.json) |
 | Life in the Fast Lane | 74057 | [74057-life-in-the-fast-lane.json](./74057-life-in-the-fast-lane.json) |
+| Life in the Janitor's Room with a JK Girl | 347391 | [347391-life-in-the-janitors-room-with-a-jk-girl.json](./347391-life-in-the-janitors-room-with-a-jk-girl.json) |
 | Life in the Machine | 189208 | [189208-life-in-the-machine.json](./189208-life-in-the-machine.json) |
 | Life in the Static | 128838 | [128838-life-in-the-static.json](./128838-life-in-the-static.json) |
 | Life in the Twilight | 239758 | [239758-life-in-the-twilight.json](./239758-life-in-the-twilight.json) |
@@ -8616,6 +8618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Grimoires Bundle | 83759 | [83759-lost-grimoires-bundle.json](./83759-lost-grimoires-bundle.json) |
 | Lost Grimoires Collection | 125138 | [125138-lost-grimoires-collection.json](./125138-lost-grimoires-collection.json) |
 | Lost Grimoires: Stolen Kingdom | 31120 | [31120-lost-grimoires-stolen-kingdom.json](./31120-lost-grimoires-stolen-kingdom.json) |
+| Lost Ground | 347397 | [347397-lost-ground.json](./347397-lost-ground.json) |
 | Lost Group | 291188 | [291188-lost-group.json](./291188-lost-group.json) |
 | Lost Hammer | 221754 | [221754-lost-hammer.json](./221754-lost-hammer.json) |
 | Lost Harem | 173823 | [173823-lost-harem.json](./173823-lost-harem.json) |
