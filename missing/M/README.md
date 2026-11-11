@@ -3323,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MangueBoy | 279241 | [279241-mangueboy.json](./279241-mangueboy.json) |
 | Mangui | 327101 | [327101-mangui.json](./327101-mangui.json) |
 | ManGuin: Penguin Apocalypse | 130704 | [130704-manguin-penguin-apocalypse.json](./130704-manguin-penguin-apocalypse.json) |
+| Mangút | 321714 | [321714-mangut.json](./321714-mangut.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
 | Manhattan | 67462 | [67462-manhattan.json](./67462-manhattan.json) |
 | Manhattan Chase | 74030 | [74030-manhattan-chase.json](./74030-manhattan-chase.json) |
@@ -4385,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party: Star Rush | 19599 | [19599-mario-party-star-rush.json](./19599-mario-party-star-rush.json) |
 | Mario Party: The Top 100 | 66812 | [66812-mario-party-the-top-100.json](./66812-mario-party-the-top-100.json) |
 | Mario Pinball Land | 6503 | [6503-mario-pinball-land.json](./6503-mario-pinball-land.json) |
+| Mario Pong | 321708 | [321708-mario-pong.json](./321708-mario-pong.json) |
 | Mario Power Tennis | 3985 | [3985-mario-power-tennis.json](./3985-mario-power-tennis.json) |
 | Mario Power Tennis | 84700 | [84700-mario-power-tennis.json](./84700-mario-power-tennis.json) |
 | Mario Power Tennis: Hammer Power | 328667 | [328667-mario-power-tennis-hammer-power.json](./328667-mario-power-tennis-hammer-power.json) |
@@ -8727,6 +8729,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megamagic: Wizards of the Neon Age | 25610 | [25610-megamagic-wizards-of-the-neon-age.json](./25610-megamagic-wizards-of-the-neon-age.json) |
 | MegaMan Adventure | 317174 | [317174-megaman-adventure.json](./317174-megaman-adventure.json) |
 | Megaman Exe Radio | 336460 | [336460-megaman-exe-radio.json](./336460-megaman-exe-radio.json) |
+| Megaman Legends 1.5 | 321720 | [321720-megaman-legends-1-5.json](./321720-megaman-legends-1-5.json) |
+| Megaman Makeshift | 321721 | [321721-megaman-makeshift.json](./321721-megaman-makeshift.json) |
 | MegaMan NT Warrior Advanced PET | 336716 | [336716-megaman-nt-warrior-advanced-pet.json](./336716-megaman-nt-warrior-advanced-pet.json) |
 | MegaMan NT Warrior Advanced PET | 352780 | [352780-megaman-nt-warrior-advanced-pet.json](./352780-megaman-nt-warrior-advanced-pet.json) |
 | MegaMan NT Warrior Advanced PET | 352781 | [352781-megaman-nt-warrior-advanced-pet.json](./352781-megaman-nt-warrior-advanced-pet.json) |
@@ -8898,6 +8902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan Super Charged | 320359 | [320359-megaman-super-charged.json](./320359-megaman-super-charged.json) |
 | Megaman Triple Threat | 326813 | [326813-megaman-triple-threat.json](./326813-megaman-triple-threat.json) |
 | Megaman vs. Metroid | 338129 | [338129-megaman-vs-metroid.json](./338129-megaman-vs-metroid.json) |
+| Megaman X and Zero: Training Missions | 321722 | [321722-megaman-x-and-zero-training-missions.json](./321722-megaman-x-and-zero-training-missions.json) |
 | Megaman X in Sonic Blasting Adventure | 265221 | [265221-megaman-x-in-sonic-blasting-adventure.json](./265221-megaman-x-in-sonic-blasting-adventure.json) |
 | Megaman X Omega Blaster - Ultimate Edition | 369208 | [369208-megaman-x-omega-blaster-ultimate-edition.json](./369208-megaman-x-omega-blaster-ultimate-edition.json) |
 | Megaman X Retribution | 323023 | [323023-megaman-x-retribution.json](./323023-megaman-x-retribution.json) |
@@ -14168,6 +14173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniparty | 320070 | [320070-miniparty.json](./320070-miniparty.json) |
 | MiniPix Jump | 255049 | [255049-minipix-jump.json](./255049-minipix-jump.json) |
 | Miniplanet | 242121 | [242121-miniplanet.json](./242121-miniplanet.json) |
+| Miniplanets | 321093 | [321093-miniplanets.json](./321093-miniplanets.json) |
 | MiniPoly.io | 223531 | [223531-minipoly-io.json](./223531-minipoly-io.json) |
 | Miniquest | 409258 | [409258-miniquest.json](./409258-miniquest.json) |
 | MiniRacer | 168076 | [168076-miniracer.json](./168076-miniracer.json) |
@@ -14793,6 +14799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missile Input | 190477 | [190477-missile-input.json](./190477-missile-input.json) |
 | Missile Invader | 245435 | [245435-missile-invader.json](./245435-missile-invader.json) |
 | Missile Mayhem | 360139 | [360139-missile-mayhem.json](./360139-missile-mayhem.json) |
+| Missile Strike Imminent | 321712 | [321712-missile-strike-imminent.json](./321712-missile-strike-imminent.json) |
 | Missile Strike: War Arcade | 56896 | [56896-missile-strike-war-arcade.json](./56896-missile-strike-war-arcade.json) |
 | Missile Survivor | 319240 | [319240-missile-survivor.json](./319240-missile-survivor.json) |
 | Missile Tank | 160256 | [160256-missile-tank.json](./160256-missile-tank.json) |
