@@ -2753,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBK: Snowboard Kids | 47725 | [47725-sbk-snowboard-kids.json](./47725-sbk-snowboard-kids.json) |
 | SBK16 Official Mobile Game | 175667 | [175667-sbk16-official-mobile-game.json](./175667-sbk16-official-mobile-game.json) |
 | Sblobber 64 | 145456 | [145456-sblobber-64.json](./145456-sblobber-64.json) |
+| Sburbmon | 351854 | [351854-sburbmon.json](./351854-sburbmon.json) |
 | SBX 5K | 132214 | [132214-sbx-5k.json](./132214-sbx-5k.json) |
 | SBX: Invasion | 35180 | [35180-sbx-invasion.json](./35180-sbx-invasion.json) |
 | SC Cat Games Bundle | 331511 | [331511-sc-cat-games-bundle.json](./331511-sc-cat-games-bundle.json) |
@@ -22370,6 +22371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Farmers | 134790 | [134790-speed-farmers.json](./134790-speed-farmers.json) |
 | Speed Freak | 46764 | [46764-speed-freak.json](./46764-speed-freak.json) |
 | Speed Freeks | 110186 | [110186-speed-freeks.json](./110186-speed-freeks.json) |
+| Speed Golf | 351337 | [351337-speed-golf.json](./351337-speed-golf.json) |
 | Speed Golf Royale | 246001 | [246001-speed-golf-royale.json](./246001-speed-golf-royale.json) |
 | Speed Guess: Something | 323188 | [323188-speed-guess-something.json](./323188-speed-guess-something.json) |
 | Speed Haste | 340881 | [340881-speed-haste.json](./340881-speed-haste.json) |
@@ -37531,6 +37533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swindler 1.11 | 177790 | [177790-swindler-1-11.json](./177790-swindler-1-11.json) |
 | Swine Flu H1N1 | 67802 | [67802-swine-flu-h1n1.json](./67802-swine-flu-h1n1.json) |
 | Swine's Revenge | 360011 | [360011-swines-revenge.json](./360011-swines-revenge.json) |
+| Swing | 351336 | [351336-swing.json](./351336-swing.json) |
 | Swing | 85912 | [85912-swing.json](./85912-swing.json) |
 | Swing & Miss | 159193 | [159193-swing-and-miss.json](./159193-swing-and-miss.json) |
 | Swing 2 Heli | 262356 | [262356-swing-2-heli.json](./262356-swing-2-heli.json) |
