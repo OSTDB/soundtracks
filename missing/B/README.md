@@ -5263,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Boy | 338827 | [338827-bear-boy.json](./338827-bear-boy.json) |
 | Bear Brigade: Ocean Attack! | 376510 | [376510-bear-brigade-ocean-attack.json](./376510-bear-brigade-ocean-attack.json) |
 | Bear Care | 177916 | [177916-bear-care.json](./177916-bear-care.json) |
+| Bear Defence Situation | 354125 | [354125-bear-defence-situation.json](./354125-bear-defence-situation.json) |
 | Bear Football | 93598 | [93598-bear-football.json](./93598-bear-football.json) |
 | Bear Go Home | 71676 | [71676-bear-go-home.json](./71676-bear-go-home.json) |
 | Bear Haven Nights | 33743 | [33743-bear-haven-nights.json](./33743-bear-haven-nights.json) |
@@ -11040,6 +11041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobufo | 219299 | [219299-blobufo.json](./219299-blobufo.json) |
 | Blobula | 72391 | [72391-blobula.json](./72391-blobula.json) |
 | Blobun | 316089 | [316089-blobun.json](./316089-blobun.json) |
+| Blobun Mini | 354130 | [354130-blobun-mini.json](./354130-blobun-mini.json) |
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
 | Bloc | 85001 | [85001-bloc.json](./85001-bloc.json) |
 | Bloc | 94860 | [94860-bloc.json](./94860-bloc.json) |
