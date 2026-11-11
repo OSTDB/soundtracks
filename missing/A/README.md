@@ -19126,6 +19126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avernum 2: Crystal Souls | 8802 | [8802-avernum-2-crystal-souls.json](./8802-avernum-2-crystal-souls.json) |
 | Avernum 3 | 57680 | [57680-avernum-3.json](./57680-avernum-3.json) |
 | Avernum 4 | 16337 | [16337-avernum-4.json](./16337-avernum-4.json) |
+| Avernum 4: Greed and Glory | 357534 | [357534-avernum-4-greed-and-glory.json](./357534-avernum-4-greed-and-glory.json) |
 | Avernum 5 | 16338 | [16338-avernum-5.json](./16338-avernum-5.json) |
 | Avernum 6 | 16339 | [16339-avernum-6.json](./16339-avernum-6.json) |
 | Avernum: The Complete Saga | 51709 | [51709-avernum-the-complete-saga.json](./51709-avernum-the-complete-saga.json) |
