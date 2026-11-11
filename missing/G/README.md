@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactik Football | 69108 | [69108-galactik-football.json](./69108-galactik-football.json) |
 | Galactineers | 33920 | [33920-galactineers.json](./33920-galactineers.json) |
 | Galactis | 106429 | [106429-galactis.json](./106429-galactis.json) |
+| Galactivore | 336810 | [336810-galactivore.json](./336810-galactivore.json) |
 | Galactix | 218080 | [218080-galactix.json](./218080-galactix.json) |
 | Galactix | 381042 | [381042-galactix.json](./381042-galactix.json) |
 | Galactix | 50234 | [50234-galactix.json](./50234-galactix.json) |
