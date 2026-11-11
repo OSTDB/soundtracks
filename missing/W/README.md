@@ -6979,6 +6979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Within a Rose | 72361 | [72361-within-a-rose.json](./72361-within-a-rose.json) |
 | Within His View | 379868 | [379868-within-his-view.json](./379868-within-his-view.json) |
 | Within Lattice | 376278 | [376278-within-lattice.json](./376278-within-lattice.json) |
+| Within of Static: Ashburg Rental | 382077 | [382077-within-of-static-ashburg-rental.json](./382077-within-of-static-ashburg-rental.json) |
 | Within of Static: Northgate Mall | 393564 | [393564-within-of-static-northgate-mall.json](./393564-within-of-static-northgate-mall.json) |
 | Within the Backrooms | 220634 | [220634-within-the-backrooms.json](./220634-within-the-backrooms.json) |
 | Within the Blade | 154594 | [154594-within-the-blade.json](./154594-within-the-blade.json) |
