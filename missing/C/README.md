@@ -8744,6 +8744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Fever! | 181648 | [181648-christmas-fever.json](./181648-christmas-fever.json) |
 | Christmas Fishing | 419830 | [419830-christmas-fishing.json](./419830-christmas-fishing.json) |
 | Christmas Fun | 226312 | [226312-christmas-fun.json](./226312-christmas-fun.json) |
+| Christmas Gift Catcher | 325789 | [325789-christmas-gift-catcher.json](./325789-christmas-gift-catcher.json) |
 | Christmas Girls | 279522 | [279522-christmas-girls.json](./279522-christmas-girls.json) |
 | Christmas Griddlers | 168903 | [168903-christmas-griddlers.json](./168903-christmas-griddlers.json) |
 | Christmas Griddlers: Journey to Santa | 88653 | [88653-christmas-griddlers-journey-to-santa.json](./88653-christmas-griddlers-journey-to-santa.json) |
@@ -13021,6 +13022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Summoners | 297096 | [297096-color-summoners.json](./297096-color-summoners.json) |
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
+| Color Swiper 2 | 325787 | [325787-color-swiper-2.json](./325787-color-swiper-2.json) |
 | Color Swiper 3 | 336228 | [336228-color-swiper-3.json](./336228-color-swiper-3.json) |
 | Color Switch | 348722 | [348722-color-switch.json](./348722-color-switch.json) |
 | Color Switch - Jump and Switch | 98890 | [98890-color-switch-jump-and-switch.json](./98890-color-switch-jump-and-switch.json) |
@@ -20863,6 +20865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cueist | 108701 | [108701-cueist.json](./108701-cueist.json) |
 | Cueist 2 | 213145 | [213145-cueist-2.json](./213145-cueist-2.json) |
 | Cuentos Inconclusos | 320138 | [320138-cuentos-inconclusos.json](./320138-cuentos-inconclusos.json) |
+| Cues | 325750 | [325750-cues.json](./325750-cues.json) |
 | Cues: Creator Update | 380562 | [380562-cues-creator-update.json](./380562-cues-creator-update.json) |
 | Cuffbust | 305005 | [305005-cuffbust.json](./305005-cuffbust.json) |
 | Cuffed | 341794 | [341794-cuffed.json](./341794-cuffed.json) |
