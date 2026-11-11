@@ -7294,23 +7294,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 5: Mercenaries - Succession Wars Edition | 403992 | [403992-mechwarrior-5-mercenaries-succession-wars-edition.json](./403992-mechwarrior-5-mercenaries-succession-wars-edition.json) |
 | MechWarrior 5: Mercenaries - The Dragon's Gambit | 260455 | [260455-mechwarrior-5-mercenaries-the-dragons-gambit.json](./260455-mechwarrior-5-mercenaries-the-dragons-gambit.json) |
 | MechWarrior Online | 1255 | [1255-mechwarrior-online.json](./1255-mechwarrior-online.json) |
+| MechWarrior Online: Aksum Legendary Mech Pack | 357500 | [357500-mechwarrior-online-aksum-legendary-mech-pack.json](./357500-mechwarrior-online-aksum-legendary-mech-pack.json) |
 | MechWarrior Online: Apache Legendary Mech Pack | 357326 | [357326-mechwarrior-online-apache-legendary-mech-pack.json](./357326-mechwarrior-online-apache-legendary-mech-pack.json) |
 | MechWarrior Online: Argent Legendary Mech Pack | 357327 | [357327-mechwarrior-online-argent-legendary-mech-pack.json](./357327-mechwarrior-online-argent-legendary-mech-pack.json) |
 | MechWarrior Online: Arges Legendary Mech Pack | 357339 | [357339-mechwarrior-online-arges-legendary-mech-pack.json](./357339-mechwarrior-online-arges-legendary-mech-pack.json) |
 | MechWarrior Online: Black Hawk-Ku Mech Pack | 305533 | [305533-mechwarrior-online-black-hawk-ku-mech-pack.json](./305533-mechwarrior-online-black-hawk-ku-mech-pack.json) |
 | MechWarrior Online: Blight Legendary Mech Pack | 357329 | [357329-mechwarrior-online-blight-legendary-mech-pack.json](./357329-mechwarrior-online-blight-legendary-mech-pack.json) |
 | MechWarrior Online: Desperada Legendary Mech Pack | 357338 | [357338-mechwarrior-online-desperada-legendary-mech-pack.json](./357338-mechwarrior-online-desperada-legendary-mech-pack.json) |
+| MechWarrior Online: Dreadnought Legendary Mech Pack | 357504 | [357504-mechwarrior-online-dreadnought-legendary-mech-pack.json](./357504-mechwarrior-online-dreadnought-legendary-mech-pack.json) |
 | MechWarrior Online: Gauntlet Mech Pack | 357320 | [357320-mechwarrior-online-gauntlet-mech-pack.json](./357320-mechwarrior-online-gauntlet-mech-pack.json) |
 | MechWarrior Online: Gausszilla Legendary Mech Pack | 357341 | [357341-mechwarrior-online-gausszilla-legendary-mech-pack.json](./357341-mechwarrior-online-gausszilla-legendary-mech-pack.json) |
 | MechWarrior Online: Gorewing Legendary Mech Pack | 357410 | [357410-mechwarrior-online-gorewing-legendary-mech-pack.json](./357410-mechwarrior-online-gorewing-legendary-mech-pack.json) |
 | MechWarrior Online: Grand Summoner Mech Pack | 356343 | [356343-mechwarrior-online-grand-summoner-mech-pack.json](./356343-mechwarrior-online-grand-summoner-mech-pack.json) |
 | MechWarrior Online: Hashké and Abaddon Legendary Mech Pack | 357330 | [357330-mechwarrior-online-hashke-and-abaddon-legendary-mech-pack.json](./357330-mechwarrior-online-hashke-and-abaddon-legendary-mech-pack.json) |
+| MechWarrior Online: Howl Legendary Mech Pack | 357505 | [357505-mechwarrior-online-howl-legendary-mech-pack.json](./357505-mechwarrior-online-howl-legendary-mech-pack.json) |
+| MechWarrior Online: Juggernaut Legendary Mech Pack | 357506 | [357506-mechwarrior-online-juggernaut-legendary-mech-pack.json](./357506-mechwarrior-online-juggernaut-legendary-mech-pack.json) |
 | MechWarrior Online: Moonwalker Legendary Mech Pack | 357331 | [357331-mechwarrior-online-moonwalker-legendary-mech-pack.json](./357331-mechwarrior-online-moonwalker-legendary-mech-pack.json) |
 | MechWarrior Online: Naomi Legendary Mech Pack | 357325 | [357325-mechwarrior-online-naomi-legendary-mech-pack.json](./357325-mechwarrior-online-naomi-legendary-mech-pack.json) |
 | MechWarrior Online: Noble Legendary Mech Pack | 357321 | [357321-mechwarrior-online-noble-legendary-mech-pack.json](./357321-mechwarrior-online-noble-legendary-mech-pack.json) |
+| MechWarrior Online: Onyx Legendary Mech Pack | 357501 | [357501-mechwarrior-online-onyx-legendary-mech-pack.json](./357501-mechwarrior-online-onyx-legendary-mech-pack.json) |
 | MechWarrior Online: Otomo Collection | 297141 | [297141-mechwarrior-online-otomo-collection.json](./297141-mechwarrior-online-otomo-collection.json) |
 | MechWarrior Online: Red Reaper II Legendary Mech Pack | 357328 | [357328-mechwarrior-online-red-reaper-ii-legendary-mech-pack.json](./357328-mechwarrior-online-red-reaper-ii-legendary-mech-pack.json) |
 | MechWarrior Online: Scaleshot Legendary Mech Pack | 262585 | [262585-mechwarrior-online-scaleshot-legendary-mech-pack.json](./262585-mechwarrior-online-scaleshot-legendary-mech-pack.json) |
+| MechWarrior Online: Scattershot Legendary Mech Pack | 357503 | [357503-mechwarrior-online-scattershot-legendary-mech-pack.json](./357503-mechwarrior-online-scattershot-legendary-mech-pack.json) |
 | MechWarrior Online: Seraph Legendary Mech Pack | 357409 | [357409-mechwarrior-online-seraph-legendary-mech-pack.json](./357409-mechwarrior-online-seraph-legendary-mech-pack.json) |
 | MechWarrior Online: Sigma Legendary Mech Pack | 357322 | [357322-mechwarrior-online-sigma-legendary-mech-pack.json](./357322-mechwarrior-online-sigma-legendary-mech-pack.json) |
 | MechWarrior Online: Sovereign Legendary Mech Pack | 357411 | [357411-mechwarrior-online-sovereign-legendary-mech-pack.json](./357411-mechwarrior-online-sovereign-legendary-mech-pack.json) |
@@ -7319,6 +7325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior Online: Starshot Legendary Mech Pack | 357323 | [357323-mechwarrior-online-starshot-legendary-mech-pack.json](./357323-mechwarrior-online-starshot-legendary-mech-pack.json) |
 | MechWarrior Online: Stone Crusher Legendary Mech Pack | 357340 | [357340-mechwarrior-online-stone-crusher-legendary-mech-pack.json](./357340-mechwarrior-online-stone-crusher-legendary-mech-pack.json) |
 | MechWarrior Online: War Emu Legendary Mech Pack | 262584 | [262584-mechwarrior-online-war-emu-legendary-mech-pack.json](./262584-mechwarrior-online-war-emu-legendary-mech-pack.json) |
+| MechWarrior Online: Warlord Legendary Mech Pack | 357502 | [357502-mechwarrior-online-warlord-legendary-mech-pack.json](./357502-mechwarrior-online-warlord-legendary-mech-pack.json) |
 | MechWarrior Online: Wolf Dragoons Mech Pack | 356342 | [356342-mechwarrior-online-wolf-dragoons-mech-pack.json](./356342-mechwarrior-online-wolf-dragoons-mech-pack.json) |
 | MechWarrior Tactics | 94184 | [94184-mechwarrior-tactics.json](./94184-mechwarrior-tactics.json) |
 | MechWarrior: Living Legends | 51237 | [51237-mechwarrior-living-legends.json](./51237-mechwarrior-living-legends.json) |
@@ -8519,6 +8526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megablast | 46860 | [46860-megablast.json](./46860-megablast.json) |
 | Megablasters - Escape From Castle in the Clouds | 39083 | [39083-megablasters-escape-from-castle-in-the-clouds.json](./39083-megablasters-escape-from-castle-in-the-clouds.json) |
 | MegaBlasters! | 212078 | [212078-megablasters.json](./212078-megablasters.json) |
+| Megabolts | 357531 | [357531-megabolts.json](./357531-megabolts.json) |
 | Megabonk | 327405 | [327405-megabonk.json](./327405-megabonk.json) |
 | Megabonk Smash | 376471 | [376471-megabonk-smash.json](./376471-megabonk-smash.json) |
 | MegaBoy | 282791 | [282791-megaboy.json](./282791-megaboy.json) |
@@ -13303,6 +13311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minelvaton Saga: Ragon no Fukkatsu | 48687 | [48687-minelvaton-saga-ragon-no-fukkatsu.json](./48687-minelvaton-saga-ragon-no-fukkatsu.json) |
 | Minemadness | 201155 | [201155-minemadness.json](./201155-minemadness.json) |
 | Minemaze | 196281 | [196281-minemaze.json](./196281-minemaze.json) |
+| MineMogul | 357512 | [357512-minemogul.json](./357512-minemogul.json) |
 | Minepull | 186554 | [186554-minepull.json](./186554-minepull.json) |
 | Miner | 345934 | [345934-miner.json](./345934-miner.json) |
 | Miner 2000er | 80078 | [80078-miner-2000er.json](./80078-miner-2000er.json) |
