@@ -6632,6 +6632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Game: Futanari - Episode 3 | 382153 | [382153-sex-game-futanari-episode-3.json](./382153-sex-game-futanari-episode-3.json) |
 | Sex Game: Gay Affair - Episode 1 | 384891 | [384891-sex-game-gay-affair-episode-1.json](./384891-sex-game-gay-affair-episode-1.json) |
 | Sex Game: Gay Affair - Episode 2 | 382383 | [382383-sex-game-gay-affair-episode-2.json](./382383-sex-game-gay-affair-episode-2.json) |
+| Sex Game: Gay Affair - Episode 3 | 374531 | [374531-sex-game-gay-affair-episode-3.json](./374531-sex-game-gay-affair-episode-3.json) |
 | Sex Game: Naughty Couple - Episode 1 | 371053 | [371053-sex-game-naughty-couple-episode-1.json](./371053-sex-game-naughty-couple-episode-1.json) |
 | Sex Game: Naughty Couple - Episode 2 | 371055 | [371055-sex-game-naughty-couple-episode-2.json](./371055-sex-game-naughty-couple-episode-2.json) |
 | Sex Game: Naughty Couple - Episode 3 | 370953 | [370953-sex-game-naughty-couple-episode-3.json](./370953-sex-game-naughty-couple-episode-3.json) |
@@ -8705,6 +8706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shijou Saikyou No Deshi Kenichi: Gekitou! Ragnarok Hachikengou | 64664 | [64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json](./64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json) |
 | Shijou Saikyou no Quiz-ou Ketteisen Super | 38248 | [38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json](./38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json) |
 | Shiju Hachi: Kari | 112532 | [112532-shiju-hachi-kari.json](./112532-shiju-hachi-kari.json) |
+| Shika-Q | 374504 | [374504-shika-q.json](./374504-shika-q.json) |
 | Shikaku i Atama o Maru Kusuru | 100291 | [100291-shikaku-i-atama-o-maru-kusuru.json](./100291-shikaku-i-atama-o-maru-kusuru.json) |
 | Shikaku Shapes | 147662 | [147662-shikaku-shapes.json](./147662-shikaku-shapes.json) |
 | Shikakui Atama wo Maru Kusuru Advance: Kanji Keisan-hen | 49781 | [49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json](./49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json) |
@@ -9385,6 +9387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shironeko Project Infinity | 105054 | [105054-shironeko-project-infinity.json](./105054-shironeko-project-infinity.json) |
 | Shirotsume Souwa Bangai-hen: Tsunakawa-sanchi no Christmas | 376706 | [376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json](./376706-shirotsume-souwa-bangai-hen-tsunakawa-sanchi-no-christmas.json) |
 | Shirotsume Souwa: Episode of the Clovers | 354005 | [354005-shirotsume-souwa-episode-of-the-clovers.json](./354005-shirotsume-souwa-episode-of-the-clovers.json) |
+| Shirou Day Online | 374533 | [374533-shirou-day-online.json](./374533-shirou-day-online.json) |
 | Shirushi | 202364 | [202364-shirushi.json](./202364-shirushi.json) |
 | Shiryou Sensen: War of the Dead | 41736 | [41736-shiryou-sensen-war-of-the-dead.json](./41736-shiryou-sensen-war-of-the-dead.json) |
 | Shiryou Sensen: War of the Dead | 42041 | [42041-shiryou-sensen-war-of-the-dead.json](./42041-shiryou-sensen-war-of-the-dead.json) |
@@ -13061,6 +13064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinny Girls | 259023 | [259023-skinny-girls.json](./259023-skinny-girls.json) |
 | Skins Game | 91433 | [91433-skins-game.json](./91433-skins-game.json) |
 | Skinscape | 102358 | [102358-skinscape.json](./102358-skinscape.json) |
+| Skinwalker | 374525 | [374525-skinwalker.json](./374525-skinwalker.json) |
 | Skinwalker | 60934 | [60934-skinwalker.json](./60934-skinwalker.json) |
 | Skinwalker Hunt | 130126 | [130126-skinwalker-hunt.json](./130126-skinwalker-hunt.json) |
 | Skinwalker: First Blood | 375091 | [375091-skinwalker-first-blood.json](./375091-skinwalker-first-blood.json) |
@@ -13182,6 +13186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Man Kills 2: Mega Man 2 II - Blood Vengeance | 282966 | [282966-skull-man-kills-2-mega-man-2-ii-blood-vengeance.json](./282966-skull-man-kills-2-mega-man-2-ii-blood-vengeance.json) |
 | Skull Maze: Tiny Roguelike | 200709 | [200709-skull-maze-tiny-roguelike.json](./200709-skull-maze-tiny-roguelike.json) |
 | Skull Pirates: Adventures | 309632 | [309632-skull-pirates-adventures.json](./309632-skull-pirates-adventures.json) |
+| Skull Port | 373993 | [373993-skull-port.json](./373993-skull-port.json) |
 | Skull Rush | 29587 | [29587-skull-rush.json](./29587-skull-rush.json) |
 | Skull Skull Skull | 333215 | [333215-skull-skull-skull.json](./333215-skull-skull-skull.json) |
 | Skull Survivor | 224603 | [224603-skull-survivor.json](./224603-skull-survivor.json) |
@@ -20747,6 +20752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Goose | 92309 | [92309-space-goose.json](./92309-space-goose.json) |
 | Space Gourmet: Delivery | 238504 | [238504-space-gourmet-delivery.json](./238504-space-gourmet-delivery.json) |
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
+| Space Graze | 374524 | [374524-space-graze.json](./374524-space-graze.json) |
 | Space Grid Tournament | 146991 | [146991-space-grid-tournament.json](./146991-space-grid-tournament.json) |
 | Space Griffon | 20661 | [20661-space-griffon.json](./20661-space-griffon.json) |
 | Space Griffon VF-9 | 45833 | [45833-space-griffon-vf-9.json](./45833-space-griffon-vf-9.json) |
@@ -21963,6 +21969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan Commander Realtime | 284519 | [284519-spartan-commander-realtime.json](./284519-spartan-commander-realtime.json) |
 | Spartan Firefight | 141446 | [141446-spartan-firefight.json](./141446-spartan-firefight.json) |
 | Spartan Fist | 28876 | [28876-spartan-fist.json](./28876-spartan-fist.json) |
+| Spartan Frontline | 374529 | [374529-spartan-frontline.json](./374529-spartan-frontline.json) |
 | Spartan Runner | 96223 | [96223-spartan-runner.json](./96223-spartan-runner.json) |
 | Spartan Survivors | 335403 | [335403-spartan-survivors.json](./335403-spartan-survivors.json) |
 | Spartan VR | 43067 | [43067-spartan-vr.json](./43067-spartan-vr.json) |
@@ -30330,6 +30337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String Theory 2 | 101740 | [101740-string-theory-2.json](./101740-string-theory-2.json) |
 | String Tyrant | 135701 | [135701-string-tyrant.json](./135701-string-tyrant.json) |
 | String.io | 108445 | [108445-string-io.json](./108445-string-io.json) |
+| Stringate | 374510 | [374510-stringate.json](./374510-stringate.json) |
 | Strings | 128297 | [128297-strings.json](./128297-strings.json) |
 | Strings of Divinity: The Spell Plague | 163584 | [163584-strings-of-divinity-the-spell-plague.json](./163584-strings-of-divinity-the-spell-plague.json) |
 | Strings of Fate XI: Magic Dream | 327008 | [327008-strings-of-fate-xi-magic-dream.json](./327008-strings-of-fate-xi-magic-dream.json) |
@@ -30751,6 +30759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Wars | 200395 | [200395-sub-wars.json](./200395-sub-wars.json) |
 | Sub-Optimal | 180944 | [180944-sub-optimal.json](./180944-sub-optimal.json) |
 | Sub-Species | 381645 | [381645-sub-species.json](./381645-sub-species.json) |
+| Sub-Structure 17: White Knuckle Ascent | 373977 | [373977-sub-structure-17-white-knuckle-ascent.json](./373977-sub-structure-17-white-knuckle-ascent.json) |
 | Sub-Uber-Marine | 194380 | [194380-sub-uber-marine.json](./194380-sub-uber-marine.json) |
 | Sub-Verge | 334623 | [334623-sub-verge.json](./334623-sub-verge.json) |
 | Sub0ptimal | 339653 | [339653-sub0ptimal.json](./339653-sub0ptimal.json) |
@@ -31426,6 +31435,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugardew Island: Christmas Bundle | 385187 | [385187-sugardew-island-christmas-bundle.json](./385187-sugardew-island-christmas-bundle.json) |
 | Sugardew Island: Christmas Costume | 385178 | [385178-sugardew-island-christmas-costume.json](./385178-sugardew-island-christmas-costume.json) |
 | Sugardew Island: Complete Bundle | 401587 | [401587-sugardew-island-complete-bundle.json](./401587-sugardew-island-complete-bundle.json) |
+| Sugardew Island: Halloween Bundle | 373981 | [373981-sugardew-island-halloween-bundle.json](./373981-sugardew-island-halloween-bundle.json) |
+| Sugardew Island: Halloween Costume | 373992 | [373992-sugardew-island-halloween-costume.json](./373992-sugardew-island-halloween-costume.json) |
 | Sugardew Island: Vintage Farmer Bundle | 390923 | [390923-sugardew-island-vintage-farmer-bundle.json](./390923-sugardew-island-vintage-farmer-bundle.json) |
 | Sugardew Island: Vintage Farmer Outfit | 390922 | [390922-sugardew-island-vintage-farmer-outfit.json](./390922-sugardew-island-vintage-farmer-outfit.json) |
 | Sugardew Island: Your Cozy Farm Shop | 289259 | [289259-sugardew-island-your-cozy-farm-shop.json](./289259-sugardew-island-your-cozy-farm-shop.json) |
