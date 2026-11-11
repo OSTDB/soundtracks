@@ -5113,6 +5113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relic Adventure | 188508 | [188508-relic-adventure.json](./188508-relic-adventure.json) |
 | Relic Alone | 34045 | [34045-relic-alone.json](./34045-relic-alone.json) |
 | Relic Arena | 278976 | [278976-relic-arena.json](./278976-relic-arena.json) |
+| Relic Digger | 382078 | [382078-relic-digger.json](./382078-relic-digger.json) |
 | Relic Guardian | 258339 | [258339-relic-guardian.json](./258339-relic-guardian.json) |
 | Relic Guardians: Complete | 168050 | [168050-relic-guardians-complete.json](./168050-relic-guardians-complete.json) |
 | Relic Heroes | 219812 | [219812-relic-heroes.json](./219812-relic-heroes.json) |
