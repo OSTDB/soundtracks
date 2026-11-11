@@ -3558,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scotty Goes to Centrelink | 202350 | [202350-scotty-goes-to-centrelink.json](./202350-scotty-goes-to-centrelink.json) |
 | Scoundrel | 101605 | [101605-scoundrel.json](./101605-scoundrel.json) |
 | Scoundrel | 398516 | [398516-scoundrel.json](./398516-scoundrel.json) |
+| Scoundrel Solitaire | 359124 | [359124-scoundrel-solitaire.json](./359124-scoundrel-solitaire.json) |
 | Scoundrel's Dungeon | 399600 | [399600-scoundrels-dungeon.json](./399600-scoundrels-dungeon.json) |
 | Scourge | 408288 | [408288-scourge.json](./408288-scourge.json) |
 | Scourge of Scavengers | 348274 | [348274-scourge-of-scavengers.json](./348274-scourge-of-scavengers.json) |
@@ -3632,6 +3633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Bloodwater | 272936 | [272936-scp-bloodwater.json](./272936-scp-bloodwater.json) |
 | Scp: Breakout | 173187 | [173187-scp-breakout.json](./173187-scp-breakout.json) |
 | SCP: Breakout Story | 137837 | [137837-scp-breakout-story.json](./137837-scp-breakout-story.json) |
+| SCP: Cardtainment Breach | 359126 | [359126-scp-cardtainment-breach.json](./359126-scp-cardtainment-breach.json) |
 | SCP: CB Multiplayer Reborn | 350939 | [350939-scp-cb-multiplayer-reborn.json](./350939-scp-cb-multiplayer-reborn.json) |
 | SCP: Centura Tycoon | 268241 | [268241-scp-centura-tycoon.json](./268241-scp-centura-tycoon.json) |
 | SCP: Chamberz | 270580 | [270580-scp-chamberz.json](./270580-scp-chamberz.json) |
@@ -4392,6 +4394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Town: Fish Market Simulator | 326370 | [326370-sea-town-fish-market-simulator.json](./326370-sea-town-fish-market-simulator.json) |
 | Sea Trader: Rise of Taipan | 49386 | [49386-sea-trader-rise-of-taipan.json](./49386-sea-trader-rise-of-taipan.json) |
 | Sea under the sea under the sea | 280380 | [280380-sea-under-the-sea-under-the-sea.json](./280380-sea-under-the-sea-under-the-sea.json) |
+| Sea Urchin Symphony | 359089 | [359089-sea-urchin-symphony.json](./359089-sea-urchin-symphony.json) |
 | Sea Walker Saga | 340281 | [340281-sea-walker-saga.json](./340281-sea-walker-saga.json) |
 | Sea War | 168633 | [168633-sea-war.json](./168633-sea-war.json) |
 | Sea War | 277662 | [277662-sea-war.json](./277662-sea-war.json) |
@@ -8310,6 +8313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Up! | 120247 | [120247-sheep-up.json](./120247-sheep-up.json) |
 | Sheep vs Tiger | 369250 | [369250-sheep-vs-tiger.json](./369250-sheep-vs-tiger.json) |
 | Sheep with Mates | 135997 | [135997-sheep-with-mates.json](./135997-sheep-with-mates.json) |
+| Sheep-Dog Day | 359090 | [359090-sheep-dog-day.json](./359090-sheep-dog-day.json) |
 | Sheep.io | 119878 | [119878-sheep-io.json](./119878-sheep-io.json) |
 | Sheep's Quest | 173403 | [173403-sheeps-quest.json](./173403-sheeps-quest.json) |
 | Sheep's Symphony | 294455 | [294455-sheeps-symphony.json](./294455-sheeps-symphony.json) |
@@ -23423,6 +23427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spire of Glory | 227947 | [227947-spire-of-glory.json](./227947-spire-of-glory.json) |
 | Spire of Glory | 227985 | [227985-spire-of-glory.json](./227985-spire-of-glory.json) |
 | Spire of Lust & Fetish | 257953 | [257953-spire-of-lust-and-fetish.json](./257953-spire-of-lust-and-fetish.json) |
+| Spire, Surge, and Sea | 359111 | [359111-spire-surge-and-sea.json](./359111-spire-surge-and-sea.json) |
 | Spirefall | 412044 | [412044-spirefall.json](./412044-spirefall.json) |
 | Spires of Morosith: Gossamer Sundered | 345458 | [345458-spires-of-morosith-gossamer-sundered.json](./345458-spires-of-morosith-gossamer-sundered.json) |
 | Spires, The Wailing City | 324233 | [324233-spires-the-wailing-city.json](./324233-spires-the-wailing-city.json) |
@@ -31652,6 +31657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suissinho: A Mais Louca Corrida | 350728 | [350728-suissinho-a-mais-louca-corrida.json](./350728-suissinho-a-mais-louca-corrida.json) |
 | SuiSui Sweet | 254547 | [254547-suisui-sweet.json](./254547-suisui-sweet.json) |
 | Suit for Hire | 153895 | [153895-suit-for-hire.json](./153895-suit-for-hire.json) |
+| Suit Up | 359100 | [359100-suit-up.json](./359100-suit-up.json) |
 | Suitcase of Gor | 262437 | [262437-suitcase-of-gor.json](./262437-suitcase-of-gor.json) |
 | Suitcase Stories | 391198 | [391198-suitcase-stories.json](./391198-suitcase-stories.json) |
 | Suitchi | 110087 | [110087-suitchi.json](./110087-suitchi.json) |
