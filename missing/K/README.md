@@ -395,6 +395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakatte Koi Yo! | 127671 | [127671-kakatte-koi-yo.json](./127671-kakatte-koi-yo.json) |
 | Kakefu-kun no Jump Tengoku Speed Jigoku | 215129 | [215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json](./215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json) |
 | Kakegae no Nai Kimi he | 396471 | [396471-kakegae-no-nai-kimi-he.json](./396471-kakegae-no-nai-kimi-he.json) |
+| Kakegurui All In | 395906 | [395906-kakegurui-all-in.json](./395906-kakegurui-all-in.json) |
 | Kakegurui Cheating Allowed | 220311 | [220311-kakegurui-cheating-allowed.json](./220311-kakegurui-cheating-allowed.json) |
 | Kakegurui: Cheating Allowed | 123672 | [123672-kakegurui-cheating-allowed.json](./123672-kakegurui-cheating-allowed.json) |
 | Kakele Online: MMORPG | 151267 | [151267-kakele-online-mmorpg.json](./151267-kakele-online-mmorpg.json) |
@@ -1025,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KardVenture | 252720 | [252720-kardventure.json](./252720-kardventure.json) |
 | Kare Kano Trial: Toki wo Kakeru Toki-meki Daisakusen | 339124 | [339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json](./339124-kare-kano-trial-toki-wo-kakeru-toki-meki-daisakusen.json) |
 | Kare wa Kanojo | 116215 | [116215-kare-wa-kanojo.json](./116215-kare-wa-kanojo.json) |
+| Karen | 395926 | [395926-karen.json](./395926-karen.json) |
 | Karen and the Body pillow | 185360 | [185360-karen-and-the-body-pillow.json](./185360-karen-and-the-body-pillow.json) |
 | Karen Ready！ | 326095 | [326095-karen-ready.json](./326095-karen-ready.json) |
 | Karen Sees | 186681 | [186681-karen-sees.json](./186681-karen-sees.json) |
@@ -2087,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keyboard Sports: Saving Qwerty | 55592 | [55592-keyboard-sports-saving-qwerty.json](./55592-keyboard-sports-saving-qwerty.json) |
 | Keyboard Warrior | 343590 | [343590-keyboard-warrior.json](./343590-keyboard-warrior.json) |
 | Keyboard Warrior | 343591 | [343591-keyboard-warrior.json](./343591-keyboard-warrior.json) |
+| Keyboard Warrior | 395607 | [395607-keyboard-warrior.json](./395607-keyboard-warrior.json) |
 | Keyboard Warrior | 81024 | [81024-keyboard-warrior.json](./81024-keyboard-warrior.json) |
 | Keyboard Warrior RPG | 327083 | [327083-keyboard-warrior-rpg.json](./327083-keyboard-warrior-rpg.json) |
 | Keyboard Warrior Simulator | 351711 | [351711-keyboard-warrior-simulator.json](./351711-keyboard-warrior-simulator.json) |
