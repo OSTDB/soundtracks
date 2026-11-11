@@ -3268,6 +3268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency Crew 2: Global Warming | 235894 | [235894-emergency-crew-2-global-warming.json](./235894-emergency-crew-2-global-warming.json) |
 | Emergency Crew 3: Perfect Getaway - Collector's Edition | 256732 | [256732-emergency-crew-3-perfect-getaway-collectors-edition.json](./256732-emergency-crew-3-perfect-getaway-collectors-edition.json) |
 | Emergency Crew 4: Call of the Ancestors | 360663 | [360663-emergency-crew-4-call-of-the-ancestors.json](./360663-emergency-crew-4-call-of-the-ancestors.json) |
+| Emergency Crew 5: Blazing Vacation | 364736 | [364736-emergency-crew-5-blazing-vacation.json](./364736-emergency-crew-5-blazing-vacation.json) |
 | Emergency Crew: Volcano Eruption | 165751 | [165751-emergency-crew-volcano-eruption.json](./165751-emergency-crew-volcano-eruption.json) |
 | Emergency Driver Sim: City Hero | 90540 | [90540-emergency-driver-sim-city-hero.json](./90540-emergency-driver-sim-city-hero.json) |
 | Emergency Driver Simulator | 178793 | [178793-emergency-driver-simulator.json](./178793-emergency-driver-simulator.json) |
@@ -4957,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epilogue | 356027 | [356027-epilogue.json](./356027-epilogue.json) |
 | Epilogue | 64810 | [64810-epilogue.json](./64810-epilogue.json) |
 | Epimutation | 338835 | [338835-epimutation.json](./338835-epimutation.json) |
+| Epimythos: The Forgotten Legends | 364741 | [364741-epimythos-the-forgotten-legends.json](./364741-epimythos-the-forgotten-legends.json) |
 | Epinephrine Drive! | 422191 | [422191-epinephrine-drive.json](./422191-epinephrine-drive.json) |
 | Epiphany | 181201 | [181201-epiphany.json](./181201-epiphany.json) |
 | Epiphany in Spaaace! | 66356 | [66356-epiphany-in-spaaace.json](./66356-epiphany-in-spaaace.json) |
@@ -5827,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape of Pig | 230931 | [230931-escape-of-pig.json](./230931-escape-of-pig.json) |
 | Escape of Pinball | 339769 | [339769-escape-of-pinball.json](./339769-escape-of-pinball.json) |
 | Escape of The Hammer Princess | 312767 | [312767-escape-of-the-hammer-princess.json](./312767-escape-of-the-hammer-princess.json) |
+| Escape of the School | 364738 | [364738-escape-of-the-school.json](./364738-escape-of-the-school.json) |
 | Escape or Imprison | 227253 | [227253-escape-or-imprison.json](./227253-escape-or-imprison.json) |
 | Escape Panda | 302992 | [302992-escape-panda.json](./302992-escape-panda.json) |
 | Escape parking lot | 109406 | [109406-escape-parking-lot.json](./109406-escape-parking-lot.json) |
