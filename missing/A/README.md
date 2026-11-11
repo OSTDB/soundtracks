@@ -2348,6 +2348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss and Dark: The King's Secret Pledge | 103146 | [103146-abyss-and-dark-the-kings-secret-pledge.json](./103146-abyss-and-dark-the-kings-secret-pledge.json) |
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
 | Abyss Attack | 107331 | [107331-abyss-attack.json](./107331-abyss-attack.json) |
+| Abyss Bistro | 389254 | [389254-abyss-bistro.json](./389254-abyss-bistro.json) |
 | Abyss Boat | 276095 | [276095-abyss-boat.json](./276095-abyss-boat.json) |
 | Abyss Born | 373494 | [373494-abyss-born.json](./373494-abyss-born.json) |
 | Abyss Cards | 398037 | [398037-abyss-cards.json](./398037-abyss-cards.json) |
@@ -9927,6 +9928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Spirits: Columbus' Legacy | 104503 | [104503-ancient-spirits-columbus-legacy.json](./104503-ancient-spirits-columbus-legacy.json) |
 | Ancient Stars | 277014 | [277014-ancient-stars.json](./277014-ancient-stars.json) |
 | Ancient Stories: Gods of Egypt | 119684 | [119684-ancient-stories-gods-of-egypt.json](./119684-ancient-stories-gods-of-egypt.json) |
+| Ancient Style Girl Dynamic Jigsaw Puzzle | 389784 | [389784-ancient-style-girl-dynamic-jigsaw-puzzle.json](./389784-ancient-style-girl-dynamic-jigsaw-puzzle.json) |
 | Ancient Surfer 2 | 248275 | [248275-ancient-surfer-2.json](./248275-ancient-surfer-2.json) |
 | Ancient Swarm | 410345 | [410345-ancient-swarm.json](./410345-ancient-swarm.json) |
 | Ancient Sword Qimen Yanjia | 193824 | [193824-ancient-sword-qimen-yanjia.json](./193824-ancient-sword-qimen-yanjia.json) |
@@ -16046,6 +16048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashley's Adventure: Get a Job or Die Trying | 378209 | [378209-ashleys-adventure-get-a-job-or-die-trying.json](./378209-ashleys-adventure-get-a-job-or-die-trying.json) |
 | Ashmedai: Queen of Lust | 160019 | [160019-ashmedai-queen-of-lust.json](./160019-ashmedai-queen-of-lust.json) |
 | Ashore | 184024 | [184024-ashore.json](./184024-ashore.json) |
+| Ashore & Away | 389253 | [389253-ashore-and-away.json](./389253-ashore-and-away.json) |
 | Ashram Online | 419128 | [419128-ashram-online.json](./419128-ashram-online.json) |
 | Ashrun Survivors | 410416 | [410416-ashrun-survivors.json](./410416-ashrun-survivors.json) |
 | Ashton's Family Resort | 52420 | [52420-ashtons-family-resort.json](./52420-ashtons-family-resort.json) |
