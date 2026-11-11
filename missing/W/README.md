@@ -2052,6 +2052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarpZone vs. The Dimension | 122148 | [122148-warpzone-vs-the-dimension.json](./122148-warpzone-vs-the-dimension.json) |
 | Warraff Online | 417397 | [417397-warraff-online.json](./417397-warraff-online.json) |
 | Warranty Man | 338397 | [338397-warranty-man.json](./338397-warranty-man.json) |
+| Warranty Not Included | 328107 | [328107-warranty-not-included.json](./328107-warranty-not-included.json) |
 | Warrecs | 105626 | [105626-warrecs.json](./105626-warrecs.json) |
 | Warrecs 2 | 159817 | [159817-warrecs-2.json](./159817-warrecs-2.json) |
 | Warren the Warlock | 161481 | [161481-warren-the-warlock.json](./161481-warren-the-warlock.json) |
@@ -2972,6 +2973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WDF | 332942 | [332942-wdf.json](./332942-wdf.json) |
 | WDYK? 3: Urban Lingo | 234689 | [234689-wdyk-3-urban-lingo.json](./234689-wdyk-3-urban-lingo.json) |
 | We All End Up Alone | 180932 | [180932-we-all-end-up-alone.json](./180932-we-all-end-up-alone.json) |
+| We Are Alive | 327516 | [327516-we-are-alive.json](./327516-we-are-alive.json) |
 | We Are All but Bones and Dust | 165049 | [165049-we-are-all-but-bones-and-dust.json](./165049-we-are-all-but-bones-and-dust.json) |
 | We Are All Individuals | 53921 | [53921-we-are-all-individuals.json](./53921-we-are-all-individuals.json) |
 | We are Blob | 338388 | [338388-we-are-blob.json](./338388-we-are-blob.json) |
@@ -3612,6 +3614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to the Mansion Remastered | 181540 | [181540-welcome-to-the-mansion-remastered.json](./181540-welcome-to-the-mansion-remastered.json) |
 | Welcome to the Polyverse | 150518 | [150518-welcome-to-the-polyverse.json](./150518-welcome-to-the-polyverse.json) |
 | Welcome to the Ungdung Cafe | 337046 | [337046-welcome-to-the-ungdung-cafe.json](./337046-welcome-to-the-ungdung-cafe.json) |
+| Welcome to the Universe | 327523 | [327523-welcome-to-the-universe.json](./327523-welcome-to-the-universe.json) |
 | Welcome to the World of Zippy the Circle: Visual Novel | 228764 | [228764-welcome-to-the-world-of-zippy-the-circle-visual-novel.json](./228764-welcome-to-the-world-of-zippy-the-circle-visual-novel.json) |
 | Welcome to the World of ZJ the Ball | 215121 | [215121-welcome-to-the-world-of-zj-the-ball.json](./215121-welcome-to-the-world-of-zj-the-ball.json) |
 | Welcome to the Yokai Inn | 298924 | [298924-welcome-to-the-yokai-inn.json](./298924-welcome-to-the-yokai-inn.json) |
@@ -9842,6 +9845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wujin Zhi Jian Mingyuin | 83840 | [83840-wujin-zhi-jian-mingyuin.json](./83840-wujin-zhi-jian-mingyuin.json) |
 | Wukong 2088 | 373892 | [373892-wukong-2088.json](./373892-wukong-2088.json) |
 | Wukong Black Legend | 372158 | [372158-wukong-black-legend.json](./372158-wukong-black-legend.json) |
+| Wukong Fight in Kaoria | 327506 | [327506-wukong-fight-in-kaoria.json](./327506-wukong-fight-in-kaoria.json) |
 | Wukong Monkey King's Journey West | 337931 | [337931-wukong-monkey-kings-journey-west.json](./337931-wukong-monkey-kings-journey-west.json) |
 | Wukong Odyssey | 246754 | [246754-wukong-odyssey.json](./246754-wukong-odyssey.json) |
 | Wukong Sun: Black Legend | 328464 | [328464-wukong-sun-black-legend.json](./328464-wukong-sun-black-legend.json) |
