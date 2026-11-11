@@ -2037,6 +2037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Penguin Monogatari | 48596 | [48596-yume-penguin-monogatari.json](./48596-yume-penguin-monogatari.json) |
 | Yume Petto | 226677 | [226677-yume-petto.json](./226677-yume-petto.json) |
 | Yume Puzzle | 367953 | [367953-yume-puzzle.json](./367953-yume-puzzle.json) |
+| Yume Roof | 379794 | [379794-yume-roof.json](./379794-yume-roof.json) |
 | Yume Shikki | 201848 | [201848-yume-shikki.json](./201848-yume-shikki.json) |
 | Yume Shoko | 202351 | [202351-yume-shoko.json](./202351-yume-shoko.json) |
 | Yume Slide | 243654 | [243654-yume-slide.json](./243654-yume-slide.json) |
