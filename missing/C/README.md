@@ -9066,6 +9066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Clash: Fantasy Tactics | 114911 | [114911-chrono-clash-fantasy-tactics.json](./114911-chrono-clash-fantasy-tactics.json) |
 | Chrono Club: Race Against Time | 309726 | [309726-chrono-club-race-against-time.json](./309726-chrono-club-race-against-time.json) |
 | Chrono Clues | 411086 | [411086-chrono-clues.json](./411086-chrono-clues.json) |
+| Chrono Commander | 354127 | [354127-chrono-commander.json](./354127-chrono-commander.json) |
 | Chrono Commando 2053 | 272340 | [272340-chrono-commando-2053.json](./272340-chrono-commando-2053.json) |
 | Chrono Crimes | 316491 | [316491-chrono-crimes.json](./316491-chrono-crimes.json) |
 | Chrono Cross | 1804 | [1804-chrono-cross.json](./1804-chrono-cross.json) |
@@ -17038,6 +17039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CR Ring: Unmei no Hi | 60807 | [60807-cr-ring-unmei-no-hi.json](./60807-cr-ring-unmei-no-hi.json) |
 | CR Shinseiki Evangelion: Shito, Futatabi | 78729 | [78729-cr-shinseiki-evangelion-shito-futatabi.json](./78729-cr-shinseiki-evangelion-shito-futatabi.json) |
 | Cr1me Fr0g | 218147 | [218147-cr1me-fr0g.json](./218147-cr1me-fr0g.json) |
+| Cr33p | 354139 | [354139-cr33p.json](./354139-cr33p.json) |
 | Cr4ckr | 339332 | [339332-cr4ckr.json](./339332-cr4ckr.json) |
 | cr4nkup | 327782 | [327782-cr4nkup.json](./327782-cr4nkup.json) |
 | Cra Cra | 328297 | [328297-cra-cra.json](./328297-cra-cra.json) |
