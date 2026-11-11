@@ -1712,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lastfight | 19250 | [19250-lastfight.json](./19250-lastfight.json) |
 | Lasting Moonlight | 245866 | [245866-lasting-moonlight.json](./245866-lasting-moonlight.json) |
 | Lasting Solstice | 130918 | [130918-lasting-solstice.json](./130918-lasting-solstice.json) |
+| Lastlore Saga | 387269 | [387269-lastlore-saga.json](./387269-lastlore-saga.json) |
 | LastRo | 273767 | [273767-lastro.json](./273767-lastro.json) |
 | Lastronaut | 344933 | [344933-lastronaut.json](./344933-lastronaut.json) |
 | LastSafeZone | 265131 | [265131-lastsafezone.json](./265131-lastsafezone.json) |
@@ -3937,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go Camping | 220143 | [220143-lets-go-camping.json](./220143-lets-go-camping.json) |
 | Let's Go Crazy with Lemmings | 70786 | [70786-lets-go-crazy-with-lemmings.json](./70786-lets-go-crazy-with-lemmings.json) |
 | Let's Go Fishing!! | 400416 | [400416-lets-go-fishing.json](./400416-lets-go-fishing.json) |
+| Let's go Flyfishing | 387120 | [387120-lets-go-flyfishing.json](./387120-lets-go-flyfishing.json) |
 | Let's Go Home! | 296451 | [296451-lets-go-home.json](./296451-lets-go-home.json) |
 | Let's Go Jungle!: Lost on the Island of Spice | 69304 | [69304-lets-go-jungle-lost-on-the-island-of-spice.json](./69304-lets-go-jungle-lost-on-the-island-of-spice.json) |
 | Let’s Go Mightycat! | 355854 | [355854-let-s-go-mightycat.json](./355854-let-s-go-mightycat.json) |
