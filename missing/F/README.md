@@ -4231,6 +4231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fern Light | 301247 | [301247-fern-light.json](./301247-fern-light.json) |
 | Fern Wardrobe | 381226 | [381226-fern-wardrobe.json](./381226-fern-wardrobe.json) |
 | Fernageddon | 258196 | [258196-fernageddon.json](./258196-fernageddon.json) |
+| Fernandez Big Mystery | 341729 | [341729-fernandez-big-mystery.json](./341729-fernandez-big-mystery.json) |
 | Fernandez Must Die | 12092 | [12092-fernandez-must-die.json](./12092-fernandez-must-die.json) |
 | Fernando Fernández: Un Rescate Accidentado | 322535 | [322535-fernando-fernandez-un-rescate-accidentado.json](./322535-fernando-fernandez-un-rescate-accidentado.json) |
 | Fernando Martin Basket Master | 51439 | [51439-fernando-martin-basket-master.json](./51439-fernando-martin-basket-master.json) |
@@ -11763,6 +11764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy J.A.B.S: Just Another Bubble Shooter | 306280 | [306280-foxy-j-a-b-s-just-another-bubble-shooter.json](./306280-foxy-j-a-b-s-just-another-bubble-shooter.json) |
 | Foxy Jumper 2 | 255647 | [255647-foxy-jumper-2.json](./255647-foxy-jumper-2.json) |
 | Foxy Jumper 2: Winter Adventures | 255648 | [255648-foxy-jumper-2-winter-adventures.json](./255648-foxy-jumper-2-winter-adventures.json) |
+| Foxy Land | 341734 | [341734-foxy-land.json](./341734-foxy-land.json) |
 | Foxy Land 2 | 215554 | [215554-foxy-land-2.json](./215554-foxy-land-2.json) |
 | Foxy Tales | 276674 | [276674-foxy-tales.json](./276674-foxy-tales.json) |
 | Foxy the First Steps | 409412 | [409412-foxy-the-first-steps.json](./409412-foxy-the-first-steps.json) |
