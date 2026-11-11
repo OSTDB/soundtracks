@@ -13772,6 +13772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lighting Ages | 339189 | [339189-the-lighting-ages.json](./339189-the-lighting-ages.json) |
 | The Lightkeeper | 215737 | [215737-the-lightkeeper.json](./215737-the-lightkeeper.json) |
 | The Lightkeeper | 240553 | [240553-the-lightkeeper.json](./240553-the-lightkeeper.json) |
+| The Lightkeeper is Gone | 331582 | [331582-the-lightkeeper-is-gone.json](./331582-the-lightkeeper-is-gone.json) |
 | The Lightkeepers | 377652 | [377652-the-lightkeepers.json](./377652-the-lightkeepers.json) |
 | The Lightless World | 289989 | [289989-the-lightless-world.json](./289989-the-lightless-world.json) |
 | The Lightning Girl | 372275 | [372275-the-lightning-girl.json](./372275-the-lightning-girl.json) |
@@ -28564,6 +28565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towa no Sakura | 203199 | [203199-towa-no-sakura.json](./203199-towa-no-sakura.json) |
 | Towa Tsugai | 222776 | [222776-towa-tsugai.json](./222776-towa-tsugai.json) |
 | Towaga: Among Shadows | 124407 | [124407-towaga-among-shadows.json](./124407-towaga-among-shadows.json) |
+| Toward Dawn | 331596 | [331596-toward-dawn.json](./331596-toward-dawn.json) |
 | Toward From | 377536 | [377536-toward-from.json](./377536-toward-from.json) |
 | Toward Pianist | 288576 | [288576-toward-pianist.json](./288576-toward-pianist.json) |
 | Toward The Ice | 335505 | [335505-toward-the-ice.json](./335505-toward-the-ice.json) |
