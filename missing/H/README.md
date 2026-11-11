@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hands On! Tangrams | 48043 | [48043-hands-on-tangrams.json](./48043-hands-on-tangrams.json) |
 | Hands Over | 403826 | [403826-hands-over.json](./403826-hands-over.json) |
 | Hands up | 395149 | [395149-hands-up.json](./395149-hands-up.json) |
+| Hands Up! Charades Headbands | 348491 | [348491-hands-up-charades-headbands.json](./348491-hands-up-charades-headbands.json) |
 | Handshakes: Hands On | 233010 | [233010-handshakes-hands-on.json](./233010-handshakes-hands-on.json) |
 | Handsome and Brave | 392228 | [392228-handsome-and-brave.json](./392228-handsome-and-brave.json) |
 | Handsome Laundering: The Mystic Lover | 385263 | [385263-handsome-laundering-the-mystic-lover.json](./385263-handsome-laundering-the-mystic-lover.json) |
@@ -9328,6 +9329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Your Own | 75608 | [75608-hold-your-own.json](./75608-hold-your-own.json) |
 | Hold-Up | 240779 | [240779-hold-up.json](./240779-hold-up.json) |
 | Hold-Up | 74016 | [74016-hold-up.json](./74016-hold-up.json) |
+| Hold.for.Humans | 348478 | [348478-hold-for-humans.json](./348478-hold-for-humans.json) |
 | Holder of Place | 344142 | [344142-holder-of-place.json](./344142-holder-of-place.json) |
 | Holdfast: Age of Sail | 362286 | [362286-holdfast-age-of-sail.json](./362286-holdfast-age-of-sail.json) |
 | Holdfast: American Revolution | 400489 | [400489-holdfast-american-revolution.json](./400489-holdfast-american-revolution.json) |
@@ -13273,6 +13275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Mega 256-in-1 | 332211 | [332211-hyper-mega-256-in-1.json](./332211-hyper-mega-256-in-1.json) |
 | Hyper Meteor | 151971 | [151971-hyper-meteor.json](./151971-hyper-meteor.json) |
 | Hyper Metroid Super | 349938 | [349938-hyper-metroid-super.json](./349938-hyper-metroid-super.json) |
+| Hyper Mice Rescue | 347965 | [347965-hyper-mice-rescue.json](./347965-hyper-mice-rescue.json) |
 | Hyper Mirror Run | 275088 | [275088-hyper-mirror-run.json](./275088-hyper-mirror-run.json) |
 | Hyper Monks 3 | 381497 | [381497-hyper-monks-3.json](./381497-hyper-monks-3.json) |
 | Hyper Mum Ft Adult Gaming | 230122 | [230122-hyper-mum-ft-adult-gaming.json](./230122-hyper-mum-ft-adult-gaming.json) |
@@ -13553,6 +13556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspace Hub Manager | 357264 | [357264-hyperspace-hub-manager.json](./357264-hyperspace-hub-manager.json) |
 | Hyperspace Invaders II: Pixel Edition | 20923 | [20923-hyperspace-invaders-ii-pixel-edition.json](./20923-hyperspace-invaders-ii-pixel-edition.json) |
 | Hyperspace Services | 184085 | [184085-hyperspace-services.json](./184085-hyperspace-services.json) |
+| Hyperspace Striker | 348480 | [348480-hyperspace-striker.json](./348480-hyperspace-striker.json) |
 | Hyperspace Throw Patrol | 184991 | [184991-hyperspace-throw-patrol.json](./184991-hyperspace-throw-patrol.json) |
 | Hyperspace: Andy's Adventure | 149879 | [149879-hyperspace-andys-adventure.json](./149879-hyperspace-andys-adventure.json) |
 | Hyperspace: Andy's Adventure - Metal Universe | 155365 | [155365-hyperspace-andys-adventure-metal-universe.json](./155365-hyperspace-andys-adventure-metal-universe.json) |
