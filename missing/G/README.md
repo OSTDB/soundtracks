@@ -5032,6 +5032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glad Valakas Tower Defence 2 | 115215 | [115215-glad-valakas-tower-defence-2.json](./115215-glad-valakas-tower-defence-2.json) |
 | Glad Valakas: Cyberban | 116817 | [116817-glad-valakas-cyberban.json](./116817-glad-valakas-cyberban.json) |
 | Glade and Ritual | 411535 | [411535-glade-and-ritual.json](./411535-glade-and-ritual.json) |
+| Glade of Tranquility | 332133 | [332133-glade-of-tranquility.json](./332133-glade-of-tranquility.json) |
 | Gladia | 157038 | [157038-gladia.json](./157038-gladia.json) |
 | Gladiabears: Strength and Honour | 102679 | [102679-gladiabears-strength-and-honour.json](./102679-gladiabears-strength-and-honour.json) |
 | Gladiabots | 53079 | [53079-gladiabots.json](./53079-gladiabots.json) |
