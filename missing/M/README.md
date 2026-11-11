@@ -153,6 +153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maboroshi Tsukiyo | 128379 | [128379-maboroshi-tsukiyo.json](./128379-maboroshi-tsukiyo.json) |
 | Maboshi's Arcade | 21788 | [21788-maboshis-arcade.json](./21788-maboshis-arcade.json) |
 | Mabus 3000 | 245781 | [245781-mabus-3000.json](./245781-mabus-3000.json) |
+| Mac & Jack: Candy Bashers | 325791 | [325791-mac-and-jack-candy-bashers.json](./325791-mac-and-jack-candy-bashers.json) |
 | Mac Attack | 210200 | [210200-mac-attack.json](./210200-mac-attack.json) |
 | Mac Biskwi Adventures | 169631 | [169631-mac-biskwi-adventures.json](./169631-mac-biskwi-adventures.json) |
 | Mac Hack VI | 407638 | [407638-mac-hack-vi.json](./407638-mac-hack-vi.json) |
@@ -673,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Made in Hell | 259683 | [259683-made-in-hell.json](./259683-made-in-hell.json) |
 | Made in Lucifer City | 370012 | [370012-made-in-lucifer-city.json](./370012-made-in-lucifer-city.json) |
 | Made in Melostead | 270092 | [270092-made-in-melostead.json](./270092-made-in-melostead.json) |
+| Made In MFGG | 325778 | [325778-made-in-mfgg.json](./325778-made-in-mfgg.json) |
 | Made in Nightmare | 229390 | [229390-made-in-nightmare.json](./229390-made-in-nightmare.json) |
 | Made in Ohio | 236880 | [236880-made-in-ohio.json](./236880-made-in-ohio.json) |
 | Made in Physics | 184487 | [184487-made-in-physics.json](./184487-made-in-physics.json) |
@@ -5341,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masks | 135617 | [135617-masks.json](./135617-masks.json) |
 | Masks for Sale | 180526 | [180526-masks-for-sale.json](./180526-masks-for-sale.json) |
 | Masks of Deception | 200705 | [200705-masks-of-deception.json](./200705-masks-of-deception.json) |
+| Masks of the Void: Origins | 325765 | [325765-masks-of-the-void-origins.json](./325765-masks-of-the-void-origins.json) |
 | Masky | 30557 | [30557-masky.json](./30557-masky.json) |
 | Maso Marble | 81044 | [81044-maso-marble.json](./81044-maso-marble.json) |
 | Masochisia | 13189 | [13189-masochisia.json](./13189-masochisia.json) |
