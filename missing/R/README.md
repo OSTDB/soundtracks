@@ -1518,6 +1518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainette | 258476 | [258476-rainette.json](./258476-rainette.json) |
 | Rainforest Adventure | 53491 | [53491-rainforest-adventure.json](./53491-rainforest-adventure.json) |
 | Rainforest Cascade | 69845 | [69845-rainforest-cascade.json](./69845-rainforest-cascade.json) |
+| Rainforest Solitaire | 380929 | [380929-rainforest-solitaire.json](./380929-rainforest-solitaire.json) |
 | Raining Blobs | 24050 | [24050-raining-blobs.json](./24050-raining-blobs.json) |
 | Raining blocks | 81764 | [81764-raining-blocks.json](./81764-raining-blocks.json) |
 | Raining Blood: Hellfire | 219491 | [219491-raining-blood-hellfire.json](./219491-raining-blood-hellfire.json) |
@@ -1752,6 +1753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ram! | 94218 | [94218-ram.json](./94218-ram.json) |
 | Rama | 13782 | [13782-rama.json](./13782-rama.json) |
 | Rama's Quest | 289013 | [289013-ramas-quest.json](./289013-ramas-quest.json) |
+| Ramadan Challenges | 380944 | [380944-ramadan-challenges.json](./380944-ramadan-challenges.json) |
 | Ramageddon | 146757 | [146757-ramageddon.json](./146757-ramageddon.json) |
 | Ramas' Call: Twisted Timing | 261734 | [261734-ramas-call-twisted-timing.json](./261734-ramas-call-twisted-timing.json) |
 | Ramayana | 35184 | [35184-ramayana.json](./35184-ramayana.json) |
