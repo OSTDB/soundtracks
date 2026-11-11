@@ -5798,6 +5798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Refused | 397172 | [397172-rescue-refused.json](./397172-rescue-refused.json) |
 | Rescue Rina | 169797 | [169797-rescue-rina.json](./169797-rescue-rina.json) |
 | Rescue Roby | 68933 | [68933-rescue-roby.json](./68933-rescue-roby.json) |
+| Rescue Rose | 370028 | [370028-rescue-rose.json](./370028-rescue-rose.json) |
 | Rescue Rover | 73509 | [73509-rescue-rover.json](./73509-rescue-rover.json) |
 | Rescue Rover 2 | 72110 | [72110-rescue-rover-2.json](./72110-rescue-rover-2.json) |
 | Rescue Rover Collection | 150692 | [150692-rescue-rover-collection.json](./150692-rescue-rover-collection.json) |
@@ -10932,6 +10933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Role Player: Okayu Shimai no Nenmaku Portrait - Gurigucha Live | 413742 | [413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json](./413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json) |
 | Rolemaster: Magestorm | 66238 | [66238-rolemaster-magestorm.json](./66238-rolemaster-magestorm.json) |
 | Roles & Dice | 367307 | [367307-roles-and-dice.json](./367307-roles-and-dice.json) |
+| Roley's Arcade Collection | 370047 | [370047-roleys-arcade-collection.json](./370047-roleys-arcade-collection.json) |
 | Rolf | 163833 | [163833-rolf.json](./163833-rolf.json) |
 | Rolf | 407520 | [407520-rolf.json](./407520-rolf.json) |
 | Roliboli | 131924 | [131924-roliboli.json](./131924-roliboli.json) |
@@ -12613,6 +12615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rude Racers | 120839 | [120839-rude-racers.json](./120839-rude-racers.json) |
 | Rude Racers: 2D Combat Racing | 133021 | [133021-rude-racers-2d-combat-racing.json](./133021-rude-racers-2d-combat-racing.json) |
 | Rude Supermarket Simulator | 417383 | [417383-rude-supermarket-simulator.json](./417383-rude-supermarket-simulator.json) |
+| Rudeirer.wtf | 370043 | [370043-rudeirer-wtf.json](./370043-rudeirer-wtf.json) |
 | Rudimentary Unfinished Shooter Entry | 413891 | [413891-rudimentary-unfinished-shooter-entry.json](./413891-rudimentary-unfinished-shooter-entry.json) |
 | Rudo Resurrection | 66646 | [66646-rudo-resurrection.json](./66646-rudo-resurrection.json) |
 | Rudolf's Very Good, No Bad Day-o | 412543 | [412543-rudolfs-very-good-no-bad-day-o.json](./412543-rudolfs-very-good-no-bad-day-o.json) |
