@@ -2619,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viper Phase 1 | 39819 | [39819-viper-phase-1.json](./39819-viper-phase-1.json) |
 | Viper Racing | 937 | [937-viper-racing.json](./937-viper-racing.json) |
 | Viper Thunderground | 355099 | [355099-viper-thunderground.json](./355099-viper-thunderground.json) |
+| Viper Vice | 380917 | [380917-viper-vice.json](./380917-viper-vice.json) |
 | Viper-V6 | 305254 | [305254-viper-v6.json](./305254-viper-v6.json) |
 | Viper-V8 | 305255 | [305255-viper-v8.json](./305255-viper-v8.json) |
 | Viperbyte | 116252 | [116252-viperbyte.json](./116252-viperbyte.json) |
