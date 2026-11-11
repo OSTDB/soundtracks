@@ -14727,6 +14727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arise: A Simple Story - Definitive Edition | 199171 | [199171-arise-a-simple-story-definitive-edition.json](./199171-arise-a-simple-story-definitive-edition.json) |
 | Arisen | 120603 | [120603-arisen.json](./120603-arisen.json) |
 | Arisen Force: HeroTest | 302980 | [302980-arisen-force-herotest.json](./302980-arisen-force-herotest.json) |
+| Arisen Force: Life Devotee | 349565 | [349565-arisen-force-life-devotee.json](./349565-arisen-force-life-devotee.json) |
 | Arisen Force: Life Devotee of Wukong | 322972 | [322972-arisen-force-life-devotee-of-wukong.json](./322972-arisen-force-life-devotee-of-wukong.json) |
 | Arisen Force: LifeDevotee | 366210 | [366210-arisen-force-lifedevotee.json](./366210-arisen-force-lifedevotee.json) |
 | Arisen Force: Vonimir | 244893 | [244893-arisen-force-vonimir.json](./244893-arisen-force-vonimir.json) |
@@ -17257,6 +17258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Nova | 374511 | [374511-astro-nova.json](./374511-astro-nova.json) |
 | Astro Nut | 200779 | [200779-astro-nut.json](./200779-astro-nut.json) |
 | Astro Odyssey | 336510 | [336510-astro-odyssey.json](./336510-astro-odyssey.json) |
+| Astro Out | 349525 | [349525-astro-out.json](./349525-astro-out.json) |
 | Astro Party | 103234 | [103234-astro-party.json](./103234-astro-party.json) |
 | Astro Party EX | 386777 | [386777-astro-party-ex.json](./386777-astro-party-ex.json) |
 | Astro Pig | 240751 | [240751-astro-pig.json](./240751-astro-pig.json) |
