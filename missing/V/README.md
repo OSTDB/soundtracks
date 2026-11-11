@@ -1073,6 +1073,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vault! | 340817 | [340817-vault.json](./340817-vault.json) |
 | Vaulted | 253825 | [253825-vaulted.json](./253825-vaulted.json) |
 | Vaulted Valor | 374805 | [374805-vaulted-valor.json](./374805-vaulted-valor.json) |
+| Vaultframe | 325768 | [325768-vaultframe.json](./325768-vaultframe.json) |
+| Vaulting Champions | 325780 | [325780-vaulting-champions.json](./325780-vaulting-champions.json) |
 | Vaulting Over It | 350538 | [350538-vaulting-over-it.json](./350538-vaulting-over-it.json) |
 | Vaunted | 396028 | [396028-vaunted.json](./396028-vaunted.json) |
 | Vavala | 188412 | [188412-vavala.json](./188412-vavala.json) |
