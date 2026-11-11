@@ -10506,6 +10506,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hill Disillusion | 121472 | [121472-forgotten-hill-disillusion.json](./121472-forgotten-hill-disillusion.json) |
 | Forgotten Hill First Steps | 153157 | [153157-forgotten-hill-first-steps.json](./153157-forgotten-hill-first-steps.json) |
 | Forgotten Hill Injustice | 423631 | [423631-forgotten-hill-injustice.json](./423631-forgotten-hill-injustice.json) |
+| Forgotten Hill Memento: Buried Things | 393165 | [393165-forgotten-hill-memento-buried-things.json](./393165-forgotten-hill-memento-buried-things.json) |
+| Forgotten Hill Memento: Love Beyond | 393164 | [393164-forgotten-hill-memento-love-beyond.json](./393164-forgotten-hill-memento-love-beyond.json) |
+| Forgotten Hill Memento: Playground | 393166 | [393166-forgotten-hill-memento-playground.json](./393166-forgotten-hill-memento-playground.json) |
 | Forgotten Hill Memento: Run Run Little Horse | 388685 | [388685-forgotten-hill-memento-run-run-little-horse.json](./388685-forgotten-hill-memento-run-run-little-horse.json) |
 | Forgotten Hill Mementoes | 87980 | [87980-forgotten-hill-mementoes.json](./87980-forgotten-hill-mementoes.json) |
 | Forgotten Hill Pico | 388678 | [388678-forgotten-hill-pico.json](./388678-forgotten-hill-pico.json) |
@@ -10513,7 +10516,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Hill: Fall | 317638 | [317638-forgotten-hill-fall.json](./317638-forgotten-hill-fall.json) |
 | Forgotten Hill: Surgery | 101764 | [101764-forgotten-hill-surgery.json](./101764-forgotten-hill-surgery.json) |
 | Forgotten Hill: The Wardrobe | 340235 | [340235-forgotten-hill-the-wardrobe.json](./340235-forgotten-hill-the-wardrobe.json) |
+| Forgotten Hill: The Wardrobe - Dark Mechanics | 393171 | [393171-forgotten-hill-the-wardrobe-dark-mechanics.json](./393171-forgotten-hill-the-wardrobe-dark-mechanics.json) |
 | Forgotten Hill: The Wardrobe - Other Friends | 393167 | [393167-forgotten-hill-the-wardrobe-other-friends.json](./393167-forgotten-hill-the-wardrobe-other-friends.json) |
+| Forgotten Hill: The Wardrobe - The Price of a Smile | 393170 | [393170-forgotten-hill-the-wardrobe-the-price-of-a-smile.json](./393170-forgotten-hill-the-wardrobe-the-price-of-a-smile.json) |
+| Forgotten Hill: The Wardrobe - Together Once More | 393169 | [393169-forgotten-hill-the-wardrobe-together-once-more.json](./393169-forgotten-hill-the-wardrobe-together-once-more.json) |
+| Forgotten Hill: The Wardrobe - Two Sisters | 393168 | [393168-forgotten-hill-the-wardrobe-two-sisters.json](./393168-forgotten-hill-the-wardrobe-two-sisters.json) |
 | Forgotten Hope | 147234 | [147234-forgotten-hope.json](./147234-forgotten-hope.json) |
 | Forgotten Hope | 319675 | [319675-forgotten-hope.json](./319675-forgotten-hope.json) |
 | Forgotten House | 244569 | [244569-forgotten-house.json](./244569-forgotten-house.json) |
