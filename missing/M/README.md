@@ -7104,6 +7104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mecha Mining Marvelous Martian Minerals | 363934 | [363934-mecha-mining-marvelous-martian-minerals.json](./363934-mecha-mining-marvelous-martian-minerals.json) |
 | Mecha Nun-chuck Redeemer | 275842 | [275842-mecha-nun-chuck-redeemer.json](./275842-mecha-nun-chuck-redeemer.json) |
 | Mecha Party | 286043 | [286043-mecha-party.json](./286043-mecha-party.json) |
+| Mecha Ritz | 375720 | [375720-mecha-ritz.json](./375720-mecha-ritz.json) |
 | Mecha Ritz: Steel Rondo | 32959 | [32959-mecha-ritz-steel-rondo.json](./32959-mecha-ritz-steel-rondo.json) |
 | Mecha Ritz: Steel Rondo 2.0 | 229042 | [229042-mecha-ritz-steel-rondo-2-0.json](./229042-mecha-ritz-steel-rondo-2-0.json) |
 | Mecha Royale Online | 104212 | [104212-mecha-royale-online.json](./104212-mecha-royale-online.json) |
@@ -14923,6 +14924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitt and the Doll | 141980 | [141980-mitt-and-the-doll.json](./141980-mitt-and-the-doll.json) |
 | Mitt Babyzoo | 288106 | [288106-mitt-babyzoo.json](./288106-mitt-babyzoo.json) |
 | Mittelamerika-Krise | 125589 | [125589-mittelamerika-krise.json](./125589-mittelamerika-krise.json) |
+| Mittelland AD | 375707 | [375707-mittelland-ad.json](./375707-mittelland-ad.json) |
 | Mittelland AD: Origins | 408533 | [408533-mittelland-ad-origins.json](./408533-mittelland-ad-origins.json) |
 | Mittin | 222286 | [222286-mittin.json](./222286-mittin.json) |
 | Mítú | 156684 | [156684-mitu.json](./156684-mitu.json) |
@@ -18980,6 +18982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor Duels: Outcast | 55841 | [55841-motor-duels-outcast.json](./55841-motor-duels-outcast.json) |
 | Motor Gladiators | 105168 | [105168-motor-gladiators.json](./105168-motor-gladiators.json) |
 | Motor Mania | 25574 | [25574-motor-mania.json](./25574-motor-mania.json) |
+| Motor Mash | 375710 | [375710-motor-mash.json](./375710-motor-mash.json) |
 | Motor Mash | 44866 | [44866-motor-mash.json](./44866-motor-mash.json) |
 | Motor Massacre | 12745 | [12745-motor-massacre.json](./12745-motor-massacre.json) |
 | Motor Mayhem | 43305 | [43305-motor-mayhem.json](./43305-motor-mayhem.json) |
