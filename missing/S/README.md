@@ -4356,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of World | 292537 | [292537-sea-of-world.json](./292537-sea-of-world.json) |
 | Sea Park Tycoon | 152029 | [152029-sea-park-tycoon.json](./152029-sea-park-tycoon.json) |
 | Sea Plumber 2 | 205029 | [205029-sea-plumber-2.json](./205029-sea-plumber-2.json) |
+| Sea Power Naval Battle Combat | 377005 | [377005-sea-power-naval-battle-combat.json](./377005-sea-power-naval-battle-combat.json) |
 | Sea Power: Naval Combat in the Missile Age | 217518 | [217518-sea-power-naval-combat-in-the-missile-age.json](./217518-sea-power-naval-combat-in-the-missile-age.json) |
 | Sea Raiders | 142614 | [142614-sea-raiders.json](./142614-sea-raiders.json) |
 | Sea Ranger | 245411 | [245411-sea-ranger.json](./245411-sea-ranger.json) |
@@ -21846,6 +21847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spanky's Quest | 49017 | [49017-spankys-quest.json](./49017-spankys-quest.json) |
 | Spanky's Quest DX | 280706 | [280706-spankys-quest-dx.json](./280706-spankys-quest-dx.json) |
 | Spannerman | 39142 | [39142-spannerman.json](./39142-spannerman.json) |
+| Spar Kart | 376977 | [376977-spar-kart.json](./376977-spar-kart.json) |
 | Spar MMORPG | 130880 | [130880-spar-mmorpg.json](./130880-spar-mmorpg.json) |
 | Sparc | 27430 | [27430-sparc.json](./27430-sparc.json) |
 | Spare | 186109 | [186109-spare.json](./186109-spare.json) |
@@ -35795,6 +35797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Simulator Manager | 307642 | [307642-supermarket-simulator-manager.json](./307642-supermarket-simulator-manager.json) |
 | Supermarket Simulator Pro | 315920 | [315920-supermarket-simulator-pro.json](./315920-supermarket-simulator-pro.json) |
 | Supermarket Simulator Pro | 326333 | [326333-supermarket-simulator-pro.json](./326333-supermarket-simulator-pro.json) |
+| Supermarket Simulator Store | 377006 | [377006-supermarket-simulator-store.json](./377006-supermarket-simulator-store.json) |
 | Supermarket Simulator Store Game 3D | 376231 | [376231-supermarket-simulator-store-game-3d.json](./376231-supermarket-simulator-store-game-3d.json) |
 | Supermarket Simulator VR | 312423 | [312423-supermarket-simulator-vr.json](./312423-supermarket-simulator-vr.json) |
 | Supermarket Simulator: Idle Tycoon Clicker | 407490 | [407490-supermarket-simulator-idle-tycoon-clicker.json](./407490-supermarket-simulator-idle-tycoon-clicker.json) |
