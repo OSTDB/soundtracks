@@ -5128,6 +5128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Beads | 342752 | [342752-glass-beads.json](./342752-glass-beads.json) |
 | Glass Breaker | 108116 | [108116-glass-breaker.json](./108116-glass-breaker.json) |
 | Glass Bridge | 215580 | [215580-glass-bridge.json](./215580-glass-bridge.json) |
+| Glass Cannon | 344053 | [344053-glass-cannon.json](./344053-glass-cannon.json) |
 | Glass Cannon Defense | 389363 | [389363-glass-cannon-defense.json](./389363-glass-cannon-defense.json) |
 | Glass Cannons | 181772 | [181772-glass-cannons.json](./181772-glass-cannons.json) |
 | Glass City : The Dust | 76433 | [76433-glass-city-the-dust.json](./76433-glass-city-the-dust.json) |
@@ -8900,6 +8901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravenfall: Veil of Darkness | 323482 | [323482-gravenfall-veil-of-darkness.json](./323482-gravenfall-veil-of-darkness.json) |
 | GraveRun | 33286 | [33286-graverun.json](./33286-graverun.json) |
 | GraveRunners | 152637 | [152637-graverunners.json](./152637-graverunners.json) |
+| Gravethorn | 346293 | [346293-gravethorn.json](./346293-gravethorn.json) |
 | Gravewatch | 297868 | [297868-gravewatch.json](./297868-gravewatch.json) |
 | Gravewood High | 143991 | [143991-gravewood-high.json](./143991-gravewood-high.json) |
 | Gravewood High: Chapter 1 | 243226 | [243226-gravewood-high-chapter-1.json](./243226-gravewood-high-chapter-1.json) |
@@ -11357,6 +11359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gullet | 319926 | [319926-gullet.json](./319926-gullet.json) |
 | Gulliver in the Land of Giants | 300339 | [300339-gulliver-in-the-land-of-giants.json](./300339-gulliver-in-the-land-of-giants.json) |
 | Gullo Arcade | 215556 | [215556-gullo-arcade.json](./215556-gullo-arcade.json) |
+| Gulltastrophe | 346305 | [346305-gulltastrophe.json](./346305-gulltastrophe.json) |
 | Gulman 3D | 199059 | [199059-gulman-3d.json](./199059-gulman-3d.json) |
 | Gulman 4: Still alive | 30405 | [30405-gulman-4-still-alive.json](./30405-gulman-4-still-alive.json) |
 | Gulman 5 | 99067 | [99067-gulman-5.json](./99067-gulman-5.json) |
