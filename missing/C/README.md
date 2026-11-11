@@ -9397,6 +9397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinco Paus | 83157 | [83157-cinco-paus.json](./83157-cinco-paus.json) |
 | Cinder & Crowns | 410867 | [410867-cinder-and-crowns.json](./410867-cinder-and-crowns.json) |
 | Cinder City | 361814 | [361814-cinder-city.json](./361814-cinder-city.json) |
+| Cinder's Flying Skull | 368939 | [368939-cinders-flying-skull.json](./368939-cinders-flying-skull.json) |
 | CinderAi | 223072 | [223072-cinderai.json](./223072-cinderai.json) |
 | Cinderella | 66954 | [66954-cinderella.json](./66954-cinderella.json) |
 | Cinderella (games for girls) | 103978 | [103978-cinderella-games-for-girls.json](./103978-cinderella-games-for-girls.json) |
