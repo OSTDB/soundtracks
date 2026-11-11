@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Cats in India | 311506 | [311506-101-cats-in-india.json](./311506-101-cats-in-india.json) |
 | 101 Cats in Indonesia | 366304 | [366304-101-cats-in-indonesia.json](./366304-101-cats-in-indonesia.json) |
 | 101 Cats in Istanbul | 328147 | [328147-101-cats-in-istanbul.json](./328147-101-cats-in-istanbul.json) |
+| 101 Cats in Jakarta | 375687 | [375687-101-cats-in-jakarta.json](./375687-101-cats-in-jakarta.json) |
 | 101 Cats in Kuala Lumpur | 350328 | [350328-101-cats-in-kuala-lumpur.json](./350328-101-cats-in-kuala-lumpur.json) |
 | 101 Cats in Kyoto | 383064 | [383064-101-cats-in-kyoto.json](./383064-101-cats-in-kyoto.json) |
 | 101 Cats in Las Vegas | 308931 | [308931-101-cats-in-las-vegas.json](./308931-101-cats-in-las-vegas.json) |
