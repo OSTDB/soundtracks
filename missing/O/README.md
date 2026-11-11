@@ -2656,6 +2656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One On One | 295981 | [295981-one-on-one.json](./295981-one-on-one.json) |
 | One on One: Dr. J vs. Larry Bird | 69833 | [69833-one-on-one-dr-j-vs-larry-bird.json](./69833-one-on-one-dr-j-vs-larry-bird.json) |
 | One Paradox | 341507 | [341507-one-paradox.json](./341507-one-paradox.json) |
+| One Pass | 370601 | [370601-one-pass.json](./370601-one-pass.json) |
 | One Perfect Day | 264061 | [264061-one-perfect-day.json](./264061-one-perfect-day.json) |
 | One person story | 105707 | [105707-one-person-story.json](./105707-one-person-story.json) |
 | One Piece 2: Pirate King | 59466 | [59466-one-piece-2-pirate-king.json](./59466-one-piece-2-pirate-king.json) |
