@@ -3849,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marfa | 337039 | [337039-marfa.json](./337039-marfa.json) |
 | Marfusha: Sentinel Girls | 143638 | [143638-marfusha-sentinel-girls.json](./143638-marfusha-sentinel-girls.json) |
 | Margaret's Little Shop of Wonders | 251944 | [251944-margarets-little-shop-of-wonders.json](./251944-margarets-little-shop-of-wonders.json) |
+| Margaret's Sin | 332149 | [332149-margarets-sin.json](./332149-margarets-sin.json) |
 | Margareta | 182810 | [182810-margareta.json](./182810-margareta.json) |
 | Margaritari | 225206 | [225206-margaritari.json](./225206-margaritari.json) |
 | Margery | 388408 | [388408-margery.json](./388408-margery.json) |
@@ -5675,6 +5676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MasterChef: Cook & Match | 219952 | [219952-masterchef-cook-and-match.json](./219952-masterchef-cook-and-match.json) |
 | MasterChef: Culinary Showdown | 319628 | [319628-masterchef-culinary-showdown.json](./319628-masterchef-culinary-showdown.json) |
 | MasterChef: Learn to Cook! | 299804 | [299804-masterchef-learn-to-cook.json](./299804-masterchef-learn-to-cook.json) |
+| MasterChef: Learn to Cook! - Christmas Special | 332120 | [332120-masterchef-learn-to-cook-christmas-special.json](./332120-masterchef-learn-to-cook-christmas-special.json) |
 | MasterChef: Learn to Cook! - Complete Edition | 324375 | [324375-masterchef-learn-to-cook-complete-edition.json](./324375-masterchef-learn-to-cook-complete-edition.json) |
 | MasterChef: Learn to Cook! - Fruits, Nuts & Sweets | 324480 | [324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json](./324480-masterchef-learn-to-cook-fruits-nuts-and-sweets.json) |
 | MasterChef: Learn to Cook! - Meat, Dairy & Seafood | 324481 | [324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json](./324481-masterchef-learn-to-cook-meat-dairy-and-seafood.json) |
@@ -7323,8 +7325,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechWarrior 4: Mercenaries | 19192 | [19192-mechwarrior-4-mercenaries.json](./19192-mechwarrior-4-mercenaries.json) |
 | MechWarrior 4: Vengeance | 786 | [786-mechwarrior-4-vengeance.json](./786-mechwarrior-4-vengeance.json) |
 | MechWarrior 5: Clans | 267011 | [267011-mechwarrior-5-clans.json](./267011-mechwarrior-5-clans.json) |
+| MechWarrior 5: Clans - Digital Collectors Content | 332118 | [332118-mechwarrior-5-clans-digital-collectors-content.json](./332118-mechwarrior-5-clans-digital-collectors-content.json) |
 | MechWarrior 5: Clans - Digital Collectors Edition | 331819 | [331819-mechwarrior-5-clans-digital-collectors-edition.json](./331819-mechwarrior-5-clans-digital-collectors-edition.json) |
 | Mechwarrior 5: Clans - Ghost Bear Flash Storm | 345013 | [345013-mechwarrior-5-clans-ghost-bear-flash-storm.json](./345013-mechwarrior-5-clans-ghost-bear-flash-storm.json) |
+| MechWarrior 5: Clans - Invasion Mech Patterns | 332119 | [332119-mechwarrior-5-clans-invasion-mech-patterns.json](./332119-mechwarrior-5-clans-invasion-mech-patterns.json) |
 | MechWarrior 5: Clans - Trials of War | 402397 | [402397-mechwarrior-5-clans-trials-of-war.json](./402397-mechwarrior-5-clans-trials-of-war.json) |
 | Mechwarrior 5: Clans - Wolves of Tukayyid | 377889 | [377889-mechwarrior-5-clans-wolves-of-tukayyid.json](./377889-mechwarrior-5-clans-wolves-of-tukayyid.json) |
 | MechWarrior 5: Mercenaries | 26227 | [26227-mechwarrior-5-mercenaries.json](./26227-mechwarrior-5-mercenaries.json) |
@@ -13615,6 +13619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper: Soukaitei | 308607 | [308607-minesweeper-soukaitei.json](./308607-minesweeper-soukaitei.json) |
 | Minesweeper: The Clean One | 180245 | [180245-minesweeper-the-clean-one.json](./180245-minesweeper-the-clean-one.json) |
 | Minesweeper: Widget Edition | 175570 | [175570-minesweeper-widget-edition.json](./175570-minesweeper-widget-edition.json) |
+| Minesweeper: World | 332147 | [332147-minesweeper-world.json](./332147-minesweeper-world.json) |
 | Minesweeper.io | 176569 | [176569-minesweeper-io.json](./176569-minesweeper-io.json) |
 | MineSweeper.R | 389523 | [389523-minesweeper-r.json](./389523-minesweeper-r.json) |
 | MineSweepVR | 90017 | [90017-minesweepvr.json](./90017-minesweepvr.json) |
