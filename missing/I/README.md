@@ -1594,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Harem Dungeon | 374907 | [374907-idle-harem-dungeon.json](./374907-idle-harem-dungeon.json) |
 | Idle Heist | 101368 | [101368-idle-heist.json](./101368-idle-heist.json) |
+| Idle Hero | 367312 | [367312-idle-hero.json](./367312-idle-hero.json) |
 | Idle Hero Defense | 101713 | [101713-idle-hero-defense.json](./101713-idle-hero-defense.json) |
 | Idle Hero Defense - Fantasy Defense | 109224 | [109224-idle-hero-defense-fantasy-defense.json](./109224-idle-hero-defense-fantasy-defense.json) |
 | Idle Hero TD | 296314 | [296314-idle-hero-td.json](./296314-idle-hero-td.json) |
@@ -3663,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indoor Haul | 311070 | [311070-indoor-haul.json](./311070-indoor-haul.json) |
 | Indoor Kickball | 218192 | [218192-indoor-kickball.json](./218192-indoor-kickball.json) |
 | Indoor Rock Climbing VR | 81757 | [81757-indoor-rock-climbing-vr.json](./81757-indoor-rock-climbing-vr.json) |
+| Indoor Sniper Shooting Alpha Strike in Corona Virus Lockdown | 367319 | [367319-indoor-sniper-shooting-alpha-strike-in-corona-virus-lockdown.json](./367319-indoor-sniper-shooting-alpha-strike-in-corona-virus-lockdown.json) |
 | Indoor Soccer | 377951 | [377951-indoor-soccer.json](./377951-indoor-soccer.json) |
 | Indoor Soccer | 39839 | [39839-indoor-soccer.json](./39839-indoor-soccer.json) |
 | Indoor Soccer for the TI 99/4A | 93990 | [93990-indoor-soccer-for-the-ti-99-4a.json](./93990-indoor-soccer-for-the-ti-99-4a.json) |
