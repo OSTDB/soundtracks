@@ -8130,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lootbawx | 309471 | [309471-lootbawx.json](./309471-lootbawx.json) |
 | Lootborn Warriors | 373270 | [373270-lootborn-warriors.json](./373270-lootborn-warriors.json) |
 | Lootborne | 406315 | [406315-lootborne.json](./406315-lootborne.json) |
+| Lootbound | 338988 | [338988-lootbound.json](./338988-lootbound.json) |
 | Lootbox Gungeon | 179162 | [179162-lootbox-gungeon.json](./179162-lootbox-gungeon.json) |
 | Lootbox Incremental | 341261 | [341261-lootbox-incremental.json](./341261-lootbox-incremental.json) |
 | Lootbox Lyfe | 118586 | [118586-lootbox-lyfe.json](./118586-lootbox-lyfe.json) |
