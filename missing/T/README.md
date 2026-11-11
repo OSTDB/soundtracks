@@ -12404,6 +12404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King's Dilemma: Chronicles | 216750 | [216750-the-kings-dilemma-chronicles.json](./216750-the-kings-dilemma-chronicles.json) |
 | The King's Dungeon | 230723 | [230723-the-kings-dungeon.json](./230723-the-kings-dungeon.json) |
 | The King's Feast | 232930 | [232930-the-kings-feast.json](./232930-the-kings-feast.json) |
+| The King's Follower | 379799 | [379799-the-kings-follower.json](./379799-the-kings-follower.json) |
 | The king's Guard | 165933 | [165933-the-kings-guard.json](./165933-the-kings-guard.json) |
 | The King's Keep | 38746 | [38746-the-kings-keep.json](./38746-the-kings-keep.json) |
 | The King's League | 294419 | [294419-the-kings-league.json](./294419-the-kings-league.json) |
@@ -15078,6 +15079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Christmas Ended | 30414 | [30414-the-night-christmas-ended.json](./30414-the-night-christmas-ended.json) |
 | The Night Cleaner | 382698 | [382698-the-night-cleaner.json](./382698-the-night-cleaner.json) |
 | The Night Crawler | 375210 | [375210-the-night-crawler.json](./375210-the-night-crawler.json) |
+| The Night Doner | 379819 | [379819-the-night-doner.json](./379819-the-night-doner.json) |
 | The Night Driver | 240031 | [240031-the-night-driver.json](./240031-the-night-driver.json) |
 | The Night Fisherman | 134493 | [134493-the-night-fisherman.json](./134493-the-night-fisherman.json) |
 | The Night Guard | 295385 | [295385-the-night-guard.json](./295385-the-night-guard.json) |
@@ -24299,6 +24301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Thief | 232839 | [232839-time-thief.json](./232839-time-thief.json) |
 | Time Thief | 235277 | [235277-time-thief.json](./235277-time-thief.json) |
 | Time to Belong | 271854 | [271854-time-to-belong.json](./271854-time-to-belong.json) |
+| Time to Die | 379802 | [379802-time-to-die.json](./379802-time-to-die.json) |
 | Time to Die: Adventures | 53810 | [53810-time-to-die-adventures.json](./53810-time-to-die-adventures.json) |
 | Time to Escape | 288605 | [288605-time-to-escape.json](./288605-time-to-escape.json) |
 | Time to Feed | 184691 | [184691-time-to-feed.json](./184691-time-to-feed.json) |
@@ -24650,6 +24653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Arcade: Ms. Pac-Man/Galaga | 219352 | [219352-tiny-arcade-ms-pac-man-galaga.json](./219352-tiny-arcade-ms-pac-man-galaga.json) |
 | Tiny Arcade: Pac-Man | 219347 | [219347-tiny-arcade-pac-man.json](./219347-tiny-arcade-pac-man.json) |
 | Tiny Arcade: Pac-Man - Table Top Edition | 219354 | [219354-tiny-arcade-pac-man-table-top-edition.json](./219354-tiny-arcade-pac-man-table-top-edition.json) |
+| Tiny Archer | 379300 | [379300-tiny-archer.json](./379300-tiny-archer.json) |
 | Tiny Archers | 58105 | [58105-tiny-archers.json](./58105-tiny-archers.json) |
 | Tiny Archers: Adam’s Tale | 279399 | [279399-tiny-archers-adam-s-tale.json](./279399-tiny-archers-adam-s-tale.json) |
 | Tiny Arctic Hero | 379160 | [379160-tiny-arctic-hero.json](./379160-tiny-arctic-hero.json) |
@@ -34116,6 +34120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube Adventures Offline Collection 1-3 | 186742 | [186742-tube-adventures-offline-collection-1-3.json](./186742-tube-adventures-offline-collection-1-3.json) |
 | Tube Baby | 252082 | [252082-tube-baby.json](./252082-tube-baby.json) |
 | Tube Be Continued | 272569 | [272569-tube-be-continued.json](./272569-tube-be-continued.json) |
+| Tube Cube | 379617 | [379617-tube-cube.json](./379617-tube-cube.json) |
 | Tube Jumpers | 99406 | [99406-tube-jumpers.json](./99406-tube-jumpers.json) |
 | Tube Noodles | 308173 | [308173-tube-noodles.json](./308173-tube-noodles.json) |
 | Tube Panic | 40163 | [40163-tube-panic.json](./40163-tube-panic.json) |
