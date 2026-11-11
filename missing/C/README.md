@@ -8963,6 +8963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of a Dark Lord: Genesis | 52739 | [52739-chronicles-of-a-dark-lord-genesis.json](./52739-chronicles-of-a-dark-lord-genesis.json) |
 | Chronicles of a Dark Lord: Rhapsody Clash | 34035 | [34035-chronicles-of-a-dark-lord-rhapsody-clash.json](./34035-chronicles-of-a-dark-lord-rhapsody-clash.json) |
 | Chronicles of Albian 2: The Wizbury School of Magic | 339644 | [339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json](./339644-chronicles-of-albian-2-the-wizbury-school-of-magic.json) |
+| Chronicles of Albian 3: The Vanishing Village - Collector's Edition | 373980 | [373980-chronicles-of-albian-3-the-vanishing-village-collectors-edition.json](./373980-chronicles-of-albian-3-the-vanishing-village-collectors-edition.json) |
 | Chronicles of Albian: The Magic Convention | 232567 | [232567-chronicles-of-albian-the-magic-convention.json](./232567-chronicles-of-albian-the-magic-convention.json) |
 | Chronicles of Arcadia | 123541 | [123541-chronicles-of-arcadia.json](./123541-chronicles-of-arcadia.json) |
 | Chronicles of Ash | 169608 | [169608-chronicles-of-ash.json](./169608-chronicles-of-ash.json) |
@@ -14133,6 +14134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer TV Game | 220552 | [220552-computer-tv-game.json](./220552-computer-tv-game.json) |
 | Computer Tycoon | 55888 | [55888-computer-tycoon.json](./55888-computer-tycoon.json) |
 | Computer Underground | 2458 | [2458-computer-underground.json](./2458-computer-underground.json) |
+| Computer Virus | 373978 | [373978-computer-virus.json](./373978-computer-virus.json) |
 | Computer Virus Simulator | 218133 | [218133-computer-virus-simulator.json](./218133-computer-virus-simulator.json) |
 | Computer War | 42162 | [42162-computer-war.json](./42162-computer-war.json) |
 | Computer Word Search | 83459 | [83459-computer-word-search.json](./83459-computer-word-search.json) |
