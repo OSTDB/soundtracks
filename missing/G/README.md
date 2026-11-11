@@ -2457,6 +2457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gauntletak | 372782 | [372782-gauntletak.json](./372782-gauntletak.json) |
 | Gauntleteer | 416209 | [416209-gauntleteer.json](./416209-gauntleteer.json) |
 | Gaurodan | 50350 | [50350-gaurodan.json](./50350-gaurodan.json) |
+| Gaussian Mansion | 381507 | [381507-gaussian-mansion.json](./381507-gaussian-mansion.json) |
 | Gav-Gav Odyssey | 187758 | [187758-gav-gav-odyssey.json](./187758-gav-gav-odyssey.json) |
 | Gavin Tyler's Game Collection | 337662 | [337662-gavin-tylers-game-collection.json](./337662-gavin-tylers-game-collection.json) |
 | Gavin's Quest | 53085 | [53085-gavins-quest.json](./53085-gavins-quest.json) |
@@ -2953,6 +2954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genderfelt | 218526 | [218526-genderfelt.json](./218526-genderfelt.json) |
 | Genderless Haruka's Confinement & Discipline RPG | 82987 | [82987-genderless-harukas-confinement-and-discipline-rpg.json](./82987-genderless-harukas-confinement-and-discipline-rpg.json) |
 | Genderman | 391600 | [391600-genderman.json](./391600-genderman.json) |
+| GenDino | 382074 | [382074-gendino.json](./382074-gendino.json) |
 | Gendo The Gatherer | 404352 | [404352-gendo-the-gatherer.json](./404352-gendo-the-gatherer.json) |
 | Gene | 35898 | [35898-gene.json](./35898-gene.json) |
 | Gene Crawl: Dungeon Descent | 406136 | [406136-gene-crawl-dungeon-descent.json](./406136-gene-crawl-dungeon-descent.json) |
@@ -5850,6 +5852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Kart Safari | 175190 | [175190-go-kart-safari.json](./175190-go-kart-safari.json) |
 | Go Kart Survival | 76824 | [76824-go-kart-survival.json](./76824-go-kart-survival.json) |
 | Go Karting Outdoor | 193719 | [193719-go-karting-outdoor.json](./193719-go-karting-outdoor.json) |
+| Go Keeper | 382110 | [382110-go-keeper.json](./382110-go-keeper.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
 | Go Mecha Ball | 253102 | [253102-go-mecha-ball.json](./253102-go-mecha-ball.json) |
 | Go Minimal | 186704 | [186704-go-minimal.json](./186704-go-minimal.json) |
@@ -6109,6 +6112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobliins 2: The Prince Buffoon | 1931 | [1931-gobliins-2-the-prince-buffoon.json](./1931-gobliins-2-the-prince-buffoon.json) |
 | Gobliins Trilogy | 24763 | [24763-gobliins-trilogy.json](./24763-gobliins-trilogy.json) |
 | Gobliins6 | 387834 | [387834-gobliins6.json](./387834-gobliins6.json) |
+| Goblin | 382089 | [382089-goblin.json](./382089-goblin.json) |
 | Goblin Adventure: Free From Lore | 365163 | [365163-goblin-adventure-free-from-lore.json](./365163-goblin-adventure-free-from-lore.json) |
 | Goblin and Coins | 30638 | [30638-goblin-and-coins.json](./30638-goblin-and-coins.json) |
 | Goblin and Coins 2 | 117715 | [117715-goblin-and-coins-2.json](./117715-goblin-and-coins-2.json) |
