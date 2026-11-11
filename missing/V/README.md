@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ValeGuard | 97901 | [97901-valeguard.json](./97901-valeguard.json) |
 | Valehands | 422782 | [422782-valehands.json](./422782-valehands.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
+| Valence | 390853 | [390853-valence.json](./390853-valence.json) |
 | Valencia Saga: Sophia's rebirth | 109844 | [109844-valencia-saga-sophias-rebirth.json](./109844-valencia-saga-sophias-rebirth.json) |
 | Valencia Surehunter: Staff of the Irismancer | 360544 | [360544-valencia-surehunter-staff-of-the-irismancer.json](./360544-valencia-surehunter-staff-of-the-irismancer.json) |
 | Valendor | 398807 | [398807-valendor.json](./398807-valendor.json) |
