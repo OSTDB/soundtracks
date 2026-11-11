@@ -750,6 +750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenus Bug Eater | 386941 | [386941-xenus-bug-eater.json](./386941-xenus-bug-eater.json) |
 | Xeodrifter | 8506 | [8506-xeodrifter.json](./8506-xeodrifter.json) |
 | Xeodrifter: Special Edition | 52117 | [52117-xeodrifter-special-edition.json](./52117-xeodrifter-special-edition.json) |
+| Xeonjia | 368915 | [368915-xeonjia.json](./368915-xeonjia.json) |
 | XeonMass | 256217 | [256217-xeonmass.json](./256217-xeonmass.json) |
 | Xera: Survival | 103538 | [103538-xera-survival.json](./103538-xera-survival.json) |
 | Xerd no Densetsu | 298848 | [298848-xerd-no-densetsu.json](./298848-xerd-no-densetsu.json) |
