@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Seek! Where is "Picto"-san? | 280584 | [280584-i-seek-where-is-picto-san.json](./280584-i-seek-where-is-picto-san.json) |
 | I Sell Lemonade | 373996 | [373996-i-sell-lemonade.json](./373996-i-sell-lemonade.json) |
 | I Shall Remain | 17234 | [17234-i-shall-remain.json](./17234-i-shall-remain.json) |
+| I Shouldn’t Have Drawn That! | 382713 | [382713-i-shouldn-t-have-drawn-that.json](./382713-i-shouldn-t-have-drawn-that.json) |
 | I Slay Zombies: VR Shooter | 174343 | [174343-i-slay-zombies-vr-shooter.json](./174343-i-slay-zombies-vr-shooter.json) |
 | I Spoke to God | 176143 | [176143-i-spoke-to-god.json](./176143-i-spoke-to-god.json) |
 | I Spy | 359318 | [359318-i-spy.json](./359318-i-spy.json) |
