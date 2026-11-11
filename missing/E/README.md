@@ -5204,6 +5204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ernie's Quiz | 138490 | [138490-ernies-quiz.json](./138490-ernies-quiz.json) |
 | Ero Condo: Remastered | 343882 | [343882-ero-condo-remastered.json](./343882-ero-condo-remastered.json) |
 | Ero Date | 107822 | [107822-ero-date.json](./107822-ero-date.json) |
+| Ero Girl Painter | 385032 | [385032-ero-girl-painter.json](./385032-ero-girl-painter.json) |
 | Ero Manager | 286478 | [286478-ero-manager.json](./286478-ero-manager.json) |
 | Ero Mission | 324014 | [324014-ero-mission.json](./324014-ero-mission.json) |
 | Ero Shooter | 160181 | [160181-ero-shooter.json](./160181-ero-shooter.json) |
