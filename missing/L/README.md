@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Planet | 393213 | [393213-last-planet.json](./393213-last-planet.json) |
 | Last Play: Ragdoll Sandbox | 269090 | [269090-last-play-ragdoll-sandbox.json](./269090-last-play-ragdoll-sandbox.json) |
 | Last Pocket | 261099 | [261099-last-pocket.json](./261099-last-pocket.json) |
+| Last Presence | 351335 | [351335-last-presence.json](./351335-last-presence.json) |
 | Last Protection | 122374 | [122374-last-protection.json](./122374-last-protection.json) |
 | Last Question | 334920 | [334920-last-question.json](./334920-last-question.json) |
 | Last Ranger | 418213 | [418213-last-ranger.json](./418213-last-ranger.json) |
@@ -9437,6 +9438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Sex & Fitness | 389649 | [389649-love-sex-and-fitness.json](./389649-love-sex-and-fitness.json) |
 | Love Sexlife | 97785 | [97785-love-sexlife.json](./97785-love-sexlife.json) |
 | Love Shore | 131561 | [131561-love-shore.json](./131561-love-shore.json) |
+| Love Sick Cats | 351348 | [351348-love-sick-cats.json](./351348-love-sick-cats.json) |
 | Love Signal: D-Mate | 202983 | [202983-love-signal-d-mate.json](./202983-love-signal-d-mate.json) |
 | Love Simulation | 99039 | [99039-love-simulation.json](./99039-love-simulation.json) |
 | Love Sniper | 63116 | [63116-love-sniper.json](./63116-love-sniper.json) |
