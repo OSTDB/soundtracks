@@ -3133,6 +3133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Three Gifts | 325887 | [325887-we-three-gifts.json](./325887-we-three-gifts.json) |
 | We Three: A Love Story | 342359 | [342359-we-three-a-love-story.json](./342359-we-three-a-love-story.json) |
 | We Took That Trip | 203678 | [203678-we-took-that-trip.json](./203678-we-took-that-trip.json) |
+| WE Turkey 8 | 331599 | [331599-we-turkey-8.json](./331599-we-turkey-8.json) |
 | We Used to Play Here | 382120 | [382120-we-used-to-play-here.json](./382120-we-used-to-play-here.json) |
 | We Walked In Darkness | 81734 | [81734-we-walked-in-darkness.json](./81734-we-walked-in-darkness.json) |
 | We Want You | 242646 | [242646-we-want-you.json](./242646-we-want-you.json) |
