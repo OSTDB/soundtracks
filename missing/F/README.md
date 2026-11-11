@@ -6940,6 +6940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher-Price: Ready for School - Kindergarten | 77007 | [77007-fisher-price-ready-for-school-kindergarten.json](./77007-fisher-price-ready-for-school-kindergarten.json) |
 | Fisher-Price: Time To Play - Dollhouse | 324626 | [324626-fisher-price-time-to-play-dollhouse.json](./324626-fisher-price-time-to-play-dollhouse.json) |
 | Fisher-Price: Time To Play - Pet Shop | 283677 | [283677-fisher-price-time-to-play-pet-shop.json](./283677-fisher-price-time-to-play-pet-shop.json) |
+| Fisher's Idle | 336816 | [336816-fishers-idle.json](./336816-fishers-idle.json) |
 | Fisher's Qualm | 218664 | [218664-fishers-qualm.json](./218664-fishers-qualm.json) |
 | Fisher's Road | 387121 | [387121-fishers-road.json](./387121-fishers-road.json) |
 | Fisher's Wharf | 261395 | [261395-fishers-wharf.json](./261395-fishers-wharf.json) |
