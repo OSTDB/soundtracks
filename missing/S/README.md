@@ -1571,6 +1571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Juan | 105463 | [105463-san-juan.json](./105463-san-juan.json) |
 | San Matias: Mafia City | 86342 | [86342-san-matias-mafia-city.json](./86342-san-matias-mafia-city.json) |
 | San Xing Dui | 257235 | [257235-san-xing-dui.json](./257235-san-xing-dui.json) |
+| San Yin | 363064 | [363064-san-yin.json](./363064-san-yin.json) |
 | San Zoolin | 202132 | [202132-san-zoolin.json](./202132-san-zoolin.json) |
 | San-nin Mahjong | 45385 | [45385-san-nin-mahjong.json](./45385-san-nin-mahjong.json) |
 | San-nin Mahjong | 54945 | [54945-san-nin-mahjong.json](./54945-san-nin-mahjong.json) |
@@ -2542,6 +2543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Eggs | 416110 | [416110-save-the-eggs.json](./416110-save-the-eggs.json) |
 | Save the Fish | 180497 | [180497-save-the-fish.json](./180497-save-the-fish.json) |
 | Save the Fish! | 152919 | [152919-save-the-fish.json](./152919-save-the-fish.json) |
+| Save the Flag | 363103 | [363103-save-the-flag.json](./363103-save-the-flag.json) |
 | Save the Flame‪!‬ | 395513 | [395513-save-the-flame.json](./395513-save-the-flame.json) |
 | Save the Frog Keita | 295268 | [295268-save-the-frog-keita.json](./295268-save-the-frog-keita.json) |
 | Save the Furries | 10813 | [10813-save-the-furries.json](./10813-save-the-furries.json) |
@@ -11235,6 +11237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Trench | 424837 | [424837-silent-trench.json](./424837-silent-trench.json) |
 | Silent Tweets | 87987 | [87987-silent-tweets.json](./87987-silent-tweets.json) |
 | Silent Ward: Forever Lost | 395628 | [395628-silent-ward-forever-lost.json](./395628-silent-ward-forever-lost.json) |
+| Silent Watcher | 363080 | [363080-silent-watcher.json](./363080-silent-watcher.json) |
 | Silent Water | 397415 | [397415-silent-water.json](./397415-silent-water.json) |
 | Silent Weapons for Quiet Wars | 285959 | [285959-silent-weapons-for-quiet-wars.json](./285959-silent-weapons-for-quiet-wars.json) |
 | Silent Whisper | 337125 | [337125-silent-whisper.json](./337125-silent-whisper.json) |
@@ -22180,6 +22183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectator 2 | 264629 | [264629-spectator-2.json](./264629-spectator-2.json) |
 | Specteared | 210982 | [210982-specteared.json](./210982-specteared.json) |
 | Specter Hideout | 396297 | [396297-specter-hideout.json](./396297-specter-hideout.json) |
+| Specter Inspector | 363073 | [363073-specter-inspector.json](./363073-specter-inspector.json) |
 | Specter Smash | 409294 | [409294-specter-smash.json](./409294-specter-smash.json) |
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
 | Specter Spelunker Shrinks | 242907 | [242907-specter-spelunker-shrinks.json](./242907-specter-spelunker-shrinks.json) |
@@ -29756,6 +29760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Basketball Superstars | 227371 | [227371-street-basketball-superstars.json](./227371-street-basketball-superstars.json) |
 | Street Basketball: Premium Edition | 411839 | [411839-street-basketball-premium-edition.json](./411839-street-basketball-premium-edition.json) |
 | Street Beat | 69836 | [69836-street-beat.json](./69836-street-beat.json) |
+| Street Bike Fury | 363086 | [363086-street-bike-fury.json](./363086-street-bike-fury.json) |
 | Street Bike: Full Blast HD | 20742 | [20742-street-bike-full-blast-hd.json](./20742-street-bike-full-blast-hd.json) |
 | Street Blaster II Pro | 119413 | [119413-street-blaster-ii-pro.json](./119413-street-blaster-ii-pro.json) |
 | Street Boss | 370180 | [370180-street-boss.json](./370180-street-boss.json) |
@@ -32308,6 +32313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunshine Mahou no Mori | 66062 | [66062-sunshine-mahou-no-mori.json](./66062-sunshine-mahou-no-mori.json) |
 | Sunshine Manor | 138426 | [138426-sunshine-manor.json](./138426-sunshine-manor.json) |
 | Sunshine Secret Book 64 | 132838 | [132838-sunshine-secret-book-64.json](./132838-sunshine-secret-book-64.json) |
+| Sunshine Story | 363091 | [363091-sunshine-story.json](./363091-sunshine-story.json) |
 | Sunshine.EXE | 391266 | [391266-sunshine-exe.json](./391266-sunshine-exe.json) |
 | Sunshore City | 396737 | [396737-sunshore-city.json](./396737-sunshore-city.json) |
 | Sunshower | 183946 | [183946-sunshower.json](./183946-sunshower.json) |
@@ -36009,6 +36015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstore | 328482 | [328482-superstore.json](./328482-superstore.json) |
 | Superstorm Melon Date | 169734 | [169734-superstorm-melon-date.json](./169734-superstorm-melon-date.json) |
 | SuperSuperMarket! | 302364 | [302364-supersupermarket.json](./302364-supersupermarket.json) |
+| Supersweep | 363082 | [363082-supersweep.json](./363082-supersweep.json) |
 | Supertag | 182705 | [182705-supertag.json](./182705-supertag.json) |
 | Supertan Marioner 3D Infinity World Adventures | 198180 | [198180-supertan-marioner-3d-infinity-world-adventures.json](./198180-supertan-marioner-3d-infinity-world-adventures.json) |
 | SuperTanks | 149939 | [149939-supertanks.json](./149939-supertanks.json) |
