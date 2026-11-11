@@ -4160,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Alpha | 141071 | [141071-aeon-alpha.json](./141071-aeon-alpha.json) |
 | Aeon Blood | 169383 | [169383-aeon-blood.json](./169383-aeon-blood.json) |
 | Aeon Command | 8374 | [8374-aeon-command.json](./8374-aeon-command.json) |
+| Aeon Directive: The Interview | 378687 | [378687-aeon-directive-the-interview.json](./378687-aeon-directive-the-interview.json) |
 | Aeon Drive | 135410 | [135410-aeon-drive.json](./135410-aeon-drive.json) |
 | Aeon Flux | 138356 | [138356-aeon-flux.json](./138356-aeon-flux.json) |
 | Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
