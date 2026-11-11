@@ -3435,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CarX Street | 227960 | [227960-carx-street.json](./227960-carx-street.json) |
 | CarX Street: Sunset Speedway | 315228 | [315228-carx-street-sunset-speedway.json](./315228-carx-street-sunset-speedway.json) |
 | CaS-Puz: Camera Surface Puzzle | 261649 | [261649-cas-puz-camera-surface-puzzle.json](./261649-cas-puz-camera-surface-puzzle.json) |
+| Casa Caballero | 355255 | [355255-casa-caballero.json](./355255-casa-caballero.json) |
 | Casa De Diamantes | 211478 | [211478-casa-de-diamantes.json](./211478-casa-de-diamantes.json) |
 | Casa dos Artistas | 163701 | [163701-casa-dos-artistas.json](./163701-casa-dos-artistas.json) |
 | Casa dos Ossos | 300054 | [300054-casa-dos-ossos.json](./300054-casa-dos-ossos.json) |
