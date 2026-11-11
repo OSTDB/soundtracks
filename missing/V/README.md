@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanguard Ace: Vertical Madness | 70916 | [70916-vanguard-ace-vertical-madness.json](./70916-vanguard-ace-vertical-madness.json) |
 | Vanguard Bandits | 43914 | [43914-vanguard-bandits.json](./43914-vanguard-bandits.json) |
 | Vanguard Exiles | 328936 | [328936-vanguard-exiles.json](./328936-vanguard-exiles.json) |
+| Vanguard Galaxy | 347411 | [347411-vanguard-galaxy.json](./347411-vanguard-galaxy.json) |
 | Vanguard Knights | 114199 | [114199-vanguard-knights.json](./114199-vanguard-knights.json) |
 | Vanguard Monsters | 289172 | [289172-vanguard-monsters.json](./289172-vanguard-monsters.json) |
 | Vanguard Of Armor | 394159 | [394159-vanguard-of-armor.json](./394159-vanguard-of-armor.json) |
