@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Peril | 69929 | [69929-yellow-peril.json](./69929-yellow-peril.json) |
 | Yellow Rose | 288151 | [288151-yellow-rose.json](./288151-yellow-rose.json) |
 | Yellow Sails | 182046 | [182046-yellow-sails.json](./182046-yellow-sails.json) |
+| Yellow Sapphire Hotel: The Little Tales Of | 385012 | [385012-yellow-sapphire-hotel-the-little-tales-of.json](./385012-yellow-sapphire-hotel-the-little-tales-of.json) |
 | Yellow Trouble | 324941 | [324941-yellow-trouble.json](./324941-yellow-trouble.json) |
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
 | Yellowcreek Stories: The Cabin Watcher | 392567 | [392567-yellowcreek-stories-the-cabin-watcher.json](./392567-yellowcreek-stories-the-cabin-watcher.json) |
@@ -1367,6 +1368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You&Me | 229256 | [229256-you-and-me.json](./229256-you-and-me.json) |
 | YouCanDoIt? | 163806 | [163806-youcandoit.json](./163806-youcandoit.json) |
 | Youchien Gaiden: Kareinaru Casino Club - Double Draw | 307844 | [307844-youchien-gaiden-kareinaru-casino-club-double-draw.json](./307844-youchien-gaiden-kareinaru-casino-club-double-draw.json) |
+| Youchosis | 385025 | [385025-youchosis.json](./385025-youchosis.json) |
 | Youda Fairy | 52784 | [52784-youda-fairy.json](./52784-youda-fairy.json) |
 | Youda Farmer | 9315 | [9315-youda-farmer.json](./9315-youda-farmer.json) |
 | Youda Farmer 2 | 9314 | [9314-youda-farmer-2.json](./9314-youda-farmer-2.json) |
