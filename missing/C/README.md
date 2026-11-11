@@ -10351,6 +10351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clappy Cheeks: Lust and Magic | 379351 | [379351-clappy-cheeks-lust-and-magic.json](./379351-clappy-cheeks-lust-and-magic.json) |
 | Clara Rockmore’s 105th Birthday | 375819 | [375819-clara-rockmore-s-105th-birthday.json](./375819-clara-rockmore-s-105th-birthday.json) |
 | Clara Stirzaker and the Crypt of Time | 185524 | [185524-clara-stirzaker-and-the-crypt-of-time.json](./185524-clara-stirzaker-and-the-crypt-of-time.json) |
+| Clara Wraiths | 363077 | [363077-clara-wraiths.json](./363077-clara-wraiths.json) |
 | Clara Wraiths 2 | 409042 | [409042-clara-wraiths-2.json](./409042-clara-wraiths-2.json) |
 | Clarc | 11047 | [11047-clarc.json](./11047-clarc.json) |
 | Clarence Goes to the F%ing Store | 166700 | [166700-clarence-goes-to-the-f-ing-store.json](./166700-clarence-goes-to-the-f-ing-store.json) |
@@ -18893,6 +18894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc Mobile: Jungle Rumble! | 55951 | [55951-croc-mobile-jungle-rumble.json](./55951-croc-mobile-jungle-rumble.json) |
 | Croc Mobile: Pinball | 55949 | [55949-croc-mobile-pinball.json](./55949-croc-mobile-pinball.json) |
 | Croc Mobile: Volcanic Panic | 55965 | [55965-croc-mobile-volcanic-panic.json](./55965-croc-mobile-volcanic-panic.json) |
+| Croc Royale | 363067 | [363067-croc-royale.json](./363067-croc-royale.json) |
 | Croc: Legend of the Gobbos | 7901 | [7901-croc-legend-of-the-gobbos.json](./7901-croc-legend-of-the-gobbos.json) |
 | Croc's Dynamite Blast | 377008 | [377008-crocs-dynamite-blast.json](./377008-crocs-dynamite-blast.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
@@ -19993,6 +19995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Corruption: Reclamation | 275741 | [275741-crystal-corruption-reclamation.json](./275741-crystal-corruption-reclamation.json) |
 | Crystal Cosmos | 32244 | [32244-crystal-cosmos.json](./32244-crystal-cosmos.json) |
 | Crystal Cove | 174470 | [174470-crystal-cove.json](./174470-crystal-cove.json) |
+| Crystal Covenant | 363092 | [363092-crystal-covenant.json](./363092-crystal-covenant.json) |
 | Crystal Crepes: Tales of Food and Magic | 379426 | [379426-crystal-crepes-tales-of-food-and-magic.json](./379426-crystal-crepes-tales-of-food-and-magic.json) |
 | Crystal Crisis | 101152 | [101152-crystal-crisis.json](./101152-crystal-crisis.json) |
 | Crystal Crush | 70620 | [70620-crystal-crush.json](./70620-crystal-crush.json) |
@@ -20419,6 +20422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Shift | 182715 | [182715-cube-shift.json](./182715-cube-shift.json) |
 | Cube Shifter | 157267 | [157267-cube-shifter.json](./157267-cube-shifter.json) |
 | Cube Shifu | 174492 | [174492-cube-shifu.json](./174492-cube-shifu.json) |
+| Cube Shooter | 363065 | [363065-cube-shooter.json](./363065-cube-shooter.json) |
 | Cube Smash | 129087 | [129087-cube-smash.json](./129087-cube-smash.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
 | Cube Snap | 88964 | [88964-cube-snap.json](./88964-cube-snap.json) |
