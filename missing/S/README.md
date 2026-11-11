@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Treasure | 101779 | [101779-sacred-treasure.json](./101779-sacred-treasure.json) |
 | Sacred Underworld | 78933 | [78933-sacred-underworld.json](./78933-sacred-underworld.json) |
 | Sacred Valley | 189871 | [189871-sacred-valley.json](./189871-sacred-valley.json) |
+| Sacred World | 372382 | [372382-sacred-world.json](./372382-sacred-world.json) |
 | Sacred X: Heavens Wonderland | 297342 | [297342-sacred-x-heavens-wonderland.json](./297342-sacred-x-heavens-wonderland.json) |
 | Sacred Zodongga Defense | 234576 | [234576-sacred-zodongga-defense.json](./234576-sacred-zodongga-defense.json) |
 | Sacred: Last Pixel of Ancaria | 382855 | [382855-sacred-last-pixel-of-ancaria.json](./382855-sacred-last-pixel-of-ancaria.json) |
@@ -2871,6 +2872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
 | Scarf | 106836 | [106836-scarf.json](./106836-scarf.json) |
 | Scarf | 343774 | [343774-scarf.json](./343774-scarf.json) |
+| Scarf Ace | 372387 | [372387-scarf-ace.json](./372387-scarf-ace.json) |
 | Scarf Tale | 384915 | [384915-scarf-tale.json](./384915-scarf-tale.json) |
 | Scarface: Money. Power. Respect. | 5140 | [5140-scarface-money-power-respect.json](./5140-scarface-money-power-respect.json) |
 | Scarface: The World Is Yours | 5139 | [5139-scarface-the-world-is-yours.json](./5139-scarface-the-world-is-yours.json) |
@@ -9342,6 +9344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | 268079 | [268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json](./268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json) |
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 19460 | [19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
+| Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 371812 | [371812-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./371812-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 371814 | [371814-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./371814-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 80619 | [80619-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./80619-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
 | Shiren The Wanderer: The Tower of Fortune and the Dice of Fate - Eternal Wanderer Edition | 42676 | [42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json](./42676-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate-eternal-wanderer-edition.json) |
@@ -21993,6 +21996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spasibo: Spanking Simulation Box | 414008 | [414008-spasibo-spanking-simulation-box.json](./414008-spasibo-spanking-simulation-box.json) |
 | Spasms of Stupidity | 265725 | [265725-spasms-of-stupidity.json](./265725-spasms-of-stupidity.json) |
 | Spaß Taxi | 128396 | [128396-spa-taxi.json](./128396-spa-taxi.json) |
+| Spatial Anomaly | 372358 | [372358-spatial-anomaly.json](./372358-spatial-anomaly.json) |
 | Spatial Ops | 324913 | [324913-spatial-ops.json](./324913-spatial-ops.json) |
 | Spatium Inter Nos | 184271 | [184271-spatium-inter-nos.json](./184271-spatium-inter-nos.json) |
 | Spatium Locus | 139361 | [139361-spatium-locus.json](./139361-spatium-locus.json) |
@@ -29248,6 +29252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded Hearts | 184914 | [184914-stranded-hearts.json](./184914-stranded-hearts.json) |
 | Stranded II | 74098 | [74098-stranded-ii.json](./74098-stranded-ii.json) |
 | Stranded in Starlight | 348909 | [348909-stranded-in-starlight.json](./348909-stranded-in-starlight.json) |
+| Stranded in the Abyss | 372392 | [372392-stranded-in-the-abyss.json](./372392-stranded-in-the-abyss.json) |
 | Stranded in the Amazon | 210206 | [210206-stranded-in-the-amazon.json](./210206-stranded-in-the-amazon.json) |
 | Stranded In Time | 34884 | [34884-stranded-in-time.json](./34884-stranded-in-time.json) |
 | Stranded Near Nowhere | 102804 | [102804-stranded-near-nowhere.json](./102804-stranded-near-nowhere.json) |
