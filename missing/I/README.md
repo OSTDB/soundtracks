@@ -4278,6 +4278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity R | 340752 | [340752-infinity-r.json](./340752-infinity-r.json) |
 | Infinity Racer | 105235 | [105235-infinity-racer.json](./105235-infinity-racer.json) |
 | Infinity Racer XD | 126754 | [126754-infinity-racer-xd.json](./126754-infinity-racer-xd.json) |
+| Infinity Rage | 363109 | [363109-infinity-rage.json](./363109-infinity-rage.json) |
 | Infinity Rising | 315056 | [315056-infinity-rising.json](./315056-infinity-rising.json) |
 | Infinity Run | 105875 | [105875-infinity-run.json](./105875-infinity-run.json) |
 | Infinity Runner | 17097 | [17097-infinity-runner.json](./17097-infinity-runner.json) |
