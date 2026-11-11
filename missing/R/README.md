@@ -110,6 +110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.E.A.C.T | 195595 | [195595-r-e-a-c-t.json](./195595-r-e-a-c-t.json) |
 | R.E.E.L. | 133367 | [133367-r-e-e-l.json](./133367-r-e-e-l.json) |
 | R.E.G.O | 411917 | [411917-r-e-g-o.json](./411917-r-e-g-o.json) |
+| R.E.M. Rage | 359103 | [359103-r-e-m-rage.json](./359103-r-e-m-rage.json) |
 | R.E.M. scape | 178432 | [178432-r-e-m-scape.json](./178432-r-e-m-scape.json) |
 | R.G.B | 403898 | [403898-r-g-b.json](./403898-r-g-b.json) |
 | R.H. | 237198 | [237198-r-h.json](./237198-r-h.json) |
@@ -11477,6 +11478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ronnarium | 263758 | [263758-ronnarium.json](./263758-ronnarium.json) |
 | Ronnie O'Sullivan's Snooker | 312350 | [312350-ronnie-osullivans-snooker.json](./312350-ronnie-osullivans-snooker.json) |
 | Ronnie O'Sullivan's Snooker | 64669 | [64669-ronnie-osullivans-snooker.json](./64669-ronnie-osullivans-snooker.json) |
+| Ronnie Park | 359132 | [359132-ronnie-park.json](./359132-ronnie-park.json) |
 | Ronny & Julia | 399389 | [399389-ronny-and-julia.json](./399389-ronny-and-julia.json) |
 | Ronny Runs Around Robots | 53526 | [53526-ronny-runs-around-robots.json](./53526-ronny-runs-around-robots.json) |
 | Ronny's Climb | 291079 | [291079-ronnys-climb.json](./291079-ronnys-climb.json) |
