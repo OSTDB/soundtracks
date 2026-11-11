@@ -4047,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit's Grocery | 407796 | [407796-orbits-grocery.json](./407796-orbits-grocery.json) |
 | Orbita | 404659 | [404659-orbita.json](./404659-orbita.json) |
 | Orbital | 208895 | [208895-orbital.json](./208895-orbital.json) |
+| Orbital | 378679 | [378679-orbital.json](./378679-orbital.json) |
 | Orbital | 71675 | [71675-orbital.json](./71675-orbital.json) |
 | Orbital | 80363 | [80363-orbital.json](./80363-orbital.json) |
 | Orbital 1 | 96089 | [96089-orbital-1.json](./96089-orbital-1.json) |
@@ -4087,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbital Siege | 365057 | [365057-orbital-siege.json](./365057-orbital-siege.json) |
 | Orbital Strike VR | 136464 | [136464-orbital-strike-vr.json](./136464-orbital-strike-vr.json) |
 | Orbital Strike: Arena | 32316 | [32316-orbital-strike-arena.json](./32316-orbital-strike-arena.json) |
+| Orbital Survivor | 378680 | [378680-orbital-survivor.json](./378680-orbital-survivor.json) |
 | Orbital Traffic Controller | 399778 | [399778-orbital-traffic-controller.json](./399778-orbital-traffic-controller.json) |
 | Orbital X | 31797 | [31797-orbital-x.json](./31797-orbital-x.json) |
 | Orbitality | 81007 | [81007-orbitality.json](./81007-orbitality.json) |
