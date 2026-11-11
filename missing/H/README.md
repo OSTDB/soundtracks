@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handle with Care! | 419590 | [419590-handle-with-care.json](./419590-handle-with-care.json) |
 | Handle With Care.. | 330816 | [330816-handle-with-care.json](./330816-handle-with-care.json) |
 | Handlebar | 414270 | [414270-handlebar.json](./414270-handlebar.json) |
+| HandleIt | 370610 | [370610-handleit.json](./370610-handleit.json) |
 | Handless Millionaire | 383473 | [383473-handless-millionaire.json](./383473-handless-millionaire.json) |
 | Handless show | 235580 | [235580-handless-show.json](./235580-handless-show.json) |
 | Handlime | 402439 | [402439-handlime.json](./402439-handlime.json) |
@@ -2120,6 +2121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardpunch: Fuck 4Joy | 165812 | [165812-hardpunch-fuck-4joy.json](./165812-hardpunch-fuck-4joy.json) |
 | HardPunch: Sex Plague | 417403 | [417403-hardpunch-sex-plague.json](./417403-hardpunch-sex-plague.json) |
 | Hardrock Sex 3D | 215687 | [215687-hardrock-sex-3d.json](./215687-hardrock-sex-3d.json) |
+| Hardships of a Vampire | 370050 | [370050-hardships-of-a-vampire.json](./370050-hardships-of-a-vampire.json) |
 | Hardwar | 19566 | [19566-hardwar.json](./19566-hardwar.json) |
 | Hardwar | 80278 | [80278-hardwar.json](./80278-hardwar.json) |
 | Hardware Engineering | 31400 | [31400-hardware-engineering.json](./31400-hardware-engineering.json) |
