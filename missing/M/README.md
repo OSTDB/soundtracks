@@ -18099,6 +18099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moriya Rhythm Rainbow | 214937 | [214937-moriya-rhythm-rainbow.json](./214937-moriya-rhythm-rainbow.json) |
 | MoriyaRhythm | 378947 | [378947-moriyarhythm.json](./378947-moriyarhythm.json) |
 | Mörk Borg Heresy Supreme | 317584 | [317584-mork-borg-heresy-supreme.json](./317584-mork-borg-heresy-supreme.json) |
+| Mork Folio | 374508 | [374508-mork-folio.json](./374508-mork-folio.json) |
 | Mörker | 389394 | [389394-morker.json](./389394-morker.json) |
 | Morkredd | 100157 | [100157-morkredd.json](./100157-morkredd.json) |
 | Morkredd: Ra Edition | 164721 | [164721-morkredd-ra-edition.json](./164721-morkredd-ra-edition.json) |
