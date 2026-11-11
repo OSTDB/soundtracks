@@ -418,6 +418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakosatsu | 109181 | [109181-kakosatsu.json](./109181-kakosatsu.json) |
 | Kaku-San-Sei Million Arthur | 44073 | [44073-kaku-san-sei-million-arthur.json](./44073-kaku-san-sei-million-arthur.json) |
 | Kaku: Ancient Seal | 126643 | [126643-kaku-ancient-seal.json](./126643-kaku-ancient-seal.json) |
+| Kaku! Ugoku! Tsukamaeru! Sensei Wii | 344637 | [344637-kaku-ugoku-tsukamaeru-sensei-wii.json](./344637-kaku-ugoku-tsukamaeru-sensei-wii.json) |
 | Kakuchou Shoujo-kei Trinary | 346771 | [346771-kakuchou-shoujo-kei-trinary.json](./346771-kakuchou-shoujo-kei-trinary.json) |
 | Kakudo | 212985 | [212985-kakudo.json](./212985-kakudo.json) |
 | Kakuge Yarou: Fighting Game Creator | 43920 | [43920-kakuge-yarou-fighting-game-creator.json](./43920-kakuge-yarou-fighting-game-creator.json) |
@@ -798,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanjozoku Game: Car Racing & Highway Driving Simulator Remaster | 399798 | [399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json](./399798-kanjozoku-game-car-racing-and-highway-driving-simulator-remaster.json) |
 | Kanjozoku: Wangan Runners | 280666 | [280666-kanjozoku-wangan-runners.json](./280666-kanjozoku-wangan-runners.json) |
 | Kanken Smart Taisaku | 329902 | [329902-kanken-smart-taisaku.json](./329902-kanken-smart-taisaku.json) |
+| Kanken: Minna de Wai-wai Kanji Nou | 344638 | [344638-kanken-minna-de-wai-wai-kanji-nou.json](./344638-kanken-minna-de-wai-wai-kanji-nou.json) |
 | Kanmuri wo Motsu Kami no Te | 221932 | [221932-kanmuri-wo-motsu-kami-no-te.json](./221932-kanmuri-wo-motsu-kami-no-te.json) |
 | Kanna | 127735 | [127735-kanna.json](./127735-kanna.json) |
 | Kanna Maze | 300967 | [300967-kanna-maze.json](./300967-kanna-maze.json) |
@@ -900,6 +902,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kappa no Kai-kata: How to Breed Kappas | 335977 | [335977-kappa-no-kai-kata-how-to-breed-kappas.json](./335977-kappa-no-kai-kata-how-to-breed-kappas.json) |
 | Kappa no Kai-kata: Katan Daibouken | 49417 | [49417-kappa-no-kai-kata-katan-daibouken.json](./49417-kappa-no-kai-kata-katan-daibouken.json) |
 | Kappa Quest | 338296 | [338296-kappa-quest.json](./338296-kappa-quest.json) |
+| Kappa-kun to Asobou: Kappa-kun to 3-biki no Koneko | 344639 | [344639-kappa-kun-to-asobou-kappa-kun-to-3-biki-no-koneko.json](./344639-kappa-kun-to-asobou-kappa-kun-to-3-biki-no-koneko.json) |
+| Kappa-kun to Asobou: Kappa-kun to Mori no Nakama-tachi | 344640 | [344640-kappa-kun-to-asobou-kappa-kun-to-mori-no-nakama-tachi.json](./344640-kappa-kun-to-asobou-kappa-kun-to-mori-no-nakama-tachi.json) |
 | Kappa-kun to Asobou: Kappa-kun to Ota no Shimikai | 64439 | [64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json](./64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json) |
 | Kappa's Asylum | 304565 | [304565-kappas-asylum.json](./304565-kappas-asylum.json) |
 | Kapsul Infinite | 31576 | [31576-kapsul-infinite.json](./31576-kapsul-infinite.json) |
