@@ -14486,6 +14486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror's Edge | 77348 | [77348-mirrors-edge.json](./77348-mirrors-edge.json) |
 | Mirror's Edge 2D | 77347 | [77347-mirrors-edge-2d.json](./77347-mirrors-edge-2d.json) |
 | Mirror's Edge Catalyst: Collector's Edition | 41618 | [41618-mirrors-edge-catalyst-collectors-edition.json](./41618-mirrors-edge-catalyst-collectors-edition.json) |
+| Mirror's Edge: Pure Time Trials | 344631 | [344631-mirrors-edge-pure-time-trials.json](./344631-mirrors-edge-pure-time-trials.json) |
 | Mirrorama | 186824 | [186824-mirrorama.json](./186824-mirrorama.json) |
 | Mirrorama | 421415 | [421415-mirrorama.json](./421415-mirrorama.json) |
 | Mirrorbane | 423375 | [423375-mirrorbane.json](./423375-mirrorbane.json) |
@@ -18215,6 +18216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morgan's Trivia Machine, Jr. | 209192 | [209192-morgans-trivia-machine-jr.json](./209192-morgans-trivia-machine-jr.json) |
 | Morganica | 258963 | [258963-morganica.json](./258963-morganica.json) |
 | Morgenshtern: Easygame | 114295 | [114295-morgenshtern-easygame.json](./114295-morgenshtern-easygame.json) |
+| Morgenstern | 345168 | [345168-morgenstern.json](./345168-morgenstern.json) |
 | Morgman | 298382 | [298382-morgman.json](./298382-morgman.json) |
 | Morgue Rot: The Coroner's Quest | 217384 | [217384-morgue-rot-the-coroners-quest.json](./217384-morgue-rot-the-coroners-quest.json) |
 | Mori | 179430 | [179430-mori.json](./179430-mori.json) |
@@ -19910,6 +19912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Gold: Tooyama no Kinsan Space Chou | 41317 | [41317-mr-gold-tooyama-no-kinsan-space-chou.json](./41317-mr-gold-tooyama-no-kinsan-space-chou.json) |
 | Mr. Golden Revenge Machine | 369327 | [369327-mr-golden-revenge-machine.json](./369327-mr-golden-revenge-machine.json) |
 | Mr. Golf | 57050 | [57050-mr-golf.json](./57050-mr-golf.json) |
+| Mr. Gomoku | 345165 | [345165-mr-gomoku.json](./345165-mr-gomoku.json) |
 | Mr. Goofer’s Mini Game Arcade Party! | 317151 | [317151-mr-goofer-s-mini-game-arcade-party.json](./317151-mr-goofer-s-mini-game-arcade-party.json) |
 | Mr. Gray and the Island Invasion | 177729 | [177729-mr-gray-and-the-island-invasion.json](./177729-mr-gray-and-the-island-invasion.json) |
 | Mr. Grin's Final Act | 382591 | [382591-mr-grins-final-act.json](./382591-mr-grins-final-act.json) |
@@ -22268,6 +22271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Worms | 55718 | [55718-my-little-worms.json](./55718-my-little-worms.json) |
 | My Littlest Skeleton | 258301 | [258301-my-littlest-skeleton.json](./258301-my-littlest-skeleton.json) |
 | My Living Things | 169542 | [169542-my-living-things.json](./169542-my-living-things.json) |
+| My Lord Is Hiring | 345172 | [345172-my-lord-is-hiring.json](./345172-my-lord-is-hiring.json) |
 | My Love 2 | 303286 | [303286-my-love-2.json](./303286-my-love-2.json) |
 | My Love for You is Evermore | 254570 | [254570-my-love-for-you-is-evermore.json](./254570-my-love-for-you-is-evermore.json) |
 | My Love for You is Evermore: Manager's Route | 281582 | [281582-my-love-for-you-is-evermore-managers-route.json](./281582-my-love-for-you-is-evermore-managers-route.json) |
@@ -22976,7 +22980,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MySims Kingdom | 201341 | [201341-mysims-kingdom.json](./201341-mysims-kingdom.json) |
 | MySims Kingdom | 336028 | [336028-mysims-kingdom.json](./336028-mysims-kingdom.json) |
 | MySims Kingdom | 5036 | [5036-mysims-kingdom.json](./5036-mysims-kingdom.json) |
+| MySims Party | 345170 | [345170-mysims-party.json](./345170-mysims-party.json) |
 | MySims Party | 5037 | [5037-mysims-party.json](./5037-mysims-party.json) |
+| MySims Racing | 345175 | [345175-mysims-racing.json](./345175-mysims-racing.json) |
 | MySims Racing | 5038 | [5038-mysims-racing.json](./5038-mysims-racing.json) |
 | MySims SkyHeroes | 192926 | [192926-mysims-skyheroes.json](./192926-mysims-skyheroes.json) |
 | MySims SkyHeroes | 7093 | [7093-mysims-skyheroes.json](./7093-mysims-skyheroes.json) |
