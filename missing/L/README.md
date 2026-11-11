@@ -4727,6 +4727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life as Designed | 153348 | [153348-life-as-designed.json](./153348-life-as-designed.json) |
 | Life at 12:47PM | 364239 | [364239-life-at-12-47pm.json](./364239-life-at-12-47pm.json) |
 | Life At Space | 74139 | [74139-life-at-space.json](./74139-life-at-space.json) |
+| Life Below | 348506 | [348506-life-below.json](./348506-life-below.json) |
 | Life Beyond | 90221 | [90221-life-beyond.json](./90221-life-beyond.json) |
 | Life Blood | 285538 | [285538-life-blood.json](./285538-life-blood.json) |
 | Life Bubble | 300870 | [300870-life-bubble.json](./300870-life-bubble.json) |
@@ -6231,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Cat Doctor | 300846 | [300846-little-cat-doctor.json](./300846-little-cat-doctor.json) |
 | Little Cells | 28110 | [28110-little-cells.json](./28110-little-cells.json) |
 | Little Cheese Works | 263193 | [263193-little-cheese-works.json](./263193-little-cheese-works.json) |
+| Little Chef | 348498 | [348498-little-chef.json](./348498-little-chef.json) |
 | Little Chef: Cozy Cooking | 361873 | [361873-little-chef-cozy-cooking.json](./361873-little-chef-cozy-cooking.json) |
 | Little Chefs: Co-op | 277751 | [277751-little-chefs-co-op.json](./277751-little-chefs-co-op.json) |
 | Little Cherub | 120208 | [120208-little-cherub.json](./120208-little-cherub.json) |
