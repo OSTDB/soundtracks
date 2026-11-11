@@ -1900,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanrio Carnival 2 | 48637 | [48637-sanrio-carnival-2.json](./48637-sanrio-carnival-2.json) |
 | Sanrio Characters Miracle Match: Magical Onigokko | 334648 | [334648-sanrio-characters-miracle-match-magical-onigokko.json](./334648-sanrio-characters-miracle-match-magical-onigokko.json) |
 | Sanrio Characters Picross | 97222 | [97222-sanrio-characters-picross.json](./97222-sanrio-characters-picross.json) |
+| Sanrio Characters Smash Festa! | 395909 | [395909-sanrio-characters-smash-festa.json](./395909-sanrio-characters-smash-festa.json) |
 | Sanrio Characters x Tetris | 208279 | [208279-sanrio-characters-x-tetris.json](./208279-sanrio-characters-x-tetris.json) |
 | Sanrio Characters: Miracle Match | 204737 | [204737-sanrio-characters-miracle-match.json](./204737-sanrio-characters-miracle-match.json) |
 | Sanrio Cup: Pon-pon Volley | 48639 | [48639-sanrio-cup-pon-pon-volley.json](./48639-sanrio-cup-pon-pon-volley.json) |
@@ -24055,6 +24056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sportball Challenge | 54394 | [54394-sportball-challenge.json](./54394-sportball-challenge.json) |
 | Sportfischen Professional | 130851 | [130851-sportfischen-professional.json](./130851-sportfischen-professional.json) |
 | Sporti's Universe | 290636 | [290636-sportis-universe.json](./290636-sportis-universe.json) |
+| Sportia | 395930 | [395930-sportia.json](./395930-sportia.json) |
 | Sporting Clays | 207246 | [207246-sporting-clays.json](./207246-sporting-clays.json) |
 | Sporting Goods Shop | 342895 | [342895-sporting-goods-shop.json](./342895-sporting-goods-shop.json) |
 | Sporting Triangles | 72062 | [72062-sporting-triangles.json](./72062-sporting-triangles.json) |
@@ -25274,6 +25276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Battle | 415797 | [415797-star-battle.json](./415797-star-battle.json) |
 | Star Battle | 66806 | [66806-star-battle.json](./66806-star-battle.json) |
 | Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
+| Star Beast | 395937 | [395937-star-beast.json](./395937-star-beast.json) |
 | Star Beasts: Meteor Version | 227920 | [227920-star-beasts-meteor-version.json](./227920-star-beasts-meteor-version.json) |
 | Star Billions | 56999 | [56999-star-billions.json](./56999-star-billions.json) |
 | Star Bind | 287241 | [287241-star-bind.json](./287241-star-bind.json) |
@@ -31474,6 +31477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suīyáng: Shī Yǔ Huǒ | 374626 | [374626-suiyang-shi-yu-huo.json](./374626-suiyang-shi-yu-huo.json) |
 | Suiyue | 180427 | [180427-suiyue.json](./180427-suiyue.json) |
 | Suizokukan Project: Fish Hunter he no Michi | 385927 | [385927-suizokukan-project-fish-hunter-he-no-michi.json](./385927-suizokukan-project-fish-hunter-he-no-michi.json) |
+| Sujeto 124: El Hombre de Traje | 395919 | [395919-sujeto-124-el-hombre-de-traje.json](./395919-sujeto-124-el-hombre-de-traje.json) |
 | Sujimon Quest | 258343 | [258343-sujimon-quest.json](./258343-sujimon-quest.json) |
 | Suka's Escape | 126872 | [126872-sukas-escape.json](./126872-sukas-escape.json) |
 | Sukakko | 156048 | [156048-sukakko.json](./156048-sukakko.json) |
@@ -35445,6 +35449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperDude | 103923 | [103923-superdude.json](./103923-superdude.json) |
 | SuperDungeon MegaCorp | 190995 | [190995-superdungeon-megacorp.json](./190995-superdungeon-megacorp.json) |
 | SuperEat Man | 296401 | [296401-supereat-man.json](./296401-supereat-man.json) |
+| SuperEats | 395331 | [395331-supereats.json](./395331-supereats.json) |
 | SuperEpic: The Entertainment War | 126820 | [126820-superepic-the-entertainment-war.json](./126820-superepic-the-entertainment-war.json) |
 | SuperEpic: The Entertainment War - Badge Edition | 167027 | [167027-superepic-the-entertainment-war-badge-edition.json](./167027-superepic-the-entertainment-war-badge-edition.json) |
 | Superfetch Dog | 263656 | [263656-superfetch-dog.json](./263656-superfetch-dog.json) |
