@@ -1072,6 +1072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palmoni | 420959 | [420959-palmoni.json](./420959-palmoni.json) |
 | Palmora | 348679 | [348679-palmora.json](./348679-palmora.json) |
 | PalmRide: After Flight | 288754 | [288754-palmride-after-flight.json](./288754-palmride-after-flight.json) |
+| Palmvil Haunted Villa | 371142 | [371142-palmvil-haunted-villa.json](./371142-palmvil-haunted-villa.json) |
 | Palmyra Orphanage | 120719 | [120719-palmyra-orphanage.json](./120719-palmyra-orphanage.json) |
 | Palmyra: Nessa no Umi to Binaru Senki | 194924 | [194924-palmyra-nessa-no-umi-to-binaru-senki.json](./194924-palmyra-nessa-no-umi-to-binaru-senki.json) |
 | Palmystery | 213056 | [213056-palmystery.json](./213056-palmystery.json) |
@@ -16607,6 +16608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Castaway | 187690 | [187690-project-castaway.json](./187690-project-castaway.json) |
 | Project Castlevania Z | 337172 | [337172-project-castlevania-z.json](./337172-project-castlevania-z.json) |
 | Project Cataclysm | 393653 | [393653-project-cataclysm.json](./393653-project-cataclysm.json) |
+| Project CCTV | 371155 | [371155-project-cctv.json](./371155-project-cctv.json) |
 | Project Centauri | 115494 | [115494-project-centauri.json](./115494-project-centauri.json) |
 | Project Cerberus | 42875 | [42875-project-cerberus.json](./42875-project-cerberus.json) |
 | Project Chameleon | 279584 | [279584-project-chameleon.json](./279584-project-chameleon.json) |
@@ -17736,6 +17738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxy Blade | 62825 | [62825-proxy-blade.json](./62825-proxy-blade.json) |
 | Proxy Blade Zero | 17644 | [17644-proxy-blade-zero.json](./17644-proxy-blade-zero.json) |
 | Proxy Comics HD | 62252 | [62252-proxy-comics-hd.json](./62252-proxy-comics-hd.json) |
+| Proxy Training Corp | 371178 | [371178-proxy-training-corp.json](./371178-proxy-training-corp.json) |
 | Proxy: Ultimate Hacker | 31260 | [31260-proxy-ultimate-hacker.json](./31260-proxy-ultimate-hacker.json) |
 | Proxyah | 121170 | [121170-proxyah.json](./121170-proxyah.json) |
 | Proxyma | 362021 | [362021-proxyma.json](./362021-proxyma.json) |
