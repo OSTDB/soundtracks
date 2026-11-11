@@ -3225,6 +3225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haze Man: The Local Hero | 327952 | [327952-haze-man-the-local-hero.json](./327952-haze-man-the-local-hero.json) |
 | Haze of Lucidity: The Fish | 390087 | [390087-haze-of-lucidity-the-fish.json](./390087-haze-of-lucidity-the-fish.json) |
 | Haze of Lucidity: The Fracture | 364943 | [364943-haze-of-lucidity-the-fracture.json](./364943-haze-of-lucidity-the-fracture.json) |
+| Haze Reverb | 322901 | [322901-haze-reverb.json](./322901-haze-reverb.json) |
 | Haze Together | 411047 | [411047-haze-together.json](./411047-haze-together.json) |
 | Haze's Hectic Halloween Happenstance | 330054 | [330054-hazes-hectic-halloween-happenstance.json](./330054-hazes-hectic-halloween-happenstance.json) |
 | Hazel | 227930 | [227930-hazel.json](./227930-hazel.json) |
@@ -3765,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartstop | 199510 | [199510-heartstop.json](./199510-heartstop.json) |
 | Heartstop Tour | 375069 | [375069-heartstop-tour.json](./375069-heartstop-tour.json) |
 | Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
+| Heartsworn Abyss | 323467 | [323467-heartsworn-abyss.json](./323467-heartsworn-abyss.json) |
 | HeartWare | 309806 | [309806-heartware.json](./309806-heartware.json) |
 | HeartWeaver | 322090 | [322090-heartweaver.json](./322090-heartweaver.json) |
 | Heartwell | 276873 | [276873-heartwell.json](./276873-heartwell.json) |
@@ -8147,6 +8149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Survival | 281945 | [281945-high-school-survival.json](./281945-high-school-survival.json) |
 | High School Vampire Girlfriend | 206003 | [206003-high-school-vampire-girlfriend.json](./206003-high-school-vampire-girlfriend.json) |
 | High School: Bisexual Experience | 106590 | [106590-high-school-bisexual-experience.json](./106590-high-school-bisexual-experience.json) |
+| High Score | 323457 | [323457-high-score.json](./323457-high-score.json) |
 | High Sea Saga | 202849 | [202849-high-sea-saga.json](./202849-high-sea-saga.json) |
 | High Sea Saga DX | 250793 | [250793-high-sea-saga-dx.json](./250793-high-sea-saga-dx.json) |
 | High Seas Havoc | 10150 | [10150-high-seas-havoc.json](./10150-high-seas-havoc.json) |
