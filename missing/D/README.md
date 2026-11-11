@@ -4753,6 +4753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death by Refund | 216670 | [216670-death-by-refund.json](./216670-death-by-refund.json) |
 | Death by Scrolling | 345153 | [345153-death-by-scrolling.json](./345153-death-by-scrolling.json) |
 | Death By Taxes | 414473 | [414473-death-by-taxes.json](./414473-death-by-taxes.json) |
+| Death By Tomato | 368958 | [368958-death-by-tomato.json](./368958-death-by-tomato.json) |
 | Death Cargo | 55130 | [55130-death-cargo.json](./55130-death-cargo.json) |
 | Death Carnival | 130677 | [130677-death-carnival.json](./130677-death-carnival.json) |
 | Death Cave | 115267 | [115267-death-cave.json](./115267-death-cave.json) |
@@ -9456,6 +9457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Like a Hero | 153891 | [153891-die-like-a-hero.json](./153891-die-like-a-hero.json) |
 | Die Meeple | 416777 | [416777-die-meeple.json](./416777-die-meeple.json) |
 | Die O'Clock | 214161 | [214161-die-oclock.json](./214161-die-oclock.json) |
+| Die or Die | 369473 | [369473-die-or-die.json](./369473-die-or-die.json) |
 | Die Original Moorhuhn Jagd | 206592 | [206592-die-original-moorhuhn-jagd.json](./206592-die-original-moorhuhn-jagd.json) |
 | Die Original Moorhuhn Jagd | 83237 | [83237-die-original-moorhuhn-jagd.json](./83237-die-original-moorhuhn-jagd.json) |
 | Die Pferdebande: Falsches Spiel bei der Pferdeshow | 94956 | [94956-die-pferdebande-falsches-spiel-bei-der-pferdeshow.json](./94956-die-pferdebande-falsches-spiel-bei-der-pferdeshow.json) |
