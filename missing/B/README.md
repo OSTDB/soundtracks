@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.I.D. | 390619 | [390619-b-i-d.json](./390619-b-i-d.json) |
 | B.I.G | 226247 | [226247-b-i-g.json](./226247-b-i-g.json) |
 | B.I.N.D. | 212907 | [212907-b-i-n-d.json](./212907-b-i-n-d.json) |
+| B.I.R.D. | 389796 | [389796-b-i-r-d.json](./389796-b-i-r-d.json) |
 | B.I.R.D.S. | 362249 | [362249-b-i-r-d-s.json](./362249-b-i-r-d-s.json) |
 | B.I.T | 99182 | [99182-b-i-t.json](./99182-b-i-t.json) |
 | B.L.A.C.K. 1 | 211467 | [211467-b-l-a-c-k-1.json](./211467-b-l-a-c-k-1.json) |
@@ -1012,7 +1013,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -6161,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedtime Nightmare | 377969 | [377969-bedtime-nightmare.json](./377969-bedtime-nightmare.json) |
 | Bedtime Stories | 371963 | [371963-bedtime-stories.json](./371963-bedtime-stories.json) |
 | Bedtime Stories 2 | 370252 | [370252-bedtime-stories-2.json](./370252-bedtime-stories-2.json) |
+| Bedtime Stories 3 | 389807 | [389807-bedtime-stories-3.json](./389807-bedtime-stories-3.json) |
 | Bedtime Story: Saint | 338208 | [338208-bedtime-story-saint.json](./338208-bedtime-story-saint.json) |
 | Bedtime: Turn Off the Life | 298614 | [298614-bedtime-turn-off-the-life.json](./298614-bedtime-turn-off-the-life.json) |
 | Bee | 78084 | [78084-bee.json](./78084-bee.json) |
@@ -8644,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biohazard: Escape Room | 258461 | [258461-biohazard-escape-room.json](./258461-biohazard-escape-room.json) |
 | Biohazard: Siberia | 324324 | [324324-biohazard-siberia.json](./324324-biohazard-siberia.json) |
 | Biohazard: The Mercenaries 3D & Revelations | 140931 | [140931-biohazard-the-mercenaries-3d-and-revelations.json](./140931-biohazard-the-mercenaries-3d-and-revelations.json) |
+| Biohazardous Love | 389771 | [389771-biohazardous-love.json](./389771-biohazardous-love.json) |
 | Bioid | 160047 | [160047-bioid.json](./160047-bioid.json) |
 | Biok | 175223 | [175223-biok.json](./175223-biok.json) |
 | BioKept | 391679 | [391679-biokept.json](./391679-biokept.json) |
@@ -13519,6 +13521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bond: Wish of the Forest | 178193 | [178193-bond-wish-of-the-forest.json](./178193-bond-wish-of-the-forest.json) |
 | Bondage Black Jack | 151621 | [151621-bondage-black-jack.json](./151621-bondage-black-jack.json) |
 | Bondage Girl | 156715 | [156715-bondage-girl.json](./156715-bondage-girl.json) |
+| Bondage Girl | 389787 | [389787-bondage-girl.json](./389787-bondage-girl.json) |
 | Bondage Nightmare | 385897 | [385897-bondage-nightmare.json](./385897-bondage-nightmare.json) |
 | Bonded in Darkness | 320893 | [320893-bonded-in-darkness.json](./320893-bonded-in-darkness.json) |
 | Bonded Realities | 66109 | [66109-bonded-realities.json](./66109-bonded-realities.json) |
@@ -17805,6 +17808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Budget Renovation Simulator | 407482 | [407482-budget-renovation-simulator.json](./407482-budget-renovation-simulator.json) |
 | Budgie Genetics Simulator | 219731 | [219731-budgie-genetics-simulator.json](./219731-budgie-genetics-simulator.json) |
 | Budni | 287359 | [287359-budni.json](./287359-budni.json) |
+| Budo Girl War: Maid | 389777 | [389777-budo-girl-war-maid.json](./389777-budo-girl-war-maid.json) |
 | Buds | 176863 | [176863-buds.json](./176863-buds.json) |
 | Buenos Aires Mirror Line | 391162 | [391162-buenos-aires-mirror-line.json](./391162-buenos-aires-mirror-line.json) |
 | Buff Doge | 219066 | [219066-buff-doge.json](./219066-buff-doge.json) |
