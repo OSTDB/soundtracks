@@ -6057,6 +6057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Heroes Allowed! VR | 36870 | [36870-no-heroes-allowed-vr.json](./36870-no-heroes-allowed-vr.json) |
 | No Heroes Here | 54979 | [54979-no-heroes-here.json](./54979-no-heroes-here.json) |
 | No Heroes Here 2 | 292448 | [292448-no-heroes-here-2.json](./292448-no-heroes-here-2.json) |
+| No Hesitation | 393200 | [393200-no-hesitation.json](./393200-no-hesitation.json) |
 | No Honor | 166827 | [166827-no-honor.json](./166827-no-honor.json) |
 | No Hope | 149685 | [149685-no-hope.json](./149685-no-hope.json) |
 | No Hope For Us | 356389 | [356389-no-hope-for-us.json](./356389-no-hope-for-us.json) |
