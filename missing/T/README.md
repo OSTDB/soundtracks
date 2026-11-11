@@ -8825,6 +8825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Calculator | 114080 | [114080-the-devils-calculator.json](./114080-the-devils-calculator.json) |
 | The Devil's Chosen | 201449 | [201449-the-devils-chosen.json](./201449-the-devils-chosen.json) |
 | The Devil's Dance | 413398 | [413398-the-devils-dance.json](./413398-the-devils-dance.json) |
+| The Devil's Due | 345164 | [345164-the-devils-due.json](./345164-the-devils-due.json) |
 | The Devil's Eight | 55126 | [55126-the-devils-eight.json](./55126-the-devils-eight.json) |
 | The Devil's Face | 236215 | [236215-the-devils-face.json](./236215-the-devils-face.json) |
 | The Devil's Gambit | 186082 | [186082-the-devils-gambit.json](./186082-the-devils-gambit.json) |
@@ -12905,6 +12906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Samual | 191972 | [191972-the-last-of-samual.json](./191972-the-last-of-samual.json) |
 | The Last of the 9 Lives | 319179 | [319179-the-last-of-the-9-lives.json](./319179-the-last-of-the-9-lives.json) |
 | The Last of The Core | 241850 | [241850-the-last-of-the-core.json](./241850-the-last-of-the-core.json) |
+| The Last of the Lords of Ice | 345188 | [345188-the-last-of-the-lords-of-ice.json](./345188-the-last-of-the-lords-of-ice.json) |
 | The Last of the Summer Tank | 286014 | [286014-the-last-of-the-summer-tank.json](./286014-the-last-of-the-summer-tank.json) |
 | The Last of the Survivors | 333647 | [333647-the-last-of-the-survivors.json](./333647-the-last-of-the-survivors.json) |
 | The Last of Them | 223417 | [223417-the-last-of-them.json](./223417-the-last-of-them.json) |
@@ -20009,6 +20011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Weald | 153124 | [153124-the-weald.json](./153124-the-weald.json) |
 | The Weapon | 125577 | [125577-the-weapon.json](./125577-the-weapon.json) |
 | The Weapon King | 260761 | [260761-the-weapon-king.json](./260761-the-weapon-king.json) |
+| The Weather Kitchen | 344642 | [344642-the-weather-kitchen.json](./344642-the-weather-kitchen.json) |
 | The Weather Up There | 329335 | [329335-the-weather-up-there.json](./329335-the-weather-up-there.json) |
 | The Weave of Heroes - RPG | 27755 | [27755-the-weave-of-heroes-rpg.json](./27755-the-weave-of-heroes-rpg.json) |
 | The Wedding | 286531 | [286531-the-wedding.json](./286531-the-wedding.json) |
@@ -22020,6 +22023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderhawk | 12913 | [12913-thunderhawk.json](./12913-thunderhawk.json) |
 | Thunderhawk AH-73M | 12929 | [12929-thunderhawk-ah-73m.json](./12929-thunderhawk-ah-73m.json) |
 | Thunderhawk: Danger Close | 387365 | [387365-thunderhawk-danger-close.json](./387365-thunderhawk-danger-close.json) |
+| Thunderhead | 344629 | [344629-thunderhead.json](./344629-thunderhead.json) |
 | Thundering Skies | 75600 | [75600-thundering-skies.json](./75600-thundering-skies.json) |
 | Thunderman: Adventures in Another Realm | 357668 | [357668-thunderman-adventures-in-another-realm.json](./357668-thunderman-adventures-in-another-realm.json) |
 | Thunderpeak | 256854 | [256854-thunderpeak.json](./256854-thunderpeak.json) |
@@ -25777,6 +25781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toca Life: Town | 74728 | [74728-toca-life-town.json](./74728-toca-life-town.json) |
 | Toca Life: Vacation | 181586 | [181586-toca-life-vacation.json](./181586-toca-life-vacation.json) |
 | Toca Mystery House | 103744 | [103744-toca-mystery-house.json](./103744-toca-mystery-house.json) |
+| Toca Nature | 345160 | [345160-toca-nature.json](./345160-toca-nature.json) |
 | Toca Pet Doctor | 74729 | [74729-toca-pet-doctor.json](./74729-toca-pet-doctor.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
@@ -27511,6 +27516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toss Office | 422029 | [422029-toss-office.json](./422029-toss-office.json) |
 | Toss the Turtle | 131613 | [131613-toss-the-turtle.json](./131613-toss-the-turtle.json) |
 | Toss! | 138028 | [138028-toss.json](./138028-toss.json) |
+| Tossdown | 345182 | [345182-tossdown.json](./345182-tossdown.json) |
 | Tota Life: Parent-kid Suite | 299206 | [299206-tota-life-parent-kid-suite.json](./299206-tota-life-parent-kid-suite.json) |
 | Total 15 | 105155 | [105155-total-15.json](./105155-total-15.json) |
 | Total Adrenaline 3D Drag Racing | 73708 | [73708-total-adrenaline-3d-drag-racing.json](./73708-total-adrenaline-3d-drag-racing.json) |
