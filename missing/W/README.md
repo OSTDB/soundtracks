@@ -8332,6 +8332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Working Hard Collection | 257497 | [257497-working-hard-collection.json](./257497-working-hard-collection.json) |
 | Working Noir | 255857 | [255857-working-noir.json](./255857-working-noir.json) |
 | Working On It | 298622 | [298622-working-on-it.json](./298622-working-on-it.json) |
+| Working Sakuya | 376958 | [376958-working-sakuya.json](./376958-working-sakuya.json) |
 | Working Stiffs | 281335 | [281335-working-stiffs.json](./281335-working-stiffs.json) |
 | Working Through The End | 388180 | [388180-working-through-the-end.json](./388180-working-through-the-end.json) |
 | Working Tidal | 176142 | [176142-working-tidal.json](./176142-working-tidal.json) |
@@ -9424,6 +9425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woten DX: Traveller's Dream | 220723 | [220723-woten-dx-travellers-dream.json](./220723-woten-dx-travellers-dream.json) |
 | Wotheguel | 155680 | [155680-wotheguel.json](./155680-wotheguel.json) |
 | Would You Call Him a Bad Man? | 337932 | [337932-would-you-call-him-a-bad-man.json](./337932-would-you-call-him-a-bad-man.json) |
+| Would You Help Me Draw a Picture? | 376959 | [376959-would-you-help-me-draw-a-picture.json](./376959-would-you-help-me-draw-a-picture.json) |
 | Would You Lie with Me and Just Forget the World | 382582 | [382582-would-you-lie-with-me-and-just-forget-the-world.json](./382582-would-you-lie-with-me-and-just-forget-the-world.json) |
 | Would You Like to Run an Idol Café? | 156789 | [156789-would-you-like-to-run-an-idol-cafe.json](./156789-would-you-like-to-run-an-idol-cafe.json) |
 | Would You Like to Run an Idol Café? 2 | 173902 | [173902-would-you-like-to-run-an-idol-cafe-2.json](./173902-would-you-like-to-run-an-idol-cafe-2.json) |
