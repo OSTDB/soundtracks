@@ -29033,7 +29033,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonedeep | 120405 | [120405-stonedeep.json](./120405-stonedeep.json) |
 | Stonedef | 202530 | [202530-stonedef.json](./202530-stonedef.json) |
 | Stonefall | 416058 | [416058-stonefall.json](./416058-stonefall.json) |
-| Stonefly | 144171 | [144171-stonefly.json](./144171-stonefly.json) |
 | Stonefly: Collector's Edition | 254225 | [254225-stonefly-collectors-edition.json](./254225-stonefly-collectors-edition.json) |
 | Stonegate | 270213 | [270213-stonegate.json](./270213-stonegate.json) |
 | Stonegeon | 200872 | [200872-stonegeon.json](./200872-stonegeon.json) |
