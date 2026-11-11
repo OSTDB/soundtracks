@@ -2922,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Slimes | 419964 | [419964-farming-slimes.json](./419964-farming-slimes.json) |
 | Farming Supermarket Simulator | 312459 | [312459-farming-supermarket-simulator.json](./312459-farming-supermarket-simulator.json) |
 | Farming Sweeper | 191201 | [191201-farming-sweeper.json](./191201-farming-sweeper.json) |
+| Farming Through The End | 319473 | [319473-farming-through-the-end.json](./319473-farming-through-the-end.json) |
 | Farming Tractor Simulator | 233438 | [233438-farming-tractor-simulator.json](./233438-farming-tractor-simulator.json) |
 | Farming Tractor Simulator 2021: Farmer Life | 174084 | [174084-farming-tractor-simulator-2021-farmer-life.json](./174084-farming-tractor-simulator-2021-farmer-life.json) |
 | Farming Tractor Simulator 2023: Drive Combine & Trucks | 263497 | [263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json](./263497-farming-tractor-simulator-2023-drive-combine-and-trucks.json) |
@@ -7964,6 +7965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Hiders | 37600 | [37600-flash-hiders.json](./37600-flash-hiders.json) |
 | Flash Knight Nymphelia | 392701 | [392701-flash-knight-nymphelia.json](./392701-flash-knight-nymphelia.json) |
 | Flash Koibito-Kun | 37547 | [37547-flash-koibito-kun.json](./37547-flash-koibito-kun.json) |
+| Flash McCoy | 319336 | [319336-flash-mccoy.json](./319336-flash-mccoy.json) |
 | Flash Memory | 230692 | [230692-flash-memory.json](./230692-flash-memory.json) |
 | Flash Motor Karen | 58570 | [58570-flash-motor-karen.json](./58570-flash-motor-karen.json) |
 | Flash of the Blade X | 282527 | [282527-flash-of-the-blade-x.json](./282527-flash-of-the-blade-x.json) |
@@ -13783,6 +13785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Mart Simulator | 349325 | [349325-fruit-mart-simulator.json](./349325-fruit-mart-simulator.json) |
 | Fruit Master | 105796 | [105796-fruit-master.json](./105796-fruit-master.json) |
 | Fruit Master | 105852 | [105852-fruit-master.json](./105852-fruit-master.json) |
+| Fruit Mazes | 319521 | [319521-fruit-mazes.json](./319521-fruit-mazes.json) |
 | Fruit Merge | 322806 | [322806-fruit-merge.json](./322806-fruit-merge.json) |
 | Fruit Mess | 264386 | [264386-fruit-mess.json](./264386-fruit-mess.json) |
 | Fruit Mountain Party | 334302 | [334302-fruit-mountain-party.json](./334302-fruit-mountain-party.json) |
