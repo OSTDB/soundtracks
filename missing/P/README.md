@@ -2895,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pas's restaurant | 346618 | [346618-pass-restaurant.json](./346618-pass-restaurant.json) |
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
 | Pasapalabra | 302728 | [302728-pasapalabra.json](./302728-pasapalabra.json) |
+| Pascal's Requiem | 356950 | [356950-pascals-requiem.json](./356950-pascals-requiem.json) |
 | Pascal's Wager | 125912 | [125912-pascals-wager.json](./125912-pascals-wager.json) |
 | Pascal's Wager: Definitive Edition | 143830 | [143830-pascals-wager-definitive-edition.json](./143830-pascals-wager-definitive-edition.json) |
 | Pascal's Wager: The Tides of Oblivion | 139084 | [139084-pascals-wager-the-tides-of-oblivion.json](./139084-pascals-wager-the-tides-of-oblivion.json) |
@@ -9606,6 +9607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plains of Havoc | 289306 | [289306-plains-of-havoc.json](./289306-plains-of-havoc.json) |
 | Plains of Pain | 235621 | [235621-plains-of-pain.json](./235621-plains-of-pain.json) |
 | Plairdes | 224936 | [224936-plairdes.json](./224936-plairdes.json) |
+| Plambra Dash: The Parkour Game Part I | 356928 | [356928-plambra-dash-the-parkour-game-part-i.json](./356928-plambra-dash-the-parkour-game-part-i.json) |
 | Plambra Dash: The Parkour Game Part II | 361605 | [361605-plambra-dash-the-parkour-game-part-ii.json](./361605-plambra-dash-the-parkour-game-part-ii.json) |
 | Plan 8 | 125632 | [125632-plan-8.json](./125632-plan-8.json) |
 | Plan 9 From Outer Space | 12717 | [12717-plan-9-from-outer-space.json](./12717-plan-9-from-outer-space.json) |
@@ -9758,6 +9760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Guardian VR | 76519 | [76519-planet-guardian-vr.json](./76519-planet-guardian-vr.json) |
 | Planet Gula | 145557 | [145557-planet-gula.json](./145557-planet-gula.json) |
 | Planet Harriers | 72972 | [72972-planet-harriers.json](./72972-planet-harriers.json) |
+| Planet Hoarders | 356953 | [356953-planet-hoarders.json](./356953-planet-hoarders.json) |
 | Planet Hop | 158082 | [158082-planet-hop.json](./158082-planet-hop.json) |
 | Planet Hotpot | 173241 | [173241-planet-hotpot.json](./173241-planet-hotpot.json) |
 | Planet in the Shadows | 33362 | [33362-planet-in-the-shadows.json](./33362-planet-in-the-shadows.json) |
@@ -18470,6 +18473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Ball Mario Bros. | 91994 | [91994-punch-ball-mario-bros.json](./91994-punch-ball-mario-bros.json) |
 | Punch Bomb | 31852 | [31852-punch-bomb.json](./31852-punch-bomb.json) |
 | Punch Boy | 83212 | [83212-punch-boy.json](./83212-punch-boy.json) |
+| Punch Champs | 356941 | [356941-punch-champs.json](./356941-punch-champs.json) |
 | Punch Chess | 332237 | [332237-punch-chess.json](./332237-punch-chess.json) |
 | Punch Club | 15931 | [15931-punch-club.json](./15931-punch-club.json) |
 | Punch Club 2: Complete Edition | 309630 | [309630-punch-club-2-complete-edition.json](./309630-punch-club-2-complete-edition.json) |
