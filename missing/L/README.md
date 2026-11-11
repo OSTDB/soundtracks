@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laboratoriya | 183751 | [183751-laboratoriya.json](./183751-laboratoriya.json) |
 | Laboratory | 187646 | [187646-laboratory.json](./187646-laboratory.json) |
 | Laboratory 3D | 323664 | [323664-laboratory-3d.json](./323664-laboratory-3d.json) |
+| Laboratory Danger Madness | 336226 | [336226-laboratory-danger-madness.json](./336226-laboratory-danger-madness.json) |
 | Laboratory Rat Escape Simulator Pro | 213213 | [213213-laboratory-rat-escape-simulator-pro.json](./213213-laboratory-rat-escape-simulator-pro.json) |
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
 | LaborSurviveManual | 246825 | [246825-laborsurvivemanual.json](./246825-laborsurvivemanual.json) |
@@ -7180,6 +7181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock n Drop Bracket Racing | 289786 | [289786-lock-n-drop-bracket-racing.json](./289786-lock-n-drop-bracket-racing.json) |
 | Lock N' Load | 94929 | [94929-lock-n-load.json](./94929-lock-n-load.json) |
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
+| Lock On | 336207 | [336207-lock-on.json](./336207-lock-on.json) |
 | Lock On | 38430 | [38430-lock-on.json](./38430-lock-on.json) |
 | Lock On: Flaming Cliffs 2 | 10202 | [10202-lock-on-flaming-cliffs-2.json](./10202-lock-on-flaming-cliffs-2.json) |
 | Lock on: Flaming Cliffs 3 | 63815 | [63815-lock-on-flaming-cliffs-3.json](./63815-lock-on-flaming-cliffs-3.json) |
