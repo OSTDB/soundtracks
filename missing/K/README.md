@@ -1939,7 +1939,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenseiki Alpha Ride | 336507 | [336507-kenseiki-alpha-ride.json](./336507-kenseiki-alpha-ride.json) |
 | Kenshi | 30225 | [30225-kenshi.json](./30225-kenshi.json) |
 | Kenshin Dragon Quest: Yomigaerishi Densetsu no Tsurugi | 267376 | [267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json](./267376-kenshin-dragon-quest-yomigaerishi-densetsu-no-tsurugi.json) |
-| Kenshō | 81732 | [81732-kensho.json](./81732-kensho.json) |
 | Kenshuui Tendou Dokuta | 92634 | [92634-kenshuui-tendou-dokuta.json](./92634-kenshuui-tendou-dokuta.json) |
 | Kentei TV! Wii: Minna de Gotouchi Quiz Battle | 67845 | [67845-kentei-tv-wii-minna-de-gotouchi-quiz-battle.json](./67845-kentei-tv-wii-minna-de-gotouchi-quiz-battle.json) |
 | Kentilla | 26465 | [26465-kentilla.json](./26465-kentilla.json) |
