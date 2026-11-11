@@ -7249,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LocoSoccer Classic | 34601 | [34601-locosoccer-classic.json](./34601-locosoccer-classic.json) |
 | Locospotter | 83128 | [83128-locospotter.json](./83128-locospotter.json) |
 | Locotier | 193489 | [193489-locotier.json](./193489-locotier.json) |
+| Locum Tenens | 383870 | [383870-locum-tenens.json](./383870-locum-tenens.json) |
 | Locura | 265334 | [265334-locura.json](./265334-locura.json) |
 | Locus | 92844 | [92844-locus.json](./92844-locus.json) |
 | Locus Alba | 395985 | [395985-locus-alba.json](./395985-locus-alba.json) |
@@ -7699,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonewolf: Zombie FPS 3D | 240939 | [240939-lonewolf-zombie-fps-3d.json](./240939-lonewolf-zombie-fps-3d.json) |
 | Long | 249755 | [249755-long.json](./249755-long.json) |
 | Long | 292006 | [292006-long.json](./292006-long.json) |
+| Long 15: NCR Expansion | 383860 | [383860-long-15-ncr-expansion.json](./383860-long-15-ncr-expansion.json) |
 | Long Ago: A Puzzle Tale | 148169 | [148169-long-ago-a-puzzle-tale.json](./148169-long-ago-a-puzzle-tale.json) |
 | Long and Hard… Summer! | 397019 | [397019-long-and-hard-summer.json](./397019-long-and-hard-summer.json) |
 | Long and Steady Departure | 229274 | [229274-long-and-steady-departure.json](./229274-long-and-steady-departure.json) |
@@ -8928,6 +8930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Toys | 62996 | [62996-lost-toys.json](./62996-lost-toys.json) |
 | Lost Traces: Unsolved Cases - False Awakening | 280842 | [280842-lost-traces-unsolved-cases-false-awakening.json](./280842-lost-traces-unsolved-cases-false-awakening.json) |
 | Lost Traces: Unsolved Cases - Genesis | 329387 | [329387-lost-traces-unsolved-cases-genesis.json](./329387-lost-traces-unsolved-cases-genesis.json) |
+| Lost Treasure of Lima | 383885 | [383885-lost-treasure-of-lima.json](./383885-lost-treasure-of-lima.json) |
 | Lost Trials | 238680 | [238680-lost-trials.json](./238680-lost-trials.json) |
 | Lost Tribe | 309517 | [309517-lost-tribe.json](./309517-lost-tribe.json) |
 | Lost Trust: Episode 1 | 387488 | [387488-lost-trust-episode-1.json](./387488-lost-trust-episode-1.json) |
