@@ -9389,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Ass: Trilogy | 213432 | [213432-among-ass-trilogy.json](./213432-among-ass-trilogy.json) |
 | Among Demons | 412695 | [412695-among-demons.json](./412695-among-demons.json) |
 | Among Dots | 159063 | [159063-among-dots.json](./159063-among-dots.json) |
+| Among Giants | 395940 | [395940-among-giants.json](./395940-among-giants.json) |
 | Among Gods! RPG Adventure | 216078 | [216078-among-gods-rpg-adventure.json](./216078-among-gods-rpg-adventure.json) |
 | Among Paws | 390570 | [390570-among-paws.json](./390570-among-paws.json) |
 | Among Pipes | 147585 | [147585-among-pipes.json](./147585-among-pipes.json) |
