@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Tree Friends: Deadeye Derby | 97972 | [97972-happy-tree-friends-deadeye-derby.json](./97972-happy-tree-friends-deadeye-derby.json) |
 | Happy Tree Friends: False Alarm | 5942 | [5942-happy-tree-friends-false-alarm.json](./5942-happy-tree-friends-false-alarm.json) |
 | Happy Tree Friends: Flippy's Flying Frenzy | 355051 | [355051-happy-tree-friends-flippys-flying-frenzy.json](./355051-happy-tree-friends-flippys-flying-frenzy.json) |
+| Happy Umbrella | 366765 | [366765-happy-umbrella.json](./366765-happy-umbrella.json) |
 | Happy Uppen Sometimes Downsad | 310140 | [310140-happy-uppen-sometimes-downsad.json](./310140-happy-uppen-sometimes-downsad.json) |
 | Happy Valentine's Day | 169001 | [169001-happy-valentines-day.json](./169001-happy-valentines-day.json) |
 | Happy Vampire Girl | 111870 | [111870-happy-vampire-girl.json](./111870-happy-vampire-girl.json) |
@@ -5330,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Games Collection Vol. 2 | 355053 | [355053-hentai-games-collection-vol-2.json](./355053-hentai-games-collection-vol-2.json) |
 | Hentai Games Collection Vol. 3 | 362202 | [362202-hentai-games-collection-vol-3.json](./362202-hentai-games-collection-vol-3.json) |
 | Hentai GIF Puzzle | 163541 | [163541-hentai-gif-puzzle.json](./163541-hentai-gif-puzzle.json) |
+| Hentai GIF Puzzle X | 367070 | [367070-hentai-gif-puzzle-x.json](./367070-hentai-gif-puzzle-x.json) |
 | Hentai Girl | 107887 | [107887-hentai-girl.json](./107887-hentai-girl.json) |
 | Hentai Girl Betty | 111252 | [111252-hentai-girl-betty.json](./111252-hentai-girl-betty.json) |
 | Hentai Girl Clicker | 158403 | [158403-hentai-girl-clicker.json](./158403-hentai-girl-clicker.json) |
@@ -5620,8 +5622,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Petting Simulator | 230135 | [230135-hentai-petting-simulator.json](./230135-hentai-petting-simulator.json) |
 | Hentai Phoebe | 340443 | [340443-hentai-phoebe.json](./340443-hentai-phoebe.json) |
 | Hentai Photo: Ajisai | 362210 | [362210-hentai-photo-ajisai.json](./362210-hentai-photo-ajisai.json) |
+| Hentai Photo: Higanbana | 366768 | [366768-hentai-photo-higanbana.json](./366768-hentai-photo-higanbana.json) |
 | Hentai Photo: Kaneshon | 362368 | [362368-hentai-photo-kaneshon.json](./362368-hentai-photo-kaneshon.json) |
 | Hentai Photo: Kuchinashi | 364089 | [364089-hentai-photo-kuchinashi.json](./364089-hentai-photo-kuchinashi.json) |
+| Hentai Photo: Mokusei | 366767 | [366767-hentai-photo-mokusei.json](./366767-hentai-photo-mokusei.json) |
 | Hentai Photo: Momo | 358657 | [358657-hentai-photo-momo.json](./358657-hentai-photo-momo.json) |
 | Hentai Photo: Sakura | 356820 | [356820-hentai-photo-sakura.json](./356820-hentai-photo-sakura.json) |
 | Hentai Photo: Yuri | 365539 | [365539-hentai-photo-yuri.json](./365539-hentai-photo-yuri.json) |
@@ -6257,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Magic | 254267 | [254267-hero-of-magic.json](./254267-hero-of-magic.json) |
 | Hero of Many | 17339 | [17339-hero-of-many.json](./17339-hero-of-many.json) |
 | Hero of Memory | 177227 | [177227-hero-of-memory.json](./177227-hero-of-memory.json) |
+| Hero Of Metal: Episode 01 | 367316 | [367316-hero-of-metal-episode-01.json](./367316-hero-of-metal-episode-01.json) |
 | Hero of Minotaurs | 283540 | [283540-hero-of-minotaurs.json](./283540-hero-of-minotaurs.json) |
 | Hero of Not Our Time | 144818 | [144818-hero-of-not-our-time.json](./144818-hero-of-not-our-time.json) |
 | Hero of Sparta | 21690 | [21690-hero-of-sparta.json](./21690-hero-of-sparta.json) |
@@ -6641,6 +6646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Over Europe | 7008 | [7008-heroes-over-europe.json](./7008-heroes-over-europe.json) |
 | Heroes Paradox | 216121 | [216121-heroes-paradox.json](./216121-heroes-paradox.json) |
 | Heroes Phantasia | 65495 | [65495-heroes-phantasia.json](./65495-heroes-phantasia.json) |
+| Heroes Project | 367073 | [367073-heroes-project.json](./367073-heroes-project.json) |
 | Heroes Quest Survival | 249909 | [249909-heroes-quest-survival.json](./249909-heroes-quest-survival.json) |
 | Heroes Rally | 199693 | [199693-heroes-rally.json](./199693-heroes-rally.json) |
 | Heroes Ravage | 114433 | [114433-heroes-ravage.json](./114433-heroes-ravage.json) |
