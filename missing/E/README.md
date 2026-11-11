@@ -2620,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elestrals Beyond | 412612 | [412612-elestrals-beyond.json](./412612-elestrals-beyond.json) |
 | Elestrals Clash! | 356622 | [356622-elestrals-clash.json](./356622-elestrals-clash.json) |
 | Eletar Hero | 188673 | [188673-eletar-hero.json](./188673-eletar-hero.json) |
+| Eletta | 318812 | [318812-eletta.json](./318812-eletta.json) |
 | Elette | 231871 | [231871-elette.json](./231871-elette.json) |
 | Elette Fragments | 126657 | [126657-elette-fragments.json](./126657-elette-fragments.json) |
 | Eleusis | 16666 | [16666-eleusis.json](./16666-eleusis.json) |
@@ -7759,7 +7760,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Tactics | 236018 | [236018-evil-tactics.json](./236018-evil-tactics.json) |
 | Evil Tag | 29072 | [29072-evil-tag.json](./29072-evil-tag.json) |
 | Evil Timefall | 324162 | [324162-evil-timefall.json](./324162-evil-timefall.json) |
-| Evil Tonight | 143329 | [143329-evil-tonight.json](./143329-evil-tonight.json) |
 | Evil Twin | 22045 | [22045-evil-twin.json](./22045-evil-twin.json) |
 | Evil Twin | 352319 | [352319-evil-twin.json](./352319-evil-twin.json) |
 | Evil Twin: Cyprien's Chronicles | 18332 | [18332-evil-twin-cypriens-chronicles.json](./18332-evil-twin-cypriens-chronicles.json) |
@@ -8574,6 +8574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploding Judo Federation | 372240 | [372240-exploding-judo-federation.json](./372240-exploding-judo-federation.json) |
 | Exploding Kittens | 88938 | [88938-exploding-kittens.json](./88938-exploding-kittens.json) |
 | Exploding Kittens 2 | 336644 | [336644-exploding-kittens-2.json](./336644-exploding-kittens-2.json) |
+| Exploding Kittens VR | 318810 | [318810-exploding-kittens-vr.json](./318810-exploding-kittens-vr.json) |
 | Exploding Lips | 92861 | [92861-exploding-lips.json](./92861-exploding-lips.json) |
 | Exploding Pandas | 294349 | [294349-exploding-pandas.json](./294349-exploding-pandas.json) |
 | Exploding Wall | 13652 | [13652-exploding-wall.json](./13652-exploding-wall.json) |
