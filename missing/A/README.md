@@ -5392,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AH-64D Longbow: Flash Point Korea | 73686 | [73686-ah-64d-longbow-flash-point-korea.json](./73686-ah-64d-longbow-flash-point-korea.json) |
 | Ah-Hoy! | 176293 | [176293-ah-hoy.json](./176293-ah-hoy.json) |
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
+| Ah, Love! Season 2 | 361381 | [361381-ah-love-season-2.json](./361381-ah-love-season-2.json) |
 | Ah, Love! Season 3 | 384577 | [384577-ah-love-season-3.json](./384577-ah-love-season-3.json) |
 | Ah, Love! Season 4 | 388477 | [388477-ah-love-season-4.json](./388477-ah-love-season-4.json) |
 | Ah! Heaven | 84737 | [84737-ah-heaven.json](./84737-ah-heaven.json) |
@@ -12980,6 +12981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ara: History Untold | 204620 | [204620-ara-history-untold.json](./204620-ara-history-untold.json) |
 | Arab Drift Cars | 221746 | [221746-arab-drift-cars.json](./221746-arab-drift-cars.json) |
 | Arab Drift Cars 2 | 330192 | [330192-arab-drift-cars-2.json](./330192-arab-drift-cars-2.json) |
+| Arab Drift Cars 2: The Definitive Edition | 361362 | [361362-arab-drift-cars-2-the-definitive-edition.json](./361362-arab-drift-cars-2-the-definitive-edition.json) |
 | Arab Drift Cars 3 | 362967 | [362967-arab-drift-cars-3.json](./362967-arab-drift-cars-3.json) |
 | Arabel | 142140 | [142140-arabel.json](./142140-arabel.json) |
 | Arabesque: Shoujo-tachi no Orinasu Ai no Monogatari | 299802 | [299802-arabesque-shoujo-tachi-no-orinasu-ai-no-monogatari.json](./299802-arabesque-shoujo-tachi-no-orinasu-ai-no-monogatari.json) |
