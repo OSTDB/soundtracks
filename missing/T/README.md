@@ -12409,6 +12409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of the Wood | 22368 | [22368-the-king-of-the-wood.json](./22368-the-king-of-the-wood.json) |
 | The King of Tower Defense | 360206 | [360206-the-king-of-tower-defense.json](./360206-the-king-of-tower-defense.json) |
 | The King of Triads | 175211 | [175211-the-king-of-triads.json](./175211-the-king-of-triads.json) |
+| The King of Wall Street | 368964 | [368964-the-king-of-wall-street.json](./368964-the-king-of-wall-street.json) |
 | The King of Warriors: Battle in the Three Kingdoms | 169490 | [169490-the-king-of-warriors-battle-in-the-three-kingdoms.json](./169490-the-king-of-warriors-battle-in-the-three-kingdoms.json) |
 | The King's Bargain | 369928 | [369928-the-kings-bargain.json](./369928-the-kings-bargain.json) |
 | The King's Bird | 11840 | [11840-the-kings-bird.json](./11840-the-kings-bird.json) |
@@ -34916,6 +34917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twig's Adventure 64 | 366473 | [366473-twigs-adventure-64.json](./366473-twigs-adventure-64.json) |
 | Twikkel.io | 133605 | [133605-twikkel-io.json](./133605-twikkel-io.json) |
 | Twilight | 206534 | [206534-twilight.json](./206534-twilight.json) |
+| Twilight | 368956 | [368956-twilight.json](./368956-twilight.json) |
 | Twilight Apartment | 331887 | [331887-twilight-apartment.json](./331887-twilight-apartment.json) |
 | Twilight Array | 267790 | [267790-twilight-array.json](./267790-twilight-array.json) |
 | Twilight Blood | 227898 | [227898-twilight-blood.json](./227898-twilight-blood.json) |
@@ -35141,6 +35143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twins of Legacy: Elemental | 316850 | [316850-twins-of-legacy-elemental.json](./316850-twins-of-legacy-elemental.json) |
 | Twins of Olus | 279096 | [279096-twins-of-olus.json](./279096-twins-of-olus.json) |
 | Twins of the Pasture | 43130 | [43130-twins-of-the-pasture.json](./43130-twins-of-the-pasture.json) |
+| Twins of the Sun | 369477 | [369477-twins-of-the-sun.json](./369477-twins-of-the-sun.json) |
 | Twins of the Sun: Arena of Heroes | 383094 | [383094-twins-of-the-sun-arena-of-heroes.json](./383094-twins-of-the-sun-arena-of-heroes.json) |
 | Twins or Tens | 394557 | [394557-twins-or-tens.json](./394557-twins-or-tens.json) |
 | Twins Story: Kimi ni Tsutaetakute... | 138988 | [138988-twins-story-kimi-ni-tsutaetakute.json](./138988-twins-story-kimi-ni-tsutaetakute.json) |
