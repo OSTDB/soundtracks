@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory idle | 95942 | [95942-factory-idle.json](./95942-factory-idle.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
 | Factory Islands | 288797 | [288797-factory-islands.json](./288797-factory-islands.json) |
+| Factory Life | 359635 | [359635-factory-life.json](./359635-factory-life.json) |
 | Factory Magnate | 142569 | [142569-factory-magnate.json](./142569-factory-magnate.json) |
 | Factory Manager | 106317 | [106317-factory-manager.json](./106317-factory-manager.json) |
 | Factory Manager Simulator | 164053 | [164053-factory-manager-simulator.json](./164053-factory-manager-simulator.json) |
@@ -498,6 +499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Pirates | 108654 | [108654-factory-pirates.json](./108654-factory-pirates.json) |
 | Factory Planner | 349645 | [349645-factory-planner.json](./349645-factory-planner.json) |
 | Factory Rally Madness | 131763 | [131763-factory-rally-madness.json](./131763-factory-rally-madness.json) |
+| Factory Reset | 359654 | [359654-factory-reset.json](./359654-factory-reset.json) |
 | Factory Simulator: Clothing & Outlet | 326435 | [326435-factory-simulator-clothing-and-outlet.json](./326435-factory-simulator-clothing-and-outlet.json) |
 | Factory Time | 382325 | [382325-factory-time.json](./382325-factory-time.json) |
 | Factory Tower | 293011 | [293011-factory-tower.json](./293011-factory-tower.json) |
@@ -7641,6 +7643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiz: The Brewery Management Game | 56789 | [56789-fiz-the-brewery-management-game.json](./56789-fiz-the-brewery-management-game.json) |
 | Fizik | 163747 | [163747-fizik.json](./163747-fizik.json) |
 | Fizz | 85148 | [85148-fizz.json](./85148-fizz.json) |
+| Fizz Flow: Factory Management | 359653 | [359653-fizz-flow-factory-management.json](./359653-fizz-flow-factory-management.json) |
 | Fizz Quiz | 318058 | [318058-fizz-quiz.json](./318058-fizz-quiz.json) |
 | FizzBall | 71564 | [71564-fizzball.json](./71564-fizzball.json) |
 | Fizzburg | 413878 | [413878-fizzburg.json](./413878-fizzburg.json) |
@@ -13792,6 +13795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frukt | 391456 | [391456-frukt.json](./391456-frukt.json) |
 | Frupu VR Fruit Punch | 250717 | [250717-frupu-vr-fruit-punch.json](./250717-frupu-vr-fruit-punch.json) |
 | Frustrate-a-ball | 367150 | [367150-frustrate-a-ball.json](./367150-frustrate-a-ball.json) |
+| Frustration Factory | 359652 | [359652-frustration-factory.json](./359652-frustration-factory.json) |
 | Frustration Golf | 181713 | [181713-frustration-golf.json](./181713-frustration-golf.json) |
 | Frustration Nation | 335504 | [335504-frustration-nation.json](./335504-frustration-nation.json) |
 | Fruta Luta | 176323 | [176323-fruta-luta.json](./176323-fruta-luta.json) |
