@@ -6279,6 +6279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Service Station Car Parking | 96924 | [96924-service-station-car-parking.json](./96924-service-station-car-parking.json) |
 | Service With a Shotgun | 356554 | [356554-service-with-a-shotgun.json](./356554-service-with-a-shotgun.json) |
 | ServiceIT: Microcontroller DLC | 403116 | [403116-serviceit-microcontroller-dlc.json](./403116-serviceit-microcontroller-dlc.json) |
+| ServiceIT: Phone Service DLC | 378681 | [378681-serviceit-phone-service-dlc.json](./378681-serviceit-phone-service-dlc.json) |
 | Servo | 17509 | [17509-servo.json](./17509-servo.json) |
 | Servonauts | 260339 | [260339-servonauts.json](./260339-servonauts.json) |
 | Servus 64 | 260835 | [260835-servus-64.json](./260835-servus-64.json) |
@@ -7656,6 +7657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaman King: Soul Fight | 4147 | [4147-shaman-king-soul-fight.json](./4147-shaman-king-soul-fight.json) |
 | Shaman King: Spirit of Shamans | 4120 | [4120-shaman-king-spirit-of-shamans.json](./4120-shaman-king-spirit-of-shamans.json) |
 | Shaman Odyssey: Tropic Adventure | 10821 | [10821-shaman-odyssey-tropic-adventure.json](./10821-shaman-odyssey-tropic-adventure.json) |
+| Shaman Steps | 378710 | [378710-shaman-steps.json](./378710-shaman-steps.json) |
 | Shaman: Spirithunter | 110281 | [110281-shaman-spirithunter.json](./110281-shaman-spirithunter.json) |
 | Shaman's Mask of the Rune Magic | 296234 | [296234-shamans-mask-of-the-rune-magic.json](./296234-shamans-mask-of-the-rune-magic.json) |
 | Shamania | 310495 | [310495-shamania.json](./310495-shamania.json) |
@@ -17437,6 +17439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier | 150243 | [150243-soldier.json](./150243-soldier.json) |
 | Soldier | 345936 | [345936-soldier.json](./345936-soldier.json) |
 | Soldier | 394277 | [394277-soldier.json](./394277-soldier.json) |
+| Soldier Adventure | 378120 | [378120-soldier-adventure.json](./378120-soldier-adventure.json) |
 | Soldier Blade Special: Caravan Stage | 42024 | [42024-soldier-blade-special-caravan-stage.json](./42024-soldier-blade-special-caravan-stage.json) |
 | Soldier Blaster | 412972 | [412972-soldier-blaster.json](./412972-soldier-blaster.json) |
 | Soldier Boyz | 69225 | [69225-soldier-boyz.json](./69225-soldier-boyz.json) |
@@ -24396,6 +24399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprite Sequence: Chapter 1 - The Creation | 154425 | [154425-sprite-sequence-chapter-1-the-creation.json](./154425-sprite-sequence-chapter-1-the-creation.json) |
 | Sprite Sequence: Chapter 2 - New Life | 166047 | [166047-sprite-sequence-chapter-2-new-life.json](./166047-sprite-sequence-chapter-2-new-life.json) |
 | Sprite Wars | 297006 | [297006-sprite-wars.json](./297006-sprite-wars.json) |
+| Sprite's City Scramble | 378690 | [378690-sprites-city-scramble.json](./378690-sprites-city-scramble.json) |
 | Sprite's Honor! | 291491 | [291491-sprites-honor.json](./291491-sprites-honor.json) |
 | SpritePile | 119789 | [119789-spritepile.json](./119789-spritepile.json) |
 | Spriters, Hopes Blooming Dawn | 248042 | [248042-spriters-hopes-blooming-dawn.json](./248042-spriters-hopes-blooming-dawn.json) |
@@ -32855,6 +32859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Doubles Tennis | 40425 | [40425-super-doubles-tennis.json](./40425-super-doubles-tennis.json) |
 | Super Dr Corona | 277930 | [277930-super-dr-corona.json](./277930-super-dr-corona.json) |
 | Super Drag Race | 170231 | [170231-super-drag-race.json](./170231-super-drag-race.json) |
+| Super Drag Race 2 | 378688 | [378688-super-drag-race-2.json](./378688-super-drag-race-2.json) |
 | Super Dragon Ball Heroes: World Mission | 111054 | [111054-super-dragon-ball-heroes-world-mission.json](./111054-super-dragon-ball-heroes-world-mission.json) |
 | Super Dragon Ball Heroes: World Mission - Hero Edition | 116237 | [116237-super-dragon-ball-heroes-world-mission-hero-edition.json](./116237-super-dragon-ball-heroes-world-mission-hero-edition.json) |
 | Super Dragon Punch Force 3 | 295358 | [295358-super-dragon-punch-force-3.json](./295358-super-dragon-punch-force-3.json) |
