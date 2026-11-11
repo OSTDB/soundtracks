@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VeLM | 117120 | [117120-velm.json](./117120-velm.json) |
 | Velmora Online | 423263 | [423263-velmora-online.json](./423263-velmora-online.json) |
 | Velo | 244347 | [244347-velo.json](./244347-velo.json) |
+| Velo Pro Racer | 359122 | [359122-velo-pro-racer.json](./359122-velo-pro-racer.json) |
 | Velocibeasts | 28361 | [28361-velocibeasts.json](./28361-velocibeasts.json) |
 | Velocibox | 15548 | [15548-velocibox.json](./15548-velocibox.json) |
 | Velocide Overdrive | 393501 | [393501-velocide-overdrive.json](./393501-velocide-overdrive.json) |
@@ -3072,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Alert 3D | 320478 | [320478-virus-alert-3d.json](./320478-virus-alert-3d.json) |
 | Virus at Home | 186482 | [186482-virus-at-home.json](./186482-virus-at-home.json) |
 | Virus Attack | 284168 | [284168-virus-attack.json](./284168-virus-attack.json) |
+| Virus Attack | 359094 | [359094-virus-attack.json](./359094-virus-attack.json) |
 | Virus Attack | 421409 | [421409-virus-attack.json](./421409-virus-attack.json) |
 | Virus Attack! | 231551 | [231551-virus-attack.json](./231551-virus-attack.json) |
 | Virus Blast | 157332 | [157332-virus-blast.json](./157332-virus-blast.json) |
