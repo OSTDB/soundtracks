@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cactus Venture | 246017 | [246017-cactus-venture.json](./246017-cactus-venture.json) |
 | Cad Cam Warrior | 313335 | [313335-cad-cam-warrior.json](./313335-cad-cam-warrior.json) |
 | Cadalion Online | 9872 | [9872-cadalion-online.json](./9872-cadalion-online.json) |
+| Cadash | 372935 | [372935-cadash.json](./372935-cadash.json) |
 | Cadash | 6652 | [6652-cadash.json](./6652-cadash.json) |
 | Cadaver | 11983 | [11983-cadaver.json](./11983-cadaver.json) |
 | Cadaver | 377316 | [377316-cadaver.json](./377316-cadaver.json) |
