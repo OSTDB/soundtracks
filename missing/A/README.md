@@ -4995,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Dark | 344099 | [344099-age-of-dark.json](./344099-age-of-dark.json) |
 | Age of Darkness: Die Suche nach Relict | 118291 | [118291-age-of-darkness-die-suche-nach-relict.json](./118291-age-of-darkness-die-suche-nach-relict.json) |
 | Age of Darkness: Final Stand | 159424 | [159424-age-of-darkness-final-stand.json](./159424-age-of-darkness-final-stand.json) |
+| Age of Dead: Zombie Simulator | 353550 | [353550-age-of-dead-zombie-simulator.json](./353550-age-of-dead-zombie-simulator.json) |
 | Age of Defense | 29247 | [29247-age-of-defense.json](./29247-age-of-defense.json) |
 | Age of Defense | 299711 | [299711-age-of-defense.json](./299711-age-of-defense.json) |
 | Age of Defense 3 | 327421 | [327421-age-of-defense-3.json](./327421-age-of-defense-3.json) |
@@ -17243,6 +17244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Shooter | 95341 | [95341-astro-shooter.json](./95341-astro-shooter.json) |
 | Astro Smash 'n' Blast! | 233553 | [233553-astro-smash-n-blast.json](./233553-astro-smash-n-blast.json) |
 | Astro Spider: Between Threads and Stars | 364067 | [364067-astro-spider-between-threads-and-stars.json](./364067-astro-spider-between-threads-and-stars.json) |
+| Astro Surge | 353551 | [353551-astro-surge.json](./353551-astro-surge.json) |
 | Astro Traveler | 197534 | [197534-astro-traveler.json](./197534-astro-traveler.json) |
 | Astro Tripper | 16265 | [16265-astro-tripper.json](./16265-astro-tripper.json) |
 | Astro Universe | 140969 | [140969-astro-universe.json](./140969-astro-universe.json) |
