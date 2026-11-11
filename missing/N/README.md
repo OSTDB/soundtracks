@@ -922,6 +922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nasty Rogue | 127573 | [127573-nasty-rogue.json](./127573-nasty-rogue.json) |
 | Nasty Rogue 2 | 264695 | [264695-nasty-rogue-2.json](./264695-nasty-rogue-2.json) |
 | Nasu Pinball | 225438 | [225438-nasu-pinball.json](./225438-nasu-pinball.json) |
+| Nasu-8 | 346300 | [346300-nasu-8.json](./346300-nasu-8.json) |
 | Nasubi | 409910 | [409910-nasubi.json](./409910-nasubi.json) |
 | Nasubi Room | 360622 | [360622-nasubi-room.json](./360622-nasubi-room.json) |
 | Nasway | 37434 | [37434-nasway.json](./37434-nasway.json) |
@@ -6534,6 +6535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Awakening - Scenario: "Battle of Tetorigawa" | 260452 | [260452-nobunagas-ambition-awakening-scenario-battle-of-tetorigawa.json](./260452-nobunagas-ambition-awakening-scenario-battle-of-tetorigawa.json) |
 | Nobunaga's Ambition: Awakening - Scenario: Battle of Komaki-Nagakute | 283260 | [283260-nobunagas-ambition-awakening-scenario-battle-of-komaki-nagakute.json](./283260-nobunagas-ambition-awakening-scenario-battle-of-komaki-nagakute.json) |
 | Nobunaga's Ambition: Awakening - Set of 6 Scenarios | 347227 | [347227-nobunagas-ambition-awakening-set-of-6-scenarios.json](./347227-nobunagas-ambition-awakening-set-of-6-scenarios.json) |
+| Nobunaga's Ambition: Awakening Complete Edition + Collector's Set | 345727 | [345727-nobunagas-ambition-awakening-complete-edition-collectors-set.json](./345727-nobunagas-ambition-awakening-complete-edition-collectors-set.json) |
 | Nobunaga's Ambition: Hadou | 371347 | [371347-nobunagas-ambition-hadou.json](./371347-nobunagas-ambition-hadou.json) |
 | Nobunaga's Ambition: Haouden | 4279 | [4279-nobunagas-ambition-haouden.json](./4279-nobunagas-ambition-haouden.json) |
 | Nobunaga's Ambition: Haouden - Power Up Kit | 308209 | [308209-nobunagas-ambition-haouden-power-up-kit.json](./308209-nobunagas-ambition-haouden-power-up-kit.json) |
@@ -7769,6 +7771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NPC Blacksmith Simulator | 417475 | [417475-npc-blacksmith-simulator.json](./417475-npc-blacksmith-simulator.json) |
 | Npc Problems: Vertex Coloring | 126655 | [126655-npc-problems-vertex-coloring.json](./126655-npc-problems-vertex-coloring.json) |
 | NPC Simulator | 390595 | [390595-npc-simulator.json](./390595-npc-simulator.json) |
+| Npc Simulator: Heroes Need Us | 346269 | [346269-npc-simulator-heroes-need-us.json](./346269-npc-simulator-heroes-need-us.json) |
 | NPC Ville: The Story of the Blacksmith | 263031 | [263031-npc-ville-the-story-of-the-blacksmith.json](./263031-npc-ville-the-story-of-the-blacksmith.json) |
 | NPCs | 113054 | [113054-npcs.json](./113054-npcs.json) |
 | Npool | 309292 | [309292-npool.json](./309292-npool.json) |
