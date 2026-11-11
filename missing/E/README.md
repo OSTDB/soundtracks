@@ -3948,6 +3948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Dark Loot | 420311 | [420311-endless-dark-loot.json](./420311-endless-dark-loot.json) |
 | Endless Days | 240077 | [240077-endless-days.json](./240077-endless-days.json) |
 | Endless Days II | 252538 | [252538-endless-days-ii.json](./252538-endless-days-ii.json) |
+| Endless Days Z | 350713 | [350713-endless-days-z.json](./350713-endless-days-z.json) |
 | Endless Dead | 35407 | [35407-endless-dead.json](./35407-endless-dead.json) |
 | Endless Deaths | 331920 | [331920-endless-deaths.json](./331920-endless-deaths.json) |
 | Endless Defence 2 | 120728 | [120728-endless-defence-2.json](./120728-endless-defence-2.json) |
