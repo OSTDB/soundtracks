@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1666,6 +1667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Rush | 393207 | [393207-ball-rush.json](./393207-ball-rush.json) |
 | Ball Rush 2 | 322656 | [322656-ball-rush-2.json](./322656-ball-rush-2.json) |
 | Ball Rush 3 | 402296 | [402296-ball-rush-3.json](./402296-ball-rush-3.json) |
+| Ball Scooping Friends | 342307 | [342307-ball-scooping-friends.json](./342307-ball-scooping-friends.json) |
 | Ball Shoot Aim Challenge | 334085 | [334085-ball-shoot-aim-challenge.json](./334085-ball-shoot-aim-challenge.json) |
 | Ball Shoot! | 87364 | [87364-ball-shoot.json](./87364-ball-shoot.json) |
 | Ball Shot: Fling to Hoop | 75555 | [75555-ball-shot-fling-to-hoop.json](./75555-ball-shot-fling-to-hoop.json) |
@@ -2861,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barista Life Simulator 2026 | 391255 | [391255-barista-life-simulator-2026.json](./391255-barista-life-simulator-2026.json) |
 | Barista Master: Café Empire | 333713 | [333713-barista-master-cafe-empire.json](./333713-barista-master-cafe-empire.json) |
 | Barista Simulator | 216630 | [216630-barista-simulator.json](./216630-barista-simulator.json) |
+| Barista Simulator 2025 | 342335 | [342335-barista-simulator-2025.json](./342335-barista-simulator-2025.json) |
 | Barista: Rise and Grind | 210963 | [210963-barista-rise-and-grind.json](./210963-barista-rise-and-grind.json) |
 | Barista: Take Away | 207533 | [207533-barista-take-away.json](./207533-barista-take-away.json) |
 | Barji Kart | 223065 | [223065-barji-kart.json](./223065-barji-kart.json) |
@@ -4553,6 +4556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield V: Year 2 Edition | 134372 | [134372-battlefield-v-year-2-edition.json](./134372-battlefield-v-year-2-edition.json) |
 | Battlefield Vietnam | 335 | [335-battlefield-vietnam.json](./335-battlefield-vietnam.json) |
 | Battlefield Waltz | 253726 | [253726-battlefield-waltz.json](./253726-battlefield-waltz.json) |
+| Battlefield Waltz: Digital Deluxe Edition | 342336 | [342336-battlefield-waltz-digital-deluxe-edition.json](./342336-battlefield-waltz-digital-deluxe-edition.json) |
 | Battlefield World War Bundle | 112914 | [112914-battlefield-world-war-bundle.json](./112914-battlefield-world-war-bundle.json) |
 | Battlefield: Bad Company 2 - Digital Deluxe Edition | 202187 | [202187-battlefield-bad-company-2-digital-deluxe-edition.json](./202187-battlefield-bad-company-2-digital-deluxe-edition.json) |
 | Battlefield: Bad Company 2 - Limited Edition | 41890 | [41890-battlefield-bad-company-2-limited-edition.json](./41890-battlefield-bad-company-2-limited-edition.json) |
@@ -6023,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauties Unveiled: NoirPetal Level Pack | 284508 | [284508-beauties-unveiled-noirpetal-level-pack.json](./284508-beauties-unveiled-noirpetal-level-pack.json) |
 | Beauties! They're All After Me | 306240 | [306240-beauties-theyre-all-after-me.json](./306240-beauties-theyre-all-after-me.json) |
 | Beautiful Amazing Jungle Animals for Kids | 100194 | [100194-beautiful-amazing-jungle-animals-for-kids.json](./100194-beautiful-amazing-jungle-animals-for-kids.json) |
+| Beautiful Anime Puzzles: Rainy Days | 342337 | [342337-beautiful-anime-puzzles-rainy-days.json](./342337-beautiful-anime-puzzles-rainy-days.json) |
 | Beautiful Bricks | 121035 | [121035-beautiful-bricks.json](./121035-beautiful-bricks.json) |
 | Beautiful Cell | 371161 | [371161-beautiful-cell.json](./371161-beautiful-cell.json) |
 | Beautiful Checkers | 338207 | [338207-beautiful-checkers.json](./338207-beautiful-checkers.json) |
@@ -7507,6 +7512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Memoria | 386302 | [386302-beyond-memoria.json](./386302-beyond-memoria.json) |
 | Beyond Memories: Darkness of the Soul | 328568 | [328568-beyond-memories-darkness-of-the-soul.json](./328568-beyond-memories-darkness-of-the-soul.json) |
 | Beyond Memories: Tale of the Lost Souls | 323657 | [323657-beyond-memories-tale-of-the-lost-souls.json](./323657-beyond-memories-tale-of-the-lost-souls.json) |
+| Beyond Memories: Tales From the Heart | 342338 | [342338-beyond-memories-tales-from-the-heart.json](./342338-beyond-memories-tales-from-the-heart.json) |
 | Beyond Minimalism | 102923 | [102923-beyond-minimalism.json](./102923-beyond-minimalism.json) |
 | Beyond Myths | 224708 | [224708-beyond-myths.json](./224708-beyond-myths.json) |
 | Beyond Normandy: Assignment Berlin | 72252 | [72252-beyond-normandy-assignment-berlin.json](./72252-beyond-normandy-assignment-berlin.json) |
@@ -14235,6 +14241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Officer | 117132 | [117132-border-officer.json](./117132-border-officer.json) |
 | Border Patrol Simulator | 334342 | [334342-border-patrol-simulator.json](./334342-border-patrol-simulator.json) |
 | Border Pioneer | 290777 | [290777-border-pioneer.json](./290777-border-pioneer.json) |
+| Border Police: Contraband & Dinosaur RPG: Dino Survival Simulator | 342352 | [342352-border-police-contraband-and-dinosaur-rpg-dino-survival-simulator.json](./342352-border-police-contraband-and-dinosaur-rpg-dino-survival-simulator.json) |
 | Border Police: Contraband Simulator 2024 | 307639 | [307639-border-police-contraband-simulator-2024.json](./307639-border-police-contraband-simulator-2024.json) |
 | Border Reign | 142468 | [142468-border-reign.json](./142468-border-reign.json) |
 | Border Town | 199466 | [199466-border-town.json](./199466-border-town.json) |
@@ -15431,6 +15438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Challenge 2: Think Again! | 67609 | [67609-brain-challenge-2-think-again.json](./67609-brain-challenge-2-think-again.json) |
 | Brain Challenge 3: Think Again! | 239464 | [239464-brain-challenge-3-think-again.json](./239464-brain-challenge-3-think-again.json) |
 | Brain Challenge Deluxe | 44587 | [44587-brain-challenge-deluxe.json](./44587-brain-challenge-deluxe.json) |
+| Brain Challenge Spot the Real One! | 342340 | [342340-brain-challenge-spot-the-real-one.json](./342340-brain-challenge-spot-the-real-one.json) |
 | Brain Champ | 273747 | [273747-brain-champ.json](./273747-brain-champ.json) |
 | Brain Code | 321500 | [321500-brain-code.json](./321500-brain-code.json) |
 | Brain Cop | 179434 | [179434-brain-cop.json](./179434-brain-cop.json) |
@@ -15464,6 +15472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain in a Vat Lies | 123471 | [123471-brain-in-a-vat-lies.json](./123471-brain-in-a-vat-lies.json) |
 | Brain In My Head | 30195 | [30195-brain-in-my-head.json](./30195-brain-in-my-head.json) |
 | Brain in Retro Space | 154869 | [154869-brain-in-retro-space.json](./154869-brain-in-retro-space.json) |
+| Brain IQTopia | 342341 | [342341-brain-iqtopia.json](./342341-brain-iqtopia.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
 | Brain Jam | 83695 | [83695-brain-jam.json](./83695-brain-jam.json) |
 | Brain Marmelade | 135751 | [135751-brain-marmelade.json](./135751-brain-marmelade.json) |
@@ -15514,6 +15523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Syndrome VR | 208224 | [208224-brain-syndrome-vr.json](./208224-brain-syndrome-vr.json) |
 | Brain Teaser Bundle | 231073 | [231073-brain-teaser-bundle.json](./231073-brain-teaser-bundle.json) |
 | Brain Teaser: Memory Limit | 117762 | [117762-brain-teaser-memory-limit.json](./117762-brain-teaser-memory-limit.json) |
+| Brain Teaser! Spin & Build Castle | 342351 | [342351-brain-teaser-spin-and-build-castle.json](./342351-brain-teaser-spin-and-build-castle.json) |
 | Brain Teasers & Math Puzzles | 101975 | [101975-brain-teasers-and-math-puzzles.json](./101975-brain-teasers-and-math-puzzles.json) |
 | Brain Test | 166733 | [166733-brain-test.json](./166733-brain-test.json) |
 | Brain Test 2: Tricky Stories | 297626 | [297626-brain-test-2-tricky-stories.json](./297626-brain-test-2-tricky-stories.json) |
@@ -17752,6 +17762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Witch 3 Saga | 78386 | [78386-bubble-witch-3-saga.json](./78386-bubble-witch-3-saga.json) |
 | Bubble Witch Saga | 78384 | [78384-bubble-witch-saga.json](./78384-bubble-witch-saga.json) |
 | Bubble With Djealy | 157966 | [157966-bubble-with-djealy.json](./157966-bubble-with-djealy.json) |
+| Bubble Wizard II Saga | 342350 | [342350-bubble-wizard-ii-saga.json](./342350-bubble-wizard-ii-saga.json) |
 | Bubble Wizard III Saga | 347318 | [347318-bubble-wizard-iii-saga.json](./347318-bubble-wizard-iii-saga.json) |
 | Bubble Wizard IV Saga | 357027 | [357027-bubble-wizard-iv-saga.json](./357027-bubble-wizard-iv-saga.json) |
 | Bubble Wizard Saga | 336413 | [336413-bubble-wizard-saga.json](./336413-bubble-wizard-saga.json) |
