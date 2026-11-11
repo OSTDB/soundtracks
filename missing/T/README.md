@@ -8771,6 +8771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
 | The Devil Within | 314049 | [314049-the-devil-within.json](./314049-the-devil-within.json) |
 | The Devil Within: Satgat | 213423 | [213423-the-devil-within-satgat.json](./213423-the-devil-within-satgat.json) |
+| The Devil's Accountant | 388460 | [388460-the-devils-accountant.json](./388460-the-devils-accountant.json) |
 | The Devil's Bride | 320108 | [320108-the-devils-bride.json](./320108-the-devils-bride.json) |
 | The Devil's Bride | 326215 | [326215-the-devils-bride.json](./326215-the-devils-bride.json) |
 | The Devil's Calculator | 114080 | [114080-the-devils-calculator.json](./114080-the-devils-calculator.json) |
@@ -12689,6 +12690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Frame | 385360 | [385360-the-last-frame.json](./385360-the-last-frame.json) |
 | The Last from Mars | 143528 | [143528-the-last-from-mars.json](./143528-the-last-from-mars.json) |
 | The Last Front | 98707 | [98707-the-last-front.json](./98707-the-last-front.json) |
+| The Last Frontier | 388453 | [388453-the-last-frontier.json](./388453-the-last-frontier.json) |
 | The Last Galaxy | 109921 | [109921-the-last-galaxy.json](./109921-the-last-galaxy.json) |
 | The Last Game | 267253 | [267253-the-last-game.json](./267253-the-last-game.json) |
 | The Last Game | 362294 | [362294-the-last-game.json](./362294-the-last-game.json) |
@@ -14461,6 +14463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Menacing | 156030 | [156030-the-menacing.json](./156030-the-menacing.json) |
 | The Mensional | 197112 | [197112-the-mensional.json](./197112-the-mensional.json) |
 | the Mercenary | 154297 | [154297-the-mercenary.json](./154297-the-mercenary.json) |
+| The Mercenary's Adventure | 388420 | [388420-the-mercenarys-adventure.json](./388420-the-mercenarys-adventure.json) |
 | The Mercer Slough and You | 145622 | [145622-the-mercer-slough-and-you.json](./145622-the-mercer-slough-and-you.json) |
 | The Merchant Memoirs | 74233 | [74233-the-merchant-memoirs.json](./74233-the-merchant-memoirs.json) |
 | The Merchant's Eden | 372657 | [372657-the-merchants-eden.json](./372657-the-merchants-eden.json) |
@@ -26012,6 +26015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Run | 164308 | [164308-tokyo-run.json](./164308-tokyo-run.json) |
 | Tokyo Satsujinki Gakkou no Kaidan | 321824 | [321824-tokyo-satsujinki-gakkou-no-kaidan.json](./321824-tokyo-satsujinki-gakkou-no-kaidan.json) |
 | Tokyo School Girl | 289940 | [289940-tokyo-school-girl.json](./289940-tokyo-school-girl.json) |
+| Tokyo Scramble | 388428 | [388428-tokyo-scramble.json](./388428-tokyo-scramble.json) |
 | Tokyo Shadow | 209609 | [209609-tokyo-shadow.json](./209609-tokyo-shadow.json) |
 | Tokyo Snap | 114919 | [114919-tokyo-snap.json](./114919-tokyo-snap.json) |
 | Tokyo Stories | 210817 | [210817-tokyo-stories.json](./210817-tokyo-stories.json) |
@@ -29009,6 +29013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toybox | 288114 | [288114-toybox.json](./288114-toybox.json) |
 | Toybox Aviation | 194421 | [194421-toybox-aviation.json](./194421-toybox-aviation.json) |
 | ToyBox Christmas | 279867 | [279867-toybox-christmas.json](./279867-toybox-christmas.json) |
+| Toybox Escape | 388468 | [388468-toybox-escape.json](./388468-toybox-escape.json) |
 | ToyBox Puzzle | 236407 | [236407-toybox-puzzle.json](./236407-toybox-puzzle.json) |
 | Toybox Turbos | 17179 | [17179-toybox-turbos.json](./17179-toybox-turbos.json) |
 | Toybox Tussle | 383076 | [383076-toybox-tussle.json](./383076-toybox-tussle.json) |
@@ -35493,6 +35498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing of Ys | 252843 | [252843-typing-of-ys.json](./252843-typing-of-ys.json) |
 | Typing Ougi: Hokuto no Ken Gekiuchi | 64193 | [64193-typing-ougi-hokuto-no-ken-gekiuchi.json](./64193-typing-ougi-hokuto-no-ken-gekiuchi.json) |
 | Typing Quest | 144571 | [144571-typing-quest.json](./144571-typing-quest.json) |
+| Typing Ritual | 388430 | [388430-typing-ritual.json](./388430-typing-ritual.json) |
 | Typing Shuugyou: Hokuto no Ken Gekiuchi Zero | 64189 | [64189-typing-shuugyou-hokuto-no-ken-gekiuchi-zero.json](./64189-typing-shuugyou-hokuto-no-ken-gekiuchi-zero.json) |
 | Typing Space Harrier | 108887 | [108887-typing-space-harrier.json](./108887-typing-space-harrier.json) |
 | Typing Stars | 322387 | [322387-typing-stars.json](./322387-typing-stars.json) |
