@@ -18962,6 +18962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Rumble Party | 300454 | [300454-sonic-rumble-party.json](./300454-sonic-rumble-party.json) |
 | Sonic Run 3 | 331983 | [331983-sonic-run-3.json](./331983-sonic-run-3.json) |
 | Sonic Runners | 20023 | [20023-sonic-runners.json](./20023-sonic-runners.json) |
+| Sonic Runners Adventure | 336199 | [336199-sonic-runners-adventure.json](./336199-sonic-runners-adventure.json) |
 | Sonic Runners Adventure | 76844 | [76844-sonic-runners-adventure.json](./76844-sonic-runners-adventure.json) |
 | Sonic Runners Reloaded | 317123 | [317123-sonic-runners-reloaded.json](./317123-sonic-runners-reloaded.json) |
 | Sonic Runners Revival | 205607 | [205607-sonic-runners-revival.json](./205607-sonic-runners-revival.json) |
@@ -22519,6 +22520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedCoins | 343292 | [343292-speedcoins.json](./343292-speedcoins.json) |
 | SpeedColor | 27980 | [27980-speedcolor.json](./27980-speedcolor.json) |
 | Speeder | 152934 | [152934-speeder.json](./152934-speeder.json) |
+| Speeder Ship | 336218 | [336218-speeder-ship.json](./336218-speeder-ship.json) |
 | SpeedFighter | 143962 | [143962-speedfighter.json](./143962-speedfighter.json) |
 | Speedgunner Ultra | 158855 | [158855-speedgunner-ultra.json](./158855-speedgunner-ultra.json) |
 | Speediest: Car Racing Formula & Auto Sport | 270813 | [270813-speediest-car-racing-formula-and-auto-sport.json](./270813-speediest-car-racing-formula-and-auto-sport.json) |
@@ -23378,6 +23380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin the Beat | 43500 | [43500-spin-the-beat.json](./43500-spin-the-beat.json) |
 | Spin the Book | 304488 | [304488-spin-the-book.json](./304488-spin-the-book.json) |
 | Spin the Bottle: Bumpie's Party | 79172 | [79172-spin-the-bottle-bumpies-party.json](./79172-spin-the-bottle-bumpies-party.json) |
+| Spin the Fire | 336197 | [336197-spin-the-fire.json](./336197-spin-the-fire.json) |
 | Spin the Lighthouse | 290285 | [290285-spin-the-lighthouse.json](./290285-spin-the-lighthouse.json) |
 | Spin the World | 148208 | [148208-spin-the-world.json](./148208-spin-the-world.json) |
 | Spin the World | 331187 | [331187-spin-the-world.json](./331187-spin-the-world.json) |
