@@ -94,6 +94,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habitat Shapes | 379161 | [379161-habitat-shapes.json](./379161-habitat-shapes.json) |
 | Habitat Shapes: The Tropical Journey | 401127 | [401127-habitat-shapes-the-tropical-journey.json](./401127-habitat-shapes-the-tropical-journey.json) |
 | Habitat Toxica | 374343 | [374343-habitat-toxica.json](./374343-habitat-toxica.json) |
+| Habitat: Race to Mars | 375061 | [375061-habitat-race-to-mars.json](./375061-habitat-race-to-mars.json) |
 | Habitatrix | 292242 | [292242-habitatrix.json](./292242-habitatrix.json) |
 | Habitica | 395187 | [395187-habitica.json](./395187-habitica.json) |
 | Habitking RPG | 127585 | [127585-habitking-rpg.json](./127585-habitking-rpg.json) |
@@ -1020,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halver | 168662 | [168662-halver.json](./168662-halver.json) |
 | Halves | 235720 | [235720-halves.json](./235720-halves.json) |
 | Halzae: Heroes of Divinity | 112500 | [112500-halzae-heroes-of-divinity.json](./112500-halzae-heroes-of-divinity.json) |
+| Ham Ham Hamsters | 375092 | [375092-ham-ham-hamsters.json](./375092-ham-ham-hamsters.json) |
 | Ham Hole | 403358 | [403358-ham-hole.json](./403358-ham-hole.json) |
 | Ham on the Run! | 269335 | [269335-ham-on-the-run.json](./269335-ham-on-the-run.json) |
 | Ham Supi | 199769 | [199769-ham-supi.json](./199769-ham-supi.json) |
@@ -3742,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartshot | 278683 | [278683-heartshot.json](./278683-heartshot.json) |
 | Heartspell: Horizon Academy | 309311 | [309311-heartspell-horizon-academy.json](./309311-heartspell-horizon-academy.json) |
 | Heartstop | 199510 | [199510-heartstop.json](./199510-heartstop.json) |
+| Heartstop Tour | 375069 | [375069-heartstop-tour.json](./375069-heartstop-tour.json) |
 | Heartstrings | 202371 | [202371-heartstrings.json](./202371-heartstrings.json) |
 | HeartWare | 309806 | [309806-heartware.json](./309806-heartware.json) |
 | HeartWeaver | 322090 | [322090-heartweaver.json](./322090-heartweaver.json) |
@@ -9782,6 +9785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Office Hell | 178785 | [178785-home-office-hell.json](./178785-home-office-hell.json) |
 | Home Office Simulator | 223391 | [223391-home-office-simulator.json](./223391-home-office-simulator.json) |
 | Home on Prom Night | 184968 | [184968-home-on-prom-night.json](./184968-home-on-prom-night.json) |
+| Home Paige | 375075 | [375075-home-paige.json](./375075-home-paige.json) |
 | Home Path | 294940 | [294940-home-path.json](./294940-home-path.json) |
 | Home Pin 2: Family Adventure | 227362 | [227362-home-pin-2-family-adventure.json](./227362-home-pin-2-family-adventure.json) |
 | Home Plate Baseball | 117366 | [117366-home-plate-baseball.json](./117366-home-plate-baseball.json) |
