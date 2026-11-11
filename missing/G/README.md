@@ -2357,6 +2357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate World | 46649 | [46649-gate-world.json](./46649-gate-world.json) |
 | Gate Zero | 247358 | [247358-gate-zero.json](./247358-gate-zero.json) |
 | Gate2up | 377089 | [377089-gate2up.json](./377089-gate2up.json) |
+| Gatebreakers | 350705 | [350705-gatebreakers.json](./350705-gatebreakers.json) |
 | Gatecrasher | 207840 | [207840-gatecrasher.json](./207840-gatecrasher.json) |
 | Gatedelvers | 217382 | [217382-gatedelvers.json](./217382-gatedelvers.json) |
 | Gatekeeper | 222906 | [222906-gatekeeper.json](./222906-gatekeeper.json) |
@@ -8855,6 +8856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Yardage | 94545 | [94545-grave-yardage.json](./94545-grave-yardage.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
 | Graveball | 26169 | [26169-graveball.json](./26169-graveball.json) |
+| Gravebind | 350696 | [350696-gravebind.json](./350696-gravebind.json) |
 | GraveBond | 272390 | [272390-gravebond.json](./272390-gravebond.json) |
 | Gravebound | 345195 | [345195-gravebound.json](./345195-gravebound.json) |
 | Gravebound | 347427 | [347427-gravebound.json](./347427-gravebound.json) |
