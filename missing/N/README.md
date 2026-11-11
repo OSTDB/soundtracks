@@ -3517,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Math Blaster Plus! | 10670 | [10670-new-math-blaster-plus.json](./10670-new-math-blaster-plus.json) |
 | New Meaning | 165761 | [165761-new-meaning.json](./165761-new-meaning.json) |
 | New Meat | 329030 | [329030-new-meat.json](./329030-new-meat.json) |
+| New Moons | 323458 | [323458-new-moons.json](./323458-new-moons.json) |
 | New Nightmare Cafe | 339181 | [339181-new-nightmare-cafe.json](./339181-new-nightmare-cafe.json) |
 | New Nightmare Cafe 2 | 339186 | [339186-new-nightmare-cafe-2.json](./339186-new-nightmare-cafe-2.json) |
 | New Nightmare Cafe 3 | 339190 | [339190-new-nightmare-cafe-3.json](./339190-new-nightmare-cafe-3.json) |
@@ -3908,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus Defenders | 275978 | [275978-nexus-defenders.json](./275978-nexus-defenders.json) |
 | Nexus Defense: Desert Storm | 138360 | [138360-nexus-defense-desert-storm.json](./138360-nexus-defense-desert-storm.json) |
 | Nexus Legacy | 408038 | [408038-nexus-legacy.json](./408038-nexus-legacy.json) |
+| Nexus M4 | 323475 | [323475-nexus-m4.json](./323475-nexus-m4.json) |
 | Nexus of the Dead God: The Microcosm | 406517 | [406517-nexus-of-the-dead-god-the-microcosm.json](./406517-nexus-of-the-dead-god-the-microcosm.json) |
 | Nexus PI | 289271 | [289271-nexus-pi.json](./289271-nexus-pi.json) |
 | Nexus Protocol | 329049 | [329049-nexus-protocol.json](./329049-nexus-protocol.json) |
@@ -4889,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Farm | 194343 | [194343-nightmare-farm.json](./194343-nightmare-farm.json) |
 | Nightmare Files: Clap Clap | 302877 | [302877-nightmare-files-clap-clap.json](./302877-nightmare-files-clap-clap.json) |
 | Nightmare Files: Stoned | 347222 | [347222-nightmare-files-stoned.json](./347222-nightmare-files-stoned.json) |
+| Nightmare Flight | 322883 | [322883-nightmare-flight.json](./322883-nightmare-flight.json) |
 | Nightmare Frontier | 342784 | [342784-nightmare-frontier.json](./342784-nightmare-frontier.json) |
 | Nightmare Fuel | 307216 | [307216-nightmare-fuel.json](./307216-nightmare-fuel.json) |
 | Nightmare Gallery | 282441 | [282441-nightmare-gallery.json](./282441-nightmare-gallery.json) |
@@ -6333,6 +6336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Sleep for Sole | 267362 | [267362-no-sleep-for-sole.json](./267362-no-sleep-for-sole.json) |
 | No Sleep for the Dead | 257499 | [257499-no-sleep-for-the-dead.json](./257499-no-sleep-for-the-dead.json) |
 | No Son of Mine | 201314 | [201314-no-son-of-mine.json](./201314-no-son-of-mine.json) |
+| No Space For All | 323456 | [323456-no-space-for-all.json](./323456-no-space-for-all.json) |
 | No spikes, please! | 309317 | [309317-no-spikes-please.json](./309317-no-spikes-please.json) |
 | No Stars Football | 419059 | [419059-no-stars-football.json](./419059-no-stars-football.json) |
 | No Stars No Problem | 323279 | [323279-no-stars-no-problem.json](./323279-no-stars-no-problem.json) |
@@ -8195,6 +8199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nurse Love Obsession | 131557 | [131557-nurse-love-obsession.json](./131557-nurse-love-obsession.json) |
 | Nurse Love Syndrome | 116660 | [116660-nurse-love-syndrome.json](./116660-nurse-love-syndrome.json) |
 | Nurse Me! | 297165 | [297165-nurse-me.json](./297165-nurse-me.json) |
+| Nurse Panic! | 323472 | [323472-nurse-panic.json](./323472-nurse-panic.json) |
 | Nurse Quest: Love Hurts! | 396429 | [396429-nurse-quest-love-hurts.json](./396429-nurse-quest-love-hurts.json) |
 | Nurse Sofi | 280079 | [280079-nurse-sofi.json](./280079-nurse-sofi.json) |
 | Nurse Story | 268644 | [268644-nurse-story.json](./268644-nurse-story.json) |
