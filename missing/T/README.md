@@ -8663,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death Game Report | 413971 | [413971-the-death-game-report.json](./413971-the-death-game-report.json) |
 | The Death Into Trouble | 151125 | [151125-the-death-into-trouble.json](./151125-the-death-into-trouble.json) |
 | The Death Night Show | 320324 | [320324-the-death-night-show.json](./320324-the-death-night-show.json) |
+| The Death Night Show | 356920 | [356920-the-death-night-show.json](./356920-the-death-night-show.json) |
 | The Death of Erin Myers | 111289 | [111289-the-death-of-erin-myers.json](./111289-the-death-of-erin-myers.json) |
 | The Death of Fo-gu | 321127 | [321127-the-death-of-fo-gu.json](./321127-the-death-of-fo-gu.json) |
 | The Death of Harsh Noise | 410064 | [410064-the-death-of-harsh-noise.json](./410064-the-death-of-harsh-noise.json) |
@@ -17421,6 +17422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent Hill Experience | 77256 | [77256-the-silent-hill-experience.json](./77256-the-silent-hill-experience.json) |
 | The Silent Huntress | 218587 | [218587-the-silent-huntress.json](./218587-the-silent-huntress.json) |
 | The Silent Islands | 211939 | [211939-the-silent-islands.json](./211939-the-silent-islands.json) |
+| The Silent Jungle | 356332 | [356332-the-silent-jungle.json](./356332-the-silent-jungle.json) |
 | The Silent Kingdom | 187795 | [187795-the-silent-kingdom.json](./187795-the-silent-kingdom.json) |
 | The Silent One | 347763 | [347763-the-silent-one.json](./347763-the-silent-one.json) |
 | The Silent Sky: Part I | 212155 | [212155-the-silent-sky-part-i.json](./212155-the-silent-sky-part-i.json) |
