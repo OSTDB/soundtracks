@@ -2444,6 +2444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One in a Krillion | 305633 | [305633-one-in-a-krillion.json](./305633-one-in-a-krillion.json) |
 | One in a Thousand: Clover Book | 417358 | [417358-one-in-a-thousand-clover-book.json](./417358-one-in-a-thousand-clover-book.json) |
 | One in a Trillion | 146873 | [146873-one-in-a-trillion.json](./146873-one-in-a-trillion.json) |
+| One in One Million | 394266 | [394266-one-in-one-million.json](./394266-one-in-one-million.json) |
 | One in the Back | 370247 | [370247-one-in-the-back.json](./370247-one-in-the-back.json) |
 | One Incident In A Small Town | 126216 | [126216-one-incident-in-a-small-town.json](./126216-one-incident-in-a-small-town.json) |
 | One Jump Bomb | 108234 | [108234-one-jump-bomb.json](./108234-one-jump-bomb.json) |
