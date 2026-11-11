@@ -1759,7 +1759,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Ghost Mountain | 156975 | [156975-under-the-ghost-mountain.json](./156975-under-the-ghost-mountain.json) |
 | Under the Heavens | 398011 | [398011-under-the-heavens.json](./398011-under-the-heavens.json) |
 | Under the Hood | 260026 | [260026-under-the-hood.json](./260026-under-the-hood.json) |
-| Under the Island | 151501 | [151501-under-the-island.json](./151501-under-the-island.json) |
 | Under the Jolly Roger | 164300 | [164300-under-the-jolly-roger.json](./164300-under-the-jolly-roger.json) |
 | Under the Jolly Roger + Crossroads Inn: Bring Me That Horizon Bundle | 305487 | [305487-under-the-jolly-roger-crossroads-inn-bring-me-that-horizon-bundle.json](./305487-under-the-jolly-roger-crossroads-inn-bring-me-that-horizon-bundle.json) |
 | Under the Jolly Roger: Complete Edition | 204272 | [204272-under-the-jolly-roger-complete-edition.json](./204272-under-the-jolly-roger-complete-edition.json) |
@@ -2676,6 +2675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlimited Hearts | 67243 | [67243-unlimited-hearts.json](./67243-unlimited-hearts.json) |
 | Unlimited SaGa: Limited Edition | 382675 | [382675-unlimited-saga-limited-edition.json](./382675-unlimited-saga-limited-edition.json) |
 | Unlimited Skills Hero | 227521 | [227521-unlimited-skills-hero.json](./227521-unlimited-skills-hero.json) |
+| Unlimited Trees' Sonic 1 | 319508 | [319508-unlimited-trees-sonic-1.json](./319508-unlimited-trees-sonic-1.json) |
 | Unlimited World 1 | 159423 | [159423-unlimited-world-1.json](./159423-unlimited-world-1.json) |
 | Unlimited Worlds | 298616 | [298616-unlimited-worlds.json](./298616-unlimited-worlds.json) |
 | Unline | 278501 | [278501-unline.json](./278501-unline.json) |
@@ -3557,6 +3557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Forest | 285887 | [285887-urban-forest.json](./285887-urban-forest.json) |
 | Urban Freestyle Soccer | 91677 | [91677-urban-freestyle-soccer.json](./91677-urban-freestyle-soccer.json) |
 | Urban Golf: Hot Dog Edition | 385446 | [385446-urban-golf-hot-dog-edition.json](./385446-urban-golf-hot-dog-edition.json) |
+| Urban Heat | 319335 | [319335-urban-heat.json](./319335-urban-heat.json) |
 | Urban Hunter | 358895 | [358895-urban-hunter.json](./358895-urban-hunter.json) |
 | Urban Intel: Special Ops | 270565 | [270565-urban-intel-special-ops.json](./270565-urban-intel-special-ops.json) |
 | Urban Jungle | 281908 | [281908-urban-jungle.json](./281908-urban-jungle.json) |
