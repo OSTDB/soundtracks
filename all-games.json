@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T22:10:53.869Z",
-  "total_soundtracks": 3136,
+  "generated_at": "2026-11-11T22:16:13.532Z",
+  "total_soundtracks": 3139,
   "games": [
     {
       "igdb_id": 7522,
@@ -21861,6 +21861,20 @@
       ]
     },
     {
+      "igdb_id": 207161,
+      "game_name": "My Little Universe",
+      "game_url": "https://ostdb.net/games/my-little-universe",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273be0c783881e1454246dc328b",
+      "albums": [
+        {
+          "album_name": "My Little Universe (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7GFN4IFpVjGLnJYxzUwPuB",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 27192,
       "game_name": "My Memory of Us",
       "game_url": "https://ostdb.net/games/my-memory-of-us",
@@ -30049,6 +30063,20 @@
       ]
     },
     {
+      "igdb_id": 227989,
+      "game_name": "SoulCalibur II",
+      "game_url": "https://ostdb.net/games/soulcalibur-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fc1175829acccddc0b126b41",
+      "albums": [
+        {
+          "album_name": "SOULCALIBUR Ⅱ ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/6XFfTROCzwWWVhkDvAK84N",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1567,
       "game_name": "SoulCalibur IV",
       "game_url": "https://ostdb.net/games/soulcalibur-iv",
@@ -32390,6 +32418,20 @@
     },
     {
       "igdb_id": 221717,
+      "game_name": "Tales of Symphonia",
+      "game_url": "https://ostdb.net/games/tales-of-symphonia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273847bf08ddffc44e5321a25aa",
+      "albums": [
+        {
+          "album_name": "Tales of Symphonia Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/6TiS9kMfpqiUeau5lX7VY2",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 221716,
       "game_name": "Tales of Symphonia",
       "game_url": "https://ostdb.net/games/tales-of-symphonia",
       "cover_url": "https://i.scdn.co/image/ab67616d0000b273847bf08ddffc44e5321a25aa",
