@@ -9409,7 +9409,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shire Scopes | 255126 | [255126-shire-scopes.json](./255126-shire-scopes.json) |
 | Shiren Monsters: Netsal | 63224 | [63224-shiren-monsters-netsal.json](./63224-shiren-monsters-netsal.json) |
 | Shiren the Wanderer 6: Toguro Island Exploration Record Plus Pack | 314953 | [314953-shiren-the-wanderer-6-toguro-island-exploration-record-plus-pack.json](./314953-shiren-the-wanderer-6-toguro-island-exploration-record-plus-pack.json) |
-| Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island | 268079 | [268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json](./268079-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island.json) |
 | Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island - Plus Pack | 323544 | [323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json](./323544-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-plus-pack.json) |
 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 19460 | [19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./19460-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
 | Shiren the Wanderer: The Tower of Fortune and the Dice of Fate | 371812 | [371812-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json](./371812-shiren-the-wanderer-the-tower-of-fortune-and-the-dice-of-fate.json) |
