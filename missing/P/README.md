@@ -3002,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Past Particles | 199232 | [199232-past-particles.json](./199232-past-particles.json) |
 | Past Synergy | 195079 | [195079-past-synergy.json](./195079-past-synergy.json) |
 | Past the Moon; Towards the Sun | 303946 | [303946-past-the-moon-towards-the-sun.json](./303946-past-the-moon-towards-the-sun.json) |
+| Pasta House Simulator | 361935 | [361935-pasta-house-simulator.json](./361935-pasta-house-simulator.json) |
 | Pasta La Vista Super Mario Bros. | 392840 | [392840-pasta-la-vista-super-mario-bros.json](./392840-pasta-la-vista-super-mario-bros.json) |
 | Pasta Master | 160263 | [160263-pasta-master.json](./160263-pasta-master.json) |
 | Pastaghi | 187611 | [187611-pastaghi.json](./187611-pastaghi.json) |
@@ -17063,6 +17064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Root | 17145 | [17145-project-root.json](./17145-project-root.json) |
 | Project Rope Tool | 310136 | [310136-project-rope-tool.json](./310136-project-rope-tool.json) |
 | Project Rose | 296613 | [296613-project-rose.json](./296613-project-rose.json) |
+| Project Rot | 361926 | [361926-project-rot.json](./361926-project-rot.json) |
 | Project Roy | 404601 | [404601-project-roy.json](./404601-project-roy.json) |
 | Project RPG | 33192 | [33192-project-rpg.json](./33192-project-rpg.json) |
 | Project RTD : Random Tower Defense | 128267 | [128267-project-rtd-random-tower-defense.json](./128267-project-rtd-random-tower-defense.json) |
