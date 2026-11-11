@@ -4790,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterpillar | 225381 | [225381-caterpillar.json](./225381-caterpillar.json) |
 | Caterpillar | 38482 | [38482-caterpillar.json](./38482-caterpillar.json) |
 | Caterpillar | 74708 | [74708-caterpillar.json](./74708-caterpillar.json) |
+| Caterpillar Committee | 392565 | [392565-caterpillar-committee.json](./392565-caterpillar-committee.json) |
 | Caterpillar Construction Tycoon | 206906 | [206906-caterpillar-construction-tycoon.json](./206906-caterpillar-construction-tycoon.json) |
 | Caterpillar Construction Zone | 37283 | [37283-caterpillar-construction-zone.json](./37283-caterpillar-construction-zone.json) |
 | Caterpillar Crunch | 411108 | [411108-caterpillar-crunch.json](./411108-caterpillar-crunch.json) |
@@ -20584,6 +20585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubounce | 402697 | [402697-cubounce.json](./402697-cubounce.json) |
 | Cubox: Awakening of Gods | 168156 | [168156-cubox-awakening-of-gods.json](./168156-cubox-awakening-of-gods.json) |
 | Cuboy | 251692 | [251692-cuboy.json](./251692-cuboy.json) |
+| Cuboy Adventure | 392575 | [392575-cuboy-adventure.json](./392575-cuboy-adventure.json) |
 | Cuboy Back to the Cubeture: Era 2 | 57993 | [57993-cuboy-back-to-the-cubeture-era-2.json](./57993-cuboy-back-to-the-cubeture-era-2.json) |
 | Cuboy Facebutt | 393087 | [393087-cuboy-facebutt.json](./393087-cuboy-facebutt.json) |
 | Cuboy: Back to the Cubeture | 57994 | [57994-cuboy-back-to-the-cubeture.json](./57994-cuboy-back-to-the-cubeture.json) |
