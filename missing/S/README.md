@@ -15480,6 +15480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithy of the Fishy | 184218 | [184218-smithy-of-the-fishy.json](./184218-smithy-of-the-fishy.json) |
 | Smithy Shop | 236538 | [236538-smithy-shop.json](./236538-smithy-shop.json) |
 | Smitty's Journey | 179327 | [179327-smittys-journey.json](./179327-smittys-journey.json) |
+| SML Wiki | 373446 | [373446-sml-wiki.json](./373446-sml-wiki.json) |
 | SMOD | 307535 | [307535-smod.json](./307535-smod.json) |
 | SMOD Troopers | 312617 | [312617-smod-troopers.json](./312617-smod-troopers.json) |
 | SMOD: Outbreak | 312616 | [312616-smod-outbreak.json](./312616-smod-outbreak.json) |
@@ -16184,8 +16185,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Ghost Warrior Contracts: Complete Edition | 141649 | [141649-sniper-ghost-warrior-contracts-complete-edition.json](./141649-sniper-ghost-warrior-contracts-complete-edition.json) |
 | Sniper Ghost Warrior Contracts: Full Arsenal Edition | 199639 | [199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json](./199639-sniper-ghost-warrior-contracts-full-arsenal-edition.json) |
 | Sniper Ghost Warrior Contracts: Merciless Marksman | 370317 | [370317-sniper-ghost-warrior-contracts-merciless-marksman.json](./370317-sniper-ghost-warrior-contracts-merciless-marksman.json) |
+| Sniper Ghost Warrior Contracts: Savage Sniper Weapon Pack | 373464 | [373464-sniper-ghost-warrior-contracts-savage-sniper-weapon-pack.json](./373464-sniper-ghost-warrior-contracts-savage-sniper-weapon-pack.json) |
 | Sniper Ghost Warrior Contracts: Skins Pack | 370320 | [370320-sniper-ghost-warrior-contracts-skins-pack.json](./370320-sniper-ghost-warrior-contracts-skins-pack.json) |
 | Sniper Ghost Warrior Contracts: Steam Mist Weapon Skin | 370321 | [370321-sniper-ghost-warrior-contracts-steam-mist-weapon-skin.json](./370321-sniper-ghost-warrior-contracts-steam-mist-weapon-skin.json) |
+| Sniper Ghost Warrior Contracts: SV - AMUR - sniper rifle | 373463 | [373463-sniper-ghost-warrior-contracts-sv-amur-sniper-rifle.json](./373463-sniper-ghost-warrior-contracts-sv-amur-sniper-rifle.json) |
 | Sniper Ghost Warrior Contracts: World Flags Skin Pack | 370319 | [370319-sniper-ghost-warrior-contracts-world-flags-skin-pack.json](./370319-sniper-ghost-warrior-contracts-world-flags-skin-pack.json) |
 | Sniper Ghost Warrior Unlimited Edition | 148158 | [148158-sniper-ghost-warrior-unlimited-edition.json](./148158-sniper-ghost-warrior-unlimited-edition.json) |
 | Sniper Honor: 3D Shooting Game | 223914 | [223914-sniper-honor-3d-shooting-game.json](./223914-sniper-honor-3d-shooting-game.json) |
@@ -23764,6 +23767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split/Second | 2150 | [2150-split-second.json](./2150-split-second.json) |
 | Splitfire | 149132 | [149132-splitfire.json](./149132-splitfire.json) |
 | Splitgate | 114684 | [114684-splitgate.json](./114684-splitgate.json) |
+| Splitgate 2: Aeros Founder's Pack | 373468 | [373468-splitgate-2-aeros-founders-pack.json](./373468-splitgate-2-aeros-founders-pack.json) |
 | Splitgate 2: Meridian Founders Pack | 373469 | [373469-splitgate-2-meridian-founders-pack.json](./373469-splitgate-2-meridian-founders-pack.json) |
 | Splitgate 2: Sabrask Founder's Pack | 373472 | [373472-splitgate-2-sabrask-founders-pack.json](./373472-splitgate-2-sabrask-founders-pack.json) |
 | Splitgate 2: Starter Pack | 373470 | [373470-splitgate-2-starter-pack.json](./373470-splitgate-2-starter-pack.json) |
@@ -24854,6 +24858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squeakers | 87781 | [87781-squeakers.json](./87781-squeakers.json) |
 | Squeakers II | 148370 | [148370-squeakers-ii.json](./148370-squeakers-ii.json) |
 | Squeakross: Free Content Update | 392279 | [392279-squeakross-free-content-update.json](./392279-squeakross-free-content-update.json) |
+| Squeaky | 373432 | [373432-squeaky.json](./373432-squeaky.json) |
 | Squeaky Clean | 146552 | [146552-squeaky-clean.json](./146552-squeaky-clean.json) |
 | Squeaky Squirrel | 179357 | [179357-squeaky-squirrel.json](./179357-squeaky-squirrel.json) |
 | Squeeballs Party | 21213 | [21213-squeeballs-party.json](./21213-squeeballs-party.json) |
@@ -25708,6 +25713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star of the Show | 192624 | [192624-star-of-the-show.json](./192624-star-of-the-show.json) |
 | Star Ores Inc. | 347604 | [347604-star-ores-inc.json](./347604-star-ores-inc.json) |
 | Star Overdrive | 314935 | [314935-star-overdrive.json](./314935-star-overdrive.json) |
+| Star Overdrive: Deluxe DLC | 373467 | [373467-star-overdrive-deluxe-dlc.json](./373467-star-overdrive-deluxe-dlc.json) |
 | Star Overdrive: Deluxe Edition | 330623 | [330623-star-overdrive-deluxe-edition.json](./330623-star-overdrive-deluxe-edition.json) |
 | Star Overdrive: Deluxe Upgrade DLC | 330630 | [330630-star-overdrive-deluxe-upgrade-dlc.json](./330630-star-overdrive-deluxe-upgrade-dlc.json) |
 | Star Overhead | 274357 | [274357-star-overhead.json](./274357-star-overhead.json) |
@@ -36374,6 +36380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Zombies: The Inverted Evolution | 33575 | [33575-survival-zombies-the-inverted-evolution.json](./33575-survival-zombies-the-inverted-evolution.json) |
 | Survival Zone | 171881 | [171881-survival-zone.json](./171881-survival-zone.json) |
 | Survival Zone: Craft, Build & Grow | 336395 | [336395-survival-zone-craft-build-and-grow.json](./336395-survival-zone-craft-build-and-grow.json) |
+| Survival: Caged | 373455 | [373455-survival-caged.json](./373455-survival-caged.json) |
 | Survival: Fountain of Youth | 199136 | [199136-survival-fountain-of-youth.json](./199136-survival-fountain-of-youth.json) |
 | Survival: Fountain of Youth - Captain's Edition | 317209 | [317209-survival-fountain-of-youth-captains-edition.json](./317209-survival-fountain-of-youth-captains-edition.json) |
 | Survival: Fountain of Youth - Sea Wolf Pack | 298249 | [298249-survival-fountain-of-youth-sea-wolf-pack.json](./298249-survival-fountain-of-youth-sea-wolf-pack.json) |
