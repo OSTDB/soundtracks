@@ -7558,6 +7558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google Cricket | 230854 | [230854-google-cricket.json](./230854-google-cricket.json) |
 | Google Dino Advance | 269921 | [269921-google-dino-advance.json](./269921-google-dino-advance.json) |
 | Google Dinosaur Shooter | 261967 | [261967-google-dinosaur-shooter.json](./261967-google-dinosaur-shooter.json) |
+| Google Doodle: Pac-Man Halloween 2025 | 375728 | [375728-google-doodle-pac-man-halloween-2025.json](./375728-google-doodle-pac-man-halloween-2025.json) |
 | Google Earth Flight Simulator | 10902 | [10902-google-earth-flight-simulator.json](./10902-google-earth-flight-simulator.json) |
 | Google Feud | 10898 | [10898-google-feud.json](./10898-google-feud.json) |
 | Google Feudle | 227214 | [227214-google-feudle.json](./227214-google-feudle.json) |
