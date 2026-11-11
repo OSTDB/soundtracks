@@ -20,6 +20,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am A I | 188597 | [188597-i-am-a-i.json](./188597-i-am-a-i.json) |
 | I am a Man | 135120 | [135120-i-am-a-man.json](./135120-i-am-a-man.json) |
 | I am a Princess from Another World | 364231 | [364231-i-am-a-princess-from-another-world.json](./364231-i-am-a-princess-from-another-world.json) |
+| I am a Senior Official | 368696 | [368696-i-am-a-senior-official.json](./368696-i-am-a-senior-official.json) |
 | I am a Serial Killer | 257819 | [257819-i-am-a-serial-killer.json](./257819-i-am-a-serial-killer.json) |
 | I Am a Teacher: Super Mario Sweater | 41246 | [41246-i-am-a-teacher-super-mario-sweater.json](./41246-i-am-a-teacher-super-mario-sweater.json) |
 | I Am a Teacher: Teami no Kiso | 41374 | [41374-i-am-a-teacher-teami-no-kiso.json](./41374-i-am-a-teacher-teami-no-kiso.json) |
@@ -132,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am The Caretaker | 177315 | [177315-i-am-the-caretaker.json](./177315-i-am-the-caretaker.json) |
 | I Am the Exorcist | 243560 | [243560-i-am-the-exorcist.json](./243560-i-am-the-exorcist.json) |
 | I Am the Hero | 32172 | [32172-i-am-the-hero.json](./32172-i-am-the-hero.json) |
+| I Am The Landlord | 368695 | [368695-i-am-the-landlord.json](./368695-i-am-the-landlord.json) |
 | I am the Law | 289682 | [289682-i-am-the-law.json](./289682-i-am-the-law.json) |
 | I Am the Prosecutor: No Evidence? No Problem! | 151338 | [151338-i-am-the-prosecutor-no-evidence-no-problem.json](./151338-i-am-the-prosecutor-no-evidence-no-problem.json) |
 | I Am The Registered Environmental Engineer | 309562 | [309562-i-am-the-registered-environmental-engineer.json](./309562-i-am-the-registered-environmental-engineer.json) |
@@ -1723,6 +1725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle School Simulator | 299903 | [299903-idle-school-simulator.json](./299903-idle-school-simulator.json) |
 | Idle Shapes | 226164 | [226164-idle-shapes.json](./226164-idle-shapes.json) |
 | Idle Shelter: Dog Rescue Tycoon | 400825 | [400825-idle-shelter-dog-rescue-tycoon.json](./400825-idle-shelter-dog-rescue-tycoon.json) |
+| Idle Shields | 368413 | [368413-idle-shields.json](./368413-idle-shields.json) |
 | Idle Shooter | 379834 | [379834-idle-shooter.json](./379834-idle-shooter.json) |
 | Idle ShowOff | 368683 | [368683-idle-showoff.json](./368683-idle-showoff.json) |
 | Idle Siege: Army Tycoon Game | 246982 | [246982-idle-siege-army-tycoon-game.json](./246982-idle-siege-army-tycoon-game.json) |
