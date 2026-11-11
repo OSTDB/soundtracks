@@ -1064,6 +1064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larry's Big Score | 65077 | [65077-larrys-big-score.json](./65077-larrys-big-score.json) |
 | Larry's Lab | 373527 | [373527-larrys-lab.json](./373527-larrys-lab.json) |
 | Larry's New Wheelchair | 238524 | [238524-larrys-new-wheelchair.json](./238524-larrys-new-wheelchair.json) |
+| Larry's Wild Water Ride | 373433 | [373433-larrys-wild-water-ride.json](./373433-larrys-wild-water-ride.json) |
 | LarryDS: Chapter 1 | 313108 | [313108-larryds-chapter-1.json](./313108-larryds-chapter-1.json) |
 | Lars | 266128 | [266128-lars.json](./266128-lars.json) |
 | Lars the Wanderer | 145652 | [145652-lars-the-wanderer.json](./145652-lars-the-wanderer.json) |
@@ -6484,6 +6485,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares: Complete Edition | 53276 | [53276-little-nightmares-complete-edition.json](./53276-little-nightmares-complete-edition.json) |
 | Little Nightmares: Deluxe Edition | 136598 | [136598-little-nightmares-deluxe-edition.json](./136598-little-nightmares-deluxe-edition.json) |
 | Little Nightmares: Enhanced Edition | 350903 | [350903-little-nightmares-enhanced-edition.json](./350903-little-nightmares-enhanced-edition.json) |
+| Little Nightmares: Enhanced Edition - Secrets of The Maw Expansion Pass | 373466 | [373466-little-nightmares-enhanced-edition-secrets-of-the-maw-expansion-pass.json](./373466-little-nightmares-enhanced-edition-secrets-of-the-maw-expansion-pass.json) |
+| Little Nightmares: Enhanced Edition - The Depths | 373459 | [373459-little-nightmares-enhanced-edition-the-depths.json](./373459-little-nightmares-enhanced-edition-the-depths.json) |
+| Little Nightmares: Enhanced Edition - The Hideaway | 373460 | [373460-little-nightmares-enhanced-edition-the-hideaway.json](./373460-little-nightmares-enhanced-edition-the-hideaway.json) |
+| Little Nightmares: Enhanced Edition - The Residence | 373461 | [373461-little-nightmares-enhanced-edition-the-residence.json](./373461-little-nightmares-enhanced-edition-the-residence.json) |
 | Little Nightmares: Fox Mask | 274645 | [274645-little-nightmares-fox-mask.json](./274645-little-nightmares-fox-mask.json) |
 | Little Nightmares: Secrets of the Maw - Expansion Pass | 36838 | [36838-little-nightmares-secrets-of-the-maw-expansion-pass.json](./36838-little-nightmares-secrets-of-the-maw-expansion-pass.json) |
 | Little Nightmares: Tengu Mask | 274646 | [274646-little-nightmares-tengu-mask.json](./274646-little-nightmares-tengu-mask.json) |
@@ -10656,6 +10661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lusófona Games Collection 2024 | 309888 | [309888-lusofona-games-collection-2024.json](./309888-lusofona-games-collection-2024.json) |
 | Lusófona Games Collection 2025 | 406292 | [406292-lusofona-games-collection-2025.json](./406292-lusofona-games-collection-2025.json) |
 | Lust & Legends | 296965 | [296965-lust-and-legends.json](./296965-lust-and-legends.json) |
+| Lust & Magic | 373417 | [373417-lust-and-magic.json](./373417-lust-and-magic.json) |
 | Lust & Magic: Chisalla in a Flower Basket | 199775 | [199775-lust-and-magic-chisalla-in-a-flower-basket.json](./199775-lust-and-magic-chisalla-in-a-flower-basket.json) |
 | Lust Academy: Season 1 | 195223 | [195223-lust-academy-season-1.json](./195223-lust-academy-season-1.json) |
 | Lust Academy: Season 2 | 223351 | [223351-lust-academy-season-2.json](./223351-lust-academy-season-2.json) |
