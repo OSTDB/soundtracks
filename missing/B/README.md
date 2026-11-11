@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -4481,6 +4482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield 4: Night Operations | 169032 | [169032-battlefield-4-night-operations.json](./169032-battlefield-4-night-operations.json) |
 | Battlefield 4: Premium | 26098 | [26098-battlefield-4-premium.json](./26098-battlefield-4-premium.json) |
 | Battlefield 6 Season 1 | 375280 | [375280-battlefield-6-season-1.json](./375280-battlefield-6-season-1.json) |
+| Battlefield 6 Season 2 | 392554 | [392554-battlefield-6-season-2.json](./392554-battlefield-6-season-2.json) |
 | Battlefield 6 Season 3 | 401295 | [401295-battlefield-6-season-3.json](./401295-battlefield-6-season-3.json) |
 | Battlefield 6 Season 4 | 410995 | [410995-battlefield-6-season-4.json](./410995-battlefield-6-season-4.json) |
 | Battlefield 6: Phantom Edition | 359864 | [359864-battlefield-6-phantom-edition.json](./359864-battlefield-6-phantom-edition.json) |
@@ -6260,6 +6262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Bar | 111867 | [111867-beer-bar.json](./111867-beer-bar.json) |
 | Beer Belly Burt's Brew Biz | 93167 | [93167-beer-belly-burts-brew-biz.json](./93167-beer-belly-burts-brew-biz.json) |
 | Beer Break | 199391 | [199391-beer-break.json](./199391-beer-break.json) |
+| Beer Clicker | 392538 | [392538-beer-clicker.json](./392538-beer-clicker.json) |
 | Beer Drinkin' Terrorist Hunter | 311681 | [311681-beer-drinkin-terrorist-hunter.json](./311681-beer-drinkin-terrorist-hunter.json) |
 | Beer Factory | 202476 | [202476-beer-factory.json](./202476-beer-factory.json) |
 | Beer Factory Crew | 293851 | [293851-beer-factory-crew.json](./293851-beer-factory-crew.json) |
@@ -13829,6 +13832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Books for Bad Neighbors | 416042 | [416042-books-for-bad-neighbors.json](./416042-books-for-bad-neighbors.json) |
 | Books in Wrong Places | 216622 | [216622-books-in-wrong-places.json](./216622-books-in-wrong-places.json) |
 | Books of Grandura | 245806 | [245806-books-of-grandura.json](./245806-books-of-grandura.json) |
+| Books of Horror | 392572 | [392572-books-of-horror.json](./392572-books-of-horror.json) |
 | Books Upon Books | 303359 | [303359-books-upon-books.json](./303359-books-upon-books.json) |
 | Bookshop Simulator | 337720 | [337720-bookshop-simulator.json](./337720-bookshop-simulator.json) |
 | Bookshop Wonderland: Supermarket Simulator | 320452 | [320452-bookshop-wonderland-supermarket-simulator.json](./320452-bookshop-wonderland-supermarket-simulator.json) |
@@ -14693,6 +14697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Ropes | 104429 | [104429-bouncy-ropes.json](./104429-bouncy-ropes.json) |
 | Bouncy Smash | 89184 | [89184-bouncy-smash.json](./89184-bouncy-smash.json) |
 | Bouncy Toys | 88655 | [88655-bouncy-toys.json](./88655-bouncy-toys.json) |
+| Bouncy Weapons | 392542 | [392542-bouncy-weapons.json](./392542-bouncy-weapons.json) |
 | Bouncy! Trampoline | 233520 | [233520-bouncy-trampoline.json](./233520-bouncy-trampoline.json) |
 | Bouncy's Abyssal Excursion | 382455 | [382455-bouncys-abyssal-excursion.json](./382455-bouncys-abyssal-excursion.json) |
 | Bouncy's Obstacle Course | 377829 | [377829-bouncys-obstacle-course.json](./377829-bouncys-obstacle-course.json) |
@@ -19496,6 +19501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzzin | 415054 | [415054-buzzin.json](./415054-buzzin.json) |
 | Buzzing Cars | 221925 | [221925-buzzing-cars.json](./221925-buzzing-cars.json) |
 | BuzzingCars | 92234 | [92234-buzzingcars.json](./92234-buzzingcars.json) |
+| BuzzKill | 392552 | [392552-buzzkill.json](./392552-buzzkill.json) |
 | BuzzLabs | 291790 | [291790-buzzlabs.json](./291790-buzzlabs.json) |
 | Buzzle | 148866 | [148866-buzzle.json](./148866-buzzle.json) |
 | Buzzopolis: Hive Incremental | 373814 | [373814-buzzopolis-hive-incremental.json](./373814-buzzopolis-hive-incremental.json) |
