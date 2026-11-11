@@ -3992,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Blue | 337650 | [337650-infinite-blue.json](./337650-infinite-blue.json) |
 | Infinite Borders | 264030 | [264030-infinite-borders.json](./264030-infinite-borders.json) |
 | Infinite Borders: Three Kingdoms | 348170 | [348170-infinite-borders-three-kingdoms.json](./348170-infinite-borders-three-kingdoms.json) |
+| Infinite Bowling | 393186 | [393186-infinite-bowling.json](./393186-infinite-bowling.json) |
 | Infinite Brick Breaker | 152989 | [152989-infinite-brick-breaker.json](./152989-infinite-brick-breaker.json) |
 | Infinite Canyon | 232604 | [232604-infinite-canyon.json](./232604-infinite-canyon.json) |
 | Infinite Canyon | 360646 | [360646-infinite-canyon.json](./360646-infinite-canyon.json) |
