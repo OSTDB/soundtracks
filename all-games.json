@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T22:56:07.835Z",
-  "total_soundtracks": 3160,
+  "generated_at": "2026-11-11T23:06:21.958Z",
+  "total_soundtracks": 3164,
   "games": [
     {
       "igdb_id": 7522,
@@ -11215,6 +11215,20 @@
       ]
     },
     {
+      "igdb_id": 314424,
+      "game_name": "Faaast Penguin",
+      "game_url": "https://ostdb.net/games/faaast-penguin",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273489a043bc2092cdc6624daf3",
+      "albums": [
+        {
+          "album_name": "Faaast Penguin Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2VzZSWHgBJRPhyV06gQXao",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 11740,
       "game_name": "Façade",
       "game_url": "https://ostdb.net/games/facade",
@@ -11558,6 +11572,20 @@
           "album_name": "Far Cry Primal (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1smWW6pjklXAe61hde9ql0",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 348263,
+      "game_name": "Far Far West",
+      "game_url": "https://ostdb.net/games/far-far-west",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273aa1a6d2d62ee8f5e5e6a03b1",
+      "albums": [
+        {
+          "album_name": "Far Far West (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/10qeR3CYKtwWei9UgFrwS4",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -27949,6 +27977,20 @@
       ]
     },
     {
+      "igdb_id": 300426,
+      "game_name": "Samsara Room",
+      "game_url": "https://ostdb.net/games/samsara-room",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273137655449b135f7856ae7ebf",
+      "albums": [
+        {
+          "album_name": "Samsara Room (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2FGE6AL4b5IzZFkBq9JqWV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 380437,
       "game_name": "Samson",
       "game_url": "https://ostdb.net/games/samson",
@@ -28649,6 +28691,20 @@
         {
           "album_name": "Shadows Over Loathing (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6SZ3QnLKTtLxKObep31TF8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 339985,
+      "game_name": "Shadowverse: Worlds Beyond",
+      "game_url": "https://ostdb.net/games/shadowverse-worlds-beyond",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732a61b32dcad77414abd55a7d",
+      "albums": [
+        {
+          "album_name": "Shadowverse: Worlds Beyond ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/0xnvzRMmplQ36Ll0ET0Qjj",
           "apple_music_url": "",
           "album_link_url": ""
         }
