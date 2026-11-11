@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verdant Citadel | 141778 | [141778-verdant-citadel.json](./141778-verdant-citadel.json) |
 | Verdant Idea | 336213 | [336213-verdant-idea.json](./336213-verdant-idea.json) |
 | Verdant Village | 134277 | [134277-verdant-village.json](./134277-verdant-village.json) |
+| Verde | 318170 | [318170-verde.json](./318170-verde.json) |
 | Verdge | 377701 | [377701-verdge.json](./377701-verdge.json) |
 | Verdict | 166606 | [166606-verdict.json](./166606-verdict.json) |
 | Verdict Guilty | 78368 | [78368-verdict-guilty.json](./78368-verdict-guilty.json) |
@@ -3445,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice from Beyond | 197208 | [197208-voice-from-beyond.json](./197208-voice-from-beyond.json) |
 | Voice in the Abyss | 283735 | [283735-voice-in-the-abyss.json](./283735-voice-in-the-abyss.json) |
 | Voice Mimicry Show | 310440 | [310440-voice-mimicry-show.json](./310440-voice-mimicry-show.json) |
+| Voice of Belldona | 318300 | [318300-voice-of-belldona.json](./318300-voice-of-belldona.json) |
 | Voice of Cards Trilogy | 242664 | [242664-voice-of-cards-trilogy.json](./242664-voice-of-cards-trilogy.json) |
 | Voice of Cards: The Beasts of Burden | 215058 | [215058-voice-of-cards-the-beasts-of-burden.json](./215058-voice-of-cards-the-beasts-of-burden.json) |
 | Voice of Cards: The Forsaken Maiden | 191259 | [191259-voice-of-cards-the-forsaken-maiden.json](./191259-voice-of-cards-the-forsaken-maiden.json) |
