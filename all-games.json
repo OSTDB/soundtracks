@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T21:06:49.202Z",
-  "total_soundtracks": 3080,
+  "generated_at": "2026-11-11T21:16:47.376Z",
+  "total_soundtracks": 3090,
   "games": [
     {
       "igdb_id": 7522,
@@ -4885,6 +4885,20 @@
       ]
     },
     {
+      "igdb_id": 121708,
+      "game_name": "Bubble Bobble 4 Friends",
+      "game_url": "https://ostdb.net/games/bubble-bobble-4-friends",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ba460a547cd936912040b588",
+      "albums": [
+        {
+          "album_name": "Bubble Bobble 4 Friends Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/1e1QOxdOcSwyBptAge5xSw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 361820,
       "game_name": "Bubsy 4D",
       "game_url": "https://ostdb.net/games/bubsy-4d",
@@ -7108,6 +7122,20 @@
           "album_name": "Crysis 2",
           "spotify_url": "https://open.spotify.com/album/0VjrajlqFQUYud5YDKYxNH",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 124286,
+      "game_name": "Cthulhu Saves Christmas",
+      "game_url": "https://ostdb.net/games/cthulhu-saves-christmas",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27370d373fa49b7f4c229812b5d",
+      "albums": [
+        {
+          "album_name": "Cthulhu Saves Christmas (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6Dkk7Gcq7OHRrIEpDpZJjM",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -10525,6 +10553,20 @@
         {
           "album_name": "Epic Mickey 2: The Power of Two (Original Game Score)",
           "spotify_url": "https://open.spotify.com/album/5WbGfPjzE6bZviN25QYa64",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 111695,
+      "game_name": "Equilinox",
+      "game_url": "https://ostdb.net/games/equilinox",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ca99c8e4f0fc9b921ed36bf1",
+      "albums": [
+        {
+          "album_name": "Equilinox (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6BYM02AyU8BEyeXyk2u8si",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -19741,6 +19783,20 @@
       ]
     },
     {
+      "igdb_id": 128178,
+      "game_name": "Max Gentlemen Sexy Business!",
+      "game_url": "https://ostdb.net/games/max-gentlemen-sexy-business",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273253ceefcd5fe632e3fd6bdfe",
+      "albums": [
+        {
+          "album_name": "Max Gentlemen Sexy Business! (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6yO10e07Na8Lc8OIECBFhq",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 960,
       "game_name": "Max Payne 3",
       "game_url": "https://ostdb.net/games/max-payne-3",
@@ -19867,6 +19923,20 @@
         {
           "album_name": "Medal of Honor (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6m03Ph97WTSmQIERO6NrA8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 122592,
+      "game_name": "Medal of Honor: Above and Beyond",
+      "game_url": "https://ostdb.net/games/medal-of-honor-above-and-beyond",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27348f13542815cf72b32d37f1b",
+      "albums": [
+        {
+          "album_name": "Medal of Honor: Above and Beyond (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5xsJDTN9LZ2o0W18y638xJ",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -23661,6 +23731,20 @@
       ]
     },
     {
+      "igdb_id": 122047,
+      "game_name": "Path of Giants",
+      "game_url": "https://ostdb.net/games/path-of-giants",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f9f6a4f030e4dce09a7b36e0",
+      "albums": [
+        {
+          "album_name": "Path of Giants (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7jH9MlvyOEuOF8UyAeGGB8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 36611,
       "game_name": "Pathfinder Adventures",
       "game_url": "https://ostdb.net/games/pathfinder-adventures",
@@ -26549,6 +26633,20 @@
       ]
     },
     {
+      "igdb_id": 108409,
+      "game_name": "Rising Hell",
+      "game_url": "https://ostdb.net/games/rising-hell",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730cef677f18075f1a871c2eb0",
+      "albums": [
+        {
+          "album_name": "Rising Hell (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7I3IDEBhzMWoeoDfs7lmfr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 28512,
       "game_name": "Risk of Rain 2",
       "game_url": "https://ostdb.net/games/risk-of-rain-2",
@@ -28315,6 +28413,20 @@
           "spotify_url": "https://open.spotify.com/album/4AT5dYAuFD3F56cGDAEYjQ",
           "apple_music_url": "https://music.apple.com/us/album/signalis-original-soundtrack-feat-tom-schley/1689614390",
           "album_link_url": "https://album.link/i/1689614390"
+        }
+      ]
+    },
+    {
+      "igdb_id": 118603,
+      "game_name": "Signs of the Sojourner",
+      "game_url": "https://ostdb.net/games/signs-of-the-sojourner",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a35030ee5e303d5b235d4720",
+      "albums": [
+        {
+          "album_name": "Signs of the Sojourner (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6iDIzZ4Z3rPL9A28sLRC7b",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -31941,6 +32053,20 @@
       ]
     },
     {
+      "igdb_id": 121481,
+      "game_name": "Tasomachi: Behind the Twilight",
+      "game_url": "https://ostdb.net/games/tasomachi-behind-the-twilight",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f3eb1de969d9ad20f57320f4",
+      "albums": [
+        {
+          "album_name": "TASOMACHI: Behind the Twilight ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/7gPioKodYTu9L156AaUcu9",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 891,
       "game_name": "Team Fortress 2",
       "game_url": "https://ostdb.net/games/team-fortress-2",
@@ -32390,6 +32516,20 @@
           "album_name": "The Alters (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3ioR5U3lseaIqK7ligASmi",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 128228,
+      "game_name": "The Ambassador: Fractured Timelines",
+      "game_url": "https://ostdb.net/games/the-ambassador-fractured-timelines",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27379a5c349e23495240fdaf88f",
+      "albums": [
+        {
+          "album_name": "The Ambassador: Fractured Timelines - Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/4G77yc6Sg5sTndtLv46UGl",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
