@@ -4550,6 +4550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiend Legion | 110393 | [110393-fiend-legion.json](./110393-fiend-legion.json) |
 | Fiend's Archive | 226561 | [226561-fiends-archive.json](./226561-fiends-archive.json) |
 | Fiend's Isle | 144739 | [144739-fiends-isle.json](./144739-fiends-isle.json) |
+| FiendFinder.com | 322885 | [322885-fiendfinder-com.json](./322885-fiendfinder-com.json) |
 | Fiendish Freddy's Big Top O' Fun | 12095 | [12095-fiendish-freddys-big-top-o-fun.json](./12095-fiendish-freddys-big-top-o-fun.json) |
 | Fiendish Thieves | 156998 | [156998-fiendish-thieves.json](./156998-fiendish-thieves.json) |
 | Fiendrise | 331659 | [331659-fiendrise.json](./331659-fiendrise.json) |
