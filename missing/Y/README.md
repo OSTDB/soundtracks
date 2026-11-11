@@ -479,7 +479,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yedesna Shoots 3 | 327748 | [327748-yedesna-shoots-3.json](./327748-yedesna-shoots-3.json) |
 | Yedoma Globula | 140051 | [140051-yedoma-globula.json](./140051-yedoma-globula.json) |
 | Yee-Haw!! | 302414 | [302414-yee-haw.json](./302414-yee-haw.json) |
-| Yeeps | 304187 | [304187-yeeps.json](./304187-yeeps.json) |
 | Yeeraffe | 325300 | [325300-yeeraffe.json](./325300-yeeraffe.json) |
 | Yeerk Pool | 257435 | [257435-yeerk-pool.json](./257435-yeerk-pool.json) |
 | Yeet | 264516 | [264516-yeet.json](./264516-yeet.json) |
