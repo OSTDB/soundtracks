@@ -5993,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquid Peak: Offroad | 349743 | [349743-liquid-peak-offroad.json](./349743-liquid-peak-offroad.json) |
 | Liquid Pinball | 30357 | [30357-liquid-pinball.json](./30357-liquid-pinball.json) |
 | Liquid Rhythm | 16826 | [16826-liquid-rhythm.json](./16826-liquid-rhythm.json) |
+| Liquid Sort Puzzle | 393176 | [393176-liquid-sort-puzzle.json](./393176-liquid-sort-puzzle.json) |
 | Liquid Space | 127078 | [127078-liquid-space.json](./127078-liquid-space.json) |
 | Liquid Space | 264554 | [264554-liquid-space.json](./264554-liquid-space.json) |
 | Liquid Sugar | 357193 | [357193-liquid-sugar.json](./357193-liquid-sugar.json) |
