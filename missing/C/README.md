@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car's Empire | 176218 | [176218-cars-empire.json](./176218-cars-empire.json) |
 | Car+ Toon Race: Rally Valley Champion | 223757 | [223757-car-toon-race-rally-valley-champion.json](./223757-car-toon-race-rally-valley-champion.json) |
 | Car2 | 295956 | [295956-car2.json](./295956-car2.json) |
+| Cara Mia | 336196 | [336196-cara-mia.json](./336196-cara-mia.json) |
 | Cara Night | 46618 | [46618-cara-night.json](./46618-cara-night.json) |
 | Cara's Bouncy Castle | 365019 | [365019-caras-bouncy-castle.json](./365019-caras-bouncy-castle.json) |
 | Cara's Donkey Derby | 365020 | [365020-caras-donkey-derby.json](./365020-caras-donkey-derby.json) |
@@ -3089,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnaval | 304055 | [304055-carnaval.json](./304055-carnaval.json) |
 | Carnaval Marbles | 360327 | [360327-carnaval-marbles.json](./360327-carnaval-marbles.json) |
 | Carnaval Simulator | 275405 | [275405-carnaval-simulator.json](./275405-carnaval-simulator.json) |
+| Carne Vescens | 336201 | [336201-carne-vescens.json](./336201-carne-vescens.json) |
 | CarneyVale Showtime | 92349 | [92349-carneyvale-showtime.json](./92349-carneyvale-showtime.json) |
 | Carnholt | 401332 | [401332-carnholt.json](./401332-carnholt.json) |
 | Carniball | 64832 | [64832-carniball.json](./64832-carniball.json) |
@@ -6856,6 +6858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaste Tris | 202615 | [202615-chaste-tris.json](./202615-chaste-tris.json) |
 | Chastity Catastrophe | 192588 | [192588-chastity-catastrophe.json](./192588-chastity-catastrophe.json) |
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
+| Chat Champions | 336249 | [336249-chat-champions.json](./336249-chat-champions.json) |
 | Chat Guess Games | 280857 | [280857-chat-guess-games.json](./280857-chat-guess-games.json) |
 | Chat is Real | 329453 | [329453-chat-is-real.json](./329453-chat-is-real.json) |
 | Chat Millions: Stream Quiz Game | 171152 | [171152-chat-millions-stream-quiz-game.json](./171152-chat-millions-stream-quiz-game.json) |
@@ -10429,6 +10432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash King | 93954 | [93954-clash-king.json](./93954-clash-king.json) |
 | Clash Memory Game | 158557 | [158557-clash-memory-game.json](./158557-clash-memory-game.json) |
 | Clash Mini | 172495 | [172495-clash-mini.json](./172495-clash-mini.json) |
+| Clash of Adventurers | 336203 | [336203-clash-of-adventurers.json](./336203-clash-of-adventurers.json) |
 | Clash of Aggression | 24497 | [24497-clash-of-aggression.json](./24497-clash-of-aggression.json) |
 | Clash of Aliens | 175144 | [175144-clash-of-aliens.json](./175144-clash-of-aliens.json) |
 | Clash of Beasts | 197185 | [197185-clash-of-beasts.json](./197185-clash-of-beasts.json) |
@@ -13009,6 +13013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Summoners | 297096 | [297096-color-summoners.json](./297096-color-summoners.json) |
 | Color Surge | 306354 | [306354-color-surge.json](./306354-color-surge.json) |
 | Color Swiper | 319956 | [319956-color-swiper.json](./319956-color-swiper.json) |
+| Color Swiper 3 | 336228 | [336228-color-swiper-3.json](./336228-color-swiper-3.json) |
 | Color Switch | 348722 | [348722-color-switch.json](./348722-color-switch.json) |
 | Color Switch - Jump and Switch | 98890 | [98890-color-switch-jump-and-switch.json](./98890-color-switch-jump-and-switch.json) |
 | Color Switch Trivia | 89751 | [89751-color-switch-trivia.json](./89751-color-switch-trivia.json) |
@@ -19431,6 +19436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crowd Diver | 291819 | [291819-crowd-diver.json](./291819-crowd-diver.json) |
 | Crowd Evolution! | 218199 | [218199-crowd-evolution.json](./218199-crowd-evolution.json) |
 | Crowd Favorites | 416509 | [416509-crowd-favorites.json](./416509-crowd-favorites.json) |
+| Crowd Fighters | 336219 | [336219-crowd-fighters.json](./336219-crowd-fighters.json) |
 | Crowd King | 185106 | [185106-crowd-king.json](./185106-crowd-king.json) |
 | Crowd Medieval City War | 236522 | [236522-crowd-medieval-city-war.json](./236522-crowd-medieval-city-war.json) |
 | Crowd Run | 323304 | [323304-crowd-run.json](./323304-crowd-run.json) |
