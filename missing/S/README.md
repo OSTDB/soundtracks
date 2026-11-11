@@ -2935,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlet Shift | 366588 | [366588-scarlet-shift.json](./366588-scarlet-shift.json) |
 | Scarlet Skips | 398972 | [398972-scarlet-skips.json](./398972-scarlet-skips.json) |
 | Scarlet Smiling Skull | 107501 | [107501-scarlet-smiling-skull.json](./107501-scarlet-smiling-skull.json) |
+| Scarlet Snow | 334997 | [334997-scarlet-snow.json](./334997-scarlet-snow.json) |
 | Scarlet Sorceress | 382217 | [382217-scarlet-sorceress.json](./382217-scarlet-sorceress.json) |
 | Scarlet Tale | 216930 | [216930-scarlet-tale.json](./216930-scarlet-tale.json) |
 | Scarlet Thread | 290714 | [290714-scarlet-thread.json](./290714-scarlet-thread.json) |
@@ -7089,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Defense: Kingdom | 103842 | [103842-shadow-defense-kingdom.json](./103842-shadow-defense-kingdom.json) |
 | Shadow Detective | 292577 | [292577-shadow-detective.json](./292577-shadow-detective.json) |
 | Shadow Dream | 330306 | [330306-shadow-dream.json](./330306-shadow-dream.json) |
+| Shadow Dreams | 334403 | [334403-shadow-dreams.json](./334403-shadow-dreams.json) |
 | Shadow Dreams: The Last Thought of Hope | 150453 | [150453-shadow-dreams-the-last-thought-of-hope.json](./150453-shadow-dreams-the-last-thought-of-hope.json) |
 | Shadow Dungeon | 391813 | [391813-shadow-dungeon.json](./391813-shadow-dungeon.json) |
 | Shadow Dwellers: Deliverance | 391729 | [391729-shadow-dwellers-deliverance.json](./391729-shadow-dwellers-deliverance.json) |
@@ -11966,6 +11968,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simplz Zoo | 28985 | [28985-simplz-zoo.json](./28985-simplz-zoo.json) |
 | SimPocalypse | 145846 | [145846-simpocalypse.json](./145846-simpocalypse.json) |
 | SimPoly Drive | 243522 | [243522-simpoly-drive.json](./243522-simpoly-drive.json) |
+| Simpson's Car Parking | 334958 | [334958-simpsons-car-parking.json](./334958-simpsons-car-parking.json) |
+| Simpsons Millionaire | 334951 | [334951-simpsons-millionaire.json](./334951-simpsons-millionaire.json) |
+| Simpsons Must Die | 334953 | [334953-simpsons-must-die.json](./334953-simpsons-must-die.json) |
 | Simpsons Treehouse of horror | 102715 | [102715-simpsons-treehouse-of-horror.json](./102715-simpsons-treehouse-of-horror.json) |
 | Simraceway | 50203 | [50203-simraceway.json](./50203-simraceway.json) |
 | SimRail: The Railway Simulator | 164278 | [164278-simrail-the-railway-simulator.json](./164278-simrail-the-railway-simulator.json) |
@@ -12035,6 +12040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simulator XL Bundle | 197977 | [197977-simulator-xl-bundle.json](./197977-simulator-xl-bundle.json) |
 | Simulator Z | 277838 | [277838-simulator-z.json](./277838-simulator-z.json) |
 | Simulator: Parking Lot | 323510 | [323510-simulator-parking-lot.json](./323510-simulator-parking-lot.json) |
+| Simulators Mega Bundle: Truck, Construction, Farming, Offroad, Bus | 334998 | [334998-simulators-mega-bundle-truck-construction-farming-offroad-bus.json](./334998-simulators-mega-bundle-truck-construction-farming-offroad-bus.json) |
 | Simulatte: Coffee Shop Simulator | 186501 | [186501-simulatte-coffee-shop-simulator.json](./186501-simulatte-coffee-shop-simulator.json) |
 | Simulayu | 299112 | [299112-simulayu.json](./299112-simulayu.json) |
 | Simulcra | 15367 | [15367-simulcra.json](./15367-simulcra.json) |
@@ -16927,6 +16933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Cup 2022 | 227130 | [227130-soccer-cup-2022.json](./227130-soccer-cup-2022.json) |
 | Soccer Cup Solitaire | 87064 | [87064-soccer-cup-solitaire.json](./87064-soccer-cup-solitaire.json) |
 | Soccer Cup: World League | 232135 | [232135-soccer-cup-world-league.json](./232135-soccer-cup-world-league.json) |
+| Soccer Dash: Football Simulator | 334980 | [334980-soccer-dash-football-simulator.json](./334980-soccer-dash-football-simulator.json) |
 | Soccer Defense | 231897 | [231897-soccer-defense.json](./231897-soccer-defense.json) |
 | Soccer Director | 141459 | [141459-soccer-director.json](./141459-soccer-director.json) |
 | Soccer Dribble Cup: High Score | 245633 | [245633-soccer-dribble-cup-high-score.json](./245633-soccer-dribble-cup-high-score.json) |
@@ -17583,6 +17590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier Yōki | 277451 | [277451-soldier-yoki.json](./277451-soldier-yoki.json) |
 | Soldiers at War | 69791 | [69791-soldiers-at-war.json](./69791-soldiers-at-war.json) |
 | Soldiers DesireWing | 378437 | [378437-soldiers-desirewing.json](./378437-soldiers-desirewing.json) |
+| Soldiers From The Sky | 334401 | [334401-soldiers-from-the-sky.json](./334401-soldiers-from-the-sky.json) |
 | Soldiers Inc: Mobile Warfare | 56261 | [56261-soldiers-inc-mobile-warfare.json](./56261-soldiers-inc-mobile-warfare.json) |
 | Soldiers Lost Forever (1914-1918) | 105256 | [105256-soldiers-lost-forever-1914-1918.json](./105256-soldiers-lost-forever-1914-1918.json) |
 | Soldiers Never Die | 260707 | [260707-soldiers-never-die.json](./260707-soldiers-never-die.json) |
@@ -18720,6 +18728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Infinity Engine: Crisis City | 326153 | [326153-sonic-infinity-engine-crisis-city.json](./326153-sonic-infinity-engine-crisis-city.json) |
 | Sonic Inflation 2: Battle | 140539 | [140539-sonic-inflation-2-battle.json](./140539-sonic-inflation-2-battle.json) |
 | Sonic Inflation Adventure | 140538 | [140538-sonic-inflation-adventure.json](./140538-sonic-inflation-adventure.json) |
+| Sonic Inhibit | 334964 | [334964-sonic-inhibit.json](./334964-sonic-inhibit.json) |
 | Sonic Into Cyberspace | 316485 | [316485-sonic-into-cyberspace.json](./316485-sonic-into-cyberspace.json) |
 | Sonic into the Black Sea | 417671 | [417671-sonic-into-the-black-sea.json](./417671-sonic-into-the-black-sea.json) |
 | Sonic Involution | 326553 | [326553-sonic-involution.json](./326553-sonic-involution.json) |
@@ -35085,6 +35094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sidekicks 2: The World Championship | 100707 | [100707-super-sidekicks-2-the-world-championship.json](./100707-super-sidekicks-2-the-world-championship.json) |
 | Super Silly Makeover | 220124 | [220124-super-silly-makeover.json](./220124-super-silly-makeover.json) |
 | Super Silverbrothers | 71235 | [71235-super-silverbrothers.json](./71235-super-silverbrothers.json) |
+| Super Simpsons World | 334957 | [334957-super-simpsons-world.json](./334957-super-simpsons-world.json) |
 | Super Size Me: Burger Man | 237292 | [237292-super-size-me-burger-man.json](./237292-super-size-me-burger-man.json) |
 | Super Sized Mario Bros | 286640 | [286640-super-sized-mario-bros.json](./286640-super-sized-mario-bros.json) |
 | Super Sized Rescue Squad | 305764 | [305764-super-sized-rescue-squad.json](./305764-super-sized-rescue-squad.json) |
