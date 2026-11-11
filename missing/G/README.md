@@ -12282,6 +12282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyro Skate | 243730 | [243730-gyro-skate.json](./243730-gyro-skate.json) |
 | Gyro Star VIP | 106553 | [106553-gyro-star-vip.json](./106553-gyro-star-vip.json) |
 | Gyroball | 71116 | [71116-gyroball.json](./71116-gyroball.json) |
+| Gyroban | 333263 | [333263-gyroban.json](./333263-gyroban.json) |
 | GyroBlade | 149211 | [149211-gyroblade.json](./149211-gyroblade.json) |
 | GyroCube VR | 109433 | [109433-gyrocube-vr.json](./109433-gyrocube-vr.json) |
 | Gyrodine | 39682 | [39682-gyrodine.json](./39682-gyrodine.json) |
