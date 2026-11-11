@@ -8974,6 +8974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Door | 151894 | [151894-the-door.json](./151894-the-door.json) |
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
 | The Door | 284286 | [284286-the-door.json](./284286-the-door.json) |
+| The Door | 338423 | [338423-the-door.json](./338423-the-door.json) |
 | The Door | 339212 | [339212-the-door.json](./339212-the-door.json) |
 | The Door at the End of the Hall | 398321 | [398321-the-door-at-the-end-of-the-hall.json](./398321-the-door-at-the-end-of-the-hall.json) |
 | The Door Factory | 405529 | [405529-the-door-factory.json](./405529-the-door-factory.json) |
