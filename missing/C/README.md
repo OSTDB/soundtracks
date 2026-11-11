@@ -7069,6 +7069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef: Cocktails & Drinks | 249198 | [249198-chef-cocktails-and-drinks.json](./249198-chef-cocktails-and-drinks.json) |
 | Chef's Dogma | 405054 | [405054-chefs-dogma.json](./405054-chefs-dogma.json) |
 | Chef's Tail | 144247 | [144247-chefs-tail.json](./144247-chefs-tail.json) |
+| Chef's Van | 382703 | [382703-chefs-van.json](./382703-chefs-van.json) |
 | Chefcito Asesino | 298694 | [298694-chefcito-asesino.json](./298694-chefcito-asesino.json) |
 | Chefrens Pyramid | 142454 | [142454-chefrens-pyramid.json](./142454-chefrens-pyramid.json) |
 | Chefs Arena | 392186 | [392186-chefs-arena.json](./392186-chefs-arena.json) |
@@ -9133,6 +9134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronos: Trap in Time | 418530 | [418530-chronos-trap-in-time.json](./418530-chronos-trap-in-time.json) |
 | Chronoscript: The Endless End | 369997 | [369997-chronoscript-the-endless-end.json](./369997-chronoscript-the-endless-end.json) |
 | Chronoshot | 138736 | [138736-chronoshot.json](./138736-chronoshot.json) |
+| Chronosmith's Saga | 382708 | [382708-chronosmiths-saga.json](./382708-chronosmiths-saga.json) |
 | Chronostacia | 59155 | [59155-chronostacia.json](./59155-chronostacia.json) |
 | Chronostasis | 378253 | [378253-chronostasis.json](./378253-chronostasis.json) |
 | Chronostation | 130239 | [130239-chronostation.json](./130239-chronostation.json) |
@@ -10317,6 +10319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClanRivals: Vikings | 159876 | [159876-clanrivals-vikings.json](./159876-clanrivals-vikings.json) |
 | Clans | 17121 | [17121-clans.json](./17121-clans.json) |
 | Clans Logue | 259718 | [259718-clans-logue.json](./259718-clans-logue.json) |
+| Clans of Four Color: Impossible Promise | 382716 | [382716-clans-of-four-color-impossible-promise.json](./382716-clans-of-four-color-impossible-promise.json) |
 | Clans of London | 379128 | [379128-clans-of-london.json](./379128-clans-of-london.json) |
 | Clans to Kingdoms | 117417 | [117417-clans-to-kingdoms.json](./117417-clans-to-kingdoms.json) |
 | Clanswoman | 264598 | [264598-clanswoman.json](./264598-clanswoman.json) |
