@@ -7547,7 +7547,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chewing Gum Tests | 221685 | [221685-chewing-gum-tests.json](./221685-chewing-gum-tests.json) |
 | Chewy: Escape from F5 | 47034 | [47034-chewy-escape-from-f5.json](./47034-chewy-escape-from-f5.json) |
 | Chex | 232978 | [232978-chex.json](./232978-chex.json) |
-| Chex Quest | 8192 | [8192-chex-quest.json](./8192-chex-quest.json) |
 | Chex Quest 2: Flemoids Take Chextropolis | 8718 | [8718-chex-quest-2-flemoids-take-chextropolis.json](./8718-chex-quest-2-flemoids-take-chextropolis.json) |
 | Chex Quest 3 | 50386 | [50386-chex-quest-3.json](./50386-chex-quest-3.json) |
 | Chex Quest 4: Flemmed to The Core | 252535 | [252535-chex-quest-4-flemmed-to-the-core.json](./252535-chex-quest-4-flemmed-to-the-core.json) |
@@ -21388,6 +21387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Objects: Find and Seal | 414887 | [414887-cursed-objects-find-and-seal.json](./414887-cursed-objects-find-and-seal.json) |
 | Cursed Omelette | 370114 | [370114-cursed-omelette.json](./370114-cursed-omelette.json) |
 | Cursed One | 121168 | [121168-cursed-one.json](./121168-cursed-one.json) |
+| Cursed Ones | 317570 | [317570-cursed-ones.json](./317570-cursed-ones.json) |
 | Cursed Order | 284993 | [284993-cursed-order.json](./284993-cursed-order.json) |
 | Cursed Pagoda | 126861 | [126861-cursed-pagoda.json](./126861-cursed-pagoda.json) |
 | Cursed Pantsu | 219234 | [219234-cursed-pantsu.json](./219234-cursed-pantsu.json) |
