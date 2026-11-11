@@ -283,6 +283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabisco | 121867 | [121867-rabisco.json](./121867-rabisco.json) |
 | Rabisco+ | 147464 | [147464-rabisco.json](./147464-rabisco.json) |
 | Rabit | 340935 | [340935-rabit.json](./340935-rabit.json) |
+| Rabolut: Escape From Hell | 369493 | [369493-rabolut-escape-from-hell.json](./369493-rabolut-escape-from-hell.json) |
 | Raburaba: Love Rubber | 82256 | [82256-raburaba-love-rubber.json](./82256-raburaba-love-rubber.json) |
 | Racar | 399037 | [399037-racar.json](./399037-racar.json) |
 | Raccateer | 346381 | [346381-raccateer.json](./346381-raccateer.json) |
