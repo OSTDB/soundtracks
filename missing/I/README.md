@@ -2035,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignis - Brain Teasing Puzzle Game | 105843 | [105843-ignis-brain-teasing-puzzle-game.json](./105843-ignis-brain-teasing-puzzle-game.json) |
 | Ignis Avis Venatio | 89417 | [89417-ignis-avis-venatio.json](./89417-ignis-avis-venatio.json) |
 | Ignis Corruption | 196241 | [196241-ignis-corruption.json](./196241-ignis-corruption.json) |
+| Ignis Dei | 361962 | [361962-ignis-dei.json](./361962-ignis-dei.json) |
 | Ignis Universia: Awakening of the Erudite Empress | 171380 | [171380-ignis-universia-awakening-of-the-erudite-empress.json](./171380-ignis-universia-awakening-of-the-erudite-empress.json) |
 | Ignis Universia: Eternal Sisters Saga | 182020 | [182020-ignis-universia-eternal-sisters-saga.json](./182020-ignis-universia-eternal-sisters-saga.json) |
 | Ignis Universia: Eternal Sisters Saga DX | 144213 | [144213-ignis-universia-eternal-sisters-saga-dx.json](./144213-ignis-universia-eternal-sisters-saga-dx.json) |
@@ -5476,6 +5477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellaria | 9044 | [9044-interstellaria.json](./9044-interstellaria.json) |
 | Interstice | 278263 | [278263-interstice.json](./278263-interstice.json) |
 | Interstice Academy: Love is Blind | 284735 | [284735-interstice-academy-love-is-blind.json](./284735-interstice-academy-love-is-blind.json) |
+| Interstice: Journey Into Darkness | 361945 | [361945-interstice-journey-into-darkness.json](./361945-interstice-journey-into-darkness.json) |
 | Intertwined | 177921 | [177921-intertwined.json](./177921-intertwined.json) |
 | Intertwined | 231570 | [231570-intertwined.json](./231570-intertwined.json) |
 | Intertwined | 397231 | [397231-intertwined.json](./397231-intertwined.json) |
