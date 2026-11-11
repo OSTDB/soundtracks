@@ -3115,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schatzsuche in Alaska | 91570 | [91570-schatzsuche-in-alaska.json](./91570-schatzsuche-in-alaska.json) |
 | Schbibinman Zero: Shockman Zero | 38226 | [38226-schbibinman-zero-shockman-zero.json](./38226-schbibinman-zero-shockman-zero.json) |
 | Schedule I: Dope Empire | 356511 | [356511-schedule-i-dope-empire.json](./356511-schedule-i-dope-empire.json) |
+| Schedule I: Drug Dealer | 361349 | [361349-schedule-i-drug-dealer.json](./361349-schedule-i-drug-dealer.json) |
 | Schedule I: Mafia Empire | 350050 | [350050-schedule-i-mafia-empire.json](./350050-schedule-i-mafia-empire.json) |
 | Schedule Store Simulator | 406767 | [406767-schedule-store-simulator.json](./406767-schedule-store-simulator.json) |
 | Schein | 8990 | [8990-schein.json](./8990-schein.json) |
@@ -10654,6 +10655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VII: Brush and Blade Collection - Wonder Pack | 418584 | [418584-sid-meiers-civilization-vii-brush-and-blade-collection-wonder-pack.json](./418584-sid-meiers-civilization-vii-brush-and-blade-collection-wonder-pack.json) |
 | Sid Meier's Civilization VII: Bulgaria Pack | 360528 | [360528-sid-meiers-civilization-vii-bulgaria-pack.json](./360528-sid-meiers-civilization-vii-bulgaria-pack.json) |
 | Sid Meier's Civilization VII: Carthage Pack | 360531 | [360531-sid-meiers-civilization-vii-carthage-pack.json](./360531-sid-meiers-civilization-vii-carthage-pack.json) |
+| Sid Meier's Civilization VII: Crossroads of the World Collection | 360830 | [360830-sid-meiers-civilization-vii-crossroads-of-the-world-collection.json](./360830-sid-meiers-civilization-vii-crossroads-of-the-world-collection.json) |
 | Sid Meier's Civilization VII: Crossroads of the World Collection - Wonder Pack | 360529 | [360529-sid-meiers-civilization-vii-crossroads-of-the-world-collection-wonder-pack.json](./360529-sid-meiers-civilization-vii-crossroads-of-the-world-collection-wonder-pack.json) |
 | Sid Meier's Civilization VII: Dai Viet Pack | 360534 | [360534-sid-meiers-civilization-vii-dai-viet-pack.json](./360534-sid-meiers-civilization-vii-dai-viet-pack.json) |
 | Sid Meier's Civilization VII: Deluxe Edition | 315854 | [315854-sid-meiers-civilization-vii-deluxe-edition.json](./315854-sid-meiers-civilization-vii-deluxe-edition.json) |
@@ -10730,6 +10732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Pocket: Special Edition | 209011 | [209011-side-pocket-special-edition.json](./209011-side-pocket-special-edition.json) |
 | Side Quest | 33765 | [33765-side-quest.json](./33765-side-quest.json) |
 | Side Scape | 233880 | [233880-side-scape.json](./233880-side-scape.json) |
+| Side Shot Booster | 361357 | [361357-side-shot-booster.json](./361357-side-shot-booster.json) |
 | Side Swap | 216263 | [216263-side-swap.json](./216263-side-swap.json) |
 | Side Swap 2D: Endless Fun | 232294 | [232294-side-swap-2d-endless-fun.json](./232294-side-swap-2d-endless-fun.json) |
 | Side Swipe | 60339 | [60339-side-swipe.json](./60339-side-swipe.json) |
@@ -17154,6 +17157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokker Mayhem | 184251 | [184251-sokker-mayhem.json](./184251-sokker-mayhem.json) |
 | Sokko Seitokai: Sonic Council | 165073 | [165073-sokko-seitokai-sonic-council.json](./165073-sokko-seitokai-sonic-council.json) |
 | Sokkqer | 182173 | [182173-sokkqer.json](./182173-sokkqer.json) |
+| Sokmeal Time | 361376 | [361376-sokmeal-time.json](./361376-sokmeal-time.json) |
 | Soko | 239459 | [239459-soko.json](./239459-soko.json) |
 | Soko | 415200 | [415200-soko.json](./415200-soko.json) |
 | SOKO 1977: Anti-Terror Task Force | 411267 | [411267-soko-1977-anti-terror-task-force.json](./411267-soko-1977-anti-terror-task-force.json) |
@@ -17813,6 +17817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitary Echoes | 322821 | [322821-solitary-echoes.json](./322821-solitary-echoes.json) |
 | Solitary Fighter | 39802 | [39802-solitary-fighter.json](./39802-solitary-fighter.json) |
 | Solitary Grace | 389493 | [389493-solitary-grace.json](./389493-solitary-grace.json) |
+| Solitary in the Library | 360829 | [360829-solitary-in-the-library.json](./360829-solitary-in-the-library.json) |
 | Solitary Mark | 290211 | [290211-solitary-mark.json](./290211-solitary-mark.json) |
 | Solitary Sentinel | 309307 | [309307-solitary-sentinel.json](./309307-solitary-sentinel.json) |
 | Solitary Singleplayer Offline MMORPG | 424020 | [424020-solitary-singleplayer-offline-mmorpg.json](./424020-solitary-singleplayer-offline-mmorpg.json) |
@@ -27671,6 +27676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steam Veins | 319062 | [319062-steam-veins.json](./319062-steam-veins.json) |
 | Steam-Heart's | 44309 | [44309-steam-hearts.json](./44309-steam-hearts.json) |
 | Steam-Heart's | 45973 | [45973-steam-hearts.json](./45973-steam-hearts.json) |
+| Steam-Heart's & Advanced V.G.: Saturn Tribute | 361368 | [361368-steam-hearts-and-advanced-v-g-saturn-tribute.json](./361368-steam-hearts-and-advanced-v-g-saturn-tribute.json) |
 | Steam-Heart's: Saturn Tribute | 343558 | [343558-steam-hearts-saturn-tribute.json](./343558-steam-hearts-saturn-tribute.json) |
 | Steam: Rails to Riches | 29429 | [29429-steam-rails-to-riches.json](./29429-steam-rails-to-riches.json) |
 | Steam: Rails to Riches - Belgium & Luxembourg Map | 162706 | [162706-steam-rails-to-riches-belgium-and-luxembourg-map.json](./162706-steam-rails-to-riches-belgium-and-luxembourg-map.json) |
