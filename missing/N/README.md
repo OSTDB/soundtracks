@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nat Geo Challenge! Wild Life | 21573 | [21573-nat-geo-challenge-wild-life.json](./21573-nat-geo-challenge-wild-life.json) |
 | Nat Geo Traveler: Sudoku China | 67262 | [67262-nat-geo-traveler-sudoku-china.json](./67262-nat-geo-traveler-sudoku-china.json) |
 | Natação | 359760 | [359760-natacao.json](./359760-natacao.json) |
+| Natal Perdido | 367322 | [367322-natal-perdido.json](./367322-natal-perdido.json) |
 | Natalie Brooks Treasures of the Lost Kingdom | 143378 | [143378-natalie-brooks-treasures-of-the-lost-kingdom.json](./143378-natalie-brooks-treasures-of-the-lost-kingdom.json) |
 | Natalie Brooks: Mystery at Hillcrest High | 54246 | [54246-natalie-brooks-mystery-at-hillcrest-high.json](./54246-natalie-brooks-mystery-at-hillcrest-high.json) |
 | Natalie Brooks: Secrets of Treasure House | 54247 | [54247-natalie-brooks-secrets-of-treasure-house.json](./54247-natalie-brooks-secrets-of-treasure-house.json) |
@@ -6400,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noa's Project | 212836 | [212836-noas-project.json](./212836-noas-project.json) |
 | Noah | 130260 | [130260-noah.json](./130260-noah.json) |
 | Noah | 252670 | [252670-noah.json](./252670-noah.json) |
+| Noah and the Sea | 367076 | [367076-noah-and-the-sea.json](./367076-noah-and-the-sea.json) |
 | Noah City: Rise of the conqueror | 278894 | [278894-noah-city-rise-of-the-conqueror.json](./278894-noah-city-rise-of-the-conqueror.json) |
 | Noah in a Dream | 236295 | [236295-noah-in-a-dream.json](./236295-noah-in-a-dream.json) |
 | Noah no Yurikago | 58830 | [58830-noah-no-yurikago.json](./58830-noah-no-yurikago.json) |
