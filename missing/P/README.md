@@ -8628,6 +8628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Game Maker Series: Angel's Blood | 224205 | [224205-pixel-game-maker-series-angels-blood.json](./224205-pixel-game-maker-series-angels-blood.json) |
 | Pixel Game Maker Series: Angel's Blood | 225331 | [225331-pixel-game-maker-series-angels-blood.json](./225331-pixel-game-maker-series-angels-blood.json) |
 | Pixel Game Maker Series: Angel's Gear | 257714 | [257714-pixel-game-maker-series-angels-gear.json](./257714-pixel-game-maker-series-angels-gear.json) |
+| Pixel Game Maker Series: Arcanion Magi Side Story | 342324 | [342324-pixel-game-maker-series-arcanion-magi-side-story.json](./342324-pixel-game-maker-series-arcanion-magi-side-story.json) |
 | Pixel Game Maker Series: Cat and Castle | 288314 | [288314-pixel-game-maker-series-cat-and-castle.json](./288314-pixel-game-maker-series-cat-and-castle.json) |
 | Pixel Game Maker Series: Cat and Tower | 233868 | [233868-pixel-game-maker-series-cat-and-tower.json](./233868-pixel-game-maker-series-cat-and-tower.json) |
 | Pixel Game Maker Series: Chrotopia | 320460 | [320460-pixel-game-maker-series-chrotopia.json](./320460-pixel-game-maker-series-chrotopia.json) |
@@ -10867,6 +10868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plush Dog | 287544 | [287544-plush-dog.json](./287544-plush-dog.json) |
 | Plush Hospital | 319999 | [319999-plush-hospital.json](./319999-plush-hospital.json) |
 | Plush Parade | 391336 | [391336-plush-parade.json](./391336-plush-parade.json) |
+| Plush Party | 342312 | [342312-plush-party.json](./342312-plush-party.json) |
 | Plush Rangers | 386766 | [386766-plush-rangers.json](./386766-plush-rangers.json) |
 | Plush Shop Simulator | 349852 | [349852-plush-shop-simulator.json](./349852-plush-shop-simulator.json) |
 | Plush Wars | 88753 | [88753-plush-wars.json](./88753-plush-wars.json) |
