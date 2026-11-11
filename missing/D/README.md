@@ -3440,6 +3440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DCS World: F-86F Sabre Hunters Over the Yalu Campaign | 156265 | [156265-dcs-world-f-86f-sabre-hunters-over-the-yalu-campaign.json](./156265-dcs-world-f-86f-sabre-hunters-over-the-yalu-campaign.json) |
 | DCS World: F/A-18C - Aggressors BFM Campaign | 169958 | [169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json](./169958-dcs-world-f-a-18c-aggressors-bfm-campaign.json) |
 | DCS World: F/A-18C Arctic Thunder Campaign | 324732 | [324732-dcs-world-f-a-18c-arctic-thunder-campaign.json](./324732-dcs-world-f-a-18c-arctic-thunder-campaign.json) |
+| DCS World: F/A-18C Flaming Sunrise Campaign by Sandman Simulations | 325164 | [325164-dcs-world-f-a-18c-flaming-sunrise-campaign-by-sandman-simulations.json](./325164-dcs-world-f-a-18c-flaming-sunrise-campaign-by-sandman-simulations.json) |
 | DCS World: F/A-18C Hornet | 156293 | [156293-dcs-world-f-a-18c-hornet.json](./156293-dcs-world-f-a-18c-hornet.json) |
 | DCS World: F/A-18C Hornet - The Serpent's Head 2 Campaign | 156255 | [156255-dcs-world-f-a-18c-hornet-the-serpents-head-2-campaign.json](./156255-dcs-world-f-a-18c-hornet-the-serpents-head-2-campaign.json) |
 | DCS World: F/A-18C Hornet Raven One Сampaign | 156262 | [156262-dcs-world-f-a-18c-hornet-raven-one-ampaign.json](./156262-dcs-world-f-a-18c-hornet-raven-one-ampaign.json) |
@@ -4170,6 +4171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising Deluxe Remaster: Costume & BGM - Rikuo | 360167 | [360167-dead-rising-deluxe-remaster-costume-and-bgm-rikuo.json](./360167-dead-rising-deluxe-remaster-costume-and-bgm-rikuo.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Sheriff | 360163 | [360163-dead-rising-deluxe-remaster-costume-and-bgm-sheriff.json](./360163-dead-rising-deluxe-remaster-costume-and-bgm-sheriff.json) |
 | Dead Rising Deluxe Remaster: Costume & BGM - Tron Bonne | 360162 | [360162-dead-rising-deluxe-remaster-costume-and-bgm-tron-bonne.json](./360162-dead-rising-deluxe-remaster-costume-and-bgm-tron-bonne.json) |
+| Dead Rising Deluxe Remaster: Special Edition | 324593 | [324593-dead-rising-deluxe-remaster-special-edition.json](./324593-dead-rising-deluxe-remaster-special-edition.json) |
 | Dead Rising mobile | 81391 | [81391-dead-rising-mobile.json](./81391-dead-rising-mobile.json) |
 | Dead Rising: Chop Till You Drop | 4798 | [4798-dead-rising-chop-till-you-drop.json](./4798-dead-rising-chop-till-you-drop.json) |
 | Dead Rising: The Survival | 64627 | [64627-dead-rising-the-survival.json](./64627-dead-rising-the-survival.json) |
@@ -8316,6 +8318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
 | Detective Bass 2: The Case of the Stolen Pearls | 283356 | [283356-detective-bass-2-the-case-of-the-stolen-pearls.json](./283356-detective-bass-2-the-case-of-the-stolen-pearls.json) |
 | Detective Bass: Fish Out Of Water | 299369 | [299369-detective-bass-fish-out-of-water.json](./299369-detective-bass-fish-out-of-water.json) |
+| Detective Beebo: Night at the Mansion | 324595 | [324595-detective-beebo-night-at-the-mansion.json](./324595-detective-beebo-night-at-the-mansion.json) |
 | Detective Bloodphobia | 374913 | [374913-detective-bloodphobia.json](./374913-detective-bloodphobia.json) |
 | Detective Bogey | 389380 | [389380-detective-bogey.json](./389380-detective-bogey.json) |
 | Detective Boiled-Hard / Case File - Death of the Space Dino Hunter | 393455 | [393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json](./393455-detective-boiled-hard-case-file-death-of-the-space-dino-hunter.json) |
@@ -8731,6 +8734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Slayer | 171461 | [171461-devil-slayer.json](./171461-devil-slayer.json) |
 | Devil Slayer: Raksasi | 125075 | [125075-devil-slayer-raksasi.json](./125075-devil-slayer-raksasi.json) |
 | Devil Slayer: Raksasi - Incarnation of Darkness | 242023 | [242023-devil-slayer-raksasi-incarnation-of-darkness.json](./242023-devil-slayer-raksasi-incarnation-of-darkness.json) |
+| Devil Slayer: Raksasi 2 | 325168 | [325168-devil-slayer-raksasi-2.json](./325168-devil-slayer-raksasi-2.json) |
 | Devil Slot Machine | 276875 | [276875-devil-slot-machine.json](./276875-devil-slot-machine.json) |
 | Devil Spire | 187879 | [187879-devil-spire.json](./187879-devil-spire.json) |
 | Devil Spire Falls | 341018 | [341018-devil-spire-falls.json](./341018-devil-spire-falls.json) |
@@ -12103,6 +12107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DKO: Divine Knockout - Starter Edition | 231338 | [231338-dko-divine-knockout-starter-edition.json](./231338-dko-divine-knockout-starter-edition.json) |
 | DKO: Divine Knockout - Ultimate Edition | 228847 | [228847-dko-divine-knockout-ultimate-edition.json](./228847-dko-divine-knockout-ultimate-edition.json) |
 | DLC Quest | 3004 | [3004-dlc-quest.json](./3004-dlc-quest.json) |
+| DLC Quest: Live Freemium or Die | 325180 | [325180-dlc-quest-live-freemium-or-die.json](./325180-dlc-quest-live-freemium-or-die.json) |
 | dlroW oiraM repuS | 145481 | [145481-dlrow-oiram-repus.json](./145481-dlrow-oiram-repus.json) |
 | DM with Me | 413691 | [413691-dm-with-me.json](./413691-dm-with-me.json) |
 | DMB | 282678 | [282678-dmb.json](./282678-dmb.json) |
@@ -12195,6 +12200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Pass Go | 184967 | [184967-do-not-pass-go.json](./184967-do-not-pass-go.json) |
 | Do Not Play | 339989 | [339989-do-not-play.json](./339989-do-not-play.json) |
 | Do Not Press Me | 398135 | [398135-do-not-press-me.json](./398135-do-not-press-me.json) |
+| Do Not Press The Button (Or You'll Delete The Multiverse) | 325148 | [325148-do-not-press-the-button-or-youll-delete-the-multiverse.json](./325148-do-not-press-the-button-or-youll-delete-the-multiverse.json) |
 | Do Not Press the Red Button | 88105 | [88105-do-not-press-the-red-button.json](./88105-do-not-press-the-red-button.json) |
 | Do Not Say 21! | 370046 | [370046-do-not-say-21.json](./370046-do-not-say-21.json) |
 | Do Not Smile | 271107 | [271107-do-not-smile.json](./271107-do-not-smile.json) |
@@ -15694,6 +15700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Sparking Zero!: Ultimate Upgrade Pack | 323407 | [323407-dragon-ball-sparking-zero-ultimate-upgrade-pack.json](./323407-dragon-ball-sparking-zero-ultimate-upgrade-pack.json) |
 | Dragon Ball Sparking! Zero: Season Pass | 323406 | [323406-dragon-ball-sparking-zero-season-pass.json](./323406-dragon-ball-sparking-zero-season-pass.json) |
 | Dragon Ball Super Card Game Fusion World | 292100 | [292100-dragon-ball-super-card-game-fusion-world.json](./292100-dragon-ball-super-card-game-fusion-world.json) |
+| Dragon Ball Super Divers | 325169 | [325169-dragon-ball-super-divers.json](./325169-dragon-ball-super-divers.json) |
 | Dragon Ball Super TCG | 212759 | [212759-dragon-ball-super-tcg.json](./212759-dragon-ball-super-tcg.json) |
 | Dragon Ball Super: Card Game - Fusion World | 283612 | [283612-dragon-ball-super-card-game-fusion-world.json](./283612-dragon-ball-super-card-game-fusion-world.json) |
 | Dragon Ball Universe | 176638 | [176638-dragon-ball-universe.json](./176638-dragon-ball-universe.json) |
