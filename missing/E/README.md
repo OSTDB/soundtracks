@@ -8469,6 +8469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expand TD | 422390 | [422390-expand-td.json](./422390-expand-td.json) |
 | Expandaball | 394809 | [394809-expandaball.json](./394809-expandaball.json) |
 | Expander | 34256 | [34256-expander.json](./34256-expander.json) |
+| ExpandoScape | 319337 | [319337-expandoscape.json](./319337-expandoscape.json) |
 | Expanse | 343772 | [343772-expanse.json](./343772-expanse.json) |
 | Expanse | 52049 | [52049-expanse.json](./52049-expanse.json) |
 | ExpanSim | 117640 | [117640-expansim.json](./117640-expansim.json) |
