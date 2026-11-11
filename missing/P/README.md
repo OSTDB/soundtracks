@@ -10820,6 +10820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumbers Don't Wear Ties: Definitive Edition | 203765 | [203765-plumbers-dont-wear-ties-definitive-edition.json](./203765-plumbers-dont-wear-ties-definitive-edition.json) |
 | Plumbers Don't Wear Ties: Definitive Edition - Collector's Edition | 267640 | [267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json](./267640-plumbers-dont-wear-ties-definitive-edition-collectors-edition.json) |
 | Plumbing Contest | 230836 | [230836-plumbing-contest.json](./230836-plumbing-contest.json) |
+| Plumbum | 329262 | [329262-plumbum.json](./329262-plumbum.json) |
 | Plumeboom First Chapter | 25374 | [25374-plumeboom-first-chapter.json](./25374-plumeboom-first-chapter.json) |
 | Plummet | 84238 | [84238-plummet.json](./84238-plummet.json) |
 | Plummet Challenge Game | 214519 | [214519-plummet-challenge-game.json](./214519-plummet-challenge-game.json) |
@@ -12306,6 +12307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Trading Card Game Pocket: Pulsing Aura | 401264 | [401264-pokemon-trading-card-game-pocket-pulsing-aura.json](./401264-pokemon-trading-card-game-pocket-pulsing-aura.json) |
 | Pokémon Trading Card Game Pocket: Secluded Springs | 363547 | [363547-pokemon-trading-card-game-pocket-secluded-springs.json](./363547-pokemon-trading-card-game-pocket-secluded-springs.json) |
 | Pokémon Trading Card Game Pocket: Shining Revelry | 336232 | [336232-pokemon-trading-card-game-pocket-shining-revelry.json](./336232-pokemon-trading-card-game-pocket-shining-revelry.json) |
+| Pokémon Trading Card Game Pocket: Space-Time Smackdown | 329285 | [329285-pokemon-trading-card-game-pocket-space-time-smackdown.json](./329285-pokemon-trading-card-game-pocket-space-time-smackdown.json) |
 | Pokémon Trading Card Game Pocket: Triumphant Light | 333937 | [333937-pokemon-trading-card-game-pocket-triumphant-light.json](./333937-pokemon-trading-card-game-pocket-triumphant-light.json) |
 | Pokémon Trading Card Game: Generations | 276109 | [276109-pokemon-trading-card-game-generations.json](./276109-pokemon-trading-card-game-generations.json) |
 | Pokémon Trading Card Game: Kanto | 276112 | [276112-pokemon-trading-card-game-kanto.json](./276112-pokemon-trading-card-game-kanto.json) |
