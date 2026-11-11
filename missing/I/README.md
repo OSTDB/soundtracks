@@ -284,6 +284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Snails 4 | 360653 | [360653-i-commissioned-some-snails-4.json](./360653-i-commissioned-some-snails-4.json) |
 | I Commissioned Some Unicorns | 257692 | [257692-i-commissioned-some-unicorns.json](./257692-i-commissioned-some-unicorns.json) |
 | I Contemplated the Sun of Limbo | 143549 | [143549-i-contemplated-the-sun-of-limbo.json](./143549-i-contemplated-the-sun-of-limbo.json) |
+| I Crave The Wind's Bite | 324057 | [324057-i-crave-the-winds-bite.json](./324057-i-crave-the-winds-bite.json) |
 | I Crossed Over Into the World of Magic | 371502 | [371502-i-crossed-over-into-the-world-of-magic.json](./371502-i-crossed-over-into-the-world-of-magic.json) |
 | I Deserve a Happy Ending | 167355 | [167355-i-deserve-a-happy-ending.json](./167355-i-deserve-a-happy-ending.json) |
 | I Did a Bad Thing | 229370 | [229370-i-did-a-bad-thing.json](./229370-i-did-a-bad-thing.json) |
