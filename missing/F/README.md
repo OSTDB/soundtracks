@@ -13595,6 +13595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Hearth | 8914 | [8914-frozen-hearth.json](./8914-frozen-hearth.json) |
 | Frozen Hearts | 312959 | [312959-frozen-hearts.json](./312959-frozen-hearts.json) |
 | Frozen Honey ASMR: Complete Edition | 289198 | [289198-frozen-honey-asmr-complete-edition.json](./289198-frozen-honey-asmr-complete-edition.json) |
+| Frozen Honey ASMR: Frost Edition | 360233 | [360233-frozen-honey-asmr-frost-edition.json](./360233-frozen-honey-asmr-frost-edition.json) |
 | Frozen Honey ASMR: Frost Pack | 286207 | [286207-frozen-honey-asmr-frost-pack.json](./286207-frozen-honey-asmr-frost-pack.json) |
 | Frozen Honey ASMR: Nasty Edition | 300894 | [300894-frozen-honey-asmr-nasty-edition.json](./300894-frozen-honey-asmr-nasty-edition.json) |
 | Frozen Honey ASMR: Sleek Edition | 306520 | [306520-frozen-honey-asmr-sleek-edition.json](./306520-frozen-honey-asmr-sleek-edition.json) |
@@ -13799,6 +13800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frutiger Aero | 354488 | [354488-frutiger-aero.json](./354488-frutiger-aero.json) |
 | Frutiger Home | 368055 | [368055-frutiger-home.json](./368055-frutiger-home.json) |
 | Frutiger Space | 366227 | [366227-frutiger-space.json](./366227-frutiger-space.json) |
+| Frutigeropolis: The Promised City | 360249 | [360249-frutigeropolis-the-promised-city.json](./360249-frutigeropolis-the-promised-city.json) |
 | Frutorious | 62949 | [62949-frutorious.json](./62949-frutorious.json) |
 | Frutz | 405530 | [405530-frutz.json](./405530-frutz.json) |
 | Fry Egg | 246274 | [246274-fry-egg.json](./246274-fry-egg.json) |
