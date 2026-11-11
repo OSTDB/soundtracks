@@ -2189,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BandMaster | 185898 | [185898-bandmaster.json](./185898-bandmaster.json) |
 | Bandocracy | 415143 | [415143-bandocracy.json](./415143-bandocracy.json) |
 | BandRoll | 236294 | [236294-bandroll.json](./236294-bandroll.json) |
+| Bandroll VR | 368400 | [368400-bandroll-vr.json](./368400-bandroll-vr.json) |
 | Bandwagon | 401202 | [401202-bandwagon.json](./401202-bandwagon.json) |
 | Bane and Valor | 371510 | [371510-bane-and-valor.json](./371510-bane-and-valor.json) |
 | Bane Murrain | 271080 | [271080-bane-murrain.json](./271080-bane-murrain.json) |
@@ -5189,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beam | 233423 | [233423-beam.json](./233423-beam.json) |
 | Beam | 86139 | [86139-beam.json](./86139-beam.json) |
 | Beam Ball | 101731 | [101731-beam-ball.json](./101731-beam-ball.json) |
+| Beam Bound | 368405 | [368405-beam-bound.json](./368405-beam-bound.json) |
 | Beam Breakers | 24082 | [24082-beam-breakers.json](./24082-beam-breakers.json) |
 | Beam Car Crash Derby | 151484 | [151484-beam-car-crash-derby.json](./151484-beam-car-crash-derby.json) |
 | Beam Car Crash: Drive Simulator 2025 | 376226 | [376226-beam-car-crash-drive-simulator-2025.json](./376226-beam-car-crash-drive-simulator-2025.json) |
@@ -6068,6 +6070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty or the Beast | 165517 | [165517-beauty-or-the-beast.json](./165517-beauty-or-the-beast.json) |
 | Beauty Paradise | 201467 | [201467-beauty-paradise.json](./201467-beauty-paradise.json) |
 | Beauty Rental Shop | 203286 | [203286-beauty-rental-shop.json](./203286-beauty-rental-shop.json) |
+| Beauty Salon | 367878 | [367878-beauty-salon.json](./367878-beauty-salon.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Beauty Solitaire | 305640 | [305640-beauty-solitaire.json](./305640-beauty-solitaire.json) |
 | Beauty vs. Robot | 170279 | [170279-beauty-vs-robot.json](./170279-beauty-vs-robot.json) |
@@ -11298,6 +11301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockbusters | 12940 | [12940-blockbusters.json](./12940-blockbusters.json) |
 | Blockbusters | 153814 | [153814-blockbusters.json](./153814-blockbusters.json) |
 | Blockbusters | 174978 | [174978-blockbusters.json](./174978-blockbusters.json) |
+| Blockbusters | 367883 | [367883-blockbusters.json](./367883-blockbusters.json) |
 | Blockbusters: Gold Run | 13408 | [13408-blockbusters-gold-run.json](./13408-blockbusters-gold-run.json) |
 | BlockBustersVR | 150862 | [150862-blockbustersvr.json](./150862-blockbustersvr.json) |
 | Blockchain Brawlers | 225754 | [225754-blockchain-brawlers.json](./225754-blockchain-brawlers.json) |
@@ -13791,6 +13795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boobs or [Redacted] | 368061 | [368061-boobs-or-redacted.json](./368061-boobs-or-redacted.json) |
 | Boobs Puzzle | 107528 | [107528-boobs-puzzle.json](./107528-boobs-puzzle.json) |
 | Boobs Saga | 89322 | [89322-boobs-saga.json](./89322-boobs-saga.json) |
+| Boobs VR | 367875 | [367875-boobs-vr.json](./367875-boobs-vr.json) |
 | Boobs vs Aliens | 229234 | [229234-boobs-vs-aliens.json](./229234-boobs-vs-aliens.json) |
 | Boobs vs Zombies | 114292 | [114292-boobs-vs-zombies.json](./114292-boobs-vs-zombies.json) |
 | Boobserman | 104950 | [104950-boobserman.json](./104950-boobserman.json) |
@@ -18906,6 +18911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BurgerTime | 199470 | [199470-burgertime.json](./199470-burgertime.json) |
 | BurgerTime | 246390 | [246390-burgertime.json](./246390-burgertime.json) |
 | BurgerTime | 276443 | [276443-burgertime.json](./276443-burgertime.json) |
+| BurgerTime | 367881 | [367881-burgertime.json](./367881-burgertime.json) |
 | BurgerTime | 4609 | [4609-burgertime.json](./4609-burgertime.json) |
 | BurgerTime Deluxe | 48958 | [48958-burgertime-deluxe.json](./48958-burgertime-deluxe.json) |
 | BurgerTime Micro Player | 229893 | [229893-burgertime-micro-player.json](./229893-burgertime-micro-player.json) |
