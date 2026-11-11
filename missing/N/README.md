@@ -3584,7 +3584,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Bros. 2: Nerve-Wrack Pack | 134174 | [134174-new-super-mario-bros-2-nerve-wrack-pack.json](./134174-new-super-mario-bros-2-nerve-wrack-pack.json) |
 | New Super Mario Bros. 2: Platform Panic Pack | 134180 | [134180-new-super-mario-bros-2-platform-panic-pack.json](./134180-new-super-mario-bros-2-platform-panic-pack.json) |
 | New Super Mario Bros. 2: The Impossible Pack | 134170 | [134170-new-super-mario-bros-2-the-impossible-pack.json](./134170-new-super-mario-bros-2-the-impossible-pack.json) |
+| New Super Mario Bros. 2: WillyMaker's Level Pack | 326903 | [326903-new-super-mario-bros-2-willymakers-level-pack.json](./326903-new-super-mario-bros-2-willymakers-level-pack.json) |
 | New Super Mario Bros. 3 DS | 252085 | [252085-new-super-mario-bros-3-ds.json](./252085-new-super-mario-bros-3-ds.json) |
+| New Super Mario Bros. 3DS | 326904 | [326904-new-super-mario-bros-3ds.json](./326904-new-super-mario-bros-3ds.json) |
 | New Super Mario Bros. 5: Clone Tag Team | 146278 | [146278-new-super-mario-bros-5-clone-tag-team.json](./146278-new-super-mario-bros-5-clone-tag-team.json) |
 | New Super Mario Bros. 5: Clone Tag Team 2 | 146279 | [146279-new-super-mario-bros-5-clone-tag-team-2.json](./146279-new-super-mario-bros-5-clone-tag-team-2.json) |
 | New Super Mario Bros. Deluxe | 107234 | [107234-new-super-mario-bros-deluxe.json](./107234-new-super-mario-bros-deluxe.json) |
