@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Defense | 269008 | [269008-halloween-defense.json](./269008-halloween-defense.json) |
 | Halloween Escape | 160159 | [160159-halloween-escape.json](./160159-halloween-escape.json) |
 | Halloween Experience 3: GGen | 295556 | [295556-halloween-experience-3-ggen.json](./295556-halloween-experience-3-ggen.json) |
+| Halloween Filled With Cats | 392558 | [392558-halloween-filled-with-cats.json](./392558-halloween-filled-with-cats.json) |
 | Halloween Forever | 25361 | [25361-halloween-forever.json](./25361-halloween-forever.json) |
 | Halloween Games for Toddlers and Babies | 271518 | [271518-halloween-games-for-toddlers-and-babies.json](./271518-halloween-games-for-toddlers-and-babies.json) |
 | Halloween Games for Toddlers and Kids | 266987 | [266987-halloween-games-for-toddlers-and-kids.json](./266987-halloween-games-for-toddlers-and-kids.json) |
@@ -1181,6 +1182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamster Squad | 177654 | [177654-hamster-squad.json](./177654-hamster-squad.json) |
 | Hamster Survival | 228898 | [228898-hamster-survival.json](./228898-hamster-survival.json) |
+| Hamster Talk | 392550 | [392550-hamster-talk.json](./392550-hamster-talk.json) |
 | Hamster Town | 222833 | [222833-hamster-town.json](./222833-hamster-town.json) |
 | Hamster Tycoon: Cake Maker | 294037 | [294037-hamster-tycoon-cake-maker.json](./294037-hamster-tycoon-cake-maker.json) |
 | Hamster Universe | 106236 | [106236-hamster-universe.json](./106236-hamster-universe.json) |
@@ -4919,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellway | 112693 | [112693-hellway.json](./112693-hellway.json) |
 | Hellway | 269165 | [269165-hellway.json](./269165-hellway.json) |
 | Hellway to Hell | 213841 | [213841-hellway-to-hell.json](./213841-hellway-to-hell.json) |
+| Hellwire | 392553 | [392553-hellwire.json](./392553-hellwire.json) |
 | Hellwomb | 150138 | [150138-hellwomb.json](./150138-hellwomb.json) |
 | Hellworld! | 173183 | [173183-hellworld.json](./173183-hellworld.json) |
 | Helly-Drop | 354758 | [354758-helly-drop.json](./354758-helly-drop.json) |
@@ -10057,6 +10060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HongKong Noir | 255283 | [255283-hongkong-noir.json](./255283-hongkong-noir.json) |
 | Honjou Rendoku to Ushinawareta Nachlass | 398976 | [398976-honjou-rendoku-to-ushinawareta-nachlass.json](./398976-honjou-rendoku-to-ushinawareta-nachlass.json) |
 | Honk | 182625 | [182625-honk.json](./182625-honk.json) |
+| Honk | 392564 | [392564-honk.json](./392564-honk.json) |
 | Honk II | 182648 | [182648-honk-ii.json](./182648-honk-ii.json) |
 | Honk III | 180779 | [180779-honk-iii.json](./180779-honk-iii.json) |
 | Honk of Heroes | 293641 | [293641-honk-of-heroes.json](./293641-honk-of-heroes.json) |
