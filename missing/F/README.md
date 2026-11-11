@@ -6235,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Bloodlines | 322794 | [322794-fire-emblem-bloodlines.json](./322794-fire-emblem-bloodlines.json) |
 | Fire Emblem: Bound Destiny | 345364 | [345364-fire-emblem-bound-destiny.json](./345364-fire-emblem-bound-destiny.json) |
 | Fire Emblem: Call of the Armor | 297698 | [297698-fire-emblem-call-of-the-armor.json](./297698-fire-emblem-call-of-the-armor.json) |
+| Fire Emblem: Cerulean Crescent | 321704 | [321704-fire-emblem-cerulean-crescent.json](./321704-fire-emblem-cerulean-crescent.json) |
 | Fire Emblem: Code of the Black Knights | 213705 | [213705-fire-emblem-code-of-the-black-knights.json](./213705-fire-emblem-code-of-the-black-knights.json) |
 | Fire Emblem: Corrupt Theocracy | 140872 | [140872-fire-emblem-corrupt-theocracy.json](./140872-fire-emblem-corrupt-theocracy.json) |
 | Fire Emblem: Curse of Lagdou | 331954 | [331954-fire-emblem-curse-of-lagdou.json](./331954-fire-emblem-curse-of-lagdou.json) |
@@ -12813,6 +12814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Funkin': VS Spider-Man - Volume II | 225302 | [225302-friday-night-funkin-vs-spider-man-volume-ii.json](./225302-friday-night-funkin-vs-spider-man-volume-ii.json) |
 | Friday Night Funkin': Vs Tree | 228613 | [228613-friday-night-funkin-vs-tree.json](./228613-friday-night-funkin-vs-tree.json) |
 | Friday Night Funkin': vs. /v/ | 235329 | [235329-friday-night-funkin-vs-v.json](./235329-friday-night-funkin-vs-v.json) |
+| Friday Night Funkin': Vs. Camellia | 321707 | [321707-friday-night-funkin-vs-camellia.json](./321707-friday-night-funkin-vs-camellia.json) |
 | Friday Night Funkin': VS. Cassette Girl | 199045 | [199045-friday-night-funkin-vs-cassette-girl.json](./199045-friday-night-funkin-vs-cassette-girl.json) |
 | Friday Night Funkin': vs. Donald J. Trump | 332226 | [332226-friday-night-funkin-vs-donald-j-trump.json](./332226-friday-night-funkin-vs-donald-j-trump.json) |
 | Friday Night Funkin': vs. Evil Otto | 202402 | [202402-friday-night-funkin-vs-evil-otto.json](./202402-friday-night-funkin-vs-evil-otto.json) |
