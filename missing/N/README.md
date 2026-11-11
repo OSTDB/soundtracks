@@ -4600,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Shrub Part 3 | 118026 | [118026-night-of-the-shrub-part-3.json](./118026-night-of-the-shrub-part-3.json) |
 | Night of the Slayers | 285952 | [285952-night-of-the-slayers.json](./285952-night-of-the-slayers.json) |
 | Night of the Stars | 332395 | [332395-night-of-the-stars.json](./332395-night-of-the-stars.json) |
+| Night of the Wendigo | 376980 | [376980-night-of-the-wendigo.json](./376980-night-of-the-wendigo.json) |
 | Night of the Wererat | 216986 | [216986-night-of-the-wererat.json](./216986-night-of-the-wererat.json) |
 | Night of the Witch's Invasion | 330026 | [330026-night-of-the-witchs-invasion.json](./330026-night-of-the-witchs-invasion.json) |
 | Night of the Wordsmith | 64985 | [64985-night-of-the-wordsmith.json](./64985-night-of-the-wordsmith.json) |
@@ -6373,6 +6374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No-Zero | 161585 | [161585-no-zero.json](./161585-no-zero.json) |
 | No, Birdie, No! | 128640 | [128640-no-birdie-no.json](./128640-no-birdie-no.json) |
 | No, Human | 93503 | [93503-no-human.json](./93503-no-human.json) |
+| No, I'm Not a Femboy | 376966 | [376966-no-im-not-a-femboy.json](./376966-no-im-not-a-femboy.json) |
 | No, I'm not a Voenkom | 377757 | [377757-no-im-not-a-voenkom.json](./377757-no-im-not-a-voenkom.json) |
 | No, Thank You!!! | 60564 | [60564-no-thank-you.json](./60564-no-thank-you.json) |
 | NO: Never Outside | 232819 | [232819-no-never-outside.json](./232819-no-never-outside.json) |
