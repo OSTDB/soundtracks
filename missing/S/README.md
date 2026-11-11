@@ -11066,6 +11066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Castle | 399717 | [399717-silent-castle.json](./399717-silent-castle.json) |
 | Silent Cause | 287238 | [287238-silent-cause.json](./287238-silent-cause.json) |
 | Silent Chain | 199192 | [199192-silent-chain.json](./199192-silent-chain.json) |
+| Silent Cleaning | 360230 | [360230-silent-cleaning.json](./360230-silent-cleaning.json) |
 | Silent Code | 301622 | [301622-silent-code.json](./301622-silent-code.json) |
 | Silent Crossing | 25868 | [25868-silent-crossing.json](./25868-silent-crossing.json) |
 | Silent Debuggers | 44343 | [44343-silent-debuggers.json](./44343-silent-debuggers.json) |
@@ -13708,6 +13709,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyline Bowling: Complete Edition | 333724 | [333724-skyline-bowling-complete-edition.json](./333724-skyline-bowling-complete-edition.json) |
 | Skyline Bowling: Light Style | 330627 | [330627-skyline-bowling-light-style.json](./330627-skyline-bowling-light-style.json) |
 | Skyline Bowling: Spooky Edition | 376246 | [376246-skyline-bowling-spooky-edition.json](./376246-skyline-bowling-spooky-edition.json) |
+| Skyline Bowling: Spooky Style | 360241 | [360241-skyline-bowling-spooky-style.json](./360241-skyline-bowling-spooky-style.json) |
+| Skyline Bowling: Sweet Style | 360242 | [360242-skyline-bowling-sweet-style.json](./360242-skyline-bowling-sweet-style.json) |
 | Skyline Drift Simulator 2 | 103652 | [103652-skyline-drift-simulator-2.json](./103652-skyline-drift-simulator-2.json) |
 | Skyline Skaters | 6029 | [6029-skyline-skaters.json](./6029-skyline-skaters.json) |
 | Skyline Sprint: Turbo Tracks | 277765 | [277765-skyline-sprint-turbo-tracks.json](./277765-skyline-sprint-turbo-tracks.json) |
@@ -24583,6 +24586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Guy Indonesia Deluxe | 347334 | [347334-spy-guy-indonesia-deluxe.json](./347334-spy-guy-indonesia-deluxe.json) |
 | Spy Guy Memory | 300837 | [300837-spy-guy-memory.json](./300837-spy-guy-memory.json) |
 | Spy Guy Memory Abstraction Bundle | 400204 | [400204-spy-guy-memory-abstraction-bundle.json](./400204-spy-guy-memory-abstraction-bundle.json) |
+| Spy Guy Memory Fantasy | 360240 | [360240-spy-guy-memory-fantasy.json](./360240-spy-guy-memory-fantasy.json) |
 | Spy Guy Memory Funny Bundle | 390909 | [390909-spy-guy-memory-funny-bundle.json](./390909-spy-guy-memory-funny-bundle.json) |
 | Spy Guy Memory: Circus | 368782 | [368782-spy-guy-memory-circus.json](./368782-spy-guy-memory-circus.json) |
 | Spy Guy Memory: Fantasy Edition | 362219 | [362219-spy-guy-memory-fantasy-edition.json](./362219-spy-guy-memory-fantasy-edition.json) |
@@ -25207,6 +25211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stackoban | 184351 | [184351-stackoban.json](./184351-stackoban.json) |
 | Stackopolis | 276778 | [276778-stackopolis.json](./276778-stackopolis.json) |
 | Stackpot! | 408551 | [408551-stackpot.json](./408551-stackpot.json) |
+| Stackronym | 360248 | [360248-stackronym.json](./360248-stackronym.json) |
 | Stacks | 180589 | [180589-stacks.json](./180589-stacks.json) |
 | Stacks on Stacks (On Stacks) | 116077 | [116077-stacks-on-stacks-on-stacks.json](./116077-stacks-on-stacks-on-stacks.json) |
 | Stacks: Jungle! | 274552 | [274552-stacks-jungle.json](./274552-stacks-jungle.json) |
