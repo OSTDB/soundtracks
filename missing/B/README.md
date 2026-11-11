@@ -1019,7 +1019,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1652,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Posse | 142090 | [142090-ball-posse.json](./142090-ball-posse.json) |
 | Ball Punchers | 235432 | [235432-ball-punchers.json](./235432-ball-punchers.json) |
 | Ball Race | 79498 | [79498-ball-race.json](./79498-ball-race.json) |
+| Ball Race Party | 323451 | [323451-ball-race-party.json](./323451-ball-race-party.json) |
 | Ball Raider | 14281 | [14281-ball-raider.json](./14281-ball-raider.json) |
 | Ball Raider II | 14282 | [14282-ball-raider-ii.json](./14282-ball-raider-ii.json) |
 | Ball Ranger | 174032 | [174032-ball-ranger.json](./174032-ball-ranger.json) |
@@ -11289,6 +11289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle | 231879 | [231879-block-puzzle.json](./231879-block-puzzle.json) |
 | Block Puzzle | 248639 | [248639-block-puzzle.json](./248639-block-puzzle.json) |
 | Block Puzzle | 318053 | [318053-block-puzzle.json](./318053-block-puzzle.json) |
+| Block Puzzle | 323447 | [323447-block-puzzle.json](./323447-block-puzzle.json) |
 | Block Puzzle | 390773 | [390773-block-puzzle.json](./390773-block-puzzle.json) |
 | Block Puzzle 1010 | 227506 | [227506-block-puzzle-1010.json](./227506-block-puzzle-1010.json) |
 | Block Puzzle 3D | 400451 | [400451-block-puzzle-3d.json](./400451-block-puzzle-3d.json) |
@@ -17186,6 +17187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Thorns: West Gate | 158058 | [158058-broken-thorns-west-gate.json](./158058-broken-thorns-west-gate.json) |
 | Broken Thunder | 287605 | [287605-broken-thunder.json](./287605-broken-thunder.json) |
 | Broken Ties | 96684 | [96684-broken-ties.json](./96684-broken-ties.json) |
+| Broken Time | 323466 | [323466-broken-time.json](./323466-broken-time.json) |
 | Broken Universe + Brawl Chess | 231362 | [231362-broken-universe-brawl-chess.json](./231362-broken-universe-brawl-chess.json) |
 | Broken Universe + Clumsy Rush | 228938 | [228938-broken-universe-clumsy-rush.json](./228938-broken-universe-clumsy-rush.json) |
 | Broken Veil | 149154 | [149154-broken-veil.json](./149154-broken-veil.json) |
@@ -18588,6 +18590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletombe | 316367 | [316367-bulletombe.json](./316367-bulletombe.json) |
 | Bulletorium | 121401 | [121401-bulletorium.json](./121401-bulletorium.json) |
 | Bulletproof | 235697 | [235697-bulletproof.json](./235697-bulletproof.json) |
+| Bulletproof Tank Adventure | 323471 | [323471-bulletproof-tank-adventure.json](./323471-bulletproof-tank-adventure.json) |
 | BulletRage | 102311 | [102311-bulletrage.json](./102311-bulletrage.json) |
 | Bulletreign: Survivors | 406200 | [406200-bulletreign-survivors.json](./406200-bulletreign-survivors.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
