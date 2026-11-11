@@ -3243,6 +3243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
 | Basements & Bugbears | 177888 | [177888-basements-and-bugbears.json](./177888-basements-and-bugbears.json) |
 | Basements n' Basilisks: Storms of Sorcery | 234664 | [234664-basements-n-basilisks-storms-of-sorcery.json](./234664-basements-n-basilisks-storms-of-sorcery.json) |
+| Baserisk | 335003 | [335003-baserisk.json](./335003-baserisk.json) |
 | BaseRogue | 418071 | [418071-baserogue.json](./418071-baserogue.json) |
 | Bases and Bandits | 215145 | [215145-bases-and-bandits.json](./215145-bases-and-bandits.json) |
 | Bases Loaded | 242041 | [242041-bases-loaded.json](./242041-bases-loaded.json) |
@@ -12774,6 +12775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Adventure | 99635 | [99635-boat-adventure.json](./99635-boat-adventure.json) |
 | Boat Builder: Andy's Story | 224597 | [224597-boat-builder-andys-story.json](./224597-boat-builder-andys-story.json) |
 | Boat Crew | 167803 | [167803-boat-crew.json](./167803-boat-crew.json) |
+| Boat Delivery: Island Transport Simulator | 334989 | [334989-boat-delivery-island-transport-simulator.json](./334989-boat-delivery-island-transport-simulator.json) |
 | Boat Go | 235118 | [235118-boat-go.json](./235118-boat-go.json) |
 | Boat House | 313352 | [313352-boat-house.json](./313352-boat-house.json) |
 | Boat Party | 258402 | [258402-boat-party.json](./258402-boat-party.json) |
@@ -13463,6 +13465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber's Run | 184989 | [184989-bombers-run.json](./184989-bombers-run.json) |
 | Bomberball | 392144 | [392144-bomberball.json](./392144-bomberball.json) |
 | BomberBoy | 242090 | [242090-bomberboy.json](./242090-bomberboy.json) |
+| BomberCin 2 | 335005 | [335005-bombercin-2.json](./335005-bombercin-2.json) |
 | BomberFun | 92978 | [92978-bomberfun.json](./92978-bomberfun.json) |
 | BomberGast | 179383 | [179383-bombergast.json](./179383-bombergast.json) |
 | Bombergeddon | 129745 | [129745-bombergeddon.json](./129745-bombergeddon.json) |
