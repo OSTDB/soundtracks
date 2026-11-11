@@ -1019,7 +1019,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1434,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balances | 346709 | [346709-balances.json](./346709-balances.json) |
 | Balancing Cats | 330833 | [330833-balancing-cats.json](./330833-balancing-cats.json) |
 | BalanCity | 25278 | [25278-balancity.json](./25278-balancity.json) |
+| Balantica | 325758 | [325758-balantica.json](./325758-balantica.json) |
 | Balathrone | 390720 | [390720-balathrone.json](./390720-balathrone.json) |
 | Balatro Multiplayer Mod | 346539 | [346539-balatro-multiplayer-mod.json](./346539-balatro-multiplayer-mod.json) |
 | Balatro: Cryptid | 331968 | [331968-balatro-cryptid.json](./331968-balatro-cryptid.json) |
@@ -13728,6 +13728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bone Sniffer! | 318477 | [318477-bone-sniffer.json](./318477-bone-sniffer.json) |
 | Bone Souls | 359038 | [359038-bone-souls.json](./359038-bone-souls.json) |
 | Bone Stuff | 407338 | [407338-bone-stuff.json](./407338-bone-stuff.json) |
+| Bone to Gather | 325756 | [325756-bone-to-gather.json](./325756-bone-to-gather.json) |
 | Bone Voyage | 116713 | [116713-bone-voyage.json](./116713-bone-voyage.json) |
 | Bone Warper | 323777 | [323777-bone-warper.json](./323777-bone-warper.json) |
 | Bone: Out From Boneville | 10059 | [10059-bone-out-from-boneville.json](./10059-bone-out-from-boneville.json) |
