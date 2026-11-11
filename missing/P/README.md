@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Beach | 90735 | [90735-paradise-beach.json](./90735-paradise-beach.json) |
 | Paradise Beach 2: Around the World | 378589 | [378589-paradise-beach-2-around-the-world.json](./378589-paradise-beach-2-around-the-world.json) |
 | Paradise Beach Girls | 202208 | [202208-paradise-beach-girls.json](./202208-paradise-beach-girls.json) |
+| Paradise Beyond the Nightmare | 368932 | [368932-paradise-beyond-the-nightmare.json](./368932-paradise-beyond-the-nightmare.json) |
 | Paradise checkers | 112946 | [112946-paradise-checkers.json](./112946-paradise-checkers.json) |
 | Paradise Checkers VR | 105098 | [105098-paradise-checkers-vr.json](./105098-paradise-checkers-vr.json) |
 | Paradise City Island Sim Town | 87148 | [87148-paradise-city-island-sim-town.json](./87148-paradise-city-island-sim-town.json) |
@@ -18620,6 +18621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PuppetShow: Souls of the Innocent - Collector's Edition | 47695 | [47695-puppetshow-souls-of-the-innocent-collectors-edition.json](./47695-puppetshow-souls-of-the-innocent-collectors-edition.json) |
 | PuppetShow: The Curse of Ophelia - Collector's Edition | 369298 | [369298-puppetshow-the-curse-of-ophelia-collectors-edition.json](./369298-puppetshow-the-curse-of-ophelia-collectors-edition.json) |
 | PuppetShow: The Face of Humanity | 107077 | [107077-puppetshow-the-face-of-humanity.json](./107077-puppetshow-the-face-of-humanity.json) |
+| PuppetShow: The Face of Humanity - Collector's Edition | 368918 | [368918-puppetshow-the-face-of-humanity-collectors-edition.json](./368918-puppetshow-the-face-of-humanity-collectors-edition.json) |
 | PuppetShow: The Price of Immortality | 99704 | [99704-puppetshow-the-price-of-immortality.json](./99704-puppetshow-the-price-of-immortality.json) |
 | PuppetShow: The Price of Immortality - Collector's Edition | 368892 | [368892-puppetshow-the-price-of-immortality-collectors-edition.json](./368892-puppetshow-the-price-of-immortality-collectors-edition.json) |
 | Puppetsite | 417940 | [417940-puppetsite.json](./417940-puppetsite.json) |
