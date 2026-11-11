@@ -473,6 +473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Arena: Showdown | 81606 | [81606-ultimate-arena-showdown.json](./81606-ultimate-arena-showdown.json) |
 | Ultimate Armored Turbodrifter: Saga Chapter 2 - Tank Authority Wolfram | 290950 | [290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json](./290950-ultimate-armored-turbodrifter-saga-chapter-2-tank-authority-wolfram.json) |
 | Ultimate Assassin 3 | 388101 | [388101-ultimate-assassin-3.json](./388101-ultimate-assassin-3.json) |
+| Ultimate Auto-RPG: Tower Walker | 370040 | [370040-ultimate-auto-rpg-tower-walker.json](./370040-ultimate-auto-rpg-tower-walker.json) |
 | Ultimate Ball | 242483 | [242483-ultimate-ball.json](./242483-ultimate-ball.json) |
 | Ultimate Ball: Fire Ball | 282259 | [282259-ultimate-ball-fire-ball.json](./282259-ultimate-ball-fire-ball.json) |
 | Ultimate Band | 5250 | [5250-ultimate-band.json](./5250-ultimate-band.json) |
@@ -3074,6 +3075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until September | 120047 | [120047-until-september.json](./120047-until-september.json) |
 | Until Sunset | 155917 | [155917-until-sunset.json](./155917-until-sunset.json) |
 | Until the End | 201051 | [201051-until-the-end.json](./201051-until-the-end.json) |
+| Until the End | 370594 | [370594-until-the-end.json](./370594-until-the-end.json) |
 | Until the Last | 59144 | [59144-until-the-last.json](./59144-until-the-last.json) |
 | Until the Last Philomel | 399077 | [399077-until-the-last-philomel.json](./399077-until-the-last-philomel.json) |
 | Until the Last Plane | 132414 | [132414-until-the-last-plane.json](./132414-until-the-last-plane.json) |
