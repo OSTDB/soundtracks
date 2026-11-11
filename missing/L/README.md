@@ -3429,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Pirates of the Caribbean: The Video Game | 283748 | [283748-lego-pirates-of-the-caribbean-the-video-game.json](./283748-lego-pirates-of-the-caribbean-the-video-game.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 284142 | [284142-lego-pirates-of-the-caribbean-the-video-game.json](./284142-lego-pirates-of-the-caribbean-the-video-game.json) |
 | LEGO Pirates of the Caribbean: The Video Game | 542 | [542-lego-pirates-of-the-caribbean-the-video-game.json](./542-lego-pirates-of-the-caribbean-the-video-game.json) |
+| LEGO Portal Racers | 388580 | [388580-lego-portal-racers.json](./388580-lego-portal-racers.json) |
 | LEGO Racers | 248764 | [248764-lego-racers.json](./248764-lego-racers.json) |
 | LEGO Racers | 343274 | [343274-lego-racers.json](./343274-lego-racers.json) |
 | LEGO Racers | 422 | [422-lego-racers.json](./422-lego-racers.json) |
@@ -6972,6 +6973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LlamaTangle | 204214 | [204214-llamatangle.json](./204214-llamatangle.json) |
 | Llamatron: 2112 | 50117 | [50117-llamatron-2112.json](./50117-llamatron-2112.json) |
 | Llamero | 404407 | [404407-llamero.json](./404407-llamero.json) |
+| Llewl and the Lyre of Two Worlds | 388643 | [388643-llewl-and-the-lyre-of-two-worlds.json](./388643-llewl-and-the-lyre-of-two-worlds.json) |
 | Llhore | 122939 | [122939-llhore.json](./122939-llhore.json) |
 | LLK | 127530 | [127530-llk.json](./127530-llk.json) |
 | Lllooot! | 354382 | [354382-lllooot.json](./354382-lllooot.json) |
