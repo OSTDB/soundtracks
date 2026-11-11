@@ -4321,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When the Stars Come Down on Us | 177896 | [177896-when-the-stars-come-down-on-us.json](./177896-when-the-stars-come-down-on-us.json) |
 | When the Stars Threw Down Their Spears | 407759 | [407759-when-the-stars-threw-down-their-spears.json](./407759-when-the-stars-threw-down-their-spears.json) |
 | When the Strawberry Muffin Ate a Goth | 249323 | [249323-when-the-strawberry-muffin-ate-a-goth.json](./249323-when-the-strawberry-muffin-ate-a-goth.json) |
+| When the Sun Dies | 391404 | [391404-when-the-sun-dies.json](./391404-when-the-sun-dies.json) |
 | When the Wildflowers Leave | 380226 | [380226-when-the-wildflowers-leave.json](./380226-when-the-wildflowers-leave.json) |
 | When The World Became Black | 298134 | [298134-when-the-world-became-black.json](./298134-when-the-world-became-black.json) |
 | When Them Demons Cry | 376021 | [376021-when-them-demons-cry.json](./376021-when-them-demons-cry.json) |
