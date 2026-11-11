@@ -1890,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganzworker | 131774 | [131774-ganzworker.json](./131774-ganzworker.json) |
 | Gao Gao! 1st: Radical Sequence | 230229 | [230229-gao-gao-1st-radical-sequence.json](./230229-gao-gao-1st-radical-sequence.json) |
 | Gaop | 233657 | [233657-gaop.json](./233657-gaop.json) |
+| Gap Monsters | 325793 | [325793-gap-monsters.json](./325793-gap-monsters.json) |
 | Gap Year | 380825 | [380825-gap-year.json](./380825-gap-year.json) |
 | Gap Year! | 374871 | [374871-gap-year.json](./374871-gap-year.json) |
 | Gaping Little Red Riding Hood's Lewd Walking Around | 82600 | [82600-gaping-little-red-riding-hoods-lewd-walking-around.json](./82600-gaping-little-red-riding-hoods-lewd-walking-around.json) |
