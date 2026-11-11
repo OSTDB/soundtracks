@@ -2677,6 +2677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accidentally | 379460 | [379460-accidentally.json](./379460-accidentally.json) |
 | Acción Rescate | 259663 | [259663-accion-rescate.json](./259663-accion-rescate.json) |
 | Acción Rescate: América | 259665 | [259665-accion-rescate-america.json](./259665-accion-rescate-america.json) |
+| Acclaim's World Cup Soccer | 350124 | [350124-acclaims-world-cup-soccer.json](./350124-acclaims-world-cup-soccer.json) |
 | Acclimate | 203313 | [203313-acclimate.json](./203313-acclimate.json) |
 | Accolade In Action | 93339 | [93339-accolade-in-action.json](./93339-accolade-in-action.json) |
 | Accolade Sports Collection | 321241 | [321241-accolade-sports-collection.json](./321241-accolade-sports-collection.json) |
@@ -17168,6 +17169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Aqua Kitty | 145655 | [145655-astro-aqua-kitty.json](./145655-astro-aqua-kitty.json) |
 | Astro Aqua Kitty: Limited Edition | 147771 | [147771-astro-aqua-kitty-limited-edition.json](./147771-astro-aqua-kitty-limited-edition.json) |
 | Astro Aqua Kitty: Pawsome Collection | 216589 | [216589-astro-aqua-kitty-pawsome-collection.json](./216589-astro-aqua-kitty-pawsome-collection.json) |
+| Astro Architect | 350133 | [350133-astro-architect.json](./350133-astro-architect.json) |
 | Astro Arena | 338169 | [338169-astro-arena.json](./338169-astro-arena.json) |
 | Astro Arena | 408493 | [408493-astro-arena.json](./408493-astro-arena.json) |
 | Astro Assembler | 71506 | [71506-astro-assembler.json](./71506-astro-assembler.json) |
@@ -17262,6 +17264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Planes | 273355 | [273355-astro-planes.json](./273355-astro-planes.json) |
 | Astro Plumber | 13340 | [13340-astro-plumber.json](./13340-astro-plumber.json) |
 | Astro Prospector | 336980 | [336980-astro-prospector.json](./336980-astro-prospector.json) |
+| Astro Protocol | 350085 | [350085-astro-protocol.json](./350085-astro-protocol.json) |
 | Astro Rabby | 7759 | [7759-astro-rabby.json](./7759-astro-rabby.json) |
 | Astro Race | 172593 | [172593-astro-race.json](./172593-astro-race.json) |
 | Astro Race | 322512 | [322512-astro-race.json](./322512-astro-race.json) |
@@ -18888,6 +18891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automobilista: Legendary Tracks Part 3 - Hockenheim | 171372 | [171372-automobilista-legendary-tracks-part-3-hockenheim.json](./171372-automobilista-legendary-tracks-part-3-hockenheim.json) |
 | Automobilista: Snetterton | 171087 | [171087-automobilista-snetterton.json](./171087-automobilista-snetterton.json) |
 | Automon | 192226 | [192226-automon.json](./192226-automon.json) |
+| Automon Arena | 350115 | [350115-automon-arena.json](./350115-automon-arena.json) |
 | Automonopoli | 94566 | [94566-automonopoli.json](./94566-automonopoli.json) |
 | Automount | 341637 | [341637-automount.json](./341637-automount.json) |
 | Autonauts | 54736 | [54736-autonauts.json](./54736-autonauts.json) |
