@@ -3204,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Masters | 92808 | [92808-action-masters.json](./92808-action-masters.json) |
 | Action News Heroes | 51614 | [51614-action-news-heroes.json](./51614-action-news-heroes.json) |
 | Action Pachio | 38352 | [38352-action-pachio.json](./38352-action-pachio.json) |
+| Action Pack 2 | 360238 | [360238-action-pack-2.json](./360238-action-pack-2.json) |
 | Action Pack I Prince of Persia: Revelations & Prince of Persia: Rival Swords | 159110 | [159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json](./159110-action-pack-i-prince-of-persia-revelations-and-prince-of-persia-rival-swords.json) |
 | Action Pack: Armed Forces Corp. and Terrorist Takedown 2 | 202058 | [202058-action-pack-armed-forces-corp-and-terrorist-takedown-2.json](./202058-action-pack-armed-forces-corp-and-terrorist-takedown-2.json) |
 | Action Painting Pro | 128587 | [128587-action-painting-pro.json](./128587-action-painting-pro.json) |
@@ -11078,6 +11079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Puffy Pumpkin | 375125 | [375125-anime-girls-puffy-pumpkin.json](./375125-anime-girls-puffy-pumpkin.json) |
 | Anime Girls: Shanghai Romance | 393414 | [393414-anime-girls-shanghai-romance.json](./393414-anime-girls-shanghai-romance.json) |
 | Anime Girls: Stellar Invasion | 396432 | [396432-anime-girls-stellar-invasion.json](./396432-anime-girls-stellar-invasion.json) |
+| Anime Girls: Summer Vacay | 360218 | [360218-anime-girls-summer-vacay.json](./360218-anime-girls-summer-vacay.json) |
 | Anime Girls: Sun of a Beach | 288718 | [288718-anime-girls-sun-of-a-beach.json](./288718-anime-girls-sun-of-a-beach.json) |
 | Anime Girls: Tactical Assault | 402306 | [402306-anime-girls-tactical-assault.json](./402306-anime-girls-tactical-assault.json) |
 | Anime Girls: Tokyo Christmas | 381704 | [381704-anime-girls-tokyo-christmas.json](./381704-anime-girls-tokyo-christmas.json) |
@@ -11805,6 +11807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antarctic Heritage Trust | 133114 | [133114-antarctic-heritage-trust.json](./133114-antarctic-heritage-trust.json) |
 | Antarctic Tales Enhanced Edition | 268511 | [268511-antarctic-tales-enhanced-edition.json](./268511-antarctic-tales-enhanced-edition.json) |
 | Antarctica 88 | 138398 | [138398-antarctica-88.json](./138398-antarctica-88.json) |
+| Antarctica 88: Remaster | 360231 | [360231-antarctica-88-remaster.json](./360231-antarctica-88-remaster.json) |
 | Antarctica Condition I | 175573 | [175573-antarctica-condition-i.json](./175573-antarctica-condition-i.json) |
 | Antares | 125343 | [125343-antares.json](./125343-antares.json) |
 | Antares | 132727 | [132727-antares.json](./132727-antares.json) |
@@ -13257,6 +13260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Cybattler | 145373 | [145373-arcade-archives-cybattler.json](./145373-arcade-archives-cybattler.json) |
 | Arcade Archives: Cyber Commando | 400161 | [400161-arcade-archives-cyber-commando.json](./400161-arcade-archives-cyber-commando.json) |
 | Arcade Archives: Cyber Cycles | 414882 | [414882-arcade-archives-cyber-cycles.json](./414882-arcade-archives-cyber-cycles.json) |
+| Arcade Archives: D-Day | 360219 | [360219-arcade-archives-d-day.json](./360219-arcade-archives-d-day.json) |
 | Arcade Archives: Dacholer | 370269 | [370269-arcade-archives-dacholer.json](./370269-arcade-archives-dacholer.json) |
 | Arcade Archives: Daioh | 274896 | [274896-arcade-archives-daioh.json](./274896-arcade-archives-daioh.json) |
 | Arcade Archives: Dangerous Seed | 192029 | [192029-arcade-archives-dangerous-seed.json](./192029-arcade-archives-dangerous-seed.json) |
@@ -16010,6 +16014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Sky | 299596 | [299596-ashen-sky.json](./299596-ashen-sky.json) |
 | Ashen Throne | 399765 | [399765-ashen-throne.json](./399765-ashen-throne.json) |
 | Ashen Vow | 373852 | [373852-ashen-vow.json](./373852-ashen-vow.json) |
+| Ashen Wilds | 360251 | [360251-ashen-wilds.json](./360251-ashen-wilds.json) |
 | Ashen Will | 211044 | [211044-ashen-will.json](./211044-ashen-will.json) |
 | Ashen World | 379451 | [379451-ashen-world.json](./379451-ashen-world.json) |
 | Ashen: Definitive Edition | 165871 | [165871-ashen-definitive-edition.json](./165871-ashen-definitive-edition.json) |
