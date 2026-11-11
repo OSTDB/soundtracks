@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Needy Dragons | 220678 | [220678-needy-dragons.json](./220678-needy-dragons.json) |
 | Needy Princess Nerd Club | 256066 | [256066-needy-princess-nerd-club.json](./256066-needy-princess-nerd-club.json) |
 | Needy Streamer Overload | 146564 | [146564-needy-streamer-overload.json](./146564-needy-streamer-overload.json) |
+| Needy Streamer Overload: Typing of The Net | 325152 | [325152-needy-streamer-overload-typing-of-the-net.json](./325152-needy-streamer-overload-typing-of-the-net.json) |
 | Neeko: Your 3D Interactive Monster | 262354 | [262354-neeko-your-3d-interactive-monster.json](./262354-neeko-your-3d-interactive-monster.json) |
 | Neera: Dark Secrets | 79806 | [79806-neera-dark-secrets.json](./79806-neera-dark-secrets.json) |
 | Neeron: The Blade of Nature | 173005 | [173005-neeron-the-blade-of-nature.json](./173005-neeron-the-blade-of-nature.json) |
