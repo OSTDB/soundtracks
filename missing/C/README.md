@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call Sign is Magic Liner | 267749 | [267749-call-sign-is-magic-liner.json](./267749-call-sign-is-magic-liner.json) |
 | Call The Abyss | 328191 | [328191-call-the-abyss.json](./328191-call-the-abyss.json) |
 | Call the Blacksmith | 27144 | [27144-call-the-blacksmith.json](./27144-call-the-blacksmith.json) |
+| Call the Exterminator | 388654 | [388654-call-the-exterminator.json](./388654-call-the-exterminator.json) |
 | Call the Tune | 320883 | [320883-call-the-tune.json](./320883-call-the-tune.json) |
 | Call to Arms | 100182 | [100182-call-to-arms.json](./100182-call-to-arms.json) |
 | Call to Arms | 17432 | [17432-call-to-arms.json](./17432-call-to-arms.json) |
@@ -14876,6 +14877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Content Caution: The Horror Filmmaker | 335090 | [335090-content-caution-the-horror-filmmaker.json](./335090-content-caution-the-horror-filmmaker.json) |
 | Content Creator Simulator | 89367 | [89367-content-creator-simulator.json](./89367-content-creator-simulator.json) |
 | Content Creator's Internet Adventure | 141499 | [141499-content-creators-internet-adventure.json](./141499-content-creators-internet-adventure.json) |
+| Content King | 388661 | [388661-content-king.json](./388661-content-king.json) |
 | Content King: Streamer Simulator | 351418 | [351418-content-king-streamer-simulator.json](./351418-content-king-streamer-simulator.json) |
 | Content Moderator. | 402090 | [402090-content-moderator.json](./402090-content-moderator.json) |
 | Content Warning | 294661 | [294661-content-warning.json](./294661-content-warning.json) |
