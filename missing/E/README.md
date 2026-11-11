@@ -2215,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eldritch Bulwark | 351180 | [351180-eldritch-bulwark.json](./351180-eldritch-bulwark.json) |
 | Eldritch Cards: The Lovecraftian Dungeon Crawler Game | 413600 | [413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json](./413600-eldritch-cards-the-lovecraftian-dungeon-crawler-game.json) |
 | Eldritch Empathy | 314356 | [314356-eldritch-empathy.json](./314356-eldritch-empathy.json) |
+| Eldritch Evolution | 340106 | [340106-eldritch-evolution.json](./340106-eldritch-evolution.json) |
 | Eldritch Exterminators | 264600 | [264600-eldritch-exterminators.json](./264600-eldritch-exterminators.json) |
 | Eldritch Horror: Digital Edition | 375792 | [375792-eldritch-horror-digital-edition.json](./375792-eldritch-horror-digital-edition.json) |
 | Eldritch Hunter | 31653 | [31653-eldritch-hunter.json](./31653-eldritch-hunter.json) |
@@ -7944,6 +7945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex Shooter: Triple Bundle Pack | 218467 | [218467-ex-shooter-triple-bundle-pack.json](./218467-ex-shooter-triple-bundle-pack.json) |
 | Ex Terra | 320207 | [320207-ex-terra.json](./320207-ex-terra.json) |
 | Ex Vitro | 255789 | [255789-ex-vitro.json](./255789-ex-vitro.json) |
+| Ex World Online | 340103 | [340103-ex-world-online.json](./340103-ex-world-online.json) |
 | EX-802 | 330942 | [330942-ex-802.json](./330942-ex-802.json) |
 | Ex-Argent: Menes no Sairyuu | 206566 | [206566-ex-argent-menes-no-sairyuu.json](./206566-ex-argent-menes-no-sairyuu.json) |
 | Ex-Fraktion | 181370 | [181370-ex-fraktion.json](./181370-ex-fraktion.json) |
