@@ -3100,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis: Beyond the Revelation | 62615 | [62615-genesis-beyond-the-revelation.json](./62615-genesis-beyond-the-revelation.json) |
 | Genesis: Human Destiny | 223620 | [223620-genesis-human-destiny.json](./223620-genesis-human-destiny.json) |
 | Genesis: Voces de la Niebla | 389577 | [389577-genesis-voces-de-la-niebla.json](./389577-genesis-voces-de-la-niebla.json) |
+| GenesisScroll | 364765 | [364765-genesisscroll.json](./364765-genesisscroll.json) |
 | Genesys | 83196 | [83196-genesys.json](./83196-genesys.json) |
 | Genesys Dice | 102838 | [102838-genesys-dice.json](./102838-genesys-dice.json) |
 | Genetic | 270663 | [270663-genetic.json](./270663-genetic.json) |
@@ -6327,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Riffs: Battle for the Metalverse | 279392 | [279392-god-of-riffs-battle-for-the-metalverse.json](./279392-god-of-riffs-battle-for-the-metalverse.json) |
 | God of Rock | 214507 | [214507-god-of-rock.json](./214507-god-of-rock.json) |
 | God of Rock: Deluxe Edition | 214872 | [214872-god-of-rock-deluxe-edition.json](./214872-god-of-rock-deluxe-edition.json) |
+| God of Stackers | 364763 | [364763-god-of-stackers.json](./364763-god-of-stackers.json) |
 | God of Stickfights | 279454 | [279454-god-of-stickfights.json](./279454-god-of-stickfights.json) |
 | God of Stocks | 412963 | [412963-god-of-stocks.json](./412963-god-of-stocks.json) |
 | God of the Arena Dungeon | 163196 | [163196-god-of-the-arena-dungeon.json](./163196-god-of-the-arena-dungeon.json) |
