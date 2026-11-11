@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -4352,6 +4353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tiny | 185305 | [185305-battle-tiny.json](./185305-battle-tiny.json) |
 | Battle Titan Rainbow | 234686 | [234686-battle-titan-rainbow.json](./234686-battle-titan-rainbow.json) |
 | Battle Titans | 199942 | [199942-battle-titans.json](./199942-battle-titans.json) |
+| Battle Tokens | 383865 | [383865-battle-tokens.json](./383865-battle-tokens.json) |
 | Battle Tops | 192738 | [192738-battle-tops.json](./192738-battle-tops.json) |
 | Battle Towers | 194103 | [194103-battle-towers.json](./194103-battle-towers.json) |
 | Battle Tracks | 207403 | [207403-battle-tracks.json](./207403-battle-tracks.json) |
@@ -9801,6 +9803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlackChain | 155874 | [155874-blackchain.json](./155874-blackchain.json) |
 | BlackDog | 347975 | [347975-blackdog.json](./347975-blackdog.json) |
 | Blackdoor | 410588 | [410588-blackdoor.json](./410588-blackdoor.json) |
+| Blacked Out | 383855 | [383855-blacked-out.json](./383855-blacked-out.json) |
 | Blacken Slash | 188723 | [188723-blacken-slash.json](./188723-blacken-slash.json) |
 | Blackened | 270699 | [270699-blackened.json](./270699-blackened.json) |
 | BlackEye | 40851 | [40851-blackeye.json](./40851-blackeye.json) |
@@ -10784,6 +10787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blindfold | 123328 | [123328-blindfold.json](./123328-blindfold.json) |
 | Blindfold | 356150 | [356150-blindfold.json](./356150-blindfold.json) |
 | Blindfold | 383669 | [383669-blindfold.json](./383669-blindfold.json) |
+| Blindfold Chess | 383872 | [383872-blindfold-chess.json](./383872-blindfold-chess.json) |
 | Blindfold: Hide and Seek | 413172 | [413172-blindfold-hide-and-seek.json](./413172-blindfold-hide-and-seek.json) |
 | BlindGiRl | 23361 | [23361-blindgirl.json](./23361-blindgirl.json) |
 | BlindGiRl2 | 65449 | [65449-blindgirl2.json](./65449-blindgirl2.json) |
@@ -18871,6 +18875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burgle Bros | 75825 | [75825-burgle-bros.json](./75825-burgle-bros.json) |
 | Burgle Supply Company | 372804 | [372804-burgle-supply-company.json](./372804-burgle-supply-company.json) |
 | Burgleville | 336299 | [336299-burgleville.json](./336299-burgleville.json) |
+| Burglin' Gnomes | 383882 | [383882-burglin-gnomes.json](./383882-burglin-gnomes.json) |
 | Burial | 334404 | [334404-burial.json](./334404-burial.json) |
 | Burial Ground | 268602 | [268602-burial-ground.json](./268602-burial-ground.json) |
 | Burial Ground | 375554 | [375554-burial-ground.json](./375554-burial-ground.json) |
