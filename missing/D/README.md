@@ -18457,6 +18457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drumskulls | 91865 | [91865-drumskulls.json](./91865-drumskulls.json) |
 | Drunk | 183068 | [183068-drunk.json](./183068-drunk.json) |
 | Drunk | 184963 | [184963-drunk.json](./184963-drunk.json) |
+| Drunk Alien | 323465 | [323465-drunk-alien.json](./323465-drunk-alien.json) |
 | Drunk As I Like: Gensokyo Chugging Contest | 202334 | [202334-drunk-as-i-like-gensokyo-chugging-contest.json](./202334-drunk-as-i-like-gensokyo-chugging-contest.json) |
 | Drunk as I Like: Gensokyo Drinking Attitude | 280719 | [280719-drunk-as-i-like-gensokyo-drinking-attitude.json](./280719-drunk-as-i-like-gensokyo-drinking-attitude.json) |
 | Drunk Builder Simulator | 326443 | [326443-drunk-builder-simulator.json](./326443-drunk-builder-simulator.json) |
