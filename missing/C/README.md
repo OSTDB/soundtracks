@@ -2283,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Down | 405038 | [405038-car-down.json](./405038-car-down.json) |
 | Car Drag Racing Simulator | 253227 | [253227-car-drag-racing-simulator.json](./253227-car-drag-racing-simulator.json) |
 | Car Drawing Game | 181806 | [181806-car-drawing-game.json](./181806-car-drawing-game.json) |
+| Car Drift Racing Game Pro | 360239 | [360239-car-drift-racing-game-pro.json](./360239-car-drift-racing-game-pro.json) |
 | Car Drive | 149842 | [149842-car-drive.json](./149842-car-drive.json) |
 | Car Driver 5 | 414471 | [414471-car-driver-5.json](./414471-car-driver-5.json) |
 | Car Driving School Simulator | 90233 | [90233-car-driving-school-simulator.json](./90233-car-driving-school-simulator.json) |
@@ -4176,6 +4177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casual Sport Series: Tennis | 329440 | [329440-casual-sport-series-tennis.json](./329440-casual-sport-series-tennis.json) |
 | Casual Trucking | 306097 | [306097-casual-trucking.json](./306097-casual-trucking.json) |
 | CasualMuyu | 312789 | [312789-casualmuyu.json](./312789-casualmuyu.json) |
+| Casualties: Unknown | 360263 | [360263-casualties-unknown.json](./360263-casualties-unknown.json) |
 | Casus Belli | 23547 | [23547-casus-belli.json](./23547-casus-belli.json) |
 | Casus Belli: Battle of Annihilation | 46481 | [46481-casus-belli-battle-of-annihilation.json](./46481-casus-belli-battle-of-annihilation.json) |
 | Cat | 309516 | [309516-cat.json](./309516-cat.json) |
@@ -9368,6 +9370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciao Pizza: Cooking Chaos | 415254 | [415254-ciao-pizza-cooking-chaos.json](./415254-ciao-pizza-cooking-chaos.json) |
 | Cibele | 14702 | [14702-cibele.json](./14702-cibele.json) |
 | Cibos | 89324 | [89324-cibos.json](./89324-cibos.json) |
+| Cicada | 360244 | [360244-cicada.json](./360244-cicada.json) |
 | Cicada Springs | 248714 | [248714-cicada-springs.json](./248714-cicada-springs.json) |
 | Cicadamata" | 377768 | [377768-cicadamata.json](./377768-cicadamata.json) |
 | Cicadas | 61599 | [61599-cicadas.json](./61599-cicadas.json) |
@@ -10618,6 +10621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Snake Game Gold | 100962 | [100962-classic-snake-game-gold.json](./100962-classic-snake-game-gold.json) |
 | Classic Solitaire | 187618 | [187618-classic-solitaire.json](./187618-classic-solitaire.json) |
 | Classic Solitaire | 323511 | [323511-classic-solitaire.json](./323511-classic-solitaire.json) |
+| Classic Solitaire | 360214 | [360214-classic-solitaire.json](./360214-classic-solitaire.json) |
 | Classic Solitaire | 88321 | [88321-classic-solitaire.json](./88321-classic-solitaire.json) |
 | Classic Solitaire НD | 87921 | [87921-classic-solitaire-d.json](./87921-classic-solitaire-d.json) |
 | Classic Sonic 3D Adventure | 324961 | [324961-classic-sonic-3d-adventure.json](./324961-classic-sonic-3d-adventure.json) |
@@ -14744,6 +14748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constelleum | 217099 | [217099-constelleum.json](./217099-constelleum.json) |
 | Consternation II | 169640 | [169640-consternation-ii.json](./169640-consternation-ii.json) |
 | Constitution | 83491 | [83491-constitution.json](./83491-constitution.json) |
+| Constraint Zone | 360217 | [360217-constraint-zone.json](./360217-constraint-zone.json) |
 | Constricted VR | 29531 | [29531-constricted-vr.json](./29531-constricted-vr.json) |
 | Constriction: 1024 | 315484 | [315484-constriction-1024.json](./315484-constriction-1024.json) |
 | Constrictor | 78383 | [78383-constrictor.json](./78383-constrictor.json) |
@@ -17649,6 +17654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Car | 365544 | [365544-crayon-car.json](./365544-crayon-car.json) |
 | Crayon Christmas | 380704 | [380704-crayon-christmas.json](./380704-crayon-christmas.json) |
 | Crayon Chronicles | 35950 | [35950-crayon-chronicles.json](./35950-crayon-chronicles.json) |
+| Crayon Classic | 360223 | [360223-crayon-classic.json](./360223-crayon-classic.json) |
 | Crayon Computer | 284989 | [284989-crayon-computer.json](./284989-crayon-computer.json) |
 | Crayon Dino | 350861 | [350861-crayon-dino.json](./350861-crayon-dino.json) |
 | Crayon Farm Animals | 400176 | [400176-crayon-farm-animals.json](./400176-crayon-farm-animals.json) |
@@ -18290,6 +18296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creekside Creep Invasion | 30671 | [30671-creekside-creep-invasion.json](./30671-creekside-creep-invasion.json) |
 | Creep | 116571 | [116571-creep.json](./116571-creep.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
+| Creep Clash | 360229 | [360229-creep-clash.json](./360229-creep-clash.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
 | Creep Rides | 118759 | [118759-creep-rides.json](./118759-creep-rides.json) |
 | Creep Shock | 265429 | [265429-creep-shock.json](./265429-creep-shock.json) |
@@ -19186,6 +19193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossniq | 121362 | [121362-crossniq.json](./121362-crossniq.json) |
 | Crossnumber: Math Puzzle Game | 232543 | [232543-crossnumber-math-puzzle-game.json](./232543-crossnumber-math-puzzle-game.json) |
 | Crossout | 34894 | [34894-crossout.json](./34894-crossout.json) |
+| Crossout Legends | 360222 | [360222-crossout-legends.json](./360222-crossout-legends.json) |
 | Crossout Mobile | 174716 | [174716-crossout-mobile.json](./174716-crossout-mobile.json) |
 | Crossout: “Phantom” | 331997 | [331997-crossout-phantom.json](./331997-crossout-phantom.json) |
 | Crossout: Arsonist Pack | 226820 | [226820-crossout-arsonist-pack.json](./226820-crossout-arsonist-pack.json) |
@@ -21451,6 +21459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut the Birds | 65195 | [65195-cut-the-birds.json](./65195-cut-the-birds.json) |
 | Cut the Box | 117724 | [117724-cut-the-box.json](./117724-cut-the-box.json) |
 | Cut the Buttons | 26207 | [26207-cut-the-buttons.json](./26207-cut-the-buttons.json) |
+| Cut the Buttons | 360264 | [360264-cut-the-buttons.json](./360264-cut-the-buttons.json) |
 | Cut the Cards | 293001 | [293001-cut-the-cards.json](./293001-cut-the-cards.json) |
 | Cut the Ex-Girlfriends | 102225 | [102225-cut-the-ex-girlfriends.json](./102225-cut-the-ex-girlfriends.json) |
 | Cut the Head off the Snake | 238968 | [238968-cut-the-head-off-the-snake.json](./238968-cut-the-head-off-the-snake.json) |
