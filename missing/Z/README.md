@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda Mini | 282369 | [282369-zelda-mini.json](./282369-zelda-mini.json) |
 | Zelda Mobile | 28864 | [28864-zelda-mobile.json](./28864-zelda-mobile.json) |
 | Zelda no Densetsu: 4-tsu no Tsurugi + | 298870 | [298870-zelda-no-densetsu-4-tsu-no-tsurugi.json](./298870-zelda-no-densetsu-4-tsu-no-tsurugi.json) |
+| Zelda Online | 321706 | [321706-zelda-online.json](./321706-zelda-online.json) |
 | Zelda Online | 323863 | [323863-zelda-online.json](./323863-zelda-online.json) |
 | Zelda: Forest of the Lost Soul | 315028 | [315028-zelda-forest-of-the-lost-soul.json](./315028-zelda-forest-of-the-lost-soul.json) |
 | Zelda: Interconnected Strongholds | 249397 | [249397-zelda-interconnected-strongholds.json](./249397-zelda-interconnected-strongholds.json) |
