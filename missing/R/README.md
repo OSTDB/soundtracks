@@ -5627,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reposition Defense | 348685 | [348685-reposition-defense.json](./348685-reposition-defense.json) |
 | Repossessed | 279738 | [279738-repossessed.json](./279738-repossessed.json) |
 | Repossession | 226180 | [226180-repossession.json](./226180-repossession.json) |
+| Repossession: Mafia Debt | 375689 | [375689-repossession-mafia-debt.json](./375689-repossession-mafia-debt.json) |
 | Repressed | 121352 | [121352-repressed.json](./121352-repressed.json) |
 | Repressed Gamer | 180436 | [180436-repressed-gamer.json](./180436-repressed-gamer.json) |
 | Reprisal | 94143 | [94143-reprisal.json](./94143-reprisal.json) |
@@ -13578,6 +13579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush VR | 110864 | [110864-rush-vr.json](./110864-rush-vr.json) |
 | Rush Wars | 122044 | [122044-rush-wars.json](./122044-rush-wars.json) |
 | Rush Your Band | 423229 | [423229-rush-your-band.json](./423229-rush-your-band.json) |
+| Rush: Apex Edition | 375699 | [375699-rush-apex-edition.json](./375699-rush-apex-edition.json) |
 | Rush: Run Up Super High | 258354 | [258354-rush-run-up-super-high.json](./258354-rush-run-up-super-high.json) |
 | Rush!!! | 167260 | [167260-rush.json](./167260-rush.json) |
 | Rush'n Attack | 287587 | [287587-rushn-attack.json](./287587-rushn-attack.json) |
