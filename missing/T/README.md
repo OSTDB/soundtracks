@@ -2707,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taruko Deluxe | 109948 | [109948-taruko-deluxe.json](./109948-taruko-deluxe.json) |
 | Tarutobi | 371917 | [371917-tarutobi.json](./371917-tarutobi.json) |
 | Tarvos Desolation | 345044 | [345044-tarvos-desolation.json](./345044-tarvos-desolation.json) |
+| Taryn Barker: Demon Hunter | 344088 | [344088-taryn-barker-demon-hunter.json](./344088-taryn-barker-demon-hunter.json) |
 | Tarzan | 214885 | [214885-tarzan.json](./214885-tarzan.json) |
 | Tarzan | 25728 | [25728-tarzan.json](./25728-tarzan.json) |
 | Tarzan | 284219 | [284219-tarzan.json](./284219-tarzan.json) |
@@ -14802,6 +14803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Moon Fields | 76944 | [76944-the-moon-fields.json](./76944-the-moon-fields.json) |
 | The Moon Has Faded Away | 341903 | [341903-the-moon-has-faded-away.json](./341903-the-moon-has-faded-away.json) |
 | The Moon Hell | 224652 | [224652-the-moon-hell.json](./224652-the-moon-hell.json) |
+| The Moon is our Friend | 344075 | [344075-the-moon-is-our-friend.json](./344075-the-moon-is-our-friend.json) |
 | The Moon Looks Beautiful Tonight | 257487 | [257487-the-moon-looks-beautiful-tonight.json](./257487-the-moon-looks-beautiful-tonight.json) |
 | The Moon Looks Beautiful Tonight: Definitive Edition | 383600 | [383600-the-moon-looks-beautiful-tonight-definitive-edition.json](./383600-the-moon-looks-beautiful-tonight-definitive-edition.json) |
 | The Moon Night | 51962 | [51962-the-moon-night.json](./51962-the-moon-night.json) |
@@ -19915,6 +19917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warlock's Hearth | 261181 | [261181-the-warlocks-hearth.json](./261181-the-warlocks-hearth.json) |
 | The Warmest Body in the Room | 274270 | [274270-the-warmest-body-in-the-room.json](./274270-the-warmest-body-in-the-room.json) |
 | The Warmth Between Us | 185942 | [185942-the-warmth-between-us.json](./185942-the-warmth-between-us.json) |
+| The Warp | 344092 | [344092-the-warp.json](./344092-the-warp.json) |
 | The Warp Coin Catastrophe | 186105 | [186105-the-warp-coin-catastrophe.json](./186105-the-warp-coin-catastrophe.json) |
 | The Warp Factor | 18741 | [18741-the-warp-factor.json](./18741-the-warp-factor.json) |
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
@@ -20712,6 +20715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheLooppy | 83487 | [83487-thelooppy.json](./83487-thelooppy.json) |
 | Thelos | 216443 | [216443-thelos.json](./216443-thelos.json) |
 | TheLostWoods | 327763 | [327763-thelostwoods.json](./327763-thelostwoods.json) |
+| Them | 344060 | [344060-them.json](./344060-them.json) |
 | Them and Us | 107688 | [107688-them-and-us.json](./107688-them-and-us.json) |
 | Them Bombs! | 103056 | [103056-them-bombs.json](./103056-them-bombs.json) |
 | Them or Us | 216995 | [216995-them-or-us.json](./216995-them-or-us.json) |
