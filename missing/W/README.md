@@ -9751,6 +9751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WTC: The Manchester Report | 387490 | [387490-wtc-the-manchester-report.json](./387490-wtc-the-manchester-report.json) |
 | Wteruna | 151461 | [151461-wteruna.json](./151461-wteruna.json) |
 | WTF | 99778 | [99778-wtf.json](./99778-wtf.json) |
+| WTF Am I Playing?! | 371169 | [371169-wtf-am-i-playing.json](./371169-wtf-am-i-playing.json) |
 | WTF Do You Know? | 197137 | [197137-wtf-do-you-know.json](./197137-wtf-do-you-know.json) |
 | WTF Doc | 394215 | [394215-wtf-doc.json](./394215-wtf-doc.json) |
 | WTF Is Wrong With You? | 152634 | [152634-wtf-is-wrong-with-you.json](./152634-wtf-is-wrong-with-you.json) |
