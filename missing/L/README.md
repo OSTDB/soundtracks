@@ -4755,6 +4755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life In Planet | 152860 | [152860-life-in-planet.json](./152860-life-in-planet.json) |
 | Life in Quarantine | 145474 | [145474-life-in-quarantine.json](./145474-life-in-quarantine.json) |
 | Life in Santa County | 241240 | [241240-life-in-santa-county.json](./241240-life-in-santa-county.json) |
+| Life in Terminal Simulator: Airport Adventures | 361363 | [361363-life-in-terminal-simulator-airport-adventures.json](./361363-life-in-terminal-simulator-airport-adventures.json) |
 | Life in the Analog Age: Rainy Day | 181871 | [181871-life-in-the-analog-age-rainy-day.json](./181871-life-in-the-analog-age-rainy-day.json) |
 | Life in the Crater Lake | 407827 | [407827-life-in-the-crater-lake.json](./407827-life-in-the-crater-lake.json) |
 | Life in the Dorms | 107031 | [107031-life-in-the-dorms.json](./107031-life-in-the-dorms.json) |
@@ -6800,6 +6801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Day | 302320 | [302320-live-day.json](./302320-live-day.json) |
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
 | Live Factory | 238119 | [238119-live-factory.json](./238119-live-factory.json) |
+| Live Fire Exercise | 360831 | [360831-live-fire-exercise.json](./360831-live-fire-exercise.json) |
 | Live for Speed | 9492 | [9492-live-for-speed.json](./9492-live-for-speed.json) |
 | Live Free Or Die Hard: The Mobile Game | 10227 | [10227-live-free-or-die-hard-the-mobile-game.json](./10227-live-free-or-die-hard-the-mobile-game.json) |
 | Live Hard, Die Hard | 265826 | [265826-live-hard-die-hard.json](./265826-live-hard-die-hard.json) |
@@ -10312,6 +10314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminescence | 343594 | [343594-luminescence.json](./343594-luminescence.json) |
 | Luminescence | 95160 | [95160-luminescence.json](./95160-luminescence.json) |
 | Luminescent | 218084 | [218084-luminescent.json](./218084-luminescent.json) |
+| Luminescent | 360833 | [360833-luminescent.json](./360833-luminescent.json) |
 | Luminesweeper | 246569 | [246569-luminesweeper.json](./246569-luminesweeper.json) |
 | Luminex Quartet | 384502 | [384502-luminex-quartet.json](./384502-luminex-quartet.json) |
 | Luminids | 381925 | [381925-luminids.json](./381925-luminids.json) |
