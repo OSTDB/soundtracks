@@ -4147,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Ship | 287518 | [287518-ghost-ship.json](./287518-ghost-ship.json) |
 | Ghost Ship: Hidden Object Adventure Games | 97210 | [97210-ghost-ship-hidden-object-adventure-games.json](./97210-ghost-ship-hidden-object-adventure-games.json) |
 | Ghost Shock | 346702 | [346702-ghost-shock.json](./346702-ghost-shock.json) |
+| Ghost Shooter | 336223 | [336223-ghost-shooter.json](./336223-ghost-shooter.json) |
 | Ghost Shooter | 381051 | [381051-ghost-shooter.json](./381051-ghost-shooter.json) |
 | Ghost Shot | 330500 | [330500-ghost-shot.json](./330500-ghost-shot.json) |
 | Ghost Signal: A Stellaris Game | 251560 | [251560-ghost-signal-a-stellaris-game.json](./251560-ghost-signal-a-stellaris-game.json) |
