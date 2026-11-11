@@ -5706,6 +5706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find All: Bunker - Extra Level | 345512 | [345512-find-all-bunker-extra-level.json](./345512-find-all-bunker-extra-level.json) |
 | Find All: Christmas | 324240 | [324240-find-all-christmas.json](./324240-find-all-christmas.json) |
 | Find All: Christmas 2025 - Extra Level | 382724 | [382724-find-all-christmas-2025-extra-level.json](./382724-find-all-christmas-2025-extra-level.json) |
+| Find All: Halloween | 374503 | [374503-find-all-halloween.json](./374503-find-all-halloween.json) |
 | Find All: Valentine's Day | 388766 | [388766-find-all-valentines-day.json](./388766-find-all-valentines-day.json) |
 | Find Brains | 304704 | [304704-find-brains.json](./304704-find-brains.json) |
 | Find Brooklyn Guy! | 342711 | [342711-find-brooklyn-guy.json](./342711-find-brooklyn-guy.json) |
@@ -5860,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Your IF | 305349 | [305349-find-your-if.json](./305349-find-your-if.json) |
 | Find Your Own Way Home | 10320 | [10320-find-your-own-way-home.json](./10320-find-your-own-way-home.json) |
 | Find Your Way | 98709 | [98709-find-your-way.json](./98709-find-your-way.json) |
+| Find Your Way Home: Last Flight | 374502 | [374502-find-your-way-home-last-flight.json](./374502-find-your-way-home-last-flight.json) |
 | Find Your Way: Episode 1 | 171925 | [171925-find-your-way-episode-1.json](./171925-find-your-way-episode-1.json) |
 | Find Your Wings | 214273 | [214273-find-your-wings.json](./214273-find-your-wings.json) |
 | Find Your Words | 380957 | [380957-find-your-words.json](./380957-find-your-words.json) |
