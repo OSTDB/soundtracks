@@ -4027,6 +4027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Bros. Inc. | 324013 | [324013-mario-bros-inc.json](./324013-mario-bros-inc.json) |
 | Mario Bros. Mayhem | 413896 | [413896-mario-bros-mayhem.json](./413896-mario-bros-mayhem.json) |
 | Mario Bros. Special | 132049 | [132049-mario-bros-special.json](./132049-mario-bros-special.json) |
+| Mario Bros. Untold | 380948 | [380948-mario-bros-untold.json](./380948-mario-bros-untold.json) |
 | Mario Bros. VB | 231513 | [231513-mario-bros-vb.json](./231513-mario-bros-vb.json) |
 | Mario Bros. VGA | 341958 | [341958-mario-bros-vga.json](./341958-mario-bros-vga.json) |
 | Mario Bros.-e | 170013 | [170013-mario-bros-e.json](./170013-mario-bros-e.json) |
@@ -6595,6 +6596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Company | 326093 | [326093-maze-company.json](./326093-maze-company.json) |
 | Maze Craze | 317796 | [317796-maze-craze.json](./317796-maze-craze.json) |
 | Maze Craze: A Game of Cops 'n Robbers | 70265 | [70265-maze-craze-a-game-of-cops-n-robbers.json](./70265-maze-craze-a-game-of-cops-n-robbers.json) |
+| Maze Creep!! | 380918 | [380918-maze-creep.json](./380918-maze-creep.json) |
 | Maze Crusher | 104827 | [104827-maze-crusher.json](./104827-maze-crusher.json) |
 | Maze Death Race | 319586 | [319586-maze-death-race.json](./319586-maze-death-race.json) |
 | Maze Defenders | 255734 | [255734-maze-defenders.json](./255734-maze-defenders.json) |
@@ -10114,6 +10116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mess Adventures | 153329 | [153329-mess-adventures.json](./153329-mess-adventures.json) |
 | Mess Adventures 2 | 187819 | [187819-mess-adventures-2.json](./187819-mess-adventures-2.json) |
 | Mess Cleanup | 166765 | [166765-mess-cleanup.json](./166765-mess-cleanup.json) |
+| Mess Goblins | 380915 | [380915-mess-goblins.json](./380915-mess-goblins.json) |
 | Mess in the Toy Shop | 419827 | [419827-mess-in-the-toy-shop.json](./419827-mess-in-the-toy-shop.json) |
 | Mess Quest | 217139 | [217139-mess-quest.json](./217139-mess-quest.json) |
 | Messa Anomaly | 420762 | [420762-messa-anomaly.json](./420762-messa-anomaly.json) |
@@ -18997,6 +19000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motor World: Bike Factory | 256129 | [256129-motor-world-bike-factory.json](./256129-motor-world-bike-factory.json) |
 | Motor World: Car Factory | 233914 | [233914-motor-world-car-factory.json](./233914-motor-world-car-factory.json) |
 | MotoRace USA | 4626 | [4626-motorace-usa.json](./4626-motorace-usa.json) |
+| Motoracing | 380925 | [380925-motoracing.json](./380925-motoracing.json) |
 | Motorama: Classic Racing | 10566 | [10566-motorama-classic-racing.json](./10566-motorama-classic-racing.json) |
 | Motorball | 137599 | [137599-motorball.json](./137599-motorball.json) |
 | Motorbike | 35923 | [35923-motorbike.json](./35923-motorbike.json) |
