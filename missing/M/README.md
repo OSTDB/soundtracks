@@ -19616,6 +19616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MP3: TRG Land | 294499 | [294499-mp3-trg-land.json](./294499-mp3-trg-land.json) |
 | MP3: TRG Land Direct | 294760 | [294760-mp3-trg-land-direct.json](./294760-mp3-trg-land-direct.json) |
 | MP3: Yoshi's Galapagos | 294758 | [294758-mp3-yoshis-galapagos.json](./294758-mp3-yoshis-galapagos.json) |
+| MP3D | 361960 | [361960-mp3d.json](./361960-mp3d.json) |
 | MP5 | 201242 | [201242-mp5.json](./201242-mp5.json) |
 | MPaliens | 120913 | [120913-mpaliens.json](./120913-mpaliens.json) |
 | Mpdc | 177653 | [177653-mpdc.json](./177653-mpdc.json) |
