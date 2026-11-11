@@ -11033,6 +11033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animated Jigsaws: Beautiful Japanese Scenery | 97009 | [97009-animated-jigsaws-beautiful-japanese-scenery.json](./97009-animated-jigsaws-beautiful-japanese-scenery.json) |
 | Animated Jigsaws: Japanese Women | 110734 | [110734-animated-jigsaws-japanese-women.json](./110734-animated-jigsaws-japanese-women.json) |
 | Animated Jigsaws: Wild Animals | 114205 | [114205-animated-jigsaws-wild-animals.json](./114205-animated-jigsaws-wild-animals.json) |
+| Animated Money | 344071 | [344071-animated-money.json](./344071-animated-money.json) |
 | Animated Puzzles | 22396 | [22396-animated-puzzles.json](./22396-animated-puzzles.json) |
 | Animated Puzzles: Spooky Pack | 163420 | [163420-animated-puzzles-spooky-pack.json](./163420-animated-puzzles-spooky-pack.json) |
 | Animated StoryBook: Winnie the Pooh and the Honey Tree | 342669 | [342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json](./342669-animated-storybook-winnie-the-pooh-and-the-honey-tree.json) |
