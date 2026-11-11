@@ -5092,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Academy: Extended Edition | 317253 | [317253-hentai-academy-extended-edition.json](./317253-hentai-academy-extended-edition.json) |
 | Hentai Academy: Ultimate Edition | 315863 | [315863-hentai-academy-ultimate-edition.json](./315863-hentai-academy-ultimate-edition.json) |
 | Hentai Age Airport | 411064 | [411064-hentai-age-airport.json](./411064-hentai-age-airport.json) |
+| Hentai Age Beach | 368955 | [368955-hentai-age-beach.json](./368955-hentai-age-beach.json) |
 | Hentai Age Classic | 411201 | [411201-hentai-age-classic.json](./411201-hentai-age-classic.json) |
 | Hentai Age Desert | 411203 | [411203-hentai-age-desert.json](./411203-hentai-age-desert.json) |
 | Hentai Age Hospital | 385272 | [385272-hentai-age-hospital.json](./385272-hentai-age-hospital.json) |
@@ -10269,6 +10270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook | 111323 | [111323-hook.json](./111323-hook.json) |
 | Hook | 205927 | [205927-hook.json](./205927-hook.json) |
 | Hook | 214611 | [214611-hook.json](./214611-hook.json) |
+| Hook | 369248 | [369248-hook.json](./369248-hook.json) |
 | Hook | 78145 | [78145-hook.json](./78145-hook.json) |
 | Hook | 78146 | [78146-hook.json](./78146-hook.json) |
 | Hook | 8704 | [8704-hook.json](./8704-hook.json) |
@@ -11364,6 +11366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels: Unlimited | 335815 | [335815-hot-wheels-unlimited.json](./335815-hot-wheels-unlimited.json) |
 | Hot Wheels: Victory Lap | 412079 | [412079-hot-wheels-victory-lap.json](./412079-hot-wheels-victory-lap.json) |
 | Hot Wheels: World's Best Driver | 10418 | [10418-hot-wheels-worlds-best-driver.json](./10418-hot-wheels-worlds-best-driver.json) |
+| Hot Wife Tara: Nocturnal Desires | 368959 | [368959-hot-wife-tara-nocturnal-desires.json](./368959-hot-wife-tara-nocturnal-desires.json) |
 | Hot Wired | 73660 | [73660-hot-wired.json](./73660-hot-wired.json) |
 | Hot Worlds | 259036 | [259036-hot-worlds.json](./259036-hot-worlds.json) |
 | Hot Zone | 118123 | [118123-hot-zone.json](./118123-hot-zone.json) |
