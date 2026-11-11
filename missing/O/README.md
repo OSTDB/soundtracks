@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscura | 162841 | [162841-obscura.json](./162841-obscura.json) |
 | Obscura | 213178 | [213178-obscura.json](./213178-obscura.json) |
 | Obscura | 341492 | [341492-obscura.json](./341492-obscura.json) |
+| Obscura Protocol | 333807 | [333807-obscura-protocol.json](./333807-obscura-protocol.json) |
 | Obscurant | 175520 | [175520-obscurant.json](./175520-obscurant.json) |
 | Obscurant | 195837 | [195837-obscurant.json](./195837-obscurant.json) |
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
@@ -4171,6 +4172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Dungeon | 115294 | [115294-orc-dungeon.json](./115294-orc-dungeon.json) |
 | Orc Hunt | 186277 | [186277-orc-hunt.json](./186277-orc-hunt.json) |
 | Orc Hunter VR | 32275 | [32275-orc-hunter-vr.json](./32275-orc-hunter-vr.json) |
+| Orc Hunter: Elven Archers VR | 333269 | [333269-orc-hunter-elven-archers-vr.json](./333269-orc-hunter-elven-archers-vr.json) |
 | Orc Incremental | 399030 | [399030-orc-incremental.json](./399030-orc-incremental.json) |
 | Orc Incursion | 292754 | [292754-orc-incursion.json](./292754-orc-incursion.json) |
 | Orc Invasion | 157299 | [157299-orc-invasion.json](./157299-orc-invasion.json) |
@@ -6115,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overtime Anomaly | 330533 | [330533-overtime-anomaly.json](./330533-overtime-anomaly.json) |
 | Overtime at Freddy's | 280919 | [280919-overtime-at-freddys.json](./280919-overtime-at-freddys.json) |
 | Overtime Heroes Exit 8 | 310729 | [310729-overtime-heroes-exit-8.json](./310729-overtime-heroes-exit-8.json) |
+| Overtime Pay | 333261 | [333261-overtime-pay.json](./333261-overtime-pay.json) |
 | Overtime Syndrome: A Late Night Shift Story | 385984 | [385984-overtime-syndrome-a-late-night-shift-story.json](./385984-overtime-syndrome-a-late-night-shift-story.json) |
 | Overtime: Paper Trail | 404426 | [404426-overtime-paper-trail.json](./404426-overtime-paper-trail.json) |
 | OvertimeGM: Hockey Manager | 407080 | [407080-overtimegm-hockey-manager.json](./407080-overtimegm-hockey-manager.json) |
