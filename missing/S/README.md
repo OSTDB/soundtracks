@@ -8598,6 +8598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shi-Ro | 110064 | [110064-shi-ro.json](./110064-shi-ro.json) |
 | Shi's Summer Battle | 360683 | [360683-shis-summer-battle.json](./360683-shis-summer-battle.json) |
 | Shia LaBeouf: Meme Master Dating Simulator | 12076 | [12076-shia-labeouf-meme-master-dating-simulator.json](./12076-shia-labeouf-meme-master-dating-simulator.json) |
+| Shiath | 361931 | [361931-shiath.json](./361931-shiath.json) |
 | Shiawase Ice Cream | 428406 | [428406-shiawase-ice-cream.json](./428406-shiawase-ice-cream.json) |
 | Shiawase Kazoku-bu | 422204 | [422204-shiawase-kazoku-bu.json](./422204-shiawase-kazoku-bu.json) |
 | Shiawase no Moto | 206398 | [206398-shiawase-no-moto.json](./206398-shiawase-no-moto.json) |
@@ -14967,6 +14968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumber Clause | 157349 | [157349-slumber-clause.json](./157349-slumber-clause.json) |
 | Slumber Party | 176925 | [176925-slumber-party.json](./176925-slumber-party.json) |
 | Slumber Party | 375224 | [375224-slumber-party.json](./375224-slumber-party.json) |
+| Slumber Realm | 361957 | [361957-slumber-realm.json](./361957-slumber-realm.json) |
 | Slumberer's Universe | 226622 | [226622-slumberers-universe.json](./226622-slumberers-universe.json) |
 | Slumberfish! | 243954 | [243954-slumberfish.json](./243954-slumberfish.json) |
 | Slumberfish!: Catching Z's | 288677 | [288677-slumberfish-catching-zs.json](./288677-slumberfish-catching-zs.json) |
@@ -16372,6 +16374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snootz Math Trek | 301369 | [301369-snootz-math-trek.json](./301369-snootz-math-trek.json) |
 | Snooze Control | 416094 | [416094-snooze-control.json](./416094-snooze-control.json) |
 | Snooze or Lose | 276718 | [276718-snooze-or-lose.json](./276718-snooze-or-lose.json) |
+| Snooze: A Choice | 361936 | [361936-snooze-a-choice.json](./361936-snooze-a-choice.json) |
 | Snooze: A Sleeping Adventure | 196399 | [196399-snooze-a-sleeping-adventure.json](./196399-snooze-a-sleeping-adventure.json) |
 | Snops Attack! Zombie Defense | 240495 | [240495-snops-attack-zombie-defense.json](./240495-snops-attack-zombie-defense.json) |
 | Snoring | 408057 | [408057-snoring.json](./408057-snoring.json) |
@@ -19821,6 +19824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Saga | 63252 | [63252-soul-saga.json](./63252-soul-saga.json) |
 | Soul Saga: Episode 1 | 8174 | [8174-soul-saga-episode-1.json](./8174-soul-saga-episode-1.json) |
 | Soul Saver | 134637 | [134637-soul-saver.json](./134637-soul-saver.json) |
+| Soul Scar | 361971 | [361971-soul-scar.json](./361971-soul-scar.json) |
 | Soul Scathe | 120112 | [120112-soul-scathe.json](./120112-soul-scathe.json) |
 | Soul Searchin' | 407515 | [407515-soul-searchin.json](./407515-soul-searchin.json) |
 | Soul Searching | 216872 | [216872-soul-searching.json](./216872-soul-searching.json) |
@@ -31606,6 +31610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suika Pets | 290549 | [290549-suika-pets.json](./290549-suika-pets.json) |
 | Suika Puffworks | 373668 | [373668-suika-puffworks.json](./373668-suika-puffworks.json) |
 | Suika Shapes | 276165 | [276165-suika-shapes.json](./276165-suika-shapes.json) |
+| Suika Sprunki Edition | 361955 | [361955-suika-sprunki-edition.json](./361955-suika-sprunki-edition.json) |
 | Suika vs. Mechasuika | 332751 | [332751-suika-vs-mechasuika.json](./332751-suika-vs-mechasuika.json) |
 | Suika Wan! | 397064 | [397064-suika-wan.json](./397064-suika-wan.json) |
 | Suika Watermelon Fruits | 288171 | [288171-suika-watermelon-fruits.json](./288171-suika-watermelon-fruits.json) |
