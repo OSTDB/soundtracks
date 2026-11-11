@@ -13294,6 +13294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runes Quest | 421384 | [421384-runes-quest.json](./421384-runes-quest.json) |
 | Runes Saga: Puzzle Adventure | 122208 | [122208-runes-saga-puzzle-adventure.json](./122208-runes-saga-puzzle-adventure.json) |
 | Runes: Hidden Objects Puzzle Game | 312686 | [312686-runes-hidden-objects-puzzle-game.json](./312686-runes-hidden-objects-puzzle-game.json) |
+| Runes: Lost In Time | 379810 | [379810-runes-lost-in-time.json](./379810-runes-lost-in-time.json) |
 | Runes: The Forgotten Path | 33172 | [33172-runes-the-forgotten-path.json](./33172-runes-the-forgotten-path.json) |
 | RuneSage | 30935 | [30935-runesage.json](./30935-runesage.json) |
 | Runescape | 241152 | [241152-runescape.json](./241152-runescape.json) |
