@@ -2122,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Café Stories | 369697 | [369697-neko-cafe-stories.json](./369697-neko-cafe-stories.json) |
 | Neko Candy Shop | 169143 | [169143-neko-candy-shop.json](./169143-neko-candy-shop.json) |
 | Neko Chan | 161596 | [161596-neko-chan.json](./161596-neko-chan.json) |
+| Neko Commando | 378714 | [378714-neko-commando.json](./378714-neko-commando.json) |
 | Neko Cosmo Police | 209482 | [209482-neko-cosmo-police.json](./209482-neko-cosmo-police.json) |
 | Neko Crush | 242134 | [242134-neko-crush.json](./242134-neko-crush.json) |
 | Neko Dai Suki! | 45257 | [45257-neko-dai-suki.json](./45257-neko-dai-suki.json) |
@@ -4610,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Owls | 336513 | [336513-night-owls.json](./336513-night-owls.json) |
 | Night Pact: Azuru | 271612 | [271612-night-pact-azuru.json](./271612-night-pact-azuru.json) |
 | Night Patrol Rules | 368271 | [368271-night-patrol-rules.json](./368271-night-patrol-rules.json) |
+| Night People | 378719 | [378719-night-people.json](./378719-night-people.json) |
 | Night Plane | 378426 | [378426-night-plane.json](./378426-night-plane.json) |
 | Night Poetry | 264669 | [264669-night-poetry.json](./264669-night-poetry.json) |
 | Night Project | 303974 | [303974-night-project.json](./303974-night-project.json) |
