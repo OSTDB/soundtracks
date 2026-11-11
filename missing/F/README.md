@@ -9486,6 +9486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folklore Hunter | 128474 | [128474-folklore-hunter.json](./128474-folklore-hunter.json) |
 | Folklore Reloaded | 379420 | [379420-folklore-reloaded.json](./379420-folklore-reloaded.json) |
 | Folklore: Shadows of the Shackled | 259460 | [259460-folklore-shadows-of-the-shackled.json](./259460-folklore-shadows-of-the-shackled.json) |
+| Folklorests | 351334 | [351334-folklorests.json](./351334-folklorests.json) |
 | Folkloric Excursion | 159790 | [159790-folkloric-excursion.json](./159790-folkloric-excursion.json) |
 | Folklorist Diary: The Forgotten Treasure | 204736 | [204736-folklorist-diary-the-forgotten-treasure.json](./204736-folklorist-diary-the-forgotten-treasure.json) |
 | FolkOrigin | 292391 | [292391-folkorigin.json](./292391-folkorigin.json) |
@@ -12381,6 +12382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free the Lazy Dogs | 258516 | [258516-free-the-lazy-dogs.json](./258516-free-the-lazy-dogs.json) |
 | Free Throw Basketball | 147868 | [147868-free-throw-basketball.json](./147868-free-throw-basketball.json) |
 | Free Time Puzzle | 422516 | [422516-free-time-puzzle.json](./422516-free-time-puzzle.json) |
+| Free to Fit | 351346 | [351346-free-to-fit.json](./351346-free-to-fit.json) |
 | Free Trader | 298407 | [298407-free-trader.json](./298407-free-trader.json) |
 | Free War | 188326 | [188326-free-war.json](./188326-free-war.json) |
 | Free Wheels | 416737 | [416737-free-wheels.json](./416737-free-wheels.json) |
