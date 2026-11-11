@@ -3240,6 +3240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genkai: Primal Awakening | 273497 | [273497-genkai-primal-awakening.json](./273497-genkai-primal-awakening.json) |
 | Genkai! Yamazumi Battle | 222374 | [222374-genkai-yamazumi-battle.json](./222374-genkai-yamazumi-battle.json) |
 | Genki Bakuhatsu Ganbaruger | 56785 | [56785-genki-bakuhatsu-ganbaruger.json](./56785-genki-bakuhatsu-ganbaruger.json) |
+| Genki Break! | 359130 | [359130-genki-break.json](./359130-genki-break.json) |
 | Genki Village | 143036 | [143036-genki-village.json](./143036-genki-village.json) |
 | Genma Taisen | 298528 | [298528-genma-taisen.json](./298528-genma-taisen.json) |
 | GenMobile | 202810 | [202810-genmobile.json](./202810-genmobile.json) |
