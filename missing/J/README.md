@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus Sacred Heart | 392792 | [392792-jesus-sacred-heart.json](./392792-jesus-sacred-heart.json) |
 | Jesus Saves | 408017 | [408017-jesus-saves.json](./408017-jesus-saves.json) |
 | Jesus Simulator | 387742 | [387742-jesus-simulator.json](./387742-jesus-simulator.json) |
+| Jesus Take The Wheel | 395914 | [395914-jesus-take-the-wheel.json](./395914-jesus-take-the-wheel.json) |
 | Jesus vs. Muhammad | 100530 | [100530-jesus-vs-muhammad.json](./100530-jesus-vs-muhammad.json) |
 | Jesús y Compañía | 323069 | [323069-jesus-y-compania.json](./323069-jesus-y-compania.json) |
 | JESUS: Kyoufu no Bio Monster | 48452 | [48452-jesus-kyoufu-no-bio-monster.json](./48452-jesus-kyoufu-no-bio-monster.json) |
