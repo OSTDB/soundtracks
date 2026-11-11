@@ -10128,6 +10128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoutrageous! | 101952 | [101952-shoutrageous.json](./101952-shoutrageous.json) |
 | Shove | 367656 | [367656-shove.json](./367656-shove.json) |
 | Shove It! The Warehouse Game | 4375 | [4375-shove-it-the-warehouse-game.json](./4375-shove-it-the-warehouse-game.json) |
+| Shovel & Swindle | 333262 | [333262-shovel-and-swindle.json](./333262-shovel-and-swindle.json) |
 | Shovel Adventure | 220784 | [220784-shovel-adventure.json](./220784-shovel-adventure.json) |
 | Shovel Adventure: The Next Quest | 421596 | [421596-shovel-adventure-the-next-quest.json](./421596-shovel-adventure-the-next-quest.json) |
 | Shovel Escape | 172450 | [172450-shovel-escape.json](./172450-shovel-escape.json) |
@@ -18631,6 +18632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic EXP | 326549 | [326549-sonic-exp.json](./326549-sonic-exp.json) |
 | Sonic Explorers | 317267 | [317267-sonic-explorers.json](./317267-sonic-explorers.json) |
 | Sonic Fan Remix | 228589 | [228589-sonic-fan-remix.json](./228589-sonic-fan-remix.json) |
+| Sonic Fear 2: Metal Sonic Out of Control | 332734 | [332734-sonic-fear-2-metal-sonic-out-of-control.json](./332734-sonic-fear-2-metal-sonic-out-of-control.json) |
 | Sonic Fever | 321077 | [321077-sonic-fever.json](./321077-sonic-fever.json) |
 | Sonic FGX | 299995 | [299995-sonic-fgx.json](./299995-sonic-fgx.json) |
 | Sonic FGX 2 | 352169 | [352169-sonic-fgx-2.json](./352169-sonic-fgx-2.json) |
@@ -18689,6 +18691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Generations: A New Beginning | 330877 | [330877-sonic-generations-a-new-beginning.json](./330877-sonic-generations-a-new-beginning.json) |
 | Sonic Generations: Casino Night DLC | 133938 | [133938-sonic-generations-casino-night-dlc.json](./133938-sonic-generations-casino-night-dlc.json) |
 | Sonic Generations: Collector's Edition | 136662 | [136662-sonic-generations-collectors-edition.json](./136662-sonic-generations-collectors-edition.json) |
+| Sonic Generations: The Lost Zones | 332735 | [332735-sonic-generations-the-lost-zones.json](./332735-sonic-generations-the-lost-zones.json) |
 | Sonic Generations: White Time and Space 20th Anniversary Set | 89889 | [89889-sonic-generations-white-time-and-space-20th-anniversary-set.json](./89889-sonic-generations-white-time-and-space-20th-anniversary-set.json) |
 | Sonic Genesis | 331990 | [331990-sonic-genesis.json](./331990-sonic-genesis.json) |
 | Sonic Genesis of the Azure Wind | 331714 | [331714-sonic-genesis-of-the-azure-wind.json](./331714-sonic-genesis-of-the-azure-wind.json) |
@@ -18706,6 +18709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Heardle | 198251 | [198251-sonic-heardle.json](./198251-sonic-heardle.json) |
 | Sonic Hearts | 261273 | [261273-sonic-hearts.json](./261273-sonic-hearts.json) |
 | Sonic Heights | 333888 | [333888-sonic-heights.json](./333888-sonic-heights.json) |
+| Sonic Hero Warriors | 332733 | [332733-sonic-hero-warriors.json](./332733-sonic-hero-warriors.json) |
 | Sonic Heroes Chao | 331379 | [331379-sonic-heroes-chao.json](./331379-sonic-heroes-chao.json) |
 | Sonic Heroes Competition | 300517 | [300517-sonic-heroes-competition.json](./300517-sonic-heroes-competition.json) |
 | Sonic Heroes Puzzle | 273988 | [273988-sonic-heroes-puzzle.json](./273988-sonic-heroes-puzzle.json) |
@@ -18835,6 +18839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Origins Ultrafix | 361623 | [361623-sonic-origins-ultrafix.json](./361623-sonic-origins-ultrafix.json) |
 | Sonic Origins: Digital Deluxe Edition | 199190 | [199190-sonic-origins-digital-deluxe-edition.json](./199190-sonic-origins-digital-deluxe-edition.json) |
 | Sonic Origins: Premium Fun Pack | 254492 | [254492-sonic-origins-premium-fun-pack.json](./254492-sonic-origins-premium-fun-pack.json) |
+| Sonic Other World | 333801 | [333801-sonic-other-world.json](./333801-sonic-other-world.json) |
 | Sonic Outbound | 266515 | [266515-sonic-outbound.json](./266515-sonic-outbound.json) |
 | Sonic Overdrive | 266513 | [266513-sonic-overdrive.json](./266513-sonic-overdrive.json) |
 | Sonic Overdrive | 331388 | [331388-sonic-overdrive.json](./331388-sonic-overdrive.json) |
@@ -18852,6 +18857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic PC Collection | 64327 | [64327-sonic-pc-collection.json](./64327-sonic-pc-collection.json) |
 | Sonic PC Port Remake | 305116 | [305116-sonic-pc-port-remake.json](./305116-sonic-pc-port-remake.json) |
 | Sonic Phoenix | 326132 | [326132-sonic-phoenix.json](./326132-sonic-phoenix.json) |
+| Sonic Pinball Panic! | 333808 | [333808-sonic-pinball-panic.json](./333808-sonic-pinball-panic.json) |
 | Sonic Pinball Party | 6601 | [6601-sonic-pinball-party.json](./6601-sonic-pinball-party.json) |
 | Sonic Pocket Advance | 330589 | [330589-sonic-pocket-advance.json](./330589-sonic-pocket-advance.json) |
 | Sonic Point of Action | 326136 | [326136-sonic-point-of-action.json](./326136-sonic-point-of-action.json) |
@@ -19292,6 +19298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic: Eternal Flare | 330698 | [330698-sonic-eternal-flare.json](./330698-sonic-eternal-flare.json) |
 | Sonic: Flame of Time | 326829 | [326829-sonic-flame-of-time.json](./326829-sonic-flame-of-time.json) |
 | Sonic: Frame by Frame | 334630 | [334630-sonic-frame-by-frame.json](./334630-sonic-frame-by-frame.json) |
+| Sonic: Haven Home World | 332732 | [332732-sonic-haven-home-world.json](./332732-sonic-haven-home-world.json) |
 | Sonic: Into the Void | 256299 | [256299-sonic-into-the-void.json](./256299-sonic-into-the-void.json) |
 | Sonic: Legends | 331067 | [331067-sonic-legends.json](./331067-sonic-legends.json) |
 | Sonic: Light and Darkness | 330292 | [330292-sonic-light-and-darkness.json](./330292-sonic-light-and-darkness.json) |
@@ -19640,6 +19647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sortik Systems | 338218 | [338218-sortik-systems.json](./338218-sortik-systems.json) |
 | Sorting Baby Blocks for Boys 3D Smart Shapes Games | 91059 | [91059-sorting-baby-blocks-for-boys-3d-smart-shapes-games.json](./91059-sorting-baby-blocks-for-boys-3d-smart-shapes-games.json) |
 | Sorting Baby Blocks: children's educational puzzle | 86837 | [86837-sorting-baby-blocks-childrens-educational-puzzle.json](./86837-sorting-baby-blocks-childrens-educational-puzzle.json) |
+| Sorting Inc | 333805 | [333805-sorting-inc.json](./333805-sorting-inc.json) |
 | Sorting Puzzles for Kids | 104128 | [104128-sorting-puzzles-for-kids.json](./104128-sorting-puzzles-for-kids.json) |
 | Sorting Sortilege | 176213 | [176213-sorting-sortilege.json](./176213-sorting-sortilege.json) |
 | SortPuz | 196340 | [196340-sortpuz.json](./196340-sortpuz.json) |
