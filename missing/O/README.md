@@ -1868,7 +1868,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omen | 259144 | [259144-omen.json](./259144-omen.json) |
 | Omen | 359714 | [359714-omen.json](./359714-omen.json) |
 | Omen Exitio: Hunger | 236941 | [236941-omen-exitio-hunger.json](./236941-omen-exitio-hunger.json) |
-| Omen Exitio: Plague | 87931 | [87931-omen-exitio-plague.json](./87931-omen-exitio-plague.json) |
 | Omen Fall | 251805 | [251805-omen-fall.json](./251805-omen-fall.json) |
 | Omen of Rain | 180377 | [180377-omen-of-rain.json](./180377-omen-of-rain.json) |
 | Omen of Sorrow | 27070 | [27070-omen-of-sorrow.json](./27070-omen-of-sorrow.json) |
