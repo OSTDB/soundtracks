@@ -550,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yes, My Demon Queen! | 227982 | [227982-yes-my-demon-queen.json](./227982-yes-my-demon-queen.json) |
 | Yes, my mother is... | 57473 | [57473-yes-my-mother-is.json](./57473-yes-my-mother-is.json) |
 | Yes, My Queen | 356604 | [356604-yes-my-queen.json](./356604-yes-my-queen.json) |
+| Yes, My Warlord | 368394 | [368394-yes-my-warlord.json](./368394-yes-my-warlord.json) |
 | Yes, No, Goodbye | 365359 | [365359-yes-no-goodbye.json](./365359-yes-no-goodbye.json) |
 | Yes, Sir | 284252 | [284252-yes-sir.json](./284252-yes-sir.json) |
 | Yes, Your Grace | 122729 | [122729-yes-your-grace.json](./122729-yes-your-grace.json) |
@@ -998,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yorumorukimiri: Hajimari no Shoujo | 325374 | [325374-yorumorukimiri-hajimari-no-shoujo.json](./325374-yorumorukimiri-hajimari-no-shoujo.json) |
 | Yorumorukimiri: Shippo-tachi no Kizuna | 147337 | [147337-yorumorukimiri-shippo-tachi-no-kizuna.json](./147337-yorumorukimiri-shippo-tachi-no-kizuna.json) |
 | Yorvik's Game | 374610 | [374610-yorviks-game.json](./374610-yorviks-game.json) |
+| Yosamikalo | 368165 | [368165-yosamikalo.json](./368165-yosamikalo.json) |
 | Yosemite Forest Ranger | 201126 | [201126-yosemite-forest-ranger.json](./201126-yosemite-forest-ranger.json) |
 | Yoshi | 86264 | [86264-yoshi.json](./86264-yoshi.json) |
 | Yoshi and the Mysterious Book | 366883 | [366883-yoshi-and-the-mysterious-book.json](./366883-yoshi-and-the-mysterious-book.json) |
