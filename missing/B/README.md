@@ -6441,6 +6441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before You Die | 185434 | [185434-before-you-die.json](./185434-before-you-die.json) |
 | Before You Disappear | 395971 | [395971-before-you-disappear.json](./395971-before-you-disappear.json) |
 | Before You Forget | 261447 | [261447-before-you-forget.json](./261447-before-you-forget.json) |
+| Before You Get Trapped in the Black Lilies. | 361948 | [361948-before-you-get-trapped-in-the-black-lilies.json](./361948-before-you-get-trapped-in-the-black-lilies.json) |
 | Before Your Eyes | 305472 | [305472-before-your-eyes.json](./305472-before-your-eyes.json) |
 | BeforeDisaster | 368224 | [368224-beforedisaster.json](./368224-beforedisaster.json) |
 | Befriended Curse | 314321 | [314321-befriended-curse.json](./314321-befriended-curse.json) |
@@ -19064,6 +19065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Mountain and Sea | 150681 | [150681-burning-mountain-and-sea.json](./150681-burning-mountain-and-sea.json) |
 | Burning Out | 113043 | [113043-burning-out.json](./113043-burning-out.json) |
 | Burning Out | 306920 | [306920-burning-out.json](./306920-burning-out.json) |
+| Burning Out | 361964 | [361964-burning-out.json](./361964-burning-out.json) |
 | Burning Paper | 49096 | [49096-burning-paper.json](./49096-burning-paper.json) |
 | Burning Point | 130538 | [130538-burning-point.json](./130538-burning-point.json) |
 | Burning Post II | 56191 | [56191-burning-post-ii.json](./56191-burning-post-ii.json) |
