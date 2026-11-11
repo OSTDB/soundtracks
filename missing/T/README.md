@@ -14232,6 +14232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lucky Stray Cat | 386824 | [386824-the-lucky-stray-cat.json](./386824-the-lucky-stray-cat.json) |
 | The Luffman Experiment | 407561 | [407561-the-luffman-experiment.json](./407561-the-luffman-experiment.json) |
 | The Lullaby of Life | 138907 | [138907-the-lullaby-of-life.json](./138907-the-lullaby-of-life.json) |
+| The Lullaby Weaver | 346316 | [346316-the-lullaby-weaver.json](./346316-the-lullaby-weaver.json) |
 | The Lumenites | 275367 | [275367-the-lumenites.json](./275367-the-lumenites.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
 | The Luminous Underground | 159951 | [159951-the-luminous-underground.json](./159951-the-luminous-underground.json) |
@@ -17967,6 +17968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Solitude Project | 350884 | [350884-the-solitude-project.json](./350884-the-solitude-project.json) |
 | The Solus Project | 11221 | [11221-the-solus-project.json](./11221-the-solus-project.json) |
 | The Solyani's Code | 403431 | [403431-the-solyanis-code.json](./403431-the-solyanis-code.json) |
+| The Son of Art | 346279 | [346279-the-son-of-art.json](./346279-the-son-of-art.json) |
 | The Song of Awakening | 311178 | [311178-the-song-of-awakening.json](./311178-the-song-of-awakening.json) |
 | The Song of Calirum | 182890 | [182890-the-song-of-calirum.json](./182890-the-song-of-calirum.json) |
 | The Song of Invermere | 372825 | [372825-the-song-of-invermere.json](./372825-the-song-of-invermere.json) |
@@ -27398,6 +27400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn Familjen | 55687 | [55687-torn-familjen.json](./55687-torn-familjen.json) |
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
 | Torn Tales | 34773 | [34773-torn-tales.json](./34773-torn-tales.json) |
+| Torn Veil | 346270 | [346270-torn-veil.json](./346270-torn-veil.json) |
 | Tornado | 116598 | [116598-tornado.json](./116598-tornado.json) |
 | Tornado | 145315 | [145315-tornado.json](./145315-tornado.json) |
 | Tornado | 206085 | [206085-tornado.json](./206085-tornado.json) |
