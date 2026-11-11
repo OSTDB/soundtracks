@@ -11925,6 +11925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antimatter Dimensions | 223490 | [223490-antimatter-dimensions.json](./223490-antimatter-dimensions.json) |
 | Antimatter Drive: Duel | 283916 | [283916-antimatter-drive-duel.json](./283916-antimatter-drive-duel.json) |
 | Antimatter Elevator | 166759 | [166759-antimatter-elevator.json](./166759-antimatter-elevator.json) |
+| Antinarkomania | 364947 | [364947-antinarkomania.json](./364947-antinarkomania.json) |
 | Antinomia: Final Fantasy VI | 339248 | [339248-antinomia-final-fantasy-vi.json](./339248-antinomia-final-fantasy-vi.json) |
 | Antiny | 125990 | [125990-antiny.json](./125990-antiny.json) |
 | Antiny 0 | 180127 | [180127-antiny-0.json](./180127-antiny-0.json) |
