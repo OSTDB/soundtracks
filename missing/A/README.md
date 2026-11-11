@@ -1121,6 +1121,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Promise Best Left Unkept | 235844 | [235844-a-promise-best-left-unkept.json](./235844-a-promise-best-left-unkept.json) |
 | A Promise Best Left Unkept: Aya Edition | 385835 | [385835-a-promise-best-left-unkept-aya-edition.json](./385835-a-promise-best-left-unkept-aya-edition.json) |
 | A Proper Cup of Tea | 294537 | [294537-a-proper-cup-of-tea.json](./294537-a-proper-cup-of-tea.json) |
+| A Punk with Wheels | 322341 | [322341-a-punk-with-wheels.json](./322341-a-punk-with-wheels.json) |
+| A Punk with Wheels 2 | 322343 | [322343-a-punk-with-wheels-2.json](./322343-a-punk-with-wheels-2.json) |
 | A Purrtato Tail: By the Light of the Elderstar | 89482 | [89482-a-purrtato-tail-by-the-light-of-the-elderstar.json](./89482-a-purrtato-tail-by-the-light-of-the-elderstar.json) |
 | A Puzzle Game where you Fold Dice | 403912 | [403912-a-puzzle-game-where-you-fold-dice.json](./403912-a-puzzle-game-where-you-fold-dice.json) |
 | A Puzzling Combination | 177145 | [177145-a-puzzling-combination.json](./177145-a-puzzling-combination.json) |
@@ -6526,6 +6528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akina: Dotei Hunt Hen | 97773 | [97773-akina-dotei-hunt-hen.json](./97773-akina-dotei-hunt-hen.json) |
 | Akinakes | 342231 | [342231-akinakes.json](./342231-akinakes.json) |
 | Akinator | 18124 | [18124-akinator.json](./18124-akinator.json) |
+| Akinator | 322326 | [322326-akinator.json](./322326-akinator.json) |
 | Akindo | 200052 | [200052-akindo.json](./200052-akindo.json) |
 | Akinofa | 152700 | [152700-akinofa.json](./152700-akinofa.json) |
 | Akir8 | 178852 | [178852-akir8.json](./178852-akir8.json) |
