@@ -974,6 +974,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call the Tune | 320883 | [320883-call-the-tune.json](./320883-call-the-tune.json) |
 | Call to Arms | 100182 | [100182-call-to-arms.json](./100182-call-to-arms.json) |
 | Call to Arms | 17432 | [17432-call-to-arms.json](./17432-call-to-arms.json) |
+| Call to Arms - Gates of Hell: Supporter Pack | 376955 | [376955-call-to-arms-gates-of-hell-supporter-pack.json](./376955-call-to-arms-gates-of-hell-supporter-pack.json) |
+| Call to Arms: Gates of Hell - Airborne | 376953 | [376953-call-to-arms-gates-of-hell-airborne.json](./376953-call-to-arms-gates-of-hell-airborne.json) |
+| Call to Arms: Gates of Hell - Jubilee | 376954 | [376954-call-to-arms-gates-of-hell-jubilee.json](./376954-call-to-arms-gates-of-hell-jubilee.json) |
 | Call to Arms: Gates of Hell - Liberation | 261780 | [261780-call-to-arms-gates-of-hell-liberation.json](./261780-call-to-arms-gates-of-hell-liberation.json) |
 | Call to Arms: Gates of Hell - Ostfront | 211196 | [211196-call-to-arms-gates-of-hell-ostfront.json](./211196-call-to-arms-gates-of-hell-ostfront.json) |
 | Call to Arms: Gates of Hell - Scorched Earth | 219733 | [219733-call-to-arms-gates-of-hell-scorched-earth.json](./219733-call-to-arms-gates-of-hell-scorched-earth.json) |
@@ -2254,6 +2257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Crash Multiplayer | 235000 | [235000-car-crash-multiplayer.json](./235000-car-crash-multiplayer.json) |
 | Car Crash Online | 105162 | [105162-car-crash-online.json](./105162-car-crash-online.json) |
 | Car Crash Racing: Stunt Master | 231977 | [231977-car-crash-racing-stunt-master.json](./231977-car-crash-racing-stunt-master.json) |
+| Car Crash Simulator: Demolition Derby Madness | 377003 | [377003-car-crash-simulator-demolition-derby-madness.json](./377003-car-crash-simulator-demolition-derby-madness.json) |
 | Car Crush Racing Simulator | 132508 | [132508-car-crush-racing-simulator.json](./132508-car-crush-racing-simulator.json) |
 | Car Dealer | 133041 | [133041-car-dealer.json](./133041-car-dealer.json) |
 | Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
@@ -5325,6 +5329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavequest | 2876 | [2876-cavequest.json](./2876-cavequest.json) |
 | Caver | 199330 | [199330-caver.json](./199330-caver.json) |
 | Cavera: The Island of Apes | 250703 | [250703-cavera-the-island-of-apes.json](./250703-cavera-the-island-of-apes.json) |
+| Caverim 2 | 376990 | [376990-caverim-2.json](./376990-caverim-2.json) |
 | Cavern | 100626 | [100626-cavern.json](./100626-cavern.json) |
 | Cavern | 272856 | [272856-cavern.json](./272856-cavern.json) |
 | Cavern Adventurers | 291983 | [291983-cavern-adventurers.json](./291983-cavern-adventurers.json) |
@@ -18856,6 +18861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croc Mobile: Pinball | 55949 | [55949-croc-mobile-pinball.json](./55949-croc-mobile-pinball.json) |
 | Croc Mobile: Volcanic Panic | 55965 | [55965-croc-mobile-volcanic-panic.json](./55965-croc-mobile-volcanic-panic.json) |
 | Croc: Legend of the Gobbos | 7901 | [7901-croc-legend-of-the-gobbos.json](./7901-croc-legend-of-the-gobbos.json) |
+| Croc's Dynamite Blast | 377008 | [377008-crocs-dynamite-blast.json](./377008-crocs-dynamite-blast.json) |
 | Croc's World | 87410 | [87410-crocs-world.json](./87410-crocs-world.json) |
 | Croc's World 2 | 89170 | [89170-crocs-world-2.json](./89170-crocs-world-2.json) |
 | Croc's World 3 | 88563 | [88563-crocs-world-3.json](./88563-crocs-world-3.json) |
@@ -21185,6 +21191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Land | 297237 | [297237-cursed-land.json](./297237-cursed-land.json) |
 | Cursed Lands | 80935 | [80935-cursed-lands.json](./80935-cursed-lands.json) |
 | Cursed Legacy | 370707 | [370707-cursed-legacy.json](./370707-cursed-legacy.json) |
+| Cursed Legacy: Story of Faylinawa | 376952 | [376952-cursed-legacy-story-of-faylinawa.json](./376952-cursed-legacy-story-of-faylinawa.json) |
 | Cursed Letters | 156673 | [156673-cursed-letters.json](./156673-cursed-letters.json) |
 | Cursed Loop | 367157 | [367157-cursed-loop.json](./367157-cursed-loop.json) |
 | Cursed Loot | 324114 | [324114-cursed-loot.json](./324114-cursed-loot.json) |
