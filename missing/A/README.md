@@ -445,6 +445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
 | A Forgetful Loop | 140905 | [140905-a-forgetful-loop.json](./140905-a-forgetful-loop.json) |
 | A Fork in the Tale | 54635 | [54635-a-fork-in-the-tale.json](./54635-a-fork-in-the-tale.json) |
+| A Forwards, A Backwards | 364341 | [364341-a-forwards-a-backwards.json](./364341-a-forwards-a-backwards.json) |
 | A Fox and His Robot | 150611 | [150611-a-fox-and-his-robot.json](./150611-a-fox-and-his-robot.json) |
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
 | A Fragment of Her | 60215 | [60215-a-fragment-of-her.json](./60215-a-fragment-of-her.json) |
@@ -464,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Front Too Far: Normandy | 110958 | [110958-a-front-too-far-normandy.json](./110958-a-front-too-far-normandy.json) |
 | A Frustrating Platformer | 190382 | [190382-a-frustrating-platformer.json](./190382-a-frustrating-platformer.json) |
 | A Fugu's Dive | 379501 | [379501-a-fugus-dive.json](./379501-a-fugus-dive.json) |
+| A Fume de Carozo | 364343 | [364343-a-fume-de-carozo.json](./364343-a-fume-de-carozo.json) |
 | A Fungus in My Garden | 200858 | [200858-a-fungus-in-my-garden.json](./200858-a-fungus-in-my-garden.json) |
 | A Furry Tale: A night in Havena | 312673 | [312673-a-furry-tale-a-night-in-havena.json](./312673-a-furry-tale-a-night-in-havena.json) |
 | A Future With You | 364521 | [364521-a-future-with-you.json](./364521-a-future-with-you.json) |
@@ -880,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Megawad in Two Weeks | 274142 | [274142-a-megawad-in-two-weeks.json](./274142-a-megawad-in-two-weeks.json) |
 | A Melon's Tale | 180671 | [180671-a-melons-tale.json](./180671-a-melons-tale.json) |
 | A Memoir Blue | 106856 | [106856-a-memoir-blue.json](./106856-a-memoir-blue.json) |
+| A Memory of a Library | 364136 | [364136-a-memory-of-a-library.json](./364136-a-memory-of-a-library.json) |
 | A Merchant's Promise | 327692 | [327692-a-merchants-promise.json](./327692-a-merchants-promise.json) |
 | A Mermaid's Paradoxical Tale | 273664 | [273664-a-mermaids-paradoxical-tale.json](./273664-a-mermaids-paradoxical-tale.json) |
 | A Mess O'Trouble | 66786 | [66786-a-mess-otrouble.json](./66786-a-mess-otrouble.json) |
@@ -7256,6 +7259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Breed II: The Horror Continues | 14241 | [14241-alien-breed-ii-the-horror-continues.json](./14241-alien-breed-ii-the-horror-continues.json) |
 | Alien Breed Special Edition / Qwak | 82505 | [82505-alien-breed-special-edition-qwak.json](./82505-alien-breed-special-edition-qwak.json) |
 | Alien Breed Trilogy | 23390 | [23390-alien-breed-trilogy.json](./23390-alien-breed-trilogy.json) |
+| Alien Breed: Conflict | 364345 | [364345-alien-breed-conflict.json](./364345-alien-breed-conflict.json) |
 | Alien Breed: Impact | 9964 | [9964-alien-breed-impact.json](./9964-alien-breed-impact.json) |
 | Alien Breed: Special Edition 92 | 14596 | [14596-alien-breed-special-edition-92.json](./14596-alien-breed-special-edition-92.json) |
 | Alien Breed: Tower Assault | 11087 | [11087-alien-breed-tower-assault.json](./11087-alien-breed-tower-assault.json) |
@@ -10989,6 +10993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Designer: Dragon Ball Z | 61024 | [61024-anime-designer-dragon-ball-z.json](./61024-anime-designer-dragon-ball-z.json) |
 | Anime Dream | 278237 | [278237-anime-dream.json](./278237-anime-dream.json) |
 | Anime Dream Girl | 178811 | [178811-anime-dream-girl.json](./178811-anime-dream-girl.json) |
+| Anime Dream Match: Birds | 364133 | [364133-anime-dream-match-birds.json](./364133-anime-dream-match-birds.json) |
 | Anime Dream Match: Boys | 343237 | [343237-anime-dream-match-boys.json](./343237-anime-dream-match-boys.json) |
 | Anime Dream Match: Butterflies | 360467 | [360467-anime-dream-match-butterflies.json](./360467-anime-dream-match-butterflies.json) |
 | Anime Dream Match: Dogs | 357863 | [357863-anime-dream-match-dogs.json](./357863-anime-dream-match-dogs.json) |
@@ -14508,6 +14513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: Chair of Hephaestus - Collector's Edition | 357335 | [357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json](./357335-argonauts-agency-chair-of-hephaestus-collectors-edition.json) |
 | Argonauts Agency: Glove of Midas | 186411 | [186411-argonauts-agency-glove-of-midas.json](./186411-argonauts-agency-glove-of-midas.json) |
 | Argonauts Agency: Glove of Midas - Collector's Edition | 357336 | [357336-argonauts-agency-glove-of-midas-collectors-edition.json](./357336-argonauts-agency-glove-of-midas-collectors-edition.json) |
+| Argonauts Agency: God of the Storm | 364134 | [364134-argonauts-agency-god-of-the-storm.json](./364134-argonauts-agency-god-of-the-storm.json) |
 | Argonauts Agency: God of the Storm - Collector's Edition | 356771 | [356771-argonauts-agency-god-of-the-storm-collectors-edition.json](./356771-argonauts-agency-god-of-the-storm-collectors-edition.json) |
 | Argonauts Agency: Golden Fleece | 115133 | [115133-argonauts-agency-golden-fleece.json](./115133-argonauts-agency-golden-fleece.json) |
 | Argonauts Agency: Gorgon Medusa | 371608 | [371608-argonauts-agency-gorgon-medusa.json](./371608-argonauts-agency-gorgon-medusa.json) |
