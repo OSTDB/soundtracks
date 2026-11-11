@@ -8417,6 +8417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Already Solved | 398829 | [398829-already-solved.json](./398829-already-solved.json) |
 | Alright x4 | 183942 | [183942-alright-x4.json](./183942-alright-x4.json) |
 | Alruna and the Necro-Industrialists | 273354 | [273354-alruna-and-the-necro-industrialists.json](./273354-alruna-and-the-necro-industrialists.json) |
+| Alruna: End of History | 372352 | [372352-alruna-end-of-history.json](./372352-alruna-end-of-history.json) |
 | Alshark | 37578 | [37578-alshark.json](./37578-alshark.json) |
 | Alsmic Lizzi | 396777 | [396777-alsmic-lizzi.json](./396777-alsmic-lizzi.json) |
 | Alstan | 389734 | [389734-alstan.json](./389734-alstan.json) |
@@ -9683,6 +9684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An unfolding Adventure | 184795 | [184795-an-unfolding-adventure.json](./184795-an-unfolding-adventure.json) |
 | An Uninvited Guest | 195546 | [195546-an-uninvited-guest.json](./195546-an-uninvited-guest.json) |
 | An Unnamed Jumping Game | 321750 | [321750-an-unnamed-jumping-game.json](./321750-an-unnamed-jumping-game.json) |
+| An Unplayable Game?! | 372370 | [372370-an-unplayable-game.json](./372370-an-unplayable-game.json) |
 | An Untitled Story | 72926 | [72926-an-untitled-story.json](./72926-an-untitled-story.json) |
 | An Unusual Cadence | 283921 | [283921-an-unusual-cadence.json](./283921-an-unusual-cadence.json) |
 | An Update is Pending | 129651 | [129651-an-update-is-pending.json](./129651-an-update-is-pending.json) |
@@ -12826,6 +12828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarian Age: Tokyo Wars | 419084 | [419084-aquarian-age-tokyo-wars.json](./419084-aquarian-age-tokyo-wars.json) |
 | Aquario | 311444 | [311444-aquario.json](./311444-aquario.json) |
 | Aquaris | 109044 | [109044-aquaris.json](./109044-aquaris.json) |
+| Aquarist: American Fish DLC | 372367 | [372367-aquarist-american-fish-dlc.json](./372367-aquarist-american-fish-dlc.json) |
 | Aquarist: Japanese Garden | 298389 | [298389-aquarist-japanese-garden.json](./298389-aquarist-japanese-garden.json) |
 | Aquarist: My First Job | 170934 | [170934-aquarist-my-first-job.json](./170934-aquarist-my-first-job.json) |
 | Aquarium | 21400 | [21400-aquarium.json](./21400-aquarium.json) |
@@ -17086,6 +17089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Command Scramble Retro! | 208624 | [208624-astro-command-scramble-retro.json](./208624-astro-command-scramble-retro.json) |
 | Astro Dash | 156655 | [156655-astro-dash.json](./156655-astro-dash.json) |
 | Astro Defender | 364560 | [364560-astro-defender.json](./364560-astro-defender.json) |
+| Astro Delivery | 372380 | [372380-astro-delivery.json](./372380-astro-delivery.json) |
 | Astro Destroyers | 346131 | [346131-astro-destroyers.json](./346131-astro-destroyers.json) |
 | Astro Duel | 33856 | [33856-astro-duel.json](./33856-astro-duel.json) |
 | Astro Duel 2 | 217131 | [217131-astro-duel-2.json](./217131-astro-duel-2.json) |
