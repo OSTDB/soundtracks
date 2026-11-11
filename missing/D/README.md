@@ -4951,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Park 2 | 149730 | [149730-death-park-2.json](./149730-death-park-2.json) |
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
 | Death Park 2: Remaster | 375128 | [375128-death-park-2-remaster.json](./375128-death-park-2-remaster.json) |
+| Death Park: 4k Remaster | 343522 | [343522-death-park-4k-remaster.json](./343522-death-park-4k-remaster.json) |
 | Death Penalty | 401555 | [401555-death-penalty.json](./401555-death-penalty.json) |
 | Death Penalty Hero | 285008 | [285008-death-penalty-hero.json](./285008-death-penalty-hero.json) |
 | Death Penalty: Beginning | 26750 | [26750-death-penalty-beginning.json](./26750-death-penalty-beginning.json) |
@@ -6109,6 +6110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of the Wood | 249592 | [249592-defender-of-the-wood.json](./249592-defender-of-the-wood.json) |
 | Defender of Zorgaba | 67976 | [67976-defender-of-zorgaba.json](./67976-defender-of-zorgaba.json) |
 | Defender X | 275665 | [275665-defender-x.json](./275665-defender-x.json) |
+| Defender's Dynasty | 342970 | [342970-defenders-dynasty.json](./342970-defenders-dynasty.json) |
 | Defender's Quest 2: Mists of Ruin | 7889 | [7889-defenders-quest-2-mists-of-ruin.json](./7889-defenders-quest-2-mists-of-ruin.json) |
 | Defender's Quest: Valley of the Forgotten | 7888 | [7888-defenders-quest-valley-of-the-forgotten.json](./7888-defenders-quest-valley-of-the-forgotten.json) |
 | Defender's Squad: The Last Ride | 336834 | [336834-defenders-squad-the-last-ride.json](./336834-defenders-squad-the-last-ride.json) |
@@ -8303,6 +8305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Bot | 133121 | [133121-detective-bot.json](./133121-detective-bot.json) |
 | Detective Boto: Belle Memoir | 410934 | [410934-detective-boto-belle-memoir.json](./410934-detective-boto-belle-memoir.json) |
 | Detective Brand Golf | 425388 | [425388-detective-brand-golf.json](./425388-detective-brand-golf.json) |
+| Detective Bundle 4 in 1 | 343521 | [343521-detective-bundle-4-in-1.json](./343521-detective-bundle-4-in-1.json) |
 | Detective Bureau Simulator | 150015 | [150015-detective-bureau-simulator.json](./150015-detective-bureau-simulator.json) |
 | Detective Butler and the King of Hearts | 244238 | [244238-detective-butler-and-the-king-of-hearts.json](./244238-detective-butler-and-the-king-of-hearts.json) |
 | Detective Butler: Maiden Voyage Murder | 34660 | [34660-detective-butler-maiden-voyage-murder.json](./34660-detective-butler-maiden-voyage-murder.json) |
@@ -17678,6 +17681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Racer | 157399 | [157399-drift-racer.json](./157399-drift-racer.json) |
 | Drift racing car | 219759 | [219759-drift-racing-car.json](./219759-drift-racing-car.json) |
 | Drift Racing Madness | 147747 | [147747-drift-racing-madness.json](./147747-drift-racing-madness.json) |
+| Drift Racing Madness 2 | 343499 | [343499-drift-racing-madness-2.json](./343499-drift-racing-madness-2.json) |
 | Drift Racing Mania: Drift Game | 100378 | [100378-drift-racing-mania-drift-game.json](./100378-drift-racing-mania-drift-game.json) |
 | Drift Racing Rally | 149471 | [149471-drift-racing-rally.json](./149471-drift-racing-rally.json) |
 | Drift Reign | 245834 | [245834-drift-reign.json](./245834-drift-reign.json) |
