@@ -10249,6 +10249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The FMV Collection 4 | 289414 | [289414-the-fmv-collection-4.json](./289414-the-fmv-collection-4.json) |
 | The FMV Collection 5 | 331404 | [331404-the-fmv-collection-5.json](./331404-the-fmv-collection-5.json) |
 | The Fog | 305143 | [305143-the-fog.json](./305143-the-fog.json) |
+| The Fog | 336808 | [336808-the-fog.json](./336808-the-fog.json) |
 | The Fog | 391047 | [391047-the-fog.json](./391047-the-fog.json) |
 | The Fog | 54307 | [54307-the-fog.json](./54307-the-fog.json) |
 | The Fog Encounters | 351401 | [351401-the-fog-encounters.json](./351401-the-fog-encounters.json) |
@@ -12794,6 +12795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Game | 362294 | [362294-the-last-game.json](./362294-the-last-game.json) |
 | The Last Gas Station | 354933 | [354933-the-last-gas-station.json](./354933-the-last-gas-station.json) |
 | The Last General | 265279 | [265279-the-last-general.json](./265279-the-last-general.json) |
+| The Last Gift | 337328 | [337328-the-last-gift.json](./337328-the-last-gift.json) |
 | The Last Gift | 381102 | [381102-the-last-gift.json](./381102-the-last-gift.json) |
 | The Last Girl ~ Janna's diary of survive | 103658 | [103658-the-last-girl-jannas-diary-of-survive.json](./103658-the-last-girl-jannas-diary-of-survive.json) |
 | The Last Gladiator | 24502 | [24502-the-last-gladiator.json](./24502-the-last-gladiator.json) |
@@ -14570,6 +14572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Men of Yoshiwara: Ohgiya | 33398 | [33398-the-men-of-yoshiwara-ohgiya.json](./33398-the-men-of-yoshiwara-ohgiya.json) |
 | The Menacing | 156030 | [156030-the-menacing.json](./156030-the-menacing.json) |
 | The Mensional | 197112 | [197112-the-mensional.json](./197112-the-mensional.json) |
+| The Meowfficer | 337334 | [337334-the-meowfficer.json](./337334-the-meowfficer.json) |
 | The Meownth | 342354 | [342354-the-meownth.json](./342354-the-meownth.json) |
 | the Mercenary | 154297 | [154297-the-mercenary.json](./154297-the-mercenary.json) |
 | The Mercenary's Adventure | 388420 | [388420-the-mercenarys-adventure.json](./388420-the-mercenarys-adventure.json) |
@@ -21265,6 +21268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThirdMiracle | 197764 | [197764-thirdmiracle.json](./197764-thirdmiracle.json) |
 | ThirdPlace: Kon and Pon | 288621 | [288621-thirdplace-kon-and-pon.json](./288621-thirdplace-kon-and-pon.json) |
 | Thirst | 31836 | [31836-thirst.json](./31836-thirst.json) |
+| Thirst | 337315 | [337315-thirst.json](./337315-thirst.json) |
 | Thirst For Life | 111372 | [111372-thirst-for-life.json](./111372-thirst-for-life.json) |
 | Thirstchasm | 278566 | [278566-thirstchasm.json](./278566-thirstchasm.json) |
 | Thirsty | 310941 | [310941-thirsty.json](./310941-thirsty.json) |
