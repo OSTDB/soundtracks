@@ -3173,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayato's Journey | 310652 | [310652-hayatos-journey.json](./310652-hayatos-journey.json) |
 | Hayatsubasa | 376872 | [376872-hayatsubasa.json](./376872-hayatsubasa.json) |
 | Hayauchi Super Igo | 48329 | [48329-hayauchi-super-igo.json](./48329-hayauchi-super-igo.json) |
+| Hayazashi Nidan Morita Shogi 2 | 350107 | [350107-hayazashi-nidan-morita-shogi-2.json](./350107-hayazashi-nidan-morita-shogi-2.json) |
 | Haydee 2 | 141257 | [141257-haydee-2.json](./141257-haydee-2.json) |
 | Haydee 3 | 333073 | [333073-haydee-3.json](./333073-haydee-3.json) |
 | Hayden's Odyssey | 384286 | [384286-haydens-odyssey.json](./384286-haydens-odyssey.json) |
@@ -7068,6 +7069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexforger | 295866 | [295866-hexforger.json](./295866-hexforger.json) |
 | Hexgarden | 415118 | [415118-hexgarden.json](./415118-hexgarden.json) |
 | Hexguardian | 253372 | [253372-hexguardian.json](./253372-hexguardian.json) |
+| HexHorizon | 350079 | [350079-hexhorizon.json](./350079-hexhorizon.json) |
 | Hexia | 145436 | [145436-hexia.json](./145436-hexia.json) |
 | Hexia | 319023 | [319023-hexia.json](./319023-hexia.json) |
 | Hexic 2 | 21834 | [21834-hexic-2.json](./21834-hexic-2.json) |
