@@ -3666,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchain | 98307 | [98307-enchain.json](./98307-enchain.json) |
 | Enchancement | 337225 | [337225-enchancement.json](./337225-enchancement.json) |
 | Enchant Farm | 287329 | [287329-enchant-farm.json](./287329-enchant-farm.json) |
+| Enchant the East | 391392 | [391392-enchant-the-east.json](./391392-enchant-the-east.json) |
 | Enchant U | 133712 | [133712-enchant-u.json](./133712-enchant-u.json) |
 | Enchantasy: The Quest for the Eternal Grimoire | 356657 | [356657-enchantasy-the-quest-for-the-eternal-grimoire.json](./356657-enchantasy-the-quest-for-the-eternal-grimoire.json) |
 | Enchanted | 13641 | [13641-enchanted.json](./13641-enchanted.json) |
