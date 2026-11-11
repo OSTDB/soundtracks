@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacif Warriors 2 | 43538 | [43538-pacif-warriors-2.json](./43538-pacif-warriors-2.json) |
 | Pacific | 94135 | [94135-pacific.json](./94135-pacific.json) |
 | Pacific Battle | 195051 | [195051-pacific-battle.json](./195051-pacific-battle.json) |
+| Pacific Drive: Anomalous Customization Pack | 318169 | [318169-pacific-drive-anomalous-customization-pack.json](./318169-pacific-drive-anomalous-customization-pack.json) |
 | Pacific Drive: Deluxe Edition | 278208 | [278208-pacific-drive-deluxe-edition.json](./278208-pacific-drive-deluxe-edition.json) |
 | Pacific Drive: Friendly Dumpster Customization Pack | 314622 | [314622-pacific-drive-friendly-dumpster-customization-pack.json](./314622-pacific-drive-friendly-dumpster-customization-pack.json) |
 | Pacific Drive: Frosted Customization Pack | 333040 | [333040-pacific-drive-frosted-customization-pack.json](./333040-pacific-drive-frosted-customization-pack.json) |
@@ -19597,6 +19598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Kombat | 265855 | [265855-puzzle-kombat.json](./265855-puzzle-kombat.json) |
 | Puzzle Lab | 88118 | [88118-puzzle-lab.json](./88118-puzzle-lab.json) |
 | Puzzle Labyrinth | 58344 | [58344-puzzle-labyrinth.json](./58344-puzzle-labyrinth.json) |
+| Puzzle Land | 318878 | [318878-puzzle-land.json](./318878-puzzle-land.json) |
 | Puzzle League | 179406 | [179406-puzzle-league.json](./179406-puzzle-league.json) |
 | Puzzle League | 370388 | [370388-puzzle-league.json](./370388-puzzle-league.json) |
 | Puzzle League Express | 69405 | [69405-puzzle-league-express.json](./69405-puzzle-league-express.json) |
