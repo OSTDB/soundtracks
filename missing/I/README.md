@@ -355,6 +355,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Hate Scalpers | 426614 | [426614-i-hate-scalpers.json](./426614-i-hate-scalpers.json) |
 | I Hate Snake | 402243 | [402243-i-hate-snake.json](./402243-i-hate-snake.json) |
 | I hate this game | 114278 | [114278-i-hate-this-game.json](./114278-i-hate-this-game.json) |
+| I Hate This Game | 395928 | [395928-i-hate-this-game.json](./395928-i-hate-this-game.json) |
+| I Hate This Game More | 395929 | [395929-i-hate-this-game-more.json](./395929-i-hate-this-game-more.json) |
 | I Hate this Place | 336144 | [336144-i-hate-this-place.json](./336144-i-hate-this-place.json) |
 | I Hate This Place: Deluxe Edition | 401858 | [401858-i-hate-this-place-deluxe-edition.json](./401858-i-hate-this-place-deluxe-edition.json) |
 | I hate trains | 367184 | [367184-i-hate-trains.json](./367184-i-hate-trains.json) |
@@ -2331,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion | 286769 | [286769-illusion.json](./286769-illusion.json) |
 | Illusion | 81280 | [81280-illusion.json](./81280-illusion.json) |
 | Illusion | 99650 | [99650-illusion.json](./99650-illusion.json) |
+| Illusion Bowling | 395605 | [395605-illusion-bowling.json](./395605-illusion-bowling.json) |
 | Illusion Box | 317787 | [317787-illusion-box.json](./317787-illusion-box.json) |
 | Illusion Carnival | 290888 | [290888-illusion-carnival.json](./290888-illusion-carnival.json) |
 | Illusion City | 41710 | [41710-illusion-city.json](./41710-illusion-city.json) |
@@ -3188,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your Face | 48991 | [48991-in-your-face.json](./48991-in-your-face.json) |
 | In Your Flesh | 364596 | [364596-in-your-flesh.json](./364596-in-your-flesh.json) |
 | In your Shadow | 112622 | [112622-in-your-shadow.json](./112622-in-your-shadow.json) |
+| In Your Veins | 395599 | [395599-in-your-veins.json](./395599-in-your-veins.json) |
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
 | In Your Youth | 250453 | [250453-in-your-youth.json](./250453-in-your-youth.json) |
 | In-Contro | 267165 | [267165-in-contro.json](./267165-in-contro.json) |
@@ -6353,6 +6357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irony Curtain: From Matryoshka with Love | 106108 | [106108-irony-curtain-from-matryoshka-with-love.json](./106108-irony-curtain-from-matryoshka-with-love.json) |
 | Irony Curtain: From Matryoshka with Love - Revolutionary Edition | 124830 | [124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json](./124830-irony-curtain-from-matryoshka-with-love-revolutionary-edition.json) |
 | Irony of Nightmare | 76540 | [76540-irony-of-nightmare.json](./76540-irony-of-nightmare.json) |
+| Irooni: Color Tag | 395324 | [395324-irooni-color-tag.json](./395324-irooni-color-tag.json) |
 | Irori | 184067 | [184067-irori.json](./184067-irori.json) |
 | Iros | 270410 | [270410-iros.json](./270410-iros.json) |
 | iRosePH Online | 178147 | [178147-iroseph-online.json](./178147-iroseph-online.json) |
