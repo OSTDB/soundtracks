@@ -555,6 +555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda: Interconnected Strongholds | 249397 | [249397-zelda-interconnected-strongholds.json](./249397-zelda-interconnected-strongholds.json) |
 | Zelda: Meadow of Shadows | 248290 | [248290-zelda-meadow-of-shadows.json](./248290-zelda-meadow-of-shadows.json) |
 | Zelda: Sacred Paradox | 269916 | [269916-zelda-sacred-paradox.json](./269916-zelda-sacred-paradox.json) |
+| Zelda: The Legend of Link | 341766 | [341766-zelda-the-legend-of-link.json](./341766-zelda-the-legend-of-link.json) |
 | Zelda: The Wand of Gamelon | 8533 | [8533-zelda-the-wand-of-gamelon.json](./8533-zelda-the-wand-of-gamelon.json) |
 | Zelda's Adventure | 248106 | [248106-zeldas-adventure.json](./248106-zeldas-adventure.json) |
 | Zelda's Adventure | 8534 | [8534-zeldas-adventure.json](./8534-zeldas-adventure.json) |
