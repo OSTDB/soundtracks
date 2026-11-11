@@ -10788,6 +10788,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clear Vision 2 HD | 388410 | [388410-clear-vision-2-hd.json](./388410-clear-vision-2-hd.json) |
 | Clear Vision 3 | 343968 | [343968-clear-vision-3.json](./343968-clear-vision-3.json) |
 | Clear Vision 4 | 174814 | [174814-clear-vision-4.json](./174814-clear-vision-4.json) |
+| Clear Vision 4 | 388411 | [388411-clear-vision-4.json](./388411-clear-vision-4.json) |
+| Clear Vision 5 | 388412 | [388412-clear-vision-5.json](./388412-clear-vision-5.json) |
 | Clear Vision Elite | 272793 | [272793-clear-vision-elite.json](./272793-clear-vision-elite.json) |
 | Clear Vision Online | 90297 | [90297-clear-vision-online.json](./90297-clear-vision-online.json) |
 | Clear: Atarashii Kaze no Fuku Oka de | 133909 | [133909-clear-atarashii-kaze-no-fuku-oka-de.json](./133909-clear-atarashii-kaze-no-fuku-oka-de.json) |
@@ -14611,8 +14613,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: Bokosuka Wars | 408387 | [408387-console-archives-bokosuka-wars.json](./408387-console-archives-bokosuka-wars.json) |
 | Console Archives: Bubble Bobble | 415224 | [415224-console-archives-bubble-bobble.json](./415224-console-archives-bubble-bobble.json) |
 | Console Archives: Chack’n Pop | 422202 | [422202-console-archives-chack-n-pop.json](./422202-console-archives-chack-n-pop.json) |
+| Console Archives: Cool Boarders | 388446 | [388446-console-archives-cool-boarders.json](./388446-console-archives-cool-boarders.json) |
 | Console Archives: Crazy Climber | 418714 | [418714-console-archives-crazy-climber.json](./418714-console-archives-crazy-climber.json) |
 | Console Archives: Dezaemon | 391963 | [391963-console-archives-dezaemon.json](./391963-console-archives-dezaemon.json) |
+| Console Archives: Doraemon | 388444 | [388444-console-archives-doraemon.json](./388444-console-archives-doraemon.json) |
 | Console Archives: Geki-Oh ShienRyu | 403301 | [403301-console-archives-geki-oh-shienryu.json](./403301-console-archives-geki-oh-shienryu.json) |
 | Console Archives: Hercules no Eikou II - Taitan no Metsubou | 410364 | [410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json](./410364-console-archives-hercules-no-eikou-ii-taitan-no-metsubou.json) |
 | Console Archives: Ishin no Arashi | 398773 | [398773-console-archives-ishin-no-arashi.json](./398773-console-archives-ishin-no-arashi.json) |
@@ -14620,12 +14624,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Console Archives: L'Empereur | 405808 | [405808-console-archives-lempereur.json](./405808-console-archives-lempereur.json) |
 | Console Archives: Marl Jong | 427247 | [427247-console-archives-marl-jong.json](./427247-console-archives-marl-jong.json) |
 | Console Archives: Master of Monsters - Disciples of Gaia | 401691 | [401691-console-archives-master-of-monsters-disciples-of-gaia.json](./401691-console-archives-master-of-monsters-disciples-of-gaia.json) |
+| Console Archives: Ninja Gaiden II - The Dark Sword of Chaos | 388447 | [388447-console-archives-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./388447-console-archives-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Console Archives: Ninja Gaiden III - The Ancient Ship of Doom | 399298 | [399298-console-archives-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./399298-console-archives-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
 | Console Archives: Ninja-Kid II | 395248 | [395248-console-archives-ninja-kid-ii.json](./395248-console-archives-ninja-kid-ii.json) |
 | Console Archives: Nobunaga's Ambition | 394383 | [394383-console-archives-nobunagas-ambition.json](./394383-console-archives-nobunagas-ambition.json) |
 | Console Archives: Rhapsody - A Musical Adventure | 409617 | [409617-console-archives-rhapsody-a-musical-adventure.json](./409617-console-archives-rhapsody-a-musical-adventure.json) |
 | Console Archives: Rhapsody II - Ballad of the Little Princess | 415220 | [415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json](./415220-console-archives-rhapsody-ii-ballad-of-the-little-princess.json) |
 | Console Archives: Rohga - Armor Force | 400163 | [400163-console-archives-rohga-armor-force.json](./400163-console-archives-rohga-armor-force.json) |
+| Console Archives: Sonic Wings Special | 388445 | [388445-console-archives-sonic-wings-special.json](./388445-console-archives-sonic-wings-special.json) |
 | Console Archives: T.R.A.G. - Tactical Rescue Assault Group: Mission of Mercy | 408738 | [408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json](./408738-console-archives-t-r-a-g-tactical-rescue-assault-group-mission-of-mercy.json) |
 | Console Archives: The Conveni | 411151 | [411151-console-archives-the-conveni.json](./411151-console-archives-the-conveni.json) |
 | Console Archives: The Conveni 2 | 416244 | [416244-console-archives-the-conveni-2.json](./416244-console-archives-the-conveni-2.json) |
@@ -20681,6 +20687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culdcept | 138069 | [138069-culdcept.json](./138069-culdcept.json) |
 | Culdcept | 22100 | [22100-culdcept.json](./22100-culdcept.json) |
 | Culdcept | 78415 | [78415-culdcept.json](./78415-culdcept.json) |
+| Culdcept Begins | 388451 | [388451-culdcept-begins.json](./388451-culdcept-begins.json) |
 | Culdcept DS | 124004 | [124004-culdcept-ds.json](./124004-culdcept-ds.json) |
 | Culdcept Expansion | 361753 | [361753-culdcept-expansion.json](./361753-culdcept-expansion.json) |
 | Culdcept Expansion Plus | 45039 | [45039-culdcept-expansion-plus.json](./45039-culdcept-expansion-plus.json) |
@@ -20688,6 +20695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culdcept Revolt | 27258 | [27258-culdcept-revolt.json](./27258-culdcept-revolt.json) |
 | Culdcept Saga | 6949 | [6949-culdcept-saga.json](./6949-culdcept-saga.json) |
 | Culdcept Saga Title Update Version | 268850 | [268850-culdcept-saga-title-update-version.json](./268850-culdcept-saga-title-update-version.json) |
+| Culdcept The First Saturn Tribute | 388463 | [388463-culdcept-the-first-saturn-tribute.json](./388463-culdcept-the-first-saturn-tribute.json) |
 | Culina: Hands in the Kitchen | 35567 | [35567-culina-hands-in-the-kitchen.json](./35567-culina-hands-in-the-kitchen.json) |
 | Culinarium | 322168 | [322168-culinarium.json](./322168-culinarium.json) |
 | Culinary Construct | 397217 | [397217-culinary-construct.json](./397217-culinary-construct.json) |
