@@ -7993,6 +7993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Titan | 102035 | [102035-shards-of-titan.json](./102035-shards-of-titan.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Shards Online | 57990 | [57990-shards-online.json](./57990-shards-online.json) |
+| Shards Reunited: Kintsugi | 341746 | [341746-shards-reunited-kintsugi.json](./341746-shards-reunited-kintsugi.json) |
 | Shards the Deckbuilder | 97413 | [97413-shards-the-deckbuilder.json](./97413-shards-the-deckbuilder.json) |
 | Shardwatch Dominion | 425386 | [425386-shardwatch-dominion.json](./425386-shardwatch-dominion.json) |
 | Share | 33417 | [33417-share.json](./33417-share.json) |
@@ -15460,6 +15461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SMBX: Level Contest Japan | 359515 | [359515-smbx-level-contest-japan.json](./359515-smbx-level-contest-japan.json) |
 | SMBX2 Demo Stages | 328243 | [328243-smbx2-demo-stages.json](./328243-smbx2-demo-stages.json) |
 | Smeesa Street | 239641 | [239641-smeesa-street.json](./239641-smeesa-street.json) |
+| Smell Like a Puddle | 341747 | [341747-smell-like-a-puddle.json](./341747-smell-like-a-puddle.json) |
 | Smell of Death | 33470 | [33470-smell-of-death.json](./33470-smell-of-death.json) |
 | Smells Like a Mushroom | 240795 | [240795-smells-like-a-mushroom.json](./240795-smells-like-a-mushroom.json) |
 | Smells Like A Mushroom: 100% Vegan Edition | 323892 | [323892-smells-like-a-mushroom-100-vegan-edition.json](./323892-smells-like-a-mushroom-100-vegan-edition.json) |
@@ -18920,6 +18922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast | 280211 | [280211-sonic-robo-blast.json](./280211-sonic-robo-blast.json) |
 | Sonic Robo Blast 2 | 280214 | [280214-sonic-robo-blast-2.json](./280214-sonic-robo-blast-2.json) |
 | Sonic Robo Blast 2 | 280215 | [280215-sonic-robo-blast-2.json](./280215-sonic-robo-blast-2.json) |
+| Sonic Robo Blast 2 | 341762 | [341762-sonic-robo-blast-2.json](./341762-sonic-robo-blast-2.json) |
 | Sonic Robo Blast 2 | 95508 | [95508-sonic-robo-blast-2.json](./95508-sonic-robo-blast-2.json) |
 | Sonic Robo Blast 2 Kart | 121436 | [121436-sonic-robo-blast-2-kart.json](./121436-sonic-robo-blast-2-kart.json) |
 | Sonic Robo Blast 2: Adventure Sonic | 241383 | [241383-sonic-robo-blast-2-adventure-sonic.json](./241383-sonic-robo-blast-2-adventure-sonic.json) |
@@ -21143,6 +21146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Memory: Horses | 350343 | [350343-space-memory-horses.json](./350343-space-memory-horses.json) |
 | Space Memory: Monsters | 366096 | [366096-space-memory-monsters.json](./366096-space-memory-monsters.json) |
 | Space Memory: Mushrooms | 363565 | [363565-space-memory-mushrooms.json](./363565-space-memory-mushrooms.json) |
+| Space Memory: Parrots | 341752 | [341752-space-memory-parrots.json](./341752-space-memory-parrots.json) |
 | Space Memory: Predators | 358897 | [358897-space-memory-predators.json](./358897-space-memory-predators.json) |
 | Space Memory: Rodents | 381173 | [381173-space-memory-rodents.json](./381173-space-memory-rodents.json) |
 | Space Menace | 202544 | [202544-space-menace.json](./202544-space-menace.json) |
@@ -23740,6 +23744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Fighters | 64614 | [64614-splash-fighters.json](./64614-splash-fighters.json) |
 | Splash Fly Fire | 220838 | [220838-splash-fly-fire.json](./220838-splash-fly-fire.json) |
 | Splash Girls | 167817 | [167817-splash-girls.json](./167817-splash-girls.json) |
+| Splash Girls | 341780 | [341780-splash-girls.json](./341780-splash-girls.json) |
 | Splash Jump | 159713 | [159713-splash-jump.json](./159713-splash-jump.json) |
 | Splash Jumper | 220837 | [220837-splash-jumper.json](./220837-splash-jumper.json) |
 | Splash King's Tournament | 161520 | [161520-splash-kings-tournament.json](./161520-splash-kings-tournament.json) |
@@ -24735,6 +24740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spyrit Walker | 304872 | [304872-spyrit-walker.json](./304872-spyrit-walker.json) |
 | Spyro | 318141 | [318141-spyro.json](./318141-spyro.json) |
 | Spyro + Crash Remastered Game Bundle | 111449 | [111449-spyro-crash-remastered-game-bundle.json](./111449-spyro-crash-remastered-game-bundle.json) |
+| Spyro 2: Challenge Playthrough Mod | 341763 | [341763-spyro-2-challenge-playthrough-mod.json](./341763-spyro-2-challenge-playthrough-mod.json) |
 | Spyro 2: Ripto's Rage! | 142242 | [142242-spyro-2-riptos-rage.json](./142242-spyro-2-riptos-rage.json) |
 | Spyro 2: Ripto's Rage! | 1577 | [1577-spyro-2-riptos-rage.json](./1577-spyro-2-riptos-rage.json) |
 | Spyro 2: Ripto's Rage! - Collector's Edition | 43685 | [43685-spyro-2-riptos-rage-collectors-edition.json](./43685-spyro-2-riptos-rage-collectors-edition.json) |
@@ -30084,6 +30090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter X Tekken: Yoshimitsu (Swap Costume) | 388547 | [388547-street-fighter-x-tekken-yoshimitsu-swap-costume.json](./388547-street-fighter-x-tekken-yoshimitsu-swap-costume.json) |
 | Street Fighter X Tekken: Zangief (Swap Costume) | 388829 | [388829-street-fighter-x-tekken-zangief-swap-costume.json](./388829-street-fighter-x-tekken-zangief-swap-costume.json) |
 | Street Fighter Zero 3 | 242649 | [242649-street-fighter-zero-3.json](./242649-street-fighter-zero-3.json) |
+| Street Fighter Zero 3 Mix | 341741 | [341741-street-fighter-zero-3-mix.json](./341741-street-fighter-zero-3-mix.json) |
 | Street Fighter Zero 3 Upper | 22221 | [22221-street-fighter-zero-3-upper.json](./22221-street-fighter-zero-3-upper.json) |
 | Street Fighter: Duel | 142490 | [142490-street-fighter-duel.json](./142490-street-fighter-duel.json) |
 | Street Fighter: Puzzle Spirits | 60889 | [60889-street-fighter-puzzle-spirits.json](./60889-street-fighter-puzzle-spirits.json) |
@@ -32340,6 +32347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrose.p8 | 179488 | [179488-sunrose-p8.json](./179488-sunrose-p8.json) |
 | Suns of Wiraqocha | 270886 | [270886-suns-of-wiraqocha.json](./270886-suns-of-wiraqocha.json) |
 | Sunsave | 390591 | [390591-sunsave.json](./390591-sunsave.json) |
+| Sunseed Island | 341778 | [341778-sunseed-island.json](./341778-sunseed-island.json) |
 | SunSenSim | 156124 | [156124-sunsensim.json](./156124-sunsensim.json) |
 | Sunset | 195533 | [195533-sunset.json](./195533-sunset.json) |
 | Sunset | 202030 | [202030-sunset.json](./202030-sunset.json) |
@@ -33186,6 +33194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fowlst | 111314 | [111314-super-fowlst.json](./111314-super-fowlst.json) |
 | Super Fowlst 2 | 147611 | [147611-super-fowlst-2.json](./147611-super-fowlst-2.json) |
 | Super Fox | 146575 | [146575-super-fox.json](./146575-super-fox.json) |
+| Super Fox | 341735 | [341735-super-fox.json](./341735-super-fox.json) |
 | Super Fox 2 | 146920 | [146920-super-fox-2.json](./146920-super-fox-2.json) |
 | Super Freaks 1 Remastered | 266873 | [266873-super-freaks-1-remastered.json](./266873-super-freaks-1-remastered.json) |
 | Super Freaks 1: Ultimate Edition | 268057 | [268057-super-freaks-1-ultimate-edition.json](./268057-super-freaks-1-ultimate-edition.json) |
@@ -34258,6 +34267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World U | 336106 | [336106-super-mario-world-u.json](./336106-super-mario-world-u.json) |
 | Super Mario World Widescreen | 165069 | [165069-super-mario-world-widescreen.json](./165069-super-mario-world-widescreen.json) |
 | Super Mario World: 2025 | 365286 | [365286-super-mario-world-2025.json](./365286-super-mario-world-2025.json) |
+| Super Mario World: 30th Anniversary Edition | 341737 | [341737-super-mario-world-30th-anniversary-edition.json](./341737-super-mario-world-30th-anniversary-edition.json) |
 | Super Mario World: A Haunted Christmas | 223023 | [223023-super-mario-world-a-haunted-christmas.json](./223023-super-mario-world-a-haunted-christmas.json) |
 | Super Mario World: A Super Mario Adventure | 268102 | [268102-super-mario-world-a-super-mario-adventure.json](./268102-super-mario-world-a-super-mario-adventure.json) |
 | Super Mario World: A Super Mario Adventure 2 | 277107 | [277107-super-mario-world-a-super-mario-adventure-2.json](./277107-super-mario-world-a-super-mario-adventure-2.json) |
