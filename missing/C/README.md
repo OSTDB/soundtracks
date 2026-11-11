@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Crew Simulator | 374565 | [374565-cafe-crew-simulator.json](./374565-cafe-crew-simulator.json) |
 | Cafe Crush | 119723 | [119723-cafe-crush.json](./119723-cafe-crush.json) |
 | Cafe Cuillere | 141888 | [141888-cafe-cuillere.json](./141888-cafe-cuillere.json) |
+| Cafe Dash: Cooking, Diner Game | 338461 | [338461-cafe-dash-cooking-diner-game.json](./338461-cafe-dash-cooking-diner-game.json) |
 | Cafe Deux Femmes | 139210 | [139210-cafe-deux-femmes.json](./139210-cafe-deux-femmes.json) |
 | Cafe Dreamland | 333109 | [333109-cafe-dreamland.json](./333109-cafe-dreamland.json) |
 | Cafe Ehaburu: White Version | 108175 | [108175-cafe-ehaburu-white-version.json](./108175-cafe-ehaburu-white-version.json) |
@@ -330,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe in the Clouds | 175923 | [175923-cafe-in-the-clouds.json](./175923-cafe-in-the-clouds.json) |
 | Café International | 113281 | [113281-cafe-international.json](./113281-cafe-international.json) |
 | Cafe Junkie | 59174 | [59174-cafe-junkie.json](./59174-cafe-junkie.json) |
+| Café Keeper | 338462 | [338462-cafe-keeper.json](./338462-cafe-keeper.json) |
 | Cafe Lindbergh: Summer Season | 269392 | [269392-cafe-lindbergh-summer-season.json](./269392-cafe-lindbergh-summer-season.json) |
 | Cafe Little Wish: Mahou no Recipe | 269393 | [269393-cafe-little-wish-mahou-no-recipe.json](./269393-cafe-little-wish-mahou-no-recipe.json) |
 | Cafe ma Cherie: Otome of Ikemen Cafe | 254947 | [254947-cafe-ma-cherie-otome-of-ikemen-cafe.json](./254947-cafe-ma-cherie-otome-of-ikemen-cafe.json) |
@@ -10765,6 +10767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claybook | 28730 | [28730-claybook.json](./28730-claybook.json) |
 | Clayborn Idle | 382301 | [382301-clayborn-idle.json](./382301-clayborn-idle.json) |
 | Claybreaker: VR Clay Shooting | 41920 | [41920-claybreaker-vr-clay-shooting.json](./41920-claybreaker-vr-clay-shooting.json) |
+| Claycrafter | 337902 | [337902-claycrafter.json](./337902-claycrafter.json) |
 | Clayers | 348326 | [348326-clayers.json](./348326-clayers.json) |
 | ClayFighter 2: Judgment Clay | 73298 | [73298-clayfighter-2-judgment-clay.json](./73298-clayfighter-2-judgment-clay.json) |
 | ClayFighter 63 1/3 | 44043 | [44043-clayfighter-63-1-3.json](./44043-clayfighter-63-1-3.json) |
@@ -20266,6 +20269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSR Classics | 58238 | [58238-csr-classics.json](./58238-csr-classics.json) |
 | CSR Racing | 63899 | [63899-csr-racing.json](./63899-csr-racing.json) |
 | CSR Racing 2 | 55169 | [55169-csr-racing-2.json](./55169-csr-racing-2.json) |
+| CSS Clicker | 337904 | [337904-css-clicker.json](./337904-css-clicker.json) |
 | CSS Room Escape | 252121 | [252121-css-room-escape.json](./252121-css-room-escape.json) |
 | CSS Traffic Regulation | 364351 | [364351-css-traffic-regulation.json](./364351-css-traffic-regulation.json) |
 | CT Football Manager | 180474 | [180474-ct-football-manager.json](./180474-ct-football-manager.json) |
