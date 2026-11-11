@@ -8228,6 +8228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Rider DX3: Time Rider | 222357 | [222357-bike-rider-dx3-time-rider.json](./222357-bike-rider-dx3-time-rider.json) |
 | Bike Rider VR | 118508 | [118508-bike-rider-vr.json](./118508-bike-rider-vr.json) |
 | Bike Rivals | 256188 | [256188-bike-rivals.json](./256188-bike-rivals.json) |
+| Bike Runner | 370592 | [370592-bike-runner.json](./370592-bike-runner.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bike Rush | 73170 | [73170-bike-rush.json](./73170-bike-rush.json) |
 | Bike Stunt Master | 105960 | [105960-bike-stunt-master.json](./105960-bike-stunt-master.json) |
@@ -11610,6 +11611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Code: Costume Pack | 155374 | [155374-blood-code-costume-pack.json](./155374-blood-code-costume-pack.json) |
 | Blood Country | 348554 | [348554-blood-country.json](./348554-blood-country.json) |
 | Blood Crossroad | 291189 | [291189-blood-crossroad.json](./291189-blood-crossroad.json) |
+| Blood Crucible | 370405 | [370405-blood-crucible.json](./370405-blood-crucible.json) |
 | Blood Cube | 185549 | [185549-blood-cube.json](./185549-blood-cube.json) |
 | Blood Curse Legions | 334552 | [334552-blood-curse-legions.json](./334552-blood-curse-legions.json) |
 | Blood Day | 112469 | [112469-blood-day.json](./112469-blood-day.json) |
@@ -18330,6 +18332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Mark | 171851 | [171851-bullet-mark.json](./171851-bullet-mark.json) |
 | Bullet Master | 297676 | [297676-bullet-master.json](./297676-bullet-master.json) |
 | Bullet Noir | 317536 | [317536-bullet-noir.json](./317536-bullet-noir.json) |
+| Bullet of Armor | 370589 | [370589-bullet-of-armor.json](./370589-bullet-of-armor.json) |
 | Bullet Ouroboros | 391646 | [391646-bullet-ouroboros.json](./391646-bullet-ouroboros.json) |
 | Bullet Party | 43075 | [43075-bullet-party.json](./43075-bullet-party.json) |
 | Bullet Party 2 | 174999 | [174999-bullet-party-2.json](./174999-bullet-party-2.json) |
