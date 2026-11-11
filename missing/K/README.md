@@ -5767,6 +5767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Donggeom-do | 342423 | [342423-korean-drone-flying-tour-donggeom-do.json](./342423-korean-drone-flying-tour-donggeom-do.json) |
 | Korean Drone Flying Tour Dongmak Beach | 342422 | [342422-korean-drone-flying-tour-dongmak-beach.json](./342422-korean-drone-flying-tour-dongmak-beach.json) |
 | Korean Drone Flying Tour East River | 332357 | [332357-korean-drone-flying-tour-east-river.json](./332357-korean-drone-flying-tour-east-river.json) |
+| Korean Drone Flying Tour Ganghwa-do | 334991 | [334991-korean-drone-flying-tour-ganghwa-do.json](./334991-korean-drone-flying-tour-ganghwa-do.json) |
 | Korean Drone Flying Tour Gangneung City | 330608 | [330608-korean-drone-flying-tour-gangneung-city.json](./330608-korean-drone-flying-tour-gangneung-city.json) |
 | Korean Drone Flying Tour Gapyeong-gun | 342421 | [342421-korean-drone-flying-tour-gapyeong-gun.json](./342421-korean-drone-flying-tour-gapyeong-gun.json) |
 | Korean Drone Flying Tour Garorim Bay | 342322 | [342322-korean-drone-flying-tour-garorim-bay.json](./342322-korean-drone-flying-tour-garorim-bay.json) |
@@ -5780,6 +5781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Korean Drone Flying Tour Icheon-si | 349587 | [349587-korean-drone-flying-tour-icheon-si.json](./349587-korean-drone-flying-tour-icheon-si.json) |
 | Korean Drone Flying Tour Ilsan Lake Park | 342420 | [342420-korean-drone-flying-tour-ilsan-lake-park.json](./342420-korean-drone-flying-tour-ilsan-lake-park.json) |
 | Korean Drone Flying Tour Jangbong-do | 343541 | [343541-korean-drone-flying-tour-jangbong-do.json](./343541-korean-drone-flying-tour-jangbong-do.json) |
+| Korean Drone Flying Tour Jebu-do | 334992 | [334992-korean-drone-flying-tour-jebu-do.json](./334992-korean-drone-flying-tour-jebu-do.json) |
 | Korean Drone Flying Tour Jeju Island-1 | 314872 | [314872-korean-drone-flying-tour-jeju-island-1.json](./314872-korean-drone-flying-tour-jeju-island-1.json) |
 | Korean Drone Flying Tour Jeju Island-2 | 317226 | [317226-korean-drone-flying-tour-jeju-island-2.json](./317226-korean-drone-flying-tour-jeju-island-2.json) |
 | Korean Drone Flying Tour Jinchon Beach | 343542 | [343542-korean-drone-flying-tour-jinchon-beach.json](./343542-korean-drone-flying-tour-jinchon-beach.json) |
