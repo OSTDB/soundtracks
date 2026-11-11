@@ -1594,6 +1594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamedle | 204658 | [204658-gamedle.json](./204658-gamedle.json) |
 | Gamedle | 401685 | [401685-gamedle.json](./401685-gamedle.json) |
 | Gamedog | 292842 | [292842-gamedog.json](./292842-gamedog.json) |
+| GameFactory AI | 359651 | [359651-gamefactory-ai.json](./359651-gamefactory-ai.json) |
 | Gamefest Puzzle Classic | 209592 | [209592-gamefest-puzzle-classic.json](./209592-gamefest-puzzle-classic.json) |
 | GameFutebol | 250211 | [250211-gamefutebol.json](./250211-gamefutebol.json) |
 | GameGuessr | 395332 | [395332-gameguessr.json](./395332-gameguessr.json) |
@@ -3499,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Defense: Infinite | 103821 | [103821-geometry-defense-infinite.json](./103821-geometry-defense-infinite.json) |
 | Geometry Dodge Pro | 86908 | [86908-geometry-dodge-pro.json](./86908-geometry-dodge-pro.json) |
 | Geometry Duel | 77709 | [77709-geometry-duel.json](./77709-geometry-duel.json) |
+| Geometry Factory | 359650 | [359650-geometry-factory.json](./359650-geometry-factory.json) |
 | Geometry Genius: Shapes | 329333 | [329333-geometry-genius-shapes.json](./329333-geometry-genius-shapes.json) |
 | Geometry Hero | 126612 | [126612-geometry-hero.json](./126612-geometry-hero.json) |
 | Geometry League | 238986 | [238986-geometry-league.json](./238986-geometry-league.json) |
