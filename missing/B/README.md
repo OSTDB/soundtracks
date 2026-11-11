@@ -8114,6 +8114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Thanks Super Keirin | 55898 | [55898-big-thanks-super-keirin.json](./55898-big-thanks-super-keirin.json) |
 | Big the Cat in Sonic the Hedgehog | 201296 | [201296-big-the-cat-in-sonic-the-hedgehog.json](./201296-big-the-cat-in-sonic-the-hedgehog.json) |
 | Big Theft Valkeala | 351638 | [351638-big-theft-valkeala.json](./351638-big-theft-valkeala.json) |
+| Big Theft Valkeala 2: San Piritori | 363074 | [363074-big-theft-valkeala-2-san-piritori.json](./363074-big-theft-valkeala-2-san-piritori.json) |
 | Big Theft Valkeala 3: Revenge | 395786 | [395786-big-theft-valkeala-3-revenge.json](./395786-big-theft-valkeala-3-revenge.json) |
 | Big Thinkers 1st Grade | 35061 | [35061-big-thinkers-1st-grade.json](./35061-big-thinkers-1st-grade.json) |
 | Big Thinkers Kindergarten | 35060 | [35060-big-thinkers-kindergarten.json](./35060-big-thinkers-kindergarten.json) |
@@ -14106,6 +14107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booster Pack Heroes | 400386 | [400386-booster-pack-heroes.json](./400386-booster-pack-heroes.json) |
 | Booster Racers | 303105 | [303105-booster-racers.json](./303105-booster-racers.json) |
 | Booster Trooper | 14948 | [14948-booster-trooper.json](./14948-booster-trooper.json) |
+| Boostrush | 363094 | [363094-boostrush.json](./363094-boostrush.json) |
 | Boosty Bot | 24473 | [24473-boosty-bot.json](./24473-boosty-bot.json) |
 | Boot : Game Dev Sim | 129034 | [129034-boot-game-dev-sim.json](./129034-boot-game-dev-sim.json) |
 | Boot & Shoot | 202066 | [202066-boot-and-shoot.json](./202066-boot-and-shoot.json) |
