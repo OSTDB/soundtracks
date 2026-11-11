@@ -159,8 +159,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obama Alien Defence | 282109 | [282109-obama-alien-defence.json](./282109-obama-alien-defence.json) |
 | Obama Alien Defense | 326739 | [326739-obama-alien-defense.json](./326739-obama-alien-defense.json) |
 | Obama Boss Fight: Bad Trip | 252464 | [252464-obama-boss-fight-bad-trip.json](./252464-obama-boss-fight-bad-trip.json) |
+| Obama Burger Stand | 325796 | [325796-obama-burger-stand.json](./325796-obama-burger-stand.json) |
 | Obama in the Dark | 320263 | [320263-obama-in-the-dark.json](./320263-obama-in-the-dark.json) |
+| Obama Kiss | 325798 | [325798-obama-kiss.json](./325798-obama-kiss.json) |
 | Obama Maze | 188759 | [188759-obama-maze.json](./188759-obama-maze.json) |
+| Obama Narnia: El Retorno de la Bruja | 325795 | [325795-obama-narnia-el-retorno-de-la-bruja.json](./325795-obama-narnia-el-retorno-de-la-bruja.json) |
 | Obandia | 124626 | [124626-obandia.json](./124626-obandia.json) |
 | Obara no Kiritsu: UAV Practical Simulator | 355206 | [355206-obara-no-kiritsu-uav-practical-simulator.json](./355206-obara-no-kiritsu-uav-practical-simulator.json) |
 | Obby | 260005 | [260005-obby.json](./260005-obby.json) |
@@ -911,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of the Red, the Light, and the Ayakashi Tsuzuri | 62190 | [62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json](./62190-of-the-red-the-light-and-the-ayakashi-tsuzuri.json) |
 | Of Them That Have a Name | 243457 | [243457-of-them-that-have-a-name.json](./243457-of-them-that-have-a-name.json) |
 | Of Three Plantagenets | 271848 | [271848-of-three-plantagenets.json](./271848-of-three-plantagenets.json) |
+| OFC: Ultimate Fighting Club | 325782 | [325782-ofc-ultimate-fighting-club.json](./325782-ofc-ultimate-fighting-club.json) |
 | Off | 24930 | [24930-off.json](./24930-off.json) |
 | Off | 326638 | [326638-off.json](./326638-off.json) |
 | Off and Pacing | 112147 | [112147-off-and-pacing.json](./112147-off-and-pacing.json) |
@@ -3918,6 +3922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus Castle: Chapter V | 357192 | [357192-opus-castle-chapter-v.json](./357192-opus-castle-chapter-v.json) |
 | Opus Castle: Chapter VI | 357194 | [357194-opus-castle-chapter-vi.json](./357194-opus-castle-chapter-vi.json) |
 | Opus Collection: The Day We Found Earth + Rocket of Whispers | 111912 | [111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json](./111912-opus-collection-the-day-we-found-earth-rocket-of-whispers.json) |
+| Opus Cortex | 325763 | [325763-opus-cortex.json](./325763-opus-cortex.json) |
 | Opus Ludum | 169379 | [169379-opus-ludum.json](./169379-opus-ludum.json) |
 | Opus Magnum: De Re Metallica | 391819 | [391819-opus-magnum-de-re-metallica.json](./391819-opus-magnum-de-re-metallica.json) |
 | Opus Torrentia | 386468 | [386468-opus-torrentia.json](./386468-opus-torrentia.json) |
