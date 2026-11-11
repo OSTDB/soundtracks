@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last $50 | 400954 | [400954-last-50.json](./400954-last-50.json) |
 | Last 22 | 340896 | [340896-last-22.json](./340896-last-22.json) |
 | Last 4 Alive: Escape From Zombies | 186953 | [186953-last-4-alive-escape-from-zombies.json](./186953-last-4-alive-escape-from-zombies.json) |
+| Last 4 Days | 394246 | [394246-last-4-days.json](./394246-last-4-days.json) |
 | Last 4 Survive: The Outbreak | 287158 | [287158-last-4-survive-the-outbreak.json](./287158-last-4-survive-the-outbreak.json) |
 | Last Action Hero | 16139 | [16139-last-action-hero.json](./16139-last-action-hero.json) |
 | Last Action Hero | 262153 | [262153-last-action-hero.json](./262153-last-action-hero.json) |
@@ -6279,6 +6280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Ghosthunter | 249889 | [249889-little-ghosthunter.json](./249889-little-ghosthunter.json) |
 | Little Ghosties | 405158 | [405158-little-ghosties.json](./405158-little-ghosties.json) |
 | Little Girl in Underland | 323733 | [323733-little-girl-in-underland.json](./323733-little-girl-in-underland.json) |
+| Little Girl On Earth Asking Why She Asking Why | 393705 | [393705-little-girl-on-earth-asking-why-she-asking-why.json](./393705-little-girl-on-earth-asking-why-she-asking-why.json) |
 | Little Gods | 244259 | [244259-little-gods.json](./244259-little-gods.json) |
 | Little Gods of the Abyss | 169434 | [169434-little-gods-of-the-abyss.json](./169434-little-gods-of-the-abyss.json) |
 | Little Gold Miner | 88139 | [88139-little-gold-miner.json](./88139-little-gold-miner.json) |
@@ -8390,6 +8392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Assassin | 157574 | [157574-lost-assassin.json](./157574-lost-assassin.json) |
 | Lost Astronaut | 156959 | [156959-lost-astronaut.json](./156959-lost-astronaut.json) |
 | Lost Astronaut's Fringes of the Empire | 58906 | [58906-lost-astronauts-fringes-of-the-empire.json](./58906-lost-astronauts-fringes-of-the-empire.json) |
+| Lost at Birth | 393692 | [393692-lost-at-birth.json](./393692-lost-at-birth.json) |
 | Lost at Sea | 209139 | [209139-lost-at-sea.json](./209139-lost-at-sea.json) |
 | Lost At Sea | 134951 | [134951-lost-at-sea.json](./134951-lost-at-sea.json) |
 | Lost August | 226094 | [226094-lost-august.json](./226094-lost-august.json) |
