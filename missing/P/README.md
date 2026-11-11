@@ -4962,6 +4962,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 4 Revival: Steelbook Edition | 422015 | [422015-persona-4-revival-steelbook-edition.json](./422015-persona-4-revival-steelbook-edition.json) |
 | Persona 4: Dancing All Night | 11056 | [11056-persona-4-dancing-all-night.json](./11056-persona-4-dancing-all-night.json) |
 | Persona 4: Dancing All Night - Disco Fever Edition | 41873 | [41873-persona-4-dancing-all-night-disco-fever-edition.json](./41873-persona-4-dancing-all-night-disco-fever-edition.json) |
+| Persona 4: Dancing All Night - Nanako to Odoro Issho ni Pose! | 349556 | [349556-persona-4-dancing-all-night-nanako-to-odoro-issho-ni-pose.json](./349556-persona-4-dancing-all-night-nanako-to-odoro-issho-ni-pose.json) |
+| Persona 4: Dancing All Night: Hanate Wotagei! Rise no Dance Battle | 349557 | [349557-persona-4-dancing-all-night-hanate-wotagei-rise-no-dance-battle.json](./349557-persona-4-dancing-all-night-hanate-wotagei-rise-no-dance-battle.json) |
 | Persona 4: Golden - Solid Gold Premium Edition | 89923 | [89923-persona-4-golden-solid-gold-premium-edition.json](./89923-persona-4-golden-solid-gold-premium-edition.json) |
 | Persona 4: Golden Grimoire Edition | 273106 | [273106-persona-4-golden-grimoire-edition.json](./273106-persona-4-golden-grimoire-edition.json) |
 | Persona 4: Golden Midnight Channel Edition | 273107 | [273107-persona-4-golden-midnight-channel-edition.json](./273107-persona-4-golden-midnight-channel-edition.json) |
