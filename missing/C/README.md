@@ -8856,6 +8856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromancy | 163661 | [163661-chromancy.json](./163661-chromancy.json) |
 | Chromapix | 338523 | [338523-chromapix.json](./338523-chromapix.json) |
 | Chromarena | 188666 | [188666-chromarena.json](./188666-chromarena.json) |
+| Chromascape | 387276 | [387276-chromascape.json](./387276-chromascape.json) |
 | Chromasia | 55345 | [55345-chromasia.json](./55345-chromasia.json) |
 | Chromasia Rock Paper Tactics | 112170 | [112170-chromasia-rock-paper-tactics.json](./112170-chromasia-rock-paper-tactics.json) |
 | ChromaSphere: Viridis | 419102 | [419102-chromasphere-viridis.json](./419102-chromasphere-viridis.json) |
@@ -12218,6 +12219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffin Counseling | 179704 | [179704-coffin-counseling.json](./179704-coffin-counseling.json) |
 | Coffin Curse | 257155 | [257155-coffin-curse.json](./257155-coffin-curse.json) |
 | Coffin Delivery | 331054 | [331054-coffin-delivery.json](./331054-coffin-delivery.json) |
+| Coffin Hunter | 387277 | [387277-coffin-hunter.json](./387277-coffin-hunter.json) |
 | Coffin Mall | 175615 | [175615-coffin-mall.json](./175615-coffin-mall.json) |
 | Coffin of Ashes | 30864 | [30864-coffin-of-ashes.json](./30864-coffin-of-ashes.json) |
 | Coffin Rot Brewing Co. | 121291 | [121291-coffin-rot-brewing-co.json](./121291-coffin-rot-brewing-co.json) |
@@ -17532,6 +17534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crave | 170250 | [170250-crave.json](./170250-crave.json) |
 | Crave | 201974 | [201974-crave.json](./201974-crave.json) |
 | Crave New World | 423667 | [423667-crave-new-world.json](./423667-crave-new-world.json) |
+| Crave Saga: Master of Bonds | 387267 | [387267-crave-saga-master-of-bonds.json](./387267-crave-saga-master-of-bonds.json) |
 | Craving | 297447 | [297447-craving.json](./297447-craving.json) |
 | Craving Wisps | 403210 | [403210-craving-wisps.json](./403210-craving-wisps.json) |
 | Crawl | 295634 | [295634-crawl.json](./295634-crawl.json) |
@@ -17768,6 +17771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Critters: Combat Cats | 122198 | [122198-crazy-critters-combat-cats.json](./122198-crazy-critters-combat-cats.json) |
 | Crazy Cross | 39340 | [39340-crazy-cross.json](./39340-crazy-cross.json) |
 | Crazy Crows | 385539 | [385539-crazy-crows.json](./385539-crazy-crows.json) |
+| Crazy Cruise | 387250 | [387250-crazy-cruise.json](./387250-crazy-cruise.json) |
 | Crazy Cursed Grandma's House | 272393 | [272393-crazy-cursed-grandmas-house.json](./272393-crazy-cursed-grandmas-house.json) |
 | Crazy Defense Heroes | 95092 | [95092-crazy-defense-heroes.json](./95092-crazy-defense-heroes.json) |
 | Crazy Demolition Derby Car 2022 | 220827 | [220827-crazy-demolition-derby-car-2022.json](./220827-crazy-demolition-derby-car-2022.json) |
@@ -20331,6 +20335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Ninja | 364789 | [364789-cube-ninja.json](./364789-cube-ninja.json) |
 | Cube on a Leash | 415855 | [415855-cube-on-a-leash.json](./415855-cube-on-a-leash.json) |
 | Cube Paradox | 157274 | [157274-cube-paradox.json](./157274-cube-paradox.json) |
+| Cube Party | 387275 | [387275-cube-party.json](./387275-cube-party.json) |
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
 | Cube Projection | 143911 | [143911-cube-projection.json](./143911-cube-projection.json) |
 | Cube Quest | 25818 | [25818-cube-quest.json](./25818-cube-quest.json) |
