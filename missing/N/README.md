@@ -3466,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Lands 2 | 254061 | [254061-new-lands-2.json](./254061-new-lands-2.json) |
 | New Lands 2: Collector's Edition | 195874 | [195874-new-lands-2-collectors-edition.json](./195874-new-lands-2-collectors-edition.json) |
 | New Lands 3: Paradise Island | 254384 | [254384-new-lands-3-paradise-island.json](./254384-new-lands-3-paradise-island.json) |
+| New Lands 4: Legends of Tenkai | 359092 | [359092-new-lands-4-legends-of-tenkai.json](./359092-new-lands-4-legends-of-tenkai.json) |
 | New Lands Paradise Island - Collector's Edition | 195852 | [195852-new-lands-paradise-island-collectors-edition.json](./195852-new-lands-paradise-island-collectors-edition.json) |
 | New Lands: Legends of Tenkai - Collector's Edition | 369014 | [369014-new-lands-legends-of-tenkai-collectors-edition.json](./369014-new-lands-legends-of-tenkai-collectors-edition.json) |
 | New Lands: The Shadow of Alvaria | 376428 | [376428-new-lands-the-shadow-of-alvaria.json](./376428-new-lands-the-shadow-of-alvaria.json) |
