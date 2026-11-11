@@ -6017,6 +6017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chains of the Goddess | 258082 | [258082-chains-of-the-goddess.json](./258082-chains-of-the-goddess.json) |
 | Chains of Time | 238681 | [238681-chains-of-time.json](./238681-chains-of-time.json) |
 | Chains on Sand | 372001 | [372001-chains-on-sand.json](./372001-chains-on-sand.json) |
+| Chainsaw | 382079 | [382079-chainsaw.json](./382079-chainsaw.json) |
 | Chainsaw Dance | 159059 | [159059-chainsaw-dance.json](./159059-chainsaw-dance.json) |
 | Chainsaw Juice King | 321143 | [321143-chainsaw-juice-king.json](./321143-chainsaw-juice-king.json) |
 | Chainsaw Man: Nusunda Baiku De Kirihiraku!! | 261115 | [261115-chainsaw-man-nusunda-baiku-de-kirihiraku.json](./261115-chainsaw-man-nusunda-baiku-de-kirihiraku.json) |
@@ -11052,6 +11053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climate Station | 350384 | [350384-climate-station.json](./350384-climate-station.json) |
 | Climate Survivors | 306307 | [306307-climate-survivors.json](./306307-climate-survivors.json) |
 | Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
+| Climax Cards: Blackjack | 382086 | [382086-climax-cards-blackjack.json](./382086-climax-cards-blackjack.json) |
 | Climax Landers: Motte ke! Minige Campaign | 283331 | [283331-climax-landers-motte-ke-minige-campaign.json](./283331-climax-landers-motte-ke-minige-campaign.json) |
 | Climax Tennis: WTA Tour Edition | 58387 | [58387-climax-tennis-wta-tour-edition.json](./58387-climax-tennis-wta-tour-edition.json) |
 | Climb | 103965 | [103965-climb.json](./103965-climb.json) |
@@ -17222,6 +17224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crank & Watch: Octopus | 267964 | [267964-crank-and-watch-octopus.json](./267964-crank-and-watch-octopus.json) |
 | Crank and Shoot!! | 274681 | [274681-crank-and-shoot.json](./274681-crank-and-shoot.json) |
 | Crank Bass | 413579 | [413579-crank-bass.json](./413579-crank-bass.json) |
+| Crank Blaster | 381512 | [381512-crank-blaster.json](./381512-crank-blaster.json) |
 | Crank Chaos | 418588 | [418588-crank-chaos.json](./418588-crank-chaos.json) |
 | Crank Crawl | 253285 | [253285-crank-crawl.json](./253285-crank-crawl.json) |
 | Crank Defense Force | 299567 | [299567-crank-defense-force.json](./299567-crank-defense-force.json) |
@@ -17856,6 +17859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Golf Party | 343138 | [343138-crazy-golf-party.json](./343138-crazy-golf-party.json) |
 | Crazy Golf: World Tour | 43474 | [43474-crazy-golf-world-tour.json](./43474-crazy-golf-world-tour.json) |
 | Crazy Goose Simulator | 288304 | [288304-crazy-goose-simulator.json](./288304-crazy-goose-simulator.json) |
+| Crazy Gravity Challenge | 381511 | [381511-crazy-gravity-challenge.json](./381511-crazy-gravity-challenge.json) |
 | Crazy Guy | 238061 | [238061-crazy-guy.json](./238061-crazy-guy.json) |
 | Crazy Halloween | 310554 | [310554-crazy-halloween.json](./310554-crazy-halloween.json) |
 | Crazy Hamster | 175453 | [175453-crazy-hamster.json](./175453-crazy-hamster.json) |
