@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1829,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Girl | 120700 | [120700-balloon-girl.json](./120700-balloon-girl.json) |
 | Balloon Gun | 63847 | [63847-balloon-gun.json](./63847-balloon-gun.json) |
 | Balloon guy | 89368 | [89368-balloon-guy.json](./89368-balloon-guy.json) |
+| Balloon Hater | 346277 | [346277-balloon-hater.json](./346277-balloon-hater.json) |
 | Balloon Head | 317296 | [317296-balloon-head.json](./317296-balloon-head.json) |
 | Balloon Hit HD | 88727 | [88727-balloon-hit-hd.json](./88727-balloon-hit-hd.json) |
 | Balloon in a Wasteland | 236637 | [236637-balloon-in-a-wasteland.json](./236637-balloon-in-a-wasteland.json) |
@@ -8733,6 +8735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biome 3D | 59609 | [59609-biome-3d.json](./59609-biome-3d.json) |
 | Biome Conquest | 227943 | [227943-biome-conquest.json](./227943-biome-conquest.json) |
 | Biome: Mr. Self Destruct | 271330 | [271330-biome-mr-self-destruct.json](./271330-biome-mr-self-destruct.json) |
+| Biomeat Huskworld | 346318 | [346318-biomeat-huskworld.json](./346318-biomeat-huskworld.json) |
 | Biomech Hell | 250983 | [250983-biomech-hell.json](./250983-biomech-hell.json) |
 | BioMech Vendetta | 380402 | [380402-biomech-vendetta.json](./380402-biomech-vendetta.json) |
 | Biomechanical Toy | 39613 | [39613-biomechanical-toy.json](./39613-biomechanical-toy.json) |
@@ -10137,6 +10140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of Honor | 61188 | [61188-blade-of-honor.json](./61188-blade-of-honor.json) |
 | Blade of Jinshu | 364573 | [364573-blade-of-jinshu.json](./364573-blade-of-jinshu.json) |
 | Blade of Mercy: Bloody Countess | 407580 | [407580-blade-of-mercy-bloody-countess.json](./407580-blade-of-mercy-bloody-countess.json) |
+| Blade of One | 346268 | [346268-blade-of-one.json](./346268-blade-of-one.json) |
 | Blade of Si | 192761 | [192761-blade-of-si.json](./192761-blade-of-si.json) |
 | Blade of Ten | 207318 | [207318-blade-of-ten.json](./207318-blade-of-ten.json) |
 | Blade of the Netherworld | 244911 | [244911-blade-of-the-netherworld.json](./244911-blade-of-the-netherworld.json) |
@@ -13286,6 +13290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Hero | 286778 | [286778-bomb-hero.json](./286778-bomb-hero.json) |
 | Bomb Hero 3D | 175735 | [175735-bomb-hero-3d.json](./175735-bomb-hero-3d.json) |
 | Bomb Heroes | 97499 | [97499-bomb-heroes.json](./97499-bomb-heroes.json) |
+| Bomb Hunter | 346276 | [346276-bomb-hunter.json](./346276-bomb-hunter.json) |
 | Bomb Hunter MT | 95185 | [95185-bomb-hunter-mt.json](./95185-bomb-hunter-mt.json) |
 | Bomb It | 191087 | [191087-bomb-it.json](./191087-bomb-it.json) |
 | Bomb It 2 | 191097 | [191097-bomb-it-2.json](./191097-bomb-it-2.json) |
