@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N3II: Ninety-Nine Nights | 7095 | [7095-n3ii-ninety-nine-nights.json](./7095-n3ii-ninety-nine-nights.json) |
 | N3Rally | 310204 | [310204-n3rally.json](./310204-n3rally.json) |
 | N3wton | 262026 | [262026-n3wton.json](./262026-n3wton.json) |
+| N6: Top Secret Mission | 343503 | [343503-n6-top-secret-mission.json](./343503-n6-top-secret-mission.json) |
 | N64 SP Map Jam | 300421 | [300421-n64-sp-map-jam.json](./300421-n64-sp-map-jam.json) |
 | Na-Re: Great Chain of Being | 341358 | [341358-na-re-great-chain-of-being.json](./341358-na-re-great-chain-of-being.json) |
 | Naals Tales | 311610 | [311610-naals-tales.json](./311610-naals-tales.json) |
