@@ -30321,6 +30321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
 | Strike Master Apocalypse | 127507 | [127507-strike-master-apocalypse.json](./127507-strike-master-apocalypse.json) |
 | Strike Master Bowling | 295666 | [295666-strike-master-bowling.json](./295666-strike-master-bowling.json) |
+| Strike Mission | 355792 | [355792-strike-mission.json](./355792-strike-mission.json) |
 | Strike Mole | 126747 | [126747-strike-mole.json](./126747-strike-mole.json) |
 | Strike of Horror | 112856 | [112856-strike-of-horror.json](./112856-strike-of-horror.json) |
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
@@ -37463,6 +37464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwiftGrids | 380486 | [380486-swiftgrids.json](./380486-swiftgrids.json) |
 | Swiftle | 327426 | [327426-swiftle.json](./327426-swiftle.json) |
 | Swiftly | 34038 | [34038-swiftly.json](./34038-swiftly.json) |
+| Swiftrace Canyon | 355802 | [355802-swiftrace-canyon.json](./355802-swiftrace-canyon.json) |
 | Swifty | 391965 | [391965-swifty.json](./391965-swifty.json) |
 | Swiggart's Last Will | 252810 | [252810-swiggarts-last-will.json](./252810-swiggarts-last-will.json) |
 | Swigglio | 183819 | [183819-swigglio.json](./183819-swigglio.json) |
