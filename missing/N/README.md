@@ -1784,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necromancer's Workshop | 409179 | [409179-necromancers-workshop.json](./409179-necromancers-workshop.json) |
 | Necromancers' Arena | 249008 | [249008-necromancers-arena.json](./249008-necromancers-arena.json) |
 | Necromancia | 302197 | [302197-necromancia.json](./302197-necromancia.json) |
+| Necromancy for Homies | 337340 | [337340-necromancy-for-homies.json](./337340-necromancy-for-homies.json) |
 | Necromania: Trap of Darkness | 68965 | [68965-necromania-trap-of-darkness.json](./68965-necromania-trap-of-darkness.json) |
 | Necromanicide | 271734 | [271734-necromanicide.json](./271734-necromanicide.json) |
 | Necromantic | 298651 | [298651-necromantic.json](./298651-necromantic.json) |
@@ -1820,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necrophosis | 285925 | [285925-necrophosis.json](./285925-necrophosis.json) |
 | Necrophosis - Subconsciousness | 403448 | [403448-necrophosis-subconsciousness.json](./403448-necrophosis-subconsciousness.json) |
 | Necrophosis: Full Consciousness | 393020 | [393020-necrophosis-full-consciousness.json](./393020-necrophosis-full-consciousness.json) |
+| Necropolis Isle | 337352 | [337352-necropolis-isle.json](./337352-necropolis-isle.json) |
 | Necropolis Nights | 332849 | [332849-necropolis-nights.json](./332849-necropolis-nights.json) |
 | Necropolis of the Angels | 214187 | [214187-necropolis-of-the-angels.json](./214187-necropolis-of-the-angels.json) |
 | Necropolis Suite | 217348 | [217348-necropolis-suite.json](./217348-necropolis-suite.json) |
@@ -6478,6 +6480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobodies: After Death | 190162 | [190162-nobodies-after-death.json](./190162-nobodies-after-death.json) |
 | Nobodies: Silent Blood | 310791 | [310791-nobodies-silent-blood.json](./310791-nobodies-silent-blood.json) |
 | Nobody | 268276 | [268276-nobody.json](./268276-nobody.json) |
+| Nobody Expects Exploding Immortal Pigeon | 337326 | [337326-nobody-expects-exploding-immortal-pigeon.json](./337326-nobody-expects-exploding-immortal-pigeon.json) |
 | Nobody Hears | 390992 | [390992-nobody-hears.json](./390992-nobody-hears.json) |
 | Nobody Knows | 93797 | [93797-nobody-knows.json](./93797-nobody-knows.json) |
 | Nobody Nowhere | 277339 | [277339-nobody-nowhere.json](./277339-nobody-nowhere.json) |
