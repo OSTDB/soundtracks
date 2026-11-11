@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yowasugiru RPG | 313584 | [313584-yowasugiru-rpg.json](./313584-yowasugiru-rpg.json) |
 | Yowie | 300334 | [300334-yowie.json](./300334-yowie.json) |
 | YoWorld | 120611 | [120611-yoworld.json](./120611-yoworld.json) |
+| Yoyaku Tokuten: Pokémon Colosseum Kakuchou Disc | 355815 | [355815-yoyaku-tokuten-pokemon-colosseum-kakuchou-disc.json](./355815-yoyaku-tokuten-pokemon-colosseum-kakuchou-disc.json) |
 | Yoyo | 128468 | [128468-yoyo.json](./128468-yoyo.json) |
 | Yoyo Blade | 419983 | [419983-yoyo-blade.json](./419983-yoyo-blade.json) |
 | Yoyo Fighter | 339992 | [339992-yoyo-fighter.json](./339992-yoyo-fighter.json) |
