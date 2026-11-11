@@ -7830,6 +7830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wool at the Gates | 319042 | [319042-wool-at-the-gates.json](./319042-wool-at-the-gates.json) |
 | Wool Craze | 387464 | [387464-wool-craze.json](./387464-wool-craze.json) |
 | Woolberry Ranch | 391448 | [391448-woolberry-ranch.json](./391448-woolberry-ranch.json) |
+| Wooldge's World | 383903 | [383903-wooldges-world.json](./383903-wooldges-world.json) |
 | Woolfe: The Red Hood Diaries | 11647 | [11647-woolfe-the-red-hood-diaries.json](./11647-woolfe-the-red-hood-diaries.json) |
 | Woolly | 373250 | [373250-woolly.json](./373250-woolly.json) |
 | Woolly Boy And The Circus | 292582 | [292582-woolly-boy-and-the-circus.json](./292582-woolly-boy-and-the-circus.json) |
@@ -9707,6 +9708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrong Landing | 261645 | [261645-wrong-landing.json](./261645-wrong-landing.json) |
 | Wrong train | 186383 | [186383-wrong-train.json](./186383-wrong-train.json) |
 | Wrong Treatment | 392543 | [392543-wrong-treatment.json](./392543-wrong-treatment.json) |
+| Wrong Way | 383859 | [383859-wrong-way.json](./383859-wrong-way.json) |
 | Wronged | 75780 | [75780-wronged.json](./75780-wronged.json) |
 | Wronged Us | 190482 | [190482-wronged-us.json](./190482-wronged-us.json) |
 | Wrongly Accused | 293337 | [293337-wrongly-accused.json](./293337-wrongly-accused.json) |
