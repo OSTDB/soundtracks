@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gale of Windoria | 208021 | [208021-gale-of-windoria.json](./208021-gale-of-windoria.json) |
 | Gale Racer | 72317 | [72317-gale-racer.json](./72317-gale-racer.json) |
 | Galeao's Dreams | 248374 | [248374-galeaos-dreams.json](./248374-galeaos-dreams.json) |
+| Galeid. | 326895 | [326895-galeid.json](./326895-galeid.json) |
 | Galencia | 54963 | [54963-galencia.json](./54963-galencia.json) |
 | Galeoz | 74782 | [74782-galeoz.json](./74782-galeoz.json) |
 | Galer: Plague of Heroes | 31924 | [31924-galer-plague-of-heroes.json](./31924-galer-plague-of-heroes.json) |
