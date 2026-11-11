@@ -1139,6 +1139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kart Chaser: The Boost VR | 29686 | [29686-kart-chaser-the-boost-vr.json](./29686-kart-chaser-the-boost-vr.json) |
 | Kart Crazy Race Simulator Game | 264118 | [264118-kart-crazy-race-simulator-game.json](./264118-kart-crazy-race-simulator-game.json) |
 | Kart Drift | 36879 | [36879-kart-drift.json](./36879-kart-drift.json) |
+| Kart Duel | 382663 | [382663-kart-duel.json](./382663-kart-duel.json) |
 | Kart Evolution 2025 | 345816 | [345816-kart-evolution-2025.json](./345816-kart-evolution-2025.json) |
 | Kart Fighter | 48577 | [48577-kart-fighter.json](./48577-kart-fighter.json) |
 | Kart kids | 129433 | [129433-kart-kids.json](./129433-kart-kids.json) |
@@ -2735,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill.Switch | 5881 | [5881-kill-switch.json](./5881-kill-switch.json) |
 | Kill/Cure: Beautiful Vice | 307688 | [307688-kill-cure-beautiful-vice.json](./307688-kill-cure-beautiful-vice.json) |
 | Killa | 264603 | [264603-killa.json](./264603-killa.json) |
+| Killa | 382699 | [382699-killa.json](./382699-killa.json) |
 | Killapede | 60247 | [60247-killapede.json](./60247-killapede.json) |
 | Killbeat | 293347 | [293347-killbeat.json](./293347-killbeat.json) |
 | Killbot | 32591 | [32591-killbot.json](./32591-killbot.json) |
@@ -4994,6 +4996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Valour 3 | 112150 | [112150-knights-of-valour-3.json](./112150-knights-of-valour-3.json) |
 | Knights of Valour Plus | 246086 | [246086-knights-of-valour-plus.json](./246086-knights-of-valour-plus.json) |
 | Knights of Valour Super Heroes | 39289 | [39289-knights-of-valour-super-heroes.json](./39289-knights-of-valour-super-heroes.json) |
+| Knights of Valour Super Heroes Plus | 382662 | [382662-knights-of-valour-super-heroes-plus.json](./382662-knights-of-valour-super-heroes-plus.json) |
 | Knights of Valour: The Seven Spirits | 39439 | [39439-knights-of-valour-the-seven-spirits.json](./39439-knights-of-valour-the-seven-spirits.json) |
 | Knights of Xentar | 2518 | [2518-knights-of-xentar.json](./2518-knights-of-xentar.json) |
 | Knights Province | 23163 | [23163-knights-province.json](./23163-knights-province.json) |
