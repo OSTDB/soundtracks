@@ -8489,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Portal | 271322 | [271322-the-dark-portal.json](./271322-the-dark-portal.json) |
 | The Dark Prince | 207389 | [207389-the-dark-prince.json](./207389-the-dark-prince.json) |
 | The Dark Prophecy | 190100 | [190100-the-dark-prophecy.json](./190100-the-dark-prophecy.json) |
+| The Dark Protocol | 368933 | [368933-the-dark-protocol.json](./368933-the-dark-protocol.json) |
 | The Dark Pursuer | 249922 | [249922-the-dark-pursuer.json](./249922-the-dark-pursuer.json) |
 | The Dark Quarter | 367476 | [367476-the-dark-quarter.json](./367476-the-dark-quarter.json) |
 | The Dark Queen of Krynn | 2464 | [2464-the-dark-queen-of-krynn.json](./2464-the-dark-queen-of-krynn.json) |
@@ -11366,6 +11367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hockey Experiment | 62725 | [62725-the-hockey-experiment.json](./62725-the-hockey-experiment.json) |
 | The Hoff vs Hitler | 342741 | [342741-the-hoff-vs-hitler.json](./342741-the-hoff-vs-hitler.json) |
 | The Hokkaido Serial Murder Case: The Okhotsk Disappearance - Memories in Ice, Tearful Figurine | 287889 | [287889-the-hokkaido-serial-murder-case-the-okhotsk-disappearance-memories-in-ice-tearful-figurine.json](./287889-the-hokkaido-serial-murder-case-the-okhotsk-disappearance-memories-in-ice-tearful-figurine.json) |
+| The Hole | 368945 | [368945-the-hole.json](./368945-the-hole.json) |
 | The Hole | 97781 | [97781-the-hole.json](./97781-the-hole.json) |
 | The Hole in Blueblack Lake | 283121 | [283121-the-hole-in-blueblack-lake.json](./283121-the-hole-in-blueblack-lake.json) |
 | The Hole in the Cabin | 231527 | [231527-the-hole-in-the-cabin.json](./231527-the-hole-in-the-cabin.json) |
@@ -21714,6 +21716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through Abandoned: The Underground City | 34780 | [34780-through-abandoned-the-underground-city.json](./34780-through-abandoned-the-underground-city.json) |
 | Through Andrea's Eyes | 416230 | [416230-through-andreas-eyes.json](./416230-through-andreas-eyes.json) |
 | Through Blocks | 74213 | [74213-through-blocks.json](./74213-through-blocks.json) |
+| Through Blood and Dragons: Dragon Wars | 368692 | [368692-through-blood-and-dragons-dragon-wars.json](./368692-through-blood-and-dragons-dragon-wars.json) |
 | Through Death's Door | 391852 | [391852-through-deaths-door.json](./391852-through-deaths-door.json) |
 | Through Hell and Back | 372541 | [372541-through-hell-and-back.json](./372541-through-hell-and-back.json) |
 | Through Hell to Heaven | 171150 | [171150-through-hell-to-heaven.json](./171150-through-hell-to-heaven.json) |
