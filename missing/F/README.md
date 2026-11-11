@@ -10805,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Team | 157899 | [157899-formula-team.json](./157899-formula-team.json) |
 | Formula Top | 199646 | [199646-formula-top.json](./199646-formula-top.json) |
 | Formula Truck 2013 | 36392 | [36392-formula-truck-2013.json](./36392-formula-truck-2013.json) |
+| Formula Uno Racing | 375718 | [375718-formula-uno-racing.json](./375718-formula-uno-racing.json) |
 | Formula V20: 1985 | 304140 | [304140-formula-v20-1985.json](./304140-formula-v20-1985.json) |
 | Formula X | 99643 | [99643-formula-x.json](./99643-formula-x.json) |
 | Formula XD | 109362 | [109362-formula-xd.json](./109362-formula-xd.json) |
@@ -11081,6 +11082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 5 - Season 4: Absolute Doom | 313311 | [313311-fortnite-chapter-5-season-4-absolute-doom.json](./313311-fortnite-chapter-5-season-4-absolute-doom.json) |
 | Fortnite: Chapter 5 - Underground | 278837 | [278837-fortnite-chapter-5-underground.json](./278837-fortnite-chapter-5-underground.json) |
 | Fortnite: Chapter 6 - Mini Season 1: Galactic Battle | 342555 | [342555-fortnite-chapter-6-mini-season-1-galactic-battle.json](./342555-fortnite-chapter-6-mini-season-1-galactic-battle.json) |
+| Fortnite: Chapter 6 - Mini Season 2: The Simpsons | 375706 | [375706-fortnite-chapter-6-mini-season-2-the-simpsons.json](./375706-fortnite-chapter-6-mini-season-2-the-simpsons.json) |
 | Fortnite: Chapter 6 - Season 1: Demon Hunters | 323914 | [323914-fortnite-chapter-6-season-1-demon-hunters.json](./323914-fortnite-chapter-6-season-1-demon-hunters.json) |
 | Fortnite: Chapter 6 - Season 2: Lawless | 332192 | [332192-fortnite-chapter-6-season-2-lawless.json](./332192-fortnite-chapter-6-season-2-lawless.json) |
 | Fortnite: Chapter 6 - Season 4: Shock 'N Awesome | 360278 | [360278-fortnite-chapter-6-season-4-shock-n-awesome.json](./360278-fortnite-chapter-6-season-4-shock-n-awesome.json) |
@@ -12778,6 +12780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FriendOS | 374604 | [374604-friendos.json](./374604-friendos.json) |
 | Friends | 397611 | [397611-friends.json](./397611-friends.json) |
 | Friends & Dragons | 146504 | [146504-friends-and-dragons.json](./146504-friends-and-dragons.json) |
+| Friends & Fables | 375703 | [375703-friends-and-fables.json](./375703-friends-and-fables.json) |
 | Friends & Foes | 333991 | [333991-friends-and-foes.json](./333991-friends-and-foes.json) |
 | Friends and Fangs | 391712 | [391712-friends-and-fangs.json](./391712-friends-and-fangs.json) |
 | Friends for the Apocalypse | 126222 | [126222-friends-for-the-apocalypse.json](./126222-friends-for-the-apocalypse.json) |
