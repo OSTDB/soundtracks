@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -2641,6 +2642,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Sonic (Game Ichizoku) | 329351 | [329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json](./329351-barcode-battler-ii-shogaku-ninensei-special-barcode-card-sonic-game-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Ultraman (Hero Ichizoku) | 329359 | [329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json](./329359-barcode-battler-ii-shogaku-ninensei-special-barcode-card-ultraman-hero-ichizoku.json) |
 | Barcode Battler II: Shogaku Ninensei Special Barcode Card - Yossy (Game Ichizoku) | 329348 | [329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json](./329348-barcode-battler-ii-shogaku-ninensei-special-barcode-card-yossy-game-ichizoku.json) |
+| Barcode Battler II: Street Fighter II - 10. Spinning Bird Kick | 387992 | [387992-barcode-battler-ii-street-fighter-ii-10-spinning-bird-kick.json](./387992-barcode-battler-ii-street-fighter-ii-10-spinning-bird-kick.json) |
+| Barcode Battler II: Street Fighter II - 11. Koshuu Tou | 387993 | [387993-barcode-battler-ii-street-fighter-ii-11-koshuu-tou.json](./387993-barcode-battler-ii-street-fighter-ii-11-koshuu-tou.json) |
+| Barcode Battler II: Street Fighter II - 12. Kaikyaku Totsuken | 387994 | [387994-barcode-battler-ii-street-fighter-ii-12-kaikyaku-totsuken.json](./387994-barcode-battler-ii-street-fighter-ii-12-kaikyaku-totsuken.json) |
 | Barcode Battler II: Street Fighter II - 13. Ryuusei Ochi | 387995 | [387995-barcode-battler-ii-street-fighter-ii-13-ryuusei-ochi.json](./387995-barcode-battler-ii-street-fighter-ii-13-ryuusei-ochi.json) |
 | Barcode Battler II: Street Fighter II - 14. Joudanshuu | 387996 | [387996-barcode-battler-ii-street-fighter-ii-14-joudanshuu.json](./387996-barcode-battler-ii-street-fighter-ii-14-joudanshuu.json) |
 | Barcode Battler II: Street Fighter II - 15. Moto Den Ansatsuke | 387997 | [387997-barcode-battler-ii-street-fighter-ii-15-moto-den-ansatsuke.json](./387997-barcode-battler-ii-street-fighter-ii-15-moto-den-ansatsuke.json) |
@@ -2667,6 +2671,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Battler II: Street Fighter II - 36. Bear Claw | 388035 | [388035-barcode-battler-ii-street-fighter-ii-36-bear-claw.json](./388035-barcode-battler-ii-street-fighter-ii-36-bear-claw.json) |
 | Barcode Battler II: Street Fighter II - 37. Double Knee Bomber | 388036 | [388036-barcode-battler-ii-street-fighter-ii-37-double-knee-bomber.json](./388036-barcode-battler-ii-street-fighter-ii-37-double-knee-bomber.json) |
 | Barcode Battler II: Street Fighter II - 38. Rolling Nail | 388037 | [388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json](./388037-barcode-battler-ii-street-fighter-ii-38-rolling-nail.json) |
+| Barcode Battler II: Street Fighter II - 85. Shoryuken | 387989 | [387989-barcode-battler-ii-street-fighter-ii-85-shoryuken.json](./387989-barcode-battler-ii-street-fighter-ii-85-shoryuken.json) |
+| Barcode Battler II: Street Fighter II - 86. Tatsumaki Senpuukyaku | 387990 | [387990-barcode-battler-ii-street-fighter-ii-86-tatsumaki-senpuukyaku.json](./387990-barcode-battler-ii-street-fighter-ii-86-tatsumaki-senpuukyaku.json) |
+| Barcode Battler II: Street Fighter II - 9. Hyakuretsu Kyaku | 387991 | [387991-barcode-battler-ii-street-fighter-ii-9-hyakuretsu-kyaku.json](./387991-barcode-battler-ii-street-fighter-ii-9-hyakuretsu-kyaku.json) |
 | Barcode Battler II: Super Mario Kart - Luigi | 329223 | [329223-barcode-battler-ii-super-mario-kart-luigi.json](./329223-barcode-battler-ii-super-mario-kart-luigi.json) |
 | Barcode Battler II: Super Mario Kart - Mario | 329221 | [329221-barcode-battler-ii-super-mario-kart-mario.json](./329221-barcode-battler-ii-super-mario-kart-mario.json) |
 | Barcode Battler II: Super Mario World - 1Up-Kinoko | 328648 | [328648-barcode-battler-ii-super-mario-world-1up-kinoko.json](./328648-barcode-battler-ii-super-mario-world-1up-kinoko.json) |
@@ -9173,6 +9180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Storm VR: First Loop | 74192 | [74192-bit-storm-vr-first-loop.json](./74192-bit-storm-vr-first-loop.json) |
 | Bit Sword | 190032 | [190032-bit-sword.json](./190032-bit-sword.json) |
 | Bit the Apple, So What? | 249069 | [249069-bit-the-apple-so-what.json](./249069-bit-the-apple-so-what.json) |
+| Bit Wars | 388465 | [388465-bit-wars.json](./388465-bit-wars.json) |
 | Bit-Boom | 86292 | [86292-bit-boom.json](./86292-bit-boom.json) |
 | Bit-Broken Identity | 424655 | [424655-bit-broken-identity.json](./424655-bit-broken-identity.json) |
 | Bit-Buster | 184936 | [184936-bit-buster.json](./184936-bit-buster.json) |
