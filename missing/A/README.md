@@ -8815,7 +8815,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amanatsu+ | 372165 | [372165-amanatsu.json](./372165-amanatsu.json) |
 | Amanda Rose: The Game of Time | 52399 | [52399-amanda-rose-the-game-of-time.json](./52399-amanda-rose-the-game-of-time.json) |
 | Amanda Stories | 262405 | [262405-amanda-stories.json](./262405-amanda-stories.json) |
-| Amanda the Adventurer 2 | 272840 | [272840-amanda-the-adventurer-2.json](./272840-amanda-the-adventurer-2.json) |
 | Amanda the Adventurer 3 | 341815 | [341815-amanda-the-adventurer-3.json](./341815-amanda-the-adventurer-3.json) |
 | Amanda the Adventurer Trilogy Bundle | 410839 | [410839-amanda-the-adventurer-trilogy-bundle.json](./410839-amanda-the-adventurer-trilogy-bundle.json) |
 | Amanda the Adventurer: Pilot Episode | 256410 | [256410-amanda-the-adventurer-pilot-episode.json](./256410-amanda-the-adventurer-pilot-episode.json) |
@@ -13512,6 +13511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Mirai Ninja | 186563 | [186563-arcade-archives-mirai-ninja.json](./186563-arcade-archives-mirai-ninja.json) |
 | Arcade Archives: Moon Cresta | 70138 | [70138-arcade-archives-moon-cresta.json](./70138-arcade-archives-moon-cresta.json) |
 | Arcade Archives: Moon Patrol | 95050 | [95050-arcade-archives-moon-patrol.json](./95050-arcade-archives-moon-patrol.json) |
+| Arcade Archives: Moon Shuttle | 318751 | [318751-arcade-archives-moon-shuttle.json](./318751-arcade-archives-moon-shuttle.json) |
 | Arcade Archives: Motos | 204873 | [204873-arcade-archives-motos.json](./204873-arcade-archives-motos.json) |
 | Arcade Archives: Mr. Goemon | 99763 | [99763-arcade-archives-mr-goemon.json](./99763-arcade-archives-mr-goemon.json) |
 | Arcade Archives: Mr.Do! | 402001 | [402001-arcade-archives-mr-do.json](./402001-arcade-archives-mr-do.json) |
