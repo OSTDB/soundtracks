@@ -4549,6 +4549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vtuber ni Kusokome wo Okuru Typing Game | 362397 | [362397-vtuber-ni-kusokome-wo-okuru-typing-game.json](./362397-vtuber-ni-kusokome-wo-okuru-typing-game.json) |
 | Vtuber Sex Manager | 385622 | [385622-vtuber-sex-manager.json](./385622-vtuber-sex-manager.json) |
 | Vtuber Simulator | 192193 | [192193-vtuber-simulator.json](./192193-vtuber-simulator.json) |
+| Vtuber Story | 375745 | [375745-vtuber-story.json](./375745-vtuber-story.json) |
 | Vtuber Survivor | 351747 | [351747-vtuber-survivor.json](./351747-vtuber-survivor.json) |
 | Vtubers Network | 321465 | [321465-vtubers-network.json](./321465-vtubers-network.json) |
 | VTumbler | 319718 | [319718-vtumbler.json](./319718-vtumbler.json) |
