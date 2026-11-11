@@ -715,6 +715,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JanRyuMon M | 138661 | [138661-janryumon-m.json](./138661-janryumon-m.json) |
 | Jansei Gakuen: Chrono Magic | 343156 | [343156-jansei-gakuen-chrono-magic.json](./343156-jansei-gakuen-chrono-magic.json) |
 | Janshin Densetsu: Quest of Jongmaster | 75458 | [75458-janshin-densetsu-quest-of-jongmaster.json](./75458-janshin-densetsu-quest-of-jongmaster.json) |
+| Janshirou | 344081 | [344081-janshirou.json](./344081-janshirou.json) |
+| Janshirou II | 344082 | [344082-janshirou-ii.json](./344082-janshirou-ii.json) |
 | Jansou Ou | 78089 | [78089-jansou-ou.json](./78089-jansou-ou.json) |
 | Jantaku Boy | 62577 | [62577-jantaku-boy.json](./62577-jantaku-boy.json) |
 | Jantei Monogatari | 4453 | [4453-jantei-monogatari.json](./4453-jantei-monogatari.json) |
