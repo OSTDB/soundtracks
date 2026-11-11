@@ -1475,6 +1475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kayko & Kokosh Coloring Book: Deluxe Edition | 221082 | [221082-kayko-and-kokosh-coloring-book-deluxe-edition.json](./221082-kayko-and-kokosh-coloring-book-deluxe-edition.json) |
 | Kayleth | 36839 | [36839-kayleth.json](./36839-kayleth.json) |
 | Kayos | 23338 | [23338-kayos.json](./23338-kayos.json) |
+| Kayotica | 392704 | [392704-kayotica.json](./392704-kayotica.json) |
 | Kayra Online | 139405 | [139405-kayra-online.json](./139405-kayra-online.json) |
 | KayserRotz | 235643 | [235643-kayserrotz.json](./235643-kayserrotz.json) |
 | Kaz | 343586 | [343586-kaz.json](./343586-kaz.json) |
