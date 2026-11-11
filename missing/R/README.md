@@ -3495,6 +3495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper Boy | 135484 | [135484-reaper-boy.json](./135484-reaper-boy.json) |
 | Reaper Hunt: Survivor | 345495 | [345495-reaper-hunt-survivor.json](./345495-reaper-hunt-survivor.json) |
 | Reaper of Immortals | 200520 | [200520-reaper-of-immortals.json](./200520-reaper-of-immortals.json) |
+| Reaper of Souls | 383896 | [383896-reaper-of-souls.json](./383896-reaper-of-souls.json) |
 | Reaper of the Undead | 101716 | [101716-reaper-of-the-undead.json](./101716-reaper-of-the-undead.json) |
 | Reaper Recon | 360639 | [360639-reaper-recon.json](./360639-reaper-recon.json) |
 | Reaper Rules | 331435 | [331435-reaper-rules.json](./331435-reaper-rules.json) |
@@ -4492,6 +4493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redline: Xtreme Air Racing 2 | 61742 | [61742-redline-xtreme-air-racing-2.json](./61742-redline-xtreme-air-racing-2.json) |
 | RedMask | 266811 | [266811-redmask.json](./266811-redmask.json) |
 | Redmoon | 71923 | [71923-redmoon.json](./71923-redmoon.json) |
+| RedMoon | 383862 | [383862-redmoon.json](./383862-redmoon.json) |
 | RedMoonWorld | 411616 | [411616-redmoonworld.json](./411616-redmoonworld.json) |
 | RedNeck Bowl Games | 255473 | [255473-redneck-bowl-games.json](./255473-redneck-bowl-games.json) |
 | Redneck Brawl Turbo | 333172 | [333172-redneck-brawl-turbo.json](./333172-redneck-brawl-turbo.json) |
@@ -6040,6 +6042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Residential Evaluation | 404029 | [404029-residential-evaluation.json](./404029-residential-evaluation.json) |
 | Residentvania | 175773 | [175773-residentvania.json](./175773-residentvania.json) |
 | Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
+| Residual Shift | 383901 | [383901-residual-shift.json](./383901-residual-shift.json) |
 | Residual Wilds | 387049 | [387049-residual-wilds.json](./387049-residual-wilds.json) |
 | Residuality | 190772 | [190772-residuality.json](./190772-residuality.json) |
 | Residue | 16871 | [16871-residue.json](./16871-residue.json) |
@@ -10696,6 +10699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Shift | 75367 | [75367-rogue-shift.json](./75367-rogue-shift.json) |
 | Rogue Ship | 231148 | [231148-rogue-ship.json](./231148-rogue-ship.json) |
 | Rogue Shooter: The FPS Roguelike | 17307 | [17307-rogue-shooter-the-fps-roguelike.json](./17307-rogue-shooter-the-fps-roguelike.json) |
+| Rogue Signal Protocol | 383894 | [383894-rogue-signal-protocol.json](./383894-rogue-signal-protocol.json) |
 | Rogue Singularity | 34048 | [34048-rogue-singularity.json](./34048-rogue-singularity.json) |
 | Rogue Skies | 366869 | [366869-rogue-skies.json](./366869-rogue-skies.json) |
 | Rogue Sky | 292965 | [292965-rogue-sky.json](./292965-rogue-sky.json) |
