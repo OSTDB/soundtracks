@@ -7475,6 +7475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Memory: Neko's Life | 171447 | [171447-hidden-memory-nekos-life.json](./171447-hidden-memory-nekos-life.json) |
 | Hidden Monsters | 367876 | [367876-hidden-monsters.json](./367876-hidden-monsters.json) |
 | Hidden Motives: The Diamond Rush - Collector's Edition | 186720 | [186720-hidden-motives-the-diamond-rush-collectors-edition.json](./186720-hidden-motives-the-diamond-rush-collectors-edition.json) |
+| Hidden Mysteries World | 361972 | [361972-hidden-mysteries-world.json](./361972-hidden-mysteries-world.json) |
 | Hidden Mysteries: Buckingham Palace | 10411 | [10411-hidden-mysteries-buckingham-palace.json](./10411-hidden-mysteries-buckingham-palace.json) |
 | Hidden Mysteries: Buckingham Palace Secrets of Kings & Queens | 66902 | [66902-hidden-mysteries-buckingham-palace-secrets-of-kings-and-queens.json](./66902-hidden-mysteries-buckingham-palace-secrets-of-kings-and-queens.json) |
 | Hidden Mysteries: Civil War | 34842 | [34842-hidden-mysteries-civil-war.json](./34842-hidden-mysteries-civil-war.json) |
