@@ -751,7 +751,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire's Castle Adventure | 73314 | [73314-vampires-castle-adventure.json](./73314-vampires-castle-adventure.json) |
 | Vampire's Empire | 53924 | [53924-vampires-empire.json](./53924-vampires-empire.json) |
 | Vampire's Fall 2 | 392096 | [392096-vampires-fall-2.json](./392096-vampires-fall-2.json) |
-| Vampire's Fall: Origins | 123580 | [123580-vampires-fall-origins.json](./123580-vampires-fall-origins.json) |
 | Vampire's Kiss | 265263 | [265263-vampires-kiss.json](./265263-vampires-kiss.json) |
 | Vampire's Kiss: Time Paradox | 390260 | [390260-vampires-kiss-time-paradox.json](./390260-vampires-kiss-time-paradox.json) |
 | Vampire's Slave | 149387 | [149387-vampires-slave.json](./149387-vampires-slave.json) |
