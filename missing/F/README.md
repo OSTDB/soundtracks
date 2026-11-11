@@ -9388,6 +9388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fog Racing Circuit | 370177 | [370177-fog-racing-circuit.json](./370177-fog-racing-circuit.json) |
 | Fog: Battle Royale | 208186 | [208186-fog-battle-royale.json](./208186-fog-battle-royale.json) |
 | Fogel and Porki Evil Arcade | 211675 | [211675-fogel-and-porki-evil-arcade.json](./211675-fogel-and-porki-evil-arcade.json) |
+| Foggy Golf | 378686 | [378686-foggy-golf.json](./378686-foggy-golf.json) |
 | Foggy Rainfall Escapade | 267265 | [267265-foggy-rainfall-escapade.json](./267265-foggy-rainfall-escapade.json) |
 | Foghorns Drown | 382273 | [382273-foghorns-drown.json](./382273-foghorns-drown.json) |
 | Foglight | 150367 | [150367-foglight.json](./150367-foglight.json) |
@@ -11764,6 +11765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fracked | 145451 | [145451-fracked.json](./145451-fracked.json) |
 | Frackin' Universe | 279760 | [279760-frackin-universe.json](./279760-frackin-universe.json) |
 | Fract Osc | 15854 | [15854-fract-osc.json](./15854-fract-osc.json) |
+| Fracta Regna | 378692 | [378692-fracta-regna.json](./378692-fracta-regna.json) |
 | Fractal | 30192 | [30192-fractal.json](./30192-fractal.json) |
 | Fractal | 381036 | [381036-fractal.json](./381036-fractal.json) |
 | Fractal Alchemist | 157382 | [157382-fractal-alchemist.json](./157382-fractal-alchemist.json) |
