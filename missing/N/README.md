@@ -7111,7 +7111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoReason's Speedmaps 3 | 222620 | [222620-noreasons-speedmaps-3.json](./222620-noreasons-speedmaps-3.json) |
 | NoReload Heroes: Enhanced Edition | 143879 | [143879-noreload-heroes-enhanced-edition.json](./143879-noreload-heroes-enhanced-edition.json) |
 | Noren | 158583 | [158583-noren.json](./158583-noren.json) |
-| Noreya: The Gold Project | 211738 | [211738-noreya-the-gold-project.json](./211738-noreya-the-gold-project.json) |
 | Norfolk Warriors | 116127 | [116127-norfolk-warriors.json](./116127-norfolk-warriors.json) |
 | Nori Danshi!! | 295929 | [295929-nori-danshi.json](./295929-nori-danshi.json) |
 | Nori Game | 413130 | [413130-nori-game.json](./413130-nori-game.json) |
