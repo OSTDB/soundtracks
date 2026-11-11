@@ -7649,6 +7649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alive | 282657 | [282657-alive.json](./282657-alive.json) |
 | Alive | 287661 | [287661-alive.json](./287661-alive.json) |
 | Alive | 345645 | [345645-alive.json](./345645-alive.json) |
+| Alive | 393704 | [393704-alive.json](./393704-alive.json) |
 | Alive 2 Survive | 120113 | [120113-alive-2-survive.json](./120113-alive-2-survive.json) |
 | Alive 4-Ever | 77111 | [77111-alive-4-ever.json](./77111-alive-4-ever.json) |
 | Alive 4-ever Returns | 94758 | [94758-alive-4-ever-returns.json](./94758-alive-4-ever-returns.json) |
@@ -8468,6 +8469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alterna Vvelt: Blue Exorcist Another Story | 350046 | [350046-alterna-vvelt-blue-exorcist-another-story.json](./350046-alterna-vvelt-blue-exorcist-another-story.json) |
 | Alternate DiMansion Diary | 115437 | [115437-alternate-dimansion-diary.json](./115437-alternate-dimansion-diary.json) |
 | Alternate Dimensions | 403483 | [403483-alternate-dimensions.json](./403483-alternate-dimensions.json) |
+| Alternate Existence | 393695 | [393695-alternate-existence.json](./393695-alternate-existence.json) |
 | Alternate Reality: The Dungeon | 44128 | [44128-alternate-reality-the-dungeon.json](./44128-alternate-reality-the-dungeon.json) |
 | Alternate Tales of Ryukyu: Bonds of the Red Sakura Trees | 408706 | [408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json](./408706-alternate-tales-of-ryukyu-bonds-of-the-red-sakura-trees.json) |
 | Alternate Watch | 242704 | [242704-alternate-watch.json](./242704-alternate-watch.json) |
@@ -15930,6 +15932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes Cricket | 68282 | [68282-ashes-cricket.json](./68282-ashes-cricket.json) |
 | Ashes Cricket 2013 | 8550 | [8550-ashes-cricket-2013.json](./8550-ashes-cricket-2013.json) |
 | Ashes Nomad | 408126 | [408126-ashes-nomad.json](./408126-ashes-nomad.json) |
+| Ashes of Ambition | 393693 | [393693-ashes-of-ambition.json](./393693-ashes-of-ambition.json) |
 | Ashes of Arcanum | 264687 | [264687-ashes-of-arcanum.json](./264687-ashes-of-arcanum.json) |
 | Ashes of Arcanum: Antique Pack | 313674 | [313674-ashes-of-arcanum-antique-pack.json](./313674-ashes-of-arcanum-antique-pack.json) |
 | Ashes of Arcanum: Aves Pack | 313677 | [313677-ashes-of-arcanum-aves-pack.json](./313677-ashes-of-arcanum-aves-pack.json) |
@@ -17736,7 +17739,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
