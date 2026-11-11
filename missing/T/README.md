@@ -6080,6 +6080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alliance Alive HD Remastered | 115989 | [115989-the-alliance-alive-hd-remastered.json](./115989-the-alliance-alive-hd-remastered.json) |
 | The Alliance Alive HD Remastered: Awakening Edition | 323568 | [323568-the-alliance-alive-hd-remastered-awakening-edition.json](./323568-the-alliance-alive-hd-remastered-awakening-edition.json) |
 | The Alligator People | 46893 | [46893-the-alligator-people.json](./46893-the-alligator-people.json) |
+| The Almagest Anomalies | 364949 | [364949-the-almagest-anomalies.json](./364949-the-almagest-anomalies.json) |
 | The Almost Gone | 74787 | [74787-the-almost-gone.json](./74787-the-almost-gone.json) |
 | The Almost Heaven Crisis | 124040 | [124040-the-almost-heaven-crisis.json](./124040-the-almost-heaven-crisis.json) |
 | The Aloha Bakery | 129355 | [129355-the-aloha-bakery.json](./129355-the-aloha-bakery.json) |
@@ -6246,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Anubis Treasure | 372433 | [372433-the-anubis-treasure.json](./372433-the-anubis-treasure.json) |
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
 | The Apartment | 281032 | [281032-the-apartment.json](./281032-the-apartment.json) |
+| The Apartment | 364742 | [364742-the-apartment.json](./364742-the-apartment.json) |
 | The Apartment | 81900 | [81900-the-apartment.json](./81900-the-apartment.json) |
 | The Apartment 57 | 327867 | [327867-the-apartment-57.json](./327867-the-apartment-57.json) |
 | The Apartment Next Door | 415499 | [415499-the-apartment-next-door.json](./415499-the-apartment-next-door.json) |
@@ -10488,6 +10490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life 2: Under the Sea | 227729 | [227729-the-game-of-life-2-under-the-sea.json](./227729-the-game-of-life-2-under-the-sea.json) |
 | The Game of Life Vacations | 120509 | [120509-the-game-of-life-vacations.json](./120509-the-game-of-life-vacations.json) |
 | The Game of Life: DX Jinsei Game | 93455 | [93455-the-game-of-life-dx-jinsei-game.json](./93455-the-game-of-life-dx-jinsei-game.json) |
+| The Game of Life: DX Jinsei Game III | 364764 | [364764-the-game-of-life-dx-jinsei-game-iii.json](./364764-the-game-of-life-dx-jinsei-game-iii.json) |
 | The Game of Life: Path to Success | 207002 | [207002-the-game-of-life-path-to-success.json](./207002-the-game-of-life-path-to-success.json) |
 | The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
 | The Game of Life: SpongeBob SquarePants Edition | 207003 | [207003-the-game-of-life-spongebob-squarepants-edition.json](./207003-the-game-of-life-spongebob-squarepants-edition.json) |
@@ -15523,6 +15526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Overlap | 334406 | [334406-the-overlap.json](./334406-the-overlap.json) |
 | The Overlook Rehaunted | 276762 | [276762-the-overlook-rehaunted.json](./276762-the-overlook-rehaunted.json) |
 | The Overlord Isn't Another Isekai Protagonist, Is He?: Chapter 1 | 202528 | [202528-the-overlord-isnt-another-isekai-protagonist-is-he-chapter-1.json](./202528-the-overlord-isnt-another-isekai-protagonist-is-he-chapter-1.json) |
+| The Overnight Screening | 364762 | [364762-the-overnight-screening.json](./364762-the-overnight-screening.json) |
 | The Overnight Watch | 321438 | [321438-the-overnight-watch.json](./321438-the-overnight-watch.json) |
 | The Overseer | 306445 | [306445-the-overseer.json](./306445-the-overseer.json) |
 | The Oversight Bureau | 373507 | [373507-the-oversight-bureau.json](./373507-the-oversight-bureau.json) |
@@ -26714,6 +26718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TondaSan | 323669 | [323669-tondasan.json](./323669-tondasan.json) |
 | Tondeke Perman | 385570 | [385570-tondeke-perman.json](./385570-tondeke-perman.json) |
 | Tondemo Nishibuuki 2: Paris Boutard Rally | 296731 | [296731-tondemo-nishibuuki-2-paris-boutard-rally.json](./296731-tondemo-nishibuuki-2-paris-boutard-rally.json) |
+| Tone | 364730 | [364730-tone.json](./364730-tone.json) |
 | Tone Sphere | 82740 | [82740-tone-sphere.json](./82740-tone-sphere.json) |
 | Tone's froggy adventure! | 229094 | [229094-tones-froggy-adventure.json](./229094-tones-froggy-adventure.json) |
 | Tonetaker VR | 123510 | [123510-tonetaker-vr.json](./123510-tonetaker-vr.json) |
