@@ -5449,6 +5449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Girls: Reborn | 104283 | [104283-ninja-girls-reborn.json](./104283-ninja-girls-reborn.json) |
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
 | Ninja Goemon and Immortal Jewels | 74202 | [74202-ninja-goemon-and-immortal-jewels.json](./74202-ninja-goemon-and-immortal-jewels.json) |
+| Ninja Gold Thief | 371146 | [371146-ninja-gold-thief.json](./371146-ninja-gold-thief.json) |
 | Ninja Golf | 11121 | [11121-ninja-golf.json](./11121-ninja-golf.json) |
 | Ninja Grannies | 70859 | [70859-ninja-grannies.json](./70859-ninja-grannies.json) |
 | Ninja Guy | 27582 | [27582-ninja-guy.json](./27582-ninja-guy.json) |
@@ -7656,6 +7657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now Boarding | 138190 | [138190-now-boarding.json](./138190-now-boarding.json) |
 | Now Entering: Quiet Haven | 321232 | [321232-now-entering-quiet-haven.json](./321232-now-entering-quiet-haven.json) |
 | Now Games 2 | 98969 | [98969-now-games-2.json](./98969-now-games-2.json) |
+| Now Hiring | 371163 | [371163-now-hiring.json](./371163-now-hiring.json) |
 | Now I Am There | 122176 | [122176-now-i-am-there.json](./122176-now-i-am-there.json) |
 | Now I Know My ABCs | 85315 | [85315-now-i-know-my-abcs.json](./85315-now-i-know-my-abcs.json) |
 | Now I Know My ABCs 2 | 86239 | [86239-now-i-know-my-abcs-2.json](./86239-now-i-know-my-abcs-2.json) |
