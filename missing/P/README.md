@@ -6925,6 +6925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikmin Puzzle Card e+: No.031 - Teku-teku Pikmin: Zou no Ashi | 363768 | [363768-pikmin-puzzle-card-e-no-031-teku-teku-pikmin-zou-no-ashi.json](./363768-pikmin-puzzle-card-e-no-031-teku-teku-pikmin-zou-no-ashi.json) |
 | Pikmin Puzzle Card e+: No.032 - Tsunagete Pikmin: Damagumo Cannon | 363769 | [363769-pikmin-puzzle-card-e-no-032-tsunagete-pikmin-damagumo-cannon.json](./363769-pikmin-puzzle-card-e-no-032-tsunagete-pikmin-damagumo-cannon.json) |
 | Pikmin Puzzle Card e+: No.033 - Hikkonuki Pikmin: Tamago Mushi | 363770 | [363770-pikmin-puzzle-card-e-no-033-hikkonuki-pikmin-tamago-mushi.json](./363770-pikmin-puzzle-card-e-no-033-hikkonuki-pikmin-tamago-mushi.json) |
+| Pikmin Puzzle Card e+: No.038 - Teku-teku Pikmin: Kamado Fuma | 363775 | [363775-pikmin-puzzle-card-e-no-038-teku-teku-pikmin-kamado-fuma.json](./363775-pikmin-puzzle-card-e-no-038-teku-teku-pikmin-kamado-fuma.json) |
 | Pikmin Puzzle Card e+: No.039 - Tsunagete Pikmin: Ko Manman | 363776 | [363776-pikmin-puzzle-card-e-no-039-tsunagete-pikmin-ko-manman.json](./363776-pikmin-puzzle-card-e-no-039-tsunagete-pikmin-ko-manman.json) |
 | Pikmin Puzzle Card e+: No.04 - Hikkonuki Pikmin: Aka Ko Chappy | 353515 | [353515-pikmin-puzzle-card-e-no-04-hikkonuki-pikmin-aka-ko-chappy.json](./353515-pikmin-puzzle-card-e-no-04-hikkonuki-pikmin-aka-ko-chappy.json) |
 | Pikmin Puzzle Card e+: No.040 - Hikkonuki Pikmin: Oomanman | 363777 | [363777-pikmin-puzzle-card-e-no-040-hikkonuki-pikmin-oomanman.json](./363777-pikmin-puzzle-card-e-no-040-hikkonuki-pikmin-oomanman.json) |
@@ -20019,6 +20020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PyroSlam: VR Table Tennis | 238359 | [238359-pyroslam-vr-table-tennis.json](./238359-pyroslam-vr-table-tennis.json) |
 | Pyrosynchist | 370690 | [370690-pyrosynchist.json](./370690-pyrosynchist.json) |
 | Pyrotechnica | 74029 | [74029-pyrotechnica.json](./74029-pyrotechnica.json) |
+| Pyrotoad | 364337 | [364337-pyrotoad.json](./364337-pyrotoad.json) |
 | Pyroworks | 258047 | [258047-pyroworks.json](./258047-pyroworks.json) |
 | Pyrphoros | 303823 | [303823-pyrphoros.json](./303823-pyrphoros.json) |
 | Pyrrhic Paradise: Dissemble | 303085 | [303085-pyrrhic-paradise-dissemble.json](./303085-pyrrhic-paradise-dissemble.json) |
