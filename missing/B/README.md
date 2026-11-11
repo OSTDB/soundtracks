@@ -1013,6 +1013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1281,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking with Lizzie | 240961 | [240961-baking-with-lizzie.json](./240961-baking-with-lizzie.json) |
 | Bakkaniya | 249498 | [249498-bakkaniya.json](./249498-bakkaniya.json) |
 | Bakken: Ski Jumping - Next Season | 388133 | [388133-bakken-ski-jumping-next-season.json](./388133-bakken-ski-jumping-next-season.json) |
+| Bakkorila | 387279 | [387279-bakkorila.json](./387279-bakkorila.json) |
 | Baklava Simulator | 165757 | [165757-baklava-simulator.json](./165757-baklava-simulator.json) |
 | Baklava Simulator 2 | 283975 | [283975-baklava-simulator-2.json](./283975-baklava-simulator-2.json) |
 | baKno Chess | 87149 | [87149-bakno-chess.json](./87149-bakno-chess.json) |
@@ -2306,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Threeie | 300262 | [300262-banjo-threeie.json](./300262-banjo-threeie.json) |
 | Banjo-Tooie | 201645 | [201645-banjo-tooie.json](./201645-banjo-tooie.json) |
 | Banjo-Tooie | 3418 | [3418-banjo-tooie.json](./3418-banjo-tooie.json) |
+| Banjo: Recompiled | 387032 | [387032-banjo-recompiled.json](./387032-banjo-recompiled.json) |
 | Banjo: Recompiled - Banjo-Dreamie | 392996 | [392996-banjo-recompiled-banjo-dreamie.json](./392996-banjo-recompiled-banjo-dreamie.json) |
 | Banjo: Recompiled - Jiggies of Time | 387034 | [387034-banjo-recompiled-jiggies-of-time.json](./387034-banjo-recompiled-jiggies-of-time.json) |
 | Banjo: Recompiled - Nostalgia 64 | 387035 | [387035-banjo-recompiled-nostalgia-64.json](./387035-banjo-recompiled-nostalgia-64.json) |
