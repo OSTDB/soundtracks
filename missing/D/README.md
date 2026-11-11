@@ -6195,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Master | 284486 | [284486-defense-master.json](./284486-defense-master.json) |
 | Defense of Castle Chilly | 31445 | [31445-defense-of-castle-chilly.json](./31445-defense-of-castle-chilly.json) |
 | Defense of Egypt: Cleopatra Mission | 31097 | [31097-defense-of-egypt-cleopatra-mission.json](./31097-defense-of-egypt-cleopatra-mission.json) |
+| Defense of Fort Burton | 332138 | [332138-defense-of-fort-burton.json](./332138-defense-of-fort-burton.json) |
 | Defense of Fortune 2 | 200295 | [200295-defense-of-fortune-2.json](./200295-defense-of-fortune-2.json) |
 | Defense of Greece TD | 30984 | [30984-defense-of-greece-td.json](./30984-defense-of-greece-td.json) |
 | Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
@@ -8550,6 +8551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex: Human Revolution - The Missing Link | 9533 | [9533-deus-ex-human-revolution-the-missing-link.json](./9533-deus-ex-human-revolution-the-missing-link.json) |
 | Deus Ex: Insurrection | 8287 | [8287-deus-ex-insurrection.json](./8287-deus-ex-insurrection.json) |
 | Deus Ex: Invisible War | 42 | [42-deus-ex-invisible-war.json](./42-deus-ex-invisible-war.json) |
+| Deus Ex: Lay D Denton Project | 332135 | [332135-deus-ex-lay-d-denton-project.json](./332135-deus-ex-lay-d-denton-project.json) |
 | Deus Ex: Malkavian Mod | 275623 | [275623-deus-ex-malkavian-mod.json](./275623-deus-ex-malkavian-mod.json) |
 | Deus Ex: Mankind Divided - A Criminal Past | 26929 | [26929-deus-ex-mankind-divided-a-criminal-past.json](./26929-deus-ex-mankind-divided-a-criminal-past.json) |
 | Deus Ex: Mankind Divided - Assault Pack | 374695 | [374695-deus-ex-mankind-divided-assault-pack.json](./374695-deus-ex-mankind-divided-assault-pack.json) |
@@ -17776,6 +17778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driftpunk Racer | 106456 | [106456-driftpunk-racer.json](./106456-driftpunk-racer.json) |
 | Driftwatch VR | 30919 | [30919-driftwatch-vr.json](./30919-driftwatch-vr.json) |
 | Driftwave | 328932 | [328932-driftwave.json](./328932-driftwave.json) |
+| Driftwave | 332144 | [332144-driftwave.json](./332144-driftwave.json) |
 | DriftWay | 121981 | [121981-driftway.json](./121981-driftway.json) |
 | Driftwood | 129563 | [129563-driftwood.json](./129563-driftwood.json) |
 | Driftwood | 233699 | [233699-driftwood.json](./233699-driftwood.json) |
