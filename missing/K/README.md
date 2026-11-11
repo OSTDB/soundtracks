@@ -2707,6 +2707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill The Emperor | 398173 | [398173-kill-the-emperor.json](./398173-kill-the-emperor.json) |
 | Kill the God | 258626 | [258626-kill-the-god.json](./258626-kill-the-god.json) |
 | Kill the Humans | 167269 | [167269-kill-the-humans.json](./167269-kill-the-humans.json) |
+| Kill the Ice Age Baby Adventure The Game | 318659 | [318659-kill-the-ice-age-baby-adventure-the-game.json](./318659-kill-the-ice-age-baby-adventure-the-game.json) |
 | Kill The K.O.T.H | 261794 | [261794-kill-the-k-o-t-h.json](./261794-kill-the-k-o-t-h.json) |
 | Kill the King | 142705 | [142705-kill-the-king.json](./142705-kill-the-king.json) |
 | Kill the Lich | 398726 | [398726-kill-the-lich.json](./398726-kill-the-lich.json) |
@@ -2784,6 +2785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Bear | 124551 | [124551-killer-bear.json](./124551-killer-bear.json) |
 | Killer Bees | 406404 | [406404-killer-bees.json](./406404-killer-bees.json) |
 | Killer Chambers | 116824 | [116824-killer-chambers.json](./116824-killer-chambers.json) |
+| Killer Chat: Extended Edition | 318670 | [318670-killer-chat-extended-edition.json](./318670-killer-chat-extended-edition.json) |
 | Killer Chat!: Original Edition | 378575 | [378575-killer-chat-original-edition.json](./378575-killer-chat-original-edition.json) |
 | Killer Comet | 40049 | [40049-killer-comet.json](./40049-killer-comet.json) |
 | Killer Depths | 362392 | [362392-killer-depths.json](./362392-killer-depths.json) |
@@ -6711,6 +6713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kutar Tube Rider | 85237 | [85237-kutar-tube-rider.json](./85237-kutar-tube-rider.json) |
 | Kutar's Athletic World | 340040 | [340040-kutars-athletic-world.json](./340040-kutars-athletic-world.json) |
 | Kutar's Typing World | 338078 | [338078-kutars-typing-world.json](./338078-kutars-typing-world.json) |
+| Kute Knight | 318683 | [318683-kute-knight.json](./318683-kute-knight.json) |
 | Kutha Stroom Rush | 337511 | [337511-kutha-stroom-rush.json](./337511-kutha-stroom-rush.json) |
 | Kutsushita Nyanko: Kutsushita o Haita Neko to Kurashi Hajime Mashita | 130723 | [130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json](./130723-kutsushita-nyanko-kutsushita-o-haita-neko-to-kurashi-hajime-mashita.json) |
 | Kuu | 334533 | [334533-kuu.json](./334533-kuu.json) |
