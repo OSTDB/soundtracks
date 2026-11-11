@@ -7446,6 +7446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bewells | 226249 | [226249-bewells.json](./226249-bewells.json) |
 | Bewildebots | 114497 | [114497-bewildebots.json](./114497-bewildebots.json) |
 | Bewilder House | 229534 | [229534-bewilder-house.json](./229534-bewilder-house.json) |
+| Bewilder House: Enhanced Edition | 327518 | [327518-bewilder-house-enhanced-edition.json](./327518-bewilder-house-enhanced-edition.json) |
 | Bewildered | 192640 | [192640-bewildered.json](./192640-bewildered.json) |
 | Bewilderword | 204284 | [204284-bewilderword.json](./204284-bewilderword.json) |
 | Bewitched | 123828 | [123828-bewitched.json](./123828-bewitched.json) |
@@ -16988,6 +16989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Britebot | 178651 | [178651-britebot.json](./178651-britebot.json) |
 | British Gangsters | 127625 | [127625-british-gangsters.json](./127625-british-gangsters.json) |
 | British Lads Hit Each Other With Chairs: A Bitsy Retelling | 135772 | [135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json](./135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json) |
+| British Mario Vs. I.M. Meen | 327501 | [327501-british-mario-vs-i-m-meen.json](./327501-british-mario-vs-i-m-meen.json) |
 | British Super League | 13444 | [13444-british-super-league.json](./13444-british-super-league.json) |
 | British Voter Quiz | 366245 | [366245-british-voter-quiz.json](./366245-british-voter-quiz.json) |
 | Britney Spears: American Dream | 57972 | [57972-britney-spears-american-dream.json](./57972-britney-spears-american-dream.json) |
