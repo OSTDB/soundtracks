@@ -8270,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheepdogs | 244878 | [244878-sheepdogs.json](./244878-sheepdogs.json) |
 | Sheepers | 315287 | [315287-sheepers.json](./315287-sheepers.json) |
 | Sheeperzzz | 348734 | [348734-sheeperzzz.json](./348734-sheeperzzz.json) |
+| Sheepfold | 393188 | [393188-sheepfold.json](./393188-sheepfold.json) |
 | Sheepherds! | 334710 | [334710-sheepherds.json](./334710-sheepherds.json) |
 | Sheepish | 263471 | [263471-sheepish.json](./263471-sheepish.json) |
 | Sheepland | 175269 | [175269-sheepland.json](./175269-sheepland.json) |
@@ -13203,6 +13204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skully Bunnies | 335287 | [335287-skully-bunnies.json](./335287-skully-bunnies.json) |
 | Skullz | 178551 | [178551-skullz.json](./178551-skullz.json) |
 | Skumring | 90228 | [90228-skumring.json](./90228-skumring.json) |
+| Skunk Meat | 393148 | [393148-skunk-meat.json](./393148-skunk-meat.json) |
 | SkunkHunter 101 | 169590 | [169590-skunkhunter-101.json](./169590-skunkhunter-101.json) |
 | Skunky B's Super Slots Saga #1 | 57867 | [57867-skunky-bs-super-slots-saga-1.json](./57867-skunky-bs-super-slots-saga-1.json) |
 | Skunny Kart | 46731 | [46731-skunny-kart.json](./46731-skunny-kart.json) |
@@ -15502,6 +15504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smothered Hope | 273549 | [273549-smothered-hope.json](./273549-smothered-hope.json) |
 | Smove | 58502 | [58502-smove.json](./58502-smove.json) |
 | SmRPG: The Basic | 213820 | [213820-smrpg-the-basic.json](./213820-smrpg-the-basic.json) |
+| SMS | 393174 | [393174-sms.json](./393174-sms.json) |
 | SMS 207 | 420490 | [420490-sms-207.json](./420490-sms-207.json) |
 | SMS Master Blaster! | 53619 | [53619-sms-master-blaster.json](./53619-sms-master-blaster.json) |
 | SMS Returns | 421213 | [421213-sms-returns.json](./421213-sms-returns.json) |
@@ -21632,6 +21635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacelords: Valeria Deluxe Character Pack | 169304 | [169304-spacelords-valeria-deluxe-character-pack.json](./169304-spacelords-valeria-deluxe-character-pack.json) |
 | Spaceman | 129917 | [129917-spaceman.json](./129917-spaceman.json) |
 | Spaceman | 309854 | [309854-spaceman.json](./309854-spaceman.json) |
+| Spaceman | 393183 | [393183-spaceman.json](./393183-spaceman.json) |
 | Spaceman 8 | 182704 | [182704-spaceman-8.json](./182704-spaceman-8.json) |
 | Spaceman Defender | 120371 | [120371-spaceman-defender.json](./120371-spaceman-defender.json) |
 | Spaceman in Space | 171781 | [171781-spaceman-in-space.json](./171781-spaceman-in-space.json) |
@@ -22665,6 +22669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellstrife | 287043 | [287043-spellstrife.json](./287043-spellstrife.json) |
 | Spellsword | 19905 | [19905-spellsword.json](./19905-spellsword.json) |
 | Spellsword | 259262 | [259262-spellsword.json](./259262-spellsword.json) |
+| Spellsword | 393151 | [393151-spellsword.json](./393151-spellsword.json) |
 | Spellsword Cards: Origins | 118104 | [118104-spellsword-cards-origins.json](./118104-spellsword-cards-origins.json) |
 | Spellsworn | 26573 | [26573-spellsworn.json](./26573-spellsworn.json) |
 | Spellsworn | 289358 | [289358-spellsworn.json](./289358-spellsworn.json) |
@@ -34789,6 +34794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slime Fun | 106355 | [106355-super-slime-fun.json](./106355-super-slime-fun.json) |
 | Super Slime Rush | 174280 | [174280-super-slime-rush.json](./174280-super-slime-rush.json) |
 | Super Slime Seriously Sticky Sassy Scripted Survival Simulator | 310357 | [310357-super-slime-seriously-sticky-sassy-scripted-survival-simulator.json](./310357-super-slime-seriously-sticky-sassy-scripted-survival-simulator.json) |
+| Super Slime Simulator | 393172 | [393172-super-slime-simulator.json](./393172-super-slime-simulator.json) |
 | Super Slime: Black Hole Game | 294539 | [294539-super-slime-black-hole-game.json](./294539-super-slime-black-hole-game.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
 | Super Slyder | 132726 | [132726-super-slyder.json](./132726-super-slyder.json) |
