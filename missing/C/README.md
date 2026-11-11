@@ -4684,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch 23 | 13467 | [13467-catch-23.json](./13467-catch-23.json) |
 | Catch a Cat for 60 Seconds | 149793 | [149793-catch-a-cat-for-60-seconds.json](./149793-catch-a-cat-for-60-seconds.json) |
 | Catch a Coke | 218226 | [218226-catch-a-coke.json](./218226-catch-a-coke.json) |
+| Catch a Coke | 367887 | [367887-catch-a-coke.json](./367887-catch-a-coke.json) |
 | Catch A Dot | 57429 | [57429-catch-a-dot.json](./57429-catch-a-dot.json) |
 | Catch a Duck | 119881 | [119881-catch-a-duck.json](./119881-catch-a-duck.json) |
 | Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
@@ -14697,6 +14698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conspiracies of the Heart | 299004 | [299004-conspiracies-of-the-heart.json](./299004-conspiracies-of-the-heart.json) |
 | Conspiracy Crew | 312152 | [312152-conspiracy-crew.json](./312152-conspiracy-crew.json) |
 | Conspiracy Field: Fog Shadow | 163879 | [163879-conspiracy-field-fog-shadow.json](./163879-conspiracy-field-fog-shadow.json) |
+| Conspiracy Field: Snow Trap | 368389 | [368389-conspiracy-field-snow-trap.json](./368389-conspiracy-field-snow-trap.json) |
 | Conspiracy Girls | 158534 | [158534-conspiracy-girls.json](./158534-conspiracy-girls.json) |
 | Conspiracy Girls: The Madness of Madison Delaroux | 219228 | [219228-conspiracy-girls-the-madness-of-madison-delaroux.json](./219228-conspiracy-girls-the-madness-of-madison-delaroux.json) |
 | Conspiracy: Tower Defense | 236594 | [236594-conspiracy-tower-defense.json](./236594-conspiracy-tower-defense.json) |
