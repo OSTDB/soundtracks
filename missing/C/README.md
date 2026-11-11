@@ -5068,6 +5068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Visiting Lunar New Year | 328566 | [328566-cats-visiting-lunar-new-year.json](./328566-cats-visiting-lunar-new-year.json) |
 | Cats Visiting the Cinema | 356961 | [356961-cats-visiting-the-cinema.json](./356961-cats-visiting-the-cinema.json) |
 | Cats Visiting Underwater World | 328542 | [328542-cats-visiting-underwater-world.json](./328542-cats-visiting-underwater-world.json) |
+| Cats Visiting Wild West | 349566 | [349566-cats-visiting-wild-west.json](./349566-cats-visiting-wild-west.json) |
 | Cats vs Cthulhu | 327957 | [327957-cats-vs-cthulhu.json](./327957-cats-vs-cthulhu.json) |
 | Cats vs Trolls | 394763 | [394763-cats-vs-trolls.json](./394763-cats-vs-trolls.json) |
 | Cats vs Zombies II | 379651 | [379651-cats-vs-zombies-ii.json](./379651-cats-vs-zombies-ii.json) |
@@ -8414,6 +8415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chook & Sosig: Long Weekend | 134412 | [134412-chook-and-sosig-long-weekend.json](./134412-chook-and-sosig-long-weekend.json) |
 | Chook & Sosig: Walk the Plank | 113014 | [113014-chook-and-sosig-walk-the-plank.json](./113014-chook-and-sosig-walk-the-plank.json) |
 | Choom | 392983 | [392983-choom.json](./392983-choom.json) |
+| Choose | 349536 | [349536-choose.json](./349536-choose.json) |
 | Choose a Mech | 395896 | [395896-choose-a-mech.json](./395896-choose-a-mech.json) |
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Choose and Easy Number IQ Quiz | 308650 | [308650-choose-and-easy-number-iq-quiz.json](./308650-choose-and-easy-number-iq-quiz.json) |
@@ -16949,6 +16951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Farm: Tidy Up! | 417348 | [417348-cozy-farm-tidy-up.json](./417348-cozy-farm-tidy-up.json) |
 | Cozy Farming 3 in 1 Collection | 328546 | [328546-cozy-farming-3-in-1-collection.json](./328546-cozy-farming-3-in-1-collection.json) |
 | Cozy Fast Hanoi | 388346 | [388346-cozy-fast-hanoi.json](./388346-cozy-fast-hanoi.json) |
+| Cozy Fields | 349567 | [349567-cozy-fields.json](./349567-cozy-fields.json) |
 | Cozy Fire | 51122 | [51122-cozy-fire.json](./51122-cozy-fire.json) |
 | Cozy Fishing | 265385 | [265385-cozy-fishing.json](./265385-cozy-fishing.json) |
 | Cozy Fishing Life | 416673 | [416673-cozy-fishing-life.json](./416673-cozy-fishing-life.json) |
@@ -18707,6 +18710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Hell | 293512 | [293512-crimson-hell.json](./293512-crimson-hell.json) |
 | Crimson Hills | 29067 | [29067-crimson-hills.json](./29067-crimson-hills.json) |
 | Crimson Hollow | 249929 | [249929-crimson-hollow.json](./249929-crimson-hollow.json) |
+| Crimson Horn | 349531 | [349531-crimson-horn.json](./349531-crimson-horn.json) |
 | Crimson Horror | 374624 | [374624-crimson-horror.json](./374624-crimson-horror.json) |
 | Crimson Hotel | 121645 | [121645-crimson-hotel.json](./121645-crimson-hotel.json) |
 | Crimson III | 335119 | [335119-crimson-iii.json](./335119-crimson-iii.json) |
