@@ -2811,6 +2811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Collection | 364100 | [364100-farming-collection.json](./364100-farming-collection.json) |
 | Farming Engine | 151070 | [151070-farming-engine.json](./151070-farming-engine.json) |
 | Farming Fever | 234148 | [234148-farming-fever.json](./234148-farming-fever.json) |
+| Farming Fever 2 | 355806 | [355806-farming-fever-2.json](./355806-farming-fever-2.json) |
 | Farming Giant | 10310 | [10310-farming-giant.json](./10310-farming-giant.json) |
 | Farming Harvester Simulator 2025: Deluxe Edition | 324206 | [324206-farming-harvester-simulator-2025-deluxe-edition.json](./324206-farming-harvester-simulator-2025-deluxe-edition.json) |
 | Farming Homestead | 411570 | [411570-farming-homestead.json](./411570-farming-homestead.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faux Gravity | 327661 | [327661-faux-gravity.json](./327661-faux-gravity.json) |
 | Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
 | Favela Defender | 347229 | [347229-favela-defender.json](./347229-favela-defender.json) |
+| Favela Kick: The Final Goal | 355804 | [355804-favela-kick-the-final-goal.json](./355804-favela-kick-the-final-goal.json) |
 | Favela Wars | 62612 | [62612-favela-wars.json](./62612-favela-wars.json) |
 | Favela Zombie Shooter | 270011 | [270011-favela-zombie-shooter.json](./270011-favela-zombie-shooter.json) |
 | Favij: The Game | 383590 | [383590-favij-the-game.json](./383590-favij-the-game.json) |
