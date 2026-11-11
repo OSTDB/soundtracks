@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel | 181597 | [181597-babel.json](./181597-babel.json) |
 | Babel | 198377 | [198377-babel.json](./198377-babel.json) |
 | Babel | 239161 | [239161-babel.json](./239161-babel.json) |
+| Babel | 377508 | [377508-babel.json](./377508-babel.json) |
 | Babel | 378933 | [378933-babel.json](./378933-babel.json) |
 | Babel | 385394 | [385394-babel.json](./385394-babel.json) |
 | Babel | 398942 | [398942-babel.json](./398942-babel.json) |
@@ -16516,6 +16517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brickscapes: Bricks Breaker | 237283 | [237283-brickscapes-bricks-breaker.json](./237283-brickscapes-bricks-breaker.json) |
 | BrickShooter | 93208 | [93208-brickshooter.json](./93208-brickshooter.json) |
 | Brickshooter Egypt | 69622 | [69622-brickshooter-egypt.json](./69622-brickshooter-egypt.json) |
+| Brickstrike | 377520 | [377520-brickstrike.json](./377520-brickstrike.json) |
 | BricksVR | 144928 | [144928-bricksvr.json](./144928-bricksvr.json) |
 | BrickWar | 98220 | [98220-brickwar.json](./98220-brickwar.json) |
 | Bricky Boy | 152304 | [152304-bricky-boy.json](./152304-bricky-boy.json) |
