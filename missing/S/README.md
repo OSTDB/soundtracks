@@ -2699,6 +2699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sawmill Simulator | 389735 | [389735-sawmill-simulator.json](./389735-sawmill-simulator.json) |
 | Sawnic | 229422 | [229422-sawnic.json](./229422-sawnic.json) |
 | Saxophight | 177222 | [177222-saxophight.json](./177222-saxophight.json) |
+| Say | 340660 | [340660-say.json](./340660-say.json) |
 | Say a Prayer | 304327 | [304327-say-a-prayer.json](./304327-say-a-prayer.json) |
 | Say Cheese | 312157 | [312157-say-cheese.json](./312157-say-cheese.json) |
 | Say Goodbye | 30453 | [30453-say-goodbye.json](./30453-say-goodbye.json) |
