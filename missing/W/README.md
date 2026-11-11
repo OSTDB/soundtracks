@@ -8857,18 +8857,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Mists of Pandaria Classic | 322151 | [322151-world-of-warcraft-mists-of-pandaria-classic.json](./322151-world-of-warcraft-mists-of-pandaria-classic.json) |
 | World of Warcraft: Mists of Pandaria: Escalation | 345201 | [345201-world-of-warcraft-mists-of-pandaria-escalation.json](./345201-world-of-warcraft-mists-of-pandaria-escalation.json) |
 | World of Warcraft: Mists of Pandaria: The Thunder King | 345198 | [345198-world-of-warcraft-mists-of-pandaria-the-thunder-king.json](./345198-world-of-warcraft-mists-of-pandaria-the-thunder-king.json) |
+| World of Warcraft: Rise of the Blood God | 345161 | [345161-world-of-warcraft-rise-of-the-blood-god.json](./345161-world-of-warcraft-rise-of-the-blood-god.json) |
+| World of Warcraft: Shadow of the Necropolis | 345163 | [345163-world-of-warcraft-shadow-of-the-necropolis.json](./345163-world-of-warcraft-shadow-of-the-necropolis.json) |
 | World of Warcraft: Shadowlands | 125175 | [125175-world-of-warcraft-shadowlands.json](./125175-world-of-warcraft-shadowlands.json) |
 | World of Warcraft: Shadowlands - Chains of Domination | 363919 | [363919-world-of-warcraft-shadowlands-chains-of-domination.json](./363919-world-of-warcraft-shadowlands-chains-of-domination.json) |
 | World of Warcraft: Shadowlands - Collector's Edition | 136998 | [136998-world-of-warcraft-shadowlands-collectors-edition.json](./136998-world-of-warcraft-shadowlands-collectors-edition.json) |
 | World of Warcraft: Shadowlands - Eternity's End | 363926 | [363926-world-of-warcraft-shadowlands-eternitys-end.json](./363926-world-of-warcraft-shadowlands-eternitys-end.json) |
 | World of Warcraft: Shadows of Argus | 55075 | [55075-world-of-warcraft-shadows-of-argus.json](./55075-world-of-warcraft-shadows-of-argus.json) |
 | World of Warcraft: The Burning Crusade - Collector's Edition | 136995 | [136995-world-of-warcraft-the-burning-crusade-collectors-edition.json](./136995-world-of-warcraft-the-burning-crusade-collectors-edition.json) |
+| World of Warcraft: The Burning Crusade - The Black Temple | 345166 | [345166-world-of-warcraft-the-burning-crusade-the-black-temple.json](./345166-world-of-warcraft-the-burning-crusade-the-black-temple.json) |
+| World of Warcraft: The Burning Crusade - The Gods of Zul'Aman | 345176 | [345176-world-of-warcraft-the-burning-crusade-the-gods-of-zulaman.json](./345176-world-of-warcraft-the-burning-crusade-the-gods-of-zulaman.json) |
+| World of Warcraft: The Burning Crusade: Fury of the Sunwell | 345178 | [345178-world-of-warcraft-the-burning-crusade-fury-of-the-sunwell.json](./345178-world-of-warcraft-the-burning-crusade-fury-of-the-sunwell.json) |
+| World of Warcraft: The Gates of Ahn'Qiraj | 345162 | [345162-world-of-warcraft-the-gates-of-ahnqiraj.json](./345162-world-of-warcraft-the-gates-of-ahnqiraj.json) |
 | World of Warcraft: The War Within - Ghosts of K’aresh | 357378 | [357378-world-of-warcraft-the-war-within-ghosts-of-k-aresh.json](./357378-world-of-warcraft-the-war-within-ghosts-of-k-aresh.json) |
 | World of Warcraft: The War Within - Undermine(d) | 322152 | [322152-world-of-warcraft-the-war-within-undermine-d.json](./322152-world-of-warcraft-the-war-within-undermine-d.json) |
 | World of Warcraft: Warlords of Draenor - Collector's Edition | 13622 | [13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json](./13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json) |
 | World of Warcraft: Warlords of Draenor - Fury of Hellfire | 345206 | [345206-world-of-warcraft-warlords-of-draenor-fury-of-hellfire.json](./345206-world-of-warcraft-warlords-of-draenor-fury-of-hellfire.json) |
+| World of Warcraft: Wrath of the Lich King - Call of the Crusade | 345187 | [345187-world-of-warcraft-wrath-of-the-lich-king-call-of-the-crusade.json](./345187-world-of-warcraft-wrath-of-the-lich-king-call-of-the-crusade.json) |
 | World of Warcraft: Wrath of the Lich King - Collector's Edition | 23788 | [23788-world-of-warcraft-wrath-of-the-lich-king-collectors-edition.json](./23788-world-of-warcraft-wrath-of-the-lich-king-collectors-edition.json) |
+| World of Warcraft: Wrath of the Lich King - Fall of the Lich King | 345189 | [345189-world-of-warcraft-wrath-of-the-lich-king-fall-of-the-lich-king.json](./345189-world-of-warcraft-wrath-of-the-lich-king-fall-of-the-lich-king.json) |
 | World of Warcraft: Wrath of the Lich King Classic | 198161 | [198161-world-of-warcraft-wrath-of-the-lich-king-classic.json](./198161-world-of-warcraft-wrath-of-the-lich-king-classic.json) |
+| World of Warcraft: Wrath of the Lich King: Secrets of Ulduar | 345181 | [345181-world-of-warcraft-wrath-of-the-lich-king-secrets-of-ulduar.json](./345181-world-of-warcraft-wrath-of-the-lich-king-secrets-of-ulduar.json) |
 | World of Warplanes | 3432 | [3432-world-of-warplanes.json](./3432-world-of-warplanes.json) |
 | World of Warplanes: Potez 540 Pack | 289894 | [289894-world-of-warplanes-potez-540-pack.json](./289894-world-of-warplanes-potez-540-pack.json) |
 | World of Warriors | 95064 | [95064-world-of-warriors.json](./95064-world-of-warriors.json) |
