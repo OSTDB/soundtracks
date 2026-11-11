@@ -6343,6 +6343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deka Voice | 64928 | [64928-deka-voice.json](./64928-deka-voice.json) |
 | Dekabès Domino | 210563 | [210563-dekabes-domino.json](./210563-dekabes-domino.json) |
 | DekaBlox Arena | 104001 | [104001-dekablox-arena.json](./104001-dekablox-arena.json) |
+| DekaDuck | 384990 | [384990-dekaduck.json](./384990-dekaduck.json) |
 | DekaPari | 252075 | [252075-dekapari.json](./252075-dekapari.json) |
 | Dekaron | 60258 | [60258-dekaron.json](./60258-dekaron.json) |
 | Dekaron G | 224071 | [224071-dekaron-g.json](./224071-dekaron-g.json) |
@@ -7204,6 +7205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denny's Atari Remix | 305367 | [305367-dennys-atari-remix.json](./305367-dennys-atari-remix.json) |
 | Denos City | 385858 | [385858-denos-city.json](./385858-denos-city.json) |
 | Denovo | 348551 | [348551-denovo.json](./348551-denovo.json) |
+| Denpa Nightmares | 384987 | [384987-denpa-nightmares.json](./384987-denpa-nightmares.json) |
 | Denpa Ningen no RPG | 85081 | [85081-denpa-ningen-no-rpg.json](./85081-denpa-ningen-no-rpg.json) |
 | Denpa Ningen no RPG 2 | 221987 | [221987-denpa-ningen-no-rpg-2.json](./221987-denpa-ningen-no-rpg-2.json) |
 | Denpa Ningen no RPG 3 | 221988 | [221988-denpa-ningen-no-rpg-3.json](./221988-denpa-ningen-no-rpg-3.json) |
@@ -16298,6 +16300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Dungeon | 321486 | [321486-dragons-dungeon.json](./321486-dragons-dungeon.json) |
 | Dragon's Dungeon | 322426 | [322426-dragons-dungeon.json](./322426-dragons-dungeon.json) |
 | Dragon's Dungeon: Awakening | 55540 | [55540-dragons-dungeon-awakening.json](./55540-dragons-dungeon-awakening.json) |
+| Dragon's Egg: A Gourmet Fantasy | 385006 | [385006-dragons-egg-a-gourmet-fantasy.json](./385006-dragons-egg-a-gourmet-fantasy.json) |
 | Dragon's Eye | 170218 | [170218-dragons-eye.json](./170218-dragons-eye.json) |
 | Dragon's Eye | 23292 | [23292-dragons-eye.json](./23292-dragons-eye.json) |
 | Dragon's Eye Plus: Shanghai III | 47060 | [47060-dragons-eye-plus-shanghai-iii.json](./47060-dragons-eye-plus-shanghai-iii.json) |
@@ -18161,6 +18164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dros | 172216 | [172216-dros.json](./172216-dros.json) |
 | Drosera: Lady Bad End no Hatsukoi | 321015 | [321015-drosera-lady-bad-end-no-hatsukoi.json](./321015-drosera-lady-bad-end-no-hatsukoi.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
+| Droste Detective | 385018 | [385018-droste-detective.json](./385018-droste-detective.json) |
 | Droste Effect | 286322 | [286322-droste-effect.json](./286322-droste-effect.json) |
 | Drought | 261442 | [261442-drought.json](./261442-drought.json) |
 | Drova: Forsaken Kin | 141490 | [141490-drova-forsaken-kin.json](./141490-drova-forsaken-kin.json) |
@@ -18738,6 +18742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Corp. | 214943 | [214943-duel-corp.json](./214943-duel-corp.json) |
 | Duel de Base Stat | 403780 | [403780-duel-de-base-stat.json](./403780-duel-de-base-stat.json) |
 | Duel Draw: Katana Clash | 397862 | [397862-duel-draw-katana-clash.json](./397862-duel-draw-katana-clash.json) |
+| Duel Girl | 385016 | [385016-duel-girl.json](./385016-duel-girl.json) |
 | Duel Hell Purgatory | 338099 | [338099-duel-hell-purgatory.json](./338099-duel-hell-purgatory.json) |
 | Duel Heroes | 249337 | [249337-duel-heroes.json](./249337-duel-heroes.json) |
 | Duel in the Town of Water | 411235 | [411235-duel-in-the-town-of-water.json](./411235-duel-in-the-town-of-water.json) |
