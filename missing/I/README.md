@@ -4269,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Nikki: Golden Dust | 410212 | [410212-infinity-nikki-golden-dust.json](./410212-infinity-nikki-golden-dust.json) |
 | Infinity Nikki: Golden Season | 370959 | [370959-infinity-nikki-golden-season.json](./370959-infinity-nikki-golden-season.json) |
 | Infinity Nikki: Life as a Poem | 383945 | [383945-infinity-nikki-life-as-a-poem.json](./383945-infinity-nikki-life-as-a-poem.json) |
+| Infinity Nikki: Playful Season | 348488 | [348488-infinity-nikki-playful-season.json](./348488-infinity-nikki-playful-season.json) |
 | Infinity Nikki: Revelry Season | 336160 | [336160-infinity-nikki-revelry-season.json](./336160-infinity-nikki-revelry-season.json) |
 | Infinity Nikki: Shooting Star Season | 327087 | [327087-infinity-nikki-shooting-star-season.json](./327087-infinity-nikki-shooting-star-season.json) |
 | Infinity Nikki: Uncrowned Heart | 393593 | [393593-infinity-nikki-uncrowned-heart.json](./393593-infinity-nikki-uncrowned-heart.json) |
@@ -4565,6 +4566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkbound: Supporter Pack - Rise of the Unbound | 296570 | [296570-inkbound-supporter-pack-rise-of-the-unbound.json](./296570-inkbound-supporter-pack-rise-of-the-unbound.json) |
 | Inkbound: Supporter Pack - The Starship of Terrors | 272968 | [272968-inkbound-supporter-pack-the-starship-of-terrors.json](./272968-inkbound-supporter-pack-the-starship-of-terrors.json) |
 | Inkbowser.exe | 283097 | [283097-inkbowser-exe.json](./283097-inkbowser-exe.json) |
+| InkBrush: The Demon Wars | 348477 | [348477-inkbrush-the-demon-wars.json](./348477-inkbrush-the-demon-wars.json) |
 | Inked | 96278 | [96278-inked.json](./96278-inked.json) |
 | InKeepers | 347437 | [347437-inkeepers.json](./347437-inkeepers.json) |
 | Inken | 394555 | [394555-inken.json](./394555-inken.json) |
