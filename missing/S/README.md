@@ -2017,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Santa's Hitlist CEO Edition | 347346 | [347346-santas-hitlist-ceo-edition.json](./347346-santas-hitlist-ceo-edition.json) |
 | Santa's Holiday | 127010 | [127010-santas-holiday.json](./127010-santas-holiday.json) |
 | Santa's Hunt | 388153 | [388153-santas-hunt.json](./388153-santas-hunt.json) |
+| Santa's Last Stand | 370049 | [370049-santas-last-stand.json](./370049-santas-last-stand.json) |
 | Santa's Legacy | 391114 | [391114-santas-legacy.json](./391114-santas-legacy.json) |
 | Santa's Letters VR | 257066 | [257066-santas-letters-vr.json](./257066-santas-letters-vr.json) |
 | Santa's Monster Shootout | 250135 | [250135-santas-monster-shootout.json](./250135-santas-monster-shootout.json) |
@@ -7943,6 +7944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Nogard | 207310 | [207310-shards-of-nogard.json](./207310-shards-of-nogard.json) |
 | Shards of Order | 363332 | [363332-shards-of-order.json](./363332-shards-of-order.json) |
 | Shards Of Solitude | 404621 | [404621-shards-of-solitude.json](./404621-shards-of-solitude.json) |
+| Shards of the Banished | 370596 | [370596-shards-of-the-banished.json](./370596-shards-of-the-banished.json) |
 | Shards of the Heart | 388635 | [388635-shards-of-the-heart.json](./388635-shards-of-the-heart.json) |
 | Shards of the Library | 366296 | [366296-shards-of-the-library.json](./366296-shards-of-the-library.json) |
 | Shards of the Mirror | 340381 | [340381-shards-of-the-mirror.json](./340381-shards-of-the-mirror.json) |
@@ -17947,6 +17949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some: The House | 350308 | [350308-some-the-house.json](./350308-some-the-house.json) |
 | Someday | 120923 | [120923-someday.json](./120923-someday.json) |
 | Someday You'll Return: Director's Cut | 241044 | [241044-someday-youll-return-directors-cut.json](./241044-someday-youll-return-directors-cut.json) |
+| Someone Cloned The President | 370051 | [370051-someone-cloned-the-president.json](./370051-someone-cloned-the-president.json) |
 | Someone Creepy | 357196 | [357196-someone-creepy.json](./357196-someone-creepy.json) |
 | Someone Knocks The Door | 350032 | [350032-someone-knocks-the-door.json](./350032-someone-knocks-the-door.json) |
 | Someone Stole My Lunch! | 198332 | [198332-someone-stole-my-lunch.json](./198332-someone-stole-my-lunch.json) |
@@ -18316,6 +18319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Advance X | 227806 | [227806-sonic-advance-x.json](./227806-sonic-advance-x.json) |
 | Sonic Advance: International | 316297 | [316297-sonic-advance-international.json](./316297-sonic-advance-international.json) |
 | Sonic Advance: Souped Up | 409901 | [409901-sonic-advance-souped-up.json](./409901-sonic-advance-souped-up.json) |
+| Sonic Advance: Unnamed | 370042 | [370042-sonic-advance-unnamed.json](./370042-sonic-advance-unnamed.json) |
 | Sonic Advent | 331775 | [331775-sonic-advent.json](./331775-sonic-advent.json) |
 | Sonic Adventure | 192113 | [192113-sonic-adventure.json](./192113-sonic-adventure.json) |
 | Sonic Adventure | 198588 | [198588-sonic-adventure.json](./198588-sonic-adventure.json) |
@@ -26537,6 +26541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardom 2 | 371626 | [371626-stardom-2.json](./371626-stardom-2.json) |
 | Stardom 2000 | 380431 | [380431-stardom-2000.json](./380431-stardom-2000.json) |
 | Stardom 3 | 371627 | [371627-stardom-3.json](./371627-stardom-3.json) |
+| Stardom MiniGames | 370030 | [370030-stardom-minigames.json](./370030-stardom-minigames.json) |
 | Stardom Warriors: LaSalle Ishii's Childs Quest | 340027 | [340027-stardom-warriors-lasalle-ishiis-childs-quest.json](./340027-stardom-warriors-lasalle-ishiis-childs-quest.json) |
 | Stardom: Riichi Mahjong | 417223 | [417223-stardom-riichi-mahjong.json](./417223-stardom-riichi-mahjong.json) |
 | Stardom: Your Quest For Fame | 73373 | [73373-stardom-your-quest-for-fame.json](./73373-stardom-your-quest-for-fame.json) |
@@ -28213,6 +28218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stepan's Life | 260310 | [260310-stepans-life.json](./260310-stepans-life.json) |
 | Stepbystep | 111978 | [111978-stepbystep.json](./111978-stepbystep.json) |
 | StepByStep | 371906 | [371906-stepbystep.json](./371906-stepbystep.json) |
+| Stepfight | 370048 | [370048-stepfight.json](./370048-stepfight.json) |
 | Steph IQ | 100611 | [100611-steph-iq.json](./100611-steph-iq.json) |
 | Stephen Huneck's PuzzleSpace | 58286 | [58286-stephen-hunecks-puzzlespace.json](./58286-stephen-hunecks-puzzlespace.json) |
 | Stephen King's F13 | 74412 | [74412-stephen-kings-f13.json](./74412-stephen-kings-f13.json) |
@@ -33895,6 +33901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Galaxy 2: Collectors Anxiety | 281019 | [281019-super-mario-galaxy-2-collectors-anxiety.json](./281019-super-mario-galaxy-2-collectors-anxiety.json) |
 | Super Mario Galaxy 2: Cosmic Clones Challenge | 294766 | [294766-super-mario-galaxy-2-cosmic-clones-challenge.json](./294766-super-mario-galaxy-2-cosmic-clones-challenge.json) |
 | Super Mario Galaxy 2: Master Mode | 294575 | [294575-super-mario-galaxy-2-master-mode.json](./294575-super-mario-galaxy-2-master-mode.json) |
+| Super Mario Galaxy 2: The New Green Stars | 370602 | [370602-super-mario-galaxy-2-the-new-green-stars.json](./370602-super-mario-galaxy-2-the-new-green-stars.json) |
 | Super Mario Galaxy 63 | 294714 | [294714-super-mario-galaxy-63.json](./294714-super-mario-galaxy-63.json) |
 | Super Mario Galaxy 64 | 313339 | [313339-super-mario-galaxy-64.json](./313339-super-mario-galaxy-64.json) |
 | Super Mario Galaxy 64: Holiday Special | 294779 | [294779-super-mario-galaxy-64-holiday-special.json](./294779-super-mario-galaxy-64-holiday-special.json) |
@@ -37139,6 +37146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Driver | 372484 | [372484-sweet-driver.json](./372484-sweet-driver.json) |
 | Sweet Drmzzz | 102013 | [102013-sweet-drmzzz.json](./102013-sweet-drmzzz.json) |
 | Sweet Dungeon | 159750 | [159750-sweet-dungeon.json](./159750-sweet-dungeon.json) |
+| Sweet Dungeon | 370033 | [370033-sweet-dungeon.json](./370033-sweet-dungeon.json) |
 | Sweet Easter | 373581 | [373581-sweet-easter.json](./373581-sweet-easter.json) |
 | Sweet Elite | 298429 | [298429-sweet-elite.json](./298429-sweet-elite.json) |
 | Sweet Ex | 392906 | [392906-sweet-ex.json](./392906-sweet-ex.json) |
