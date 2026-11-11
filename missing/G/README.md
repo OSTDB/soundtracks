@@ -4796,6 +4796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GirlJail | 97348 | [97348-girljail.json](./97348-girljail.json) |
 | Girlkiller | 275461 | [275461-girlkiller.json](./275461-girlkiller.json) |
 | GirlPuzzle | 213783 | [213783-girlpuzzle.json](./213783-girlpuzzle.json) |
+| Girls | 389774 | [389774-girls.json](./389774-girls.json) |
 | Girls & Blocks | 289420 | [289420-girls-and-blocks.json](./289420-girls-and-blocks.json) |
 | Girls & Dungeons 2 | 119635 | [119635-girls-and-dungeons-2.json](./119635-girls-and-dungeons-2.json) |
 | Girls & Sweets | 113287 | [113287-girls-and-sweets.json](./113287-girls-and-sweets.json) |
