@@ -9193,6 +9193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Connection | 113958 | [113958-love-connection.json](./113958-love-connection.json) |
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
 | Love Cooking at Home? Turn your Hobby into a Business! | 156122 | [156122-love-cooking-at-home-turn-your-hobby-into-a-business.json](./156122-love-cooking-at-home-turn-your-hobby-into-a-business.json) |
+| Love Craft | 370608 | [370608-love-craft.json](./370608-love-craft.json) |
 | Love Criminals | 287471 | [287471-love-criminals.json](./287471-love-criminals.json) |
 | Love Cubed AR | 96572 | [96572-love-cubed-ar.json](./96572-love-cubed-ar.json) |
 | Love Cupid | 199995 | [199995-love-cupid.json](./199995-love-cupid.json) |
