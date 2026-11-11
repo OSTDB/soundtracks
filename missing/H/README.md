@@ -1907,6 +1907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappyFamily - Magic Piano Master | 97023 | [97023-happyfamily-magic-piano-master.json](./97023-happyfamily-magic-piano-master.json) |
 | HappyFunland | 215689 | [215689-happyfunland.json](./215689-happyfunland.json) |
 | HappyFunland: Souvenir Edition | 270208 | [270208-happyfunland-souvenir-edition.json](./270208-happyfunland-souvenir-edition.json) |
+| HappyHazard | 319476 | [319476-happyhazard.json](./319476-happyhazard.json) |
 | HappyKids | 335234 | [335234-happykids.json](./335234-happykids.json) |
 | HappySnowMan | 236540 | [236540-happysnowman.json](./236540-happysnowman.json) |
 | HappyTruck: Fruit Express | 261945 | [261945-happytruck-fruit-express.json](./261945-happytruck-fruit-express.json) |
