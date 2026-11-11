@@ -2998,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3887,6 +3888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingsborn | 126279 | [126279-kingsborn.json](./126279-kingsborn.json) |
 | Kingsburg Serving the Crown | 205090 | [205090-kingsburg-serving-the-crown.json](./205090-kingsburg-serving-the-crown.json) |
 | Kingsguard | 259380 | [259380-kingsguard.json](./259380-kingsguard.json) |
+| Kingsguard | 322290 | [322290-kingsguard.json](./322290-kingsguard.json) |
 | Kingshot | 337547 | [337547-kingshot.json](./337547-kingshot.json) |
 | Kingshunt | 114738 | [114738-kingshunt.json](./114738-kingshunt.json) |
 | KingSim | 126948 | [126948-kingsim.json](./126948-kingsim.json) |
@@ -6662,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuru-kuru Puzzle Nihon no Rekishi | 264953 | [264953-kuru-kuru-puzzle-nihon-no-rekishi.json](./264953-kuru-kuru-puzzle-nihon-no-rekishi.json) |
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
 | Kurubushi Kyoudai Gekijou: 1st Maki Mahjong-hen | 82272 | [82272-kurubushi-kyoudai-gekijou-1st-maki-mahjong-hen.json](./82272-kurubushi-kyoudai-gekijou-1st-maki-mahjong-hen.json) |
+| Kurui Zuki | 322305 | [322305-kurui-zuki.json](./322305-kurui-zuki.json) |
 | Kuruki-chan the Cat | 419958 | [419958-kuruki-chan-the-cat.json](./419958-kuruki-chan-the-cat.json) |
 | Kurukshetra: Ascension | 188750 | [188750-kurukshetra-ascension.json](./188750-kurukshetra-ascension.json) |
 | KuruKuru MaruMaru | 263956 | [263956-kurukuru-marumaru.json](./263956-kurukuru-marumaru.json) |
