@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Hollow Harvest | 375855 | [375855-a-hollow-harvest.json](./375855-a-hollow-harvest.json) |
 | A Hollow Heartbeat | 389012 | [389012-a-hollow-heartbeat.json](./389012-a-hollow-heartbeat.json) |
 | A Home Far Away | 124617 | [124617-a-home-far-away.json](./124617-a-home-far-away.json) |
+| A Home Is Safe | 374513 | [374513-a-home-is-safe.json](./374513-a-home-is-safe.json) |
 | A Home of Quiet | 421834 | [421834-a-home-of-quiet.json](./421834-a-home-of-quiet.json) |
 | A Homie Adventure | 123190 | [123190-a-homie-adventure.json](./123190-a-homie-adventure.json) |
 | A Horrible Evil Spider Head Love Story | 179040 | [179040-a-horrible-evil-spider-head-love-story.json](./179040-a-horrible-evil-spider-head-love-story.json) |
@@ -8394,6 +8395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpine Racer | 38526 | [38526-alpine-racer.json](./38526-alpine-racer.json) |
 | Alpine Racer 2 | 38525 | [38525-alpine-racer-2.json](./38525-alpine-racer-2.json) |
 | Alpine Racer 3 | 68269 | [68269-alpine-racer-3.json](./68269-alpine-racer-3.json) |
+| Alpine Skater | 374527 | [374527-alpine-skater.json](./374527-alpine-skater.json) |
 | Alpine Ski | 46759 | [46759-alpine-ski.json](./46759-alpine-ski.json) |
 | Alpine Ski III | 88027 | [88027-alpine-ski-iii.json](./88027-alpine-ski-iii.json) |
 | Alpine Ski Racing 2007 | 68266 | [68266-alpine-ski-racing-2007.json](./68266-alpine-ski-racing-2007.json) |
@@ -13343,6 +13345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Mr. Goemon | 99763 | [99763-arcade-archives-mr-goemon.json](./99763-arcade-archives-mr-goemon.json) |
 | Arcade Archives: Mr.Do! | 402001 | [402001-arcade-archives-mr-do.json](./402001-arcade-archives-mr-do.json) |
 | Arcade Archives: Mr.Do!'s Castle | 420643 | [420643-arcade-archives-mr-do-s-castle.json](./420643-arcade-archives-mr-do-s-castle.json) |
+| Arcade Archives: Munch Mobile | 373985 | [373985-arcade-archives-munch-mobile.json](./373985-arcade-archives-munch-mobile.json) |
 | Arcade Archives: Mutant Night | 121427 | [121427-arcade-archives-mutant-night.json](./121427-arcade-archives-mutant-night.json) |
 | Arcade Archives: MX5000 | 99537 | [99537-arcade-archives-mx5000.json](./99537-arcade-archives-mx5000.json) |
 | Arcade Archives: Mystic Warriors | 282155 | [282155-arcade-archives-mystic-warriors.json](./282155-arcade-archives-mystic-warriors.json) |
@@ -17119,6 +17122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Mission: Moon | 192811 | [192811-astro-mission-moon.json](./192811-astro-mission-moon.json) |
 | Astro Navigator | 15606 | [15606-astro-navigator.json](./15606-astro-navigator.json) |
 | Astro Ninja Man DX | 206600 | [206600-astro-ninja-man-dx.json](./206600-astro-ninja-man-dx.json) |
+| Astro Nova | 374511 | [374511-astro-nova.json](./374511-astro-nova.json) |
 | Astro Nut | 200779 | [200779-astro-nut.json](./200779-astro-nut.json) |
 | Astro Odyssey | 336510 | [336510-astro-odyssey.json](./336510-astro-odyssey.json) |
 | Astro Party | 103234 | [103234-astro-party.json](./103234-astro-party.json) |
