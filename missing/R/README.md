@@ -4852,6 +4852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regenisis Arcade | 55537 | [55537-regenisis-arcade.json](./55537-regenisis-arcade.json) |
 | Regenti Rebelia | 330071 | [330071-regenti-rebelia.json](./330071-regenti-rebelia.json) |
 | Regeria Hope Episode 1 | 33403 | [33403-regeria-hope-episode-1.json](./33403-regeria-hope-episode-1.json) |
+| Regex Game | 347410 | [347410-regex-game.json](./347410-regex-game.json) |
 | Reggie, His Cousin, Two Scientists and Most Likely the End of the World | 291276 | [291276-reggie-his-cousin-two-scientists-and-most-likely-the-end-of-the-world.json](./291276-reggie-his-cousin-two-scientists-and-most-likely-the-end-of-the-world.json) |
 | Reggie's Adventures: Part 1 - Escape From Paradise | 230502 | [230502-reggies-adventures-part-1-escape-from-paradise.json](./230502-reggies-adventures-part-1-escape-from-paradise.json) |
 | Reggor F. | 361722 | [361722-reggor-f.json](./361722-reggor-f.json) |
@@ -8417,6 +8418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of the Overlords | 161574 | [161574-rise-of-the-overlords.json](./161574-rise-of-the-overlords.json) |
 | Rise of the Pawn | 321132 | [321132-rise-of-the-pawn.json](./321132-rise-of-the-pawn.json) |
 | Rise of the Penguins | 340693 | [340693-rise-of-the-penguins.json](./340693-rise-of-the-penguins.json) |
+| Rise of the Penguins 2: Penguin's Dark Ascent | 347402 | [347402-rise-of-the-penguins-2-penguins-dark-ascent.json](./347402-rise-of-the-penguins-2-penguins-dark-ascent.json) |
 | Rise of the Phoenix | 42650 | [42650-rise-of-the-phoenix.json](./42650-rise-of-the-phoenix.json) |
 | Rise of the Pirates | 114802 | [114802-rise-of-the-pirates.json](./114802-rise-of-the-pirates.json) |
 | Rise of the Ravager | 51671 | [51671-rise-of-the-ravager.json](./51671-rise-of-the-ravager.json) |
@@ -8903,6 +8905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roach Hotel | 286121 | [286121-roach-hotel.json](./286121-roach-hotel.json) |
 | Roach Invasion | 246802 | [246802-roach-invasion.json](./246802-roach-invasion.json) |
 | Roach Killer | 116904 | [116904-roach-killer.json](./116904-roach-killer.json) |
+| Roach Post | 347400 | [347400-roach-post.json](./347400-roach-post.json) |
 | Roach Race | 215843 | [215843-roach-race.json](./215843-roach-race.json) |
 | Roach Raid | 217177 | [217177-roach-raid.json](./217177-roach-raid.json) |
 | Roach Royale | 275331 | [275331-roach-royale.json](./275331-roach-royale.json) |
@@ -10740,6 +10743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Samurai | 266278 | [266278-rogue-samurai.json](./266278-rogue-samurai.json) |
 | Rogue Seas | 176830 | [176830-rogue-seas.json](./176830-rogue-seas.json) |
 | Rogue Sentry | 142987 | [142987-rogue-sentry.json](./142987-rogue-sentry.json) |
+| Rogue Shapes | 347396 | [347396-rogue-shapes.json](./347396-rogue-shapes.json) |
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
 | Rogue Shift | 139630 | [139630-rogue-shift.json](./139630-rogue-shift.json) |
 | Rogue Shift | 75367 | [75367-rogue-shift.json](./75367-rogue-shift.json) |
@@ -11587,12 +11591,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Football: Abandoned Factory | 359642 | [359642-room-football-abandoned-factory.json](./359642-room-football-abandoned-factory.json) |
 | Room Football: Apocalyptic Wasteland | 368223 | [368223-room-football-apocalyptic-wasteland.json](./368223-room-football-apocalyptic-wasteland.json) |
 | Room Football: Cursed West | 368545 | [368545-room-football-cursed-west.json](./368545-room-football-cursed-west.json) |
+| Room Football: Dark Place | 347420 | [347420-room-football-dark-place.json](./347420-room-football-dark-place.json) |
 | Room Football: Hangar | 371034 | [371034-room-football-hangar.json](./371034-room-football-hangar.json) |
 | Room Football: Junk Town | 368588 | [368588-room-football-junk-town.json](./368588-room-football-junk-town.json) |
 | Room Football: Petrol Station | 368527 | [368527-room-football-petrol-station.json](./368527-room-football-petrol-station.json) |
 | Room Football: Ranch | 370713 | [370713-room-football-ranch.json](./370713-room-football-ranch.json) |
 | Room Football: Royale Lands | 368558 | [368558-room-football-royale-lands.json](./368558-room-football-royale-lands.json) |
 | Room Football: Sand Storm | 344105 | [344105-room-football-sand-storm.json](./344105-room-football-sand-storm.json) |
+| Room Football: Shipyard | 347419 | [347419-room-football-shipyard.json](./347419-room-football-shipyard.json) |
 | Room Football: Sun Shrine | 387491 | [387491-room-football-sun-shrine.json](./387491-room-football-sun-shrine.json) |
 | Room Football: Wetlands | 339282 | [339282-room-football-wetlands.json](./339282-room-football-wetlands.json) |
 | Room For One! | 367478 | [367478-room-for-one.json](./367478-room-for-one.json) |
@@ -12333,6 +12339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Trouble: Hidden Honeymoon Havoc | 87093 | [87093-royal-trouble-hidden-honeymoon-havoc.json](./87093-royal-trouble-hidden-honeymoon-havoc.json) |
 | Royal Tumble | 80886 | [80886-royal-tumble.json](./80886-royal-tumble.json) |
 | Royal Verdict | 391160 | [391160-royal-verdict.json](./391160-royal-verdict.json) |
+| Royal Vermin | 347405 | [347405-royal-vermin.json](./347405-royal-vermin.json) |
 | Royal Wars: Farm TD | 329229 | [329229-royal-wars-farm-td.json](./329229-royal-wars-farm-td.json) |
 | Royal Watch: The Throne's Duty | 379976 | [379976-royal-watch-the-thrones-duty.json](./379976-royal-watch-the-thrones-duty.json) |
 | Royal Wedding Quest! | 111263 | [111263-royal-wedding-quest.json](./111263-royal-wedding-quest.json) |
