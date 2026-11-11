@@ -8915,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlowerRock | 301227 | [301227-flowerrock.json](./301227-flowerrock.json) |
 | Flowers 2 by Powgi | 140419 | [140419-flowers-2-by-powgi.json](./140419-flowers-2-by-powgi.json) |
 | Flowers and Deities | 350787 | [350787-flowers-and-deities.json](./350787-flowers-and-deities.json) |
+| Flowers and Favours: Florist Simulator | 349016 | [349016-flowers-and-favours-florist-simulator.json](./349016-flowers-and-favours-florist-simulator.json) |
 | Flowers Are Dead | 124342 | [124342-flowers-are-dead.json](./124342-flowers-are-dead.json) |
 | Flowers Blooming at the End of Summer | 129727 | [129727-flowers-blooming-at-the-end-of-summer.json](./129727-flowers-blooming-at-the-end-of-summer.json) |
 | Flowers Bundle | 213328 | [213328-flowers-bundle.json](./213328-flowers-bundle.json) |
@@ -10503,6 +10504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forged In Dungeon | 289235 | [289235-forged-in-dungeon.json](./289235-forged-in-dungeon.json) |
 | Forged in Epic | 286337 | [286337-forged-in-epic.json](./286337-forged-in-epic.json) |
 | Forged in Fire: Master Smith | 397087 | [397087-forged-in-fire-master-smith.json](./397087-forged-in-fire-master-smith.json) |
+| Forged Into History: Speedway Odyssey | 349013 | [349013-forged-into-history-speedway-odyssey.json](./349013-forged-into-history-speedway-odyssey.json) |
 | Forged of Blood | 27954 | [27954-forged-of-blood.json](./27954-forged-of-blood.json) |
 | Forged: Reconquest | 392706 | [392706-forged-reconquest.json](./392706-forged-reconquest.json) |
 | Forgekeepers | 332542 | [332542-forgekeepers.json](./332542-forgekeepers.json) |
