@@ -2729,6 +2729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardchery | 267487 | [267487-cardchery.json](./267487-cardchery.json) |
 | Cardcore | 112475 | [112475-cardcore.json](./112475-cardcore.json) |
 | CardCraft | 76552 | [76552-cardcraft.json](./76552-cardcraft.json) |
+| CardCraft Champions | 337317 | [337317-cardcraft-champions.json](./337317-cardcraft-champions.json) |
 | Carderia | 323309 | [323309-carderia.json](./323309-carderia.json) |
 | Cardfight Area | 321423 | [321423-cardfight-area.json](./321423-cardfight-area.json) |
 | Cardfight!! Online | 59013 | [59013-cardfight-online.json](./59013-cardfight-online.json) |
@@ -10221,6 +10222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citystate | 84003 | [84003-citystate.json](./84003-citystate.json) |
 | Citystate II | 142168 | [142168-citystate-ii.json](./142168-citystate-ii.json) |
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
+| Cityventory | 337329 | [337329-cityventory.json](./337329-cityventory.json) |
 | CityVille | 80153 | [80153-cityville.json](./80153-cityville.json) |
 | CityVille 2 | 64246 | [64246-cityville-2.json](./64246-cityville-2.json) |
 | CityWarHeroes VR | 128109 | [128109-citywarheroes-vr.json](./128109-citywarheroes-vr.json) |
@@ -20114,6 +20116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Journey | 260193 | [260193-crystal-journey.json](./260193-crystal-journey.json) |
 | Crystal Journey: Lum's Adventure | 266620 | [266620-crystal-journey-lums-adventure.json](./266620-crystal-journey-lums-adventure.json) |
 | Crystal Keepers | 236097 | [236097-crystal-keepers.json](./236097-crystal-keepers.json) |
+| Crystal Keepers | 337348 | [337348-crystal-keepers.json](./337348-crystal-keepers.json) |
 | Crystal Key 2: The Far Realm | 25419 | [25419-crystal-key-2-the-far-realm.json](./25419-crystal-key-2-the-far-realm.json) |
 | Crystal Kingdom | 62818 | [62818-crystal-kingdom.json](./62818-crystal-kingdom.json) |
 | Crystal Kingdom Dizzy | 12020 | [12020-crystal-kingdom-dizzy.json](./12020-crystal-kingdom-dizzy.json) |
