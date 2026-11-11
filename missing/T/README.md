@@ -2775,7 +2775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasokare Hotel | 202675 | [202675-tasokare-hotel.json](./202675-tasokare-hotel.json) |
 | Tasokare Hotel Re:newal | 260090 | [260090-tasokare-hotel-re-newal.json](./260090-tasokare-hotel-re-newal.json) |
 | Tasokare Hotel: Tsubomi | 408273 | [408273-tasokare-hotel-tsubomi.json](./408273-tasokare-hotel-tsubomi.json) |
-| Tasomachi: Behind the Twilight | 121481 | [121481-tasomachi-behind-the-twilight.json](./121481-tasomachi-behind-the-twilight.json) |
 | Tass Times in Tonetown | 29031 | [29031-tass-times-in-tonetown.json](./29031-tass-times-in-tonetown.json) |
 | Tassilo's Quest | 198637 | [198637-tassilos-quest.json](./198637-tassilos-quest.json) |
 | Taste My Arsenal | 103981 | [103981-taste-my-arsenal.json](./103981-taste-my-arsenal.json) |
@@ -6177,7 +6176,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing World of Gumball: Fellowship of the Things | 279435 | [279435-the-amazing-world-of-gumball-fellowship-of-the-things.json](./279435-the-amazing-world-of-gumball-fellowship-of-the-things.json) |
 | The Amazon Trail | 2306 | [2306-the-amazon-trail.json](./2306-the-amazon-trail.json) |
 | The Amazonian Dread | 107532 | [107532-the-amazonian-dread.json](./107532-the-amazonian-dread.json) |
-| The Ambassador: Fractured Timelines | 128228 | [128228-the-ambassador-fractured-timelines.json](./128228-the-ambassador-fractured-timelines.json) |
 | The Amber Throne | 19517 | [19517-the-amber-throne.json](./19517-the-amber-throne.json) |
 | The Amen Variations | 382200 | [382200-the-amen-variations.json](./382200-the-amen-variations.json) |
 | The American Challenge: A Sailing Simulation | 12253 | [12253-the-american-challenge-a-sailing-simulation.json](./12253-the-american-challenge-a-sailing-simulation.json) |
@@ -24893,7 +24891,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Breakers Camp | 270005 | [270005-tiny-breakers-camp.json](./270005-tiny-breakers-camp.json) |
 | Tiny Bridge: Ratventure | 35486 | [35486-tiny-bridge-ratventure.json](./35486-tiny-bridge-ratventure.json) |
 | Tiny Brush | 232583 | [232583-tiny-brush.json](./232583-tiny-brush.json) |
-| Tiny Bubbles | 54978 | [54978-tiny-bubbles.json](./54978-tiny-bubbles.json) |
 | Tiny Builders Coloring Book for Kids | 402014 | [402014-tiny-builders-coloring-book-for-kids.json](./402014-tiny-builders-coloring-book-for-kids.json) |
 | Tiny Bullets | 4146 | [4146-tiny-bullets.json](./4146-tiny-bullets.json) |
 | Tiny Cafe | 319297 | [319297-tiny-cafe.json](./319297-tiny-cafe.json) |
