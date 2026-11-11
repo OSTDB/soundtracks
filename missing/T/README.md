@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Soccer | 42514 | [42514-tactical-soccer.json](./42514-tactical-soccer.json) |
 | Tactical Soccer the New Season | 34477 | [34477-tactical-soccer-the-new-season.json](./34477-tactical-soccer-the-new-season.json) |
 | Tactical Soldier: Undead Rising | 175589 | [175589-tactical-soldier-undead-rising.json](./175589-tactical-soldier-undead-rising.json) |
+| Tactical Strike | 318676 | [318676-tactical-strike.json](./318676-tactical-strike.json) |
 | Tactical Strike: Special Forces Shooter | 310710 | [310710-tactical-strike-special-forces-shooter.json](./310710-tactical-strike-special-forces-shooter.json) |
 | Tactical Vanguard Saga | 167522 | [167522-tactical-vanguard-saga.json](./167522-tactical-vanguard-saga.json) |
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
@@ -2214,6 +2215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tano's Fate | 104932 | [104932-tanos-fate.json](./104932-tanos-fate.json) |
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
 | Tanoshii Youchien: Kotoba to Asobo! | 69397 | [69397-tanoshii-youchien-kotoba-to-asobo.json](./69397-tanoshii-youchien-kotoba-to-asobo.json) |
+| Tanoshiku Omoshiroku Kanken Shougakusei | 318674 | [318674-tanoshiku-omoshiroku-kanken-shougakusei.json](./318674-tanoshiku-omoshiroku-kanken-shougakusei.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
 | Tanques! | 230671 | [230671-tanques.json](./230671-tanques.json) |
 | Tansaikigou: Sec Life, Monochrome Cube | 376603 | [376603-tansaikigou-sec-life-monochrome-cube.json](./376603-tansaikigou-sec-life-monochrome-cube.json) |
@@ -17594,7 +17596,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3 | 141634 | [141634-the-sims-3.json](./141634-the-sims-3.json) |
 | The Sims 3 | 248566 | [248566-the-sims-3.json](./248566-the-sims-3.json) |
 | The Sims 3 | 248567 | [248567-the-sims-3.json](./248567-the-sims-3.json) |
-| The Sims 3 | 248568 | [248568-the-sims-3.json](./248568-the-sims-3.json) |
 | The Sims 3 | 327976 | [327976-the-sims-3.json](./327976-the-sims-3.json) |
 | The Sims 3: 70s, 80s, & 90s Stuff | 13124 | [13124-the-sims-3-70s-80s-and-90s-stuff.json](./13124-the-sims-3-70s-80s-and-90s-stuff.json) |
 | The Sims 3: Ambitions | 13098 | [13098-the-sims-3-ambitions.json](./13098-the-sims-3-ambitions.json) |
@@ -25590,6 +25591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Burn in Memory | 33740 | [33740-to-burn-in-memory.json](./33740-to-burn-in-memory.json) |
 | To Burn in Memory: Anniversary Edition | 110371 | [110371-to-burn-in-memory-anniversary-edition.json](./110371-to-burn-in-memory-anniversary-edition.json) |
 | To Carry a Sword | 190440 | [190440-to-carry-a-sword.json](./190440-to-carry-a-sword.json) |
+| To Clean The Mountain | 318239 | [318239-to-clean-the-mountain.json](./318239-to-clean-the-mountain.json) |
 | To Crime Nirvana | 180064 | [180064-to-crime-nirvana.json](./180064-to-crime-nirvana.json) |
 | To Crown or to Destroy | 373183 | [373183-to-crown-or-to-destroy.json](./373183-to-crown-or-to-destroy.json) |
 | To Cure Man | 344510 | [344510-to-cure-man.json](./344510-to-cure-man.json) |
@@ -26100,6 +26102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toki Tori Collection | 122202 | [122202-toki-tori-collection.json](./122202-toki-tori-collection.json) |
 | Toki Tori: Ultimate Edition | 342781 | [342781-toki-tori-ultimate-edition.json](./342781-toki-tori-ultimate-edition.json) |
 | Toki: Retrollector | 112962 | [112962-toki-retrollector.json](./112962-toki-retrollector.json) |
+| Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san Puzzle Party | 318681 | [318681-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-puzzle-party.json](./318681-tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-puzzle-party.json) |
 | Tokidoki Frenzies | 249656 | [249656-tokidoki-frenzies.json](./249656-tokidoki-frenzies.json) |
 | Tokigeon | 398399 | [398399-tokigeon.json](./398399-tokigeon.json) |
 | Tokimal | 421602 | [421602-tokimal.json](./421602-tokimal.json) |
