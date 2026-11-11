@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen of the Pack | 161577 | [161577-queen-of-the-pack.json](./161577-queen-of-the-pack.json) |
 | Queen Of The Sands | 415079 | [415079-queen-of-the-sands.json](./415079-queen-of-the-sands.json) |
 | Queen of the Vesparians | 326015 | [326015-queen-of-the-vesparians.json](./326015-queen-of-the-vesparians.json) |
+| Queen of Treasure Isle | 330045 | [330045-queen-of-treasure-isle.json](./330045-queen-of-treasure-isle.json) |
 | Queen of Zarkov | 173288 | [173288-queen-of-zarkov.json](./173288-queen-of-zarkov.json) |
 | Queen Pirate: Love Adrift | 298992 | [298992-queen-pirate-love-adrift.json](./298992-queen-pirate-love-adrift.json) |
 | Queen Rules | 144057 | [144057-queen-rules.json](./144057-queen-rules.json) |
