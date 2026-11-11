@@ -3932,6 +3932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange | 241831 | [241831-orange.json](./241831-orange.json) |
 | Orange | 377343 | [377343-orange.json](./377343-orange.json) |
 | Orange Adventure | 31860 | [31860-orange-adventure.json](./31860-orange-adventure.json) |
+| Orange Alert | 386661 | [386661-orange-alert.json](./386661-orange-alert.json) |
 | Orange Blossoms | 311755 | [311755-orange-blossoms.json](./311755-orange-blossoms.json) |
 | Orange Cast | 104986 | [104986-orange-cast.json](./104986-orange-cast.json) |
 | Orange Cast: Prologue | 151198 | [151198-orange-cast-prologue.json](./151198-orange-cast-prologue.json) |
