@@ -12954,6 +12954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog 'n Friends | 229097 | [229097-frog-n-friends.json](./229097-frog-n-friends.json) |
 | Frog 'N Roll | 229276 | [229276-frog-n-roll.json](./229276-frog-n-roll.json) |
 | Frog 'n' Roll | 301816 | [301816-frog-n-roll.json](./301816-frog-n-roll.json) |
+| Frog & Blade | 363090 | [363090-frog-and-blade.json](./363090-frog-and-blade.json) |
 | Frog & Insects | 345763 | [345763-frog-and-insects.json](./345763-frog-and-insects.json) |
 | Frog & Spiders | 39293 | [39293-frog-and-spiders.json](./39293-frog-and-spiders.json) |
 | Frog 64 | 394308 | [394308-frog-64.json](./394308-frog-64.json) |
