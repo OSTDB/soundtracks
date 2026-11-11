@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Magical Girl Chiru Chiru Michiru Part 2 | 35043 | [35043-idol-magical-girl-chiru-chiru-michiru-part-2.json](./35043-idol-magical-girl-chiru-chiru-michiru-part-2.json) |
 | Idol Mahjong Final Romance 4 | 202785 | [202785-idol-mahjong-final-romance-4.json](./202785-idol-mahjong-final-romance-4.json) |
 | Idol Mahjong Final Romance 4 Remaster | 273652 | [273652-idol-mahjong-final-romance-4-remaster.json](./273652-idol-mahjong-final-romance-4-remaster.json) |
+| Idol Maker VR | 322286 | [322286-idol-maker-vr.json](./322286-idol-maker-vr.json) |
 | Idol Manager | 95215 | [95215-idol-manager.json](./95215-idol-manager.json) |
 | Idol Manager: Virtual Venture | 401008 | [401008-idol-manager-virtual-venture.json](./401008-idol-manager-virtual-venture.json) |
 | Idol Masters | 110012 | [110012-idol-masters.json](./110012-idol-masters.json) |
@@ -4835,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insectophobia : Episode 1 | 38767 | [38767-insectophobia-episode-1.json](./38767-insectophobia-episode-1.json) |
 | Insector Hecti in the Interchange | 67272 | [67272-insector-hecti-in-the-interchange.json](./67272-insector-hecti-in-the-interchange.json) |
 | Insector War | 217711 | [217711-insector-war.json](./217711-insector-war.json) |
+| Insector X | 322289 | [322289-insector-x.json](./322289-insector-x.json) |
 | Insector X | 39455 | [39455-insector-x.json](./39455-insector-x.json) |
 | Insector X | 70757 | [70757-insector-x.json](./70757-insector-x.json) |
 | Insects | 112800 | [112800-insects.json](./112800-insects.json) |
