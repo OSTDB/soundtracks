@@ -256,6 +256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dad’s Gonna Be a Travel Influencer. | 403932 | [403932-dad-s-gonna-be-a-travel-influencer.json](./403932-dad-s-gonna-be-a-travel-influencer.json) |
 | Dad's Last Fishing Trip | 328894 | [328894-dads-last-fishing-trip.json](./328894-dads-last-fishing-trip.json) |
 | Dad's Monster House | 167452 | [167452-dads-monster-house.json](./167452-dads-monster-house.json) |
+| Dad's Monster House 2: Medal | 346278 | [346278-dads-monster-house-2-medal.json](./346278-dads-monster-house-2-medal.json) |
 | Dad's Office 1998 | 359674 | [359674-dads-office-1998.json](./359674-dads-office-1998.json) |
 | Daddy | 223230 | [223230-daddy.json](./223230-daddy.json) |
 | Daddy Comes Home | 330477 | [330477-daddy-comes-home.json](./330477-daddy-comes-home.json) |
@@ -4408,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Blue | 86528 | [86528-deadly-blue.json](./86528-deadly-blue.json) |
 | Deadly Broadcast | 153878 | [153878-deadly-broadcast.json](./153878-deadly-broadcast.json) |
 | Deadly Burrito | 111506 | [111506-deadly-burrito.json](./111506-deadly-burrito.json) |
+| Deadly Chance | 346301 | [346301-deadly-chance.json](./346301-deadly-chance.json) |
 | Deadly Contact | 76810 | [76810-deadly-contact.json](./76810-deadly-contact.json) |
 | Deadly Contagion | 275130 | [275130-deadly-contagion.json](./275130-deadly-contagion.json) |
 | Deadly Cosmic | 146956 | [146956-deadly-cosmic.json](./146956-deadly-cosmic.json) |
@@ -7593,6 +7595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descend With Caution | 371805 | [371805-descend-with-caution.json](./371805-descend-with-caution.json) |
 | Descend.gg | 232661 | [232661-descend-gg.json](./232661-descend-gg.json) |
 | Descendant | 309422 | [309422-descendant.json](./309422-descendant.json) |
+| Descendant of Night | 346309 | [346309-descendant-of-night.json](./346309-descendant-of-night.json) |
 | Descendants of the Hellbeast | 184250 | [184250-descendants-of-the-hellbeast.json](./184250-descendants-of-the-hellbeast.json) |
 | Descended | 265589 | [265589-descended.json](./265589-descended.json) |
 | Descenders | 52200 | [52200-descenders.json](./52200-descenders.json) |
@@ -9715,6 +9718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digger Man | 39631 | [39631-digger-man.json](./39631-digger-man.json) |
 | Digger Online | 17084 | [17084-digger-online.json](./17084-digger-online.json) |
 | Digger Simulator 2011 | 52907 | [52907-digger-simulator-2011.json](./52907-digger-simulator-2011.json) |
+| Digger Simulator: Gold Rush | 345720 | [345720-digger-simulator-gold-rush.json](./345720-digger-simulator-gold-rush.json) |
 | Digger T. Rock: The Legend of the Lost City | 12932 | [12932-digger-t-rock-the-legend-of-the-lost-city.json](./12932-digger-t-rock-the-legend-of-the-lost-city.json) |
 | Digger: A Quest for Hidden Gems | 108111 | [108111-digger-a-quest-for-hidden-gems.json](./108111-digger-a-quest-for-hidden-gems.json) |
 | Digger: Goblin Caves | 399317 | [399317-digger-goblin-caves.json](./399317-digger-goblin-caves.json) |
