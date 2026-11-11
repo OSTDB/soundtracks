@@ -1016,7 +1016,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -13527,6 +13526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombing!!: A Graffiti Sandbox | 144933 | [144933-bombing-a-graffiti-sandbox.json](./144933-bombing-a-graffiti-sandbox.json) |
 | Bombini | 129579 | [129579-bombini.json](./129579-bombini.json) |
 | BomBliss | 263865 | [263865-bombliss.json](./263865-bombliss.json) |
+| BombMachine Gunzohg | 365336 | [365336-bombmachine-gunzohg.json](./365336-bombmachine-gunzohg.json) |
 | Bombman | 111190 | [111190-bombman.json](./111190-bombman.json) |
 | Bombman | 42141 | [42141-bombman.json](./42141-bombman.json) |
 | BombMaze | 370168 | [370168-bombmaze.json](./370168-bombmaze.json) |
@@ -19273,6 +19273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus-Simulator 2012 | 16700 | [16700-bus-simulator-2012.json](./16700-bus-simulator-2012.json) |
 | Bus-Simulator 2016 | 52669 | [52669-bus-simulator-2016.json](./52669-bus-simulator-2016.json) |
 | BUS: Bro U Survived | 290727 | [290727-bus-bro-u-survived.json](./290727-bus-bro-u-survived.json) |
+| Buscabit: A Treasure Hunter Adventure | 366141 | [366141-buscabit-a-treasure-hunter-adventure.json](./366141-buscabit-a-treasure-hunter-adventure.json) |
 | Buscando a Bigotes | 417981 | [417981-buscando-a-bigotes.json](./417981-buscando-a-bigotes.json) |
 | Bush 1022 | 419643 | [419643-bush-1022.json](./419643-bush-1022.json) |
 | Bush Buck | 14356 | [14356-bush-buck.json](./14356-bush-buck.json) |
