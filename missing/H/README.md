@@ -10643,6 +10643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horns of Fear | 74436 | [74436-horns-of-fear.json](./74436-horns-of-fear.json) |
 | Horns of Justice | 211290 | [211290-horns-of-justice.json](./211290-horns-of-justice.json) |
 | Horny Academy | 390747 | [390747-horny-academy.json](./390747-horny-academy.json) |
+| Horny Adventurer Karen | 382666 | [382666-horny-adventurer-karen.json](./382666-horny-adventurer-karen.json) |
 | Horny Alice: Gothic Run | 148341 | [148341-horny-alice-gothic-run.json](./148341-horny-alice-gothic-run.json) |
 | Horny Clinic | 226188 | [226188-horny-clinic.json](./226188-horny-clinic.json) |
 | Horny Dungeon | 272285 | [272285-horny-dungeon.json](./272285-horny-dungeon.json) |
@@ -12344,6 +12345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human Simulator | 128246 | [128246-human-simulator.json](./128246-human-simulator.json) |
 | Human Souvenir | 298369 | [298369-human-souvenir.json](./298369-human-souvenir.json) |
 | Human Spiderweb | 374230 | [374230-human-spiderweb.json](./374230-human-spiderweb.json) |
+| Human Spirit Agency: A Salvageable Tragedy | 382678 | [382678-human-spirit-agency-a-salvageable-tragedy.json](./382678-human-spirit-agency-a-salvageable-tragedy.json) |
 | Human Sports Festival | 57955 | [57955-human-sports-festival.json](./57955-human-sports-festival.json) |
 | Human Upgrade Labs | 298114 | [298114-human-upgrade-labs.json](./298114-human-upgrade-labs.json) |
 | Human Vs Evil | 148316 | [148316-human-vs-evil.json](./148316-human-vs-evil.json) |
