@@ -1083,6 +1083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eclipse | 218163 | [218163-eclipse.json](./218163-eclipse.json) |
 | Eclipse | 260856 | [260856-eclipse.json](./260856-eclipse.json) |
 | Eclipse | 295243 | [295243-eclipse.json](./295243-eclipse.json) |
+| Eclipse | 347964 | [347964-eclipse.json](./347964-eclipse.json) |
 | Eclipse 2: Invasion of Darkness | 293586 | [293586-eclipse-2-invasion-of-darkness.json](./293586-eclipse-2-invasion-of-darkness.json) |
 | Eclipse Below | 350628 | [350628-eclipse-below.json](./350628-eclipse-below.json) |
 | Eclipse Breaker | 292411 | [292411-eclipse-breaker.json](./292411-eclipse-breaker.json) |
@@ -2262,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electioneering | 174080 | [174080-electioneering.json](./174080-electioneering.json) |
 | Electoral Carnage | 350040 | [350040-electoral-carnage.json](./350040-electoral-carnage.json) |
 | Electoral Dynasty | 276246 | [276246-electoral-dynasty.json](./276246-electoral-dynasty.json) |
+| Electoral Empire: All Lies Trump Truth | 347969 | [347969-electoral-empire-all-lies-trump-truth.json](./347969-electoral-empire-all-lies-trump-truth.json) |
 | Electra | 229640 | [229640-electra.json](./229640-electra.json) |
 | Electra | 78377 | [78377-electra.json](./78377-electra.json) |
 | Electracy: Signal Lost | 418596 | [418596-electracy-signal-lost.json](./418596-electracy-signal-lost.json) |
@@ -5367,6 +5369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esc Trip | 412735 | [412735-esc-trip.json](./412735-esc-trip.json) |
 | Esc-8-bit | 114369 | [114369-esc-8-bit.json](./114369-esc-8-bit.json) |
 | Esc/ape | 374142 | [374142-esc-ape.json](./374142-esc-ape.json) |
+| Esc4pe! | 347967 | [347967-esc4pe.json](./347967-esc4pe.json) |
 | Esca | 339765 | [339765-esca.json](./339765-esca.json) |
 | Escalar | 245925 | [245925-escalar.json](./245925-escalar.json) |
 | Escalating Duel | 347002 | [347002-escalating-duel.json](./347002-escalating-duel.json) |
