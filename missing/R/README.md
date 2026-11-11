@@ -4214,6 +4214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Orchestra: Ostfront 41-45 | 9409 | [9409-red-orchestra-ostfront-41-45.json](./9409-red-orchestra-ostfront-41-45.json) |
 | Red Out Block | 377788 | [377788-red-out-block.json](./377788-red-out-block.json) |
 | Red Out Block Aim! Shooting | 385946 | [385946-red-out-block-aim-shooting.json](./385946-red-out-block-aim-shooting.json) |
+| Red Oz Part One | 393160 | [393160-red-oz-part-one.json](./393160-red-oz-part-one.json) |
 | Red Panda is Hungry | 331241 | [331241-red-panda-is-hungry.json](./331241-red-panda-is-hungry.json) |
 | Red Panda x Cats Bundle | 331512 | [331512-red-panda-x-cats-bundle.json](./331512-red-panda-x-cats-bundle.json) |
 | Red Panda: The Quiet Path | 373327 | [373327-red-panda-the-quiet-path.json](./373327-red-panda-the-quiet-path.json) |
@@ -8233,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise | 32198 | [32198-rise.json](./32198-rise.json) |
 | Rise | 32218 | [32218-rise.json](./32218-rise.json) |
 | Rise | 338219 | [338219-rise.json](./338219-rise.json) |
+| Rise | 393150 | [393150-rise.json](./393150-rise.json) |
 | Rise & Destroy | 59484 | [59484-rise-and-destroy.json](./59484-rise-and-destroy.json) |
 | Rise & Dine | 380767 | [380767-rise-and-dine.json](./380767-rise-and-dine.json) |
 | Rise & Fall: Online Digital Edition | 306057 | [306057-rise-and-fall-online-digital-edition.json](./306057-rise-and-fall-online-digital-edition.json) |
@@ -8787,6 +8789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivers of Blood | 274789 | [274789-rivers-of-blood.json](./274789-rivers-of-blood.json) |
 | Rivers of Chaos | 296343 | [296343-rivers-of-chaos.json](./296343-rivers-of-chaos.json) |
 | Rivers of Rain | 178148 | [178148-rivers-of-rain.json](./178148-rivers-of-rain.json) |
+| Riverside | 393156 | [393156-riverside.json](./393156-riverside.json) |
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | Riverside Gals | 294099 | [294099-riverside-gals.json](./294099-riverside-gals.json) |
 | Riverside Town | 272102 | [272102-riverside-town.json](./272102-riverside-town.json) |
