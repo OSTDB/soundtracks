@@ -11929,7 +11929,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra Kai 2: Dojos Rising Nemesis Pack | 263194 | [263194-cobra-kai-2-dojos-rising-nemesis-pack.json](./263194-cobra-kai-2-dojos-rising-nemesis-pack.json) |
 | Cobra Kai Collection | 309015 | [309015-cobra-kai-collection.json](./309015-cobra-kai-collection.json) |
 | Cobra Kai: Card Fighter | 143371 | [143371-cobra-kai-card-fighter.json](./143371-cobra-kai-card-fighter.json) |
-| Cobra Kai: The Karate Kid Saga Continues | 137300 | [137300-cobra-kai-the-karate-kid-saga-continues.json](./137300-cobra-kai-the-karate-kid-saga-continues.json) |
 | Cobra Mission | 2457 | [2457-cobra-mission.json](./2457-cobra-mission.json) |
 | Cobra Pinball | 13501 | [13501-cobra-pinball.json](./13501-cobra-pinball.json) |
 | Cobra Strike | 409395 | [409395-cobra-strike.json](./409395-cobra-strike.json) |
