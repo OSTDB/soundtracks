@@ -3298,6 +3298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daze Before Christmas | 7662 | [7662-daze-before-christmas.json](./7662-daze-before-christmas.json) |
 | Dazed In Space | 318460 | [318460-dazed-in-space.json](./318460-dazed-in-space.json) |
 | Dazzeloids | 64351 | [64351-dazzeloids.json](./64351-dazzeloids.json) |
+| Dazzle Dash | 341758 | [341758-dazzle-dash.json](./341758-dazzle-dash.json) |
 | Dazzly Stories: Ambre's Secret | 346723 | [346723-dazzly-stories-ambres-secret.json](./346723-dazzly-stories-ambres-secret.json) |
 | DB2: Disco Boogie of the Dead Beats | 335499 | [335499-db2-disco-boogie-of-the-dead-beats.json](./335499-db2-disco-boogie-of-the-dead-beats.json) |
 | DBall | 339368 | [339368-dball.json](./339368-dball.json) |
@@ -8185,6 +8186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy All Humans!: Clone Carnage | 203364 | [203364-destroy-all-humans-clone-carnage.json](./203364-destroy-all-humans-clone-carnage.json) |
 | Destroy All Humans!: Crypto 137 Edition | 136110 | [136110-destroy-all-humans-crypto-137-edition.json](./136110-destroy-all-humans-crypto-137-edition.json) |
 | Destroy All Humans!: DNA Collector's Edition | 136059 | [136059-destroy-all-humans-dna-collectors-edition.json](./136059-destroy-all-humans-dna-collectors-edition.json) |
+| Destroy All Humans!: Jumbo Pack | 341782 | [341782-destroy-all-humans-jumbo-pack.json](./341782-destroy-all-humans-jumbo-pack.json) |
 | Destroy All Letters | 312763 | [312763-destroy-all-letters.json](./312763-destroy-all-letters.json) |
 | Destroy All the Cubes | 169850 | [169850-destroy-all-the-cubes.json](./169850-destroy-all-the-cubes.json) |
 | Destroy All Zombies | 247974 | [247974-destroy-all-zombies.json](./247974-destroy-all-zombies.json) |
