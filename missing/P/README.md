@@ -734,6 +734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pains 'n' Aches | 408480 | [408480-pains-n-aches.json](./408480-pains-n-aches.json) |
 | PainStation | 175901 | [175901-painstation.json](./175901-painstation.json) |
 | Paint | 260171 | [260171-paint.json](./260171-paint.json) |
+| Paint & Panic Bundle | 345725 | [345725-paint-and-panic-bundle.json](./345725-paint-and-panic-bundle.json) |
 | Paint Ball | 255499 | [255499-paint-ball.json](./255499-paint-ball.json) |
 | Paint Ball | 397656 | [397656-paint-ball.json](./397656-paint-ball.json) |
 | Paint Bowl | 256035 | [256035-paint-bowl.json](./256035-paint-bowl.json) |
@@ -4160,6 +4161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pekka Kana 2 | 94449 | [94449-pekka-kana-2.json](./94449-pekka-kana-2.json) |
 | Pekko Robot | 240280 | [240280-pekko-robot.json](./240280-pekko-robot.json) |
 | Pekku | 360061 | [360061-pekku.json](./360061-pekku.json) |
+| Pekla | 346302 | [346302-pekla.json](./346302-pekla.json) |
 | Peklo | 266230 | [266230-peklo.json](./266230-peklo.json) |
 | Peko Peko Sushi | 96149 | [96149-peko-peko-sushi.json](./96149-peko-peko-sushi.json) |
 | Peko Pop | 227244 | [227244-peko-pop.json](./227244-peko-pop.json) |
@@ -8488,6 +8490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Combat: Zombie Shooter | 377270 | [377270-pixel-combat-zombie-shooter.json](./377270-pixel-combat-zombie-shooter.json) |
 | Pixel Cross Stitch Color by Number - Christmas Pack | 334573 | [334573-pixel-cross-stitch-color-by-number-christmas-pack.json](./334573-pixel-cross-stitch-color-by-number-christmas-pack.json) |
 | Pixel Cross Stitch Color by Number - Winter Pack | 334566 | [334566-pixel-cross-stitch-color-by-number-winter-pack.json](./334566-pixel-cross-stitch-color-by-number-winter-pack.json) |
+| Pixel Cross Stitch Color by Number Seasons Collection | 345721 | [345721-pixel-cross-stitch-color-by-number-seasons-collection.json](./345721-pixel-cross-stitch-color-by-number-seasons-collection.json) |
 | Pixel Cross Stitch Color by Number: Cute Pack | 374094 | [374094-pixel-cross-stitch-color-by-number-cute-pack.json](./374094-pixel-cross-stitch-color-by-number-cute-pack.json) |
 | Pixel Cross Stitch Color by Number: Cute Pack 2 | 374096 | [374096-pixel-cross-stitch-color-by-number-cute-pack-2.json](./374096-pixel-cross-stitch-color-by-number-cute-pack-2.json) |
 | Pixel Cross Stitch Color by Number: Landscapes Pack 5 | 374095 | [374095-pixel-cross-stitch-color-by-number-landscapes-pack-5.json](./374095-pixel-cross-stitch-color-by-number-landscapes-pack-5.json) |
@@ -19835,6 +19838,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles | 423881 | [423881-puzzles.json](./423881-puzzles.json) |
 | Puzzles & Board Games Mega Collection | 105182 | [105182-puzzles-and-board-games-mega-collection.json](./105182-puzzles-and-board-games-mega-collection.json) |
 | Puzzles & Chaos | 301582 | [301582-puzzles-and-chaos.json](./301582-puzzles-and-chaos.json) |
+| Puzzles & Colors: Games for Kids - Christmas | 345735 | [345735-puzzles-and-colors-games-for-kids-christmas.json](./345735-puzzles-and-colors-games-for-kids-christmas.json) |
+| Puzzles & Colors: Games for Kids - Dinosaurs | 345734 | [345734-puzzles-and-colors-games-for-kids-dinosaurs.json](./345734-puzzles-and-colors-games-for-kids-dinosaurs.json) |
+| Puzzles & Colors: Games for Kids - Farm Animals | 345733 | [345733-puzzles-and-colors-games-for-kids-farm-animals.json](./345733-puzzles-and-colors-games-for-kids-farm-animals.json) |
+| Puzzles & Colors: Games for Kids - Halloween | 345732 | [345732-puzzles-and-colors-games-for-kids-halloween.json](./345732-puzzles-and-colors-games-for-kids-halloween.json) |
+| Puzzles & Colors: Games for Kids - Puzzles & Colors Game for Kids 500+ Activities Unlock All Bundle | 345736 | [345736-puzzles-and-colors-games-for-kids-puzzles-and-colors-game-for-kids-500-activities-unlock-all-bundle.json](./345736-puzzles-and-colors-games-for-kids-puzzles-and-colors-game-for-kids-500-activities-unlock-all-bundle.json) |
+| Puzzles & Colors: Games for Kids - Savanna Animals | 345729 | [345729-puzzles-and-colors-games-for-kids-savanna-animals.json](./345729-puzzles-and-colors-games-for-kids-savanna-animals.json) |
+| Puzzles & Colors: Games for Kids - Sea Animals | 345730 | [345730-puzzles-and-colors-games-for-kids-sea-animals.json](./345730-puzzles-and-colors-games-for-kids-sea-animals.json) |
+| Puzzles & Colors: Games for Kids - Space | 345731 | [345731-puzzles-and-colors-games-for-kids-space.json](./345731-puzzles-and-colors-games-for-kids-space.json) |
+| Puzzles & Colors: Games for Kids - Toddler Coloring Book Draw Paint | 345722 | [345722-puzzles-and-colors-games-for-kids-toddler-coloring-book-draw-paint.json](./345722-puzzles-and-colors-games-for-kids-toddler-coloring-book-draw-paint.json) |
 | Puzzles & Conquest | 234451 | [234451-puzzles-and-conquest.json](./234451-puzzles-and-conquest.json) |
 | Puzzles & Survival | 215091 | [215091-puzzles-and-survival.json](./215091-puzzles-and-survival.json) |
 | Puzzles and Pieces | 304081 | [304081-puzzles-and-pieces.json](./304081-puzzles-and-pieces.json) |
