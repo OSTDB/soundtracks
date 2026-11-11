@@ -7618,6 +7618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chair Across the Table Stayed Empty | 416587 | [416587-the-chair-across-the-table-stayed-empty.json](./416587-the-chair-across-the-table-stayed-empty.json) |
 | The Chalice of Illusion | 285547 | [285547-the-chalice-of-illusion.json](./285547-the-chalice-of-illusion.json) |
 | The Chalice of Mostania | 122986 | [122986-the-chalice-of-mostania.json](./122986-the-chalice-of-mostania.json) |
+| The Chalice of Souls | 326882 | [326882-the-chalice-of-souls.json](./326882-the-chalice-of-souls.json) |
 | The Chalk | 244775 | [244775-the-chalk.json](./244775-the-chalk.json) |
 | The Challenge | 32235 | [32235-the-challenge.json](./32235-the-challenge.json) |
 | The Challenge of Nexar | 11149 | [11149-the-challenge-of-nexar.json](./11149-the-challenge-of-nexar.json) |
@@ -8485,6 +8486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Fever | 210551 | [210551-the-dark-fever.json](./210551-the-dark-fever.json) |
 | The Dark Field | 402743 | [402743-the-dark-field.json](./402743-the-dark-field.json) |
 | The Dark Forest Calls | 420350 | [420350-the-dark-forest-calls.json](./420350-the-dark-forest-calls.json) |
+| The Dark Gift | 326896 | [326896-the-dark-gift.json](./326896-the-dark-gift.json) |
 | The Dark Half | 71515 | [71515-the-dark-half.json](./71515-the-dark-half.json) |
 | The Dark Heart of Balor | 199483 | [199483-the-dark-heart-of-balor.json](./199483-the-dark-heart-of-balor.json) |
 | The Dark Heart of Uukrul | 2463 | [2463-the-dark-heart-of-uukrul.json](./2463-the-dark-heart-of-uukrul.json) |
@@ -24786,6 +24788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinker Islands | 410820 | [410820-tinker-islands.json](./410820-tinker-islands.json) |
 | Tinker Pilot | 226478 | [226478-tinker-pilot.json](./226478-tinker-pilot.json) |
 | Tinker Racers | 129739 | [129739-tinker-racers.json](./129739-tinker-racers.json) |
+| Tinker Shot | 326879 | [326879-tinker-shot.json](./326879-tinker-shot.json) |
 | Tinker Tactics | 382545 | [382545-tinker-tactics.json](./382545-tinker-tactics.json) |
 | Tinker Tanks | 247666 | [247666-tinker-tanks.json](./247666-tinker-tanks.json) |
 | Tinker Toy Tanks | 371948 | [371948-tinker-toy-tanks.json](./371948-tinker-toy-tanks.json) |
@@ -31947,6 +31950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Bandits | 125430 | [125430-trash-bandits.json](./125430-trash-bandits.json) |
 | Trash Battle | 369795 | [369795-trash-battle.json](./369795-trash-battle.json) |
 | Trash Bunny House | 248983 | [248983-trash-bunny-house.json](./248983-trash-bunny-house.json) |
+| Trash Buster Simulator | 326320 | [326320-trash-buster-simulator.json](./326320-trash-buster-simulator.json) |
 | Trash can Army | 278243 | [278243-trash-can-army.json](./278243-trash-can-army.json) |
 | Trash Can Dungeon: Battle Against the Zoo | 171151 | [171151-trash-can-dungeon-battle-against-the-zoo.json](./171151-trash-can-dungeon-battle-against-the-zoo.json) |
 | Trash Can Tactics | 303114 | [303114-trash-can-tactics.json](./303114-trash-can-tactics.json) |
