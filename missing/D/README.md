@@ -5253,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debuff Party | 379824 | [379824-debuff-party.json](./379824-debuff-party.json) |
 | Debug | 190097 | [190097-debug.json](./190097-debug.json) |
 | Debug | 417988 | [417988-debug.json](./417988-debug.json) |
+| Debug Deadline | 327484 | [327484-debug-deadline.json](./327484-debug-deadline.json) |
 | Debug Girl | 275744 | [275744-debug-girl.json](./275744-debug-girl.json) |
 | Debug Life | 339322 | [339322-debug-life.json](./339322-debug-life.json) |
 | Debug Nephemee | 397997 | [397997-debug-nephemee.json](./397997-debug-nephemee.json) |
@@ -9929,6 +9930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Expo Center | 154899 | [154899-digital-expo-center.json](./154899-digital-expo-center.json) |
 | Digital Extreme Sport Games | 98800 | [98800-digital-extreme-sport-games.json](./98800-digital-extreme-sport-games.json) |
 | Digital ez LG | 238912 | [238912-digital-ez-lg.json](./238912-digital-ez-lg.json) |
+| Digital Football League | 327525 | [327525-digital-football-league.json](./327525-digital-football-league.json) |
 | Digital Frida | 226513 | [226513-digital-frida.json](./226513-digital-frida.json) |
 | Digital Girlfriend | 384841 | [384841-digital-girlfriend.json](./384841-digital-girlfriend.json) |
 | Digital Glider Airman | 143655 | [143655-digital-glider-airman.json](./143655-digital-glider-airman.json) |
@@ -14337,6 +14339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors: Haunted Tales of Lantern House | 337769 | [337769-doors-haunted-tales-of-lantern-house.json](./337769-doors-haunted-tales-of-lantern-house.json) |
 | Doors: Origins | 202396 | [202396-doors-origins.json](./202396-doors-origins.json) |
 | Doors: Paradox | 174803 | [174803-doors-paradox.json](./174803-doors-paradox.json) |
+| Doors: The Game! | 327510 | [327510-doors-the-game.json](./327510-doors-the-game.json) |
 | Doors24 | 271095 | [271095-doors24.json](./271095-doors24.json) |
 | Doortal | 159065 | [159065-doortal.json](./159065-doortal.json) |
 | Doorway 2 | 360703 | [360703-doorway-2.json](./360703-doorway-2.json) |
@@ -15724,6 +15727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
 | Dragon Ball Z: Dokkan Battle | 88818 | [88818-dragon-ball-z-dokkan-battle.json](./88818-dragon-ball-z-dokkan-battle.json) |
 | Dragon Ball Z: Dragon Battlers | 78235 | [78235-dragon-ball-z-dragon-battlers.json](./78235-dragon-ball-z-dragon-battlers.json) |
+| Dragon Ball Z: Earth Defender | 327475 | [327475-dragon-ball-z-earth-defender.json](./327475-dragon-ball-z-earth-defender.json) |
 | Dragon Ball Z: Extreme Butouden | 20033 | [20033-dragon-ball-z-extreme-butouden.json](./20033-dragon-ball-z-extreme-butouden.json) |
 | Dragon Ball Z: Final Bout | 229063 | [229063-dragon-ball-z-final-bout.json](./229063-dragon-ball-z-final-bout.json) |
 | Dragon Ball Z: Gekitou Tenkaichi Budoukai | 2578 | [2578-dragon-ball-z-gekitou-tenkaichi-budoukai.json](./2578-dragon-ball-z-gekitou-tenkaichi-budoukai.json) |
