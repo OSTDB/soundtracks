@@ -2774,6 +2774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva F 2nd | 9626 | [9626-hatsune-miku-project-diva-f-2nd.json](./9626-hatsune-miku-project-diva-f-2nd.json) |
 | Hatsune Miku: Project Diva Future Tone | 25821 | [25821-hatsune-miku-project-diva-future-tone.json](./25821-hatsune-miku-project-diva-future-tone.json) |
 | Hatsune Miku: Project Diva Future Tone - Colorful Tone | 353606 | [353606-hatsune-miku-project-diva-future-tone-colorful-tone.json](./353606-hatsune-miku-project-diva-future-tone-colorful-tone.json) |
+| Hatsune Miku: Project Diva Future Tone - Future Sound | 353531 | [353531-hatsune-miku-project-diva-future-tone-future-sound.json](./353531-hatsune-miku-project-diva-future-tone-future-sound.json) |
 | Hatsune Miku: Project Diva Future Tone DX | 117659 | [117659-hatsune-miku-project-diva-future-tone-dx.json](./117659-hatsune-miku-project-diva-future-tone-dx.json) |
 | Hatsune Miku: Project Diva Future Tone DX - Memorial Pack | 167080 | [167080-hatsune-miku-project-diva-future-tone-dx-memorial-pack.json](./167080-hatsune-miku-project-diva-future-tone-dx-memorial-pack.json) |
 | Hatsune Miku: Project DIVA Future Tone Season Pass | 372751 | [372751-hatsune-miku-project-diva-future-tone-season-pass.json](./372751-hatsune-miku-project-diva-future-tone-season-pass.json) |
@@ -11655,6 +11656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Designer 2 | 274026 | [274026-house-designer-2.json](./274026-house-designer-2.json) |
 | House Designer: Fix & Flip | 107134 | [107134-house-designer-fix-and-flip.json](./107134-house-designer-fix-and-flip.json) |
 | House Escape | 102270 | [102270-house-escape.json](./102270-house-escape.json) |
+| House Fighters: Total Mess | 353576 | [353576-house-fighters-total-mess.json](./353576-house-fighters-total-mess.json) |
 | House Filled With Cats | 367467 | [367467-house-filled-with-cats.json](./367467-house-filled-with-cats.json) |
 | House Fixer Simulator | 401125 | [401125-house-fixer-simulator.json](./401125-house-fixer-simulator.json) |
 | House Flip | 281329 | [281329-house-flip.json](./281329-house-flip.json) |
