@@ -5011,6 +5011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Dungeon! | 10438 | [10438-instant-dungeon.json](./10438-instant-dungeon.json) |
 | Instant Family Fun Bundle | 406801 | [406801-instant-family-fun-bundle.json](./406801-instant-family-fun-bundle.json) |
 | Instant Farmer | 163167 | [163167-instant-farmer.json](./163167-instant-farmer.json) |
+| Instant Impact | 349533 | [349533-instant-impact.json](./349533-instant-impact.json) |
 | Instant Indie Collection: Vol. 1 | 82543 | [82543-instant-indie-collection-vol-1.json](./82543-instant-indie-collection-vol-1.json) |
 | Instant Indie Collection: Vol. 2 | 99766 | [99766-instant-indie-collection-vol-2.json](./99766-instant-indie-collection-vol-2.json) |
 | Instant Indie Collection: Vol. 3 | 82542 | [82542-instant-indie-collection-vol-3.json](./82542-instant-indie-collection-vol-3.json) |
@@ -6095,6 +6096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iraroji VOW | 191867 | [191867-iraroji-vow.json](./191867-iraroji-vow.json) |
 | Iratus: Lord of the Dead | 93694 | [93694-iratus-lord-of-the-dead.json](./93694-iratus-lord-of-the-dead.json) |
 | Iratus: Necromancer Edition | 154555 | [154555-iratus-necromancer-edition.json](./154555-iratus-necromancer-edition.json) |
+| Irbet Tong | 349529 | [349529-irbet-tong.json](./349529-irbet-tong.json) |
 | Irbot | 233212 | [233212-irbot.json](./233212-irbot.json) |
 | IRec | 30471 | [30471-irec.json](./30471-irec.json) |
 | Irehon | 188413 | [188413-irehon.json](./188413-irehon.json) |
