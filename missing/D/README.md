@@ -1774,6 +1774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Jungle | 207194 | [207194-dark-jungle.json](./207194-dark-jungle.json) |
 | Dark Killing | 266967 | [266967-dark-killing.json](./266967-dark-killing.json) |
 | Dark Kingdom | 42317 | [42317-dark-kingdom.json](./42317-dark-kingdom.json) |
+| Dark Knight | 361965 | [361965-dark-knight.json](./361965-dark-knight.json) |
 | Dark Labyrinth | 348165 | [348165-dark-labyrinth.json](./348165-dark-labyrinth.json) |
 | Dark Lady | 368713 | [368713-dark-lady.json](./368713-dark-lady.json) |
 | Dark Lands | 213707 | [213707-dark-lands.json](./213707-dark-lands.json) |
@@ -14134,6 +14135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Freedom | 91111 | [91111-doomed-freedom.json](./91111-doomed-freedom.json) |
 | Doomed Hell 64 | 332386 | [332386-doomed-hell-64.json](./332386-doomed-hell-64.json) |
 | Doomed Heretic | 104599 | [104599-doomed-heretic.json](./104599-doomed-heretic.json) |
+| Doomed Inheritance | 361963 | [361963-doomed-inheritance.json](./361963-doomed-inheritance.json) |
 | Doomed Kingdoms | 30425 | [30425-doomed-kingdoms.json](./30425-doomed-kingdoms.json) |
 | Doomed Lands | 159575 | [159575-doomed-lands.json](./159575-doomed-lands.json) |
 | Doomed Love | 301944 | [301944-doomed-love.json](./301944-doomed-love.json) |
