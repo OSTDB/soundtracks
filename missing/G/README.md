@@ -1489,6 +1489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Room | 91353 | [91353-game-room.json](./91353-game-room.json) |
 | Game Room Excitement | 205920 | [205920-game-room-excitement.json](./205920-game-room-excitement.json) |
 | Game Royale 2 - The Secret of Jannis Island | 30140 | [30140-game-royale-2-the-secret-of-jannis-island.json](./30140-game-royale-2-the-secret-of-jannis-island.json) |
+| Game Royale Jäger der verlorenen Glatze | 368947 | [368947-game-royale-jager-der-verlorenen-glatze.json](./368947-game-royale-jager-der-verlorenen-glatze.json) |
 | Game Saloon Simulator | 370376 | [370376-game-saloon-simulator.json](./370376-game-saloon-simulator.json) |
 | Game School Pro | 104577 | [104577-game-school-pro.json](./104577-game-school-pro.json) |
 | Game Set and Match 2 | 41001 | [41001-game-set-and-match-2.json](./41001-game-set-and-match-2.json) |
@@ -5536,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow | 233725 | [233725-glow.json](./233725-glow.json) |
 | Glow | 295460 | [295460-glow.json](./295460-glow.json) |
 | Glow | 32346 | [32346-glow.json](./32346-glow.json) |
+| Glow | 369253 | [369253-glow.json](./369253-glow.json) |
 | Glow Air Hockey | 87548 | [87548-glow-air-hockey.json](./87548-glow-air-hockey.json) |
 | Glow Artisan | 67181 | [67181-glow-artisan.json](./67181-glow-artisan.json) |
 | Glow Ball : Bouncy wall | 118283 | [118283-glow-ball-bouncy-wall.json](./118283-glow-ball-bouncy-wall.json) |
@@ -8147,6 +8149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | gRally | 95021 | [95021-grally.json](./95021-grally.json) |
 | Gramik Paint Roller | 253223 | [253223-gramik-paint-roller.json](./253223-gramik-paint-roller.json) |
 | Gramik Paint Roller | 254129 | [254129-gramik-paint-roller.json](./254129-gramik-paint-roller.json) |
+| Gramm | 369476 | [369476-gramm.json](./369476-gramm.json) |
 | Grammar Fun 2nd Grade | 89081 | [89081-grammar-fun-2nd-grade.json](./89081-grammar-fun-2nd-grade.json) |
 | Grammar Monsters | 56981 | [56981-grammar-monsters.json](./56981-grammar-monsters.json) |
 | Grammar Nazi | 93417 | [93417-grammar-nazi.json](./93417-grammar-nazi.json) |
