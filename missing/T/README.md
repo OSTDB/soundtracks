@@ -1011,6 +1011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeyariman | 222300 | [222300-takeyariman.json](./222300-takeyariman.json) |
 | Takin' it to the Hoop | 44338 | [44338-takin-it-to-the-hoop.json](./44338-takin-it-to-the-hoop.json) |
 | Taking Care of Business | 69740 | [69740-taking-care-of-business.json](./69740-taking-care-of-business.json) |
+| Taking London | 341731 | [341731-taking-london.json](./341731-taking-london.json) |
 | Taking My Dark Knight Girlfriend to the Corner Store | 365941 | [365941-taking-my-dark-knight-girlfriend-to-the-corner-store.json](./365941-taking-my-dark-knight-girlfriend-to-the-corner-store.json) |
 | Taking Over Her Heart | 327901 | [327901-taking-over-her-heart.json](./327901-taking-over-her-heart.json) |
 | Taking Root | 263045 | [263045-taking-root.json](./263045-taking-root.json) |
@@ -26199,6 +26200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Twilight Ghost Hunters | 12195 | [12195-tokyo-twilight-ghost-hunters.json](./12195-tokyo-twilight-ghost-hunters.json) |
 | Tokyo Twilight Ghost Hunters: Daybreak Special Gigs | 12209 | [12209-tokyo-twilight-ghost-hunters-daybreak-special-gigs.json](./12209-tokyo-twilight-ghost-hunters-daybreak-special-gigs.json) |
 | Tokyo Underground Killer | 213420 | [213420-tokyo-underground-killer.json](./213420-tokyo-underground-killer.json) |
+| Tokyo Valkyries | 341785 | [341785-tokyo-valkyries.json](./341785-tokyo-valkyries.json) |
 | Tokyo Wall-gai | 220301 | [220301-tokyo-wall-gai.json](./220301-tokyo-wall-gai.json) |
 | Tokyo Walled City | 402258 | [402258-tokyo-walled-city.json](./402258-tokyo-walled-city.json) |
 | Tokyo Waning Moon | 244567 | [244567-tokyo-waning-moon.json](./244567-tokyo-waning-moon.json) |
@@ -28247,6 +28249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Phantasm Dream | 123848 | [123848-touhou-phantasm-dream.json](./123848-touhou-phantasm-dream.json) |
 | Touhou Piano Game: Music Tiles | 216213 | [216213-touhou-piano-game-music-tiles.json](./216213-touhou-piano-game-music-tiles.json) |
 | Touhou Picross: Nazrin's Puzzles | 312688 | [312688-touhou-picross-nazrins-puzzles.json](./312688-touhou-picross-nazrins-puzzles.json) |
+| Touhou Pocket Festival: Show of Scale | 341736 | [341736-touhou-pocket-festival-show-of-scale.json](./341736-touhou-pocket-festival-show-of-scale.json) |
 | Touhou Pocket Wars | 128382 | [128382-touhou-pocket-wars.json](./128382-touhou-pocket-wars.json) |
 | Touhou Pocket Wars Evolution | 128383 | [128383-touhou-pocket-wars-evolution.json](./128383-touhou-pocket-wars-evolution.json) |
 | Touhou Pocket Wars Evolution Plus | 128384 | [128384-touhou-pocket-wars-evolution-plus.json](./128384-touhou-pocket-wars-evolution-plus.json) |
@@ -34391,6 +34394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
 | Tun Town | 68866 | [68866-tun-town.json](./68866-tun-town.json) |
 | Tun Town 2 | 92327 | [92327-tun-town-2.json](./92327-tun-town-2.json) |
+| Tuna Hake's Underwater | 341725 | [341725-tuna-hakes-underwater.json](./341725-tuna-hakes-underwater.json) |
 | Tuna Quest | 427857 | [427857-tuna-quest.json](./427857-tuna-quest.json) |
 | Tuna Rice | 268781 | [268781-tuna-rice.json](./268781-tuna-rice.json) |
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
