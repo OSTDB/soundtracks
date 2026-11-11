@@ -3467,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scopa | 100012 | [100012-scopa.json](./100012-scopa.json) |
 | Scopaesthesia | 256720 | [256720-scopaesthesia.json](./256720-scopaesthesia.json) |
 | Scope | 183180 | [183180-scope.json](./183180-scope.json) |
+| Scope Battle Royale | 364745 | [364745-scope-battle-royale.json](./364745-scope-battle-royale.json) |
 | Scope Out | 372505 | [372505-scope-out.json](./372505-scope-out.json) |
 | Scopecreep | 370891 | [370891-scopecreep.json](./370891-scopecreep.json) |
 | Scopic | 132865 | [132865-scopic.json](./132865-scopic.json) |
@@ -9105,6 +9106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi | 307860 | [307860-shinobi.json](./307860-shinobi.json) |
 | Shinobi | 309488 | [309488-shinobi.json](./309488-shinobi.json) |
 | Shinobi | 339235 | [339235-shinobi.json](./339235-shinobi.json) |
+| Shinobi | 364751 | [364751-shinobi.json](./364751-shinobi.json) |
 | Shinobi | 6899 | [6899-shinobi.json](./6899-shinobi.json) |
 | Shinobi | 86252 | [86252-shinobi.json](./86252-shinobi.json) |
 | Shinobi Blade | 147666 | [147666-shinobi-blade.json](./147666-shinobi-blade.json) |
@@ -9509,6 +9511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shocked | 213458 | [213458-shocked.json](./213458-shocked.json) |
 | Shockface | 418621 | [418621-shockface.json](./418621-shockface.json) |
 | Shocking Twist | 308261 | [308261-shocking-twist.json](./308261-shocking-twist.json) |
+| ShockJump | 364747 | [364747-shockjump.json](./364747-shockjump.json) |
 | Shocklane | 176226 | [176226-shocklane.json](./176226-shocklane.json) |
 | Shockman | 42098 | [42098-shockman.json](./42098-shockman.json) |
 | Shockman Collection Vol. 1 | 289766 | [289766-shockman-collection-vol-1.json](./289766-shockman-collection-vol-1.json) |
@@ -13069,6 +13072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skin Tailor | 382084 | [382084-skin-tailor.json](./382084-skin-tailor.json) |
 | Skin Witch | 126826 | [126826-skin-witch.json](./126826-skin-witch.json) |
 | Skinator | 400360 | [400360-skinator.json](./400360-skinator.json) |
+| SkinCrawler Ranch | 364740 | [364740-skincrawler-ranch.json](./364740-skincrawler-ranch.json) |
 | Skincrawlers | 230292 | [230292-skincrawlers.json](./230292-skincrawlers.json) |
 | Skinfreak | 370337 | [370337-skinfreak.json](./370337-skinfreak.json) |
 | Skingdom | 398555 | [398555-skingdom.json](./398555-skingdom.json) |
@@ -25242,6 +25246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Staggy the Boy Scout Slayer II | 144518 | [144518-staggy-the-boy-scout-slayer-ii.json](./144518-staggy-the-boy-scout-slayer-ii.json) |
 | Stagnated In Slumber | 212250 | [212250-stagnated-in-slumber.json](./212250-stagnated-in-slumber.json) |
 | Stagnatum | 185109 | [185109-stagnatum.json](./185109-stagnatum.json) |
+| Stahldrache | 364952 | [364952-stahldrache.json](./364952-stahldrache.json) |
 | Stahlfeder: Tekkou Hikuudan | 138746 | [138746-stahlfeder-tekkou-hikuudan.json](./138746-stahlfeder-tekkou-hikuudan.json) |
 | Stahlkampf | 179480 | [179480-stahlkampf.json](./179480-stahlkampf.json) |
 | Stained | 17439 | [17439-stained.json](./17439-stained.json) |
@@ -31921,6 +31926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summon The Dudes! | 339480 | [339480-summon-the-dudes.json](./339480-summon-the-dudes.json) |
 | Summon, then build an invincible harem | 216870 | [216870-summon-then-build-an-invincible-harem.json](./216870-summon-then-build-an-invincible-harem.json) |
 | Summona Realm: The Secret Flame | 382366 | [382366-summona-realm-the-secret-flame.json](./382366-summona-realm-the-secret-flame.json) |
+| SummonArk | 364944 | [364944-summonark.json](./364944-summonark.json) |
 | Summoned by a Magic Goddess | 206152 | [206152-summoned-by-a-magic-goddess.json](./206152-summoned-by-a-magic-goddess.json) |
 | Summoned By Accident | 302181 | [302181-summoned-by-accident.json](./302181-summoned-by-accident.json) |
 | Summoned Hero | 258810 | [258810-summoned-hero.json](./258810-summoned-hero.json) |
@@ -37696,6 +37702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Girls | 64902 | [64902-sword-girls.json](./64902-sword-girls.json) |
 | Sword Hero | 243507 | [243507-sword-hero.json](./243507-sword-hero.json) |
 | Sword Hero | 346122 | [346122-sword-hero.json](./346122-sword-hero.json) |
+| Sword Hockey | 364739 | [364739-sword-hockey.json](./364739-sword-hockey.json) |
 | Sword Hunter | 174588 | [174588-sword-hunter.json](./174588-sword-hunter.json) |
 | Sword Islands | 216509 | [216509-sword-islands.json](./216509-sword-islands.json) |
 | Sword King | 119426 | [119426-sword-king.json](./119426-sword-king.json) |
