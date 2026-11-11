@@ -3595,6 +3595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearth and Hamlet | 392964 | [392964-hearth-and-hamlet.json](./392964-hearth-and-hamlet.json) |
 | Hearth Bound | 397128 | [397128-hearth-bound.json](./397128-hearth-bound.json) |
 | Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
+| Hearth's Neighbor 2: Magistarium | 389024 | [389024-hearths-neighbor-2-magistarium.json](./389024-hearths-neighbor-2-magistarium.json) |
 | Hearth's Pantheon | 251957 | [251957-hearths-pantheon.json](./251957-hearths-pantheon.json) |
 | Hearthguard | 356677 | [356677-hearthguard.json](./356677-hearthguard.json) |
 | Hearthkeeper | 253489 | [253489-hearthkeeper.json](./253489-hearthkeeper.json) |
@@ -9601,6 +9602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holostar Command: Quantum Alliance | 150969 | [150969-holostar-command-quantum-alliance.json](./150969-holostar-command-quantum-alliance.json) |
 | Holotanks | 306939 | [306939-holotanks.json](./306939-holotanks.json) |
 | HoloTrials: Case Covered | 409620 | [409620-holotrials-case-covered.json](./409620-holotrials-case-covered.json) |
+| HoloType: Treasure Zombie Island | 388653 | [388653-holotype-treasure-zombie-island.json](./388653-holotype-treasure-zombie-island.json) |
 | Holotyping | 210245 | [210245-holotyping.json](./210245-holotyping.json) |
 | Holotz's Castle | 62145 | [62145-holotzs-castle.json](./62145-holotzs-castle.json) |
 | HoloVista | 139237 | [139237-holovista.json](./139237-holovista.json) |
@@ -13008,7 +13010,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydlide | 411363 | [411363-hydlide.json](./411363-hydlide.json) |
 | Hydlide | 9071 | [9071-hydlide.json](./9071-hydlide.json) |
 | Hydlide 3: Arranged | 388669 | [388669-hydlide-3-arranged.json](./388669-hydlide-3-arranged.json) |
+| Hydlide 3: Special Version | 388656 | [388656-hydlide-3-special-version.json](./388656-hydlide-3-special-version.json) |
 | Hydlide 3: Special Version | 388667 | [388667-hydlide-3-special-version.json](./388667-hydlide-3-special-version.json) |
+| Hydlide 3: The Space Memories | 388649 | [388649-hydlide-3-the-space-memories.json](./388649-hydlide-3-the-space-memories.json) |
 | Hydlide Ev | 407599 | [407599-hydlide-ev.json](./407599-hydlide-ev.json) |
 | Hydlide II: Shine of Darkness | 41724 | [41724-hydlide-ii-shine-of-darkness.json](./41724-hydlide-ii-shine-of-darkness.json) |
 | Hydlide: Arranged | 411370 | [411370-hydlide-arranged.json](./411370-hydlide-arranged.json) |
