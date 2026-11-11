@@ -4508,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marioblade Chronicles 64 | 219044 | [219044-marioblade-chronicles-64.json](./219044-marioblade-chronicles-64.json) |
 | MarioBreak! | 404420 | [404420-mariobreak.json](./404420-mariobreak.json) |
 | MarioKart 64: Recompiled | 378347 | [378347-mariokart-64-recompiled.json](./378347-mariokart-64-recompiled.json) |
+| Mariole | 352988 | [352988-mariole.json](./352988-mariole.json) |
 | Marion Surgical Robot Game | 336905 | [336905-marion-surgical-robot-game.json](./336905-marion-surgical-robot-game.json) |
 | Marionetes | 272692 | [272692-marionetes.json](./272692-marionetes.json) |
 | Marionette | 257518 | [257518-marionette.json](./257518-marionette.json) |
@@ -8628,6 +8629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan NT Warrior Advanced PET: Battle Chip - BoysBomb1 | 353094 | [353094-megaman-nt-warrior-advanced-pet-battle-chip-boysbomb1.json](./353094-megaman-nt-warrior-advanced-pet-battle-chip-boysbomb1.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CannonBall | 352934 | [352934-megaman-nt-warrior-advanced-pet-battle-chip-cannonball.json](./352934-megaman-nt-warrior-advanced-pet-battle-chip-cannonball.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - Counter1 | 353092 | [353092-megaman-nt-warrior-advanced-pet-battle-chip-counter1.json](./353092-megaman-nt-warrior-advanced-pet-battle-chip-counter1.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - CP 1 (Air Hockey 1) | 353019 | [353019-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-air-hockey-1.json](./353019-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-air-hockey-1.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 1 (Bound Note 1) | 352927 | [352927-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-bound-note-1.json](./352927-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-bound-note-1.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 1 (Bound Note 2) | 352928 | [352928-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-bound-note-2.json](./352928-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-bound-note-2.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 1 (Crack Out) | 353033 | [353033-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-crack-out.json](./353033-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-crack-out.json) |
@@ -8638,11 +8640,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 1 (Sand Ring) | 352937 | [352937-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-sand-ring.json](./352937-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-sand-ring.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 1 (Stone Cube) | 353038 | [353038-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-stone-cube.json](./353038-megaman-nt-warrior-advanced-pet-battle-chip-cp-1-stone-cube.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 10 (God Hammer) | 353072 | [353072-megaman-nt-warrior-advanced-pet-battle-chip-cp-10-god-hammer.json](./353072-megaman-nt-warrior-advanced-pet-battle-chip-cp-10-god-hammer.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - CP 10 (Meteor Red Sun) | 352984 | [352984-megaman-nt-warrior-advanced-pet-battle-chip-cp-10-meteor-red-sun.json](./352984-megaman-nt-warrior-advanced-pet-battle-chip-cp-10-meteor-red-sun.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 12 (Holy Dream) | 353090 | [353090-megaman-nt-warrior-advanced-pet-battle-chip-cp-12-holy-dream.json](./353090-megaman-nt-warrior-advanced-pet-battle-chip-cp-12-holy-dream.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Air Hockey 2) | 353020 | [353020-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-air-hockey-2.json](./353020-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-air-hockey-2.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Air Hockey 3) | 353021 | [353021-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-air-hockey-3.json](./353021-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-air-hockey-3.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Bound Note 3) | 352929 | [352929-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-bound-note-3.json](./352929-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-bound-note-3.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Bug Bomb) | 352930 | [352930-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-bug-bomb.json](./352930-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-bug-bomb.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (C'mon Snake) | 353036 | [353036-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-cmon-snake.json](./353036-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-cmon-snake.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Counter 3) | 353018 | [353018-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-counter-3.json](./353018-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-counter-3.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Double Crack) | 353034 | [353034-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-double-crack.json](./353034-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-double-crack.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Elec Shock) | 352931 | [352931-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-elec-shock.json](./352931-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-elec-shock.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Element Leaf) | 353046 | [353046-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-element-leaf.json](./353046-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-element-leaf.json) |
@@ -8658,6 +8663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Steal Punish) | 353044 | [353044-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-steal-punish.json](./353044-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-steal-punish.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Suikomi) | 353031 | [353031-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-suikomi.json](./353031-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-suikomi.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Super Kitakaze) | 353051 | [353051-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-super-kitakaze.json](./353051-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-super-kitakaze.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Thunderball 2) | 353017 | [353017-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-thunderball-2.json](./353017-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-thunderball-2.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (ThunderMan) | 353079 | [353079-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-thunderman.json](./353079-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-thunderman.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (Twin Fang 1) | 353023 | [353023-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-twin-fang-1.json](./353023-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-twin-fang-1.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 2 (White Web 2) | 353026 | [353026-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-white-web-2.json](./353026-megaman-nt-warrior-advanced-pet-battle-chip-cp-2-white-web-2.json) |
@@ -8667,6 +8673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (Color Point) | 353047 | [353047-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-color-point.json](./353047-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-color-point.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (Full Custom) | 353070 | [353070-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-full-custom.json](./353070-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-full-custom.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (Fuujin Racket) | 352943 | [352943-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-fuujin-racket.json](./352943-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-fuujin-racket.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (Iai Form) | 353016 | [353016-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-iai-form.json](./353016-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-iai-form.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (JunkMan SP) | 353086 | [353086-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-junkman-sp.json](./353086-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-junkman-sp.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (MetalMan SP) | 353084 | [353084-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-metalman-sp.json](./353084-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-metalman-sp.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 3 (Moko Rush 2) | 353048 | [353048-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-moko-rush-2.json](./353048-megaman-nt-warrior-advanced-pet-battle-chip-cp-3-moko-rush-2.json) |
@@ -8701,6 +8708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 5 (Meteor Rain 3) | 352960 | [352960-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-meteor-rain-3.json](./352960-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-meteor-rain-3.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 5 (Neo Variable) | 353073 | [353073-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-neo-variable.json](./353073-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-neo-variable.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 5 (Repair) | 352956 | [352956-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-repair.json](./352956-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-repair.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - CP 5 (Variable Sword) | 353015 | [353015-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-variable-sword.json](./353015-megaman-nt-warrior-advanced-pet-battle-chip-cp-5-variable-sword.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 6 (Boy's Bomb 2) | 353032 | [353032-megaman-nt-warrior-advanced-pet-battle-chip-cp-6-boys-bomb-2.json](./353032-megaman-nt-warrior-advanced-pet-battle-chip-cp-6-boys-bomb-2.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 6 (Heavy Gauge) | 352966 | [352966-megaman-nt-warrior-advanced-pet-battle-chip-cp-6-heavy-gauge.json](./352966-megaman-nt-warrior-advanced-pet-battle-chip-cp-6-heavy-gauge.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 6 (Kanketsusen) | 352935 | [352935-megaman-nt-warrior-advanced-pet-battle-chip-cp-6-kanketsusen.json](./352935-megaman-nt-warrior-advanced-pet-battle-chip-cp-6-kanketsusen.json) |
@@ -8709,6 +8717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 7 (Black Bomb) | 352936 | [352936-megaman-nt-warrior-advanced-pet-battle-chip-cp-7-black-bomb.json](./352936-megaman-nt-warrior-advanced-pet-battle-chip-cp-7-black-bomb.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 7 (Holy Panel) | 353052 | [353052-megaman-nt-warrior-advanced-pet-battle-chip-cp-7-holy-panel.json](./353052-megaman-nt-warrior-advanced-pet-battle-chip-cp-7-holy-panel.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 7 (NumberMan) | 353082 | [353082-megaman-nt-warrior-advanced-pet-battle-chip-cp-7-numberman.json](./353082-megaman-nt-warrior-advanced-pet-battle-chip-cp-7-numberman.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - CP 8 (Blue Moon Ray) | 352985 | [352985-megaman-nt-warrior-advanced-pet-battle-chip-cp-8-blue-moon-ray.json](./352985-megaman-nt-warrior-advanced-pet-battle-chip-cp-8-blue-moon-ray.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 8 (Kawarimi) | 353053 | [353053-megaman-nt-warrior-advanced-pet-battle-chip-cp-8-kawarimi.json](./353053-megaman-nt-warrior-advanced-pet-battle-chip-cp-8-kawarimi.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 8 (NumberMan SP) | 353083 | [353083-megaman-nt-warrior-advanced-pet-battle-chip-cp-8-numberman-sp.json](./353083-megaman-nt-warrior-advanced-pet-battle-chip-cp-8-numberman-sp.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CP 8 (Timpani) | 353040 | [353040-megaman-nt-warrior-advanced-pet-battle-chip-cp-8-timpani.json](./353040-megaman-nt-warrior-advanced-pet-battle-chip-cp-8-timpani.json) |
@@ -8719,9 +8728,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan NT Warrior Advanced PET: Battle Chip - CustomSword | 352944 | [352944-megaman-nt-warrior-advanced-pet-battle-chip-customsword.json](./352944-megaman-nt-warrior-advanced-pet-battle-chip-customsword.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - CyberSword | 352938 | [352938-megaman-nt-warrior-advanced-pet-battle-chip-cybersword.json](./352938-megaman-nt-warrior-advanced-pet-battle-chip-cybersword.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - EnergyBomb | 352919 | [352919-megaman-nt-warrior-advanced-pet-battle-chip-energybomb.json](./352919-megaman-nt-warrior-advanced-pet-battle-chip-energybomb.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - FireMan | 352975 | [352975-megaman-nt-warrior-advanced-pet-battle-chip-fireman.json](./352975-megaman-nt-warrior-advanced-pet-battle-chip-fireman.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - Guard1 | 353095 | [353095-megaman-nt-warrior-advanced-pet-battle-chip-guard1.json](./353095-megaman-nt-warrior-advanced-pet-battle-chip-guard1.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - Gun del Sol 1 | 352921 | [352921-megaman-nt-warrior-advanced-pet-battle-chip-gun-del-sol-1.json](./352921-megaman-nt-warrior-advanced-pet-battle-chip-gun-del-sol-1.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - Gun del Sol 3 | 352923 | [352923-megaman-nt-warrior-advanced-pet-battle-chip-gun-del-sol-3.json](./352923-megaman-nt-warrior-advanced-pet-battle-chip-gun-del-sol-3.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - GutPnch1 | 352971 | [352971-megaman-nt-warrior-advanced-pet-battle-chip-gutpnch1.json](./352971-megaman-nt-warrior-advanced-pet-battle-chip-gutpnch1.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - GutPnch2 | 353057 | [353057-megaman-nt-warrior-advanced-pet-battle-chip-gutpnch2.json](./353057-megaman-nt-warrior-advanced-pet-battle-chip-gutpnch2.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - GutPnch3 | 353058 | [353058-megaman-nt-warrior-advanced-pet-battle-chip-gutpnch3.json](./353058-megaman-nt-warrior-advanced-pet-battle-chip-gutpnch3.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - Lance | 353093 | [353093-megaman-nt-warrior-advanced-pet-battle-chip-lance.json](./353093-megaman-nt-warrior-advanced-pet-battle-chip-lance.json) |
@@ -8730,6 +8741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan NT Warrior Advanced PET: Battle Chip - MegaEnergyBomb | 352920 | [352920-megaman-nt-warrior-advanced-pet-battle-chip-megaenergybomb.json](./352920-megaman-nt-warrior-advanced-pet-battle-chip-megaenergybomb.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - MiniBoomer | 352918 | [352918-megaman-nt-warrior-advanced-pet-battle-chip-miniboomer.json](./352918-megaman-nt-warrior-advanced-pet-battle-chip-miniboomer.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - ProtoMan DS | 353081 | [353081-megaman-nt-warrior-advanced-pet-battle-chip-protoman-ds.json](./353081-megaman-nt-warrior-advanced-pet-battle-chip-protoman-ds.json) |
+| MegaMan NT Warrior Advanced PET: Battle Chip - ProtoMan SP | 352976 | [352976-megaman-nt-warrior-advanced-pet-battle-chip-protoman-sp.json](./352976-megaman-nt-warrior-advanced-pet-battle-chip-protoman-sp.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - Recovery10 | 352948 | [352948-megaman-nt-warrior-advanced-pet-battle-chip-recovery10.json](./352948-megaman-nt-warrior-advanced-pet-battle-chip-recovery10.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - Recovery150 | 352953 | [352953-megaman-nt-warrior-advanced-pet-battle-chip-recovery150.json](./352953-megaman-nt-warrior-advanced-pet-battle-chip-recovery150.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - Recovery200 | 352954 | [352954-megaman-nt-warrior-advanced-pet-battle-chip-recovery200.json](./352954-megaman-nt-warrior-advanced-pet-battle-chip-recovery200.json) |
@@ -8740,6 +8752,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MegaMan NT Warrior Advanced PET: Battle Chip - ThunderBall | 352963 | [352963-megaman-nt-warrior-advanced-pet-battle-chip-thunderball.json](./352963-megaman-nt-warrior-advanced-pet-battle-chip-thunderball.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - WideSword | 352939 | [352939-megaman-nt-warrior-advanced-pet-battle-chip-widesword.json](./352939-megaman-nt-warrior-advanced-pet-battle-chip-widesword.json) |
 | MegaMan NT Warrior Advanced PET: Battle Chip - Wind | 352947 | [352947-megaman-nt-warrior-advanced-pet-battle-chip-wind.json](./352947-megaman-nt-warrior-advanced-pet-battle-chip-wind.json) |
+| MegaMan NT Warrior Advanced PET: Navi Chip - MegaMan | 352986 | [352986-megaman-nt-warrior-advanced-pet-navi-chip-megaman.json](./352986-megaman-nt-warrior-advanced-pet-navi-chip-megaman.json) |
+| MegaMan NT Warrior Advanced PET: Navi Chip - Searchman | 352997 | [352997-megaman-nt-warrior-advanced-pet-navi-chip-searchman.json](./352997-megaman-nt-warrior-advanced-pet-navi-chip-searchman.json) |
+| MegaMan NT Warrior Advanced PET: Navi Chip - Windman | 352994 | [352994-megaman-nt-warrior-advanced-pet-navi-chip-windman.json](./352994-megaman-nt-warrior-advanced-pet-navi-chip-windman.json) |
 | MegaMan Power Adventure | 325203 | [325203-megaman-power-adventure.json](./325203-megaman-power-adventure.json) |
 | Megaman RPG | 263421 | [263421-megaman-rpg.json](./263421-megaman-rpg.json) |
 | Megaman Sprite Christmas | 172595 | [172595-megaman-sprite-christmas.json](./172595-megaman-sprite-christmas.json) |
