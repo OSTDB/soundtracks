@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Winter Outpost | 357753 | [357753-3d-puzzle-winter-outpost.json](./357753-3d-puzzle-winter-outpost.json) |
 | 3D Puzzle: Wood House | 192241 | [192241-3d-puzzle-wood-house.json](./192241-3d-puzzle-wood-house.json) |
 | 3D Quasars | 12356 | [12356-3d-quasars.json](./12356-3d-quasars.json) |
+| 3D Race Game | 393185 | [393185-3d-race-game.json](./393185-3d-race-game.json) |
 | 3D Rally Racing | 175178 | [175178-3d-rally-racing.json](./175178-3d-rally-racing.json) |
 | 3D Realms Anthology | 172419 | [172419-3d-realms-anthology.json](./172419-3d-realms-anthology.json) |
 | 3D Recon | 57651 | [57651-3d-recon.json](./57651-3d-recon.json) |
