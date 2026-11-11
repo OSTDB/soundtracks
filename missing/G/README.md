@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games Interactive | 79678 | [79678-games-interactive.json](./79678-games-interactive.json) |
 | Games Interactive 2 | 96506 | [96506-games-interactive-2.json](./96506-games-interactive-2.json) |
 | Games of Rome | 391815 | [391815-games-of-rome.json](./391815-games-of-rome.json) |
+| Games of the Monarch's Eye | 363081 | [363081-games-of-the-monarchs-eye.json](./363081-games-of-the-monarchs-eye.json) |
 | Games People Play: Hearts, Spades, and Euchre | 78910 | [78910-games-people-play-hearts-spades-and-euchre.json](./78910-games-people-play-hearts-spades-and-euchre.json) |
 | Games Sampler 2 for Windows 95 | 194772 | [194772-games-sampler-2-for-windows-95.json](./194772-games-sampler-2-for-windows-95.json) |
 | Games Tycoon | 399355 | [399355-games-tycoon.json](./399355-games-tycoon.json) |
@@ -9770,6 +9771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Tactics: Duel | 402063 | [402063-grid-tactics-duel.json](./402063-grid-tactics-duel.json) |
 | Grid Tycoon | 392970 | [392970-grid-tycoon.json](./392970-grid-tycoon.json) |
 | Grid Warriors: Battles | 289666 | [289666-grid-warriors-battles.json](./289666-grid-warriors-battles.json) |
+| Grid Wars | 363104 | [363104-grid-wars.json](./363104-grid-wars.json) |
 | Grid Wars II | 51233 | [51233-grid-wars-ii.json](./51233-grid-wars-ii.json) |
 | Grid Words | 202492 | [202492-grid-words.json](./202492-grid-words.json) |
 | Grid_Hacker | 166435 | [166435-grid-hacker.json](./166435-grid-hacker.json) |
