@@ -19039,6 +19039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune: Awakening - Chapter 2 | 362059 | [362059-dune-awakening-chapter-2.json](./362059-dune-awakening-chapter-2.json) |
 | Dune: Awakening - Dune Film Stillsuit | 359688 | [359688-dune-awakening-dune-film-stillsuit.json](./359688-dune-awakening-dune-film-stillsuit.json) |
 | Dune: Awakening - Filmic Archive | 415291 | [415291-dune-awakening-filmic-archive.json](./415291-dune-awakening-filmic-archive.json) |
+| Dune: Awakening - Raiders of the Broken Lands | 382682 | [382682-dune-awakening-raiders-of-the-broken-lands.json](./382682-dune-awakening-raiders-of-the-broken-lands.json) |
 | Dune: Awakening - The Lost Harvest | 362058 | [362058-dune-awakening-the-lost-harvest.json](./362058-dune-awakening-the-lost-harvest.json) |
 | Dune: Awakening - The Water Wars DLC | 400089 | [400089-dune-awakening-the-water-wars-dlc.json](./400089-dune-awakening-the-water-wars-dlc.json) |
 | Dune: Imperium | 263201 | [263201-dune-imperium.json](./263201-dune-imperium.json) |
