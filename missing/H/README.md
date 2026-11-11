@@ -5200,6 +5200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Cho | 340428 | [340428-hentai-cho.json](./340428-hentai-cho.json) |
 | Hentai Christmas | 232802 | [232802-hentai-christmas.json](./232802-hentai-christmas.json) |
 | Hentai City | 301675 | [301675-hentai-city.json](./301675-hentai-city.json) |
+| Hentai City | 368407 | [368407-hentai-city.json](./368407-hentai-city.json) |
 | Hentai Clara | 384583 | [384583-hentai-clara.json](./384583-hentai-clara.json) |
 | Hentai Class | 301673 | [301673-hentai-class.json](./301673-hentai-class.json) |
 | Hentai Cleopatra | 370009 | [370009-hentai-cleopatra.json](./370009-hentai-cleopatra.json) |
@@ -5879,6 +5880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World Farm | 384693 | [384693-hentai-world-farm.json](./384693-hentai-world-farm.json) |
 | Hentai World Festival | 340461 | [340461-hentai-world-festival.json](./340461-hentai-world-festival.json) |
 | Hentai World Halloween | 326234 | [326234-hentai-world-halloween.json](./326234-hentai-world-halloween.json) |
+| Hentai World Love | 368408 | [368408-hentai-world-love.json](./368408-hentai-world-love.json) |
 | Hentai World Mystery | 371371 | [371371-hentai-world-mystery.json](./371371-hentai-world-mystery.json) |
 | Hentai World Office | 384699 | [384699-hentai-world-office.json](./384699-hentai-world-office.json) |
 | Hentai World Relax | 382141 | [382141-hentai-world-relax.json](./382141-hentai-world-relax.json) |
@@ -6288,6 +6290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Pop | 151603 | [151603-hero-pop.json](./151603-hero-pop.json) |
 | Hero Puzzle | 141384 | [141384-hero-puzzle.json](./141384-hero-puzzle.json) |
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
+| Hero Quest: God of Chaos | 368391 | [368391-hero-quest-god-of-chaos.json](./368391-hero-quest-god-of-chaos.json) |
 | Hero Quest: Tower Conflict | 33248 | [33248-hero-quest-tower-conflict.json](./33248-hero-quest-tower-conflict.json) |
 | Hero Raging Fire | 164180 | [164180-hero-raging-fire.json](./164180-hero-raging-fire.json) |
 | Hero Realms | 203785 | [203785-hero-realms.json](./203785-hero-realms.json) |
@@ -7460,6 +7463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Memories of the Gardens Between | 347107 | [347107-hidden-memories-of-the-gardens-between.json](./347107-hidden-memories-of-the-gardens-between.json) |
 | Hidden Memory Nature | 150780 | [150780-hidden-memory-nature.json](./150780-hidden-memory-nature.json) |
 | Hidden Memory: Neko's Life | 171447 | [171447-hidden-memory-nekos-life.json](./171447-hidden-memory-nekos-life.json) |
+| Hidden Monsters | 367876 | [367876-hidden-monsters.json](./367876-hidden-monsters.json) |
 | Hidden Motives: The Diamond Rush - Collector's Edition | 186720 | [186720-hidden-motives-the-diamond-rush-collectors-edition.json](./186720-hidden-motives-the-diamond-rush-collectors-edition.json) |
 | Hidden Mysteries: Buckingham Palace | 10411 | [10411-hidden-mysteries-buckingham-palace.json](./10411-hidden-mysteries-buckingham-palace.json) |
 | Hidden Mysteries: Buckingham Palace Secrets of Kings & Queens | 66902 | [66902-hidden-mysteries-buckingham-palace-secrets-of-kings-and-queens.json](./66902-hidden-mysteries-buckingham-palace-secrets-of-kings-and-queens.json) |
