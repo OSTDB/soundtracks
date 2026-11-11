@@ -5738,7 +5738,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Rock Galactic: Order of the Deep Pack | 302936 | [302936-deep-rock-galactic-order-of-the-deep-pack.json](./302936-deep-rock-galactic-order-of-the-deep-pack.json) |
 | Deep Rock Galactic: Rival Tech Pack | 224176 | [224176-deep-rock-galactic-rival-tech-pack.json](./224176-deep-rock-galactic-rival-tech-pack.json) |
 | Deep Rock Galactic: Robot Rebellion Pack | 224175 | [224175-deep-rock-galactic-robot-rebellion-pack.json](./224175-deep-rock-galactic-robot-rebellion-pack.json) |
-| Deep Rock Galactic: Rogue Core | 270354 | [270354-deep-rock-galactic-rogue-core.json](./270354-deep-rock-galactic-rogue-core.json) |
 | Deep Rock Galactic: Season 2 - Rival Escalation | 209974 | [209974-deep-rock-galactic-season-2-rival-escalation.json](./209974-deep-rock-galactic-season-2-rival-escalation.json) |
 | Deep Rock Galactic: Season 3 - Plaguefall | 224166 | [224166-deep-rock-galactic-season-3-plaguefall.json](./224166-deep-rock-galactic-season-3-plaguefall.json) |
 | Deep Rock Galactic: Season 4 - Critical Corruption | 251542 | [251542-deep-rock-galactic-season-4-critical-corruption.json](./251542-deep-rock-galactic-season-4-critical-corruption.json) |
@@ -19307,7 +19306,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Chest | 123847 | [123847-dungeon-chest.json](./123847-dungeon-chest.json) |
 | Dungeon Chop Chop | 82020 | [82020-dungeon-chop-chop.json](./82020-dungeon-chop-chop.json) |
 | Dungeon Chronicle | 166889 | [166889-dungeon-chronicle.json](./166889-dungeon-chronicle.json) |
-| Dungeon Clawler | 290897 | [290897-dungeon-clawler.json](./290897-dungeon-clawler.json) |
 | Dungeon Cleaner | 236339 | [236339-dungeon-cleaner.json](./236339-dungeon-cleaner.json) |
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
 | Dungeon Cleaners | 357041 | [357041-dungeon-cleaners.json](./357041-dungeon-cleaners.json) |
