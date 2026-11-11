@@ -689,6 +689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madeline's Rainy Day Activities | 69616 | [69616-madelines-rainy-day-activities.json](./69616-madelines-rainy-day-activities.json) |
 | Mademoiselle Kshatriya | 367622 | [367622-mademoiselle-kshatriya.json](./367622-mademoiselle-kshatriya.json) |
 | MaDevil | 201402 | [201402-madevil.json](./201402-madevil.json) |
+| Madfall | 350098 | [350098-madfall.json](./350098-madfall.json) |
 | Madfarmer: Lost Kingdoms and Crazy Critters | 269372 | [269372-madfarmer-lost-kingdoms-and-crazy-critters.json](./269372-madfarmer-lost-kingdoms-and-crazy-critters.json) |
 | Madfut 23 | 232128 | [232128-madfut-23.json](./232128-madfut-23.json) |
 | MadFut 25 | 327873 | [327873-madfut-25.json](./327873-madfut-25.json) |
@@ -14870,6 +14871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Impossible | 118557 | [118557-mission-impossible.json](./118557-mission-impossible.json) |
 | Mission: Impossible | 219019 | [219019-mission-impossible.json](./219019-mission-impossible.json) |
 | Mission: Impossible | 3123 | [3123-mission-impossible.json](./3123-mission-impossible.json) |
+| Mission: Impossible | 350136 | [350136-mission-impossible.json](./350136-mission-impossible.json) |
 | Mission: Impossible | 68337 | [68337-mission-impossible.json](./68337-mission-impossible.json) |
 | Mission: Impossible - New Dawn | 216344 | [216344-mission-impossible-new-dawn.json](./216344-mission-impossible-new-dawn.json) |
 | Mission: Impossible - Operation Surma | 248447 | [248447-mission-impossible-operation-surma.json](./248447-mission-impossible-operation-surma.json) |
@@ -15962,6 +15964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole Mash | 359726 | [359726-mole-mash.json](./359726-mole-mash.json) |
 | Mole Mayhem | 346259 | [346259-mole-mayhem.json](./346259-mole-mayhem.json) |
 | Mole Mine Rocks 0.15 | 321164 | [321164-mole-mine-rocks-0-15.json](./321164-mole-mine-rocks-0-15.json) |
+| Mole Mole | 350132 | [350132-mole-mole.json](./350132-mole-mole.json) |
 | Mole Mole | 47523 | [47523-mole-mole.json](./47523-mole-mole.json) |
 | Mole Mole ! | 39771 | [39771-mole-mole.json](./39771-mole-mole.json) |
 | Mole Mole 2 | 47522 | [47522-mole-mole-2.json](./47522-mole-mole-2.json) |
