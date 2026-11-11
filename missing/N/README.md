@@ -4927,6 +4927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Slash | 204374 | [204374-nightmare-slash.json](./204374-nightmare-slash.json) |
 | Nightmare Tale | 292758 | [292758-nightmare-tale.json](./292758-nightmare-tale.json) |
 | Nightmare Temptation Academy | 144117 | [144117-nightmare-temptation-academy.json](./144117-nightmare-temptation-academy.json) |
+| Nightmare Train | 383878 | [383878-nightmare-train.json](./383878-nightmare-train.json) |
 | Nightmare traveler | 178819 | [178819-nightmare-traveler.json](./178819-nightmare-traveler.json) |
 | Nightmare Trip | 309020 | [309020-nightmare-trip.json](./309020-nightmare-trip.json) |
 | Nightmare Visions Chapter 1 | 367663 | [367663-nightmare-visions-chapter-1.json](./367663-nightmare-visions-chapter-1.json) |
@@ -7097,6 +7098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norman's Night in the Cave | 123204 | [123204-normans-night-in-the-cave.json](./123204-normans-night-in-the-cave.json) |
 | Norman's Sky | 179001 | [179001-normans-sky.json](./179001-normans-sky.json) |
 | Normenhill: Chapter 1 - "Your New Look" | 340806 | [340806-normenhill-chapter-1-your-new-look.json](./340806-normenhill-chapter-1-your-new-look.json) |
+| Normis Simulator | 383875 | [383875-normis-simulator.json](./383875-normis-simulator.json) |
 | Normy's Beach Babe-O-Rama | 45768 | [45768-normys-beach-babe-o-rama.json](./45768-normys-beach-babe-o-rama.json) |
 | Norn9 Lofn for Nintendo Switch | 136896 | [136896-norn9-lofn-for-nintendo-switch.json](./136896-norn9-lofn-for-nintendo-switch.json) |
 | Norn9: Act Tune | 12641 | [12641-norn9-act-tune.json](./12641-norn9-act-tune.json) |
