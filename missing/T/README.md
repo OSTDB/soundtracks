@@ -5232,6 +5232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris Advance | 49451 | [49451-tetris-advance.json](./49451-tetris-advance.json) |
 | Tetris Arcade in a Tin | 234079 | [234079-tetris-arcade-in-a-tin.json](./234079-tetris-arcade-in-a-tin.json) |
 | Tetris Attack | 133313 | [133313-tetris-attack.json](./133313-tetris-attack.json) |
+| Tetris Battle | 375680 | [375680-tetris-battle.json](./375680-tetris-battle.json) |
 | Tetris Battle Fusion | 74305 | [74305-tetris-battle-fusion.json](./74305-tetris-battle-fusion.json) |
 | Tetris Battle Gaiden | 38371 | [38371-tetris-battle-gaiden.json](./38371-tetris-battle-gaiden.json) |
 | Tetris Beat | 165353 | [165353-tetris-beat.json](./165353-tetris-beat.json) |
@@ -13814,6 +13815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Living Graveyard | 422052 | [422052-the-living-graveyard.json](./422052-the-living-graveyard.json) |
 | The Living Handra | 186669 | [186669-the-living-handra.json](./186669-the-living-handra.json) |
 | The Living Remain | 103536 | [103536-the-living-remain.json](./103536-the-living-remain.json) |
+| The Living Shadows | 375692 | [375692-the-living-shadows.json](./375692-the-living-shadows.json) |
 | The Lizard King | 239154 | [239154-the-lizard-king.json](./239154-the-lizard-king.json) |
 | The Lizard's Trance | 271527 | [271527-the-lizards-trance.json](./271527-the-lizards-trance.json) |
 | The Lizartian | 202614 | [202614-the-lizartian.json](./202614-the-lizartian.json) |
@@ -25536,6 +25538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toad on Fire | 139482 | [139482-toad-on-fire.json](./139482-toad-on-fire.json) |
 | Toad Runner | 271375 | [271375-toad-runner.json](./271375-toad-runner.json) |
 | Toad Sama! & The Dicey World | 350774 | [350774-toad-sama-and-the-dicey-world.json](./350774-toad-sama-and-the-dicey-world.json) |
+| Toad Slide | 375695 | [375695-toad-slide.json](./375695-toad-slide.json) |
 | Toad Strikes Back | 134068 | [134068-toad-strikes-back.json](./134068-toad-strikes-back.json) |
 | Toad Sushi | 183416 | [183416-toad-sushi.json](./183416-toad-sushi.json) |
 | Toad Tales | 272578 | [272578-toad-tales.json](./272578-toad-tales.json) |
