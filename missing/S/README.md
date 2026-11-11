@@ -2270,6 +2270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satisfaction Drone | 330340 | [330340-satisfaction-drone.json](./330340-satisfaction-drone.json) |
 | Satisfactory 1.1 | 402387 | [402387-satisfactory-1-1.json](./402387-satisfactory-1-1.json) |
 | Satisfactory 1.2 | 402388 | [402388-satisfactory-1-2.json](./402388-satisfactory-1-2.json) |
+| Satisfactory Modeler | 359662 | [359662-satisfactory-modeler.json](./359662-satisfactory-modeler.json) |
 | Satisfactory: 1.0 Update | 314012 | [314012-satisfactory-1-0-update.json](./314012-satisfactory-1-0-update.json) |
 | Satisfactory: Update 1 | 222879 | [222879-satisfactory-update-1.json](./222879-satisfactory-update-1.json) |
 | Satisfactory: Update 2 | 222878 | [222878-satisfactory-update-2.json](./222878-satisfactory-update-2.json) |
@@ -22200,6 +22201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Specter Spelunker Resizes | 283736 | [283736-specter-spelunker-resizes.json](./283736-specter-spelunker-resizes.json) |
 | Specter Spelunker Shrinks | 242907 | [242907-specter-spelunker-shrinks.json](./242907-specter-spelunker-shrinks.json) |
 | Specters | 164046 | [164046-specters.json](./164046-specters.json) |
+| Specters Factory 1 | 359661 | [359661-specters-factory-1.json](./359661-specters-factory-1.json) |
 | Specters of the Deep | 370379 | [370379-specters-of-the-deep.json](./370379-specters-of-the-deep.json) |
 | Specters of the Sun | 257207 | [257207-specters-of-the-sun.json](./257207-specters-of-the-sun.json) |
 | Spectography | 328929 | [328929-spectography.json](./328929-spectography.json) |
@@ -27208,6 +27210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Enterprise | 71224 | [71224-starship-enterprise.json](./71224-starship-enterprise.json) |
 | Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
 | Starship EVO | 138009 | [138009-starship-evo.json](./138009-starship-evo.json) |
+| Starship Factory | 359660 | [359660-starship-factory.json](./359660-starship-factory.json) |
 | Starship Fighters: Galactic Warfare | 360155 | [360155-starship-fighters-galactic-warfare.json](./360155-starship-fighters-galactic-warfare.json) |
 | Starship Helmet | 115917 | [115917-starship-helmet.json](./115917-starship-helmet.json) |
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
