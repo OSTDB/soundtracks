@@ -4601,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entropy | 339755 | [339755-entropy.json](./339755-entropy.json) |
 | Entropy | 344255 | [344255-entropy.json](./344255-entropy.json) |
 | Entropy | 363898 | [363898-entropy.json](./363898-entropy.json) |
+| Entropy | 388659 | [388659-entropy.json](./388659-entropy.json) |
 | Entropy | 402532 | [402532-entropy.json](./402532-entropy.json) |
 | Entropy | 402533 | [402533-entropy.json](./402533-entropy.json) |
 | Entropy | 402534 | [402534-entropy.json](./402534-entropy.json) |
@@ -6373,6 +6374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Acid Rain | 280559 | [280559-eternal-acid-rain.json](./280559-eternal-acid-rain.json) |
 | Eternal Affairs | 347767 | [347767-eternal-affairs.json](./347767-eternal-affairs.json) |
 | Eternal Afterlife | 257851 | [257851-eternal-afterlife.json](./257851-eternal-afterlife.json) |
+| Eternal Afternoon | 388497 | [388497-eternal-afternoon.json](./388497-eternal-afternoon.json) |
 | Eternal Alien | 128821 | [128821-eternal-alien.json](./128821-eternal-alien.json) |
 | Eternal Anima | 417174 | [417174-eternal-anima.json](./417174-eternal-anima.json) |
 | Eternal Anima: Limited Edition | 417196 | [417196-eternal-anima-limited-edition.json](./417196-eternal-anima-limited-edition.json) |
@@ -7936,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excalibur's Swordstone Idle Forge | 265105 | [265105-excaliburs-swordstone-idle-forge.json](./265105-excaliburs-swordstone-idle-forge.json) |
 | Excaliburian!! | 186153 | [186153-excaliburian.json](./186153-excaliburian.json) |
 | Excavate Diamond | 228111 | [228111-excavate-diamond.json](./228111-excavate-diamond.json) |
+| Excavate! | 389008 | [389008-excavate.json](./389008-excavate.json) |
 | Excavation Alliance: Cadoramo | 325351 | [325351-excavation-alliance-cadoramo.json](./325351-excavation-alliance-cadoramo.json) |
 | Excavator Master 3D | 224053 | [224053-excavator-master-3d.json](./224053-excavator-master-3d.json) |
 | Excavator Simulator | 195369 | [195369-excavator-simulator.json](./195369-excavator-simulator.json) |
