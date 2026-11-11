@@ -16887,6 +16887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Hamlets | 290441 | [290441-cozy-hamlets.json](./290441-cozy-hamlets.json) |
 | Cozy Harvest | 376458 | [376458-cozy-harvest.json](./376458-cozy-harvest.json) |
 | Cozy Holes | 338547 | [338547-cozy-holes.json](./338547-cozy-holes.json) |
+| Cozy Holiday | 380344 | [380344-cozy-holiday.json](./380344-cozy-holiday.json) |
 | Cozy Home | 386876 | [386876-cozy-home.json](./386876-cozy-home.json) |
 | Cozy Home Unpacking | 403736 | [403736-cozy-home-unpacking.json](./403736-cozy-home-unpacking.json) |
 | Cozy Hunt | 338004 | [338004-cozy-hunt.json](./338004-cozy-hunt.json) |
@@ -21434,6 +21435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Bite | 152325 | [152325-cute-bite.json](./152325-cute-bite.json) |
 | Cute Bless | 320019 | [320019-cute-bless.json](./320019-cute-bless.json) |
 | Cute Blocks | 264329 | [264329-cute-blocks.json](./264329-cute-blocks.json) |
+| Cute Bonfire | 380940 | [380940-cute-bonfire.json](./380940-cute-bonfire.json) |
 | Cute Bully Nyanbaba | 234118 | [234118-cute-bully-nyanbaba.json](./234118-cute-bully-nyanbaba.json) |
 | Cute Capybaras | 256559 | [256559-cute-capybaras.json](./256559-cute-capybaras.json) |
 | Cute Cats | 163399 | [163399-cute-cats.json](./163399-cute-cats.json) |
