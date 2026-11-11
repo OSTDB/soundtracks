@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bacon in Zane | 399719 | [399719-bacon-in-zane.json](./399719-bacon-in-zane.json) |
 | Bacon Man: An Adventure | 36218 | [36218-bacon-man-an-adventure.json](./36218-bacon-man-an-adventure.json) |
 | Bacon May Die | 55534 | [55534-bacon-may-die.json](./55534-bacon-may-die.json) |
+| Bacon Quest: Lovers' Beef - Special Edition | 368962 | [368962-bacon-quest-lovers-beef-special-edition.json](./368962-bacon-quest-lovers-beef-special-edition.json) |
 | Bacon Rebellion | 34121 | [34121-bacon-rebellion.json](./34121-bacon-rebellion.json) |
 | Bacon Roll | 88005 | [88005-bacon-roll.json](./88005-bacon-roll.json) |
 | Bacon Tales: Between Pigs and Wolves | 31919 | [31919-bacon-tales-between-pigs-and-wolves.json](./31919-bacon-tales-between-pigs-and-wolves.json) |
@@ -1014,7 +1015,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baktinet | 340028 | [340028-baktinet.json](./340028-baktinet.json) |
 | Baku Baku | 19665 | [19665-baku-baku.json](./19665-baku-baku.json) |
 | Baku Baku | 69785 | [69785-baku-baku.json](./69785-baku-baku.json) |
+| Baku Baku Animal GG2SMS | 369481 | [369481-baku-baku-animal-gg2sms.json](./369481-baku-baku-animal-gg2sms.json) |
 | Baku Funshiki | 340033 | [340033-baku-funshiki.json](./340033-baku-funshiki.json) |
 | Baku Maru | 369039 | [369039-baku-maru.json](./369039-baku-maru.json) |
 | Bakuchou Bar Hunter | 76092 | [76092-bakuchou-bar-hunter.json](./76092-bakuchou-bar-hunter.json) |
@@ -2584,6 +2585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie Rewind | 405096 | [405096-barbie-rewind.json](./405096-barbie-rewind.json) |
 | Barbie Sparkle Blast | 97319 | [97319-barbie-sparkle-blast.json](./97319-barbie-sparkle-blast.json) |
 | Barbie Storymaker | 144332 | [144332-barbie-storymaker.json](./144332-barbie-storymaker.json) |
+| Barbie Super Model GG2SMS | 369482 | [369482-barbie-super-model-gg2sms.json](./369482-barbie-super-model-gg2sms.json) |
 | Barbie Super Sports | 3313 | [3313-barbie-super-sports.json](./3313-barbie-super-sports.json) |
 | Barbie Superpack: Secret Agent / Groovy Games | 60447 | [60447-barbie-superpack-secret-agent-groovy-games.json](./60447-barbie-superpack-secret-agent-groovy-games.json) |
 | Barbie Superstar! Music Maker | 261693 | [261693-barbie-superstar-music-maker.json](./261693-barbie-superstar-music-maker.json) |
@@ -3535,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Forever | 77237 | [77237-batman-forever.json](./77237-batman-forever.json) |
 | Batman Forever | 77350 | [77350-batman-forever.json](./77350-batman-forever.json) |
 | Batman Forever | 7769 | [7769-batman-forever.json](./7769-batman-forever.json) |
+| Batman Forever GG2SMS | 369483 | [369483-batman-forever-gg2sms.json](./369483-batman-forever-gg2sms.json) |
 | Batman Forever: Double Dose of Doom | 198674 | [198674-batman-forever-double-dose-of-doom.json](./198674-batman-forever-double-dose-of-doom.json) |
 | Batman Forever: The Arcade Game | 23033 | [23033-batman-forever-the-arcade-game.json](./23033-batman-forever-the-arcade-game.json) |
 | Batman Forever: The Arcade Game | 45202 | [45202-batman-forever-the-arcade-game.json](./45202-batman-forever-the-arcade-game.json) |
@@ -3690,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batter Bear | 398478 | [398478-batter-bear.json](./398478-batter-bear.json) |
 | Batter Burst | 97073 | [97073-batter-burst.json](./97073-batter-burst.json) |
 | Batter Up | 46353 | [46353-batter-up.json](./46353-batter-up.json) |
+| Batter Up GG2SMS | 369484 | [369484-batter-up-gg2sms.json](./369484-batter-up-gg2sms.json) |
 | Batter Up! | 329039 | [329039-batter-up.json](./329039-batter-up.json) |
 | Batteri Fjell 1945 | 292966 | [292966-batteri-fjell-1945.json](./292966-batteri-fjell-1945.json) |
 | Batteries Included | 117079 | [117079-batteries-included.json](./117079-batteries-included.json) |
@@ -4716,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleship Command | 403062 | [403062-battleship-command.json](./403062-battleship-command.json) |
 | Battleship Crafting | 358484 | [358484-battleship-crafting.json](./358484-battleship-crafting.json) |
 | Battleship Empire | 103104 | [103104-battleship-empire.json](./103104-battleship-empire.json) |
+| Battleship GG2SMS | 369485 | [369485-battleship-gg2sms.json](./369485-battleship-gg2sms.json) |
 | Battleship Godios | 151960 | [151960-battleship-godios.json](./151960-battleship-godios.json) |
 | Battleship Lonewolf | 260651 | [260651-battleship-lonewolf.json](./260651-battleship-lonewolf.json) |
 | Battleship Lonewolf | 75821 | [75821-battleship-lonewolf.json](./75821-battleship-lonewolf.json) |
@@ -4817,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battletoads | 365173 | [365173-battletoads.json](./365173-battletoads.json) |
 | Battletoads / Double Dragon | 242267 | [242267-battletoads-double-dragon.json](./242267-battletoads-double-dragon.json) |
 | Battletoads / Double Dragon | 91094 | [91094-battletoads-double-dragon.json](./91094-battletoads-double-dragon.json) |
+| Battletoads GG2SMS | 369487 | [369487-battletoads-gg2sms.json](./369487-battletoads-gg2sms.json) |
 | Battletoads In Battlemaniacs | 18577 | [18577-battletoads-in-battlemaniacs.json](./18577-battletoads-in-battlemaniacs.json) |
 | Battletoads in Ragnarok's World | 48924 | [48924-battletoads-in-ragnaroks-world.json](./48924-battletoads-in-ragnaroks-world.json) |
 | Battletronics | 167594 | [167594-battletronics.json](./167594-battletronics.json) |
@@ -6080,6 +6086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beavers Be Dammed | 81704 | [81704-beavers-be-dammed.json](./81704-beavers-be-dammed.json) |
 | Beavers in the Stream | 422061 | [422061-beavers-in-the-stream.json](./422061-beavers-in-the-stream.json) |
 | Beavertale | 403519 | [403519-beavertale.json](./403519-beavertale.json) |
+| Beavis and Butt Head GG2SMS | 369489 | [369489-beavis-and-butt-head-gg2sms.json](./369489-beavis-and-butt-head-gg2sms.json) |
 | Beavis And Butt-Head In Quest To Score | 316303 | [316303-beavis-and-butt-head-in-quest-to-score.json](./316303-beavis-and-butt-head-in-quest-to-score.json) |
 | Beavis and Butt-head: Wiener Take All | 8460 | [8460-beavis-and-butt-head-wiener-take-all.json](./8460-beavis-and-butt-head-wiener-take-all.json) |
 | Beavus | 407779 | [407779-beavus.json](./407779-beavus.json) |
@@ -6981,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bereaved: Soldiers of Fate | 332850 | [332850-bereaved-soldiers-of-fate.json](./332850-bereaved-soldiers-of-fate.json) |
 | Berenice: Videogame | 344346 | [344346-berenice-videogame.json](./344346-berenice-videogame.json) |
 | Berenstain Bears | 40634 | [40634-berenstain-bears.json](./40634-berenstain-bears.json) |
+| Berenstain Bears GG2SMS | 369491 | [369491-berenstain-bears-gg2sms.json](./369491-berenstain-bears-gg2sms.json) |
 | Berenstain Bears in Big Paw's Cave | 273082 | [273082-berenstain-bears-in-big-paws-cave.json](./273082-berenstain-bears-in-big-paws-cave.json) |
 | Berenstein Bears: On Their Own, and You on Your Own | 46563 | [46563-berenstein-bears-on-their-own-and-you-on-your-own.json](./46563-berenstein-bears-on-their-own-and-you-on-your-own.json) |
 | Bereshipsis | 349262 | [349262-bereshipsis.json](./349262-bereshipsis.json) |
@@ -7005,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berlin 1948 | 15701 | [15701-berlin-1948.json](./15701-berlin-1948.json) |
 | Berlin Connection | 93397 | [93397-berlin-connection.json](./93397-berlin-connection.json) |
 | Berlin no Kabe | 46322 | [46322-berlin-no-kabe.json](./46322-berlin-no-kabe.json) |
+| Berlin no Kabe GG2SMS | 369494 | [369494-berlin-no-kabe-gg2sms.json](./369494-berlin-no-kabe-gg2sms.json) |
 | Berlin Wall | 421192 | [421192-berlin-wall.json](./421192-berlin-wall.json) |
 | Berlitz* French Translator | 94168 | [94168-berlitz-french-translator.json](./94168-berlitz-french-translator.json) |
 | Bermuda | 36048 | [36048-bermuda.json](./36048-bermuda.json) |
@@ -9226,6 +9235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitcoin | 90174 | [90174-bitcoin.json](./90174-bitcoin.json) |
 | Bitcoin Billionaire: Bitstone To The Past | 370236 | [370236-bitcoin-billionaire-bitstone-to-the-past.json](./370236-bitcoin-billionaire-bitstone-to-the-past.json) |
 | Bitcoin Bounce | 208314 | [208314-bitcoin-bounce.json](./208314-bitcoin-bounce.json) |
+| Bitcoin Chill | 368961 | [368961-bitcoin-chill.json](./368961-bitcoin-chill.json) |
 | Bitcoin Collector | 53209 | [53209-bitcoin-collector.json](./53209-bitcoin-collector.json) |
 | Bitcoin Collector: Spinners Attack | 68665 | [68665-bitcoin-collector-spinners-attack.json](./68665-bitcoin-collector-spinners-attack.json) |
 | Bitcoin Escape | 253283 | [253283-bitcoin-escape.json](./253283-bitcoin-escape.json) |
@@ -12919,6 +12929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body of Mine | 302198 | [302198-body-of-mine.json](./302198-body-of-mine.json) |
 | Body of Work | 281443 | [281443-body-of-work.json](./281443-body-of-work.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
+| Body Pay “OMG! The Girl With the Big Titties Is Too Hitting on Me!” | 368950 | [368950-body-pay-omg-the-girl-with-the-big-titties-is-too-hitting-on-me.json](./368950-body-pay-omg-the-girl-with-the-big-titties-is-too-hitting-on-me.json) |
 | Body Slam | 40095 | [40095-body-slam.json](./40095-body-slam.json) |
 | Body Slam! Super Pro Wrestling | 41440 | [41440-body-slam-super-pro-wrestling.json](./41440-body-slam-super-pro-wrestling.json) |
 | Body Special 264: Girls in Motion Puzzle Vol. 2 | 45408 | [45408-body-special-264-girls-in-motion-puzzle-vol-2.json](./45408-body-special-264-girls-in-motion-puzzle-vol-2.json) |
