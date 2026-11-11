@@ -4105,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Run 3D | 154571 | [154571-ghost-run-3d.json](./154571-ghost-run-3d.json) |
 | Ghost Rush! | 97107 | [97107-ghost-rush.json](./97107-ghost-rush.json) |
 | Ghost School | 133726 | [133726-ghost-school.json](./133726-ghost-school.json) |
+| Ghost Scout | 387168 | [387168-ghost-scout.json](./387168-ghost-scout.json) |
 | Ghost Scramble | 209842 | [209842-ghost-scramble.json](./209842-ghost-scramble.json) |
 | Ghost Scramble | 212500 | [212500-ghost-scramble.json](./212500-ghost-scramble.json) |
 | Ghost Sector | 335826 | [335826-ghost-sector.json](./335826-ghost-sector.json) |
@@ -7718,6 +7719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gore Grind | 423867 | [423867-gore-grind.json](./423867-gore-grind.json) |
 | Gore Rapture | 349080 | [349080-gore-rapture.json](./349080-gore-rapture.json) |
 | Gore Screaming Show | 224168 | [224168-gore-screaming-show.json](./224168-gore-screaming-show.json) |
+| Gore Sword | 387274 | [387274-gore-sword.json](./387274-gore-sword.json) |
 | Gore: Ultimate Soldier | 46969 | [46969-gore-ultimate-soldier.json](./46969-gore-ultimate-soldier.json) |
 | Goreagulation | 223461 | [223461-goreagulation.json](./223461-goreagulation.json) |
 | Goreball | 122348 | [122348-goreball.json](./122348-goreball.json) |
@@ -9116,6 +9118,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Rush 2: The Ark of Time - Raven's Choice | 26230 | [26230-gravity-rush-2-the-ark-of-time-ravens-choice.json](./26230-gravity-rush-2-the-ark-of-time-ravens-choice.json) |
 | Gravity Rush Remastered | 12529 | [12529-gravity-rush-remastered.json](./12529-gravity-rush-remastered.json) |
 | Gravity Rush Remastered: Collector's Edition | 205265 | [205265-gravity-rush-remastered-collectors-edition.json](./205265-gravity-rush-remastered-collectors-edition.json) |
+| Gravity Rush: Maid Costume Pack | 387259 | [387259-gravity-rush-maid-costume-pack.json](./387259-gravity-rush-maid-costume-pack.json) |
+| Gravity Rush: Military Pack | 387262 | [387262-gravity-rush-military-pack.json](./387262-gravity-rush-military-pack.json) |
+| Gravity Rush: Spy Costume Pack | 387258 | [387258-gravity-rush-spy-costume-pack.json](./387258-gravity-rush-spy-costume-pack.json) |
 | Gravity Shift | 180556 | [180556-gravity-shift.json](./180556-gravity-shift.json) |
 | Gravity Shifter | 157056 | [157056-gravity-shifter.json](./157056-gravity-shifter.json) |
 | Gravity Shooter | 395915 | [395915-gravity-shooter.json](./395915-gravity-shooter.json) |
