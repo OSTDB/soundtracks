@@ -9139,6 +9139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Louis | 365055 | [365055-louis.json](./365055-louis.json) |
 | Louis Charles in the Louvre | 360640 | [360640-louis-charles-in-the-louvre.json](./360640-louis-charles-in-the-louvre.json) |
 | Louis the Game | 175727 | [175727-louis-the-game.json](./175727-louis-the-game.json) |
+| Louise Kills The Belchers! | 327509 | [327509-louise-kills-the-belchers.json](./327509-louise-kills-the-belchers.json) |
 | Louisiana Adventure | 64279 | [64279-louisiana-adventure.json](./64279-louisiana-adventure.json) |
 | LouLan Kingdom | 404600 | [404600-loulan-kingdom.json](./404600-loulan-kingdom.json) |
 | Loulan: The Cursed Sand | 375479 | [375479-loulan-the-cursed-sand.json](./375479-loulan-the-cursed-sand.json) |
@@ -10493,6 +10494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LunaPri from Empire of Angels | 56118 | [56118-lunapri-from-empire-of-angels.json](./56118-lunapri-from-empire-of-angels.json) |
 | LunaQuest | 190473 | [190473-lunaquest.json](./190473-lunaquest.json) |
 | Lunar // Drill | 320041 | [320041-lunar-drill.json](./320041-lunar-drill.json) |
+| Lunar 2: Eternal Blue Complete | 328114 | [328114-lunar-2-eternal-blue-complete.json](./328114-lunar-2-eternal-blue-complete.json) |
 | Lunar 2: Eternal Blue Complete | 44998 | [44998-lunar-2-eternal-blue-complete.json](./44998-lunar-2-eternal-blue-complete.json) |
 | Lunar 2: Eternal Blue Complete - Collector's Edition | 43699 | [43699-lunar-2-eternal-blue-complete-collectors-edition.json](./43699-lunar-2-eternal-blue-complete-collectors-edition.json) |
 | Lunar Ascendant | 263101 | [263101-lunar-ascendant.json](./263101-lunar-ascendant.json) |
@@ -10576,6 +10578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar: Silver Star Harmony | 13909 | [13909-lunar-silver-star-harmony.json](./13909-lunar-silver-star-harmony.json) |
 | Lunar: Silver Star Harmony - Limited Edition | 42713 | [42713-lunar-silver-star-harmony-limited-edition.json](./42713-lunar-silver-star-harmony-limited-edition.json) |
 | Lunar: Silver Star Story Complete | 13905 | [13905-lunar-silver-star-story-complete.json](./13905-lunar-silver-star-story-complete.json) |
+| Lunar: Silver Star Story Complete | 328113 | [328113-lunar-silver-star-story-complete.json](./328113-lunar-silver-star-story-complete.json) |
 | Lunar: Silver Star Story Complete - Collector's Edition | 44960 | [44960-lunar-silver-star-story-complete-collectors-edition.json](./44960-lunar-silver-star-story-complete-collectors-edition.json) |
 | Lunar: The Last Human | 220435 | [220435-lunar-the-last-human.json](./220435-lunar-the-last-human.json) |
 | Lunar: The Silver Star | 5334 | [5334-lunar-the-silver-star.json](./5334-lunar-the-silver-star.json) |
