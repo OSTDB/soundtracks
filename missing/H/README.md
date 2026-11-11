@@ -12918,6 +12918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hushed Walls | 272167 | [272167-hushed-walls.json](./272167-hushed-walls.json) |
 | Husk | 179682 | [179682-husk.json](./179682-husk.json) |
 | Husk | 18966 | [18966-husk.json](./18966-husk.json) |
+| Husk of Axiom | 386666 | [386666-husk-of-axiom.json](./386666-husk-of-axiom.json) |
 | Husk Protocol | 399266 | [399266-husk-protocol.json](./399266-husk-protocol.json) |
 | Husker | 342584 | [342584-husker.json](./342584-husker.json) |
 | Husky Express | 92361 | [92361-husky-express.json](./92361-husky-express.json) |
