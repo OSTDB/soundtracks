@@ -2086,6 +2086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2K Shells | 328033 | [328033-2k-shells.json](./328033-2k-shells.json) |
 | 2K1X Subzero Heroes | 304215 | [304215-2k1x-subzero-heroes.json](./304215-2k1x-subzero-heroes.json) |
 | 2K20 Cuba | 203627 | [203627-2k20-cuba.json](./203627-2k20-cuba.json) |
+| 2K48 | 350669 | [350669-2k48.json](./350669-2k48.json) |
 | 2Kaizo 2Learn | 308123 | [308123-2kaizo-2learn.json](./308123-2kaizo-2learn.json) |
 | 2Kxx | 358078 | [358078-2kxx.json](./358078-2kxx.json) |
 | 2MD VR Football | 68572 | [68572-2md-vr-football.json](./68572-2md-vr-football.json) |
