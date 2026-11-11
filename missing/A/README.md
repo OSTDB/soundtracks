@@ -2655,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accel World vs. Sword Art Online: Millennium Twilight - Dengeki Limited Edition | 343202 | [343202-accel-world-vs-sword-art-online-millennium-twilight-dengeki-limited-edition.json](./343202-accel-world-vs-sword-art-online-millennium-twilight-dengeki-limited-edition.json) |
 | Accel World: Awakening of the Silver Wings | 44598 | [44598-accel-world-awakening-of-the-silver-wings.json](./44598-accel-world-awakening-of-the-silver-wings.json) |
 | Accel World: End of Burst | 76242 | [76242-accel-world-end-of-burst.json](./76242-accel-world-end-of-burst.json) |
+| Accel World: Kasoku no Chouten - Limited Edition | 317482 | [317482-accel-world-kasoku-no-chouten-limited-edition.json](./317482-accel-world-kasoku-no-chouten-limited-edition.json) |
 | Accel World: The Peak of Acceleration | 64495 | [64495-accel-world-the-peak-of-acceleration.json](./64495-accel-world-the-peak-of-acceleration.json) |
 | Accel-X | 128348 | [128348-accel-x.json](./128348-accel-x.json) |
 | Accele Brid | 38353 | [38353-accele-brid.json](./38353-accele-brid.json) |
@@ -11773,6 +11774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Pool | 116668 | [116668-another-pool.json](./116668-another-pool.json) |
 | Another Prince: A Lost Tale | 191915 | [191915-another-prince-a-lost-tale.json](./191915-another-prince-a-lost-tale.json) |
 | Another Princess is in Our Castle | 228362 | [228362-another-princess-is-in-our-castle.json](./228362-another-princess-is-in-our-castle.json) |
+| Another Random Idle RPG | 317042 | [317042-another-random-idle-rpg.json](./317042-another-random-idle-rpg.json) |
 | Another Realm | 303150 | [303150-another-realm.json](./303150-another-realm.json) |
 | Another Reigny Day | 368884 | [368884-another-reigny-day.json](./368884-another-reigny-day.json) |
 | Another Reverie | 265853 | [265853-another-reverie.json](./265853-another-reverie.json) |
@@ -12319,6 +12321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aooa | 345279 | [345279-aooa.json](./345279-aooa.json) |
 | Aooni | 307751 | [307751-aooni.json](./307751-aooni.json) |
 | Aooni: The Horror of Blueberry Onsen | 341884 | [341884-aooni-the-horror-of-blueberry-onsen.json](./341884-aooni-the-horror-of-blueberry-onsen.json) |
+| Aooni.io | 317486 | [317486-aooni-io.json](./317486-aooni-io.json) |
 | Aooni2 | 410832 | [410832-aooni2.json](./410832-aooni2.json) |
 | Aopii | 179018 | [179018-aopii.json](./179018-aopii.json) |
 | AOS Manager | 120367 | [120367-aos-manager.json](./120367-aos-manager.json) |
@@ -13108,7 +13111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ar'Kritz the Intruder | 86028 | [86028-arkritz-the-intruder.json](./86028-arkritz-the-intruder.json) |
 | Ar3na | 257937 | [257937-ar3na.json](./257937-ar3na.json) |
 | Ara and the Empty Universe | 178155 | [178155-ara-and-the-empty-universe.json](./178155-ara-and-the-empty-universe.json) |
-| Ara Fell | 19406 | [19406-ara-fell.json](./19406-ara-fell.json) |
 | Ara Fell & Rise of the Third Power | 272453 | [272453-ara-fell-and-rise-of-the-third-power.json](./272453-ara-fell-and-rise-of-the-third-power.json) |
 | Ara Fell: Enhanced Edition | 131981 | [131981-ara-fell-enhanced-edition.json](./131981-ara-fell-enhanced-edition.json) |
 | Ara Ngc 6397 | 206130 | [206130-ara-ngc-6397.json](./206130-ara-ngc-6397.json) |
@@ -17188,6 +17190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Traveler | 51973 | [51973-astral-traveler.json](./51973-astral-traveler.json) |
 | Astral Vangard | 289546 | [289546-astral-vangard.json](./289546-astral-vangard.json) |
 | Astral Wield | 319068 | [319068-astral-wield.json](./319068-astral-wield.json) |
+| Astral World | 316901 | [316901-astral-world.json](./316901-astral-world.json) |
 | Astral Zone | 380451 | [380451-astral-zone.json](./380451-astral-zone.json) |
 | Astral-Battlecraft | 392318 | [392318-astral-battlecraft.json](./392318-astral-battlecraft.json) |
 | AstralAir no Shiroki Towa Finale: Shiroki Hoshi no Yume | 137105 | [137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json](./137105-astralair-no-shiroki-towa-finale-shiroki-hoshi-no-yume.json) |
