@@ -3984,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurer's Consumer Guide | 8193 | [8193-adventurers-consumer-guide.json](./8193-adventurers-consumer-guide.json) |
 | Adventurer's Gambit: Dungeons of Fortune | 270009 | [270009-adventurers-gambit-dungeons-of-fortune.json](./270009-adventurers-gambit-dungeons-of-fortune.json) |
 | Adventurer's Gate | 357783 | [357783-adventurers-gate.json](./357783-adventurers-gate.json) |
+| Adventurer's Guild Reception | 391402 | [391402-adventurers-guild-reception.json](./391402-adventurers-guild-reception.json) |
 | Adventurers Guild Inc. | 325334 | [325334-adventurers-guild-inc.json](./325334-adventurers-guild-inc.json) |
 | Adventurers of Tamora | 151377 | [151377-adventurers-of-tamora.json](./151377-adventurers-of-tamora.json) |
 | Adventurers Shop | 386860 | [386860-adventurers-shop.json](./386860-adventurers-shop.json) |
@@ -9733,6 +9734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarcute | 20471 | [20471-anarcute.json](./20471-anarcute.json) |
 | Anarea Battle Royale | 128037 | [128037-anarea-battle-royale.json](./128037-anarea-battle-royale.json) |
 | Anaria | 350965 | [350965-anaria.json](./350965-anaria.json) |
+| Anaria: Reborn | 391383 | [391383-anaria-reborn.json](./391383-anaria-reborn.json) |
 | Anark.io | 95592 | [95592-anark-io.json](./95592-anark-io.json) |
 | Anasazi Tasholiiwe | 69621 | [69621-anasazi-tasholiiwe.json](./69621-anasazi-tasholiiwe.json) |
 | Anasozas: Another Surreal World | 379449 | [379449-anasozas-another-surreal-world.json](./379449-anasozas-another-surreal-world.json) |
@@ -11535,6 +11537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Fine Mess | 66787 | [66787-another-fine-mess.json](./66787-another-fine-mess.json) |
 | Another FNaF Fangame: Open Source | 209285 | [209285-another-fnaf-fangame-open-source.json](./209285-another-fnaf-fangame-open-source.json) |
 | Another FPS Game | 150774 | [150774-another-fps-game.json](./150774-another-fps-game.json) |
+| Another Game About Automation | 391380 | [391380-another-game-about-automation.json](./391380-another-game-about-automation.json) |
 | Another Game About Clicking | 348859 | [348859-another-game-about-clicking.json](./348859-another-game-about-clicking.json) |
 | Another Generic Space Shooter | 202594 | [202594-another-generic-space-shooter.json](./202594-another-generic-space-shooter.json) |
 | Another Happiness | 264470 | [264470-another-happiness.json](./264470-another-happiness.json) |
