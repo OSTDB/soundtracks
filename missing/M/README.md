@@ -2385,7 +2385,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maid's Melancholy | 247854 | [247854-maids-melancholy.json](./247854-maids-melancholy.json) |
 | Maiden | 142743 | [142743-maiden.json](./142743-maiden.json) |
 | Maiden | 344870 | [344870-maiden.json](./344870-maiden.json) |
-| Maiden & Spell | 104679 | [104679-maiden-and-spell.json](./104679-maiden-and-spell.json) |
 | Maiden and Lord | 337378 | [337378-maiden-and-lord.json](./337378-maiden-and-lord.json) |
 | Maiden and Swordsman | 129392 | [129392-maiden-and-swordsman.json](./129392-maiden-and-swordsman.json) |
 | Maiden City: The Last Collateral Damage | 90408 | [90408-maiden-city-the-last-collateral-damage.json](./90408-maiden-city-the-last-collateral-damage.json) |
@@ -17969,7 +17968,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight: Among Darkness | 154778 | [154778-moonlight-among-darkness.json](./154778-moonlight-among-darkness.json) |
 | Moonlighter | 227752 | [227752-moonlighter.json](./227752-moonlighter.json) |
 | Moonlighter 2: The Endless Vault | 324570 | [324570-moonlighter-2-the-endless-vault.json](./324570-moonlighter-2-the-endless-vault.json) |
-| Moonlighter: Between Dimensions | 119236 | [119236-moonlighter-between-dimensions.json](./119236-moonlighter-between-dimensions.json) |
 | Moonlighter: Complete Edition | 154212 | [154212-moonlighter-complete-edition.json](./154212-moonlighter-complete-edition.json) |
 | Moonlit | 141094 | [141094-moonlit.json](./141094-moonlit.json) |
 | Moonlit | 263437 | [263437-moonlit.json](./263437-moonlit.json) |
