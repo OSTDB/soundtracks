@@ -2196,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VideoHole: Episode II | 235886 | [235886-videohole-episode-ii.json](./235886-videohole-episode-ii.json) |
 | Videokid | 92954 | [92954-videokid.json](./92954-videokid.json) |
 | Videomation | 18309 | [18309-videomation.json](./18309-videomation.json) |
+| Videonauts | 348471 | [348471-videonauts.json](./348471-videonauts.json) |
 | Videopac Collection 1 | 224932 | [224932-videopac-collection-1.json](./224932-videopac-collection-1.json) |
 | Videophobia | 327615 | [327615-videophobia.json](./327615-videophobia.json) |
 | Videopulp: Super Carty's Dread | 133320 | [133320-videopulp-super-cartys-dread.json](./133320-videopulp-super-cartys-dread.json) |
