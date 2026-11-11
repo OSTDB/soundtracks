@@ -2379,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic: City Driving | 263971 | [263971-car-mechanic-city-driving.json](./263971-car-mechanic-city-driving.json) |
 | Car Merger | 88874 | [88874-car-merger.json](./88874-car-merger.json) |
 | Car on a Stick | 123623 | [123623-car-on-a-stick.json](./123623-car-on-a-stick.json) |
+| Car Park Capital | 344093 | [344093-car-park-capital.json](./344093-car-park-capital.json) |
 | Car Park: Draw Lines Puzzle | 261097 | [261097-car-park-draw-lines-puzzle.json](./261097-car-park-draw-lines-puzzle.json) |
 | Car Parking | 226295 | [226295-car-parking.json](./226295-car-parking.json) |
 | Car Parking - Test Drive and Parking Simulator | 88298 | [88298-car-parking-test-drive-and-parking-simulator.json](./88298-car-parking-test-drive-and-parking-simulator.json) |
@@ -3661,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cassius | 172197 | [172197-cassius.json](./172197-cassius.json) |
 | Cast | 193630 | [193630-cast.json](./193630-cast.json) |
 | Cast 'n' Blast | 318564 | [318564-cast-n-blast.json](./318564-cast-n-blast.json) |
+| Cast & Spell | 344066 | [344066-cast-and-spell.json](./344066-cast-and-spell.json) |
 | Cast Ashore | 152815 | [152815-cast-ashore.json](./152815-cast-ashore.json) |
 | Cast Away | 105242 | [105242-cast-away.json](./105242-cast-away.json) |
 | Cast Away: The Oddysee | 311061 | [311061-cast-away-the-oddysee.json](./311061-cast-away-the-oddysee.json) |
@@ -20107,6 +20109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Mines | 48141 | [48141-crystal-mines.json](./48141-crystal-mines.json) |
 | Crystal Mines II: Buried Treasure Expansion Pack | 137507 | [137507-crystal-mines-ii-buried-treasure-expansion-pack.json](./137507-crystal-mines-ii-buried-treasure-expansion-pack.json) |
 | Crystal Monsters | 79538 | [79538-crystal-monsters.json](./79538-crystal-monsters.json) |
+| Crystal Monsters (2025) | 344048 | [344048-crystal-monsters-2025.json](./344048-crystal-monsters-2025.json) |
 | Crystal of Atlantis | 247981 | [247981-crystal-of-atlantis.json](./247981-crystal-of-atlantis.json) |
 | Crystal of Death | 394071 | [394071-crystal-of-death.json](./394071-crystal-of-death.json) |
 | Crystal Ortha | 140966 | [140966-crystal-ortha.json](./140966-crystal-ortha.json) |
