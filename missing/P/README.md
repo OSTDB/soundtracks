@@ -938,6 +938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pakapow Party | 320114 | [320114-pakapow-party.json](./320114-pakapow-party.json) |
 | Pakicetus | 126516 | [126516-pakicetus.json](./126516-pakicetus.json) |
 | Pakicetus Redux | 368213 | [368213-pakicetus-redux.json](./368213-pakicetus-redux.json) |
+| Pakinpaks | 342979 | [342979-pakinpaks.json](./342979-pakinpaks.json) |
 | Pakistan Car Simulator Game | 335638 | [335638-pakistan-car-simulator-game.json](./335638-pakistan-car-simulator-game.json) |
 | Pakistan Quiz | 329411 | [329411-pakistan-quiz.json](./329411-pakistan-quiz.json) |
 | Pakka Pets Village | 230212 | [230212-pakka-pets-village.json](./230212-pakka-pets-village.json) |
@@ -2914,6 +2915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paso Comic PuruPuru Paradise: Santa Claus Tokushuu | 62213 | [62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json](./62213-paso-comic-purupuru-paradise-santa-claus-tokushuu.json) |
 | Paso Pico McDonald's de Asobo! | 202088 | [202088-paso-pico-mcdonalds-de-asobo.json](./202088-paso-pico-mcdonalds-de-asobo.json) |
 | PASS | 360680 | [360680-pass.json](./360680-pass.json) |
+| PASS Fortress | 342965 | [342965-pass-fortress.json](./342965-pass-fortress.json) |
 | Pass On | 183076 | [183076-pass-on.json](./183076-pass-on.json) |
 | Pass Problems | 264555 | [264555-pass-problems.json](./264555-pass-problems.json) |
 | Pass the Bomb | 67946 | [67946-pass-the-bomb.json](./67946-pass-the-bomb.json) |
@@ -7385,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX VR | 332437 | [332437-pinball-fx-vr.json](./332437-pinball-fx-vr.json) |
 | Pinball FX VR: Bethesda Pinball | 390897 | [390897-pinball-fx-vr-bethesda-pinball.json](./390897-pinball-fx-vr-bethesda-pinball.json) |
 | Pinball FX VR: Indiana Jones - The Pinball Adventure | 338670 | [338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json](./338670-pinball-fx-vr-indiana-jones-the-pinball-adventure.json) |
+| Pinball FX VR: Tomb Raider Pinball | 342969 | [342969-pinball-fx-vr-tomb-raider-pinball.json](./342969-pinball-fx-vr-tomb-raider-pinball.json) |
 | Pinball FX VR: Universal Pinball - TV Classics | 338671 | [338671-pinball-fx-vr-universal-pinball-tv-classics.json](./338671-pinball-fx-vr-universal-pinball-tv-classics.json) |
 | Pinball FX VR: Williams Pinball - Star Trek: The Next Generation | 338677 | [338677-pinball-fx-vr-williams-pinball-star-trek-the-next-generation.json](./338677-pinball-fx-vr-williams-pinball-star-trek-the-next-generation.json) |
 | Pinball FX VR: Williams Pinball - The Addams Family | 338676 | [338676-pinball-fx-vr-williams-pinball-the-addams-family.json](./338676-pinball-fx-vr-williams-pinball-the-addams-family.json) |
@@ -7439,6 +7442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: System Shock Pinball | 287178 | [287178-pinball-fx-system-shock-pinball.json](./287178-pinball-fx-system-shock-pinball.json) |
 | Pinball FX: The Machine - Bride of Pin Bot️ | 239023 | [239023-pinball-fx-the-machine-bride-of-pin-bot.json](./239023-pinball-fx-the-machine-bride-of-pin-bot.json) |
 | Pinball FX: The Princess Bride Pinball | 316244 | [316244-pinball-fx-the-princess-bride-pinball.json](./316244-pinball-fx-the-princess-bride-pinball.json) |
+| Pinball FX: Tomb Raider Pinball | 342968 | [342968-pinball-fx-tomb-raider-pinball.json](./342968-pinball-fx-tomb-raider-pinball.json) |
 | Pinball FX: Universal Classics Pinball | 239022 | [239022-pinball-fx-universal-classics-pinball.json](./239022-pinball-fx-universal-classics-pinball.json) |
 | Pinball FX: Universal Pinball - TV Classics | 298083 | [298083-pinball-fx-universal-pinball-tv-classics.json](./298083-pinball-fx-universal-pinball-tv-classics.json) |
 | Pinball FX: Williams Pinball - Anthology 1 | 375590 | [375590-pinball-fx-williams-pinball-anthology-1.json](./375590-pinball-fx-williams-pinball-anthology-1.json) |
@@ -11454,6 +11458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Aesthetic Red | 396606 | [396606-pokemon-aesthetic-red.json](./396606-pokemon-aesthetic-red.json) |
 | Pokémon Africanus | 298010 | [298010-pokemon-africanus.json](./298010-pokemon-africanus.json) |
 | Pokémon Ageless | 360182 | [360182-pokemon-ageless.json](./360182-pokemon-ageless.json) |
+| Pokemon Alchemist | 342974 | [342974-pokemon-alchemist.json](./342974-pokemon-alchemist.json) |
 | Pokémon All In Version | 410794 | [410794-pokemon-all-in-version.json](./410794-pokemon-all-in-version.json) |
 | Pokémon Alpha Sapphire | 6898 | [6898-pokemon-alpha-sapphire.json](./6898-pokemon-alpha-sapphire.json) |
 | Pokémon Altair | 129807 | [129807-pokemon-altair.json](./129807-pokemon-altair.json) |
@@ -15767,6 +15772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Legacy | 411918 | [411918-prison-legacy.json](./411918-prison-legacy.json) |
 | Prison Life 2 | 216959 | [216959-prison-life-2.json](./216959-prison-life-2.json) |
 | Prison Life RPG | 59736 | [59736-prison-life-rpg.json](./59736-prison-life-rpg.json) |
+| Prison Life Sim 2025: Survival | 343504 | [343504-prison-life-sim-2025-survival.json](./343504-prison-life-sim-2025-survival.json) |
 | Prison Life Simulator 2022: World Fight Battle GTA Ultimate | 204875 | [204875-prison-life-simulator-2022-world-fight-battle-gta-ultimate.json](./204875-prison-life-simulator-2022-world-fight-battle-gta-ultimate.json) |
 | Prison Life Simulator Jail: Glove Pack Expansion | 317676 | [317676-prison-life-simulator-jail-glove-pack-expansion.json](./317676-prison-life-simulator-jail-glove-pack-expansion.json) |
 | Prison Life Simulator: The Legend of Navalny | 190268 | [190268-prison-life-simulator-the-legend-of-navalny.json](./190268-prison-life-simulator-the-legend-of-navalny.json) |
