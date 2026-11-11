@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neil Android | 354582 | [354582-neil-android.json](./354582-neil-android.json) |
 | Neil The Nail | 270742 | [270742-neil-the-nail.json](./270742-neil-the-nail.json) |
 | Neilos | 57396 | [57396-neilos.json](./57396-neilos.json) |
+| Neither Cross Nor Crown | 348492 | [348492-neither-cross-nor-crown.json](./348492-neither-cross-nor-crown.json) |
 | Neither Day nor Night | 123768 | [123768-neither-day-nor-night.json](./123768-neither-day-nor-night.json) |
 | Neither Dead nor Alive | 345823 | [345823-neither-dead-nor-alive.json](./345823-neither-dead-nor-alive.json) |
 | Nekketsu Dodgeball-bu i | 191804 | [191804-nekketsu-dodgeball-bu-i.json](./191804-nekketsu-dodgeball-bu-i.json) |
@@ -6249,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One's Earth | 189850 | [189850-no-ones-earth.json](./189850-no-ones-earth.json) |
 | No One's Island | 368553 | [368553-no-ones-island.json](./368553-no-ones-island.json) |
 | No Ordinary Elevator | 76666 | [76666-no-ordinary-elevator.json](./76666-no-ordinary-elevator.json) |
+| No Other Alchemists Here | 347958 | [347958-no-other-alchemists-here.json](./347958-no-other-alchemists-here.json) |
 | No Outlet | 201633 | [201633-no-outlet.json](./201633-no-outlet.json) |
 | No Pain No Gain | 390604 | [390604-no-pain-no-gain.json](./390604-no-pain-no-gain.json) |
 | No Paint | 241813 | [241813-no-paint.json](./241813-no-paint.json) |
@@ -7661,6 +7663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | November | 183228 | [183228-november.json](./183228-november.json) |
 | November | 255893 | [255893-november.json](./255893-november.json) |
 | November 5th | 262561 | [262561-november-5th.json](./262561-november-5th.json) |
+| Novems | 348483 | [348483-novems.json](./348483-novems.json) |
 | Novena | 131741 | [131741-novena.json](./131741-novena.json) |
 | Novena Diabolos | 132267 | [132267-novena-diabolos.json](./132267-novena-diabolos.json) |
 | Novi Cube | 216973 | [216973-novi-cube.json](./216973-novi-cube.json) |
