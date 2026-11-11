@@ -13457,6 +13457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperTyper 2000 | 359685 | [359685-hypertyper-2000.json](./359685-hypertyper-2000.json) |
 | Hyperun | 49512 | [49512-hyperun.json](./49512-hyperun.json) |
 | Hyperventila: The Game | 125059 | [125059-hyperventila-the-game.json](./125059-hyperventila-the-game.json) |
+| Hypervox | 393191 | [393191-hypervox.json](./393191-hypervox.json) |
 | Hyperwave | 207843 | [207843-hyperwave.json](./207843-hyperwave.json) |
 | Hyperwheel Overdrive | 131574 | [131574-hyperwheel-overdrive.json](./131574-hyperwheel-overdrive.json) |
 | Hyperwired | 325366 | [325366-hyperwired.json](./325366-hyperwired.json) |
