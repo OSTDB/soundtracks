@@ -505,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Sails | 182046 | [182046-yellow-sails.json](./182046-yellow-sails.json) |
 | Yellow Trouble | 324941 | [324941-yellow-trouble.json](./324941-yellow-trouble.json) |
 | Yellow: The Yellow Artifact | 32437 | [32437-yellow-the-yellow-artifact.json](./32437-yellow-the-yellow-artifact.json) |
+| Yellowcreek Stories: The Cabin Watcher | 392567 | [392567-yellowcreek-stories-the-cabin-watcher.json](./392567-yellowcreek-stories-the-cabin-watcher.json) |
 | YellowDream | 134484 | [134484-yellowdream.json](./134484-yellowdream.json) |
 | Yellowlooper | 167521 | [167521-yellowlooper.json](./167521-yellowlooper.json) |
 | YellowPips | 384185 | [384185-yellowpips.json](./384185-yellowpips.json) |
