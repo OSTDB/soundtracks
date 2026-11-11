@@ -8036,6 +8036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Parakeet | 346777 | [346777-pirate-parakeet.json](./346777-pirate-parakeet.json) |
 | Pirate Patrol | 244592 | [244592-pirate-patrol.json](./244592-pirate-patrol.json) |
 | Pirate Pete | 154810 | [154810-pirate-pete.json](./154810-pirate-pete.json) |
+| Pirate Pillage and Plunder | 391900 | [391900-pirate-pillage-and-plunder.json](./391900-pirate-pillage-and-plunder.json) |
 | Pirate Planet | 135556 | [135556-pirate-planet.json](./135556-pirate-planet.json) |
 | Pirate Plight | 245911 | [245911-pirate-plight.json](./245911-pirate-plight.json) |
 | Pirate Pop Mega Quiz | 232499 | [232499-pirate-pop-mega-quiz.json](./232499-pirate-pop-mega-quiz.json) |
@@ -10610,6 +10611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plebs | 261766 | [261766-plebs.json](./261766-plebs.json) |
 | Plebs & Pillagers | 266590 | [266590-plebs-and-pillagers.json](./266590-plebs-and-pillagers.json) |
 | Plecos Keep | 155911 | [155911-plecos-keep.json](./155911-plecos-keep.json) |
+| Plectra Spectre | 391912 | [391912-plectra-spectre.json](./391912-plectra-spectre.json) |
 | Pleiades | 24467 | [24467-pleiades.json](./24467-pleiades.json) |
 | Pleiades | 281187 | [281187-pleiades.json](./281187-pleiades.json) |
 | Pleiades: A Subversion Saga Game | 150754 | [150754-pleiades-a-subversion-saga-game.json](./150754-pleiades-a-subversion-saga-game.json) |
@@ -10930,6 +10932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Fighter | 23094 | [23094-pocket-fighter.json](./23094-pocket-fighter.json) |
 | Pocket Fish | 67942 | [67942-pocket-fish.json](./67942-pocket-fish.json) |
 | Pocket Fishing | 286199 | [286199-pocket-fishing.json](./286199-pocket-fishing.json) |
+| Pocket Flight | 391388 | [391388-pocket-flight.json](./391388-pocket-flight.json) |
 | Pocket Foosball | 280150 | [280150-pocket-foosball.json](./280150-pocket-foosball.json) |
 | Pocket Frogs | 66320 | [66320-pocket-frogs.json](./66320-pocket-frogs.json) |
 | Pocket Furies | 414323 | [414323-pocket-furies.json](./414323-pocket-furies.json) |
@@ -13420,6 +13423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop's World | 388673 | [388673-pops-world.json](./388673-pops-world.json) |
 | Pop4 | 134028 | [134028-pop4.json](./134028-pop4.json) |
 | Popap | 29154 | [29154-popap.json](./29154-popap.json) |
+| Popapom | 391400 | [391400-popapom.json](./391400-popapom.json) |
 | PopCap Arcade Vol. 1 | 7132 | [7132-popcap-arcade-vol-1.json](./7132-popcap-arcade-vol-1.json) |
 | PopCap Arcade Vol. 2 | 7133 | [7133-popcap-arcade-vol-2.json](./7133-popcap-arcade-vol-2.json) |
 | PopCap Arcade: Rakushisa, Ippai, Action & Puzzle 7 Pack | 86144 | [86144-popcap-arcade-rakushisa-ippai-action-and-puzzle-7-pack.json](./86144-popcap-arcade-rakushisa-ippai-action-and-puzzle-7-pack.json) |
@@ -16500,6 +16504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Blari | 150948 | [150948-project-blari.json](./150948-project-blari.json) |
 | Project Blind | 297193 | [297193-project-blind.json](./297193-project-blind.json) |
 | Project BlockchainZ | 180313 | [180313-project-blockchainz.json](./180313-project-blockchainz.json) |
+| Project Blood Sword | 391922 | [391922-project-blood-sword.json](./391922-project-blood-sword.json) |
 | Project Bloom | 249706 | [249706-project-bloom.json](./249706-project-bloom.json) |
 | Project Blue | 137766 | [137766-project-blue.json](./137766-project-blue.json) |
 | Project Blue Book: Hidden Mysteries | 157917 | [157917-project-blue-book-hidden-mysteries.json](./157917-project-blue-book-hidden-mysteries.json) |
