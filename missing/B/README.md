@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -8669,6 +8670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioCrisis: Return 2 the Lab | 203905 | [203905-biocrisis-return-2-the-lab.json](./203905-biocrisis-return-2-the-lab.json) |
 | Biodacity The Mansion | 333815 | [333815-biodacity-the-mansion.json](./333815-biodacity-the-mansion.json) |
 | BioDefense | 66799 | [66799-biodefense.json](./66799-biodefense.json) |
+| Biodetention | 350109 | [350109-biodetention.json](./350109-biodetention.json) |
 | Biodigital | 107807 | [107807-biodigital.json](./107807-biodigital.json) |
 | BioDive | 292457 | [292457-biodive.json](./292457-biodive.json) |
 | Biodrone Battle | 35072 | [35072-biodrone-battle.json](./35072-biodrone-battle.json) |
@@ -10401,6 +10403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blastar | 274848 | [274848-blastar.json](./274848-blastar.json) |
 | BlastArena.io | 75410 | [75410-blastarena-io.json](./75410-blastarena-io.json) |
 | Blastarock! | 196842 | [196842-blastarock.json](./196842-blastarock.json) |
+| Blastback | 350090 | [350090-blastback.json](./350090-blastback.json) |
 | Blastboard | 129124 | [129124-blastboard.json](./129124-blastboard.json) |
 | Blastboard: Casso | 203907 | [203907-blastboard-casso.json](./203907-blastboard-casso.json) |
 | Blasted | 46862 | [46862-blasted.json](./46862-blasted.json) |
