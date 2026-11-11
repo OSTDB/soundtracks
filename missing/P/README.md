@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painty Mob | 193769 | [193769-painty-mob.json](./193769-painty-mob.json) |
 | Painwives | 419852 | [419852-painwives.json](./419852-painwives.json) |
 | Paio Hazard | 134630 | [134630-paio-hazard.json](./134630-paio-hazard.json) |
+| Pair a Dice | 323474 | [323474-pair-a-dice.json](./323474-pair-a-dice.json) |
 | Pair at Sea | 403880 | [403880-pair-at-sea.json](./403880-pair-at-sea.json) |
 | Pair Horror | 309061 | [309061-pair-horror.json](./309061-pair-horror.json) |
 | Pair Horror + Haunted Pack Set | 328990 | [328990-pair-horror-haunted-pack-set.json](./328990-pair-horror-haunted-pack-set.json) |
@@ -1595,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Panic | 66449 | [66449-panzer-panic.json](./66449-panzer-panic.json) |
 | Panzer Panic VR | 29537 | [29537-panzer-panic-vr.json](./29537-panzer-panic-vr.json) |
 | Panzer Party | 85329 | [85329-panzer-party.json](./85329-panzer-party.json) |
+| Panzer Planet | 323469 | [323469-panzer-planet.json](./323469-panzer-planet.json) |
 | Panzer Strategy | 83612 | [83612-panzer-strategy.json](./83612-panzer-strategy.json) |
 | Panzer Strike | 324314 | [324314-panzer-strike.json](./324314-panzer-strike.json) |
 | Panzer Strike! | 68564 | [68564-panzer-strike.json](./68564-panzer-strike.json) |
@@ -7991,6 +7993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipkin | 315712 | [315712-pipkin.json](./315712-pipkin.json) |
 | Pipler | 57701 | [57701-pipler.json](./57701-pipler.json) |
 | Pipo | 323148 | [323148-pipo.json](./323148-pipo.json) |
+| Pipo Dream Friend | 323450 | [323450-pipo-dream-friend.json](./323450-pipo-dream-friend.json) |
 | Pipo Park | 141225 | [141225-pipo-park.json](./141225-pipo-park.json) |
 | Pipo Saru 2001 | 66544 | [66544-pipo-saru-2001.json](./66544-pipo-saru-2001.json) |
 | Pipo's on the Run | 178376 | [178376-pipos-on-the-run.json](./178376-pipos-on-the-run.json) |
@@ -16308,6 +16311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procedural Death Labyrinth | 137578 | [137578-procedural-death-labyrinth.json](./137578-procedural-death-labyrinth.json) |
 | Procedural Realms | 228701 | [228701-procedural-realms.json](./228701-procedural-realms.json) |
 | Procedural Soccer | 173228 | [173228-procedural-soccer.json](./173228-procedural-soccer.json) |
+| Procedure | 322892 | [322892-procedure.json](./322892-procedure.json) |
 | Procedure Zero | 418716 | [418716-procedure-zero.json](./418716-procedure-zero.json) |
 | Proceed to ICU | 390020 | [390020-proceed-to-icu.json](./390020-proceed-to-icu.json) |
 | Procelio | 307164 | [307164-procelio.json](./307164-procelio.json) |
