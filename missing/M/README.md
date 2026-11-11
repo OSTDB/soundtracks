@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Archers | 148862 | [148862-magic-archers.json](./148862-magic-archers.json) |
 | Magic Archery | 318318 | [318318-magic-archery.json](./318318-magic-archery.json) |
 | Magic Architect: Into Disaster | 275953 | [275953-magic-architect-into-disaster.json](./275953-magic-architect-into-disaster.json) |
+| Magic Array Defense | 379792 | [379792-magic-array-defense.json](./379792-magic-array-defense.json) |
 | Magic Axolotl | 220441 | [220441-magic-axolotl.json](./220441-magic-axolotl.json) |
 | Magic Ball Deluxe | 70237 | [70237-magic-ball-deluxe.json](./70237-magic-ball-deluxe.json) |
 | Magic Balls | 163868 | [163868-magic-balls.json](./163868-magic-balls.json) |
