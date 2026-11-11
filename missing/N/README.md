@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
 | Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
 | Need Two Survive | 325903 | [325903-need-two-survive.json](./325903-need-two-survive.json) |
+| Need: No End | 390312 | [390312-need-no-end.json](./390312-need-no-end.json) |
 | Needle & Thread | 330155 | [330155-needle-and-thread.json](./330155-needle-and-thread.json) |
 | Needle Eye | 392965 | [392965-needle-eye.json](./392965-needle-eye.json) |
 | Needle in a Haystack | 417152 | [417152-needle-in-a-haystack.json](./417152-needle-in-a-haystack.json) |
@@ -7299,6 +7300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not a Prank | 118977 | [118977-not-a-prank.json](./118977-not-a-prank.json) |
 | Not a Safe Place | 415757 | [415757-not-a-safe-place.json](./415757-not-a-safe-place.json) |
 | Not A Thief Simulator | 236862 | [236862-not-a-thief-simulator.json](./236862-not-a-thief-simulator.json) |
+| Not A.C.A.B. | 390832 | [390832-not-a-c-a-b.json](./390832-not-a-c-a-b.json) |
 | Not Actually A DOS Game | 184181 | [184181-not-actually-a-dos-game.json](./184181-not-actually-a-dos-game.json) |
 | Not Again, Hero | 364684 | [364684-not-again-hero.json](./364684-not-again-hero.json) |
 | Not All There | 229781 | [229781-not-all-there.json](./229781-not-all-there.json) |
