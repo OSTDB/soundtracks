@@ -6021,6 +6021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windosill: Steam Deck Edition | 240095 | [240095-windosill-steam-deck-edition.json](./240095-windosill-steam-deck-edition.json) |
 | Window Aquarista | 373679 | [373679-window-aquarista.json](./373679-window-aquarista.json) |
 | Window Garden | 252785 | [252785-window-garden.json](./252785-window-garden.json) |
+| Window Garden | 374506 | [374506-window-garden.json](./374506-window-garden.json) |
 | Window of Perspectives | 343966 | [343966-window-of-perspectives.json](./343966-window-of-perspectives.json) |
 | Window Seat | 409643 | [409643-window-seat.json](./409643-window-seat.json) |
 | Window Wizard | 68352 | [68352-window-wizard.json](./68352-window-wizard.json) |
@@ -9951,6 +9952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K25: Dunk & Destruction Pack | 353987 | [353987-wwe-2k25-dunk-and-destruction-pack.json](./353987-wwe-2k25-dunk-and-destruction-pack.json) |
 | WWE 2K25: Fearless Pack | 353988 | [353988-wwe-2k25-fearless-pack.json](./353988-wwe-2k25-fearless-pack.json) |
 | WWE 2K25: New Wave Pack | 353989 | [353989-wwe-2k25-new-wave-pack.json](./353989-wwe-2k25-new-wave-pack.json) |
+| WWE 2K25: Saturday Night's Main Event Pack | 373991 | [373991-wwe-2k25-saturday-nights-main-event-pack.json](./373991-wwe-2k25-saturday-nights-main-event-pack.json) |
 | WWE 2K25: The Bloodline Edition | 335096 | [335096-wwe-2k25-the-bloodline-edition.json](./335096-wwe-2k25-the-bloodline-edition.json) |
 | WWE 2K25: The Bloodline Edition Bonus Pack | 353990 | [353990-wwe-2k25-the-bloodline-edition-bonus-pack.json](./353990-wwe-2k25-the-bloodline-edition-bonus-pack.json) |
 | WWE 2K25: WrestleMania 41 Pack | 353991 | [353991-wwe-2k25-wrestlemania-41-pack.json](./353991-wwe-2k25-wrestlemania-41-pack.json) |
