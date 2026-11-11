@@ -1013,7 +1013,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1166,6 +1165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bagration | 81665 | [81665-bagration.json](./81665-bagration.json) |
 | Bagsy | 423399 | [423399-bagsy.json](./423399-bagsy.json) |
 | Bagua Alley | 360870 | [360870-bagua-alley.json](./360870-bagua-alley.json) |
+| Baguette Sprint | 382072 | [382072-baguette-sprint.json](./382072-baguette-sprint.json) |
 | Baguette Wars | 313638 | [313638-baguette-wars.json](./313638-baguette-wars.json) |
 | Bah, Humbug! | 97350 | [97350-bah-humbug.json](./97350-bah-humbug.json) |
 | Bahama Conch n Burger Shack | 113537 | [113537-bahama-conch-n-burger-shack.json](./113537-bahama-conch-n-burger-shack.json) |
@@ -12548,6 +12548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluey Shortcut Running Game | 212636 | [212636-bluey-shortcut-running-game.json](./212636-bluey-shortcut-running-game.json) |
 | Bluey Wackadoo Watch | 230557 | [230557-bluey-wackadoo-watch.json](./230557-bluey-wackadoo-watch.json) |
 | Bluey x Crossy Road Castle | 403839 | [403839-bluey-x-crossy-road-castle.json](./403839-bluey-x-crossy-road-castle.json) |
+| Bluey: Bust-a-Move | 382112 | [382112-bluey-bust-a-move.json](./382112-bluey-bust-a-move.json) |
 | Bluey: Let's Play! | 266418 | [266418-bluey-lets-play.json](./266418-bluey-lets-play.json) |
 | Bluey: The Videogame | 257332 | [257332-bluey-the-videogame.json](./257332-bluey-the-videogame.json) |
 | Bluey's Happy Snaps | 396024 | [396024-blueys-happy-snaps.json](./396024-blueys-happy-snaps.json) |
@@ -15505,6 +15506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainwash Facility | 272116 | [272116-brainwash-facility.json](./272116-brainwash-facility.json) |
 | Brainwashing Academy: The Cursed Person's Pot | 380457 | [380457-brainwashing-academy-the-cursed-persons-pot.json](./380457-brainwashing-academy-the-cursed-persons-pot.json) |
 | Brainwave Trials | 304426 | [304426-brainwave-trials.json](./304426-brainwave-trials.json) |
+| Brainy Inc. | 382111 | [382111-brainy-inc.json](./382111-brainy-inc.json) |
 | Brainy Joy | 75937 | [75937-brainy-joy.json](./75937-brainy-joy.json) |
 | Brainy Mouse | 90844 | [90844-brainy-mouse.json](./90844-brainy-mouse.json) |
 | Brainy Tree | 27944 | [27944-brainy-tree.json](./27944-brainy-tree.json) |
