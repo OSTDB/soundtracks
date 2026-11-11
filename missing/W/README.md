@@ -3126,6 +3126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We The Pixies | 365805 | [365805-we-the-pixies.json](./365805-we-the-pixies.json) |
 | We Thieves HD | 343368 | [343368-we-thieves-hd.json](./343368-we-thieves-hd.json) |
 | We Three Gifts | 325887 | [325887-we-three-gifts.json](./325887-we-three-gifts.json) |
+| We Three: A Love Story | 342359 | [342359-we-three-a-love-story.json](./342359-we-three-a-love-story.json) |
 | We Took That Trip | 203678 | [203678-we-took-that-trip.json](./203678-we-took-that-trip.json) |
 | We Used to Play Here | 382120 | [382120-we-used-to-play-here.json](./382120-we-used-to-play-here.json) |
 | We Walked In Darkness | 81734 | [81734-we-walked-in-darkness.json](./81734-we-walked-in-darkness.json) |
@@ -4604,6 +4605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Samantha? | 145131 | [145131-wheres-samantha.json](./145131-wheres-samantha.json) |
 | Where's Tess | 298869 | [298869-wheres-tess.json](./298869-wheres-tess.json) |
 | Where's That Clown?! | 367487 | [367487-wheres-that-clown.json](./367487-wheres-that-clown.json) |
+| Where's That Person? | 342358 | [342358-wheres-that-person.json](./342358-wheres-that-person.json) |
 | Where's the Bathroom!?! | 215651 | [215651-wheres-the-bathroom.json](./215651-wheres-the-bathroom.json) |
 | Where's the Blanket Charlie Brown? | 69583 | [69583-wheres-the-blanket-charlie-brown.json](./69583-wheres-the-blanket-charlie-brown.json) |
 | Where's the Boat | 282229 | [282229-wheres-the-boat.json](./282229-wheres-the-boat.json) |
