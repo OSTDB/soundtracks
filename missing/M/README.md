@@ -3482,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Many Crimes of Serenity Falls | 301917 | [301917-many-crimes-of-serenity-falls.json](./301917-many-crimes-of-serenity-falls.json) |
 | Many Eyed | 270051 | [270051-many-eyed.json](./270051-many-eyed.json) |
 | Many Faces | 127823 | [127823-many-faces.json](./127823-many-faces.json) |
+| Many Mini Things | 395927 | [395927-many-mini-things.json](./395927-many-mini-things.json) |
 | Many Mini Typing Games | 295147 | [295147-many-mini-typing-games.json](./295147-many-mini-typing-games.json) |
 | Many Minigames | 369532 | [369532-many-minigames.json](./369532-many-minigames.json) |
 | Many Nights a Whisper | 335230 | [335230-many-nights-a-whisper.json](./335230-many-nights-a-whisper.json) |
@@ -17274,6 +17275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters vs. Aliens | 248559 | [248559-monsters-vs-aliens.json](./248559-monsters-vs-aliens.json) |
 | Monsters vs. Aliens | 5021 | [5021-monsters-vs-aliens.json](./5021-monsters-vs-aliens.json) |
 | Monsters vs. Aliens: The Mobile Game | 316477 | [316477-monsters-vs-aliens-the-mobile-game.json](./316477-monsters-vs-aliens-the-mobile-game.json) |
+| Monsters vs. Machines | 395901 | [395901-monsters-vs-machines.json](./395901-monsters-vs-machines.json) |
 | Monsters with Attitude | 123250 | [123250-monsters-with-attitude.json](./123250-monsters-with-attitude.json) |
 | Monsters, Briefcase and Road | 159831 | [159831-monsters-briefcase-and-road.json](./159831-monsters-briefcase-and-road.json) |
 | Monsters, Inc. | 23463 | [23463-monsters-inc.json](./23463-monsters-inc.json) |
@@ -18558,6 +18560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moshi, Kono Sekai ni Kami-sama ga Iru to Suru Naraba. | 131914 | [131914-moshi-kono-sekai-ni-kami-sama-ga-iru-to-suru-naraba.json](./131914-moshi-kono-sekai-ni-kami-sama-ga-iru-to-suru-naraba.json) |
 | Moshikashite? Obake no Shatekiya | 148186 | [148186-moshikashite-obake-no-shatekiya.json](./148186-moshikashite-obake-no-shatekiya.json) |
 | Moshinken Monogatari | 410898 | [410898-moshinken-monogatari.json](./410898-moshinken-monogatari.json) |
+| Moshling Boshling | 395530 | [395530-moshling-boshling.json](./395530-moshling-boshling.json) |
 | Moshling Rescue! | 395487 | [395487-moshling-rescue.json](./395487-moshling-rescue.json) |
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
 | Moshpit | 113298 | [113298-moshpit.json](./113298-moshpit.json) |
@@ -20467,6 +20470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Is Game Over: Murder Otaku | 338721 | [338721-murder-is-game-over-murder-otaku.json](./338721-murder-is-game-over-murder-otaku.json) |
 | Murder Is Game Over: Streaming Death | 238815 | [238815-murder-is-game-over-streaming-death.json](./238815-murder-is-game-over-streaming-death.json) |
 | Murder Is Game Over: The Blackinton Curse | 318208 | [318208-murder-is-game-over-the-blackinton-curse.json](./318208-murder-is-game-over-the-blackinton-curse.json) |
+| Murder Is Game Over: Treasure & Terror | 395903 | [395903-murder-is-game-over-treasure-and-terror.json](./395903-murder-is-game-over-treasure-and-terror.json) |
 | Murder Machine Mini | 115345 | [115345-murder-machine-mini.json](./115345-murder-machine-mini.json) |
 | Murder Makes Strange Deadfellows | 73320 | [73320-murder-makes-strange-deadfellows.json](./73320-murder-makes-strange-deadfellows.json) |
 | Murder Malady | 327366 | [327366-murder-malady.json](./327366-murder-malady.json) |
