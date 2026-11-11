@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamasa Digi Guide: New Pulsar R | 357109 | [357109-yamasa-digi-guide-new-pulsar-r.json](./357109-yamasa-digi-guide-new-pulsar-r.json) |
 | Yamasa Digi Guide: Umekagetsu R | 364376 | [364376-yamasa-digi-guide-umekagetsu-r.json](./364376-yamasa-digi-guide-umekagetsu-r.json) |
 | Yamasa Digi Portable: Matsuri no Tatsujin - Win-Chan no Natsumatsuri | 98140 | [98140-yamasa-digi-portable-matsuri-no-tatsujin-win-chan-no-natsumatsuri.json](./98140-yamasa-digi-portable-matsuri-no-tatsujin-win-chan-no-natsumatsuri.json) |
+| Yamasa Digi Selection | 360213 | [360213-yamasa-digi-selection.json](./360213-yamasa-digi-selection.json) |
 | Yamasa Digi Selection 2 | 361283 | [361283-yamasa-digi-selection-2.json](./361283-yamasa-digi-selection-2.json) |
 | Yamasa Digi World 2: LCD Edition | 61328 | [61328-yamasa-digi-world-2-lcd-edition.json](./61328-yamasa-digi-world-2-lcd-edition.json) |
 | Yamasa Digi World 3 | 61327 | [61327-yamasa-digi-world-3.json](./61327-yamasa-digi-world-3.json) |
