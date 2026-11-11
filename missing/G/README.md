@@ -11606,7 +11606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbo | 182624 | [182624-gunbo.json](./182624-gunbo.json) |
 | Gunboat God | 305189 | [305189-gunboat-god.json](./305189-gunboat-god.json) |
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
-| Gunborg: Dark Matters | 151140 | [151140-gunborg-dark-matters.json](./151140-gunborg-dark-matters.json) |
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
 | Gunbound T | 234450 | [234450-gunbound-t.json](./234450-gunbound-t.json) |
 | GunboundM | 69500 | [69500-gunboundm.json](./69500-gunboundm.json) |
