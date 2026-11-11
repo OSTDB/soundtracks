@@ -326,6 +326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Slot | 64458 | [64458-pac-slot.json](./64458-pac-slot.json) |
 | Pac-Snec | 393131 | [393131-pac-snec.json](./393131-pac-snec.json) |
 | Pac-Xon Hero Strikes Back! | 238859 | [238859-pac-xon-hero-strikes-back.json](./238859-pac-xon-hero-strikes-back.json) |
+| Pac-xon: Deluxe | 364415 | [364415-pac-xon-deluxe.json](./364415-pac-xon-deluxe.json) |
 | Pac's Revenge | 337997 | [337997-pacs-revenge.json](./337997-pacs-revenge.json) |
 | Paca Paca Passion Special | 329386 | [329386-paca-paca-passion-special.json](./329386-paca-paca-passion-special.json) |
 | Paca Plus | 79672 | [79672-paca-plus.json](./79672-paca-plus.json) |
@@ -612,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PacVenture | 397552 | [397552-pacventure.json](./397552-pacventure.json) |
 | PacWorm | 25140 | [25140-pacworm.json](./25140-pacworm.json) |
 | Pacwyn 20 | 130643 | [130643-pacwyn-20.json](./130643-pacwyn-20.json) |
+| Pacxon: Legend is back | 364416 | [364416-pacxon-legend-is-back.json](./364416-pacxon-legend-is-back.json) |
 | Pacybits | 124662 | [124662-pacybits.json](./124662-pacybits.json) |
 | Pacz!: Pacmanworlds 2 | 141732 | [141732-pacz-pacmanworlds-2.json](./141732-pacz-pacmanworlds-2.json) |
 | Pad of Time | 194983 | [194983-pad-of-time.json](./194983-pad-of-time.json) |
@@ -1888,6 +1890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papercraft Tactics | 345092 | [345092-papercraft-tactics.json](./345092-papercraft-tactics.json) |
 | Papercut Art Gallery-Growth | 297802 | [297802-papercut-art-gallery-growth.json](./297802-papercut-art-gallery-growth.json) |
 | Papercut Art Gallery: Nature | 292854 | [292854-papercut-art-gallery-nature.json](./292854-papercut-art-gallery-nature.json) |
+| Paperdoll Psychology | 364760 | [364760-paperdoll-psychology.json](./364760-paperdoll-psychology.json) |
 | Paperents | 342292 | [342292-paperents.json](./342292-paperents.json) |
 | Papergames.io | 334918 | [334918-papergames-io.json](./334918-papergames-io.json) |
 | Paperhead | 276028 | [276028-paperhead.json](./276028-paperhead.json) |
@@ -16201,6 +16204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procrastinaut | 270951 | [270951-procrastinaut.json](./270951-procrastinaut.json) |
 | ProcrastiTyper | 202805 | [202805-procrastityper.json](./202805-procrastityper.json) |
 | Procuring Estrogen for Your Toxic Slime Girlfriend | 397074 | [397074-procuring-estrogen-for-your-toxic-slime-girlfriend.json](./397074-procuring-estrogen-for-your-toxic-slime-girlfriend.json) |
+| ProcW | 364734 | [364734-procw.json](./364734-procw.json) |
 | Procyon | 16884 | [16884-procyon.json](./16884-procyon.json) |
 | Procyon | 218130 | [218130-procyon.json](./218130-procyon.json) |
 | Prodeus | 112613 | [112613-prodeus.json](./112613-prodeus.json) |
