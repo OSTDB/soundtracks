@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ugokasou! Chibi Kyara Koubou | 222060 | [222060-ugokasou-chibi-kyara-koubou.json](./222060-ugokasou-chibi-kyara-koubou.json) |
 | Ugoku E Ver. 2.0: Aryol | 44427 | [44427-ugoku-e-ver-2-0-aryol.json](./44427-ugoku-e-ver-2-0-aryol.json) |
 | Ugoku Sushi Bar | 395584 | [395584-ugoku-sushi-bar.json](./395584-ugoku-sushi-bar.json) |
+| Ugomeku Note | 355242 | [355242-ugomeku-note.json](./355242-ugomeku-note.json) |
 | Uh Oh Airlines | 340986 | [340986-uh-oh-airlines.json](./340986-uh-oh-airlines.json) |
 | Uh Oh Bartender | 122297 | [122297-uh-oh-bartender.json](./122297-uh-oh-bartender.json) |
 | Uh Oh Calico! | 273411 | [273411-uh-oh-calico.json](./273411-uh-oh-calico.json) |
