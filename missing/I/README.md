@@ -3910,6 +3910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernax | 122386 | [122386-infernax.json](./122386-infernax.json) |
 | Infernax: Deux or Die | 248094 | [248094-infernax-deux-or-die.json](./248094-infernax-deux-or-die.json) |
 | Inferni: Hope & Fear | 292358 | [292358-inferni-hope-and-fear.json](./292358-inferni-hope-and-fear.json) |
+| Infernitos | 325784 | [325784-infernitos.json](./325784-infernitos.json) |
 | Infernitos: Fiery Dishes | 353957 | [353957-infernitos-fiery-dishes.json](./353957-infernitos-fiery-dishes.json) |
 | Infernium | 86337 | [86337-infernium.json](./86337-infernium.json) |
 | Inferno | 117270 | [117270-inferno.json](./117270-inferno.json) |
@@ -4581,6 +4582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkfish | 190874 | [190874-inkfish.json](./190874-inkfish.json) |
 | Inkheart | 123332 | [123332-inkheart.json](./123332-inkheart.json) |
 | Inkighter | 244827 | [244827-inkighter.json](./244827-inkighter.json) |
+| InKing | 325760 | [325760-inking.json](./325760-inking.json) |
 | Inkjet Apocalypse | 350036 | [350036-inkjet-apocalypse.json](./350036-inkjet-apocalypse.json) |
 | Inkling Cats: Beneath the dreams | 323635 | [323635-inkling-cats-beneath-the-dreams.json](./323635-inkling-cats-beneath-the-dreams.json) |
 | Inklings | 32800 | [32800-inklings.json](./32800-inklings.json) |
