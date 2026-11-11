@@ -12381,7 +12381,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The Edge of Reality - Deluxe Edition | 189946 | [189946-doctor-who-the-edge-of-reality-deluxe-edition.json](./189946-doctor-who-the-edge-of-reality-deluxe-edition.json) |
 | Doctor Who: The Edge of Reality - Digital Deluxe Edition | 237903 | [237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json](./237903-doctor-who-the-edge-of-reality-digital-deluxe-edition.json) |
 | Doctor Who: The Edge of Reality + The Lonely Assassins | 207092 | [207092-doctor-who-the-edge-of-reality-the-lonely-assassins.json](./207092-doctor-who-the-edge-of-reality-the-lonely-assassins.json) |
-| Doctor Who: The Edge of Time | 118784 | [118784-doctor-who-the-edge-of-time.json](./118784-doctor-who-the-edge-of-time.json) |
 | Doctor Who: The First Adventure | 66678 | [66678-doctor-who-the-first-adventure.json](./66678-doctor-who-the-first-adventure.json) |
 | Doctor Who: The Last Dalek | 232823 | [232823-doctor-who-the-last-dalek.json](./232823-doctor-who-the-last-dalek.json) |
 | Doctor Who: The Lonely Assassins | 144782 | [144782-doctor-who-the-lonely-assassins.json](./144782-doctor-who-the-lonely-assassins.json) |
