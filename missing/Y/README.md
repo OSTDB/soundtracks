@@ -496,6 +496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow Brick Road: Harapeko Tsuki to Hoshi Atsume | 144852 | [144852-yellow-brick-road-harapeko-tsuki-to-hoshi-atsume.json](./144852-yellow-brick-road-harapeko-tsuki-to-hoshi-atsume.json) |
 | Yellow Cab | 345916 | [345916-yellow-cab.json](./345916-yellow-cab.json) |
 | Yellow Eyes | 339039 | [339039-yellow-eyes.json](./339039-yellow-eyes.json) |
+| Yellow Face | 375723 | [375723-yellow-face.json](./375723-yellow-face.json) |
 | Yellow Fins | 147815 | [147815-yellow-fins.json](./147815-yellow-fins.json) |
 | Yellow Fins HD | 89574 | [89574-yellow-fins-hd.json](./89574-yellow-fins-hd.json) |
 | Yellow History | 237155 | [237155-yellow-history.json](./237155-yellow-history.json) |
