@@ -3334,6 +3334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really Boring Website | 142974 | [142974-really-boring-website.json](./142974-really-boring-website.json) |
 | Really Dog | 276182 | [276182-really-dog.json](./276182-really-dog.json) |
 | Really Dog: DLC | 282170 | [282170-really-dog-dlc.json](./282170-really-dog-dlc.json) |
+| Really Fast Rat | 349528 | [349528-really-fast-rat.json](./349528-really-fast-rat.json) |
 | Really Happy Mouse | 241409 | [241409-really-happy-mouse.json](./241409-really-happy-mouse.json) |
 | Really really auto chess | 183971 | [183971-really-really-auto-chess.json](./183971-really-really-auto-chess.json) |
 | Really Scary | 233347 | [233347-really-scary.json](./233347-really-scary.json) |
