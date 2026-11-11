@@ -9150,6 +9150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Ghost: Deluxe Edition | 120546 | [120546-gravity-ghost-deluxe-edition.json](./120546-gravity-ghost-deluxe-edition.json) |
 | Gravity Golf | 180459 | [180459-gravity-golf.json](./180459-gravity-golf.json) |
 | Gravity Golfing | 255054 | [255054-gravity-golfing.json](./255054-gravity-golfing.json) |
+| Gravity Goomba | 322904 | [322904-gravity-goomba.json](./322904-gravity-goomba.json) |
 | Gravity Grid | 407685 | [407685-gravity-grid.json](./407685-gravity-grid.json) |
 | Gravity Grove | 409385 | [409385-gravity-grove.json](./409385-gravity-grove.json) |
 | Gravity Guy | 361723 | [361723-gravity-guy.json](./361723-gravity-guy.json) |
