@@ -2990,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malware | 303987 | [303987-malware.json](./303987-malware.json) |
 | Malware Derby | 244896 | [244896-malware-derby.json](./244896-malware-derby.json) |
 | Malware Rewritten | 217353 | [217353-malware-rewritten.json](./217353-malware-rewritten.json) |
+| Malware Tycoon | 388478 | [388478-malware-tycoon.json](./388478-malware-tycoon.json) |
 | Malys | 341817 | [341817-malys.json](./341817-malys.json) |
 | Malyshka | 188716 | [188716-malyshka.json](./188716-malyshka.json) |
 | Malzbie's Pinball Collection | 74463 | [74463-malzbies-pinball-collection.json](./74463-malzbies-pinball-collection.json) |
@@ -15165,6 +15166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mmmmm Donuts Arhhh...... | 286754 | [286754-mmmmm-donuts-arhhh.json](./286754-mmmmm-donuts-arhhh.json) |
 | Mmmmmm | 207138 | [207138-mmmmmm.json](./207138-mmmmmm.json) |
 | Mmmmmm... Cake! | 107833 | [107833-mmmmmm-cake.json](./107833-mmmmmm-cake.json) |
+| Mmnana | 388644 | [388644-mmnana.json](./388644-mmnana.json) |
 | MMO98 | 391914 | [391914-mmo98.json](./391914-mmo98.json) |
 | MMORPG NPC Simulator | 404197 | [404197-mmorpg-npc-simulator.json](./404197-mmorpg-npc-simulator.json) |
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
@@ -19622,6 +19624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Snuggles Dungeon Adventure | 310748 | [310748-mr-snuggles-dungeon-adventure.json](./310748-mr-snuggles-dungeon-adventure.json) |
 | Mr Speedy | 60300 | [60300-mr-speedy.json](./60300-mr-speedy.json) |
 | Mr Stumps Dentures | 266708 | [266708-mr-stumps-dentures.json](./266708-mr-stumps-dentures.json) |
+| Mr Success | 388648 | [388648-mr-success.json](./388648-mr-success.json) |
 | Mr The Killer | 294526 | [294526-mr-the-killer.json](./294526-mr-the-killer.json) |
 | Mr Toilet | 369174 | [369174-mr-toilet.json](./369174-mr-toilet.json) |
 | Mr Tomato Adventures | 341342 | [341342-mr-tomato-adventures.json](./341342-mr-tomato-adventures.json) |
