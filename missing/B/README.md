@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backrooms: Recode | 349243 | [349243-backrooms-recode.json](./349243-backrooms-recode.json) |
 | Backrooms: Reminiscence | 366831 | [366831-backrooms-reminiscence.json](./366831-backrooms-reminiscence.json) |
 | Backrooms: Run For Your Life! | 263997 | [263997-backrooms-run-for-your-life.json](./263997-backrooms-run-for-your-life.json) |
+| Backrooms: Spirits of the Forgotten | 318682 | [318682-backrooms-spirits-of-the-forgotten.json](./318682-backrooms-spirits-of-the-forgotten.json) |
 | Backrooms: Splatter | 410300 | [410300-backrooms-splatter.json](./410300-backrooms-splatter.json) |
 | Backrooms: Steps into the abyss | 283971 | [283971-backrooms-steps-into-the-abyss.json](./283971-backrooms-steps-into-the-abyss.json) |
 | Backrooms: Surreality | 226241 | [226241-backrooms-surreality.json](./226241-backrooms-surreality.json) |
@@ -1020,7 +1021,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -2402,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banshee (Fazbear's Pizzeria Tycoon!) | 336023 | [336023-banshee-fazbears-pizzeria-tycoon.json](./336023-banshee-fazbears-pizzeria-tycoon.json) |
 | Banshee Force | 82340 | [82340-banshee-force.json](./82340-banshee-force.json) |
 | Banshee Hunt | 291264 | [291264-banshee-hunt.json](./291264-banshee-hunt.json) |
+| Banshee: Demon Girl | 318299 | [318299-banshee-demon-girl.json](./318299-banshee-demon-girl.json) |
 | Banshee's Last Cry | 38244 | [38244-banshees-last-cry.json](./38244-banshees-last-cry.json) |
 | Banshees: The Game | 241944 | [241944-banshees-the-game.json](./241944-banshees-the-game.json) |
 | Banshiryuu | 123606 | [123606-banshiryuu.json](./123606-banshiryuu.json) |
@@ -3547,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bath House Simulator | 326471 | [326471-bath-house-simulator.json](./326471-bath-house-simulator.json) |
 | Bath Time | 177168 | [177168-bath-time.json](./177168-bath-time.json) |
 | BathDad | 311873 | [311873-bathdad.json](./311873-bathdad.json) |
+| Bathday | 318660 | [318660-bathday.json](./318660-bathday.json) |
 | BathDoom | 254306 | [254306-bathdoom.json](./254306-bathdoom.json) |
 | Bathhouse Creatures | 331274 | [331274-bathhouse-creatures.json](./331274-bathhouse-creatures.json) |
 | Bathory: Heritage of Blood | 404023 | [404023-bathory-heritage-of-blood.json](./404023-bathory-heritage-of-blood.json) |
@@ -9813,6 +9815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Rose Valkyrie | 137079 | [137079-black-rose-valkyrie.json](./137079-black-rose-valkyrie.json) |
 | Black Roses | 100712 | [100712-black-roses.json](./100712-black-roses.json) |
 | Black Runes | 266764 | [266764-black-runes.json](./266764-black-runes.json) |
+| Black Russia | 318679 | [318679-black-russia.json](./318679-black-russia.json) |
 | Black Sailors | 381172 | [381172-black-sailors.json](./381172-black-sailors.json) |
 | Black Sails | 289384 | [289384-black-sails.json](./289384-black-sails.json) |
 | Black Sails: The Ghost Ship | 12692 | [12692-black-sails-the-ghost-ship.json](./12692-black-sails-the-ghost-ship.json) |
@@ -10406,6 +10409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Chamber | 47014 | [47014-blast-chamber.json](./47014-blast-chamber.json) |
 | Blast Circus | 306899 | [306899-blast-circus.json](./306899-blast-circus.json) |
 | Blast Corps | 3424 | [3424-blast-corps.json](./3424-blast-corps.json) |
+| Blast Course | 318174 | [318174-blast-course.json](./318174-blast-course.json) |
 | Blast Damage Days | 330416 | [330416-blast-damage-days.json](./330416-blast-damage-days.json) |
 | Blast Dash | 411571 | [411571-blast-dash.json](./411571-blast-dash.json) |
 | Blast Doors | 65401 | [65401-blast-doors.json](./65401-blast-doors.json) |
@@ -12164,6 +12168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Moon | 271072 | [271072-bloody-moon.json](./271072-bloody-moon.json) |
 | Bloody Night Cult | 336446 | [336446-bloody-night-cult.json](./336446-bloody-night-cult.json) |
 | Bloody Nightshift | 176743 | [176743-bloody-nightshift.json](./176743-bloody-nightshift.json) |
+| Bloody Painter Dating Sim | 318653 | [318653-bloody-painter-dating-sim.json](./318653-bloody-painter-dating-sim.json) |
 | Bloody Paws | 13976 | [13976-bloody-paws.json](./13976-bloody-paws.json) |
 | Bloody Paws Unleashed | 159994 | [159994-bloody-paws-unleashed.json](./159994-bloody-paws-unleashed.json) |
 | Bloody Pigs 1996 | 199236 | [199236-bloody-pigs-1996.json](./199236-bloody-pigs-1996.json) |
@@ -19470,6 +19475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushi | 186997 | [186997-bushi.json](./186997-bushi.json) |
 | Bushiden | 116223 | [116223-bushiden.json](./116223-bushiden.json) |
 | Bushido | 177656 | [177656-bushido.json](./177656-bushido.json) |
+| Bushido Ball | 318661 | [318661-bushido-ball.json](./318661-bushido-ball.json) |
 | Bushido Bear | 58541 | [58541-bushido-bear.json](./58541-bushido-bear.json) |
 | Bushido Kensei: The Last Warrior | 375251 | [375251-bushido-kensei-the-last-warrior.json](./375251-bushido-kensei-the-last-warrior.json) |
 | Bushido Panda | 57469 | [57469-bushido-panda.json](./57469-bushido-panda.json) |
