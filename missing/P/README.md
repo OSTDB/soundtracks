@@ -9606,6 +9606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plane Attack | 204155 | [204155-plane-attack.json](./204155-plane-attack.json) |
 | Plane Balance | 372787 | [372787-plane-balance.json](./372787-plane-balance.json) |
 | Plane Control | 88689 | [88689-plane-control.json](./88689-plane-control.json) |
+| Plane Crazy Championship Edition | 378691 | [378691-plane-crazy-championship-edition.json](./378691-plane-crazy-championship-edition.json) |
 | Plane Destroyer | 329627 | [329627-plane-destroyer.json](./329627-plane-destroyer.json) |
 | Plane Flight Simulator | 380171 | [380171-plane-flight-simulator.json](./380171-plane-flight-simulator.json) |
 | Plane Graveyard Simulator | 315337 | [315337-plane-graveyard-simulator.json](./315337-plane-graveyard-simulator.json) |
