@@ -2726,6 +2726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Mining 8 | 155344 | [155344-data-mining-8.json](./155344-data-mining-8.json) |
 | Data Mutations | 108981 | [108981-data-mutations.json](./108981-data-mutations.json) |
 | Data Restored | 383944 | [383944-data-restored.json](./383944-data-restored.json) |
+| Data Rot | 376979 | [376979-data-rot.json](./376979-data-rot.json) |
 | Data Strafer | 390239 | [390239-data-strafer.json](./390239-data-strafer.json) |
 | Data Thief | 68574 | [68574-data-thief.json](./68574-data-thief.json) |
 | Data Trader | 399058 | [399058-data-trader.json](./399058-data-trader.json) |
@@ -8320,6 +8321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Frizbee | 332250 | [332250-detective-frizbee.json](./332250-detective-frizbee.json) |
 | Detective Gatuma: Get a Clue! | 260846 | [260846-detective-gatuma-get-a-clue.json](./260846-detective-gatuma-get-a-clue.json) |
 | Detective Girl of the Steam City | 114576 | [114576-detective-girl-of-the-steam-city.json](./114576-detective-girl-of-the-steam-city.json) |
+| Detective Girl: The Case of Immortality | 377009 | [377009-detective-girl-the-case-of-immortality.json](./377009-detective-girl-the-case-of-immortality.json) |
 | Detective Gman | 172953 | [172953-detective-gman.json](./172953-detective-gman.json) |
 | Detective Grimoire: Secret of the Swamp | 10795 | [10795-detective-grimoire-secret-of-the-swamp.json](./10795-detective-grimoire-secret-of-the-swamp.json) |
 | Detective GUI | 184784 | [184784-detective-gui.json](./184784-detective-gui.json) |
@@ -11466,6 +11468,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dispatch Madness | 289262 | [289262-dispatch-madness.json](./289262-dispatch-madness.json) |
 | Dispatch: Episode 1 - Pivot | 376768 | [376768-dispatch-episode-1-pivot.json](./376768-dispatch-episode-1-pivot.json) |
 | Dispatch: Episode 2 - Onboard | 376771 | [376771-dispatch-episode-2-onboard.json](./376771-dispatch-episode-2-onboard.json) |
+| Dispatch: Episode 4 - Restructure | 376960 | [376960-dispatch-episode-4-restructure.json](./376960-dispatch-episode-4-restructure.json) |
+| Dispatch: Episode 5 - Team Building | 376961 | [376961-dispatch-episode-5-team-building.json](./376961-dispatch-episode-5-team-building.json) |
+| Dispatch: Episode 6 - Moving Parts | 376962 | [376962-dispatch-episode-6-moving-parts.json](./376962-dispatch-episode-6-moving-parts.json) |
+| Dispatch: Episode 7 - Retrospective | 376963 | [376963-dispatch-episode-7-retrospective.json](./376963-dispatch-episode-7-retrospective.json) |
+| Dispatch: Episode 8 - Synergy | 376964 | [376964-dispatch-episode-8-synergy.json](./376964-dispatch-episode-8-synergy.json) |
 | Dispatch: HR Violations Pack | 417758 | [417758-dispatch-hr-violations-pack.json](./417758-dispatch-hr-violations-pack.json) |
 | Dispatched | 415504 | [415504-dispatched.json](./415504-dispatched.json) |
 | Dispatcher | 11348 | [11348-dispatcher.json](./11348-dispatcher.json) |
@@ -13752,6 +13759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donut Match | 186952 | [186952-donut-match.json](./186952-donut-match.json) |
 | Donut Mod | 130036 | [130036-donut-mod.json](./130036-donut-mod.json) |
 | Donut or Cookie | 233660 | [233660-donut-or-cookie.json](./233660-donut-or-cookie.json) |
+| Donut Panic | 376950 | [376950-donut-panic.json](./376950-donut-panic.json) |
 | Donut Plus | 309639 | [309639-donut-plus.json](./309639-donut-plus.json) |
 | Donut Punks | 141638 | [141638-donut-punks.json](./141638-donut-punks.json) |
 | Donut Riders | 359862 | [359862-donut-riders.json](./359862-donut-riders.json) |
@@ -14565,6 +14573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DotMan | 85098 | [85098-dotman.json](./85098-dotman.json) |
 | DotMatrixx | 91288 | [91288-dotmatrixx.json](./91288-dotmatrixx.json) |
 | Dotonon | 341677 | [341677-dotonon.json](./341677-dotonon.json) |
+| Dotonpachi Maximum | 376949 | [376949-dotonpachi-maximum.json](./376949-dotonpachi-maximum.json) |
 | Dotori | 143600 | [143600-dotori.json](./143600-dotori.json) |
 | Dotower | 266001 | [266001-dotower.json](./266001-dotower.json) |
 | DotQuest | 264967 | [264967-dotquest.json](./264967-dotquest.json) |
@@ -19026,6 +19035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune | 282716 | [282716-dune.json](./282716-dune.json) |
 | Dune | 85 | [85-dune.json](./85-dune.json) |
 | Dune 2000 | 87 | [87-dune-2000.json](./87-dune-2000.json) |
+| Dune Buggy | 376989 | [376989-dune-buggy.json](./376989-dune-buggy.json) |
 | Dune Dasher | 299377 | [299377-dune-dasher.json](./299377-dune-dasher.json) |
 | Dune Dynasty | 134529 | [134529-dune-dynasty.json](./134529-dune-dynasty.json) |
 | Dune Girls Attack! | 389788 | [389788-dune-girls-attack.json](./389788-dune-girls-attack.json) |
