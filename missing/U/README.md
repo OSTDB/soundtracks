@@ -139,6 +139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchuu Daisakusen Choco Vader: Contactee | 158988 | [158988-uchuu-daisakusen-choco-vader-contactee.json](./158988-uchuu-daisakusen-choco-vader-contactee.json) |
 | Uchuu Daisakusen Choco Vader: Jinrui Yuukai Keikaku Abduction | 158989 | [158989-uchuu-daisakusen-choco-vader-jinrui-yuukai-keikaku-abduction.json](./158989-uchuu-daisakusen-choco-vader-jinrui-yuukai-keikaku-abduction.json) |
 | Uchuu Daisakusen Choco Vader: Uchuu Kara No Shinryakusha | 158987 | [158987-uchuu-daisakusen-choco-vader-uchuu-kara-no-shinryakusha.json](./158987-uchuu-daisakusen-choco-vader-uchuu-kara-no-shinryakusha.json) |
+| Uchuu Goushouden: Bakuretsu Akindo | 376994 | [376994-uchuu-goushouden-bakuretsu-akindo.json](./376994-uchuu-goushouden-bakuretsu-akindo.json) |
 | Uchuu Keibitai SDF | 48560 | [48560-uchuu-keibitai-sdf.json](./48560-uchuu-keibitai-sdf.json) |
 | Uchuu no Kishi: Tekkaman Blade | 68070 | [68070-uchuu-no-kishi-tekkaman-blade.json](./68070-uchuu-no-kishi-tekkaman-blade.json) |
 | Uchuu Race: Astro Go! Go! | 42353 | [42353-uchuu-race-astro-go-go.json](./42353-uchuu-race-astro-go-go.json) |
