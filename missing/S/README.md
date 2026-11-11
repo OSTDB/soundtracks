@@ -2994,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary School | 296762 | [296762-scary-school.json](./296762-scary-school.json) |
 | Scary School Simulator 2 | 274307 | [274307-scary-school-simulator-2.json](./274307-scary-school-simulator-2.json) |
 | Scary School Simulator 3 | 312431 | [312431-scary-school-simulator-3.json](./312431-scary-school-simulator-3.json) |
+| Scary Shadow Spot: All In | 381509 | [381509-scary-shadow-spot-all-in.json](./381509-scary-shadow-spot-all-in.json) |
 | Scary Shadow Spot: Bitter Glass | 328228 | [328228-scary-shadow-spot-bitter-glass.json](./328228-scary-shadow-spot-bitter-glass.json) |
 | Scary Shadow Spot: Last Farewell | 313583 | [313583-scary-shadow-spot-last-farewell.json](./313583-scary-shadow-spot-last-farewell.json) |
 | Scary Shawarma Shop | 410837 | [410837-scary-shawarma-shop.json](./410837-scary-shawarma-shop.json) |
@@ -6872,6 +6873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy President | 367124 | [367124-sexy-president.json](./367124-sexy-president.json) |
 | Sexy Pussies | 384875 | [384875-sexy-pussies.json](./384875-sexy-pussies.json) |
 | Sexy Puzzle | 335443 | [335443-sexy-puzzle.json](./335443-sexy-puzzle.json) |
+| Sexy Puzzle | 382065 | [382065-sexy-puzzle.json](./382065-sexy-puzzle.json) |
 | Sexy Sharks | 207635 | [207635-sexy-sharks.json](./207635-sexy-sharks.json) |
 | Sexy Sliders | 367269 | [367269-sexy-sliders.json](./367269-sexy-sliders.json) |
 | Sexy Sniper | 159814 | [159814-sexy-sniper.json](./159814-sexy-sniper.json) |
@@ -8129,6 +8131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Union | 6046 | [6046-shattered-union.json](./6046-shattered-union.json) |
 | Shattered Vault | 390783 | [390783-shattered-vault.json](./390783-shattered-vault.json) |
 | Shattered Void | 340380 | [340380-shattered-void.json](./340380-shattered-void.json) |
+| Shattered Wilds | 381501 | [381501-shattered-wilds.json](./381501-shattered-wilds.json) |
 | Shattered World | 264632 | [264632-shattered-world.json](./264632-shattered-world.json) |
 | Shattered World: Beneath a Stone Sky | 185389 | [185389-shattered-world-beneath-a-stone-sky.json](./185389-shattered-world-beneath-a-stone-sky.json) |
 | Shattered Worlds | 155654 | [155654-shattered-worlds.json](./155654-shattered-worlds.json) |
@@ -13034,6 +13037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skin Deep | 111061 | [111061-skin-deep.json](./111061-skin-deep.json) |
 | Skin Doctor | 108696 | [108696-skin-doctor.json](./108696-skin-doctor.json) |
 | Skin Stealers | 128147 | [128147-skin-stealers.json](./128147-skin-stealers.json) |
+| Skin Tailor | 382084 | [382084-skin-tailor.json](./382084-skin-tailor.json) |
 | Skin Witch | 126826 | [126826-skin-witch.json](./126826-skin-witch.json) |
 | Skinator | 400360 | [400360-skinator.json](./400360-skinator.json) |
 | Skincrawlers | 230292 | [230292-skincrawlers.json](./230292-skincrawlers.json) |
@@ -14812,6 +14816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sloth Story | 178891 | [178891-sloth-story.json](./178891-sloth-story.json) |
 | Sloth Tales | 149813 | [149813-sloth-tales.json](./149813-sloth-tales.json) |
 | Slothtopia | 251908 | [251908-slothtopia.json](./251908-slothtopia.json) |
+| Slotomancer | 382099 | [382099-slotomancer.json](./382099-slotomancer.json) |
 | Slotpark | 360765 | [360765-slotpark.json](./360765-slotpark.json) |
 | Slotracers VR | 144007 | [144007-slotracers-vr.json](./144007-slotracers-vr.json) |
 | Slots | 287558 | [287558-slots.json](./287558-slots.json) |
