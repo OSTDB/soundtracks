@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1754,6 +1755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballionaire | 274333 | [274333-ballionaire.json](./274333-ballionaire.json) |
 | Ballista | 193691 | [193691-ballista.json](./193691-ballista.json) |
 | Ballista Legend | 117038 | [117038-ballista-legend.json](./117038-ballista-legend.json) |
+| Ballista Wall Defense Rush | 353552 | [353552-ballista-wall-defense-rush.json](./353552-ballista-wall-defense-rush.json) |
 | Ballistic | 187303 | [187303-ballistic.json](./187303-ballistic.json) |
 | Ballistic | 187304 | [187304-ballistic.json](./187304-ballistic.json) |
 | Ballistic | 29767 | [29767-ballistic.json](./29767-ballistic.json) |
@@ -3677,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batrider | 39728 | [39728-batrider.json](./39728-batrider.json) |
 | Bats | 118285 | [118285-bats.json](./118285-bats.json) |
 | Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
+| Bats Bits Balls | 353553 | [353553-bats-bits-balls.json](./353553-bats-bits-balls.json) |
 | BATS: Bloodsucker Anti-Terror Squad | 154312 | [154312-bats-bloodsucker-anti-terror-squad.json](./154312-bats-bloodsucker-anti-terror-squad.json) |
 | Batsu Maru | 189894 | [189894-batsu-maru.json](./189894-batsu-maru.json) |
 | Batsu! | 160215 | [160215-batsu.json](./160215-batsu.json) |
@@ -5918,6 +5921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatNiks | 59548 | [59548-beatniks.json](./59548-beatniks.json) |
 | Beatoraja | 130770 | [130770-beatoraja.json](./130770-beatoraja.json) |
 | BeatPunk! | 235037 | [235037-beatpunk.json](./235037-beatpunk.json) |
+| BeatQuest: Rhythm Riders | 353570 | [353570-beatquest-rhythm-riders.json](./353570-beatquest-rhythm-riders.json) |
 | Beatrect | 311897 | [311897-beatrect.json](./311897-beatrect.json) |
 | Beatrice Verdict: Ace Attorney - The Hidden Truth | 306629 | [306629-beatrice-verdict-ace-attorney-the-hidden-truth.json](./306629-beatrice-verdict-ace-attorney-the-hidden-truth.json) |
 | BeatRider | 305789 | [305789-beatrider.json](./305789-beatrider.json) |
@@ -6159,6 +6163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Become Prey 2: Of Everlasting Sin | 181298 | [181298-become-prey-2-of-everlasting-sin.json](./181298-become-prey-2-of-everlasting-sin.json) |
 | Become The Devil | 323484 | [323484-become-the-devil.json](./323484-become-the-devil.json) |
 | Become The Moon | 290104 | [290104-become-the-moon.json](./290104-become-the-moon.json) |
+| Become the Smartest in the Room! Brain Power Boost Plan | 353573 | [353573-become-the-smartest-in-the-room-brain-power-boost-plan.json](./353573-become-the-smartest-in-the-room-brain-power-boost-plan.json) |
 | Become The Wild | 289207 | [289207-become-the-wild.json](./289207-become-the-wild.json) |
 | Becoming | 163804 | [163804-becoming.json](./163804-becoming.json) |
 | Becoming a Dandelion Spore | 116275 | [116275-becoming-a-dandelion-spore.json](./116275-becoming-a-dandelion-spore.json) |
@@ -9070,6 +9075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birthday Boy and Benny | 272646 | [272646-birthday-boy-and-benny.json](./272646-birthday-boy-and-benny.json) |
 | Birthday Kid | 237425 | [237425-birthday-kid.json](./237425-birthday-kid.json) |
 | Birthday Mania | 65079 | [65079-birthday-mania.json](./65079-birthday-mania.json) |
+| Birthday of Horrors | 353554 | [353554-birthday-of-horrors.json](./353554-birthday-of-horrors.json) |
 | Birthday of Midnight | 140948 | [140948-birthday-of-midnight.json](./140948-birthday-of-midnight.json) |
 | Birthday Party Bash | 4718 | [4718-birthday-party-bash.json](./4718-birthday-party-bash.json) |
 | Birthday Visit | 407198 | [407198-birthday-visit.json](./407198-birthday-visit.json) |
@@ -14114,6 +14120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boost Panic | 315361 | [315361-boost-panic.json](./315361-boost-panic.json) |
 | Boost Race | 105893 | [105893-boost-race.json](./105893-boost-race.json) |
 | Boost Vector EX | 368923 | [368923-boost-vector-ex.json](./368923-boost-vector-ex.json) |
+| Boost Zero | 353572 | [353572-boost-zero.json](./353572-boost-zero.json) |
 | BoostBots VR | 54841 | [54841-boostbots-vr.json](./54841-boostbots-vr.json) |
 | Boosted | 264053 | [264053-boosted.json](./264053-boosted.json) |
 | Boosted Survivors | 314666 | [314666-boosted-survivors.json](./314666-boosted-survivors.json) |
