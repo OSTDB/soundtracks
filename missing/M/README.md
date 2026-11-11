@@ -15910,6 +15910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentum | 202517 | [202517-momentum.json](./202517-momentum.json) |
 | Momentum | 23568 | [23568-momentum.json](./23568-momentum.json) |
 | Momentum | 346491 | [346491-momentum.json](./346491-momentum.json) |
+| Momentum Art Blast | 382085 | [382085-momentum-art-blast.json](./382085-momentum-art-blast.json) |
 | Momentum Mayhem | 309560 | [309560-momentum-mayhem.json](./309560-momentum-mayhem.json) |
 | Momentum Missile Mayhem | 388200 | [388200-momentum-missile-mayhem.json](./388200-momentum-missile-mayhem.json) |
 | Momentum Missile Mayhem 2015 | 388205 | [388205-momentum-missile-mayhem-2015.json](./388205-momentum-missile-mayhem-2015.json) |
@@ -16205,6 +16206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Bizniz | 405950 | [405950-monkey-bizniz.json](./405950-monkey-bizniz.json) |
 | Monkey Boxing | 61063 | [61063-monkey-boxing.json](./61063-monkey-boxing.json) |
 | Monkey Brains | 62034 | [62034-monkey-brains.json](./62034-monkey-brains.json) |
+| Monkey Bunch | 381495 | [381495-monkey-bunch.json](./381495-monkey-bunch.json) |
 | Monkey Business | 147895 | [147895-monkey-business.json](./147895-monkey-business.json) |
 | Monkey Business | 359732 | [359732-monkey-business.json](./359732-monkey-business.json) |
 | Monkey Business | 41198 | [41198-monkey-business.json](./41198-monkey-business.json) |
@@ -17212,6 +17214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Wilds | 159532 | [159532-monster-wilds.json](./159532-monster-wilds.json) |
 | Monster World | 402399 | [402399-monster-world.json](./402399-monster-world.json) |
 | Monster World IV | 18282 | [18282-monster-world-iv.json](./18282-monster-world-iv.json) |
+| Monster World RPG | 381496 | [381496-monster-world-rpg.json](./381496-monster-world-rpg.json) |
 | Monster World-Legend | 96783 | [96783-monster-world-legend.json](./96783-monster-world-legend.json) |
 | Monster X | 192549 | [192549-monster-x.json](./192549-monster-x.json) |
 | Monster X Monster | 118032 | [118032-monster-x-monster.json](./118032-monster-x-monster.json) |
