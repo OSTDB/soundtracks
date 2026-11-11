@@ -11255,6 +11255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Knight 2 | 19717 | [19717-clockwork-knight-2.json](./19717-clockwork-knight-2.json) |
 | Clockwork Knight Puzzle | 300552 | [300552-clockwork-knight-puzzle.json](./300552-clockwork-knight-puzzle.json) |
 | Clockwork Knight: Pepperouchau no Fukubukuro | 137541 | [137541-clockwork-knight-pepperouchau-no-fukubukuro.json](./137541-clockwork-knight-pepperouchau-no-fukubukuro.json) |
+| Clockwork Maiden | 356905 | [356905-clockwork-maiden.json](./356905-clockwork-maiden.json) |
 | Clockwork Manor | 240914 | [240914-clockwork-manor.json](./240914-clockwork-manor.json) |
 | Clockwork Owl | 224767 | [224767-clockwork-owl.json](./224767-clockwork-owl.json) |
 | Clockwork Palace: Mysteries of the Mughal Mechanicum | 343751 | [343751-clockwork-palace-mysteries-of-the-mughal-mechanicum.json](./343751-clockwork-palace-mysteries-of-the-mughal-mechanicum.json) |
@@ -17444,6 +17445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Course | 380094 | [380094-crash-course.json](./380094-crash-course.json) |
 | Crash Course Builder | 258322 | [258322-crash-course-builder.json](./258322-crash-course-builder.json) |
 | Crash Course Go! | 106099 | [106099-crash-course-go.json](./106099-crash-course-go.json) |
+| Crash Delivery | 356926 | [356926-crash-delivery.json](./356926-crash-delivery.json) |
 | Crash Dive | 24003 | [24003-crash-dive.json](./24003-crash-dive.json) |
 | Crash Dive | 35403 | [35403-crash-dive.json](./35403-crash-dive.json) |
 | Crash Dive 2 | 150949 | [150949-crash-dive-2.json](./150949-crash-dive-2.json) |
