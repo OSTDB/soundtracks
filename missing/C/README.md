@@ -2515,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carambole Fireworks | 375717 | [375717-carambole-fireworks.json](./375717-carambole-fireworks.json) |
 | Caramel Action Micro | 386161 | [386161-caramel-action-micro.json](./386161-caramel-action-micro.json) |
 | Caramel Creek | 423999 | [423999-caramel-creek.json](./423999-caramel-creek.json) |
+| Caramel Performance | 323463 | [323463-caramel-performance.json](./323463-caramel-performance.json) |
 | Caramel Port | 114558 | [114558-caramel-port.json](./114558-caramel-port.json) |
 | Caramel Pudding's Big Adventure | 82567 | [82567-caramel-puddings-big-adventure.json](./82567-caramel-puddings-big-adventure.json) |
 | Caramel Quest: Meitenkyou no Megami-zou | 374960 | [374960-caramel-quest-meitenkyou-no-megami-zou.json](./374960-caramel-quest-meitenkyou-no-megami-zou.json) |
@@ -18183,6 +18184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Sue goes on | 37276 | [37276-crazy-sue-goes-on.json](./37276-crazy-sue-goes-on.json) |
 | Crazy Super Bunnies | 234692 | [234692-crazy-super-bunnies.json](./234692-crazy-super-bunnies.json) |
 | Crazy Tank | 110680 | [110680-crazy-tank.json](./110680-crazy-tank.json) |
+| Crazy Tanks | 323455 | [323455-crazy-tanks.json](./323455-crazy-tanks.json) |
 | Crazy Tap Chef | 108610 | [108610-crazy-tap-chef.json](./108610-crazy-tap-chef.json) |
 | Crazy Tapper + | 175343 | [175343-crazy-tapper.json](./175343-crazy-tapper.json) |
 | Crazy Taxi | 1805 | [1805-crazy-taxi.json](./1805-crazy-taxi.json) |
