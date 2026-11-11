@@ -1036,6 +1036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vasterra | 333469 | [333469-vasterra.json](./333469-vasterra.json) |
 | Vastophobia | 334327 | [334327-vastophobia.json](./334327-vastophobia.json) |
 | Vastynex | 184398 | [184398-vastynex.json](./184398-vastynex.json) |
+| VataZombie | 370619 | [370619-vatazombie.json](./370619-vatazombie.json) |
 | Vatlva | 22503 | [22503-vatlva.json](./22503-vatlva.json) |
 | Vatman | 234854 | [234854-vatman.json](./234854-vatman.json) |
 | Vatnik Simulator - A Russian Patriot Game | 103814 | [103814-vatnik-simulator-a-russian-patriot-game.json](./103814-vatnik-simulator-a-russian-patriot-game.json) |
