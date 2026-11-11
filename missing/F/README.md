@@ -3533,6 +3533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateweaver: The Alchemist's Quandary | 236930 | [236930-fateweaver-the-alchemists-quandary.json](./236930-fateweaver-the-alchemists-quandary.json) |
 | Fathammer Classics Pack | 70439 | [70439-fathammer-classics-pack.json](./70439-fathammer-classics-pack.json) |
 | Father | 244847 | [244847-father.json](./244847-father.json) |
+| Father | 368401 | [368401-father.json](./368401-father.json) |
 | Father and Son | 97361 | [97361-father-and-son.json](./97361-father-and-son.json) |
 | Father and Son 2 | 314382 | [314382-father-and-son-2.json](./314382-father-and-son-2.json) |
 | Father Christmas | 77117 | [77117-father-christmas.json](./77117-father-christmas.json) |
@@ -6178,6 +6179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Warriors: Three Hopes | 191396 | [191396-fire-emblem-warriors-three-hopes.json](./191396-fire-emblem-warriors-three-hopes.json) |
 | Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
 | Fire Emblem World Cup | 323039 | [323039-fire-emblem-world-cup.json](./323039-fire-emblem-world-cup.json) |
+| Fire Emblem: A Star Wars Story | 368164 | [368164-fire-emblem-a-star-wars-story.json](./368164-fire-emblem-a-star-wars-story.json) |
 | Fire Emblem: An Unexpected Caller | 308855 | [308855-fire-emblem-an-unexpected-caller.json](./308855-fire-emblem-an-unexpected-caller.json) |
 | Fire Emblem: Ankoku no Miko | 176038 | [176038-fire-emblem-ankoku-no-miko.json](./176038-fire-emblem-ankoku-no-miko.json) |
 | Fire Emblem: Ankoku Ryuu to Hikari no Tsurugi | 1433 | [1433-fire-emblem-ankoku-ryuu-to-hikari-no-tsurugi.json](./1433-fire-emblem-ankoku-ryuu-to-hikari-no-tsurugi.json) |
