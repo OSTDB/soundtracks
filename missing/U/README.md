@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undestroyed | 174995 | [174995-undestroyed.json](./174995-undestroyed.json) |
 | Undetected | 193334 | [193334-undetected.json](./193334-undetected.json) |
 | Undholm | 114401 | [114401-undholm.json](./114401-undholm.json) |
+| Undiscovered | 391902 | [391902-undiscovered.json](./391902-undiscovered.json) |
 | Undiscovered | 416167 | [416167-undiscovered.json](./416167-undiscovered.json) |
 | Undiscovered House | 149698 | [149698-undiscovered-house.json](./149698-undiscovered-house.json) |
 | Undiscovered Technology of the Pharaohs | 283553 | [283553-undiscovered-technology-of-the-pharaohs.json](./283553-undiscovered-technology-of-the-pharaohs.json) |
@@ -3059,6 +3060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Until None Remain | 345765 | [345765-until-none-remain.json](./345765-until-none-remain.json) |
 | Until None Remain VR | 68365 | [68365-until-none-remain-vr.json](./68365-until-none-remain-vr.json) |
 | Until None Remain: Battle Royale VR | 74556 | [74556-until-none-remain-battle-royale-vr.json](./74556-until-none-remain-battle-royale-vr.json) |
+| Until North Ends | 391385 | [391385-until-north-ends.json](./391385-until-north-ends.json) |
 | Until Oblivion | 309908 | [309908-until-oblivion.json](./309908-until-oblivion.json) |
 | Until September | 120047 | [120047-until-september.json](./120047-until-september.json) |
 | Until Sunset | 155917 | [155917-until-sunset.json](./155917-until-sunset.json) |
@@ -3689,6 +3691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | USAID Approvals Department | 351543 | [351543-usaid-approvals-department.json](./351543-usaid-approvals-department.json) |
 | Usavich - Game no Jikan | 133333 | [133333-usavich-game-no-jikan.json](./133333-usavich-game-no-jikan.json) |
 | USB-bot | 358302 | [358302-usb-bot.json](./358302-usb-bot.json) |
+| USCF Chess | 391892 | [391892-uscf-chess.json](./391892-uscf-chess.json) |
 | USCF Chess | 41448 | [41448-uscf-chess.json](./41448-uscf-chess.json) |
 | USD Clicker | 371916 | [371916-usd-clicker.json](./371916-usd-clicker.json) |
 | Use Holy Water! | 243961 | [243961-use-holy-water.json](./243961-use-holy-water.json) |
