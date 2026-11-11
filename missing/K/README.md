@@ -1043,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kari ni A-kun to Shiyou | 380182 | [380182-kari-ni-a-kun-to-shiyou.json](./380182-kari-ni-a-kun-to-shiyou.json) |
 | Kari: Stranded on the Shores of Vanaheim | 137257 | [137257-kari-stranded-on-the-shores-of-vanaheim.json](./137257-kari-stranded-on-the-shores-of-vanaheim.json) |
 | Karian Cross | 40212 | [40212-karian-cross.json](./40212-karian-cross.json) |
+| Karigurashi Renai: Living on Borrowed Love | 389797 | [389797-karigurashi-renai-living-on-borrowed-love.json](./389797-karigurashi-renai-living-on-borrowed-love.json) |
 | Karim and the 60 Thieves | 348905 | [348905-karim-and-the-60-thieves.json](./348905-karim-and-the-60-thieves.json) |
 | Karin's Instruction | 292757 | [292757-karins-instruction.json](./292757-karins-instruction.json) |
 | Karisvale | 193033 | [193033-karisvale.json](./193033-karisvale.json) |
@@ -2971,7 +2972,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -6001,6 +6001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koyamachou Watch Repair Shop | 395974 | [395974-koyamachou-watch-repair-shop.json](./395974-koyamachou-watch-repair-shop.json) |
 | Koyomin's Revenge | 343473 | [343473-koyomins-revenge.json](./343473-koyomins-revenge.json) |
 | Koyorenium | 418669 | [418669-koyorenium.json](./418669-koyorenium.json) |
+| Koyotl | 389257 | [389257-koyotl.json](./389257-koyotl.json) |
 | Koza | 183314 | [183314-koza.json](./183314-koza.json) |
 | Kozeni Mushi | 396453 | [396453-kozeni-mushi.json](./396453-kozeni-mushi.json) |
 | Koziolek Matolek idzie do szkoly | 318492 | [318492-koziolek-matolek-idzie-do-szkoly.json](./318492-koziolek-matolek-idzie-do-szkoly.json) |
