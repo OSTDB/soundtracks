@@ -11058,6 +11058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grinch | 15487 | [15487-the-grinch.json](./15487-the-grinch.json) |
 | The Grinch | 265046 | [265046-the-grinch.json](./265046-the-grinch.json) |
 | The Grinch 2: Saving Christmas | 409510 | [409510-the-grinch-2-saving-christmas.json](./409510-the-grinch-2-saving-christmas.json) |
+| The Grinch Scooby-Doo Pong | 325799 | [325799-the-grinch-scooby-doo-pong.json](./325799-the-grinch-scooby-doo-pong.json) |
 | The Grinch: 2 in 1 Game Collection | 409511 | [409511-the-grinch-2-in-1-game-collection.json](./409511-the-grinch-2-in-1-game-collection.json) |
 | The Grinch: Christmas Adventures - Determined to Love Christmas | 370830 | [370830-the-grinch-christmas-adventures-determined-to-love-christmas.json](./370830-the-grinch-christmas-adventures-determined-to-love-christmas.json) |
 | The Grinch: Christmas Adventures - Merry & Mischievous Edition | 370827 | [370827-the-grinch-christmas-adventures-merry-and-mischievous-edition.json](./370827-the-grinch-christmas-adventures-merry-and-mischievous-edition.json) |
@@ -14990,6 +14991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mysterious Mine Bouncin' Back Edition | 222344 | [222344-the-mysterious-mine-bouncin-back-edition.json](./222344-the-mysterious-mine-bouncin-back-edition.json) |
 | The Mysterious Misadventures of Mollie & Mordecai | 191120 | [191120-the-mysterious-misadventures-of-mollie-and-mordecai.json](./191120-the-mysterious-misadventures-of-mollie-and-mordecai.json) |
 | The mysterious ship | 101236 | [101236-the-mysterious-ship.json](./101236-the-mysterious-ship.json) |
+| The Mysterious Thief: Forget Me Not | 325761 | [325761-the-mysterious-thief-forget-me-not.json](./325761-the-mysterious-thief-forget-me-not.json) |
 | The Mystery at Greveholm | 84217 | [84217-the-mystery-at-greveholm.json](./84217-the-mystery-at-greveholm.json) |
 | The Mystery at Greveholm 2: The Journey to Planutus | 66797 | [66797-the-mystery-at-greveholm-2-the-journey-to-planutus.json](./66797-the-mystery-at-greveholm-2-the-journey-to-planutus.json) |
 | The Mystery at Greveholm 3: The Old Legend | 66795 | [66795-the-mystery-at-greveholm-3-the-old-legend.json](./66795-the-mystery-at-greveholm-3-the-old-legend.json) |
@@ -20155,6 +20157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wicked Witch of the West | 314766 | [314766-the-wicked-witch-of-the-west.json](./314766-the-wicked-witch-of-the-west.json) |
 | The Wickers House | 415728 | [415728-the-wickers-house.json](./415728-the-wickers-house.json) |
 | The Wickie | 157131 | [157131-the-wickie.json](./157131-the-wickie.json) |
+| The Wide Open Sky Is Running Out of Catfish | 325767 | [325767-the-wide-open-sky-is-running-out-of-catfish.json](./325767-the-wide-open-sky-is-running-out-of-catfish.json) |
 | The Widow's Boutique | 227634 | [227634-the-widows-boutique.json](./227634-the-widows-boutique.json) |
 | The Widow's Shadow | 271212 | [271212-the-widows-shadow.json](./271212-the-widows-shadow.json) |
 | The Wiggles: Wiggle Bay | 206228 | [206228-the-wiggles-wiggle-bay.json](./206228-the-wiggles-wiggle-bay.json) |
@@ -29260,6 +29263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Tanks | 149450 | [149450-toy-tanks.json](./149450-toy-tanks.json) |
 | Toy Terribles | 383707 | [383707-toy-terribles.json](./383707-toy-terribles.json) |
 | Toy Tinker Simulator | 150000 | [150000-toy-tinker-simulator.json](./150000-toy-tinker-simulator.json) |
+| Toy Titan: Protector of Childhood Dreams | 325775 | [325775-toy-titan-protector-of-childhood-dreams.json](./325775-toy-titan-protector-of-childhood-dreams.json) |
 | Toy Town Mayhem | 362780 | [362780-toy-town-mayhem.json](./362780-toy-town-mayhem.json) |
 | Toy Trains | 265271 | [265271-toy-trains.json](./265271-toy-trains.json) |
 | Toy Voyage | 349391 | [349391-toy-voyage.json](./349391-toy-voyage.json) |
@@ -33722,6 +33726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator 2025: City Work Delivery | 356516 | [356516-truck-simulator-2025-city-work-delivery.json](./356516-truck-simulator-2025-city-work-delivery.json) |
 | Truck Simulator 2026: USA | 407646 | [407646-truck-simulator-2026-usa.json](./407646-truck-simulator-2026-usa.json) |
 | Truck Simulator 25 VR: American Driver | 353964 | [353964-truck-simulator-25-vr-american-driver.json](./353964-truck-simulator-25-vr-american-driver.json) |
+| Truck Simulator 25: American Driver | 325790 | [325790-truck-simulator-25-american-driver.json](./325790-truck-simulator-25-american-driver.json) |
 | Truck Simulator 25: Euro Driver | 344245 | [344245-truck-simulator-25-euro-driver.json](./344245-truck-simulator-25-euro-driver.json) |
 | Truck Simulator 25: Euro Driver VR | 370611 | [370611-truck-simulator-25-euro-driver-vr.json](./370611-truck-simulator-25-euro-driver-vr.json) |
 | Truck Simulator 3 | 231069 | [231069-truck-simulator-3.json](./231069-truck-simulator-3.json) |
