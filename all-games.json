@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T23:40:52.248Z",
-  "total_soundtracks": 3182,
+  "generated_at": "2026-11-11T23:50:58.005Z",
+  "total_soundtracks": 3187,
   "games": [
     {
       "igdb_id": 7522,
@@ -1836,6 +1836,20 @@
           "album_name": "Apsulov: End of Gods (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6G0TOv2kzDFeb0oDMOwl3B",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19406,
+      "game_name": "Ara Fell",
+      "game_url": "https://ostdb.net/games/ara-fell",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273aa5b5982e93bb48ebfd723a9",
+      "albums": [
+        {
+          "album_name": "Ara Fell (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6Vdhvzxja3E4upaQzLK4VG",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -16591,6 +16605,20 @@
       ]
     },
     {
+      "igdb_id": 17111,
+      "game_name": "Imagine Earth",
+      "game_url": "https://ostdb.net/games/imagine-earth",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273aca5678d94b0b318151b39b5",
+      "albums": [
+        {
+          "album_name": "Imagine Earth (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/49QeMzf0jzQqX3xRqvANQH",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 27282,
       "game_name": "Immortal Planet",
       "game_url": "https://ostdb.net/games/immortal-planet",
@@ -21665,6 +21693,20 @@
       ]
     },
     {
+      "igdb_id": 18497,
+      "game_name": "Monster Dash",
+      "game_url": "https://ostdb.net/games/monster-dash",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27318096a29fa3ca1d437f5edbb",
+      "albums": [
+        {
+          "album_name": "Monster Dash (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3WUFSSSLlpPXHXJ62HKi6S",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 358525,
       "game_name": "Monster Hunter Stories 3: Twisted Reflection",
       "game_url": "https://ostdb.net/games/monster-hunter-stories-3-twisted-reflection",
@@ -25117,6 +25159,20 @@
       ]
     },
     {
+      "igdb_id": 18196,
+      "game_name": "Pocket Card Jockey",
+      "game_url": "https://ostdb.net/games/pocket-card-jockey",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737c581d59bb9762c34d308d4e",
+      "albums": [
+        {
+          "album_name": "Pocket Card Jockey Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7JVOo2CVON0U4HTfrVFeBG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 211637,
       "game_name": "Pocket Mirror: GoldenerTraum",
       "game_url": "https://ostdb.net/games/pocket-mirror-goldenertraum",
@@ -25788,6 +25844,20 @@
           "album_name": "Thank you, 5urvivors (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6LWwIqfOPOJLxwhgwm8ECq",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 16687,
+      "game_name": "Pulsar: Lost Colony",
+      "game_url": "https://ostdb.net/games/pulsar-lost-colony",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ebf9d2605764e06760661453",
+      "albums": [
+        {
+          "album_name": "PULSAR: Lost Colony (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/25gPt22o5nvWSEG8TcuCDZ",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
