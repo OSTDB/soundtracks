@@ -3569,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 80s Mania Wrestling | 232083 | [232083-80s-mania-wrestling.json](./232083-80s-mania-wrestling.json) |
 | 80s Volleyball | 151616 | [151616-80s-volleyball.json](./151616-80s-volleyball.json) |
 | 81-tris | 289576 | [289576-81-tris.json](./289576-81-tris.json) |
+| 812: The First | 373431 | [373431-812-the-first.json](./373431-812-the-first.json) |
 | 814 | 262347 | [262347-814.json](./262347-814.json) |
 | 81diver | 269321 | [269321-81diver.json](./269321-81diver.json) |
 | 81diver DS | 59335 | [59335-81diver-ds.json](./59335-81diver-ds.json) |
