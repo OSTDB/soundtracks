@@ -11560,6 +11560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClownScapades Rally | 257924 | [257924-clownscapades-rally.json](./257924-clownscapades-rally.json) |
 | Clowntown | 405107 | [405107-clowntown.json](./405107-clowntown.json) |
 | CLS: Signal Person | 119778 | [119778-cls-signal-person.json](./119778-cls-signal-person.json) |
+| CLTRS | 350692 | [350692-cltrs.json](./350692-cltrs.json) |
 | Clu Clu Land | 7573 | [7573-clu-clu-land.json](./7573-clu-clu-land.json) |
 | Clu Clu Land D | 170022 | [170022-clu-clu-land-d.json](./170022-clu-clu-land-d.json) |
 | Clu Clu Land-e | 170007 | [170007-clu-clu-land-e.json](./170007-clu-clu-land-e.json) |
@@ -13114,6 +13115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book: Spring 2022 DLC Pack | 223595 | [223595-coloring-book-spring-2022-dlc-pack.json](./223595-coloring-book-spring-2022-dlc-pack.json) |
 | Coloring Book: Treasure Adventure | 204293 | [204293-coloring-book-treasure-adventure.json](./204293-coloring-book-treasure-adventure.json) |
 | Coloring Bundle | 317237 | [317237-coloring-bundle.json](./317237-coloring-bundle.json) |
+| Coloring Cats: Sports With Friends | 350719 | [350719-coloring-cats-sports-with-friends.json](./350719-coloring-cats-sports-with-friends.json) |
 | Coloring Game | 114998 | [114998-coloring-game.json](./114998-coloring-game.json) |
 | Coloring Game 10k | 362358 | [362358-coloring-game-10k.json](./362358-coloring-game-10k.json) |
 | Coloring Game 2 | 130094 | [130094-coloring-game-2.json](./130094-coloring-game-2.json) |
