@@ -14997,6 +14997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nanny Affair | 313727 | [313727-the-nanny-affair.json](./313727-the-nanny-affair.json) |
 | The Nanny Affair 2 | 313728 | [313728-the-nanny-affair-2.json](./313728-the-nanny-affair-2.json) |
 | The Nanny Affair 3 | 313729 | [313729-the-nanny-affair-3.json](./313729-the-nanny-affair-3.json) |
+| The Narcotic Operation | 364122 | [364122-the-narcotic-operation.json](./364122-the-narcotic-operation.json) |
 | The Narrator | 420624 | [420624-the-narrator.json](./420624-the-narrator.json) |
 | The Narrator is a Dick | 32629 | [32629-the-narrator-is-a-dick.json](./32629-the-narrator-is-a-dick.json) |
 | The Narrator is a Dick: Longer, Harder, and Uncut | 132196 | [132196-the-narrator-is-a-dick-longer-harder-and-uncut.json](./132196-the-narrator-is-a-dick-longer-harder-and-uncut.json) |
@@ -16527,6 +16528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Retrieval | 212062 | [212062-the-retrieval.json](./212062-the-retrieval.json) |
 | The Retro Exorcist | 401710 | [401710-the-retro-exorcist.json](./401710-the-retro-exorcist.json) |
 | The Retrospection of Tomorrow | 354750 | [354750-the-retrospection-of-tomorrow.json](./354750-the-retrospection-of-tomorrow.json) |
+| The Retrospekt Retro Gaming Museum: The Game - AVCon 2019 Version | 364346 | [364346-the-retrospekt-retro-gaming-museum-the-game-avcon-2019-version.json](./364346-the-retrospekt-retro-gaming-museum-the-game-avcon-2019-version.json) |
 | The Return Home | 32131 | [32131-the-return-home.json](./32131-the-return-home.json) |
 | The Return of Bantara | 334748 | [334748-the-return-of-bantara.json](./334748-the-return-of-bantara.json) |
 | The Return of Heracles | 24451 | [24451-the-return-of-heracles.json](./24451-the-return-of-heracles.json) |
@@ -32942,6 +32944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Jumping Sports | 85453 | [85453-triple-jumping-sports.json](./85453-triple-jumping-sports.json) |
 | Triple Laser RPG | 297452 | [297452-triple-laser-rpg.json](./297452-triple-laser-rpg.json) |
 | Triple Match 3D | 216132 | [216132-triple-match-3d.json](./216132-triple-match-3d.json) |
+| Triple Miracle | 364114 | [364114-triple-miracle.json](./364114-triple-miracle.json) |
 | Triple n Extended m | 182826 | [182826-triple-n-extended-m.json](./182826-triple-n-extended-m.json) |
 | Triple Pack: Trials HD, Limbo, Splosion Man | 141767 | [141767-triple-pack-trials-hd-limbo-splosion-man.json](./141767-triple-pack-trials-hd-limbo-splosion-man.json) |
 | Triple Pairing | 386964 | [386964-triple-pairing.json](./386964-triple-pairing.json) |
