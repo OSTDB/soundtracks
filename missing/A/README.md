@@ -12450,7 +12450,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Ascent | 370350 | [370350-apex-ascent.json](./370350-apex-ascent.json) |
 | Apex Automata | 297347 | [297347-apex-automata.json](./297347-apex-automata.json) |
 | Apex Byte Reeling | 399042 | [399042-apex-byte-reeling.json](./399042-apex-byte-reeling.json) |
-| Apex Construct | 75283 | [75283-apex-construct.json](./75283-apex-construct.json) |
 | Apex Defenders | 293973 | [293973-apex-defenders.json](./293973-apex-defenders.json) |
 | Apex Drift Tokyo Streets | 323305 | [323305-apex-drift-tokyo-streets.json](./323305-apex-drift-tokyo-streets.json) |
 | Apex Gun | 247038 | [247038-apex-gun.json](./247038-apex-gun.json) |
