@@ -513,6 +513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Rising: Hordes of Ragnarök | 361860 | [361860-valkyrie-rising-hordes-of-ragnarok.json](./361860-valkyrie-rising-hordes-of-ragnarok.json) |
 | Valkyrie Saga | 280437 | [280437-valkyrie-saga.json](./280437-valkyrie-saga.json) |
 | Valkyrie Spirits | 189991 | [189991-valkyrie-spirits.json](./189991-valkyrie-spirits.json) |
+| Valkyrie Star: A Cacophony Choir | 331581 | [331581-valkyrie-star-a-cacophony-choir.json](./331581-valkyrie-star-a-cacophony-choir.json) |
 | Valkyrie Svia | 109002 | [109002-valkyrie-svia.json](./109002-valkyrie-svia.json) |
 | Valkyrie Tune: Synthesis of Souls | 381755 | [381755-valkyrie-tune-synthesis-of-souls.json](./381755-valkyrie-tune-synthesis-of-souls.json) |
 | Valkyrie: Dawn of Ragnarok | 230946 | [230946-valkyrie-dawn-of-ragnarok.json](./230946-valkyrie-dawn-of-ragnarok.json) |
