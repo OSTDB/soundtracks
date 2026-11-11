@@ -6644,7 +6644,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bard's Tale IV: Barrows Deep - Platinum Edition | 102800 | [102800-the-bards-tale-iv-barrows-deep-platinum-edition.json](./102800-the-bards-tale-iv-barrows-deep-platinum-edition.json) |
 | The Bard's Tale IV: Barrows Deep - Premium Edition | 102799 | [102799-the-bards-tale-iv-barrows-deep-premium-edition.json](./102799-the-bards-tale-iv-barrows-deep-premium-edition.json) |
 | The Bard's Tale IV: Barrows Deep - Ultimate Edition | 102801 | [102801-the-bards-tale-iv-barrows-deep-ultimate-edition.json](./102801-the-bards-tale-iv-barrows-deep-ultimate-edition.json) |
-| The Bard's Tale IV: Director's Cut | 120645 | [120645-the-bards-tale-iv-directors-cut.json](./120645-the-bards-tale-iv-directors-cut.json) |
 | The Bard's Tale IV: Director's Cut - Deluxe Edition | 124816 | [124816-the-bards-tale-iv-directors-cut-deluxe-edition.json](./124816-the-bards-tale-iv-directors-cut-deluxe-edition.json) |
 | The Bard's Tale Trilogy | 71800 | [71800-the-bards-tale-trilogy.json](./71800-the-bards-tale-trilogy.json) |
 | The Bard's Tale: Remastered and Resnarkled | 313094 | [313094-the-bards-tale-remastered-and-resnarkled.json](./313094-the-bards-tale-remastered-and-resnarkled.json) |
