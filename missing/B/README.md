@@ -7524,6 +7524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Revival | 273569 | [273569-beyond-revival.json](./273569-beyond-revival.json) |
 | Beyond Sandbox | 399220 | [399220-beyond-sandbox.json](./399220-beyond-sandbox.json) |
 | Beyond Senses | 124169 | [124169-beyond-senses.json](./124169-beyond-senses.json) |
+| Beyond Service | 345180 | [345180-beyond-service.json](./345180-beyond-service.json) |
 | Beyond Shadowgate | 8698 | [8698-beyond-shadowgate.json](./8698-beyond-shadowgate.json) |
 | Beyond Shattered Isles | 126545 | [126545-beyond-shattered-isles.json](./126545-beyond-shattered-isles.json) |
 | Beyond Silence | 363964 | [363964-beyond-silence.json](./363964-beyond-silence.json) |
@@ -12748,6 +12749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boards and Blades 2 | 92401 | [92401-boards-and-blades-2.json](./92401-boards-and-blades-2.json) |
 | Boardwalk Arcade 2 | 292144 | [292144-boardwalk-arcade-2.json](./292144-boardwalk-arcade-2.json) |
 | Boardwalk Ball Toss | 65871 | [65871-boardwalk-ball-toss.json](./65871-boardwalk-ball-toss.json) |
+| Boardwalk Builders | 345173 | [345173-boardwalk-builders.json](./345173-boardwalk-builders.json) |
 | Boardwalk Casino | 38627 | [38627-boardwalk-casino.json](./38627-boardwalk-casino.json) |
 | Boardwalk Memories | 191565 | [191565-boardwalk-memories.json](./191565-boardwalk-memories.json) |
 | Boardwalk Sea Ball | 366410 | [366410-boardwalk-sea-ball.json](./366410-boardwalk-sea-ball.json) |
@@ -17093,6 +17095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Veil | 149154 | [149154-broken-veil.json](./149154-broken-veil.json) |
 | Broken Voyage | 405471 | [405471-broken-voyage.json](./405471-broken-voyage.json) |
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
+| Broken Willow | 344630 | [344630-broken-willow.json](./344630-broken-willow.json) |
 | Broken Wizard | 101920 | [101920-broken-wizard.json](./101920-broken-wizard.json) |
 | Broken World | 170244 | [170244-broken-world.json](./170244-broken-world.json) |
 | Broken World: Save Your Children | 345407 | [345407-broken-world-save-your-children.json](./345407-broken-world-save-your-children.json) |
