@@ -3041,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Bout Fatal Fury 2: The Newcomers | 370692 | [370692-real-bout-fatal-fury-2-the-newcomers.json](./370692-real-bout-fatal-fury-2-the-newcomers.json) |
 | Real Bout Fatal Fury 2: The Newcomers | 46787 | [46787-real-bout-fatal-fury-2-the-newcomers.json](./46787-real-bout-fatal-fury-2-the-newcomers.json) |
 | Real Bout Fatal Fury Best Collection | 70941 | [70941-real-bout-fatal-fury-best-collection.json](./70941-real-bout-fatal-fury-best-collection.json) |
+| Real Bout Fatal Fury Genesis | 341730 | [341730-real-bout-fatal-fury-genesis.json](./341730-real-bout-fatal-fury-genesis.json) |
 | Real Bout Garou Densetsu Best Collection | 176135 | [176135-real-bout-garou-densetsu-best-collection.json](./176135-real-bout-garou-densetsu-best-collection.json) |
 | Real Bout Garou Densetsu Special: Dominated Mind | 43874 | [43874-real-bout-garou-densetsu-special-dominated-mind.json](./43874-real-bout-garou-densetsu-special-dominated-mind.json) |
 | Real Boxing | 9415 | [9415-real-boxing.json](./9415-real-boxing.json) |
@@ -6010,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil Outbreak | 972 | [972-resident-evil-outbreak.json](./972-resident-evil-outbreak.json) |
 | Resident Evil Outbreak File #2 | 973 | [973-resident-evil-outbreak-file-2.json](./973-resident-evil-outbreak-file-2.json) |
 | Resident Evil Re:Verse | 142740 | [142740-resident-evil-re-verse.json](./142740-resident-evil-re-verse.json) |
+| Resident Evil Remake Trilogy | 341779 | [341779-resident-evil-remake-trilogy.json](./341779-resident-evil-remake-trilogy.json) |
 | Resident Evil Requiem: Deluxe Kit | 378871 | [378871-resident-evil-requiem-deluxe-kit.json](./378871-resident-evil-requiem-deluxe-kit.json) |
 | Resident Evil Requiem: Grace's Costume - Apocalypse | 392092 | [392092-resident-evil-requiem-graces-costume-apocalypse.json](./392092-resident-evil-requiem-graces-costume-apocalypse.json) |
 | Resident Evil Requiem: Lenticular Edition | 392779 | [392779-resident-evil-requiem-lenticular-edition.json](./392779-resident-evil-requiem-lenticular-edition.json) |
