@@ -2433,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Element Cattos | 377361 | [377361-element-cattos.json](./377361-element-cattos.json) |
 | Element Ensemble: Wind of Moon | 125438 | [125438-element-ensemble-wind-of-moon.json](./125438-element-ensemble-wind-of-moon.json) |
 | Element Fighters | 277776 | [277776-element-fighters.json](./277776-element-fighters.json) |
+| Element Fission | 336210 | [336210-element-fission.json](./336210-element-fission.json) |
 | Element Hime | 72465 | [72465-element-hime.json](./72465-element-hime.json) |
 | Element Hunters | 67640 | [67640-element-hunters.json](./67640-element-hunters.json) |
 | Element Idle | 424818 | [424818-element-idle.json](./424818-element-idle.json) |
