@@ -3936,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox in Tenebris | 349314 | [349314-vox-in-tenebris.json](./349314-vox-in-tenebris.json) |
 | Vox Populi Vox Dei 2 | 35892 | [35892-vox-populi-vox-dei-2.json](./35892-vox-populi-vox-dei-2.json) |
 | Vox Populi, Vox Dei | 242914 | [242914-vox-populi-vox-dei.json](./242914-vox-populi-vox-dei.json) |
+| Vox Populi: Australia 2025 | 371806 | [371806-vox-populi-australia-2025.json](./371806-vox-populi-australia-2025.json) |
 | Vox Populi: Brazil 2022 | 220522 | [220522-vox-populi-brazil-2022.json](./220522-vox-populi-brazil-2022.json) |
 | Vox Populi: Canada 2025 | 347173 | [347173-vox-populi-canada-2025.json](./347173-vox-populi-canada-2025.json) |
 | Vox Populi: Europa 2024 | 288488 | [288488-vox-populi-europa-2024.json](./288488-vox-populi-europa-2024.json) |
