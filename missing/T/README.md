@@ -15168,6 +15168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Job: Hotel | 379402 | [379402-the-night-job-hotel.json](./379402-the-night-job-hotel.json) |
 | The Night Journey | 105505 | [105505-the-night-journey.json](./105505-the-night-journey.json) |
 | The Night Market | 249001 | [249001-the-night-market.json](./249001-the-night-market.json) |
+| The Night Museum | 340117 | [340117-the-night-museum.json](./340117-the-night-museum.json) |
 | The Night of Death | 237464 | [237464-the-night-of-death.json](./237464-the-night-of-death.json) |
 | The Night of Erosion: Prequel | 267677 | [267677-the-night-of-erosion-prequel.json](./267677-the-night-of-erosion-prequel.json) |
 | The Night of Escape | 333493 | [333493-the-night-of-escape.json](./333493-the-night-of-escape.json) |
@@ -21461,6 +21462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas the Tank Engine's Fun with Words | 63424 | [63424-thomas-the-tank-engines-fun-with-words.json](./63424-thomas-the-tank-engines-fun-with-words.json) |
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
 | Thomas Was Alone: Benjamin's Flight | 138347 | [138347-thomas-was-alone-benjamins-flight.json](./138347-thomas-was-alone-benjamins-flight.json) |
+| Thomas: The Shank Engine | 340115 | [340115-thomas-the-shank-engine.json](./340115-thomas-the-shank-engine.json) |
 | Thomas' Tales | 195614 | [195614-thomas-tales.json](./195614-thomas-tales.json) |
 | Thomaz | 44244 | [44244-thomaz.json](./44244-thomaz.json) |
 | Thome Wake | 287371 | [287371-thome-wake.json](./287371-thome-wake.json) |
