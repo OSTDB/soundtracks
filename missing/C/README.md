@@ -6091,6 +6091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Speedball | 157029 | [157029-challenge-speedball.json](./157029-challenge-speedball.json) |
 | Challenge Together! Elementary School Quiz | 399620 | [399620-challenge-together-elementary-school-quiz.json](./399620-challenge-together-elementary-school-quiz.json) |
 | Challenge Tour | 267727 | [267727-challenge-tour.json](./267727-challenge-tour.json) |
+| Challenge Up Base Ball | 385506 | [385506-challenge-up-base-ball.json](./385506-challenge-up-base-ball.json) |
 | Challenge! | 68608 | [68608-challenge.json](./68608-challenge.json) |
 | Challenger | 12539 | [12539-challenger.json](./12539-challenger.json) |
 | Challenger | 136979 | [136979-challenger.json](./136979-challenger.json) |
@@ -6567,6 +6568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaperone | 276220 | [276220-chaperone.json](./276220-chaperone.json) |
 | Chapolim & Super Sam: a lenda dos super heróis | 252902 | [252902-chapolim-and-super-sam-a-lenda-dos-super-herois.json](./252902-chapolim-and-super-sam-a-lenda-dos-super-herois.json) |
 | Chapolim x Drácula: Um Duelo Assustador | 85983 | [85983-chapolim-x-dracula-um-duelo-assustador.json](./85983-chapolim-x-dracula-um-duelo-assustador.json) |
+| Chapolin X Drácula 2 | 386645 | [386645-chapolin-x-dracula-2.json](./386645-chapolin-x-dracula-2.json) |
 | Chapter Master | 154813 | [154813-chapter-master.json](./154813-chapter-master.json) |
 | Chapter Wars | 272634 | [272634-chapter-wars.json](./272634-chapter-wars.json) |
 | Chapter Wars: Expansion Pack | 286541 | [286541-chapter-wars-expansion-pack.json](./286541-chapter-wars-expansion-pack.json) |
@@ -8627,6 +8629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas at Marisol Bay | 184047 | [184047-christmas-at-marisol-bay.json](./184047-christmas-at-marisol-bay.json) |
 | Christmas Bazaar: Manager Simulator | 325265 | [325265-christmas-bazaar-manager-simulator.json](./325265-christmas-bazaar-manager-simulator.json) |
 | Christmas Break | 210085 | [210085-christmas-break.json](./210085-christmas-break.json) |
+| Christmas Break | 386651 | [386651-christmas-break.json](./386651-christmas-break.json) |
 | Christmas Break - Breakout Game | 99571 | [99571-christmas-break-breakout-game.json](./99571-christmas-break-breakout-game.json) |
 | Christmas Break 2 | 187748 | [187748-christmas-break-2.json](./187748-christmas-break-2.json) |
 | Christmas Break 2 Head to Head | 214050 | [214050-christmas-break-2-head-to-head.json](./214050-christmas-break-2-head-to-head.json) |
@@ -11471,6 +11474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clover's Quadrants | 392120 | [392120-clovers-quadrants.json](./392120-clovers-quadrants.json) |
 | Clover's Space Beat | 313204 | [313204-clovers-space-beat.json](./313204-clovers-space-beat.json) |
 | Cloverheart | 140019 | [140019-cloverheart.json](./140019-cloverheart.json) |
+| CloverPit: Devil’s Gambit | 386642 | [386642-cloverpit-devil-s-gambit.json](./386642-cloverpit-devil-s-gambit.json) |
 | Cloverpit: Unholy Fusion | 378232 | [378232-cloverpit-unholy-fusion.json](./378232-cloverpit-unholy-fusion.json) |
 | Clown | 169966 | [169966-clown.json](./169966-clown.json) |
 | Clown | 359365 | [359365-clown.json](./359365-clown.json) |
