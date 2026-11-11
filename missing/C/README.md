@@ -11920,6 +11920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coco Nutshake | 206315 | [206315-coco-nutshake.json](./206315-coco-nutshake.json) |
 | Coco Pony - My Dream Pet | 96305 | [96305-coco-pony-my-dream-pet.json](./96305-coco-pony-my-dream-pet.json) |
 | Coco to the Rescue | 230365 | [230365-coco-to-the-rescue.json](./230365-coco-to-the-rescue.json) |
+| Coco's Revenge | 352465 | [352465-cocos-revenge.json](./352465-cocos-revenge.json) |
 | Cocoa 2: Twenty Four Hour Parsley People | 178452 | [178452-cocoa-2-twenty-four-hour-parsley-people.json](./178452-cocoa-2-twenty-four-hour-parsley-people.json) |
 | Cocobi Hospital | 221373 | [221373-cocobi-hospital.json](./221373-cocobi-hospital.json) |
 | Cocoboy | 377811 | [377811-cocoboy.json](./377811-cocoboy.json) |
