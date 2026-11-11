@@ -3010,7 +3010,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Not Alone | 256585 | [256585-we-are-not-alone.json](./256585-we-are-not-alone.json) |
 | We Are Not Alone: Contact | 312866 | [312866-we-are-not-alone-contact.json](./312866-we-are-not-alone-contact.json) |
 | We Are Not Free | 239966 | [239966-we-are-not-free.json](./239966-we-are-not-free.json) |
-| We Are OFK | 152177 | [152177-we-are-ofk.json](./152177-we-are-ofk.json) |
 | We Are One | 200815 | [200815-we-are-one.json](./200815-we-are-one.json) |
 | We Are Only Moving Towards Each Other | 299117 | [299117-we-are-only-moving-towards-each-other.json](./299117-we-are-only-moving-towards-each-other.json) |
 | We Are Open | 151332 | [151332-we-are-open.json](./151332-we-are-open.json) |
@@ -9553,7 +9552,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraith | 72505 | [72505-wraith.json](./72505-wraith.json) |
 | Wraith Ops | 165574 | [165574-wraith-ops.json](./165574-wraith-ops.json) |
 | Wraith VR | 187515 | [187515-wraith-vr.json](./187515-wraith-vr.json) |
-| Wraith: The Oblivion - Afterlife | 135110 | [135110-wraith-the-oblivion-afterlife.json](./135110-wraith-the-oblivion-afterlife.json) |
 | Wraith’s Embrace | 393223 | [393223-wraith-s-embrace.json](./393223-wraith-s-embrace.json) |
 | Wraithbinder | 218300 | [218300-wraithbinder.json](./218300-wraithbinder.json) |
 | Wraithborn | 258647 | [258647-wraithborn.json](./258647-wraithborn.json) |
@@ -9722,7 +9720,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestle Story | 244509 | [244509-wrestle-story.json](./244509-wrestle-story.json) |
 | Wrestleball | 398938 | [398938-wrestleball.json](./398938-wrestleball.json) |
 | Wrestledunk Sports | 153361 | [153361-wrestledunk-sports.json](./153361-wrestledunk-sports.json) |
-| WrestleQuest | 194466 | [194466-wrestlequest.json](./194466-wrestlequest.json) |
 | Wrestler Rush | 302419 | [302419-wrestler-rush.json](./302419-wrestler-rush.json) |
 | Wrestlerage | 350130 | [350130-wrestlerage.json](./350130-wrestlerage.json) |
 | Wrestlers Without Boundaries | 102356 | [102356-wrestlers-without-boundaries.json](./102356-wrestlers-without-boundaries.json) |
