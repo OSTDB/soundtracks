@@ -10718,6 +10718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plebs & Pillagers | 266590 | [266590-plebs-and-pillagers.json](./266590-plebs-and-pillagers.json) |
 | Plecos Keep | 155911 | [155911-plecos-keep.json](./155911-plecos-keep.json) |
 | Plectra Spectre | 391912 | [391912-plectra-spectre.json](./391912-plectra-spectre.json) |
+| Pledge of Love | 322320 | [322320-pledge-of-love.json](./322320-pledge-of-love.json) |
 | Pleiades | 24467 | [24467-pleiades.json](./24467-pleiades.json) |
 | Pleiades | 281187 | [281187-pleiades.json](./281187-pleiades.json) |
 | Pleiades: A Subversion Saga Game | 150754 | [150754-pleiades-a-subversion-saga-game.json](./150754-pleiades-a-subversion-saga-game.json) |
@@ -13748,6 +13749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Population: One | 139377 | [139377-population-one.json](./139377-population-one.json) |
 | Population: Tire | 135850 | [135850-population-tire.json](./135850-population-tire.json) |
 | Populous | 248 | [248-populous.json](./248-populous.json) |
+| Populous | 322337 | [322337-populous.json](./322337-populous.json) |
 | Populous | 353713 | [353713-populous.json](./353713-populous.json) |
 | Populous & The Promised Lands | 137074 | [137074-populous-and-the-promised-lands.json](./137074-populous-and-the-promised-lands.json) |
 | Populous DS | 8898 | [8898-populous-ds.json](./8898-populous-ds.json) |
@@ -15274,6 +15276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Light | 122794 | [122794-primal-light.json](./122794-primal-light.json) |
 | Primal Man Simulator | 149560 | [149560-primal-man-simulator.json](./149560-primal-man-simulator.json) |
 | Primal Omen | 216950 | [216950-primal-omen.json](./216950-primal-omen.json) |
+| Primal Passions: Isekai Love | 322324 | [322324-primal-passions-isekai-love.json](./322324-primal-passions-isekai-love.json) |
 | Primal Planet | 243924 | [243924-primal-planet.json](./243924-primal-planet.json) |
 | Primal Prey | 71345 | [71345-primal-prey.json](./71345-primal-prey.json) |
 | Primal Pursuit | 105018 | [105018-primal-pursuit.json](./105018-primal-pursuit.json) |
