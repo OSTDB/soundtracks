@@ -377,6 +377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of the Witch DX | 217538 | [217538-labyrinth-of-the-witch-dx.json](./217538-labyrinth-of-the-witch-dx.json) |
 | Labyrinth of Touhou | 63855 | [63855-labyrinth-of-touhou.json](./63855-labyrinth-of-touhou.json) |
 | Labyrinth of Touhou 2 | 63005 | [63005-labyrinth-of-touhou-2.json](./63005-labyrinth-of-touhou-2.json) |
+| Labyrinth of Touhou Rebirth | 329276 | [329276-labyrinth-of-touhou-rebirth.json](./329276-labyrinth-of-touhou-rebirth.json) |
 | Labyrinth of Touhou Tri: The Dreaming Girls & The Mysterious Orbs | 319083 | [319083-labyrinth-of-touhou-tri-the-dreaming-girls-and-the-mysterious-orbs.json](./319083-labyrinth-of-touhou-tri-the-dreaming-girls-and-the-mysterious-orbs.json) |
 | Labyrinth of Touhou: Gensoukyo and the Heaven Piercing Tree | 166080 | [166080-labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree.json](./166080-labyrinth-of-touhou-gensoukyo-and-the-heaven-piercing-tree.json) |
 | Labyrinth of Wild Abyss | 134883 | [134883-labyrinth-of-wild-abyss.json](./134883-labyrinth-of-wild-abyss.json) |
