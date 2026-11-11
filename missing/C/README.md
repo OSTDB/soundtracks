@@ -3150,6 +3150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carom Billards | 103118 | [103118-carom-billards.json](./103118-carom-billards.json) |
 | Carom Billiards | 149916 | [149916-carom-billiards.json](./149916-carom-billiards.json) |
 | Carom Billiards | 393764 | [393764-carom-billiards.json](./393764-carom-billiards.json) |
+| Carom Shot | 334950 | [334950-carom-shot.json](./334950-carom-shot.json) |
 | Carom3D | 98597 | [98597-carom3d.json](./98597-carom3d.json) |
 | Caromble! | 24655 | [24655-caromble.json](./24655-caromble.json) |
 | Carousel | 13700 | [13700-carousel.json](./13700-carousel.json) |
@@ -7316,6 +7317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Force | 338917 | [338917-chess-force.json](./338917-chess-force.json) |
 | Chess Gambit | 165124 | [165124-chess-gambit.json](./165124-chess-gambit.json) |
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
+| Chess Grandmaster: Ancient Egypt Battle | 334988 | [334988-chess-grandmaster-ancient-egypt-battle.json](./334988-chess-grandmaster-ancient-egypt-battle.json) |
 | Chess Graphy | 248953 | [248953-chess-graphy.json](./248953-chess-graphy.json) |
 | Chess Housers | 71824 | [71824-chess-housers.json](./71824-chess-housers.json) |
 | Chess Hunt | 344715 | [344715-chess-hunt.json](./344715-chess-hunt.json) |
@@ -13338,6 +13340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colorizing: Good Times | 317233 | [317233-colorizing-good-times.json](./317233-colorizing-good-times.json) |
 | Colorizing: Pleasure | 411811 | [411811-colorizing-pleasure.json](./411811-colorizing-pleasure.json) |
 | Colorizing: Satisfaction | 351225 | [351225-colorizing-satisfaction.json](./351225-colorizing-satisfaction.json) |
+| Colorizing: Sunrise | 334987 | [334987-colorizing-sunrise.json](./334987-colorizing-sunrise.json) |
 | Colorizing: Sunshine | 389049 | [389049-colorizing-sunshine.json](./389049-colorizing-sunshine.json) |
 | Colorless | 380078 | [380078-colorless.json](./380078-colorless.json) |
 | Colorless Kaina | 222351 | [222351-colorless-kaina.json](./222351-colorless-kaina.json) |
@@ -16667,6 +16670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Country Adventure | 158927 | [158927-country-adventure.json](./158927-country-adventure.json) |
 | Country Architect | 376445 | [376445-country-architect.json](./376445-country-architect.json) |
 | Country Balls.io: Battle Arena | 228287 | [228287-country-balls-io-battle-arena.json](./228287-country-balls-io-battle-arena.json) |
+| Country Birds: Brothership of the Valley | 334986 | [334986-country-birds-brothership-of-the-valley.json](./334986-country-birds-brothership-of-the-valley.json) |
 | Country Bumpkin Yutaka | 244159 | [244159-country-bumpkin-yutaka.json](./244159-country-bumpkin-yutaka.json) |
 | Country Champs | 211903 | [211903-country-champs.json](./211903-country-champs.json) |
 | Country Clubbing | 126968 | [126968-country-clubbing.json](./126968-country-clubbing.json) |
