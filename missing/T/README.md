@@ -9737,6 +9737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fairyland Story | 205665 | [205665-the-fairyland-story.json](./205665-the-fairyland-story.json) |
 | The Fairyland Story | 39730 | [39730-the-fairyland-story.json](./39730-the-fairyland-story.json) |
 | The Fairytale of Death | 128164 | [128164-the-fairytale-of-death.json](./128164-the-fairytale-of-death.json) |
+| The Faith of Sin | 373418 | [373418-the-faith-of-sin.json](./373418-the-faith-of-sin.json) |
 | The Faked | 373756 | [373756-the-faked.json](./373756-the-faked.json) |
 | The Falconeer: Day One Edition | 139938 | [139938-the-falconeer-day-one-edition.json](./139938-the-falconeer-day-one-edition.json) |
 | The Falconeer: Deluxe Edition | 154187 | [154187-the-falconeer-deluxe-edition.json](./154187-the-falconeer-deluxe-edition.json) |
@@ -11501,6 +11502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House of the Dead: Scarlet Dawn | 82081 | [82081-the-house-of-the-dead-scarlet-dawn.json](./82081-the-house-of-the-dead-scarlet-dawn.json) |
 | The House of the Living | 129602 | [129602-the-house-of-the-living.json](./129602-the-house-of-the-living.json) |
 | The house of the missing hands | 287763 | [287763-the-house-of-the-missing-hands.json](./287763-the-house-of-the-missing-hands.json) |
+| The House of Toys | 373437 | [373437-the-house-of-toys.json](./373437-the-house-of-toys.json) |
 | The House on Damned Hill | 14120 | [14120-the-house-on-damned-hill.json](./14120-the-house-on-damned-hill.json) |
 | The House on Holland Hill | 134886 | [134886-the-house-on-holland-hill.json](./134886-the-house-on-holland-hill.json) |
 | The House on Ninth Avenue | 260625 | [260625-the-house-on-ninth-avenue.json](./260625-the-house-on-ninth-avenue.json) |
@@ -15615,6 +15617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Patchmaker's Workshop | 313089 | [313089-the-patchmakers-workshop.json](./313089-the-patchmakers-workshop.json) |
 | The Path | 10199 | [10199-the-path.json](./10199-the-path.json) |
 | The Path | 398120 | [398120-the-path.json](./398120-the-path.json) |
+| The Path Home | 372934 | [372934-the-path-home.json](./372934-the-path-home.json) |
 | The Path into the Abyss | 305088 | [305088-the-path-into-the-abyss.json](./305088-the-path-into-the-abyss.json) |
 | The Path of Blades | 367484 | [367484-the-path-of-blades.json](./367484-the-path-of-blades.json) |
 | The Path of Calydra | 138527 | [138527-the-path-of-calydra.json](./138527-the-path-of-calydra.json) |
@@ -19605,6 +19608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Visitor Effect | 348249 | [348249-the-visitor-effect.json](./348249-the-visitor-effect.json) |
 | The Visitor: Alien Worm | 174740 | [174740-the-visitor-alien-worm.json](./174740-the-visitor-alien-worm.json) |
 | The Visitor: Ep.1 - Kitty Cat Carnage | 196326 | [196326-the-visitor-ep-1-kitty-cat-carnage.json](./196326-the-visitor-ep-1-kitty-cat-carnage.json) |
+| The Visitor: Ep.2 - Sleepover Slaughter | 373448 | [373448-the-visitor-ep-2-sleepover-slaughter.json](./373448-the-visitor-ep-2-sleepover-slaughter.json) |
 | The Visitors | 130969 | [130969-the-visitors.json](./130969-the-visitors.json) |
 | The Visitors from Mir | 260896 | [260896-the-visitors-from-mir.json](./260896-the-visitors-from-mir.json) |
 | The Voice | 26291 | [26291-the-voice.json](./26291-the-voice.json) |
@@ -19647,6 +19651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vorlec | 266289 | [266289-the-vorlec.json](./266289-the-vorlec.json) |
 | The Vortex | 192496 | [192496-the-vortex.json](./192496-the-vortex.json) |
 | The Vortex: Quantum Gate II | 73235 | [73235-the-vortex-quantum-gate-ii.json](./73235-the-vortex-quantum-gate-ii.json) |
+| The Vow: Vampire's Curse | 373439 | [373439-the-vow-vampires-curse.json](./373439-the-vow-vampires-curse.json) |
 | The Vox: Tower Defense | 163842 | [163842-the-vox-tower-defense.json](./163842-the-vox-tower-defense.json) |
 | The Voyage Sinister | 338651 | [338651-the-voyage-sinister.json](./338651-the-voyage-sinister.json) |
 | The Voyager | 248248 | [248248-the-voyager.json](./248248-the-voyager.json) |
