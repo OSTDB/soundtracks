@@ -4145,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Royale | 344532 | [344532-heist-royale.json](./344532-heist-royale.json) |
 | Heist Simulator | 159135 | [159135-heist-simulator.json](./159135-heist-simulator.json) |
 | Heist Simulator 2025 | 330402 | [330402-heist-simulator-2025.json](./330402-heist-simulator-2025.json) |
+| Heist Simulator: Urban Thief Shadows | 336221 | [336221-heist-simulator-urban-thief-shadows.json](./336221-heist-simulator-urban-thief-shadows.json) |
 | Heist: The Score | 61135 | [61135-heist-the-score.json](./61135-heist-the-score.json) |
 | Heist! | 78287 | [78287-heist.json](./78287-heist.json) |
 | Heist.exe | 350880 | [350880-heist-exe.json](./350880-heist-exe.json) |
