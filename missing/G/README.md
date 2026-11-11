@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gambonanza | 335721 | [335721-gambonanza.json](./335721-gambonanza.json) |
 | Game | 346610 | [346610-game.json](./346610-game.json) |
 | Game (not) Over | 333656 | [333656-game-not-over.json](./333656-game-not-over.json) |
+| Game & Console Supermarket: Business Simulator | 334982 | [334982-game-and-console-supermarket-business-simulator.json](./334982-game-and-console-supermarket-business-simulator.json) |
 | Game & Lynx: Critter Championship | 297595 | [297595-game-and-lynx-critter-championship.json](./297595-game-and-lynx-critter-championship.json) |
 | Game & Watch Ball | 76971 | [76971-game-and-watch-ball.json](./76971-game-and-watch-ball.json) |
 | Game & Watch Chef | 84556 | [84556-game-and-watch-chef.json](./84556-game-and-watch-chef.json) |
