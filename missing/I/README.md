@@ -4744,7 +4744,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inquisition | 69840 | [69840-inquisition.json](./69840-inquisition.json) |
 | Inquisitive Dave | 163823 | [163823-inquisitive-dave.json](./163823-inquisitive-dave.json) |
 | Inquisitor | 287642 | [287642-inquisitor.json](./287642-inquisitor.json) |
-| Inquisitor | 9100 | [9100-inquisitor.json](./9100-inquisitor.json) |
 | Inquisitor Shepherd | 371471 | [371471-inquisitor-shepherd.json](./371471-inquisitor-shepherd.json) |
 | Inquisitor Simulator | 398365 | [398365-inquisitor-simulator.json](./398365-inquisitor-simulator.json) |
 | Inquisitor: Shade of Swords | 123604 | [123604-inquisitor-shade-of-swords.json](./123604-inquisitor-shade-of-swords.json) |
