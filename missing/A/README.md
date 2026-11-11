@@ -8924,6 +8924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazin' George Remastered | 199176 | [199176-amazin-george-remastered.json](./199176-amazin-george-remastered.json) |
 | Amazin' Lumo | 207895 | [207895-amazin-lumo.json](./207895-amazin-lumo.json) |
 | Amazin' Mage | 270867 | [270867-amazin-mage.json](./270867-amazin-mage.json) |
+| Amazing | 339017 | [339017-amazing.json](./339017-amazing.json) |
 | Amazing 8bit Ball | 91507 | [91507-amazing-8bit-ball.json](./91507-amazing-8bit-ball.json) |
 | Amazing Adventures Around the World | 15711 | [15711-amazing-adventures-around-the-world.json](./15711-amazing-adventures-around-the-world.json) |
 | Amazing Adventures Riddle of the Two Knights | 52584 | [52584-amazing-adventures-riddle-of-the-two-knights.json](./52584-amazing-adventures-riddle-of-the-two-knights.json) |
