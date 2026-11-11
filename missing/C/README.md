@@ -10798,6 +10798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Robo | 217617 | [217617-clean-robo.json](./217617-clean-robo.json) |
 | Clean Slate | 149454 | [149454-clean-slate.json](./149454-clean-slate.json) |
 | Clean Stack | 333185 | [333185-clean-stack.json](./333185-clean-stack.json) |
+| Clean Start | 340093 | [340093-clean-start.json](./340093-clean-start.json) |
 | Clean Sweep | 18159 | [18159-clean-sweep.json](./18159-clean-sweep.json) |
 | Clean Sweep | 18784 | [18784-clean-sweep.json](./18784-clean-sweep.json) |
 | Clean Sweep | 301287 | [301287-clean-sweep.json](./301287-clean-sweep.json) |
