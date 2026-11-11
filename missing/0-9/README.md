@@ -3323,6 +3323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 69 Ways to Kill a Zombie | 31722 | [31722-69-ways-to-kill-a-zombie.json](./31722-69-ways-to-kill-a-zombie.json) |
 | 69 Yuki Love | 167167 | [167167-69-yuki-love.json](./167167-69-yuki-love.json) |
 | 69 Yuuko Hot | 215456 | [215456-69-yuuko-hot.json](./215456-69-yuuko-hot.json) |
+| 6days | 361940 | [361940-6days.json](./361940-6days.json) |
 | 6N23 | 276230 | [276230-6n23.json](./276230-6n23.json) |
 | 6Souls | 123954 | [123954-6souls.json](./123954-6souls.json) |
 | 6th Dimension | 148532 | [148532-6th-dimension.json](./148532-6th-dimension.json) |
@@ -3694,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Monkeys of Shaolin + Ash of Gods + Redeemer: Bundle | 194258 | [194258-9-monkeys-of-shaolin-ash-of-gods-redeemer-bundle.json](./194258-9-monkeys-of-shaolin-ash-of-gods-redeemer-bundle.json) |
 | 9 R.I.P. | 241526 | [241526-9-r-i-p.json](./241526-9-r-i-p.json) |
 | 9 R.I.P. Aroma Edition | 324696 | [324696-9-r-i-p-aroma-edition.json](./324696-9-r-i-p-aroma-edition.json) |
+| 9 R.I.P. Sequel | 361951 | [361951-9-r-i-p-sequel.json](./361951-9-r-i-p-sequel.json) |
 | 9 R.I.P.: Day One Edition | 324697 | [324697-9-r-i-p-day-one-edition.json](./324697-9-r-i-p-day-one-edition.json) |
 | 9 R.I.P.: Special Edition | 257269 | [257269-9-r-i-p-special-edition.json](./257269-9-r-i-p-special-edition.json) |
 | 9 Realms | 258564 | [258564-9-realms.json](./258564-9-realms.json) |
