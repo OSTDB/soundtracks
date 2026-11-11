@@ -7089,6 +7089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bolt Age | 165532 | [165532-the-bolt-age.json](./165532-the-bolt-age.json) |
 | The Bomb Disarmament Expert | 290985 | [290985-the-bomb-disarmament-expert.json](./290985-the-bomb-disarmament-expert.json) |
 | The Bomb Project | 124139 | [124139-the-bomb-project.json](./124139-the-bomb-project.json) |
+| The Bomb Split | 382701 | [382701-the-bomb-split.json](./382701-the-bomb-split.json) |
 | The Bombing Islands | 3457 | [3457-the-bombing-islands.json](./3457-the-bombing-islands.json) |
 | The Bond | 368010 | [368010-the-bond.json](./368010-the-bond.json) |
 | The Bone Crypt | 406235 | [406235-the-bone-crypt.json](./406235-the-bone-crypt.json) |
@@ -15054,6 +15055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Before Star Wars | 233653 | [233653-the-night-before-star-wars.json](./233653-the-night-before-star-wars.json) |
 | The Night Cafe | 32491 | [32491-the-night-cafe.json](./32491-the-night-cafe.json) |
 | The Night Christmas Ended | 30414 | [30414-the-night-christmas-ended.json](./30414-the-night-christmas-ended.json) |
+| The Night Cleaner | 382698 | [382698-the-night-cleaner.json](./382698-the-night-cleaner.json) |
 | The Night Crawler | 375210 | [375210-the-night-crawler.json](./375210-the-night-crawler.json) |
 | The Night Driver | 240031 | [240031-the-night-driver.json](./240031-the-night-driver.json) |
 | The Night Fisherman | 134493 | [134493-the-night-fisherman.json](./134493-the-night-fisherman.json) |
@@ -26695,6 +26697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tontie ver.0 | 281157 | [281157-tontie-ver-0.json](./281157-tontie-ver-0.json) |
 | Tontie ver.1 | 281158 | [281158-tontie-ver-1.json](./281158-tontie-ver-1.json) |
 | Tonto Run: Lone Ranger Edition | 239223 | [239223-tonto-run-lone-ranger-edition.json](./239223-tonto-run-lone-ranger-edition.json) |
+| TonTon | 382686 | [382686-tonton.json](./382686-tonton.json) |
 | Tony & Friends in Kellogg's Land | 58272 | [58272-tony-and-friends-in-kelloggs-land.json](./58272-tony-and-friends-in-kelloggs-land.json) |
 | Tony and Clyde | 172753 | [172753-tony-and-clyde.json](./172753-tony-and-clyde.json) |
 | Tony and Jennie | 337166 | [337166-tony-and-jennie.json](./337166-tony-and-jennie.json) |
@@ -29034,6 +29037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToyBox Christmas | 279867 | [279867-toybox-christmas.json](./279867-toybox-christmas.json) |
 | Toybox Escape | 388468 | [388468-toybox-escape.json](./388468-toybox-escape.json) |
 | ToyBox Puzzle | 236407 | [236407-toybox-puzzle.json](./236407-toybox-puzzle.json) |
+| Toybox Titans | 382707 | [382707-toybox-titans.json](./382707-toybox-titans.json) |
 | Toybox Turbos | 17179 | [17179-toybox-turbos.json](./17179-toybox-turbos.json) |
 | Toybox Tussle | 383076 | [383076-toybox-tussle.json](./383076-toybox-tussle.json) |
 | ToyBoxers! | 403180 | [403180-toyboxers.json](./403180-toyboxers.json) |
@@ -32625,6 +32629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricky Tube | 106524 | [106524-tricky-tube.json](./106524-tricky-tube.json) |
 | Tricky Typing | 195604 | [195604-tricky-typing.json](./195604-tricky-typing.json) |
 | Triclinium | 189046 | [189046-triclinium.json](./189046-triclinium.json) |
+| Tricolo | 382721 | [382721-tricolo.json](./382721-tricolo.json) |
 | Tricolor | 97514 | [97514-tricolor.json](./97514-tricolor.json) |
 | Tricolore Crise | 58170 | [58170-tricolore-crise.json](./58170-tricolore-crise.json) |
 | Tricolour Lovestory | 55803 | [55803-tricolour-lovestory.json](./55803-tricolour-lovestory.json) |
@@ -33123,6 +33128,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troma Presents Poultrygeist | 305952 | [305952-troma-presents-poultrygeist.json](./305952-troma-presents-poultrygeist.json) |
 | Tromaball | 93143 | [93143-tromaball.json](./93143-tromaball.json) |
 | Trombone Champ | 149821 | [149821-trombone-champ.json](./149821-trombone-champ.json) |
+| Trombone Champ: Celeste Song Pack | 382677 | [382677-trombone-champ-celeste-song-pack.json](./382677-trombone-champ-celeste-song-pack.json) |
+| Trombone Champ: Undertale + Deltarune | 382679 | [382679-trombone-champ-undertale-deltarune.json](./382679-trombone-champ-undertale-deltarune.json) |
+| Trombone Champ: Unflattened - Celeste Song Pack | 382719 | [382719-trombone-champ-unflattened-celeste-song-pack.json](./382719-trombone-champ-unflattened-celeste-song-pack.json) |
 | Trombone Champ: Unflattened! | 313775 | [313775-trombone-champ-unflattened.json](./313775-trombone-champ-unflattened.json) |
 | Trombone Champ: Unflattened! - Halloween Pack | 373879 | [373879-trombone-champ-unflattened-halloween-pack.json](./373879-trombone-champ-unflattened-halloween-pack.json) |
 | Trombone Champ: Unflattened! - Undertale + Deltarune Song Pack | 360779 | [360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json](./360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json) |
