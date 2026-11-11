@@ -8785,6 +8785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow Parkour | 260894 | [260894-flow-parkour.json](./260894-flow-parkour.json) |
 | Flow Skate | 369048 | [369048-flow-skate.json](./369048-flow-skate.json) |
 | Flow Space | 158624 | [158624-flow-space.json](./158624-flow-space.json) |
+| Flow State: Max Chill Edition | 389249 | [389249-flow-state-max-chill-edition.json](./389249-flow-state-max-chill-edition.json) |
 | Flow Weaver | 140703 | [140703-flow-weaver.json](./140703-flow-weaver.json) |
 | Flow: Last Origins | 267471 | [267471-flow-last-origins.json](./267471-flow-last-origins.json) |
 | Flow: Syn x Vertue | 278265 | [278265-flow-syn-x-vertue.json](./278265-flow-syn-x-vertue.json) |
@@ -9649,6 +9650,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foot Clinic: Smelly Edition | 304785 | [304785-foot-clinic-smelly-edition.json](./304785-foot-clinic-smelly-edition.json) |
 | Foot Clinic: Smelly Feet | 268588 | [268588-foot-clinic-smelly-feet.json](./268588-foot-clinic-smelly-feet.json) |
 | Foot Fashion Simulator | 258983 | [258983-foot-fashion-simulator.json](./258983-foot-fashion-simulator.json) |
+| Foot Fetish Fortress VolTitan Vs. The Jundoh Empire Vol.2 | 389804 | [389804-foot-fetish-fortress-voltitan-vs-the-jundoh-empire-vol-2.json](./389804-foot-fetish-fortress-voltitan-vs-the-jundoh-empire-vol-2.json) |
+| Foot Fetish Fortress VolTitan Vs. The Jundoh Empire Volume 1 | 389799 | [389799-foot-fetish-fortress-voltitan-vs-the-jundoh-empire-volume-1.json](./389799-foot-fetish-fortress-voltitan-vs-the-jundoh-empire-volume-1.json) |
 | Foot Massage | 288909 | [288909-foot-massage.json](./288909-foot-massage.json) |
 | Foot Odor Girl | 288910 | [288910-foot-odor-girl.json](./288910-foot-odor-girl.json) |
 | Foot Serve | 288904 | [288904-foot-serve.json](./288904-foot-serve.json) |
