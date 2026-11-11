@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pants Quest | 190217 | [190217-pants-quest.json](./190217-pants-quest.json) |
 | PantsTyping | 82708 | [82708-pantstyping.json](./82708-pantstyping.json) |
 | Pantsu Hunter: Back to the 90s | 113726 | [113726-pantsu-hunter-back-to-the-90s.json](./113726-pantsu-hunter-back-to-the-90s.json) |
+| Pantsu: Atty's Collection | 375721 | [375721-pantsu-attys-collection.json](./375721-pantsu-attys-collection.json) |
 | Pantsu! | 313682 | [313682-pantsu.json](./313682-pantsu.json) |
 | Pantsylvania | 64373 | [64373-pantsylvania.json](./64373-pantsylvania.json) |
 | Pantufa the Cat | 318632 | [318632-pantufa-the-cat.json](./318632-pantufa-the-cat.json) |
@@ -1897,6 +1898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PaperMan | 80081 | [80081-paperman.json](./80081-paperman.json) |
 | Paperman: Adventure Delivered | 201528 | [201528-paperman-adventure-delivered.json](./201528-paperman-adventure-delivered.json) |
 | PaperPlane | 203634 | [203634-paperplane.json](./203634-paperplane.json) |
+| PaperPlane Minigames | 375681 | [375681-paperplane-minigames.json](./375681-paperplane-minigames.json) |
 | Paperplanes | 218678 | [218678-paperplanes.json](./218678-paperplanes.json) |
 | PaperPlanets | 106612 | [106612-paperplanets.json](./106612-paperplanets.json) |
 | Paperquarium | 249458 | [249458-paperquarium.json](./249458-paperquarium.json) |
@@ -9555,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Doctor: Life in Pestilence | 380349 | [380349-plague-doctor-life-in-pestilence.json](./380349-plague-doctor-life-in-pestilence.json) |
 | Plague Doctor: Medieval Apothecary | 416824 | [416824-plague-doctor-medieval-apothecary.json](./416824-plague-doctor-medieval-apothecary.json) |
 | Plague Hunter | 106694 | [106694-plague-hunter.json](./106694-plague-hunter.json) |
+| Plague Hunters | 375743 | [375743-plague-hunters.json](./375743-plague-hunters.json) |
 | Plague Inc: Aliens & Anti-Vaxxers | 398971 | [398971-plague-inc-aliens-and-anti-vaxxers.json](./398971-plague-inc-aliens-and-anti-vaxxers.json) |
 | Plague Inc: Evolved | 7601 | [7601-plague-inc-evolved.json](./7601-plague-inc-evolved.json) |
 | Plague Inc: The Cure | 170560 | [170560-plague-inc-the-cure.json](./170560-plague-inc-the-cure.json) |
@@ -10075,6 +10078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Battle for Neighborville - Complete Edition | 142819 | [142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json](./142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json) |
 | Plants vs. Zombies: Battle for Neighborville - Deluxe Edition | 136356 | [136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json](./136356-plants-vs-zombies-battle-for-neighborville-deluxe-edition.json) |
 | Plants vs. Zombies: Cubed | 272801 | [272801-plants-vs-zombies-cubed.json](./272801-plants-vs-zombies-cubed.json) |
+| Plants Vs. Zombies: DLC Edition | 375715 | [375715-plants-vs-zombies-dlc-edition.json](./375715-plants-vs-zombies-dlc-edition.json) |
 | Plants vs. Zombies: Endless Edition | 287882 | [287882-plants-vs-zombies-endless-edition.json](./287882-plants-vs-zombies-endless-edition.json) |
 | Plants vs. Zombies: Fusion | 330905 | [330905-plants-vs-zombies-fusion.json](./330905-plants-vs-zombies-fusion.json) |
 | Plants vs. Zombies: Garden Warfare | 3146 | [3146-plants-vs-zombies-garden-warfare.json](./3146-plants-vs-zombies-garden-warfare.json) |
@@ -10090,6 +10094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies: Project Hot Tub | 284391 | [284391-plants-vs-zombies-project-hot-tub.json](./284391-plants-vs-zombies-project-hot-tub.json) |
 | Plants vs. Zombies: Replanted | 358529 | [358529-plants-vs-zombies-replanted.json](./358529-plants-vs-zombies-replanted.json) |
 | Plants vs. Zombies: The Last Stand | 124429 | [124429-plants-vs-zombies-the-last-stand.json](./124429-plants-vs-zombies-the-last-stand.json) |
+| Plants vs. Zombies: Ultimate | 375744 | [375744-plants-vs-zombies-ultimate.json](./375744-plants-vs-zombies-ultimate.json) |
 | Plants War | 65331 | [65331-plants-war.json](./65331-plants-war.json) |
 | Plantsportation | 249930 | [249930-plantsportation.json](./249930-plantsportation.json) |
 | Plantstead | 176933 | [176933-plantstead.json](./176933-plantstead.json) |
