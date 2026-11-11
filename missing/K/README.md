@@ -2318,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KickBeat: Special Edition | 20059 | [20059-kickbeat-special-edition.json](./20059-kickbeat-special-edition.json) |
 | Kickboxer | 336156 | [336156-kickboxer.json](./336156-kickboxer.json) |
 | Kickdom | 378213 | [378213-kickdom.json](./378213-kickdom.json) |
+| Kicker | 350706 | [350706-kicker.json](./350706-kicker.json) |
 | kicker VR | 102182 | [102182-kicker-vr.json](./102182-kicker-vr.json) |
 | Kickerinho | 28543 | [28543-kickerinho.json](./28543-kickerinho.json) |
 | Kickerinho World | 153829 | [153829-kickerinho-world.json](./153829-kickerinho-world.json) |
