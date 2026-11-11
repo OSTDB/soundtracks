@@ -9096,6 +9096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EZ Muze: Hamst3r Edition | 92651 | [92651-ez-muze-hamst3r-edition.json](./92651-ez-muze-hamst3r-edition.json) |
 | EZ-Talk Shokyuu-hen 4 | 334245 | [334245-ez-talk-shokyuu-hen-4.json](./334245-ez-talk-shokyuu-hen-4.json) |
 | EZ-Talk Shokyuu-hen 5 | 334275 | [334275-ez-talk-shokyuu-hen-5.json](./334275-ez-talk-shokyuu-hen-5.json) |
+| EZ-Talk Shokyuuhen 1 | 318645 | [318645-ez-talk-shokyuuhen-1.json](./318645-ez-talk-shokyuuhen-1.json) |
 | EZ-Talk Shokyuuhen 1-6 Kan Set | 93596 | [93596-ez-talk-shokyuuhen-1-6-kan-set.json](./93596-ez-talk-shokyuuhen-1-6-kan-set.json) |
 | EZ-Talk Shokyuuhen 2 | 333835 | [333835-ez-talk-shokyuuhen-2.json](./333835-ez-talk-shokyuuhen-2.json) |
 | EZ-Talk: Shokyuu-hen 6 | 334277 | [334277-ez-talk-shokyuu-hen-6.json](./334277-ez-talk-shokyuu-hen-6.json) |
