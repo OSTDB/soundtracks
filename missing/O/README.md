@@ -51,6 +51,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O! Strelalka!!! | 55265 | [55265-o-strelalka.json](./55265-o-strelalka.json) |
 | O.A.C: World Begins | 197581 | [197581-o-a-c-world-begins.json](./197581-o-a-c-world-begins.json) |
 | O.B.O.L | 402359 | [402359-o-b-o-l.json](./402359-o-b-o-l.json) |
+| O.D.T: Escape Again... Or Die Trying | 387172 | [387172-o-d-t-escape-again-or-die-trying.json](./387172-o-d-t-escape-again-or-die-trying.json) |
 | O.D.T.: Escape... ...Or Die Trying | 45213 | [45213-o-d-t-escape-or-die-trying.json](./45213-o-d-t-escape-or-die-trying.json) |
 | O.J.'s All-American Race to Acquittal | 298307 | [298307-o-j-s-all-american-race-to-acquittal.json](./298307-o-j-s-all-american-race-to-acquittal.json) |
 | O.M.G. 26: Our Mini Games | 110320 | [110320-o-m-g-26-our-mini-games.json](./110320-o-m-g-26-our-mini-games.json) |
