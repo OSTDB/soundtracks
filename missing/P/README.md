@@ -13944,6 +13944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal 2: Alive Again | 322239 | [322239-portal-2-alive-again.json](./322239-portal-2-alive-again.json) |
 | Portal 2: And the Abyss Gazes Back Part 1 | 183424 | [183424-portal-2-and-the-abyss-gazes-back-part-1.json](./183424-portal-2-and-the-abyss-gazes-back-part-1.json) |
 | Portal 2: Community Edition | 169962 | [169962-portal-2-community-edition.json](./169962-portal-2-community-edition.json) |
+| Portal 2: Confinement | 286175 | [286175-portal-2-confinement.json](./286175-portal-2-confinement.json) |
 | Portal 2: Google Translate Edition | 313481 | [313481-portal-2-google-translate-edition.json](./313481-portal-2-google-translate-edition.json) |
 | Portal 2: In Motion | 99969 | [99969-portal-2-in-motion.json](./99969-portal-2-in-motion.json) |
 | Portal 2: Peer Review | 114140 | [114140-portal-2-peer-review.json](./114140-portal-2-peer-review.json) |
@@ -13997,6 +13998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Shot Gun Teleport | 290436 | [290436-portal-shot-gun-teleport.json](./290436-portal-shot-gun-teleport.json) |
 | Portal Stories: Mel | 47107 | [47107-portal-stories-mel.json](./47107-portal-stories-mel.json) |
 | Portal Stories: VR | 54733 | [54733-portal-stories-vr.json](./54733-portal-stories-vr.json) |
+| Portal Survivors: Enchanstrider | 286177 | [286177-portal-survivors-enchanstrider.json](./286177-portal-survivors-enchanstrider.json) |
 | Portal to the Cosmobeat | 315960 | [315960-portal-to-the-cosmobeat.json](./315960-portal-to-the-cosmobeat.json) |
 | Portal Together | 410208 | [410208-portal-together.json](./410208-portal-together.json) |
 | Portal Touch | 115783 | [115783-portal-touch.json](./115783-portal-touch.json) |
