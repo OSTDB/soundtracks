@@ -6359,6 +6359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God as a Fat Woman Sitting in the Bath | 206580 | [206580-god-as-a-fat-woman-sitting-in-the-bath.json](./206580-god-as-a-fat-woman-sitting-in-the-bath.json) |
 | God Awefull Clicker | 101753 | [101753-god-awefull-clicker.json](./101753-god-awefull-clicker.json) |
 | God bless, or Goddess | 358972 | [358972-god-bless-or-goddess.json](./358972-god-bless-or-goddess.json) |
+| God Brawl | 258662 | [258662-god-brawl.json](./258662-god-brawl.json) |
 | God Busters: Who watches the Watchers? | 232460 | [232460-god-busters-who-watches-the-watchers.json](./232460-god-busters-who-watches-the-watchers.json) |
 | God Came to the Cave | 70298 | [70298-god-came-to-the-cave.json](./70298-god-came-to-the-cave.json) |
 | God Codex | 423662 | [423662-god-codex.json](./423662-god-codex.json) |
