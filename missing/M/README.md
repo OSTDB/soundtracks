@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maggie's Movies: Second Shot | 132789 | [132789-maggies-movies-second-shot.json](./132789-maggies-movies-second-shot.json) |
 | Maggie's Rainy Ride | 375334 | [375334-maggies-rainy-ride.json](./375334-maggies-rainy-ride.json) |
 | Maggot Face | 229768 | [229768-maggot-face.json](./229768-maggot-face.json) |
+| Maggot Feast | 265886 | [265886-maggot-feast.json](./265886-maggot-feast.json) |
 | Maggot House: Song of the Hanging Mirror | 417222 | [417222-maggot-house-song-of-the-hanging-mirror.json](./417222-maggot-house-song-of-the-hanging-mirror.json) |
 | Maggotmania | 109041 | [109041-maggotmania.json](./109041-maggotmania.json) |
 | Magi | 35415 | [35415-magi.json](./35415-magi.json) |
@@ -4053,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario and Donkey Kong: Minis on the Move | 18027 | [18027-mario-and-donkey-kong-minis-on-the-move.json](./18027-mario-and-donkey-kong-minis-on-the-move.json) |
 | Mario and Donkey Kong: Minis on the Move + Mario vs. Donkey Kong: Minis March Again! | 60579 | [60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json](./60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json) |
 | Mario and Donkey Kong's Lost Island | 323186 | [323186-mario-and-donkey-kongs-lost-island.json](./323186-mario-and-donkey-kongs-lost-island.json) |
+| Mario and Luigi: Superstar Simulator | 265887 | [265887-mario-and-luigi-superstar-simulator.json](./265887-mario-and-luigi-superstar-simulator.json) |
 | Mario and Luigi: The Bowser Saga | 323819 | [323819-mario-and-luigi-the-bowser-saga.json](./323819-mario-and-luigi-the-bowser-saga.json) |
 | Mario and the Cowboys from Hell | 323609 | [323609-mario-and-the-cowboys-from-hell.json](./323609-mario-and-the-cowboys-from-hell.json) |
 | Mario and the Magic Trials | 313401 | [313401-mario-and-the-magic-trials.json](./313401-mario-and-the-magic-trials.json) |
@@ -11968,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroSonic | 331734 | [331734-microsonic.json](./331734-microsonic.json) |
 | Microspace Invaders | 97442 | [97442-microspace-invaders.json](./97442-microspace-invaders.json) |
 | MicroSpy | 46486 | [46486-microspy.json](./46486-microspy.json) |
+| MicroSstep | 265907 | [265907-microsstep.json](./265907-microsstep.json) |
 | Microsurgeon | 5684 | [5684-microsurgeon.json](./5684-microsurgeon.json) |
 | Microtopia | 293155 | [293155-microtopia.json](./293155-microtopia.json) |
 | MicroTown | 120024 | [120024-microtown.json](./120024-microtown.json) |
@@ -17600,6 +17603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Wilds | 159532 | [159532-monster-wilds.json](./159532-monster-wilds.json) |
 | Monster World | 402399 | [402399-monster-world.json](./402399-monster-world.json) |
 | Monster World IV | 18282 | [18282-monster-world-iv.json](./18282-monster-world-iv.json) |
+| Monster World IV Regenesis | 265885 | [265885-monster-world-iv-regenesis.json](./265885-monster-world-iv-regenesis.json) |
 | Monster World RPG | 381496 | [381496-monster-world-rpg.json](./381496-monster-world-rpg.json) |
 | Monster World-Legend | 96783 | [96783-monster-world-legend.json](./96783-monster-world-legend.json) |
 | Monster X | 192549 | [192549-monster-x.json](./192549-monster-x.json) |
