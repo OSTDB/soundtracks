@@ -242,6 +242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dactyl Nightmare | 65008 | [65008-dactyl-nightmare.json](./65008-dactyl-nightmare.json) |
 | Dactylographe | 183533 | [183533-dactylographe.json](./183533-dactylographe.json) |
 | Dactylus | 268397 | [268397-dactylus.json](./268397-dactylus.json) |
+| Dad | 306167 | [306167-dad.json](./306167-dad.json) |
 | Dad and Me: Super Daddy Punch Hero | 208195 | [208195-dad-and-me-super-daddy-punch-hero.json](./208195-dad-and-me-super-daddy-punch-hero.json) |
 | Dad Beat Dads | 34847 | [34847-dad-beat-dads.json](./34847-dad-beat-dads.json) |
 | Dad Broke the Moon! | 181327 | [181327-dad-broke-the-moon.json](./181327-dad-broke-the-moon.json) |
@@ -17033,6 +17034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Chronicles: The Book of Fire | 66000 | [66000-dream-chronicles-the-book-of-fire.json](./66000-dream-chronicles-the-book-of-fire.json) |
 | Dream Chronicles: The Book of Water | 66001 | [66001-dream-chronicles-the-book-of-water.json](./66001-dream-chronicles-the-book-of-water.json) |
 | Dream Chronicles: The Chosen Child | 16071 | [16071-dream-chronicles-the-chosen-child.json](./16071-dream-chronicles-the-chosen-child.json) |
+| Dream City | 306246 | [306246-dream-city.json](./306246-dream-city.json) |
 | Dream City | 372750 | [372750-dream-city.json](./372750-dream-city.json) |
 | Dream City Apocalypse | 381945 | [381945-dream-city-apocalypse.json](./381945-dream-city-apocalypse.json) |
 | Dream City Fugitive | 381947 | [381947-dream-city-fugitive.json](./381947-dream-city-fugitive.json) |
@@ -17105,6 +17107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Game | 411416 | [411416-dream-game.json](./411416-dream-game.json) |
 | Dream Garden | 339968 | [339968-dream-garden.json](./339968-dream-garden.json) |
 | Dream Gate | 45234 | [45234-dream-gate.json](./45234-dream-gate.json) |
+| Dream Gen | 306735 | [306735-dream-gen.json](./306735-dream-gen.json) |
 | Dream Generation: Koi Ka? Shigoto Ka!? | 130468 | [130468-dream-generation-koi-ka-shigoto-ka.json](./130468-dream-generation-koi-ka-shigoto-ka.json) |
 | Dream Genie | 201294 | [201294-dream-genie.json](./201294-dream-genie.json) |
 | Dream Girl Premier | 222445 | [222445-dream-girl-premier.json](./222445-dream-girl-premier.json) |
@@ -20772,6 +20775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Warriors 8: Xtreme Legends Complete Edition | 21712 | [21712-dynasty-warriors-8-xtreme-legends-complete-edition.json](./21712-dynasty-warriors-8-xtreme-legends-complete-edition.json) |
 | Dynasty Warriors 8: Xtreme Legends Complete Edition - Powerful Weapon Pack | 155332 | [155332-dynasty-warriors-8-xtreme-legends-complete-edition-powerful-weapon-pack.json](./155332-dynasty-warriors-8-xtreme-legends-complete-edition-powerful-weapon-pack.json) |
 | Dynasty Warriors 8: Xtreme Legends Definitive Edition | 111063 | [111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json](./111063-dynasty-warriors-8-xtreme-legends-definitive-edition.json) |
+| Dynasty Warriors 8: Xu Shu 'Kisaragi Ritsu' Costume | 306731 | [306731-dynasty-warriors-8-xu-shu-kisaragi-ritsu-costume.json](./306731-dynasty-warriors-8-xu-shu-kisaragi-ritsu-costume.json) |
 | Dynasty Warriors 8: Zhao Yun 'Ibuki' Costume | 306779 | [306779-dynasty-warriors-8-zhao-yun-ibuki-costume.json](./306779-dynasty-warriors-8-zhao-yun-ibuki-costume.json) |
 | Dynasty Warriors 9 Mobile | 116235 | [116235-dynasty-warriors-9-mobile.json](./116235-dynasty-warriors-9-mobile.json) |
 | Dynasty Warriors 9 with Bonus | 90690 | [90690-dynasty-warriors-9-with-bonus.json](./90690-dynasty-warriors-9-with-bonus.json) |
