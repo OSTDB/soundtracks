@@ -7591,6 +7591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball M: Death Save Bundle | 278636 | [278636-pinball-m-death-save-bundle.json](./278636-pinball-m-death-save-bundle.json) |
 | Pinball M: Duke Nukem's Big Shot Pinball | 276743 | [276743-pinball-m-duke-nukems-big-shot-pinball.json](./276743-pinball-m-duke-nukems-big-shot-pinball.json) |
 | Pinball M: System Shock Pinball | 287179 | [287179-pinball-m-system-shock-pinball.json](./287179-pinball-m-system-shock-pinball.json) |
+| Pinball M: Texas Chainsaw Massacre Pinball | 304392 | [304392-pinball-m-texas-chainsaw-massacre-pinball.json](./304392-pinball-m-texas-chainsaw-massacre-pinball.json) |
 | Pinball M: The Thing Pinball | 278535 | [278535-pinball-m-the-thing-pinball.json](./278535-pinball-m-the-thing-pinball.json) |
 | Pinball Madness 2 | 71225 | [71225-pinball-madness-2.json](./71225-pinball-madness-2.json) |
 | Pinball Madness 4 | 69788 | [69788-pinball-madness-4.json](./69788-pinball-madness-4.json) |
@@ -8180,6 +8181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate's Gold | 187867 | [187867-pirates-gold.json](./187867-pirates-gold.json) |
 | Pirate's Gold | 193272 | [193272-pirates-gold.json](./193272-pirates-gold.json) |
 | Pirate's Life | 35523 | [35523-pirates-life.json](./35523-pirates-life.json) |
+| Pirate's Money | 304401 | [304401-pirates-money.json](./304401-pirates-money.json) |
 | Pirate's Pension | 176304 | [176304-pirates-pension.json](./176304-pirates-pension.json) |
 | Pirate's Solitaire | 195715 | [195715-pirates-solitaire.json](./195715-pirates-solitaire.json) |
 | Pirate101 | 23536 | [23536-pirate101.json](./23536-pirate101.json) |
