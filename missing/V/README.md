@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vilde | 253827 | [253827-vilde.json](./253827-vilde.json) |
 | Vile | 111386 | [111386-vile.json](./111386-vile.json) |
 | Vile | 409723 | [409723-vile.json](./409723-vile.json) |
+| Vile Flesh | 311296 | [311296-vile-flesh.json](./311296-vile-flesh.json) |
 | Vile Halicarnassus | 386086 | [386086-vile-halicarnassus.json](./386086-vile-halicarnassus.json) |
 | Vile Matter | 126997 | [126997-vile-matter.json](./126997-vile-matter.json) |
 | Vile: Exhumed | 320741 | [320741-vile-exhumed.json](./320741-vile-exhumed.json) |
@@ -3043,6 +3044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Warfighter | 31621 | [31621-virtual-warfighter.json](./31621-virtual-warfighter.json) |
 | Virtual WarZone | 255850 | [255850-virtual-warzone.json](./255850-virtual-warzone.json) |
 | Virtual Wave | 115262 | [115262-virtual-wave.json](./115262-virtual-wave.json) |
+| Virtual World | 311302 | [311302-virtual-world.json](./311302-virtual-world.json) |
 | Virtual World Primus | 172105 | [172105-virtual-world-primus.json](./172105-virtual-world-primus.json) |
 | Virtual World: Digital Girl | 379544 | [379544-virtual-world-digital-girl.json](./379544-virtual-world-digital-girl.json) |
 | Virtual-O | 31266 | [31266-virtual-o.json](./31266-virtual-o.json) |
