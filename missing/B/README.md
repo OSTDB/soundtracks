@@ -1023,7 +1023,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -6269,6 +6268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bed Bugs! | 15665 | [15665-bed-bugs.json](./15665-bed-bugs.json) |
 | Bed Dream, First Draft | 128740 | [128740-bed-dream-first-draft.json](./128740-bed-dream-first-draft.json) |
 | Bed Hogg | 177698 | [177698-bed-hogg.json](./177698-bed-hogg.json) |
+| Bed Lying Simulator | 286713 | [286713-bed-lying-simulator.json](./286713-bed-lying-simulator.json) |
 | Bed Lying Simulator: Girlfriend Experience | 292680 | [292680-bed-lying-simulator-girlfriend-experience.json](./292680-bed-lying-simulator-girlfriend-experience.json) |
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
 | Bed Wars | 265850 | [265850-bed-wars.json](./265850-bed-wars.json) |
@@ -15605,6 +15605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Drain | 210268 | [210268-brain-drain.json](./210268-brain-drain.json) |
 | Brain Drain | 319857 | [319857-brain-drain.json](./319857-brain-drain.json) |
 | Brain Escape | 267488 | [267488-brain-escape.json](./267488-brain-escape.json) |
+| Brain Exam with Benefits | 286737 | [286737-brain-exam-with-benefits.json](./286737-brain-exam-with-benefits.json) |
 | Brain Exam with Benefits 2 | 207489 | [207489-brain-exam-with-benefits-2.json](./207489-brain-exam-with-benefits-2.json) |
 | Brain Exercises With Dr. Kawashima | 20278 | [20278-brain-exercises-with-dr-kawashima.json](./20278-brain-exercises-with-dr-kawashima.json) |
 | Brain Explode | 358737 | [358737-brain-explode.json](./358737-brain-explode.json) |
