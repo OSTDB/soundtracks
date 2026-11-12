@@ -1510,9 +1510,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Pride Marshals Bundle Pack | 252589 | [252589-idle-champions-pride-marshals-bundle-pack.json](./252589-idle-champions-pride-marshals-bundle-pack.json) |
 | Idle Champions: Sherlock Combs the Bee Familiar Pack | 313698 | [313698-idle-champions-sherlock-combs-the-bee-familiar-pack.json](./313698-idle-champions-sherlock-combs-the-bee-familiar-pack.json) |
 | Idle Champions: Solarya the Ki-rin Familiar Pack | 306075 | [306075-idle-champions-solarya-the-ki-rin-familiar-pack.json](./306075-idle-champions-solarya-the-ki-rin-familiar-pack.json) |
+| Idle Champions: Spelljammer Pilot Briv Skin & Feat Pack | 291108 | [291108-idle-champions-spelljammer-pilot-briv-skin-and-feat-pack.json](./291108-idle-champions-spelljammer-pilot-briv-skin-and-feat-pack.json) |
 | Idle Champions: Spelljammer Pilot Celeste Skin & Feat Pack | 274959 | [274959-idle-champions-spelljammer-pilot-celeste-skin-and-feat-pack.json](./274959-idle-champions-spelljammer-pilot-celeste-skin-and-feat-pack.json) |
 | Idle Champions: Spelljammer Pilot Gromma Skin & Feat Pack | 285838 | [285838-idle-champions-spelljammer-pilot-gromma-skin-and-feat-pack.json](./285838-idle-champions-spelljammer-pilot-gromma-skin-and-feat-pack.json) |
 | Idle Champions: Spelljammer Pilot Vi Skin & Feat Pack | 285839 | [285839-idle-champions-spelljammer-pilot-vi-skin-and-feat-pack.json](./285839-idle-champions-spelljammer-pilot-vi-skin-and-feat-pack.json) |
+| Idle Champions: Spelljammer Regis Skin & Feat Pack | 291107 | [291107-idle-champions-spelljammer-regis-skin-and-feat-pack.json](./291107-idle-champions-spelljammer-regis-skin-and-feat-pack.json) |
 | Idle Champions: Spymaster Aeon Theme Pack | 313707 | [313707-idle-champions-spymaster-aeon-theme-pack.json](./313707-idle-champions-spymaster-aeon-theme-pack.json) |
 | Idle Champions: Triton Glitch Nayeli Skin & Feat Pack | 313699 | [313699-idle-champions-triton-glitch-nayeli-skin-and-feat-pack.json](./313699-idle-champions-triton-glitch-nayeli-skin-and-feat-pack.json) |
 | Idle Champions: Undead Knight Solaak Skin & Feat Pack | 289848 | [289848-idle-champions-undead-knight-solaak-skin-and-feat-pack.json](./289848-idle-champions-undead-knight-solaak-skin-and-feat-pack.json) |
@@ -5593,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the City | 181966 | [181966-into-the-city.json](./181966-into-the-city.json) |
 | Into the Core | 118429 | [118429-into-the-core.json](./118429-into-the-core.json) |
 | Into The Corner | 339112 | [339112-into-the-corner.json](./339112-into-the-corner.json) |
+| Into The Craft | 291140 | [291140-into-the-craft.json](./291140-into-the-craft.json) |
 | Into the Crops | 229471 | [229471-into-the-crops.json](./229471-into-the-crops.json) |
 | Into the Crypt | 212129 | [212129-into-the-crypt.json](./212129-into-the-crypt.json) |
 | Into the Crypt | 395983 | [395983-into-the-crypt.json](./395983-into-the-crypt.json) |
