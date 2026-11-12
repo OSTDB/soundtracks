@@ -17836,6 +17836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Cadence | 398360 | [398360-bubble-cadence.json](./398360-bubble-cadence.json) |
 | Bubble Cats Rescue | 122531 | [122531-bubble-cats-rescue.json](./122531-bubble-cats-rescue.json) |
 | Bubble Chef | 120222 | [120222-bubble-chef.json](./120222-bubble-chef.json) |
+| Bubble Chicken Farm | 277619 | [277619-bubble-chicken-farm.json](./277619-bubble-chicken-farm.json) |
 | Bubble Cloud: Spinning Bubbles | 86774 | [86774-bubble-cloud-spinning-bubbles.json](./86774-bubble-cloud-spinning-bubbles.json) |
 | Bubble Crack | 71048 | [71048-bubble-crack.json](./71048-bubble-crack.json) |
 | Bubble Crackle | 87321 | [87321-bubble-crackle.json](./87321-bubble-crackle.json) |
