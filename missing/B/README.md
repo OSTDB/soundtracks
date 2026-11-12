@@ -1023,7 +1023,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -4330,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Robots | 226256 | [226256-battle-robots.json](./226256-battle-robots.json) |
 | Battle Robots: Confrontation | 308027 | [308027-battle-robots-confrontation.json](./308027-battle-robots-confrontation.json) |
 | Battle Rollers | 152567 | [152567-battle-rollers.json](./152567-battle-rollers.json) |
+| Battle Room | 289530 | [289530-battle-room.json](./289530-battle-room.json) |
 | Battle Round | 127016 | [127016-battle-round.json](./127016-battle-round.json) |
 | Battle Royal | 42758 | [42758-battle-royal.json](./42758-battle-royal.json) |
 | Battle Royal: Battlegrounds Call | 328569 | [328569-battle-royal-battlegrounds-call.json](./328569-battle-royal-battlegrounds-call.json) |
@@ -4429,6 +4429,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tap Tap | 233239 | [233239-battle-tap-tap.json](./233239-battle-tap-tap.json) |
 | Battle Team | 109978 | [109978-battle-team.json](./109978-battle-team.json) |
 | Battle Teams 2 | 102862 | [102862-battle-teams-2.json](./102862-battle-teams-2.json) |
+| Battle Teams 2: Commander Pack | 289503 | [289503-battle-teams-2-commander-pack.json](./289503-battle-teams-2-commander-pack.json) |
+| Battle Teams 2: Field Marshal Pack | 289502 | [289502-battle-teams-2-field-marshal-pack.json](./289502-battle-teams-2-field-marshal-pack.json) |
+| Battle Teams 2: Free Pack | 289501 | [289501-battle-teams-2-free-pack.json](./289501-battle-teams-2-free-pack.json) |
 | Battle Teams 2: Iconic Bundle | 302206 | [302206-battle-teams-2-iconic-bundle.json](./302206-battle-teams-2-iconic-bundle.json) |
 | Battle Teams 2: She Panda Gift Pack | 324285 | [324285-battle-teams-2-she-panda-gift-pack.json](./324285-battle-teams-2-she-panda-gift-pack.json) |
 | Battle Teams 2: Wishlist Pack | 310384 | [310384-battle-teams-2-wishlist-pack.json](./310384-battle-teams-2-wishlist-pack.json) |
