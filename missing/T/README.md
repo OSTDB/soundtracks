@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Quiz | 243310 | [243310-tap-quiz.json](./243310-tap-quiz.json) |
 | Tap Rising | 242200 | [242200-tap-rising.json](./242200-tap-rising.json) |
 | Tap Romantics | 258930 | [258930-tap-romantics.json](./258930-tap-romantics.json) |
+| Tap Shap | 247144 | [247144-tap-shap.json](./247144-tap-shap.json) |
 | Tap Skaters | 122516 | [122516-tap-skaters.json](./122516-tap-skaters.json) |
 | Tap Smiths | 58233 | [58233-tap-smiths.json](./58233-tap-smiths.json) |
 | Tap Soccer: Champions | 239891 | [239891-tap-soccer-champions.json](./239891-tap-soccer-champions.json) |
@@ -15678,6 +15679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oregon Trail: American Settler | 63611 | [63611-the-oregon-trail-american-settler.json](./63611-the-oregon-trail-american-settler.json) |
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
 | The Oregon Trail: Classic Edition | 82073 | [82073-the-oregon-trail-classic-edition.json](./82073-the-oregon-trail-classic-edition.json) |
+| The Oregon Trail: Cowboys and Critters | 247166 | [247166-the-oregon-trail-cowboys-and-critters.json](./247166-the-oregon-trail-cowboys-and-critters.json) |
 | The Oregon Trail: Deluxe Edition | 300467 | [300467-the-oregon-trail-deluxe-edition.json](./300467-the-oregon-trail-deluxe-edition.json) |
 | The Organ Woman | 403938 | [403938-the-organ-woman.json](./403938-the-organ-woman.json) |
 | The Organized Capy God | 348037 | [348037-the-organized-capy-god.json](./348037-the-organized-capy-god.json) |
@@ -31205,6 +31207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz 2022 DLC: Blue Comet 2.0 - The Seashore's Finest Train | 263161 | [263161-trainz-2022-dlc-blue-comet-2-0-the-seashores-finest-train.json](./263161-trainz-2022-dlc-blue-comet-2-0-the-seashores-finest-train.json) |
 | Trainz 2022 DLC: Pro Train DB Class 52 | 254072 | [254072-trainz-2022-dlc-pro-train-db-class-52.json](./254072-trainz-2022-dlc-pro-train-db-class-52.json) |
 | Trainz 2022: C44aci Locomotive - ARG/Mineral Resources Pack | 306118 | [306118-trainz-2022-c44aci-locomotive-arg-mineral-resources-pack.json](./306118-trainz-2022-c44aci-locomotive-arg-mineral-resources-pack.json) |
+| Trainz 2022: Ferrovia Appennino Centrale 1899 | 247223 | [247223-trainz-2022-ferrovia-appennino-centrale-1899.json](./247223-trainz-2022-ferrovia-appennino-centrale-1899.json) |
 | Trainz 2022: Inzer - South Ural Mountains | 205298 | [205298-trainz-2022-inzer-south-ural-mountains.json](./205298-trainz-2022-inzer-south-ural-mountains.json) |
 | Trainz 2022: Leadville Subdivision | 205280 | [205280-trainz-2022-leadville-subdivision.json](./205280-trainz-2022-leadville-subdivision.json) |
 | Trainz 2022: Model Trainz - Freemont Mills | 306119 | [306119-trainz-2022-model-trainz-freemont-mills.json](./306119-trainz-2022-model-trainz-freemont-mills.json) |
@@ -31303,6 +31306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Plus: Est/Etat 241A Mountain Locomotives | 214677 | [214677-trainz-plus-est-etat-241a-mountain-locomotives.json](./214677-trainz-plus-est-etat-241a-mountain-locomotives.json) |
 | Trainz Plus: ETR 1000 - Frecciarossa | 205477 | [205477-trainz-plus-etr-1000-frecciarossa.json](./205477-trainz-plus-etr-1000-frecciarossa.json) |
 | Trainz Plus: Fall Harvest Nebraska | 205451 | [205451-trainz-plus-fall-harvest-nebraska.json](./205451-trainz-plus-fall-harvest-nebraska.json) |
+| Trainz Plus: Ferrovia Appennino Centrale 1899 | 247224 | [247224-trainz-plus-ferrovia-appennino-centrale-1899.json](./247224-trainz-plus-ferrovia-appennino-centrale-1899.json) |
 | Trainz Plus: Ffestiniog Railway Alco 1265 Mountaineer | 292663 | [292663-trainz-plus-ffestiniog-railway-alco-1265-mountaineer.json](./292663-trainz-plus-ffestiniog-railway-alco-1265-mountaineer.json) |
 | Trainz Plus: Florida Rail Road Museum Model Railroad | 205550 | [205550-trainz-plus-florida-rail-road-museum-model-railroad.json](./205550-trainz-plus-florida-rail-road-museum-model-railroad.json) |
 | Trainz Plus: Franklin Avenue Industrial | 205489 | [205489-trainz-plus-franklin-avenue-industrial.json](./205489-trainz-plus-franklin-avenue-industrial.json) |
@@ -32006,6 +32010,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trams, Trains & Monorails | 304937 | [304937-trams-trains-and-monorails.json](./304937-trams-trains-and-monorails.json) |
 | TramSim Munich | 165382 | [165382-tramsim-munich.json](./165382-tramsim-munich.json) |
 | TramSim Vienna | 140471 | [140471-tramsim-vienna.json](./140471-tramsim-vienna.json) |
+| TramSim: Console Edition | 247140 | [247140-tramsim-console-edition.json](./247140-tramsim-console-edition.json) |
+| TramSim: Console Edition - Deluxe | 247139 | [247139-tramsim-console-edition-deluxe.json](./247139-tramsim-console-edition-deluxe.json) |
 | Trance | 187267 | [187267-trance.json](./187267-trance.json) |
 | Trance World | 412007 | [412007-trance-world.json](./412007-trance-world.json) |
 | Trance-Pacific | 92860 | [92860-trance-pacific.json](./92860-trance-pacific.json) |
