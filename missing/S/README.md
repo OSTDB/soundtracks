@@ -6804,6 +6804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex On The Beach | 376820 | [376820-sex-on-the-beach.json](./376820-sex-on-the-beach.json) |
 | Sex Play: BDSM | 263760 | [263760-sex-play-bdsm.json](./263760-sex-play-bdsm.json) |
 | Sex Play: Naughty Doctor | 267204 | [267204-sex-play-naughty-doctor.json](./267204-sex-play-naughty-doctor.json) |
+| Sex Play: Night Club | 274696 | [274696-sex-play-night-club.json](./274696-sex-play-night-club.json) |
 | Sex Play: The Sauna | 264636 | [264636-sex-play-the-sauna.json](./264636-sex-play-the-sauna.json) |
 | Sex Play: Tropical Vacation | 272934 | [272934-sex-play-tropical-vacation.json](./272934-sex-play-tropical-vacation.json) |
 | Sex Poker | 417405 | [417405-sex-poker.json](./417405-sex-poker.json) |
@@ -15705,6 +15706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smite Blitz | 117503 | [117503-smite-blitz.json](./117503-smite-blitz.json) |
 | Smite Rivals | 26693 | [26693-smite-rivals.json](./26693-smite-rivals.json) |
 | Smite Tactics | 25085 | [25085-smite-tactics.json](./25085-smite-tactics.json) |
+| Smite x RuneScape Premium Bundle | 274625 | [274625-smite-x-runescape-premium-bundle.json](./274625-smite-x-runescape-premium-bundle.json) |
 | Smite: Digital Deluxe Edition 2021 | 164843 | [164843-smite-digital-deluxe-edition-2021.json](./164843-smite-digital-deluxe-edition-2021.json) |
 | Smite: X Edition | 83766 | [83766-smite-x-edition.json](./83766-smite-x-edition.json) |
 | Smiterino | 300050 | [300050-smiterino.json](./300050-smiterino.json) |
@@ -19466,6 +19468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic X-Treme Revitalized | 326953 | [326953-sonic-x-treme-revitalized.json](./326953-sonic-x-treme-revitalized.json) |
 | Sonic X: Chronological Saga | 331370 | [331370-sonic-x-chronological-saga.json](./331370-sonic-x-chronological-saga.json) |
 | Sonic X: Emerald Grab | 269876 | [269876-sonic-x-emerald-grab.json](./269876-sonic-x-emerald-grab.json) |
+| Sonic X: Speed Spotter | 274720 | [274720-sonic-x-speed-spotter.json](./274720-sonic-x-speed-spotter.json) |
 | Sonic X: Speed Spotter 2 | 275157 | [275157-sonic-x-speed-spotter-2.json](./275157-sonic-x-speed-spotter-2.json) |
 | Sonic X: Speed Spotter 3 | 275166 | [275166-sonic-x-speed-spotter-3.json](./275166-sonic-x-speed-spotter-3.json) |
 | Sonic X: The Game | 326809 | [326809-sonic-x-the-game.json](./326809-sonic-x-the-game.json) |
@@ -20985,6 +20988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Enemy | 345912 | [345912-space-enemy.json](./345912-space-enemy.json) |
 | Space Engineers | 3239 | [3239-space-engineers.json](./3239-space-engineers.json) |
 | Space Engineers 2 | 326578 | [326578-space-engineers-2.json](./326578-space-engineers-2.json) |
+| Space Engineers: Anniversary Pack | 274610 | [274610-space-engineers-anniversary-pack.json](./274610-space-engineers-anniversary-pack.json) |
 | Space Engineers: Automatons | 247778 | [247778-space-engineers-automatons.json](./247778-space-engineers-automatons.json) |
 | Space Engineers: Decorative Pack #3 | 264508 | [264508-space-engineers-decorative-pack-3.json](./264508-space-engineers-decorative-pack-3.json) |
 | Space Engineers: Signal Pack | 310403 | [310403-space-engineers-signal-pack.json](./310403-space-engineers-signal-pack.json) |
@@ -36466,6 +36470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernova | 11463 | [11463-supernova.json](./11463-supernova.json) |
 | Supernova | 198095 | [198095-supernova.json](./198095-supernova.json) |
 | SuperNova | 410006 | [410006-supernova.json](./410006-supernova.json) |
+| Supernova Shards | 274705 | [274705-supernova-shards.json](./274705-supernova-shards.json) |
 | Supernova Tactics | 211287 | [211287-supernova-tactics.json](./211287-supernova-tactics.json) |
 | Supernova TD | 158333 | [158333-supernova-td.json](./158333-supernova-td.json) |
 | Supernova: Galactic Wars | 347063 | [347063-supernova-galactic-wars.json](./347063-supernova-galactic-wars.json) |
