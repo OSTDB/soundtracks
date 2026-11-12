@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18 Holes Pro Golf | 313989 | [313989-18-holes-pro-golf.json](./313989-18-holes-pro-golf.json) |
 | 18 in 1: Family Games Giga Pack | 330435 | [330435-18-in-1-family-games-giga-pack.json](./330435-18-in-1-family-games-giga-pack.json) |
 | 18 Levels of Hells | 409093 | [409093-18-levels-of-hells.json](./409093-18-levels-of-hells.json) |
+| 18 Minutes | 274757 | [274757-18-minutes.json](./274757-18-minutes.json) |
 | 18 Rooms to Home | 58700 | [58700-18-rooms-to-home.json](./58700-18-rooms-to-home.json) |
 | 18 Wheeler: American Pro Trucker | 3706 | [3706-18-wheeler-american-pro-trucker.json](./3706-18-wheeler-american-pro-trucker.json) |
 | 18 Wheels of Steel: Across America | 26814 | [26814-18-wheels-of-steel-across-america.json](./26814-18-wheels-of-steel-across-america.json) |
@@ -2667,6 +2668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Hospital 3 | 301047 | [301047-3d-puzzle-hospital-3.json](./301047-3d-puzzle-hospital-3.json) |
 | 3D Puzzle: Hospital 4 | 308950 | [308950-3d-puzzle-hospital-4.json](./308950-3d-puzzle-hospital-4.json) |
 | 3D Puzzle: Japan | 204259 | [204259-3d-puzzle-japan.json](./204259-3d-puzzle-japan.json) |
+| 3D Puzzle: Kingdom in Dark | 274624 | [274624-3d-puzzle-kingdom-in-dark.json](./274624-3d-puzzle-kingdom-in-dark.json) |
 | 3D Puzzle: Last of City | 249601 | [249601-3d-puzzle-last-of-city.json](./249601-3d-puzzle-last-of-city.json) |
 | 3D Puzzle: Leafless | 357758 | [357758-3d-puzzle-leafless.json](./357758-3d-puzzle-leafless.json) |
 | 3D Puzzle: Medieval Inn | 253425 | [253425-3d-puzzle-medieval-inn.json](./253425-3d-puzzle-medieval-inn.json) |
