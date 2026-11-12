@@ -5550,6 +5550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lily's Epic Quest | 31956 | [31956-lilys-epic-quest.json](./31956-lilys-epic-quest.json) |
 | Lily's Epic Quest for Lost Gems | 118937 | [118937-lilys-epic-quest-for-lost-gems.json](./118937-lilys-epic-quest-for-lost-gems.json) |
 | Lily's Garden | 129160 | [129160-lilys-garden.json](./129160-lilys-garden.json) |
+| Lily's Handmaid | 284526 | [284526-lilys-handmaid.json](./284526-lilys-handmaid.json) |
 | Lily's Lil Video Shop! | 366094 | [366094-lilys-lil-video-shop.json](./366094-lilys-lil-video-shop.json) |
 | Lily's Memories | 259462 | [259462-lilys-memories.json](./259462-lilys-memories.json) |
 | Lily's Night Off | 104845 | [104845-lilys-night-off.json](./104845-lilys-night-off.json) |
