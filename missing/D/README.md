@@ -8336,6 +8336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroying the Asteroids: Along With Unfair Hurdles | 195967 | [195967-destroying-the-asteroids-along-with-unfair-hurdles.json](./195967-destroying-the-asteroids-along-with-unfair-hurdles.json) |
 | Destrucktors: Warfare Showdown | 114134 | [114134-destrucktors-warfare-showdown.json](./114134-destrucktors-warfare-showdown.json) |
 | Destruct | 60511 | [60511-destruct.json](./60511-destruct.json) |
+| Destruct Blocks | 251889 | [251889-destruct-blocks.json](./251889-destruct-blocks.json) |
 | Destructamundo | 17842 | [17842-destructamundo.json](./17842-destructamundo.json) |
 | Destruction | 112124 | [112124-destruction.json](./112124-destruction.json) |
 | Destruction | 115987 | [115987-destruction.json](./115987-destruction.json) |
@@ -15378,6 +15379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Calgory's Lab: a 3D steampunk puzzle adventure game | 88312 | [88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json](./88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json) |
 | Dr. Cares: Family Practice | 112759 | [112759-dr-cares-family-practice.json](./112759-dr-cares-family-practice.json) |
 | Dr. Cares: Pet Rescue 911 | 59568 | [59568-dr-cares-pet-rescue-911.json](./59568-dr-cares-pet-rescue-911.json) |
+| Dr. Carlos' Personality Exam | 251888 | [251888-dr-carlos-personality-exam.json](./251888-dr-carlos-personality-exam.json) |
 | Dr. Chaos | 48174 | [48174-dr-chaos.json](./48174-dr-chaos.json) |
 | Dr. Chaos: Shadows of Mars | 268760 | [268760-dr-chaos-shadows-of-mars.json](./268760-dr-chaos-shadows-of-mars.json) |
 | Dr. Chatelet: Faith | 207757 | [207757-dr-chatelet-faith.json](./207757-dr-chatelet-faith.json) |
