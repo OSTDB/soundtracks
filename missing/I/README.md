@@ -6976,6 +6976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isonzo: Movember Handlebar | 373589 | [373589-isonzo-movember-handlebar.json](./373589-isonzo-movember-handlebar.json) |
 | Isonzo: Reserve Units Pack | 263253 | [263253-isonzo-reserve-units-pack.json](./263253-isonzo-reserve-units-pack.json) |
 | Isonzo: Royal Units Pack | 231014 | [231014-isonzo-royal-units-pack.json](./231014-isonzo-royal-units-pack.json) |
+| Isonzo: Second Wave | 275862 | [275862-isonzo-second-wave.json](./275862-isonzo-second-wave.json) |
 | Isonzo: Shellshocked Units Pack | 373586 | [373586-isonzo-shellshocked-units-pack.json](./373586-isonzo-shellshocked-units-pack.json) |
 | Isonzo: Third Wave | 296938 | [296938-isonzo-third-wave.json](./296938-isonzo-third-wave.json) |
 | Isonzo: Ultimate Edition | 301774 | [301774-isonzo-ultimate-edition.json](./301774-isonzo-ultimate-edition.json) |
@@ -6984,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isophoria | 375316 | [375316-isophoria.json](./375316-isophoria.json) |
 | Isopix Art Club | 213919 | [213919-isopix-art-club.json](./213919-isopix-art-club.json) |
 | Isopod Keeping Simulator | 333810 | [333810-isopod-keeping-simulator.json](./333810-isopod-keeping-simulator.json) |
+| Isopod: A Webbed Spin-off | 275861 | [275861-isopod-a-webbed-spin-off.json](./275861-isopod-a-webbed-spin-off.json) |
 | Isorropia | 133451 | [133451-isorropia.json](./133451-isorropia.json) |
 | Isoscape | 217283 | [217283-isoscape.json](./217283-isoscape.json) |
 | Isostasy | 212989 | [212989-isostasy.json](./212989-isostasy.json) |
