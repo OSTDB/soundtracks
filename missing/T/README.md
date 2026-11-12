@@ -1702,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talvisota: Winter War | 286414 | [286414-talvisota-winter-war.json](./286414-talvisota-winter-war.json) |
 | Talystro | 334352 | [334352-talystro.json](./334352-talystro.json) |
 | Tam Duke | 273213 | [273213-tam-duke.json](./273213-tam-duke.json) |
+| Tam Tam Paradise | 316913 | [316913-tam-tam-paradise.json](./316913-tam-tam-paradise.json) |
 | Tama & Friends: 3-choume Daibouken | 41332 | [41332-tama-and-friends-3-choume-daibouken.json](./41332-tama-and-friends-3-choume-daibouken.json) |
 | Tama & Friends: 3-choume Kouen Tamalympic | 46306 | [46306-tama-and-friends-3-choume-kouen-tamalympic.json](./46306-tama-and-friends-3-choume-kouen-tamalympic.json) |
 | Tama & Friends: 3-match Puzzle | 276327 | [276327-tama-and-friends-3-match-puzzle.json](./276327-tama-and-friends-3-match-puzzle.json) |
@@ -6712,6 +6713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Angels | 156603 | [156603-the-battle-of-angels.json](./156603-the-battle-of-angels.json) |
 | The Battle of Aurinoxia | 304368 | [304368-the-battle-of-aurinoxia.json](./304368-the-battle-of-aurinoxia.json) |
 | The Battle of Bellum | 109851 | [109851-the-battle-of-bellum.json](./109851-the-battle-of-bellum.json) |
+| The Battle of Chickamauga | 316916 | [316916-the-battle-of-chickamauga.json](./316916-the-battle-of-chickamauga.json) |
 | The Battle of Embers | 287206 | [287206-the-battle-of-embers.json](./287206-the-battle-of-embers.json) |
 | The Battle of Mahjong | 67925 | [67925-the-battle-of-mahjong.json](./67925-the-battle-of-mahjong.json) |
 | The Battle of Olympus | 265038 | [265038-the-battle-of-olympus.json](./265038-the-battle-of-olympus.json) |
@@ -7575,6 +7577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Catacombs of Solaris Revisited | 142873 | [142873-the-catacombs-of-solaris-revisited.json](./142873-the-catacombs-of-solaris-revisited.json) |
 | The Catalyst Acolyte Tower Defense | 311150 | [311150-the-catalyst-acolyte-tower-defense.json](./311150-the-catalyst-acolyte-tower-defense.json) |
 | The Catapult | 247118 | [247118-the-catapult.json](./247118-the-catapult.json) |
+| The Catapult | 316516 | [316516-the-catapult.json](./316516-the-catapult.json) |
 | The Catastrophe | 335210 | [335210-the-catastrophe.json](./335210-the-catastrophe.json) |
 | The Catch: Carp & Coarse - Collector's Edition | 141891 | [141891-the-catch-carp-and-coarse-collectors-edition.json](./141891-the-catch-carp-and-coarse-collectors-edition.json) |
 | The Catch: Carp & Coarse - Deluxe Edition | 233014 | [233014-the-catch-carp-and-coarse-deluxe-edition.json](./233014-the-catch-carp-and-coarse-deluxe-edition.json) |
@@ -10462,6 +10465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Full Wormage | 70082 | [70082-the-full-wormage.json](./70082-the-full-wormage.json) |
 | The Full-Ass Tricky Mod | 365225 | [365225-the-full-ass-tricky-mod.json](./365225-the-full-ass-tricky-mod.json) |
 | The Fullness of the Air | 401263 | [401263-the-fullness-of-the-air.json](./401263-the-fullness-of-the-air.json) |
+| The Funbrain Arcade! | 317476 | [317476-the-funbrain-arcade.json](./317476-the-funbrain-arcade.json) |
 | The Funeral of Sachertorte | 289046 | [289046-the-funeral-of-sachertorte.json](./289046-the-funeral-of-sachertorte.json) |
 | The Funhouse of Satan | 176274 | [176274-the-funhouse-of-satan.json](./176274-the-funhouse-of-satan.json) |
 | The Funnel | 373796 | [373796-the-funnel.json](./373796-the-funnel.json) |
@@ -24691,6 +24695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeshift Detective | 275972 | [275972-timeshift-detective.json](./275972-timeshift-detective.json) |
 | TimeShifters | 152456 | [152456-timeshifters.json](./152456-timeshifters.json) |
 | TimeShifters: Expansion Pack 1 | 259681 | [259681-timeshifters-expansion-pack-1.json](./259681-timeshifters-expansion-pack-1.json) |
+| Timeship | 316915 | [316915-timeship.json](./316915-timeship.json) |
 | Timeslip | 77974 | [77974-timeslip.json](./77974-timeslip.json) |
 | Timespinner | 28952 | [28952-timespinner.json](./28952-timespinner.json) |
 | Timespinner 2: Unwoven Dream | 268677 | [268677-timespinner-2-unwoven-dream.json](./268677-timespinner-2-unwoven-dream.json) |
