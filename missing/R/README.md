@@ -159,6 +159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R2dz | 184213 | [184213-r2dz.json](./184213-r2dz.json) |
 | R2R: Rewire to Revolt | 338333 | [338333-r2r-rewire-to-revolt.json](./338333-r2r-rewire-to-revolt.json) |
 | R3: The Art of Rocketry | 231834 | [231834-r3-the-art-of-rocketry.json](./231834-r3-the-art-of-rocketry.json) |
+| R34Hunch | 287297 | [287297-r34hunch.json](./287297-r34hunch.json) |
 | R3wind | 183395 | [183395-r3wind.json](./183395-r3wind.json) |
 | R4: Ridge Racer Type 4 | 18699 | [18699-r4-ridge-racer-type-4.json](./18699-r4-ridge-racer-type-4.json) |
 | R4: Ridge Racer Type 4 | 242360 | [242360-r4-ridge-racer-type-4.json](./242360-r4-ridge-racer-type-4.json) |
@@ -5482,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai Kouhosei Starlight Scramble | 165537 | [165537-renai-kouhosei-starlight-scramble.json](./165537-renai-kouhosei-starlight-scramble.json) |
 | Renai Kouza Real Age | 178240 | [178240-renai-kouza-real-age.json](./178240-renai-kouza-real-age.json) |
 | Renai Revenge | 136762 | [136762-renai-revenge.json](./136762-renai-revenge.json) |
+| Renai Uranai Daisakusen | 287269 | [287269-renai-uranai-daisakusen.json](./287269-renai-uranai-daisakusen.json) |
 | Renai X Royale: Love's a Battle | 216956 | [216956-renai-x-royale-loves-a-battle.json](./216956-renai-x-royale-loves-a-battle.json) |
 | Renai, Karichaimashita | 144892 | [144892-renai-karichaimashita.json](./144892-renai-karichaimashita.json) |
 | Renai, Karichaimashita: Limited Edition | 166974 | [166974-renai-karichaimashita-limited-edition.json](./166974-renai-karichaimashita-limited-edition.json) |
@@ -6116,6 +6118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil: The Arklay Chronicle | 194785 | [194785-resident-evil-the-arklay-chronicle.json](./194785-resident-evil-the-arklay-chronicle.json) |
 | Resident Evil: The Darkside Chronicles | 497 | [497-resident-evil-the-darkside-chronicles.json](./497-resident-evil-the-darkside-chronicles.json) |
 | Resident Evil: The Mercenaries 3D | 976 | [976-resident-evil-the-mercenaries-3d.json](./976-resident-evil-the-mercenaries-3d.json) |
+| Resident Evil: The Missions | 287294 | [287294-resident-evil-the-missions.json](./287294-resident-evil-the-missions.json) |
 | Resident Evil: Triple Pack | 99534 | [99534-resident-evil-triple-pack.json](./99534-resident-evil-triple-pack.json) |
 | Resident Evil: Uprising | 225578 | [225578-resident-evil-uprising.json](./225578-resident-evil-uprising.json) |
 | Resident Evil: Wesker Rebirth | 313202 | [313202-resident-evil-wesker-rebirth.json](./313202-resident-evil-wesker-rebirth.json) |
@@ -7511,6 +7514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbert's Adventure | 54784 | [54784-ribberts-adventure.json](./54784-ribberts-adventure.json) |
 | Ribbet | 317153 | [317153-ribbet.json](./317153-ribbet.json) |
 | Ribbit | 213366 | [213366-ribbit.json](./213366-ribbit.json) |
+| Ribbit | 287279 | [287279-ribbit.json](./287279-ribbit.json) |
 | Ribbit Channel | 301895 | [301895-ribbit-channel.json](./301895-ribbit-channel.json) |
 | Ribbit Jump | 400368 | [400368-ribbit-jump.json](./400368-ribbit-jump.json) |
 | Ribbit King | 4087 | [4087-ribbit-king.json](./4087-ribbit-king.json) |
@@ -9683,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Paradise VR | 133453 | [133453-robot-paradise-vr.json](./133453-robot-paradise-vr.json) |
 | Robot Pirates | 28042 | [28042-robot-pirates.json](./28042-robot-pirates.json) |
 | Robot Planet | 232663 | [232663-robot-planet.json](./232663-robot-planet.json) |
+| Robot Pong | 287283 | [287283-robot-pong.json](./287283-robot-pong.json) |
 | Robot Ponkottsu 64: Nanatsu no Umi no Caramel | 3591 | [3591-robot-ponkottsu-64-nanatsu-no-umi-no-caramel.json](./3591-robot-ponkottsu-64-nanatsu-no-umi-no-caramel.json) |
 | Robot Ponkottsu Star Version | 50551 | [50551-robot-ponkottsu-star-version.json](./50551-robot-ponkottsu-star-version.json) |
 | Robot Ponkottsu: Moon Version | 243919 | [243919-robot-ponkottsu-moon-version.json](./243919-robot-ponkottsu-moon-version.json) |
