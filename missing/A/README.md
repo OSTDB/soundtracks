@@ -4163,6 +4163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in the Galaxy of Fantabulous Wonderment | 23739 | [23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json](./23739-adventures-in-the-galaxy-of-fantabulous-wonderment.json) |
 | Adventures in the Light & Dark | 102316 | [102316-adventures-in-the-light-and-dark.json](./102316-adventures-in-the-light-and-dark.json) |
 | Adventures in the Magic Kingdom | 8130 | [8130-adventures-in-the-magic-kingdom.json](./8130-adventures-in-the-magic-kingdom.json) |
+| Adventures in the Magic Kingdom: Sora Edition | 306736 | [306736-adventures-in-the-magic-kingdom-sora-edition.json](./306736-adventures-in-the-magic-kingdom-sora-edition.json) |
 | Adventures In Time & Space | 342233 | [342233-adventures-in-time-and-space.json](./342233-adventures-in-time-and-space.json) |
 | Adventures of a Cat in Space | 322357 | [322357-adventures-of-a-cat-in-space.json](./322357-adventures-of-a-cat-in-space.json) |
 | Adventures of a Radish | 134695 | [134695-adventures-of-a-radish.json](./134695-adventures-of-a-radish.json) |
@@ -15004,6 +15005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arktwend: The Forgotten Realm | 319107 | [319107-arktwend-the-forgotten-realm.json](./319107-arktwend-the-forgotten-realm.json) |
 | Arkwhale | 303681 | [303681-arkwhale.json](./303681-arkwhale.json) |
 | ArkX | 80170 | [80170-arkx.json](./80170-arkx.json) |
+| Arkyos Angel | 306729 | [306729-arkyos-angel.json](./306729-arkyos-angel.json) |
 | ARL 96 | 93147 | [93147-arl-96.json](./93147-arl-96.json) |
 | Arla Milkout! | 314036 | [314036-arla-milkout.json](./314036-arla-milkout.json) |
 | Arlandria | 36830 | [36830-arlandria.json](./36830-arlandria.json) |
