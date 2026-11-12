@@ -3275,6 +3275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days Gone: Collector's Edition | 114029 | [114029-days-gone-collectors-edition.json](./114029-days-gone-collectors-edition.json) |
 | Days Gone: Digital Deluxe Edition | 114028 | [114028-days-gone-digital-deluxe-edition.json](./114028-days-gone-digital-deluxe-edition.json) |
 | Days Gone: Special Edition | 117508 | [117508-days-gone-special-edition.json](./117508-days-gone-special-edition.json) |
+| Days in Hill | 255923 | [255923-days-in-hill.json](./255923-days-in-hill.json) |
 | Days Like A Nightmare | 285451 | [285451-days-like-a-nightmare.json](./285451-days-like-a-nightmare.json) |
 | Days of a Princess | 89381 | [89381-days-of-a-princess.json](./89381-days-of-a-princess.json) |
 | Days of Dawn | 63770 | [63770-days-of-dawn.json](./63770-days-of-dawn.json) |
@@ -6281,6 +6282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of the Dauntless | 298284 | [298284-defense-of-the-dauntless.json](./298284-defense-of-the-dauntless.json) |
 | Defense of the Earth | 293596 | [293596-defense-of-the-earth.json](./293596-defense-of-the-earth.json) |
 | Defense of the Fantasy Robots | 110079 | [110079-defense-of-the-fantasy-robots.json](./110079-defense-of-the-fantasy-robots.json) |
+| Defense of the Kings | 255950 | [255950-defense-of-the-kings.json](./255950-defense-of-the-kings.json) |
 | Defense of the Middle Kingdom | 85568 | [85568-defense-of-the-middle-kingdom.json](./85568-defense-of-the-middle-kingdom.json) |
 | Defense of the Oasis | 138395 | [138395-defense-of-the-oasis.json](./138395-defense-of-the-oasis.json) |
 | Defense of the Sodomites | 336679 | [336679-defense-of-the-sodomites.json](./336679-defense-of-the-sodomites.json) |
@@ -13120,6 +13122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll's Liminal | 259467 | [259467-dolls-liminal.json](./259467-dolls-liminal.json) |
 | Dolla World | 82332 | [82332-dolla-world.json](./82332-dolla-world.json) |
 | Dollal Simulator 2018 | 89261 | [89261-dollal-simulator-2018.json](./89261-dollal-simulator-2018.json) |
+| Dollar | 253553 | [253553-dollar.json](./253553-dollar.json) |
 | Dollar | 336664 | [336664-dollar.json](./336664-dollar.json) |
 | Dollar Dash | 10191 | [10191-dollar-dash.json](./10191-dollar-dash.json) |
 | Dollar Dash: More Ways to Win | 171055 | [171055-dollar-dash-more-ways-to-win.json](./171055-dollar-dash-more-ways-to-win.json) |
