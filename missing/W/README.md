@@ -4295,6 +4295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheelchair Simulator | 103157 | [103157-wheelchair-simulator.json](./103157-wheelchair-simulator.json) |
 | Wheelchair Simulator | 326315 | [326315-wheelchair-simulator.json](./326315-wheelchair-simulator.json) |
 | Wheelchair Simulator VR | 100463 | [100463-wheelchair-simulator-vr.json](./100463-wheelchair-simulator-vr.json) |
+| Wheelchair Tester | 263723 | [263723-wheelchair-tester.json](./263723-wheelchair-tester.json) |
 | Wheelchair Wizards | 359113 | [359113-wheelchair-wizards.json](./359113-wheelchair-wizards.json) |
 | Wheeled Warriors: Ultimate Destruction | 216832 | [216832-wheeled-warriors-ultimate-destruction.json](./216832-wheeled-warriors-ultimate-destruction.json) |
 | Wheelie | 23069 | [23069-wheelie.json](./23069-wheelie.json) |
@@ -5822,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildixir | 418845 | [418845-wildixir.json](./418845-wildixir.json) |
 | Wildkeepers Rising | 324076 | [324076-wildkeepers-rising.json](./324076-wildkeepers-rising.json) |
 | WildKids | 113560 | [113560-wildkids.json](./113560-wildkids.json) |
+| Wildkins | 263725 | [263725-wildkins.json](./263725-wildkins.json) |
 | Wildland | 120831 | [120831-wildland.json](./120831-wildland.json) |
 | Wildland: Initial Attack | 185627 | [185627-wildland-initial-attack.json](./185627-wildland-initial-attack.json) |
 | Wildlands | 265559 | [265559-wildlands.json](./265559-wildlands.json) |
@@ -5950,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | William Shatner's TekWar | 8686 | [8686-william-shatners-tekwar.json](./8686-william-shatners-tekwar.json) |
 | William the Conqueror | 102014 | [102014-william-the-conqueror.json](./102014-william-the-conqueror.json) |
 | William Wobbler | 94625 | [94625-william-wobbler.json](./94625-william-wobbler.json) |
+| William's Dad's Secret | 263716 | [263716-williams-dads-secret.json](./263716-williams-dads-secret.json) |
 | William's Love Prelude | 127849 | [127849-williams-love-prelude.json](./127849-williams-love-prelude.json) |
 | William's Wideblock | 382731 | [382731-williams-wideblock.json](./382731-williams-wideblock.json) |
 | Williams Arcade Classics | 199435 | [199435-williams-arcade-classics.json](./199435-williams-arcade-classics.json) |
@@ -8487,6 +8490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Working Tidal | 176142 | [176142-working-tidal.json](./176142-working-tidal.json) |
 | Working Woman Barbie | 144856 | [144856-working-woman-barbie.json](./144856-working-woman-barbie.json) |
 | Working95 | 412562 | [412562-working95.json](./412562-working95.json) |
+| Workplace Fantasy | 263717 | [263717-workplace-fantasy.json](./263717-workplace-fantasy.json) |
 | Workplace Fantasy All Age Edition | 273797 | [273797-workplace-fantasy-all-age-edition.json](./273797-workplace-fantasy-all-age-edition.json) |
 | Workplace Fantasy: New Girl Chapter | 297981 | [297981-workplace-fantasy-new-girl-chapter.json](./297981-workplace-fantasy-new-girl-chapter.json) |
 | Workplace Fantasy: Raina's Ending | 312051 | [312051-workplace-fantasy-rainas-ending.json](./312051-workplace-fantasy-rainas-ending.json) |
