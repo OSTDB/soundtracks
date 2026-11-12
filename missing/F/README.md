@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall of the New Age: Premium Edition | 36265 | [36265-fall-of-the-new-age-premium-edition.json](./36265-fall-of-the-new-age-premium-edition.json) |
 | Fall of the Son | 264108 | [264108-fall-of-the-son.json](./264108-fall-of-the-son.json) |
 | Fall of the Space Core, Vol. 1 | 392847 | [392847-fall-of-the-space-core-vol-1.json](./392847-fall-of-the-space-core-vol-1.json) |
+| Fall of the Stick Knights | 251797 | [251797-fall-of-the-stick-knights.json](./251797-fall-of-the-stick-knights.json) |
 | Fall of the Titanic | 15036 | [15036-fall-of-the-titanic.json](./15036-fall-of-the-titanic.json) |
 | Fall off Reach | 415337 | [415337-fall-off-reach.json](./415337-fall-off-reach.json) |
 | Fall or Nothing | 361934 | [361934-fall-or-nothing.json](./361934-fall-or-nothing.json) |
