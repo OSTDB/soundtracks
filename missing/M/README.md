@@ -5639,6 +5639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Pieces Jigsaw Puzzles: Fantasy | 303691 | [303691-master-of-pieces-jigsaw-puzzles-fantasy.json](./303691-master-of-pieces-jigsaw-puzzles-fantasy.json) |
 | Master of Pieces Jigsaw Puzzles: Good Old Christmas | 303692 | [303692-master-of-pieces-jigsaw-puzzles-good-old-christmas.json](./303692-master-of-pieces-jigsaw-puzzles-good-old-christmas.json) |
 | Master of Pieces Jigsaw Puzzles: Impossibles #1 | 303685 | [303685-master-of-pieces-jigsaw-puzzles-impossibles-1.json](./303685-master-of-pieces-jigsaw-puzzles-impossibles-1.json) |
+| Master of Pieces Jigsaw Puzzles: In Dreams | 285717 | [285717-master-of-pieces-jigsaw-puzzles-in-dreams.json](./285717-master-of-pieces-jigsaw-puzzles-in-dreams.json) |
 | Master of Pieces Jigsaw Puzzles: Mandalas Part 1 | 303693 | [303693-master-of-pieces-jigsaw-puzzles-mandalas-part-1.json](./303693-master-of-pieces-jigsaw-puzzles-mandalas-part-1.json) |
 | Master of Pieces Jigsaw Puzzles: Reflections. Part 1 | 303694 | [303694-master-of-pieces-jigsaw-puzzles-reflections-part-1.json](./303694-master-of-pieces-jigsaw-puzzles-reflections-part-1.json) |
 | Master of Pieces Jigsaw Puzzles: Still Life #1 | 303684 | [303684-master-of-pieces-jigsaw-puzzles-still-life-1.json](./303684-master-of-pieces-jigsaw-puzzles-still-life-1.json) |
@@ -15456,6 +15457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB The Show 24 | 282900 | [282900-mlb-the-show-24.json](./282900-mlb-the-show-24.json) |
 | MLB The Show 24: Digital Deluxe Edition | 286200 | [286200-mlb-the-show-24-digital-deluxe-edition.json](./286200-mlb-the-show-24-digital-deluxe-edition.json) |
 | MLB The Show 24: MVP Edition | 286201 | [286201-mlb-the-show-24-mvp-edition.json](./286201-mlb-the-show-24-mvp-edition.json) |
+| MLB The Show 24: Negro Leagues Edition | 285623 | [285623-mlb-the-show-24-negro-leagues-edition.json](./285623-mlb-the-show-24-negro-leagues-edition.json) |
 | MLB The Show 25 | 329844 | [329844-mlb-the-show-25.json](./329844-mlb-the-show-25.json) |
 | MLB The Show 25: Digital Deluxe Edition | 330621 | [330621-mlb-the-show-25-digital-deluxe-edition.json](./330621-mlb-the-show-25-digital-deluxe-edition.json) |
 | MLB The Show 25: Digital Deluxe Edition Bonus Content | 330624 | [330624-mlb-the-show-25-digital-deluxe-edition-bonus-content.json](./330624-mlb-the-show-25-digital-deluxe-edition-bonus-content.json) |
@@ -15517,6 +15519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MO:Astray | 113376 | [113376-mo-astray.json](./113376-mo-astray.json) |
 | Mo.co | 272187 | [272187-mo-co.json](./272187-mo-co.json) |
 | Moadra | 190169 | [190169-moadra.json](./190169-moadra.json) |
+| Moai | 285721 | [285721-moai.json](./285721-moai.json) |
 | Moai 2: Path to Another World | 35443 | [35443-moai-2-path-to-another-world.json](./35443-moai-2-path-to-another-world.json) |
 | Moai 3: Trade Mission | 58646 | [58646-moai-3-trade-mission.json](./58646-moai-3-trade-mission.json) |
 | Moai 3: Trade Mission - Collector's Edition | 33654 | [33654-moai-3-trade-mission-collectors-edition.json](./33654-moai-3-trade-mission-collectors-edition.json) |
