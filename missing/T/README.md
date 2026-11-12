@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangerine Panic | 280213 | [280213-tangerine-panic.json](./280213-tangerine-panic.json) |
 | Tangerine Tycoon | 407521 | [407521-tangerine-tycoon.json](./407521-tangerine-tycoon.json) |
 | Tanggal | 293318 | [293318-tanggal.json](./293318-tanggal.json) |
+| Tanggle | 280489 | [280489-tanggle.json](./280489-tanggle.json) |
 | Tanggle's Magic Square | 65312 | [65312-tanggles-magic-square.json](./65312-tanggles-magic-square.json) |
 | Tangle Bee | 70445 | [70445-tangle-bee.json](./70445-tangle-bee.json) |
 | Tangled | 230404 | [230404-tangled.json](./230404-tangled.json) |
@@ -28549,6 +28550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Spell Bubble: Touhou Eurobeat Pack Vol.2 | 209327 | [209327-touhou-spell-bubble-touhou-eurobeat-pack-vol-2.json](./209327-touhou-spell-bubble-touhou-eurobeat-pack-vol-2.json) |
 | Touhou Spell Bubble: Touhou Fujinroku Arrangements Pack | 209138 | [209138-touhou-spell-bubble-touhou-fujinroku-arrangements-pack.json](./209138-touhou-spell-bubble-touhou-fujinroku-arrangements-pack.json) |
 | Touhou Spell Bubble: Touhou Seirensen Arrangements Pack | 209524 | [209524-touhou-spell-bubble-touhou-seirensen-arrangements-pack.json](./209524-touhou-spell-bubble-touhou-seirensen-arrangements-pack.json) |
+| Touhou Spell Carnival | 280479 | [280479-touhou-spell-carnival.json](./280479-touhou-spell-carnival.json) |
 | Touhou Spell Carnival: Digital Deluxe Edition | 320673 | [320673-touhou-spell-carnival-digital-deluxe-edition.json](./320673-touhou-spell-carnival-digital-deluxe-edition.json) |
 | Touhou Spell Carnival: Limited Edition | 322383 | [322383-touhou-spell-carnival-limited-edition.json](./322383-touhou-spell-carnival-limited-edition.json) |
 | Touhou Spirits | 306041 | [306041-touhou-spirits.json](./306041-touhou-spirits.json) |
@@ -29532,6 +29534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track & Field | 266661 | [266661-track-and-field.json](./266661-track-and-field.json) |
 | Track & Field | 266662 | [266662-track-and-field.json](./266662-track-and-field.json) |
 | Track & Field | 266663 | [266663-track-and-field.json](./266663-track-and-field.json) |
+| Track & Field | 280482 | [280482-track-and-field.json](./280482-track-and-field.json) |
 | Track & Field | 6439 | [6439-track-and-field.json](./6439-track-and-field.json) |
 | Track & Field II | 20903 | [20903-track-and-field-ii.json](./20903-track-and-field-ii.json) |
 | Track & Field in Barcelona | 48893 | [48893-track-and-field-in-barcelona.json](./48893-track-and-field-in-barcelona.json) |
