@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jazz Jackrabbit 2: The Secret Files | 51347 | [51347-jazz-jackrabbit-2-the-secret-files.json](./51347-jazz-jackrabbit-2-the-secret-files.json) |
 | Jazz Jackrabbit 3 | 72667 | [72667-jazz-jackrabbit-3.json](./72667-jazz-jackrabbit-3.json) |
 | Jazz Jackrabbit Advance | 6477 | [6477-jazz-jackrabbit-advance.json](./6477-jazz-jackrabbit-advance.json) |
+| Jazz Jackrabbit CD-ROM | 246138 | [246138-jazz-jackrabbit-cd-rom.json](./246138-jazz-jackrabbit-cd-rom.json) |
 | Jazz Jackrabbit Collection | 124969 | [124969-jazz-jackrabbit-collection.json](./124969-jazz-jackrabbit-collection.json) |
 | Jazz Jackrabbit: Holiday Hare 1994 | 79517 | [79517-jazz-jackrabbit-holiday-hare-1994.json](./79517-jazz-jackrabbit-holiday-hare-1994.json) |
 | Jazz Jackrabbit: Holiday Hare 1995 | 47050 | [47050-jazz-jackrabbit-holiday-hare-1995.json](./47050-jazz-jackrabbit-holiday-hare-1995.json) |
