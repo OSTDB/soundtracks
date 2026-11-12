@@ -1184,6 +1184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice World | 320856 | [320856-ice-world.json](./320856-ice-world.json) |
 | Ice World: The Frozen Age | 314882 | [314882-ice-world-the-frozen-age.json](./314882-ice-world-the-frozen-age.json) |
 | Ice-Story | 130886 | [130886-ice-story.json](./130886-ice-story.json) |
+| Ice! | 309703 | [309703-ice.json](./309703-ice.json) |
 | Ice! | 370207 | [370207-ice.json](./370207-ice.json) |
 | Icebear 2026 | 394404 | [394404-icebear-2026.json](./394404-icebear-2026.json) |
 | Iceberg | 97943 | [97943-iceberg.json](./97943-iceberg.json) |
@@ -5774,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inva-taxi | 9076 | [9076-inva-taxi.json](./9076-inva-taxi.json) |
 | Invad3s | 14131 | [14131-invad3s.json](./14131-invad3s.json) |
 | Invade | 302216 | [302216-invade.json](./302216-invade.json) |
+| Invade-a-Load! | 309257 | [309257-invade-a-load.json](./309257-invade-a-load.json) |
 | Invadead | 209486 | [209486-invadead.json](./209486-invadead.json) |
 | Invaded | 121698 | [121698-invaded.json](./121698-invaded.json) |
 | Invader | 59801 | [59801-invader.json](./59801-invader.json) |
