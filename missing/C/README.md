@@ -1433,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candlelight | 366581 | [366581-candlelight.json](./366581-candlelight.json) |
 | Candlelight: Lament | 247937 | [247937-candlelight-lament.json](./247937-candlelight-lament.json) |
 | Candleman | 27035 | [27035-candleman.json](./27035-candleman.json) |
+| Candleman Complete Journey Bundle with Wenjia | 256015 | [256015-candleman-complete-journey-bundle-with-wenjia.json](./256015-candleman-complete-journey-bundle-with-wenjia.json) |
 | Candleman: Definitive Edition | 225380 | [225380-candleman-definitive-edition.json](./225380-candleman-definitive-edition.json) |
 | Candleman: The Complete Journey | 81247 | [81247-candleman-the-complete-journey.json](./81247-candleman-the-complete-journey.json) |
 | Candleman:find yourself | 130755 | [130755-candleman-find-yourself.json](./130755-candleman-find-yourself.json) |
@@ -3825,6 +3826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Cab | 347022 | [347022-castle-cab.json](./347022-castle-cab.json) |
 | Castle Cairn | 376098 | [376098-castle-cairn.json](./376098-castle-cairn.json) |
 | Castle Cannon | 236636 | [236636-castle-cannon.json](./236636-castle-cannon.json) |
+| Castle Caper | 255918 | [255918-castle-caper.json](./255918-castle-caper.json) |
 | Castle Capture Topkapi | 232447 | [232447-castle-capture-topkapi.json](./232447-castle-capture-topkapi.json) |
 | Castle Cardians | 160033 | [160033-castle-cardians.json](./160033-castle-cardians.json) |
 | Castle Cat | 406422 | [406422-castle-cat.json](./406422-castle-cat.json) |
@@ -3860,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Craft | 250250 | [250250-castle-craft.json](./250250-castle-craft.json) |
 | Castle Craft: World War | 175031 | [175031-castle-craft-world-war.json](./175031-castle-craft-world-war.json) |
 | Castle Crafter | 253208 | [253208-castle-crafter.json](./253208-castle-crafter.json) |
+| Castle Crashers & Pit People Bundle | 256014 | [256014-castle-crashers-and-pit-people-bundle.json](./256014-castle-crashers-and-pit-people-bundle.json) |
 | Castle Crashers Remastered | 20880 | [20880-castle-crashers-remastered.json](./20880-castle-crashers-remastered.json) |
 | Castle Crashers: Blacksmith Pack | 170863 | [170863-castle-crashers-blacksmith-pack.json](./170863-castle-crashers-blacksmith-pack.json) |
 | Castle Crashers: Painter Boss Paradise | 310640 | [310640-castle-crashers-painter-boss-paradise.json](./310640-castle-crashers-painter-boss-paradise.json) |
@@ -9605,6 +9608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinderella | 66954 | [66954-cinderella.json](./66954-cinderella.json) |
 | Cinderella (games for girls) | 103978 | [103978-cinderella-games-for-girls.json](./103978-cinderella-games-for-girls.json) |
 | Cinderella After 4 | 303292 | [303292-cinderella-after-4.json](./303292-cinderella-after-4.json) |
+| Cinderella Cafe | 255909 | [255909-cinderella-cafe.json](./255909-cinderella-cafe.json) |
 | Cinderella Classic Tale | 87319 | [87319-cinderella-classic-tale.json](./87319-cinderella-classic-tale.json) |
 | Cinderella Dollhouse 2 | 50424 | [50424-cinderella-dollhouse-2.json](./50424-cinderella-dollhouse-2.json) |
 | Cinderella Escape 2 Revenge | 68490 | [68490-cinderella-escape-2-revenge.json](./68490-cinderella-escape-2-revenge.json) |
@@ -10981,6 +10985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clean Cut | 275315 | [275315-clean-cut.json](./275315-clean-cut.json) |
 | Clean Energy Creatures | 223513 | [223513-clean-energy-creatures.json](./223513-clean-energy-creatures.json) |
 | Clean Freak! Perfect Cook! | 365166 | [365166-clean-freak-perfect-cook.json](./365166-clean-freak-perfect-cook.json) |
+| Clean Half-Life | 255904 | [255904-clean-half-life.json](./255904-clean-half-life.json) |
 | Clean It Dry It | 377023 | [377023-clean-it-dry-it.json](./377023-clean-it-dry-it.json) |
 | Clean it Up! | 335150 | [335150-clean-it-up.json](./335150-clean-it-up.json) |
 | Clean My Carpet: ASMR Washing | 228451 | [228451-clean-my-carpet-asmr-washing.json](./228451-clean-my-carpet-asmr-washing.json) |
@@ -11506,6 +11511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clone | 336972 | [336972-clone.json](./336972-clone.json) |
 | Clone | 64959 | [64959-clone.json](./64959-clone.json) |
 | Clone 2048 | 193883 | [193883-clone-2048.json](./193883-clone-2048.json) |
+| Clone Armies | 254741 | [254741-clone-armies.json](./254741-clone-armies.json) |
 | Clone Clicker | 278431 | [278431-clone-clicker.json](./278431-clone-clicker.json) |
 | Clone Dots | 265756 | [265756-clone-dots.json](./265756-clone-dots.json) |
 | Clone Drone | 233465 | [233465-clone-drone.json](./233465-clone-drone.json) |
@@ -14958,6 +14964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conradito Cafézito | 327048 | [327048-conradito-cafezito.json](./327048-conradito-cafezito.json) |
 | Conran: The Dinky Raccoon | 29086 | [29086-conran-the-dinky-raccoon.json](./29086-conran-the-dinky-raccoon.json) |
 | Conrun Virtual Gym | 157829 | [157829-conrun-virtual-gym.json](./157829-conrun-virtual-gym.json) |
+| Conscience | 254725 | [254725-conscience.json](./254725-conscience.json) |
 | Conscience | 322058 | [322058-conscience.json](./322058-conscience.json) |
 | Conscientious Objector | 290347 | [290347-conscientious-objector.json](./290347-conscientious-objector.json) |
 | Conscious Existence - A Journey Within | 119690 | [119690-conscious-existence-a-journey-within.json](./119690-conscious-existence-a-journey-within.json) |
@@ -20538,6 +20545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystalverse | 25796 | [25796-crystalverse.json](./25796-crystalverse.json) |
 | CrystalWar | 109855 | [109855-crystalwar.json](./109855-crystalwar.json) |
 | Crystalyn | 406900 | [406900-crystalyn.json](./406900-crystalyn.json) |
+| Crystania Wars 2 | 255934 | [255934-crystania-wars-2.json](./255934-crystania-wars-2.json) |
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
 | Crystar | 103494 | [103494-crystar.json](./103494-crystar.json) |
 | Crystar: Limited Edition | 379946 | [379946-crystar-limited-edition.json](./379946-crystar-limited-edition.json) |
