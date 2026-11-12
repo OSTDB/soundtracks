@@ -3690,6 +3690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Dungeons & Dragons | 300798 | [300798-dead-by-daylight-dungeons-and-dragons.json](./300798-dead-by-daylight-dungeons-and-dragons.json) |
 | Dead by Daylight: Dungeons & Dragons Edition | 305485 | [305485-dead-by-daylight-dungeons-and-dragons-edition.json](./305485-dead-by-daylight-dungeons-and-dragons-edition.json) |
 | Dead by Daylight: End Transmission | 253114 | [253114-dead-by-daylight-end-transmission.json](./253114-dead-by-daylight-end-transmission.json) |
+| Dead by Daylight: Endless Hunt Pack | 301204 | [301204-dead-by-daylight-endless-hunt-pack.json](./301204-dead-by-daylight-endless-hunt-pack.json) |
 | Dead by Daylight: Five Nights at Freddy's | 350030 | [350030-dead-by-daylight-five-nights-at-freddys.json](./350030-dead-by-daylight-five-nights-at-freddys.json) |
 | Dead by Daylight: Forged in Fog Chapter | 227635 | [227635-dead-by-daylight-forged-in-fog-chapter.json](./227635-dead-by-daylight-forged-in-fog-chapter.json) |
 | Dead by Daylight: Ghost Face | 120510 | [120510-dead-by-daylight-ghost-face.json](./120510-dead-by-daylight-ghost-face.json) |
@@ -9832,10 +9833,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Chronicles: The Alpha Chosen | 233849 | [233849-digimon-chronicles-the-alpha-chosen.json](./233849-digimon-chronicles-the-alpha-chosen.json) |
 | Digimon Collectors | 108999 | [108999-digimon-collectors.json](./108999-digimon-collectors.json) |
 | Digimon Color Monster Hunter 20th Edition | 335863 | [335863-digimon-color-monster-hunter-20th-edition.json](./335863-digimon-color-monster-hunter-20th-edition.json) |
+| Digimon Crystal Version | 301157 | [301157-digimon-crystal-version.json](./301157-digimon-crystal-version.json) |
 | Digimon Crystal Version II | 247401 | [247401-digimon-crystal-version-ii.json](./247401-digimon-crystal-version-ii.json) |
 | Digimon D-3 | 247402 | [247402-digimon-d-3.json](./247402-digimon-d-3.json) |
 | Digimon Davis and Veemon | 203236 | [203236-digimon-davis-and-veemon.json](./203236-digimon-davis-and-veemon.json) |
 | Digimon Digital Card Battle | 44819 | [44819-digimon-digital-card-battle.json](./44819-digimon-digital-card-battle.json) |
+| Digimon Emerald Project | 301158 | [301158-digimon-emerald-project.json](./301158-digimon-emerald-project.json) |
 | Digimon Fortune | 56488 | [56488-digimon-fortune.json](./56488-digimon-fortune.json) |
 | Digimon Fusion Fighters | 327211 | [327211-digimon-fusion-fighters.json](./327211-digimon-fusion-fighters.json) |
 | Digimon Heroes! | 56855 | [56855-digimon-heroes.json](./56855-digimon-heroes.json) |
@@ -13004,6 +13007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll of Resurrection | 109337 | [109337-doll-of-resurrection.json](./109337-doll-of-resurrection.json) |
 | Doll Parts | 347793 | [347793-doll-parts.json](./347793-doll-parts.json) |
 | Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
+| Doll Repair | 301201 | [301201-doll-repair.json](./301201-doll-repair.json) |
 | Doll Style: Underground Design and Dress | 328733 | [328733-doll-style-underground-design-and-dress.json](./328733-doll-style-underground-design-and-dress.json) |
 | Doll: Ouroboros | 80709 | [80709-doll-ouroboros.json](./80709-doll-ouroboros.json) |
 | Doll: Ouroboros 2 | 73384 | [73384-doll-ouroboros-2.json](./73384-doll-ouroboros-2.json) |
