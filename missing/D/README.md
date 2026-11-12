@@ -4016,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Meat | 273205 | [273205-dead-meat.json](./273205-dead-meat.json) |
 | Dead Meat | 300742 | [300742-dead-meat.json](./300742-dead-meat.json) |
 | Dead Meets Lead | 65444 | [65444-dead-meets-lead.json](./65444-dead-meets-lead.json) |
+| Dead Memories | 271361 | [271361-dead-memories.json](./271361-dead-memories.json) |
 | Dead Men Tell No Tales | 176757 | [176757-dead-men-tell-no-tales.json](./176757-dead-men-tell-no-tales.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
 | Dead Monarchy | 118400 | [118400-dead-monarchy.json](./118400-dead-monarchy.json) |
@@ -8675,6 +8676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devastated Path | 265436 | [265436-devastated-path.json](./265436-devastated-path.json) |
 | Devastating Blow | 66346 | [66346-devastating-blow.json](./66346-devastating-blow.json) |
 | Devastating Fog | 285018 | [285018-devastating-fog.json](./285018-devastating-fog.json) |
+| Devastation | 271367 | [271367-devastation.json](./271367-devastation.json) |
 | Devastation | 9274 | [9274-devastation.json](./9274-devastation.json) |
 | Devastation - Annihilate the Alien Race | 128927 | [128927-devastation-annihilate-the-alien-race.json](./128927-devastation-annihilate-the-alien-race.json) |
 | Devastation 2: Repatriation | 171747 | [171747-devastation-2-repatriation.json](./171747-devastation-2-repatriation.json) |
@@ -14680,6 +14682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorfromantik: Medieval Biome Pack | 403997 | [403997-dorfromantik-medieval-biome-pack.json](./403997-dorfromantik-medieval-biome-pack.json) |
 | Dorfs | 315764 | [315764-dorfs.json](./315764-dorfs.json) |
 | Dorfs: Hammers for Hire | 203936 | [203936-dorfs-hammers-for-hire.json](./203936-dorfs-hammers-for-hire.json) |
+| Dorghael Arhlannen | 271427 | [271427-dorghael-arhlannen.json](./271427-dorghael-arhlannen.json) |
 | Doria & the Tide Song | 410378 | [410378-doria-and-the-tide-song.json](./410378-doria-and-the-tide-song.json) |
 | Dorian Morris Adventure | 110750 | [110750-dorian-morris-adventure.json](./110750-dorian-morris-adventure.json) |
 | Doriath | 15855 | [15855-doriath.json](./15855-doriath.json) |
