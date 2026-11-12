@@ -764,8 +764,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecchi Oppai: Fantasy DLC | 324433 | [324433-ecchi-oppai-fantasy-dlc.json](./324433-ecchi-oppai-fantasy-dlc.json) |
 | Ecchi Oppai: Fusion DLC | 324434 | [324434-ecchi-oppai-fusion-dlc.json](./324434-ecchi-oppai-fusion-dlc.json) |
 | Ecchi Oppai: Uniforms DLC | 324435 | [324435-ecchi-oppai-uniforms-dlc.json](./324435-ecchi-oppai-uniforms-dlc.json) |
+| Ecchi Paradise | 291652 | [291652-ecchi-paradise.json](./291652-ecchi-paradise.json) |
 | Ecchi Paradise: Complete Edition | 294831 | [294831-ecchi-paradise-complete-edition.json](./294831-ecchi-paradise-complete-edition.json) |
+| Ecchi Paradise: Fantasy Babes | 291668 | [291668-ecchi-paradise-fantasy-babes.json](./291668-ecchi-paradise-fantasy-babes.json) |
 | Ecchi Paradise: Fantasy Edition | 300896 | [300896-ecchi-paradise-fantasy-edition.json](./300896-ecchi-paradise-fantasy-edition.json) |
+| Ecchi Paradise: Kinky Chicks | 291669 | [291669-ecchi-paradise-kinky-chicks.json](./291669-ecchi-paradise-kinky-chicks.json) |
 | Ecchi Puzzle | 105358 | [105358-ecchi-puzzle.json](./105358-ecchi-puzzle.json) |
 | Ecchi Puzzles | 382493 | [382493-ecchi-puzzles.json](./382493-ecchi-puzzles.json) |
 | Ecchi Secrets | 308639 | [308639-ecchi-secrets.json](./308639-ecchi-secrets.json) |
@@ -2294,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrial | 339731 | [339731-electrial.json](./339731-electrial.json) |
 | ElectriarCode | 210220 | [210220-electriarcode.json](./210220-electriarcode.json) |
 | Electric | 187162 | [187162-electric.json](./187162-electric.json) |
+| Electric Alps | 292175 | [292175-electric-alps.json](./292175-electric-alps.json) |
 | Electric Blue: Gecko dash! | 297530 | [297530-electric-blue-gecko-dash.json](./297530-electric-blue-gecko-dash.json) |
 | Electric Box 2 | 368722 | [368722-electric-box-2.json](./368722-electric-box-2.json) |
 | Electric Car Tycoon | 217199 | [217199-electric-car-tycoon.json](./217199-electric-car-tycoon.json) |
@@ -4556,6 +4560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enslaved: Odyssey to the West - Pigsy's Perfect 10 | 17468 | [17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json](./17468-enslaved-odyssey-to-the-west-pigsys-perfect-10.json) |
 | Enslaved: Odyssey to the West Premium Edition | 24192 | [24192-enslaved-odyssey-to-the-west-premium-edition.json](./24192-enslaved-odyssey-to-the-west-premium-edition.json) |
 | Ensnared | 297091 | [297091-ensnared.json](./297091-ensnared.json) |
+| Enso | 292212 | [292212-enso.json](./292212-enso.json) |
 | Ensol | 253963 | [253963-ensol.json](./253963-ensol.json) |
 | Ensora | 214237 | [214237-ensora.json](./214237-ensora.json) |
 | Ensorak Riddle | 174533 | [174533-ensorak-riddle.json](./174533-ensorak-riddle.json) |
@@ -5505,6 +5510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Failed | 414721 | [414721-escape-failed.json](./414721-escape-failed.json) |
 | Escape Fantasy | 55777 | [55777-escape-fantasy.json](./55777-escape-fantasy.json) |
 | Escape Fear 2: Hide And Seek Horror | 308637 | [308637-escape-fear-2-hide-and-seek-horror.json](./308637-escape-fear-2-hide-and-seek-horror.json) |
+| Escape Fear: Hide And Seek Horror | 291653 | [291653-escape-fear-hide-and-seek-horror.json](./291653-escape-fear-hide-and-seek-horror.json) |
 | Escape First | 97243 | [97243-escape-first.json](./97243-escape-first.json) |
 | Escape First 2 | 119545 | [119545-escape-first-2.json](./119545-escape-first-2.json) |
 | Escape First 3 | 131778 | [131778-escape-first-3.json](./131778-escape-first-3.json) |
@@ -5553,6 +5559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Cyber City | 45931 | [45931-escape-from-cyber-city.json](./45931-escape-from-cyber-city.json) |
 | Escape From Darkmoor Manor | 36105 | [36105-escape-from-darkmoor-manor.json](./36105-escape-from-darkmoor-manor.json) |
 | Escape from Darkness | 286914 | [286914-escape-from-darkness.json](./286914-escape-from-darkness.json) |
+| Escape from Darkness | 292201 | [292201-escape-from-darkness.json](./292201-escape-from-darkness.json) |
 | Escape from Death | 270110 | [270110-escape-from-death.json](./270110-escape-from-death.json) |
 | Escape from Death Moon | 116407 | [116407-escape-from-death-moon.json](./116407-escape-from-death-moon.json) |
 | Escape from Deathmark Dungeon | 195695 | [195695-escape-from-deathmark-dungeon.json](./195695-escape-from-deathmark-dungeon.json) |
