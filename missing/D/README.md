@@ -5767,6 +5767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Fish: Hidden World | 408590 | [408590-deep-sea-fish-hidden-world.json](./408590-deep-sea-fish-hidden-world.json) |
 | Deep Sea Fishing 2: Offshore Angler | 208718 | [208718-deep-sea-fishing-2-offshore-angler.json](./208718-deep-sea-fishing-2-offshore-angler.json) |
 | Deep Sea Heroes | 333266 | [333266-deep-sea-heroes.json](./333266-deep-sea-heroes.json) |
+| Deep Sea Hunter | 310842 | [310842-deep-sea-hunter.json](./310842-deep-sea-hunter.json) |
 | Deep Sea Hunter | 95988 | [95988-deep-sea-hunter.json](./95988-deep-sea-hunter.json) |
 | Deep Sea Hunter 2 | 95989 | [95989-deep-sea-hunter-2.json](./95989-deep-sea-hunter-2.json) |
 | Deep Sea Marble Pop | 146901 | [146901-deep-sea-marble-pop.json](./146901-deep-sea-marble-pop.json) |
@@ -10011,6 +10012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DigRun | 197777 | [197777-digrun.json](./197777-digrun.json) |
 | Digs | 236753 | [236753-digs.json](./236753-digs.json) |
 | Digs Mini Icy | 243584 | [243584-digs-mini-icy.json](./243584-digs-mini-icy.json) |
+| Digs01 | 311304 | [311304-digs01.json](./311304-digs01.json) |
 | Digs03 | 271303 | [271303-digs03.json](./271303-digs03.json) |
 | Digscovery | 249791 | [249791-digscovery.json](./249791-digscovery.json) |
 | Digseum | 325317 | [325317-digseum.json](./325317-digseum.json) |
@@ -12237,6 +12239,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do You Like Horny Bunnies? Complete Collection | 201172 | [201172-do-you-like-horny-bunnies-complete-collection.json](./201172-do-you-like-horny-bunnies-complete-collection.json) |
 | Do You Like Italian Food? | 407383 | [407383-do-you-like-italian-food.json](./407383-do-you-like-italian-food.json) |
 | Do You Really Know? | 390777 | [390777-do-you-really-know.json](./390777-do-you-really-know.json) |
+| Do You Really Want To Know 2: Before Love | 311307 | [311307-do-you-really-want-to-know-2-before-love.json](./311307-do-you-really-want-to-know-2-before-love.json) |
+| Do You Really Want To Know? | 311306 | [311306-do-you-really-want-to-know.json](./311306-do-you-really-want-to-know.json) |
 | Do you remember the '60s? | 77153 | [77153-do-you-remember-the-60s.json](./77153-do-you-remember-the-60s.json) |
 | Do You Remember? | 303484 | [303484-do-you-remember.json](./303484-do-you-remember.json) |
 | Do You Remember? | 422071 | [422071-do-you-remember.json](./422071-do-you-remember.json) |
