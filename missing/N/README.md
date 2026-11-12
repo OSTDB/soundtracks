@@ -7541,6 +7541,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notebook Detective | 182656 | [182656-notebook-detective.json](./182656-notebook-detective.json) |
 | Notebook Entries Vol.1 | 215623 | [215623-notebook-entries-vol-1.json](./215623-notebook-entries-vol-1.json) |
 | Notebook Ninja Fights | 144751 | [144751-notebook-ninja-fights.json](./144751-notebook-ninja-fights.json) |
+| Notebook Wars | 285652 | [285652-notebook-wars.json](./285652-notebook-wars.json) |
+| Notebook Wars 2 | 285654 | [285654-notebook-wars-2.json](./285654-notebook-wars-2.json) |
+| Notebook Wars 3 | 285656 | [285656-notebook-wars-3.json](./285656-notebook-wars-3.json) |
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
 | NoteCaptor | 304920 | [304920-notecaptor.json](./304920-notecaptor.json) |
 | NotEel! | 217632 | [217632-noteel.json](./217632-noteel.json) |
