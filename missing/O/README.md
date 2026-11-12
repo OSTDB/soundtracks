@@ -5059,6 +5059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ougon no Haka | 67363 | [67363-ougon-no-haka.json](./67363-ougon-no-haka.json) |
 | Ougon no Kizuna | 72603 | [72603-ougon-no-kizuna.json](./72603-ougon-no-kizuna.json) |
 | Ouija | 155997 | [155997-ouija.json](./155997-ouija.json) |
+| Ouija Escape VR | 311848 | [311848-ouija-escape-vr.json](./311848-ouija-escape-vr.json) |
 | Ouija Rumours | 190989 | [190989-ouija-rumours.json](./190989-ouija-rumours.json) |
 | Ouija Sleepover | 177715 | [177715-ouija-sleepover.json](./177715-ouija-sleepover.json) |
 | Ouija: They are Among us | 267146 | [267146-ouija-they-are-among-us.json](./267146-ouija-they-are-among-us.json) |
