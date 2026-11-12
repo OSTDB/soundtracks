@@ -1024,7 +1024,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -2327,6 +2326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Donkey Kong Country | 201772 | [201772-banjo-kazooie-donkey-kong-country.json](./201772-banjo-kazooie-donkey-kong-country.json) |
 | Banjo-Kazooie: Fort Fun | 338821 | [338821-banjo-kazooie-fort-fun.json](./338821-banjo-kazooie-fort-fun.json) |
 | Banjo-Kazooie: Ft. Minecraft | 249546 | [249546-banjo-kazooie-ft-minecraft.json](./249546-banjo-kazooie-ft-minecraft.json) |
+| Banjo-Kazooie: Gruntylvania | 282333 | [282333-banjo-kazooie-gruntylvania.json](./282333-banjo-kazooie-gruntylvania.json) |
 | Banjo-Kazooie: Legend of the Crystal Jiggy | 172671 | [172671-banjo-kazooie-legend-of-the-crystal-jiggy.json](./172671-banjo-kazooie-legend-of-the-crystal-jiggy.json) |
 | Banjo-Kazooie: Magic Eggs | 267187 | [267187-banjo-kazooie-magic-eggs.json](./267187-banjo-kazooie-magic-eggs.json) |
 | Banjo-Kazooie: New Snow Glow Village | 339026 | [339026-banjo-kazooie-new-snow-glow-village.json](./339026-banjo-kazooie-new-snow-glow-village.json) |
