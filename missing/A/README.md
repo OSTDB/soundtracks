@@ -4724,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Death | 65786 | [65786-after-death.json](./65786-after-death.json) |
 | After Doom | 300354 | [300354-after-doom.json](./300354-after-doom.json) |
 | After Dreams | 100452 | [100452-after-dreams.json](./100452-after-dreams.json) |
+| After Easter Escape | 315749 | [315749-after-easter-escape.json](./315749-after-easter-escape.json) |
 | After Egypt | 206635 | [206635-after-egypt.json](./206635-after-egypt.json) |
 | After End | 409348 | [409348-after-end.json](./409348-after-end.json) |
 | After Eternity | 415810 | [415810-after-eternity.json](./415810-after-eternity.json) |
@@ -5672,6 +5673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aiden: The Savior! | 194095 | [194095-aiden-the-savior.json](./194095-aiden-the-savior.json) |
 | AIDS Awareness | 260803 | [260803-aids-awareness.json](./260803-aids-awareness.json) |
 | AIDS Watashi o Aishite... Jin'ai Seijin | 230204 | [230204-aids-watashi-o-aishite-jinai-seijin.json](./230204-aids-watashi-o-aishite-jinai-seijin.json) |
+| AIDSGame | 314169 | [314169-aidsgame.json](./314169-aidsgame.json) |
 | Aidsmoji: The Forbidden Fruit | 86307 | [86307-aidsmoji-the-forbidden-fruit.json](./86307-aidsmoji-the-forbidden-fruit.json) |
 | AIdventure | 215027 | [215027-aidventure.json](./215027-aidventure.json) |
 | Aidyn Chronicles: The First Mage | 2850 | [2850-aidyn-chronicles-the-first-mage.json](./2850-aidyn-chronicles-the-first-mage.json) |
@@ -7501,6 +7503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Invasion | 94885 | [94885-alien-invasion.json](./94885-alien-invasion.json) |
 | Alien Invasion 3d | 90192 | [90192-alien-invasion-3d.json](./90192-alien-invasion-3d.json) |
 | Alien Invasion 3D Part 2 | 126561 | [126561-alien-invasion-3d-part-2.json](./126561-alien-invasion-3d-part-2.json) |
+| Alien Invasion Escape | 315748 | [315748-alien-invasion-escape.json](./315748-alien-invasion-escape.json) |
 | Alien Invasion Tower Defense | 30829 | [30829-alien-invasion-tower-defense.json](./30829-alien-invasion-tower-defense.json) |
 | Alien Investigator | 264190 | [264190-alien-investigator.json](./264190-alien-investigator.json) |
 | Alien IQ Exam: Human Edition, Phase 1 | 256049 | [256049-alien-iq-exam-human-edition-phase-1.json](./256049-alien-iq-exam-human-edition-phase-1.json) |
