@@ -4366,6 +4366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeris & Zack | 157134 | [157134-aeris-and-zack.json](./157134-aeris-and-zack.json) |
 | Aero | 377498 | [377498-aero.json](./377498-aero.json) |
 | Aero Battle | 158892 | [158892-aero-battle.json](./158892-aero-battle.json) |
+| Aero Battle Royale | 311922 | [311922-aero-battle-royale.json](./311922-aero-battle-royale.json) |
 | Aero Chimera | 241759 | [241759-aero-chimera.json](./241759-aero-chimera.json) |
 | Aero Cosmos | 335094 | [335094-aero-cosmos.json](./335094-aero-cosmos.json) |
 | Aero Dancing F: Todoroki Tsubasa no Hatsu Hikou | 267381 | [267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json](./267381-aero-dancing-f-todoroki-tsubasa-no-hatsu-hikou.json) |
@@ -4550,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Hexxen: Death-Space Requiem Act1 | 379571 | [379571-aether-hexxen-death-space-requiem-act1.json](./379571-aether-hexxen-death-space-requiem-act1.json) |
 | Aether League | 382222 | [382222-aether-league.json](./382222-aether-league.json) |
 | Aether Rush | 379568 | [379568-aether-rush.json](./379568-aether-rush.json) |
+| Aether Singularity | 312381 | [312381-aether-singularity.json](./312381-aether-singularity.json) |
 | Aether Sparks | 418416 | [418416-aether-sparks.json](./418416-aether-sparks.json) |
 | Aether Story | 138474 | [138474-aether-story.json](./138474-aether-story.json) |
 | Aether Wars | 115288 | [115288-aether-wars.json](./115288-aether-wars.json) |
@@ -11901,6 +11903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Answer These 10 Questions And I'll Tell You What Kind of Lover You Are | 225786 | [225786-answer-these-10-questions-and-ill-tell-you-what-kind-of-lover-you-are.json](./225786-answer-these-10-questions-and-ill-tell-you-what-kind-of-lover-you-are.json) |
 | Answer To Survive | 290886 | [290886-answer-to-survive.json](./290886-answer-to-survive.json) |
 | Answered Prayers | 145035 | [145035-answered-prayers.json](./145035-answered-prayers.json) |
+| Ant Art Tycoon | 311926 | [311926-ant-art-tycoon.json](./311926-ant-art-tycoon.json) |
 | Ant Attack | 13954 | [13954-ant-attack.json](./13954-ant-attack.json) |
 | Ant Attack | 303148 | [303148-ant-attack.json](./303148-ant-attack.json) |
 | Ant Colony | 42163 | [42163-ant-colony.json](./42163-ant-colony.json) |
@@ -13086,6 +13089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaZone: Life Simulator | 5488 | [5488-aquazone-life-simulator.json](./5488-aquazone-life-simulator.json) |
 | Aqueducts | 69324 | [69324-aqueducts.json](./69324-aqueducts.json) |
 | Aquelarre | 303340 | [303340-aquelarre.json](./303340-aquelarre.json) |
+| Aquest | 311916 | [311916-aquest.json](./311916-aquest.json) |
 | Aquila Bird Flight Simulator | 29689 | [29689-aquila-bird-flight-simulator.json](./29689-aquila-bird-flight-simulator.json) |
 | Aquillanto | 153334 | [153334-aquillanto.json](./153334-aquillanto.json) |
 | Aquilon Lust: Sex Arcana | 337962 | [337962-aquilon-lust-sex-arcana.json](./337962-aquilon-lust-sex-arcana.json) |
