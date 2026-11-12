@@ -2651,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Simulator: Retro Car Driving | 406061 | [406061-parking-simulator-retro-car-driving.json](./406061-parking-simulator-retro-car-driving.json) |
 | Parking Slide | 163748 | [163748-parking-slide.json](./163748-parking-slide.json) |
 | Parking Star 3D | 85330 | [85330-parking-star-3d.json](./85330-parking-star-3d.json) |
+| Parking Swipe | 259803 | [259803-parking-swipe.json](./259803-parking-swipe.json) |
 | Parking Ticket Mayhem | 391221 | [391221-parking-ticket-mayhem.json](./391221-parking-ticket-mayhem.json) |
 | Parking Together! | 348674 | [348674-parking-together.json](./348674-parking-together.json) |
 | Parking Tycoon | 252144 | [252144-parking-tycoon.json](./252144-parking-tycoon.json) |
@@ -4938,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perpession | 334506 | [334506-perpession.json](./334506-perpession.json) |
 | Perpetual Blast | 59670 | [59670-perpetual-blast.json](./59670-perpetual-blast.json) |
 | Perpetual Dream | 131781 | [131781-perpetual-dream.json](./131781-perpetual-dream.json) |
+| Perpetual Powers | 259792 | [259792-perpetual-powers.json](./259792-perpetual-powers.json) |
 | Perpetual Torment | 363293 | [363293-perpetual-torment.json](./363293-perpetual-torment.json) |
 | Perpetuo | 378496 | [378496-perpetuo.json](./378496-perpetuo.json) |
 | Perpetuum | 16433 | [16433-perpetuum.json](./16433-perpetuum.json) |
@@ -10946,6 +10948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumbing Contest | 230836 | [230836-plumbing-contest.json](./230836-plumbing-contest.json) |
 | Plumbum | 329262 | [329262-plumbum.json](./329262-plumbum.json) |
 | Plumeboom First Chapter | 25374 | [25374-plumeboom-first-chapter.json](./25374-plumeboom-first-chapter.json) |
+| Plumley's Trot | 259785 | [259785-plumleys-trot.json](./259785-plumleys-trot.json) |
 | Plummet | 84238 | [84238-plummet.json](./84238-plummet.json) |
 | Plummet Challenge Game | 214519 | [214519-plummet-challenge-game.json](./214519-plummet-challenge-game.json) |
 | Plummet Panic | 317618 | [317618-plummet-panic.json](./317618-plummet-panic.json) |
@@ -13406,6 +13409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pony's Sky Journey | 375459 | [375459-ponys-sky-journey.json](./375459-ponys-sky-journey.json) |
 | PonyGuessr | 259414 | [259414-ponyguessr.json](./259414-ponyguessr.json) |
 | Ponytone | 309255 | [309255-ponytone.json](./309255-ponytone.json) |
+| Ponyvania: Order of Equestria | 259786 | [259786-ponyvania-order-of-equestria.json](./259786-ponyvania-order-of-equestria.json) |
 | Poo Dodger | 406875 | [406875-poo-dodger.json](./406875-poo-dodger.json) |
 | Poo Poo War | 371404 | [371404-poo-poo-war.json](./371404-poo-poo-war.json) |
 | Poo Pusher | 309690 | [309690-poo-pusher.json](./309690-poo-pusher.json) |
