@@ -10126,6 +10126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Bloody Mary | 140218 | [140218-grim-tales-bloody-mary.json](./140218-grim-tales-bloody-mary.json) |
 | Grim Tales: Bloody Mary - Collector's Edition | 111510 | [111510-grim-tales-bloody-mary-collectors-edition.json](./111510-grim-tales-bloody-mary-collectors-edition.json) |
 | Grim Tales: Color of Fright | 83152 | [83152-grim-tales-color-of-fright.json](./83152-grim-tales-color-of-fright.json) |
+| Grim Tales: Color of Fright - Collector's Edition | 250591 | [250591-grim-tales-color-of-fright-collectors-edition.json](./250591-grim-tales-color-of-fright-collectors-edition.json) |
 | Grim Tales: Crimson Hollow | 188013 | [188013-grim-tales-crimson-hollow.json](./188013-grim-tales-crimson-hollow.json) |
 | Grim Tales: Crimson Hollow - Collector's Edition | 173905 | [173905-grim-tales-crimson-hollow-collectors-edition.json](./173905-grim-tales-crimson-hollow-collectors-edition.json) |
 | Grim Tales: Dual Disposition - Collector's Edition | 247737 | [247737-grim-tales-dual-disposition-collectors-edition.json](./247737-grim-tales-dual-disposition-collectors-edition.json) |
@@ -11907,6 +11908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunGun Online: Shooting Game | 108153 | [108153-gungun-online-shooting-game.json](./108153-gungun-online-shooting-game.json) |
 | GunGun: Race Against Time | 297514 | [297514-gungun-race-against-time.json](./297514-gungun-race-against-time.json) |
 | Gungungun | 30905 | [30905-gungungun.json](./30905-gungungun.json) |
+| GunGuru | 250682 | [250682-gunguru.json](./250682-gunguru.json) |
 | Gunhawk | 339018 | [339018-gunhawk.json](./339018-gunhawk.json) |
 | Gunheart | 36615 | [36615-gunheart.json](./36615-gunheart.json) |
 | Gunhed | 37710 | [37710-gunhed.json](./37710-gunhed.json) |
