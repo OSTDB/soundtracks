@@ -5706,6 +5706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Winds: Zen Flowers | 242389 | [242389-into-the-winds-zen-flowers.json](./242389-into-the-winds-zen-flowers.json) |
 | Into the Woods | 230293 | [230293-into-the-woods.json](./230293-into-the-woods.json) |
 | Intonight | 302978 | [302978-intonight.json](./302978-intonight.json) |
+| Intown Nightmares | 290581 | [290581-intown-nightmares.json](./290581-intown-nightmares.json) |
 | Intoxicated Driver | 286136 | [286136-intoxicated-driver.json](./286136-intoxicated-driver.json) |
 | Intra | 332673 | [332673-intra.json](./332673-intra.json) |
 | Intra Corpus | 158876 | [158876-intra-corpus.json](./158876-intra-corpus.json) |
