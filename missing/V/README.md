@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor and Glory: Napoleonic Wars | 153484 | [153484-valor-and-glory-napoleonic-wars.json](./153484-valor-and-glory-napoleonic-wars.json) |
 | Valor Legends: Eternity | 171164 | [171164-valor-legends-eternity.json](./171164-valor-legends-eternity.json) |
 | Valor Mortis | 361833 | [361833-valor-mortis.json](./361833-valor-mortis.json) |
+| Valor of Battle | 304927 | [304927-valor-of-battle.json](./304927-valor-of-battle.json) |
 | Valor of Man | 326576 | [326576-valor-of-man.json](./326576-valor-of-man.json) |
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
 | Valor's Reach | 123148 | [123148-valors-reach.json](./123148-valors-reach.json) |
@@ -3734,6 +3735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voipas | 115556 | [115556-voipas.json](./115556-voipas.json) |
 | Voir Dire | 298019 | [298019-voir-dire.json](./298019-voir-dire.json) |
 | Voivod: The Nuclear Warrior | 339785 | [339785-voivod-the-nuclear-warrior.json](./339785-voivod-the-nuclear-warrior.json) |
+| Vojna | 303917 | [303917-vojna.json](./303917-vojna.json) |
 | Vojo | 158906 | [158906-vojo.json](./158906-vojo.json) |
 | Vol'Talkes - The AI War | 35846 | [35846-voltalkes-the-ai-war.json](./35846-voltalkes-the-ai-war.json) |
 | Volantia: Kingdom in the Sky | 71019 | [71019-volantia-kingdom-in-the-sky.json](./71019-volantia-kingdom-in-the-sky.json) |
