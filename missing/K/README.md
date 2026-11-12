@@ -476,6 +476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaleido Stella | 113745 | [113745-kaleido-stella.json](./113745-kaleido-stella.json) |
 | Kaleidocraft | 156572 | [156572-kaleidocraft.json](./156572-kaleidocraft.json) |
 | Kaleidoeve | 61263 | [61263-kaleidoeve.json](./61263-kaleidoeve.json) |
+| Kaleidola | 264934 | [264934-kaleidola.json](./264934-kaleidola.json) |
 | Kaleidoscope | 118688 | [118688-kaleidoscope.json](./118688-kaleidoscope.json) |
 | Kaleidoscope | 202577 | [202577-kaleidoscope.json](./202577-kaleidoscope.json) |
 | Kaleidoscope | 406303 | [406303-kaleidoscope.json](./406303-kaleidoscope.json) |
