@@ -2308,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satomi Hakkenden Hachitama no Ki | 220573 | [220573-satomi-hakkenden-hachitama-no-ki.json](./220573-satomi-hakkenden-hachitama-no-ki.json) |
 | Satomi Hakkenden Hamaji Hime no Ki | 220574 | [220574-satomi-hakkenden-hamaji-hime-no-ki.json](./220574-satomi-hakkenden-hamaji-hime-no-ki.json) |
 | Satomi Hakkenden Murasamemaru no Ki | 220575 | [220575-satomi-hakkenden-murasamemaru-no-ki.json](./220575-satomi-hakkenden-murasamemaru-no-ki.json) |
+| Satomi no Nazo | 281692 | [281692-satomi-no-nazo.json](./281692-satomi-no-nazo.json) |
 | Satori | 285571 | [285571-satori.json](./285571-satori.json) |
 | Satori | 336391 | [336391-satori.json](./336391-satori.json) |
 | Satori | 350960 | [350960-satori.json](./350960-satori.json) |
@@ -15517,6 +15518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Remix: Version 1.2.0 | 255784 | [255784-smash-remix-version-1-2-0.json](./255784-smash-remix-version-1-2-0.json) |
 | Smash Remix: Version 1.3.0 | 255786 | [255786-smash-remix-version-1-3-0.json](./255786-smash-remix-version-1-3-0.json) |
 | Smash Remix: Version 1.4.0 | 255787 | [255787-smash-remix-version-1-4-0.json](./255787-smash-remix-version-1-4-0.json) |
+| Smash Remix: Version 1.5.0 | 281598 | [281598-smash-remix-version-1-5-0.json](./281598-smash-remix-version-1-5-0.json) |
 | Smash Remix: Version 2.0.0 | 351064 | [351064-smash-remix-version-2-0-0.json](./351064-smash-remix-version-2-0-0.json) |
 | Smash Reversi | 167287 | [167287-smash-reversi.json](./167287-smash-reversi.json) |
 | Smash Ringtail Cat | 124436 | [124436-smash-ringtail-cat.json](./124436-smash-ringtail-cat.json) |
@@ -18691,6 +18693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic CD Breakout | 332650 | [332650-sonic-cd-breakout.json](./332650-sonic-cd-breakout.json) |
 | Sonic CD Restored | 210397 | [210397-sonic-cd-restored.json](./210397-sonic-cd-restored.json) |
 | Sonic CD: Episode Metal | 201809 | [201809-sonic-cd-episode-metal.json](./201809-sonic-cd-episode-metal.json) |
+| Sonic CD: Miracle Edition | 281599 | [281599-sonic-cd-miracle-edition.json](./281599-sonic-cd-miracle-edition.json) |
 | Sonic CD: Static Charge | 334627 | [334627-sonic-cd-static-charge.json](./334627-sonic-cd-static-charge.json) |
 | Sonic CD++ | 198545 | [198545-sonic-cd.json](./198545-sonic-cd.json) |
 | Sonic Celerity | 336344 | [336344-sonic-celerity.json](./336344-sonic-celerity.json) |
@@ -19117,6 +19120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Robo Blast 2 | 280215 | [280215-sonic-robo-blast-2.json](./280215-sonic-robo-blast-2.json) |
 | Sonic Robo Blast 2 | 341762 | [341762-sonic-robo-blast-2.json](./341762-sonic-robo-blast-2.json) |
 | Sonic Robo Blast 2 | 95508 | [95508-sonic-robo-blast-2.json](./95508-sonic-robo-blast-2.json) |
+| Sonic Robo Blast 2 Infinity | 281626 | [281626-sonic-robo-blast-2-infinity.json](./281626-sonic-robo-blast-2-infinity.json) |
 | Sonic Robo Blast 2 Kart | 121436 | [121436-sonic-robo-blast-2-kart.json](./121436-sonic-robo-blast-2-kart.json) |
 | Sonic Robo Blast 2: Adventure Sonic | 241383 | [241383-sonic-robo-blast-2-adventure-sonic.json](./241383-sonic-robo-blast-2-adventure-sonic.json) |
 | Sonic Robo Blast 2: Cacee "Kiwi" Cactus | 242032 | [242032-sonic-robo-blast-2-cacee-kiwi-cactus.json](./242032-sonic-robo-blast-2-cacee-kiwi-cactus.json) |
@@ -36722,6 +36726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surferman - A FC pixel surfing to avoid obstacles | 174465 | [174465-surferman-a-fc-pixel-surfing-to-avoid-obstacles.json](./174465-surferman-a-fc-pixel-surfing-to-avoid-obstacles.json) |
 | Surfers Code | 295511 | [295511-surfers-code.json](./295511-surfers-code.json) |
 | Surfin' Sam: Attack of the Aqualites | 85416 | [85416-surfin-sam-attack-of-the-aqualites.json](./85416-surfin-sam-attack-of-the-aqualites.json) |
+| Surfing | 281688 | [281688-surfing.json](./281688-surfing.json) |
 | Surfing and Girls | 165827 | [165827-surfing-and-girls.json](./165827-surfing-and-girls.json) |
 | Surfing H3O | 43344 | [43344-surfing-h3o.json](./43344-surfing-h3o.json) |
 | Surfing Legends | 260253 | [260253-surfing-legends.json](./260253-surfing-legends.json) |
