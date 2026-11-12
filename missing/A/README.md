@@ -16479,6 +16479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASRECorp | 32176 | [32176-asrecorp.json](./32176-asrecorp.json) |
 | Ass Sniffing Simulator | 398496 | [398496-ass-sniffing-simulator.json](./398496-ass-sniffing-simulator.json) |
 | Ass: Press F! | 379705 | [379705-ass-press-f.json](./379705-ass-press-f.json) |
+| Assasin Top Down | 295183 | [295183-assasin-top-down.json](./295183-assasin-top-down.json) |
 | Assasseed's Crin | 315999 | [315999-assasseeds-crin.json](./315999-assasseeds-crin.json) |
 | Assassin | 11920 | [11920-assassin.json](./11920-assassin.json) |
 | Assassin 2015 | 69944 | [69944-assassin-2015.json](./69944-assassin-2015.json) |
@@ -16845,6 +16846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assualt cube | 178444 | [178444-assualt-cube.json](./178444-assualt-cube.json) |
 | AST-Hero | 130384 | [130384-ast-hero.json](./130384-ast-hero.json) |
 | ASTA Online | 28255 | [28255-asta-online.json](./28255-asta-online.json) |
+| Asta-Pool: Can Humans Beat Bots? | 295410 | [295410-asta-pool-can-humans-beat-bots.json](./295410-asta-pool-can-humans-beat-bots.json) |
 | Astæria | 134670 | [134670-ast-ria.json](./134670-ast-ria.json) |
 | Astala Muerte | 398940 | [398940-astala-muerte.json](./398940-astala-muerte.json) |
 | Astalo | 147879 | [147879-astalo.json](./147879-astalo.json) |
@@ -17189,6 +17191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Courthouse | 341268 | [341268-astral-courthouse.json](./341268-astral-courthouse.json) |
 | Astral Cube | 158344 | [158344-astral-cube.json](./158344-astral-cube.json) |
 | Astral Defense | 131943 | [131943-astral-defense.json](./131943-astral-defense.json) |
+| Astral Disorder | 295184 | [295184-astral-disorder.json](./295184-astral-disorder.json) |
 | Astral Dive | 404088 | [404088-astral-dive.json](./404088-astral-dive.json) |
 | Astral Divide | 277816 | [277816-astral-divide.json](./277816-astral-divide.json) |
 | Astral Dodge | 268876 | [268876-astral-dodge.json](./268876-astral-dodge.json) |
