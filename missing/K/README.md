@@ -850,6 +850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanon: Best Edition | 290863 | [290863-kanon-best-edition.json](./290863-kanon-best-edition.json) |
 | Kanon: Memorial Edition | 290967 | [290967-kanon-memorial-edition.json](./290967-kanon-memorial-edition.json) |
 | Kanon: Standard Edition | 290871 | [290871-kanon-standard-edition.json](./290871-kanon-standard-edition.json) |
+| Kanosen: My Girlfriend is a Naughty Teacher | 264278 | [264278-kanosen-my-girlfriend-is-a-naughty-teacher.json](./264278-kanosen-my-girlfriend-is-a-naughty-teacher.json) |
 | Kanoso | 301523 | [301523-kanoso.json](./301523-kanoso.json) |
 | Kanpani Girls | 175045 | [175045-kanpani-girls.json](./175045-kanpani-girls.json) |
 | Kanpeki | 191969 | [191969-kanpeki.json](./191969-kanpeki.json) |
@@ -3042,7 +3043,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
