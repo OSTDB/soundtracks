@@ -4185,6 +4185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless TD | 388515 | [388515-endless-td.json](./388515-endless-td.json) |
 | Endless Thief: a Furry Stealth Adventure | 201567 | [201567-endless-thief-a-furry-stealth-adventure.json](./201567-endless-thief-a-furry-stealth-adventure.json) |
 | Endless Thunder | 284278 | [284278-endless-thunder.json](./284278-endless-thunder.json) |
+| Endless Torture | 275186 | [275186-endless-torture.json](./275186-endless-torture.json) |
 | Endless Tower | 392594 | [392594-endless-tower.json](./392594-endless-tower.json) |
 | Endless Treasure Hunt | 74145 | [74145-endless-treasure-hunt.json](./74145-endless-treasure-hunt.json) |
 | Endless Truck | 261084 | [261084-endless-truck.json](./261084-endless-truck.json) |
