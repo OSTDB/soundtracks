@@ -32095,6 +32095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Punk | 280626 | [280626-trash-punk.json](./280626-trash-punk.json) |
 | Trash Punk: Deluxe Edition | 287122 | [287122-trash-punk-deluxe-edition.json](./287122-trash-punk-deluxe-edition.json) |
 | Trash Punk: Extended Edition | 298575 | [298575-trash-punk-extended-edition.json](./298575-trash-punk-extended-edition.json) |
+| Trash Punk: Premium Edition | 301184 | [301184-trash-punk-premium-edition.json](./301184-trash-punk-premium-edition.json) |
 | Trash Raccoon | 410864 | [410864-trash-raccoon.json](./410864-trash-raccoon.json) |
 | Trash Rage | 117343 | [117343-trash-rage.json](./117343-trash-rage.json) |
 | Trash Sailors | 122426 | [122426-trash-sailors.json](./122426-trash-sailors.json) |
