@@ -6998,6 +6998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me the Gravekeeper | 346681 | [346681-me-the-gravekeeper.json](./346681-me-the-gravekeeper.json) |
 | Me vs. You | 172177 | [172177-me-vs-you.json](./172177-me-vs-you.json) |
 | Me With Me | 224591 | [224591-me-with-me.json](./224591-me-with-me.json) |
+| Me_Ion | 284545 | [284545-me-ion.json](./284545-me-ion.json) |
 | Me, My Mech and I | 235649 | [235649-me-my-mech-and-i.json](./235649-me-my-mech-and-i.json) |
 | Me, the Drifter; Her, the Optimist | 392465 | [392465-me-the-drifter-her-the-optimist.json](./392465-me-the-drifter-her-the-optimist.json) |
 | Me, You & Kaiju | 373419 | [373419-me-you-and-kaiju.json](./373419-me-you-and-kaiju.json) |
