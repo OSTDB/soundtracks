@@ -6886,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyoutabi | 236776 | [236776-kyoutabi.json](./236776-kyoutabi.json) |
 | Kyoutei Wars Makuru 6 | 98530 | [98530-kyoutei-wars-makuru-6.json](./98530-kyoutei-wars-makuru-6.json) |
 | Kyoutou Kotoba RPG: Kotodaman | 208239 | [208239-kyoutou-kotoba-rpg-kotodaman.json](./208239-kyoutou-kotoba-rpg-kotodaman.json) |
+| Kyphus | 282785 | [282785-kyphus.json](./282785-kyphus.json) |
 | Kyra's Light | 327797 | [327797-kyras-light.json](./327797-kyras-light.json) |
 | Kyrie and Terra | 327182 | [327182-kyrie-and-terra.json](./327182-kyrie-and-terra.json) |
 | Kyro | 422792 | [422792-kyro.json](./422792-kyro.json) |
