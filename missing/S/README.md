@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sambird | 413475 | [413475-sambird.json](./413475-sambird.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same Break Game | 310454 | [310454-same-break-game.json](./310454-same-break-game.json) |
+| Same Day Delivery | 276986 | [276986-same-day-delivery.json](./276986-same-day-delivery.json) |
 | Same Game and Robots | 41464 | [41464-same-game-and-robots.json](./41464-same-game-and-robots.json) |
 | Same Game for Mac | 80754 | [80754-same-game-for-mac.json](./80754-same-game-for-mac.json) |
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
@@ -1620,6 +1621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctuary | 176640 | [176640-sanctuary.json](./176640-sanctuary.json) |
 | Sanctuary | 178333 | [178333-sanctuary.json](./178333-sanctuary.json) |
 | Sanctuary | 334442 | [334442-sanctuary.json](./334442-sanctuary.json) |
+| Sanctuary in Time | 276987 | [276987-sanctuary-in-time.json](./276987-sanctuary-in-time.json) |
 | Sanctuary Island | 150772 | [150772-sanctuary-island.json](./150772-sanctuary-island.json) |
 | Sanctuary of the Ruler | 427264 | [427264-sanctuary-of-the-ruler.json](./427264-sanctuary-of-the-ruler.json) |
 | Sanctuary Saga | 233575 | [233575-sanctuary-saga.json](./233575-sanctuary-saga.json) |
@@ -2294,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satisfactory: Update 5 | 222876 | [222876-satisfactory-update-5.json](./222876-satisfactory-update-5.json) |
 | Satisfactory: Update 6 | 222877 | [222877-satisfactory-update-6.json](./222877-satisfactory-update-6.json) |
 | Satisfactory: Update 7 | 227759 | [227759-satisfactory-update-7.json](./227759-satisfactory-update-7.json) |
+| Satisfactory: Update 8 | 276907 | [276907-satisfactory-update-8.json](./276907-satisfactory-update-8.json) |
 | Satisfashion | 51133 | [51133-satisfashion.json](./51133-satisfashion.json) |
 | Satisfrustration | 349404 | [349404-satisfrustration.json](./349404-satisfrustration.json) |
 | Satisgame | 257477 | [257477-satisgame.json](./257477-satisgame.json) |
@@ -10744,6 +10747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Byzantium & Gaul Pack | 139967 | [139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json](./139967-sid-meiers-civilization-vi-byzantium-and-gaul-pack.json) |
 | Sid Meier's Civilization VI: Digital Deluxe Edition | 53611 | [53611-sid-meiers-civilization-vi-digital-deluxe-edition.json](./53611-sid-meiers-civilization-vi-digital-deluxe-edition.json) |
 | Sid Meier's Civilization VI: Ethiopia Pack | 164402 | [164402-sid-meiers-civilization-vi-ethiopia-pack.json](./164402-sid-meiers-civilization-vi-ethiopia-pack.json) |
+| Sid Meier's Civilization VI: Fiammetta Pack | 276906 | [276906-sid-meiers-civilization-vi-fiammetta-pack.json](./276906-sid-meiers-civilization-vi-fiammetta-pack.json) |
 | Sid Meier's Civilization VI: Fire Keeper Pack | 276031 | [276031-sid-meiers-civilization-vi-fire-keeper-pack.json](./276031-sid-meiers-civilization-vi-fire-keeper-pack.json) |
 | Sid Meier's Civilization VI: Gathering Storm | 113374 | [113374-sid-meiers-civilization-vi-gathering-storm.json](./113374-sid-meiers-civilization-vi-gathering-storm.json) |
 | Sid Meier's Civilization VI: Jinx Pack | 277474 | [277474-sid-meiers-civilization-vi-jinx-pack.json](./277474-sid-meiers-civilization-vi-jinx-pack.json) |
@@ -20723,6 +20727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battle Arena | 170429 | [170429-space-battle-arena.json](./170429-space-battle-arena.json) |
 | Space Battle Arena | 60231 | [60231-space-battle-arena.json](./60231-space-battle-arena.json) |
 | Space Battle Core | 33651 | [33651-space-battle-core.json](./33651-space-battle-core.json) |
+| Space Battle Meteor | 276911 | [276911-space-battle-meteor.json](./276911-space-battle-meteor.json) |
 | Space Battle Royale | 264000 | [264000-space-battle-royale.json](./264000-space-battle-royale.json) |
 | Space Battle SVF | 169023 | [169023-space-battle-svf.json](./169023-space-battle-svf.json) |
 | Space Battle VR | 112626 | [112626-space-battle-vr.json](./112626-space-battle-vr.json) |
@@ -34138,6 +34143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 FPS | 144163 | [144163-super-mario-64-fps.json](./144163-super-mario-64-fps.json) |
 | Super Mario 64 HD | 176900 | [176900-super-mario-64-hd.json](./176900-super-mario-64-hd.json) |
 | Super Mario 64 in GTA San Andreas | 294562 | [294562-super-mario-64-in-gta-san-andreas.json](./294562-super-mario-64-in-gta-san-andreas.json) |
+| Super Mario 64 in SuperTux | 276909 | [276909-super-mario-64-in-supertux.json](./276909-super-mario-64-in-supertux.json) |
 | Super Mario 64 in Teeworlds/DDNet | 308477 | [308477-super-mario-64-in-teeworlds-ddnet.json](./308477-super-mario-64-in-teeworlds-ddnet.json) |
 | Super Mario 64 in Tomb Raider | 262677 | [262677-super-mario-64-in-tomb-raider.json](./262677-super-mario-64-in-tomb-raider.json) |
 | Super Mario 64 Land | 132609 | [132609-super-mario-64-land.json](./132609-super-mario-64-land.json) |
