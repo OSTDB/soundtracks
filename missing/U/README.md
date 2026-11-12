@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uproar | 153863 | [153863-uproar.json](./153863-uproar.json) |
 | Uproot | 224539 | [224539-uproot.json](./224539-uproot.json) |
 | Uproot: Lost Leaf | 226752 | [226752-uproot-lost-leaf.json](./226752-uproot-lost-leaf.json) |
+| Uprooted | 306742 | [306742-uprooted.json](./306742-uprooted.json) |
 | UpRooted | 224553 | [224553-uprooted.json](./224553-uprooted.json) |
 | Uprooted - a carrot simulator! | 97712 | [97712-uprooted-a-carrot-simulator.json](./97712-uprooted-a-carrot-simulator.json) |
 | UpRunner | 191604 | [191604-uprunner.json](./191604-uprunner.json) |
