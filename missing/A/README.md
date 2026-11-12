@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Second Mario Bros. X Thing: Analog Funk | 304212 | [304212-a-second-mario-bros-x-thing-analog-funk.json](./304212-a-second-mario-bros-x-thing-analog-funk.json) |
 | A Secret Between You and Me | 314792 | [314792-a-secret-between-you-and-me.json](./314792-a-secret-between-you-and-me.json) |
 | A Sector Darkly | 420330 | [420330-a-sector-darkly.json](./420330-a-sector-darkly.json) |
+| A Sensei's Story | 276503 | [276503-a-senseis-story.json](./276503-a-senseis-story.json) |
 | A Series of Temporal Mishaps | 193269 | [193269-a-series-of-temporal-mishaps.json](./193269-a-series-of-temporal-mishaps.json) |
 | A Session with Dr. Liebnitz | 338402 | [338402-a-session-with-dr-liebnitz.json](./338402-a-session-with-dr-liebnitz.json) |
 | A Sexy Tour With Marie | 368576 | [368576-a-sexy-tour-with-marie.json](./368576-a-sexy-tour-with-marie.json) |
@@ -17098,6 +17099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Bangers | 178980 | [178980-asteroids-bangers.json](./178980-asteroids-bangers.json) |
 | Asteroids Belt: Try to Survive! | 164232 | [164232-asteroids-belt-try-to-survive.json](./164232-asteroids-belt-try-to-survive.json) |
 | Asteroids Deluxe | 13689 | [13689-asteroids-deluxe.json](./13689-asteroids-deluxe.json) |
+| Asteroids Deluxe | 276440 | [276440-asteroids-deluxe.json](./276440-asteroids-deluxe.json) |
 | Asteroids Deluxe | 276529 | [276529-asteroids-deluxe.json](./276529-asteroids-deluxe.json) |
 | Asteroids Deluxe: Evolved | 329638 | [329638-asteroids-deluxe-evolved.json](./329638-asteroids-deluxe-evolved.json) |
 | Asteroids Do Concern Me | 91806 | [91806-asteroids-do-concern-me.json](./91806-asteroids-do-concern-me.json) |
