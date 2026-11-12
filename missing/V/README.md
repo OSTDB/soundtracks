@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil Runners | 310932 | [310932-veil-runners.json](./310932-veil-runners.json) |
 | Veil Stream | 360675 | [360675-veil-stream.json](./360675-veil-stream.json) |
 | Veil Transfer | 318733 | [318733-veil-transfer.json](./318733-veil-transfer.json) |
+| Veil: Alter Unknown | 255930 | [255930-veil-alter-unknown.json](./255930-veil-alter-unknown.json) |
 | Veil: Mirages | 350160 | [350160-veil-mirages.json](./350160-veil-mirages.json) |
 | Veil: Project Conductor | 382720 | [382720-veil-project-conductor.json](./382720-veil-project-conductor.json) |
 | Veil: Tactics | 304619 | [304619-veil-tactics.json](./304619-veil-tactics.json) |
@@ -4040,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxel Horizon | 188631 | [188631-voxel-horizon.json](./188631-voxel-horizon.json) |
 | Voxel Hunters | 294055 | [294055-voxel-hunters.json](./294055-voxel-hunters.json) |
 | Voxel Interceptor | 59565 | [59565-voxel-interceptor.json](./59565-voxel-interceptor.json) |
+| Voxel Mage: Siege | 253559 | [253559-voxel-mage-siege.json](./253559-voxel-mage-siege.json) |
 | Voxel Miner: Dwellers of The Deep | 250705 | [250705-voxel-miner-dwellers-of-the-deep.json](./250705-voxel-miner-dwellers-of-the-deep.json) |
 | Voxel Panic | 386379 | [386379-voxel-panic.json](./386379-voxel-panic.json) |
 | Voxel Pirate | 176396 | [176396-voxel-pirate.json](./176396-voxel-pirate.json) |
