@@ -3332,6 +3332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 60 Second Strike | 65822 | [65822-60-second-strike.json](./65822-60-second-strike.json) |
 | 60 Seconds Burger Run | 234697 | [234697-60-seconds-burger-run.json](./234697-60-seconds-burger-run.json) |
 | 60 Seconds Hero | 174723 | [174723-60-seconds-hero.json](./174723-60-seconds-hero.json) |
+| 60 Seconds Santa Run | 249520 | [249520-60-seconds-santa-run.json](./249520-60-seconds-santa-run.json) |
 | 60 Seconds to Escape | 317490 | [317490-60-seconds-to-escape.json](./317490-60-seconds-to-escape.json) |
 | 60 Seconds to Park | 303745 | [303745-60-seconds-to-park.json](./303745-60-seconds-to-park.json) |
 | 60 Seconds to Survive | 106840 | [106840-60-seconds-to-survive.json](./106840-60-seconds-to-survive.json) |
