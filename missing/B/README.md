@@ -1026,7 +1026,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -14519,6 +14518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boreal Tenebrae Appendix I | 229897 | [229897-boreal-tenebrae-appendix-i.json](./229897-boreal-tenebrae-appendix-i.json) |
 | Boreal Tenebrae Deluxe | 242626 | [242626-boreal-tenebrae-deluxe.json](./242626-boreal-tenebrae-deluxe.json) |
 | Boreal Tenebrae Deluxe: Special Edition | 252633 | [252633-boreal-tenebrae-deluxe-special-edition.json](./252633-boreal-tenebrae-deluxe-special-edition.json) |
+| Boreal Tenebrae: Deluxe Complete Edition | 268619 | [268619-boreal-tenebrae-deluxe-complete-edition.json](./268619-boreal-tenebrae-deluxe-complete-edition.json) |
 | Boreal Tenebrae: Deluxe Definitive Edition | 259582 | [259582-boreal-tenebrae-deluxe-definitive-edition.json](./259582-boreal-tenebrae-deluxe-definitive-edition.json) |
 | Boreal Tenebrae: Deluxe Extended Edition | 250366 | [250366-boreal-tenebrae-deluxe-extended-edition.json](./250366-boreal-tenebrae-deluxe-extended-edition.json) |
 | Boreal Tenebrae: Deluxe Premium Edition | 256062 | [256062-boreal-tenebrae-deluxe-premium-edition.json](./256062-boreal-tenebrae-deluxe-premium-edition.json) |
