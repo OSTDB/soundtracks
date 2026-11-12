@@ -2172,6 +2172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Thrones / Witch Hunter Double Pack | 165175 | [165175-dark-thrones-witch-hunter-double-pack.json](./165175-dark-thrones-witch-hunter-double-pack.json) |
 | Dark Tides | 158696 | [158696-dark-tides.json](./158696-dark-tides.json) |
 | Dark Ties | 369849 | [369849-dark-ties.json](./369849-dark-ties.json) |
+| Dark Times | 276436 | [276436-dark-times.json](./276436-dark-times.json) |
 | Dark Tonic's Blunderbusted: Guns Out, Bluns Out | 296884 | [296884-dark-tonics-blunderbusted-guns-out-bluns-out.json](./296884-dark-tonics-blunderbusted-guns-out-bluns-out.json) |
 | Dark Tower | 26475 | [26475-dark-tower.json](./26475-dark-tower.json) |
 | Dark Tower | 29182 | [29182-dark-tower.json](./29182-dark-tower.json) |
@@ -3980,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Land VR | 118911 | [118911-dead-land-vr.json](./118911-dead-land-vr.json) |
 | Dead Lasso: Temple Of Shadows | 398423 | [398423-dead-lasso-temple-of-shadows.json](./398423-dead-lasso-temple-of-shadows.json) |
 | Dead Letter Dept. | 157024 | [157024-dead-letter-dept.json](./157024-dead-letter-dept.json) |
+| Dead Letters | 276358 | [276358-dead-letters.json](./276358-dead-letters.json) |
 | Dead Light | 100921 | [100921-dead-light.json](./100921-dead-light.json) |
 | Dead Like Ants | 216240 | [216240-dead-like-ants.json](./216240-dead-like-ants.json) |
 | Dead Link | 427853 | [427853-dead-link.json](./427853-dead-link.json) |
@@ -18412,6 +18414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dros | 172216 | [172216-dros.json](./172216-dros.json) |
 | Drosera: Lady Bad End no Hatsukoi | 321015 | [321015-drosera-lady-bad-end-no-hatsukoi.json](./321015-drosera-lady-bad-end-no-hatsukoi.json) |
 | Drosoph Hotel | 75039 | [75039-drosoph-hotel.json](./75039-drosoph-hotel.json) |
+| Dross | 276510 | [276510-dross.json](./276510-dross.json) |
 | Droste Detective | 385018 | [385018-droste-detective.json](./385018-droste-detective.json) |
 | Droste Effect | 286322 | [286322-droste-effect.json](./286322-droste-effect.json) |
 | Drought | 261442 | [261442-drought.json](./261442-drought.json) |
