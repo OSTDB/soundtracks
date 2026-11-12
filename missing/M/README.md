@@ -1694,6 +1694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Queen's Land | 207599 | [207599-magical-queens-land.json](./207599-magical-queens-land.json) |
 | Magical Runes | 368600 | [368600-magical-runes.json](./368600-magical-runes.json) |
 | Magical School Girls Battle Arena | 316643 | [316643-magical-school-girls-battle-arena.json](./316643-magical-school-girls-battle-arena.json) |
+| Magical Shop | 293881 | [293881-magical-shop.json](./293881-magical-shop.json) |
 | Magical Sound Car | 159359 | [159359-magical-sound-car.json](./159359-magical-sound-car.json) |
 | Magical Sports: 2000 Koushien | 58514 | [58514-magical-sports-2000-koushien.json](./58514-magical-sports-2000-koushien.json) |
 | Magical Sports: 2001 Pro Yakyuu | 58511 | [58511-magical-sports-2001-pro-yakyuu.json](./58511-magical-sports-2001-pro-yakyuu.json) |
@@ -11411,6 +11412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Commandos | 71460 | [71460-micro-commandos.json](./71460-micro-commandos.json) |
 | Micro Craft 2: Survival | 101151 | [101151-micro-craft-2-survival.json](./101151-micro-craft-2-survival.json) |
 | Micro Dash | 194703 | [194703-micro-dash.json](./194703-micro-dash.json) |
+| Micro Doctor | 293791 | [293791-micro-doctor.json](./293791-micro-doctor.json) |
 | Micro Dragracers | 400635 | [400635-micro-dragracers.json](./400635-micro-dragracers.json) |
 | Micro Drive Festa | 202885 | [202885-micro-drive-festa.json](./202885-micro-drive-festa.json) |
 | Micro Gamer Shinmy | 338130 | [338130-micro-gamer-shinmy.json](./338130-micro-gamer-shinmy.json) |
@@ -19737,6 +19739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moving Day: Make It Home | 389417 | [389417-moving-day-make-it-home.json](./389417-moving-day-make-it-home.json) |
 | Moving Forward | 231586 | [231586-moving-forward.json](./231586-moving-forward.json) |
 | Moving Forward with Cat | 343221 | [343221-moving-forward-with-cat.json](./343221-moving-forward-with-cat.json) |
+| Moving Houses | 293821 | [293821-moving-houses.json](./293821-moving-houses.json) |
 | Moving In | 182158 | [182158-moving-in.json](./182158-moving-in.json) |
 | Moving In | 238131 | [238131-moving-in.json](./238131-moving-in.json) |
 | Moving Letters | 157512 | [157512-moving-letters.json](./157512-moving-letters.json) |
@@ -23003,6 +23006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My University Story | 116712 | [116712-my-university-story.json](./116712-my-university-story.json) |
 | My UnReal Pet | 158705 | [158705-my-unreal-pet.json](./158705-my-unreal-pet.json) |
 | My Unusual Feline Friend | 259014 | [259014-my-unusual-feline-friend.json](./259014-my-unusual-feline-friend.json) |
+| My Valentine is a Femboy | 293826 | [293826-my-valentine-is-a-femboy.json](./293826-my-valentine-is-a-femboy.json) |
 | My Valiant Purpose | 278384 | [278384-my-valiant-purpose.json](./278384-my-valiant-purpose.json) |
 | My Vampire Boyfriend Smokes Lucky Strikes | 401079 | [401079-my-vampire-boyfriend-smokes-lucky-strikes.json](./401079-my-vampire-boyfriend-smokes-lucky-strikes.json) |
 | My Vampire Girlfriend. | 184739 | [184739-my-vampire-girlfriend.json](./184739-my-vampire-girlfriend.json) |
