@@ -6697,6 +6697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return | 177418 | [177418-return.json](./177418-return.json) |
 | Return | 186010 | [186010-return.json](./186010-return.json) |
 | Return | 255987 | [255987-return.json](./255987-return.json) |
+| Return | 290597 | [290597-return.json](./290597-return.json) |
 | Return Ace | 195759 | [195759-return-ace.json](./195759-return-ace.json) |
 | Return Alive | 181060 | [181060-return-alive.json](./181060-return-alive.json) |
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
@@ -11981,6 +11982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosette and Words | 96634 | [96634-rosette-and-words.json](./96634-rosette-and-words.json) |
 | RoShamBo Arena | 34714 | [34714-roshambo-arena.json](./34714-roshambo-arena.json) |
 | RoShamBo Arena: Starter Fighter Pack | 170304 | [170304-roshambo-arena-starter-fighter-pack.json](./170304-roshambo-arena-starter-fighter-pack.json) |
+| Roshamboss | 290596 | [290596-roshamboss.json](./290596-roshamboss.json) |
 | Roshpit Champions 2 | 306411 | [306411-roshpit-champions-2.json](./306411-roshpit-champions-2.json) |
 | Rosiana | 74807 | [74807-rosiana.json](./74807-rosiana.json) |
 | Rosie | 374872 | [374872-rosie.json](./374872-rosie.json) |
