@@ -4050,6 +4050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fei Duanmu VS Kobayashi | 87955 | [87955-fei-duanmu-vs-kobayashi.json](./87955-fei-duanmu-vs-kobayashi.json) |
 | FEI Equestriad World Tour | 228148 | [228148-fei-equestriad-world-tour.json](./228148-fei-equestriad-world-tour.json) |
 | Fei Tian | 86105 | [86105-fei-tian.json](./86105-fei-tian.json) |
+| Feichang Mowang Beelzebub | 284556 | [284556-feichang-mowang-beelzebub.json](./284556-feichang-mowang-beelzebub.json) |
 | Feichuan | 345944 | [345944-feichuan.json](./345944-feichuan.json) |
 | Feign | 128816 | [128816-feign.json](./128816-feign.json) |
 | Feign | 172516 | [172516-feign.json](./172516-feign.json) |
@@ -7749,6 +7750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flabby Santa | 249368 | [249368-flabby-santa.json](./249368-flabby-santa.json) |
 | Flag Capture | 17024 | [17024-flag-capture.json](./17024-flag-capture.json) |
 | Flag Clicker | 304375 | [304375-flag-clicker.json](./304375-flag-clicker.json) |
+| Flag Collection | 284541 | [284541-flag-collection.json](./284541-flag-collection.json) |
 | Flag Color Number: Painting and Coloring | 147382 | [147382-flag-color-number-painting-and-coloring.json](./147382-flag-color-number-painting-and-coloring.json) |
 | Flag Defender! | 262656 | [262656-flag-defender.json](./262656-flag-defender.json) |
 | Flag Defense | 213012 | [213012-flag-defense.json](./213012-flag-defense.json) |
@@ -9017,6 +9019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers by Powgi | 106893 | [106893-flowers-by-powgi.json](./106893-flowers-by-powgi.json) |
 | Flowers for Time | 181191 | [181191-flowers-for-time.json](./181191-flowers-for-time.json) |
 | Flowers for You | 330895 | [330895-flowers-for-you.json](./330895-flowers-for-you.json) |
+| Flowers Garden Solitaire | 284558 | [284558-flowers-garden-solitaire.json](./284558-flowers-garden-solitaire.json) |
 | Flowers in Bloom | 146906 | [146906-flowers-in-bloom.json](./146906-flowers-in-bloom.json) |
 | Flowers Mosaics | 294388 | [294388-flowers-mosaics.json](./294388-flowers-mosaics.json) |
 | Flowers of Asphodel | 300379 | [300379-flowers-of-asphodel.json](./300379-flowers-of-asphodel.json) |
