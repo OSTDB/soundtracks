@@ -3798,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volcano Eruption | 103635 | [103635-volcano-eruption.json](./103635-volcano-eruption.json) |
 | Volcano Hunter | 71940 | [71940-volcano-hunter.json](./71940-volcano-hunter.json) |
 | Volcano Jumper | 351767 | [351767-volcano-jumper.json](./351767-volcano-jumper.json) |
+| Volcano Planet | 250677 | [250677-volcano-planet.json](./250677-volcano-planet.json) |
 | Volcano Princess | 164994 | [164994-volcano-princess.json](./164994-volcano-princess.json) |
 | Volcano Snek | 185604 | [185604-volcano-snek.json](./185604-volcano-snek.json) |
 | Volcano Tower | 101242 | [101242-volcano-tower.json](./101242-volcano-tower.json) |
