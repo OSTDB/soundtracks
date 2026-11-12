@@ -4790,6 +4790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraBlocks | 291777 | [291777-terrablocks.json](./291777-terrablocks.json) |
 | Terracards | 258426 | [258426-terracards.json](./258426-terracards.json) |
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
+| Terracity | 271960 | [271960-terracity.json](./271960-terracity.json) |
 | Terraclysm Survivors | 401888 | [401888-terraclysm-survivors.json](./401888-terraclysm-survivors.json) |
 | Terracon | 43688 | [43688-terracon.json](./43688-terracon.json) |
 | Terracosmic | 132622 | [132622-terracosmic.json](./132622-terracosmic.json) |
@@ -6207,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazonian Dread | 107532 | [107532-the-amazonian-dread.json](./107532-the-amazonian-dread.json) |
 | The Amber Throne | 19517 | [19517-the-amber-throne.json](./19517-the-amber-throne.json) |
 | The Ambush! | 306250 | [306250-the-ambush.json](./306250-the-ambush.json) |
+| The AMC Pleaser | 271976 | [271976-the-amc-pleaser.json](./271976-the-amc-pleaser.json) |
 | The Amen Variations | 382200 | [382200-the-amen-variations.json](./382200-the-amen-variations.json) |
 | The American Challenge: A Sailing Simulation | 12253 | [12253-the-american-challenge-a-sailing-simulation.json](./12253-the-american-challenge-a-sailing-simulation.json) |
 | The American Delta Vengeance Action Blood Force Kill Commando | 270209 | [270209-the-american-delta-vengeance-action-blood-force-kill-commando.json](./270209-the-american-delta-vengeance-action-blood-force-kill-commando.json) |
@@ -8735,6 +8737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death Forest | 348446 | [348446-the-death-forest.json](./348446-the-death-forest.json) |
 | The Death Game Report | 413971 | [413971-the-death-game-report.json](./413971-the-death-game-report.json) |
 | The Death Into Trouble | 151125 | [151125-the-death-into-trouble.json](./151125-the-death-into-trouble.json) |
+| The Death Lair | 271963 | [271963-the-death-lair.json](./271963-the-death-lair.json) |
 | The Death Night Show | 320324 | [320324-the-death-night-show.json](./320324-the-death-night-show.json) |
 | The Death Night Show | 356920 | [356920-the-death-night-show.json](./356920-the-death-night-show.json) |
 | The Death of Erin Myers | 111289 | [111289-the-death-of-erin-myers.json](./111289-the-death-of-erin-myers.json) |
@@ -10162,6 +10165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Firm | 23407 | [23407-the-firm.json](./23407-the-firm.json) |
 | The First Alkahistorian: Stage One | 381510 | [381510-the-first-alkahistorian-stage-one.json](./381510-the-first-alkahistorian-stage-one.json) |
 | The First Alkahistorian: Stage Two | 381877 | [381877-the-first-alkahistorian-stage-two.json](./381877-the-first-alkahistorian-stage-two.json) |
+| The First Attempt | 271957 | [271957-the-first-attempt.json](./271957-the-first-attempt.json) |
 | The First Backrooms | 211663 | [211663-the-first-backrooms.json](./211663-the-first-backrooms.json) |
 | The First Berserker: Khazan - Deluxe Edition | 338028 | [338028-the-first-berserker-khazan-deluxe-edition.json](./338028-the-first-berserker-khazan-deluxe-edition.json) |
 | The First Berserker: Khazan - Deluxe Edition Upgrade | 338029 | [338029-the-first-berserker-khazan-deluxe-edition-upgrade.json](./338029-the-first-berserker-khazan-deluxe-edition-upgrade.json) |
@@ -15931,6 +15935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Petrified King | 232548 | [232548-the-petrified-king.json](./232548-the-petrified-king.json) |
 | The Petshop Incident | 71011 | [71011-the-petshop-incident.json](./71011-the-petshop-incident.json) |
 | The Pew Pew Bundle Vol. 1 | 147602 | [147602-the-pew-pew-bundle-vol-1.json](./147602-the-pew-pew-bundle-vol-1.json) |
+| The Phantom | 271881 | [271881-the-phantom.json](./271881-the-phantom.json) |
 | The Phantom | 344314 | [344314-the-phantom.json](./344314-the-phantom.json) |
 | The Phantom Agent | 313873 | [313873-the-phantom-agent.json](./313873-the-phantom-agent.json) |
 | The Phantom Fable: Steven Universe | 126875 | [126875-the-phantom-fable-steven-universe.json](./126875-the-phantom-fable-steven-universe.json) |
@@ -18675,6 +18680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tail of King Boris of Oris | 364661 | [364661-the-tail-of-king-boris-of-oris.json](./364661-the-tail-of-king-boris-of-oris.json) |
 | The Tail of the Serpent | 178681 | [178681-the-tail-of-the-serpent.json](./178681-the-tail-of-the-serpent.json) |
 | The Tainted | 179297 | [179297-the-tainted.json](./179297-the-tainted.json) |
+| The Tainted Land | 271885 | [271885-the-tainted-land.json](./271885-the-tainted-land.json) |
 | The Take | 90852 | [90852-the-take.json](./90852-the-take.json) |
 | The Takechan Man | 385818 | [385818-the-takechan-man.json](./385818-the-takechan-man.json) |
 | The TakeOver | 34039 | [34039-the-takeover.json](./34039-the-takeover.json) |
@@ -19034,6 +19040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tolerance Group | 408940 | [408940-the-tolerance-group.json](./408940-the-tolerance-group.json) |
 | The Tomatoes are OK | 184993 | [184993-the-tomatoes-are-ok.json](./184993-the-tomatoes-are-ok.json) |
 | The Tomb | 85905 | [85905-the-tomb.json](./85905-the-tomb.json) |
+| The Tomb of Chak Toh Ich`ak | 271962 | [271962-the-tomb-of-chak-toh-ich-ak.json](./271962-the-tomb-of-chak-toh-ich-ak.json) |
 | The Tomb of Corruption | 289954 | [289954-the-tomb-of-corruption.json](./289954-the-tomb-of-corruption.json) |
 | The Tomb Raider & Soul Reaver Remastered Bundle | 378838 | [378838-the-tomb-raider-and-soul-reaver-remastered-bundle.json](./378838-the-tomb-raider-and-soul-reaver-remastered-bundle.json) |
 | The Tomb Raider Trilogy | 7470 | [7470-the-tomb-raider-trilogy.json](./7470-the-tomb-raider-trilogy.json) |
@@ -20247,6 +20254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Werewolf | 334341 | [334341-the-werewolf.json](./334341-the-werewolf.json) |
 | The Werewolf of Kitakyushu -Beast- | 83478 | [83478-the-werewolf-of-kitakyushu-beast.json](./83478-the-werewolf-of-kitakyushu-beast.json) |
 | The West | 23639 | [23639-the-west.json](./23639-the-west.json) |
+| The Westcoast Drive: Lowrider Simulator | 271875 | [271875-the-westcoast-drive-lowrider-simulator.json](./271875-the-westcoast-drive-lowrider-simulator.json) |
 | The Western Hunter | 44210 | [44210-the-western-hunter.json](./44210-the-western-hunter.json) |
 | The Western Rooms | 205762 | [205762-the-western-rooms.json](./205762-the-western-rooms.json) |
 | The Westport Independent | 9106 | [9106-the-westport-independent.json](./9106-the-westport-independent.json) |
@@ -32363,6 +32371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traveler's Tavern | 264539 | [264539-travelers-tavern.json](./264539-travelers-tavern.json) |
 | Travelers and Tales | 225495 | [225495-travelers-and-tales.json](./225495-travelers-and-tales.json) |
 | Travelers in Space Crack | 193424 | [193424-travelers-in-space-crack.json](./193424-travelers-in-space-crack.json) |
+| Travelin' | 271888 | [271888-travelin.json](./271888-travelin.json) |
 | Traveling Merchant | 58521 | [58521-traveling-merchant.json](./58521-traveling-merchant.json) |
 | Traveling Union | 314756 | [314756-traveling-union.json](./314756-traveling-union.json) |
 | Traveller's Hymn | 319560 | [319560-travellers-hymn.json](./319560-travellers-hymn.json) |
