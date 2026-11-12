@@ -7013,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy: Revive and Survive Bundle | 393062 | [393062-bendy-revive-and-survive-bundle.json](./393062-bendy-revive-and-survive-bundle.json) |
 | Bendy: Secrets of the Machine | 294976 | [294976-bendy-secrets-of-the-machine.json](./294976-bendy-secrets-of-the-machine.json) |
 | Bendy: Studio Collection | 314161 | [314161-bendy-studio-collection.json](./314161-bendy-studio-collection.json) |
+| Bendy: The Cage | 274714 | [274714-bendy-the-cage.json](./274714-bendy-the-cage.json) |
 | Bendy: The Silent City | 265858 | [265858-bendy-the-silent-city.json](./265858-bendy-the-silent-city.json) |
 | Bendy's Nightmare Run | 414307 | [414307-bendys-nightmare-run.json](./414307-bendys-nightmare-run.json) |
 | BendyVR | 398356 | [398356-bendyvr.json](./398356-bendyvr.json) |
