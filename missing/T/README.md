@@ -8575,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Stone of Mebara | 9398 | [9398-the-dark-stone-of-mebara.json](./9398-the-dark-stone-of-mebara.json) |
 | The Dark Survivors | 273647 | [273647-the-dark-survivors.json](./273647-the-dark-survivors.json) |
 | The Dark Tales of Katarina | 28871 | [28871-the-dark-tales-of-katarina.json](./28871-the-dark-tales-of-katarina.json) |
+| The Dark Thicket | 288396 | [288396-the-dark-thicket.json](./288396-the-dark-thicket.json) |
 | The Dark Third | 128597 | [128597-the-dark-third.json](./128597-the-dark-third.json) |
 | The Dark Throne | 187232 | [187232-the-dark-throne.json](./187232-the-dark-throne.json) |
 | The Dark Tide | 312035 | [312035-the-dark-tide.json](./312035-the-dark-tide.json) |
@@ -8888,6 +8889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's Shoes | 165813 | [165813-the-devils-shoes.json](./165813-the-devils-shoes.json) |
 | The Devil's Soul Inside Me | 299078 | [299078-the-devils-soul-inside-me.json](./299078-the-devils-soul-inside-me.json) |
 | The Devil's Teeth | 234806 | [234806-the-devils-teeth.json](./234806-the-devils-teeth.json) |
+| The Devil's Typist | 287919 | [287919-the-devils-typist.json](./287919-the-devils-typist.json) |
 | The Devil's Whisper | 318876 | [318876-the-devils-whisper.json](./318876-the-devils-whisper.json) |
 | The Devil's Womb | 122006 | [122006-the-devils-womb.json](./122006-the-devils-womb.json) |
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
@@ -14544,6 +14546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Masculine Urge | 299698 | [299698-the-masculine-urge.json](./299698-the-masculine-urge.json) |
 | The Masculine Urge to Blow a Femboy | 392982 | [392982-the-masculine-urge-to-blow-a-femboy.json](./392982-the-masculine-urge-to-blow-a-femboy.json) |
 | The Mask | 42730 | [42730-the-mask.json](./42730-the-mask.json) |
+| The Mask behind the Dream: Kapitel 1 | 288387 | [288387-the-mask-behind-the-dream-kapitel-1.json](./288387-the-mask-behind-the-dream-kapitel-1.json) |
 | The Mask Game | 278993 | [278993-the-mask-game.json](./278993-the-mask-game.json) |
 | The Mask of Agnosia | 399720 | [399720-the-mask-of-agnosia.json](./399720-the-mask-of-agnosia.json) |
 | The Mask of the Sun | 125298 | [125298-the-mask-of-the-sun.json](./125298-the-mask-of-the-sun.json) |
@@ -20520,6 +20523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World III: Rise of Demon | 39278 | [39278-the-world-iii-rise-of-demon.json](./39278-the-world-iii-rise-of-demon.json) |
 | The World is Binary: Why Love is the Answer | 195562 | [195562-the-world-is-binary-why-love-is-the-answer.json](./195562-the-world-is-binary-why-love-is-the-answer.json) |
 | The World is Drowning | 264158 | [264158-the-world-is-drowning.json](./264158-the-world-is-drowning.json) |
+| The World Is Really Right! | 288411 | [288411-the-world-is-really-right.json](./288411-the-world-is-really-right.json) |
 | The World Is Ruled According to Sexual Prowess So I’m Playing Dirty to Get My Harem: Episode 1 | 400241 | [400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json](./400241-the-world-is-ruled-according-to-sexual-prowess-so-i-m-playing-dirty-to-get-my-harem-episode-1.json) |
 | The World is Strange | 413513 | [413513-the-world-is-strange.json](./413513-the-world-is-strange.json) |
 | The World is Your Weapon | 120144 | [120144-the-world-is-your-weapon.json](./120144-the-world-is-your-weapon.json) |
@@ -21008,6 +21012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There You Go | 57527 | [57527-there-you-go.json](./57527-there-you-go.json) |
 | There's a Bear Outside | 177358 | [177358-theres-a-bear-outside.json](./177358-theres-a-bear-outside.json) |
 | There's a Butcher Around | 118016 | [118016-theres-a-butcher-around.json](./118016-theres-a-butcher-around.json) |
+| There's a Duck Behind You! | 288385 | [288385-theres-a-duck-behind-you.json](./288385-theres-a-duck-behind-you.json) |
 | There's a Gun in the Office | 332168 | [332168-theres-a-gun-in-the-office.json](./332168-theres-a-gun-in-the-office.json) |
 | There's a Gun in the Office + Fig. bundle | 339071 | [339071-theres-a-gun-in-the-office-fig-bundle.json](./339071-theres-a-gun-in-the-office-fig-bundle.json) |
 | There's a Rikishi in my House | 199613 | [199613-theres-a-rikishi-in-my-house.json](./199613-theres-a-rikishi-in-my-house.json) |
@@ -27549,6 +27554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tori | 95218 | [95218-tori.json](./95218-tori.json) |
 | Tori no Hoshi: Aerial Planet | 225835 | [225835-tori-no-hoshi-aerial-planet.json](./225835-tori-no-hoshi-aerial-planet.json) |
 | Tori Note | 289403 | [289403-tori-note.json](./289403-tori-note.json) |
+| Tori Tamashii 2: Minna de Chicken-do Shindan | 288408 | [288408-tori-tamashii-2-minna-de-chicken-do-shindan.json](./288408-tori-tamashii-2-minna-de-chicken-do-shindan.json) |
 | Tori-Emaki | 206084 | [206084-tori-emaki.json](./206084-tori-emaki.json) |
 | Toribash | 1875 | [1875-toribash.json](./1875-toribash.json) |
 | Toribash | 314708 | [314708-toribash.json](./314708-toribash.json) |
@@ -28780,6 +28786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Defense for Virus | 418405 | [418405-tower-defense-for-virus.json](./418405-tower-defense-for-virus.json) |
 | Tower Defense Hero | 160032 | [160032-tower-defense-hero.json](./160032-tower-defense-hero.json) |
 | Tower Defense King | 208379 | [208379-tower-defense-king.json](./208379-tower-defense-king.json) |
+| Tower Defense RPG | 288382 | [288382-tower-defense-rpg.json](./288382-tower-defense-rpg.json) |
 | Tower Defense Ultimate | 32900 | [32900-tower-defense-ultimate.json](./32900-tower-defense-ultimate.json) |
 | Tower Defense: Defender of the Kingdom | 122130 | [122130-tower-defense-defender-of-the-kingdom.json](./122130-tower-defense-defender-of-the-kingdom.json) |
 | Tower Defense: Goblin Wars | 384204 | [384204-tower-defense-goblin-wars.json](./384204-tower-defense-goblin-wars.json) |
@@ -31774,6 +31781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
 | Trans Theft Horso | 258563 | [258563-trans-theft-horso.json](./258563-trans-theft-horso.json) |
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
+| Trans-Siberian Legends | 288386 | [288386-trans-siberian-legends.json](./288386-trans-siberian-legends.json) |
 | Trans-Siberian Legends: Beautiful Girls | 298088 | [298088-trans-siberian-legends-beautiful-girls.json](./298088-trans-siberian-legends-beautiful-girls.json) |
 | Trans-Siberian Legends: Ekaterinburg | 297725 | [297725-trans-siberian-legends-ekaterinburg.json](./297725-trans-siberian-legends-ekaterinburg.json) |
 | Trans-Siberian Legends: Novosibirsk | 291691 | [291691-trans-siberian-legends-novosibirsk.json](./291691-trans-siberian-legends-novosibirsk.json) |
