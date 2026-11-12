@@ -3486,6 +3486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mansion of Memories | 266097 | [266097-mansion-of-memories.json](./266097-mansion-of-memories.json) |
 | Mansion of Relics | 420047 | [420047-mansion-of-relics.json](./420047-mansion-of-relics.json) |
 | Mansion of the Dead | 337486 | [337486-mansion-of-the-dead.json](./337486-mansion-of-the-dead.json) |
+| Mansion Restorator | 309769 | [309769-mansion-restorator.json](./309769-mansion-restorator.json) |
 | Mansion Tour | 225561 | [225561-mansion-tour.json](./225561-mansion-tour.json) |
 | MansionDungeon | 404246 | [404246-mansiondungeon.json](./404246-mansiondungeon.json) |
 | Mansions of Madness | 32560 | [32560-mansions-of-madness.json](./32560-mansions-of-madness.json) |
@@ -5689,6 +5690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master x Re:master | 395138 | [395138-master-x-re-master.json](./395138-master-x-re-master.json) |
 | Masterblazer | 15258 | [15258-masterblazer.json](./15258-masterblazer.json) |
 | Masterchef Cakes Edition | 217507 | [217507-masterchef-cakes-edition.json](./217507-masterchef-cakes-edition.json) |
+| Masterchef Cakes Edition 2 | 309786 | [309786-masterchef-cakes-edition-2.json](./309786-masterchef-cakes-edition-2.json) |
 | Masterchef Chinese Food Edition | 195273 | [195273-masterchef-chinese-food-edition.json](./195273-masterchef-chinese-food-edition.json) |
 | Masterchef Ice Cream Edition | 220408 | [220408-masterchef-ice-cream-edition.json](./220408-masterchef-ice-cream-edition.json) |
 | MasterChef: Cook & Match | 219952 | [219952-masterchef-cook-and-match.json](./219952-masterchef-cook-and-match.json) |
@@ -9487,6 +9489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Fade | 170348 | [170348-memories-fade.json](./170348-memories-fade.json) |
 | Memories From Beyond a Coral Sea | 243382 | [243382-memories-from-beyond-a-coral-sea.json](./243382-memories-from-beyond-a-coral-sea.json) |
 | Memories in Late Summer | 109688 | [109688-memories-in-late-summer.json](./109688-memories-in-late-summer.json) |
+| Memories Not Found | 309792 | [309792-memories-not-found.json](./309792-memories-not-found.json) |
 | Memories of a Broken Dimension | 137569 | [137569-memories-of-a-broken-dimension.json](./137569-memories-of-a-broken-dimension.json) |
 | Memories of a Forgotten Home | 378151 | [378151-memories-of-a-forgotten-home.json](./378151-memories-of-a-forgotten-home.json) |
 | Memories of a Hedgehog | 316931 | [316931-memories-of-a-hedgehog.json](./316931-memories-of-a-hedgehog.json) |
@@ -14899,6 +14902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission A.D. | 28469 | [28469-mission-a-d.json](./28469-mission-a-d.json) |
 | Mission Against Terror | 51395 | [51395-mission-against-terror.json](./51395-mission-against-terror.json) |
 | Mission Against Terror 2 | 213474 | [213474-mission-against-terror-2.json](./213474-mission-against-terror-2.json) |
+| Mission Andromeda | 310222 | [310222-mission-andromeda.json](./310222-mission-andromeda.json) |
 | Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
 | Mission Asteroid | 7655 | [7655-mission-asteroid.json](./7655-mission-asteroid.json) |
 | Mission Attack | 42136 | [42136-mission-attack.json](./42136-mission-attack.json) |
@@ -16530,6 +16534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Math | 253303 | [253303-monkey-math.json](./253303-monkey-math.json) |
 | Monkey Math School Sunshine | 291969 | [291969-monkey-math-school-sunshine.json](./291969-monkey-math-school-sunshine.json) |
 | Monkey Milk | 211124 | [211124-monkey-milk.json](./211124-monkey-milk.json) |
+| Monkey Mischief | 310291 | [310291-monkey-mischief.json](./310291-monkey-mischief.json) |
 | Monkey Mischief | 51065 | [51065-monkey-mischief.json](./51065-monkey-mischief.json) |
 | Monkey Mischief! Party Time | 92362 | [92362-monkey-mischief-party-time.json](./92362-monkey-mischief-party-time.json) |
 | Monkey Mole Panic | 40386 | [40386-monkey-mole-panic.json](./40386-monkey-mole-panic.json) |
