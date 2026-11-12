@@ -10378,6 +10378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Messiah: The Road of Conviction | 145602 | [145602-messiah-the-road-of-conviction.json](./145602-messiah-the-road-of-conviction.json) |
 | MessiahEnd Refrain | 150320 | [150320-messiahend-refrain.json](./150320-messiahend-refrain.json) |
 | Messier111 | 169363 | [169363-messier111.json](./169363-messier111.json) |
+| Messorem | 286163 | [286163-messorem.json](./286163-messorem.json) |
 | Messticulous | 319935 | [319935-messticulous.json](./319935-messticulous.json) |
 | Messy Desktop 98 | 184614 | [184614-messy-desktop-98.json](./184614-messy-desktop-98.json) |
 | Messy Hearts | 373178 | [373178-messy-hearts.json](./373178-messy-hearts.json) |
@@ -10405,6 +10406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meta Lines | 241278 | [241278-meta-lines.json](./241278-meta-lines.json) |
 | Meta Lordz | 270594 | [270594-meta-lordz.json](./270594-meta-lordz.json) |
 | Meta Match | 302199 | [302199-meta-match.json](./302199-meta-match.json) |
+| Meta Meet Cute!!!+ | 286186 | [286186-meta-meet-cute.json](./286186-meta-meet-cute.json) |
 | Meta Meet Cute!!!+ Upgrade | 294926 | [294926-meta-meet-cute-upgrade.json](./294926-meta-meet-cute-upgrade.json) |
 | Meta Nanos: Rumble Race | 263521 | [263521-meta-nanos-rumble-race.json](./263521-meta-nanos-rumble-race.json) |
 | Meta Pong | 304823 | [304823-meta-pong.json](./304823-meta-pong.json) |
@@ -14821,6 +14823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Paint: Part 1 | 275142 | [275142-miss-paint-part-1.json](./275142-miss-paint-part-1.json) |
 | Miss Peach | 264593 | [264593-miss-peach.json](./264593-miss-peach.json) |
 | Miss Peach World | 133780 | [133780-miss-peach-world.json](./133780-miss-peach-world.json) |
+| Miss Peacock | 286158 | [286158-miss-peacock.json](./286158-miss-peacock.json) |
 | Miss Perfect Miss Ending | 320753 | [320753-miss-perfect-miss-ending.json](./320753-miss-perfect-miss-ending.json) |
 | Miss Popularity | 90458 | [90458-miss-popularity.json](./90458-miss-popularity.json) |
 | Miss Princess Miss Pri | 204400 | [204400-miss-princess-miss-pri.json](./204400-miss-princess-miss-pri.json) |
@@ -17812,6 +17815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moo & Move: Extra Grazing Grounds | 328251 | [328251-moo-and-move-extra-grazing-grounds.json](./328251-moo-and-move-extra-grazing-grounds.json) |
 | Moo at the Moon | 71542 | [71542-moo-at-the-moon.json](./71542-moo-at-the-moon.json) |
 | Moo Lander | 118528 | [118528-moo-lander.json](./118528-moo-lander.json) |
+| Moo Moo: Liar's Dice | 286156 | [286156-moo-moo-liars-dice.json](./286156-moo-moo-liars-dice.json) |
 | Moo Who | 415097 | [415097-moo-who.json](./415097-moo-who.json) |
 | Moo Who? | 414543 | [414543-moo-who.json](./414543-moo-who.json) |
 | Moo-A-Doodle-Doo | 415055 | [415055-moo-a-doodle-doo.json](./415055-moo-a-doodle-doo.json) |
