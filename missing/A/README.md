@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Difficult Game About Letters | 377494 | [377494-a-difficult-game-about-letters.json](./377494-a-difficult-game-about-letters.json) |
 | A Difficult Game About Rolling: ReUpRise | 293739 | [293739-a-difficult-game-about-rolling-reuprise.json](./293739-a-difficult-game-about-rolling-reuprise.json) |
 | A Difficult Game About Wheelchair | 348007 | [348007-a-difficult-game-about-wheelchair.json](./348007-a-difficult-game-about-wheelchair.json) |
+| A Dino Date | 260401 | [260401-a-dino-date.json](./260401-a-dino-date.json) |
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
 | A Dinosaur's Tale | 14696 | [14696-a-dinosaurs-tale.json](./14696-a-dinosaurs-tale.json) |
 | A Dire Emergency in Space | 253157 | [253157-a-dire-emergency-in-space.json](./253157-a-dire-emergency-in-space.json) |
@@ -2151,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abismo | 380389 | [380389-abismo.json](./380389-abismo.json) |
 | Abject Abyss | 337788 | [337788-abject-abyss.json](./337788-abject-abyss.json) |
 | Ablah | 106906 | [106906-ablah.json](./106906-ablah.json) |
+| Ablaze | 260403 | [260403-ablaze.json](./260403-ablaze.json) |
 | Ablaze | 272130 | [272130-ablaze.json](./272130-ablaze.json) |
 | Ablaze Ascent | 192317 | [192317-ablaze-ascent.json](./192317-ablaze-ascent.json) |
 | Able Black | 30478 | [30478-able-black.json](./30478-able-black.json) |
@@ -17448,6 +17450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Fighters 2178 | 151412 | [151412-astro-fighters-2178.json](./151412-astro-fighters-2178.json) |
 | Astro Galaxy | 346140 | [346140-astro-galaxy.json](./346140-astro-galaxy.json) |
 | Astro Golf | 122706 | [122706-astro-golf.json](./122706-astro-golf.json) |
+| Astro Heist | 260440 | [260440-astro-heist.json](./260440-astro-heist.json) |
 | Astro Ike | 204805 | [204805-astro-ike.json](./204805-astro-ike.json) |
 | Astro Invader | 281221 | [281221-astro-invader.json](./281221-astro-invader.json) |
 | Astro Invader | 39656 | [39656-astro-invader.json](./39656-astro-invader.json) |
