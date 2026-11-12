@@ -1948,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetik | 237746 | [237746-magnetik.json](./237746-magnetik.json) |
 | Magnetis | 16082 | [16082-magnetis.json](./16082-magnetis.json) |
 | Magnetism | 262129 | [262129-magnetism.json](./262129-magnetism.json) |
+| Magnetism | 278185 | [278185-magnetism.json](./278185-magnetism.json) |
 | Magnetism | 82566 | [82566-magnetism.json](./82566-magnetism.json) |
 | Magnetism Rally | 257263 | [257263-magnetism-rally.json](./257263-magnetism-rally.json) |
 | Magnetized | 31113 | [31113-magnetized.json](./31113-magnetized.json) |
@@ -10353,6 +10354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meshimase! Remilia Ojou-sama! | 324254 | [324254-meshimase-remilia-ojou-sama.json](./324254-meshimase-remilia-ojou-sama.json) |
 | Meshuda | 406213 | [406213-meshuda.json](./406213-meshuda.json) |
 | Mesih | 281386 | [281386-mesih.json](./281386-mesih.json) |
+| Mesimes PT | 278042 | [278042-mesimes-pt.json](./278042-mesimes-pt.json) |
 | Mesmalie | 361116 | [361116-mesmalie.json](./361116-mesmalie.json) |
 | Mesmer | 139631 | [139631-mesmer.json](./139631-mesmer.json) |
 | Mesmerize: Distort | 99979 | [99979-mesmerize-distort.json](./99979-mesmerize-distort.json) |
