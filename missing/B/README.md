@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backyard Basketball 2001 | 50297 | [50297-backyard-basketball-2001.json](./50297-backyard-basketball-2001.json) |
 | Backyard Basketball 2004 | 94474 | [94474-backyard-basketball-2004.json](./94474-backyard-basketball-2004.json) |
 | Backyard Battles | 62812 | [62812-backyard-battles.json](./62812-backyard-battles.json) |
+| Backyard Beans | 314567 | [314567-backyard-beans.json](./314567-backyard-beans.json) |
 | Backyard Bounce | 20720 | [20720-backyard-bounce.json](./20720-backyard-bounce.json) |
 | Backyard Boxing | 329668 | [329668-backyard-boxing.json](./329668-backyard-boxing.json) |
 | Backyard Buzzing | 285134 | [285134-backyard-buzzing.json](./285134-backyard-buzzing.json) |
@@ -6454,6 +6455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beezer | 23569 | [23569-beezer.json](./23569-beezer.json) |
 | Beezooka | 303825 | [303825-beezooka.json](./303825-beezooka.json) |
 | Befabled | 183477 | [183477-befabled.json](./183477-befabled.json) |
+| Beff Jezos Simulator | 315378 | [315378-beff-jezos-simulator.json](./315378-beff-jezos-simulator.json) |
 | Befizzled! | 176164 | [176164-befizzled.json](./176164-befizzled.json) |
 | Before | 380013 | [380013-before.json](./380013-before.json) |
 | Before | 8653 | [8653-before.json](./8653-before.json) |
@@ -6724,7 +6726,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bellumarot | 151712 | [151712-bellumarot.json](./151712-bellumarot.json) |
 | Bellumentum | 310098 | [310098-bellumentum.json](./310098-bellumentum.json) |
 | Bellus Battle | 260157 | [260157-bellus-battle.json](./260157-bellus-battle.json) |
-| Bellwright | 244040 | [244040-bellwright.json](./244040-bellwright.json) |
 | Belly | 178817 | [178817-belly.json](./178817-belly.json) |
 | Belly Bumpers | 298168 | [298168-belly-bumpers.json](./298168-belly-bumpers.json) |
 | Belly Dance Girl | 367028 | [367028-belly-dance-girl.json](./367028-belly-dance-girl.json) |
@@ -6969,6 +6970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy: Lone Wolf | 325968 | [325968-bendy-lone-wolf.json](./325968-bendy-lone-wolf.json) |
 | Bendy: Revive and Survive Bundle | 393062 | [393062-bendy-revive-and-survive-bundle.json](./393062-bendy-revive-and-survive-bundle.json) |
 | Bendy: Secrets of the Machine | 294976 | [294976-bendy-secrets-of-the-machine.json](./294976-bendy-secrets-of-the-machine.json) |
+| Bendy: Studio Collection | 314161 | [314161-bendy-studio-collection.json](./314161-bendy-studio-collection.json) |
 | Bendy: The Silent City | 265858 | [265858-bendy-the-silent-city.json](./265858-bendy-the-silent-city.json) |
 | Bendy's Nightmare Run | 414307 | [414307-bendys-nightmare-run.json](./414307-bendys-nightmare-run.json) |
 | BendyVR | 398356 | [398356-bendyvr.json](./398356-bendyvr.json) |
@@ -8686,6 +8688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binky Mcmxcix: The Labyrinthe | 215177 | [215177-binky-mcmxcix-the-labyrinthe.json](./215177-binky-mcmxcix-the-labyrinthe.json) |
 | Binky show | 123512 | [123512-binky-show.json](./123512-binky-show.json) |
 | Binky XXIV: Game Streamer "Binky" Plays Grotto of the Grebulons | 279024 | [279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json](./279024-binky-xxiv-game-streamer-binky-plays-grotto-of-the-grebulons.json) |
+| Binky's Facts and Opinions | 314163 | [314163-binkys-facts-and-opinions.json](./314163-binkys-facts-and-opinions.json) |
 | Binky's Trash Service | 142483 | [142483-binkys-trash-service.json](./142483-binkys-trash-service.json) |
 | Binxonia | 418086 | [418086-binxonia.json](./418086-binxonia.json) |
 | Binyuu Hunter | 426046 | [426046-binyuu-hunter.json](./426046-binyuu-hunter.json) |
@@ -10819,6 +10822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blickel | 201450 | [201450-blickel.json](./201450-blickel.json) |
 | Blickel NES | 181446 | [181446-blickel-nes.json](./181446-blickel-nes.json) |
 | Blight | 211161 | [211161-blight.json](./211161-blight.json) |
+| Blight | 314088 | [314088-blight.json](./314088-blight.json) |
 | Blight Bubbles | 260289 | [260289-blight-bubbles.json](./260289-blight-bubbles.json) |
 | Blight Doctors | 415867 | [415867-blight-doctors.json](./415867-blight-doctors.json) |
 | Blight Dream | 121029 | [121029-blight-dream.json](./121029-blight-dream.json) |
@@ -11417,6 +11421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockDoc | 111172 | [111172-blockdoc.json](./111172-blockdoc.json) |
 | BlockDodge | 106882 | [106882-blockdodge.json](./106882-blockdodge.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
+| Blockdude | 315760 | [315760-blockdude.json](./315760-blockdude.json) |
 | BlockDude | 52055 | [52055-blockdude.json](./52055-blockdude.json) |
 | Blocked and Loaded | 81890 | [81890-blocked-and-loaded.json](./81890-blocked-and-loaded.json) |
 | Blocked In | 278559 | [278559-blocked-in.json](./278559-blocked-in.json) |
@@ -17371,6 +17376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruken | 116173 | [116173-bruken.json](./116173-bruken.json) |
 | Brulo's Ballble Teafense! | 255885 | [255885-brulos-ballble-teafense.json](./255885-brulos-ballble-teafense.json) |
 | Brum Brum | 93386 | [93386-brum-brum.json](./93386-brum-brum.json) |
+| Bruma | 315384 | [315384-bruma.json](./315384-bruma.json) |
 | Brume | 121093 | [121093-brume.json](./121093-brume.json) |
 | Brume | 405487 | [405487-brume.json](./405487-brume.json) |
 | Brumley | 405770 | [405770-brumley.json](./405770-brumley.json) |
