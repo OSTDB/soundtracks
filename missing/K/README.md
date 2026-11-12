@@ -690,6 +690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamitsubaki City Ensemble: Extra Pack feat. ASU | 330453 | [330453-kamitsubaki-city-ensemble-extra-pack-feat-asu.json](./330453-kamitsubaki-city-ensemble-extra-pack-feat-asu.json) |
 | Kamitsubaki City Ensemble: Extra Pack feat. V.I.P with V.W.P | 324418 | [324418-kamitsubaki-city-ensemble-extra-pack-feat-v-i-p-with-v-w-p.json](./324418-kamitsubaki-city-ensemble-extra-pack-feat-v-i-p-with-v-w-p.json) |
 | Kamitsubaki City Ensemble: Season Pass 2024 | 317292 | [317292-kamitsubaki-city-ensemble-season-pass-2024.json](./317292-kamitsubaki-city-ensemble-season-pass-2024.json) |
+| Kamitsubaki City Regenerate | 271883 | [271883-kamitsubaki-city-regenerate.json](./271883-kamitsubaki-city-regenerate.json) |
 | Kamitsubaki City Virtual Reality | 328261 | [328261-kamitsubaki-city-virtual-reality.json](./328261-kamitsubaki-city-virtual-reality.json) |
 | Kamitsure no okami | 83165 | [83165-kamitsure-no-okami.json](./83165-kamitsure-no-okami.json) |
 | Kamiwaza | 92559 | [92559-kamiwaza.json](./92559-kamiwaza.json) |
