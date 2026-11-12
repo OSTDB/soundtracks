@@ -7127,6 +7127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It Is Coming | 335665 | [335665-it-is-coming.json](./335665-it-is-coming.json) |
 | It is Highnoon | 197740 | [197740-it-is-highnoon.json](./197740-it-is-highnoon.json) |
 | It Is Over 2024 | 282618 | [282618-it-is-over-2024.json](./282618-it-is-over-2024.json) |
+| It Is Ticking | 249984 | [249984-it-is-ticking.json](./249984-it-is-ticking.json) |
 | It Knows You're Here | 185134 | [185134-it-knows-youre-here.json](./185134-it-knows-youre-here.json) |
 | It Lives | 270666 | [270666-it-lives.json](./270666-it-lives.json) |
 | It Lives Beneath | 313738 | [313738-it-lives-beneath.json](./313738-it-lives-beneath.json) |
