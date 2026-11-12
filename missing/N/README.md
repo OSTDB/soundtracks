@@ -4724,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Thoughts | 374171 | [374171-night-thoughts.json](./374171-night-thoughts.json) |
 | Night Tide | 184323 | [184323-night-tide.json](./184323-night-tide.json) |
 | Night Time | 369222 | [369222-night-time.json](./369222-night-time.json) |
+| Night Town | 302853 | [302853-night-town.json](./302853-night-town.json) |
 | Night Train | 413700 | [413700-night-train.json](./413700-night-train.json) |
 | Night Train Simulator: Blackout | 412204 | [412204-night-train-simulator-blackout.json](./412204-night-train-simulator-blackout.json) |
 | Night Trap | 179569 | [179569-night-trap.json](./179569-night-trap.json) |
@@ -6408,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Wheels Racing | 134769 | [134769-no-wheels-racing.json](./134769-no-wheels-racing.json) |
 | No Wings Required | 394322 | [394322-no-wings-required.json](./394322-no-wings-required.json) |
 | No Words to Speak With | 176782 | [176782-no-words-to-speak-with.json](./176782-no-words-to-speak-with.json) |
+| No Work No Life | 302865 | [302865-no-work-no-life.json](./302865-no-work-no-life.json) |
 | No World Dreamers: Sticky Zeitgeist | 354753 | [354753-no-world-dreamers-sticky-zeitgeist.json](./354753-no-world-dreamers-sticky-zeitgeist.json) |
 | No Worries | 286065 | [286065-no-worries.json](./286065-no-worries.json) |
 | No Zombie Land: Lucy | 367282 | [367282-no-zombie-land-lucy.json](./367282-no-zombie-land-lucy.json) |
@@ -7939,6 +7941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Winter | 221663 | [221663-nuclear-winter.json](./221663-nuclear-winter.json) |
 | Nuclear Wipeout | 148624 | [148624-nuclear-wipeout.json](./148624-nuclear-wipeout.json) |
 | NuclearDanger | 180806 | [180806-nucleardanger.json](./180806-nucleardanger.json) |
+| Nucleares: New Generator Set | 302851 | [302851-nucleares-new-generator-set.json](./302851-nucleares-new-generator-set.json) |
 | Nuclearphobia | 385624 | [385624-nuclearphobia.json](./385624-nuclearphobia.json) |
 | NuclearRifle | 384527 | [384527-nuclearrifle.json](./384527-nuclearrifle.json) |
 | Nuclecard | 380538 | [380538-nuclecard.json](./380538-nuclecard.json) |
