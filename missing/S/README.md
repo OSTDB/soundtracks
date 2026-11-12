@@ -6915,6 +6915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex, Love & Girls | 235689 | [235689-sex-love-and-girls.json](./235689-sex-love-and-girls.json) |
 | Sex, Sin & Rock'N'Roll | 404632 | [404632-sex-sin-and-rocknroll.json](./404632-sex-sin-and-rocknroll.json) |
 | Sex, Stocks & Cocks | 301653 | [301653-sex-stocks-and-cocks.json](./301653-sex-stocks-and-cocks.json) |
+| Sex: The Game | 262017 | [262017-sex-the-game.json](./262017-sex-the-game.json) |
 | Sex! At Alexanderplatz | 271971 | [271971-sex-at-alexanderplatz.json](./271971-sex-at-alexanderplatz.json) |
 | Sexaginta Quattuordle | 249700 | [249700-sexaginta-quattuordle.json](./249700-sexaginta-quattuordle.json) |
 | Sexamaid Maika | 98065 | [98065-sexamaid-maika.json](./98065-sexamaid-maika.json) |
@@ -11192,6 +11193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silberheim Evolving Card Game | 393787 | [393787-silberheim-evolving-card-game.json](./393787-silberheim-evolving-card-game.json) |
 | Silen House | 217085 | [217085-silen-house.json](./217085-silen-house.json) |
 | Silence | 115840 | [115840-silence.json](./115840-silence.json) |
+| Silence | 261496 | [261496-silence.json](./261496-silence.json) |
 | Silence Channel | 143593 | [143593-silence-channel.json](./143593-silence-channel.json) |
 | Silence Channel 2 | 218471 | [218471-silence-channel-2.json](./218471-silence-channel-2.json) |
 | Silence Coffee Shop | 222285 | [222285-silence-coffee-shop.json](./222285-silence-coffee-shop.json) |
@@ -16867,6 +16869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowflake Tattoo | 35608 | [35608-snowflake-tattoo.json](./35608-snowflake-tattoo.json) |
 | Snowflake's Chance | 29699 | [29699-snowflakes-chance.json](./29699-snowflakes-chance.json) |
 | Snowflakes in the Sun | 419612 | [419612-snowflakes-in-the-sun.json](./419612-snowflakes-in-the-sun.json) |
+| Snowfury | 262013 | [262013-snowfury.json](./262013-snowfury.json) |
 | Snowglobe | 80992 | [80992-snowglobe.json](./80992-snowglobe.json) |
 | SnowJinks | 60554 | [60554-snowjinks.json](./60554-snowjinks.json) |
 | SnowJob | 411669 | [411669-snowjob.json](./411669-snowjob.json) |
@@ -27617,6 +27620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starshatter: The Gathering Storm | 64855 | [64855-starshatter-the-gathering-storm.json](./64855-starshatter-the-gathering-storm.json) |
 | Starshield | 374752 | [374752-starshield.json](./374752-starshield.json) |
 | Starshifter | 211942 | [211942-starshifter.json](./211942-starshifter.json) |
+| Starshine | 262015 | [262015-starshine.json](./262015-starshine.json) |
 | Starshine Legacy Episode 1: Mystery of the Soul Riders | 196735 | [196735-starshine-legacy-episode-1-mystery-of-the-soul-riders.json](./196735-starshine-legacy-episode-1-mystery-of-the-soul-riders.json) |
 | Starship | 208449 | [208449-starship.json](./208449-starship.json) |
 | Starship | 217983 | [217983-starship.json](./217983-starship.json) |
@@ -32879,6 +32883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunsoft is Back! Retro Game Selection 2 | 421447 | [421447-sunsoft-is-back-retro-game-selection-2.json](./421447-sunsoft-is-back-retro-game-selection-2.json) |
 | Sunsoft Mahjong Solitaire: Shanghai Legend | 276952 | [276952-sunsoft-mahjong-solitaire-shanghai-legend.json](./276952-sunsoft-mahjong-solitaire-shanghai-legend.json) |
 | Sunstone of Time | 421822 | [421822-sunstone-of-time.json](./421822-sunstone-of-time.json) |
+| Sunstone War | 261562 | [261562-sunstone-war.json](./261562-sunstone-war.json) |
 | Sunu Ikkibu: Din Nahu | 27377 | [27377-sunu-ikkibu-din-nahu.json](./27377-sunu-ikkibu-din-nahu.json) |
 | Sunville | 207548 | [207548-sunville.json](./207548-sunville.json) |
 | Sunward | 409346 | [409346-sunward.json](./409346-sunward.json) |
@@ -32914,6 +32919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super 10 Pin | 270885 | [270885-super-10-pin.json](./270885-super-10-pin.json) |
 | Super 10 VR Bundle | 300275 | [300275-super-10-vr-bundle.json](./300275-super-10-vr-bundle.json) |
 | Super 190-in-1 | 137388 | [137388-super-190-in-1.json](./137388-super-190-in-1.json) |
+| Super 20 in 1 | 261487 | [261487-super-20-in-1.json](./261487-super-20-in-1.json) |
 | Super 2048 | 99983 | [99983-super-2048.json](./99983-super-2048.json) |
 | Super 3-D Crunk Bros. | 127499 | [127499-super-3-d-crunk-bros.json](./127499-super-3-d-crunk-bros.json) |
 | Super 3D Maze 16 | 325983 | [325983-super-3d-maze-16.json](./325983-super-3d-maze-16.json) |
