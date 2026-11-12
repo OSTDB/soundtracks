@@ -4352,7 +4352,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engage to Jabberwock | 194351 | [194351-engage-to-jabberwock.json](./194351-engage-to-jabberwock.json) |
 | Engaging Destiny | 259115 | [259115-engaging-destiny.json](./259115-engaging-destiny.json) |
 | Engaging Snowflakes | 364385 | [364385-engaging-snowflakes.json](./364385-engaging-snowflakes.json) |
-| Engare | 34110 | [34110-engare.json](./34110-engare.json) |
 | Engawa Danshi to Kemono Tan | 222242 | [222242-engawa-danshi-to-kemono-tan.json](./222242-engawa-danshi-to-kemono-tan.json) |
 | Engels met Rayman + Frans met Rayman | 193349 | [193349-engels-met-rayman-frans-met-rayman.json](./193349-engels-met-rayman-frans-met-rayman.json) |
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
