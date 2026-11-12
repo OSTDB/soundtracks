@@ -2063,6 +2063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ransacked | 184215 | [184215-ransacked.json](./184215-ransacked.json) |
 | Ransei no Hasha | 46069 | [46069-ransei-no-hasha.json](./46069-ransei-no-hasha.json) |
 | Ransomware Dating Sim | 124221 | [124221-ransomware-dating-sim.json](./124221-ransomware-dating-sim.json) |
+| RantCPU's: ClickBait | 310239 | [310239-rantcpus-clickbait.json](./310239-rantcpus-clickbait.json) |
 | Rantou Proresu | 83211 | [83211-rantou-proresu.json](./83211-rantou-proresu.json) |
 | Ranveer vs. Wild With Bear Grylls | 256869 | [256869-ranveer-vs-wild-with-bear-grylls.json](./256869-ranveer-vs-wild-with-bear-grylls.json) |
 | Ranx | 77645 | [77645-ranx.json](./77645-ranx.json) |
