@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1428: Shadows over Silesia - Tourney at the Bear Rock | 289334 | [289334-1428-shadows-over-silesia-tourney-at-the-bear-rock.json](./289334-1428-shadows-over-silesia-tourney-at-the-bear-rock.json) |
 | 144 | 370382 | [370382-144.json](./370382-144.json) |
 | 1483 Anno Domini | 409431 | [409431-1483-anno-domini.json](./409431-1483-anno-domini.json) |
+| 1492 | 309159 | [309159-1492.json](./309159-1492.json) |
 | 1492: Anno Domini | 402829 | [402829-1492-anno-domini.json](./402829-1492-anno-domini.json) |
 | 1492: Colonization of the New World | 373086 | [373086-1492-colonization-of-the-new-world.json](./373086-1492-colonization-of-the-new-world.json) |
 | 1497: Five Years After | 38856 | [38856-1497-five-years-after.json](./38856-1497-five-years-after.json) |
@@ -1406,6 +1407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 180° | 406392 | [406392-180.json](./406392-180.json) |
 | 180° Connect | 386733 | [386733-180-connect.json](./386733-180-connect.json) |
 | 1811 | 343812 | [343812-1811.json](./343812-1811.json) |
+| 1812: La Aventura | 309160 | [309160-1812-la-aventura.json](./309160-1812-la-aventura.json) |
 | 1812: Napoleon Wars | 123773 | [123773-1812-napoleon-wars.json](./123773-1812-napoleon-wars.json) |
 | 1812: The Invasion of Canada | 28752 | [28752-1812-the-invasion-of-canada.json](./28752-1812-the-invasion-of-canada.json) |
 | 1815 | 12354 | [12354-1815.json](./12354-1815.json) |
@@ -3312,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 64 Wars | 182340 | [182340-64-wars.json](./182340-64-wars.json) |
 | 64.0 | 27801 | [27801-64-0.json](./27801-64-0.json) |
 | 64th Street: A Detective Story | 6735 | [6735-64th-street-a-detective-story.json](./6735-64th-street-a-detective-story.json) |
+| 65536-in-1 | 309143 | [309143-65536-in-1.json](./309143-65536-in-1.json) |
 | 65536: Super 2048 | 95316 | [95316-65536-super-2048.json](./95316-65536-super-2048.json) |
 | 66 | 400754 | [400754-66.json](./400754-66.json) |
 | 66 Bricks | 241353 | [241353-66-bricks.json](./241353-66-bricks.json) |
@@ -3803,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 99 Nights In The Apocalypse | 414522 | [414522-99-nights-in-the-apocalypse.json](./414522-99-nights-in-the-apocalypse.json) |
 | 99 no Namida | 66970 | [66970-99-no-namida.json](./66970-99-no-namida.json) |
 | 99 Problems | 353316 | [353316-99-problems.json](./353316-99-problems.json) |
+| 99 Species | 309158 | [309158-99-species.json](./309158-99-species.json) |
 | 99 Spirits | 9937 | [9937-99-spirits.json](./9937-99-spirits.json) |
 | 99 Spirits: Cage of Night | 11438 | [11438-99-spirits-cage-of-night.json](./11438-99-spirits-cage-of-night.json) |
 | 99 Spirits: Complete Collection | 52349 | [52349-99-spirits-complete-collection.json](./52349-99-spirits-complete-collection.json) |
