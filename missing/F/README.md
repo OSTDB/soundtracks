@@ -12819,6 +12819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | FrenchConnection | 364774 | [364774-frenchconnection.json](./364774-frenchconnection.json) |
 | Frenchy Bird | 85634 | [85634-frenchy-bird.json](./85634-frenchy-bird.json) |
+| Frenemies | 247795 | [247795-frenemies.json](./247795-frenemies.json) |
 | Frenesis | 47146 | [47146-frenesis.json](./47146-frenesis.json) |
 | Frenetic | 15226 | [15226-frenetic.json](./15226-frenetic.json) |
 | Frenetika | 372083 | [372083-frenetika.json](./372083-frenetika.json) |
@@ -14937,6 +14938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FurryMUCK | 262192 | [262192-furrymuck.json](./262192-furrymuck.json) |
 | Furs of Fury | 149049 | [149049-furs-of-fury.json](./149049-furs-of-fury.json) |
 | Fursan al-Aqsa: The Knights of the Al-Aqsa Mosque | 166499 | [166499-fursan-al-aqsa-the-knights-of-the-al-aqsa-mosque.json](./166499-fursan-al-aqsa-the-knights-of-the-al-aqsa-mosque.json) |
+| Fursona Festival | 247724 | [247724-fursona-festival.json](./247724-fursona-festival.json) |
 | Fürst Marigor und die Tobis | 142302 | [142302-furst-marigor-und-die-tobis.json](./142302-furst-marigor-und-die-tobis.json) |
 | FurstDate: A Furry Dating Simulator | 368127 | [368127-furstdate-a-furry-dating-simulator.json](./368127-furstdate-a-furry-dating-simulator.json) |
 | Further | 291743 | [291743-further.json](./291743-further.json) |
