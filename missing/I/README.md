@@ -7216,6 +7216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Hard Being a Meatball | 132808 | [132808-its-hard-being-a-meatball.json](./132808-its-hard-being-a-meatball.json) |
 | It's Harvest Time! | 169595 | [169595-its-harvest-time.json](./169595-its-harvest-time.json) |
 | It's Hasegawa-san!? | 370474 | [370474-its-hasegawa-san.json](./370474-its-hasegawa-san.json) |
+| It's Hot Pot Time! | 264935 | [264935-its-hot-pot-time.json](./264935-its-hot-pot-time.json) |
 | It's Just A Jump! | 360836 | [360836-its-just-a-jump.json](./360836-its-just-a-jump.json) |
 | It's Just the End of the World, Love | 179860 | [179860-its-just-the-end-of-the-world-love.json](./179860-its-just-the-end-of-the-world-love.json) |
 | It's Just TIC TAC TOE | 101704 | [101704-its-just-tic-tac-toe.json](./101704-its-just-tic-tac-toe.json) |
