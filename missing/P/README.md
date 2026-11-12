@@ -2436,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parasite Elevator | 419438 | [419438-parasite-elevator.json](./419438-parasite-elevator.json) |
 | Parasite Eve | 7357 | [7357-parasite-eve.json](./7357-parasite-eve.json) |
 | Parasite Eve II | 7358 | [7358-parasite-eve-ii.json](./7358-parasite-eve-ii.json) |
+| Parasite Flower | 274172 | [274172-parasite-flower.json](./274172-parasite-flower.json) |
 | Parasite in City | 131839 | [131839-parasite-in-city.json](./131839-parasite-in-city.json) |
 | Parasite in Love | 219107 | [219107-parasite-in-love.json](./219107-parasite-in-love.json) |
 | Parasite Inside | 337012 | [337012-parasite-inside.json](./337012-parasite-inside.json) |
@@ -3800,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pazuru | 282371 | [282371-pazuru.json](./282371-pazuru.json) |
 | Pazuru | 85595 | [85595-pazuru.json](./85595-pazuru.json) |
 | Pazuru in Airou | 65177 | [65177-pazuru-in-airou.json](./65177-pazuru-in-airou.json) |
+| Pazuzu | 274169 | [274169-pazuzu.json](./274169-pazuzu.json) |
 | Pazzon | 92649 | [92649-pazzon.json](./92649-pazzon.json) |
 | PB Makes Lunch | 177411 | [177411-pb-makes-lunch.json](./177411-pb-makes-lunch.json) |
 | PBA Bowling | 15507 | [15507-pba-bowling.json](./15507-pba-bowling.json) |
