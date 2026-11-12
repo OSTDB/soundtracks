@@ -3849,6 +3849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telegraph Crosswords | 66975 | [66975-telegraph-crosswords.json](./66975-telegraph-crosswords.json) |
 | Telegraph Sudoku & Kakuro | 85429 | [85429-telegraph-sudoku-and-kakuro.json](./85429-telegraph-sudoku-and-kakuro.json) |
 | Telegrum Clicker | 100574 | [100574-telegrum-clicker.json](./100574-telegrum-clicker.json) |
+| Telejogo | 292171 | [292171-telejogo.json](./292171-telejogo.json) |
 | Telejogo II | 292228 | [292228-telejogo-ii.json](./292228-telejogo-ii.json) |
 | Telekinesis Kyle | 20116 | [20116-telekinesis-kyle.json](./20116-telekinesis-kyle.json) |
 | Telekinetic | 113228 | [113228-telekinetic.json](./113228-telekinetic.json) |
@@ -29400,6 +29401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toybox | 288114 | [288114-toybox.json](./288114-toybox.json) |
 | Toybox Aviation | 194421 | [194421-toybox-aviation.json](./194421-toybox-aviation.json) |
 | ToyBox Christmas | 279867 | [279867-toybox-christmas.json](./279867-toybox-christmas.json) |
+| ToyBox Easter | 291659 | [291659-toybox-easter.json](./291659-toybox-easter.json) |
 | Toybox Escape | 388468 | [388468-toybox-escape.json](./388468-toybox-escape.json) |
 | ToyBox Puzzle | 236407 | [236407-toybox-puzzle.json](./236407-toybox-puzzle.json) |
 | Toybox Titans | 382707 | [382707-toybox-titans.json](./382707-toybox-titans.json) |
