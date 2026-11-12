@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddment | 297169 | [297169-oddment.json](./297169-oddment.json) |
 | Oddnose | 247351 | [247351-oddnose.json](./247351-oddnose.json) |
 | OddPlanet | 32782 | [32782-oddplanet.json](./32782-oddplanet.json) |
+| Oddrietta | 251276 | [251276-oddrietta.json](./251276-oddrietta.json) |
 | Oddroom | 337021 | [337021-oddroom.json](./337021-oddroom.json) |
 | Odds and Ends | 179798 | [179798-odds-and-ends.json](./179798-odds-and-ends.json) |
 | Odds at Oddity | 389986 | [389986-odds-at-oddity.json](./389986-odds-at-oddity.json) |
@@ -2976,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One: Kagayaku Kisetsu he | 72705 | [72705-one-kagayaku-kisetsu-he.json](./72705-one-kagayaku-kisetsu-he.json) |
 | One: Secret Empire | 298657 | [298657-one-secret-empire.json](./298657-one-secret-empire.json) |
 | One: The Card Game | 165223 | [165223-one-the-card-game.json](./165223-one-the-card-game.json) |
+| One. | 251159 | [251159-one.json](./251159-one.json) |
 | One's Lonesome, Two's Company | 212804 | [212804-ones-lonesome-twos-company.json](./212804-ones-lonesome-twos-company.json) |
 | One's Own Exile | 344011 | [344011-ones-own-exile.json](./344011-ones-own-exile.json) |
 | One/Iro | 363666 | [363666-one-iro.json](./363666-one-iro.json) |
@@ -4599,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orkicidium | 183516 | [183516-orkicidium.json](./183516-orkicidium.json) |
 | Orla Frøsnapper | 172596 | [172596-orla-fr-snapper.json](./172596-orla-fr-snapper.json) |
 | Orlando Theme Park VR | 292691 | [292691-orlando-theme-park-vr.json](./292691-orlando-theme-park-vr.json) |
+| Orly Kuukou Satsujin Jiken | 251269 | [251269-orly-kuukou-satsujin-jiken.json](./251269-orly-kuukou-satsujin-jiken.json) |
 | Orly's Draw-A-Story | 60506 | [60506-orlys-draw-a-story.json](./60506-orlys-draw-a-story.json) |
 | ORM | 253889 | [253889-orm.json](./253889-orm.json) |
 | Ormod: Directive | 378378 | [378378-ormod-directive.json](./378378-ormod-directive.json) |
@@ -5476,6 +5479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak of Evil | 274160 | [274160-outbreak-of-evil.json](./274160-outbreak-of-evil.json) |
 | Outbreak Overlord | 291789 | [291789-outbreak-overlord.json](./291789-outbreak-overlord.json) |
 | Outbreak Survivors | 317976 | [317976-outbreak-survivors.json](./317976-outbreak-survivors.json) |
+| Outbreak Ultimate Apocalypse | 251284 | [251284-outbreak-ultimate-apocalypse.json](./251284-outbreak-ultimate-apocalypse.json) |
 | Outbreak Zero | 365085 | [365085-outbreak-zero.json](./365085-outbreak-zero.json) |
 | OutBreak Zombie | 84095 | [84095-outbreak-zombie.json](./84095-outbreak-zombie.json) |
 | Outbreak Zombie Plague | 291528 | [291528-outbreak-zombie-plague.json](./291528-outbreak-zombie-plague.json) |
