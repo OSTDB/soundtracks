@@ -1712,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Museum Tycoon: Art Empire | 290288 | [290288-idle-museum-tycoon-art-empire.json](./290288-idle-museum-tycoon-art-empire.json) |
 | Idle Mythical Beasts | 387327 | [387327-idle-mythical-beasts.json](./387327-idle-mythical-beasts.json) |
 | Idle Nine Heavens | 294072 | [294072-idle-nine-heavens.json](./294072-idle-nine-heavens.json) |
+| Idle Obelisk Miner | 256567 | [256567-idle-obelisk-miner.json](./256567-idle-obelisk-miner.json) |
 | Idle Ocean Cleaner Eco Tycoon | 247211 | [247211-idle-ocean-cleaner-eco-tycoon.json](./247211-idle-ocean-cleaner-eco-tycoon.json) |
 | Idle of the Dead | 413772 | [413772-idle-of-the-dead.json](./413772-idle-of-the-dead.json) |
 | Idle Offworld Foundry | 410399 | [410399-idle-offworld-foundry.json](./410399-idle-offworld-foundry.json) |
@@ -1776,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Spa Tycoon 3D | 208923 | [208923-idle-spa-tycoon-3d.json](./208923-idle-spa-tycoon-3d.json) |
 | Idle Space | 128266 | [128266-idle-space.json](./128266-idle-space.json) |
 | Idle Space Force | 246425 | [246425-idle-space-force.json](./246425-idle-space-force.json) |
+| Idle Space Force: Retro Clicker | 256569 | [256569-idle-space-force-retro-clicker.json](./256569-idle-space-force-retro-clicker.json) |
 | Idle Space Navy | 266983 | [266983-idle-space-navy.json](./266983-idle-space-navy.json) |
 | Idle Space Shooter | 384986 | [384986-idle-space-shooter.json](./384986-idle-space-shooter.json) |
 | Idle Space Station | 214101 | [214101-idle-space-station.json](./214101-idle-space-station.json) |
