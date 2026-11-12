@@ -1542,6 +1542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanger World | 32504 | [32504-hanger-world.json](./32504-hanger-world.json) |
 | Hangin' Off! | 409331 | [409331-hangin-off.json](./409331-hangin-off.json) |
 | Hanging Crosswords | 383338 | [383338-hanging-crosswords.json](./383338-hanging-crosswords.json) |
+| Hanging Gardens | 273523 | [273523-hanging-gardens.json](./273523-hanging-gardens.json) |
 | Hanging With Friends | 65346 | [65346-hanging-with-friends.json](./65346-hanging-with-friends.json) |
 | Hangler | 388728 | [388728-hangler.json](./388728-hangler.json) |
 | Hangman | 17259 | [17259-hangman.json](./17259-hangman.json) |
@@ -6932,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Blast | 341604 | [341604-hex-blast.json](./341604-hex-blast.json) |
 | Hex Blocks Puzzle | 101754 | [101754-hex-blocks-puzzle.json](./101754-hex-blocks-puzzle.json) |
 | Hex Bots | 338313 | [338313-hex-bots.json](./338313-hex-bots.json) |
+| Hex Cats | 273605 | [273605-hex-cats.json](./273605-hex-cats.json) |
 | Hex Core | 404773 | [404773-hex-core.json](./404773-hex-core.json) |
 | Hex Defense - VR | 114079 | [114079-hex-defense-vr.json](./114079-hex-defense-vr.json) |
 | Hex Empire | 101917 | [101917-hex-empire.json](./101917-hex-empire.json) |
@@ -8445,6 +8447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Hou | 251461 | [251461-higurashi-no-naku-koro-ni-hou.json](./251461-higurashi-no-naku-koro-ni-hou.json) |
 | Higurashi no Naku Koro ni Hou | 95086 | [95086-higurashi-no-naku-koro-ni-hou.json](./95086-higurashi-no-naku-koro-ni-hou.json) |
 | Higurashi no Naku Koro ni Hou + Origin | 251513 | [251513-higurashi-no-naku-koro-ni-hou-origin.json](./251513-higurashi-no-naku-koro-ni-hou-origin.json) |
+| Higurashi no Naku Koro ni Hou + Umineko no Naku Koro ni Saku Twin Pack | 273524 | [273524-higurashi-no-naku-koro-ni-hou-umineko-no-naku-koro-ni-saku-twin-pack.json](./273524-higurashi-no-naku-koro-ni-hou-umineko-no-naku-koro-ni-saku-twin-pack.json) |
 | Higurashi no Naku Koro ni Hou: Batsukoishi-hen | 263930 | [263930-higurashi-no-naku-koro-ni-hou-batsukoishi-hen.json](./263930-higurashi-no-naku-koro-ni-hou-batsukoishi-hen.json) |
 | Higurashi no Naku Koro ni Hou: Complete Edition | 136817 | [136817-higurashi-no-naku-koro-ni-hou-complete-edition.json](./136817-higurashi-no-naku-koro-ni-hou-complete-edition.json) |
 | Higurashi no Naku Koro ni Hou: EG The Best | 136779 | [136779-higurashi-no-naku-koro-ni-hou-eg-the-best.json](./136779-higurashi-no-naku-koro-ni-hou-eg-the-best.json) |
@@ -8542,7 +8545,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi When They Cry Hou: Ch.8 Matsuribayashi | 132344 | [132344-higurashi-when-they-cry-hou-ch-8-matsuribayashi.json](./132344-higurashi-when-they-cry-hou-ch-8-matsuribayashi.json) |
 | Higurashi When They Cry Hou: Question Arcs | 263402 | [263402-higurashi-when-they-cry-hou-question-arcs.json](./263402-higurashi-when-they-cry-hou-question-arcs.json) |
 | Higurashi When They Cry Hou+ | 273086 | [273086-higurashi-when-they-cry-hou.json](./273086-higurashi-when-they-cry-hou.json) |
+| Higurashi When They Cry Hou+: Hinamizawa Bus Stop | 273075 | [273075-higurashi-when-they-cry-hou-hinamizawa-bus-stop.json](./273075-higurashi-when-they-cry-hou-hinamizawa-bus-stop.json) |
+| Higurashi When They Cry Hou+: Kamikashimashi Chapter | 273072 | [273072-higurashi-when-they-cry-hou-kamikashimashi-chapter.json](./273072-higurashi-when-they-cry-hou-kamikashimashi-chapter.json) |
 | Higurashi When They Cry Hou+: Mehagashi Chapter | 273084 | [273084-higurashi-when-they-cry-hou-mehagashi-chapter.json](./273084-higurashi-when-they-cry-hou-mehagashi-chapter.json) |
+| Higurashi When They Cry Hou+: Outbreak | 273070 | [273070-higurashi-when-they-cry-hou-outbreak.json](./273070-higurashi-when-they-cry-hou-outbreak.json) |
 | Higurashi When They Cry Kai | 138348 | [138348-higurashi-when-they-cry-kai.json](./138348-higurashi-when-they-cry-kai.json) |
 | Higurashiki | 229647 | [229647-higurashiki.json](./229647-higurashiki.json) |
 | HiHi | 369913 | [369913-hihi.json](./369913-hihi.json) |
