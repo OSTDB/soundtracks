@@ -6308,7 +6308,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aquarium Does Not Dance: Special Edition | 358245 | [358245-the-aquarium-does-not-dance-special-edition.json](./358245-the-aquarium-does-not-dance-special-edition.json) |
 | The Aquarium Does Not Dance: The Idol Who Wants to Die | 411955 | [411955-the-aquarium-does-not-dance-the-idol-who-wants-to-die.json](./411955-the-aquarium-does-not-dance-the-idol-who-wants-to-die.json) |
 | The Aquarium of Luck | 85434 | [85434-the-aquarium-of-luck.json](./85434-the-aquarium-of-luck.json) |
-| The Aquatic Adventure of the Last Human | 12598 | [12598-the-aquatic-adventure-of-the-last-human.json](./12598-the-aquatic-adventure-of-the-last-human.json) |
 | The Aquatic Games: Starring James Pond and the Aquabats | 4554 | [4554-the-aquatic-games-starring-james-pond-and-the-aquabats.json](./4554-the-aquatic-games-starring-james-pond-and-the-aquabats.json) |
 | The Aquatic Messenger | 212118 | [212118-the-aquatic-messenger.json](./212118-the-aquatic-messenger.json) |
 | The Arab League of Misfits | 412531 | [412531-the-arab-league-of-misfits.json](./412531-the-arab-league-of-misfits.json) |
