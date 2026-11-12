@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wait: The Patient | 312564 | [312564-wait-the-patient.json](./312564-wait-the-patient.json) |
 | Wait! Life is beautiful! | 81163 | [81163-wait-life-is-beautiful.json](./81163-wait-life-is-beautiful.json) |
 | Wait! Where's My Lunch | 169390 | [169390-wait-wheres-my-lunch.json](./169390-wait-wheres-my-lunch.json) |
+| Wait! You can't love me! | 309246 | [309246-wait-you-cant-love-me.json](./309246-wait-you-cant-love-me.json) |
 | Waiter | 231341 | [231341-waiter.json](./231341-waiter.json) |
 | Waiter Please! | 359319 | [359319-waiter-please.json](./359319-waiter-please.json) |
 | Waiting for an Egg | 404253 | [404253-waiting-for-an-egg.json](./404253-waiting-for-an-egg.json) |
@@ -8560,6 +8561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Derby | 46305 | [46305-world-derby.json](./46305-world-derby.json) |
 | World Destroyers | 30702 | [30702-world-destroyers.json](./30702-world-destroyers.json) |
 | World Destruction League: Thunder Tanks | 49873 | [49873-world-destruction-league-thunder-tanks.json](./49873-world-destruction-league-thunder-tanks.json) |
+| World Domination wit Cam | 309239 | [309239-world-domination-wit-cam.json](./309239-world-domination-wit-cam.json) |
 | World Drawn | 322822 | [322822-world-drawn.json](./322822-world-drawn.json) |
 | World Driver Championship | 3642 | [3642-world-driver-championship.json](./3642-world-driver-championship.json) |
 | World Eater | 367531 | [367531-world-eater.json](./367531-world-eater.json) |
