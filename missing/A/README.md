@@ -945,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Most Important Night | 371491 | [371491-a-most-important-night.json](./371491-a-most-important-night.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
 | A Moth Batters Against Glass | 138962 | [138962-a-moth-batters-against-glass.json](./138962-a-moth-batters-against-glass.json) |
+| A Mother's Inferno | 259207 | [259207-a-mothers-inferno.json](./259207-a-mothers-inferno.json) |
 | A Mountain Called Hope | 407748 | [407748-a-mountain-called-hope.json](./407748-a-mountain-called-hope.json) |
 | A Mountain of One | 240040 | [240040-a-mountain-of-one.json](./240040-a-mountain-of-one.json) |
 | A Moustache in the House | 128117 | [128117-a-moustache-in-the-house.json](./128117-a-moustache-in-the-house.json) |
@@ -1205,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Salem Witch Trial | 84050 | [84050-a-salem-witch-trial.json](./84050-a-salem-witch-trial.json) |
 | A Sandwich, A Leash, and A Storm | 337701 | [337701-a-sandwich-a-leash-and-a-storm.json](./337701-a-sandwich-a-leash-and-a-storm.json) |
 | A Sceptic's Guide to Magic | 118127 | [118127-a-sceptics-guide-to-magic.json](./118127-a-sceptics-guide-to-magic.json) |
+| A Scoundrel in the Underlair | 259302 | [259302-a-scoundrel-in-the-underlair.json](./259302-a-scoundrel-in-the-underlair.json) |
 | A Sea of Grey & Green | 413864 | [413864-a-sea-of-grey-and-green.json](./413864-a-sea-of-grey-and-green.json) |
 | A Second Before the War | 192814 | [192814-a-second-before-the-war.json](./192814-a-second-before-the-war.json) |
 | A Second Before Us | 28671 | [28671-a-second-before-us.json](./28671-a-second-before-us.json) |
@@ -14110,6 +14112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Chaos | 322247 | [322247-arcane-chaos.json](./322247-arcane-chaos.json) |
 | Arcane Commander: Overdrive | 419058 | [419058-arcane-commander-overdrive.json](./419058-arcane-commander-overdrive.json) |
 | Arcane Coven | 350441 | [350441-arcane-coven.json](./350441-arcane-coven.json) |
+| Arcane Depths | 259197 | [259197-arcane-depths.json](./259197-arcane-depths.json) |
 | Arcane Dice Wars: A Villain's Heart | 332629 | [332629-arcane-dice-wars-a-villains-heart.json](./332629-arcane-dice-wars-a-villains-heart.json) |
 | Arcane Dimensions | 132820 | [132820-arcane-dimensions.json](./132820-arcane-dimensions.json) |
 | Arcane Domains | 114380 | [114380-arcane-domains.json](./114380-arcane-domains.json) |
@@ -14798,6 +14801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argonauts Agency: When Spring Withered | 412260 | [412260-argonauts-agency-when-spring-withered.json](./412260-argonauts-agency-when-spring-withered.json) |
 | Argonauts Agency: Wrath of Olympus | 371127 | [371127-argonauts-agency-wrath-of-olympus.json](./371127-argonauts-agency-wrath-of-olympus.json) |
 | Argonauts Path | 309492 | [309492-argonauts-path.json](./309492-argonauts-path.json) |
+| Argonavis: Kimi ga Mita Stage he | 259201 | [259201-argonavis-kimi-ga-mita-stage-he.json](./259201-argonavis-kimi-ga-mita-stage-he.json) |
 | Argonisos | 224625 | [224625-argonisos.json](./224625-argonisos.json) |
 | Argonus and the Gods of Stone | 118458 | [118458-argonus-and-the-gods-of-stone.json](./118458-argonus-and-the-gods-of-stone.json) |
 | Argos | 12256 | [12256-argos.json](./12256-argos.json) |
@@ -15938,6 +15942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificiality | 115144 | [115144-artificiality.json](./115144-artificiality.json) |
 | Artigo | 202564 | [202564-artigo.json](./202564-artigo.json) |
 | Artika.1 | 74317 | [74317-artika-1.json](./74317-artika-1.json) |
+| Artilerry F | 259228 | [259228-artilerry-f.json](./259228-artilerry-f.json) |
 | Artillerists | 26687 | [26687-artillerists.json](./26687-artillerists.json) |
 | ArtilleRoyalty | 374681 | [374681-artilleroyalty.json](./374681-artilleroyalty.json) |
 | Artillery | 93527 | [93527-artillery.json](./93527-artillery.json) |
