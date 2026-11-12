@@ -959,6 +959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the VoYD Genesis | 255816 | [255816-call-of-the-voyd-genesis.json](./255816-call-of-the-voyd-genesis.json) |
 | Call of the Wild: The Angler | 205775 | [205775-call-of-the-wild-the-angler.json](./205775-call-of-the-wild-the-angler.json) |
 | Call of the Wild: The Angler - Deluxe Edition | 264133 | [264133-call-of-the-wild-the-angler-deluxe-edition.json](./264133-call-of-the-wild-the-angler-deluxe-edition.json) |
+| Call of the Wild: The Angler - Gold Fishing Bundle | 301760 | [301760-call-of-the-wild-the-angler-gold-fishing-bundle.json](./301760-call-of-the-wild-the-angler-gold-fishing-bundle.json) |
 | Call of the Wild: The Angler - Japan Fishing Reserve | 331812 | [331812-call-of-the-wild-the-angler-japan-fishing-reserve.json](./331812-call-of-the-wild-the-angler-japan-fishing-reserve.json) |
 | Call of the Wild: The Angler - LakePal Bait Boat Pack | 318443 | [318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json](./318443-call-of-the-wild-the-angler-lakepal-bait-boat-pack.json) |
 | Call of the Wild: The Angler - Launch Edition | 264161 | [264161-call-of-the-wild-the-angler-launch-edition.json](./264161-call-of-the-wild-the-angler-launch-edition.json) |
@@ -968,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Wild: The Angler - Silver Fishing Bundle | 301764 | [301764-call-of-the-wild-the-angler-silver-fishing-bundle.json](./301764-call-of-the-wild-the-angler-silver-fishing-bundle.json) |
 | Call of the Wild: The Angler - South Africa Reserve | 290742 | [290742-call-of-the-wild-the-angler-south-africa-reserve.json](./290742-call-of-the-wild-the-angler-south-africa-reserve.json) |
 | Call of the Wild: The Angler - Ultimate Fishing Bundle | 301333 | [301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json](./301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json) |
+| Call of the Wild: The Angler - Ultra Cruiser Boat Pack | 301733 | [301733-call-of-the-wild-the-angler-ultra-cruiser-boat-pack.json](./301733-call-of-the-wild-the-angler-ultra-cruiser-boat-pack.json) |
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
 | Call of the Wild: The Angler – Spain Reserve | 272651 | [272651-call-of-the-wild-the-angler-spain-reserve.json](./272651-call-of-the-wild-the-angler-spain-reserve.json) |
 | Call of the Winter Monarch | 183758 | [183758-call-of-the-winter-monarch.json](./183758-call-of-the-winter-monarch.json) |
@@ -5914,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Century: Age of Ashes - Colossus Deluxe Pack | 256405 | [256405-century-age-of-ashes-colossus-deluxe-pack.json](./256405-century-age-of-ashes-colossus-deluxe-pack.json) |
 | Century: Age of Ashes - Dark Goliath Pack | 226301 | [226301-century-age-of-ashes-dark-goliath-pack.json](./226301-century-age-of-ashes-dark-goliath-pack.json) |
 | Century: Age of Ashes - Dragon Eggs Edition | 218495 | [218495-century-age-of-ashes-dragon-eggs-edition.json](./218495-century-age-of-ashes-dragon-eggs-edition.json) |
+| Century: Age of Ashes - Easternvard Renaissance Edition | 301755 | [301755-century-age-of-ashes-easternvard-renaissance-edition.json](./301755-century-age-of-ashes-easternvard-renaissance-edition.json) |
 | Century: Age of Ashes - Elite Sentry Edition | 234820 | [234820-century-age-of-ashes-elite-sentry-edition.json](./234820-century-age-of-ashes-elite-sentry-edition.json) |
 | Century: Age of Ashes - Fellow Edition | 199640 | [199640-century-age-of-ashes-fellow-edition.json](./199640-century-age-of-ashes-fellow-edition.json) |
 | Century: Age of Ashes - First Flight Edition | 199632 | [199632-century-age-of-ashes-first-flight-edition.json](./199632-century-age-of-ashes-first-flight-edition.json) |
@@ -9910,6 +9913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cities: Skylines - Race Day | 393462 | [393462-cities-skylines-race-day.json](./393462-cities-skylines-race-day.json) |
 | Cities: Skylines - Rail Hawk Radio | 149991 | [149991-cities-skylines-rail-hawk-radio.json](./149991-cities-skylines-rail-hawk-radio.json) |
 | Cities: Skylines - Remastered | 237966 | [237966-cities-skylines-remastered.json](./237966-cities-skylines-remastered.json) |
+| Cities: Skylines - Remastered: Industries | 301740 | [301740-cities-skylines-remastered-industries.json](./301740-cities-skylines-remastered-industries.json) |
 | Cities: Skylines - Rock City Radio | 119963 | [119963-cities-skylines-rock-city-radio.json](./119963-cities-skylines-rock-city-radio.json) |
 | Cities: Skylines - Shoreline Radio | 220002 | [220002-cities-skylines-shoreline-radio.json](./220002-cities-skylines-shoreline-radio.json) |
 | Cities: Skylines - Snowfall | 16602 | [16602-cities-skylines-snowfall.json](./16602-cities-skylines-snowfall.json) |
@@ -11049,6 +11053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click On Candy Together | 303954 | [303954-click-on-candy-together.json](./303954-click-on-candy-together.json) |
 | Click on Clocks Together | 312394 | [312394-click-on-clocks-together.json](./312394-click-on-clocks-together.json) |
 | Click On Cups Together | 309480 | [309480-click-on-cups-together.json](./309480-click-on-cups-together.json) |
+| Click On Ladybugs Together | 301712 | [301712-click-on-ladybugs-together.json](./301712-click-on-ladybugs-together.json) |
 | Click On Lanterns Together | 303951 | [303951-click-on-lanterns-together.json](./303951-click-on-lanterns-together.json) |
 | Click on piña coladas together | 306023 | [306023-click-on-pina-coladas-together.json](./306023-click-on-pina-coladas-together.json) |
 | Click On Red Pandas Together | 303955 | [303955-click-on-red-pandas-together.json](./303955-click-on-red-pandas-together.json) |
@@ -16390,6 +16395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Tankinator | 292548 | [292548-cosmic-tankinator.json](./292548-cosmic-tankinator.json) |
 | Cosmic Tempest | 368603 | [368603-cosmic-tempest.json](./368603-cosmic-tempest.json) |
 | Cosmic Trail | 75818 | [75818-cosmic-trail.json](./75818-cosmic-trail.json) |
+| Cosmic Trip | 301728 | [301728-cosmic-trip.json](./301728-cosmic-trip.json) |
 | Cosmic Trip | 33897 | [33897-cosmic-trip.json](./33897-cosmic-trip.json) |
 | Cosmic Trip: Deluxe Edition | 52825 | [52825-cosmic-trip-deluxe-edition.json](./52825-cosmic-trip-deluxe-edition.json) |
 | Cosmic Tunnels | 23899 | [23899-cosmic-tunnels.json](./23899-cosmic-tunnels.json) |
@@ -21264,6 +21270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse Ahoy! | 176305 | [176305-curse-ahoy.json](./176305-curse-ahoy.json) |
 | Curse at Twilight: Thief of Souls | 417770 | [417770-curse-at-twilight-thief-of-souls.json](./417770-curse-at-twilight-thief-of-souls.json) |
 | Curse at Twilight: Thief of Souls - Extended Edition | 417771 | [417771-curse-at-twilight-thief-of-souls-extended-edition.json](./417771-curse-at-twilight-thief-of-souls-extended-edition.json) |
+| Curse Bringer | 301714 | [301714-curse-bringer.json](./301714-curse-bringer.json) |
 | Curse Chapter: Dawnthief | 382365 | [382365-curse-chapter-dawnthief.json](./382365-curse-chapter-dawnthief.json) |
 | Curse Crackers: For Whom the Belle Toils | 172413 | [172413-curse-crackers-for-whom-the-belle-toils.json](./172413-curse-crackers-for-whom-the-belle-toils.json) |
 | Curse Errant | 278928 | [278928-curse-errant.json](./278928-curse-errant.json) |
@@ -22525,6 +22532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynthia: Hidden in the Moonshadow - Extended Edition | 313438 | [313438-cynthia-hidden-in-the-moonshadow-extended-edition.json](./313438-cynthia-hidden-in-the-moonshadow-extended-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Gold Edition | 324382 | [324382-cynthia-hidden-in-the-moonshadow-gold-edition.json](./324382-cynthia-hidden-in-the-moonshadow-gold-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Platinum Edition | 308585 | [308585-cynthia-hidden-in-the-moonshadow-platinum-edition.json](./308585-cynthia-hidden-in-the-moonshadow-platinum-edition.json) |
+| Cynthia: Hidden in the Moonshadow - Premium Edition | 301746 | [301746-cynthia-hidden-in-the-moonshadow-premium-edition.json](./301746-cynthia-hidden-in-the-moonshadow-premium-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Silver Edition | 333681 | [333681-cynthia-hidden-in-the-moonshadow-silver-edition.json](./333681-cynthia-hidden-in-the-moonshadow-silver-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Special Edition | 306491 | [306491-cynthia-hidden-in-the-moonshadow-special-edition.json](./306491-cynthia-hidden-in-the-moonshadow-special-edition.json) |
 | Cynthia: Hidden in the Moonshadow - Summer Edition | 317261 | [317261-cynthia-hidden-in-the-moonshadow-summer-edition.json](./317261-cynthia-hidden-in-the-moonshadow-summer-edition.json) |
