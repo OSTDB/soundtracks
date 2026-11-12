@@ -3368,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
 | Cartels | 190300 | [190300-cartels.json](./190300-cartels.json) |
 | Cartels & Cutthroats | 22497 | [22497-cartels-and-cutthroats.json](./22497-cartels-and-cutthroats.json) |
+| Cartenstein | 309150 | [309150-cartenstein.json](./309150-cartenstein.json) |
 | Carter Story | 202637 | [202637-carter-story.json](./202637-carter-story.json) |
 | Cartesian | 29392 | [29392-cartesian.json](./29392-cartesian.json) |
 | Carth | 164061 | [164061-carth.json](./164061-carth.json) |
@@ -5030,6 +5031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Around Us: Yarn Ball | 416389 | [416389-cats-around-us-yarn-ball.json](./416389-cats-around-us-yarn-ball.json) |
 | Cats Away | 352180 | [352180-cats-away.json](./352180-cats-away.json) |
 | Cats Balance | 296405 | [296405-cats-balance.json](./296405-cats-balance.json) |
+| Cats Baseball | 308669 | [308669-cats-baseball.json](./308669-cats-baseball.json) |
 | Cats Bounce Ball | 338189 | [338189-cats-bounce-ball.json](./338189-cats-bounce-ball.json) |
 | Cats Bundle | 273329 | [273329-cats-bundle.json](./273329-cats-bundle.json) |
 | Cats Catching Mice: The Black and White World | 347989 | [347989-cats-catching-mice-the-black-and-white-world.json](./347989-cats-catching-mice-the-black-and-white-world.json) |
@@ -16237,6 +16239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic DJ | 14400 | [14400-cosmic-dj.json](./14400-cosmic-dj.json) |
 | Cosmic Dream | 229429 | [229429-cosmic-dream.json](./229429-cosmic-dream.json) |
 | Cosmic Dream | 380091 | [380091-cosmic-dream.json](./380091-cosmic-dream.json) |
+| Cosmic Drift | 308694 | [308694-cosmic-drift.json](./308694-cosmic-drift.json) |
 | Cosmic Dust & Rust | 32635 | [32635-cosmic-dust-and-rust.json](./32635-cosmic-dust-and-rust.json) |
 | Cosmic Epsilon | 48689 | [48689-cosmic-epsilon.json](./48689-cosmic-epsilon.json) |
 | Cosmic Express | 27328 | [27328-cosmic-express.json](./27328-cosmic-express.json) |
@@ -17230,6 +17233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crack'ed | 11298 | [11298-cracked.json](./11298-cracked.json) |
 | Crackdown | 2896 | [2896-crackdown.json](./2896-crackdown.json) |
 | Crackdown 2 | 2897 | [2897-crackdown-2.json](./2897-crackdown-2.json) |
+| Crackdown 2: Premium Deluge Pack | 309145 | [309145-crackdown-2-premium-deluge-pack.json](./309145-crackdown-2-premium-deluge-pack.json) |
 | Crackdown 2: Project Sunburst | 66445 | [66445-crackdown-2-project-sunburst.json](./66445-crackdown-2-project-sunburst.json) |
 | Cracké Rush Endless Run & Fun | 232254 | [232254-cracke-rush-endless-run-and-fun.json](./232254-cracke-rush-endless-run-and-fun.json) |
 | Cracked | 214929 | [214929-cracked.json](./214929-cracked.json) |
