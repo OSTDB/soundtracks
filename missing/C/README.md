@@ -4080,6 +4080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania 2 Remake | 323883 | [323883-castlevania-2-remake.json](./323883-castlevania-2-remake.json) |
 | Castlevania Chronicles | 19468 | [19468-castlevania-chronicles.json](./19468-castlevania-chronicles.json) |
 | Castlevania Chronicles II: Simon's Quest | 233564 | [233564-castlevania-chronicles-ii-simons-quest.json](./233564-castlevania-chronicles-ii-simons-quest.json) |
+| Castlevania Chronicles III: Dracula's Curse | 300595 | [300595-castlevania-chronicles-iii-draculas-curse.json](./300595-castlevania-chronicles-iii-draculas-curse.json) |
 | Castlevania Collections Bundle | 319328 | [319328-castlevania-collections-bundle.json](./319328-castlevania-collections-bundle.json) |
 | Castlevania Dominus Collection | 314944 | [314944-castlevania-dominus-collection.json](./314944-castlevania-dominus-collection.json) |
 | Castlevania Double Pack | 22575 | [22575-castlevania-double-pack.json](./22575-castlevania-double-pack.json) |
@@ -10693,6 +10694,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
 | Classic Kong | 134306 | [134306-classic-kong.json](./134306-classic-kong.json) |
 | Classic Logical Bundle | 169545 | [169545-classic-logical-bundle.json](./169545-classic-logical-bundle.json) |
+| Classic Marathon | 300567 | [300567-classic-marathon.json](./300567-classic-marathon.json) |
+| Classic Marathon 2 | 300571 | [300571-classic-marathon-2.json](./300571-classic-marathon-2.json) |
+| Classic Marathon Infinity | 300572 | [300572-classic-marathon-infinity.json](./300572-classic-marathon-infinity.json) |
 | Classic Mario World 2: The Great Alliance | 260812 | [260812-classic-mario-world-2-the-great-alliance.json](./260812-classic-mario-world-2-the-great-alliance.json) |
 | Classic Mario World 3: The Finale | 260813 | [260813-classic-mario-world-3-the-finale.json](./260813-classic-mario-world-3-the-finale.json) |
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
@@ -11511,6 +11515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clothing & Alterations | 210426 | [210426-clothing-and-alterations.json](./210426-clothing-and-alterations.json) |
 | Clothing Boutique Simulator: Store Manager | 370802 | [370802-clothing-boutique-simulator-store-manager.json](./370802-clothing-boutique-simulator-store-manager.json) |
 | Clothing Store Simulator | 300492 | [300492-clothing-store-simulator.json](./300492-clothing-store-simulator.json) |
+| Clothing Store Simulator | 300580 | [300580-clothing-store-simulator.json](./300580-clothing-store-simulator.json) |
 | Clothing Store Simulator | 381799 | [381799-clothing-store-simulator.json](./381799-clothing-store-simulator.json) |
 | Clothing Store Simulator | 395637 | [395637-clothing-store-simulator.json](./395637-clothing-store-simulator.json) |
 | Clothing Store Simulator 3D | 375139 | [375139-clothing-store-simulator-3d.json](./375139-clothing-store-simulator-3d.json) |
@@ -13838,6 +13843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comfy Cosmos | 339897 | [339897-comfy-cosmos.json](./339897-comfy-cosmos.json) |
 | Comfy Cozy | 233839 | [233839-comfy-cozy.json](./233839-comfy-cozy.json) |
 | Comfy Girl | 360608 | [360608-comfy-girl.json](./360608-comfy-girl.json) |
+| Comfy Maps | 300627 | [300627-comfy-maps.json](./300627-comfy-maps.json) |
 | Comic 5trike | 148935 | [148935-comic-5trike.json](./148935-comic-5trike.json) |
 | Comic Bakery | 13831 | [13831-comic-bakery.json](./13831-comic-bakery.json) |
 | Comic Book Hero: The Greatest Cape | 33993 | [33993-comic-book-hero-the-greatest-cape.json](./33993-comic-book-hero-the-greatest-cape.json) |
@@ -17522,6 +17528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crapman | 70424 | [70424-crapman.json](./70424-crapman.json) |
 | Crappy Climber | 135746 | [135746-crappy-climber.json](./135746-crappy-climber.json) |
 | Crappy Day Enhanced Edition | 28590 | [28590-crappy-day-enhanced-edition.json](./28590-crappy-day-enhanced-edition.json) |
+| Crappy Dog | 300614 | [300614-crappy-dog.json](./300614-crappy-dog.json) |
 | Crappy Dog 2 | 300980 | [300980-crappy-dog-2.json](./300980-crappy-dog-2.json) |
 | Crappy Game | 283808 | [283808-crappy-game.json](./283808-crappy-game.json) |
 | Crappy Tube | 112955 | [112955-crappy-tube.json](./112955-crappy-tube.json) |
@@ -20682,6 +20689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeCrafter | 248596 | [248596-cubecrafter.json](./248596-cubecrafter.json) |
 | CubeCubeRubik | 284982 | [284982-cubecuberubik.json](./284982-cubecuberubik.json) |
 | Cubed | 120996 | [120996-cubed.json](./120996-cubed.json) |
+| Cubed and Dangerous | 300586 | [300586-cubed-and-dangerous.json](./300586-cubed-and-dangerous.json) |
 | Cubed Rally Redline | 238291 | [238291-cubed-rally-redline.json](./238291-cubed-rally-redline.json) |
 | CubeDood in the Memory Snatcher | 239336 | [239336-cubedood-in-the-memory-snatcher.json](./239336-cubedood-in-the-memory-snatcher.json) |
 | CubeDrift | 57568 | [57568-cubedrift.json](./57568-cubedrift.json) |
