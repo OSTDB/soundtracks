@@ -1763,6 +1763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggman Hates Furries | 213183 | [213183-eggman-hates-furries.json](./213183-eggman-hates-furries.json) |
 | Eggman no Kazuate Panic! | 261249 | [261249-eggman-no-kazuate-panic.json](./261249-eggman-no-kazuate-panic.json) |
 | Eggman Strikes | 330956 | [330956-eggman-strikes.json](./330956-eggman-strikes.json) |
+| Eggness | 290587 | [290587-eggness.json](./290587-eggness.json) |
 | Eggnog Incorporated | 142013 | [142013-eggnog-incorporated.json](./142013-eggnog-incorporated.json) |
 | Eggnogg+ | 50288 | [50288-eggnogg.json](./50288-eggnogg.json) |
 | Eggo | 358469 | [358469-eggo.json](./358469-eggo.json) |
@@ -3203,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers of Mirrim | 29141 | [29141-embers-of-mirrim.json](./29141-embers-of-mirrim.json) |
 | Embers of Spiritflame | 319681 | [319681-embers-of-spiritflame.json](./319681-embers-of-spiritflame.json) |
 | Embers of the Empire | 402913 | [402913-embers-of-the-empire.json](./402913-embers-of-the-empire.json) |
+| Embers of the Evening | 290593 | [290593-embers-of-the-evening.json](./290593-embers-of-the-evening.json) |
 | Embers of the Gods | 403648 | [403648-embers-of-the-gods.json](./403648-embers-of-the-gods.json) |
 | Embers of the Night | 348863 | [348863-embers-of-the-night.json](./348863-embers-of-the-night.json) |
 | Embers of the Zombie Battlemage: Halloween | 211755 | [211755-embers-of-the-zombie-battlemage-halloween.json](./211755-embers-of-the-zombie-battlemage-halloween.json) |
@@ -4019,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Fables: Shadow Within - Collector's Edition | 357676 | [357676-endless-fables-shadow-within-collectors-edition.json](./357676-endless-fables-shadow-within-collectors-edition.json) |
 | Endless Fables: The Minotaur's Curse | 32003 | [32003-endless-fables-the-minotaurs-curse.json](./32003-endless-fables-the-minotaurs-curse.json) |
 | Endless Fables: The Minotaur's Curse - Collector's Edition | 426074 | [426074-endless-fables-the-minotaurs-curse-collectors-edition.json](./426074-endless-fables-the-minotaurs-curse-collectors-edition.json) |
+| Endless Faith | 290591 | [290591-endless-faith.json](./290591-endless-faith.json) |
 | Endless Fighter | 107698 | [107698-endless-fighter.json](./107698-endless-fighter.json) |
 | Endless Fire | 425182 | [425182-endless-fire.json](./425182-endless-fire.json) |
 | Endless Firepower | 163460 | [163460-endless-firepower.json](./163460-endless-firepower.json) |
