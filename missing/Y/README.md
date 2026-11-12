@@ -1981,6 +1981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yukizuki no Seisou | 422661 | [422661-yukizuki-no-seisou.json](./422661-yukizuki-no-seisou.json) |
 | Yukkuri Diary | 373010 | [373010-yukkuri-diary.json](./373010-yukkuri-diary.json) |
 | Yukkuri Labo: Touhou Yukkuri no Ragdoll Simulator Game | 220302 | [220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json](./220302-yukkuri-labo-touhou-yukkuri-no-ragdoll-simulator-game.json) |
+| Yukkuri My Friends | 264845 | [264845-yukkuri-my-friends.json](./264845-yukkuri-my-friends.json) |
 | Yukkuri no Meikyuu | 54703 | [54703-yukkuri-no-meikyuu.json](./54703-yukkuri-no-meikyuu.json) |
 | Yukkuri Tanoshimi Taijin no Jigsaw Puzzle DS: Watase Seizou - Love Umi to Blue | 133811 | [133811-yukkuri-tanoshimi-taijin-no-jigsaw-puzzle-ds-watase-seizou-love-umi-to-blue.json](./133811-yukkuri-tanoshimi-taijin-no-jigsaw-puzzle-ds-watase-seizou-love-umi-to-blue.json) |
 | Yukkuri Tanoshimu Otona no Jigsaw Puzzle DS: Sekai no Meiga 1 - Renaissance, Baroque no Kyoshou | 124160 | [124160-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-1-renaissance-baroque-no-kyoshou.json](./124160-yukkuri-tanoshimu-otona-no-jigsaw-puzzle-ds-sekai-no-meiga-1-renaissance-baroque-no-kyoshou.json) |
