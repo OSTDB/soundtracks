@@ -7869,6 +7869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Story Short | 264750 | [264750-long-story-short.json](./264750-long-story-short.json) |
 | Long Tail | 189238 | [189238-long-tail.json](./189238-long-tail.json) |
 | Long Time No See | 143477 | [143477-long-time-no-see.json](./143477-long-time-no-see.json) |
+| Long Time No See | 270358 | [270358-long-time-no-see.json](./270358-long-time-no-see.json) |
 | Long Trip | 285827 | [285827-long-trip.json](./285827-long-trip.json) |
 | Long Truck Simulator | 243544 | [243544-long-truck-simulator.json](./243544-long-truck-simulator.json) |
 | Long Voyage | 426027 | [426027-long-voyage.json](./426027-long-voyage.json) |
