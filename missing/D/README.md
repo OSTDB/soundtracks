@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Frontiers | 203362 | [203362-dark-frontiers.json](./203362-dark-frontiers.json) |
 | Dark Fusion | 12036 | [12036-dark-fusion.json](./12036-dark-fusion.json) |
 | Dark Future: Blood Red States | 35251 | [35251-dark-future-blood-red-states.json](./35251-dark-future-blood-red-states.json) |
+| Dark Galaxy | 261566 | [261566-dark-galaxy.json](./261566-dark-galaxy.json) |
 | Dark Gates | 36166 | [36166-dark-gates.json](./36166-dark-gates.json) |
 | Dark Gaze: Curse of the Black Nazar | 279853 | [279853-dark-gaze-curse-of-the-black-nazar.json](./279853-dark-gaze-curse-of-the-black-nazar.json) |
 | Dark Gem Tower Defense | 274784 | [274784-dark-gem-tower-defense.json](./274784-dark-gem-tower-defense.json) |
@@ -2178,6 +2179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Throne: The Queen Rises | 220587 | [220587-dark-throne-the-queen-rises.json](./220587-dark-throne-the-queen-rises.json) |
 | Dark Thrones | 165173 | [165173-dark-thrones.json](./165173-dark-thrones.json) |
 | Dark Thrones / Witch Hunter Double Pack | 165175 | [165175-dark-thrones-witch-hunter-double-pack.json](./165175-dark-thrones-witch-hunter-double-pack.json) |
+| Dark Tide | 261498 | [261498-dark-tide.json](./261498-dark-tide.json) |
 | Dark Tides | 158696 | [158696-dark-tides.json](./158696-dark-tides.json) |
 | Dark Ties | 369849 | [369849-dark-ties.json](./369849-dark-ties.json) |
 | Dark Times | 276436 | [276436-dark-times.json](./276436-dark-times.json) |
@@ -4318,6 +4320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Trust | 383614 | [383614-dead-trust.json](./383614-dead-trust.json) |
 | Dead Tunnel | 192651 | [192651-dead-tunnel.json](./192651-dead-tunnel.json) |
 | Dead Turn | 410284 | [410284-dead-turn.json](./410284-dead-turn.json) |
+| Dead Underworld | 261568 | [261568-dead-underworld.json](./261568-dead-underworld.json) |
 | Dead Unending | 234268 | [234268-dead-unending.json](./234268-dead-unending.json) |
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
 | Dead War Rise of Zombies | 305647 | [305647-dead-war-rise-of-zombies.json](./305647-dead-war-rise-of-zombies.json) |
@@ -4772,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death & Taxes | 370868 | [370868-death-and-taxes.json](./370868-death-and-taxes.json) |
 | Death a Live | 388516 | [388516-death-a-live.json](./388516-death-a-live.json) |
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
+| Death Again | 261503 | [261503-death-again.json](./261503-death-again.json) |
 | Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
 | Death and Betrayal in Romania: A Dana Knightstone Novel | 140129 | [140129-death-and-betrayal-in-romania-a-dana-knightstone-novel.json](./140129-death-and-betrayal-in-romania-a-dana-knightstone-novel.json) |
 | Death and Betrayal in Romania: A Dana Knightstone Novel - Collector's Edition | 107838 | [107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json](./107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json) |
@@ -5516,6 +5520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckweaver: Descent Into Chaos | 260577 | [260577-deckweaver-descent-into-chaos.json](./260577-deckweaver-descent-into-chaos.json) |
 | Deckzin | 400043 | [400043-deckzin.json](./400043-deckzin.json) |
 | Declan Moses | 418761 | [418761-declan-moses.json](./418761-declan-moses.json) |
+| Declared New Apocalypse | 261486 | [261486-declared-new-apocalypse.json](./261486-declared-new-apocalypse.json) |
 | Decline | 204865 | [204865-decline.json](./204865-decline.json) |
 | Decline | 326202 | [326202-decline.json](./326202-decline.json) |
 | Decline | 405959 | [405959-decline.json](./405959-decline.json) |
