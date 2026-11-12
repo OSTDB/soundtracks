@@ -7606,6 +7606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rich Uncle: A Gay Adventure | 385307 | [385307-rich-uncle-a-gay-adventure.json](./385307-rich-uncle-a-gay-adventure.json) |
 | Rich Worker Simulator | 297811 | [297811-rich-worker-simulator.json](./297811-rich-worker-simulator.json) |
 | Richard & Alice | 10768 | [10768-richard-and-alice.json](./10768-richard-and-alice.json) |
+| Richard Benson | 252454 | [252454-richard-benson.json](./252454-richard-benson.json) |
 | Richard Burns Rally | 230466 | [230466-richard-burns-rally.json](./230466-richard-burns-rally.json) |
 | Richard Burns Rally | 6004 | [6004-richard-burns-rally.json](./6004-richard-burns-rally.json) |
 | Richard Petty's Talladega | 47187 | [47187-richard-pettys-talladega.json](./47187-richard-pettys-talladega.json) |
