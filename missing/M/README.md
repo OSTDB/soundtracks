@@ -23574,6 +23574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Ancients: Dagger | 106989 | [106989-mystery-of-ancients-dagger.json](./106989-mystery-of-ancients-dagger.json) |
 | Mystery of Camp Enigma | 147447 | [147447-mystery-of-camp-enigma.json](./147447-mystery-of-camp-enigma.json) |
 | Mystery of Camp Enigma 2 | 152503 | [152503-mystery-of-camp-enigma-2.json](./152503-mystery-of-camp-enigma-2.json) |
+| Mystery of Dust | 263728 | [263728-mystery-of-dust.json](./263728-mystery-of-dust.json) |
 | Mystery of Fortune 2 | 200302 | [200302-mystery-of-fortune-2.json](./200302-mystery-of-fortune-2.json) |
 | Mystery of Fortune 2 Refine | 187850 | [187850-mystery-of-fortune-2-refine.json](./187850-mystery-of-fortune-2-refine.json) |
 | Mystery of Fortune 3 | 175263 | [175263-mystery-of-fortune-3.json](./175263-mystery-of-fortune-3.json) |
