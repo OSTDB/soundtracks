@@ -4422,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enginefall | 283354 | [283354-enginefall.json](./283354-enginefall.json) |
 | Engines of Destruction | 211032 | [211032-engines-of-destruction.json](./211032-engines-of-destruction.json) |
 | Engines of Fury | 307259 | [307259-engines-of-fury.json](./307259-engines-of-fury.json) |
+| Engines Override | 248855 | [248855-engines-override.json](./248855-engines-override.json) |
 | England Championship Special | 71470 | [71470-england-championship-special.json](./71470-england-championship-special.json) |
 | England Exchange | 28643 | [28643-england-exchange.json](./28643-england-exchange.json) |
 | England in London | 276836 | [276836-england-in-london.json](./276836-england-in-london.json) |
