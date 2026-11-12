@@ -931,6 +931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Cops | 199776 | [199776-bad-cops.json](./199776-bad-cops.json) |
 | Bad Credit | 190420 | [190420-bad-credit.json](./190420-bad-credit.json) |
 | Bad Credit? No Problem! | 313028 | [313028-bad-credit-no-problem.json](./313028-bad-credit-no-problem.json) |
+| Bad Dark Cistern | 271365 | [271365-bad-dark-cistern.json](./271365-bad-dark-cistern.json) |
 | Bad Day | 104824 | [104824-bad-day.json](./104824-bad-day.json) |
 | Bad Day Betsy | 109863 | [109863-bad-day-betsy.json](./109863-bad-day-betsy.json) |
 | Bad Delivery: Pizza Your Heart | 381617 | [381617-bad-delivery-pizza-your-heart.json](./381617-bad-delivery-pizza-your-heart.json) |
@@ -1025,7 +1026,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -3522,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bastide | 120723 | [120723-bastide.json](./120723-bastide.json) |
 | Bastion Frontier | 353948 | [353948-bastion-frontier.json](./353948-bastion-frontier.json) |
 | Bastion of Beginnings | 297783 | [297783-bastion-of-beginnings.json](./297783-bastion-of-beginnings.json) |
+| Bastion of the Underworld | 271358 | [271358-bastion-of-the-underworld.json](./271358-bastion-of-the-underworld.json) |
 | Bastion of Valor | 353945 | [353945-bastion-of-valor.json](./353945-bastion-of-valor.json) |
 | Bastionfall | 361026 | [361026-bastionfall.json](./361026-bastionfall.json) |
 | Bastionforge | 368651 | [368651-bastionforge.json](./368651-bastionforge.json) |
@@ -5189,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Club Tycoon | 249683 | [249683-beach-club-tycoon.json](./249683-beach-club-tycoon.json) |
 | Beach Community Build Project | 272119 | [272119-beach-community-build-project.json](./272119-beach-community-build-project.json) |
 | Beach de Reach! | 45418 | [45418-beach-de-reach.json](./45418-beach-de-reach.json) |
+| Beach de Reach! DS | 271426 | [271426-beach-de-reach-ds.json](./271426-beach-de-reach-ds.json) |
 | Beach Defense: Zombie Invasion | 407795 | [407795-beach-defense-zombie-invasion.json](./407795-beach-defense-zombie-invasion.json) |
 | Beach Festival World Championship 1997 | 255362 | [255362-beach-festival-world-championship-1997.json](./255362-beach-festival-world-championship-1997.json) |
 | Beach Friends | 376465 | [376465-beach-friends.json](./376465-beach-friends.json) |
@@ -11819,6 +11821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Code | 34853 | [34853-blood-code.json](./34853-blood-code.json) |
 | Blood Code: Complete Edition | 52647 | [52647-blood-code-complete-edition.json](./52647-blood-code-complete-edition.json) |
 | Blood Code: Costume Pack | 155374 | [155374-blood-code-costume-pack.json](./155374-blood-code-costume-pack.json) |
+| Blood Colored Rust | 271353 | [271353-blood-colored-rust.json](./271353-blood-colored-rust.json) |
 | Blood Country | 348554 | [348554-blood-country.json](./348554-blood-country.json) |
 | Blood Crossroad | 291189 | [291189-blood-crossroad.json](./291189-blood-crossroad.json) |
 | Blood Crucible | 370405 | [370405-blood-crucible.json](./370405-blood-crucible.json) |
@@ -16753,6 +16756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick People | 166071 | [166071-brick-people.json](./166071-brick-people.json) |
 | Brick People | 65701 | [65701-brick-people.json](./65701-brick-people.json) |
 | Brick Rage | 243079 | [243079-brick-rage.json](./243079-brick-rage.json) |
+| Brick Red | 271349 | [271349-brick-red.json](./271349-brick-red.json) |
 | Brick Rigs | 30650 | [30650-brick-rigs.json](./30650-brick-rigs.json) |
 | Brick Shot 2 | 68339 | [68339-brick-shot-2.json](./68339-brick-shot-2.json) |
 | Brick Stack VR | 32128 | [32128-brick-stack-vr.json](./32128-brick-stack-vr.json) |
