@@ -4946,6 +4946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Regular Show: Ghost Toasters | 61142 | [61142-regular-show-ghost-toasters.json](./61142-regular-show-ghost-toasters.json) |
 | Regular Show: Mordecai and Rigby in 8-Bit Land | 6869 | [6869-regular-show-mordecai-and-rigby-in-8-bit-land.json](./6869-regular-show-mordecai-and-rigby-in-8-bit-land.json) |
 | Regular Show: Paint War | 185662 | [185662-regular-show-paint-war.json](./185662-regular-show-paint-war.json) |
+| Regular Spacecraft: Defending the Mothership | 271886 | [271886-regular-spacecraft-defending-the-mothership.json](./271886-regular-spacecraft-defending-the-mothership.json) |
 | Regular Strategy Game | 203759 | [203759-regular-strategy-game.json](./203759-regular-strategy-game.json) |
 | Regular Toad Game | 135125 | [135125-regular-toad-game.json](./135125-regular-toad-game.json) |
 | Regulars | 405775 | [405775-regulars.json](./405775-regulars.json) |
