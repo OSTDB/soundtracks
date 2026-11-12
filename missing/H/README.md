@@ -3972,6 +3972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Sword | 7318 | [7318-heavenly-sword.json](./7318-heavenly-sword.json) |
 | Heavenly Way Legend | 326013 | [326013-heavenly-way-legend.json](./326013-heavenly-way-legend.json) |
 | Heavensborne | 276535 | [276535-heavensborne.json](./276535-heavensborne.json) |
+| Heavenscape | 252442 | [252442-heavenscape.json](./252442-heavenscape.json) |
 | Heavenshatter | 351144 | [351144-heavenshatter.json](./351144-heavenshatter.json) |
 | HeavenSlinger | 228809 | [228809-heavenslinger.json](./228809-heavenslinger.json) |
 | HeavensSea | 304914 | [304914-heavenssea.json](./304914-heavenssea.json) |
@@ -12870,6 +12871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Monster | 241857 | [241857-hungry-monster.json](./241857-hungry-monster.json) |
 | Hungry Monster Food Rain | 356503 | [356503-hungry-monster-food-rain.json](./356503-hungry-monster-food-rain.json) |
 | Hungry Penguin | 223838 | [223838-hungry-penguin.json](./223838-hungry-penguin.json) |
+| Hungry Pets | 252419 | [252419-hungry-pets.json](./252419-hungry-pets.json) |
 | Hungry Piggy Vs. Chicken | 99657 | [99657-hungry-piggy-vs-chicken.json](./99657-hungry-piggy-vs-chicken.json) |
 | Hungry Pigs | 206180 | [206180-hungry-pigs.json](./206180-hungry-pigs.json) |
 | Hungry Piranha Hunting - Shark Spear-fishing world | 104527 | [104527-hungry-piranha-hunting-shark-spear-fishing-world.json](./104527-hungry-piranha-hunting-shark-spear-fishing-world.json) |
