@@ -4021,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Frequency | 319487 | [319487-ghost-frequency.json](./319487-ghost-frequency.json) |
 | Ghost Girl Ghussy: XXXL Edition | 271042 | [271042-ghost-girl-ghussy-xxxl-edition.json](./271042-ghost-girl-ghussy-xxxl-edition.json) |
 | Ghost Girl Lasling | 204035 | [204035-ghost-girl-lasling.json](./204035-ghost-girl-lasling.json) |
+| Ghost Girl Lasling: Chibi Stickers | 291134 | [291134-ghost-girl-lasling-chibi-stickers.json](./291134-ghost-girl-lasling-chibi-stickers.json) |
 | Ghost Golfing | 350721 | [350721-ghost-golfing.json](./350721-ghost-golfing.json) |
 | Ghost Grab 3000 | 116547 | [116547-ghost-grab-3000.json](./116547-ghost-grab-3000.json) |
 | Ghost Grimoire | 178949 | [178949-ghost-grimoire.json](./178949-ghost-grimoire.json) |
@@ -6107,6 +6108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goat Out Of Hell: Lost Pets | 396860 | [396860-goat-out-of-hell-lost-pets.json](./396860-goat-out-of-hell-lost-pets.json) |
 | Goat over it | 143340 | [143340-goat-over-it.json](./143340-goat-over-it.json) |
 | Goat Runner | 84873 | [84873-goat-runner.json](./84873-goat-runner.json) |
+| Goat Scourge | 292197 | [292197-goat-scourge.json](./292197-goat-scourge.json) |
 | Goat Simulator | 204123 | [204123-goat-simulator.json](./204123-goat-simulator.json) |
 | Goat Simulator 3: Baadlands: Furry Road | 374977 | [374977-goat-simulator-3-baadlands-furry-road.json](./374977-goat-simulator-3-baadlands-furry-road.json) |
 | Goat Simulator 3: Buck to the Future Pack | 397296 | [397296-goat-simulator-3-buck-to-the-future-pack.json](./397296-goat-simulator-3-buck-to-the-future-pack.json) |
@@ -8951,6 +8953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravenfall: Veil of Darkness | 323482 | [323482-gravenfall-veil-of-darkness.json](./323482-gravenfall-veil-of-darkness.json) |
 | GraveRun | 33286 | [33286-graverun.json](./33286-graverun.json) |
 | GraveRunners | 152637 | [152637-graverunners.json](./152637-graverunners.json) |
+| Graveskelet | 292205 | [292205-graveskelet.json](./292205-graveskelet.json) |
 | Gravethorn | 346293 | [346293-gravethorn.json](./346293-gravethorn.json) |
 | Gravewatch | 297868 | [297868-gravewatch.json](./297868-gravewatch.json) |
 | Gravewood High | 143991 | [143991-gravewood-high.json](./143991-gravewood-high.json) |
@@ -9822,6 +9825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Creeps | 122813 | [122813-grid-creeps.json](./122813-grid-creeps.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
 | Grid Defense | 102837 | [102837-grid-defense.json](./102837-grid-defense.json) |
+| Grid Dungeons | 292193 | [292193-grid-dungeons.json](./292193-grid-dungeons.json) |
 | Grid Empire | 347843 | [347843-grid-empire.json](./347843-grid-empire.json) |
 | Grid Force: Mask of the Goddess | 145777 | [145777-grid-force-mask-of-the-goddess.json](./145777-grid-force-mask-of-the-goddess.json) |
 | Grid Forge TD | 388647 | [388647-grid-forge-td.json](./388647-grid-forge-td.json) |
@@ -11598,6 +11602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Shop 3 | 301245 | [301245-gun-shop-3.json](./301245-gun-shop-3.json) |
 | Gun Shop Dealer Simulator | 325000 | [325000-gun-shop-dealer-simulator.json](./325000-gun-shop-dealer-simulator.json) |
 | Gun Shop Manager | 349095 | [349095-gun-shop-manager.json](./349095-gun-shop-manager.json) |
+| Gun Shop Simulator | 292216 | [292216-gun-shop-simulator.json](./292216-gun-shop-simulator.json) |
 | Gun Shop Simulator | 345969 | [345969-gun-shop-simulator.json](./345969-gun-shop-simulator.json) |
 | Gun Shop: Tidy Up | 413780 | [413780-gun-shop-tidy-up.json](./413780-gun-shop-tidy-up.json) |
 | Gun Shot! | 97198 | [97198-gun-shot.json](./97198-gun-shot.json) |
