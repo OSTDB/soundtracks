@@ -3852,6 +3852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexo | 368376 | [368376-nexo.json](./368376-nexo.json) |
 | Nexomon | 88130 | [88130-nexomon.json](./88130-nexomon.json) |
 | Nexomon + Nexomon Extinction: Complete Collection | 203097 | [203097-nexomon-nexomon-extinction-complete-collection.json](./203097-nexomon-nexomon-extinction-complete-collection.json) |
+| Nexomon 3 | 253101 | [253101-nexomon-3.json](./253101-nexomon-3.json) |
 | Nexomon: Extinction | 133905 | [133905-nexomon-extinction.json](./133905-nexomon-extinction.json) |
 | Nexonauts | 336563 | [336563-nexonauts.json](./336563-nexonauts.json) |
 | Nexoria: Dungeon Rogue Heroes | 128859 | [128859-nexoria-dungeon-rogue-heroes.json](./128859-nexoria-dungeon-rogue-heroes.json) |
