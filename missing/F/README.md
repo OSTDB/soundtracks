@@ -7214,6 +7214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishticuffs | 142681 | [142681-fishticuffs.json](./142681-fishticuffs.json) |
 | Fishton: A Town to Remember | 219785 | [219785-fishton-a-town-to-remember.json](./219785-fishton-a-town-to-remember.json) |
 | Fishtopia Tycoon 2 | 101916 | [101916-fishtopia-tycoon-2.json](./101916-fishtopia-tycoon-2.json) |
+| Fishtronomy | 304934 | [304934-fishtronomy.json](./304934-fishtronomy.json) |
 | Fishu | 409120 | [409120-fishu.json](./409120-fishu.json) |
 | FishVerse: Ultimate Fishing | 279140 | [279140-fishverse-ultimate-fishing.json](./279140-fishverse-ultimate-fishing.json) |
 | FishVille | 92386 | [92386-fishville.json](./92386-fishville.json) |
