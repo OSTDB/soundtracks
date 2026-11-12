@@ -2856,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zzed | 18936 | [18936-zzed.json](./18936-zzed.json) |
 | Zzoom | 45356 | [45356-zzoom.json](./45356-zzoom.json) |
 | ZZT | 2410 | [2410-zzt.json](./2410-zzt.json) |
+| Zzyorxx II | 270270 | [270270-zzyorxx-ii.json](./270270-zzyorxx-ii.json) |
 | Zzyzzyxx | 175634 | [175634-zzyzzyxx.json](./175634-zzyzzyxx.json) |
 | Zzz | 376218 | [376218-zzz.json](./376218-zzz.json) |
 | Zzzep | 60982 | [60982-zzzep.json](./60982-zzzep.json) |
