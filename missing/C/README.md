@@ -5114,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Hidden in Italy | 239729 | [239729-cats-hidden-in-italy.json](./239729-cats-hidden-in-italy.json) |
 | Cats Hidden in Japan | 280654 | [280654-cats-hidden-in-japan.json](./280654-cats-hidden-in-japan.json) |
 | Cats Hidden in Magic Places | 309047 | [309047-cats-hidden-in-magic-places.json](./309047-cats-hidden-in-magic-places.json) |
+| Cats Hidden in Maple Hollow | 264926 | [264926-cats-hidden-in-maple-hollow.json](./264926-cats-hidden-in-maple-hollow.json) |
 | Cats Hidden in Paris: Extra Level | 255705 | [255705-cats-hidden-in-paris-extra-level.json](./255705-cats-hidden-in-paris-extra-level.json) |
 | Cats Hidden in Spooky Places | 317895 | [317895-cats-hidden-in-spooky-places.json](./317895-cats-hidden-in-spooky-places.json) |
 | Cats Hidden Timeline | 311896 | [311896-cats-hidden-timeline.json](./311896-cats-hidden-timeline.json) |
@@ -10285,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Slicker | 12985 | [12985-city-slicker.json](./12985-city-slicker.json) |
 | City Slickers | 250647 | [250647-city-slickers.json](./250647-city-slickers.json) |
 | City Smash | 212532 | [212532-city-smash.json](./212532-city-smash.json) |
+| City Smash 2 | 264944 | [264944-city-smash-2.json](./264944-city-smash-2.json) |
 | City Smasher | 196542 | [196542-city-smasher.json](./196542-city-smasher.json) |
 | City Sniper | 151007 | [151007-city-sniper.json](./151007-city-sniper.json) |
 | City Soarers | 183762 | [183762-city-soarers.json](./183762-city-soarers.json) |
