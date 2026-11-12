@@ -6256,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Solitaire: Pleasant Dinner | 127447 | [127447-restaurant-solitaire-pleasant-dinner.json](./127447-restaurant-solitaire-pleasant-dinner.json) |
 | Restaurant Story | 343479 | [343479-restaurant-story.json](./343479-restaurant-story.json) |
 | Restaurant Tycoon | 75908 | [75908-restaurant-tycoon.json](./75908-restaurant-tycoon.json) |
+| Restaurant Tycoon Simulator | 301165 | [301165-restaurant-tycoon-simulator.json](./301165-restaurant-tycoon-simulator.json) |
 | Restaurant Tycoon: My Cooking Empire | 325893 | [325893-restaurant-tycoon-my-cooking-empire.json](./325893-restaurant-tycoon-my-cooking-empire.json) |
 | Restaurant Tycoon: My Cooking Empire - Complete Edition | 399826 | [399826-restaurant-tycoon-my-cooking-empire-complete-edition.json](./399826-restaurant-tycoon-my-cooking-empire-complete-edition.json) |
 | Restaurant Tycoon: My Cooking Empire - Cozy Corners | 378965 | [378965-restaurant-tycoon-my-cooking-empire-cozy-corners.json](./378965-restaurant-tycoon-my-cooking-empire-cozy-corners.json) |
@@ -10915,6 +10916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogueline | 209659 | [209659-rogueline.json](./209659-rogueline.json) |
 | Roguelite | 112858 | [112858-roguelite.json](./112858-roguelite.json) |
 | Roguelite 2 | 128967 | [128967-roguelite-2.json](./128967-roguelite-2.json) |
+| Roguelites in Space | 301182 | [301182-roguelites-in-space.json](./301182-roguelites-in-space.json) |
 | RogueLive | 291769 | [291769-roguelive.json](./291769-roguelive.json) |
 | Roguely | 153519 | [153519-roguely.json](./153519-roguely.json) |
 | Roguelyte | 383991 | [383991-roguelyte.json](./383991-roguelyte.json) |
@@ -13178,6 +13180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Run Kyousoukyoku | 210821 | [210821-run-run-kyousoukyoku.json](./210821-run-run-kyousoukyoku.json) |
 | Run Run My Bride! | 309428 | [309428-run-run-my-bride.json](./309428-run-run-my-bride.json) |
 | Run Run Piñata | 187261 | [187261-run-run-pinata.json](./187261-run-run-pinata.json) |
+| Run Run Water Elf | 301166 | [301166-run-run-water-elf.json](./301166-run-run-water-elf.json) |
 | Run Saber | 22358 | [22358-run-saber.json](./22358-run-saber.json) |
 | Run Salmon Run | 338692 | [338692-run-salmon-run.json](./338692-run-salmon-run.json) |
 | Run Sausage Run: Coins, Bugs and Chicken | 247754 | [247754-run-sausage-run-coins-bugs-and-chicken.json](./247754-run-sausage-run-coins-bugs-and-chicken.json) |
