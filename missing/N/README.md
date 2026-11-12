@@ -1411,8 +1411,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA 2K3 | 4030 | [4030-nba-2k3.json](./4030-nba-2k3.json) |
 | NBA 2K6 | 257114 | [257114-nba-2k6.json](./257114-nba-2k6.json) |
 | NBA 2K6 | 8835 | [8835-nba-2k6.json](./8835-nba-2k6.json) |
+| NBA 2K7 | 257118 | [257118-nba-2k7.json](./257118-nba-2k7.json) |
 | NBA 2K7 | 8836 | [8836-nba-2k7.json](./8836-nba-2k7.json) |
+| NBA 2K8 | 257120 | [257120-nba-2k8.json](./257120-nba-2k8.json) |
 | NBA 2K8 | 8837 | [8837-nba-2k8.json](./8837-nba-2k8.json) |
+| NBA 2K9 | 257121 | [257121-nba-2k9.json](./257121-nba-2k9.json) |
 | NBA 2K9 | 8838 | [8838-nba-2k9.json](./8838-nba-2k9.json) |
 | NBA 2KVR Experience | 25907 | [25907-nba-2kvr-experience.json](./25907-nba-2kvr-experience.json) |
 | NBA 3 on 3 Featuring Kobe Bryant | 49904 | [49904-nba-3-on-3-featuring-kobe-bryant.json](./49904-nba-3-on-3-featuring-kobe-bryant.json) |
