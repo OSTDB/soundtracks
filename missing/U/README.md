@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Legion | 110246 | [110246-undead-legion.json](./110246-undead-legion.json) |
 | Undead Legions II | 106353 | [106353-undead-legions-ii.json](./106353-undead-legions-ii.json) |
 | Undead Line | 46178 | [46178-undead-line.json](./46178-undead-line.json) |
+| Undead Lovers | 299619 | [299619-undead-lovers.json](./299619-undead-lovers.json) |
 | Undead Mayhem | 277614 | [277614-undead-mayhem.json](./277614-undead-mayhem.json) |
 | Undead Menace | 190311 | [190311-undead-menace.json](./190311-undead-menace.json) |
 | Undead Night Crew | 376065 | [376065-undead-night-crew.json](./376065-undead-night-crew.json) |
