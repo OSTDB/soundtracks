@@ -4054,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Happens Now? | 395180 | [395180-what-happens-now.json](./395180-what-happens-now.json) |
 | What has become of us.. | 232009 | [232009-what-has-become-of-us.json](./232009-what-has-become-of-us.json) |
 | What Has Come Before | 211796 | [211796-what-has-come-before.json](./211796-what-has-come-before.json) |
+| What Have You Done, Father? | 266452 | [266452-what-have-you-done-father.json](./266452-what-have-you-done-father.json) |
 | What Heart Heard Of, Ghost Guessed | 230389 | [230389-what-heart-heard-of-ghost-guessed.json](./230389-what-heart-heard-of-ghost-guessed.json) |
 | What I Heard | 233331 | [233331-what-i-heard.json](./233331-what-i-heard.json) |
 | What I left behind | 184054 | [184054-what-i-left-behind.json](./184054-what-i-left-behind.json) |
@@ -8256,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Warp: Animal Edition | 396222 | [396222-word-warp-animal-edition.json](./396222-word-warp-animal-edition.json) |
 | Word Warrior: Zombie Typocalypse | 278727 | [278727-word-warrior-zombie-typocalypse.json](./278727-word-warrior-zombie-typocalypse.json) |
 | Word Weasel | 200157 | [200157-word-weasel.json](./200157-word-weasel.json) |
+| Word Web by Powgi | 266526 | [266526-word-web-by-powgi.json](./266526-word-web-by-powgi.json) |
 | Word Whammer | 328210 | [328210-word-whammer.json](./328210-word-whammer.json) |
 | Word Wheel by Powgi | 119539 | [119539-word-wheel-by-powgi.json](./119539-word-wheel-by-powgi.json) |
 | Word Whip | 178970 | [178970-word-whip.json](./178970-word-whip.json) |
