@@ -698,6 +698,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaDevil | 201402 | [201402-madevil.json](./201402-madevil.json) |
 | Madfall | 350098 | [350098-madfall.json](./350098-madfall.json) |
 | Madfarmer: Lost Kingdoms and Crazy Critters | 269372 | [269372-madfarmer-lost-kingdoms-and-crazy-critters.json](./269372-madfarmer-lost-kingdoms-and-crazy-critters.json) |
+| MADFPS 2 | 281628 | [281628-madfps-2.json](./281628-madfps-2.json) |
+| MADFPSS | 281627 | [281627-madfpss.json](./281627-madfpss.json) |
 | Madfut 23 | 232128 | [232128-madfut-23.json](./232128-madfut-23.json) |
 | MadFut 25 | 327873 | [327873-madfut-25.json](./327873-madfut-25.json) |
 | Madgun | 241277 | [241277-madgun.json](./241277-madgun.json) |
@@ -730,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Brutal Fighting | 243214 | [243214-madness-brutal-fighting.json](./243214-madness-brutal-fighting.json) |
 | Madness Chambers | 246947 | [246947-madness-chambers.json](./246947-madness-chambers.json) |
 | Madness Combat | 252101 | [252101-madness-combat.json](./252101-madness-combat.json) |
+| Madness Combat FPS: Fueled by Hot Dogs | 281629 | [281629-madness-combat-fps-fueled-by-hot-dogs.json](./281629-madness-combat-fps-fueled-by-hot-dogs.json) |
 | Madness Cubed | 33259 | [33259-madness-cubed.json](./33259-madness-cubed.json) |
 | Madness Fantasy | 132930 | [132930-madness-fantasy.json](./132930-madness-fantasy.json) |
 | Madness Hydraulic | 290417 | [290417-madness-hydraulic.json](./290417-madness-hydraulic.json) |
@@ -19116,6 +19119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motherless: Season 2 - Chapter 16 | 227025 | [227025-motherless-season-2-chapter-16.json](./227025-motherless-season-2-chapter-16.json) |
 | Motherload | 19070 | [19070-motherload.json](./19070-motherload.json) |
 | Motherload: Goldium Edition | 186345 | [186345-motherload-goldium-edition.json](./186345-motherload-goldium-edition.json) |
+| Mothers and Daughters | 281782 | [281782-mothers-and-daughters.json](./281782-mothers-and-daughters.json) |
 | Mothers of the Animal Kingdom | 82194 | [82194-mothers-of-the-animal-kingdom.json](./82194-mothers-of-the-animal-kingdom.json) |
 | Mothership | 262981 | [262981-mothership.json](./262981-mothership.json) |
 | Mothership | 27211 | [27211-mothership.json](./27211-mothership.json) |
@@ -22103,6 +22107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friend Peppa Pig: Complete Edition | 214721 | [214721-my-friend-peppa-pig-complete-edition.json](./214721-my-friend-peppa-pig-complete-edition.json) |
 | My Friend Peppa Pig: Pirate Adventures | 195617 | [195617-my-friend-peppa-pig-pirate-adventures.json](./195617-my-friend-peppa-pig-pirate-adventures.json) |
 | My Friend Spooner | 22137 | [22137-my-friend-spooner.json](./22137-my-friend-spooner.json) |
+| My Friend the Spider | 281606 | [281606-my-friend-the-spider.json](./281606-my-friend-the-spider.json) |
 | My Friend Toby | 310266 | [310266-my-friend-toby.json](./310266-my-friend-toby.json) |
 | My Friend was Dehydrated | 347001 | [347001-my-friend-was-dehydrated.json](./347001-my-friend-was-dehydrated.json) |
 | My Friend, Dysentery | 415805 | [415805-my-friend-dysentery.json](./415805-my-friend-dysentery.json) |
