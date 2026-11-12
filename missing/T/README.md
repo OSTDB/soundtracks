@@ -7429,6 +7429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Byoin | 92151 | [92151-the-byoin.json](./92151-the-byoin.json) |
 | The Byouin | 230206 | [230206-the-byouin.json](./230206-the-byouin.json) |
 | The Byte | 150438 | [150438-the-byte.json](./150438-the-byte.json) |
+| The C.G.L Project | 271429 | [271429-the-c-g-l-project.json](./271429-the-c-g-l-project.json) |
 | The C.H.A.O.S. Continuum | 70784 | [70784-the-c-h-a-o-s-continuum.json](./70784-the-c-h-a-o-s-continuum.json) |
 | The C64 Collection 1 | 214533 | [214533-the-c64-collection-1.json](./214533-the-c64-collection-1.json) |
 | The C64 Collection 2 | 239138 | [239138-the-c64-collection-2.json](./239138-the-c64-collection-2.json) |
@@ -8642,6 +8643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkside Detective: A Fumble in the Dark - Tales of the Darkside | 222968 | [222968-the-darkside-detective-a-fumble-in-the-dark-tales-of-the-darkside.json](./222968-the-darkside-detective-a-fumble-in-the-dark-tales-of-the-darkside.json) |
 | The Darkside Detective: Backside of the Moon | 380945 | [380945-the-darkside-detective-backside-of-the-moon.json](./380945-the-darkside-detective-backside-of-the-moon.json) |
 | The Darkside Detective: Series Edition | 164793 | [164793-the-darkside-detective-series-edition.json](./164793-the-darkside-detective-series-edition.json) |
+| The Darkstone Halls | 271350 | [271350-the-darkstone-halls.json](./271350-the-darkstone-halls.json) |
 | The Daruma Challenge | 331279 | [331279-the-daruma-challenge.json](./331279-the-daruma-challenge.json) |
 | The Dasshutsu Game: Kiken na 5-tsu no Misshitsu | 222040 | [222040-the-dasshutsu-game-kiken-na-5-tsu-no-misshitsu.json](./222040-the-dasshutsu-game-kiken-na-5-tsu-no-misshitsu.json) |
 | The Dastardly Dairy Debacle | 134763 | [134763-the-dastardly-dairy-debacle.json](./134763-the-dastardly-dairy-debacle.json) |
@@ -9137,6 +9139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreambox | 150103 | [150103-the-dreambox.json](./150103-the-dreambox.json) |
 | The Dreamer | 323211 | [323211-the-dreamer.json](./323211-the-dreamer.json) |
 | The Dreamer Must Die | 259449 | [259449-the-dreamer-must-die.json](./259449-the-dreamer-must-die.json) |
+| The Dreamer's Demesne | 271431 | [271431-the-dreamers-demesne.json](./271431-the-dreamers-demesne.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
 | The Dreamhold | 60186 | [60186-the-dreamhold.json](./60186-the-dreamhold.json) |
 | The Dreaming City Chronicles: Quest for the Vanished World | 406302 | [406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json](./406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json) |
@@ -9277,6 +9280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Edge Of | 160124 | [160124-the-edge-of.json](./160124-the-edge-of.json) |
 | The Edge of Allegoria | 219553 | [219553-the-edge-of-allegoria.json](./219553-the-edge-of-allegoria.json) |
 | The Edge of Forever | 280957 | [280957-the-edge-of-forever.json](./280957-the-edge-of-forever.json) |
+| The Edge of Sanity | 271348 | [271348-the-edge-of-sanity.json](./271348-the-edge-of-sanity.json) |
 | The Edge of the Backrooms | 420958 | [420958-the-edge-of-the-backrooms.json](./420958-the-edge-of-the-backrooms.json) |
 | The Edge of The World Z Will Shock You | 212827 | [212827-the-edge-of-the-world-z-will-shock-you.json](./212827-the-edge-of-the-world-z-will-shock-you.json) |
 | The Edge of Time | 143216 | [143216-the-edge-of-time.json](./143216-the-edge-of-time.json) |
@@ -12112,6 +12116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Isles of the Seven Moons | 306005 | [306005-the-isles-of-the-seven-moons.json](./306005-the-isles-of-the-seven-moons.json) |
 | The Isolated | 384351 | [384351-the-isolated.json](./384351-the-isolated.json) |
 | The Isolated Town | 253594 | [253594-the-isolated-town.json](./253594-the-isolated-town.json) |
+| The Isolation | 271362 | [271362-the-isolation.json](./271362-the-isolation.json) |
 | The Isolation Project | 405884 | [405884-the-isolation-project.json](./405884-the-isolation-project.json) |
 | The Isolation Ward | 177840 | [177840-the-isolation-ward.json](./177840-the-isolation-ward.json) |
 | The Istrys | 55578 | [55578-the-istrys.json](./55578-the-istrys.json) |
@@ -12121,6 +12126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Itch | 120002 | [120002-the-itch.json](./120002-the-itch.json) |
 | The Itchy & Scratchy Game | 2834 | [2834-the-itchy-and-scratchy-game.json](./2834-the-itchy-and-scratchy-game.json) |
 | The Itchy & Scratchy Game | 368895 | [368895-the-itchy-and-scratchy-game.json](./368895-the-itchy-and-scratchy-game.json) |
+| The Ivory Tower | 271447 | [271447-the-ivory-tower.json](./271447-the-ivory-tower.json) |
 | The Jackbox Big Bang Bundle | 376263 | [376263-the-jackbox-big-bang-bundle.json](./376263-the-jackbox-big-bang-bundle.json) |
 | The Jackbox Bundle | 53750 | [53750-the-jackbox-bundle.json](./53750-the-jackbox-bundle.json) |
 | The Jackbox Decade Bundle | 295644 | [295644-the-jackbox-decade-bundle.json](./295644-the-jackbox-decade-bundle.json) |
@@ -17010,6 +17016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Russian Doll | 280733 | [280733-the-russian-doll.json](./280733-the-russian-doll.json) |
 | The Russian Roulette Game: PR | 292522 | [292522-the-russian-roulette-game-pr.json](./292522-the-russian-roulette-game-pr.json) |
 | The Rust Belt | 59786 | [59786-the-rust-belt.json](./59786-the-rust-belt.json) |
+| The Rust Forge | 271345 | [271345-the-rust-forge.json](./271345-the-rust-forge.json) |
 | The Rusted | 379377 | [379377-the-rusted.json](./379377-the-rusted.json) |
 | The Rusty Sword: Vanguard Island | 199397 | [199397-the-rusty-sword-vanguard-island.json](./199397-the-rusty-sword-vanguard-island.json) |
 | The S Factor: Sonia and Silver | 45579 | [45579-the-s-factor-sonia-and-silver.json](./45579-the-s-factor-sonia-and-silver.json) |
@@ -18795,6 +18802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Temporal Invasion | 19896 | [19896-the-temporal-invasion.json](./19896-the-temporal-invasion.json) |
 | The Tempura Samurai | 64435 | [64435-the-tempura-samurai.json](./64435-the-tempura-samurai.json) |
 | The Ten Soul | 289960 | [289960-the-ten-soul.json](./289960-the-ten-soul.json) |
+| The Tenacious Tentacle | 271443 | [271443-the-tenacious-tentacle.json](./271443-the-tenacious-tentacle.json) |
 | The Tenants: Pets | 248003 | [248003-the-tenants-pets.json](./248003-the-tenants-pets.json) |
 | The Tender Cut | 283341 | [283341-the-tender-cut.json](./283341-the-tender-cut.json) |
 | The Tennis & The Snowboard | 203393 | [203393-the-tennis-and-the-snowboard.json](./203393-the-tennis-and-the-snowboard.json) |
@@ -18827,6 +18835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terminator: SkyNet | 8414 | [8414-the-terminator-skynet.json](./8414-the-terminator-skynet.json) |
 | The Termiraptor | 233393 | [233393-the-termiraptor.json](./233393-the-termiraptor.json) |
 | The Terraces | 303018 | [303018-the-terraces.json](./303018-the-terraces.json) |
+| The Terracotta Terror | 271446 | [271446-the-terracotta-terror.json](./271446-the-terracotta-terror.json) |
 | The Terrian Saga: KR-17 | 10984 | [10984-the-terrian-saga-kr-17.json](./10984-the-terrian-saga-kr-17.json) |
 | The Terrible Old Man | 122170 | [122170-the-terrible-old-man.json](./122170-the-terrible-old-man.json) |
 | The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
@@ -19635,6 +19644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Underground Man | 23583 | [23583-the-underground-man.json](./23583-the-underground-man.json) |
 | The Underground Man 2 | 215732 | [215732-the-underground-man-2.json](./215732-the-underground-man-2.json) |
 | The Undergrounders | 339847 | [339847-the-undergrounders.json](./339847-the-undergrounders.json) |
+| The Underkeep | 271351 | [271351-the-underkeep.json](./271351-the-underkeep.json) |
 | The Undermall | 394454 | [394454-the-undermall.json](./394454-the-undermall.json) |
 | The Unders_core | 207085 | [207085-the-unders-core.json](./207085-the-unders-core.json) |
 | The Undersea | 273819 | [273819-the-undersea.json](./273819-the-undersea.json) |
