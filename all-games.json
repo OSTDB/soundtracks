@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-12T04:05:51.127Z",
-  "total_soundtracks": 3248,
+  "generated_at": "2026-11-12T04:25:49.417Z",
+  "total_soundtracks": 3249,
   "games": [
     {
       "igdb_id": 7522,
@@ -6675,6 +6675,20 @@
         {
           "album_name": "Colin McRae Rally (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1tac6R1AKnW8HFkLGRYvDd",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 35181,
+      "game_name": "Colina: Legacy",
+      "game_url": "https://ostdb.net/games/colina-legacy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273af850b885d4991095344e027",
+      "albums": [
+        {
+          "album_name": "COLINA: Legacy (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/19Wmt6Bz8h2rnKmIYeyTdI",
           "apple_music_url": "",
           "album_link_url": ""
         }
