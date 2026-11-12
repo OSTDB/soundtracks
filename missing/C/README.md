@@ -3760,6 +3760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castaway | 187063 | [187063-castaway.json](./187063-castaway.json) |
 | Castaway | 295314 | [295314-castaway.json](./295314-castaway.json) |
 | Castaway | 410092 | [410092-castaway.json](./410092-castaway.json) |
+| Castaway Coalition | 258653 | [258653-castaway-coalition.json](./258653-castaway-coalition.json) |
 | Castaway Coconuts | 307916 | [307916-castaway-coconuts.json](./307916-castaway-coconuts.json) |
 | Castaway Cove | 103999 | [103999-castaway-cove.json](./103999-castaway-cove.json) |
 | Castaway Diary: Portal to the Unknown Isles | 398422 | [398422-castaway-diary-portal-to-the-unknown-isles.json](./398422-castaway-diary-portal-to-the-unknown-isles.json) |
