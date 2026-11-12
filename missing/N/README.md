@@ -3050,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netflix Stories: Perfect Match | 305100 | [305100-netflix-stories-perfect-match.json](./305100-netflix-stories-perfect-match.json) |
 | Netflix Stories: Selling Sunset | 305102 | [305102-netflix-stories-selling-sunset.json](./305102-netflix-stories-selling-sunset.json) |
 | Netflix Stories: Sex Education | 358223 | [358223-netflix-stories-sex-education.json](./358223-netflix-stories-sex-education.json) |
+| Netflix Stories: Virgin River | 276373 | [276373-netflix-stories-virgin-river.json](./276373-netflix-stories-virgin-river.json) |
 | NetGame Adventure | 252298 | [252298-netgame-adventure.json](./252298-netgame-adventure.json) |
 | Netghost | 293838 | [293838-netghost.json](./293838-netghost.json) |
 | NetGunner | 139844 | [139844-netgunner.json](./139844-netgunner.json) |
