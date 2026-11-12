@@ -88,6 +88,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives 49: Gregory Horror Show | 271045 | [271045-g-mode-archives-49-gregory-horror-show.json](./271045-g-mode-archives-49-gregory-horror-show.json) |
 | G-Mode Archives 50: Midnight Horror School | 271044 | [271044-g-mode-archives-50-midnight-horror-school.json](./271044-g-mode-archives-50-midnight-horror-school.json) |
 | G-Mode Archives 51: Trio the Punch | 278197 | [278197-g-mode-archives-51-trio-the-punch.json](./278197-g-mode-archives-51-trio-the-punch.json) |
+| G-Mode Archives 52: Burger Time | 279184 | [279184-g-mode-archives-52-burger-time.json](./279184-g-mode-archives-52-burger-time.json) |
 | G-Mode Archives 53: Daienkai Buchou | 280075 | [280075-g-mode-archives-53-daienkai-buchou.json](./280075-g-mode-archives-53-daienkai-buchou.json) |
 | G-Mode Archives 56: Mystia3 | 381724 | [381724-g-mode-archives-56-mystia3.json](./381724-g-mode-archives-56-mystia3.json) |
 | G-Mode Archives 58: Gekidan Musume Akane & Aoi | 381255 | [381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json](./381255-g-mode-archives-58-gekidan-musume-akane-and-aoi.json) |
@@ -6398,6 +6399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Stickfights | 279454 | [279454-god-of-stickfights.json](./279454-god-of-stickfights.json) |
 | God of Stocks | 412963 | [412963-god-of-stocks.json](./412963-god-of-stocks.json) |
 | God of the Arena Dungeon | 163196 | [163196-god-of-the-arena-dungeon.json](./163196-god-of-the-arena-dungeon.json) |
+| God Of This World | 279278 | [279278-god-of-this-world.json](./279278-god-of-this-world.json) |
 | God of Thunder | 2526 | [2526-god-of-thunder.json](./2526-god-of-thunder.json) |
 | God of Track | 243076 | [243076-god-of-track.json](./243076-god-of-track.json) |
 | God of War | 117883 | [117883-god-of-war.json](./117883-god-of-war.json) |
