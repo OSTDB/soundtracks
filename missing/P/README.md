@@ -1405,6 +1405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Factory | 194315 | [194315-panic-factory.json](./194315-panic-factory.json) |
 | Panic Files: Buried Sanity | 391090 | [391090-panic-files-buried-sanity.json](./391090-panic-files-buried-sanity.json) |
 | Panic Floor!! | 202658 | [202658-panic-floor.json](./202658-panic-floor.json) |
+| Panic House | 248859 | [248859-panic-house.json](./248859-panic-house.json) |
 | Panic in Nakayoshi World | 42374 | [42374-panic-in-nakayoshi-world.json](./42374-panic-in-nakayoshi-world.json) |
 | Panic in Puzzle World | 358035 | [358035-panic-in-puzzle-world.json](./358035-panic-in-puzzle-world.json) |
 | Panic In Store! | 305692 | [305692-panic-in-store.json](./305692-panic-in-store.json) |
@@ -7200,6 +7201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
 | Pillar of Rust | 181440 | [181440-pillar-of-rust.json](./181440-pillar-of-rust.json) |
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
+| Pillars | 248947 | [248947-pillars.json](./248947-pillars.json) |
 | Pillars of Dust | 123709 | [123709-pillars-of-dust.json](./123709-pillars-of-dust.json) |
 | Pillars of Eternity II: Deadfire - Deck of Many Things | 124822 | [124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json](./124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json) |
 | Pillars of Eternity II: Deadfire - Deluxe Edition | 83894 | [83894-pillars-of-eternity-ii-deadfire-deluxe-edition.json](./83894-pillars-of-eternity-ii-deadfire-deluxe-edition.json) |
@@ -8384,6 +8386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates: The Spectacular Treasure Trail | 354720 | [354720-pirates-the-spectacular-treasure-trail.json](./354720-pirates-the-spectacular-treasure-trail.json) |
 | Pirates: Tides of Fortune | 23592 | [23592-pirates-tides-of-fortune.json](./23592-pirates-tides-of-fortune.json) |
 | Pirates: Treasure Hunters | 58332 | [58332-pirates-treasure-hunters.json](./58332-pirates-treasure-hunters.json) |
+| Pirates: Wind of Chaos | 248875 | [248875-pirates-wind-of-chaos.json](./248875-pirates-wind-of-chaos.json) |
 | Pirates! | 267320 | [267320-pirates.json](./267320-pirates.json) |
 | Pirates! Gold | 9232 | [9232-pirates-gold.json](./9232-pirates-gold.json) |
 | Pirates! Gold Plus | 36216 | [36216-pirates-gold-plus.json](./36216-pirates-gold-plus.json) |
@@ -18343,6 +18346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Train | 53483 | [53483-psycho-train.json](./53483-psycho-train.json) |
 | Psycho Train | 88487 | [88487-psycho-train.json](./88487-psycho-train.json) |
 | Psycho Waluigi | 132724 | [132724-psycho-waluigi.json](./132724-psycho-waluigi.json) |
+| Psycho World | 248936 | [248936-psycho-world.json](./248936-psycho-world.json) |
 | Psycho World | 41715 | [41715-psycho-world.json](./41715-psycho-world.json) |
 | Psycho-Kin | 297197 | [297197-psycho-kin.json](./297197-psycho-kin.json) |
 | Psycho-Nics Oscar | 55193 | [55193-psycho-nics-oscar.json](./55193-psycho-nics-oscar.json) |
