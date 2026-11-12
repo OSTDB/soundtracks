@@ -6705,6 +6705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Anchor | 69559 | [69559-first-anchor.json](./69559-first-anchor.json) |
 | First Bite | 181574 | [181574-first-bite.json](./181574-first-bite.json) |
 | First Bite: Bad Blood | 221167 | [221167-first-bite-bad-blood.json](./221167-first-bite-bad-blood.json) |
+| First Blood | 275867 | [275867-first-blood.json](./275867-first-blood.json) |
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
 | First Break | 293639 | [293639-first-break.json](./293639-first-break.json) |
 | First Christmas | 248907 | [248907-first-christmas.json](./248907-first-christmas.json) |
@@ -10642,6 +10643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forged in Epic | 286337 | [286337-forged-in-epic.json](./286337-forged-in-epic.json) |
 | Forged in Fire: Master Smith | 397087 | [397087-forged-in-fire-master-smith.json](./397087-forged-in-fire-master-smith.json) |
 | Forged Into History: Speedway Odyssey | 349013 | [349013-forged-into-history-speedway-odyssey.json](./349013-forged-into-history-speedway-odyssey.json) |
+| Forged Isles | 275866 | [275866-forged-isles.json](./275866-forged-isles.json) |
 | Forged of Blood | 27954 | [27954-forged-of-blood.json](./27954-forged-of-blood.json) |
 | Forged: Reconquest | 392706 | [392706-forged-reconquest.json](./392706-forged-reconquest.json) |
 | Forgekeepers | 332542 | [332542-forgekeepers.json](./332542-forgekeepers.json) |
