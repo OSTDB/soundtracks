@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairground Simulator 2 | 62472 | [62472-fairground-simulator-2.json](./62472-fairground-simulator-2.json) |
 | Fairies | 64733 | [64733-fairies.json](./64733-fairies.json) |
 | Fairies Coloring Book + | 88278 | [88278-fairies-coloring-book.json](./88278-fairies-coloring-book.json) |
+| Fairies Love | 277481 | [277481-fairies-love.json](./277481-fairies-love.json) |
 | Fairies Praying To Heaven 2: Great Devil's Return Match | 285541 | [285541-fairies-praying-to-heaven-2-great-devils-return-match.json](./285541-fairies-praying-to-heaven-2-great-devils-return-match.json) |
 | Fairies vs Bugs | 369148 | [369148-fairies-vs-bugs.json](./369148-fairies-vs-bugs.json) |
 | Fairies vs. Darklings: Arcane Edition | 33744 | [33744-fairies-vs-darklings-arcane-edition.json](./33744-fairies-vs-darklings-arcane-edition.json) |
@@ -4843,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight For Love | 345523 | [345523-fight-for-love.json](./345523-fight-for-love.json) |
 | Fight for Marseille | 109522 | [109522-fight-for-marseille.json](./109522-fight-for-marseille.json) |
 | Fight for that Ball | 148212 | [148212-fight-for-that-ball.json](./148212-fight-for-that-ball.json) |
+| Fight for Vengeance | 277545 | [277545-fight-for-vengeance.json](./277545-fight-for-vengeance.json) |
 | Fight For Your Resurrection | 242969 | [242969-fight-for-your-resurrection.json](./242969-fight-for-your-resurrection.json) |
 | Fight For Your Resurrection VR | 255147 | [255147-fight-for-your-resurrection-vr.json](./255147-fight-for-your-resurrection-vr.json) |
 | Fight Game Rivals | 79772 | [79772-fight-game-rivals.json](./79772-fight-game-rivals.json) |
@@ -5175,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fimbul | 83614 | [83614-fimbul.json](./83614-fimbul.json) |
 | Fimbul Winter | 149891 | [149891-fimbul-winter.json](./149891-fimbul-winter.json) |
 | Fimbul Winter VR | 151264 | [151264-fimbul-winter-vr.json](./151264-fimbul-winter-vr.json) |
+| Fimbul's Gemboree | 277621 | [277621-fimbuls-gemboree.json](./277621-fimbuls-gemboree.json) |
 | Fin and the Ancient Mystery | 123312 | [123312-fin-and-the-ancient-mystery.json](./123312-fin-and-the-ancient-mystery.json) |
 | Fin Fin: On Teo, the Magic Planet | 172775 | [172775-fin-fin-on-teo-the-magic-planet.json](./172775-fin-fin-on-teo-the-magic-planet.json) |
 | Fin Lapin 3 | 130471 | [130471-fin-lapin-3.json](./130471-fin-lapin-3.json) |
@@ -7535,6 +7538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Help Wanted | 241473 | [241473-five-nights-at-freddys-help-wanted.json](./241473-five-nights-at-freddys-help-wanted.json) |
 | Five Nights at Freddy's: Help Wanted - Bundle | 240281 | [240281-five-nights-at-freddys-help-wanted-bundle.json](./240281-five-nights-at-freddys-help-wanted-bundle.json) |
 | Five Nights at Freddy's: Help Wanted - Curse of Dreadbear | 169108 | [169108-five-nights-at-freddys-help-wanted-curse-of-dreadbear.json](./169108-five-nights-at-freddys-help-wanted-curse-of-dreadbear.json) |
+| Five Nights at Freddy's: Help Wanted - Full Time Edition | 277547 | [277547-five-nights-at-freddys-help-wanted-full-time-edition.json](./277547-five-nights-at-freddys-help-wanted-full-time-edition.json) |
 | Five Nights at Freddy's: Help Wanted Plus | 261510 | [261510-five-nights-at-freddys-help-wanted-plus.json](./261510-five-nights-at-freddys-help-wanted-plus.json) |
 | Five Nights at Freddy's: Into Madness | 303290 | [303290-five-nights-at-freddys-into-madness.json](./303290-five-nights-at-freddys-into-madness.json) |
 | Five Nights at Freddy's: Into the Pit | 283679 | [283679-five-nights-at-freddys-into-the-pit.json](./283679-five-nights-at-freddys-into-the-pit.json) |
@@ -13297,6 +13301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frogger | 240485 | [240485-frogger.json](./240485-frogger.json) |
 | Frogger | 246398 | [246398-frogger.json](./246398-frogger.json) |
 | Frogger | 261991 | [261991-frogger.json](./261991-frogger.json) |
+| Frogger | 277548 | [277548-frogger.json](./277548-frogger.json) |
 | Frogger | 280483 | [280483-frogger.json](./280483-frogger.json) |
 | Frogger | 282741 | [282741-frogger.json](./282741-frogger.json) |
 | Frogger | 288260 | [288260-frogger.json](./288260-frogger.json) |
@@ -13638,6 +13643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontland | 336864 | [336864-frontland.json](./336864-frontland.json) |
 | Frontline | 14771 | [14771-frontline.json](./14771-frontline.json) |
 | Frontline 1942 | 275732 | [275732-frontline-1942.json](./275732-frontline-1942.json) |
+| Frontline Battles | 277483 | [277483-frontline-battles.json](./277483-frontline-battles.json) |
 | Frontline Berlin 1945 | 25003 | [25003-frontline-berlin-1945.json](./25003-frontline-berlin-1945.json) |
 | Frontline Commando | 88630 | [88630-frontline-commando.json](./88630-frontline-commando.json) |
 | Frontline Commando 2 | 127046 | [127046-frontline-commando-2.json](./127046-frontline-commando-2.json) |
