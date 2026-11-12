@@ -23674,6 +23674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin To Win | 342480 | [342480-spin-to-win.json](./342480-spin-to-win.json) |
 | Spin Up | 277638 | [277638-spin-up.json](./277638-spin-up.json) |
 | Spin-Tyres 2018 Offroad | 96795 | [96795-spin-tyres-2018-offroad.json](./96795-spin-tyres-2018-offroad.json) |
+| Spina the Bee | 270258 | [270258-spina-the-bee.json](./270258-spina-the-bee.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | Spinal Fantasy | 318134 | [318134-spinal-fantasy.json](./318134-spinal-fantasy.json) |
 | Spinball | 110528 | [110528-spinball.json](./110528-spinball.json) |
@@ -23873,6 +23874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of the Island | 152373 | [152373-spirit-of-the-island.json](./152373-spirit-of-the-island.json) |
 | Spirit of the Island: Adventureland | 265792 | [265792-spirit-of-the-island-adventureland.json](./265792-spirit-of-the-island-adventureland.json) |
 | Spirit of the Island: Beach Resort | 251664 | [251664-spirit-of-the-island-beach-resort.json](./251664-spirit-of-the-island-beach-resort.json) |
+| Spirit of the Island: Paradise Edition | 270263 | [270263-spirit-of-the-island-paradise-edition.json](./270263-spirit-of-the-island-paradise-edition.json) |
 | Spirit of the Lilies | 326687 | [326687-spirit-of-the-lilies.json](./326687-spirit-of-the-lilies.json) |
 | Spirit of the North: Enhanced Edition - Signature Edition | 141442 | [141442-spirit-of-the-north-enhanced-edition-signature-edition.json](./141442-spirit-of-the-north-enhanced-edition-signature-edition.json) |
 | Spirit of the Obelisk | 325306 | [325306-spirit-of-the-obelisk.json](./325306-spirit-of-the-obelisk.json) |
@@ -31070,6 +31072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Studio Scream: Verse One | 379915 | [379915-studio-scream-verse-one.json](./379915-studio-scream-verse-one.json) |
 | Studio Sim: The Painting Game | 410942 | [410942-studio-sim-the-painting-game.json](./410942-studio-sim-the-painting-game.json) |
 | Studio System: Guardian Angel | 226610 | [226610-studio-system-guardian-angel.json](./226610-studio-system-guardian-angel.json) |
+| StudioQuiz | 270245 | [270245-studioquiz.json](./270245-studioquiz.json) |
 | StudioS Fighters: Climax Champions | 204857 | [204857-studios-fighters-climax-champions.json](./204857-studios-fighters-climax-champions.json) |
 | Studium | 333708 | [333708-studium.json](./333708-studium.json) |
 | Studs Up! | 427268 | [427268-studs-up.json](./427268-studs-up.json) |
@@ -31327,6 +31330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
 | SubLight | 116568 | [116568-sublight.json](./116568-sublight.json) |
 | Sublime Element | 250790 | [250790-sublime-element.json](./250790-sublime-element.json) |
+| Sublime Solitaire | 270244 | [270244-sublime-solitaire.json](./270244-sublime-solitaire.json) |
 | Subliminal Realms: The Masterpiece | 140290 | [140290-subliminal-realms-the-masterpiece.json](./140290-subliminal-realms-the-masterpiece.json) |
 | Subliminal Realms: The Masterpiece HD | 99717 | [99717-subliminal-realms-the-masterpiece-hd.json](./99717-subliminal-realms-the-masterpiece-hd.json) |
 | Subliminal Region | 168132 | [168132-subliminal-region.json](./168132-subliminal-region.json) |
@@ -34352,6 +34356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. 0 | 345639 | [345639-super-mario-bros-0.json](./345639-super-mario-bros-0.json) |
 | Super Mario Bros. 2 | 163155 | [163155-super-mario-bros-2.json](./163155-super-mario-bros-2.json) |
 | Super Mario Bros. 2 | 222098 | [222098-super-mario-bros-2.json](./222098-super-mario-bros-2.json) |
+| Super Mario Bros. 2 | 270345 | [270345-super-mario-bros-2.json](./270345-super-mario-bros-2.json) |
 | Super Mario Bros. 2 Christmas Edition | 210839 | [210839-super-mario-bros-2-christmas-edition.json](./210839-super-mario-bros-2-christmas-edition.json) |
 | Super Mario Bros. 2 Deluxe | 321172 | [321172-super-mario-bros-2-deluxe.json](./321172-super-mario-bros-2-deluxe.json) |
 | Super Mario Bros. 2 Squared: Return to Subcon | 308376 | [308376-super-mario-bros-2-squared-return-to-subcon.json](./308376-super-mario-bros-2-squared-return-to-subcon.json) |
