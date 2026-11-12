@@ -8216,6 +8216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Burning Sea | 21283 | [21283-pirates-of-the-burning-sea.json](./21283-pirates-of-the-burning-sea.json) |
 | Pirates of the Caribbean | 220540 | [220540-pirates-of-the-caribbean.json](./220540-pirates-of-the-caribbean.json) |
 | Pirates of the Caribbean | 5982 | [5982-pirates-of-the-caribbean.json](./5982-pirates-of-the-caribbean.json) |
+| Pirates of the Caribbean Multiplayer | 316321 | [316321-pirates-of-the-caribbean-multiplayer.json](./316321-pirates-of-the-caribbean-multiplayer.json) |
 | Pirates of the Caribbean Online | 81226 | [81226-pirates-of-the-caribbean-online.json](./81226-pirates-of-the-caribbean-online.json) |
 | Pirates of the Caribbean: Aegir's Fire | 72552 | [72552-pirates-of-the-caribbean-aegirs-fire.json](./72552-pirates-of-the-caribbean-aegirs-fire.json) |
 | Pirates of the Caribbean: Armada of the Damned | 68228 | [68228-pirates-of-the-caribbean-armada-of-the-damned.json](./68228-pirates-of-the-caribbean-armada-of-the-damned.json) |
@@ -9542,6 +9543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Time Explosion | 125445 | [125445-pizza-time-explosion.json](./125445-pizza-time-explosion.json) |
 | Pizza to Osake to Suika-chan to! | 403162 | [403162-pizza-to-osake-to-suika-chan-to.json](./403162-pizza-to-osake-to-suika-chan-to.json) |
 | Pizza Tower | 135818 | [135818-pizza-tower.json](./135818-pizza-tower.json) |
+| Pizza Tower '19 Plus | 316318 | [316318-pizza-tower-19-plus.json](./316318-pizza-tower-19-plus.json) |
 | Pizza Tower Repainted | 365807 | [365807-pizza-tower-repainted.json](./365807-pizza-tower-repainted.json) |
 | Pizza Tower United | 344038 | [344038-pizza-tower-united.json](./344038-pizza-tower-united.json) |
 | Pizza Tower: Chef's Kiss | 328398 | [328398-pizza-tower-chefs-kiss.json](./328398-pizza-tower-chefs-kiss.json) |
@@ -9583,6 +9585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PJ Masks: Laptop Infantil | 297764 | [297764-pj-masks-laptop-infantil.json](./297764-pj-masks-laptop-infantil.json) |
 | PJ Masks: Moonlight Heroes | 237649 | [237649-pj-masks-moonlight-heroes.json](./237649-pj-masks-moonlight-heroes.json) |
 | PJ Masks: Time to be a Hero | 137539 | [137539-pj-masks-time-to-be-a-hero.json](./137539-pj-masks-time-to-be-a-hero.json) |
+| PJ the DJ | 316320 | [316320-pj-the-dj.json](./316320-pj-the-dj.json) |
 | Pjsloth1 | 308320 | [308320-pjsloth1.json](./308320-pjsloth1.json) |
 | PK Girls | 231711 | [231711-pk-girls.json](./231711-pk-girls.json) |
 | PK Scramble | 93521 | [93521-pk-scramble.json](./93521-pk-scramble.json) |
@@ -11500,6 +11503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Animon | 274823 | [274823-pokemon-animon.json](./274823-pokemon-animon.json) |
 | Pokémon Anniversary Crystal | 313100 | [313100-pokemon-anniversary-crystal.json](./313100-pokemon-anniversary-crystal.json) |
 | Pokemon Aquamarine | 325718 | [325718-pokemon-aquamarine.json](./325718-pokemon-aquamarine.json) |
+| Pokémon Aragonite | 316322 | [316322-pokemon-aragonite.json](./316322-pokemon-aragonite.json) |
 | Pokémon Art Academy | 7410 | [7410-pokemon-art-academy.json](./7410-pokemon-art-academy.json) |
 | Pokémon Ashen Frost | 307289 | [307289-pokemon-ashen-frost.json](./307289-pokemon-ashen-frost.json) |
 | Pokémon AshGray Version | 143756 | [143756-pokemon-ashgray-version.json](./143756-pokemon-ashgray-version.json) |
@@ -16628,6 +16632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Adventurer | 137523 | [137523-project-adventurer.json](./137523-project-adventurer.json) |
 | Project Aeroes | 330342 | [330342-project-aeroes.json](./330342-project-aeroes.json) |
 | Project Aether: First Contact | 110732 | [110732-project-aether-first-contact.json](./110732-project-aether-first-contact.json) |
+| Project After: Shadow Theory | 316323 | [316323-project-after-shadow-theory.json](./316323-project-after-shadow-theory.json) |
 | Project Aftermath | 15964 | [15964-project-aftermath.json](./15964-project-aftermath.json) |
 | Project Aftershock | 94753 | [94753-project-aftershock.json](./94753-project-aftershock.json) |
 | Project Agora | 140326 | [140326-project-agora.json](./140326-project-agora.json) |
@@ -17371,6 +17376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project X Zone | 6864 | [6864-project-x-zone.json](./6864-project-x-zone.json) |
 | Project X Zone 2 | 9721 | [9721-project-x-zone-2.json](./9721-project-x-zone-2.json) |
 | Project X Zone: Limited Edition | 89877 | [89877-project-x-zone-limited-edition.json](./89877-project-x-zone-limited-edition.json) |
+| Project X-treme | 316325 | [316325-project-x-treme.json](./316325-project-x-treme.json) |
 | Project X: Light Years | 311514 | [311514-project-x-light-years.json](./311514-project-x-light-years.json) |
 | Project X: Love Potion Disaster | 218729 | [218729-project-x-love-potion-disaster.json](./218729-project-x-love-potion-disaster.json) |
 | Project X22 | 208111 | [208111-project-x22.json](./208111-project-x22.json) |
@@ -18617,6 +18623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Mania Hokuto no Ken 2: Gekitou Shura no Kuni Hen | 64166 | [64166-punch-mania-hokuto-no-ken-2-gekitou-shura-no-kuni-hen.json](./64166-punch-mania-hokuto-no-ken-2-gekitou-shura-no-kuni-hen.json) |
 | Punch Max | 302471 | [302471-punch-max.json](./302471-punch-max.json) |
 | Punch Monk | 331513 | [331513-punch-monk.json](./331513-punch-monk.json) |
+| Punch Monkey | 316512 | [316512-punch-monkey.json](./316512-punch-monkey.json) |
 | Punch Out | 311981 | [311981-punch-out.json](./311981-punch-out.json) |
 | Punch Pad Workout | 107985 | [107985-punch-pad-workout.json](./107985-punch-pad-workout.json) |
 | Punch Planet | 57268 | [57268-punch-planet.json](./57268-punch-planet.json) |
