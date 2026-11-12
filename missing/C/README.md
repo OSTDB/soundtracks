@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calamity Creatures | 217266 | [217266-calamity-creatures.json](./217266-calamity-creatures.json) |
 | Calamity Eliminator | 190418 | [190418-calamity-eliminator.json](./190418-calamity-eliminator.json) |
 | Calamity Mod: Calamity Overhaul | 395105 | [395105-calamity-mod-calamity-overhaul.json](./395105-calamity-mod-calamity-overhaul.json) |
+| Calamity Mod: Infernum Mode | 277546 | [277546-calamity-mod-infernum-mode.json](./277546-calamity-mod-infernum-mode.json) |
 | Calamity Sanctuary | 219216 | [219216-calamity-sanctuary.json](./219216-calamity-sanctuary.json) |
 | Calamity: Wrath of the Gods | 365124 | [365124-calamity-wrath-of-the-gods.json](./365124-calamity-wrath-of-the-gods.json) |
 | Calangos e Coxinhas | 303721 | [303721-calangos-e-coxinhas.json](./303721-calangos-e-coxinhas.json) |
@@ -9482,6 +9483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChuSingura46+1 S: Chapter 4 & 5 | 168850 | [168850-chusingura46-1-s-chapter-4-and-5.json](./168850-chusingura46-1-s-chapter-4-and-5.json) |
 | ChuSinGura46+1 V | 335771 | [335771-chusingura46-1-v.json](./335771-chusingura46-1-v.json) |
 | Chutes and Ladders | 92928 | [92928-chutes-and-ladders.json](./92928-chutes-and-ladders.json) |
+| Chutney: Space Survivor | 277463 | [277463-chutney-space-survivor.json](./277463-chutney-space-survivor.json) |
 | Chuugaku Hisshuu Ei Bunpou: Chuugaku 1 Nensei You | 65994 | [65994-chuugaku-hisshuu-ei-bunpou-chuugaku-1-nensei-you.json](./65994-chuugaku-hisshuu-ei-bunpou-chuugaku-1-nensei-you.json) |
 | Chuugaku Hisshuu Ei Bunpou: Chuugaku 2 Nensei You | 65993 | [65993-chuugaku-hisshuu-ei-bunpou-chuugaku-2-nensei-you.json](./65993-chuugaku-hisshuu-ei-bunpou-chuugaku-2-nensei-you.json) |
 | Chuugen no Hasha: Sangoku Shouseiden | 340811 | [340811-chuugen-no-hasha-sangoku-shouseiden.json](./340811-chuugen-no-hasha-sangoku-shouseiden.json) |
@@ -10990,6 +10992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleanup On Aisle 3 | 414428 | [414428-cleanup-on-aisle-3.json](./414428-cleanup-on-aisle-3.json) |
 | Cleanup Project | 255256 | [255256-cleanup-project.json](./255256-cleanup-project.json) |
 | CleanVR | 118529 | [118529-cleanvr.json](./118529-cleanvr.json) |
+| Cleany's Window Service | 277555 | [277555-cleanys-window-service.json](./277555-cleanys-window-service.json) |
 | Clear Can | 241708 | [241708-clear-can.json](./241708-clear-can.json) |
 | Clear for Action | 24675 | [24675-clear-for-action.json](./24675-clear-for-action.json) |
 | Clear Mosaic | 253990 | [253990-clear-mosaic.json](./253990-clear-mosaic.json) |
