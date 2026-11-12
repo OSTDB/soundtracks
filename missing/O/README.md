@@ -4909,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherwar | 190983 | [190983-otherwar.json](./190983-otherwar.json) |
 | Otherwar: Deluxe Edition | 406196 | [406196-otherwar-deluxe-edition.json](./406196-otherwar-deluxe-edition.json) |
 | OtherWordly | 152150 | [152150-otherwordly.json](./152150-otherwordly.json) |
+| Otherworld Apocalypse | 288409 | [288409-otherworld-apocalypse.json](./288409-otherworld-apocalypse.json) |
 | Otherworld Convergence | 416581 | [416581-otherworld-convergence.json](./416581-otherworld-convergence.json) |
 | Otherworld Convergence: After | 416582 | [416582-otherworld-convergence-after.json](./416582-otherworld-convergence-after.json) |
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
