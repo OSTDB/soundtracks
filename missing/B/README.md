@@ -350,6 +350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BabyUp: Dinos | 102638 | [102638-babyup-dinos.json](./102638-babyup-dinos.json) |
 | Babyz | 205899 | [205899-babyz.json](./205899-babyz.json) |
 | Babyz: Your Virtual Bundle of Joy | 70343 | [70343-babyz-your-virtual-bundle-of-joy.json](./70343-babyz-your-virtual-bundle-of-joy.json) |
+| Baca | 278031 | [278031-baca.json](./278031-baca.json) |
 | Baccarat | 348397 | [348397-baccarat.json](./348397-baccarat.json) |
 | Baccarat Corsair | 214258 | [214258-baccarat-corsair.json](./214258-baccarat-corsair.json) |
 | Baccarat Online: Baccarist | 350882 | [350882-baccarat-online-baccarist.json](./350882-baccarat-online-baccarist.json) |
@@ -4600,6 +4601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleField BattleFront | 297373 | [297373-battlefield-battlefront.json](./297373-battlefield-battlefront.json) |
 | Battlefield Bundle | 83506 | [83506-battlefield-bundle.json](./83506-battlefield-bundle.json) |
 | Battlefield Cell | 212029 | [212029-battlefield-cell.json](./212029-battlefield-cell.json) |
+| Battlefield Commander WWII | 278183 | [278183-battlefield-commander-wwii.json](./278183-battlefield-commander-wwii.json) |
 | Battlefield Germany | 13387 | [13387-battlefield-germany.json](./13387-battlefield-germany.json) |
 | Battlefield Hardline: Betrayal | 112639 | [112639-battlefield-hardline-betrayal.json](./112639-battlefield-hardline-betrayal.json) |
 | Battlefield Hardline: Criminal Activity | 18023 | [18023-battlefield-hardline-criminal-activity.json](./18023-battlefield-hardline-criminal-activity.json) |
