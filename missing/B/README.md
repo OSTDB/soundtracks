@@ -1026,7 +1026,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -19353,6 +19352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burly Men at Sea | 24501 | [24501-burly-men-at-sea.json](./24501-burly-men-at-sea.json) |
 | Burly Men at Sea: Maestro Beard Edition | 52672 | [52672-burly-men-at-sea-maestro-beard-edition.json](./52672-burly-men-at-sea-maestro-beard-edition.json) |
 | Burn | 171449 | [171449-burn.json](./171449-burn.json) |
+| Burn | 259797 | [259797-burn.json](./259797-burn.json) |
 | Burn | 311118 | [311118-burn.json](./311118-burn.json) |
 | Burn | 365241 | [365241-burn.json](./365241-burn.json) |
 | Burn | 94391 | [94391-burn.json](./94391-burn.json) |
