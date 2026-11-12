@@ -6871,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch Sword | 81963 | [81963-witch-sword.json](./81963-witch-sword.json) |
 | Witch the Showdown | 398388 | [398388-witch-the-showdown.json](./398388-witch-the-showdown.json) |
 | Witch Thief | 55464 | [55464-witch-thief.json](./55464-witch-thief.json) |
+| Witch Tower: Flash | 281614 | [281614-witch-tower-flash.json](./281614-witch-tower-flash.json) |
 | Witch Trainer | 251384 | [251384-witch-trainer.json](./251384-witch-trainer.json) |
 | Witch Trials | 76874 | [76874-witch-trials.json](./76874-witch-trials.json) |
 | Witch War | 285291 | [285291-witch-war.json](./285291-witch-war.json) |
