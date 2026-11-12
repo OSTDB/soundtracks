@@ -16284,6 +16284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Puzzler | 365866 | [365866-the-puzzler.json](./365866-the-puzzler.json) |
 | The Pyramid | 183204 | [183204-the-pyramid.json](./183204-the-pyramid.json) |
 | The Pyramid | 45362 | [45362-the-pyramid.json](./45362-the-pyramid.json) |
+| The Pyramid Gate | 300583 | [300583-the-pyramid-gate.json](./300583-the-pyramid-gate.json) |
 | The Pyramid of Bones | 235053 | [235053-the-pyramid-of-bones.json](./235053-the-pyramid-of-bones.json) |
 | The Pyramid Of Peril | 112211 | [112211-the-pyramid-of-peril.json](./112211-the-pyramid-of-peril.json) |
 | The Pyramid Prison | 127236 | [127236-the-pyramid-prison.json](./127236-the-pyramid-prison.json) |
@@ -34504,6 +34505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tubular Worlds | 71388 | [71388-tubular-worlds.json](./71388-tubular-worlds.json) |
 | TUBWT | 117554 | [117554-tubwt.json](./117554-tubwt.json) |
 | Tuby Bird | 40736 | [40736-tuby-bird.json](./40736-tuby-bird.json) |
+| Tuca Quest | 300629 | [300629-tuca-quest.json](./300629-tuca-quest.json) |
 | Tuckerton Pool | 96288 | [96288-tuckerton-pool.json](./96288-tuckerton-pool.json) |
 | Tuda:Kuda | 244225 | [244225-tuda-kuda.json](./244225-tuda-kuda.json) |
 | Tuebor | 31482 | [31482-tuebor.json](./31482-tuebor.json) |
