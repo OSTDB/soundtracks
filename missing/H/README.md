@@ -3147,6 +3147,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hawk Tuah Run | 321782 | [321782-hawk-tuah-run.json](./321782-hawk-tuah-run.json) |
 | Hawk: Freedom Squadron | 56572 | [56572-hawk-freedom-squadron.json](./56572-hawk-freedom-squadron.json) |
 | Hawked | 227636 | [227636-hawked.json](./227636-hawked.json) |
+| Hawked: Amethyst Raider Pack | 301737 | [301737-hawked-amethyst-raider-pack.json](./301737-hawked-amethyst-raider-pack.json) |
+| Hawked: Diamond Raider Pack | 301736 | [301736-hawked-diamond-raider-pack.json](./301736-hawked-diamond-raider-pack.json) |
 | Hawked: Master of Realities Expansion Pass | 332020 | [332020-hawked-master-of-realities-expansion-pass.json](./332020-hawked-master-of-realities-expansion-pass.json) |
 | Hawked: Realities Expansion Pass | 332021 | [332021-hawked-realities-expansion-pass.json](./332021-hawked-realities-expansion-pass.json) |
 | Hawked: Ruby Raider Pack | 278667 | [278667-hawked-ruby-raider-pack.json](./278667-hawked-ruby-raider-pack.json) |
