@@ -1468,6 +1468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pantheon: Card Game of Hentai - Part 1 | 267091 | [267091-pantheon-card-game-of-hentai-part-1.json](./267091-pantheon-card-game-of-hentai-part-1.json) |
 | Pantheon: Rise of the Fallen | 75421 | [75421-pantheon-rise-of-the-fallen.json](./75421-pantheon-rise-of-the-fallen.json) |
 | Panther | 100285 | [100285-panther.json](./100285-panther.json) |
+| Panther | 291106 | [291106-panther.json](./291106-panther.json) |
 | Panther | 36675 | [36675-panther.json](./36675-panther.json) |
 | Panther Family Sim | 101550 | [101550-panther-family-sim.json](./101550-panther-family-sim.json) |
 | Panther Online | 145951 | [145951-panther-online.json](./145951-panther-online.json) |
@@ -12721,6 +12722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polda 5 | 64590 | [64590-polda-5.json](./64590-polda-5.json) |
 | Polda 5.5 | 422789 | [422789-polda-5-5.json](./422789-polda-5-5.json) |
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
+| Polda 8 | 291104 | [291104-polda-8.json](./291104-polda-8.json) |
 | Polders | 388320 | [388320-polders.json](./388320-polders.json) |
 | Pole | 152965 | [152965-pole.json](./152965-pole.json) |
 | Pole Chudes 2015 | 251143 | [251143-pole-chudes-2015.json](./251143-pole-chudes-2015.json) |
@@ -19313,6 +19315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putrid Shot Ultra | 207273 | [207273-putrid-shot-ultra.json](./207273-putrid-shot-ultra.json) |
 | Putrid Snow 2: House of Yule | 402231 | [402231-putrid-snow-2-house-of-yule.json](./402231-putrid-snow-2-house-of-yule.json) |
 | Putrid/Sharp | 404947 | [404947-putrid-sharp.json](./404947-putrid-sharp.json) |
+| Putrika 1st.Cut: The Reason She Must Perish | 291199 | [291199-putrika-1st-cut-the-reason-she-must-perish.json](./291199-putrika-1st-cut-the-reason-she-must-perish.json) |
 | Putrika 2nd.Cut: For the Exquisite Attire | 352368 | [352368-putrika-2nd-cut-for-the-exquisite-attire.json](./352368-putrika-2nd-cut-for-the-exquisite-attire.json) |
 | Putt & Putter | 19505 | [19505-putt-and-putter.json](./19505-putt-and-putter.json) |
 | Putt Golf | 242458 | [242458-putt-golf.json](./242458-putt-golf.json) |
