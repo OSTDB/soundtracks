@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E>scape Nature Simulator | 186963 | [186963-e-scape-nature-simulator.json](./186963-e-scape-nature-simulator.json) |
 | E008 | 153129 | [153129-e008.json](./153129-e008.json) |
 | E06-Anomaly | 118616 | [118616-e06-anomaly.json](./118616-e06-anomaly.json) |
+| E1 Contest | 274175 | [274175-e1-contest.json](./274175-e1-contest.json) |
 | E13ven Minute Train Ride | 340546 | [340546-e13ven-minute-train-ride.json](./340546-e13ven-minute-train-ride.json) |
 | E3.14 Center | 112594 | [112594-e3-14-center.json](./112594-e3-14-center.json) |
 | E30 Drift Car Simulator | 234532 | [234532-e30-drift-car-simulator.json](./234532-e30-drift-car-simulator.json) |
@@ -8854,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extrasensoric | 324239 | [324239-extrasensoric.json](./324239-extrasensoric.json) |
 | Extrasolar | 61900 | [61900-extrasolar.json](./61900-extrasolar.json) |
 | Extravaganza Rising | 32078 | [32078-extravaganza-rising.json](./32078-extravaganza-rising.json) |
+| Extremal Doom | 274176 | [274176-extremal-doom.json](./274176-extremal-doom.json) |
 | Extreme | 13655 | [13655-extreme.json](./13655-extreme.json) |
 | Extreme 500 | 46723 | [46723-extreme-500.json](./46723-extreme-500.json) |
 | Extreme Air Snowboarding | 203487 | [203487-extreme-air-snowboarding.json](./203487-extreme-air-snowboarding.json) |
