@@ -8941,6 +8941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: Cataclysm - Collector's Edition | 136266 | [136266-world-of-warcraft-cataclysm-collectors-edition.json](./136266-world-of-warcraft-cataclysm-collectors-edition.json) |
 | World of Warcraft: Cataclysm - Rage of the Firelands | 345192 | [345192-world-of-warcraft-cataclysm-rage-of-the-firelands.json](./345192-world-of-warcraft-cataclysm-rage-of-the-firelands.json) |
 | World of Warcraft: Cataclysm - Rise of the Zandalari | 345190 | [345190-world-of-warcraft-cataclysm-rise-of-the-zandalari.json](./345190-world-of-warcraft-cataclysm-rise-of-the-zandalari.json) |
+| World of Warcraft: Cataclysm Classic | 275174 | [275174-world-of-warcraft-cataclysm-classic.json](./275174-world-of-warcraft-cataclysm-classic.json) |
 | World of Warcraft: Cataclysm: Hour of Twilight | 345193 | [345193-world-of-warcraft-cataclysm-hour-of-twilight.json](./345193-world-of-warcraft-cataclysm-hour-of-twilight.json) |
 | World of Warcraft: Collector's Edition | 136994 | [136994-world-of-warcraft-collectors-edition.json](./136994-world-of-warcraft-collectors-edition.json) |
 | World of Warcraft: Dragonflight - Embers of Neltharion | 363929 | [363929-world-of-warcraft-dragonflight-embers-of-neltharion.json](./363929-world-of-warcraft-dragonflight-embers-of-neltharion.json) |
@@ -8968,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Warcraft: The Burning Crusade - The Gods of Zul'Aman | 345176 | [345176-world-of-warcraft-the-burning-crusade-the-gods-of-zulaman.json](./345176-world-of-warcraft-the-burning-crusade-the-gods-of-zulaman.json) |
 | World of Warcraft: The Burning Crusade: Fury of the Sunwell | 345178 | [345178-world-of-warcraft-the-burning-crusade-fury-of-the-sunwell.json](./345178-world-of-warcraft-the-burning-crusade-fury-of-the-sunwell.json) |
 | World of Warcraft: The Gates of Ahn'Qiraj | 345162 | [345162-world-of-warcraft-the-gates-of-ahnqiraj.json](./345162-world-of-warcraft-the-gates-of-ahnqiraj.json) |
+| World of Warcraft: The Last Titan | 275178 | [275178-world-of-warcraft-the-last-titan.json](./275178-world-of-warcraft-the-last-titan.json) |
 | World of Warcraft: The War Within - Ghosts of K’aresh | 357378 | [357378-world-of-warcraft-the-war-within-ghosts-of-k-aresh.json](./357378-world-of-warcraft-the-war-within-ghosts-of-k-aresh.json) |
 | World of Warcraft: The War Within - Undermine(d) | 322152 | [322152-world-of-warcraft-the-war-within-undermine-d.json](./322152-world-of-warcraft-the-war-within-undermine-d.json) |
 | World of Warcraft: Warlords of Draenor - Collector's Edition | 13622 | [13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json](./13622-world-of-warcraft-warlords-of-draenor-collectors-edition.json) |
