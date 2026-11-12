@@ -16681,6 +16681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 37 | 295449 | [295449-project-37.json](./295449-project-37.json) |
 | Project 38 | 324261 | [324261-project-38.json](./324261-project-38.json) |
 | Project 44: Enlightenment | 220657 | [220657-project-44-enlightenment.json](./220657-project-44-enlightenment.json) |
+| Project 47 | 292700 | [292700-project-47.json](./292700-project-47.json) |
 | Project 5: Sightseer | 76122 | [76122-project-5-sightseer.json](./76122-project-5-sightseer.json) |
 | Project 59 | 105222 | [105222-project-59.json](./105222-project-59.json) |
 | Project 7: Escape Room | 357533 | [357533-project-7-escape-room.json](./357533-project-7-escape-room.json) |
@@ -19733,6 +19734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Monarch: Forests | 107537 | [107537-puzzle-monarch-forests.json](./107537-puzzle-monarch-forests.json) |
 | Puzzle Monarch: Mummy | 107538 | [107538-puzzle-monarch-mummy.json](./107538-puzzle-monarch-mummy.json) |
 | Puzzle Monarch: Nile River | 109334 | [109334-puzzle-monarch-nile-river.json](./109334-puzzle-monarch-nile-river.json) |
+| Puzzle Monarch: Super Natural | 292741 | [292741-puzzle-monarch-super-natural.json](./292741-puzzle-monarch-super-natural.json) |
 | Puzzle Monarch: Vampires | 106446 | [106446-puzzle-monarch-vampires.json](./106446-puzzle-monarch-vampires.json) |
 | Puzzle Monkey | 111321 | [111321-puzzle-monkey.json](./111321-puzzle-monkey.json) |
 | Puzzle Monkeys | 85583 | [85583-puzzle-monkeys.json](./85583-puzzle-monkeys.json) |
@@ -19899,6 +19901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle XP Championship | 209371 | [209371-puzzle-xp-championship.json](./209371-puzzle-xp-championship.json) |
 | Puzzle XP Championship 2 | 209372 | [209372-puzzle-xp-championship-2.json](./209372-puzzle-xp-championship-2.json) |
 | Puzzle-slider Puzzle | 359316 | [359316-puzzle-slider-puzzle.json](./359316-puzzle-slider-puzzle.json) |
+| Puzzle: Animals | 292707 | [292707-puzzle-animals.json](./292707-puzzle-animals.json) |
 | Puzzle: Birds | 114363 | [114363-puzzle-birds.json](./114363-puzzle-birds.json) |
 | Puzzle: Birds - Puzzle Pack: 10 Birds | 163462 | [163462-puzzle-birds-puzzle-pack-10-birds.json](./163462-puzzle-birds-puzzle-pack-10-birds.json) |
 | Puzzle: Bokura no 48 Jikan Sensou | 225836 | [225836-puzzle-bokura-no-48-jikan-sensou.json](./225836-puzzle-bokura-no-48-jikan-sensou.json) |
@@ -20028,6 +20031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlestuck | 352313 | [352313-puzzlestuck.json](./352313-puzzlestuck.json) |
 | PuzzleTales: Svalbard | 120202 | [120202-puzzletales-svalbard.json](./120202-puzzletales-svalbard.json) |
 | PuzzleTiles | 106953 | [106953-puzzletiles.json](./106953-puzzletiles.json) |
+| Puzzletime: Castle Party | 292715 | [292715-puzzletime-castle-party.json](./292715-puzzletime-castle-party.json) |
 | Puzzletime: Lovely Girls | 117906 | [117906-puzzletime-lovely-girls.json](./117906-puzzletime-lovely-girls.json) |
 | Puzzletown Mysteries | 338343 | [338343-puzzletown-mysteries.json](./338343-puzzletown-mysteries.json) |
 | Puzzletronics | 165592 | [165592-puzzletronics.json](./165592-puzzletronics.json) |
