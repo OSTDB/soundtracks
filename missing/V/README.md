@@ -1589,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vera Swings | 101254 | [101254-vera-swings.json](./101254-vera-swings.json) |
 | Vera: The Last Hope | 215673 | [215673-vera-the-last-hope.json](./215673-vera-the-last-hope.json) |
 | Verald Defense | 53874 | [53874-verald-defense.json](./53874-verald-defense.json) |
+| Veranoia: Nightmare of Case 37 | 279280 | [279280-veranoia-nightmare-of-case-37.json](./279280-veranoia-nightmare-of-case-37.json) |
 | Verbal Beatdown | 361984 | [361984-verbal-beatdown.json](./361984-verbal-beatdown.json) |
 | Verbal Void | 210987 | [210987-verbal-void.json](./210987-verbal-void.json) |
 | Verbena: Tales of Growing Up | 379429 | [379429-verbena-tales-of-growing-up.json](./379429-verbena-tales-of-growing-up.json) |
@@ -3318,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivaland: Dream House | 268932 | [268932-vivaland-dream-house.json](./268932-vivaland-dream-house.json) |
 | Vivaldia | 140477 | [140477-vivaldia.json](./140477-vivaldia.json) |
 | Vivaldia 2 | 272358 | [272358-vivaldia-2.json](./272358-vivaldia-2.json) |
+| Vivarium | 279370 | [279370-vivarium.json](./279370-vivarium.json) |
 | Vivarium | 354306 | [354306-vivarium.json](./354306-vivarium.json) |
 | Vivarium: Summer Vacay Update | 354376 | [354376-vivarium-summer-vacay-update.json](./354376-vivarium-summer-vacay-update.json) |
 | Vivariums | 383867 | [383867-vivariums.json](./383867-vivariums.json) |
