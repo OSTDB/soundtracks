@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-12T00:26:00.942Z",
-  "total_soundtracks": 3207,
+  "generated_at": "2026-11-12T00:36:32.435Z",
+  "total_soundtracks": 3215,
   "games": [
     {
       "igdb_id": 7522,
@@ -1161,6 +1161,20 @@
         {
           "album_name": "Alba: a Wildlife Adventure (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7h3dKgBjKgjg2wtU5RNWBF",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 19019,
+      "game_name": "Albino Lullaby: Episode 1",
+      "game_url": "https://ostdb.net/games/albino-lullaby-episode-1",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f68f54655f937733b6881e12",
+      "albums": [
+        {
+          "album_name": "Albino Lullaby: Episode 1 (Official Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4OHEk7v5StLMphvVXEm0hK",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -4801,6 +4815,20 @@
       ]
     },
     {
+      "igdb_id": 22751,
+      "game_name": "Bot Vice",
+      "game_url": "https://ostdb.net/games/bot-vice",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fd521d6cb14f76d196e34dbc",
+      "albums": [
+        {
+          "album_name": "Bot Vice (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6gTzGVk6o83QkQ6dDRph91",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 225426,
       "game_name": "Botany Manor",
       "game_url": "https://ostdb.net/games/botany-manor",
@@ -4879,6 +4907,20 @@
         {
           "album_name": "Bramble: The Mountain King (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4HyeqcMHnJhYm7kQSrfwiJ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 16289,
+      "game_name": "Brandish",
+      "game_url": "https://ostdb.net/games/brandish",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736eec1b40b72cb5e3377f7c32",
+      "albums": [
+        {
+          "album_name": "Brandish Original Soundtrack -FM Towns & Renewal-",
+          "spotify_url": "https://open.spotify.com/album/0gQOuMRxmnm9UqATRsOBqV",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -7479,6 +7521,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/cuphead-the-delicious-last-course-original-soundtrack/1632758089?uo=4",
           "album_link_url": "https://album.link/i/1632758089"
+        }
+      ]
+    },
+    {
+      "igdb_id": 16470,
+      "game_name": "Curses 'N Chaos",
+      "game_url": "https://ostdb.net/games/curses-n-chaos",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735784bea7a13612d807e1678b",
+      "albums": [
+        {
+          "album_name": "Curses 'n' Chaos (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4RKPqWDvCnrE4HyD9X6naA",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -15001,6 +15057,20 @@
       ]
     },
     {
+      "igdb_id": 200900,
+      "game_name": "Gunbrella",
+      "game_url": "https://ostdb.net/games/gunbrella",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27398d354303c6095a66f470d11",
+      "albums": [
+        {
+          "album_name": "Gunbrella (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5koXoCmzFwAXaq002LMUs8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3076,
       "game_name": "Guns of Icarus Online",
       "game_url": "https://ostdb.net/games/guns-of-icarus-online",
@@ -19451,6 +19521,20 @@
       ]
     },
     {
+      "igdb_id": 194987,
+      "game_name": "Lords of the Fallen",
+      "game_url": "https://ostdb.net/games/lords-of-the-fallen",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738319743a050636e78feb058b",
+      "albums": [
+        {
+          "album_name": "Lords of the Fallen (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4wJPBob3F2uAZWxqtPNzMd",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 145858,
       "game_name": "Lorn's Lure",
       "game_url": "https://ostdb.net/games/lorns-lure",
@@ -19842,6 +19926,20 @@
           "album_name": "Machinarium Soundtrack",
           "spotify_url": "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 130517,
+      "game_name": "Mad Streets",
+      "game_url": "https://ostdb.net/games/mad-streets",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e9a0c82c081bb6136ddd720c",
+      "albums": [
+        {
+          "album_name": "Mad Streets Official Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0SitzygXcG3bkpmKAs0TiD",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -22555,6 +22653,20 @@
         {
           "album_name": "NBA 2K24 Soundtrack",
           "spotify_url": "https://open.spotify.com/album/3tHl9pVwXxPaDLVtUxQLGm",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 18434,
+      "game_name": "Near Death",
+      "game_url": "https://ostdb.net/games/near-death",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273fe5f056ca7501ed95f8e431b",
+      "albums": [
+        {
+          "album_name": "Near Death (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5A5nnhyEja3cZmwAloG2bs",
           "apple_music_url": "",
           "album_link_url": ""
         }
