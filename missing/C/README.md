@@ -8740,6 +8740,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Drops | 106727 | [106727-christmas-drops.json](./106727-christmas-drops.json) |
 | Christmas Elf | 169614 | [169614-christmas-elf.json](./169614-christmas-elf.json) |
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
+| Christmas Escape 2 | 316909 | [316909-christmas-escape-2.json](./316909-christmas-escape-2.json) |
+| Christmas Escape 3 | 316911 | [316911-christmas-escape-3.json](./316911-christmas-escape-3.json) |
 | Christmas Escape Toy | 317090 | [317090-christmas-escape-toy.json](./317090-christmas-escape-toy.json) |
 | Christmas Eve Crisis | 89167 | [89167-christmas-eve-crisis.json](./89167-christmas-eve-crisis.json) |
 | Christmas Eve: Midnight's Call | 139767 | [139767-christmas-eve-midnights-call.json](./139767-christmas-eve-midnights-call.json) |
@@ -10117,6 +10119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of Titans | 124661 | [124661-city-of-titans.json](./124661-city-of-titans.json) |
 | City of Villains | 20457 | [20457-city-of-villains.json](./20457-city-of-villains.json) |
 | City of Voices | 327414 | [327414-city-of-voices.json](./327414-city-of-voices.json) |
+| City of Wars Powered by Ryu ga Gotoku | 316324 | [316324-city-of-wars-powered-by-ryu-ga-gotoku.json](./316324-city-of-wars-powered-by-ryu-ga-gotoku.json) |
 | City of Wonder | 65952 | [65952-city-of-wonder.json](./65952-city-of-wonder.json) |
 | City Panic! | 269756 | [269756-city-panic.json](./269756-city-panic.json) |
 | City Park Play Date | 309939 | [309939-city-park-play-date.json](./309939-city-park-play-date.json) |
@@ -15467,6 +15470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
 | Cooking Star Chef: Order Up! | 106032 | [106032-cooking-star-chef-order-up.json](./106032-cooking-star-chef-order-up.json) |
 | Cooking Star Restaurant | 188200 | [188200-cooking-star-restaurant.json](./188200-cooking-star-restaurant.json) |
+| Cooking Stars | 316910 | [316910-cooking-stars.json](./316910-cooking-stars.json) |
 | Cooking Talent - Restaurant fever | 104376 | [104376-cooking-talent-restaurant-fever.json](./104376-cooking-talent-restaurant-fever.json) |
 | Cooking Time! | 369725 | [369725-cooking-time.json](./369725-cooking-time.json) |
 | Cooking Train | 221375 | [221375-cooking-train.json](./221375-cooking-train.json) |
