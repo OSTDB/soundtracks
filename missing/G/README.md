@@ -5506,6 +5506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloom Reaper | 256945 | [256945-gloom-reaper.json](./256945-gloom-reaper.json) |
 | Gloom Reducer | 185785 | [185785-gloom-reducer.json](./185785-gloom-reducer.json) |
 | Gloom: Digital Edition | 197770 | [197770-gloom-digital-edition.json](./197770-gloom-digital-edition.json) |
+| Gloom: System Breach | 259297 | [259297-gloom-system-breach.json](./259297-gloom-system-breach.json) |
 | Gloom: Unhappy Homes | 168770 | [168770-gloom-unhappy-homes.json](./168770-gloom-unhappy-homes.json) |
 | Gloombase | 261171 | [261171-gloombase.json](./261171-gloombase.json) |
 | Gloombo | 422091 | [422091-gloombo.json](./422091-gloombo.json) |
@@ -8564,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Strokers | 240911 | [240911-grand-strokers.json](./240911-grand-strokers.json) |
 | Grand Summoners | 90072 | [90072-grand-summoners.json](./90072-grand-summoners.json) |
 | Grand Tactician: Napoleonic Wars (1792-1815) | 379823 | [379823-grand-tactician-napoleonic-wars-1792-1815.json](./379823-grand-tactician-napoleonic-wars-1792-1815.json) |
+| Grand Tactician: The Civil War - Whiskey & Lemons | 259191 | [259191-grand-tactician-the-civil-war-whiskey-and-lemons.json](./259191-grand-tactician-the-civil-war-whiskey-and-lemons.json) |
 | Grand Tactician: The Civil War (1861-1865) | 106575 | [106575-grand-tactician-the-civil-war-1861-1865.json](./106575-grand-tactician-the-civil-war-1861-1865.json) |
 | Grand Tanks: WW2 Tank Games | 249327 | [249327-grand-tanks-ww2-tank-games.json](./249327-grand-tanks-ww2-tank-games.json) |
 | Grand Taxi Auto | 329571 | [329571-grand-taxi-auto.json](./329571-grand-taxi-auto.json) |
