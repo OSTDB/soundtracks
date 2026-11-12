@@ -13601,6 +13601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colors Assemble | 217137 | [217137-colors-assemble.json](./217137-colors-assemble.json) |
 | Colors Invasion | 424022 | [424022-colors-invasion.json](./424022-colors-invasion.json) |
 | Colors of Fate | 259788 | [259788-colors-of-fate.json](./259788-colors-of-fate.json) |
+| Colors of Nobility | 247731 | [247731-colors-of-nobility.json](./247731-colors-of-nobility.json) |
 | Colors of the Cube | 150382 | [150382-colors-of-the-cube.json](./150382-colors-of-the-cube.json) |
 | Colors of the Past | 338879 | [338879-colors-of-the-past.json](./338879-colors-of-the-past.json) |
 | Colors of War | 66583 | [66583-colors-of-war.json](./66583-colors-of-war.json) |
@@ -18769,6 +18770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crescent County | 305181 | [305181-crescent-county.json](./305181-crescent-county.json) |
 | Crescent Creek: Survival Horror | 416812 | [416812-crescent-creek-survival-horror.json](./416812-crescent-creek-survival-horror.json) |
 | Crescent Hollow | 104143 | [104143-crescent-hollow.json](./104143-crescent-hollow.json) |
+| Crescent Lands: The Farm | 247799 | [247799-crescent-lands-the-farm.json](./247799-crescent-lands-the-farm.json) |
 | Crescent Loom | 134667 | [134667-crescent-loom.json](./134667-crescent-loom.json) |
 | Crescent Overload | 328370 | [328370-crescent-overload.json](./328370-crescent-overload.json) |
 | Crescent Pale Mist | 21085 | [21085-crescent-pale-mist.json](./21085-crescent-pale-mist.json) |
