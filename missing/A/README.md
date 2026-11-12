@@ -10722,6 +10722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angus and the Gates of Chaos | 247824 | [247824-angus-and-the-gates-of-chaos.json](./247824-angus-and-the-gates-of-chaos.json) |
 | Angus Hates Aliens | 33165 | [33165-angus-hates-aliens.json](./33165-angus-hates-aliens.json) |
 | Angvik : Returns | 367903 | [367903-angvik-returns.json](./367903-angvik-returns.json) |
+| Angvik 2 | 304928 | [304928-angvik-2.json](./304928-angvik-2.json) |
 | Angy | 211077 | [211077-angy.json](./211077-angy.json) |
 | Anhedonia: Sanctuary of Ash | 408915 | [408915-anhedonia-sanctuary-of-ash.json](./408915-anhedonia-sanctuary-of-ash.json) |
 | Ani | 312988 | [312988-ani.json](./312988-ani.json) |
