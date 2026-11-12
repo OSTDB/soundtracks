@@ -4340,6 +4340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Sandbox | 427254 | [427254-vr-sandbox.json](./427254-vr-sandbox.json) |
 | VR Scape | 38790 | [38790-vr-scape.json](./38790-vr-scape.json) |
 | VR Secretary: Ailey Edition | 338560 | [338560-vr-secretary-ailey-edition.json](./338560-vr-secretary-ailey-edition.json) |
+| VR SecretRoom | 270821 | [270821-vr-secretroom.json](./270821-vr-secretroom.json) |
 | VR Shark | 156988 | [156988-vr-shark.json](./156988-vr-shark.json) |
 | VR Shogi Mates | 309572 | [309572-vr-shogi-mates.json](./309572-vr-shogi-mates.json) |
 | VR Shooter Guns | 32867 | [32867-vr-shooter-guns.json](./32867-vr-shooter-guns.json) |
