@@ -3692,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Dexter 2 | 55203 | [55203-get-dexter-2.json](./55203-get-dexter-2.json) |
 | Get Dexter 2: The Angel Crystal | 62385 | [62385-get-dexter-2-the-angel-crystal.json](./62385-get-dexter-2-the-angel-crystal.json) |
 | Get Dis Money | 82324 | [82324-get-dis-money.json](./82324-get-dis-money.json) |
+| Get Down | 313527 | [313527-get-down.json](./313527-get-down.json) |
 | Get Dumped | 233677 | [233677-get-dumped.json](./233677-get-dumped.json) |
 | Get fit with Mel B | 11624 | [11624-get-fit-with-mel-b.json](./11624-get-fit-with-mel-b.json) |
 | Get Fit: Beach Girls | 409520 | [409520-get-fit-beach-girls.json](./409520-get-fit-beach-girls.json) |
@@ -7262,6 +7263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfing Greats | 40325 | [40325-golfing-greats.json](./40325-golfing-greats.json) |
 | Golfing Greats 2 | 222908 | [222908-golfing-greats-2.json](./222908-golfing-greats-2.json) |
 | Golfing In Aether | 199271 | [199271-golfing-in-aether.json](./199271-golfing-in-aether.json) |
+| Golfing In Aether: Cauldron | 313008 | [313008-golfing-in-aether-cauldron.json](./313008-golfing-in-aether-cauldron.json) |
 | Golfing In Aether: Dustbowl | 275124 | [275124-golfing-in-aether-dustbowl.json](./275124-golfing-in-aether-dustbowl.json) |
 | Golfing In Aether: Winter | 235954 | [235954-golfing-in-aether-winter.json](./235954-golfing-in-aether-winter.json) |
 | Golfing Over It with Alva Majo | 93727 | [93727-golfing-over-it-with-alva-majo.json](./93727-golfing-over-it-with-alva-majo.json) |
