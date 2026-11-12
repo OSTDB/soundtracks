@@ -22831,6 +22831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Singing Monsters: Beat Hereafter Skin Pack | 274839 | [274839-my-singing-monsters-beat-hereafter-skin-pack.json](./274839-my-singing-monsters-beat-hereafter-skin-pack.json) |
 | My Singing Monsters: Dawn of Fire | 89694 | [89694-my-singing-monsters-dawn-of-fire.json](./89694-my-singing-monsters-dawn-of-fire.json) |
 | My Singing Monsters: Thumpies | 289727 | [289727-my-singing-monsters-thumpies.json](./289727-my-singing-monsters-thumpies.json) |
+| My Sister is Wanted | 276371 | [276371-my-sister-is-wanted.json](./276371-my-sister-is-wanted.json) |
 | My Sleeper | 345062 | [345062-my-sleeper.json](./345062-my-sleeper.json) |
 | My Sliem Gets Stronger After It Dies | 389954 | [389954-my-sliem-gets-stronger-after-it-dies.json](./389954-my-sliem-gets-stronger-after-it-dies.json) |
 | My Slime Garden | 328458 | [328458-my-slime-garden.json](./328458-my-slime-garden.json) |
