@@ -9257,6 +9257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinrin-yoku: Forest Meditation and Relaxation | 343764 | [343764-shinrin-yoku-forest-meditation-and-relaxation.json](./343764-shinrin-yoku-forest-meditation-and-relaxation.json) |
 | Shinsei Project: Collapse | 364658 | [364658-shinsei-project-collapse.json](./364658-shinsei-project-collapse.json) |
 | Shinseiden Megaseed: Fukkatsu-hen | 261299 | [261299-shinseiden-megaseed-fukkatsu-hen.json](./261299-shinseiden-megaseed-fukkatsu-hen.json) |
+| Shinseikatsu | 291198 | [291198-shinseikatsu.json](./291198-shinseikatsu.json) |
 | Shinseiki Evangelion Mahjong Hokan Keikaku | 61676 | [61676-shinseiki-evangelion-mahjong-hokan-keikaku.json](./61676-shinseiki-evangelion-mahjong-hokan-keikaku.json) |
 | Shinseiki Evangelion: 2nd Impression | 73729 | [73729-shinseiki-evangelion-2nd-impression.json](./73729-shinseiki-evangelion-2nd-impression.json) |
 | Shinseiki Evangelion: Koutetsu no Girlfriend | 23953 | [23953-shinseiki-evangelion-koutetsu-no-girlfriend.json](./23953-shinseiki-evangelion-koutetsu-no-girlfriend.json) |
@@ -25009,6 +25010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squad: Canadian Armed Forces | 170368 | [170368-squad-canadian-armed-forces.json](./170368-squad-canadian-armed-forces.json) |
 | Squad: Weapon Skins - Clash Pack | 317735 | [317735-squad-weapon-skins-clash-pack.json](./317735-squad-weapon-skins-clash-pack.json) |
 | Squad: Weapon Skins - Contractors Pack | 317726 | [317726-squad-weapon-skins-contractors-pack.json](./317726-squad-weapon-skins-contractors-pack.json) |
+| Squad: Weapon Skins - Jungle Assault Pack | 291109 | [291109-squad-weapon-skins-jungle-assault-pack.json](./291109-squad-weapon-skins-jungle-assault-pack.json) |
 | SquadBlast | 202686 | [202686-squadblast.json](./202686-squadblast.json) |
 | Squadd.Io | 27418 | [27418-squadd-io.json](./27418-squadd-io.json) |
 | Squadika | 401693 | [401693-squadika.json](./401693-squadika.json) |
@@ -29010,6 +29012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stilton's Spire | 391556 | [391556-stiltons-spire.json](./391556-stiltons-spire.json) |
 | Stim | 249010 | [249010-stim.json](./249010-stim.json) |
 | Stimmings | 264614 | [264614-stimmings.json](./264614-stimmings.json) |
+| StimuAction | 291197 | [291197-stimuaction.json](./291197-stimuaction.json) |
 | Stimulants | 262268 | [262268-stimulants.json](./262268-stimulants.json) |
 | Stimulation Clicker | 327636 | [327636-stimulation-clicker.json](./327636-stimulation-clicker.json) |
 | Stimuli | 133226 | [133226-stimuli.json](./133226-stimuli.json) |
@@ -36702,6 +36705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surprising My Neighbors 2 | 149038 | [149038-surprising-my-neighbors-2.json](./149038-surprising-my-neighbors-2.json) |
 | Surprising Party | 53690 | [53690-surprising-party.json](./53690-surprising-party.json) |
 | Surprising Stories | 53691 | [53691-surprising-stories.json](./53691-surprising-stories.json) |
+| Surradia: An Art Retrospective | 291141 | [291141-surradia-an-art-retrospective.json](./291141-surradia-an-art-retrospective.json) |
 | Surreal Deal | 192603 | [192603-surreal-deal.json](./192603-surreal-deal.json) |
 | Surreal Escape | 315575 | [315575-surreal-escape.json](./315575-surreal-escape.json) |
 | Surreal Experience | 191454 | [191454-surreal-experience.json](./191454-surreal-experience.json) |
@@ -37290,11 +37294,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
 | Suzumiya Hachiruhi no Inyoku | 126321 | [126321-suzumiya-hachiruhi-no-inyoku.json](./126321-suzumiya-hachiruhi-no-inyoku.json) |
 | Suzumiya Haruhi no Chokuretsu | 69074 | [69074-suzumiya-haruhi-no-chokuretsu.json](./69074-suzumiya-haruhi-no-chokuretsu.json) |
+| Suzumiya Haruhi no Danketsu | 291102 | [291102-suzumiya-haruhi-no-danketsu.json](./291102-suzumiya-haruhi-no-danketsu.json) |
 | Suzumiya Haruhi No Datsui | 97512 | [97512-suzumiya-haruhi-no-datsui.json](./97512-suzumiya-haruhi-no-datsui.json) |
 | Suzumiya Haruhi no Gekidou | 69295 | [69295-suzumiya-haruhi-no-gekidou.json](./69295-suzumiya-haruhi-no-gekidou.json) |
 | Suzumiya Haruhi no Gyakuten 2 | 275504 | [275504-suzumiya-haruhi-no-gyakuten-2.json](./275504-suzumiya-haruhi-no-gyakuten-2.json) |
 | Suzumiya Haruhi no Heiretsu | 69110 | [69110-suzumiya-haruhi-no-heiretsu.json](./69110-suzumiya-haruhi-no-heiretsu.json) |
 | Suzumiya Haruhi no Houi | 97503 | [97503-suzumiya-haruhi-no-houi.json](./97503-suzumiya-haruhi-no-houi.json) |
+| Suzumiya Haruhi no Tensei | 291103 | [291103-suzumiya-haruhi-no-tensei.json](./291103-suzumiya-haruhi-no-tensei.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
 | Suzumiya Haruhi no Tsuisou | 66321 | [66321-suzumiya-haruhi-no-tsuisou.json](./66321-suzumiya-haruhi-no-tsuisou.json) |
 | Suzumiya Haruhi-chan no Mahjong | 61444 | [61444-suzumiya-haruhi-chan-no-mahjong.json](./61444-suzumiya-haruhi-chan-no-mahjong.json) |
