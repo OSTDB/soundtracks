@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life Legacy | 381342 | [381342-half-life-legacy.json](./381342-half-life-legacy.json) |
 | Half-Life Randomizer | 221792 | [221792-half-life-randomizer.json](./221792-half-life-randomizer.json) |
 | Half-Life ZDoom | 255673 | [255673-half-life-zdoom.json](./255673-half-life-zdoom.json) |
+| Half-Life: 25th Anniversary Adventure | 277561 | [277561-half-life-25th-anniversary-adventure.json](./277561-half-life-25th-anniversary-adventure.json) |
 | Half-Life: 25th Anniversary Update | 277523 | [277523-half-life-25th-anniversary-update.json](./277523-half-life-25th-anniversary-update.json) |
 | Half-Life: Abeyance | 221789 | [221789-half-life-abeyance.json](./221789-half-life-abeyance.json) |
 | Half-Life: Absolute Zero | 168931 | [168931-half-life-absolute-zero.json](./168931-half-life-absolute-zero.json) |
@@ -1617,6 +1618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah Montana: Spotlight World Tour | 50611 | [50611-hannah-montana-spotlight-world-tour.json](./50611-hannah-montana-spotlight-world-tour.json) |
 | Hannah Montana: The Movie | 7006 | [7006-hannah-montana-the-movie.json](./7006-hannah-montana-the-movie.json) |
 | Hannah Montana: Wireless Quest | 283566 | [283566-hannah-montana-wireless-quest.json](./283566-hannah-montana-wireless-quest.json) |
+| Hannah VCR | 277617 | [277617-hannah-vcr.json](./277617-hannah-vcr.json) |
 | Hannah's Day | 289819 | [289819-hannahs-day.json](./289819-hannahs-day.json) |
 | Hannibal | 405536 | [405536-hannibal.json](./405536-hannibal.json) |
 | Hannibal | 93114 | [93114-hannibal.json](./93114-hannibal.json) |
@@ -7362,6 +7364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiber | 113369 | [113369-hiber.json](./113369-hiber.json) |
 | Hibera, Requiem for the Forgotten | 396615 | [396615-hibera-requiem-for-the-forgotten.json](./396615-hibera-requiem-for-the-forgotten.json) |
 | Hibernaculum | 225794 | [225794-hibernaculum.json](./225794-hibernaculum.json) |
+| Hibernation | 277482 | [277482-hibernation.json](./277482-hibernation.json) |
 | Hibernation | 339638 | [339638-hibernation.json](./339638-hibernation.json) |
 | Hibernation Day | 247772 | [247772-hibernation-day.json](./247772-hibernation-day.json) |
 | Hibernia | 185084 | [185084-hibernia.json](./185084-hibernia.json) |
@@ -9823,6 +9826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holy Justice: Galaxy Outcast | 372442 | [372442-holy-justice-galaxy-outcast.json](./372442-holy-justice-galaxy-outcast.json) |
 | Holy Knight Bitch | 82902 | [82902-holy-knight-bitch.json](./82902-holy-knight-bitch.json) |
 | Holy Light | 305966 | [305966-holy-light.json](./305966-holy-light.json) |
+| Holy Maid Academy | 277479 | [277479-holy-maid-academy.json](./277479-holy-maid-academy.json) |
 | Holy Moly | 185816 | [185816-holy-moly.json](./185816-holy-moly.json) |
 | Holy Moonlight | 401454 | [401454-holy-moonlight.json](./401454-holy-moonlight.json) |
 | Holy Nope! | 390307 | [390307-holy-nope.json](./390307-holy-nope.json) |
@@ -12405,6 +12409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hue Am I? | 128830 | [128830-hue-am-i.json](./128830-hue-am-i.json) |
 | Hue change | 184379 | [184379-hue-change.json](./184379-hue-change.json) |
 | Hue Defense | 95088 | [95088-hue-defense.json](./95088-hue-defense.json) |
+| Hue Drops | 277469 | [277469-hue-drops.json](./277469-hue-drops.json) |
 | Hue Factory | 403067 | [403067-hue-factory.json](./403067-hue-factory.json) |
 | Hue Hooligans | 323856 | [323856-hue-hooligans.json](./323856-hue-hooligans.json) |
 | Hue Hop | 311642 | [311642-hue-hop.json](./311642-hue-hop.json) |
