@@ -8103,6 +8103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Corruption | 333148 | [333148-the-corruption.json](./333148-the-corruption.json) |
 | The Corruption Within | 153387 | [153387-the-corruption-within.json](./153387-the-corruption-within.json) |
 | The Cosmic Balance | 21927 | [21927-the-cosmic-balance.json](./21927-the-cosmic-balance.json) |
+| The Cosmic Tramp | 268231 | [268231-the-cosmic-tramp.json](./268231-the-cosmic-tramp.json) |
 | The Cosmic Tunnels | 62760 | [62760-the-cosmic-tunnels.json](./62760-the-cosmic-tunnels.json) |
 | The Cosmic Wheel Sisterhood - Deluxe Edition | 261993 | [261993-the-cosmic-wheel-sisterhood-deluxe-edition.json](./261993-the-cosmic-wheel-sisterhood-deluxe-edition.json) |
 | The Cosmos is Mine! | 35800 | [35800-the-cosmos-is-mine.json](./35800-the-cosmos-is-mine.json) |
@@ -13698,10 +13699,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Petrie's Challenge | 268675 | [268675-the-legend-of-zelda-petries-challenge.json](./268675-the-legend-of-zelda-petries-challenge.json) |
 | The Legend of Zelda: Picross | 172690 | [172690-the-legend-of-zelda-picross.json](./172690-the-legend-of-zelda-picross.json) |
 | The Legend of Zelda: PuzzleDude's Quest | 268406 | [268406-the-legend-of-zelda-puzzledudes-quest.json](./268406-the-legend-of-zelda-puzzledudes-quest.json) |
+| The Legend of Zelda: Puzzling | 268680 | [268680-the-legend-of-zelda-puzzling.json](./268680-the-legend-of-zelda-puzzling.json) |
 | The Legend of Zelda: Relics of the Past | 250319 | [250319-the-legend-of-zelda-relics-of-the-past.json](./250319-the-legend-of-zelda-relics-of-the-past.json) |
 | The Legend of Zelda: Return of the Hylian | 46430 | [46430-the-legend-of-zelda-return-of-the-hylian.json](./46430-the-legend-of-zelda-return-of-the-hylian.json) |
 | The Legend of Zelda: Return of the Hylian SE | 243616 | [243616-the-legend-of-zelda-return-of-the-hylian-se.json](./243616-the-legend-of-zelda-return-of-the-hylian-se.json) |
 | The Legend of Zelda: Revival | 277873 | [277873-the-legend-of-zelda-revival.json](./277873-the-legend-of-zelda-revival.json) |
+| The Legend of Zelda: Ruinous Shards | 268682 | [268682-the-legend-of-zelda-ruinous-shards.json](./268682-the-legend-of-zelda-ruinous-shards.json) |
+| The Legend of Zelda: Sacred Armor - Project Izou | 268683 | [268683-the-legend-of-zelda-sacred-armor-project-izou.json](./268683-the-legend-of-zelda-sacred-armor-project-izou.json) |
 | The Legend of Zelda: Sage Knight | 323756 | [323756-the-legend-of-zelda-sage-knight.json](./323756-the-legend-of-zelda-sage-knight.json) |
 | The Legend of Zelda: Sands of Time | 326156 | [326156-the-legend-of-zelda-sands-of-time.json](./326156-the-legend-of-zelda-sands-of-time.json) |
 | The Legend of Zelda: Second Wind | 149979 | [149979-the-legend-of-zelda-second-wind.json](./149979-the-legend-of-zelda-second-wind.json) |
@@ -13761,6 +13765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Whomp's Fortress | 299484 | [299484-the-legend-of-zelda-whomps-fortress.json](./299484-the-legend-of-zelda-whomps-fortress.json) |
 | The Legend of Zelda: Winter Solstice | 254478 | [254478-the-legend-of-zelda-winter-solstice.json](./254478-the-legend-of-zelda-winter-solstice.json) |
 | The Legend of Zelda: Z for 2 | 413804 | [413804-the-legend-of-zelda-z-for-2.json](./413804-the-legend-of-zelda-z-for-2.json) |
+| The Legend of Zelda: Zelda's Eternal Youth | 268684 | [268684-the-legend-of-zelda-zeldas-eternal-youth.json](./268684-the-legend-of-zelda-zeldas-eternal-youth.json) |
 | The Legend of Zeldo: Lonk's Awakening DX | 282982 | [282982-the-legend-of-zeldo-lonks-awakening-dx.json](./282982-the-legend-of-zeldo-lonks-awakening-dx.json) |
 | The Legend Returns | 347030 | [347030-the-legend-returns.json](./347030-the-legend-returns.json) |
 | The Legend: A University Story | 33797 | [33797-the-legend-a-university-story.json](./33797-the-legend-a-university-story.json) |
@@ -14617,6 +14622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Master Club | 111524 | [111524-the-master-club.json](./111524-the-master-club.json) |
 | The Master of Puzzles | 236654 | [236654-the-master-of-puzzles.json](./236654-the-master-of-puzzles.json) |
 | The Master of the Land | 362278 | [362278-the-master-of-the-land.json](./362278-the-master-of-the-land.json) |
+| The Master's Domain | 268623 | [268623-the-masters-domain.json](./268623-the-masters-domain.json) |
 | The Master's Pupil | 211813 | [211813-the-masters-pupil.json](./211813-the-masters-pupil.json) |
 | The Masterplan | 10995 | [10995-the-masterplan.json](./10995-the-masterplan.json) |
 | The Masters of Kin | 40360 | [40360-the-masters-of-kin.json](./40360-the-masters-of-kin.json) |
@@ -34945,6 +34951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Light Rush | 207707 | [207707-turbo-light-rush.json](./207707-turbo-light-rush.json) |
 | Turbo Live | 318765 | [318765-turbo-live.json](./318765-turbo-live.json) |
 | Turbo Loop | 406952 | [406952-turbo-loop.json](./406952-turbo-loop.json) |
+| Turbo Maze Man | 268705 | [268705-turbo-maze-man.json](./268705-turbo-maze-man.json) |
 | Turbo OutRun | 2053 | [2053-turbo-outrun.json](./2053-turbo-outrun.json) |
 | Turbo OutRun Reimagined | 349882 | [349882-turbo-outrun-reimagined.json](./349882-turbo-outrun-reimagined.json) |
 | Turbo Pizza | 186250 | [186250-turbo-pizza.json](./186250-turbo-pizza.json) |
