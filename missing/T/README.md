@@ -1003,6 +1003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Takeout | 306368 | [306368-takeout.json](./306368-takeout.json) |
 | Takeout food | 107902 | [107902-takeout-food.json](./107902-takeout-food.json) |
 | Takeover | 175041 | [175041-takeover.json](./175041-takeover.json) |
+| Takeover | 270262 | [270262-takeover.json](./270262-takeover.json) |
 | Takeover | 304587 | [304587-takeover.json](./304587-takeover.json) |
 | Takeover | 360505 | [360505-takeover.json](./360505-takeover.json) |
 | Takeover | 405600 | [405600-takeover.json](./405600-takeover.json) |
@@ -4681,6 +4682,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminator: Dark Fate - Defiance: We are Legion | 320901 | [320901-terminator-dark-fate-defiance-we-are-legion.json](./320901-terminator-dark-fate-defiance-we-are-legion.json) |
 | Terminator: Resistance | 122611 | [122611-terminator-resistance.json](./122611-terminator-resistance.json) |
 | Terminator: Resistance - Annihilation Line | 183127 | [183127-terminator-resistance-annihilation-line.json](./183127-terminator-resistance-annihilation-line.json) |
+| Terminator: Resistance - Complete Edition | 270334 | [270334-terminator-resistance-complete-edition.json](./270334-terminator-resistance-complete-edition.json) |
+| Terminator: Resistance - Complete Edition: Collector's Edition | 270335 | [270335-terminator-resistance-complete-edition-collectors-edition.json](./270335-terminator-resistance-complete-edition-collectors-edition.json) |
 | Terminator: Resistance Enhanced | 146146 | [146146-terminator-resistance-enhanced.json](./146146-terminator-resistance-enhanced.json) |
 | Terminator: Resistance Enhanced - Collector's Edition | 146147 | [146147-terminator-resistance-enhanced-collectors-edition.json](./146147-terminator-resistance-enhanced-collectors-edition.json) |
 | Terminator: Revenge | 73934 | [73934-terminator-revenge.json](./73934-terminator-revenge.json) |
@@ -7385,6 +7388,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bunny Burrow | 362738 | [362738-the-bunny-burrow.json](./362738-the-bunny-burrow.json) |
 | The Bunny Graveyard | 197086 | [197086-the-bunny-graveyard.json](./197086-the-bunny-graveyard.json) |
 | The Bunny Graveyard II | 350142 | [350142-the-bunny-graveyard-ii.json](./350142-the-bunny-graveyard-ii.json) |
+| The Bunny Graveyard: Chapter 1 - The Bunny Garden | 270250 | [270250-the-bunny-graveyard-chapter-1-the-bunny-garden.json](./270250-the-bunny-graveyard-chapter-1-the-bunny-garden.json) |
+| The Bunny Graveyard: Chapter 2 - Terror in Carrot Town | 270260 | [270260-the-bunny-graveyard-chapter-2-terror-in-carrot-town.json](./270260-the-bunny-graveyard-chapter-2-terror-in-carrot-town.json) |
 | The BunnyLord Pro Hater Pack | 82412 | [82412-the-bunnylord-pro-hater-pack.json](./82412-the-bunnylord-pro-hater-pack.json) |
 | The Bunnyman | 224579 | [224579-the-bunnyman.json](./224579-the-bunnyman.json) |
 | The Bunnyman | 263442 | [263442-the-bunnyman.json](./263442-the-bunnyman.json) |
@@ -12693,6 +12698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lampkeeper | 362150 | [362150-the-lampkeeper.json](./362150-the-lampkeeper.json) |
 | The Lamplighters League: Deluxe Edition | 255468 | [255468-the-lamplighters-league-deluxe-edition.json](./255468-the-lamplighters-league-deluxe-edition.json) |
 | The Lamplighters League: Isaac | 279282 | [279282-the-lamplighters-league-isaac.json](./279282-the-lamplighters-league-isaac.json) |
+| The Lamplighters League: Nocturne | 270348 | [270348-the-lamplighters-league-nocturne.json](./270348-the-lamplighters-league-nocturne.json) |
 | The Lancaster Leak: Crisis at Call Center | 260586 | [260586-the-lancaster-leak-crisis-at-call-center.json](./260586-the-lancaster-leak-crisis-at-call-center.json) |
 | The Lancaster Leak: Entity Exam | 287920 | [287920-the-lancaster-leak-entity-exam.json](./287920-the-lancaster-leak-entity-exam.json) |
 | The Lancaster Leak: O'Brien State Park | 244412 | [244412-the-lancaster-leak-obrien-state-park.json](./244412-the-lancaster-leak-obrien-state-park.json) |
@@ -13444,6 +13450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Kusakari | 23421 | [23421-the-legend-of-kusakari.json](./23421-the-legend-of-kusakari.json) |
 | The Legend of Kyrandia | 1282 | [1282-the-legend-of-kyrandia.json](./1282-the-legend-of-kyrandia.json) |
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
+| The Legend of Legacy HD Remastered: Deluxe Edition | 270259 | [270259-the-legend-of-legacy-hd-remastered-deluxe-edition.json](./270259-the-legend-of-legacy-hd-remastered-deluxe-edition.json) |
 | The Legend of Legacy: HD Remastered | 268421 | [268421-the-legend-of-legacy-hd-remastered.json](./268421-the-legend-of-legacy-hd-remastered.json) |
 | The Legend of Legacy: Launch Edition | 44020 | [44020-the-legend-of-legacy-launch-edition.json](./44020-the-legend-of-legacy-launch-edition.json) |
 | The Legend of Liu Bei of the Three Kingdoms | 282184 | [282184-the-legend-of-liu-bei-of-the-three-kingdoms.json](./282184-the-legend-of-liu-bei-of-the-three-kingdoms.json) |
@@ -21797,6 +21804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thousands of Years Later | 33224 | [33224-thousands-of-years-later.json](./33224-thousands-of-years-later.json) |
 | Thousands Rooms Under the Reality | 258091 | [258091-thousands-rooms-under-the-reality.json](./258091-thousands-rooms-under-the-reality.json) |
 | Thrae | 337576 | [337576-thrae.json](./337576-thrae.json) |
+| Thrall | 270357 | [270357-thrall.json](./270357-thrall.json) |
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
 | Thrash Rally | 46521 | [46521-thrash-rally.json](./46521-thrash-rally.json) |
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
@@ -26091,6 +26099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Today I Die | 55978 | [55978-today-i-die.json](./55978-today-i-die.json) |
 | Today I Went on a Quest | 258847 | [258847-today-i-went-on-a-quest.json](./258847-today-i-went-on-a-quest.json) |
 | Today is my Birthday | 112266 | [112266-today-is-my-birthday.json](./112266-today-is-my-birthday.json) |
+| Today is the End of the World | 270359 | [270359-today-is-the-end-of-the-world.json](./270359-today-is-the-end-of-the-world.json) |
 | Today, I'll Be The Hero | 409044 | [409044-today-ill-be-the-hero.json](./409044-today-ill-be-the-hero.json) |
 | Today's Ako-chan | 83688 | [83688-todays-ako-chan.json](./83688-todays-ako-chan.json) |
 | Today's Menu | 389111 | [389111-todays-menu.json](./389111-todays-menu.json) |
@@ -27588,6 +27597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toraware no Palm: Refrain | 109603 | [109603-toraware-no-palm-refrain.json](./109603-toraware-no-palm-refrain.json) |
 | Toraware no Palm: Refrain - Deluxe Edition | 136843 | [136843-toraware-no-palm-refrain-deluxe-edition.json](./136843-toraware-no-palm-refrain-deluxe-edition.json) |
 | Toraware no Shoujo: Bluebird of Happiness | 151824 | [151824-toraware-no-shoujo-bluebird-of-happiness.json](./151824-toraware-no-shoujo-bluebird-of-happiness.json) |
+| Toraware no Shoujo: Caged Girl | 270247 | [270247-toraware-no-shoujo-caged-girl.json](./270247-toraware-no-shoujo-caged-girl.json) |
 | Torawareta Garasu no Kokoro | 70310 | [70310-torawareta-garasu-no-kokoro.json](./70310-torawareta-garasu-no-kokoro.json) |
 | Torawase: The Girl in the Mirror | 397911 | [397911-torawase-the-girl-in-the-mirror.json](./397911-torawase-the-girl-in-the-mirror.json) |
 | Torb | 176326 | [176326-torb.json](./176326-torb.json) |
@@ -33069,6 +33079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick or Beat | 404236 | [404236-trick-or-beat.json](./404236-trick-or-beat.json) |
 | Trick or Freak | 417216 | [417216-trick-or-freak.json](./417216-trick-or-freak.json) |
 | Trick or Treat | 197386 | [197386-trick-or-treat.json](./197386-trick-or-treat.json) |
+| Trick or Treat | 270261 | [270261-trick-or-treat.json](./270261-trick-or-treat.json) |
 | Trick or Treat | 375496 | [375496-trick-or-treat.json](./375496-trick-or-treat.json) |
 | Trick or Treat | 94358 | [94358-trick-or-treat.json](./94358-trick-or-treat.json) |
 | Trick or Treat Halloween Solitaire | 386125 | [386125-trick-or-treat-halloween-solitaire.json](./386125-trick-or-treat-halloween-solitaire.json) |
