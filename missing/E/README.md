@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Golf | 70617 | [70617-easy-golf.json](./70617-easy-golf.json) |
 | Easy Golf: Course Architect | 23020 | [23020-easy-golf-course-architect.json](./23020-easy-golf-course-architect.json) |
 | Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
+| Easy Hentai Puzzle 2 | 286739 | [286739-easy-hentai-puzzle-2.json](./286739-easy-hentai-puzzle-2.json) |
 | Easy Japanese Hiragana | 367749 | [367749-easy-japanese-hiragana.json](./367749-easy-japanese-hiragana.json) |
 | Easy Japanesey | 269375 | [269375-easy-japanesey.json](./269375-easy-japanesey.json) |
 | Easy Japanesey 2 | 269376 | [269376-easy-japanesey-2.json](./269376-easy-japanesey-2.json) |
