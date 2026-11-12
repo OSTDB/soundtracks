@@ -9137,6 +9137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flux Heroes | 410314 | [410314-flux-heroes.json](./410314-flux-heroes.json) |
 | Flux: Spectrum | 281160 | [281160-flux-spectrum.json](./281160-flux-spectrum.json) |
 | Flux8 | 50513 | [50513-flux8.json](./50513-flux8.json) |
+| Fluxed | 301713 | [301713-fluxed.json](./301713-fluxed.json) |
 | Fluxgates | 417364 | [417364-fluxgates.json](./417364-fluxgates.json) |
 | Fluxion | 243568 | [243568-fluxion.json](./243568-fluxion.json) |
 | Fluxly | 106484 | [106484-fluxly.json](./106484-fluxly.json) |
@@ -9165,6 +9166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly Fishing 3D II | 242392 | [242392-fly-fishing-3d-ii.json](./242392-fly-fishing-3d-ii.json) |
 | Fly Fly | 311057 | [311057-fly-fly.json](./311057-fly-fly.json) |
 | Fly Fly Dragon! | 255123 | [255123-fly-fly-dragon.json](./255123-fly-fly-dragon.json) |
+| Fly Fly Monster Truck 2 | 301706 | [301706-fly-fly-monster-truck-2.json](./301706-fly-fly-monster-truck-2.json) |
 | Fly Fly Tank | 129735 | [129735-fly-fly-tank.json](./129735-fly-fly-tank.json) |
 | Fly Fly Tuk Tuk | 211112 | [211112-fly-fly-tuk-tuk.json](./211112-fly-fly-tuk-tuk.json) |
 | Fly for Fly | 380403 | [380403-fly-for-fly.json](./380403-fly-for-fly.json) |
