@@ -744,6 +744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Romantic Cats: Extra Content | 359566 | [359566-100-romantic-cats-extra-content.json](./359566-100-romantic-cats-extra-content.json) |
 | 100 Rooms | 283038 | [283038-100-rooms.json](./283038-100-rooms.json) |
 | 100 Rooms | 376837 | [376837-100-rooms.json](./376837-100-rooms.json) |
+| 100 Rooms of Enemies | 247184 | [247184-100-rooms-of-enemies.json](./247184-100-rooms-of-enemies.json) |
 | 100 Rounds | 270067 | [270067-100-rounds.json](./270067-100-rounds.json) |
 | 100 Rub: Operation Global Denomination | 169676 | [169676-100-rub-operation-global-denomination.json](./169676-100-rub-operation-global-denomination.json) |
 | 100 Ruin Cats | 347756 | [347756-100-ruin-cats.json](./347756-100-ruin-cats.json) |
