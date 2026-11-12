@@ -1263,6 +1263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samba de Amigo | 70087 | [70087-samba-de-amigo.json](./70087-samba-de-amigo.json) |
 | Samba de Amigo ver. 2000 | 85768 | [85768-samba-de-amigo-ver-2000.json](./85768-samba-de-amigo-ver-2000.json) |
 | Samba de Amigo: Party Central | 236658 | [236658-samba-de-amigo-party-central.json](./236658-samba-de-amigo-party-central.json) |
+| Samba de Amigo: Party Central - All in Pack | 264947 | [264947-samba-de-amigo-party-central-all-in-pack.json](./264947-samba-de-amigo-party-central-all-in-pack.json) |
 | Samba de Amigo: Party Central - Digital Deluxe Edition | 251097 | [251097-samba-de-amigo-party-central-digital-deluxe-edition.json](./251097-samba-de-amigo-party-central-digital-deluxe-edition.json) |
 | Samba de Amigo: Party-To-Go | 264096 | [264096-samba-de-amigo-party-to-go.json](./264096-samba-de-amigo-party-to-go.json) |
 | Samba de Amigo: Virtual Party | 251561 | [251561-samba-de-amigo-virtual-party.json](./251561-samba-de-amigo-virtual-party.json) |
@@ -5075,6 +5076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sect And Monsters | 291492 | [291492-sect-and-monsters.json](./291492-sect-and-monsters.json) |
 | Sect House | 343828 | [343828-sect-house.json](./343828-sect-house.json) |
 | Sect Leader's Decree | 393981 | [393981-sect-leaders-decree.json](./393981-sect-leaders-decree.json) |
+| Sect-Machina | 264928 | [264928-sect-machina.json](./264928-sect-machina.json) |
 | Sectant | 144259 | [144259-sectant.json](./144259-sectant.json) |
 | Section 13 | 215221 | [215221-section-13.json](./215221-section-13.json) |
 | Section 8 | 7184 | [7184-section-8.json](./7184-section-8.json) |
@@ -9453,6 +9455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shipmatch | 256232 | [256232-shipmatch.json](./256232-shipmatch.json) |
 | ShipOS 1994 | 312191 | [312191-shipos-1994.json](./312191-shipos-1994.json) |
 | Shippin | 325204 | [325204-shippin.json](./325204-shippin.json) |
+| Shipping Manager | 264937 | [264937-shipping-manager.json](./264937-shipping-manager.json) |
 | Shipping Nightmares | 335220 | [335220-shipping-nightmares.json](./335220-shipping-nightmares.json) |
 | Shipping Out! | 185383 | [185383-shipping-out.json](./185383-shipping-out.json) |
 | Shippuu! Iron Leaguer | 61391 | [61391-shippuu-iron-leaguer.json](./61391-shippuu-iron-leaguer.json) |
@@ -18668,6 +18671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic and the Dreamcatcher | 325194 | [325194-sonic-and-the-dreamcatcher.json](./325194-sonic-and-the-dreamcatcher.json) |
 | Sonic and the Elements of Harmony | 326501 | [326501-sonic-and-the-elements-of-harmony.json](./326501-sonic-and-the-elements-of-harmony.json) |
 | Sonic and the Fallen Star | 207176 | [207176-sonic-and-the-fallen-star.json](./207176-sonic-and-the-fallen-star.json) |
+| Sonic and the Gunslinger | 264850 | [264850-sonic-and-the-gunslinger.json](./264850-sonic-and-the-gunslinger.json) |
 | Sonic and the Mayhem Master | 321076 | [321076-sonic-and-the-mayhem-master.json](./321076-sonic-and-the-mayhem-master.json) |
 | Sonic and the Moon Facility | 313058 | [313058-sonic-and-the-moon-facility.json](./313058-sonic-and-the-moon-facility.json) |
 | Sonic and the Moon Faucility | 363153 | [363153-sonic-and-the-moon-faucility.json](./363153-sonic-and-the-moon-faucility.json) |
@@ -22303,6 +22307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark the Battle Dog | 166919 | [166919-spark-the-battle-dog.json](./166919-spark-the-battle-dog.json) |
 | Spark the Electric Jester 2 | 118119 | [118119-spark-the-electric-jester-2.json](./118119-spark-the-electric-jester-2.json) |
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
+| Spark vs. The Marshmallows | 264915 | [264915-spark-vs-the-marshmallows.json](./264915-spark-vs-the-marshmallows.json) |
 | Spark World | 37850 | [37850-spark-world.json](./37850-spark-world.json) |
 | Spark: Hero Tactics | 335596 | [335596-spark-hero-tactics.json](./335596-spark-hero-tactics.json) |
 | Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
