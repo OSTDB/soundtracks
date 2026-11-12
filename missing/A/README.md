@@ -2078,6 +2078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abduction | 186493 | [186493-abduction.json](./186493-abduction.json) |
 | Abduction | 268333 | [268333-abduction.json](./268333-abduction.json) |
 | Abduction | 288123 | [288123-abduction.json](./288123-abduction.json) |
+| Abduction | 312919 | [312919-abduction.json](./312919-abduction.json) |
 | Abduction Action! Plus | 35490 | [35490-abduction-action-plus.json](./35490-abduction-action-plus.json) |
 | Abduction Bit | 30664 | [30664-abduction-bit.json](./30664-abduction-bit.json) |
 | Abduction Episode 1: Her Name Was Sarah | 32170 | [32170-abduction-episode-1-her-name-was-sarah.json](./32170-abduction-episode-1-her-name-was-sarah.json) |
@@ -2088,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abductor | 41192 | [41192-abductor.json](./41192-abductor.json) |
 | Abe VR | 33117 | [33117-abe-vr.json](./33117-abe-vr.json) |
 | Abedot Family Estate: Search For Hidden Objects | 201421 | [201421-abedot-family-estate-search-for-hidden-objects.json](./201421-abedot-family-estate-search-for-hidden-objects.json) |
+| Abejuela's Power: The Game | 312930 | [312930-abejuelas-power-the-game.json](./312930-abejuelas-power-the-game.json) |
 | Abel: Shin Mokushiroku Taisen | 299785 | [299785-abel-shin-mokushiroku-taisen.json](./299785-abel-shin-mokushiroku-taisen.json) |
 | Abelana's Atom Maker | 157381 | [157381-abelanas-atom-maker.json](./157381-abelanas-atom-maker.json) |
 | Abelardo: Steakhouse Musician | 232001 | [232001-abelardo-steakhouse-musician.json](./232001-abelardo-steakhouse-musician.json) |
@@ -2218,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abracadabra | 383355 | [383355-abracadabra.json](./383355-abracadabra.json) |
 | Abracademia | 383053 | [383053-abracademia.json](./383053-abracademia.json) |
 | Abracademy | 182668 | [182668-abracademy.json](./182668-abracademy.json) |
+| Abrah, l'orphelin de l'espace | 312941 | [312941-abrah-lorphelin-de-lespace.json](./312941-abrah-lorphelin-de-lespace.json) |
 | Abraham Link Coln on Dessert Island | 398541 | [398541-abraham-link-coln-on-dessert-island.json](./398541-abraham-link-coln-on-dessert-island.json) |
 | Abrakadaboom | 113620 | [113620-abrakadaboom.json](./113620-abrakadaboom.json) |
 | Abrakajumpa | 305944 | [305944-abrakajumpa.json](./305944-abrakajumpa.json) |
@@ -14425,6 +14428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ardent: Rise | 408274 | [408274-ardent-rise.json](./408274-ardent-rise.json) |
 | Ardente: La Grande Guerre | 322850 | [322850-ardente-la-grande-guerre.json](./322850-ardente-la-grande-guerre.json) |
 | Ardentryst | 256691 | [256691-ardentryst.json](./256691-ardentryst.json) |
+| Arderico's Journey | 313516 | [313516-ardericos-journey.json](./313516-ardericos-journey.json) |
 | Ardilous | 183523 | [183523-ardilous.json](./183523-ardilous.json) |
 | Ardor | 199386 | [199386-ardor.json](./199386-ardor.json) |
 | Ardor 2 | 365175 | [365175-ardor-2.json](./365175-ardor-2.json) |
@@ -16067,6 +16071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASCII Game Series: Maze | 405227 | [405227-ascii-game-series-maze.json](./405227-ascii-game-series-maze.json) |
 | ASCII Game Series: Pinball | 379539 | [379539-ascii-game-series-pinball.json](./379539-ascii-game-series-pinball.json) |
 | ASCII Game Series: Snake | 334776 | [334776-ascii-game-series-snake.json](./334776-ascii-game-series-snake.json) |
+| ASCII Pacman | 312936 | [312936-ascii-pacman.json](./312936-ascii-pacman.json) |
 | Ascii Sector | 289583 | [289583-ascii-sector.json](./289583-ascii-sector.json) |
 | ASCII Survivors | 398448 | [398448-ascii-survivors.json](./398448-ascii-survivors.json) |
 | Ascii the Brave Cat | 143752 | [143752-ascii-the-brave-cat.json](./143752-ascii-the-brave-cat.json) |
