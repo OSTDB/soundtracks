@@ -2035,6 +2035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarpForce | 55876 | [55876-warpforce.json](./55876-warpforce.json) |
 | Warpgate | 66814 | [66814-warpgate.json](./66814-warpgate.json) |
 | Warpgate Pioneers | 280105 | [280105-warpgate-pioneers.json](./280105-warpgate-pioneers.json) |
+| Warphouse | 273538 | [273538-warphouse.json](./273538-warphouse.json) |
 | Warpie | 188034 | [188034-warpie.json](./188034-warpie.json) |
 | Warpin: Creation (VR) | 30724 | [30724-warpin-creation-vr.json](./30724-warpin-creation-vr.json) |
 | Warpitout | 172412 | [172412-warpitout.json](./172412-warpitout.json) |
@@ -3870,6 +3871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westward IV: All Aboard | 7531 | [7531-westward-iv-all-aboard.json](./7531-westward-iv-all-aboard.json) |
 | Westward Journey Online | 62181 | [62181-westward-journey-online.json](./62181-westward-journey-online.json) |
 | Westward Kingdoms | 7532 | [7532-westward-kingdoms.json](./7532-westward-kingdoms.json) |
+| Westwich Castle | 273537 | [273537-westwich-castle.json](./273537-westwich-castle.json) |
 | Westworld | 90565 | [90565-westworld.json](./90565-westworld.json) |
 | Westworld | 97841 | [97841-westworld.json](./97841-westworld.json) |
 | Westworld 2000 | 72304 | [72304-westworld-2000.json](./72304-westworld-2000.json) |
