@@ -1684,6 +1684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Toon Standing | 72512 | [72512-last-toon-standing.json](./72512-last-toon-standing.json) |
 | Last Train Home | 131385 | [131385-last-train-home.json](./131385-last-train-home.json) |
 | Last Train Home: Digital Deluxe Edition | 278580 | [278580-last-train-home-digital-deluxe-edition.json](./278580-last-train-home-digital-deluxe-edition.json) |
+| Last Train Home: Legion Tales | 289512 | [289512-last-train-home-legion-tales.json](./289512-last-train-home-legion-tales.json) |
 | Last Train Outta' Wormtown | 244593 | [244593-last-train-outta-wormtown.json](./244593-last-train-outta-wormtown.json) |
 | Last Train to Tranz-Central | 153595 | [153595-last-train-to-tranz-central.json](./153595-last-train-to-tranz-central.json) |
 | Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
