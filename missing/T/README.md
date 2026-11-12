@@ -11635,6 +11635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hula Hamsters | 71797 | [71797-the-hula-hamsters.json](./71797-the-hula-hamsters.json) |
 | The Hum | 60705 | [60705-the-hum.json](./60705-the-hum.json) |
 | The Hum: Abductions | 56876 | [56876-the-hum-abductions.json](./56876-the-hum-abductions.json) |
+| The Human Fly | 287278 | [287278-the-human-fly.json](./287278-the-human-fly.json) |
 | The Human Heart | 177913 | [177913-the-human-heart.json](./177913-the-human-heart.json) |
 | The Human Race | 26415 | [26415-the-human-race.json](./26415-the-human-race.json) |
 | The Human Show | 256645 | [256645-the-human-show.json](./256645-the-human-show.json) |
@@ -35428,6 +35429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Peaks - Black Lodge 2600 | 50369 | [50369-twin-peaks-black-lodge-2600.json](./50369-twin-peaks-black-lodge-2600.json) |
 | Twin Peaks VR | 110584 | [110584-twin-peaks-vr.json](./110584-twin-peaks-vr.json) |
 | Twin Peaks: Into the Night | 261025 | [261025-twin-peaks-into-the-night.json](./261025-twin-peaks-into-the-night.json) |
+| Twin Puzzle: Kisekae Wanko EX | 287262 | [287262-twin-puzzle-kisekae-wanko-ex.json](./287262-twin-puzzle-kisekae-wanko-ex.json) |
 | Twin Qix | 40491 | [40491-twin-qix.json](./40491-twin-qix.json) |
 | Twin Roads | 43176 | [43176-twin-roads.json](./43176-twin-roads.json) |
 | Twin Robots | 35144 | [35144-twin-robots.json](./35144-twin-robots.json) |
