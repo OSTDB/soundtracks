@@ -3046,6 +3046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4016,6 +4017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KinnikuNeko: Super Muscle Cat | 226869 | [226869-kinnikuneko-super-muscle-cat.json](./226869-kinnikuneko-super-muscle-cat.json) |
 | Kinny and the Cosmic Cauldron | 392078 | [392078-kinny-and-the-cosmic-cauldron.json](./392078-kinny-and-the-cosmic-cauldron.json) |
 | Kinny and the Lost Starlight | 295092 | [295092-kinny-and-the-lost-starlight.json](./295092-kinny-and-the-lost-starlight.json) |
+| Kinny and the Star Track Puzzle | 259299 | [259299-kinny-and-the-star-track-puzzle.json](./259299-kinny-and-the-star-track-puzzle.json) |
 | Kino | 383157 | [383157-kino.json](./383157-kino.json) |
 | Kino no Tabi II: The Beautiful World | 141757 | [141757-kino-no-tabi-ii-the-beautiful-world.json](./141757-kino-no-tabi-ii-the-beautiful-world.json) |
 | Kino One | 54148 | [54148-kino-one.json](./54148-kino-one.json) |
@@ -4420,6 +4422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitten Command | 321684 | [321684-kitten-command.json](./321684-kitten-command.json) |
 | Kitten Connection | 422816 | [422816-kitten-connection.json](./422816-kitten-connection.json) |
 | Kitten Food Alley | 332963 | [332963-kitten-food-alley.json](./332963-kitten-food-alley.json) |
+| Kitten Force FRVR | 259304 | [259304-kitten-force-frvr.json](./259304-kitten-force-frvr.json) |
 | Kitten Greatest | 422812 | [422812-kitten-greatest.json](./422812-kitten-greatest.json) |
 | Kitten Hero | 203679 | [203679-kitten-hero.json](./203679-kitten-hero.json) |
 | Kitten Home: Neko Collector | 242133 | [242133-kitten-home-neko-collector.json](./242133-kitten-home-neko-collector.json) |
@@ -5191,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knot in 3D | 79303 | [79303-knot-in-3d.json](./79303-knot-in-3d.json) |
 | Knot Me! | 146474 | [146474-knot-me.json](./146474-knot-me.json) |
 | Knot My Job | 410403 | [410403-knot-my-job.json](./410403-knot-my-job.json) |
+| Knot Pharmacard Subcondition-J | 259208 | [259208-knot-pharmacard-subcondition-j.json](./259208-knot-pharmacard-subcondition-j.json) |
 | Knot: Serpent Arena | 392923 | [392923-knot-serpent-arena.json](./392923-knot-serpent-arena.json) |
 | KnotBot | 132549 | [132549-knotbot.json](./132549-knotbot.json) |
 | Knotmania | 97152 | [97152-knotmania.json](./97152-knotmania.json) |
