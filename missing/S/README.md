@@ -8702,6 +8702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield Shock: Winter Wonderland Pack | 166431 | [166431-shield-shock-winter-wonderland-pack.json](./166431-shield-shock-winter-wonderland-pack.json) |
 | Shield Strike | 301126 | [301126-shield-strike.json](./301126-shield-strike.json) |
 | Shieldbound | 349406 | [349406-shieldbound.json](./349406-shieldbound.json) |
+| Shielding Color | 309240 | [309240-shielding-color.json](./309240-shielding-color.json) |
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
 | Shieldmaiden: Remix Edition | 231239 | [231239-shieldmaiden-remix-edition.json](./231239-shieldmaiden-remix-edition.json) |
 | Shields of Asgard | 223252 | [223252-shields-of-asgard.json](./223252-shields-of-asgard.json) |
@@ -10384,6 +10385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrouded Tales: Revenge of Shadows | 139741 | [139741-shrouded-tales-revenge-of-shadows.json](./139741-shrouded-tales-revenge-of-shadows.json) |
 | Shrouded Tales: The Spellbound Land | 139743 | [139743-shrouded-tales-the-spellbound-land.json](./139743-shrouded-tales-the-spellbound-land.json) |
 | Shrouded Tales: The Spellbound Land - Collector's Edition | 30401 | [30401-shrouded-tales-the-spellbound-land-collectors-edition.json](./30401-shrouded-tales-the-spellbound-land-collectors-edition.json) |
+| Shroudfall Cove | 309244 | [309244-shroudfall-cove.json](./309244-shroudfall-cove.json) |
 | Shrug Island: The Meeting | 34055 | [34055-shrug-island-the-meeting.json](./34055-shrug-island-the-meeting.json) |
 | Shrumblo and the Magical Grumblo | 190349 | [190349-shrumblo-and-the-magical-grumblo.json](./190349-shrumblo-and-the-magical-grumblo.json) |
 | Shtdn | 202225 | [202225-shtdn.json](./202225-shtdn.json) |
@@ -13858,6 +13860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward Extraction | 302051 | [302051-skyward-extraction.json](./302051-skyward-extraction.json) |
 | Skyward Heroes | 184855 | [184855-skyward-heroes.json](./184855-skyward-heroes.json) |
 | Skyward Journey | 320367 | [320367-skyward-journey.json](./320367-skyward-journey.json) |
+| Skyward Steps Together | 309765 | [309765-skyward-steps-together.json](./309765-skyward-steps-together.json) |
 | Skyward War | 216055 | [216055-skyward-war.json](./216055-skyward-war.json) |
 | Skywatching | 177303 | [177303-skywatching.json](./177303-skywatching.json) |
 | Skyway | 30974 | [30974-skyway.json](./30974-skyway.json) |
@@ -22626,6 +22629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedJumper | 334787 | [334787-speedjumper.json](./334787-speedjumper.json) |
 | Speedmap Snack Pack | 270846 | [270846-speedmap-snack-pack.json](./270846-speedmap-snack-pack.json) |
 | Speedmap Snack Pack 2: Cosmic Hunger | 270847 | [270847-speedmap-snack-pack-2-cosmic-hunger.json](./270847-speedmap-snack-pack-2-cosmic-hunger.json) |
+| Speedmapping Pack 166 | 309263 | [309263-speedmapping-pack-166.json](./309263-speedmapping-pack-166.json) |
 | Speedmapping Pack 189: Doom / Satanic Mechanisms | 312912 | [312912-speedmapping-pack-189-doom-satanic-mechanisms.json](./312912-speedmapping-pack-189-doom-satanic-mechanisms.json) |
 | Speedmapping Pack 196: Quick Honey | 309203 | [309203-speedmapping-pack-196-quick-honey.json](./309203-speedmapping-pack-196-quick-honey.json) |
 | Speedmapping Pack 197: Six Textures - Part 2 | 309204 | [309204-speedmapping-pack-197-six-textures-part-2.json](./309204-speedmapping-pack-197-six-textures-part-2.json) |
@@ -24432,6 +24436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Pad Football | 46122 | [46122-sports-pad-football.json](./46122-sports-pad-football.json) |
 | Sports Paradise VR | 157472 | [157472-sports-paradise-vr.json](./157472-sports-paradise-vr.json) |
 | Sports Party | 110057 | [110057-sports-party.json](./110057-sports-party.json) |
+| Sports Party Motion Sensing Fitness Game | 309705 | [309705-sports-party-motion-sensing-fitness-game.json](./309705-sports-party-motion-sensing-fitness-game.json) |
 | Sports Pinball Bundle | 153837 | [153837-sports-pinball-bundle.json](./153837-sports-pinball-bundle.json) |
 | Sports Scramble | 123205 | [123205-sports-scramble.json](./123205-sports-scramble.json) |
 | Sports Shooting USA | 39431 | [39431-sports-shooting-usa.json](./39431-sports-shooting-usa.json) |
@@ -26752,6 +26757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcraft: Stellar Forces | 135274 | [135274-starcraft-stellar-forces.json](./135274-starcraft-stellar-forces.json) |
 | StarCraft: Stratospace | 135273 | [135273-starcraft-stratospace.json](./135273-starcraft-stratospace.json) |
 | StarCrawlers Chimera | 156937 | [156937-starcrawlers-chimera.json](./156937-starcrawlers-chimera.json) |
+| Starcremental | 309701 | [309701-starcremental.json](./309701-starcremental.json) |
 | Starcrest Saga | 394368 | [394368-starcrest-saga.json](./394368-starcrest-saga.json) |
 | Starcross | 7565 | [7565-starcross.json](./7565-starcross.json) |
 | Starcross Arena | 111901 | [111901-starcross-arena.json](./111901-starcross-arena.json) |
@@ -31453,6 +31459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudeki | 6179 | [6179-sudeki.json](./6179-sudeki.json) |
 | Sudice | 27127 | [27127-sudice.json](./27127-sudice.json) |
 | Sudo Cats | 221263 | [221263-sudo-cats.json](./221263-sudo-cats.json) |
+| Sudo K.O. | 309241 | [309241-sudo-k-o.json](./309241-sudo-k-o.json) |
 | Sudo King | 267545 | [267545-sudo-king.json](./267545-sudo-king.json) |
 | Sudo-O-Mate Junior | 263608 | [263608-sudo-o-mate-junior.json](./263608-sudo-o-mate-junior.json) |
 | Sudoban | 258067 | [258067-sudoban.json](./258067-sudoban.json) |
@@ -32500,6 +32507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset | 195533 | [195533-sunset.json](./195533-sunset.json) |
 | Sunset | 202030 | [202030-sunset.json](./202030-sunset.json) |
 | Sunset 20 Drone Racer | 151069 | [151069-sunset-20-drone-racer.json](./151069-sunset-20-drone-racer.json) |
+| Sunset Afterglow | 309704 | [309704-sunset-afterglow.json](./309704-sunset-afterglow.json) |
 | Sunset Arena | 312711 | [312711-sunset-arena.json](./312711-sunset-arena.json) |
 | Sunset Artisan Chocolate | 412247 | [412247-sunset-artisan-chocolate.json](./412247-sunset-artisan-chocolate.json) |
 | Sunset Beach | 358397 | [358397-sunset-beach.json](./358397-sunset-beach.json) |
