@@ -7110,6 +7110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chef | 231730 | [231730-chef.json](./231730-chef.json) |
 | Chef | 247482 | [247482-chef.json](./247482-chef.json) |
 | Chef | 247653 | [247653-chef.json](./247653-chef.json) |
+| Chef & Friends: Recipe for Success | 309262 | [309262-chef-and-friends-recipe-for-success.json](./309262-chef-and-friends-recipe-for-success.json) |
 | Chef Bacon | 420571 | [420571-chef-bacon.json](./420571-chef-bacon.json) |
 | Chef Boyardee Can Simulator | 242507 | [242507-chef-boyardee-can-simulator.json](./242507-chef-boyardee-can-simulator.json) |
 | Chef Capybara | 253996 | [253996-chef-capybara.json](./253996-chef-capybara.json) |
@@ -18625,6 +18626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cricket Cup | 241113 | [241113-cricket-cup.json](./241113-cricket-cup.json) |
 | Cricket Heroes: VR | 295785 | [295785-cricket-heroes-vr.json](./295785-cricket-heroes-vr.json) |
 | Cricket League | 242218 | [242218-cricket-league.json](./242218-cricket-league.json) |
+| Cricket Legends | 309707 | [309707-cricket-legends.json](./309707-cricket-legends.json) |
 | Cricket Manager 27 | 414308 | [414308-cricket-manager-27.json](./414308-cricket-manager-27.json) |
 | Cricket Revolution | 14941 | [14941-cricket-revolution.json](./14941-cricket-revolution.json) |
 | Cricket Through the Ages | 124398 | [124398-cricket-through-the-ages.json](./124398-cricket-through-the-ages.json) |
