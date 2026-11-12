@@ -6388,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arena | 271408 | [271408-the-arena.json](./271408-the-arena.json) |
 | The Arena | 374033 | [374033-the-arena.json](./374033-the-arena.json) |
 | The Arena Guy | 151029 | [151029-the-arena-guy.json](./151029-the-arena-guy.json) |
+| The Arena Pit | 263735 | [263735-the-arena-pit.json](./263735-the-arena-pit.json) |
 | The Argument Solver | 289308 | [289308-the-argument-solver.json](./289308-the-argument-solver.json) |
 | The Ark | 390005 | [390005-the-ark.json](./390005-the-ark.json) |
 | The Ark Adult Game | 322715 | [322715-the-ark-adult-game.json](./322715-the-ark-adult-game.json) |
@@ -6510,6 +6511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Awakened Blade | 417454 | [417454-the-awakened-blade.json](./417454-the-awakened-blade.json) |
 | The Awakened Fate: Ultimatum | 19119 | [19119-the-awakened-fate-ultimatum.json](./19119-the-awakened-fate-ultimatum.json) |
 | The Awakener: Battle Tendency | 372813 | [372813-the-awakener-battle-tendency.json](./372813-the-awakener-battle-tendency.json) |
+| The Awakener: Forgotten Oath | 263734 | [263734-the-awakener-forgotten-oath.json](./263734-the-awakener-forgotten-oath.json) |
 | The Awakener: Risen | 172702 | [172702-the-awakener-risen.json](./172702-the-awakener-risen.json) |
 | The Awakening | 240959 | [240959-the-awakening.json](./240959-the-awakening.json) |
 | The Awakening of a Villainous Lady: A Crimson and Pure White Romance | 310208 | [310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json](./310208-the-awakening-of-a-villainous-lady-a-crimson-and-pure-white-romance.json) |
@@ -6549,6 +6551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Backrooms 64 | 337430 | [337430-the-backrooms-64.json](./337430-the-backrooms-64.json) |
 | The Backrooms Anthology | 236894 | [236894-the-backrooms-anthology.json](./236894-the-backrooms-anthology.json) |
 | The Backrooms Company | 293614 | [293614-the-backrooms-company.json](./293614-the-backrooms-company.json) |
+| The Backrooms Deluxe | 263733 | [263733-the-backrooms-deluxe.json](./263733-the-backrooms-deluxe.json) |
 | The Backrooms Deluxe 2 | 375882 | [375882-the-backrooms-deluxe-2.json](./375882-the-backrooms-deluxe-2.json) |
 | The Backrooms Exploration | 276116 | [276116-the-backrooms-exploration.json](./276116-the-backrooms-exploration.json) |
 | The Backrooms Footage | 213973 | [213973-the-backrooms-footage.json](./213973-the-backrooms-footage.json) |
@@ -11114,6 +11117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Green Myste | 23549 | [23549-the-green-myste.json](./23549-the-green-myste.json) |
 | The Green Room Experiment: Episode 1 | 232432 | [232432-the-green-room-experiment-episode-1.json](./232432-the-green-room-experiment-episode-1.json) |
 | The Green Room Experiment: Episode 1 VR | 243678 | [243678-the-green-room-experiment-episode-1-vr.json](./243678-the-green-room-experiment-episode-1-vr.json) |
+| The Green Room Experiment: Episode 2 | 263740 | [263740-the-green-room-experiment-episode-2.json](./263740-the-green-room-experiment-episode-2.json) |
 | The Green Room Experiment: Episode 3 | 290011 | [290011-the-green-room-experiment-episode-3.json](./290011-the-green-room-experiment-episode-3.json) |
 | The Green Way: Farming Simulator | 340061 | [340061-the-green-way-farming-simulator.json](./340061-the-green-way-farming-simulator.json) |
 | The Greenening | 339972 | [339972-the-greenening.json](./339972-the-greenening.json) |
@@ -14724,6 +14728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Memphis Chronicles | 405199 | [405199-the-memphis-chronicles.json](./405199-the-memphis-chronicles.json) |
 | The Men of Yoshiwara: Ohgiya | 33398 | [33398-the-men-of-yoshiwara-ohgiya.json](./33398-the-men-of-yoshiwara-ohgiya.json) |
 | The Menacing | 156030 | [156030-the-menacing.json](./156030-the-menacing.json) |
+| The Mending | 263739 | [263739-the-mending.json](./263739-the-mending.json) |
 | The Mensional | 197112 | [197112-the-mensional.json](./197112-the-mensional.json) |
 | The Meowfficer | 337334 | [337334-the-meowfficer.json](./337334-the-meowfficer.json) |
 | The Meownth | 342354 | [342354-the-meownth.json](./342354-the-meownth.json) |
@@ -16358,6 +16363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pure Wargame | 72279 | [72279-the-pure-wargame.json](./72279-the-pure-wargame.json) |
 | The Purgatory | 56988 | [56988-the-purgatory.json](./56988-the-purgatory.json) |
 | The Purgatory and the Stolen Souls | 239285 | [239285-the-purgatory-and-the-stolen-souls.json](./239285-the-purgatory-and-the-stolen-souls.json) |
+| The Purge | 263737 | [263737-the-purge.json](./263737-the-purge.json) |
 | The Purge Club: Kyuusai! Shukusei Circle | 300843 | [300843-the-purge-club-kyuusai-shukusei-circle.json](./300843-the-purge-club-kyuusai-shukusei-circle.json) |
 | The Purge Day | 30607 | [30607-the-purge-day.json](./30607-the-purge-day.json) |
 | The Purge Dilemma | 208543 | [208543-the-purge-dilemma.json](./208543-the-purge-dilemma.json) |
@@ -27131,6 +27137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tongits ZingPlay: Card Game | 357183 | [357183-tongits-zingplay-card-game.json](./357183-tongits-zingplay-card-game.json) |
 | TongTong | 340026 | [340026-tongtong.json](./340026-tongtong.json) |
 | Tongue of Dog | 355084 | [355084-tongue-of-dog.json](./355084-tongue-of-dog.json) |
+| Tongue Tale | 263736 | [263736-tongue-tale.json](./263736-tongue-tale.json) |
 | Tongueman's Logic | 311704 | [311704-tonguemans-logic.json](./311704-tonguemans-logic.json) |
 | Tongzhuo! Wo Xihuan Ni | 403640 | [403640-tongzhuo-wo-xihuan-ni.json](./403640-tongzhuo-wo-xihuan-ni.json) |
 | Toni Island Adventure | 288198 | [288198-toni-island-adventure.json](./288198-toni-island-adventure.json) |
@@ -34134,6 +34141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Blades | 36725 | [36725-true-blades.json](./36725-true-blades.json) |
 | True Bliss | 35448 | [35448-true-bliss.json](./35448-true-bliss.json) |
 | True Blood: The Karthanian Ultimatum | 312810 | [312810-true-blood-the-karthanian-ultimatum.json](./312810-true-blood-the-karthanian-ultimatum.json) |
+| True Boxing VR | 263732 | [263732-true-boxing-vr.json](./263732-true-boxing-vr.json) |
 | True Bum Simulator | 189816 | [189816-true-bum-simulator.json](./189816-true-bum-simulator.json) |
 | True Colors | 120714 | [120714-true-colors.json](./120714-true-colors.json) |
 | True Colors | 228991 | [228991-true-colors.json](./228991-true-colors.json) |
@@ -34935,6 +34943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Champions | 344036 | [344036-turbo-champions.json](./344036-turbo-champions.json) |
 | Turbo Charge | 41142 | [41142-turbo-charge.json](./41142-turbo-charge.json) |
 | Turbo Chess | 63074 | [63074-turbo-chess.json](./63074-turbo-chess.json) |
+| Turbo Chicken Simulator | 263731 | [263731-turbo-chicken-simulator.json](./263731-turbo-chicken-simulator.json) |
 | Turbo Circuit: Speed Racing | 371818 | [371818-turbo-circuit-speed-racing.json](./371818-turbo-circuit-speed-racing.json) |
 | Turbo Circuit: Sports Car Racing | 353589 | [353589-turbo-circuit-sports-car-racing.json](./353589-turbo-circuit-sports-car-racing.json) |
 | Turbo Cup | 72328 | [72328-turbo-cup.json](./72328-turbo-cup.json) |
