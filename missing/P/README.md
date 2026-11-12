@@ -10035,7 +10035,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planets: The life of normalcy has ended! | 124678 | [124678-planets-the-life-of-normalcy-has-ended.json](./124678-planets-the-life-of-normalcy-has-ended.json) |
 | Planetship | 36098 | [36098-planetship.json](./36098-planetship.json) |
 | Planetside | 299854 | [299854-planetside.json](./299854-planetside.json) |
-| PlanetSide | 1829 | [1829-planetside.json](./1829-planetside.json) |
 | PlanetSide 2 | 1265 | [1265-planetside-2.json](./1265-planetside-2.json) |
 | PlanetSide 2: Essential Pack | 225573 | [225573-planetside-2-essential-pack.json](./225573-planetside-2-essential-pack.json) |
 | PlanetSide Arena | 113362 | [113362-planetside-arena.json](./113362-planetside-arena.json) |
