@@ -7361,6 +7361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Tomb Raider: The Price of Survival | 115200 | [115200-shadow-of-the-tomb-raider-the-price-of-survival.json](./115200-shadow-of-the-tomb-raider-the-price-of-survival.json) |
 | Shadow of the Tomb Raider: The Serpent's Heart | 116003 | [116003-shadow-of-the-tomb-raider-the-serpents-heart.json](./116003-shadow-of-the-tomb-raider-the-serpents-heart.json) |
 | Shadow of the Tomb Raider: Ultimate Edition | 99123 | [99123-shadow-of-the-tomb-raider-ultimate-edition.json](./99123-shadow-of-the-tomb-raider-ultimate-edition.json) |
+| Shadow of the Treasure | 247717 | [247717-shadow-of-the-treasure.json](./247717-shadow-of-the-treasure.json) |
 | Shadow of the Unicorn | 26417 | [26417-shadow-of-the-unicorn.json](./26417-shadow-of-the-unicorn.json) |
 | Shadow of the Wool Ball | 195860 | [195860-shadow-of-the-wool-ball.json](./195860-shadow-of-the-wool-ball.json) |
 | Shadow of the Wyrm | 77656 | [77656-shadow-of-the-wyrm.json](./77656-shadow-of-the-wyrm.json) |
@@ -9802,6 +9803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Covid-19 | 161531 | [161531-shoot-covid-19.json](./161531-shoot-covid-19.json) |
 | Shoot Crow | 93698 | [93698-shoot-crow.json](./93698-shoot-crow.json) |
 | Shoot Defense 3D | 220059 | [220059-shoot-defense-3d.json](./220059-shoot-defense-3d.json) |
+| Shoot Fighters | 247725 | [247725-shoot-fighters.json](./247725-shoot-fighters.json) |
 | Shoot First | 51304 | [51304-shoot-first.json](./51304-shoot-first.json) |
 | Shoot For Fun's Sake | 263960 | [263960-shoot-for-funs-sake.json](./263960-shoot-for-funs-sake.json) |
 | Shoot For The Stars | 335902 | [335902-shoot-for-the-stars.json](./335902-shoot-for-the-stars.json) |
@@ -10520,6 +10522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shubada! | 120228 | [120228-shubada.json](./120228-shubada.json) |
 | Shubibinman Zero | 94064 | [94064-shubibinman-zero.json](./94064-shubibinman-zero.json) |
 | Shudder | 107997 | [107997-shudder.json](./107997-shudder.json) |
+| ShudderStep | 247787 | [247787-shudderstep.json](./247787-shudderstep.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
 | Shuffle 'n Slide | 96595 | [96595-shuffle-n-slide.json](./96595-shuffle-n-slide.json) |
 | Shuffle and K.O. | 249654 | [249654-shuffle-and-k-o.json](./249654-shuffle-and-k-o.json) |
@@ -12106,6 +12109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simplex | 271327 | [271327-simplex.json](./271327-simplex.json) |
 | Simplex Mundi | 107428 | [107428-simplex-mundi.json](./107428-simplex-mundi.json) |
 | Simpli Casa | 381707 | [381707-simpli-casa.json](./381707-simpli-casa.json) |
+| SimpliCity | 247800 | [247800-simplicity.json](./247800-simplicity.json) |
 | Simploe Tasks | 293053 | [293053-simploe-tasks.json](./293053-simploe-tasks.json) |
 | Simply Chess | 17604 | [17604-simply-chess.json](./17604-simply-chess.json) |
 | Simply Cubic | 253586 | [253586-simply-cubic.json](./253586-simply-cubic.json) |
@@ -21764,6 +21768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Scum | 351056 | [351056-space-scum.json](./351056-space-scum.json) |
 | Space Scumbags | 53311 | [53311-space-scumbags.json](./53311-space-scumbags.json) |
 | Space Seeker | 41101 | [41101-space-seeker.json](./41101-space-seeker.json) |
+| Space Sergeant Survivors | 247726 | [247726-space-sergeant-survivors.json](./247726-space-sergeant-survivors.json) |
 | Space Sergeants | 143941 | [143941-space-sergeants.json](./143941-space-sergeants.json) |
 | Space Sex | 156794 | [156794-space-sex.json](./156794-space-sex.json) |
 | Space Sex Shop | 426634 | [426634-space-sex-shop.json](./426634-space-sex-shop.json) |
@@ -29510,6 +29515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop the Bus | 144454 | [144454-stop-the-bus.json](./144454-stop-the-bus.json) |
 | Stop the Bus | 83464 | [83464-stop-the-bus.json](./83464-stop-the-bus.json) |
 | Stop the Bus! | 187701 | [187701-stop-the-bus.json](./187701-stop-the-bus.json) |
+| Stop the Crawl | 247733 | [247733-stop-the-crawl.json](./247733-stop-the-crawl.json) |
 | Stop the Cult | 189913 | [189913-stop-the-cult.json](./189913-stop-the-cult.json) |
 | Stop The F | 304509 | [304509-stop-the-f.json](./304509-stop-the-f.json) |
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
@@ -34110,6 +34116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jigsaw Puzzle: Generations - Switzerland | 162228 | [162228-super-jigsaw-puzzle-generations-switzerland.json](./162228-super-jigsaw-puzzle-generations-switzerland.json) |
 | Super Jigsaw Puzzle: Generations - Technology | 196677 | [196677-super-jigsaw-puzzle-generations-technology.json](./196677-super-jigsaw-puzzle-generations-technology.json) |
 | Super Jigsaw Puzzle: Generations - Tools | 261736 | [261736-super-jigsaw-puzzle-generations-tools.json](./261736-super-jigsaw-puzzle-generations-tools.json) |
+| Super Jigsaw Puzzle: Generations - Toys | 247797 | [247797-super-jigsaw-puzzle-generations-toys.json](./247797-super-jigsaw-puzzle-generations-toys.json) |
 | Super Jigsaw Puzzle: Generations - Trains 2 | 201452 | [201452-super-jigsaw-puzzle-generations-trains-2.json](./201452-super-jigsaw-puzzle-generations-trains-2.json) |
 | Super Jigsaw Puzzle: Generations - Trains Puzzles | 155610 | [155610-super-jigsaw-puzzle-generations-trains-puzzles.json](./155610-super-jigsaw-puzzle-generations-trains-puzzles.json) |
 | Super Jigsaw Puzzle: Generations - Turkey | 354157 | [354157-super-jigsaw-puzzle-generations-turkey.json](./354157-super-jigsaw-puzzle-generations-turkey.json) |
