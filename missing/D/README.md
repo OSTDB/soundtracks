@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Ahead | 30821 | [30821-darkness-ahead.json](./30821-darkness-ahead.json) |
 | Darkness and a Crowd | 44250 | [44250-darkness-and-a-crowd.json](./44250-darkness-and-a-crowd.json) |
 | Darkness and Fear: Eerie Shadows | 271658 | [271658-darkness-and-fear-eerie-shadows.json](./271658-darkness-and-fear-eerie-shadows.json) |
+| Darkness and Flame | 291651 | [291651-darkness-and-flame.json](./291651-darkness-and-flame.json) |
 | Darkness and Flame: Born of Fire | 31292 | [31292-darkness-and-flame-born-of-fire.json](./31292-darkness-and-flame-born-of-fire.json) |
 | Darkness and Flame: Enemy in Reflection | 127207 | [127207-darkness-and-flame-enemy-in-reflection.json](./127207-darkness-and-flame-enemy-in-reflection.json) |
 | Darkness and Flame: Missing Memories | 75079 | [75079-darkness-and-flame-missing-memories.json](./75079-darkness-and-flame-missing-memories.json) |
@@ -2749,6 +2750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Mutations | 108981 | [108981-data-mutations.json](./108981-data-mutations.json) |
 | Data Restored | 383944 | [383944-data-restored.json](./383944-data-restored.json) |
 | Data Rot | 376979 | [376979-data-rot.json](./376979-data-rot.json) |
+| Data Rush: La Course Aux Données | 292177 | [292177-data-rush-la-course-aux-donnees.json](./292177-data-rush-la-course-aux-donnees.json) |
 | Data Strafer | 390239 | [390239-data-strafer.json](./390239-data-strafer.json) |
 | Data Thief | 68574 | [68574-data-thief.json](./68574-data-thief.json) |
 | Data Trader | 399058 | [399058-data-trader.json](./399058-data-trader.json) |
@@ -6912,6 +6914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Doif | 178289 | [178289-demon-doif.json](./178289-demon-doif.json) |
 | Demon Driver | 47283 | [47283-demon-driver.json](./47283-demon-driver.json) |
 | Demon Driver: Time to Burn Rubber | 49274 | [49274-demon-driver-time-to-burn-rubber.json](./49274-demon-driver-time-to-burn-rubber.json) |
+| Demon Drop DX | 291650 | [291650-demon-drop-dx.json](./291650-demon-drop-dx.json) |
 | Demon Dust | 327819 | [327819-demon-dust.json](./327819-demon-dust.json) |
 | Demon Eclipse | 141138 | [141138-demon-eclipse.json](./141138-demon-eclipse.json) |
 | Demon Engines | 148728 | [148728-demon-engines.json](./148728-demon-engines.json) |
@@ -12180,6 +12183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNA Nemesis | 415147 | [415147-dna-nemesis.json](./415147-dna-nemesis.json) |
 | DNA Subject: Lucy | 307053 | [307053-dna-subject-lucy.json](./307053-dna-subject-lucy.json) |
 | DNA: Episode 1 | 280315 | [280315-dna-episode-1.json](./280315-dna-episode-1.json) |
+| DNA: Episode 2 | 292203 | [292203-dna-episode-2.json](./292203-dna-episode-2.json) |
 | DNA: Episode 3 | 289804 | [289804-dna-episode-3.json](./289804-dna-episode-3.json) |
 | DNA: Episode 4 | 297801 | [297801-dna-episode-4.json](./297801-dna-episode-4.json) |
 | DNA: Episode 5 | 298678 | [298678-dna-episode-5.json](./298678-dna-episode-5.json) |
@@ -12588,6 +12592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog and Bone Are Friends | 60455 | [60455-dog-and-bone-are-friends.json](./60455-dog-and-bone-are-friends.json) |
 | Dog And Goblin | 275748 | [275748-dog-and-goblin.json](./275748-dog-and-goblin.json) |
 | Dog Beauty Salon | 89058 | [89058-dog-beauty-salon.json](./89058-dog-beauty-salon.json) |
+| Dog Brew | 292170 | [292170-dog-brew.json](./292170-dog-brew.json) |
 | Dog Cafe Tycoon | 226771 | [226771-dog-cafe-tycoon.json](./226771-dog-cafe-tycoon.json) |
 | Dog Chaos | 397732 | [397732-dog-chaos.json](./397732-dog-chaos.json) |
 | Dog Clicker | 190203 | [190203-dog-clicker.json](./190203-dog-clicker.json) |
