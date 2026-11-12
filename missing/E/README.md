@@ -8454,6 +8454,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoprimal: Roadblock Alpha Big Bunny Set | 286248 | [286248-exoprimal-roadblock-alpha-big-bunny-set.json](./286248-exoprimal-roadblock-alpha-big-bunny-set.json) |
 | Exoprimal: Roadblock Monster Hunter Set | 286245 | [286245-exoprimal-roadblock-monster-hunter-set.json](./286245-exoprimal-roadblock-monster-hunter-set.json) |
 | Exoprimal: Roadblock Tragic Monster Set | 256549 | [256549-exoprimal-roadblock-tragic-monster-set.json](./256549-exoprimal-roadblock-tragic-monster-set.json) |
+| Exoprimal: Season 1 | 267602 | [267602-exoprimal-season-1.json](./267602-exoprimal-season-1.json) |
+| Exoprimal: Season 2 | 267603 | [267603-exoprimal-season-2.json](./267603-exoprimal-season-2.json) |
 | Exoprimal: Season 3 | 295253 | [295253-exoprimal-season-3.json](./295253-exoprimal-season-3.json) |
 | Exoprimal: Season 4 | 295254 | [295254-exoprimal-season-4.json](./295254-exoprimal-season-4.json) |
 | Exoprimal: Skywave Alpha Future Flight Set | 298333 | [298333-exoprimal-skywave-alpha-future-flight-set.json](./298333-exoprimal-skywave-alpha-future-flight-set.json) |
