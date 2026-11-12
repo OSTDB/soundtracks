@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -7619,6 +7620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Horizon: The Astral Expedition | 311112 | [311112-beyond-horizon-the-astral-expedition.json](./311112-beyond-horizon-the-astral-expedition.json) |
 | Beyond Horror: Episode One - A Father's Journey | 170925 | [170925-beyond-horror-episode-one-a-fathers-journey.json](./170925-beyond-horror-episode-one-a-fathers-journey.json) |
 | Beyond Humanity | 58559 | [58559-beyond-humanity.json](./58559-beyond-humanity.json) |
+| Beyond Inseparable | 257701 | [257701-beyond-inseparable.json](./257701-beyond-inseparable.json) |
 | Beyond Kung-Fu | 263650 | [263650-beyond-kung-fu.json](./263650-beyond-kung-fu.json) |
 | Beyond Lost Planets | 386300 | [386300-beyond-lost-planets.json](./386300-beyond-lost-planets.json) |
 | Beyond Magic | 32941 | [32941-beyond-magic.json](./32941-beyond-magic.json) |
@@ -8471,6 +8473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bilal Go! | 160038 | [160038-bilal-go.json](./160038-bilal-go.json) |
 | Bilateral Table Tennis | 288355 | [288355-bilateral-table-tennis.json](./288355-bilateral-table-tennis.json) |
 | Bilateral! | 297220 | [297220-bilateral.json](./297220-bilateral.json) |
+| Bilattice | 257702 | [257702-bilattice.json](./257702-bilattice.json) |
 | Bilbo: The Four Corners of the World | 52460 | [52460-bilbo-the-four-corners-of-the-world.json](./52460-bilbo-the-four-corners-of-the-world.json) |
 | Bildo | 52291 | [52291-bildo.json](./52291-bildo.json) |
 | Bildungsroman in Miniature | 419070 | [419070-bildungsroman-in-miniature.json](./419070-bildungsroman-in-miniature.json) |
@@ -15411,6 +15414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BoxBoxBoy! | 19598 | [19598-boxboxboy.json](./19598-boxboxboy.json) |
 | Boxboy! | 15654 | [15654-boxboy.json](./15654-boxboy.json) |
 | Boxboyman | 350681 | [350681-boxboyman.json](./350681-boxboyman.json) |
+| Boxbrawl Delivery | 257597 | [257597-boxbrawl-delivery.json](./257597-boxbrawl-delivery.json) |
 | Boxcar Brats | 313385 | [313385-boxcar-brats.json](./313385-boxcar-brats.json) |
 | BoxCar Racing | 241209 | [241209-boxcar-racing.json](./241209-boxcar-racing.json) |
 | Boxcars | 318425 | [318425-boxcars.json](./318425-boxcars.json) |
@@ -16608,6 +16612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breath of Warfare | 76277 | [76277-breath-of-warfare.json](./76277-breath-of-warfare.json) |
 | Breath: Toiki wa Akaneiro | 269675 | [269675-breath-toiki-wa-akaneiro.json](./269675-breath-toiki-wa-akaneiro.json) |
 | Breathbound | 372447 | [372447-breathbound.json](./372447-breathbound.json) |
+| Breathe | 257626 | [257626-breathe.json](./257626-breathe.json) |
 | Breathe | 89392 | [89392-breathe.json](./89392-breathe.json) |
 | Breathe in | 135773 | [135773-breathe-in.json](./135773-breathe-in.json) |
 | Breathe In | 207173 | [207173-breathe-in.json](./207173-breathe-in.json) |
@@ -17838,6 +17843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Blast Rescue | 89036 | [89036-bubble-blast-rescue.json](./89036-bubble-blast-rescue.json) |
 | Bubble Blast Rescue VR | 81595 | [81595-bubble-blast-rescue-vr.json](./81595-bubble-blast-rescue-vr.json) |
 | Bubble Blaster DX | 314608 | [314608-bubble-blaster-dx.json](./314608-bubble-blaster-dx.json) |
+| Bubble Blasters | 257703 | [257703-bubble-blasters.json](./257703-bubble-blasters.json) |
 | Bubble Blaze | 323092 | [323092-bubble-blaze.json](./323092-bubble-blaze.json) |
 | Bubble Blobb | 386703 | [386703-bubble-blobb.json](./386703-bubble-blobb.json) |
 | Bubble Blow | 419835 | [419835-bubble-blow.json](./419835-bubble-blow.json) |
