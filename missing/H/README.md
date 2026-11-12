@@ -3100,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Have You Seen This Cat? | 391457 | [391457-have-you-seen-this-cat.json](./391457-have-you-seen-this-cat.json) |
 | Have Your Monster | 314368 | [314368-have-your-monster.json](./314368-have-your-monster.json) |
 | Havelyn | 401019 | [401019-havelyn.json](./401019-havelyn.json) |
+| Haven | 296138 | [296138-haven.json](./296138-haven.json) |
 | Haven | 377323 | [377323-haven.json](./377323-haven.json) |
 | Haven | 380666 | [380666-haven.json](./380666-haven.json) |
 | Haven | 403429 | [403429-haven.json](./403429-haven.json) |
@@ -3694,6 +3695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hearthstone: United in Stormwind | 387381 | [387381-hearthstone-united-in-stormwind.json](./387381-hearthstone-united-in-stormwind.json) |
 | Hearthstone: Voyage to the Sunken City | 387386 | [387386-hearthstone-voyage-to-the-sunken-city.json](./387386-hearthstone-voyage-to-the-sunken-city.json) |
 | Hearthstone: Whispers of Old Gods | 19162 | [19162-hearthstone-whispers-of-old-gods.json](./19162-hearthstone-whispers-of-old-gods.json) |
+| Hearthstone: Whizbang's Workshop | 297259 | [297259-hearthstone-whizbangs-workshop.json](./297259-hearthstone-whizbangs-workshop.json) |
 | Hearthstorm | 307635 | [307635-hearthstorm.json](./307635-hearthstorm.json) |
 | Hearthwater | 412947 | [412947-hearthwater.json](./412947-hearthwater.json) |
 | Heartium | 265197 | [265197-heartium.json](./265197-heartium.json) |
@@ -5893,6 +5895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Taboo Sisters | 340456 | [340456-hentai-tales-taboo-sisters.json](./340456-hentai-tales-taboo-sisters.json) |
 | Hentai Tales: The Brave and Demon | 340457 | [340457-hentai-tales-the-brave-and-demon.json](./340457-hentai-tales-the-brave-and-demon.json) |
 | Hentai Tales: The Entrance To Isekai | 297934 | [297934-hentai-tales-the-entrance-to-isekai.json](./297934-hentai-tales-the-entrance-to-isekai.json) |
+| Hentai Tales: The Neko Returns | 296709 | [296709-hentai-tales-the-neko-returns.json](./296709-hentai-tales-the-neko-returns.json) |
 | Hentai Tales: The Red Act In Lockdown | 389604 | [389604-hentai-tales-the-red-act-in-lockdown.json](./389604-hentai-tales-the-red-act-in-lockdown.json) |
 | Hentai Tales: The World Only Maid | 295401 | [295401-hentai-tales-the-world-only-maid.json](./295401-hentai-tales-the-world-only-maid.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
@@ -11310,6 +11313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Pool | 74454 | [74454-hot-pool.json](./74454-hot-pool.json) |
 | Hot Pot | 182817 | [182817-hot-pot.json](./182817-hot-pot.json) |
 | Hot Pot For One | 139811 | [139811-hot-pot-for-one.json](./139811-hot-pot-for-one.json) |
+| Hot Pot Game | 296298 | [296298-hot-pot-game.json](./296298-hot-pot-game.json) |
 | Hot Pot Panic | 134550 | [134550-hot-pot-panic.json](./134550-hot-pot-panic.json) |
 | Hot Pot VR | 153004 | [153004-hot-pot-vr.json](./153004-hot-pot-vr.json) |
 | Hot Potato Online | 288009 | [288009-hot-potato-online.json](./288009-hot-potato-online.json) |
