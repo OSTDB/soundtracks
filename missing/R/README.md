@@ -692,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant: Guardians of Light | 258102 | [258102-radiant-guardians-of-light.json](./258102-radiant-guardians-of-light.json) |
 | RadianVR | 41979 | [41979-radianvr.json](./41979-radianvr.json) |
 | Radiata Stories | 19160 | [19160-radiata-stories.json](./19160-radiata-stories.json) |
+| Radiated Life | 247714 | [247714-radiated-life.json](./247714-radiated-life.json) |
 | Radiation Age | 49516 | [49516-radiation-age.json](./49516-radiation-age.json) |
 | Radiation Caterpillar | 410229 | [410229-radiation-caterpillar.json](./410229-radiation-caterpillar.json) |
 | Radiation Hazard | 427843 | [427843-radiation-hazard.json](./427843-radiation-hazard.json) |
@@ -5270,6 +5271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Religion Inc. | 159425 | [159425-religion-inc.json](./159425-religion-inc.json) |
 | Religious Idle | 101695 | [101695-religious-idle.json](./101695-religious-idle.json) |
 | Relik | 74151 | [74151-relik.json](./74151-relik.json) |
+| ReLinked | 247710 | [247710-relinked.json](./247710-relinked.json) |
 | ReLinked 0.26091975 | 345020 | [345020-relinked-0-26091975.json](./345020-relinked-0-26091975.json) |
 | Reliquary | 213627 | [213627-reliquary.json](./213627-reliquary.json) |
 | Reliquary | 416223 | [416223-reliquary.json](./416223-reliquary.json) |
