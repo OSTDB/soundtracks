@@ -4059,6 +4059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Adventure | 182211 | [182211-mario-adventure.json](./182211-mario-adventure.json) |
 | Mario Adventure 2 | 376957 | [376957-mario-adventure-2.json](./376957-mario-adventure-2.json) |
 | Mario Adventure III | 281013 | [281013-mario-adventure-iii.json](./281013-mario-adventure-iii.json) |
+| Mario Aimlessly Drives a Car Around the City 64 | 250082 | [250082-mario-aimlessly-drives-a-car-around-the-city-64.json](./250082-mario-aimlessly-drives-a-car-around-the-city-64.json) |
 | Mario and Donkey Kong: Minis on the Move | 18027 | [18027-mario-and-donkey-kong-minis-on-the-move.json](./18027-mario-and-donkey-kong-minis-on-the-move.json) |
 | Mario and Donkey Kong: Minis on the Move + Mario vs. Donkey Kong: Minis March Again! | 60579 | [60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json](./60579-mario-and-donkey-kong-minis-on-the-move-mario-vs-donkey-kong-minis-march-again.json) |
 | Mario and Donkey Kong's Lost Island | 323186 | [323186-mario-and-donkey-kongs-lost-island.json](./323186-mario-and-donkey-kongs-lost-island.json) |
@@ -4354,6 +4355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Land: Minigame Mayhem | 134958 | [134958-mario-land-minigame-mayhem.json](./134958-mario-land-minigame-mayhem.json) |
 | Mario Learns About Colors | 323187 | [323187-mario-learns-about-colors.json](./323187-mario-learns-about-colors.json) |
 | Mario Learns About Colors 2 | 323824 | [323824-mario-learns-about-colors-2.json](./323824-mario-learns-about-colors-2.json) |
+| Mario Learns About Colors: Recolored | 250064 | [250064-mario-learns-about-colors-recolored.json](./250064-mario-learns-about-colors-recolored.json) |
 | Mario Left the Cheese Out | 186098 | [186098-mario-left-the-cheese-out.json](./186098-mario-left-the-cheese-out.json) |
 | Mario Left the Garage Door Open Again! | 343032 | [343032-mario-left-the-garage-door-open-again.json](./343032-mario-left-the-garage-door-open-again.json) |
 | Mario Lemieux Hockey | 4441 | [4441-mario-lemieux-hockey.json](./4441-mario-lemieux-hockey.json) |
@@ -11265,6 +11267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MF-01 Aerostrike | 239701 | [239701-mf-01-aerostrike.json](./239701-mf-01-aerostrike.json) |
 | MFA Prep Course | 399959 | [399959-mfa-prep-course.json](./399959-mfa-prep-course.json) |
 | MFC: Midnight Fight Club | 302769 | [302769-mfc-midnight-fight-club.json](./302769-mfc-midnight-fight-club.json) |
+| MFGG 10th Anniversary Time Capsule | 250074 | [250074-mfgg-10th-anniversary-time-capsule.json](./250074-mfgg-10th-anniversary-time-capsule.json) |
 | MFGG 20th Anniversary Time Capsule | 165110 | [165110-mfgg-20th-anniversary-time-capsule.json](./165110-mfgg-20th-anniversary-time-capsule.json) |
 | MFGGK | 323966 | [323966-mfggk.json](./323966-mfggk.json) |
 | MFGGK2 | 323926 | [323926-mfggk2.json](./323926-mfggk2.json) |
@@ -17662,6 +17665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster's Fair | 60660 | [60660-monsters-fair.json](./60660-monsters-fair.json) |
 | Monster’s First Love | 254945 | [254945-monster-s-first-love.json](./254945-monster-s-first-love.json) |
 | Monster's Inc. Peek A Boo Boo's Door Game | 343341 | [343341-monsters-inc-peek-a-boo-boos-door-game.json](./343341-monsters-inc-peek-a-boo-boos-door-game.json) |
+| Monster&Strategy | 249993 | [249993-monster-and-strategy.json](./249993-monster-and-strategy.json) |
 | Monster+Connect! | 181396 | [181396-monster-connect.json](./181396-monster-connect.json) |
 | Monsterbag | 60535 | [60535-monsterbag.json](./60535-monsterbag.json) |
 | Monsterburg | 305790 | [305790-monsterburg.json](./305790-monsterburg.json) |
@@ -18062,6 +18066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Whalers | 214245 | [214245-moon-whalers.json](./214245-moon-whalers.json) |
 | Moon Whistle | 166142 | [166142-moon-whistle.json](./166142-moon-whistle.json) |
 | Moon-Oriented Autonomous Biological Model | 427216 | [427216-moon-oriented-autonomous-biological-model.json](./427216-moon-oriented-autonomous-biological-model.json) |
+| MOON: Metagalactic Observer - OmNipotent | 249431 | [249431-moon-metagalactic-observer-omnipotent.json](./249431-moon-metagalactic-observer-omnipotent.json) |
 | Moon: Premium Edition | 136965 | [136965-moon-premium-edition.json](./136965-moon-premium-edition.json) |
 | Moon: Remix RPG Adventure | 73672 | [73672-moon-remix-rpg-adventure.json](./73672-moon-remix-rpg-adventure.json) |
 | Moon: The Final Word | 21222 | [21222-moon-the-final-word.json](./21222-moon-the-final-word.json) |
@@ -18279,6 +18284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoonWar | 178924 | [178924-moonwar.json](./178924-moonwar.json) |
 | Moonwave Overdrive | 163131 | [163131-moonwave-overdrive.json](./163131-moonwave-overdrive.json) |
 | MoonWhite | 292576 | [292576-moonwhite.json](./292576-moonwhite.json) |
+| MoonWool | 249980 | [249980-moonwool.json](./249980-moonwool.json) |
 | Moony Mayhem: Cheeks Unleashed | 406818 | [406818-moony-mayhem-cheeks-unleashed.json](./406818-moony-mayhem-cheeks-unleashed.json) |
 | Moony: Black_Lotus | 326226 | [326226-moony-black-lotus.json](./326226-moony-black-lotus.json) |
 | Moonyolk | 213914 | [213914-moonyolk.json](./213914-moonyolk.json) |
@@ -19151,6 +19157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother Christmas | 394818 | [394818-mother-christmas.json](./394818-mother-christmas.json) |
 | Mother Dear | 240655 | [240655-mother-dear.json](./240655-mother-dear.json) |
 | Mother Fucker Galaxy | 254523 | [254523-mother-fucker-galaxy.json](./254523-mother-fucker-galaxy.json) |
+| Mother Ghoul: The Curse of Unborns | 249983 | [249983-mother-ghoul-the-curse-of-unborns.json](./249983-mother-ghoul-the-curse-of-unborns.json) |
 | Mother Goose no Himitsu no Yakata | 218962 | [218962-mother-goose-no-himitsu-no-yakata.json](./218962-mother-goose-no-himitsu-no-yakata.json) |
 | Mother Goose no Himitsu no Yakata: Blue Label | 218963 | [218963-mother-goose-no-himitsu-no-yakata-blue-label.json](./218963-mother-goose-no-himitsu-no-yakata-blue-label.json) |
 | Mother Is Gone | 180843 | [180843-mother-is-gone.json](./180843-mother-is-gone.json) |
