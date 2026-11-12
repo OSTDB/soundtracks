@@ -21214,7 +21214,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culture House | 260631 | [260631-culture-house.json](./260631-culture-house.json) |
 | Culture Warz: Chess | 291757 | [291757-culture-warz-chess.json](./291757-culture-warz-chess.json) |
 | Culture Warz: Time's Up Karen! | 272864 | [272864-culture-warz-times-up-karen.json](./272864-culture-warz-times-up-karen.json) |
+| Culture Warz: Time's Up Karen! - CTF | 273514 | [273514-culture-warz-times-up-karen-ctf.json](./273514-culture-warz-times-up-karen-ctf.json) |
+| Culture Warz: Time's Up Karen! - KOTH | 273515 | [273515-culture-warz-times-up-karen-koth.json](./273515-culture-warz-times-up-karen-koth.json) |
 | Culture Warz: Time's Up Karen! - Suburbs Map Pack | 273350 | [273350-culture-warz-times-up-karen-suburbs-map-pack.json](./273350-culture-warz-times-up-karen-suburbs-map-pack.json) |
+| Culture Warz: Time's Up Karen! - War Tagz | 273513 | [273513-culture-warz-times-up-karen-war-tagz.json](./273513-culture-warz-times-up-karen-war-tagz.json) |
 | Cultures | 11379 | [11379-cultures.json](./11379-cultures.json) |
 | Cultures 1+2 | 154236 | [154236-cultures-1-2.json](./154236-cultures-1-2.json) |
 | Cultures 2: The Gates of Asgard | 11380 | [11380-cultures-2-the-gates-of-asgard.json](./11380-cultures-2-the-gates-of-asgard.json) |
