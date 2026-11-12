@@ -2898,6 +2898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Player Reactor | 56948 | [56948-4-player-reactor.json](./56948-4-player-reactor.json) |
 | 4 Queen | 84337 | [84337-4-queen.json](./84337-4-queen.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
+| 4 Seasons Girls | 286734 | [286734-4-seasons-girls.json](./286734-4-seasons-girls.json) |
 | 4 Seasons of Doom | 262309 | [262309-4-seasons-of-doom.json](./262309-4-seasons-of-doom.json) |
 | 4 Seasons Runner | 243854 | [243854-4-seasons-runner.json](./243854-4-seasons-runner.json) |
 | 4 Soccer Simulators | 250292 | [250292-4-soccer-simulators.json](./250292-4-soccer-simulators.json) |
