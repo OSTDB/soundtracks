@@ -298,6 +298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macht Magie | 341199 | [341199-macht-magie.json](./341199-macht-magie.json) |
 | Macie's Magic Melee | 306403 | [306403-macies-magic-melee.json](./306403-macies-magic-melee.json) |
 | Macis | 307068 | [307068-macis.json](./307068-macis.json) |
+| Mack Attack | 259804 | [259804-mack-attack.json](./259804-mack-attack.json) |
 | Mackerelmedia Fish | 172499 | [172499-mackerelmedia-fish.json](./172499-mackerelmedia-fish.json) |
 | Mackle Story | 407459 | [407459-mackle-story.json](./407459-mackle-story.json) |
 | Mackle Story | 407492 | [407492-mackle-story.json](./407492-mackle-story.json) |
@@ -4338,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart: Double Dash!! Matching Game | 328662 | [328662-mario-kart-double-dash-matching-game.json](./328662-mario-kart-double-dash-matching-game.json) |
 | Mario Kart: Double Dash!! Plus | 308373 | [308373-mario-kart-double-dash-plus.json](./308373-mario-kart-double-dash-plus.json) |
 | Mario Kart: Double Dash!! RTGP | 358237 | [358237-mario-kart-double-dash-rtgp.json](./358237-mario-kart-double-dash-rtgp.json) |
+| Mario Kart: Retro Rewind | 259789 | [259789-mario-kart-retro-rewind.json](./259789-mario-kart-retro-rewind.json) |
 | Mario Kart: Speed Strife | 250048 | [250048-mario-kart-speed-strife.json](./250048-mario-kart-speed-strife.json) |
 | Mario Kart: Super Circuit | 2343 | [2343-mario-kart-super-circuit.json](./2343-mario-kart-super-circuit.json) |
 | Mario Kart: Ultra Circuit | 318508 | [318508-mario-kart-ultra-circuit.json](./318508-mario-kart-ultra-circuit.json) |
@@ -4882,6 +4884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marshmallow Penguins VR | 185433 | [185433-marshmallow-penguins-vr.json](./185433-marshmallow-penguins-vr.json) |
 | Marshmallow Tank | 132572 | [132572-marshmallow-tank.json](./132572-marshmallow-tank.json) |
 | Marshmallows On Halloween | 272747 | [272747-marshmallows-on-halloween.json](./272747-marshmallows-on-halloween.json) |
+| Marshmello Music Dance | 259787 | [259787-marshmello-music-dance.json](./259787-marshmello-music-dance.json) |
 | Marshmellow Day Spa | 114153 | [114153-marshmellow-day-spa.json](./114153-marshmellow-day-spa.json) |
 | Marsi's Adventures | 228375 | [228375-marsis-adventures.json](./228375-marsis-adventures.json) |
 | Marslander | 289117 | [289117-marslander.json](./289117-marslander.json) |
