@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mole in Space | 322750 | [322750-a-mole-in-space.json](./322750-a-mole-in-space.json) |
 | A Moment of a Self Portrait | 179000 | [179000-a-moment-of-a-self-portrait.json](./179000-a-moment-of-a-self-portrait.json) |
 | A Moment of Bliss | 393582 | [393582-a-moment-of-bliss.json](./393582-a-moment-of-bliss.json) |
+| A Monster, The Mauler | 284549 | [284549-a-monster-the-mauler.json](./284549-a-monster-the-mauler.json) |
 | A Monster's Expedition | 131845 | [131845-a-monsters-expedition.json](./131845-a-monsters-expedition.json) |
 | A Monster's Insight | 178813 | [178813-a-monsters-insight.json](./178813-a-monsters-insight.json) |
 | A Month to Look at the Moon | 179779 | [179779-a-month-to-look-at-the-moon.json](./179779-a-month-to-look-at-the-moon.json) |
@@ -16808,6 +16809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assembly League | 86624 | [86624-assembly-league.json](./86624-assembly-league.json) |
 | Assembly Line | 261450 | [261450-assembly-line.json](./261450-assembly-line.json) |
 | Assembly Line | 65756 | [65756-assembly-line.json](./65756-assembly-line.json) |
+| Assembly Line 2 | 284550 | [284550-assembly-line-2.json](./284550-assembly-line-2.json) |
 | Assembly Line 2: Mobile Version | 277015 | [277015-assembly-line-2-mobile-version.json](./277015-assembly-line-2-mobile-version.json) |
 | Assembly Planter | 160176 | [160176-assembly-planter.json](./160176-assembly-planter.json) |
 | Assembly Required | 96496 | [96496-assembly-required.json](./96496-assembly-required.json) |
@@ -18687,6 +18689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Augmented Empire | 333829 | [333829-augmented-empire.json](./333829-augmented-empire.json) |
 | Augmented Fear | 376547 | [376547-augmented-fear.json](./376547-augmented-fear.json) |
 | Augmented Fourth | 60028 | [60028-augmented-fourth.json](./60028-augmented-fourth.json) |
+| Augmented Future | 284546 | [284546-augmented-future.json](./284546-augmented-future.json) |
 | Augmentors | 112252 | [112252-augmentors.json](./112252-augmentors.json) |
 | Augur | 128811 | [128811-augur.json](./128811-augur.json) |
 | Augur & Haruspex | 183377 | [183377-augur-and-haruspex.json](./183377-augur-and-haruspex.json) |
