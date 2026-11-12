@@ -3994,6 +3994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JunkRats | 353805 | [353805-junkrats.json](./353805-junkrats.json) |
 | JunkStar | 183265 | [183265-junkstar.json](./183265-junkstar.json) |
 | Junkster | 376970 | [376970-junkster.json](./376970-junkster.json) |
+| JunkTok: Paranormal Investigators Challenge | 266460 | [266460-junktok-paranormal-investigators-challenge.json](./266460-junktok-paranormal-investigators-challenge.json) |
 | Junkworld | 174745 | [174745-junkworld.json](./174745-junkworld.json) |
 | Junkyard Apocalypse | 243943 | [243943-junkyard-apocalypse.json](./243943-junkyard-apocalypse.json) |
 | Junkyard Astronauts | 424649 | [424649-junkyard-astronauts.json](./424649-junkyard-astronauts.json) |
