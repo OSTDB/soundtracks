@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bad Christmas Story | 379078 | [379078-a-bad-christmas-story.json](./379078-a-bad-christmas-story.json) |
 | A Bad Clicker | 337787 | [337787-a-bad-clicker.json](./337787-a-bad-clicker.json) |
 | A Bad Day | 180555 | [180555-a-bad-day.json](./180555-a-bad-day.json) |
+| A Bad Day for a Hangover | 253634 | [253634-a-bad-day-for-a-hangover.json](./253634-a-bad-day-for-a-hangover.json) |
 | A Bad Game of Football | 203751 | [203751-a-bad-game-of-football.json](./203751-a-bad-game-of-football.json) |
 | A Bad Space Game | 379079 | [379079-a-bad-space-game.json](./379079-a-bad-space-game.json) |
 | A Baker's Dungeon | 423363 | [423363-a-bakers-dungeon.json](./423363-a-bakers-dungeon.json) |
@@ -92,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Brief History of the World | 103565 | [103565-a-brief-history-of-the-world.json](./103565-a-brief-history-of-the-world.json) |
 | A Brief Tale | 411683 | [411683-a-brief-tale.json](./411683-a-brief-tale.json) |
 | A Brief Tryst | 73658 | [73658-a-brief-tryst.json](./73658-a-brief-tryst.json) |
+| A Bro's Desire | 253099 | [253099-a-bros-desire.json](./253099-a-bros-desire.json) |
 | A Broken Halo | 216776 | [216776-a-broken-halo.json](./216776-a-broken-halo.json) |
 | A Broken Tale | 135579 | [135579-a-broken-tale.json](./135579-a-broken-tale.json) |
 | A Brown Rabbit's Story | 379080 | [379080-a-brown-rabbits-story.json](./379080-a-brown-rabbits-story.json) |
@@ -1229,6 +1231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Sexy Tour With: Tanvi | 382066 | [382066-a-sexy-tour-with-tanvi.json](./382066-a-sexy-tour-with-tanvi.json) |
 | A Sexy Tour With: Yeona | 368725 | [368725-a-sexy-tour-with-yeona.json](./368725-a-sexy-tour-with-yeona.json) |
 | A Shade Darker Than Gray | 338167 | [338167-a-shade-darker-than-gray.json](./338167-a-shade-darker-than-gray.json) |
+| A Shadow Cast on Water | 253582 | [253582-a-shadow-cast-on-water.json](./253582-a-shadow-cast-on-water.json) |
 | A Shadow in Space | 383719 | [383719-a-shadow-in-space.json](./383719-a-shadow-in-space.json) |
 | A Shadow of Time | 247966 | [247966-a-shadow-of-time.json](./247966-a-shadow-of-time.json) |
 | A Shadow Over Freddy's | 209259 | [209259-a-shadow-over-freddys.json](./209259-a-shadow-over-freddys.json) |
@@ -2443,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss Deck: Deckbuilding Roguelike | 373159 | [373159-abyss-deck-deckbuilding-roguelike.json](./373159-abyss-deck-deckbuilding-roguelike.json) |
 | Abyss Defence | 350313 | [350313-abyss-defence.json](./350313-abyss-defence.json) |
 | Abyss Delvers | 194378 | [194378-abyss-delvers.json](./194378-abyss-delvers.json) |
+| Abyss Dive | 253633 | [253633-abyss-dive.json](./253633-abyss-dive.json) |
 | Abyss Eschaton Survivors | 348852 | [348852-abyss-eschaton-survivors.json](./348852-abyss-eschaton-survivors.json) |
 | Abyss Expedition | 424301 | [424301-abyss-expedition.json](./424301-abyss-expedition.json) |
 | Abyss Fantasia | 207601 | [207601-abyss-fantasia.json](./207601-abyss-fantasia.json) |
@@ -3410,6 +3414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
 | Adagio | 305057 | [305057-adagio.json](./305057-adagio.json) |
 | Adagio | 329900 | [329900-adagio.json](./329900-adagio.json) |
+| Adam | 253563 | [253563-adam.json](./253563-adam.json) |
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
 | Adam and Eve | 185881 | [185881-adam-and-eve.json](./185881-adam-and-eve.json) |
 | Adam and Eve | 300990 | [300990-adam-and-eve.json](./300990-adam-and-eve.json) |
@@ -12863,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appease the Spider | 170667 | [170667-appease-the-spider.json](./170667-appease-the-spider.json) |
 | Appeeling Personality | 346103 | [346103-appeeling-personality.json](./346103-appeeling-personality.json) |
 | Appel | 381201 | [381201-appel.json](./381201-appel.json) |
+| Append | 253557 | [253557-append.json](./253557-append.json) |
 | Apperception | 81733 | [81733-apperception.json](./81733-apperception.json) |
 | Appetit | 325662 | [325662-appetit.json](./325662-appetit.json) |
 | Appetité Amor | 344513 | [344513-appetite-amor.json](./344513-appetite-amor.json) |
@@ -19567,6 +19573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avignon: A Clash of Popes | 100379 | [100379-avignon-a-clash-of-popes.json](./100379-avignon-a-clash-of-popes.json) |
 | Avilion Forever | 393181 | [393181-avilion-forever.json](./393181-avilion-forever.json) |
 | Avination | 64490 | [64490-avination.json](./64490-avination.json) |
+| Aviophobia | 253640 | [253640-aviophobia.json](./253640-aviophobia.json) |
 | Avis Rapida: Aerobatic Racing | 118384 | [118384-avis-rapida-aerobatic-racing.json](./118384-avis-rapida-aerobatic-racing.json) |
 | Avish! | 69863 | [69863-avish.json](./69863-avish.json) |
 | Avitium | 365216 | [365216-avitium.json](./365216-avitium.json) |
@@ -20044,6 +20051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aznak | 199312 | [199312-aznak.json](./199312-aznak.json) |
 | Aznana | 151729 | [151729-aznana.json](./151729-aznana.json) |
 | Azooma Escape | 311549 | [311549-azooma-escape.json](./311549-azooma-escape.json) |
+| Azoove | 253641 | [253641-azoove.json](./253641-azoove.json) |
 | Azorius | 261729 | [261729-azorius.json](./261729-azorius.json) |
 | Azoth | 338723 | [338723-azoth.json](./338723-azoth.json) |
 | Azrael | 150850 | [150850-azrael.json](./150850-azrael.json) |
