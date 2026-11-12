@@ -3644,6 +3644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Shadow Heroes | 60961 | [60961-teenage-mutant-ninja-turtles-shadow-heroes.json](./60961-teenage-mutant-ninja-turtles-shadow-heroes.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Re-Revenge | 233853 | [233853-teenage-mutant-ninja-turtles-shredders-re-revenge.json](./233853-teenage-mutant-ninja-turtles-shredders-re-revenge.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Anniversary Edition | 267599 | [267599-teenage-mutant-ninja-turtles-shredders-revenge-anniversary-edition.json](./267599-teenage-mutant-ninja-turtles-shredders-revenge-anniversary-edition.json) |
+| Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock Bundle | 264948 | [264948-teenage-mutant-ninja-turtles-shredders-revenge-dimension-shellshock-bundle.json](./264948-teenage-mutant-ninja-turtles-shredders-revenge-dimension-shellshock-bundle.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Limited Edition | 207919 | [207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json](./207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Special Edition | 249964 | [249964-teenage-mutant-ninja-turtles-shredders-revenge-special-edition.json](./249964-teenage-mutant-ninja-turtles-shredders-revenge-special-edition.json) |
@@ -9685,6 +9686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evil D | 330047 | [330047-the-evil-d.json](./330047-the-evil-d.json) |
 | The Evil Dead | 25832 | [25832-the-evil-dead.json](./25832-the-evil-dead.json) |
 | The Evil King | 152997 | [152997-the-evil-king.json](./152997-the-evil-king.json) |
+| The Evil Leafy Maze Game | 264908 | [264908-the-evil-leafy-maze-game.json](./264908-the-evil-leafy-maze-game.json) |
 | The Evil Party | 81905 | [81905-the-evil-party.json](./81905-the-evil-party.json) |
 | The Evil Resides | 180636 | [180636-the-evil-resides.json](./180636-the-evil-resides.json) |
 | The Evil Sect | 296473 | [296473-the-evil-sect.json](./296473-the-evil-sect.json) |
@@ -9868,6 +9870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of Balance | 192385 | [192385-the-fall-of-balance.json](./192385-the-fall-of-balance.json) |
 | The Fall of Catzahstan. | 183565 | [183565-the-fall-of-catzahstan.json](./183565-the-fall-of-catzahstan.json) |
 | The Fall of Elements | 264607 | [264607-the-fall-of-elements.json](./264607-the-fall-of-elements.json) |
+| The Fall of Elena Temple | 264844 | [264844-the-fall-of-elena-temple.json](./264844-the-fall-of-elena-temple.json) |
 | The Fall of Eskaria | 137630 | [137630-the-fall-of-eskaria.json](./137630-the-fall-of-eskaria.json) |
 | The Fall of Gods | 33957 | [33957-the-fall-of-gods.json](./33957-the-fall-of-gods.json) |
 | The Fall of Lazarus | 28679 | [28679-the-fall-of-lazarus.json](./28679-the-fall-of-lazarus.json) |
@@ -11743,6 +11746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunter of Falkenberg | 188770 | [188770-the-hunter-of-falkenberg.json](./188770-the-hunter-of-falkenberg.json) |
 | The Hunter's Journals: Blissful Ignorance | 123870 | [123870-the-hunters-journals-blissful-ignorance.json](./123870-the-hunters-journals-blissful-ignorance.json) |
 | The Hunter's Journals: Red Ripper | 284559 | [284559-the-hunters-journals-red-ripper.json](./284559-the-hunters-journals-red-ripper.json) |
+| The Hunter's Journals: Return to Wight Chapel | 264936 | [264936-the-hunters-journals-return-to-wight-chapel.json](./264936-the-hunters-journals-return-to-wight-chapel.json) |
 | The Hunter's Journals: Tattered Sails | 195895 | [195895-the-hunters-journals-tattered-sails.json](./195895-the-hunters-journals-tattered-sails.json) |
 | The Hunter's Journals: Wight Chapel Dreams | 213424 | [213424-the-hunters-journals-wight-chapel-dreams.json](./213424-the-hunters-journals-wight-chapel-dreams.json) |
 | The Hunter's Path | 327292 | [327292-the-hunters-path.json](./327292-the-hunters-path.json) |
@@ -20882,6 +20886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheFirstClass VR | 74538 | [74538-thefirstclass-vr.json](./74538-thefirstclass-vr.json) |
 | theFisher Online | 120472 | [120472-thefisher-online.json](./120472-thefisher-online.json) |
 | Theft Ride Legacy | 250391 | [250391-theft-ride-legacy.json](./250391-theft-ride-legacy.json) |
+| Theft Ride Legacy: Deluxe Edition | 264949 | [264949-theft-ride-legacy-deluxe-edition.json](./264949-theft-ride-legacy-deluxe-edition.json) |
 | Theft Ride Legacy: Extended Edition | 253220 | [253220-theft-ride-legacy-extended-edition.json](./253220-theft-ride-legacy-extended-edition.json) |
 | Theft Ride Legacy: Gold Edition | 283160 | [283160-theft-ride-legacy-gold-edition.json](./283160-theft-ride-legacy-gold-edition.json) |
 | TheGunRunner | 89952 | [89952-thegunrunner.json](./89952-thegunrunner.json) |
@@ -21824,6 +21829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrall of the Dying Sun | 177517 | [177517-thrall-of-the-dying-sun.json](./177517-thrall-of-the-dying-sun.json) |
 | Thrash Rally | 46521 | [46521-thrash-rally.json](./46521-thrash-rally.json) |
 | Thrasher | 279618 | [279618-thrasher.json](./279618-thrasher.json) |
+| Thrasher Presents: Skate and Destroy | 264851 | [264851-thrasher-presents-skate-and-destroy.json](./264851-thrasher-presents-skate-and-destroy.json) |
 | Thrateon | 359095 | [359095-thrateon.json](./359095-thrateon.json) |
 | Thrax Lair | 23235 | [23235-thrax-lair.json](./23235-thrax-lair.json) |
 | Thread | 201455 | [201455-thread.json](./201455-thread.json) |
