@@ -1022,7 +1022,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -12109,6 +12108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodstained: Ritual of the Night | 10760 | [10760-bloodstained-ritual-of-the-night.json](./10760-bloodstained-ritual-of-the-night.json) |
 | Bloodstained: Ritual of the Night - Classic II: Dominique's Curse | 306560 | [306560-bloodstained-ritual-of-the-night-classic-ii-dominiques-curse.json](./306560-bloodstained-ritual-of-the-night-classic-ii-dominiques-curse.json) |
 | Bloodstained: Ritual of the Night - IGA's Back Pack | 155036 | [155036-bloodstained-ritual-of-the-night-igas-back-pack.json](./155036-bloodstained-ritual-of-the-night-igas-back-pack.json) |
+| Bloodstained: Ritual of the Night - Japanesque Cosmetic Pack | 301207 | [301207-bloodstained-ritual-of-the-night-japanesque-cosmetic-pack.json](./301207-bloodstained-ritual-of-the-night-japanesque-cosmetic-pack.json) |
 | Bloodstained: Ritual of the Night - Magical Girl Cosmetic Pack | 301209 | [301209-bloodstained-ritual-of-the-night-magical-girl-cosmetic-pack.json](./301209-bloodstained-ritual-of-the-night-magical-girl-cosmetic-pack.json) |
 | Bloodstained: Ritual of the Night - Miriam's Complete Cosmetic Bundle | 301210 | [301210-bloodstained-ritual-of-the-night-miriams-complete-cosmetic-bundle.json](./301210-bloodstained-ritual-of-the-night-miriams-complete-cosmetic-bundle.json) |
 | Bloodstained: Ritual of the Night - Succubus Cosmetic Pack | 301214 | [301214-bloodstained-ritual-of-the-night-succubus-cosmetic-pack.json](./301214-bloodstained-ritual-of-the-night-succubus-cosmetic-pack.json) |
@@ -18265,6 +18265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Off-Road Racing: Master Edition | 402608 | [402608-buggy-off-road-racing-master-edition.json](./402608-buggy-off-road-racing-master-edition.json) |
 | Buggy Off-Road Racing: Max Edition | 413578 | [413578-buggy-off-road-racing-max-edition.json](./413578-buggy-off-road-racing-max-edition.json) |
 | Buggy Off-Road Racing: Platinum Edition | 317262 | [317262-buggy-off-road-racing-platinum-edition.json](./317262-buggy-off-road-racing-platinum-edition.json) |
+| Buggy Off-Road Racing: Premium Edition | 301188 | [301188-buggy-off-road-racing-premium-edition.json](./301188-buggy-off-road-racing-premium-edition.json) |
 | Buggy Off-Road Racing: Superior Edition | 315877 | [315877-buggy-off-road-racing-superior-edition.json](./315877-buggy-off-road-racing-superior-edition.json) |
 | Buggy Off-Road Racing: Supreme Edition | 407115 | [407115-buggy-off-road-racing-supreme-edition.json](./407115-buggy-off-road-racing-supreme-edition.json) |
 | Buggy Off-Road Racing: Ultra Edition | 400196 | [400196-buggy-off-road-racing-ultra-edition.json](./400196-buggy-off-road-racing-ultra-edition.json) |
