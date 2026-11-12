@@ -1524,6 +1524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venny's Vinyl Shop | 381677 | [381677-vennys-vinyl-shop.json](./381677-vennys-vinyl-shop.json) |
 | Venom | 97412 | [97412-venom.json](./97412-venom.json) |
 | Venom Adventure | 227090 | [227090-venom-adventure.json](./227090-venom-adventure.json) |
+| Venom Spirit | 264268 | [264268-venom-spirit.json](./264268-venom-spirit.json) |
 | Venom Strikes Back | 39124 | [39124-venom-strikes-back.json](./39124-venom-strikes-back.json) |
 | Venom Strikes Back | 47181 | [47181-venom-strikes-back.json](./47181-venom-strikes-back.json) |
 | Venom Vendetta | 296043 | [296043-venom-vendetta.json](./296043-venom-vendetta.json) |
