@@ -4824,6 +4824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraformers: Independence | 403995 | [403995-terraformers-independence.json](./403995-terraformers-independence.json) |
 | Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
 | Terraformers: Megastructures Bundle | 331492 | [331492-terraformers-megastructures-bundle.json](./331492-terraformers-megastructures-bundle.json) |
+| Terraformers: New Frontiers | 277623 | [277623-terraformers-new-frontiers.json](./277623-terraformers-new-frontiers.json) |
 | Terraformers: New Frontiers Bundle | 293763 | [293763-terraformers-new-frontiers-bundle.json](./293763-terraformers-new-frontiers-bundle.json) |
 | Terraformers: Supporter Edition | 271471 | [271471-terraformers-supporter-edition.json](./271471-terraformers-supporter-edition.json) |
 | Terraforming Earth | 115499 | [115499-terraforming-earth.json](./115499-terraforming-earth.json) |
@@ -21472,6 +21473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Game | 357815 | [357815-this-game.json](./357815-this-game.json) |
 | This Game is Crap | 370888 | [370888-this-game-is-crap.json](./370888-this-game-is-crap.json) |
 | This Game Is Easy | 271566 | [271566-this-game-is-easy.json](./271566-this-game-is-easy.json) |
+| This Game is For You 2022 | 277478 | [277478-this-game-is-for-you-2022.json](./277478-this-game-is-for-you-2022.json) |
 | This Game is Ground Breaking | 350039 | [350039-this-game-is-ground-breaking.json](./350039-this-game-is-ground-breaking.json) |
 | This Game Is Not Real | 392825 | [392825-this-game-is-not-real.json](./392825-this-game-is-not-real.json) |
 | This Game is Self-Aware | 177324 | [177324-this-game-is-self-aware.json](./177324-this-game-is-self-aware.json) |
@@ -21728,6 +21730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thou Shalt Be Brave | 134566 | [134566-thou-shalt-be-brave.json](./134566-thou-shalt-be-brave.json) |
 | Thou Shalt Not Kill | 312220 | [312220-thou-shalt-not-kill.json](./312220-thou-shalt-not-kill.json) |
 | Though the Heavens Fall | 266423 | [266423-though-the-heavens-fall.json](./266423-though-the-heavens-fall.json) |
+| Thought Experiment Simulator | 277485 | [277485-thought-experiment-simulator.json](./277485-thought-experiment-simulator.json) |
 | Thought Police | 178834 | [178834-thought-police.json](./178834-thought-police.json) |
 | Thoughtform Invasion | 292085 | [292085-thoughtform-invasion.json](./292085-thoughtform-invasion.json) |
 | Thoughtless | 405814 | [405814-thoughtless.json](./405814-thoughtless.json) |
@@ -32258,6 +32261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travel Along 2 | 416199 | [416199-travel-along-2.json](./416199-travel-along-2.json) |
 | Travel Apple | 58931 | [58931-travel-apple.json](./58931-travel-apple.json) |
 | Travel Bug | 86096 | [86096-travel-bug.json](./86096-travel-bug.json) |
+| Travel Cat: Adventure Island | 277560 | [277560-travel-cat-adventure-island.json](./277560-travel-cat-adventure-island.json) |
 | Travel Center Tycoon | 220158 | [220158-travel-center-tycoon.json](./220158-travel-center-tycoon.json) |
 | Travel Cuisine 2: Sweet Life | 358405 | [358405-travel-cuisine-2-sweet-life.json](./358405-travel-cuisine-2-sweet-life.json) |
 | Travel Cuisine 2: Sweet Life - Collector's Edition | 358422 | [358422-travel-cuisine-2-sweet-life-collectors-edition.json](./358422-travel-cuisine-2-sweet-life-collectors-edition.json) |
@@ -35449,6 +35453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Fish | 287568 | [287568-twin-fish.json](./287568-twin-fish.json) |
 | Twin Flames | 318312 | [318312-twin-flames.json](./318312-twin-flames.json) |
 | Twin Goddesses | 43810 | [43810-twin-goddesses.json](./43810-twin-goddesses.json) |
+| Twin Gods | 277464 | [277464-twin-gods.json](./277464-twin-gods.json) |
 | Twin Hawk | 294036 | [294036-twin-hawk.json](./294036-twin-hawk.json) |
 | Twin Hobo Rocket | 215565 | [215565-twin-hobo-rocket.json](./215565-twin-hobo-rocket.json) |
 | Twin Hooks | 420970 | [420970-twin-hooks.json](./420970-twin-hooks.json) |
