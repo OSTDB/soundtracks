@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RabbitConquest | 250260 | [250260-rabbitconquest.json](./250260-rabbitconquest.json) |
 | RabbitHole Island: Turn-based Vtuber Battles | 374387 | [374387-rabbithole-island-turn-based-vtuber-battles.json](./374387-rabbithole-island-turn-based-vtuber-battles.json) |
 | RabbitJack's Casino | 67960 | [67960-rabbitjacks-casino.json](./67960-rabbitjacks-casino.json) |
+| Rabbitmaiden Softbook | 267604 | [267604-rabbitmaiden-softbook.json](./267604-rabbitmaiden-softbook.json) |
 | Rabbitoad | 203663 | [203663-rabbitoad.json](./203663-rabbitoad.json) |
 | Rabbitra 2 | 291846 | [291846-rabbitra-2.json](./291846-rabbitra-2.json) |
 | Rabbits and Magic | 315787 | [315787-rabbits-and-magic.json](./315787-rabbits-and-magic.json) |
@@ -756,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Helicopter II | 43230 | [43230-radio-helicopter-ii.json](./43230-radio-helicopter-ii.json) |
 | Radio Rayless | 324348 | [324348-radio-rayless.json](./324348-radio-rayless.json) |
 | Radio Runner | 133345 | [133345-radio-runner.json](./133345-radio-runner.json) |
+| Radio Silent | 267696 | [267696-radio-silent.json](./267696-radio-silent.json) |
 | Radio Squid | 135398 | [135398-radio-squid.json](./135398-radio-squid.json) |
 | Radio Station | 132772 | [132772-radio-station.json](./132772-radio-station.json) |
 | Radio the Universe | 15694 | [15694-radio-the-universe.json](./15694-radio-the-universe.json) |
@@ -6458,6 +6460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Blaster: Mech Madness 1 | 274642 | [274642-retro-blaster-mech-madness-1.json](./274642-retro-blaster-mech-madness-1.json) |
 | Retro Block VR | 44295 | [44295-retro-block-vr.json](./44295-retro-block-vr.json) |
 | Retro Bowl | 141684 | [141684-retro-bowl.json](./141684-retro-bowl.json) |
+| Retro Bowl College | 267627 | [267627-retro-bowl-college.json](./267627-retro-bowl-college.json) |
 | Retro Cave Flyer | 91701 | [91701-retro-cave-flyer.json](./91701-retro-cave-flyer.json) |
 | Retro City Rampage | 8063 | [8063-retro-city-rampage.json](./8063-retro-city-rampage.json) |
 | Retro City Rampage DX | 15276 | [15276-retro-city-rampage-dx.json](./15276-retro-city-rampage-dx.json) |
@@ -7549,6 +7552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbon Racer Next | 115178 | [115178-ribbon-racer-next.json](./115178-ribbon-racer-next.json) |
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
 | Ribby: The Game | 181439 | [181439-ribby-the-game.json](./181439-ribby-the-game.json) |
+| RiBeat! | 267698 | [267698-ribeat.json](./267698-ribeat.json) |
 | Ribeye Charlie's | 183170 | [183170-ribeye-charlies.json](./183170-ribeye-charlies.json) |
 | Ribon: Sabukseong Gyeoljeon | 215838 | [215838-ribon-sabukseong-gyeoljeon.json](./215838-ribon-sabukseong-gyeoljeon.json) |
 | Riboud and Fairies | 234518 | [234518-riboud-and-fairies.json](./234518-riboud-and-fairies.json) |
@@ -7818,6 +7822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride 5: Free Pack 04 | 286993 | [286993-ride-5-free-pack-04.json](./286993-ride-5-free-pack-04.json) |
 | Ride 5: Free Pack 05 | 292671 | [292671-ride-5-free-pack-05.json](./292671-ride-5-free-pack-05.json) |
 | Ride 5: Free Pack 06 | 293410 | [293410-ride-5-free-pack-06.json](./293410-ride-5-free-pack-06.json) |
+| Ride 5: King of the Hills Pack | 267697 | [267697-ride-5-king-of-the-hills-pack.json](./267697-ride-5-king-of-the-hills-pack.json) |
 | Ride 5: Racing Icons Pack | 286994 | [286994-ride-5-racing-icons-pack.json](./286994-ride-5-racing-icons-pack.json) |
 | Ride 5: Short Track Pack | 272941 | [272941-ride-5-short-track-pack.json](./272941-ride-5-short-track-pack.json) |
 | Ride 5: Special Edition | 246022 | [246022-ride-5-special-edition.json](./246022-ride-5-special-edition.json) |
