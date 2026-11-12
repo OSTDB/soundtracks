@@ -4992,6 +4992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Note | 97637 | [97637-white-note.json](./97637-white-note.json) |
 | White Nothing | 103634 | [103634-white-nothing.json](./103634-white-nothing.json) |
 | White Paper | 207701 | [207701-white-paper.json](./207701-white-paper.json) |
+| White Path | 296291 | [296291-white-path.json](./296291-white-path.json) |
 | White Pearl | 76663 | [76663-white-pearl.json](./76663-white-pearl.json) |
 | White Rabbit | 161356 | [161356-white-rabbit.json](./161356-white-rabbit.json) |
 | White Rabbit's Wonderland 2: Twisted Worlds | 416465 | [416465-white-rabbits-wonderland-2-twisted-worlds.json](./416465-white-rabbits-wonderland-2-twisted-worlds.json) |
