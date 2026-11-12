@@ -2588,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Girls | 238821 | [238821-save-the-girls.json](./238821-save-the-girls.json) |
 | Save the girls Action | 150469 | [150469-save-the-girls-action.json](./150469-save-the-girls-action.json) |
 | Save the Goombas | 318938 | [318938-save-the-goombas.json](./318938-save-the-goombas.json) |
+| Save the Goosey | 247236 | [247236-save-the-goosey.json](./247236-save-the-goosey.json) |
 | Save the Halloween | 75198 | [75198-save-the-halloween.json](./75198-save-the-halloween.json) |
 | Save the Hamsters | 63121 | [63121-save-the-hamsters.json](./63121-save-the-hamsters.json) |
 | Save the Heart Planet | 147553 | [147553-save-the-heart-planet.json](./147553-save-the-heart-planet.json) |
@@ -2786,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SBK-07 Superbike World Championship | 21421 | [21421-sbk-07-superbike-world-championship.json](./21421-sbk-07-superbike-world-championship.json) |
 | SBK-08: Superbike World Championship | 264881 | [264881-sbk-08-superbike-world-championship.json](./264881-sbk-08-superbike-world-championship.json) |
 | SBK: Snowboard Kids | 47725 | [47725-sbk-snowboard-kids.json](./47725-sbk-snowboard-kids.json) |
+| SBK15 | 247167 | [247167-sbk15.json](./247167-sbk15.json) |
 | SBK16 Official Mobile Game | 175667 | [175667-sbk16-official-mobile-game.json](./175667-sbk16-official-mobile-game.json) |
 | Sblobber 64 | 145456 | [145456-sblobber-64.json](./145456-sblobber-64.json) |
 | Sburbmon | 351854 | [351854-sburbmon.json](./351854-sburbmon.json) |
@@ -4072,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrolling Survivor | 177163 | [177163-scrolling-survivor.json](./177163-scrolling-survivor.json) |
 | Scrolling Walls | 73423 | [73423-scrolling-walls.json](./73423-scrolling-walls.json) |
 | Scrollonoid | 41112 | [41112-scrollonoid.json](./41112-scrollonoid.json) |
+| Scrolls of Fire | 247161 | [247161-scrolls-of-fire.json](./247161-scrolls-of-fire.json) |
 | Scrolls of Gloom | 238976 | [238976-scrolls-of-gloom.json](./238976-scrolls-of-gloom.json) |
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scrolls of the Lord | 75947 | [75947-scrolls-of-the-lord.json](./75947-scrolls-of-the-lord.json) |
@@ -16209,6 +16212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snakebird Primer | 115003 | [115003-snakebird-primer.json](./115003-snakebird-primer.json) |
 | SnakeByte | 193470 | [193470-snakebyte.json](./193470-snakebyte.json) |
 | Snakecremental | 341463 | [341463-snakecremental.json](./341463-snakecremental.json) |
+| Snakedate | 247160 | [247160-snakedate.json](./247160-snakedate.json) |
 | Snakeez | 69021 | [69021-snakeez.json](./69021-snakeez.json) |
 | SnakeGame | 193028 | [193028-snakegame.json](./193028-snakegame.json) |
 | SnakeGame.Live | 422477 | [422477-snakegame-live.json](./422477-snakegame-live.json) |
@@ -20162,6 +20166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Land: Awakening World | 418059 | [418059-soul-land-awakening-world.json](./418059-soul-land-awakening-world.json) |
 | Soul Land: Hunting World | 354242 | [354242-soul-land-hunting-world.json](./354242-soul-land-hunting-world.json) |
 | Soul Launcher | 208073 | [208073-soul-launcher.json](./208073-soul-launcher.json) |
+| Soul Launcher!: Tower Defense | 247238 | [247238-soul-launcher-tower-defense.json](./247238-soul-launcher-tower-defense.json) |
 | Soul Light | 187407 | [187407-soul-light.json](./187407-soul-light.json) |
 | Soul Link | 207644 | [207644-soul-link.json](./207644-soul-link.json) |
 | Soul Link Extension | 72440 | [72440-soul-link-extension.json](./72440-soul-link-extension.json) |
@@ -21455,6 +21460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Launcher | 60875 | [60875-space-launcher.json](./60875-space-launcher.json) |
 | Space Lazors: Puzzle Saga | 257246 | [257246-space-lazors-puzzle-saga.json](./257246-space-lazors-puzzle-saga.json) |
 | Space Leaper: Cocoon | 208130 | [208130-space-leaper-cocoon.json](./208130-space-leaper-cocoon.json) |
+| Space Leaper: Reboot | 247237 | [247237-space-leaper-reboot.json](./247237-space-leaper-reboot.json) |
 | Space Legends | 73342 | [73342-space-legends.json](./73342-space-legends.json) |
 | Space Legends: At the Edge of the Universe | 17948 | [17948-space-legends-at-the-edge-of-the-universe.json](./17948-space-legends-at-the-edge-of-the-universe.json) |
 | Space Leprechaun | 75029 | [75029-space-leprechaun.json](./75029-space-leprechaun.json) |
