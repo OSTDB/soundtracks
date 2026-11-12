@@ -15289,6 +15289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretty Girls Game Collection 3 | 241714 | [241714-pretty-girls-game-collection-3.json](./241714-pretty-girls-game-collection-3.json) |
 | Pretty Girls Game Collection 4 | 342770 | [342770-pretty-girls-game-collection-4.json](./342770-pretty-girls-game-collection-4.json) |
 | Pretty Girls Klondike Solitaire | 150297 | [150297-pretty-girls-klondike-solitaire.json](./150297-pretty-girls-klondike-solitaire.json) |
+| Pretty Girls Klondike Solitaire Plus | 260351 | [260351-pretty-girls-klondike-solitaire-plus.json](./260351-pretty-girls-klondike-solitaire-plus.json) |
 | Pretty Girls Mahjong Solitaire | 34716 | [34716-pretty-girls-mahjong-solitaire.json](./34716-pretty-girls-mahjong-solitaire.json) |
 | Pretty Girls Mahjong Solitaire: Blue | 170376 | [170376-pretty-girls-mahjong-solitaire-blue.json](./170376-pretty-girls-mahjong-solitaire-blue.json) |
 | Pretty Girls Mahjong Solitaire: Green | 168067 | [168067-pretty-girls-mahjong-solitaire-green.json](./168067-pretty-girls-mahjong-solitaire-green.json) |
@@ -17442,6 +17443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Speed: Njarovik | 253212 | [253212-project-speed-njarovik.json](./253212-project-speed-njarovik.json) |
 | Project Sphinx | 233665 | [233665-project-sphinx.json](./233665-project-sphinx.json) |
 | Project Spikepig | 326997 | [326997-project-spikepig.json](./326997-project-spikepig.json) |
+| Project ST | 260356 | [260356-project-st.json](./260356-project-st.json) |
 | Project Stack | 311786 | [311786-project-stack.json](./311786-project-stack.json) |
 | Project Star | 272347 | [272347-project-star.json](./272347-project-star.json) |
 | Project Star: Makeover Story | 227983 | [227983-project-star-makeover-story.json](./227983-project-star-makeover-story.json) |
@@ -19156,6 +19158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puriore!: Smile Princess | 196566 | [196566-puriore-smile-princess.json](./196566-puriore-smile-princess.json) |
 | Purity | 184113 | [184113-purity.json](./184113-purity.json) |
 | Puroma | 410980 | [410980-puroma.json](./410980-puroma.json) |
+| Puropu Defense Squad | 260355 | [260355-puropu-defense-squad.json](./260355-puropu-defense-squad.json) |
 | Purple | 184393 | [184393-purple.json](./184393-purple.json) |
 | Purple | 307446 | [307446-purple.json](./307446-purple.json) |
 | Purple Cape Man | 195514 | [195514-purple-cape-man.json](./195514-purple-cape-man.json) |
