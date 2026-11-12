@@ -1693,6 +1693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-GA: Gekidou no Wakusei | 71939 | [71939-a-ga-gekidou-no-wakusei.json](./71939-a-ga-gekidou-no-wakusei.json) |
 | A-Gents | 33071 | [33071-a-gents.json](./33071-a-gents.json) |
 | A-Girl | 272640 | [272640-a-girl.json](./272640-a-girl.json) |
+| A-Girl: New Character A | 277466 | [277466-a-girl-new-character-a.json](./277466-a-girl-new-character-a.json) |
 | A-Girl: New Character B | 283882 | [283882-a-girl-new-character-b.json](./283882-a-girl-new-character-b.json) |
 | A-Go-Go | 93960 | [93960-a-go-go.json](./93960-a-go-go.json) |
 | A-Kei Otaku | 113587 | [113587-a-kei-otaku.json](./113587-a-kei-otaku.json) |
@@ -4483,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerox | 27948 | [27948-aerox.json](./27948-aerox.json) |
 | Aertan | 415931 | [415931-aertan.json](./415931-aertan.json) |
 | Aerthlings | 373441 | [373441-aerthlings.json](./373441-aerthlings.json) |
+| Aeruta | 277563 | [277563-aeruta.json](./277563-aeruta.json) |
 | Aery VR | 126749 | [126749-aery-vr.json](./126749-aery-vr.json) |
 | Aery VR: A Journey Beyond Time | 237216 | [237216-aery-vr-a-journey-beyond-time.json](./237216-aery-vr-a-journey-beyond-time.json) |
 | Aery VR: Broken Memories | 237248 | [237248-aery-vr-broken-memories.json](./237248-aery-vr-broken-memories.json) |
