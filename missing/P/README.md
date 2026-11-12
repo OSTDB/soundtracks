@@ -1439,6 +1439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panmorphia: Awakened | 197256 | [197256-panmorphia-awakened.json](./197256-panmorphia-awakened.json) |
 | Panmorphia: Enchanted | 171621 | [171621-panmorphia-enchanted.json](./171621-panmorphia-enchanted.json) |
 | Panomap | 253875 | [253875-panomap.json](./253875-panomap.json) |
+| Panomino | 301732 | [301732-panomino.json](./301732-panomino.json) |
 | Panoplia: The Full Armor of God | 68205 | [68205-panoplia-the-full-armor-of-god.json](./68205-panoplia-the-full-armor-of-god.json) |
 | Panoptia | 270959 | [270959-panoptia.json](./270959-panoptia.json) |
 | Panoptic | 30932 | [30932-panoptic.json](./30932-panoptic.json) |
@@ -3205,6 +3206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Zen | 128096 | [128096-path-of-zen.json](./128096-path-of-zen.json) |
 | Path Out | 74116 | [74116-path-out.json](./74116-path-out.json) |
 | Path to Christmas | 221279 | [221279-path-to-christmas.json](./221279-path-to-christmas.json) |
+| Path To Dragon | 301711 | [301711-path-to-dragon.json](./301711-path-to-dragon.json) |
 | Path to Etinway | 161405 | [161405-path-to-etinway.json](./161405-path-to-etinway.json) |
 | Path to Gaea | 189324 | [189324-path-to-gaea.json](./189324-path-to-gaea.json) |
 | Path to Light | 150280 | [150280-path-to-light.json](./150280-path-to-light.json) |
@@ -5950,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Philosopher's Stone | 205087 | [205087-philosophers-stone.json](./205087-philosophers-stone.json) |
 | Philosopher's Stone | 329047 | [329047-philosophers-stone.json](./329047-philosophers-stone.json) |
 | Philosopher's Stone and Minerva | 192512 | [192512-philosophers-stone-and-minerva.json](./192512-philosophers-stone-and-minerva.json) |
+| Philosophers Lab | 302840 | [302840-philosophers-lab.json](./302840-philosophers-lab.json) |
 | Philosophic Love | 105126 | [105126-philosophic-love.json](./105126-philosophic-love.json) |
 | Philosophical Jigsaw: The Zen Koans | 202647 | [202647-philosophical-jigsaw-the-zen-koans.json](./202647-philosophical-jigsaw-the-zen-koans.json) |
 | Philosophy Fantasy | 153765 | [153765-philosophy-fantasy.json](./153765-philosophy-fantasy.json) |
