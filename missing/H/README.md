@@ -12479,6 +12479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hullbreakers | 240792 | [240792-hullbreakers.json](./240792-hullbreakers.json) |
 | Hulu Has Live Sports '20: The Video Game | 125457 | [125457-hulu-has-live-sports-20-the-video-game.json](./125457-hulu-has-live-sports-20-the-video-game.json) |
 | Hululuup | 239907 | [239907-hululuup.json](./239907-hululuup.json) |
+| Hulzuyot: Horror Game | 291142 | [291142-hulzuyot-horror-game.json](./291142-hulzuyot-horror-game.json) |
 | Hum | 192683 | [192683-hum.json](./192683-hum.json) |
 | Hum Drum Experiences | 109300 | [109300-hum-drum-experiences.json](./109300-hum-drum-experiences.json) |
 | Human | 133865 | [133865-human.json](./133865-human.json) |
