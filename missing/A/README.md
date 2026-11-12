@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Good Place To Die | 247317 | [247317-a-good-place-to-die.json](./247317-a-good-place-to-die.json) |
 | A Good Snowman is Hard to Build | 14678 | [14678-a-good-snowman-is-hard-to-build.json](./14678-a-good-snowman-is-hard-to-build.json) |
 | A Good Truck Driver | 197001 | [197001-a-good-truck-driver.json](./197001-a-good-truck-driver.json) |
+| A Goomba's Walk | 268187 | [268187-a-goombas-walk.json](./268187-a-goombas-walk.json) |
 | A Gorilla vs. 100 Men Simulator | 359567 | [359567-a-gorilla-vs-100-men-simulator.json](./359567-a-gorilla-vs-100-men-simulator.json) |
 | A Gracewind Tale: Do You Copy? | 97468 | [97468-a-gracewind-tale-do-you-copy.json](./97468-a-gracewind-tale-do-you-copy.json) |
 | A Gracewind Tale: Midnight Shift with Lenny Motts | 327729 | [327729-a-gracewind-tale-midnight-shift-with-lenny-motts.json](./327729-a-gracewind-tale-midnight-shift-with-lenny-motts.json) |
@@ -11301,6 +11302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Mother Life Simulator | 376264 | [376264-anime-mother-life-simulator.json](./376264-anime-mother-life-simulator.json) |
 | Anime Music Quiz | 131061 | [131061-anime-music-quiz.json](./131061-anime-music-quiz.json) |
 | Anime Paradise | 263613 | [263613-anime-paradise.json](./263613-anime-paradise.json) |
+| Anime Paradise: Deluxe Edition | 268616 | [268616-anime-paradise-deluxe-edition.json](./268616-anime-paradise-deluxe-edition.json) |
 | Anime Paradise: Extended Edition | 279190 | [279190-anime-paradise-extended-edition.json](./279190-anime-paradise-extended-edition.json) |
 | Anime Paradise: Ultimate Edition | 276326 | [276326-anime-paradise-ultimate-edition.json](./276326-anime-paradise-ultimate-edition.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
