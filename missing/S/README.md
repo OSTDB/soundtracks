@@ -7497,6 +7497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
 | Shadows and Dust | 122625 | [122625-shadows-and-dust.json](./122625-shadows-and-dust.json) |
 | Shadows and Lies | 116033 | [116033-shadows-and-lies.json](./116033-shadows-and-lies.json) |
+| Shadows And Monsters | 313009 | [313009-shadows-and-monsters.json](./313009-shadows-and-monsters.json) |
 | Shadows Are Alive | 265526 | [265526-shadows-are-alive.json](./265526-shadows-are-alive.json) |
 | Shadows Behind the Throne | 176172 | [176172-shadows-behind-the-throne.json](./176172-shadows-behind-the-throne.json) |
 | Shadows Behind the Throne 2 | 158178 | [158178-shadows-behind-the-throne-2.json](./158178-shadows-behind-the-throne-2.json) |
@@ -28800,6 +28801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Balls | 94905 | [94905-sticky-balls.json](./94905-sticky-balls.json) |
 | Sticky Blocks | 62389 | [62389-sticky-blocks.json](./62389-sticky-blocks.json) |
 | Sticky Business: Book of Shadows | 344159 | [344159-sticky-business-book-of-shadows.json](./344159-sticky-business-book-of-shadows.json) |
+| Sticky Business: Camp Zinnias | 313524 | [313524-sticky-business-camp-zinnias.json](./313524-sticky-business-camp-zinnias.json) |
 | Sticky Business: Complete Bundle | 336308 | [336308-sticky-business-complete-bundle.json](./336308-sticky-business-complete-bundle.json) |
 | Sticky Business: Plan With Me | 279375 | [279375-sticky-business-plan-with-me.json](./279375-sticky-business-plan-with-me.json) |
 | Sticky Business: Seaside Tales | 411002 | [411002-sticky-business-seaside-tales.json](./411002-sticky-business-seaside-tales.json) |
@@ -35281,8 +35283,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. for Nintendo 3DS: Bayonetta | 178321 | [178321-super-smash-bros-for-nintendo-3ds-bayonetta.json](./178321-super-smash-bros-for-nintendo-3ds-bayonetta.json) |
 | Super Smash Bros. for Nintendo 3DS: Cloud | 178323 | [178323-super-smash-bros-for-nintendo-3ds-cloud.json](./178323-super-smash-bros-for-nintendo-3ds-cloud.json) |
 | Super Smash Bros. for Nintendo 3DS: Corrin | 178319 | [178319-super-smash-bros-for-nintendo-3ds-corrin.json](./178319-super-smash-bros-for-nintendo-3ds-corrin.json) |
+| Super Smash Bros. for Nintendo 3DS: Dream Land | 313014 | [313014-super-smash-bros-for-nintendo-3ds-dream-land.json](./313014-super-smash-bros-for-nintendo-3ds-dream-land.json) |
 | Super Smash Bros. for Nintendo 3DS: Frozen WarioWare Inc. | 342697 | [342697-super-smash-bros-for-nintendo-3ds-frozen-warioware-inc.json](./342697-super-smash-bros-for-nintendo-3ds-frozen-warioware-inc.json) |
 | Super Smash Bros. for Nintendo 3DS: Geno Hat + Geno Outfit | 325077 | [325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json](./325077-super-smash-bros-for-nintendo-3ds-geno-hat-geno-outfit.json) |
+| Super Smash Bros. for Nintendo 3DS: Hyrule Castle | 313017 | [313017-super-smash-bros-for-nintendo-3ds-hyrule-castle.json](./313017-super-smash-bros-for-nintendo-3ds-hyrule-castle.json) |
 | Super Smash Bros. for Nintendo 3DS: King K. Rool Hat + King K. Rool Outfit | 313047 | [313047-super-smash-bros-for-nintendo-3ds-king-k-rool-hat-king-k-rool-outfit.json](./313047-super-smash-bros-for-nintendo-3ds-king-k-rool-hat-king-k-rool-outfit.json) |
 | Super Smash Bros. for Nintendo 3DS: Lucas | 178312 | [178312-super-smash-bros-for-nintendo-3ds-lucas.json](./178312-super-smash-bros-for-nintendo-3ds-lucas.json) |
 | Super Smash Bros. for Nintendo 3DS: Meta Crystal | 342695 | [342695-super-smash-bros-for-nintendo-3ds-meta-crystal.json](./342695-super-smash-bros-for-nintendo-3ds-meta-crystal.json) |
@@ -35299,13 +35303,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. for Wii U: Cloud | 178322 | [178322-super-smash-bros-for-wii-u-cloud.json](./178322-super-smash-bros-for-wii-u-cloud.json) |
 | Super Smash Bros. for Wii U: Corrin | 178318 | [178318-super-smash-bros-for-wii-u-corrin.json](./178318-super-smash-bros-for-wii-u-corrin.json) |
 | Super Smash Bros. for Wii U: Delfino's Secret | 331012 | [331012-super-smash-bros-for-wii-u-delfinos-secret.json](./331012-super-smash-bros-for-wii-u-delfinos-secret.json) |
+| Super Smash Bros. for Wii U: Dream Land | 313015 | [313015-super-smash-bros-for-wii-u-dream-land.json](./313015-super-smash-bros-for-wii-u-dream-land.json) |
 | Super Smash Bros. for Wii U: Geno Hat + Geno Outfit | 325076 | [325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json](./325076-super-smash-bros-for-wii-u-geno-hat-geno-outfit.json) |
+| Super Smash Bros. for Wii U: Hyrule Castle | 313016 | [313016-super-smash-bros-for-wii-u-hyrule-castle.json](./313016-super-smash-bros-for-wii-u-hyrule-castle.json) |
 | Super Smash Bros. for Wii U: Igglybuff moveset | 343431 | [343431-super-smash-bros-for-wii-u-igglybuff-moveset.json](./343431-super-smash-bros-for-wii-u-igglybuff-moveset.json) |
 | Super Smash Bros. for Wii U: King K. Rool Hat + King K. Rool Outfit | 313048 | [313048-super-smash-bros-for-wii-u-king-k-rool-hat-king-k-rool-outfit.json](./313048-super-smash-bros-for-wii-u-king-k-rool-hat-king-k-rool-outfit.json) |
 | Super Smash Bros. for Wii U: Lucas | 178311 | [178311-super-smash-bros-for-wii-u-lucas.json](./178311-super-smash-bros-for-wii-u-lucas.json) |
 | Super Smash Bros. for Wii U: Mewtwo | 178309 | [178309-super-smash-bros-for-wii-u-mewtwo.json](./178309-super-smash-bros-for-wii-u-mewtwo.json) |
 | Super Smash Bros. for Wii U: Non-scrolling Pac-Land | 331013 | [331013-super-smash-bros-for-wii-u-non-scrolling-pac-land.json](./331013-super-smash-bros-for-wii-u-non-scrolling-pac-land.json) |
 | Super Smash Bros. for Wii U: Peach's Castle | 312969 | [312969-super-smash-bros-for-wii-u-peachs-castle.json](./312969-super-smash-bros-for-wii-u-peachs-castle.json) |
+| Super Smash Bros. for Wii U: Pirate Ship | 313013 | [313013-super-smash-bros-for-wii-u-pirate-ship.json](./313013-super-smash-bros-for-wii-u-pirate-ship.json) |
 | Super Smash Bros. for Wii U: Roy | 178313 | [178313-super-smash-bros-for-wii-u-roy.json](./178313-super-smash-bros-for-wii-u-roy.json) |
 | Super Smash Bros. for Wii U: Ryu | 178315 | [178315-super-smash-bros-for-wii-u-ryu.json](./178315-super-smash-bros-for-wii-u-ryu.json) |
 | Super Smash Bros. for Wii U: Stage Bundle | 325075 | [325075-super-smash-bros-for-wii-u-stage-bundle.json](./325075-super-smash-bros-for-wii-u-stage-bundle.json) |
