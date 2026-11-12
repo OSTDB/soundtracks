@@ -2877,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Tap Rally | 237736 | [237736-one-tap-rally.json](./237736-one-tap-rally.json) |
 | One Thousand and One Days | 182969 | [182969-one-thousand-and-one-days.json](./182969-one-thousand-and-one-days.json) |
 | One Thousand and One Nights | 264222 | [264222-one-thousand-and-one-nights.json](./264222-one-thousand-and-one-nights.json) |
+| One Thousand Cuts | 271434 | [271434-one-thousand-cuts.json](./271434-one-thousand-cuts.json) |
 | One Thousand Lies | 19444 | [19444-one-thousand-lies.json](./19444-one-thousand-lies.json) |
 | One Thousand Paper Cuts | 138605 | [138605-one-thousand-paper-cuts.json](./138605-one-thousand-paper-cuts.json) |
 | One Thousand Pinball Dots | 241560 | [241560-one-thousand-pinball-dots.json](./241560-one-thousand-pinball-dots.json) |
