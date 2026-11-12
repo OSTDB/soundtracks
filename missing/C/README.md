@@ -12374,6 +12374,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoderBear | 116879 | [116879-coderbear.json](./116879-coderbear.json) |
 | CodeRed 911 | 334943 | [334943-codered-911.json](./334943-codered-911.json) |
 | CodeRed: Agent Sarah's Story - Day One | 76679 | [76679-codered-agent-sarahs-story-day-one.json](./76679-codered-agent-sarahs-story-day-one.json) |
+| CodeRed: Battle for Earth | 275199 | [275199-codered-battle-for-earth.json](./275199-codered-battle-for-earth.json) |
+| CodeRed: The Martian Chronicles | 275202 | [275202-codered-the-martian-chronicles.json](./275202-codered-the-martian-chronicles.json) |
 | CodeRunner | 200029 | [200029-coderunner.json](./200029-coderunner.json) |
 | CodeSpells | 17861 | [17861-codespells.json](./17861-codespells.json) |
 | Codestar Cromo Land | 369004 | [369004-codestar-cromo-land.json](./369004-codestar-cromo-land.json) |
@@ -14310,6 +14312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Competitive Karuta Online | 138346 | [138346-competitive-karuta-online.json](./138346-competitive-karuta-online.json) |
 | Compilation Assassin's Creed: Brotherhood + Revelations | 151207 | [151207-compilation-assassins-creed-brotherhood-revelations.json](./151207-compilation-assassins-creed-brotherhood-revelations.json) |
 | Compilation I Tom Clancy's Ghost Recon: Advanced Warfighter 2 + Tom Clancy's EndWar | 84163 | [84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json](./84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json) |
+| Compilation of 10 Line Basic games | 275282 | [275282-compilation-of-10-line-basic-games.json](./275282-compilation-of-10-line-basic-games.json) |
 | Complete | 276261 | [276261-complete.json](./276261-complete.json) |
 | Complete Cossacks 3 Experience | 52314 | [52314-complete-cossacks-3-experience.json](./52314-complete-cossacks-3-experience.json) |
 | Complete Costume Collection | 52833 | [52833-complete-costume-collection.json](./52833-complete-costume-collection.json) |
@@ -18209,6 +18212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Hangover 2 | 393916 | [393916-crazy-hangover-2.json](./393916-crazy-hangover-2.json) |
 | Crazy Hangover 3 | 393917 | [393917-crazy-hangover-3.json](./393917-crazy-hangover-3.json) |
 | Crazy Hill Racing | 235200 | [235200-crazy-hill-racing.json](./235200-crazy-hill-racing.json) |
+| Crazy Hit | 275302 | [275302-crazy-hit.json](./275302-crazy-hit.json) |
 | Crazy Hit 2 | 275261 | [275261-crazy-hit-2.json](./275261-crazy-hit-2.json) |
 | Crazy Home Run! | 87878 | [87878-crazy-home-run.json](./87878-crazy-home-run.json) |
 | Crazy Hospital | 220209 | [220209-crazy-hospital.json](./220209-crazy-hospital.json) |
