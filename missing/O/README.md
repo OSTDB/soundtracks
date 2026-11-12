@@ -1162,6 +1162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OG Memory: Kira Maus | 279455 | [279455-og-memory-kira-maus.json](./279455-og-memory-kira-maus.json) |
 | OG Memory: Spring 2K24 | 310072 | [310072-og-memory-spring-2k24.json](./310072-og-memory-spring-2k24.json) |
 | OG Memory: Synthwave Boats | 289780 | [289780-og-memory-synthwave-boats.json](./289780-og-memory-synthwave-boats.json) |
+| OG Memory: Synthwave Cars | 291133 | [291133-og-memory-synthwave-cars.json](./291133-og-memory-synthwave-cars.json) |
 | OG Memory: Synthwave Monsters | 294331 | [294331-og-memory-synthwave-monsters.json](./294331-og-memory-synthwave-monsters.json) |
 | OG Memory: Synthwave Vampires | 341501 | [341501-og-memory-synthwave-vampires.json](./341501-og-memory-synthwave-vampires.json) |
 | OG Memory: Winter 2K23 | 288784 | [288784-og-memory-winter-2k23.json](./288784-og-memory-winter-2k23.json) |
