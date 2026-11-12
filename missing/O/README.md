@@ -5170,6 +5170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Freedom | 285435 | [285435-our-freedom.json](./285435-our-freedom.json) |
 | Our Friend Sloth | 179196 | [179196-our-friend-sloth.json](./179196-our-friend-sloth.json) |
 | Our Great Revolution! | 180133 | [180133-our-great-revolution.json](./180133-our-great-revolution.json) |
+| Our Guest Tonight | 275203 | [275203-our-guest-tonight.json](./275203-our-guest-tonight.json) |
 | Our Hero! Hyper Sword | 99086 | [99086-our-hero-hyper-sword.json](./99086-our-hero-hyper-sword.json) |
 | Our Hero! Last | 211174 | [211174-our-hero-last.json](./211174-our-hero-last.json) |
 | Our Hero! Two | 169611 | [169611-our-hero-two.json](./169611-our-hero-two.json) |
