@@ -4682,6 +4682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oryouri Pon! 12-gatsu-gou | 344847 | [344847-oryouri-pon-12-gatsu-gou.json](./344847-oryouri-pon-12-gatsu-gou.json) |
 | Oryouri Pon! 2-gatsu-gou | 344850 | [344850-oryouri-pon-2-gatsu-gou.json](./344850-oryouri-pon-2-gatsu-gou.json) |
 | Oryum | 326526 | [326526-oryum.json](./326526-oryum.json) |
+| Orz | 257060 | [257060-orz.json](./257060-orz.json) |
 | Orzmic | 174689 | [174689-orzmic.json](./174689-orzmic.json) |
 | Os Cavaleiros do Zodíaco: A Guerra Galáctica | 278870 | [278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json](./278870-os-cavaleiros-do-zodiaco-a-guerra-galactica.json) |
 | Os Cavaleiros do Zodíaco: A Lenda do Santuário - Cosmo Cards | 282131 | [282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json](./282131-os-cavaleiros-do-zodiaco-a-lenda-do-santuario-cosmo-cards.json) |
@@ -4941,6 +4942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworld Heroes | 208054 | [208054-otherworld-heroes.json](./208054-otherworld-heroes.json) |
 | Otherworld Legends | 136996 | [136996-otherworld-legends.json](./136996-otherworld-legends.json) |
 | Otherworld Legends: Aigneis | 235678 | [235678-otherworld-legends-aigneis.json](./235678-otherworld-legends-aigneis.json) |
+| Otherworld Legends: Alasdair | 257044 | [257044-otherworld-legends-alasdair.json](./257044-otherworld-legends-alasdair.json) |
 | Otherworld Legends: Anibella | 247886 | [247886-otherworld-legends-anibella.json](./247886-otherworld-legends-anibella.json) |
 | Otherworld Legends: Atomic Girl | 274601 | [274601-otherworld-legends-atomic-girl.json](./274601-otherworld-legends-atomic-girl.json) |
 | Otherworld Legends: Ebonfang | 212215 | [212215-otherworld-legends-ebonfang.json](./212215-otherworld-legends-ebonfang.json) |
@@ -5132,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ounba | 391451 | [391451-ounba.json](./391451-ounba.json) |
 | OuO | 174781 | [174781-ouo.json](./174781-ouo.json) |
 | OuPaiWar2 Hua's lake hut | 380364 | [380364-oupaiwar2-huas-lake-hut.json](./380364-oupaiwar2-huas-lake-hut.json) |
+| Our 30-Minute Sessions | 257122 | [257122-our-30-minute-sessions.json](./257122-our-30-minute-sessions.json) |
 | Our Adventure Time | 178549 | [178549-our-adventure-time.json](./178549-our-adventure-time.json) |
 | Our Adventurer Guild | 212060 | [212060-our-adventurer-guild.json](./212060-our-adventurer-guild.json) |
 | Our America | 149337 | [149337-our-america.json](./149337-our-america.json) |
