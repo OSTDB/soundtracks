@@ -6303,7 +6303,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Damn Cardgame | 98287 | [98287-god-damn-cardgame.json](./98287-god-damn-cardgame.json) |
 | God Damn the Garden | 185915 | [185915-god-damn-the-garden.json](./185915-god-damn-the-garden.json) |
 | God Devils | 287520 | [287520-god-devils.json](./287520-god-devils.json) |
-| God Eater | 11844 | [11844-god-eater.json](./11844-god-eater.json) |
 | God Eater 2 | 11853 | [11853-god-eater-2.json](./11853-god-eater-2.json) |
 | God Eater 2: Famitsu DX Pack | 89864 | [89864-god-eater-2-famitsu-dx-pack.json](./89864-god-eater-2-famitsu-dx-pack.json) |
 | God Eater 2: LaLaBitMarket Special Edition | 89863 | [89863-god-eater-2-lalabitmarket-special-edition.json](./89863-god-eater-2-lalabitmarket-special-edition.json) |
@@ -10185,6 +10184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimstar: Crystals are the New Oil! | 152563 | [152563-grimstar-crystals-are-the-new-oil.json](./152563-grimstar-crystals-are-the-new-oil.json) |
 | Grimstar: Welcome to the savage planet | 211528 | [211528-grimstar-welcome-to-the-savage-planet.json](./211528-grimstar-welcome-to-the-savage-planet.json) |
 | Grimstone | 318307 | [318307-grimstone.json](./318307-grimstone.json) |
+| Grimstone Survivors | 317714 | [317714-grimstone-survivors.json](./317714-grimstone-survivors.json) |
 | Grimstone Valley | 340326 | [340326-grimstone-valley.json](./340326-grimstone-valley.json) |
 | Grimstorm | 191881 | [191881-grimstorm.json](./191881-grimstorm.json) |
 | Grimtale Island | 55278 | [55278-grimtale-island.json](./55278-grimtale-island.json) |
@@ -11618,7 +11618,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunboy 1 | 402080 | [402080-gunboy-1.json](./402080-gunboy-1.json) |
 | Gunboy 2 | 402081 | [402081-gunboy-2.json](./402081-gunboy-2.json) |
 | Gunboy 3 | 402091 | [402091-gunboy-3.json](./402091-gunboy-3.json) |
-| Gunbrella | 200900 | [200900-gunbrella.json](./200900-gunbrella.json) |
 | Gunbrella: Deluxe Edition | 266822 | [266822-gunbrella-deluxe-edition.json](./266822-gunbrella-deluxe-edition.json) |
 | Gunbrick | 59838 | [59838-gunbrick.json](./59838-gunbrick.json) |
 | Gunbrick: Reloaded | 131982 | [131982-gunbrick-reloaded.json](./131982-gunbrick-reloaded.json) |
