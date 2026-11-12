@@ -6249,6 +6249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin's Workshop | 248168 | [248168-goblins-workshop.json](./248168-goblins-workshop.json) |
 | GoblinAmerica | 271228 | [271228-goblinamerica.json](./271228-goblinamerica.json) |
 | Goblinfall: Defend Da Fort | 419939 | [419939-goblinfall-defend-da-fort.json](./419939-goblinfall-defend-da-fort.json) |
+| Goblington | 310235 | [310235-goblington.json](./310235-goblington.json) |
 | Goblinna's Garden | 374063 | [374063-goblinnas-garden.json](./374063-goblinnas-garden.json) |
 | Goblins | 239103 | [239103-goblins.json](./239103-goblins.json) |
 | Goblins | 282964 | [282964-goblins.json](./282964-goblins.json) |
@@ -9613,6 +9614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greengrocer Simulator 2024 | 326419 | [326419-greengrocer-simulator-2024.json](./326419-greengrocer-simulator-2024.json) |
 | Greengrocer's | 311631 | [311631-greengrocers.json](./311631-greengrocers.json) |
 | GreenGuardiansVR | 340323 | [340323-greenguardiansvr.json](./340323-greenguardiansvr.json) |
+| Greenhaven Realms: Idle RPG | 309776 | [309776-greenhaven-realms-idle-rpg.json](./309776-greenhaven-realms-idle-rpg.json) |
 | Greenhearth Necromancer | 340324 | [340324-greenhearth-necromancer.json](./340324-greenhearth-necromancer.json) |
 | GreenHill Again | 336339 | [336339-greenhill-again.json](./336339-greenhill-again.json) |
 | Greenhouse | 231738 | [231738-greenhouse.json](./231738-greenhouse.json) |
