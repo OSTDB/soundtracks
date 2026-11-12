@@ -4861,6 +4861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Death | 312551 | [312551-whispering-death.json](./312551-whispering-death.json) |
 | Whispering Dream | 314059 | [314059-whispering-dream.json](./314059-whispering-dream.json) |
 | Whispering Eclipsia | 427229 | [427229-whispering-eclipsia.json](./427229-whispering-eclipsia.json) |
+| Whispering Fears | 270824 | [270824-whispering-fears.json](./270824-whispering-fears.json) |
 | Whispering Flames | 107933 | [107933-whispering-flames.json](./107933-whispering-flames.json) |
 | Whispering Fog | 348655 | [348655-whispering-fog.json](./348655-whispering-fog.json) |
 | Whispering Green | 416838 | [416838-whispering-green.json](./416838-whispering-green.json) |
@@ -4890,6 +4891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers in the Wood | 328198 | [328198-whispers-in-the-wood.json](./328198-whispers-in-the-wood.json) |
 | Whispers In The Woods | 410452 | [410452-whispers-in-the-woods.json](./410452-whispers-in-the-woods.json) |
 | Whispers of a Machine: Blue Edition | 124894 | [124894-whispers-of-a-machine-blue-edition.json](./124894-whispers-of-a-machine-blue-edition.json) |
+| Whispers Of Aether | 270820 | [270820-whispers-of-aether.json](./270820-whispers-of-aether.json) |
 | Whispers of an Elven Captor | 266015 | [266015-whispers-of-an-elven-captor.json](./266015-whispers-of-an-elven-captor.json) |
 | Whispers of Ancient Stone | 195578 | [195578-whispers-of-ancient-stone.json](./195578-whispers-of-ancient-stone.json) |
 | Whispers of Appalachia | 389925 | [389925-whispers-of-appalachia.json](./389925-whispers-of-appalachia.json) |
@@ -5127,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Haunts the Haunters? | 405751 | [405751-who-haunts-the-haunters.json](./405751-who-haunts-the-haunters.json) |
 | Who I Am | 386415 | [386415-who-i-am.json](./386415-who-i-am.json) |
 | Who I See | 236810 | [236810-who-i-see.json](./236810-who-i-see.json) |
+| Who is Abby | 270819 | [270819-who-is-abby.json](./270819-who-is-abby.json) |
 | Who is Awesome | 128355 | [128355-who-is-awesome.json](./128355-who-is-awesome.json) |
 | Who Is Ethan? | 337013 | [337013-who-is-ethan.json](./337013-who-is-ethan.json) |
 | Who is God | 305857 | [305857-who-is-god.json](./305857-who-is-god.json) |
