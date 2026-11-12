@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umi no Oh! Yah! | 384496 | [384496-umi-no-oh-yah.json](./384496-umi-no-oh-yah.json) |
 | Umi to Mamono no Kodomo-tachi | 415268 | [415268-umi-to-mamono-no-kodomo-tachi.json](./415268-umi-to-mamono-no-kodomo-tachi.json) |
 | Umi Tsuri Mejin: Suzuki-hen | 37773 | [37773-umi-tsuri-mejin-suzuki-hen.json](./37773-umi-tsuri-mejin-suzuki-hen.json) |
+| Umichan Sentoryu | 309700 | [309700-umichan-sentoryu.json](./309700-umichan-sentoryu.json) |
 | Umichan Sorani | 201147 | [201147-umichan-sorani.json](./201147-umichan-sorani.json) |
 | Umidorino Gaku no Seishin Kanteiroku | 308879 | [308879-umidorino-gaku-no-seishin-kanteiroku.json](./308879-umidorino-gaku-no-seishin-kanteiroku.json) |
 | Umigame | 226579 | [226579-umigame.json](./226579-umigame.json) |
