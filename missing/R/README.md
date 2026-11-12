@@ -3574,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reasoning of Courage | 219383 | [219383-reasoning-of-courage.json](./219383-reasoning-of-courage.json) |
 | Reasoning of Courage Nori 3 Balanced Diet | 251680 | [251680-reasoning-of-courage-nori-3-balanced-diet.json](./251680-reasoning-of-courage-nori-3-balanced-diet.json) |
 | Reasoning of Courage Nori 8 Definition of Kindness | 317274 | [317274-reasoning-of-courage-nori-8-definition-of-kindness.json](./317274-reasoning-of-courage-nori-8-definition-of-kindness.json) |
+| Reasoning of Courage Nori Courage Journey | 305574 | [305574-reasoning-of-courage-nori-courage-journey.json](./305574-reasoning-of-courage-nori-courage-journey.json) |
 | Reasons | 349789 | [349789-reasons.json](./349789-reasons.json) |
 | Reasons For Kym | 304720 | [304720-reasons-for-kym.json](./304720-reasons-for-kym.json) |
 | Reave | 335126 | [335126-reave.json](./335126-reave.json) |
@@ -10688,6 +10689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Dungeon | 188515 | [188515-rogue-dungeon.json](./188515-rogue-dungeon.json) |
 | Rogue Dungeons | 138581 | [138581-rogue-dungeons.json](./138581-rogue-dungeons.json) |
 | Rogue Earth | 197136 | [197136-rogue-earth.json](./197136-rogue-earth.json) |
+| Rogue Eclipse | 305022 | [305022-rogue-eclipse.json](./305022-rogue-eclipse.json) |
 | Rogue Egg: Hatch Hero | 256170 | [256170-rogue-egg-hatch-hero.json](./256170-rogue-egg-hatch-hero.json) |
 | Rogue Elements | 421800 | [421800-rogue-elements.json](./421800-rogue-elements.json) |
 | Rogue Empire | 75077 | [75077-rogue-empire.json](./75077-rogue-empire.json) |
@@ -11671,6 +11673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room of Roilands | 177501 | [177501-room-of-roilands.json](./177501-room-of-roilands.json) |
 | Room Planner | 183268 | [183268-room-planner.json](./183268-room-planner.json) |
 | Room Prison | 418835 | [418835-room-prison.json](./418835-room-prison.json) |
+| Room Renovator: Furniture Decor Simulator | 305588 | [305588-room-renovator-furniture-decor-simulator.json](./305588-room-renovator-furniture-decor-simulator.json) |
 | Room Room | 176336 | [176336-room-room.json](./176336-room-room.json) |
 | Room Rules | 382951 | [382951-room-rules.json](./382951-room-rules.json) |
 | Room Service | 343231 | [343231-room-service.json](./343231-room-service.json) |
