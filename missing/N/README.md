@@ -5306,6 +5306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine Hours, Nine Persons, Nine Doors | 9543 | [9543-nine-hours-nine-persons-nine-doors.json](./9543-nine-hours-nine-persons-nine-doors.json) |
 | Nine in Flight | 310734 | [310734-nine-in-flight.json](./310734-nine-in-flight.json) |
 | Nine Lives | 139614 | [139614-nine-lives.json](./139614-nine-lives.json) |
+| Nine Lives Ninja: Explore! | 293798 | [293798-nine-lives-ninja-explore.json](./293798-nine-lives-ninja-explore.json) |
 | Nine Lives or Less | 204058 | [204058-nine-lives-or-less.json](./204058-nine-lives-or-less.json) |
 | Nine Men's Morris Multiplayer | 351063 | [351063-nine-mens-morris-multiplayer.json](./351063-nine-mens-morris-multiplayer.json) |
 | Nine Mile Ride | 384473 | [384473-nine-mile-ride.json](./384473-nine-mile-ride.json) |
