@@ -2455,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gator Panic Remix | 229457 | [229457-gator-panic-remix.json](./229457-gator-panic-remix.json) |
 | Gator Parade | 123533 | [123533-gator-parade.json](./123533-gator-parade.json) |
 | Gatos contra el mundo | 299092 | [299092-gatos-contra-el-mundo.json](./299092-gatos-contra-el-mundo.json) |
+| Gatoslip: Chapter 0 | 264847 | [264847-gatoslip-chapter-0.json](./264847-gatoslip-chapter-0.json) |
 | Gatotag | 403924 | [403924-gatotag.json](./403924-gatotag.json) |
 | Gats.io | 327907 | [327907-gats-io.json](./327907-gats-io.json) |
 | Gatuno in Christmas | 315152 | [315152-gatuno-in-christmas.json](./315152-gatuno-in-christmas.json) |
@@ -2669,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 3: Forces of Nature | 148248 | [148248-gears-of-war-3-forces-of-nature.json](./148248-gears-of-war-3-forces-of-nature.json) |
 | Gears of War 3: Limited Collector's Edition | 47384 | [47384-gears-of-war-3-limited-collectors-edition.json](./47384-gears-of-war-3-limited-collectors-edition.json) |
 | Gears of War 3: Raam's Shadow | 21844 | [21844-gears-of-war-3-raams-shadow.json](./21844-gears-of-war-3-raams-shadow.json) |
+| Gears of War 4 and Halo 5: Guardians Bundle | 264941 | [264941-gears-of-war-4-and-halo-5-guardians-bundle.json](./264941-gears-of-war-4-and-halo-5-guardians-bundle.json) |
 | Gears of War 4: Amazon Exclusive Collector's Edition | 51540 | [51540-gears-of-war-4-amazon-exclusive-collectors-edition.json](./51540-gears-of-war-4-amazon-exclusive-collectors-edition.json) |
 | Gears of War 4: Collector's Edition - Outsider Variant | 89838 | [89838-gears-of-war-4-collectors-edition-outsider-variant.json](./89838-gears-of-war-4-collectors-edition-outsider-variant.json) |
 | Gears of War: E-Day Premium Edition | 407702 | [407702-gears-of-war-e-day-premium-edition.json](./407702-gears-of-war-e-day-premium-edition.json) |
@@ -2709,6 +2711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
 | Gedel Escape | 171699 | [171699-gedel-escape.json](./171699-gedel-escape.json) |
 | Gedonia | 121179 | [121179-gedonia.json](./121179-gedonia.json) |
+| Gedonia 2 | 264924 | [264924-gedonia-2.json](./264924-gedonia-2.json) |
 | Gee Bee | 2752 | [2752-gee-bee.json](./2752-gee-bee.json) |
 | Gee Bee Air Rally | 12115 | [12115-gee-bee-air-rally.json](./12115-gee-bee-air-rally.json) |
 | Gee, Tea, Eh, Seven? | 422785 | [422785-gee-tea-eh-seven.json](./422785-gee-tea-eh-seven.json) |
