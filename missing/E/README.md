@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egyptgington | 306870 | [306870-egyptgington.json](./306870-egyptgington.json) |
 | Egyptian Ball | 71335 | [71335-egyptian-ball.json](./71335-egyptian-ball.json) |
 | Egyptian Challenge | 91543 | [91543-egyptian-challenge.json](./91543-egyptian-challenge.json) |
+| Egyptian Myth | 270839 | [270839-egyptian-myth.json](./270839-egyptian-myth.json) |
 | Egyptian Ratslap | 264796 | [264796-egyptian-ratslap.json](./264796-egyptian-ratslap.json) |
 | Egyptian Run | 93166 | [93166-egyptian-run.json](./93166-egyptian-run.json) |
 | Egyptian Senet | 34742 | [34742-egyptian-senet.json](./34742-egyptian-senet.json) |
