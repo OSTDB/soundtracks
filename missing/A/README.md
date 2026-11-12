@@ -2994,6 +2994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achi: Strategy Game | 142973 | [142973-achi-strategy-game.json](./142973-achi-strategy-game.json) |
 | Achieve-Its | 311451 | [311451-achieve-its.json](./311451-achieve-its.json) |
 | Achievement Chevo Lurker: Achievement Exodus | 72483 | [72483-achievement-chevo-lurker-achievement-exodus.json](./72483-achievement-chevo-lurker-achievement-exodus.json) |
+| Achievement Clicker | 248925 | [248925-achievement-clicker.json](./248925-achievement-clicker.json) |
 | Achievement Clicker | 75381 | [75381-achievement-clicker.json](./75381-achievement-clicker.json) |
 | Achievement Clicker 2018 | 81847 | [81847-achievement-clicker-2018.json](./81847-achievement-clicker-2018.json) |
 | Achievement Clicker 2019 | 95223 | [95223-achievement-clicker-2019.json](./95223-achievement-clicker-2019.json) |
@@ -13031,6 +13032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Boy | 172918 | [172918-aqua-boy.json](./172918-aqua-boy.json) |
 | Aqua Bubble | 70214 | [70214-aqua-bubble.json](./70214-aqua-bubble.json) |
 | Aqua Bubble 2 | 70927 | [70927-aqua-bubble-2.json](./70927-aqua-bubble-2.json) |
+| Aqua Cat: Clean it All! | 248873 | [248873-aqua-cat-clean-it-all.json](./248873-aqua-cat-clean-it-all.json) |
 | Aqua Cube | 82583 | [82583-aqua-cube.json](./82583-aqua-cube.json) |
 | Aqua Energizer | 197666 | [197666-aqua-energizer.json](./197666-aqua-energizer.json) |
 | Aqua Fish | 52411 | [52411-aqua-fish.json](./52411-aqua-fish.json) |
@@ -15155,6 +15157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arlcoco: The One Winged Princess Pet | 82774 | [82774-arlcoco-the-one-winged-princess-pet.json](./82774-arlcoco-the-one-winged-princess-pet.json) |
 | Arle no Bouken: Mahou no Jewel | 50020 | [50020-arle-no-bouken-mahou-no-jewel.json](./50020-arle-no-bouken-mahou-no-jewel.json) |
 | Arle's Travel Log | 253717 | [253717-arles-travel-log.json](./253717-arles-travel-log.json) |
+| Arlequin | 248853 | [248853-arlequin.json](./248853-arlequin.json) |
 | Arlington Horse Racing | 38518 | [38518-arlington-horse-racing.json](./38518-arlington-horse-racing.json) |
 | Arlo | 280564 | [280564-arlo.json](./280564-arlo.json) |
 | Arlo the Rabbit | 99286 | [99286-arlo-the-rabbit.json](./99286-arlo-the-rabbit.json) |
