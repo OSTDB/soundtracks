@@ -1022,7 +1022,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -2372,6 +2371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bankruptcy | 292283 | [292283-bankruptcy.json](./292283-bankruptcy.json) |
 | Bankshot | 344560 | [344560-bankshot.json](./344560-bankshot.json) |
 | Bankshot Billiards 2 | 20523 | [20523-bankshot-billiards-2.json](./20523-bankshot-billiards-2.json) |
+| Bankshot Launchers | 304394 | [304394-bankshot-launchers.json](./304394-bankshot-launchers.json) |
 | Bankshot! | 425407 | [425407-bankshot.json](./425407-bankshot.json) |
 | Bankster | 76370 | [76370-bankster.json](./76370-bankster.json) |
 | Bankwave: Neon Networth | 258954 | [258954-bankwave-neon-networth.json](./258954-bankwave-neon-networth.json) |
@@ -3349,6 +3349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basket Battle | 208910 | [208910-basket-battle.json](./208910-basket-battle.json) |
 | Basket Bots | 365639 | [365639-basket-bots.json](./365639-basket-bots.json) |
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
+| Basket Brawl DX | 303921 | [303921-basket-brawl-dx.json](./303921-basket-brawl-dx.json) |
 | Basket Bros | 133727 | [133727-basket-bros.json](./133727-basket-bros.json) |
 | Basket Catch | 206567 | [206567-basket-catch.json](./206567-basket-catch.json) |
 | Basket Fall | 106068 | [106068-basket-fall.json](./106068-basket-fall.json) |
@@ -3827,6 +3828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Babes | 294016 | [294016-battle-babes.json](./294016-battle-babes.json) |
 | Battle Babes: Blood, Sun & Moon | 296528 | [296528-battle-babes-blood-sun-and-moon.json](./296528-battle-babes-blood-sun-and-moon.json) |
 | Battle Babes: Lightning | 309649 | [309649-battle-babes-lightning.json](./309649-battle-babes-lightning.json) |
+| Battle Babes: Love & Death | 303913 | [303913-battle-babes-love-and-death.json](./303913-battle-babes-love-and-death.json) |
 | Battle Babes: Lust, Space & Shadow | 340554 | [340554-battle-babes-lust-space-and-shadow.json](./340554-battle-babes-lust-space-and-shadow.json) |
 | Battle Bakraid | 38541 | [38541-battle-bakraid.json](./38541-battle-bakraid.json) |
 | Battle Bakraid Unlimited Ver. | 245663 | [245663-battle-bakraid-unlimited-ver.json](./245663-battle-bakraid-unlimited-ver.json) |
@@ -6402,6 +6404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Runner | 338227 | [338227-beer-runner.json](./338227-beer-runner.json) |
 | Beer Runner: Yasuke A Samurai | 338228 | [338228-beer-runner-yasuke-a-samurai.json](./338228-beer-runner-yasuke-a-samurai.json) |
 | Beer Shooter | 101526 | [101526-beer-shooter.json](./101526-beer-shooter.json) |
+| Beer Simulator | 303920 | [303920-beer-simulator.json](./303920-beer-simulator.json) |
 | Beer Strip | 367024 | [367024-beer-strip.json](./367024-beer-strip.json) |
 | Beer Trivia | 72012 | [72012-beer-trivia.json](./72012-beer-trivia.json) |
 | Beer, Babes and Dragons | 56642 | [56642-beer-babes-and-dragons.json](./56642-beer-babes-and-dragons.json) |
@@ -7003,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beneath the Blobs | 337945 | [337945-beneath-the-blobs.json](./337945-beneath-the-blobs.json) |
 | Beneath The Brine | 327376 | [327376-beneath-the-brine.json](./327376-beneath-the-brine.json) |
 | Beneath the Cardboard | 201286 | [201286-beneath-the-cardboard.json](./201286-beneath-the-cardboard.json) |
+| Beneath the Cardboard: Be Happy | 303923 | [303923-beneath-the-cardboard-be-happy.json](./303923-beneath-the-cardboard-be-happy.json) |
 | Beneath the Cherry Trees | 90567 | [90567-beneath-the-cherry-trees.json](./90567-beneath-the-cherry-trees.json) |
 | Beneath the Deep | 211449 | [211449-beneath-the-deep.json](./211449-beneath-the-deep.json) |
 | Beneath the Earth: Backrooms | 273792 | [273792-beneath-the-earth-backrooms.json](./273792-beneath-the-earth-backrooms.json) |
@@ -9970,6 +9974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackhole: Challenge Vault | 170521 | [170521-blackhole-challenge-vault.json](./170521-blackhole-challenge-vault.json) |
 | Blackhole: Complete Edition | 36764 | [36764-blackhole-complete-edition.json](./36764-blackhole-complete-edition.json) |
 | Blackhole: Testing Laboratory | 170522 | [170522-blackhole-testing-laboratory.json](./170522-blackhole-testing-laboratory.json) |
+| BlackHoleMaze | 304924 | [304924-blackholemaze.json](./304924-blackholemaze.json) |
 | Blackholes Stars | 190219 | [190219-blackholes-stars.json](./190219-blackholes-stars.json) |
 | BlackHoopS | 111482 | [111482-blackhoops.json](./111482-blackhoops.json) |
 | Blackish House | 271769 | [271769-blackish-house.json](./271769-blackish-house.json) |
@@ -11565,6 +11570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky | 100836 | [100836-blocky.json](./100836-blocky.json) |
 | Blocky | 234699 | [234699-blocky.json](./234699-blocky.json) |
 | Blocky 6 | 233174 | [233174-blocky-6.json](./233174-blocky-6.json) |
+| Blocky Ascent | 304396 | [304396-blocky-ascent.json](./304396-blocky-ascent.json) |
 | Blocky Ball | 151040 | [151040-blocky-ball.json](./151040-blocky-ball.json) |
 | Blocky Balloons | 239401 | [239401-blocky-balloons.json](./239401-blocky-balloons.json) |
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
@@ -14023,6 +14029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book of Shadows | 235204 | [235204-book-of-shadows.json](./235204-book-of-shadows.json) |
 | Book of Sophia | 158869 | [158869-book-of-sophia.json](./158869-book-of-sophia.json) |
 | Book of Spells | 303357 | [303357-book-of-spells.json](./303357-book-of-spells.json) |
+| Book of Spells 2 | 304943 | [304943-book-of-spells-2.json](./304943-book-of-spells-2.json) |
 | Book of the Abyss | 392319 | [392319-book-of-the-abyss.json](./392319-book-of-the-abyss.json) |
 | Book of the Dead | 13423 | [13423-book-of-the-dead.json](./13423-book-of-the-dead.json) |
 | Book of the Old | 164153 | [164153-book-of-the-old.json](./164153-book-of-the-old.json) |
@@ -14582,6 +14589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Hunt | 293110 | [293110-bot-hunt.json](./293110-bot-hunt.json) |
 | Bot Hunter | 330147 | [330147-bot-hunter.json](./330147-bot-hunter.json) |
 | Bot Land | 77405 | [77405-bot-land.json](./77405-bot-land.json) |
+| Bot Loop | 303924 | [303924-bot-loop.json](./303924-bot-loop.json) |
 | Bot Net: Ramshackle Robotics | 126893 | [126893-bot-net-ramshackle-robotics.json](./126893-bot-net-ramshackle-robotics.json) |
 | Bot Patrol | 291040 | [291040-bot-patrol.json](./291040-bot-patrol.json) |
 | Bot Rods | 120522 | [120522-bot-rods.json](./120522-bot-rods.json) |
