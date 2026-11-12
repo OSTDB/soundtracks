@@ -908,6 +908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Bitch Blasters | 337996 | [337996-bad-bitch-blasters.json](./337996-bad-bitch-blasters.json) |
 | Bad Blood | 11335 | [11335-bad-blood.json](./11335-bad-blood.json) |
 | Bad Blood: 1926 | 297709 | [297709-bad-blood-1926.json](./297709-bad-blood-1926.json) |
+| Bad Boro | 254804 | [254804-bad-boro.json](./254804-bad-boro.json) |
 | Bad Bots | 10130 | [10130-bad-bots.json](./10130-bad-bots.json) |
 | Bad Bots Battle Arena | 166699 | [166699-bad-bots-battle-arena.json](./166699-bad-bots-battle-arena.json) |
 | Bad Bots Rises | 27758 | [27758-bad-bots-rises.json](./27758-bad-bots-rises.json) |
@@ -1028,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -5597,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Blocks VR | 111609 | [111609-beat-blocks-vr.json](./111609-beat-blocks-vr.json) |
 | Beat Bolt City | 151502 | [151502-beat-bolt-city.json](./151502-beat-bolt-city.json) |
 | Beat Bop: Pop Star Clicker | 243742 | [243742-beat-bop-pop-star-clicker.json](./243742-beat-bop-pop-star-clicker.json) |
+| Beat Boss | 254192 | [254192-beat-boss.json](./254192-beat-boss.json) |
 | Beat Boxer | 30838 | [30838-beat-boxer.json](./30838-beat-boxer.json) |
 | Beat Boxers | 110997 | [110997-beat-boxers.json](./110997-beat-boxers.json) |
 | Beat Boxing | 120129 | [120129-beat-boxing.json](./120129-beat-boxing.json) |
@@ -7293,6 +7296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Gopher Ever | 392746 | [392746-best-gopher-ever.json](./392746-best-gopher-ever.json) |
 | Best Guess Live | 381909 | [381909-best-guess-live.json](./381909-best-guess-live.json) |
 | Best Gun | 310288 | [310288-best-gun.json](./310288-best-gun.json) |
+| Best Hero | 254742 | [254742-best-hero.json](./254742-best-hero.json) |
 | Best Hero | 377573 | [377573-best-hero.json](./377573-best-hero.json) |
 | Best Hits Fun Collection 10 in 1 Bundle | 417287 | [417287-best-hits-fun-collection-10-in-1-bundle.json](./417287-best-hits-fun-collection-10-in-1-bundle.json) |
 | Best in Show Solitaire | 31652 | [31652-best-in-show-solitaire.json](./31652-best-in-show-solitaire.json) |
