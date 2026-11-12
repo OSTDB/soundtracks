@@ -2315,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Dealer | 133041 | [133041-car-dealer.json](./133041-car-dealer.json) |
 | Car Dealer Driver | 207881 | [207881-car-dealer-driver.json](./207881-car-dealer-driver.json) |
 | Car Dealer Garage Simulator 2026 | 393297 | [393297-car-dealer-garage-simulator-2026.json](./393297-car-dealer-garage-simulator-2026.json) |
+| Car Dealer Simulator | 248933 | [248933-car-dealer-simulator.json](./248933-car-dealer-simulator.json) |
 | Car Dealer Simulator: Retro Car for Sale | 413362 | [413362-car-dealer-simulator-retro-car-for-sale.json](./413362-car-dealer-simulator-retro-car-for-sale.json) |
 | Car Dealer Simulator: Up 2 You DLC | 372366 | [372366-car-dealer-simulator-up-2-you-dlc.json](./372366-car-dealer-simulator-up-2-you-dlc.json) |
 | Car Dealer's Life | 244534 | [244534-car-dealers-life.json](./244534-car-dealers-life.json) |
@@ -3341,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars 2 | 230555 | [230555-cars-2.json](./230555-cars-2.json) |
 | Cars 2 Racing Beena: Mezase! World Champion! | 125323 | [125323-cars-2-racing-beena-mezase-world-champion.json](./125323-cars-2-racing-beena-mezase-world-champion.json) |
 | Cars 3: Driven to Win | 28075 | [28075-cars-3-driven-to-win.json](./28075-cars-3-driven-to-win.json) |
+| Cars and Girls | 248932 | [248932-cars-and-girls.json](./248932-cars-and-girls.json) |
 | Cars and Guns 3D | 212415 | [212415-cars-and-guns-3d.json](./212415-cars-and-guns-3d.json) |
 | Cars and Trucks: preschool toddler learning games, learn shapes & colors | 90140 | [90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json](./90140-cars-and-trucks-preschool-toddler-learning-games-learn-shapes-and-colors.json) |
 | Cars Arena | 111374 | [111374-cars-arena.json](./111374-cars-arena.json) |
@@ -8827,6 +8829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chris no Boken Nikki: Fairy | 97605 | [97605-chris-no-boken-nikki-fairy.json](./97605-chris-no-boken-nikki-fairy.json) |
 | Chris Sawyer's Locomotion | 10737 | [10737-chris-sawyers-locomotion.json](./10737-chris-sawyers-locomotion.json) |
 | Chris: Luxury Getaway | 313620 | [313620-chris-luxury-getaway.json](./313620-chris-luxury-getaway.json) |
+| Chris: The Element Runner | 248935 | [248935-chris-the-element-runner.json](./248935-chris-the-element-runner.json) |
 | Chris' Story | 215510 | [215510-chris-story.json](./215510-chris-story.json) |
 | Chris's Classroom | 400904 | [400904-chriss-classroom.json](./400904-chriss-classroom.json) |
 | Chriss Cross | 150400 | [150400-chriss-cross.json](./150400-chriss-cross.json) |
@@ -18091,6 +18094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Balloon Pop | 108927 | [108927-crazy-balloon-pop.json](./108927-crazy-balloon-pop.json) |
 | Crazy Balls | 359391 | [359391-crazy-balls.json](./359391-crazy-balls.json) |
 | Crazy Basket | 394473 | [394473-crazy-basket.json](./394473-crazy-basket.json) |
+| Crazy Basketball | 248860 | [248860-crazy-basketball.json](./248860-crazy-basketball.json) |
 | Crazy Battle Pets | 339337 | [339337-crazy-battle-pets.json](./339337-crazy-battle-pets.json) |
 | Crazy Beat's Junction | 119475 | [119475-crazy-beats-junction.json](./119475-crazy-beats-junction.json) |
 | Crazy Belts | 35610 | [35610-crazy-belts.json](./35610-crazy-belts.json) |
