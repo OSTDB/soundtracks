@@ -1138,6 +1138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Prelude to Chaos | 293249 | [293249-a-prelude-to-chaos.json](./293249-a-prelude-to-chaos.json) |
 | A Pretty Broken Adventure | 249926 | [249926-a-pretty-broken-adventure.json](./249926-a-pretty-broken-adventure.json) |
 | A Pretty Odd Bunny | 149738 | [149738-a-pretty-odd-bunny.json](./149738-a-pretty-odd-bunny.json) |
+| A Priest Walks Into a Graveyard | 249985 | [249985-a-priest-walks-into-a-graveyard.json](./249985-a-priest-walks-into-a-graveyard.json) |
 | A Princess of Fallen Kingdom | 166615 | [166615-a-princess-of-fallen-kingdom.json](./166615-a-princess-of-fallen-kingdom.json) |
 | A Princess Peril | 323058 | [323058-a-princess-peril.json](./323058-a-princess-peril.json) |
 | A Prison Digging Game | 337976 | [337976-a-prison-digging-game.json](./337976-a-prison-digging-game.json) |
@@ -1169,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ragdoll Rage Game | 364048 | [364048-a-ragdoll-rage-game.json](./364048-a-ragdoll-rage-game.json) |
 | A Rally of Trust | 337698 | [337698-a-rally-of-trust.json](./337698-a-rally-of-trust.json) |
 | A Random Maze | 150481 | [150481-a-random-maze.json](./150481-a-random-maze.json) |
+| A Rare Encounter | 250077 | [250077-a-rare-encounter.json](./250077-a-rare-encounter.json) |
 | A Rat Fell in Love with a Human Girl | 82988 | [82988-a-rat-fell-in-love-with-a-human-girl.json](./82988-a-rat-fell-in-love-with-a-human-girl.json) |
 | A Rat's Quest: The Way Back Home | 122733 | [122733-a-rats-quest-the-way-back-home.json](./122733-a-rats-quest-the-way-back-home.json) |
 | A Rat's Quest: The Way Back Home - Season 2 | 399152 | [399152-a-rats-quest-the-way-back-home-season-2.json](./399152-a-rats-quest-the-way-back-home-season-2.json) |
@@ -4500,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeronuts | 58049 | [58049-aeronuts.json](./58049-aeronuts.json) |
 | Aeroplane Blaster | 181024 | [181024-aeroplane-blaster.json](./181024-aeroplane-blaster.json) |
 | Aeroplane Chess 3D | 106877 | [106877-aeroplane-chess-3d.json](./106877-aeroplane-chess-3d.json) |
+| Aeroplanes | 249483 | [249483-aeroplanes.json](./249483-aeroplanes.json) |
 | Aeroplanoui | 105296 | [105296-aeroplanoui.json](./105296-aeroplanoui.json) |
 | Aeroporto 83 | 215545 | [215545-aeroporto-83.json](./215545-aeroporto-83.json) |
 | Aeropunx | 369180 | [369180-aeropunx.json](./369180-aeropunx.json) |
@@ -4879,6 +4882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
 | After Work | 417423 | [417423-after-work.json](./417423-after-work.json) |
 | After You | 149776 | [149776-after-you.json](./149776-after-you.json) |
+| After You: Level Escape | 249478 | [249478-after-you-level-escape.json](./249478-after-you-level-escape.json) |
 | After-H : Zombies | 141798 | [141798-after-h-zombies.json](./141798-after-h-zombies.json) |
 | After-H: Battle Arena | 141797 | [141797-after-h-battle-arena.json](./141797-after-h-battle-arena.json) |
 | After-H: Legend of Mars | 141799 | [141799-after-h-legend-of-mars.json](./141799-after-h-legend-of-mars.json) |
@@ -6401,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirwayEx | 215243 | [215243-airwayex.json](./215243-airwayex.json) |
 | Airwolf | 13296 | [13296-airwolf.json](./13296-airwolf.json) |
 | Airwolf | 218333 | [218333-airwolf.json](./218333-airwolf.json) |
+| Airwolf | 249522 | [249522-airwolf.json](./249522-airwolf.json) |
 | Airwolf | 267630 | [267630-airwolf.json](./267630-airwolf.json) |
 | Airwolf | 8848 | [8848-airwolf.json](./8848-airwolf.json) |
 | Airxonix | 15827 | [15827-airxonix.json](./15827-airxonix.json) |
@@ -6551,6 +6556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akayashiki | 297794 | [297794-akayashiki.json](./297794-akayashiki.json) |
 | Akayo Therapy | 236306 | [236306-akayo-therapy.json](./236306-akayo-therapy.json) |
 | Akazu: Off limits | 291430 | [291430-akazu-off-limits.json](./291430-akazu-off-limits.json) |
+| Akazukin | 249524 | [249524-akazukin.json](./249524-akazukin.json) |
 | Akazukin Cha Cha Cha | 265971 | [265971-akazukin-cha-cha-cha.json](./265971-akazukin-cha-cha-cha.json) |
 | Akazukin Cha-cha | 15887 | [15887-akazukin-cha-cha.json](./15887-akazukin-cha-cha.json) |
 | Akazukin Cha-cha | 228473 | [228473-akazukin-cha-cha.json](./228473-akazukin-cha-cha.json) |
@@ -7084,6 +7090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Kidd and the Miracle Gems | 376442 | [376442-alex-kidd-and-the-miracle-gems.json](./376442-alex-kidd-and-the-miracle-gems.json) |
 | Alex Kidd in Miracle World | 26778 | [26778-alex-kidd-in-miracle-world.json](./26778-alex-kidd-in-miracle-world.json) |
 | Alex Kidd in Miracle World 2 | 339438 | [339438-alex-kidd-in-miracle-world-2.json](./339438-alex-kidd-in-miracle-world-2.json) |
+| Alex Kidd in Miracle World DX: Signature Edition | 249968 | [249968-alex-kidd-in-miracle-world-dx-signature-edition.json](./249968-alex-kidd-in-miracle-world-dx-signature-edition.json) |
 | Alex Kidd in Mushroom World | 413221 | [413221-alex-kidd-in-mushroom-world.json](./413221-alex-kidd-in-mushroom-world.json) |
 | Alex Kidd in Pico World | 279605 | [279605-alex-kidd-in-pico-world.json](./279605-alex-kidd-in-pico-world.json) |
 | Alex Kidd in Radaxian Rumble | 173107 | [173107-alex-kidd-in-radaxian-rumble.json](./173107-alex-kidd-in-radaxian-rumble.json) |
@@ -10444,6 +10451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Future Dream - Grey | 302569 | [302569-angel-legion-future-dream-grey.json](./302569-angel-legion-future-dream-grey.json) |
 | Angel Legion: Future Dream - White | 317737 | [317737-angel-legion-future-dream-white.json](./317737-angel-legion-future-dream-white.json) |
 | Angel Legion: Lil Lily - Green | 253541 | [253541-angel-legion-lil-lily-green.json](./253541-angel-legion-lil-lily-green.json) |
+| Angel Legion: Lil Lily - Purple | 249509 | [249509-angel-legion-lil-lily-purple.json](./249509-angel-legion-lil-lily-purple.json) |
 | Angel Legion: Oriental - Purple | 254160 | [254160-angel-legion-oriental-purple.json](./254160-angel-legion-oriental-purple.json) |
 | Angel Legion: Secret Gift - Cyan | 331633 | [331633-angel-legion-secret-gift-cyan.json](./331633-angel-legion-secret-gift-cyan.json) |
 | Angel Legion: Secret Gift - Green | 302567 | [302567-angel-legion-secret-gift-green.json](./302567-angel-legion-secret-gift-green.json) |
@@ -11220,6 +11228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Bubble Pop | 75812 | [75812-anime-bubble-pop.json](./75812-anime-bubble-pop.json) |
 | Anime Cards | 154279 | [154279-anime-cards.json](./154279-anime-cards.json) |
 | Anime Catgirl Runner | 224759 | [224759-anime-catgirl-runner.json](./224759-anime-catgirl-runner.json) |
+| Anime Champ | 249989 | [249989-anime-champ.json](./249989-anime-champ.json) |
 | Anime Christmas Uni | 380395 | [380395-anime-christmas-uni.json](./380395-anime-christmas-uni.json) |
 | Anime City | 237201 | [237201-anime-city.json](./237201-anime-city.json) |
 | Anime Clicker | 337949 | [337949-anime-clicker.json](./337949-anime-clicker.json) |
@@ -12958,6 +12967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Applied Energistics | 232627 | [232627-applied-energistics.json](./232627-applied-energistics.json) |
 | Applied Energistics 2 | 275742 | [275742-applied-energistics-2.json](./275742-applied-energistics-2.json) |
 | Apploid: Ballfare | 231687 | [231687-apploid-ballfare.json](./231687-apploid-ballfare.json) |
+| Apploval | 249512 | [249512-apploval.json](./249512-apploval.json) |
 | Appointment with Death | 316831 | [316831-appointment-with-death.json](./316831-appointment-with-death.json) |
 | Appointment With FEAR | 17700 | [17700-appointment-with-fear.json](./17700-appointment-with-fear.json) |
 | Appoooh | 39845 | [39845-appoooh.json](./39845-appoooh.json) |
@@ -18836,6 +18846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | August Ends | 318140 | [318140-august-ends.json](./318140-august-ends.json) |
 | August Night | 217858 | [217858-august-night.json](./217858-august-night.json) |
 | August of August | 149350 | [149350-august-of-august.json](./149350-august-of-august.json) |
+| August Walk | 249977 | [249977-august-walk.json](./249977-august-walk.json) |
 | Augustland Barrens | 257146 | [257146-augustland-barrens.json](./257146-augustland-barrens.json) |
 | Augustus: Im Auftrag des Kaisers | 282425 | [282425-augustus-im-auftrag-des-kaisers.json](./282425-augustus-im-auftrag-des-kaisers.json) |
 | Aukeratu Turkiarra | 422165 | [422165-aukeratu-turkiarra.json](./422165-aukeratu-turkiarra.json) |
