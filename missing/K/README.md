@@ -4181,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kishin Kourinden Oni | 37957 | [37957-kishin-kourinden-oni.json](./37957-kishin-kourinden-oni.json) |
 | Kishki | 376480 | [376480-kishki.json](./376480-kishki.json) |
 | Kismet | 19042 | [19042-kismet.json](./19042-kismet.json) |
+| Kismet | 311394 | [311394-kismet.json](./311394-kismet.json) |
 | Kismet Tapestry | 188931 | [188931-kismet-tapestry.json](./188931-kismet-tapestry.json) |
 | Kisou Jidaigeki Sugoroku: Shinobi No Roku | 377559 | [377559-kisou-jidaigeki-sugoroku-shinobi-no-roku.json](./377559-kisou-jidaigeki-sugoroku-shinobi-no-roku.json) |
 | Kisou Louga | 112577 | [112577-kisou-louga.json](./112577-kisou-louga.json) |
