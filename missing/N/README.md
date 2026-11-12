@@ -8194,6 +8194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nun&Gun | 278386 | [278386-nun-and-gun.json](./278386-nun-and-gun.json) |
 | Nunchuck Charlie: A Love Story | 286611 | [286611-nunchuck-charlie-a-love-story.json](./286611-nunchuck-charlie-a-love-story.json) |
 | Nunholy | 297164 | [297164-nunholy.json](./297164-nunholy.json) |
+| Nunna | 300607 | [300607-nunna.json](./300607-nunna.json) |
 | Nuns With Guns | 115642 | [115642-nuns-with-guns.json](./115642-nuns-with-guns.json) |
 | Nunya | 323414 | [323414-nunya.json](./323414-nunya.json) |
 | NuPa | 106285 | [106285-nupa.json](./106285-nupa.json) |
