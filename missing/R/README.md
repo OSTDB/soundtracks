@@ -2327,7 +2327,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratomon | 151041 | [151041-ratomon.json](./151041-ratomon.json) |
 | Ratpad vs Everglide: Battle of the Pads | 24118 | [24118-ratpad-vs-everglide-battle-of-the-pads.json](./24118-ratpad-vs-everglide-battle-of-the-pads.json) |
 | RatPark | 206355 | [206355-ratpark.json](./206355-ratpark.json) |
-| Ratropolis | 121270 | [121270-ratropolis.json](./121270-ratropolis.json) |
 | Rats - Time is running out! | 35805 | [35805-rats-time-is-running-out.json](./35805-rats-time-is-running-out.json) |
 | Rats for Breakfast | 126999 | [126999-rats-for-breakfast.json](./126999-rats-for-breakfast.json) |
 | Rats in a Cage | 217092 | [217092-rats-in-a-cage.json](./217092-rats-in-a-cage.json) |
