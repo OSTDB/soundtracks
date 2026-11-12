@@ -4368,6 +4368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lettercraft | 56310 | [56310-lettercraft.json](./56310-lettercraft.json) |
 | Lettergreep | 45918 | [45918-lettergreep.json](./45918-lettergreep.json) |
 | LetterGrid | 417516 | [417516-lettergrid.json](./417516-lettergrid.json) |
+| Letterle | 268686 | [268686-letterle.json](./268686-letterle.json) |
 | Letterlike | 335822 | [335822-letterlike.json](./335822-letterlike.json) |
 | LetterMeister | 173802 | [173802-lettermeister.json](./173802-lettermeister.json) |
 | Lettermon | 219916 | [219916-lettermon.json](./219916-lettermon.json) |
@@ -10249,6 +10250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi & Spaghetti | 94408 | [94408-luigi-and-spaghetti.json](./94408-luigi-and-spaghetti.json) |
 | Luigi and the Christmas Quest | 229321 | [229321-luigi-and-the-christmas-quest.json](./229321-luigi-and-the-christmas-quest.json) |
 | Luigi and the Forest Ruins Rebooted: Green Comet | 350869 | [350869-luigi-and-the-forest-ruins-rebooted-green-comet.json](./350869-luigi-and-the-forest-ruins-rebooted-green-comet.json) |
+| Luigi and the Forest Ruins: Rebooted | 268685 | [268685-luigi-and-the-forest-ruins-rebooted.json](./268685-luigi-and-the-forest-ruins-rebooted.json) |
 | Luigi and the Island of Mystery | 273029 | [273029-luigi-and-the-island-of-mystery.json](./273029-luigi-and-the-island-of-mystery.json) |
 | Luigi and the Quest for Nothing | 322004 | [322004-luigi-and-the-quest-for-nothing.json](./322004-luigi-and-the-quest-for-nothing.json) |
 | Luigi and the Quest for Nothing 2 | 265883 | [265883-luigi-and-the-quest-for-nothing-2.json](./265883-luigi-and-the-quest-for-nothing-2.json) |
