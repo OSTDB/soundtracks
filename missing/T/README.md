@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TC!Underfell | 306682 | [306682-tc-underfell.json](./306682-tc-underfell.json) |
 | TC's SC Double Agent | 83867 | [83867-tcs-sc-double-agent.json](./83867-tcs-sc-double-agent.json) |
 | Tcaf: Kate Beaton Dress Up!! | 184001 | [184001-tcaf-kate-beaton-dress-up.json](./184001-tcaf-kate-beaton-dress-up.json) |
+| TCB Museum | 257631 | [257631-tcb-museum.json](./257631-tcb-museum.json) |
 | TCBY: Flying Toppings | 415657 | [415657-tcby-flying-toppings.json](./415657-tcby-flying-toppings.json) |
 | Tcg & Duel | 346375 | [346375-tcg-and-duel.json](./346375-tcg-and-duel.json) |
 | TCG Card Chaos | 415660 | [415660-tcg-card-chaos.json](./415660-tcg-card-chaos.json) |
@@ -20845,6 +20846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theater of Carnage | 157452 | [157452-theater-of-carnage.json](./157452-theater-of-carnage.json) |
 | Theater of Death | 206191 | [206191-theater-of-death.json](./206191-theater-of-death.json) |
 | Theater of the Mind | 366286 | [366286-theater-of-the-mind.json](./366286-theater-of-the-mind.json) |
+| Theater Unrest | 257594 | [257594-theater-unrest.json](./257594-theater-unrest.json) |
 | Theatre Europe | 26302 | [26302-theatre-europe.json](./26302-theatre-europe.json) |
 | Theatre of Death | 15483 | [15483-theatre-of-death.json](./15483-theatre-of-death.json) |
 | Theatre of Doom | 28183 | [28183-theatre-of-doom.json](./28183-theatre-of-doom.json) |
@@ -27231,6 +27233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater | 210451 | [210451-tony-hawks-pro-skater.json](./210451-tony-hawks-pro-skater.json) |
 | Tony Hawk's Pro Skater | 210452 | [210452-tony-hawks-pro-skater.json](./210452-tony-hawks-pro-skater.json) |
 | Tony Hawk's Pro Skater | 6692 | [6692-tony-hawks-pro-skater.json](./6692-tony-hawks-pro-skater.json) |
+| Tony Hawk's Pro Skater 1 | 257595 | [257595-tony-hawks-pro-skater-1.json](./257595-tony-hawks-pro-skater-1.json) |
 | Tony Hawk's Pro Skater 1-4 Deluxe Edition Bundle | 378827 | [378827-tony-hawks-pro-skater-1-4-deluxe-edition-bundle.json](./378827-tony-hawks-pro-skater-1-4-deluxe-edition-bundle.json) |
 | Tony Hawk's Pro Skater 1-4 Standard Edition Bundle | 378826 | [378826-tony-hawks-pro-skater-1-4-standard-edition-bundle.json](./378826-tony-hawks-pro-skater-1-4-standard-edition-bundle.json) |
 | Tony Hawk's Pro Skater 1+2 | 133887 | [133887-tony-hawks-pro-skater-1-2.json](./133887-tony-hawks-pro-skater-1-2.json) |
@@ -27239,6 +27242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 2 | 201756 | [201756-tony-hawks-pro-skater-2.json](./201756-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 2 | 229891 | [229891-tony-hawks-pro-skater-2.json](./229891-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 2 | 229927 | [229927-tony-hawks-pro-skater-2.json](./229927-tony-hawks-pro-skater-2.json) |
+| Tony Hawk's Pro Skater 2 | 257598 | [257598-tony-hawks-pro-skater-2.json](./257598-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 2 | 259743 | [259743-tony-hawks-pro-skater-2.json](./259743-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 2x | 47325 | [47325-tony-hawks-pro-skater-2x.json](./47325-tony-hawks-pro-skater-2x.json) |
 | Tony Hawk's Pro Skater 3 | 194213 | [194213-tony-hawks-pro-skater-3.json](./194213-tony-hawks-pro-skater-3.json) |
@@ -32032,6 +32036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Fall of Cybertron - Ultimate Edition | 99964 | [99964-transformers-fall-of-cybertron-ultimate-edition.json](./99964-transformers-fall-of-cybertron-ultimate-edition.json) |
 | Transformers: Forged to Fight | 27995 | [27995-transformers-forged-to-fight.json](./27995-transformers-forged-to-fight.json) |
 | Transformers: Galactic Trials | 307442 | [307442-transformers-galactic-trials.json](./307442-transformers-galactic-trials.json) |
+| Transformers: Generation 2 | 257609 | [257609-transformers-generation-2.json](./257609-transformers-generation-2.json) |
 | Transformers: Heavy Metal | 193815 | [193815-transformers-heavy-metal.json](./193815-transformers-heavy-metal.json) |
 | Transformers: Human Alliance | 57959 | [57959-transformers-human-alliance.json](./57959-transformers-human-alliance.json) |
 | Transformers: Multi Shock | 320261 | [320261-transformers-multi-shock.json](./320261-transformers-multi-shock.json) |
@@ -32564,6 +32569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Below | 282745 | [282745-treasure-below.json](./282745-treasure-below.json) |
 | Treasure Blast Quest | 398030 | [398030-treasure-blast-quest.json](./398030-treasure-blast-quest.json) |
 | Treasure Bolt | 81213 | [81213-treasure-bolt.json](./81213-treasure-bolt.json) |
+| Treasure Box | 257630 | [257630-treasure-box.json](./257630-treasure-box.json) |
 | Treasure Buster | 230217 | [230217-treasure-buster.json](./230217-treasure-buster.json) |
 | Treasure Cave | 176399 | [176399-treasure-cave.json](./176399-treasure-cave.json) |
 | Treasure Chamber! Idle Mining Adventure | 101870 | [101870-treasure-chamber-idle-mining-adventure.json](./101870-treasure-chamber-idle-mining-adventure.json) |
@@ -33725,6 +33731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trollface Quest 13 | 257816 | [257816-trollface-quest-13.json](./257816-trollface-quest-13.json) |
 | Trollface Quest 2 | 257507 | [257507-trollface-quest-2.json](./257507-trollface-quest-2.json) |
 | Trollface Quest 3 | 257579 | [257579-trollface-quest-3.json](./257579-trollface-quest-3.json) |
+| Trollface Quest 4 | 257585 | [257585-trollface-quest-4.json](./257585-trollface-quest-4.json) |
 | Trollface Quest 5 | 257771 | [257771-trollface-quest-5.json](./257771-trollface-quest-5.json) |
 | TrollFace Quest: Horror 3 | 101907 | [101907-trollface-quest-horror-3.json](./101907-trollface-quest-horror-3.json) |
 | Trollface Quest: Internet Memes | 257812 | [257812-trollface-quest-internet-memes.json](./257812-trollface-quest-internet-memes.json) |
@@ -35397,6 +35404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Night | 177800 | [177800-tv-night.json](./177800-tv-night.json) |
 | TV no Himitsu: Gyoukai Aruaru wo Sagase! | 251627 | [251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json](./251627-tv-no-himitsu-gyoukai-aruaru-wo-sagase.json) |
 | TV Pinball | 171267 | [171267-tv-pinball.json](./171267-tv-pinball.json) |
+| TV Pingame | 257603 | [257603-tv-pingame.json](./257603-tv-pingame.json) |
 | TV School House I | 93916 | [93916-tv-school-house-i.json](./93916-tv-school-house-i.json) |
 | TV School House II: Math Fun | 94125 | [94125-tv-school-house-ii-math-fun.json](./94125-tv-school-house-ii-math-fun.json) |
 | TV Show King | 21825 | [21825-tv-show-king.json](./21825-tv-show-king.json) |
