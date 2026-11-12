@@ -2637,6 +2637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GearHead Caramel | 176061 | [176061-gearhead-caramel.json](./176061-gearhead-caramel.json) |
 | Gearhead Garage | 73965 | [73965-gearhead-garage.json](./73965-gearhead-garage.json) |
 | Gearhead Karting | 252019 | [252019-gearhead-karting.json](./252019-gearhead-karting.json) |
+| Gearhead Karting: Mechanic & Racing | 272432 | [272432-gearhead-karting-mechanic-and-racing.json](./272432-gearhead-karting-mechanic-and-racing.json) |
 | GearHead: Arena | 181230 | [181230-gearhead-arena.json](./181230-gearhead-arena.json) |
 | Gearheads | 92925 | [92925-gearheads.json](./92925-gearheads.json) |
 | Gearlock: Episode 1 | 381719 | [381719-gearlock-episode-1.json](./381719-gearlock-episode-1.json) |
