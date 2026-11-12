@@ -1144,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galileo | 125676 | [125676-galileo.json](./125676-galileo.json) |
 | Galileo Mystery: The Crown of Midas | 268118 | [268118-galileo-mystery-the-crown-of-midas.json](./268118-galileo-mystery-the-crown-of-midas.json) |
 | Galimulator | 89971 | [89971-galimulator.json](./89971-galimulator.json) |
+| Galine | 275193 | [275193-galine.json](./275193-galine.json) |
 | Galivan - Cosmo Police | 40020 | [40020-galivan-cosmo-police.json](./40020-galivan-cosmo-police.json) |
 | Galix: NewHorizons | 304695 | [304695-galix-newhorizons.json](./304695-galix-newhorizons.json) |
 | Gall Force - Eternal Story | 230225 | [230225-gall-force-eternal-story.json](./230225-gall-force-eternal-story.json) |
@@ -10776,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grundschule Mathematik | 91622 | [91622-grundschule-mathematik.json](./91622-grundschule-mathematik.json) |
 | Grundschule Sachkunde | 91620 | [91620-grundschule-sachkunde.json](./91620-grundschule-sachkunde.json) |
 | Grunenberg | 265359 | [265359-grunenberg.json](./265359-grunenberg.json) |
+| Grungy Grotto | 275189 | [275189-grungy-grotto.json](./275189-grungy-grotto.json) |
 | Gruniożerca | 195503 | [195503-gruniozerca.json](./195503-gruniozerca.json) |
 | Gruniożerca 2 | 195505 | [195505-gruniozerca-2.json](./195505-gruniozerca-2.json) |
 | Gruniożerca 3: The Great Cavy Clean-Up | 308402 | [308402-gruniozerca-3-the-great-cavy-clean-up.json](./308402-gruniozerca-3-the-great-cavy-clean-up.json) |
