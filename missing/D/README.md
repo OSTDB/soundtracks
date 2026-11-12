@@ -8208,6 +8208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of Ancient Kingdoms | 32154 | [32154-destiny-of-ancient-kingdoms.json](./32154-destiny-of-ancient-kingdoms.json) |
 | Destiny of Blood | 55355 | [55355-destiny-of-blood.json](./55355-destiny-of-blood.json) |
 | Destiny of Heroes | 303008 | [303008-destiny-of-heroes.json](./303008-destiny-of-heroes.json) |
+| Destiny of Immortal | 264922 | [264922-destiny-of-immortal.json](./264922-destiny-of-immortal.json) |
 | Destiny of Light | 88091 | [88091-destiny-of-light.json](./88091-destiny-of-light.json) |
 | Destiny of Spirits | 42682 | [42682-destiny-of-spirits.json](./42682-destiny-of-spirits.json) |
 | Destiny of the World | 143981 | [143981-destiny-of-the-world.json](./143981-destiny-of-the-world.json) |
