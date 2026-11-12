@@ -8268,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Existentia | 31805 | [31805-existentia.json](./31805-existentia.json) |
 | Existential | 193503 | [193503-existential.json](./193503-existential.json) |
 | Existential Dilogy | 199819 | [199819-existential-dilogy.json](./199819-existential-dilogy.json) |
+| Existential Dread | 265996 | [265996-existential-dread.json](./265996-existential-dread.json) |
 | Exit | 21938 | [21938-exit.json](./21938-exit.json) |
 | Exit 13 Gallery Escape | 291243 | [291243-exit-13-gallery-escape.json](./291243-exit-13-gallery-escape.json) |
 | Exit 19 | 184602 | [184602-exit-19.json](./184602-exit-19.json) |
@@ -8615,6 +8616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experience the Energy: Take the Challenge | 169535 | [169535-experience-the-energy-take-the-challenge.json](./169535-experience-the-energy-take-the-challenge.json) |
 | Experience: Colorblindness | 112363 | [112363-experience-colorblindness.json](./112363-experience-colorblindness.json) |
 | Experiment | 247279 | [247279-experiment.json](./247279-experiment.json) |
+| Experiment | 265909 | [265909-experiment.json](./265909-experiment.json) |
 | Experiment | 357738 | [357738-experiment.json](./357738-experiment.json) |
 | Experiment 12 | 128826 | [128826-experiment-12.json](./128826-experiment-12.json) |
 | Experiment 28 | 344789 | [344789-experiment-28.json](./344789-experiment-28.json) |
