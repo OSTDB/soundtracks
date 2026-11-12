@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty 4: Survival Mode | 299136 | [299136-call-of-duty-4-survival-mode.json](./299136-call-of-duty-4-survival-mode.json) |
 | Call of Duty Classic | 43029 | [43029-call-of-duty-classic.json](./43029-call-of-duty-classic.json) |
 | Call of Duty Endowment (C.O.D.E.) Knight Recon: Tracer Pack | 310052 | [310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json](./310052-call-of-duty-endowment-c-o-d-e-knight-recon-tracer-pack.json) |
+| Call of Duty Endowment: Direct Action Pack | 289499 | [289499-call-of-duty-endowment-direct-action-pack.json](./289499-call-of-duty-endowment-direct-action-pack.json) |
 | Call of Duty Frontlines | 372401 | [372401-call-of-duty-frontlines.json](./372401-call-of-duty-frontlines.json) |
 | Call of Duty Ghosts: Festive Pack | 305608 | [305608-call-of-duty-ghosts-festive-pack.json](./305608-call-of-duty-ghosts-festive-pack.json) |
 | Call of Duty Tactics | 276488 | [276488-call-of-duty-tactics.json](./276488-call-of-duty-tactics.json) |
@@ -6531,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Caster | 314990 | [314990-chaos-caster.json](./314990-chaos-caster.json) |
 | Chaos Caves | 113680 | [113680-chaos-caves.json](./113680-chaos-caves.json) |
 | Chaos Chain | 188726 | [188726-chaos-chain.json](./188726-chaos-chain.json) |
+| Chaos Chain: Supporter Cosmetic Pack 2 | 289504 | [289504-chaos-chain-supporter-cosmetic-pack-2.json](./289504-chaos-chain-supporter-cosmetic-pack-2.json) |
 | Chaos Chain: Supporter Cosmetic Pack 3 | 302592 | [302592-chaos-chain-supporter-cosmetic-pack-3.json](./302592-chaos-chain-supporter-cosmetic-pack-3.json) |
 | Chaos Chronicle | 57893 | [57893-chaos-chronicle.json](./57893-chaos-chronicle.json) |
 | Chaos Chronicles | 63923 | [63923-chaos-chronicles.json](./63923-chaos-chronicles.json) |
@@ -7384,6 +7386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Exerciser | 273804 | [273804-chess-exerciser.json](./273804-chess-exerciser.json) |
 | Chess Folk | 420519 | [420519-chess-folk.json](./420519-chess-folk.json) |
 | Chess for Idiots | 275246 | [275246-chess-for-idiots.json](./275246-chess-for-idiots.json) |
+| Chess for Idiots: Premium | 289525 | [289525-chess-for-idiots-premium.json](./289525-chess-for-idiots-premium.json) |
 | Chess for Kids: Play & Learn | 90183 | [90183-chess-for-kids-play-and-learn.json](./90183-chess-for-kids-play-and-learn.json) |
 | Chess for Mac | 131488 | [131488-chess-for-mac.json](./131488-chess-for-mac.json) |
 | Chess For Playdate | 275684 | [275684-chess-for-playdate.json](./275684-chess-for-playdate.json) |
@@ -14034,6 +14037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Operations Live - Korean Missile Crisis | 167882 | [167882-command-modern-operations-live-korean-missile-crisis.json](./167882-command-modern-operations-live-korean-missile-crisis.json) |
 | Command: Modern Operations Live - Kuril Sunrise | 167867 | [167867-command-modern-operations-live-kuril-sunrise.json](./167867-command-modern-operations-live-kuril-sunrise.json) |
 | Command: Modern Operations Live - The King of the Border | 167868 | [167868-command-modern-operations-live-the-king-of-the-border.json](./167868-command-modern-operations-live-the-king-of-the-border.json) |
+| Command: Showcase - Icebreakers | 289514 | [289514-command-showcase-icebreakers.json](./289514-command-showcase-icebreakers.json) |
 | Command: Showcase - Operation Desert Falcon | 266793 | [266793-command-showcase-operation-desert-falcon.json](./266793-command-showcase-operation-desert-falcon.json) |
 | Command? Dungeon World: Twine Version | 184423 | [184423-command-dungeon-world-twine-version.json](./184423-command-dungeon-world-twine-version.json) |
 | Commandeer | 292507 | [292507-commandeer.json](./292507-commandeer.json) |
