@@ -4879,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insert Item Apocalypse | 304577 | [304577-insert-item-apocalypse.json](./304577-insert-item-apocalypse.json) |
 | Insert Paper | 52052 | [52052-insert-paper.json](./52052-insert-paper.json) |
 | Insert Rich Family Name | 247601 | [247601-insert-rich-family-name.json](./247601-insert-rich-family-name.json) |
+| Insert Three Coins | 293264 | [293264-insert-three-coins.json](./293264-insert-three-coins.json) |
 | Insert Title Here | 251382 | [251382-insert-title-here.json](./251382-insert-title-here.json) |
 | Insertion | 274187 | [274187-insertion.json](./274187-insertion.json) |
 | Insetolimpíadas: A Olimpíada dos Insetos | 354124 | [354124-insetolimpiadas-a-olimpiada-dos-insetos.json](./354124-insetolimpiadas-a-olimpiada-dos-insetos.json) |
