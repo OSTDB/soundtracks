@@ -12024,6 +12024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Interpretation of Dreams | 358632 | [358632-the-interpretation-of-dreams.json](./358632-the-interpretation-of-dreams.json) |
 | The Interstate '76 Arsenal | 74075 | [74075-the-interstate-76-arsenal.json](./74075-the-interstate-76-arsenal.json) |
 | The Intertwined Imprints | 293697 | [293697-the-intertwined-imprints.json](./293697-the-intertwined-imprints.json) |
+| The Interval | 272439 | [272439-the-interval.json](./272439-the-interval.json) |
 | The Interval Bureau: Extension 0 | 379028 | [379028-the-interval-bureau-extension-0.json](./379028-the-interval-bureau-extension-0.json) |
 | The Interview | 183901 | [183901-the-interview.json](./183901-the-interview.json) |
 | The Interview | 231803 | [231803-the-interview.json](./231803-the-interview.json) |
@@ -32727,6 +32728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trench Foot | 148157 | [148157-trench-foot.json](./148157-trench-foot.json) |
 | Trench Foot | 271577 | [271577-trench-foot.json](./271577-trench-foot.json) |
 | Trench Lord: Eastern Front | 369049 | [369049-trench-lord-eastern-front.json](./369049-trench-lord-eastern-front.json) |
+| Trench Punk | 272440 | [272440-trench-punk.json](./272440-trench-punk.json) |
 | Trench Rats: The First March | 360147 | [360147-trench-rats-the-first-march.json](./360147-trench-rats-the-first-march.json) |
 | Trench Run | 30370 | [30370-trench-run.json](./30370-trench-run.json) |
 | Trench Run VR | 86422 | [86422-trench-run-vr.json](./86422-trench-run-vr.json) |
