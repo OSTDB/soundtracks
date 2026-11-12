@@ -1273,6 +1273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katana Action | 57132 | [57132-katana-action.json](./57132-katana-action.json) |
 | Katana Arena | 219872 | [219872-katana-arena.json](./219872-katana-arena.json) |
 | Katana Dragon | 326631 | [326631-katana-dragon.json](./326631-katana-dragon.json) |
+| Katana Dynasty | 292180 | [292180-katana-dynasty.json](./292180-katana-dynasty.json) |
 | Katana Hime | 375486 | [375486-katana-hime.json](./375486-katana-hime.json) |
 | Katana Infinity | 246167 | [246167-katana-infinity.json](./246167-katana-infinity.json) |
 | Katana Kami: A Way of the Samurai Story | 125296 | [125296-katana-kami-a-way-of-the-samurai-story.json](./125296-katana-kami-a-way-of-the-samurai-story.json) |
@@ -3019,7 +3020,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4872,6 +4872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight's Try | 188435 | [188435-knights-try.json](./188435-knights-try.json) |
 | Knight´s Quest | 379182 | [379182-knight-s-quest.json](./379182-knight-s-quest.json) |
 | Knightblade | 194900 | [194900-knightblade.json](./194900-knightblade.json) |
+| Knightborn | 292176 | [292176-knightborn.json](./292176-knightborn.json) |
 | Knightcore | 398647 | [398647-knightcore.json](./398647-knightcore.json) |
 | Knightcore Kingdom | 227514 | [227514-knightcore-kingdom.json](./227514-knightcore-kingdom.json) |
 | Knightcore Universal | 188257 | [188257-knightcore-universal.json](./188257-knightcore-universal.json) |
