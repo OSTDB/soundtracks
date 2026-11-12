@@ -11388,6 +11388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolo to the Rescue | 46200 | [46200-rolo-to-the-rescue.json](./46200-rolo-to-the-rescue.json) |
 | Rolus in the Outskirts | 278023 | [278023-rolus-in-the-outskirts.json](./278023-rolus-in-the-outskirts.json) |
 | Roly Poly | 196669 | [196669-roly-poly.json](./196669-roly-poly.json) |
+| Roly Poly | 259779 | [259779-roly-poly.json](./259779-roly-poly.json) |
 | Roly Poly Putt | 251663 | [251663-roly-poly-putt.json](./251663-roly-poly-putt.json) |
 | Roly Poly Roundup | 396415 | [396415-roly-poly-roundup.json](./396415-roly-poly-roundup.json) |
 | Roly-Polo | 158575 | [158575-roly-polo.json](./158575-roly-polo.json) |
