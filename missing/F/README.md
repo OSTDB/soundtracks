@@ -194,6 +194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 22: Champions Content Bundle | 226843 | [226843-f1-22-champions-content-bundle.json](./226843-f1-22-champions-content-bundle.json) |
 | F1 22: Champions Edition | 198261 | [198261-f1-22-champions-edition.json](./198261-f1-22-champions-edition.json) |
 | F1 23: Champions Edition | 248192 | [248192-f1-23-champions-edition.json](./248192-f1-23-champions-edition.json) |
+| F1 23: Champions Upgrade | 257028 | [257028-f1-23-champions-upgrade.json](./257028-f1-23-champions-upgrade.json) |
 | F1 24 | 287578 | [287578-f1-24.json](./287578-f1-24.json) |
 | F1 24: Champion Edition | 288653 | [288653-f1-24-champion-edition.json](./288653-f1-24-champion-edition.json) |
 | F1 25 | 336964 | [336964-f1-25.json](./336964-f1-25.json) |
@@ -2913,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 22: Fendt 900 Black Beauty | 206530 | [206530-farming-simulator-22-fendt-900-black-beauty.json](./206530-farming-simulator-22-fendt-900-black-beauty.json) |
 | Farming Simulator 22: Göweil Pack | 239013 | [239013-farming-simulator-22-goweil-pack.json](./239013-farming-simulator-22-goweil-pack.json) |
 | Farming Simulator 22: Hay & Forage Pack | 251297 | [251297-farming-simulator-22-hay-and-forage-pack.json](./251297-farming-simulator-22-hay-and-forage-pack.json) |
+| Farming Simulator 22: Horsch Agrovation Pack | 257025 | [257025-farming-simulator-22-horsch-agrovation-pack.json](./257025-farming-simulator-22-horsch-agrovation-pack.json) |
 | Farming Simulator 22: Kubota Pack | 202439 | [202439-farming-simulator-22-kubota-pack.json](./202439-farming-simulator-22-kubota-pack.json) |
 | Farming Simulator 22: Mack Trucks - Black Anthem | 206531 | [206531-farming-simulator-22-mack-trucks-black-anthem.json](./206531-farming-simulator-22-mack-trucks-black-anthem.json) |
 | Farming Simulator 22: OXBO Pack | 265460 | [265460-farming-simulator-22-oxbo-pack.json](./265460-farming-simulator-22-oxbo-pack.json) |
@@ -4561,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Screams | 375279 | [375279-field-of-screams.json](./375279-field-of-screams.json) |
 | Field of the Dead | 309370 | [309370-field-of-the-dead.json](./309370-field-of-the-dead.json) |
 | Field of Vision | 290212 | [290212-field-of-vision.json](./290212-field-of-vision.json) |
+| Field Peas: Sayaendou | 257024 | [257024-field-peas-sayaendou.json](./257024-field-peas-sayaendou.json) |
 | Field Pong: Gamesforfarm | 388968 | [388968-field-pong-gamesforfarm.json](./388968-field-pong-gamesforfarm.json) |
 | Field Survivor | 159761 | [159761-field-survivor.json](./159761-field-survivor.json) |
 | Fieldrunners | 9839 | [9839-fieldrunners.json](./9839-fieldrunners.json) |
