@@ -5242,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic traveler: The Omega Sector | 76445 | [76445-intergalactic-traveler-the-omega-sector.json](./76445-intergalactic-traveler-the-omega-sector.json) |
 | Intergalactic Zoo | 102278 | [102278-intergalactic-zoo.json](./102278-intergalactic-zoo.json) |
 | Intergalactic: The Heretic Prophet | 325611 | [325611-intergalactic-the-heretic-prophet.json](./325611-intergalactic-the-heretic-prophet.json) |
+| Intergalacticorp. | 311914 | [311914-intergalacticorp.json](./311914-intergalacticorp.json) |
 | Intergalacto-1 | 304369 | [304369-intergalacto-1.json](./304369-intergalacto-1.json) |
 | Interim | 392289 | [392289-interim.json](./392289-interim.json) |
 | Interim Apex | 381263 | [381263-interim-apex.json](./381263-interim-apex.json) |
