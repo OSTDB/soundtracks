@@ -675,11 +675,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamb Fountain and Dungeon | 208086 | [208086-lamb-fountain-and-dungeon.json](./208086-lamb-fountain-and-dungeon.json) |
 | Lamb to the Slaughter | 323553 | [323553-lamb-to-the-slaughter.json](./323553-lamb-to-the-slaughter.json) |
 | Lambchop Loves Music | 209818 | [209818-lambchop-loves-music.json](./209818-lambchop-loves-music.json) |
+| Lambda | 251249 | [251249-lambda.json](./251249-lambda.json) |
 | Lambda end Theory | 193591 | [193591-lambda-end-theory.json](./193591-lambda-end-theory.json) |
 | Lambda Fortress | 345541 | [345541-lambda-fortress.json](./345541-lambda-fortress.json) |
 | Lambda Neros R | 412767 | [412767-lambda-neros-r.json](./412767-lambda-neros-r.json) |
 | Lambda Spellcrafting Academy | 243541 | [243541-lambda-spellcrafting-academy.json](./243541-lambda-spellcrafting-academy.json) |
 | Lambda Wars | 60785 | [60785-lambda-wars.json](./60785-lambda-wars.json) |
+| Lambda-Strike | 251250 | [251250-lambda-strike.json](./251250-lambda-strike.json) |
 | Lambdarune | 351685 | [351685-lambdarune.json](./351685-lambdarune.json) |
 | Lambo Jump | 234711 | [234711-lambo-jump.json](./234711-lambo-jump.json) |
 | Lambo Speed: Drift X | 104515 | [104515-lambo-speed-drift-x.json](./104515-lambo-speed-drift-x.json) |
@@ -5978,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Link's Awakening DX HD | 280019 | [280019-links-awakening-dx-hd.json](./280019-links-awakening-dx-hd.json) |
 | Link's Crossbow Training | 4973 | [4973-links-crossbow-training.json](./4973-links-crossbow-training.json) |
 | Link's Quest for the Hookshot 2: Quest | 406464 | [406464-links-quest-for-the-hookshot-2-quest.json](./406464-links-quest-for-the-hookshot-2-quest.json) |
+| Linkage | 251273 | [251273-linkage.json](./251273-linkage.json) |
 | Linked | 29395 | [29395-linked.json](./29395-linked.json) |
 | Linked | 322034 | [322034-linked.json](./322034-linked.json) |
 | Linked Mask | 120386 | [120386-linked-mask.json](./120386-linked-mask.json) |
