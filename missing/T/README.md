@@ -6228,9 +6228,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazing Spider-Man and Captain America in Dr. Doom's Revenge! | 11895 | [11895-the-amazing-spider-man-and-captain-america-in-dr-dooms-revenge.json](./11895-the-amazing-spider-man-and-captain-america-in-dr-dooms-revenge.json) |
 | The Amazing Spider-Man Franchise Pack | 99796 | [99796-the-amazing-spider-man-franchise-pack.json](./99796-the-amazing-spider-man-franchise-pack.json) |
 | The Amazing Spider-Man in the Villain Round-Up | 220113 | [220113-the-amazing-spider-man-in-the-villain-round-up.json](./220113-the-amazing-spider-man-in-the-villain-round-up.json) |
+| The Amazing Spider-Man Rescue | 245588 | [245588-the-amazing-spider-man-rescue.json](./245588-the-amazing-spider-man-rescue.json) |
 | The Amazing Spider-Man: Countdown to Doom | 230280 | [230280-the-amazing-spider-man-countdown-to-doom.json](./230280-the-amazing-spider-man-countdown-to-doom.json) |
 | The Amazing Spider-Man: Creative Studio | 208783 | [208783-the-amazing-spider-man-creative-studio.json](./208783-the-amazing-spider-man-creative-studio.json) |
+| The Amazing Spider-Man: Dodge Doc Ock | 245589 | [245589-the-amazing-spider-man-dodge-doc-ock.json](./245589-the-amazing-spider-man-dodge-doc-ock.json) |
 | The Amazing Spider-Man: Lethal Foes | 42403 | [42403-the-amazing-spider-man-lethal-foes.json](./42403-the-amazing-spider-man-lethal-foes.json) |
+| The Amazing Spider-Man: Skyscraper Scaler | 245590 | [245590-the-amazing-spider-man-skyscraper-scaler.json](./245590-the-amazing-spider-man-skyscraper-scaler.json) |
 | The Amazing Spider-Man: Ultimate Edition | 23514 | [23514-the-amazing-spider-man-ultimate-edition.json](./23514-the-amazing-spider-man-ultimate-edition.json) |
 | The Amazing Spider-Man: Web of Fire | 45882 | [45882-the-amazing-spider-man-web-of-fire.json](./45882-the-amazing-spider-man-web-of-fire.json) |
 | The Amazing Spider-Man: Webslinger | 224884 | [224884-the-amazing-spider-man-webslinger.json](./224884-the-amazing-spider-man-webslinger.json) |
@@ -6762,6 +6765,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bathhouse Restored Edition | 304047 | [304047-the-bathhouse-restored-edition.json](./304047-the-bathhouse-restored-edition.json) |
 | The Bathrooms | 288819 | [288819-the-bathrooms.json](./288819-the-bathrooms.json) |
 | The Batman | 84447 | [84447-the-batman.json](./84447-the-batman.json) |
+| The Batman: Batarang Battle | 245591 | [245591-the-batman-batarang-battle.json](./245591-the-batman-batarang-battle.json) |
+| The Batman: Bring on the Batman | 245592 | [245592-the-batman-bring-on-the-batman.json](./245592-the-batman-bring-on-the-batman.json) |
 | The Batman: Gotham City Rescue | 70694 | [70694-the-batman-gotham-city-rescue.json](./70694-the-batman-gotham-city-rescue.json) |
 | The Batman: Multiply, Divide and Conquer | 230421 | [230421-the-batman-multiply-divide-and-conquer.json](./230421-the-batman-multiply-divide-and-conquer.json) |
 | The Batman: Strength in Numbers | 69064 | [69064-the-batman-strength-in-numbers.json](./69064-the-batman-strength-in-numbers.json) |
@@ -8594,6 +8599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark is a Soft, Warm Pressure | 276921 | [276921-the-dark-is-a-soft-warm-pressure.json](./276921-the-dark-is-a-soft-warm-pressure.json) |
 | The Dark Journey | 192803 | [192803-the-dark-journey.json](./192803-the-dark-journey.json) |
 | The Dark Kingdom | 356670 | [356670-the-dark-kingdom.json](./356670-the-dark-kingdom.json) |
+| The Dark Knight | 245593 | [245593-the-dark-knight.json](./245593-the-dark-knight.json) |
 | The Dark Knight Rises | 64769 | [64769-the-dark-knight-rises.json](./64769-the-dark-knight-rises.json) |
 | The Dark Knight Rises: The Mobile Game | 343944 | [343944-the-dark-knight-rises-the-mobile-game.json](./343944-the-dark-knight-rises-the-mobile-game.json) |
 | The Dark Legacy | 347079 | [347079-the-dark-legacy.json](./347079-the-dark-legacy.json) |
@@ -10626,6 +10632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game is ON | 142694 | [142694-the-game-is-on.json](./142694-the-game-is-on.json) |
 | The Game is ON | 147584 | [147584-the-game-is-on.json](./147584-the-game-is-on.json) |
 | The Game is ON | 153026 | [153026-the-game-is-on.json](./153026-the-game-is-on.json) |
+| The Game Machine | 245594 | [245594-the-game-machine.json](./245594-the-game-machine.json) |
 | The Game Maker | 281445 | [281445-the-game-maker.json](./281445-the-game-maker.json) |
 | The Game Maker | 64485 | [64485-the-game-maker.json](./64485-the-game-maker.json) |
 | The Game of Annie | 246003 | [246003-the-game-of-annie.json](./246003-the-game-of-annie.json) |
@@ -11986,6 +11993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Hulk | 225619 | [225619-the-incredible-hulk.json](./225619-the-incredible-hulk.json) |
 | The Incredible Hulk | 368893 | [368893-the-incredible-hulk.json](./368893-the-incredible-hulk.json) |
 | The Incredible Hulk | 4928 | [4928-the-incredible-hulk.json](./4928-the-incredible-hulk.json) |
+| The Incredible Hulk Escapes | 245595 | [245595-the-incredible-hulk-escapes.json](./245595-the-incredible-hulk-escapes.json) |
 | The Incredible Hulk: The Pantheon Saga | 45512 | [45512-the-incredible-hulk-the-pantheon-saga.json](./45512-the-incredible-hulk-the-pantheon-saga.json) |
 | The Incredible Hulk: Ultimate Destruction | 3954 | [3954-the-incredible-hulk-ultimate-destruction.json](./3954-the-incredible-hulk-ultimate-destruction.json) |
 | The Incredible Machine | 4243 | [4243-the-incredible-machine.json](./4243-the-incredible-machine.json) |
@@ -15673,6 +15681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oregon Trail | 11325 | [11325-the-oregon-trail.json](./11325-the-oregon-trail.json) |
 | The Oregon Trail | 191526 | [191526-the-oregon-trail.json](./191526-the-oregon-trail.json) |
 | The Oregon Trail | 213730 | [213730-the-oregon-trail.json](./213730-the-oregon-trail.json) |
+| The Oregon Trail | 245596 | [245596-the-oregon-trail.json](./245596-the-oregon-trail.json) |
 | The Oregon Trail | 256938 | [256938-the-oregon-trail.json](./256938-the-oregon-trail.json) |
 | The Oregon Trail | 78864 | [78864-the-oregon-trail.json](./78864-the-oregon-trail.json) |
 | The Oregon Trail Deluxe | 83359 | [83359-the-oregon-trail-deluxe.json](./83359-the-oregon-trail-deluxe.json) |
@@ -20710,6 +20719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World Next Door: Deluxe Edition | 124800 | [124800-the-world-next-door-deluxe-edition.json](./124800-the-world-next-door-deluxe-edition.json) |
 | The World of a Mermaid | 201354 | [201354-the-world-of-a-mermaid.json](./201354-the-world-of-a-mermaid.json) |
 | The World of Animals | 293980 | [293980-the-world-of-animals.json](./293980-the-world-of-animals.json) |
+| The World of Cars | 245505 | [245505-the-world-of-cars.json](./245505-the-world-of-cars.json) |
 | The World of Cars Online | 70989 | [70989-the-world-of-cars-online.json](./70989-the-world-of-cars-online.json) |
 | The World of Decadence | 53791 | [53791-the-world-of-decadence.json](./53791-the-world-of-decadence.json) |
 | The World of Dokkaebi | 423907 | [423907-the-world-of-dokkaebi.json](./423907-the-world-of-dokkaebi.json) |
