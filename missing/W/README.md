@@ -1274,6 +1274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warbringers of Angrul | 278246 | [278246-warbringers-of-angrul.json](./278246-warbringers-of-angrul.json) |
 | WarBrokers.io | 108120 | [108120-warbrokers-io.json](./108120-warbrokers-io.json) |
 | Warbrush | 125661 | [125661-warbrush.json](./125661-warbrush.json) |
+| Warbyte: Operation Falcon | 261570 | [261570-warbyte-operation-falcon.json](./261570-warbyte-operation-falcon.json) |
 | Warcamp Rivals | 427845 | [427845-warcamp-rivals.json](./427845-warcamp-rivals.json) |
 | Warcana | 265477 | [265477-warcana.json](./265477-warcana.json) |
 | Warcana: Cat DLC | 357371 | [357371-warcana-cat-dlc.json](./357371-warcana-cat-dlc.json) |
@@ -1479,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarGames | 205922 | [205922-wargames.json](./205922-wargames.json) |
 | WarGames | 23935 | [23935-wargames.json](./23935-wargames.json) |
 | WarGames: Defcon 1 | 45028 | [45028-wargames-defcon-1.json](./45028-wargames-defcon-1.json) |
+| Warglaive | 262012 | [262012-warglaive.json](./262012-warglaive.json) |
 | Wargle | 291151 | [291151-wargle.json](./291151-wargle.json) |
 | Wargods Online 2 | 134318 | [134318-wargods-online-2.json](./134318-wargods-online-2.json) |
 | Wargroove + Wargroove 2 Bundle | 273304 | [273304-wargroove-wargroove-2-bundle.json](./273304-wargroove-wargroove-2-bundle.json) |
@@ -3690,6 +3692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Well to Hell | 319214 | [319214-well-to-hell.json](./319214-well-to-hell.json) |
 | Well-Beings: Wellness for Kids | 192083 | [192083-well-beings-wellness-for-kids.json](./192083-well-beings-wellness-for-kids.json) |
 | Well, Fuck You Too | 352755 | [352755-well-fuck-you-too.json](./352755-well-fuck-you-too.json) |
+| Well, me neither | 261492 | [261492-well-me-neither.json](./261492-well-me-neither.json) |
 | Well... | 240082 | [240082-well.json](./240082-well.json) |
 | Wellington's Peninsular Campaign | 144828 | [144828-wellingtons-peninsular-campaign.json](./144828-wellingtons-peninsular-campaign.json) |
 | Wellington's Victory | 106728 | [106728-wellingtons-victory.json](./106728-wellingtons-victory.json) |
@@ -6197,6 +6200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windy x Windam | 94899 | [94899-windy-x-windam.json](./94899-windy-x-windam.json) |
 | Windy Zetsumetsu Keikaku | 412337 | [412337-windy-zetsumetsu-keikaku.json](./412337-windy-zetsumetsu-keikaku.json) |
 | Wine & Roses | 124456 | [124456-wine-and-roses.json](./124456-wine-and-roses.json) |
+| Wine and Spirits | 261569 | [261569-wine-and-spirits.json](./261569-wine-and-spirits.json) |
 | Wine Factory Simulator | 332485 | [332485-wine-factory-simulator.json](./332485-wine-factory-simulator.json) |
 | Wine Pong | 397155 | [397155-wine-pong.json](./397155-wine-pong.json) |
 | Wine Tycoon | 201074 | [201074-wine-tycoon.json](./201074-wine-tycoon.json) |
@@ -7069,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With My Buddy | 339826 | [339826-with-my-buddy.json](./339826-with-my-buddy.json) |
 | With My Cat | 233911 | [233911-with-my-cat.json](./233911-with-my-cat.json) |
 | With My Little Eye | 362482 | [362482-with-my-little-eye.json](./362482-with-my-little-eye.json) |
+| With My Past | 261564 | [261564-with-my-past.json](./261564-with-my-past.json) |
 | With Ribbon | 418074 | [418074-with-ribbon.json](./418074-with-ribbon.json) |
 | With Seven Cats | 184118 | [184118-with-seven-cats.json](./184118-with-seven-cats.json) |
 | With Shining Eyes | 278957 | [278957-with-shining-eyes.json](./278957-with-shining-eyes.json) |
