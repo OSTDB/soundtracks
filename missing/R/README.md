@@ -6247,6 +6247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Dream | 387126 | [387126-restaurant-dream.json](./387126-restaurant-dream.json) |
 | Restaurant Empire | 10766 | [10766-restaurant-empire.json](./10766-restaurant-empire.json) |
 | Restaurant Empire II | 16015 | [16015-restaurant-empire-ii.json](./16015-restaurant-empire-ii.json) |
+| Restaurant Health Inspection Simulator: Sanitary Service | 293369 | [293369-restaurant-health-inspection-simulator-sanitary-service.json](./293369-restaurant-health-inspection-simulator-sanitary-service.json) |
 | Restaurant Island: The Fun Family Game! Manage your staff & expand your gourmet paradise! | 88206 | [88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json](./88206-restaurant-island-the-fun-family-game-manage-your-staff-and-expand-your-gourmet-paradise.json) |
 | Restaurant King | 253765 | [253765-restaurant-king.json](./253765-restaurant-king.json) |
 | Restaurant Manager | 96321 | [96321-restaurant-manager.json](./96321-restaurant-manager.json) |
@@ -7187,6 +7188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolve8 | 113553 | [113553-revolve8.json](./113553-revolve8.json) |
 | Revolve8: Episodic Dueling | 110868 | [110868-revolve8-episodic-dueling.json](./110868-revolve8-episodic-dueling.json) |
 | Revolved | 425389 | [425389-revolved.json](./425389-revolved.json) |
+| Revolver | 293304 | [293304-revolver.json](./293304-revolver.json) |
 | Revolver | 336748 | [336748-revolver.json](./336748-revolver.json) |
 | Revolver and Co | 152759 | [152759-revolver-and-co.json](./152759-revolver-and-co.json) |
 | Revolver Gambit | 364986 | [364986-revolver-gambit.json](./364986-revolver-gambit.json) |
@@ -9690,6 +9692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Ron | 266648 | [266648-robot-ron.json](./266648-robot-ron.json) |
 | Robot Rubble | 41479 | [41479-robot-rubble.json](./41479-robot-rubble.json) |
 | Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
+| Robot Rumpus | 293305 | [293305-robot-rumpus.json](./293305-robot-rumpus.json) |
 | Robot Rumpus Royale | 230174 | [230174-robot-rumpus-royale.json](./230174-robot-rumpus-royale.json) |
 | Robot Run | 399877 | [399877-robot-run.json](./399877-robot-run.json) |
 | Robot Runner | 106950 | [106950-robot-runner.json](./106950-robot-runner.json) |
@@ -13509,6 +13512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RunMan Turbo | 220489 | [220489-runman-turbo.json](./220489-runman-turbo.json) |
 | RunMan: Race Around the World | 66258 | [66258-runman-race-around-the-world.json](./66258-runman-race-around-the-world.json) |
 | RunMan's Monster Fracas | 57591 | [57591-runmans-monster-fracas.json](./57591-runmans-monster-fracas.json) |
+| Runn 'n' Gunn | 293306 | [293306-runn-n-gunn.json](./293306-runn-n-gunn.json) |
 | RunNCrush | 259044 | [259044-runncrush.json](./259044-runncrush.json) |
 | Runner | 171957 | [171957-runner.json](./171957-runner.json) |
 | Runner | 172059 | [172059-runner.json](./172059-runner.json) |
