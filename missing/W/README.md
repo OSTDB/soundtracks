@@ -5404,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked Witches | 34186 | [34186-wicked-witches.json](./34186-wicked-witches.json) |
 | Wicked World #1 | 197780 | [197780-wicked-world-1.json](./197780-wicked-world-1.json) |
 | Wicked! | 297463 | [297463-wicked.json](./297463-wicked.json) |
+| WickedWhims | 259219 | [259219-wickedwhims.json](./259219-wickedwhims.json) |
 | Wicket Cricket Manager | 243977 | [243977-wicket-cricket-manager.json](./243977-wicket-cricket-manager.json) |
 | Wickie und die starken Männer: Die Mutprobe | 250603 | [250603-wickie-und-die-starken-manner-die-mutprobe.json](./250603-wickie-und-die-starken-manner-die-mutprobe.json) |
 | Wickland | 9367 | [9367-wickland.json](./9367-wickland.json) |
@@ -7789,6 +7790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful Wizard Reverie | 415892 | [415892-wonderful-wizard-reverie.json](./415892-wonderful-wizard-reverie.json) |
 | Wonderful World | 124719 | [124719-wonderful-world.json](./124719-wonderful-world.json) |
 | Wonderful.Love | 98019 | [98019-wonderful-love.json](./98019-wonderful-love.json) |
+| WonderfulWhims | 259225 | [259225-wonderfulwhims.json](./259225-wonderfulwhims.json) |
 | Wonderglade | 123424 | [123424-wonderglade.json](./123424-wonderglade.json) |
 | Wonderia | 285979 | [285979-wonderia.json](./285979-wonderia.json) |
 | WonderKing | 385831 | [385831-wonderking.json](./385831-wonderking.json) |
