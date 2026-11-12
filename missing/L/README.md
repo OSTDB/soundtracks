@@ -2936,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Tetrarchs | 117738 | [117738-legend-of-the-tetrarchs.json](./117738-legend-of-the-tetrarchs.json) |
 | Legend of the Time Sword: Episode 1 | 303814 | [303814-legend-of-the-time-sword-episode-1.json](./303814-legend-of-the-time-sword-episode-1.json) |
 | Legend of the Unicorn Girl | 62567 | [62567-legend-of-the-unicorn-girl.json](./62567-legend-of-the-unicorn-girl.json) |
+| Legend Of The Valley | 280399 | [280399-legend-of-the-valley.json](./280399-legend-of-the-valley.json) |
 | Legend of the Wargod | 275395 | [275395-legend-of-the-wargod.json](./275395-legend-of-the-wargod.json) |
 | Legend of the wizard | 120856 | [120856-legend-of-the-wizard.json](./120856-legend-of-the-wizard.json) |
 | Legend of the Wizard King | 114219 | [114219-legend-of-the-wizard-king.json](./114219-legend-of-the-wizard-king.json) |
