@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iconic | 356704 | [356704-iconic.json](./356704-iconic.json) |
 | Iconic | 362768 | [362768-iconic.json](./362768-iconic.json) |
 | IcoNick Duster: Planets Defender | 371944 | [371944-iconick-duster-planets-defender.json](./371944-iconick-duster-planets-defender.json) |
+| Iconoclasm | 272499 | [272499-iconoclasm.json](./272499-iconoclasm.json) |
 | Iconoclasts | 34705 | [34705-iconoclasts.json](./34705-iconoclasts.json) |
 | Iconology | 420907 | [420907-iconology.json](./420907-iconology.json) |
 | Icons of Theia | 222741 | [222741-icons-of-theia.json](./222741-icons-of-theia.json) |
@@ -6130,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IOX | 127542 | [127542-iox.json](./127542-iox.json) |
 | Ipad Baby | 282808 | [282808-ipad-baby.json](./282808-ipad-baby.json) |
 | iPanzer '44 | 93102 | [93102-ipanzer-44.json](./93102-ipanzer-44.json) |
+| IPECAC Community Mod | 272425 | [272425-ipecac-community-mod.json](./272425-ipecac-community-mod.json) |
 | iPitch | 92081 | [92081-ipitch.json](./92081-ipitch.json) |
 | IPL Quiz 2022 Cricket Champion | 229884 | [229884-ipl-quiz-2022-cricket-champion.json](./229884-ipl-quiz-2022-cricket-champion.json) |
 | IPollute | 302754 | [302754-ipollute.json](./302754-ipollute.json) |
