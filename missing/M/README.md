@@ -1143,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bubble | 246455 | [246455-magic-bubble.json](./246455-magic-bubble.json) |
 | Magic Bubble | 287655 | [287655-magic-bubble.json](./287655-magic-bubble.json) |
 | Magic Bubble | 45743 | [45743-magic-bubble.json](./45743-magic-bubble.json) |
+| Magic Bubble Shooter: Classic Bubbles Arcade | 248868 | [248868-magic-bubble-shooter-classic-bubbles-arcade.json](./248868-magic-bubble-shooter-classic-bubbles-arcade.json) |
 | Magic Bubbles | 225208 | [225208-magic-bubbles.json](./225208-magic-bubbles.json) |
 | Magic Card: CZ12 | 287690 | [287690-magic-card-cz12.json](./287690-magic-card-cz12.json) |
 | Magic Cards Duel | 409793 | [409793-magic-cards-duel.json](./409793-magic-cards-duel.json) |
@@ -6612,6 +6613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayday Squad | 14780 | [14780-mayday-squad.json](./14780-mayday-squad.json) |
 | Mayday: Conflict Earth | 36932 | [36932-mayday-conflict-earth.json](./36932-mayday-conflict-earth.json) |
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
+| Mayday!: Emergency Landing | 248876 | [248876-mayday-emergency-landing.json](./248876-mayday-emergency-landing.json) |
 | Mayday!! | 86169 | [86169-mayday.json](./86169-mayday.json) |
 | Mayéutica | 330951 | [330951-mayeutica.json](./330951-mayeutica.json) |
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
@@ -10267,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merger 3D | 31338 | [31338-merger-3d.json](./31338-merger-3d.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
 | Mergest Kingdom | 182012 | [182012-mergest-kingdom.json](./182012-mergest-kingdom.json) |
+| MergeTD | 248939 | [248939-mergetd.json](./248939-mergetd.json) |
 | MergeVille | 380500 | [380500-mergeville.json](./380500-mergeville.json) |
 | MergeZ | 300849 | [300849-mergez.json](./300849-mergez.json) |
 | Mergical Fun: Match Island | 220199 | [220199-mergical-fun-match-island.json](./220199-mergical-fun-match-island.json) |
