@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Fire | 203677 | [203677-tales-of-fire.json](./203677-tales-of-fire.json) |
 | Tales of Formentera | 414437 | [414437-tales-of-formentera.json](./414437-tales-of-formentera.json) |
 | Tales of Fortune | 312121 | [312121-tales-of-fortune.json](./312121-tales-of-fortune.json) |
+| Tales of Frah'Akin | 309783 | [309783-tales-of-frahakin.json](./309783-tales-of-frahakin.json) |
 | Tales of Glacier VR | 57036 | [57036-tales-of-glacier-vr.json](./57036-tales-of-glacier-vr.json) |
 | Tales of Glory | 36618 | [36618-tales-of-glory.json](./36618-tales-of-glory.json) |
 | Tales of Glory 2: Retaliation | 170367 | [170367-tales-of-glory-2-retaliation.json](./170367-tales-of-glory-2-retaliation.json) |
@@ -6864,6 +6865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bestest Alchemist | 371171 | [371171-the-bestest-alchemist.json](./371171-the-bestest-alchemist.json) |
 | The Better Angels | 281370 | [281370-the-better-angels.json](./281370-the-better-angels.json) |
 | The Better Dead Ratification | 156190 | [156190-the-better-dead-ratification.json](./156190-the-better-dead-ratification.json) |
+| The Better Deal | 310223 | [310223-the-better-deal.json](./310223-the-better-deal.json) |
 | The Better Place | 229707 | [229707-the-better-place.json](./229707-the-better-place.json) |
 | The Betweenlands | 232649 | [232649-the-betweenlands.json](./232649-the-betweenlands.json) |
 | The Betweenlands | 323011 | [323011-the-betweenlands.json](./323011-the-betweenlands.json) |
@@ -10803,6 +10805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golden Horde: Story of Jambul | 427856 | [427856-the-golden-horde-story-of-jambul.json](./427856-the-golden-horde-story-of-jambul.json) |
 | The Golden Horde: Survival | 426025 | [426025-the-golden-horde-survival.json](./426025-the-golden-horde-survival.json) |
 | The Golden Idol Saga | 415347 | [415347-the-golden-idol-saga.json](./415347-the-golden-idol-saga.json) |
+| The Golden Light Guardian | 309780 | [309780-the-golden-light-guardian.json](./309780-the-golden-light-guardian.json) |
 | The Golden Mare | 364663 | [364663-the-golden-mare.json](./364663-the-golden-mare.json) |
 | The Golden Path of Plumeboom | 24736 | [24736-the-golden-path-of-plumeboom.json](./24736-the-golden-path-of-plumeboom.json) |
 | The Golden Pearl | 179142 | [179142-the-golden-pearl.json](./179142-the-golden-pearl.json) |
@@ -13192,6 +13195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Left Eye | 351114 | [351114-the-left-eye.json](./351114-the-left-eye.json) |
 | The Leftovers | 92581 | [92581-the-leftovers.json](./92581-the-leftovers.json) |
 | The Legacy | 12437 | [12437-the-legacy.json](./12437-the-legacy.json) |
+| The Legacy | 309793 | [309793-the-legacy.json](./309793-the-legacy.json) |
 | The Legacy | 378776 | [378776-the-legacy.json](./378776-the-legacy.json) |
 | The Legacy 2 | 95830 | [95830-the-legacy-2.json](./95830-the-legacy-2.json) |
 | The Legacy of Castle Terroretra | 231804 | [231804-the-legacy-of-castle-terroretra.json](./231804-the-legacy-of-castle-terroretra.json) |
@@ -13402,6 +13406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Peks | 262449 | [262449-the-legend-of-peks.json](./262449-the-legend-of-peks.json) |
 | The Legend Of Perchta | 290003 | [290003-the-legend-of-perchta.json](./290003-the-legend-of-perchta.json) |
 | The Legend of Pirates Online | 140587 | [140587-the-legend-of-pirates-online.json](./140587-the-legend-of-pirates-online.json) |
+| The Legend of Piss Boy 2 | 309787 | [309787-the-legend-of-piss-boy-2.json](./309787-the-legend-of-piss-boy-2.json) |
 | The Legend of Pomodoro | 193657 | [193657-the-legend-of-pomodoro.json](./193657-the-legend-of-pomodoro.json) |
 | The Legend of Prince Valiant | 372406 | [372406-the-legend-of-prince-valiant.json](./372406-the-legend-of-prince-valiant.json) |
 | The Legend of Prince Valiant | 48187 | [48187-the-legend-of-prince-valiant.json](./48187-the-legend-of-prince-valiant.json) |
@@ -15548,6 +15553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Other Side | 308545 | [308545-the-other-side.json](./308545-the-other-side.json) |
 | The Other Side | 357744 | [357744-the-other-side.json](./357744-the-other-side.json) |
 | The Other Side of the Screen | 101277 | [101277-the-other-side-of-the-screen.json](./101277-the-other-side-of-the-screen.json) |
+| The Other Side of the Sky | 310230 | [310230-the-other-side-of-the-sky.json](./310230-the-other-side-of-the-sky.json) |
 | The Other Side of the Tracks | 179452 | [179452-the-other-side-of-the-tracks.json](./179452-the-other-side-of-the-tracks.json) |
 | The other side: My own horror | 161402 | [161402-the-other-side-my-own-horror.json](./161402-the-other-side-my-own-horror.json) |
 | The Other Side: Tower of Souls | 53765 | [53765-the-other-side-tower-of-souls.json](./53765-the-other-side-tower-of-souls.json) |
@@ -15699,6 +15705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Parade | 362872 | [362872-the-parade.json](./362872-the-parade.json) |
 | The Paradell | 249078 | [249078-the-paradell.json](./249078-the-paradell.json) |
 | The Paradise of Elves | 82631 | [82631-the-paradise-of-elves.json](./82631-the-paradise-of-elves.json) |
+| The Paradixion: Christmas | 310237 | [310237-the-paradixion-christmas.json](./310237-the-paradixion-christmas.json) |
 | The Paradixion: Laboratory | 262474 | [262474-the-paradixion-laboratory.json](./262474-the-paradixion-laboratory.json) |
 | The Paradixion: Restroom | 368589 | [368589-the-paradixion-restroom.json](./368589-the-paradixion-restroom.json) |
 | The Paradixion: Son's Room | 250493 | [250493-the-paradixion-sons-room.json](./250493-the-paradixion-sons-room.json) |
@@ -16796,6 +16803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rock and the Rose | 353996 | [353996-the-rock-and-the-rose.json](./353996-the-rock-and-the-rose.json) |
 | The Rock the Paper and the Scissors | 177445 | [177445-the-rock-the-paper-and-the-scissors.json](./177445-the-rock-the-paper-and-the-scissors.json) |
 | The Rocket Jumper | 232965 | [232965-the-rocket-jumper.json](./232965-the-rocket-jumper.json) |
+| The Rocket Man | 309782 | [309782-the-rocket-man.json](./309782-the-rocket-man.json) |
 | The Rocketeer | 136871 | [136871-the-rocketeer.json](./136871-the-rocketeer.json) |
 | The Rocketeer | 205945 | [205945-the-rocketeer.json](./205945-the-rocketeer.json) |
 | The Rocketeer | 48205 | [48205-the-rocketeer.json](./48205-the-rocketeer.json) |
@@ -27176,6 +27184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tooncop | 260249 | [260249-tooncop.json](./260249-tooncop.json) |
 | Tooned Out Duo Dippin | 373760 | [373760-tooned-out-duo-dippin.json](./373760-tooned-out-duo-dippin.json) |
 | TooneQuest | 407402 | [407402-toonequest.json](./407402-toonequest.json) |
+| Toonie Tennis | 310233 | [310233-toonie-tennis.json](./310233-toonie-tennis.json) |
 | Toonix | 357431 | [357431-toonix.json](./357431-toonix.json) |
 | Toonix Halloween: Candy Capers | 355992 | [355992-toonix-halloween-candy-capers.json](./355992-toonix-halloween-candy-capers.json) |
 | Toonix Totem | 355886 | [355886-toonix-totem.json](./355886-toonix-totem.json) |
