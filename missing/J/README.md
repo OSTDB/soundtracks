@@ -2646,6 +2646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Bonasera: Full Season | 147821 | [147821-johnny-bonasera-full-season.json](./147821-johnny-bonasera-full-season.json) |
 | Johnny Boy: Red Moon's Kiss | 188651 | [188651-johnny-boy-red-moons-kiss.json](./188651-johnny-boy-red-moons-kiss.json) |
 | Johnny Bravo in the Cherub Challenge | 241137 | [241137-johnny-bravo-in-the-cherub-challenge.json](./241137-johnny-bravo-in-the-cherub-challenge.json) |
+| Johnny Bravo in The Hukka-Mega-Mighty-Ultra-Extreme Date-O-Rama! | 259229 | [259229-johnny-bravo-in-the-hukka-mega-mighty-ultra-extreme-date-o-rama.json](./259229-johnny-bravo-in-the-hukka-mega-mighty-ultra-extreme-date-o-rama.json) |
 | Johnny Bravo in The Hukka-Mega-Mighty-Ultra-Extreme Date-O-Rama! | 3248 | [3248-johnny-bravo-in-the-hukka-mega-mighty-ultra-extreme-date-o-rama.json](./3248-johnny-bravo-in-the-hukka-mega-mighty-ultra-extreme-date-o-rama.json) |
 | Johnny Bravo: Big Babe Adventure | 289486 | [289486-johnny-bravo-big-babe-adventure.json](./289486-johnny-bravo-big-babe-adventure.json) |
 | Johnny Chainsaw | 154466 | [154466-johnny-chainsaw.json](./154466-johnny-chainsaw.json) |
