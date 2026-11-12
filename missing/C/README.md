@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafeworld | 177027 | [177027-cafeworld.json](./177027-cafeworld.json) |
 | Caff Roulette | 201978 | [201978-caff-roulette.json](./201978-caff-roulette.json) |
 | Caffeine | 17854 | [17854-caffeine.json](./17854-caffeine.json) |
+| Caffeine Injection! | 261482 | [261482-caffeine-injection.json](./261482-caffeine-injection.json) |
 | Caffeine: Victoria's Legacy | 107920 | [107920-caffeine-victorias-legacy.json](./107920-caffeine-victorias-legacy.json) |
 | Cafon Street | 235126 | [235126-cafon-street.json](./235126-cafon-street.json) |
 | Cagara | 13986 | [13986-cagara.json](./13986-cagara.json) |
@@ -4856,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Them Sweetie | 271075 | [271075-catch-them-sweetie.json](./271075-catch-them-sweetie.json) |
 | Catch Thieves | 303726 | [303726-catch-thieves.json](./303726-catch-thieves.json) |
 | Catch Time | 40590 | [40590-catch-time.json](./40590-catch-time.json) |
+| Catch Up | 261491 | [261491-catch-up.json](./261491-catch-up.json) |
 | Catch You: 1 to 10 Player Stickman Hunting Game | 103660 | [103660-catch-you-1-to-10-player-stickman-hunting-game.json](./103660-catch-you-1-to-10-player-stickman-hunting-game.json) |
 | Catch Your Kitty | 129122 | [129122-catch-your-kitty.json](./129122-catch-your-kitty.json) |
 | Catch-22 | 94163 | [94163-catch-22.json](./94163-catch-22.json) |
@@ -6565,6 +6567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Caster | 314990 | [314990-chaos-caster.json](./314990-chaos-caster.json) |
 | Chaos Caves | 113680 | [113680-chaos-caves.json](./113680-chaos-caves.json) |
 | Chaos Chain | 188726 | [188726-chaos-chain.json](./188726-chaos-chain.json) |
+| Chaos Chain: Supporter Cosmetic Pack | 261502 | [261502-chaos-chain-supporter-cosmetic-pack.json](./261502-chaos-chain-supporter-cosmetic-pack.json) |
 | Chaos Chain: Supporter Cosmetic Pack 2 | 289504 | [289504-chaos-chain-supporter-cosmetic-pack-2.json](./289504-chaos-chain-supporter-cosmetic-pack-2.json) |
 | Chaos Chain: Supporter Cosmetic Pack 3 | 302592 | [302592-chaos-chain-supporter-cosmetic-pack-3.json](./302592-chaos-chain-supporter-cosmetic-pack-3.json) |
 | Chaos Chronicle | 57893 | [57893-chaos-chronicle.json](./57893-chaos-chronicle.json) |
@@ -15301,6 +15304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contra SNES | 377741 | [377741-contra-snes.json](./377741-contra-snes.json) |
 | Contra Spem Spero | 333274 | [333274-contra-spem-spero.json](./333274-contra-spem-spero.json) |
 | Contra Spirits | 242088 | [242088-contra-spirits.json](./242088-contra-spirits.json) |
+| Contra Spirits 64 | 261495 | [261495-contra-spirits-64.json](./261495-contra-spirits-64.json) |
 | Contra x Castlevania Bundle | 319315 | [319315-contra-x-castlevania-bundle.json](./319315-contra-x-castlevania-bundle.json) |
 | Contra: Hard Corps | 20192 | [20192-contra-hard-corps.json](./20192-contra-hard-corps.json) |
 | Contra: Legacy of War | 45507 | [45507-contra-legacy-of-war.json](./45507-contra-legacy-of-war.json) |
