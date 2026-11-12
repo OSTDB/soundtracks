@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark Cave | 414272 | [414272-a-dark-cave.json](./414272-a-dark-cave.json) |
 | A Dark Forest | 319186 | [319186-a-dark-forest.json](./319186-a-dark-forest.json) |
 | A Dark Ice Saga: The Rescue | 158223 | [158223-a-dark-ice-saga-the-rescue.json](./158223-a-dark-ice-saga-the-rescue.json) |
+| A Dark Place | 274228 | [274228-a-dark-place.json](./274228-a-dark-place.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
 | A Dark Place 2 | 307002 | [307002-a-dark-place-2.json](./307002-a-dark-place-2.json) |
 | A Dark Room | 3245 | [3245-a-dark-room.json](./3245-a-dark-room.json) |
@@ -18322,6 +18323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Surf | 238641 | [238641-atomic-surf.json](./238641-atomic-surf.json) |
 | Atomic Survivors | 249748 | [249748-atomic-survivors.json](./249748-atomic-survivors.json) |
 | Atomic Titans: Light Violence | 277447 | [277447-atomic-titans-light-violence.json](./277447-atomic-titans-light-violence.json) |
+| Atomic Tomb | 274155 | [274155-atomic-tomb.json](./274155-atomic-tomb.json) |
 | Atomic War | 171811 | [171811-atomic-war.json](./171811-atomic-war.json) |
 | Atomic Warfare | 303901 | [303901-atomic-warfare.json](./303901-atomic-warfare.json) |
 | Atomic Wilds | 216661 | [216661-atomic-wilds.json](./216661-atomic-wilds.json) |
