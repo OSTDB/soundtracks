@@ -8572,7 +8572,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkening: Episode 2 | 262434 | [262434-the-darkening-episode-2.json](./262434-the-darkening-episode-2.json) |
 | The Darkest Dusk | 359207 | [359207-the-darkest-dusk.json](./359207-the-darkest-dusk.json) |
 | The Darkest Emptiness | 219552 | [219552-the-darkest-emptiness.json](./219552-the-darkest-emptiness.json) |
-| The Darkest Files | 214233 | [214233-the-darkest-files.json](./214233-the-darkest-files.json) |
 | The Darkest Island | 169607 | [169607-the-darkest-island.json](./169607-the-darkest-island.json) |
 | The Darkest Night | 171841 | [171841-the-darkest-night.json](./171841-the-darkest-night.json) |
 | The Darkest Paths: Missing Files | 235985 | [235985-the-darkest-paths-missing-files.json](./235985-the-darkest-paths-missing-files.json) |
