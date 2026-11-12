@@ -6,9 +6,9 @@
 <p align="center"><b>The open database of official video game soundtracks.</b><br />Every game, its OST, and where to stream it: Spotify, Apple Music and album.link.</p>
 
 <p align="center">
-<a href="https://ostdb.net"><img alt="soundtracks: 3,218" src="https://img.shields.io/badge/soundtracks-3%2C218-E2B714?style=for-the-badge&labelColor=161718" /></a>
-<a href="games/README.md"><img alt="games: 2,735" src="https://img.shields.io/badge/games-2%2C735-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 340,870" src="https://img.shields.io/badge/missing-340%2C870-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="https://ostdb.net"><img alt="soundtracks: 3,215" src="https://img.shields.io/badge/soundtracks-3%2C215-E2B714?style=for-the-badge&labelColor=161718" /></a>
+<a href="games/README.md"><img alt="games: 2,732" src="https://img.shields.io/badge/games-2%2C732-ECECEE?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 341,323" src="https://img.shields.io/badge/missing-341%2C323-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -21,26 +21,26 @@
   <a href="games/README.md"><b>Browse all games</b></a>
 </p>
 
-<p align="center"><img src="assets/progress.svg" alt="3,218 soundtracks, next milestone 5,000" width="760" /></p>
+<p align="center"><img src="assets/progress.svg" alt="3,215 soundtracks, next milestone 5,000" width="760" /></p>
 
 ## 🆕 Recently added
 
 <table>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/copoka"><img src="https://i.scdn.co/image/ab67616d0000b2734a44af2b85f8a2de4bd3704c" width="120" height="120" alt="" /></a><br /><sub><b>Copoka</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/expand"><img src="https://i.scdn.co/image/ab67616d0000b27386e4fc85f7781512cae92ac6" width="120" height="120" alt="" /></a><br /><sub><b>Expand</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/romance-of-the-three-kingdoms"><img src="https://i.scdn.co/image/ab67616d0000b2738b5bdfc6b2ce734b6d527531" width="120" height="120" alt="" /></a><br /><sub><b>Romance of the Three Kingdoms</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/guilty-gear-2-overture"><img src="https://i.scdn.co/image/ab67616d0000b2732fea723d37d833de4892edf1" width="120" height="120" alt="" /></a><br /><sub><b>Guilty Gear 2: Overture</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/rodea-the-sky-soldier"><img src="https://i.scdn.co/image/ab67616d0000b273fde1374e14cc6ec201e4c10b" width="120" height="120" alt="" /></a><br /><sub><b>Rodea the Sky Soldier</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/dark-scavenger"><img src="https://i.scdn.co/image/ab67616d0000b27395252cba9fd817ba90348b8a" width="120" height="120" alt="" /></a><br /><sub><b>Dark Scavenger</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/bionic-bay"><img src="https://i.scdn.co/image/ab67616d0000b2739941e18e9265aff0f762d180" width="120" height="120" alt="" /></a><br /><sub><b>Bionic Bay</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/monument-valley-forgotten-shores"><img src="https://i.scdn.co/image/ab67616d0000b273658f231a27702db138f4ff2d" width="120" height="120" alt="" /></a><br /><sub><b>Monument Valley: Forgotten Shores</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/super-daryl-deluxe"><img src="https://i.scdn.co/image/ab67616d0000b273f4fd9b90feeb983764564ca9" width="120" height="120" alt="" /></a><br /><sub><b>Super Daryl Deluxe</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/curses-n-chaos"><img src="https://i.scdn.co/image/ab67616d0000b2735784bea7a13612d807e1678b" width="120" height="120" alt="" /></a><br /><sub><b>Curses 'N Chaos</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/lords-of-the-fallen"><img src="https://i.scdn.co/image/ab67616d0000b2738319743a050636e78feb058b" width="120" height="120" alt="" /></a><br /><sub><b>Lords of the Fallen</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/gunbrella"><img src="https://i.scdn.co/image/ab67616d0000b27398d354303c6095a66f470d11" width="120" height="120" alt="" /></a><br /><sub><b>Gunbrella</b></sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/raving-rabbids-alive-and-kicking"><img src="https://i.scdn.co/image/ab67616d0000b273940a90216ecf14a36e2098fb" width="120" height="120" alt="" /></a><br /><sub><b>Raving Rabbids: Alive and Kicking</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/starbreak"><img src="https://i.scdn.co/image/ab67616d0000b273a777c4853ef2466cfbebe31f" width="120" height="120" alt="" /></a><br /><sub><b>StarBreak</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/darknet"><img src="https://i.scdn.co/image/ab67616d0000b273d54e551e382059d38b91fe41" width="120" height="120" alt="" /></a><br /><sub><b>Darknet</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/frozen-synapse-2"><img src="https://i.scdn.co/image/ab67616d0000b273efbdb4eac29aec7b07032271" width="120" height="120" alt="" /></a><br /><sub><b>Frozen Synapse 2</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/total-war-battles-kingdom"><img src="https://i.scdn.co/image/ab67616d0000b2735d2a159d6e8db0b5c095b38f" width="120" height="120" alt="" /></a><br /><sub><b>Total War Battles: Kingdom</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/saturday-morning-rpg"><img src="https://i.scdn.co/image/ab67616d0000b2732c377773e1f557056a178c92" width="120" height="120" alt="" /></a><br /><sub><b>Saturday Morning RPG</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/bot-vice"><img src="https://i.scdn.co/image/ab67616d0000b273fd521d6cb14f76d196e34dbc" width="120" height="120" alt="" /></a><br /><sub><b>Bot Vice</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/albino-lullaby-episode-1"><img src="https://i.scdn.co/image/ab67616d0000b273f68f54655f937733b6881e12" width="120" height="120" alt="" /></a><br /><sub><b>Albino Lullaby: Episode 1</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/mad-streets"><img src="https://i.scdn.co/image/ab67616d0000b273e9a0c82c081bb6136ddd720c" width="120" height="120" alt="" /></a><br /><sub><b>Mad Streets</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/near-death"><img src="https://i.scdn.co/image/ab67616d0000b273fe5f056ca7501ed95f8e431b" width="120" height="120" alt="" /></a><br /><sub><b>Near Death</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/brandish"><img src="https://i.scdn.co/image/ab67616d0000b2736eec1b40b72cb5e3377f7c32" width="120" height="120" alt="" /></a><br /><sub><b>Brandish</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/steredenn"><img src="https://i.scdn.co/image/ab67616d0000b273024e27a840d15519d186947f" width="120" height="120" alt="" /></a><br /><sub><b>Steredenn</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (340,870 games).
+More in **[missing/](missing/README.md)** (341,323 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -99,7 +99,7 @@ Everyone who added or fixed a soundtrack. Thank you!
 
 ## 📚 Browse
 
-All 2,735 games with a soundtrack, by letter: **[games/](games/README.md)**.
+All 2,732 games with a soundtrack, by letter: **[games/](games/README.md)**.
 
 ## License & credit
 
@@ -111,4 +111,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,218 soundtracks &middot; last updated 2026-11-12T00:40:57.483Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,215 soundtracks &middot; last updated 2026-11-12T00:41:06.299Z</sub>
