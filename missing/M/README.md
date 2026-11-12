@@ -16615,6 +16615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monke Island: Rise of the Beast | 283115 | [283115-monke-island-rise-of-the-beast.json](./283115-monke-island-rise-of-the-beast.json) |
 | Monke Survivor | 408515 | [408515-monke-survivor.json](./408515-monke-survivor.json) |
 | Monkee Game | 269230 | [269230-monkee-game.json](./269230-monkee-game.json) |
+| Monkeet | 250666 | [250666-monkeet.json](./250666-monkeet.json) |
 | Monken Crusher | 135445 | [135445-monken-crusher.json](./135445-monken-crusher.json) |
 | Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
 | Monkey | 305464 | [305464-monkey.json](./305464-monkey.json) |
@@ -20310,6 +20311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Potato Head & Mrs. Potato Head | 198830 | [198830-mr-potato-head-and-mrs-potato-head.json](./198830-mr-potato-head-and-mrs-potato-head.json) |
 | Mr. Potato Head Activity Pack | 243389 | [243389-mr-potato-head-activity-pack.json](./243389-mr-potato-head-activity-pack.json) |
 | Mr. Potato Head Saves Veggie Valley | 61025 | [61025-mr-potato-head-saves-veggie-valley.json](./61025-mr-potato-head-saves-veggie-valley.json) |
+| Mr. Potato Head: School Rush | 250672 | [250672-mr-potato-head-school-rush.json](./250672-mr-potato-head-school-rush.json) |
 | Mr. Prepper | 81680 | [81680-mr-prepper.json](./81680-mr-prepper.json) |
 | Mr. Prepper: Animal Farm | 197593 | [197593-mr-prepper-animal-farm.json](./197593-mr-prepper-animal-farm.json) |
 | Mr. Prepper: Anniversary Edition | 284742 | [284742-mr-prepper-anniversary-edition.json](./284742-mr-prepper-anniversary-edition.json) |
@@ -21570,6 +21572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muteki-Ou Tri-Zenon | 251309 | [251309-muteki-ou-tri-zenon.json](./251309-muteki-ou-tri-zenon.json) |
 | MuteX+ | 341952 | [341952-mutex.json](./341952-mutex.json) |
 | Mutilate-a-Doll 2 | 95937 | [95937-mutilate-a-doll-2.json](./95937-mutilate-a-doll-2.json) |
+| Mutiny | 250669 | [250669-mutiny.json](./250669-mutiny.json) |
 | Mutiny | 256879 | [256879-mutiny.json](./256879-mutiny.json) |
 | Mutiny | 377188 | [377188-mutiny.json](./377188-mutiny.json) |
 | Mutiny Island | 120016 | [120016-mutiny-island.json](./120016-mutiny-island.json) |
