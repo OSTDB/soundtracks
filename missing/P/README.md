@@ -4464,6 +4464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penis Bird | 418629 | [418629-penis-bird.json](./418629-penis-bird.json) |
 | Penis Simulator | 403024 | [403024-penis-simulator.json](./403024-penis-simulator.json) |
 | Penitence | 201684 | [201684-penitence.json](./201684-penitence.json) |
+| Penitent Dead | 246139 | [246139-penitent-dead.json](./246139-penitent-dead.json) |
 | Penko Park | 140130 | [140130-penko-park.json](./140130-penko-park.json) |
 | Penkura | 110860 | [110860-penkura.json](./110860-penkura.json) |
 | Penky | 267937 | [267937-penky.json](./267937-penky.json) |
@@ -5036,6 +5037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3 Reload: Persona 5 Royal Phantom Thieves Costume Set | 301577 | [301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json](./301577-persona-3-reload-persona-5-royal-phantom-thieves-costume-set.json) |
 | Persona 3 Reload: Persona 5 Royal Shujin Academy Costume Set | 301572 | [301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json](./301572-persona-3-reload-persona-5-royal-shujin-academy-costume-set.json) |
 | Persona 3 Reload: Velvet Costume & BGM Set | 289700 | [289700-persona-3-reload-velvet-costume-and-bgm-set.json](./289700-persona-3-reload-velvet-costume-and-bgm-set.json) |
+| Persona 3 Social | 246687 | [246687-persona-3-social.json](./246687-persona-3-social.json) |
 | Persona 3: Dancing in Moonlight - "Our Moment" (full version) | 362131 | [362131-persona-3-dancing-in-moonlight-our-moment-full-version.json](./362131-persona-3-dancing-in-moonlight-our-moment-full-version.json) |
 | Persona 3: Dancing in Moonlight - "Wake Up, Get Up, Get Out There" (OP ver.) | 362139 | [362139-persona-3-dancing-in-moonlight-wake-up-get-up-get-out-there-op-ver.json](./362139-persona-3-dancing-in-moonlight-wake-up-get-up-get-out-there-op-ver.json) |
 | Persona 3: Dancing in Moonlight - Costume Season Pass | 362144 | [362144-persona-3-dancing-in-moonlight-costume-season-pass.json](./362144-persona-3-dancing-in-moonlight-costume-season-pass.json) |
@@ -6670,6 +6672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S6 | 145821 | [145821-picross-s6.json](./145821-picross-s6.json) |
 | Picross S7 | 185788 | [185788-picross-s7.json](./185788-picross-s7.json) |
 | Picross S8 | 219032 | [219032-picross-s8.json](./219032-picross-s8.json) |
+| Picross S9 | 246610 | [246610-picross-s9.json](./246610-picross-s9.json) |
 | Picross Touch | 32580 | [32580-picross-touch.json](./32580-picross-touch.json) |
 | Picross X: Picbits vs. Uzboross | 210672 | [210672-picross-x-picbits-vs-uzboross.json](./210672-picross-x-picbits-vs-uzboross.json) |
 | Picross-8 | 362915 | [362915-picross-8.json](./362915-picross-8.json) |
@@ -7267,6 +7270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Sophie | 96719 | [96719-pilot-sophie.json](./96719-pilot-sophie.json) |
 | Pilot Sports | 105426 | [105426-pilot-sports.json](./105426-pilot-sports.json) |
 | Pilot Unknown | 116284 | [116284-pilot-unknown.json](./116284-pilot-unknown.json) |
+| Pilot Winds | 246599 | [246599-pilot-winds.json](./246599-pilot-winds.json) |
 | Pilot's Misadventures | 161376 | [161376-pilots-misadventures.json](./161376-pilots-misadventures.json) |
 | Pilot's Path | 41509 | [41509-pilots-path.json](./41509-pilots-path.json) |
 | Piloteer | 35617 | [35617-piloteer.json](./35617-piloteer.json) |
@@ -10363,6 +10367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plastic Soul | 239810 | [239810-plastic-soul.json](./239810-plastic-soul.json) |
 | Plastic Spouse Interrogation | 316007 | [316007-plastic-spouse-interrogation.json](./316007-plastic-spouse-interrogation.json) |
 | Plastic Tactics Online | 276620 | [276620-plastic-tactics-online.json](./276620-plastic-tactics-online.json) |
+| Plastic Tape | 246680 | [246680-plastic-tape.json](./246680-plastic-tape.json) |
 | Plastic Trick | 321592 | [321592-plastic-trick.json](./321592-plastic-trick.json) |
 | Plasticalypse: Submarine Adventures | 170134 | [170134-plasticalypse-submarine-adventures.json](./170134-plasticalypse-submarine-adventures.json) |
 | Plasticalypse: TrashSub Adventures | 144025 | [144025-plasticalypse-trashsub-adventures.json](./144025-plasticalypse-trashsub-adventures.json) |
@@ -15000,6 +15005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precinct 20: Dead Strange | 419882 | [419882-precinct-20-dead-strange.json](./419882-precinct-20-dead-strange.json) |
 | Precinct IX | 408707 | [408707-precinct-ix.json](./408707-precinct-ix.json) |
 | Precious Star | 124577 | [124577-precious-star.json](./124577-precious-star.json) |
+| Precious Stones | 246148 | [246148-precious-stones.json](./246148-precious-stones.json) |
 | Precious Theatre: Pilot | 257619 | [257619-precious-theatre-pilot.json](./257619-precious-theatre-pilot.json) |
 | Precious: Naze Shou ha Kami ni Idonda no ka? | 345543 | [345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json](./345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json) |
 | Precipice | 111937 | [111937-precipice.json](./111937-precipice.json) |
