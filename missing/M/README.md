@@ -11349,6 +11349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michi Café | 412794 | [412794-michi-cafe.json](./412794-michi-cafe.json) |
 | Michi: Expansion Pack | 249299 | [249299-michi-expansion-pack.json](./249299-michi-expansion-pack.json) |
 | Michigan: Report from Hell | 26294 | [26294-michigan-report-from-hell.json](./26294-michigan-report-from-hell.json) |
+| Michihaku Lucient 2: Itsuka, Kimi ga Otona ni Natte mo | 279981 | [279981-michihaku-lucient-2-itsuka-kimi-ga-otona-ni-natte-mo.json](./279981-michihaku-lucient-2-itsuka-kimi-ga-otona-ni-natte-mo.json) |
 | Michijiro no Lucent: Maou Fukkatsu | 249048 | [249048-michijiro-no-lucent-maou-fukkatsu.json](./249048-michijiro-no-lucent-maou-fukkatsu.json) |
 | Michiko Jump! | 217846 | [217846-michiko-jump.json](./217846-michiko-jump.json) |
 | Michikusa Wanderer | 402853 | [402853-michikusa-wanderer.json](./402853-michikusa-wanderer.json) |
@@ -21612,7 +21613,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - Husqvarna Pack 2025 | 356698 | [356698-mx-vs-atv-legends-husqvarna-pack-2025.json](./356698-mx-vs-atv-legends-husqvarna-pack-2025.json) |
 | MX vs. ATV: Legends - Icon Pack | 233683 | [233683-mx-vs-atv-legends-icon-pack.json](./233683-mx-vs-atv-legends-icon-pack.json) |
 | MX vs. ATV: Legends - Kawasaki Pack | 350649 | [350649-mx-vs-atv-legends-kawasaki-pack.json](./350649-mx-vs-atv-legends-kawasaki-pack.json) |
+| MX vs. ATV: Legends - Kawasaki Pack 2023 | 280386 | [280386-mx-vs-atv-legends-kawasaki-pack-2023.json](./280386-mx-vs-atv-legends-kawasaki-pack-2023.json) |
 | MX vs. ATV: Legends - Kawasaki Pack 2025 | 350641 | [350641-mx-vs-atv-legends-kawasaki-pack-2025.json](./350641-mx-vs-atv-legends-kawasaki-pack-2025.json) |
+| MX vs. ATV: Legends - KTM Pack 2023 | 280387 | [280387-mx-vs-atv-legends-ktm-pack-2023.json](./280387-mx-vs-atv-legends-ktm-pack-2023.json) |
 | MX vs. ATV: Legends - KTM Pack 2025 | 350643 | [350643-mx-vs-atv-legends-ktm-pack-2025.json](./350643-mx-vs-atv-legends-ktm-pack-2025.json) |
 | MX vs. ATV: Legends - Polaris Pack | 350650 | [350650-mx-vs-atv-legends-polaris-pack.json](./350650-mx-vs-atv-legends-polaris-pack.json) |
 | MX vs. ATV: Legends - Redline Ridge Finals | 384904 | [384904-mx-vs-atv-legends-redline-ridge-finals.json](./384904-mx-vs-atv-legends-redline-ridge-finals.json) |
@@ -23799,6 +23802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Mixing: Wand and Frog Edition | 273305 | [273305-mystical-mixing-wand-and-frog-edition.json](./273305-mystical-mixing-wand-and-frog-edition.json) |
 | Mystical Mushrooms | 341353 | [341353-mystical-mushrooms.json](./341353-mystical-mushrooms.json) |
 | Mystical Ninja Starring Goemon | 143439 | [143439-mystical-ninja-starring-goemon.json](./143439-mystical-ninja-starring-goemon.json) |
+| Mystical Ninja Starring Goemon | 280484 | [280484-mystical-ninja-starring-goemon.json](./280484-mystical-ninja-starring-goemon.json) |
 | Mystical Ninja Starring Goemon | 3545 | [3545-mystical-ninja-starring-goemon.json](./3545-mystical-ninja-starring-goemon.json) |
 | Mystical Realms Collection | 201854 | [201854-mystical-realms-collection.json](./201854-mystical-realms-collection.json) |
 | Mystical Riddles: Behind Doll's Eyes - Collector's Edition | 215638 | [215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json](./215638-mystical-riddles-behind-dolls-eyes-collectors-edition.json) |
