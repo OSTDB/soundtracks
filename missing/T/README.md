@@ -11309,6 +11309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
 | The Hauntings: Surveillance | 310872 | [310872-the-hauntings-surveillance.json](./310872-the-hauntings-surveillance.json) |
 | The Hayseed Knight | 141961 | [141961-the-hayseed-knight.json](./141961-the-hayseed-knight.json) |
+| The Hazard Variation | 274159 | [274159-the-hazard-variation.json](./274159-the-hazard-variation.json) |
 | The HD Adventures of Rotating Octopus Character | 52912 | [52912-the-hd-adventures-of-rotating-octopus-character.json](./52912-the-hd-adventures-of-rotating-octopus-character.json) |
 | The Headlands | 389687 | [389687-the-headlands.json](./389687-the-headlands.json) |
 | The Headmaster | 321293 | [321293-the-headmaster.json](./321293-the-headmaster.json) |
@@ -15249,6 +15250,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The NewZealand Story | 274066 | [274066-the-newzealand-story.json](./274066-the-newzealand-story.json) |
 | The NewZealand Story | 274068 | [274068-the-newzealand-story.json](./274068-the-newzealand-story.json) |
 | The NewZealand Story | 274070 | [274070-the-newzealand-story.json](./274070-the-newzealand-story.json) |
+| The NewZealand Story | 274076 | [274076-the-newzealand-story.json](./274076-the-newzealand-story.json) |
+| The NewZealand Story | 274077 | [274077-the-newzealand-story.json](./274077-the-newzealand-story.json) |
+| The NewZealand Story | 274078 | [274078-the-newzealand-story.json](./274078-the-newzealand-story.json) |
+| The NewZealand Story | 274079 | [274079-the-newzealand-story.json](./274079-the-newzealand-story.json) |
 | The NewZealand Story | 7628 | [7628-the-newzealand-story.json](./7628-the-newzealand-story.json) |
 | The NewZealand Story: Untold Adventure | 384926 | [384926-the-newzealand-story-untold-adventure.json](./384926-the-newzealand-story-untold-adventure.json) |
 | The Next Big Thing | 10958 | [10958-the-next-big-thing.json](./10958-the-next-big-thing.json) |
@@ -27640,6 +27645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tork: Prehistoric Punk | 6206 | [6206-tork-prehistoric-punk.json](./6206-tork-prehistoric-punk.json) |
 | Tormans | 157903 | [157903-tormans.json](./157903-tormans.json) |
 | Torment | 257751 | [257751-torment.json](./257751-torment.json) |
+| Torment | 274170 | [274170-torment.json](./274170-torment.json) |
 | Torment Hexus | 381516 | [381516-torment-hexus.json](./381516-torment-hexus.json) |
 | Torment: Tides of Numenera | 2004 | [2004-torment-tides-of-numenera.json](./2004-torment-tides-of-numenera.json) |
 | Torment: Tides of Numenera - Collector's Edition | 26537 | [26537-torment-tides-of-numenera-collectors-edition.json](./26537-torment-tides-of-numenera-collectors-edition.json) |
@@ -34782,6 +34788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel of Doom | 139660 | [139660-tunnel-of-doom.json](./139660-tunnel-of-doom.json) |
 | Tunnel Racer | 176383 | [176383-tunnel-racer.json](./176383-tunnel-racer.json) |
 | Tunnel Rats | 15996 | [15996-tunnel-rats.json](./15996-tunnel-rats.json) |
+| Tunnel Run | 274171 | [274171-tunnel-run.json](./274171-tunnel-run.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
 | Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
 | Tunnel Rush | 92037 | [92037-tunnel-rush.json](./92037-tunnel-rush.json) |
