@@ -10437,6 +10437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoDash | 244601 | [244601-dinodash.json](./244601-dinodash.json) |
 | Dinodon | 238624 | [238624-dinodon.json](./238624-dinodon.json) |
 | Dinodrifters | 126317 | [126317-dinodrifters.json](./126317-dinodrifters.json) |
+| DinoEscape in the Time! | 293806 | [293806-dinoescape-in-the-time.json](./293806-dinoescape-in-the-time.json) |
 | DinoFense | 30169 | [30169-dinofense.json](./30169-dinofense.json) |
 | Dinofurie | 332417 | [332417-dinofurie.json](./332417-dinofurie.json) |
 | Dinogen | 101706 | [101706-dinogen.json](./101706-dinogen.json) |
@@ -12646,6 +12647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog Years | 266800 | [266800-dog-years.json](./266800-dog-years.json) |
 | Dog-a-Boo | 90623 | [90623-dog-a-boo.json](./90623-dog-a-boo.json) |
 | Dog-O | 125798 | [125798-dog-o.json](./125798-dog-o.json) |
+| Dog: The Dog Takes the Hindmost | 293812 | [293812-dog-the-dog-takes-the-hindmost.json](./293812-dog-the-dog-takes-the-hindmost.json) |
 | Dog! | 183362 | [183362-dog.json](./183362-dog.json) |
 | Dog's Donuts | 164155 | [164155-dogs-donuts.json](./164155-dogs-donuts.json) |
 | Dog's Garden | 188009 | [188009-dogs-garden.json](./188009-dogs-garden.json) |
@@ -13045,6 +13047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dollhouse | 335237 | [335237-dollhouse.json](./335237-dollhouse.json) |
 | Dollhouse Builder Craft: Doll House Building Games | 102549 | [102549-dollhouse-builder-craft-doll-house-building-games.json](./102549-dollhouse-builder-craft-doll-house-building-games.json) |
 | Dollhouse of Dead | 366724 | [366724-dollhouse-of-dead.json](./366724-dollhouse-of-dead.json) |
+| Dollhouse: Behind the Broken Mirror | 293788 | [293788-dollhouse-behind-the-broken-mirror.json](./293788-dollhouse-behind-the-broken-mirror.json) |
 | Dollhouse: Deluxe Edition | 120800 | [120800-dollhouse-deluxe-edition.json](./120800-dollhouse-deluxe-edition.json) |
 | DollHouse: Survive or Death | 263026 | [263026-dollhouse-survive-or-death.json](./263026-dollhouse-survive-or-death.json) |
 | DollKart | 105591 | [105591-dollkart.json](./105591-dollkart.json) |
@@ -16577,6 +16580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonnet Havoc | 361725 | [361725-dragonnet-havoc.json](./361725-dragonnet-havoc.json) |
 | Dragonology | 21095 | [21095-dragonology.json](./21095-dragonology.json) |
 | Dragonpath | 33931 | [33931-dragonpath.json](./33931-dragonpath.json) |
+| Dragonpaw | 293800 | [293800-dragonpaw.json](./293800-dragonpaw.json) |
 | DragonRealms | 66380 | [66380-dragonrealms.json](./66380-dragonrealms.json) |
 | DragonRide VR | 128176 | [128176-dragonride-vr.json](./128176-dragonride-vr.json) |
 | DragonRoad | 371839 | [371839-dragonroad.json](./371839-dragonroad.json) |
