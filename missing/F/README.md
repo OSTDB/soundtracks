@@ -1900,6 +1900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasketch | 355981 | [355981-fantasketch.json](./355981-fantasketch.json) |
 | Fantasma | 153915 | [153915-fantasma.json](./153915-fantasma.json) |
 | Fantasma Ville | 166826 | [166826-fantasma-ville.json](./166826-fantasma-ville.json) |
+| Fantasmagorie | 313005 | [313005-fantasmagorie.json](./313005-fantasmagorie.json) |
 | Fantasmigon | 302891 | [302891-fantasmigon.json](./302891-fantasmigon.json) |
 | FantaStep | 97526 | [97526-fantastep.json](./97526-fantastep.json) |
 | Fantasteroids | 218588 | [218588-fantasteroids.json](./218588-fantasteroids.json) |
@@ -2593,6 +2594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Builder | 147255 | [147255-farm-builder.json](./147255-farm-builder.json) |
 | Farm Business | 111990 | [111990-farm-business.json](./111990-farm-business.json) |
 | Farm Business | 344253 | [344253-farm-business.json](./344253-farm-business.json) |
+| Farm Champions: Harvest Battle | 314689 | [314689-farm-champions-harvest-battle.json](./314689-farm-champions-harvest-battle.json) |
 | Farm Chicken | 349475 | [349475-farm-chicken.json](./349475-farm-chicken.json) |
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
 | Farm Colony | 259451 | [259451-farm-colony.json](./259451-farm-colony.json) |
@@ -3670,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fazbear in After | 321103 | [321103-fazbear-in-after.json](./321103-fazbear-in-after.json) |
 | Fazbear Nightmare | 35335 | [35335-fazbear-nightmare.json](./35335-fazbear-nightmare.json) |
 | Fazbear Nights | 315372 | [315372-fazbear-nights.json](./315372-fazbear-nights.json) |
+| Fazbear Nights 2: Quaesitor Mortis | 315373 | [315373-fazbear-nights-2-quaesitor-mortis.json](./315373-fazbear-nights-2-quaesitor-mortis.json) |
 | Fazbear's Shootout | 241837 | [241837-fazbears-shootout.json](./241837-fazbears-shootout.json) |
 | FBC: Firebreak | 320144 | [320144-fbc-firebreak.json](./320144-fbc-firebreak.json) |
 | FBC: Firebreak - Breakpoint | 371013 | [371013-fbc-firebreak-breakpoint.json](./371013-fbc-firebreak-breakpoint.json) |
@@ -6183,6 +6186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem 8R | 380529 | [380529-fire-emblem-8r.json](./380529-fire-emblem-8r.json) |
 | Fire Emblem Advance: Homecoming | 413928 | [413928-fire-emblem-advance-homecoming.json](./413928-fire-emblem-advance-homecoming.json) |
 | Fire Emblem Echoes: Shadows of Valentia | 26840 | [26840-fire-emblem-echoes-shadows-of-valentia.json](./26840-fire-emblem-echoes-shadows-of-valentia.json) |
+| Fire Emblem Echoes: Shadows of Valentia - DLC Pack 4: Rise of the Deliverance Set | 312928 | [312928-fire-emblem-echoes-shadows-of-valentia-dlc-pack-4-rise-of-the-deliverance-set.json](./312928-fire-emblem-echoes-shadows-of-valentia-dlc-pack-4-rise-of-the-deliverance-set.json) |
 | Fire Emblem Echoes: Shadows of Valentia - Limited Edition | 136336 | [136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json](./136336-fire-emblem-echoes-shadows-of-valentia-limited-edition.json) |
 | Fire Emblem Engage Bundle | 278003 | [278003-fire-emblem-engage-bundle.json](./278003-fire-emblem-engage-bundle.json) |
 | Fire Emblem Engage: Divine Edition | 217629 | [217629-fire-emblem-engage-divine-edition.json](./217629-fire-emblem-engage-divine-edition.json) |
@@ -6191,6 +6195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Fates: Before Awakening | 345241 | [345241-fire-emblem-fates-before-awakening.json](./345241-fire-emblem-fates-before-awakening.json) |
 | Fire Emblem Fates: Birthright | 24220 | [24220-fire-emblem-fates-birthright.json](./24220-fire-emblem-fates-birthright.json) |
 | Fire Emblem Fates: Conquest | 21863 | [21863-fire-emblem-fates-conquest.json](./21863-fire-emblem-fates-conquest.json) |
+| Fire Emblem Fates: Map Pack 2 | 312927 | [312927-fire-emblem-fates-map-pack-2.json](./312927-fire-emblem-fates-map-pack-2.json) |
 | Fire Emblem Fates: Revelation | 18038 | [18038-fire-emblem-fates-revelation.json](./18038-fire-emblem-fates-revelation.json) |
 | Fire Emblem Fates: Revelation - Heirs of Fate | 345240 | [345240-fire-emblem-fates-revelation-heirs-of-fate.json](./345240-fire-emblem-fates-revelation-heirs-of-fate.json) |
 | Fire Emblem Fates: Shadow Dragon | 287485 | [287485-fire-emblem-fates-shadow-dragon.json](./287485-fire-emblem-fates-shadow-dragon.json) |
@@ -6811,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Face | 353895 | [353895-fish-face.json](./353895-fish-face.json) |
 | Fish Face | 62540 | [62540-fish-face.json](./62540-fish-face.json) |
 | Fish Farm 3 | 360097 | [360097-fish-farm-3.json](./360097-fish-farm-3.json) |
+| Fish Fear Me | 315188 | [315188-fish-fear-me.json](./315188-fish-fear-me.json) |
 | Fish Feast | 157853 | [157853-fish-feast.json](./157853-fish-feast.json) |
 | Fish Fight! | 332998 | [332998-fish-fight.json](./332998-fish-fight.json) |
 | Fish Fighter | 277422 | [277422-fish-fighter.json](./277422-fish-fighter.json) |
@@ -8565,6 +8571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flippy Bottle Extreme 2! | 340996 | [340996-flippy-bottle-extreme-2.json](./340996-flippy-bottle-extreme-2.json) |
 | Flippy Bottle Extreme! | 98790 | [98790-flippy-bottle-extreme.json](./98790-flippy-bottle-extreme.json) |
 | Flippy Hills | 107666 | [107666-flippy-hills.json](./107666-flippy-hills.json) |
+| Flippy Jump | 314690 | [314690-flippy-jump.json](./314690-flippy-jump.json) |
 | Flippy Knife | 91216 | [91216-flippy-knife.json](./91216-flippy-knife.json) |
 | Flippy the Spider | 415342 | [415342-flippy-the-spider.json](./415342-flippy-the-spider.json) |
 | Flippy Uncle | 58436 | [58436-flippy-uncle.json](./58436-flippy-uncle.json) |
@@ -12667,6 +12674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FrenVania | 143047 | [143047-frenvania.json](./143047-frenvania.json) |
 | Frenzic | 66739 | [66739-frenzic.json](./66739-frenzic.json) |
 | Frenzic: Overtime | 152926 | [152926-frenzic-overtime.json](./152926-frenzic-overtime.json) |
+| Frenzies | 313589 | [313589-frenzies.json](./313589-frenzies.json) |
 | Frenzy | 13717 | [13717-frenzy.json](./13717-frenzy.json) |
 | Frenzy | 220026 | [220026-frenzy.json](./220026-frenzy.json) |
 | Frenzy Blood | 287183 | [287183-frenzy-blood.json](./287183-frenzy-blood.json) |
@@ -13142,6 +13150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Up! | 400664 | [400664-frog-up.json](./400664-frog-up.json) |
 | Frog vs Mural Girl 2: The Back Layer | 409762 | [409762-frog-vs-mural-girl-2-the-back-layer.json](./409762-frog-vs-mural-girl-2-the-back-layer.json) |
 | Frog Wizard Gem Quest | 228993 | [228993-frog-wizard-gem-quest.json](./228993-frog-wizard-gem-quest.json) |
+| Frog World | 313518 | [313518-frog-world.json](./313518-frog-world.json) |
 | Frog X Bird | 55642 | [55642-frog-x-bird.json](./55642-frog-x-bird.json) |
 | Frog Yyes | 407633 | [407633-frog-yyes.json](./407633-frog-yyes.json) |
 | Frog! | 246187 | [246187-frog.json](./246187-frog.json) |
