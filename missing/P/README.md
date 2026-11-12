@@ -4558,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pépito Returned Home | 269770 | [269770-pepito-returned-home.json](./269770-pepito-returned-home.json) |
 | Pepo | 171047 | [171047-pepo.json](./171047-pepo.json) |
 | Peppa Pig: Fun and Games | 20318 | [20318-peppa-pig-fun-and-games.json](./20318-peppa-pig-fun-and-games.json) |
+| Peppa Pig: Fun and Games | 308699 | [308699-peppa-pig-fun-and-games.json](./308699-peppa-pig-fun-and-games.json) |
 | Peppa Pig: Laptop Infantil | 297771 | [297771-peppa-pig-laptop-infantil.json](./297771-peppa-pig-laptop-infantil.json) |
 | Peppa Pig: Read and Play with Peppa | 274683 | [274683-peppa-pig-read-and-play-with-peppa.json](./274683-peppa-pig-read-and-play-with-peppa.json) |
 | Peppa Pig: Seasons | 86879 | [86879-peppa-pig-seasons.json](./86879-peppa-pig-seasons.json) |
@@ -13201,6 +13202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong & Teddy | 97212 | [97212-pong-and-teddy.json](./97212-pong-and-teddy.json) |
 | Pong 3D | 94498 | [94498-pong-3d.json](./94498-pong-3d.json) |
 | Pong Champion VR | 31944 | [31944-pong-champion-vr.json](./31944-pong-champion-vr.json) |
+| Pong Consoles Simulation | 309228 | [309228-pong-consoles-simulation.json](./309228-pong-consoles-simulation.json) |
 | Pong de las Tortugas Ninja | 195513 | [195513-pong-de-las-tortugas-ninja.json](./195513-pong-de-las-tortugas-ninja.json) |
 | Pong Doubles | 18154 | [18154-pong-doubles.json](./18154-pong-doubles.json) |
 | Pong for VideoPac and Odyssey 2! | 64118 | [64118-pong-for-videopac-and-odyssey-2.json](./64118-pong-for-videopac-and-odyssey-2.json) |
@@ -17926,6 +17928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proximity Shift | 283795 | [283795-proximity-shift.json](./283795-proximity-shift.json) |
 | ProximityMines: Minesweeper Modernized | 95531 | [95531-proximitymines-minesweeper-modernized.json](./95531-proximitymines-minesweeper-modernized.json) |
 | Proxy Adventure: Simulation Room | 346748 | [346748-proxy-adventure-simulation-room.json](./346748-proxy-adventure-simulation-room.json) |
+| Proxy Adventure: Small Test | 308676 | [308676-proxy-adventure-small-test.json](./308676-proxy-adventure-small-test.json) |
 | Proxy Air Force | 133108 | [133108-proxy-air-force.json](./133108-proxy-air-force.json) |
 | Proxy Blade | 62825 | [62825-proxy-blade.json](./62825-proxy-blade.json) |
 | Proxy Blade Zero | 17644 | [17644-proxy-blade-zero.json](./17644-proxy-blade-zero.json) |
