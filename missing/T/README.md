@@ -7622,6 +7622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cells | 110998 | [110998-the-cells.json](./110998-the-cells.json) |
 | The Cemetery Shift | 386536 | [386536-the-cemetery-shift.json](./386536-the-cemetery-shift.json) |
 | The Cenozoic Era | 231303 | [231303-the-cenozoic-era.json](./231303-the-cenozoic-era.json) |
+| The Censor | 303401 | [303401-the-censor.json](./303401-the-censor.json) |
 | The Centennial Case | 250435 | [250435-the-centennial-case.json](./250435-the-centennial-case.json) |
 | The Cerberus Project | 41932 | [41932-the-cerberus-project.json](./41932-the-cerberus-project.json) |
 | The Cerpan Project | 273397 | [273397-the-cerpan-project.json](./273397-the-cerpan-project.json) |
@@ -16907,6 +16908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ruins of the Lost Kingdom: Chronicle | 77960 | [77960-the-ruins-of-the-lost-kingdom-chronicle.json](./77960-the-ruins-of-the-lost-kingdom-chronicle.json) |
 | The Ruins: VR Escape the Room | 29480 | [29480-the-ruins-vr-escape-the-room.json](./29480-the-ruins-vr-escape-the-room.json) |
 | The Rule of Land: Pioneers | 130112 | [130112-the-rule-of-land-pioneers.json](./130112-the-rule-of-land-pioneers.json) |
+| The Rule of She | 303841 | [303841-the-rule-of-she.json](./303841-the-rule-of-she.json) |
 | The Rules | 224762 | [224762-the-rules.json](./224762-the-rules.json) |
 | The Rumble Fish | 226310 | [226310-the-rumble-fish.json](./226310-the-rumble-fish.json) |
 | The Rumble Fish | 39435 | [39435-the-rumble-fish.json](./39435-the-rumble-fish.json) |
@@ -25340,6 +25342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tippy's Quest | 379314 | [379314-tippys-quest.json](./379314-tippys-quest.json) |
 | Tipston Salvage | 184482 | [184482-tipston-salvage.json](./184482-tipston-salvage.json) |
 | Tipsy Rescue | 288592 | [288592-tipsy-rescue.json](./288592-tipsy-rescue.json) |
+| Tipsy Woods | 303839 | [303839-tipsy-woods.json](./303839-tipsy-woods.json) |
 | TipTop | 136413 | [136413-tiptop.json](./136413-tiptop.json) |
 | TiQal | 21354 | [21354-tiqal.json](./21354-tiqal.json) |
 | Tir et But: Edition Champions du Monde | 130778 | [130778-tir-et-but-edition-champions-du-monde.json](./130778-tir-et-but-edition-champions-du-monde.json) |
@@ -33086,6 +33089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trikumax Arena | 335754 | [335754-trikumax-arena.json](./335754-trikumax-arena.json) |
 | Trilby: The Art of Theft | 72890 | [72890-trilby-the-art-of-theft.json](./72890-trilby-the-art-of-theft.json) |
 | Trilby's Notes | 72443 | [72443-trilbys-notes.json](./72443-trilbys-notes.json) |
+| Trilingual | 303842 | [303842-trilingual.json](./303842-trilingual.json) |
 | Trillenium | 295153 | [295153-trillenium.json](./295153-trillenium.json) |
 | Trillion: God of Destruction | 19445 | [19445-trillion-god-of-destruction.json](./19445-trillion-god-of-destruction.json) |
 | Trillionaire Mercenaries of 21XX | 427250 | [427250-trillionaire-mercenaries-of-21xx.json](./427250-trillionaire-mercenaries-of-21xx.json) |
@@ -34051,6 +34055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrumpGate | 232340 | [232340-trumpgate.json](./232340-trumpgate.json) |
 | TrumPiñata | 32295 | [32295-trumpinata.json](./32295-trumpinata.json) |
 | Trumpy Wall | 106457 | [106457-trumpy-wall.json](./106457-trumpy-wall.json) |
+| Truncheon Titties | 303831 | [303831-truncheon-titties.json](./303831-truncheon-titties.json) |
 | Trundle | 93599 | [93599-trundle.json](./93599-trundle.json) |
 | Trunkey's Amazing Odyssey | 369467 | [369467-trunkeys-amazing-odyssey.json](./369467-trunkeys-amazing-odyssey.json) |
 | Trupe do Sapinho | 278247 | [278247-trupe-do-sapinho.json](./278247-trupe-do-sapinho.json) |
