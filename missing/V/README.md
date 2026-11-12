@@ -4434,6 +4434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRange | 110491 | [110491-vrange.json](./110491-vrange.json) |
 | Vranygrai | 235766 | [235766-vranygrai.json](./235766-vranygrai.json) |
 | VRC Pro | 36141 | [36141-vrc-pro.json](./36141-vrc-pro.json) |
+| VRC Pro: Bashing & Crawling Car & Track Pack | 274612 | [274612-vrc-pro-bashing-and-crawling-car-and-track-pack.json](./274612-vrc-pro-bashing-and-crawling-car-and-track-pack.json) |
 | VRC Pro: Deluxe Americas On-Road Tracks | 161763 | [161763-vrc-pro-deluxe-americas-on-road-tracks.json](./161763-vrc-pro-deluxe-americas-on-road-tracks.json) |
 | VRC Pro: Deluxe Asia On-Road Tracks | 161764 | [161764-vrc-pro-deluxe-asia-on-road-tracks.json](./161764-vrc-pro-deluxe-asia-on-road-tracks.json) |
 | VRC Pro: Deluxe Asia On-Road Tracks 2 | 161772 | [161772-vrc-pro-deluxe-asia-on-road-tracks-2.json](./161772-vrc-pro-deluxe-asia-on-road-tracks-2.json) |
@@ -4445,12 +4446,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRC Pro: Deluxe Off-Road Tracks 2 | 161762 | [161762-vrc-pro-deluxe-off-road-tracks-2.json](./161762-vrc-pro-deluxe-off-road-tracks-2.json) |
 | VRC Pro: Deluxe Off-Road Tracks 3 | 161766 | [161766-vrc-pro-deluxe-off-road-tracks-3.json](./161766-vrc-pro-deluxe-off-road-tracks-3.json) |
 | VRC Pro: Deluxe Off-Road Tracks 4 | 161765 | [161765-vrc-pro-deluxe-off-road-tracks-4.json](./161765-vrc-pro-deluxe-off-road-tracks-4.json) |
+| VRC Pro: Dirt Pack 3 | 274613 | [274613-vrc-pro-dirt-pack-3.json](./274613-vrc-pro-dirt-pack-3.json) |
 | VRC Pro: GT3 Chassis and Components | 162250 | [162250-vrc-pro-gt3-chassis-and-components.json](./162250-vrc-pro-gt3-chassis-and-components.json) |
 | VRC Pro: International Oval On-Road Tracks Deluxe | 158416 | [158416-vrc-pro-international-oval-on-road-tracks-deluxe.json](./158416-vrc-pro-international-oval-on-road-tracks-deluxe.json) |
 | VRC Pro: Off-Road Track - Barco, Italy | 161769 | [161769-vrc-pro-off-road-track-barco-italy.json](./161769-vrc-pro-off-road-track-barco-italy.json) |
 | VRC Pro: Off-Road Track - Buggyland Fuencarral, Spain | 161770 | [161770-vrc-pro-off-road-track-buggyland-fuencarral-spain.json](./161770-vrc-pro-off-road-track-buggyland-fuencarral-spain.json) |
 | VRC Pro: Rally-X | 162251 | [162251-vrc-pro-rally-x.json](./162251-vrc-pro-rally-x.json) |
 | VRC Pro: Track Pack - Melzo Oval, Italy | 161761 | [161761-vrc-pro-track-pack-melzo-oval-italy.json](./161761-vrc-pro-track-pack-melzo-oval-italy.json) |
+| VRC Pro: Welkom Arena 2018 Worlds Track Pack 2 | 274615 | [274615-vrc-pro-welkom-arena-2018-worlds-track-pack-2.json](./274615-vrc-pro-welkom-arena-2018-worlds-track-pack-2.json) |
+| VRC Pro: Welkom Arena Lay-out 3-4-5-6 Track Pack 4 | 274614 | [274614-vrc-pro-welkom-arena-lay-out-3-4-5-6-track-pack-4.json](./274614-vrc-pro-welkom-arena-lay-out-3-4-5-6-track-pack-4.json) |
+| VRC Pro: Xtreme Oval Track Pack 3 | 274616 | [274616-vrc-pro-xtreme-oval-track-pack-3.json](./274616-vrc-pro-xtreme-oval-track-pack-3.json) |
 | VRchaeology: Prologue | 30697 | [30697-vrchaeology-prologue.json](./30697-vrchaeology-prologue.json) |
 | VRChat | 33615 | [33615-vrchat.json](./33615-vrchat.json) |
 | VRcher | 137462 | [137462-vrcher.json](./137462-vrcher.json) |
