@@ -3537,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Admirals of Ophiuchus | 379559 | [379559-admirals-of-ophiuchus.json](./379559-admirals-of-ophiuchus.json) |
 | Adohiinage | 345439 | [345439-adohiinage.json](./345439-adohiinage.json) |
 | Adolescent Santa Claus | 103592 | [103592-adolescent-santa-claus.json](./103592-adolescent-santa-claus.json) |
+| Adolf | 293299 | [293299-adolf.json](./293299-adolf.json) |
 | Adolf Hitler RPG: Last Minutes of the Millennium Empire | 256060 | [256060-adolf-hitler-rpg-last-minutes-of-the-millennium-empire.json](./256060-adolf-hitler-rpg-last-minutes-of-the-millennium-empire.json) |
 | Adolfish | 185014 | [185014-adolfish.json](./185014-adolfish.json) |
 | ADOM II | 138068 | [138068-adom-ii.json](./138068-adom-ii.json) |
@@ -7601,8 +7602,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter 3D | 152770 | [152770-alien-shooter-3d.json](./152770-alien-shooter-3d.json) |
 | Alien Shooter in Space Cradle: Virtual Reality | 120576 | [120576-alien-shooter-in-space-cradle-virtual-reality.json](./120576-alien-shooter-in-space-cradle-virtual-reality.json) |
 | Alien Shooter TD | 26812 | [26812-alien-shooter-td.json](./26812-alien-shooter-td.json) |
+| Alien Shooter World | 293262 | [293262-alien-shooter-world.json](./293262-alien-shooter-world.json) |
 | Alien Shooter: Fight for Life | 11089 | [11089-alien-shooter-fight-for-life.json](./11089-alien-shooter-fight-for-life.json) |
 | Alien Shooter: Last Hope | 143861 | [143861-alien-shooter-last-hope.json](./143861-alien-shooter-last-hope.json) |
+| Alien Shooter: Lost City | 293263 | [293263-alien-shooter-lost-city.json](./293263-alien-shooter-lost-city.json) |
 | Alien Shooter: Revisited | 16016 | [16016-alien-shooter-revisited.json](./16016-alien-shooter-revisited.json) |
 | Alien Shooter: Revisted | 50844 | [50844-alien-shooter-revisted.json](./50844-alien-shooter-revisted.json) |
 | Alien Shooter: The Beginning | 105436 | [105436-alien-shooter-the-beginning.json](./105436-alien-shooter-the-beginning.json) |
@@ -14741,6 +14744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argus | 46762 | [46762-argus.json](./46762-argus.json) |
 | Argus DX | 361326 | [361326-argus-dx.json](./361326-argus-dx.json) |
 | Argus Panoptes | 169122 | [169122-argus-panoptes.json](./169122-argus-panoptes.json) |
+| Argus: Urban Legend | 293278 | [293278-argus-urban-legend.json](./293278-argus-urban-legend.json) |
 | Argy Bargy | 135755 | [135755-argy-bargy.json](./135755-argy-bargy.json) |
 | Argy Bargy Legends | 167473 | [167473-argy-bargy-legends.json](./167473-argy-bargy-legends.json) |
 | Argyle Manor, Book 1: Away From The Sun | 291713 | [291713-argyle-manor-book-1-away-from-the-sun.json](./291713-argyle-manor-book-1-away-from-the-sun.json) |
