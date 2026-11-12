@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X4: Hyperion Pack | 413188 | [413188-x4-hyperion-pack.json](./413188-x4-hyperion-pack.json) |
 | X4: Kingdom End | 230806 | [230806-x4-kingdom-end.json](./230806-x4-kingdom-end.json) |
 | X4: Split Vendetta | 124814 | [124814-x4-split-vendetta.json](./124814-x4-split-vendetta.json) |
+| X4: Timelines | 282202 | [282202-x4-timelines.json](./282202-x4-timelines.json) |
 | X8 | 220724 | [220724-x8.json](./220724-x8.json) |
 | X8: Fallen Angel DLC | 302590 | [302590-x8-fallen-angel-dlc.json](./302590-x8-fallen-angel-dlc.json) |
 | X8: Japan Only Version | 277508 | [277508-x8-japan-only-version.json](./277508-x8-japan-only-version.json) |
@@ -691,6 +692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenomorph | 231999 | [231999-xenomorph.json](./231999-xenomorph.json) |
 | Xenomorph | 83494 | [83494-xenomorph.json](./83494-xenomorph.json) |
 | Xenomorph Base | 257154 | [257154-xenomorph-base.json](./257154-xenomorph-base.json) |
+| Xenomycology | 282200 | [282200-xenomycology.json](./282200-xenomycology.json) |
 | Xenon 2: Megablast | 12236 | [12236-xenon-2-megablast.json](./12236-xenon-2-megablast.json) |
 | Xenon 2: Megablast | 370487 | [370487-xenon-2-megablast.json](./370487-xenon-2-megablast.json) |
 | Xenon 2000 - Project PCF | 69771 | [69771-xenon-2000-project-pcf.json](./69771-xenon-2000-project-pcf.json) |
