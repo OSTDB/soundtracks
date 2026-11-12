@@ -3369,6 +3369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Twelve | 28801 | [28801-fatal-twelve.json](./28801-fatal-twelve.json) |
 | Fatal Twelve: Complete Collection | 154617 | [154617-fatal-twelve-complete-collection.json](./154617-fatal-twelve-complete-collection.json) |
 | Fatal Velocity: Physics Combat | 74439 | [74439-fatal-velocity-physics-combat.json](./74439-fatal-velocity-physics-combat.json) |
+| Fatal Yandere Love Triangle | 299069 | [299069-fatal-yandere-love-triangle.json](./299069-fatal-yandere-love-triangle.json) |
 | Fatal Zero Action | 50461 | [50461-fatal-zero-action.json](./50461-fatal-zero-action.json) |
 | Fatal: Unleashed Darkness | 348261 | [348261-fatal-unleashed-darkness.json](./348261-fatal-unleashed-darkness.json) |
 | Fatale | 15989 | [15989-fatale.json](./15989-fatale.json) |
@@ -14492,6 +14493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Bubble | 40130 | [40130-funny-bubble.json](./40130-funny-bubble.json) |
 | Funny Bunny Gun | 216639 | [216639-funny-bunny-gun.json](./216639-funny-bunny-gun.json) |
 | Funny Bunny: Adventures | 117349 | [117349-funny-bunny-adventures.json](./117349-funny-bunny-adventures.json) |
+| Funny Business | 299073 | [299073-funny-business.json](./299073-funny-business.json) |
 | Funny Car Wash | 222055 | [222055-funny-car-wash.json](./222055-funny-car-wash.json) |
 | Funny Card | 193495 | [193495-funny-card.json](./193495-funny-card.json) |
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
