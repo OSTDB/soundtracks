@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YAS: Yet Another Shooter | 219373 | [219373-yas-yet-another-shooter.json](./219373-yas-yet-another-shooter.json) |
 | Yasa Pets School | 107553 | [107553-yasa-pets-school.json](./107553-yasa-pets-school.json) |
 | Yasa Pets Village | 97048 | [97048-yasa-pets-village.json](./97048-yasa-pets-village.json) |
+| Yasai Game | 294895 | [294895-yasai-game.json](./294895-yasai-game.json) |
 | Yasai Ninja | 21861 | [21861-yasai-ninja.json](./21861-yasai-ninja.json) |
 | Yasashii Ori no Naka de | 388145 | [388145-yasashii-ori-no-naka-de.json](./388145-yasashii-ori-no-naka-de.json) |
 | Yasashii Tamagotchi | 229845 | [229845-yasashii-tamagotchi.json](./229845-yasashii-tamagotchi.json) |
