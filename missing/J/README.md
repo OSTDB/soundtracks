@@ -208,6 +208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Sprite vs. The Crimson Ghost | 45923 | [45923-jack-sprite-vs-the-crimson-ghost.json](./45923-jack-sprite-vs-the-crimson-ghost.json) |
 | Jack Sprout | 157485 | [157485-jack-sprout.json](./157485-jack-sprout.json) |
 | Jack Street | 333308 | [333308-jack-street.json](./333308-jack-street.json) |
+| Jack Styler | 292194 | [292194-jack-styler.json](./292194-jack-styler.json) |
 | Jack the Barbarian | 100713 | [100713-jack-the-barbarian.json](./100713-jack-the-barbarian.json) |
 | Jack The Giantkiller | 39372 | [39372-jack-the-giantkiller.json](./39372-jack-the-giantkiller.json) |
 | Jack the Knight Adventures 2 | 243733 | [243733-jack-the-knight-adventures-2.json](./243733-jack-the-knight-adventures-2.json) |
@@ -2633,6 +2634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Boy: Red Moon's Kiss | 188651 | [188651-johnny-boy-red-moons-kiss.json](./188651-johnny-boy-red-moons-kiss.json) |
 | Johnny Bravo in the Cherub Challenge | 241137 | [241137-johnny-bravo-in-the-cherub-challenge.json](./241137-johnny-bravo-in-the-cherub-challenge.json) |
 | Johnny Bravo in The Hukka-Mega-Mighty-Ultra-Extreme Date-O-Rama! | 3248 | [3248-johnny-bravo-in-the-hukka-mega-mighty-ultra-extreme-date-o-rama.json](./3248-johnny-bravo-in-the-hukka-mega-mighty-ultra-extreme-date-o-rama.json) |
+| Johnny Bravo: Big Babe Adventure | 289486 | [289486-johnny-bravo-big-babe-adventure.json](./289486-johnny-bravo-big-babe-adventure.json) |
 | Johnny Chainsaw | 154466 | [154466-johnny-chainsaw.json](./154466-johnny-chainsaw.json) |
 | Johnny Doom | 336191 | [336191-johnny-doom.json](./336191-johnny-doom.json) |
 | Johnny Dynamite | 85212 | [85212-johnny-dynamite.json](./85212-johnny-dynamite.json) |
