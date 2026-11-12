@@ -6765,7 +6765,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert.Data: Slowly Fading into Data | 207791 | [207791-albert-data-slowly-fading-into-data.json](./207791-albert-data-slowly-fading-into-data.json) |
 | Albert's Ark Idle | 312680 | [312680-alberts-ark-idle.json](./312680-alberts-ark-idle.json) |
 | Albert's Journey | 219659 | [219659-alberts-journey.json](./219659-alberts-journey.json) |
-| Albino Lullaby: Episode 1 | 19019 | [19019-albino-lullaby-episode-1.json](./19019-albino-lullaby-episode-1.json) |
 | Albino Lullaby: Episode 3 | 238615 | [238615-albino-lullaby-episode-3.json](./238615-albino-lullaby-episode-3.json) |
 | Albion | 2419 | [2419-albion.json](./2419-albion.json) |
 | Albion Online: Beyond the Veil | 227616 | [227616-albion-online-beyond-the-veil.json](./227616-albion-online-beyond-the-veil.json) |
@@ -15443,6 +15442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around the World Mosaics II | 296812 | [296812-around-the-world-mosaics-ii.json](./296812-around-the-world-mosaics-ii.json) |
 | Around the World Puzzle | 362184 | [362184-around-the-world-puzzle.json](./362184-around-the-world-puzzle.json) |
 | Around the World: Travel to Brazil | 269287 | [269287-around-the-world-travel-to-brazil.json](./269287-around-the-world-travel-to-brazil.json) |
+| Around The World: Travel To Canada - Collector's Edition | 315947 | [315947-around-the-world-travel-to-canada-collectors-edition.json](./315947-around-the-world-travel-to-canada-collectors-edition.json) |
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
 | Around us: Zombie shooter | 266933 | [266933-around-us-zombie-shooter.json](./266933-around-us-zombie-shooter.json) |
 | Aroya Knight | 389681 | [389681-aroya-knight.json](./389681-aroya-knight.json) |
