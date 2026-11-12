@@ -11675,6 +11675,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disquiet Fields | 157676 | [157676-disquiet-fields.json](./157676-disquiet-fields.json) |
 | Disquieted | 397663 | [397663-disquieted.json](./397663-disquieted.json) |
 | Disrepair | 256151 | [256151-disrepair.json](./256151-disrepair.json) |
+| Disrepair | 265991 | [265991-disrepair.json](./265991-disrepair.json) |
+| Disrepair 2 | 265994 | [265994-disrepair-2.json](./265994-disrepair-2.json) |
 | Disrtust and Goliath Premium Survival Bundle | 301566 | [301566-disrtust-and-goliath-premium-survival-bundle.json](./301566-disrtust-and-goliath-premium-survival-bundle.json) |
 | Disrupt | 415226 | [415226-disrupt.json](./415226-disrupt.json) |
 | Disrupt | 9923 | [9923-disrupt.json](./9923-disrupt.json) |
@@ -18704,6 +18706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Pico Series: Sanrio no Party Heikou! Oryouri - Oshare - Okaimono | 255351 | [255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json](./255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json) |
 | DS Pico Series: Sanrio Puroland - Waku-waku Okaimono - Suteki na Oheya Otsukurimasho | 255352 | [255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json](./255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json) |
 | DS Puzzler: Nanpure Fan & Oekaki Logic - Wi-Fi Taiou | 269709 | [269709-ds-puzzler-nanpure-fan-and-oekaki-logic-wi-fi-taiou.json](./269709-ds-puzzler-nanpure-fan-and-oekaki-logic-wi-fi-taiou.json) |
+| DS Uranai Seikatsu | 265904 | [265904-ds-uranai-seikatsu.json](./265904-ds-uranai-seikatsu.json) |
 | DS Yamamura Misa Suspense: Maiko Kogiku / Kisha Katherine / Sougiya Ishihara Akiko / Koto ni Mauhana Sanrin - Kyoto Satujin Jiken File | 269575 | [269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json](./269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json) |
 | DS Yukemuri Suspense Series: Free Writer Tachibana Maki - "Touyako, Nanatsu no Yu, Okuyu no Sato" Shuzai Techou | 124517 | [124517-ds-yukemuri-suspense-series-free-writer-tachibana-maki-touyako-nanatsu-no-yu-okuyu-no-sato-shuzai-techou.json](./124517-ds-yukemuri-suspense-series-free-writer-tachibana-maki-touyako-nanatsu-no-yu-okuyu-no-sato-shuzai-techou.json) |
 | DsDooM3 | 314899 | [314899-dsdoom3.json](./314899-dsdoom3.json) |
