@@ -2298,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou City | 268524 | [268524-mahou-city.json](./268524-mahou-city.json) |
 | Mahou Kishi Rayearth 2nd: The Missing Colors | 105046 | [105046-mahou-kishi-rayearth-2nd-the-missing-colors.json](./105046-mahou-kishi-rayearth-2nd-the-missing-colors.json) |
 | Mahou Mating | 128014 | [128014-mahou-mating.json](./128014-mahou-mating.json) |
+| Mahou no Kuni no Cake-ya-san Monogatari | 287265 | [287265-mahou-no-kuni-no-cake-ya-san-monogatari.json](./287265-mahou-no-kuni-no-cake-ya-san-monogatari.json) |
 | Mahou no Palette | 77765 | [77765-mahou-no-palette.json](./77765-mahou-no-palette.json) |
 | Mahou no Princess Minky Momo Fantastic World | 126117 | [126117-mahou-no-princess-minky-momo-fantastic-world.json](./126117-mahou-no-princess-minky-momo-fantastic-world.json) |
 | Mahou no Princess Minky Momo: Remember Dream | 61432 | [61432-mahou-no-princess-minky-momo-remember-dream.json](./61432-mahou-no-princess-minky-momo-remember-dream.json) |
@@ -6102,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Puzzles Brain Teasers 2018 | 104124 | [104124-math-puzzles-brain-teasers-2018.json](./104124-math-puzzles-brain-teasers-2018.json) |
 | Math Puzzles PRO | 105958 | [105958-math-puzzles-pro.json](./105958-math-puzzles-pro.json) |
 | Math Quest VR : The Search for the Crown of Calculation | 339302 | [339302-math-quest-vr-the-search-for-the-crown-of-calculation.json](./339302-math-quest-vr-the-search-for-the-crown-of-calculation.json) |
+| Math Quiz | 287256 | [287256-math-quiz.json](./287256-math-quiz.json) |
 | Math Rabbit: Deluxe! | 73669 | [73669-math-rabbit-deluxe.json](./73669-math-rabbit-deluxe.json) |
 | Math Race | 98722 | [98722-math-race.json](./98722-math-race.json) |
 | Math Rescue | 35548 | [35548-math-rescue.json](./35548-math-rescue.json) |
@@ -11182,6 +11184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meyouw | 334944 | [334944-meyouw.json](./334944-meyouw.json) |
 | Meyow | 388151 | [388151-meyow.json](./388151-meyow.json) |
 | Mezanine | 418420 | [418420-mezanine.json](./418420-mezanine.json) |
+| Mezase Debut! Fashion Designer Monogatari | 287259 | [287259-mezase-debut-fashion-designer-monogatari.json](./287259-mezase-debut-fashion-designer-monogatari.json) |
 | Mezase Pachi Pro: Pachio-kun | 48776 | [48776-mezase-pachi-pro-pachio-kun.json](./48776-mezase-pachi-pro-pachio-kun.json) |
 | Mezase! Kanji Ou | 43962 | [43962-mezase-kanji-ou.json](./43962-mezase-kanji-ou.json) |
 | Mezase! Koushien | 49688 | [49688-mezase-koushien.json](./49688-mezase-koushien.json) |
@@ -18553,6 +18556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Blitz | 50747 | [50747-mortal-blitz.json](./50747-mortal-blitz.json) |
 | Mortal Blitz: Combat Arena | 218536 | [218536-mortal-blitz-combat-arena.json](./218536-mortal-blitz-combat-arena.json) |
 | Mortal box | 84057 | [84057-mortal-box.json](./84057-mortal-box.json) |
+| Mortal Cards | 287366 | [287366-mortal-cards.json](./287366-mortal-cards.json) |
 | Mortal Coil | 321942 | [321942-mortal-coil.json](./321942-mortal-coil.json) |
 | Mortal Coil: Adrenalin Intelligence | 71835 | [71835-mortal-coil-adrenalin-intelligence.json](./71835-mortal-coil-adrenalin-intelligence.json) |
 | Mortal Crusade: Sword of Knight | 146981 | [146981-mortal-crusade-sword-of-knight.json](./146981-mortal-crusade-sword-of-knight.json) |
