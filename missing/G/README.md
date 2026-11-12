@@ -4451,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GI Racing 2.0 | 32095 | [32095-gi-racing-2-0.json](./32095-gi-racing-2-0.json) |
 | Giagachan | 218132 | [218132-giagachan.json](./218132-giagachan.json) |
 | Giana Sisters | 213394 | [213394-giana-sisters.json](./213394-giana-sisters.json) |
+| Giana Sisters | 293267 | [293267-giana-sisters.json](./293267-giana-sisters.json) |
 | Giana Sisters 2 | 77690 | [77690-giana-sisters-2.json](./77690-giana-sisters-2.json) |
 | Giana Sisters 2D | 35739 | [35739-giana-sisters-2d.json](./35739-giana-sisters-2d.json) |
 | Giana Sisters DS | 298945 | [298945-giana-sisters-ds.json](./298945-giana-sisters-ds.json) |
@@ -8667,6 +8668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma's Little Store | 379046 | [379046-grandmas-little-store.json](./379046-grandmas-little-store.json) |
 | Grandma(88) | 260251 | [260251-grandma-88.json](./260251-grandma-88.json) |
 | Grandman's Unbearable Existence | 334730 | [334730-grandmans-unbearable-existence.json](./334730-grandmans-unbearable-existence.json) |
+| Grandmaster | 293285 | [293285-grandmaster.json](./293285-grandmaster.json) |
 | Grandmaster Chess | 14493 | [14493-grandmaster-chess.json](./14493-grandmaster-chess.json) |
 | Grandmaster Chess | 166075 | [166075-grandmaster-chess.json](./166075-grandmaster-chess.json) |
 | Grandmaster Chess (CD-ROM Edition) | 98911 | [98911-grandmaster-chess-cd-rom-edition.json](./98911-grandmaster-chess-cd-rom-edition.json) |
