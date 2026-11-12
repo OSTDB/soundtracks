@@ -6106,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Residential Crusaders | 285109 | [285109-residential-crusaders.json](./285109-residential-crusaders.json) |
 | Residential Evaluation | 404029 | [404029-residential-evaluation.json](./404029-residential-evaluation.json) |
 | Residentvania | 175773 | [175773-residentvania.json](./175773-residentvania.json) |
+| Residiuum: Tales of Coral | 307430 | [307430-residiuum-tales-of-coral.json](./307430-residiuum-tales-of-coral.json) |
 | Residual Christmas | 379366 | [379366-residual-christmas.json](./379366-residual-christmas.json) |
 | Residual Shift | 383901 | [383901-residual-shift.json](./383901-residual-shift.json) |
 | Residual Wilds | 387049 | [387049-residual-wilds.json](./387049-residual-wilds.json) |
@@ -9265,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robber Rideshare | 184920 | [184920-robber-rideshare.json](./184920-robber-rideshare.json) |
 | Robber Sam | 202722 | [202722-robber-sam.json](./202722-robber-sam.json) |
 | Robber's Horror | 126898 | [126898-robbers-horror.json](./126898-robbers-horror.json) |
+| Robbers in Disguise | 307433 | [307433-robbers-in-disguise.json](./307433-robbers-in-disguise.json) |
 | Robbers of the Lost Tomb | 41202 | [41202-robbers-of-the-lost-tomb.json](./41202-robbers-of-the-lost-tomb.json) |
 | Robbers Runners | 86717 | [86717-robbers-runners.json](./86717-robbers-runners.json) |
 | Robbery Bob | 19501 | [19501-robbery-bob.json](./19501-robbery-bob.json) |
@@ -9351,6 +9353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robinson's Requiem | 2511 | [2511-robinsons-requiem.json](./2511-robinsons-requiem.json) |
 | Robinson's Requiem Collection | 51871 | [51871-robinsons-requiem-collection.json](./51871-robinsons-requiem-collection.json) |
 | Robinsons Simulations World | 403974 | [403974-robinsons-simulations-world.json](./403974-robinsons-simulations-world.json) |
+| Robinsons: Play the Game with Tim Henman | 307361 | [307361-robinsons-play-the-game-with-tim-henman.json](./307361-robinsons-play-the-game-with-tim-henman.json) |
 | RobinWords | 303237 | [303237-robinwords.json](./303237-robinwords.json) |
 | Robits | 183968 | [183968-robits.json](./183968-robits.json) |
 | Roblox 64 | 245382 | [245382-roblox-64.json](./245382-roblox-64.json) |
@@ -10050,6 +10053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Crane | 251442 | [251442-rocket-crane.json](./251442-rocket-crane.json) |
 | Rocket Craze 3D | 30669 | [30669-rocket-craze-3d.json](./30669-rocket-craze-3d.json) |
 | Rocket Crowbar | 307353 | [307353-rocket-crowbar.json](./307353-rocket-crowbar.json) |
+| Rocket Crowbar: Source | 307362 | [307362-rocket-crowbar-source.json](./307362-rocket-crowbar-source.json) |
 | Rocket Dodge | 108219 | [108219-rocket-dodge.json](./108219-rocket-dodge.json) |
 | Rocket Drift | 205754 | [205754-rocket-drift.json](./205754-rocket-drift.json) |
 | Rocket Drift - Extreme gravity adventure | 25582 | [25582-rocket-drift-extreme-gravity-adventure.json](./25582-rocket-drift-extreme-gravity-adventure.json) |
