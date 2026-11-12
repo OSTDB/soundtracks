@@ -6814,6 +6814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Democracy Manifest | 410499 | [410499-democracy-manifest.json](./410499-democracy-manifest.json) |
 | Democracy: The Board Game | 232492 | [232492-democracy-the-board-game.json](./232492-democracy-the-board-game.json) |
 | Democratic Socialism Simulator | 131780 | [131780-democratic-socialism-simulator.json](./131780-democratic-socialism-simulator.json) |
+| Demolish | 311920 | [311920-demolish.json](./311920-demolish.json) |
 | Demolish & Build | 135607 | [135607-demolish-and-build.json](./135607-demolish-and-build.json) |
 | Demolish & Build 2017 | 24941 | [24941-demolish-and-build-2017.json](./24941-demolish-and-build-2017.json) |
 | Demolish & Build 2018 | 90102 | [90102-demolish-and-build-2018.json](./90102-demolish-and-build-2018.json) |
