@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -9461,6 +9462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bite Night | 303369 | [303369-bite-night.json](./303369-bite-night.json) |
 | Bite Night: Dine or Die | 373066 | [373066-bite-night-dine-or-die.json](./373066-bite-night-dine-or-die.json) |
 | Bite Nite | 215023 | [215023-bite-nite.json](./215023-bite-nite.json) |
+| Bite Size Terrors: Erobos Heaven | 250685 | [250685-bite-size-terrors-erobos-heaven.json](./250685-bite-size-terrors-erobos-heaven.json) |
 | Bite Size Terrors: Eye Candy | 272836 | [272836-bite-size-terrors-eye-candy.json](./272836-bite-size-terrors-eye-candy.json) |
 | Bite Size Terrors: GuyGuy Toys | 258664 | [258664-bite-size-terrors-guyguy-toys.json](./258664-bite-size-terrors-guyguy-toys.json) |
 | Bite Size Terrors: Reverse Blue | 258311 | [258311-bite-size-terrors-reverse-blue.json](./258311-bite-size-terrors-reverse-blue.json) |
@@ -9732,6 +9734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Eyes | 229102 | [229102-black-eyes.json](./229102-black-eyes.json) |
 | Black Fairy | 325841 | [325841-black-fairy.json](./325841-black-fairy.json) |
 | Black Fighter: Super Shadow Fight | 103887 | [103887-black-fighter-super-shadow-fight.json](./103887-black-fighter-super-shadow-fight.json) |
+| Black Finger Jet | 250684 | [250684-black-finger-jet.json](./250684-black-finger-jet.json) |
 | Black Fire | 286428 | [286428-black-fire.json](./286428-black-fire.json) |
 | Black Fire | 46087 | [46087-black-fire.json](./46087-black-fire.json) |
 | Black Fist Ninja Run Challenge | 175576 | [175576-black-fist-ninja-run-challenge.json](./175576-black-fist-ninja-run-challenge.json) |
@@ -11461,6 +11464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Survival: Legend of the Lost Islands | 37041 | [37041-block-survival-legend-of-the-lost-islands.json](./37041-block-survival-legend-of-the-lost-islands.json) |
 | Block The Monster | 272783 | [272783-block-the-monster.json](./272783-block-the-monster.json) |
 | Block Tower Online | 206414 | [206414-block-tower-online.json](./206414-block-tower-online.json) |
+| Block Tower TD | 250683 | [250683-block-tower-td.json](./250683-block-tower-td.json) |
 | Block Tower TD 2 | 309432 | [309432-block-tower-td-2.json](./309432-block-tower-td-2.json) |
 | Block Tricks | 107364 | [107364-block-tricks.json](./107364-block-tricks.json) |
 | Block Trucks Multiplayer Racing | 337655 | [337655-block-trucks-multiplayer-racing.json](./337655-block-trucks-multiplayer-racing.json) |
