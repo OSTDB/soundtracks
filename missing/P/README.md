@@ -2114,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Beach 2: Around the World | 378589 | [378589-paradise-beach-2-around-the-world.json](./378589-paradise-beach-2-around-the-world.json) |
 | Paradise Beach Girls | 202208 | [202208-paradise-beach-girls.json](./202208-paradise-beach-girls.json) |
 | Paradise Beyond the Nightmare | 368932 | [368932-paradise-beyond-the-nightmare.json](./368932-paradise-beyond-the-nightmare.json) |
+| Paradise Café | 256504 | [256504-paradise-cafe.json](./256504-paradise-cafe.json) |
 | Paradise checkers | 112946 | [112946-paradise-checkers.json](./112946-paradise-checkers.json) |
 | Paradise Checkers VR | 105098 | [105098-paradise-checkers-vr.json](./105098-paradise-checkers-vr.json) |
 | Paradise City Island Sim Town | 87148 | [87148-paradise-city-island-sim-town.json](./87148-paradise-city-island-sim-town.json) |
@@ -5036,6 +5037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 3: The Night Before | 71158 | [71158-persona-3-the-night-before.json](./71158-persona-3-the-night-before.json) |
 | Persona 4 Arena | 5650 | [5650-persona-4-arena.json](./5650-persona-4-arena.json) |
 | Persona 4 Arena Ultimax | 11445 | [11445-persona-4-arena-ultimax.json](./11445-persona-4-arena-ultimax.json) |
+| Persona 4 Arena Ultimax: P4A Story | 256501 | [256501-persona-4-arena-ultimax-p4a-story.json](./256501-persona-4-arena-ultimax-p4a-story.json) |
 | Persona 4 Arena: Ultimate Edition | 99948 | [99948-persona-4-arena-ultimate-edition.json](./99948-persona-4-arena-ultimate-edition.json) |
 | Persona 4 Colors | 242935 | [242935-persona-4-colors.json](./242935-persona-4-colors.json) |
 | Persona 4 Dancing All Night: Heaven featuring Hatsune Miku | 319167 | [319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json](./319167-persona-4-dancing-all-night-heaven-featuring-hatsune-miku.json) |
