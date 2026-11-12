@@ -18992,6 +18992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Angel | 339339 | [339339-crimson-angel.json](./339339-crimson-angel.json) |
 | Crimson Asylum | 322663 | [322663-crimson-asylum.json](./322663-crimson-asylum.json) |
 | Crimson Broadcast | 395765 | [395765-crimson-broadcast.json](./395765-crimson-broadcast.json) |
+| Crimson Canyon | 260913 | [260913-crimson-canyon.json](./260913-crimson-canyon.json) |
 | Crimson Capes | 305969 | [305969-crimson-capes.json](./305969-crimson-capes.json) |
 | Crimson Chaos | 322318 | [322318-crimson-chaos.json](./322318-crimson-chaos.json) |
 | Crimson Colosseum | 133112 | [133112-crimson-colosseum.json](./133112-crimson-colosseum.json) |
@@ -19856,6 +19857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crucible Trails: Initial Rupture | 87767 | [87767-crucible-trails-initial-rupture.json](./87767-crucible-trails-initial-rupture.json) |
 | Crucified Dreams | 260959 | [260959-crucified-dreams.json](./260959-crucified-dreams.json) |
 | Crucifier | 394410 | [394410-crucifier.json](./394410-crucifier.json) |
+| Crud | 260997 | [260997-crud.json](./260997-crud.json) |
 | Crude | 171388 | [171388-crude.json](./171388-crude.json) |
 | Crude Oil | 369093 | [369093-crude-oil.json](./369093-crude-oil.json) |
 | Crude Survivor TD | 370890 | [370890-crude-survivor-td.json](./370890-crude-survivor-td.json) |
