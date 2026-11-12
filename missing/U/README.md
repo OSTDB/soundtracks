@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unite | 168631 | [168631-unite.json](./168631-unite.json) |
 | Unite | 176154 | [176154-unite.json](./176154-unite.json) |
 | Unite Cell | 334768 | [334768-unite-cell.json](./334768-unite-cell.json) |
+| Unite the Party | 311833 | [311833-unite-the-party.json](./311833-unite-the-party.json) |
 | United 1944 | 244343 | [244343-united-1944.json](./244343-united-1944.json) |
 | United Assault: Battle of the Bulge | 195231 | [195231-united-assault-battle-of-the-bulge.json](./195231-united-assault-battle-of-the-bulge.json) |
 | United Assault: Final Stand | 334105 | [334105-united-assault-final-stand.json](./334105-united-assault-final-stand.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unou Kids: Okigaru Unou Training | 409081 | [409081-unou-kids-okigaru-unou-training.json](./409081-unou-kids-okigaru-unou-training.json) |
 | Unou no Tatsujin: Hirameki Kosodate My Angel | 124116 | [124116-unou-no-tatsujin-hirameki-kosodate-my-angel.json](./124116-unou-no-tatsujin-hirameki-kosodate-my-angel.json) |
 | Unou no Tatsujin: Machigai Sagashi Museum | 146795 | [146795-unou-no-tatsujin-machigai-sagashi-museum.json](./146795-unou-no-tatsujin-machigai-sagashi-museum.json) |
+| Unou no Tatsujin: Soukai! Machigai Museum 2 | 311380 | [311380-unou-no-tatsujin-soukai-machigai-museum-2.json](./311380-unou-no-tatsujin-soukai-machigai-museum-2.json) |
 | Unou Paradise | 289905 | [289905-unou-paradise.json](./289905-unou-paradise.json) |
 | Unou Tanren UnoTan DS: Shichida Shiki Otona no Shun Kan Training | 124115 | [124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json](./124115-unou-tanren-unotan-ds-shichida-shiki-otona-no-shun-kan-training.json) |
 | Unova Nights | 410358 | [410358-unova-nights.json](./410358-unova-nights.json) |
