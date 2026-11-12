@@ -4385,6 +4385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just English | 56829 | [56829-just-english.json](./56829-just-english.json) |
 | Just Fajitas | 108592 | [108592-just-fajitas.json](./108592-just-fajitas.json) |
 | Just Fighting | 264998 | [264998-just-fighting.json](./264998-just-fighting.json) |
+| Just Find It | 247240 | [247240-just-find-it.json](./247240-just-find-it.json) |
 | Just Find It 2 | 256340 | [256340-just-find-it-2.json](./256340-just-find-it-2.json) |
 | Just Find It 2: Collector's Edition | 292904 | [292904-just-find-it-2-collectors-edition.json](./292904-just-find-it-2-collectors-edition.json) |
 | Just Find It 3 | 264193 | [264193-just-find-it-3.json](./264193-just-find-it-3.json) |
