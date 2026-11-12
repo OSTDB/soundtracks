@@ -6415,6 +6415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Asher Asylum | 227604 | [227604-the-asher-asylum.json](./227604-the-asher-asylum.json) |
 | The Ashes of the Fallen Fires | 181132 | [181132-the-ashes-of-the-fallen-fires.json](./181132-the-ashes-of-the-fallen-fires.json) |
 | The Asmodian Princesses and the Witch in the Forest | 199088 | [199088-the-asmodian-princesses-and-the-witch-in-the-forest.json](./199088-the-asmodian-princesses-and-the-witch-in-the-forest.json) |
+| The Aspirox Case | 310862 | [310862-the-aspirox-case.json](./310862-the-aspirox-case.json) |
 | The Assailant's Arrival | 254659 | [254659-the-assailants-arrival.json](./254659-the-assailants-arrival.json) |
 | The Assassins: PD Games Volume 01 | 267643 | [267643-the-assassins-pd-games-volume-01.json](./267643-the-assassins-pd-games-volume-01.json) |
 | The Assault: Survivor | 395780 | [395780-the-assault-survivor.json](./395780-the-assault-survivor.json) |
@@ -10615,6 +10616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gate Must Stand | 370107 | [370107-the-gate-must-stand.json](./370107-the-gate-must-stand.json) |
 | The Gate of Front: Monster Auction | 405290 | [405290-the-gate-of-front-monster-auction.json](./405290-the-gate-of-front-monster-auction.json) |
 | The Gate of The Good | 250089 | [250089-the-gate-of-the-good.json](./250089-the-gate-of-the-good.json) |
+| The Gatekeeper | 311305 | [311305-the-gatekeeper.json](./311305-the-gatekeeper.json) |
 | The Gatekeeper of Scarlet's Mansion | 348237 | [348237-the-gatekeeper-of-scarlets-mansion.json](./348237-the-gatekeeper-of-scarlets-mansion.json) |
 | The Gates of Ursa | 221491 | [221491-the-gates-of-ursa.json](./221491-the-gates-of-ursa.json) |
 | The Gateway Persona | 177890 | [177890-the-gateway-persona.json](./177890-the-gateway-persona.json) |
@@ -11132,6 +11134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Guild of Thieves | 12126 | [12126-the-guild-of-thieves.json](./12126-the-guild-of-thieves.json) |
 | The Guild: Gold Edition | 29208 | [29208-the-guild-gold-edition.json](./29208-the-guild-gold-edition.json) |
 | The Guilt and the Shadow | 36145 | [36145-the-guilt-and-the-shadow.json](./36145-the-guilt-and-the-shadow.json) |
+| The Guilty Hearts | 310847 | [310847-the-guilty-hearts.json](./310847-the-guilty-hearts.json) |
 | The Gummiest Bear Challenge | 212073 | [212073-the-gummiest-bear-challenge.json](./212073-the-gummiest-bear-challenge.json) |
 | The Gun Game | 235247 | [235247-the-gun-game.json](./235247-the-gun-game.json) |
 | The Gun is Good | 254024 | [254024-the-gun-is-good.json](./254024-the-gun-is-good.json) |
@@ -11476,6 +11479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Honours Project | 368372 | [368372-the-honours-project.json](./368372-the-honours-project.json) |
 | The Hoobs | 44961 | [44961-the-hoobs.json](./44961-the-hoobs.json) |
 | The Hookmarine | 261670 | [261670-the-hookmarine.json](./261670-the-hookmarine.json) |
+| The Hope | 310839 | [310839-the-hope.json](./310839-the-hope.json) |
 | The Hopebringer | 151114 | [151114-the-hopebringer.json](./151114-the-hopebringer.json) |
 | The Hopeless Few | 389974 | [389974-the-hopeless-few.json](./389974-the-hopeless-few.json) |
 | The Horace Trilogy | 205746 | [205746-the-horace-trilogy.json](./205746-the-horace-trilogy.json) |
@@ -17084,6 +17088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search For Paradisus | 223307 | [223307-the-search-for-paradisus.json](./223307-the-search-for-paradisus.json) |
 | The Search for Salmon | 315637 | [315637-the-search-for-salmon.json](./315637-the-search-for-salmon.json) |
 | The Search For Sonic Mania 2 | 352175 | [352175-the-search-for-sonic-mania-2.json](./352175-the-search-for-sonic-mania-2.json) |
+| The Search For The Dahu | 311295 | [311295-the-search-for-the-dahu.json](./311295-the-search-for-the-dahu.json) |
 | The Search for Tikiman | 265679 | [265679-the-search-for-tikiman.json](./265679-the-search-for-tikiman.json) |
 | The Search Master: Metal Gear Solid Edition | 270390 | [270390-the-search-master-metal-gear-solid-edition.json](./270390-the-search-master-metal-gear-solid-edition.json) |
 | The Search: Lost Dreams | 251991 | [251991-the-search-lost-dreams.json](./251991-the-search-lost-dreams.json) |
@@ -18321,6 +18326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story of Archer | 195901 | [195901-the-story-of-archer.json](./195901-the-story-of-archer.json) |
 | The Story of Barker | 220815 | [220815-the-story-of-barker.json](./220815-the-story-of-barker.json) |
 | The Story of Bill Bear | 173030 | [173030-the-story-of-bill-bear.json](./173030-the-story-of-bill-bear.json) |
+| The Story Of Brewster Chipptooth | 311309 | [311309-the-story-of-brewster-chipptooth.json](./311309-the-story-of-brewster-chipptooth.json) |
 | The story of Gods | 103617 | [103617-the-story-of-gods.json](./103617-the-story-of-gods.json) |
 | The Story of Henry Bishop | 120696 | [120696-the-story-of-henry-bishop.json](./120696-the-story-of-henry-bishop.json) |
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
@@ -19246,6 +19252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trader of Stories: Chapter II | 388275 | [388275-the-trader-of-stories-chapter-ii.json](./388275-the-trader-of-stories-chapter-ii.json) |
 | The Trader of Stories: Chapter III | 388276 | [388276-the-trader-of-stories-chapter-iii.json](./388276-the-trader-of-stories-chapter-iii.json) |
 | The Trader: Good Dealer Simulator | 221157 | [221157-the-trader-good-dealer-simulator.json](./221157-the-trader-good-dealer-simulator.json) |
+| The Tragedy at Deer Creek | 310860 | [310860-the-tragedy-at-deer-creek.json](./310860-the-tragedy-at-deer-creek.json) |
 | The Tragic Tale of Bark Scruffalo | 97226 | [97226-the-tragic-tale-of-bark-scruffalo.json](./97226-the-tragic-tale-of-bark-scruffalo.json) |
 | The Trail: Frontier Challenge | 49120 | [49120-the-trail-frontier-challenge.json](./49120-the-trail-frontier-challenge.json) |
 | The Trail: Reign of Apocalypse | 335226 | [335226-the-trail-reign-of-apocalypse.json](./335226-the-trail-reign-of-apocalypse.json) |
@@ -20628,6 +20635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zombie Wave | 294259 | [294259-the-zombie-wave.json](./294259-the-zombie-wave.json) |
 | The Zombie Wave: DLC | 298705 | [298705-the-zombie-wave-dlc.json](./298705-the-zombie-wave-dlc.json) |
 | The Zombie's Horror | 156085 | [156085-the-zombies-horror.json](./156085-the-zombies-horror.json) |
+| The Zombie's House | 311303 | [311303-the-zombies-house.json](./311303-the-zombies-house.json) |
 | The Zombies Rave | 175103 | [175103-the-zombies-rave.json](./175103-the-zombies-rave.json) |
 | The Zombiest Adventures in the Perverted Age of Enlightenment With a Pinch of Woodpunk | 28909 | [28909-the-zombiest-adventures-in-the-perverted-age-of-enlightenment-with-a-pinch-of-woodpunk.json](./28909-the-zombiest-adventures-in-the-perverted-age-of-enlightenment-with-a-pinch-of-woodpunk.json) |
 | The Zombland: Enter at Your Peril | 291244 | [291244-the-zombland-enter-at-your-peril.json](./291244-the-zombland-enter-at-your-peril.json) |
@@ -33550,6 +33558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Lost Island | 394420 | [394420-tropical-lost-island.json](./394420-tropical-lost-island.json) |
 | Tropical Paradise: Town Island | 182013 | [182013-tropical-paradise-town-island.json](./182013-tropical-paradise-town-island.json) |
 | Tropical Princess - Makeup and Dressup Salon Game | 86855 | [86855-tropical-princess-makeup-and-dressup-salon-game.json](./86855-tropical-princess-makeup-and-dressup-salon-game.json) |
+| Tropical Resort Simulator | 310857 | [310857-tropical-resort-simulator.json](./310857-tropical-resort-simulator.json) |
 | Tropical Resort Story | 208026 | [208026-tropical-resort-story.json](./208026-tropical-resort-story.json) |
 | Tropical Stormfront | 9442 | [9442-tropical-stormfront.json](./9442-tropical-stormfront.json) |
 | Tropical Swaps 2 | 206082 | [206082-tropical-swaps-2.json](./206082-tropical-swaps-2.json) |
