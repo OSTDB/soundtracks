@@ -14987,6 +14987,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkanoid 4000 | 73605 | [73605-arkanoid-4000.json](./73605-arkanoid-4000.json) |
 | Arkanoid DS | 21495 | [21495-arkanoid-ds.json](./21495-arkanoid-ds.json) |
 | Arkanoid For Painters | 106337 | [106337-arkanoid-for-painters.json](./106337-arkanoid-for-painters.json) |
+| Arkanoid II | 273063 | [273063-arkanoid-ii.json](./273063-arkanoid-ii.json) |
+| Arkanoid II: Revenge of Doh | 273066 | [273066-arkanoid-ii-revenge-of-doh.json](./273066-arkanoid-ii-revenge-of-doh.json) |
 | Arkanoid Live! | 72559 | [72559-arkanoid-live.json](./72559-arkanoid-live.json) |
 | Arkanoid Plus! | 50996 | [50996-arkanoid-plus.json](./50996-arkanoid-plus.json) |
 | Arkanoid R 2000 | 43807 | [43807-arkanoid-r-2000.json](./43807-arkanoid-r-2000.json) |
