@@ -4763,6 +4763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Striker Gear | 330380 | [330380-night-striker-gear.json](./330380-night-striker-gear.json) |
 | Night Swarm | 343477 | [343477-night-swarm.json](./343477-night-swarm.json) |
 | Night Tail | 150902 | [150902-night-tail.json](./150902-night-tail.json) |
+| Night Terrors | 252436 | [252436-night-terrors.json](./252436-night-terrors.json) |
 | Night Terrors: Bloody Mary | 111439 | [111439-night-terrors-bloody-mary.json](./111439-night-terrors-bloody-mary.json) |
 | Night Thoughts | 374171 | [374171-night-thoughts.json](./374171-night-thoughts.json) |
 | Night Tide | 184323 | [184323-night-tide.json](./184323-night-tide.json) |
@@ -5537,6 +5538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
 | Ninja Girls: Reborn | 104283 | [104283-ninja-girls-reborn.json](./104283-ninja-girls-reborn.json) |
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
+| Ninja Go!! | 252426 | [252426-ninja-go.json](./252426-ninja-go.json) |
 | Ninja Goemon and Immortal Jewels | 74202 | [74202-ninja-goemon-and-immortal-jewels.json](./74202-ninja-goemon-and-immortal-jewels.json) |
 | Ninja Gold Thief | 371146 | [371146-ninja-gold-thief.json](./371146-ninja-gold-thief.json) |
 | Ninja Golf | 11121 | [11121-ninja-golf.json](./11121-ninja-golf.json) |
