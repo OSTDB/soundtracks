@@ -4766,6 +4766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Industries | 30778 | [30778-mars-industries.json](./30778-mars-industries.json) |
 | Mars Lives!! | 322612 | [322612-mars-lives.json](./322612-mars-lives.json) |
 | Mars Man | 287348 | [287348-mars-man.json](./287348-mars-man.json) |
+| Mars Mayhem: Shooter Simulator Warfare | 306751 | [306751-mars-mayhem-shooter-simulator-warfare.json](./306751-mars-mayhem-shooter-simulator-warfare.json) |
 | Mars Miner | 69537 | [69537-mars-miner.json](./69537-mars-miner.json) |
 | Mars Mirage | 341214 | [341214-mars-mirage.json](./341214-mars-mirage.json) |
 | Mars Mission | 155836 | [155836-mars-mission.json](./155836-mars-mission.json) |
@@ -6885,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazy Mini | 341275 | [341275-mazy-mini.json](./341275-mazy-mini.json) |
 | MazyMazes | 250267 | [250267-mazymazes.json](./250267-mazymazes.json) |
 | Mazzembly 1997 | 78512 | [78512-mazzembly-1997.json](./78512-mazzembly-1997.json) |
+| Mazzle | 306255 | [306255-mazzle.json](./306255-mazzle.json) |
 | Mazzle Christmas | 329040 | [329040-mazzle-christmas.json](./329040-mazzle-christmas.json) |
 | MB Bingo | 59121 | [59121-mb-bingo.json](./59121-mb-bingo.json) |
 | Mbembe Radio | 300988 | [300988-mbembe-radio.json](./300988-mbembe-radio.json) |
@@ -15434,6 +15436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mmmmmm | 207138 | [207138-mmmmmm.json](./207138-mmmmmm.json) |
 | Mmmmmm... Cake! | 107833 | [107833-mmmmmm-cake.json](./107833-mmmmmm-cake.json) |
 | Mmnana | 388644 | [388644-mmnana.json](./388644-mmnana.json) |
+| MMO Simulator | 306168 | [306168-mmo-simulator.json](./306168-mmo-simulator.json) |
 | MMO98 | 391914 | [391914-mmo98.json](./391914-mmo98.json) |
 | MMORPG NPC Simulator | 404197 | [404197-mmorpg-npc-simulator.json](./404197-mmorpg-npc-simulator.json) |
 | MMORPG Tycoon 2 | 125701 | [125701-mmorpg-tycoon-2.json](./125701-mmorpg-tycoon-2.json) |
@@ -15520,6 +15523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Ball | 109476 | [109476-mobile-ball.json](./109476-mobile-ball.json) |
 | Mobile Buncha | 363129 | [363129-mobile-buncha.json](./363129-mobile-buncha.json) |
 | Mobile Dinosaur: Action Edition | 108501 | [108501-mobile-dinosaur-action-edition.json](./108501-mobile-dinosaur-action-edition.json) |
+| Mobile Dungeon | 306817 | [306817-mobile-dungeon.json](./306817-mobile-dungeon.json) |
 | Mobile Empire | 75387 | [75387-mobile-empire.json](./75387-mobile-empire.json) |
 | Mobile Forces | 25109 | [25109-mobile-forces.json](./25109-mobile-forces.json) |
 | Mobile Golf | 3402 | [3402-mobile-golf.json](./3402-mobile-golf.json) |
@@ -20496,6 +20500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mukon M | 214380 | [214380-mukon-m.json](./214380-mukon-m.json) |
 | Mukou no Yume | 329905 | [329905-mukou-no-yume.json](./329905-mukou-no-yume.json) |
 | Mukougawa no Reisetsu | 341594 | [341594-mukougawa-no-reisetsu.json](./341594-mukougawa-no-reisetsu.json) |
+| Muksha Space | 306248 | [306248-muksha-space.json](./306248-muksha-space.json) |
 | Mukti | 106382 | [106382-mukti.json](./106382-mukti.json) |
 | Muku wo Saku | 308877 | [308877-muku-wo-saku.json](./308877-muku-wo-saku.json) |
 | Mukuro no Rasen | 389820 | [389820-mukuro-no-rasen.json](./389820-mukuro-no-rasen.json) |
