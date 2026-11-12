@@ -28463,7 +28463,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steptile | 287097 | [287097-steptile.json](./287097-steptile.json) |
 | Stepwell | 416614 | [416614-stepwell.json](./416614-stepwell.json) |
 | StepX | 67915 | [67915-stepx.json](./67915-stepx.json) |
-| Steredenn | 14146 | [14146-steredenn.json](./14146-steredenn.json) |
 | Stereo Aereo | 31143 | [31143-stereo-aereo.json](./31143-stereo-aereo.json) |
 | Stereo Boy | 211115 | [211115-stereo-boy.json](./211115-stereo-boy.json) |
 | Stereo Driver | 185208 | [185208-stereo-driver.json](./185208-stereo-driver.json) |
