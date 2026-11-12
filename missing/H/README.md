@@ -1189,9 +1189,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Paradise: Pure Heart | 49588 | [49588-hamster-paradise-pure-heart.json](./49588-hamster-paradise-pure-heart.json) |
 | Hamster Playground | 172925 | [172925-hamster-playground.json](./172925-hamster-playground.json) |
 | Hamster Playground: Adventure & Style DLC Pack | 332018 | [332018-hamster-playground-adventure-and-style-dlc-pack.json](./332018-hamster-playground-adventure-and-style-dlc-pack.json) |
+| Hamster Playground: Ancient Skin Pack | 305575 | [305575-hamster-playground-ancient-skin-pack.json](./305575-hamster-playground-ancient-skin-pack.json) |
+| Hamster Playground: Beware The Cat Game Mode | 305577 | [305577-hamster-playground-beware-the-cat-game-mode.json](./305577-hamster-playground-beware-the-cat-game-mode.json) |
+| Hamster Playground: Conquerors Skin Pack | 305576 | [305576-hamster-playground-conquerors-skin-pack.json](./305576-hamster-playground-conquerors-skin-pack.json) |
 | Hamster Playground: Cute Pets | 357373 | [357373-hamster-playground-cute-pets.json](./357373-hamster-playground-cute-pets.json) |
+| Hamster Playground: Doll House DLC | 305578 | [305578-hamster-playground-doll-house-dlc.json](./305578-hamster-playground-doll-house-dlc.json) |
+| Hamster Playground: Eating Contest Game Mode | 305579 | [305579-hamster-playground-eating-contest-game-mode.json](./305579-hamster-playground-eating-contest-game-mode.json) |
 | Hamster Playground: Fun & Challenge Games Pack | 332019 | [332019-hamster-playground-fun-and-challenge-games-pack.json](./332019-hamster-playground-fun-and-challenge-games-pack.json) |
+| Hamster Playground: Hamster City DLC | 305580 | [305580-hamster-playground-hamster-city-dlc.json](./305580-hamster-playground-hamster-city-dlc.json) |
+| Hamster Playground: Kawaii DLC | 305581 | [305581-hamster-playground-kawaii-dlc.json](./305581-hamster-playground-kawaii-dlc.json) |
+| Hamster Playground: Skateboard Game Mode | 305582 | [305582-hamster-playground-skateboard-game-mode.json](./305582-hamster-playground-skateboard-game-mode.json) |
 | Hamster Playground: Spooky Hamster House | 226708 | [226708-hamster-playground-spooky-hamster-house.json](./226708-hamster-playground-spooky-hamster-house.json) |
+| Hamster Playground: Spooky Hamster House DLC | 305583 | [305583-hamster-playground-spooky-hamster-house-dlc.json](./305583-hamster-playground-spooky-hamster-house-dlc.json) |
+| Hamster Playground: Vehicle Pull Game Mode | 305584 | [305584-hamster-playground-vehicle-pull-game-mode.json](./305584-hamster-playground-vehicle-pull-game-mode.json) |
 | Hamster Quest | 385346 | [385346-hamster-quest.json](./385346-hamster-quest.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
 | Hamster Squad | 177654 | [177654-hamster-squad.json](./177654-hamster-squad.json) |
