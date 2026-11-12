@@ -5544,6 +5544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From a Deserted Island: The Adventures of Nyanzou & Kumakichi | 154979 | [154979-escape-from-a-deserted-island-the-adventures-of-nyanzou-and-kumakichi.json](./154979-escape-from-a-deserted-island-the-adventures-of-nyanzou-and-kumakichi.json) |
 | Escape From A Fairytale -Snow White- | 82158 | [82158-escape-from-a-fairytale-snow-white.json](./82158-escape-from-a-fairytale-snow-white.json) |
 | Escape From A Ruined Hospital with a Girl Who Lost Emotion | 98545 | [98545-escape-from-a-ruined-hospital-with-a-girl-who-lost-emotion.json](./98545-escape-from-a-ruined-hospital-with-a-girl-who-lost-emotion.json) |
+| Escape from Actaltraz | 271366 | [271366-escape-from-actaltraz.json](./271366-escape-from-actaltraz.json) |
 | Escape from Aeon | 183559 | [183559-escape-from-aeon.json](./183559-escape-from-aeon.json) |
 | Escape From Amexs-137 | 289257 | [289257-escape-from-amexs-137.json](./289257-escape-from-amexs-137.json) |
 | Escape From Andromed | 112326 | [112326-escape-from-andromed.json](./112326-escape-from-andromed.json) |
