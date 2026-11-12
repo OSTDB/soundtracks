@@ -11517,6 +11517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockDoc | 111172 | [111172-blockdoc.json](./111172-blockdoc.json) |
 | BlockDodge | 106882 | [106882-blockdodge.json](./106882-blockdodge.json) |
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
+| Blockdude | 260909 | [260909-blockdude.json](./260909-blockdude.json) |
 | Blockdude | 315760 | [315760-blockdude.json](./315760-blockdude.json) |
 | BlockDude | 52055 | [52055-blockdude.json](./52055-blockdude.json) |
 | Blocked and Loaded | 81890 | [81890-blocked-and-loaded.json](./81890-blocked-and-loaded.json) |
@@ -18865,6 +18866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
 | Bulwark: Falconeer Chronicles - Trade, Dispute and Splinters update | 299607 | [299607-bulwark-falconeer-chronicles-trade-dispute-and-splinters-update.json](./299607-bulwark-falconeer-chronicles-trade-dispute-and-splinters-update.json) |
 | Bulwark: Falconeer Chronicles Origins Bundle | 294883 | [294883-bulwark-falconeer-chronicles-origins-bundle.json](./294883-bulwark-falconeer-chronicles-origins-bundle.json) |
+| Bum Ball Bears | 261003 | [261003-bum-ball-bears.json](./261003-bum-ball-bears.json) |
 | Bum Bum Koala | 397432 | [397432-bum-bum-koala.json](./397432-bum-bum-koala.json) |
 | Bum Bum Monsterz | 258511 | [258511-bum-bum-monsterz.json](./258511-bum-bum-monsterz.json) |
 | Bum Simulator VR | 201513 | [201513-bum-simulator-vr.json](./201513-bum-simulator-vr.json) |
