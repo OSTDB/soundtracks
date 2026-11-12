@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odencat's Paradise Collection | 256401 | [256401-odencats-paradise-collection.json](./256401-odencats-paradise-collection.json) |
 | Odens öga | 304035 | [304035-odens-oga.json](./304035-odens-oga.json) |
 | Odentodo | 366628 | [366628-odentodo.json](./366628-odentodo.json) |
+| Odesa Combined | 300578 | [300578-odesa-combined.json](./300578-odesa-combined.json) |
 | Odessa | 333649 | [333649-odessa.json](./333649-odessa.json) |
 | Odezie | 129753 | [129753-odezie.json](./129753-odezie.json) |
 | Odglos | 178486 | [178486-odglos.json](./178486-odglos.json) |
@@ -5193,6 +5194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Red String | 150023 | [150023-our-red-string.json](./150023-our-red-string.json) |
 | Our Secret Below | 115570 | [115570-our-secret-below.json](./115570-our-secret-below.json) |
 | Our Shared Lie | 232840 | [232840-our-shared-lie.json](./232840-our-shared-lie.json) |
+| Our Souls Never Sleep | 300568 | [300568-our-souls-never-sleep.json](./300568-our-souls-never-sleep.json) |
 | Our Stormy Present | 182065 | [182065-our-stormy-present.json](./182065-our-stormy-present.json) |
 | Our Story in Spring | 254471 | [254471-our-story-in-spring.json](./254471-our-story-in-spring.json) |
 | Our Summer Crush | 327990 | [327990-our-summer-crush.json](./327990-our-summer-crush.json) |
