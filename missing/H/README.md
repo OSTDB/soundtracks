@@ -7423,6 +7423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Bananas | 348683 | [348683-hidden-bananas.json](./348683-hidden-bananas.json) |
 | Hidden Battle Top-Down 3D | 205004 | [205004-hidden-battle-top-down-3d.json](./205004-hidden-battle-top-down-3d.json) |
 | Hidden Beast | 189347 | [189347-hidden-beast.json](./189347-hidden-beast.json) |
+| Hidden Boxes | 267701 | [267701-hidden-boxes.json](./267701-hidden-boxes.json) |
 | Hidden Breaking Bed: Top-Down 3D | 269980 | [269980-hidden-breaking-bed-top-down-3d.json](./269980-hidden-breaking-bed-top-down-3d.json) |
 | Hidden Build Top-Down 3D | 192220 | [192220-hidden-build-top-down-3d.json](./192220-hidden-build-top-down-3d.json) |
 | Hidden Bunny | 248395 | [248395-hidden-bunny.json](./248395-hidden-bunny.json) |
@@ -7900,6 +7901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Post-Apocalyptic 4 Top-Down 3D | 231718 | [231718-hidden-post-apocalyptic-4-top-down-3d.json](./231718-hidden-post-apocalyptic-4-top-down-3d.json) |
 | Hidden Post-Apocalyptic Top-Down 3D | 192486 | [192486-hidden-post-apocalyptic-top-down-3d.json](./192486-hidden-post-apocalyptic-top-down-3d.json) |
 | Hidden Protector | 112714 | [112714-hidden-protector.json](./112714-hidden-protector.json) |
+| Hidden Prototype Top-Down 3D | 267700 | [267700-hidden-prototype-top-down-3d.json](./267700-hidden-prototype-top-down-3d.json) |
 | Hidden Rabbit | 397033 | [397033-hidden-rabbit.json](./397033-hidden-rabbit.json) |
 | Hidden Rabbit 2 | 412386 | [412386-hidden-rabbit-2.json](./412386-hidden-rabbit-2.json) |
 | Hidden Raccoons | 389738 | [389738-hidden-raccoons.json](./389738-hidden-raccoons.json) |
@@ -7978,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Water | 192712 | [192712-hidden-water.json](./192712-hidden-water.json) |
 | Hidden Weekend: The American Getaway - Collector's Edition | 402011 | [402011-hidden-weekend-the-american-getaway-collectors-edition.json](./402011-hidden-weekend-the-american-getaway-collectors-edition.json) |
 | Hidden Western | 192819 | [192819-hidden-western.json](./192819-hidden-western.json) |
+| Hidden Western Frontier Top-Down 3D | 267699 | [267699-hidden-western-frontier-top-down-3d.json](./267699-hidden-western-frontier-top-down-3d.json) |
 | Hidden Western Top-Down 3D | 277827 | [277827-hidden-western-top-down-3d.json](./277827-hidden-western-top-down-3d.json) |
 | Hidden Wings and Paws | 304620 | [304620-hidden-wings-and-paws.json](./304620-hidden-wings-and-paws.json) |
 | Hidden Winter Cats: Bonus Level | 291353 | [291353-hidden-winter-cats-bonus-level.json](./291353-hidden-winter-cats-bonus-level.json) |
@@ -8944,6 +8947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History of Football World Cup | 367692 | [367692-history-of-football-world-cup.json](./367692-history-of-football-world-cup.json) |
 | History of Korea: VR | 368266 | [368266-history-of-korea-vr.json](./368266-history-of-korea-vr.json) |
 | History of Meme Essence | 278025 | [278025-history-of-meme-essence.json](./278025-history-of-meme-essence.json) |
+| History of Space | 267702 | [267702-history-of-space.json](./267702-history-of-space.json) |
 | History Racers 2 | 127691 | [127691-history-racers-2.json](./127691-history-racers-2.json) |
 | History Table: Lore & Quiz | 173254 | [173254-history-table-lore-and-quiz.json](./173254-history-table-lore-and-quiz.json) |
 | History Trivia: Ancient-Modern | 87236 | [87236-history-trivia-ancient-modern.json](./87236-history-trivia-ancient-modern.json) |
