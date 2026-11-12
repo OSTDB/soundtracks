@@ -18207,6 +18207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhen 3: The Chicken Chase! | 49438 | [49438-moorhen-3-the-chicken-chase.json](./49438-moorhen-3-the-chicken-chase.json) |
 | Moorhen Playsuit | 364584 | [364584-moorhen-playsuit.json](./364584-moorhen-playsuit.json) |
 | Moorhen Seasons | 282544 | [282544-moorhen-seasons.json](./282544-moorhen-seasons.json) |
+| Moorhuhn 2: Die Jagd Geht Weiter | 282344 | [282344-moorhuhn-2-die-jagd-geht-weiter.json](./282344-moorhuhn-2-die-jagd-geht-weiter.json) |
 | Moorhuhn 2: Die Jagd Geht Weiter | 83238 | [83238-moorhuhn-2-die-jagd-geht-weiter.json](./83238-moorhuhn-2-die-jagd-geht-weiter.json) |
 | Moorhuhn 3: ...Es gibt Huhn! | 265048 | [265048-moorhuhn-3-es-gibt-huhn.json](./265048-moorhuhn-3-es-gibt-huhn.json) |
 | Moorhuhn 3: ...Es Gibt Huhn! | 265049 | [265049-moorhuhn-3-es-gibt-huhn.json](./265049-moorhuhn-3-es-gibt-huhn.json) |
