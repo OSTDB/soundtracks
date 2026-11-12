@@ -18603,6 +18603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure DS | 336362 | [336362-sonic-adventure-ds.json](./336362-sonic-adventure-ds.json) |
 | Sonic Adventure DX: Director's Cut | 192150 | [192150-sonic-adventure-dx-directors-cut.json](./192150-sonic-adventure-dx-directors-cut.json) |
 | Sonic Adventure DX: Director's Cut | 23695 | [23695-sonic-adventure-dx-directors-cut.json](./23695-sonic-adventure-dx-directors-cut.json) |
+| Sonic Adventure DX: Multiplayer Mod | 274178 | [274178-sonic-adventure-dx-multiplayer-mod.json](./274178-sonic-adventure-dx-multiplayer-mod.json) |
 | Sonic Adventure Emerald | 330304 | [330304-sonic-adventure-emerald.json](./330304-sonic-adventure-emerald.json) |
 | Sonic Adventure Genisys | 241921 | [241921-sonic-adventure-genisys.json](./241921-sonic-adventure-genisys.json) |
 | Sonic Adventure of the Generations | 334741 | [334741-sonic-adventure-of-the-generations.json](./334741-sonic-adventure-of-the-generations.json) |
@@ -19284,6 +19285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog 2 | 239069 | [239069-sonic-the-hedgehog-2.json](./239069-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 273286 | [273286-sonic-the-hedgehog-2.json](./273286-sonic-the-hedgehog-2.json) |
 | Sonic the Hedgehog 2 | 317489 | [317489-sonic-the-hedgehog-2.json](./317489-sonic-the-hedgehog-2.json) |
+| Sonic the Hedgehog 2 Co-op | 274174 | [274174-sonic-the-hedgehog-2-co-op.json](./274174-sonic-the-hedgehog-2-co-op.json) |
 | Sonic the Hedgehog 2 HD | 148231 | [148231-sonic-the-hedgehog-2-hd.json](./148231-sonic-the-hedgehog-2-hd.json) |
 | Sonic the Hedgehog 2: Absolute | 198256 | [198256-sonic-the-hedgehog-2-absolute.json](./198256-sonic-the-hedgehog-2-absolute.json) |
 | Sonic The Hedgehog 2: Archives | 332835 | [332835-sonic-the-hedgehog-2-archives.json](./332835-sonic-the-hedgehog-2-archives.json) |
@@ -19796,6 +19798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman: Yukai nao Tanjoue | 230279 | [230279-soreike-anpanman-yukai-nao-tanjoue.json](./230279-soreike-anpanman-yukai-nao-tanjoue.json) |
 | Sorekara: End of a Journey | 383794 | [383794-sorekara-end-of-a-journey.json](./383794-sorekara-end-of-a-journey.json) |
 | Sorelle | 302802 | [302802-sorelle.json](./302802-sorelle.json) |
+| Soren Game | 274230 | [274230-soren-game.json](./274230-soren-game.json) |
 | Soreyori no Prologue | 60674 | [60674-soreyori-no-prologue.json](./60674-soreyori-no-prologue.json) |
 | Soreyuke Burunyan-Man Portable - Torimodose Ai to Seigi to Kibou no Tsunyakan | 42744 | [42744-soreyuke-burunyan-man-portable-torimodose-ai-to-seigi-to-kibou-no-tsunyakan.json](./42744-soreyuke-burunyan-man-portable-torimodose-ai-to-seigi-to-kibou-no-tsunyakan.json) |
 | Soreyuke Ebisumaru: Karakuri Meiro - Kieta Goemon no Nazo | 44446 | [44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json](./44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json) |
@@ -32684,6 +32687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunrise Down | 312730 | [312730-sunrise-down.json](./312730-sunrise-down.json) |
 | Sunrise Eiyuutan | 274293 | [274293-sunrise-eiyuutan.json](./274293-sunrise-eiyuutan.json) |
 | Sunrise Eiyuutan 3 | 409802 | [409802-sunrise-eiyuutan-3.json](./409802-sunrise-eiyuutan-3.json) |
+| Sunrise Eiyuutan R | 274074 | [274074-sunrise-eiyuutan-r.json](./274074-sunrise-eiyuutan-r.json) |
 | Sunrise GP | 245893 | [245893-sunrise-gp.json](./245893-sunrise-gp.json) |
 | Sunrise of the Time: End of Blue | 375944 | [375944-sunrise-of-the-time-end-of-blue.json](./375944-sunrise-of-the-time-end-of-blue.json) |
 | Sunrise Paradise | 171786 | [171786-sunrise-paradise.json](./171786-sunrise-paradise.json) |
