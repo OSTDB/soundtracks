@@ -1572,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Roots | 204940 | [204940-old-roots.json](./204940-old-roots.json) |
 | Old Salt | 165056 | [165056-old-salt.json](./165056-old-salt.json) |
 | Old Sam's Gold | 421768 | [421768-old-sams-gold.json](./421768-old-sams-gold.json) |
+| Old School | 264914 | [264914-old-school.json](./264914-old-school.json) |
 | Old School | 61167 | [61167-old-school.json](./61167-old-school.json) |
 | Old School 8-in-1 bundle | 32557 | [32557-old-school-8-in-1-bundle.json](./32557-old-school-8-in-1-bundle.json) |
 | Old School FOTD | 74453 | [74453-old-school-fotd.json](./74453-old-school-fotd.json) |
@@ -6143,6 +6144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Override: Mech City Brawl - Super Charged Mega Edition | 118568 | [118568-override-mech-city-brawl-super-charged-mega-edition.json](./118568-override-mech-city-brawl-super-charged-mega-edition.json) |
 | Overrider | 236375 | [236375-overrider.json](./236375-overrider.json) |
 | OverRider | 295146 | [295146-overrider.json](./295146-overrider.json) |
+| OverRoot | 264930 | [264930-overroot.json](./264930-overroot.json) |
 | Overruled | 10648 | [10648-overruled.json](./10648-overruled.json) |
 | Overrun | 129455 | [129455-overrun.json](./129455-overrun.json) |
 | Overrun | 184083 | [184083-overrun.json](./184083-overrun.json) |
