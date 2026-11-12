@@ -5883,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nioh: Dragon of the North | 28366 | [28366-nioh-dragon-of-the-north.json](./28366-nioh-dragon-of-the-north.json) |
 | Nion Forge | 378922 | [378922-nion-forge.json](./378922-nion-forge.json) |
 | Nios | 189161 | [189161-nios.json](./189161-nios.json) |
+| Nip For Speed | 287281 | [287281-nip-for-speed.json](./287281-nip-for-speed.json) |
 | Nip for Speed 2: Searching for Pussy | 342067 | [342067-nip-for-speed-2-searching-for-pussy.json](./342067-nip-for-speed-2-searching-for-pussy.json) |
 | NIPA | 336643 | [336643-nipa.json](./336643-nipa.json) |
 | Niplheim's Hunter - Branded Azel | 112834 | [112834-niplheims-hunter-branded-azel.json](./112834-niplheims-hunter-branded-azel.json) |
@@ -7045,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonstop Game | 208966 | [208966-nonstop-game.json](./208966-nonstop-game.json) |
 | Nonstop Knight | 57367 | [57367-nonstop-knight.json](./57367-nonstop-knight.json) |
 | Nonstop Knight 2 | 119432 | [119432-nonstop-knight-2.json](./119432-nonstop-knight-2.json) |
+| NonStories: Eien no Hakoniwa | 287252 | [287252-nonstories-eien-no-hakoniwa.json](./287252-nonstories-eien-no-hakoniwa.json) |
 | Nontan to Issho: Hoshi no Okurimono | 268518 | [268518-nontan-to-issho-hoshi-no-okurimono.json](./268518-nontan-to-issho-hoshi-no-okurimono.json) |
 | Nontan to Issho: Kuru-kuru Puzzle | 44400 | [44400-nontan-to-issho-kuru-kuru-puzzle.json](./44400-nontan-to-issho-kuru-kuru-puzzle.json) |
 | Nontan to Issho: Nohara de Asobo | 268519 | [268519-nontan-to-issho-nohara-de-asobo.json](./268519-nontan-to-issho-nohara-de-asobo.json) |
@@ -7923,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Engineer Tycoon | 414331 | [414331-nuclear-engineer-tycoon.json](./414331-nuclear-engineer-tycoon.json) |
 | Nuclear Epoch | 370864 | [370864-nuclear-epoch.json](./370864-nuclear-epoch.json) |
 | Nuclear Fighter | 205744 | [205744-nuclear-fighter.json](./205744-nuclear-fighter.json) |
+| Nuclear Fission Simulator | 287254 | [287254-nuclear-fission-simulator.json](./287254-nuclear-fission-simulator.json) |
 | Nuclear Frost | 244692 | [244692-nuclear-frost.json](./244692-nuclear-frost.json) |
 | Nuclear Gladiators 3000 | 273447 | [273447-nuclear-gladiators-3000.json](./273447-nuclear-gladiators-3000.json) |
 | Nuclear Hack INC. - War Simulator | 106889 | [106889-nuclear-hack-inc-war-simulator.json](./106889-nuclear-hack-inc-war-simulator.json) |
@@ -8318,6 +8321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NY Times | 358269 | [358269-ny-times.json](./358269-ny-times.json) |
 | NY Warriors | 69663 | [69663-ny-warriors.json](./69663-ny-warriors.json) |
 | Nya Nya Nya Girls | 111538 | [111538-nya-nya-nya-girls.json](./111538-nya-nya-nya-girls.json) |
+| Nyaa to Chuu no Rainbow Magic 2 | 287263 | [287263-nyaa-to-chuu-no-rainbow-magic-2.json](./287263-nyaa-to-chuu-no-rainbow-magic-2.json) |
 | Nyaaaanvy | 197111 | [197111-nyaaaanvy.json](./197111-nyaaaanvy.json) |
 | Nyaf | 159484 | [159484-nyaf.json](./159484-nyaf.json) |
 | Nyakamon | 292902 | [292902-nyakamon.json](./292902-nyakamon.json) |
