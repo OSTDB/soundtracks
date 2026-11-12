@@ -1464,6 +1464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1938 | 357750 | [357750-1938.json](./357750-1938.json) |
 | 1939 | 265966 | [265966-1939.json](./265966-1939.json) |
 | 1940 | 223811 | [223811-1940.json](./223811-1940.json) |
+| 1940's Mafia Shootout | 248877 | [248877-1940s-mafia-shootout.json](./248877-1940s-mafia-shootout.json) |
 | 1941 Frozen Front | 112064 | [112064-1941-frozen-front.json](./112064-1941-frozen-front.json) |
 | 1941: Operation Barbarossa | 235717 | [235717-1941-operation-barbarossa.json](./235717-1941-operation-barbarossa.json) |
 | 1942 | 272544 | [272544-1942.json](./272544-1942.json) |
