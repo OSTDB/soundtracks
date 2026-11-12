@@ -10446,6 +10446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metajo: Furitsu Metatopology Daigaku Fuzoku Joshi Koukou SP | 146656 | [146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json](./146656-metajo-furitsu-metatopology-daigaku-fuzoku-joshi-koukou-sp.json) |
 | Metal | 95217 | [95217-metal.json](./95217-metal.json) |
 | Metal & Lace: The Battle of the Robo Babes | 50271 | [50271-metal-and-lace-the-battle-of-the-robo-babes.json](./50271-metal-and-lace-the-battle-of-the-robo-babes.json) |
+| Metal and Hauling RPG Simulator | 292703 | [292703-metal-and-hauling-rpg-simulator.json](./292703-metal-and-hauling-rpg-simulator.json) |
 | Metal Angel | 37633 | [37633-metal-angel.json](./37633-metal-angel.json) |
 | Metal Angel 3 | 91961 | [91961-metal-angel-3.json](./91961-metal-angel-3.json) |
 | Metal Angel II | 37632 | [37632-metal-angel-ii.json](./37632-metal-angel-ii.json) |
@@ -17540,6 +17541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster World RPG | 381496 | [381496-monster-world-rpg.json](./381496-monster-world-rpg.json) |
 | Monster World-Legend | 96783 | [96783-monster-world-legend.json](./96783-monster-world-legend.json) |
 | Monster X | 192549 | [192549-monster-x.json](./192549-monster-x.json) |
+| Monster X Mediator | 292729 | [292729-monster-x-mediator.json](./292729-monster-x-mediator.json) |
 | Monster X Monster | 118032 | [118032-monster-x-monster.json](./118032-monster-x-monster.json) |
 | Monster Zero | 77555 | [77555-monster-zero.json](./77555-monster-zero.json) |
 | Monster-Man | 137911 | [137911-monster-man.json](./137911-monster-man.json) |
@@ -22274,6 +22276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Hotel Romance | 298900 | [298900-my-hotel-romance.json](./298900-my-hotel-romance.json) |
 | My Hotel Simulator | 372559 | [372559-my-hotel-simulator.json](./372559-my-hotel-simulator.json) |
 | My House | 241647 | [241647-my-house.json](./241647-my-house.json) |
+| My House | 292742 | [292742-my-house.json](./292742-my-house.json) |
 | My House | 326199 | [326199-my-house.json](./326199-my-house.json) |
 | My House and I Got Transported To Another World | 278147 | [278147-my-house-and-i-got-transported-to-another-world.json](./278147-my-house-and-i-got-transported-to-another-world.json) |
 | My House is Haunted | 219656 | [219656-my-house-is-haunted.json](./219656-my-house-is-haunted.json) |
