@@ -2514,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Classics: Excitebike | 84615 | [84615-3d-classics-excitebike.json](./84615-3d-classics-excitebike.json) |
 | 3D Classics: Kid Icarus | 84616 | [84616-3d-classics-kid-icarus.json](./84616-3d-classics-kid-icarus.json) |
 | 3D Classics: Kirby's Adventure | 84617 | [84617-3d-classics-kirbys-adventure.json](./84617-3d-classics-kirbys-adventure.json) |
+| 3D Classics: Tennis | 257618 | [257618-3d-classics-tennis.json](./257618-3d-classics-tennis.json) |
 | 3D Classics: TwinBee | 84618 | [84618-3d-classics-twinbee.json](./84618-3d-classics-twinbee.json) |
 | 3D Classics: Urban Champion | 84619 | [84619-3d-classics-urban-champion.json](./84619-3d-classics-urban-champion.json) |
 | 3D Classics: Xevious | 84665 | [84665-3d-classics-xevious.json](./84665-3d-classics-xevious.json) |
