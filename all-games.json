@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-12T01:21:12.581Z",
-  "total_soundtracks": 3245,
+  "generated_at": "2026-11-12T01:25:51.878Z",
+  "total_soundtracks": 3246,
   "games": [
     {
       "igdb_id": 7522,
@@ -26389,6 +26389,20 @@
         {
           "album_name": "Puyo Puyo!! Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/2R58v4jQTXSXtCR9AFwwbj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 50727,
+      "game_name": "Puyo Puyo 7",
+      "game_url": "https://ostdb.net/games/puyo-puyo-7",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b497f6c22937cead8cc50f39",
+      "albums": [
+        {
+          "album_name": "Puyo Puyo 7 Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2nZoPTMgvx0RGcrYbA2aT6",
           "apple_music_url": "",
           "album_link_url": ""
         }
