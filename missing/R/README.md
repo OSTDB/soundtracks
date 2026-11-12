@@ -9982,6 +9982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Band Unplugged | 2721 | [2721-rock-band-unplugged.json](./2721-rock-band-unplugged.json) |
 | Rock Band VR | 26988 | [26988-rock-band-vr.json](./26988-rock-band-vr.json) |
 | Rock Band: Country Track Pack | 68407 | [68407-rock-band-country-track-pack.json](./68407-rock-band-country-track-pack.json) |
+| Rock Band: Japan | 250664 | [250664-rock-band-japan.json](./250664-rock-band-japan.json) |
 | Rock Band: Metal Track Pack | 67778 | [67778-rock-band-metal-track-pack.json](./67778-rock-band-metal-track-pack.json) |
 | Rock Band: Track Pack - Volume 2 | 80287 | [80287-rock-band-track-pack-volume-2.json](./80287-rock-band-track-pack-volume-2.json) |
 | Rock Blast | 47778 | [47778-rock-blast.json](./47778-rock-blast.json) |
