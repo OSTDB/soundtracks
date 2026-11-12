@@ -2547,6 +2547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Park Beyond: Beyond eXtreme - Theme World | 272324 | [272324-park-beyond-beyond-extreme-theme-world.json](./272324-park-beyond-beyond-extreme-theme-world.json) |
 | Park Beyond: Beyond the Depths - Theme World | 311079 | [311079-park-beyond-beyond-the-depths-theme-world.json](./311079-park-beyond-beyond-the-depths-theme-world.json) |
 | Park Beyond: Beyond the Skies of Arabia - Theme World | 315121 | [315121-park-beyond-beyond-the-skies-of-arabia-theme-world.json](./315121-park-beyond-beyond-the-skies-of-arabia-theme-world.json) |
+| Park Beyond: Chicken Run - Dawn of the Nugget: Theme World | 289494 | [289494-park-beyond-chicken-run-dawn-of-the-nugget-theme-world.json](./289494-park-beyond-chicken-run-dawn-of-the-nugget-theme-world.json) |
 | Park Beyond: Complete Edition | 331856 | [331856-park-beyond-complete-edition.json](./331856-park-beyond-complete-edition.json) |
 | Park Beyond: Day-1 Admission Ticket Edition | 242926 | [242926-park-beyond-day-1-admission-ticket-edition.json](./242926-park-beyond-day-1-admission-ticket-edition.json) |
 | Park Beyond: Impossified Edition | 242369 | [242369-park-beyond-impossified-edition.json](./242369-park-beyond-impossified-edition.json) |
@@ -14651,6 +14652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerball | 45779 | [45779-powerball.json](./45779-powerball.json) |
 | Powerball: Monster's Quest | 329697 | [329697-powerball-monsters-quest.json](./329697-powerball-monsters-quest.json) |
 | PowerBeatsVR | 113557 | [113557-powerbeatsvr.json](./113557-powerbeatsvr.json) |
+| PowerBeatsVR: Song Pack 3 | 289524 | [289524-powerbeatsvr-song-pack-3.json](./289524-powerbeatsvr-song-pack-3.json) |
 | Powerbike | 91712 | [91712-powerbike.json](./91712-powerbike.json) |
 | Powerboat Challenge | 97985 | [97985-powerboat-challenge.json](./97985-powerboat-challenge.json) |
 | PowerBoat Mega Ramp Racing | 105829 | [105829-powerboat-mega-ramp-racing.json](./105829-powerboat-mega-ramp-racing.json) |
