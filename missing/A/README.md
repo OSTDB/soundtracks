@@ -72,6 +72,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bomb's Way | 64677 | [64677-a-bombs-way.json](./64677-a-bombs-way.json) |
 | A Bone To Pick | 325297 | [325297-a-bone-to-pick.json](./325297-a-bone-to-pick.json) |
 | A Boney Night | 313569 | [313569-a-boney-night.json](./313569-a-boney-night.json) |
+| A Bonnie Odyssey | 252351 | [252351-a-bonnie-odyssey.json](./252351-a-bonnie-odyssey.json) |
 | A Bonte Escape | 225283 | [225283-a-bonte-escape.json](./225283-a-bonte-escape.json) |
 | A Border With No End | 414416 | [414416-a-border-with-no-end.json](./414416-a-border-with-no-end.json) |
 | A Boring Place: The Road 2 Head | 321426 | [321426-a-boring-place-the-road-2-head.json](./321426-a-boring-place-the-road-2-head.json) |
@@ -5533,6 +5534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agricultural Simulator 2013: Gold Edition | 52373 | [52373-agricultural-simulator-2013-gold-edition.json](./52373-agricultural-simulator-2013-gold-edition.json) |
 | Agricultural Simulator Anthology | 52372 | [52372-agricultural-simulator-anthology.json](./52372-agricultural-simulator-anthology.json) |
 | Agricultural Simulator: Historical Farming | 9954 | [9954-agricultural-simulator-historical-farming.json](./9954-agricultural-simulator-historical-farming.json) |
+| Agriculture | 252389 | [252389-agriculture.json](./252389-agriculture.json) |
 | Agriculture Tractor Sim | 264107 | [264107-agriculture-tractor-sim.json](./264107-agriculture-tractor-sim.json) |
 | Agritopia | 274510 | [274510-agritopia.json](./274510-agritopia.json) |
 | Agrivore | 386117 | [386117-agrivore.json](./386117-agrivore.json) |
@@ -16933,6 +16935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assetto Corsa Competizione: 24H Nürburgring Pack | 294907 | [294907-assetto-corsa-competizione-24h-nurburgring-pack.json](./294907-assetto-corsa-competizione-24h-nurburgring-pack.json) |
 | Assetto Corsa Competizione: American Track Pack | 208627 | [208627-assetto-corsa-competizione-american-track-pack.json](./208627-assetto-corsa-competizione-american-track-pack.json) |
 | Assetto Corsa Competizione: British GT Pack | 168371 | [168371-assetto-corsa-competizione-british-gt-pack.json](./168371-assetto-corsa-competizione-british-gt-pack.json) |
+| Assetto Corsa Competizione: Challengers Pack | 252416 | [252416-assetto-corsa-competizione-challengers-pack.json](./252416-assetto-corsa-competizione-challengers-pack.json) |
 | Assetto Corsa Competizione: Day One Edition | 171275 | [171275-assetto-corsa-competizione-day-one-edition.json](./171275-assetto-corsa-competizione-day-one-edition.json) |
 | Assetto Corsa Competizione: GT Racing Game Bundle | 288862 | [288862-assetto-corsa-competizione-gt-racing-game-bundle.json](./288862-assetto-corsa-competizione-gt-racing-game-bundle.json) |
 | Assetto Corsa Competizione: GT4 Pack DLC | 165873 | [165873-assetto-corsa-competizione-gt4-pack-dlc.json](./165873-assetto-corsa-competizione-gt4-pack-dlc.json) |
