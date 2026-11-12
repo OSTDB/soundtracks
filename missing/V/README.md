@@ -3408,7 +3408,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vlak | 273190 | [273190-vlak.json](./273190-vlak.json) |
 | Vlak | 377281 | [377281-vlak.json](./377281-vlak.json) |
 | Vlare | 395911 | [395911-vlare.json](./395911-vlare.json) |
+| Vlinder Avatar Town Simulator | 301177 | [301177-vlinder-avatar-town-simulator.json](./301177-vlinder-avatar-town-simulator.json) |
+| Vlinder Gacha | 301172 | [301172-vlinder-gacha.json](./301172-vlinder-gacha.json) |
 | Vlinder Life | 301133 | [301133-vlinder-life.json](./301133-vlinder-life.json) |
+| Vlinder Princess | 301171 | [301171-vlinder-princess.json](./301171-vlinder-princess.json) |
 | Vlobs | 235536 | [235536-vlobs.json](./235536-vlobs.json) |
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
 | Vlogger Go Viral - Tube Tycoon | 99902 | [99902-vlogger-go-viral-tube-tycoon.json](./99902-vlogger-go-viral-tube-tycoon.json) |
