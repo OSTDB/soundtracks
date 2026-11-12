@@ -16763,6 +16763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project 2/3 | 322933 | [322933-project-2-3.json](./322933-project-2-3.json) |
 | Project 24/36 | 175040 | [175040-project-24-36.json](./175040-project-24-36.json) |
 | Project 3 VR | 98586 | [98586-project-3-vr.json](./98586-project-3-vr.json) |
+| Project 32X: Sonic Mars | 264909 | [264909-project-32x-sonic-mars.json](./264909-project-32x-sonic-mars.json) |
 | Project 37 | 110224 | [110224-project-37.json](./110224-project-37.json) |
 | Project 37 | 295449 | [295449-project-37.json](./295449-project-37.json) |
 | Project 38 | 324261 | [324261-project-38.json](./324261-project-38.json) |
@@ -17685,6 +17686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Summer Ice - Pinball: Jane | 233034 | [233034-project-summer-ice-pinball-jane.json](./233034-project-summer-ice-pinball-jane.json) |
 | Project: Summer Ice - Pinball: Pammy | 229079 | [229079-project-summer-ice-pinball-pammy.json](./229079-project-summer-ice-pinball-pammy.json) |
 | Project: Swap | 212610 | [212610-project-swap.json](./212610-project-swap.json) |
+| Project: Sword Art | 264929 | [264929-project-sword-art.json](./264929-project-sword-art.json) |
 | Project: SX | 331712 | [331712-project-sx.json](./331712-project-sx.json) |
 | Project: Taco | 420547 | [420547-project-taco.json](./420547-project-taco.json) |
 | Project: Tempo | 231909 | [231909-project-tempo.json](./231909-project-tempo.json) |
