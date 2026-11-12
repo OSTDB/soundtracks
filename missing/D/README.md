@@ -851,6 +851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance DeLight | 284589 | [284589-dance-delight.json](./284589-dance-delight.json) |
 | Dance Eden | 301054 | [301054-dance-eden.json](./301054-dance-eden.json) |
 | Dance Evolution Arcade | 375456 | [375456-dance-evolution-arcade.json](./375456-dance-evolution-arcade.json) |
+| Dance Fabulous | 285639 | [285639-dance-fabulous.json](./285639-dance-fabulous.json) |
 | Dance Factory | 20560 | [20560-dance-factory.json](./20560-dance-factory.json) |
 | Dance Fantasy | 40899 | [40899-dance-fantasy.json](./40899-dance-fantasy.json) |
 | Dance Fest | 269398 | [269398-dance-fest.json](./269398-dance-fest.json) |
@@ -2198,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark War | 30813 | [30813-dark-war.json](./30813-dark-war.json) |
 | Dark War Online | 155783 | [155783-dark-war-online.json](./155783-dark-war-online.json) |
 | Dark War: Survival | 329651 | [329651-dark-war-survival.json](./329651-dark-war-survival.json) |
+| Dark Warrior | 285642 | [285642-dark-warrior.json](./285642-dark-warrior.json) |
 | Dark Watcher | 258586 | [258586-dark-watcher.json](./258586-dark-watcher.json) |
 | Dark Watching: Chapter 1 | 383633 | [383633-dark-watching-chapter-1.json](./383633-dark-watching-chapter-1.json) |
 | Dark Water | 129993 | [129993-dark-water.json](./129993-dark-water.json) |
@@ -8509,6 +8511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective_Psychic | 103182 | [103182-detective-psychic.json](./103182-detective-psychic.json) |
 | Detective: Minerva Case | 275334 | [275334-detective-minerva-case.json](./275334-detective-minerva-case.json) |
 | Detective: Rainy Night | 333297 | [333297-detective-rainy-night.json](./333297-detective-rainy-night.json) |
+| Detective: Ritual of the Sea | 285624 | [285624-detective-ritual-of-the-sea.json](./285624-detective-ritual-of-the-sea.json) |
 | Detective: Scene Crime | 358219 | [358219-detective-scene-crime.json](./358219-detective-scene-crime.json) |
 | Detective: Stella Porta case | 249072 | [249072-detective-stella-porta-case.json](./249072-detective-stella-porta-case.json) |
 | Detective: The Motel | 292988 | [292988-detective-the-motel.json](./292988-detective-the-motel.json) |
@@ -9320,6 +9323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Tactics | 166900 | [166900-dice-tactics.json](./166900-dice-tactics.json) |
 | Dice Tactics: Demon King Chapters 2, 3, 4 | 168835 | [168835-dice-tactics-demon-king-chapters-2-3-4.json](./168835-dice-tactics-demon-king-chapters-2-3-4.json) |
 | Dice Tavern: Farkle Roguelike | 398071 | [398071-dice-tavern-farkle-roguelike.json](./398071-dice-tavern-farkle-roguelike.json) |
+| Dice TD | 285719 | [285719-dice-td.json](./285719-dice-td.json) |
 | Dice Team | 373757 | [373757-dice-team.json](./373757-dice-team.json) |
 | Dice Throne Digital | 388981 | [388981-dice-throne-digital.json](./388981-dice-throne-digital.json) |
 | Dice to Meet You | 270140 | [270140-dice-to-meet-you.json](./270140-dice-to-meet-you.json) |
@@ -14026,6 +14030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God: Mighty Trio | 97030 | [97030-doodle-god-mighty-trio.json](./97030-doodle-god-mighty-trio.json) |
 | Doodle God: Ultimate Edition | 82384 | [82384-doodle-god-ultimate-edition.json](./82384-doodle-god-ultimate-edition.json) |
 | Doodle Harmony | 267284 | [267284-doodle-harmony.json](./267284-doodle-harmony.json) |
+| Doodle Harmony Ghosts | 285627 | [285627-doodle-harmony-ghosts.json](./285627-doodle-harmony-ghosts.json) |
 | Doodle Harmony Idle Merge | 303487 | [303487-doodle-harmony-idle-merge.json](./303487-doodle-harmony-idle-merge.json) |
 | Doodle Hex | 21475 | [21475-doodle-hex.json](./21475-doodle-hex.json) |
 | Doodle Hunt: Halloween Rush | 320331 | [320331-doodle-hunt-halloween-rush.json](./320331-doodle-hunt-halloween-rush.json) |
@@ -18320,6 +18325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Point | 350156 | [350156-drop-point.json](./350156-drop-point.json) |
 | Drop Point: Alaska | 63688 | [63688-drop-point-alaska.json](./63688-drop-point-alaska.json) |
 | Drop Pop | 386981 | [386981-drop-pop.json](./386981-drop-pop.json) |
+| Drop Racing | 285629 | [285629-drop-racing.json](./285629-drop-racing.json) |
 | Drop Rivals | 428414 | [428414-drop-rivals.json](./428414-drop-rivals.json) |
 | Drop That Cat | 330399 | [330399-drop-that-cat.json](./330399-drop-that-cat.json) |
 | Drop the Ball! | 89736 | [89736-drop-the-ball.json](./89736-drop-the-ball.json) |
