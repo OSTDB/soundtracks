@@ -2264,6 +2264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capybara Spa | 186141 | [186141-capybara-spa.json](./186141-capybara-spa.json) |
 | Capybara Village | 369231 | [369231-capybara-village.json](./369231-capybara-village.json) |
 | Capybara Zen | 403345 | [403345-capybara-zen.json](./403345-capybara-zen.json) |
+| Capybara, Ducks, Rats and Bananas Bundle | 291648 | [291648-capybara-ducks-rats-and-bananas-bundle.json](./291648-capybara-ducks-rats-and-bananas-bundle.json) |
 | Capybara: The Great Journey | 402676 | [402676-capybara-the-great-journey.json](./402676-capybara-the-great-journey.json) |
 | Capybara: The Story of Sisyphus | 291546 | [291546-capybara-the-story-of-sisyphus.json](./291546-capybara-the-story-of-sisyphus.json) |
 | Capybara: The Story of Sisyphus - Extra Content | 335467 | [335467-capybara-the-story-of-sisyphus-extra-content.json](./335467-capybara-the-story-of-sisyphus-extra-content.json) |
@@ -3383,6 +3384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Smash | 114360 | [114360-cartel-smash.json](./114360-cartel-smash.json) |
 | Cartel Tycoon: Anniversary Edition | 268321 | [268321-cartel-tycoon-anniversary-edition.json](./268321-cartel-tycoon-anniversary-edition.json) |
 | Cartel Tycoon: Content Pack - Diva's Hotel | 293451 | [293451-cartel-tycoon-content-pack-divas-hotel.json](./293451-cartel-tycoon-content-pack-divas-hotel.json) |
+| Cartel Tycoon: Deluxe Edition | 291673 | [291673-cartel-tycoon-deluxe-edition.json](./291673-cartel-tycoon-deluxe-edition.json) |
 | Cartel Tycoon: Lieutenants Pack - Guerilla | 226298 | [226298-cartel-tycoon-lieutenants-pack-guerilla.json](./226298-cartel-tycoon-lieutenants-pack-guerilla.json) |
 | Cartel Tycoon: Lieutenants Pack - La Familia | 243673 | [243673-cartel-tycoon-lieutenants-pack-la-familia.json](./243673-cartel-tycoon-lieutenants-pack-la-familia.json) |
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
@@ -5573,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CDF Starfighter VR | 19054 | [19054-cdf-starfighter-vr.json](./19054-cdf-starfighter-vr.json) |
 | CDL for a UFO | 386115 | [386115-cdl-for-a-ufo.json](./386115-cdl-for-a-ufo.json) |
 | CDO2: Dungeon Defense | 256574 | [256574-cdo2-dungeon-defense.json](./256574-cdo2-dungeon-defense.json) |
+| CDZ | 292188 | [292188-cdz.json](./292188-cdz.json) |
 | Ceana the Wraithress | 314951 | [314951-ceana-the-wraithress.json](./314951-ceana-the-wraithress.json) |
 | Cease To Breathe | 244035 | [244035-cease-to-breathe.json](./244035-cease-to-breathe.json) |
 | Ceaseless | 207737 | [207737-ceaseless.json](./207737-ceaseless.json) |
@@ -14322,6 +14325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Foosball | 59768 | [59768-computer-foosball.json](./59768-computer-foosball.json) |
 | Computer Football Strategy | 296539 | [296539-computer-football-strategy.json](./296539-computer-football-strategy.json) |
 | Computer Foreign Exchange | 282121 | [282121-computer-foreign-exchange.json](./282121-computer-foreign-exchange.json) |
+| Computer Fury | 292269 | [292269-computer-fury.json](./292269-computer-fury.json) |
 | Computer Genealogy Mantra | 294468 | [294468-computer-genealogy-mantra.json](./294468-computer-genealogy-mantra.json) |
 | Computer Gin Rummy | 59779 | [59779-computer-gin-rummy.json](./59779-computer-gin-rummy.json) |
 | Computer Intro! | 283015 | [283015-computer-intro.json](./283015-computer-intro.json) |
@@ -15216,6 +15220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contrablade: Stadium Rush | 194674 | [194674-contrablade-stadium-rush.json](./194674-contrablade-stadium-rush.json) |
 | Contract | 131217 | [131217-contract.json](./131217-contract.json) |
 | Contract | 34305 | [34305-contract.json](./34305-contract.json) |
+| Contract & Control | 292184 | [292184-contract-and-control.json](./292184-contract-and-control.json) |
 | Contract Album | 379415 | [379415-contract-album.json](./379415-contract-album.json) |
 | Contract Bridge Solo | 398415 | [398415-contract-bridge-solo.json](./398415-contract-bridge-solo.json) |
 | Contract Cafe | 303426 | [303426-contract-cafe.json](./303426-contract-cafe.json) |
@@ -15481,6 +15486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena Lets Burger | 301176 | [301176-cooking-arena-lets-burger.json](./301176-cooking-arena-lets-burger.json) |
 | Cooking Arena Pancake Paradise | 316198 | [316198-cooking-arena-pancake-paradise.json](./316198-cooking-arena-pancake-paradise.json) |
 | Cooking Arena Pastry Chef | 310462 | [310462-cooking-arena-pastry-chef.json](./310462-cooking-arena-pastry-chef.json) |
+| Cooking Arena Pizza Yolo | 291649 | [291649-cooking-arena-pizza-yolo.json](./291649-cooking-arena-pizza-yolo.json) |
 | Cooking Arena Ultimate Feast | 381808 | [381808-cooking-arena-ultimate-feast.json](./381808-cooking-arena-ultimate-feast.json) |
 | Cooking Arena World Tour Edition | 385196 | [385196-cooking-arena-world-tour-edition.json](./385196-cooking-arena-world-tour-edition.json) |
 | Cooking Arena: 10 in 1 Edition | 295678 | [295678-cooking-arena-10-in-1-edition.json](./295678-cooking-arena-10-in-1-edition.json) |
@@ -22507,6 +22513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycles of Aylorea | 168613 | [168613-cycles-of-aylorea.json](./168613-cycles-of-aylorea.json) |
 | Cycles of Aylorea | 322020 | [322020-cycles-of-aylorea.json](./322020-cycles-of-aylorea.json) |
 | Cyclic | 232660 | [232660-cyclic.json](./232660-cyclic.json) |
+| Cyclic Warriors | 292196 | [292196-cyclic-warriors.json](./292196-cyclic-warriors.json) |
 | Cyclical Recurrences | 408079 | [408079-cyclical-recurrences.json](./408079-cyclical-recurrences.json) |
 | Cyclics | 310846 | [310846-cyclics.json](./310846-cyclics.json) |
 | Cycling 2013 | 175370 | [175370-cycling-2013.json](./175370-cycling-2013.json) |
