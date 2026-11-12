@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakeboarding XS | 325383 | [325383-wakeboarding-xs.json](./325383-wakeboarding-xs.json) |
 | Wakedas | 85480 | [85480-wakedas.json](./85480-wakedas.json) |
 | Waker | 91890 | [91890-waker.json](./91890-waker.json) |
+| Wakerunners | 282934 | [282934-wakerunners.json](./282934-wakerunners.json) |
 | Wakey Wakey | 178568 | [178568-wakey-wakey.json](./178568-wakey-wakey.json) |
 | Wakey Wakey | 305729 | [305729-wakey-wakey.json](./305729-wakey-wakey.json) |
 | Wakfu: Kelba Island | 23650 | [23650-wakfu-kelba-island.json](./23650-wakfu-kelba-island.json) |
