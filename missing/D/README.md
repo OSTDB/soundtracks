@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dämmerlicht | 29547 | [29547-dammerlicht.json](./29547-dammerlicht.json) |
 | Damn | 55616 | [55616-damn.json](./55616-damn.json) |
 | Damn Birds | 236626 | [236626-damn-birds.json](./236626-damn-birds.json) |
+| Damn Daniel | 250576 | [250576-damn-daniel.json](./250576-damn-daniel.json) |
 | Damn Daniel Challenge | 332768 | [332768-damn-daniel-challenge.json](./332768-damn-daniel-challenge.json) |
 | Damn Daniel: Basket Game | 252818 | [252818-damn-daniel-basket-game.json](./252818-damn-daniel-basket-game.json) |
 | Damn Daniel: White Vans Adventure | 201236 | [201236-damn-daniel-white-vans-adventure.json](./201236-damn-daniel-white-vans-adventure.json) |
@@ -3051,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Survivor | 312140 | [312140-dawn-of-survivor.json](./312140-dawn-of-survivor.json) |
 | Dawn of Survivors | 117936 | [117936-dawn-of-survivors.json](./117936-dawn-of-survivors.json) |
 | Dawn of Survivors 2 | 179971 | [179971-dawn-of-survivors-2.json](./179971-dawn-of-survivors-2.json) |
+| Dawn of Tank | 250580 | [250580-dawn-of-tank.json](./250580-dawn-of-tank.json) |
 | Dawn of the Abyss | 345827 | [345827-dawn-of-the-abyss.json](./345827-dawn-of-the-abyss.json) |
 | Dawn of the Breakers | 106972 | [106972-dawn-of-the-breakers.json](./106972-dawn-of-the-breakers.json) |
 | Dawn of the Celebs | 394214 | [394214-dawn-of-the-celebs.json](./394214-dawn-of-the-celebs.json) |
@@ -6417,6 +6419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deiland: Pocket Planet | 145240 | [145240-deiland-pocket-planet.json](./145240-deiland-pocket-planet.json) |
 | Deimos Hotel | 382280 | [382280-deimos-hotel.json](./382280-deimos-hotel.json) |
 | Deimos' Endless Pursuit of Becoming Deimos: Part One | 307258 | [307258-deimos-endless-pursuit-of-becoming-deimos-part-one.json](./307258-deimos-endless-pursuit-of-becoming-deimos-part-one.json) |
+| Dein Sportpferd | 250693 | [250693-dein-sportpferd.json](./250693-dein-sportpferd.json) |
 | Deion Sanders Baseball | 198722 | [198722-deion-sanders-baseball.json](./198722-deion-sanders-baseball.json) |
 | Deios II: Deidia | 26366 | [26366-deios-ii-deidia.json](./26366-deios-ii-deidia.json) |
 | Deirdre | 395695 | [395695-deirdre.json](./395695-deirdre.json) |
@@ -20334,6 +20337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DunJumb | 280002 | [280002-dunjumb.json](./280002-dunjumb.json) |
 | Dunjunguy | 240736 | [240736-dunjunguy.json](./240736-dunjunguy.json) |
 | Dunk a Lot! | 87006 | [87006-dunk-a-lot.json](./87006-dunk-a-lot.json) |
+| Dunk City Dynasty | 250569 | [250569-dunk-city-dynasty.json](./250569-dunk-city-dynasty.json) |
 | Dunk Cookies | 382760 | [382760-dunk-cookies.json](./382760-dunk-cookies.json) |
 | Dunk Dunk | 251983 | [251983-dunk-dunk.json](./251983-dunk-dunk.json) |
 | Dunk Hit | 87360 | [87360-dunk-hit.json](./87360-dunk-hit.json) |
