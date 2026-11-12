@@ -940,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Hime 4 | 286539 | [286539-sakura-hime-4.json](./286539-sakura-hime-4.json) |
 | Sakura Hime 5 | 340670 | [340670-sakura-hime-5.json](./340670-sakura-hime-5.json) |
 | Sakura In Gameland | 147073 | [147073-sakura-in-gameland.json](./147073-sakura-in-gameland.json) |
+| Sakura in Paris | 253615 | [253615-sakura-in-paris.json](./253615-sakura-in-paris.json) |
 | Sakura Isekai Adventure 2 | 301886 | [301886-sakura-isekai-adventure-2.json](./301886-sakura-isekai-adventure-2.json) |
 | Sakura Isekai Adventure 3 | 340669 | [340669-sakura-isekai-adventure-3.json](./340669-sakura-isekai-adventure-3.json) |
 | Sakura Kakumei: Hana Saku Otome-tachi | 181556 | [181556-sakura-kakumei-hana-saku-otome-tachi.json](./181556-sakura-kakumei-hana-saku-otome-tachi.json) |
@@ -4073,6 +4074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrolls of Sengoku Dynasty | 195606 | [195606-scrolls-of-sengoku-dynasty.json](./195606-scrolls-of-sengoku-dynasty.json) |
 | Scrolls of the Lord | 75947 | [75947-scrolls-of-the-lord.json](./75947-scrolls-of-the-lord.json) |
 | Scrongly | 366389 | [366389-scrongly.json](./366389-scrongly.json) |
+| Scroomage | 253552 | [253552-scroomage.json](./253552-scroomage.json) |
 | Scroter | 243521 | [243521-scroter.json](./243521-scroter.json) |
 | Scrub Dudes | 390068 | [390068-scrub-dudes.json](./390068-scrub-dudes.json) |
 | Scrubbles | 92932 | [92932-scrubbles.json](./92932-scrubbles.json) |
@@ -21086,6 +21088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Engineers: Ultimate Edition 2021 | 187967 | [187967-space-engineers-ultimate-edition-2021.json](./187967-space-engineers-ultimate-edition-2021.json) |
 | Space Engineers: Ultimate Edition 2023 | 280417 | [280417-space-engineers-ultimate-edition-2023.json](./280417-space-engineers-ultimate-edition-2023.json) |
 | Space Engineers: Ultimate Edition 2024 | 331850 | [331850-space-engineers-ultimate-edition-2024.json](./331850-space-engineers-ultimate-edition-2024.json) |
+| Space Entity | 253622 | [253622-space-entity.json](./253622-space-entity.json) |
 | Space Epic Untitled - Season 1 | 84132 | [84132-space-epic-untitled-season-1.json](./84132-space-epic-untitled-season-1.json) |
 | Space Escape | 322744 | [322744-space-escape.json](./322744-space-escape.json) |
 | Space Escape | 89978 | [89978-space-escape.json](./89978-space-escape.json) |
@@ -37376,6 +37379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
 | Survivor's Day | 294947 | [294947-survivors-day.json](./294947-survivors-day.json) |
 | Survivor's End | 250451 | [250451-survivors-end.json](./250451-survivors-end.json) |
+| Survivor's guilt | 253642 | [253642-survivors-guilt.json](./253642-survivors-guilt.json) |
 | Survivor's Guilt: Survival | 252947 | [252947-survivors-guilt-survival.json](./252947-survivors-guilt-survival.json) |
 | Survivorman VR: The Descent | 224602 | [224602-survivorman-vr-the-descent.json](./224602-survivorman-vr-the-descent.json) |
 | Survivors | 223287 | [223287-survivors.json](./223287-survivors.json) |
@@ -37403,6 +37407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors: Three Kingdoms | 224695 | [224695-survivors-three-kingdoms.json](./224695-survivors-three-kingdoms.json) |
 | Survivors: Viy | 107583 | [107583-survivors-viy.json](./107583-survivors-viy.json) |
 | SurviVR - Castle Defender | 120068 | [120068-survivr-castle-defender.json](./120068-survivr-castle-defender.json) |
+| Survivter | 253550 | [253550-survivter.json](./253550-survivter.json) |
 | SUS | 290548 | [290548-sus.json](./290548-sus.json) |
 | Sus Hat | 283545 | [283545-sus-hat.json](./283545-sus-hat.json) |
 | Sus Virus Amogus | 304864 | [304864-sus-virus-amogus.json](./304864-sus-virus-amogus.json) |
