@@ -142,6 +142,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Kong | 40581 | [40581-pac-kong.json](./40581-pac-kong.json) |
 | Pac-Laby 3D | 266250 | [266250-pac-laby-3d.json](./266250-pac-laby-3d.json) |
 | Pac-Land | 218351 | [218351-pac-land.json](./218351-pac-land.json) |
+| Pac-Land | 260912 | [260912-pac-land.json](./260912-pac-land.json) |
+| Pac-Land | 260914 | [260914-pac-land.json](./260914-pac-land.json) |
+| Pac-Land | 260918 | [260918-pac-land.json](./260918-pac-land.json) |
+| Pac-Land | 260920 | [260920-pac-land.json](./260920-pac-land.json) |
+| Pac-Land | 260921 | [260921-pac-land.json](./260921-pac-land.json) |
+| Pac-Land | 260923 | [260923-pac-land.json](./260923-pac-land.json) |
 | Pac-Land | 6822 | [6822-pac-land.json](./6822-pac-land.json) |
 | Pac-Maine | 79229 | [79229-pac-maine.json](./79229-pac-maine.json) |
 | Pac-Man | 198842 | [198842-pac-man.json](./198842-pac-man.json) |
@@ -2657,6 +2663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkitect: Deluxe Edition | 192311 | [192311-parkitect-deluxe-edition.json](./192311-parkitect-deluxe-edition.json) |
 | Parkitect: Taste of Adventure | 154203 | [154203-parkitect-taste-of-adventure.json](./154203-parkitect-taste-of-adventure.json) |
 | Parkland | 100484 | [100484-parkland.json](./100484-parkland.json) |
+| Parkour | 260930 | [260930-parkour.json](./260930-parkour.json) |
 | Parkour | 56633 | [56633-parkour.json](./56633-parkour.json) |
 | Parkour Annovation: Unreal Edition | 243952 | [243952-parkour-annovation-unreal-edition.json](./243952-parkour-annovation-unreal-edition.json) |
 | Parkour Arcade | 104623 | [104623-parkour-arcade.json](./104623-parkour-arcade.json) |
@@ -10422,6 +10429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plato Interpreter | 42182 | [42182-plato-interpreter.json](./42182-plato-interpreter.json) |
 | Plato's Universe | 184231 | [184231-platos-universe.json](./184231-platos-universe.json) |
 | Platonic | 192728 | [192728-platonic.json](./192728-platonic.json) |
+| Platonic Archetypes of Dice | 260906 | [260906-platonic-archetypes-of-dice.json](./260906-platonic-archetypes-of-dice.json) |
 | Platonic Paranoia | 117863 | [117863-platonic-paranoia.json](./117863-platonic-paranoia.json) |
 | Platonically Mauled by a Magic Cougar | 225195 | [225195-platonically-mauled-by-a-magic-cougar.json](./225195-platonically-mauled-by-a-magic-cougar.json) |
 | PlatOnir | 103825 | [103825-platonir.json](./103825-platonir.json) |
@@ -15973,6 +15981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Life RPG | 59736 | [59736-prison-life-rpg.json](./59736-prison-life-rpg.json) |
 | Prison Life Sim 2025: Survival | 343504 | [343504-prison-life-sim-2025-survival.json](./343504-prison-life-sim-2025-survival.json) |
 | Prison Life Simulator 2022: World Fight Battle GTA Ultimate | 204875 | [204875-prison-life-simulator-2022-world-fight-battle-gta-ultimate.json](./204875-prison-life-simulator-2022-world-fight-battle-gta-ultimate.json) |
+| Prison Life Simulator Jail: Gangster Escape Games Scary Architect Battle | 260903 | [260903-prison-life-simulator-jail-gangster-escape-games-scary-architect-battle.json](./260903-prison-life-simulator-jail-gangster-escape-games-scary-architect-battle.json) |
 | Prison Life Simulator Jail: Glove Pack Expansion | 317676 | [317676-prison-life-simulator-jail-glove-pack-expansion.json](./317676-prison-life-simulator-jail-glove-pack-expansion.json) |
 | Prison Life Simulator: The Legend of Navalny | 190268 | [190268-prison-life-simulator-the-legend-of-navalny.json](./190268-prison-life-simulator-the-legend-of-navalny.json) |
 | Prison Life: Idle Game | 408750 | [408750-prison-life-idle-game.json](./408750-prison-life-idle-game.json) |
@@ -18790,6 +18799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punch Club | 15931 | [15931-punch-club.json](./15931-punch-club.json) |
 | Punch Club 2: Complete Edition | 309630 | [309630-punch-club-2-complete-edition.json](./309630-punch-club-2-complete-edition.json) |
 | Punch Club 2: Fast Forward | 55916 | [55916-punch-club-2-fast-forward.json](./55916-punch-club-2-fast-forward.json) |
+| Punch Club 2: Fast Forward - Deluxe | 260927 | [260927-punch-club-2-fast-forward-deluxe.json](./260927-punch-club-2-fast-forward-deluxe.json) |
 | Punch Club 2: Iron Fist | 301931 | [301931-punch-club-2-iron-fist.json](./301931-punch-club-2-iron-fist.json) |
 | Punch Club: Deluxe Edition | 51882 | [51882-punch-club-deluxe-edition.json](./51882-punch-club-deluxe-edition.json) |
 | Punch Club: Fights | 174764 | [174764-punch-club-fights.json](./174764-punch-club-fights.json) |
@@ -19995,6 +20005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Vacations: Japan | 275442 | [275442-puzzle-vacations-japan.json](./275442-puzzle-vacations-japan.json) |
 | Puzzle Vacations: Nordics | 315897 | [315897-puzzle-vacations-nordics.json](./315897-puzzle-vacations-nordics.json) |
 | Puzzle Vacations: Thailand and Cambodia | 292905 | [292905-puzzle-vacations-thailand-and-cambodia.json](./292905-puzzle-vacations-thailand-and-cambodia.json) |
+| Puzzle Valley | 260999 | [260999-puzzle-valley.json](./260999-puzzle-valley.json) |
 | Puzzle Vault | 383165 | [383165-puzzle-vault.json](./383165-puzzle-vault.json) |
 | Puzzle Wall | 110800 | [110800-puzzle-wall.json](./110800-puzzle-wall.json) |
 | Puzzle Wars | 337984 | [337984-puzzle-wars.json](./337984-puzzle-wars.json) |
