@@ -8298,6 +8298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WordBrain | 58214 | [58214-wordbrain.json](./58214-wordbrain.json) |
 | Wordbreaker by Powgi | 196176 | [196176-wordbreaker-by-powgi.json](./196176-wordbreaker-by-powgi.json) |
 | WordBuzz 4 | 420654 | [420654-wordbuzz-4.json](./420654-wordbuzz-4.json) |
+| Wordchain | 264293 | [264293-wordchain.json](./264293-wordchain.json) |
 | WordCookies Cross | 87002 | [87002-wordcookies-cross.json](./87002-wordcookies-cross.json) |
 | WordCrasher | 87702 | [87702-wordcrasher.json](./87702-wordcrasher.json) |
 | Worddate | 202045 | [202045-worddate.json](./202045-worddate.json) |
