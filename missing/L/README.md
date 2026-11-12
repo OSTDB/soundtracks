@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Home: Battle of Island | 124186 | [124186-last-home-battle-of-island.json](./124186-last-home-battle-of-island.json) |
 | Last Hope | 174455 | [174455-last-hope.json](./174455-last-hope.json) |
 | Last Hope | 258083 | [258083-last-hope.json](./258083-last-hope.json) |
+| Last Hope | 309154 | [309154-last-hope.json](./309154-last-hope.json) |
 | Last Hope | 46865 | [46865-last-hope.json](./46865-last-hope.json) |
 | Last Hope | 81780 | [81780-last-hope.json](./81780-last-hope.json) |
 | Last Hope - Tower Defense | 33735 | [33735-last-hope-tower-defense.json](./33735-last-hope-tower-defense.json) |
@@ -2361,6 +2362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leaks In Space | 369563 | [369563-leaks-in-space.json](./369563-leaks-in-space.json) |
 | Leaky Business | 397739 | [397739-leaky-business.json](./397739-leaky-business.json) |
 | Leaky World | 387937 | [387937-leaky-world.json](./387937-leaky-world.json) |
+| Lean Simulator: Desperation | 308687 | [308687-lean-simulator-desperation.json](./308687-lean-simulator-desperation.json) |
 | Leander | 12173 | [12173-leander.json](./12173-leander.json) |
 | Leann sins | 367286 | [367286-leann-sins.json](./367286-leann-sins.json) |
 | Leanna's Slice of Life | 114236 | [114236-leannas-slice-of-life.json](./114236-leannas-slice-of-life.json) |
@@ -2815,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Legaia | 13676 | [13676-legend-of-legaia.json](./13676-legend-of-legaia.json) |
 | Legend of Long Night | 96163 | [96163-legend-of-long-night.json](./96163-legend-of-long-night.json) |
 | Legend of Love | 290632 | [290632-legend-of-love.json](./290632-legend-of-love.json) |
+| Legend of Lu: Remastered | 308684 | [308684-legend-of-lu-remastered.json](./308684-legend-of-lu-remastered.json) |
 | Legend of Makai | 39957 | [39957-legend-of-makai.json](./39957-legend-of-makai.json) |
 | Legend of Mana | 143616 | [143616-legend-of-mana.json](./143616-legend-of-mana.json) |
 | Legend of Mana | 14986 | [14986-legend-of-mana.json](./14986-legend-of-mana.json) |
@@ -4595,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar's Pub | 327440 | [327440-liars-pub.json](./327440-liars-pub.json) |
 | Liars Race in Lost Ruins | 224968 | [224968-liars-race-in-lost-ruins.json](./224968-liars-race-in-lost-ruins.json) |
 | Liars Village | 143248 | [143248-liars-village.json](./143248-liars-village.json) |
+| Libbet the Boulder Girl | 309224 | [309224-libbet-the-boulder-girl.json](./309224-libbet-the-boulder-girl.json) |
 | Libble Rabble | 37945 | [37945-libble-rabble.json](./37945-libble-rabble.json) |
 | Libe | 332854 | [332854-libe.json](./332854-libe.json) |
 | Liber | 163198 | [163198-liber.json](./163198-liber.json) |
@@ -6752,9 +6756,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LittleBigPlanet 2 Extras Edition | 414317 | [414317-littlebigplanet-2-extras-edition.json](./414317-littlebigplanet-2-extras-edition.json) |
 | LittleBigPlanet 2 Toy Story Level Kit DLC | 24239 | [24239-littlebigplanet-2-toy-story-level-kit-dlc.json](./24239-littlebigplanet-2-toy-story-level-kit-dlc.json) |
 | LittleBigPlanet 2: Collector's Edition | 44554 | [44554-littlebigplanet-2-collectors-edition.json](./44554-littlebigplanet-2-collectors-edition.json) |
+| LittleBigPlanet 2: Cross-Controller Pack | 308671 | [308671-littlebigplanet-2-cross-controller-pack.json](./308671-littlebigplanet-2-cross-controller-pack.json) |
+| LittleBigPlanet 2: DC Comics Premium Level Pack | 308673 | [308673-littlebigplanet-2-dc-comics-premium-level-pack.json](./308673-littlebigplanet-2-dc-comics-premium-level-pack.json) |
 | LittleBigPlanet 2: Move Pack | 308657 | [308657-littlebigplanet-2-move-pack.json](./308657-littlebigplanet-2-move-pack.json) |
 | LittleBigPlanet 2: Raven Costume | 344728 | [344728-littlebigplanet-2-raven-costume.json](./344728-littlebigplanet-2-raven-costume.json) |
 | LittleBigPlanet 2: Special Edition | 21717 | [21717-littlebigplanet-2-special-edition.json](./21717-littlebigplanet-2-special-edition.json) |
+| LittleBigPlanet 2: The Nightmare Before Christmas Level Kit | 308678 | [308678-littlebigplanet-2-the-nightmare-before-christmas-level-kit.json](./308678-littlebigplanet-2-the-nightmare-before-christmas-level-kit.json) |
 | LittleBigPlanet 2: World Peace Day Costume | 321624 | [321624-littlebigplanet-2-world-peace-day-costume.json](./321624-littlebigplanet-2-world-peace-day-costume.json) |
 | LittleBigPlanet 3: Autumn Seasonal Creator Kit | 321193 | [321193-littlebigplanet-3-autumn-seasonal-creator-kit.json](./321193-littlebigplanet-3-autumn-seasonal-creator-kit.json) |
 | LittleBigPlanet 3: Baroque Costume | 326784 | [326784-littlebigplanet-3-baroque-costume.json](./326784-littlebigplanet-3-baroque-costume.json) |
@@ -8193,6 +8200,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lophis Roguelike-Card RPG game: Darkest Dungeon | 147138 | [147138-lophis-roguelike-card-rpg-game-darkest-dungeon.json](./147138-lophis-roguelike-card-rpg-game-darkest-dungeon.json) |
 | Loplight | 208210 | [208210-loplight.json](./208210-loplight.json) |
 | Lopp | 81648 | [81648-lopp.json](./81648-lopp.json) |
+| Loppi Puzzle Magazine: Hirameku Puzzle Dai-2-gou | 308702 | [308702-loppi-puzzle-magazine-hirameku-puzzle-dai-2-gou.json](./308702-loppi-puzzle-magazine-hirameku-puzzle-dai-2-gou.json) |
+| Loppi Puzzle Magazine: Hirameku Puzzle Dai-3-gou | 308703 | [308703-loppi-puzzle-magazine-hirameku-puzzle-dai-3-gou.json](./308703-loppi-puzzle-magazine-hirameku-puzzle-dai-3-gou.json) |
 | Loppi Puzzle Magazine: Hirameku Soukangou | 226398 | [226398-loppi-puzzle-magazine-hirameku-soukangou.json](./226398-loppi-puzzle-magazine-hirameku-soukangou.json) |
 | Loppi Puzzle Magazine: Kangaeru Dai-2-gou | 226399 | [226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json](./226399-loppi-puzzle-magazine-kangaeru-dai-2-gou.json) |
 | Loppi Puzzle Magazine: Kangaeru Dai-3-gou | 226400 | [226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json](./226400-loppi-puzzle-magazine-kangaeru-dai-3-gou.json) |
