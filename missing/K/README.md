@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keatz: The Lonely Bird | 57042 | [57042-keatz-the-lonely-bird.json](./57042-keatz-the-lonely-bird.json) |
 | Kebab Bar Tycoon | 280070 | [280070-kebab-bar-tycoon.json](./280070-kebab-bar-tycoon.json) |
 | Kebab Bar Tycoon: Extended Edition | 295675 | [295675-kebab-bar-tycoon-extended-edition.json](./295675-kebab-bar-tycoon-extended-edition.json) |
+| Kebab Bar Tycoon: Premium Edition | 303845 | [303845-kebab-bar-tycoon-premium-edition.json](./303845-kebab-bar-tycoon-premium-edition.json) |
 | Kebab Chefs!: Restaurant Simulator | 156653 | [156653-kebab-chefs-restaurant-simulator.json](./156653-kebab-chefs-restaurant-simulator.json) |
 | Kebab House | 158587 | [158587-kebab-house.json](./158587-kebab-house.json) |
 | Kebab it Up! | 81091 | [81091-kebab-it-up.json](./81091-kebab-it-up.json) |
