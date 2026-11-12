@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Epoch: Adult Chronowyrm | 286980 | [286980-last-epoch-adult-chronowyrm.json](./286980-last-epoch-adult-chronowyrm.json) |
 | Last Epoch: Beneath Ancient Skies | 362439 | [362439-last-epoch-beneath-ancient-skies.json](./362439-last-epoch-beneath-ancient-skies.json) |
 | Last Epoch: Celestial Way | 286979 | [286979-last-epoch-celestial-way.json](./286979-last-epoch-celestial-way.json) |
+| Last Epoch: Deluxe Edition | 286181 | [286181-last-epoch-deluxe-edition.json](./286181-last-epoch-deluxe-edition.json) |
 | Last Epoch: Fallen Ronin | 286976 | [286976-last-epoch-fallen-ronin.json](./286976-last-epoch-fallen-ronin.json) |
 | Last Epoch: Firefly's Refuge | 286978 | [286978-last-epoch-fireflys-refuge.json](./286978-last-epoch-fireflys-refuge.json) |
 | Last Epoch: Harbingers of Ruin | 308006 | [308006-last-epoch-harbingers-of-ruin.json](./308006-last-epoch-harbingers-of-ruin.json) |
@@ -1392,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Epoch: Temporal Guardian | 286977 | [286977-last-epoch-temporal-guardian.json](./286977-last-epoch-temporal-guardian.json) |
 | Last Epoch: Tombs of the Erased | 341008 | [341008-last-epoch-tombs-of-the-erased.json](./341008-last-epoch-tombs-of-the-erased.json) |
 | Last Epoch: Twilight Fox | 286563 | [286563-last-epoch-twilight-fox.json](./286563-last-epoch-twilight-fox.json) |
+| Last Epoch: Ultimate Edition | 286182 | [286182-last-epoch-ultimate-edition.json](./286182-last-epoch-ultimate-edition.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
 | Last Escape | 167457 | [167457-last-escape.json](./167457-last-escape.json) |
 | Last Escape: Dead Complex | 276553 | [276553-last-escape-dead-complex.json](./276553-last-escape-dead-complex.json) |
