@@ -442,6 +442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthbreakers | 126458 | [126458-earthbreakers.json](./126458-earthbreakers.json) |
 | EarthClicker | 339585 | [339585-earthclicker.json](./339585-earthclicker.json) |
 | EarthCraft 2: World Exploration & Survival | 99705 | [99705-earthcraft-2-world-exploration-and-survival.json](./99705-earthcraft-2-world-exploration-and-survival.json) |
+| Earthen Dragon | 253645 | [253645-earthen-dragon.json](./253645-earthen-dragon.json) |
 | Earthfall | 27186 | [27186-earthfall.json](./27186-earthfall.json) |
 | Earthfall: Alien Horde | 122651 | [122651-earthfall-alien-horde.json](./122651-earthfall-alien-horde.json) |
 | Earthfall: Alien Horde Deluxe | 238334 | [238334-earthfall-alien-horde-deluxe.json](./238334-earthfall-alien-horde-deluxe.json) |
@@ -2731,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Bowling 3 | 71862 | [71862-elf-bowling-3.json](./71862-elf-bowling-3.json) |
 | Elf Bowling 6: Air Biscuits | 71801 | [71801-elf-bowling-6-air-biscuits.json](./71801-elf-bowling-6-air-biscuits.json) |
 | Elf Bowling 7 1/7: The Last Insult | 56539 | [56539-elf-bowling-7-1-7-the-last-insult.json](./56539-elf-bowling-7-1-7-the-last-insult.json) |
+| Elf Bowling Holiday Pack | 255905 | [255905-elf-bowling-holiday-pack.json](./255905-elf-bowling-holiday-pack.json) |
 | Elf Bowling: Bocce Style | 73931 | [73931-elf-bowling-bocce-style.json](./73931-elf-bowling-bocce-style.json) |
 | Elf Bowling: Collector's Edition | 61343 | [61343-elf-bowling-collectors-edition.json](./61343-elf-bowling-collectors-edition.json) |
 | Elf Bowling: Hawaiian Vacation | 51318 | [51318-elf-bowling-hawaiian-vacation.json](./51318-elf-bowling-hawaiian-vacation.json) |
