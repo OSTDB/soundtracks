@@ -2017,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victim's Tongue | 397765 | [397765-victims-tongue.json](./397765-victims-tongue.json) |
 | Victor | 172887 | [172887-victor.json](./172887-victor.json) |
 | Victor Banana | 171478 | [171478-victor-banana.json](./171478-victor-banana.json) |
+| Victor e o Jacaré | 292728 | [292728-victor-e-o-jacare.json](./292728-victor-e-o-jacare.json) |
 | Victor Loomes: Das Adventure-Game | 135382 | [135382-victor-loomes-das-adventure-game.json](./135382-victor-loomes-das-adventure-game.json) |
 | Victor Space Program | 412033 | [412033-victor-space-program.json](./412033-victor-space-program.json) |
 | Victor Vran: Cauldron of Chaos Dungeon | 171348 | [171348-victor-vran-cauldron-of-chaos-dungeon.json](./171348-victor-vran-cauldron-of-chaos-dungeon.json) |
