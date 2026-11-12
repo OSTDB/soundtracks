@@ -460,6 +460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love My Brother | 81796 | [81796-i-love-my-brother.json](./81796-i-love-my-brother.json) |
 | I Love my Cats | 84542 | [84542-i-love-my-cats.json](./84542-i-love-my-cats.json) |
 | I Love My Dogs | 84541 | [84541-i-love-my-dogs.json](./84541-i-love-my-dogs.json) |
+| I Love My Follower (Count) | 269795 | [269795-i-love-my-follower-count.json](./269795-i-love-my-follower-count.json) |
 | I Love My Goblin Girlfriend | 301482 | [301482-i-love-my-goblin-girlfriend.json](./301482-i-love-my-goblin-girlfriend.json) |
 | I Love my Horse | 44006 | [44006-i-love-my-horse.json](./44006-i-love-my-horse.json) |
 | I Love My Job! | 177845 | [177845-i-love-my-job.json](./177845-i-love-my-job.json) |
