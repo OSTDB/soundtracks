@@ -1787,6 +1787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Mario: Master Quest | 187873 | [187873-paper-mario-master-quest.json](./187873-paper-mario-master-quest.json) |
 | Paper Mario: Master Quest + Jr. | 248349 | [248349-paper-mario-master-quest-jr.json](./248349-paper-mario-master-quest-jr.json) |
 | Paper Mario: Mystical Mission | 357432 | [357432-paper-mario-mystical-mission.json](./357432-paper-mario-mystical-mission.json) |
+| Paper Mario: Pro Mode | 268692 | [268692-paper-mario-pro-mode.json](./268692-paper-mario-pro-mode.json) |
 | Paper Mario: Showtime!! | 318522 | [318522-paper-mario-showtime.json](./318522-paper-mario-showtime.json) |
 | Paper Mario: Star Nova | 358284 | [358284-paper-mario-star-nova.json](./358284-paper-mario-star-nova.json) |
 | Paper Mario: Sticker Star | 3350 | [3350-paper-mario-sticker-star.json](./3350-paper-mario-sticker-star.json) |
@@ -5955,6 +5956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phenocore | 194308 | [194308-phenocore.json](./194308-phenocore.json) |
 | Phenol's Pocket Photo Gallery Vol. 1 | 337010 | [337010-phenols-pocket-photo-gallery-vol-1.json](./337010-phenols-pocket-photo-gallery-vol-1.json) |
 | Phenom | 285800 | [285800-phenom.json](./285800-phenom.json) |
+| Phenomena | 268693 | [268693-phenomena.json](./268693-phenomena.json) |
 | Phenomena | 407239 | [407239-phenomena.json](./407239-phenomena.json) |
 | Phenomena Embattled | 274335 | [274335-phenomena-embattled.json](./274335-phenomena-embattled.json) |
 | Phenomenal Car Park Simulator | 124220 | [124220-phenomenal-car-park-simulator.json](./124220-phenomenal-car-park-simulator.json) |
@@ -12348,6 +12350,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Smile | 135145 | [135145-pokemon-smile.json](./135145-pokemon-smile.json) |
 | Pokémon Snakewood | 213846 | [213846-pokemon-snakewood.json](./213846-pokemon-snakewood.json) |
 | Pokémon Snap 3DS | 401507 | [401507-pokemon-snap-3ds.json](./401507-pokemon-snap-3ds.json) |
+| Pokémon Snap: Basement | 268695 | [268695-pokemon-snap-basement.json](./268695-pokemon-snap-basement.json) |
+| Pokémon Snap: Rith Essa | 268696 | [268696-pokemon-snap-rith-essa.json](./268696-pokemon-snap-rith-essa.json) |
 | Pokémon Sodateyasan Mini | 92306 | [92306-pokemon-sodateyasan-mini.json](./92306-pokemon-sodateyasan-mini.json) |
 | Pokémon Solar Eclipse | 399594 | [399594-pokemon-solar-eclipse.json](./399594-pokemon-solar-eclipse.json) |
 | Pokémon Sombras de Arceus | 314718 | [314718-pokemon-sombras-de-arceus.json](./314718-pokemon-sombras-de-arceus.json) |
@@ -16431,12 +16435,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Probability 0 | 16739 | [16739-probability-0.json](./16739-probability-0.json) |
 | Probability King | 403962 | [403962-probability-king.json](./403962-probability-king.json) |
 | Probability Race | 157327 | [157327-probability-race.json](./157327-probability-race.json) |
+| Probable | 268687 | [268687-probable.json](./268687-probable.json) |
 | Probably Archery | 13362 | [13362-probably-archery.json](./13362-probably-archery.json) |
 | Probably Art | 328976 | [328976-probably-art.json](./328976-probably-art.json) |
 | Probably Nothing | 367054 | [367054-probably-nothing.json](./367054-probably-nothing.json) |
 | Probably Poker | 198046 | [198046-probably-poker.json](./198046-probably-poker.json) |
 | Probably Tuesday | 212086 | [212086-probably-tuesday.json](./212086-probably-tuesday.json) |
 | Probationary Girlfriend | 266319 | [266319-probationary-girlfriend.json](./266319-probationary-girlfriend.json) |
+| Probationary Girlfriend | 268622 | [268622-probationary-girlfriend.json](./268622-probationary-girlfriend.json) |
 | Probe | 133057 | [133057-probe.json](./133057-probe.json) |
 | Probe One: The Transmitter | 24899 | [24899-probe-one-the-transmitter.json](./24899-probe-one-the-transmitter.json) |
 | Probe Team | 128600 | [128600-probe-team.json](./128600-probe-team.json) |
