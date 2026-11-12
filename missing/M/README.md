@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mach K9 | 300348 | [300348-mach-k9.json](./300348-mach-k9.json) |
 | Mach Rider | 4616 | [4616-mach-rider.json](./4616-mach-rider.json) |
 | Mach Storm | 124522 | [124522-mach-storm.json](./124522-mach-storm.json) |
+| Mach Wing | 298347 | [298347-mach-wing.json](./298347-mach-wing.json) |
 | Mach-1 | 376155 | [376155-mach-1.json](./376155-mach-1.json) |
 | Mach's noch einmal, Sven | 206794 | [206794-machs-noch-einmal-sven.json](./206794-machs-noch-einmal-sven.json) |
 | Macheesmo: The Animated Series - The Game | 197580 | [197580-macheesmo-the-animated-series-the-game.json](./197580-macheesmo-the-animated-series-the-game.json) |
@@ -4717,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Married Girls' Night School | 249750 | [249750-married-girls-night-school.json](./249750-married-girls-night-school.json) |
 | Married Life With a Lamia | 275440 | [275440-married-life-with-a-lamia.json](./275440-married-life-with-a-lamia.json) |
 | Married Teacher, Big-Boob Lesson | 97737 | [97737-married-teacher-big-boob-lesson.json](./97737-married-teacher-big-boob-lesson.json) |
+| Married to the Mafia | 298911 | [298911-married-to-the-mafia.json](./298911-married-to-the-mafia.json) |
 | Married Woman Cosplay Life | 248247 | [248247-married-woman-cosplay-life.json](./248247-married-woman-cosplay-life.json) |
 | Married Woman Eilla's NTR RPG: Two Man Cell Journey with Obeying a Douchey Guy | 82852 | [82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json](./82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json) |
 | Married Woman, Miho | 97594 | [97594-married-woman-miho.json](./97594-married-woman-miho.json) |
@@ -7533,6 +7535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medic: Pacific Corpsman | 137797 | [137797-medic-pacific-corpsman.json](./137797-medic-pacific-corpsman.json) |
 | Medic: Pacific War | 155428 | [155428-medic-pacific-war.json](./155428-medic-pacific-war.json) |
 | Medical 91 | 122571 | [122571-medical-91.json](./122571-medical-91.json) |
+| Medical Diagnostic Simulator | 298468 | [298468-medical-diagnostic-simulator.json](./298468-medical-diagnostic-simulator.json) |
 | Medical Record Sheet | 253003 | [253003-medical-record-sheet.json](./253003-medical-record-sheet.json) |
 | Medical verdict | 107913 | [107913-medical-verdict.json](./107913-medical-verdict.json) |
 | Medicalat | 125780 | [125780-medicalat.json](./125780-medicalat.json) |
@@ -9515,6 +9518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of Castlemouse | 346793 | [346793-memories-of-castlemouse.json](./346793-memories-of-castlemouse.json) |
 | Memories of East Coast | 145135 | [145135-memories-of-east-coast.json](./145135-memories-of-east-coast.json) |
 | Memories of Fireflies | 139596 | [139596-memories-of-fireflies.json](./139596-memories-of-fireflies.json) |
+| Memories of Glass Maiden | 297963 | [297963-memories-of-glass-maiden.json](./297963-memories-of-glass-maiden.json) |
 | Memories of Home | 51568 | [51568-memories-of-home.json](./51568-memories-of-home.json) |
 | Memories of Hyrule | 381769 | [381769-memories-of-hyrule.json](./381769-memories-of-hyrule.json) |
 | Memories of Loneliness | 173219 | [173219-memories-of-loneliness.json](./173219-memories-of-loneliness.json) |
@@ -12175,6 +12179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Scenes: The Nanny | 178317 | [178317-midnight-scenes-the-nanny.json](./178317-midnight-scenes-the-nanny.json) |
 | Midnight School Walk | 211649 | [211649-midnight-school-walk.json](./211649-midnight-school-walk.json) |
 | Midnight Scour | 409752 | [409752-midnight-scour.json](./409752-midnight-scour.json) |
+| Midnight Serenade | 298903 | [298903-midnight-serenade.json](./298903-midnight-serenade.json) |
 | Midnight Serenade | 397426 | [397426-midnight-serenade.json](./397426-midnight-serenade.json) |
 | Midnight Shadows | 177220 | [177220-midnight-shadows.json](./177220-midnight-shadows.json) |
 | Midnight Shift | 177272 | [177272-midnight-shift.json](./177272-midnight-shift.json) |
@@ -12815,6 +12820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Million on Mars: Space to Venture | 169131 | [169131-million-on-mars-space-to-venture.json](./169131-million-on-mars-space-to-venture.json) |
 | Million Onion Hotel | 62068 | [62068-million-onion-hotel.json](./62068-million-onion-hotel.json) |
 | Million Shells | 251452 | [251452-million-shells.json](./251452-million-shells.json) |
+| Million Star Ship | 298469 | [298469-million-star-ship.json](./298469-million-star-ship.json) |
 | Million to One | 366711 | [366711-million-to-one.json](./366711-million-to-one.json) |
 | Million to One Hero | 109609 | [109609-million-to-one-hero.json](./109609-million-to-one-hero.json) |
 | million x Pac-Man | 219447 | [219447-million-x-pac-man.json](./219447-million-x-pac-man.json) |
@@ -12823,6 +12829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millionaire Escape | 353582 | [353582-millionaire-escape.json](./353582-millionaire-escape.json) |
 | Millionaire Manor | 17371 | [17371-millionaire-manor.json](./17371-millionaire-manor.json) |
 | Millionaire Manor, Robin's Quest, Escape the Lost Kingdom and the Hidden Object Show 2 | 209510 | [209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json](./209510-millionaire-manor-robins-quest-escape-the-lost-kingdom-and-the-hidden-object-show-2.json) |
+| Millionaire Monster Penthouse | 298906 | [298906-millionaire-monster-penthouse.json](./298906-millionaire-monster-penthouse.json) |
 | Millionaire Obby | 401099 | [401099-millionaire-obby.json](./401099-millionaire-obby.json) |
 | Millionaire Quiz: Trivia Game | 415265 | [415265-millionaire-quiz-trivia-game.json](./415265-millionaire-quiz-trivia-game.json) |
 | Millionaire Show | 232267 | [232267-millionaire-show.json](./232267-millionaire-show.json) |
@@ -14183,6 +14190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minion Masters: Charging Into Darkness | 330730 | [330730-minion-masters-charging-into-darkness.json](./330730-minion-masters-charging-into-darkness.json) |
 | Minion Masters: Crystal Conquest | 330738 | [330738-minion-masters-crystal-conquest.json](./330738-minion-masters-crystal-conquest.json) |
 | Minion Masters: Frost Dragon's Lair | 262592 | [262592-minion-masters-frost-dragons-lair.json](./262592-minion-masters-frost-dragons-lair.json) |
+| Minion Masters: Frostbite | 298486 | [298486-minion-masters-frostbite.json](./298486-minion-masters-frostbite.json) |
 | Minion Masters: Furry Fury | 330732 | [330732-minion-masters-furry-fury.json](./330732-minion-masters-furry-fury.json) |
 | Minion Masters: Kaboom Kingdom | 330726 | [330726-minion-masters-kaboom-kingdom.json](./330726-minion-masters-kaboom-kingdom.json) |
 | Minion Masters: Might of the Slither Lords | 330739 | [330739-minion-masters-might-of-the-slither-lords.json](./330739-minion-masters-might-of-the-slither-lords.json) |
