@@ -4362,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Destiny Comes Knocking | 238909 | [238909-when-destiny-comes-knocking.json](./238909-when-destiny-comes-knocking.json) |
 | When Dreams Wake | 398342 | [398342-when-dreams-wake.json](./398342-when-dreams-wake.json) |
 | When Eyes Close | 360745 | [360745-when-eyes-close.json](./360745-when-eyes-close.json) |
+| When God Left Us | 247802 | [247802-when-god-left-us.json](./247802-when-god-left-us.json) |
 | When Hell Freezes Over | 407416 | [407416-when-hell-freezes-over.json](./407416-when-hell-freezes-over.json) |
 | When Honor Dies | 216831 | [216831-when-honor-dies.json](./216831-when-honor-dies.json) |
 | When I Die | 187741 | [187741-when-i-die.json](./187741-when-i-die.json) |
