@@ -844,6 +844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Storm | 97008 | [97008-halloween-storm.json](./97008-halloween-storm.json) |
 | Halloween Survivors | 270525 | [270525-halloween-survivors.json](./270525-halloween-survivors.json) |
 | Halloween Sweetplechase | 164050 | [164050-halloween-sweetplechase.json](./164050-halloween-sweetplechase.json) |
+| Halloween Tales Escape | 315766 | [315766-halloween-tales-escape.json](./315766-halloween-tales-escape.json) |
 | Halloween Trick or Treat Escape 1 | 395954 | [395954-halloween-trick-or-treat-escape-1.json](./395954-halloween-trick-or-treat-escape-1.json) |
 | Halloween Tripeaks | 61047 | [61047-halloween-tripeaks.json](./61047-halloween-tripeaks.json) |
 | Halloween Trouble 2 | 155647 | [155647-halloween-trouble-2.json](./155647-halloween-trouble-2.json) |
@@ -4234,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helichapter X | 287110 | [287110-helichapter-x.json](./287110-helichapter-x.json) |
 | Helichopper | 80156 | [80156-helichopper.json](./80156-helichopper.json) |
 | Helichoppy | 383698 | [383698-helichoppy.json](./383698-helichoppy.json) |
+| HeliCity Demolition Man | 315382 | [315382-helicity-demolition-man.json](./315382-helicity-demolition-man.json) |
 | Heliconian: Starship Crew Control | 133403 | [133403-heliconian-starship-crew-control.json](./133403-heliconian-starship-crew-control.json) |
 | Helicop Investigates Words and Numbers | 317766 | [317766-helicop-investigates-words-and-numbers.json](./317766-helicop-investigates-words-and-numbers.json) |
 | Helicops | 78924 | [78924-helicops.json](./78924-helicops.json) |
@@ -10185,6 +10187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Dorm Life | 362032 | [362032-honkai-impact-3rd-dorm-life.json](./362032-honkai-impact-3rd-dorm-life.json) |
 | Honkai Impact 3rd: Dreams of Gemina | 281580 | [281580-honkai-impact-3rd-dreams-of-gemina.json](./281580-honkai-impact-3rd-dreams-of-gemina.json) |
 | Honkai Impact 3rd: Dreamseeking Voyage | 284193 | [284193-honkai-impact-3rd-dreamseeking-voyage.json](./284193-honkai-impact-3rd-dreamseeking-voyage.json) |
+| Honkai Impact 3rd: Drudging, Drifting, Dreaming | 315387 | [315387-honkai-impact-3rd-drudging-drifting-dreaming.json](./315387-honkai-impact-3rd-drudging-drifting-dreaming.json) |
 | Honkai Impact 3rd: Drumming in New Resolutions | 332301 | [332301-honkai-impact-3rd-drumming-in-new-resolutions.json](./332301-honkai-impact-3rd-drumming-in-new-resolutions.json) |
 | Honkai Impact 3rd: Edict of Twilight | 281575 | [281575-honkai-impact-3rd-edict-of-twilight.json](./281575-honkai-impact-3rd-edict-of-twilight.json) |
 | Honkai Impact 3rd: Elysian Reverie | 276496 | [276496-honkai-impact-3rd-elysian-reverie.json](./276496-honkai-impact-3rd-elysian-reverie.json) |
@@ -12889,6 +12892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter's Journey: Tears of the Lake | 416706 | [416706-hunters-journey-tears-of-the-lake.json](./416706-hunters-journey-tears-of-the-lake.json) |
 | Hunter's Journey: Tears of the Lake - Collector's Edition | 362844 | [362844-hunters-journey-tears-of-the-lake-collectors-edition.json](./362844-hunters-journey-tears-of-the-lake-collectors-edition.json) |
 | Hunter's Legacy | 24022 | [24022-hunters-legacy.json](./24022-hunters-legacy.json) |
+| Hunter's Legacy | 315945 | [315945-hunters-legacy.json](./315945-hunters-legacy.json) |
 | Hunter's Moon | 144939 | [144939-hunters-moon.json](./144939-hunters-moon.json) |
 | Hunter's Moon | 37310 | [37310-hunters-moon.json](./37310-hunters-moon.json) |
 | Hunter's Moon | 416105 | [416105-hunters-moon.json](./416105-hunters-moon.json) |
