@@ -2352,6 +2352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fappy Bird | 261028 | [261028-fappy-bird.json](./261028-fappy-bird.json) |
 | Faptastic Journey | 194316 | [194316-faptastic-journey.json](./194316-faptastic-journey.json) |
 | Far a Night | 389617 | [389617-far-a-night.json](./389617-far-a-night.json) |
+| Far Ahead | 288407 | [288407-far-ahead.json](./288407-far-ahead.json) |
 | Far Away | 130105 | [130105-far-away.json](./130105-far-away.json) |
 | Far Away From Home | 190432 | [190432-far-away-from-home.json](./190432-far-away-from-home.json) |
 | Far Away Horse | 367662 | [367662-far-away-horse.json](./367662-far-away-horse.json) |
@@ -7822,6 +7823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flamebound | 103786 | [103786-flamebound.json](./103786-flamebound.json) |
 | Flamebreak | 24622 | [24622-flamebreak.json](./24622-flamebreak.json) |
 | Flamecraft | 342916 | [342916-flamecraft.json](./342916-flamecraft.json) |
+| Flamed Sugar | 288425 | [288425-flamed-sugar.json](./288425-flamed-sugar.json) |
 | Flamefall | 342143 | [342143-flamefall.json](./342143-flamefall.json) |
 | Flamel's Miracle | 90479 | [90479-flamels-miracle.json](./90479-flamels-miracle.json) |
 | Flameruby | 106542 | [106542-flameruby.json](./106542-flameruby.json) |
@@ -10055,6 +10057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FootCareer Ult | 311910 | [311910-footcareer-ult.json](./311910-footcareer-ult.json) |
 | FootGoal! Tiki Taka | 147921 | [147921-footgoal-tiki-taka.json](./147921-footgoal-tiki-taka.json) |
 | Footgun: Underground | 226468 | [226468-footgun-underground.json](./226468-footgun-underground.json) |
+| Foothold | 288391 | [288391-foothold.json](./288391-foothold.json) |
 | Foothold VR | 283409 | [283409-foothold-vr.json](./283409-foothold-vr.json) |
 | Footie | 268485 | [268485-footie.json](./268485-footie.json) |
 | FootLOL: Crazy Soccer! | 102620 | [102620-footlol-crazy-soccer.json](./102620-footlol-crazy-soccer.json) |
@@ -12283,6 +12286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frasier Fantasy | 272669 | [272669-frasier-fantasy.json](./272669-frasier-fantasy.json) |
 | Fraud Camp: Survival Escape | 372455 | [372455-fraud-camp-survival-escape.json](./372455-fraud-camp-survival-escape.json) |
 | Fraudster | 340245 | [340245-fraudster.json](./340245-fraudster.json) |
+| Fraudulent Idols | 288384 | [288384-fraudulent-idols.json](./288384-fraudulent-idols.json) |
 | Fraulein Lolita First Date With You | 157955 | [157955-fraulein-lolita-first-date-with-you.json](./157955-fraulein-lolita-first-date-with-you.json) |
 | Fraxinus Decay | 188373 | [188373-fraxinus-decay.json](./188373-fraxinus-decay.json) |
 | Fraxy | 124574 | [124574-fraxy.json](./124574-fraxy.json) |
