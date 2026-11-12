@@ -7155,6 +7155,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's A Racing Game | 109427 | [109427-its-a-racing-game.json](./109427-its-a-racing-game.json) |
 | It's a Shore Thing | 311312 | [311312-its-a-shore-thing.json](./311312-its-a-shore-thing.json) |
 | It's a Trap | 111380 | [111380-its-a-trap.json](./111380-its-a-trap.json) |
+| It's A War Out There 1 | 276444 | [276444-its-a-war-out-there-1.json](./276444-its-a-war-out-there-1.json) |
+| It's A War Out There 2 | 276445 | [276445-its-a-war-out-there-2.json](./276445-its-a-war-out-there-2.json) |
 | It's A Wipe! | 17982 | [17982-its-a-wipe.json](./17982-its-a-wipe.json) |
 | It's a Wrap! | 167573 | [167573-its-a-wrap.json](./167573-its-a-wrap.json) |
 | It's About the Journey | 121548 | [121548-its-about-the-journey.json](./121548-its-about-the-journey.json) |
