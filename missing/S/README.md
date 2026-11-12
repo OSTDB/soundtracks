@@ -13260,6 +13260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinny | 408639 | [408639-skinny.json](./408639-skinny.json) |
 | Skinny & Franko: Fists of Violence | 215900 | [215900-skinny-and-franko-fists-of-violence.json](./215900-skinny-and-franko-fists-of-violence.json) |
 | Skinny Girls | 259023 | [259023-skinny-girls.json](./259023-skinny-girls.json) |
+| Skinny Norris | 271357 | [271357-skinny-norris.json](./271357-skinny-norris.json) |
 | Skins Game | 91433 | [91433-skins-game.json](./91433-skins-game.json) |
 | Skinscape | 102358 | [102358-skinscape.json](./102358-skinscape.json) |
 | Skinwalker | 374525 | [374525-skinwalker.json](./374525-skinwalker.json) |
