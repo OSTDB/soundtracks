@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercover Cops: Collector's Edition | 195986 | [195986-undercover-cops-collectors-edition.json](./195986-undercover-cops-collectors-edition.json) |
 | Undercover Fools | 333474 | [333474-undercover-fools.json](./333474-undercover-fools.json) |
 | Undercover Girlfriend | 206005 | [206005-undercover-girlfriend.json](./206005-undercover-girlfriend.json) |
+| Undercover Speed Dating (with Wolves) | 263730 | [263730-undercover-speed-dating-with-wolves.json](./263730-undercover-speed-dating-with-wolves.json) |
 | Undercover: Blood Bonds | 225303 | [225303-undercover-blood-bonds.json](./225303-undercover-blood-bonds.json) |
 | Undercover: Dual Motives | 66379 | [66379-undercover-dual-motives.json](./66379-undercover-dual-motives.json) |
 | Undercover: Operation Wintersun | 68962 | [68962-undercover-operation-wintersun.json](./68962-undercover-operation-wintersun.json) |
@@ -1862,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undercrewed | 89325 | [89325-undercrewed.json](./89325-undercrewed.json) |
 | Undercroft | 301097 | [301097-undercroft.json](./301097-undercroft.json) |
 | Undercroft | 92056 | [92056-undercroft.json](./92056-undercroft.json) |
+| Undercroft Warriors | 263727 | [263727-undercroft-warriors.json](./263727-undercroft-warriors.json) |
 | Undercurrent | 187067 | [187067-undercurrent.json](./187067-undercurrent.json) |
 | Undercurrent | 399199 | [399199-undercurrent.json](./399199-undercurrent.json) |
 | Undercurrent: The Hollow Crown | 421578 | [421578-undercurrent-the-hollow-crown.json](./421578-undercurrent-the-hollow-crown.json) |
