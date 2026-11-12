@@ -44,6 +44,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Prince A | 97723 | [97723-d-prince-a.json](./97723-d-prince-a.json) |
 | D-Return | 92112 | [92112-d-return.json](./92112-d-return.json) |
 | D-Star's | 130793 | [130793-d-stars.json](./130793-d-stars.json) |
+| D-Sudoku | 312937 | [312937-d-sudoku.json](./312937-d-sudoku.json) |
 | D-topia | 369840 | [369840-d-topia.json](./369840-d-topia.json) |
 | D-Unit Drift Racing | 44678 | [44678-d-unit-drift-racing.json](./44678-d-unit-drift-racing.json) |
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
@@ -3188,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DayDream Mosaics 2: Juliette's Tale | 193506 | [193506-daydream-mosaics-2-juliettes-tale.json](./193506-daydream-mosaics-2-juliettes-tale.json) |
 | Daydream Mosaics 3: Shards of Hope | 215021 | [215021-daydream-mosaics-3-shards-of-hope.json](./215021-daydream-mosaics-3-shards-of-hope.json) |
 | Daydream Mosaics 4: Shades of Blue | 268318 | [268318-daydream-mosaics-4-shades-of-blue.json](./268318-daydream-mosaics-4-shades-of-blue.json) |
+| Daydream Mosaics 5: Crimson Veil | 313528 | [313528-daydream-mosaics-5-crimson-veil.json](./313528-daydream-mosaics-5-crimson-veil.json) |
 | Daydream Mosaics 6: Empire - Collector's Edition | 385425 | [385425-daydream-mosaics-6-empire-collectors-edition.json](./385425-daydream-mosaics-6-empire-collectors-edition.json) |
 | Daydream Mosaics: Juliette's Collection | 357307 | [357307-daydream-mosaics-juliettes-collection.json](./357307-daydream-mosaics-juliettes-collection.json) |
 | Daydream Paradise | 336457 | [336457-daydream-paradise.json](./336457-daydream-paradise.json) |
@@ -20604,6 +20606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dying Light: Volkan Combat Armor Bundle | 224139 | [224139-dying-light-volkan-combat-armor-bundle.json](./224139-dying-light-volkan-combat-armor-bundle.json) |
 | Dying Light: White Death Bundle | 224135 | [224135-dying-light-white-death-bundle.json](./224135-dying-light-white-death-bundle.json) |
 | Dying Night Sex with Zombi | 375952 | [375952-dying-night-sex-with-zombi.json](./375952-dying-night-sex-with-zombi.json) |
+| Dying Noise | 313525 | [313525-dying-noise.json](./313525-dying-noise.json) |
 | Dying of Thirst | 177298 | [177298-dying-of-thirst.json](./177298-dying-of-thirst.json) |
 | Dying Reign | 355560 | [355560-dying-reign.json](./355560-dying-reign.json) |
 | Dying Sun | 332197 | [332197-dying-sun.json](./332197-dying-sun.json) |
