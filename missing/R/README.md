@@ -9093,6 +9093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Rage 3D | 239225 | [239225-road-rage-3d.json](./239225-road-rage-3d.json) |
 | Road Rage Radio | 383776 | [383776-road-rage-radio.json](./383776-road-rage-radio.json) |
 | Road Rage Royale | 115563 | [115563-road-rage-royale.json](./115563-road-rage-royale.json) |
+| Road Rampage | 270923 | [270923-road-rampage.json](./270923-road-rampage.json) |
 | Road Rash | 141271 | [141271-road-rash.json](./141271-road-rash.json) |
 | Road Rash | 249144 | [249144-road-rash.json](./249144-road-rash.json) |
 | Road Rash | 281827 | [281827-road-rash.json](./281827-road-rash.json) |
@@ -12731,6 +12732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubicon | 79242 | [79242-rubicon.json](./79242-rubicon.json) |
 | Rubicon Approach | 83944 | [83944-rubicon-approach.json](./83944-rubicon-approach.json) |
 | Rubicon: A Conspiracy of Silence | 178284 | [178284-rubicon-a-conspiracy-of-silence.json](./178284-rubicon-a-conspiracy-of-silence.json) |
+| Rubicon: Cubindom | 270922 | [270922-rubicon-cubindom.json](./270922-rubicon-cubindom.json) |
 | Rubicondom | 271336 | [271336-rubicondom.json](./271336-rubicondom.json) |
 | Rubido | 260714 | [260714-rubido.json](./260714-rubido.json) |
 | Rubido | 318891 | [318891-rubido.json](./318891-rubido.json) |
@@ -13489,6 +13491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeroots | 211800 | [211800-runeroots.json](./211800-runeroots.json) |
 | Runeroots TD | 253865 | [253865-runeroots-td.json](./253865-runeroots-td.json) |
 | Runers | 10801 | [10801-runers.json](./10801-runers.json) |
+| Runes | 270921 | [270921-runes.json](./270921-runes.json) |
 | Runes | 82009 | [82009-runes.json](./82009-runes.json) |
 | Runes & Revenue | 392069 | [392069-runes-and-revenue.json](./392069-runes-and-revenue.json) |
 | Runes Magica | 197541 | [197541-runes-magica.json](./197541-runes-magica.json) |
