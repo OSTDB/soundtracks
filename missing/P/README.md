@@ -6478,6 +6478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pick Up Your Masks | 369801 | [369801-pick-up-your-masks.json](./369801-pick-up-your-masks.json) |
 | Pick Your Poison | 126789 | [126789-pick-your-poison.json](./126789-pick-your-poison.json) |
 | Pick-A-Gem | 59460 | [59460-pick-a-gem.json](./59460-pick-a-gem.json) |
+| Pick-a-Pocket | 257696 | [257696-pick-a-pocket.json](./257696-pick-a-pocket.json) |
 | Pick, shoot, repeat! | 129075 | [129075-pick-shoot-repeat.json](./129075-pick-shoot-repeat.json) |
 | Picka: 30 Days to Love | 199215 | [199215-picka-30-days-to-love.json](./199215-picka-30-days-to-love.json) |
 | Pickaxe Friends | 258678 | [258678-pickaxe-friends.json](./258678-pickaxe-friends.json) |
@@ -10078,6 +10079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planetarix | 108906 | [108906-planetarix.json](./108906-planetarix.json) |
 | Planetary Annihilation: Titans | 18962 | [18962-planetary-annihilation-titans.json](./18962-planetary-annihilation-titans.json) |
 | Planetary Assembly | 184272 | [184272-planetary-assembly.json](./184272-planetary-assembly.json) |
+| Planetary Attraction | 257592 | [257592-planetary-attraction.json](./257592-planetary-attraction.json) |
 | Planetary Campaign | 92111 | [92111-planetary-campaign.json](./92111-planetary-campaign.json) |
 | Planetary Control! | 149888 | [149888-planetary-control.json](./149888-planetary-control.json) |
 | Planetary Defense | 164862 | [164862-planetary-defense.json](./164862-planetary-defense.json) |
@@ -14965,6 +14967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precinct 20: Dead Strange | 419882 | [419882-precinct-20-dead-strange.json](./419882-precinct-20-dead-strange.json) |
 | Precinct IX | 408707 | [408707-precinct-ix.json](./408707-precinct-ix.json) |
 | Precious Star | 124577 | [124577-precious-star.json](./124577-precious-star.json) |
+| Precious Theatre: Pilot | 257619 | [257619-precious-theatre-pilot.json](./257619-precious-theatre-pilot.json) |
 | Precious: Naze Shou ha Kami ni Idonda no ka? | 345543 | [345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json](./345543-precious-naze-shou-ha-kami-ni-idonda-no-ka.json) |
 | Precipice | 111937 | [111937-precipice.json](./111937-precipice.json) |
 | Précipice | 415251 | [415251-precipice.json](./415251-precipice.json) |
