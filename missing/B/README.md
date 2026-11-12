@@ -3795,6 +3795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Academy: Operation Sealion | 168437 | [168437-battle-academy-operation-sealion.json](./168437-battle-academy-operation-sealion.json) |
 | Battle Academy: Rommel in Normandy | 168435 | [168435-battle-academy-rommel-in-normandy.json](./168435-battle-academy-rommel-in-normandy.json) |
 | Battle Ace | 38103 | [38103-battle-ace.json](./38103-battle-ace.json) |
+| Battle Aces | 305024 | [305024-battle-aces.json](./305024-battle-aces.json) |
 | Battle Ages | 58634 | [58634-battle-ages.json](./58634-battle-ages.json) |
 | Battle Air Hockey Break Beats! | 338203 | [338203-battle-air-hockey-break-beats.json](./338203-battle-air-hockey-break-beats.json) |
 | Battle AirForce | 337410 | [337410-battle-airforce.json](./337410-battle-airforce.json) |
@@ -4440,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Unit Zeoth | 7775 | [7775-battle-unit-zeoth.json](./7775-battle-unit-zeoth.json) |
 | Battle Vader | 80321 | [80321-battle-vader.json](./80321-battle-vader.json) |
 | Battle Valley | 11946 | [11946-battle-valley.json](./11946-battle-valley.json) |
+| Battle Vision | 305029 | [305029-battle-vision.json](./305029-battle-vision.json) |
 | Battle Wave | 275376 | [275376-battle-wave.json](./275376-battle-wave.json) |
 | Battle Wave 2323 | 166281 | [166281-battle-wave-2323.json](./166281-battle-wave-2323.json) |
 | Battle Waves | 204809 | [204809-battle-waves.json](./204809-battle-waves.json) |
@@ -12847,6 +12849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat Builder: Andy's Story | 224597 | [224597-boat-builder-andys-story.json](./224597-boat-builder-andys-story.json) |
 | Boat Crew | 167803 | [167803-boat-crew.json](./167803-boat-crew.json) |
 | Boat Delivery: Island Transport Simulator | 334989 | [334989-boat-delivery-island-transport-simulator.json](./334989-boat-delivery-island-transport-simulator.json) |
+| Boat Driver: Ship Parking Simulator | 305573 | [305573-boat-driver-ship-parking-simulator.json](./305573-boat-driver-ship-parking-simulator.json) |
 | Boat Go | 235118 | [235118-boat-go.json](./235118-boat-go.json) |
 | Boat House | 313352 | [313352-boat-house.json](./313352-boat-house.json) |
 | Boat Party | 258402 | [258402-boat-party.json](./258402-boat-party.json) |
