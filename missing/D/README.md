@@ -7748,6 +7748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Dungeons | 258635 | [258635-desert-dungeons.json](./258635-desert-dungeons.json) |
 | Desert Echo | 418234 | [418234-desert-echo.json](./418234-desert-echo.json) |
 | Desert Falcon | 11870 | [11870-desert-falcon.json](./11870-desert-falcon.json) |
+| Desert Falcon | 277550 | [277550-desert-falcon.json](./277550-desert-falcon.json) |
 | Desert Force: Rescue Mission | 259072 | [259072-desert-force-rescue-mission.json](./259072-desert-force-rescue-mission.json) |
 | Desert Fox | 26235 | [26235-desert-fox.json](./26235-desert-fox.json) |
 | Desert Fox: The Battle of El Alamein | 22261 | [22261-desert-fox-the-battle-of-el-alamein.json](./22261-desert-fox-the-battle-of-el-alamein.json) |
@@ -8825,6 +8826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil's Dungeon | 190051 | [190051-devils-dungeon.json](./190051-devils-dungeon.json) |
 | Devil's Eyes | 189830 | [189830-devils-eyes.json](./189830-devils-eyes.json) |
 | Devil's Food | 301952 | [301952-devils-food.json](./301952-devils-food.json) |
+| Devil's Gambit | 277476 | [277476-devils-gambit.json](./277476-devils-gambit.json) |
 | Devil's Gold | 166056 | [166056-devils-gold.json](./166056-devils-gold.json) |
 | Devil's Grip | 257300 | [257300-devils-grip.json](./257300-devils-grip.json) |
 | Devil's Heaven | 277377 | [277377-devils-heaven.json](./277377-devils-heaven.json) |
