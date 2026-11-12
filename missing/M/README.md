@@ -14464,6 +14464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Chou Party Plus: Sanae to Tenshi no Gensou Labyrinth | 206955 | [206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json](./206955-miracle-chou-party-plus-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Chou Party: Sanae to Tenshi no Gensou Labyrinth | 206944 | [206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json](./206944-miracle-chou-party-sanae-to-tenshi-no-gensou-labyrinth.json) |
 | Miracle Circus | 110365 | [110365-miracle-circus.json](./110365-miracle-circus.json) |
+| Miracle Corp. | 292182 | [292182-miracle-corp.json](./292182-miracle-corp.json) |
 | Miracle Field | 160092 | [160092-miracle-field.json](./160092-miracle-field.json) |
 | Miracle Fly | 22005 | [22005-miracle-fly.json](./22005-miracle-fly.json) |
 | Miracle Girls | 42386 | [42386-miracle-girls.json](./42386-miracle-girls.json) |
@@ -17527,6 +17528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trux: Arenas | 5019 | [5019-monster-trux-arenas.json](./5019-monster-trux-arenas.json) |
 | Monster Trux: Offroad | 21500 | [21500-monster-trux-offroad.json](./21500-monster-trux-offroad.json) |
 | Monster Tutor | 357455 | [357455-monster-tutor.json](./357455-monster-tutor.json) |
+| Monster Typer Backspace | 292192 | [292192-monster-typer-backspace.json](./292192-monster-typer-backspace.json) |
 | Monster United | 295587 | [295587-monster-united.json](./295587-monster-united.json) |
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
 | Monster Viator | 128941 | [128941-monster-viator.json](./128941-monster-viator.json) |
