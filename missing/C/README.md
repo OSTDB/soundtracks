@@ -4076,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles and Manors: Escape Room Bundle | 410387 | [410387-castles-and-manors-escape-room-bundle.json](./410387-castles-and-manors-escape-room-bundle.json) |
 | Castles II: Siege & Conquest | 51576 | [51576-castles-ii-siege-and-conquest.json](./51576-castles-ii-siege-and-conquest.json) |
 | Castles in the Sky | 62703 | [62703-castles-in-the-sky.json](./62703-castles-in-the-sky.json) |
+| Castles of Darkness | 287289 | [287289-castles-of-darkness.json](./287289-castles-of-darkness.json) |
 | Castles of War | 390630 | [390630-castles-of-war.json](./390630-castles-of-war.json) |
 | Castles: The Northern Campaign | 11269 | [11269-castles-the-northern-campaign.json](./11269-castles-the-northern-campaign.json) |
 | CastleStorm II | 119361 | [119361-castlestorm-ii.json](./119361-castlestorm-ii.json) |
