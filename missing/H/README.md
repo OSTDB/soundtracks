@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hadalis | 384311 | [384311-hadalis.json](./384311-hadalis.json) |
 | Hadalyth Zero | 414616 | [414616-hadalyth-zero.json](./414616-hadalyth-zero.json) |
 | Hadarot | 291248 | [291248-hadarot.json](./291248-hadarot.json) |
+| Haddie's Pizzeria | 264925 | [264925-haddies-pizzeria.json](./264925-haddies-pizzeria.json) |
 | Hade | 30655 | [30655-hade.json](./30655-hade.json) |
 | Hade: Forbidden Levels | 172092 | [172092-hade-forbidden-levels.json](./172092-hade-forbidden-levels.json) |
 | Hadean Lands | 18654 | [18654-hadean-lands.json](./18654-hadean-lands.json) |
@@ -3538,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart and Seoul | 30833 | [30833-heart-and-seoul.json](./30833-heart-and-seoul.json) |
 | Heart attack | 195820 | [195820-heart-attack.json](./195820-heart-attack.json) |
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
+| Heart Attack | 264916 | [264916-heart-attack.json](./264916-heart-attack.json) |
 | Heart Beat Clue | 291808 | [291808-heart-beat-clue.json](./291808-heart-beat-clue.json) |
 | Heart Beat Strikers | 304923 | [304923-heart-beat-strikers.json](./304923-heart-beat-strikers.json) |
 | Heart Box | 182008 | [182008-heart-box.json](./182008-heart-box.json) |
@@ -11545,7 +11547,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed 2: Twin Mill (Unleashed Edition) | 271777 | [271777-hot-wheels-unleashed-2-twin-mill-unleashed-edition.json](./271777-hot-wheels-unleashed-2-twin-mill-unleashed-edition.json) |
 | Hot Wheels Unleashed 2: Unstoppables Pack | 272066 | [272066-hot-wheels-unleashed-2-unstoppables-pack.json](./272066-hot-wheels-unleashed-2-unstoppables-pack.json) |
 | Hot Wheels Unleashed: AcceleRacers Bassline | 265075 | [265075-hot-wheels-unleashed-acceleracers-bassline.json](./265075-hot-wheels-unleashed-acceleracers-bassline.json) |
+| Hot Wheels Unleashed: AcceleRacers Deora II | 264913 | [264913-hot-wheels-unleashed-acceleracers-deora-ii.json](./264913-hot-wheels-unleashed-acceleracers-deora-ii.json) |
 | Hot Wheels Unleashed: AcceleRacers Hollowback | 265087 | [265087-hot-wheels-unleashed-acceleracers-hollowback.json](./265087-hot-wheels-unleashed-acceleracers-hollowback.json) |
+| Hot Wheels Unleashed: Bye Focal II | 264910 | [264910-hot-wheels-unleashed-bye-focal-ii.json](./264910-hot-wheels-unleashed-bye-focal-ii.json) |
 | Hot Wheels Unleashed: Challenge Accepted Edition | 146181 | [146181-hot-wheels-unleashed-challenge-accepted-edition.json](./146181-hot-wheels-unleashed-challenge-accepted-edition.json) |
 | Hot Wheels Unleashed: Chevy 1956 | 264491 | [264491-hot-wheels-unleashed-chevy-1956.json](./264491-hot-wheels-unleashed-chevy-1956.json) |
 | Hot Wheels Unleashed: Christmas Pack | 223787 | [223787-hot-wheels-unleashed-christmas-pack.json](./223787-hot-wheels-unleashed-christmas-pack.json) |
@@ -11556,6 +11560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: Fun Pack | 223786 | [223786-hot-wheels-unleashed-fun-pack.json](./223786-hot-wheels-unleashed-fun-pack.json) |
 | Hot Wheels Unleashed: Game of the Year Edition | 218968 | [218968-hot-wheels-unleashed-game-of-the-year-edition.json](./218968-hot-wheels-unleashed-game-of-the-year-edition.json) |
 | Hot Wheels Unleashed: Looney Tunes | 209393 | [209393-hot-wheels-unleashed-looney-tunes.json](./209393-hot-wheels-unleashed-looney-tunes.json) |
+| Hot Wheels Unleashed: Mattel Dream Mobile | 264912 | [264912-hot-wheels-unleashed-mattel-dream-mobile.json](./264912-hot-wheels-unleashed-mattel-dream-mobile.json) |
 | Hot Wheels Unleashed: McLaren Senna | 195768 | [195768-hot-wheels-unleashed-mclaren-senna.json](./195768-hot-wheels-unleashed-mclaren-senna.json) |
 | Hot Wheels Unleashed: Monster Trucks | 213085 | [213085-hot-wheels-unleashed-monster-trucks.json](./213085-hot-wheels-unleashed-monster-trucks.json) |
 | Hot Wheels Unleashed: Night Burner | 195767 | [195767-hot-wheels-unleashed-night-burner.json](./195767-hot-wheels-unleashed-night-burner.json) |
@@ -11564,6 +11569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Wheels Unleashed: Street Fighter Ryu | 264435 | [264435-hot-wheels-unleashed-street-fighter-ryu.json](./264435-hot-wheels-unleashed-street-fighter-ryu.json) |
 | Hot Wheels Unleashed: Street Fighter Vega | 195770 | [195770-hot-wheels-unleashed-street-fighter-vega.json](./195770-hot-wheels-unleashed-street-fighter-vega.json) |
 | Hot Wheels Unleashed: Superman | 264428 | [264428-hot-wheels-unleashed-superman.json](./264428-hot-wheels-unleashed-superman.json) |
+| Hot Wheels Unleashed: Thanksgiving Pack | 264911 | [264911-hot-wheels-unleashed-thanksgiving-pack.json](./264911-hot-wheels-unleashed-thanksgiving-pack.json) |
 | Hot Wheels Unleashed: Ultimate Stunt Edition | 169205 | [169205-hot-wheels-unleashed-ultimate-stunt-edition.json](./169205-hot-wheels-unleashed-ultimate-stunt-edition.json) |
 | Hot Wheels Velocity X | 243199 | [243199-hot-wheels-velocity-x.json](./243199-hot-wheels-velocity-x.json) |
 | Hot Wheels Velocity X | 2653 | [2653-hot-wheels-velocity-x.json](./2653-hot-wheels-velocity-x.json) |
