@@ -4994,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Temptation Academy | 144117 | [144117-nightmare-temptation-academy.json](./144117-nightmare-temptation-academy.json) |
 | Nightmare Train | 383878 | [383878-nightmare-train.json](./383878-nightmare-train.json) |
 | Nightmare traveler | 178819 | [178819-nightmare-traveler.json](./178819-nightmare-traveler.json) |
+| Nightmare Trek: The Next Level Challenge | 275850 | [275850-nightmare-trek-the-next-level-challenge.json](./275850-nightmare-trek-the-next-level-challenge.json) |
 | Nightmare Trip | 309020 | [309020-nightmare-trip.json](./309020-nightmare-trip.json) |
 | Nightmare Visions Chapter 1 | 367663 | [367663-nightmare-visions-chapter-1.json](./367663-nightmare-visions-chapter-1.json) |
 | Nightmare Vortex | 263323 | [263323-nightmare-vortex.json](./263323-nightmare-vortex.json) |
