@@ -3124,6 +3124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Eroge Situation! | 194590 | [194590-real-eroge-situation.json](./194590-real-eroge-situation.json) |
 | Real Estate | 41148 | [41148-real-estate.json](./41148-real-estate.json) |
 | Real Estate Empire | 209274 | [209274-real-estate-empire.json](./209274-real-estate-empire.json) |
+| Real Estate Real Romance: San Francisco | 286171 | [286171-real-estate-real-romance-san-francisco.json](./286171-real-estate-real-romance-san-francisco.json) |
 | Real Estate Simulator | 288834 | [288834-real-estate-simulator.json](./288834-real-estate-simulator.json) |
 | Real Estate Simulator 2 | 352791 | [352791-real-estate-simulator-2.json](./352791-real-estate-simulator-2.json) |
 | Real Estate Tycoon | 207375 | [207375-real-estate-tycoon.json](./207375-real-estate-tycoon.json) |
