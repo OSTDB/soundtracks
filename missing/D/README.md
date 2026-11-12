@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dakar Desert Rally: Hybrid Vehicle Pack | 278429 | [278429-dakar-desert-rally-hybrid-vehicle-pack.json](./278429-dakar-desert-rally-hybrid-vehicle-pack.json) |
 | Dakar Desert Rally: Legends Pack | 263054 | [263054-dakar-desert-rally-legends-pack.json](./263054-dakar-desert-rally-legends-pack.json) |
 | Dakar Desert Rally: SnowRunner Cars Pack | 278428 | [278428-dakar-desert-rally-snowrunner-cars-pack.json](./278428-dakar-desert-rally-snowrunner-cars-pack.json) |
+| Dakar Desert Rally: USA Tour | 286168 | [286168-dakar-desert-rally-usa-tour.json](./286168-dakar-desert-rally-usa-tour.json) |
 | Dakar Moto | 123057 | [123057-dakar-moto.json](./123057-dakar-moto.json) |
 | Dakar Series: Desafío Ruta 40 | 114792 | [114792-dakar-series-desafio-ruta-40.json](./114792-dakar-series-desafio-ruta-40.json) |
 | Dakini | 390365 | [390365-dakini.json](./390365-dakini.json) |
@@ -13593,6 +13594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Starve Elsewhere | 397822 | [397822-dont-starve-elsewhere.json](./397822-dont-starve-elsewhere.json) |
 | Don't Starve Mega Pack 2020 | 154751 | [154751-dont-starve-mega-pack-2020.json](./154751-dont-starve-mega-pack-2020.json) |
 | Don't Starve Together: Console Edition | 99751 | [99751-dont-starve-together-console-edition.json](./99751-dont-starve-together-console-edition.json) |
+| Don't Starve Together: Merrymaker Survivors Chest, Part III | 286154 | [286154-dont-starve-together-merrymaker-survivors-chest-part-iii.json](./286154-dont-starve-together-merrymaker-survivors-chest-part-iii.json) |
 | Don't Starve Together: Starter Pack 2025 | 374238 | [374238-dont-starve-together-starter-pack-2025.json](./374238-dont-starve-together-starter-pack-2025.json) |
 | Don't Starve: Console Edition | 154347 | [154347-dont-starve-console-edition.json](./154347-dont-starve-console-edition.json) |
 | Don't Starve: Giant Edition | 21662 | [21662-dont-starve-giant-edition.json](./21662-dont-starve-giant-edition.json) |
@@ -17296,6 +17298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Shogi 4K | 391863 | [391863-dream-shogi-4k.json](./391863-dream-shogi-4k.json) |
 | Dream Shopper | 39629 | [39629-dream-shopper.json](./39629-dream-shopper.json) |
 | Dream Sketcher | 255064 | [255064-dream-sketcher.json](./255064-dream-sketcher.json) |
+| Dream Sketcher: Book of Silence | 286167 | [286167-dream-sketcher-book-of-silence.json](./286167-dream-sketcher-book-of-silence.json) |
 | Dream Sketcher: The Lost Opera | 279540 | [279540-dream-sketcher-the-lost-opera.json](./279540-dream-sketcher-the-lost-opera.json) |
 | Dream Slayer | 271692 | [271692-dream-slayer.json](./271692-dream-slayer.json) |
 | Dream Slayers | 342032 | [342032-dream-slayers.json](./342032-dream-slayers.json) |
@@ -17795,6 +17798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Market | 388757 | [388757-drift-market.json](./388757-drift-market.json) |
 | Drift Master 2026 Simulator: Driving Sim | 401384 | [401384-drift-master-2026-simulator-driving-sim.json](./401384-drift-master-2026-simulator-driving-sim.json) |
 | Drift Master Simulator | 315922 | [315922-drift-master-simulator.json](./315922-drift-master-simulator.json) |
+| Drift Master Simulator 2024: Driving Sim | 286185 | [286185-drift-master-simulator-2024-driving-sim.json](./286185-drift-master-simulator-2024-driving-sim.json) |
 | Drift Master Simulator 2024: Driving Sim - Premium Edition | 315881 | [315881-drift-master-simulator-2024-driving-sim-premium-edition.json](./315881-drift-master-simulator-2024-driving-sim-premium-edition.json) |
 | Drift Master Simulator 2024: Rich Racer DLC | 316231 | [316231-drift-master-simulator-2024-rich-racer-dlc.json](./316231-drift-master-simulator-2024-rich-racer-dlc.json) |
 | Drift Masters | 127539 | [127539-drift-masters.json](./127539-drift-masters.json) |
