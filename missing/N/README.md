@@ -3057,6 +3057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nether Earth | 38744 | [38744-nether-earth.json](./38744-nether-earth.json) |
 | Nether Gallery | 116111 | [116111-nether-gallery.json](./116111-nether-gallery.json) |
 | Nether Garden | 219397 | [219397-nether-garden.json](./219397-nether-garden.json) |
+| Nether Heroes | 303838 | [303838-nether-heroes.json](./303838-nether-heroes.json) |
 | Nether Nightmare | 148843 | [148843-nether-nightmare.json](./148843-nether-nightmare.json) |
 | Nether Spirits: Beyond the Gate | 263769 | [263769-nether-spirits-beyond-the-gate.json](./263769-nether-spirits-beyond-the-gate.json) |
 | Nether: The Untold Chapter | 118029 | [118029-nether-the-untold-chapter.json](./118029-nether-the-untold-chapter.json) |
