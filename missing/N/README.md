@@ -5595,6 +5595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Ponk HD | 232184 | [232184-ninja-ponk-hd.json](./232184-ninja-ponk-hd.json) |
 | Ninja Power Slasher | 114371 | [114371-ninja-power-slasher.json](./114371-ninja-power-slasher.json) |
 | Ninja Prime: Tap Quest | 241632 | [241632-ninja-prime-tap-quest.json](./241632-ninja-prime-tap-quest.json) |
+| Ninja Prophecy | 289490 | [289490-ninja-prophecy.json](./289490-ninja-prophecy.json) |
 | Ninja Pug | 25770 | [25770-ninja-pug.json](./25770-ninja-pug.json) |
 | Ninja Puzzle | 97066 | [97066-ninja-puzzle.json](./97066-ninja-puzzle.json) |
 | Ninja Rabbit | 214491 | [214491-ninja-rabbit.json](./214491-ninja-rabbit.json) |
@@ -8325,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyakori's Rabbit Doll: After Story | 157552 | [157552-nyakoris-rabbit-doll-after-story.json](./157552-nyakoris-rabbit-doll-after-story.json) |
 | Nyamiru to Bonzu no Daibouken | 73109 | [73109-nyamiru-to-bonzu-no-daibouken.json](./73109-nyamiru-to-bonzu-no-daibouken.json) |
 | Nyamo's Adventure | 182513 | [182513-nyamos-adventure.json](./182513-nyamos-adventure.json) |
+| Nyamon Tamer: Retro Edition | 289513 | [289513-nyamon-tamer-retro-edition.json](./289513-nyamon-tamer-retro-edition.json) |
 | Nyan Cat FLY! | 313545 | [313545-nyan-cat-fly.json](./313545-nyan-cat-fly.json) |
 | Nyan Cat: Candy Match | 264965 | [264965-nyan-cat-candy-match.json](./264965-nyan-cat-candy-match.json) |
 | Nyan Cat: Jump! | 64259 | [64259-nyan-cat-jump.json](./64259-nyan-cat-jump.json) |
