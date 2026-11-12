@@ -1445,6 +1445,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Kingdom | 255890 | [255890-kawaii-kingdom.json](./255890-kawaii-kingdom.json) |
 | Kawaii Kitchen | 326492 | [326492-kawaii-kitchen.json](./326492-kawaii-kitchen.json) |
 | Kawaii Koinu | 49755 | [49755-kawaii-koinu.json](./49755-kawaii-koinu.json) |
+| Kawaii Koinu DS 2 | 269791 | [269791-kawaii-koinu-ds-2.json](./269791-kawaii-koinu-ds-2.json) |
+| Kawaii Koinu DS 3 | 269792 | [269792-kawaii-koinu-ds-3.json](./269792-kawaii-koinu-ds-3.json) |
 | Kawaii Koinu Mini: Wanko to Asobou!! Kogatainu | 49754 | [49754-kawaii-koinu-mini-wanko-to-asobou-kogatainu.json](./49754-kawaii-koinu-mini-wanko-to-asobou-kogatainu.json) |
 | Kawaii Koneko 3D | 130729 | [130729-kawaii-koneko-3d.json](./130729-kawaii-koneko-3d.json) |
 | Kawaii Koneko DS | 130800 | [130800-kawaii-koneko-ds.json](./130800-kawaii-koneko-ds.json) |
@@ -2612,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikaiju Attack | 134182 | [134182-kikaiju-attack.json](./134182-kikaiju-attack.json) |
 | Kikak | 183796 | [183796-kikak.json](./183796-kikak.json) |
 | Kikan Bakumatsu Ibun Last Cavalier | 59912 | [59912-kikan-bakumatsu-ibun-last-cavalier.json](./59912-kikan-bakumatsu-ibun-last-cavalier.json) |
+| Kikansha Thomas: DS de Hajimeru Chiiku Gakushuu | 269793 | [269793-kikansha-thomas-ds-de-hajimeru-chiiku-gakushuu.json](./269793-kikansha-thomas-ds-de-hajimeru-chiiku-gakushuu.json) |
 | Kikansha Thomas: DS de Hajimeru Kokugo Sansuu Eigo | 63422 | [63422-kikansha-thomas-ds-de-hajimeru-kokugo-sansuu-eigo.json](./63422-kikansha-thomas-ds-de-hajimeru-kokugo-sansuu-eigo.json) |
 | Kikansha Thomas: Sodor-tou no Nakama-tachi | 210421 | [210421-kikansha-thomas-sodor-tou-no-nakama-tachi.json](./210421-kikansha-thomas-sodor-tou-no-nakama-tachi.json) |
 | Kiken Drive: 2nd Lap | 273464 | [273464-kiken-drive-2nd-lap.json](./273464-kiken-drive-2nd-lap.json) |
@@ -4949,6 +4952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights & Guns Mystic Armor | 385167 | [385167-knights-and-guns-mystic-armor.json](./385167-knights-and-guns-mystic-armor.json) |
 | Knights & Guns: 5 in 1 DLC Bundle | 308823 | [308823-knights-and-guns-5-in-1-dlc-bundle.json](./308823-knights-and-guns-5-in-1-dlc-bundle.json) |
 | Knights & Guns: Advanced Edition | 317252 | [317252-knights-and-guns-advanced-edition.json](./317252-knights-and-guns-advanced-edition.json) |
+| Knights & Guns: Armor Pack #1 | 269814 | [269814-knights-and-guns-armor-pack-1.json](./269814-knights-and-guns-armor-pack-1.json) |
 | Knights & Guns: Armor Pack #2 | 269820 | [269820-knights-and-guns-armor-pack-2.json](./269820-knights-and-guns-armor-pack-2.json) |
 | Knights & Guns: Armor Pack #3 | 308824 | [308824-knights-and-guns-armor-pack-3.json](./308824-knights-and-guns-armor-pack-3.json) |
 | Knights & Guns: Back To School Edition | 263540 | [263540-knights-and-guns-back-to-school-edition.json](./263540-knights-and-guns-back-to-school-edition.json) |
