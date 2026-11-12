@@ -5813,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Accursed Crown of the Giant King: Chapter 4 - The Fallen Giant Kingdom | 207776 | [207776-the-accursed-crown-of-the-giant-king-chapter-4-the-fallen-giant-kingdom.json](./207776-the-accursed-crown-of-the-giant-king-chapter-4-the-fallen-giant-kingdom.json) |
 | The Accuser and the Abyss | 325532 | [325532-the-accuser-and-the-abyss.json](./325532-the-accuser-and-the-abyss.json) |
 | The Aching | 240831 | [240831-the-aching.json](./240831-the-aching.json) |
+| The Aching Aversion | 303919 | [303919-the-aching-aversion.json](./303919-the-aching-aversion.json) |
 | The Aching Aversion: Blood Orange Dreams | 312589 | [312589-the-aching-aversion-blood-orange-dreams.json](./312589-the-aching-aversion-blood-orange-dreams.json) |
 | The Acid Queens of the Moon | 379409 | [379409-the-acid-queens-of-the-moon.json](./379409-the-acid-queens-of-the-moon.json) |
 | The Acorn Bounty | 321920 | [321920-the-acorn-bounty.json](./321920-the-acorn-bounty.json) |
@@ -9185,6 +9186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon Tower | 255996 | [255996-the-dungeon-tower.json](./255996-the-dungeon-tower.json) |
 | The Dungeon Vendor | 243497 | [243497-the-dungeon-vendor.json](./243497-the-dungeon-vendor.json) |
 | The Dungeoning | 17310 | [17310-the-dungeoning.json](./17310-the-dungeoning.json) |
+| The Dungeons Of Algoduul | 303922 | [303922-the-dungeons-of-algoduul.json](./303922-the-dungeons-of-algoduul.json) |
 | The Dungeons of Castle Madness | 22403 | [22403-the-dungeons-of-castle-madness.json](./22403-the-dungeons-of-castle-madness.json) |
 | The Dungeons of Grimlor | 171792 | [171792-the-dungeons-of-grimlor.json](./171792-the-dungeons-of-grimlor.json) |
 | The Dungeons of Grimlor II | 171793 | [171793-the-dungeons-of-grimlor-ii.json](./171793-the-dungeons-of-grimlor-ii.json) |
@@ -10591,6 +10593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gannet | 202968 | [202968-the-gannet.json](./202968-the-gannet.json) |
 | The Gap | 151120 | [151120-the-gap.json](./151120-the-gap.json) |
 | The Gap | 244952 | [244952-the-gap.json](./244952-the-gap.json) |
+| The Gap | 303918 | [303918-the-gap.json](./303918-the-gap.json) |
 | The Gap: Limited Edition | 292149 | [292149-the-gap-limited-edition.json](./292149-the-gap-limited-edition.json) |
 | The Garden | 31611 | [31611-the-garden.json](./31611-the-garden.json) |
 | The Garden | 376640 | [376640-the-garden.json](./376640-the-garden.json) |
@@ -16003,6 +16006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Player RPG | 102121 | [102121-the-player-rpg.json](./102121-the-player-rpg.json) |
 | The Player Who Can't Level Up | 312830 | [312830-the-player-who-cant-level-up.json](./312830-the-player-who-cant-level-up.json) |
 | The Playful Triangle | 309454 | [309454-the-playful-triangle.json](./309454-the-playful-triangle.json) |
+| The Playful Worm | 304399 | [304399-the-playful-worm.json](./304399-the-playful-worm.json) |
 | The Playroom | 58783 | [58783-the-playroom.json](./58783-the-playroom.json) |
 | The Playroom | 89494 | [89494-the-playroom.json](./89494-the-playroom.json) |
 | The Playroom 2 | 124137 | [124137-the-playroom-2.json](./124137-the-playroom-2.json) |
@@ -31699,6 +31703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trampoline | 172661 | [172661-trampoline.json](./172661-trampoline.json) |
 | Trampoline | 359196 | [359196-trampoline.json](./359196-trampoline.json) |
 | Trampoline Terror! | 46689 | [46689-trampoline-terror.json](./46689-trampoline-terror.json) |
+| Trams, Trains & Monorails | 304937 | [304937-trams-trains-and-monorails.json](./304937-trams-trains-and-monorails.json) |
 | TramSim Munich | 165382 | [165382-tramsim-munich.json](./165382-tramsim-munich.json) |
 | TramSim Vienna | 140471 | [140471-tramsim-vienna.json](./140471-tramsim-vienna.json) |
 | Trance | 187267 | [187267-trance.json](./187267-trance.json) |
