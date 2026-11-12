@@ -545,6 +545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caldera | 268906 | [268906-caldera.json](./268906-caldera.json) |
 | Caldera | 289385 | [289385-caldera.json](./289385-caldera.json) |
 | Cale Quest | 90198 | [90198-cale-quest.json](./90198-cale-quest.json) |
+| Caleb Will Have His Revenge On Toronto | 276433 | [276433-caleb-will-have-his-revenge-on-toronto.json](./276433-caleb-will-have-his-revenge-on-toronto.json) |
 | Caleb's Dream | 276400 | [276400-calebs-dream.json](./276400-calebs-dream.json) |
 | Calendula | 33905 | [33905-calendula.json](./33905-calendula.json) |
 | Caleria | 409017 | [409017-caleria.json](./409017-caleria.json) |
@@ -11405,6 +11406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Zero: Shuuen no Ichibyou Portable | 202591 | [202591-clock-zero-shuuen-no-ichibyou-portable.json](./202591-clock-zero-shuuen-no-ichibyou-portable.json) |
 | Clocked | 284827 | [284827-clocked.json](./284827-clocked.json) |
 | Clocker | 110816 | [110816-clocker.json](./110816-clocker.json) |
+| Clocker & Mr. Pumpkin Adventure & Alien Cruise Bundle | 276450 | [276450-clocker-and-mr-pumpkin-adventure-and-alien-cruise-bundle.json](./276450-clocker-and-mr-pumpkin-adventure-and-alien-cruise-bundle.json) |
 | Clockfall | 391888 | [391888-clockfall.json](./391888-clockfall.json) |
 | Clocking In to Fight a Lich in Another Realm | 347594 | [347594-clocking-in-to-fight-a-lich-in-another-realm.json](./347594-clocking-in-to-fight-a-lich-in-another-realm.json) |
 | Clockmachine Chaos | 240570 | [240570-clockmachine-chaos.json](./240570-clockmachine-chaos.json) |
@@ -21050,6 +21052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuckold's Gym | 297106 | [297106-cuckolds-gym.json](./297106-cuckolds-gym.json) |
 | Cuckoldry Festival: Former Pro Wrestler Mother Trifled by the Huge Dick of her Son's Friend | 98497 | [98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json](./98497-cuckoldry-festival-former-pro-wrestler-mother-trifled-by-the-huge-dick-of-her-sons-friend.json) |
 | Cuckoo Castle | 135241 | [135241-cuckoo-castle.json](./135241-cuckoo-castle.json) |
+| Cuckoo Climb | 276449 | [276449-cuckoo-climb.json](./276449-cuckoo-climb.json) |
 | Cuckoo Curling | 173394 | [173394-cuckoo-curling.json](./173394-cuckoo-curling.json) |
 | Cuckoo Curling | 200311 | [200311-cuckoo-curling.json](./200311-cuckoo-curling.json) |
 | Cuckoo Mask | 253983 | [253983-cuckoo-mask.json](./253983-cuckoo-mask.json) |
