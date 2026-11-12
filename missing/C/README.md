@@ -10262,6 +10262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Play | 33995 | [33995-city-play.json](./33995-city-play.json) |
 | City Police Car Driver Game | 88506 | [88506-city-police-car-driver-game.json](./88506-city-police-car-driver-game.json) |
 | City Police Helicopter Flight Simulator | 100995 | [100995-city-police-helicopter-flight-simulator.json](./100995-city-police-helicopter-flight-simulator.json) |
+| City Police Simulator: Cop Car Games & Shooter | 266527 | [266527-city-police-simulator-cop-car-games-and-shooter.json](./266527-city-police-simulator-cop-car-games-and-shooter.json) |
 | City Quest | 17565 | [17565-city-quest.json](./17565-city-quest.json) |
 | City Racer | 92242 | [92242-city-racer.json](./92242-city-racer.json) |
 | City Racing | 159173 | [159173-city-racing.json](./159173-city-racing.json) |
@@ -10289,6 +10290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Soarers | 183762 | [183762-city-soarers.json](./183762-city-soarers.json) |
 | City Soccer Challenge | 66956 | [66956-city-soccer-challenge.json](./66956-city-soccer-challenge.json) |
 | City States: Medieval | 381155 | [381155-city-states-medieval.json](./381155-city-states-medieval.json) |
+| City Story | 266457 | [266457-city-story.json](./266457-city-story.json) |
 | City Story | 80434 | [80434-city-story.json](./80434-city-story.json) |
 | City Stunt Driver | 186575 | [186575-city-stunt-driver.json](./186575-city-stunt-driver.json) |
 | City Super Battlefield | 289781 | [289781-city-super-battlefield.json](./289781-city-super-battlefield.json) |
@@ -18825,6 +18827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Boss: Rockay City - Baker's Bundle | 334548 | [334548-crime-boss-rockay-city-bakers-bundle.json](./334548-crime-boss-rockay-city-bakers-bundle.json) |
 | Crime Boss: Rockay City - Cagnali's Order | 315500 | [315500-crime-boss-rockay-city-cagnalis-order.json](./315500-crime-boss-rockay-city-cagnalis-order.json) |
 | Crime Boss: Rockay City - Cracker Character Pack | 334292 | [334292-crime-boss-rockay-city-cracker-character-pack.json](./334292-crime-boss-rockay-city-cracker-character-pack.json) |
+| Crime Boss: Rockay City - Dragon's Gold Cup | 266538 | [266538-crime-boss-rockay-city-dragons-gold-cup.json](./266538-crime-boss-rockay-city-dragons-gold-cup.json) |
 | Crime Boss: Rockay City - Jupiter Character Pack | 334549 | [334549-crime-boss-rockay-city-jupiter-character-pack.json](./334549-crime-boss-rockay-city-jupiter-character-pack.json) |
 | Crime Boss: Rockay City - Tactical Weapon Pack | 315501 | [315501-crime-boss-rockay-city-tactical-weapon-pack.json](./315501-crime-boss-rockay-city-tactical-weapon-pack.json) |
 | Crime Buster | 40873 | [40873-crime-buster.json](./40873-crime-buster.json) |
