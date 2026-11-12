@@ -2598,6 +2598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majin Woman | 106148 | [106148-majin-woman.json](./106148-majin-woman.json) |
 | Majjam | 353755 | [353755-majjam.json](./353755-majjam.json) |
 | Majo | 413181 | [413181-majo.json](./413181-majo.json) |
+| Majo Archive | 288404 | [288404-majo-archive.json](./288404-majo-archive.json) |
 | Majo Koi Nikki Dragon x Caravan | 144670 | [144670-majo-koi-nikki-dragon-x-caravan.json](./144670-majo-koi-nikki-dragon-x-caravan.json) |
 | Majo Kuruibana: Daria + Lito-hen | 398013 | [398013-majo-kuruibana-daria-lito-hen.json](./398013-majo-kuruibana-daria-lito-hen.json) |
 | Majo Mail | 237134 | [237134-majo-mail.json](./237134-majo-mail.json) |
