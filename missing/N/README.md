@@ -5328,6 +5328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninefold Promise | 377966 | [377966-ninefold-promise.json](./377966-ninefold-promise.json) |
 | NineHells | 291401 | [291401-ninehells.json](./291401-ninehells.json) |
 | Ninehouse | 248439 | [248439-ninehouse.json](./248439-ninehouse.json) |
+| Ninelives | 301159 | [301159-ninelives.json](./301159-ninelives.json) |
 | NineLives | 273449 | [273449-ninelives.json](./273449-ninelives.json) |
 | Ninepin Bowling | 54251 | [54251-ninepin-bowling.json](./54251-ninepin-bowling.json) |
 | Nines | 131745 | [131745-nines.json](./131745-nines.json) |
@@ -5613,6 +5614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Senki DX | 20082 | [20082-ninja-senki-dx.json](./20082-ninja-senki-dx.json) |
 | Ninja Sentai Hurricanger & Hyakujuu Sentai Gaoranger: Chou Sentai Super Battle | 62743 | [62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json](./62743-ninja-sentai-hurricanger-and-hyakujuu-sentai-gaoranger-chou-sentai-super-battle.json) |
 | Ninja Sentai Kakuranger | 310198 | [310198-ninja-sentai-kakuranger.json](./310198-ninja-sentai-kakuranger.json) |
+| Ninja Shadow Quest | 301163 | [301163-ninja-shadow-quest.json](./301163-ninja-shadow-quest.json) |
 | Ninja Shadow: Shall we Date? | 299195 | [299195-ninja-shadow-shall-we-date.json](./299195-ninja-shadow-shall-we-date.json) |
 | Ninja Shodown | 194215 | [194215-ninja-shodown.json](./194215-ninja-shodown.json) |
 | Ninja Shurican | 183467 | [183467-ninja-shurican.json](./183467-ninja-shurican.json) |
