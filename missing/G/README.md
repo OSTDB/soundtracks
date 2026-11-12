@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia Saver: Hero Saidai no Sakusen | 42239 | [42239-gaia-saver-hero-saidai-no-sakusen.json](./42239-gaia-saver-hero-saidai-no-sakusen.json) |
 | Gaia Survivors | 256605 | [256605-gaia-survivors.json](./256605-gaia-survivors.json) |
 | Gaia Trek | 248039 | [248039-gaia-trek.json](./248039-gaia-trek.json) |
+| Gaia VN Collection | 306253 | [306253-gaia-vn-collection.json](./306253-gaia-vn-collection.json) |
 | Gaia-ttack | 330159 | [330159-gaia-ttack.json](./330159-gaia-ttack.json) |
 | Gaia: A Protetora da Natureza | 261227 | [261227-gaia-a-protetora-da-natureza.json](./261227-gaia-a-protetora-da-natureza.json) |
 | Gaia: Adapt and Evolve | 74756 | [74756-gaia-adapt-and-evolve.json](./74756-gaia-adapt-and-evolve.json) |
@@ -3945,6 +3946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gholazon X | 143837 | [143837-gholazon-x.json](./143837-gholazon-x.json) |
 | Ghone is gone | 128219 | [128219-ghone-is-gone.json](./128219-ghone-is-gone.json) |
 | Ghost | 188440 | [188440-ghost.json](./188440-ghost.json) |
+| Ghost | 306244 | [306244-ghost.json](./306244-ghost.json) |
 | Ghost 1.0 | 32969 | [32969-ghost-1-0.json](./32969-ghost-1-0.json) |
 | Ghost 1.0: Limited Edition | 166995 | [166995-ghost-1-0-limited-edition.json](./166995-ghost-1-0-limited-edition.json) |
 | Ghost Algorithm | 391665 | [391665-ghost-algorithm.json](./391665-ghost-algorithm.json) |
@@ -5210,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gleep Gym | 299372 | [299372-gleep-gym.json](./299372-gleep-gym.json) |
 | Glen Hoddle Soccer | 85907 | [85907-glen-hoddle-soccer.json](./85907-glen-hoddle-soccer.json) |
 | Glen-moril | 373831 | [373831-glen-moril.json](./373831-glen-moril.json) |
+| Glen: A Dull Journey into the Unremarkable | 306242 | [306242-glen-a-dull-journey-into-the-unremarkable.json](./306242-glen-a-dull-journey-into-the-unremarkable.json) |
 | Glennhaven | 185540 | [185540-glennhaven.json](./185540-glennhaven.json) |
 | Glenwich Idle MMO | 397790 | [397790-glenwich-idle-mmo.json](./397790-glenwich-idle-mmo.json) |
 | Glest | 70145 | [70145-glest.json](./70145-glest.json) |
@@ -5599,6 +5602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glow Worm | 209755 | [209755-glow-worm.json](./209755-glow-worm.json) |
 | GlowBoard: WinterFest | 251449 | [251449-glowboard-winterfest.json](./251449-glowboard-winterfest.json) |
 | GlowBoarding | 199742 | [199742-glowboarding.json](./199742-glowboarding.json) |
+| Glowface | 306744 | [306744-glowface.json](./306744-glowface.json) |
 | Glowface in Love | 315944 | [315944-glowface-in-love.json](./315944-glowface-in-love.json) |
 | Glowface In Love 2 | 354235 | [354235-glowface-in-love-2.json](./354235-glowface-in-love-2.json) |
 | Glowfall Vale | 389057 | [389057-glowfall-vale.json](./389057-glowfall-vale.json) |
@@ -11033,6 +11037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
 | Guess the Movie Game | 232503 | [232503-guess-the-movie-game.json](./232503-guess-the-movie-game.json) |
 | Guess The Movie.Name | 387316 | [387316-guess-the-movie-name.json](./387316-guess-the-movie-name.json) |
+| Guess The Object | 306750 | [306750-guess-the-object.json](./306750-guess-the-object.json) |
 | Guess the Person? | 88466 | [88466-guess-the-person.json](./88466-guess-the-person.json) |
 | Guess the Word | 115339 | [115339-guess-the-word.json](./115339-guess-the-word.json) |
 | Guess the Word | 277341 | [277341-guess-the-word.json](./277341-guess-the-word.json) |
