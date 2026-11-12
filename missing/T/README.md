@@ -2769,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tasmania Story | 49061 | [49061-tasmania-story.json](./49061-tasmania-story.json) |
 | Tasmanian Devil | 241158 | [241158-tasmanian-devil.json](./241158-tasmanian-devil.json) |
 | Tasmon: Taskbar Monsters | 424015 | [424015-tasmon-taskbar-monsters.json](./424015-tasmon-taskbar-monsters.json) |
+| TASO 131 | 312403 | [312403-taso-131.json](./312403-taso-131.json) |
 | Tasogare | 313493 | [313493-tasogare.json](./313493-tasogare.json) |
 | Tasogare no Sinsemilla | 60444 | [60444-tasogare-no-sinsemilla.json](./60444-tasogare-no-sinsemilla.json) |
 | Tasogare Sakaba: Uwabami Breakers | 123588 | [123588-tasogare-sakaba-uwabami-breakers.json](./123588-tasogare-sakaba-uwabami-breakers.json) |
@@ -12017,6 +12018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Island of Doctor Morose | 348474 | [348474-the-island-of-doctor-morose.json](./348474-the-island-of-doctor-morose.json) |
 | The Island of Dr. Frankenstein | 21784 | [21784-the-island-of-dr-frankenstein.json](./21784-the-island-of-dr-frankenstein.json) |
 | The Island of Dr. Yepstein | 171304 | [171304-the-island-of-dr-yepstein.json](./171304-the-island-of-dr-yepstein.json) |
+| The Island of Earthly Delights | 311919 | [311919-the-island-of-earthly-delights.json](./311919-the-island-of-earthly-delights.json) |
 | The Island of Kesmai | 344888 | [344888-the-island-of-kesmai.json](./344888-the-island-of-kesmai.json) |
 | The Island of Killer Cacos | 300741 | [300741-the-island-of-killer-cacos.json](./300741-the-island-of-killer-cacos.json) |
 | The Island of Lost Hope | 73528 | [73528-the-island-of-lost-hope.json](./73528-the-island-of-lost-hope.json) |
@@ -12829,6 +12831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Girl ~ Janna's diary of survive | 103658 | [103658-the-last-girl-jannas-diary-of-survive.json](./103658-the-last-girl-jannas-diary-of-survive.json) |
 | The Last Gladiator | 24502 | [24502-the-last-gladiator.json](./24502-the-last-gladiator.json) |
 | The Last Golden Fox | 247930 | [247930-the-last-golden-fox.json](./247930-the-last-golden-fox.json) |
+| The Last Golfer | 311915 | [311915-the-last-golfer.json](./311915-the-last-golfer.json) |
 | The Last Good Boy | 407333 | [407333-the-last-good-boy.json](./407333-the-last-good-boy.json) |
 | The Last Goodbye | 308181 | [308181-the-last-goodbye.json](./308181-the-last-goodbye.json) |
 | The Last Grape | 240980 | [240980-the-last-grape.json](./240980-the-last-grape.json) |
@@ -13801,6 +13804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lightning Over Pear Acre Road | 138186 | [138186-the-lightning-over-pear-acre-road.json](./138186-the-lightning-over-pear-acre-road.json) |
 | The Lightning Struck Orphan | 345152 | [345152-the-lightning-struck-orphan.json](./345152-the-lightning-struck-orphan.json) |
 | The Lightnwatchers | 216518 | [216518-the-lightnwatchers.json](./216518-the-lightnwatchers.json) |
+| The Lights Went Out | 312386 | [312386-the-lights-went-out.json](./312386-the-lights-went-out.json) |
 | The Lightseeker | 381288 | [381288-the-lightseeker.json](./381288-the-lightseeker.json) |
 | The Lightshield Report | 302141 | [302141-the-lightshield-report.json](./302141-the-lightshield-report.json) |
 | The Lik | 223369 | [223369-the-lik.json](./223369-the-lik.json) |
@@ -17001,6 +17005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scar | 292330 | [292330-the-scar.json](./292330-the-scar.json) |
 | The Scarecrow | 88140 | [88140-the-scarecrow.json](./88140-the-scarecrow.json) |
 | The Scarecrow Knight | 358976 | [358976-the-scarecrow-knight.json](./358976-the-scarecrow-knight.json) |
+| The Scarlet Cascabel | 312391 | [312391-the-scarlet-cascabel.json](./312391-the-scarlet-cascabel.json) |
 | The Scarlet Chaos | 289959 | [289959-the-scarlet-chaos.json](./289959-the-scarlet-chaos.json) |
 | The Scarlet Demonslayer | 231348 | [231348-the-scarlet-demonslayer.json](./231348-the-scarlet-demonslayer.json) |
 | The Scarlet Harvest | 366618 | [366618-the-scarlet-harvest.json](./366618-the-scarlet-harvest.json) |
@@ -24624,6 +24629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeFall | 116272 | [116272-timefall.json](./116272-timefall.json) |
 | Timefight Zone | 20983 | [20983-timefight-zone.json](./20983-timefight-zone.json) |
 | TimeFish | 319320 | [319320-timefish.json](./319320-timefish.json) |
+| TimeFixers | 311907 | [311907-timefixers.json](./311907-timefixers.json) |
 | Timeflow: Financial Education Sim | 114440 | [114440-timeflow-financial-education-sim.json](./114440-timeflow-financial-education-sim.json) |
 | Timefract | 421320 | [421320-timefract.json](./421320-timefract.json) |
 | Timeguessr | 245281 | [245281-timeguessr.json](./245281-timeguessr.json) |
@@ -28732,6 +28738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Keepers | 101736 | [101736-tower-keepers.json](./101736-tower-keepers.json) |
 | Tower King | 394983 | [394983-tower-king.json](./394983-tower-king.json) |
 | Tower Knight | 298628 | [298628-tower-knight.json](./298628-tower-knight.json) |
+| Tower Lab | 311931 | [311931-tower-lab.json](./311931-tower-lab.json) |
 | Tower Lord: Sword Loop Saga | 176267 | [176267-tower-lord-sword-loop-saga.json](./176267-tower-lord-sword-loop-saga.json) |
 | Tower Lords | 367004 | [367004-tower-lords.json](./367004-tower-lords.json) |
 | Tower Madness | 200275 | [200275-tower-madness.json](./200275-tower-madness.json) |
@@ -30468,6 +30475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: EWS Class 67 Loco Add-On | 161974 | [161974-train-simulator-ews-class-67-loco-add-on.json](./161974-train-simulator-ews-class-67-loco-add-on.json) |
 | Train Simulator: EWS Class 92 Loco Add-On | 161998 | [161998-train-simulator-ews-class-92-loco-add-on.json](./161998-train-simulator-ews-class-92-loco-add-on.json) |
 | Train Simulator: Falmouth Branch Route Add-On | 156488 | [156488-train-simulator-falmouth-branch-route-add-on.json](./156488-train-simulator-falmouth-branch-route-add-on.json) |
+| Train Simulator: Feather River Canyon Enhanced - Premium Scenario Pack | 312464 | [312464-train-simulator-feather-river-canyon-enhanced-premium-scenario-pack.json](./312464-train-simulator-feather-river-canyon-enhanced-premium-scenario-pack.json) |
 | Train Simulator: Feather River Canyon Enhanced: Oroville - Portola | 293691 | [293691-train-simulator-feather-river-canyon-enhanced-oroville-portola.json](./293691-train-simulator-feather-river-canyon-enhanced-oroville-portola.json) |
 | Train Simulator: Feather River Canyon Route Add-On | 156377 | [156377-train-simulator-feather-river-canyon-route-add-on.json](./156377-train-simulator-feather-river-canyon-route-add-on.json) |
 | Train Simulator: Fife Circle Line: Edinburgh - Dunfermline Route Add-On | 156338 | [156338-train-simulator-fife-circle-line-edinburgh-dunfermline-route-add-on.json](./156338-train-simulator-fife-circle-line-edinburgh-dunfermline-route-add-on.json) |
@@ -30499,6 +30507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Hamburg-Lübeck Railway Route Add-On | 156454 | [156454-train-simulator-hamburg-lubeck-railway-route-add-on.json](./156454-train-simulator-hamburg-lubeck-railway-route-add-on.json) |
 | Train Simulator: Hanshin Denki Tetsudou | 91805 | [91805-train-simulator-hanshin-denki-tetsudou.json](./91805-train-simulator-hanshin-denki-tetsudou.json) |
 | Train Simulator: Hidaka Main Line: Tomakomai - Hidaka-Mombetsu Route Add-On | 156368 | [156368-train-simulator-hidaka-main-line-tomakomai-hidaka-mombetsu-route-add-on.json](./156368-train-simulator-hidaka-main-line-tomakomai-hidaka-mombetsu-route-add-on.json) |
+| Train Simulator: Himrrs Freight Wagon | 312465 | [312465-train-simulator-himrrs-freight-wagon.json](./312465-train-simulator-himrrs-freight-wagon.json) |
 | Train Simulator: Horseshoe Curve Route Add-On | 156341 | [156341-train-simulator-horseshoe-curve-route-add-on.json](./156341-train-simulator-horseshoe-curve-route-add-on.json) |
 | Train Simulator: Huddersfield Line - Manchester: Leeds Route | 220791 | [220791-train-simulator-huddersfield-line-manchester-leeds-route.json](./220791-train-simulator-huddersfield-line-manchester-leeds-route.json) |
 | Train Simulator: Im Köblitzer Bergland Route Add-On | 156395 | [156395-train-simulator-im-koblitzer-bergland-route-add-on.json](./156395-train-simulator-im-koblitzer-bergland-route-add-on.json) |
@@ -30595,6 +30604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: ÖBB 4023 ‘Talent' EMU Add-On | 162546 | [162546-train-simulator-obb-4023-talent-emu-add-on.json](./162546-train-simulator-obb-4023-talent-emu-add-on.json) |
 | Train Simulator: ÖBB 4746 Cityjet EMU | 212598 | [212598-train-simulator-obb-4746-cityjet-emu.json](./212598-train-simulator-obb-4746-cityjet-emu.json) |
 | Train Simulator: ÖBB 4748 | 306074 | [306074-train-simulator-obb-4748.json](./306074-train-simulator-obb-4748.json) |
+| Train Simulator: ÖBB 8633 | 312466 | [312466-train-simulator-obb-8633.json](./312466-train-simulator-obb-8633.json) |
 | Train Simulator: Odakyu Dentetsu Odawara-sen 5000-gata | 323637 | [323637-train-simulator-odakyu-dentetsu-odawara-sen-5000-gata.json](./323637-train-simulator-odakyu-dentetsu-odawara-sen-5000-gata.json) |
 | Train Simulator: Odakyu Electric Railway Odakyu Line Type 5000 | 92252 | [92252-train-simulator-odakyu-electric-railway-odakyu-line-type-5000.json](./92252-train-simulator-odakyu-electric-railway-odakyu-line-type-5000.json) |
 | Train Simulator: Ohio Steel 2 Route Add-On | 156458 | [156458-train-simulator-ohio-steel-2-route-add-on.json](./156458-train-simulator-ohio-steel-2-route-add-on.json) |
@@ -30649,6 +30659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: Southern Pacific U33C Loco Add-On | 154254 | [154254-train-simulator-southern-pacific-u33c-loco-add-on.json](./154254-train-simulator-southern-pacific-u33c-loco-add-on.json) |
 | Train Simulator: Southern Railway S15 Class Steam Loco Add-On | 162040 | [162040-train-simulator-southern-railway-s15-class-steam-loco-add-on.json](./162040-train-simulator-southern-railway-s15-class-steam-loco-add-on.json) |
 | Train Simulator: SP&S E-1 Class 'Northern' Loco Add-On | 161999 | [161999-train-simulator-sp-and-s-e-1-class-northern-loco-add-on.json](./161999-train-simulator-sp-and-s-e-1-class-northern-loco-add-on.json) |
+| Train Simulator: St. Pölten - Linz | 312467 | [312467-train-simulator-st-polten-linz.json](./312467-train-simulator-st-polten-linz.json) |
 | Train Simulator: Stevens Pass Route Add-On | 156379 | [156379-train-simulator-stevens-pass-route-add-on.json](./156379-train-simulator-stevens-pass-route-add-on.json) |
 | Train Simulator: Stevens Pass Scenario Pack 02 | 306072 | [306072-train-simulator-stevens-pass-scenario-pack-02.json](./306072-train-simulator-stevens-pass-scenario-pack-02.json) |
 | Train Simulator: Suburban Glasgow Northwest: Springburn - Helensburgh Route Add-On | 156402 | [156402-train-simulator-suburban-glasgow-northwest-springburn-helensburgh-route-add-on.json](./156402-train-simulator-suburban-glasgow-northwest-springburn-helensburgh-route-add-on.json) |
@@ -32787,6 +32798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tribal Mania | 377799 | [377799-tribal-mania.json](./377799-tribal-mania.json) |
 | Tribal Pass | 32646 | [32646-tribal-pass.json](./32646-tribal-pass.json) |
 | Tribal Rage | 78304 | [78304-tribal-rage.json](./78304-tribal-rage.json) |
+| Tribal Ritual | 311913 | [311913-tribal-ritual.json](./311913-tribal-ritual.json) |
 | Tribal Siege | 40562 | [40562-tribal-siege.json](./40562-tribal-siege.json) |
 | Tribal Towers: Siege of the Shifting Fortress | 296464 | [296464-tribal-towers-siege-of-the-shifting-fortress.json](./296464-tribal-towers-siege-of-the-shifting-fortress.json) |
 | Tribal Trouble | 64958 | [64958-tribal-trouble.json](./64958-tribal-trouble.json) |
