@@ -6532,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya's Mission | 102657 | [102657-mayas-mission.json](./102657-mayas-mission.json) |
 | Maya's Mission | 388755 | [388755-mayas-mission.json](./388755-mayas-mission.json) |
 | Mayak | 378419 | [378419-mayak.json](./378419-mayak.json) |
+| Mayan | 271363 | [271363-mayan.json](./271363-mayan.json) |
 | Mayan Death Robots | 13185 | [13185-mayan-death-robots.json](./13185-mayan-death-robots.json) |
 | Mayan Death Robots: Arena | 82444 | [82444-mayan-death-robots-arena.json](./82444-mayan-death-robots-arena.json) |
 | Mayan Mishap | 256820 | [256820-mayan-mishap.json](./256820-mayan-mishap.json) |
@@ -10655,6 +10656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Mind | 126226 | [126226-metal-mind.json](./126226-metal-mind.json) |
 | Metal Miners | 212680 | [212680-metal-miners.json](./212680-metal-miners.json) |
 | Metal Mission 2015: Dino Island | 259567 | [259567-metal-mission-2015-dino-island.json](./259567-metal-mission-2015-dino-island.json) |
+| Metal Monstrosity | 271444 | [271444-metal-monstrosity.json](./271444-metal-monstrosity.json) |
 | Metal Morph | 42556 | [42556-metal-morph.json](./42556-metal-morph.json) |
 | Metal Mutant | 10852 | [10852-metal-mutant.json](./10852-metal-mutant.json) |
 | Metal Mutation | 194077 | [194077-metal-mutation.json](./194077-metal-mutation.json) |
@@ -12238,6 +12240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Spooks 2: The Photo | 95930 | [95930-midnight-spooks-2-the-photo.json](./95930-midnight-spooks-2-the-photo.json) |
 | Midnight Spooks: The Thing in the Basement | 311482 | [311482-midnight-spooks-the-thing-in-the-basement.json](./311482-midnight-spooks-the-thing-in-the-basement.json) |
 | Midnight Squadron | 315980 | [315980-midnight-squadron.json](./315980-midnight-squadron.json) |
+| Midnight Stalker | 271448 | [271448-midnight-stalker.json](./271448-midnight-stalker.json) |
 | Midnight Star | 61713 | [61713-midnight-star.json](./61713-midnight-star.json) |
 | Midnight Star: Renegade | 58159 | [58159-midnight-star-renegade.json](./58159-midnight-star-renegade.json) |
 | Midnight Stories 2 | 158067 | [158067-midnight-stories-2.json](./158067-midnight-stories-2.json) |
