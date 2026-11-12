@@ -10813,6 +10813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Tunnels: Episode 1 | 178418 | [178418-forgotten-tunnels-episode-1.json](./178418-forgotten-tunnels-episode-1.json) |
 | Forgotten Tunnels: Episode 2 | 178428 | [178428-forgotten-tunnels-episode-2.json](./178428-forgotten-tunnels-episode-2.json) |
 | Forgotten Vale | 295312 | [295312-forgotten-vale.json](./295312-forgotten-vale.json) |
+| Forgotten Valley | 271428 | [271428-forgotten-valley.json](./271428-forgotten-valley.json) |
 | Forgotten Vault | 412577 | [412577-forgotten-vault.json](./412577-forgotten-vault.json) |
 | Forgotten VIlla | 389042 | [389042-forgotten-villa.json](./389042-forgotten-villa.json) |
 | Forgotten War | 252068 | [252068-forgotten-war.json](./252068-forgotten-war.json) |
