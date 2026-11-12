@@ -5042,7 +5042,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glade of Tranquility | 332133 | [332133-glade-of-tranquility.json](./332133-glade-of-tranquility.json) |
 | Gladia | 157038 | [157038-gladia.json](./157038-gladia.json) |
 | Gladiabears: Strength and Honour | 102679 | [102679-gladiabears-strength-and-honour.json](./102679-gladiabears-strength-and-honour.json) |
-| Gladiabots | 53079 | [53079-gladiabots.json](./53079-gladiabots.json) |
 | GladiArena | 357710 | [357710-gladiarena.json](./357710-gladiarena.json) |
 | Gladiate! | 301947 | [301947-gladiate.json](./301947-gladiate.json) |
 | Gladiato Potato | 349387 | [349387-gladiato-potato.json](./349387-gladiato-potato.json) |
