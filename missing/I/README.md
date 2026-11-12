@@ -4611,6 +4611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inkey University | 140182 | [140182-inkey-university.json](./140182-inkey-university.json) |
 | Inkfish | 190874 | [190874-inkfish.json](./190874-inkfish.json) |
 | Inkheart | 123332 | [123332-inkheart.json](./123332-inkheart.json) |
+| Inkidoki And Phoenix | 287274 | [287274-inkidoki-and-phoenix.json](./287274-inkidoki-and-phoenix.json) |
 | Inkighter | 244827 | [244827-inkighter.json](./244827-inkighter.json) |
 | InKing | 325760 | [325760-inking.json](./325760-inking.json) |
 | Inkjet Apocalypse | 350036 | [350036-inkjet-apocalypse.json](./350036-inkjet-apocalypse.json) |
