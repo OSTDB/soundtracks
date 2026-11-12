@@ -4283,6 +4283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Metal | 280745 | [280745-red-metal.json](./280745-red-metal.json) |
 | Red Mist | 131993 | [131993-red-mist.json](./131993-red-mist.json) |
 | Red Mist: Rivers of Blood | 167417 | [167417-red-mist-rivers-of-blood.json](./167417-red-mist-rivers-of-blood.json) |
+| Red Moon | 251884 | [251884-red-moon.json](./251884-red-moon.json) |
 | Red Moon | 28457 | [28457-red-moon.json](./28457-red-moon.json) |
 | Red Moon | 382317 | [382317-red-moon.json](./382317-red-moon.json) |
 | Red Moon Kingdom | 366606 | [366606-red-moon-kingdom.json](./366606-red-moon-kingdom.json) |
@@ -6709,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroSpace | 231488 | [231488-retrospace.json](./231488-retrospace.json) |
 | RetroSpace | 295608 | [295608-retrospace.json](./295608-retrospace.json) |
 | Retrospect | 376622 | [376622-retrospect.json](./376622-retrospect.json) |
+| Retrosurge | 251863 | [251863-retrosurge.json](./251863-retrosurge.json) |
 | RetroTime | 318888 | [318888-retrotime.json](./318888-retrotime.json) |
 | RetroTime Playdate | 273675 | [273675-retrotime-playdate.json](./273675-retrotime-playdate.json) |
 | RetroVamp | 126634 | [126634-retrovamp.json](./126634-retrovamp.json) |
@@ -8650,6 +8652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Runner | 32729 | [32729-rising-runner.json](./32729-rising-runner.json) |
 | Rising Sands | 292572 | [292572-rising-sands.json](./292572-rising-sands.json) |
 | Rising Snake | 123567 | [123567-rising-snake.json](./123567-rising-snake.json) |
+| Rising Snake: The Present World | 251859 | [251859-rising-snake-the-present-world.json](./251859-rising-snake-the-present-world.json) |
 | Rising Spire | 152795 | [152795-rising-spire.json](./152795-rising-spire.json) |
 | Rising Spirit | 402350 | [402350-rising-spirit.json](./402350-rising-spirit.json) |
 | Rising Star | 187043 | [187043-rising-star.json](./187043-rising-star.json) |
