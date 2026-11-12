@@ -4418,6 +4418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where are my potatoes 2: Land Of Mystery | 276815 | [276815-where-are-my-potatoes-2-land-of-mystery.json](./276815-where-are-my-potatoes-2-land-of-mystery.json) |
 | Where are My Potatoes? | 207798 | [207798-where-are-my-potatoes.json](./207798-where-are-my-potatoes.json) |
 | Where Are the Alices? | 405849 | [405849-where-are-the-alices.json](./405849-where-are-the-alices.json) |
+| Where Are the Creatures of Mountains and Seas | 306254 | [306254-where-are-the-creatures-of-mountains-and-seas.json](./306254-where-are-the-creatures-of-mountains-and-seas.json) |
 | Where Are the Fish? | 399168 | [399168-where-are-the-fish.json](./399168-where-are-the-fish.json) |
 | Where Are They? | 300688 | [300688-where-are-they.json](./300688-where-are-they.json) |
 | Where Are We Floating? | 382715 | [382715-where-are-we-floating.json](./382715-where-are-we-floating.json) |
@@ -5332,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wicked 18 | 38826 | [38826-wicked-18.json](./38826-wicked-18.json) |
 | Wicked Aeons | 173903 | [173903-wicked-aeons.json](./173903-wicked-aeons.json) |
 | Wicked Angels | 282208 | [282208-wicked-angels.json](./282208-wicked-angels.json) |
+| Wicked Arcana | 306256 | [306256-wicked-arcana.json](./306256-wicked-arcana.json) |
 | Wicked Be The Ways of Men | 273551 | [273551-wicked-be-the-ways-of-men.json](./273551-wicked-be-the-ways-of-men.json) |
 | Wicked Boy | 385955 | [385955-wicked-boy.json](./385955-wicked-boy.json) |
 | Wicked Brawler | 272267 | [272267-wicked-brawler.json](./272267-wicked-brawler.json) |
@@ -7880,6 +7882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodville Chronicles | 415962 | [415962-woodville-chronicles.json](./415962-woodville-chronicles.json) |
 | Woodways | 93741 | [93741-woodways.json](./93741-woodways.json) |
 | Woodwork Simulator | 120932 | [120932-woodwork-simulator.json](./120932-woodwork-simulator.json) |
+| Woodworm Classic | 306738 | [306738-woodworm-classic.json](./306738-woodworm-classic.json) |
 | Woody Blox | 74916 | [74916-woody-blox.json](./74916-woody-blox.json) |
 | Woody Chopper | 160269 | [160269-woody-chopper.json](./160269-woody-chopper.json) |
 | Woody Pop | 21551 | [21551-woody-pop.json](./21551-woody-pop.json) |
