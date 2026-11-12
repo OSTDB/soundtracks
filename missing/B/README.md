@@ -1737,6 +1737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballblazer | 273081 | [273081-ballblazer.json](./273081-ballblazer.json) |
 | Ballblazer Champions | 177 | [177-ballblazer-champions.json](./177-ballblazer-champions.json) |
 | BallBoi | 121313 | [121313-ballboi.json](./121313-ballboi.json) |
+| Ballbreaker II | 293254 | [293254-ballbreaker-ii.json](./293254-ballbreaker-ii.json) |
 | BallBuster Collection | 52443 | [52443-ballbuster-collection.json](./52443-ballbuster-collection.json) |
 | BallClimbing | 132932 | [132932-ballclimbing.json](./132932-ballclimbing.json) |
 | BallCore | 283979 | [283979-ballcore.json](./283979-ballcore.json) |
@@ -4947,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batty Zabella 2 XOXO XMAS | 347084 | [347084-batty-zabella-2-xoxo-xmas.json](./347084-batty-zabella-2-xoxo-xmas.json) |
 | Batu Ta Batu | 138646 | [138646-batu-ta-batu.json](./138646-batu-ta-batu.json) |
 | Batya | 126638 | [126638-batya.json](./126638-batya.json) |
+| Batyr: The Tale of the Brave | 293295 | [293295-batyr-the-tale-of-the-brave.json](./293295-batyr-the-tale-of-the-brave.json) |
 | Bauer | 189133 | [189133-bauer.json](./189133-bauer.json) |
 | Baugarten | 274325 | [274325-baugarten.json](./274325-baugarten.json) |
 | Bauhaus | 260788 | [260788-bauhaus.json](./260788-bauhaus.json) |
