@@ -10761,6 +10761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Saga | 145572 | [145572-forgotten-saga.json](./145572-forgotten-saga.json) |
 | Forgotten School | 229447 | [229447-forgotten-school.json](./229447-forgotten-school.json) |
 | Forgotten Seas | 233582 | [233582-forgotten-seas.json](./233582-forgotten-seas.json) |
+| Forgotten Secrets: Escape Room | 290602 | [290602-forgotten-secrets-escape-room.json](./290602-forgotten-secrets-escape-room.json) |
 | Forgotten Signal: Portal | 348389 | [348389-forgotten-signal-portal.json](./348389-forgotten-signal-portal.json) |
 | Forgotten Skies | 300465 | [300465-forgotten-skies.json](./300465-forgotten-skies.json) |
 | Forgotten Souls | 189824 | [189824-forgotten-souls.json](./189824-forgotten-souls.json) |
@@ -11611,6 +11612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fossilfuel VR: Raptor Isolation | 192777 | [192777-fossilfuel-vr-raptor-isolation.json](./192777-fossilfuel-vr-raptor-isolation.json) |
 | Fossilpunk | 327189 | [327189-fossilpunk.json](./327189-fossilpunk.json) |
 | Fost - Ghost Vs Fox | 124519 | [124519-fost-ghost-vs-fox.json](./124519-fost-ghost-vs-fox.json) |
+| Foster The Monster | 290574 | [290574-foster-the-monster.json](./290574-foster-the-monster.json) |
 | Foster: Ghost Child | 211051 | [211051-foster-ghost-child.json](./211051-foster-ghost-child.json) |
 | Foster's Home for Imaginary Friends | 230313 | [230313-fosters-home-for-imaginary-friends.json](./230313-fosters-home-for-imaginary-friends.json) |
 | Foster's Home for Imaginary Friends | 230429 | [230429-fosters-home-for-imaginary-friends.json](./230429-fosters-home-for-imaginary-friends.json) |
@@ -13310,6 +13312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Froggo | 115678 | [115678-froggo.json](./115678-froggo.json) |
 | Froggo Swing 'n Grapple | 197194 | [197194-froggo-swing-n-grapple.json](./197194-froggo-swing-n-grapple.json) |
 | Froggo's Adventure: Drifting Sky | 326759 | [326759-froggos-adventure-drifting-sky.json](./326759-froggos-adventure-drifting-sky.json) |
+| Froggo's Adventure: Verdant Venture | 290598 | [290598-froggos-adventure-verdant-venture.json](./290598-froggos-adventure-verdant-venture.json) |
 | Froggo's Quest | 418715 | [418715-froggos-quest.json](./418715-froggos-quest.json) |
 | Froggonit | 236179 | [236179-froggonit.json](./236179-froggonit.json) |
 | Froggy | 14080 | [14080-froggy.json](./14080-froggy.json) |
