@@ -177,12 +177,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakadashi Banzai 4 | 163920 | [163920-nakadashi-banzai-4.json](./163920-nakadashi-banzai-4.json) |
 | Nakadashi Banzai 5 | 249102 | [249102-nakadashi-banzai-5.json](./249102-nakadashi-banzai-5.json) |
 | Nakajima Satoru F-1 Hero GB: World Championship '91 | 94204 | [94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json](./94204-nakajima-satoru-f-1-hero-gb-world-championship-91.json) |
+| Nakajima Satoru Kanshuu F-1 Hero MD | 259772 | [259772-nakajima-satoru-kanshuu-f-1-hero-md.json](./259772-nakajima-satoru-kanshuu-f-1-hero-md.json) |
 | Nakajima Satoru Kanshuu: F-1 Hero '94 | 37914 | [37914-nakajima-satoru-kanshuu-f-1-hero-94.json](./37914-nakajima-satoru-kanshuu-f-1-hero-94.json) |
 | Nakajima Satoru Kanshuu: F1 Grand Prix | 45719 | [45719-nakajima-satoru-kanshuu-f1-grand-prix.json](./45719-nakajima-satoru-kanshuu-f1-grand-prix.json) |
 | Nakajima Satoru Kanshuu: F1 Super License | 45718 | [45718-nakajima-satoru-kanshuu-f1-super-license.json](./45718-nakajima-satoru-kanshuu-f1-super-license.json) |
 | Nakajima Satoru Kanshuu: Super F-1 Hero | 38205 | [38205-nakajima-satoru-kanshuu-super-f-1-hero.json](./38205-nakajima-satoru-kanshuu-super-f-1-hero.json) |
 | Nakajima Satoru: F-1 Hero | 48302 | [48302-nakajima-satoru-f-1-hero.json](./48302-nakajima-satoru-f-1-hero.json) |
 | Nakajima Satoru: F-1 Hero 2 | 48301 | [48301-nakajima-satoru-f-1-hero-2.json](./48301-nakajima-satoru-f-1-hero-2.json) |
+| Nakajima Satoru: F-1 Hero GB '92 - The Graded Driver | 259872 | [259872-nakajima-satoru-f-1-hero-gb-92-the-graded-driver.json](./259872-nakajima-satoru-f-1-hero-gb-92-the-graded-driver.json) |
 | Nakamers: La Huida | 305946 | [305946-nakamers-la-huida.json](./305946-nakamers-la-huida.json) |
 | Nakamon | 392129 | [392129-nakamon.json](./392129-nakamon.json) |
 | Nakamoto | 60237 | [60237-nakamoto.json](./60237-nakamoto.json) |
@@ -1451,6 +1453,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Inside Drive 2003 | 47358 | [47358-nba-inside-drive-2003.json](./47358-nba-inside-drive-2003.json) |
 | NBA Inside Drive 2004 | 24124 | [24124-nba-inside-drive-2004.json](./24124-nba-inside-drive-2004.json) |
 | NBA Jam | 198835 | [198835-nba-jam.json](./198835-nba-jam.json) |
+| NBA Jam | 259878 | [259878-nba-jam.json](./259878-nba-jam.json) |
+| NBA Jam | 259879 | [259879-nba-jam.json](./259879-nba-jam.json) |
 | NBA Jam | 5059 | [5059-nba-jam.json](./5059-nba-jam.json) |
 | NBA Jam | 88923 | [88923-nba-jam.json](./88923-nba-jam.json) |
 | NBA Jam | 8995 | [8995-nba-jam.json](./8995-nba-jam.json) |
@@ -1461,6 +1465,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Jam 99 | 3551 | [3551-nba-jam-99.json](./3551-nba-jam-99.json) |
 | NBA Jam Extreme | 40205 | [40205-nba-jam-extreme.json](./40205-nba-jam-extreme.json) |
 | NBA Jam Tournament Edition | 19712 | [19712-nba-jam-tournament-edition.json](./19712-nba-jam-tournament-edition.json) |
+| NBA Jam Tournament Edition | 259876 | [259876-nba-jam-tournament-edition.json](./259876-nba-jam-tournament-edition.json) |
+| NBA Jam Tournament Edition | 259877 | [259877-nba-jam-tournament-edition.json](./259877-nba-jam-tournament-edition.json) |
 | NBA Jam: 1990's On Fire Edition | 318696 | [318696-nba-jam-1990s-on-fire-edition.json](./318696-nba-jam-1990s-on-fire-edition.json) |
 | NBA Jam: 2020's On Fire Edition | 332161 | [332161-nba-jam-2020s-on-fire-edition.json](./332161-nba-jam-2020s-on-fire-edition.json) |
 | NBA Jam: Legends On Fire Edition | 242257 | [242257-nba-jam-legends-on-fire-edition.json](./242257-nba-jam-legends-on-fire-edition.json) |
@@ -2938,6 +2944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerf Legends | 163875 | [163875-nerf-legends.json](./163875-nerf-legends.json) |
 | Nerf Legends: Digital Deluxe Edition | 218844 | [218844-nerf-legends-digital-deluxe-edition.json](./218844-nerf-legends-digital-deluxe-edition.json) |
 | NERF Legends: Elite Blaster Combo Pack | 262314 | [262314-nerf-legends-elite-blaster-combo-pack.json](./262314-nerf-legends-elite-blaster-combo-pack.json) |
+| Nerf Legends: Ultimate Nerf Bundle | 259810 | [259810-nerf-legends-ultimate-nerf-bundle.json](./259810-nerf-legends-ultimate-nerf-bundle.json) |
 | Nerf N-Strike | 2665 | [2665-nerf-n-strike.json](./2665-nerf-n-strike.json) |
 | Nerf N-Strike Elite | 2666 | [2666-nerf-n-strike-elite.json](./2666-nerf-n-strike-elite.json) |
 | Nerf N-Strike: Double Blast Bundle | 268392 | [268392-nerf-n-strike-double-blast-bundle.json](./268392-nerf-n-strike-double-blast-bundle.json) |
