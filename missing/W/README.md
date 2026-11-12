@@ -4846,6 +4846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispered Stories: Sandman | 175803 | [175803-whispered-stories-sandman.json](./175803-whispered-stories-sandman.json) |
 | Whispering Abyss | 216829 | [216829-whispering-abyss.json](./216829-whispering-abyss.json) |
 | Whispering Age | 311535 | [311535-whispering-age.json](./311535-whispering-age.json) |
+| Whispering Breeze | 282207 | [282207-whispering-breeze.json](./282207-whispering-breeze.json) |
 | Whispering Death | 312551 | [312551-whispering-death.json](./312551-whispering-death.json) |
 | Whispering Dream | 314059 | [314059-whispering-dream.json](./314059-whispering-dream.json) |
 | Whispering Eclipsia | 427229 | [427229-whispering-eclipsia.json](./427229-whispering-eclipsia.json) |
@@ -4853,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispering Fog | 348655 | [348655-whispering-fog.json](./348655-whispering-fog.json) |
 | Whispering Green | 416838 | [416838-whispering-green.json](./416838-whispering-green.json) |
 | Whispering Hills | 322952 | [322952-whispering-hills.json](./322952-whispering-hills.json) |
+| Whispering Lane | 282206 | [282206-whispering-lane.json](./282206-whispering-lane.json) |
 | Whispering Memories | 334219 | [334219-whispering-memories.json](./334219-whispering-memories.json) |
 | Whispering Paws | 277756 | [277756-whispering-paws.json](./277756-whispering-paws.json) |
 | Whispering Shadows | 279856 | [279856-whispering-shadows.json](./279856-whispering-shadows.json) |
@@ -4881,6 +4883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of Ancient Stone | 195578 | [195578-whispers-of-ancient-stone.json](./195578-whispers-of-ancient-stone.json) |
 | Whispers of Appalachia | 389925 | [389925-whispers-of-appalachia.json](./389925-whispers-of-appalachia.json) |
 | Whispers of Elenrod | 378401 | [378401-whispers-of-elenrod.json](./378401-whispers-of-elenrod.json) |
+| Whispers of Elysium | 282205 | [282205-whispers-of-elysium.json](./282205-whispers-of-elysium.json) |
 | Whispers of Fear | 338370 | [338370-whispers-of-fear.json](./338370-whispers-of-fear.json) |
 | Whispers of Mexico: La Noche de la Casada | 356785 | [356785-whispers-of-mexico-la-noche-de-la-casada.json](./356785-whispers-of-mexico-la-noche-de-la-casada.json) |
 | Whispers of Orange Island | 421365 | [421365-whispers-of-orange-island.json](./421365-whispers-of-orange-island.json) |
@@ -5014,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Rectangle | 182778 | [182778-white-rectangle.json](./182778-white-rectangle.json) |
 | White Redemption | 289667 | [289667-white-redemption.json](./289667-white-redemption.json) |
 | White Room | 271526 | [271526-white-room.json](./271526-white-room.json) |
+| White Room | 282204 | [282204-white-room.json](./282204-white-room.json) |
 | White Room Protocol | 344051 | [344051-white-room-protocol.json](./344051-white-room-protocol.json) |
 | White Room: Mind’s Prison | 327175 | [327175-white-room-mind-s-prison.json](./327175-white-room-mind-s-prison.json) |
 | White Rooms | 399708 | [399708-white-rooms.json](./399708-white-rooms.json) |
@@ -6946,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches X Warlocks | 142023 | [142023-witches-x-warlocks.json](./142023-witches-x-warlocks.json) |
 | Witches X Warlocks: Lawrence's Route | 252913 | [252913-witches-x-warlocks-lawrences-route.json](./252913-witches-x-warlocks-lawrences-route.json) |
 | Witches, Heroes and Magic | 35015 | [35015-witches-heroes-and-magic.json](./35015-witches-heroes-and-magic.json) |
+| Witches, Wishes and Whispers | 282193 | [282193-witches-wishes-and-whispers.json](./282193-witches-wishes-and-whispers.json) |
 | Witches' Hallow | 270549 | [270549-witches-hallow.json](./270549-witches-hallow.json) |
 | Witches' Hand | 359134 | [359134-witches-hand.json](./359134-witches-hand.json) |
 | Witches' Legacy: Awakening Darkness HD (Full) | 89986 | [89986-witches-legacy-awakening-darkness-hd-full.json](./89986-witches-legacy-awakening-darkness-hd-full.json) |
@@ -7193,6 +7198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Man | 211927 | [211927-wizard-man.json](./211927-wizard-man.json) |
 | Wizard Mike | 195484 | [195484-wizard-mike.json](./195484-wizard-mike.json) |
 | Wizard Mukbang: The Game | 289898 | [289898-wizard-mukbang-the-game.json](./289898-wizard-mukbang-the-game.json) |
+| Wizard of foam Magic | 282192 | [282192-wizard-of-foam-magic.json](./282192-wizard-of-foam-magic.json) |
 | Wizard of Id's WizType | 94614 | [94614-wizard-of-ids-wiztype.json](./94614-wizard-of-ids-wiztype.json) |
 | Wizard of Legend | 19935 | [19935-wizard-of-legend.json](./19935-wizard-of-legend.json) |
 | Wizard of Legend 2 | 250160 | [250160-wizard-of-legend-2.json](./250160-wizard-of-legend-2.json) |
@@ -7487,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf or Boy | 117709 | [117709-wolf-or-boy.json](./117709-wolf-or-boy.json) |
 | Wolf Pack | 273222 | [273222-wolf-pack.json](./273222-wolf-pack.json) |
 | Wolf Pack: Howling Spirits | 395665 | [395665-wolf-pack-howling-spirits.json](./395665-wolf-pack-howling-spirits.json) |
+| Wolf Peak: The Case of Ruth Choi | 282197 | [282197-wolf-peak-the-case-of-ruth-choi.json](./282197-wolf-peak-the-case-of-ruth-choi.json) |
 | Wolf Plot | 423286 | [423286-wolf-plot.json](./423286-wolf-plot.json) |
 | Wolf Ridge | 132578 | [132578-wolf-ridge.json](./132578-wolf-ridge.json) |
 | Wolf Riot | 193491 | [193491-wolf-riot.json](./193491-wolf-riot.json) |
@@ -8405,6 +8412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordz | 79790 | [79790-wordz.json](./79790-wordz.json) |
 | Wordz + | 90894 | [90894-wordz.json](./90894-wordz.json) |
 | WordZap | 117962 | [117962-wordzap.json](./117962-wordzap.json) |
+| WordZap | 282342 | [282342-wordzap.json](./282342-wordzap.json) |
 | WordZap Deluxe | 205885 | [205885-wordzap-deluxe.json](./205885-wordzap-deluxe.json) |
 | Wordzy | 68415 | [68415-wordzy.json](./68415-wordzy.json) |
 | Worfy Games | 337933 | [337933-worfy-games.json](./337933-worfy-games.json) |
@@ -8830,6 +8838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Soccer Online | 34704 | [34704-world-of-soccer-online.json](./34704-world-of-soccer-online.json) |
 | World of Soccer Reloaded | 155684 | [155684-world-of-soccer-reloaded.json](./155684-world-of-soccer-reloaded.json) |
 | World of Solaria | 297843 | [297843-world-of-solaria.json](./297843-world-of-solaria.json) |
+| World of Solaria: MMORPG 2D | 282339 | [282339-world-of-solaria-mmorpg-2d.json](./282339-world-of-solaria-mmorpg-2d.json) |
 | World of Solitaire | 139966 | [139966-world-of-solitaire.json](./139966-world-of-solitaire.json) |
 | World of Solitaire: Deluxe Edition | 304777 | [304777-world-of-solitaire-deluxe-edition.json](./304777-world-of-solitaire-deluxe-edition.json) |
 | World of Speed | 8733 | [8733-world-of-speed.json](./8733-world-of-speed.json) |
@@ -9127,6 +9136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Tennis Stars | 49349 | [49349-world-tennis-stars.json](./49349-world-tennis-stars.json) |
 | World to Build | 124533 | [124533-world-to-build.json](./124533-world-to-build.json) |
 | World to Conquer | 223624 | [223624-world-to-conquer.json](./223624-world-to-conquer.json) |
+| World Tour | 282198 | [282198-world-tour.json](./282198-world-tour.json) |
 | World Tour Fishing | 5805 | [5805-world-tour-fishing.json](./5805-world-tour-fishing.json) |
 | World Tour Golf | 37172 | [37172-world-tour-golf.json](./37172-world-tour-golf.json) |
 | World Tour Racing | 46923 | [46923-world-tour-racing.json](./46923-world-tour-racing.json) |
@@ -9234,6 +9244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War Z: Zeke Hunter Weapons Pack | 224394 | [224394-world-war-z-zeke-hunter-weapons-pack.json](./224394-world-war-z-zeke-hunter-weapons-pack.json) |
 | World War Zero | 127176 | [127176-world-war-zero.json](./127176-world-war-zero.json) |
 | World War Zero: Ironstorm | 22286 | [22286-world-war-zero-ironstorm.json](./22286-world-war-zero-ironstorm.json) |
+| World War: An Age of Industry & Magic | 282195 | [282195-world-war-an-age-of-industry-and-magic.json](./282195-world-war-an-age-of-industry-and-magic.json) |
 | World War: Battle of the Bulge | 300827 | [300827-world-war-battle-of-the-bulge.json](./300827-world-war-battle-of-the-bulge.json) |
 | World War: Combat Guardian | 251049 | [251049-world-war-combat-guardian.json](./251049-world-war-combat-guardian.json) |
 | World War: D-Day 1944 | 404538 | [404538-world-war-d-day-1944.json](./404538-world-war-d-day-1944.json) |
@@ -9372,6 +9383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldShift | 21581 | [21581-worldshift.json](./21581-worldshift.json) |
 | WorldsKeeper | 216822 | [216822-worldskeeper.json](./216822-worldskeeper.json) |
 | Worldsmith | 209441 | [209441-worldsmith.json](./209441-worldsmith.json) |
+| Worldsmith by Charles A. Debczak | 282196 | [282196-worldsmith-by-charles-a-debczak.json](./282196-worldsmith-by-charles-a-debczak.json) |
 | Worldwide Arts Society | 182865 | [182865-worldwide-arts-society.json](./182865-worldwide-arts-society.json) |
 | Worldwide Battle Royale | 256907 | [256907-worldwide-battle-royale.json](./256907-worldwide-battle-royale.json) |
 | Worldwide Boxing Manager | 53106 | [53106-worldwide-boxing-manager.json](./53106-worldwide-boxing-manager.json) |
@@ -9782,6 +9794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling GM | 145800 | [145800-wrestling-gm.json](./145800-wrestling-gm.json) |
 | Wrestling Manager | 65625 | [65625-wrestling-manager.json](./65625-wrestling-manager.json) |
 | Wrestling Manager 2023 | 226116 | [226116-wrestling-manager-2023.json](./226116-wrestling-manager-2023.json) |
+| Wrestling Manager 2024 | 282199 | [282199-wrestling-manager-2024.json](./282199-wrestling-manager-2024.json) |
 | Wrestling Mpire 2008 | 79374 | [79374-wrestling-mpire-2008.json](./79374-wrestling-mpire-2008.json) |
 | Wrestling MPire Remix: Career Edition | 186430 | [186430-wrestling-mpire-remix-career-edition.json](./186430-wrestling-mpire-remix-career-edition.json) |
 | Wrestling Revolution | 64049 | [64049-wrestling-revolution.json](./64049-wrestling-revolution.json) |
@@ -9830,6 +9843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writer's Block | 190795 | [190795-writers-block.json](./190795-writers-block.json) |
 | Writer's Block | 391020 | [391020-writers-block.json](./391020-writers-block.json) |
 | Writer's Block | 80234 | [80234-writers-block.json](./80234-writers-block.json) |
+| Writer's Rush | 282194 | [282194-writers-rush.json](./282194-writers-rush.json) |
 | Writers | 75105 | [75105-writers.json](./75105-writers.json) |
 | Writhe | 142308 | [142308-writhe.json](./142308-writhe.json) |
 | Writhe | 213466 | [213466-writhe.json](./213466-writhe.json) |
