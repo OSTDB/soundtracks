@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Got Cucked by a Futanari | 290811 | [290811-i-got-cucked-by-a-futanari.json](./290811-i-got-cucked-by-a-futanari.json) |
 | I Got Hired To Guard The Button That Destroys The Earth | 340512 | [340512-i-got-hired-to-guard-the-button-that-destroys-the-earth.json](./340512-i-got-hired-to-guard-the-button-that-destroys-the-earth.json) |
 | I Got Isekai'd Into a Shmup | 311229 | [311229-i-got-isekaid-into-a-shmup.json](./311229-i-got-isekaid-into-a-shmup.json) |
+| I Got Sticky with a Femboy | 296700 | [296700-i-got-sticky-with-a-femboy.json](./296700-i-got-sticky-with-a-femboy.json) |
 | I Got Straddled by a Femboy | 295648 | [295648-i-got-straddled-by-a-femboy.json](./295648-i-got-straddled-by-a-femboy.json) |
 | I Got Trapped in the Succubus's Dream! | 264810 | [264810-i-got-trapped-in-the-succubuss-dream.json](./264810-i-got-trapped-in-the-succubuss-dream.json) |
 | I Got Turned Into a Girl and This Yuri Death Angel Will Only Turn Me Back if I Can Find All the Hidden Props | 395106 | [395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json](./395106-i-got-turned-into-a-girl-and-this-yuri-death-angel-will-only-turn-me-back-if-i-can-find-all-the-hidden-props.json) |
@@ -1458,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Aarakocra Glitch Orkira Skin & Feat Pack | 303546 | [303546-idle-champions-aarakocra-glitch-orkira-skin-and-feat-pack.json](./303546-idle-champions-aarakocra-glitch-orkira-skin-and-feat-pack.json) |
 | Idle Champions: Aasimar Glitch Donaar Skin & Feat Pack | 289847 | [289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json](./289847-idle-champions-aasimar-glitch-donaar-skin-and-feat-pack.json) |
 | Idle Champions: Aasimar Glitch Penelope Theme Pack | 295364 | [295364-idle-champions-aasimar-glitch-penelope-theme-pack.json](./295364-idle-champions-aasimar-glitch-penelope-theme-pack.json) |
+| Idle Champions: Action Figure Melf Skin & Feat Pack | 298466 | [298466-idle-champions-action-figure-melf-skin-and-feat-pack.json](./298466-idle-champions-action-figure-melf-skin-and-feat-pack.json) |
 | Idle Champions: Agent Vin Ursa Skin & Feat Pack | 313702 | [313702-idle-champions-agent-vin-ursa-skin-and-feat-pack.json](./313702-idle-champions-agent-vin-ursa-skin-and-feat-pack.json) |
 | Idle Champions: Alvina the Tressym Familiar Pack | 313709 | [313709-idle-champions-alvina-the-tressym-familiar-pack.json](./313709-idle-champions-alvina-the-tressym-familiar-pack.json) |
 | Idle Champions: Archmage Dhadius Theme Pack | 289846 | [289846-idle-champions-archmage-dhadius-theme-pack.json](./289846-idle-champions-archmage-dhadius-theme-pack.json) |
@@ -1468,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Chibi Birdsong Skin & Feat Pack | 313708 | [313708-idle-champions-chibi-birdsong-skin-and-feat-pack.json](./313708-idle-champions-chibi-birdsong-skin-and-feat-pack.json) |
 | Idle Champions: Chibi Gale Skin & Feat Pack | 317720 | [317720-idle-champions-chibi-gale-skin-and-feat-pack.json](./317720-idle-champions-chibi-gale-skin-and-feat-pack.json) |
 | Idle Champions: Chibi Shadowheart Skin & Feat Pack | 313697 | [313697-idle-champions-chibi-shadowheart-skin-and-feat-pack.json](./313697-idle-champions-chibi-shadowheart-skin-and-feat-pack.json) |
+| Idle Champions: Chibi Spurt Skin & Feat Pack | 298488 | [298488-idle-champions-chibi-spurt-skin-and-feat-pack.json](./298488-idle-champions-chibi-spurt-skin-and-feat-pack.json) |
 | Idle Champions: Classic Beholder Familiar Pack | 302013 | [302013-idle-champions-classic-beholder-familiar-pack.json](./302013-idle-champions-classic-beholder-familiar-pack.json) |
 | Idle Champions: Classic Demogorgon Familiar Pack | 303543 | [303543-idle-champions-classic-demogorgon-familiar-pack.json](./303543-idle-champions-classic-demogorgon-familiar-pack.json) |
 | Idle Champions: Classic Mimic Familiar Pack | 302012 | [302012-idle-champions-classic-mimic-familiar-pack.json](./302012-idle-champions-classic-mimic-familiar-pack.json) |
@@ -1497,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Champions: Mythic Ishi Skin & Feat Pack | 254376 | [254376-idle-champions-mythic-ishi-skin-and-feat-pack.json](./254376-idle-champions-mythic-ishi-skin-and-feat-pack.json) |
 | Idle Champions: Mythic Presto Theme Pack | 285840 | [285840-idle-champions-mythic-presto-theme-pack.json](./285840-idle-champions-mythic-presto-theme-pack.json) |
 | Idle Champions: Painted Tortle Gromma Theme Pack | 303537 | [303537-idle-champions-painted-tortle-gromma-theme-pack.json](./303537-idle-champions-painted-tortle-gromma-theme-pack.json) |
+| Idle Champions: Plushie Antrius Skin & Feat Pack | 298465 | [298465-idle-champions-plushie-antrius-skin-and-feat-pack.json](./298465-idle-champions-plushie-antrius-skin-and-feat-pack.json) |
 | Idle Champions: Plushie BBEG Skin & Feat Pack | 317722 | [317722-idle-champions-plushie-bbeg-skin-and-feat-pack.json](./317722-idle-champions-plushie-bbeg-skin-and-feat-pack.json) |
 | Idle Champions: Plushie Evandra Skin & Feat Pack | 303536 | [303536-idle-champions-plushie-evandra-skin-and-feat-pack.json](./303536-idle-champions-plushie-evandra-skin-and-feat-pack.json) |
 | Idle Champions: Plushie Nixie Skin & Feat Pack | 303535 | [303535-idle-champions-plushie-nixie-skin-and-feat-pack.json](./303535-idle-champions-plushie-nixie-skin-and-feat-pack.json) |
