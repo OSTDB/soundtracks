@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Caja de los Sueños | 298741 | [298741-la-caja-de-los-suenos.json](./298741-la-caja-de-los-suenos.json) |
 | La Camila : A VR Experience | 81616 | [81616-la-camila-a-vr-experience.json](./81616-la-camila-a-vr-experience.json) |
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
+| La Carte au Tresor | 269728 | [269728-la-carte-au-tresor.json](./269728-la-carte-au-tresor.json) |
 | La Casa del Taquero | 379725 | [379725-la-casa-del-taquero.json](./379725-la-casa-del-taquero.json) |
 | La Caza | 288121 | [288121-la-caza.json](./288121-la-caza.json) |
 | La Caza del Espía | 323175 | [323175-la-caza-del-espia.json](./323175-la-caza-del-espia.json) |
@@ -2162,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Avventure di Blue | 228418 | [228418-le-avventure-di-blue.json](./228418-le-avventure-di-blue.json) |
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Barbare Qui Est Un Bourgeois | 97509 | [97509-le-barbare-qui-est-un-bourgeois.json](./97509-le-barbare-qui-est-un-bourgeois.json) |
+| Le Bescherelle Pratique | 269714 | [269714-le-bescherelle-pratique.json](./269714-le-bescherelle-pratique.json) |
 | Le Bureau Des Rêves | 343306 | [343306-le-bureau-des-reves.json](./343306-le-bureau-des-reves.json) |
 | Le Chat Fonce | 275284 | [275284-le-chat-fonce.json](./275284-le-chat-fonce.json) |
 | Le Chat Fonce: Gnome Cafe | 287999 | [287999-le-chat-fonce-gnome-cafe.json](./287999-le-chat-fonce-gnome-cafe.json) |
