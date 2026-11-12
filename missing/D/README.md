@@ -2047,6 +2047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Slayer | 297015 | [297015-dark-slayer.json](./297015-dark-slayer.json) |
 | Dark Slayer | 365942 | [365942-dark-slayer.json](./365942-dark-slayer.json) |
 | Dark Slime | 202506 | [202506-dark-slime.json](./202506-dark-slime.json) |
+| Dark Snow | 293270 | [293270-dark-snow.json](./293270-dark-snow.json) |
 | Dark Snow | 75365 | [75365-dark-snow.json](./75365-dark-snow.json) |
 | Dark Soil | 101441 | [101441-dark-soil.json](./101441-dark-soil.json) |
 | Dark Solid | 141736 | [141736-dark-solid.json](./141736-dark-solid.json) |
@@ -3093,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day 10,909 | 264247 | [264247-day-10-909.json](./264247-day-10-909.json) |
 | Day 11 | 263003 | [263003-day-11.json](./263003-day-11.json) |
 | Day 178 | 338142 | [338142-day-178.json](./338142-day-178.json) |
+| Day 224 | 293291 | [293291-day-224.json](./293291-day-224.json) |
 | Day 31 | 419946 | [419946-day-31.json](./419946-day-31.json) |
 | Day After Day | 190310 | [190310-day-after-day.json](./190310-day-after-day.json) |
 | Day After Day | 342181 | [342181-day-after-day.json](./342181-day-after-day.json) |
@@ -11865,6 +11867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divider Dave | 400626 | [400626-divider-dave.json](./400626-divider-dave.json) |
 | Divilethion | 176299 | [176299-divilethion.json](./176299-divilethion.json) |
 | Divilixa | 149456 | [149456-divilixa.json](./149456-divilixa.json) |
+| Divina | 293259 | [293259-divina.json](./293259-divina.json) |
 | Divinastros | 306577 | [306577-divinastros.json](./306577-divinastros.json) |
 | Divination | 127850 | [127850-divination.json](./127850-divination.json) |
 | Divination | 339102 | [339102-divination.json](./339102-divination.json) |
@@ -18533,6 +18536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunk or Dead | 29830 | [29830-drunk-or-dead.json](./29830-drunk-or-dead.json) |
 | Drunk or Dead 2 | 202447 | [202447-drunk-or-dead-2.json](./202447-drunk-or-dead-2.json) |
 | Drunk or Dead: On the Road | 174495 | [174495-drunk-or-dead-on-the-road.json](./174495-drunk-or-dead-on-the-road.json) |
+| Drunk Policeman | 293286 | [293286-drunk-policeman.json](./293286-drunk-policeman.json) |
 | Drunk Puppet | 110354 | [110354-drunk-puppet.json](./110354-drunk-puppet.json) |
 | Drunk ride | 123874 | [123874-drunk-ride.json](./123874-drunk-ride.json) |
 | Drunk Santa Simulator | 127074 | [127074-drunk-santa-simulator.json](./127074-drunk-santa-simulator.json) |
