@@ -5489,6 +5489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Highway Robbery | 180793 | [180793-interstellar-highway-robbery.json](./180793-interstellar-highway-robbery.json) |
 | Interstellar Holy Spirit | 372128 | [372128-interstellar-holy-spirit.json](./372128-interstellar-holy-spirit.json) |
 | Interstellar Impact | 270090 | [270090-interstellar-impact.json](./270090-interstellar-impact.json) |
+| Interstellar Interruption | 309153 | [309153-interstellar-interruption.json](./309153-interstellar-interruption.json) |
 | Interstellar Invaders | 68715 | [68715-interstellar-invaders.json](./68715-interstellar-invaders.json) |
 | Interstellar Logistics Inc | 32033 | [32033-interstellar-logistics-inc.json](./32033-interstellar-logistics-inc.json) |
 | Interstellar Marines | 5031 | [5031-interstellar-marines.json](./5031-interstellar-marines.json) |
