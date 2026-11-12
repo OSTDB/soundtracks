@@ -2952,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barn Yarn: Collector's Edition | 339835 | [339835-barn-yarn-collectors-edition.json](./339835-barn-yarn-collectors-edition.json) |
 | Barnacle | 405614 | [405614-barnacle.json](./405614-barnacle.json) |
 | Barnacle Bill | 91437 | [91437-barnacle-bill.json](./91437-barnacle-bill.json) |
+| Barnacles Beers and Brawls | 294329 | [294329-barnacles-beers-and-brawls.json](./294329-barnacles-beers-and-brawls.json) |
 | Barnanza | 119064 | [119064-barnanza.json](./119064-barnanza.json) |
 | Barnard's Star | 158821 | [158821-barnards-star.json](./158821-barnards-star.json) |
 | Barney Bear Goes Camping | 14284 | [14284-barney-bear-goes-camping.json](./14284-barney-bear-goes-camping.json) |
@@ -7041,6 +7042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benefits and Burdens | 422844 | [422844-benefits-and-burdens.json](./422844-benefits-and-burdens.json) |
 | Benefitship | 264022 | [264022-benefitship.json](./264022-benefitship.json) |
 | Bengal | 205121 | [205121-bengal.json](./205121-bengal.json) |
+| Bengal: Game of Gods | 294641 | [294641-bengal-game-of-gods.json](./294641-bengal-game-of-gods.json) |
 | Bengan Box | 383598 | [383598-bengan-box.json](./383598-bengan-box.json) |
 | Bengan Yes | 228939 | [228939-bengan-yes.json](./228939-bengan-yes.json) |
 | Bengarachou Hakubutsushi | 254611 | [254611-bengarachou-hakubutsushi.json](./254611-bengarachou-hakubutsushi.json) |
@@ -8171,6 +8173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Ol' Bass 2 | 43921 | [43921-big-ol-bass-2.json](./43921-big-ol-bass-2.json) |
 | Big Orbit | 308450 | [308450-big-orbit.json](./308450-big-orbit.json) |
 | Big Pharma | 24396 | [24396-big-pharma.json](./24396-big-pharma.json) |
+| Big Pharma + Bio Inc. Redemption: Symptoms and Treatment Bundle | 294891 | [294891-big-pharma-bio-inc-redemption-symptoms-and-treatment-bundle.json](./294891-big-pharma-bio-inc-redemption-symptoms-and-treatment-bundle.json) |
 | Big Pharma: Marketing and Malpractice | 154418 | [154418-big-pharma-marketing-and-malpractice.json](./154418-big-pharma-marketing-and-malpractice.json) |
 | Big Pharma: Special Edition | 167042 | [167042-big-pharma-special-edition.json](./167042-big-pharma-special-edition.json) |
 | Big Pixel Pinball | 409139 | [409139-big-pixel-pinball.json](./409139-big-pixel-pinball.json) |
@@ -9163,6 +9166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth of Shadows | 34490 | [34490-birth-of-shadows.json](./34490-birth-of-shadows.json) |
 | Birth of Spring | 82172 | [82172-birth-of-spring.json](./82172-birth-of-spring.json) |
 | Birth of the Empires | 176175 | [176175-birth-of-the-empires.json](./176175-birth-of-the-empires.json) |
+| Birth of the Phoenix | 294873 | [294873-birth-of-the-phoenix.json](./294873-birth-of-the-phoenix.json) |
 | Birth of X | 358448 | [358448-birth-of-x.json](./358448-birth-of-x.json) |
 | Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
 | Birth to Death | 128103 | [128103-birth-to-death.json](./128103-birth-to-death.json) |
@@ -14965,6 +14969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy! Trampoline | 233520 | [233520-bouncy-trampoline.json](./233520-bouncy-trampoline.json) |
 | Bouncy's Abyssal Excursion | 382455 | [382455-bouncys-abyssal-excursion.json](./382455-bouncys-abyssal-excursion.json) |
 | Bouncy's Obstacle Course | 377829 | [377829-bouncys-obstacle-course.json](./377829-bouncys-obstacle-course.json) |
+| BouncyBirdy | 294330 | [294330-bouncybirdy.json](./294330-bouncybirdy.json) |
 | BouncyBoi in Puzzle Land | 157495 | [157495-bouncyboi-in-puzzle-land.json](./157495-bouncyboi-in-puzzle-land.json) |
 | Bound | 145795 | [145795-bound.json](./145795-bound.json) |
 | Bound Ball Animals | 314020 | [314020-bound-ball-animals.json](./314020-bound-ball-animals.json) |
@@ -18756,6 +18761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulwark: Falconeer Chronicles - Berracutta | 351178 | [351178-bulwark-falconeer-chronicles-berracutta.json](./351178-bulwark-falconeer-chronicles-berracutta.json) |
 | Bulwark: Falconeer Chronicles - Medieval Houses | 408049 | [408049-bulwark-falconeer-chronicles-medieval-houses.json](./408049-bulwark-falconeer-chronicles-medieval-houses.json) |
 | Bulwark: Falconeer Chronicles - Trade, Dispute and Splinters update | 299607 | [299607-bulwark-falconeer-chronicles-trade-dispute-and-splinters-update.json](./299607-bulwark-falconeer-chronicles-trade-dispute-and-splinters-update.json) |
+| Bulwark: Falconeer Chronicles Origins Bundle | 294883 | [294883-bulwark-falconeer-chronicles-origins-bundle.json](./294883-bulwark-falconeer-chronicles-origins-bundle.json) |
 | Bum Bum Koala | 397432 | [397432-bum-bum-koala.json](./397432-bum-bum-koala.json) |
 | Bum Bum Monsterz | 258511 | [258511-bum-bum-monsterz.json](./258511-bum-bum-monsterz.json) |
 | Bum Simulator VR | 201513 | [201513-bum-simulator-vr.json](./201513-bum-simulator-vr.json) |
