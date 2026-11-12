@@ -2003,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Royale | 292342 | [292342-zombie-royale.json](./292342-zombie-royale.json) |
 | Zombie Royale io | 362177 | [362177-zombie-royale-io.json](./362177-zombie-royale-io.json) |
 | Zombie Run HD | 250387 | [250387-zombie-run-hd.json](./250387-zombie-run-hd.json) |
+| Zombie Runner | 250679 | [250679-zombie-runner.json](./250679-zombie-runner.json) |
 | Zombie Rush | 179536 | [179536-zombie-rush.json](./179536-zombie-rush.json) |
 | Zombie Rush : Extinction | 119977 | [119977-zombie-rush-extinction.json](./119977-zombie-rush-extinction.json) |
 | Zombie Rush: Heroes | 159427 | [159427-zombie-rush-heroes.json](./159427-zombie-rush-heroes.json) |
