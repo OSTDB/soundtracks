@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VentureVerse: Legend of Ulora | 108623 | [108623-ventureverse-legend-of-ulora.json](./108623-ventureverse-legend-of-ulora.json) |
 | Venturous in the Footsteps of the Fallen | 269565 | [269565-venturous-in-the-footsteps-of-the-fallen.json](./269565-venturous-in-the-footsteps-of-the-fallen.json) |
 | Venue | 349615 | [349615-venue.json](./349615-venue.json) |
+| Venus & Braves: Majo to Megami to Horobi no Yogen | 294615 | [294615-venus-and-braves-majo-to-megami-to-horobi-no-yogen.json](./294615-venus-and-braves-majo-to-megami-to-horobi-no-yogen.json) |
 | Venus & Braves: Majo to Megami to Horobi no Yogen | 84319 | [84319-venus-and-braves-majo-to-megami-to-horobi-no-yogen.json](./84319-venus-and-braves-majo-to-megami-to-horobi-no-yogen.json) |
 | Venus Blood: Chimera | 92365 | [92365-venus-blood-chimera.json](./92365-venus-blood-chimera.json) |
 | Venus Eleven Vivid! | 327936 | [327936-venus-eleven-vivid.json](./327936-venus-eleven-vivid.json) |
