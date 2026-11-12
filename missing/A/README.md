@@ -10653,6 +10653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Bunnies: Colossal Carrot Crusade - Desert | 403417 | [403417-angry-bunnies-colossal-carrot-crusade-desert.json](./403417-angry-bunnies-colossal-carrot-crusade-desert.json) |
 | Angry Bunnies: Colossal Carrot Crusade - Heroes | 238190 | [238190-angry-bunnies-colossal-carrot-crusade-heroes.json](./238190-angry-bunnies-colossal-carrot-crusade-heroes.json) |
 | Angry Bunny | 123872 | [123872-angry-bunny.json](./123872-angry-bunny.json) |
+| Angry Bunny 3: Virus | 292714 | [292714-angry-bunny-3-virus.json](./292714-angry-bunny-3-virus.json) |
 | Angry Bunny Race: Jungle Road | 165899 | [165899-angry-bunny-race-jungle-road.json](./165899-angry-bunny-race-jungle-road.json) |
 | Angry Business Man | 64843 | [64843-angry-business-man.json](./64843-angry-business-man.json) |
 | Angry Capybara | 405913 | [405913-angry-capybara.json](./405913-angry-capybara.json) |
@@ -18938,6 +18939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autoboat Contest | 287425 | [287425-autoboat-contest.json](./287425-autoboat-contest.json) |
 | Autobots | 14457 | [14457-autobots.json](./14457-autobots.json) |
 | AutoBrawl | 194811 | [194811-autobrawl.json](./194811-autobrawl.json) |
+| AutoBrawl: One World, One Winner | 292724 | [292724-autobrawl-one-world-one-winner.json](./292724-autobrawl-one-world-one-winner.json) |
 | AutoBulletSurvivor | 302874 | [302874-autobulletsurvivor.json](./302874-autobulletsurvivor.json) |
 | Autobus Park Sim | 280565 | [280565-autobus-park-sim.json](./280565-autobus-park-sim.json) |
 | Autocard: Your RPG Adventure | 381264 | [381264-autocard-your-rpg-adventure.json](./381264-autocard-your-rpg-adventure.json) |
