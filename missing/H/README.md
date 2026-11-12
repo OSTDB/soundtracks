@@ -5202,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Age Vacation | 384706 | [384706-hentai-age-vacation.json](./384706-hentai-age-vacation.json) |
 | Hentai Ahegao | 111270 | [111270-hentai-ahegao.json](./111270-hentai-ahegao.json) |
 | Hentai Aim Practice | 219832 | [219832-hentai-aim-practice.json](./219832-hentai-aim-practice.json) |
+| Hentai Aim Puzzle | 260437 | [260437-hentai-aim-puzzle.json](./260437-hentai-aim-puzzle.json) |
 | Hentai Aim Trainer | 147539 | [147539-hentai-aim-trainer.json](./147539-hentai-aim-trainer.json) |
 | Hentai Aim Trainer 2 | 234519 | [234519-hentai-aim-trainer-2.json](./234519-hentai-aim-trainer-2.json) |
 | Hentai Aina | 340427 | [340427-hentai-aina.json](./340427-hentai-aina.json) |
@@ -10274,6 +10275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoneyCome Come Come Party | 263645 | [263645-honeycome-come-come-party.json](./263645-honeycome-come-come-party.json) |
 | HoneyCome Come Come Party: Dolce | 280546 | [280546-honeycome-come-come-party-dolce.json](./280546-honeycome-come-come-party-dolce.json) |
 | Honeydew | 303942 | [303942-honeydew.json](./303942-honeydew.json) |
+| HoneyFury | 260347 | [260347-honeyfury.json](./260347-honeyfury.json) |
 | HoneyHoneyHoney! | 164604 | [164604-honeyhoneyhoney.json](./164604-honeyhoneyhoney.json) |
 | HoneyLand | 167597 | [167597-honeyland.json](./167597-honeyland.json) |
 | Honeymancer | 217075 | [217075-honeymancer.json](./217075-honeymancer.json) |
@@ -10497,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hook & Kaiju | 266729 | [266729-hook-and-kaiju.json](./266729-hook-and-kaiju.json) |
 | Hook & Roll | 401738 | [401738-hook-and-roll.json](./401738-hook-and-roll.json) |
 | Hook 2 | 192626 | [192626-hook-2.json](./192626-hook-2.json) |
+| Hook Adventure | 260438 | [260438-hook-adventure.json](./260438-hook-adventure.json) |
 | Hook Champ | 67249 | [67249-hook-champ.json](./67249-hook-champ.json) |
 | Hook Escaper | 226532 | [226532-hook-escaper.json](./226532-hook-escaper.json) |
 | Hook it, Drift it, Race it | 180490 | [180490-hook-it-drift-it-race-it.json](./180490-hook-it-drift-it-race-it.json) |
