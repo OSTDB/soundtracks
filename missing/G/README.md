@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Loader | 324304 | [324304-galactic-loader.json](./324304-galactic-loader.json) |
 | Galactic Lords | 252696 | [252696-galactic-lords.json](./252696-galactic-lords.json) |
 | Galactic Lords | 75174 | [75174-galactic-lords.json](./75174-galactic-lords.json) |
+| Galactic Love Utopia | 296696 | [296696-galactic-love-utopia.json](./296696-galactic-love-utopia.json) |
 | Galactic Merchant | 201626 | [201626-galactic-merchant.json](./201626-galactic-merchant.json) |
 | Galactic Mining Corp | 132093 | [132093-galactic-mining-corp.json](./132093-galactic-mining-corp.json) |
 | Galactic Missile Defense | 34807 | [34807-galactic-missile-defense.json](./34807-galactic-missile-defense.json) |
@@ -9073,6 +9074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graviton | 122382 | [122382-graviton.json](./122382-graviton.json) |
 | Graviton | 183771 | [183771-graviton.json](./183771-graviton.json) |
 | Graviton Flux | 371957 | [371957-graviton-flux.json](./371957-graviton-flux.json) |
+| Graviton Force | 297263 | [297263-graviton-force.json](./297263-graviton-force.json) |
 | Gravitor | 409271 | [409271-gravitor.json](./409271-gravitor.json) |
 | Gravitorium | 274322 | [274322-gravitorium.json](./274322-gravitorium.json) |
 | Gravitorque DX | 355508 | [355508-gravitorque-dx.json](./355508-gravitorque-dx.json) |
@@ -10606,6 +10608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groven | 199350 | [199350-groven.json](./199350-groven.json) |
 | Grover's Animal Adventures | 213176 | [213176-grovers-animal-adventures.json](./213176-grovers-animal-adventures.json) |
 | Grover's Travels | 333206 | [333206-grovers-travels.json](./333206-grovers-travels.json) |
+| Grovesong | 296144 | [296144-grovesong.json](./296144-grovesong.json) |
 | Grow | 28503 | [28503-grow.json](./28503-grow.json) |
 | Grow & Go: Cozy Deliveries | 414406 | [414406-grow-and-go-cozy-deliveries.json](./414406-grow-and-go-cozy-deliveries.json) |
 | Grow a Carrot | 289831 | [289831-grow-a-carrot.json](./289831-grow-a-carrot.json) |
