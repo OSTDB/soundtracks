@@ -8604,7 +8604,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter Army | 75368 | [75368-alter-army.json](./75368-alter-army.json) |
 | Alter Cosmos | 103539 | [103539-alter-cosmos.json](./103539-alter-cosmos.json) |
 | Alter Dogma | 219944 | [219944-alter-dogma.json](./219944-alter-dogma.json) |
-| Alter Echo | 1989 | [1989-alter-echo.json](./1989-alter-echo.json) |
 | Alter Ego | 134505 | [134505-alter-ego.json](./134505-alter-ego.json) |
 | Alter Ego | 246772 | [246772-alter-ego.json](./246772-alter-ego.json) |
 | Alter Ego | 270396 | [270396-alter-ego.json](./270396-alter-ego.json) |
