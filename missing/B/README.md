@@ -1506,6 +1506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldur's Gate II: Shadows of Amn - Collectors' Edition | 91241 | [91241-baldurs-gate-ii-shadows-of-amn-collectors-edition.json](./91241-baldurs-gate-ii-shadows-of-amn-collectors-edition.json) |
 | Baldur's Gate II: Throne of Bhaal | 82 | [82-baldurs-gate-ii-throne-of-bhaal.json](./82-baldurs-gate-ii-throne-of-bhaal.json) |
 | Baldur's Gate III: The Black Hound | 357173 | [357173-baldurs-gate-iii-the-black-hound.json](./357173-baldurs-gate-iii-the-black-hound.json) |
+| Baldur's Gate Java Game | 317481 | [317481-baldurs-gate-java-game.json](./317481-baldurs-gate-java-game.json) |
 | Baldur's Gate: Dark Alliance | 243015 | [243015-baldurs-gate-dark-alliance.json](./243015-baldurs-gate-dark-alliance.json) |
 | Baldur's Gate: Dark Alliance | 83 | [83-baldurs-gate-dark-alliance.json](./83-baldurs-gate-dark-alliance.json) |
 | Baldur's Gate: Dark Alliance II | 210699 | [210699-baldurs-gate-dark-alliance-ii.json](./210699-baldurs-gate-dark-alliance-ii.json) |
@@ -1664,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Revamped 2: Metaphysik | 381191 | [381191-ball-revamped-2-metaphysik.json](./381191-ball-revamped-2-metaphysik.json) |
 | Ball Revamped III: Andromeda | 381213 | [381213-ball-revamped-iii-andromeda.json](./381213-ball-revamped-iii-andromeda.json) |
 | Ball Revamped III: Gemini | 381317 | [381317-ball-revamped-iii-gemini.json](./381317-ball-revamped-iii-gemini.json) |
+| Ball Rise Up | 317041 | [317041-ball-rise-up.json](./317041-ball-rise-up.json) |
 | Ball Roller | 384713 | [384713-ball-roller.json](./384713-ball-roller.json) |
 | Ball Rows | 103879 | [103879-ball-rows.json](./103879-ball-rows.json) |
 | Ball Run | 118797 | [118797-ball-run.json](./118797-ball-run.json) |
@@ -3685,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman: Revenge of the Joker | 45204 | [45204-batman-revenge-of-the-joker.json](./45204-batman-revenge-of-the-joker.json) |
 | Batman: Rise of Sin Tzu | 197871 | [197871-batman-rise-of-sin-tzu.json](./197871-batman-rise-of-sin-tzu.json) |
 | Batman: Rise of Sin Tzu | 5739 | [5739-batman-rise-of-sin-tzu.json](./5739-batman-rise-of-sin-tzu.json) |
+| Batman: Rogue City | 316905 | [316905-batman-rogue-city.json](./316905-batman-rogue-city.json) |
 | Batman: Shadows of Gotham | 45200 | [45200-batman-shadows-of-gotham.json](./45200-batman-shadows-of-gotham.json) |
 | Batman: The Animated Series | 198677 | [198677-batman-the-animated-series.json](./198677-batman-the-animated-series.json) |
 | Batman: The Brave and the Bold | 245552 | [245552-batman-the-brave-and-the-bold.json](./245552-batman-the-brave-and-the-bold.json) |
@@ -13055,6 +13058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body of Work | 281443 | [281443-body-of-work.json](./281443-body-of-work.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
 | Body Pay “OMG! The Girl With the Big Titties Is Too Hitting on Me!” | 368950 | [368950-body-pay-omg-the-girl-with-the-big-titties-is-too-hitting-on-me.json](./368950-body-pay-omg-the-girl-with-the-big-titties-is-too-hitting-on-me.json) |
+| Body Quest | 317480 | [317480-body-quest.json](./317480-body-quest.json) |
 | Body Slam | 40095 | [40095-body-slam.json](./40095-body-slam.json) |
 | Body Slam! Super Pro Wrestling | 41440 | [41440-body-slam-super-pro-wrestling.json](./41440-body-slam-super-pro-wrestling.json) |
 | Body Special 264: Girls in Motion Puzzle Vol. 2 | 45408 | [45408-body-special-264-girls-in-motion-puzzle-vol-2.json](./45408-body-special-264-girls-in-motion-puzzle-vol-2.json) |
@@ -14314,6 +14318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border of Insanity | 110152 | [110152-border-of-insanity.json](./110152-border-of-insanity.json) |
 | Border of Insanity Origins | 128206 | [128206-border-of-insanity-origins.json](./128206-border-of-insanity-origins.json) |
 | Border Officer | 117132 | [117132-border-officer.json](./117132-border-officer.json) |
+| Border Patrol | 316523 | [316523-border-patrol.json](./316523-border-patrol.json) |
 | Border Patrol Officer: Control Duty Simulator | 317567 | [317567-border-patrol-officer-control-duty-simulator.json](./317567-border-patrol-officer-control-duty-simulator.json) |
 | Border Patrol Simulator | 334342 | [334342-border-patrol-simulator.json](./334342-border-patrol-simulator.json) |
 | Border Pioneer | 290777 | [290777-border-pioneer.json](./290777-border-pioneer.json) |
