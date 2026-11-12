@@ -3832,6 +3832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infantry | 44238 | [44238-infantry.json](./44238-infantry.json) |
 | Infantry | 85840 | [85840-infantry.json](./85840-infantry.json) |
 | Infantry Assault: War 3D FPS | 260014 | [260014-infantry-assault-war-3d-fps.json](./260014-infantry-assault-war-3d-fps.json) |
+| Infantry Attack | 291670 | [291670-infantry-attack.json](./291670-infantry-attack.json) |
 | Infantry Attack: Backup Edition | 308805 | [308805-infantry-attack-backup-edition.json](./308805-infantry-attack-backup-edition.json) |
 | Infantry Attack: Complete Edition | 295676 | [295676-infantry-attack-complete-edition.json](./295676-infantry-attack-complete-edition.json) |
 | Infantry Attack: Drone Squad | 303578 | [303578-infantry-attack-drone-squad.json](./303578-infantry-attack-drone-squad.json) |
@@ -5493,6 +5494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interstellar Airgap | 175641 | [175641-interstellar-airgap.json](./175641-interstellar-airgap.json) |
 | Interstellar Connection | 183013 | [183013-interstellar-connection.json](./183013-interstellar-connection.json) |
 | Interstellar Conquest | 238582 | [238582-interstellar-conquest.json](./238582-interstellar-conquest.json) |
+| Interstellar Distress | 291728 | [291728-interstellar-distress.json](./291728-interstellar-distress.json) |
 | Interstellar Dominion | 297413 | [297413-interstellar-dominion.json](./297413-interstellar-dominion.json) |
 | Interstellar Dragon: Into the depths... of space! | 374670 | [374670-interstellar-dragon-into-the-depths-of-space.json](./374670-interstellar-dragon-into-the-depths-of-space.json) |
 | Interstellar Empires | 378595 | [378595-interstellar-empires.json](./378595-interstellar-empires.json) |
