@@ -4724,6 +4724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Innovazione Vostra | 227919 | [227919-innovazione-vostra.json](./227919-innovazione-vostra.json) |
 | Innovetica | 119945 | [119945-innovetica.json](./119945-innovetica.json) |
 | Innsmouth | 328939 | [328939-innsmouth.json](./328939-innsmouth.json) |
+| Innsmouth 22 | 295594 | [295594-innsmouth-22.json](./295594-innsmouth-22.json) |
 | Innsmouth Corporate Plaza | 276476 | [276476-innsmouth-corporate-plaza.json](./276476-innsmouth-corporate-plaza.json) |
 | Innsmouth Mysteries | 382946 | [382946-innsmouth-mysteries.json](./382946-innsmouth-mysteries.json) |
 | Innsmouth Nightmare | 311255 | [311255-innsmouth-nightmare.json](./311255-innsmouth-nightmare.json) |
