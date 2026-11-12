@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Forwards, A Backwards | 364341 | [364341-a-forwards-a-backwards.json](./364341-a-forwards-a-backwards.json) |
 | A Fox and His Robot | 150611 | [150611-a-fox-and-his-robot.json](./150611-a-fox-and-his-robot.json) |
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
+| A Fragile Mind | 305572 | [305572-a-fragile-mind.json](./305572-a-fragile-mind.json) |
 | A Fragment of Her | 60215 | [60215-a-fragment-of-her.json](./60215-a-fragment-of-her.json) |
 | A Frail Qubit | 192722 | [192722-a-frail-qubit.json](./192722-a-frail-qubit.json) |
 | A Frantic Santa Situation | 239623 | [239623-a-frantic-santa-situation.json](./239623-a-frantic-santa-situation.json) |
@@ -3371,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adaca | 197542 | [197542-adaca.json](./197542-adaca.json) |
 | Adachi Ballin' | 412453 | [412453-adachi-ballin.json](./412453-adachi-ballin.json) |
 | Adachi Dating Simulator | 240470 | [240470-adachi-dating-simulator.json](./240470-adachi-dating-simulator.json) |
+| Adagio | 305057 | [305057-adagio.json](./305057-adagio.json) |
 | Adagio | 329900 | [329900-adagio.json](./329900-adagio.json) |
 | Adam & Eve | 204500 | [204500-adam-and-eve.json](./204500-adam-and-eve.json) |
 | Adam and Eve | 185881 | [185881-adam-and-eve.json](./185881-adam-and-eve.json) |
@@ -9358,6 +9360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Museum of Natural History's T. Rex: Skeleton Crew | 357428 | [357428-american-museum-of-natural-historys-t-rex-skeleton-crew.json](./357428-american-museum-of-natural-historys-t-rex-skeleton-crew.json) |
 | American Navy Seals | 410967 | [410967-american-navy-seals.json](./410967-american-navy-seals.json) |
 | American Ninja Warrior: Challenge | 118196 | [118196-american-ninja-warrior-challenge.json](./118196-american-ninja-warrior-challenge.json) |
+| American Oudan Ultra Quiz | 305026 | [305026-american-oudan-ultra-quiz.json](./305026-american-oudan-ultra-quiz.json) |
 | American Patriots: The Swamp Fox | 111018 | [111018-american-patriots-the-swamp-fox.json](./111018-american-patriots-the-swamp-fox.json) |
 | American Pickers | 52393 | [52393-american-pickers.json](./52393-american-pickers.json) |
 | American Pickers: The Road Less Traveled | 65204 | [65204-american-pickers-the-road-less-traveled.json](./65204-american-pickers-the-road-less-traveled.json) |
@@ -10318,6 +10321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Adventures | 238403 | [238403-angel-adventures.json](./238403-angel-adventures.json) |
 | Angel and Devil, Ninja, Sushi, Tempura, Panda and the Statue of Liberty | 108389 | [108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json](./108389-angel-and-devil-ninja-sushi-tempura-panda-and-the-statue-of-liberty.json) |
 | Angel Archer Run: The Lost Temple of Oz | 232264 | [232264-angel-archer-run-the-lost-temple-of-oz.json](./232264-angel-archer-run-the-lost-temple-of-oz.json) |
+| Angel Army | 305028 | [305028-angel-army.json](./305028-angel-army.json) |
 | Angel at Dusk | 149805 | [149805-angel-at-dusk.json](./149805-angel-at-dusk.json) |
 | Angel Beats! 1st Beat | 11414 | [11414-angel-beats-1st-beat.json](./11414-angel-beats-1st-beat.json) |
 | Angel Beats! Operation Wars | 125640 | [125640-angel-beats-operation-wars.json](./125640-angel-beats-operation-wars.json) |
