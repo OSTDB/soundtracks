@@ -3748,6 +3748,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leonardo's Cat | 175398 | [175398-leonardos-cat.json](./175398-leonardos-cat.json) |
 | Leonardo's Island | 160075 | [160075-leonardos-island.json](./160075-leonardos-island.json) |
 | Leonidov | 374277 | [374277-leonidov.json](./374277-leonidov.json) |
+| Leonor & Raúl: Christmas | 315959 | [315959-leonor-and-raul-christmas.json](./315959-leonor-and-raul-christmas.json) |
+| Leonor & Raúl: Halloween | 315957 | [315957-leonor-and-raul-halloween.json](./315957-leonor-and-raul-halloween.json) |
+| Leonor & Raúl: The Key | 315954 | [315954-leonor-and-raul-the-key.json](./315954-leonor-and-raul-the-key.json) |
 | Leons Identität | 168598 | [168598-leons-identitat.json](./168598-leons-identitat.json) |
 | LeonWaan MineSweeper | 368382 | [368382-leonwaan-minesweeper.json](./368382-leonwaan-minesweeper.json) |
 | Leopard Lord | 137348 | [137348-leopard-lord.json](./137348-leopard-lord.json) |
@@ -8324,7 +8327,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Black Sun | 10522 | [10522-lords-of-the-black-sun.json](./10522-lords-of-the-black-sun.json) |
 | Lords of the Chaos | 263478 | [263478-lords-of-the-chaos.json](./263478-lords-of-the-chaos.json) |
 | Lords of the Darkreign | 160116 | [160116-lords-of-the-darkreign.json](./160116-lords-of-the-darkreign.json) |
-| Lords of the Fallen | 194987 | [194987-lords-of-the-fallen.json](./194987-lords-of-the-fallen.json) |
 | Lords of the Fallen | 4847 | [4847-lords-of-the-fallen.json](./4847-lords-of-the-fallen.json) |
 | Lords of the Fallen II | 318503 | [318503-lords-of-the-fallen-ii.json](./318503-lords-of-the-fallen-ii.json) |
 | Lords of the Fallen: Ancient Labyrinth | 21594 | [21594-lords-of-the-fallen-ancient-labyrinth.json](./21594-lords-of-the-fallen-ancient-labyrinth.json) |
