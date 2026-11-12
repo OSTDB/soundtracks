@@ -20157,6 +20157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 3: Nintendo Switch Edition | 212632 | [212632-dungeons-3-nintendo-switch-edition.json](./212632-dungeons-3-nintendo-switch-edition.json) |
 | Dungeons 3: Once Upon A Time | 138057 | [138057-dungeons-3-once-upon-a-time.json](./138057-dungeons-3-once-upon-a-time.json) |
 | Dungeons 4 | 215915 | [215915-dungeons-4.json](./215915-dungeons-4.json) |
+| Dungeons 4: Deluxe Edition | 272434 | [272434-dungeons-4-deluxe-edition.json](./272434-dungeons-4-deluxe-edition.json) |
 | Dungeons 4: Nintendo Switch Edition | 319321 | [319321-dungeons-4-nintendo-switch-edition.json](./319321-dungeons-4-nintendo-switch-edition.json) |
 | Dungeons 4: Not Another Multiverse | 324637 | [324637-dungeons-4-not-another-multiverse.json](./324637-dungeons-4-not-another-multiverse.json) |
 | Dungeons 4: Tales from the Campfire | 356370 | [356370-dungeons-4-tales-from-the-campfire.json](./356370-dungeons-4-tales-from-the-campfire.json) |
