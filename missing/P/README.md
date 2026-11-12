@@ -4886,6 +4886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Permanent Daylight | 62194 | [62194-permanent-daylight.json](./62194-permanent-daylight.json) |
 | Permanent Mark | 293033 | [293033-permanent-mark.json](./293033-permanent-mark.json) |
 | Permanent Sleep | 220742 | [220742-permanent-sleep.json](./220742-permanent-sleep.json) |
+| Permanent: Hope & Vacuum | 293803 | [293803-permanent-hope-and-vacuum.json](./293803-permanent-hope-and-vacuum.json) |
 | PermaNight | 220463 | [220463-permanight.json](./220463-permanight.json) |
 | Permia - Duels | 9717 | [9717-permia-duels.json](./9717-permia-duels.json) |
 | Permission VR | 108425 | [108425-permission-vr.json](./108425-permission-vr.json) |
@@ -5666,6 +5667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantom 9 | 416629 | [416629-phantom-9.json](./416629-phantom-9.json) |
 | Phantom Abyss | 147021 | [147021-phantom-abyss.json](./147021-phantom-abyss.json) |
 | Phantom Air Mission | 49041 | [49041-phantom-air-mission.json](./49041-phantom-air-mission.json) |
+| Phantom Ascension | 293824 | [293824-phantom-ascension.json](./293824-phantom-ascension.json) |
 | Phantom Astronaut Lucid VR | 122340 | [122340-phantom-astronaut-lucid-vr.json](./122340-phantom-astronaut-lucid-vr.json) |
 | Phantom Asylum VR | 333651 | [333651-phantom-asylum-vr.json](./333651-phantom-asylum-vr.json) |
 | Phantom Beast Solitaire | 301627 | [301627-phantom-beast-solitaire.json](./301627-phantom-beast-solitaire.json) |
@@ -15799,6 +15801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prismatica | 35033 | [35033-prismatica.json](./35033-prismatica.json) |
 | Prismaticallization | 108832 | [108832-prismaticallization.json](./108832-prismaticallization.json) |
 | Prismatix | 88071 | [88071-prismatix.json](./88071-prismatix.json) |
+| PrismaVenture Clash | 293805 | [293805-prismaventure-clash.json](./293805-prismaventure-clash.json) |
 | Prisme 7 | 133179 | [133179-prisme-7.json](./133179-prisme-7.json) |
 | PrismNeedle | 323000 | [323000-prismneedle.json](./323000-prismneedle.json) |
 | Prisnhax | 319777 | [319777-prisnhax.json](./319777-prisnhax.json) |
