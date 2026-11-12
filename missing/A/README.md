@@ -593,6 +593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Grim Chase | 407948 | [407948-a-grim-chase.json](./407948-a-grim-chase.json) |
 | A Grim Granny | 407959 | [407959-a-grim-granny.json](./407959-a-grim-granny.json) |
 | A Grim Tale of Vices | 115389 | [115389-a-grim-tale-of-vices.json](./115389-a-grim-tale-of-vices.json) |
+| A group of beauties surrounded me | 278176 | [278176-a-group-of-beauties-surrounded-me.json](./278176-a-group-of-beauties-surrounded-me.json) |
 | A Growing Adventure | 305129 | [305129-a-growing-adventure.json](./305129-a-growing-adventure.json) |
 | A Gruta de Maquiné | 293930 | [293930-a-gruta-de-maquine.json](./293930-a-gruta-de-maquine.json) |
 | A Guard Walks Into a Tavern | 148906 | [148906-a-guard-walks-into-a-tavern.json](./148906-a-guard-walks-into-a-tavern.json) |
@@ -4838,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
 | After Thought | 238121 | [238121-after-thought.json](./238121-after-thought.json) |
 | After University | 263980 | [263980-after-university.json](./263980-after-university.json) |
+| After War Town | 278173 | [278173-after-war-town.json](./278173-after-war-town.json) |
 | After Wave: Downfall | 212284 | [212284-after-wave-downfall.json](./212284-after-wave-downfall.json) |
 | After Work | 360586 | [360586-after-work.json](./360586-after-work.json) |
 | After Work | 417423 | [417423-after-work.json](./417423-after-work.json) |
@@ -12276,6 +12278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anxiety Treatment with Relaxation | 187252 | [187252-anxiety-treatment-with-relaxation.json](./187252-anxiety-treatment-with-relaxation.json) |
 | Anxiety: Lost Night | 179490 | [179490-anxiety-lost-night.json](./179490-anxiety-lost-night.json) |
 | Anxietyware | 179002 | [179002-anxietyware.json](./179002-anxietyware.json) |
+| Anxious: Yuukyuu no Memory | 278021 | [278021-anxious-yuukyuu-no-memory.json](./278021-anxious-yuukyuu-no-memory.json) |
 | ANXRacers: Drift Space | 214711 | [214711-anxracers-drift-space.json](./214711-anxracers-drift-space.json) |
 | Any Candy | 166927 | [166927-any-candy.json](./166927-any-candy.json) |
 | Any Castle | 337298 | [337298-any-castle.json](./337298-any-castle.json) |
@@ -14896,6 +14899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark Mobius | 169794 | [169794-ark-mobius.json](./169794-ark-mobius.json) |
 | Ark Noir | 82880 | [82880-ark-noir.json](./82880-ark-noir.json) |
 | Ark Nova | 338156 | [338156-ark-nova.json](./338156-ark-nova.json) |
+| Ark Odyssey | 278179 | [278179-ark-odyssey.json](./278179-ark-odyssey.json) |
 | Ark Odyssey | 319366 | [319366-ark-odyssey.json](./319366-ark-odyssey.json) |
 | Ark of Artemis | 148564 | [148564-ark-of-artemis.json](./148564-ark-of-artemis.json) |
 | Ark of Charon | 290353 | [290353-ark-of-charon.json](./290353-ark-of-charon.json) |
@@ -17157,6 +17161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astoria: The Holders of Power Saga | 51427 | [51427-astoria-the-holders-of-power-saga.json](./51427-astoria-the-holders-of-power-saga.json) |
 | Astortion | 201520 | [201520-astortion.json](./201520-astortion.json) |
 | Astra | 148829 | [148829-astra.json](./148829-astra.json) |
+| Astra | 278180 | [278180-astra.json](./278180-astra.json) |
 | Astra | 300055 | [300055-astra.json](./300055-astra.json) |
 | Astra and The New Constellation | 240119 | [240119-astra-and-the-new-constellation.json](./240119-astra-and-the-new-constellation.json) |
 | Astra Bestiary | 365968 | [365968-astra-bestiary.json](./365968-astra-bestiary.json) |
