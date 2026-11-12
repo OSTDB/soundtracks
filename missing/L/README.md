@@ -5518,6 +5518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilly Monster | 195690 | [195690-lilly-monster.json](./195690-lilly-monster.json) |
 | Lilly's | 209184 | [209184-lillys.json](./209184-lillys.json) |
 | Lilly's Flower Shop | 238552 | [238552-lillys-flower-shop.json](./238552-lillys-flower-shop.json) |
+| Lilly's Potion Shop | 276991 | [276991-lillys-potion-shop.json](./276991-lillys-potion-shop.json) |
 | Lilly's Rescue | 164908 | [164908-lillys-rescue.json](./164908-lillys-rescue.json) |
 | Lilly's Saga: The Stones of Evergreen | 360131 | [360131-lillys-saga-the-stones-of-evergreen.json](./360131-lillys-saga-the-stones-of-evergreen.json) |
 | Lillyann | 186186 | [186186-lillyann.json](./186186-lillyann.json) |
