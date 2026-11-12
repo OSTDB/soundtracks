@@ -293,6 +293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
 | Labratory | 379797 | [379797-labratory.json](./379797-labratory.json) |
 | LabRpgUp! | 102990 | [102990-labrpgup.json](./102990-labrpgup.json) |
+| Labrys | 249979 | [249979-labrys.json](./249979-labrys.json) |
 | Labsylle | 381515 | [381515-labsylle.json](./381515-labsylle.json) |
 | LabTrainingVR: Biosafety Cabinet Edition | 163711 | [163711-labtrainingvr-biosafety-cabinet-edition.json](./163711-labtrainingvr-biosafety-cabinet-edition.json) |
 | LabTrainingVR: Personal Protective - Equipment Edition | 174091 | [174091-labtrainingvr-personal-protective-equipment-edition.json](./174091-labtrainingvr-personal-protective-equipment-edition.json) |
@@ -1295,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Breath | 373619 | [373619-last-breath.json](./373619-last-breath.json) |
 | Last Breath | 413756 | [413756-last-breath.json](./413756-last-breath.json) |
 | Last Breath | 415436 | [415436-last-breath.json](./415436-last-breath.json) |
+| Last Broadcast | 249428 | [249428-last-broadcast.json](./249428-last-broadcast.json) |
 | Last Bronx | 39451 | [39451-last-bronx.json](./39451-last-bronx.json) |
 | Last Bullet | 405595 | [405595-last-bullet.json](./405595-last-bullet.json) |
 | Last Bullet | 94837 | [94837-last-bullet.json](./94837-last-bullet.json) |
@@ -9539,6 +9541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love n War: Warlord by Chance | 159448 | [159448-love-n-war-warlord-by-chance.json](./159448-love-n-war-warlord-by-chance.json) |
 | Love n War: Warlord by Chance II | 220431 | [220431-love-n-war-warlord-by-chance-ii.json](./220431-love-n-war-warlord-by-chance-ii.json) |
 | Love Never Dies: Ikemen of the Marsh | 268666 | [268666-love-never-dies-ikemen-of-the-marsh.json](./268666-love-never-dies-ikemen-of-the-marsh.json) |
+| Love Next Door | 249430 | [249430-love-next-door.json](./249430-love-next-door.json) |
 | Love Nikki: Dress Up Queen | 56001 | [56001-love-nikki-dress-up-queen.json](./56001-love-nikki-dress-up-queen.json) |
 | Love Note | 97992 | [97992-love-note.json](./97992-love-note.json) |
 | Love Note 2 | 108924 | [108924-love-note-2.json](./108924-love-note-2.json) |
@@ -10295,6 +10298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luigi Floating on an Egg Over the Sea | 307668 | [307668-luigi-floating-on-an-egg-over-the-sea.json](./307668-luigi-floating-on-an-egg-over-the-sea.json) |
 | Luigi in Sonic the Hedgehog | 198518 | [198518-luigi-in-sonic-the-hedgehog.json](./198518-luigi-in-sonic-the-hedgehog.json) |
 | Luigi Kaizo King | 218067 | [218067-luigi-kaizo-king.json](./218067-luigi-kaizo-king.json) |
+| Luigi Land: The Bootleg Invasion | 250070 | [250070-luigi-land-the-bootleg-invasion.json](./250070-luigi-land-the-bootleg-invasion.json) |
 | Luigi MasterMind | 350755 | [350755-luigi-mastermind.json](./350755-luigi-mastermind.json) |
 | Luigi Puzzle | 341142 | [341142-luigi-puzzle.json](./341142-luigi-puzzle.json) |
 | Luigi Quest | 318025 | [318025-luigi-quest.json](./318025-luigi-quest.json) |
