@@ -4081,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pebble Universe | 65356 | [65356-pebble-universe.json](./65356-pebble-universe.json) |
 | Pebble Witch | 151022 | [151022-pebble-witch.json](./151022-pebble-witch.json) |
 | Pebble's Bakery | 180714 | [180714-pebbles-bakery.json](./180714-pebbles-bakery.json) |
+| PebbleDash | 252448 | [252448-pebbledash.json](./252448-pebbledash.json) |
 | Pebbles | 419869 | [419869-pebbles.json](./419869-pebbles.json) |
 | Pebbles | 420199 | [420199-pebbles.json](./420199-pebbles.json) |
 | Pebbles Quest | 324337 | [324337-pebbles-quest.json](./324337-pebbles-quest.json) |
@@ -12439,6 +12440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Team Rocket Blast Off | 61001 | [61001-pokemon-team-rocket-blast-off.json](./61001-pokemon-team-rocket-blast-off.json) |
 | Pokémon Team Turbo | 64034 | [64034-pokemon-team-turbo.json](./64034-pokemon-team-turbo.json) |
 | Pokémon Tectonic | 251716 | [251716-pokemon-tectonic.json](./251716-pokemon-tectonic.json) |
+| Pokémon Tectonic | 252431 | [252431-pokemon-tectonic.json](./252431-pokemon-tectonic.json) |
 | Pokémon Tetris | 25027 | [25027-pokemon-tetris.json](./25027-pokemon-tetris.json) |
 | Pokémon The Pit | 331084 | [331084-pokemon-the-pit.json](./331084-pokemon-the-pit.json) |
 | Pokémon The Soul of Hope | 384685 | [384685-pokemon-the-soul-of-hope.json](./384685-pokemon-the-soul-of-hope.json) |
