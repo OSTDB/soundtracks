@@ -2886,6 +2886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bargain Puzzle Grid | 272786 | [272786-bargain-puzzle-grid.json](./272786-bargain-puzzle-grid.json) |
 | Bargain Toader | 230935 | [230935-bargain-toader.json](./230935-bargain-toader.json) |
 | Bargain Wargame | 273668 | [273668-bargain-wargame.json](./273668-bargain-wargame.json) |
+| Bargan's Treasure | 311928 | [311928-bargans-treasure.json](./311928-bargans-treasure.json) |
 | Barge | 380000 | [380000-barge.json](./380000-barge.json) |
 | Barge | 79747 | [79747-barge.json](./79747-barge.json) |
 | Barghest | 177727 | [177727-barghest.json](./177727-barghest.json) |
@@ -9012,6 +9013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bird Mania 3D Christmas | 62258 | [62258-bird-mania-3d-christmas.json](./62258-bird-mania-3d-christmas.json) |
 | Bird Mania Party | 84995 | [84995-bird-mania-party.json](./84995-bird-mania-party.json) |
 | Bird Memory | 112374 | [112374-bird-memory.json](./112374-bird-memory.json) |
+| Bird Mother | 312409 | [312409-bird-mother.json](./312409-bird-mother.json) |
 | Bird Museum | 145484 | [145484-bird-museum.json](./145484-bird-museum.json) |
 | Bird of Light | 33458 | [33458-bird-of-light.json](./33458-bird-of-light.json) |
 | Bird of Paradise | 265728 | [265728-bird-of-paradise.json](./265728-bird-of-paradise.json) |
@@ -9844,6 +9846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Sign | 145592 | [145592-black-sign.json](./145592-black-sign.json) |
 | Black silk girl | 278271 | [278271-black-silk-girl.json](./278271-black-silk-girl.json) |
 | Black Silk Girl | 259125 | [259125-black-silk-girl.json](./259125-black-silk-girl.json) |
+| Black Site | 311925 | [311925-black-site.json](./311925-black-site.json) |
 | Black Skylands: Origins | 133038 | [133038-black-skylands-origins.json](./133038-black-skylands-origins.json) |
 | Black Smith | 290334 | [290334-black-smith.json](./290334-black-smith.json) |
 | Black Smith 3 | 150641 | [150641-black-smith-3.json](./150641-black-smith-3.json) |
