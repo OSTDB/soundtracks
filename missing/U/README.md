@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undefeated | 121220 | [121220-undefeated.json](./121220-undefeated.json) |
 | Undefeated | 36179 | [36179-undefeated.json](./36179-undefeated.json) |
 | Undefeated | 409862 | [409862-undefeated.json](./409862-undefeated.json) |
+| Undefeated: Genesis | 264303 | [264303-undefeated-genesis.json](./264303-undefeated-genesis.json) |
 | Undefined | 111026 | [111026-undefined.json](./111026-undefined.json) |
 | Undefined Game Pack | 346500 | [346500-undefined-game-pack.json](./346500-undefined-game-pack.json) |
 | Undeliverable | 289688 | [289688-undeliverable.json](./289688-undeliverable.json) |
@@ -2494,6 +2495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | uniTower | 121693 | [121693-unitower.json](./121693-unitower.json) |
 | Unitrax | 36681 | [36681-unitrax.json](./36681-unitrax.json) |
 | Unitres Dreams | 177154 | [177154-unitres-dreams.json](./177154-unitres-dreams.json) |
+| Unity | 264375 | [264375-unity.json](./264375-unity.json) |
 | Unity Chan and Cube World!! | 149802 | [149802-unity-chan-and-cube-world.json](./149802-unity-chan-and-cube-world.json) |
 | Unity Heroes | 297635 | [297635-unity-heroes.json](./297635-unity-heroes.json) |
 | Unity Invaders | 173206 | [173206-unity-invaders.json](./173206-unity-invaders.json) |
