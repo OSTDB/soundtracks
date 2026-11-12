@@ -14293,6 +14293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postman Pat: Special Delivery Service | 67618 | [67618-postman-pat-special-delivery-service.json](./67618-postman-pat-special-delivery-service.json) |
 | Postman Pat's Trail Game | 353922 | [353922-postman-pats-trail-game.json](./353922-postman-pats-trail-game.json) |
 | Postman Pot | 60755 | [60755-postman-pot.json](./60755-postman-pot.json) |
+| Postman Runner | 251260 | [251260-postman-runner.json](./251260-postman-runner.json) |
 | Postman Simon | 179354 | [179354-postman-simon.json](./179354-postman-simon.json) |
 | Postmaster Legacy | 148817 | [148817-postmaster-legacy.json](./148817-postmaster-legacy.json) |
 | Postmortem Hero | 184111 | [184111-postmortem-hero.json](./184111-postmortem-hero.json) |
