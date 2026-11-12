@@ -2787,6 +2787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer Simulator | 253956 | [253956-farmer-simulator.json](./253956-farmer-simulator.json) |
 | Farmer Simulator 17 : New Harvest | 96557 | [96557-farmer-simulator-17-new-harvest.json](./96557-farmer-simulator-17-new-harvest.json) |
 | Farmer Simulator Evolution | 288161 | [288161-farmer-simulator-evolution.json](./288161-farmer-simulator-evolution.json) |
+| Farmer Simulator Evolution: Farming Tractor | 291672 | [291672-farmer-simulator-evolution-farming-tractor.json](./291672-farmer-simulator-evolution-farming-tractor.json) |
 | Farmer Supreme | 140814 | [140814-farmer-supreme.json](./140814-farmer-supreme.json) |
 | Farmer Survivors | 270516 | [270516-farmer-survivors.json](./270516-farmer-survivors.json) |
 | Farmer Time: A Magical Farming Adventure | 164939 | [164939-farmer-time-a-magical-farming-adventure.json](./164939-farmer-time-a-magical-farming-adventure.json) |
@@ -3442,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate: Undiscovered Realms | 8867 | [8867-fate-undiscovered-realms.json](./8867-fate-undiscovered-realms.json) |
 | Fate's Masquerade | 334310 | [334310-fates-masquerade.json](./334310-fates-masquerade.json) |
 | Fate's Reflection Tthe Case of Detective Kotomu | 348793 | [348793-fates-reflection-tthe-case-of-detective-kotomu.json](./348793-fates-reflection-tthe-case-of-detective-kotomu.json) |
+| Fate's Theater | 292214 | [292214-fates-theater.json](./292214-fates-theater.json) |
 | Fate's Ultimatum for Destiny | 364854 | [364854-fates-ultimatum-for-destiny.json](./364854-fates-ultimatum-for-destiny.json) |
 | Fate/Empire of Dirt | 232783 | [232783-fate-empire-of-dirt.json](./232783-fate-empire-of-dirt.json) |
 | Fate/Empire of Dirt: Made in Heaven | 382874 | [382874-fate-empire-of-dirt-made-in-heaven.json](./382874-fate-empire-of-dirt-made-in-heaven.json) |
@@ -7324,6 +7326,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit Music | 308124 | [308124-fit-music.json](./308124-fit-music.json) |
 | Fit Music for Wii U | 61696 | [61696-fit-music-for-wii-u.json](./61696-fit-music-for-wii-u.json) |
 | Fit My Cat | 284930 | [284930-fit-my-cat.json](./284930-fit-my-cat.json) |
+| Fit My Cat: Cat's Puzzle Pack 1 | 291664 | [291664-fit-my-cat-cats-puzzle-pack-1.json](./291664-fit-my-cat-cats-puzzle-pack-1.json) |
+| Fit My Cat: Cat's Puzzle Pack 2 | 291665 | [291665-fit-my-cat-cats-puzzle-pack-2.json](./291665-fit-my-cat-cats-puzzle-pack-2.json) |
+| Fit My Cat: Cat's Puzzle Pack 3 | 291666 | [291666-fit-my-cat-cats-puzzle-pack-3.json](./291666-fit-my-cat-cats-puzzle-pack-3.json) |
 | Fit My Cat: New Floor Pack | 313212 | [313212-fit-my-cat-new-floor-pack.json](./313212-fit-my-cat-new-floor-pack.json) |
 | Fit My Dog | 309049 | [309049-fit-my-dog.json](./309049-fit-my-dog.json) |
 | Fit My Dog: Dog's Puzzle Pack 1 | 316230 | [316230-fit-my-dog-dogs-puzzle-pack-1.json](./316230-fit-my-dog-dogs-puzzle-pack-1.json) |
@@ -8417,6 +8422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flights of Fancy | 176954 | [176954-flights-of-fancy.json](./176954-flights-of-fancy.json) |
 | FlightSim I | 69416 | [69416-flightsim-i.json](./69416-flightsim-i.json) |
 | Flighty Chicken | 242107 | [242107-flighty-chicken.json](./242107-flighty-chicken.json) |
+| Flikk | 292172 | [292172-flikk.json](./292172-flikk.json) |
 | Flikken Game: De Achtervolging | 86032 | [86032-flikken-game-de-achtervolging.json](./86032-flikken-game-de-achtervolging.json) |
 | Flimbo's Quest | 12103 | [12103-flimbos-quest.json](./12103-flimbos-quest.json) |
 | Flinch | 82338 | [82338-flinch.json](./82338-flinch.json) |
@@ -10423,6 +10429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Journeys | 295311 | [295311-forest-journeys.json](./295311-forest-journeys.json) |
 | Forest Jump | 270171 | [270171-forest-jump.json](./270171-forest-jump.json) |
 | Forest Keeper | 290832 | [290832-forest-keeper.json](./290832-forest-keeper.json) |
+| Forest Keeper | 292207 | [292207-forest-keeper.json](./292207-forest-keeper.json) |
 | Forest Keeper 2 | 290129 | [290129-forest-keeper-2.json](./290129-forest-keeper-2.json) |
 | Forest Keeper Lookout | 383950 | [383950-forest-keeper-lookout.json](./383950-forest-keeper-lookout.json) |
 | Forest Keepers | 183299 | [183299-forest-keepers.json](./183299-forest-keepers.json) |
@@ -11363,6 +11370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortuna Deluxe | 291896 | [291896-fortuna-deluxe.json](./291896-fortuna-deluxe.json) |
 | Fortuna Magus | 68989 | [68989-fortuna-magus.json](./68989-fortuna-magus.json) |
 | Fortunas Rad | 144474 | [144474-fortunas-rad.json](./144474-fortunas-rad.json) |
+| Fortunate Duo: Kyouun Youhei to Houseki no Hime-kishi | 291661 | [291661-fortunate-duo-kyouun-youhei-to-houseki-no-hime-kishi.json](./291661-fortunate-duo-kyouun-youhei-to-houseki-no-hime-kishi.json) |
 | Fortunato | 381185 | [381185-fortunato.json](./381185-fortunato.json) |
 | Fortune | 357312 | [357312-fortune.json](./357312-fortune.json) |
 | Fortune & Famine | 190408 | [190408-fortune-and-famine.json](./190408-fortune-and-famine.json) |
