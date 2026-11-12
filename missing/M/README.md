@@ -17698,7 +17698,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monument Valley II: The Lost Forest | 255779 | [255779-monument-valley-ii-the-lost-forest.json](./255779-monument-valley-ii-the-lost-forest.json) |
 | Monument Valley III | 121277 | [121277-monument-valley-iii.json](./121277-monument-valley-iii.json) |
 | Monument Valley III: The Garden of Life | 341807 | [341807-monument-valley-iii-the-garden-of-life.json](./341807-monument-valley-iii-the-garden-of-life.json) |
-| Monument Valley: Forgotten Shores | 175965 | [175965-monument-valley-forgotten-shores.json](./175965-monument-valley-forgotten-shores.json) |
 | Monument Valley: Ida's Dream | 186128 | [186128-monument-valley-idas-dream.json](./186128-monument-valley-idas-dream.json) |
 | Monument Valley: Panoramic Edition | 203331 | [203331-monument-valley-panoramic-edition.json](./203331-monument-valley-panoramic-edition.json) |
 | Monument Valley: The Trilogy | 364163 | [364163-monument-valley-the-trilogy.json](./364163-monument-valley-the-trilogy.json) |
