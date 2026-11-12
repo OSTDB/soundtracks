@@ -5253,6 +5253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reliefs The Time of the Lemures | 95210 | [95210-reliefs-the-time-of-the-lemures.json](./95210-reliefs-the-time-of-the-lemures.json) |
 | Relieve | 220485 | [220485-relieve.json](./220485-relieve.json) |
 | Relieve | 277757 | [277757-relieve.json](./277757-relieve.json) |
+| Relight The Dark | 265821 | [265821-relight-the-dark.json](./265821-relight-the-dark.json) |
 | Religion Inc. | 159425 | [159425-religion-inc.json](./159425-religion-inc.json) |
 | Religious Idle | 101695 | [101695-religious-idle.json](./101695-religious-idle.json) |
 | Relik | 74151 | [74151-relik.json](./74151-relik.json) |
@@ -8409,6 +8410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise from Disaster | 245212 | [245212-rise-from-disaster.json](./245212-rise-from-disaster.json) |
 | Rise From the Ashes: A Fantasy World Simulator | 250768 | [250768-rise-from-the-ashes-a-fantasy-world-simulator.json](./250768-rise-from-the-ashes-a-fantasy-world-simulator.json) |
 | Rise High | 81240 | [81240-rise-high.json](./81240-rise-high.json) |
+| Rise of a Hero | 265982 | [265982-rise-of-a-hero.json](./265982-rise-of-a-hero.json) |
 | Rise of a Legend | 319094 | [319094-rise-of-a-legend.json](./319094-rise-of-a-legend.json) |
 | Rise of Ages | 111564 | [111564-rise-of-ages.json](./111564-rise-of-ages.json) |
 | Rise of Agon | 57000 | [57000-rise-of-agon.json](./57000-rise-of-agon.json) |
@@ -12950,6 +12952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruindrift | 371883 | [371883-ruindrift.json](./371883-ruindrift.json) |
 | Ruine | 118055 | [118055-ruine.json](./118055-ruine.json) |
 | Ruined | 287912 | [287912-ruined.json](./287912-ruined.json) |
+| Ruined District | 265989 | [265989-ruined-district.json](./265989-ruined-district.json) |
 | Ruined King: A League of Legends Story | 127358 | [127358-ruined-king-a-league-of-legends-story.json](./127358-ruined-king-a-league-of-legends-story.json) |
 | Ruined King: A League of Legends Story - Deluxe Edition | 186888 | [186888-ruined-king-a-league-of-legends-story-deluxe-edition.json](./186888-ruined-king-a-league-of-legends-story-deluxe-edition.json) |
 | Ruined Kingdom | 235839 | [235839-ruined-kingdom.json](./235839-ruined-kingdom.json) |
@@ -13815,6 +13818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rushdown Revolt: Nemesis Weishan | 311775 | [311775-rushdown-revolt-nemesis-weishan.json](./311775-rushdown-revolt-nemesis-weishan.json) |
 | Rushdown Revolt: Nemesis Zhurong | 311768 | [311768-rushdown-revolt-nemesis-zhurong.json](./311768-rushdown-revolt-nemesis-zhurong.json) |
 | Rushdown Revolt: Neon Horizons Raymer | 311770 | [311770-rushdown-revolt-neon-horizons-raymer.json](./311770-rushdown-revolt-neon-horizons-raymer.json) |
+| Rushdown Rivals | 265905 | [265905-rushdown-rivals.json](./265905-rushdown-rivals.json) |
 | Rushdown Rivals Reloaded | 271932 | [271932-rushdown-rivals-reloaded.json](./271932-rushdown-rivals-reloaded.json) |
 | RushGirl Luca | 405231 | [405231-rushgirl-luca.json](./405231-rushgirl-luca.json) |
 | Rushing Alice | 200116 | [200116-rushing-alice.json](./200116-rushing-alice.json) |
