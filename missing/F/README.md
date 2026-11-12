@@ -1984,6 +1984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy 6 Pack | 86035 | [86035-fantasy-6-pack.json](./86035-fantasy-6-pack.json) |
 | Fantasy Adventure | 156145 | [156145-fantasy-adventure.json](./156145-fantasy-adventure.json) |
 | Fantasy All Stars | 194678 | [194678-fantasy-all-stars.json](./194678-fantasy-all-stars.json) |
+| Fantasy Amusement Park | 257700 | [257700-fantasy-amusement-park.json](./257700-fantasy-amusement-park.json) |
 | Fantasy Amusement Park II | 385971 | [385971-fantasy-amusement-park-ii.json](./385971-fantasy-amusement-park-ii.json) |
 | Fantasy and Girls | 367166 | [367166-fantasy-and-girls.json](./367166-fantasy-and-girls.json) |
 | Fantasy Aquarium | 319878 | [319878-fantasy-aquarium.json](./319878-fantasy-aquarium.json) |
@@ -7568,6 +7569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Rewritten | 239962 | [239962-five-nights-at-freddys-rewritten.json](./239962-five-nights-at-freddys-rewritten.json) |
 | Five Nights at Freddy's: Rewritten - 87' | 239963 | [239963-five-nights-at-freddys-rewritten-87.json](./239963-five-nights-at-freddys-rewritten-87.json) |
 | Five Nights at Freddy's: Security Breach | 300353 | [300353-five-nights-at-freddys-security-breach.json](./300353-five-nights-at-freddys-security-breach.json) |
+| Five Nights at Freddy's: Security Breach - Blast to the Past! | 257596 | [257596-five-nights-at-freddys-security-breach-blast-to-the-past.json](./257596-five-nights-at-freddys-security-breach-blast-to-the-past.json) |
 | Five Nights at Freddy's: Security Breach - Chaos Mod | 263898 | [263898-five-nights-at-freddys-security-breach-chaos-mod.json](./263898-five-nights-at-freddys-security-breach-chaos-mod.json) |
 | Five Nights at Freddy's: Security Breach - Collector's Edition | 198389 | [198389-five-nights-at-freddys-security-breach-collectors-edition.json](./198389-five-nights-at-freddys-security-breach-collectors-edition.json) |
 | Five Nights at Freddy's: Security Breach - Ruin | 208303 | [208303-five-nights-at-freddys-security-breach-ruin.json](./208303-five-nights-at-freddys-security-breach-ruin.json) |
@@ -9212,6 +9214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluxed | 301713 | [301713-fluxed.json](./301713-fluxed.json) |
 | Fluxgates | 417364 | [417364-fluxgates.json](./417364-fluxgates.json) |
 | Fluxion | 243568 | [243568-fluxion.json](./243568-fluxion.json) |
+| Fluxis | 257617 | [257617-fluxis.json](./257617-fluxis.json) |
 | Fluxly | 106484 | [106484-fluxly.json](./106484-fluxly.json) |
 | Fluxteria | 135587 | [135587-fluxteria.json](./135587-fluxteria.json) |
 | Fluxx | 22185 | [22185-fluxx.json](./22185-fluxx.json) |
@@ -9596,6 +9599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FolcDark: Part I | 265119 | [265119-folcdark-part-i.json](./265119-folcdark-part-i.json) |
 | FolcDark: Part II | 274025 | [274025-folcdark-part-ii.json](./274025-folcdark-part-ii.json) |
 | Folclore | 293547 | [293547-folclore.json](./293547-folclore.json) |
+| Folcroft Monastery | 257699 | [257699-folcroft-monastery.json](./257699-folcroft-monastery.json) |
 | Fold | 115403 | [115403-fold.json](./115403-fold.json) |
 | Fold | 263926 | [263926-fold.json](./263926-fold.json) |
 | Fold & Cut | 255744 | [255744-fold-and-cut.json](./255744-fold-and-cut.json) |
