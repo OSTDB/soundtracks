@@ -1980,6 +1980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Underground 2 | 242997 | [242997-need-for-speed-underground-2.json](./242997-need-for-speed-underground-2.json) |
 | Need for Speed: Underground Rivals | 22509 | [22509-need-for-speed-underground-rivals.json](./22509-need-for-speed-underground-rivals.json) |
 | Need for Speed: V-Rally | 72073 | [72073-need-for-speed-v-rally.json](./72073-need-for-speed-v-rally.json) |
+| Need for Spirit Drink & Drive Simulator | 272420 | [272420-need-for-spirit-drink-and-drive-simulator.json](./272420-need-for-spirit-drink-and-drive-simulator.json) |
 | Need for Spirit: Drink & Drive Simulator | 107819 | [107819-need-for-spirit-drink-and-drive-simulator.json](./107819-need-for-spirit-drink-and-drive-simulator.json) |
 | Need for Spirit: Drink & Drive Simulator - Off-Road Edition | 115221 | [115221-need-for-spirit-drink-and-drive-simulator-off-road-edition.json](./115221-need-for-spirit-drink-and-drive-simulator-off-road-edition.json) |
 | Need for Synthol | 99679 | [99679-need-for-synthol.json](./99679-need-for-synthol.json) |
@@ -7923,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Arms Race | 127600 | [127600-nuclear-arms-race.json](./127600-nuclear-arms-race.json) |
 | Nuclear Assault | 188846 | [188846-nuclear-assault.json](./188846-nuclear-assault.json) |
 | Nuclear Bike | 273695 | [273695-nuclear-bike.json](./273695-nuclear-bike.json) |
+| Nuclear Bowls | 272502 | [272502-nuclear-bowls.json](./272502-nuclear-bowls.json) |
 | Nuclear Bunker | 273540 | [273540-nuclear-bunker.json](./273540-nuclear-bunker.json) |
 | Nuclear Cheetah | 265958 | [265958-nuclear-cheetah.json](./265958-nuclear-cheetah.json) |
 | Nuclear Chunks | 262165 | [262165-nuclear-chunks.json](./262165-nuclear-chunks.json) |
