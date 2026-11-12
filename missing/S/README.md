@@ -10424,6 +10424,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek: Fairy Tale Freakdown | 18576 | [18576-shrek-fairy-tale-freakdown.json](./18576-shrek-fairy-tale-freakdown.json) |
 | Shrek: Fire Donkey | 229066 | [229066-shrek-fire-donkey.json](./229066-shrek-fire-donkey.json) |
 | Shrek: Hassle at the Castle | 49241 | [49241-shrek-hassle-at-the-castle.json](./49241-shrek-hassle-at-the-castle.json) |
+| Shrek: Multi-Game Mayhem - Featuring Princess Fiona | 245503 | [245503-shrek-multi-game-mayhem-featuring-princess-fiona.json](./245503-shrek-multi-game-mayhem-featuring-princess-fiona.json) |
+| Shrek: Multi-Game Mayhem - Featuring Shrek | 245502 | [245502-shrek-multi-game-mayhem-featuring-shrek.json](./245502-shrek-multi-game-mayhem-featuring-shrek.json) |
 | Shrek: Ogre Resistance Renegade | 352484 | [352484-shrek-ogre-resistance-renegade.json](./352484-shrek-ogre-resistance-renegade.json) |
 | Shrek: Ogres and Dronkeys | 47860 | [47860-shrek-ogres-and-dronkeys.json](./47860-shrek-ogres-and-dronkeys.json) |
 | Shrek: Reekin' Havoc | 49222 | [49222-shrek-reekin-havoc.json](./49222-shrek-reekin-havoc.json) |
@@ -33127,6 +33129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ball Mania | 237788 | [237788-super-ball-mania.json](./237788-super-ball-mania.json) |
 | Super Balloon Rush | 232343 | [232343-super-balloon-rush.json](./232343-super-balloon-rush.json) |
 | Super Barista | 128408 | [128408-super-barista.json](./128408-super-barista.json) |
+| Super Baseball | 245582 | [245582-super-baseball.json](./245582-super-baseball.json) |
 | Super Baseball | 40676 | [40676-super-baseball.json](./40676-super-baseball.json) |
 | Super Baseball | 81283 | [81283-super-baseball.json](./81283-super-baseball.json) |
 | Super Baseball 2020 | 186665 | [186665-super-baseball-2020.json](./186665-super-baseball-2020.json) |
@@ -33408,6 +33411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Club Soccer | 110018 | [110018-super-club-soccer.json](./110018-super-club-soccer.json) |
 | Super Club Tennis | 147857 | [147857-super-club-tennis.json](./147857-super-club-tennis.json) |
 | Super Co-op Adventure | 117900 | [117900-super-co-op-adventure.json](./117900-super-co-op-adventure.json) |
+| Super Cobra | 245583 | [245583-super-cobra.json](./245583-super-cobra.json) |
 | Super Cobra | 282073 | [282073-super-cobra.json](./282073-super-cobra.json) |
 | Super Cobra | 345234 | [345234-super-cobra.json](./345234-super-cobra.json) |
 | Super Cobra | 345235 | [345235-super-cobra.json](./345235-super-cobra.json) |
@@ -33782,6 +33786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Galdelic Hour | 43439 | [43439-super-galdelic-hour.json](./43439-super-galdelic-hour.json) |
 | Super Gals! Kotobuki Ran Special: Ikemen Get You Gals Party | 358619 | [358619-super-gals-kotobuki-ran-special-ikemen-get-you-gals-party.json](./358619-super-gals-kotobuki-ran-special-ikemen-get-you-gals-party.json) |
 | Super Game Collection | 56223 | [56223-super-game-collection.json](./56223-super-game-collection.json) |
+| Super Game Pod! | 245584 | [245584-super-game-pod.json](./245584-super-game-pod.json) |
 | Super Game System Basic | 76193 | [76193-super-game-system-basic.json](./76193-super-game-system-basic.json) |
 | Super gamebear with its three girlfriends | 112997 | [112997-super-gamebear-with-its-three-girlfriends.json](./112997-super-gamebear-with-its-three-girlfriends.json) |
 | Super Gattai | 261940 | [261940-super-gattai.json](./261940-super-gattai.json) |
@@ -35930,6 +35935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Soakdown | 245731 | [245731-super-soakdown.json](./245731-super-soakdown.json) |
 | Super Soccer | 172784 | [172784-super-soccer.json](./172784-super-soccer.json) |
 | Super Soccer | 235103 | [235103-super-soccer.json](./235103-super-soccer.json) |
+| Super Soccer | 245585 | [245585-super-soccer.json](./245585-super-soccer.json) |
 | Super Soccer | 292605 | [292605-super-soccer.json](./292605-super-soccer.json) |
 | Super Soccer | 346772 | [346772-super-soccer.json](./346772-super-soccer.json) |
 | Super Soccer | 77457 | [77457-super-soccer.json](./77457-super-soccer.json) |
@@ -36026,6 +36032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Star Battle Royale | 382973 | [382973-super-star-battle-royale.json](./382973-super-star-battle-royale.json) |
 | Super Star Blast | 117325 | [117325-super-star-blast.json](./117325-super-star-blast.json) |
 | Super Star Car | 146714 | [146714-super-star-car.json](./146714-super-star-car.json) |
+| Super Star Football | 245586 | [245586-super-star-football.json](./245586-super-star-football.json) |
 | Super Star Force: Jikuureki no Himitsu | 48394 | [48394-super-star-force-jikuureki-no-himitsu.json](./48394-super-star-force-jikuureki-no-himitsu.json) |
 | Super Star Panda | 80950 | [80950-super-star-panda.json](./80950-super-star-panda.json) |
 | Super Star Path | 19981 | [19981-super-star-path.json](./19981-super-star-path.json) |
@@ -36335,6 +36342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super-Bikes: Riding Challenge | 43310 | [43310-super-bikes-riding-challenge.json](./43310-super-bikes-riding-challenge.json) |
 | Super-Ferrari | 40592 | [40592-super-ferrari.json](./40592-super-ferrari.json) |
 | Super-Patriota Simulator | 238998 | [238998-super-patriota-simulator.json](./238998-super-patriota-simulator.json) |
+| Super-Sonic Electronic Master Mind | 245587 | [245587-super-sonic-electronic-master-mind.json](./245587-super-sonic-electronic-master-mind.json) |
 | Super-Space | 311002 | [311002-super-space.json](./311002-super-space.json) |
 | Super-Spatial | 325752 | [325752-super-spatial.json](./325752-super-spatial.json) |
 | Super-VGA Harrier | 70114 | [70114-super-vga-harrier.json](./70114-super-vga-harrier.json) |
