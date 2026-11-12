@@ -8135,6 +8135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Blast | 50956 | [50956-pirate-blast.json](./50956-pirate-blast.json) |
 | Pirate Bloopers | 262234 | [262234-pirate-bloopers.json](./262234-pirate-bloopers.json) |
 | Pirate Boom | 176298 | [176298-pirate-boom.json](./176298-pirate-boom.json) |
+| Pirate Booty and the Bukkake Buccaneer | 264290 | [264290-pirate-booty-and-the-bukkake-buccaneer.json](./264290-pirate-booty-and-the-bukkake-buccaneer.json) |
 | Pirate Cannons Ahoy! | 115675 | [115675-pirate-cannons-ahoy.json](./115675-pirate-cannons-ahoy.json) |
 | Pirate Chest Chess | 365875 | [365875-pirate-chest-chess.json](./365875-pirate-chest-chess.json) |
 | Pirate Chips | 391846 | [391846-pirate-chips.json](./391846-pirate-chips.json) |
@@ -10104,6 +10105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlanetForge Protocol | 404360 | [404360-planetforge-protocol.json](./404360-planetforge-protocol.json) |
 | PlanetFriend | 133879 | [133879-planetfriend.json](./133879-planetfriend.json) |
 | Planetgore | 255139 | [255139-planetgore.json](./255139-planetgore.json) |
+| Planeticus | 264264 | [264264-planeticus.json](./264264-planeticus.json) |
 | Planetiny | 351168 | [351168-planetiny.json](./351168-planetiny.json) |
 | Planetka | 292972 | [292972-planetka.json](./292972-planetka.json) |
 | Planetkillerz: Death of a world in five acts. | 188429 | [188429-planetkillerz-death-of-a-world-in-five-acts.json](./188429-planetkillerz-death-of-a-world-in-five-acts.json) |
@@ -16870,6 +16872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Blue Book: Hidden Mysteries | 157917 | [157917-project-blue-book-hidden-mysteries.json](./157917-project-blue-book-hidden-mysteries.json) |
 | Project Blur | 372086 | [372086-project-blur.json](./372086-project-blur.json) |
 | Project Bob | 293013 | [293013-project-bob.json](./293013-project-bob.json) |
+| Project Bonfire | 264299 | [264299-project-bonfire.json](./264299-project-bonfire.json) |
 | Project Bonsai | 247920 | [247920-project-bonsai.json](./247920-project-bonsai.json) |
 | Project Boost | 151357 | [151357-project-boost.json](./151357-project-boost.json) |
 | Project Bore | 185784 | [185784-project-bore.json](./185784-project-bore.json) |
