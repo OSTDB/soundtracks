@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalzoon | 226450 | [226450-kalzoon.json](./226450-kalzoon.json) |
 | Kalzor: 2000 | 38773 | [38773-kalzor-2000.json](./38773-kalzor-2000.json) |
 | KaM Remake | 190698 | [190698-kam-remake.json](./190698-kam-remake.json) |
+| Kam Thunder | 249513 | [249513-kam-thunder.json](./249513-kam-thunder.json) |
 | Kama Bullet Heritage | 51963 | [51963-kama-bullet-heritage.json](./51963-kama-bullet-heritage.json) |
 | Kama Bullet Heritage 2 | 96891 | [96891-kama-bullet-heritage-2.json](./96891-kama-bullet-heritage-2.json) |
 | Kama Sutra | 139025 | [139025-kama-sutra.json](./139025-kama-sutra.json) |
@@ -2827,6 +2828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Bean Unleashed | 262652 | [262652-killer-bean-unleashed.json](./262652-killer-bean-unleashed.json) |
 | Killer Bear | 124551 | [124551-killer-bear.json](./124551-killer-bear.json) |
 | Killer Bees | 406404 | [406404-killer-bees.json](./406404-killer-bees.json) |
+| Killer Bunny | 249427 | [249427-killer-bunny.json](./249427-killer-bunny.json) |
 | Killer Chambers | 116824 | [116824-killer-chambers.json](./116824-killer-chambers.json) |
 | Killer Chat: Extended Edition | 318670 | [318670-killer-chat-extended-edition.json](./318670-killer-chat-extended-edition.json) |
 | Killer Chat!: Original Edition | 378575 | [378575-killer-chat-original-edition.json](./378575-killer-chat-original-edition.json) |
@@ -3049,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5712,6 +5715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KongQuest | 216172 | [216172-kongquest.json](./216172-kongquest.json) |
 | Kongregate Chat | 262050 | [262050-kongregate-chat.json](./262050-kongregate-chat.json) |
 | Kongregate Racing | 338926 | [338926-kongregate-racing.json](./338926-kongregate-racing.json) |
+| Konike | 249974 | [249974-konike.json](./249974-konike.json) |
 | Konjiki no Gash Bell!! Golden Memories | 261218 | [261218-konjiki-no-gash-bell-golden-memories.json](./261218-konjiki-no-gash-bell-golden-memories.json) |
 | Konjiki no Gash Bell!! Makai no Bookmark | 49679 | [49679-konjiki-no-gash-bell-makai-no-bookmark.json](./49679-konjiki-no-gash-bell-makai-no-bookmark.json) |
 | Konjiki no Gash Bell!! The Card Battle for GBA | 49677 | [49677-konjiki-no-gash-bell-the-card-battle-for-gba.json](./49677-konjiki-no-gash-bell-the-card-battle-for-gba.json) |
@@ -5807,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koongya Draw Party | 251264 | [251264-koongya-draw-party.json](./251264-koongya-draw-party.json) |
 | Kooo to Jump! | 403432 | [403432-kooo-to-jump.json](./403432-kooo-to-jump.json) |
 | Koopa CD | 233599 | [233599-koopa-cd.json](./233599-koopa-cd.json) |
+| Koopa: A Winter's Tale | 250062 | [250062-koopa-a-winters-tale.json](./250062-koopa-a-winters-tale.json) |
 | Koori No Bohyou: Ichiryuuwa, 3-Dome No Junan | 56750 | [56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json](./56750-koori-no-bohyou-ichiryuuwa-3-dome-no-junan.json) |
 | Koori no Haka Ichiyanagi Nagomu, Sandome no Junan | 124635 | [124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json](./124635-koori-no-haka-ichiyanagi-nagomu-sandome-no-junan.json) |
 | Kooring VR Coding Adventure | 158176 | [158176-kooring-vr-coding-adventure.json](./158176-kooring-vr-coding-adventure.json) |
@@ -6663,6 +6668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kupechestvo | 190211 | [190211-kupechestvo.json](./190211-kupechestvo.json) |
 | Kupiec | 373429 | [373429-kupiec.json](./373429-kupiec.json) |
 | Kupimon | 261979 | [261979-kupimon.json](./261979-kupimon.json) |
+| Kuplinov: Nightmares of The Past | 249521 | [249521-kuplinov-nightmares-of-the-past.json](./249521-kuplinov-nightmares-of-the-past.json) |
 | Kupu!! Mamegoma! | 67742 | [67742-kupu-mamegoma.json](./67742-kupu-mamegoma.json) |
 | Kur | 130250 | [130250-kur.json](./130250-kur.json) |
 | Kur Tu Teci, Gailīti Manu? | 307170 | [307170-kur-tu-teci-gailiti-manu.json](./307170-kur-tu-teci-gailiti-manu.json) |
