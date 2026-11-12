@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You | 321681 | [321681-you.json](./321681-you.json) |
 | You | 372568 | [372568-you.json](./372568-you.json) |
 | You (Can)Not Survive | 112713 | [112713-you-can-not-survive.json](./112713-you-can-not-survive.json) |
+| You adorable! Elfin Clay 2 | 301162 | [301162-you-adorable-elfin-clay-2.json](./301162-you-adorable-elfin-clay-2.json) |
 | You All Know! Arm Tank Volley | 390269 | [390269-you-all-know-arm-tank-volley.json](./390269-you-all-know-arm-tank-volley.json) |
 | You Alone Can Defeat Evil | 335795 | [335795-you-alone-can-defeat-evil.json](./335795-you-alone-can-defeat-evil.json) |
 | You And I | 359163 | [359163-you-and-i.json](./359163-you-and-i.json) |
@@ -1657,6 +1658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yowasugiru RPG | 313584 | [313584-yowasugiru-rpg.json](./313584-yowasugiru-rpg.json) |
 | Yowie | 300334 | [300334-yowie.json](./300334-yowie.json) |
 | YoWorld | 120611 | [120611-yoworld.json](./120611-yoworld.json) |
+| YoYa: Dress Up Princess | 301196 | [301196-yoya-dress-up-princess.json](./301196-yoya-dress-up-princess.json) |
 | Yoyaku Tokuten: Pokémon Colosseum Kakuchou Disc | 355815 | [355815-yoyaku-tokuten-pokemon-colosseum-kakuchou-disc.json](./355815-yoyaku-tokuten-pokemon-colosseum-kakuchou-disc.json) |
 | Yoyo | 128468 | [128468-yoyo.json](./128468-yoyo.json) |
 | Yoyo Blade | 419983 | [419983-yoyo-blade.json](./419983-yoyo-blade.json) |
