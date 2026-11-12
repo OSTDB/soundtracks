@@ -4266,7 +4266,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethe: Broken memories | 121966 | [121966-lethe-broken-memories.json](./121966-lethe-broken-memories.json) |
 | Letherfall | 373540 | [373540-letherfall.json](./373540-letherfall.json) |
 | Lethis: Daring Discoverers | 28360 | [28360-lethis-daring-discoverers.json](./28360-lethis-daring-discoverers.json) |
-| Lethis: Path of Progress | 22672 | [22672-lethis-path-of-progress.json](./22672-lethis-path-of-progress.json) |
 | Lethis: Path of Progress II | 116438 | [116438-lethis-path-of-progress-ii.json](./116438-lethis-path-of-progress-ii.json) |
 | Leticia Land | 183464 | [183464-leticia-land.json](./183464-leticia-land.json) |
 | Letifer | 267831 | [267831-letifer.json](./267831-letifer.json) |
