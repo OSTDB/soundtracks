@@ -18,6 +18,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q-Ball: Billiards Master | 43272 | [43272-q-ball-billiards-master.json](./43272-q-ball-billiards-master.json) |
 | Q-Boy | 56721 | [56721-q-boy.json](./56721-q-boy.json) |
 | Q-Cubed | 203047 | [203047-q-cubed.json](./203047-q-cubed.json) |
+| Q-Deck | 271445 | [271445-q-deck.json](./271445-q-deck.json) |
 | Q-j-civilization-s | 302787 | [302787-q-j-civilization-s.json](./302787-q-j-civilization-s.json) |
 | Q-Linq | 290623 | [290623-q-linq.json](./290623-q-linq.json) |
 | Q-Red | 273237 | [273237-q-red.json](./273237-q-red.json) |
