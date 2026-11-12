@@ -7702,6 +7702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Defenders | 25093 | [25093-evil-defenders.json](./25093-evil-defenders.json) |
 | Evil Diary | 265468 | [265468-evil-diary.json](./265468-evil-diary.json) |
 | Evil Doll | 304919 | [304919-evil-doll.json](./304919-evil-doll.json) |
+| Evil Draws Close | 288420 | [288420-evil-draws-close.json](./288420-evil-draws-close.json) |
 | Evil Dreams | 190329 | [190329-evil-dreams.json](./190329-evil-dreams.json) |
 | Evil Dungeon | 285579 | [285579-evil-dungeon.json](./285579-evil-dungeon.json) |
 | Evil Dungeon II | 285580 | [285580-evil-dungeon-ii.json](./285580-evil-dungeon-ii.json) |
