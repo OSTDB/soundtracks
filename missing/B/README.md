@@ -6146,6 +6146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty or the Beast | 165517 | [165517-beauty-or-the-beast.json](./165517-beauty-or-the-beast.json) |
 | Beauty Paradise | 201467 | [201467-beauty-paradise.json](./201467-beauty-paradise.json) |
 | Beauty Rental Shop | 203286 | [203286-beauty-rental-shop.json](./203286-beauty-rental-shop.json) |
+| Beauty Riddle | 309694 | [309694-beauty-riddle.json](./309694-beauty-riddle.json) |
 | Beauty Salon | 367878 | [367878-beauty-salon.json](./367878-beauty-salon.json) |
 | Beauty Showdown: Awakening | 273088 | [273088-beauty-showdown-awakening.json](./273088-beauty-showdown-awakening.json) |
 | Beauty Solitaire | 305640 | [305640-beauty-solitaire.json](./305640-beauty-solitaire.json) |
@@ -13855,6 +13856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk 'N Bash | 379122 | [379122-bonk-n-bash.json](./379122-bonk-n-bash.json) |
 | Bonk 3: Bonk's Big Adventure | 37615 | [37615-bonk-3-bonks-big-adventure.json](./37615-bonk-3-bonks-big-adventure.json) |
 | Bonk It! | 338435 | [338435-bonk-it.json](./338435-bonk-it.json) |
+| Bonk Jam! | 309234 | [309234-bonk-jam.json](./309234-bonk-jam.json) |
 | Bonk the Ball! | 181602 | [181602-bonk-the-ball.json](./181602-bonk-the-ball.json) |
 | Bonk The Goblins! | 325232 | [325232-bonk-the-goblins.json](./325232-bonk-the-goblins.json) |
 | Bonk the Rat | 338436 | [338436-bonk-the-rat.json](./338436-bonk-the-rat.json) |
