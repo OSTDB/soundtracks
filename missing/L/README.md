@@ -2552,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Led It Rain | 32912 | [32912-led-it-rain.json](./32912-led-it-rain.json) |
 | Led It Rain VR | 120373 | [120373-led-it-rain-vr.json](./120373-led-it-rain-vr.json) |
 | LED Storm Rally 2011 | 312321 | [312321-led-storm-rally-2011.json](./312321-led-storm-rally-2011.json) |
+| Led Zeppelin: Rock Band | 250665 | [250665-led-zeppelin-rock-band.json](./250665-led-zeppelin-rock-band.json) |
 | Leder Panzer | 108318 | [108318-leder-panzer.json](./108318-leder-panzer.json) |
 | Lederzwerge Deluxe XXL Version | 84279 | [84279-lederzwerge-deluxe-xxl-version.json](./84279-lederzwerge-deluxe-xxl-version.json) |
 | Ledgeman | 348947 | [348947-ledgeman.json](./348947-ledgeman.json) |
@@ -9807,6 +9808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveR Kiss: Endless Memories | 355544 | [355544-lover-kiss-endless-memories.json](./355544-lover-kiss-endless-memories.json) |
 | Lover Pretend | 193536 | [193536-lover-pretend.json](./193536-lover-pretend.json) |
 | Lover Pretend: Limited Edition | 254366 | [254366-lover-pretend-limited-edition.json](./254366-lover-pretend-limited-edition.json) |
+| Lover Simulator2 | 250675 | [250675-lover-simulator2.json](./250675-lover-simulator2.json) |
 | Lover Survivors | 303638 | [303638-lover-survivors.json](./303638-lover-survivors.json) |
 | Loverboy | 24906 | [24906-loverboy.json](./24906-loverboy.json) |
 | Loveressive | 194598 | [194598-loveressive.json](./194598-loveressive.json) |
@@ -9874,6 +9876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low-Budget Repairs | 316836 | [316836-low-budget-repairs.json](./316836-low-budget-repairs.json) |
 | Low-Fi | 125401 | [125401-low-fi.json](./125401-low-fi.json) |
 | Low-Key: A Dope Game | 160261 | [160261-low-key-a-dope-game.json](./160261-low-key-a-dope-game.json) |
+| Löwenzahn 2: Geschichten aus Natur, Umwelt und Technik | 250589 | [250589-lowenzahn-2-geschichten-aus-natur-umwelt-und-technik.json](./250589-lowenzahn-2-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 3: Geschichten aus Natur, Umwelt und Technik | 374188 | [374188-lowenzahn-3-geschichten-aus-natur-umwelt-und-technik.json](./374188-lowenzahn-3-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 4: Geschichten aus Natur, Umwelt und Technik | 374189 | [374189-lowenzahn-4-geschichten-aus-natur-umwelt-und-technik.json](./374189-lowenzahn-4-geschichten-aus-natur-umwelt-und-technik.json) |
 | Löwenzahn 5: Geschichten aus Natur, Umwelt und Technik | 374190 | [374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json](./374190-lowenzahn-5-geschichten-aus-natur-umwelt-und-technik.json) |
