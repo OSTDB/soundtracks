@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kartoffl | 193045 | [193045-kartoffl.json](./193045-kartoffl.json) |
 | Kartong | 38787 | [38787-kartong.json](./38787-kartong.json) |
 | Kartong - Death by Cardboard! | 77571 | [77571-kartong-death-by-cardboard.json](./77571-kartong-death-by-cardboard.json) |
+| Kartoon Crazy Racing | 246602 | [246602-kartoon-crazy-racing.json](./246602-kartoon-crazy-racing.json) |
 | Kartoon Racing: Singleplayer Multiplayer Racing | 213140 | [213140-kartoon-racing-singleplayer-multiplayer-racing.json](./213140-kartoon-racing-singleplayer-multiplayer-racing.json) |
 | Kartrider Dash | 186466 | [186466-kartrider-dash.json](./186466-kartrider-dash.json) |
 | Kartrider Rush | 186711 | [186711-kartrider-rush.json](./186711-kartrider-rush.json) |
@@ -3051,7 +3052,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -6766,6 +6766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kurukuru Twinkle: Onegai Ohoshisama | 396331 | [396331-kurukuru-twinkle-onegai-ohoshisama.json](./396331-kurukuru-twinkle-onegai-ohoshisama.json) |
 | Kuruma de DS | 302675 | [302675-kuruma-de-ds.json](./302675-kuruma-de-ds.json) |
 | Kurumi Diary | 233476 | [233476-kurumi-diary.json](./233476-kurumi-diary.json) |
+| Kurumi Miracle | 246140 | [246140-kurumi-miracle.json](./246140-kurumi-miracle.json) |
 | Kurumi-chan A-so-bo | 97385 | [97385-kurumi-chan-a-so-bo.json](./97385-kurumi-chan-a-so-bo.json) |
 | Kurupara! | 37364 | [37364-kurupara.json](./37364-kurupara.json) |
 | Kururin Cafe | 288094 | [288094-kururin-cafe.json](./288094-kururin-cafe.json) |
