@@ -1794,6 +1794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Tower | 314223 | [314223-under-the-tower.json](./314223-under-the-tower.json) |
 | Under the Tree | 291027 | [291027-under-the-tree.json](./291027-under-the-tree.json) |
 | Under the Tree 2: Hedgerows | 376506 | [376506-under-the-tree-2-hedgerows.json](./376506-under-the-tree-2-hedgerows.json) |
+| Under the Wakzoo | 281625 | [281625-under-the-wakzoo.json](./281625-under-the-wakzoo.json) |
 | Under the War | 104144 | [104144-under-the-war.json](./104144-under-the-war.json) |
 | Under the Warehouse | 195605 | [195605-under-the-warehouse.json](./195605-under-the-warehouse.json) |
 | Under the Water | 174105 | [174105-under-the-water.json](./174105-under-the-water.json) |
