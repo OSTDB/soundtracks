@@ -7128,6 +7128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Suitors | 298918 | [298918-demonic-suitors.json](./298918-demonic-suitors.json) |
 | Demonic Supremacy | 244043 | [244043-demonic-supremacy.json](./244043-demonic-supremacy.json) |
 | Demonic Tales Bundle | 233016 | [233016-demonic-tales-bundle.json](./233016-demonic-tales-bundle.json) |
+| Demonica | 297952 | [297952-demonica.json](./297952-demonica.json) |
 | DemonicGuestVR | 30747 | [30747-demonicguestvr.json](./30747-demonicguestvr.json) |
 | Demonicute | 155672 | [155672-demonicute.json](./155672-demonicute.json) |
 | Demonik | 100235 | [100235-demonik.json](./100235-demonik.json) |
@@ -11146,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disillusioned | 401040 | [401040-disillusioned.json](./401040-disillusioned.json) |
 | Disillusioned Reunion | 393607 | [393607-disillusioned-reunion.json](./393607-disillusioned-reunion.json) |
 | Disillusions Manga Horror | 9825 | [9825-disillusions-manga-horror.json](./9825-disillusions-manga-horror.json) |
+| Disinherited | 297953 | [297953-disinherited.json](./297953-disinherited.json) |
 | Disintegration | 243254 | [243254-disintegration.json](./243254-disintegration.json) |
 | Disintegration | 259396 | [259396-disintegration.json](./259396-disintegration.json) |
 | Disir | 183106 | [183106-disir.json](./183106-disir.json) |
@@ -11646,6 +11648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissimilar | 293516 | [293516-dissimilar.json](./293516-dissimilar.json) |
 | Dissimilated Land | 106533 | [106533-dissimilated-land.json](./106533-dissimilated-land.json) |
 | Dissimilation | 86234 | [86234-dissimilation.json](./86234-dissimilation.json) |
+| Dissociative | 298350 | [298350-dissociative.json](./298350-dissociative.json) |
 | Dissolution | 107785 | [107785-dissolution.json](./107785-dissolution.json) |
 | Dissolution of My Self | 405785 | [405785-dissolution-of-my-self.json](./405785-dissolution-of-my-self.json) |
 | Dissolved: Chapter One | 228479 | [228479-dissolved-chapter-one.json](./228479-dissolved-chapter-one.json) |
@@ -12219,6 +12222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Not Fall | 36154 | [36154-do-not-fall.json](./36154-do-not-fall.json) |
 | Do Not Feed the Monkeys | 52014 | [52014-do-not-feed-the-monkeys.json](./52014-do-not-feed-the-monkeys.json) |
 | Do Not Feed the Monkeys 2099 | 199713 | [199713-do-not-feed-the-monkeys-2099.json](./199713-do-not-feed-the-monkeys-2099.json) |
+| Do Not Feed the Monkeys 2099: Four Cage Gourmet Pack | 298490 | [298490-do-not-feed-the-monkeys-2099-four-cage-gourmet-pack.json](./298490-do-not-feed-the-monkeys-2099-four-cage-gourmet-pack.json) |
 | Do Not Feed the Monkeys: Collector's Edition | 166963 | [166963-do-not-feed-the-monkeys-collectors-edition.json](./166963-do-not-feed-the-monkeys-collectors-edition.json) |
 | Do Not Feed the Virus | 389846 | [389846-do-not-feed-the-virus.json](./389846-do-not-feed-the-virus.json) |
 | Do Not Kill Me Jacob!! JAM Ver. | 176482 | [176482-do-not-kill-me-jacob-jam-ver.json](./176482-do-not-kill-me-jacob-jam-ver.json) |
@@ -18830,6 +18834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DuckHunt: Missouri Kidz | 193597 | [193597-duckhunt-missouri-kidz.json](./193597-duckhunt-missouri-kidz.json) |
 | Duckie Dash | 32811 | [32811-duckie-dash.json](./32811-duckie-dash.json) |
 | Duckified: Cosmic Legends | 295571 | [295571-duckified-cosmic-legends.json](./295571-duckified-cosmic-legends.json) |
+| Ducking Grenades | 297954 | [297954-ducking-grenades.json](./297954-ducking-grenades.json) |
 | DuckLaserDuck | 320584 | [320584-ducklaserduck.json](./320584-ducklaserduck.json) |
 | Duckles: the Jigsaw Witch | 31733 | [31733-duckles-the-jigsaw-witch.json](./31733-duckles-the-jigsaw-witch.json) |
 | Ducklings | 176319 | [176319-ducklings.json](./176319-ducklings.json) |
@@ -20164,6 +20169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DunHero | 237242 | [237242-dunhero.json](./237242-dunhero.json) |
 | Dunia: The North Wood | 254776 | [254776-dunia-the-north-wood.json](./254776-dunia-the-north-wood.json) |
 | Dunidle Idle RPG | 227477 | [227477-dunidle-idle-rpg.json](./227477-dunidle-idle-rpg.json) |
+| DunJaunt | 298473 | [298473-dunjaunt.json](./298473-dunjaunt.json) |
 | Dunjonquest: Curse of Ra | 94549 | [94549-dunjonquest-curse-of-ra.json](./94549-dunjonquest-curse-of-ra.json) |
 | Dunjonquest: Hellfire Warrior | 21957 | [21957-dunjonquest-hellfire-warrior.json](./21957-dunjonquest-hellfire-warrior.json) |
 | Dunjonquest: Hellfire Warrior - Danger in Drindisti | 23309 | [23309-dunjonquest-hellfire-warrior-danger-in-drindisti.json](./23309-dunjonquest-hellfire-warrior-danger-in-drindisti.json) |
