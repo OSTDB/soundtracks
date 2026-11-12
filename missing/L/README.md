@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LandBox | 213164 | [213164-landbox.json](./213164-landbox.json) |
 | LandCombat: Ren | 193243 | [193243-landcombat-ren.json](./193243-landcombat-ren.json) |
 | Landelver | 285970 | [285970-landelver.json](./285970-landelver.json) |
+| Lander | 311395 | [311395-lander.json](./311395-lander.json) |
 | Lander | 94300 | [94300-lander.json](./94300-lander.json) |
 | Lander 8009 VR | 37039 | [37039-lander-8009-vr.json](./37039-lander-8009-vr.json) |
 | Lander Odyssey | 199229 | [199229-lander-odyssey.json](./199229-lander-odyssey.json) |
@@ -10610,6 +10611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar's Chosen | 280781 | [280781-lunars-chosen.json](./280781-lunars-chosen.json) |
 | Lunar's Chosen: Episode 2 | 277748 | [277748-lunars-chosen-episode-2.json](./277748-lunars-chosen-episode-2.json) |
 | Lunara | 341190 | [341190-lunara.json](./341190-lunara.json) |
+| Lunara: Planet IX | 311845 | [311845-lunara-planet-ix.json](./311845-lunara-planet-ix.json) |
 | Lunaraxia: Magpie Sings of the World's End | 344648 | [344648-lunaraxia-magpie-sings-of-the-worlds-end.json](./344648-lunaraxia-magpie-sings-of-the-worlds-end.json) |
 | Lunarball | 291250 | [291250-lunarball.json](./291250-lunarball.json) |
 | Lunares Insaniam | 289582 | [289582-lunares-insaniam.json](./289582-lunares-insaniam.json) |
