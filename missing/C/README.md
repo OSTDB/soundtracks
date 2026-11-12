@@ -1137,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camelot: Wrath of the Green Knight | 189335 | [189335-camelot-wrath-of-the-green-knight.json](./189335-camelot-wrath-of-the-green-knight.json) |
 | Camelot: Wrath of the Green Knight - Collector's Edition | 249373 | [249373-camelot-wrath-of-the-green-knight-collectors-edition.json](./249373-camelot-wrath-of-the-green-knight-collectors-edition.json) |
 | CamelVsPirates | 395811 | [395811-camelvspirates.json](./395811-camelvspirates.json) |
+| Cameo: CCTV Detective | 284560 | [284560-cameo-cctv-detective.json](./284560-cameo-cctv-detective.json) |
 | Camera | 307051 | [307051-camera.json](./307051-camera.json) |
 | Camera Anima | 259647 | [259647-camera-anima.json](./259647-camera-anima.json) |
 | Camera Birds | 245319 | [245319-camera-birds.json](./245319-camera-birds.json) |
@@ -3273,6 +3274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carroñero | 385939 | [385939-carronero.json](./385939-carronero.json) |
 | Carrot | 184539 | [184539-carrot.json](./184539-carrot.json) |
 | Carrot Bounce | 402590 | [402590-carrot-bounce.json](./402590-carrot-bounce.json) |
+| Carrot Buds | 284621 | [284621-carrot-buds.json](./284621-carrot-buds.json) |
 | Carrot Cake | 340810 | [340810-carrot-cake.json](./340810-carrot-cake.json) |
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
 | Carrot Clicker | 281536 | [281536-carrot-clicker.json](./281536-carrot-clicker.json) |
@@ -3286,9 +3288,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Munch | 116456 | [116456-carrot-munch.json](./116456-carrot-munch.json) |
 | Carrot Overload | 337099 | [337099-carrot-overload.json](./337099-carrot-overload.json) |
 | Carrot Paradise | 311243 | [311243-carrot-paradise.json](./311243-carrot-paradise.json) |
+| Carrot Rescue | 284622 | [284622-carrot-rescue.json](./284622-carrot-rescue.json) |
 | Carrot Revenge | 219222 | [219222-carrot-revenge.json](./219222-carrot-revenge.json) |
 | Carrot Slime 2 | 159125 | [159125-carrot-slime-2.json](./159125-carrot-slime-2.json) |
 | Carrot Smash | 378522 | [378522-carrot-smash.json](./378522-carrot-smash.json) |
+| Carrot Survivors | 284623 | [284623-carrot-survivors.json](./284623-carrot-survivors.json) |
 | Carrot the Cat | 261314 | [261314-carrot-the-cat.json](./261314-carrot-the-cat.json) |
 | Carrot Track | 397857 | [397857-carrot-track.json](./397857-carrot-track.json) |
 | Carrot: Pancakes and Waffles | 201676 | [201676-carrot-pancakes-and-waffles.json](./201676-carrot-pancakes-and-waffles.json) |
@@ -3533,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case 03: True Cannibal Boy | 211479 | [211479-case-03-true-cannibal-boy.json](./211479-case-03-true-cannibal-boy.json) |
 | Case 1963 | 389678 | [389678-case-1963.json](./389678-case-1963.json) |
 | Case 2: Animatronics Survival | 99300 | [99300-case-2-animatronics-survival.json](./99300-case-2-animatronics-survival.json) |
+| Case 32 | 284624 | [284624-case-32.json](./284624-case-32.json) |
 | Case 42: The Redwood Files | 370167 | [370167-case-42-the-redwood-files.json](./370167-case-42-the-redwood-files.json) |
 | Case Blind: Stolen Route | 358283 | [358283-case-blind-stolen-route.json](./358283-case-blind-stolen-route.json) |
 | Case Clicker | 194565 | [194565-case-clicker.json](./194565-case-clicker.json) |
@@ -4078,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castles in the Sky | 62703 | [62703-castles-in-the-sky.json](./62703-castles-in-the-sky.json) |
 | Castles of Darkness | 287289 | [287289-castles-of-darkness.json](./287289-castles-of-darkness.json) |
 | Castles of War | 390630 | [390630-castles-of-war.json](./390630-castles-of-war.json) |
+| Castles on Clouds | 284625 | [284625-castles-on-clouds.json](./284625-castles-on-clouds.json) |
 | Castles: The Northern Campaign | 11269 | [11269-castles-the-northern-campaign.json](./11269-castles-the-northern-campaign.json) |
 | CastleStorm II | 119361 | [119361-castlestorm-ii.json](./119361-castlestorm-ii.json) |
 | CastleStorm VR | 54532 | [54532-castlestorm-vr.json](./54532-castlestorm-vr.json) |
@@ -4647,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacomb Kitties | 224207 | [224207-catacomb-kitties.json](./224207-catacomb-kitties.json) |
 | Catacomb Master | 246783 | [246783-catacomb-master.json](./246783-catacomb-master.json) |
 | Catacomb Prince | 123150 | [123150-catacomb-prince.json](./123150-catacomb-prince.json) |
+| Catacomb Rogue Clawsaders | 284626 | [284626-catacomb-rogue-clawsaders.json](./284626-catacomb-rogue-clawsaders.json) |
 | Catacomb Snatch | 65388 | [65388-catacomb-snatch.json](./65388-catacomb-snatch.json) |
 | Catacomb Towers | 316075 | [316075-catacomb-towers.json](./316075-catacomb-towers.json) |
 | Catacombia | 154913 | [154913-catacombia.json](./154913-catacombia.json) |
@@ -9602,6 +9609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cineminha | 290096 | [290096-cineminha.json](./290096-cineminha.json) |
 | Cinemoji | 164959 | [164959-cinemoji.json](./164959-cinemoji.json) |
 | Cinemoji: Halloween | 181036 | [181036-cinemoji-halloween.json](./181036-cinemoji-halloween.json) |
+| Cinemoji: Oscar | 284547 | [284547-cinemoji-oscar.json](./284547-cinemoji-oscar.json) |
 | Cinemoji: Series | 192585 | [192585-cinemoji-series.json](./192585-cinemoji-series.json) |
 | CineNerdle | 231638 | [231638-cinenerdle.json](./231638-cinenerdle.json) |
 | CineNerdle | 231639 | [231639-cinenerdle.json](./231639-cinenerdle.json) |
@@ -14663,6 +14671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjury | 275739 | [275739-conjury.json](./275739-conjury.json) |
 | Conjury of Nature | 100536 | [100536-conjury-of-nature.json](./100536-conjury-of-nature.json) |
 | Conjury Revell | 234412 | [234412-conjury-revell.json](./234412-conjury-revell.json) |
+| Conker: Gettin' Medieval | 284540 | [284540-conker-gettin-medieval.json](./284540-conker-gettin-medieval.json) |
 | Conker: Live & Reloaded | 1425 | [1425-conker-live-and-reloaded.json](./1425-conker-live-and-reloaded.json) |
 | Conker's Bad Fur Day | 1286 | [1286-conkers-bad-fur-day.json](./1286-conkers-bad-fur-day.json) |
 | Conker's Bad Fur Day: Reloaded | 421201 | [421201-conkers-bad-fur-day-reloaded.json](./421201-conkers-bad-fur-day-reloaded.json) |
@@ -22392,6 +22401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Samurai | 309006 | [309006-cyberpunk-samurai.json](./309006-cyberpunk-samurai.json) |
 | Cyberpunk Samurai VR | 192003 | [192003-cyberpunk-samurai-vr.json](./192003-cyberpunk-samurai-vr.json) |
 | Cyberpunk Sex | 277366 | [277366-cyberpunk-sex.json](./277366-cyberpunk-sex.json) |
+| Cyberpunk Sex Simulator | 284539 | [284539-cyberpunk-sex-simulator.json](./284539-cyberpunk-sex-simulator.json) |
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
 | Cyberpunk SFX | 150294 | [150294-cyberpunk-sfx.json](./150294-cyberpunk-sfx.json) |
 | Cyberpunk Speed Assassin | 315905 | [315905-cyberpunk-speed-assassin.json](./315905-cyberpunk-speed-assassin.json) |
