@@ -5349,6 +5349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deceit 2 | 239561 | [239561-deceit-2.json](./239561-deceit-2.json) |
 | Deceit 2: Master Edition | 331267 | [331267-deceit-2-master-edition.json](./331267-deceit-2-master-edition.json) |
 | Deceit 2: Vampire Pack | 331632 | [331632-deceit-2-vampire-pack.json](./331632-deceit-2-vampire-pack.json) |
+| Deceit 2: Werewolf | 291117 | [291117-deceit-2-werewolf.json](./291117-deceit-2-werewolf.json) |
 | Deceitful Devotions | 227945 | [227945-deceitful-devotions.json](./227945-deceitful-devotions.json) |
 | Deceive Inc.: Black Tie Edition | 234244 | [234244-deceive-inc-black-tie-edition.json](./234244-deceive-inc-black-tie-edition.json) |
 | Deceive Inc.: Misery Empire | 246571 | [246571-deceive-inc-misery-empire.json](./246571-deceive-inc-misery-empire.json) |
