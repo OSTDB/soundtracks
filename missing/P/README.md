@@ -11045,7 +11045,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Build | 88881 | [88881-pocket-build.json](./88881-pocket-build.json) |
 | Pocket Button Soccer | 207969 | [207969-pocket-button-soccer.json](./207969-pocket-button-soccer.json) |
 | Pocket Car: VR Ground | 113749 | [113749-pocket-car-vr-ground.json](./113749-pocket-car-vr-ground.json) |
-| Pocket Card Jockey | 18196 | [18196-pocket-card-jockey.json](./18196-pocket-card-jockey.json) |
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
 | Pocket Chibi - Anime Dress Up | 104454 | [104454-pocket-chibi-anime-dress-up.json](./104454-pocket-chibi-anime-dress-up.json) |
 | Pocket Circuit | 188202 | [188202-pocket-circuit.json](./188202-pocket-circuit.json) |
