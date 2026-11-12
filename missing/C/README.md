@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can't Stand The Heat | 295007 | [295007-cant-stand-the-heat.json](./295007-cant-stand-the-heat.json) |
 | Can't Stop Running | 391080 | [391080-cant-stop-running.json](./391080-cant-stop-running.json) |
 | Can't You Run? | 343850 | [343850-cant-you-run.json](./343850-cant-you-run.json) |
+| Canaan Online | 293256 | [293256-canaan-online.json](./293256-canaan-online.json) |
 | Canabalt | 2270 | [2270-canabalt.json](./2270-canabalt.json) |
 | Canabalt | 267570 | [267570-canabalt.json](./267570-canabalt.json) |
 | Canada 150 Trivia Quiz | 54544 | [54544-canada-150-trivia-quiz.json](./54544-canada-150-trivia-quiz.json) |
@@ -8588,6 +8589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Hunt | 25671 | [25671-chopper-hunt.json](./25671-chopper-hunt.json) |
 | Chopper I | 21732 | [21732-chopper-i.json](./21732-chopper-i.json) |
 | Chopper Mike | 62082 | [62082-chopper-mike.json](./62082-chopper-mike.json) |
+| Chopper Mission | 293287 | [293287-chopper-mission.json](./293287-chopper-mission.json) |
 | Chopper Squad | 13490 | [13490-chopper-squad.json](./13490-chopper-squad.json) |
 | Chopper Strike | 304794 | [304794-chopper-strike.json](./304794-chopper-strike.json) |
 | Chopper to Hell | 117393 | [117393-chopper-to-hell.json](./117393-chopper-to-hell.json) |
@@ -10036,6 +10038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Climber | 27546 | [27546-city-climber.json](./27546-city-climber.json) |
 | City Coach Bus Simulator: Bus Games 2021 | 175685 | [175685-city-coach-bus-simulator-bus-games-2021.json](./175685-city-coach-bus-simulator-bus-games-2021.json) |
 | City Connection | 288842 | [288842-city-connection.json](./288842-city-connection.json) |
+| City Connection Rocket | 293301 | [293301-city-connection-rocket.json](./293301-city-connection-rocket.json) |
 | City Construction Simulator | 234746 | [234746-city-construction-simulator.json](./234746-city-construction-simulator.json) |
 | City Construction Simulator 2 | 310505 | [310505-city-construction-simulator-2.json](./310505-city-construction-simulator-2.json) |
 | City Country | 191157 | [191157-city-country.json](./191157-city-country.json) |
@@ -10074,6 +10077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Idle | 244354 | [244354-city-idle.json](./244354-city-idle.json) |
 | City Island 2: Building Sim | 103544 | [103544-city-island-2-building-sim.json](./103544-city-island-2-building-sim.json) |
 | City Island 4 | 88498 | [88498-city-island-4.json](./88498-city-island-4.json) |
+| City Island 6: Building Life | 293302 | [293302-city-island-6-building-life.json](./293302-city-island-6-building-life.json) |
 | City Island: Paradise Sim | 181653 | [181653-city-island-paradise-sim.json](./181653-city-island-paradise-sim.json) |
 | City Killer | 92884 | [92884-city-killer.json](./92884-city-killer.json) |
 | City League Softball | 209400 | [209400-city-league-softball.json](./209400-city-league-softball.json) |
@@ -11658,7 +11662,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clover no Kuni no Alice: Wonderful Wonder World | 64667 | [64667-clover-no-kuni-no-alice-wonderful-wonder-world.json](./64667-clover-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Clover Party | 374936 | [374936-clover-party.json](./374936-clover-party.json) |
 | Clover Reset | 329621 | [329621-clover-reset.json](./329621-clover-reset.json) |
+| Clover Toshokan no Juunin-tachi | 293281 | [293281-clover-toshokan-no-juunin-tachi.json](./293281-clover-toshokan-no-juunin-tachi.json) |
 | Clover Toshokan no Juunin-tachi Compleat | 413603 | [413603-clover-toshokan-no-juunin-tachi-compleat.json](./413603-clover-toshokan-no-juunin-tachi-compleat.json) |
+| Clover Toshokan no Juunin-tachi II | 293283 | [293283-clover-toshokan-no-juunin-tachi-ii.json](./293283-clover-toshokan-no-juunin-tachi-ii.json) |
 | Clover: A Curious Tale | 52502 | [52502-clover-a-curious-tale.json](./52502-clover-a-curious-tale.json) |
 | Clover's Quadrants | 392120 | [392120-clovers-quadrants.json](./392120-clovers-quadrants.json) |
 | Clover's Space Beat | 313204 | [313204-clovers-space-beat.json](./313204-clovers-space-beat.json) |
@@ -19293,8 +19299,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Set | 34114 | [34114-cross-set.json](./34114-cross-set.json) |
 | Cross Set Infinity | 74497 | [74497-cross-set-infinity.json](./74497-cross-set-infinity.json) |
 | Cross Shoot | 314221 | [314221-cross-shoot.json](./314221-cross-shoot.json) |
+| Cross Shuriken | 293266 | [293266-cross-shuriken.json](./293266-cross-shuriken.json) |
 | Cross Snake | 311957 | [311957-cross-snake.json](./311957-cross-snake.json) |
 | Cross Soul | 132453 | [132453-cross-soul.json](./132453-cross-soul.json) |
+| Cross Stinger | 293265 | [293265-cross-stinger.json](./293265-cross-stinger.json) |
 | Cross Stitch Casper | 166893 | [166893-cross-stitch-casper.json](./166893-cross-stitch-casper.json) |
 | Cross Strike | 409912 | [409912-cross-strike.json](./409912-cross-strike.json) |
 | Cross Tails | 252437 | [252437-cross-tails.json](./252437-cross-tails.json) |
