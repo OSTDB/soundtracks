@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Dog | 42570 | [42570-family-dog.json](./42570-family-dog.json) |
 | Family Farm | 322141 | [322141-family-farm.json](./322141-family-farm.json) |
 | Family Farm | 9576 | [9576-family-farm.json](./9576-family-farm.json) |
+| Family Farm 2023 | 247147 | [247147-family-farm-2023.json](./247147-family-farm-2023.json) |
 | Family Farm Adventure | 216138 | [216138-family-farm-adventure.json](./216138-family-farm-adventure.json) |
 | Family Farm Seaside | 104104 | [104104-family-farm-seaside.json](./104104-family-farm-seaside.json) |
 | Family Farm: Goodfolks | 245177 | [245177-family-farm-goodfolks.json](./245177-family-farm-goodfolks.json) |
@@ -8063,6 +8064,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash of the Blade X | 282527 | [282527-flash-of-the-blade-x.json](./282527-flash-of-the-blade-x.json) |
 | Flash Party | 162519 | [162519-flash-party.json](./162519-flash-party.json) |
 | Flash Party: 2023 Hero Pack | 295122 | [295122-flash-party-2023-hero-pack.json](./295122-flash-party-2023-hero-pack.json) |
+| Flash Party: Deluxe Edition | 247227 | [247227-flash-party-deluxe-edition.json](./247227-flash-party-deluxe-edition.json) |
+| Flash Party: Fighting Master Edition | 247228 | [247228-flash-party-fighting-master-edition.json](./247228-flash-party-fighting-master-edition.json) |
+| Flash Party: Starter Edition | 247229 | [247229-flash-party-starter-edition.json](./247229-flash-party-starter-edition.json) |
 | Flash Point | 114159 | [114159-flash-point.json](./114159-flash-point.json) |
 | Flash Point | 46793 | [46793-flash-point.json](./46793-flash-point.json) |
 | Flash Point Korea: AH-64D Longbow | 710 | [710-flash-point-korea-ah-64d-longbow.json](./710-flash-point-korea-ah-64d-longbow.json) |
