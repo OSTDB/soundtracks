@@ -8070,6 +8070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlatOut: Head On | 22774 | [22774-flatout-head-on.json](./22774-flatout-head-on.json) |
 | Flatout: Stuntman | 309217 | [309217-flatout-stuntman.json](./309217-flatout-stuntman.json) |
 | FlatOut: Ultimate Carnage | 3777 | [3777-flatout-ultimate-carnage.json](./3777-flatout-ultimate-carnage.json) |
+| FlatOut: Ultimate Carnage Collector's Edition | 312397 | [312397-flatout-ultimate-carnage-collectors-edition.json](./312397-flatout-ultimate-carnage-collectors-edition.json) |
 | Flats | 174840 | [174840-flats.json](./174840-flats.json) |
 | Flats Full of Cats | 379382 | [379382-flats-full-of-cats.json](./379382-flats-full-of-cats.json) |
 | Flats Full of Cats: Bugs & Bolts | 379384 | [379384-flats-full-of-cats-bugs-and-bolts.json](./379384-flats-full-of-cats-bugs-and-bolts.json) |
@@ -10005,6 +10006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footballer of the Year | 41005 | [41005-footballer-of-the-year.json](./41005-footballer-of-the-year.json) |
 | Footballer of the Year 2 | 41004 | [41004-footballer-of-the-year-2.json](./41004-footballer-of-the-year-2.json) |
 | FootballTeam | 153801 | [153801-footballteam.json](./153801-footballteam.json) |
+| FootCareer Ult | 311910 | [311910-footcareer-ult.json](./311910-footcareer-ult.json) |
 | FootGoal! Tiki Taka | 147921 | [147921-footgoal-tiki-taka.json](./147921-footgoal-tiki-taka.json) |
 | Footgun: Underground | 226468 | [226468-footgun-underground.json](./226468-footgun-underground.json) |
 | Foothold VR | 283409 | [283409-foothold-vr.json](./283409-foothold-vr.json) |
