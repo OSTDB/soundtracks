@@ -8295,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Wings | 255537 | [255537-lord-of-the-wings.json](./255537-lord-of-the-wings.json) |
 | Lord of the Сlick | 207815 | [207815-lord-of-the-lick.json](./207815-lord-of-the-lick.json) |
 | Lord of Tokens | 415772 | [415772-lord-of-tokens.json](./415772-lord-of-tokens.json) |
+| Lord Of Tower | 298351 | [298351-lord-of-tower.json](./298351-lord-of-tower.json) |
 | Lord of Ultima | 66713 | [66713-lord-of-ultima.json](./66713-lord-of-ultima.json) |
 | Lord of Undead | 389330 | [389330-lord-of-undead.json](./389330-lord-of-undead.json) |
 | Lord of Vermilion | 68298 | [68298-lord-of-vermilion.json](./68298-lord-of-vermilion.json) |
@@ -9248,10 +9249,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Angel Syndrome | 324884 | [324884-love-angel-syndrome.json](./324884-love-angel-syndrome.json) |
 | Love Anime Boys Club: Language and Date Zodiac Signs | 324196 | [324196-love-anime-boys-club-language-and-date-zodiac-signs.json](./324196-love-anime-boys-club-language-and-date-zodiac-signs.json) |
 | Love Archer | 227261 | [227261-love-archer.json](./227261-love-archer.json) |
+| Love at Any Cost | 298909 | [298909-love-at-any-cost.json](./298909-love-at-any-cost.json) |
 | Love at Elevation | 112040 | [112040-love-at-elevation.json](./112040-love-at-elevation.json) |
 | Love at First Sight | 342424 | [342424-love-at-first-sight.json](./342424-love-at-first-sight.json) |
 | Love at First Sight | 35697 | [35697-love-at-first-sight.json](./35697-love-at-first-sight.json) |
 | Love At First Squeak | 251068 | [251068-love-at-first-squeak.json](./251068-love-at-first-squeak.json) |
+| Love at The Milky Way Diner | 298467 | [298467-love-at-the-milky-way-diner.json](./298467-love-at-the-milky-way-diner.json) |
 | Love at the RatbagTrash Cabin! | 399040 | [399040-love-at-the-ratbagtrash-cabin.json](./399040-love-at-the-ratbagtrash-cabin.json) |
 | Love Bakudan | 152390 | [152390-love-bakudan.json](./152390-love-bakudan.json) |
 | Love Ball | 101111 | [101111-love-ball.json](./101111-love-ball.json) |
