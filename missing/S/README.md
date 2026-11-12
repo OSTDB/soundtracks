@@ -485,6 +485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safari: Evolution | 97162 | [97162-safari-evolution.json](./97162-safari-evolution.json) |
 | Safari: I-Evolution | 239635 | [239635-safari-i-evolution.json](./239635-safari-i-evolution.json) |
 | Safe | 371850 | [371850-safe.json](./371850-safe.json) |
+| Safe and Sound | 286721 | [286721-safe-and-sound.json](./286721-safe-and-sound.json) |
 | Safe at Home | 403242 | [403242-safe-at-home.json](./403242-safe-at-home.json) |
 | Safe Climbing | 127831 | [127831-safe-climbing.json](./127831-safe-climbing.json) |
 | Safe Cracker | 179084 | [179084-safe-cracker.json](./179084-safe-cracker.json) |
@@ -22314,6 +22315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speakeasy Simulator | 375821 | [375821-speakeasy-simulator.json](./375821-speakeasy-simulator.json) |
 | Speakeasy: Last Call | 295668 | [295668-speakeasy-last-call.json](./295668-speakeasy-last-call.json) |
 | Speaker | 178457 | [178457-speaker.json](./178457-speaker.json) |
+| Speaker of Worlds | 286711 | [286711-speaker-of-worlds.json](./286711-speaker-of-worlds.json) |
 | Speakerman | 120082 | [120082-speakerman.json](./120082-speakerman.json) |
 | Speakerman 2 | 123835 | [123835-speakerman-2.json](./123835-speakerman-2.json) |
 | Speaking Simulator 2018 | 111648 | [111648-speaking-simulator-2018.json](./111648-speaking-simulator-2018.json) |
@@ -27734,6 +27736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Static Hour | 415918 | [415918-static-hour.json](./415918-static-hour.json) |
 | Static Mag | 265812 | [265812-static-mag.json](./265812-static-mag.json) |
 | Static Memory | 350232 | [350232-static-memory.json](./350232-static-memory.json) |
+| Static of Eve | 286736 | [286736-static-of-eve.json](./286736-static-of-eve.json) |
 | Static Paradox | 335056 | [335056-static-paradox.json](./335056-static-paradox.json) |
 | Static Shift Racing | 231894 | [231894-static-shift-racing.json](./231894-static-shift-racing.json) |
 | Static Shock | 101455 | [101455-static-shock.json](./101455-static-shock.json) |
@@ -32141,6 +32144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Fantasy | 275120 | [275120-summer-fantasy.json](./275120-summer-fantasy.json) |
 | Summer Fling | 22210 | [22210-summer-fling.json](./22210-summer-fling.json) |
 | Summer Flower of Summer Snow | 339482 | [339482-summer-flower-of-summer-snow.json](./339482-summer-flower-of-summer-snow.json) |
+| Summer Flowers | 286731 | [286731-summer-flowers.json](./286731-summer-flowers.json) |
 | Summer for You | 339481 | [339481-summer-for-you.json](./339481-summer-for-you.json) |
 | Summer Fruit | 134921 | [134921-summer-fruit.json](./134921-summer-fruit.json) |
 | Summer Funland | 87556 | [87556-summer-funland.json](./87556-summer-funland.json) |
@@ -37576,6 +37580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweepminer | 377044 | [377044-sweepminer.json](./377044-sweepminer.json) |
 | Sweet | 276107 | [276107-sweet.json](./276107-sweet.json) |
 | Sweet Adventure | 392916 | [392916-sweet-adventure.json](./392916-sweet-adventure.json) |
+| Sweet Agents | 286742 | [286742-sweet-agents.json](./286742-sweet-agents.json) |
 | Sweet and Cute | 169381 | [169381-sweet-and-cute.json](./169381-sweet-and-cute.json) |
 | Sweet and Hot | 160093 | [160093-sweet-and-hot.json](./160093-sweet-and-hot.json) |
 | Sweet Ange | 282666 | [282666-sweet-ange.json](./282666-sweet-ange.json) |
