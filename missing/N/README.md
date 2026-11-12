@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis Perspective | 30982 | [30982-nemesis-perspective.json](./30982-nemesis-perspective.json) |
 | Nemesis Realms | 80883 | [80883-nemesis-realms.json](./80883-nemesis-realms.json) |
 | Nemesis Shock | 346397 | [346397-nemesis-shock.json](./346397-nemesis-shock.json) |
+| Nemesis Tamatou | 301723 | [301723-nemesis-tamatou.json](./301723-nemesis-tamatou.json) |
 | Nemesis the Warlock | 37187 | [37187-nemesis-the-warlock.json](./37187-nemesis-the-warlock.json) |
 | Nemesis Z | 287211 | [287211-nemesis-z.json](./287211-nemesis-z.json) |
 | Nemesis: Distress | 135380 | [135380-nemesis-distress.json](./135380-nemesis-distress.json) |
