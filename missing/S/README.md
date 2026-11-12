@@ -2614,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save the Retrogames | 103742 | [103742-save-the-retrogames.json](./103742-save-the-retrogames.json) |
 | Save The Sailboat Race | 334231 | [334231-save-the-sailboat-race.json](./334231-save-the-sailboat-race.json) |
 | Save the School Flower Action | 195437 | [195437-save-the-school-flower-action.json](./195437-save-the-school-flower-action.json) |
+| Save the Settlers | 259307 | [259307-save-the-settlers.json](./259307-save-the-settlers.json) |
 | Save the Shapes | 380604 | [380604-save-the-shapes.json](./380604-save-the-shapes.json) |
 | Save the Sheep | 368995 | [368995-save-the-sheep.json](./368995-save-the-sheep.json) |
 | Save the Teenies | 256227 | [256227-save-the-teenies.json](./256227-save-the-teenies.json) |
@@ -6368,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sertorgina | 284616 | [284616-sertorgina.json](./284616-sertorgina.json) |
 | Serum | 216721 | [216721-serum.json](./216721-serum.json) |
 | Serum | 273863 | [273863-serum.json](./273863-serum.json) |
+| Serum Run | 259196 | [259196-serum-run.json](./259196-serum-run.json) |
 | Serum X | 95229 | [95229-serum-x.json](./95229-serum-x.json) |
 | Servant of Thrones | 28365 | [28365-servant-of-thrones.json](./28365-servant-of-thrones.json) |
 | Servants of Sumomon | 217134 | [217134-servants-of-sumomon.json](./217134-servants-of-sumomon.json) |
@@ -6475,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Set Off Fireworks Together | 268242 | [268242-set-off-fireworks-together.json](./268242-set-off-fireworks-together.json) |
 | Set Sail | 192458 | [192458-set-sail.json](./192458-set-sail.json) |
 | Set Sail: Caribbean | 124991 | [124991-set-sail-caribbean.json](./124991-set-sail-caribbean.json) |
+| Set Sail! | 259192 | [259192-set-sail.json](./259192-set-sail.json) |
 | Set Sail! Arena | 302897 | [302897-set-sail-arena.json](./302897-set-sail-arena.json) |
 | Set with Friends | 319614 | [319614-set-with-friends.json](./319614-set-with-friends.json) |
 | Set Yourself on Fire | 306616 | [306616-set-yourself-on-fire.json](./306616-set-yourself-on-fire.json) |
@@ -6502,6 +6505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Settle Gliese | 249046 | [249046-settle-gliese.json](./249046-settle-gliese.json) |
 | Settled | 33480 | [33480-settled.json](./33480-settled.json) |
 | Settlement Survival | 158413 | [158413-settlement-survival.json](./158413-settlement-survival.json) |
+| Settlement Survival: Tourism | 259296 | [259296-settlement-survival-tourism.json](./259296-settlement-survival-tourism.json) |
 | Settlement Zero | 114573 | [114573-settlement-zero.json](./114573-settlement-zero.json) |
 | Settlement: Colossus | 53589 | [53589-settlement-colossus.json](./53589-settlement-colossus.json) |
 | Settlements | 81671 | [81671-settlements.json](./81671-settlements.json) |
@@ -30710,6 +30714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stress | 308104 | [308104-stress.json](./308104-stress.json) |
 | Stress Attack | 337771 | [337771-stress-attack.json](./337771-stress-attack.json) |
 | Stress Ball | 285448 | [285448-stress-ball.json](./285448-stress-ball.json) |
+| Stress Chess | 259303 | [259303-stress-chess.json](./259303-stress-chess.json) |
 | Stress explosion | 132505 | [132505-stress-explosion.json](./132505-stress-explosion.json) |
 | Stress Random | 169752 | [169752-stress-random.json](./169752-stress-random.json) |
 | Stress Relief | 374647 | [374647-stress-relief.json](./374647-stress-relief.json) |
@@ -32468,6 +32473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summit in Space | 164905 | [164905-summit-in-space.json](./164905-summit-in-space.json) |
 | Summit of the Wolf | 119033 | [119033-summit-of-the-wolf.json](./119033-summit-of-the-wolf.json) |
 | Summit: Steps of Solace | 339708 | [339708-summit-steps-of-solace.json](./339708-summit-steps-of-solace.json) |
+| Summit: Virtual Pro-Wrestling Gamma | 259200 | [259200-summit-virtual-pro-wrestling-gamma.json](./259200-summit-virtual-pro-wrestling-gamma.json) |
 | SummitX 2 | 200267 | [200267-summitx-2.json](./200267-summitx-2.json) |
 | Summon | 263754 | [263754-summon.json](./263754-summon.json) |
 | Summon a Sweetheart | 400605 | [400605-summon-a-sweetheart.json](./400605-summon-a-sweetheart.json) |
