@@ -1181,6 +1181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bah, Humbug! | 97350 | [97350-bah-humbug.json](./97350-bah-humbug.json) |
 | Bahama Conch n Burger Shack | 113537 | [113537-bahama-conch-n-burger-shack.json](./113537-bahama-conch-n-burger-shack.json) |
 | Bahamian Rhapsody | 167378 | [167378-bahamian-rhapsody.json](./167378-bahamian-rhapsody.json) |
+| Bahamut 2: Dragon's Bride | 288427 | [288427-bahamut-2-dragons-bride.json](./288427-bahamut-2-dragons-bride.json) |
 | Bahamut and the Waqwaq Tree | 264652 | [264652-bahamut-and-the-waqwaq-tree.json](./264652-bahamut-and-the-waqwaq-tree.json) |
 | Bahamut Disco | 295932 | [295932-bahamut-disco.json](./295932-bahamut-disco.json) |
 | Bahamut Lagoon | 15843 | [15843-bahamut-lagoon.json](./15843-bahamut-lagoon.json) |
