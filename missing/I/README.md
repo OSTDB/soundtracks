@@ -4826,6 +4826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Orb | 234394 | [234394-insane-orb.json](./234394-insane-orb.json) |
 | Insane Road | 37404 | [37404-insane-road.json](./37404-insane-road.json) |
 | Insane Rules | 284615 | [284615-insane-rules.json](./284615-insane-rules.json) |
+| Insane Skulls | 257607 | [257607-insane-skulls.json](./257607-insane-skulls.json) |
 | Insane Town | 210971 | [210971-insane-town.json](./210971-insane-town.json) |
 | Insane West | 117564 | [117564-insane-west.json](./117564-insane-west.json) |
 | Insane: Lucky Block Mod Edition | 88369 | [88369-insane-lucky-block-mod-edition.json](./88369-insane-lucky-block-mod-edition.json) |
