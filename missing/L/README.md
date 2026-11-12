@@ -4336,6 +4336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letter From Heart Antique Shop | 374361 | [374361-letter-from-heart-antique-shop.json](./374361-letter-from-heart-antique-shop.json) |
 | Letter from Nadine | 374336 | [374336-letter-from-nadine.json](./374336-letter-from-nadine.json) |
 | Letter Hunter | 372516 | [372516-letter-hunter.json](./372516-letter-hunter.json) |
+| Letter Jam | 265902 | [265902-letter-jam.json](./265902-letter-jam.json) |
 | Letter Labyrinth | 229463 | [229463-letter-labyrinth.json](./229463-letter-labyrinth.json) |
 | Letter Land 2 | 97146 | [97146-letter-land-2.json](./97146-letter-land-2.json) |
 | Letter Lattice | 174190 | [174190-letter-lattice.json](./174190-letter-lattice.json) |
