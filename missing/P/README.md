@@ -3154,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: Liberator of Wraeclast Supporter Pack | 332122 | [332122-path-of-exile-liberator-of-wraeclast-supporter-pack.json](./332122-path-of-exile-liberator-of-wraeclast-supporter-pack.json) |
 | Path of Exile: Lord of Ogham Supporter Pack | 332121 | [332121-path-of-exile-lord-of-ogham-supporter-pack.json](./332121-path-of-exile-lord-of-ogham-supporter-pack.json) |
 | Path of Exile: Mirage | 393960 | [393960-path-of-exile-mirage.json](./393960-path-of-exile-mirage.json) |
+| Path of Exile: Necropolis | 294626 | [294626-path-of-exile-necropolis.json](./294626-path-of-exile-necropolis.json) |
 | Path of Exile: Sacrifice of the Vaal | 75574 | [75574-path-of-exile-sacrifice-of-the-vaal.json](./75574-path-of-exile-sacrifice-of-the-vaal.json) |
 | Path of Exile: Secrets of the Atlas | 350378 | [350378-path-of-exile-secrets-of-the-atlas.json](./350378-path-of-exile-secrets-of-the-atlas.json) |
 | Path of Exile: Settlers of Kalguur | 310958 | [310958-path-of-exile-settlers-of-kalguur.json](./310958-path-of-exile-settlers-of-kalguur.json) |
