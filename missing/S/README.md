@@ -19025,6 +19025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Riders Tournament Edition | 159040 | [159040-sonic-riders-tournament-edition.json](./159040-sonic-riders-tournament-edition.json) |
 | Sonic Riders Tournament Edition 2.0 | 337111 | [337111-sonic-riders-tournament-edition-2-0.json](./337111-sonic-riders-tournament-edition-2-0.json) |
 | Sonic Riders Tournament Edition 2.4.6 | 369155 | [369155-sonic-riders-tournament-edition-2-4-6.json](./369155-sonic-riders-tournament-edition-2-4-6.json) |
+| Sonic Riders X | 300615 | [300615-sonic-riders-x.json](./300615-sonic-riders-x.json) |
 | Sonic Riders: Tournament Edition | 396533 | [396533-sonic-riders-tournament-edition.json](./396533-sonic-riders-tournament-edition.json) |
 | Sonic Ring Thing | 299875 | [299875-sonic-ring-thing.json](./299875-sonic-ring-thing.json) |
 | Sonic Ringworlds | 321913 | [321913-sonic-ringworlds.json](./321913-sonic-ringworlds.json) |
