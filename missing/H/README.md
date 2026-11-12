@@ -3132,6 +3132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haven Park | 146631 | [146631-haven-park.json](./146631-haven-park.json) |
 | Haven Restored | 389929 | [389929-haven-restored.json](./389929-haven-restored.json) |
 | Haven: Call of the King | 19090 | [19090-haven-call-of-the-king.json](./19090-haven-call-of-the-king.json) |
+| Haven: Call of the King | 264379 | [264379-haven-call-of-the-king.json](./264379-haven-call-of-the-king.json) |
 | Haven: Deluxe Edition | 356806 | [356806-haven-deluxe-edition.json](./356806-haven-deluxe-edition.json) |
 | Haven: Episode 1 | 307952 | [307952-haven-episode-1.json](./307952-haven-episode-1.json) |
 | Haven: Secret of Caledria | 182063 | [182063-haven-secret-of-caledria.json](./182063-haven-secret-of-caledria.json) |
@@ -3579,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Battle | 199348 | [199348-heart-of-battle.json](./199348-heart-of-battle.json) |
 | Heart of China | 12139 | [12139-heart-of-china.json](./12139-heart-of-china.json) |
 | Heart of Crown Online | 217292 | [217292-heart-of-crown-online.json](./217292-heart-of-crown-online.json) |
+| Heart of Darkness | 264380 | [264380-heart-of-darkness.json](./264380-heart-of-darkness.json) |
 | Heart of Darkness | 6433 | [6433-heart-of-darkness.json](./6433-heart-of-darkness.json) |
 | Heart of Dixie | 101302 | [101302-heart-of-dixie.json](./101302-heart-of-dixie.json) |
 | Heart of Dungeon | 159521 | [159521-heart-of-dungeon.json](./159521-heart-of-dungeon.json) |
@@ -5022,6 +5024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helltower | 116225 | [116225-helltower.json](./116225-helltower.json) |
 | HellTown | 61602 | [61602-helltown.json](./61602-helltown.json) |
 | Helltown: Revival Update | 307822 | [307822-helltown-revival-update.json](./307822-helltown-revival-update.json) |
+| Helltrench | 264291 | [264291-helltrench.json](./264291-helltrench.json) |
 | Helluva Boss Flaming Fashion | 228821 | [228821-helluva-boss-flaming-fashion.json](./228821-helluva-boss-flaming-fashion.json) |
 | Helluva Brawl | 341387 | [341387-helluva-brawl.json](./341387-helluva-brawl.json) |
 | Helluva Brawl | 342257 | [342257-helluva-brawl.json](./342257-helluva-brawl.json) |
