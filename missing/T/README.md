@@ -1482,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Violet Valley | 379437 | [379437-tales-of-violet-valley.json](./379437-tales-of-violet-valley.json) |
 | Tales of Vogar: Lost Descendants | 236366 | [236366-tales-of-vogar-lost-descendants.json](./236366-tales-of-vogar-lost-descendants.json) |
 | Tales of VS. | 42723 | [42723-tales-of-vs.json](./42723-tales-of-vs.json) |
+| Tales of Wakana | 258748 | [258748-tales-of-wakana.json](./258748-tales-of-wakana.json) |
 | Tales of War | 158636 | [158636-tales-of-war.json](./158636-tales-of-war.json) |
 | Tales of Weapons | 175723 | [175723-tales-of-weapons.json](./175723-tales-of-weapons.json) |
 | Tales Of Wedding Rings VR | 110075 | [110075-tales-of-wedding-rings-vr.json](./110075-tales-of-wedding-rings-vr.json) |
@@ -24535,6 +24536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Carnage | 30587 | [30587-time-carnage.json](./30587-time-carnage.json) |
 | Time Chaos | 399403 | [399403-time-chaos.json](./399403-time-chaos.json) |
 | Time Chess | 318120 | [318120-time-chess.json](./318120-time-chess.json) |
+| Time Circuit | 258684 | [258684-time-circuit.json](./258684-time-circuit.json) |
 | Time Clickers | 19149 | [19149-time-clickers.json](./19149-time-clickers.json) |
 | Time Climber | 276726 | [276726-time-climber.json](./276726-time-climber.json) |
 | Time Cops | 400099 | [400099-time-cops.json](./400099-time-cops.json) |
@@ -33498,6 +33500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Tournament | 313098 | [313098-triple-tournament.json](./313098-triple-tournament.json) |
 | Triple Town | 14405 | [14405-triple-town.json](./14405-triple-town.json) |
 | Triple Track | 416584 | [416584-triple-track.json](./416584-triple-track.json) |
+| Triple Treble Triumph | 258673 | [258673-triple-treble-triumph.json](./258673-triple-treble-triumph.json) |
 | Triple Triad | 386989 | [386989-triple-triad.json](./386989-triple-triad.json) |
 | Triple Triad: Tournament of the Elements | 209374 | [209374-triple-triad-tournament-of-the-elements.json](./209374-triple-triad-tournament-of-the-elements.json) |
 | Triple Tris Challenge | 70243 | [70243-triple-tris-challenge.json](./70243-triple-tris-challenge.json) |
