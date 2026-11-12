@@ -3099,6 +3099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Car Parking 2024: Driving Simulator | 275447 | [275447-real-car-parking-2024-driving-simulator.json](./275447-real-car-parking-2024-driving-simulator.json) |
 | Real Car Parking 3D | 256436 | [256436-real-car-parking-3d.json](./256436-real-car-parking-3d.json) |
 | Real Car Parking Master | 256135 | [256135-real-car-parking-master.json](./256135-real-car-parking-master.json) |
+| Real Car Parking: 2024 Authentic Simulation | 266536 | [266536-real-car-parking-2024-authentic-simulation.json](./266536-real-car-parking-2024-authentic-simulation.json) |
 | Real Car Racing | 100787 | [100787-real-car-racing.json](./100787-real-car-racing.json) |
 | Real Carrom | 167030 | [167030-real-carrom.json](./167030-real-carrom.json) |
 | Real City Car Driving Sim 2017 | 88878 | [88878-real-city-car-driving-sim-2017.json](./88878-real-city-car-driving-sim-2017.json) |
@@ -7451,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Lust Girl 2 | 249786 | [249786-rhythm-lust-girl-2.json](./249786-rhythm-lust-girl-2.json) |
 | Rhythm Mage VR | 122150 | [122150-rhythm-mage-vr.json](./122150-rhythm-mage-vr.json) |
 | Rhythm Maker | 45889 | [45889-rhythm-maker.json](./45889-rhythm-maker.json) |
+| Rhythm Master | 266439 | [266439-rhythm-master.json](./266439-rhythm-master.json) |
 | Rhythm Nights | 114589 | [114589-rhythm-nights.json](./114589-rhythm-nights.json) |
 | Rhythm of Annihilation | 358373 | [358373-rhythm-of-annihilation.json](./358373-rhythm-of-annihilation.json) |
 | Rhythm of Earth | 375289 | [375289-rhythm-of-earth.json](./375289-rhythm-of-earth.json) |
@@ -9574,6 +9576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboin | 184873 | [184873-roboin.json](./184873-roboin.json) |
 | RoboJep | 165691 | [165691-robojep.json](./165691-robojep.json) |
 | RoboJesus | 250837 | [250837-robojesus.json](./250837-robojesus.json) |
+| Robokid | 266465 | [266465-robokid.json](./266465-robokid.json) |
 | RoboKiden | 306213 | [306213-robokiden.json](./306213-robokiden.json) |
 | Robokill | 361334 | [361334-robokill.json](./361334-robokill.json) |
 | Robokill 2: Leviathan Five | 143455 | [143455-robokill-2-leviathan-five.json](./143455-robokill-2-leviathan-five.json) |
