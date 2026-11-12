@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Mode Archives+: Tondemo Nishibuuki 2 - Paris Boutard Rally | 222144 | [222144-g-mode-archives-tondemo-nishibuuki-2-paris-boutard-rally.json](./222144-g-mode-archives-tondemo-nishibuuki-2-paris-boutard-rally.json) |
 | G-Netix | 92830 | [92830-g-netix.json](./92830-g-netix.json) |
 | G-Nome | 78909 | [78909-g-nome.json](./78909-g-nome.json) |
+| G-Police | 301722 | [301722-g-police.json](./301722-g-police.json) |
 | G-Police | 8305 | [8305-g-police.json](./8305-g-police.json) |
 | G-Police: Weapons of Justice | 8306 | [8306-g-police-weapons-of-justice.json](./8306-g-police-weapons-of-justice.json) |
 | G-Rebels | 319482 | [319482-g-rebels.json](./319482-g-rebels.json) |
@@ -2350,6 +2351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gate Breaker: Ascension | 412921 | [412921-gate-breaker-ascension.json](./412921-gate-breaker-ascension.json) |
 | Gate Builders | 197414 | [197414-gate-builders.json](./197414-gate-builders.json) |
 | Gate Guard Simulator | 380943 | [380943-gate-guard-simulator.json](./380943-gate-guard-simulator.json) |
+| Gate Guardian | 302855 | [302855-gate-guardian.json](./302855-gate-guardian.json) |
 | Gate Keepers | 69303 | [69303-gate-keepers.json](./69303-gate-keepers.json) |
 | Gate of Doom | 46847 | [46847-gate-of-doom.json](./46847-gate-of-doom.json) |
 | Gate of Gates | 406750 | [406750-gate-of-gates.json](./406750-gate-of-gates.json) |
@@ -11917,6 +11919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns Cant Walk | 365365 | [365365-guns-cant-walk.json](./365365-guns-cant-walk.json) |
 | Guns Craft | 368716 | [368716-guns-craft.json](./368716-guns-craft.json) |
 | Guns Craft Mod | 90708 | [90708-guns-craft-mod.json](./90708-guns-craft-mod.json) |
+| Guns Demons | 302837 | [302837-guns-demons.json](./302837-guns-demons.json) |
 | Guns Girls Lawyers Spies | 70254 | [70254-guns-girls-lawyers-spies.json](./70254-guns-girls-lawyers-spies.json) |
 | Guns GirlZ | 79282 | [79282-guns-girlz.json](./79282-guns-girlz.json) |
 | Guns N Stuff | 149890 | [149890-guns-n-stuff.json](./149890-guns-n-stuff.json) |
