@@ -2957,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reactoid | 44336 | [44336-reactoid.json](./44336-reactoid.json) |
 | Reactor | 18545 | [18545-reactor.json](./18545-reactor.json) |
 | Reactor | 202884 | [202884-reactor.json](./202884-reactor.json) |
+| Reactor | 264280 | [264280-reactor.json](./264280-reactor.json) |
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
 | Reactor Critical | 406651 | [406651-reactor-critical.json](./406651-reactor-critical.json) |
 | Reactor idle | 101858 | [101858-reactor-idle.json](./101858-reactor-idle.json) |
