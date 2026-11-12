@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halves | 235720 | [235720-halves.json](./235720-halves.json) |
 | Halzae: Heroes of Divinity | 112500 | [112500-halzae-heroes-of-divinity.json](./112500-halzae-heroes-of-divinity.json) |
 | Ham Ham Hamsters | 375092 | [375092-ham-ham-hamsters.json](./375092-ham-ham-hamsters.json) |
+| Ham Ham Monster EX | 287260 | [287260-ham-ham-monster-ex.json](./287260-ham-ham-monster-ex.json) |
 | Ham Hole | 403358 | [403358-ham-hole.json](./403358-ham-hole.json) |
 | Ham on the Run! | 269335 | [269335-ham-on-the-run.json](./269335-ham-on-the-run.json) |
 | Ham Supi | 199769 | [199769-ham-supi.json](./199769-ham-supi.json) |
@@ -1420,6 +1421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand-me-downs | 373139 | [373139-hand-me-downs.json](./373139-hand-me-downs.json) |
 | Hand2Hand Project | 237731 | [237731-hand2hand-project.json](./237731-hand2hand-project.json) |
 | Handball | 18391 | [18391-handball.json](./18391-handball.json) |
+| Handball | 287286 | [287286-handball.json](./287286-handball.json) |
 | Handball 16 | 34927 | [34927-handball-16.json](./34927-handball-16.json) |
 | Handball 17 | 31316 | [31316-handball-17.json](./31316-handball-17.json) |
 | Handball 21 | 138631 | [138631-handball-21.json](./138631-handball-21.json) |
@@ -9258,6 +9260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey | 131074 | [131074-hockey.json](./131074-hockey.json) |
 | Hockey | 175898 | [175898-hockey.json](./175898-hockey.json) |
 | Hockey | 18585 | [18585-hockey.json](./18585-hockey.json) |
+| Hockey | 287288 | [287288-hockey.json](./287288-hockey.json) |
 | Hockey | 68153 | [68153-hockey.json](./68153-hockey.json) |
 | Hockey / Tennis | 380797 | [380797-hockey-tennis.json](./380797-hockey-tennis.json) |
 | Hockey Agent | 244802 | [244802-hockey-agent.json](./244802-hockey-agent.json) |
