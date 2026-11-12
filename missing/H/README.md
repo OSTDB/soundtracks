@@ -1676,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haparoot | 405343 | [405343-haparoot.json](./405343-haparoot.json) |
 | Hapax | 61687 | [61687-hapax.json](./61687-hapax.json) |
 | Hapervil | 410714 | [410714-hapervil.json](./410714-hapervil.json) |
+| Haphazard Angel | 251872 | [251872-haphazard-angel.json](./251872-haphazard-angel.json) |
 | Hapland 2 | 335873 | [335873-hapland-2.json](./335873-hapland-2.json) |
 | Hapland 3 | 336009 | [336009-hapland-3.json](./336009-hapland-3.json) |
 | Hapland Trilogy | 164044 | [164044-hapland-trilogy.json](./164044-hapland-trilogy.json) |
@@ -8727,6 +8728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Himiko-Den Renge | 58779 | [58779-himiko-den-renge.json](./58779-himiko-den-renge.json) |
 | Himiko: I Must Kill Chikushoumaru | 82790 | [82790-himiko-i-must-kill-chikushoumaru.json](./82790-himiko-i-must-kill-chikushoumaru.json) |
 | Himiko's Journey | 270535 | [270535-himikos-journey.json](./270535-himikos-journey.json) |
+| Himiko's Quest | 251883 | [251883-himikos-quest.json](./251883-himikos-quest.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan | 80246 | [80246-himitsu-chouhou-buin-00nanako-chan.json](./80246-himitsu-chouhou-buin-00nanako-chan.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan II | 66055 | [66055-himitsu-chouhou-buin-00nanako-chan-ii.json](./66055-himitsu-chouhou-buin-00nanako-chan-ii.json) |
 | Himitsu Chouhou Buin: 00Nanako-chan III | 85875 | [85875-himitsu-chouhou-buin-00nanako-chan-iii.json](./85875-himitsu-chouhou-buin-00nanako-chan-iii.json) |
@@ -11678,6 +11680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Barcelona | 125125 | [125125-hotel-barcelona.json](./125125-hotel-barcelona.json) |
 | Hotel Blind | 33139 | [33139-hotel-blind.json](./33139-hotel-blind.json) |
 | Hotel Blue Rose no 99 no Heya | 330989 | [330989-hotel-blue-rose-no-99-no-heya.json](./330989-hotel-blue-rose-no-99-no-heya.json) |
+| Hotel Boom! | 251789 | [251789-hotel-boom.json](./251789-hotel-boom.json) |
 | Hotel Builder | 217168 | [217168-hotel-builder.json](./217168-hotel-builder.json) |
 | Hotel City | 182312 | [182312-hotel-city.json](./182312-hotel-city.json) |
 | Hotel Clover | 263984 | [263984-hotel-clover.json](./263984-hotel-clover.json) |
