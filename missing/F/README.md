@@ -6767,6 +6767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Response | 150831 | [150831-first-response.json](./150831-first-response.json) |
 | First Samurai | 71214 | [71214-first-samurai.json](./71214-first-samurai.json) |
 | First Samurai 64 | 356291 | [356291-first-samurai-64.json](./356291-first-samurai-64.json) |
+| First Sexy Night | 286744 | [286744-first-sexy-night.json](./286744-first-sexy-night.json) |
 | First Sexy Night 2: Second Date | 235760 | [235760-first-sexy-night-2-second-date.json](./235760-first-sexy-night-2-second-date.json) |
 | First Sino-Japanese War | 391140 | [391140-first-sino-japanese-war.json](./391140-first-sino-japanese-war.json) |
 | First Snow | 132765 | [132765-first-snow.json](./132765-first-snow.json) |
@@ -6827,6 +6828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish | 382202 | [382202-fish.json](./382202-fish.json) |
 | Fish 'n Ships | 349472 | [349472-fish-n-ships.json](./349472-fish-n-ships.json) |
 | Fish 'N' Chips | 246832 | [246832-fish-n-chips.json](./246832-fish-n-chips.json) |
+| Fish & Bubbles | 286707 | [286707-fish-and-bubbles.json](./286707-fish-and-bubbles.json) |
 | Fish & Hike | 404581 | [404581-fish-and-hike.json](./404581-fish-and-hike.json) |
 | Fish & Trip | 97492 | [97492-fish-and-trip.json](./97492-fish-and-trip.json) |
 | Fish and Chill | 349795 | [349795-fish-and-chill.json](./349795-fish-and-chill.json) |
@@ -13850,6 +13852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Fusion | 60254 | [60254-fruit-fusion.json](./60254-fruit-fusion.json) |
 | Fruit Fusion! | 384197 | [384197-fruit-fusion.json](./384197-fruit-fusion.json) |
 | Fruit Game | 291387 | [291387-fruit-game.json](./291387-fruit-game.json) |
+| Fruit Girls 2: Hentai Jigsaw Photo Studio | 286704 | [286704-fruit-girls-2-hentai-jigsaw-photo-studio.json](./286704-fruit-girls-2-hentai-jigsaw-photo-studio.json) |
 | Fruit Golf | 34363 | [34363-fruit-golf.json](./34363-fruit-golf.json) |
 | Fruit Hoop | 103765 | [103765-fruit-hoop.json](./103765-fruit-hoop.json) |
 | Fruit Hoop 2 | 358311 | [358311-fruit-hoop-2.json](./358311-fruit-hoop-2.json) |
@@ -14717,6 +14720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Backrooms | 291775 | [291775-furry-backrooms.json](./291775-furry-backrooms.json) |
 | Furry BDSM | 256988 | [256988-furry-bdsm.json](./256988-furry-bdsm.json) |
 | Furry Boss | 215891 | [215891-furry-boss.json](./215891-furry-boss.json) |
+| Furry Boys Jigsaw | 286715 | [286715-furry-boys-jigsaw.json](./286715-furry-boys-jigsaw.json) |
 | Furry Came-a-Lot | 374050 | [374050-furry-came-a-lot.json](./374050-furry-came-a-lot.json) |
 | Furry Chronicles | 115612 | [115612-furry-chronicles.json](./115612-furry-chronicles.json) |
 | Furry College | 399871 | [399871-furry-college.json](./399871-furry-college.json) |
@@ -14743,6 +14747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry from Outer Space | 310485 | [310485-furry-from-outer-space.json](./310485-furry-from-outer-space.json) |
 | Furry Furries | 244386 | [244386-furry-furries.json](./244386-furry-furries.json) |
 | Furry Futa | 239340 | [239340-furry-futa.json](./239340-furry-futa.json) |
+| Furry Futanari Jigsaw | 286716 | [286716-furry-futanari-jigsaw.json](./286716-furry-futanari-jigsaw.json) |
 | Furry Futanari Jigsaw 2 | 259118 | [259118-furry-futanari-jigsaw-2.json](./259118-furry-futanari-jigsaw-2.json) |
 | Furry Futanari: 3 in 1 | 367042 | [367042-furry-futanari-3-in-1.json](./367042-furry-futanari-3-in-1.json) |
 | Furry Girl Puzzle | 281345 | [281345-furry-girl-puzzle.json](./281345-furry-girl-puzzle.json) |
@@ -14751,6 +14756,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Glory | 227441 | [227441-furry-glory.json](./227441-furry-glory.json) |
 | Furry Hearts | 394979 | [394979-furry-hearts.json](./394979-furry-hearts.json) |
 | Furry Hentai Isekai | 201587 | [201587-furry-hentai-isekai.json](./201587-furry-hentai-isekai.json) |
+| Furry Hentai Jigsaw | 286717 | [286717-furry-hentai-jigsaw.json](./286717-furry-hentai-jigsaw.json) |
+| Furry Hentai Jigsaw 2 | 286718 | [286718-furry-hentai-jigsaw-2.json](./286718-furry-hentai-jigsaw-2.json) |
 | Furry Hentai Quest | 192460 | [192460-furry-hentai-quest.json](./192460-furry-hentai-quest.json) |
 | Furry Heroes | 150431 | [150431-furry-heroes.json](./150431-furry-heroes.json) |
 | Furry Hitler | 205664 | [205664-furry-hitler.json](./205664-furry-hitler.json) |
