@@ -10333,6 +10333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Ninja's Noir | 281572 | [281572-honkai-impact-3rd-ninjas-noir.json](./281572-honkai-impact-3rd-ninjas-noir.json) |
 | Honkai Impact 3rd: Outworld Traveler | 279424 | [279424-honkai-impact-3rd-outworld-traveler.json](./279424-honkai-impact-3rd-outworld-traveler.json) |
 | Honkai Impact 3rd: Part 1 - The Moon's Origin and Finality | 254239 | [254239-honkai-impact-3rd-part-1-the-moons-origin-and-finality.json](./254239-honkai-impact-3rd-part-1-the-moons-origin-and-finality.json) |
+| Honkai Impact 3rd: Part 1.5 - Dance of Life and Death | 269732 | [269732-honkai-impact-3rd-part-1-5-dance-of-life-and-death.json](./269732-honkai-impact-3rd-part-1-5-dance-of-life-and-death.json) |
 | Honkai Impact 3rd: Part 2 - Extinguished Starlight and Rekindled Fire | 269737 | [269737-honkai-impact-3rd-part-2-extinguished-starlight-and-rekindled-fire.json](./269737-honkai-impact-3rd-part-2-extinguished-starlight-and-rekindled-fire.json) |
 | Honkai Impact 3rd: Passage to New Dawns | 393908 | [393908-honkai-impact-3rd-passage-to-new-dawns.json](./393908-honkai-impact-3rd-passage-to-new-dawns.json) |
 | Honkai Impact 3rd: Planetary Rewind | 319450 | [319450-honkai-impact-3rd-planetary-rewind.json](./319450-honkai-impact-3rd-planetary-rewind.json) |
