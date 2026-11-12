@@ -10908,6 +10908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror of Cridewell | 228662 | [228662-horror-of-cridewell.json](./228662-horror-of-cridewell.json) |
 | Horror of Minos | 178346 | [178346-horror-of-minos.json](./178346-horror-of-minos.json) |
 | Horror of the Deep | 30127 | [30127-horror-of-the-deep.json](./30127-horror-of-the-deep.json) |
+| Horror of the High Seas: Episode 4 - Pirate Ship of Fools | 299638 | [299638-horror-of-the-high-seas-episode-4-pirate-ship-of-fools.json](./299638-horror-of-the-high-seas-episode-4-pirate-ship-of-fools.json) |
 | Horror of Victim | 293484 | [293484-horror-of-victim.json](./293484-horror-of-victim.json) |
 | Horror Office | 319232 | [319232-horror-office.json](./319232-horror-office.json) |
 | Horror Park of Willie Mouse | 326694 | [326694-horror-park-of-willie-mouse.json](./326694-horror-park-of-willie-mouse.json) |
@@ -11688,6 +11689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houkago Cinderella 2 Mini Fandisk: Kimi to Odoru Hajimete no Happy Halloween | 377773 | [377773-houkago-cinderella-2-mini-fandisk-kimi-to-odoru-hajimete-no-happy-halloween.json](./377773-houkago-cinderella-2-mini-fandisk-kimi-to-odoru-hajimete-no-happy-halloween.json) |
 | Houkago Cinderella Mini Fandisk: Anata to Kaeru Saigo no Gekoudou | 377772 | [377772-houkago-cinderella-mini-fandisk-anata-to-kaeru-saigo-no-gekoudou.json](./377772-houkago-cinderella-mini-fandisk-anata-to-kaeru-saigo-no-gekoudou.json) |
 | Houkago Cinderella: Complete Limited Edition | 182479 | [182479-houkago-cinderella-complete-limited-edition.json](./182479-houkago-cinderella-complete-limited-edition.json) |
+| Houkago Fight Club | 299633 | [299633-houkago-fight-club.json](./299633-houkago-fight-club.json) |
 | Houkago Girls Tribe | 55928 | [55928-houkago-girls-tribe.json](./55928-houkago-girls-tribe.json) |
 | Houkago no Futekikakusha | 375768 | [375768-houkago-no-futekikakusha.json](./375768-houkago-no-futekikakusha.json) |
 | Houkago no Senpai | 127961 | [127961-houkago-no-senpai.json](./127961-houkago-no-senpai.json) |
