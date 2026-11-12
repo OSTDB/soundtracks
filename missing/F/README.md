@@ -9354,6 +9354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Candy | 379123 | [379123-flying-candy.json](./379123-flying-candy.json) |
 | Flying Car Robot Flight Drive Simulator Game 2017 | 86854 | [86854-flying-car-robot-flight-drive-simulator-game-2017.json](./86854-flying-car-robot-flight-drive-simulator-game-2017.json) |
 | Flying Car Transport Simulator | 251340 | [251340-flying-car-transport-simulator.json](./251340-flying-car-transport-simulator.json) |
+| Flying Carpets Over Shark Infested Waters | 249969 | [249969-flying-carpets-over-shark-infested-waters.json](./249969-flying-carpets-over-shark-infested-waters.json) |
 | Flying Cat | 282147 | [282147-flying-cat.json](./282147-flying-cat.json) |
 | Flying Champ | 56009 | [56009-flying-champ.json](./56009-flying-champ.json) |
 | Flying Chicken | 343490 | [343490-flying-chicken.json](./343490-flying-chicken.json) |
