@@ -5234,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erectus the Game | 115188 | [115188-erectus-the-game.json](./115188-erectus-the-game.json) |
 | Eredan Arena | 145870 | [145870-eredan-arena.json](./145870-eredan-arena.json) |
 | Eredan iTCG | 76909 | [76909-eredan-itcg.json](./76909-eredan-itcg.json) |
+| Eredia 2: The Great War | 266437 | [266437-eredia-2-the-great-war.json](./266437-eredia-2-the-great-war.json) |
 | Eredia: The Diary of Heroes | 90718 | [90718-eredia-the-diary-of-heroes.json](./90718-eredia-the-diary-of-heroes.json) |
 | Erefia | 44212 | [44212-erefia.json](./44212-erefia.json) |
 | Eremidia: Archivist's Curse | 208588 | [208588-eremidia-archivists-curse.json](./208588-eremidia-archivists-curse.json) |
@@ -7013,6 +7014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Indian Ships Unit Pack | 155325 | [155325-europa-universalis-iv-indian-ships-unit-pack.json](./155325-europa-universalis-iv-indian-ships-unit-pack.json) |
 | Europa Universalis IV: Indian Subcontinent Unit Pack | 155326 | [155326-europa-universalis-iv-indian-subcontinent-unit-pack.json](./155326-europa-universalis-iv-indian-subcontinent-unit-pack.json) |
 | Europa Universalis IV: Japan History Lessons | 254280 | [254280-europa-universalis-iv-japan-history-lessons.json](./254280-europa-universalis-iv-japan-history-lessons.json) |
+| Europa Universalis IV: King of Kings - Immersion Pack | 266453 | [266453-europa-universalis-iv-king-of-kings-immersion-pack.json](./266453-europa-universalis-iv-king-of-kings-immersion-pack.json) |
 | Europa Universalis IV: Leviathan | 149954 | [149954-europa-universalis-iv-leviathan.json](./149954-europa-universalis-iv-leviathan.json) |
 | Europa Universalis IV: Lions of the North | 215925 | [215925-europa-universalis-iv-lions-of-the-north.json](./215925-europa-universalis-iv-lions-of-the-north.json) |
 | Europa Universalis IV: Mandate of Heaven | 27520 | [27520-europa-universalis-iv-mandate-of-heaven.json](./27520-europa-universalis-iv-mandate-of-heaven.json) |
