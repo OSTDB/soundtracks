@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halo Chaotic Edition | 271760 | [271760-halo-chaotic-edition.json](./271760-halo-chaotic-edition.json) |
 | Halo DS | 228921 | [228921-halo-ds.json](./228921-halo-ds.json) |
 | Halo Infinite Operation: Frontlines | 335760 | [335760-halo-infinite-operation-frontlines.json](./335760-halo-infinite-operation-frontlines.json) |
+| Halo Infinite: CU29 | 283342 | [283342-halo-infinite-cu29.json](./283342-halo-infinite-cu29.json) |
 | Halo Infinite: Operation - Brute Force | 335763 | [335763-halo-infinite-operation-brute-force.json](./335763-halo-infinite-operation-brute-force.json) |
 | Halo Infinite: Operation - Champions | 335851 | [335851-halo-infinite-operation-champions.json](./335851-halo-infinite-operation-champions.json) |
 | Halo Infinite: Operation - Forerunner | 339393 | [339393-halo-infinite-operation-forerunner.json](./339393-halo-infinite-operation-forerunner.json) |
@@ -3398,6 +3399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeadBangers: Pigeon Pass | 269380 | [269380-headbangers-pigeon-pass.json](./269380-headbangers-pigeon-pass.json) |
 | HeadBangers: Rhythm Royale - Digital Deluxe Edition | 269379 | [269379-headbangers-rhythm-royale-digital-deluxe-edition.json](./269379-headbangers-rhythm-royale-digital-deluxe-edition.json) |
 | Headbutt Factory | 118507 | [118507-headbutt-factory.json](./118507-headbutt-factory.json) |
+| Headcase | 282855 | [282855-headcase.json](./282855-headcase.json) |
 | HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
 | Headcrab Frenzy! | 127926 | [127926-headcrab-frenzy.json](./127926-headcrab-frenzy.json) |
 | Headcrab Invasion | 102008 | [102008-headcrab-invasion.json](./102008-headcrab-invasion.json) |
@@ -3543,6 +3545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Keeper | 342634 | [342634-heart-keeper.json](./342634-heart-keeper.json) |
 | Heart Knots | 138022 | [138022-heart-knots.json](./138022-heart-knots.json) |
 | Heart Lake | 204147 | [204147-heart-lake.json](./204147-heart-lake.json) |
+| Heart Like a Wheel | 282772 | [282772-heart-like-a-wheel.json](./282772-heart-like-a-wheel.json) |
 | Heart Love Power Temple | 194754 | [194754-heart-love-power-temple.json](./194754-heart-love-power-temple.json) |
 | Heart Maze | 40994 | [40994-heart-maze.json](./40994-heart-maze.json) |
 | Heart no Kuni no Alice: Wonderful Twin World | 218642 | [218642-heart-no-kuni-no-alice-wonderful-twin-world.json](./218642-heart-no-kuni-no-alice-wonderful-twin-world.json) |
