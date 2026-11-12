@@ -7434,6 +7434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gooba Ball | 300696 | [300696-gooba-ball.json](./300696-gooba-ball.json) |
 | GooBall | 146187 | [146187-gooball.json](./146187-gooball.json) |
 | Goober Arena | 320378 | [320378-goober-arena.json](./320378-goober-arena.json) |
+| Goober Dash | 276353 | [276353-goober-dash.json](./276353-goober-dash.json) |
 | Goober Shooter 2 | 400097 | [400097-goober-shooter-2.json](./400097-goober-shooter-2.json) |
 | Goober Shot | 308065 | [308065-goober-shot.json](./308065-goober-shot.json) |
 | Gooberries | 119865 | [119865-gooberries.json](./119865-gooberries.json) |
@@ -10632,6 +10633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groups of Seven | 335861 | [335861-groups-of-seven.json](./335861-groups-of-seven.json) |
 | Groupthink | 132576 | [132576-groupthink.json](./132576-groupthink.json) |
 | Grove | 274877 | [274877-grove.json](./274877-grove.json) |
+| Grove | 276362 | [276362-grove.json](./276362-grove.json) |
 | Grove Fisher | 330680 | [330680-grove-fisher.json](./330680-grove-fisher.json) |
 | Grove flowers | 115381 | [115381-grove-flowers.json](./115381-grove-flowers.json) |
 | Grove Grown Guardians | 310993 | [310993-grove-grown-guardians.json](./310993-grove-grown-guardians.json) |
