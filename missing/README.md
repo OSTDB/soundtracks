@@ -34,9 +34,9 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 | 20 | **Pokémon Snap** | [🔎 Find on Spotify](https://open.spotify.com/search/Pok%C3%A9mon%20Snap%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/P/2324-pokemon-snap.json) |
 | 21 | **Company of Heroes** | [🔎 Find on Spotify](https://open.spotify.com/search/Company%20of%20Heroes%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/654-company-of-heroes.json) |
 | 22 | **Dark Messiah of Might and Magic** | [🔎 Find on Spotify](https://open.spotify.com/search/Dark%20Messiah%20of%20Might%20and%20Magic%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/2369-dark-messiah-of-might-and-magic.json) |
-| 23 | **Star Wars: The Old Republic** | [🔎 Find on Spotify](https://open.spotify.com/search/Star%20Wars%3A%20The%20Old%20Republic%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/114-star-wars-the-old-republic.json) |
-| 24 | **Dragon Ball FighterZ** | [🔎 Find on Spotify](https://open.spotify.com/search/Dragon%20Ball%20FighterZ%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/36911-dragon-ball-fighterz.json) |
-| 25 | **Sniper Elite V2** | [🔎 Find on Spotify](https://open.spotify.com/search/Sniper%20Elite%20V2%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/3078-sniper-elite-v2.json) |
+| 23 | **Sniper Elite V2** | [🔎 Find on Spotify](https://open.spotify.com/search/Sniper%20Elite%20V2%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/3078-sniper-elite-v2.json) |
+| 24 | **Star Wars: The Old Republic** | [🔎 Find on Spotify](https://open.spotify.com/search/Star%20Wars%3A%20The%20Old%20Republic%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/114-star-wars-the-old-republic.json) |
+| 25 | **Dragon Ball FighterZ** | [🔎 Find on Spotify](https://open.spotify.com/search/Dragon%20Ball%20FighterZ%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/36911-dragon-ball-fighterz.json) |
 | 26 | **Crysis Warhead** | [🔎 Find on Spotify](https://open.spotify.com/search/Crysis%20Warhead%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/336-crysis-warhead.json) |
 | 27 | **The Lion King** | [🔎 Find on Spotify](https://open.spotify.com/search/The%20Lion%20King%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/3166-the-lion-king.json) |
 | 28 | **Donkey Kong Country 3: Dixie Kong's Double Trouble!** | [🔎 Find on Spotify](https://open.spotify.com/search/Donkey%20Kong%20Country%203%3A%20Dixie%20Kong's%20Double%20Trouble!%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/1094-donkey-kong-country-3-dixie-kongs-double-trouble.json) |
@@ -49,8 +49,8 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 | 35 | **Super Mario All-Stars** | [🔎 Find on Spotify](https://open.spotify.com/search/Super%20Mario%20All-Stars%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/5199-super-mario-all-stars.json) |
 | 36 | **S.T.A.L.K.E.R.: Clear Sky** | [🔎 Find on Spotify](https://open.spotify.com/search/S.T.A.L.K.E.R.%3A%20Clear%20Sky%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/4840-s-t-a-l-k-e-r-clear-sky.json) |
 | 37 | **Quake 4** | [🔎 Find on Spotify](https://open.spotify.com/search/Quake%204%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/Q/356-quake-4.json) |
-| 38 | **Crazy Taxi** | [🔎 Find on Spotify](https://open.spotify.com/search/Crazy%20Taxi%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/1805-crazy-taxi.json) |
-| 39 | **Hitman 3** | [🔎 Find on Spotify](https://open.spotify.com/search/Hitman%203%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/H/134595-hitman-3.json) |
+| 38 | **Hitman 3** | [🔎 Find on Spotify](https://open.spotify.com/search/Hitman%203%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/H/134595-hitman-3.json) |
+| 39 | **Crazy Taxi** | [🔎 Find on Spotify](https://open.spotify.com/search/Crazy%20Taxi%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/1805-crazy-taxi.json) |
 | 40 | **Duke Nukem Forever** | [🔎 Find on Spotify](https://open.spotify.com/search/Duke%20Nukem%20Forever%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/490-duke-nukem-forever.json) |
 | 41 | **Duck Hunt** | [🔎 Find on Spotify](https://open.spotify.com/search/Duck%20Hunt%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/2741-duck-hunt.json) |
 | 42 | **SteamWorld Dig** | [🔎 Find on Spotify](https://open.spotify.com/search/SteamWorld%20Dig%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/5772-steamworld-dig.json) |
@@ -67,20 +67,20 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 20117 games | 20093 games | 22794 games | 21033 games | 9225 games | 15297 games | 12428 games |
+| 20120 games | 20094 games | 22797 games | 21036 games | 9225 games | 15300 games | 12430 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 13889 games | 7542 games | 4611 games | 6959 games | 11060 games | 24112 games | 8447 games |
+| 13892 games | 7543 games | 4613 games | 6959 games | 11060 games | 24117 games | 8449 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 6397 games | 20418 games | 1376 games | 14180 games | 39231 games | 36253 games | 3975 games |
+| 6397 games | 20421 games | 1376 games | 14184 games | 39236 games | 36260 games | 3975 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 4690 games | 10307 games | 1168 games | 2345 games | 2861 games | 3947 games |
+| 4690 games | 10307 games | 1169 games | 2347 games | 2861 games | 3947 games |
 
 ---
 
-_344755 games missing a soundtrack · last updated 2026-11-12T18:35:21.366Z_
+_344805 games missing a soundtrack · last updated 2026-11-12T18:52:08.414Z_
