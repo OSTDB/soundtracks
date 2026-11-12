@@ -12867,7 +12867,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelethrone: The Chronicles of Ericona - The Jewel in the Skull | 343209 | [343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json](./343209-skelethrone-the-chronicles-of-ericona-the-jewel-in-the-skull.json) |
 | Skelethrone: The Prey | 234405 | [234405-skelethrone-the-prey.json](./234405-skelethrone-the-prey.json) |
 | Skeleton Attack: Nightmare Awaken | 216739 | [216739-skeleton-attack-nightmare-awaken.json](./216739-skeleton-attack-nightmare-awaken.json) |
-| Skeleton Boomerang | 44177 | [44177-skeleton-boomerang.json](./44177-skeleton-boomerang.json) |
 | Skeleton Bros | 280042 | [280042-skeleton-bros.json](./280042-skeleton-bros.json) |
 | Skeleton Crew | 122069 | [122069-skeleton-crew.json](./122069-skeleton-crew.json) |
 | Skeleton Dungeon | 360448 | [360448-skeleton-dungeon.json](./360448-skeleton-dungeon.json) |
