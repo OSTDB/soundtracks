@@ -778,6 +778,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight Maximum Tune 5DX | 315270 | [315270-wangan-midnight-maximum-tune-5dx.json](./315270-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 5DX+ | 315271 | [315271-wangan-midnight-maximum-tune-5dx.json](./315271-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 6 | 112234 | [112234-wangan-midnight-maximum-tune-6.json](./112234-wangan-midnight-maximum-tune-6.json) |
+| Wangan Midnight Maximum Tune 6 R | 276350 | [276350-wangan-midnight-maximum-tune-6-r.json](./276350-wangan-midnight-maximum-tune-6-r.json) |
+| Wangan Midnight Maximum Tune 6 RR | 276352 | [276352-wangan-midnight-maximum-tune-6-rr.json](./276352-wangan-midnight-maximum-tune-6-rr.json) |
 | Wangan Midnight Maximum Tune 6 RR+ | 315272 | [315272-wangan-midnight-maximum-tune-6-rr.json](./315272-wangan-midnight-maximum-tune-6-rr.json) |
 | Wangan Midnight Portable | 269511 | [269511-wangan-midnight-portable.json](./269511-wangan-midnight-portable.json) |
 | Wangan Midnight: R | 215170 | [215170-wangan-midnight-r.json](./215170-wangan-midnight-r.json) |
