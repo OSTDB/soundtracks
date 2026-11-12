@@ -10661,6 +10661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash of Seven Heroes | 368284 | [368284-clash-of-seven-heroes.json](./368284-clash-of-seven-heroes.json) |
 | Clash of Sky | 196551 | [196551-clash-of-sky.json](./196551-clash-of-sky.json) |
 | Clash of Spells | 101228 | [101228-clash-of-spells.json](./101228-clash-of-spells.json) |
+| Clash of Stars | 253560 | [253560-clash-of-stars.json](./253560-clash-of-stars.json) |
 | Clash of Steel: World War II | 14500 | [14500-clash-of-steel-world-war-ii.json](./14500-clash-of-steel-world-war-ii.json) |
 | Clash of Steel: World War II, Europe 1939-45 | 71783 | [71783-clash-of-steel-world-war-ii-europe-1939-45.json](./71783-clash-of-steel-world-war-ii-europe-1939-45.json) |
 | Clash of Swords and Beams | 338530 | [338530-clash-of-swords-and-beams.json](./338530-clash-of-swords-and-beams.json) |
@@ -21750,6 +21751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursor*10 | 29042 | [29042-cursor-10.json](./29042-cursor-10.json) |
 | Cursor*10: 2nd session | 246712 | [246712-cursor-10-2nd-session.json](./246712-cursor-10-2nd-session.json) |
 | Cursor0x0 | 218811 | [218811-cursor0x0.json](./218811-cursor0x0.json) |
+| Cursorblade | 253629 | [253629-cursorblade.json](./253629-cursorblade.json) |
 | Cursorcana | 343240 | [343240-cursorcana.json](./343240-cursorcana.json) |
 | CursorLublub | 334207 | [334207-cursorlublub.json](./334207-cursorlublub.json) |
 | Cursors.io | 133703 | [133703-cursors-io.json](./133703-cursors-io.json) |
