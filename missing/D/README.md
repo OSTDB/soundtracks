@@ -19485,6 +19485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Create | 265139 | [265139-dungeon-create.json](./265139-dungeon-create.json) |
 | Dungeon Creator | 241999 | [241999-dungeon-creator.json](./241999-dungeon-creator.json) |
 | Dungeon Creepster | 29379 | [29379-dungeon-creepster.json](./29379-dungeon-creepster.json) |
+| Dungeon Croaker | 267694 | [267694-dungeon-croaker.json](./267694-dungeon-croaker.json) |
 | Dungeon Cross | 221251 | [221251-dungeon-cross.json](./221251-dungeon-cross.json) |
 | Dungeon Crusher Kiritan | 138640 | [138640-dungeon-crusher-kiritan.json](./138640-dungeon-crusher-kiritan.json) |
 | Dungeon Crusher: Soul Hunters | 142999 | [142999-dungeon-crusher-soul-hunters.json](./142999-dungeon-crusher-soul-hunters.json) |
