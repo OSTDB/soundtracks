@@ -2376,12 +2376,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electron Zaraftor | 276295 | [276295-electron-zaraftor.json](./276295-electron-zaraftor.json) |
 | Electronauts | 81056 | [81056-electronauts.json](./81056-electronauts.json) |
 | Electronia | 55918 | [55918-electronia.json](./55918-electronia.json) |
+| Electronic Baseball | 245501 | [245501-electronic-baseball.json](./245501-electronic-baseball.json) |
+| Electronic Baseball 2 | 245500 | [245500-electronic-baseball-2.json](./245500-electronic-baseball-2.json) |
 | Electronic Billiards | 79584 | [79584-electronic-billiards.json](./79584-electronic-billiards.json) |
+| Electronic Championship Golf | 245499 | [245499-electronic-championship-golf.json](./245499-electronic-championship-golf.json) |
 | Electronic City Tycoon | 212504 | [212504-electronic-city-tycoon.json](./212504-electronic-city-tycoon.json) |
 | Electronic Evolution | 217153 | [217153-electronic-evolution.json](./217153-electronic-evolution.json) |
 | Electronic Football | 225531 | [225531-electronic-football.json](./225531-electronic-football.json) |
 | Electronic Hand-Held Connect Four | 233610 | [233610-electronic-hand-held-connect-four.json](./233610-electronic-hand-held-connect-four.json) |
 | Electronic Hand-Held Monopoly | 233988 | [233988-electronic-hand-held-monopoly.json](./233988-electronic-hand-held-monopoly.json) |
+| Electronic Hockey | 245498 | [245498-electronic-hockey.json](./245498-electronic-hockey.json) |
+| Electronic Hockey 2 | 245497 | [245497-electronic-hockey-2.json](./245497-electronic-hockey-2.json) |
 | Electronic Market Simulator | 312456 | [312456-electronic-market-simulator.json](./312456-electronic-market-simulator.json) |
 | Electronic Popple | 69662 | [69662-electronic-popple.json](./69662-electronic-popple.json) |
 | Electronic Power House Pinball | 245494 | [245494-electronic-power-house-pinball.json](./245494-electronic-power-house-pinball.json) |
@@ -8396,6 +8401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoCorps | 121018 | [121018-exocorps.json](./121018-exocorps.json) |
 | Exocraft | 115166 | [115166-exocraft.json](./115166-exocraft.json) |
 | Exocraft.io | 86380 | [86380-exocraft-io.json](./86380-exocraft-io.json) |
+| ExoCross | 245597 | [245597-exocross.json](./245597-exocross.json) |
 | Exodemic | 197152 | [197152-exodemic.json](./197152-exodemic.json) |
 | Exodemon | 27740 | [27740-exodemon.json](./27740-exodemon.json) |
 | Exoder | 98767 | [98767-exoder.json](./98767-exoder.json) |
