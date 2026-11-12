@@ -17747,6 +17747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 3 | 141634 | [141634-the-sims-3.json](./141634-the-sims-3.json) |
 | The Sims 3 | 248566 | [248566-the-sims-3.json](./248566-the-sims-3.json) |
 | The Sims 3 | 248567 | [248567-the-sims-3.json](./248567-the-sims-3.json) |
+| The Sims 3 | 264365 | [264365-the-sims-3.json](./264365-the-sims-3.json) |
 | The Sims 3: 70s, 80s, & 90s Stuff | 13124 | [13124-the-sims-3-70s-80s-and-90s-stuff.json](./13124-the-sims-3-70s-80s-and-90s-stuff.json) |
 | The Sims 3: Ambitions | 13098 | [13098-the-sims-3-ambitions.json](./13098-the-sims-3-ambitions.json) |
 | The Sims 3: Aurora Skies | 14583 | [14583-the-sims-3-aurora-skies.json](./14583-the-sims-3-aurora-skies.json) |
@@ -22255,6 +22256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder of the DemonKing | 352110 | [352110-thunder-of-the-demonking.json](./352110-thunder-of-the-demonking.json) |
 | Thunder Offshore | 64756 | [64756-thunder-offshore.json](./64756-thunder-offshore.json) |
 | Thunder Paw | 117445 | [117445-thunder-paw.json](./117445-thunder-paw.json) |
+| Thunder Rally | 264368 | [264368-thunder-rally.json](./264368-thunder-rally.json) |
 | Thunder Rally | 99083 | [99083-thunder-rally.json](./99083-thunder-rally.json) |
 | Thunder Ray | 201592 | [201592-thunder-ray.json](./201592-thunder-ray.json) |
 | Thunder Ray: Forgotten Duels | 288274 | [288274-thunder-ray-forgotten-duels.json](./288274-thunder-ray-forgotten-duels.json) |
