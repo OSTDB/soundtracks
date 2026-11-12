@@ -146,6 +146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R/C Stunt Copter | 44953 | [44953-r-c-stunt-copter.json](./44953-r-c-stunt-copter.json) |
 | R/nosleep: The Night Shift at Paradise Valley Pool | 326899 | [326899-r-nosleep-the-night-shift-at-paradise-valley-pool.json](./326899-r-nosleep-the-night-shift-at-paradise-valley-pool.json) |
 | R&Dy | 254940 | [254940-r-and-dy.json](./254940-r-and-dy.json) |
+| R0: Concourse of Conquest | 296711 | [296711-r0-concourse-of-conquest.json](./296711-r0-concourse-of-conquest.json) |
 | R00000 | 260309 | [260309-r00000.json](./260309-r00000.json) |
 | R00m | 199862 | [199862-r00m.json](./199862-r00m.json) |
 | R0x | 182917 | [182917-r0x.json](./182917-r0x.json) |
@@ -1802,6 +1803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramen Heaven | 209318 | [209318-ramen-heaven.json](./209318-ramen-heaven.json) |
 | Ramen in the 90's | 141190 | [141190-ramen-in-the-90s.json](./141190-ramen-in-the-90s.json) |
 | Ramen no Megami | 283716 | [283716-ramen-no-megami.json](./283716-ramen-no-megami.json) |
+| Ramen Oil Simulator | 296292 | [296292-ramen-oil-simulator.json](./296292-ramen-oil-simulator.json) |
 | Ramen or Jail | 190992 | [190992-ramen-or-jail.json](./190992-ramen-or-jail.json) |
 | Ramen Shop Simulator | 337287 | [337287-ramen-shop-simulator.json](./337287-ramen-shop-simulator.json) |
 | Ramen Simulator | 339984 | [339984-ramen-simulator.json](./339984-ramen-simulator.json) |
@@ -3718,6 +3720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn to Veer | 236244 | [236244-reborn-to-veer.json](./236244-reborn-to-veer.json) |
 | Reborn Tribe | 189253 | [189253-reborn-tribe.json](./189253-reborn-tribe.json) |
 | Reborn: Dragona PH | 296412 | [296412-reborn-dragona-ph.json](./296412-reborn-dragona-ph.json) |
+| Reborn: Episode 1 - New Life | 296702 | [296702-reborn-episode-1-new-life.json](./296702-reborn-episode-1-new-life.json) |
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
 | Reborn: Fate of Gods | 216953 | [216953-reborn-fate-of-gods.json](./216953-reborn-fate-of-gods.json) |
 | Reborn: New Life | 396590 | [396590-reborn-new-life.json](./396590-reborn-new-life.json) |
@@ -8405,6 +8408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Immortals | 1053 | [1053-rise-of-immortals.json](./1053-rise-of-immortals.json) |
 | Rise of Immortals: Battle for Graxia | 2046 | [2046-rise-of-immortals-battle-for-graxia.json](./2046-rise-of-immortals-battle-for-graxia.json) |
 | Rise of Incarnates | 14704 | [14704-rise-of-incarnates.json](./14704-rise-of-incarnates.json) |
+| Rise of Industry 2 | 296295 | [296295-rise-of-industry-2.json](./296295-rise-of-industry-2.json) |
 | Rise of Industry: 2130 | 154521 | [154521-rise-of-industry-2130.json](./154521-rise-of-industry-2130.json) |
 | Rise of Jericho | 248027 | [248027-rise-of-jericho.json](./248027-rise-of-jericho.json) |
 | Rise of Keepers | 33994 | [33994-rise-of-keepers.json](./33994-rise-of-keepers.json) |
@@ -8622,6 +8626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risk of Rain 2 + Survivors of the Void + Seekers of the Storm Bundle | 317682 | [317682-risk-of-rain-2-survivors-of-the-void-seekers-of-the-storm-bundle.json](./317682-risk-of-rain-2-survivors-of-the-void-seekers-of-the-storm-bundle.json) |
 | Risk of Rain 2: Aetherium | 310531 | [310531-risk-of-rain-2-aetherium.json](./310531-risk-of-rain-2-aetherium.json) |
 | Risk of Rain 2: Alloyed Collective | 343014 | [343014-risk-of-rain-2-alloyed-collective.json](./343014-risk-of-rain-2-alloyed-collective.json) |
+| Risk of Rain 2: Devotion | 296833 | [296833-risk-of-rain-2-devotion.json](./296833-risk-of-rain-2-devotion.json) |
 | Risk of Rain 2: Devotion Update | 306700 | [306700-risk-of-rain-2-devotion-update.json](./306700-risk-of-rain-2-devotion-update.json) |
 | Risk of Rain 2: Hallowed Concepts | 397819 | [397819-risk-of-rain-2-hallowed-concepts.json](./397819-risk-of-rain-2-hallowed-concepts.json) |
 | Risk of Rain 2: Seekers of the Storm | 276287 | [276287-risk-of-rain-2-seekers-of-the-storm.json](./276287-risk-of-rain-2-seekers-of-the-storm.json) |
@@ -12315,6 +12320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Block | 269309 | [269309-royal-block.json](./269309-royal-block.json) |
 | Royal Blood II | 65594 | [65594-royal-blood-ii.json](./65594-royal-blood-ii.json) |
 | Royal Booty Quest | 111692 | [111692-royal-booty-quest.json](./111692-royal-booty-quest.json) |
+| Royal Card Clash | 296701 | [296701-royal-card-clash.json](./296701-royal-card-clash.json) |
 | Royal Casino: Video Poker | 80926 | [80926-royal-casino-video-poker.json](./80926-royal-casino-video-poker.json) |
 | Royal Challenge Solitaire | 54329 | [54329-royal-challenge-solitaire.json](./54329-royal-challenge-solitaire.json) |
 | Royal Chaos | 105798 | [105798-royal-chaos.json](./105798-royal-chaos.json) |
