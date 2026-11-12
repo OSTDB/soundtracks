@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerm the Worm | 149331 | [149331-nerm-the-worm.json](./149331-nerm-the-worm.json) |
 | Nero | 156570 | [156570-nero.json](./156570-nero.json) |
 | Nero | 388074 | [388074-nero.json](./388074-nero.json) |
+| Néro & Sci ∫ Integral Edition | 298470 | [298470-nero-and-sci-integral-edition.json](./298470-nero-and-sci-integral-edition.json) |
 | Nero E Rosso ~Kane no Tame ni Kane wa Naru 2 | 82686 | [82686-nero-e-rosso-kane-no-tame-ni-kane-wa-naru-2.json](./82686-nero-e-rosso-kane-no-tame-ni-kane-wa-naru-2.json) |
 | NERO: Neuro-Evolving Robotic Operatives | 7616 | [7616-nero-neuro-evolving-robotic-operatives.json](./7616-nero-neuro-evolving-robotic-operatives.json) |
 | Nero's Adventure | 189795 | [189795-neros-adventure.json](./189795-neros-adventure.json) |
@@ -3414,6 +3415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Beetle Tracks and Gaps | 73608 | [73608-new-beetle-tracks-and-gaps.json](./73608-new-beetle-tracks-and-gaps.json) |
 | New Boggle Boggle | 159185 | [159185-new-boggle-boggle.json](./159185-new-boggle-boggle.json) |
 | New Bremen | 120499 | [120499-new-bremen.json](./120499-new-bremen.json) |
+| New Brooklyn Bridge Tycoon | 297964 | [297964-new-brooklyn-bridge-tycoon.json](./297964-new-brooklyn-bridge-tycoon.json) |
 | New Bust-A-Move | 64296 | [64296-new-bust-a-move.json](./64296-new-bust-a-move.json) |
 | New Campaign Trail | 313157 | [313157-new-campaign-trail.json](./313157-new-campaign-trail.json) |
 | New Carnival Games | 4057 | [4057-new-carnival-games.json](./4057-new-carnival-games.json) |
@@ -3464,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Gundam Breaker: Build G Sound Edition | 136768 | [136768-new-gundam-breaker-build-g-sound-edition.json](./136768-new-gundam-breaker-build-g-sound-edition.json) |
 | New Gundam Breaker: Gunpla Figure Premium Edition | 167159 | [167159-new-gundam-breaker-gunpla-figure-premium-edition.json](./167159-new-gundam-breaker-gunpla-figure-premium-edition.json) |
 | New Gundam Breaker: Premium Edition | 136654 | [136654-new-gundam-breaker-premium-edition.json](./136654-new-gundam-breaker-premium-edition.json) |
+| New Heaven | 297965 | [297965-new-heaven.json](./297965-new-heaven.json) |
 | New Hire | 226132 | [226132-new-hire.json](./226132-new-hire.json) |
 | New Home | 339391 | [339391-new-home.json](./339391-new-home.json) |
 | New Home: Medieval Village | 153903 | [153903-new-home-medieval-village.json](./153903-new-home-medieval-village.json) |
@@ -3912,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus Code Plus | 199949 | [199949-nexus-code-plus.json](./199949-nexus-code-plus.json) |
 | Nexus Defenders | 275978 | [275978-nexus-defenders.json](./275978-nexus-defenders.json) |
 | Nexus Defense: Desert Storm | 138360 | [138360-nexus-defense-desert-storm.json](./138360-nexus-defense-desert-storm.json) |
+| Nexus Knights | 297966 | [297966-nexus-knights.json](./297966-nexus-knights.json) |
 | Nexus Legacy | 408038 | [408038-nexus-legacy.json](./408038-nexus-legacy.json) |
 | Nexus M4 | 323475 | [323475-nexus-m4.json](./323475-nexus-m4.json) |
 | Nexus of the Dead God: The Microcosm | 406517 | [406517-nexus-of-the-dead-god-the-microcosm.json](./406517-nexus-of-the-dead-god-the-microcosm.json) |
@@ -4477,6 +4481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Blood: Avenger's Tide | 207706 | [207706-night-blood-avengers-tide.json](./207706-night-blood-avengers-tide.json) |
 | Night Bomber | 92912 | [92912-night-bomber.json](./92912-night-bomber.json) |
 | Night Bound | 313828 | [313828-night-bound.json](./313828-night-bound.json) |
+| Night Breaker | 297967 | [297967-night-breaker.json](./297967-night-breaker.json) |
 | Night Bus | 294257 | [294257-night-bus.json](./294257-night-bus.json) |
 | Night Cafe | 281422 | [281422-night-cafe.json](./281422-night-cafe.json) |
 | Night Café | 73415 | [73415-night-cafe.json](./73415-night-cafe.json) |
@@ -5258,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nimblefoot | 243527 | [243527-nimblefoot.json](./243527-nimblefoot.json) |
 | Nimbus | 238883 | [238883-nimbus.json](./238883-nimbus.json) |
 | Nimbus | 9561 | [9561-nimbus.json](./9561-nimbus.json) |
+| Nimbusfall | 297968 | [297968-nimbusfall.json](./297968-nimbusfall.json) |
 | Nimby Rails | 132749 | [132749-nimby-rails.json](./132749-nimby-rails.json) |
 | Nimian Legends: BrightRidge | 89183 | [89183-nimian-legends-brightridge.json](./89183-nimian-legends-brightridge.json) |
 | Nimillion: The Last Expedition | 296478 | [296478-nimillion-the-last-expedition.json](./296478-nimillion-the-last-expedition.json) |
@@ -5593,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Reflex: Steamworks Edition | 82011 | [82011-ninja-reflex-steamworks-edition.json](./82011-ninja-reflex-steamworks-edition.json) |
 | Ninja Relo | 208076 | [208076-ninja-relo.json](./208076-ninja-relo.json) |
 | Ninja Remix | 12172 | [12172-ninja-remix.json](./12172-ninja-remix.json) |
+| Ninja Remix | 297969 | [297969-ninja-remix.json](./297969-ninja-remix.json) |
 | Ninja Remix 16 | 59986 | [59986-ninja-remix-16.json](./59986-ninja-remix-16.json) |
 | Ninja Resurrection: A tale of Kuro | 276975 | [276975-ninja-resurrection-a-tale-of-kuro.json](./276975-ninja-resurrection-a-tale-of-kuro.json) |
 | Ninja Revenger | 345993 | [345993-ninja-revenger.json](./345993-ninja-revenger.json) |
@@ -6638,6 +6645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocked! True Tales of Robin Hood | 118139 | [118139-nocked-true-tales-of-robin-hood.json](./118139-nocked-true-tales-of-robin-hood.json) |
 | Nocko | 157004 | [157004-nocko.json](./157004-nocko.json) |
 | Nocky el Armadillo | 372048 | [372048-nocky-el-armadillo.json](./372048-nocky-el-armadillo.json) |
+| Noclip | 297970 | [297970-noclip.json](./297970-noclip.json) |
 | Noclip VR | 242984 | [242984-noclip-vr.json](./242984-noclip-vr.json) |
 | Noclipped | 212080 | [212080-noclipped.json](./212080-noclipped.json) |
 | Noct | 12978 | [12978-noct.json](./12978-noct.json) |
@@ -6854,6 +6862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nola1 | 299853 | [299853-nola1.json](./299853-nola1.json) |
 | Nolan Ryan's Baseball | 42477 | [42477-nolan-ryans-baseball.json](./42477-nolan-ryans-baseball.json) |
 | Nolean: The Space Bartender | 334891 | [334891-nolean-the-space-bartender.json](./334891-nolean-the-space-bartender.json) |
+| Nolgorb's Ordeal | 297971 | [297971-nolgorbs-ordeal.json](./297971-nolgorbs-ordeal.json) |
 | NoLimits 2: Roller Coaster Simulation - Professional License | 315485 | [315485-nolimits-2-roller-coaster-simulation-professional-license.json](./315485-nolimits-2-roller-coaster-simulation-professional-license.json) |
 | NoLimits 2: Vekoma MK1101 | 313007 | [313007-nolimits-2-vekoma-mk1101.json](./313007-nolimits-2-vekoma-mk1101.json) |
 | NoLimits Roller Coaster Simulation | 80060 | [80060-nolimits-roller-coaster-simulation.json](./80060-nolimits-roller-coaster-simulation.json) |
