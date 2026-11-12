@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabacc Cantina | 355502 | [355502-sabacc-cantina.json](./355502-sabacc-cantina.json) |
 | Sabado | 427290 | [427290-sabado.json](./427290-sabado.json) |
 | Sabak Legend | 123563 | [123563-sabak-legend.json](./123563-sabak-legend.json) |
+| Sabaku no Kuni no bouken-ki: Aru to Chitei no Meikyuu | 251801 | [251801-sabaku-no-kuni-no-bouken-ki-aru-to-chitei-no-meikyuu.json](./251801-sabaku-no-kuni-no-bouken-ki-aru-to-chitei-no-meikyuu.json) |
 | Saban's Iznogoud | 80780 | [80780-sabans-iznogoud.json](./80780-sabans-iznogoud.json) |
 | Saban's Masked Rider | 217730 | [217730-sabans-masked-rider.json](./217730-sabans-masked-rider.json) |
 | Saban's Mighty Morphin Power Rangers | 217939 | [217939-sabans-mighty-morphin-power-rangers.json](./217939-sabans-mighty-morphin-power-rangers.json) |
@@ -12592,6 +12593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir, You Are Being Hunted | 8478 | [8478-sir-you-are-being-hunted.json](./8478-sir-you-are-being-hunted.json) |
 | Sir, You Are Being Hunted: Reinvented Edition | 189832 | [189832-sir-you-are-being-hunted-reinvented-edition.json](./189832-sir-you-are-being-hunted-reinvented-edition.json) |
 | Sir! I'd Like to Report a Bug! | 34702 | [34702-sir-id-like-to-report-a-bug.json](./34702-sir-id-like-to-report-a-bug.json) |
+| Sir. Ball-Up | 251870 | [251870-sir-ball-up.json](./251870-sir-ball-up.json) |
 | Sir'Haxxx | 385709 | [385709-sirhaxxx.json](./385709-sirhaxxx.json) |
 | Sira | 61626 | [61626-sira.json](./61626-sira.json) |
 | Siralim | 35454 | [35454-siralim.json](./35454-siralim.json) |
@@ -13732,6 +13734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Roller: Rainbow Skating | 256934 | [256934-sky-roller-rainbow-skating.json](./256934-sky-roller-rainbow-skating.json) |
 | Sky Runner | 326504 | [326504-sky-runner.json](./326504-sky-runner.json) |
 | Sky Runner | 36904 | [36904-sky-runner.json](./36904-sky-runner.json) |
+| Sky Runners Infinite: Parkour | 251878 | [251878-sky-runners-infinite-parkour.json](./251878-sky-runners-infinite-parkour.json) |
 | Sky Rusher | 97263 | [97263-sky-rusher.json](./97263-sky-rusher.json) |
 | Sky Sanctuary | 31372 | [31372-sky-sanctuary.json](./31372-sky-sanctuary.json) |
 | Sky Saviour | 355591 | [355591-sky-saviour.json](./355591-sky-saviour.json) |
@@ -14010,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkySouls | 262947 | [262947-skysouls.json](./262947-skysouls.json) |
 | Skystead Christmas | 327864 | [327864-skystead-christmas.json](./327864-skystead-christmas.json) |
 | Skystead Ranch | 258560 | [258560-skystead-ranch.json](./258560-skystead-ranch.json) |
+| Skystrider | 251791 | [251791-skystrider.json](./251791-skystrider.json) |
 | Skysunder | 424876 | [424876-skysunder.json](./424876-skysunder.json) |
 | Skytail | 380571 | [380571-skytail.json](./380571-skytail.json) |
 | SkyTemple Randomizer | 342172 | [342172-skytemple-randomizer.json](./342172-skytemple-randomizer.json) |
@@ -15420,6 +15424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Town Detective | 236333 | [236333-small-town-detective.json](./236333-small-town-detective.json) |
 | Small Town Detective | 310585 | [310585-small-town-detective.json](./310585-small-town-detective.json) |
 | Small Town Detective in Where are Ray And Cooper | 310586 | [310586-small-town-detective-in-where-are-ray-and-cooper.json](./310586-small-town-detective-in-where-are-ray-and-cooper.json) |
+| Small Town Emo | 251800 | [251800-small-town-emo.json](./251800-small-town-emo.json) |
 | Small Town Filled With Cats | 392559 | [392559-small-town-filled-with-cats.json](./392559-small-town-filled-with-cats.json) |
 | Small Town Robot | 151288 | [151288-small-town-robot.json](./151288-small-town-robot.json) |
 | Small Town Rocket Ship | 183199 | [183199-small-town-rocket-ship.json](./183199-small-town-rocket-ship.json) |
@@ -25519,6 +25524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squoosh | 282780 | [282780-squoosh.json](./282780-squoosh.json) |
 | Sqvishy | 117451 | [117451-sqvishy.json](./117451-sqvishy.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
+| Sqwrk | 251857 | [251857-sqwrk.json](./251857-sqwrk.json) |
 | Sr. Empatia | 188174 | [188174-sr-empatia.json](./188174-sr-empatia.json) |
 | Sram | 131904 | [131904-sram.json](./131904-sram.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
@@ -26278,6 +26284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Raiders | 25925 | [25925-star-raiders.json](./25925-star-raiders.json) |
 | Star Raiders II | 28713 | [28713-star-raiders-ii.json](./28713-star-raiders-ii.json) |
 | Star Rangers | 22612 | [22612-star-rangers.json](./22612-star-rangers.json) |
+| Star Rangers | 251860 | [251860-star-rangers.json](./251860-star-rangers.json) |
 | Star Rangers | 70074 | [70074-star-rangers.json](./70074-star-rangers.json) |
 | Star Rangers VR | 86488 | [86488-star-rangers-vr.json](./86488-star-rangers-vr.json) |
 | Star Rank Boxing | 57664 | [57664-star-rank-boxing.json](./57664-star-rank-boxing.json) |
@@ -27002,6 +27009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbust | 181378 | [181378-starbust.json](./181378-starbust.json) |
 | Starbuster | 139004 | [139004-starbuster.json](./139004-starbuster.json) |
 | Starbyte Super Soccer | 119352 | [119352-starbyte-super-soccer.json](./119352-starbyte-super-soccer.json) |
+| Starcade Factions | 251798 | [251798-starcade-factions.json](./251798-starcade-factions.json) |
 | Starcaller | 142496 | [142496-starcaller.json](./142496-starcaller.json) |
 | StarCast | 349980 | [349980-starcast.json](./349980-starcast.json) |
 | Starcaster | 89677 | [89677-starcaster.json](./89677-starcaster.json) |
@@ -27309,6 +27317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight X-2: Galactic Puzzles | 163421 | [163421-starlight-x-2-galactic-puzzles.json](./163421-starlight-x-2-galactic-puzzles.json) |
 | Starlight: Eye of the Storm | 155670 | [155670-starlight-eye-of-the-storm.json](./155670-starlight-eye-of-the-storm.json) |
 | StarLightRiders: HyperJump | 115331 | [115331-starlightriders-hyperjump.json](./115331-starlightriders-hyperjump.json) |
+| Starlights | 251861 | [251861-starlights.json](./251861-starlights.json) |
 | Starlike | 188236 | [188236-starlike.json](./188236-starlike.json) |
 | Starliner | 227094 | [227094-starliner.json](./227094-starliner.json) |
 | Starliners | 424858 | [424858-starliners.json](./424858-starliners.json) |
@@ -31686,6 +31695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Succubus Imprisoned | 83258 | [83258-succubus-imprisoned.json](./83258-succubus-imprisoned.json) |
 | Succubus Memories | 374785 | [374785-succubus-memories.json](./374785-succubus-memories.json) |
 | Succubus of Aphrodisia Chapter One: Ako's First Embrace | 393689 | [393689-succubus-of-aphrodisia-chapter-one-akos-first-embrace.json](./393689-succubus-of-aphrodisia-chapter-one-akos-first-embrace.json) |
+| Succubus Prison | 251887 | [251887-succubus-prison.json](./251887-succubus-prison.json) |
 | Succubus Puttel | 385845 | [385845-succubus-puttel.json](./385845-succubus-puttel.json) |
 | Succubus Quest | 97486 | [97486-succubus-quest.json](./97486-succubus-quest.json) |
 | Succubus Rem | 74452 | [74452-succubus-rem.json](./74452-succubus-rem.json) |
