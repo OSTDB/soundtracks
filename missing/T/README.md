@@ -4235,6 +4235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenderhearted | 314528 | [314528-tenderhearted.json](./314528-tenderhearted.json) |
 | Tenders Fight | 245818 | [245818-tenders-fight.json](./245818-tenders-fight.json) |
 | Tendo Blade | 202973 | [202973-tendo-blade.json](./202973-tendo-blade.json) |
+| Tendrils And Plates | 253638 | [253638-tendrils-and-plates.json](./253638-tendrils-and-plates.json) |
 | Tendryll | 211232 | [211232-tendryll.json](./211232-tendryll.json) |
 | Tendy: Robot Gardener | 199777 | [199777-tendy-robot-gardener.json](./199777-tendy-robot-gardener.json) |
 | TendyTrainer | 112803 | [112803-tendytrainer.json](./112803-tendytrainer.json) |
@@ -29312,6 +29313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TowerFall with Friends | 201686 | [201686-towerfall-with-friends.json](./201686-towerfall-with-friends.json) |
 | Towerful | 259517 | [259517-towerful.json](./259517-towerful.json) |
 | Towerful Defense | 315661 | [315661-towerful-defense.json](./315661-towerful-defense.json) |
+| Towerful Defense: A Rogue TD | 253621 | [253621-towerful-defense-a-rogue-td.json](./253621-towerful-defense-a-rogue-td.json) |
 | Towerful Defense: A Rogue TD - The First Expansion | 385554 | [385554-towerful-defense-a-rogue-td-the-first-expansion.json](./385554-towerful-defense-a-rogue-td-the-first-expansion.json) |
 | Towerheart | 303076 | [303076-towerheart.json](./303076-towerheart.json) |
 | Towering | 230295 | [230295-towering.json](./230295-towering.json) |
@@ -33937,6 +33939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropico: Mucho Macho Edition | 119356 | [119356-tropico-mucho-macho-edition.json](./119356-tropico-mucho-macho-edition.json) |
 | Tropico: Paradise Island | 11029 | [11029-tropico-paradise-island.json](./11029-tropico-paradise-island.json) |
 | Tropicraft | 232805 | [232805-tropicraft.json](./232805-tropicraft.json) |
+| Tropity | 253628 | [253628-tropity.json](./253628-tropity.json) |
 | Tropix 2: Quest for the Golden Banana | 53859 | [53859-tropix-2-quest-for-the-golden-banana.json](./53859-tropix-2-quest-for-the-golden-banana.json) |
 | Tropix! | 92877 | [92877-tropix.json](./92877-tropix.json) |
 | TropTopia | 368560 | [368560-troptopia.json](./368560-troptopia.json) |
