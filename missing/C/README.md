@@ -2779,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardfight!! Vanguard G: Stride to Victory!! | 81456 | [81456-cardfight-vanguard-g-stride-to-victory.json](./81456-cardfight-vanguard-g-stride-to-victory.json) |
 | Cardfight!! Vanguard Zero | 124770 | [124770-cardfight-vanguard-zero.json](./124770-cardfight-vanguard-zero.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Card Set Vol. 4 D-SS03: Stride Deckset - Chronojet | 254675 | [254675-cardfight-vanguard-dear-days-additional-card-set-vol-4-d-ss03-stride-deckset-chronojet.json](./254675-cardfight-vanguard-dear-days-additional-card-set-vol-4-d-ss03-stride-deckset-chronojet.json) |
+| Cardfight!! Vanguard: Dear Days - Additional Card Set Vol.8 D-SS04: Stride Deckset Messiah | 280411 | [280411-cardfight-vanguard-dear-days-additional-card-set-vol-8-d-ss04-stride-deckset-messiah.json](./280411-cardfight-vanguard-dear-days-additional-card-set-vol-8-d-ss04-stride-deckset-messiah.json) |
 | Cardfight!! Vanguard: Dear Days - Additional Special Set | 301017 | [301017-cardfight-vanguard-dear-days-additional-special-set.json](./301017-cardfight-vanguard-dear-days-additional-special-set.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 01: Aichi Sendou | 226282 | [226282-cardfight-vanguard-dear-days-character-set-01-aichi-sendou.json](./226282-cardfight-vanguard-dear-days-character-set-01-aichi-sendou.json) |
 | Cardfight!! Vanguard: Dear Days - Character Set 02: Toshiki Kai | 226283 | [226283-cardfight-vanguard-dear-days-character-set-02-toshiki-kai.json](./226283-cardfight-vanguard-dear-days-character-set-02-toshiki-kai.json) |
@@ -4108,6 +4109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania II English Re-Translation (+Map) | 364173 | [364173-castlevania-ii-english-re-translation-map.json](./364173-castlevania-ii-english-re-translation-map.json) |
 | Castlevania II SNES Port | 377727 | [377727-castlevania-ii-snes-port.json](./377727-castlevania-ii-snes-port.json) |
 | Castlevania II: Belmont's Revenge | 1123 | [1123-castlevania-ii-belmonts-revenge.json](./1123-castlevania-ii-belmonts-revenge.json) |
+| Castlevania II: Belmont's Revenge | 280487 | [280487-castlevania-ii-belmonts-revenge.json](./280487-castlevania-ii-belmonts-revenge.json) |
 | Castlevania II: Simon's Quest | 1116 | [1116-castlevania-ii-simons-quest.json](./1116-castlevania-ii-simons-quest.json) |
 | Castlevania II: Simon's Quest | 198661 | [198661-castlevania-ii-simons-quest.json](./198661-castlevania-ii-simons-quest.json) |
 | Castlevania II: Simon's Quest | 198663 | [198663-castlevania-ii-simons-quest.json](./198663-castlevania-ii-simons-quest.json) |
@@ -4208,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Symphony of the Night - Reborn | 338814 | [338814-castlevania-symphony-of-the-night-reborn.json](./338814-castlevania-symphony-of-the-night-reborn.json) |
 | Castlevania: Symphony of the Night Randomizer | 218152 | [218152-castlevania-symphony-of-the-night-randomizer.json](./218152-castlevania-symphony-of-the-night-randomizer.json) |
 | Castlevania: The Adventure | 1118 | [1118-castlevania-the-adventure.json](./1118-castlevania-the-adventure.json) |
+| Castlevania: The Adventure | 280475 | [280475-castlevania-the-adventure.json](./280475-castlevania-the-adventure.json) |
 | Castlevania: The Adventure - Masque of Retribution | 330060 | [330060-castlevania-the-adventure-masque-of-retribution.json](./330060-castlevania-the-adventure-masque-of-retribution.json) |
 | Castlevania: The Adventure DX | 280448 | [280448-castlevania-the-adventure-dx.json](./280448-castlevania-the-adventure-dx.json) |
 | Castlevania: The Adventure ReBirth | 1146 | [1146-castlevania-the-adventure-rebirth.json](./1146-castlevania-the-adventure-rebirth.json) |
@@ -11841,6 +11844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clue/Cluedo | 262646 | [262646-clue-cluedo.json](./262646-clue-cluedo.json) |
 | Clue/Cluedo: Black Adder Resort Bundle | 262647 | [262647-clue-cluedo-black-adder-resort-bundle.json](./262647-clue-cluedo-black-adder-resort-bundle.json) |
 | Clue/Cluedo: Classic | 99301 | [99301-clue-cluedo-classic.json](./99301-clue-cluedo-classic.json) |
+| Clue/Cluedo: Epic Crime Collection | 280409 | [280409-clue-cluedo-epic-crime-collection.json](./280409-clue-cluedo-epic-crime-collection.json) |
 | Clue/Cluedo: Halloween Records | 328997 | [328997-clue-cluedo-halloween-records.json](./328997-clue-cluedo-halloween-records.json) |
 | Clue/Cluedo: Sherlock Suspect Pack | 407418 | [407418-clue-cluedo-sherlock-suspect-pack.json](./407418-clue-cluedo-sherlock-suspect-pack.json) |
 | Clue/Cluedo: The Ultimate Detective’s Package | 260740 | [260740-clue-cluedo-the-ultimate-detective-s-package.json](./260740-clue-cluedo-the-ultimate-detective-s-package.json) |
@@ -16203,6 +16207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corruption Catharsis: Try To Act Normal | 271507 | [271507-corruption-catharsis-try-to-act-normal.json](./271507-corruption-catharsis-try-to-act-normal.json) |
 | Corruption of Champions II | 148426 | [148426-corruption-of-champions-ii.json](./148426-corruption-of-champions-ii.json) |
 | Corruption of Laetitia | 124535 | [124535-corruption-of-laetitia.json](./124535-corruption-of-laetitia.json) |
+| Corruption Town | 280408 | [280408-corruption-town.json](./280408-corruption-town.json) |
 | Corruption: Political Simulator Strategy | 271476 | [271476-corruption-political-simulator-strategy.json](./271476-corruption-political-simulator-strategy.json) |
 | Corsair | 80501 | [80501-corsair.json](./80501-corsair.json) |
 | Corsair's Madness | 193095 | [193095-corsairs-madness.json](./193095-corsairs-madness.json) |
