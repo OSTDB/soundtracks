@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18th Floor | 333761 | [333761-18th-floor.json](./333761-18th-floor.json) |
 | 18th Gate | 84688 | [84688-18th-gate.json](./84688-18th-gate.json) |
 | 18th Hole | 38855 | [38855-18th-hole.json](./38855-18th-hole.json) |
+| 18titans | 288950 | [288950-18titans.json](./288950-18titans.json) |
 | 18Trip | 302999 | [302999-18trip.json](./302999-18trip.json) |
 | 19 Part One: Boot Camp | 41010 | [41010-19-part-one-boot-camp.json](./41010-19-part-one-boot-camp.json) |
 | 19: Neunzehn | 41342 | [41342-19-neunzehn.json](./41342-19-neunzehn.json) |
