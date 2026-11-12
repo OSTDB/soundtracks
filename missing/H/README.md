@@ -3908,6 +3908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenly Hammer | 173820 | [173820-heavenly-hammer.json](./173820-heavenly-hammer.json) |
 | Heavenly Heroes of Antidomi | 211784 | [211784-heavenly-heroes-of-antidomi.json](./211784-heavenly-heroes-of-antidomi.json) |
 | Heavenly Martyr | 377250 | [377250-heavenly-martyr.json](./377250-heavenly-martyr.json) |
+| Heavenly Parasite | 310848 | [310848-heavenly-parasite.json](./310848-heavenly-parasite.json) |
 | Heavenly Peaks Cultivation | 235276 | [235276-heavenly-peaks-cultivation.json](./235276-heavenly-peaks-cultivation.json) |
 | Heavenly Puzzle | 207199 | [207199-heavenly-puzzle.json](./207199-heavenly-puzzle.json) |
 | Heavenly Sword | 7318 | [7318-heavenly-sword.json](./7318-heavenly-sword.json) |
@@ -4151,6 +4152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heist Force | 257204 | [257204-heist-force.json](./257204-heist-force.json) |
 | Heist Game: It's Only Illegal if You Get Caught This Is Not Legal Advice Only a Title | 177564 | [177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json](./177564-heist-game-its-only-illegal-if-you-get-caught-this-is-not-legal-advice-only-a-title.json) |
 | Heist Haven | 374843 | [374843-heist-haven.json](./374843-heist-haven.json) |
+| Heist Hustle: The Unrecord Bank Job | 310851 | [310851-heist-hustle-the-unrecord-bank-job.json](./310851-heist-hustle-the-unrecord-bank-job.json) |
 | Heist Kitty: Cats Go a Stray | 231485 | [231485-heist-kitty-cats-go-a-stray.json](./231485-heist-kitty-cats-go-a-stray.json) |
 | Heist Man | 344239 | [344239-heist-man.json](./344239-heist-man.json) |
 | Heist Night | 59831 | [59831-heist-night.json](./59831-heist-night.json) |
