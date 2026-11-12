@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenith Into Maronarium | 167601 | [167601-zenith-into-maronarium.json](./167601-zenith-into-maronarium.json) |
 | Zenith Realms | 367513 | [367513-zenith-realms.json](./367513-zenith-realms.json) |
 | Zenith Trace | 379879 | [379879-zenith-trace.json](./379879-zenith-trace.json) |
+| Zenith: Nexus | 288977 | [288977-zenith-nexus.json](./288977-zenith-nexus.json) |
 | Zenith: The Last City | 145452 | [145452-zenith-the-last-city.json](./145452-zenith-the-last-city.json) |
 | Zenith's Call | 176206 | [176206-zeniths-call.json](./176206-zeniths-call.json) |
 | Zenji | 24509 | [24509-zenji.json](./24509-zenji.json) |
