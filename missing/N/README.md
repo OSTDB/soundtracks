@@ -3228,6 +3228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Breakup | 107968 | [107968-never-breakup.json](./107968-never-breakup.json) |
 | Never Clean | 392782 | [392782-never-clean.json](./392782-never-clean.json) |
 | Never Date Werewolves | 130137 | [130137-never-date-werewolves.json](./130137-never-date-werewolves.json) |
+| Never Down: Only Up | 274717 | [274717-never-down-only-up.json](./274717-never-down-only-up.json) |
 | Never End, Neverland! | 173227 | [173227-never-end-neverland.json](./173227-never-end-neverland.json) |
 | Never Ending Beyond | 224687 | [224687-never-ending-beyond.json](./224687-never-ending-beyond.json) |
 | Never Ending Corridor | 387559 | [387559-never-ending-corridor.json](./387559-never-ending-corridor.json) |
@@ -7323,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Norukasoruka: Tanpenshuu | 398985 | [398985-norukasoruka-tanpenshuu.json](./398985-norukasoruka-tanpenshuu.json) |
 | NoRush! | 410293 | [410293-norush.json](./410293-norush.json) |
 | Norvezskaya Semga | 342506 | [342506-norvezskaya-semga.json](./342506-norvezskaya-semga.json) |
+| Norwegian Jigsaw Puzzles: Expansion Pack 1 | 274611 | [274611-norwegian-jigsaw-puzzles-expansion-pack-1.json](./274611-norwegian-jigsaw-puzzles-expansion-pack-1.json) |
 | Norwegian Jigsaw Puzzles: Expansion Pack 2 | 274609 | [274609-norwegian-jigsaw-puzzles-expansion-pack-2.json](./274609-norwegian-jigsaw-puzzles-expansion-pack-2.json) |
 | Norwegian Jigsaw Puzzles: Expansion Pack 3 | 274608 | [274608-norwegian-jigsaw-puzzles-expansion-pack-3.json](./274608-norwegian-jigsaw-puzzles-expansion-pack-3.json) |
 | Norwegian Jigsaw Puzzles: Expansion Pack 4 | 274607 | [274607-norwegian-jigsaw-puzzles-expansion-pack-4.json](./274607-norwegian-jigsaw-puzzles-expansion-pack-4.json) |
