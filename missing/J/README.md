@@ -1093,6 +1093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Pops | 22934 | [22934-jelly-pops.json](./22934-jelly-pops.json) |
 | Jelly RPG | 175037 | [175037-jelly-rpg.json](./175037-jelly-rpg.json) |
 | Jelly Run 2048 | 221351 | [221351-jelly-run-2048.json](./221351-jelly-run-2048.json) |
+| Jelly Shot | 285657 | [285657-jelly-shot.json](./285657-jelly-shot.json) |
 | Jelly slice! | 200864 | [200864-jelly-slice.json](./200864-jelly-slice.json) |
 | Jelly Solitaire | 89790 | [89790-jelly-solitaire.json](./89790-jelly-solitaire.json) |
 | Jelly Troops | 324864 | [324864-jelly-troops.json](./324864-jelly-troops.json) |
@@ -2507,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Jump | 115959 | [115959-joe-jump.json](./115959-joe-jump.json) |
 | Joe Jump Impossible Quest | 117878 | [117878-joe-jump-impossible-quest.json](./117878-joe-jump-impossible-quest.json) |
 | Joe Kowalski Chronicles: Murder in a flat | 150742 | [150742-joe-kowalski-chronicles-murder-in-a-flat.json](./150742-joe-kowalski-chronicles-murder-in-a-flat.json) |
+| Joe Mama | 285720 | [285720-joe-mama.json](./285720-joe-mama.json) |
 | Joe Maverick: Legend of the Savior | 295586 | [295586-joe-maverick-legend-of-the-savior.json](./295586-joe-maverick-legend-of-the-savior.json) |
 | Joe Montana Football | 149968 | [149968-joe-montana-football.json](./149968-joe-montana-football.json) |
 | Joe Montana Football | 5396 | [5396-joe-montana-football.json](./5396-joe-montana-football.json) |
