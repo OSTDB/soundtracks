@@ -9636,6 +9636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FolkOrigin | 292391 | [292391-folkorigin.json](./292391-folkorigin.json) |
 | Folktale | 215306 | [215306-folktale.json](./215306-folktale.json) |
 | Folktale Fury | 379422 | [379422-folktale-fury.json](./379422-folktale-fury.json) |
+| Folktale Misfits | 258681 | [258681-folktale-misfits.json](./258681-folktale-misfits.json) |
 | Folletti | 321321 | [321321-folletti.json](./321321-folletti.json) |
 | Follia: Dear Father | 118671 | [118671-follia-dear-father.json](./118671-follia-dear-father.json) |
 | Follia: Dear Father VR | 169540 | [169540-follia-dear-father-vr.json](./169540-follia-dear-father-vr.json) |
@@ -12641,6 +12642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Flight | 190000 | [190000-freedom-flight.json](./190000-freedom-flight.json) |
 | Freedom Force | 68361 | [68361-freedom-force.json](./68361-freedom-force.json) |
 | Freedom Force | 720 | [720-freedom-force.json](./720-freedom-force.json) |
+| Freedom is Piracy | 258668 | [258668-freedom-is-piracy.json](./258668-freedom-is-piracy.json) |
 | Freedom Isn't Free | 130119 | [130119-freedom-isnt-free.json](./130119-freedom-isnt-free.json) |
 | Freedom Locomotion VR | 29651 | [29651-freedom-locomotion-vr.json](./29651-freedom-locomotion-vr.json) |
 | Freedom Maker | 327825 | [327825-freedom-maker.json](./327825-freedom-maker.json) |
@@ -13777,6 +13779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostlands | 184168 | [184168-frostlands.json](./184168-frostlands.json) |
 | Frostliner | 358967 | [358967-frostliner.json](./358967-frostliner.json) |
 | Frostory | 159086 | [159086-frostory.json](./159086-frostory.json) |
+| FrostPanic: Whispers of Sertão | 258657 | [258657-frostpanic-whispers-of-sertao.json](./258657-frostpanic-whispers-of-sertao.json) |
 | Frostpoint Toll | 380662 | [380662-frostpoint-toll.json](./380662-frostpoint-toll.json) |
 | Frostpoint VR: Proving Grounds | 139228 | [139228-frostpoint-vr-proving-grounds.json](./139228-frostpoint-vr-proving-grounds.json) |
 | Frostpunk 2: Breach of Trust | 397575 | [397575-frostpunk-2-breach-of-trust.json](./397575-frostpunk-2-breach-of-trust.json) |
