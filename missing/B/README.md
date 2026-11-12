@@ -13469,6 +13469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolty | 184579 | [184579-bolty.json](./184579-bolty.json) |
 | Boltzmann Brain | 95211 | [95211-boltzmann-brain.json](./95211-boltzmann-brain.json) |
 | Bolu | 204987 | [204987-bolu.json](./204987-bolu.json) |
+| Bom Bom Bombian | 247727 | [247727-bom-bom-bombian.json](./247727-bom-bom-bombian.json) |
 | Bom-eul Buleuneun Seolnyeo: Yuna Seupin-opeu | 369528 | [369528-bom-eul-buleuneun-seolnyeo-yuna-seupin-opeu.json](./369528-bom-eul-buleuneun-seolnyeo-yuna-seupin-opeu.json) |
 | Bom! | 295952 | [295952-bom.json](./295952-bom.json) |
 | Bomb | 164633 | [164633-bomb.json](./164633-bomb.json) |
@@ -14376,6 +14377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booster Pack Heroes | 400386 | [400386-booster-pack-heroes.json](./400386-booster-pack-heroes.json) |
 | Booster Racers | 303105 | [303105-booster-racers.json](./303105-booster-racers.json) |
 | Booster Trooper | 14948 | [14948-booster-trooper.json](./14948-booster-trooper.json) |
+| BoostHead | 247709 | [247709-boosthead.json](./247709-boosthead.json) |
 | Boostrush | 363094 | [363094-boostrush.json](./363094-boostrush.json) |
 | Boosty Bot | 24473 | [24473-boosty-bot.json](./24473-boosty-bot.json) |
 | Boot : Game Dev Sim | 129034 | [129034-boot-game-dev-sim.json](./129034-boot-game-dev-sim.json) |
@@ -17015,6 +17017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge! 2 | 33738 | [33738-bridge-2.json](./33738-bridge-2.json) |
 | Bridge! 3 | 124145 | [124145-bridge-3.json](./124145-bridge-3.json) |
 | Bridge! 3: The Construction Game | 125372 | [125372-bridge-3-the-construction-game.json](./125372-bridge-3-the-construction-game.json) |
+| Bridgebourn | 247729 | [247729-bridgebourn.json](./247729-bridgebourn.json) |
 | BridgeBreaker | 365785 | [365785-bridgebreaker.json](./365785-bridgebreaker.json) |
 | BridgeFix 2=3-1 | 158731 | [158731-bridgefix-2-3-1.json](./158731-bridgefix-2-3-1.json) |
 | Bridgelands | 290569 | [290569-bridgelands.json](./290569-bridgelands.json) |
@@ -19199,6 +19202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buns, Kefir and Rock 'n' Roll | 405366 | [405366-buns-kefir-and-rock-n-roll.json](./405366-buns-kefir-and-rock-n-roll.json) |
 | Buns: Bunny Survivor | 215039 | [215039-buns-bunny-survivor.json](./215039-buns-bunny-survivor.json) |
 | Bunt Girl | 178669 | [178669-bunt-girl.json](./178669-bunt-girl.json) |
+| Buntasy | 247796 | [247796-buntasy.json](./247796-buntasy.json) |
 | Bunte Märchenträume | 201621 | [201621-bunte-marchentraume.json](./201621-bunte-marchentraume.json) |
 | Buoy Boy | 233768 | [233768-buoy-boy.json](./233768-buoy-boy.json) |
 | Buoyancy | 115347 | [115347-buoyancy.json](./115347-buoyancy.json) |
