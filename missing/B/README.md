@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -3136,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baru and the Spirit Prince | 29984 | [29984-baru-and-the-spirit-prince.json](./29984-baru-and-the-spirit-prince.json) |
 | Barunba | 42087 | [42087-barunba.json](./42087-barunba.json) |
 | Baryoland | 269483 | [269483-baryoland.json](./269483-baryoland.json) |
+| BAS | 287363 | [287363-bas.json](./287363-bas.json) |
 | Bas de Beer naar Pirateneiland | 406428 | [406428-bas-de-beer-naar-pirateneiland.json](./406428-bas-de-beer-naar-pirateneiland.json) |
 | Basalt Breaker | 254784 | [254784-basalt-breaker.json](./254784-basalt-breaker.json) |
 | Basalt: The Cursed Vein | 364246 | [364246-basalt-the-cursed-vein.json](./364246-basalt-the-cursed-vein.json) |
@@ -3376,6 +3378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball | 246994 | [246994-basketball.json](./246994-basketball.json) |
 | Basketball | 281219 | [281219-basketball.json](./281219-basketball.json) |
 | Basketball | 281235 | [281235-basketball.json](./281235-basketball.json) |
+| Basketball | 287290 | [287290-basketball.json](./287290-basketball.json) |
 | Basketball | 346079 | [346079-basketball.json](./346079-basketball.json) |
 | Basketball | 347704 | [347704-basketball.json](./347704-basketball.json) |
 | Basketball | 5689 | [5689-basketball.json](./5689-basketball.json) |
@@ -9123,6 +9126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds and Cats | 366788 | [366788-birds-and-cats.json](./366788-birds-and-cats.json) |
 | Birds and Cats: Special Edition | 366782 | [366782-birds-and-cats-special-edition.json](./366782-birds-and-cats-special-edition.json) |
 | Birds and Nuts | 380734 | [380734-birds-and-nuts.json](./380734-birds-and-nuts.json) |
+| Birds and Saws | 287362 | [287362-birds-and-saws.json](./287362-birds-and-saws.json) |
 | Birds Are Not Real | 416681 | [416681-birds-are-not-real.json](./416681-birds-are-not-real.json) |
 | Birds Are Real | 128843 | [128843-birds-are-real.json](./128843-birds-are-real.json) |
 | Birds Are Real | 211456 | [211456-birds-are-real.json](./211456-birds-are-real.json) |
@@ -10524,6 +10528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasted Dice | 325920 | [325920-blasted-dice.json](./325920-blasted-dice.json) |
 | Blasted Fortress | 36029 | [36029-blasted-fortress.json](./36029-blasted-fortress.json) |
 | Blasted GutZ | 391619 | [391619-blasted-gutz.json](./391619-blasted-gutz.json) |
+| Blasted Lands | 287270 | [287270-blasted-lands.json](./287270-blasted-lands.json) |
 | Blasted Road Terror | 34658 | [34658-blasted-road-terror.json](./34658-blasted-road-terror.json) |
 | Blasten!! | 161408 | [161408-blasten.json](./161408-blasten.json) |
 | Blaster | 282971 | [282971-blaster.json](./282971-blaster.json) |
@@ -16646,6 +16651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Blast | 376107 | [376107-brick-blast.json](./376107-brick-blast.json) |
 | Brick Blaster | 133326 | [133326-brick-blaster.json](./133326-brick-blaster.json) |
 | Brick Blaster | 281968 | [281968-brick-blaster.json](./281968-brick-blaster.json) |
+| Brick Blaster | 287292 | [287292-brick-blaster.json](./287292-brick-blaster.json) |
 | Brick Blaster | 47087 | [47087-brick-blaster.json](./47087-brick-blaster.json) |
 | Brick Block | 304041 | [304041-brick-block.json](./304041-brick-block.json) |
 | Brick Break Blitz | 61966 | [61966-brick-break-blitz.json](./61966-brick-break-blitz.json) |
@@ -17289,6 +17295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Willow | 344630 | [344630-broken-willow.json](./344630-broken-willow.json) |
 | Broken Wizard | 101920 | [101920-broken-wizard.json](./101920-broken-wizard.json) |
 | Broken World | 170244 | [170244-broken-world.json](./170244-broken-world.json) |
+| Broken World | 287280 | [287280-broken-world.json](./287280-broken-world.json) |
 | Broken World: Save Your Children | 345407 | [345407-broken-world-save-your-children.json](./345407-broken-world-save-your-children.json) |
 | BrokenEarth | 62973 | [62973-brokenearth.json](./62973-brokenearth.json) |
 | BrokenFolx | 176642 | [176642-brokenfolx.json](./176642-brokenfolx.json) |
