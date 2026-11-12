@@ -13001,6 +13001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends vs. Friends | 214406 | [214406-friends-vs-friends.json](./214406-friends-vs-friends.json) |
 | Friends vs. Friends: Baba's Laundromat | 257100 | [257100-friends-vs-friends-babas-laundromat.json](./257100-friends-vs-friends-babas-laundromat.json) |
 | Friends vs. Friends: El Pelicano | 376700 | [376700-friends-vs-friends-el-pelicano.json](./376700-friends-vs-friends-el-pelicano.json) |
+| Friends vs. Friends: Nerdvana | 286174 | [286174-friends-vs-friends-nerdvana.json](./286174-friends-vs-friends-nerdvana.json) |
 | Friends vs. Friends: Wired Wrecks | 271639 | [271639-friends-vs-friends-wired-wrecks.json](./271639-friends-vs-friends-wired-wrecks.json) |
 | Friends World | 246833 | [246833-friends-world.json](./246833-friends-world.json) |
 | Friends: Always Stick Together | 247253 | [247253-friends-always-stick-together.json](./247253-friends-always-stick-together.json) |
