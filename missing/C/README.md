@@ -9656,6 +9656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle | 289387 | [289387-circle.json](./289387-circle.json) |
 | Circle | 320435 | [320435-circle.json](./320435-circle.json) |
 | Circle = Circle | 293853 | [293853-circle-circle.json](./293853-circle-circle.json) |
+| Circle Ball | 286708 | [286708-circle-ball.json](./286708-circle-ball.json) |
 | Circle Bash | 177755 | [177755-circle-bash.json](./177755-circle-bash.json) |
 | Circle Brawl | 115223 | [115223-circle-brawl.json](./115223-circle-brawl.json) |
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
@@ -10161,6 +10162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City of God I: Prison Empire - Outrage | 170431 | [170431-city-of-god-i-prison-empire-outrage.json](./170431-city-of-god-i-prison-empire-outrage.json) |
 | City of Graves | 284975 | [284975-city-of-graves.json](./284975-city-of-graves.json) |
 | City of Heroes | 7830 | [7830-city-of-heroes.json](./7830-city-of-heroes.json) |
+| City of Heroes: Architect Edition | 286710 | [286710-city-of-heroes-architect-edition.json](./286710-city-of-heroes-architect-edition.json) |
 | City of Heroes: Homecoming | 281858 | [281858-city-of-heroes-homecoming.json](./281858-city-of-heroes-homecoming.json) |
 | City of Jade: Imperial Frontier | 102372 | [102372-city-of-jade-imperial-frontier.json](./102372-city-of-jade-imperial-frontier.json) |
 | City of Lambs | 28095 | [28095-city-of-lambs.json](./28095-city-of-lambs.json) |
@@ -12628,6 +12630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Cuts | 77171 | [77171-cold-cuts.json](./77171-cold-cuts.json) |
 | Cold Dead Hands | 367606 | [367606-cold-dead-hands.json](./367606-cold-dead-hands.json) |
 | Cold Depth | 157202 | [157202-cold-depth.json](./157202-cold-depth.json) |
+| Cold Dreams | 286703 | [286703-cold-dreams.json](./286703-cold-dreams.json) |
 | Cold Engines | 199474 | [199474-cold-engines.json](./199474-cold-engines.json) |
 | Cold Fear | 5780 | [5780-cold-fear.json](./5780-cold-fear.json) |
 | Cold Front | 213579 | [213579-cold-front.json](./213579-cold-front.json) |
@@ -16630,6 +16633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosplay Therapy | 180372 | [180372-cosplay-therapy.json](./180372-cosplay-therapy.json) |
 | Cosplayer's Quest | 380465 | [380465-cosplayers-quest.json](./380465-cosplayers-quest.json) |
 | Cosplaying in Costalia: The Tororo Sisters! | 411787 | [411787-cosplaying-in-costalia-the-tororo-sisters.json](./411787-cosplaying-in-costalia-the-tororo-sisters.json) |
+| CosPuzzle | 286798 | [286798-cospuzzle.json](./286798-cospuzzle.json) |
 | Cossack and Magic | 164187 | [164187-cossack-and-magic.json](./164187-cossack-and-magic.json) |
 | Cossacks 3 | 13215 | [13215-cossacks-3.json](./13215-cossacks-3.json) |
 | Cossacks 3: Days of Brilliance | 51742 | [51742-cossacks-3-days-of-brilliance.json](./51742-cossacks-3-days-of-brilliance.json) |
@@ -17580,6 +17584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crap Game, Don’t Play | 365075 | [365075-crap-game-don-t-play.json](./365075-crap-game-don-t-play.json) |
 | Crap! No One Loves Me | 59126 | [59126-crap-no-one-loves-me.json](./59126-crap-no-one-loves-me.json) |
 | Crapette | 332253 | [332253-crapette.json](./332253-crapette.json) |
+| Crapht Box | 286800 | [286800-crapht-box.json](./286800-crapht-box.json) |
 | Crapman | 70424 | [70424-crapman.json](./70424-crapman.json) |
 | Crappy Climber | 135746 | [135746-crappy-climber.json](./135746-crappy-climber.json) |
 | Crappy Day Enhanced Edition | 28590 | [28590-crappy-day-enhanced-edition.json](./28590-crappy-day-enhanced-edition.json) |
