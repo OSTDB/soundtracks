@@ -506,6 +506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
 | Earthworm Jim: Special Edition | 19769 | [19769-earthworm-jim-special-edition.json](./19769-earthworm-jim-special-edition.json) |
 | EarthX | 119461 | [119461-earthx.json](./119461-earthx.json) |
+| EarthX: Future Astronauts Edition | 260928 | [260928-earthx-future-astronauts-edition.json](./260928-earthx-future-astronauts-edition.json) |
 | EarWorm | 340931 | [340931-earworm.json](./340931-earworm.json) |
 | Earwyrm | 233189 | [233189-earwyrm.json](./233189-earwyrm.json) |
 | Earyh-Quake | 138523 | [138523-earyh-quake.json](./138523-earyh-quake.json) |
@@ -2180,6 +2181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elden Ring: Shadow of the Erdtree Deluxe Edition | 287984 | [287984-elden-ring-shadow-of-the-erdtree-deluxe-edition.json](./287984-elden-ring-shadow-of-the-erdtree-deluxe-edition.json) |
 | Elden Ring: Shadow of the Erdtree Edition | 287975 | [287975-elden-ring-shadow-of-the-erdtree-edition.json](./287975-elden-ring-shadow-of-the-erdtree-edition.json) |
 | Elden Ring: Tarnished Edition | 338079 | [338079-elden-ring-tarnished-edition.json](./338079-elden-ring-tarnished-edition.json) |
+| Elden Ring: The Convergence | 260990 | [260990-elden-ring-the-convergence.json](./260990-elden-ring-the-convergence.json) |
 | Elden Shell: Mortal Ring | 194075 | [194075-elden-shell-mortal-ring.json](./194075-elden-shell-mortal-ring.json) |
 | Elden Sword | 371122 | [371122-elden-sword.json](./371122-elden-sword.json) |
 | Elden: Path of the Forgotten | 95139 | [95139-elden-path-of-the-forgotten.json](./95139-elden-path-of-the-forgotten.json) |
@@ -6748,6 +6750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etheldia Pepper | 150424 | [150424-etheldia-pepper.json](./150424-etheldia-pepper.json) |
 | Ether | 311502 | [311502-ether.json](./311502-ether.json) |
 | Ether | 79659 | [79659-ether.json](./79659-ether.json) |
+| Ether @ Net | 260910 | [260910-ether-net.json](./260910-ether-net.json) |
 | Ether Awakening | 44229 | [44229-ether-awakening.json](./44229-ether-awakening.json) |
 | Ether Loop | 126735 | [126735-ether-loop.json](./126735-ether-loop.json) |
 | Ether One Redux | 124917 | [124917-ether-one-redux.json](./124917-ether-one-redux.json) |
