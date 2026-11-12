@@ -2003,6 +2003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw puzzle: Evolution | 100720 | [100720-jigsaw-puzzle-evolution.json](./100720-jigsaw-puzzle-evolution.json) |
 | Jigsaw Puzzle: Frog | 413950 | [413950-jigsaw-puzzle-frog.json](./413950-jigsaw-puzzle-frog.json) |
 | Jigsaw Puzzle: Futanari Massage | 286495 | [286495-jigsaw-puzzle-futanari-massage.json](./286495-jigsaw-puzzle-futanari-massage.json) |
+| Jigsaw Puzzle: Futanari Roomate | 286735 | [286735-jigsaw-puzzle-futanari-roomate.json](./286735-jigsaw-puzzle-futanari-roomate.json) |
 | Jigsaw Puzzle: Futanari Threesome | 220834 | [220834-jigsaw-puzzle-futanari-threesome.json](./220834-jigsaw-puzzle-futanari-threesome.json) |
 | Jigsaw Puzzle: New Year Collection | 351599 | [351599-jigsaw-puzzle-new-year-collection.json](./351599-jigsaw-puzzle-new-year-collection.json) |
 | Jigsaw Puzzle: Pixel Art Master | 162209 | [162209-jigsaw-puzzle-pixel-art-master.json](./162209-jigsaw-puzzle-pixel-art-master.json) |
