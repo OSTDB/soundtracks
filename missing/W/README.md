@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkover | 35787 | [35787-walkover.json](./35787-walkover.json) |
 | Walkr: Fitness Space Adventure | 115287 | [115287-walkr-fitness-space-adventure.json](./115287-walkr-fitness-space-adventure.json) |
 | Walks in Paris Dress Up | 106941 | [106941-walks-in-paris-dress-up.json](./106941-walks-in-paris-dress-up.json) |
+| Walks of Life | 288480 | [288480-walks-of-life.json](./288480-walks-of-life.json) |
 | WalkScape | 304729 | [304729-walkscape.json](./304729-walkscape.json) |
 | Walkure Romanze More & More | 194624 | [194624-walkure-romanze-more-and-more.json](./194624-walkure-romanze-more-and-more.json) |
 | Walkure Romanze Re:tell | 194625 | [194625-walkure-romanze-re-tell.json](./194625-walkure-romanze-re-tell.json) |
@@ -2013,6 +2014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpaws | 219259 | [219259-warpaws.json](./219259-warpaws.json) |
 | WarpBall | 34482 | [34482-warpball.json](./34482-warpball.json) |
 | Warped | 248966 | [248966-warped.json](./248966-warped.json) |
+| Warped Continuity | 288481 | [288481-warped-continuity.json](./288481-warped-continuity.json) |
 | Warped Kart Racers | 200376 | [200376-warped-kart-racers.json](./200376-warped-kart-racers.json) |
 | Warped North | 263451 | [263451-warped-north.json](./263451-warped-north.json) |
 | Warped Space Shooter | 182980 | [182980-warped-space-shooter.json](./182980-warped-space-shooter.json) |
