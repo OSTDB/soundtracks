@@ -2618,6 +2618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D MMO Villagers & Heroes | 90032 | [90032-3d-mmo-villagers-and-heroes.json](./90032-3d-mmo-villagers-and-heroes.json) |
 | 3D Modern Tower | 357832 | [357832-3d-modern-tower.json](./357832-3d-modern-tower.json) |
 | 3D Monster Maze | 25117 | [25117-3d-monster-maze.json](./25117-3d-monster-maze.json) |
+| 3D Monster Maze | 264371 | [264371-3d-monster-maze.json](./264371-3d-monster-maze.json) |
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
 | 3D Movie Maker | 263635 | [263635-3d-movie-maker.json](./263635-3d-movie-maker.json) |
 | 3D Ms. Maze: Tropical Adventures | 62960 | [62960-3d-ms-maze-tropical-adventures.json](./62960-3d-ms-maze-tropical-adventures.json) |
