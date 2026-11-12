@@ -3813,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Dual Wield | 207750 | [207750-western-dual-wield.json](./207750-western-dual-wield.json) |
 | Western FPS | 29245 | [29245-western-fps.json](./29245-western-fps.json) |
 | Western Front: The Liberation of Europe 1944-1945 | 70234 | [70234-western-front-the-liberation-of-europe-1944-1945.json](./70234-western-front-the-liberation-of-europe-1944-1945.json) |
+| Western Frontier | 291660 | [291660-western-frontier.json](./291660-western-frontier.json) |
 | Western Games | 36657 | [36657-western-games.json](./36657-western-games.json) |
 | Western Girls | 367092 | [367092-western-girls.json](./367092-western-girls.json) |
 | Western Gun Shop Simulator | 401140 | [401140-western-gun-shop-simulator.json](./401140-western-gun-shop-simulator.json) |
@@ -5436,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wii Sports: Airplane | 78192 | [78192-wii-sports-airplane.json](./78192-wii-sports-airplane.json) |
 | Wii U Panorama View | 78866 | [78866-wii-u-panorama-view.json](./78866-wii-u-panorama-view.json) |
 | Wiimms Mario Kart Fun | 130017 | [130017-wiimms-mario-kart-fun.json](./130017-wiimms-mario-kart-fun.json) |
+| Wijita: City of Makers | 292271 | [292271-wijita-city-of-makers.json](./292271-wijita-city-of-makers.json) |
 | Wik & the Fable of Souls | 933 | [933-wik-and-the-fable-of-souls.json](./933-wik-and-the-fable-of-souls.json) |
 | Wika Wicked's Egg | 199450 | [199450-wika-wickeds-egg.json](./199450-wika-wickeds-egg.json) |
 | Wiki Fighter | 425878 | [425878-wiki-fighter.json](./425878-wiki-fighter.json) |
@@ -9296,6 +9298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worldless - Mercenaries | 127598 | [127598-worldless-mercenaries.json](./127598-worldless-mercenaries.json) |
 | Worldly: Country & Maps Quiz | 406058 | [406058-worldly-country-and-maps-quiz.json](./406058-worldly-country-and-maps-quiz.json) |
 | WorldNeverlan: Elnea Kingdom - Bee Apparel Set | 304808 | [304808-worldneverlan-elnea-kingdom-bee-apparel-set.json](./304808-worldneverlan-elnea-kingdom-bee-apparel-set.json) |
+| WorldNeverland: Berry Donut Fair | 291667 | [291667-worldneverland-berry-donut-fair.json](./291667-worldneverland-berry-donut-fair.json) |
 | WorldNeverland: Black Modern Wedding Outfit Set | 301018 | [301018-worldneverland-black-modern-wedding-outfit-set.json](./301018-worldneverland-black-modern-wedding-outfit-set.json) |
 | WorldNeverland: Chocolate Donut Fair | 287173 | [287173-worldneverland-chocolate-donut-fair.json](./287173-worldneverland-chocolate-donut-fair.json) |
 | WorldNeverland: Daily Life in the Elnea Kingdom | 97980 | [97980-worldneverland-daily-life-in-the-elnea-kingdom.json](./97980-worldneverland-daily-life-in-the-elnea-kingdom.json) |
