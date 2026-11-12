@@ -6769,6 +6769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charge! | 148692 | [148692-charge.json](./148692-charge.json) |
 | Charge! | 182784 | [182784-charge.json](./182784-charge.json) |
 | Charge! | 219101 | [219101-charge.json](./219101-charge.json) |
+| Charge! | 249975 | [249975-charge.json](./249975-charge.json) |
 | Charge! | 380071 | [380071-charge.json](./380071-charge.json) |
 | Charge! Tank Squad | 59392 | [59392-charge-tank-squad.json](./59392-charge-tank-squad.json) |
 | Charged: RC Racing | 224906 | [224906-charged-rc-racing.json](./224906-charged-rc-racing.json) |
@@ -12694,6 +12695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cold Abyss | 275906 | [275906-cold-abyss.json](./275906-cold-abyss.json) |
 | Cold Abyss | 325709 | [325709-cold-abyss.json](./325709-cold-abyss.json) |
 | Cold Alley | 74335 | [74335-cold-alley.json](./74335-cold-alley.json) |
+| Cold and Afraid | 249992 | [249992-cold-and-afraid.json](./249992-cold-and-afraid.json) |
 | Cold and Unforgiving | 276108 | [276108-cold-and-unforgiving.json](./276108-cold-and-unforgiving.json) |
 | Cold as Hell | 314776 | [314776-cold-as-hell.json](./314776-cold-as-hell.json) |
 | Cold Bed on Route | 206454 | [206454-cold-bed-on-route.json](./206454-cold-bed-on-route.json) |
@@ -18315,6 +18317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Kong Part II | 311035 | [311035-crazy-kong-part-ii.json](./311035-crazy-kong-part-ii.json) |
 | Crazy Kung Fu | 142161 | [142161-crazy-kung-fu.json](./142161-crazy-kung-fu.json) |
 | Crazy Lakitu | 322917 | [322917-crazy-lakitu.json](./322917-crazy-lakitu.json) |
+| Crazy Lakitu DX | 250061 | [250061-crazy-lakitu-dx.json](./250061-crazy-lakitu-dx.json) |
 | Crazy Life | 415632 | [415632-crazy-life.json](./415632-crazy-life.json) |
 | Crazy Little Jumper | 270572 | [270572-crazy-little-jumper.json](./270572-crazy-little-jumper.json) |
 | Crazy Lizard: The Amazing Journey | 235142 | [235142-crazy-lizard-the-amazing-journey.json](./235142-crazy-lizard-the-amazing-journey.json) |
