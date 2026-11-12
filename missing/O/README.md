@@ -4498,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Origami Treasure | 289435 | [289435-origami-treasure.json](./289435-origami-treasure.json) |
 | Origamihero Games 2D Platformer Collection | 212357 | [212357-origamihero-games-2d-platformer-collection.json](./212357-origamihero-games-2d-platformer-collection.json) |
 | Origamo | 71395 | [71395-origamo.json](./71395-origamo.json) |
+| Origens: Story Mode | 283339 | [283339-origens-story-mode.json](./283339-origens-story-mode.json) |
 | Origens: Story Mode 2 | 375449 | [375449-origens-story-mode-2.json](./375449-origens-story-mode-2.json) |
 | Origens: Story Mode Remastered | 318159 | [318159-origens-story-mode-remastered.json](./318159-origens-story-mode-remastered.json) |
 | Origin | 126648 | [126648-origin.json](./126648-origin.json) |
