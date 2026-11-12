@@ -9341,6 +9341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixely People Making Movies | 114654 | [114654-pixely-people-making-movies.json](./114654-pixely-people-making-movies.json) |
 | Pixelz - Color by Number Pixel Art Coloring Book | 104616 | [104616-pixelz-color-by-number-pixel-art-coloring-book.json](./104616-pixelz-color-by-number-pixel-art-coloring-book.json) |
 | PixelZen | 296550 | [296550-pixelzen.json](./296550-pixelzen.json) |
+| Pixeplorer | 313519 | [313519-pixeplorer.json](./313519-pixeplorer.json) |
 | Pixeria | 210682 | [210682-pixeria.json](./210682-pixeria.json) |
 | Pixeria | 347234 | [347234-pixeria.json](./347234-pixeria.json) |
 | PixEvo: The Fountain | 191901 | [191901-pixevo-the-fountain.json](./191901-pixevo-the-fountain.json) |
@@ -10584,6 +10585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation All-Stars Battle Royale: Fearless | 312972 | [312972-playstation-all-stars-battle-royale-fearless.json](./312972-playstation-all-stars-battle-royale-fearless.json) |
 | PlayStation All-Stars Battle Royale: Fun Pack Costumes | 388494 | [388494-playstation-all-stars-battle-royale-fun-pack-costumes.json](./388494-playstation-all-stars-battle-royale-fun-pack-costumes.json) |
 | PlayStation All-Stars Battle Royale: Funky Astro Suit PaRappa | 315077 | [315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json](./315077-playstation-all-stars-battle-royale-funky-astro-suit-parappa.json) |
+| PlayStation All-Stars Battle Royale: Graveyard | 313018 | [313018-playstation-all-stars-battle-royale-graveyard.json](./313018-playstation-all-stars-battle-royale-graveyard.json) |
 | PlayStation All-Stars Battle Royale: Heavy Hitters Pack | 388491 | [388491-playstation-all-stars-battle-royale-heavy-hitters-pack.json](./388491-playstation-all-stars-battle-royale-heavy-hitters-pack.json) |
 | PlayStation All-Stars Battle Royale: Heroes Pack Costumes | 388493 | [388493-playstation-all-stars-battle-royale-heroes-pack-costumes.json](./388493-playstation-all-stars-battle-royale-heroes-pack-costumes.json) |
 | PlayStation All-Stars Battle Royale: Instructor Mooselini Minion | 315079 | [315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json](./315079-playstation-all-stars-battle-royale-instructor-mooselini-minion.json) |
@@ -18276,6 +18278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Public Defense Corp | 118761 | [118761-public-defense-corp.json](./118761-public-defense-corp.json) |
 | Public Defense Corp: The Ambassador of Peace | 206952 | [206952-public-defense-corp-the-ambassador-of-peace.json](./206952-public-defense-corp-the-ambassador-of-peace.json) |
 | Public Enemies: Bonnie and Clyde | 122100 | [122100-public-enemies-bonnie-and-clyde.json](./122100-public-enemies-bonnie-and-clyde.json) |
+| Public Enemy | 313010 | [313010-public-enemy.json](./313010-public-enemy.json) |
 | Public Enemy: The Dark Future | 248293 | [248293-public-enemy-the-dark-future.json](./248293-public-enemy-the-dark-future.json) |
 | Public Fears: George's Farm | 408010 | [408010-public-fears-georges-farm.json](./408010-public-fears-georges-farm.json) |
 | Public Lives | 413129 | [413129-public-lives.json](./413129-public-lives.json) |
