@@ -4016,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Atlantis | 341135 | [341135-battle-for-atlantis.json](./341135-battle-for-atlantis.json) |
 | Battle for Borders | 236802 | [236802-battle-for-borders.json](./236802-battle-for-borders.json) |
 | Battle for Cloud 9 | 337285 | [337285-battle-for-cloud-9.json](./337285-battle-for-cloud-9.json) |
+| Battle For Cosmos | 251890 | [251890-battle-for-cosmos.json](./251890-battle-for-cosmos.json) |
 | Battle For Crown: Multiplayer | 405644 | [405644-battle-for-crown-multiplayer.json](./405644-battle-for-crown-multiplayer.json) |
 | Battle for Cydonia | 63205 | [63205-battle-for-cydonia.json](./63205-battle-for-cydonia.json) |
 | Battle for Desert City | 281952 | [281952-battle-for-desert-city.json](./281952-battle-for-desert-city.json) |
@@ -4288,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Of Witches | 331075 | [331075-battle-of-witches.json](./331075-battle-of-witches.json) |
 | Battle of Words | 269081 | [269081-battle-of-words.json](./269081-battle-of-words.json) |
 | Battle of Worldviews | 105240 | [105240-battle-of-worldviews.json](./105240-battle-of-worldviews.json) |
+| Battle of Zama | 251792 | [251792-battle-of-zama.json](./251792-battle-of-zama.json) |
 | Battle of Zodiacs | 247703 | [247703-battle-of-zodiacs.json](./247703-battle-of-zodiacs.json) |
 | Battle On! Hero Academy | 373126 | [373126-battle-on-hero-academy.json](./373126-battle-on-hero-academy.json) |
 | Battle Orb | 341657 | [341657-battle-orb.json](./341657-battle-orb.json) |
@@ -18951,6 +18953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper Kitty | 302249 | [302249-bumper-kitty.json](./302249-bumper-kitty.json) |
 | Bumper Stickers Archipelago Edition | 271950 | [271950-bumper-stickers-archipelago-edition.json](./271950-bumper-stickers-archipelago-edition.json) |
 | Bumper Stickers MZX | 271949 | [271949-bumper-stickers-mzx.json](./271949-bumper-stickers-mzx.json) |
+| Bumper Tanks | 251867 | [251867-bumper-tanks.json](./251867-bumper-tanks.json) |
 | Bumper Wars | 71534 | [71534-bumper-wars.json](./71534-bumper-wars.json) |
 | Bumper.io | 106376 | [106376-bumper-io.json](./106376-bumper-io.json) |
 | Bumpers & Broadswords | 201117 | [201117-bumpers-and-broadswords.json](./201117-bumpers-and-broadswords.json) |
