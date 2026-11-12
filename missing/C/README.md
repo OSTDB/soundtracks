@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Knockdown 3 | 96722 | [96722-can-knockdown-3.json](./96722-can-knockdown-3.json) |
 | Can No One Hear Me? | 329591 | [329591-can-no-one-hear-me.json](./329591-can-no-one-hear-me.json) |
 | Can of Wormholes | 211936 | [211936-can-of-wormholes.json](./211936-can-of-wormholes.json) |
+| Can of Worms | 305046 | [305046-can-of-worms.json](./305046-can-of-worms.json) |
 | Can Shot | 305396 | [305396-can-shot.json](./305396-can-shot.json) |
 | Can Strike | 259727 | [259727-can-strike.json](./259727-can-strike.json) |
 | Can We Be Three? | 385271 | [385271-can-we-be-three.json](./385271-can-we-be-three.json) |
@@ -1868,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cape's Escape Game 6th Room | 280586 | [280586-capes-escape-game-6th-room.json](./280586-capes-escape-game-6th-room.json) |
 | Cape's Escape Game 7th Room | 287171 | [287171-capes-escape-game-7th-room.json](./287171-capes-escape-game-7th-room.json) |
 | Cape's Escape Game 8th Room | 297311 | [297311-capes-escape-game-8th-room.json](./297311-capes-escape-game-8th-room.json) |
+| Cape's Escape Game: 9th Room | 305571 | [305571-capes-escape-game-9th-room.json](./305571-capes-escape-game-9th-room.json) |
 | Capeless Heroes | 176223 | [176223-capeless-heroes.json](./176223-capeless-heroes.json) |
 | Capella's Promise | 124531 | [124531-capellas-promise.json](./124531-capellas-promise.json) |
 | Capelord: Bounty Hunters | 190718 | [190718-capelord-bounty-hunters.json](./190718-capelord-bounty-hunters.json) |
@@ -17079,6 +17081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cozy Gardener Simulator & House Renovator Simulator | 377273 | [377273-cozy-gardener-simulator-and-house-renovator-simulator.json](./377273-cozy-gardener-simulator-and-house-renovator-simulator.json) |
 | Cozy Grove | 144800 | [144800-cozy-grove.json](./144800-cozy-grove.json) |
 | Cozy Grove + New Neighbears Bundle | 199635 | [199635-cozy-grove-new-neighbears-bundle.json](./199635-cozy-grove-new-neighbears-bundle.json) |
+| Cozy Grove: Camp Spirit | 305032 | [305032-cozy-grove-camp-spirit.json](./305032-cozy-grove-camp-spirit.json) |
 | Cozy Grove: New Neighbears | 197968 | [197968-cozy-grove-new-neighbears.json](./197968-cozy-grove-new-neighbears.json) |
 | Cozy Halloween | 339329 | [339329-cozy-halloween.json](./339329-cozy-halloween.json) |
 | Cozy Hamlets | 290441 | [290441-cozy-hamlets.json](./290441-cozy-hamlets.json) |
@@ -21012,6 +21015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cult of the Lamb: Sinful Edition | 310433 | [310433-cult-of-the-lamb-sinful-edition.json](./310433-cult-of-the-lamb-sinful-edition.json) |
 | Cult of the Lamb: Sins of the Flesh | 283335 | [283335-cult-of-the-lamb-sins-of-the-flesh.json](./283335-cult-of-the-lamb-sins-of-the-flesh.json) |
 | Cult of the Lamb: The One Who Waits | 408806 | [408806-cult-of-the-lamb-the-one-who-waits.json](./408806-cult-of-the-lamb-the-one-who-waits.json) |
+| Cult of the Lamb: Unholy Alliance | 305037 | [305037-cult-of-the-lamb-unholy-alliance.json](./305037-cult-of-the-lamb-unholy-alliance.json) |
 | Cult of the Lamb: Unholy Edition | 324380 | [324380-cult-of-the-lamb-unholy-edition.json](./324380-cult-of-the-lamb-unholy-edition.json) |
 | Cult of the Lamb: Unholy Pack Bundle | 324472 | [324472-cult-of-the-lamb-unholy-pack-bundle.json](./324472-cult-of-the-lamb-unholy-pack-bundle.json) |
 | Cult of the Lamb: Woolhaven | 361888 | [361888-cult-of-the-lamb-woolhaven.json](./361888-cult-of-the-lamb-woolhaven.json) |
