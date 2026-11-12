@@ -8174,10 +8174,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gradius | 262393 | [262393-gradius.json](./262393-gradius.json) |
 | Gradius | 262394 | [262394-gradius.json](./262394-gradius.json) |
 | Gradius | 262395 | [262395-gradius.json](./262395-gradius.json) |
+| Gradius | 280476 | [280476-gradius.json](./280476-gradius.json) |
 | Gradius Deluxe Pack | 83284 | [83284-gradius-deluxe-pack.json](./83284-gradius-deluxe-pack.json) |
 | Gradius Gaiden | 1484 | [1484-gradius-gaiden.json](./1484-gradius-gaiden.json) |
 | Gradius Galaxies | 77990 | [77990-gradius-galaxies.json](./77990-gradius-galaxies.json) |
 | Gradius II | 213190 | [213190-gradius-ii.json](./213190-gradius-ii.json) |
+| Gradius II | 280486 | [280486-gradius-ii.json](./280486-gradius-ii.json) |
 | Gradius II: Gofer no Yabou | 213189 | [213189-gradius-ii-gofer-no-yabou.json](./213189-gradius-ii-gofer-no-yabou.json) |
 | Gradius III | 335430 | [335430-gradius-iii.json](./335430-gradius-iii.json) |
 | Gradius III and IV | 98976 | [98976-gradius-iii-and-iv.json](./98976-gradius-iii-and-iv.json) |
