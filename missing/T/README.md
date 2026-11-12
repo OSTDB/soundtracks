@@ -8492,6 +8492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Arrival: Shadows of the Past | 343269 | [343269-the-dark-arrival-shadows-of-the-past.json](./343269-the-dark-arrival-shadows-of-the-past.json) |
 | The Dark Book | 248713 | [248713-the-dark-book.json](./248713-the-dark-book.json) |
 | The Dark Book 2 | 274489 | [274489-the-dark-book-2.json](./274489-the-dark-book-2.json) |
+| The Dark Cave | 286709 | [286709-the-dark-cave.json](./286709-the-dark-cave.json) |
 | The Dark Climb | 253423 | [253423-the-dark-climb.json](./253423-the-dark-climb.json) |
 | The Dark Convergence | 171839 | [171839-the-dark-convergence.json](./171839-the-dark-convergence.json) |
 | The Dark Convergence II | 171840 | [171840-the-dark-convergence-ii.json](./171840-the-dark-convergence-ii.json) |
@@ -18784,6 +18785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terrible Old Man: Collector's Edition | 156100 | [156100-the-terrible-old-man-collectors-edition.json](./156100-the-terrible-old-man-collectors-edition.json) |
 | The Terrible Persistence of Memory | 152702 | [152702-the-terrible-persistence-of-memory.json](./152702-the-terrible-persistence-of-memory.json) |
 | The Terrible Whiteness of Appalachian Nights | 56212 | [56212-the-terrible-whiteness-of-appalachian-nights.json](./56212-the-terrible-whiteness-of-appalachian-nights.json) |
+| The Terrifying Carnival of Fear | 286712 | [286712-the-terrifying-carnival-of-fear.json](./286712-the-terrifying-carnival-of-fear.json) |
 | The Territory of Egg | 242415 | [242415-the-territory-of-egg.json](./242415-the-territory-of-egg.json) |
 | The Territory of Egg 2 | 309559 | [309559-the-territory-of-egg-2.json](./309559-the-territory-of-egg-2.json) |
 | The Terror At Freddy's | 338912 | [338912-the-terror-at-freddys.json](./338912-the-terror-at-freddys.json) |
