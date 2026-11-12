@@ -2379,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tao Taido | 39585 | [39585-tao-taido.json](./39585-tao-taido.json) |
 | Tao Yuan Shen Chu You Ren Jia | 283374 | [283374-tao-yuan-shen-chu-you-ren-jia.json](./283374-tao-yuan-shen-chu-you-ren-jia.json) |
 | Tao's Adventure: Curse of the Demon Seal | 20495 | [20495-taos-adventure-curse-of-the-demon-seal.json](./20495-taos-adventure-curse-of-the-demon-seal.json) |
+| Taoism | 247793 | [247793-taoism.json](./247793-taoism.json) |
 | Taoist Down the Hill | 301621 | [301621-taoist-down-the-hill.json](./301621-taoist-down-the-hill.json) |
 | Taoist immortal | 114574 | [114574-taoist-immortal.json](./114574-taoist-immortal.json) |
 | Taoist Priest Yan | 189028 | [189028-taoist-priest-yan.json](./189028-taoist-priest-yan.json) |
@@ -13234,6 +13235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Survey | 139318 | [139318-the-last-survey.json](./139318-the-last-survey.json) |
 | The Last Survivor | 113878 | [113878-the-last-survivor.json](./113878-the-last-survivor.json) |
 | The Last Survivors | 101026 | [101026-the-last-survivors.json](./101026-the-last-survivors.json) |
+| The Last Survivors | 247728 | [247728-the-last-survivors.json](./247728-the-last-survivors.json) |
 | The Last Survivors Harem | 379007 | [379007-the-last-survivors-harem.json](./379007-the-last-survivors-harem.json) |
 | The Last Sword | 235808 | [235808-the-last-sword.json](./235808-the-last-sword.json) |
 | The Last Tale | 403004 | [403004-the-last-tale.json](./403004-the-last-tale.json) |
@@ -16536,6 +16538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quiet Order | 410549 | [410549-the-quiet-order.json](./410549-the-quiet-order.json) |
 | The Quiet Pelagian | 401316 | [401316-the-quiet-pelagian.json](./401316-the-quiet-pelagian.json) |
 | The Quiet Sleep | 72385 | [72385-the-quiet-sleep.json](./72385-the-quiet-sleep.json) |
+| The Quiet Things | 247791 | [247791-the-quiet-things.json](./247791-the-quiet-things.json) |
 | The Quintessential Princesses: Fantasy, Abyss, and Magic Academy | 342720 | [342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json](./342720-the-quintessential-princesses-fantasy-abyss-and-magic-academy.json) |
 | The Quintessential Quintuplets the Movie: Five Memories of My Time With You - Limited Edition | 201033 | [201033-the-quintessential-quintuplets-the-movie-five-memories-of-my-time-with-you-limited-edition.json](./201033-the-quintessential-quintuplets-the-movie-five-memories-of-my-time-with-you-limited-edition.json) |
 | The Quintessential Quintuplets: Five Memories Spent With You | 201044 | [201044-the-quintessential-quintuplets-five-memories-spent-with-you.json](./201044-the-quintessential-quintuplets-five-memories-spent-with-you.json) |
@@ -17110,6 +17113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rust Belt | 59786 | [59786-the-rust-belt.json](./59786-the-rust-belt.json) |
 | The Rust Forge | 271345 | [271345-the-rust-forge.json](./271345-the-rust-forge.json) |
 | The Rusted | 379377 | [379377-the-rusted.json](./379377-the-rusted.json) |
+| The Rusty Longsword | 247792 | [247792-the-rusty-longsword.json](./247792-the-rusty-longsword.json) |
 | The Rusty Sword: Vanguard Island | 199397 | [199397-the-rusty-sword-vanguard-island.json](./199397-the-rusty-sword-vanguard-island.json) |
 | The S Factor: Sonia and Silver | 45579 | [45579-the-s-factor-sonia-and-silver.json](./45579-the-s-factor-sonia-and-silver.json) |
 | The S.H.O.W. | 412964 | [412964-the-s-h-o-w.json](./412964-the-s-h-o-w.json) |
@@ -32022,6 +32026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trans Coming Out Simulator 2018 | 176927 | [176927-trans-coming-out-simulator-2018.json](./176927-trans-coming-out-simulator-2018.json) |
 | Trans Goetia | 239529 | [239529-trans-goetia.json](./239529-trans-goetia.json) |
 | Trans Liberation Forever | 277409 | [277409-trans-liberation-forever.json](./277409-trans-liberation-forever.json) |
+| Trans Neuronica | 247801 | [247801-trans-neuronica.json](./247801-trans-neuronica.json) |
 | Trans Theft Horso | 258563 | [258563-trans-theft-horso.json](./258563-trans-theft-horso.json) |
 | Trans-Galactic Tournament | 77963 | [77963-trans-galactic-tournament.json](./77963-trans-galactic-tournament.json) |
 | Trans-Siberian Legends | 288386 | [288386-trans-siberian-legends.json](./288386-trans-siberian-legends.json) |
@@ -33094,6 +33099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of the Illuminati: Sea Creatures Jigsaws | 334759 | [334759-trials-of-the-illuminati-sea-creatures-jigsaws.json](./334759-trials-of-the-illuminati-sea-creatures-jigsaws.json) |
 | Trials of the Illuminati: Snack Time Jigsaw Puzzles | 109660 | [109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json](./109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json) |
 | Trials of the Illuminati: Women of Beauty Jigsaws | 221512 | [221512-trials-of-the-illuminati-women-of-beauty-jigsaws.json](./221512-trials-of-the-illuminati-women-of-beauty-jigsaws.json) |
+| Trials of the Spirit | 247716 | [247716-trials-of-the-spirit.json](./247716-trials-of-the-spirit.json) |
 | Trials of the Taker | 418407 | [418407-trials-of-the-taker.json](./418407-trials-of-the-taker.json) |
 | Trials of the Thief-Taker | 55362 | [55362-trials-of-the-thief-taker.json](./55362-trials-of-the-thief-taker.json) |
 | Trials of Titan | 138602 | [138602-trials-of-titan.json](./138602-trials-of-titan.json) |
