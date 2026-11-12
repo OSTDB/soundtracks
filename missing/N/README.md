@@ -989,6 +989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NationZero | 422650 | [422650-nationzero.json](./422650-nationzero.json) |
 | Native | 270274 | [270274-native.json](./270274-native.json) |
 | Native Hunter | 235915 | [235915-native-hunter.json](./235915-native-hunter.json) |
+| Native Isekai Defense | 316510 | [316510-native-isekai-defense.json](./316510-native-isekai-defense.json) |
 | Natives | 250753 | [250753-natives.json](./250753-natives.json) |
 | Natives | 28382 | [28382-natives.json](./28382-natives.json) |
 | NATO Assault Course | 72461 | [72461-nato-assault-course.json](./72461-nato-assault-course.json) |
@@ -7323,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nostalgia Ain't What It Used to Be | 269101 | [269101-nostalgia-aint-what-it-used-to-be.json](./269101-nostalgia-aint-what-it-used-to-be.json) |
 | Nostalgia Game Shop: Tidy Up | 414768 | [414768-nostalgia-game-shop-tidy-up.json](./414768-nostalgia-game-shop-tidy-up.json) |
 | Nostalgia of Magic | 145593 | [145593-nostalgia-of-magic.json](./145593-nostalgia-of-magic.json) |
+| Nostalgia Zero | 317504 | [317504-nostalgia-zero.json](./317504-nostalgia-zero.json) |
 | Nostalgia: Forte | 135471 | [135471-nostalgia-forte.json](./135471-nostalgia-forte.json) |
 | Nostalgia: Op.2 | 135470 | [135470-nostalgia-op-2.json](./135470-nostalgia-op-2.json) |
 | Nostalgia: Op.3 | 135477 | [135477-nostalgia-op-3.json](./135477-nostalgia-op-3.json) |
@@ -7858,6 +7860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NubiaPhobia | 345019 | [345019-nubiaphobia.json](./345019-nubiaphobia.json) |
 | Nubla | 26813 | [26813-nubla.json](./26813-nubla.json) |
 | Nubla 2 | 118539 | [118539-nubla-2.json](./118539-nubla-2.json) |
+| Nubs! Arena | 318813 | [318813-nubs-arena.json](./318813-nubs-arena.json) |
 | Nuclear Apocalypse 101 | 110032 | [110032-nuclear-apocalypse-101.json](./110032-nuclear-apocalypse-101.json) |
 | Nuclear Arena | 231585 | [231585-nuclear-arena.json](./231585-nuclear-arena.json) |
 | Nuclear Arms Race | 127600 | [127600-nuclear-arms-race.json](./127600-nuclear-arms-race.json) |
