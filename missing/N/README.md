@@ -3100,6 +3100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetStars: VR Goalie Trainer | 93679 | [93679-netstars-vr-goalie-trainer.json](./93679-netstars-vr-goalie-trainer.json) |
 | NetStorm: Islands At War | 1358 | [1358-netstorm-islands-at-war.json](./1358-netstorm-islands-at-war.json) |
 | Netsu Chu! Pro Yakyuu 2002 | 403523 | [403523-netsu-chu-pro-yakyuu-2002.json](./403523-netsu-chu-pro-yakyuu-2002.json) |
+| Nettai Teikiatsu Shoujo | 276895 | [276895-nettai-teikiatsu-shoujo.json](./276895-nettai-teikiatsu-shoujo.json) |
 | Nettle Slasher | 363139 | [363139-nettle-slasher.json](./363139-nettle-slasher.json) |
 | Netto de Para | 267584 | [267584-netto-de-para.json](./267584-netto-de-para.json) |
 | Netto de Tennis | 58169 | [58169-netto-de-tennis.json](./58169-netto-de-tennis.json) |
