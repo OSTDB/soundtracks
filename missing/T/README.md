@@ -10725,6 +10725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ghost X: Sniper Simulator | 272445 | [272445-the-ghost-x-sniper-simulator.json](./272445-the-ghost-x-sniper-simulator.json) |
 | The Ghost X: Sniper Simulator - Arsenal Expansion | 304814 | [304814-the-ghost-x-sniper-simulator-arsenal-expansion.json](./304814-the-ghost-x-sniper-simulator-arsenal-expansion.json) |
 | The Ghost X: Sniper Simulator - Premium Edition | 305594 | [305594-the-ghost-x-sniper-simulator-premium-edition.json](./305594-the-ghost-x-sniper-simulator-premium-edition.json) |
+| The Ghost: Survival Horror | 276351 | [276351-the-ghost-survival-horror.json](./276351-the-ghost-survival-horror.json) |
 | The Ghost: Task of the Ghost Hunters | 188856 | [188856-the-ghost-task-of-the-ghost-hunters.json](./188856-the-ghost-task-of-the-ghost-hunters.json) |
 | The Ghosts of Blackwood Manor | 308021 | [308021-the-ghosts-of-blackwood-manor.json](./308021-the-ghosts-of-blackwood-manor.json) |
 | The Ghosts of Hackney Mills | 74985 | [74985-the-ghosts-of-hackney-mills.json](./74985-the-ghosts-of-hackney-mills.json) |
@@ -20164,9 +20165,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way Home: A Typing Adventure | 287441 | [287441-the-way-home-a-typing-adventure.json](./287441-the-way-home-a-typing-adventure.json) |
 | The Way Home: Dungeon Cat | 193711 | [193711-the-way-home-dungeon-cat.json](./193711-the-way-home-dungeon-cat.json) |
 | The Way It Rains on Animals | 332806 | [332806-the-way-it-rains-on-animals.json](./332806-the-way-it-rains-on-animals.json) |
+| The Way of All Flesh-Again | 276360 | [276360-the-way-of-all-flesh-again.json](./276360-the-way-of-all-flesh-again.json) |
 | The Way of Cinnamon | 120006 | [120006-the-way-of-cinnamon.json](./120006-the-way-of-cinnamon.json) |
 | The Way of Cooking | 292525 | [292525-the-way-of-cooking.json](./292525-the-way-of-cooking.json) |
 | The Way of Death | 244285 | [244285-the-way-of-death.json](./244285-the-way-of-death.json) |
+| The Way of Ira | 276437 | [276437-the-way-of-ira.json](./276437-the-way-of-ira.json) |
 | The Way Of Kings | 296606 | [296606-the-way-of-kings.json](./296606-the-way-of-kings.json) |
 | The Way of Kings: Escape the Shattered Plains | 87860 | [87860-the-way-of-kings-escape-the-shattered-plains.json](./87860-the-way-of-kings-escape-the-shattered-plains.json) |
 | The Way of Kings: Escape the Shattered Plains! | 88009 | [88009-the-way-of-kings-escape-the-shattered-plains.json](./88009-the-way-of-kings-escape-the-shattered-plains.json) |
@@ -24450,6 +24453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Dudes | 321674 | [321674-time-dudes.json](./321674-time-dudes.json) |
 | Time Enforcers | 337500 | [337500-time-enforcers.json](./337500-time-enforcers.json) |
 | Time Engineer Saga: Situation Zulu | 416052 | [416052-time-engineer-saga-situation-zulu.json](./416052-time-engineer-saga-situation-zulu.json) |
+| Time Episode | 276439 | [276439-time-episode.json](./276439-time-episode.json) |
 | Time Escape: A Prototype | 288602 | [288602-time-escape-a-prototype.json](./288602-time-escape-a-prototype.json) |
 | Time Fantasy | 84431 | [84431-time-fantasy.json](./84431-time-fantasy.json) |
 | Time Fcuk | 64530 | [64530-time-fcuk.json](./64530-time-fcuk.json) |
