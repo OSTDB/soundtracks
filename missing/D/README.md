@@ -7555,6 +7555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Langrisser FX | 375474 | [375474-der-langrisser-fx.json](./375474-der-langrisser-fx.json) |
 | Der Milchbauer | 108322 | [108322-der-milchbauer.json](./108322-der-milchbauer.json) |
 | Der Pfad des Pinguins | 262242 | [262242-der-pfad-des-pinguins.json](./262242-der-pfad-des-pinguins.json) |
+| Der Pferderennstall | 257601 | [257601-der-pferderennstall.json](./257601-der-pferderennstall.json) |
 | Der Planer | 86048 | [86048-der-planer.json](./86048-der-planer.json) |
 | Der Planer 3 | 92964 | [92964-der-planer-3.json](./92964-der-planer-3.json) |
 | Der Räuber Hotzenplotz | 364340 | [364340-der-rauber-hotzenplotz.json](./364340-der-rauber-hotzenplotz.json) |
@@ -12943,6 +12944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Exit Music | 165138 | [165138-doki-doki-exit-music.json](./165138-doki-doki-exit-music.json) |
 | Doki Doki Exit Music Epilogue | 353423 | [353423-doki-doki-exit-music-epilogue.json](./353423-doki-doki-exit-music-epilogue.json) |
 | Doki Doki Exit Music: Redux | 201845 | [201845-doki-doki-exit-music-redux.json](./201845-doki-doki-exit-music-redux.json) |
+| Doki Doki Fallen Angel | 257589 | [257589-doki-doki-fallen-angel.json](./257589-doki-doki-fallen-angel.json) |
 | Doki Doki Family: Toku Itaishitsu no Doki-doki Kazoku Seikatsu | 201370 | [201370-doki-doki-family-toku-itaishitsu-no-doki-doki-kazoku-seikatsu.json](./201370-doki-doki-family-toku-itaishitsu-no-doki-doki-kazoku-seikatsu.json) |
 | Doki Doki Fiendish | 332852 | [332852-doki-doki-fiendish.json](./332852-doki-doki-fiendish.json) |
 | Doki Doki First Love Club! | 153950 | [153950-doki-doki-first-love-club.json](./153950-doki-doki-first-love-club.json) |
@@ -12965,6 +12967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doki Doki Loser MC | 334271 | [334271-doki-doki-loser-mc.json](./334271-doki-doki-loser-mc.json) |
 | Doki Doki Love and Literature | 336270 | [336270-doki-doki-love-and-literature.json](./336270-doki-doki-love-and-literature.json) |
 | Doki Doki Malignancy | 333923 | [333923-doki-doki-malignancy.json](./333923-doki-doki-malignancy.json) |
+| Doki Doki Meme Club | 257599 | [257599-doki-doki-meme-club.json](./257599-doki-doki-meme-club.json) |
 | Doki Doki Meme Club 2: Rise of The Dark Memes | 336243 | [336243-doki-doki-meme-club-2-rise-of-the-dark-memes.json](./336243-doki-doki-meme-club-2-rise-of-the-dark-memes.json) |
 | Doki Doki Memories of Nothing | 333832 | [333832-doki-doki-memories-of-nothing.json](./333832-doki-doki-memories-of-nothing.json) |
 | Doki Doki Metal Club | 256956 | [256956-doki-doki-metal-club.json](./256956-doki-doki-metal-club.json) |
@@ -13817,6 +13820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong 3 | 145239 | [145239-donkey-kong-3.json](./145239-donkey-kong-3.json) |
 | Donkey Kong 3 | 178167 | [178167-donkey-kong-3.json](./178167-donkey-kong-3.json) |
 | Donkey Kong 3 | 231747 | [231747-donkey-kong-3.json](./231747-donkey-kong-3.json) |
+| Donkey Kong 3 | 257633 | [257633-donkey-kong-3.json](./257633-donkey-kong-3.json) |
 | Donkey Kong 3 & Samus | 323885 | [323885-donkey-kong-3-and-samus.json](./323885-donkey-kong-3-and-samus.json) |
 | Donkey Kong 3-e | 170016 | [170016-donkey-kong-3-e.json](./170016-donkey-kong-3-e.json) |
 | Donkey Kong 3: Another Rise! | 234771 | [234771-donkey-kong-3-another-rise.json](./234771-donkey-kong-3-another-rise.json) |
