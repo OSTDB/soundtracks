@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zedfall: Outbreak | 417244 | [417244-zedfall-outbreak.json](./417244-zedfall-outbreak.json) |
 | Zedfest | 127436 | [127436-zedfest.json](./127436-zedfest.json) |
 | Zedipede | 279732 | [279732-zedipede.json](./279732-zedipede.json) |
+| Zedwolf | 287364 | [287364-zedwolf.json](./287364-zedwolf.json) |
 | Zee Artillery | 93068 | [93068-zee-artillery.json](./93068-zee-artillery.json) |
 | Zee.End | 170280 | [170280-zee-end.json](./170280-zee-end.json) |
 | Zeebo Extreme: Bóia Cross | 66504 | [66504-zeebo-extreme-boia-cross.json](./66504-zeebo-extreme-boia-cross.json) |
