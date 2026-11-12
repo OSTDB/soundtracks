@@ -4317,10 +4317,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pendulous | 64841 | [64841-pendulous.json](./64841-pendulous.json) |
 | Pendulumania | 72247 | [72247-pendulumania.json](./72247-pendulumania.json) |
 | Penelope | 149775 | [149775-penelope.json](./149775-penelope.json) |
+| Penelope | 261494 | [261494-penelope.json](./261494-penelope.json) |
 | Penelope Pendrick and the Art of Deceit | 316422 | [316422-penelope-pendrick-and-the-art-of-deceit.json](./316422-penelope-pendrick-and-the-art-of-deceit.json) |
 | Penelope Syndrome | 341585 | [341585-penelope-syndrome.json](./341585-penelope-syndrome.json) |
 | Penelope's Gift | 397379 | [397379-penelopes-gift.json](./397379-penelopes-gift.json) |
 | Penelope's Odyssey | 190700 | [190700-penelopes-odyssey.json](./190700-penelopes-odyssey.json) |
+| Penetration | 262019 | [262019-penetration.json](./262019-penetration.json) |
 | Penetration | 281413 | [281413-penetration.json](./281413-penetration.json) |
 | Penetrator | 25836 | [25836-penetrator.json](./25836-penetrator.json) |
 | Penga & Obcster's Christmish Adventure | 26757 | [26757-penga-and-obcsters-christmish-adventure.json](./26757-penga-and-obcsters-christmish-adventure.json) |
@@ -15154,6 +15156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presentfall: Santa Defense | 384521 | [384521-presentfall-santa-defense.json](./384521-presentfall-santa-defense.json) |
 | Presentiment of Death | 241650 | [241650-presentiment-of-death.json](./241650-presentiment-of-death.json) |
 | Presents to the Metal | 307601 | [307601-presents-to-the-metal.json](./307601-presents-to-the-metal.json) |
+| Preserve | 261574 | [261574-preserve.json](./261574-preserve.json) |
 | Preserve: Ice Age | 380930 | [380930-preserve-ice-age.json](./380930-preserve-ice-age.json) |
 | President | 93038 | [93038-president.json](./93038-president.json) |
 | President 47 | 318435 | [318435-president-47.json](./318435-president-47.json) |
@@ -16804,6 +16807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Amalthea: Battlegrounds | 81069 | [81069-project-amalthea-battlegrounds.json](./81069-project-amalthea-battlegrounds.json) |
 | Project Amalthea: Campaign | 170158 | [170158-project-amalthea-campaign.json](./170158-project-amalthea-campaign.json) |
 | Project Amaranth | 103925 | [103925-project-amaranth.json](./103925-project-amaranth.json) |
+| Project Americas | 261490 | [261490-project-americas.json](./261490-project-americas.json) |
 | Project Anderson & The Legacy of Cthulhu | 25437 | [25437-project-anderson-and-the-legacy-of-cthulhu.json](./25437-project-anderson-and-the-legacy-of-cthulhu.json) |
 | Project Angels | 203310 | [203310-project-angels.json](./203310-project-angels.json) |
 | Project Anomaly | 193952 | [193952-project-anomaly.json](./193952-project-anomaly.json) |
