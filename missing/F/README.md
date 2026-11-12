@@ -6456,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Racing | 285464 | [285464-fire-racing.json](./285464-fire-racing.json) |
 | Fire Rescue | 318366 | [318366-fire-rescue.json](./318366-fire-rescue.json) |
 | Fire Rescue | 80850 | [80850-fire-rescue.json](./80850-fire-rescue.json) |
+| Fire Ride: Ball game | 256511 | [256511-fire-ride-ball-game.json](./256511-fire-ride-ball-game.json) |
 | Fire Rides | 74960 | [74960-fire-rides.json](./74960-fire-rides.json) |
 | Fire Road | 370956 | [370956-fire-road.json](./370956-fire-road.json) |
 | Fire Rock | 41302 | [41302-fire-rock.json](./41302-fire-rock.json) |
