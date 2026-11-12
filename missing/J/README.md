@@ -3085,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Flight | 221100 | [221100-joy-flight.json](./221100-joy-flight.json) |
 | Joy Garden | 234447 | [234447-joy-garden.json](./234447-joy-garden.json) |
 | Joy Guardians TD | 379848 | [379848-joy-guardians-td.json](./379848-joy-guardians-td.json) |
+| Joy Land | 283351 | [283351-joy-land.json](./283351-joy-land.json) |
 | Joy Life | 259084 | [259084-joy-life.json](./259084-joy-life.json) |
 | Joy Life 2 | 265557 | [265557-joy-life-2.json](./265557-joy-life-2.json) |
 | Joy Life 3 | 273461 | [273461-joy-life-3.json](./273461-joy-life-3.json) |
