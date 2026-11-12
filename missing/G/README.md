@@ -5162,6 +5162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glaive | 262009 | [262009-glaive.json](./262009-glaive.json) |
 | Glaive | 31965 | [31965-glaive.json](./31965-glaive.json) |
 | Glaive 2 | 262010 | [262010-glaive-2.json](./262010-glaive-2.json) |
+| Glaive 3 | 262011 | [262011-glaive-3.json](./262011-glaive-3.json) |
 | Glaive: Brick Breaker | 95216 | [95216-glaive-brick-breaker.json](./95216-glaive-brick-breaker.json) |
 | GlaiveBound | 290719 | [290719-glaivebound.json](./290719-glaivebound.json) |
 | Glam Descent | 260003 | [260003-glam-descent.json](./260003-glam-descent.json) |
