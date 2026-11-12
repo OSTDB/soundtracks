@@ -2015,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kerogen | 399667 | [399667-kerogen.json](./399667-kerogen.json) |
 | Keroppi to Keroriinu no Splash Bomb! | 48441 | [48441-keroppi-to-keroriinu-no-splash-bomb.json](./48441-keroppi-to-keroriinu-no-splash-bomb.json) |
 | Keroro Gunsou Taiketsu! Keroro Cart de Arimasu!! | 49646 | [49646-keroro-gunsou-taiketsu-keroro-cart-de-arimasu.json](./49646-keroro-gunsou-taiketsu-keroro-cart-de-arimasu.json) |
+| Keroro Gunsou: Enshuu Dayo! Zenin Shuugou Part 2 | 294617 | [294617-keroro-gunsou-enshuu-dayo-zenin-shuugou-part-2.json](./294617-keroro-gunsou-enshuu-dayo-zenin-shuugou-part-2.json) |
 | Keroro Gunsou: MeroMero Battle Royale | 61422 | [61422-keroro-gunsou-meromero-battle-royale.json](./61422-keroro-gunsou-meromero-battle-royale.json) |
 | Keroro Gunsou: MeroMero Battle Royale Z | 61420 | [61420-keroro-gunsou-meromero-battle-royale-z.json](./61420-keroro-gunsou-meromero-battle-royale-z.json) |
 | Keroro Gunsou: Taiketsu! Gekisou Keronprix Daisakusen de arimasu! | 61421 | [61421-keroro-gunsou-taiketsu-gekisou-keronprix-daisakusen-de-arimasu.json](./61421-keroro-gunsou-taiketsu-gekisou-keronprix-daisakusen-de-arimasu.json) |
@@ -6783,6 +6784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kya: Dark Lineage | 22283 | [22283-kya-dark-lineage.json](./22283-kya-dark-lineage.json) |
 | Kyatto Ninden Teyandee | 24480 | [24480-kyatto-ninden-teyandee.json](./24480-kyatto-ninden-teyandee.json) |
 | Kyber Knights | 126927 | [126927-kyber-knights.json](./126927-kyber-knights.json) |
+| Kyber Kraft | 294902 | [294902-kyber-kraft.json](./294902-kyber-kraft.json) |
 | Kye | 271700 | [271700-kye.json](./271700-kye.json) |
 | Kye | 98948 | [98948-kye.json](./98948-kye.json) |
 | Kyen: The Skeleton Amulet | 402754 | [402754-kyen-the-skeleton-amulet.json](./402754-kyen-the-skeleton-amulet.json) |
