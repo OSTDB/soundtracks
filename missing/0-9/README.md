@@ -3407,6 +3407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7 Ate 9 | 316435 | [316435-7-ate-9.json](./316435-7-ate-9.json) |
 | 7 Blades | 27622 | [27622-7-blades.json](./27622-7-blades.json) |
 | 7 Card Games | 84685 | [84685-7-card-games.json](./84685-7-card-games.json) |
+| 7 Card Studs | 251263 | [251263-7-card-studs.json](./251263-7-card-studs.json) |
 | 7 Colors | 11878 | [11878-7-colors.json](./11878-7-colors.json) |
 | 7 Days | 314017 | [314017-7-days.json](./314017-7-days.json) |
 | 7 Days a Skeptic | 73478 | [73478-7-days-a-skeptic.json](./73478-7-days-a-skeptic.json) |
