@@ -2070,6 +2070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kevurah Horror Tale | 307879 | [307879-kevurah-horror-tale.json](./307879-kevurah-horror-tale.json) |
 | Kewala's Typing Adventure | 315411 | [315411-kewalas-typing-adventure.json](./315411-kewalas-typing-adventure.json) |
 | Kewbii | 215592 | [215592-kewbii.json](./215592-kewbii.json) |
+| Kewlbiverse | 312932 | [312932-kewlbiverse.json](./312932-kewlbiverse.json) |
 | Kewter’s Showroom | 340787 | [340787-kewter-s-showroom.json](./340787-kewter-s-showroom.json) |
 | Kewtia: Crystallite Hunt | 75859 | [75859-kewtia-crystallite-hunt.json](./75859-kewtia-crystallite-hunt.json) |
 | Key | 167497 | [167497-key.json](./167497-key.json) |
