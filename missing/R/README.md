@@ -1170,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiding Company | 94038 | [94038-raiding-company.json](./94038-raiding-company.json) |
 | Raiding Zone | 236242 | [236242-raiding-zone.json](./236242-raiding-zone.json) |
 | Raiding.Zone | 246713 | [246713-raiding-zone.json](./246713-raiding-zone.json) |
+| RaidKids | 258659 | [258659-raidkids.json](./258659-raidkids.json) |
 | RaidLand | 132728 | [132728-raidland.json](./132728-raidland.json) |
 | Raidlands | 125826 | [125826-raidlands.json](./125826-raidlands.json) |
 | Raidol: Injoku ni Ochita Seiningyou | 108970 | [108970-raidol-injoku-ni-ochita-seiningyou.json](./108970-raidol-injoku-ni-ochita-seiningyou.json) |
@@ -3459,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealmLess | 188777 | [188777-realmless.json](./188777-realmless.json) |
 | Realms | 12741 | [12741-realms.json](./12741-realms.json) |
 | Realms | 203606 | [203606-realms.json](./203606-realms.json) |
+| Realms and Ruins: Abencor | 258689 | [258689-realms-and-ruins-abencor.json](./258689-realms-and-ruins-abencor.json) |
 | Realms at War | 387046 | [387046-realms-at-war.json](./387046-realms-at-war.json) |
 | Realms Beyond: Ashes of the Fallen | 112086 | [112086-realms-beyond-ashes-of-the-fallen.json](./112086-realms-beyond-ashes-of-the-fallen.json) |
 | Realms Edge | 368568 | [368568-realms-edge.json](./368568-realms-edge.json) |
@@ -12979,6 +12981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins | 224933 | [224933-ruins.json](./224933-ruins.json) |
 | Ruins | 94178 | [94178-ruins.json](./94178-ruins.json) |
 | Ruins & Switch | 192357 | [192357-ruins-and-switch.json](./192357-ruins-and-switch.json) |
+| Ruins and Refuge | 258745 | [258745-ruins-and-refuge.json](./258745-ruins-and-refuge.json) |
 | Ruins Climber | 123243 | [123243-ruins-climber.json](./123243-ruins-climber.json) |
 | Ruins Escape | 293481 | [293481-ruins-escape.json](./293481-ruins-escape.json) |
 | Ruins Magus | 198229 | [198229-ruins-magus.json](./198229-ruins-magus.json) |
