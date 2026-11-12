@@ -3809,6 +3809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchantment 2: Sun's Tear | 337836 | [337836-enchantment-2-suns-tear.json](./337836-enchantment-2-suns-tear.json) |
 | Enchantment 2: Sun's Tear - Collector's Edition | 385110 | [385110-enchantment-2-suns-tear-collectors-edition.json](./385110-enchantment-2-suns-tear-collectors-edition.json) |
 | Enchantment Siege | 253966 | [253966-enchantment-siege.json](./253966-enchantment-siege.json) |
+| Enchantment: Secret Hideaway | 251885 | [251885-enchantment-secret-hideaway.json](./251885-enchantment-secret-hideaway.json) |
 | Enchantment: Secret Hideaway - Collector's Edition | 395948 | [395948-enchantment-secret-hideaway-collectors-edition.json](./395948-enchantment-secret-hideaway-collectors-edition.json) |
 | Enchantress | 159462 | [159462-enchantress.json](./159462-enchantress.json) |
 | Enchantress of the Sea | 322014 | [322014-enchantress-of-the-sea.json](./322014-enchantress-of-the-sea.json) |
