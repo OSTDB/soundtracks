@@ -3651,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New World Computing Bundle | 154968 | [154968-new-world-computing-bundle.json](./154968-new-world-computing-bundle.json) |
 | New World Horizon | 114955 | [114955-new-world-horizon.json](./114955-new-world-horizon.json) |
 | New World Order | 19215 | [19215-new-world-order.json](./19215-new-world-order.json) |
+| New World: Aeternum | 305027 | [305027-new-world-aeternum.json](./305027-new-world-aeternum.json) |
 | New World: Azoth Edition | 300754 | [300754-new-world-azoth-edition.json](./300754-new-world-azoth-edition.json) |
 | New World: Elysian Edition | 300755 | [300755-new-world-elysian-edition.json](./300755-new-world-elysian-edition.json) |
 | New World: Rise of the Angry Earth | 266781 | [266781-new-world-rise-of-the-angry-earth.json](./266781-new-world-rise-of-the-angry-earth.json) |
