@@ -10625,6 +10625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hop Step Sing! Kimamani Summer Vacation | 55335 | [55335-hop-step-sing-kimamani-summer-vacation.json](./55335-hop-step-sing-kimamani-summer-vacation.json) |
 | Hop Step Sing! Kiss x Kiss x Kiss | 43182 | [43182-hop-step-sing-kiss-x-kiss-x-kiss.json](./43182-hop-step-sing-kiss-x-kiss-x-kiss.json) |
 | Hop Step Sing! Nozokanaide Naked Heart | 109344 | [109344-hop-step-sing-nozokanaide-naked-heart.json](./109344-hop-step-sing-nozokanaide-naked-heart.json) |
+| Hop Step Sing! Shikiri Shiishiba: By My Side | 259294 | [259294-hop-step-sing-shikiri-shiishiba-by-my-side.json](./259294-hop-step-sing-shikiri-shiishiba-by-my-side.json) |
 | Hop Step Sing! Summer Live 2023 | 340483 | [340483-hop-step-sing-summer-live-2023.json](./340483-hop-step-sing-summer-live-2023.json) |
 | Hop Swap | 233595 | [233595-hop-swap.json](./233595-hop-swap.json) |
 | Hop to It! | 347576 | [347576-hop-to-it.json](./347576-hop-to-it.json) |
