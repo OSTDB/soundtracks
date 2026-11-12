@@ -9214,6 +9214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Warfare | 95141 | [95141-world-warfare.json](./95141-world-warfare.json) |
 | World Warfare & Economic | 171427 | [171427-world-warfare-and-economic.json](./171427-world-warfare-and-economic.json) |
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
+| World Weaver | 309157 | [309157-world-weaver.json](./309157-world-weaver.json) |
 | World Wide Hack | 138931 | [138931-world-wide-hack.json](./138931-world-wide-hack.json) |
 | World Wide Love!: Sekai Seifuku Kanojo Fandisc | 375364 | [375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json](./375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json) |
 | World Wide Rally | 94271 | [94271-world-wide-rally.json](./94271-world-wide-rally.json) |
