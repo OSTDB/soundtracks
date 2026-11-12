@@ -3188,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2: 119th Update | 256441 | [256441-team-fortress-2-119th-update.json](./256441-team-fortress-2-119th-update.json) |
 | Team Fortress 2: A Heavy Update | 256412 | [256412-team-fortress-2-a-heavy-update.json](./256412-team-fortress-2-a-heavy-update.json) |
 | Team Fortress 2: Australian Christmas | 256447 | [256447-team-fortress-2-australian-christmas.json](./256447-team-fortress-2-australian-christmas.json) |
+| Team Fortress 2: Australian Christmas | 256488 | [256488-team-fortress-2-australian-christmas.json](./256488-team-fortress-2-australian-christmas.json) |
 | Team Fortress 2: End of the Line Update | 256883 | [256883-team-fortress-2-end-of-the-line-update.json](./256883-team-fortress-2-end-of-the-line-update.json) |
 | Team Fortress 2: Gold Rush | 335705 | [335705-team-fortress-2-gold-rush.json](./335705-team-fortress-2-gold-rush.json) |
 | Team Fortress 2: Gold Rush Update | 256372 | [256372-team-fortress-2-gold-rush-update.json](./256372-team-fortress-2-gold-rush-update.json) |
@@ -3197,8 +3198,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2: Mann vs. Machine | 256381 | [256381-team-fortress-2-mann-vs-machine.json](./256381-team-fortress-2-mann-vs-machine.json) |
 | Team Fortress 2: Mann vs. Machine - Two Cities Update | 256881 | [256881-team-fortress-2-mann-vs-machine-two-cities-update.json](./256881-team-fortress-2-mann-vs-machine-two-cities-update.json) |
 | Team Fortress 2: Mann-Conomy Update | 256445 | [256445-team-fortress-2-mann-conomy-update.json](./256445-team-fortress-2-mann-conomy-update.json) |
+| Team Fortress 2: Manniversary Update | 256485 | [256485-team-fortress-2-manniversary-update.json](./256485-team-fortress-2-manniversary-update.json) |
 | Team Fortress 2: Mecha Update | 256782 | [256782-team-fortress-2-mecha-update.json](./256782-team-fortress-2-mecha-update.json) |
 | Team Fortress 2: Meet Your Match | 256966 | [256966-team-fortress-2-meet-your-match.json](./256966-team-fortress-2-meet-your-match.json) |
+| Team Fortress 2: Pyromania Update | 256489 | [256489-team-fortress-2-pyromania-update.json](./256489-team-fortress-2-pyromania-update.json) |
 | Team Fortress 2: Randomizer | 362981 | [362981-team-fortress-2-randomizer.json](./362981-team-fortress-2-randomizer.json) |
 | Team Fortress 2: Rebalanced | 400339 | [400339-team-fortress-2-rebalanced.json](./400339-team-fortress-2-rebalanced.json) |
 | Team Fortress 2: Robotic Boogaloo | 256783 | [256783-team-fortress-2-robotic-boogaloo.json](./256783-team-fortress-2-robotic-boogaloo.json) |
@@ -3207,12 +3210,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Fortress 2: The Engineer Update | 256444 | [256444-team-fortress-2-the-engineer-update.json](./256444-team-fortress-2-the-engineer-update.json) |
 | Team Fortress 2: The First Ever Classless Update | 256415 | [256415-team-fortress-2-the-first-ever-classless-update.json](./256415-team-fortress-2-the-first-ever-classless-update.json) |
 | Team Fortress 2: The Gun Mettle Update | 256889 | [256889-team-fortress-2-the-gun-mettle-update.json](./256889-team-fortress-2-the-gun-mettle-update.json) |
+| Team Fortress 2: The Hatless Update | 256482 | [256482-team-fortress-2-the-hatless-update.json](./256482-team-fortress-2-the-hatless-update.json) |
 | Team Fortress 2: The Mac Update | 256442 | [256442-team-fortress-2-the-mac-update.json](./256442-team-fortress-2-the-mac-update.json) |
 | Team Fortress 2: The Pyro Update | 256392 | [256392-team-fortress-2-the-pyro-update.json](./256392-team-fortress-2-the-pyro-update.json) |
+| Team Fortress 2: The Replay Update | 256483 | [256483-team-fortress-2-the-replay-update.json](./256483-team-fortress-2-the-replay-update.json) |
 | Team Fortress 2: The Scout Update | 256413 | [256413-team-fortress-2-the-scout-update.json](./256413-team-fortress-2-the-scout-update.json) |
 | Team Fortress 2: The Second Annu-Hell Scream Fortress Hauntdead Halloween Special | 256446 | [256446-team-fortress-2-the-second-annu-hell-scream-fortress-hauntdead-halloween-special.json](./256446-team-fortress-2-the-second-annu-hell-scream-fortress-hauntdead-halloween-special.json) |
 | Team Fortress 2: The Sniper vs. Spy Update | 256414 | [256414-team-fortress-2-the-sniper-vs-spy-update.json](./256414-team-fortress-2-the-sniper-vs-spy-update.json) |
 | Team Fortress 2: The Tough Break Update | 256964 | [256964-team-fortress-2-the-tough-break-update.json](./256964-team-fortress-2-the-tough-break-update.json) |
+| Team Fortress 2: The Über Update | 256484 | [256484-team-fortress-2-the-uber-update.json](./256484-team-fortress-2-the-uber-update.json) |
 | Team Fortress 2: War! Update | 256431 | [256431-team-fortress-2-war-update.json](./256431-team-fortress-2-war-update.json) |
 | Team Fortress 2008 | 339412 | [339412-team-fortress-2008.json](./339412-team-fortress-2008.json) |
 | Team Fortress Classic | 6359 | [6359-team-fortress-classic.json](./6359-team-fortress-classic.json) |
@@ -9257,6 +9263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeons of Grimlor | 171792 | [171792-the-dungeons-of-grimlor.json](./171792-the-dungeons-of-grimlor.json) |
 | The Dungeons of Grimlor II | 171793 | [171793-the-dungeons-of-grimlor-ii.json](./171793-the-dungeons-of-grimlor-ii.json) |
 | The Dungeons of Moria | 139345 | [139345-the-dungeons-of-moria.json](./139345-the-dungeons-of-moria.json) |
+| The Dunkening | 256507 | [256507-the-dunkening.json](./256507-the-dunkening.json) |
 | The Durka: You will (not) die | 154010 | [154010-the-durka-you-will-not-die.json](./154010-the-durka-you-will-not-die.json) |
 | The Dusk Alliance | 250614 | [250614-the-dusk-alliance.json](./250614-the-dusk-alliance.json) |
 | The Duskbloods | 338104 | [338104-the-duskbloods.json](./338104-the-duskbloods.json) |
@@ -16858,6 +16865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Riftbreaker | 115991 | [115991-the-riftbreaker.json](./115991-the-riftbreaker.json) |
 | The Riftbreaker: Complete Edition | 331254 | [331254-the-riftbreaker-complete-edition.json](./331254-the-riftbreaker-complete-edition.json) |
 | The Riftbreaker: Deluxe Edition | 210936 | [210936-the-riftbreaker-deluxe-edition.json](./210936-the-riftbreaker-deluxe-edition.json) |
+| The Riftbreaker: Gold Edition | 256496 | [256496-the-riftbreaker-gold-edition.json](./256496-the-riftbreaker-gold-edition.json) |
 | The Riftbreaker: Heart of the Swamp | 263033 | [263033-the-riftbreaker-heart-of-the-swamp.json](./263033-the-riftbreaker-heart-of-the-swamp.json) |
 | The Riftbreaker: Into The Dark | 251317 | [251317-the-riftbreaker-into-the-dark.json](./251317-the-riftbreaker-into-the-dark.json) |
 | The Riftbreaker: Metal Terror | 202455 | [202455-the-riftbreaker-metal-terror.json](./202455-the-riftbreaker-metal-terror.json) |
@@ -27018,6 +27026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomba! 2: The Evil Swine Return | 4100 | [4100-tomba-2-the-evil-swine-return.json](./4100-tomba-2-the-evil-swine-return.json) |
 | Tomba! 2: The Evil Swine Return Special Edition | 377890 | [377890-tomba-2-the-evil-swine-return-special-edition.json](./377890-tomba-2-the-evil-swine-return-special-edition.json) |
 | Tomba! 3 | 256579 | [256579-tomba-3.json](./256579-tomba-3.json) |
+| Tomba! Special Edition | 256467 | [256467-tomba-special-edition.json](./256467-tomba-special-edition.json) |
 | Tomba! Special Edition: Whoopee Edition | 342885 | [342885-tomba-special-edition-whoopee-edition.json](./342885-tomba-special-edition-whoopee-edition.json) |
 | Tombbound | 382594 | [382594-tombbound.json](./382594-tombbound.json) |
 | Tombeaux | 111426 | [111426-tombeaux.json](./111426-tombeaux.json) |
@@ -30584,6 +30593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Eamnos VTG Wagon Pack | 293392 | [293392-train-simulator-classic-eamnos-vtg-wagon-pack.json](./293392-train-simulator-classic-eamnos-vtg-wagon-pack.json) |
 | Train Simulator Classic: Empire State Express No. 999 | 298176 | [298176-train-simulator-classic-empire-state-express-no-999.json](./298176-train-simulator-classic-empire-state-express-no-999.json) |
 | Train Simulator Classic: Euro BR 159 Electro-Diesel Loco | 236823 | [236823-train-simulator-classic-euro-br-159-electro-diesel-loco.json](./236823-train-simulator-classic-euro-br-159-electro-diesel-loco.json) |
+| Train Simulator Classic: Hope Valley Line - Manchester - Sheffield | 256481 | [256481-train-simulator-classic-hope-valley-line-manchester-sheffield.json](./256481-train-simulator-classic-hope-valley-line-manchester-sheffield.json) |
 | Train Simulator Classic: Linz - Passau Route Add-On | 357394 | [357394-train-simulator-classic-linz-passau-route-add-on.json](./357394-train-simulator-classic-linz-passau-route-add-on.json) |
 | Train Simulator Classic: München - Ingolstadt Route Add-On | 357391 | [357391-train-simulator-classic-munchen-ingolstadt-route-add-on.json](./357391-train-simulator-classic-munchen-ingolstadt-route-add-on.json) |
 | Train Simulator Classic: New Haven FL9 Loco Add-On | 53838 | [53838-train-simulator-classic-new-haven-fl9-loco-add-on.json](./53838-train-simulator-classic-new-haven-fl9-loco-add-on.json) |
