@@ -2009,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Nova | 73600 | [73600-hard-nova.json](./73600-hard-nova.json) |
 | Hard Nut to Crack | 314148 | [314148-hard-nut-to-crack.json](./314148-hard-nut-to-crack.json) |
 | Hard Office | 130628 | [130628-hard-office.json](./130628-hard-office.json) |
+| Hard Parking | 309784 | [309784-hard-parking.json](./309784-hard-parking.json) |
 | Hard Place | 83987 | [83987-hard-place.json](./83987-hard-place.json) |
 | Hard Platformers Bundle | 331529 | [331529-hard-platformers-bundle.json](./331529-hard-platformers-bundle.json) |
 | Hard Racing | 252160 | [252160-hard-racing.json](./252160-hard-racing.json) |
