@@ -10392,6 +10392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumina | 347889 | [347889-lumina.json](./347889-lumina.json) |
 | Lumina | 355599 | [355599-lumina.json](./355599-lumina.json) |
 | Lumina Rush | 289829 | [289829-lumina-rush.json](./289829-lumina-rush.json) |
+| Lumina Veil | 296697 | [296697-lumina-veil.json](./296697-lumina-veil.json) |
 | Lumina: The Uprising of Folk Legends | 349033 | [349033-lumina-the-uprising-of-folk-legends.json](./349033-lumina-the-uprising-of-folk-legends.json) |
 | Luminaria | 365602 | [365602-luminaria.json](./365602-luminaria.json) |
 | Luminaria: Dark Echoes | 278450 | [278450-luminaria-dark-echoes.json](./278450-luminaria-dark-echoes.json) |
@@ -10972,6 +10973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lymbus | 276226 | [276226-lymbus.json](./276226-lymbus.json) |
 | Lymph City Blues | 211132 | [211132-lymph-city-blues.json](./211132-lymph-city-blues.json) |
 | Lyn: The Lightbringer | 137493 | [137493-lyn-the-lightbringer.json](./137493-lyn-the-lightbringer.json) |
+| Lyndaria: Lust Adventure | 296699 | [296699-lyndaria-lust-adventure.json](./296699-lyndaria-lust-adventure.json) |
 | Lyne | 5577 | [5577-lyne.json](./5577-lyne.json) |
 | Lynium | 158628 | [158628-lynium.json](./158628-lynium.json) |
 | Lynked: Banner of the Spark | 314256 | [314256-lynked-banner-of-the-spark.json](./314256-lynked-banner-of-the-spark.json) |
