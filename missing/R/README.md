@@ -6656,6 +6656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrowave Road | 149274 | [149274-retrowave-road.json](./149274-retrowave-road.json) |
 | Retrowave Universe | 164158 | [164158-retrowave-universe.json](./164158-retrowave-universe.json) |
 | Retrowave World | 258383 | [258383-retrowave-world.json](./258383-retrowave-world.json) |
+| Retrowave World: Supporter Pack | 311387 | [311387-retrowave-world-supporter-pack.json](./311387-retrowave-world-supporter-pack.json) |
 | Retrowave: Map Pack | 201390 | [201390-retrowave-map-pack.json](./201390-retrowave-map-pack.json) |
 | Retrozen | 298417 | [298417-retrozen.json](./298417-retrozen.json) |
 | Retruco 3D | 401508 | [401508-retruco-3d.json](./401508-retruco-3d.json) |
@@ -6883,6 +6884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge Master | 200427 | [200427-revenge-master.json](./200427-revenge-master.json) |
 | Revenge of Anubis: Pyramid Adventure | 101436 | [101436-revenge-of-anubis-pyramid-adventure.json](./101436-revenge-of-anubis-pyramid-adventure.json) |
 | Revenge of Banana | 271928 | [271928-revenge-of-banana.json](./271928-revenge-of-banana.json) |
+| Revenge of Black Bone | 311904 | [311904-revenge-of-black-bone.json](./311904-revenge-of-black-bone.json) |
 | Revenge of Chickens | 261589 | [261589-revenge-of-chickens.json](./261589-revenge-of-chickens.json) |
 | Revenge of Defender | 56591 | [56591-revenge-of-defender.json](./56591-revenge-of-defender.json) |
 | Revenge of Dog | 95946 | [95946-revenge-of-dog.json](./95946-revenge-of-dog.json) |
@@ -10566,6 +10568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodeo Stampede: Sky Zoo Safari | 87669 | [87669-rodeo-stampede-sky-zoo-safari.json](./87669-rodeo-stampede-sky-zoo-safari.json) |
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
 | Rodina.doc | 174065 | [174065-rodina-doc.json](./174065-rodina-doc.json) |
+| Rodland of Pipes | 311830 | [311830-rodland-of-pipes.json](./311830-rodland-of-pipes.json) |
 | Rodney's Funscreen 2 Extreme | 257256 | [257256-rodneys-funscreen-2-extreme.json](./257256-rodneys-funscreen-2-extreme.json) |
 | Rodney's Wonder Window | 78226 | [78226-rodneys-wonder-window.json](./78226-rodneys-wonder-window.json) |
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
