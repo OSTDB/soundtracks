@@ -3065,6 +3065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Streamer | 331236 | [331236-haunted-streamer.json](./331236-haunted-streamer.json) |
 | Haunted Theme Park Hidden Object | 99503 | [99503-haunted-theme-park-hidden-object.json](./99503-haunted-theme-park-hidden-object.json) |
 | Haunted Things | 271034 | [271034-haunted-things.json](./271034-haunted-things.json) |
+| Haunted Tower | 247719 | [247719-haunted-tower.json](./247719-haunted-tower.json) |
 | Haunted Train: Clashing Worlds - Collector’s Edition | 228229 | [228229-haunted-train-clashing-worlds-collector-s-edition.json](./228229-haunted-train-clashing-worlds-collector-s-edition.json) |
 | Haunted Train: Frozen in Time | 140032 | [140032-haunted-train-frozen-in-time.json](./140032-haunted-train-frozen-in-time.json) |
 | Haunted Train: Frozen in Time - Collector's Edition | 76478 | [76478-haunted-train-frozen-in-time-collectors-edition.json](./76478-haunted-train-frozen-in-time-collectors-edition.json) |
