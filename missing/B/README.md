@@ -1022,7 +1022,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1987,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baltazar the Familiar | 317298 | [317298-baltazar-the-familiar.json](./317298-baltazar-the-familiar.json) |
 | Balthazar's Dream | 26240 | [26240-balthazars-dream.json](./26240-balthazars-dream.json) |
 | Baltic 1985 | 70290 | [70290-baltic-1985.json](./70290-baltic-1985.json) |
+| Baltic Folk | 298494 | [298494-baltic-folk.json](./298494-baltic-folk.json) |
 | Baltron | 48588 | [48588-baltron.json](./48588-baltron.json) |
 | Baluba-louk no Densetsu | 40013 | [40013-baluba-louk-no-densetsu.json](./40013-baluba-louk-no-densetsu.json) |
 | Baluno | 297780 | [297780-baluno.json](./297780-baluno.json) |
@@ -6499,6 +6499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Resignation | 239688 | [239688-before-resignation.json](./239688-before-resignation.json) |
 | Before She’s Gone | 386177 | [386177-before-she-s-gone.json](./386177-before-she-s-gone.json) |
 | Before Sunset | 211446 | [211446-before-sunset.json](./211446-before-sunset.json) |
+| Before The After | 298500 | [298500-before-the-after.json](./298500-before-the-after.json) |
 | Before the Ash | 337365 | [337365-before-the-ash.json](./337365-before-the-ash.json) |
 | Before the Battery's Over | 148986 | [148986-before-the-batterys-over.json](./148986-before-the-batterys-over.json) |
 | Before the Blood | 93790 | [93790-before-the-blood.json](./93790-before-the-blood.json) |
@@ -12045,6 +12046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodlust | 338255 | [338255-bloodlust.json](./338255-bloodlust.json) |
 | BloodLust 2: Nemesis | 83605 | [83605-bloodlust-2-nemesis.json](./83605-bloodlust-2-nemesis.json) |
 | Bloodlust Online | 157015 | [157015-bloodlust-online.json](./157015-bloodlust-online.json) |
+| Bloodlust Rebellion | 298907 | [298907-bloodlust-rebellion.json](./298907-bloodlust-rebellion.json) |
 | BloodLust Shadowhunter | 17108 | [17108-bloodlust-shadowhunter.json](./17108-bloodlust-shadowhunter.json) |
 | Bloodlust: Santa Monica | 184751 | [184751-bloodlust-santa-monica.json](./184751-bloodlust-santa-monica.json) |
 | Bloodlust.exe | 370871 | [370871-bloodlust-exe.json](./370871-bloodlust-exe.json) |
@@ -12147,6 +12149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodwood Dungeon | 297847 | [297847-bloodwood-dungeon.json](./297847-bloodwood-dungeon.json) |
 | Bloodwood Reload | 35742 | [35742-bloodwood-reload.json](./35742-bloodwood-reload.json) |
 | Bloodworks | 76533 | [76533-bloodworks.json](./76533-bloodworks.json) |
+| Bloodworth Academy Occult Club | 298904 | [298904-bloodworth-academy-occult-club.json](./298904-bloodworth-academy-occult-club.json) |
 | Bloodwoven | 406456 | [406456-bloodwoven.json](./406456-bloodwoven.json) |
 | Bloodwright | 404167 | [404167-bloodwright.json](./404167-bloodwright.json) |
 | Bloodwych | 2434 | [2434-bloodwych.json](./2434-bloodwych.json) |
@@ -13703,7 +13706,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombshell Barista: Speed Dating | 258195 | [258195-bombshell-barista-speed-dating.json](./258195-bombshell-barista-speed-dating.json) |
 | Bombshell Blitz | 341406 | [341406-bombshell-blitz.json](./341406-bombshell-blitz.json) |
 | Bombshells: Hell’s Belles | 344821 | [344821-bombshells-hell-s-belles.json](./344821-bombshells-hell-s-belles.json) |
-| Bombslinger | 32572 | [32572-bombslinger.json](./32572-bombslinger.json) |
 | BombSquad | 17449 | [17449-bombsquad.json](./17449-bombsquad.json) |
 | Bombsquad: Defuse the Bomb | 208216 | [208216-bombsquad-defuse-the-bomb.json](./208216-bombsquad-defuse-the-bomb.json) |
 | BombTag | 84087 | [84087-bombtag.json](./84087-bombtag.json) |
@@ -13978,6 +13980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boofie's Bunker | 177717 | [177717-boofies-bunker.json](./177717-boofies-bunker.json) |
 | Boofle's Home | 29068 | [29068-boofles-home.json](./29068-boofles-home.json) |
 | Boog Adventure | 155472 | [155472-boog-adventure.json](./155472-boog-adventure.json) |
+| Boog Doodles | 298496 | [298496-boog-doodles.json](./298496-boog-doodles.json) |
 | Boogaloopers | 62752 | [62752-boogaloopers.json](./62752-boogaloopers.json) |
 | Booger Booster | 319855 | [319855-booger-booster.json](./319855-booger-booster.json) |
 | Boogerman | 242091 | [242091-boogerman.json](./242091-boogerman.json) |
