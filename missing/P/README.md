@@ -7541,6 +7541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX: Homeworld - Journey to Hiigara Pinball | 247686 | [247686-pinball-fx-homeworld-journey-to-hiigara-pinball.json](./247686-pinball-fx-homeworld-journey-to-hiigara-pinball.json) |
 | Pinball FX: Honor and Legacy | 252523 | [252523-pinball-fx-honor-and-legacy.json](./252523-pinball-fx-honor-and-legacy.json) |
 | Pinball FX: Indiana Jones - The Pinball Adventure | 247667 | [247667-pinball-fx-indiana-jones-the-pinball-adventure.json](./247667-pinball-fx-indiana-jones-the-pinball-adventure.json) |
+| Pinball FX: Jurassic World️ Pinball | 247141 | [247141-pinball-fx-jurassic-world-pinball.json](./247141-pinball-fx-jurassic-world-pinball.json) |
 | Pinball FX: Marvel Pinball - Avengers Chronicles | 247688 | [247688-pinball-fx-marvel-pinball-avengers-chronicles.json](./247688-pinball-fx-marvel-pinball-avengers-chronicles.json) |
 | Pinball FX: Marvel Pinball - Cinematic Pack | 263309 | [263309-pinball-fx-marvel-pinball-cinematic-pack.json](./263309-pinball-fx-marvel-pinball-cinematic-pack.json) |
 | Pinball FX: Marvel Pinball - Heavy Hitters | 247698 | [247698-pinball-fx-marvel-pinball-heavy-hitters.json](./247698-pinball-fx-marvel-pinball-heavy-hitters.json) |
@@ -8863,6 +8864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Paint | 84818 | [84818-pixel-paint.json](./84818-pixel-paint.json) |
 | Pixel Paint | 85592 | [85592-pixel-paint.json](./85592-pixel-paint.json) |
 | Pixel Paint - Coloring games | 108520 | [108520-pixel-paint-coloring-games.json](./108520-pixel-paint-coloring-games.json) |
+| Pixel Paint 2 | 247230 | [247230-pixel-paint-2.json](./247230-pixel-paint-2.json) |
 | Pixel Paint 2: Complete Edition | 277909 | [277909-pixel-paint-2-complete-edition.json](./277909-pixel-paint-2-complete-edition.json) |
 | Pixel Paint 2: Definitive Edition | 275031 | [275031-pixel-paint-2-definitive-edition.json](./275031-pixel-paint-2-definitive-edition.json) |
 | Pixel Paint 2: Deluxe Edition | 256267 | [256267-pixel-paint-2-deluxe-edition.json](./256267-pixel-paint-2-deluxe-edition.json) |
@@ -8980,6 +8982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 4 | 226993 | [226993-pixel-puzzles-traditional-jigsaws-pack-variety-pack-4.json](./226993-pixel-puzzles-traditional-jigsaws-pack-variety-pack-4.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 5 | 226992 | [226992-pixel-puzzles-traditional-jigsaws-pack-variety-pack-5.json](./226992-pixel-puzzles-traditional-jigsaws-pack-variety-pack-5.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 6 | 241508 | [241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json](./241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 7 | 247156 | [247156-pixel-puzzles-traditional-jigsaws-pack-variety-pack-7.json](./247156-pixel-puzzles-traditional-jigsaws-pack-variety-pack-7.json) |
 | Pixel Puzzles Traditional Jigsaws: Variety Pack XXS | 357953 | [357953-pixel-puzzles-traditional-jigsaws-variety-pack-xxs.json](./357953-pixel-puzzles-traditional-jigsaws-variety-pack-xxs.json) |
 | Pixel Puzzles Trivia | 288823 | [288823-pixel-puzzles-trivia.json](./288823-pixel-puzzles-trivia.json) |
 | Pixel Puzzles Ultimate | 35743 | [35743-pixel-puzzles-ultimate.json](./35743-pixel-puzzles-ultimate.json) |
