@@ -1778,6 +1778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhound | 92758 | [92758-warhound.json](./92758-warhound.json) |
 | Warhounds | 385698 | [385698-warhounds.json](./385698-warhounds.json) |
 | Wari: The Ancient Game of Africa | 69727 | [69727-wari-the-ancient-game-of-africa.json](./69727-wari-the-ancient-game-of-africa.json) |
+| Wario and the Magic Map | 250068 | [250068-wario-and-the-magic-map.json](./250068-wario-and-the-magic-map.json) |
 | Wario and the Tower of Garlic | 399080 | [399080-wario-and-the-tower-of-garlic.json](./399080-wario-and-the-tower-of-garlic.json) |
 | Wario Blast: Featuring Bomberman! | 1713 | [1713-wario-blast-featuring-bomberman.json](./1713-wario-blast-featuring-bomberman.json) |
 | Wario Date | 252824 | [252824-wario-date.json](./252824-wario-date.json) |
@@ -5899,6 +5900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildsong | 287694 | [287694-wildsong.json](./287694-wildsong.json) |
 | WildStandZ | 357405 | [357405-wildstandz.json](./357405-wildstandz.json) |
 | WildStar | 535 | [535-wildstar.json](./535-wildstar.json) |
+| Wildstrive | 249982 | [249982-wildstrive.json](./249982-wildstrive.json) |
 | WildTrax & Hypercar Bundle | 410842 | [410842-wildtrax-and-hypercar-bundle.json](./410842-wildtrax-and-hypercar-bundle.json) |
 | WildTrax Racing | 147761 | [147761-wildtrax-racing.json](./147761-wildtrax-racing.json) |
 | WildWaters | 47735 | [47735-wildwaters.json](./47735-wildwaters.json) |
