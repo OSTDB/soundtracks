@@ -7574,6 +7574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loki's Castle | 233387 | [233387-lokis-castle.json](./233387-lokis-castle.json) |
 | Loki's Minions Capture the Flag | 306187 | [306187-lokis-minions-capture-the-flag.json](./306187-lokis-minions-capture-the-flag.json) |
 | Loki's Revenge | 312154 | [312154-lokis-revenge.json](./312154-lokis-revenge.json) |
+| Loki's Revenge Capture the Flag | 307463 | [307463-lokis-revenge-capture-the-flag.json](./307463-lokis-revenge-capture-the-flag.json) |
 | Lokko | 374427 | [374427-lokko.json](./374427-lokko.json) |
 | LOL Dolls - lol surprise game | 98829 | [98829-lol-dolls-lol-surprise-game.json](./98829-lol-dolls-lol-surprise-game.json) |
 | LoL Kart | 88819 | [88819-lol-kart.json](./88819-lol-kart.json) |
