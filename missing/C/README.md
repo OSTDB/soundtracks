@@ -10857,6 +10857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Solitaire НD | 87921 | [87921-classic-solitaire-d.json](./87921-classic-solitaire-d.json) |
 | Classic Sonic 3D Adventure | 324961 | [324961-classic-sonic-3d-adventure.json](./324961-classic-sonic-3d-adventure.json) |
 | Classic Sonic Bundle | 276083 | [276083-classic-sonic-bundle.json](./276083-classic-sonic-bundle.json) |
+| Classic Sonic Improvement | 246691 | [246691-classic-sonic-improvement.json](./246691-classic-sonic-improvement.json) |
 | Classic Space Adventure | 367357 | [367357-classic-space-adventure.json](./367357-classic-space-adventure.json) |
 | Classic Sport Driving | 142575 | [142575-classic-sport-driving.json](./142575-classic-sport-driving.json) |
 | Classic Start of International Students | 359541 | [359541-classic-start-of-international-students.json](./359541-classic-start-of-international-students.json) |
