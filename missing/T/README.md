@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankDestruction | 114916 | [114916-tankdestruction.json](./114916-tankdestruction.json) |
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
 | Tanked Up | 262217 | [262217-tanked-up.json](./262217-tanked-up.json) |
+| Tanked! | 254195 | [254195-tanked.json](./254195-tanked.json) |
 | Tankegeddon! | 383147 | [383147-tankegeddon.json](./383147-tankegeddon.json) |
 | Tanker | 55359 | [55359-tanker.json](./55359-tanker.json) |
 | Tanker Truck Simulator 2011 | 53718 | [53718-tanker-truck-simulator-2011.json](./53718-tanker-truck-simulator-2011.json) |
@@ -4146,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temtem: Collector's Edition | 206674 | [206674-temtem-collectors-edition.json](./206674-temtem-collectors-edition.json) |
 | Temtem: Deluxe Edition | 212338 | [212338-temtem-deluxe-edition.json](./212338-temtem-deluxe-edition.json) |
 | Temtem: Pioneers | 397815 | [397815-temtem-pioneers.json](./397815-temtem-pioneers.json) |
+| Temtem: Showdown | 254718 | [254718-temtem-showdown.json](./254718-temtem-showdown.json) |
 | Temtem: Swarm | 287618 | [287618-temtem-swarm.json](./287618-temtem-swarm.json) |
 | Temujin | 8184 | [8184-temujin.json](./8184-temujin.json) |
 | Temukung: Cultivation in Drylands | 327091 | [327091-temukung-cultivation-in-drylands.json](./327091-temukung-cultivation-in-drylands.json) |
@@ -4811,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracide | 77393 | [77393-terracide.json](./77393-terracide.json) |
 | Terracity | 271960 | [271960-terracity.json](./271960-terracity.json) |
 | Terraclysm Survivors | 401888 | [401888-terraclysm-survivors.json](./401888-terraclysm-survivors.json) |
+| TerraCodex: The Stolen Relics | 256010 | [256010-terracodex-the-stolen-relics.json](./256010-terracodex-the-stolen-relics.json) |
 | Terracon | 43688 | [43688-terracon.json](./43688-terracon.json) |
 | Terracosmic | 132622 | [132622-terracosmic.json](./132622-terracosmic.json) |
 | Terracotta | 143435 | [143435-terracotta.json](./143435-terracotta.json) |
@@ -11172,6 +11175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grinch 2: Saving Christmas | 409510 | [409510-the-grinch-2-saving-christmas.json](./409510-the-grinch-2-saving-christmas.json) |
 | The Grinch Scooby-Doo Pong | 325799 | [325799-the-grinch-scooby-doo-pong.json](./325799-the-grinch-scooby-doo-pong.json) |
 | The Grinch: 2 in 1 Game Collection | 409511 | [409511-the-grinch-2-in-1-game-collection.json](./409511-the-grinch-2-in-1-game-collection.json) |
+| The Grinch: Christmas Adventures | 256017 | [256017-the-grinch-christmas-adventures.json](./256017-the-grinch-christmas-adventures.json) |
 | The Grinch: Christmas Adventures - Determined to Love Christmas | 370830 | [370830-the-grinch-christmas-adventures-determined-to-love-christmas.json](./370830-the-grinch-christmas-adventures-determined-to-love-christmas.json) |
 | The Grinch: Christmas Adventures - Merry & Mischievous Edition | 370827 | [370827-the-grinch-christmas-adventures-merry-and-mischievous-edition.json](./370827-the-grinch-christmas-adventures-merry-and-mischievous-edition.json) |
 | The Grinding of Teeth | 271852 | [271852-the-grinding-of-teeth.json](./271852-the-grinding-of-teeth.json) |
@@ -17148,6 +17152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sand Dunes | 161613 | [161613-the-sand-dunes.json](./161613-the-sand-dunes.json) |
 | The Sand Knight | 204128 | [204128-the-sand-knight.json](./204128-the-sand-knight.json) |
 | The Sand Man | 81095 | [81095-the-sand-man.json](./81095-the-sand-man.json) |
+| The Sand Table War: Cruciata | 255944 | [255944-the-sand-table-war-cruciata.json](./255944-the-sand-table-war-cruciata.json) |
 | The Sandbox | 16872 | [16872-the-sandbox.json](./16872-the-sandbox.json) |
 | The Sandbox | 182468 | [182468-the-sandbox.json](./182468-the-sandbox.json) |
 | The Sandbox | 407681 | [407681-the-sandbox.json](./407681-the-sandbox.json) |
@@ -20926,6 +20931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theden | 365909 | [365909-theden.json](./365909-theden.json) |
 | TheDrippingSound | 392494 | [392494-thedrippingsound.json](./392494-thedrippingsound.json) |
 | TheExit8NYC | 305065 | [305065-theexit8nyc.json](./305065-theexit8nyc.json) |
+| TheFighters: NewBlood | 256011 | [256011-thefighters-newblood.json](./256011-thefighters-newblood.json) |
 | TheFirstClass VR | 74538 | [74538-thefirstclass-vr.json](./74538-thefirstclass-vr.json) |
 | theFisher Online | 120472 | [120472-thefisher-online.json](./120472-thefisher-online.json) |
 | Theft Ride Legacy | 250391 | [250391-theft-ride-legacy.json](./250391-theft-ride-legacy.json) |
@@ -25965,6 +25971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Rescue! 5 | 87221 | [87221-to-the-rescue-5.json](./87221-to-the-rescue-5.json) |
 | To The Rescue!: Deluxe Edition | 240054 | [240054-to-the-rescue-deluxe-edition.json](./240054-to-the-rescue-deluxe-edition.json) |
 | To The Sea : The Courier | 128166 | [128166-to-the-sea-the-courier.json](./128166-to-the-sea-the-courier.json) |
+| To The Sky | 256009 | [256009-to-the-sky.json](./256009-to-the-sky.json) |
 | To the Snowland | 167372 | [167372-to-the-snowland.json](./167372-to-the-snowland.json) |
 | To The Star | 274621 | [274621-to-the-star.json](./274621-to-the-star.json) |
 | To the Stars | 211235 | [211235-to-the-stars.json](./211235-to-the-stars.json) |
