@@ -1526,6 +1526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman | 230850 | [230850-hangman.json](./230850-hangman.json) |
 | Hangman | 259633 | [259633-hangman.json](./259633-hangman.json) |
 | Hangman | 285157 | [285157-hangman.json](./285157-hangman.json) |
+| Hangman | 312938 | [312938-hangman.json](./312938-hangman.json) |
 | Hangman | 315463 | [315463-hangman.json](./315463-hangman.json) |
 | Hangman | 327217 | [327217-hangman.json](./327217-hangman.json) |
 | Hangman | 329790 | [329790-hangman.json](./329790-hangman.json) |
@@ -13172,6 +13173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydro | 344997 | [344997-hydro.json](./344997-hydro.json) |
 | Hydro Chicks | 407987 | [407987-hydro-chicks.json](./407987-hydro-chicks.json) |
 | Hydro Electric Worker | 66521 | [66521-hydro-electric-worker.json](./66521-hydro-electric-worker.json) |
+| Hydro High-Rise | 312934 | [312934-hydro-high-rise.json](./312934-hydro-high-rise.json) |
 | Hydro Storm 2 | 180487 | [180487-hydro-storm-2.json](./180487-hydro-storm-2.json) |
 | Hydro Thunder | 217932 | [217932-hydro-thunder.json](./217932-hydro-thunder.json) |
 | Hydro Thunder | 3370 | [3370-hydro-thunder.json](./3370-hydro-thunder.json) |
