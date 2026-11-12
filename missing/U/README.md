@@ -3574,7 +3574,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Mage | 160034 | [160034-urban-mage.json](./160034-urban-mage.json) |
 | Urban Massacre | 278500 | [278500-urban-massacre.json](./278500-urban-massacre.json) |
 | Urban Mercenary | 146297 | [146297-urban-mercenary.json](./146297-urban-mercenary.json) |
-| Urban Myth Dissolution Center | 216784 | [216784-urban-myth-dissolution-center.json](./216784-urban-myth-dissolution-center.json) |
 | Urban Myth.exe | 387551 | [387551-urban-myth-exe.json](./387551-urban-myth-exe.json) |
 | Urban Night Battle Girl | 224844 | [224844-urban-night-battle-girl.json](./224844-urban-night-battle-girl.json) |
 | Urban Nightmare | 298229 | [298229-urban-nightmare.json](./298229-urban-nightmare.json) |
