@@ -4529,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell of a Birthday | 338614 | [338614-hell-of-a-birthday.json](./338614-hell-of-a-birthday.json) |
 | Hell of a Bullet | 394284 | [394284-hell-of-a-bullet.json](./394284-hell-of-a-bullet.json) |
 | Hell of a marriage | 178503 | [178503-hell-of-a-marriage.json](./178503-hell-of-a-marriage.json) |
+| Hell of a Racket | 247242 | [247242-hell-of-a-racket.json](./247242-hell-of-a-racket.json) |
 | Hell of an Office | 150002 | [150002-hell-of-an-office.json](./150002-hell-of-an-office.json) |
 | Hell of Fame Game | 180342 | [180342-hell-of-fame-game.json](./180342-hell-of-fame-game.json) |
 | Hell of Fear: Mind Breach | 361595 | [361595-hell-of-fear-mind-breach.json](./361595-hell-of-fear-mind-breach.json) |
@@ -4648,6 +4649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellcard | 127193 | [127193-hellcard.json](./127193-hellcard.json) |
 | Hellcard II | 388355 | [388355-hellcard-ii.json](./388355-hellcard-ii.json) |
 | HellCat | 102938 | [102938-hellcat.json](./102938-hellcat.json) |
+| HellCat 2: The Riot Inferno | 247149 | [247149-hellcat-2-the-riot-inferno.json](./247149-hellcat-2-the-riot-inferno.json) |
 | Hellcat Ace | 25042 | [25042-hellcat-ace.json](./25042-hellcat-ace.json) |
 | HellCat: Redux | 168044 | [168044-hellcat-redux.json](./168044-hellcat-redux.json) |
 | Hellcats Over the Pacific | 71323 | [71323-hellcats-over-the-pacific.json](./71323-hellcats-over-the-pacific.json) |
