@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V Rising: Invaders of Oakvale | 339621 | [339621-v-rising-invaders-of-oakvale.json](./339621-v-rising-invaders-of-oakvale.json) |
 | V Rising: Legacy of Castlevania | 296842 | [296842-v-rising-legacy-of-castlevania.json](./296842-v-rising-legacy-of-castlevania.json) |
 | V Rising: Razer Night Serpent Pack | 297495 | [297495-v-rising-razer-night-serpent-pack.json](./297495-v-rising-razer-night-serpent-pack.json) |
+| V Rising: Secrets of Gloomrot | 249516 | [249516-v-rising-secrets-of-gloomrot.json](./249516-v-rising-secrets-of-gloomrot.json) |
 | V Rising: Sinister Evolution Pack | 297497 | [297497-v-rising-sinister-evolution-pack.json](./297497-v-rising-sinister-evolution-pack.json) |
 | V tylu vraga 2: Brat'ya po oruzhiyu | 383942 | [383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json](./383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json) |
 | V tylu vraga: Diversanty 2 | 383881 | [383881-v-tylu-vraga-diversanty-2.json](./383881-v-tylu-vraga-diversanty-2.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viking Heroes V: Collector's Edition | 308487 | [308487-viking-heroes-v-collectors-edition.json](./308487-viking-heroes-v-collectors-edition.json) |
 | Viking Hiking | 257274 | [257274-viking-hiking.json](./257274-viking-hiking.json) |
 | Viking Idle | 172167 | [172167-viking-idle.json](./172167-viking-idle.json) |
+| Viking Invaders | 249976 | [249976-viking-invaders.json](./249976-viking-invaders.json) |
 | Viking Invasion | 230864 | [230864-viking-invasion.json](./230864-viking-invasion.json) |
 | Viking Invasion | 67331 | [67331-viking-invasion.json](./67331-viking-invasion.json) |
 | Viking Invasion 2 - Tower Defense | 85476 | [85476-viking-invasion-2-tower-defense.json](./85476-viking-invasion-2-tower-defense.json) |
@@ -2852,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Beepis | 152617 | [152617-virtual-beepis.json](./152617-virtual-beepis.json) |
 | Virtual Beggar | 185230 | [185230-virtual-beggar.json](./185230-virtual-beggar.json) |
 | Virtual Block | 231523 | [231523-virtual-block.json](./231523-virtual-block.json) |
+| Virtual BMO | 249523 | [249523-virtual-bmo.json](./249523-virtual-bmo.json) |
 | Virtual Bomberman | 234006 | [234006-virtual-bomberman.json](./234006-virtual-bomberman.json) |
 | Virtual Bowling | 20988 | [20988-virtual-bowling.json](./20988-virtual-bowling.json) |
 | Virtual Boxing League | 89667 | [89667-virtual-boxing-league.json](./89667-virtual-boxing-league.json) |
