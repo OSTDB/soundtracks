@@ -11813,6 +11813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourzy | 158870 | [158870-fourzy.json](./158870-fourzy.json) |
 | Foviki Empieria | 258636 | [258636-foviki-empieria.json](./258636-foviki-empieria.json) |
 | Fovos VR | 29907 | [29907-fovos-vr.json](./29907-fovos-vr.json) |
+| Fowl Damage | 271874 | [271874-fowl-damage.json](./271874-fowl-damage.json) |
 | Fowl Magic | 121543 | [121543-fowl-magic.json](./121543-fowl-magic.json) |
 | Fowl Play | 301476 | [301476-fowl-play.json](./301476-fowl-play.json) |
 | Fowl Scourge | 201238 | [201238-fowl-scourge.json](./201238-fowl-scourge.json) |
@@ -14069,6 +14070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuck's Quest II | 406475 | [406475-fucks-quest-ii.json](./406475-fucks-quest-ii.json) |
 | Fucked by the Princesses of the Realm | 372488 | [372488-fucked-by-the-princesses-of-the-realm.json](./372488-fucked-by-the-princesses-of-the-realm.json) |
 | Fucking Hell | 204026 | [204026-fucking-hell.json](./204026-fucking-hell.json) |
+| Fucking Hostile | 271965 | [271965-fucking-hostile.json](./271965-fucking-hostile.json) |
 | Fuckling | 192750 | [192750-fuckling.json](./192750-fuckling.json) |
 | Fucksweeper | 306272 | [306272-fucksweeper.json](./306272-fucksweeper.json) |
 | Fucus | 298197 | [298197-fucus.json](./298197-fucus.json) |
@@ -14708,6 +14710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furious Karting | 47310 | [47310-furious-karting.json](./47310-furious-karting.json) |
 | Furious Parry | 183383 | [183383-furious-parry.json](./183383-furious-parry.json) |
 | Furious Race | 105985 | [105985-furious-race.json](./105985-furious-race.json) |
+| Furious Rage | 271884 | [271884-furious-rage.json](./271884-furious-rage.json) |
 | Furious Revenge of Bolo | 153893 | [153893-furious-revenge-of-bolo.json](./153893-furious-revenge-of-bolo.json) |
 | Furious Seas | 103775 | [103775-furious-seas.json](./103775-furious-seas.json) |
 | Furious Sword | 226357 | [226357-furious-sword.json](./226357-furious-sword.json) |
