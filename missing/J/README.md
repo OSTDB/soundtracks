@@ -1012,6 +1012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jeff Logar | 209804 | [209804-jeff-logar.json](./209804-jeff-logar.json) |
 | Jeff Space | 237598 | [237598-jeff-space.json](./237598-jeff-space.json) |
 | Jeff the Janitor | 337491 | [337491-jeff-the-janitor.json](./337491-jeff-the-janitor.json) |
+| Jeff the Killer | 281622 | [281622-jeff-the-killer.json](./281622-jeff-the-killer.json) |
 | Jeff the Killer | 376137 | [376137-jeff-the-killer.json](./376137-jeff-the-killer.json) |
 | Jeff The Killer | 277513 | [277513-jeff-the-killer.json](./277513-jeff-the-killer.json) |
 | Jeff the Killer Revenge | 62291 | [62291-jeff-the-killer-revenge.json](./62291-jeff-the-killer-revenge.json) |
@@ -3164,6 +3165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JS Girl Doki-doki Model Challenge | 222462 | [222462-js-girl-doki-doki-model-challenge.json](./222462-js-girl-doki-doki-model-challenge.json) |
 | Jstris | 137955 | [137955-jstris.json](./137955-jstris.json) |
 | JTAC Beats | 294960 | [294960-jtac-beats.json](./294960-jtac-beats.json) |
+| JTron | 281144 | [281144-jtron.json](./281144-jtron.json) |
 | Ju | 74382 | [74382-ju.json](./74382-ju.json) |
 | Ju Ju Densetsu | 40202 | [40202-ju-ju-densetsu.json](./40202-ju-ju-densetsu.json) |
 | Ju-men: Cursed Masks | 389845 | [389845-ju-men-cursed-masks.json](./389845-ju-men-cursed-masks.json) |
