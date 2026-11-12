@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1851,6 +1852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Head | 317296 | [317296-balloon-head.json](./317296-balloon-head.json) |
 | Balloon Hit HD | 88727 | [88727-balloon-hit-hd.json](./88727-balloon-hit-hd.json) |
 | Balloon in a Wasteland | 236637 | [236637-balloon-in-a-wasteland.json](./236637-balloon-in-a-wasteland.json) |
+| Balloon Invasion | 270337 | [270337-balloon-invasion.json](./270337-balloon-invasion.json) |
 | Balloon Jerks | 319990 | [319990-balloon-jerks.json](./319990-balloon-jerks.json) |
 | Balloon Jump | 152877 | [152877-balloon-jump.json](./152877-balloon-jump.json) |
 | Balloon Kid | 3682 | [3682-balloon-kid.json](./3682-balloon-kid.json) |
@@ -9886,6 +9888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Runes | 266764 | [266764-black-runes.json](./266764-black-runes.json) |
 | Black Russia | 318679 | [318679-black-russia.json](./318679-black-russia.json) |
 | Black Sailors | 381172 | [381172-black-sailors.json](./381172-black-sailors.json) |
+| Black Sails | 270339 | [270339-black-sails.json](./270339-black-sails.json) |
 | Black Sails | 289384 | [289384-black-sails.json](./289384-black-sails.json) |
 | Black Sails: The Ghost Ship | 12692 | [12692-black-sails-the-ghost-ship.json](./12692-black-sails-the-ghost-ship.json) |
 | Black Sand Drift | 31911 | [31911-black-sand-drift.json](./31911-black-sand-drift.json) |
@@ -14031,6 +14034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booby Boys | 49068 | [49068-booby-boys.json](./49068-booby-boys.json) |
 | Booby Kids | 7796 | [7796-booby-kids.json](./7796-booby-kids.json) |
 | BoobyRogue: Tumor Takedown | 373295 | [373295-boobyrogue-tumor-takedown.json](./373295-boobyrogue-tumor-takedown.json) |
+| Boobytales | 270356 | [270356-boobytales.json](./270356-boobytales.json) |
 | Boodunnit | 143556 | [143556-boodunnit.json](./143556-boodunnit.json) |
 | Booeys: Rip in the Rift | 292246 | [292246-booeys-rip-in-the-rift.json](./292246-booeys-rip-in-the-rift.json) |
 | Boofie's Birthday Adventure | 340246 | [340246-boofies-birthday-adventure.json](./340246-boofies-birthday-adventure.json) |
@@ -15265,6 +15269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser's Dank Rave Infinite: Mario and Bowser Stop the Illuminati To Rave 5Ever | 313090 | [313090-bowsers-dank-rave-infinite-mario-and-bowser-stop-the-illuminati-to-rave-5ever.json](./313090-bowsers-dank-rave-infinite-mario-and-bowser-stop-the-illuminati-to-rave-5ever.json) |
 | Bowser's Dark Story | 155012 | [155012-bowsers-dark-story.json](./155012-bowsers-dark-story.json) |
 | Bowser's Diary: Take the Quiz! | 328602 | [328602-bowsers-diary-take-the-quiz.json](./328602-bowsers-diary-take-the-quiz.json) |
+| Bowser's Flood | 270360 | [270360-bowsers-flood.json](./270360-bowsers-flood.json) |
 | Bowser's Fury | 142909 | [142909-bowsers-fury.json](./142909-bowsers-fury.json) |
 | Bowser's Fury Online | 313081 | [313081-bowsers-fury-online.json](./313081-bowsers-fury-online.json) |
 | Bowser's Jumping Challenge | 215200 | [215200-bowsers-jumping-challenge.json](./215200-bowsers-jumping-challenge.json) |
@@ -15285,6 +15290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box 'n' Robot | 335007 | [335007-box-n-robot.json](./335007-box-n-robot.json) |
 | Box #341 | 333631 | [333631-box-341.json](./333631-box-341.json) |
 | Box A Chocolate | 112285 | [112285-box-a-chocolate.json](./112285-box-a-chocolate.json) |
+| Box Adventure | 270361 | [270361-box-adventure.json](./270361-box-adventure.json) |
 | Box Align | 86312 | [86312-box-align.json](./86312-box-align.json) |
 | Box and Ball | 153851 | [153851-box-and-ball.json](./153851-box-and-ball.json) |
 | Box Bakery | 310007 | [310007-box-bakery.json](./310007-box-bakery.json) |
@@ -15910,6 +15916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz World: The Jet Set | 230422 | [230422-bratz-world-the-jet-set.json](./230422-bratz-world-the-jet-set.json) |
 | Bratz: Fashion Boutique | 47638 | [47638-bratz-fashion-boutique.json](./47638-bratz-fashion-boutique.json) |
 | Bratz: Flaunt Your Fashion | 214142 | [214142-bratz-flaunt-your-fashion.json](./214142-bratz-flaunt-your-fashion.json) |
+| Bratz: Flaunt Your Fashion - Complete Edition | 270331 | [270331-bratz-flaunt-your-fashion-complete-edition.json](./270331-bratz-flaunt-your-fashion-complete-edition.json) |
 | Bratz: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack | 301569 | [301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json](./301569-bratz-flaunt-your-fashion-pretty-n-punk-fashion-pack.json) |
 | Bratz: Forever Diamondz | 248532 | [248532-bratz-forever-diamondz.json](./248532-bratz-forever-diamondz.json) |
 | Bratz: Forever Diamondz | 248533 | [248533-bratz-forever-diamondz.json](./248533-bratz-forever-diamondz.json) |
@@ -16628,6 +16635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bretonne Lais | 297609 | [297609-bretonne-lais.json](./297609-bretonne-lais.json) |
 | Brett Hull Hockey | 42633 | [42633-brett-hull-hockey.json](./42633-brett-hull-hockey.json) |
 | Brett Hull Hockey 95 | 46231 | [46231-brett-hull-hockey-95.json](./46231-brett-hull-hockey-95.json) |
+| Brett Hull NHL Hockey | 270268 | [270268-brett-hull-nhl-hockey.json](./270268-brett-hull-nhl-hockey.json) |
 | Brett: Neet Adventures | 63930 | [63930-brett-neet-adventures.json](./63930-brett-neet-adventures.json) |
 | Breu: Shadow Hunt | 233634 | [233634-breu-shadow-hunt.json](./233634-breu-shadow-hunt.json) |
 | Breve Bug: Champions of Destiny | 394627 | [394627-breve-bug-champions-of-destiny.json](./394627-breve-bug-champions-of-destiny.json) |
@@ -17182,6 +17190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brocula | 139651 | [139651-brocula.json](./139651-brocula.json) |
 | Brodefence | 101324 | [101324-brodefence.json](./101324-brodefence.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
+| Broforce: Deluxe Edition | 270336 | [270336-broforce-deluxe-edition.json](./270336-broforce-deluxe-edition.json) |
 | Broghurt | 345229 | [345229-broghurt.json](./345229-broghurt.json) |
 | Brogue | 12516 | [12516-brogue.json](./12516-brogue.json) |
 | Broil My Buns | 178800 | [178800-broil-my-buns.json](./178800-broil-my-buns.json) |
@@ -18514,6 +18523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Builderland: The Story of Melba | 13451 | [13451-builderland-the-story-of-melba.json](./13451-builderland-the-story-of-melba.json) |
 | Builderment | 174572 | [174572-builderment.json](./174572-builderment.json) |
 | Builderment Idle | 296795 | [296795-builderment-idle.json](./296795-builderment-idle.json) |
+| Builders Brawl | 270342 | [270342-builders-brawl.json](./270342-builders-brawl.json) |
 | Builders of China | 139744 | [139744-builders-of-china.json](./139744-builders-of-china.json) |
 | Builders of Egypt | 120901 | [120901-builders-of-egypt.json](./120901-builders-of-egypt.json) |
 | Builders of Greece | 217337 | [217337-builders-of-greece.json](./217337-builders-of-greece.json) |
