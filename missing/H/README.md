@@ -2396,6 +2396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Obby | 284409 | [284409-harry-obby.json](./284409-harry-obby.json) |
 | Harry Potter | 248180 | [248180-harry-potter.json](./248180-harry-potter.json) |
 | Harry Potter 2: The Black Art Wtrstle Edition | 342982 | [342982-harry-potter-2-the-black-art-wtrstle-edition.json](./342982-harry-potter-2-the-black-art-wtrstle-edition.json) |
+| Harry Potter 3 | 249517 | [249517-harry-potter-3.json](./249517-harry-potter-3.json) |
 | Harry Potter and the Chamber of Secrets | 117322 | [117322-harry-potter-and-the-chamber-of-secrets.json](./117322-harry-potter-and-the-chamber-of-secrets.json) |
 | Harry Potter and the Chamber of Secrets | 166321 | [166321-harry-potter-and-the-chamber-of-secrets.json](./166321-harry-potter-and-the-chamber-of-secrets.json) |
 | Harry Potter and the Chamber of Secrets | 166322 | [166322-harry-potter-and-the-chamber-of-secrets.json](./166322-harry-potter-and-the-chamber-of-secrets.json) |
@@ -3669,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbeat | 176978 | [176978-heartbeat.json](./176978-heartbeat.json) |
 | Heartbeat at Midnight | 407310 | [407310-heartbeat-at-midnight.json](./407310-heartbeat-at-midnight.json) |
 | Heartbeat Girlfriend | 278100 | [278100-heartbeat-girlfriend.json](./278100-heartbeat-girlfriend.json) |
+| Heartbeat Hospital: Love, Lies, and Betrayal | 249510 | [249510-heartbeat-hospital-love-lies-and-betrayal.json](./249510-heartbeat-hospital-love-lies-and-betrayal.json) |
 | Heartbeat House: Hong Kong | 386218 | [386218-heartbeat-house-hong-kong.json](./386218-heartbeat-house-hong-kong.json) |
 | Heartbeat in Thailand | 369277 | [369277-heartbeat-in-thailand.json](./369277-heartbeat-in-thailand.json) |
 | Heartbeat Scramble | 209621 | [209621-heartbeat-scramble.json](./209621-heartbeat-scramble.json) |
