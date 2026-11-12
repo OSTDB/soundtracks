@@ -10574,6 +10574,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Angry Shark | 161619 | [161619-angry-angry-shark.json](./161619-angry-angry-shark.json) |
 | Angry Angus | 224540 | [224540-angry-angus.json](./224540-angry-angus.json) |
 | Angry Animals | 406795 | [406795-angry-animals.json](./406795-angry-animals.json) |
+| Angry Anna: Christmas Quest | 281605 | [281605-angry-anna-christmas-quest.json](./281605-angry-anna-christmas-quest.json) |
+| Angry Anna: Halloween Quest 2 | 281607 | [281607-angry-anna-halloween-quest-2.json](./281607-angry-anna-halloween-quest-2.json) |
 | Angry Arrows | 34755 | [34755-angry-arrows.json](./34755-angry-arrows.json) |
 | Angry Ball VR | 112961 | [112961-angry-ball-vr.json](./112961-angry-ball-vr.json) |
 | Angry Barry | 67987 | [67987-angry-barry.json](./67987-angry-barry.json) |
@@ -17717,6 +17719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At Last not Last | 234495 | [234495-at-last-not-last.json](./234495-at-last-not-last.json) |
 | At Least There is Ceda Cedovic | 138591 | [138591-at-least-there-is-ceda-cedovic.json](./138591-at-least-there-is-ceda-cedovic.json) |
 | At Light Speed | 263826 | [263826-at-light-speed.json](./263826-at-light-speed.json) |
+| At Night | 281604 | [281604-at-night.json](./281604-at-night.json) |
 | At Night | 377303 | [377303-at-night.json](./377303-at-night.json) |
 | At Night : Freakshow | 406664 | [406664-at-night-freakshow.json](./406664-at-night-freakshow.json) |
 | At Night: Haunted Ride | 400723 | [400723-at-night-haunted-ride.json](./400723-at-night-haunted-ride.json) |
@@ -18911,6 +18914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Pirates: Captains Cup | 317057 | [317057-auto-pirates-captains-cup.json](./317057-auto-pirates-captains-cup.json) |
 | Auto Puzzle Defense | 182292 | [182292-auto-puzzle-defense.json](./182292-auto-puzzle-defense.json) |
 | Auto Race | 245572 | [245572-auto-race.json](./245572-auto-race.json) |
+| Auto Race | 281145 | [281145-auto-race.json](./281145-auto-race.json) |
 | Auto Racing | 246505 | [246505-auto-racing.json](./246505-auto-racing.json) |
 | Auto Racing | 5659 | [5659-auto-racing.json](./5659-auto-racing.json) |
 | Auto RiskRisk | 245784 | [245784-auto-riskrisk.json](./245784-auto-riskrisk.json) |
