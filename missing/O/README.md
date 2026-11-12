@@ -3388,6 +3388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ontranto | 277955 | [277955-ontranto.json](./277955-ontranto.json) |
 | Onward and Upward! DX | 279852 | [279852-onward-and-upward-dx.json](./279852-onward-and-upward-dx.json) |
 | Onward to walls! | 176268 | [176268-onward-to-walls.json](./176268-onward-to-walls.json) |
+| Onward: Asylum | 314556 | [314556-onward-asylum.json](./314556-onward-asylum.json) |
 | Onward! Autobattles | 422108 | [422108-onward-autobattles.json](./422108-onward-autobattles.json) |
 | Onwelt | 278881 | [278881-onwelt.json](./278881-onwelt.json) |
 | Onyanko Town | 48405 | [48405-onyanko-town.json](./48405-onyanko-town.json) |
@@ -3975,6 +3976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orange Man Smash! | 412432 | [412432-orange-man-smash.json](./412432-orange-man-smash.json) |
 | Orange Moon | 33752 | [33752-orange-moon.json](./33752-orange-moon.json) |
 | Orange Ocean | 396412 | [396412-orange-ocean.json](./396412-orange-ocean.json) |
+| Orange Roulette | 315750 | [315750-orange-roulette.json](./315750-orange-roulette.json) |
 | Orange Roulette | 320338 | [320338-orange-roulette.json](./320338-orange-roulette.json) |
 | Orange Salvifique | 172513 | [172513-orange-salvifique.json](./172513-orange-salvifique.json) |
 | Orange Santa | 151131 | [151131-orange-santa.json](./151131-orange-santa.json) |
@@ -5405,6 +5407,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak Contagion Complete Collection | 341383 | [341383-outbreak-contagion-complete-collection.json](./341383-outbreak-contagion-complete-collection.json) |
 | Outbreak Definitive Collection | 164738 | [164738-outbreak-definitive-collection.json](./164738-outbreak-definitive-collection.json) |
 | Outbreak Diamond Collection | 200177 | [200177-outbreak-diamond-collection.json](./200177-outbreak-diamond-collection.json) |
+| Outbreak Escape | 315759 | [315759-outbreak-escape.json](./315759-outbreak-escape.json) |
+| Outbreak Escape 2 | 315761 | [315761-outbreak-escape-2.json](./315761-outbreak-escape-2.json) |
+| Outbreak Escape 3 | 315762 | [315762-outbreak-escape-3.json](./315762-outbreak-escape-3.json) |
 | Outbreak in Space VR | 81956 | [81956-outbreak-in-space-vr.json](./81956-outbreak-in-space-vr.json) |
 | Outbreak Island | 165386 | [165386-outbreak-island.json](./165386-outbreak-island.json) |
 | Outbreak New Dawn | 137836 | [137836-outbreak-new-dawn.json](./137836-outbreak-new-dawn.json) |
@@ -5438,6 +5443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Lost Hope | 115905 | [115905-outbreak-lost-hope.json](./115905-outbreak-lost-hope.json) |
 | Outbreak: Lost Hope - Broken Faith | 261360 | [261360-outbreak-lost-hope-broken-faith.json](./261360-outbreak-lost-hope-broken-faith.json) |
 | Outbreak: Lost Hope - Definitive Edition | 164667 | [164667-outbreak-lost-hope-definitive-edition.json](./164667-outbreak-lost-hope-definitive-edition.json) |
+| Outbreak: Old School Collection | 314154 | [314154-outbreak-old-school-collection.json](./314154-outbreak-old-school-collection.json) |
 | Outbreak: Palladium Collection | 196278 | [196278-outbreak-palladium-collection.json](./196278-outbreak-palladium-collection.json) |
 | Outbreak: Pandemic Evolution | 33504 | [33504-outbreak-pandemic-evolution.json](./33504-outbreak-pandemic-evolution.json) |
 | Outbreak: Phantasmagoria Collection | 331428 | [331428-outbreak-phantasmagoria-collection.json](./331428-outbreak-phantasmagoria-collection.json) |
@@ -6157,6 +6163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overwatch 2: Season 1 - Cyberpunk | 220932 | [220932-overwatch-2-season-1-cyberpunk.json](./220932-overwatch-2-season-1-cyberpunk.json) |
 | Overwatch 2: Season 10 - Venture Forth | 294507 | [294507-overwatch-2-season-10-venture-forth.json](./294507-overwatch-2-season-10-venture-forth.json) |
 | Overwatch 2: Season 11 - Super Mega Ultrawatch | 305394 | [305394-overwatch-2-season-11-super-mega-ultrawatch.json](./305394-overwatch-2-season-11-super-mega-ultrawatch.json) |
+| Overwatch 2: Season 12 - New Frontiers | 313594 | [313594-overwatch-2-season-12-new-frontiers.json](./313594-overwatch-2-season-12-new-frontiers.json) |
 | Overwatch 2: Season 13 - Spellbinder | 319357 | [319357-overwatch-2-season-13-spellbinder.json](./319357-overwatch-2-season-13-spellbinder.json) |
 | Overwatch 2: Season 14 - Hazard | 324865 | [324865-overwatch-2-season-14-hazard.json](./324865-overwatch-2-season-14-hazard.json) |
 | Overwatch 2: Season 15 - Honor & Glory | 331286 | [331286-overwatch-2-season-15-honor-and-glory.json](./331286-overwatch-2-season-15-honor-and-glory.json) |
