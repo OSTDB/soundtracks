@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Avventure di Blue: Lacrima di Cristallo | 257676 | [257676-le-avventure-di-blue-lacrima-di-cristallo.json](./257676-le-avventure-di-blue-lacrima-di-cristallo.json) |
 | Le Barbare Qui Est Un Bourgeois | 97509 | [97509-le-barbare-qui-est-un-bourgeois.json](./97509-le-barbare-qui-est-un-bourgeois.json) |
 | Le Bureau Des Rêves | 343306 | [343306-le-bureau-des-reves.json](./343306-le-bureau-des-reves.json) |
+| Le Chat Fonce | 275284 | [275284-le-chat-fonce.json](./275284-le-chat-fonce.json) |
 | Le Chat Fonce: Gnome Cafe | 287999 | [287999-le-chat-fonce-gnome-cafe.json](./287999-le-chat-fonce-gnome-cafe.json) |
 | Le Château | 244484 | [244484-le-chateau.json](./244484-le-chateau.json) |
 | Le Chevalier Blanc | 39112 | [39112-le-chevalier-blanc.json](./39112-le-chevalier-blanc.json) |
@@ -5291,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightopus | 22316 | [22316-lightopus.json](./22316-lightopus.json) |
 | Lightout | 175388 | [175388-lightout.json](./175388-lightout.json) |
 | Lightout 2 | 201527 | [201527-lightout-2.json](./201527-lightout-2.json) |
+| Lightpath | 275192 | [275192-lightpath.json](./275192-lightpath.json) |
 | Lightphobe | 204121 | [204121-lightphobe.json](./204121-lightphobe.json) |
 | LightPoint | 350601 | [350601-lightpoint.json](./350601-lightpoint.json) |
 | LightQb | 374799 | [374799-lightqb.json](./374799-lightqb.json) |
