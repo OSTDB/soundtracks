@@ -6185,6 +6185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herder | 149862 | [149862-herder.json](./149862-herder.json) |
 | Herding Cats | 208262 | [208262-herding-cats.json](./208262-herding-cats.json) |
 | Herding Dog | 34307 | [34307-herding-dog.json](./34307-herding-dog.json) |
+| Herdles | 258749 | [258749-herdles.json](./258749-herdles.json) |
 | Herdy Gerdy | 43657 | [43657-herdy-gerdy.json](./43657-herdy-gerdy.json) |
 | Herdyn, Wanna be MaN | 154575 | [154575-herdyn-wanna-be-man.json](./154575-herdyn-wanna-be-man.json) |
 | Here | 396372 | [396372-here.json](./396372-here.json) |
@@ -6796,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Stand Tall: M.E.T.A | 302116 | [302116-heroes-stand-tall-m-e-t-a.json](./302116-heroes-stand-tall-m-e-t-a.json) |
 | Heroes Strategy・Heroes Strategy・Kards | 284271 | [284271-heroes-strategy-heroes-strategy-kards.json](./284271-heroes-strategy-heroes-strategy-kards.json) |
 | Heroes Strike | 165555 | [165555-heroes-strike.json](./165555-heroes-strike.json) |
+| Heroes Suck | 258747 | [258747-heroes-suck.json](./258747-heroes-suck.json) |
 | Heroes Tactics | 37054 | [37054-heroes-tactics.json](./37054-heroes-tactics.json) |
 | Heroes Tactics: Fire Emblem | 389655 | [389655-heroes-tactics-fire-emblem.json](./389655-heroes-tactics-fire-emblem.json) |
 | Heroes TD | 237430 | [237430-heroes-td.json](./237430-heroes-td.json) |
