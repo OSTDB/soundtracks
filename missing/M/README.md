@@ -1375,6 +1375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Piano by Smule | 126147 | [126147-magic-piano-by-smule.json](./126147-magic-piano-by-smule.json) |
 | Magic Piano Tiles 2018 | 106224 | [106224-magic-piano-tiles-2018.json](./106224-magic-piano-tiles-2018.json) |
 | Magic Piano Tiles 2018 - Music Game | 110594 | [110594-magic-piano-tiles-2018-music-game.json](./110594-magic-piano-tiles-2018-music-game.json) |
+| Magic Pinball | 273530 | [273530-magic-pinball.json](./273530-magic-pinball.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
 | Magic Pixel Survival | 233419 | [233419-magic-pixel-survival.json](./233419-magic-pixel-survival.json) |
 | Magic Planet Snack | 283547 | [283547-magic-planet-snack.json](./283547-magic-planet-snack.json) |
@@ -13940,6 +13941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Motorways | 122559 | [122559-mini-motorways.json](./122559-mini-motorways.json) |
 | Mini Motorways: Creative Mode | 347897 | [347897-mini-motorways-creative-mode.json](./347897-mini-motorways-creative-mode.json) |
 | Mini Moves: Among Stars | 160064 | [160064-mini-moves-among-stars.json](./160064-mini-moves-among-stars.json) |
+| Mini MSX | 273531 | [273531-mini-msx.json](./273531-mini-msx.json) |
 | Mini Murder Mysteries | 405019 | [405019-mini-murder-mysteries.json](./405019-mini-murder-mysteries.json) |
 | Mini Ninjas | 2192 | [2192-mini-ninjas.json](./2192-mini-ninjas.json) |
 | Mini Ninjas Adventures | 20234 | [20234-mini-ninjas-adventures.json](./20234-mini-ninjas-adventures.json) |
@@ -16039,6 +16041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogh | 126526 | [126526-mogh.json](./126526-mogh.json) |
 | MoghVR | 160136 | [160136-moghvr.json](./160136-moghvr.json) |
 | Mogitate: Bearing Fruit | 400579 | [400579-mogitate-bearing-fruit.json](./400579-mogitate-bearing-fruit.json) |
+| Moglin Punter | 273517 | [273517-moglin-punter.json](./273517-moglin-punter.json) |
 | MogMog Planet | 316034 | [316034-mogmog-planet.json](./316034-mogmog-planet.json) |
 | Mogo Invasion | 48004 | [48004-mogo-invasion.json](./48004-mogo-invasion.json) |
 | Mogo-Mogo | 397560 | [397560-mogo-mogo.json](./397560-mogo-mogo.json) |
@@ -21299,6 +21302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Store Simulator | 207326 | [207326-music-store-simulator.json](./207326-music-store-simulator.json) |
 | Music Summoner | 249874 | [249874-music-summoner.json](./249874-music-summoner.json) |
 | Music Thief | 191813 | [191813-music-thief.json](./191813-music-thief.json) |
+| Music Tower | 273521 | [273521-music-tower.json](./273521-music-tower.json) |
 | Music vs Block: Piano Simulation Game | 102242 | [102242-music-vs-block-piano-simulation-game.json](./102242-music-vs-block-piano-simulation-game.json) |
 | Music Wars | 95967 | [95967-music-wars.json](./95967-music-wars.json) |
 | Music Wars Empire | 32563 | [32563-music-wars-empire.json](./32563-music-wars-empire.json) |
@@ -21535,6 +21539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv Unlimited: The Day After Ultimate Collection | 399799 | [399799-muv-luv-unlimited-the-day-after-ultimate-collection.json](./399799-muv-luv-unlimited-the-day-after-ultimate-collection.json) |
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
 | Muv-Luv: Tactics Kalidasa at Nightmare | 407990 | [407990-muv-luv-tactics-kalidasa-at-nightmare.json](./407990-muv-luv-tactics-kalidasa-at-nightmare.json) |
+| Muv-Luv: Teito Moyu - The Imperial Capital Burns | 273519 | [273519-muv-luv-teito-moyu-the-imperial-capital-burns.json](./273519-muv-luv-teito-moyu-the-imperial-capital-burns.json) |
 | Muyagangho | 224405 | [224405-muyagangho.json](./224405-muyagangho.json) |
 | Muyeon | 121854 | [121854-muyeon.json](./121854-muyeon.json) |
 | Muyuu | 166437 | [166437-muyuu.json](./166437-muyuu.json) |
