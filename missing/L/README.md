@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Meow Standing | 202490 | [202490-last-meow-standing.json](./202490-last-meow-standing.json) |
 | Last Message | 316160 | [316160-last-message.json](./316160-last-message.json) |
 | Last Message Plus | 316173 | [316173-last-message-plus.json](./316173-last-message-plus.json) |
+| Last Mile | 310850 | [310850-last-mile.json](./310850-last-mile.json) |
 | Last Mind Standing | 318445 | [318445-last-mind-standing.json](./318445-last-mind-standing.json) |
 | Last Minute | 172931 | [172931-last-minute.json](./172931-last-minute.json) |
 | Last Minute | 267018 | [267018-last-minute.json](./267018-last-minute.json) |
