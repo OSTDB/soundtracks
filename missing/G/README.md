@@ -3374,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensou no Avatar | 388225 | [388225-gensou-no-avatar.json](./388225-gensou-no-avatar.json) |
 | Gensou no Idea: Oratorio Phantasm Historia | 137081 | [137081-gensou-no-idea-oratorio-phantasm-historia.json](./137081-gensou-no-idea-oratorio-phantasm-historia.json) |
 | Gensou Rouman Kikou: Phantasmagoria Trues | 321482 | [321482-gensou-rouman-kikou-phantasmagoria-trues.json](./321482-gensou-rouman-kikou-phantasmagoria-trues.json) |
+| Gensou Sekai: Eastland Saga | 300593 | [300593-gensou-sekai-eastland-saga.json](./300593-gensou-sekai-eastland-saga.json) |
 | Gensou Shoujo Taisen | 178187 | [178187-gensou-shoujo-taisen.json](./178187-gensou-shoujo-taisen.json) |
 | Gensou Skydrift | 125591 | [125591-gensou-skydrift.json](./125591-gensou-skydrift.json) |
 | Gensou Tairiku Aurelia | 79293 | [79293-gensou-tairiku-aurelia.json](./79293-gensou-tairiku-aurelia.json) |
