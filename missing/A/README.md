@@ -8848,6 +8848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amakano 3 | 370550 | [370550-amakano-3.json](./370550-amakano-3.json) |
 | Amakano 3 | 415051 | [415051-amakano-3.json](./415051-amakano-3.json) |
 | Amakano: Second Season | 128405 | [128405-amakano-second-season.json](./128405-amakano-second-season.json) |
+| Amakano: Second Season | 272422 | [272422-amakano-second-season.json](./272422-amakano-second-season.json) |
 | Amakano: Second Season + | 128415 | [128415-amakano-second-season.json](./128415-amakano-second-season.json) |
 | Amakano+ | 128378 | [128378-amakano.json](./128378-amakano.json) |
 | Amakta | 358989 | [358989-amakta.json](./358989-amakta.json) |
