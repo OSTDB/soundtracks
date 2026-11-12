@@ -8407,7 +8407,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoplanet: First Contact | 22781 | [22781-exoplanet-first-contact.json](./22781-exoplanet-first-contact.json) |
 | Exoprimal | 194203 | [194203-exoprimal.json](./194203-exoprimal.json) |
 | Exoprimal: Barrage - Volcano | 332615 | [332615-exoprimal-barrage-volcano.json](./332615-exoprimal-barrage-volcano.json) |
+| Exoprimal: Barrage Alpha Mystic Set | 286247 | [286247-exoprimal-barrage-alpha-mystic-set.json](./286247-exoprimal-barrage-alpha-mystic-set.json) |
+| Exoprimal: Barrage Monster Hunter Set | 286246 | [286246-exoprimal-barrage-monster-hunter-set.json](./286246-exoprimal-barrage-monster-hunter-set.json) |
 | Exoprimal: Barrage Splash! Set | 256550 | [256550-exoprimal-barrage-splash-set.json](./256550-exoprimal-barrage-splash-set.json) |
+| Exoprimal: Deadeye Alpha Deinonychus Body Set | 286243 | [286243-exoprimal-deadeye-alpha-deinonychus-body-set.json](./286243-exoprimal-deadeye-alpha-deinonychus-body-set.json) |
 | Exoprimal: Deadeye QB-W Set | 256547 | [256547-exoprimal-deadeye-qb-w-set.json](./256547-exoprimal-deadeye-qb-w-set.json) |
 | Exoprimal: Deluxe Edition | 256742 | [256742-exoprimal-deluxe-edition.json](./256742-exoprimal-deluxe-edition.json) |
 | Exoprimal: Egret (Skywave) | 409072 | [409072-exoprimal-egret-skywave.json](./409072-exoprimal-egret-skywave.json) |
@@ -8422,16 +8425,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoprimal: Nimbus Alpha Kimen Set | 298327 | [298327-exoprimal-nimbus-alpha-kimen-set.json](./298327-exoprimal-nimbus-alpha-kimen-set.json) |
 | Exoprimal: Nimbus Fancy Banshee Set | 284693 | [284693-exoprimal-nimbus-fancy-banshee-set.json](./284693-exoprimal-nimbus-fancy-banshee-set.json) |
 | Exoprimal: Roadblock Alpha Big Bunny Set | 286248 | [286248-exoprimal-roadblock-alpha-big-bunny-set.json](./286248-exoprimal-roadblock-alpha-big-bunny-set.json) |
+| Exoprimal: Roadblock Monster Hunter Set | 286245 | [286245-exoprimal-roadblock-monster-hunter-set.json](./286245-exoprimal-roadblock-monster-hunter-set.json) |
 | Exoprimal: Roadblock Tragic Monster Set | 256549 | [256549-exoprimal-roadblock-tragic-monster-set.json](./256549-exoprimal-roadblock-tragic-monster-set.json) |
 | Exoprimal: Season 3 | 295253 | [295253-exoprimal-season-3.json](./295253-exoprimal-season-3.json) |
 | Exoprimal: Season 4 | 295254 | [295254-exoprimal-season-4.json](./295254-exoprimal-season-4.json) |
 | Exoprimal: Skywave Alpha Future Flight Set | 298333 | [298333-exoprimal-skywave-alpha-future-flight-set.json](./298333-exoprimal-skywave-alpha-future-flight-set.json) |
 | Exoprimal: Skywave Fire Guardian Set | 284694 | [284694-exoprimal-skywave-fire-guardian-set.json](./284694-exoprimal-skywave-fire-guardian-set.json) |
+| Exoprimal: Skywave Monster Hunter Set | 286244 | [286244-exoprimal-skywave-monster-hunter-set.json](./286244-exoprimal-skywave-monster-hunter-set.json) |
 | Exoprimal: Vigilant Alpha Insurgent Set | 298334 | [298334-exoprimal-vigilant-alpha-insurgent-set.json](./298334-exoprimal-vigilant-alpha-insurgent-set.json) |
 | Exoprimal: Vigilant Metallic Cat Set | 284697 | [284697-exoprimal-vigilant-metallic-cat-set.json](./284697-exoprimal-vigilant-metallic-cat-set.json) |
 | Exoprimal: Vigilant Street Fighter Set | 284695 | [284695-exoprimal-vigilant-street-fighter-set.json](./284695-exoprimal-vigilant-street-fighter-set.json) |
+| Exoprimal: Witchdoctor Alpha Overlord Set | 286241 | [286241-exoprimal-witchdoctor-alpha-overlord-set.json](./286241-exoprimal-witchdoctor-alpha-overlord-set.json) |
 | Exoprimal: Witchdoctor Mega Man Set | 298330 | [298330-exoprimal-witchdoctor-mega-man-set.json](./298330-exoprimal-witchdoctor-mega-man-set.json) |
 | Exoprimal: Witchdoctor UFO Set | 256551 | [256551-exoprimal-witchdoctor-ufo-set.json](./256551-exoprimal-witchdoctor-ufo-set.json) |
+| Exoprimal: Zephyr Alpha Fire Dragon Set | 286242 | [286242-exoprimal-zephyr-alpha-fire-dragon-set.json](./286242-exoprimal-zephyr-alpha-fire-dragon-set.json) |
 | Exoprimal: Zephyr Security Guard Set | 256548 | [256548-exoprimal-zephyr-security-guard-set.json](./256548-exoprimal-zephyr-security-guard-set.json) |
 | Exoprimal: Zephyr Street Fighter Set | 284700 | [284700-exoprimal-zephyr-street-fighter-set.json](./284700-exoprimal-zephyr-street-fighter-set.json) |
 | Exoracer | 219092 | [219092-exoracer.json](./219092-exoracer.json) |
