@@ -239,6 +239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Commissioned Some Bunnies 4 | 306437 | [306437-i-commissioned-some-bunnies-4.json](./306437-i-commissioned-some-bunnies-4.json) |
 | I Commissioned Some Bunnies 5 | 306438 | [306438-i-commissioned-some-bunnies-5.json](./306438-i-commissioned-some-bunnies-5.json) |
 | I Commissioned Some Bunnies 6 | 301228 | [301228-i-commissioned-some-bunnies-6.json](./301228-i-commissioned-some-bunnies-6.json) |
+| I Commissioned Some Bunnies 7 | 303916 | [303916-i-commissioned-some-bunnies-7.json](./303916-i-commissioned-some-bunnies-7.json) |
 | I Commissioned Some Bunnies 8 | 304411 | [304411-i-commissioned-some-bunnies-8.json](./304411-i-commissioned-some-bunnies-8.json) |
 | I Commissioned Some Bunnies 9 | 306249 | [306249-i-commissioned-some-bunnies-9.json](./306249-i-commissioned-some-bunnies-9.json) |
 | I Commissioned Some Butterflies | 270127 | [270127-i-commissioned-some-butterflies.json](./270127-i-commissioned-some-butterflies.json) |
