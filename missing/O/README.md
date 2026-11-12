@@ -3041,6 +3041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OneTale | 335690 | [335690-onetale.json](./335690-onetale.json) |
 | Oneteam Soccer | 153358 | [153358-oneteam-soccer.json](./153358-oneteam-soccer.json) |
 | OneTry | 388951 | [388951-onetry.json](./388951-onetry.json) |
+| OneyPlays Lost In Kickassia Disc 2 | 316317 | [316317-oneyplays-lost-in-kickassia-disc-2.json](./316317-oneyplays-lost-in-kickassia-disc-2.json) |
 | ONF: Tatakau Rasetsu he | 301935 | [301935-onf-tatakau-rasetsu-he.json](./301935-onf-tatakau-rasetsu-he.json) |
 | Ong-Bak: The Video Game | 65443 | [65443-ong-bak-the-video-game.json](./65443-ong-bak-the-video-game.json) |
 | Ongaku | 35431 | [35431-ongaku.json](./35431-ongaku.json) |
