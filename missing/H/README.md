@@ -4132,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heebie Jeebies: The Roller Coaster | 126770 | [126770-heebie-jeebies-the-roller-coaster.json](./126770-heebie-jeebies-the-roller-coaster.json) |
 | Heed | 169984 | [169984-heed.json](./169984-heed.json) |
 | Heeey! Park-Boy | 142096 | [142096-heeey-park-boy.json](./142096-heeey-park-boy.json) |
+| Heelbain | 257610 | [257610-heelbain.json](./257610-heelbain.json) |
 | Heffelfinger | 340425 | [340425-heffelfinger.json](./340425-heffelfinger.json) |
 | Hegemarch | 424246 | [424246-hegemarch.json](./424246-hegemarch.json) |
 | Hegemone Pass | 118726 | [118726-hegemone-pass.json](./118726-hegemone-pass.json) |
@@ -10199,6 +10200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hommage 25 | 269560 | [269560-hommage-25.json](./269560-hommage-25.json) |
 | Homo Evolution | 180572 | [180572-homo-evolution.json](./180572-homo-evolution.json) |
 | Homo Flimsy | 103433 | [103433-homo-flimsy.json](./103433-homo-flimsy.json) |
+| Homo Ludus | 257606 | [257606-homo-ludus.json](./257606-homo-ludus.json) |
 | Homo Machina | 101468 | [101468-homo-machina.json](./101468-homo-machina.json) |
 | Homo Sovieticus | 405885 | [405885-homo-sovieticus.json](./405885-homo-sovieticus.json) |
 | Homonculus | 395627 | [395627-homonculus.json](./395627-homonculus.json) |
@@ -13256,6 +13258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huuma Mina: The Secret of Immortality | 137373 | [137373-huuma-mina-the-secret-of-immortality.json](./137373-huuma-mina-the-secret-of-immortality.json) |
 | Huusuienbu: Chapter Spring and Summer | 55706 | [55706-huusuienbu-chapter-spring-and-summer.json](./55706-huusuienbu-chapter-spring-and-summer.json) |
 | Huuuge Casino | 131137 | [131137-huuuge-casino.json](./131137-huuuge-casino.json) |
+| Huxla Dungeon III | 257698 | [257698-huxla-dungeon-iii.json](./257698-huxla-dungeon-iii.json) |
 | Huxley Pig | 67653 | [67653-huxley-pig.json](./67653-huxley-pig.json) |
 | Huxley: The Dystopia | 73011 | [73011-huxley-the-dystopia.json](./73011-huxley-the-dystopia.json) |
 | Huygen's Disclosure | 62375 | [62375-huygens-disclosure.json](./62375-huygens-disclosure.json) |
