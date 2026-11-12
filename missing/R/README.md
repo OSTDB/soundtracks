@@ -5213,6 +5213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics: The 2nd Birth | 281393 | [281393-relics-the-2nd-birth.json](./281393-relics-the-2nd-birth.json) |
 | Relics: The Card Game | 347980 | [347980-relics-the-card-game.json](./347980-relics-the-card-game.json) |
 | Relics: The Recur of Origin | 281392 | [281392-relics-the-recur-of-origin.json](./281392-relics-the-recur-of-origin.json) |
+| Relict | 298354 | [298354-relict.json](./298354-relict.json) |
 | Relicta In Memoriam | 420040 | [420040-relicta-in-memoriam.json](./420040-relicta-in-memoriam.json) |
 | Relictus: Blackout | 338426 | [338426-relictus-blackout.json](./338426-relictus-blackout.json) |
 | ReliCursed | 420044 | [420044-relicursed.json](./420044-relicursed.json) |
