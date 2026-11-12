@@ -6401,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pic-a-Pix Pieces: 20x20 Pieces Pack 7 | 404327 | [404327-pic-a-pix-pieces-20x20-pieces-pack-7.json](./404327-pic-a-pix-pieces-20x20-pieces-pack-7.json) |
 | Pic-a-Pix Pieces: 20x20 Pieces Pack 8 | 404328 | [404328-pic-a-pix-pieces-20x20-pieces-pack-8.json](./404328-pic-a-pix-pieces-20x20-pieces-pack-8.json) |
 | Pic-a-Pix Pieces: 20x20 Pieces Pack 9 | 404329 | [404329-pic-a-pix-pieces-20x20-pieces-pack-9.json](./404329-pic-a-pix-pieces-20x20-pieces-pack-9.json) |
+| Pic-Fix | 277471 | [277471-pic-fix.json](./277471-pic-fix.json) |
 | Pic-Man | 279611 | [279611-pic-man.json](./279611-pic-man.json) |
 | Pic-Me! | 322476 | [322476-pic-me.json](./322476-pic-me.json) |
 | Pica | 363578 | [363578-pica.json](./363578-pica.json) |
@@ -13609,6 +13610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop Star Dress Up - Music Idol Girl | 101571 | [101571-pop-star-dress-up-music-idol-girl.json](./101571-pop-star-dress-up-music-idol-girl.json) |
 | Pop Star Makeover | 99995 | [99995-pop-star-makeover.json](./99995-pop-star-makeover.json) |
 | POP Station | 225629 | [225629-pop-station.json](./225629-pop-station.json) |
+| Pop Stop | 277472 | [277472-pop-stop.json](./277472-pop-stop.json) |
 | Pop Survivor | 234109 | [234109-pop-survivor.json](./234109-pop-survivor.json) |
 | Pop the Balloons | 88745 | [88745-pop-the-balloons.json](./88745-pop-the-balloons.json) |
 | Pop the Bubbles | 147710 | [147710-pop-the-bubbles.json](./147710-pop-the-bubbles.json) |
