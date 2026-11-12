@@ -2867,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarabeus | 48858 | [48858-scarabeus.json](./48858-scarabeus.json) |
 | Scarabeus: Pearls of Nile | 65037 | [65037-scarabeus-pearls-of-nile.json](./65037-scarabeus-pearls-of-nile.json) |
 | Scaravan 66 | 332961 | [332961-scaravan-66.json](./332961-scaravan-66.json) |
+| Scare Bear | 293311 | [293311-scare-bear.json](./293311-scare-bear.json) |
 | Scare Crow | 187090 | [187090-scare-crow.json](./187090-scare-crow.json) |
 | Scare Girl | 380728 | [380728-scare-girl.json](./380728-scare-girl.json) |
 | Scare Girl 2 | 266594 | [266594-scare-girl-2.json](./266594-scare-girl-2.json) |
@@ -3553,6 +3554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scorphius | 213782 | [213782-scorphius.json](./213782-scorphius.json) |
 | Scorpio | 68453 | [68453-scorpio.json](./68453-scorpio.json) |
 | Scorpion | 22729 | [22729-scorpion.json](./22729-scorpion.json) |
+| Scorpion | 293309 | [293309-scorpion.json](./293309-scorpion.json) |
 | Scorpion | 392561 | [392561-scorpion.json](./392561-scorpion.json) |
 | Scorpion Champions: Island Warfare | 397719 | [397719-scorpion-champions-island-warfare.json](./397719-scorpion-champions-island-warfare.json) |
 | Scorpion Disfigured | 25400 | [25400-scorpion-disfigured.json](./25400-scorpion-disfigured.json) |
@@ -6744,6 +6746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Industry XXX | 311175 | [311175-sex-industry-xxx.json](./311175-sex-industry-xxx.json) |
 | Sex Inspector | 311144 | [311144-sex-inspector.json](./311144-sex-inspector.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
+| Sex Kitten Sim-Date | 293289 | [293289-sex-kitten-sim-date.json](./293289-sex-kitten-sim-date.json) |
 | Sex Kitten Sim-Date 2 | 305119 | [305119-sex-kitten-sim-date-2.json](./305119-sex-kitten-sim-date-2.json) |
 | Sex Kitten Sim-Date 3 | 305117 | [305117-sex-kitten-sim-date-3.json](./305117-sex-kitten-sim-date-3.json) |
 | Sex Kitten Sim-Date 4 | 305118 | [305118-sex-kitten-sim-date-4.json](./305118-sex-kitten-sim-date-4.json) |
@@ -10804,6 +10807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Side Hustle | 376488 | [376488-side-hustle.json](./376488-side-hustle.json) |
 | Side Hustle City | 364066 | [364066-side-hustle-city.json](./364066-side-hustle-city.json) |
 | Side Kicks! | 69322 | [69322-side-kicks.json](./69322-side-kicks.json) |
+| Side Kicks! Beyond | 293261 | [293261-side-kicks-beyond.json](./293261-side-kicks-beyond.json) |
 | Side Out | 413981 | [413981-side-out.json](./413981-side-out.json) |
 | Side Pocket | 172699 | [172699-side-pocket.json](./172699-side-pocket.json) |
 | Side Pocket | 242351 | [242351-side-pocket.json](./242351-side-pocket.json) |
@@ -12439,6 +12443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sionic Love | 399711 | [399711-sionic-love.json](./399711-sionic-love.json) |
 | Sip Fisher | 346401 | [346401-sip-fisher.json](./346401-sip-fisher.json) |
 | Sip Or Die | 379057 | [379057-sip-or-die.json](./379057-sip-or-die.json) |
+| Sipher Odyssey | 293255 | [293255-sipher-odyssey.json](./293255-sipher-odyssey.json) |
 | Sipho | 90850 | [90850-sipho.json](./90850-sipho.json) |
 | Siphonogore | 291237 | [291237-siphonogore.json](./291237-siphonogore.json) |
 | Sippin Hot Blickety Block N Bop Those Bad Battle Boys Down to Size Supreme | 213455 | [213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json](./213455-sippin-hot-blickety-block-n-bop-those-bad-battle-boys-down-to-size-supreme.json) |
@@ -12847,6 +12852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkateRide | 180776 | [180776-skateride.json](./180776-skateride.json) |
 | SkateRPG | 180468 | [180468-skaterpg.json](./180468-skaterpg.json) |
 | Skatesterre | 404911 | [404911-skatesterre.json](./404911-skatesterre.json) |
+| Skatin' USA | 293308 | [293308-skatin-usa.json](./293308-skatin-usa.json) |
 | Skator Gator | 139871 | [139871-skator-gator.json](./139871-skator-gator.json) |
 | Skator Gator 3D | 217239 | [217239-skator-gator-3d.json](./217239-skator-gator-3d.json) |
 | Skattered Dream | 171305 | [171305-skattered-dream.json](./171305-skattered-dream.json) |
@@ -13405,6 +13411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Aces | 54365 | [54365-sky-aces.json](./54365-sky-aces.json) |
 | Sky Aces 2 | 295937 | [295937-sky-aces-2.json](./295937-sky-aces-2.json) |
 | Sky Aces: WWII Air Combat | 322412 | [322412-sky-aces-wwii-air-combat.json](./322412-sky-aces-wwii-air-combat.json) |
+| Sky Adventure | 293310 | [293310-sky-adventure.json](./293310-sky-adventure.json) |
 | Sky Ahoy | 334921 | [334921-sky-ahoy.json](./334921-sky-ahoy.json) |
 | Sky Airplane Racer: Flight & Fight Simulator | 313156 | [313156-sky-airplane-racer-flight-and-fight-simulator.json](./313156-sky-airplane-racer-flight-and-fight-simulator.json) |
 | Sky Alert | 398981 | [398981-sky-alert.json](./398981-sky-alert.json) |
