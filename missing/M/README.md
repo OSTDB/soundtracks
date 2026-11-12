@@ -9227,6 +9227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mekanikko | 265227 | [265227-mekanikko.json](./265227-mekanikko.json) |
 | Mekanin | 172511 | [172511-mekanin.json](./172511-mekanin.json) |
 | Mekanion | 391460 | [391460-mekanion.json](./391460-mekanion.json) |
+| Mekanism | 261493 | [261493-mekanism.json](./261493-mekanism.json) |
 | Mekanizm | 72332 | [72332-mekanizm.json](./72332-mekanizm.json) |
 | Mekazoo | 19203 | [19203-mekazoo.json](./19203-mekazoo.json) |
 | Mekkablood: Quarry Assault | 305122 | [305122-mekkablood-quarry-assault.json](./305122-mekkablood-quarry-assault.json) |
@@ -21454,6 +21455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Football League: Snuffalo Thrills | 154930 | [154930-mutant-football-league-snuffalo-thrills.json](./154930-mutant-football-league-snuffalo-thrills.json) |
 | Mutant Football League: Terror Bay Mutantneers | 154932 | [154932-mutant-football-league-terror-bay-mutantneers.json](./154932-mutant-football-league-terror-bay-mutantneers.json) |
 | Mutant Football League: Werewolf Rampage Pack | 116644 | [116644-mutant-football-league-werewolf-rampage-pack.json](./116644-mutant-football-league-werewolf-rampage-pack.json) |
+| Mutant Forge | 261488 | [261488-mutant-forge.json](./261488-mutant-forge.json) |
 | Mutant Fridge Mayhem | 87211 | [87211-mutant-fridge-mayhem.json](./87211-mutant-fridge-mayhem.json) |
 | Mutant Frog | 270520 | [270520-mutant-frog.json](./270520-mutant-frog.json) |
 | Mutant Herd | 292827 | [292827-mutant-herd.json](./292827-mutant-herd.json) |
