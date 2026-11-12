@@ -6130,6 +6130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo King | 236600 | [236600-photo-king.json](./236600-photo-king.json) |
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
 | Photo Phantasy: Spot the Differences | 58128 | [58128-photo-phantasy-spot-the-differences.json](./58128-photo-phantasy-spot-the-differences.json) |
+| Photo Playhouse | 310295 | [310295-photo-playhouse.json](./310295-photo-playhouse.json) |
 | Photo Quiz: 4 pics, 1 thing in common - what’s the word? | 232568 | [232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json](./232568-photo-quiz-4-pics-1-thing-in-common-what-s-the-word.json) |
 | Photo Quiz: Animals | 370993 | [370993-photo-quiz-animals.json](./370993-photo-quiz-animals.json) |
 | Photo Roulette | 326511 | [326511-photo-roulette.json](./326511-photo-roulette.json) |
@@ -15727,6 +15728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prism Ark: Awake | 379153 | [379153-prism-ark-awake.json](./379153-prism-ark-awake.json) |
 | Prism Ark: Prism Heart II | 72550 | [72550-prism-ark-prism-heart-ii.json](./72550-prism-ark-prism-heart-ii.json) |
 | Prism Break | 102171 | [102171-prism-break.json](./102171-prism-break.json) |
+| Prism Break | 309771 | [309771-prism-break.json](./309771-prism-break.json) |
 | Prism Collider | 29643 | [29643-prism-collider.json](./29643-prism-collider.json) |
 | Prism Court | 123263 | [123263-prism-court.json](./123263-prism-court.json) |
 | Prism Crash | 38742 | [38742-prism-crash.json](./38742-prism-crash.json) |
@@ -16004,6 +16006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prize Fighter: Heavyweight Edition | 375599 | [375599-prize-fighter-heavyweight-edition.json](./375599-prize-fighter-heavyweight-edition.json) |
 | Prize Fighter: Remastered | 203790 | [203790-prize-fighter-remastered.json](./203790-prize-fighter-remastered.json) |
 | Prize Machine | 269341 | [269341-prize-machine.json](./269341-prize-machine.json) |
+| Prize Pact | 309770 | [309770-prize-pact.json](./309770-prize-pact.json) |
 | Prize Space Invaders | 269145 | [269145-prize-space-invaders.json](./269145-prize-space-invaders.json) |
 | Prize Tetris | 269146 | [269146-prize-tetris.json](./269146-prize-tetris.json) |
 | Prizefight | 68609 | [68609-prizefight.json](./68609-prizefight.json) |
