@@ -5888,6 +5888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nippon | 68454 | [68454-nippon.json](./68454-nippon.json) |
 | Nippon Daihyou Team: Eikou no Eleven | 65031 | [65031-nippon-daihyou-team-eikou-no-eleven.json](./65031-nippon-daihyou-team-eikou-no-eleven.json) |
 | Nippon Dojo | 351593 | [351593-nippon-dojo.json](./351593-nippon-dojo.json) |
+| Nippon Ecchi Jigsaw | 292731 | [292731-nippon-ecchi-jigsaw.json](./292731-nippon-ecchi-jigsaw.json) |
 | Nippon Futsal League Kounin: Minna no DS Futsal | 64263 | [64263-nippon-futsal-league-kounin-minna-no-ds-futsal.json](./64263-nippon-futsal-league-kounin-minna-no-ds-futsal.json) |
 | Nippon Ichi no Meikantoku | 48803 | [48803-nippon-ichi-no-meikantoku.json](./48803-nippon-ichi-no-meikantoku.json) |
 | Nippon Marathon 2: Daijoubu | 326644 | [326644-nippon-marathon-2-daijoubu.json](./326644-nippon-marathon-2-daijoubu.json) |
@@ -6148,6 +6149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No King No Kingdom II | 272964 | [272964-no-king-no-kingdom-ii.json](./272964-no-king-no-kingdom-ii.json) |
 | No King No Kingdom VR | 110684 | [110684-no-king-no-kingdom-vr.json](./110684-no-king-no-kingdom-vr.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
+| No Lava | 292721 | [292721-no-lava.json](./292721-no-lava.json) |
 | No Law | 381205 | [381205-no-law.json](./381205-no-law.json) |
 | No Leg Lenny | 187612 | [187612-no-leg-lenny.json](./187612-no-leg-lenny.json) |
 | No Legs? No Problem! | 249374 | [249374-no-legs-no-problem.json](./249374-no-legs-no-problem.json) |
