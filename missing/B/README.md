@@ -1023,6 +1023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -10283,6 +10284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade.exe | 377036 | [377036-blade-exe.json](./377036-blade-exe.json) |
 | Blade's Burden | 284009 | [284009-blades-burden.json](./284009-blades-burden.json) |
 | Blade's Legacy | 88081 | [88081-blades-legacy.json](./88081-blades-legacy.json) |
+| Bladeborne | 290567 | [290567-bladeborne.json](./290567-bladeborne.json) |
 | Bladebound | 57414 | [57414-bladebound.json](./57414-bladebound.json) |
 | Bladed Fury | 108787 | [108787-bladed-fury.json](./108787-bladed-fury.json) |
 | Bladefall | 378429 | [378429-bladefall.json](./378429-bladefall.json) |
@@ -16901,6 +16903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge! 3: The Construction Game | 125372 | [125372-bridge-3-the-construction-game.json](./125372-bridge-3-the-construction-game.json) |
 | BridgeBreaker | 365785 | [365785-bridgebreaker.json](./365785-bridgebreaker.json) |
 | BridgeFix 2=3-1 | 158731 | [158731-bridgefix-2-3-1.json](./158731-bridgefix-2-3-1.json) |
+| Bridgelands | 290569 | [290569-bridgelands.json](./290569-bridgelands.json) |
 | Bridgelands | 382976 | [382976-bridgelands.json](./382976-bridgelands.json) |
 | Bridges & Docks | 281972 | [281972-bridges-and-docks.json](./281972-bridges-and-docks.json) |
 | Bridges of Patience | 303377 | [303377-bridges-of-patience.json](./303377-bridges-of-patience.json) |
@@ -18010,6 +18013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubu Battle Royale | 402300 | [402300-bubu-battle-royale.json](./402300-bubu-battle-royale.json) |
 | Bubu Chuǎng Tōngguān | 390695 | [390695-bubu-chuang-tongguan.json](./390695-bubu-chuang-tongguan.json) |
 | Bubu Kong | 25007 | [25007-bubu-kong.json](./25007-bubu-kong.json) |
+| Bubumbu | 290561 | [290561-bubumbu.json](./290561-bubumbu.json) |
 | Buca! | 327975 | [327975-buca.json](./327975-buca.json) |
 | Buccaneer | 141845 | [141845-buccaneer.json](./141845-buccaneer.json) |
 | Buccaneer | 165522 | [165522-buccaneer.json](./165522-buccaneer.json) |
