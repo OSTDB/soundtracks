@@ -7100,6 +7100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Boxing 2 | 364579 | [364579-shadow-boxing-2.json](./364579-shadow-boxing-2.json) |
 | Shadow BoXR | 241368 | [241368-shadow-boxr.json](./241368-shadow-boxr.json) |
 | Shadow Brain | 48397 | [48397-shadow-brain.json](./48397-shadow-brain.json) |
+| Shadow Brawl | 292719 | [292719-shadow-brawl.json](./292719-shadow-brawl.json) |
 | Shadow Brawlers | 107404 | [107404-shadow-brawlers.json](./107404-shadow-brawlers.json) |
 | Shadow Breakers | 333139 | [333139-shadow-breakers.json](./333139-shadow-breakers.json) |
 | Shadow Brides | 208128 | [208128-shadow-brides.json](./208128-shadow-brides.json) |
@@ -26179,6 +26180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Souls | 115227 | [115227-star-souls.json](./115227-star-souls.json) |
 | Star Space | 416351 | [416351-star-space.json](./416351-star-space.json) |
 | Star Spectre | 217393 | [217393-star-spectre.json](./217393-star-spectre.json) |
+| Star Speeder | 292802 | [292802-star-speeder.json](./292802-star-speeder.json) |
 | Star Speeder | 97237 | [97237-star-speeder.json](./97237-star-speeder.json) |
 | Star Splash: Shattered Star | 85392 | [85392-star-splash-shattered-star.json](./85392-star-splash-shattered-star.json) |
 | Star Squadron | 345441 | [345441-star-squadron.json](./345441-star-squadron.json) |
@@ -33658,6 +33660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jewels Quest 2 | 90358 | [90358-super-jewels-quest-2.json](./90358-super-jewels-quest-2.json) |
 | Super Jigsaw Puzzle | 86304 | [86304-super-jigsaw-puzzle.json](./86304-super-jigsaw-puzzle.json) |
 | Super Jigsaw Puzzle: Anime | 111622 | [111622-super-jigsaw-puzzle-anime.json](./111622-super-jigsaw-puzzle-anime.json) |
+| Super Jigsaw Puzzle: Anime Reloaded | 292713 | [292713-super-jigsaw-puzzle-anime-reloaded.json](./292713-super-jigsaw-puzzle-anime-reloaded.json) |
 | Super Jigsaw Puzzle: Cities | 102368 | [102368-super-jigsaw-puzzle-cities.json](./102368-super-jigsaw-puzzle-cities.json) |
 | Super Jigsaw Puzzle: Generations | 116330 | [116330-super-jigsaw-puzzle-generations.json](./116330-super-jigsaw-puzzle-generations.json) |
 | Super Jigsaw Puzzle: Generations - Abandoned Places 2 | 155625 | [155625-super-jigsaw-puzzle-generations-abandoned-places-2.json](./155625-super-jigsaw-puzzle-generations-abandoned-places-2.json) |
@@ -34999,6 +35002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Power: Rising of A.I. | 157016 | [157016-super-power-rising-of-a-i.json](./157016-super-power-rising-of-a-i.json) |
 | Super Powered Battle Friends | 116023 | [116023-super-powered-battle-friends.json](./116023-super-powered-battle-friends.json) |
 | Super Prehistoric World Adventure | 278656 | [278656-super-prehistoric-world-adventure.json](./278656-super-prehistoric-world-adventure.json) |
+| Super President: How to Rule the Country | 292727 | [292727-super-president-how-to-rule-the-country.json](./292727-super-president-how-to-rule-the-country.json) |
 | Super Press Space To Win Adventure RPG 2009 | 294222 | [294222-super-press-space-to-win-adventure-rpg-2009.json](./294222-super-press-space-to-win-adventure-rpg-2009.json) |
 | Super Price Series: Block & Switch | 267225 | [267225-super-price-series-block-and-switch.json](./267225-super-price-series-block-and-switch.json) |
 | Super Price Series: Paipai | 267227 | [267227-super-price-series-paipai.json](./267227-super-price-series-paipai.json) |
@@ -35753,6 +35757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Sucker: Silly DLC | 351242 | [351242-super-sucker-silly-dlc.json](./351242-super-sucker-silly-dlc.json) |
 | Super Sucker: Smart DLC | 351241 | [351241-super-sucker-smart-dlc.json](./351241-super-sucker-smart-dlc.json) |
 | Super Sudoku | 195526 | [195526-super-sudoku.json](./195526-super-sudoku.json) |
+| Super Sumsputer | 292803 | [292803-super-sumsputer.json](./292803-super-sumsputer.json) |
 | Super Sunburnt Siesta Snoozer | 299566 | [299566-super-sunburnt-siesta-snoozer.json](./299566-super-sunburnt-siesta-snoozer.json) |
 | Super Sunny Island | 144822 | [144822-super-sunny-island.json](./144822-super-sunny-island.json) |
 | Super Sunny World | 324695 | [324695-super-sunny-world.json](./324695-super-sunny-world.json) |
