@@ -2809,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Junior | 112521 | [112521-legend-of-junior.json](./112521-legend-of-junior.json) |
 | Legend of K-1 Grand Prix '96 | 66886 | [66886-legend-of-k-1-grand-prix-96.json](./66886-legend-of-k-1-grand-prix-96.json) |
 | Legend of Kaito: Destiny Journey | 378818 | [378818-legend-of-kaito-destiny-journey.json](./378818-legend-of-kaito-destiny-journey.json) |
+| Legend of Kalevala | 279361 | [279361-legend-of-kalevala.json](./279361-legend-of-kalevala.json) |
 | Legend of Kay | 194236 | [194236-legend-of-kay.json](./194236-legend-of-kay.json) |
 | Legend of Kay | 3219 | [3219-legend-of-kay.json](./3219-legend-of-kay.json) |
 | Legend of Kay Anniversary | 19962 | [19962-legend-of-kay-anniversary.json](./19962-legend-of-kay-anniversary.json) |
@@ -8093,6 +8094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looppip | 318846 | [318846-looppip.json](./318846-looppip.json) |
 | Loopquarium | 410915 | [410915-loopquarium.json](./410915-loopquarium.json) |
 | Loopr | 391163 | [391163-loopr.json](./391163-loopr.json) |
+| Loops | 279172 | [279172-loops.json](./279172-loops.json) |
 | Loops of Zen | 54811 | [54811-loops-of-zen.json](./54811-loops-of-zen.json) |
 | Loopsters | 367079 | [367079-loopsters.json](./367079-loopsters.json) |
 | Loopstructor | 296978 | [296978-loopstructor.json](./296978-loopstructor.json) |
@@ -8112,6 +8114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopz | 77213 | [77213-loopz.json](./77213-loopz.json) |
 | Loose Cannon | 60668 | [60668-loose-cannon.json](./60668-loose-cannon.json) |
 | Loose Dog | 415506 | [415506-loose-dog.json](./415506-loose-dog.json) |
+| Loose Leaf | 279365 | [279365-loose-leaf.json](./279365-loose-leaf.json) |
 | Loose Life | 216711 | [216711-loose-life.json](./216711-loose-life.json) |
 | Loose Lips Side: Sunnyday | 206418 | [206418-loose-lips-side-sunnyday.json](./206418-loose-lips-side-sunnyday.json) |
 | Loose Lips(Side:foggy) | 151709 | [151709-loose-lips-side-foggy.json](./151709-loose-lips-side-foggy.json) |
