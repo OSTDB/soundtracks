@@ -10035,6 +10035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anchors: Start | 303160 | [303160-anchors-start.json](./303160-anchors-start.json) |
 | Anchorz Field | 37526 | [37526-anchorz-field.json](./37526-anchorz-field.json) |
 | Ancible Online | 375086 | [375086-ancible-online.json](./375086-ancible-online.json) |
+| Ancient | 271352 | [271352-ancient.json](./271352-ancient.json) |
 | Ancient | 371889 | [371889-ancient.json](./371889-ancient.json) |
 | Ancient Abyss | 107024 | [107024-ancient-abyss.json](./107024-ancient-abyss.json) |
 | Ancient Adventure | 406222 | [406222-ancient-adventure.json](./406222-ancient-adventure.json) |
@@ -12615,6 +12616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apidya | 11906 | [11906-apidya.json](./11906-apidya.json) |
 | Apidya II | 94586 | [94586-apidya-ii.json](./94586-apidya-ii.json) |
 | Apidya' Special | 409792 | [409792-apidya-special.json](./409792-apidya-special.json) |
+| Apinaraivo | 271432 | [271432-apinaraivo.json](./271432-apinaraivo.json) |
 | APlaceDominatedByFire | 390019 | [390019-aplacedominatedbyfire.json](./390019-aplacedominatedbyfire.json) |
 | APlaceDominatedByHoles | 260418 | [260418-aplacedominatedbyholes.json](./260418-aplacedominatedbyholes.json) |
 | Aplestia: Retold | 189175 | [189175-aplestia-retold.json](./189175-aplestia-retold.json) |
@@ -15561,6 +15563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arriving Home | 134925 | [134925-arriving-home.json](./134925-arriving-home.json) |
 | Arrog | 127144 | [127144-arrog.json](./127144-arrog.json) |
 | Arrogant | 427854 | [427854-arrogant.json](./427854-arrogant.json) |
+| Arrogant Erratum & The Kuras Stronghold | 271433 | [271433-arrogant-erratum-and-the-kuras-stronghold.json](./271433-arrogant-erratum-and-the-kuras-stronghold.json) |
 | Arrogation: Unlight of Day | 220743 | [220743-arrogation-unlight-of-day.json](./220743-arrogation-unlight-of-day.json) |
 | Arrogue | 297372 | [297372-arrogue.json](./297372-arrogue.json) |
 | Arrokoth | 260504 | [260504-arrokoth.json](./260504-arrokoth.json) |
@@ -16100,6 +16103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascender | 219939 | [219939-ascender.json](./219939-ascender.json) |
 | Ascenders | 194853 | [194853-ascenders.json](./194853-ascenders.json) |
 | Ascendia | 255859 | [255859-ascendia.json](./255859-ascendia.json) |
+| Ascending & Descending | 271364 | [271364-ascending-and-descending.json](./271364-ascending-and-descending.json) |
 | Ascending Inferno | 256126 | [256126-ascending-inferno.json](./256126-ascending-inferno.json) |
 | Ascending Madness | 96706 | [96706-ascending-madness.json](./96706-ascending-madness.json) |
 | Ascending Pinball | 26684 | [26684-ascending-pinball.json](./26684-ascending-pinball.json) |
@@ -19258,6 +19262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalone's Adventurers: My Parents were Assassinated so I've Started an Adventuring Party to Avoid a Political Marriage | 346202 | [346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json](./346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
 | Avani: The Primal Land | 144538 | [144538-avani-the-primal-land.json](./144538-avani-the-primal-land.json) |
+| Avanipaala Praasaada | 271439 | [271439-avanipaala-praasaada.json](./271439-avanipaala-praasaada.json) |
 | Avant | 138436 | [138436-avant.json](./138436-avant.json) |
 | Avant-Garde Discerning Paralleler | 120074 | [120074-avant-garde-discerning-paralleler.json](./120074-avant-garde-discerning-paralleler.json) |
 | Avant-Garde: Napoleonic Battles | 270497 | [270497-avant-garde-napoleonic-battles.json](./270497-avant-garde-napoleonic-battles.json) |
