@@ -1754,15 +1754,29 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys X: Nordics | 229176 | [229176-ys-x-nordics.json](./229176-ys-x-nordics.json) |
 | Ys X: Nordics - Advanced Pack | 324357 | [324357-ys-x-nordics-advanced-pack.json](./324357-ys-x-nordics-advanced-pack.json) |
 | Ys X: Nordics - Attachment Pack | 324355 | [324355-ys-x-nordics-attachment-pack.json](./324355-ys-x-nordics-attachment-pack.json) |
+| Ys X: Nordics - Azure Mermaid | 291125 | [291125-ys-x-nordics-azure-mermaid.json](./291125-ys-x-nordics-azure-mermaid.json) |
 | Ys X: Nordics - Costume Pack | 324356 | [324356-ys-x-nordics-costume-pack.json](./324356-ys-x-nordics-costume-pack.json) |
+| Ys X: Nordics - Crimson Knight Set | 291128 | [291128-ys-x-nordics-crimson-knight-set.json](./291128-ys-x-nordics-crimson-knight-set.json) |
+| Ys X: Nordics - Deck Decoration Set | 291122 | [291122-ys-x-nordics-deck-decoration-set.json](./291122-ys-x-nordics-deck-decoration-set.json) |
 | Ys X: Nordics - Deluxe Edition | 287579 | [287579-ys-x-nordics-deluxe-edition.json](./287579-ys-x-nordics-deluxe-edition.json) |
 | Ys X: Nordics - Digital Deluxe Edition | 324353 | [324353-ys-x-nordics-digital-deluxe-edition.json](./324353-ys-x-nordics-digital-deluxe-edition.json) |
 | Ys X: Nordics - Digital Ultimate Edition | 324352 | [324352-ys-x-nordics-digital-ultimate-edition.json](./324352-ys-x-nordics-digital-ultimate-edition.json) |
+| Ys X: Nordics - Endless Voyage | 291123 | [291123-ys-x-nordics-endless-voyage.json](./291123-ys-x-nordics-endless-voyage.json) |
+| Ys X: Nordics - Heroic Captain | 291124 | [291124-ys-x-nordics-heroic-captain.json](./291124-ys-x-nordics-heroic-captain.json) |
+| Ys X: Nordics - Ironclad Battleship Set | 291101 | [291101-ys-x-nordics-ironclad-battleship-set.json](./291101-ys-x-nordics-ironclad-battleship-set.json) |
+| Ys X: Nordics - Lasveli Hearts | 291127 | [291127-ys-x-nordics-lasveli-hearts.json](./291127-ys-x-nordics-lasveli-hearts.json) |
 | Ys X: Nordics - Legendary Cleria Armor | 324354 | [324354-ys-x-nordics-legendary-cleria-armor.json](./324354-ys-x-nordics-legendary-cleria-armor.json) |
 | Ys X: Nordics - Limited Edition | 261302 | [261302-ys-x-nordics-limited-edition.json](./261302-ys-x-nordics-limited-edition.json) |
+| Ys X: Nordics - Nosfleet Ship Set | 291100 | [291100-ys-x-nordics-nosfleet-ship-set.json](./291100-ys-x-nordics-nosfleet-ship-set.json) |
+| Ys X: Nordics - Ouch! Flag Set | 291119 | [291119-ys-x-nordics-ouch-flag-set.json](./291119-ys-x-nordics-ouch-flag-set.json) |
+| Ys X: Nordics - Ouch! Sail Set | 291120 | [291120-ys-x-nordics-ouch-sail-set.json](./291120-ys-x-nordics-ouch-sail-set.json) |
+| Ys X: Nordics - Pikkard Lover Set | 291129 | [291129-ys-x-nordics-pikkard-lover-set.json](./291129-ys-x-nordics-pikkard-lover-set.json) |
 | Ys X: Nordics - Raven Avatar | 324349 | [324349-ys-x-nordics-raven-avatar.json](./324349-ys-x-nordics-raven-avatar.json) |
+| Ys X: Nordics - Sail & Hull Color Set | 291121 | [291121-ys-x-nordics-sail-and-hull-color-set.json](./291121-ys-x-nordics-sail-and-hull-color-set.json) |
 | Ys X: Nordics - Sandras Pack | 324350 | [324350-ys-x-nordics-sandras-pack.json](./324350-ys-x-nordics-sandras-pack.json) |
 | Ys X: Nordics - Starter Pack | 324351 | [324351-ys-x-nordics-starter-pack.json](./324351-ys-x-nordics-starter-pack.json) |
+| Ys X: Nordics - Summer Adventure | 291126 | [291126-ys-x-nordics-summer-adventure.json](./291126-ys-x-nordics-summer-adventure.json) |
+| Ys X: Nordics - The Pikkard Set | 291099 | [291099-ys-x-nordics-the-pikkard-set.json](./291099-ys-x-nordics-the-pikkard-set.json) |
 | Ys X: Proud Nordics | 326507 | [326507-ys-x-proud-nordics.json](./326507-ys-x-proud-nordics.json) |
 | Ys X: Proud Nordics - Balduq Mascot Set | 393070 | [393070-ys-x-proud-nordics-balduq-mascot-set.json](./393070-ys-x-proud-nordics-balduq-mascot-set.json) |
 | Ys X: Proud Nordics - Costume Pack | 402141 | [402141-ys-x-proud-nordics-costume-pack.json](./402141-ys-x-proud-nordics-costume-pack.json) |
