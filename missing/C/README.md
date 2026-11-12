@@ -8370,6 +8370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Factory | 112995 | [112995-chocolate-factory.json](./112995-chocolate-factory.json) |
 | Chocolate Factory | 301790 | [301790-chocolate-factory.json](./301790-chocolate-factory.json) |
 | Chocolate Factory Simulator | 293131 | [293131-chocolate-factory-simulator.json](./293131-chocolate-factory-simulator.json) |
+| Chocolate Factory Tycoon | 301174 | [301174-chocolate-factory-tycoon.json](./301174-chocolate-factory-tycoon.json) |
 | Chocolate Kiss | 263115 | [263115-chocolate-kiss.json](./263115-chocolate-kiss.json) |
 | Chocolate makes you happy | 75785 | [75785-chocolate-makes-you-happy.json](./75785-chocolate-makes-you-happy.json) |
 | Chocolate makes you happy 3 | 84074 | [84074-chocolate-makes-you-happy-3.json](./84074-chocolate-makes-you-happy-3.json) |
@@ -12381,6 +12382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Shop Simulator | 217070 | [217070-coffee-shop-simulator.json](./217070-coffee-shop-simulator.json) |
 | Coffee Shop Simulator | 356970 | [356970-coffee-shop-simulator.json](./356970-coffee-shop-simulator.json) |
 | Coffee Shop Tycoon | 35274 | [35274-coffee-shop-tycoon.json](./35274-coffee-shop-tycoon.json) |
+| Coffee Simulator Tycoon | 301175 | [301175-coffee-simulator-tycoon.json](./301175-coffee-simulator-tycoon.json) |
 | Coffee Stack | 212506 | [212506-coffee-stack.json](./212506-coffee-stack.json) |
 | Coffee Talk 1+2 Double Pack Edition | 270576 | [270576-coffee-talk-1-2-double-pack-edition.json](./270576-coffee-talk-1-2-double-pack-edition.json) |
 | Coffee Talk: Episode 2 - Hibiscus & Butterfly | 186528 | [186528-coffee-talk-episode-2-hibiscus-and-butterfly.json](./186528-coffee-talk-episode-2-hibiscus-and-butterfly.json) |
@@ -15333,6 +15335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conway's Game of Life | 213117 | [213117-conways-game-of-life.json](./213117-conways-game-of-life.json) |
 | Conway's Game of Life | 77879 | [77879-conways-game-of-life.json](./77879-conways-game-of-life.json) |
 | CoogyLoop | 242567 | [242567-coogyloop.json](./242567-coogyloop.json) |
+| Cook 'Til Escape: Nyanzou & Kumakichi - Escape Game | 301178 | [301178-cook-til-escape-nyanzou-and-kumakichi-escape-game.json](./301178-cook-til-escape-nyanzou-and-kumakichi-escape-game.json) |
 | Cook and Play: Animal Friends | 366735 | [366735-cook-and-play-animal-friends.json](./366735-cook-and-play-animal-friends.json) |
 | Cook Baker Match | 175425 | [175425-cook-baker-match.json](./175425-cook-baker-match.json) |
 | Cook Dungeon | 127174 | [127174-cook-dungeon.json](./127174-cook-dungeon.json) |
@@ -15356,6 +15359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cook-Off Party | 50688 | [50688-cook-off-party.json](./50688-cook-off-party.json) |
 | Cook-Out: A Sandwich Tale | 138392 | [138392-cook-out-a-sandwich-tale.json](./138392-cook-out-a-sandwich-tale.json) |
 | Cook, Serve, Delicious, Trilogy! | 278655 | [278655-cook-serve-delicious-trilogy.json](./278655-cook-serve-delicious-trilogy.json) |
+| Cook, Serve, Delicious! 1/2 Bundle!! | 301202 | [301202-cook-serve-delicious-1-2-bundle.json](./301202-cook-serve-delicious-1-2-bundle.json) |
 | Cook, Serve, Delicious! 2!! | 23236 | [23236-cook-serve-delicious-2.json](./23236-cook-serve-delicious-2.json) |
 | Cook, Serve, Delicious! 3?! | 121500 | [121500-cook-serve-delicious-3.json](./121500-cook-serve-delicious-3.json) |
 | Cook'n'Slash | 244261 | [244261-cooknslash.json](./244261-cooknslash.json) |
@@ -15438,6 +15442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Arena Breakfast Bonanza | 316197 | [316197-cooking-arena-breakfast-bonanza.json](./316197-cooking-arena-breakfast-bonanza.json) |
 | Cooking Arena Culinary Legends | 385177 | [385177-cooking-arena-culinary-legends.json](./385177-cooking-arena-culinary-legends.json) |
 | Cooking Arena Doner Delight | 317896 | [317896-cooking-arena-doner-delight.json](./317896-cooking-arena-doner-delight.json) |
+| Cooking Arena Lets Burger | 301176 | [301176-cooking-arena-lets-burger.json](./301176-cooking-arena-lets-burger.json) |
 | Cooking Arena Pancake Paradise | 316198 | [316198-cooking-arena-pancake-paradise.json](./316198-cooking-arena-pancake-paradise.json) |
 | Cooking Arena Pastry Chef | 310462 | [310462-cooking-arena-pastry-chef.json](./310462-cooking-arena-pastry-chef.json) |
 | Cooking Arena Ultimate Feast | 381808 | [381808-cooking-arena-ultimate-feast.json](./381808-cooking-arena-ultimate-feast.json) |
