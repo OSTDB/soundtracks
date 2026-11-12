@@ -1798,6 +1798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wario vs. Windows | 256411 | [256411-wario-vs-windows.json](./256411-wario-vs-windows.json) |
 | Wario: Master of Disguise | 1701 | [1701-wario-master-of-disguise.json](./1701-wario-master-of-disguise.json) |
 | Wario: Master of Disguise Trivia | 231649 | [231649-wario-master-of-disguise-trivia.json](./231649-wario-master-of-disguise-trivia.json) |
+| Wario's Adventure | 267614 | [267614-warios-adventure.json](./267614-warios-adventure.json) |
 | Wario's Crazy Caps | 231550 | [231550-warios-crazy-caps.json](./231550-warios-crazy-caps.json) |
 | Wario's Dunk Tank | 231549 | [231549-warios-dunk-tank.json](./231549-warios-dunk-tank.json) |
 | Wario's Flashin' Fruit Punch Splash | 328660 | [328660-warios-flashin-fruit-punch-splash.json](./328660-warios-flashin-fruit-punch-splash.json) |
@@ -6484,6 +6485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Falling: Battle Tactics | 173251 | [173251-winter-falling-battle-tactics.json](./173251-winter-falling-battle-tactics.json) |
 | Winter Falling: Price of Life | 176352 | [176352-winter-falling-price-of-life.json](./176352-winter-falling-price-of-life.json) |
 | Winter Falling: Survival Strategy | 176591 | [176591-winter-falling-survival-strategy.json](./176591-winter-falling-survival-strategy.json) |
+| Winter Festive 2020: Advent CalenDoor | 267612 | [267612-winter-festive-2020-advent-calendoor.json](./267612-winter-festive-2020-advent-calendoor.json) |
 | Winter Fox | 177762 | [177762-winter-fox.json](./177762-winter-fox.json) |
 | Winter Fragments | 285045 | [285045-winter-fragments.json](./285045-winter-fragments.json) |
 | Winter Fruit Mania | 174962 | [174962-winter-fruit-mania.json](./174962-winter-fruit-mania.json) |
@@ -7053,6 +7055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With Friends Like These | 97947 | [97947-with-friends-like-these.json](./97947-with-friends-like-these.json) |
 | With Good Intentions | 197053 | [197053-with-good-intentions.json](./197053-with-good-intentions.json) |
 | With in the Obscurity | 287686 | [287686-with-in-the-obscurity.json](./287686-with-in-the-obscurity.json) |
+| With Last Breath | 267127 | [267127-with-last-breath.json](./267127-with-last-breath.json) |
 | With Locks of Love | 178581 | [178581-with-locks-of-love.json](./178581-with-locks-of-love.json) |
 | With Loneliness | 116932 | [116932-with-loneliness.json](./116932-with-loneliness.json) |
 | With Love Comes Regret | 298772 | [298772-with-love-comes-regret.json](./298772-with-love-comes-regret.json) |
@@ -7435,6 +7438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wo Long 2: Wings of Ember | 405070 | [405070-wo-long-2-wings-of-ember.json](./405070-wo-long-2-wings-of-ember.json) |
 | Wo Long: Fallen Dynasty - Battle of Zhongyuan | 251547 | [251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json](./251547-wo-long-fallen-dynasty-battle-of-zhongyuan.json) |
 | Wo Long: Fallen Dynasty - Complete Edition | 285776 | [285776-wo-long-fallen-dynasty-complete-edition.json](./285776-wo-long-fallen-dynasty-complete-edition.json) |
+| Wo Long: Fallen Dynasty - Conqueror of Jiangdong | 267601 | [267601-wo-long-fallen-dynasty-conqueror-of-jiangdong.json](./267601-wo-long-fallen-dynasty-conqueror-of-jiangdong.json) |
 | Wo Long: Fallen Dynasty - Steelbook Launch Edition | 225774 | [225774-wo-long-fallen-dynasty-steelbook-launch-edition.json](./225774-wo-long-fallen-dynasty-steelbook-launch-edition.json) |
 | Wo Long: Fallen Dynasty - Upheaval in Jingxiang | 280240 | [280240-wo-long-fallen-dynasty-upheaval-in-jingxiang.json](./280240-wo-long-fallen-dynasty-upheaval-in-jingxiang.json) |
 | Wǒ Shì Yuànzhǎng | 126166 | [126166-wo-shi-yuanzhang.json](./126166-wo-shi-yuanzhang.json) |
@@ -9322,6 +9326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Greatest Places Mosaics 3 | 415934 | [415934-worlds-greatest-places-mosaics-3.json](./415934-worlds-greatest-places-mosaics-3.json) |
 | World's Greatest Places Mosaics 4 | 415861 | [415861-worlds-greatest-places-mosaics-4.json](./415861-worlds-greatest-places-mosaics-4.json) |
 | World's Greatest Temples 2 | 415932 | [415932-worlds-greatest-temples-2.json](./415932-worlds-greatest-temples-2.json) |
+| World's Hardest Hack | 267611 | [267611-worlds-hardest-hack.json](./267611-worlds-hardest-hack.json) |
 | World's Largest Pac-Man | 175992 | [175992-worlds-largest-pac-man.json](./175992-worlds-largest-pac-man.json) |
 | World's Nicht | 120054 | [120054-worlds-nicht.json](./120054-worlds-nicht.json) |
 | World's Scariest Police Chases | 45093 | [45093-worlds-scariest-police-chases.json](./45093-worlds-scariest-police-chases.json) |
