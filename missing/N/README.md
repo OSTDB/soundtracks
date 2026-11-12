@@ -7740,6 +7740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novi Cube | 216973 | [216973-novi-cube.json](./216973-novi-cube.json) |
 | Novice Dungeon Master | 295100 | [295100-novice-dungeon-master.json](./295100-novice-dungeon-master.json) |
 | Novice in the World | 364115 | [364115-novice-in-the-world.json](./364115-novice-in-the-world.json) |
+| Novis | 275196 | [275196-novis.json](./275196-novis.json) |
 | Novivors | 301984 | [301984-novivors.json](./301984-novivors.json) |
 | Novopangea | 277671 | [277671-novopangea.json](./277671-novopangea.json) |
 | Novovu | 130879 | [130879-novovu.json](./130879-novovu.json) |
