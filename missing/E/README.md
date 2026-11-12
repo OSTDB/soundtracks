@@ -3667,6 +3667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmptyEpsilon | 97604 | [97604-emptyepsilon.json](./97604-emptyepsilon.json) |
 | Empulse | 402471 | [402471-empulse.json](./402471-empulse.json) |
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
+| Empyre: Earls of the Deep Earth | 289529 | [289529-empyre-earls-of-the-deep-earth.json](./289529-empyre-earls-of-the-deep-earth.json) |
 | Empyreal | 324588 | [324588-empyreal.json](./324588-empyreal.json) |
 | Empyreal Dawn | 224311 | [224311-empyreal-dawn.json](./224311-empyreal-dawn.json) |
 | Empyrean | 30464 | [30464-empyrean.json](./30464-empyrean.json) |
@@ -4196,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Wave | 75068 | [75068-endless-wave.json](./75068-endless-wave.json) |
 | Endless Waves Survival | 201369 | [201369-endless-waves-survival.json](./201369-endless-waves-survival.json) |
 | Endless Winter | 36970 | [36970-endless-winter.json](./36970-endless-winter.json) |
+| Endless Wonder VR | 289534 | [289534-endless-wonder-vr.json](./289534-endless-wonder-vr.json) |
 | Endless World | 106312 | [106312-endless-world.json](./106312-endless-world.json) |
 | Endless World: Ice and Fire Mercenary Pack | 168466 | [168466-endless-world-ice-and-fire-mercenary-pack.json](./168466-endless-world-ice-and-fire-mercenary-pack.json) |
 | Endless Zombie Tower | 151172 | [151172-endless-zombie-tower.json](./151172-endless-zombie-tower.json) |
@@ -8478,6 +8480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoterra: A Space Journey | 383102 | [383102-exoterra-a-space-journey.json](./383102-exoterra-a-space-journey.json) |
 | Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
 | Exotic Cars VI | 159463 | [159463-exotic-cars-vi.json](./159463-exotic-cars-vi.json) |
+| Exotic Fighter | 289515 | [289515-exotic-fighter.json](./289515-exotic-fighter.json) |
 | Exotic Kosmos | 258971 | [258971-exotic-kosmos.json](./258971-exotic-kosmos.json) |
 | Exotic Match | 212526 | [212526-exotic-match.json](./212526-exotic-match.json) |
 | Exotic Matter | 75107 | [75107-exotic-matter.json](./75107-exotic-matter.json) |
