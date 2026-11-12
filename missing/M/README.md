@@ -5354,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masked Forces 2: Mystic Demons | 55523 | [55523-masked-forces-2-mystic-demons.json](./55523-masked-forces-2-mystic-demons.json) |
 | Masked Forces 3 | 103600 | [103600-masked-forces-3.json](./103600-masked-forces-3.json) |
 | Masked Forces: Zombie Survival | 41909 | [41909-masked-forces-zombie-survival.json](./41909-masked-forces-zombie-survival.json) |
+| Masked io | 288932 | [288932-masked-io.json](./288932-masked-io.json) |
 | Masked Ninja Action | 164702 | [164702-masked-ninja-action.json](./164702-masked-ninja-action.json) |
 | Masked Shooters | 36519 | [36519-masked-shooters.json](./36519-masked-shooters.json) |
 | Masked Shooters 2 | 33746 | [33746-masked-shooters-2.json](./33746-masked-shooters-2.json) |
@@ -18003,6 +18004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonfell: The Tides of Aether | 349388 | [349388-moonfell-the-tides-of-aether.json](./349388-moonfell-the-tides-of-aether.json) |
 | MoonFire: A Seeker's Saga | 210960 | [210960-moonfire-a-seekers-saga.json](./210960-moonfire-a-seekers-saga.json) |
 | Moonflower | 224580 | [224580-moonflower.json](./224580-moonflower.json) |
+| Moonflower: Fae's Rest Epilogue | 288970 | [288970-moonflower-faes-rest-epilogue.json](./288970-moonflower-faes-rest-epilogue.json) |
 | Moonfrost | 319876 | [319876-moonfrost.json](./319876-moonfrost.json) |
 | Moongrave | 370889 | [370889-moongrave.json](./370889-moongrave.json) |
 | MoonHack | 408042 | [408042-moonhack.json](./408042-moonhack.json) |
@@ -19934,6 +19936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MPPP: Multidimensional Paper Plane Project | 348472 | [348472-mppp-multidimensional-paper-plane-project.json](./348472-mppp-multidimensional-paper-plane-project.json) |
 | MPUZ | 322896 | [322896-mpuz.json](./322896-mpuz.json) |
 | MR 333 | 192568 | [192568-mr-333.json](./192568-mr-333.json) |
+| MR 333 II: Planetbirth | 288971 | [288971-mr-333-ii-planetbirth.json](./288971-mr-333-ii-planetbirth.json) |
 | Mr Anchry's Day of Twilight | 132076 | [132076-mr-anchrys-day-of-twilight.json](./132076-mr-anchrys-day-of-twilight.json) |
 | Mr Anchry's Divine Intervention | 124271 | [124271-mr-anchrys-divine-intervention.json](./124271-mr-anchrys-divine-intervention.json) |
 | Mr Autofire | 142112 | [142112-mr-autofire.json](./142112-mr-autofire.json) |
