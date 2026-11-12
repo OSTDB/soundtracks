@@ -2566,6 +2566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vine Runners | 185514 | [185514-vine-runners.json](./185514-vine-runners.json) |
 | Vine Time | 317424 | [317424-vine-time.json](./317424-vine-time.json) |
 | Vine Worlds | 165259 | [165259-vine-worlds.json](./165259-vine-worlds.json) |
+| Vinebound: Tangled Together | 258744 | [258744-vinebound-tangled-together.json](./258744-vinebound-tangled-together.json) |
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
 | Vinegar Mutter | 386237 | [386237-vinegar-mutter.json](./386237-vinegar-mutter.json) |
 | Vinemon: Sauce Edition | 201897 | [201897-vinemon-sauce-edition.json](./201897-vinemon-sauce-edition.json) |
