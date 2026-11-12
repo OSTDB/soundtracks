@@ -2489,6 +2489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Farty: The Trivia Game | 142838 | [142838-save-farty-the-trivia-game.json](./142838-save-farty-the-trivia-game.json) |
 | Save Finn | 233401 | [233401-save-finn.json](./233401-save-finn.json) |
 | Save from Bobr Curve | 291679 | [291679-save-from-bobr-curve.json](./291679-save-from-bobr-curve.json) |
+| Save Giant Girl from Monsters | 293801 | [293801-save-giant-girl-from-monsters.json](./293801-save-giant-girl-from-monsters.json) |
 | Save Giant Girl From Monsters 2 | 291798 | [291798-save-giant-girl-from-monsters-2.json](./291798-save-giant-girl-from-monsters-2.json) |
 | Save Giant Girl From Monsters 3 | 291799 | [291799-save-giant-girl-from-monsters-3.json](./291799-save-giant-girl-from-monsters-3.json) |
 | Save Giant Girl From Monsters 4 | 291890 | [291890-save-giant-girl-from-monsters-4.json](./291890-save-giant-girl-from-monsters-4.json) |
@@ -4355,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Lies: Tide of Treachery | 103130 | [103130-sea-of-lies-tide-of-treachery.json](./103130-sea-of-lies-tide-of-treachery.json) |
 | Sea of Lies: Tide of Treachery - Collector's Edition | 102942 | [102942-sea-of-lies-tide-of-treachery-collectors-edition.json](./102942-sea-of-lies-tide-of-treachery-collectors-edition.json) |
 | Sea of Memories | 102381 | [102381-sea-of-memories.json](./102381-sea-of-memories.json) |
+| Sea Of Minds | 293825 | [293825-sea-of-minds.json](./293825-sea-of-minds.json) |
 | Sea of Mirrors | 384308 | [384308-sea-of-mirrors.json](./384308-sea-of-mirrors.json) |
 | Sea of ​Mutation | 309688 | [309688-sea-of-mutation.json](./309688-sea-of-mutation.json) |
 | Sea of Phantom Flowers | 284289 | [284289-sea-of-phantom-flowers.json](./284289-sea-of-phantom-flowers.json) |
@@ -4559,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Bones | 387338 | [387338-search-all-bones.json](./387338-search-all-bones.json) |
 | Search All: Buds | 219613 | [219613-search-all-buds.json](./219613-search-all-buds.json) |
 | Search All: Cactuses | 192374 | [192374-search-all-cactuses.json](./192374-search-all-cactuses.json) |
+| Search All: Candles | 293816 | [293816-search-all-candles.json](./293816-search-all-candles.json) |
 | Search All: Candy | 181056 | [181056-search-all-candy.json](./181056-search-all-candy.json) |
 | Search All: Cats | 191005 | [191005-search-all-cats.json](./191005-search-all-cats.json) |
 | Search All: Christmas | 186676 | [186676-search-all-christmas.json](./186676-search-all-christmas.json) |
@@ -4954,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Weapons of the Luftwaffe | 204 | [204-secret-weapons-of-the-luftwaffe.json](./204-secret-weapons-of-the-luftwaffe.json) |
 | Secret Weapons Over Normandy | 203 | [203-secret-weapons-over-normandy.json](./203-secret-weapons-over-normandy.json) |
 | Secret with Sophia | 286874 | [286874-secret-with-sophia.json](./286874-secret-with-sophia.json) |
+| Secret with Sophia: Lite Version | 293813 | [293813-secret-with-sophia-lite-version.json](./293813-secret-with-sophia-lite-version.json) |
 | Secret Wives' Club | 80592 | [80592-secret-wives-club.json](./80592-secret-wives-club.json) |
 | Secret Word Gardens | 416175 | [416175-secret-word-gardens.json](./416175-secret-word-gardens.json) |
 | Secret World Legends | 28008 | [28008-secret-world-legends.json](./28008-secret-world-legends.json) |
@@ -6748,6 +6752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Lesson | 368086 | [368086-sex-lesson.json](./368086-sex-lesson.json) |
 | Sex Life | 77694 | [77694-sex-life.json](./77694-sex-life.json) |
 | Sex Magic | 295320 | [295320-sex-magic.json](./295320-sex-magic.json) |
+| Sex Maids | 293807 | [293807-sex-maids.json](./293807-sex-maids.json) |
 | Sex Massage | 276822 | [276822-sex-massage.json](./276822-sex-massage.json) |
 | Sex Massage 2 | 311579 | [311579-sex-massage-2.json](./311579-sex-massage-2.json) |
 | Sex Milfs | 276966 | [276966-sex-milfs.json](./276966-sex-milfs.json) |
@@ -12548,6 +12553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sister Splash | 205999 | [205999-sister-splash.json](./205999-sister-splash.json) |
 | Sister Square's Escape | 101098 | [101098-sister-squares-escape.json](./101098-sister-squares-escape.json) |
 | Sister Travel | 111718 | [111718-sister-travel.json](./111718-sister-travel.json) |
+| Sister's Curriculum | 293815 | [293815-sisters-curriculum.json](./293815-sisters-curriculum.json) |
 | Sister's Dream | 202330 | [202330-sisters-dream.json](./202330-sisters-dream.json) |
 | Sister's Little Helper | 326660 | [326660-sisters-little-helper.json](./326660-sisters-little-helper.json) |
 | SisterFight | 125667 | [125667-sisterfight.json](./125667-sisterfight.json) |
@@ -20420,12 +20426,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | South Park: Snow Day! - Bigger, Longer & Uncut Anniversary Pack | 316256 | [316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json](./316256-south-park-snow-day-bigger-longer-and-uncut-anniversary-pack.json) |
 | South Park: Snow Day! - Chaos Pack | 327315 | [327315-south-park-snow-day-chaos-pack.json](./327315-south-park-snow-day-chaos-pack.json) |
 | South Park: Snow Day! - Collector's Edition | 282050 | [282050-south-park-snow-day-collectors-edition.json](./282050-south-park-snow-day-collectors-edition.json) |
+| South Park: Snow Day! - Cred Pack | 293790 | [293790-south-park-snow-day-cred-pack.json](./293790-south-park-snow-day-cred-pack.json) |
+| South Park: Snow Day! - Digital Deluxe | 293794 | [293794-south-park-snow-day-digital-deluxe.json](./293794-south-park-snow-day-digital-deluxe.json) |
 | South Park: Snow Day! - Good Times with Weapons Pack | 324393 | [324393-south-park-snow-day-good-times-with-weapons-pack.json](./324393-south-park-snow-day-good-times-with-weapons-pack.json) |
 | South Park: Snow Day! - Hammer | 324489 | [324489-south-park-snow-day-hammer.json](./324489-south-park-snow-day-hammer.json) |
 | South Park: Snow Day! - Nichole's Home Brew | 324478 | [324478-south-park-snow-day-nicholes-home-brew.json](./324478-south-park-snow-day-nicholes-home-brew.json) |
 | South Park: Snow Day! - Nonconformist Weapon Variation Pack | 316257 | [316257-south-park-snow-day-nonconformist-weapon-variation-pack.json](./316257-south-park-snow-day-nonconformist-weapon-variation-pack.json) |
+| South Park: Snow Day! - Season Pass | 293789 | [293789-south-park-snow-day-season-pass.json](./293789-south-park-snow-day-season-pass.json) |
 | South Park: Snow Day! - Snowball | 300918 | [300918-south-park-snow-day-snowball.json](./300918-south-park-snow-day-snowball.json) |
+| South Park: Snow Day! - To Danse with Ravenous Shadows | 293793 | [293793-south-park-snow-day-to-danse-with-ravenous-shadows.json](./293793-south-park-snow-day-to-danse-with-ravenous-shadows.json) |
 | South Park: Snow Day! - To Danse with the Veiled Horde | 316258 | [316258-south-park-snow-day-to-danse-with-the-veiled-horde.json](./316258-south-park-snow-day-to-danse-with-the-veiled-horde.json) |
+| South Park: Snow Day! - Underpants Gnome Cosmetics Pack | 293792 | [293792-south-park-snow-day-underpants-gnome-cosmetics-pack.json](./293792-south-park-snow-day-underpants-gnome-cosmetics-pack.json) |
 | South Park: Tenorman's Revenge | 1261 | [1261-south-park-tenormans-revenge.json](./1261-south-park-tenormans-revenge.json) |
 | South Park: The Fractured But Whole - Amazon Steel Book Edition | 2026 | [2026-south-park-the-fractured-but-whole-amazon-steel-book-edition.json](./2026-south-park-the-fractured-but-whole-amazon-steel-book-edition.json) |
 | South Park: The Fractured But Whole - Bring the Crunch | 105422 | [105422-south-park-the-fractured-but-whole-bring-the-crunch.json](./105422-south-park-the-fractured-but-whole-bring-the-crunch.json) |
@@ -28358,6 +28369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Mole | 398909 | [398909-stellar-mole.json](./398909-stellar-mole.json) |
 | Stellar Monarch | 26493 | [26493-stellar-monarch.json](./26493-stellar-monarch.json) |
 | Stellar Monarch 2 | 192179 | [192179-stellar-monarch-2.json](./192179-stellar-monarch-2.json) |
+| Stellar Monarch 2: Old Dynasties | 293829 | [293829-stellar-monarch-2-old-dynasties.json](./293829-stellar-monarch-2-old-dynasties.json) |
 | Stellar Monarch: The Age of Technology | 171028 | [171028-stellar-monarch-the-age-of-technology.json](./171028-stellar-monarch-the-age-of-technology.json) |
 | Stellar Nexus | 209943 | [209943-stellar-nexus.json](./209943-stellar-nexus.json) |
 | Stellar Nursery | 413597 | [413597-stellar-nursery.json](./413597-stellar-nursery.json) |
@@ -33852,6 +33864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kittens | 138489 | [138489-super-kittens.json](./138489-super-kittens.json) |
 | Super Kitty Tales | 180774 | [180774-super-kitty-tales.json](./180774-super-kitty-tales.json) |
 | Super Kiwi 64: Doomsday | 284145 | [284145-super-kiwi-64-doomsday.json](./284145-super-kiwi-64-doomsday.json) |
+| Super Knight World | 293882 | [293882-super-knight-world.json](./293882-super-knight-world.json) |
 | Super Knockoff Versus | 82507 | [82507-super-knockoff-versus.json](./82507-super-knockoff-versus.json) |
 | Super Knockoff! VS | 81131 | [81131-super-knockoff-vs.json](./81131-super-knockoff-vs.json) |
 | Super Knockout | 311001 | [311001-super-knockout.json](./311001-super-knockout.json) |
@@ -38474,6 +38487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symbio | 346012 | [346012-symbio.json](./346012-symbio.json) |
 | Symbiocom | 8417 | [8417-symbiocom.json](./8417-symbiocom.json) |
 | Symbiogenesis | 302964 | [302964-symbiogenesis.json](./302964-symbiogenesis.json) |
+| SymbioPhobia | 293884 | [293884-symbiophobia.json](./293884-symbiophobia.json) |
 | Symbiosis | 203684 | [203684-symbiosis.json](./203684-symbiosis.json) |
 | Symbiosis | 302916 | [302916-symbiosis.json](./302916-symbiosis.json) |
 | Symbiosis | 326843 | [326843-symbiosis.json](./326843-symbiosis.json) |
