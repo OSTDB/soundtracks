@@ -3306,15 +3306,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RealFlight Evolution | 225210 | [225210-realflight-evolution.json](./225210-realflight-evolution.json) |
 | RealFlight Evolution: 2024 Year Content Pass | 297729 | [297729-realflight-evolution-2024-year-content-pass.json](./297729-realflight-evolution-2024-year-content-pass.json) |
 | RealFlight Evolution: Blade Eclipse 360 | 311080 | [311080-realflight-evolution-blade-eclipse-360.json](./311080-realflight-evolution-blade-eclipse-360.json) |
+| RealFlight Evolution: Cirrus Vision SF50 | 275763 | [275763-realflight-evolution-cirrus-vision-sf50.json](./275763-realflight-evolution-cirrus-vision-sf50.json) |
 | RealFlight Evolution: E-flite Air Tractor 1.5m | 291115 | [291115-realflight-evolution-e-flite-air-tractor-1-5m.json](./291115-realflight-evolution-e-flite-air-tractor-1-5m.json) |
 | RealFlight Evolution: E-flite Beechcraft D18 1.5m | 356713 | [356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json](./356713-realflight-evolution-e-flite-beechcraft-d18-1-5m.json) |
+| RealFlight Evolution: E-flite Carbon-Z Cub SS 2.1m | 275770 | [275770-realflight-evolution-e-flite-carbon-z-cub-ss-2-1m.json](./275770-realflight-evolution-e-flite-carbon-z-cub-ss-2-1m.json) |
 | RealFlight Evolution: E-flite Cherokee 1.3m | 311081 | [311081-realflight-evolution-e-flite-cherokee-1-3m.json](./311081-realflight-evolution-e-flite-cherokee-1-3m.json) |
 | RealFlight Evolution: E-flite Commander mPd 1.4m | 291114 | [291114-realflight-evolution-e-flite-commander-mpd-1-4m.json](./291114-realflight-evolution-e-flite-commander-mpd-1-4m.json) |
+| RealFlight Evolution: E-flite EC-1500 Twin 1.5m | 275767 | [275767-realflight-evolution-e-flite-ec-1500-twin-1-5m.json](./275767-realflight-evolution-e-flite-ec-1500-twin-1-5m.json) |
 | RealFlight Evolution: E-flite Turbo Timber SWS 2.0m | 311083 | [311083-realflight-evolution-e-flite-turbo-timber-sws-2-0m.json](./311083-realflight-evolution-e-flite-turbo-timber-sws-2-0m.json) |
 | RealFlight Evolution: E-flite UMX Conscendo | 311084 | [311084-realflight-evolution-e-flite-umx-conscendo.json](./311084-realflight-evolution-e-flite-umx-conscendo.json) |
 | RealFlight Evolution: E-flite UMX Waco | 291113 | [291113-realflight-evolution-e-flite-umx-waco.json](./291113-realflight-evolution-e-flite-umx-waco.json) |
 | RealFlight Evolution: E-flite Valiant 1.3m | 291112 | [291112-realflight-evolution-e-flite-valiant-1-3m.json](./291112-realflight-evolution-e-flite-valiant-1-3m.json) |
 | RealFlight Evolution: Tower Hobbies ASW-28 | 291111 | [291111-realflight-evolution-tower-hobbies-asw-28.json](./291111-realflight-evolution-tower-hobbies-asw-28.json) |
+| RealFlight Evolution: Triple Tree 3D Flight Line | 275765 | [275765-realflight-evolution-triple-tree-3d-flight-line.json](./275765-realflight-evolution-triple-tree-3d-flight-line.json) |
 | RealFlight Evolution: Triple Tree Float Flight Line | 311082 | [311082-realflight-evolution-triple-tree-float-flight-line.json](./311082-realflight-evolution-triple-tree-float-flight-line.json) |
 | RealFlight Evolution: ViperJet | 291110 | [291110-realflight-evolution-viperjet.json](./291110-realflight-evolution-viperjet.json) |
 | RealFlight RF8 | 112570 | [112570-realflight-rf8.json](./112570-realflight-rf8.json) |
@@ -4742,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refighter | 347988 | [347988-refighter.json](./347988-refighter.json) |
 | Refill your Roguelike | 113523 | [113523-refill-your-roguelike.json](./113523-refill-your-roguelike.json) |
 | Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
+| Refined Storage | 275796 | [275796-refined-storage.json](./275796-refined-storage.json) |
 | Refinery | 225633 | [225633-refinery.json](./225633-refinery.json) |
 | Refinery Complex | 259398 | [259398-refinery-complex.json](./259398-refinery-complex.json) |
 | Refixion | 242739 | [242739-refixion.json](./242739-refixion.json) |
