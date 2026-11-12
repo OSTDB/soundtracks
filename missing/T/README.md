@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangled Words | 374157 | [374157-tangled-words.json](./374157-tangled-words.json) |
 | Tangledeep: Dawn of Dragons | 154499 | [154499-tangledeep-dawn-of-dragons.json](./154499-tangledeep-dawn-of-dragons.json) |
 | Tangledeep: Legend of Shara | 117143 | [117143-tangledeep-legend-of-shara.json](./117143-tangledeep-legend-of-shara.json) |
+| Tangles | 274708 | [274708-tangles.json](./274708-tangles.json) |
 | Tangles 2 | 392539 | [392539-tangles-2.json](./392539-tangles-2.json) |
 | Tanglewood | 104602 | [104602-tanglewood.json](./104602-tanglewood.json) |
 | Tango | 321121 | [321121-tango.json](./321121-tango.json) |
@@ -4496,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacle Prawn: (Actually) A Cthulhu Dating Sim - The Myth & Legend of Marauder Shields | 267065 | [267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json](./267065-tentacle-prawn-actually-a-cthulhu-dating-sim-the-myth-and-legend-of-marauder-shields.json) |
 | Tentacle Slave: Saori | 97790 | [97790-tentacle-slave-saori.json](./97790-tentacle-slave-saori.json) |
 | Tentacle Tango | 328118 | [328118-tentacle-tango.json](./328118-tentacle-tango.json) |
+| Tentacle Temptation | 274695 | [274695-tentacle-temptation.json](./274695-tentacle-temptation.json) |
 | Tentacle Typer | 152090 | [152090-tentacle-typer.json](./152090-tentacle-typer.json) |
 | Tentacle Wars | 365194 | [365194-tentacle-wars.json](./365194-tentacle-wars.json) |
 | Tentacles | 179543 | [179543-tentacles.json](./179543-tentacles.json) |
@@ -16487,6 +16489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raintime | 121396 | [121396-the-raintime.json](./121396-the-raintime.json) |
 | The Rainy Night | 373693 | [373693-the-rainy-night.json](./373693-the-rainy-night.json) |
 | The Rainy Port Keelung | 35758 | [35758-the-rainy-port-keelung.json](./35758-the-rainy-port-keelung.json) |
+| The Rake | 274634 | [274634-the-rake.json](./274634-the-rake.json) |
 | The Rake | 80256 | [80256-the-rake.json](./80256-the-rake.json) |
 | The Rake Sees You | 402713 | [402713-the-rake-sees-you.json](./402713-the-rake-sees-you.json) |
 | The Rake: Back To Asylum | 342135 | [342135-the-rake-back-to-asylum.json](./342135-the-rake-back-to-asylum.json) |
@@ -25846,6 +25849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To The Rescue!: Deluxe Edition | 240054 | [240054-to-the-rescue-deluxe-edition.json](./240054-to-the-rescue-deluxe-edition.json) |
 | To The Sea : The Courier | 128166 | [128166-to-the-sea-the-courier.json](./128166-to-the-sea-the-courier.json) |
 | To the Snowland | 167372 | [167372-to-the-snowland.json](./167372-to-the-snowland.json) |
+| To The Star | 274621 | [274621-to-the-star.json](./274621-to-the-star.json) |
 | To the Stars | 211235 | [211235-to-the-stars.json](./211235-to-the-stars.json) |
 | To the Stars | 336917 | [336917-to-the-stars.json](./336917-to-the-stars.json) |
 | To the Stars and Beyond! | 117572 | [117572-to-the-stars-and-beyond.json](./117572-to-the-stars-and-beyond.json) |
@@ -32504,6 +32508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Island | 142389 | [142389-treasure-island.json](./142389-treasure-island.json) |
 | Treasure Island | 194283 | [194283-treasure-island.json](./194283-treasure-island.json) |
 | Treasure Island | 25782 | [25782-treasure-island.json](./25782-treasure-island.json) |
+| Treasure Island | 274715 | [274715-treasure-island.json](./274715-treasure-island.json) |
 | Treasure Island | 282746 | [282746-treasure-island.json](./282746-treasure-island.json) |
 | Treasure Island | 364791 | [364791-treasure-island.json](./364791-treasure-island.json) |
 | Treasure Island | 44397 | [44397-treasure-island.json](./44397-treasure-island.json) |
