@@ -85,6 +85,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Habbo Hotel: Origins | 306033 | [306033-habbo-hotel-origins.json](./306033-habbo-hotel-origins.json) |
 | HaberDashers | 155907 | [155907-haberdashers.json](./155907-haberdashers.json) |
 | Habilis | 313898 | [313898-habilis.json](./313898-habilis.json) |
+| Habitants | 302868 | [302868-habitants.json](./302868-habitants.json) |
 | Habitat | 10387 | [10387-habitat.json](./10387-habitat.json) |
 | Habitat | 173361 | [173361-habitat.json](./173361-habitat.json) |
 | Habitat | 181243 | [181243-habitat.json](./181243-habitat.json) |
@@ -4550,6 +4551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's On Hold | 300544 | [300544-hells-on-hold.json](./300544-hells-on-hold.json) |
 | Hell's Revenge 3D | 149348 | [149348-hells-revenge-3d.json](./149348-hells-revenge-3d.json) |
 | Hell's Scream | 290532 | [290532-hells-scream.json](./290532-hells-scream.json) |
+| Hell's Underground | 302864 | [302864-hells-underground.json](./302864-hells-underground.json) |
 | Hell`s Little Story 2 | 109757 | [109757-hell-s-little-story-2.json](./109757-hell-s-little-story-2.json) |
 | Hella Dazzling Hell!! | 156856 | [156856-hella-dazzling-hell.json](./156856-hella-dazzling-hell.json) |
 | Hellanoid: Archer vs Dragons | 75303 | [75303-hellanoid-archer-vs-dragons.json](./75303-hellanoid-archer-vs-dragons.json) |
@@ -6748,6 +6750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic | 383981 | [383981-heroic.json](./383981-heroic.json) |
 | Heroic Adventures | 155701 | [155701-heroic-adventures.json](./155701-heroic-adventures.json) |
 | Heroic Armored Company | 159771 | [159771-heroic-armored-company.json](./159771-heroic-armored-company.json) |
+| Heroic Assault | 302870 | [302870-heroic-assault.json](./302870-heroic-assault.json) |
 | Heroic Battle | 89178 | [89178-heroic-battle.json](./89178-heroic-battle.json) |
 | Heroic City | 235776 | [235776-heroic-city.json](./235776-heroic-city.json) |
 | Heroic Defender GoFalcon | 363913 | [363913-heroic-defender-gofalcon.json](./363913-heroic-defender-gofalcon.json) |
@@ -7342,6 +7345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Animals Find : Detective Neko | 289343 | [289343-hidden-animals-find-detective-neko.json](./289343-hidden-animals-find-detective-neko.json) |
 | Hidden Animals: English - Spanish | 28068 | [28068-hidden-animals-english-spanish.json](./28068-hidden-animals-english-spanish.json) |
 | Hidden Anime Girls | 369666 | [369666-hidden-anime-girls.json](./369666-hidden-anime-girls.json) |
+| Hidden Arcade | 302830 | [302830-hidden-arcade.json](./302830-hidden-arcade.json) |
 | Hidden Around the World | 380976 | [380976-hidden-around-the-world.json](./380976-hidden-around-the-world.json) |
 | Hidden Art: Twilight in The Museum | 294435 | [294435-hidden-art-twilight-in-the-museum.json](./294435-hidden-art-twilight-in-the-museum.json) |
 | Hidden Bananas | 348683 | [348683-hidden-bananas.json](./348683-hidden-bananas.json) |
@@ -12567,6 +12571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Humans vs. Monsters | 303561 | [303561-humans-vs-monsters.json](./303561-humans-vs-monsters.json) |
 | Humans vs. Tigers | 195413 | [195413-humans-vs-tigers.json](./195413-humans-vs-tigers.json) |
 | Humans vs. Vampires | 199060 | [199060-humans-vs-vampires.json](./199060-humans-vs-vampires.json) |
+| Humay | 302866 | [302866-humay.json](./302866-humay.json) |
 | Humble Abode | 43185 | [43185-humble-abode.json](./43185-humble-abode.json) |
 | Humble Haunted House | 376267 | [376267-humble-haunted-house.json](./376267-humble-haunted-house.json) |
 | Humble Pie | 96873 | [96873-humble-pie.json](./96873-humble-pie.json) |
