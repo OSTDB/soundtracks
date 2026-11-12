@@ -3805,6 +3805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramble Mania | 401447 | [401447-scramble-mania.json](./401447-scramble-mania.json) |
 | Scramble of the Far East | 364555 | [364555-scramble-of-the-far-east.json](./364555-scramble-of-the-far-east.json) |
 | Scramble Spirits | 12847 | [12847-scramble-spirits.json](./12847-scramble-spirits.json) |
+| Scramble Star Crossing | 259882 | [259882-scramble-star-crossing.json](./259882-scramble-star-crossing.json) |
 | Scramble Up! | 324316 | [324316-scramble-up.json](./324316-scramble-up.json) |
 | Scramble With Friends | 65345 | [65345-scramble-with-friends.json](./65345-scramble-with-friends.json) |
 | Scramble: Battle of Britain | 147188 | [147188-scramble-battle-of-britain.json](./147188-scramble-battle-of-britain.json) |
@@ -13297,6 +13298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinny Norris | 271357 | [271357-skinny-norris.json](./271357-skinny-norris.json) |
 | Skins Game | 91433 | [91433-skins-game.json](./91433-skins-game.json) |
 | Skinscape | 102358 | [102358-skinscape.json](./102358-skinscape.json) |
+| Skinship | 259791 | [259791-skinship.json](./259791-skinship.json) |
 | Skinwalker | 374525 | [374525-skinwalker.json](./374525-skinwalker.json) |
 | Skinwalker | 60934 | [60934-skinwalker.json](./60934-skinwalker.json) |
 | Skinwalker Hunt | 130126 | [130126-skinwalker-hunt.json](./130126-skinwalker-hunt.json) |
@@ -14666,6 +14668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliding Puzzle Ocean | 108730 | [108730-sliding-puzzle-ocean.json](./108730-sliding-puzzle-ocean.json) |
 | Sliding Puzzle Space | 106551 | [106551-sliding-puzzle-space.json](./106551-sliding-puzzle-space.json) |
 | Sliding Puzzles | 270388 | [270388-sliding-puzzles.json](./270388-sliding-puzzles.json) |
+| Sliding Rails | 259794 | [259794-sliding-rails.json](./259794-sliding-rails.json) |
 | Sliding Seas | 174584 | [174584-sliding-seas.json](./174584-sliding-seas.json) |
 | Sliding Swords | 240600 | [240600-sliding-swords.json](./240600-sliding-swords.json) |
 | Sliding Tiles | 314222 | [314222-sliding-tiles.json](./314222-sliding-tiles.json) |
@@ -16759,6 +16762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow War | 211160 | [211160-snow-war.json](./211160-snow-war.json) |
 | Snow War | 214934 | [214934-snow-war.json](./214934-snow-war.json) |
 | Snow Wars | 150785 | [150785-snow-wars.json](./150785-snow-wars.json) |
+| Snow Wars | 259808 | [259808-snow-wars.json](./259808-snow-wars.json) |
 | Snow Wars VR | 253168 | [253168-snow-wars-vr.json](./253168-snow-wars-vr.json) |
 | Snow Wave | 91551 | [91551-snow-wave.json](./91551-snow-wave.json) |
 | Snow Wave 2 | 401717 | [401717-snow-wave-2.json](./401717-snow-wave-2.json) |
@@ -30577,6 +30581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Outlaws 2: Winner Takes All - Digital Deluxe Edition | 173797 | [173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json](./173797-street-outlaws-2-winner-takes-all-digital-deluxe-edition.json) |
 | Street Outlaws 2: Winner Takes All - Lizzy Musi Bundle | 223825 | [223825-street-outlaws-2-winner-takes-all-lizzy-musi-bundle.json](./223825-street-outlaws-2-winner-takes-all-lizzy-musi-bundle.json) |
 | Street Outlaws 2: Winner Takes All - Ryan Martin Bundle | 226709 | [226709-street-outlaws-2-winner-takes-all-ryan-martin-bundle.json](./226709-street-outlaws-2-winner-takes-all-ryan-martin-bundle.json) |
+| Street Outlaws 2: Winner Takes All - Skull Noir Bundle | 259809 | [259809-street-outlaws-2-winner-takes-all-skull-noir-bundle.json](./259809-street-outlaws-2-winner-takes-all-skull-noir-bundle.json) |
 | Street Outlaws 2: Winner Takes All - Steel Thunder Bundle | 226699 | [226699-street-outlaws-2-winner-takes-all-steel-thunder-bundle.json](./226699-street-outlaws-2-winner-takes-all-steel-thunder-bundle.json) |
 | Street Outlaws 2: Winner Takes All - The 70s Bundle | 225945 | [225945-street-outlaws-2-winner-takes-all-the-70s-bundle.json](./225945-street-outlaws-2-winner-takes-all-the-70s-bundle.json) |
 | Street Outlaws: The List | 122442 | [122442-street-outlaws-the-list.json](./122442-street-outlaws-the-list.json) |
@@ -31399,6 +31404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submachine 10: The Exit | 129555 | [129555-submachine-10-the-exit.json](./129555-submachine-10-the-exit.json) |
 | Submachine 10: The Exit | 260768 | [260768-submachine-10-the-exit.json](./260768-submachine-10-the-exit.json) |
 | Submachine 2: The Lighthouse | 129547 | [129547-submachine-2-the-lighthouse.json](./129547-submachine-2-the-lighthouse.json) |
+| Submachine 2: The Lighthouse | 259880 | [259880-submachine-2-the-lighthouse.json](./259880-submachine-2-the-lighthouse.json) |
 | Submachine 3: the Loop | 259928 | [259928-submachine-3-the-loop.json](./259928-submachine-3-the-loop.json) |
 | Submachine 3: The Loop | 129548 | [129548-submachine-3-the-loop.json](./129548-submachine-3-the-loop.json) |
 | Submachine 4: The Lab | 129549 | [129549-submachine-4-the-lab.json](./129549-submachine-4-the-lab.json) |
