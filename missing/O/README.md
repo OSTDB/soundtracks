@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: Add-on MAN Standardbus II | 286141 | [286141-omsi-2-add-on-man-standardbus-ii.json](./286141-omsi-2-add-on-man-standardbus-ii.json) |
 | OMSI 2: Add-on Zürich Tram Linie 11 | 306070 | [306070-omsi-2-add-on-zurich-tram-linie-11.json](./306070-omsi-2-add-on-zurich-tram-linie-11.json) |
 | OMSI 2: Agora Bus Family Citybus Vol. 1 | 266153 | [266153-omsi-2-agora-bus-family-citybus-vol-1.json](./266153-omsi-2-agora-bus-family-citybus-vol-1.json) |
+| OMSI 2: Agora Bus Family Citybus Vol. 2 | 274619 | [274619-omsi-2-agora-bus-family-citybus-vol-2.json](./274619-omsi-2-agora-bus-family-citybus-vol-2.json) |
 | OMSI 2: Bad Hügelsdorf 2020 | 155130 | [155130-omsi-2-bad-hugelsdorf-2020.json](./155130-omsi-2-bad-hugelsdorf-2020.json) |
 | OMSI 2: Beijing | 193184 | [193184-omsi-2-beijing.json](./193184-omsi-2-beijing.json) |
 | OMSI 2: Berlin BRT | 155146 | [155146-omsi-2-berlin-brt.json](./155146-omsi-2-berlin-brt.json) |
