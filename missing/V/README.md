@@ -519,6 +519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Tune: Synthesis of Souls | 381755 | [381755-valkyrie-tune-synthesis-of-souls.json](./381755-valkyrie-tune-synthesis-of-souls.json) |
 | Valkyrie: Dawn of Ragnarok | 230946 | [230946-valkyrie-dawn-of-ragnarok.json](./230946-valkyrie-dawn-of-ragnarok.json) |
 | Valkyrie: Journey to Midgard | 165671 | [165671-valkyrie-journey-to-midgard.json](./165671-valkyrie-journey-to-midgard.json) |
+| Valkyrie: The Magical Odyssey | 300590 | [300590-valkyrie-the-magical-odyssey.json](./300590-valkyrie-the-magical-odyssey.json) |
 | Valkyrius | 9434 | [9434-valkyrius.json](./9434-valkyrius.json) |
 | Valkyrius Prime | 32340 | [32340-valkyrius-prime.json](./32340-valkyrius-prime.json) |
 | Valla | 394379 | [394379-valla.json](./394379-valla.json) |
