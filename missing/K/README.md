@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaii Force: Liberty Line | 397876 | [397876-kawaii-force-liberty-line.json](./397876-kawaii-force-liberty-line.json) |
 | Kawaii Girl | 202194 | [202194-kawaii-girl.json](./202194-kawaii-girl.json) |
 | Kawaii Girl 2 | 170627 | [170627-kawaii-girl-2.json](./170627-kawaii-girl-2.json) |
+| Kawaii Girls | 284523 | [284523-kawaii-girls.json](./284523-kawaii-girls.json) |
 | Kawaii Girls | 334088 | [334088-kawaii-girls.json](./334088-kawaii-girls.json) |
 | Kawaii Girls | 335317 | [335317-kawaii-girls.json](./335317-kawaii-girls.json) |
 | Kawaii Girls Puzzle | 187073 | [187073-kawaii-girls-puzzle.json](./187073-kawaii-girls-puzzle.json) |
@@ -3023,6 +3024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3964,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinkshamed | 105181 | [105181-kinkshamed.json](./105181-kinkshamed.json) |
 | Kinky Cats | 367359 | [367359-kinky-cats.json](./367359-kinky-cats.json) |
 | Kinky Cosplay Heroes | 275727 | [275727-kinky-cosplay-heroes.json](./275727-kinky-cosplay-heroes.json) |
+| Kinky Fight Club | 284525 | [284525-kinky-fight-club.json](./284525-kinky-fight-club.json) |
 | Kinky Fight Club 2 | 267000 | [267000-kinky-fight-club-2.json](./267000-kinky-fight-club-2.json) |
 | Kinlings | 261602 | [261602-kinlings.json](./261602-kinlings.json) |
 | Kinniku Banzuke GB 3: Shinseiki Survival Retsuden! | 281657 | [281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json](./281657-kinniku-banzuke-gb-3-shinseiki-survival-retsuden.json) |
