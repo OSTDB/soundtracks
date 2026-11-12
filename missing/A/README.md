@@ -10532,6 +10532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels with Scaly Wings | 27068 | [27068-angels-with-scaly-wings.json](./27068-angels-with-scaly-wings.json) |
 | AngelShooter | 99466 | [99466-angelshooter.json](./99466-angelshooter.json) |
 | AngelStrike | 249904 | [249904-angelstrike.json](./249904-angelstrike.json) |
+| Angelstruck | 264927 | [264927-angelstruck.json](./264927-angelstruck.json) |
 | Angelus 2: Holy Night | 130536 | [130536-angelus-2-holy-night.json](./130536-angelus-2-holy-night.json) |
 | Angelus Brand VR Experience | 111267 | [111267-angelus-brand-vr-experience.json](./111267-angelus-brand-vr-experience.json) |
 | Angelus: Akuma no Fukuin | 130535 | [130535-angelus-akuma-no-fukuin.json](./130535-angelus-akuma-no-fukuin.json) |
@@ -12288,6 +12289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anvilium | 365976 | [365976-anvilium.json](./365976-anvilium.json) |
 | Anvillage | 207793 | [207793-anvillage.json](./207793-anvillage.json) |
 | Anvira: Forge Defense | 391441 | [391441-anvira-forge-defense.json](./391441-anvira-forge-defense.json) |
+| Anx Defense | 264918 | [264918-anx-defense.json](./264918-anx-defense.json) |
 | AnXiens | 174642 | [174642-anxiens.json](./174642-anxiens.json) |
 | Anxieties | 335699 | [335699-anxieties.json](./335699-anxieties.json) |
 | Anxiety | 263257 | [263257-anxiety.json](./263257-anxiety.json) |
@@ -16096,6 +16098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendance | 258241 | [258241-ascendance.json](./258241-ascendance.json) |
 | Ascendance Fighters | 318000 | [318000-ascendance-fighters.json](./318000-ascendance-fighters.json) |
 | Ascendance Unbound | 380841 | [380841-ascendance-unbound.json](./380841-ascendance-unbound.json) |
+| Ascendant | 264917 | [264917-ascendant.json](./264917-ascendant.json) |
 | Ascendant | 9222 | [9222-ascendant.json](./9222-ascendant.json) |
 | Ascendant Dawn | 310276 | [310276-ascendant-dawn.json](./310276-ascendant-dawn.json) |
 | Ascendant Hearts | 75760 | [75760-ascendant-hearts.json](./75760-ascendant-hearts.json) |
