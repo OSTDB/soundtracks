@@ -10852,6 +10852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
 | Plumber Pickle | 392742 | [392742-plumber-pickle.json](./392742-plumber-pickle.json) |
 | Plumber Pipe Connect | 96824 | [96824-plumber-pipe-connect.json](./96824-plumber-pipe-connect.json) |
+| Plumber Pipe Out | 301164 | [301164-plumber-pipe-out.json](./301164-plumber-pipe-out.json) |
 | Plumber Puzzles | 180965 | [180965-plumber-puzzles.json](./180965-plumber-puzzles.json) |
 | Plumber Survivors | 292472 | [292472-plumber-survivors.json](./292472-plumber-survivors.json) |
 | Plumber Waluigi | 323352 | [323352-plumber-waluigi.json](./323352-plumber-waluigi.json) |
@@ -15561,6 +15562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Dating Sim | 225216 | [225216-princess-dating-sim.json](./225216-princess-dating-sim.json) |
 | Princess Debut | 21225 | [21225-princess-debut.json](./21225-princess-debut.json) |
 | Princess Defender: Episode 1 | 195326 | [195326-princess-defender-episode-1.json](./195326-princess-defender-episode-1.json) |
+| Princess Doll Dress Up Games | 301199 | [301199-princess-doll-dress-up-games.json](./301199-princess-doll-dress-up-games.json) |
 | Princess Drawing! | 206504 | [206504-princess-drawing.json](./206504-princess-drawing.json) |
 | Princess Dress Up | 305586 | [305586-princess-dress-up.json](./305586-princess-dress-up.json) |
 | Princess Dress Up Collection Fives Games in One | 400180 | [400180-princess-dress-up-collection-fives-games-in-one.json](./400180-princess-dress-up-collection-fives-games-in-one.json) |
