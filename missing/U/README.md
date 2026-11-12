@@ -1237,7 +1237,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku | 139987 | [139987-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku.json](./139987-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku.json) |
 | Umineko no Naku Koro ni Saku: Nekobako to Musou no Koukyoukyoku - Limited Edition | 140001 | [140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json](./140001-umineko-no-naku-koro-ni-saku-nekobako-to-musou-no-koukyoukyoku-limited-edition.json) |
 | Umineko no Naku Koro ni Tsubasa | 125996 | [125996-umineko-no-naku-koro-ni-tsubasa.json](./125996-umineko-no-naku-koro-ni-tsubasa.json) |
+| Umineko no Naku Koro ni: Arigato for 556 | 272511 | [272511-umineko-no-naku-koro-ni-arigato-for-556.json](./272511-umineko-no-naku-koro-ni-arigato-for-556.json) |
 | Umineko no Naku Koro ni: Aru Ryourinin no Zakki | 272533 | [272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json](./272533-umineko-no-naku-koro-ni-aru-ryourinin-no-zakki.json) |
+| Umineko no Naku Koro ni: Aru Witch Hunter no Shuzai Tape | 272510 | [272510-umineko-no-naku-koro-ni-aru-witch-hunter-no-shuzai-tape.json](./272510-umineko-no-naku-koro-ni-aru-witch-hunter-no-shuzai-tape.json) |
+| Umineko no Naku Koro ni: Beatrice no White Day | 272513 | [272513-umineko-no-naku-koro-ni-beatrice-no-white-day.json](./272513-umineko-no-naku-koro-ni-beatrice-no-white-day.json) |
+| Umineko no Naku Koro ni: Bern no Tegami | 272530 | [272530-umineko-no-naku-koro-ni-bern-no-tegami.json](./272530-umineko-no-naku-koro-ni-bern-no-tegami.json) |
 | Umineko no Naku Koro ni: Dare no Ochakai? | 272540 | [272540-umineko-no-naku-koro-ni-dare-no-ochakai.json](./272540-umineko-no-naku-koro-ni-dare-no-ochakai.json) |
 | Umineko no Naku Koro ni: Episode 1 - Legend of the Golden Witch | 272080 | [272080-umineko-no-naku-koro-ni-episode-1-legend-of-the-golden-witch.json](./272080-umineko-no-naku-koro-ni-episode-1-legend-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni: Episode 1 - Legend of the Golden Witch | 79847 | [79847-umineko-no-naku-koro-ni-episode-1-legend-of-the-golden-witch.json](./79847-umineko-no-naku-koro-ni-episode-1-legend-of-the-golden-witch.json) |
@@ -1251,11 +1255,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko no Naku Koro ni: Episode 6 - Dawn of the Golden Witch | 272086 | [272086-umineko-no-naku-koro-ni-episode-6-dawn-of-the-golden-witch.json](./272086-umineko-no-naku-koro-ni-episode-6-dawn-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni: Episode 7 - Requiem of the Golden Witch | 272087 | [272087-umineko-no-naku-koro-ni-episode-7-requiem-of-the-golden-witch.json](./272087-umineko-no-naku-koro-ni-episode-7-requiem-of-the-golden-witch.json) |
 | Umineko no Naku Koro ni: Episode 8 - Twilight of the Golden Witch | 272096 | [272096-umineko-no-naku-koro-ni-episode-8-twilight-of-the-golden-witch.json](./272096-umineko-no-naku-koro-ni-episode-8-twilight-of-the-golden-witch.json) |
+| Umineko no Naku Koro ni: Game Master Battler! | 272518 | [272518-umineko-no-naku-koro-ni-game-master-battler.json](./272518-umineko-no-naku-koro-ni-game-master-battler.json) |
+| Umineko no Naku Koro ni: Gisho no.XXX | 272517 | [272517-umineko-no-naku-koro-ni-gisho-no-xxx.json](./272517-umineko-no-naku-koro-ni-gisho-no-xxx.json) |
+| Umineko no Naku Koro ni: Jessica no Haha no Hi Present | 272525 | [272525-umineko-no-naku-koro-ni-jessica-no-haha-no-hi-present.json](./272525-umineko-no-naku-koro-ni-jessica-no-haha-no-hi-present.json) |
+| Umineko no Naku Koro ni: Jessica to Koi no Omajinai | 272524 | [272524-umineko-no-naku-koro-ni-jessica-to-koi-no-omajinai.json](./272524-umineko-no-naku-koro-ni-jessica-to-koi-no-omajinai.json) |
+| Umineko no Naku Koro ni: Jessica to Satsujin Senpuuki | 272522 | [272522-umineko-no-naku-koro-ni-jessica-to-satsujin-senpuuki.json](./272522-umineko-no-naku-koro-ni-jessica-to-satsujin-senpuuki.json) |
+| Umineko no Naku Koro ni: Kinrou Kansha no Hi no Okurimono | 272526 | [272526-umineko-no-naku-koro-ni-kinrou-kansha-no-hi-no-okurimono.json](./272526-umineko-no-naku-koro-ni-kinrou-kansha-no-hi-no-okurimono.json) |
+| Umineko no Naku Koro ni: Last Note of the Golden Witch | 272528 | [272528-umineko-no-naku-koro-ni-last-note-of-the-golden-witch.json](./272528-umineko-no-naku-koro-ni-last-note-of-the-golden-witch.json) |
+| Umineko no Naku Koro ni: Mahou ni Tsuite no Juuyou Jikou | 272521 | [272521-umineko-no-naku-koro-ni-mahou-ni-tsuite-no-juuyou-jikou.json](./272521-umineko-no-naku-koro-ni-mahou-ni-tsuite-no-juuyou-jikou.json) |
 | Umineko no Naku Koro ni: Majo to Suiri no Rinbukyoku | 65754 | [65754-umineko-no-naku-koro-ni-majo-to-suiri-no-rinbukyoku.json](./65754-umineko-no-naku-koro-ni-majo-to-suiri-no-rinbukyoku.json) |
 | Umineko no Naku Koro ni: Majo-tachi no Tanabata ha Amakunai | 272542 | [272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json](./272542-umineko-no-naku-koro-ni-majo-tachi-no-tanabata-ha-amakunai.json) |
 | Umineko no Naku Koro ni: Memoirs of the ΛΔ | 272532 | [272532-umineko-no-naku-koro-ni-memoirs-of-the.json](./272532-umineko-no-naku-koro-ni-memoirs-of-the.json) |
 | Umineko no Naku Koro ni: Nana Shimai no Valentine | 272538 | [272538-umineko-no-naku-koro-ni-nana-shimai-no-valentine.json](./272538-umineko-no-naku-koro-ni-nana-shimai-no-valentine.json) |
 | Umineko no Naku Koro ni: Sakutaro, Rengoku-san he | 272536 | [272536-umineko-no-naku-koro-ni-sakutaro-rengoku-san-he.json](./272536-umineko-no-naku-koro-ni-sakutaro-rengoku-san-he.json) |
+| Umineko no Naku Koro ni: Shinjin Shisai Cornelia | 272514 | [272514-umineko-no-naku-koro-ni-shinjin-shisai-cornelia.json](./272514-umineko-no-naku-koro-ni-shinjin-shisai-cornelia.json) |
+| Umineko no Naku Koro ni: Shoukanshi Kara no Tegami | 272529 | [272529-umineko-no-naku-koro-ni-shoukanshi-kara-no-tegami.json](./272529-umineko-no-naku-koro-ni-shoukanshi-kara-no-tegami.json) |
 | Umineko no Naku Koro ni: Tenshi 17-sai Higashi-shi - 44a | 272537 | [272537-umineko-no-naku-koro-ni-tenshi-17-sai-higashi-shi-44a.json](./272537-umineko-no-naku-koro-ni-tenshi-17-sai-higashi-shi-44a.json) |
 | Umineko no Naku Koro ni: Valentine Paper | 272539 | [272539-umineko-no-naku-koro-ni-valentine-paper.json](./272539-umineko-no-naku-koro-ni-valentine-paper.json) |
 | Umineko no Naku Koro ni: Warera no Kokuhaku | 272534 | [272534-umineko-no-naku-koro-ni-warera-no-kokuhaku.json](./272534-umineko-no-naku-koro-ni-warera-no-kokuhaku.json) |
