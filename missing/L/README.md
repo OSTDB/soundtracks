@@ -1722,6 +1722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Window: The Secret of Cape West | 22958 | [22958-last-window-the-secret-of-cape-west.json](./22958-last-window-the-secret-of-cape-west.json) |
 | Last Wings | 26365 | [26365-last-wings.json](./26365-last-wings.json) |
 | Last Wish | 111074 | [111074-last-wish.json](./111074-last-wish.json) |
+| Last Wish | 259194 | [259194-last-wish.json](./259194-last-wish.json) |
 | Last Wood | 104562 | [104562-last-wood.json](./104562-last-wood.json) |
 | Last Word | 26639 | [26639-last-word.json](./26639-last-word.json) |
 | Last Word | 342169 | [342169-last-word.json](./342169-last-word.json) |
