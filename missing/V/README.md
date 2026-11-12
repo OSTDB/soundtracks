@@ -905,6 +905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanity: Suit Skin | 380205 | [380205-vanity-suit-skin.json](./380205-vanity-suit-skin.json) |
 | Vanity: Unlock All Characters | 380207 | [380207-vanity-unlock-all-characters.json](./380207-vanity-unlock-all-characters.json) |
 | Vanity: Weapon Pack | 321949 | [321949-vanity-weapon-pack.json](./321949-vanity-weapon-pack.json) |
+| Vanlen Poison Forest | 308670 | [308670-vanlen-poison-forest.json](./308670-vanlen-poison-forest.json) |
 | Vanlife Camping Simulator | 297834 | [297834-vanlife-camping-simulator.json](./297834-vanlife-camping-simulator.json) |
 | Vanova's Stories | 258793 | [258793-vanovas-stories.json](./258793-vanovas-stories.json) |
 | Vanquish | 220716 | [220716-vanquish.json](./220716-vanquish.json) |
