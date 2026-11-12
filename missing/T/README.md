@@ -4625,6 +4625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Defense | 97092 | [97092-terminal-defense.json](./97092-terminal-defense.json) |
 | Terminal Descent | 371742 | [371742-terminal-descent.json](./371742-terminal-descent.json) |
 | Terminal Earth | 153215 | [153215-terminal-earth.json](./153215-terminal-earth.json) |
+| Terminal Error | 260359 | [260359-terminal-error.json](./260359-terminal-error.json) |
 | Terminal ESC | 298462 | [298462-terminal-esc.json](./298462-terminal-esc.json) |
 | Terminal Escape | 383740 | [383740-terminal-escape.json](./383740-terminal-escape.json) |
 | Terminal Hacker | 178955 | [178955-terminal-hacker.json](./178955-terminal-hacker.json) |
@@ -5168,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tether Brawl | 266583 | [266583-tether-brawl.json](./266583-tether-brawl.json) |
 | Tethered | 25336 | [25336-tethered.json](./25336-tethered.json) |
 | Tethered: Deluxe Edition | 53715 | [53715-tethered-deluxe-edition.json](./53715-tethered-deluxe-edition.json) |
+| TetherGeist | 260343 | [260343-tethergeist.json](./260343-tethergeist.json) |
 | Tetherlure | 262143 | [262143-tetherlure.json](./262143-tetherlure.json) |
 | Tethernum | 60407 | [60407-tethernum.json](./60407-tethernum.json) |
 | Tetjis | 361756 | [361756-tetjis.json](./361756-tetjis.json) |
@@ -7208,6 +7210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Distance | 161568 | [161568-the-book-of-distance.json](./161568-the-book-of-distance.json) |
 | The Book of Fredley | 223216 | [223216-the-book-of-fredley.json](./223216-the-book-of-fredley.json) |
 | The Book of Good | 288724 | [288724-the-book-of-good.json](./288724-the-book-of-good.json) |
+| The Book Of Hiro | 260360 | [260360-the-book-of-hiro.json](./260360-the-book-of-hiro.json) |
 | The Book of Living Magic | 350149 | [350149-the-book-of-living-magic.json](./350149-the-book-of-living-magic.json) |
 | The Book of Lulu | 281295 | [281295-the-book-of-lulu.json](./281295-the-book-of-lulu.json) |
 | The Book of Outcasts | 397697 | [397697-the-book-of-outcasts.json](./397697-the-book-of-outcasts.json) |
@@ -13246,6 +13249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Weekend | 31890 | [31890-the-last-weekend.json](./31890-the-last-weekend.json) |
 | The Last Werewolf | 235177 | [235177-the-last-werewolf.json](./235177-the-last-werewolf.json) |
 | The Last Will | 172938 | [172938-the-last-will.json](./172938-the-last-will.json) |
+| The Last Windmill | 260353 | [260353-the-last-windmill.json](./260353-the-last-windmill.json) |
 | The Last Winter | 207576 | [207576-the-last-winter.json](./207576-the-last-winter.json) |
 | The Last Winter Knight | 283532 | [283532-the-last-winter-knight.json](./283532-the-last-winter-knight.json) |
 | The Last Wish | 241847 | [241847-the-last-wish.json](./241847-the-last-wish.json) |
@@ -15767,6 +15771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Owl House: Witch's Apprentice | 297588 | [297588-the-owl-house-witchs-apprentice.json](./297588-the-owl-house-witchs-apprentice.json) |
 | The Owl Quest | 155870 | [155870-the-owl-quest.json](./155870-the-owl-quest.json) |
 | The Owl-Woman Oracle | 177929 | [177929-the-owl-woman-oracle.json](./177929-the-owl-woman-oracle.json) |
+| The Owl, the Thief and the Strawberries | 260364 | [260364-the-owl-the-thief-and-the-strawberries.json](./260364-the-owl-the-thief-and-the-strawberries.json) |
 | The Owlman of Mawnan Smith | 61084 | [61084-the-owlman-of-mawnan-smith.json](./61084-the-owlman-of-mawnan-smith.json) |
 | The Pac-Man Brothers | 321930 | [321930-the-pac-man-brothers.json](./321930-the-pac-man-brothers.json) |
 | The Pacifist's Great and Final Nightmare | 169629 | [169629-the-pacifists-great-and-final-nightmare.json](./169629-the-pacifists-great-and-final-nightmare.json) |
@@ -17479,6 +17484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Several Journeys of Reemus Chapter 4: The Beastly Blackhole of Bureaucracy | 404876 | [404876-the-several-journeys-of-reemus-chapter-4-the-beastly-blackhole-of-bureaucracy.json](./404876-the-several-journeys-of-reemus-chapter-4-the-beastly-blackhole-of-bureaucracy.json) |
 | The Several Journeys of Reemus Prologue: Lair of the Ant Queen | 341822 | [341822-the-several-journeys-of-reemus-prologue-lair-of-the-ant-queen.json](./341822-the-several-journeys-of-reemus-prologue-lair-of-the-ant-queen.json) |
 | The Severed Gods | 370921 | [370921-the-severed-gods.json](./370921-the-severed-gods.json) |
+| The Severn Rising 2222 | 260436 | [260436-the-severn-rising-2222.json](./260436-the-severn-rising-2222.json) |
 | The Sewer Goblet: The Wu-Tang Clan and the Wu-Tang Baby | 93504 | [93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json](./93504-the-sewer-goblet-the-wu-tang-clan-and-the-wu-tang-baby.json) |
 | The Sewer Job | 240669 | [240669-the-sewer-job.json](./240669-the-sewer-job.json) |
 | The Sewers | 149797 | [149797-the-sewers.json](./149797-the-sewers.json) |
@@ -27517,6 +27523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top PUA | 247424 | [247424-top-pua.json](./247424-top-pua.json) |
 | Top Punch | 97203 | [97203-top-punch.json](./97203-top-punch.json) |
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
+| Top Racer Collection | 260431 | [260431-top-racer-collection.json](./260431-top-racer-collection.json) |
 | Top Racer Mini Arcade | 275279 | [275279-top-racer-mini-arcade.json](./275279-top-racer-mini-arcade.json) |
 | Top Racer: Crossroads | 262047 | [262047-top-racer-crossroads.json](./262047-top-racer-crossroads.json) |
 | Top Rank Tennis | 94186 | [94186-top-rank-tennis.json](./94186-top-rank-tennis.json) |
