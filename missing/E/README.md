@@ -5080,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EPS Series Vol. 4: Noise Reduction - Tomoa Yamamoto | 286555 | [286555-eps-series-vol-4-noise-reduction-tomoa-yamamoto.json](./286555-eps-series-vol-4-noise-reduction-tomoa-yamamoto.json) |
 | EPS Series Vol. 5: Believer Dreamer - Junko Mizutani | 286562 | [286562-eps-series-vol-5-believer-dreamer-junko-mizutani.json](./286562-eps-series-vol-5-believer-dreamer-junko-mizutani.json) |
 | Epsilon | 17391 | [17391-epsilon.json](./17391-epsilon.json) |
+| Epsilon | 276364 | [276364-epsilon.json](./276364-epsilon.json) |
 | Epsilon corp. | 33082 | [33082-epsilon-corp.json](./33082-epsilon-corp.json) |
 | Epsilon Eridana | 217301 | [217301-epsilon-eridana.json](./217301-epsilon-eridana.json) |
 | Epsilon Hyperpunk | 423888 | [423888-epsilon-hyperpunk.json](./423888-epsilon-hyperpunk.json) |
@@ -7659,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evhacon | 267961 | [267961-evhacon.json](./267961-evhacon.json) |
 | Evhacon 2 | 129607 | [129607-evhacon-2.json](./129607-evhacon-2.json) |
 | Eviction | 267800 | [267800-eviction.json](./267800-eviction.json) |
+| Eviction | 276365 | [276365-eviction.json](./276365-eviction.json) |
 | Evidence 111 | 232401 | [232401-evidence-111.json](./232401-evidence-111.json) |
 | Evidence Destroyer | 257758 | [257758-evidence-destroyer.json](./257758-evidence-destroyer.json) |
 | Evidence Destroyer | 301160 | [301160-evidence-destroyer.json](./301160-evidence-destroyer.json) |
@@ -9037,6 +9039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Beholder | 348172 | [348172-eye-of-the-beholder.json](./348172-eye-of-the-beholder.json) |
 | Eye of the Beholder | 5384 | [5384-eye-of-the-beholder.json](./5384-eye-of-the-beholder.json) |
 | Eye of the Beholder II: The Legend of Darkmoon | 12071 | [12071-eye-of-the-beholder-ii-the-legend-of-darkmoon.json](./12071-eye-of-the-beholder-ii-the-legend-of-darkmoon.json) |
+| Eye of the Blood | 276446 | [276446-eye-of-the-blood.json](./276446-eye-of-the-blood.json) |
 | Eye of the Commando | 314202 | [314202-eye-of-the-commando.json](./314202-eye-of-the-commando.json) |
 | Eye of the Erime | 365292 | [365292-eye-of-the-erime.json](./365292-eye-of-the-erime.json) |
 | Eye of the Gods | 41172 | [41172-eye-of-the-gods.json](./41172-eye-of-the-gods.json) |
