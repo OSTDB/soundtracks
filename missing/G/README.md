@@ -3085,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation Zero: Bikes | 234933 | [234933-generation-zero-bikes.json](./234933-generation-zero-bikes.json) |
 | Generation Zero: Blockbuster Vanity Pack | 226797 | [226797-generation-zero-blockbuster-vanity-pack.json](./226797-generation-zero-blockbuster-vanity-pack.json) |
 | Generation Zero: Camo Weapon Skins Pack | 234912 | [234912-generation-zero-camo-weapon-skins-pack.json](./234912-generation-zero-camo-weapon-skins-pack.json) |
+| Generation Zero: Companion Accessories Pack | 257064 | [257064-generation-zero-companion-accessories-pack.json](./257064-generation-zero-companion-accessories-pack.json) |
 | Generation Zero: Eastern European Weapons Pack | 234909 | [234909-generation-zero-eastern-european-weapons-pack.json](./234909-generation-zero-eastern-european-weapons-pack.json) |
 | Generation Zero: Essential DLC Bundle | 284862 | [284862-generation-zero-essential-dlc-bundle.json](./284862-generation-zero-essential-dlc-bundle.json) |
 | Generation Zero: Fnix Rising | 150087 | [150087-generation-zero-fnix-rising.json](./150087-generation-zero-fnix-rising.json) |
@@ -3343,10 +3344,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Day of the Flame's Return | 335597 | [335597-genshin-impact-day-of-the-flames-return.json](./335597-genshin-impact-day-of-the-flames-return.json) |
 | Genshin Impact: Duel! The Summoners' Summit! | 257480 | [257480-genshin-impact-duel-the-summoners-summit.json](./257480-genshin-impact-duel-the-summoners-summit.json) |
 | Genshin Impact: Everwinter Without Mercy | 411884 | [411884-genshin-impact-everwinter-without-mercy.json](./411884-genshin-impact-everwinter-without-mercy.json) |
+| Genshin Impact: Fleeting Colors in Flight | 257038 | [257038-genshin-impact-fleeting-colors-in-flight.json](./257038-genshin-impact-fleeting-colors-in-flight.json) |
+| Genshin Impact: Floating World Under the Moonlight | 257033 | [257033-genshin-impact-floating-world-under-the-moonlight.json](./257033-genshin-impact-floating-world-under-the-moonlight.json) |
 | Genshin Impact: Flowers Resplendent on the Sun-Scorched Sojourn | 310514 | [310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json](./310514-genshin-impact-flowers-resplendent-on-the-sun-scorched-sojourn.json) |
+| Genshin Impact: Hidden Dreams in the Depths | 257042 | [257042-genshin-impact-hidden-dreams-in-the-depths.json](./257042-genshin-impact-hidden-dreams-in-the-depths.json) |
 | Genshin Impact: Homeward, He Who Caught the Wind | 389652 | [389652-genshin-impact-homeward-he-who-caught-the-wind.json](./389652-genshin-impact-homeward-he-who-caught-the-wind.json) |
 | Genshin Impact: Hour of Ruin | 425451 | [425451-genshin-impact-hour-of-ruin.json](./425451-genshin-impact-hour-of-ruin.json) |
 | Genshin Impact: Incandescent Ode of Resurrection | 326604 | [326604-genshin-impact-incandescent-ode-of-resurrection.json](./326604-genshin-impact-incandescent-ode-of-resurrection.json) |
+| Genshin Impact: Into the Perilous Labyrinth of Fog | 257034 | [257034-genshin-impact-into-the-perilous-labyrinth-of-fog.json](./257034-genshin-impact-into-the-perilous-labyrinth-of-fog.json) |
 | Genshin Impact: Invitation of Windblume | 256969 | [256969-genshin-impact-invitation-of-windblume.json](./256969-genshin-impact-invitation-of-windblume.json) |
 | Genshin Impact: King Deshret and the Three Magi | 257451 | [257451-genshin-impact-king-deshret-and-the-three-magi.json](./257451-genshin-impact-king-deshret-and-the-three-magi.json) |
 | Genshin Impact: Masquerade of the Guilty | 273864 | [273864-genshin-impact-masquerade-of-the-guilty.json](./273864-genshin-impact-masquerade-of-the-guilty.json) |
@@ -3354,17 +3359,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genshin Impact: Moonlight Amidst Dreams | 328924 | [328924-genshin-impact-moonlight-amidst-dreams.json](./328924-genshin-impact-moonlight-amidst-dreams.json) |
 | Genshin Impact: Paralogism | 341808 | [341808-genshin-impact-paralogism.json](./341808-genshin-impact-paralogism.json) |
 | Genshin Impact: Secret Summer Paradise | 257481 | [257481-genshin-impact-secret-summer-paradise.json](./257481-genshin-impact-secret-summer-paradise.json) |
+| Genshin Impact: Shadows Amidst Snowstorms | 257035 | [257035-genshin-impact-shadows-amidst-snowstorms.json](./257035-genshin-impact-shadows-amidst-snowstorms.json) |
+| Genshin Impact: Summer Fantasia | 257043 | [257043-genshin-impact-summer-fantasia.json](./257043-genshin-impact-summer-fantasia.json) |
 | Genshin Impact: Summertide Scales and Tales | 308003 | [308003-genshin-impact-summertide-scales-and-tales.json](./308003-genshin-impact-summertide-scales-and-tales.json) |
 | Genshin Impact: Sunny Summer Fontinalia | 407188 | [407188-genshin-impact-sunny-summer-fontinalia.json](./407188-genshin-impact-sunny-summer-fontinalia.json) |
 | Genshin Impact: Sunspray Summer Resort | 355791 | [355791-genshin-impact-sunspray-summer-resort.json](./355791-genshin-impact-sunspray-summer-resort.json) |
 | Genshin Impact: Tapestry of Spirit and Flame | 321597 | [321597-genshin-impact-tapestry-of-spirit-and-flame.json](./321597-genshin-impact-tapestry-of-spirit-and-flame.json) |
 | Genshin Impact: The Chalk Prince and the Dragon | 256965 | [256965-genshin-impact-the-chalk-prince-and-the-dragon.json](./256965-genshin-impact-the-chalk-prince-and-the-dragon.json) |
 | Genshin Impact: The Exquisite Night Chimes | 257476 | [257476-genshin-impact-the-exquisite-night-chimes.json](./257476-genshin-impact-the-exquisite-night-chimes.json) |
+| Genshin Impact: The Immovable God and the Eternal Euthymia | 257027 | [257027-genshin-impact-the-immovable-god-and-the-eternal-euthymia.json](./257027-genshin-impact-the-immovable-god-and-the-eternal-euthymia.json) |
 | Genshin Impact: The Morn a Thousand Roses Brings | 257449 | [257449-genshin-impact-the-morn-a-thousand-roses-brings.json](./257449-genshin-impact-the-morn-a-thousand-roses-brings.json) |
 | Genshin Impact: To the Stars Shining in the Depths | 266492 | [266492-genshin-impact-to-the-stars-shining-in-the-depths.json](./266492-genshin-impact-to-the-stars-shining-in-the-depths.json) |
 | Genshin Impact: Truth Amongst the Pages of Purana | 400877 | [400877-genshin-impact-truth-amongst-the-pages-of-purana.json](./400877-genshin-impact-truth-amongst-the-pages-of-purana.json) |
 | Genshin Impact: Two Worlds Aflame, the Crimson Night Fades | 296820 | [296820-genshin-impact-two-worlds-aflame-the-crimson-night-fades.json](./296820-genshin-impact-two-worlds-aflame-the-crimson-night-fades.json) |
+| Genshin Impact: When the Sakura Bloom | 257040 | [257040-genshin-impact-when-the-sakura-bloom.json](./257040-genshin-impact-when-the-sakura-bloom.json) |
 | Genshin Impact: Windblume's Breath | 257478 | [257478-genshin-impact-windblumes-breath.json](./257478-genshin-impact-windblumes-breath.json) |
+| Genshin Impact: Zephyr of the Violet Garden | 257041 | [257041-genshin-impact-zephyr-of-the-violet-garden.json](./257041-genshin-impact-zephyr-of-the-violet-garden.json) |
 | Genshindle | 243769 | [243769-genshindle.json](./243769-genshindle.json) |
 | Gensmak! | 228047 | [228047-gensmak.json](./228047-gensmak.json) |
 | Gensmak! Food Fight! | 240554 | [240554-gensmak-food-fight.json](./240554-gensmak-food-fight.json) |
@@ -6010,6 +6020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go to Hell | 218538 | [218538-go-to-hell.json](./218538-go-to-hell.json) |
 | Go to Hell | 57540 | [57540-go-to-hell.json](./57540-go-to-hell.json) |
 | Go To Hell Must | 286320 | [286320-go-to-hell-must.json](./286320-go-to-hell-must.json) |
+| Go to Hell or Die Trying | 257026 | [257026-go-to-hell-or-die-trying.json](./257026-go-to-hell-or-die-trying.json) |
 | Go to It | 110944 | [110944-go-to-it.json](./110944-go-to-it.json) |
 | Go to Sleep | 351426 | [351426-go-to-sleep.json](./351426-go-to-sleep.json) |
 | Go To Sleep | 268651 | [268651-go-to-sleep.json](./268651-go-to-sleep.json) |
