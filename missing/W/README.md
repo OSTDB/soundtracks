@@ -2567,6 +2567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watcher | 83892 | [83892-watcher.json](./83892-watcher.json) |
 | Watcher Chronicles | 161547 | [161547-watcher-chronicles.json](./161547-watcher-chronicles.json) |
 | Watcher From the Void | 374796 | [374796-watcher-from-the-void.json](./374796-watcher-from-the-void.json) |
+| Watcher of Realms | 256475 | [256475-watcher-of-realms.json](./256475-watcher-of-realms.json) |
 | Watcher Of The Abyss | 274813 | [274813-watcher-of-the-abyss.json](./274813-watcher-of-the-abyss.json) |
 | Watchers | 121185 | [121185-watchers.json](./121185-watchers.json) |
 | Watchers of the Universe: I'm Outta Here! | 244404 | [244404-watchers-of-the-universe-im-outta-here.json](./244404-watchers-of-the-universe-im-outta-here.json) |
@@ -6195,6 +6196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windward Rush | 176560 | [176560-windward-rush.json](./176560-windward-rush.json) |
 | Windweaver | 368724 | [368724-windweaver.json](./368724-windweaver.json) |
 | WindWind | 187665 | [187665-windwind.json](./187665-windwind.json) |
+| WindWings: Space Shooter | 256512 | [256512-windwings-space-shooter.json](./256512-windwings-space-shooter.json) |
 | WindWord | 104641 | [104641-windword.json](./104641-windword.json) |
 | Windwoven | 374606 | [374606-windwoven.json](./374606-windwoven.json) |
 | Windy Creator | 327751 | [327751-windy-creator.json](./327751-windy-creator.json) |
@@ -7492,6 +7494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woe Reigns Unending | 397272 | [397272-woe-reigns-unending.json](./397272-woe-reigns-unending.json) |
 | Woebegone Woods | 149897 | [149897-woebegone-woods.json](./149897-woebegone-woods.json) |
 | Woeful Woebots | 37019 | [37019-woeful-woebots.json](./37019-woeful-woebots.json) |
+| Wogger | 256495 | [256495-wogger.json](./256495-wogger.json) |
 | Woim | 404431 | [404431-woim.json](./404431-woim.json) |
 | Wojak Rush | 232936 | [232936-wojak-rush.json](./232936-wojak-rush.json) |
 | Wojak This Game | 221633 | [221633-wojak-this-game.json](./221633-wojak-this-game.json) |
