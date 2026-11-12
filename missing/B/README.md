@@ -1029,7 +1029,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -16383,6 +16382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Sky | 168717 | [168717-break-sky.json](./168717-break-sky.json) |
 | Break Space: Out of Bounds | 158694 | [158694-break-space-out-of-bounds.json](./158694-break-space-out-of-bounds.json) |
 | Break Street | 25783 | [25783-break-street.json](./25783-break-street.json) |
+| Break Stuff VR | 251157 | [251157-break-stuff-vr.json](./251157-break-stuff-vr.json) |
 | Break Stuff With Coins | 97204 | [97204-break-stuff-with-coins.json](./97204-break-stuff-with-coins.json) |
 | Break Tactics | 85516 | [85516-break-tactics.json](./85516-break-tactics.json) |
 | Break the Balloons: Ghost Town | 252151 | [252151-break-the-balloons-ghost-town.json](./252151-break-the-balloons-ghost-town.json) |
@@ -17186,6 +17186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Britannica World's Best Solitaire | 206683 | [206683-britannica-worlds-best-solitaire.json](./206683-britannica-worlds-best-solitaire.json) |
 | Britebot | 178651 | [178651-britebot.json](./178651-britebot.json) |
 | British Gangsters | 127625 | [127625-british-gangsters.json](./127625-british-gangsters.json) |
+| British Horror Bundle | 251277 | [251277-british-horror-bundle.json](./251277-british-horror-bundle.json) |
 | British Lads Hit Each Other With Chairs: A Bitsy Retelling | 135772 | [135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json](./135772-british-lads-hit-each-other-with-chairs-a-bitsy-retelling.json) |
 | British Mario Vs. I.M. Meen | 327501 | [327501-british-mario-vs-i-m-meen.json](./327501-british-mario-vs-i-m-meen.json) |
 | British Super League | 13444 | [13444-british-super-league.json](./13444-british-super-league.json) |
@@ -18896,6 +18897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bum Ball Bears | 261003 | [261003-bum-ball-bears.json](./261003-bum-ball-bears.json) |
 | Bum Bum Koala | 397432 | [397432-bum-bum-koala.json](./397432-bum-bum-koala.json) |
 | Bum Bum Monsterz | 258511 | [258511-bum-bum-monsterz.json](./258511-bum-bum-monsterz.json) |
+| Bum Fights | 251158 | [251158-bum-fights.json](./251158-bum-fights.json) |
 | Bum Simulator VR | 201513 | [201513-bum-simulator-vr.json](./201513-bum-simulator-vr.json) |
 | Bum: Revenge | 348507 | [348507-bum-revenge.json](./348507-bum-revenge.json) |
 | Bumaga | 197122 | [197122-bumaga.json](./197122-bumaga.json) |
