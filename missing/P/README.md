@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Attack | 282487 | [282487-pac-attack.json](./282487-pac-attack.json) |
 | Pac-Attack | 49033 | [49033-pac-attack.json](./49033-pac-attack.json) |
 | Pac-Avoid | 62242 | [62242-pac-avoid.json](./62242-pac-avoid.json) |
+| Pac-Boy | 273529 | [273529-pac-boy.json](./273529-pac-boy.json) |
 | Pac-Boy & Mouse | 86097 | [86097-pac-boy-and-mouse.json](./86097-pac-boy-and-mouse.json) |
 | Pac-Chaves | 252904 | [252904-pac-chaves.json](./252904-pac-chaves.json) |
 | Pac-Chomp! | 62605 | [62605-pac-chomp.json](./62605-pac-chomp.json) |
@@ -795,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint it Doom | 308070 | [308070-paint-it-doom.json](./308070-paint-it-doom.json) |
 | Paint It: Christmas Edition | 278651 | [278651-paint-it-christmas-edition.json](./278651-paint-it-christmas-edition.json) |
 | Paint It: Christmas Pack | 278654 | [278654-paint-it-christmas-pack.json](./278654-paint-it-christmas-pack.json) |
+| Paint It: Spooky Edition | 273608 | [273608-paint-it-spooky-edition.json](./273608-paint-it-spooky-edition.json) |
 | Paint Match | 257190 | [257190-paint-match.json](./257190-paint-match.json) |
 | Paint Monsters | 266057 | [266057-paint-monsters.json](./266057-paint-monsters.json) |
 | Paint My Cat - Color and Play | 96045 | [96045-paint-my-cat-color-and-play.json](./96045-paint-my-cat-color-and-play.json) |
@@ -3218,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of the Warrior | 127351 | [127351-path-of-the-warrior.json](./127351-path-of-the-warrior.json) |
 | Path of the Zenith Master | 372016 | [372016-path-of-the-zenith-master.json](./372016-path-of-the-zenith-master.json) |
 | Path of Titans | 122927 | [122927-path-of-titans.json](./122927-path-of-titans.json) |
+| Path of Trials | 273074 | [273074-path-of-trials.json](./273074-path-of-trials.json) |
 | Path of Vidya | 154915 | [154915-path-of-vidya.json](./154915-path-of-vidya.json) |
 | Path of War | 31783 | [31783-path-of-war.json](./31783-path-of-war.json) |
 | Path of Wuxia | 138747 | [138747-path-of-wuxia.json](./138747-path-of-wuxia.json) |
@@ -14902,6 +14905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pray Your God! | 414739 | [414739-pray-your-god.json](./414739-pray-your-god.json) |
 | Prayer of the Faithless | 197012 | [197012-prayer-of-the-faithless.json](./197012-prayer-of-the-faithless.json) |
 | Prayers a Thousand-fold | 309976 | [309976-prayers-a-thousand-fold.json](./309976-prayers-a-thousand-fold.json) |
+| Prayers of Armageddon | 273539 | [273539-prayers-of-armageddon.json](./273539-prayers-of-armageddon.json) |
 | Prayr | 130044 | [130044-prayr.json](./130044-prayr.json) |
 | Pre Call | 183732 | [183732-pre-call.json](./183732-pre-call.json) |
 | Pre Dusk | 172987 | [172987-pre-dusk.json](./172987-pre-dusk.json) |
