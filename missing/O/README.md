@@ -2364,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Coin Museum | 398295 | [398295-one-coin-museum.json](./398295-one-coin-museum.json) |
 | One Creek: The House | 258853 | [258853-one-creek-the-house.json](./258853-one-creek-the-house.json) |
 | One Dark Night | 33065 | [33065-one-dark-night.json](./33065-one-dark-night.json) |
+| One Dash Star | 311908 | [311908-one-dash-star.json](./311908-one-dash-star.json) |
 | One Day | 127445 | [127445-one-day.json](./127445-one-day.json) |
 | One Day | 189325 | [189325-one-day.json](./189325-one-day.json) |
 | One Day : The Sun Disappeared | 32364 | [32364-one-day-the-sun-disappeared.json](./32364-one-day-the-sun-disappeared.json) |
