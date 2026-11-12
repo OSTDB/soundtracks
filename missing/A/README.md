@@ -317,6 +317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Detective's Demise | 219938 | [219938-a-detectives-demise.json](./219938-a-detectives-demise.json) |
 | A Detective's Novel | 27921 | [27921-a-detectives-novel.json](./27921-a-detectives-novel.json) |
 | A Devastated City | 377492 | [377492-a-devastated-city.json](./377492-a-devastated-city.json) |
+| A Developer Nightmare | 316445 | [316445-a-developer-nightmare.json](./316445-a-developer-nightmare.json) |
 | A Devilish Nightmare | 217850 | [217850-a-devilish-nightmare.json](./217850-a-devilish-nightmare.json) |
 | A Dialect for Two | 396271 | [396271-a-dialect-for-two.json](./396271-a-dialect-for-two.json) |
 | A Dialogue Within | 377493 | [377493-a-dialogue-within.json](./377493-a-dialogue-within.json) |
@@ -1973,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoned | 409889 | [409889-abandoned.json](./409889-abandoned.json) |
 | Abandoned Archive | 190083 | [190083-abandoned-archive.json](./190083-abandoned-archive.json) |
 | Abandoned Cabins in the Woods | 275375 | [275375-abandoned-cabins-in-the-woods.json](./275375-abandoned-cabins-in-the-woods.json) |
+| Abandoned City | 316439 | [316439-abandoned-city.json](./316439-abandoned-city.json) |
 | Abandoned Continent | 377422 | [377422-abandoned-continent.json](./377422-abandoned-continent.json) |
 | Abandoned Croxon Mansion | 152496 | [152496-abandoned-croxon-mansion.json](./152496-abandoned-croxon-mansion.json) |
 | Abandoned Dark | 270865 | [270865-abandoned-dark.json](./270865-abandoned-dark.json) |
@@ -2140,10 +2142,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abmis the Lion | 70305 | [70305-abmis-the-lion.json](./70305-abmis-the-lion.json) |
 | Abnimality | 283872 | [283872-abnimality.json](./283872-abnimality.json) |
 | Abnormal | 116556 | [116556-abnormal.json](./116556-abnormal.json) |
+| Abnormal 1999: The Compass and the Sand | 316441 | [316441-abnormal-1999-the-compass-and-the-sand.json](./316441-abnormal-1999-the-compass-and-the-sand.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
 | Abnormal State: Otome Love | 303099 | [303099-abnormal-state-otome-love.json](./303099-abnormal-state-otome-love.json) |
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
 | Abnormal world: Season One | 96881 | [96881-abnormal-world-season-one.json](./96881-abnormal-world-season-one.json) |
+| Abnormality | 316442 | [316442-abnormality.json](./316442-abnormality.json) |
 | Abo Hadeed | 84434 | [84434-abo-hadeed.json](./84434-abo-hadeed.json) |
 | Abo Khashem | 86362 | [86362-abo-khashem.json](./86362-abo-khashem.json) |
 | Abo Mando | 33826 | [33826-abo-mando.json](./33826-abo-mando.json) |
@@ -2154,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abode | 415495 | [415495-abode.json](./415495-abode.json) |
 | Abode: Definitive Edition | 337789 | [337789-abode-definitive-edition.json](./337789-abode-definitive-edition.json) |
 | Abodtion | 344375 | [344375-abodtion.json](./344375-abodtion.json) |
+| AboFlah-intelliFinish | 316443 | [316443-aboflah-intellifinish.json](./316443-aboflah-intellifinish.json) |
 | Aboleo: Shadow of the Crown | 268145 | [268145-aboleo-shadow-of-the-crown.json](./268145-aboleo-shadow-of-the-crown.json) |
 | Abolish | 319420 | [319420-abolish.json](./319420-abolish.json) |
 | Abomi Nation | 128291 | [128291-abomi-nation.json](./128291-abomi-nation.json) |
@@ -2476,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Survivors | 272360 | [272360-abyssal-survivors.json](./272360-abyssal-survivors.json) |
 | Abyssal Sword | 213667 | [213667-abyssal-sword.json](./213667-abyssal-sword.json) |
 | Abyssal Trench | 341989 | [341989-abyssal-trench.json](./341989-abyssal-trench.json) |
+| Abyssal Wrath | 316444 | [316444-abyssal-wrath.json](./316444-abyssal-wrath.json) |
 | Abyssal Zone | 30987 | [30987-abyssal-zone.json](./30987-abyssal-zone.json) |
 | AbyssalCraft | 232418 | [232418-abyssalcraft.json](./232418-abyssalcraft.json) |
 | Abyssalis | 421843 | [421843-abyssalis.json](./421843-abyssalis.json) |
@@ -3937,6 +3943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure in King Caries Land | 117044 | [117044-adventure-in-king-caries-land.json](./117044-adventure-in-king-caries-land.json) |
 | Adventure in My Head | 192945 | [192945-adventure-in-my-head.json](./192945-adventure-in-my-head.json) |
 | Adventure in Russia: Road to Harvetsky | 367690 | [367690-adventure-in-russia-road-to-harvetsky.json](./367690-adventure-in-russia-road-to-harvetsky.json) |
+| Adventure in the Dungeon | 316448 | [316448-adventure-in-the-dungeon.json](./316448-adventure-in-the-dungeon.json) |
 | Adventure in the Fifth Dimension | 21556 | [21556-adventure-in-the-fifth-dimension.json](./21556-adventure-in-the-fifth-dimension.json) |
 | Adventure in the Park | 230846 | [230846-adventure-in-the-park.json](./230846-adventure-in-the-park.json) |
 | Adventure in the Snow Globe | 365077 | [365077-adventure-in-the-snow-globe.json](./365077-adventure-in-the-snow-globe.json) |
@@ -4001,12 +4008,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure of Roger | 284264 | [284264-adventure-of-roger.json](./284264-adventure-of-roger.json) |
 | Adventure of Samsara | 348638 | [348638-adventure-of-samsara.json](./348638-adventure-of-samsara.json) |
 | Adventure of Terapets: The Crazy Scientist | 133924 | [133924-adventure-of-terapets-the-crazy-scientist.json](./133924-adventure-of-terapets-the-crazy-scientist.json) |
+| Adventure of the Bucket | 316447 | [316447-adventure-of-the-bucket.json](./316447-adventure-of-the-bucket.json) |
 | Adventure of the Skullmancer | 261117 | [261117-adventure-of-the-skullmancer.json](./261117-adventure-of-the-skullmancer.json) |
 | Adventure of Thieves | 31817 | [31817-adventure-of-thieves.json](./31817-adventure-of-thieves.json) |
 | Adventure of Tokyo Disney Sea | 49494 | [49494-adventure-of-tokyo-disney-sea.json](./49494-adventure-of-tokyo-disney-sea.json) |
 | Adventure of Tuck | 188805 | [188805-adventure-of-tuck.json](./188805-adventure-of-tuck.json) |
 | Adventure on Lost Island: Hidden Object Game | 51100 | [51100-adventure-on-lost-island-hidden-object-game.json](./51100-adventure-on-lost-island-hidden-object-game.json) |
 | Adventure Park | 9947 | [9947-adventure-park.json](./9947-adventure-park.json) |
+| Adventure Paws | 316446 | [316446-adventure-paws.json](./316446-adventure-paws.json) |
 | Adventure Pinball | 122227 | [122227-adventure-pinball.json](./122227-adventure-pinball.json) |
 | Adventure Pinball Bundle | 147570 | [147570-adventure-pinball-bundle.json](./147570-adventure-pinball-bundle.json) |
 | Adventure Pinball: Forgotten Island | 7549 | [7549-adventure-pinball-forgotten-island.json](./7549-adventure-pinball-forgotten-island.json) |
