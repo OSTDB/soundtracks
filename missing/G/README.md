@@ -8374,6 +8374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Bubble Shoot | 99096 | [99096-grand-bubble-shoot.json](./99096-grand-bubble-shoot.json) |
 | Grand Canvas | 425855 | [425855-grand-canvas.json](./425855-grand-canvas.json) |
 | Grand Canyon | 285263 | [285263-grand-canyon.json](./285263-grand-canyon.json) |
+| Grand Canyon | 293819 | [293819-grand-canyon.json](./293819-grand-canyon.json) |
 | Grand Cash Casino Slots | 386226 | [386226-grand-cash-casino-slots.json](./386226-grand-cash-casino-slots.json) |
 | Grand Casino | 295032 | [295032-grand-casino.json](./295032-grand-casino.json) |
 | Grand Casino Tycoon | 148257 | [148257-grand-casino-tycoon.json](./148257-grand-casino-tycoon.json) |
