@@ -512,6 +512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Opened the Walls and Found Something Beautiful | 177498 | [177498-i-opened-the-walls-and-found-something-beautiful.json](./177498-i-opened-the-walls-and-found-something-beautiful.json) |
 | I Pick Skills | 271006 | [271006-i-pick-skills.json](./271006-i-pick-skills.json) |
 | I Picked Up a Mysterious Smartphone That You Can Change Everything as You Like | 98462 | [98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json](./98462-i-picked-up-a-mysterious-smartphone-that-you-can-change-everything-as-you-like.json) |
+| I Pity Thee Not | 271356 | [271356-i-pity-thee-not.json](./271356-i-pity-thee-not.json) |
 | i Play My Hawaian Drums | 99090 | [99090-i-play-my-hawaian-drums.json](./99090-i-play-my-hawaian-drums.json) |
 | I Play: 3-D Soccer | 92957 | [92957-i-play-3-d-soccer.json](./92957-i-play-3-d-soccer.json) |
 | I Play: 3D Tennis | 70090 | [70090-i-play-3d-tennis.json](./70090-i-play-3d-tennis.json) |
@@ -4068,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Adventures | 95022 | [95022-infinite-adventures.json](./95022-infinite-adventures.json) |
 | Infinite Alliance | 345923 | [345923-infinite-alliance.json](./345923-infinite-alliance.json) |
 | Infinite Ancient: Room Escape | 256739 | [256739-infinite-ancient-room-escape.json](./256739-infinite-ancient-room-escape.json) |
+| Infinite Arcana | 271440 | [271440-infinite-arcana.json](./271440-infinite-arcana.json) |
 | Infinite Arrow | 187766 | [187766-infinite-arrow.json](./187766-infinite-arrow.json) |
 | Infinite Art Museum | 114845 | [114845-infinite-art-museum.json](./114845-infinite-art-museum.json) |
 | Infinite Backrooms | 405531 | [405531-infinite-backrooms.json](./405531-infinite-backrooms.json) |
