@@ -3272,6 +3272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Tycoon | 9203 | [9203-school-tycoon.json](./9203-school-tycoon.json) |
 | School Wars | 218785 | [218785-school-wars.json](./218785-school-wars.json) |
 | School Wars: Sotsugyou Sensen | 218786 | [218786-school-wars-sotsugyou-sensen.json](./218786-school-wars-sotsugyou-sensen.json) |
+| School Wonders Romance | 299639 | [299639-school-wonders-romance.json](./299639-school-wonders-romance.json) |
 | School Years | 132045 | [132045-school-years.json](./132045-school-years.json) |
 | School Years: Episode 2 | 168052 | [168052-school-years-episode-2.json](./168052-school-years-episode-2.json) |
 | School: The Hardest RPG in Your Life | 263765 | [263765-school-the-hardest-rpg-in-your-life.json](./263765-school-the-hardest-rpg-in-your-life.json) |
@@ -4507,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sealed Fortress | 403228 | [403228-sealed-fortress.json](./403228-sealed-fortress.json) |
 | Sealed In | 372952 | [372952-sealed-in.json](./372952-sealed-in.json) |
 | Sealed in Wax | 285957 | [285957-sealed-in-wax.json](./285957-sealed-in-wax.json) |
+| Sealed with a Demon's Kiss | 299656 | [299656-sealed-with-a-demons-kiss.json](./299656-sealed-with-a-demons-kiss.json) |
 | Sealed With a Dragon’s Kiss | 298988 | [298988-sealed-with-a-dragon-s-kiss.json](./298988-sealed-with-a-dragon-s-kiss.json) |
 | Sealer Assist | 103954 | [103954-sealer-assist.json](./103954-sealer-assist.json) |
 | Sealer of Dungeons | 211707 | [211707-sealer-of-dungeons.json](./211707-sealer-of-dungeons.json) |
@@ -37639,6 +37641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Kimono | 367311 | [367311-sweet-kimono.json](./367311-sweet-kimono.json) |
 | Sweet Lily Dreams | 9273 | [9273-sweet-lily-dreams.json](./9273-sweet-lily-dreams.json) |
 | Sweet Love | 165027 | [165027-sweet-love.json](./165027-sweet-love.json) |
+| Sweet Love Bite | 299652 | [299652-sweet-love-bite.json](./299652-sweet-love-bite.json) |
 | Sweet Lyoria: Cozy Homes | 364125 | [364125-sweet-lyoria-cozy-homes.json](./364125-sweet-lyoria-cozy-homes.json) |
 | Sweet Magic Madness | 99774 | [99774-sweet-magic-madness.json](./99774-sweet-magic-madness.json) |
 | Sweet Massage | 339453 | [339453-sweet-massage.json](./339453-sweet-massage.json) |
