@@ -342,6 +342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zap 21 | 78067 | [78067-zap-21.json](./78067-zap-21.json) |
 | Zap Blastum | 113126 | [113126-zap-blastum.json](./113126-zap-blastum.json) |
 | Zap Dem Rats | 195194 | [195194-zap-dem-rats.json](./195194-zap-dem-rats.json) |
+| Zap Lena World | 267607 | [267607-zap-lena-world.json](./267607-zap-lena-world.json) |
 | Zap Line : Connect the Ends Puzzle Game | 105915 | [105915-zap-line-connect-the-ends-puzzle-game.json](./105915-zap-line-connect-the-ends-puzzle-game.json) |
 | ZAP Master | 52073 | [52073-zap-master.json](./52073-zap-master.json) |
 | Zap to It! | 234893 | [234893-zap-to-it.json](./234893-zap-to-it.json) |
@@ -1329,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zill O'll Infinite | 80486 | [80486-zill-oll-infinite.json](./80486-zill-oll-infinite.json) |
 | Zill O'll Infinite Plus | 94824 | [94824-zill-oll-infinite-plus.json](./94824-zill-oll-infinite-plus.json) |
 | Zilla: Shadow of the Bridge | 257989 | [257989-zilla-shadow-of-the-bridge.json](./257989-zilla-shadow-of-the-bridge.json) |
+| Zillernet | 267537 | [267537-zillernet.json](./267537-zillernet.json) |
 | Zillion | 18141 | [18141-zillion.json](./18141-zillion.json) |
 | Zillion Beatz | 124382 | [124382-zillion-beatz.json](./124382-zillion-beatz.json) |
 | Zillion II: The Tri Formation | 46114 | [46114-zillion-ii-the-tri-formation.json](./46114-zillion-ii-the-tri-formation.json) |
