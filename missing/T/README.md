@@ -8733,6 +8733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Days Without Gods | 356826 | [356826-the-days-without-gods.json](./356826-the-days-without-gods.json) |
 | The DBK Holiday Special | 261465 | [261465-the-dbk-holiday-special.json](./261465-the-dbk-holiday-special.json) |
 | The Dead are Not Dead | 251904 | [251904-the-dead-are-not-dead.json](./251904-the-dead-are-not-dead.json) |
+| The Dead Await | 249994 | [249994-the-dead-await.json](./249994-the-dead-await.json) |
 | The Dead Blue Adventure | 179379 | [179379-the-dead-blue-adventure.json](./179379-the-dead-blue-adventure.json) |
 | The Dead Case | 186139 | [186139-the-dead-case.json](./186139-the-dead-case.json) |
 | The Dead City | 376715 | [376715-the-dead-city.json](./376715-the-dead-city.json) |
@@ -13171,6 +13172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Scape | 137857 | [137857-the-last-scape.json](./137857-the-last-scape.json) |
 | The Last Scion | 367464 | [367464-the-last-scion.json](./367464-the-last-scion.json) |
 | The Last Screening | 367061 | [367061-the-last-screening.json](./367061-the-last-screening.json) |
+| The Last Seal | 249970 | [249970-the-last-seal.json](./249970-the-last-seal.json) |
 | The Last Secret | 199656 | [199656-the-last-secret.json](./199656-the-last-secret.json) |
 | The Last Shape | 199798 | [199798-the-last-shape.json](./199798-the-last-shape.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
@@ -13609,6 +13611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Last Dragon | 180952 | [180952-the-legend-of-the-last-dragon.json](./180952-the-legend-of-the-last-dragon.json) |
 | The Legend of the Prophet & the Assassin | 125010 | [125010-the-legend-of-the-prophet-and-the-assassin.json](./125010-the-legend-of-the-prophet-and-the-assassin.json) |
 | The Legend of the Radient Mask | 135094 | [135094-the-legend-of-the-radient-mask.json](./135094-the-legend-of-the-radient-mask.json) |
+| The Legend of the Radient Mask 2 | 250066 | [250066-the-legend-of-the-radient-mask-2.json](./250066-the-legend-of-the-radient-mask-2.json) |
 | The Legend of The Sacred Stone EX | 371336 | [371336-the-legend-of-the-sacred-stone-ex.json](./371336-the-legend-of-the-sacred-stone-ex.json) |
 | The Legend of the Soulforce: Heroes of the Abyss | 204183 | [204183-the-legend-of-the-soulforce-heroes-of-the-abyss.json](./204183-the-legend-of-the-soulforce-heroes-of-the-abyss.json) |
 | The Legend of the Spirit Bird | 172520 | [172520-the-legend-of-the-spirit-bird.json](./172520-the-legend-of-the-spirit-bird.json) |
@@ -15079,6 +15082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mound: Omen of Cthulhu | 334673 | [334673-the-mound-omen-of-cthulhu.json](./334673-the-mound-omen-of-cthulhu.json) |
 | The Mountain | 372538 | [372538-the-mountain.json](./372538-the-mountain.json) |
 | The Mountain and the Moron | 347428 | [347428-the-mountain-and-the-moron.json](./347428-the-mountain-and-the-moron.json) |
+| The Mountain Calls | 249432 | [249432-the-mountain-calls.json](./249432-the-mountain-calls.json) |
 | The Mountain Hunting | 152757 | [152757-the-mountain-hunting.json](./152757-the-mountain-hunting.json) |
 | The Mountain is as It Always Was | 276772 | [276772-the-mountain-is-as-it-always-was.json](./276772-the-mountain-is-as-it-always-was.json) |
 | The Mountain Peak | 422695 | [422695-the-mountain-peak.json](./422695-the-mountain-peak.json) |
@@ -16485,6 +16489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Quest for Achievements II | 334753 | [334753-the-quest-for-achievements-ii.json](./334753-the-quest-for-achievements-ii.json) |
 | The Quest for Achievements Remix | 121008 | [121008-the-quest-for-achievements-remix.json](./121008-the-quest-for-achievements-remix.json) |
 | The Quest for Excalibur: Puy du Fou | 199326 | [199326-the-quest-for-excalibur-puy-du-fou.json](./199326-the-quest-for-excalibur-puy-du-fou.json) |
+| The Quest For Milk 64 | 250081 | [250081-the-quest-for-milk-64.json](./250081-the-quest-for-milk-64.json) |
 | The Quest for Moe's | 112977 | [112977-the-quest-for-moes.json](./112977-the-quest-for-moes.json) |
 | The Quest for One | 202970 | [202970-the-quest-for-one.json](./202970-the-quest-for-one.json) |
 | The Quest For Royal Love | 184909 | [184909-the-quest-for-royal-love.json](./184909-the-quest-for-royal-love.json) |
@@ -18751,6 +18756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Swordsmen X: Green-bamboo pack | 246761 | [246761-the-swordsmen-x-green-bamboo-pack.json](./246761-the-swordsmen-x-green-bamboo-pack.json) |
 | The Swordsmen X: Survival | 152375 | [152375-the-swordsmen-x-survival.json](./152375-the-swordsmen-x-survival.json) |
 | The Syber Virus | 201714 | [201714-the-syber-virus.json](./201714-the-syber-virus.json) |
+| The Sych story | 249518 | [249518-the-sych-story.json](./249518-the-sych-story.json) |
 | The Sych Story | 158643 | [158643-the-sych-story.json](./158643-the-sych-story.json) |
 | The Sych Story: Ded's Story | 170227 | [170227-the-sych-story-deds-story.json](./170227-the-sych-story-deds-story.json) |
 | The Sych Story: Human Being | 369574 | [369574-the-sych-story-human-being.json](./369574-the-sych-story-human-being.json) |
@@ -22172,6 +22178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Looking Glass | 71709 | [71709-through-the-looking-glass.json](./71709-through-the-looking-glass.json) |
 | Through the Manor | 406320 | [406320-through-the-manor.json](./406320-through-the-manor.json) |
 | Through the Mirror | 30731 | [30731-through-the-mirror.json](./30731-through-the-mirror.json) |
+| Through the Mist | 249981 | [249981-through-the-mist.json](./249981-through-the-mist.json) |
 | Through the Mist and Sky | 102179 | [102179-through-the-mist-and-sky.json](./102179-through-the-mist-and-sky.json) |
 | Through the Murky Water | 342557 | [342557-through-the-murky-water.json](./342557-through-the-murky-water.json) |
 | Through the Nest | 374131 | [374131-through-the-nest.json](./374131-through-the-nest.json) |
@@ -24496,6 +24503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tim and Tom: A Bulloon that Fell from the Sky | 175362 | [175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json](./175362-tim-and-tom-a-bulloon-that-fell-from-the-sky.json) |
 | Tim Burton's The Nightmare Before Christmas | 198942 | [198942-tim-burtons-the-nightmare-before-christmas.json](./198942-tim-burtons-the-nightmare-before-christmas.json) |
 | Tim Burton's The Nightmare Before Christmas: The Pumpkin King | 73651 | [73651-tim-burtons-the-nightmare-before-christmas-the-pumpkin-king.json](./73651-tim-burtons-the-nightmare-before-christmas-the-pumpkin-king.json) |
+| Tim Climpy's Warfair | 249527 | [249527-tim-climpys-warfair.json](./249527-tim-climpys-warfair.json) |
 | Tim Love's Cricket | 63184 | [63184-tim-loves-cricket.json](./63184-tim-loves-cricket.json) |
 | Tim power vigilante in the city! | 148187 | [148187-tim-power-vigilante-in-the-city.json](./148187-tim-power-vigilante-in-the-city.json) |
 | Tim Stockdale's Riding Star | 339889 | [339889-tim-stockdales-riding-star.json](./339889-tim-stockdales-riding-star.json) |
@@ -24962,6 +24970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timescape: Altitude | 173335 | [173335-timescape-altitude.json](./173335-timescape-altitude.json) |
 | TimeScape: Journey to Pompeii | 73819 | [73819-timescape-journey-to-pompeii.json](./73819-timescape-journey-to-pompeii.json) |
 | TimeScar: Hyperion | 110769 | [110769-timescar-hyperion.json](./110769-timescar-hyperion.json) |
+| Timeshift | 249971 | [249971-timeshift.json](./249971-timeshift.json) |
 | TimeShift | 2030 | [2030-timeshift.json](./2030-timeshift.json) |
 | Timeshift Detective | 275972 | [275972-timeshift-detective.json](./275972-timeshift-detective.json) |
 | TimeShifters | 152456 | [152456-timeshifters.json](./152456-timeshifters.json) |
@@ -25218,6 +25227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Dragons | 97491 | [97491-tiny-dragons.json](./97491-tiny-dragons.json) |
 | Tiny Dream Home | 358313 | [358313-tiny-dream-home.json](./358313-tiny-dream-home.json) |
 | Tiny Duck Hunt 3D | 333170 | [333170-tiny-duck-hunt-3d.json](./333170-tiny-duck-hunt-3d.json) |
+| Tiny Dungeons | 249996 | [249996-tiny-dungeons.json](./249996-tiny-dungeons.json) |
 | Tiny Dwellings | 428390 | [428390-tiny-dwellings.json](./428390-tiny-dwellings.json) |
 | Tiny Echo | 36743 | [36743-tiny-echo.json](./36743-tiny-echo.json) |
 | Tiny Eden | 346609 | [346609-tiny-eden.json](./346609-tiny-eden.json) |
@@ -34642,6 +34652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki's Odyssey | 192101 | [192101-tsukis-odyssey.json](./192101-tsukis-odyssey.json) |
 | Tsukiakari no Kan kara no Dasshutsu | 251607 | [251607-tsukiakari-no-kan-kara-no-dasshutsu.json](./251607-tsukiakari-no-kan-kara-no-dasshutsu.json) |
 | Tsukibito | 59402 | [59402-tsukibito.json](./59402-tsukibito.json) |
+| Tsukichi Chronicles | 249986 | [249986-tsukichi-chronicles.json](./249986-tsukichi-chronicles.json) |
 | Tsukihime | 63998 | [63998-tsukihime.json](./63998-tsukihime.json) |
 | Tsukihime Plus-Disc | 144565 | [144565-tsukihime-plus-disc.json](./144565-tsukihime-plus-disc.json) |
 | Tsukihime Typing Online | 255840 | [255840-tsukihime-typing-online.json](./255840-tsukihime-typing-online.json) |
@@ -34982,6 +34993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel View | 180699 | [180699-tunnel-view.json](./180699-tunnel-view.json) |
 | Tunnel Vision | 146523 | [146523-tunnel-vision.json](./146523-tunnel-vision.json) |
 | Tunnel Vision | 172303 | [172303-tunnel-vision.json](./172303-tunnel-vision.json) |
+| Tunnel Vision | 249519 | [249519-tunnel-vision.json](./249519-tunnel-vision.json) |
 | Tunnel Vision | 271425 | [271425-tunnel-vision.json](./271425-tunnel-vision.json) |
 | Tunnel Vision | 273873 | [273873-tunnel-vision.json](./273873-tunnel-vision.json) |
 | Tunnel VR | 125699 | [125699-tunnel-vr.json](./125699-tunnel-vr.json) |
