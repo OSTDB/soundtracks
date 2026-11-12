@@ -1022,7 +1022,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -3215,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball in Hell | 177842 | [177842-baseball-in-hell.json](./177842-baseball-in-hell.json) |
 | Baseball Kings 2015 | 240849 | [240849-baseball-kings-2015.json](./240849-baseball-kings-2015.json) |
 | Baseball Kings VR | 89255 | [89255-baseball-kings-vr.json](./89255-baseball-kings-vr.json) |
+| Baseball Legacy Manager 24 | 295187 | [295187-baseball-legacy-manager-24.json](./295187-baseball-legacy-manager-24.json) |
 | Baseball Legacy Manager 25 | 337341 | [337341-baseball-legacy-manager-25.json](./337341-baseball-legacy-manager-25.json) |
 | Baseball Live 2005 | 269390 | [269390-baseball-live-2005.json](./269390-baseball-live-2005.json) |
 | Baseball Mania | 56963 | [56963-baseball-mania.json](./56963-baseball-mania.json) |
@@ -3569,6 +3569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bathroom Chef | 101627 | [101627-bathroom-chef.json](./101627-bathroom-chef.json) |
 | Bathtime Toys | 192206 | [192206-bathtime-toys.json](./192206-bathtime-toys.json) |
 | Bathysphere | 415144 | [415144-bathysphere.json](./415144-bathysphere.json) |
+| Batiman | 295595 | [295595-batiman.json](./295595-batiman.json) |
 | Batla | 36058 | [36058-batla.json](./36058-batla.json) |
 | Batla: Tank | 172260 | [172260-batla-tank.json](./172260-batla-tank.json) |
 | Batloff: Cyprus | 123391 | [123391-batloff-cyprus.json](./123391-batloff-cyprus.json) |
@@ -18970,6 +18971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Game | 236230 | [236230-bunny-game.json](./236230-bunny-game.json) |
 | Bunny Garden | 294658 | [294658-bunny-garden.json](./294658-bunny-garden.json) |
 | Bunny Garden 2 | 375379 | [375379-bunny-garden-2.json](./375379-bunny-garden-2.json) |
+| Bunny Girl Cumming for My Carrot | 295417 | [295417-bunny-girl-cumming-for-my-carrot.json](./295417-bunny-girl-cumming-for-my-carrot.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
 | Bunny Girls | 360224 | [360224-bunny-girls.json](./360224-bunny-girls.json) |
 | Bunny Gladiator | 89334 | [89334-bunny-gladiator.json](./89334-bunny-gladiator.json) |
