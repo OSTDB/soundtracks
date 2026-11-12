@@ -1386,6 +1386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
 | Game in Game in Game | 259511 | [259511-game-in-game-in-game.json](./259511-game-in-game-in-game.json) |
 | Game Inside a Game | 178475 | [178475-game-inside-a-game.json](./178475-game-inside-a-game.json) |
+| Game is Full of Bugs | 295583 | [295583-game-is-full-of-bugs.json](./295583-game-is-full-of-bugs.json) |
 | Game Islands - Play All Day | 95126 | [95126-game-islands-play-all-day.json](./95126-game-islands-play-all-day.json) |
 | Game Jam Jam Game | 128607 | [128607-game-jam-jam-game.json](./128607-game-jam-jam-game.json) |
 | Game Kids: Baseball Bash | 334631 | [334631-game-kids-baseball-bash.json](./334631-game-kids-baseball-bash.json) |
@@ -1562,6 +1563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game.exe | 142467 | [142467-game-exe.json](./142467-game-exe.json) |
 | Game.exe | 153144 | [153144-game-exe.json](./153144-game-exe.json) |
 | Game.exe 2: Phantom Strike | 390382 | [390382-game-exe-2-phantom-strike.json](./390382-game-exe-2-phantom-strike.json) |
+| Gameartopia | 295414 | [295414-gameartopia.json](./295414-gameartopia.json) |
 | Gamebesh | 275387 | [275387-gamebesh.json](./275387-gamebesh.json) |
 | Gamebiz | 62879 | [62879-gamebiz.json](./62879-gamebiz.json) |
 | Gamebiz 2 | 62878 | [62878-gamebiz-2.json](./62878-gamebiz-2.json) |
@@ -5943,6 +5945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Race Yourself | 200137 | [200137-go-race-yourself.json](./200137-go-race-yourself.json) |
 | Go Rescue | 238293 | [238293-go-rescue.json](./238293-go-rescue.json) |
 | Go Rocket | 153917 | [153917-go-rocket.json](./153917-go-rocket.json) |
+| Go Rollo Go | 295188 | [295188-go-rollo-go.json](./295188-go-rollo-go.json) |
 | GO Series: 10 Second Run | 80030 | [80030-go-series-10-second-run.json](./80030-go-series-10-second-run.json) |
 | GO Series: Captain Sub | 84547 | [84547-go-series-captain-sub.json](./84547-go-series-captain-sub.json) |
 | GO Series: Defense Wars | 84504 | [84504-go-series-defense-wars.json](./84504-go-series-defense-wars.json) |
@@ -6229,6 +6232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goblin Path | 382446 | [382446-goblin-path.json](./382446-goblin-path.json) |
 | Goblin Quest | 271043 | [271043-goblin-quest.json](./271043-goblin-quest.json) |
 | Goblin Quest III | 395735 | [395735-goblin-quest-iii.json](./395735-goblin-quest-iii.json) |
+| Goblin Quest: Completed Edition | 295416 | [295416-goblin-quest-completed-edition.json](./295416-goblin-quest-completed-edition.json) |
 | Goblin Quest: Escape! | 115648 | [115648-goblin-quest-escape.json](./115648-goblin-quest-escape.json) |
 | Goblin Quest: Remake | 313534 | [313534-goblin-quest-remake.json](./313534-goblin-quest-remake.json) |
 | Goblin Rules Football | 217277 | [217277-goblin-rules-football.json](./217277-goblin-rules-football.json) |
@@ -12067,6 +12071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunstoppable | 347106 | [347106-gunstoppable.json](./347106-gunstoppable.json) |
 | Gunstorm | 286251 | [286251-gunstorm.json](./286251-gunstorm.json) |
 | Gunstorm | 67061 | [67061-gunstorm.json](./67061-gunstorm.json) |
+| Gunstorm II | 295591 | [295591-gunstorm-ii.json](./295591-gunstorm-ii.json) |
 | Gunstringer: Dead Man Running | 63918 | [63918-gunstringer-dead-man-running.json](./63918-gunstringer-dead-man-running.json) |
 | Gunsuit | 58934 | [58934-gunsuit.json](./58934-gunsuit.json) |
 | GunSuit Guardians | 241291 | [241291-gunsuit-guardians.json](./241291-gunsuit-guardians.json) |
