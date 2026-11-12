@@ -4047,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Hospital | 111741 | [111741-ghost-hospital.json](./111741-ghost-hospital.json) |
 | Ghost Hospital: In Thousand Horror Hill | 293143 | [293143-ghost-hospital-in-thousand-horror-hill.json](./293143-ghost-hospital-in-thousand-horror-hill.json) |
 | Ghost House | 179731 | [179731-ghost-house.json](./179731-ghost-house.json) |
+| Ghost House | 266376 | [266376-ghost-house.json](./266376-ghost-house.json) |
 | Ghost House | 384503 | [384503-ghost-house.json](./384503-ghost-house.json) |
 | Ghost House | 411229 | [411229-ghost-house.json](./411229-ghost-house.json) |
 | Ghost House | 45649 | [45649-ghost-house.json](./45649-ghost-house.json) |
@@ -8915,6 +8916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Deceiver | 327332 | [327332-grave-deceiver.json](./327332-grave-deceiver.json) |
 | Grave Desecrator | 278935 | [278935-grave-desecrator.json](./278935-grave-desecrator.json) |
 | Grave Digger | 287145 | [287145-grave-digger.json](./287145-grave-digger.json) |
+| Grave Digging Me | 266462 | [266462-grave-digging-me.json](./266462-grave-digging-me.json) |
 | Grave Dodgers | 392190 | [392190-grave-dodgers.json](./392190-grave-dodgers.json) |
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave Girl | 344700 | [344700-grave-girl.json](./344700-grave-girl.json) |
