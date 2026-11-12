@@ -3933,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortexika | 232612 | [232612-vortexika.json](./232612-vortexika.json) |
 | Vortexion | 318864 | [318864-vortexion.json](./318864-vortexion.json) |
 | VortexWars2 | 101759 | [101759-vortexwars2.json](./101759-vortexwars2.json) |
+| Vortica | 311840 | [311840-vortica.json](./311840-vortica.json) |
 | Vortix | 260569 | [260569-vortix.json](./260569-vortix.json) |
 | Vortle | 186286 | [186286-vortle.json](./186286-vortle.json) |
 | VortX | 375264 | [375264-vortx.json](./375264-vortx.json) |
