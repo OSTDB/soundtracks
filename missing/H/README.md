@@ -3506,6 +3506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart attack | 195820 | [195820-heart-attack.json](./195820-heart-attack.json) |
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
 | Heart Beat Clue | 291808 | [291808-heart-beat-clue.json](./291808-heart-beat-clue.json) |
+| Heart Beat Strikers | 304923 | [304923-heart-beat-strikers.json](./304923-heart-beat-strikers.json) |
 | Heart Box | 182008 | [182008-heart-box.json](./182008-heart-box.json) |
 | Heart Cage | 266875 | [266875-heart-cage.json](./266875-heart-cage.json) |
 | Heart Chain Kitty: All Screwed Up | 261969 | [261969-heart-chain-kitty-all-screwed-up.json](./261969-heart-chain-kitty-all-screwed-up.json) |
