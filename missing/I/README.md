@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Work As An Exorcist | 381980 | [381980-i-work-as-an-exorcist.json](./381980-i-work-as-an-exorcist.json) |
 | I Would Like a Snack | 397377 | [397377-i-would-like-a-snack.json](./397377-i-would-like-a-snack.json) |
 | I Would Love to Wish You Good Morning | 372970 | [372970-i-would-love-to-wish-you-good-morning.json](./372970-i-would-love-to-wish-you-good-morning.json) |
+| I Would Rather Have Cake | 246604 | [246604-i-would-rather-have-cake.json](./246604-i-would-rather-have-cake.json) |
 | I Write Games Not Tragedies | 342299 | [342299-i-write-games-not-tragedies.json](./342299-i-write-games-not-tragedies.json) |
 | I x She Tell | 150327 | [150327-i-x-she-tell.json](./150327-i-x-she-tell.json) |
 | I x She Tell: Limited Edition | 167022 | [167022-i-x-she-tell-limited-edition.json](./167022-i-x-she-tell-limited-edition.json) |
