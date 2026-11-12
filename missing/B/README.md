@@ -6316,6 +6316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Aware! | 107359 | [107359-bee-aware.json](./107359-bee-aware.json) |
 | Bee Careful! | 357674 | [357674-bee-careful.json](./357674-bee-careful.json) |
 | Bee Craft | 215474 | [215474-bee-craft.json](./215474-bee-craft.json) |
+| Bee Craft Sweet | 271891 | [271891-bee-craft-sweet.json](./271891-bee-craft-sweet.json) |
 | Bee Eliminator | 247066 | [247066-bee-eliminator.json](./247066-bee-eliminator.json) |
 | Bee Factory! | 106699 | [106699-bee-factory.json](./106699-bee-factory.json) |
 | Bee Farming | 175281 | [175281-bee-farming.json](./175281-bee-farming.json) |
@@ -9559,6 +9560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blabyrinth | 145227 | [145227-blabyrinth.json](./145227-blabyrinth.json) |
 | Black | 117992 | [117992-black.json](./117992-black.json) |
 | Black | 159265 | [159265-black.json](./159265-black.json) |
+| Black | 271961 | [271961-black.json](./271961-black.json) |
 | Black & Bruised | 3819 | [3819-black-and-bruised.json](./3819-black-and-bruised.json) |
 | Black & White | 308 | [308-black-and-white.json](./308-black-and-white.json) |
 | Black & White | 364348 | [364348-black-and-white.json](./364348-black-and-white.json) |
@@ -11415,6 +11417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Sprawl | 406673 | [406673-block-sprawl.json](./406673-block-sprawl.json) |
 | Block Steady | 218887 | [218887-block-steady.json](./218887-block-steady.json) |
 | Block Story | 9175 | [9175-block-story.json](./9175-block-story.json) |
+| Block Strategy | 271879 | [271879-block-strategy.json](./271879-block-strategy.json) |
 | Block Strike | 28898 | [28898-block-strike.json](./28898-block-strike.json) |
 | Block Survival: Legend of the Lost Islands | 37041 | [37041-block-survival-legend-of-the-lost-islands.json](./37041-block-survival-legend-of-the-lost-islands.json) |
 | Block The Monster | 272783 | [272783-block-the-monster.json](./272783-block-the-monster.json) |
@@ -11723,6 +11726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood & Bacon | 33720 | [33720-blood-and-bacon.json](./33720-blood-and-bacon.json) |
 | Blood & Bananas | 367947 | [367947-blood-and-bananas.json](./367947-blood-and-bananas.json) |
 | Blood & Blade | 60798 | [60798-blood-and-blade.json](./60798-blood-and-blade.json) |
+| Blood & Chaos | 271878 | [271878-blood-and-chaos.json](./271878-blood-and-chaos.json) |
 | Blood & Company | 318905 | [318905-blood-and-company.json](./318905-blood-and-company.json) |
 | Blood & Dungeon | 292545 | [292545-blood-and-dungeon.json](./292545-blood-and-dungeon.json) |
 | Blood & Glory | 87089 | [87089-blood-and-glory.json](./87089-blood-and-glory.json) |
@@ -14753,6 +14757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle: Pilgrim | 74638 | [74638-bottle-pilgrim.json](./74638-bottle-pilgrim.json) |
 | Bottle: Pilgrim Redux | 254088 | [254088-bottle-pilgrim-redux.json](./254088-bottle-pilgrim-redux.json) |
 | Bottled by Bears | 405328 | [405328-bottled-by-bears.json](./405328-bottled-by-bears.json) |
+| Bottles to the Ground | 271973 | [271973-bottles-to-the-ground.json](./271973-bottles-to-the-ground.json) |
 | Bottom of the 9th | 3369 | [3369-bottom-of-the-9th.json](./3369-bottom-of-the-9th.json) |
 | Bottom of the 9th | 93658 | [93658-bottom-of-the-9th.json](./93658-bottom-of-the-9th.json) |
 | Bottom of the 9th '97 | 43857 | [43857-bottom-of-the-9th-97.json](./43857-bottom-of-the-9th-97.json) |
@@ -16946,6 +16951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridgelands | 290569 | [290569-bridgelands.json](./290569-bridgelands.json) |
 | Bridgelands | 382976 | [382976-bridgelands.json](./382976-bridgelands.json) |
 | Bridges & Docks | 281972 | [281972-bridges-and-docks.json](./281972-bridges-and-docks.json) |
+| Bridges & Towers | 271956 | [271956-bridges-and-towers.json](./271956-bridges-and-towers.json) |
 | Bridges of Patience | 303377 | [303377-bridges-of-patience.json](./303377-bridges-of-patience.json) |
 | Bridget Bishop | 400317 | [400317-bridget-bishop.json](./400317-bridget-bishop.json) |
 | BridgeTeam: Ship Simulator | 190981 | [190981-bridgeteam-ship-simulator.json](./190981-bridgeteam-ship-simulator.json) |
