@@ -4145,6 +4145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in Adventureland | 98320 | [98320-adventures-in-adventureland.json](./98320-adventures-in-adventureland.json) |
 | Adventures in Anglonia | 276708 | [276708-adventures-in-anglonia.json](./276708-adventures-in-anglonia.json) |
 | Adventures in Calculon | 357781 | [357781-adventures-in-calculon.json](./357781-adventures-in-calculon.json) |
+| Adventures In Clairune | 307439 | [307439-adventures-in-clairune.json](./307439-adventures-in-clairune.json) |
 | Adventures in Flesh | 281330 | [281330-adventures-in-flesh.json](./281330-adventures-in-flesh.json) |
 | Adventures in Heaven | 299013 | [299013-adventures-in-heaven.json](./299013-adventures-in-heaven.json) |
 | Adventures in Lestoria | 282624 | [282624-adventures-in-lestoria.json](./282624-adventures-in-lestoria.json) |
@@ -15908,6 +15909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arubarea no Otome | 94628 | [94628-arubarea-no-otome.json](./94628-arubarea-no-otome.json) |
 | Arugisu no Tsubasa | 255828 | [255828-arugisu-no-tsubasa.json](./255828-arugisu-no-tsubasa.json) |
 | Arui ha Koi to Iu Na no Mahou | 416690 | [416690-arui-ha-koi-to-iu-na-no-mahou.json](./416690-arui-ha-koi-to-iu-na-no-mahou.json) |
+| Aruku Rush | 307458 | [307458-aruku-rush.json](./307458-aruku-rush.json) |
 | Aruma Ketera | 382787 | [382787-aruma-ketera.json](./382787-aruma-ketera.json) |
 | Aruna | 167889 | [167889-aruna.json](./167889-aruna.json) |
 | Aruna's Adventure | 138954 | [138954-arunas-adventure.json](./138954-arunas-adventure.json) |
