@@ -2712,6 +2712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paro Wars | 37305 | [37305-paro-wars.json](./37305-paro-wars.json) |
 | Parodius | 174910 | [174910-parodius.json](./174910-parodius.json) |
 | Parodius | 19714 | [19714-parodius.json](./19714-parodius.json) |
+| Parodius | 280481 | [280481-parodius.json](./280481-parodius.json) |
 | Parodius | 280746 | [280746-parodius.json](./280746-parodius.json) |
 | Parodius | 41712 | [41712-parodius.json](./41712-parodius.json) |
 | Parodius da!: Shinwa kara Owarai he | 37307 | [37307-parodius-da-shinwa-kara-owarai-he.json](./37307-parodius-da-shinwa-kara-owarai-he.json) |
@@ -3743,6 +3744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Boys in Blue Heist | 312011 | [312011-payday-3-boys-in-blue-heist.json](./312011-payday-3-boys-in-blue-heist.json) |
 | Payday 3: Boys in Blue Tailor Pack | 312016 | [312016-payday-3-boys-in-blue-tailor-pack.json](./312016-payday-3-boys-in-blue-tailor-pack.json) |
 | Payday 3: Boys in Blue Weapon Pack | 312009 | [312009-payday-3-boys-in-blue-weapon-pack.json](./312009-payday-3-boys-in-blue-weapon-pack.json) |
+| Payday 3: Chapter 1 - Syntax Error | 280396 | [280396-payday-3-chapter-1-syntax-error.json](./280396-payday-3-chapter-1-syntax-error.json) |
 | Payday 3: Chapter 2 - Boys in Blue | 314343 | [314343-payday-3-chapter-2-boys-in-blue.json](./314343-payday-3-chapter-2-boys-in-blue.json) |
 | Payday 3: Chapter 3 - Houston Breakout | 314227 | [314227-payday-3-chapter-3-houston-breakout.json](./314227-payday-3-chapter-3-houston-breakout.json) |
 | Payday 3: Chapter 4 - Fear & Greed | 371317 | [371317-payday-3-chapter-4-fear-and-greed.json](./371317-payday-3-chapter-4-fear-and-greed.json) |
@@ -3758,6 +3760,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 3: Jacket Character Pack | 367398 | [367398-payday-3-jacket-character-pack.json](./367398-payday-3-jacket-character-pack.json) |
 | Payday 3: Party Powder Heist | 369604 | [369604-payday-3-party-powder-heist.json](./369604-payday-3-party-powder-heist.json) |
 | Payday 3: Silver Edition | 266897 | [266897-payday-3-silver-edition.json](./266897-payday-3-silver-edition.json) |
+| Payday 3: Syntax Error Heist | 280395 | [280395-payday-3-syntax-error-heist.json](./280395-payday-3-syntax-error-heist.json) |
+| Payday 3: Syntax Error Tailor Pack | 280394 | [280394-payday-3-syntax-error-tailor-pack.json](./280394-payday-3-syntax-error-tailor-pack.json) |
+| Payday 3: Syntax Error Weapon Pack | 280393 | [280393-payday-3-syntax-error-weapon-pack.json](./280393-payday-3-syntax-error-weapon-pack.json) |
 | Payday 3: Trifecta Lootbag | 335777 | [335777-payday-3-trifecta-lootbag.json](./335777-payday-3-trifecta-lootbag.json) |
 | Payday Freecell | 210013 | [210013-payday-freecell.json](./210013-payday-freecell.json) |
 | Payday Freecell HD | 354984 | [354984-payday-freecell-hd.json](./354984-payday-freecell-hd.json) |
@@ -6819,6 +6824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigblue | 248091 | [248091-pigblue.json](./248091-pigblue.json) |
 | Pigbook | 278936 | [278936-pigbook.json](./278936-pigbook.json) |
 | Pigebomb | 307228 | [307228-pigebomb.json](./307228-pigebomb.json) |
+| Pigeon | 280392 | [280392-pigeon.json](./280392-pigeon.json) |
 | Pigeon | 311457 | [311457-pigeon.json](./311457-pigeon.json) |
 | Pigeon Ascent | 179842 | [179842-pigeon-ascent.json](./179842-pigeon-ascent.json) |
 | Pigeon Blood | 340102 | [340102-pigeon-blood.json](./340102-pigeon-blood.json) |
@@ -8304,6 +8310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates VR: Jolly Roger | 158805 | [158805-pirates-vr-jolly-roger.json](./158805-pirates-vr-jolly-roger.json) |
 | Pirates vs Corsairs: Davy Jones's Gold | 35613 | [35613-pirates-vs-corsairs-davy-joness-gold.json](./35613-pirates-vs-corsairs-davy-joness-gold.json) |
 | Pirates vs monkeys | 162851 | [162851-pirates-vs-monkeys.json](./162851-pirates-vs-monkeys.json) |
+| Pirates vs. Ninjas | 280391 | [280391-pirates-vs-ninjas.json](./280391-pirates-vs-ninjas.json) |
 | Pirates vs. Ninjas vs. Zombies vs. Pandas | 65709 | [65709-pirates-vs-ninjas-vs-zombies-vs-pandas.json](./65709-pirates-vs-ninjas-vs-zombies-vs-pandas.json) |
 | Pirates, Vikings and Knights | 221933 | [221933-pirates-vikings-and-knights.json](./221933-pirates-vikings-and-knights.json) |
 | Pirates, Vikings and Knights II | 14978 | [14978-pirates-vikings-and-knights-ii.json](./14978-pirates-vikings-and-knights-ii.json) |
@@ -13670,6 +13677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Taisen Puzzle Dama Online | 281402 | [281402-popn-taisen-puzzle-dama-online.json](./281402-popn-taisen-puzzle-dama-online.json) |
 | Pop'n Tanks | 43801 | [43801-popn-tanks.json](./43801-popn-tanks.json) |
 | Pop'n Tanks | 43802 | [43802-popn-tanks.json](./43802-popn-tanks.json) |
+| Pop'n Twinbee | 280485 | [280485-popn-twinbee.json](./280485-popn-twinbee.json) |
 | Pop'n TwinBee | 144657 | [144657-popn-twinbee.json](./144657-popn-twinbee.json) |
 | Pop'n Twinbee: Rainbow Bell Adventures | 42473 | [42473-popn-twinbee-rainbow-bell-adventures.json](./42473-popn-twinbee-rainbow-bell-adventures.json) |
 | Pop'n'splat | 118527 | [118527-popnsplat.json](./118527-popnsplat.json) |
@@ -15778,6 +15786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Printfarm Simulator | 371522 | [371522-printfarm-simulator.json](./371522-printfarm-simulator.json) |
 | Prinzessin Lillifee Puzzle: Echter Puzzlespass für Unterwegs | 252669 | [252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json](./252669-prinzessin-lillifee-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | PRiO | 33877 | [33877-prio.json](./33877-prio.json) |
+| Prion: Infection | 280390 | [280390-prion-infection.json](./280390-prion-infection.json) |
 | PriOne | 192530 | [192530-prione.json](./192530-prione.json) |
 | Priority Realignment | 234900 | [234900-priority-realignment.json](./234900-priority-realignment.json) |
 | PriPara | 76849 | [76849-pripara.json](./76849-pripara.json) |
@@ -16416,6 +16425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ProBoon | 109425 | [109425-proboon.json](./109425-proboon.json) |
 | Probot Soccer | 276829 | [276829-probot-soccer.json](./276829-probot-soccer.json) |
 | Probotector | 186202 | [186202-probotector.json](./186202-probotector.json) |
+| Probotector | 280477 | [280477-probotector.json](./280477-probotector.json) |
 | Procambarus Fallax | 261122 | [261122-procambarus-fallax.json](./261122-procambarus-fallax.json) |
 | Procedural Death Labyrinth | 137578 | [137578-procedural-death-labyrinth.json](./137578-procedural-death-labyrinth.json) |
 | Procedural Realms | 228701 | [228701-procedural-realms.json](./228701-procedural-realms.json) |
