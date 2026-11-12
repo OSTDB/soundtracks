@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: The Evasion | 222287 | [222287-half-life-the-evasion.json](./222287-half-life-the-evasion.json) |
 | Half-Life: The Gate | 221910 | [221910-half-life-the-gate.json](./221910-half-life-the-gate.json) |
 | Half-Life: The Infected | 196732 | [196732-half-life-the-infected.json](./196732-half-life-the-infected.json) |
+| Half-Life: The World Machine | 300626 | [300626-half-life-the-world-machine.json](./300626-half-life-the-world-machine.json) |
 | Half-Life: Through The City | 309106 | [309106-half-life-through-the-city.json](./309106-half-life-through-the-city.json) |
 | Half-Life: Timeline 1 | 221804 | [221804-half-life-timeline-1.json](./221804-half-life-timeline-1.json) |
 | Half-Life: Timeline II - Iced Earth | 221908 | [221908-half-life-timeline-ii-iced-earth.json](./221908-half-life-timeline-ii-iced-earth.json) |
