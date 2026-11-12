@@ -4962,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Roller Coasters: Great Canyon | 166642 | [166642-epic-roller-coasters-great-canyon.json](./166642-epic-roller-coasters-great-canyon.json) |
 | Epic Roller Coasters: Halloween | 166653 | [166653-epic-roller-coasters-halloween.json](./166653-epic-roller-coasters-halloween.json) |
 | Epic Roller Coasters: Haunted Castle | 166645 | [166645-epic-roller-coasters-haunted-castle.json](./166645-epic-roller-coasters-haunted-castle.json) |
+| Epic Roller Coasters: Hidden Paradise | 247150 | [247150-epic-roller-coasters-hidden-paradise.json](./247150-epic-roller-coasters-hidden-paradise.json) |
 | Epic Roller Coasters: Kelimutu | 253960 | [253960-epic-roller-coasters-kelimutu.json](./253960-epic-roller-coasters-kelimutu.json) |
 | Epic Roller Coasters: Lost Forest | 166651 | [166651-epic-roller-coasters-lost-forest.json](./166651-epic-roller-coasters-lost-forest.json) |
 | Epic Roller Coasters: Neon Rider | 166648 | [166648-epic-roller-coasters-neon-rider.json](./166648-epic-roller-coasters-neon-rider.json) |
