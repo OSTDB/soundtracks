@@ -7123,6 +7123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demoniac Words | 250101 | [250101-demoniac-words.json](./250101-demoniac-words.json) |
 | Demoniaca: Everlasting Night | 121311 | [121311-demoniaca-everlasting-night.json](./121311-demoniaca-everlasting-night.json) |
 | Demoniak | 12044 | [12044-demoniak.json](./12044-demoniak.json) |
+| Demonic Astal | 288967 | [288967-demonic-astal.json](./288967-demonic-astal.json) |
 | Demonic Blade | 151397 | [151397-demonic-blade.json](./151397-demonic-blade.json) |
 | Demonic Bundle | 192305 | [192305-demonic-bundle.json](./192305-demonic-bundle.json) |
 | Demonic Crusade | 298896 | [298896-demonic-crusade.json](./298896-demonic-crusade.json) |
@@ -9174,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamonds | 119547 | [119547-diamonds.json](./119547-diamonds.json) |
 | Diamonds | 308208 | [308208-diamonds.json](./308208-diamonds.json) |
 | Diamonds | 348583 | [348583-diamonds.json](./348583-diamonds.json) |
+| Diamonds Collector | 288965 | [288965-diamonds-collector.json](./288965-diamonds-collector.json) |
 | Diamonds Mine | 261082 | [261082-diamonds-mine.json](./261082-diamonds-mine.json) |
 | Diamonds on the forest | 227831 | [227831-diamonds-on-the-forest.json](./227831-diamonds-on-the-forest.json) |
 | Diana Hamilton's Dreams | 141718 | [141718-diana-hamiltons-dreams.json](./141718-diana-hamiltons-dreams.json) |
@@ -18398,6 +18400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drowned Grave | 387649 | [387649-drowned-grave.json](./387649-drowned-grave.json) |
 | Drowned Helicopter | 166695 | [166695-drowned-helicopter.json](./166695-drowned-helicopter.json) |
 | Drowned Lake | 278605 | [278605-drowned-lake.json](./278605-drowned-lake.json) |
+| Drowned Memories | 288978 | [288978-drowned-memories.json](./288978-drowned-memories.json) |
 | Drowning | 111432 | [111432-drowning.json](./111432-drowning.json) |
 | Drowning | 191030 | [191030-drowning.json](./191030-drowning.json) |
 | Drowning Ashes | 374322 | [374322-drowning-ashes.json](./374322-drowning-ashes.json) |
