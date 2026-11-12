@@ -5128,6 +5128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Night Street | 353774 | [353774-light-night-street.json](./353774-light-night-street.json) |
 | Light Nite | 164696 | [164696-light-nite.json](./164696-light-nite.json) |
 | Light No Fire | 279655 | [279655-light-no-fire.json](./279655-light-no-fire.json) |
+| Light Odyssey | 252347 | [252347-light-odyssey.json](./252347-light-odyssey.json) |
 | Light of Alariya | 236431 | [236431-light-of-alariya.json](./236431-light-of-alariya.json) |
 | Light of Altair | 16041 | [16041-light-of-altair.json](./16041-light-of-altair.json) |
 | Light of Atlantis | 253915 | [253915-light-of-atlantis.json](./253915-light-of-atlantis.json) |
@@ -8605,6 +8606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Cause | 300766 | [300766-lost-cause.json](./300766-lost-cause.json) |
 | Lost Cave | 112758 | [112758-lost-cave.json](./112758-lost-cave.json) |
 | Lost Caves | 143259 | [143259-lost-caves.json](./143259-lost-caves.json) |
+| Lost Caves | 252452 | [252452-lost-caves.json](./252452-lost-caves.json) |
 | Lost Century | 150377 | [150377-lost-century.json](./150377-lost-century.json) |
 | Lost Chakras | 305821 | [305821-lost-chakras.json](./305821-lost-chakras.json) |
 | Lost Chapter | 244229 | [244229-lost-chapter.json](./244229-lost-chapter.json) |
