@@ -4626,6 +4626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vultures | 41140 | [41140-vultures.json](./41140-vultures.json) |
 | Vultures: Scavengers of Death | 261864 | [261864-vultures-scavengers-of-death.json](./261864-vultures-scavengers-of-death.json) |
 | Vump Jump | 210927 | [210927-vump-jump.json](./210927-vump-jump.json) |
+| Vuntra City | 295580 | [295580-vuntra-city.json](./295580-vuntra-city.json) |
 | Vuosterávdnjái | 223202 | [223202-vuosteravdnjai.json](./223202-vuosteravdnjai.json) |
 | Vupechat | 340125 | [340125-vupechat.json](./340125-vupechat.json) |
 | Vuzzl - Create Animated Jigsaw Puzzles | 95527 | [95527-vuzzl-create-animated-jigsaw-puzzles.json](./95527-vuzzl-create-animated-jigsaw-puzzles.json) |
