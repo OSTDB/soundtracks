@@ -4410,6 +4410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nie no Hakoniwa: Dollhouse of Offerings | 268012 | [268012-nie-no-hakoniwa-dollhouse-of-offerings.json](./268012-nie-no-hakoniwa-dollhouse-of-offerings.json) |
 | Niels Penguin Adventure | 277627 | [277627-niels-penguin-adventure.json](./277627-niels-penguin-adventure.json) |
 | Nienix: Cosmic Warfare | 139629 | [139629-nienix-cosmic-warfare.json](./139629-nienix-cosmic-warfare.json) |
+| Nientum: Opus Zero | 292173 | [292173-nientum-opus-zero.json](./292173-nientum-opus-zero.json) |
 | Nièpán zhī Lù | 116728 | [116728-niepan-zhi-lu.json](./116728-niepan-zhi-lu.json) |
 | NieR Gestalt ver.1.22474487139... | 412056 | [412056-nier-gestalt-ver-1-22474487139.json](./412056-nier-gestalt-ver-1-22474487139.json) |
 | NieR Re[in]carnation: The People and the World | 259669 | [259669-nier-re-in-carnation-the-people-and-the-world.json](./259669-nier-re-in-carnation-the-people-and-the-world.json) |
@@ -6274,6 +6275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Name Village | 237243 | [237243-no-name-village.json](./237243-no-name-village.json) |
 | No Nap November | 383092 | [383092-no-nap-november.json](./383092-no-nap-november.json) |
 | No Need for Flowers | 334338 | [334338-no-need-for-flowers.json](./334338-no-need-for-flowers.json) |
+| No Observer | 292217 | [292217-no-observer.json](./292217-no-observer.json) |
 | No Offence, But | 126581 | [126581-no-offence-but.json](./126581-no-offence-but.json) |
 | No One | 75394 | [75394-no-one.json](./75394-no-one.json) |
 | No One But You | 19243 | [19243-no-one-but-you.json](./19243-no-one-but-you.json) |
@@ -8359,6 +8361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyanpaya | 252219 | [252219-nyanpaya.json](./252219-nyanpaya.json) |
 | Nyanroo the Supercat | 139370 | [139370-nyanroo-the-supercat.json](./139370-nyanroo-the-supercat.json) |
 | Nyanyanto Mori | 222477 | [222477-nyanyanto-mori.json](./222477-nyanyanto-mori.json) |
+| Nyanzou & Kumakichi Bomb Cave | 291658 | [291658-nyanzou-and-kumakichi-bomb-cave.json](./291658-nyanzou-and-kumakichi-bomb-cave.json) |
 | Nyanzou & Kumakichi: Let's make a flower garden | 271841 | [271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json](./271841-nyanzou-and-kumakichi-lets-make-a-flower-garden.json) |
 | Nyasha | 280076 | [280076-nyasha.json](./280076-nyasha.json) |
 | Nyasha Beach | 115950 | [115950-nyasha-beach.json](./115950-nyasha-beach.json) |
