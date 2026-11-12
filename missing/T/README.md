@@ -2324,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Kibukawa Ryousuke Jiken-tan: Kamen Genei Satsujin Jiken | 298839 | [298839-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken.json](./298839-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Samidare ha Nibiiro no Shirabe | 299362 | [299362-tantei-kibukawa-ryousuke-jiken-tan-samidare-ha-nibiiro-no-shirabe.json](./299362-tantei-kibukawa-ryousuke-jiken-tan-samidare-ha-nibiiro-no-shirabe.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 1 - Kamen Gensou Satsujin Jiken | 293239 | [293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json](./293239-tantei-kibukawa-ryousuke-jiken-tan-vol-1-kamen-gensou-satsujin-jiken.json) |
+| Tantei Kibukawa Ryousuke Jiken-tan: Vol. 2 - Kairoukan Satsujin Jiken | 293276 | [293276-tantei-kibukawa-ryousuke-jiken-tan-vol-2-kairoukan-satsujin-jiken.json](./293276-tantei-kibukawa-ryousuke-jiken-tan-vol-2-kairoukan-satsujin-jiken.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 3 - Shisha no Rakuen | 293903 | [293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json](./293903-tantei-kibukawa-ryousuke-jiken-tan-vol-3-shisha-no-rakuen.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 4 - Shirasagi ni Aka no Hane | 296110 | [296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json](./296110-tantei-kibukawa-ryousuke-jiken-tan-vol-4-shirasagi-ni-aka-no-hane.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan: Vol. 6 - Tsuikou Saku Jiken | 296408 | [296408-tantei-kibukawa-ryousuke-jiken-tan-vol-6-tsuikou-saku-jiken.json](./296408-tantei-kibukawa-ryousuke-jiken-tan-vol-6-tsuikou-saku-jiken.json) |
@@ -2672,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tarinaimono | 108142 | [108142-tarinaimono.json](./108142-tarinaimono.json) |
 | Tarisland | 254235 | [254235-tarisland.json](./254235-tarisland.json) |
 | Tarisland: Season 1 - Blight Dragon Elegy | 314403 | [314403-tarisland-season-1-blight-dragon-elegy.json](./314403-tarisland-season-1-blight-dragon-elegy.json) |
+| Tarkan: Survivor | 293294 | [293294-tarkan-survivor.json](./293294-tarkan-survivor.json) |
 | Tarkus and the Crystal of Fear | 122954 | [122954-tarkus-and-the-crystal-of-fear.json](./122954-tarkus-and-the-crystal-of-fear.json) |
 | Tarlis World | 293667 | [293667-tarlis-world.json](./293667-tarlis-world.json) |
 | Tarmac Legends | 253545 | [253545-tarmac-legends.json](./253545-tarmac-legends.json) |
@@ -5912,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Captain Potato | 107396 | [107396-the-adventures-of-captain-potato.json](./107396-the-adventures-of-captain-potato.json) |
 | The Adventures of Catto Boi | 228831 | [228831-the-adventures-of-catto-boi.json](./228831-the-adventures-of-catto-boi.json) |
 | The Adventures of Catto Boi | 306897 | [306897-the-adventures-of-catto-boi.json](./306897-the-adventures-of-catto-boi.json) |
+| The Adventures of CJ's Closet | 293271 | [293271-the-adventures-of-cjs-closet.json](./293271-the-adventures-of-cjs-closet.json) |
 | The Adventures of Clive McMulligan on Planet Zeta Four | 94774 | [94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json](./94774-the-adventures-of-clive-mcmulligan-on-planet-zeta-four.json) |
 | The Adventures of Crackhead Jack: Overdose Edition | 141156 | [141156-the-adventures-of-crackhead-jack-overdose-edition.json](./141156-the-adventures-of-crackhead-jack-overdose-edition.json) |
 | The Adventures of Darwin | 20371 | [20371-the-adventures-of-darwin.json](./20371-the-adventures-of-darwin.json) |
@@ -16938,6 +16941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Runaway Girl and Me | 254879 | [254879-the-runaway-girl-and-me.json](./254879-the-runaway-girl-and-me.json) |
 | The Runaway Train | 397613 | [397613-the-runaway-train.json](./397613-the-runaway-train.json) |
 | The Runemaster's Diary | 167588 | [167588-the-runemasters-diary.json](./167588-the-runemasters-diary.json) |
+| The Runes of Kalevala | 293303 | [293303-the-runes-of-kalevala.json](./293303-the-runes-of-kalevala.json) |
 | The Runes of Zendos | 299696 | [299696-the-runes-of-zendos.json](./299696-the-runes-of-zendos.json) |
 | The Runesmith | 376438 | [376438-the-runesmith.json](./376438-the-runesmith.json) |
 | The Runner | 377317 | [377317-the-runner.json](./377317-the-runner.json) |
