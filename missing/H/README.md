@@ -11746,6 +11746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hour of Victory | 7011 | [7011-hour-of-victory.json](./7011-hour-of-victory.json) |
 | Hourglass | 122270 | [122270-hourglass.json](./122270-hourglass.json) |
 | Hourglass of Summer | 73005 | [73005-hourglass-of-summer.json](./73005-hourglass-of-summer.json) |
+| Hours After Midnight | 288954 | [288954-hours-after-midnight.json](./288954-hours-after-midnight.json) |
 | House | 140372 | [140372-house.json](./140372-house.json) |
 | House | 342712 | [342712-house.json](./342712-house.json) |
 | House & Hand | 391007 | [391007-house-and-hand.json](./391007-house-and-hand.json) |
