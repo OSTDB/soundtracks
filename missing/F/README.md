@@ -2802,6 +2802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer's Delight | 232679 | [232679-farmers-delight.json](./232679-farmers-delight.json) |
 | Farmer's Diary | 285575 | [285575-farmers-diary.json](./285575-farmers-diary.json) |
 | Farmer's Dynasty | 75102 | [75102-farmers-dynasty.json](./75102-farmers-dynasty.json) |
+| Farmer's Dynasty 2 | 279271 | [279271-farmers-dynasty-2.json](./279271-farmers-dynasty-2.json) |
 | Farmer's Dynasty: Deluxe Edition | 187825 | [187825-farmers-dynasty-deluxe-edition.json](./187825-farmers-dynasty-deluxe-edition.json) |
 | Farmer's Dynasty: Machines Pack | 223549 | [223549-farmers-dynasty-machines-pack.json](./223549-farmers-dynasty-machines-pack.json) |
 | Farmer's Dynasty: Potatoes & Beets | 227417 | [227417-farmers-dynasty-potatoes-and-beets.json](./227417-farmers-dynasty-potatoes-and-beets.json) |
@@ -6581,6 +6582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FireForce Online | 240907 | [240907-fireforce-online.json](./240907-fireforce-online.json) |
 | Firefox | 7970 | [7970-firefox.json](./7970-firefox.json) |
 | Firefox Boulder Dash 01 | 116158 | [116158-firefox-boulder-dash-01.json](./116158-firefox-boulder-dash-01.json) |
+| FireFront | 279368 | [279368-firefront.json](./279368-firefront.json) |
 | Firefrost | 286091 | [286091-firefrost.json](./286091-firefrost.json) |
 | FireFrost Serpent | 425185 | [425185-firefrost-serpent.json](./425185-firefrost-serpent.json) |
 | Firegirl: Hack 'n Splash Rescue | 117527 | [117527-firegirl-hack-n-splash-rescue.json](./117527-firegirl-hack-n-splash-rescue.json) |
@@ -10833,6 +10835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forklift Extreme | 207892 | [207892-forklift-extreme.json](./207892-forklift-extreme.json) |
 | Forklift Extreme Simulator | 239244 | [239244-forklift-extreme-simulator.json](./239244-forklift-extreme-simulator.json) |
 | Forklift Extreme Simulator 2 | 297522 | [297522-forklift-extreme-simulator-2.json](./297522-forklift-extreme-simulator-2.json) |
+| Forklift Extreme: Complete Edition | 279185 | [279185-forklift-extreme-complete-edition.json](./279185-forklift-extreme-complete-edition.json) |
 | Forklift Extreme: Furniture Direct | 246034 | [246034-forklift-extreme-furniture-direct.json](./246034-forklift-extreme-furniture-direct.json) |
 | Forklift Extreme: Impound Lot | 238244 | [238244-forklift-extreme-impound-lot.json](./238244-forklift-extreme-impound-lot.json) |
 | Forklift Extreme: Military Storage | 238245 | [238245-forklift-extreme-military-storage.json](./238245-forklift-extreme-military-storage.json) |
@@ -12380,6 +12383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Trip: Spring Pack | 275055 | [275055-freaky-trip-spring-pack.json](./275055-freaky-trip-spring-pack.json) |
 | Freaky Trip: Summer Pack | 275058 | [275058-freaky-trip-summer-pack.json](./275058-freaky-trip-summer-pack.json) |
 | Freaky Trip: Superb Edition | 315864 | [315864-freaky-trip-superb-edition.json](./315864-freaky-trip-superb-edition.json) |
+| Freaky Trip: Ultimate Edition | 279192 | [279192-freaky-trip-ultimate-edition.json](./279192-freaky-trip-ultimate-edition.json) |
 | Freaky Trip: Ultra Deluxe | 324463 | [324463-freaky-trip-ultra-deluxe.json](./324463-freaky-trip-ultra-deluxe.json) |
 | Freaky Trip: Winter Pack | 275052 | [275052-freaky-trip-winter-pack.json](./275052-freaky-trip-winter-pack.json) |
 | Freakyforms: Your Creations, Alive! | 6771 | [6771-freakyforms-your-creations-alive.json](./6771-freakyforms-your-creations-alive.json) |
