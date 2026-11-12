@@ -99,6 +99,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.I.R: Death is Random | 186604 | [186604-d-i-r-death-is-random.json](./186604-d-i-r-death-is-random.json) |
 | D.i.R.T.: Origin of the Species | 69154 | [69154-d-i-r-t-origin-of-the-species.json](./69154-d-i-r-t-origin-of-the-species.json) |
 | D.I.S Airport | 123165 | [123165-d-i-s-airport.json](./123165-d-i-s-airport.json) |
+| D.K.R. DMG | 297262 | [297262-d-k-r-dmg.json](./297262-d-k-r-dmg.json) |
 | D.M.D Ping Pong Game | 199791 | [199791-d-m-d-ping-pong-game.json](./199791-d-m-d-ping-pong-game.json) |
 | D.M.T | 135004 | [135004-d-m-t.json](./135004-d-m-t.json) |
 | D.N. Angel: Crimson Wings | 67374 | [67374-d-n-angel-crimson-wings.json](./67374-d-n-angel-crimson-wings.json) |
@@ -5631,6 +5632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Dark Forest | 151724 | [151724-deep-dark-forest.json](./151724-deep-dark-forest.json) |
 | Deep Dark Labyrinth | 101264 | [101264-deep-dark-labyrinth.json](./101264-deep-dark-labyrinth.json) |
 | Deep Dark Space | 282012 | [282012-deep-dark-space.json](./282012-deep-dark-space.json) |
+| Deep Dark Wood | 297256 | [297256-deep-dark-wood.json](./297256-deep-dark-wood.json) |
 | Deep Dark Wrath | 293330 | [293330-deep-dark-wrath.json](./293330-deep-dark-wrath.json) |
 | Deep Dark Wrath: Frost Flower | 385573 | [385573-deep-dark-wrath-frost-flower.json](./385573-deep-dark-wrath-frost-flower.json) |
 | Deep Dead | 323811 | [323811-deep-dead.json](./323811-deep-dead.json) |
@@ -7065,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Island | 301576 | [301576-demons-island.json](./301576-demons-island.json) |
 | Demon's Mirror | 152170 | [152170-demons-mirror.json](./152170-demons-mirror.json) |
 | Demon's Nightmare: Ar Ek-Qua Er Seta | 177704 | [177704-demons-nightmare-ar-ek-qua-er-seta.json](./177704-demons-nightmare-ar-ek-qua-er-seta.json) |
+| Demon's Regalia: Colosseum | 296708 | [296708-demons-regalia-colosseum.json](./296708-demons-regalia-colosseum.json) |
 | Demon’s Reign | 398098 | [398098-demon-s-reign.json](./398098-demon-s-reign.json) |
 | Demon's Residence | 164275 | [164275-demons-residence.json](./164275-demons-residence.json) |
 | Demon's Residence | 207878 | [207878-demons-residence.json](./207878-demons-residence.json) |
@@ -12649,6 +12652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogchild | 59062 | [59062-dogchild.json](./59062-dogchild.json) |
 | Dogcoin | 54854 | [54854-dogcoin.json](./54854-dogcoin.json) |
 | DogDay | 92948 | [92948-dogday.json](./92948-dogday.json) |
+| DogDogDog | 296710 | [296710-dogdogdog.json](./296710-dogdogdog.json) |
 | Doge and the Lost Kitten | 103409 | [103409-doge-and-the-lost-kitten.json](./103409-doge-and-the-lost-kitten.json) |
 | Doge Dash | 185916 | [185916-doge-dash.json](./185916-doge-dash.json) |
 | Doge Dimensions | 187527 | [187527-doge-dimensions.json](./187527-doge-dimensions.json) |
@@ -13815,6 +13819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donkey Kong no Ongaku Asobi | 131901 | [131901-donkey-kong-no-ongaku-asobi.json](./131901-donkey-kong-no-ongaku-asobi.json) |
 | Donkey Kong On The Run | 308721 | [308721-donkey-kong-on-the-run.json](./308721-donkey-kong-on-the-run.json) |
 | Donkey Kong Pac-Man Crossover | 290237 | [290237-donkey-kong-pac-man-crossover.json](./290237-donkey-kong-pac-man-crossover.json) |
+| Donkey Kong Parking Attendant Arcade Game | 297265 | [297265-donkey-kong-parking-attendant-arcade-game.json](./297265-donkey-kong-parking-attendant-arcade-game.json) |
 | Donkey Kong Plus | 185889 | [185889-donkey-kong-plus.json](./185889-donkey-kong-plus.json) |
 | Donkey Kong Racing | 85577 | [85577-donkey-kong-racing.json](./85577-donkey-kong-racing.json) |
 | Donkey Kong Redux | 331437 | [331437-donkey-kong-redux.json](./331437-donkey-kong-redux.json) |
