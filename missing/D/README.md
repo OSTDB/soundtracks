@@ -1560,6 +1560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Core | 110763 | [110763-dark-core.json](./110763-dark-core.json) |
 | Dark Corridors | 225199 | [225199-dark-corridors.json](./225199-dark-corridors.json) |
 | Dark Country | 179816 | [179816-dark-country.json](./179816-dark-country.json) |
+| Dark Covenant | 273067 | [273067-dark-covenant.json](./273067-dark-covenant.json) |
 | Dark Craft | 379935 | [379935-dark-craft.json](./379935-dark-craft.json) |
 | Dark Cravings | 199276 | [199276-dark-cravings.json](./199276-dark-cravings.json) |
 | Dark Crescent | 404660 | [404660-dark-crescent.json](./404660-dark-crescent.json) |
@@ -5134,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death's Dichotomy | 261173 | [261173-deaths-dichotomy.json](./261173-deaths-dichotomy.json) |
 | Death's Door: Ultimate Edition | 206673 | [206673-deaths-door-ultimate-edition.json](./206673-deaths-door-ultimate-edition.json) |
 | Death's Dungeon | 235671 | [235671-deaths-dungeon.json](./235671-deaths-dungeon.json) |
+| Death's End | 273516 | [273516-deaths-end.json](./273516-deaths-end.json) |
 | Death's Gambit: Afterlife | 152130 | [152130-deaths-gambit-afterlife.json](./152130-deaths-gambit-afterlife.json) |
 | Death's Gambit: Afterlife - Ashes of Vados | 193750 | [193750-deaths-gambit-afterlife-ashes-of-vados.json](./193750-deaths-gambit-afterlife-ashes-of-vados.json) |
 | Death's Gambit: Afterlife - Definitive Edition | 170045 | [170045-deaths-gambit-afterlife-definitive-edition.json](./170045-deaths-gambit-afterlife-definitive-edition.json) |
@@ -6262,6 +6264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of the Oasis | 138395 | [138395-defense-of-the-oasis.json](./138395-defense-of-the-oasis.json) |
 | Defense of the Sodomites | 336679 | [336679-defense-of-the-sodomites.json](./336679-defense-of-the-sodomites.json) |
 | Defense of Wancotte | 386079 | [386079-defense-of-wancotte.json](./386079-defense-of-wancotte.json) |
+| Defense Protocol | 273597 | [273597-defense-protocol.json](./273597-defense-protocol.json) |
 | Defense Task Force | 83619 | [83619-defense-task-force.json](./83619-defense-task-force.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
@@ -7005,6 +7008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Party | 197847 | [197847-demon-party.json](./197847-demon-party.json) |
 | Demon Path: Tower of Armagor | 215904 | [215904-demon-path-tower-of-armagor.json](./215904-demon-path-tower-of-armagor.json) |
 | Demon Pit | 121718 | [121718-demon-pit.json](./121718-demon-pit.json) |
+| Demon Plague | 273068 | [273068-demon-plague.json](./273068-demon-plague.json) |
 | Demon Positive | 376657 | [376657-demon-positive.json](./376657-demon-positive.json) |
 | Demon Protocol | 417467 | [417467-demon-protocol.json](./417467-demon-protocol.json) |
 | Demon Purge Saga | 157277 | [157277-demon-purge-saga.json](./157277-demon-purge-saga.json) |
@@ -11962,6 +11966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Orbit | 398801 | [398801-divine-orbit.json](./398801-divine-orbit.json) |
 | Divine Orders | 333108 | [333108-divine-orders.json](./333108-divine-orders.json) |
 | Divine Pearl: Survivors | 248090 | [248090-divine-pearl-survivors.json](./248090-divine-pearl-survivors.json) |
+| Divine Pig | 273603 | [273603-divine-pig.json](./273603-divine-pig.json) |
 | Divine Prophecy | 273506 | [273506-divine-prophecy.json](./273506-divine-prophecy.json) |
 | Divine Right | 175240 | [175240-divine-right.json](./175240-divine-right.json) |
 | Divine Rush | 295638 | [295638-divine-rush.json](./295638-divine-rush.json) |
@@ -14160,6 +14165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 32X: Resurrection | 308728 | [308728-doom-32x-resurrection.json](./308728-doom-32x-resurrection.json) |
 | Doom 4 For Doom | 201182 | [201182-doom-4-for-doom.json](./201182-doom-4-for-doom.json) |
 | Doom 4 Vanilla | 144158 | [144158-doom-4-vanilla.json](./144158-doom-4-vanilla.json) |
+| Doom 404 | 273065 | [273065-doom-404.json](./273065-doom-404.json) |
 | Doom 64 EX | 50250 | [50250-doom-64-ex.json](./50250-doom-64-ex.json) |
 | Doom 64 for Doom II | 201106 | [201106-doom-64-for-doom-ii.json](./201106-doom-64-for-doom-ii.json) |
 | Doom 64 for Dreamcast | 346123 | [346123-doom-64-for-dreamcast.json](./346123-doom-64-for-dreamcast.json) |
