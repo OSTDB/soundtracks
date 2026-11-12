@@ -2089,6 +2089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigzo | 363576 | [363576-jigzo.json](./363576-jigzo.json) |
 | JigZone | 254712 | [254712-jigzone.json](./254712-jigzone.json) |
 | Jiji and the Mysterious Forest: Chapter 1 | 122566 | [122566-jiji-and-the-mysterious-forest-chapter-1.json](./122566-jiji-and-the-mysterious-forest-chapter-1.json) |
+| Jiji Mago: Old & Young RPG mini | 272516 | [272516-jiji-mago-old-and-young-rpg-mini.json](./272516-jiji-mago-old-and-young-rpg-mini.json) |
 | Jiji the Bajillionaire | 366577 | [366577-jiji-the-bajillionaire.json](./366577-jiji-the-bajillionaire.json) |
 | Jiji...Love | 329715 | [329715-jiji-love.json](./329715-jiji-love.json) |
 | Jikai Shounen Mettomag | 41321 | [41321-jikai-shounen-mettomag.json](./41321-jikai-shounen-mettomag.json) |
