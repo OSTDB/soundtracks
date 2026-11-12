@@ -17700,6 +17700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamWorks Dragons: Legends of the Nine Realms | 202418 | [202418-dreamworks-dragons-legends-of-the-nine-realms.json](./202418-dreamworks-dragons-legends-of-the-nine-realms.json) |
 | Dreamworks Dragons: Wild Skies | 321022 | [321022-dreamworks-dragons-wild-skies.json](./321022-dreamworks-dragons-wild-skies.json) |
 | Dreamworks Interactive DVD Game | 364523 | [364523-dreamworks-interactive-dvd-game.json](./364523-dreamworks-interactive-dvd-game.json) |
+| DreamWorks Kids Bundle | 263243 | [263243-dreamworks-kids-bundle.json](./263243-dreamworks-kids-bundle.json) |
 | DreamWorks Movie Night | 228916 | [228916-dreamworks-movie-night.json](./228916-dreamworks-movie-night.json) |
 | DreamWorks Super Star Kartz | 3672 | [3672-dreamworks-super-star-kartz.json](./3672-dreamworks-super-star-kartz.json) |
 | DreamWorks Super Star Kartz | 47435 | [47435-dreamworks-super-star-kartz.json](./47435-dreamworks-super-star-kartz.json) |
