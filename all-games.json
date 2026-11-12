@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-12T00:56:01.384Z",
-  "total_soundtracks": 3225,
+  "generated_at": "2026-11-12T01:06:39.577Z",
+  "total_soundtracks": 3234,
   "games": [
     {
       "igdb_id": 7522,
@@ -3877,6 +3877,20 @@
         {
           "album_name": "Behold the Kickmen (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5h6JTkUGNAUCORd608dPiD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 244040,
+      "game_name": "Bellwright",
+      "game_url": "https://ostdb.net/games/bellwright",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732bfb4b8521f55230a4d78621",
+      "albums": [
+        {
+          "album_name": "Bellwright (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/32X4injDVhIyAqMQYYBsuw",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -9857,6 +9871,20 @@
         {
           "album_name": "Door Kickers: Action Squad (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1dqJ5CApwk5kl1TE3nPOGn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 290647,
+      "game_name": "Doronko Wanko",
+      "game_url": "https://ostdb.net/games/doronko-wanko",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732cce9fc95889fe1bfd70d8e2",
+      "albums": [
+        {
+          "album_name": "DORONKO WANKO Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7y5keaM7ESwfCAAINLvOGm",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -26283,6 +26311,20 @@
       ]
     },
     {
+      "igdb_id": 229093,
+      "game_name": "Rabbit & Steel",
+      "game_url": "https://ostdb.net/games/rabbit-and-steel",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a513591e876a5f4c49e98a3e",
+      "albums": [
+        {
+          "album_name": "RABBIT & STEEL (ORIGINAL SOUNDTRACK)",
+          "spotify_url": "https://open.spotify.com/album/1j381ETnIV2sjnjq2ZiKTS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 28545,
       "game_name": "Rabi-Ribi",
       "game_url": "https://ostdb.net/games/rabi-ribi",
@@ -32099,6 +32141,20 @@
       ]
     },
     {
+      "igdb_id": 250155,
+      "game_name": "Station to Station",
+      "game_url": "https://ostdb.net/games/station-to-station",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27315b44d2926c7cd2a72ed3987",
+      "albums": [
+        {
+          "album_name": "Station to Station (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4snfrxBEFOZd8uas9g2Hjy",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 37294,
       "game_name": "Staxel",
       "game_url": "https://ostdb.net/games/staxel",
@@ -33369,6 +33425,20 @@
       ]
     },
     {
+      "igdb_id": 266719,
+      "game_name": "Tales of Arise: Beyond the Dawn",
+      "game_url": "https://ostdb.net/games/tales-of-arise-beyond-the-dawn",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e1435b4287f78475a56cf4ed",
+      "albums": [
+        {
+          "album_name": "TALES OF ARISE - Beyond the Dawn Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2HL2ppkJtrzXl1lu96JVGY",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1211,
       "game_name": "Tales of Graces",
       "game_url": "https://ostdb.net/games/tales-of-graces",
@@ -33617,6 +33687,20 @@
           "spotify_url": "https://open.spotify.com/album/2RjhOXOFZVg0apz7YdCYxM",
           "apple_music_url": "https://music.apple.com/us/album/teenage-mutant-ninja-turtles-shredders-revenge-original/1627546793",
           "album_link_url": "https://album.link/i/1627546793"
+        }
+      ]
+    },
+    {
+      "igdb_id": 252825,
+      "game_name": "Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock",
+      "game_url": "https://ostdb.net/games/teenage-mutant-ninja-turtles-shredders-revenge-dimension-shellshock",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27303514148f9bb4c4f3314f525",
+      "albums": [
+        {
+          "album_name": "Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5jPWyFBhJ0h8FXemj28BRH",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -35253,6 +35337,20 @@
       ]
     },
     {
+      "igdb_id": 240893,
+      "game_name": "The Lamplighters League",
+      "game_url": "https://ostdb.net/games/the-lamplighters-league",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27372e0c83e151ea3bd74ae13d4",
+      "albums": [
+        {
+          "album_name": "The Lamplighters League (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5MsYeFYCvYsJjOfCrjVt09",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 133896,
       "game_name": "The Last Faith",
       "game_url": "https://ostdb.net/games/the-last-faith",
@@ -35288,6 +35386,20 @@
           "album_name": "「The Last Guardian」ORIGINAL SOUNDTRACK (2023 Remaster)",
           "spotify_url": "https://open.spotify.com/album/5HQiXqJIddrZGsLpb4C7M1",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 214707,
+      "game_name": "The Last Hero of Nostalgaia",
+      "game_url": "https://ostdb.net/games/the-last-hero-of-nostalgaia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c3db399d8fc5c44f0c6fe579",
+      "albums": [
+        {
+          "album_name": "The Last Hero of Nostalgaia (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6HXDMWzgZyyJ0BuVHE4DRc",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -37211,6 +37323,20 @@
         {
           "album_name": "Total War: Attila (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6keTfnCqLmpsLjfCEm2YPL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 250531,
+      "game_name": "Total War: Pharaoh",
+      "game_url": "https://ostdb.net/games/total-war-pharaoh",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273043f8ae1e4ba6948c4ecde1c",
+      "albums": [
+        {
+          "album_name": "Total War: Pharaoh (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3xhGqMVLVighjSZ8BFJPmZ",
           "apple_music_url": "",
           "album_link_url": ""
         }
