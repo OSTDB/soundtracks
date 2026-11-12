@@ -2441,6 +2441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banzai Pecan: The Last Hope For the Young Century | 35947 | [35947-banzai-pecan-the-last-hope-for-the-young-century.json](./35947-banzai-pecan-the-last-hope-for-the-young-century.json) |
 | Banzai Royale | 105476 | [105476-banzai-royale.json](./105476-banzai-royale.json) |
 | Banzai Run | 85772 | [85772-banzai-run.json](./85772-banzai-run.json) |
+| Banzai's Addon | 276374 | [276374-banzais-addon.json](./276374-banzais-addon.json) |
 | Banzo: Marks of Slavery | 105199 | [105199-banzo-marks-of-slavery.json](./105199-banzo-marks-of-slavery.json) |
 | Bao | 167577 | [167577-bao.json](./167577-bao.json) |
 | Bao Bao's Cozy Cleaning Services | 375527 | [375527-bao-baos-cozy-cleaning-services.json](./375527-bao-baos-cozy-cleaning-services.json) |
@@ -11801,6 +11802,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Camp | 193140 | [193140-blood-camp.json](./193140-blood-camp.json) |
 | Blood Card | 109850 | [109850-blood-card.json](./109850-blood-card.json) |
 | Blood Card 2: Dark Mist | 151994 | [151994-blood-card-2-dark-mist.json](./151994-blood-card-2-dark-mist.json) |
+| Blood Chronicles Volume 1 | 276369 | [276369-blood-chronicles-volume-1.json](./276369-blood-chronicles-volume-1.json) |
+| Blood Chronicles Volume 2 | 276370 | [276370-blood-chronicles-volume-2.json](./276370-blood-chronicles-volume-2.json) |
 | Blood City | 108386 | [108386-blood-city.json](./108386-blood-city.json) |
 | Blood Cleaner | 322804 | [322804-blood-cleaner.json](./322804-blood-cleaner.json) |
 | Blood Clicker | 400597 | [400597-blood-clicker.json](./400597-blood-clicker.json) |
@@ -18548,6 +18551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buku Sudoku Mahjongg Kakuro | 206693 | [206693-buku-sudoku-mahjongg-kakuro.json](./206693-buku-sudoku-mahjongg-kakuro.json) |
 | Bul Bakalım | 241468 | [241468-bul-bakal-m.json](./241468-bul-bakal-m.json) |
 | Bulanci | 135291 | [135291-bulanci.json](./135291-bulanci.json) |
+| Bulanci | 276357 | [276357-bulanci.json](./276357-bulanci.json) |
 | Bulanci: Hero Factory | 267668 | [267668-bulanci-hero-factory.json](./267668-bulanci-hero-factory.json) |
 | Bulanci: Map Pack | 267669 | [267669-bulanci-map-pack.json](./267669-bulanci-map-pack.json) |
 | Bulb Boy | 14393 | [14393-bulb-boy.json](./14393-bulb-boy.json) |
@@ -19233,6 +19237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BurgerTime | 199462 | [199462-burgertime.json](./199462-burgertime.json) |
 | BurgerTime | 199470 | [199470-burgertime.json](./199470-burgertime.json) |
 | BurgerTime | 246390 | [246390-burgertime.json](./246390-burgertime.json) |
+| BurgerTime | 276442 | [276442-burgertime.json](./276442-burgertime.json) |
 | BurgerTime | 276443 | [276443-burgertime.json](./276443-burgertime.json) |
 | BurgerTime | 367881 | [367881-burgertime.json](./367881-burgertime.json) |
 | BurgerTime | 4609 | [4609-burgertime.json](./4609-burgertime.json) |
