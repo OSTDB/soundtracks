@@ -310,6 +310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Hero: Under the Sea | 55437 | [55437-raccoon-hero-under-the-sea.json](./55437-raccoon-hero-under-the-sea.json) |
 | Raccoon Lagoon | 133388 | [133388-raccoon-lagoon.json](./133388-raccoon-lagoon.json) |
 | Raccoon Laundering | 307129 | [307129-raccoon-laundering.json](./307129-raccoon-laundering.json) |
+| Raccoon on a Boat | 313523 | [313523-raccoon-on-a-boat.json](./313523-raccoon-on-a-boat.json) |
 | Raccoon Out | 300017 | [300017-raccoon-out.json](./300017-raccoon-out.json) |
 | Raccoon Packer | 403184 | [403184-raccoon-packer.json](./403184-raccoon-packer.json) |
 | Raccoon Party | 401696 | [401696-raccoon-party.json](./401696-raccoon-party.json) |
