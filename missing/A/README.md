@@ -17337,6 +17337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Maze | 367767 | [367767-astro-maze.json](./367767-astro-maze.json) |
 | Astro Miner | 276945 | [276945-astro-miner.json](./276945-astro-miner.json) |
 | Astro Miner: Cave Adventure | 294857 | [294857-astro-miner-cave-adventure.json](./294857-astro-miner-cave-adventure.json) |
+| Astro Miner: Caves | 311397 | [311397-astro-miner-caves.json](./311397-astro-miner-caves.json) |
 | Astro Miner: Complete Edition | 280601 | [280601-astro-miner-complete-edition.json](./280601-astro-miner-complete-edition.json) |
 | Astro Miner: Moon Landing | 288310 | [288310-astro-miner-moon-landing.json](./288310-astro-miner-moon-landing.json) |
 | Astro Miner: Moons | 276946 | [276946-astro-miner-moons.json](./276946-astro-miner-moons.json) |
