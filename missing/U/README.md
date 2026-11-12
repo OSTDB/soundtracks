@@ -1906,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Security Inc | 367984 | [367984-underground-security-inc.json](./367984-underground-security-inc.json) |
 | Underground Sheriff | 223386 | [223386-underground-sheriff.json](./223386-underground-sheriff.json) |
 | Underground Station | 313227 | [313227-underground-station.json](./313227-underground-station.json) |
+| Underground Turtle Races | 309773 | [309773-underground-turtle-races.json](./309773-underground-turtle-races.json) |
 | Underground Waifus TCG | 273365 | [273365-underground-waifus-tcg.json](./273365-underground-waifus-tcg.json) |
 | Underground Warriors | 175059 | [175059-underground-warriors.json](./175059-underground-warriors.json) |
 | Underground-Mining-Simulator 2011 | 53938 | [53938-underground-mining-simulator-2011.json](./53938-underground-mining-simulator-2011.json) |
@@ -3409,6 +3410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uprising-X | 45030 | [45030-uprising-x.json](./45030-uprising-x.json) |
 | Uprising: Humanum | 248903 | [248903-uprising-humanum.json](./248903-uprising-humanum.json) |
 | Uprising: Join or Die | 32768 | [32768-uprising-join-or-die.json](./32768-uprising-join-or-die.json) |
+| Uprising: Kingdom Come | 310232 | [310232-uprising-kingdom-come.json](./310232-uprising-kingdom-come.json) |
 | Uprising44: The Silent Shadows | 92480 | [92480-uprising44-the-silent-shadows.json](./92480-uprising44-the-silent-shadows.json) |
 | Uprising44: The Silent Shadows | 9436 | [9436-uprising44-the-silent-shadows.json](./9436-uprising44-the-silent-shadows.json) |
 | Uprk.cz | 161891 | [161891-uprk-cz.json](./161891-uprk-cz.json) |
