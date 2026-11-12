@@ -1024,7 +1024,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -15653,6 +15652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Memory: Director's Cut | 261365 | [261365-brain-memory-directors-cut.json](./261365-brain-memory-directors-cut.json) |
 | Brain Memory: Game of the Year Edition | 266167 | [266167-brain-memory-game-of-the-year-edition.json](./266167-brain-memory-game-of-the-year-edition.json) |
 | Brain Memory: Legendary Edition | 249562 | [249562-brain-memory-legendary-edition.json](./249562-brain-memory-legendary-edition.json) |
+| Brain Memory: Magnificent Edition | 279194 | [279194-brain-memory-magnificent-edition.json](./279194-brain-memory-magnificent-edition.json) |
 | Brain Memory: Platinum Edition | 256763 | [256763-brain-memory-platinum-edition.json](./256763-brain-memory-platinum-edition.json) |
 | Brain Memory: Premium Edition | 241394 | [241394-brain-memory-premium-edition.json](./241394-brain-memory-premium-edition.json) |
 | Brain Off | 172101 | [172101-brain-off.json](./172101-brain-off.json) |
@@ -16081,6 +16081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawl Chess: Deluxe Edition | 220934 | [220934-brawl-chess-deluxe-edition.json](./220934-brawl-chess-deluxe-edition.json) |
 | Brawl Chess: Dwarf | 403414 | [403414-brawl-chess-dwarf.json](./403414-brawl-chess-dwarf.json) |
 | Brawl Chess: Elf | 403415 | [403415-brawl-chess-elf.json](./403415-brawl-chess-elf.json) |
+| Brawl Chess: Extended Edition | 279188 | [279188-brawl-chess-extended-edition.json](./279188-brawl-chess-extended-edition.json) |
 | Brawl Chess: Fairy | 403416 | [403416-brawl-chess-fairy.json](./403416-brawl-chess-fairy.json) |
 | Brawl Chess: Fantasy Edition | 274483 | [274483-brawl-chess-fantasy-edition.json](./274483-brawl-chess-fantasy-edition.json) |
 | Brawl Chess: Gambit | 163684 | [163684-brawl-chess-gambit.json](./163684-brawl-chess-gambit.json) |
