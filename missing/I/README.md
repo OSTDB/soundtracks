@@ -6914,6 +6914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isoland 3: Dust of the Universe | 130096 | [130096-isoland-3-dust-of-the-universe.json](./130096-isoland-3-dust-of-the-universe.json) |
 | Isoland: Pumpkin Town | 319215 | [319215-isoland-pumpkin-town.json](./319215-isoland-pumpkin-town.json) |
 | Isoland: The Amusement Park | 141258 | [141258-isoland-the-amusement-park.json](./141258-isoland-the-amusement-park.json) |
+| Isoland4: The Anchor of Memory | 288973 | [288973-isoland4-the-anchor-of-memory.json](./288973-isoland4-the-anchor-of-memory.json) |
 | Isolani | 22394 | [22394-isolani.json](./22394-isolani.json) |
 | Isolania | 202471 | [202471-isolania.json](./202471-isolania.json) |
 | Isolate | 192256 | [192256-isolate.json](./192256-isolate.json) |
