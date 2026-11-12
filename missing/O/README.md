@@ -588,6 +588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octo Curse | 251015 | [251015-octo-curse.json](./251015-octo-curse.json) |
 | Octo Gravity | 104203 | [104203-octo-gravity.json](./104203-octo-gravity.json) |
 | Octo Vinctum: Saga of the Galactic Stardom War | 197124 | [197124-octo-vinctum-saga-of-the-galactic-stardom-war.json](./197124-octo-vinctum-saga-of-the-galactic-stardom-war.json) |
+| Octo-push | 277470 | [277470-octo-push.json](./277470-octo-push.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
 | October Night Games | 138514 | [138514-october-night-games.json](./138514-october-night-games.json) |
 | October Nightmares | 272341 | [272341-october-nightmares.json](./272341-october-nightmares.json) |
@@ -1719,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OloFight | 73066 | [73066-olofight.json](./73066-olofight.json) |
 | Oloo | 383417 | [383417-oloo.json](./383417-oloo.json) |
 | Olorun: Theocracy | 108636 | [108636-olorun-theocracy.json](./108636-olorun-theocracy.json) |
+| Olsenbanden Jr. I Vikingenes Fotspor | 277477 | [277477-olsenbanden-jr-i-vikingenes-fotspor.json](./277477-olsenbanden-jr-i-vikingenes-fotspor.json) |
 | Olson's Boxing Challenge | 75667 | [75667-olsons-boxing-challenge.json](./75667-olsons-boxing-challenge.json) |
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
 | Olu | 100249 | [100249-olu.json](./100249-olu.json) |
