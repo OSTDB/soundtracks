@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oni | 2413 | [2413-oni.json](./2413-oni.json) |
 | Oni | 365784 | [365784-oni.json](./365784-oni.json) |
 | Oni | 384838 | [384838-oni.json](./384838-oni.json) |
+| Oni 2 | 289592 | [289592-oni-2.json](./289592-oni-2.json) |
 | Oni Academy | 257980 | [257980-oni-academy.json](./257980-oni-academy.json) |
 | Oni Ama: Watashi ni Amaete, Onii-chan | 145052 | [145052-oni-ama-watashi-ni-amaete-onii-chan.json](./145052-oni-ama-watashi-ni-amaete-onii-chan.json) |
 | Oni Ama: Watashi ni Amaete, Onii-chan - Limited Edition | 166985 | [166985-oni-ama-watashi-ni-amaete-onii-chan-limited-edition.json](./166985-oni-ama-watashi-ni-amaete-onii-chan-limited-edition.json) |
@@ -4965,6 +4966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Cross: Pretty Boys Klondike Solitaire | 207751 | [207751-otoko-cross-pretty-boys-klondike-solitaire.json](./207751-otoko-cross-pretty-boys-klondike-solitaire.json) |
 | Otoko Cross: Pretty Boys Mahjong Solitaire | 199569 | [199569-otoko-cross-pretty-boys-mahjong-solitaire.json](./199569-otoko-cross-pretty-boys-mahjong-solitaire.json) |
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
+| Otoko Orgy at Maid Boy Manor | 289518 | [289518-otoko-orgy-at-maid-boy-manor.json](./289518-otoko-orgy-at-maid-boy-manor.json) |
 | Otokonoko Fishing | 283848 | [283848-otokonoko-fishing.json](./283848-otokonoko-fishing.json) |
 | Otomaid @ Cafe | 191361 | [191361-otomaid-cafe.json](./191361-otomaid-cafe.json) |
 | Otome Chat Connection | 199051 | [199051-otome-chat-connection.json](./199051-otome-chat-connection.json) |
