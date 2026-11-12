@@ -10621,6 +10621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sicko Island | 160200 | [160200-sicko-island.json](./160200-sicko-island.json) |
 | Sicko Sanctum 2 | 273904 | [273904-sicko-sanctum-2.json](./273904-sicko-sanctum-2.json) |
 | SickOw | 266023 | [266023-sickow.json](./266023-sickow.json) |
+| SickWay VR | 311902 | [311902-sickway-vr.json](./311902-sickway-vr.json) |
 | Sico: Special Insurgency Counter Operations | 174813 | [174813-sico-special-insurgency-counter-operations.json](./174813-sico-special-insurgency-counter-operations.json) |
 | Sid & Al's Incredible Toons | 80152 | [80152-sid-and-als-incredible-toons.json](./80152-sid-and-als-incredible-toons.json) |
 | Sid & Marty Krofft's Land of the Lost | 217725 | [217725-sid-and-marty-kroffts-land-of-the-lost.json](./217725-sid-and-marty-kroffts-land-of-the-lost.json) |
