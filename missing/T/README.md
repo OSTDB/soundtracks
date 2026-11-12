@@ -7899,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clown's Forest: Shadows of Blood | 420060 | [420060-the-clowns-forest-shadows-of-blood.json](./420060-the-clowns-forest-shadows-of-blood.json) |
 | The Club | 352992 | [352992-the-club.json](./352992-the-club.json) |
 | The Club | 6940 | [6940-the-club.json](./6940-the-club.json) |
+| The Clubies | 263168 | [263168-the-clubies.json](./263168-the-clubies.json) |
 | The Clue Club: Animal Detectives | 207122 | [207122-the-clue-club-animal-detectives.json](./207122-the-clue-club-animal-detectives.json) |
 | The ClueFinders 4th Grade Adventures: Puzzle of the Pyramid | 73694 | [73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json](./73694-the-cluefinders-4th-grade-adventures-puzzle-of-the-pyramid.json) |
 | The ClueFinders 6th Grade Adventures: The Empire of the Plant People | 142139 | [142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json](./142139-the-cluefinders-6th-grade-adventures-the-empire-of-the-plant-people.json) |
@@ -8821,6 +8822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demon Crystal | 47555 | [47555-the-demon-crystal.json](./47555-the-demon-crystal.json) |
 | The Demon Crystal 2: Knither | 115534 | [115534-the-demon-crystal-2-knither.json](./115534-the-demon-crystal-2-knither.json) |
 | The Demon Crystal 3: Dark Storm | 115538 | [115538-the-demon-crystal-3-dark-storm.json](./115538-the-demon-crystal-3-dark-storm.json) |
+| The Demon King takes Revenge! Card Battle!! | 263167 | [263167-the-demon-king-takes-revenge-card-battle.json](./263167-the-demon-king-takes-revenge-card-battle.json) |
 | The Demon Lord and the Guardian Knights | 134641 | [134641-the-demon-lord-and-the-guardian-knights.json](./134641-the-demon-lord-and-the-guardian-knights.json) |
 | The Demon Lord is Mine! | 215189 | [215189-the-demon-lord-is-mine.json](./215189-the-demon-lord-is-mine.json) |
 | The Demon Lord is New in Town! | 159736 | [159736-the-demon-lord-is-new-in-town.json](./159736-the-demon-lord-is-new-in-town.json) |
@@ -8834,6 +8836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demon's Core | 408448 | [408448-the-demons-core.json](./408448-the-demons-core.json) |
 | The Demon's Exorcism | 296472 | [296472-the-demons-exorcism.json](./296472-the-demons-exorcism.json) |
 | The Demon's Forge | 24887 | [24887-the-demons-forge.json](./24887-the-demons-forge.json) |
+| The Demon's Lust | 263166 | [263166-the-demons-lust.json](./263166-the-demons-lust.json) |
 | The Demon's Room | 330580 | [330580-the-demons-room.json](./330580-the-demons-room.json) |
 | The Demon's Table | 418635 | [418635-the-demons-table.json](./418635-the-demons-table.json) |
 | The Demonized | 340389 | [340389-the-demonized.json](./340389-the-demonized.json) |
@@ -13830,6 +13833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Letter: Classic Edition | 224891 | [224891-the-letter-classic-edition.json](./224891-the-letter-classic-edition.json) |
 | The Levels of Backrooms | 217462 | [217462-the-levels-of-backrooms.json](./217462-the-levels-of-backrooms.json) |
 | The Leverage Game | 263103 | [263103-the-leverage-game.json](./263103-the-leverage-game.json) |
+| The Leverage Game: Business Edition | 263162 | [263162-the-leverage-game-business-edition.json](./263162-the-leverage-game-business-edition.json) |
 | The Leviathan's Fantasy | 268058 | [268058-the-leviathans-fantasy.json](./268058-the-leviathans-fantasy.json) |
 | The Leviathan's Fantasy: DLC | 289327 | [289327-the-leviathans-fantasy-dlc.json](./289327-the-leviathans-fantasy-dlc.json) |
 | The Leviathan's Fantasy: Mechanical Crisis | 329013 | [329013-the-leviathans-fantasy-mechanical-crisis.json](./329013-the-leviathans-fantasy-mechanical-crisis.json) |
@@ -20905,6 +20909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - 2021 Edition | 140946 | [140946-thehunter-call-of-the-wild-2021-edition.json](./140946-thehunter-call-of-the-wild-2021-edition.json) |
 | TheHunter: Call of the Wild - Alberta Hunting Preserve | 355064 | [355064-thehunter-call-of-the-wild-alberta-hunting-preserve.json](./355064-thehunter-call-of-the-wild-alberta-hunting-preserve.json) |
 | TheHunter: Call of the Wild - Ambusher Pack | 272290 | [272290-thehunter-call-of-the-wild-ambusher-pack.json](./272290-thehunter-call-of-the-wild-ambusher-pack.json) |
+| TheHunter: Call of the Wild - Assorted Sidearms Pack | 263163 | [263163-thehunter-call-of-the-wild-assorted-sidearms-pack.json](./263163-thehunter-call-of-the-wild-assorted-sidearms-pack.json) |
 | TheHunter: Call of the Wild - ATV Saber 4X4 | 53794 | [53794-thehunter-call-of-the-wild-atv-saber-4x4.json](./53794-thehunter-call-of-the-wild-atv-saber-4x4.json) |
 | TheHunter: Call of the Wild - Backpacks | 206820 | [206820-thehunter-call-of-the-wild-backpacks.json](./206820-thehunter-call-of-the-wild-backpacks.json) |
 | TheHunter: Call of the Wild - Bearclaw Lite Compound Bow | 206823 | [206823-thehunter-call-of-the-wild-bearclaw-lite-compound-bow.json](./206823-thehunter-call-of-the-wild-bearclaw-lite-compound-bow.json) |
@@ -20934,6 +20939,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - New England Mountains | 227336 | [227336-thehunter-call-of-the-wild-new-england-mountains.json](./227336-thehunter-call-of-the-wild-new-england-mountains.json) |
 | TheHunter: Call of the Wild - New England Mountains Scout Cosmetic Pack | 231020 | [231020-thehunter-call-of-the-wild-new-england-mountains-scout-cosmetic-pack.json](./231020-thehunter-call-of-the-wild-new-england-mountains-scout-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - New England Mountains Veteran Cosmetic Pack | 231003 | [231003-thehunter-call-of-the-wild-new-england-mountains-veteran-cosmetic-pack.json](./231003-thehunter-call-of-the-wild-new-england-mountains-veteran-cosmetic-pack.json) |
+| TheHunter: Call of the Wild - New England Scout Cosmetic Pack | 263164 | [263164-thehunter-call-of-the-wild-new-england-scout-cosmetic-pack.json](./263164-thehunter-call-of-the-wild-new-england-scout-cosmetic-pack.json) |
+| TheHunter: Call of the Wild - New England Veteran Cosmetic Pack | 263165 | [263165-thehunter-call-of-the-wild-new-england-veteran-cosmetic-pack.json](./263165-thehunter-call-of-the-wild-new-england-veteran-cosmetic-pack.json) |
 | TheHunter: Call of the Wild - New Species 2018 | 206824 | [206824-thehunter-call-of-the-wild-new-species-2018.json](./206824-thehunter-call-of-the-wild-new-species-2018.json) |
 | TheHunter: Call of the Wild - New Species 2019 | 206825 | [206825-thehunter-call-of-the-wild-new-species-2019.json](./206825-thehunter-call-of-the-wild-new-species-2019.json) |
 | TheHunter: Call of the Wild - Parque Fernando | 154336 | [154336-thehunter-call-of-the-wild-parque-fernando.json](./154336-thehunter-call-of-the-wild-parque-fernando.json) |
@@ -29833,6 +29840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traffic Stop Anomaly | 405870 | [405870-traffic-stop-anomaly.json](./405870-traffic-stop-anomaly.json) |
 | Traffic Storm | 132426 | [132426-traffic-storm.json](./132426-traffic-storm.json) |
 | Traffic Survivor | 402055 | [402055-traffic-survivor.json](./402055-traffic-survivor.json) |
+| Traffic Tour | 263154 | [263154-traffic-tour.json](./263154-traffic-tour.json) |
 | Traffic Tour | 87282 | [87282-traffic-tour.json](./87282-traffic-tour.json) |
 | Traffic Tour Classic | 249690 | [249690-traffic-tour-classic.json](./249690-traffic-tour-classic.json) |
 | Traffic V | 149931 | [149931-traffic-v.json](./149931-traffic-v.json) |
@@ -31100,6 +31108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz 2019: SA AN Class - Pacific National | 325025 | [325025-trainz-2019-sa-an-class-pacific-national.json](./325025-trainz-2019-sa-an-class-pacific-national.json) |
 | Trainz 2019: SA CL Class - QR National Pack | 306111 | [306111-trainz-2019-sa-cl-class-qr-national-pack.json](./306111-trainz-2019-sa-cl-class-qr-national-pack.json) |
 | Trainz 2019: SA CL Class - RailPower Pack | 306110 | [306110-trainz-2019-sa-cl-class-railpower-pack.json](./306110-trainz-2019-sa-cl-class-railpower-pack.json) |
+| Trainz 2022 DLC: Blue Comet 2.0 - The Seashore's Finest Train | 263161 | [263161-trainz-2022-dlc-blue-comet-2-0-the-seashores-finest-train.json](./263161-trainz-2022-dlc-blue-comet-2-0-the-seashores-finest-train.json) |
 | Trainz 2022 DLC: Pro Train DB Class 52 | 254072 | [254072-trainz-2022-dlc-pro-train-db-class-52.json](./254072-trainz-2022-dlc-pro-train-db-class-52.json) |
 | Trainz 2022: C44aci Locomotive - ARG/Mineral Resources Pack | 306118 | [306118-trainz-2022-c44aci-locomotive-arg-mineral-resources-pack.json](./306118-trainz-2022-c44aci-locomotive-arg-mineral-resources-pack.json) |
 | Trainz 2022: Inzer - South Ural Mountains | 205298 | [205298-trainz-2022-inzer-south-ural-mountains.json](./205298-trainz-2022-inzer-south-ural-mountains.json) |
@@ -31111,12 +31120,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz 2022: ProTrain - AC4400CW Loco Bundle 1 | 306120 | [306120-trainz-2022-protrain-ac4400cw-loco-bundle-1.json](./306120-trainz-2022-protrain-ac4400cw-loco-bundle-1.json) |
 | Trainz 2022: Quinnimont Coal Drag | 205287 | [205287-trainz-2022-quinnimont-coal-drag.json](./205287-trainz-2022-quinnimont-coal-drag.json) |
 | Trainz 2022: SA CL Class - RailPower Pack | 306100 | [306100-trainz-2022-sa-cl-class-railpower-pack.json](./306100-trainz-2022-sa-cl-class-railpower-pack.json) |
+| Trainz 22: Platinum Edition Features | 263160 | [263160-trainz-22-platinum-edition-features.json](./263160-trainz-22-platinum-edition-features.json) |
 | Trainz Classics Volume 1 & 2 | 54184 | [54184-trainz-classics-volume-1-and-2.json](./54184-trainz-classics-volume-1-and-2.json) |
 | Trainz Classics Volume 3 | 54183 | [54183-trainz-classics-volume-3.json](./54183-trainz-classics-volume-3.json) |
 | Trainz Driver 2 | 248408 | [248408-trainz-driver-2.json](./248408-trainz-driver-2.json) |
 | Trainz Driver 2016 | 34212 | [34212-trainz-driver-2016.json](./34212-trainz-driver-2016.json) |
 | Trainz Plus | 204302 | [204302-trainz-plus.json](./204302-trainz-plus.json) |
 | Trainz Plus DLC - Pro Train: AC44C6M Loco Bundle | 384733 | [384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json](./384733-trainz-plus-dlc-pro-train-ac44c6m-loco-bundle.json) |
+| Trainz Plus DLC: Blue Comet 2.0 - The Seashore's Finest Train | 263159 | [263159-trainz-plus-dlc-blue-comet-2-0-the-seashores-finest-train.json](./263159-trainz-plus-dlc-blue-comet-2-0-the-seashores-finest-train.json) |
 | Trainz Plus DLC: OBB Eurofima Second Class Pack | 400080 | [400080-trainz-plus-dlc-obb-eurofima-second-class-pack.json](./400080-trainz-plus-dlc-obb-eurofima-second-class-pack.json) |
 | Trainz Plus DLC: Pro Train - Class 68 ScotRail | 208339 | [208339-trainz-plus-dlc-pro-train-class-68-scotrail.json](./208339-trainz-plus-dlc-pro-train-class-68-scotrail.json) |
 | Trainz Plus DLC: Pro Train DB Class 52 | 254070 | [254070-trainz-plus-dlc-pro-train-db-class-52.json](./254070-trainz-plus-dlc-pro-train-db-class-52.json) |
@@ -32195,6 +32206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped In Here With Me | 263566 | [263566-trapped-in-here-with-me.json](./263566-trapped-in-here-with-me.json) |
 | Trapped In Stone | 192207 | [192207-trapped-in-stone.json](./192207-trapped-in-stone.json) |
 | Trapped in the Backrooms | 404793 | [404793-trapped-in-the-backrooms.json](./404793-trapped-in-the-backrooms.json) |
+| Trapped in the Dim Mansion | 263248 | [263248-trapped-in-the-dim-mansion.json](./263248-trapped-in-the-dim-mansion.json) |
 | Trapped in the Forest | 190055 | [190055-trapped-in-the-forest.json](./190055-trapped-in-the-forest.json) |
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
 | Trapped in The Kanal | 259706 | [259706-trapped-in-the-kanal.json](./259706-trapped-in-the-kanal.json) |
@@ -34411,6 +34423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: DR Schnellzugwagen Type B Coach Pack | 227236 | [227236-ts-marketplace-dr-schnellzugwagen-type-b-coach-pack.json](./227236-ts-marketplace-dr-schnellzugwagen-type-b-coach-pack.json) |
 | TS Marketplace: DR Schnellzugwagen Type YB Coach Pack | 227297 | [227297-ts-marketplace-dr-schnellzugwagen-type-yb-coach-pack.json](./227297-ts-marketplace-dr-schnellzugwagen-type-yb-coach-pack.json) |
 | TS Marketplace: ECML Peterborough York Modern Scenario Pack 01 | 227226 | [227226-ts-marketplace-ecml-peterborough-york-modern-scenario-pack-01.json](./227226-ts-marketplace-ecml-peterborough-york-modern-scenario-pack-01.json) |
+| TS Marketplace: FahrBar Charity Coach Pack | 263158 | [263158-ts-marketplace-fahrbar-charity-coach-pack.json](./263158-ts-marketplace-fahrbar-charity-coach-pack.json) |
 | TS Marketplace: Feather River Canyon Scenario Pack 01 | 163050 | [163050-ts-marketplace-feather-river-canyon-scenario-pack-01.json](./163050-ts-marketplace-feather-river-canyon-scenario-pack-01.json) |
 | TS Marketplace: Feather River Canyon Scenario Pack 02 | 227224 | [227224-ts-marketplace-feather-river-canyon-scenario-pack-02.json](./227224-ts-marketplace-feather-river-canyon-scenario-pack-02.json) |
 | TS Marketplace: Fife Circle Scenario Pack 01 | 227292 | [227292-ts-marketplace-fife-circle-scenario-pack-01.json](./227292-ts-marketplace-fife-circle-scenario-pack-01.json) |
@@ -34426,6 +34439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TS Marketplace: Horseshoe Curve Scenario Pack 01 Add-On | 163066 | [163066-ts-marketplace-horseshoe-curve-scenario-pack-01-add-on.json](./163066-ts-marketplace-horseshoe-curve-scenario-pack-01-add-on.json) |
 | TS Marketplace: Hudson Line Scenario Pack 01 | 163071 | [163071-ts-marketplace-hudson-line-scenario-pack-01.json](./163071-ts-marketplace-hudson-line-scenario-pack-01.json) |
 | TS Marketplace: Köln Koblenz Scenario Pack 01 Add-On | 163055 | [163055-ts-marketplace-koln-koblenz-scenario-pack-01-add-on.json](./163055-ts-marketplace-koln-koblenz-scenario-pack-01-add-on.json) |
+| TS Marketplace: Lake Constance Scenario Pack | 263157 | [263157-ts-marketplace-lake-constance-scenario-pack.json](./263157-ts-marketplace-lake-constance-scenario-pack.json) |
 | TS Marketplace: LMS P1&P2 BR Maroon Coach Pack Add-On | 227293 | [227293-ts-marketplace-lms-p1-and-p2-br-maroon-coach-pack-add-on.json](./227293-ts-marketplace-lms-p1-and-p2-br-maroon-coach-pack-add-on.json) |
 | TS Marketplace: LMS P1&P2 LMS Early Coach Pack Add-On | 227289 | [227289-ts-marketplace-lms-p1-and-p2-lms-early-coach-pack-add-on.json](./227289-ts-marketplace-lms-p1-and-p2-lms-early-coach-pack-add-on.json) |
 | TS Marketplace: LMS P1&P2 LMS Late Coach Pack Add-On | 227302 | [227302-ts-marketplace-lms-p1-and-p2-lms-late-coach-pack-add-on.json](./227302-ts-marketplace-lms-p1-and-p2-lms-late-coach-pack-add-on.json) |
@@ -34820,6 +34834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tune Cruiser | 194194 | [194194-tune-cruiser.json](./194194-tune-cruiser.json) |
 | Tune Her Out | 303211 | [303211-tune-her-out.json](./303211-tune-her-out.json) |
 | Tune in to the Show | 380183 | [380183-tune-in-to-the-show.json](./380183-tune-in-to-the-show.json) |
+| Tune My Car: Tuning Studio & Car Mechanic Simulator 2023 | 263156 | [263156-tune-my-car-tuning-studio-and-car-mechanic-simulator-2023.json](./263156-tune-my-car-tuning-studio-and-car-mechanic-simulator-2023.json) |
 | Tune My Car: Tuning Studio & Mechanic Simulator 2025 | 361366 | [361366-tune-my-car-tuning-studio-and-mechanic-simulator-2025.json](./361366-tune-my-car-tuning-studio-and-mechanic-simulator-2025.json) |
 | Tune My Car: Tuning Studio & Mechanic Simulator 2026 | 409562 | [409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json](./409562-tune-my-car-tuning-studio-and-mechanic-simulator-2026.json) |
 | Tune the Tone | 128198 | [128198-tune-the-tone.json](./128198-tune-the-tone.json) |
@@ -34964,6 +34979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Golf Racing | 194736 | [194736-turbo-golf-racing.json](./194736-turbo-golf-racing.json) |
 | Turbo Golf Racing: Deep Space Bundle | 295641 | [295641-turbo-golf-racing-deep-space-bundle.json](./295641-turbo-golf-racing-deep-space-bundle.json) |
 | Turbo Golf Racing: Space Explorer's Galactic Ball Set | 296558 | [296558-turbo-golf-racing-space-explorers-galactic-ball-set.json](./296558-turbo-golf-racing-space-explorers-galactic-ball-set.json) |
+| Turbo Golf Racing: Tech Jet Supporters Pack | 263155 | [263155-turbo-golf-racing-tech-jet-supporters-pack.json](./263155-turbo-golf-racing-tech-jet-supporters-pack.json) |
 | Turbo Golf Racing: Ultimate Bundle | 295642 | [295642-turbo-golf-racing-ultimate-bundle.json](./295642-turbo-golf-racing-ultimate-bundle.json) |
 | Turbo Granny | 396982 | [396982-turbo-granny.json](./396982-turbo-granny.json) |
 | Turbo Grid | 236981 | [236981-turbo-grid.json](./236981-turbo-grid.json) |
@@ -36201,6 +36217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrant's Blessing: Deluxe Edition | 230818 | [230818-tyrants-blessing-deluxe-edition.json](./230818-tyrants-blessing-deluxe-edition.json) |
 | Tyrant's Realm | 177253 | [177253-tyrants-realm.json](./177253-tyrants-realm.json) |
 | Tyrant's Realm: Forbidden Fortune | 358739 | [358739-tyrants-realm-forbidden-fortune.json](./358739-tyrants-realm-forbidden-fortune.json) |
+| Tyrant's Twilight | 263153 | [263153-tyrants-twilight.json](./263153-tyrants-twilight.json) |
 | Tyrants Must Fall | 406753 | [406753-tyrants-must-fall.json](./406753-tyrants-must-fall.json) |
 | Tyrants Rafting | 405875 | [405875-tyrants-rafting.json](./405875-tyrants-rafting.json) |
 | Tyrants: Fight Through Time | 12183 | [12183-tyrants-fight-through-time.json](./12183-tyrants-fight-through-time.json) |
