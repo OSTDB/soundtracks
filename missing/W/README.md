@@ -7199,6 +7199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Soup | 408812 | [408812-wizard-soup.json](./408812-wizard-soup.json) |
 | Wizard time! | 192614 | [192614-wizard-time.json](./192614-wizard-time.json) |
 | Wizard Tournament | 304012 | [304012-wizard-tournament.json](./304012-wizard-tournament.json) |
+| Wizard Tower | 299641 | [299641-wizard-tower.json](./299641-wizard-tower.json) |
 | Wizard Vs Zombie | 88783 | [88783-wizard-vs-zombie.json](./88783-wizard-vs-zombie.json) |
 | Wizard Vs Zombie Unlocked | 100609 | [100609-wizard-vs-zombie-unlocked.json](./100609-wizard-vs-zombie-unlocked.json) |
 | Wizard War Online | 287682 | [287682-wizard-war-online.json](./287682-wizard-war-online.json) |
