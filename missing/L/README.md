@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Boom | 290087 | [290087-lab-boom.json](./290087-lab-boom.json) |
 | Lab BreakOut | 158533 | [158533-lab-breakout.json](./158533-lab-breakout.json) |
 | Lab Cat | 298782 | [298782-lab-cat.json](./298782-lab-cat.json) |
+| Lab Cat Escape | 257036 | [257036-lab-cat-escape.json](./257036-lab-cat-escape.json) |
 | Lab Cats | 332972 | [332972-lab-cats.json](./332972-lab-cats.json) |
 | Lab Chaos | 138533 | [138533-lab-chaos.json](./138533-lab-chaos.json) |
 | Lab Craft Survival | 150786 | [150786-lab-craft-survival.json](./150786-lab-craft-survival.json) |
@@ -10495,6 +10496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Corridor 0 | 134779 | [134779-luminous-corridor-0.json](./134779-luminous-corridor-0.json) |
 | Luminous Corridor 2 | 184677 | [184677-luminous-corridor-2.json](./184677-luminous-corridor-2.json) |
 | Luminous Crusader | 296961 | [296961-luminous-crusader.json](./296961-luminous-crusader.json) |
+| Luminous Gloom | 257126 | [257126-luminous-gloom.json](./257126-luminous-gloom.json) |
 | Luminous Kingdom | 386291 | [386291-luminous-kingdom.json](./386291-luminous-kingdom.json) |
 | Luminous Nights | 224725 | [224725-luminous-nights.json](./224725-luminous-nights.json) |
 | Luminous of Stellar | 228486 | [228486-luminous-of-stellar.json](./228486-luminous-of-stellar.json) |
