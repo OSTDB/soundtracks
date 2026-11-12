@@ -2704,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kill the Barney | 325819 | [325819-kill-the-barney.json](./325819-kill-the-barney.json) |
 | Kill the Brickman | 362260 | [362260-kill-the-brickman.json](./362260-kill-the-brickman.json) |
 | Kill The Business | 363937 | [363937-kill-the-business.json](./363937-kill-the-business.json) |
+| Kill The Censored | 292738 | [292738-kill-the-censored.json](./292738-kill-the-censored.json) |
 | Kill the Climbers | 235673 | [235673-kill-the-climbers.json](./235673-kill-the-climbers.json) |
 | Kill The Clock | 295204 | [295204-kill-the-clock.json](./295204-kill-the-clock.json) |
 | Kill The Crows | 253394 | [253394-kill-the-crows.json](./253394-kill-the-crows.json) |
@@ -3018,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
