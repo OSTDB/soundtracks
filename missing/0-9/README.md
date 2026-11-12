@@ -3246,6 +3246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 512 | 31204 | [31204-512.json](./31204-512.json) |
 | 512 Linedefs of /vr/ | 314985 | [314985-512-linedefs-of-vr.json](./314985-512-linedefs-of-vr.json) |
 | 5125m | 370206 | [370206-5125m.json](./370206-5125m.json) |
+| 52 / 0 = Infinity | 253635 | [253635-52-0-infinity.json](./253635-52-0-infinity.json) |
 | 5200 Menu | 93539 | [93539-5200-menu.json](./93539-5200-menu.json) |
 | 5225 | 197054 | [197054-5225.json](./197054-5225.json) |
 | 52Beatup | 261834 | [261834-52beatup.json](./261834-52beatup.json) |
