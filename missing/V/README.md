@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagalume | 393741 | [393741-vagalume.json](./393741-vagalume.json) |
 | Vagan Attack | 71499 | [71499-vagan-attack.json](./71499-vagan-attack.json) |
 | Vagante | 19150 | [19150-vagante.json](./19150-vagante.json) |
+| Vagneria | 282262 | [282262-vagneria.json](./282262-vagneria.json) |
 | Vagnerun | 324339 | [324339-vagnerun.json](./324339-vagnerun.json) |
 | Vagrant Fighter FX | 98259 | [98259-vagrant-fighter-fx.json](./98259-vagrant-fighter-fx.json) |
 | Vagrant Fury | 109831 | [109831-vagrant-fury.json](./109831-vagrant-fury.json) |
@@ -514,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie Rising: Hordes of Ragnarök | 361860 | [361860-valkyrie-rising-hordes-of-ragnarok.json](./361860-valkyrie-rising-hordes-of-ragnarok.json) |
 | Valkyrie Saga | 280437 | [280437-valkyrie-saga.json](./280437-valkyrie-saga.json) |
 | Valkyrie Spirits | 189991 | [189991-valkyrie-spirits.json](./189991-valkyrie-spirits.json) |
+| Valkyrie Squad: Siege Breakers | 282263 | [282263-valkyrie-squad-siege-breakers.json](./282263-valkyrie-squad-siege-breakers.json) |
 | Valkyrie Star: A Cacophony Choir | 331581 | [331581-valkyrie-star-a-cacophony-choir.json](./331581-valkyrie-star-a-cacophony-choir.json) |
 | Valkyrie Svia | 109002 | [109002-valkyrie-svia.json](./109002-valkyrie-svia.json) |
 | Valkyrie Tune: Synthesis of Souls | 381755 | [381755-valkyrie-tune-synthesis-of-souls.json](./381755-valkyrie-tune-synthesis-of-souls.json) |
@@ -760,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire+Hunter | 300019 | [300019-vampire-hunter.json](./300019-vampire-hunter.json) |
 | VampireBlaze | 402935 | [402935-vampireblaze.json](./402935-vampireblaze.json) |
 | Vampirem | 136411 | [136411-vampirem.json](./136411-vampirem.json) |
+| Vampires and Afternoon Tea | 282185 | [282185-vampires-and-afternoon-tea.json](./282185-vampires-and-afternoon-tea.json) |
 | Vampires and Knights: Eclipse Survival & Magic Craft | 335073 | [335073-vampires-and-knights-eclipse-survival-and-magic-craft.json](./335073-vampires-and-knights-eclipse-survival-and-magic-craft.json) |
 | Vampires and Werewolves | 226739 | [226739-vampires-and-werewolves.json](./226739-vampires-and-werewolves.json) |
 | Vampires Dawn 2: Ancient Blood | 80474 | [80474-vampires-dawn-2-ancient-blood.json](./80474-vampires-dawn-2-ancient-blood.json) |
@@ -813,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Van Helsing | 248620 | [248620-van-helsing.json](./248620-van-helsing.json) |
 | Van Helsing | 6226 | [6226-van-helsing.json](./6226-van-helsing.json) |
 | Van Helsing sniper Zx100 | 85470 | [85470-van-helsing-sniper-zx100.json](./85470-van-helsing-sniper-zx100.json) |
+| Van Life Simulator | 282264 | [282264-van-life-simulator.json](./282264-van-life-simulator.json) |
 | Van Life: Home Simulator | 370793 | [370793-van-life-home-simulator.json](./370793-van-life-home-simulator.json) |
 | Van Pershing | 194186 | [194186-van-pershing.json](./194186-van-pershing.json) |
 | Van Simulator | 326326 | [326326-van-simulator.json](./326326-van-simulator.json) |
@@ -1130,6 +1134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vector 36 | 14412 | [14412-vector-36.json](./14412-vector-36.json) |
 | Vector Assault | 33932 | [33932-vector-assault.json](./33932-vector-assault.json) |
 | Vector Assault 2 | 160006 | [160006-vector-assault-2.json](./160006-vector-assault-2.json) |
+| Vector Bias | 282265 | [282265-vector-bias.json](./282265-vector-bias.json) |
 | Vector Born | 95636 | [95636-vector-born.json](./95636-vector-born.json) |
 | Vector City Racers | 343219 | [343219-vector-city-racers.json](./343219-vector-city-racers.json) |
 | Vector HD | 88349 | [88349-vector-hd.json](./88349-vector-hd.json) |
@@ -1326,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veilia | 31616 | [31616-veilia.json](./31616-veilia.json) |
 | Veillombre | 421798 | [421798-veillombre.json](./421798-veillombre.json) |
 | Veils of the Past | 394283 | [394283-veils-of-the-past.json](./394283-veils-of-the-past.json) |
+| Veilslash | 282266 | [282266-veilslash.json](./282266-veilslash.json) |
 | VeilStalker | 406850 | [406850-veilstalker.json](./406850-veilstalker.json) |
 | Veilwalkers | 349308 | [349308-veilwalkers.json](./349308-veilwalkers.json) |
 | Veilwalkers | 377293 | [377293-veilwalkers.json](./377293-veilwalkers.json) |
@@ -2509,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vincemus: Air Combat | 195259 | [195259-vincemus-air-combat.json](./195259-vincemus-air-combat.json) |
 | Vincent | 242243 | [242243-vincent.json](./242243-vincent.json) |
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
+| Vincent the Vampire | 282267 | [282267-vincent-the-vampire.json](./282267-vincent-the-vampire.json) |
 | Vincent: Phantom of the G4 | 280725 | [280725-vincent-phantom-of-the-g4.json](./280725-vincent-phantom-of-the-g4.json) |
 | Vincent: The Secret of Myers | 134778 | [134778-vincent-the-secret-of-myers.json](./134778-vincent-the-secret-of-myers.json) |
 | Vincent's Chocolate | 301923 | [301923-vincents-chocolate.json](./301923-vincents-chocolate.json) |
@@ -2911,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Insanity | 39779 | [39779-virtual-insanity.json](./39779-virtual-insanity.json) |
 | Virtual Interactive Fireplace | 338566 | [338566-virtual-interactive-fireplace.json](./338566-virtual-interactive-fireplace.json) |
 | Virtual Islands: Mini-Golf Challenge | 31528 | [31528-virtual-islands-mini-golf-challenge.json](./31528-virtual-islands-mini-golf-challenge.json) |
+| Virtual Jigsaw Puzzles | 282268 | [282268-virtual-jigsaw-puzzles.json](./282268-virtual-jigsaw-puzzles.json) |
 | Virtual Jigsaw Puzzles: Animals | 289913 | [289913-virtual-jigsaw-puzzles-animals.json](./289913-virtual-jigsaw-puzzles-animals.json) |
 | Virtual Job Shop Simulator | 107273 | [107273-virtual-job-shop-simulator.json](./107273-virtual-job-shop-simulator.json) |
 | Virtual Jockey | 231515 | [231515-virtual-jockey.json](./231515-virtual-jockey.json) |
