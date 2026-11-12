@@ -4286,6 +4286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostbusters: Spirits Unleashed | 194682 | [194682-ghostbusters-spirits-unleashed.json](./194682-ghostbusters-spirits-unleashed.json) |
 | Ghostbusters: Spirits Unleashed - Collector's Edition | 214137 | [214137-ghostbusters-spirits-unleashed-collectors-edition.json](./214137-ghostbusters-spirits-unleashed-collectors-edition.json) |
 | Ghostbusters: Spirits Unleashed - Ecto Edition | 269357 | [269357-ghostbusters-spirits-unleashed-ecto-edition.json](./269357-ghostbusters-spirits-unleashed-ecto-edition.json) |
+| Ghostbusters: Spirits Unleashed - Free Update #1 | 273526 | [273526-ghostbusters-spirits-unleashed-free-update-1.json](./273526-ghostbusters-spirits-unleashed-free-update-1.json) |
 | Ghostbusters: Spirits Unleashed - Free Update #2 | 274255 | [274255-ghostbusters-spirits-unleashed-free-update-2.json](./274255-ghostbusters-spirits-unleashed-free-update-2.json) |
 | Ghostbusters: Spirits Unleashed - Free Update #3 | 274272 | [274272-ghostbusters-spirits-unleashed-free-update-3.json](./274272-ghostbusters-spirits-unleashed-free-update-3.json) |
 | Ghostbusters: The Video Game | 210296 | [210296-ghostbusters-the-video-game.json](./210296-ghostbusters-the-video-game.json) |
@@ -10038,6 +10039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Horde | 199398 | [199398-grim-horde.json](./199398-grim-horde.json) |
 | Grim Jobs: Dredger | 377119 | [377119-grim-jobs-dredger.json](./377119-grim-jobs-dredger.json) |
 | Grim Joggers | 336014 | [336014-grim-joggers.json](./336014-grim-joggers.json) |
+| Grim Kingdom | 273602 | [273602-grim-kingdom.json](./273602-grim-kingdom.json) |
 | Grim Knight | 235672 | [235672-grim-knight.json](./235672-grim-knight.json) |
 | Grim Leaper | 181534 | [181534-grim-leaper.json](./181534-grim-leaper.json) |
 | Grim Legends 2: Song of the Dark Swan | 17095 | [17095-grim-legends-2-song-of-the-dark-swan.json](./17095-grim-legends-2-song-of-the-dark-swan.json) |
