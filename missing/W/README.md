@@ -2356,6 +2356,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warzone Chronicles: Virtual Warfare Shooter - Premium Edition | 308795 | [308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json](./308795-warzone-chronicles-virtual-warfare-shooter-premium-edition.json) |
 | WarZone Flashpoint | 112996 | [112996-warzone-flashpoint.json](./112996-warzone-flashpoint.json) |
 | Warzone of Destiny 95 | 256612 | [256612-warzone-of-destiny-95.json](./256612-warzone-of-destiny-95.json) |
+| Warzone Tower Defense | 272436 | [272436-warzone-tower-defense.json](./272436-warzone-tower-defense.json) |
+| Warzone Tower Defense Extended | 272438 | [272438-warzone-tower-defense-extended.json](./272438-warzone-tower-defense-extended.json) |
 | Warzone VR | 113879 | [113879-warzone-vr.json](./113879-warzone-vr.json) |
 | Warzone World | 115186 | [115186-warzone-world.json](./115186-warzone-world.json) |
 | Warzone-X | 118114 | [118114-warzone-x.json](./118114-warzone-x.json) |
