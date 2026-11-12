@@ -2174,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield's Wild Ride | 25163 | [25163-garfields-wild-ride.json](./25163-garfields-wild-ride.json) |
 | Garfield+ | 319439 | [319439-garfield.json](./319439-garfield.json) |
 | Gargadusa's Tower | 392361 | [392361-gargadusas-tower.json](./392361-gargadusas-tower.json) |
+| Garganta | 260345 | [260345-garganta.json](./260345-garganta.json) |
 | Gargantua | 385387 | [385387-gargantua.json](./385387-gargantua.json) |
 | Gargantua | 80241 | [80241-gargantua.json](./80241-gargantua.json) |
 | Gargolite | 183507 | [183507-gargolite.json](./183507-gargolite.json) |
@@ -7361,6 +7362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goliath | 268929 | [268929-goliath.json](./268929-goliath.json) |
 | Goliath | 325737 | [325737-goliath.json](./325737-goliath.json) |
 | Goliath | 410260 | [410260-goliath.json](./410260-goliath.json) |
+| Goliath Depot | 260432 | [260432-goliath-depot.json](./260432-goliath-depot.json) |
 | Goliath: Playing With Reality | 219802 | [219802-goliath-playing-with-reality.json](./219802-goliath-playing-with-reality.json) |
 | Goliath: Summertime Gnarkness | 155330 | [155330-goliath-summertime-gnarkness.json](./155330-goliath-summertime-gnarkness.json) |
 | Golly Soda Pop | 333208 | [333208-golly-soda-pop.json](./333208-golly-soda-pop.json) |
