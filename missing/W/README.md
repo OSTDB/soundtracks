@@ -5195,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire: US Movies 80s | 282214 | [282214-who-wants-to-be-a-millionaire-us-movies-80s.json](./282214-who-wants-to-be-a-millionaire-us-movies-80s.json) |
 | Who Wants to Be a Millionaire: US Movies 90s | 282215 | [282215-who-wants-to-be-a-millionaire-us-movies-90s.json](./282215-who-wants-to-be-a-millionaire-us-movies-90s.json) |
 | Who Wants to Be A Millionaire: US Presidents DLC Pack | 302579 | [302579-who-wants-to-be-a-millionaire-us-presidents-dlc-pack.json](./302579-who-wants-to-be-a-millionaire-us-presidents-dlc-pack.json) |
+| Who Wants to Be a Millionaire: WWE DLC Pack | 288972 | [288972-who-wants-to-be-a-millionaire-wwe-dlc-pack.json](./288972-who-wants-to-be-a-millionaire-wwe-dlc-pack.json) |
 | Who Wants To Be A Millionaire? 2010 | 316578 | [316578-who-wants-to-be-a-millionaire-2010.json](./316578-who-wants-to-be-a-millionaire-2010.json) |
 | Who Wants To Be A Millionaire? 2010: Part 2 | 316579 | [316579-who-wants-to-be-a-millionaire-2010-part-2.json](./316579-who-wants-to-be-a-millionaire-2010-part-2.json) |
 | Who Wants To Be A Millionaire? 2011 | 316580 | [316580-who-wants-to-be-a-millionaire-2011.json](./316580-who-wants-to-be-a-millionaire-2011.json) |
@@ -9890,6 +9891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wúgòu zhī Liàn: Zhànfàng Yú Chūn zhī Huāhǎi | 403636 | [403636-wugou-zhi-lian-zhanfang-yu-chun-zhi-huahai.json](./403636-wugou-zhi-lian-zhanfang-yu-chun-zhi-huahai.json) |
 | Wuhan Clan | 191080 | [191080-wuhan-clan.json](./191080-wuhan-clan.json) |
 | Wuhu Island Explorer | 313184 | [313184-wuhu-island-explorer.json](./313184-wuhu-island-explorer.json) |
+| Wuilsafe | 288963 | [288963-wuilsafe.json](./288963-wuilsafe.json) |
 | WuJiDaoRen | 216816 | [216816-wujidaoren.json](./216816-wujidaoren.json) |
 | Wújìn Dàlù | 368358 | [368358-wujin-dalu.json](./368358-wujin-dalu.json) |
 | Wújìn Shēnyuān | 117368 | [117368-wujin-shenyuan.json](./117368-wujin-shenyuan.json) |
