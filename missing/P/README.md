@@ -11554,6 +11554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokédex 3D Pro | 21700 | [21700-pokedex-3d-pro.json](./21700-pokedex-3d-pro.json) |
 | Pokédex for iOS | 64282 | [64282-pokedex-for-ios.json](./64282-pokedex-for-ios.json) |
 | Pokedex-Accurate Dual-Type Pokemon Personality Test | 376193 | [376193-pokedex-accurate-dual-type-pokemon-personality-test.json](./376193-pokedex-accurate-dual-type-pokemon-personality-test.json) |
+| Pokedoku | 269800 | [269800-pokedoku.json](./269800-pokedoku.json) |
 | PokéFarm Q | 317204 | [317204-pokefarm-q.json](./317204-pokefarm-q.json) |
 | Pokéfeet | 403430 | [403430-pokefeet.json](./403430-pokefeet.json) |
 | PokeFields | 414341 | [414341-pokefields.json](./414341-pokefields.json) |
