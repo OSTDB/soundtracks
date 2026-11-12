@@ -5135,6 +5135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relaxing Kite | 148571 | [148571-relaxing-kite.json](./148571-relaxing-kite.json) |
 | Relaxing Lawnmower Simulator | 224611 | [224611-relaxing-lawnmower-simulator.json](./224611-relaxing-lawnmower-simulator.json) |
 | Relaxing Rain Sounds: Amayadori | 151669 | [151669-relaxing-rain-sounds-amayadori.json](./151669-relaxing-rain-sounds-amayadori.json) |
+| Relaxing Simulator | 300623 | [300623-relaxing-simulator.json](./300623-relaxing-simulator.json) |
 | Relaxing Sudoku and Futushiki | 359073 | [359073-relaxing-sudoku-and-futushiki.json](./359073-relaxing-sudoku-and-futushiki.json) |
 | Relaxing Time: Enchanting France - Collector's Edition | 337245 | [337245-relaxing-time-enchanting-france-collectors-edition.json](./337245-relaxing-time-enchanting-france-collectors-edition.json) |
 | Relaxing Time: Italy Tour - Collector's Edition | 337246 | [337246-relaxing-time-italy-tour-collectors-edition.json](./337246-relaxing-time-italy-tour-collectors-edition.json) |
@@ -7861,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
 | Ridge Racer: Turbo Mode | 297592 | [297592-ridge-racer-turbo-mode.json](./297592-ridge-racer-turbo-mode.json) |
 | Ridge Runner | 233250 | [233250-ridge-runner.json](./233250-ridge-runner.json) |
+| Ridgeside Village | 300609 | [300609-ridgeside-village.json](./300609-ridgeside-village.json) |
 | Ridgeside Village: NPC Adventures | 303305 | [303305-ridgeside-village-npc-adventures.json](./303305-ridgeside-village-npc-adventures.json) |
 | Ridgewood Road | 177397 | [177397-ridgewood-road.json](./177397-ridgewood-road.json) |
 | Ridiculous Bombing Game | 126950 | [126950-ridiculous-bombing-game.json](./126950-ridiculous-bombing-game.json) |
@@ -10023,6 +10025,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Adventures | 417194 | [417194-rocket-adventures.json](./417194-rocket-adventures.json) |
 | Rocket Angels Inc | 239770 | [239770-rocket-angels-inc.json](./239770-rocket-angels-inc.json) |
 | Rocket Arena | 118565 | [118565-rocket-arena.json](./118565-rocket-arena.json) |
+| Rocket Arena 2 | 300579 | [300579-rocket-arena-2.json](./300579-rocket-arena-2.json) |
+| Rocket Arena 3 | 300575 | [300575-rocket-arena-3.json](./300575-rocket-arena-3.json) |
 | Rocket Arena: Mythic Edition | 136456 | [136456-rocket-arena-mythic-edition.json](./136456-rocket-arena-mythic-edition.json) |
 | Rocket Arena: Season 1 | 139049 | [139049-rocket-arena-season-1.json](./139049-rocket-arena-season-1.json) |
 | Rocket Arena: Season 2 | 144043 | [144043-rocket-arena-season-2.json](./144043-rocket-arena-season-2.json) |
@@ -10823,6 +10827,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Slots | 386872 | [386872-rogue-slots.json](./386872-rogue-slots.json) |
 | Rogue Snake | 345353 | [345353-rogue-snake.json](./345353-rogue-snake.json) |
 | Rogue Snow: Everwinter | 155824 | [155824-rogue-snow-everwinter.json](./155824-rogue-snow-everwinter.json) |
+| Rogue Soul | 300603 | [300603-rogue-soul.json](./300603-rogue-soul.json) |
+| Rogue Soul 2 | 300605 | [300605-rogue-soul-2.json](./300605-rogue-soul-2.json) |
 | Rogue Souls | 138438 | [138438-rogue-souls.json](./138438-rogue-souls.json) |
 | Rogue Soulstone | 201659 | [201659-rogue-soulstone.json](./201659-rogue-soulstone.json) |
 | Rogue Spear | 22056 | [22056-rogue-spear.json](./22056-rogue-spear.json) |
