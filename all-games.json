@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-12T01:16:05.986Z",
-  "total_soundtracks": 3240,
+  "generated_at": "2026-11-12T01:21:12.581Z",
+  "total_soundtracks": 3245,
   "games": [
     {
       "igdb_id": 7522,
@@ -10621,6 +10621,20 @@
       ]
     },
     {
+      "igdb_id": 51952,
+      "game_name": "EarthWorms",
+      "game_url": "https://ostdb.net/games/earthworms",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27398387b4e7da471d8b685edb3",
+      "albums": [
+        {
+          "album_name": "Earthworms (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/523GUNEStwiepZm422AHNg",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 17480,
       "game_name": "Eastshade",
       "game_url": "https://ostdb.net/games/eastshade",
@@ -11225,6 +11239,20 @@
         {
           "album_name": "Escape the Backrooms (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1bGBOigJULqnxttezUvj5N",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 52067,
+      "game_name": "Eselmir and the Five Magical Gifts",
+      "game_url": "https://ostdb.net/games/eselmir-and-the-five-magical-gifts",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e8d5118e9889f44e66ba5a4a",
+      "albums": [
+        {
+          "album_name": "Eselmir and the Five Magical Gifts (Original Soundtrack) [Original Game Soundtrack]",
+          "spotify_url": "https://open.spotify.com/album/2aM9neBbReEfwL7Uht0ggq",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -14183,6 +14211,20 @@
       ]
     },
     {
+      "igdb_id": 53079,
+      "game_name": "Gladiabots",
+      "game_url": "https://ostdb.net/games/gladiabots",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737e845fec292dd9376b2fd9dc",
+      "albums": [
+        {
+          "album_name": "Gladiabots (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3bKf3AnKqUMxcrJlnIXqjJ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 26628,
       "game_name": "Glittermitten Grove",
       "game_url": "https://ostdb.net/games/glittermitten-grove",
@@ -16601,6 +16643,20 @@
         {
           "album_name": "Hozy (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/466XBKuQlhq2gviZuhPC6N",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 122565,
+      "game_name": "Humanity",
+      "game_url": "https://ostdb.net/games/humanity",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5000b53eddba4127a7a03f7",
+      "albums": [
+        {
+          "album_name": "Humanity (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3ZOYFMo4oEMWRkirg7PhGv",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -23115,6 +23171,20 @@
         {
           "album_name": "NEO: The World Ends with You - Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1TEsX50DWbhcBbWm0hnJVI",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 55688,
+      "game_name": "Neofeud",
+      "game_url": "https://ostdb.net/games/neofeud",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e50148006f67c5dc309f8ddd",
+      "albums": [
+        {
+          "album_name": "Neofeud (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3TGYLR7HPvF8iLvFpDSf9S",
           "apple_music_url": "",
           "album_link_url": ""
         }
