@@ -2993,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mall-A-Palooza | 54213 | [54213-mall-a-palooza.json](./54213-mall-a-palooza.json) |
 | Mallard Hunt | 228276 | [228276-mallard-hunt.json](./228276-mallard-hunt.json) |
 | Malleable Girl Simulator | 383327 | [383327-malleable-girl-simulator.json](./383327-malleable-girl-simulator.json) |
+| Malleable Intent | 275190 | [275190-malleable-intent.json](./275190-malleable-intent.json) |
 | Mallet Legend's Whac-A-Critter | 47054 | [47054-mallet-legends-whac-a-critter.json](./47054-mallet-legends-whac-a-critter.json) |
 | Mallet Mania | 308063 | [308063-mallet-mania.json](./308063-mallet-mania.json) |
 | Malleus Cocconum: The Heiress | 328106 | [328106-malleus-cocconum-the-heiress.json](./328106-malleus-cocconum-the-heiress.json) |
@@ -7841,6 +7842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet Your Maker: Sector 2 Cosmetic Collection | 267293 | [267293-meet-your-maker-sector-2-cosmetic-collection.json](./267293-meet-your-maker-sector-2-cosmetic-collection.json) |
 | Meet Your Maker: Sector 3 Arsenal Pack | 284882 | [284882-meet-your-maker-sector-3-arsenal-pack.json](./284882-meet-your-maker-sector-3-arsenal-pack.json) |
 | Meet Your Mate | 252939 | [252939-meet-your-mate.json](./252939-meet-your-mate.json) |
+| Meet Your Oshi | 275277 | [275277-meet-your-oshi.json](./275277-meet-your-oshi.json) |
 | Meet.Hunter | 96479 | [96479-meet-hunter.json](./96479-meet-hunter.json) |
 | Meet'N'Fuck Denise Milani | 221728 | [221728-meetnfuck-denise-milani.json](./221728-meetnfuck-denise-milani.json) |
 | Meet'N'Fuck Hawaiian Vacation | 221625 | [221625-meetnfuck-hawaiian-vacation.json](./221625-meetnfuck-hawaiian-vacation.json) |
@@ -13763,6 +13765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Airways | 288116 | [288116-mini-airways.json](./288116-mini-airways.json) |
 | Mini Airways: Map - Busy Skies | 416593 | [416593-mini-airways-map-busy-skies.json](./416593-mini-airways-map-busy-skies.json) |
 | Mini Aliens | 53348 | [53348-mini-aliens.json](./53348-mini-aliens.json) |
+| Mini Arcade Game | 275270 | [275270-mini-arcade-game.json](./275270-mini-arcade-game.json) |
 | Mini Arcade Monster Maze | 200338 | [200338-mini-arcade-monster-maze.json](./200338-mini-arcade-monster-maze.json) |
 | Mini Arcade Oreo Pac-Man | 314774 | [314774-mini-arcade-oreo-pac-man.json](./314774-mini-arcade-oreo-pac-man.json) |
 | Mini Arenas | 215596 | [215596-mini-arenas.json](./215596-mini-arenas.json) |
@@ -14626,6 +14629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirror Chains | 209240 | [209240-mirror-chains.json](./209240-mirror-chains.json) |
 | Mirror Devil World | 247282 | [247282-mirror-devil-world.json](./247282-mirror-devil-world.json) |
 | Mirror Drop | 99153 | [99153-mirror-drop.json](./99153-mirror-drop.json) |
+| Mirror Floor | 275358 | [275358-mirror-floor.json](./275358-mirror-floor.json) |
 | Mirror Forge | 188825 | [188825-mirror-forge.json](./188825-mirror-forge.json) |
 | Mirror Head | 327417 | [327417-mirror-head.json](./327417-mirror-head.json) |
 | Mirror House Cornflake | 150109 | [150109-mirror-house-cornflake.json](./150109-mirror-house-cornflake.json) |
@@ -19177,6 +19181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Hero | 197706 | [197706-moto-hero.json](./197706-moto-hero.json) |
 | Moto Heyalda | 175288 | [175288-moto-heyalda.json](./175288-moto-heyalda.json) |
 | Moto Highway Rider | 101535 | [101535-moto-highway-rider.json](./101535-moto-highway-rider.json) |
+| Moto Highway: Racing Speed Rush | 275198 | [275198-moto-highway-racing-speed-rush.json](./275198-moto-highway-racing-speed-rush.json) |
 | Moto Knight | 287203 | [287203-moto-knight.json](./287203-moto-knight.json) |
 | Moto Mania Dirt Bike Challenge | 102829 | [102829-moto-mania-dirt-bike-challenge.json](./102829-moto-mania-dirt-bike-challenge.json) |
 | Moto Maniac 2 | 213814 | [213814-moto-maniac-2.json](./213814-moto-maniac-2.json) |
@@ -20709,6 +20714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplication Mayhem | 277280 | [277280-multiplication-mayhem.json](./277280-multiplication-mayhem.json) |
 | Multiplication: The Game | 232117 | [232117-multiplication-the-game.json](./232117-multiplication-the-game.json) |
 | Multiplications Asteroids: Math in Space Learning Series | 89518 | [89518-multiplications-asteroids-math-in-space-learning-series.json](./89518-multiplications-asteroids-math-in-space-learning-series.json) |
+| Multiplicity | 275301 | [275301-multiplicity.json](./275301-multiplicity.json) |
 | Multiply Factory | 212116 | [212116-multiply-factory.json](./212116-multiply-factory.json) |
 | Multiponk | 104755 | [104755-multiponk.json](./104755-multiponk.json) |
 | Multipuck | 134945 | [134945-multipuck.json](./134945-multipuck.json) |
