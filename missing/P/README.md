@@ -6143,6 +6143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phonk Cats | 250747 | [250747-phonk-cats.json](./250747-phonk-cats.json) |
 | Phonkside Killers | 389000 | [389000-phonkside-killers.json](./389000-phonkside-killers.json) |
 | Phono Alliance | 91670 | [91670-phono-alliance.json](./91670-phono-alliance.json) |
+| Phonopath | 282354 | [282354-phonopath.json](./282354-phonopath.json) |
 | Phonopolis | 204549 | [204549-phonopolis.json](./204549-phonopolis.json) |
 | Phoots and the Pineapple Throne | 304015 | [304015-phoots-and-the-pineapple-throne.json](./304015-phoots-and-the-pineapple-throne.json) |
 | Phos | 143971 | [143971-phos.json](./143971-phos.json) |
