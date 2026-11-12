@@ -861,6 +861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Hime: Rhythm Matching | 211754 | [211754-dance-hime-rhythm-matching.json](./211754-dance-hime-rhythm-matching.json) |
 | Dance It! | 317853 | [317853-dance-it.json](./317853-dance-it.json) |
 | Dance It's Your Stage | 27477 | [27477-dance-its-your-stage.json](./27477-dance-its-your-stage.json) |
+| Dance Junkie | 302848 | [302848-dance-junkie.json](./302848-dance-junkie.json) |
 | Dance Legend | 56818 | [56818-dance-legend.json](./56818-dance-legend.json) |
 | Dance Loop | 368715 | [368715-dance-loop.json](./368715-dance-loop.json) |
 | Dance Magic | 34720 | [34720-dance-magic.json](./34720-dance-magic.json) |
@@ -4973,6 +4974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Park 2 | 149730 | [149730-death-park-2.json](./149730-death-park-2.json) |
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
 | Death Park 2: Remaster | 375128 | [375128-death-park-2-remaster.json](./375128-death-park-2-remaster.json) |
+| Death Park Bundle | 301752 | [301752-death-park-bundle.json](./301752-death-park-bundle.json) |
 | Death Park: 4k Remaster | 343522 | [343522-death-park-4k-remaster.json](./343522-death-park-4k-remaster.json) |
 | Death Penalty | 401555 | [401555-death-penalty.json](./401555-death-penalty.json) |
 | Death Penalty Hero | 285008 | [285008-death-penalty-hero.json](./285008-death-penalty-hero.json) |
@@ -14633,6 +14635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doshin the Giant 1 | 159279 | [159279-doshin-the-giant-1.json](./159279-doshin-the-giant-1.json) |
 | Dosi | 221158 | [221158-dosi.json](./221158-dosi.json) |
 | DoSK | 123798 | [123798-dosk.json](./123798-dosk.json) |
+| DOSMan: Space Aliens in Space! | 301745 | [301745-dosman-space-aliens-in-space.json](./301745-dosman-space-aliens-in-space.json) |
 | Dosmic | 365025 | [365025-dosmic.json](./365025-dosmic.json) |
 | Dosmine | 71700 | [71700-dosmine.json](./71700-dosmine.json) |
 | DoSolFa-lite | 28146 | [28146-dosolfa-lite.json](./28146-dosolfa-lite.json) |
