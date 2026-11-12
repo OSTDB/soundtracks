@@ -8359,6 +8359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flict | 393479 | [393479-flict.json](./393479-flict.json) |
 | Flicts | 293241 | [293241-flicts.json](./293241-flicts.json) |
 | Flies Attack on Earth | 69700 | [69700-flies-attack-on-earth.json](./69700-flies-attack-on-earth.json) |
+| Flies Flies Flies | 260369 | [260369-flies-flies-flies.json](./260369-flies-flies-flies.json) |
 | Flies in a Jar | 229036 | [229036-flies-in-a-jar.json](./229036-flies-in-a-jar.json) |
 | Flies. | 412280 | [412280-flies.json](./412280-flies.json) |
 | Fliese | 234044 | [234044-fliese.json](./234044-fliese.json) |
@@ -10261,6 +10262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
 | For the Forge | 348403 | [348403-for-the-forge.json](./348403-for-the-forge.json) |
 | For The Freedom! | 240770 | [240770-for-the-freedom.json](./240770-for-the-freedom.json) |
+| For the Ghosts | 260441 | [260441-for-the-ghosts.json](./260441-for-the-ghosts.json) |
 | For the Glory of Gods TCG | 311115 | [311115-for-the-glory-of-gods-tcg.json](./311115-for-the-glory-of-gods-tcg.json) |
 | For the Glory of Wilson | 401680 | [401680-for-the-glory-of-wilson.json](./401680-for-the-glory-of-wilson.json) |
 | For The Glory: A Europa Universalis Game | 2036 | [2036-for-the-glory-a-europa-universalis-game.json](./2036-for-the-glory-a-europa-universalis-game.json) |
@@ -10664,6 +10666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forged of Blood | 27954 | [27954-forged-of-blood.json](./27954-forged-of-blood.json) |
 | Forged: Reconquest | 392706 | [392706-forged-reconquest.json](./392706-forged-reconquest.json) |
 | Forgekeepers | 332542 | [332542-forgekeepers.json](./332542-forgekeepers.json) |
+| Forgenator | 260363 | [260363-forgenator.json](./260363-forgenator.json) |
 | ForgeRun | 374047 | [374047-forgerun.json](./374047-forgerun.json) |
 | Forgery Craft | 276210 | [276210-forgery-craft.json](./276210-forgery-craft.json) |
 | Forget | 313530 | [313530-forget.json](./313530-forget.json) |
