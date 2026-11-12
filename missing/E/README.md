@@ -1567,6 +1567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Baby | 353757 | [353757-egg-baby.json](./353757-egg-baby.json) |
 | Egg Blast | 375478 | [375478-egg-blast.json](./375478-egg-blast.json) |
 | Egg Bunny 2 | 199387 | [199387-egg-bunny-2.json](./199387-egg-bunny-2.json) |
+| Egg Chef | 297955 | [297955-egg-chef.json](./297955-egg-chef.json) |
 | Egg Chicken Farm | 349062 | [349062-egg-chicken-farm.json](./349062-egg-chicken-farm.json) |
 | Egg Collector | 246497 | [246497-egg-collector.json](./246497-egg-collector.json) |
 | Egg Defense | 295230 | [295230-egg-defense.json](./295230-egg-defense.json) |
@@ -2505,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Monster | 43026 | [43026-elemental-monster.json](./43026-elemental-monster.json) |
 | Elemental Monster: Online Card Game | 94071 | [94071-elemental-monster-online-card-game.json](./94071-elemental-monster-online-card-game.json) |
 | Elemental Ninja | 61119 | [61119-elemental-ninja.json](./61119-elemental-ninja.json) |
+| Elemental Novice | 298474 | [298474-elemental-novice.json](./298474-elemental-novice.json) |
 | Elemental Odyssey | 253373 | [253373-elemental-odyssey.json](./253373-elemental-odyssey.json) |
 | Elemental Ou | 79066 | [79066-elemental-ou.json](./79066-elemental-ou.json) |
 | Elemental Pinball | 310964 | [310964-elemental-pinball.json](./310964-elemental-pinball.json) |
@@ -8435,6 +8437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exorcizamuste | 258537 | [258537-exorcizamuste.json](./258537-exorcizamuste.json) |
 | Exorder | 69440 | [69440-exorder.json](./69440-exorder.json) |
 | Exoria | 408199 | [408199-exoria.json](./408199-exoria.json) |
+| Exorkízein | 297828 | [297828-exorkizein.json](./297828-exorkizein.json) |
 | Exorsite | 251973 | [251973-exorsite.json](./251973-exorsite.json) |
 | ExorSYS | 335245 | [335245-exorsys.json](./335245-exorsys.json) |
 | Exorun | 172534 | [172534-exorun.json](./172534-exorun.json) |
