@@ -5570,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dedz0ne | 256970 | [256970-dedz0ne.json](./256970-dedz0ne.json) |
 | Dee Dum | 134992 | [134992-dee-dum.json](./134992-dee-dum.json) |
 | Dee-6: Dice Defenders | 145562 | [145562-dee-6-dice-defenders.json](./145562-dee-6-dice-defenders.json) |
+| Dee's Nuts 2 | 275871 | [275871-dees-nuts-2.json](./275871-dees-nuts-2.json) |
 | Deed: Sustainable Business | 240201 | [240201-deed-sustainable-business.json](./240201-deed-sustainable-business.json) |
 | Deedlee Doo! Carkour! | 342090 | [342090-deedlee-doo-carkour.json](./342090-deedlee-doo-carkour.json) |
 | Deeds Were Done 2: Project Ascend | 414425 | [414425-deeds-were-done-2-project-ascend.json](./414425-deeds-were-done-2-project-ascend.json) |
@@ -9249,6 +9250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Block | 284170 | [284170-dice-block.json](./284170-dice-block.json) |
 | Dice Brawl: Captain's League | 108960 | [108960-dice-brawl-captains-league.json](./108960-dice-brawl-captains-league.json) |
 | Dice Breaker | 26849 | [26849-dice-breaker.json](./26849-dice-breaker.json) |
+| Dice Captain | 275870 | [275870-dice-captain.json](./275870-dice-captain.json) |
 | Dice Carnival | 406262 | [406262-dice-carnival.json](./406262-dice-carnival.json) |
 | Dice Catcher | 246706 | [246706-dice-catcher.json](./246706-dice-catcher.json) |
 | Dice Chess | 401607 | [401607-dice-chess.json](./401607-dice-chess.json) |
@@ -10267,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinky Doo | 13840 | [13840-dinky-doo.json](./13840-dinky-doo.json) |
 | Dinky Dungeon | 138507 | [138507-dinky-dungeon.json](./138507-dinky-dungeon.json) |
 | Dinky Guardians | 244516 | [244516-dinky-guardians.json](./244516-dinky-guardians.json) |
+| Dinky Kong | 275793 | [275793-dinky-kong.json](./275793-dinky-kong.json) |
 | Dinky Rinky | 231610 | [231610-dinky-rinky.json](./231610-dinky-rinky.json) |
 | Dinner at Suzanna's | 184667 | [184667-dinner-at-suzannas.json](./184667-dinner-at-suzannas.json) |
 | Dinner Bell | 60005 | [60005-dinner-bell.json](./60005-dinner-bell.json) |
@@ -17670,6 +17673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamworks' Universe of Legends | 82114 | [82114-dreamworks-universe-of-legends.json](./82114-dreamworks-universe-of-legends.json) |
 | Dreamworld | 174103 | [174103-dreamworld.json](./174103-dreamworld.json) |
 | DreamWorld | 145026 | [145026-dreamworld.json](./145026-dreamworld.json) |
+| Dreamworld Dread | 275869 | [275869-dreamworld-dread.json](./275869-dreamworld-dread.json) |
 | Dreamworld Pogie | 48714 | [48714-dreamworld-pogie.json](./48714-dreamworld-pogie.json) |
 | Dreamworld's Open: Mini Golf | 69712 | [69712-dreamworlds-open-mini-golf.json](./69712-dreamworlds-open-mini-golf.json) |
 | Dreamwrought | 387022 | [387022-dreamwrought.json](./387022-dreamwrought.json) |
