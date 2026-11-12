@@ -7590,6 +7590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goofy Ahh Game | 396724 | [396724-goofy-ahh-game.json](./396724-goofy-ahh-game.json) |
 | Goofy Dungeon | 216650 | [216650-goofy-dungeon.json](./216650-goofy-dungeon.json) |
 | Goofy Gorillas | 276667 | [276667-goofy-gorillas.json](./276667-goofy-gorillas.json) |
+| Goofy Half-Life | 307455 | [307455-goofy-half-life.json](./307455-goofy-half-life.json) |
 | Goofy Insanity | 259240 | [259240-goofy-insanity.json](./259240-goofy-insanity.json) |
 | Goofy Lad | 426638 | [426638-goofy-lad.json](./426638-goofy-lad.json) |
 | Goofy Lil Guys | 335250 | [335250-goofy-lil-guys.json](./335250-goofy-lil-guys.json) |
