@@ -1390,7 +1390,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dariusburst: Another Chronicle | 93636 | [93636-dariusburst-another-chronicle.json](./93636-dariusburst-another-chronicle.json) |
 | Dariusburst: Another Chronicle EX | 138014 | [138014-dariusburst-another-chronicle-ex.json](./138014-dariusburst-another-chronicle-ex.json) |
 | Dariusburst: Another Chronicle EX+ | 145313 | [145313-dariusburst-another-chronicle-ex.json](./145313-dariusburst-another-chronicle-ex.json) |
-| Dariusburst: Chronicle Saviours | 20090 | [20090-dariusburst-chronicle-saviours.json](./20090-dariusburst-chronicle-saviours.json) |
 | Dariusburst: Chronicle Saviours - Battle Garegga | 168180 | [168180-dariusburst-chronicle-saviours-battle-garegga.json](./168180-dariusburst-chronicle-saviours-battle-garegga.json) |
 | Dariusburst: Chronicle Saviours - Core + Taito & Sega Packs | 222397 | [222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json](./222397-dariusburst-chronicle-saviours-core-taito-and-sega-packs.json) |
 | Dariusburst: Chronicle Saviours - Deathsmiles | 168182 | [168182-dariusburst-chronicle-saviours-deathsmiles.json](./168182-dariusburst-chronicle-saviours-deathsmiles.json) |
@@ -13025,7 +13024,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolly Wars: Auto Tactics - Holiday Nightmares Campaign | 235584 | [235584-dolly-wars-auto-tactics-holiday-nightmares-campaign.json](./235584-dolly-wars-auto-tactics-holiday-nightmares-campaign.json) |
 | Dollyban | 422167 | [422167-dollyban.json](./422167-dollyban.json) |
 | Dolmen | 40102 | [40102-dolmen.json](./40102-dolmen.json) |
-| Dolmen | 75304 | [75304-dolmen.json](./75304-dolmen.json) |
 | Dolmen: Day One Edition | 191499 | [191499-dolmen-day-one-edition.json](./191499-dolmen-day-one-edition.json) |
 | Dolmenia : Chroniques Gauloises | 125369 | [125369-dolmenia-chroniques-gauloises.json](./125369-dolmenia-chroniques-gauloises.json) |
 | Dolmenjord | 217519 | [217519-dolmenjord.json](./217519-dolmenjord.json) |
