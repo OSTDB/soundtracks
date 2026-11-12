@@ -6807,6 +6807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Wizard | 66026 | [66026-little-wizard.json](./66026-little-wizard.json) |
 | Little Wizard Sally | 240867 | [240867-little-wizard-sally.json](./240867-little-wizard-sally.json) |
 | Little Wolf | 149570 | [149570-little-wolf.json](./149570-little-wolf.json) |
+| Little World | 247153 | [247153-little-world.json](./247153-little-world.json) |
 | Little World | 310031 | [310031-little-world.json](./310031-little-world.json) |
 | Little World of Creatures | 109384 | [109384-little-world-of-creatures.json](./109384-little-world-of-creatures.json) |
 | Little Wu Chang | 216797 | [216797-little-wu-chang.json](./216797-little-wu-chang.json) |
