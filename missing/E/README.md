@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Godding | 274669 | [274669-easy-godding.json](./274669-easy-godding.json) |
 | Easy Golf | 70617 | [70617-easy-golf.json](./70617-easy-golf.json) |
 | Easy Golf: Course Architect | 23020 | [23020-easy-golf-course-architect.json](./23020-easy-golf-course-architect.json) |
+| Easy Hentai | 284535 | [284535-easy-hentai.json](./284535-easy-hentai.json) |
 | Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
 | Easy Hentai Puzzle 2 | 286739 | [286739-easy-hentai-puzzle-2.json](./286739-easy-hentai-puzzle-2.json) |
 | Easy Japanese Hiragana | 367749 | [367749-easy-japanese-hiragana.json](./367749-easy-japanese-hiragana.json) |
@@ -2986,6 +2987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elon Must: Road to Respect | 230133 | [230133-elon-must-road-to-respect.json](./230133-elon-must-road-to-respect.json) |
 | Elon on Mars | 120997 | [120997-elon-on-mars.json](./120997-elon-on-mars.json) |
 | Elon Simulator | 261831 | [261831-elon-simulator.json](./261831-elon-simulator.json) |
+| Elon Simulator 2019 | 284521 | [284521-elon-simulator-2019.json](./284521-elon-simulator-2019.json) |
 | Elon Simulator VR | 250994 | [250994-elon-simulator-vr.json](./250994-elon-simulator-vr.json) |
 | Elon vs AI | 258709 | [258709-elon-vs-ai.json](./258709-elon-vs-ai.json) |
 | Elon's Dream | 157210 | [157210-elons-dream.json](./157210-elons-dream.json) |
@@ -3249,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmDePloy | 372727 | [372727-emdeploy.json](./372727-emdeploy.json) |
 | Eme-Man | 219445 | [219445-eme-man.json](./219445-eme-man.json) |
 | Ememe | 280291 | [280291-ememe.json](./280291-ememe.json) |
+| eMemories | 284520 | [284520-ememories.json](./284520-ememories.json) |
 | Emerald | 375415 | [375415-emerald.json](./375415-emerald.json) |
 | Emerald & Mrs. Ghost: The Ship that Never Returns | 113591 | [113591-emerald-and-mrs-ghost-the-ship-that-never-returns.json](./113591-emerald-and-mrs-ghost-the-ship-that-never-returns.json) |
 | Emerald Ambush | 257295 | [257295-emerald-ambush.json](./257295-emerald-ambush.json) |
