@@ -5740,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find 100 Cats! | 363018 | [363018-find-100-cats.json](./363018-find-100-cats.json) |
 | Find 100 Ducks and Blast Them! | 333916 | [333916-find-100-ducks-and-blast-them.json](./333916-find-100-ducks-and-blast-them.json) |
 | Find 100 Ducks and Blast Them...in Space!!! | 391317 | [391317-find-100-ducks-and-blast-them-in-space.json](./391317-find-100-ducks-and-blast-them-in-space.json) |
+| Find 101 Doomers | 291196 | [291196-find-101-doomers.json](./291196-find-101-doomers.json) |
 | Find 101 Doomers: Deluxe Content | 291372 | [291372-find-101-doomers-deluxe-content.json](./291372-find-101-doomers-deluxe-content.json) |
 | Find 2: Block Hit | 256194 | [256194-find-2-block-hit.json](./256194-find-2-block-hit.json) |
 | Find 5 differences! | 348956 | [348956-find-5-differences.json](./348956-find-5-differences.json) |
@@ -13429,6 +13430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Scratch | 287199 | [287199-from-scratch.json](./287199-from-scratch.json) |
 | From Shadows | 147675 | [147675-from-shadows.json](./147675-from-shadows.json) |
 | From Shadows | 29680 | [29680-from-shadows.json](./29680-from-shadows.json) |
+| From Soil to Bottle | 291097 | [291097-from-soil-to-bottle.json](./291097-from-soil-to-bottle.json) |
 | From Space: Mission Pack - Concrete Jungle | 271920 | [271920-from-space-mission-pack-concrete-jungle.json](./271920-from-space-mission-pack-concrete-jungle.json) |
 | From Space: Mission Pack - Molten Iron | 271919 | [271919-from-space-mission-pack-molten-iron.json](./271919-from-space-mission-pack-molten-iron.json) |
 | From Space: Operation Clear Skies | 277590 | [277590-from-space-operation-clear-skies.json](./277590-from-space-operation-clear-skies.json) |
