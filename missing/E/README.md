@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoed World | 75329 | [75329-echoed-world.json](./75329-echoed-world.json) |
 | Echoes | 193057 | [193057-echoes.json](./193057-echoes.json) |
 | Echoes | 264209 | [264209-echoes.json](./264209-echoes.json) |
+| Echoes | 295198 | [295198-echoes.json](./295198-echoes.json) |
 | Echoes | 300758 | [300758-echoes.json](./300758-echoes.json) |
 | Echoes | 303503 | [303503-echoes.json](./303503-echoes.json) |
 | Echoes | 395994 | [395994-echoes.json](./395994-echoes.json) |
@@ -950,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Egypt | 301997 | [301997-echoes-of-egypt.json](./301997-echoes-of-egypt.json) |
 | Echoes of Eldoria | 333541 | [333541-echoes-of-eldoria.json](./333541-echoes-of-eldoria.json) |
 | Echoes of Elpis | 310891 | [310891-echoes-of-elpis.json](./310891-echoes-of-elpis.json) |
+| Echoes of Elysium | 295589 | [295589-echoes-of-elysium.json](./295589-echoes-of-elysium.json) |
 | Echoes of Eternea | 65281 | [65281-echoes-of-eternea.json](./65281-echoes-of-eternea.json) |
 | Echoes of Etheria | 266788 | [266788-echoes-of-etheria.json](./266788-echoes-of-etheria.json) |
 | Echoes of Exile | 311936 | [311936-echoes-of-exile.json](./311936-echoes-of-exile.json) |
@@ -8314,6 +8316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exobiota | 398376 | [398376-exobiota.json](./398376-exobiota.json) |
 | Exoblast | 149265 | [149265-exoblast.json](./149265-exoblast.json) |
 | Exoborne | 279650 | [279650-exoborne.json](./279650-exoborne.json) |
+| Exocars | 295413 | [295413-exocars.json](./295413-exocars.json) |
 | Exocet | 40641 | [40641-exocet.json](./40641-exocet.json) |
 | Exocide | 197046 | [197046-exocide.json](./197046-exocide.json) |
 | ExoColony: Planet Survival | 226715 | [226715-exocolony-planet-survival.json](./226715-exocolony-planet-survival.json) |
