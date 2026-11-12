@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Italy Cats | 315290 | [315290-100-italy-cats.json](./315290-100-italy-cats.json) |
 | 100 Jumps don't die | 8745 | [8745-100-jumps-dont-die.json](./8745-100-jumps-dont-die.json) |
 | 100 Keys to Your Heart | 231615 | [231615-100-keys-to-your-heart.json](./231615-100-keys-to-your-heart.json) |
+| 100 Kills Challenge | 278175 | [278175-100-kills-challenge.json](./278175-100-kills-challenge.json) |
 | 100 Kills Challenge: Origins | 294244 | [294244-100-kills-challenge-origins.json](./294244-100-kills-challenge-origins.json) |
 | 100 Korea Cats | 301030 | [301030-100-korea-cats.json](./301030-100-korea-cats.json) |
 | 100 Korea Cats: Extra Content | 325505 | [325505-100-korea-cats-extra-content.json](./325505-100-korea-cats-extra-content.json) |
@@ -2688,6 +2689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Puzzle: Wild West | 279016 | [279016-3d-puzzle-wild-west.json](./279016-3d-puzzle-wild-west.json) |
 | 3D Puzzle: Winter Outpost | 357753 | [357753-3d-puzzle-winter-outpost.json](./357753-3d-puzzle-winter-outpost.json) |
 | 3D Puzzle: Wood House | 192241 | [192241-3d-puzzle-wood-house.json](./192241-3d-puzzle-wood-house.json) |
+| 3D Puzzle: World War II | 278174 | [278174-3d-puzzle-world-war-ii.json](./278174-3d-puzzle-world-war-ii.json) |
 | 3D Quasars | 12356 | [12356-3d-quasars.json](./12356-3d-quasars.json) |
 | 3D Race Game | 393185 | [393185-3d-race-game.json](./393185-3d-race-game.json) |
 | 3D Raid River | 368952 | [368952-3d-raid-river.json](./368952-3d-raid-river.json) |
