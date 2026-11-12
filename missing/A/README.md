@@ -16701,6 +16701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Mirage: Fire Demon Pack | 271291 | [271291-assassins-creed-mirage-fire-demon-pack.json](./271291-assassins-creed-mirage-fire-demon-pack.json) |
 | Assassin's Creed Mirage: Guardian Pack | 274704 | [274704-assassins-creed-mirage-guardian-pack.json](./274704-assassins-creed-mirage-guardian-pack.json) |
 | Assassin's Creed Mirage: Jinn Pack | 360514 | [360514-assassins-creed-mirage-jinn-pack.json](./360514-assassins-creed-mirage-jinn-pack.json) |
+| Assassin's Creed Mirage: Launch Edition | 251266 | [251266-assassins-creed-mirage-launch-edition.json](./251266-assassins-creed-mirage-launch-edition.json) |
 | Assassin's Creed Mirage: Lightning Pack | 360515 | [360515-assassins-creed-mirage-lightning-pack.json](./360515-assassins-creed-mirage-lightning-pack.json) |
 | Assassin’s Creed Mirage: Master Assassin Edition | 276451 | [276451-assassin-s-creed-mirage-master-assassin-edition.json](./276451-assassin-s-creed-mirage-master-assassin-edition.json) |
 | Assassin's Creed Mirage: Master Assassin Pack | 360516 | [360516-assassins-creed-mirage-master-assassin-pack.json](./360516-assassins-creed-mirage-master-assassin-pack.json) |
