@@ -1546,6 +1546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman | 228272 | [228272-hangman.json](./228272-hangman.json) |
 | Hangman | 230850 | [230850-hangman.json](./230850-hangman.json) |
 | Hangman | 259633 | [259633-hangman.json](./259633-hangman.json) |
+| Hangman | 275771 | [275771-hangman.json](./275771-hangman.json) |
 | Hangman | 285157 | [285157-hangman.json](./285157-hangman.json) |
 | Hangman | 312938 | [312938-hangman.json](./312938-hangman.json) |
 | Hangman | 315463 | [315463-hangman.json](./315463-hangman.json) |
@@ -1571,6 +1572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangover | 81824 | [81824-hangover.json](./81824-hangover.json) |
 | Hangoverse: Season 1 | 370755 | [370755-hangoverse-season-1.json](./370755-hangoverse-season-1.json) |
 | Hangry | 291440 | [291440-hangry.json](./291440-hangry.json) |
+| Hangry Bear | 275853 | [275853-hangry-bear.json](./275853-hangry-bear.json) |
 | Hangry Bunnies From Mars | 54698 | [54698-hangry-bunnies-from-mars.json](./54698-hangry-bunnies-from-mars.json) |
 | Hangtime! | 373342 | [373342-hangtime.json](./373342-hangtime.json) |
 | HangTogether | 161633 | [161633-hangtogether.json](./161633-hangtogether.json) |
@@ -2505,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haruna: Spring | 398513 | [398513-haruna-spring.json](./398513-haruna-spring.json) |
 | Haruoto Alice Gram: Snow Drop | 113585 | [113585-haruoto-alice-gram-snow-drop.json](./113585-haruoto-alice-gram-snow-drop.json) |
 | Harusame Youbi | 71191 | [71191-harusame-youbi.json](./71191-harusame-youbi.json) |
+| Harve | 275851 | [275851-harve.json](./275851-harve.json) |
 | Harventure | 349279 | [349279-harventure.json](./349279-harventure.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
 | Harvest | 397463 | [397463-harvest.json](./397463-harvest.json) |
@@ -3667,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeartFix Express | 391195 | [391195-heartfix-express.json](./391195-heartfix-express.json) |
 | Heartful Memories: Little Witch Parfait 2 | 332419 | [332419-heartful-memories-little-witch-parfait-2.json](./332419-heartful-memories-little-witch-parfait-2.json) |
 | Hearth | 109116 | [109116-hearth.json](./109116-hearth.json) |
+| Hearth & Holmes | 275855 | [275855-hearth-and-holmes.json](./275855-hearth-and-holmes.json) |
 | Hearth and Hamlet | 392964 | [392964-hearth-and-hamlet.json](./392964-hearth-and-hamlet.json) |
 | Hearth Bound | 397128 | [397128-hearth-bound.json](./397128-hearth-bound.json) |
 | Hearth's Light: Potion Shop | 239669 | [239669-hearths-light-potion-shop.json](./239669-hearths-light-potion-shop.json) |
@@ -5640,6 +5644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Midori | 271911 | [271911-hentai-midori.json](./271911-hentai-midori.json) |
 | Hentai Miko | 236186 | [236186-hentai-miko.json](./236186-hentai-miko.json) |
 | Hentai Miko | 343754 | [343754-hentai-miko.json](./343754-hentai-miko.json) |
+| Hentai Milena | 275854 | [275854-hentai-milena.json](./275854-hentai-milena.json) |
 | Hentai Milf | 296908 | [296908-hentai-milf.json](./296908-hentai-milf.json) |
 | Hentai MILF Chloe | 293998 | [293998-hentai-milf-chloe.json](./293998-hentai-milf-chloe.json) |
 | Hentai Milf City | 371375 | [371375-hentai-milf-city.json](./371375-hentai-milf-city.json) |
@@ -7980,7 +7985,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden World 3 Top-Down 3D | 237810 | [237810-hidden-world-3-top-down-3d.json](./237810-hidden-world-3-top-down-3d.json) |
 | Hidden World 4 Top-Down 3D | 241531 | [241531-hidden-world-4-top-down-3d.json](./241531-hidden-world-4-top-down-3d.json) |
 | Hidden World 6 Top-Down 3D | 274054 | [274054-hidden-world-6-top-down-3d.json](./274054-hidden-world-6-top-down-3d.json) |
+| Hidden World 7 Top-Down 3D | 275858 | [275858-hidden-world-7-top-down-3d.json](./275858-hidden-world-7-top-down-3d.json) |
 | Hidden World 8 Top-Down 3D | 275947 | [275947-hidden-world-8-top-down-3d.json](./275947-hidden-world-8-top-down-3d.json) |
+| Hidden World 9 Top-Down 3D | 275857 | [275857-hidden-world-9-top-down-3d.json](./275857-hidden-world-9-top-down-3d.json) |
 | Hidden World of Art | 143381 | [143381-hidden-world-of-art.json](./143381-hidden-world-of-art.json) |
 | Hidden World of Art 2 | 126667 | [126667-hidden-world-of-art-2.json](./126667-hidden-world-of-art-2.json) |
 | Hidden World of Art 4 | 294848 | [294848-hidden-world-of-art-4.json](./294848-hidden-world-of-art-4.json) |
@@ -9308,6 +9315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Hysteria | 223839 | [223839-hockey-hysteria.json](./223839-hockey-hysteria.json) |
 | Hockey League Simulator | 15503 | [15503-hockey-league-simulator.json](./15503-hockey-league-simulator.json) |
 | Hockey League Simulator II | 15504 | [15504-hockey-league-simulator-ii.json](./15504-hockey-league-simulator-ii.json) |
+| Hockey Legacy Manager 24 | 275856 | [275856-hockey-legacy-manager-24.json](./275856-hockey-legacy-manager-24.json) |
 | Hockey Legacy Manager 25 | 340475 | [340475-hockey-legacy-manager-25.json](./340475-hockey-legacy-manager-25.json) |
 | Hockey Legacy Manager 26 | 365944 | [365944-hockey-legacy-manager-26.json](./365944-hockey-legacy-manager-26.json) |
 | Hockey Manager 20\|20 | 129979 | [129979-hockey-manager-20-20.json](./129979-hockey-manager-20-20.json) |
@@ -9686,6 +9694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywhoot | 107011 | [107011-hollywhoot.json](./107011-hollywhoot.json) |
 | Hollywood | 83723 | [83723-hollywood.json](./83723-hollywood.json) |
 | Hollywood 61 | 78734 | [78734-hollywood-61.json](./78734-hollywood-61.json) |
+| Hollywood Animal | 275792 | [275792-hollywood-animal.json](./275792-hollywood-animal.json) |
 | Hollywood Crush | 349252 | [349252-hollywood-crush.json](./349252-hollywood-crush.json) |
 | Hollywood Escape | 70912 | [70912-hollywood-escape.json](./70912-hollywood-escape.json) |
 | Hollywood Fame: Hidden Object Adventure | 84517 | [84517-hollywood-fame-hidden-object-adventure.json](./84517-hollywood-fame-hidden-object-adventure.json) |
