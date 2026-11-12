@@ -10434,6 +10434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DinoKnights | 107802 | [107802-dinoknights.json](./107802-dinoknights.json) |
 | Dinoku | 83533 | [83533-dinoku.json](./83533-dinoku.json) |
 | Dinoland | 165672 | [165672-dinoland.json](./165672-dinoland.json) |
+| DinoLauncher | 300620 | [300620-dinolauncher.json](./300620-dinolauncher.json) |
 | DinoLife | 212909 | [212909-dinolife.json](./212909-dinolife.json) |
 | Dinolords | 270548 | [270548-dinolords.json](./270548-dinolords.json) |
 | Dinolympics | 40842 | [40842-dinolympics.json](./40842-dinolympics.json) |
@@ -11252,6 +11253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Hotshots: Disney's 101 Dalmatians | 228661 | [228661-disney-hotshots-disneys-101-dalmatians.json](./228661-disney-hotshots-disneys-101-dalmatians.json) |
 | Disney Hotshots: Disney's Tarzan | 231854 | [231854-disney-hotshots-disneys-tarzan.json](./231854-disney-hotshots-disneys-tarzan.json) |
 | Disney Hotshots: The Little Mermaid | 228446 | [228446-disney-hotshots-the-little-mermaid.json](./228446-disney-hotshots-the-little-mermaid.json) |
+| Disney Infinity | 300594 | [300594-disney-infinity.json](./300594-disney-infinity.json) |
 | Disney Infinity 2.0 Spider-Man Playset | 263922 | [263922-disney-infinity-2-0-spider-man-playset.json](./263922-disney-infinity-2-0-spider-man-playset.json) |
 | Disney Infinity 2.0: Gold Edition | 30978 | [30978-disney-infinity-2-0-gold-edition.json](./30978-disney-infinity-2-0-gold-edition.json) |
 | Disney Infinity 2.0: Marvel Super Heroes | 17818 | [17818-disney-infinity-2-0-marvel-super-heroes.json](./17818-disney-infinity-2-0-marvel-super-heroes.json) |
