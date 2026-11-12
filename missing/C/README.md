@@ -19954,6 +19954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush & Chill | 104274 | [104274-crush-and-chill.json](./104274-crush-and-chill.json) |
 | Crush & Squash | 75805 | [75805-crush-and-squash.json](./75805-crush-and-squash.json) |
 | Crush at First Sight | 294068 | [294068-crush-at-first-sight.json](./294068-crush-at-first-sight.json) |
+| Crush Bandicoot | 282861 | [282861-crush-bandicoot.json](./282861-crush-bandicoot.json) |
 | Crush Beats: Club Candy | 96763 | [96763-crush-beats-club-candy.json](./96763-crush-beats-club-candy.json) |
 | Crush Corp | 397500 | [397500-crush-corp.json](./397500-crush-corp.json) |
 | Crush Crush | 187865 | [187865-crush-crush.json](./187865-crush-crush.json) |
