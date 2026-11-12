@@ -15498,6 +15498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MMA Arena | 117047 | [117047-mma-arena.json](./117047-mma-arena.json) |
 | MMA Championship | 189178 | [189178-mma-championship.json](./189178-mma-championship.json) |
 | MMA Federation | 116394 | [116394-mma-federation.json](./116394-mma-federation.json) |
+| MMA Life Simulator | 274692 | [274692-mma-life-simulator.json](./274692-mma-life-simulator.json) |
 | MMA Manager | 175306 | [175306-mma-manager.json](./175306-mma-manager.json) |
 | MMA Manager 2: Ultimate Fight | 174811 | [174811-mma-manager-2-ultimate-fight.json](./174811-mma-manager-2-ultimate-fight.json) |
 | MMA Simulator | 108432 | [108432-mma-simulator.json](./108432-mma-simulator.json) |
@@ -22476,6 +22477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Little Pegasus: Kizuna DoPonyPachi | 221574 | [221574-my-little-pegasus-kizuna-doponypachi.json](./221574-my-little-pegasus-kizuna-doponypachi.json) |
 | My Little Pet Girlfriend | 205997 | [205997-my-little-pet-girlfriend.json](./205997-my-little-pet-girlfriend.json) |
 | My Little Pony | 206776 | [206776-my-little-pony.json](./206776-my-little-pony.json) |
+| My Little Pony AR | 274703 | [274703-my-little-pony-ar.json](./274703-my-little-pony-ar.json) |
 | My Little Pony Celebration | 138466 | [138466-my-little-pony-celebration.json](./138466-my-little-pony-celebration.json) |
 | My Little Pony Crystal Princess: The Runaway Rainbow | 49389 | [49389-my-little-pony-crystal-princess-the-runaway-rainbow.json](./49389-my-little-pony-crystal-princess-the-runaway-rainbow.json) |
 | My Little Pony Hair Salon | 287085 | [287085-my-little-pony-hair-salon.json](./287085-my-little-pony-hair-salon.json) |
