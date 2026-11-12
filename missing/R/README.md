@@ -7061,6 +7061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReverseBlue x Re-birthend | 362785 | [362785-reverseblue-x-re-birthend.json](./362785-reverseblue-x-re-birthend.json) |
 | Reversed Dreamland | 50515 | [50515-reversed-dreamland.json](./50515-reversed-dreamland.json) |
 | Reversed Front | 224632 | [224632-reversed-front.json](./224632-reversed-front.json) |
+| Reversed Genji Romance | 299632 | [299632-reversed-genji-romance.json](./299632-reversed-genji-romance.json) |
 | Reversed Rebecca | 235682 | [235682-reversed-rebecca.json](./235682-reversed-rebecca.json) |
 | ReverseRoom | 238511 | [238511-reverseroom.json](./238511-reverseroom.json) |
 | ReversEstory | 149156 | [149156-reversestory.json](./149156-reversestory.json) |
