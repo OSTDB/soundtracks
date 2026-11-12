@@ -5292,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remain on Earth | 316135 | [316135-remain-on-earth.json](./316135-remain-on-earth.json) |
 | Remaining in a Dream | 30950 | [30950-remaining-in-a-dream.json](./30950-remaining-in-a-dream.json) |
 | Remains | 151910 | [151910-remains.json](./151910-remains.json) |
+| Remains | 274157 | [274157-remains.json](./274157-remains.json) |
 | Remains of Morrow | 197447 | [197447-remains-of-morrow.json](./197447-remains-of-morrow.json) |
 | Remains of Yith | 340007 | [340007-remains-of-yith.json](./340007-remains-of-yith.json) |
 | Remains: Echoes of Strength | 391127 | [391127-remains-echoes-of-strength.json](./391127-remains-echoes-of-strength.json) |
@@ -9011,6 +9012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road 96: Mile 0 - Full Journey Bundle | 243799 | [243799-road-96-mile-0-full-journey-bundle.json](./243799-road-96-mile-0-full-journey-bundle.json) |
 | Road 96: Mile 0 - Stronger Together Bundle | 243802 | [243802-road-96-mile-0-stronger-together-bundle.json](./243802-road-96-mile-0-stronger-together-bundle.json) |
 | Road Accident With Dangerous Goods VR Training | 242417 | [242417-road-accident-with-dangerous-goods-vr-training.json](./242417-road-accident-with-dangerous-goods-vr-training.json) |
+| Road Adventures USA | 274231 | [274231-road-adventures-usa.json](./274231-road-adventures-usa.json) |
 | Road Avenger | 93049 | [93049-road-avenger.json](./93049-road-avenger.json) |
 | Road Block | 124709 | [124709-road-block.json](./124709-road-block.json) |
 | Road Builder | 172994 | [172994-road-builder.json](./172994-road-builder.json) |
