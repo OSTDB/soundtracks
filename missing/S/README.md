@@ -5247,6 +5247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seekers of Eclipse | 278697 | [278697-seekers-of-eclipse.json](./278697-seekers-of-eclipse.json) |
 | Seekers of Sahul | 236356 | [236356-seekers-of-sahul.json](./236356-seekers-of-sahul.json) |
 | Seekers of Skyveil | 291335 | [291335-seekers-of-skyveil.json](./291335-seekers-of-skyveil.json) |
+| Seekers: Enlightenment | 311921 | [311921-seekers-enlightenment.json](./311921-seekers-enlightenment.json) |
 | Seeking Adventure | 331970 | [331970-seeking-adventure.json](./331970-seeking-adventure.json) |
 | Seeking Asylum: Revelations | 216205 | [216205-seeking-asylum-revelations.json](./216205-seeking-asylum-revelations.json) |
 | Seeking Asylum: The Game | 390522 | [390522-seeking-asylum-the-game.json](./390522-seeking-asylum-the-game.json) |
@@ -12164,6 +12165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singing Easter Eggs | 293217 | [293217-singing-easter-eggs.json](./293217-singing-easter-eggs.json) |
 | Singing Horses | 293218 | [293218-singing-horses.json](./293218-singing-horses.json) |
 | Singing Stones VR | 30353 | [30353-singing-stones-vr.json](./30353-singing-stones-vr.json) |
+| SingIt Portugal Hits Summer Party | 312402 | [312402-singit-portugal-hits-summer-party.json](./312402-singit-portugal-hits-summer-party.json) |
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
 | Single Ennead | 310976 | [310976-single-ennead.json](./310976-single-ennead.json) |
 | Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
@@ -17671,6 +17673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solid Aether | 107763 | [107763-solid-aether.json](./107763-solid-aether.json) |
 | Solid Boat Adventure | 420801 | [420801-solid-boat-adventure.json](./420801-solid-boat-adventure.json) |
 | Solid Body Picross | 124053 | [124053-solid-body-picross.json](./124053-solid-body-picross.json) |
+| Solid Chunks | 312392 | [312392-solid-chunks.json](./312392-solid-chunks.json) |
 | Solid Flight | 370368 | [370368-solid-flight.json](./370368-solid-flight.json) |
 | Solid Force | 80122 | [80122-solid-force.json](./80122-solid-force.json) |
 | Solid Gold | 38832 | [38832-solid-gold.json](./38832-solid-gold.json) |
@@ -29163,6 +29166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop the Press! | 381631 | [381631-stop-the-press.json](./381631-stop-the-press.json) |
 | Stop the Saturnians! | 188841 | [188841-stop-the-saturnians.json](./188841-stop-the-saturnians.json) |
 | Stop the Slimes | 273967 | [273967-stop-the-slimes.json](./273967-stop-the-slimes.json) |
+| Stop Them All | 311923 | [311923-stop-them-all.json](./311923-stop-them-all.json) |
 | Stop Thief | 301438 | [301438-stop-thief.json](./301438-stop-thief.json) |
 | Stop Those Aliens! | 277567 | [277567-stop-those-aliens.json](./277567-stop-those-aliens.json) |
 | Stop to Explode | 295946 | [295946-stop-to-explode.json](./295946-stop-to-explode.json) |
