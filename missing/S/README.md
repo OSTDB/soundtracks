@@ -9163,7 +9163,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi | 339235 | [339235-shinobi.json](./339235-shinobi.json) |
 | Shinobi | 364751 | [364751-shinobi.json](./364751-shinobi.json) |
 | Shinobi | 6899 | [6899-shinobi.json](./6899-shinobi.json) |
-| Shinobi | 86252 | [86252-shinobi.json](./86252-shinobi.json) |
 | Shinobi Blade | 147666 | [147666-shinobi-blade.json](./147666-shinobi-blade.json) |
 | Shinobi Breaker | 169844 | [169844-shinobi-breaker.json](./169844-shinobi-breaker.json) |
 | Shinobi Harisenbo | 242045 | [242045-shinobi-harisenbo.json](./242045-shinobi-harisenbo.json) |
@@ -26786,7 +26785,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Escape | 373158 | [373158-stardust-escape.json](./373158-stardust-escape.json) |
 | Stardust Exile | 197462 | [197462-stardust-exile.json](./197462-stardust-exile.json) |
 | Stardust Falls | 134264 | [134264-stardust-falls.json](./134264-stardust-falls.json) |
-| Stardust Galaxy Warriors: Stellar Climax | 23957 | [23957-stardust-galaxy-warriors-stellar-climax.json](./23957-stardust-galaxy-warriors-stellar-climax.json) |
 | Stardust Kids | 300634 | [300634-stardust-kids.json](./300634-stardust-kids.json) |
 | Stardust League | 222391 | [222391-stardust-league.json](./222391-stardust-league.json) |
 | Stardust Odyssey | 122994 | [122994-stardust-odyssey.json](./122994-stardust-odyssey.json) |
