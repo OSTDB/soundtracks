@@ -8303,6 +8303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biggles On Mars | 267594 | [267594-biggles-on-mars.json](./267594-biggles-on-mars.json) |
 | Bighand Finding Hunter | 89491 | [89491-bighand-finding-hunter.json](./89491-bighand-finding-hunter.json) |
 | BigHardSun | 122804 | [122804-bighardsun.json](./122804-bighardsun.json) |
+| Bighead | 300592 | [300592-bighead.json](./300592-bighead.json) |
 | Bighead Runner | 102379 | [102379-bighead-runner.json](./102379-bighead-runner.json) |
 | Bighorn Ramone | 422134 | [422134-bighorn-ramone.json](./422134-bighorn-ramone.json) |
 | Biglands: A Game Made By Kids | 17710 | [17710-biglands-a-game-made-by-kids.json](./17710-biglands-a-game-made-by-kids.json) |
@@ -11004,6 +11005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bliss Island | 23102 | [23102-bliss-island.json](./23102-bliss-island.json) |
 | Bliss Maze | 110658 | [110658-bliss-maze.json](./110658-bliss-maze.json) |
 | Bliss Valley | 336062 | [336062-bliss-valley.json](./336062-bliss-valley.json) |
+| Blissful Acres | 300610 | [300610-blissful-acres.json](./300610-blissful-acres.json) |
 | Blister Blight | 290615 | [290615-blister-blight.json](./290615-blister-blight.json) |
 | Blit Seige | 138615 | [138615-blit-seige.json](./138615-blit-seige.json) |
 | Blithe | 177528 | [177528-blithe.json](./177528-blithe.json) |
@@ -12062,6 +12064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodpire | 216744 | [216744-bloodpire.json](./216744-bloodpire.json) |
 | Bloodplague Lockdown | 373721 | [373721-bloodplague-lockdown.json](./373721-bloodplague-lockdown.json) |
 | Bloodpunished: No Time Por Patience | 351373 | [351373-bloodpunished-no-time-por-patience.json](./351373-bloodpunished-no-time-por-patience.json) |
+| Bloodrails | 300599 | [300599-bloodrails.json](./300599-bloodrails.json) |
 | BloodRayne | 1015 | [1015-bloodrayne.json](./1015-bloodrayne.json) |
 | Bloodrayne 1 & 2: Revamped Dual Pack | 178178 | [178178-bloodrayne-1-and-2-revamped-dual-pack.json](./178178-bloodrayne-1-and-2-revamped-dual-pack.json) |
 | BloodRayne 2 | 1016 | [1016-bloodrayne-2.json](./1016-bloodrayne-2.json) |
