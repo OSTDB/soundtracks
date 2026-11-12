@@ -5148,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiatori | 188893 | [188893-gladiatori.json](./188893-gladiatori.json) |
 | Gladiatorial Conquest: Battle Arena of Legends | 283266 | [283266-gladiatorial-conquest-battle-arena-of-legends.json](./283266-gladiatorial-conquest-battle-arena-of-legends.json) |
 | Gladiators and Glory | 226567 | [226567-gladiators-and-glory.json](./226567-gladiators-and-glory.json) |
+| Gladiators Arena | 247226 | [247226-gladiators-arena.json](./247226-gladiators-arena.json) |
 | Gladiators Battle | 321642 | [321642-gladiators-battle.json](./321642-gladiators-battle.json) |
 | Gladiators Idle | 340304 | [340304-gladiators-idle.json](./340304-gladiators-idle.json) |
 | Gladiators Manager | 155861 | [155861-gladiators-manager.json](./155861-gladiators-manager.json) |
@@ -9671,6 +9672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Moon | 23247 | [23247-green-moon.json](./23247-green-moon.json) |
 | Green Moon 2 | 31773 | [31773-green-moon-2.json](./31773-green-moon-2.json) |
 | Green Mountain | 307409 | [307409-green-mountain.json](./307409-green-mountain.json) |
+| Green New Deal Simulator | 247231 | [247231-green-new-deal-simulator.json](./247231-green-new-deal-simulator.json) |
 | Green Ninja: Year of the Frog | 280914 | [280914-green-ninja-year-of-the-frog.json](./280914-green-ninja-year-of-the-frog.json) |
 | Green Oddities | 239281 | [239281-green-oddities.json](./239281-green-oddities.json) |
 | Green Ogre Gives You Terrible Life Advice and Dies | 309507 | [309507-green-ogre-gives-you-terrible-life-advice-and-dies.json](./309507-green-ogre-gives-you-terrible-life-advice-and-dies.json) |
