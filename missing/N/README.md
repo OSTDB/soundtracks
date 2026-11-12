@@ -1757,6 +1757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecroFarm | 195468 | [195468-necrofarm.json](./195468-necrofarm.json) |
 | Necroffense | 220711 | [220711-necroffense.json](./220711-necroffense.json) |
 | Necroflora | 333542 | [333542-necroflora.json](./333542-necroflora.json) |
+| Necroforge | 288395 | [288395-necroforge.json](./288395-necroforge.json) |
 | Necrofugitive | 123772 | [123772-necrofugitive.json](./123772-necrofugitive.json) |
 | Necrojacks | 160207 | [160207-necrojacks.json](./160207-necrojacks.json) |
 | Necroking | 291826 | [291826-necroking.json](./291826-necroking.json) |
