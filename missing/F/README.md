@@ -1448,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout Trilogy | 45128 | [45128-fallout-trilogy.json](./45128-fallout-trilogy.json) |
 | Fallout Zero | 343938 | [343938-fallout-zero.json](./343938-fallout-zero.json) |
 | Fallout Zone: Survival | 104514 | [104514-fallout-zone-survival.json](./104514-fallout-zone-survival.json) |
+| Fallout ZX | 281700 | [281700-fallout-zx.json](./281700-fallout-zx.json) |
 | Fallout: A Tale of Two Wastelands | 143196 | [143196-fallout-a-tale-of-two-wastelands.json](./143196-fallout-a-tale-of-two-wastelands.json) |
 | Fallout: Bakersfield | 356437 | [356437-fallout-bakersfield.json](./356437-fallout-bakersfield.json) |
 | Fallout: Brotherhood of Steel | 7412 | [7412-fallout-brotherhood-of-steel.json](./7412-fallout-brotherhood-of-steel.json) |
@@ -1469,6 +1470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: New Vegas - Ultimate Edition | 25532 | [25532-fallout-new-vegas-ultimate-edition.json](./25532-fallout-new-vegas-ultimate-edition.json) |
 | Fallout: New Vegas Remaster | 410463 | [410463-fallout-new-vegas-remaster.json](./410463-fallout-new-vegas-remaster.json) |
 | Fallout: Nuclear Sunset | 406432 | [406432-fallout-nuclear-sunset.json](./406432-fallout-nuclear-sunset.json) |
+| Fallout: Nuevo Mexico | 281702 | [281702-fallout-nuevo-mexico.json](./281702-fallout-nuevo-mexico.json) |
 | Fallout: Oblivion Lost | 250696 | [250696-fallout-oblivion-lost.json](./250696-fallout-oblivion-lost.json) |
 | Fallout: Sonora | 237831 | [237831-fallout-sonora.json](./237831-fallout-sonora.json) |
 | Fallout: Sonora Dayglow | 333655 | [333655-fallout-sonora-dayglow.json](./333655-fallout-sonora-dayglow.json) |
@@ -10226,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For The Cat! Sorcerer's Revenge | 404012 | [404012-for-the-cat-sorcerers-revenge.json](./404012-for-the-cat-sorcerers-revenge.json) |
 | For the Crown | 226007 | [226007-for-the-crown.json](./226007-for-the-crown.json) |
 | For the Culture | 106721 | [106721-for-the-culture.json](./106721-for-the-culture.json) |
+| For The Entity | 281698 | [281698-for-the-entity.json](./281698-for-the-entity.json) |
 | For The Fatherland | 408123 | [408123-for-the-fatherland.json](./408123-for-the-fatherland.json) |
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
 | For the Forge | 348403 | [348403-for-the-forge.json](./348403-for-the-forge.json) |
