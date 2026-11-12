@@ -230,6 +230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Manager 2024: Historical Livery Pack | 339293 | [339293-f1-manager-2024-historical-livery-pack.json](./339293-f1-manager-2024-historical-livery-pack.json) |
 | F1 Online: The Game | 92512 | [92512-f1-online-the-game.json](./92512-f1-online-the-game.json) |
 | F1 Pilot | 44326 | [44326-f1-pilot.json](./44326-f1-pilot.json) |
+| F1 Pole Position | 259870 | [259870-f1-pole-position.json](./259870-f1-pole-position.json) |
 | F1 Pole Position | 48947 | [48947-f1-pole-position.json](./48947-f1-pole-position.json) |
 | F1 Pole Position 2 | 42557 | [42557-f1-pole-position-2.json](./42557-f1-pole-position-2.json) |
 | F1 Pole Position 64 | 3494 | [3494-f1-pole-position-64.json](./3494-f1-pole-position-64.json) |
@@ -4019,6 +4020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed: Fish and Grow | 193856 | [193856-feed-fish-and-grow.json](./193856-feed-fish-and-grow.json) |
 | Feed’em Burger | 248276 | [248276-feed-em-burger.json](./248276-feed-em-burger.json) |
 | FeedBack | 381012 | [381012-feedback.json](./381012-feedback.json) |
+| FeedBee and Friends: Left to Rock | 259780 | [259780-feedbee-and-friends-left-to-rock.json](./259780-feedbee-and-friends-left-to-rock.json) |
 | Feeder | 183692 | [183692-feeder.json](./183692-feeder.json) |
 | Feeding Frenzy 2: Shipwreck Showdown | 8321 | [8321-feeding-frenzy-2-shipwreck-showdown.json](./8321-feeding-frenzy-2-shipwreck-showdown.json) |
 | Feeding Kimunakji 2 | 122924 | [122924-feeding-kimunakji-2.json](./122924-feeding-kimunakji-2.json) |
@@ -7674,6 +7676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights with Mac Tonight 2 | 305326 | [305326-five-nights-with-mac-tonight-2.json](./305326-five-nights-with-mac-tonight-2.json) |
 | Five Nights with Mac Tonight: Halloween Special | 331593 | [331593-five-nights-with-mac-tonight-halloween-special.json](./331593-five-nights-with-mac-tonight-halloween-special.json) |
 | Five Nights with Maids | 405935 | [405935-five-nights-with-maids.json](./405935-five-nights-with-maids.json) |
+| Five Nights With Mr. Hugs (& Friends) | 259778 | [259778-five-nights-with-mr-hugs-and-friends.json](./259778-five-nights-with-mr-hugs-and-friends.json) |
 | Five Nights With Your Mother | 376200 | [376200-five-nights-with-your-mother.json](./376200-five-nights-with-your-mother.json) |
 | Five Owls | 343867 | [343867-five-owls.json](./343867-five-owls.json) |
 | Five Rooms | 102361 | [102361-five-rooms.json](./102361-five-rooms.json) |
@@ -12439,6 +12442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fred's Idle Garden | 373426 | [373426-freds-idle-garden.json](./373426-freds-idle-garden.json) |
 | Fred3ric | 139225 | [139225-fred3ric.json](./139225-fred3ric.json) |
 | Fredbear and Friends: Left to Rot | 233967 | [233967-fredbear-and-friends-left-to-rot.json](./233967-fredbear-and-friends-left-to-rot.json) |
+| Fredbear and Friends: Out of the Machine | 259777 | [259777-fredbear-and-friends-out-of-the-machine.json](./259777-fredbear-and-friends-out-of-the-machine.json) |
 | Fredbear and Friends: Reboot | 319668 | [319668-fredbear-and-friends-reboot.json](./319668-fredbear-and-friends-reboot.json) |
 | Fredbear Game Number 998433 | 397951 | [397951-fredbear-game-number-998433.json](./397951-fredbear-game-number-998433.json) |
 | Fredbear's Fright | 225631 | [225631-fredbears-fright.json](./225631-fredbears-fright.json) |
