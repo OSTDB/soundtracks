@@ -2253,6 +2253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jīnchǎnchǎn zhī Zhàn | 279168 | [279168-jinchanchan-zhi-zhan.json](./279168-jinchanchan-zhi-zhan.json) |
 | Jinchou | 337480 | [337480-jinchou.json](./337480-jinchou.json) |
 | Jing 'an District Copstories | 157043 | [157043-jing-an-district-copstories.json](./157043-jing-an-district-copstories.json) |
+| Jìng Huā Yuán | 300589 | [300589-jing-hua-yuan.json](./300589-jing-hua-yuan.json) |
 | Jìng Shìjiè | 188441 | [188441-jing-shijie.json](./188441-jing-shijie.json) |
 | Jing Tian Ji | 150292 | [150292-jing-tian-ji.json](./150292-jing-tian-ji.json) |
 | Jinga Online | 125064 | [125064-jinga-online.json](./125064-jinga-online.json) |
@@ -4158,6 +4159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurnal Risa: Dark Destiny | 334165 | [334165-jurnal-risa-dark-destiny.json](./334165-jurnal-risa-dark-destiny.json) |
 | Juro Janosik | 115408 | [115408-juro-janosik.json](./115408-juro-janosik.json) |
 | Juruna | 240824 | [240824-juruna.json](./240824-juruna.json) |
+| Jury Doody | 300606 | [300606-jury-doody.json](./300606-jury-doody.json) |
 | Jury Trial | 160157 | [160157-jury-trial.json](./160157-jury-trial.json) |
 | Jury: Episode 1 - Before the Trial | 293841 | [293841-jury-episode-1-before-the-trial.json](./293841-jury-episode-1-before-the-trial.json) |
 | Jury: Episode 2 - The Trial of Brooke Lafferty | 293842 | [293842-jury-episode-2-the-trial-of-brooke-lafferty.json](./293842-jury-episode-2-the-trial-of-brooke-lafferty.json) |
