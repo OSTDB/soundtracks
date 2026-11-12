@@ -867,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painted Legend 2 | 160053 | [160053-painted-legend-2.json](./160053-painted-legend-2.json) |
 | Painted Legend: Knights of Ink & Paper | 333292 | [333292-painted-legend-knights-of-ink-and-paper.json](./333292-painted-legend-knights-of-ink-and-paper.json) |
 | Painted Memories | 30752 | [30752-painted-memories.json](./30752-painted-memories.json) |
+| Painted Peril | 251795 | [251795-painted-peril.json](./251795-painted-peril.json) |
 | Painted Red | 56883 | [56883-painted-red.json](./56883-painted-red.json) |
 | Painted Tomb | 125925 | [125925-painted-tomb.json](./125925-painted-tomb.json) |
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
@@ -3280,6 +3281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path Weaver | 296644 | [296644-path-weaver.json](./296644-path-weaver.json) |
 | Path Zero | 363634 | [363634-path-zero.json](./363634-path-zero.json) |
 | Path: Through the Forest | 151598 | [151598-path-through-the-forest.json](./151598-path-through-the-forest.json) |
+| PathBlasters | 251886 | [251886-pathblasters.json](./251886-pathblasters.json) |
 | Pathbreakers: Roaming Blades | 344141 | [344141-pathbreakers-roaming-blades.json](./344141-pathbreakers-roaming-blades.json) |
 | PathCraft | 204340 | [204340-pathcraft.json](./204340-pathcraft.json) |
 | Pathfinder | 282100 | [282100-pathfinder.json](./282100-pathfinder.json) |
@@ -7236,6 +7238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PillPop | 138645 | [138645-pillpop.json](./138645-pillpop.json) |
 | Pills4Skills | 33903 | [33903-pills4skills.json](./33903-pills4skills.json) |
 | Pillz | 180412 | [180412-pillz.json](./180412-pillz.json) |
+| Pilo and the Holobook | 251865 | [251865-pilo-and-the-holobook.json](./251865-pilo-and-the-holobook.json) |
 | Pilot | 137773 | [137773-pilot.json](./137773-pilot.json) |
 | Pilot 6174: Orbital Survival | 386445 | [386445-pilot-6174-orbital-survival.json](./386445-pilot-6174-orbital-survival.json) |
 | Pilot Academy | 23121 | [23121-pilot-academy.json](./23121-pilot-academy.json) |
@@ -19699,6 +19702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle by Nikoli S: Numberlink | 250392 | [250392-puzzle-by-nikoli-s-numberlink.json](./250392-puzzle-by-nikoli-s-numberlink.json) |
 | Puzzle by Nikoli S: Nurikabe | 231075 | [231075-puzzle-by-nikoli-s-nurikabe.json](./231075-puzzle-by-nikoli-s-nurikabe.json) |
 | Puzzle by Nikoli S: Shikaku | 245913 | [245913-puzzle-by-nikoli-s-shikaku.json](./245913-puzzle-by-nikoli-s-shikaku.json) |
+| Puzzle by Nikoli S: Yajilin | 251802 | [251802-puzzle-by-nikoli-s-yajilin.json](./251802-puzzle-by-nikoli-s-yajilin.json) |
 | Puzzle by Nikoli S: Yajirin | 251479 | [251479-puzzle-by-nikoli-s-yajirin.json](./251479-puzzle-by-nikoli-s-yajirin.json) |
 | Puzzle by Nikoli V: Slitherlink | 65164 | [65164-puzzle-by-nikoli-v-slitherlink.json](./65164-puzzle-by-nikoli-v-slitherlink.json) |
 | Puzzle by Nikoli V: Sudoku | 64936 | [64936-puzzle-by-nikoli-v-sudoku.json](./64936-puzzle-by-nikoli-v-sudoku.json) |
