@@ -9301,6 +9301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody | 67460 | [67460-melody.json](./67460-melody.json) |
 | Melody Ball | 344722 | [344722-melody-ball.json](./344722-melody-ball.json) |
 | Melody before the Dawn | 367404 | [367404-melody-before-the-dawn.json](./367404-melody-before-the-dawn.json) |
+| Melody Blaster | 270255 | [270255-melody-blaster.json](./270255-melody-blaster.json) |
 | Melody Duel | 176185 | [176185-melody-duel.json](./176185-melody-duel.json) |
 | Melody Flight | 128134 | [128134-melody-flight.json](./128134-melody-flight.json) |
 | Melody Friends | 389980 | [389980-melody-friends.json](./389980-melody-friends.json) |
@@ -19283,6 +19284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motobug the Badnik in Sonic the Hedgehog | 201831 | [201831-motobug-the-badnik-in-sonic-the-hedgehog.json](./201831-motobug-the-badnik-in-sonic-the-hedgehog.json) |
 | Motocon | 395189 | [395189-motocon.json](./395189-motocon.json) |
 | Motocross | 159094 | [159094-motocross.json](./159094-motocross.json) |
+| Motocross | 270254 | [270254-motocross.json](./270254-motocross.json) |
 | Motocross | 68155 | [68155-motocross.json](./68155-motocross.json) |
 | Motocross | 72336 | [72336-motocross.json](./72336-motocross.json) |
 | Motocross | 8406 | [8406-motocross.json](./8406-motocross.json) |
@@ -20073,6 +20075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Ball | 232512 | [232512-mr-ball.json](./232512-mr-ball.json) |
 | Mr. Balls | 230677 | [230677-mr-balls.json](./230677-mr-balls.json) |
 | Mr. Barrel | 68218 | [68218-mr-barrel.json](./68218-mr-barrel.json) |
+| Mr. BASIC Meets Bits 'N Bytes | 270253 | [270253-mr-basic-meets-bits-n-bytes.json](./270253-mr-basic-meets-bits-n-bytes.json) |
 | Mr. Bean Solitaire | 278219 | [278219-mr-bean-solitaire.json](./278219-mr-bean-solitaire.json) |
 | Mr. Bean: Special Delivery | 110284 | [110284-mr-bean-special-delivery.json](./110284-mr-bean-special-delivery.json) |
 | Mr. Bean's Wacky World | 50621 | [50621-mr-beans-wacky-world.json](./50621-mr-beans-wacky-world.json) |
