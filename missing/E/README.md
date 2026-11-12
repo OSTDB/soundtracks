@@ -7536,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everspace: Galactic Edition | 90054 | [90054-everspace-galactic-edition.json](./90054-everspace-galactic-edition.json) |
 | Everspace: Stellar Edition | 102126 | [102126-everspace-stellar-edition.json](./102126-everspace-stellar-edition.json) |
 | Everspace: Ultimate Edition | 361101 | [361101-everspace-ultimate-edition.json](./361101-everspace-ultimate-edition.json) |
+| Everspell | 263251 | [263251-everspell.json](./263251-everspell.json) |
 | Everstead: Origins | 346498 | [346498-everstead-origins.json](./346498-everstead-origins.json) |
 | Everstill Valley | 394899 | [394899-everstill-valley.json](./394899-everstill-valley.json) |
 | Everstorm | 283100 | [283100-everstorm.json](./283100-everstorm.json) |
