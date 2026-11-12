@@ -6697,6 +6697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaotic Good Boy | 295149 | [295149-chaotic-good-boy.json](./295149-chaotic-good-boy.json) |
 | Chaotic Loop | 202650 | [202650-chaotic-loop.json](./202650-chaotic-loop.json) |
 | Chaotic Pursuit | 259857 | [259857-chaotic-pursuit.json](./259857-chaotic-pursuit.json) |
+| Chaotic Trinity | 271442 | [271442-chaotic-trinity.json](./271442-chaotic-trinity.json) |
 | Chaotic Void | 83986 | [83986-chaotic-void.json](./83986-chaotic-void.json) |
 | Chaotic World | 414343 | [414343-chaotic-world.json](./414343-chaotic-world.json) |
 | Chaotic: Shadow Warriors | 197894 | [197894-chaotic-shadow-warriors.json](./197894-chaotic-shadow-warriors.json) |
@@ -9341,6 +9342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrysler Classic Racing | 51042 | [51042-chrysler-classic-racing.json](./51042-chrysler-classic-racing.json) |
 | Chrysolite | 277460 | [277460-chrysolite.json](./277460-chrysolite.json) |
 | Chthonian TD | 406144 | [406144-chthonian-td.json](./406144-chthonian-td.json) |
+| Chthonic Deities | 271346 | [271346-chthonic-deities.json](./271346-chthonic-deities.json) |
 | Chu | 206554 | [206554-chu.json](./206554-chu.json) |
 | Chu Da D | 247391 | [247391-chu-da-d.json](./247391-chu-da-d.json) |
 | Chǔ Hàn Nǚzǐ | 159474 | [159474-chu-han-nuzi.json](./159474-chu-han-nuzi.json) |
@@ -11993,7 +11995,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coach Fight | 304104 | [304104-coach-fight.json](./304104-coach-fight.json) |
 | Coach K College Basketball | 46226 | [46226-coach-k-college-basketball.json](./46226-coach-k-college-basketball.json) |
 | Coaching Simulator | 312448 | [312448-coaching-simulator.json](./312448-coaching-simulator.json) |
+| Coagula | 271436 | [271436-coagula.json](./271436-coagula.json) |
 | Coagula Mappack #3 | 271482 | [271482-coagula-mappack-3.json](./271482-coagula-mappack-3.json) |
+| Coagula2: Flesh | 271437 | [271437-coagula2-flesh.json](./271437-coagula2-flesh.json) |
 | Coagula3: Bone | 271499 | [271499-coagula3-bone.json](./271499-coagula3-bone.json) |
 | Coagulation Station | 313307 | [313307-coagulation-station.json](./313307-coagulation-station.json) |
 | Coal Duty | 405677 | [405677-coal-duty.json](./405677-coal-duty.json) |
@@ -14487,6 +14491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concentration Game (Pexeso, Pairs) for Kids | 90448 | [90448-concentration-game-pexeso-pairs-for-kids.json](./90448-concentration-game-pexeso-pairs-for-kids.json) |
 | Concentration Required | 338882 | [338882-concentration-required.json](./338882-concentration-required.json) |
 | Concentric | 134765 | [134765-concentric.json](./134765-concentric.json) |
+| Concentric Devastation | 271360 | [271360-concentric-devastation.json](./271360-concentric-devastation.json) |
 | Concept 20 | 127224 | [127224-concept-20.json](./127224-concept-20.json) |
 | Concept Destruction | 123561 | [123561-concept-destruction.json](./123561-concept-destruction.json) |
 | Conception II: Children of the Seven Stars | 4701 | [4701-conception-ii-children-of-the-seven-stars.json](./4701-conception-ii-children-of-the-seven-stars.json) |
@@ -14525,6 +14530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concrete Crown | 198039 | [198039-concrete-crown.json](./198039-concrete-crown.json) |
 | Concrete Genie: Digital Deluxe Edition | 132227 | [132227-concrete-genie-digital-deluxe-edition.json](./132227-concrete-genie-digital-deluxe-edition.json) |
 | Concrete Jungle | 14148 | [14148-concrete-jungle.json](./14148-concrete-jungle.json) |
+| Concrete Meltdown | 271344 | [271344-concrete-meltdown.json](./271344-concrete-meltdown.json) |
 | Concrete Polishing Simulator | 418890 | [418890-concrete-polishing-simulator.json](./418890-concrete-polishing-simulator.json) |
 | Concrete Rage | 269117 | [269117-concrete-rage.json](./269117-concrete-rage.json) |
 | Concrete Sky | 36967 | [36967-concrete-sky.json](./36967-concrete-sky.json) |
