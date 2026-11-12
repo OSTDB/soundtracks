@@ -3732,6 +3732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Werewolves 2: Pack Mentality | 130116 | [130116-werewolves-2-pack-mentality.json](./130116-werewolves-2-pack-mentality.json) |
 | Werewolves 3: Evolution's End | 282224 | [282224-werewolves-3-evolutions-end.json](./282224-werewolves-3-evolutions-end.json) |
 | Werewolves of London | 13046 | [13046-werewolves-of-london.json](./13046-werewolves-of-london.json) |
+| Werewolves Revenge | 316509 | [316509-werewolves-revenge.json](./316509-werewolves-revenge.json) |
 | Werewolves Within | 18399 | [18399-werewolves-within.json](./18399-werewolves-within.json) |
 | Werewolves: Haven Rising | 105572 | [105572-werewolves-haven-rising.json](./105572-werewolves-haven-rising.json) |
 | Werfast | 422200 | [422200-werfast.json](./422200-werfast.json) |
