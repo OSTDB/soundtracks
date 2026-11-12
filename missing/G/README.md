@@ -1379,6 +1379,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Giant | 373765 | [373765-game-giant.json](./373765-game-giant.json) |
 | Game Grumps: Joint Justice - Turnabout Hour | 182392 | [182392-game-grumps-joint-justice-turnabout-hour.json](./182392-game-grumps-joint-justice-turnabout-hour.json) |
 | Game Grumps: The Video Game | 283768 | [283768-game-grumps-the-video-game.json](./283768-game-grumps-the-video-game.json) |
+| Game Hatten Tojoukoku | 299636 | [299636-game-hatten-tojoukoku.json](./299636-game-hatten-tojoukoku.json) |
+| Game Hatten Tojoukoku II DX | 299637 | [299637-game-hatten-tojoukoku-ii-dx.json](./299637-game-hatten-tojoukoku-ii-dx.json) |
 | Game Hero | 218083 | [218083-game-hero.json](./218083-game-hero.json) |
 | Game Hits! 4 Games in 1 | 209593 | [209593-game-hits-4-games-in-1.json](./209593-game-hits-4-games-in-1.json) |
 | Game in Game in Game | 259511 | [259511-game-in-game-in-game.json](./259511-game-in-game-in-game.json) |
@@ -2639,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of Fate | 297584 | [297584-gears-of-fate.json](./297584-gears-of-fate.json) |
 | Gears of Freedom | 414092 | [414092-gears-of-freedom.json](./414092-gears-of-freedom.json) |
 | Gears of Phantasm: Destiny Tailored - Act I | 195549 | [195549-gears-of-phantasm-destiny-tailored-act-i.json](./195549-gears-of-phantasm-destiny-tailored-act-i.json) |
+| Gears of War 2: All Fronts Collection | 299072 | [299072-gears-of-war-2-all-fronts-collection.json](./299072-gears-of-war-2-all-fronts-collection.json) |
 | Gears of War 2: Combustible Map Pack | 299997 | [299997-gears-of-war-2-combustible-map-pack.json](./299997-gears-of-war-2-combustible-map-pack.json) |
 | Gears of War 2: Dark Corners | 23264 | [23264-gears-of-war-2-dark-corners.json](./23264-gears-of-war-2-dark-corners.json) |
 | Gears of War 2: Flashback Map Pack | 299996 | [299996-gears-of-war-2-flashback-map-pack.json](./299996-gears-of-war-2-flashback-map-pack.json) |
@@ -10150,6 +10153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm's Godfather | 80069 | [80069-grimms-godfather.json](./80069-grimms-godfather.json) |
 | Grimm's Hatchery | 73510 | [73510-grimms-hatchery.json](./73510-grimms-hatchery.json) |
 | Grimm's Hollow | 125110 | [125110-grimms-hollow.json](./125110-grimms-hollow.json) |
+| Grimm's Princess | 299627 | [299627-grimms-princess.json](./299627-grimms-princess.json) |
 | GrimmKitchen | 326225 | [326225-grimmkitchen.json](./326225-grimmkitchen.json) |
 | Grimmlins Tale | 199374 | [199374-grimmlins-tale.json](./199374-grimmlins-tale.json) |
 | Grimms | 63714 | [63714-grimms.json](./63714-grimms.json) |
