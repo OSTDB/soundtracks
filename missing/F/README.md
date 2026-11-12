@@ -11339,6 +11339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Season 8 | 129872 | [129872-fortnite-season-8.json](./129872-fortnite-season-8.json) |
 | Fortnite: Season 9 | 129871 | [129871-fortnite-season-9.json](./129871-fortnite-season-9.json) |
 | Fortnite: Shadows Rising Pack | 227105 | [227105-fortnite-shadows-rising-pack.json](./227105-fortnite-shadows-rising-pack.json) |
+| Fortnite: Skull Squad Pack | 272430 | [272430-fortnite-skull-squad-pack.json](./272430-fortnite-skull-squad-pack.json) |
 | Fortnite: Storm-Wild Raven Starter Pack | 331701 | [331701-fortnite-storm-wild-raven-starter-pack.json](./331701-fortnite-storm-wild-raven-starter-pack.json) |
 | Fortnite: Summer Legends Pack | 227104 | [227104-fortnite-summer-legends-pack.json](./227104-fortnite-summer-legends-pack.json) |
 | Fortnite: Sun & Scales Pack | 318648 | [318648-fortnite-sun-and-scales-pack.json](./318648-fortnite-sun-and-scales-pack.json) |
