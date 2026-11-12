@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YAR: Forgotten Throne | 274785 | [274785-yar-forgotten-throne.json](./274785-yar-forgotten-throne.json) |
 | Yar's Revenge | 28721 | [28721-yars-revenge.json](./28721-yars-revenge.json) |
 | Yarasete! Teacher Sotsugyou | 59191 | [59191-yarasete-teacher-sotsugyou.json](./59191-yarasete-teacher-sotsugyou.json) |
+| Yarashii Hotel | 260434 | [260434-yarashii-hotel.json](./260434-yarashii-hotel.json) |
 | Yarbay | 121963 | [121963-yarbay.json](./121963-yarbay.json) |
 | Yard of the Dead | 268765 | [268765-yard-of-the-dead.json](./268765-yard-of-the-dead.json) |
 | Yard Resistance | 322162 | [322162-yard-resistance.json](./322162-yard-resistance.json) |
@@ -1536,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Intelligence Will Be Exposed: Mystery Observation Challenge | 409501 | [409501-your-intelligence-will-be-exposed-mystery-observation-challenge.json](./409501-your-intelligence-will-be-exposed-mystery-observation-challenge.json) |
 | Your Island: Kimi no Sima | 118803 | [118803-your-island-kimi-no-sima.json](./118803-your-island-kimi-no-sima.json) |
 | Your Journey Begins | 306865 | [306865-your-journey-begins.json](./306865-your-journey-begins.json) |
+| Your Journey of Survival | 260349 | [260349-your-journey-of-survival.json](./260349-your-journey-of-survival.json) |
 | Your Judgment, Inquisitor | 361240 | [361240-your-judgment-inquisitor.json](./361240-your-judgment-inquisitor.json) |
 | Your Last Xmas | 280186 | [280186-your-last-xmas.json](./280186-your-last-xmas.json) |
 | Your letter has been rejected. | 292345 | [292345-your-letter-has-been-rejected.json](./292345-your-letter-has-been-rejected.json) |
