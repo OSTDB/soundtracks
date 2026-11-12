@@ -4016,6 +4016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orangia | 366934 | [366934-orangia.json](./366934-orangia.json) |
 | Orangia DLC | 366935 | [366935-orangia-dlc.json](./366935-orangia-dlc.json) |
 | OranguTangle | 297973 | [297973-orangutangle.json](./297973-orangutangle.json) |
+| Oratorio | 275790 | [275790-oratorio.json](./275790-oratorio.json) |
 | Orava | 377071 | [377071-orava.json](./377071-orava.json) |
 | Oraxum Trials | 192331 | [192331-oraxum-trials.json](./192331-oraxum-trials.json) |
 | Orb | 17119 | [17119-orb.json](./17119-orb.json) |
@@ -4274,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcz Evolve | 81721 | [81721-orcz-evolve.json](./81721-orcz-evolve.json) |
 | Orcz Evolve VR | 83172 | [83172-orcz-evolve-vr.json](./83172-orcz-evolve-vr.json) |
 | Orczz | 32034 | [32034-orczz.json](./32034-orczz.json) |
+| Ord-Upp | 275849 | [275849-ord-upp.json](./275849-ord-upp.json) |
 | Ord. | 118314 | [118314-ord.json](./118314-ord.json) |
 | Ordeal | 149269 | [149269-ordeal.json](./149269-ordeal.json) |
 | Ordeeer! | 181347 | [181347-ordeeer.json](./181347-ordeeer.json) |
