@@ -1505,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Tunnel | 182940 | [182940-rainbow-tunnel.json](./182940-rainbow-tunnel.json) |
 | Rainbow Unicorn Candy Salon | 102515 | [102515-rainbow-unicorn-candy-salon.json](./102515-rainbow-unicorn-candy-salon.json) |
 | Rainbow Unicorn Nail Salon | 90353 | [90353-rainbow-unicorn-nail-salon.json](./90353-rainbow-unicorn-nail-salon.json) |
+| Rainbow Valley | 304939 | [304939-rainbow-valley.json](./304939-rainbow-valley.json) |
 | Rainbow Walker | 24058 | [24058-rainbow-walker.json](./24058-rainbow-walker.json) |
 | Rainbow Warhead | 244859 | [244859-rainbow-warhead.json](./244859-rainbow-warhead.json) |
 | Rainbow Warrior | 71711 | [71711-rainbow-warrior.json](./71711-rainbow-warrior.json) |
@@ -2815,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re: Survivor | 193430 | [193430-re-survivor.json](./193430-re-survivor.json) |
 | Re: Tree of Savior | 174808 | [174808-re-tree-of-savior.json](./174808-re-tree-of-savior.json) |
 | Re:Aegis | 291753 | [291753-re-aegis.json](./291753-re-aegis.json) |
+| Re:Agent | 303925 | [303925-re-agent.json](./303925-re-agent.json) |
 | Re:Aktor | 383382 | [383382-re-aktor.json](./383382-re-aktor.json) |
 | Re:Ark | 290610 | [290610-re-ark.json](./290610-re-ark.json) |
 | Re:Awaken | 295099 | [295099-re-awaken.json](./295099-re-awaken.json) |
@@ -6362,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReThink 3 | 194858 | [194858-rethink-3.json](./194858-rethink-3.json) |
 | ReThink 3.5 | 289802 | [289802-rethink-3-5.json](./289802-rethink-3-5.json) |
 | ReThink 4 | 148457 | [148457-rethink-4.json](./148457-rethink-4.json) |
+| ReThink 5 | 304922 | [304922-rethink-5.json](./304922-rethink-5.json) |
 | Rethink Lite | 393951 | [393951-rethink-lite.json](./393951-rethink-lite.json) |
 | Reticent Retribution | 167551 | [167551-reticent-retribution.json](./167551-reticent-retribution.json) |
 | Reticle Star | 210097 | [210097-reticle-star.json](./210097-reticle-star.json) |
