@@ -6224,6 +6224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem Warriors: Three Hopes | 191396 | [191396-fire-emblem-warriors-three-hopes.json](./191396-fire-emblem-warriors-three-hopes.json) |
 | Fire Emblem Wars | 338815 | [338815-fire-emblem-wars.json](./338815-fire-emblem-wars.json) |
 | Fire Emblem World Cup | 323039 | [323039-fire-emblem-world-cup.json](./323039-fire-emblem-world-cup.json) |
+| Fire Emblem: 7 Siblings | 306816 | [306816-fire-emblem-7-siblings.json](./306816-fire-emblem-7-siblings.json) |
 | Fire Emblem: A Star Wars Story | 368164 | [368164-fire-emblem-a-star-wars-story.json](./368164-fire-emblem-a-star-wars-story.json) |
 | Fire Emblem: An Unexpected Caller | 308855 | [308855-fire-emblem-an-unexpected-caller.json](./308855-fire-emblem-an-unexpected-caller.json) |
 | Fire Emblem: Ankoku no Miko | 176038 | [176038-fire-emblem-ankoku-no-miko.json](./176038-fire-emblem-ankoku-no-miko.json) |
