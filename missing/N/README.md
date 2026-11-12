@@ -4036,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Xtreme | 45002 | [45002-nfl-xtreme.json](./45002-nfl-xtreme.json) |
 | NFL Xtreme 2 | 43899 | [43899-nfl-xtreme-2.json](./43899-nfl-xtreme-2.json) |
 | NFL's Greatest: San Francisco vs. Dallas 1978-1993 | 46413 | [46413-nfls-greatest-san-francisco-vs-dallas-1978-1993.json](./46413-nfls-greatest-san-francisco-vs-dallas-1978-1993.json) |
+| NFLPA Superstars | 293275 | [293275-nflpa-superstars.json](./293275-nflpa-superstars.json) |
 | NFSCO | 382828 | [382828-nfsco.json](./382828-nfsco.json) |
 | NFT Museum | 231446 | [231446-nft-museum.json](./231446-nft-museum.json) |
 | NFUT Cards | 178283 | [178283-nfut-cards.json](./178283-nfut-cards.json) |
