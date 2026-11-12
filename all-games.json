@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-12T01:25:51.878Z",
-  "total_soundtracks": 3246,
+  "generated_at": "2026-11-12T02:15:55.255Z",
+  "total_soundtracks": 3247,
   "games": [
     {
       "igdb_id": 7522,
@@ -30223,6 +30223,20 @@
         {
           "album_name": "SkateBIRD Official Video Game Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4BkHI5ai7vasENtbQfVomh",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 44177,
+      "game_name": "Skeleton Boomerang",
+      "game_url": "https://ostdb.net/games/skeleton-boomerang",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27312fe3580bad68f91f41e16f9",
+      "albums": [
+        {
+          "album_name": "Skeleton Boomerang (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1k7VWZCmGFsVQwKwWqQktk",
           "apple_music_url": "",
           "album_link_url": ""
         }
