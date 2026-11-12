@@ -3483,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healing Days: Toshi no Sa Kanojo to no Ama Ama Seikatsu | 402719 | [402719-healing-days-toshi-no-sa-kanojo-to-no-ama-ama-seikatsu.json](./402719-healing-days-toshi-no-sa-kanojo-to-no-ama-ama-seikatsu.json) |
 | Healing Hearts | 337702 | [337702-healing-hearts.json](./337702-healing-hearts.json) |
 | Healing Simulator | 195000 | [195000-healing-simulator.json](./195000-healing-simulator.json) |
+| HealQuest | 292186 | [292186-healquest.json](./292186-healquest.json) |
 | Healslut | 217999 | [217999-healslut.json](./217999-healslut.json) |
 | Health & Fitness Club Tycoon | 146200 | [146200-health-and-fitness-club-tycoon.json](./146200-health-and-fitness-club-tycoon.json) |
 | Health Audit Simulator | 393295 | [393295-health-audit-simulator.json](./393295-health-audit-simulator.json) |
@@ -5422,6 +5423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girls Mosaic | 365436 | [365436-hentai-girls-mosaic.json](./365436-hentai-girls-mosaic.json) |
 | Hentai Girls Nature | 311810 | [311810-hentai-girls-nature.json](./311810-hentai-girls-nature.json) |
 | Hentai Girls Nurse | 340437 | [340437-hentai-girls-nurse.json](./340437-hentai-girls-nurse.json) |
+| Hentai Girls Panic | 291662 | [291662-hentai-girls-panic.json](./291662-hentai-girls-panic.json) |
 | Hentai Girls Puzzle | 295692 | [295692-hentai-girls-puzzle.json](./295692-hentai-girls-puzzle.json) |
 | Hentai Girls Slide | 277596 | [277596-hentai-girls-slide.json](./277596-hentai-girls-slide.json) |
 | Hentai Girls Sliding Puzzle | 286411 | [286411-hentai-girls-sliding-puzzle.json](./286411-hentai-girls-sliding-puzzle.json) |
@@ -9456,6 +9458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole io: Godlike Edition | 312057 | [312057-hole-io-godlike-edition.json](./312057-hole-io-godlike-edition.json) |
 | Hole io: Gold Edition | 331818 | [331818-hole-io-gold-edition.json](./331818-hole-io-gold-edition.json) |
 | Hole io: Japan DLC | 378969 | [378969-hole-io-japan-dlc.json](./378969-hole-io-japan-dlc.json) |
+| Hole io: Party Animals | 291663 | [291663-hole-io-party-animals.json](./291663-hole-io-party-animals.json) |
 | Hole io: Platinum Edition | 341382 | [341382-hole-io-platinum-edition.json](./341382-hole-io-platinum-edition.json) |
 | Hole io: Pyramids DLC | 354191 | [354191-hole-io-pyramids-dlc.json](./354191-hole-io-pyramids-dlc.json) |
 | Hole io: Red Planet DLC | 263556 | [263556-hole-io-red-planet-dlc.json](./263556-hole-io-red-planet-dlc.json) |
@@ -12371,6 +12374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HueBots | 34589 | [34589-huebots.json](./34589-huebots.json) |
 | Huebrix | 68924 | [68924-huebrix.json](./68924-huebrix.json) |
 | Huecube | 272967 | [272967-huecube.json](./272967-huecube.json) |
+| Huedini | 292185 | [292185-huedini.json](./292185-huedini.json) |
 | Huenison | 34253 | [34253-huenison.json](./34253-huenison.json) |
 | Hueor | 127365 | [127365-hueor.json](./127365-hueor.json) |
 | Huerons: A challenging Puzzle | 216157 | [216157-huerons-a-challenging-puzzle.json](./216157-huerons-a-challenging-puzzle.json) |
