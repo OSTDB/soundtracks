@@ -10060,6 +10060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercs Fully Loaded | 186472 | [186472-mercs-fully-loaded.json](./186472-mercs-fully-loaded.json) |
 | Mercs Inc | 289805 | [289805-mercs-inc.json](./289805-mercs-inc.json) |
 | Mercs Inc. | 80407 | [80407-mercs-inc.json](./80407-mercs-inc.json) |
+| Mercuralia | 293279 | [293279-mercuralia.json](./293279-mercuralia.json) |
 | Mercuria: Mizu no Miyako ni Koi no Hanataba wo | 411400 | [411400-mercuria-mizu-no-miyako-ni-koi-no-hanataba-wo.json](./411400-mercuria-mizu-no-miyako-ni-koi-no-hanataba-wo.json) |
 | Mercurial Dreams | 323300 | [323300-mercurial-dreams.json](./323300-mercurial-dreams.json) |
 | Mercurius Blue: ReCollection | 388000 | [388000-mercurius-blue-recollection.json](./388000-mercurius-blue-recollection.json) |
