@@ -33,6 +33,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.A.D.E.S Zero | 346885 | [346885-h-a-d-e-s-zero.json](./346885-h-a-d-e-s-zero.json) |
 | H.A.R.D | 94304 | [94304-h-a-r-d.json](./94304-h-a-r-d.json) |
 | H.A.R.V.E.S.T.E.R | 397586 | [397586-h-a-r-v-e-s-t-e-r.json](./397586-h-a-r-v-e-s-t-e-r.json) |
+| H.A.S Galactics | 311837 | [311837-h-a-s-galactics.json](./311837-h-a-s-galactics.json) |
 | H.A.T.E.: Hostile All Terrain Encounter. | 72444 | [72444-h-a-t-e-hostile-all-terrain-encounter.json](./72444-h-a-t-e-hostile-all-terrain-encounter.json) |
 | H.A.V.E. Online | 137476 | [137476-h-a-v-e-online.json](./137476-h-a-v-e-online.json) |
 | H.E. | 108252 | [108252-h-e.json](./108252-h-e.json) |
@@ -1725,6 +1726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Diet | 194352 | [194352-happy-diet.json](./194352-happy-diet.json) |
 | Happy Drummer VR | 29993 | [29993-happy-drummer-vr.json](./29993-happy-drummer-vr.json) |
 | Happy Dungeons | 52238 | [52238-happy-dungeons.json](./52238-happy-dungeons.json) |
+| Happy Easter | 311383 | [311383-happy-easter.json](./311383-happy-easter.json) |
 | Happy Empire | 31693 | [31693-happy-empire.json](./31693-happy-empire.json) |
 | Happy Empire - The Marriage Voyage | 105650 | [105650-happy-empire-the-marriage-voyage.json](./105650-happy-empire-the-marriage-voyage.json) |
 | Happy Empire 2: The Lost Relic | 105989 | [105989-happy-empire-2-the-lost-relic.json](./105989-happy-empire-2-the-lost-relic.json) |
@@ -3800,6 +3802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heat of Eleven '98 | 381508 | [381508-heat-of-eleven-98.json](./381508-heat-of-eleven-98.json) |
 | Heat Online | 86349 | [86349-heat-online.json](./86349-heat-online.json) |
 | Heat or Die | 291496 | [291496-heat-or-die.json](./291496-heat-or-die.json) |
+| Heat Plan | 311835 | [311835-heat-plan.json](./311835-heat-plan.json) |
 | Heat Project 2 | 140225 | [140225-heat-project-2.json](./140225-heat-project-2.json) |
 | Heat Racing | 227256 | [227256-heat-racing.json](./227256-heat-racing.json) |
 | Heat Reborn | 140590 | [140590-heat-reborn.json](./140590-heat-reborn.json) |
@@ -6886,6 +6889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HEX: Shards of Fate | 9570 | [9570-hex-shards-of-fate.json](./9570-hex-shards-of-fate.json) |
 | Hex.Plan.X | 292336 | [292336-hex-plan-x.json](./292336-hex-plan-x.json) |
 | Hexa | 114390 | [114390-hexa.json](./114390-hexa.json) |
+| Hexa | 311377 | [311377-hexa.json](./311377-hexa.json) |
 | Hexa | 46868 | [46868-hexa.json](./46868-hexa.json) |
 | Hexa Attack Puzzle: Shoot n Merge Numbers | 133891 | [133891-hexa-attack-puzzle-shoot-n-merge-numbers.json](./133891-hexa-attack-puzzle-shoot-n-merge-numbers.json) |
 | Hexa Blocks DF | 213075 | [213075-hexa-blocks-df.json](./213075-hexa-blocks-df.json) |
@@ -8030,6 +8034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higanbana no Saku Yoru ni: The Second Night | 64864 | [64864-higanbana-no-saku-yoru-ni-the-second-night.json](./64864-higanbana-no-saku-yoru-ni-the-second-night.json) |
 | Higanjima | 94205 | [94205-higanjima.json](./94205-higanjima.json) |
 | Higashio Osamu Kanshuu: Pro Yakyuu Stadium '91 | 308105 | [308105-higashio-osamu-kanshuu-pro-yakyuu-stadium-91.json](./308105-higashio-osamu-kanshuu-pro-yakyuu-stadium-91.json) |
+| Higatana | 311386 | [311386-higatana.json](./311386-higatana.json) |
 | Higemaru Makaijima: Nanatsu no Shima Daibouken | 48473 | [48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json](./48473-higemaru-makaijima-nanatsu-no-shima-daibouken.json) |
 | Higgledy Piggledy | 78916 | [78916-higgledy-piggledy.json](./78916-higgledy-piggledy.json) |
 | Higgs Boson: Minimal Puzzle | 148739 | [148739-higgs-boson-minimal-puzzle.json](./148739-higgs-boson-minimal-puzzle.json) |
@@ -9678,6 +9683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hololive Treasure Mountain | 311821 | [311821-hololive-treasure-mountain.json](./311821-hololive-treasure-mountain.json) |
 | Hololive Treasure Mountain MegaPack | 346007 | [346007-hololive-treasure-mountain-megapack.json](./346007-hololive-treasure-mountain-megapack.json) |
 | Hololore: Amethyst | 266868 | [266868-hololore-amethyst.json](./266868-hololore-amethyst.json) |
+| Holomancer | 311842 | [311842-holomancer.json](./311842-holomancer.json) |
 | Holomeld | 43068 | [43068-holomeld.json](./43068-holomeld.json) |
 | Holomento | 137885 | [137885-holomento.json](./137885-holomento.json) |
 | Holonglide | 106611 | [106611-holonglide.json](./106611-holonglide.json) |
@@ -11339,6 +11345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Throttle | 124467 | [124467-hot-throttle.json](./124467-hot-throttle.json) |
 | Hot Tiles | 171684 | [171684-hot-tiles.json](./171684-hot-tiles.json) |
 | Hot Tin Roof: The Cat That Wore a Fedora | 26875 | [26875-hot-tin-roof-the-cat-that-wore-a-fedora.json](./26875-hot-tin-roof-the-cat-that-wore-a-fedora.json) |
+| Hot Toys | 311843 | [311843-hot-toys.json](./311843-hot-toys.json) |
 | Hot Trigger | 58451 | [58451-hot-trigger.json](./58451-hot-trigger.json) |
 | Hot Tub Simulator | 165373 | [165373-hot-tub-simulator.json](./165373-hot-tub-simulator.json) |
 | Hot Vacation | 173835 | [173835-hot-vacation.json](./173835-hot-vacation.json) |
@@ -13546,6 +13553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HyperGate Mall | 328131 | [328131-hypergate-mall.json](./328131-hypergate-mall.json) |
 | HyperGlide | 211194 | [211194-hyperglide.json](./211194-hyperglide.json) |
 | Hypergun | 101173 | [101173-hypergun.json](./101173-hypergun.json) |
+| Hypergunners | 311388 | [311388-hypergunners.json](./311388-hypergunners.json) |
 | Hyperhell | 235965 | [235965-hyperhell.json](./235965-hyperhell.json) |
 | Hyperide | 131423 | [131423-hyperide.json](./131423-hyperide.json) |
 | Hyperide VR | 75024 | [75024-hyperide-vr.json](./75024-hyperide-vr.json) |
