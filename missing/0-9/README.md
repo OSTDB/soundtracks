@@ -2552,9 +2552,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Hearts Deluxe | 205937 | [205937-3d-hearts-deluxe.json](./205937-3d-hearts-deluxe.json) |
 | 3D Helicopter Coyote Hunter | 205939 | [205939-3d-helicopter-coyote-hunter.json](./205939-3d-helicopter-coyote-hunter.json) |
 | 3D Hentai Blackjack | 228924 | [228924-3d-hentai-blackjack.json](./228924-3d-hentai-blackjack.json) |
+| 3D Hentai Checkers | 292711 | [292711-3d-hentai-checkers.json](./292711-3d-hentai-checkers.json) |
 | 3D Hentai Chess | 149424 | [149424-3d-hentai-chess.json](./149424-3d-hentai-chess.json) |
 | 3D Hentai Puzzle | 163558 | [163558-3d-hentai-puzzle.json](./163558-3d-hentai-puzzle.json) |
 | 3D Hentai Puzzle 2 | 163534 | [163534-3d-hentai-puzzle-2.json](./163534-3d-hentai-puzzle-2.json) |
+| 3D Hentai SeaBattle | 292712 | [292712-3d-hentai-seabattle.json](./292712-3d-hentai-seabattle.json) |
 | 3D Hopper | 327387 | [327387-3d-hopper.json](./327387-3d-hopper.json) |
 | 3D Hunting: Extreme | 205940 | [205940-3d-hunting-extreme.json](./205940-3d-hunting-extreme.json) |
 | 3D Hunting: Grizzly | 205941 | [205941-3d-hunting-grizzly.json](./205941-3d-hunting-grizzly.json) |
@@ -2610,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Pets: PC Pup | 310362 | [310362-3d-pets-pc-pup.json](./310362-3d-pets-pc-pup.json) |
 | 3D Pets: Splat! The Cat | 310361 | [310361-3d-pets-splat-the-cat.json](./310361-3d-pets-splat-the-cat.json) |
 | 3D Pinball Express | 97104 | [97104-3d-pinball-express.json](./97104-3d-pinball-express.json) |
+| 3D Pinball Hentai | 292717 | [292717-3d-pinball-hentai.json](./292717-3d-pinball-hentai.json) |
 | 3D Pinball Space Attack | 65061 | [65061-3d-pinball-space-attack.json](./65061-3d-pinball-space-attack.json) |
 | 3D Pinball: Space Cadet | 403520 | [403520-3d-pinball-space-cadet.json](./403520-3d-pinball-space-cadet.json) |
 | 3D Pinball: Space Cadet | 79247 | [79247-3d-pinball-space-cadet.json](./79247-3d-pinball-space-cadet.json) |
