@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of Knight | 110149 | [110149-cards-of-knight.json](./110149-cards-of-knight.json) |
 | Cards of Lust | 392896 | [392896-cards-of-lust.json](./392896-cards-of-lust.json) |
 | Cards of Patience | 189255 | [189255-cards-of-patience.json](./189255-cards-of-patience.json) |
+| Cards of Prophecy | 307431 | [307431-cards-of-prophecy.json](./307431-cards-of-prophecy.json) |
 | Cards of Terra | 174258 | [174258-cards-of-terra.json](./174258-cards-of-terra.json) |
 | Cards of the Abyss | 364832 | [364832-cards-of-the-abyss.json](./364832-cards-of-the-abyss.json) |
 | Cards of the Bog | 182862 | [182862-cards-of-the-bog.json](./182862-cards-of-the-bog.json) |
@@ -10411,6 +10412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clanfolk | 172261 | [172261-clanfolk.json](./172261-clanfolk.json) |
 | Clang | 85956 | [85956-clang.json](./85956-clang.json) |
 | Clank-Robotics | 407028 | [407028-clank-robotics.json](./407028-clank-robotics.json) |
+| Clank! | 307437 | [307437-clank.json](./307437-clank.json) |
 | Clankers! | 376050 | [376050-clankers.json](./376050-clankers.json) |
 | Clannad | 262473 | [262473-clannad.json](./262473-clannad.json) |
 | Clannad | 262492 | [262492-clannad.json](./262492-clannad.json) |
@@ -11396,6 +11398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clonk Rage | 26429 | [26429-clonk-rage.json](./26429-clonk-rage.json) |
 | Clony | 303413 | [303413-clony.json](./303413-clony.json) |
 | Clop | 64819 | [64819-clop.json](./64819-clop.json) |
+| Clorox: Disinfector Protector | 307452 | [307452-clorox-disinfector-protector.json](./307452-clorox-disinfector-protector.json) |
 | Clorox: Sparkling Sudoku | 263433 | [263433-clorox-sparkling-sudoku.json](./263433-clorox-sparkling-sudoku.json) |
 | Close Air Support Hero | 100504 | [100504-close-air-support-hero.json](./100504-close-air-support-hero.json) |
 | Close Assault | 21923 | [21923-close-assault.json](./21923-close-assault.json) |
@@ -12504,6 +12507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coins Only! | 373113 | [373113-coins-only.json](./373113-coins-only.json) |
 | Coins, Crown & Cabal | 286342 | [286342-coins-crown-and-cabal.json](./286342-coins-crown-and-cabal.json) |
 | Coinsweeper | 385932 | [385932-coinsweeper.json](./385932-coinsweeper.json) |
+| Coinwell | 307471 | [307471-coinwell.json](./307471-coinwell.json) |
 | Coiny Block | 98441 | [98441-coiny-block.json](./98441-coiny-block.json) |
 | Coke | 274842 | [274842-coke.json](./274842-coke.json) |
 | Coke Bugs | 265398 | [265398-coke-bugs.json](./265398-coke-bugs.json) |
@@ -20861,6 +20865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuboy Facebutt | 393087 | [393087-cuboy-facebutt.json](./393087-cuboy-facebutt.json) |
 | Cuboy: Back to the Cubeture | 57994 | [57994-cuboy-back-to-the-cubeture.json](./57994-cuboy-back-to-the-cubeture.json) |
 | Cuboyd | 290708 | [290708-cuboyd.json](./290708-cuboyd.json) |
+| Cubric | 307454 | [307454-cubric.json](./307454-cubric.json) |
 | Cubrick | 28792 | [28792-cubrick.json](./28792-cubrick.json) |
 | Cubriko | 104555 | [104555-cubriko.json](./104555-cubriko.json) |
 | Cubs Story: | 368630 | [368630-cubs-story.json](./368630-cubs-story.json) |
