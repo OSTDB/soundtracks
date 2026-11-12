@@ -751,6 +751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kane 2 | 18889 | [18889-kane-2.json](./18889-kane-2.json) |
 | Kane County | 59704 | [59704-kane-county.json](./59704-kane-county.json) |
 | Kane no naru Ki | 298287 | [298287-kane-no-naru-ki.json](./298287-kane-no-naru-ki.json) |
+| Kane TV: The Game | 316332 | [316332-kane-tv-the-game.json](./316332-kane-tv-the-game.json) |
 | Kane's Shadow | 133169 | [133169-kanes-shadow.json](./133169-kanes-shadow.json) |
 | Kanenone Dynatic: Green Green | 294727 | [294727-kanenone-dynatic-green-green.json](./294727-kanenone-dynatic-green-green.json) |
 | Kang | 396587 | [396587-kang.json](./396587-kang.json) |
@@ -3001,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4747,6 +4749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Jones and Dragons Fall | 190297 | [190297-knight-jones-and-dragons-fall.json](./190297-knight-jones-and-dragons-fall.json) |
 | Knight Jump | 359169 | [359169-knight-jump.json](./359169-knight-jump.json) |
 | Knight King Assassin | 104843 | [104843-knight-king-assassin.json](./104843-knight-king-assassin.json) |
+| Knight Legacy | 316520 | [316520-knight-legacy.json](./316520-knight-legacy.json) |
 | Knight Leon | 84206 | [84206-knight-leon.json](./84206-knight-leon.json) |
 | Knight Light | 25122 | [25122-knight-light.json](./25122-knight-light.json) |
 | Knight Light | 335278 | [335278-knight-light.json](./335278-knight-light.json) |
