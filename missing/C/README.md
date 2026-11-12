@@ -4542,6 +4542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Summoner: Block Puzzle | 357979 | [357979-cat-summoner-block-puzzle.json](./357979-cat-summoner-block-puzzle.json) |
 | Cat survival | 29474 | [29474-cat-survival.json](./29474-cat-survival.json) |
 | Cat Survivors | 289374 | [289374-cat-survivors.json](./289374-cat-survivors.json) |
+| Cat Survivors | 291130 | [291130-cat-survivors.json](./291130-cat-survivors.json) |
 | Cat Swap Tiles | 187280 | [187280-cat-swap-tiles.json](./187280-cat-swap-tiles.json) |
 | Cat Syndicate: Istanbul | 327648 | [327648-cat-syndicate-istanbul.json](./327648-cat-syndicate-istanbul.json) |
 | Cat Tales | 224917 | [224917-cat-tales.json](./224917-cat-tales.json) |
@@ -20429,6 +20430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CSCĐ: Vietnam Mobile Police | 291324 | [291324-csc-vietnam-mobile-police.json](./291324-csc-vietnam-mobile-police.json) |
 | CSI VR Crime Scene Investigation | 107733 | [107733-csi-vr-crime-scene-investigation.json](./107733-csi-vr-crime-scene-investigation.json) |
 | CSI: 3 Dimensions of Murder | 7633 | [7633-csi-3-dimensions-of-murder.json](./7633-csi-3-dimensions-of-murder.json) |
+| CSI: Crime City | 291105 | [291105-csi-crime-city.json](./291105-csi-crime-city.json) |
 | CSI: Crime Scene Investigation - 3 Dimensions of Murder | 72003 | [72003-csi-crime-scene-investigation-3-dimensions-of-murder.json](./72003-csi-crime-scene-investigation-3-dimensions-of-murder.json) |
 | CSI: Crime Scene Investigation - Deadly Intent: The Hidden Cases | 197873 | [197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json](./197873-csi-crime-scene-investigation-deadly-intent-the-hidden-cases.json) |
 | CSI: Crime Scene Investigation - Fatal Conspiracy | 99966 | [99966-csi-crime-scene-investigation-fatal-conspiracy.json](./99966-csi-crime-scene-investigation-fatal-conspiracy.json) |
