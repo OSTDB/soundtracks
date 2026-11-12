@@ -2609,6 +2609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Chronicles: Devious Deck | 312308 | [312308-card-chronicles-devious-deck.json](./312308-card-chronicles-devious-deck.json) |
 | Card City Nights | 14565 | [14565-card-city-nights.json](./14565-card-city-nights.json) |
 | Card City Nights Forever | 407880 | [407880-card-city-nights-forever.json](./407880-card-city-nights-forever.json) |
+| Card Clash Chronicles | 297942 | [297942-card-clash-chronicles.json](./297942-card-clash-chronicles.json) |
 | Card Coder | 328022 | [328022-card-coder.json](./328022-card-coder.json) |
 | Card Collection Simulator | 378372 | [378372-card-collection-simulator.json](./378372-card-collection-simulator.json) |
 | Card Collector And Card Girls | 266115 | [266115-card-collector-and-card-girls.json](./266115-card-collector-and-card-girls.json) |
@@ -3650,6 +3651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Roulette | 14384 | [14384-casino-roulette.json](./14384-casino-roulette.json) |
 | Casino Roulette Royal | 166682 | [166682-casino-roulette-royal.json](./166682-casino-roulette-royal.json) |
 | Casino Simulator | 295316 | [295316-casino-simulator.json](./295316-casino-simulator.json) |
+| Casino Simulator | 297944 | [297944-casino-simulator.json](./297944-casino-simulator.json) |
 | Casino Simulator 2024 | 300450 | [300450-casino-simulator-2024.json](./300450-casino-simulator-2024.json) |
 | Casino Slot Machine | 41528 | [41528-casino-slot-machine.json](./41528-casino-slot-machine.json) |
 | Casino Slot Machines | 81794 | [81794-casino-slot-machines.json](./81794-casino-slot-machines.json) |
@@ -4974,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catman: Gimmick Action Game | 161368 | [161368-catman-gimmick-action-game.json](./161368-catman-gimmick-action-game.json) |
 | Catmarine | 382001 | [382001-catmarine.json](./382001-catmarine.json) |
 | Catmaze | 74686 | [74686-catmaze.json](./74686-catmaze.json) |
+| CatMelon: Suika Game | 297945 | [297945-catmelon-suika-game.json](./297945-catmelon-suika-game.json) |
 | Catmorphosis | 395252 | [395252-catmorphosis.json](./395252-catmorphosis.json) |
 | Catmouth Island | 36077 | [36077-catmouth-island.json](./36077-catmouth-island.json) |
 | CatMxn: Chapter 1 | 196788 | [196788-catmxn-chapter-1.json](./196788-catmxn-chapter-1.json) |
@@ -5070,6 +5073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats Hidden in Chang'an | 351716 | [351716-cats-hidden-in-changan.json](./351716-cats-hidden-in-changan.json) |
 | Cats Hidden in China | 272861 | [272861-cats-hidden-in-china.json](./272861-cats-hidden-in-china.json) |
 | Cats Hidden in Cozy Places | 308648 | [308648-cats-hidden-in-cozy-places.json](./308648-cats-hidden-in-cozy-places.json) |
+| Cats Hidden in England | 297946 | [297946-cats-hidden-in-england.json](./297946-cats-hidden-in-england.json) |
 | Cats Hidden in Georgia | 261656 | [261656-cats-hidden-in-georgia.json](./261656-cats-hidden-in-georgia.json) |
 | Cats Hidden in Germany | 282955 | [282955-cats-hidden-in-germany.json](./282955-cats-hidden-in-germany.json) |
 | Cats Hidden in Italy | 239729 | [239729-cats-hidden-in-italy.json](./239729-cats-hidden-in-italy.json) |
@@ -5084,6 +5088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats in Cozy Rooms | 332980 | [332980-cats-in-cozy-rooms.json](./332980-cats-in-cozy-rooms.json) |
 | Cats in Heat: Convenience Coworkers | 260524 | [260524-cats-in-heat-convenience-coworkers.json](./260524-cats-in-heat-convenience-coworkers.json) |
 | Cats in Heat: Summer Fling | 234737 | [234737-cats-in-heat-summer-fling.json](./234737-cats-in-heat-summer-fling.json) |
+| Cats in Heat: Sunshine Resort | 297947 | [297947-cats-in-heat-sunshine-resort.json](./297947-cats-in-heat-sunshine-resort.json) |
 | Cats in Hell | 201768 | [201768-cats-in-hell.json](./201768-cats-in-hell.json) |
 | Cats in Pixels by Louisselle | 363168 | [363168-cats-in-pixels-by-louisselle.json](./363168-cats-in-pixels-by-louisselle.json) |
 | Cats In Space | 150365 | [150365-cats-in-space.json](./150365-cats-in-space.json) |
@@ -5825,6 +5830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemetery Warrior 6 | 338506 | [338506-cemetery-warrior-6.json](./338506-cemetery-warrior-6.json) |
 | Cemetery Warrior 7 Boss Rush | 338507 | [338507-cemetery-warrior-7-boss-rush.json](./338507-cemetery-warrior-7-boss-rush.json) |
 | Cemetery Warrior V | 164146 | [164146-cemetery-warrior-v.json](./164146-cemetery-warrior-v.json) |
+| Cemitério São Sacramento | 297948 | [297948-cemiterio-sao-sacramento.json](./297948-cemiterio-sao-sacramento.json) |
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
 | Cendric | 81045 | [81045-cendric.json](./81045-cendric.json) |
 | Cendric's Quest | 118212 | [118212-cendrics-quest.json](./118212-cendrics-quest.json) |
@@ -10069,6 +10075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Legends: The Curse of the Crimson Shadow - Collector's Edition | 174039 | [174039-city-legends-the-curse-of-the-crimson-shadow-collectors-edition.json](./174039-city-legends-the-curse-of-the-crimson-shadow-collectors-edition.json) |
 | City Legends: The Ghost of Misty Hill - Collector's Edition | 251844 | [251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json](./251844-city-legends-the-ghost-of-misty-hill-collectors-edition.json) |
 | City Legends: The Ghost of Misty Hill - DLC | 252238 | [252238-city-legends-the-ghost-of-misty-hill-dlc.json](./252238-city-legends-the-ghost-of-misty-hill-dlc.json) |
+| City Legends: The Witness in the Rye - Collector's Edition | 297949 | [297949-city-legends-the-witness-in-the-rye-collectors-edition.json](./297949-city-legends-the-witness-in-the-rye-collectors-edition.json) |
 | City Legends: The Witness in the Rye DLC | 312068 | [312068-city-legends-the-witness-in-the-rye-dlc.json](./312068-city-legends-the-witness-in-the-rye-dlc.json) |
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
 | City Life | 28979 | [28979-city-life.json](./28979-city-life.json) |
@@ -11003,6 +11010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clever Fox Moxie | 135486 | [135486-clever-fox-moxie.json](./135486-clever-fox-moxie.json) |
 | Clever Frog | 340209 | [340209-clever-frog.json](./340209-clever-frog.json) |
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
+| Clever Girls | 297950 | [297950-clever-girls.json](./297950-clever-girls.json) |
 | Clever Keyboard: ABC Learning Game For Kids | 90042 | [90042-clever-keyboard-abc-learning-game-for-kids.json](./90042-clever-keyboard-abc-learning-game-for-kids.json) |
 | Clever Kids Pony World | 25412 | [25412-clever-kids-pony-world.json](./25412-clever-kids-pony-world.json) |
 | Clever Kids: Creepy Crawlies | 268113 | [268113-clever-kids-creepy-crawlies.json](./268113-clever-kids-creepy-crawlies.json) |
@@ -12782,6 +12790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Football USA 97 | 46537 | [46537-college-football-usa-97.json](./46537-college-football-usa-97.json) |
 | College Football's National Championship II | 46535 | [46535-college-footballs-national-championship-ii.json](./46535-college-footballs-national-championship-ii.json) |
 | College Gay Sex: Episode 1 | 297928 | [297928-college-gay-sex-episode-1.json](./297928-college-gay-sex-episode-1.json) |
+| College Gay Sex: Episode 2 | 297933 | [297933-college-gay-sex-episode-2.json](./297933-college-gay-sex-episode-2.json) |
 | College Gay Sex: Episode 3 | 297930 | [297930-college-gay-sex-episode-3.json](./297930-college-gay-sex-episode-3.json) |
 | College Gay Sex: Episode 4 | 311416 | [311416-college-gay-sex-episode-4.json](./311416-college-gay-sex-episode-4.json) |
 | College Gay Sex: Episode 5 | 338876 | [338876-college-gay-sex-episode-5.json](./338876-college-gay-sex-episode-5.json) |
@@ -20267,6 +20276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Mines II: Buried Treasure Expansion Pack | 137507 | [137507-crystal-mines-ii-buried-treasure-expansion-pack.json](./137507-crystal-mines-ii-buried-treasure-expansion-pack.json) |
 | Crystal Monsters | 79538 | [79538-crystal-monsters.json](./79538-crystal-monsters.json) |
 | Crystal Monsters (2025) | 344048 | [344048-crystal-monsters-2025.json](./344048-crystal-monsters-2025.json) |
+| Crystal Nexus: Alien Siege | 297951 | [297951-crystal-nexus-alien-siege.json](./297951-crystal-nexus-alien-siege.json) |
 | Crystal of Atlantis | 247981 | [247981-crystal-of-atlantis.json](./247981-crystal-of-atlantis.json) |
 | Crystal of Death | 394071 | [394071-crystal-of-death.json](./394071-crystal-of-death.json) |
 | Crystal Ortha | 140966 | [140966-crystal-ortha.json](./140966-crystal-ortha.json) |
