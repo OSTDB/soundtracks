@@ -188,6 +188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babel Rising: Sky's the Limit | 10018 | [10018-babel-rising-skys-the-limit.json](./10018-babel-rising-skys-the-limit.json) |
 | Babel Running | 10019 | [10019-babel-running.json](./10019-babel-running.json) |
 | Babel Sword | 105064 | [105064-babel-sword.json](./105064-babel-sword.json) |
+| Babel: Break Your Destiny | 284554 | [284554-babel-break-your-destiny.json](./284554-babel-break-your-destiny.json) |
 | Babel: Choice | 33829 | [33829-babel-choice.json](./33829-babel-choice.json) |
 | Babel: The King of the Blocks | 42831 | [42831-babel-the-king-of-the-blocks.json](./42831-babel-the-king-of-the-blocks.json) |
 | Babel: Tower to the Gods | 33535 | [33535-babel-tower-to-the-gods.json](./33535-babel-tower-to-the-gods.json) |
@@ -1023,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
