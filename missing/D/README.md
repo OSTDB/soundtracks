@@ -5678,6 +5678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Duck Trouble Starring Donald Duck | 8447 | [8447-deep-duck-trouble-starring-donald-duck.json](./8447-deep-duck-trouble-starring-donald-duck.json) |
 | Deep Dungeon | 177860 | [177860-deep-dungeon.json](./177860-deep-dungeon.json) |
 | Deep Dungeon | 219235 | [219235-deep-dungeon.json](./219235-deep-dungeon.json) |
+| Deep Dungeon | 281151 | [281151-deep-dungeon.json](./281151-deep-dungeon.json) |
 | Deep Dungeon Adventure | 311984 | [311984-deep-dungeon-adventure.json](./311984-deep-dungeon-adventure.json) |
 | Deep Dungeon III: Yuushi he no Tabi | 48514 | [48514-deep-dungeon-iii-yuushi-he-no-tabi.json](./48514-deep-dungeon-iii-yuushi-he-no-tabi.json) |
 | Deep Dungeon IV: Kuro no Youjutsushi | 48513 | [48513-deep-dungeon-iv-kuro-no-youjutsushi.json](./48513-deep-dungeon-iv-kuro-no-youjutsushi.json) |
