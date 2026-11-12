@@ -399,6 +399,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 12: Axonos - Owen Roberts International Airport | 312520 | [312520-x-plane-12-axonos-owen-roberts-international-airport.json](./312520-x-plane-12-axonos-owen-roberts-international-airport.json) |
 | X-Plane 12: Axonos - Varna Airport | 312522 | [312522-x-plane-12-axonos-varna-airport.json](./312522-x-plane-12-axonos-varna-airport.json) |
 | X-Plane 12: FACO Simulations - F-15C Eagle | 312519 | [312519-x-plane-12-faco-simulations-f-15c-eagle.json](./312519-x-plane-12-faco-simulations-f-15c-eagle.json) |
+| X-Plane 12: FSDesigns - Alliance Municipal Airport | 264938 | [264938-x-plane-12-fsdesigns-alliance-municipal-airport.json](./264938-x-plane-12-fsdesigns-alliance-municipal-airport.json) |
+| X-Plane 12: FSDesigns - Jacksonville International Airport | 264939 | [264939-x-plane-12-fsdesigns-jacksonville-international-airport.json](./264939-x-plane-12-fsdesigns-jacksonville-international-airport.json) |
+| X-Plane 12: FSDesigns - Pensacola International Airport | 264940 | [264940-x-plane-12-fsdesigns-pensacola-international-airport.json](./264940-x-plane-12-fsdesigns-pensacola-international-airport.json) |
 | X-Plane 5 | 278779 | [278779-x-plane-5.json](./278779-x-plane-5.json) |
 | X-Plane 6 | 72091 | [72091-x-plane-6.json](./72091-x-plane-6.json) |
 | X-Plane 7 | 64000 | [64000-x-plane-7.json](./64000-x-plane-7.json) |
