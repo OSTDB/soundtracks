@@ -6729,6 +6729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece Out | 328083 | [328083-piece-out.json](./328083-piece-out.json) |
 | Piece Out | 54720 | [54720-piece-out.json](./54720-piece-out.json) |
 | Piece Out: Avatarland | 347064 | [347064-piece-out-avatarland.json](./347064-piece-out-avatarland.json) |
+| Piece Quest | 290565 | [290565-piece-quest.json](./290565-piece-quest.json) |
 | Piece Shogi | 312772 | [312772-piece-shogi.json](./312772-piece-shogi.json) |
 | Piece Yourself Up | 341577 | [341577-piece-yourself-up.json](./341577-piece-yourself-up.json) |
 | Pieced Together | 295080 | [295080-pieced-together.json](./295080-pieced-together.json) |
@@ -8318,6 +8319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates! Showdown | 103840 | [103840-pirates-showdown.json](./103840-pirates-showdown.json) |
 | Pirates! Showdown: Enhanced Edition | 289318 | [289318-pirates-showdown-enhanced-edition.json](./289318-pirates-showdown-enhanced-edition.json) |
 | Pirates? Pirates! | 132375 | [132375-pirates-pirates.json](./132375-pirates-pirates.json) |
+| Pirates. Naval battle | 290600 | [290600-pirates-naval-battle.json](./290600-pirates-naval-battle.json) |
 | PiratesBattle | 176302 | [176302-piratesbattle.json](./176302-piratesbattle.json) |
 | Pirateville | 201889 | [201889-pirateville.json](./201889-pirateville.json) |
 | PirateWar | 312156 | [312156-piratewar.json](./312156-piratewar.json) |
