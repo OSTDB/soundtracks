@@ -3892,6 +3892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected Battlegrounds | 105283 | [105283-infected-battlegrounds.json](./105283-infected-battlegrounds.json) |
 | Infected Bunker | 280306 | [280306-infected-bunker.json](./280306-infected-bunker.json) |
 | Infected City | 152649 | [152649-infected-city.json](./152649-infected-city.json) |
+| Infected Cowboys Bundle | 251285 | [251285-infected-cowboys-bundle.json](./251285-infected-cowboys-bundle.json) |
 | Infected Dawn | 398172 | [398172-infected-dawn.json](./398172-infected-dawn.json) |
 | Infected Escaped | 373781 | [373781-infected-escaped.json](./373781-infected-escaped.json) |
 | Infected Escaped: Upgrade | 379720 | [379720-infected-escaped-upgrade.json](./379720-infected-escaped-upgrade.json) |
@@ -6133,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ion Assault HD | 52244 | [52244-ion-assault-hd.json](./52244-ion-assault-hd.json) |
 | Ion Driver | 164310 | [164310-ion-driver.json](./164310-ion-driver.json) |
 | Ion Fury + Aftershock | 274835 | [274835-ion-fury-aftershock.json](./274835-ion-fury-aftershock.json) |
+| Ion Racer | 251261 | [251261-ion-racer.json](./251261-ion-racer.json) |
 | Ion Shift | 257941 | [257941-ion-shift.json](./257941-ion-shift.json) |
 | Ion Stormfire | 211012 | [211012-ion-stormfire.json](./211012-ion-stormfire.json) |
 | Ion.A | 290541 | [290541-ion-a.json](./290541-ion-a.json) |
