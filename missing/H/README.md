@@ -598,6 +598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Absolute Zero | 168931 | [168931-half-life-absolute-zero.json](./168931-half-life-absolute-zero.json) |
 | Half-Life: Alyx - Levitation | 204648 | [204648-half-life-alyx-levitation.json](./204648-half-life-alyx-levitation.json) |
 | Half-Life: Alyx - Return to Rapture | 395625 | [395625-half-life-alyx-return-to-rapture.json](./395625-half-life-alyx-return-to-rapture.json) |
+| Half-Life: Another Story | 308696 | [308696-half-life-another-story.json](./308696-half-life-another-story.json) |
 | Half-Life: Anti-Climax | 128194 | [128194-half-life-anti-climax.json](./128194-half-life-anti-climax.json) |
 | Half-Life: Before | 30369 | [30369-half-life-before.json](./30369-half-life-before.json) |
 | Half-Life: Beyond | 329025 | [329025-half-life-beyond.json](./329025-half-life-beyond.json) |
@@ -2014,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Platformers Bundle | 331529 | [331529-hard-platformers-bundle.json](./331529-hard-platformers-bundle.json) |
 | Hard Racing | 252160 | [252160-hard-racing.json](./252160-hard-racing.json) |
 | Hard Racing: Stunt Car Driving | 283264 | [283264-hard-racing-stunt-car-driving.json](./283264-hard-racing-stunt-car-driving.json) |
+| Hard Rank | 308701 | [308701-hard-rank.json](./308701-hard-rank.json) |
 | Hard Relay Mario | 219117 | [219117-hard-relay-mario.json](./219117-hard-relay-mario.json) |
 | Hard Reset | 532 | [532-hard-reset.json](./532-hard-reset.json) |
 | Hard Reset: Extended Edition - Exile | 171405 | [171405-hard-reset-extended-edition-exile.json](./171405-hard-reset-extended-edition-exile.json) |
@@ -6931,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexaduel | 256580 | [256580-hexaduel.json](./256580-hexaduel.json) |
 | Hexaflip | 289295 | [289295-hexaflip.json](./289295-hexaflip.json) |
 | Hexaflip: The Action Puzzler | 124395 | [124395-hexaflip-the-action-puzzler.json](./124395-hexaflip-the-action-puzzler.json) |
+| Hexagod | 309226 | [309226-hexagod.json](./309226-hexagod.json) |
 | Hexagold | 264157 | [264157-hexagold.json](./264157-hexagold.json) |
 | Hexagolines | 262218 | [262218-hexagolines.json](./262218-hexagolines.json) |
 | Hexagon | 63966 | [63966-hexagon.json](./63966-hexagon.json) |
