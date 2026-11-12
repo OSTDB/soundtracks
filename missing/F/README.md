@@ -12304,6 +12304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freaky Trip: Extended Edition | 277913 | [277913-freaky-trip-extended-edition.json](./277913-freaky-trip-extended-edition.json) |
 | Freaky Trip: Fall Pack | 275056 | [275056-freaky-trip-fall-pack.json](./275056-freaky-trip-fall-pack.json) |
 | Freaky Trip: Garden Pack | 324407 | [324407-freaky-trip-garden-pack.json](./324407-freaky-trip-garden-pack.json) |
+| Freaky Trip: GOTY Edition | 303844 | [303844-freaky-trip-goty-edition.json](./303844-freaky-trip-goty-edition.json) |
 | Freaky Trip: Hobby Pack | 324405 | [324405-freaky-trip-hobby-pack.json](./324405-freaky-trip-hobby-pack.json) |
 | Freaky Trip: Legendary Edition | 294828 | [294828-freaky-trip-legendary-edition.json](./294828-freaky-trip-legendary-edition.json) |
 | Freaky Trip: Magnificent Edition | 312060 | [312060-freaky-trip-magnificent-edition.json](./312060-freaky-trip-magnificent-edition.json) |
