@@ -2852,6 +2852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date with Modeus | 314747 | [314747-date-with-modeus.json](./314747-date-with-modeus.json) |
 | Date With the Night | 280293 | [280293-date-with-the-night.json](./280293-date-with-the-night.json) |
 | Date Write | 114601 | [114601-date-write.json](./114601-date-write.json) |
+| Date Z | 257062 | [257062-date-z.json](./257062-date-z.json) |
 | Date Z: Hazardous Amour Pack | 316200 | [316200-date-z-hazardous-amour-pack.json](./316200-date-z-hazardous-amour-pack.json) |
 | Date Z: Romance Completionist Pack | 316201 | [316201-date-z-romance-completionist-pack.json](./316201-date-z-romance-completionist-pack.json) |
 | Date Z: Special Report Pack | 316202 | [316202-date-z-special-report-pack.json](./316202-date-z-special-report-pack.json) |
@@ -2990,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Car | 371258 | [371258-dawn-car.json](./371258-dawn-car.json) |
 | Dawn Chorus | 300636 | [300636-dawn-chorus.json](./300636-dawn-chorus.json) |
 | Dawn City | 81775 | [81775-dawn-city.json](./81775-dawn-city.json) |
+| Dawn Destiny's Child | 257037 | [257037-dawn-destinys-child.json](./257037-dawn-destinys-child.json) |
 | Dawn Girl | 392115 | [392115-dawn-girl.json](./392115-dawn-girl.json) |
 | Dawn in Arctic | 308340 | [308340-dawn-in-arctic.json](./308340-dawn-in-arctic.json) |
 | Dawn in Bloody Darkness | 407525 | [407525-dawn-in-bloody-darkness.json](./407525-dawn-in-bloody-darkness.json) |
@@ -4130,6 +4132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead or Alive Xtreme: Venus Vacation | 68297 | [68297-dead-or-alive-xtreme-venus-vacation.json](./68297-dead-or-alive-xtreme-venus-vacation.json) |
 | Dead or Alive: Code Chronos | 205644 | [205644-dead-or-alive-code-chronos.json](./205644-dead-or-alive-code-chronos.json) |
 | Dead or Alive: Dimensions | 1396 | [1396-dead-or-alive-dimensions.json](./1396-dead-or-alive-dimensions.json) |
+| Dead or Delivery | 257119 | [257119-dead-or-delivery.json](./257119-dead-or-delivery.json) |
 | Dead or Love | 260115 | [260115-dead-or-love.json](./260115-dead-or-love.json) |
 | Dead or Mad | 151440 | [151440-dead-or-mad.json](./151440-dead-or-mad.json) |
 | Dead or School | 105058 | [105058-dead-or-school.json](./105058-dead-or-school.json) |
@@ -17560,6 +17563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland coffee | 231820 | [231820-dreamland-coffee.json](./231820-dreamland-coffee.json) |
 | Dreamland Confectionery | 152191 | [152191-dreamland-confectionery.json](./152191-dreamland-confectionery.json) |
 | Dreamland Defender | 83620 | [83620-dreamland-defender.json](./83620-dreamland-defender.json) |
+| Dreamland Discover the Secrets of the Girl | 257023 | [257023-dreamland-discover-the-secrets-of-the-girl.json](./257023-dreamland-discover-the-secrets-of-the-girl.json) |
 | Dreamland Drifter | 391707 | [391707-dreamland-drifter.json](./391707-dreamland-drifter.json) |
 | Dreamland Escape | 130338 | [130338-dreamland-escape.json](./130338-dreamland-escape.json) |
 | Dreamland Farm | 317223 | [317223-dreamland-farm.json](./317223-dreamland-farm.json) |
