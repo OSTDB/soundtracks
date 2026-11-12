@@ -6581,7 +6581,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Magic: Card Battle | 108492 | [108492-heroes-of-magic-card-battle.json](./108492-heroes-of-magic-card-battle.json) |
 | Heroes of Maidan 2 | 113902 | [113902-heroes-of-maidan-2.json](./113902-heroes-of-maidan-2.json) |
 | Heroes of Maidan 3 | 127754 | [127754-heroes-of-maidan-3.json](./127754-heroes-of-maidan-3.json) |
-| Heroes of Mana | 14990 | [14990-heroes-of-mana.json](./14990-heroes-of-mana.json) |
 | Heroes of Mavia | 280426 | [280426-heroes-of-mavia.json](./280426-heroes-of-mavia.json) |
 | Heroes of Might & Magic III: HD Edition | 20052 | [20052-heroes-of-might-and-magic-iii-hd-edition.json](./20052-heroes-of-might-and-magic-iii-hd-edition.json) |
 | Heroes of Might & Magic: Olden Era | 314543 | [314543-heroes-of-might-and-magic-olden-era.json](./314543-heroes-of-might-and-magic-olden-era.json) |
