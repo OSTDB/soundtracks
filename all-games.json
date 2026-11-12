@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-12T00:15:51.392Z",
-  "total_soundtracks": 3201,
+  "generated_at": "2026-11-12T00:21:12.480Z",
+  "total_soundtracks": 3205,
   "games": [
     {
       "igdb_id": 7522,
@@ -15931,6 +15931,20 @@
       ]
     },
     {
+      "igdb_id": 14990,
+      "game_name": "Heroes of Mana",
+      "game_url": "https://ostdb.net/games/heroes-of-mana",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f6c480a04f100e8b4ba8c8c7",
+      "albums": [
+        {
+          "album_name": "HEROES of MANA Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/66YfhefTwwiqSPgd3QVoAa",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 364,
       "game_name": "Heroes of Might and Magic III: The Restoration of Erathia",
       "game_url": "https://ostdb.net/games/heroes-of-might-and-magic-iii-the-restoration-of-erathia",
@@ -20889,6 +20903,20 @@
         {
           "album_name": "Mercenary Kings (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1KyAlUjuJzb3xM4MYsYoJs",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 13665,
+      "game_name": "Message Quest",
+      "game_url": "https://ostdb.net/games/message-quest",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27397cd23d36d2ebc4986d2a026",
+      "albums": [
+        {
+          "album_name": "Message Quest Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5MEK6gu4eTw9o7wOdF64up",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -32879,6 +32907,20 @@
       ]
     },
     {
+      "igdb_id": 12875,
+      "game_name": "Superbeat: Xonic",
+      "game_url": "https://ostdb.net/games/superbeat-xonic",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dbd49d6df98cc5e5771cca6f",
+      "albums": [
+        {
+          "album_name": "SUPERBEAT: XONiC (Extra Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0LU1uK7WelPhKFIIxhUOKa",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 27448,
       "game_name": "SuperHot: Mind Control Delete",
       "game_url": "https://ostdb.net/games/superhot-mind-control-delete",
@@ -33803,6 +33845,20 @@
         {
           "album_name": "The Ambassador: Fractured Timelines - Official Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4G77yc6Sg5sTndtLv46UGl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 12598,
+      "game_name": "The Aquatic Adventure of the Last Human",
+      "game_url": "https://ostdb.net/games/the-aquatic-adventure-of-the-last-human",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a988cfe6f311c0eb88fb58e0",
+      "albums": [
+        {
+          "album_name": "The Aquatic Adventure of the Last Human OST",
+          "spotify_url": "https://open.spotify.com/album/74RptkfbJxKBZNhZp7t4bU",
           "apple_music_url": "",
           "album_link_url": ""
         }
