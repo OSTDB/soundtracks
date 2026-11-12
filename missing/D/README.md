@@ -2273,6 +2273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darker | 77807 | [77807-darker.json](./77807-darker.json) |
 | Darker Ride Escape | 310578 | [310578-darker-ride-escape.json](./310578-darker-ride-escape.json) |
 | Darker Skies | 165839 | [165839-darker-skies.json](./165839-darker-skies.json) |
+| Darker Skies: Remastered for PC | 260442 | [260442-darker-skies-remastered-for-pc.json](./260442-darker-skies-remastered-for-pc.json) |
 | Darker Than Space | 204921 | [204921-darker-than-space.json](./204921-darker-than-space.json) |
 | Darker Tides | 238603 | [238603-darker-tides.json](./238603-darker-tides.json) |
 | Darker: Episode I | 163759 | [163759-darker-episode-i.json](./163759-darker-episode-i.json) |
@@ -4320,6 +4321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Trust | 383614 | [383614-dead-trust.json](./383614-dead-trust.json) |
 | Dead Tunnel | 192651 | [192651-dead-tunnel.json](./192651-dead-tunnel.json) |
 | Dead Turn | 410284 | [410284-dead-turn.json](./410284-dead-turn.json) |
+| Dead Underground | 260348 | [260348-dead-underground.json](./260348-dead-underground.json) |
 | Dead Underworld | 261568 | [261568-dead-underworld.json](./261568-dead-underworld.json) |
 | Dead Unending | 234268 | [234268-dead-unending.json](./234268-dead-unending.json) |
 | Dead Venture | 234609 | [234609-dead-venture.json](./234609-dead-venture.json) |
@@ -6429,6 +6431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Déja Vu PD | 395281 | [395281-deja-vu-pd.json](./395281-deja-vu-pd.json) |
 | Deja Vu: Collector's Edition | 167905 | [167905-deja-vu-collectors-edition.json](./167905-deja-vu-collectors-edition.json) |
 | Deja Vu: MacVenture Series | 35913 | [35913-deja-vu-macventure-series.json](./35913-deja-vu-macventure-series.json) |
+| Deja Vu: The Backrooms | 260373 | [260373-deja-vu-the-backrooms.json](./260373-deja-vu-the-backrooms.json) |
 | Déjà-Vu VR | 195919 | [195919-deja-vu-vr.json](./195919-deja-vu-vr.json) |
 | Deja-Vu! | 309191 | [309191-deja-vu.json](./309191-deja-vu.json) |
 | Dejar Ir: A Pandemic Soulful Tale | 203803 | [203803-dejar-ir-a-pandemic-soulful-tale.json](./203803-dejar-ir-a-pandemic-soulful-tale.json) |
