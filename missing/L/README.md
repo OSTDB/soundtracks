@@ -3844,6 +3844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Ripoux | 133439 | [133439-les-ripoux.json](./133439-les-ripoux.json) |
 | Les Schtroumpfs Sauvent la Nature | 400625 | [400625-les-schtroumpfs-sauvent-la-nature.json](./400625-les-schtroumpfs-sauvent-la-nature.json) |
 | Les Terres d'Amarande | 69473 | [69473-les-terres-damarande.json](./69473-les-terres-damarande.json) |
+| Les trois Mousquetaires | 264267 | [264267-les-trois-mousquetaires.json](./264267-les-trois-mousquetaires.json) |
 | Les Trucs qui Tombent | 381502 | [381502-les-trucs-qui-tombent.json](./381502-les-trucs-qui-tombent.json) |
 | Les Visiteurs: Le Jeu | 213566 | [213566-les-visiteurs-le-jeu.json](./213566-les-visiteurs-le-jeu.json) |
 | Les: The Horror Game | 158963 | [158963-les-the-horror-game.json](./158963-les-the-horror-game.json) |
@@ -7473,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Bombs | 353412 | [353412-logic-bombs.json](./353412-logic-bombs.json) |
 | Logic Car | 154257 | [154257-logic-car.json](./154257-logic-car.json) |
 | Logic Circuit: Marble Puzzle | 210854 | [210854-logic-circuit-marble-puzzle.json](./210854-logic-circuit-marble-puzzle.json) |
+| Logic Colors | 264259 | [264259-logic-colors.json](./264259-logic-colors.json) |
 | Logic Cubes | 381792 | [381792-logic-cubes.json](./381792-logic-cubes.json) |
 | Logic Dial | 230696 | [230696-logic-dial.json](./230696-logic-dial.json) |
 | Logic Dots 2 | 89753 | [89753-logic-dots-2.json](./89753-logic-dots-2.json) |
