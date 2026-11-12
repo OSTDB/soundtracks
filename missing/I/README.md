@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikai | 157133 | [157133-ikai.json](./157133-ikai.json) |
 | Ikanoid | 78600 | [78600-ikanoid.json](./78600-ikanoid.json) |
 | Ikao: The lost souls | 114533 | [114533-ikao-the-lost-souls.json](./114533-ikao-the-lost-souls.json) |
+| Ikari | 274094 | [274094-ikari.json](./274094-ikari.json) |
 | Ikari III: The Rescue | 274104 | [274104-ikari-iii-the-rescue.json](./274104-ikari-iii-the-rescue.json) |
 | Ikari III: The Rescue | 274105 | [274105-ikari-iii-the-rescue.json](./274105-ikari-iii-the-rescue.json) |
 | Ikari III: The Rescue | 274106 | [274106-ikari-iii-the-rescue.json](./274106-ikari-iii-the-rescue.json) |
@@ -2163,6 +2164,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikari no Yousai 2 | 49140 | [49140-ikari-no-yousai-2.json](./49140-ikari-no-yousai-2.json) |
 | Ikari Warriors | 12153 | [12153-ikari-warriors.json](./12153-ikari-warriors.json) |
 | Ikari Warriors | 274081 | [274081-ikari-warriors.json](./274081-ikari-warriors.json) |
+| Ikari Warriors | 274082 | [274082-ikari-warriors.json](./274082-ikari-warriors.json) |
+| Ikari Warriors | 274083 | [274083-ikari-warriors.json](./274083-ikari-warriors.json) |
+| Ikari Warriors | 274084 | [274084-ikari-warriors.json](./274084-ikari-warriors.json) |
+| Ikari Warriors | 274085 | [274085-ikari-warriors.json](./274085-ikari-warriors.json) |
+| Ikari Warriors | 274087 | [274087-ikari-warriors.json](./274087-ikari-warriors.json) |
+| Ikari Warriors | 274089 | [274089-ikari-warriors.json](./274089-ikari-warriors.json) |
+| Ikari Warriors | 274090 | [274090-ikari-warriors.json](./274090-ikari-warriors.json) |
+| Ikari Warriors | 274091 | [274091-ikari-warriors.json](./274091-ikari-warriors.json) |
+| Ikari Warriors | 274092 | [274092-ikari-warriors.json](./274092-ikari-warriors.json) |
+| Ikari Warriors | 274093 | [274093-ikari-warriors.json](./274093-ikari-warriors.json) |
+| Ikari Warriors II: Victory Road | 274095 | [274095-ikari-warriors-ii-victory-road.json](./274095-ikari-warriors-ii-victory-road.json) |
 | Ikari Warriors II: Victory Road | 48055 | [48055-ikari-warriors-ii-victory-road.json](./48055-ikari-warriors-ii-victory-road.json) |
 | Ikariam | 46497 | [46497-ikariam.json](./46497-ikariam.json) |
 | Ikaro Racing | 105509 | [105509-ikaro-racing.json](./105509-ikaro-racing.json) |
