@@ -3468,6 +3468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | oOo: Ascension | 103214 | [103214-ooo-ascension.json](./103214-ooo-ascension.json) |
 | Ooohh, Big Stretch!!! | 341882 | [341882-ooohh-big-stretch.json](./341882-ooohh-big-stretch.json) |
 | Oooku | 97792 | [97792-oooku.json](./97792-oooku.json) |
+| Oookuki | 281694 | [281694-oookuki.json](./281694-oookuki.json) |
 | Ooooo | 304136 | [304136-ooooo.json](./304136-ooooo.json) |
 | Ooops Up | 84290 | [84290-ooops-up.json](./84290-ooops-up.json) |
 | Ooops! 2 | 165604 | [165604-ooops-2.json](./165604-ooops-2.json) |
@@ -5623,6 +5624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outlands | 277984 | [277984-outlands.json](./277984-outlands.json) |
 | Outlands | 69495 | [69495-outlands.json](./69495-outlands.json) |
 | Outlands Safehouse | 405475 | [405475-outlands-safehouse.json](./405475-outlands-safehouse.json) |
+| Outlast Mobile | 281781 | [281781-outlast-mobile.json](./281781-outlast-mobile.json) |
 | Outlast: Bundle of Terror | 82441 | [82441-outlast-bundle-of-terror.json](./82441-outlast-bundle-of-terror.json) |
 | Outlast: Journey of a Gladiator | 157186 | [157186-outlast-journey-of-a-gladiator.json](./157186-outlast-journey-of-a-gladiator.json) |
 | Outlast: Murkoff Briefcase Edition | 145124 | [145124-outlast-murkoff-briefcase-edition.json](./145124-outlast-murkoff-briefcase-edition.json) |
