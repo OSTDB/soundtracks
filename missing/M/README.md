@@ -14509,6 +14509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage Online Classic | 127807 | [127807-mirage-online-classic.json](./127807-mirage-online-classic.json) |
 | Mirage Realms | 98175 | [98175-mirage-realms.json](./98175-mirage-realms.json) |
 | Mirage Sugar Acacia | 385902 | [385902-mirage-sugar-acacia.json](./385902-mirage-sugar-acacia.json) |
+| Mirage: A Biplane Adventure | 295196 | [295196-mirage-a-biplane-adventure.json](./295196-mirage-a-biplane-adventure.json) |
 | Mirage: Arcane Warfare | 18147 | [18147-mirage-arcane-warfare.json](./18147-mirage-arcane-warfare.json) |
 | Mirage: Arcane Warfare - Special Edition | 53347 | [53347-mirage-arcane-warfare-special-edition.json](./53347-mirage-arcane-warfare-special-edition.json) |
 | Mirage: Beyond the Screen | 278530 | [278530-mirage-beyond-the-screen.json](./278530-mirage-beyond-the-screen.json) |
@@ -16589,6 +16590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Racing | 200276 | [200276-monkey-racing.json](./200276-monkey-racing.json) |
 | Monkey Run Adventure: Jungle Story - Banana World | 104351 | [104351-monkey-run-adventure-jungle-story-banana-world.json](./104351-monkey-run-adventure-jungle-story-banana-world.json) |
 | Monkey Rush | 87557 | [87557-monkey-rush.json](./87557-monkey-rush.json) |
+| Monkey See, Monkey Doo, Monkey Kiss You | 295189 | [295189-monkey-see-monkey-doo-monkey-kiss-you.json](./295189-monkey-see-monkey-doo-monkey-kiss-you.json) |
 | Monkey Shines | 80849 | [80849-monkey-shines.json](./80849-monkey-shines.json) |
 | Monkey Shines 2: Gorilla Warfare | 397411 | [397411-monkey-shines-2-gorilla-warfare.json](./397411-monkey-shines-2-gorilla-warfare.json) |
 | Monkey Snowfight | 320300 | [320300-monkey-snowfight.json](./320300-monkey-snowfight.json) |
@@ -17514,6 +17516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trux: Arenas | 5019 | [5019-monster-trux-arenas.json](./5019-monster-trux-arenas.json) |
 | Monster Trux: Offroad | 21500 | [21500-monster-trux-offroad.json](./21500-monster-trux-offroad.json) |
 | Monster Tutor | 357455 | [357455-monster-tutor.json](./357455-monster-tutor.json) |
+| Monster United | 295587 | [295587-monster-united.json](./295587-monster-united.json) |
 | Monster Universe | 237640 | [237640-monster-universe.json](./237640-monster-universe.json) |
 | Monster Viator | 128941 | [128941-monster-viator.json](./128941-monster-viator.json) |
 | Monster Waifu | 226190 | [226190-monster-waifu.json](./226190-monster-waifu.json) |
