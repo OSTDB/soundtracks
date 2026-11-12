@@ -4678,6 +4678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entity Onboard | 339754 | [339754-entity-onboard.json](./339754-entity-onboard.json) |
 | Entity Research Group | 388947 | [388947-entity-research-group.json](./388947-entity-research-group.json) |
 | Entity Researchers | 159260 | [159260-entity-researchers.json](./159260-entity-researchers.json) |
+| Entity Room | 246149 | [246149-entity-room.json](./246149-entity-room.json) |
 | Entity Scavenger | 354934 | [354934-entity-scavenger.json](./354934-entity-scavenger.json) |
 | Entity Strike | 343303 | [343303-entity-strike.json](./343303-entity-strike.json) |
 | Entity: A Horror Escape | 105790 | [105790-entity-a-horror-escape.json](./105790-entity-a-horror-escape.json) |
