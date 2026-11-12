@@ -1868,6 +1868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laundry Room Dilemma | 329523 | [329523-laundry-room-dilemma.json](./329523-laundry-room-dilemma.json) |
 | Laundry Service Simulator | 326395 | [326395-laundry-service-simulator.json](./326395-laundry-service-simulator.json) |
 | Laundry Simulator | 154059 | [154059-laundry-simulator.json](./154059-laundry-simulator.json) |
+| Laundry Simulator | 312412 | [312412-laundry-simulator.json](./312412-laundry-simulator.json) |
 | Laundry Simulator | 326396 | [326396-laundry-simulator.json](./326396-laundry-simulator.json) |
 | Laundry Simulator 2025 | 343512 | [343512-laundry-simulator-2025.json](./343512-laundry-simulator-2025.json) |
 | Laundry Store Simulator | 324720 | [324720-laundry-store-simulator.json](./324720-laundry-store-simulator.json) |
@@ -3379,6 +3380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Friends | 6838 | [6838-lego-friends.json](./6838-lego-friends.json) |
 | LEGO Friends Heartlake Rush | 106939 | [106939-lego-friends-heartlake-rush.json](./106939-lego-friends-heartlake-rush.json) |
 | LEGO Fun Pack | 279031 | [279031-lego-fun-pack.json](./279031-lego-fun-pack.json) |
+| Lego Fun to Build | 312405 | [312405-lego-fun-to-build.json](./312405-lego-fun-to-build.json) |
 | LEGO Harry Potter Collection | 25083 | [25083-lego-harry-potter-collection.json](./25083-lego-harry-potter-collection.json) |
 | LEGO Harry Potter Collection | 315367 | [315367-lego-harry-potter-collection.json](./315367-lego-harry-potter-collection.json) |
 | LEGO Harry Potter Collection: Years 5-7 | 237550 | [237550-lego-harry-potter-collection-years-5-7.json](./237550-lego-harry-potter-collection-years-5-7.json) |
@@ -5708,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line Bender | 275329 | [275329-line-bender.json](./275329-line-bender.json) |
 | Line Birds | 403227 | [403227-line-birds.json](./403227-line-birds.json) |
 | Line Bubble 2 | 247207 | [247207-line-bubble-2.json](./247207-line-bubble-2.json) |
+| Line Change | 311924 | [311924-line-change.json](./311924-line-change.json) |
 | Line Chef | 309215 | [309215-line-chef.json](./309215-line-chef.json) |
 | Line Clipper: Tennis Tactics | 332897 | [332897-line-clipper-tennis-tactics.json](./332897-line-clipper-tennis-tactics.json) |
 | Line Color World | 287168 | [287168-line-color-world.json](./287168-line-color-world.json) |
