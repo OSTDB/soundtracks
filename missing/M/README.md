@@ -5533,6 +5533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Dodging | 367631 | [367631-master-of-dodging.json](./367631-master-of-dodging.json) |
 | Master of Earth | 211213 | [211213-master-of-earth.json](./211213-master-of-earth.json) |
 | Master of Epic | 62116 | [62116-master-of-epic.json](./62116-master-of-epic.json) |
+| Master of Fried Rice | 302843 | [302843-master-of-fried-rice.json](./302843-master-of-fried-rice.json) |
 | Master of Gomoku | 102264 | [102264-master-of-gomoku.json](./102264-master-of-gomoku.json) |
 | Master of Illusion | 20770 | [20770-master-of-illusion.json](./20770-master-of-illusion.json) |
 | Master of Illusion Express: Deep Psyche | 69086 | [69086-master-of-illusion-express-deep-psyche.json](./69086-master-of-illusion-express-deep-psyche.json) |
@@ -6682,6 +6683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Defenders | 255734 | [255734-maze-defenders.json](./255734-maze-defenders.json) |
 | Maze Domination | 318450 | [318450-maze-domination.json](./318450-maze-domination.json) |
 | Maze Dungeon | 317039 | [317039-maze-dungeon.json](./317039-maze-dungeon.json) |
+| Maze Endless | 302827 | [302827-maze-endless.json](./302827-maze-endless.json) |
 | Maze Escape | 160303 | [160303-maze-escape.json](./160303-maze-escape.json) |
 | Maze Escape | 320813 | [320813-maze-escape.json](./320813-maze-escape.json) |
 | Maze Escape | 345524 | [345524-maze-escape.json](./345524-maze-escape.json) |
@@ -9882,6 +9884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Moments: Celebrating Myth & Machine | 395659 | [395659-meow-moments-celebrating-myth-and-machine.json](./395659-meow-moments-celebrating-myth-and-machine.json) |
 | Meow Moments: Celebrating Renewal & Romance | 325008 | [325008-meow-moments-celebrating-renewal-and-romance.json](./325008-meow-moments-celebrating-renewal-and-romance.json) |
 | Meow Moments: Celebrating Together | 284581 | [284581-meow-moments-celebrating-together.json](./284581-meow-moments-celebrating-together.json) |
+| Meow Moments: Olympicats | 302872 | [302872-meow-moments-olympicats.json](./302872-meow-moments-olympicats.json) |
 | Meow Moments: Valentine's Day | 289844 | [289844-meow-moments-valentines-day.json](./289844-meow-moments-valentines-day.json) |
 | Meow Motors | 102208 | [102208-meow-motors.json](./102208-meow-motors.json) |
 | Meow Music | 103912 | [103912-meow-music.json](./103912-meow-music.json) |
