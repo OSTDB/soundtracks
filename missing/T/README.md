@@ -17598,6 +17598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silent Islands | 211939 | [211939-the-silent-islands.json](./211939-the-silent-islands.json) |
 | The Silent Jungle | 356332 | [356332-the-silent-jungle.json](./356332-the-silent-jungle.json) |
 | The Silent Kingdom | 187795 | [187795-the-silent-kingdom.json](./187795-the-silent-kingdom.json) |
+| The Silent Neighbor | 275787 | [275787-the-silent-neighbor.json](./275787-the-silent-neighbor.json) |
 | The Silent One | 347763 | [347763-the-silent-one.json](./347763-the-silent-one.json) |
 | The Silent Sky: Part I | 212155 | [212155-the-silent-sky-part-i.json](./212155-the-silent-sky-part-i.json) |
 | The Silent Suite | 330923 | [330923-the-silent-suite.json](./330923-the-silent-suite.json) |
@@ -19748,6 +19749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Valley | 94585 | [94585-the-valley.json](./94585-the-valley.json) |
 | The Valley Beyond | 373132 | [373132-the-valley-beyond.json](./373132-the-valley-beyond.json) |
 | The Valley In My Mind | 76353 | [76353-the-valley-in-my-mind.json](./76353-the-valley-in-my-mind.json) |
+| The Valley of Calm Trees | 275777 | [275777-the-valley-of-calm-trees.json](./275777-the-valley-of-calm-trees.json) |
 | The Valley of Dawn | 398787 | [398787-the-valley-of-dawn.json](./398787-the-valley-of-dawn.json) |
 | The Valley of Super Flowers | 131821 | [131821-the-valley-of-super-flowers.json](./131821-the-valley-of-super-flowers.json) |
 | The Valley of the Architects | 282039 | [282039-the-valley-of-the-architects.json](./282039-the-valley-of-the-architects.json) |
@@ -29056,6 +29058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower! Simulator 3: KDEN Airport | 353337 | [353337-tower-simulator-3-kden-airport.json](./353337-tower-simulator-3-kden-airport.json) |
 | Tower! Simulator 3: KDFW Airport | 396518 | [396518-tower-simulator-3-kdfw-airport.json](./396518-tower-simulator-3-kdfw-airport.json) |
 | Tower! Simulator 3: KEWR Airport | 396505 | [396505-tower-simulator-3-kewr-airport.json](./396505-tower-simulator-3-kewr-airport.json) |
+| Tower! Simulator 3: KFLL Airport | 275769 | [275769-tower-simulator-3-kfll-airport.json](./275769-tower-simulator-3-kfll-airport.json) |
 | Tower! Simulator 3: KIAD Airport | 353345 | [353345-tower-simulator-3-kiad-airport.json](./353345-tower-simulator-3-kiad-airport.json) |
 | Tower! Simulator 3: KIAH Airport | 298704 | [298704-tower-simulator-3-kiah-airport.json](./298704-tower-simulator-3-kiah-airport.json) |
 | Tower! Simulator 3: KJFK Airport | 353338 | [353338-tower-simulator-3-kjfk-airport.json](./353338-tower-simulator-3-kjfk-airport.json) |
