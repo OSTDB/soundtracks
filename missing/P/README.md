@@ -4713,6 +4713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dark Zero | 292158 | [292158-perfect-dark-zero.json](./292158-perfect-dark-zero.json) |
 | Perfect Dark Zero Recomp | 424869 | [424869-perfect-dark-zero-recomp.json](./424869-perfect-dark-zero-recomp.json) |
 | Perfect Dark Zero: Collector's Edition | 41596 | [41596-perfect-dark-zero-collectors-edition.json](./41596-perfect-dark-zero-collectors-edition.json) |
+| Perfect Date | 286720 | [286720-perfect-date.json](./286720-perfect-date.json) |
 | Perfect Date HD | 425214 | [425214-perfect-date-hd.json](./425214-perfect-date-hd.json) |
 | Perfect Day | 176629 | [176629-perfect-day.json](./176629-perfect-day.json) |
 | Perfect Dead | 74599 | [74599-perfect-dead.json](./74599-perfect-dead.json) |
@@ -12636,6 +12637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokey Ball | 325665 | [325665-pokey-ball.json](./325665-pokey-ball.json) |
 | Pokey Dokey Paradise | 122051 | [122051-pokey-dokey-paradise.json](./122051-pokey-dokey-paradise.json) |
 | Pokhozhdeniya bravogo soldata Shveyka | 257512 | [257512-pokhozhdeniya-bravogo-soldata-shveyka.json](./257512-pokhozhdeniya-bravogo-soldata-shveyka.json) |
+| Poki | 286697 | [286697-poki.json](./286697-poki.json) |
 | Pokie the Stickfigure | 156525 | [156525-pokie-the-stickfigure.json](./156525-pokie-the-stickfigure.json) |
 | Pokini Kagura | 284896 | [284896-pokini-kagura.json](./284896-pokini-kagura.json) |
 | Pokipet | 250436 | [250436-pokipet.json](./250436-pokipet.json) |
@@ -12997,6 +12999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Memory: Birds | 195786 | [195786-poly-memory-birds.json](./195786-poly-memory-birds.json) |
 | Poly Memory: Cats | 195724 | [195724-poly-memory-cats.json](./195724-poly-memory-cats.json) |
 | Poly Memory: Dinosaurs | 224592 | [224592-poly-memory-dinosaurs.json](./224592-poly-memory-dinosaurs.json) |
+| Poly Memory: Dogs | 286740 | [286740-poly-memory-dogs.json](./286740-poly-memory-dogs.json) |
 | Poly Memory: Furries | 222271 | [222271-poly-memory-furries.json](./222271-poly-memory-furries.json) |
 | Poly Memory: Furries 2 | 384065 | [384065-poly-memory-furries-2.json](./384065-poly-memory-furries-2.json) |
 | Poly Memory: Predators | 215332 | [215332-poly-memory-predators.json](./215332-poly-memory-predators.json) |
@@ -13528,6 +13531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poor Thief | 298257 | [298257-poor-thief.json](./298257-poor-thief.json) |
 | Poorer Art | 377160 | [377160-poorer-art.json](./377160-poorer-art.json) |
 | Poorgirl | 307462 | [307462-poorgirl.json](./307462-poorgirl.json) |
+| Poorly Drawn but Horny | 286743 | [286743-poorly-drawn-but-horny.json](./286743-poorly-drawn-but-horny.json) |
 | Poorzzle: Puzzle Alive | 289785 | [289785-poorzzle-puzzle-alive.json](./289785-poorzzle-puzzle-alive.json) |
 | Poosh XL | 236361 | [236361-poosh-xl.json](./236361-poosh-xl.json) |
 | PooShooter: Toilet Invaders | 31672 | [31672-pooshooter-toilet-invaders.json](./31672-pooshooter-toilet-invaders.json) |
@@ -19761,6 +19765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Monarch: Nile River | 109334 | [109334-puzzle-monarch-nile-river.json](./109334-puzzle-monarch-nile-river.json) |
 | Puzzle Monarch: Super Natural | 292741 | [292741-puzzle-monarch-super-natural.json](./292741-puzzle-monarch-super-natural.json) |
 | Puzzle Monarch: Vampires | 106446 | [106446-puzzle-monarch-vampires.json](./106446-puzzle-monarch-vampires.json) |
+| Puzzle Monarch: Zombie | 286728 | [286728-puzzle-monarch-zombie.json](./286728-puzzle-monarch-zombie.json) |
 | Puzzle Monkey | 111321 | [111321-puzzle-monkey.json](./111321-puzzle-monkey.json) |
 | Puzzle Monkeys | 85583 | [85583-puzzle-monkeys.json](./85583-puzzle-monkeys.json) |
 | Puzzle Monster Quest | 58404 | [58404-puzzle-monster-quest.json](./58404-puzzle-monster-quest.json) |
