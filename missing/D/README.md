@@ -9456,6 +9456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Did You See That? | 416647 | [416647-did-you-see-that.json](./416647-did-you-see-that.json) |
 | Didactic Jesus Game | 224333 | [224333-didactic-jesus-game.json](./224333-didactic-jesus-game.json) |
 | Dìdào Zhàn | 397993 | [397993-didao-zhan.json](./397993-didao-zhan.json) |
+| Didaskalia | 276900 | [276900-didaskalia.json](./276900-didaskalia.json) |
 | Diddl in the Cheesecakeland Diddl en Diddland | 269742 | [269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json](./269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json) |
 | Diddl Puzzle: Echter Puzzlespass für Unterwegs | 252660 | [252660-diddl-puzzle-echter-puzzlespass-fur-unterwegs.json](./252660-diddl-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Diddy | 327454 | [327454-diddy.json](./327454-diddy.json) |
@@ -12459,6 +12460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Who: The Lonely Assassins | 144782 | [144782-doctor-who-the-lonely-assassins.json](./144782-doctor-who-the-lonely-assassins.json) |
 | Doctor Who: The Mazes of Time | 85771 | [85771-doctor-who-the-mazes-of-time.json](./85771-doctor-who-the-mazes-of-time.json) |
 | Doctor Who: Thirteen | 240494 | [240494-doctor-who-thirteen.json](./240494-doctor-who-thirteen.json) |
+| Doctor Who: Time Vortex | 276917 | [276917-doctor-who-time-vortex.json](./276917-doctor-who-time-vortex.json) |
 | Doctor Who: Time Vortex 360 | 263342 | [263342-doctor-who-time-vortex-360.json](./263342-doctor-who-time-vortex-360.json) |
 | Doctor Who: Worlds Apart | 185810 | [185810-doctor-who-worlds-apart.json](./185810-doctor-who-worlds-apart.json) |
 | Doctor Who: Worlds in Time | 66095 | [66095-doctor-who-worlds-in-time.json](./66095-doctor-who-worlds-in-time.json) |
@@ -14296,6 +14298,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomed Stars | 304933 | [304933-doomed-stars.json](./304933-doomed-stars.json) |
 | Doomed to Hell | 194195 | [194195-doomed-to-hell.json](./194195-doomed-to-hell.json) |
 | Doomed Urbex | 283731 | [283731-doomed-urbex.json](./283731-doomed-urbex.json) |
+| Doomed: By the Hour | 276901 | [276901-doomed-by-the-hour.json](./276901-doomed-by-the-hour.json) |
+| Doomed: By the Hour 2 | 276902 | [276902-doomed-by-the-hour-2.json](./276902-doomed-by-the-hour-2.json) |
 | Doomer | 189104 | [189104-doomer.json](./189104-doomer.json) |
 | Doomer Farm | 275943 | [275943-doomer-farm.json](./275943-doomer-farm.json) |
 | Doomer Simulator | 164945 | [164945-doomer-simulator.json](./164945-doomer-simulator.json) |
