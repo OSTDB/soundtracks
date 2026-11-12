@@ -7889,6 +7889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bifrost: Heroes of Midgard | 197340 | [197340-bifrost-heroes-of-midgard.json](./197340-bifrost-heroes-of-midgard.json) |
 | Bifröst: Through the Realms | 247975 | [247975-bifrost-through-the-realms.json](./247975-bifrost-through-the-realms.json) |
 | Bifusion | 292057 | [292057-bifusion.json](./292057-bifusion.json) |
+| Big & Small House | 307440 | [307440-big-and-small-house.json](./307440-big-and-small-house.json) |
 | Big 10 | 54993 | [54993-big-10.json](./54993-big-10.json) |
 | Big 4 Sports Trivia | 89050 | [89050-big-4-sports-trivia.json](./89050-big-4-sports-trivia.json) |
 | Big 8 Solitaire | 285279 | [285279-big-8-solitaire.json](./285279-big-8-solitaire.json) |
@@ -15177,6 +15178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowser Gets Clever: Insert Subtitle Here | 316299 | [316299-bowser-gets-clever-insert-subtitle-here.json](./316299-bowser-gets-clever-insert-subtitle-here.json) |
 | Bowser Jr: A New Beginning | 323678 | [323678-bowser-jr-a-new-beginning.json](./323678-bowser-jr-a-new-beginning.json) |
 | Bowser Jr.'s Journey | 266895 | [266895-bowser-jr-s-journey.json](./266895-bowser-jr-s-journey.json) |
+| Bowser Simulator | 307363 | [307363-bowser-simulator.json](./307363-bowser-simulator.json) |
 | Bowser's Dank Rave 2017 Edition: Extra Long Name That I Don't Feel Like Typing | 313330 | [313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json](./313330-bowsers-dank-rave-2017-edition-extra-long-name-that-i-dont-feel-like-typing.json) |
 | Bowser's Dank Rave Infinite: Mario and Bowser Stop the Illuminati To Rave 5Ever | 313090 | [313090-bowsers-dank-rave-infinite-mario-and-bowser-stop-the-illuminati-to-rave-5ever.json](./313090-bowsers-dank-rave-infinite-mario-and-bowser-stop-the-illuminati-to-rave-5ever.json) |
 | Bowser's Dark Story | 155012 | [155012-bowsers-dark-story.json](./155012-bowsers-dark-story.json) |
@@ -16950,6 +16952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brilliant Hamsters! | 62569 | [62569-brilliant-hamsters.json](./62569-brilliant-hamsters.json) |
 | Brilliant Jigsaw | 357871 | [357871-brilliant-jigsaw.json](./357871-brilliant-jigsaw.json) |
 | Brilliant Shadows: Part One of the Book of Gray Magic | 34291 | [34291-brilliant-shadows-part-one-of-the-book-of-gray-magic.json](./34291-brilliant-shadows-part-one-of-the-book-of-gray-magic.json) |
+| Brilliantcrypto | 307474 | [307474-brilliantcrypto.json](./307474-brilliantcrypto.json) |
 | Brimhelm | 129384 | [129384-brimhelm.json](./129384-brimhelm.json) |
 | Brimstone | 25894 | [25894-brimstone.json](./25894-brimstone.json) |
 | Brimstone | 26957 | [26957-brimstone.json](./26957-brimstone.json) |
