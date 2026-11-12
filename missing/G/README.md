@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerçeğin Ötesinde: Beyond Reality | 19152 | [19152-gercegin-otesinde-beyond-reality.json](./19152-gercegin-otesinde-beyond-reality.json) |
 | Gerda: A Flame in Winter - Liva's Story | 250545 | [250545-gerda-a-flame-in-winter-livas-story.json](./250545-gerda-a-flame-in-winter-livas-story.json) |
 | Gerda: A Flame in Winter - Modstand Bundle | 251114 | [251114-gerda-a-flame-in-winter-modstand-bundle.json](./251114-gerda-a-flame-in-winter-modstand-bundle.json) |
+| Gerda: A Flame in Winter - The Resistance Edition | 256013 | [256013-gerda-a-flame-in-winter-the-resistance-edition.json](./256013-gerda-a-flame-in-winter-the-resistance-edition.json) |
 | Gerel: Against the Corvus Empire | 196985 | [196985-gerel-against-the-corvus-empire.json](./196985-gerel-against-the-corvus-empire.json) |
 | Geri's Chess | 50864 | [50864-geris-chess.json](./50864-geris-chess.json) |
 | Gericonia 2 | 127733 | [127733-gericonia-2.json](./127733-gericonia-2.json) |
@@ -3946,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GF Becomes SexCare Manager of Baseball Club: Cucked In Sportsmen's Sex | 98451 | [98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json](./98451-gf-becomes-sexcare-manager-of-baseball-club-cucked-in-sportsmens-sex.json) |
 | GFL Championship Football | 14896 | [14896-gfl-championship-football.json](./14896-gfl-championship-football.json) |
 | GFL Championshop Football II | 97473 | [97473-gfl-championshop-football-ii.json](./97473-gfl-championshop-football-ii.json) |
+| GForce 2 | 254721 | [254721-gforce-2.json](./254721-gforce-2.json) |
 | GFS Sorceress | 23324 | [23324-gfs-sorceress.json](./23324-gfs-sorceress.json) |
 | GFxF | 178720 | [178720-gfxf.json](./178720-gfxf.json) |
 | GG Aleste | 46317 | [46317-gg-aleste.json](./46317-gg-aleste.json) |
@@ -5240,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass2 | 254814 | [254814-glass2.json](./254814-glass2.json) |
 | GlassBox | 195249 | [195249-glassbox.json](./195249-glassbox.json) |
 | Glassbreakers: Champions of Moss | 264018 | [264018-glassbreakers-champions-of-moss.json](./264018-glassbreakers-champions-of-moss.json) |
+| Glasses | 255903 | [255903-glasses.json](./255903-glasses.json) |
 | Glasses and Girls | 248930 | [248930-glasses-and-girls.json](./248930-glasses-and-girls.json) |
 | Glasses Nightmare | 133218 | [133218-glasses-nightmare.json](./133218-glasses-nightmare.json) |
 | Glasses Ops: Back Again | 125777 | [125777-glasses-ops-back-again.json](./125777-glasses-ops-back-again.json) |
@@ -5835,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
 | Gnomes Garden: Black Stones | 360576 | [360576-gnomes-garden-black-stones.json](./360576-gnomes-garden-black-stones.json) |
 | Gnomes Garden: Halloween | 110372 | [110372-gnomes-garden-halloween.json](./110372-gnomes-garden-halloween.json) |
+| Gnomes Garden: Life Seeds - Collector's Edition | 255922 | [255922-gnomes-garden-life-seeds-collectors-edition.json](./255922-gnomes-garden-life-seeds-collectors-edition.json) |
 | Gnomes Garden: Mask of the Rat King | 420582 | [420582-gnomes-garden-mask-of-the-rat-king.json](./420582-gnomes-garden-mask-of-the-rat-king.json) |
 | Gnomes Garden: Mask of the Rat King - Collector's Edition | 383042 | [383042-gnomes-garden-mask-of-the-rat-king-collectors-edition.json](./383042-gnomes-garden-mask-of-the-rat-king-collectors-edition.json) |
 | Gnomes Garden: Return of the Queen | 163832 | [163832-gnomes-garden-return-of-the-queen.json](./163832-gnomes-garden-return-of-the-queen.json) |
@@ -7655,6 +7659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodnight, Sweetie | 313647 | [313647-goodnight-sweetie.json](./313647-goodnight-sweetie.json) |
 | GoodNightGirls | 395643 | [395643-goodnightgirls.json](./395643-goodnightgirls.json) |
 | Goods Puzzle | 406165 | [406165-goods-puzzle.json](./406165-goods-puzzle.json) |
+| Goods Sort | 254737 | [254737-goods-sort.json](./254737-goods-sort.json) |
 | Goods Sorting 3 Match | 296746 | [296746-goods-sorting-3-match.json](./296746-goods-sorting-3-match.json) |
 | Goodsol Solitaire 101 | 106896 | [106896-goodsol-solitaire-101.json](./106896-goodsol-solitaire-101.json) |
 | Goodwad | 262439 | [262439-goodwad.json](./262439-goodwad.json) |
@@ -11145,6 +11150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guess The Movie | 273111 | [273111-guess-the-movie.json](./273111-guess-the-movie.json) |
 | Guess the Movie :- Funnier One | 23903 | [23903-guess-the-movie-funnier-one.json](./23903-guess-the-movie-funnier-one.json) |
 | Guess the Movie Game | 232503 | [232503-guess-the-movie-game.json](./232503-guess-the-movie-game.json) |
+| Guess the Movie: Quiz Game | 255911 | [255911-guess-the-movie-quiz-game.json](./255911-guess-the-movie-quiz-game.json) |
 | Guess The Movie.Name | 387316 | [387316-guess-the-movie-name.json](./387316-guess-the-movie-name.json) |
 | Guess The Object | 306750 | [306750-guess-the-object.json](./306750-guess-the-object.json) |
 | Guess the Person? | 88466 | [88466-guess-the-person.json](./88466-guess-the-person.json) |
@@ -11633,6 +11639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Head Shot | 231935 | [231935-gun-head-shot.json](./231935-gun-head-shot.json) |
 | Gun in 60 Seconds Remix | 339319 | [339319-gun-in-60-seconds-remix.json](./339319-gun-in-60-seconds-remix.json) |
 | Gun in a Well | 349043 | [349043-gun-in-a-well.json](./349043-gun-in-a-well.json) |
+| Gun Jam VR | 254734 | [254734-gun-jam-vr.json](./254734-gun-jam-vr.json) |
 | Gun King | 230936 | [230936-gun-king.json](./230936-gun-king.json) |
 | Gun Knife Bomb | 422088 | [422088-gun-knife-bomb.json](./422088-gun-knife-bomb.json) |
 | Gun Knight All Day | 217087 | [217087-gun-knight-all-day.json](./217087-gun-knight-all-day.json) |
