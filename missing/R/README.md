@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raid on Tri City: Second Wave | 289129 | [289129-raid-on-tri-city-second-wave.json](./289129-raid-on-tri-city-second-wave.json) |
 | Raid over Moscow | 18168 | [18168-raid-over-moscow.json](./18168-raid-over-moscow.json) |
 | Raid over Moscow | 251636 | [251636-raid-over-moscow.json](./251636-raid-over-moscow.json) |
+| Raid Run | 302869 | [302869-raid-run.json](./302869-raid-run.json) |
 | Raid Rush | 355014 | [355014-raid-rush.json](./355014-raid-rush.json) |
 | Raid the Dungeon | 299200 | [299200-raid-the-dungeon.json](./299200-raid-the-dungeon.json) |
 | Raid: World War II | 10403 | [10403-raid-world-war-ii.json](./10403-raid-world-war-ii.json) |
@@ -8129,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rina to Akumu no Kan | 236068 | [236068-rina-to-akumu-no-kan.json](./236068-rina-to-akumu-no-kan.json) |
 | Rina's Undercover Train Operation | 392306 | [392306-rinas-undercover-train-operation.json](./392306-rinas-undercover-train-operation.json) |
 | Rinbo | 310912 | [310912-rinbo.json](./310912-rinbo.json) |
+| Rine: The Trail of Fireflies | 302847 | [302847-rine-the-trail-of-fireflies.json](./302847-rine-the-trail-of-fireflies.json) |
 | Ring | 11308 | [11308-ring.json](./11308-ring.json) |
 | Ring Academy | 306957 | [306957-ring-academy.json](./306957-ring-academy.json) |
 | Ring Battle | 361737 | [361737-ring-battle.json](./361737-ring-battle.json) |
@@ -13901,6 +13903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Drill | 326740 | [326740-rusty-drill.json](./326740-rusty-drill.json) |
 | Rusty Dudes | 323016 | [323016-rusty-dudes.json](./323016-rusty-dudes.json) |
 | Rusty Dusty | 298105 | [298105-rusty-dusty.json](./298105-rusty-dusty.json) |
+| Rusty Flesh | 302823 | [302823-rusty-flesh.json](./302823-rusty-flesh.json) |
 | Rusty Foodies | 347351 | [347351-rusty-foodies.json](./347351-rusty-foodies.json) |
 | Rusty Gun | 138923 | [138923-rusty-gun.json](./138923-rusty-gun.json) |
 | Rusty Hearts | 23524 | [23524-rusty-hearts.json](./23524-rusty-hearts.json) |
