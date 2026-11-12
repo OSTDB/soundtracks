@@ -2246,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harley-Davidson: The Road to Sturgis | 12137 | [12137-harley-davidson-the-road-to-sturgis.json](./12137-harley-davidson-the-road-to-sturgis.json) |
 | Harley-Davidson: Wheels of Freedom | 73939 | [73939-harley-davidson-wheels-of-freedom.json](./73939-harley-davidson-wheels-of-freedom.json) |
 | Harley's Humongous Adventure | 20337 | [20337-harleys-humongous-adventure.json](./20337-harleys-humongous-adventure.json) |
+| Harlot's Diary | 298480 | [298480-harlots-diary.json](./298480-harlots-diary.json) |
 | Harlow | 151023 | [151023-harlow.json](./151023-harlow.json) |
 | Harm Other | 96502 | [96502-harm-other.json](./96502-harm-other.json) |
 | Harm: Weather Warfare | 286015 | [286015-harm-weather-warfare.json](./286015-harm-weather-warfare.json) |
@@ -3075,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hauntsville | 293335 | [293335-hauntsville.json](./293335-hauntsville.json) |
 | Hauntworks | 410264 | [410264-hauntworks.json](./410264-hauntworks.json) |
 | Haus | 377074 | [377074-haus.json](./377074-haus.json) |
+| Haus of Irndrous | 298481 | [298481-haus-of-irndrous.json](./298481-haus-of-irndrous.json) |
 | Haus Of Klaus | 391829 | [391829-haus-of-klaus.json](./391829-haus-of-klaus.json) |
 | Hausbau | 387709 | [387709-hausbau.json](./387709-hausbau.json) |
 | Hausmeister | 207313 | [207313-hausmeister.json](./207313-hausmeister.json) |
@@ -3544,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Africa | 13874 | [13874-heart-of-africa.json](./13874-heart-of-africa.json) |
 | Heart of Altai | 310795 | [310795-heart-of-altai.json](./310795-heart-of-altai.json) |
 | Heart of Artemisa | 318121 | [318121-heart-of-artemisa.json](./318121-heart-of-artemisa.json) |
+| Heart of Atlantis | 298910 | [298910-heart-of-atlantis.json](./298910-heart-of-atlantis.json) |
 | Heart of Battle | 199348 | [199348-heart-of-battle.json](./199348-heart-of-battle.json) |
 | Heart of China | 12139 | [12139-heart-of-china.json](./12139-heart-of-china.json) |
 | Heart of Crown Online | 217292 | [217292-heart-of-crown-online.json](./217292-heart-of-crown-online.json) |
@@ -3845,6 +3848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heathen - The sons of the law | 104848 | [104848-heathen-the-sons-of-the-law.json](./104848-heathen-the-sons-of-the-law.json) |
 | Heathen Engineering's Terran | 33909 | [33909-heathen-engineerings-terran.json](./33909-heathen-engineerings-terran.json) |
 | Heathen's Forge | 176658 | [176658-heathens-forge.json](./176658-heathens-forge.json) |
+| Heather The Smither | 297961 | [297961-heather-the-smither.json](./297961-heather-the-smither.json) |
 | Heather Wreath: The Reporter | 340423 | [340423-heather-wreath-the-reporter.json](./340423-heather-wreath-the-reporter.json) |
 | Heathkit DND | 2881 | [2881-heathkit-dnd.json](./2881-heathkit-dnd.json) |
 | Heathrow | 92752 | [92752-heathrow.json](./92752-heathrow.json) |
@@ -4559,6 +4563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell`s Little Story 2 | 109757 | [109757-hell-s-little-story-2.json](./109757-hell-s-little-story-2.json) |
 | Hella Dazzling Hell!! | 156856 | [156856-hella-dazzling-hell.json](./156856-hella-dazzling-hell.json) |
 | Hellanoid: Archer vs Dragons | 75303 | [75303-hellanoid-archer-vs-dragons.json](./75303-hellanoid-archer-vs-dragons.json) |
+| Hellaxy | 297962 | [297962-hellaxy.json](./297962-hellaxy.json) |
 | Hellbanger | 116162 | [116162-hellbanger.json](./116162-hellbanger.json) |
 | Hellbender | 84176 | [84176-hellbender.json](./84176-hellbender.json) |
 | Hellbent | 13069 | [13069-hellbent.json](./13069-hellbent.json) |
@@ -5887,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tales: Succubus Utopia | 286140 | [286140-hentai-tales-succubus-utopia.json](./286140-hentai-tales-succubus-utopia.json) |
 | Hentai Tales: Taboo Sisters | 340456 | [340456-hentai-tales-taboo-sisters.json](./340456-hentai-tales-taboo-sisters.json) |
 | Hentai Tales: The Brave and Demon | 340457 | [340457-hentai-tales-the-brave-and-demon.json](./340457-hentai-tales-the-brave-and-demon.json) |
+| Hentai Tales: The Entrance To Isekai | 297934 | [297934-hentai-tales-the-entrance-to-isekai.json](./297934-hentai-tales-the-entrance-to-isekai.json) |
 | Hentai Tales: The Red Act In Lockdown | 389604 | [389604-hentai-tales-the-red-act-in-lockdown.json](./389604-hentai-tales-the-red-act-in-lockdown.json) |
 | Hentai Tales: The World Only Maid | 295401 | [295401-hentai-tales-the-world-only-maid.json](./295401-hentai-tales-the-world-only-maid.json) |
 | Hentai Tales: Triangle That Wants Me All | 401532 | [401532-hentai-tales-triangle-that-wants-me-all.json](./401532-hentai-tales-triangle-that-wants-me-all.json) |
@@ -10805,6 +10811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Housewives | 276645 | [276645-horny-housewives.json](./276645-horny-housewives.json) |
 | Horny Housewives 2 | 340484 | [340484-horny-housewives-2.json](./340484-horny-housewives-2.json) |
 | Horny Kingdom: Cum Delivery | 332782 | [332782-horny-kingdom-cum-delivery.json](./332782-horny-kingdom-cum-delivery.json) |
+| Horny Mage Chronicles | 298464 | [298464-horny-mage-chronicles.json](./298464-horny-mage-chronicles.json) |
 | Horny Massage Clinic | 411063 | [411063-horny-massage-clinic.json](./411063-horny-massage-clinic.json) |
 | Horny Pixels | 192541 | [192541-horny-pixels.json](./192541-horny-pixels.json) |
 | Horny Punishment | 212182 | [212182-horny-punishment.json](./212182-horny-punishment.json) |
