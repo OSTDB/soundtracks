@@ -14052,6 +14052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Loopler | 377087 | [377087-the-loopler.json](./377087-the-loopler.json) |
 | The Looter | 126817 | [126817-the-looter.json](./126817-the-looter.json) |
 | The Lorax: Truffula Shuffula | 271068 | [271068-the-lorax-truffula-shuffula.json](./271068-the-lorax-truffula-shuffula.json) |
+| The Lord of Darkness: The Awakening of the Light | 285658 | [285658-the-lord-of-darkness-the-awakening-of-the-light.json](./285658-the-lord-of-darkness-the-awakening-of-the-light.json) |
 | The Lord of Hexa | 288839 | [288839-the-lord-of-hexa.json](./288839-the-lord-of-hexa.json) |
 | The Lord of Hunger | 180353 | [180353-the-lord-of-hunger.json](./180353-the-lord-of-hunger.json) |
 | The Lord of Lightning | 241843 | [241843-the-lord-of-lightning.json](./241843-the-lord-of-lightning.json) |
@@ -15344,6 +15345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Noexistencen of You and Me | 325916 | [325916-the-noexistencen-of-you-and-me.json](./325916-the-noexistencen-of-you-and-me.json) |
 | The Noid's Super Pizza Shootout | 342587 | [342587-the-noids-super-pizza-shootout.json](./342587-the-noids-super-pizza-shootout.json) |
 | The Noise's Jam-Packed Radical Mini Mayhem! | 316590 | [316590-the-noises-jam-packed-radical-mini-mayhem.json](./316590-the-noises-jam-packed-radical-mini-mayhem.json) |
+| The Nom | 285661 | [285661-the-nom.json](./285661-the-nom.json) |
 | The Nom: Complete Edition | 289193 | [289193-the-nom-complete-edition.json](./289193-the-nom-complete-edition.json) |
 | The Nom: Monster Madness | 286189 | [286189-the-nom-monster-madness.json](./286189-the-nom-monster-madness.json) |
 | The Nomads of Dragon Storms | 146591 | [146591-the-nomads-of-dragon-storms.json](./146591-the-nomads-of-dragon-storms.json) |
@@ -35339,6 +35341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight of the Gods | 370855 | [370855-twilight-of-the-gods.json](./370855-twilight-of-the-gods.json) |
 | Twilight on Yulestead | 84062 | [84062-twilight-on-yulestead.json](./84062-twilight-on-yulestead.json) |
 | Twilight Oracle | 244873 | [244873-twilight-oracle.json](./244873-twilight-oracle.json) |
+| Twilight Parade: Moonlit Mononoke | 285636 | [285636-twilight-parade-moonlit-mononoke.json](./285636-twilight-parade-moonlit-mononoke.json) |
 | Twilight Path | 109615 | [109615-twilight-path.json](./109615-twilight-path.json) |
 | Twilight Phenomena: Strange Menagerie - Collector's Edition | 81080 | [81080-twilight-phenomena-strange-menagerie-collectors-edition.json](./81080-twilight-phenomena-strange-menagerie-collectors-edition.json) |
 | Twilight Phenomena: The Incredible Show - Collector's Edition | 95243 | [95243-twilight-phenomena-the-incredible-show-collectors-edition.json](./95243-twilight-phenomena-the-incredible-show-collectors-edition.json) |
