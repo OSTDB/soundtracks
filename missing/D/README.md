@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemon x Machina: Titanic Scion - Super Digital Deluxe Edition | 349592 | [349592-daemon-x-machina-titanic-scion-super-digital-deluxe-edition.json](./349592-daemon-x-machina-titanic-scion-super-digital-deluxe-edition.json) |
 | Daemon x Machina: Titanic Scion - Vehicle Set | 375686 | [375686-daemon-x-machina-titanic-scion-vehicle-set.json](./375686-daemon-x-machina-titanic-scion-vehicle-set.json) |
 | Daemon: The Wolf, the Witch, and the Labyrinth | 390477 | [390477-daemon-the-wolf-the-witch-and-the-labyrinth.json](./390477-daemon-the-wolf-the-witch-and-the-labyrinth.json) |
+| DaemonClaw: Origins of Nnar | 271896 | [271896-daemonclaw-origins-of-nnar.json](./271896-daemonclaw-origins-of-nnar.json) |
 | Daemonfall | 345115 | [345115-daemonfall.json](./345115-daemonfall.json) |
 | Daemonic Runner | 127779 | [127779-daemonic-runner.json](./127779-daemonic-runner.json) |
 | Daemonica | 51369 | [51369-daemonica.json](./51369-daemonica.json) |
@@ -445,6 +446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikaijuu Monogatari: The Miracle of the Zone | 62071 | [62071-daikaijuu-monogatari-the-miracle-of-the-zone.json](./62071-daikaijuu-monogatari-the-miracle-of-the-zone.json) |
 | Daikaijuu Monogatari: The Miracle of the Zone II | 65605 | [65605-daikaijuu-monogatari-the-miracle-of-the-zone-ii.json](./65605-daikaijuu-monogatari-the-miracle-of-the-zone-ii.json) |
 | Daikaijuu no Gyakushuu | 221042 | [221042-daikaijuu-no-gyakushuu.json](./221042-daikaijuu-no-gyakushuu.json) |
+| Daikarin | 271974 | [271974-daikarin.json](./271974-daikarin.json) |
 | Daikatana | 361416 | [361416-daikatana.json](./361416-daikatana.json) |
 | Daikatana | 80764 | [80764-daikatana.json](./80764-daikatana.json) |
 | Daikatana | 8201 | [8201-daikatana.json](./8201-daikatana.json) |
@@ -11025,6 +11027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconcerting Unease 1 | 275313 | [275313-disconcerting-unease-1.json](./275313-disconcerting-unease-1.json) |
 | Disconcerting Unease 2 | 275320 | [275320-disconcerting-unease-2.json](./275320-disconcerting-unease-2.json) |
 | Disconcordia | 402940 | [402940-disconcordia.json](./402940-disconcordia.json) |
+| Discone | 271970 | [271970-discone.json](./271970-discone.json) |
 | Disconnect | 183240 | [183240-disconnect.json](./183240-disconnect.json) |
 | Disconnect | 314558 | [314558-disconnect.json](./314558-disconnect.json) |
 | Disconnected | 108899 | [108899-disconnected.json](./108899-disconnected.json) |
@@ -19119,6 +19122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke | 252099 | [252099-duke.json](./252099-duke.json) |
 | Duke 12:12 | 308332 | [308332-duke-12-12.json](./308332-duke-12-12.json) |
 | Duke 2070 | 308459 | [308459-duke-2070.json](./308459-duke-2070.json) |
+| Duke 23:4 | 271977 | [271977-duke-23-4.json](./271977-duke-23-4.json) |
 | Duke 3:16 | 308330 | [308330-duke-3-16.json](./308330-duke-3-16.json) |
 | Duke 6:8 | 308331 | [308331-duke-6-8.json](./308331-duke-6-8.json) |
 | Duke Burger | 253771 | [253771-duke-burger.json](./253771-duke-burger.json) |
