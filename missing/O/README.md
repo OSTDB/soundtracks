@@ -123,6 +123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oasis the Great | 173906 | [173906-oasis-the-great.json](./173906-oasis-the-great.json) |
 | Oasis VR | 140520 | [140520-oasis-vr.json](./140520-oasis-vr.json) |
 | Oasis: Dark Forest | 189348 | [189348-oasis-dark-forest.json](./189348-oasis-dark-forest.json) |
+| Oasis: Tokyo | 263722 | [263722-oasis-tokyo.json](./263722-oasis-tokyo.json) |
 | OAsys | 368597 | [368597-oasys.json](./368597-oasys.json) |
 | Oatboy vs. Slime Mold | 134914 | [134914-oatboy-vs-slime-mold.json](./134914-oatboy-vs-slime-mold.json) |
 | Oath | 127647 | [127647-oath.json](./127647-oath.json) |
@@ -3236,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Dance! | 347412 | [347412-only-dance.json](./347412-only-dance.json) |
 | Only Dodge! | 362322 | [362322-only-dodge.json](./362322-only-dodge.json) |
 | Only Down | 259592 | [259592-only-down.json](./259592-only-down.json) |
+| Only Down | 263711 | [263711-only-down.json](./263711-only-down.json) |
 | Only Down | 391943 | [391943-only-down.json](./391943-only-down.json) |
 | Only Down: Gravitation Up | 371183 | [371183-only-down-gravitation-up.json](./371183-only-down-gravitation-up.json) |
 | Only Down: Into the Abyss | 379102 | [379102-only-down-into-the-abyss.json](./379102-only-down-into-the-abyss.json) |
