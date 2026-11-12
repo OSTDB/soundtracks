@@ -9723,6 +9723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Squad | 113873 | [113873-plague-squad.json](./113873-plague-squad.json) |
 | Plague Universe | 246884 | [246884-plague-universe.json](./246884-plague-universe.json) |
 | Plague: London 1665 | 244733 | [244733-plague-london-1665.json](./244733-plague-london-1665.json) |
+| Plagueborn Survivor | 276980 | [276980-plagueborn-survivor.json](./276980-plagueborn-survivor.json) |
 | Plaguemon: Kado | 247371 | [247371-plaguemon-kado.json](./247371-plaguemon-kado.json) |
 | Plaguemon: Lost Diaries | 247362 | [247362-plaguemon-lost-diaries.json](./247362-plaguemon-lost-diaries.json) |
 | Plaguepunk Justice | 114516 | [114516-plaguepunk-justice.json](./114516-plaguepunk-justice.json) |
@@ -12435,6 +12436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Vanguard | 242897 | [242897-pokemon-vanguard.json](./242897-pokemon-vanguard.json) |
 | Pokémon Vanishing Point | 318563 | [318563-pokemon-vanishing-point.json](./318563-pokemon-vanishing-point.json) |
 | Pokémon Velvet: Special Hatenna Edition | 337422 | [337422-pokemon-velvet-special-hatenna-edition.json](./337422-pokemon-velvet-special-hatenna-edition.json) |
+| Pokémon verde musgo | 276893 | [276893-pokemon-verde-musgo.json](./276893-pokemon-verde-musgo.json) |
 | Pokémon Version Violette | 401803 | [401803-pokemon-version-violette.json](./401803-pokemon-version-violette.json) |
 | Pokémon Victory Fire | 165252 | [165252-pokemon-victory-fire.json](./165252-pokemon-victory-fire.json) |
 | Pokémon Villain Jam | 354642 | [354642-pokemon-villain-jam.json](./354642-pokemon-villain-jam.json) |
@@ -14744,6 +14746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerpuff Girls: Zom-B-Gone! | 203061 | [203061-powerpuff-girls-zom-b-gone.json](./203061-powerpuff-girls-zom-b-gone.json) |
 | PowerPutt Legend | 225432 | [225432-powerputt-legend.json](./225432-powerputt-legend.json) |
 | Powers | 254470 | [254470-powers.json](./254470-powers.json) |
+| Powers in the Basement | 276979 | [276979-powers-in-the-basement.json](./276979-powers-in-the-basement.json) |
 | Powers of Hex | 230943 | [230943-powers-of-hex.json](./230943-powers-of-hex.json) |
 | PowerShift | 242673 | [242673-powershift.json](./242673-powershift.json) |
 | PowerSimulator | 251808 | [251808-powersimulator.json](./251808-powersimulator.json) |
@@ -15012,6 +15015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prelude for a Dream | 44255 | [44255-prelude-for-a-dream.json](./44255-prelude-for-a-dream.json) |
 | Prelude Gardens | 395576 | [395576-prelude-gardens.json](./395576-prelude-gardens.json) |
 | Prelude to Freedom | 310122 | [310122-prelude-to-freedom.json](./310122-prelude-to-freedom.json) |
+| Prelude to Nuss Jump | 276982 | [276982-prelude-to-nuss-jump.json](./276982-prelude-to-nuss-jump.json) |
 | Prelude: Psychological Horror Game | 84135 | [84135-prelude-psychological-horror-game.json](./84135-prelude-psychological-horror-game.json) |
 | Premeow League | 320110 | [320110-premeow-league.json](./320110-premeow-league.json) |
 | Premier 2: Superleague | 73701 | [73701-premier-2-superleague.json](./73701-premier-2-superleague.json) |
