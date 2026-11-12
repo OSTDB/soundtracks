@@ -3973,6 +3973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Combat | 72365 | [72365-endless-combat.json](./72365-endless-combat.json) |
 | Endless Combat Dungeon | 184621 | [184621-endless-combat-dungeon.json](./184621-endless-combat-dungeon.json) |
 | Endless Crawler | 149310 | [149310-endless-crawler.json](./149310-endless-crawler.json) |
+| Endless Crimes of the Future | 300581 | [300581-endless-crimes-of-the-future.json](./300581-endless-crimes-of-the-future.json) |
 | Endless Crusade | 98492 | [98492-endless-crusade.json](./98492-endless-crusade.json) |
 | Endless Crusade | 99015 | [99015-endless-crusade.json](./99015-endless-crusade.json) |
 | Endless Dark | 236912 | [236912-endless-dark.json](./236912-endless-dark.json) |
