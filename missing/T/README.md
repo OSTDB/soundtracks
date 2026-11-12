@@ -12993,6 +12993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Ninja Twins | 370282 | [370282-the-last-ninja-twins.json](./370282-the-last-ninja-twins.json) |
 | The Last Node | 408500 | [408500-the-last-node.json](./408500-the-last-node.json) |
 | The Last Nordic Tribe | 333071 | [333071-the-last-nordic-tribe.json](./333071-the-last-nordic-tribe.json) |
+| The Last Note From Dad | 275275 | [275275-the-last-note-from-dad.json](./275275-the-last-note-from-dad.json) |
 | The Last Nurse Joy | 321816 | [321816-the-last-nurse-joy.json](./321816-the-last-nurse-joy.json) |
 | The Last Oasis Before Chastity | 298121 | [298121-the-last-oasis-before-chastity.json](./298121-the-last-oasis-before-chastity.json) |
 | The Last Oath | 339902 | [339902-the-last-oath.json](./339902-the-last-oath.json) |
@@ -27416,6 +27417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top PUA | 247424 | [247424-top-pua.json](./247424-top-pua.json) |
 | Top Punch | 97203 | [97203-top-punch.json](./97203-top-punch.json) |
 | Top Race | 236832 | [236832-top-race.json](./236832-top-race.json) |
+| Top Racer Mini Arcade | 275279 | [275279-top-racer-mini-arcade.json](./275279-top-racer-mini-arcade.json) |
 | Top Racer: Crossroads | 262047 | [262047-top-racer-crossroads.json](./262047-top-racer-crossroads.json) |
 | Top Rank Tennis | 94186 | [94186-top-rank-tennis.json](./94186-top-rank-tennis.json) |
 | Top Rider | 64284 | [64284-top-rider.json](./64284-top-rider.json) |
