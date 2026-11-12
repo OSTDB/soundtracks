@@ -3909,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utsuho's Great Hunger Battle | 262101 | [262101-utsuhos-great-hunger-battle.json](./262101-utsuhos-great-hunger-battle.json) |
 | Utsukushii Nihongo no Kakikata Hanashikata DS | 124114 | [124114-utsukushii-nihongo-no-kakikata-hanashikata-ds.json](./124114-utsukushii-nihongo-no-kakikata-hanashikata-ds.json) |
 | Utsurobi no Serentia | 301608 | [301608-utsurobi-no-serentia.json](./301608-utsurobi-no-serentia.json) |
+| Utsurogami | 259306 | [259306-utsurogami.json](./259306-utsurogami.json) |
 | Utsurun Desu: Kawauso Hawaii he Iku!!! | 48553 | [48553-utsurun-desu-kawauso-hawaii-he-iku.json](./48553-utsurun-desu-kawauso-hawaii-he-iku.json) |
 | Utsusemi no Meguri | 69323 | [69323-utsusemi-no-meguri.json](./69323-utsusemi-no-meguri.json) |
 | Utsushite Jikkan! Diet Memo | 91682 | [91682-utsushite-jikkan-diet-memo.json](./91682-utsushite-jikkan-diet-memo.json) |
