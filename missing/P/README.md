@@ -6234,6 +6234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PhotoWorld | 209966 | [209966-photoworld.json](./209966-photoworld.json) |
 | PhotoWorld: Smooth Corners | 163799 | [163799-photoworld-smooth-corners.json](./163799-photoworld-smooth-corners.json) |
 | Phozon | 38745 | [38745-phozon.json](./38745-phozon.json) |
+| Phrank's Photon Pharm | 266451 | [266451-phranks-photon-pharm.json](./266451-phranks-photon-pharm.json) |
 | Phrase Craze Plus | 229804 | [229804-phrase-craze-plus.json](./229804-phrase-craze-plus.json) |
 | Phrase Frenzy - Catch It! | 108598 | [108598-phrase-frenzy-catch-it.json](./108598-phrase-frenzy-catch-it.json) |
 | Phrase Master | 93332 | [93332-phrase-master.json](./93332-phrase-master.json) |
@@ -9101,6 +9102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles World War II Jigsaws | 263779 | [263779-pixel-puzzles-world-war-ii-jigsaws.json](./263779-pixel-puzzles-world-war-ii-jigsaws.json) |
 | Pixel Puzzles World War II Jigsaws Pack: Invasion of Poland | 265245 | [265245-pixel-puzzles-world-war-ii-jigsaws-pack-invasion-of-poland.json](./265245-pixel-puzzles-world-war-ii-jigsaws-pack-invasion-of-poland.json) |
 | Pixel Puzzles World War II Jigsaws: Battle of Hürtgen Forest | 267064 | [267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json](./267064-pixel-puzzles-world-war-ii-jigsaws-battle-of-hurtgen-forest.json) |
+| Pixel Puzzles World War II Jigsaws: Pack - Battle of Peleliu | 266442 | [266442-pixel-puzzles-world-war-ii-jigsaws-pack-battle-of-peleliu.json](./266442-pixel-puzzles-world-war-ii-jigsaws-pack-battle-of-peleliu.json) |
 | Pixel Puzzles World War II Jigsaws: Pack - Battle Off Samar | 274657 | [274657-pixel-puzzles-world-war-ii-jigsaws-pack-battle-off-samar.json](./274657-pixel-puzzles-world-war-ii-jigsaws-pack-battle-off-samar.json) |
 | Pixel Puzzles WW2 Jigsaw: Battle of Leyte | 272595 | [272595-pixel-puzzles-ww2-jigsaw-battle-of-leyte.json](./272595-pixel-puzzles-ww2-jigsaw-battle-of-leyte.json) |
 | Pixel Puzzles WW2 Jigsaw: Battle of the Bulge | 289463 | [289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json](./289463-pixel-puzzles-ww2-jigsaw-battle-of-the-bulge.json) |
@@ -9706,6 +9708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Placid Plastic Duck Simulator: Duck Addiction | 282981 | [282981-placid-plastic-duck-simulator-duck-addiction.json](./282981-placid-plastic-duck-simulator-duck-addiction.json) |
 | Placid Plastic Duck Simulator: Ducks, Please | 282980 | [282980-placid-plastic-duck-simulator-ducks-please.json](./282980-placid-plastic-duck-simulator-ducks-please.json) |
 | Placid Plastic Duck Simulator: Quacking the Ice | 236904 | [236904-placid-plastic-duck-simulator-quacking-the-ice.json](./236904-placid-plastic-duck-simulator-quacking-the-ice.json) |
+| Placid Plastic Duck Simulator: So Many Ducks | 266443 | [266443-placid-plastic-duck-simulator-so-many-ducks.json](./266443-placid-plastic-duck-simulator-so-many-ducks.json) |
 | Placid Plastic Duck VR | 338550 | [338550-placid-plastic-duck-vr.json](./338550-placid-plastic-duck-vr.json) |
 | Placid Plastic Duck: Hippospace Download | 282983 | [282983-placid-plastic-duck-hippospace-download.json](./282983-placid-plastic-duck-hippospace-download.json) |
 | Placing Heroes: The Legend of Doomsday | 178816 | [178816-placing-heroes-the-legend-of-doomsday.json](./178816-placing-heroes-the-legend-of-doomsday.json) |
@@ -16774,6 +16777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Abel | 84122 | [84122-project-abel.json](./84122-project-abel.json) |
 | Project Abyss | 26204 | [26204-project-abyss.json](./26204-project-abyss.json) |
 | Project Accipiter | 398697 | [398697-project-accipiter.json](./398697-project-accipiter.json) |
+| Project Adaloria | 266436 | [266436-project-adaloria.json](./266436-project-adaloria.json) |
 | Project Adam: AI Attack | 268322 | [268322-project-adam-ai-attack.json](./268322-project-adam-ai-attack.json) |
 | Project Adder | 266433 | [266433-project-adder.json](./266433-project-adder.json) |
 | Project Adrenaline | 310882 | [310882-project-adrenaline.json](./310882-project-adrenaline.json) |
@@ -17884,6 +17888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect Zoey from the Zombies | 98595 | [98595-protect-zoey-from-the-zombies.json](./98595-protect-zoey-from-the-zombies.json) |
 | ProtectHeart | 286036 | [286036-protectheart.json](./286036-protectheart.json) |
 | Protecting Santa | 192986 | [192986-protecting-santa.json](./192986-protecting-santa.json) |
+| Protecting the Base | 266463 | [266463-protecting-the-base.json](./266463-protecting-the-base.json) |
 | Protecting the Diamond | 394369 | [394369-protecting-the-diamond.json](./394369-protecting-the-diamond.json) |
 | Protection Civile Simulator 2013 | 50822 | [50822-protection-civile-simulator-2013.json](./50822-protection-civile-simulator-2013.json) |
 | Protective Clothing | 132616 | [132616-protective-clothing.json](./132616-protective-clothing.json) |
