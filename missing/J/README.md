@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Frost | 289146 | [289146-jack-frost.json](./289146-jack-frost.json) |
 | Jack Hayes: The Lazarus Sign | 133067 | [133067-jack-hayes-the-lazarus-sign.json](./133067-jack-hayes-the-lazarus-sign.json) |
 | Jack Holmes: Master of Puppets | 253532 | [253532-jack-holmes-master-of-puppets.json](./253532-jack-holmes-master-of-puppets.json) |
+| Jack Holmes: Master of Puppets - Prologue | 264257 | [264257-jack-holmes-master-of-puppets-prologue.json](./264257-jack-holmes-master-of-puppets-prologue.json) |
 | Jack Horror | 63859 | [63859-jack-horror.json](./63859-jack-horror.json) |
 | Jack In Space | 409664 | [409664-jack-in-space.json](./409664-jack-in-space.json) |
 | Jack in the Dark | 51346 | [51346-jack-in-the-dark.json](./51346-jack-in-the-dark.json) |
