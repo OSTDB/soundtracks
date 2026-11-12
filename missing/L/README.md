@@ -4311,6 +4311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letiste | 273192 | [273192-letiste.json](./273192-letiste.json) |
 | LetMeOut | 275991 | [275991-letmeout.json](./275991-letmeout.json) |
 | LetMeSee | 406295 | [406295-letmesee.json](./406295-letmesee.json) |
+| Léto s Oskarem | 257588 | [257588-leto-s-oskarem.json](./257588-leto-s-oskarem.json) |
 | Letreco | 186524 | [186524-letreco.json](./186524-letreco.json) |
 | Letris 4 | 233103 | [233103-letris-4.json](./233103-letris-4.json) |
 | Letris Power: Word puzzle game | 89239 | [89239-letris-power-word-puzzle-game.json](./89239-letris-power-word-puzzle-game.json) |
@@ -9246,6 +9247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovanium: The Rising Suns | 265633 | [265633-lovanium-the-rising-suns.json](./265633-lovanium-the-rising-suns.json) |
 | Love | 105034 | [105034-love.json](./105034-love.json) |
 | Love | 16912 | [16912-love.json](./16912-love.json) |
+| Love | 257621 | [257621-love.json](./257621-love.json) |
 | Love | 342304 | [342304-love.json](./342304-love.json) |
 | Love & Country | 262780 | [262780-love-and-country.json](./262780-love-and-country.json) |
 | Love & Death Bitten | 56254 | [56254-love-and-death-bitten.json](./56254-love-and-death-bitten.json) |
