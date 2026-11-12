@@ -5768,6 +5768,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 3 | 257863 | [257863-gnome-enchanted-jigsaw-puzzles-expansion-pack-3.json](./257863-gnome-enchanted-jigsaw-puzzles-expansion-pack-3.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 4 | 258948 | [258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json](./258948-gnome-enchanted-jigsaw-puzzles-expansion-pack-4.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 5 | 259680 | [259680-gnome-enchanted-jigsaw-puzzles-expansion-pack-5.json](./259680-gnome-enchanted-jigsaw-puzzles-expansion-pack-5.json) |
+| Gnome Enchanted Jigsaw Puzzles: Expansion Pack 6 | 259799 | [259799-gnome-enchanted-jigsaw-puzzles-expansion-pack-6.json](./259799-gnome-enchanted-jigsaw-puzzles-expansion-pack-6.json) |
+| Gnome Enchanted Jigsaw Puzzles: Expansion Pack 7 | 259798 | [259798-gnome-enchanted-jigsaw-puzzles-expansion-pack-7.json](./259798-gnome-enchanted-jigsaw-puzzles-expansion-pack-7.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 8 | 260466 | [260466-gnome-enchanted-jigsaw-puzzles-expansion-pack-8.json](./260466-gnome-enchanted-jigsaw-puzzles-expansion-pack-8.json) |
 | Gnome Enchanted Jigsaw Puzzles: Expansion Pack 9 | 260876 | [260876-gnome-enchanted-jigsaw-puzzles-expansion-pack-9.json](./260876-gnome-enchanted-jigsaw-puzzles-expansion-pack-9.json) |
 | Gnome Escape | 314409 | [314409-gnome-escape.json](./314409-gnome-escape.json) |
