@@ -9397,6 +9397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo Army | 46786 | [46786-robo-army.json](./46786-robo-army.json) |
 | Robo Blaster | 270924 | [270924-robo-blaster.json](./270924-robo-blaster.json) |
 | Robo Boop | 89970 | [89970-robo-boop.json](./89970-robo-boop.json) |
+| Robo Crush | 289043 | [289043-robo-crush.json](./289043-robo-crush.json) |
 | Robo Defense | 38700 | [38700-robo-defense.json](./38700-robo-defense.json) |
 | Robo Do It | 29425 | [29425-robo-do-it.json](./29425-robo-do-it.json) |
 | Robo Dolphin Escape | 385419 | [385419-robo-dolphin-escape.json](./385419-robo-dolphin-escape.json) |
@@ -10312,6 +10313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockin' Night Crusade | 128777 | [128777-rockin-night-crusade.json](./128777-rockin-night-crusade.json) |
 | Rockin' Pretty | 69155 | [69155-rockin-pretty.json](./69155-rockin-pretty.json) |
 | Rockin' Rabbit | 317444 | [317444-rockin-rabbit.json](./317444-rockin-rabbit.json) |
+| Rockin' Racket | 288960 | [288960-rockin-racket.json](./288960-rockin-racket.json) |
 | Rockin' Road | 161462 | [161462-rockin-road.json](./161462-rockin-road.json) |
 | Rockin'Space | 178633 | [178633-rockinspace.json](./178633-rockinspace.json) |
 | Rocking Legend | 132357 | [132357-rocking-legend.json](./132357-rocking-legend.json) |
