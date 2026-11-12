@@ -2508,6 +2508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Nation: A Gay Game for Gays - Gays Only | 99672 | [99672-gay-nation-a-gay-game-for-gays-gays-only.json](./99672-gay-nation-a-gay-game-for-gays-gays-only.json) |
 | Gay Sex Adventures: Episode 1 | 275155 | [275155-gay-sex-adventures-episode-1.json](./275155-gay-sex-adventures-episode-1.json) |
 | Gay Sex Adventures: Episode 2 | 280663 | [280663-gay-sex-adventures-episode-2.json](./280663-gay-sex-adventures-episode-2.json) |
+| Gay Sex Adventures: Episode 3 | 286148 | [286148-gay-sex-adventures-episode-3.json](./286148-gay-sex-adventures-episode-3.json) |
 | Gay Sex Adventures: Episode 4 | 290803 | [290803-gay-sex-adventures-episode-4.json](./290803-gay-sex-adventures-episode-4.json) |
 | Gay Sex Adventures: Episode 5 | 297109 | [297109-gay-sex-adventures-episode-5.json](./297109-gay-sex-adventures-episode-5.json) |
 | Gay Sex Adventures: Episode 6 | 297110 | [297110-gay-sex-adventures-episode-6.json](./297110-gay-sex-adventures-episode-6.json) |
