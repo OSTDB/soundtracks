@@ -7973,6 +7973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hit All Her: Western City | 193230 | [193230-all-hit-all-her-western-city.json](./193230-all-hit-all-her-western-city.json) |
 | All Humans Must Die! | 183557 | [183557-all-humans-must-die.json](./183557-all-humans-must-die.json) |
 | All I Do Is Dream | 57519 | [57519-all-i-do-is-dream.json](./57519-all-i-do-is-dream.json) |
+| All I Want for Christmas Are Subgames | 275760 | [275760-all-i-want-for-christmas-are-subgames.json](./275760-all-i-want-for-christmas-are-subgames.json) |
 | All I want for Christmas are Subgames: Collector's Edition | 416871 | [416871-all-i-want-for-christmas-are-subgames-collectors-edition.json](./416871-all-i-want-for-christmas-are-subgames-collectors-edition.json) |
 | All I Want for Christmas Collection | 218378 | [218378-all-i-want-for-christmas-collection.json](./218378-all-i-want-for-christmas-collection.json) |
 | All I Want is For All My Friends to Become Insanely Powerful | 128778 | [128778-all-i-want-is-for-all-my-friends-to-become-insanely-powerful.json](./128778-all-i-want-is-for-all-my-friends-to-become-insanely-powerful.json) |
@@ -9893,6 +9894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anaconda | 230673 | [230673-anaconda.json](./230673-anaconda.json) |
 | Anacreon: Imperial Conquest in the Far Future | 57582 | [57582-anacreon-imperial-conquest-in-the-far-future.json](./57582-anacreon-imperial-conquest-in-the-far-future.json) |
 | Anacreon: Reconstruction 4021 | 74083 | [74083-anacreon-reconstruction-4021.json](./74083-anacreon-reconstruction-4021.json) |
+| Anagram | 275772 | [275772-anagram.json](./275772-anagram.json) |
 | Anagramarama | 390701 | [390701-anagramarama.json](./390701-anagramarama.json) |
 | Anagrammatic | 323710 | [323710-anagrammatic.json](./323710-anagrammatic.json) |
 | Anagramme Duel | 96037 | [96037-anagramme-duel.json](./96037-anagramme-duel.json) |
@@ -10704,6 +10706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry King | 301121 | [301121-angry-king.json](./301121-angry-king.json) |
 | Angry Mother Earth | 265562 | [265562-angry-mother-earth.json](./265562-angry-mother-earth.json) |
 | Angry Mountain Gods | 183440 | [183440-angry-mountain-gods.json](./183440-angry-mountain-gods.json) |
+| Angry Neighbor in Town | 275780 | [275780-angry-neighbor-in-town.json](./275780-angry-neighbor-in-town.json) |
 | Angry Neighbor Simulator | 320219 | [320219-angry-neighbor-simulator.json](./320219-angry-neighbor-simulator.json) |
 | Angry Neighbor: The Strange House | 241833 | [241833-angry-neighbor-the-strange-house.json](./241833-angry-neighbor-the-strange-house.json) |
 | Angry Neighbor: The Temporary Neighbor | 241838 | [241838-angry-neighbor-the-temporary-neighbor.json](./241838-angry-neighbor-the-temporary-neighbor.json) |
@@ -15543,6 +15546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrival, or Attack of the B-Movie Clichés | 314038 | [314038-arrival-or-attack-of-the-b-movie-cliches.json](./314038-arrival-or-attack-of-the-b-movie-cliches.json) |
 | Arrival: Zero Earth | 164634 | [164634-arrival-zero-earth.json](./164634-arrival-zero-earth.json) |
 | Arrive In Time | 370958 | [370958-arrive-in-time.json](./370958-arrive-in-time.json) |
+| Arriving Early | 275776 | [275776-arriving-early.json](./275776-arriving-early.json) |
 | Arriving Home | 134925 | [134925-arriving-home.json](./134925-arriving-home.json) |
 | Arrog | 127144 | [127144-arrog.json](./127144-arrog.json) |
 | Arrogant | 427854 | [427854-arrogant.json](./427854-arrogant.json) |
@@ -17592,6 +17596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstronTycoon2: Ritual | 123825 | [123825-astrontycoon2-ritual.json](./123825-astrontycoon2-ritual.json) |
 | Astronut | 92128 | [92128-astronut.json](./92128-astronut.json) |
 | Astroops | 373860 | [373860-astroops.json](./373860-astroops.json) |
+| AstroPanic | 275761 | [275761-astropanic.json](./275761-astropanic.json) |
 | Astropark | 353380 | [353380-astropark.json](./353380-astropark.json) |
 | Astrophidia | 409682 | [409682-astrophidia.json](./409682-astrophidia.json) |
 | Astrophobia | 421183 | [421183-astrophobia.json](./421183-astrophobia.json) |
@@ -18634,6 +18639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AubirdForce | 388782 | [388782-aubirdforce.json](./388782-aubirdforce.json) |
 | Aubirdforce After | 344855 | [344855-aubirdforce-after.json](./344855-aubirdforce-after.json) |
 | Auction | 192701 | [192701-auction.json](./192701-auction.json) |
+| Auction | 275773 | [275773-auction.json](./275773-auction.json) |
 | Audiball | 70616 | [70616-audiball.json](./70616-audiball.json) |
 | Audica: 5 Seconds of Summer - "Youngblood" | 358945 | [358945-audica-5-seconds-of-summer-youngblood.json](./358945-audica-5-seconds-of-summer-youngblood.json) |
 | Audica: Ariana Grande - "Into You" | 358946 | [358946-audica-ariana-grande-into-you.json](./358946-audica-ariana-grande-into-you.json) |
