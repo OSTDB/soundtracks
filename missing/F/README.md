@@ -12653,6 +12653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeInfantry | 291224 | [291224-freeinfantry.json](./291224-freeinfantry.json) |
 | Freeing Quency | 179192 | [179192-freeing-quency.json](./179192-freeing-quency.json) |
 | FreeJack | 51276 | [51276-freejack.json](./51276-freejack.json) |
+| FreeJack Online | 275183 | [275183-freejack-online.json](./275183-freejack-online.json) |
 | Freekscape: Escape From Hell | 52231 | [52231-freekscape-escape-from-hell.json](./52231-freekscape-escape-from-hell.json) |
 | Freekstyle | 242933 | [242933-freekstyle.json](./242933-freekstyle.json) |
 | Freekstyle | 3919 | [3919-freekstyle.json](./3919-freekstyle.json) |
