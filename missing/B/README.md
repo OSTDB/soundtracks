@@ -407,6 +407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back in 1995 | 19883 | [19883-back-in-1995.json](./19883-back-in-1995.json) |
 | Back In 1995 64 | 85503 | [85503-back-in-1995-64.json](./85503-back-in-1995-64.json) |
 | Back in Business | 272108 | [272108-back-in-business.json](./272108-back-in-business.json) |
+| Back in Prehistory | 293817 | [293817-back-in-prehistory.json](./293817-back-in-prehistory.json) |
 | Back in Service: A Metro Driver | 329452 | [329452-back-in-service-a-metro-driver.json](./329452-back-in-service-a-metro-driver.json) |
 | Back in Time | 367896 | [367896-back-in-time.json](./367896-back-in-time.json) |
 | Back in Time | 57995 | [57995-back-in-time.json](./57995-back-in-time.json) |
@@ -11902,6 +11903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Peace | 293106 | [293106-blood-peace.json](./293106-blood-peace.json) |
 | Blood Permafrost | 387556 | [387556-blood-permafrost.json](./387556-blood-permafrost.json) |
 | Blood Pivot | 247857 | [247857-blood-pivot.json](./247857-blood-pivot.json) |
+| Blood Poker | 293799 | [293799-blood-poker.json](./293799-blood-poker.json) |
 | Blood Pressure | 140937 | [140937-blood-pressure.json](./140937-blood-pressure.json) |
 | Blood Punk | 309563 | [309563-blood-punk.json](./309563-blood-punk.json) |
 | Blood Radiant | 277275 | [277275-blood-radiant.json](./277275-blood-radiant.json) |
