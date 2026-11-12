@@ -18676,6 +18676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic and the World Rings | 331982 | [331982-sonic-and-the-world-rings.json](./331982-sonic-and-the-world-rings.json) |
 | Sonic Anniversary | 319496 | [319496-sonic-anniversary.json](./319496-sonic-anniversary.json) |
 | Sonic Arcus 2D | 319463 | [319463-sonic-arcus-2d.json](./319463-sonic-arcus-2d.json) |
+| Sonic Arena | 265884 | [265884-sonic-arena.json](./265884-sonic-arena.json) |
 | Sonic Arena | 282366 | [282366-sonic-arena.json](./282366-sonic-arena.json) |
 | Sonic Arena | 331867 | [331867-sonic-arena.json](./331867-sonic-arena.json) |
 | Sonic Arena 2 | 331868 | [331868-sonic-arena-2.json](./331868-sonic-arena-2.json) |
@@ -18935,6 +18936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Hexacide | 136388 | [136388-sonic-hexacide.json](./136388-sonic-hexacide.json) |
 | Sonic Hopping | 261271 | [261271-sonic-hopping.json](./261271-sonic-hopping.json) |
 | Sonic Hopping 2 | 261272 | [261272-sonic-hopping-2.json](./261272-sonic-hopping-2.json) |
+| Sonic Horizons | 265892 | [265892-sonic-horizons.json](./265892-sonic-horizons.json) |
 | Sonic Hoshi | 321916 | [321916-sonic-hoshi.json](./321916-sonic-hoshi.json) |
 | Sonic Hunter VR | 30549 | [30549-sonic-hunter-vr.json](./30549-sonic-hunter-vr.json) |
 | Sonic Illusion | 334736 | [334736-sonic-illusion.json](./334736-sonic-illusion.json) |
@@ -18978,6 +18980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Labyrinth | 19731 | [19731-sonic-labyrinth.json](./19731-sonic-labyrinth.json) |
 | Sonic Labyrinth | 332465 | [332465-sonic-labyrinth.json](./332465-sonic-labyrinth.json) |
 | Sonic Labyrinth | 387060 | [387060-sonic-labyrinth.json](./387060-sonic-labyrinth.json) |
+| Sonic LaserDisc | 265889 | [265889-sonic-laserdisc.json](./265889-sonic-laserdisc.json) |
 | Sonic Legacy | 314502 | [314502-sonic-legacy.json](./314502-sonic-legacy.json) |
 | Sonic Legacy | 317513 | [317513-sonic-legacy.json](./317513-sonic-legacy.json) |
 | Sonic Legacy | 333885 | [333885-sonic-legacy.json](./333885-sonic-legacy.json) |
@@ -19370,6 +19373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic the Hedgehog Pocket Adventure | 43323 | [43323-sonic-the-hedgehog-pocket-adventure.json](./43323-sonic-the-hedgehog-pocket-adventure.json) |
 | Sonic the Hedgehog Revitalized | 326955 | [326955-sonic-the-hedgehog-revitalized.json](./326955-sonic-the-hedgehog-revitalized.json) |
 | Sonic the Hedgehog RPG: Entropy | 317585 | [317585-sonic-the-hedgehog-rpg-entropy.json](./317585-sonic-the-hedgehog-rpg-entropy.json) |
+| Sonic the Hedgehog RPG: Gearhead | 265893 | [265893-sonic-the-hedgehog-rpg-gearhead.json](./265893-sonic-the-hedgehog-rpg-gearhead.json) |
 | Sonic the Hedgehog RPG: In The Belly of The Beast | 317586 | [317586-sonic-the-hedgehog-rpg-in-the-belly-of-the-beast.json](./317586-sonic-the-hedgehog-rpg-in-the-belly-of-the-beast.json) |
 | Sonic the Hedgehog RPG: Past, Present, & Future | 370481 | [370481-sonic-the-hedgehog-rpg-past-present-and-future.json](./370481-sonic-the-hedgehog-rpg-past-present-and-future.json) |
 | Sonic the Hedgehog RPG: Return to Iron Lock | 317587 | [317587-sonic-the-hedgehog-rpg-return-to-iron-lock.json](./317587-sonic-the-hedgehog-rpg-return-to-iron-lock.json) |
@@ -19428,6 +19432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic ThirdScape 2 | 331649 | [331649-sonic-thirdscape-2.json](./331649-sonic-thirdscape-2.json) |
 | Sonic Time Twisted | 125154 | [125154-sonic-time-twisted.json](./125154-sonic-time-twisted.json) |
 | Sonic Totem | 334734 | [334734-sonic-totem.json](./334734-sonic-totem.json) |
+| Sonic Treading Power | 265895 | [265895-sonic-treading-power.json](./265895-sonic-treading-power.json) |
 | Sonic Tricky | 331078 | [331078-sonic-tricky.json](./331078-sonic-tricky.json) |
 | Sonic Triple Link | 330522 | [330522-sonic-triple-link.json](./330522-sonic-triple-link.json) |
 | Sonic Triple Trouble 16-Bit | 136814 | [136814-sonic-triple-trouble-16-bit.json](./136814-sonic-triple-trouble-16-bit.json) |
@@ -24512,6 +24517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporcle | 86844 | [86844-sporcle.json](./86844-sporcle.json) |
 | Sporcle Party | 283574 | [283574-sporcle-party.json](./283574-sporcle-party.json) |
 | Spore | 55043 | [55043-spore.json](./55043-spore.json) |
+| Spore 2D Creature Creator | 265898 | [265898-spore-2d-creature-creator.json](./265898-spore-2d-creature-creator.json) |
 | Spore Collection | 51900 | [51900-spore-collection.json](./51900-spore-collection.json) |
 | Spore Creature Keeper | 80181 | [80181-spore-creature-keeper.json](./80181-spore-creature-keeper.json) |
 | Spore Creatures | 127556 | [127556-spore-creatures.json](./127556-spore-creatures.json) |
@@ -34418,6 +34424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros. DX | 372198 | [372198-super-mario-bros-dx.json](./372198-super-mario-bros-dx.json) |
 | Super Mario Bros. Extreme Adventure | 314104 | [314104-super-mario-bros-extreme-adventure.json](./314104-super-mario-bros-extreme-adventure.json) |
 | Super Mario Bros. for Lost Players | 221521 | [221521-super-mario-bros-for-lost-players.json](./221521-super-mario-bros-for-lost-players.json) |
+| Super Mario Bros. Friends | 265897 | [265897-super-mario-bros-friends.json](./265897-super-mario-bros-friends.json) |
 | Super Mario Bros. Funk Mix Deluxe | 203389 | [203389-super-mario-bros-funk-mix-deluxe.json](./203389-super-mario-bros-funk-mix-deluxe.json) |
 | Super Mario Bros. Game Watch | 172502 | [172502-super-mario-bros-game-watch.json](./172502-super-mario-bros-game-watch.json) |
 | Super Mario Bros. in Crazy Castle | 323826 | [323826-super-mario-bros-in-crazy-castle.json](./323826-super-mario-bros-in-crazy-castle.json) |
