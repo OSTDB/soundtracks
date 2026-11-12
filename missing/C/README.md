@@ -14660,6 +14660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Congestion 1024 | 196247 | [196247-congestion-1024.json](./196247-congestion-1024.json) |
 | Congestion 384 | 273727 | [273727-congestion-384.json](./273727-congestion-384.json) |
 | Congestion Control | 274152 | [274152-congestion-control.json](./274152-congestion-control.json) |
+| Congestion Control 2 | 274156 | [274156-congestion-control-2.json](./274156-congestion-control-2.json) |
 | Congkakcraze | 93964 | [93964-congkakcraze.json](./93964-congkakcraze.json) |
 | Conglomerate 451 | 116593 | [116593-conglomerate-451.json](./116593-conglomerate-451.json) |
 | Conglomerate 451: Overloaded | 151596 | [151596-conglomerate-451-overloaded.json](./151596-conglomerate-451-overloaded.json) |
@@ -20581,6 +20582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ctrl/Esc | 213293 | [213293-ctrl-esc.json](./213293-ctrl-esc.json) |
 | Ctrl+Alt+Defeat Zero Humanity | 405138 | [405138-ctrl-alt-defeat-zero-humanity.json](./405138-ctrl-alt-defeat-zero-humanity.json) |
 | Ctrl+Alt+Destroy | 265382 | [265382-ctrl-alt-destroy.json](./265382-ctrl-alt-destroy.json) |
+| Ctrl+Alt+Repeat | 274088 | [274088-ctrl-alt-repeat.json](./274088-ctrl-alt-repeat.json) |
 | CtrlC | 239735 | [239735-ctrlc.json](./239735-ctrlc.json) |
 | Ctrlsink | 390252 | [390252-ctrlsink.json](./390252-ctrlsink.json) |
 | CTU: Counter Terrorism Unit | 34586 | [34586-ctu-counter-terrorism-unit.json](./34586-ctu-counter-terrorism-unit.json) |
