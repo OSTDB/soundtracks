@@ -6211,6 +6211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matr1x Fire | 279279 | [279279-matr1x-fire.json](./279279-matr1x-fire.json) |
 | Matraquinha Pair | 167491 | [167491-matraquinha-pair.json](./167491-matraquinha-pair.json) |
 | Matreshka | 304529 | [304529-matreshka.json](./304529-matreshka.json) |
+| Matriarchy Attack | 261001 | [261001-matriarchy-attack.json](./261001-matriarchy-attack.json) |
 | Matricon: Monopoly | 230531 | [230531-matricon-monopoly.json](./230531-matricon-monopoly.json) |
 | Matrimelee | 92937 | [92937-matrimelee.json](./92937-matrimelee.json) |
 | Matrioshkas On a Roll! | 418615 | [418615-matrioshkas-on-a-roll.json](./418615-matrioshkas-on-a-roll.json) |
@@ -12682,6 +12683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mile Bones | 83480 | [83480-mile-bones.json](./83480-mile-bones.json) |
 | Mile High Pinball | 6266 | [6266-mile-high-pinball.json](./6266-mile-high-pinball.json) |
 | Mile High Taxi | 217387 | [217387-mile-high-taxi.json](./217387-mile-high-taxi.json) |
+| Mile High Taxi: Race Mode | 260931 | [260931-mile-high-taxi-race-mode.json](./260931-mile-high-taxi-race-mode.json) |
 | Mile Zero Anomaly | 421165 | [421165-mile-zero-anomaly.json](./421165-mile-zero-anomaly.json) |
 | Mile's Legacy | 330462 | [330462-miles-legacy.json](./330462-miles-legacy.json) |
 | Milena's manor house | 165817 | [165817-milenas-manor-house.json](./165817-milenas-manor-house.json) |
@@ -19701,6 +19703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mouse Sector | 218857 | [218857-mouse-sector.json](./218857-mouse-sector.json) |
 | Mouse Shooter | 350330 | [350330-mouse-shooter.json](./350330-mouse-shooter.json) |
 | Mouse Trap | 248053 | [248053-mouse-trap.json](./248053-mouse-trap.json) |
+| Mouse Trap | 260902 | [260902-mouse-trap.json](./260902-mouse-trap.json) |
 | Mouse Trap | 5687 | [5687-mouse-trap.json](./5687-mouse-trap.json) |
 | Mouse Trap / Operation / Simon | 77240 | [77240-mouse-trap-operation-simon.json](./77240-mouse-trap-operation-simon.json) |
 | Mouse Trap Hotel | 49037 | [49037-mouse-trap-hotel.json](./49037-mouse-trap-hotel.json) |
