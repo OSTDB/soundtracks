@@ -6015,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Racers | 220452 | [220452-nitro-racers.json](./220452-nitro-racers.json) |
 | Nitro Rally | 175114 | [175114-nitro-rally.json](./175114-nitro-rally.json) |
 | Nitro Rally Evolution | 234008 | [234008-nitro-rally-evolution.json](./234008-nitro-rally-evolution.json) |
+| Nitro RC | 248865 | [248865-nitro-rc.json](./248865-nitro-rc.json) |
 | Nitro Royale -Heroines Duel- | 70685 | [70685-nitro-royale-heroines-duel.json](./70685-nitro-royale-heroines-duel.json) |
 | Nitro Street Run 2 | 300349 | [300349-nitro-street-run-2.json](./300349-nitro-street-run-2.json) |
 | Nitro Stunt Racing: Stage 1 | 97529 | [97529-nitro-stunt-racing-stage-1.json](./97529-nitro-stunt-racing-stage-1.json) |
@@ -6928,6 +6929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nom Plant | 328943 | [328943-nom-plant.json](./328943-nom-plant.json) |
 | Nom: Billion Year Timequest | 343566 | [343566-nom-billion-year-timequest.json](./343566-nom-billion-year-timequest.json) |
 | Nomad | 174444 | [174444-nomad.json](./174444-nomad.json) |
+| Nomad | 248857 | [248857-nomad.json](./248857-nomad.json) |
 | Nomad | 249433 | [249433-nomad.json](./249433-nomad.json) |
 | Nomad | 403796 | [403796-nomad.json](./403796-nomad.json) |
 | Nomad | 95511 | [95511-nomad.json](./95511-nomad.json) |
