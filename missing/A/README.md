@@ -2009,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abandoning Spies | 260616 | [260616-abandoning-spies.json](./260616-abandoning-spies.json) |
 | Abandonment | 114259 | [114259-abandonment.json](./114259-abandonment.json) |
 | Abandonware | 256380 | [256380-abandonware.json](./256380-abandonware.json) |
+| Abarehateta Byouin kara no Dasshutsu | 279198 | [279198-abarehateta-byouin-kara-no-dasshutsu.json](./279198-abarehateta-byouin-kara-no-dasshutsu.json) |
 | Abarenbou Princess | 64885 | [64885-abarenbou-princess.json](./64885-abarenbou-princess.json) |
 | Abarenbou Tengu | 215127 | [215127-abarenbou-tengu.json](./215127-abarenbou-tengu.json) |
 | Abashed | 329610 | [329610-abashed.json](./329610-abashed.json) |
@@ -7919,6 +7920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Cows In | 76335 | [76335-all-cows-in.json](./76335-all-cows-in.json) |
 | All Day Dying: Redux Edition | 229129 | [229129-all-day-dying-redux-edition.json](./229129-all-day-dying-redux-edition.json) |
 | All Day Nippon | 241880 | [241880-all-day-nippon.json](./241880-all-day-nippon.json) |
+| All Demons Go to Heaven | 279357 | [279357-all-demons-go-to-heaven.json](./279357-all-demons-go-to-heaven.json) |
 | All Doe's Life | 301283 | [301283-all-does-life.json](./301283-all-does-life.json) |
 | All Dogs Go to Heaven | 11894 | [11894-all-dogs-go-to-heaven.json](./11894-all-dogs-go-to-heaven.json) |
 | All Dogs Go to Heaven: Activity Center | 205117 | [205117-all-dogs-go-to-heaven-activity-center.json](./205117-all-dogs-go-to-heaven-activity-center.json) |
@@ -11253,6 +11255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Girls: Puffy Pumpkin | 375125 | [375125-anime-girls-puffy-pumpkin.json](./375125-anime-girls-puffy-pumpkin.json) |
 | Anime Girls: Royal Romance | 343526 | [343526-anime-girls-royal-romance.json](./343526-anime-girls-royal-romance.json) |
 | Anime Girls: Shanghai Romance | 393414 | [393414-anime-girls-shanghai-romance.json](./393414-anime-girls-shanghai-romance.json) |
+| Anime Girls: Special Edition | 279191 | [279191-anime-girls-special-edition.json](./279191-anime-girls-special-edition.json) |
 | Anime Girls: Stellar Invasion | 396432 | [396432-anime-girls-stellar-invasion.json](./396432-anime-girls-stellar-invasion.json) |
 | Anime Girls: Summer Vacay | 360218 | [360218-anime-girls-summer-vacay.json](./360218-anime-girls-summer-vacay.json) |
 | Anime Girls: Sun of a Beach | 288718 | [288718-anime-girls-sun-of-a-beach.json](./288718-anime-girls-sun-of-a-beach.json) |
@@ -11282,6 +11285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Mother Life Simulator | 376264 | [376264-anime-mother-life-simulator.json](./376264-anime-mother-life-simulator.json) |
 | Anime Music Quiz | 131061 | [131061-anime-music-quiz.json](./131061-anime-music-quiz.json) |
 | Anime Paradise | 263613 | [263613-anime-paradise.json](./263613-anime-paradise.json) |
+| Anime Paradise: Extended Edition | 279190 | [279190-anime-paradise-extended-edition.json](./279190-anime-paradise-extended-edition.json) |
 | Anime Paradise: Ultimate Edition | 276326 | [276326-anime-paradise-ultimate-edition.json](./276326-anime-paradise-ultimate-edition.json) |
 | Anime Parody: Tentacle Slayer | 319978 | [319978-anime-parody-tentacle-slayer.json](./319978-anime-parody-tentacle-slayer.json) |
 | Anime Play Life: Unlimited | 153494 | [153494-anime-play-life-unlimited.json](./153494-anime-play-life-unlimited.json) |
@@ -11294,6 +11298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Puzzle Quest: Complete DLC Bundle | 317962 | [317962-anime-puzzle-quest-complete-dlc-bundle.json](./317962-anime-puzzle-quest-complete-dlc-bundle.json) |
 | Anime Puzzle Quest: Deluxe Edition | 317918 | [317918-anime-puzzle-quest-deluxe-edition.json](./317918-anime-puzzle-quest-deluxe-edition.json) |
 | Anime Puzzle Quest: The Magical Girls Adventure | 317897 | [317897-anime-puzzle-quest-the-magical-girls-adventure.json](./317897-anime-puzzle-quest-the-magical-girls-adventure.json) |
+| Anime Puzzle School Trouble | 279195 | [279195-anime-puzzle-school-trouble.json](./279195-anime-puzzle-school-trouble.json) |
 | Anime Quest: Mystic Maidens | 266169 | [266169-anime-quest-mystic-maidens.json](./266169-anime-quest-mystic-maidens.json) |
 | Anime Quiz Challenge | 405671 | [405671-anime-quiz-challenge.json](./405671-anime-quiz-challenge.json) |
 | Anime Rally | 326811 | [326811-anime-rally.json](./326811-anime-rally.json) |
@@ -17601,6 +17606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroSlugs | 8393 | [8393-astroslugs.json](./8393-astroslugs.json) |
 | Astrosmash | 382989 | [382989-astrosmash.json](./382989-astrosmash.json) |
 | Astrosmash | 5657 | [5657-astrosmash.json](./5657-astrosmash.json) |
+| Astrosphere | 279281 | [279281-astrosphere.json](./279281-astrosphere.json) |
 | Astrostack | 311363 | [311363-astrostack.json](./311363-astrostack.json) |
 | Astrostrike | 309571 | [309571-astrostrike.json](./309571-astrostrike.json) |
 | AstroSurf | 68772 | [68772-astrosurf.json](./68772-astrosurf.json) |
@@ -17747,6 +17753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | At the Same Time | 177226 | [177226-at-the-same-time.json](./177226-at-the-same-time.json) |
 | At the Sea's End | 180396 | [180396-at-the-seas-end.json](./180396-at-the-seas-end.json) |
 | At the Tale End | 108882 | [108882-at-the-tale-end.json](./108882-at-the-tale-end.json) |
+| At Tony's | 279356 | [279356-at-tonys.json](./279356-at-tonys.json) |
 | At What Cost | 382376 | [382376-at-what-cost.json](./382376-at-what-cost.json) |
 | At Winter's End | 264698 | [264698-at-winters-end.json](./264698-at-winters-end.json) |
 | At Your Feet | 150897 | [150897-at-your-feet.json](./150897-at-your-feet.json) |
