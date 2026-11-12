@@ -896,6 +896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxians & Gloops | 319580 | [319580-galaxians-and-gloops.json](./319580-galaxians-and-gloops.json) |
 | Galaxians: Remastered Edition | 308355 | [308355-galaxians-remastered-edition.json](./308355-galaxians-remastered-edition.json) |
 | Galaxicus | 119022 | [119022-galaxicus.json](./119022-galaxicus.json) |
+| Galaxiga Arcade Shooting Game | 256509 | [256509-galaxiga-arcade-shooting-game.json](./256509-galaxiga-arcade-shooting-game.json) |
 | Galaxions | 40947 | [40947-galaxions.json](./40947-galaxions.json) |
 | Galaxis | 289038 | [289038-galaxis.json](./289038-galaxis.json) |
 | Galaxis Wars | 36517 | [36517-galaxis-wars.json](./36517-galaxis-wars.json) |
@@ -10716,6 +10717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Home & Grow Up | 354503 | [354503-grow-home-and-grow-up.json](./354503-grow-home-and-grow-up.json) |
 | Grow in the Hole | 178275 | [178275-grow-in-the-hole.json](./178275-grow-in-the-hole.json) |
 | Grow Island | 78848 | [78848-grow-island.json](./78848-grow-island.json) |
+| Grow Light | 256494 | [256494-grow-light.json](./256494-grow-light.json) |
 | Grow Maze | 281204 | [281204-grow-maze.json](./281204-grow-maze.json) |
 | Grow Nano 3 | 198167 | [198167-grow-nano-3.json](./198167-grow-nano-3.json) |
 | Grow Planet | 142922 | [142922-grow-planet.json](./142922-grow-planet.json) |
@@ -11954,6 +11956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunner-chan! | 331898 | [331898-gunner-chan.json](./331898-gunner-chan.json) |
 | Gunner, Heat, PC! | 146417 | [146417-gunner-heat-pc.json](./146417-gunner-heat-pc.json) |
 | Gunners Heart | 54072 | [54072-gunners-heart.json](./54072-gunners-heart.json) |
+| Gunnery Cell | 256473 | [256473-gunnery-cell.json](./256473-gunnery-cell.json) |
 | Gunnheim | 20207 | [20207-gunnheim.json](./20207-gunnheim.json) |
 | Gunnhildr | 141072 | [141072-gunnhildr.json](./141072-gunnhildr.json) |
 | Gunnihilation | 32010 | [32010-gunnihilation.json](./32010-gunnihilation.json) |
