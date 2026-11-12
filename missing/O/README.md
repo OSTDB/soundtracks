@@ -824,6 +824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odysseus Kosmos and his Robot Quest: Episode 5 | 171515 | [171515-odysseus-kosmos-and-his-robot-quest-episode-5.json](./171515-odysseus-kosmos-and-his-robot-quest-episode-5.json) |
 | Odysseus: Long Way Home | 35748 | [35748-odysseus-long-way-home.json](./35748-odysseus-long-way-home.json) |
 | Odyssey | 12706 | [12706-odyssey.json](./12706-odyssey.json) |
+| Odyssey | 274168 | [274168-odyssey.json](./274168-odyssey.json) |
 | Odyssey | 30443 | [30443-odyssey.json](./30443-odyssey.json) |
 | Odyssey by Car | 391964 | [391964-odyssey-by-car.json](./391964-odyssey-by-car.json) |
 | Odyssey Island | 272739 | [272739-odyssey-island.json](./272739-odyssey-island.json) |
@@ -5455,6 +5456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak in Space VR | 81956 | [81956-outbreak-in-space-vr.json](./81956-outbreak-in-space-vr.json) |
 | Outbreak Island | 165386 | [165386-outbreak-island.json](./165386-outbreak-island.json) |
 | Outbreak New Dawn | 137836 | [137836-outbreak-new-dawn.json](./137836-outbreak-new-dawn.json) |
+| Outbreak of Evil | 274160 | [274160-outbreak-of-evil.json](./274160-outbreak-of-evil.json) |
 | Outbreak Overlord | 291789 | [291789-outbreak-overlord.json](./291789-outbreak-overlord.json) |
 | Outbreak Survivors | 317976 | [317976-outbreak-survivors.json](./317976-outbreak-survivors.json) |
 | Outbreak Zero | 365085 | [365085-outbreak-zero.json](./365085-outbreak-zero.json) |
