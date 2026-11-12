@@ -6649,7 +6649,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firing Range | 65055 | [65055-firing-range.json](./65055-firing-range.json) |
 | Firing Vibes | 139680 | [139680-firing-vibes.json](./139680-firing-vibes.json) |
 | Firma | 35232 | [35232-firma.json](./35232-firma.json) |
-| Firmament | 89994 | [89994-firmament.json](./89994-firmament.json) |
 | Firmament Wars | 104042 | [104042-firmament-wars.json](./104042-firmament-wars.json) |
 | Firo & Klawd | 28218 | [28218-firo-and-klawd.json](./28218-firo-and-klawd.json) |
 | Firon | 114979 | [114979-firon.json](./114979-firon.json) |
@@ -12207,6 +12206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frantic Mouse | 247394 | [247394-frantic-mouse.json](./247394-frantic-mouse.json) |
 | Frantic Oceans | 343780 | [343780-frantic-oceans.json](./343780-frantic-oceans.json) |
 | Frantics | 69348 | [69348-frantics.json](./69348-frantics.json) |
+| Frantis: Mission II | 317473 | [317473-frantis-mission-ii.json](./317473-frantis-mission-ii.json) |
 | Frantix | 22563 | [22563-frantix.json](./22563-frantix.json) |
 | Franz | 250301 | [250301-franz.json](./250301-franz.json) |
 | Franz Fury | 157923 | [157923-franz-fury.json](./157923-franz-fury.json) |
@@ -14309,6 +14309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FunBall 3D | 205858 | [205858-funball-3d.json](./205858-funball-3d.json) |
 | FunBox Party | 108652 | [108652-funbox-party.json](./108652-funbox-party.json) |
 | Funbox Ultimate Slots Bundle | 317549 | [317549-funbox-ultimate-slots-bundle.json](./317549-funbox-ultimate-slots-bundle.json) |
+| Funbrain Math Arcade | 317479 | [317479-funbrain-math-arcade.json](./317479-funbrain-math-arcade.json) |
 | Funbridge your bridge club | 88836 | [88836-funbridge-your-bridge-club.json](./88836-funbridge-your-bridge-club.json) |
 | Func Key | 383673 | [383673-func-key.json](./383673-func-key.json) |
 | Function | 119618 | [119618-function.json](./119618-function.json) |
