@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-12T00:51:01.022Z",
-  "total_soundtracks": 3222,
+  "generated_at": "2026-11-12T00:56:01.384Z",
+  "total_soundtracks": 3225,
   "games": [
     {
       "igdb_id": 7522,
@@ -23285,6 +23285,20 @@
       ]
     },
     {
+      "igdb_id": 207381,
+      "game_name": "Night At the Gates of Hell",
+      "game_url": "https://ostdb.net/games/night-at-the-gates-of-hell",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273599c04176b0ea70b856195a0",
+      "albums": [
+        {
+          "album_name": "Night at the Gates of Hell (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3iqNqCyxlUxM5taz1YLnzw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 79994,
       "game_name": "Night Call",
       "game_url": "https://ostdb.net/games/night-call",
@@ -34529,6 +34543,20 @@
       ]
     },
     {
+      "igdb_id": 214233,
+      "game_name": "The Darkest Files",
+      "game_url": "https://ostdb.net/games/the-darkest-files",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273de2e39dbdeab9608002b0167",
+      "albums": [
+        {
+          "album_name": "The Darkest Files (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3DdM4tfzzgBeehs64SfKmA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 35283,
       "game_name": "The Darkside Detective",
       "game_url": "https://ostdb.net/games/the-darkside-detective",
@@ -38769,6 +38797,20 @@
         {
           "album_name": "Velocity Ultra (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5DyQQIg9aLEGFk63KQ9hZk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 213741,
+      "game_name": "Vengeful Guardian: Moonrider",
+      "game_url": "https://ostdb.net/games/vengeful-guardian-moonrider",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273903605a3b0dc0fc7603c0600",
+      "albums": [
+        {
+          "album_name": "Vengeful Guardian: Moonrider (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4hbfZuoqN4b2rexeXWYbl2",
           "apple_music_url": "",
           "album_link_url": ""
         }
