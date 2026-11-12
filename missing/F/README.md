@@ -5451,6 +5451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV Mobile | 322502 | [322502-final-fantasy-xiv-mobile.json](./322502-final-fantasy-xiv-mobile.json) |
 | Final Fantasy XIV Online | 14729 | [14729-final-fantasy-xiv-online.json](./14729-final-fantasy-xiv-online.json) |
 | Final Fantasy XIV Online | 386 | [386-final-fantasy-xiv-online.json](./386-final-fantasy-xiv-online.json) |
+| Final Fantasy XIV Online: Complete Collector's Edition | 293786 | [293786-final-fantasy-xiv-online-complete-collectors-edition.json](./293786-final-fantasy-xiv-online-complete-collectors-edition.json) |
 | Final Fantasy XIV Online: Complete Collector's Edition | 307776 | [307776-final-fantasy-xiv-online-complete-collectors-edition.json](./307776-final-fantasy-xiv-online-complete-collectors-edition.json) |
 | Final Fantasy XIV Online: Complete Edition | 293775 | [293775-final-fantasy-xiv-online-complete-edition.json](./293775-final-fantasy-xiv-online-complete-edition.json) |
 | Final Fantasy XIV Online: Complete Edition | 307773 | [307773-final-fantasy-xiv-online-complete-edition.json](./307773-final-fantasy-xiv-online-complete-edition.json) |
@@ -8233,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleshgod | 184299 | [184299-fleshgod.json](./184299-fleshgod.json) |
 | Fleshgrinder | 415905 | [415905-fleshgrinder.json](./415905-fleshgrinder.json) |
 | Fleshinsane | 336863 | [336863-fleshinsane.json](./336863-fleshinsane.json) |
+| Fleshless | 293802 | [293802-fleshless.json](./293802-fleshless.json) |
 | Fleshport | 173261 | [173261-fleshport.json](./173261-fleshport.json) |
 | Fleshwalk: An Experience | 405748 | [405748-fleshwalk-an-experience.json](./405748-fleshwalk-an-experience.json) |
 | Fleuch 2.0 | 94460 | [94460-fleuch-2-0.json](./94460-fleuch-2-0.json) |
