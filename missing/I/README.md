@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Made a Game with Zombies in It! | 94033 | [94033-i-made-a-game-with-zombies-in-it.json](./94033-i-made-a-game-with-zombies-in-it.json) |
 | I Made Her Up | 374673 | [374673-i-made-her-up.json](./374673-i-made-her-up.json) |
 | I Made Myself a Ship | 306279 | [306279-i-made-myself-a-ship.json](./306279-i-made-myself-a-ship.json) |
+| I Made Myself an AI | 247158 | [247158-i-made-myself-an-ai.json](./247158-i-made-myself-an-ai.json) |
 | I Made this Game in 3 Days | 263505 | [263505-i-made-this-game-in-3-days.json](./263505-i-made-this-game-in-3-days.json) |
 | I Made This Game on a Shitty Chromebook | 240092 | [240092-i-made-this-game-on-a-shitty-chromebook.json](./240092-i-made-this-game-on-a-shitty-chromebook.json) |
 | I Maed a Gam3 W1th Z0mb1es 1n it!!!1 | 181112 | [181112-i-maed-a-gam3-w1th-z0mb1es-1n-it-1.json](./181112-i-maed-a-gam3-w1th-z0mb1es-1n-it-1.json) |
@@ -1415,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Angels: Realm of Goddess | 260112 | [260112-idle-angels-realm-of-goddess.json](./260112-idle-angels-realm-of-goddess.json) |
 | Idle Animal Anatomy | 290515 | [290515-idle-animal-anatomy.json](./290515-idle-animal-anatomy.json) |
 | Idle Anomaly: Alien Control | 244998 | [244998-idle-anomaly-alien-control.json](./244998-idle-anomaly-alien-control.json) |
+| Idle Ant Colony | 247232 | [247232-idle-ant-colony.json](./247232-idle-ant-colony.json) |
 | Idle Ants | 248166 | [248166-idle-ants.json](./248166-idle-ants.json) |
 | Idle Apocalypse | 105519 | [105519-idle-apocalypse.json](./105519-idle-apocalypse.json) |
 | Idle Aqua Driller | 407342 | [407342-idle-aqua-driller.json](./407342-idle-aqua-driller.json) |
@@ -1580,6 +1582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Digging Tycoon | 303197 | [303197-idle-digging-tycoon.json](./303197-idle-digging-tycoon.json) |
 | Idle Dino | 340517 | [340517-idle-dino.json](./340517-idle-dino.json) |
 | Idle Dino Zoo | 165469 | [165469-idle-dino-zoo.json](./165469-idle-dino-zoo.json) |
+| Idle Dragon Clicker | 247243 | [247243-idle-dragon-clicker.json](./247243-idle-dragon-clicker.json) |
 | Idle Dragon Clicker: Expansion Pack 1 | 263188 | [263188-idle-dragon-clicker-expansion-pack-1.json](./263188-idle-dragon-clicker-expansion-pack-1.json) |
 | Idle Dragon Clicker: Expansion Pack 2 | 263312 | [263312-idle-dragon-clicker-expansion-pack-2.json](./263312-idle-dragon-clicker-expansion-pack-2.json) |
 | Idle Dragon Clicker: Expansion Pack 3 | 263315 | [263315-idle-dragon-clicker-expansion-pack-3.json](./263315-idle-dragon-clicker-expansion-pack-3.json) |
@@ -3545,6 +3548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indemon Tales | 250783 | [250783-indemon-tales.json](./250783-indemon-tales.json) |
 | Indenture | 212208 | [212208-indenture.json](./212208-indenture.json) |
 | Indentured Servant | 101263 | [101263-indentured-servant.json](./101263-indentured-servant.json) |
+| IndependAnt | 247163 | [247163-independant.json](./247163-independant.json) |
 | Independant Video Video Game | 194307 | [194307-independant-video-video-game.json](./194307-independant-video-video-game.json) |
 | Independence Day | 19789 | [19789-independence-day.json](./19789-independence-day.json) |
 | Independence Day | 198765 | [198765-independence-day.json](./198765-independence-day.json) |
@@ -3892,6 +3896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
 | Infected | 44524 | [44524-infected.json](./44524-infected.json) |
 | Infected Area | 273731 | [273731-infected-area.json](./273731-infected-area.json) |
+| Infected Backrooms | 247244 | [247244-infected-backrooms.json](./247244-infected-backrooms.json) |
 | Infected Battlegrounds | 105283 | [105283-infected-battlegrounds.json](./105283-infected-battlegrounds.json) |
 | Infected Bunker | 280306 | [280306-infected-bunker.json](./280306-infected-bunker.json) |
 | Infected City | 152649 | [152649-infected-city.json](./152649-infected-city.json) |
@@ -5594,6 +5599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intertwined | 397231 | [397231-intertwined.json](./397231-intertwined.json) |
 | Intertwined Fate with a Cat Demon | 202206 | [202206-intertwined-fate-with-a-cat-demon.json](./202206-intertwined-fate-with-a-cat-demon.json) |
 | Interuniverse teleport | 280549 | [280549-interuniverse-teleport.json](./280549-interuniverse-teleport.json) |
+| Intervallic | 247151 | [247151-intervallic.json](./247151-intervallic.json) |
 | Interview | 178936 | [178936-interview.json](./178936-interview.json) |
 | Interview | 80233 | [80233-interview.json](./80233-interview.json) |
 | Interview With The Horny Ghost | 301640 | [301640-interview-with-the-horny-ghost.json](./301640-interview-with-the-horny-ghost.json) |
