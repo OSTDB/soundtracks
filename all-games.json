@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-12T01:06:39.577Z",
-  "total_soundtracks": 3234,
+  "generated_at": "2026-11-12T01:10:57.371Z",
+  "total_soundtracks": 3236,
   "games": [
     {
       "igdb_id": 7522,
@@ -2123,6 +2123,20 @@
         {
           "album_name": "Art of Balance Soundtrack",
           "spotify_url": "https://open.spotify.com/album/48u3XFXoBaCk0sSjmVkdKj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 256403,
+      "game_name": "Arzette: The Jewel of Faramore",
+      "game_url": "https://ostdb.net/games/arzette-the-jewel-of-faramore",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732fb7c7672731b05bbcf951f5",
+      "albums": [
+        {
+          "album_name": "Arzette: The Jewel of Faramore (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3WdrnrMuzTwaZqHGUv35lC",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -10159,6 +10173,20 @@
           "spotify_url": "https://open.spotify.com/album/03vh7zjvWbHkpw1IJmqqeW",
           "apple_music_url": "https://music.apple.com/us/album/dredge-original-game-soundtrack/1680000800",
           "album_link_url": "https://album.link/i/1680000800"
+        }
+      ]
+    },
+    {
+      "igdb_id": 305098,
+      "game_name": "Dredge: The Iron Rig",
+      "game_url": "https://ostdb.net/games/dredge-the-iron-rig",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a5aec97255738c30ccd4d59b",
+      "albums": [
+        {
+          "album_name": "DREDGE The Iron Rig (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7kf2T7bI56Ywu55aOmGv85",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
