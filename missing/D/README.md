@@ -8734,6 +8734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 3: Dante's Awakening - Special Edition | 20545 | [20545-devil-may-cry-3-dantes-awakening-special-edition.json](./20545-devil-may-cry-3-dantes-awakening-special-edition.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 218390 | [218390-devil-may-cry-3-dantes-awakening-special-edition.json](./218390-devil-may-cry-3-dantes-awakening-special-edition.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 222656 | [222656-devil-may-cry-3-dantes-awakening-special-edition.json](./222656-devil-may-cry-3-dantes-awakening-special-edition.json) |
+| Devil May Cry 4 | 289491 | [289491-devil-may-cry-4.json](./289491-devil-may-cry-4.json) |
 | Devil May Cry 4 Refrain | 76843 | [76843-devil-may-cry-4-refrain.json](./76843-devil-may-cry-4-refrain.json) |
 | Devil May Cry 4 Special Edition Demon Hunter Bundle | 82385 | [82385-devil-may-cry-4-special-edition-demon-hunter-bundle.json](./82385-devil-may-cry-4-special-edition-demon-hunter-bundle.json) |
 | Devil May Cry 4: Collector's Edition | 41601 | [41601-devil-may-cry-4-collectors-edition.json](./41601-devil-may-cry-4-collectors-edition.json) |
@@ -10676,6 +10677,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirge of Cerberus Lost Episode: Final Fantasy VII | 146428 | [146428-dirge-of-cerberus-lost-episode-final-fantasy-vii.json](./146428-dirge-of-cerberus-lost-episode-final-fantasy-vii.json) |
 | Dirge of Cerberus: Final Fantasy VII | 18068 | [18068-dirge-of-cerberus-final-fantasy-vii.json](./18068-dirge-of-cerberus-final-fantasy-vii.json) |
 | Dirge of the Scarlet Star | 387028 | [387028-dirge-of-the-scarlet-star.json](./387028-dirge-of-the-scarlet-star.json) |
+| Dirge: Revenant | 289510 | [289510-dirge-revenant.json](./289510-dirge-revenant.json) |
+| Dirge: Wendigo | 289509 | [289509-dirge-wendigo.json](./289509-dirge-wendigo.json) |
 | Dirk Valentine and the Fortress of Steam | 297692 | [297692-dirk-valentine-and-the-fortress-of-steam.json](./297692-dirk-valentine-and-the-fortress-of-steam.json) |
 | Dirk Vander Wilt's Kasia | 159141 | [159141-dirk-vander-wilts-kasia.json](./159141-dirk-vander-wilts-kasia.json) |
 | Dirok | 297424 | [297424-dirok.json](./297424-dirok.json) |
