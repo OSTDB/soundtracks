@@ -96,6 +96,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z69 | 51959 | [51959-z69.json](./51959-z69.json) |
 | Z9 Star | 98506 | [98506-z9-star.json](./98506-z9-star.json) |
 | Za Bee Avoid Game | 96934 | [96934-za-bee-avoid-game.json](./96934-za-bee-avoid-game.json) |
+| Za češtiny ve hrách! | 282187 | [282187-za-cestiny-ve-hrach.json](./282187-za-cestiny-ve-hrach.json) |
 | Zaacar | 169377 | [169377-zaacar.json](./169377-zaacar.json) |
 | ZaaLord | 136236 | [136236-zaalord.json](./136236-zaalord.json) |
 | Zaam | 122146 | [122146-zaam.json](./122146-zaam.json) |
@@ -1368,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zipball | 49072 | [49072-zipball.json](./49072-zipball.json) |
 | Zipp's Café | 272389 | [272389-zipps-cafe.json](./272389-zipps-cafe.json) |
 | Zipper | 151981 | [151981-zipper.json](./151981-zipper.json) |
+| Zipper | 282186 | [282186-zipper.json](./282186-zipper.json) |
 | Zipper Amusement Ride | 104668 | [104668-zipper-amusement-ride.json](./104668-zipper-amusement-ride.json) |
 | Zipple World | 33755 | [33755-zipple-world.json](./33755-zipple-world.json) |
 | Zipple World 2: The Sweet Chaos | 33052 | [33052-zipple-world-2-the-sweet-chaos.json](./33052-zipple-world-2-the-sweet-chaos.json) |
