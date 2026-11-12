@@ -2741,6 +2741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Speed | 199738 | [199738-neon-speed.json](./199738-neon-speed.json) |
 | Neon Spellstorm | 329750 | [329750-neon-spellstorm.json](./329750-neon-spellstorm.json) |
 | Neon Spin | 359382 | [359382-neon-spin.json](./359382-neon-spin.json) |
+| Neon Squad Tactics | 304936 | [304936-neon-squad-tactics.json](./304936-neon-squad-tactics.json) |
 | Neon Strike | 374507 | [374507-neon-strike.json](./374507-neon-strike.json) |
 | Neon Striker | 348305 | [348305-neon-striker.json](./348305-neon-striker.json) |
 | Neon Struct: Carrion Carrier | 158211 | [158211-neon-struct-carrion-carrier.json](./158211-neon-struct-carrion-carrier.json) |
@@ -7510,6 +7511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notebook Entries Vol.1 | 215623 | [215623-notebook-entries-vol-1.json](./215623-notebook-entries-vol-1.json) |
 | Notebook Ninja Fights | 144751 | [144751-notebook-ninja-fights.json](./144751-notebook-ninja-fights.json) |
 | Notebook Workshop | 406205 | [406205-notebook-workshop.json](./406205-notebook-workshop.json) |
+| NoteCaptor | 304920 | [304920-notecaptor.json](./304920-notecaptor.json) |
 | NotEel! | 217632 | [217632-noteel.json](./217632-noteel.json) |
 | Notemon | 117467 | [117467-notemon.json](./117467-notemon.json) |
 | Notenogram | 309230 | [309230-notenogram.json](./309230-notenogram.json) |
