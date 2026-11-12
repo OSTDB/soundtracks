@@ -12311,6 +12311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Shining Pearl | 144052 | [144052-pokemon-shining-pearl.json](./144052-pokemon-shining-pearl.json) |
 | Pokémon Shinju Adventures | 331943 | [331943-pokemon-shinju-adventures.json](./331943-pokemon-shinju-adventures.json) |
 | Pokémon Shiny Gold Sigma | 306768 | [306768-pokemon-shiny-gold-sigma.json](./306768-pokemon-shiny-gold-sigma.json) |
+| Pokémon Shiny Gold Version | 284037 | [284037-pokemon-shiny-gold-version.json](./284037-pokemon-shiny-gold-version.json) |
 | Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
 | Pokémon Shuffle | 8592 | [8592-pokemon-shuffle.json](./8592-pokemon-shuffle.json) |
 | Pokémon Sienna | 194774 | [194774-pokemon-sienna.json](./194774-pokemon-sienna.json) |
@@ -18486,6 +18487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puffy Dog Puzzle | 379005 | [379005-puffy-dog-puzzle.json](./379005-puffy-dog-puzzle.json) |
 | Puffy no P.S. I Love You | 314219 | [314219-puffy-no-p-s-i-love-you.json](./314219-puffy-no-p-s-i-love-you.json) |
 | Puffy's Saga | 12725 | [12725-puffys-saga.json](./12725-puffys-saga.json) |
+| PUFIWEHO | 284557 | [284557-pufiweho.json](./284557-pufiweho.json) |
 | Pufu's Spiral: Adventures Around the World | 209861 | [209861-pufus-spiral-adventures-around-the-world.json](./209861-pufus-spiral-adventures-around-the-world.json) |
 | Pug and Seek | 341437 | [341437-pug-and-seek.json](./341437-pug-and-seek.json) |
 | Pug Hop Mole Bop | 254672 | [254672-pug-hop-mole-bop.json](./254672-pug-hop-mole-bop.json) |
