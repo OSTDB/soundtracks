@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tails 64 Revamped | 335635 | [335635-tails-64-revamped.json](./335635-tails-64-revamped.json) |
 | Tails Advance | 326961 | [326961-tails-advance.json](./326961-tails-advance.json) |
 | Tails Adventure | 19715 | [19715-tails-adventure.json](./19715-tails-adventure.json) |
+| Tails Adventure Remake | 265890 | [265890-tails-adventure-remake.json](./265890-tails-adventure-remake.json) |
 | Tails Adventure: Armada | 333895 | [333895-tails-adventure-armada.json](./333895-tails-adventure-armada.json) |
 | Tails Adventure: Fire of Robollion | 267216 | [267216-tails-adventure-fire-of-robollion.json](./267216-tails-adventure-fire-of-robollion.json) |
 | Tails Adventures GG2SMS | 308195 | [308195-tails-adventures-gg2sms.json](./308195-tails-adventures-gg2sms.json) |
@@ -3442,6 +3443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technuclear | 180812 | [180812-technuclear.json](./180812-technuclear.json) |
 | Techpack | 164189 | [164189-techpack.json](./164189-techpack.json) |
 | Techpack Adventure | 335752 | [335752-techpack-adventure.json](./335752-techpack-adventure.json) |
+| Techpack Collection | 265900 | [265900-techpack-collection.json](./265900-techpack-collection.json) |
 | TechStop Simulator | 326340 | [326340-techstop-simulator.json](./326340-techstop-simulator.json) |
 | Techtonica | 194465 | [194465-techtonica.json](./194465-techtonica.json) |
 | TechWars | 47562 | [47562-techwars.json](./47562-techwars.json) |
@@ -9740,6 +9742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Expanse: A Telltale Series | 185239 | [185239-the-expanse-a-telltale-series.json](./185239-the-expanse-a-telltale-series.json) |
 | The Expanse: A Telltale Series - Archangel Bonus Episode | 265835 | [265835-the-expanse-a-telltale-series-archangel-bonus-episode.json](./265835-the-expanse-a-telltale-series-archangel-bonus-episode.json) |
 | The Expanse: A Telltale Series - Deluxe Edition | 252890 | [252890-the-expanse-a-telltale-series-deluxe-edition.json](./252890-the-expanse-a-telltale-series-deluxe-edition.json) |
+| The Expanse: A Telltale Series - Episode 1: Archer's Paradox | 265823 | [265823-the-expanse-a-telltale-series-episode-1-archers-paradox.json](./265823-the-expanse-a-telltale-series-episode-1-archers-paradox.json) |
 | The Expanse: A Telltale Series - Episode 2: Hunting Grounds | 265830 | [265830-the-expanse-a-telltale-series-episode-2-hunting-grounds.json](./265830-the-expanse-a-telltale-series-episode-2-hunting-grounds.json) |
 | The Expanse: A Telltale Series - Episode 3: First Ones | 265831 | [265831-the-expanse-a-telltale-series-episode-3-first-ones.json](./265831-the-expanse-a-telltale-series-episode-3-first-ones.json) |
 | The Expanse: A Telltale Series - Episode 4: Impossible Objects | 265833 | [265833-the-expanse-a-telltale-series-episode-4-impossible-objects.json](./265833-the-expanse-a-telltale-series-episode-4-impossible-objects.json) |
@@ -11104,6 +11107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Green Hook Fighter | 377075 | [377075-the-green-hook-fighter.json](./377075-the-green-hook-fighter.json) |
 | The Green Hornet: Wheels of Justice | 66022 | [66022-the-green-hornet-wheels-of-justice.json](./66022-the-green-hornet-wheels-of-justice.json) |
 | The Green Light | 211743 | [211743-the-green-light.json](./211743-the-green-light.json) |
+| The Green Machine | 265992 | [265992-the-green-machine.json](./265992-the-green-machine.json) |
 | The Green Myste | 23549 | [23549-the-green-myste.json](./23549-the-green-myste.json) |
 | The Green Room Experiment: Episode 1 | 232432 | [232432-the-green-room-experiment-episode-1.json](./232432-the-green-room-experiment-episode-1.json) |
 | The Green Room Experiment: Episode 1 VR | 243678 | [243678-the-green-room-experiment-episode-1-vr.json](./243678-the-green-room-experiment-episode-1-vr.json) |
