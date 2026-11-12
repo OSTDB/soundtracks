@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer vs. Evil D. in Soulfire | 201166 | [201166-hammer-vs-evil-d-in-soulfire.json](./201166-hammer-vs-evil-d-in-soulfire.json) |
 | Hammer World: Dimension Traveler | 110082 | [110082-hammer-world-dimension-traveler.json](./110082-hammer-world-dimension-traveler.json) |
 | Hammer_Space | 142062 | [142062-hammer-space.json](./142062-hammer-space.json) |
+| Hammer’s Quest | 293258 | [293258-hammer-s-quest.json](./293258-hammer-s-quest.json) |
 | Hammerfight | 9666 | [9666-hammerfight.json](./9666-hammerfight.json) |
 | Hammerfist | 12608 | [12608-hammerfist.json](./12608-hammerfist.json) |
 | Hammerground | 190966 | [190966-hammerground.json](./190966-hammerground.json) |
