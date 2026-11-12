@@ -3419,6 +3419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Bunny | 390457 | [390457-jump-bunny.json](./390457-jump-bunny.json) |
 | Jump Burger | 292003 | [292003-jump-burger.json](./292003-jump-burger.json) |
 | Jump By Coronho: Chapter 2 | 389273 | [389273-jump-by-coronho-chapter-2.json](./389273-jump-by-coronho-chapter-2.json) |
+| Jump Car | 288928 | [288928-jump-car.json](./288928-jump-car.json) |
 | Jump Challenge! | 185284 | [185284-jump-challenge.json](./185284-jump-challenge.json) |
 | Jump City | 142087 | [142087-jump-city.json](./142087-jump-city.json) |
 | Jump Coaster | 40051 | [40051-jump-coaster.json](./40051-jump-coaster.json) |
@@ -4310,6 +4311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Dance 2026 Edition: Deluxe Edition | 373412 | [373412-just-dance-2026-edition-deluxe-edition.json](./373412-just-dance-2026-edition-deluxe-edition.json) |
 | Just Dance 2026 Edition: Ultimate Edition | 373413 | [373413-just-dance-2026-edition-ultimate-edition.json](./373413-just-dance-2026-edition-ultimate-edition.json) |
 | Just Dance 3 | 2705 | [2705-just-dance-3.json](./2705-just-dance-3.json) |
+| Just Dance 3 | 288945 | [288945-just-dance-3.json](./288945-just-dance-3.json) |
 | Just Dance 3: Target Exclusive Edition | 375276 | [375276-just-dance-3-target-exclusive-edition.json](./375276-just-dance-3-target-exclusive-edition.json) |
 | Just Dance 3: Valentine Pack | 386639 | [386639-just-dance-3-valentine-pack.json](./386639-just-dance-3-valentine-pack.json) |
 | Just Dance 4 | 3255 | [3255-just-dance-4.json](./3255-just-dance-4.json) |
