@@ -3850,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Dust | 89960 | [89960-dead-dust.json](./89960-dead-dust.json) |
 | Dead Earth | 239453 | [239453-dead-earth.json](./239453-dead-earth.json) |
 | Dead Earth Zombies | 188672 | [188672-dead-earth-zombies.json](./188672-dead-earth-zombies.json) |
+| Dead Earth: Combat Shooter 3D | 246597 | [246597-dead-earth-combat-shooter-3d.json](./246597-dead-earth-combat-shooter-3d.json) |
 | Dead Echo | 410377 | [410377-dead-echo.json](./410377-dead-echo.json) |
 | Dead Effect 2 | 18078 | [18078-dead-effect-2.json](./18078-dead-effect-2.json) |
 | Dead Effect 2 VR | 38968 | [38968-dead-effect-2-vr.json](./38968-dead-effect-2-vr.json) |
@@ -14755,6 +14756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dormitabis | 230514 | [230514-dormitabis.json](./230514-dormitabis.json) |
 | Dormitabis Remastered | 281298 | [281298-dormitabis-remastered.json](./281298-dormitabis-remastered.json) |
 | Dormitory Hentai Clicker | 243575 | [243575-dormitory-hentai-clicker.json](./243575-dormitory-hentai-clicker.json) |
+| Dormitory Love | 246609 | [246609-dormitory-love.json](./246609-dormitory-love.json) |
 | Dorobune to Zainin | 389381 | [389381-dorobune-to-zainin.json](./389381-dorobune-to-zainin.json) |
 | Dorodon | 40100 | [40100-dorodon.json](./40100-dorodon.json) |
 | Doronko Wanko: Bulldog | 356790 | [356790-doronko-wanko-bulldog.json](./356790-doronko-wanko-bulldog.json) |
