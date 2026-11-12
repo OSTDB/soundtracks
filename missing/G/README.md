@@ -1440,6 +1440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Puzzles: Dinosaurs | 148994 | [148994-game-of-puzzles-dinosaurs.json](./148994-game-of-puzzles-dinosaurs.json) |
 | Game Of Puzzles: Dragons | 248922 | [248922-game-of-puzzles-dragons.json](./248922-game-of-puzzles-dragons.json) |
 | Game of Puzzles: Furry | 119749 | [119749-game-of-puzzles-furry.json](./119749-game-of-puzzles-furry.json) |
+| Game of Puzzles: Nature | 292706 | [292706-game-of-puzzles-nature.json](./292706-game-of-puzzles-nature.json) |
 | Game of Puzzles: Slavic Mythology | 163415 | [163415-game-of-puzzles-slavic-mythology.json](./163415-game-of-puzzles-slavic-mythology.json) |
 | Game of Puzzles: Space | 129438 | [129438-game-of-puzzles-space.json](./129438-game-of-puzzles-space.json) |
 | Game of Roads | 174364 | [174364-game-of-roads.json](./174364-game-of-roads.json) |
@@ -2745,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geimu Chagama Monogatari | 368721 | [368721-geimu-chagama-monogatari.json](./368721-geimu-chagama-monogatari.json) |
 | Geisha | 12116 | [12116-geisha.json](./12116-geisha.json) |
 | Geisha Novia | 64058 | [64058-geisha-novia.json](./64058-geisha-novia.json) |
+| Geisha World | 292710 | [292710-geisha-world.json](./292710-geisha-world.json) |
 | Geisha: The Secret Garden | 88111 | [88111-geisha-the-secret-garden.json](./88111-geisha-the-secret-garden.json) |
 | Geisha's Heart: Romance Among the Cherry Blossoms | 378852 | [378852-geishas-heart-romance-among-the-cherry-blossoms.json](./378852-geishas-heart-romance-among-the-cherry-blossoms.json) |
 | Geist Force | 62131 | [62131-geist-force.json](./62131-geist-force.json) |
