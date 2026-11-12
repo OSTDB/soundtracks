@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Strike: Special Forces Shooter | 310710 | [310710-tactical-strike-special-forces-shooter.json](./310710-tactical-strike-special-forces-shooter.json) |
 | Tactical Vanguard Saga | 167522 | [167522-tactical-vanguard-saga.json](./167522-tactical-vanguard-saga.json) |
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
+| Tactical Vengeance: Play The Games | 252443 | [252443-tactical-vengeance-play-the-games.json](./252443-tactical-vengeance-play-the-games.json) |
 | Tactical Warfare Bundle | 301759 | [301759-tactical-warfare-bundle.json](./301759-tactical-warfare-bundle.json) |
 | Tactical Warfare Simulator | 161501 | [161501-tactical-warfare-simulator.json](./161501-tactical-warfare-simulator.json) |
 | Tactical Warrior | 208388 | [208388-tactical-warrior.json](./208388-tactical-warrior.json) |
@@ -27513,6 +27514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gear: Caravan Crush | 402325 | [402325-top-gear-caravan-crush.json](./402325-top-gear-caravan-crush.json) |
 | Top Gear: Dare Devil | 43274 | [43274-top-gear-dare-devil.json](./43274-top-gear-dare-devil.json) |
 | Top Gear: Donut Dash | 402326 | [402326-top-gear-donut-dash.json](./402326-top-gear-donut-dash.json) |
+| Top Gear: Drift Legends | 252344 | [252344-top-gear-drift-legends.json](./252344-top-gear-drift-legends.json) |
 | Top Gear: Extreme Parking | 233921 | [233921-top-gear-extreme-parking.json](./233921-top-gear-extreme-parking.json) |
 | Top Gear: Race the Stig | 232616 | [232616-top-gear-race-the-stig.json](./232616-top-gear-race-the-stig.json) |
 | Top Gear: Road Trip | 114714 | [114714-top-gear-road-trip.json](./114714-top-gear-road-trip.json) |
@@ -28345,6 +28347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TouchDown Rush | 235151 | [235151-touchdown-rush.json](./235151-touchdown-rush.json) |
 | Touchdown: Armor League | 28057 | [28057-touchdown-armor-league.json](./28057-touchdown-armor-league.json) |
 | Touchdowners | 106066 | [106066-touchdowners.json](./106066-touchdowners.json) |
+| Touche Me | 252441 | [252441-touche-me.json](./252441-touche-me.json) |
 | Touché: The Adventures of the Fifth Musketeer | 13788 | [13788-touche-the-adventures-of-the-fifth-musketeer.json](./13788-touche-the-adventures-of-the-fifth-musketeer.json) |
 | Touched by an Outer God | 391901 | [391901-touched-by-an-outer-god.json](./391901-touched-by-an-outer-god.json) |
 | TouchFish | 137011 | [137011-touchfish.json](./137011-touchfish.json) |
@@ -28472,6 +28475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Female Fist Mutation | 296242 | [296242-touhou-female-fist-mutation.json](./296242-touhou-female-fist-mutation.json) |
 | Touhou Flower Fight | 301104 | [301104-touhou-flower-fight.json](./301104-touhou-flower-fight.json) |
 | Touhou Fractured Transience | 238468 | [238468-touhou-fractured-transience.json](./238468-touhou-fractured-transience.json) |
+| Touhou Fugyouseki: Nightmare of Sleeping Girl | 252449 | [252449-touhou-fugyouseki-nightmare-of-sleeping-girl.json](./252449-touhou-fugyouseki-nightmare-of-sleeping-girl.json) |
 | Touhou Fumo Racing | 193872 | [193872-touhou-fumo-racing.json](./193872-touhou-fumo-racing.json) |
 | Touhou Fuumaroku: The Story of Eastern Wind | 375562 | [375562-touhou-fuumaroku-the-story-of-eastern-wind.json](./375562-touhou-fuumaroku-the-story-of-eastern-wind.json) |
 | Touhou Fuumaroku: The Story of Eastern Wonderland | 45966 | [45966-touhou-fuumaroku-the-story-of-eastern-wonderland.json](./45966-touhou-fuumaroku-the-story-of-eastern-wonderland.json) |
@@ -28954,6 +28958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Bloxx: New York | 66423 | [66423-tower-bloxx-new-york.json](./66423-tower-bloxx-new-york.json) |
 | Tower Bombarde | 43107 | [43107-tower-bombarde.json](./43107-tower-bombarde.json) |
 | Tower Boxing | 344025 | [344025-tower-boxing.json](./344025-tower-boxing.json) |
+| Tower Brawl | 252430 | [252430-tower-brawl.json](./252430-tower-brawl.json) |
 | Tower Builder | 105804 | [105804-tower-builder.json](./105804-tower-builder.json) |
 | Tower Builder | 259157 | [259157-tower-builder.json](./259157-tower-builder.json) |
 | Tower Clash | 200005 | [200005-tower-clash.json](./200005-tower-clash.json) |
@@ -29449,6 +29454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic Crusaders | 175121 | [175121-toxic-crusaders.json](./175121-toxic-crusaders.json) |
 | Toxic Crusaders | 175122 | [175122-toxic-crusaders.json](./175122-toxic-crusaders.json) |
 | Toxic Crusaders | 214895 | [214895-toxic-crusaders.json](./214895-toxic-crusaders.json) |
+| Toxic Crusaders | 252349 | [252349-toxic-crusaders.json](./252349-toxic-crusaders.json) |
 | Toxic Crusaders | 8022 | [8022-toxic-crusaders.json](./8022-toxic-crusaders.json) |
 | Toxic Grind | 6215 | [6215-toxic-grind.json](./6215-toxic-grind.json) |
 | Toxic Harvest | 393286 | [393286-toxic-harvest.json](./393286-toxic-harvest.json) |
