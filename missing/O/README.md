@@ -6135,6 +6135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overshoot | 414281 | [414281-overshoot.json](./414281-overshoot.json) |
 | OverShoot Battle Race | 163025 | [163025-overshoot-battle-race.json](./163025-overshoot-battle-race.json) |
 | Oversight | 148135 | [148135-oversight.json](./148135-oversight.json) |
+| Oversleep | 293804 | [293804-oversleep.json](./293804-oversleep.json) |
 | Overslept | 141727 | [141727-overslept.json](./141727-overslept.json) |
 | Oversomnia | 202573 | [202573-oversomnia.json](./202573-oversomnia.json) |
 | OverSoul | 109067 | [109067-oversoul.json](./109067-oversoul.json) |
