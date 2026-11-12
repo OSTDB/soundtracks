@@ -2964,6 +2964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarlett Mysteries: Cursed Child | 37006 | [37006-scarlett-mysteries-cursed-child.json](./37006-scarlett-mysteries-cursed-child.json) |
 | Scarlett: Nichijou no Kyoukaisen | 258870 | [258870-scarlett-nichijou-no-kyoukaisen.json](./258870-scarlett-nichijou-no-kyoukaisen.json) |
 | Scarlett's Dungeon | 55749 | [55749-scarletts-dungeon.json](./55749-scarletts-dungeon.json) |
+| Scarmonde | 285622 | [285622-scarmonde.json](./285622-scarmonde.json) |
 | Scarpone Scamps | 207658 | [207658-scarpone-scamps.json](./207658-scarpone-scamps.json) |
 | ScarQuest | 301242 | [301242-scarquest.json](./301242-scarquest.json) |
 | Scarred | 264640 | [264640-scarred.json](./264640-scarred.json) |
@@ -8326,6 +8327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Wants Me Dead: Ultimate Edition | 237768 | [237768-she-wants-me-dead-ultimate-edition.json](./237768-she-wants-me-dead-ultimate-edition.json) |
 | She Wants to Suck My Blood? | 254324 | [254324-she-wants-to-suck-my-blood.json](./254324-she-wants-to-suck-my-blood.json) |
 | She Was 98 | 385327 | [385327-she-was-98.json](./385327-she-was-98.json) |
+| She was a Dream | 285650 | [285650-she-was-a-dream.json](./285650-she-was-a-dream.json) |
 | She Was Swallowed By The Sun | 358590 | [358590-she-was-swallowed-by-the-sun.json](./358590-she-was-swallowed-by-the-sun.json) |
 | She Who Fights Monsters | 60343 | [60343-she-who-fights-monsters.json](./60343-she-who-fights-monsters.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
@@ -13245,7 +13247,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skipp and Friends: Unexpected Journey | 134285 | [134285-skipp-and-friends-unexpected-journey.json](./134285-skipp-and-friends-unexpected-journey.json) |
 | Skipper | 61299 | [61299-skipper.json](./61299-skipper.json) |
 | Skipper | 83786 | [83786-skipper.json](./83786-skipper.json) |
+| Skipper & Skeeto: Den Store Legedag | 285638 | [285638-skipper-and-skeeto-den-store-legedag.json](./285638-skipper-and-skeeto-den-store-legedag.json) |
+| Skipper & Skeeto: Have a Break | 285628 | [285628-skipper-and-skeeto-have-a-break.json](./285628-skipper-and-skeeto-have-a-break.json) |
+| Skipper & Skeeto: I Afrika | 285646 | [285646-skipper-and-skeeto-i-afrika.json](./285646-skipper-and-skeeto-i-afrika.json) |
+| Skipper & Skeeto: I Australien | 285644 | [285644-skipper-and-skeeto-i-australien.json](./285644-skipper-and-skeeto-i-australien.json) |
+| Skipper & Skeeto: I Sydamerika | 285643 | [285643-skipper-and-skeeto-i-sydamerika.json](./285643-skipper-and-skeeto-i-sydamerika.json) |
+| Skipper & Skeeto: Jeg vil Læse | 285640 | [285640-skipper-and-skeeto-jeg-vil-l-se.json](./285640-skipper-and-skeeto-jeg-vil-l-se.json) |
+| Skipper & Skeeto: Mollys Musikmaskine | 285626 | [285626-skipper-and-skeeto-mollys-musikmaskine.json](./285626-skipper-and-skeeto-mollys-musikmaskine.json) |
+| Skipper & Skeeto: På Skattesjov | 285634 | [285634-skipper-and-skeeto-pa-skattesjov.json](./285634-skipper-and-skeeto-pa-skattesjov.json) |
+| Skipper & Skeeto: Quizkampen | 285635 | [285635-skipper-and-skeeto-quizkampen.json](./285635-skipper-and-skeeto-quizkampen.json) |
+| Skipper & Skeeto: Quizkampen 2 | 285637 | [285637-skipper-and-skeeto-quizkampen-2.json](./285637-skipper-and-skeeto-quizkampen-2.json) |
 | Skipper & Skeeto: Tales from Paradise Park | 18992 | [18992-skipper-and-skeeto-tales-from-paradise-park.json](./18992-skipper-and-skeeto-tales-from-paradise-park.json) |
+| Skipper & Skeeto: The Alphabetic Games | 285632 | [285632-skipper-and-skeeto-the-alphabetic-games.json](./285632-skipper-and-skeeto-the-alphabetic-games.json) |
+| Skipper & Skeeto: The Midnight Mystery | 285631 | [285631-skipper-and-skeeto-the-midnight-mystery.json](./285631-skipper-and-skeeto-the-midnight-mystery.json) |
+| Skipper & Skeeto: The Mystery of the Talking Sundial | 285630 | [285630-skipper-and-skeeto-the-mystery-of-the-talking-sundial.json](./285630-skipper-and-skeeto-the-mystery-of-the-talking-sundial.json) |
+| Skipper & Skeeto: The Number Shop | 285633 | [285633-skipper-and-skeeto-the-number-shop.json](./285633-skipper-and-skeeto-the-number-shop.json) |
 | Skipper & Skeeto: The Revenge of Mr. Shade | 19003 | [19003-skipper-and-skeeto-the-revenge-of-mr-shade.json](./19003-skipper-and-skeeto-the-revenge-of-mr-shade.json) |
 | Skipper & Skeeto: The Shadow of Mr. Shade | 22353 | [22353-skipper-and-skeeto-the-shadow-of-mr-shade.json](./22353-skipper-and-skeeto-the-shadow-of-mr-shade.json) |
 | Skipper 2 | 395724 | [395724-skipper-2.json](./395724-skipper-2.json) |
@@ -27029,6 +27045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargazer Christmas | 30685 | [30685-stargazer-christmas.json](./30685-stargazer-christmas.json) |
 | Stargazer program | 99070 | [99070-stargazer-program.json](./99070-stargazer-program.json) |
 | Stargazer: Dreams of the Star | 229470 | [229470-stargazer-dreams-of-the-star.json](./229470-stargazer-dreams-of-the-star.json) |
+| Stargazer's Terraforming Estate Co. | 285618 | [285618-stargazers-terraforming-estate-co.json](./285618-stargazers-terraforming-estate-co.json) |
 | StarGazers | 245873 | [245873-stargazers.json](./245873-stargazers.json) |
 | Stargazing | 261426 | [261426-stargazing.json](./261426-stargazing.json) |
 | StarGazing | 145288 | [145288-stargazing.json](./145288-stargazing.json) |
@@ -27778,6 +27795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Station Memories | 216220 | [216220-station-memories.json](./216220-station-memories.json) |
 | Station Nexus | 406291 | [406291-station-nexus.json](./406291-station-nexus.json) |
 | Station Noctis | 338331 | [338331-station-noctis.json](./338331-station-noctis.json) |
+| Station Obscurum | 285620 | [285620-station-obscurum.json](./285620-station-obscurum.json) |
 | Station Osirius | 201878 | [201878-station-osirius.json](./201878-station-osirius.json) |
 | Station Overseer | 194197 | [194197-station-overseer.json](./194197-station-overseer.json) |
 | Station Sabotage | 283770 | [283770-station-sabotage.json](./283770-station-sabotage.json) |
