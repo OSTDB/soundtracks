@@ -10320,7 +10320,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Message from Andromeda | 13014 | [13014-message-from-andromeda.json](./13014-message-from-andromeda.json) |
 | Message in a Melody | 341227 | [341227-message-in-a-melody.json](./341227-message-in-a-melody.json) |
 | Message Navi Vol. 2 | 222670 | [222670-message-navi-vol-2.json](./222670-message-navi-vol-2.json) |
-| Message Quest | 13665 | [13665-message-quest.json](./13665-message-quest.json) |
 | Message Quest - adventures of Feste | 102526 | [102526-message-quest-adventures-of-feste.json](./102526-message-quest-adventures-of-feste.json) |
 | Messages From The Universe Graveyard | 304986 | [304986-messages-from-the-universe-graveyard.json](./304986-messages-from-the-universe-graveyard.json) |
 | Messiah | 9282 | [9282-messiah.json](./9282-messiah.json) |
