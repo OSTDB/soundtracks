@@ -9910,6 +9910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home Design 3D VR | 276644 | [276644-home-design-3d-vr.json](./276644-home-design-3d-vr.json) |
 | Home Design Makeover | 245203 | [245203-home-design-makeover.json](./245203-home-design-makeover.json) |
 | Home Design Makeover! | 90416 | [90416-home-design-makeover.json](./90416-home-design-makeover.json) |
+| Home Designer Makeover Blast - Ryan's Christmas Living Room | 280545 | [280545-home-designer-makeover-blast-ryans-christmas-living-room.json](./280545-home-designer-makeover-blast-ryans-christmas-living-room.json) |
 | Home Designer Makeover Blast: Halloween | 271926 | [271926-home-designer-makeover-blast-halloween.json](./271926-home-designer-makeover-blast-halloween.json) |
 | Home Designer Makeover Blast: Jason's Industrial Loft | 255068 | [255068-home-designer-makeover-blast-jasons-industrial-loft.json](./255068-home-designer-makeover-blast-jasons-industrial-loft.json) |
 | Home Designer Makeover Blast: Liam & Beth's Studio Apartment | 255069 | [255069-home-designer-makeover-blast-liam-and-beths-studio-apartment.json](./255069-home-designer-makeover-blast-liam-and-beths-studio-apartment.json) |
@@ -10227,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honeycomb: The World Beyond | 152058 | [152058-honeycomb-the-world-beyond.json](./152058-honeycomb-the-world-beyond.json) |
 | HoneyCombat | 177775 | [177775-honeycombat.json](./177775-honeycombat.json) |
 | HoneyCome Come Come Party | 263645 | [263645-honeycome-come-come-party.json](./263645-honeycome-come-come-party.json) |
+| HoneyCome Come Come Party: Dolce | 280546 | [280546-honeycome-come-come-party-dolce.json](./280546-honeycome-come-come-party-dolce.json) |
 | Honeydew | 303942 | [303942-honeydew.json](./303942-honeydew.json) |
 | HoneyHoneyHoney! | 164604 | [164604-honeyhoneyhoney.json](./164604-honeyhoneyhoney.json) |
 | HoneyLand | 167597 | [167597-honeyland.json](./167597-honeyland.json) |
@@ -10877,6 +10879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horny Witch Hunt | 212200 | [212200-horny-witch-hunt.json](./212200-horny-witch-hunt.json) |
 | Horny Witch: Crusade | 224960 | [224960-horny-witch-crusade.json](./224960-horny-witch-crusade.json) |
 | Horny Wives' Yoga Class | 393797 | [393797-horny-wives-yoga-class.json](./393797-horny-wives-yoga-class.json) |
+| HornyWars | 280547 | [280547-hornywars.json](./280547-hornywars.json) |
 | Horo Nite: MelonMelody | 281619 | [281619-horo-nite-melonmelody.json](./281619-horo-nite-melonmelody.json) |
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo | 198365 | [198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json](./198365-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo.json) |
 | Horobi Kuchiru Sekai ni Tsuioku no Hanataba wo: Present For You | 401167 | [401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json](./401167-horobi-kuchiru-sekai-ni-tsuioku-no-hanataba-wo-present-for-you.json) |
@@ -11614,6 +11617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Giant DS | 47934 | [47934-hotel-giant-ds.json](./47934-hotel-giant-ds.json) |
 | Hotel Giant: Edition 2012 | 53200 | [53200-hotel-giant-edition-2012.json](./53200-hotel-giant-edition-2012.json) |
 | Hotel Greenwood | 211644 | [211644-hotel-greenwood.json](./211644-hotel-greenwood.json) |
+| Hotel Heldritch | 280548 | [280548-hotel-heldritch.json](./280548-hotel-heldritch.json) |
 | Hotel Hermes | 187832 | [187832-hotel-hermes.json](./187832-hotel-hermes.json) |
 | Hotel Hideaway | 380123 | [380123-hotel-hideaway.json](./380123-hotel-hideaway.json) |
 | Hotel Hideaway | 86934 | [86934-hotel-hideaway.json](./86934-hotel-hideaway.json) |
