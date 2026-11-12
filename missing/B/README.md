@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -3299,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basement Dweller | 158158 | [158158-basement-dweller.json](./158158-basement-dweller.json) |
 | Basement Server Simulator | 407371 | [407371-basement-server-simulator.json](./407371-basement-server-simulator.json) |
 | Basement VR | 156579 | [156579-basement-vr.json](./156579-basement-vr.json) |
+| Basemental Drugs | 259227 | [259227-basemental-drugs.json](./259227-basemental-drugs.json) |
 | Basemental Gangs | 259230 | [259230-basemental-gangs.json](./259230-basemental-gangs.json) |
 | Basements & Bugbears | 177888 | [177888-basements-and-bugbears.json](./177888-basements-and-bugbears.json) |
 | Basements n' Basilisks: Storms of Sorcery | 234664 | [234664-basements-n-basilisks-storms-of-sorcery.json](./234664-basements-n-basilisks-storms-of-sorcery.json) |
@@ -4443,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Tanks: Arena | 240476 | [240476-battle-tanks-arena.json](./240476-battle-tanks-arena.json) |
 | Battle Tanks: World War II | 115159 | [115159-battle-tanks-world-war-ii.json](./115159-battle-tanks-world-war-ii.json) |
 | Battle Tap Tap | 233239 | [233239-battle-tap-tap.json](./233239-battle-tap-tap.json) |
+| Battle Tea | 259210 | [259210-battle-tea.json](./259210-battle-tea.json) |
 | Battle Team | 109978 | [109978-battle-team.json](./109978-battle-team.json) |
 | Battle Teams 2 | 102862 | [102862-battle-teams-2.json](./102862-battle-teams-2.json) |
 | Battle Teams 2: Commander Pack | 289503 | [289503-battle-teams-2-commander-pack.json](./289503-battle-teams-2-commander-pack.json) |
@@ -8631,6 +8634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Heresy | 134983 | [134983-binary-heresy.json](./134983-binary-heresy.json) |
 | Binary Land | 366925 | [366925-binary-land.json](./366925-binary-land.json) |
 | Binary Monsters III: School Fighter | 247452 | [247452-binary-monsters-iii-school-fighter.json](./247452-binary-monsters-iii-school-fighter.json) |
+| Binary Non-Binary | 259199 | [259199-binary-non-binary.json](./259199-binary-non-binary.json) |
 | Binary Pot | 247575 | [247575-binary-pot.json](./247575-binary-pot.json) |
 | Binary Proof | 423646 | [423646-binary-proof.json](./423646-binary-proof.json) |
 | Binary Quest | 178616 | [178616-binary-quest.json](./178616-binary-quest.json) |
@@ -10128,6 +10132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackout: Sightless Home | 227257 | [227257-blackout-sightless-home.json](./227257-blackout-sightless-home.json) |
 | Blackout: The Darkest Night | 118192 | [118192-blackout-the-darkest-night.json](./118192-blackout-the-darkest-night.json) |
 | Blackout: Uma Aventura Energética | 293896 | [293896-blackout-uma-aventura-energetica.json](./293896-blackout-uma-aventura-energetica.json) |
+| Blackout: Zero Point | 259195 | [259195-blackout-zero-point.json](./259195-blackout-zero-point.json) |
 | Blackout!! | 197087 | [197087-blackout.json](./197087-blackout.json) |
 | Blackpink: The Game | 250430 | [250430-blackpink-the-game.json](./250430-blackpink-the-game.json) |
 | Blackrock | 359097 | [359097-blackrock.json](./359097-blackrock.json) |
