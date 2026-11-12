@@ -4384,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts of Memories | 59000 | [59000-ghosts-of-memories.json](./59000-ghosts-of-memories.json) |
 | Ghosts of Miami | 51422 | [51422-ghosts-of-miami.json](./51422-ghosts-of-miami.json) |
 | Ghosts of Mistwood | 61960 | [61960-ghosts-of-mistwood.json](./61960-ghosts-of-mistwood.json) |
+| Ghosts of Oblivion | 275865 | [275865-ghosts-of-oblivion.json](./275865-ghosts-of-oblivion.json) |
 | Ghosts of Tabor | 204034 | [204034-ghosts-of-tabor.json](./204034-ghosts-of-tabor.json) |
 | Ghosts of Tabor: Florida Man DLC | 393139 | [393139-ghosts-of-tabor-florida-man-dlc.json](./393139-ghosts-of-tabor-florida-man-dlc.json) |
 | Ghosts of Tabor: Legacy | 412321 | [412321-ghosts-of-tabor-legacy.json](./412321-ghosts-of-tabor-legacy.json) |
@@ -5437,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Thermonuclear War | 382997 | [382997-global-thermonuclear-war.json](./382997-global-thermonuclear-war.json) |
 | Global Transport | 329388 | [329388-global-transport.json](./329388-global-transport.json) |
 | Global War | 79605 | [79605-global-war.json](./79605-global-war.json) |
+| Globalism | 275864 | [275864-globalism.json](./275864-globalism.json) |
 | Globalization | 370419 | [370419-globalization.json](./370419-globalization.json) |
 | GloBall | 91703 | [91703-globall.json](./91703-globall.json) |
 | GlobalMap Astro | 103944 | [103944-globalmap-astro.json](./103944-globalmap-astro.json) |
@@ -10594,6 +10596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Force Zero | 71550 | [71550-ground-force-zero.json](./71550-ground-force-zero.json) |
 | Ground Mine Girl | 355183 | [355183-ground-mine-girl.json](./355183-ground-mine-girl.json) |
 | Ground of Aces | 249885 | [249885-ground-of-aces.json](./249885-ground-of-aces.json) |
+| Ground Parkour: First Mission | 275852 | [275852-ground-parkour-first-mission.json](./275852-ground-parkour-first-mission.json) |
 | Ground Pounders | 36456 | [36456-ground-pounders.json](./36456-ground-pounders.json) |
 | Ground Pounders: Tarka | 10379 | [10379-ground-pounders-tarka.json](./10379-ground-pounders-tarka.json) |
 | Ground Runner: Trials | 82467 | [82467-ground-runner-trials.json](./82467-ground-runner-trials.json) |
