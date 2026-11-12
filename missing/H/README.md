@@ -8917,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | History Mosaics: Ancient Greece | 415879 | [415879-history-mosaics-ancient-greece.json](./415879-history-mosaics-ancient-greece.json) |
 | History of Football World Cup | 367692 | [367692-history-of-football-world-cup.json](./367692-history-of-football-world-cup.json) |
 | History of Korea: VR | 368266 | [368266-history-of-korea-vr.json](./368266-history-of-korea-vr.json) |
+| History of Meme Essence | 278025 | [278025-history-of-meme-essence.json](./278025-history-of-meme-essence.json) |
 | History Racers 2 | 127691 | [127691-history-racers-2.json](./127691-history-racers-2.json) |
 | History Table: Lore & Quiz | 173254 | [173254-history-table-lore-and-quiz.json](./173254-history-table-lore-and-quiz.json) |
 | History Trivia: Ancient-Modern | 87236 | [87236-history-trivia-ancient-modern.json](./87236-history-trivia-ancient-modern.json) |
@@ -11922,6 +11923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Jigsaw: Vintage Revival | 273473 | [273473-house-of-jigsaw-vintage-revival.json](./273473-house-of-jigsaw-vintage-revival.json) |
 | House of Legacy | 267849 | [267849-house-of-legacy.json](./267849-house-of-legacy.json) |
 | House of Lies | 247867 | [247867-house-of-lies.json](./247867-house-of-lies.json) |
+| House of Lizards | 278119 | [278119-house-of-lizards.json](./278119-house-of-lizards.json) |
 | House of Lost Souls | 333624 | [333624-house-of-lost-souls.json](./333624-house-of-lost-souls.json) |
 | House of Maids | 189980 | [189980-house-of-maids.json](./189980-house-of-maids.json) |
 | House of Moiré | 212991 | [212991-house-of-moire.json](./212991-house-of-moire.json) |
