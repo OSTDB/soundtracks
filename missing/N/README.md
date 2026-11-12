@@ -1076,6 +1076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naturalist Stories | 156146 | [156146-naturalist-stories.json](./156146-naturalist-stories.json) |
 | Naturals | 258734 | [258734-naturals.json](./258734-naturals.json) |
 | Nature | 236548 | [236548-nature.json](./236548-nature.json) |
+| Nature | 260368 | [260368-nature.json](./260368-nature.json) |
 | Nature & Wildlife: Jigsaw Puzzle | 212608 | [212608-nature-and-wildlife-jigsaw-puzzle.json](./212608-nature-and-wildlife-jigsaw-puzzle.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 1 | 215634 | [215634-nature-and-wildlife-jigsaw-puzzle-expansion-pack-1.json](./215634-nature-and-wildlife-jigsaw-puzzle-expansion-pack-1.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 2 | 215633 | [215633-nature-and-wildlife-jigsaw-puzzle-expansion-pack-2.json](./215633-nature-and-wildlife-jigsaw-puzzle-expansion-pack-2.json) |
@@ -6949,6 +6950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Non-Binary | 207964 | [207964-non-binary.json](./207964-non-binary.json) |
 | Non-Compliant | 126575 | [126575-non-compliant.json](./126575-non-compliant.json) |
 | Non-Euclidean Minesweeper | 398902 | [398902-non-euclidean-minesweeper.json](./398902-non-euclidean-minesweeper.json) |
+| Non-Fellows | 260342 | [260342-non-fellows.json](./260342-non-fellows.json) |
 | Non-League Manager | 419205 | [419205-non-league-manager.json](./419205-non-league-manager.json) |
 | Non-Linear Text Quests | 103924 | [103924-non-linear-text-quests.json](./103924-non-linear-text-quests.json) |
 | Non-Linear Text Quests: Return of Red Riding Hood Enhanced Edition | 170714 | [170714-non-linear-text-quests-return-of-red-riding-hood-enhanced-edition.json](./170714-non-linear-text-quests-return-of-red-riding-hood-enhanced-edition.json) |
