@@ -7031,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Quest! | 244471 | [244471-lizard-quest.json](./244471-lizard-quest.json) |
 | Lizard Simulator | 406306 | [406306-lizard-simulator.json](./406306-lizard-simulator.json) |
 | Lizard Slayer | 270170 | [270170-lizard-slayer.json](./270170-lizard-slayer.json) |
+| Lizard Slayer | 303915 | [303915-lizard-slayer.json](./303915-lizard-slayer.json) |
 | Lizard Slayer | 405618 | [405618-lizard-slayer.json](./405618-lizard-slayer.json) |
 | Lizard State | 396531 | [396531-lizard-state.json](./396531-lizard-state.json) |
 | Lizard Survival Duo | 369728 | [369728-lizard-survival-duo.json](./369728-lizard-survival-duo.json) |
@@ -10109,6 +10110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucy Dreaming | 144920 | [144920-lucy-dreaming.json](./144920-lucy-dreaming.json) |
 | Lucy Gorbalm Is Missing | 393163 | [393163-lucy-gorbalm-is-missing.json](./393163-lucy-gorbalm-is-missing.json) |
 | Lucy Got Problems | 105099 | [105099-lucy-got-problems.json](./105099-lucy-got-problems.json) |
+| Lucy Grace | 304940 | [304940-lucy-grace.json](./304940-lucy-grace.json) |
 | Lucy Half Lucid | 408169 | [408169-lucy-half-lucid.json](./408169-lucy-half-lucid.json) |
 | Lucy Q Deluxe | 70798 | [70798-lucy-q-deluxe.json](./70798-lucy-q-deluxe.json) |
 | Lucy: The Eternity She Wished For | 19897 | [19897-lucy-the-eternity-she-wished-for.json](./19897-lucy-the-eternity-she-wished-for.json) |
