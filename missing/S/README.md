@@ -3271,6 +3271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Night Seance | 375615 | [375615-school-night-seance.json](./375615-school-night-seance.json) |
 | School of Chaos Online MMORPG | 172545 | [172545-school-of-chaos-online-mmorpg.json](./172545-school-of-chaos-online-mmorpg.json) |
 | School of Dragons: How to Train Your Dragon | 36191 | [36191-school-of-dragons-how-to-train-your-dragon.json](./36191-school-of-dragons-how-to-train-your-dragon.json) |
+| School of Gods | 256469 | [256469-school-of-gods.json](./256469-school-of-gods.json) |
 | School of Horror | 104148 | [104148-school-of-horror.json](./104148-school-of-horror.json) |
 | School Of Love: Clubs! | 290305 | [290305-school-of-love-clubs.json](./290305-school-of-love-clubs.json) |
 | School of Magic | 133120 | [133120-school-of-magic.json](./133120-school-of-magic.json) |
@@ -6798,6 +6799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex House: Orgy Party | 273658 | [273658-sex-house-orgy-party.json](./273658-sex-house-orgy-party.json) |
 | Sex in Space | 275709 | [275709-sex-in-space.json](./275709-sex-in-space.json) |
 | Sex In The Block | 313644 | [313644-sex-in-the-block.json](./313644-sex-in-the-block.json) |
+| Sex in the Sky | 256479 | [256479-sex-in-the-sky.json](./256479-sex-in-the-sky.json) |
 | Sex Industry XXX | 311175 | [311175-sex-industry-xxx.json](./311175-sex-industry-xxx.json) |
 | Sex Inspector | 311144 | [311144-sex-inspector.json](./311144-sex-inspector.json) |
 | Sex Instructor Yoga | 173830 | [173830-sex-instructor-yoga.json](./173830-sex-instructor-yoga.json) |
@@ -7831,6 +7833,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shame Legacy | 241959 | [241959-shame-legacy.json](./241959-shame-legacy.json) |
 | Shame Legacy: The Cult Edition | 246297 | [246297-shame-legacy-the-cult-edition.json](./246297-shame-legacy-the-cult-edition.json) |
 | Shameless Afterparty | 340382 | [340382-shameless-afterparty.json](./340382-shameless-afterparty.json) |
+| Shameless Clone | 256490 | [256490-shameless-clone.json](./256490-shameless-clone.json) |
+| Shameless Clone 2 | 256491 | [256491-shameless-clone-2.json](./256491-shameless-clone-2.json) |
 | Shamoji | 319418 | [319418-shamoji.json](./319418-shamoji.json) |
 | Shamus | 18659 | [18659-shamus.json](./18659-shamus.json) |
 | Shamus: Case II | 23889 | [23889-shamus-case-ii.json](./23889-shamus-case-ii.json) |
@@ -24070,6 +24074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spish | 169421 | [169421-spish.json](./169421-spish.json) |
 | Spitball Sparky | 145236 | [145236-spitball-sparky.json](./145236-spitball-sparky.json) |
 | Spite & Malice | 175485 | [175485-spite-and-malice.json](./175485-spite-and-malice.json) |
+| Spite & Malice | 256505 | [256505-spite-and-malice.json](./256505-spite-and-malice.json) |
 | Spite and Malice | 145282 | [145282-spite-and-malice.json](./145282-spite-and-malice.json) |
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
 | Spitfire | 282629 | [282629-spitfire.json](./282629-spitfire.json) |
@@ -36955,6 +36960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surgical Strike | 5456 | [5456-surgical-strike.json](./5456-surgical-strike.json) |
 | Surgineer | 223145 | [223145-surgineer.json](./223145-surgineer.json) |
 | Surging Blood | 386891 | [386891-surging-blood.json](./386891-surging-blood.json) |
+| Surging Seas: Power Saga | 256572 | [256572-surging-seas-power-saga.json](./256572-surging-seas-power-saga.json) |
 | Surgit | 302889 | [302889-surgit.json](./302889-surgit.json) |
 | Suri: The Seventh Note | 333871 | [333871-suri-the-seventh-note.json](./333871-suri-the-seventh-note.json) |
 | Surmount | 126352 | [126352-surmount.json](./126352-surmount.json) |
