@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddy the Penguin | 358622 | [358622-paddy-the-penguin.json](./358622-paddy-the-penguin.json) |
 | Padel Pro World Tour | 409553 | [409553-padel-pro-world-tour.json](./409553-padel-pro-world-tour.json) |
 | Padria Online | 55553 | [55553-padria-online.json](./55553-padria-online.json) |
+| PafuPafu | 310844 | [310844-pafupafu.json](./310844-pafupafu.json) |
 | Pagan Age | 167465 | [167465-pagan-age.json](./167465-pagan-age.json) |
 | Pagan Gods | 293350 | [293350-pagan-gods.json](./293350-pagan-gods.json) |
 | Pagan Hope | 132713 | [132713-pagan-hope.json](./132713-pagan-hope.json) |
@@ -3493,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Paw Destiny | 241786 | [241786-paw-paw-destiny.json](./241786-paw-paw-destiny.json) |
 | Paw Paw Miaw | 286360 | [286360-paw-paw-miaw.json](./286360-paw-paw-miaw.json) |
 | Paw Paw Paw | 118289 | [118289-paw-paw-paw.json](./118289-paw-paw-paw.json) |
+| Paw Pirates | 310841 | [310841-paw-pirates.json](./310841-paw-pirates.json) |
 | Paw's Boba Shop | 414737 | [414737-paws-boba-shop.json](./414737-paws-boba-shop.json) |
 | Pawafuru Puroyakyu 2024-2025 | 287890 | [287890-pawafuru-puroyakyu-2024-2025.json](./287890-pawafuru-puroyakyu-2024-2025.json) |
 | Pawafuru Puroyakyu: Eikan Nine Crossroad | 265625 | [265625-pawafuru-puroyakyu-eikan-nine-crossroad.json](./265625-pawafuru-puroyakyu-eikan-nine-crossroad.json) |
@@ -11441,6 +11443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poisoft Thud Card | 89551 | [89551-poisoft-thud-card.json](./89551-poisoft-thud-card.json) |
 | Poison Control: Contaminated Edition | 139913 | [139913-poison-control-contaminated-edition.json](./139913-poison-control-contaminated-edition.json) |
 | Poison Heart | 308242 | [308242-poison-heart.json](./308242-poison-heart.json) |
+| Poison is Served! | 310864 | [310864-poison-is-served.json](./310864-poison-is-served.json) |
 | Poison Noir: Desire, Time & Gangsters | 172341 | [172341-poison-noir-desire-time-and-gangsters.json](./172341-poison-noir-desire-time-and-gangsters.json) |
 | Poison Selection | 394551 | [394551-poison-selection.json](./394551-poison-selection.json) |
 | Poisoner | 110532 | [110532-poisoner.json](./110532-poisoner.json) |
@@ -13079,6 +13082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PolyKromos | 101369 | [101369-polykromos.json](./101369-polykromos.json) |
 | Polylithic | 219396 | [219396-polylithic.json](./219396-polylithic.json) |
 | Polylumina | 388510 | [388510-polylumina.json](./388510-polylumina.json) |
+| Polylylyrhythm | 310865 | [310865-polylylyrhythm.json](./310865-polylylyrhythm.json) |
 | Polymaniacs | 183418 | [183418-polymaniacs.json](./183418-polymaniacs.json) |
 | Polymatic | 103624 | [103624-polymatic.json](./103624-polymatic.json) |
 | Polymega Collection Vol. 10: Bases Loaded | 342518 | [342518-polymega-collection-vol-10-bases-loaded.json](./342518-polymega-collection-vol-10-bases-loaded.json) |
