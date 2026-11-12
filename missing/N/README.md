@@ -2212,6 +2212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Secret Homecoming Light | 251450 | [251450-neko-secret-homecoming-light.json](./251450-neko-secret-homecoming-light.json) |
 | Neko Secret Room | 192280 | [192280-neko-secret-room.json](./192280-neko-secret-room.json) |
 | Neko Secret: Homecoming | 200647 | [200647-neko-secret-homecoming.json](./200647-neko-secret-homecoming.json) |
+| Neko Shooters | 249990 | [249990-neko-shooters.json](./249990-neko-shooters.json) |
 | Neko Simulator NekoZ | 297632 | [297632-neko-simulator-nekoz.json](./297632-neko-simulator-nekoz.json) |
 | Neko Station | 385638 | [385638-neko-station.json](./385638-neko-station.json) |
 | Neko Times: Purrfect Shapes | 369629 | [369629-neko-times-purrfect-shapes.json](./369629-neko-times-purrfect-shapes.json) |
@@ -3437,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Age of Machine Warfare | 252663 | [252663-new-age-of-machine-warfare.json](./252663-new-age-of-machine-warfare.json) |
 | New Age Vanguard | 59788 | [59788-new-age-vanguard.json](./59788-new-age-vanguard.json) |
 | New America | 274793 | [274793-new-america.json](./274793-new-america.json) |
+| New and Tasty | 250060 | [250060-new-and-tasty.json](./250060-new-and-tasty.json) |
 | New Arc Line | 264931 | [264931-new-arc-line.json](./264931-new-arc-line.json) |
 | New Atelier Rorona: The Alchemist of Arland | 82105 | [82105-new-atelier-rorona-the-alchemist-of-arland.json](./82105-new-atelier-rorona-the-alchemist-of-arland.json) |
 | New Athens | 179148 | [179148-new-athens.json](./179148-new-athens.json) |
@@ -3464,6 +3466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Dawn | 25819 | [25819-new-dawn.json](./25819-new-dawn.json) |
 | New Dawn Protocol | 416562 | [416562-new-dawn-protocol.json](./416562-new-dawn-protocol.json) |
 | New Day | 244352 | [244352-new-day.json](./244352-new-day.json) |
+| New Day | 249973 | [249973-new-day.json](./249973-new-day.json) |
 | New Deal or No Deal | 242375 | [242375-new-deal-or-no-deal.json](./242375-new-deal-or-no-deal.json) |
 | New Dungeons | 268777 | [268777-new-dungeons.json](./268777-new-dungeons.json) |
 | New Earth | 275716 | [275716-new-earth.json](./275716-new-earth.json) |
@@ -3655,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Mario Castle | 255604 | [255604-new-super-mario-castle.json](./255604-new-super-mario-castle.json) |
 | New Super Mario Galaxy | 314112 | [314112-new-super-mario-galaxy.json](./314112-new-super-mario-galaxy.json) |
 | New Super Mario Kart | 250049 | [250049-new-super-mario-kart.json](./250049-new-super-mario-kart.json) |
+| New Super Mario Kart 2 | 250058 | [250058-new-super-mario-kart-2.json](./250058-new-super-mario-kart-2.json) |
 | New Super Mario Land | 132641 | [132641-new-super-mario-land.json](./132641-new-super-mario-land.json) |
 | New Super Mario Lost Worlds | 394349 | [394349-new-super-mario-lost-worlds.json](./394349-new-super-mario-lost-worlds.json) |
 | New Super Mario Run | 314116 | [314116-new-super-mario-run.json](./314116-new-super-mario-run.json) |
@@ -6924,6 +6928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nom Plant | 328943 | [328943-nom-plant.json](./328943-nom-plant.json) |
 | Nom: Billion Year Timequest | 343566 | [343566-nom-billion-year-timequest.json](./343566-nom-billion-year-timequest.json) |
 | Nomad | 174444 | [174444-nomad.json](./174444-nomad.json) |
+| Nomad | 249433 | [249433-nomad.json](./249433-nomad.json) |
 | Nomad | 403796 | [403796-nomad.json](./403796-nomad.json) |
 | Nomad | 95511 | [95511-nomad.json](./95511-nomad.json) |
 | Nomad Defender | 278951 | [278951-nomad-defender.json](./278951-nomad-defender.json) |
