@@ -893,6 +893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of the Dead: Faery Tale Adventure II | 2493 | [2493-halls-of-the-dead-faery-tale-adventure-ii.json](./2493-halls-of-the-dead-faery-tale-adventure-ii.json) |
 | Halls of the Shambler God | 271313 | [271313-halls-of-the-shambler-god.json](./271313-halls-of-the-shambler-god.json) |
 | Halls of the Things | 45349 | [45349-halls-of-the-things.json](./45349-halls-of-the-things.json) |
+| Halls of the Void | 271347 | [271347-halls-of-the-void.json](./271347-halls-of-the-void.json) |
 | Halls of Things | 23047 | [23047-halls-of-things.json](./23047-halls-of-things.json) |
 | Halls of Torment | 235846 | [235846-halls-of-torment.json](./235846-halls-of-torment.json) |
 | Halls of Torment: The Boglands | 375781 | [375781-halls-of-torment-the-boglands.json](./375781-halls-of-torment-the-boglands.json) |
