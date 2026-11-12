@@ -8794,6 +8794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil of the Mirror | 331793 | [331793-devil-of-the-mirror.json](./331793-devil-of-the-mirror.json) |
 | Devil on My Shoulder | 427832 | [427832-devil-on-my-shoulder.json](./427832-devil-on-my-shoulder.json) |
 | Devil on Your Shoulder | 199272 | [199272-devil-on-your-shoulder.json](./199272-devil-on-your-shoulder.json) |
+| Devil Peach Soda | 264261 | [264261-devil-peach-soda.json](./264261-devil-peach-soda.json) |
 | Devil Piece | 174645 | [174645-devil-piece.json](./174645-devil-piece.json) |
 | Devil Rhythm -Silver Phantom- | 83401 | [83401-devil-rhythm-silver-phantom.json](./83401-devil-rhythm-silver-phantom.json) |
 | Devil Road Run! | 311445 | [311445-devil-road-run.json](./311445-devil-road-run.json) |
@@ -17119,6 +17120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Blast: Jewel Pops | 224073 | [224073-dream-blast-jewel-pops.json](./224073-dream-blast-jewel-pops.json) |
 | Dream Book | 167124 | [167124-dream-book.json](./167124-dream-book.json) |
 | Dream Boundary | 347715 | [347715-dream-boundary.json](./347715-dream-boundary.json) |
+| Dream Boyfriend: Astral Days | 264377 | [264377-dream-boyfriend-astral-days.json](./264377-dream-boyfriend-astral-days.json) |
 | Dream Bright | 237807 | [237807-dream-bright.json](./237807-dream-bright.json) |
 | Dream Bubble | 246326 | [246326-dream-bubble.json](./246326-dream-bubble.json) |
 | Dream Bubblez | 103491 | [103491-dream-bubblez.json](./103491-dream-bubblez.json) |
