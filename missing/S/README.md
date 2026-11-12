@@ -19999,6 +19999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Hackers 2: Digital Deluxe Edition | 213330 | [213330-soul-hackers-2-digital-deluxe-edition.json](./213330-soul-hackers-2-digital-deluxe-edition.json) |
 | Soul Hackers 2: Digital Premium Edition | 213331 | [213331-soul-hackers-2-digital-premium-edition.json](./213331-soul-hackers-2-digital-premium-edition.json) |
 | Soul Hackers 2: Launch Edition | 204915 | [204915-soul-hackers-2-launch-edition.json](./204915-soul-hackers-2-launch-edition.json) |
+| Soul Harvest | 282341 | [282341-soul-harvest.json](./282341-soul-harvest.json) |
 | Soul Harvest | 28967 | [28967-soul-harvest.json](./28967-soul-harvest.json) |
 | Soul Hero Adventure | 291306 | [291306-soul-hero-adventure.json](./291306-soul-hero-adventure.json) |
 | Soul Historica | 118181 | [118181-soul-historica.json](./118181-soul-historica.json) |
