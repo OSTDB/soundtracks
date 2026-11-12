@@ -6974,6 +6974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sfinx | 228956 | [228956-sfinx.json](./228956-sfinx.json) |
 | SFPD Homicide / Case File: The Body in the Bay | 78441 | [78441-sfpd-homicide-case-file-the-body-in-the-bay.json](./78441-sfpd-homicide-case-file-the-body-in-the-bay.json) |
 | Sfsim | 415868 | [415868-sfsim.json](./415868-sfsim.json) |
+| SFX Test | 307447 | [307447-sfx-test.json](./307447-sfx-test.json) |
 | SFZ Project: E0 Deluxe Remake | 351506 | [351506-sfz-project-e0-deluxe-remake.json](./351506-sfz-project-e0-deluxe-remake.json) |
 | SG Racing | 207760 | [207760-sg-racing.json](./207760-sg-racing.json) |
 | SGarden | 180050 | [180050-sgarden.json](./180050-sgarden.json) |
@@ -11562,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimAnimals Africa | 387264 | [387264-simanimals-africa.json](./387264-simanimals-africa.json) |
 | SimAnt | 9520 | [9520-simant.json](./9520-simant.json) |
 | Simantik | 224685 | [224685-simantik.json](./224685-simantik.json) |
+| SiMarket: Supermarket Simulator | 307995 | [307995-simarket-supermarket-simulator.json](./307995-simarket-supermarket-simulator.json) |
 | Simba the Cat | 204820 | [204820-simba-the-cat.json](./204820-simba-the-cat.json) |
 | SimbaQuest | 243699 | [243699-simbaquest.json](./243699-simbaquest.json) |
 | SimBus | 166815 | [166815-simbus.json](./166815-simbus.json) |
@@ -15953,6 +15955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Puzzle: Slither to Eat | 397970 | [397970-snake-puzzle-slither-to-eat.json](./397970-snake-puzzle-slither-to-eat.json) |
 | Snake Quest | 261517 | [261517-snake-quest.json](./261517-snake-quest.json) |
 | Snake Rampage - Snake Simulator | 108619 | [108619-snake-rampage-snake-simulator.json](./108619-snake-rampage-snake-simulator.json) |
+| Snake Rattle 'n' Roll | 307481 | [307481-snake-rattle-n-roll.json](./307481-snake-rattle-n-roll.json) |
 | Snake Rattle 'n' Roll | 4479 | [4479-snake-rattle-n-roll.json](./4479-snake-rattle-n-roll.json) |
 | Snake Real World | 133874 | [133874-snake-real-world.json](./133874-snake-real-world.json) |
 | Snake Rewind | 124445 | [124445-snake-rewind.json](./124445-snake-rewind.json) |
@@ -28650,6 +28653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick to the Plan | 234299 | [234299-stick-to-the-plan.json](./234299-stick-to-the-plan.json) |
 | Stick Together!: Co-op Frog Parkour | 391561 | [391561-stick-together-co-op-frog-parkour.json](./391561-stick-together-co-op-frog-parkour.json) |
 | Stick Tongue | 324346 | [324346-stick-tongue.json](./324346-stick-tongue.json) |
+| Stick Tournament | 307456 | [307456-stick-tournament.json](./307456-stick-tournament.json) |
 | Stick Tower | 143433 | [143433-stick-tower.json](./143433-stick-tower.json) |
 | Stick Trampoline | 407660 | [407660-stick-trampoline.json](./407660-stick-trampoline.json) |
 | Stick Up | 319949 | [319949-stick-up.json](./319949-stick-up.json) |
@@ -35636,6 +35640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Street Fighter II Turbo Pinball FX | 55062 | [55062-super-street-fighter-ii-turbo-pinball-fx.json](./55062-super-street-fighter-ii-turbo-pinball-fx.json) |
 | Super Street Fighter II Turbo: New Legacy | 422195 | [422195-super-street-fighter-ii-turbo-new-legacy.json](./422195-super-street-fighter-ii-turbo-new-legacy.json) |
 | Super Street Fighter II Turbo: Revival | 45195 | [45195-super-street-fighter-ii-turbo-revival.json](./45195-super-street-fighter-ii-turbo-revival.json) |
+| Super Street Fighter II X for Matching Service | 307486 | [307486-super-street-fighter-ii-x-for-matching-service.json](./307486-super-street-fighter-ii-x-for-matching-service.json) |
 | Super Street Fighter II: The New Challengers | 12860 | [12860-super-street-fighter-ii-the-new-challengers.json](./12860-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers | 198933 | [198933-super-street-fighter-ii-the-new-challengers.json](./198933-super-street-fighter-ii-the-new-challengers.json) |
 | Super Street Fighter II: The New Challengers | 322210 | [322210-super-street-fighter-ii-the-new-challengers.json](./322210-super-street-fighter-ii-the-new-challengers.json) |
