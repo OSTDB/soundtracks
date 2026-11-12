@@ -2055,6 +2055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Kayoi | 166471 | [166471-yume-kayoi.json](./166471-yume-kayoi.json) |
 | Yume Maboroshi no Gotoku | 37753 | [37753-yume-maboroshi-no-gotoku.json](./37753-yume-maboroshi-no-gotoku.json) |
 | Yume Meikyuu: Kigurumi Daibouken | 38378 | [38378-yume-meikyuu-kigurumi-daibouken.json](./38378-yume-meikyuu-kigurumi-daibouken.json) |
+| Yume Memory | 253616 | [253616-yume-memory.json](./253616-yume-memory.json) |
 | Yume Metsuki | 229683 | [229683-yume-metsuki.json](./229683-yume-metsuki.json) |
 | Yume Mienai: Pocket Version | 225425 | [225425-yume-mienai-pocket-version.json](./225425-yume-mienai-pocket-version.json) |
 | Yume Mitai | 201152 | [201152-yume-mitai.json](./201152-yume-mitai.json) |
