@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oh No! | 100080 | [100080-oh-no.json](./100080-oh-no.json) |
 | Oh No! | 57306 | [57306-oh-no.json](./57306-oh-no.json) |
 | Oh No! Bugs! | 31708 | [31708-oh-no-bugs.json](./31708-oh-no-bugs.json) |
+| Oh No! I Died and Woke Up a Greek God! | 296692 | [296692-oh-no-i-died-and-woke-up-a-greek-god.json](./296692-oh-no-i-died-and-woke-up-a-greek-god.json) |
 | Oh no! I'm about to fall in love! | 303326 | [303326-oh-no-im-about-to-fall-in-love.json](./303326-oh-no-im-about-to-fall-in-love.json) |
 | Oh No! It's An Alien Invasion: Turret Alert | 197643 | [197643-oh-no-its-an-alien-invasion-turret-alert.json](./197643-oh-no-its-an-alien-invasion-turret-alert.json) |
 | Oh no! More Lemmings | 242042 | [242042-oh-no-more-lemmings.json](./242042-oh-no-more-lemmings.json) |
@@ -2435,6 +2436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Girl Army | 324699 | [324699-one-girl-army.json](./324699-one-girl-army.json) |
 | One Girl's Trash | 332127 | [332127-one-girls-trash.json](./332127-one-girls-trash.json) |
 | One Goal Spirit | 80493 | [80493-one-goal-spirit.json](./80493-one-goal-spirit.json) |
+| One Good Turn Deserves Another | 298499 | [298499-one-good-turn-deserves-another.json](./298499-one-good-turn-deserves-another.json) |
 | One Got in the House | 179882 | [179882-one-got-in-the-house.json](./179882-one-got-in-the-house.json) |
 | One Gun 2: Stickman | 126908 | [126908-one-gun-2-stickman.json](./126908-one-gun-2-stickman.json) |
 | One Gun Army | 423643 | [423643-one-gun-army.json](./423643-one-gun-army.json) |
@@ -2989,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onee-san ni Makasenasai! Ryoubo to Joushi no Yawaraka Oppai ni Hasamarete | 108869 | [108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json](./108869-onee-san-ni-makasenasai-ryoubo-to-joushi-no-yawaraka-oppai-ni-hasamarete.json) |
 | Onee-san to Issho! Kisekae Paradise | 341295 | [341295-onee-san-to-issho-kisekae-paradise.json](./341295-onee-san-to-issho-kisekae-paradise.json) |
 | Oneesan to Issho! Janken Paradise | 254821 | [254821-oneesan-to-issho-janken-paradise.json](./254821-oneesan-to-issho-janken-paradise.json) |
+| OneFistZone | 296707 | [296707-onefistzone.json](./296707-onefistzone.json) |
 | Onefog Xonix | 98974 | [98974-onefog-xonix.json](./98974-onefog-xonix.json) |
 | Onefold Taxi Simulator | 370426 | [370426-onefold-taxi-simulator.json](./370426-onefold-taxi-simulator.json) |
 | Onegai AiPri | 396935 | [396935-onegai-aipri.json](./396935-onegai-aipri.json) |
@@ -3403,6 +3406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onward! Autobattles | 422108 | [422108-onward-autobattles.json](./422108-onward-autobattles.json) |
 | Onwelt | 278881 | [278881-onwelt.json](./278881-onwelt.json) |
 | Onyanko Town | 48405 | [48405-onyanko-town.json](./48405-onyanko-town.json) |
+| Onychomp: Lush Journey | 296300 | [296300-onychomp-lush-journey.json](./296300-onychomp-lush-journey.json) |
 | Onyx | 131338 | [131338-onyx.json](./131338-onyx.json) |
 | Onyx | 285814 | [285814-onyx.json](./285814-onyx.json) |
 | Onyx | 35244 | [35244-onyx.json](./35244-onyx.json) |
@@ -5015,6 +5019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otter Space Rescue | 121866 | [121866-otter-space-rescue.json](./121866-otter-space-rescue.json) |
 | Otter Turmoil | 269216 | [269216-otter-turmoil.json](./269216-otter-turmoil.json) |
 | Otter Yakuza | 369113 | [369113-otter-yakuza.json](./369113-otter-yakuza.json) |
+| Otter’s Odyssey | 297254 | [297254-otter-s-odyssey.json](./297254-otter-s-odyssey.json) |
 | OtterBash | 50524 | [50524-otterbash.json](./50524-otterbash.json) |
 | Otteretto | 229048 | [229048-otteretto.json](./229048-otteretto.json) |
 | Otterly Lost | 355983 | [355983-otterly-lost.json](./355983-otterly-lost.json) |
@@ -5319,6 +5324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Shapes | 133382 | [133382-out-of-shapes.json](./133382-out-of-shapes.json) |
 | Out Of Shapes | 274795 | [274795-out-of-shapes.json](./274795-out-of-shapes.json) |
 | Out of Sight | 199126 | [199126-out-of-sight.json](./199126-out-of-sight.json) |
+| Out of Sight | 298497 | [298497-out-of-sight.json](./298497-out-of-sight.json) |
 | Out of Sight | 312565 | [312565-out-of-sight.json](./312565-out-of-sight.json) |
 | Out of Sight | 398074 | [398074-out-of-sight.json](./398074-out-of-sight.json) |
 | Out of Sight | 67447 | [67447-out-of-sight.json](./67447-out-of-sight.json) |
