@@ -4878,6 +4878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers of the Ancients | 137973 | [137973-whispers-of-the-ancients.json](./137973-whispers-of-the-ancients.json) |
 | Whispers of the Citadel | 275136 | [275136-whispers-of-the-citadel.json](./275136-whispers-of-the-citadel.json) |
 | Whispers of the Dead | 331171 | [331171-whispers-of-the-dead.json](./331171-whispers-of-the-dead.json) |
+| Whispers of the Eyeless | 302844 | [302844-whispers-of-the-eyeless.json](./302844-whispers-of-the-eyeless.json) |
 | Whispers of the Hourglass | 346744 | [346744-whispers-of-the-hourglass.json](./346744-whispers-of-the-hourglass.json) |
 | Whispers of the Luminaries | 251778 | [251778-whispers-of-the-luminaries.json](./251778-whispers-of-the-luminaries.json) |
 | Whispers of the Past | 346458 | [346458-whispers-of-the-past.json](./346458-whispers-of-the-past.json) |
@@ -6035,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Peaks 2 | 236284 | [236284-wind-peaks-2.json](./236284-wind-peaks-2.json) |
 | Wind Rider | 294258 | [294258-wind-rider.json](./294258-wind-rider.json) |
 | Wind Rider: Hero Outfit | 312001 | [312001-wind-rider-hero-outfit.json](./312001-wind-rider-hero-outfit.json) |
+| Wind Rider: Military Outfit | 302841 | [302841-wind-rider-military-outfit.json](./302841-wind-rider-military-outfit.json) |
 | Wind Runner Adventure | 38960 | [38960-wind-runner-adventure.json](./38960-wind-runner-adventure.json) |
 | Wind Runners | 121395 | [121395-wind-runners.json](./121395-wind-runners.json) |
 | Wind Ryder | 267781 | [267781-wind-ryder.json](./267781-wind-ryder.json) |
@@ -9305,6 +9307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WorldNeverland: lower Trimmed Wear Set - Mint | 290453 | [290453-worldneverland-lower-trimmed-wear-set-mint.json](./290453-worldneverland-lower-trimmed-wear-set-mint.json) |
 | WorldNeverland: Wa Mage Wear Set - Sakura | 295700 | [295700-worldneverland-wa-mage-wear-set-sakura.json](./295700-worldneverland-wa-mage-wear-set-sakura.json) |
 | WorldNeverland: White Modern Wedding Outfit Set | 298593 | [298593-worldneverland-white-modern-wedding-outfit-set.json](./298593-worldneverland-white-modern-wedding-outfit-set.json) |
+| WorldNeverland: White Rose Wedding Attire Set | 302303 | [302303-worldneverland-white-rose-wedding-attire-set.json](./302303-worldneverland-white-rose-wedding-attire-set.json) |
 | WorldQuest | 101609 | [101609-worldquest.json](./101609-worldquest.json) |
 | Worldquiz | 243084 | [243084-worldquiz.json](./243084-worldquiz.json) |
 | Worlds | 36277 | [36277-worlds.json](./36277-worlds.json) |
@@ -9502,6 +9505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worry_Bead | 233039 | [233039-worry-bead.json](./233039-worry-bead.json) |
 | Worse Things Happen At Sea | 46039 | [46039-worse-things-happen-at-sea.json](./46039-worse-things-happen-at-sea.json) |
 | Worship | 144971 | [144971-worship.json](./144971-worship.json) |
+| Worship The Demon Lord With Friends | 301721 | [301721-worship-the-demon-lord-with-friends.json](./301721-worship-the-demon-lord-with-friends.json) |
 | Worshippers | 74926 | [74926-worshippers.json](./74926-worshippers.json) |
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
 | Worshippers of the Gain | 334172 | [334172-worshippers-of-the-gain.json](./334172-worshippers-of-the-gain.json) |
