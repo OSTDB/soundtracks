@@ -54,6 +54,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Birthday Present | 254033 | [254033-a-birthday-present.json](./254033-a-birthday-present.json) |
 | A Bit of Light | 179020 | [179020-a-bit-of-light.json](./179020-a-bit-of-light.json) |
 | A Bit of Tactics | 221112 | [221112-a-bit-of-tactics.json](./221112-a-bit-of-tactics.json) |
+| A Bite at Freddy's | 259776 | [259776-a-bite-at-freddys.json](./259776-a-bite-at-freddys.json) |
 | A Blackout Protocol Report | 344237 | [344237-a-blackout-protocol-report.json](./344237-a-blackout-protocol-report.json) |
 | A Blast from the Past | 233566 | [233566-a-blast-from-the-past.json](./233566-a-blast-from-the-past.json) |
 | A Blastastic Love Story: KiriBaku | 178750 | [178750-a-blastastic-love-story-kiribaku.json](./178750-a-blastastic-love-story-kiribaku.json) |
@@ -986,6 +987,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A nice date | 178749 | [178749-a-nice-date.json](./178749-a-nice-date.json) |
 | A Night Alone | 179859 | [179859-a-night-alone.json](./179859-a-night-alone.json) |
 | A Night At Andy's | 184620 | [184620-a-night-at-andys.json](./184620-a-night-at-andys.json) |
+| A Night at Fanny's | 259781 | [259781-a-night-at-fannys.json](./259781-a-night-at-fannys.json) |
+| A Night at Fanny's 2 | 259782 | [259782-a-night-at-fannys-2.json](./259782-a-night-at-fannys-2.json) |
 | A Night at Manster Mansion | 178826 | [178826-a-night-at-manster-mansion.json](./178826-a-night-at-manster-mansion.json) |
 | A Night at Moka Efti: A Babylon Berlin Story | 409210 | [409210-a-night-at-moka-efti-a-babylon-berlin-story.json](./409210-a-night-at-moka-efti-a-babylon-berlin-story.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
@@ -2932,6 +2935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aceonline: DuelX | 95871 | [95871-aceonline-duelx.json](./95871-aceonline-duelx.json) |
 | Acephalic | 323622 | [323622-acephalic.json](./323622-acephalic.json) |
 | Acephalus | 139167 | [139167-acephalus.json](./139167-acephalus.json) |
+| AceRace | 259802 | [259802-acerace.json](./259802-acerace.json) |
 | Acerte o alvo | 230636 | [230636-acerte-o-alvo.json](./230636-acerte-o-alvo.json) |
 | Aces & Adventures | 203609 | [203609-aces-and-adventures.json](./203609-aces-and-adventures.json) |
 | Aces Cribbage | 110570 | [110570-aces-cribbage.json](./110570-aces-cribbage.json) |
@@ -7738,6 +7742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien's Return | 79315 | [79315-aliens-return.json](./79315-aliens-return.json) |
 | Alien3: The Gun | 38520 | [38520-alien3-the-gun.json](./38520-alien3-the-gun.json) |
 | AlienAfterlife | 114220 | [114220-alienafterlife.json](./114220-alienafterlife.json) |
+| Alienated | 259790 | [259790-alienated.json](./259790-alienated.json) |
 | Alienation | 7600 | [7600-alienation.json](./7600-alienation.json) |
 | Alienator | 332245 | [332245-alienator.json](./332245-alienator.json) |
 | Alienators: Evolution Continues | 49166 | [49166-alienators-evolution-continues.json](./49166-alienators-evolution-continues.json) |
@@ -17448,6 +17453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Fighters | 334190 | [334190-astro-fighters.json](./334190-astro-fighters.json) |
 | Astro Fighters 2 | 375991 | [375991-astro-fighters-2.json](./375991-astro-fighters-2.json) |
 | Astro Fighters 2178 | 151412 | [151412-astro-fighters-2178.json](./151412-astro-fighters-2178.json) |
+| Astro Flame: Starfighter | 259807 | [259807-astro-flame-starfighter.json](./259807-astro-flame-starfighter.json) |
 | Astro Galaxy | 346140 | [346140-astro-galaxy.json](./346140-astro-galaxy.json) |
 | Astro Golf | 122706 | [122706-astro-golf.json](./122706-astro-golf.json) |
 | Astro Heist | 260440 | [260440-astro-heist.json](./260440-astro-heist.json) |
