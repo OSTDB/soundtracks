@@ -6119,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Mystic Survivors | 200465 | [200465-beautiful-mystic-survivors.json](./200465-beautiful-mystic-survivors.json) |
 | Beautiful Sakura: Fashion Club | 327971 | [327971-beautiful-sakura-fashion-club.json](./327971-beautiful-sakura-fashion-club.json) |
 | Beautiful Sakura: Fighting Club | 361374 | [361374-beautiful-sakura-fighting-club.json](./361374-beautiful-sakura-fighting-club.json) |
+| Beautiful Sakura: Fitness Club | 291675 | [291675-beautiful-sakura-fitness-club.json](./291675-beautiful-sakura-fitness-club.json) |
 | Beautiful Sakura: Football Club | 367136 | [367136-beautiful-sakura-football-club.json](./367136-beautiful-sakura-football-club.json) |
 | Beautiful Sakura: Racing Club | 334547 | [334547-beautiful-sakura-racing-club.json](./334547-beautiful-sakura-racing-club.json) |
 | Beautiful Sakura: Running Club | 327973 | [327973-beautiful-sakura-running-club.json](./327973-beautiful-sakura-running-club.json) |
@@ -8759,6 +8760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio-Synthetica | 235199 | [235199-bio-synthetica.json](./235199-bio-synthetica.json) |
 | BioBeasts | 112226 | [112226-biobeasts.json](./112226-biobeasts.json) |
 | Biocatalyst | 300359 | [300359-biocatalyst.json](./300359-biocatalyst.json) |
+| BioChaos | 292202 | [292202-biochaos.json](./292202-biochaos.json) |
 | BiochRL | 61110 | [61110-biochrl.json](./61110-biochrl.json) |
 | Biocide: Karver Island | 166823 | [166823-biocide-karver-island.json](./166823-biocide-karver-island.json) |
 | BioCrisis | 146626 | [146626-biocrisis.json](./146626-biocrisis.json) |
@@ -18720,6 +18722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulls and Bears | 92154 | [92154-bulls-and-bears.json](./92154-bulls-and-bears.json) |
 | Bulls and Cows | 210592 | [210592-bulls-and-cows.json](./210592-bulls-and-cows.json) |
 | Bulls and Cows | 230685 | [230685-bulls-and-cows.json](./230685-bulls-and-cows.json) |
+| Bulls and Cows: Wild West | 292198 | [292198-bulls-and-cows-wild-west.json](./292198-bulls-and-cows-wild-west.json) |
 | Bulls town | 112749 | [112749-bulls-town.json](./112749-bulls-town.json) |
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
 | Bulls vs Lakers and the NBA Playoffs | 46067 | [46067-bulls-vs-lakers-and-the-nba-playoffs.json](./46067-bulls-vs-lakers-and-the-nba-playoffs.json) |
