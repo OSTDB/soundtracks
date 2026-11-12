@@ -34343,6 +34343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Bros: The Early Years | 268364 | [268364-super-mario-bros-the-early-years.json](./268364-super-mario-bros-the-early-years.json) |
 | Super Mario Bros: The Hunt for the Magical Key | 268365 | [268365-super-mario-bros-the-hunt-for-the-magical-key.json](./268365-super-mario-bros-the-hunt-for-the-magical-key.json) |
 | Super Mario Bros: Unofficial PC Port | 340337 | [340337-super-mario-bros-unofficial-pc-port.json](./340337-super-mario-bros-unofficial-pc-port.json) |
+| Super Mario Bros: Vanilla Islands | 269712 | [269712-super-mario-bros-vanilla-islands.json](./269712-super-mario-bros-vanilla-islands.json) |
 | Super Mario Bros: Ztar Turmoil | 320226 | [320226-super-mario-bros-ztar-turmoil.json](./320226-super-mario-bros-ztar-turmoil.json) |
 | Super Mario Bros. | 145179 | [145179-super-mario-bros.json](./145179-super-mario-bros.json) |
 | Super Mario Bros. | 206934 | [206934-super-mario-bros.json](./206934-super-mario-bros.json) |
@@ -34696,6 +34697,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World: A Super Mario Adventure | 268102 | [268102-super-mario-world-a-super-mario-adventure.json](./268102-super-mario-world-a-super-mario-adventure.json) |
 | Super Mario World: A Super Mario Adventure 2 | 277107 | [277107-super-mario-world-a-super-mario-adventure-2.json](./277107-super-mario-world-a-super-mario-adventure-2.json) |
 | Super Mario World: A Super Mario Adventure 3 | 277106 | [277106-super-mario-world-a-super-mario-adventure-3.json](./277106-super-mario-world-a-super-mario-adventure-3.json) |
+| Super Mario World: Bowser's Cataclysmic Trap | 269721 | [269721-super-mario-world-bowsers-cataclysmic-trap.json](./269721-super-mario-world-bowsers-cataclysmic-trap.json) |
+| Super Mario World: Bowser's Kaizo Conspiracy | 269719 | [269719-super-mario-world-bowsers-kaizo-conspiracy.json](./269719-super-mario-world-bowsers-kaizo-conspiracy.json) |
 | Super Mario World: Bowser's Return | 222278 | [222278-super-mario-world-bowsers-return.json](./222278-super-mario-world-bowsers-return.json) |
 | Super Mario World: Mario to Yoshi no Bouken Land | 230281 | [230281-super-mario-world-mario-to-yoshi-no-bouken-land.json](./230281-super-mario-world-mario-to-yoshi-no-bouken-land.json) |
 | Super Mario World: Neeberz's Hack | 268374 | [268374-super-mario-world-neeberzs-hack.json](./268374-super-mario-world-neeberzs-hack.json) |
