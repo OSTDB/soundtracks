@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinthe | 242259 | [242259-labyrinthe.json](./242259-labyrinthe.json) |
 | LabyrinTheam | 399687 | [399687-labyrintheam.json](./399687-labyrintheam.json) |
 | Labyrinthesis | 391106 | [391106-labyrinthesis.json](./391106-labyrinthesis.json) |
+| Labyrinthia Nightmares: The Journey of Little Fluffypuff | 291654 | [291654-labyrinthia-nightmares-the-journey-of-little-fluffypuff.json](./291654-labyrinthia-nightmares-the-journey-of-little-fluffypuff.json) |
 | Labyrinthian | 55650 | [55650-labyrinthian.json](./55650-labyrinthian.json) |
 | Labyrinthian Lockdown | 290627 | [290627-labyrinthian-lockdown.json](./290627-labyrinthian-lockdown.json) |
 | Labyrinthian: Lost 'til Dawn | 238512 | [238512-labyrinthian-lost-til-dawn.json](./238512-labyrinthian-lost-til-dawn.json) |
@@ -3240,6 +3241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO 2K Drive: Awesome Rivals Edition | 242495 | [242495-lego-2k-drive-awesome-rivals-edition.json](./242495-lego-2k-drive-awesome-rivals-edition.json) |
 | LEGO 2K Drive: Premium Drive Pass Season 2 | 268591 | [268591-lego-2k-drive-premium-drive-pass-season-2.json](./268591-lego-2k-drive-premium-drive-pass-season-2.json) |
 | LEGO 2K Drive: Premium Drive Pass Season 3 | 280581 | [280581-lego-2k-drive-premium-drive-pass-season-3.json](./280581-lego-2k-drive-premium-drive-pass-season-3.json) |
+| LEGO 2K Drive: Premium Drive Pass Season 4 | 291671 | [291671-lego-2k-drive-premium-drive-pass-season-4.json](./291671-lego-2k-drive-premium-drive-pass-season-4.json) |
 | LEGO 2K Drive: Year 1 Drive Pass | 255217 | [255217-lego-2k-drive-year-1-drive-pass.json](./255217-lego-2k-drive-year-1-drive-pass.json) |
 | LEGO Agents: Mission X | 314853 | [314853-lego-agents-mission-x.json](./314853-lego-agents-mission-x.json) |
 | LEGO Alpha Team | 372839 | [372839-lego-alpha-team.json](./372839-lego-alpha-team.json) |
@@ -8531,6 +8533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Away | 191571 | [191571-lost-away.json](./191571-lost-away.json) |
 | Lost Balloons: Airy mates | 260878 | [260878-lost-balloons-airy-mates.json](./260878-lost-balloons-airy-mates.json) |
 | Lost Bazaar | 157465 | [157465-lost-bazaar.json](./157465-lost-bazaar.json) |
+| Lost Beacon | 292190 | [292190-lost-beacon.json](./292190-lost-beacon.json) |
 | Lost Between | 232914 | [232914-lost-between.json](./232914-lost-between.json) |
 | Lost Between the Lines | 224849 | [224849-lost-between-the-lines.json](./224849-lost-between-the-lines.json) |
 | Lost Beyond | 213542 | [213542-lost-beyond.json](./213542-lost-beyond.json) |
