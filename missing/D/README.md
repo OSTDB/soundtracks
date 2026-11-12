@@ -4436,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Dash | 387407 | [387407-deadly-dash.json](./387407-deadly-dash.json) |
 | Deadly Daycare VR | 157909 | [157909-deadly-daycare-vr.json](./157909-deadly-daycare-vr.json) |
 | Deadly Days + Orbital Bullet Bundle | 283192 | [283192-deadly-days-orbital-bullet-bundle.json](./283192-deadly-days-orbital-bullet-bundle.json) |
+| Deadly Days: Roadtrip | 314090 | [314090-deadly-days-roadtrip.json](./314090-deadly-days-roadtrip.json) |
 | Deadly Days: The Final Shelter | 199941 | [199941-deadly-days-the-final-shelter.json](./199941-deadly-days-the-final-shelter.json) |
 | Deadly Deals | 348591 | [348591-deadly-deals.json](./348591-deadly-deals.json) |
 | Deadly Delivery | 252005 | [252005-deadly-delivery.json](./252005-deadly-delivery.json) |
@@ -6903,6 +6904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Go! | 209653 | [209653-demon-go.json](./209653-demon-go.json) |
 | Demon God's Tower | 102869 | [102869-demon-gods-tower.json](./102869-demon-gods-tower.json) |
 | Demon Grade | 75159 | [75159-demon-grade.json](./75159-demon-grade.json) |
+| Demon Guardian | 314561 | [314561-demon-guardian.json](./314561-demon-guardian.json) |
 | Demon Heart | 158588 | [158588-demon-heart.json](./158588-demon-heart.json) |
 | Demon Heart: Pylon Wars | 38508 | [38508-demon-heart-pylon-wars.json](./38508-demon-heart-pylon-wars.json) |
 | Demon Hearts | 35313 | [35313-demon-hearts.json](./35313-demon-hearts.json) |
@@ -7184,6 +7186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demos for Toby Fox | 141629 | [141629-demos-for-toby-fox.json](./141629-demos-for-toby-fox.json) |
 | Dempsey and Makepeace | 13588 | [13588-dempsey-and-makepeace.json](./13588-dempsey-and-makepeace.json) |
 | Demra: Rifts of War | 385700 | [385700-demra-rifts-of-war.json](./385700-demra-rifts-of-war.json) |
+| DeMyth | 314555 | [314555-demyth.json](./314555-demyth.json) |
 | Den of the Defiant | 303471 | [303471-den-of-the-defiant.json](./303471-den-of-the-defiant.json) |
 | Den of Wolves | 279649 | [279649-den-of-wolves.json](./279649-den-of-wolves.json) |
 | Den Pain | 346388 | [346388-den-pain.json](./346388-den-pain.json) |
@@ -10948,6 +10951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconcerting Unease 2 | 275320 | [275320-disconcerting-unease-2.json](./275320-disconcerting-unease-2.json) |
 | Disconcordia | 402940 | [402940-disconcordia.json](./402940-disconcordia.json) |
 | Disconnect | 183240 | [183240-disconnect.json](./183240-disconnect.json) |
+| Disconnect | 314558 | [314558-disconnect.json](./314558-disconnect.json) |
 | Disconnected | 108899 | [108899-disconnected.json](./108899-disconnected.json) |
 | Disconnected | 184066 | [184066-disconnected.json](./184066-disconnected.json) |
 | Disconsolate | 74167 | [74167-disconsolate.json](./74167-disconsolate.json) |
@@ -14565,6 +14569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorf the Dwarf | 309378 | [309378-dorf-the-dwarf.json](./309378-dorf-the-dwarf.json) |
 | Dorfromantik | 134799 | [134799-dorfromantik.json](./134799-dorfromantik.json) |
 | Dorfromantik: Medieval Biome Pack | 403997 | [403997-dorfromantik-medieval-biome-pack.json](./403997-dorfromantik-medieval-biome-pack.json) |
+| Dorfs | 315764 | [315764-dorfs.json](./315764-dorfs.json) |
 | Dorfs: Hammers for Hire | 203936 | [203936-dorfs-hammers-for-hire.json](./203936-dorfs-hammers-for-hire.json) |
 | Doria & the Tide Song | 410378 | [410378-doria-and-the-tide-song.json](./410378-doria-and-the-tide-song.json) |
 | Dorian Morris Adventure | 110750 | [110750-dorian-morris-adventure.json](./110750-dorian-morris-adventure.json) |
@@ -14592,7 +14597,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dormitory Hentai Clicker | 243575 | [243575-dormitory-hentai-clicker.json](./243575-dormitory-hentai-clicker.json) |
 | Dorobune to Zainin | 389381 | [389381-dorobune-to-zainin.json](./389381-dorobune-to-zainin.json) |
 | Dorodon | 40100 | [40100-dorodon.json](./40100-dorodon.json) |
-| Doronko Wanko | 290647 | [290647-doronko-wanko.json](./290647-doronko-wanko.json) |
 | Doronko Wanko: Bulldog | 356790 | [356790-doronko-wanko-bulldog.json](./356790-doronko-wanko-bulldog.json) |
 | Doronko Wanko: Corgi | 356793 | [356793-doronko-wanko-corgi.json](./356793-doronko-wanko-corgi.json) |
 | Doronko Wanko: Jack Russell Terrier | 356792 | [356792-doronko-wanko-jack-russell-terrier.json](./356792-doronko-wanko-jack-russell-terrier.json) |
@@ -17703,6 +17707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift King: Survival | 30601 | [30601-drift-king-survival.json](./30601-drift-king-survival.json) |
 | Drift Legacy | 293372 | [293372-drift-legacy.json](./293372-drift-legacy.json) |
 | Drift Legacy: Deluxe Edition | 300897 | [300897-drift-legacy-deluxe-edition.json](./300897-drift-legacy-deluxe-edition.json) |
+| Drift Legacy: Extended Edition | 315882 | [315882-drift-legacy-extended-edition.json](./315882-drift-legacy-extended-edition.json) |
 | Drift Legends | 89647 | [89647-drift-legends.json](./89647-drift-legends.json) |
 | Drift Legends 2 | 266258 | [266258-drift-legends-2.json](./266258-drift-legends-2.json) |
 | Drift Long Racing | 149783 | [149783-drift-long-racing.json](./149783-drift-long-racing.json) |
@@ -17719,6 +17724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Market | 388757 | [388757-drift-market.json](./388757-drift-market.json) |
 | Drift Master 2026 Simulator: Driving Sim | 401384 | [401384-drift-master-2026-simulator-driving-sim.json](./401384-drift-master-2026-simulator-driving-sim.json) |
 | Drift Master Simulator | 315922 | [315922-drift-master-simulator.json](./315922-drift-master-simulator.json) |
+| Drift Master Simulator 2024: Driving Sim - Premium Edition | 315881 | [315881-drift-master-simulator-2024-driving-sim-premium-edition.json](./315881-drift-master-simulator-2024-driving-sim-premium-edition.json) |
 | Drift Master Simulator 2024: Rich Racer DLC | 316231 | [316231-drift-master-simulator-2024-rich-racer-dlc.json](./316231-drift-master-simulator-2024-rich-racer-dlc.json) |
 | Drift Masters | 127539 | [127539-drift-masters.json](./127539-drift-masters.json) |
 | Drift Max Pro | 99408 | [99408-drift-max-pro.json](./99408-drift-max-pro.json) |
@@ -18011,6 +18017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Homeicide | 280864 | [280864-driving-homeicide.json](./280864-driving-homeicide.json) |
 | Driving in Tehran | 372664 | [372664-driving-in-tehran.json](./372664-driving-in-tehran.json) |
 | Driving in Traffic | 107061 | [107061-driving-in-traffic.json](./107061-driving-in-traffic.json) |
+| Driving Is Hard | 315385 | [315385-driving-is-hard.json](./315385-driving-is-hard.json) |
 | Driving Life | 339678 | [339678-driving-life.json](./339678-driving-life.json) |
 | Driving Master D | 418397 | [418397-driving-master-d.json](./418397-driving-master-d.json) |
 | Driving Me Crazy | 182933 | [182933-driving-me-crazy.json](./182933-driving-me-crazy.json) |
@@ -20250,6 +20257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk '82 | 152265 | [152265-dusk-82.json](./152265-dusk-82.json) |
 | Dusk 12: Deadly Zone | 17738 | [17738-dusk-12-deadly-zone.json](./17738-dusk-12-deadly-zone.json) |
 | Dusk Child | 134498 | [134498-dusk-child.json](./134498-dusk-child.json) |
+| Dusk City | 315389 | [315389-dusk-city.json](./315389-dusk-city.json) |
 | Dusk Diver | 109434 | [109434-dusk-diver.json](./109434-dusk-diver.json) |
 | Dusk Diver 2 | 171860 | [171860-dusk-diver-2.json](./171860-dusk-diver-2.json) |
 | Dusk Diver 2: Digital Deluxe Edition | 238328 | [238328-dusk-diver-2-digital-deluxe-edition.json](./238328-dusk-diver-2-digital-deluxe-edition.json) |
