@@ -7870,6 +7870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woodland Isle | 265103 | [265103-woodland-isle.json](./265103-woodland-isle.json) |
 | Woodland Rebels | 385604 | [385604-woodland-rebels.json](./385604-woodland-rebels.json) |
 | Woodland Saga | 136727 | [136727-woodland-saga.json](./136727-woodland-saga.json) |
+| Woodland Sonata | 285716 | [285716-woodland-sonata.json](./285716-woodland-sonata.json) |
 | Woodland Town | 264518 | [264518-woodland-town.json](./264518-woodland-town.json) |
 | Woodland Walker | 228931 | [228931-woodland-walker.json](./228931-woodland-walker.json) |
 | Woodlands | 37022 | [37022-woodlands.json](./37022-woodlands.json) |
