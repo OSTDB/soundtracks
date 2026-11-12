@@ -14906,6 +14906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sloppy Eater | 186593 | [186593-sloppy-eater.json](./186593-sloppy-eater.json) |
 | Sloppy Eater: Meal Deal Edition | 186638 | [186638-sloppy-eater-meal-deal-edition.json](./186638-sloppy-eater-meal-deal-edition.json) |
 | Sloppy Fields | 352458 | [352458-sloppy-fields.json](./352458-sloppy-fields.json) |
+| Sloppy Forgeries | 306740 | [306740-sloppy-forgeries.json](./306740-sloppy-forgeries.json) |
 | Sloppy Goat | 93782 | [93782-sloppy-goat.json](./93782-sloppy-goat.json) |
 | Sloppy Shopping | 183298 | [183298-sloppy-shopping.json](./183298-sloppy-shopping.json) |
 | Sloptoberfest | 423070 | [423070-sloptoberfest.json](./423070-sloptoberfest.json) |
@@ -15235,6 +15236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Super Mario Bros. U 2 | 314109 | [314109-small-super-mario-bros-u-2.json](./314109-small-super-mario-bros-u-2.json) |
 | Small Super Mario Bros. U Deluxe | 256808 | [256808-small-super-mario-bros-u-deluxe.json](./256808-small-super-mario-bros-u-deluxe.json) |
 | Small Super Mario Universe | 314121 | [314121-small-super-mario-universe.json](./314121-small-super-mario-universe.json) |
+| Small Talk | 306741 | [306741-small-talk.json](./306741-small-talk.json) |
 | Small Tank | 255017 | [255017-small-tank.json](./255017-small-tank.json) |
 | Small Town Detective | 236333 | [236333-small-town-detective.json](./236333-small-town-detective.json) |
 | Small Town Detective | 310585 | [310585-small-town-detective.json](./310585-small-town-detective.json) |
@@ -18416,6 +18418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic 2: Chaos Adventure | 333957 | [333957-sonic-2-chaos-adventure.json](./333957-sonic-2-chaos-adventure.json) |
 | Sonic 2: Community's Cut | 145205 | [145205-sonic-2-communitys-cut.json](./145205-sonic-2-communitys-cut.json) |
 | Sonic 2: Rescue Tails | 316331 | [316331-sonic-2-rescue-tails.json](./316331-sonic-2-rescue-tails.json) |
+| Sonic 2: Return to Westside Island | 306728 | [306728-sonic-2-return-to-westside-island.json](./306728-sonic-2-return-to-westside-island.json) |
 | Sonic 2: Westside Renovation | 361653 | [361653-sonic-2-westside-renovation.json](./361653-sonic-2-westside-renovation.json) |
 | Sonic 2.5 | 333711 | [333711-sonic-2-5.json](./333711-sonic-2-5.json) |
 | Sonic 2006 | 310952 | [310952-sonic-2006.json](./310952-sonic-2006.json) |
@@ -36201,6 +36204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Mania HD | 24271 | [24271-supermarket-mania-hd.json](./24271-supermarket-mania-hd.json) |
 | Supermarket Mania Journey | 182006 | [182006-supermarket-mania-journey.json](./182006-supermarket-mania-journey.json) |
 | Supermarket Mania: Match 3 | 334007 | [334007-supermarket-mania-match-3.json](./334007-supermarket-mania-match-3.json) |
+| Supermarket Owner Simulator: Business | 306747 | [306747-supermarket-owner-simulator-business.json](./306747-supermarket-owner-simulator-business.json) |
 | Supermarket Security Simulator | 275234 | [275234-supermarket-security-simulator.json](./275234-supermarket-security-simulator.json) |
 | Supermarket Shopping Simulator | 298437 | [298437-supermarket-shopping-simulator.json](./298437-supermarket-shopping-simulator.json) |
 | Supermarket Shriek | 107170 | [107170-supermarket-shriek.json](./107170-supermarket-shriek.json) |
