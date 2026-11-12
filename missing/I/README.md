@@ -4260,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Blade Saga | 79077 | [79077-infinity-blade-saga.json](./79077-infinity-blade-saga.json) |
 | Infinity Blade: Dungeons | 65359 | [65359-infinity-blade-dungeons.json](./65359-infinity-blade-dungeons.json) |
 | Infinity Blocks | 301612 | [301612-infinity-blocks.json](./301612-infinity-blocks.json) |
+| Infinity Boob Clicker | 289500 | [289500-infinity-boob-clicker.json](./289500-infinity-boob-clicker.json) |
 | Infinity Bounce | 412398 | [412398-infinity-bounce.json](./412398-infinity-bounce.json) |
 | Infinity Castle Dungeon | 274331 | [274331-infinity-castle-dungeon.json](./274331-infinity-castle-dungeon.json) |
 | Infinity Cats Project | 332964 | [332964-infinity-cats-project.json](./332964-infinity-cats-project.json) |
