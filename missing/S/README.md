@@ -3223,6 +3223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Cafeteria Simulator | 263105 | [263105-school-cafeteria-simulator.json](./263105-school-cafeteria-simulator.json) |
 | School Corridor | 364169 | [364169-school-corridor.json](./364169-school-corridor.json) |
 | School Crisis | 391605 | [391605-school-crisis.json](./391605-school-crisis.json) |
+| School Curse | 278120 | [278120-school-curse.json](./278120-school-curse.json) |
 | School Curse2 | 280169 | [280169-school-curse2.json](./280169-school-curse2.json) |
 | School Curse3 | 283343 | [283343-school-curse3.json](./283343-school-curse3.json) |
 | School Days | 135488 | [135488-school-days.json](./135488-school-days.json) |
@@ -8068,6 +8069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of the Realm | 339696 | [339696-shards-of-the-realm.json](./339696-shards-of-the-realm.json) |
 | Shards of Titan | 102035 | [102035-shards-of-titan.json](./102035-shards-of-titan.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
+| Shards Online | 278114 | [278114-shards-online.json](./278114-shards-online.json) |
 | Shards Online | 57990 | [57990-shards-online.json](./57990-shards-online.json) |
 | Shards Reunited: Kintsugi | 341746 | [341746-shards-reunited-kintsugi.json](./341746-shards-reunited-kintsugi.json) |
 | Shards the Deckbuilder | 97413 | [97413-shards-the-deckbuilder.json](./97413-shards-the-deckbuilder.json) |
@@ -10480,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuffleboard | 359747 | [359747-shuffleboard.json](./359747-shuffleboard.json) |
 | Shuffleboard 2023 | 231900 | [231900-shuffleboard-2023.json](./231900-shuffleboard-2023.json) |
 | Shuffled Nightmares | 132602 | [132602-shuffled-nightmares.json](./132602-shuffled-nightmares.json) |
+| Shuffled Sky | 278121 | [278121-shuffled-sky.json](./278121-shuffled-sky.json) |
 | Shuffled Words | 219608 | [219608-shuffled-words.json](./219608-shuffled-words.json) |
 | Shufflepoker | 211011 | [211011-shufflepoker.json](./211011-shufflepoker.json) |
 | Shufflepuck | 282841 | [282841-shufflepuck.json](./282841-shufflepuck.json) |
@@ -12180,6 +12183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | sin(Surfing) | 79647 | [79647-sin-surfing.json](./79647-sin-surfing.json) |
 | Sina | 185008 | [185008-sina.json](./185008-sina.json) |
 | Sina | 291308 | [291308-sina.json](./291308-sina.json) |
+| Sinabro | 278122 | [278122-sinabro.json](./278122-sinabro.json) |
 | Sinag | 293317 | [293317-sinag.json](./293317-sinag.json) |
 | Sinbad | 131198 | [131198-sinbad.json](./131198-sinbad.json) |
 | Sinbad | 211527 | [211527-sinbad.json](./211527-sinbad.json) |
@@ -15888,6 +15892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snack Invaders | 392275 | [392275-snack-invaders.json](./392275-snack-invaders.json) |
 | Snack King | 66562 | [66562-snack-king.json](./66562-snack-king.json) |
 | Snack Machine Change | 356576 | [356576-snack-machine-change.json](./356576-snack-machine-change.json) |
+| Snack Of The Kitty | 278123 | [278123-snack-of-the-kitty.json](./278123-snack-of-the-kitty.json) |
 | Snack Pack 3: Trick or Treat | 275317 | [275317-snack-pack-3-trick-or-treat.json](./275317-snack-pack-3-trick-or-treat.json) |
 | Snack Scoffer | 198515 | [198515-snack-scoffer.json](./198515-snack-scoffer.json) |
 | Snack Stall | 200789 | [200789-snack-stall.json](./200789-snack-stall.json) |
@@ -20303,6 +20308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulSet: Necromancer Edition | 53623 | [53623-soulset-necromancer-edition.json](./53623-soulset-necromancer-edition.json) |
 | SoulShake | 295597 | [295597-soulshake.json](./295597-soulshake.json) |
 | Soulshape | 182614 | [182614-soulshape.json](./182614-soulshape.json) |
+| Soulshard | 278124 | [278124-soulshard.json](./278124-soulshard.json) |
 | SoulShards Arena | 197223 | [197223-soulshards-arena.json](./197223-soulshards-arena.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
 | Soulsland | 180014 | [180014-soulsland.json](./180014-soulsland.json) |
@@ -24024,6 +24030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splat! | 280167 | [280167-splat.json](./280167-splat.json) |
 | Splat! | 46870 | [46870-splat.json](./46870-splat.json) |
 | Splat! 2 | 416580 | [416580-splat-2.json](./416580-splat-2.json) |
+| Splatch! | 278038 | [278038-splatch.json](./278038-splatch.json) |
 | Splatchinko | 414085 | [414085-splatchinko.json](./414085-splatchinko.json) |
 | Splatformer | 191166 | [191166-splatformer.json](./191166-splatformer.json) |
 | SplatooD | 195524 | [195524-splatood.json](./195524-splatood.json) |
@@ -27686,6 +27693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starveling Way | 166897 | [166897-starveling-way.json](./166897-starveling-way.json) |
 | Starverse: Requiem Aeternam Eden | 342543 | [342543-starverse-requiem-aeternam-eden.json](./342543-starverse-requiem-aeternam-eden.json) |
 | Starvester | 382810 | [382810-starvester.json](./382810-starvester.json) |
+| Starvin Martian | 278184 | [278184-starvin-martian.json](./278184-starvin-martian.json) |
 | Starving | 28754 | [28754-starving.json](./28754-starving.json) |
 | Starving Cat | 326004 | [326004-starving-cat.json](./326004-starving-cat.json) |
 | Starving Gods | 401928 | [401928-starving-gods.json](./401928-starving-gods.json) |
@@ -34604,6 +34612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario World DX | 341956 | [341956-super-mario-world-dx.json](./341956-super-mario-world-dx.json) |
 | Super Mario World Odyssey | 247185 | [247185-super-mario-world-odyssey.json](./247185-super-mario-world-odyssey.json) |
 | Super Mario World Randomizer | 182184 | [182184-super-mario-world-randomizer.json](./182184-super-mario-world-randomizer.json) |
+| Super Mario World Redone: Luigi Version | 278033 | [278033-super-mario-world-redone-luigi-version.json](./278033-super-mario-world-redone-luigi-version.json) |
 | Super Mario World Remastered | 339866 | [339866-super-mario-world-remastered.json](./339866-super-mario-world-remastered.json) |
 | Super Mario World Remix | 141607 | [141607-super-mario-world-remix.json](./141607-super-mario-world-remix.json) |
 | Super Mario World Rumbled | 377736 | [377736-super-mario-world-rumbled.json](./377736-super-mario-world-rumbled.json) |
@@ -35640,6 +35649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Spirit Board Challenge Pack 4 | 342876 | [342876-super-smash-bros-ultimate-spirit-board-challenge-pack-4.json](./342876-super-smash-bros-ultimate-spirit-board-challenge-pack-4.json) |
 | Super Smash Bros. Ultimate: Susie Moveset | 395025 | [395025-super-smash-bros-ultimate-susie-moveset.json](./395025-super-smash-bros-ultimate-susie-moveset.json) |
 | Super Smash Bros. Ultimate: Tails Outfit and Hat | 317935 | [317935-super-smash-bros-ultimate-tails-outfit-and-hat.json](./317935-super-smash-bros-ultimate-tails-outfit-and-hat.json) |
+| Super Smash Bros. Ultimate: Tears of the Kingdom Link | 278046 | [278046-super-smash-bros-ultimate-tears-of-the-kingdom-link.json](./278046-super-smash-bros-ultimate-tears-of-the-kingdom-link.json) |
 | Super Smash Bros. Ultimate: Teddie Hat | 317936 | [317936-super-smash-bros-ultimate-teddie-hat.json](./317936-super-smash-bros-ultimate-teddie-hat.json) |
 | Super Smash Bros. Ultimate: Tetrimino Moveset | 385674 | [385674-super-smash-bros-ultimate-tetrimino-moveset.json](./385674-super-smash-bros-ultimate-tetrimino-moveset.json) |
 | Super Smash Bros. Ultimate: The Alucard Moveset | 281459 | [281459-super-smash-bros-ultimate-the-alucard-moveset.json](./281459-super-smash-bros-ultimate-the-alucard-moveset.json) |
@@ -38138,6 +38148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swivel Shooter | 176150 | [176150-swivel-shooter.json](./176150-swivel-shooter.json) |
 | SWmud | 228912 | [228912-swmud.json](./228912-swmud.json) |
 | Swole | 398664 | [398664-swole.json](./398664-swole.json) |
+| Swole Mole | 278125 | [278125-swole-mole.json](./278125-swole-mole.json) |
 | Swolemochao 1 & 2: Gym of the Year Edition | 265882 | [265882-swolemochao-1-and-2-gym-of-the-year-edition.json](./265882-swolemochao-1-and-2-gym-of-the-year-edition.json) |
 | Swoon! | 153998 | [153998-swoon.json](./153998-swoon.json) |
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
