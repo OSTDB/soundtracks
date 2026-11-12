@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saber y Ganar | 294653 | [294653-saber-y-ganar.json](./294653-saber-y-ganar.json) |
 | SaberSaw VR | 32145 | [32145-sabersaw-vr.json](./32145-sabersaw-vr.json) |
 | Sabine's Mission | 359452 | [359452-sabines-mission.json](./359452-sabines-mission.json) |
+| Sabishii | 294875 | [294875-sabishii.json](./294875-sabishii.json) |
 | Sable Maze: Forbidden Garden | 139726 | [139726-sable-maze-forbidden-garden.json](./139726-sable-maze-forbidden-garden.json) |
 | Sable Maze: Forbidden Garden - Collector's Edition | 95244 | [95244-sable-maze-forbidden-garden-collectors-edition.json](./95244-sable-maze-forbidden-garden-collectors-edition.json) |
 | Sable Maze: Forbidden Garden & Sable Maze: Twelve Fears | 201822 | [201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json](./201822-sable-maze-forbidden-garden-and-sable-maze-twelve-fears.json) |
@@ -3048,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarygirl Illustration Kit | 85364 | [85364-scarygirl-illustration-kit.json](./85364-scarygirl-illustration-kit.json) |
 | Scarytales: All Hail King Mongo | 118642 | [118642-scarytales-all-hail-king-mongo.json](./118642-scarytales-all-hail-king-mongo.json) |
 | Scatch 2: The Painter Cat | 278983 | [278983-scatch-2-the-painter-cat.json](./278983-scatch-2-the-painter-cat.json) |
+| Scatch 2x1 | 294889 | [294889-scatch-2x1.json](./294889-scatch-2x1.json) |
 | Scatch: The Painter Cat | 195960 | [195960-scatch-the-painter-cat.json](./195960-scatch-the-painter-cat.json) |
 | Scatter | 114247 | [114247-scatter.json](./114247-scatter.json) |
 | Scattered Ashes | 268966 | [268966-scattered-ashes.json](./268966-scattered-ashes.json) |
@@ -4565,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search All: Flies | 285713 | [285713-search-all-flies.json](./285713-search-all-flies.json) |
 | Search All: Foxes | 191008 | [191008-search-all-foxes.json](./191008-search-all-foxes.json) |
 | Search All: Fruits | 240583 | [240583-search-all-fruits.json](./240583-search-all-fruits.json) |
+| Search All: Hearts | 294905 | [294905-search-all-hearts.json](./294905-search-all-hearts.json) |
 | Search All: Keys | 219614 | [219614-search-all-keys.json](./219614-search-all-keys.json) |
 | Search All: Lollipops | 289714 | [289714-search-all-lollipops.json](./289714-search-all-lollipops.json) |
 | Search All: Mice | 219615 | [219615-search-all-mice.json](./219615-search-all-mice.json) |
@@ -28018,6 +28021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamulator 2019 | 105102 | [105102-steamulator-2019.json](./105102-steamulator-2019.json) |
 | SteamWorld Build & Dig Bundle | 279037 | [279037-steamworld-build-and-dig-bundle.json](./279037-steamworld-build-and-dig-bundle.json) |
 | SteamWorld Build: Deluxe Edition | 295643 | [295643-steamworld-build-deluxe-edition.json](./295643-steamworld-build-deluxe-edition.json) |
+| SteamWorld Build: Mechanized | 294897 | [294897-steamworld-build-mechanized.json](./294897-steamworld-build-mechanized.json) |
 | SteamWorld Collection | 24421 | [24421-steamworld-collection.json](./24421-steamworld-collection.json) |
 | SteamWorld Dig | 5772 | [5772-steamworld-dig.json](./5772-steamworld-dig.json) |
 | SteamWorld Dig 2 | 27433 | [27433-steamworld-dig-2.json](./27433-steamworld-dig-2.json) |
