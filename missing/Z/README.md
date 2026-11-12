@@ -2359,6 +2359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zomt | 397171 | [397171-zomt.json](./397171-zomt.json) |
 | Zomvac | 354131 | [354131-zomvac.json](./354131-zomvac.json) |
 | ZomVox | 410705 | [410705-zomvox.json](./410705-zomvox.json) |
+| ZomWick | 264262 | [264262-zomwick.json](./264262-zomwick.json) |
 | Zomzoms | 130381 | [130381-zomzoms.json](./130381-zomzoms.json) |
 | Zona 0 | 45374 | [45374-zona-0.json](./45374-zona-0.json) |
 | Zonark | 345379 | [345379-zonark.json](./345379-zonark.json) |
