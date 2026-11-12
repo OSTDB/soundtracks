@@ -2267,6 +2267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parallel Levels | 409141 | [409141-parallel-levels.json](./409141-parallel-levels.json) |
 | Parallel Olympus | 156132 | [156132-parallel-olympus.json](./156132-parallel-olympus.json) |
 | Parallel Pals | 253531 | [253531-parallel-pals.json](./253531-parallel-pals.json) |
+| Parallel Paths | 249508 | [249508-parallel-paths.json](./249508-parallel-paths.json) |
 | Parallel Pixel | 103422 | [103422-parallel-pixel.json](./103422-parallel-pixel.json) |
 | Parallel Plague: Good Old Days | 290487 | [290487-parallel-plague-good-old-days.json](./290487-parallel-plague-good-old-days.json) |
 | Parallel Rift | 332300 | [332300-parallel-rift.json](./332300-parallel-rift.json) |
@@ -20338,6 +20339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyo | 177155 | [177155-pyo.json](./177155-pyo.json) |
 | Pyon-pyon Kyaruru no Mahjong-Biyori | 279678 | [279678-pyon-pyon-kyaruru-no-mahjong-biyori.json](./279678-pyon-pyon-kyaruru-no-mahjong-biyori.json) |
 | Pyongyang Racer | 64090 | [64090-pyongyang-racer.json](./64090-pyongyang-racer.json) |
+| Pyoro + | 250059 | [250059-pyoro.json](./250059-pyoro.json) |
 | Pyoro 64 | 142231 | [142231-pyoro-64.json](./142231-pyoro-64.json) |
 | Pyracubes | 175055 | [175055-pyracubes.json](./175055-pyracubes.json) |
 | Pyracurse | 28483 | [28483-pyracurse.json](./28483-pyracurse.json) |
