@@ -3267,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Supercross | 50393 | [50393-action-supercross.json](./50393-action-supercross.json) |
 | Action SuperCross | 174453 | [174453-action-supercross.json](./174453-action-supercross.json) |
 | Action Turnip | 242896 | [242896-action-turnip.json](./242896-action-turnip.json) |
+| Action Unreal Tournament 2004 | 288927 | [288927-action-unreal-tournament-2004.json](./288927-action-unreal-tournament-2004.json) |
 | Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
 | Action: Source | 192032 | [192032-action-source.json](./192032-action-source.json) |
 | Action: Vengeance | 212641 | [212641-action-vengeance.json](./212641-action-vengeance.json) |
