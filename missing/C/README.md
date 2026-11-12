@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Crunch | 105954 | [105954-card-crunch.json](./105954-card-crunch.json) |
 | Card Cultivation | 369080 | [369080-card-cultivation.json](./369080-card-cultivation.json) |
 | Card Cultivation: Nine Palaces Illusory Realm | 297916 | [297916-card-cultivation-nine-palaces-illusory-realm.json](./297916-card-cultivation-nine-palaces-illusory-realm.json) |
+| Card de Asobu! Hajimete no DS | 269726 | [269726-card-de-asobu-hajimete-no-ds.json](./269726-card-de-asobu-hajimete-no-ds.json) |
 | Card de Renketsu! Densha de GO! | 146596 | [146596-card-de-renketsu-densha-de-go.json](./146596-card-de-renketsu-densha-de-go.json) |
 | Card Detective | 253535 | [253535-card-detective.json](./253535-card-detective.json) |
 | Card Draw | 334643 | [334643-card-draw.json](./334643-card-draw.json) |
@@ -2654,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Games for Windows | 80449 | [80449-card-games-for-windows.json](./80449-card-games-for-windows.json) |
 | Card Games Mega Collection | 104032 | [104032-card-games-mega-collection.json](./104032-card-games-mega-collection.json) |
 | Card Games: Solitaire and more | 232363 | [232363-card-games-solitaire-and-more.json](./232363-card-games-solitaire-and-more.json) |
+| Card Games: The Classics | 269727 | [269727-card-games-the-classics.json](./269727-card-games-the-classics.json) |
 | Card Gauntlet | 335363 | [335363-card-gauntlet.json](./335363-card-gauntlet.json) |
 | Card Girl Army | 195205 | [195205-card-girl-army.json](./195205-card-girl-army.json) |
 | Card Girl Army II | 196692 | [196692-card-girl-army-ii.json](./196692-card-girl-army-ii.json) |
@@ -4241,6 +4243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castrum Novum VR: Life in a Roman Colony | 224930 | [224930-castrum-novum-vr-life-in-a-roman-colony.json](./224930-castrum-novum-vr-life-in-a-roman-colony.json) |
 | Casual Birder | 151962 | [151962-casual-birder.json](./151962-casual-birder.json) |
 | Casual Challenge Players' Club | 173920 | [173920-casual-challenge-players-club.json](./173920-casual-challenge-players-club.json) |
+| Casual Classics | 269730 | [269730-casual-classics.json](./269730-casual-classics.json) |
 | Casual Coins | 197687 | [197687-casual-coins.json](./197687-casual-coins.json) |
 | Casual Combo Collection | 206902 | [206902-casual-combo-collection.json](./206902-casual-combo-collection.json) |
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
@@ -5622,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CEdges | 68678 | [68678-cedges.json](./68678-cedges.json) |
 | Cedric & Odious | 328270 | [328270-cedric-and-odious.json](./328270-cedric-and-odious.json) |
 | Cedric and the Revolution | 70030 | [70030-cedric-and-the-revolution.json](./70030-cedric-and-the-revolution.json) |
+| Cedric: L'Anniversaire de Chen | 269794 | [269794-cedric-lanniversaire-de-chen.json](./269794-cedric-lanniversaire-de-chen.json) |
 | CeeBot-A | 94574 | [94574-ceebot-a.json](./94574-ceebot-a.json) |
 | CeeBot3 Educational Programming Software | 131131 | [131131-ceebot3-educational-programming-software.json](./131131-ceebot3-educational-programming-software.json) |
 | Cefore | 28647 | [28647-cefore.json](./28647-cefore.json) |
@@ -5883,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Center of Gravity | 29158 | [29158-center-of-gravity.json](./29158-center-of-gravity.json) |
 | Center Ring Boxing | 92548 | [92548-center-ring-boxing.json](./92548-center-ring-boxing.json) |
 | Center Shiken Trial: Eigo no Tetsujin | 386523 | [386523-center-shiken-trial-eigo-no-tetsujin.json](./386523-center-shiken-trial-eigo-no-tetsujin.json) |
+| Center Shiken: Eigo Listening Sokushuu DS | 269796 | [269796-center-shiken-eigo-listening-sokushuu-ds.json](./269796-center-shiken-eigo-listening-sokushuu-ds.json) |
 | Center Station Simulator | 288937 | [288937-center-station-simulator.json](./288937-center-station-simulator.json) |
 | Centerfold Squares | 11996 | [11996-centerfold-squares.json](./11996-centerfold-squares.json) |
 | Centi-Bug | 94568 | [94568-centi-bug.json](./94568-centi-bug.json) |
@@ -7655,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chi Project | 324315 | [324315-chi-project.json](./324315-chi-project.json) |
 | Chi to Ase to Namida no Koukou Yakyuu | 65638 | [65638-chi-to-ase-to-namida-no-koukou-yakyuu.json](./65638-chi-to-ase-to-namida-no-koukou-yakyuu.json) |
 | Chi Vuol Essere Milionario? | 319930 | [319930-chi-vuol-essere-milionario.json](./319930-chi-vuol-essere-milionario.json) |
+| Chi's Sweet Home: Chi ga Ouchi ni Yatte Kita! | 269797 | [269797-chis-sweet-home-chi-ga-ouchi-ni-yatte-kita.json](./269797-chis-sweet-home-chi-ga-ouchi-ni-yatte-kita.json) |
 | Chiaroscuro | 138739 | [138739-chiaroscuro.json](./138739-chiaroscuro.json) |
 | Chiaroscuro Imago | 377300 | [377300-chiaroscuro-imago.json](./377300-chiaroscuro-imago.json) |
 | Chiaroscuro Lovers | 411772 | [411772-chiaroscuro-lovers.json](./411772-chiaroscuro-lovers.json) |
@@ -7977,7 +7983,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chikyu Kaimetsu teki B-kyu Kanojo | 63341 | [63341-chikyu-kaimetsu-teki-b-kyu-kanojo.json](./63341-chikyu-kaimetsu-teki-b-kyu-kanojo.json) |
 | Chikyuu Bouei Shoujo Iko-chan: UFO Daisakusen | 58781 | [58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json](./58781-chikyuu-bouei-shoujo-iko-chan-ufo-daisakusen.json) |
 | Chikyuu Kaihou Gun ZAS | 91883 | [91883-chikyuu-kaihou-gun-zas.json](./91883-chikyuu-kaihou-gun-zas.json) |
+| Chikyuu no Arukikata DS: England '07-'08 | 269805 | [269805-chikyuu-no-arukikata-ds-england-07-08.json](./269805-chikyuu-no-arukikata-ds-england-07-08.json) |
+| Chikyuu no Arukikata DS: France '07-'08 | 269806 | [269806-chikyuu-no-arukikata-ds-france-07-08.json](./269806-chikyuu-no-arukikata-ds-france-07-08.json) |
+| Chikyuu no Arukikata DS: Hawaii '07-'08: Oahu-tou | 269803 | [269803-chikyuu-no-arukikata-ds-hawaii-07-08-oahu-tou.json](./269803-chikyuu-no-arukikata-ds-hawaii-07-08-oahu-tou.json) |
+| Chikyuu no Arukikata DS: Hong Kong '07-'08 | 269804 | [269804-chikyuu-no-arukikata-ds-hong-kong-07-08.json](./269804-chikyuu-no-arukikata-ds-hong-kong-07-08.json) |
+| Chikyuu no Arukikata DS: Italia '07-'08: Roma, Milano, Firenze, Venezia | 269802 | [269802-chikyuu-no-arukikata-ds-italia-07-08-roma-milano-firenze-venezia.json](./269802-chikyuu-no-arukikata-ds-italia-07-08-roma-milano-firenze-venezia.json) |
+| Chikyuu no Arukikata DS: New York '07-'08 | 269807 | [269807-chikyuu-no-arukikata-ds-new-york-07-08.json](./269807-chikyuu-no-arukikata-ds-new-york-07-08.json) |
+| Chikyuu no Arukikata DS: Seoul, Busan '07-'08 | 269808 | [269808-chikyuu-no-arukikata-ds-seoul-busan-07-08.json](./269808-chikyuu-no-arukikata-ds-seoul-busan-07-08.json) |
 | Chikyuu no Arukikata DS: Shanghai, Hangzhou, Suzhou '07-'08 | 269750 | [269750-chikyuu-no-arukikata-ds-shanghai-hangzhou-suzhou-07-08.json](./269750-chikyuu-no-arukikata-ds-shanghai-hangzhou-suzhou-07-08.json) |
+| Chikyuu no Arukikata DS: Taiwan '07-'08 | 269809 | [269809-chikyuu-no-arukikata-ds-taiwan-07-08.json](./269809-chikyuu-no-arukikata-ds-taiwan-07-08.json) |
+| Chikyuu no Arukikata DS: Thai '07-'08 | 269810 | [269810-chikyuu-no-arukikata-ds-thai-07-08.json](./269810-chikyuu-no-arukikata-ds-thai-07-08.json) |
 | Chikyuu no Fushigi Naaze Naaze? | 278204 | [278204-chikyuu-no-fushigi-naaze-naaze.json](./278204-chikyuu-no-fushigi-naaze-naaze.json) |
 | Chikyuu Senshi Rayieza | 62614 | [62614-chikyuu-senshi-rayieza.json](./62614-chikyuu-senshi-rayieza.json) |
 | CHiLD | 70908 | [70908-child.json](./70908-child.json) |
@@ -8712,6 +8727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
 | Chou Gals! Kotobuki Ran | 65635 | [65635-chou-gals-kotobuki-ran.json](./65635-chou-gals-kotobuki-ran.json) |
 | Chou Gals! Kotobuki Ran 2 | 65634 | [65634-chou-gals-kotobuki-ran-2.json](./65634-chou-gals-kotobuki-ran-2.json) |
+| Chou Gekijouban Keroro Gunsou 3: Tenkuu Daibouken de Arimasu! | 269799 | [269799-chou-gekijouban-keroro-gunsou-3-tenkuu-daibouken-de-arimasu.json](./269799-chou-gekijouban-keroro-gunsou-3-tenkuu-daibouken-de-arimasu.json) |
 | Chou Gekijouban Keroro Gunsou: Enshuu Da yo! Zenin Shuugou | 61417 | [61417-chou-gekijouban-keroro-gunsou-enshuu-da-yo-zenin-shuugou.json](./61417-chou-gekijouban-keroro-gunsou-enshuu-da-yo-zenin-shuugou.json) |
 | Chou Gekijouban Keroro Gunsou: Gekishin Dragon Warriors de Arimasu! | 69199 | [69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json](./69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json) |
 | Chou Hakai Keikaku kara no Dasshutsu | 222224 | [222224-chou-hakai-keikaku-kara-no-dasshutsu.json](./222224-chou-hakai-keikaku-kara-no-dasshutsu.json) |
@@ -10868,6 +10884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claustrophobia: The Downward Struggle | 9797 | [9797-claustrophobia-the-downward-struggle.json](./9797-claustrophobia-the-downward-struggle.json) |
 | Claustrophobic Nights | 267548 | [267548-claustrophobic-nights.json](./267548-claustrophobic-nights.json) |
 | ClaustrophobicCrypt | 311504 | [311504-claustrophobiccrypt.json](./311504-claustrophobiccrypt.json) |
+| Claustrorush | 269790 | [269790-claustrorush.json](./269790-claustrorush.json) |
 | Claustrum | 414597 | [414597-claustrum.json](./414597-claustrum.json) |
 | Clausum | 236433 | [236433-clausum.json](./236433-clausum.json) |
 | Clavis Kinkygate: Treasure of Danau River | 294033 | [294033-clavis-kinkygate-treasure-of-danau-river.json](./294033-clavis-kinkygate-treasure-of-danau-river.json) |
@@ -20385,6 +20402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Maidens: Unleashed | 375950 | [375950-crystal-maidens-unleashed.json](./375950-crystal-maidens-unleashed.json) |
 | Crystal Math | 257428 | [257428-crystal-math.json](./257428-crystal-math.json) |
 | Crystal Maze | 85792 | [85792-crystal-maze.json](./85792-crystal-maze.json) |
+| Crystal Mines | 269731 | [269731-crystal-mines.json](./269731-crystal-mines.json) |
 | Crystal Mines | 48141 | [48141-crystal-mines.json](./48141-crystal-mines.json) |
 | Crystal Mines II: Buried Treasure Expansion Pack | 137507 | [137507-crystal-mines-ii-buried-treasure-expansion-pack.json](./137507-crystal-mines-ii-buried-treasure-expansion-pack.json) |
 | Crystal Monsters | 79538 | [79538-crystal-monsters.json](./79538-crystal-monsters.json) |
