@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.E.L.P.: The Heroes Enhancing Lives Program | 151919 | [151919-h-e-l-p-the-heroes-enhancing-lives-program.json](./151919-h-e-l-p-the-heroes-enhancing-lives-program.json) |
 | H.E.N.T.A.L.K.E.R. | 311098 | [311098-h-e-n-t-a-l-k-e-r.json](./311098-h-e-n-t-a-l-k-e-r.json) |
 | H.E.R.O: Human Extraction and Rescue Operation | 67808 | [67808-h-e-r-o-human-extraction-and-rescue-operation.json](./67808-h-e-r-o-human-extraction-and-rescue-operation.json) |
+| H.E.R.O. | 276432 | [276432-h-e-r-o.json](./276432-h-e-r-o.json) |
 | H.E.R.O. | 6112 | [6112-h-e-r-o.json](./6112-h-e-r-o.json) |
 | H.G. | 340858 | [340858-h-g.json](./340858-h-g.json) |
 | H.I.A: Horror Investigation Agency | 253523 | [253523-h-i-a-horror-investigation-agency.json](./253523-h-i-a-horror-investigation-agency.json) |
@@ -1157,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Bob | 147862 | [147862-hamster-bob.json](./147862-hamster-bob.json) |
 | Hamster Bomba | 312028 | [312028-hamster-bomba.json](./312028-hamster-bomba.json) |
 | Hamster Clicker! | 340410 | [340410-hamster-clicker.json](./340410-hamster-clicker.json) |
+| Hamster Club | 276372 | [276372-hamster-club.json](./276372-hamster-club.json) |
 | Hamster Club 2 | 281543 | [281543-hamster-club-2.json](./281543-hamster-club-2.json) |
 | Hamster Club 4: Shigessa Daidassou | 49592 | [49592-hamster-club-4-shigessa-daidassou.json](./49592-hamster-club-4-shigessa-daidassou.json) |
 | Hamster Club-i | 143657 | [143657-hamster-club-i.json](./143657-hamster-club-i.json) |
@@ -10273,7 +10275,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Arrow of Novae | 276426 | [276426-honkai-impact-3rd-arrow-of-novae.json](./276426-honkai-impact-3rd-arrow-of-novae.json) |
 | Honkai Impact 3rd: As Thunders Filled the Sky | 279719 | [279719-honkai-impact-3rd-as-thunders-filled-the-sky.json](./279719-honkai-impact-3rd-as-thunders-filled-the-sky.json) |
 | Honkai Impact 3rd: Aurelia Invicta | 279710 | [279710-honkai-impact-3rd-aurelia-invicta.json](./279710-honkai-impact-3rd-aurelia-invicta.json) |
+| Honkai Impact 3rd: Banquet of Helix | 276427 | [276427-honkai-impact-3rd-banquet-of-helix.json](./276427-honkai-impact-3rd-banquet-of-helix.json) |
 | Honkai Impact 3rd: Blazing Hope | 279707 | [279707-honkai-impact-3rd-blazing-hope.json](./279707-honkai-impact-3rd-blazing-hope.json) |
+| Honkai Impact 3rd: Canvas of Stars | 276430 | [276430-honkai-impact-3rd-canvas-of-stars.json](./276430-honkai-impact-3rd-canvas-of-stars.json) |
 | Honkai Impact 3rd: Crusade of Chasing Shadows | 304037 | [304037-honkai-impact-3rd-crusade-of-chasing-shadows.json](./304037-honkai-impact-3rd-crusade-of-chasing-shadows.json) |
 | Honkai Impact 3rd: Cutting Dreams at Dawn | 268770 | [268770-honkai-impact-3rd-cutting-dreams-at-dawn.json](./268770-honkai-impact-3rd-cutting-dreams-at-dawn.json) |
 | Honkai Impact 3rd: Cyberangel | 281576 | [281576-honkai-impact-3rd-cyberangel.json](./281576-honkai-impact-3rd-cyberangel.json) |
@@ -10293,7 +10297,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Flickers of a Spacetime Warp | 350593 | [350593-honkai-impact-3rd-flickers-of-a-spacetime-warp.json](./350593-honkai-impact-3rd-flickers-of-a-spacetime-warp.json) |
 | Honkai Impact 3rd: Florid Mitama | 362027 | [362027-honkai-impact-3rd-florid-mitama.json](./362027-honkai-impact-3rd-florid-mitama.json) |
 | Honkai Impact 3rd: For the Stars Shall Defy Fate | 362261 | [362261-honkai-impact-3rd-for-the-stars-shall-defy-fate.json](./362261-honkai-impact-3rd-for-the-stars-shall-defy-fate.json) |
+| Honkai Impact 3rd: From Finality, The Origin | 276367 | [276367-honkai-impact-3rd-from-finality-the-origin.json](./276367-honkai-impact-3rd-from-finality-the-origin.json) |
 | Honkai Impact 3rd: Hacked | 279432 | [279432-honkai-impact-3rd-hacked.json](./279432-honkai-impact-3rd-hacked.json) |
+| Honkai Impact 3rd: Hot Sands Escapade | 276363 | [276363-honkai-impact-3rd-hot-sands-escapade.json](./276363-honkai-impact-3rd-hot-sands-escapade.json) |
 | Honkai Impact 3rd: In Search of the Sun | 327458 | [327458-honkai-impact-3rd-in-search-of-the-sun.json](./327458-honkai-impact-3rd-in-search-of-the-sun.json) |
 | Honkai Impact 3rd: Infinite Future | 276502 | [276502-honkai-impact-3rd-infinite-future.json](./276502-honkai-impact-3rd-infinite-future.json) |
 | Honkai Impact 3rd: Inherit the Flame | 276527 | [276527-honkai-impact-3rd-inherit-the-flame.json](./276527-honkai-impact-3rd-inherit-the-flame.json) |
@@ -10315,13 +10321,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Ritual Imayoh Revival | 362028 | [362028-honkai-impact-3rd-ritual-imayoh-revival.json](./362028-honkai-impact-3rd-ritual-imayoh-revival.json) |
 | Honkai Impact 3rd: Rosemary's Nocturne | 279716 | [279716-honkai-impact-3rd-rosemarys-nocturne.json](./279716-honkai-impact-3rd-rosemarys-nocturne.json) |
 | Honkai Impact 3rd: Roving Among Clouds | 340972 | [340972-honkai-impact-3rd-roving-among-clouds.json](./340972-honkai-impact-3rd-roving-among-clouds.json) |
+| Honkai Impact 3rd: Saha and Rebirth | 276355 | [276355-honkai-impact-3rd-saha-and-rebirth.json](./276355-honkai-impact-3rd-saha-and-rebirth.json) |
 | Honkai Impact 3rd: Sakura Samsara | 361351 | [361351-honkai-impact-3rd-sakura-samsara.json](./361351-honkai-impact-3rd-sakura-samsara.json) |
 | Honkai Impact 3rd: Silverwing: Beyond | 276498 | [276498-honkai-impact-3rd-silverwing-beyond.json](./276498-honkai-impact-3rd-silverwing-beyond.json) |
+| Honkai Impact 3rd: Song of Perdition | 276435 | [276435-honkai-impact-3rd-song-of-perdition.json](./276435-honkai-impact-3rd-song-of-perdition.json) |
 | Honkai Impact 3rd: Starbound Painter | 279423 | [279423-honkai-impact-3rd-starbound-painter.json](./279423-honkai-impact-3rd-starbound-painter.json) |
 | Honkai Impact 3rd: Starlit Sanctum | 279723 | [279723-honkai-impact-3rd-starlit-sanctum.json](./279723-honkai-impact-3rd-starlit-sanctum.json) |
 | Honkai Impact 3rd: Stars Derailed | 322783 | [322783-honkai-impact-3rd-stars-derailed.json](./322783-honkai-impact-3rd-stars-derailed.json) |
+| Honkai Impact 3rd: Straying Stars | 276356 | [276356-honkai-impact-3rd-straying-stars.json](./276356-honkai-impact-3rd-straying-stars.json) |
 | Honkai Impact 3rd: Stygian Nymph | 281574 | [281574-honkai-impact-3rd-stygian-nymph.json](./281574-honkai-impact-3rd-stygian-nymph.json) |
 | Honkai Impact 3rd: Sublime Spring | 281571 | [281571-honkai-impact-3rd-sublime-spring.json](./281571-honkai-impact-3rd-sublime-spring.json) |
+| Honkai Impact 3rd: Symphony of Truth | 276368 | [276368-honkai-impact-3rd-symphony-of-truth.json](./276368-honkai-impact-3rd-symphony-of-truth.json) |
 | Honkai Impact 3rd: The Banquet Operative | 383390 | [383390-honkai-impact-3rd-the-banquet-operative.json](./383390-honkai-impact-3rd-the-banquet-operative.json) |
 | Honkai Impact 3rd: The Chrono and the Hare | 276421 | [276421-honkai-impact-3rd-the-chrono-and-the-hare.json](./276421-honkai-impact-3rd-the-chrono-and-the-hare.json) |
 | Honkai Impact 3rd: The Fleet Sets Sail | 361297 | [361297-honkai-impact-3rd-the-fleet-sets-sail.json](./361297-honkai-impact-3rd-the-fleet-sets-sail.json) |
@@ -10332,6 +10342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkai Impact 3rd: Theresa, Attack! | 361352 | [361352-honkai-impact-3rd-theresa-attack.json](./361352-honkai-impact-3rd-theresa-attack.json) |
 | Honkai Impact 3rd: Undine's Phantasm | 281578 | [281578-honkai-impact-3rd-undines-phantasm.json](./281578-honkai-impact-3rd-undines-phantasm.json) |
 | Honkai Impact 3rd: Unequaled, Unrivaled | 279704 | [279704-honkai-impact-3rd-unequaled-unrivaled.json](./279704-honkai-impact-3rd-unequaled-unrivaled.json) |
+| Honkai Impact 3rd: Woven from Last Snow | 276359 | [276359-honkai-impact-3rd-woven-from-last-snow.json](./276359-honkai-impact-3rd-woven-from-last-snow.json) |
 | Honkai: Nexus Anima | 364158 | [364158-honkai-nexus-anima.json](./364158-honkai-nexus-anima.json) |
 | Honkai: Star Rail - A New Venture on the Eighth Dawn | 322770 | [322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json](./322770-honkai-star-rail-a-new-venture-on-the-eighth-dawn.json) |
 | Honkai: Star Rail - Annals of Pinecany's Mappou Age | 319458 | [319458-honkai-star-rail-annals-of-pinecanys-mappou-age.json](./319458-honkai-star-rail-annals-of-pinecanys-mappou-age.json) |
