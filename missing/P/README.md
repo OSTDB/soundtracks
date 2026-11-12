@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Girl | 169663 | [169663-paint-girl.json](./169663-paint-girl.json) |
 | Paint Hit | 102784 | [102784-paint-hit.json](./102784-paint-hit.json) |
 | Paint Hit: Color Blast | 103631 | [103631-paint-hit-color-blast.json](./103631-paint-hit-color-blast.json) |
+| Paint It | 272421 | [272421-paint-it.json](./272421-paint-it.json) |
 | Paint it + My Cute Unicorns Bundle | 400054 | [400054-paint-it-my-cute-unicorns-bundle.json](./400054-paint-it-my-cute-unicorns-bundle.json) |
 | Paint It Black | 89427 | [89427-paint-it-black.json](./89427-paint-it-black.json) |
 | Paint it Doom | 308070 | [308070-paint-it-doom.json](./308070-paint-it-doom.json) |
@@ -1675,6 +1676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Papabile | 420058 | [420058-papabile.json](./420058-papabile.json) |
 | Papair | 57148 | [57148-papair.json](./57148-papair.json) |
 | Papao: The Legend of the Bogeyman | 372544 | [372544-papao-the-legend-of-the-bogeyman.json](./372544-papao-the-legend-of-the-bogeyman.json) |
+| Paparazi | 272503 | [272503-paparazi.json](./272503-paparazi.json) |
 | Paparazzi | 100038 | [100038-paparazzi.json](./100038-paparazzi.json) |
 | Paparazzi | 21550 | [21550-paparazzi.json](./21550-paparazzi.json) |
 | Paparazzi | 379586 | [379586-paparazzi.json](./379586-paparazzi.json) |
