@@ -7415,6 +7415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
 | Chess Grandmaster: Ancient Egypt Battle | 334988 | [334988-chess-grandmaster-ancient-egypt-battle.json](./334988-chess-grandmaster-ancient-egypt-battle.json) |
 | Chess Graphy | 248953 | [248953-chess-graphy.json](./248953-chess-graphy.json) |
+| Chess Housers | 272506 | [272506-chess-housers.json](./272506-chess-housers.json) |
 | Chess Housers | 71824 | [71824-chess-housers.json](./71824-chess-housers.json) |
 | Chess Hunt | 344715 | [344715-chess-hunt.json](./344715-chess-hunt.json) |
 | Chess in the Park | 254438 | [254438-chess-in-the-park.json](./254438-chess-in-the-park.json) |
