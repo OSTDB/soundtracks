@@ -2013,6 +2013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Glide | 189186 | [189186-hard-glide.json](./189186-hard-glide.json) |
 | Hard Graphics Soushuuhen | 67357 | [67357-hard-graphics-soushuuhen.json](./67357-hard-graphics-soushuuhen.json) |
 | Hard Grip | 66771 | [66771-hard-grip.json](./66771-hard-grip.json) |
+| Hard Hat | 270256 | [270256-hard-hat.json](./270256-hard-hat.json) |
 | Hard Hat | 91851 | [91851-hard-hat.json](./91851-hard-hat.json) |
 | Hard Hat Mack | 13871 | [13871-hard-hat-mack.json](./13871-hard-hat-mack.json) |
 | Hard Hat Willy | 67244 | [67244-hard-hat-willy.json](./67244-hard-hat-willy.json) |
