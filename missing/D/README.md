@@ -6508,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliver It 3D | 214324 | [214324-deliver-it-3d.json](./214324-deliver-it-3d.json) |
 | Deliver or Die! | 193089 | [193089-deliver-or-die.json](./193089-deliver-or-die.json) |
 | Deliver This! | 365152 | [365152-deliver-this.json](./365152-deliver-this.json) |
+| Deliver to When You Came | 309236 | [309236-deliver-to-when-you-came.json](./309236-deliver-to-when-you-came.json) |
 | Deliver Together | 406324 | [406324-deliver-together.json](./406324-deliver-together.json) |
 | Deliver Us From Evil | 178484 | [178484-deliver-us-from-evil.json](./178484-deliver-us-from-evil.json) |
 | Deliver Us From Evil: Cadenza | 192284 | [192284-deliver-us-from-evil-cadenza.json](./192284-deliver-us-from-evil-cadenza.json) |
@@ -10634,6 +10635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Directive Nine | 157481 | [157481-directive-nine.json](./157481-directive-nine.json) |
 | Director Manager Total | 344940 | [344940-director-manager-total.json](./344940-director-manager-total.json) |
 | Director of Football | 71856 | [71856-director-of-football.json](./71856-director-of-football.json) |
+| Director Simulator | 309696 | [309696-director-simulator.json](./309696-director-simulator.json) |
 | Directorate Novitiate | 330025 | [330025-directorate-novitiate.json](./330025-directorate-novitiate.json) |
 | Directory Dungeon | 387158 | [387158-directory-dungeon.json](./387158-directory-dungeon.json) |
 | Direland | 396883 | [396883-direland.json](./396883-direland.json) |
@@ -16705,6 +16707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draoi | 105471 | [105471-draoi.json](./105471-draoi.json) |
 | Drapers: Merchants of Middle Ages | 420479 | [420479-drapers-merchants-of-middle-ages.json](./420479-drapers-merchants-of-middle-ages.json) |
 | Drapline | 333105 | [333105-drapline.json](./333105-drapline.json) |
+| Dras'lia | 309766 | [309766-draslia.json](./309766-draslia.json) |
 | Dráscula: The Vampire Strikes Back | 117600 | [117600-drascula-the-vampire-strikes-back.json](./117600-drascula-the-vampire-strikes-back.json) |
 | Drasle Family: Pochi & Bochi | 342621 | [342621-drasle-family-pochi-and-bochi.json](./342621-drasle-family-pochi-and-bochi.json) |
 | Drastic Killer | 59170 | [59170-drastic-killer.json](./59170-drastic-killer.json) |
@@ -18681,6 +18684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dubio | 293859 | [293859-dubio.json](./293859-dubio.json) |
 | Dubium | 182352 | [182352-dubium.json](./182352-dubium.json) |
 | Dubloon | 124525 | [124525-dubloon.json](./124525-dubloon.json) |
+| Dubscr's Murder Mystery | 309258 | [309258-dubscrs-murder-mystery.json](./309258-dubscrs-murder-mystery.json) |
 | Dubspace: Chapter 1 | 394775 | [394775-dubspace-chapter-1.json](./394775-dubspace-chapter-1.json) |
 | Dubstep Abasralsa | 102407 | [102407-dubstep-abasralsa.json](./102407-dubstep-abasralsa.json) |
 | Dubstep Bird | 143588 | [143588-dubstep-bird.json](./143588-dubstep-bird.json) |
