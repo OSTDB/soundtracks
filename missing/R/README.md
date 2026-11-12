@@ -10411,6 +10411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman The Puzzle Battle | 290956 | [290956-rockman-the-puzzle-battle.json](./290956-rockman-the-puzzle-battle.json) |
 | RockMan VII: Showdown of Destiny! | 42550 | [42550-rockman-vii-showdown-of-destiny.json](./42550-rockman-vii-showdown-of-destiny.json) |
 | Rockman X Shùxué Xuànfēng | 290873 | [290873-rockman-x-shuxue-xuanfeng.json](./290873-rockman-x-shuxue-xuanfeng.json) |
+| Rockman X: 2016 New Year's Hack | 282337 | [282337-rockman-x-2016-new-years-hack.json](./282337-rockman-x-2016-new-years-hack.json) |
 | Rockman X: New Year 2017 | 268410 | [268410-rockman-x-new-year-2017.json](./268410-rockman-x-new-year-2017.json) |
 | Rockman X: New Year 2023 | 282079 | [282079-rockman-x-new-year-2023.json](./282079-rockman-x-new-year-2023.json) |
 | Rockman X3 | 256302 | [256302-rockman-x3.json](./256302-rockman-x3.json) |
