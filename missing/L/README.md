@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Day of Fear | 77168 | [77168-last-day-of-fear.json](./77168-last-day-of-fear.json) |
 | Last Day of Rome | 119551 | [119551-last-day-of-rome.json](./119551-last-day-of-rome.json) |
 | Last Day of Summer | 216575 | [216575-last-day-of-summer.json](./216575-last-day-of-summer.json) |
+| Last Day of Zombies | 247721 | [247721-last-day-of-zombies.json](./247721-last-day-of-zombies.json) |
 | Last Day on Stroggos | 402832 | [402832-last-day-on-stroggos.json](./402832-last-day-on-stroggos.json) |
 | Last Day On The Ship | 395657 | [395657-last-day-on-the-ship.json](./395657-last-day-on-the-ship.json) |
 | Last Day Rules: Survival | 174717 | [174717-last-day-rules-survival.json](./174717-last-day-rules-survival.json) |
@@ -2841,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Kingdoms | 224020 | [224020-legend-of-kingdoms.json](./224020-legend-of-kingdoms.json) |
 | Legend of Krannia: Cursed Fate | 144626 | [144626-legend-of-krannia-cursed-fate.json](./144626-legend-of-krannia-cursed-fate.json) |
 | Legend of Krilona | 180021 | [180021-legend-of-krilona.json](./180021-legend-of-krilona.json) |
+| Legend of Kungfu | 247805 | [247805-legend-of-kungfu.json](./247805-legend-of-kungfu.json) |
 | Legend of Kunoichi | 59368 | [59368-legend-of-kunoichi.json](./59368-legend-of-kunoichi.json) |
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
 | Legend of Legaia | 13676 | [13676-legend-of-legaia.json](./13676-legend-of-legaia.json) |
@@ -4466,6 +4468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Level up Everything! | 333068 | [333068-level-up-everything.json](./333068-level-up-everything.json) |
 | Level Up Simulator | 389117 | [389117-level-up-simulator.json](./389117-level-up-simulator.json) |
 | Level Up Your Body | 270129 | [270129-level-up-your-body.json](./270129-level-up-your-body.json) |
+| Level Up: The Gamer Girls | 247808 | [247808-level-up-the-gamer-girls.json](./247808-level-up-the-gamer-girls.json) |
 | Level Up: The Playable Rap Album | 303836 | [303836-level-up-the-playable-rap-album.json](./303836-level-up-the-playable-rap-album.json) |
 | Level Up! | 36192 | [36192-level-up.json](./36192-level-up.json) |
 | Level Up! | 95373 | [95373-level-up.json](./95373-level-up.json) |
