@@ -1296,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falling Ball Blue | 107128 | [107128-falling-ball-blue.json](./107128-falling-ball-blue.json) |
 | Falling Ball Ocean | 107167 | [107167-falling-ball-ocean.json](./107167-falling-ball-ocean.json) |
 | Falling Ball Space | 106488 | [106488-falling-ball-space.json](./106488-falling-ball-space.json) |
+| Falling Balls | 287253 | [287253-falling-balls.json](./287253-falling-balls.json) |
 | Falling Ballz | 214404 | [214404-falling-ballz.json](./214404-falling-ballz.json) |
 | Falling Bird | 61000 | [61000-falling-bird.json](./61000-falling-bird.json) |
 | Falling Block | 59797 | [59797-falling-block.json](./59797-falling-block.json) |
@@ -1493,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falrika the Alchemist | 299292 | [299292-falrika-the-alchemist.json](./299292-falrika-the-alchemist.json) |
 | False Alarm | 406656 | [406656-false-alarm.json](./406656-false-alarm.json) |
 | False Calamity | 211826 | [211826-false-calamity.json](./211826-false-calamity.json) |
+| False Destination | 287271 | [287271-false-destination.json](./287271-false-destination.json) |
 | False Dichotomy | 149824 | [149824-false-dichotomy.json](./149824-false-dichotomy.json) |
 | False Echo | 398306 | [398306-false-echo.json](./398306-false-echo.json) |
 | False Flag | 401805 | [401805-false-flag.json](./401805-false-flag.json) |
@@ -2215,6 +2217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Pirates | 85657 | [85657-fantasy-pirates.json](./85657-fantasy-pirates.json) |
 | Fantasy Princess - Girls Makeup & Dress Up Games | 87491 | [87491-fantasy-princess-girls-makeup-and-dress-up-games.json](./87491-fantasy-princess-girls-makeup-and-dress-up-games.json) |
 | Fantasy Puzzle 3D | 358046 | [358046-fantasy-puzzle-3d.json](./358046-fantasy-puzzle-3d.json) |
+| Fantasy Puzzle Hamster Monogatari Mahou no Meikyuu | 287261 | [287261-fantasy-puzzle-hamster-monogatari-mahou-no-meikyuu.json](./287261-fantasy-puzzle-hamster-monogatari-mahou-no-meikyuu.json) |
 | Fantasy Puzzle King | 312697 | [312697-fantasy-puzzle-king.json](./312697-fantasy-puzzle-king.json) |
 | Fantasy Quake: Rise of the Phoenix | 196578 | [196578-fantasy-quake-rise-of-the-phoenix.json](./196578-fantasy-quake-rise-of-the-phoenix.json) |
 | Fantasy Quest Realm Survival | 339923 | [339923-fantasy-quest-realm-survival.json](./339923-fantasy-quest-realm-survival.json) |
@@ -10077,6 +10080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Footy Fanatic | 79107 | [79107-footy-fanatic.json](./79107-footy-fanatic.json) |
 | Footy Showdown | 217082 | [217082-footy-showdown.json](./217082-footy-showdown.json) |
 | FootyKitDle | 304250 | [304250-footykitdle.json](./304250-footykitdle.json) |
+| Foozpong | 287284 | [287284-foozpong.json](./287284-foozpong.json) |
 | Foqus | 46609 | [46609-foqus.json](./46609-foqus.json) |
 | For a Better Country | 121373 | [121373-for-a-better-country.json](./121373-for-a-better-country.json) |
 | For a Change | 60113 | [60113-for-a-change.json](./60113-for-a-change.json) |
