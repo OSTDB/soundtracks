@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-12T01:10:57.371Z",
-  "total_soundtracks": 3236,
+  "generated_at": "2026-11-12T01:16:05.986Z",
+  "total_soundtracks": 3240,
   "games": [
     {
       "igdb_id": 7522,
@@ -8929,6 +8929,20 @@
       ]
     },
     {
+      "igdb_id": 319758,
+      "game_name": "Destiny: Rising",
+      "game_url": "https://ostdb.net/games/destiny-rising",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735236637ebe7e9cea88f69b28",
+      "albums": [
+        {
+          "album_name": "Destiny: Rising (Global Launch Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2pvIpXDFlIfVzqnWCnd5ik",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2652,
       "game_name": "Destroy All Humans! 2",
       "game_url": "https://ostdb.net/games/destroy-all-humans-2",
@@ -10243,6 +10257,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/driveclub-original-game-soundtrack-remixes/1678587227?uo=4",
           "album_link_url": "https://album.link/i/1678587227"
+        }
+      ]
+    },
+    {
+      "igdb_id": 56357,
+      "game_name": "Drone Swarm",
+      "game_url": "https://ostdb.net/games/drone-swarm",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273970101ad92e1509d34fb9ce7",
+      "albums": [
+        {
+          "album_name": "Drone Swarm (Original Game Soundtrack Preview)",
+          "spotify_url": "https://open.spotify.com/album/45wGgR5H56tuZyJh9dY6PS",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -23729,6 +23757,20 @@
       ]
     },
     {
+      "igdb_id": 129097,
+      "game_name": "Norco",
+      "game_url": "https://ostdb.net/games/norco",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e574b4f5f8a31ad42425aeb5",
+      "albums": [
+        {
+          "album_name": "NORCO Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/2MQiUH7O9GbBjFu3MN73nS",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 211738,
       "game_name": "Noreya: The Gold Project",
       "game_url": "https://ostdb.net/games/noreya-the-gold-project",
@@ -24265,6 +24307,20 @@
         {
           "album_name": "Orcs & Elves (Original Mobile Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/732dfUTNbmRNFeTwCRZp9C",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 308697,
+      "game_name": "Orcs Must Die! Deathtrap",
+      "game_url": "https://ostdb.net/games/orcs-must-die-deathtrap",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27351542bbdec6df51085e96793",
+      "albums": [
+        {
+          "album_name": "Orcs Must Die! Deathtrap (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7JB9SU70qRrLQiofRGmNlb",
           "apple_music_url": "",
           "album_link_url": ""
         }
