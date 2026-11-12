@@ -4139,6 +4139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Mania Daiginjou | 45734 | [45734-battle-mania-daiginjou.json](./45734-battle-mania-daiginjou.json) |
 | Battle Map 2 | 207995 | [207995-battle-map-2.json](./207995-battle-map-2.json) |
 | Battle Map Studio | 190924 | [190924-battle-map-studio.json](./190924-battle-map-studio.json) |
+| Battle Marine | 296703 | [296703-battle-marine.json](./296703-battle-marine.json) |
 | Battle Master | 86222 | [86222-battle-master.json](./86222-battle-master.json) |
 | Battle Masters | 176871 | [176871-battle-masters.json](./176871-battle-masters.json) |
 | Battle Mayhem | 328180 | [328180-battle-mayhem.json](./328180-battle-mayhem.json) |
@@ -9419,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BitLiberator | 340036 | [340036-bitliberator.json](./340036-bitliberator.json) |
 | BitLife | 140762 | [140762-bitlife.json](./140762-bitlife.json) |
 | Bitlogic | 117350 | [117350-bitlogic.json](./117350-bitlogic.json) |
+| Bitmagic | 296289 | [296289-bitmagic.json](./296289-bitmagic.json) |
 | Bitmap Bureau Collection | 287089 | [287089-bitmap-bureau-collection.json](./287089-bitmap-bureau-collection.json) |
 | Bitmap Bureau Collection: Deluxe Edition | 294814 | [294814-bitmap-bureau-collection-deluxe-edition.json](./294814-bitmap-bureau-collection-deluxe-edition.json) |
 | Bitmates | 228413 | [228413-bitmates.json](./228413-bitmates.json) |
@@ -11883,6 +11885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Omen: Legacy of Kain | 317629 | [317629-blood-omen-legacy-of-kain.json](./317629-blood-omen-legacy-of-kain.json) |
 | Blood Omen: Legacy of Kain | 7894 | [7894-blood-omen-legacy-of-kain.json](./7894-blood-omen-legacy-of-kain.json) |
 | Blood on the Clocktower | 256090 | [256090-blood-on-the-clocktower.json](./256090-blood-on-the-clocktower.json) |
+| Blood On The Dusty Trail | 296296 | [296296-blood-on-the-dusty-trail.json](./296296-blood-on-the-dusty-trail.json) |
 | Blood On The Streets | 284012 | [284012-blood-on-the-streets.json](./284012-blood-on-the-streets.json) |
 | Blood On The Thames | 293105 | [293105-blood-on-the-thames.json](./293105-blood-on-the-thames.json) |
 | Blood Opera Crescendo | 120693 | [120693-blood-opera-crescendo.json](./120693-blood-opera-crescendo.json) |
@@ -13399,6 +13402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Farm | 413917 | [413917-bomb-farm.json](./413917-bomb-farm.json) |
 | Bomb Fight | 305297 | [305297-bomb-fight.json](./305297-bomb-fight.json) |
 | Bomb Fight | 305460 | [305460-bomb-fight.json](./305460-bomb-fight.json) |
+| Bomb Finger | 297267 | [297267-bomb-finger.json](./297267-bomb-finger.json) |
 | Bomb Fusion | 13420 | [13420-bomb-fusion.json](./13420-bomb-fusion.json) |
 | Bomb Hero | 246315 | [246315-bomb-hero.json](./246315-bomb-hero.json) |
 | Bomb Hero | 286778 | [286778-bomb-hero.json](./286778-bomb-hero.json) |
@@ -16462,6 +16466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakthrough in the Ardennes | 25618 | [25618-breakthrough-in-the-ardennes.json](./25618-breakthrough-in-the-ardennes.json) |
 | Breakthrough Mars | 285371 | [285371-breakthrough-mars.json](./285371-breakthrough-mars.json) |
 | BreakThrough Time | 392378 | [392378-breakthrough-time.json](./392378-breakthrough-time.json) |
+| Breakthru | 296694 | [296694-breakthru.json](./296694-breakthru.json) |
 | BreakThru | 13437 | [13437-breakthru.json](./13437-breakthru.json) |
 | BreakThru | 288105 | [288105-breakthru.json](./288105-breakthru.json) |
 | Breakthru in 3D | 169228 | [169228-breakthru-in-3d.json](./169228-breakthru-in-3d.json) |
@@ -18592,6 +18597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Hell Action Roguelites | 333753 | [333753-bullet-hell-action-roguelites.json](./333753-bullet-hell-action-roguelites.json) |
 | Bullet Hell Advanced | 100592 | [100592-bullet-hell-advanced.json](./100592-bullet-hell-advanced.json) |
 | Bullet Hell Collection: Volume 1 | 283596 | [283596-bullet-hell-collection-volume-1.json](./283596-bullet-hell-collection-volume-1.json) |
+| Bullet Hell Days | 297268 | [297268-bullet-hell-days.json](./297268-bullet-hell-days.json) |
 | Bullet Hell Game Anthology | 338451 | [338451-bullet-hell-game-anthology.json](./338451-bullet-hell-game-anthology.json) |
 | Bullet Hell Heroes | 194158 | [194158-bullet-hell-heroes.json](./194158-bullet-hell-heroes.json) |
 | Bullet Hell Monday | 57089 | [57089-bullet-hell-monday.json](./57089-bullet-hell-monday.json) |
@@ -18925,6 +18931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunnies & Ballgames! | 376462 | [376462-bunnies-and-ballgames.json](./376462-bunnies-and-ballgames.json) |
 | Bunnies Huddled Together | 324175 | [324175-bunnies-huddled-together.json](./324175-bunnies-huddled-together.json) |
 | Bunnies vs Zombies | 197862 | [197862-bunnies-vs-zombies.json](./197862-bunnies-vs-zombies.json) |
+| Bunniiies | 296695 | [296695-bunniiies.json](./296695-bunniiies.json) |
 | Bunninjutsu | 378179 | [378179-bunninjutsu.json](./378179-bunninjutsu.json) |
 | Bunny | 339974 | [339974-bunny.json](./339974-bunny.json) |
 | Bunny | 354653 | [354653-bunny.json](./354653-bunny.json) |
