@@ -2693,6 +2693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Parkour | 154919 | [154919-neon-parkour.json](./154919-neon-parkour.json) |
 | Neon Parkour 2 | 253614 | [253614-neon-parkour-2.json](./253614-neon-parkour-2.json) |
 | Neon Phase | 56950 | [56950-neon-phase.json](./56950-neon-phase.json) |
+| Neon Phonk Robots | 309711 | [309711-neon-phonk-robots.json](./309711-neon-phonk-robots.json) |
 | Neon Planet | 407055 | [407055-neon-planet.json](./407055-neon-planet.json) |
 | Neon Pong | 121123 | [121123-neon-pong.json](./121123-neon-pong.json) |
 | Neon Prism | 30501 | [30501-neon-prism.json](./30501-neon-prism.json) |
