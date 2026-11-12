@@ -12724,6 +12724,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaria | 374601 | [374601-polaria.json](./374601-polaria.json) |
 | Polariball | 356205 | [356205-polariball.json](./356205-polariball.json) |
 | Polaris | 251308 | [251308-polaris.json](./251308-polaris.json) |
+| Polaris | 276428 | [276428-polaris.json](./276428-polaris.json) |
+| Polaris | 276429 | [276429-polaris.json](./276429-polaris.json) |
 | Polaris | 380125 | [380125-polaris.json](./380125-polaris.json) |
 | Polaris Chord | 263343 | [263343-polaris-chord.json](./263343-polaris-chord.json) |
 | Polaris Outpost | 226991 | [226991-polaris-outpost.json](./226991-polaris-outpost.json) |
@@ -16461,6 +16463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Procyon | 16884 | [16884-procyon.json](./16884-procyon.json) |
 | Procyon | 218130 | [218130-procyon.json](./218130-procyon.json) |
 | Prodeus | 112613 | [112613-prodeus.json](./112613-prodeus.json) |
+| Prodeus: The Elder Veil | 276509 | [276509-prodeus-the-elder-veil.json](./276509-prodeus-the-elder-veil.json) |
 | Prodigal | 139196 | [139196-prodigal.json](./139196-prodigal.json) |
 | Prodigal | 304099 | [304099-prodigal.json](./304099-prodigal.json) |
 | Prodigious Avian | 257775 | [257775-prodigious-avian.json](./257775-prodigious-avian.json) |
