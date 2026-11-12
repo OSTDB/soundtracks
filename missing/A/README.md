@@ -4486,6 +4486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Calm Mind | 153831 | [153831-aery-calm-mind.json](./153831-aery-calm-mind.json) |
 | Aery: Calm Mind 2 | 189955 | [189955-aery-calm-mind-2.json](./189955-aery-calm-mind-2.json) |
 | Aery: Calm Mind 4 | 263037 | [263037-aery-calm-mind-4.json](./263037-aery-calm-mind-4.json) |
+| Aery: Calm Mind Bundle | 301744 | [301744-aery-calm-mind-bundle.json](./301744-aery-calm-mind-bundle.json) |
 | Aery: Cyber City | 283896 | [283896-aery-cyber-city.json](./283896-aery-cyber-city.json) |
 | Aery: Dream Land | 332491 | [332491-aery-dream-land.json](./332491-aery-dream-land.json) |
 | Aery: Dreamscape | 187142 | [187142-aery-dreamscape.json](./187142-aery-dreamscape.json) |
@@ -13044,6 +13045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Designer: Japan | 238551 | [238551-aquarium-designer-japan.json](./238551-aquarium-designer-japan.json) |
 | Aquarium Designer: Sea Life | 199595 | [199595-aquarium-designer-sea-life.json](./199595-aquarium-designer-sea-life.json) |
 | Aquarium HD | 92030 | [92030-aquarium-hd.json](./92030-aquarium-hd.json) |
+| Aquarium in Cafe | 301743 | [301743-aquarium-in-cafe.json](./301743-aquarium-in-cafe.json) |
 | Aquarium Island: Underwater Kingdom | 99207 | [99207-aquarium-island-underwater-kingdom.json](./99207-aquarium-island-underwater-kingdom.json) |
 | Aquarium Land | 208728 | [208728-aquarium-land.json](./208728-aquarium-land.json) |
 | Aquarium Land: Armadillo | 303335 | [303335-aquarium-land-armadillo.json](./303335-aquarium-land-armadillo.json) |
