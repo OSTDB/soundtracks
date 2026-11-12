@@ -1551,6 +1551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
 | MagiCafe HD | 397465 | [397465-magicafe-hd.json](./397465-magicafe-hd.json) |
 | Magical Amber: Tobi Tsukihime | 222742 | [222742-magical-amber-tobi-tsukihime.json](./222742-magical-amber-tobi-tsukihime.json) |
+| Magical Angel Fairy Flower | 289520 | [289520-magical-angel-fairy-flower.json](./289520-magical-angel-fairy-flower.json) |
 | Magical Animal Farm | 366423 | [366423-magical-animal-farm.json](./366423-magical-animal-farm.json) |
 | Magical Atelier | 195452 | [195452-magical-atelier.json](./195452-magical-atelier.json) |
 | Magical Backpack | 328977 | [328977-magical-backpack.json](./328977-magical-backpack.json) |
@@ -6474,6 +6475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxwell Manor | 25979 | [25979-maxwell-manor.json](./25979-maxwell-manor.json) |
 | Maxwell The Cat | 298950 | [298950-maxwell-the-cat.json](./298950-maxwell-the-cat.json) |
 | Maxwell's Maniac | 282412 | [282412-maxwells-maniac.json](./282412-maxwells-maniac.json) |
+| Maxwell's Puzzling Demon | 289521 | [289521-maxwells-puzzling-demon.json](./289521-maxwells-puzzling-demon.json) |
 | Maxwell's Wicked Dollhouse | 215617 | [215617-maxwells-wicked-dollhouse.json](./215617-maxwells-wicked-dollhouse.json) |
 | Maxwell's World | 281504 | [281504-maxwells-world.json](./281504-maxwells-world.json) |
 | Maxx GP | 94403 | [94403-maxx-gp.json](./94403-maxx-gp.json) |
@@ -11418,6 +11420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Micro Doctor | 293791 | [293791-micro-doctor.json](./293791-micro-doctor.json) |
 | Micro Dragracers | 400635 | [400635-micro-dragracers.json](./400635-micro-dragracers.json) |
 | Micro Drive Festa | 202885 | [202885-micro-drive-festa.json](./202885-micro-drive-festa.json) |
+| Micro Dungeon | 289527 | [289527-micro-dungeon.json](./289527-micro-dungeon.json) |
 | Micro Gamer Shinmy | 338130 | [338130-micro-gamer-shinmy.json](./338130-micro-gamer-shinmy.json) |
 | Micro Games for Playdade! | 266242 | [266242-micro-games-for-playdade.json](./266242-micro-games-for-playdade.json) |
 | Micro Games: Volume 1 | 258368 | [258368-micro-games-volume-1.json](./258368-micro-games-volume-1.json) |
@@ -17972,6 +17975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonblood Mountain | 423221 | [423221-moonblood-mountain.json](./423221-moonblood-mountain.json) |
 | Moonbound | 186550 | [186550-moonbound.json](./186550-moonbound.json) |
 | Moonbreaker | 214405 | [214405-moonbreaker.json](./214405-moonbreaker.json) |
+| Moonbreaker: Cosmetic Pack | 289523 | [289523-moonbreaker-cosmetic-pack.json](./289523-moonbreaker-cosmetic-pack.json) |
 | Moonbrella | 335633 | [335633-moonbrella.json](./335633-moonbrella.json) |
 | Moonbriar | 249034 | [249034-moonbriar.json](./249034-moonbriar.json) |
 | MoonBright | 275549 | [275549-moonbright.json](./275549-moonbright.json) |
@@ -19806,6 +19810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mozaki Blocks Deluxe | 200366 | [200366-mozaki-blocks-deluxe.json](./200366-mozaki-blocks-deluxe.json) |
 | Mozarella Hills | 291766 | [291766-mozarella-hills.json](./291766-mozarella-hills.json) |
 | Mozart Requiem | 141726 | [141726-mozart-requiem.json](./141726-mozart-requiem.json) |
+| Mozentum | 289519 | [289519-mozentum.json](./289519-mozentum.json) |
 | Mozg | 396958 | [396958-mozg.json](./396958-mozg.json) |
 | Mozg Procesor | 125621 | [125621-mozg-procesor.json](./125621-mozg-procesor.json) |
 | Mozi | 310080 | [310080-mozi.json](./310080-mozi.json) |
@@ -21839,6 +21844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cute Girls | 385017 | [385017-my-cute-girls.json](./385017-my-cute-girls.json) |
 | My Cute Pagangirl | 153037 | [153037-my-cute-pagangirl.json](./153037-my-cute-pagangirl.json) |
 | My Cute Roommate | 367134 | [367134-my-cute-roommate.json](./367134-my-cute-roommate.json) |
+| My Cute Roommate Irene | 289526 | [289526-my-cute-roommate-irene.json](./289526-my-cute-roommate-irene.json) |
 | My Cute Succubus | 224528 | [224528-my-cute-succubus.json](./224528-my-cute-succubus.json) |
 | My Cute Unicorns: Coloring Book | 212272 | [212272-my-cute-unicorns-coloring-book.json](./212272-my-cute-unicorns-coloring-book.json) |
 | My Cute, Pure Boyfriend | 303274 | [303274-my-cute-pure-boyfriend.json](./303274-my-cute-pure-boyfriend.json) |
@@ -22354,6 +22360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Liege | 289317 | [289317-my-liege.json](./289317-my-liege.json) |
 | My Life | 379307 | [379307-my-life.json](./379307-my-life.json) |
 | My Life | 41155 | [41155-my-life.json](./41155-my-life.json) |
+| My Life as a Cat | 289535 | [289535-my-life-as-a-cat.json](./289535-my-life-as-a-cat.json) |
 | My Life as a Teenage Robot: Techno Tennis | 335724 | [335724-my-life-as-a-teenage-robot-techno-tennis.json](./335724-my-life-as-a-teenage-robot-techno-tennis.json) |
 | My Life as a Vampire's Maid | 408507 | [408507-my-life-as-a-vampires-maid.json](./408507-my-life-as-a-vampires-maid.json) |
 | My Life As An Alchemist | 289430 | [289430-my-life-as-an-alchemist.json](./289430-my-life-as-an-alchemist.json) |
