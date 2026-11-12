@@ -4319,6 +4319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Porn Hentai Teachers | 368059 | [368059-vr-porn-hentai-teachers.json](./368059-vr-porn-hentai-teachers.json) |
 | VR Prison Escape | 148251 | [148251-vr-prison-escape.json](./148251-vr-prison-escape.json) |
 | VR Prison Showdown：rookie Guard Rumble | 364063 | [364063-vr-prison-showdown-rookie-guard-rumble.json](./364063-vr-prison-showdown-rookie-guard-rumble.json) |
+| VR Pterosaur Rock Climbing | 256470 | [256470-vr-pterosaur-rock-climbing.json](./256470-vr-pterosaur-rock-climbing.json) |
 | VR Puppet Game | 195927 | [195927-vr-puppet-game.json](./195927-vr-puppet-game.json) |
 | VR Puzzle Box | 126111 | [126111-vr-puzzle-box.json](./126111-vr-puzzle-box.json) |
 | VR Quest: SCP-087 | 114229 | [114229-vr-quest-scp-087.json](./114229-vr-quest-scp-087.json) |
