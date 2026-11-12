@@ -11594,6 +11594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon AlteRed | 210072 | [210072-pokemon-altered.json](./210072-pokemon-altered.json) |
 | Pokémon Ambrosia | 337408 | [337408-pokemon-ambrosia.json](./337408-pokemon-ambrosia.json) |
 | Pokémon Amethyst | 323762 | [323762-pokemon-amethyst.json](./323762-pokemon-amethyst.json) |
+| Pokémon Ancestral X | 265983 | [265983-pokemon-ancestral-x.json](./265983-pokemon-ancestral-x.json) |
 | Pokémon and the Last Wish | 153510 | [153510-pokemon-and-the-last-wish.json](./153510-pokemon-and-the-last-wish.json) |
 | Pokémon and the Last Wish Part II | 193163 | [193163-pokemon-and-the-last-wish-part-ii.json](./193163-pokemon-and-the-last-wish-part-ii.json) |
 | Pokémon Añil | 241776 | [241776-pokemon-anil.json](./241776-pokemon-anil.json) |
@@ -11855,6 +11856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Black & White 3: Genesis | 241775 | [241775-pokemon-black-and-white-3-genesis.json](./241775-pokemon-black-and-white-3-genesis.json) |
 | Pokémon Black 2 /White 2 Deluxe | 335436 | [335436-pokemon-black-2-white-2-deluxe.json](./335436-pokemon-black-2-white-2-deluxe.json) |
 | Pokémon Black 2 Kaizo | 230510 | [230510-pokemon-black-2-kaizo.json](./230510-pokemon-black-2-kaizo.json) |
+| Pokemon Black 2: DE | 265984 | [265984-pokemon-black-2-de.json](./265984-pokemon-black-2-de.json) |
 | Pokémon Black Pearl Emerald | 397764 | [397764-pokemon-black-pearl-emerald.json](./397764-pokemon-black-pearl-emerald.json) |
 | Pokémon Black Version 2 | 8284 | [8284-pokemon-black-version-2.json](./8284-pokemon-black-version-2.json) |
 | Pokémon Black/White Redux | 335435 | [335435-pokemon-black-white-redux.json](./335435-pokemon-black-white-redux.json) |
@@ -12365,6 +12367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon SoulGold | 414034 | [414034-pokemon-soulgold.json](./414034-pokemon-soulgold.json) |
 | Pokémon Soulstones | 221276 | [221276-pokemon-soulstones.json](./221276-pokemon-soulstones.json) |
 | Pokémon Soulstones 2: Time Wardens | 334001 | [334001-pokemon-soulstones-2-time-wardens.json](./334001-pokemon-soulstones-2-time-wardens.json) |
+| Pokemon Sour Crystal | 265985 | [265985-pokemon-sour-crystal.json](./265985-pokemon-sour-crystal.json) |
 | Pokémon SpinSpinSpin | 350668 | [350668-pokemon-spinspinspin.json](./350668-pokemon-spinspinspin.json) |
 | Pokémon Spirits of the Storm | 397766 | [397766-pokemon-spirits-of-the-storm.json](./397766-pokemon-spirits-of-the-storm.json) |
 | Pokémon Splice | 146982 | [146982-pokemon-splice.json](./146982-pokemon-splice.json) |
