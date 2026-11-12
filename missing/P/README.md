@@ -1408,6 +1408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic in Nakayoshi World | 42374 | [42374-panic-in-nakayoshi-world.json](./42374-panic-in-nakayoshi-world.json) |
 | Panic in Puzzle World | 358035 | [358035-panic-in-puzzle-world.json](./358035-panic-in-puzzle-world.json) |
 | Panic In Store! | 305692 | [305692-panic-in-store.json](./305692-panic-in-store.json) |
+| Panic in Sweets Land | 250678 | [250678-panic-in-sweets-land.json](./250678-panic-in-sweets-land.json) |
 | Panic in the Mushroom Kingdom | 268108 | [268108-panic-in-the-mushroom-kingdom.json](./268108-panic-in-the-mushroom-kingdom.json) |
 | Panic in the Park | 69251 | [69251-panic-in-the-park.json](./69251-panic-in-the-park.json) |
 | Panic in the Woods | 315508 | [315508-panic-in-the-woods.json](./315508-panic-in-the-woods.json) |
@@ -4109,6 +4110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pecos Bill | 210008 | [210008-pecos-bill.json](./210008-pecos-bill.json) |
 | Peculiar Fables: The Werebed | 186731 | [186731-peculiar-fables-the-werebed.json](./186731-peculiar-fables-the-werebed.json) |
 | Peculiar Tales of Mid-Lake Pavilion | 188934 | [188934-peculiar-tales-of-mid-lake-pavilion.json](./188934-peculiar-tales-of-mid-lake-pavilion.json) |
+| Peculiarities of National Fishing | 250574 | [250574-peculiarities-of-national-fishing.json](./250574-peculiarities-of-national-fishing.json) |
 | Pedal Rebel VR | 280750 | [280750-pedal-rebel-vr.json](./280750-pedal-rebel-vr.json) |
 | Pedal to the Metal | 214485 | [214485-pedal-to-the-metal.json](./214485-pedal-to-the-metal.json) |
 | Pedal Up! | 244809 | [244809-pedal-up.json](./244809-pedal-up.json) |
@@ -5431,6 +5433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petroleum Explore: Drill & Sell | 227504 | [227504-petroleum-explore-drill-and-sell.json](./227504-petroleum-explore-drill-and-sell.json) |
 | Petrolhead Paradise | 252561 | [252561-petrolhead-paradise.json](./252561-petrolhead-paradise.json) |
 | PetrolHead: Epic Joyride | 236983 | [236983-petrolhead-epic-joyride.json](./236983-petrolhead-epic-joyride.json) |
+| Petrovich and all, all, all... | 250572 | [250572-petrovich-and-all-all-all.json](./250572-petrovich-and-all-all-all.json) |
 | PetRPG | 166472 | [166472-petrpg.json](./166472-petrpg.json) |
 | Pets | 314303 | [314303-pets.json](./314303-pets.json) |
 | Pets | 331219 | [331219-pets.json](./331219-pets.json) |
@@ -12579,6 +12582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PokeNade Monster Ball | 366574 | [366574-pokenade-monster-ball.json](./366574-pokenade-monster-ball.json) |
 | Pokénet | 333548 | [333548-pokenet.json](./333548-pokenet.json) |
 | PokeNexus | 143403 | [143403-pokenexus.json](./143403-pokenexus.json) |
+| Pokengine | 250670 | [250670-pokengine.json](./250670-pokengine.json) |
 | PokéOne | 127982 | [127982-pokeone.json](./127982-pokeone.json) |
 | PokéPark 2: Wonders Beyond | 4559 | [4559-pokepark-2-wonders-beyond.json](./4559-pokepark-2-wonders-beyond.json) |
 | PokéPark Wii: Pikachu's Adventure | 4558 | [4558-pokepark-wii-pikachus-adventure.json](./4558-pokepark-wii-pikachus-adventure.json) |
