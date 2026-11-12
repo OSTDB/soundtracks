@@ -3300,6 +3300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot: Pancakes and Waffles | 201676 | [201676-carrot-pancakes-and-waffles.json](./201676-carrot-pancakes-and-waffles.json) |
 | Carrot: The First Seed | 248918 | [248918-carrot-the-first-seed.json](./248918-carrot-the-first-seed.json) |
 | Carrot&Islands | 164123 | [164123-carrot-and-islands.json](./164123-carrot-and-islands.json) |
+| Carrot2 | 279186 | [279186-carrot2.json](./279186-carrot2.json) |
 | Carrotour | 334407 | [334407-carrotour.json](./334407-carrotour.json) |
 | Carrots and Cream | 22414 | [22414-carrots-and-cream.json](./22414-carrots-and-cream.json) |
 | Carrotting Brain | 34418 | [34418-carrotting-brain.json](./34418-carrotting-brain.json) |
@@ -19482,6 +19483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossout Mobile | 174716 | [174716-crossout-mobile.json](./174716-crossout-mobile.json) |
 | Crossout: “Phantom” | 331997 | [331997-crossout-phantom.json](./331997-crossout-phantom.json) |
 | Crossout: Arsonist Pack | 226820 | [226820-crossout-arsonist-pack.json](./226820-crossout-arsonist-pack.json) |
+| Crossout: Barghest | 279176 | [279176-crossout-barghest.json](./279176-crossout-barghest.json) |
 | Crossout: Biter Starter Pack | 243105 | [243105-crossout-biter-starter-pack.json](./243105-crossout-biter-starter-pack.json) |
 | Crossout: Bone Hunter | 331995 | [331995-crossout-bone-hunter.json](./331995-crossout-bone-hunter.json) |
 | Crossout: Born Free Pack | 226821 | [226821-crossout-born-free-pack.json](./226821-crossout-born-free-pack.json) |
