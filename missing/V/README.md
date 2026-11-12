@@ -882,6 +882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanilla Wafers | 275215 | [275215-vanilla-wafers.json](./275215-vanilla-wafers.json) |
 | Vanilla: Made to Order | 221718 | [221718-vanilla-made-to-order.json](./221718-vanilla-made-to-order.json) |
 | VanillaBeast: Ace in the Hole | 148992 | [148992-vanillabeast-ace-in-the-hole.json](./148992-vanillabeast-ace-in-the-hole.json) |
+| VanillaBeast: Mystery Kink | 289506 | [289506-vanillabeast-mystery-kink.json](./289506-vanillabeast-mystery-kink.json) |
 | VanillaBeast: Retro Knock-Out! | 219413 | [219413-vanillabeast-retro-knock-out.json](./219413-vanillabeast-retro-knock-out.json) |
 | VanillaSugar | 356695 | [356695-vanillasugar.json](./356695-vanillasugar.json) |
 | VanimateApp | 270855 | [270855-vanimateapp.json](./270855-vanimateapp.json) |
@@ -2434,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Defenders | 348906 | [348906-village-defenders.json](./348906-village-defenders.json) |
 | Village Defense | 181034 | [181034-village-defense.json](./181034-village-defense.json) |
 | Village Escape | 342481 | [342481-village-escape.json](./342481-village-escape.json) |
+| Village Farm | 289532 | [289532-village-farm.json](./289532-village-farm.json) |
 | Village Fest: Digging | 161699 | [161699-village-fest-digging.json](./161699-village-fest-digging.json) |
 | Village Feud | 118795 | [118795-village-feud.json](./118795-village-feud.json) |
 | Village Guardians Break | 201400 | [201400-village-guardians-break.json](./201400-village-guardians-break.json) |
