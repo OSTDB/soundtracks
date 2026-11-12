@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoshimitsu Hatsumi | 159999 | [159999-yoshimitsu-hatsumi.json](./159999-yoshimitsu-hatsumi.json) |
 | Yoshimoto Mahjong Club | 382990 | [382990-yoshimoto-mahjong-club.json](./382990-yoshimoto-mahjong-club.json) |
 | Yoshinoya | 43426 | [43426-yoshinoya.json](./43426-yoshinoya.json) |
+| Yoshitsune Densetsu | 264304 | [264304-yoshitsune-densetsu.json](./264304-yoshitsune-densetsu.json) |
 | Yoshitsune Eiyuu-den: The Story of Hero Yoshitsune | 141968 | [141968-yoshitsune-eiyuu-den-the-story-of-hero-yoshitsune.json](./141968-yoshitsune-eiyuu-den-the-story-of-hero-yoshitsune.json) |
 | Yoshitsune-ki | 263951 | [263951-yoshitsune-ki.json](./263951-yoshitsune-ki.json) |
 | Yoshiwara | 328615 | [328615-yoshiwara.json](./328615-yoshiwara.json) |
