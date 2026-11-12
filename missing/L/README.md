@@ -4720,6 +4720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lich Lords | 407890 | [407890-lich-lords.json](./407890-lich-lords.json) |
 | Lich of Might | 399777 | [399777-lich-of-might.json](./399777-lich-of-might.json) |
 | Lich's Dungeon | 295604 | [295604-lichs-dungeon.json](./295604-lichs-dungeon.json) |
+| Lichbound | 258666 | [258666-lichbound.json](./258666-lichbound.json) |
 | Lichdom: Battlemage | 7443 | [7443-lichdom-battlemage.json](./7443-lichdom-battlemage.json) |
 | Lichenia | 138271 | [138271-lichenia.json](./138271-lichenia.json) |
 | Lichenvale | 150926 | [150926-lichenvale.json](./150926-lichenvale.json) |
@@ -10127,6 +10128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Season: King of Fools | 338784 | [338784-lucky-season-king-of-fools.json](./338784-lucky-season-king-of-fools.json) |
 | Lucky Season: King of Fools - Collector's Edition | 386926 | [386926-lucky-season-king-of-fools-collectors-edition.json](./386926-lucky-season-king-of-fools-collectors-edition.json) |
 | Lucky Shelter | 373106 | [373106-lucky-shelter.json](./373106-lucky-shelter.json) |
+| Lucky Shield | 258667 | [258667-lucky-shield.json](./258667-lucky-shield.json) |
 | Lucky Shot | 102968 | [102968-lucky-shot.json](./102968-lucky-shot.json) |
 | Lucky Shot | 303107 | [303107-lucky-shot.json](./303107-lucky-shot.json) |
 | Lucky Shot | 402293 | [402293-lucky-shot.json](./402293-lucky-shot.json) |
