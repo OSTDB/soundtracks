@@ -3673,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EmyLiveShow: Dangers & Mysteries Tale | 311055 | [311055-emyliveshow-dangers-and-mysteries-tale.json](./311055-emyliveshow-dangers-and-mysteries-tale.json) |
 | EmyLiveShow: Demons and Mistresses Tale | 385111 | [385111-emyliveshow-demons-and-mistresses-tale.json](./385111-emyliveshow-demons-and-mistresses-tale.json) |
 | EmyLiveShow: Hentai Puzzle Game | 264774 | [264774-emyliveshow-hentai-puzzle-game.json](./264774-emyliveshow-hentai-puzzle-game.json) |
+| EmyLiveShow: How to Write a Bestseller | 311930 | [311930-emyliveshow-how-to-write-a-bestseller.json](./311930-emyliveshow-how-to-write-a-bestseller.json) |
 | EmyLiveShow: King of Desires | 356959 | [356959-emyliveshow-king-of-desires.json](./356959-emyliveshow-king-of-desires.json) |
 | EmyLiveShow: S&M Story | 248359 | [248359-emyliveshow-s-and-m-story.json](./248359-emyliveshow-s-and-m-story.json) |
 | EmyLiveShow: S&M Story - Safe Edition | 294093 | [294093-emyliveshow-s-and-m-story-safe-edition.json](./294093-emyliveshow-s-and-m-story-safe-edition.json) |
@@ -7455,6 +7456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everreach: Project Eden | 105551 | [105551-everreach-project-eden.json](./105551-everreach-project-eden.json) |
 | EverRun | 90704 | [90704-everrun.json](./90704-everrun.json) |
 | Everseed | 294473 | [294473-everseed.json](./294473-everseed.json) |
+| Everseeker: Little Critters | 312393 | [312393-everseeker-little-critters.json](./312393-everseeker-little-critters.json) |
 | Evershard: Heroes of Gallan's Landing | 404828 | [404828-evershard-heroes-of-gallans-landing.json](./404828-evershard-heroes-of-gallans-landing.json) |
 | Evershire | 320062 | [320062-evershire.json](./320062-evershire.json) |
 | Eversiege | 304657 | [304657-eversiege.json](./304657-eversiege.json) |
