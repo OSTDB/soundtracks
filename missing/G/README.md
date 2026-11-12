@@ -9549,6 +9549,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Garden | 226359 | [226359-green-garden.json](./226359-green-garden.json) |
 | Green Glass | 174609 | [174609-green-glass.json](./174609-green-glass.json) |
 | Green Green | 125742 | [125742-green-green.json](./125742-green-green.json) |
+| Green Green 2: Koi no Special Summer | 294616 | [294616-green-green-2-koi-no-special-summer.json](./294616-green-green-2-koi-no-special-summer.json) |
+| Green Green 3: Hello, Goodbye | 294620 | [294620-green-green-3-hello-goodbye.json](./294620-green-green-3-hello-goodbye.json) |
+| Green Green: Kanenone Dynamic | 294622 | [294622-green-green-kanenone-dynamic.json](./294622-green-green-kanenone-dynamic.json) |
+| Green Green: Kanenone Romantic | 294624 | [294624-green-green-kanenone-romantic.json](./294624-green-green-kanenone-romantic.json) |
 | Green Green: Overdrive Edition | 125743 | [125743-green-green-overdrive-edition.json](./125743-green-green-overdrive-edition.json) |
 | Green Guy Goes Grappling 2 | 255065 | [255065-green-guy-goes-grappling-2.json](./255065-green-guy-goes-grappling-2.json) |
 | Green Hawk Down | 211978 | [211978-green-hawk-down.json](./211978-green-hawk-down.json) |
