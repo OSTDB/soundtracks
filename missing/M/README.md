@@ -10009,6 +10009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercenaries: 4th Generation Warfare | 212677 | [212677-mercenaries-4th-generation-warfare.json](./212677-mercenaries-4th-generation-warfare.json) |
 | Mercenaries: Playground of Destruction | 2683 | [2683-mercenaries-playground-of-destruction.json](./2683-mercenaries-playground-of-destruction.json) |
 | Mercenary | 15499 | [15499-mercenary.json](./15499-mercenary.json) |
+| Mercenary Battle Company: The Reapers | 286706 | [286706-mercenary-battle-company-the-reapers.json](./286706-mercenary-battle-company-the-reapers.json) |
 | Mercenary Battlegrounds | 328845 | [328845-mercenary-battlegrounds.json](./328845-mercenary-battlegrounds.json) |
 | Mercenary Brotherhood | 423295 | [423295-mercenary-brotherhood.json](./423295-mercenary-brotherhood.json) |
 | Mercenary Force | 48917 | [48917-mercenary-force.json](./48917-mercenary-force.json) |
@@ -12652,6 +12653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miles of Cubes | 148537 | [148537-miles-of-cubes.json](./148537-miles-of-cubes.json) |
 | Milestone Shooting Collection 2 | 85784 | [85784-milestone-shooting-collection-2.json](./85784-milestone-shooting-collection-2.json) |
 | MILF | 334765 | [334765-milf.json](./334765-milf.json) |
+| Milf Bar | 286730 | [286730-milf-bar.json](./286730-milf-bar.json) |
 | Milf City | 169622 | [169622-milf-city.json](./169622-milf-city.json) |
 | Milf Collection | 367165 | [367165-milf-collection.json](./367165-milf-collection.json) |
 | MILF Conditioning | 230158 | [230158-milf-conditioning.json](./230158-milf-conditioning.json) |
@@ -22992,6 +22994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Train World | 156663 | [156663-my-train-world.json](./156663-my-train-world.json) |
 | My Trainer is a Futanari | 207328 | [207328-my-trainer-is-a-futanari.json](./207328-my-trainer-is-a-futanari.json) |
 | My Tribe 3D | 223991 | [223991-my-tribe-3d.json](./223991-my-tribe-3d.json) |
+| My Truck Game | 286799 | [286799-my-truck-game.json](./286799-my-truck-game.json) |
 | My Tsundere Femboy | 277368 | [277368-my-tsundere-femboy.json](./277368-my-tsundere-femboy.json) |
 | My Tsundere Sister | 407473 | [407473-my-tsundere-sister.json](./407473-my-tsundere-sister.json) |
 | My tubi | 354233 | [354233-my-tubi.json](./354233-my-tubi.json) |
