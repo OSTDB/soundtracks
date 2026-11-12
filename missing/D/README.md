@@ -11928,6 +11928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Intervention | 74627 | [74627-divine-intervention.json](./74627-divine-intervention.json) |
 | Divine Intervention (Pt. 1) | 141017 | [141017-divine-intervention-pt-1.json](./141017-divine-intervention-pt-1.json) |
 | Divine Intervention: Quran Miracles | 372163 | [372163-divine-intervention-quran-miracles.json](./372163-divine-intervention-quran-miracles.json) |
+| Divine Journey 2 | 282849 | [282849-divine-journey-2.json](./282849-divine-journey-2.json) |
 | Divine Journey 2: The Five Books of Moses | 288721 | [288721-divine-journey-2-the-five-books-of-moses.json](./288721-divine-journey-2-the-five-books-of-moses.json) |
 | Divine Journey: The Life of Jesus | 280199 | [280199-divine-journey-the-life-of-jesus.json](./280199-divine-journey-the-life-of-jesus.json) |
 | Divine Justice Zero | 65757 | [65757-divine-justice-zero.json](./65757-divine-justice-zero.json) |
