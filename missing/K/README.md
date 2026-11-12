@@ -3022,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5427,6 +5428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koino no Kokoro Ikusei Game | 49683 | [49683-koino-no-kokoro-ikusei-game.json](./49683-koino-no-kokoro-ikusei-game.json) |
 | Koinori | 415117 | [415117-koinori.json](./415117-koinori.json) |
 | Koinu de Kururin | 412988 | [412988-koinu-de-kururin.json](./412988-koinu-de-kururin.json) |
+| Koinu to Issho Special | 287267 | [287267-koinu-to-issho-special.json](./287267-koinu-to-issho-special.json) |
 | Koinu to Issho! 2 | 49684 | [49684-koinu-to-issho-2.json](./49684-koinu-to-issho-2.json) |
 | Koinu to Issho! Aijou Monogatari | 49637 | [49637-koinu-to-issho-aijou-monogatari.json](./49637-koinu-to-issho-aijou-monogatari.json) |
 | Koioto Se Piace | 386255 | [386255-koioto-se-piace.json](./386255-koioto-se-piace.json) |
@@ -5626,6 +5628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konchuu Hakase 2 | 228603 | [228603-konchuu-hakase-2.json](./228603-konchuu-hakase-2.json) |
 | Konchuu Monster: Battle Master | 97816 | [97816-konchuu-monster-battle-master.json](./97816-konchuu-monster-battle-master.json) |
 | Konchuu Monster: Battle Stadium | 49681 | [49681-konchuu-monster-battle-stadium.json](./49681-konchuu-monster-battle-stadium.json) |
+| Konchuu Monster: Ouja Ketteisen | 287258 | [287258-konchuu-monster-ouja-ketteisen.json](./287258-konchuu-monster-ouja-ketteisen.json) |
 | Konchuu Monster: Super Battle | 222482 | [222482-konchuu-monster-super-battle.json](./222482-konchuu-monster-super-battle.json) |
 | Konchuu Monster: Super Battle | 97814 | [97814-konchuu-monster-super-battle.json](./97814-konchuu-monster-super-battle.json) |
 | Konchuu no Mori no Daibouken | 49680 | [49680-konchuu-no-mori-no-daibouken.json](./49680-konchuu-no-mori-no-daibouken.json) |
