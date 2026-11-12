@@ -3232,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius Scientist: Bioruru 2 | 82564 | [82564-genius-scientist-bioruru-2.json](./82564-genius-scientist-bioruru-2.json) |
 | Genius Shooter | 196540 | [196540-genius-shooter.json](./196540-genius-shooter.json) |
 | Genius Simulator | 418843 | [418843-genius-simulator.json](./418843-genius-simulator.json) |
+| Genius Supernatural Romance | 298905 | [298905-genius-supernatural-romance.json](./298905-genius-supernatural-romance.json) |
 | Genius vs. Antichrist 1 | 201530 | [201530-genius-vs-antichrist-1.json](./201530-genius-vs-antichrist-1.json) |
 | Genius: Biology | 70769 | [70769-genius-biology.json](./70769-genius-biology.json) |
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
@@ -4092,6 +4093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Member | 264689 | [264689-ghost-member.json](./264689-ghost-member.json) |
 | Ghost Milf | 405325 | [405325-ghost-milf.json](./405325-ghost-milf.json) |
 | Ghost Mission | 256425 | [256425-ghost-mission.json](./256425-ghost-mission.json) |
+| Ghost Moon High Noon | 298479 | [298479-ghost-moon-high-noon.json](./298479-ghost-moon-high-noon.json) |
 | Ghost Motel 1 | 246201 | [246201-ghost-motel-1.json](./246201-ghost-motel-1.json) |
 | Ghost Mountain | 114992 | [114992-ghost-mountain.json](./114992-ghost-mountain.json) |
 | Ghost Mountain Roller Coaster | 157360 | [157360-ghost-mountain-roller-coaster.json](./157360-ghost-mountain-roller-coaster.json) |
@@ -11636,6 +11638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunbo | 182624 | [182624-gunbo.json](./182624-gunbo.json) |
 | Gunboat God | 305189 | [305189-gunboat-god.json](./305189-gunboat-god.json) |
 | Gunboat: River Combat Simulation | 12127 | [12127-gunboat-river-combat-simulation.json](./12127-gunboat-river-combat-simulation.json) |
+| Gunbot Diplomacy | 297960 | [297960-gunbot-diplomacy.json](./297960-gunbot-diplomacy.json) |
 | GunBound | 26189 | [26189-gunbound.json](./26189-gunbound.json) |
 | Gunbound T | 234450 | [234450-gunbound-t.json](./234450-gunbound-t.json) |
 | GunboundM | 69500 | [69500-gunboundm.json](./69500-gunboundm.json) |
