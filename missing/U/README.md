@@ -2540,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe | 130867 | [130867-universe.json](./130867-universe.json) |
 | Universe | 13088 | [13088-universe.json](./13088-universe.json) |
 | Universe | 2222 | [2222-universe.json](./2222-universe.json) |
+| Universe | 286696 | [286696-universe.json](./286696-universe.json) |
 | Universe 24 | 116301 | [116301-universe-24.json](./116301-universe-24.json) |
 | Universe 25: The Loop | 171072 | [171072-universe-25-the-loop.json](./171072-universe-25-the-loop.json) |
 | Universe 3 | 13085 | [13085-universe-3.json](./13085-universe-3.json) |
