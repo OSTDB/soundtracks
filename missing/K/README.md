@@ -1404,6 +1404,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kavinsky | 60770 | [60770-kavinsky.json](./60770-kavinsky.json) |
 | Kawã na Terra dos Indígenas Maraguá | 283099 | [283099-kawa-na-terra-dos-indigenas-maragua.json](./283099-kawa-na-terra-dos-indigenas-maragua.json) |
 | Kawa no Kuma-san | 108132 | [108132-kawa-no-kuma-san.json](./108132-kawa-no-kuma-san.json) |
+| Kawa no Nushi Tsuri 3 | 275930 | [275930-kawa-no-nushi-tsuri-3.json](./275930-kawa-no-nushi-tsuri-3.json) |
+| Kawa no Nushi Tsuri 4 | 275931 | [275931-kawa-no-nushi-tsuri-4.json](./275931-kawa-no-nushi-tsuri-4.json) |
 | Kawa no Nushi Tsuri: Hikyou wo Motomete | 61853 | [61853-kawa-no-nushi-tsuri-hikyou-wo-motomete.json](./61853-kawa-no-nushi-tsuri-hikyou-wo-motomete.json) |
 | Kawaida's Journey | 124512 | [124512-kawaidas-journey.json](./124512-kawaidas-journey.json) |
 | Kawaii Anime: Cute Boys Magic World | 409535 | [409535-kawaii-anime-cute-boys-magic-world.json](./409535-kawaii-anime-cute-boys-magic-world.json) |
@@ -2206,6 +2208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KFZ | 219663 | [219663-kfz.json](./219663-kfz.json) |
 | KGB | 3362 | [3362-kgb.json](./3362-kgb.json) |
 | KGB Super Spy | 92633 | [92633-kgb-super-spy.json](./92633-kgb-super-spy.json) |
+| KGoldrunner | 275786 | [275786-kgoldrunner.json](./275786-kgoldrunner.json) |
 | Khaba | 28581 | [28581-khaba.json](./28581-khaba.json) |
 | Khalaan | 15239 | [15239-khalaan.json](./15239-khalaan.json) |
 | Khalco Farm | 414505 | [414505-khalco-farm.json](./414505-khalco-farm.json) |
@@ -3032,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
