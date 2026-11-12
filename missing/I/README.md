@@ -2301,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: Hell Hawks Over the Bulge Campaign | 267661 | [267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json](./267661-il-2-sturmovik-hell-hawks-over-the-bulge-campaign.json) |
 | IL-2 Sturmovik: La-5F Series 38 Collector Plane | 285613 | [285613-il-2-sturmovik-la-5f-series-38-collector-plane.json](./285613-il-2-sturmovik-la-5f-series-38-collector-plane.json) |
 | IL-2 Sturmovik: Lisunov Li-2 Collector Plane | 267662 | [267662-il-2-sturmovik-lisunov-li-2-collector-plane.json](./267662-il-2-sturmovik-lisunov-li-2-collector-plane.json) |
+| IL-2 Sturmovik: Overlord Campaign | 274629 | [274629-il-2-sturmovik-overlord-campaign.json](./274629-il-2-sturmovik-overlord-campaign.json) |
 | IL-2 Sturmovik: Sky Nomads Campaign | 254906 | [254906-il-2-sturmovik-sky-nomads-campaign.json](./254906-il-2-sturmovik-sky-nomads-campaign.json) |
 | IL-2 Sturmovik: Ten Days of Autumn Campaign | 267663 | [267663-il-2-sturmovik-ten-days-of-autumn-campaign.json](./267663-il-2-sturmovik-ten-days-of-autumn-campaign.json) |
 | Il-2 Sturmovik: Ultimate Edition | 146130 | [146130-il-2-sturmovik-ultimate-edition.json](./146130-il-2-sturmovik-ultimate-edition.json) |
