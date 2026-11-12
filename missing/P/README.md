@@ -3925,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaceful Lands | 236866 | [236866-peaceful-lands.json](./236866-peaceful-lands.json) |
 | Peaceful Soul | 171701 | [171701-peaceful-soul.json](./171701-peaceful-soul.json) |
 | Peacekeeper | 62088 | [62088-peacekeeper.json](./62088-peacekeeper.json) |
+| Peaceland | 275271 | [275271-peaceland.json](./275271-peaceland.json) |
 | Peacely Online | 308185 | [308185-peacely-online.json](./308185-peacely-online.json) |
 | Peacemaker | 21433 | [21433-peacemaker.json](./21433-peacemaker.json) |
 | Peacemaker: Bloody Emperor | 264665 | [264665-peacemaker-bloody-emperor.json](./264665-peacemaker-bloody-emperor.json) |
@@ -3994,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaky Blinders VR | 117742 | [117742-peaky-blinders-vr.json](./117742-peaky-blinders-vr.json) |
 | Peaky Blinders: Mastermind | 132634 | [132634-peaky-blinders-mastermind.json](./132634-peaky-blinders-mastermind.json) |
 | Peaky Blinders: The King's Ransom | 211902 | [211902-peaky-blinders-the-kings-ransom.json](./211902-peaky-blinders-the-kings-ransom.json) |
+| Peaky Blinders: The King's Ransom - Complete Edition | 275197 | [275197-peaky-blinders-the-kings-ransom-complete-edition.json](./275197-peaky-blinders-the-kings-ransom-complete-edition.json) |
 | Peaky Circus | 211819 | [211819-peaky-circus.json](./211819-peaky-circus.json) |
 | Peanut | 117921 | [117921-peanut.json](./117921-peanut.json) |
 | Peanut Butter Jelly Wars | 253874 | [253874-peanut-butter-jelly-wars.json](./253874-peanut-butter-jelly-wars.json) |
@@ -14620,6 +14622,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Rangers: Dino Thunder | 3289 | [3289-power-rangers-dino-thunder.json](./3289-power-rangers-dino-thunder.json) |
 | Power Rangers: Force in Time | 220104 | [220104-power-rangers-force-in-time.json](./220104-power-rangers-force-in-time.json) |
 | Power Rangers: Lightspeed Rescue | 248766 | [248766-power-rangers-lightspeed-rescue.json](./248766-power-rangers-lightspeed-rescue.json) |
+| Power Rangers: Lightspeed Rescue | 275179 | [275179-power-rangers-lightspeed-rescue.json](./275179-power-rangers-lightspeed-rescue.json) |
+| Power Rangers: Lightspeed Rescue | 275181 | [275181-power-rangers-lightspeed-rescue.json](./275181-power-rangers-lightspeed-rescue.json) |
 | Power Rangers: Morphin Legends | 208151 | [208151-power-rangers-morphin-legends.json](./208151-power-rangers-morphin-legends.json) |
 | Power Rangers: Mystic Force | 330744 | [330744-power-rangers-mystic-force.json](./330744-power-rangers-mystic-force.json) |
 | Power Rangers: Ninja Storm | 284965 | [284965-power-rangers-ninja-storm.json](./284965-power-rangers-ninja-storm.json) |
