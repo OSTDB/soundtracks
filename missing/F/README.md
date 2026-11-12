@@ -6669,6 +6669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireworks Extravaganza | 57611 | [57611-fireworks-extravaganza.json](./57611-fireworks-extravaganza.json) |
 | Fireworks Factory | 383318 | [383318-fireworks-factory.json](./383318-fireworks-factory.json) |
 | Fireworks Frenzy | 250727 | [250727-fireworks-frenzy.json](./250727-fireworks-frenzy.json) |
+| FireWorks Inc. | 289498 | [289498-fireworks-inc.json](./289498-fireworks-inc.json) |
 | Fireworks Mania | 126512 | [126512-fireworks-mania.json](./126512-fireworks-mania.json) |
 | Fireworks Show A | 354392 | [354392-fireworks-show-a.json](./354392-fireworks-show-a.json) |
 | Fireworks Show B | 354393 | [354393-fireworks-show-b.json](./354393-fireworks-show-b.json) |
@@ -11575,6 +11576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forza Motorsport: 2020 Audi TT RS Coupe | 295482 | [295482-forza-motorsport-2020-audi-tt-rs-coupe.json](./295482-forza-motorsport-2020-audi-tt-rs-coupe.json) |
 | Forza Motorsport: 2020 Lexus #14 VASSER SULLIVAN RC F GT3 | 295478 | [295478-forza-motorsport-2020-lexus-14-vasser-sullivan-rc-f-gt3.json](./295478-forza-motorsport-2020-lexus-14-vasser-sullivan-rc-f-gt3.json) |
 | Forza Motorsport: 2021 Cadillac #31 Whelen Racing DPi-V.R | 285380 | [285380-forza-motorsport-2021-cadillac-31-whelen-racing-dpi-v-r.json](./285380-forza-motorsport-2021-cadillac-31-whelen-racing-dpi-v-r.json) |
+| Forza Motorsport: 2022 Aston Martin Valkyrie AMR Pro | 289505 | [289505-forza-motorsport-2022-aston-martin-valkyrie-amr-pro.json](./289505-forza-motorsport-2022-aston-martin-valkyrie-amr-pro.json) |
 | Forza Motorsport: 2024 Ford Mustang Dark Horse | 361778 | [361778-forza-motorsport-2024-ford-mustang-dark-horse.json](./361778-forza-motorsport-2024-ford-mustang-dark-horse.json) |
 | Forza Motorsport: Car Pass | 267845 | [267845-forza-motorsport-car-pass.json](./267845-forza-motorsport-car-pass.json) |
 | Forza Motorsport: Deluxe Edition | 271467 | [271467-forza-motorsport-deluxe-edition.json](./271467-forza-motorsport-deluxe-edition.json) |
