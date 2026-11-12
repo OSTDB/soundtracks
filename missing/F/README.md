@@ -7501,20 +7501,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Flow's 2 | 377842 | [377842-five-nights-at-flows-2.json](./377842-five-nights-at-flows-2.json) |
 | Five Nights at Fredbear's | 278301 | [278301-five-nights-at-fredbears.json](./278301-five-nights-at-fredbears.json) |
 | Five Nights at Freddy's | 223088 | [223088-five-nights-at-freddys.json](./223088-five-nights-at-freddys.json) |
+| Five Nights at Freddy's | 265911 | [265911-five-nights-at-freddys.json](./265911-five-nights-at-freddys.json) |
 | Five Nights at Freddy's | 308405 | [308405-five-nights-at-freddys.json](./308405-five-nights-at-freddys.json) |
 | Five Nights at Freddy's | 339271 | [339271-five-nights-at-freddys.json](./339271-five-nights-at-freddys.json) |
 | Five Nights at Freddy's | 8499 | [8499-five-nights-at-freddys.json](./8499-five-nights-at-freddys.json) |
 | Five Nights at Freddy's 1 Doom | 291028 | [291028-five-nights-at-freddys-1-doom.json](./291028-five-nights-at-freddys-1-doom.json) |
+| Five Nights at Freddy's 2 | 265912 | [265912-five-nights-at-freddys-2.json](./265912-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 2 | 305746 | [305746-five-nights-at-freddys-2.json](./305746-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 2 | 339238 | [339238-five-nights-at-freddys-2.json](./339238-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 2 | 9195 | [9195-five-nights-at-freddys-2.json](./9195-five-nights-at-freddys-2.json) |
 | Five Nights at Freddy's 3 | 230775 | [230775-five-nights-at-freddys-3.json](./230775-five-nights-at-freddys-3.json) |
 | Five Nights at Freddy's 3 | 241177 | [241177-five-nights-at-freddys-3.json](./241177-five-nights-at-freddys-3.json) |
+| Five Nights at Freddy's 3 | 265913 | [265913-five-nights-at-freddys-3.json](./265913-five-nights-at-freddys-3.json) |
 | Five Nights at Freddy's 3 | 312229 | [312229-five-nights-at-freddys-3.json](./312229-five-nights-at-freddys-3.json) |
 | Five Nights at Freddy's 3 | 9196 | [9196-five-nights-at-freddys-3.json](./9196-five-nights-at-freddys-3.json) |
 | Five Nights at Freddy's 3D | 271944 | [271944-five-nights-at-freddys-3d.json](./271944-five-nights-at-freddys-3d.json) |
 | Five Nights at Freddy's 4 | 11583 | [11583-five-nights-at-freddys-4.json](./11583-five-nights-at-freddys-4.json) |
 | Five Nights at Freddy's 4 | 241192 | [241192-five-nights-at-freddys-4.json](./241192-five-nights-at-freddys-4.json) |
+| Five Nights at Freddy's 4 | 265916 | [265916-five-nights-at-freddys-4.json](./265916-five-nights-at-freddys-4.json) |
 | Five Nights at Freddy's 4 | 312230 | [312230-five-nights-at-freddys-4.json](./312230-five-nights-at-freddys-4.json) |
 | Five Nights at Freddy's 4 VR | 231667 | [231667-five-nights-at-freddys-4-vr.json](./231667-five-nights-at-freddys-4-vr.json) |
 | Five Nights at Freddy's 4: Halloween Edition | 226410 | [226410-five-nights-at-freddys-4-halloween-edition.json](./226410-five-nights-at-freddys-4-halloween-edition.json) |
@@ -7566,6 +7570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Showtime | 381056 | [381056-five-nights-at-freddys-showtime.json](./381056-five-nights-at-freddys-showtime.json) |
 | Five Nights at Freddy's: Sister Location | 19320 | [19320-five-nights-at-freddys-sister-location.json](./19320-five-nights-at-freddys-sister-location.json) |
 | Five Nights at Freddy's: Sister Location | 241462 | [241462-five-nights-at-freddys-sister-location.json](./241462-five-nights-at-freddys-sister-location.json) |
+| Five Nights at Freddy's: Sister Location | 265917 | [265917-five-nights-at-freddys-sister-location.json](./265917-five-nights-at-freddys-sister-location.json) |
 | Five Nights at Freddy's: Sister Location - Custom Night | 230683 | [230683-five-nights-at-freddys-sister-location-custom-night.json](./230683-five-nights-at-freddys-sister-location-custom-night.json) |
 | Five Nights at Freddy's: Sister Location VR | 191642 | [191642-five-nights-at-freddys-sister-location-vr.json](./191642-five-nights-at-freddys-sister-location-vr.json) |
 | Five Nights at Freddy's: Spiral | 427227 | [427227-five-nights-at-freddys-spiral.json](./427227-five-nights-at-freddys-spiral.json) |
@@ -7814,6 +7819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flak | 14073 | [14073-flak.json](./14073-flak.json) |
 | Flak | 170893 | [170893-flak.json](./170893-flak.json) |
 | Flakboy | 264480 | [264480-flakboy.json](./264480-flakboy.json) |
+| Flakboy 2 | 265903 | [265903-flakboy-2.json](./265903-flakboy-2.json) |
 | Flake: The Legend of Snowblind | 287195 | [287195-flake-the-legend-of-snowblind.json](./287195-flake-the-legend-of-snowblind.json) |
 | Flaklypa Grand Prix | 182603 | [182603-flaklypa-grand-prix.json](./182603-flaklypa-grand-prix.json) |
 | Flaky Bakery | 117790 | [117790-flaky-bakery.json](./117790-flaky-bakery.json) |
@@ -12444,6 +12450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy | 280774 | [280774-freddy.json](./280774-freddy.json) |
 | Freddy Farmer | 324186 | [324186-freddy-farmer.json](./324186-freddy-farmer.json) |
 | Freddy Fazbear's Pizza Massacre | 272297 | [272297-freddy-fazbears-pizza-massacre.json](./272297-freddy-fazbears-pizza-massacre.json) |
+| Freddy Fazbear's Pizzeria Simulator | 265918 | [265918-freddy-fazbears-pizzeria-simulator.json](./265918-freddy-fazbears-pizzeria-simulator.json) |
 | Freddy Fazbear's Pizzeria Simulator | 76725 | [76725-freddy-fazbears-pizzeria-simulator.json](./76725-freddy-fazbears-pizzeria-simulator.json) |
 | Freddy Fazbear's Pizzeria Simulator VR | 231618 | [231618-freddy-fazbears-pizzeria-simulator-vr.json](./231618-freddy-fazbears-pizzeria-simulator-vr.json) |
 | Freddy Fazbears: Security Replacement | 313248 | [313248-freddy-fazbears-security-replacement.json](./313248-freddy-fazbears-security-replacement.json) |
@@ -12628,6 +12635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Planet | 7116 | [7116-freedom-planet.json](./7116-freedom-planet.json) |
 | Freedom Planet 1+2 Bundle | 295696 | [295696-freedom-planet-1-2-bundle.json](./295696-freedom-planet-1-2-bundle.json) |
 | Freedom Planet 2 | 26622 | [26622-freedom-planet-2.json](./26622-freedom-planet-2.json) |
+| Freedom Planet: Shang Mu Architect | 265901 | [265901-freedom-planet-shang-mu-architect.json](./265901-freedom-planet-shang-mu-architect.json) |
 | Freedom Poopie | 34520 | [34520-freedom-poopie.json](./34520-freedom-poopie.json) |
 | Freedom Tower | 260334 | [260334-freedom-tower.json](./260334-freedom-tower.json) |
 | Freedom Wars | 6060 | [6060-freedom-wars.json](./6060-freedom-wars.json) |
