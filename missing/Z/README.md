@@ -527,6 +527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelda 64 1997 | 286619 | [286619-zelda-64-1997.json](./286619-zelda-64-1997.json) |
 | Zelda 64: Dawn & Dusk | 132646 | [132646-zelda-64-dawn-and-dusk.json](./132646-zelda-64-dawn-and-dusk.json) |
 | Zelda 64: Recompiled | 300982 | [300982-zelda-64-recompiled.json](./300982-zelda-64-recompiled.json) |
+| Zelda 64: Recompiled - Majora's Mask | 300618 | [300618-zelda-64-recompiled-majoras-mask.json](./300618-zelda-64-recompiled-majoras-mask.json) |
 | Zelda 64: Recompiled - Ocarina of Time | 301110 | [301110-zelda-64-recompiled-ocarina-of-time.json](./301110-zelda-64-recompiled-ocarina-of-time.json) |
 | Zelda 64: Shifting Sand Dungeon | 300250 | [300250-zelda-64-shifting-sand-dungeon.json](./300250-zelda-64-shifting-sand-dungeon.json) |
 | Zelda Again: Link Is Adventuresome | 344251 | [344251-zelda-again-link-is-adventuresome.json](./344251-zelda-again-link-is-adventuresome.json) |
@@ -1154,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeta Station Has Gone Quiet | 138942 | [138942-zeta-station-has-gone-quiet.json](./138942-zeta-station-has-gone-quiet.json) |
 | Zeta Wave Infinity | 296319 | [296319-zeta-wave-infinity.json](./296319-zeta-wave-infinity.json) |
 | Zeta Wolf Chronicles | 179082 | [179082-zeta-wolf-chronicles.json](./179082-zeta-wolf-chronicles.json) |
+| Zeta Wolf: First Bite | 300597 | [300597-zeta-wolf-first-bite.json](./300597-zeta-wolf-first-bite.json) |
 | Zeta-7 | 25806 | [25806-zeta-7.json](./25806-zeta-7.json) |
 | Zeta's World | 337446 | [337446-zetas-world.json](./337446-zetas-world.json) |
 | ZetaZania Part 1: Vampire Pirates from Uranus | 336871 | [336871-zetazania-part-1-vampire-pirates-from-uranus.json](./336871-zetazania-part-1-vampire-pirates-from-uranus.json) |
