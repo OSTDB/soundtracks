@@ -7809,6 +7809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Mountains: Downhill - Rivera's Revenge | 274479 | [274479-lonely-mountains-downhill-riveras-revenge.json](./274479-lonely-mountains-downhill-riveras-revenge.json) |
 | Lonely Mountains: Snow Riders | 313812 | [313812-lonely-mountains-snow-riders.json](./313812-lonely-mountains-snow-riders.json) |
 | Lonely Mountains: Snow Riders - Baifushan | 339953 | [339953-lonely-mountains-snow-riders-baifushan.json](./339953-lonely-mountains-snow-riders-baifushan.json) |
+| Lonely One | 248872 | [248872-lonely-one.json](./248872-lonely-one.json) |
 | Lonely One : Hole-in-one | 86487 | [86487-lonely-one-hole-in-one.json](./86487-lonely-one-hole-in-one.json) |
 | Lonely Owl | 335460 | [335460-lonely-owl.json](./335460-lonely-owl.json) |
 | Lonely Path | 250006 | [250006-lonely-path.json](./250006-lonely-path.json) |
