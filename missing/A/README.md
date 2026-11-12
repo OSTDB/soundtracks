@@ -13562,6 +13562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: In the Hunt | 125658 | [125658-arcade-archives-in-the-hunt.json](./125658-arcade-archives-in-the-hunt.json) |
 | Arcade Archives: Itazura Tenshi | 224916 | [224916-arcade-archives-itazura-tenshi.json](./224916-arcade-archives-itazura-tenshi.json) |
 | Arcade Archives: Jackal | 308667 | [308667-arcade-archives-jackal.json](./308667-arcade-archives-jackal.json) |
+| Arcade Archives: Jail Break | 266528 | [266528-arcade-archives-jail-break.json](./266528-arcade-archives-jail-break.json) |
 | Arcade Archives: Jungler | 288004 | [288004-arcade-archives-jungler.json](./288004-arcade-archives-jungler.json) |
 | Arcade Archives: Juno First | 335981 | [335981-arcade-archives-juno-first.json](./335981-arcade-archives-juno-first.json) |
 | Arcade Archives: Kangaroo | 147108 | [147108-arcade-archives-kangaroo.json](./147108-arcade-archives-kangaroo.json) |
