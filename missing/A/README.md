@@ -5100,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Empires II: Definitive Edition - The Mountain Royals | 272328 | [272328-age-of-empires-ii-definitive-edition-the-mountain-royals.json](./272328-age-of-empires-ii-definitive-edition-the-mountain-royals.json) |
 | Age of Empires II: Definitive Edition - The Three Kingdoms | 342809 | [342809-age-of-empires-ii-definitive-edition-the-three-kingdoms.json](./342809-age-of-empires-ii-definitive-edition-the-three-kingdoms.json) |
 | Age of Empires II: Definitive Edition - The Viking Sagas | 418697 | [418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json](./418697-age-of-empires-ii-definitive-edition-the-viking-sagas.json) |
+| Age of Empires II: Definitive Edition - Victors and Vanquished | 290126 | [290126-age-of-empires-ii-definitive-edition-victors-and-vanquished.json](./290126-age-of-empires-ii-definitive-edition-victors-and-vanquished.json) |
 | Age of Empires II: Forgotten Empires | 9950 | [9950-age-of-empires-ii-forgotten-empires.json](./9950-age-of-empires-ii-forgotten-empires.json) |
 | Age of Empires II: Gold Edition | 129797 | [129797-age-of-empires-ii-gold-edition.json](./129797-age-of-empires-ii-gold-edition.json) |
 | Age of Empires II: HD Edition | 2950 | [2950-age-of-empires-ii-hd-edition.json](./2950-age-of-empires-ii-hd-edition.json) |
@@ -16165,6 +16166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash | 127264 | [127264-ash.json](./127264-ash.json) |
 | Ash | 57518 | [57518-ash.json](./57518-ash.json) |
 | Ash & Adam's Existential Treads | 364392 | [364392-ash-and-adams-existential-treads.json](./364392-ash-and-adams-existential-treads.json) |
+| Ash & Adam's Gobsmacked | 290564 | [290564-ash-and-adams-gobsmacked.json](./290564-ash-and-adams-gobsmacked.json) |
 | Ash & Rust | 190902 | [190902-ash-and-rust.json](./190902-ash-and-rust.json) |
 | Ash and Tor: Yuma's Quest | 276265 | [276265-ash-and-tor-yumas-quest.json](./276265-ash-and-tor-yumas-quest.json) |
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
@@ -17652,6 +17654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aswin's Dream | 58004 | [58004-aswins-dream.json](./58004-aswins-dream.json) |
 | Asy przestworzy | 204728 | [204728-asy-przestworzy.json](./204728-asy-przestworzy.json) |
 | Asylamba : Influence | 99154 | [99154-asylamba-influence.json](./99154-asylamba-influence.json) |
+| Asyle | 290604 | [290604-asyle.json](./290604-asyle.json) |
 | Asylum | 13807 | [13807-asylum.json](./13807-asylum.json) |
 | Asylum | 308294 | [308294-asylum.json](./308294-asylum.json) |
 | Asylum | 356277 | [356277-asylum.json](./356277-asylum.json) |
@@ -19620,6 +19623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awexome Cross | 135869 | [135869-awexome-cross.json](./135869-awexome-cross.json) |
 | Awful Fantasy III | 339242 | [339242-awful-fantasy-iii.json](./339242-awful-fantasy-iii.json) |
 | Awful Kidnapper | 300410 | [300410-awful-kidnapper.json](./300410-awful-kidnapper.json) |
+| Awful Marco Bros | 290583 | [290583-awful-marco-bros.json](./290583-awful-marco-bros.json) |
 | Awful Mario World | 314897 | [314897-awful-mario-world.json](./314897-awful-mario-world.json) |
 | Awfully Good Pizza | 148196 | [148196-awfully-good-pizza.json](./148196-awfully-good-pizza.json) |
 | Awita: Journey of Hope | 247968 | [247968-awita-journey-of-hope.json](./247968-awita-journey-of-hope.json) |
