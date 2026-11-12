@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-12T00:41:02.745Z",
-  "total_soundtracks": 3218,
+  "generated_at": "2026-11-12T00:51:01.022Z",
+  "total_soundtracks": 3222,
   "games": [
     {
       "igdb_id": 7522,
@@ -17649,6 +17649,20 @@
       ]
     },
     {
+      "igdb_id": 208929,
+      "game_name": "Jetpack Joyride 2",
+      "game_url": "https://ostdb.net/games/jetpack-joyride-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273a4e8a47ceb3826d7a56bf57b",
+      "albums": [
+        {
+          "album_name": "Jetpack Joyride 2 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0UT4nxdIb7Avb4DeEKKAZw",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 112638,
       "game_name": "Jets'n'Guns 2",
       "game_url": "https://ostdb.net/games/jetsnguns-2",
@@ -33801,6 +33815,20 @@
       ]
     },
     {
+      "igdb_id": 226605,
+      "game_name": "Teleforum",
+      "game_url": "https://ostdb.net/games/teleforum",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730f2082bef9b23ec78eeca569",
+      "albums": [
+        {
+          "album_name": "TELEFORUM (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/76CNgxJgdGw4kwaweU2abr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 213240,
       "game_name": "Tempest Rising",
       "game_url": "https://ostdb.net/games/tempest-rising",
@@ -37315,6 +37343,20 @@
       ]
     },
     {
+      "igdb_id": 213113,
+      "game_name": "Train Sim World 3",
+      "game_url": "https://ostdb.net/games/train-sim-world-3",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736c8f632cb2bfc7f3c9fd3f65",
+      "albums": [
+        {
+          "album_name": "Train Sim World 3 (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/37vTpTO3RgEb7LkmQKiKUl",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 262582,
       "game_name": "Train Sim World 4",
       "game_url": "https://ostdb.net/games/train-sim-world-4",
@@ -38373,6 +38415,20 @@
         {
           "album_name": "Unworthy (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0Zsz42Uj8FlI09ikr8Mhfz",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 216784,
+      "game_name": "Urban Myth Dissolution Center",
+      "game_url": "https://ostdb.net/games/urban-myth-dissolution-center",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27319019296090d5f8276bcf050",
+      "albums": [
+        {
+          "album_name": "Urban Myth Dissolution Center Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/0c5smaueFP01WKQxAl5dTo",
           "apple_music_url": "",
           "album_link_url": ""
         }
