@@ -15664,6 +15664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Fighting 3: The Path of The Warrior | 6566 | [6566-art-of-fighting-3-the-path-of-the-warrior.json](./6566-art-of-fighting-3-the-path-of-the-warrior.json) |
 | Art of Fighting Anthology | 21530 | [21530-art-of-fighting-anthology.json](./21530-art-of-fighting-anthology.json) |
 | Art of Fighting: Trouble in South Town | 230256 | [230256-art-of-fighting-trouble-in-south-town.json](./230256-art-of-fighting-trouble-in-south-town.json) |
+| Art of Glide | 285662 | [285662-art-of-glide.json](./285662-art-of-glide.json) |
 | Art of Glide 3 | 332325 | [332325-art-of-glide-3.json](./332325-art-of-glide-3.json) |
 | Art of Glide II | 306530 | [306530-art-of-glide-ii.json](./306530-art-of-glide-ii.json) |
 | Art of Golf | 259045 | [259045-art-of-golf.json](./259045-art-of-golf.json) |
