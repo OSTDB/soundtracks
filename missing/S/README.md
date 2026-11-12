@@ -26988,6 +26988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stark Monstrosity | 271509 | [271509-stark-monstrosity.json](./271509-stark-monstrosity.json) |
 | Stark Penitentiary | 161892 | [161892-stark-penitentiary.json](./161892-stark-penitentiary.json) |
 | Stark Tower Defense | 256093 | [256093-stark-tower-defense.json](./256093-stark-tower-defense.json) |
+| Stark Zero | 303827 | [303827-stark-zero.json](./303827-stark-zero.json) |
 | StarKeeper | 320066 | [320066-starkeeper.json](./320066-starkeeper.json) |
 | Starkid's Obstacle Course | 111199 | [111199-starkids-obstacle-course.json](./111199-starkids-obstacle-course.json) |
 | Starl 11: The Fog Loop | 415819 | [415819-starl-11-the-fog-loop.json](./415819-starl-11-the-fog-loop.json) |
@@ -33346,6 +33347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fish Bets | 399178 | [399178-super-fish-bets.json](./399178-super-fish-bets.json) |
 | Super Fishermind | 266139 | [266139-super-fishermind.json](./266139-super-fishermind.json) |
 | Super Fishing: Big Fight | 38109 | [38109-super-fishing-big-fight.json](./38109-super-fishing-big-fight.json) |
+| Super Fists | 303828 | [303828-super-fists.json](./303828-super-fists.json) |
 | Super Flail | 105387 | [105387-super-flail.json](./105387-super-flail.json) |
 | Super Flappy Golf | 346724 | [346724-super-flappy-golf.json](./346724-super-flappy-golf.json) |
 | Super Flash Mario Bros. | 302759 | [302759-super-flash-mario-bros.json](./302759-super-flash-mario-bros.json) |
