@@ -5794,6 +5794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intruders | 110244 | [110244-intruders.json](./110244-intruders.json) |
 | Intruders: Robot Defense | 200237 | [200237-intruders-robot-defense.json](./200237-intruders-robot-defense.json) |
 | Intrusion | 148215 | [148215-intrusion.json](./148215-intrusion.json) |
+| Intrusion | 265988 | [265988-intrusion.json](./265988-intrusion.json) |
 | Intrusion of Alice | 223175 | [223175-intrusion-of-alice.json](./223175-intrusion-of-alice.json) |
 | Intrusive Thoughts | 325517 | [325517-intrusive-thoughts.json](./325517-intrusive-thoughts.json) |
 | Intus | 418685 | [418685-intus.json](./418685-intus.json) |
@@ -7248,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Raining Cats' & Dogs' Poop | 62217 | [62217-its-raining-cats-and-dogs-poop.json](./62217-its-raining-cats-and-dogs-poop.json) |
 | It's Raining Cats' & Dogs' Poop 2 | 62216 | [62216-its-raining-cats-and-dogs-poop-2.json](./62216-its-raining-cats-and-dogs-poop-2.json) |
 | It's Raining Fists and Metal | 124202 | [124202-its-raining-fists-and-metal.json](./124202-its-raining-fists-and-metal.json) |
+| It's Real And It Kills | 265987 | [265987-its-real-and-it-kills.json](./265987-its-real-and-it-kills.json) |
 | It's Six Random Characters and a Single Floor Dungeon: That's the Whole Game | 140848 | [140848-its-six-random-characters-and-a-single-floor-dungeon-thats-the-whole-game.json](./140848-its-six-random-characters-and-a-single-floor-dungeon-thats-the-whole-game.json) |
 | It's Skrot-Robot Time! | 293978 | [293978-its-skrot-robot-time.json](./293978-its-skrot-robot-time.json) |
 | It's Slime-Creep Time! | 293972 | [293972-its-slime-creep-time.json](./293972-its-slime-creep-time.json) |
