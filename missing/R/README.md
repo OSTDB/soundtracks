@@ -2151,6 +2151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RapStar Tycoon | 103963 | [103963-rapstar-tycoon.json](./103963-rapstar-tycoon.json) |
 | Rapta | 315114 | [315114-rapta.json](./315114-rapta.json) |
 | Raptainment | 96845 | [96845-raptainment.json](./96845-raptainment.json) |
+| Raptoid | 256566 | [256566-raptoid.json](./256566-raptoid.json) |
 | Raptor | 352790 | [352790-raptor.json](./352790-raptor.json) |
 | Raptor Boyfriend: A High School Romance | 140822 | [140822-raptor-boyfriend-a-high-school-romance.json](./140822-raptor-boyfriend-a-high-school-romance.json) |
 | Raptor Evolution | 378715 | [378715-raptor-evolution.json](./378715-raptor-evolution.json) |
@@ -6598,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Snake | 104012 | [104012-retro-snake.json](./104012-retro-snake.json) |
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
 | Retro Sonic | 127903 | [127903-retro-sonic.json](./127903-retro-sonic.json) |
+| Retro Space | 256500 | [256500-retro-space.json](./256500-retro-space.json) |
 | Retro Space Ball | 116569 | [116569-retro-space-ball.json](./116569-retro-space-ball.json) |
 | Retro Space Fighter | 147150 | [147150-retro-space-fighter.json](./147150-retro-space-fighter.json) |
 | Retro Space Shooter | 115327 | [115327-retro-space-shooter.json](./115327-retro-space-shooter.json) |
