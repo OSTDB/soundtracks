@@ -2347,6 +2347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstract Grind | 221097 | [221097-abstract-grind.json](./221097-abstract-grind.json) |
 | Abstract Hell | 113278 | [113278-abstract-hell.json](./113278-abstract-hell.json) |
 | Abstract Initiative | 44748 | [44748-abstract-initiative.json](./44748-abstract-initiative.json) |
+| Abstract Ritual | 300582 | [300582-abstract-ritual.json](./300582-abstract-ritual.json) |
 | Abstract Tales: Techno-World | 366386 | [366386-abstract-tales-techno-world.json](./366386-abstract-tales-techno-world.json) |
 | Abstract World | 201247 | [201247-abstract-world.json](./201247-abstract-world.json) |
 | Abstractanoid | 68851 | [68851-abstractanoid.json](./68851-abstractanoid.json) |
@@ -6313,6 +6314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airship Knights | 231980 | [231980-airship-knights.json](./231980-airship-knights.json) |
 | Airship: Kingdoms Adrift | 231336 | [231336-airship-kingdoms-adrift.json](./231336-airship-kingdoms-adrift.json) |
 | Airships: Heroes and Villains | 244353 | [244353-airships-heroes-and-villains.json](./244353-airships-heroes-and-villains.json) |
+| Airships: Lost Flotilla | 300598 | [300598-airships-lost-flotilla.json](./300598-airships-lost-flotilla.json) |
 | AirShock | 115255 | [115255-airshock.json](./115255-airshock.json) |
 | AirShooShoo | 207589 | [207589-airshooshoo.json](./207589-airshooshoo.json) |
 | Airshot Hit | 382069 | [382069-airshot-hit.json](./382069-airshot-hit.json) |
