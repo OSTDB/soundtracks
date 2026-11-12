@@ -3210,6 +3210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Alone: Kisima Ingitchuna | 7618 | [7618-never-alone-kisima-ingitchuna.json](./7618-never-alone-kisima-ingitchuna.json) |
 | Never Apart | 178744 | [178744-never-apart.json](./178744-never-apart.json) |
 | Never be Afraid: Slam Dunk! | 277132 | [277132-never-be-afraid-slam-dunk.json](./277132-never-be-afraid-slam-dunk.json) |
+| Never Be Alone | 310840 | [310840-never-be-alone.json](./310840-never-be-alone.json) |
 | Never Breakup | 107968 | [107968-never-breakup.json](./107968-never-breakup.json) |
 | Never Clean | 392782 | [392782-never-clean.json](./392782-never-clean.json) |
 | Never Date Werewolves | 130137 | [130137-never-date-werewolves.json](./130137-never-date-werewolves.json) |
@@ -4494,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Creed | 412619 | [412619-night-creed.json](./412619-night-creed.json) |
 | Night Crew | 349018 | [349018-night-crew.json](./349018-night-crew.json) |
 | Night Crisis | 113838 | [113838-night-crisis.json](./113838-night-crisis.json) |
+| Night Crow | 310787 | [310787-night-crow.json](./310787-night-crow.json) |
 | Night Darkness | 166602 | [166602-night-darkness.json](./166602-night-darkness.json) |
 | Night Dessert | 334458 | [334458-night-dessert.json](./334458-night-dessert.json) |
 | Night Detective | 90229 | [90229-night-detective.json](./90229-night-detective.json) |
@@ -4929,6 +4931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightmare Nursery | 277430 | [277430-nightmare-nursery.json](./277430-nightmare-nursery.json) |
 | Nightmare of Decay | 195478 | [195478-nightmare-of-decay.json](./195478-nightmare-of-decay.json) |
 | Nightmare of Gemstone | 244580 | [244580-nightmare-of-gemstone.json](./244580-nightmare-of-gemstone.json) |
+| Nightmare of May | 310858 | [310858-nightmare-of-may.json](./310858-nightmare-of-may.json) |
 | Nightmare of Melanie | 108345 | [108345-nightmare-of-melanie.json](./108345-nightmare-of-melanie.json) |
 | Nightmare of Nady | 236906 | [236906-nightmare-of-nady.json](./236906-nightmare-of-nady.json) |
 | Nightmare of Santa Claus | 54912 | [54912-nightmare-of-santa-claus.json](./54912-nightmare-of-santa-claus.json) |
