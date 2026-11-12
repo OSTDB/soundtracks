@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-11T23:55:58.842Z",
-  "total_soundtracks": 3190,
+  "generated_at": "2026-11-12T00:06:31.390Z",
+  "total_soundtracks": 3198,
   "games": [
     {
       "igdb_id": 7522,
@@ -7685,6 +7685,20 @@
       ]
     },
     {
+      "igdb_id": 20090,
+      "game_name": "Dariusburst: Chronicle Saviours",
+      "game_url": "https://ostdb.net/games/dariusburst-chronicle-saviours",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730b7a078a2ead04f16da251ce",
+      "albums": [
+        {
+          "album_name": "DARIUSBURST CHRONICLE SAVIOURS ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/13ElXUoyXJkOUlUwLVITzf",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 8428,
       "game_name": "Dark Scavenger",
       "game_url": "https://ostdb.net/games/dark-scavenger",
@@ -9522,6 +9536,20 @@
           "album_name": "Doki Doki Literature Club! (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 75304,
+      "game_name": "Dolmen",
+      "game_url": "https://ostdb.net/games/dolmen",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27369d460abe0db8704557c1c13",
+      "albums": [
+        {
+          "album_name": "Dolmen (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/19j4izR5EVvUkN6gQO8t07",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -12578,6 +12606,20 @@
           "album_name": "Firewatch (Original Score)",
           "spotify_url": "https://open.spotify.com/album/6t4gSUaC3GZoUac8gpOFtn",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 89994,
+      "game_name": "Firmament",
+      "game_url": "https://ostdb.net/games/firmament",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736527c8ed11cc0fafee6836a5",
+      "albums": [
+        {
+          "album_name": "Firmament (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5jdoehFJeZhUZjELPHaSlq",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -18797,6 +18839,20 @@
         {
           "album_name": "Lethal Weapon (Music from the Motion Pictures)",
           "spotify_url": "https://open.spotify.com/album/0ffBP32Hv1GYhJ0E59nU4M",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 22672,
+      "game_name": "Lethis: Path of Progress",
+      "game_url": "https://ostdb.net/games/lethis-path-of-progress",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27310454c37c483ee43dda9054b",
+      "albums": [
+        {
+          "album_name": "Lethis - Path Of Progress (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0gT1j3ivEA1BYOXyNBR2Te",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -25145,6 +25201,20 @@
       ]
     },
     {
+      "igdb_id": 1829,
+      "game_name": "PlanetSide",
+      "game_url": "https://ostdb.net/games/planetside",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2739c29aa2b798168021d3f0396",
+      "albums": [
+        {
+          "album_name": "Planetside (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/08Q9fixDK8cum2OJrNxFFL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 1277,
       "game_name": "Plants vs. Zombies",
       "game_url": "https://ostdb.net/games/plants-vs-zombies",
@@ -29257,6 +29327,20 @@
       ]
     },
     {
+      "igdb_id": 86252,
+      "game_name": "Shinobi",
+      "game_url": "https://ostdb.net/games/shinobi",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27337bb627de26af58f737c30c6",
+      "albums": [
+        {
+          "album_name": "Shinobi Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/41QgZ8doUjuQkAkvsYFlp1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 194741,
       "game_name": "Ship of Fools",
       "game_url": "https://ostdb.net/games/ship-of-fools",
@@ -31679,6 +31763,20 @@
       ]
     },
     {
+      "igdb_id": 23957,
+      "game_name": "Stardust Galaxy Warriors: Stellar Climax",
+      "game_url": "https://ostdb.net/games/stardust-galaxy-warriors-stellar-climax",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e86853ee39308aa7a73c07a7",
+      "albums": [
+        {
+          "album_name": "Stardust Galaxy Warriors: Stellar Climax (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3qaVRCY3qRiZVU5hIZIrz8",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 96437,
       "game_name": "Starfield",
       "game_url": "https://ostdb.net/games/starfield",
@@ -33295,6 +33393,20 @@
           "spotify_url": "https://open.spotify.com/album/0ldA7UlWNdVfnImmX4pSUd",
           "apple_music_url": "https://music.apple.com/us/album/tekken-4-original-soundtrack/1724296166",
           "album_link_url": "https://album.link/i/1724296166"
+        }
+      ]
+    },
+    {
+      "igdb_id": 393182,
+      "game_name": "Tekken 4",
+      "game_url": "https://ostdb.net/games/tekken-4",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736c336ae0d5b1b095a1bdea04",
+      "albums": [
+        {
+          "album_name": "TEKKEN 4 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0ldA7UlWNdVfnImmX4pSUd",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
