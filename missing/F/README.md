@@ -10727,6 +10727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgiveness RPG: The First Chapter - Part Two | 294688 | [294688-forgiveness-rpg-the-first-chapter-part-two.json](./294688-forgiveness-rpg-the-first-chapter-part-two.json) |
 | Forgot | 380800 | [380800-forgot.json](./380800-forgot.json) |
 | Forgot to Poo | 340792 | [340792-forgot-to-poo.json](./340792-forgot-to-poo.json) |
+| Forgotlings | 252346 | [252346-forgotlings.json](./252346-forgotlings.json) |
 | Forgotten | 256144 | [256144-forgotten.json](./256144-forgotten.json) |
 | Forgotten | 26702 | [26702-forgotten.json](./26702-forgotten.json) |
 | Forgotten | 418872 | [418872-forgotten.json](./418872-forgotten.json) |
@@ -14641,6 +14642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funny Cards | 82138 | [82138-funny-cards.json](./82138-funny-cards.json) |
 | Funny Cargo Simulator | 348407 | [348407-funny-cargo-simulator.json](./348407-funny-cargo-simulator.json) |
 | Funny Cats Puzzle | 386187 | [386187-funny-cats-puzzle.json](./386187-funny-cats-puzzle.json) |
+| Funny Circus 2 | 252425 | [252425-funny-circus-2.json](./252425-funny-circus-2.json) |
 | Funny Face | 94595 | [94595-funny-face.json](./94595-funny-face.json) |
 | Funny Face Apartment | 310762 | [310762-funny-face-apartment.json](./310762-funny-face-apartment.json) |
 | Funny Faces | 93209 | [93209-funny-faces.json](./93209-funny-faces.json) |
