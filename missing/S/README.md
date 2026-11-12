@@ -7217,6 +7217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of Scintilla | 238634 | [238634-shadow-of-scintilla.json](./238634-shadow-of-scintilla.json) |
 | Shadow of Something | 81995 | [81995-shadow-of-something.json](./81995-shadow-of-something.json) |
 | Shadow Of Sound | 274783 | [274783-shadow-of-sound.json](./274783-shadow-of-sound.json) |
+| Shadow of The Abyss | 310861 | [310861-shadow-of-the-abyss.json](./310861-shadow-of-the-abyss.json) |
 | Shadow of the Beast | 11254 | [11254-shadow-of-the-beast.json](./11254-shadow-of-the-beast.json) |
 | Shadow of the Beast | 5434 | [5434-shadow-of-the-beast.json](./5434-shadow-of-the-beast.json) |
 | Shadow of the Beast II | 5879 | [5879-shadow-of-the-beast-ii.json](./5879-shadow-of-the-beast-ii.json) |
@@ -12119,6 +12120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinbad and the Throne of the Falcon | 8668 | [8668-sinbad-and-the-throne-of-the-falcon.json](./8668-sinbad-and-the-throne-of-the-falcon.json) |
 | Sinbad Mystery | 40019 | [40019-sinbad-mystery.json](./40019-sinbad-mystery.json) |
 | Sinbad: Legend of the Seven Seas | 27605 | [27605-sinbad-legend-of-the-seven-seas.json](./27605-sinbad-legend-of-the-seven-seas.json) |
+| Sinbad's Journey | 311308 | [311308-sinbads-journey.json](./311308-sinbads-journey.json) |
 | Sinbadexpress | 367987 | [367987-sinbadexpress.json](./367987-sinbadexpress.json) |
 | Since 1935 | 367962 | [367962-since-1935.json](./367962-since-1935.json) |
 | Since Memories: Off the Starry Sky | 147007 | [147007-since-memories-off-the-starry-sky.json](./147007-since-memories-off-the-starry-sky.json) |
@@ -14171,6 +14173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sled Together | 372940 | [372940-sled-together.json](./372940-sled-together.json) |
 | Sledders | 268811 | [268811-sledders.json](./268811-sledders.json) |
 | Sledding Game | 327758 | [327758-sledding-game.json](./327758-sledding-game.json) |
+| Sledge | 310868 | [310868-sledge.json](./310868-sledge.json) |
 | Sledge 3D | 44303 | [44303-sledge-3d.json](./44303-sledge-3d.json) |
 | Sleembo | 262490 | [262490-sleembo.json](./262490-sleembo.json) |
 | Sleengster | 30412 | [30412-sleengster.json](./30412-sleengster.json) |
@@ -15093,6 +15096,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM | 246747 | [246747-sm.json](./246747-sm.json) |
 | SM Escalation | 97675 | [97675-sm-escalation.json](./97675-sm-escalation.json) |
 | SM Word | 93041 | [93041-sm-word.json](./93041-sm-word.json) |
+| SM177: Escher | 311301 | [311301-sm177-escher.json](./311301-sm177-escher.json) |
+| SM192: Rooftops | 311300 | [311300-sm192-rooftops.json](./311300-sm192-rooftops.json) |
 | SM2 | 237870 | [237870-sm2.json](./237870-sm2.json) |
 | SM228: Vanilla | 299850 | [299850-sm228-vanilla.json](./299850-sm228-vanilla.json) |
 | SM64 Adventure | 321008 | [321008-sm64-adventure.json](./321008-sm64-adventure.json) |
@@ -28781,6 +28786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
 | Stickman's Rainbow | 117125 | [117125-stickmans-rainbow.json](./117125-stickmans-rainbow.json) |
 | Stickman's Rainbow | 117127 | [117127-stickmans-rainbow.json](./117127-stickmans-rainbow.json) |
+| StickmanQuiz | 310867 | [310867-stickmanquiz.json](./310867-stickmanquiz.json) |
 | StickmanThug3D | 220506 | [220506-stickmanthug3d.json](./220506-stickmanthug3d.json) |
 | Stickmen Castle Defense | 183882 | [183882-stickmen-castle-defense.json](./183882-stickmen-castle-defense.json) |
 | Stickmen Empire | 103043 | [103043-stickmen-empire.json](./103043-stickmen-empire.json) |
@@ -30343,6 +30349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streetball 2: On Fire | 256168 | [256168-streetball-2-on-fire.json](./256168-streetball-2-on-fire.json) |
 | Streetball Allstar | 163116 | [163116-streetball-allstar.json](./163116-streetball-allstar.json) |
 | Streetball Allstar: Showdown | 244092 | [244092-streetball-allstar-showdown.json](./244092-streetball-allstar-showdown.json) |
+| Streetball Fury | 310853 | [310853-streetball-fury.json](./310853-streetball-fury.json) |
 | Streetball the Mecca | 244082 | [244082-streetball-the-mecca.json](./244082-streetball-the-mecca.json) |
 | Streetball VR | 36985 | [36985-streetball-vr.json](./36985-streetball-vr.json) |
 | Streetbike: Full Blast | 20722 | [20722-streetbike-full-blast.json](./20722-streetbike-full-blast.json) |
