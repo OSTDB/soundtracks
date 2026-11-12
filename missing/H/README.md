@@ -5191,6 +5191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Aqua Lorelei | 367167 | [367167-hentai-aqua-lorelei.json](./367167-hentai-aqua-lorelei.json) |
 | Hentai Arcade: Lustful Girls | 111577 | [111577-hentai-arcade-lustful-girls.json](./111577-hentai-arcade-lustful-girls.json) |
 | Hentai Arena \| Battle Royale | 143239 | [143239-hentai-arena-battle-royale.json](./143239-hentai-arena-battle-royale.json) |
+| Hentai Arena Holy Pussy | 284544 | [284544-hentai-arena-holy-pussy.json](./284544-hentai-arena-holy-pussy.json) |
 | Hentai Ariel | 242624 | [242624-hentai-ariel.json](./242624-hentai-ariel.json) |
 | Hentai Ariya | 379336 | [379336-hentai-ariya.json](./379336-hentai-ariya.json) |
 | Hentai Asmodeus | 125352 | [125352-hentai-asmodeus.json](./125352-hentai-asmodeus.json) |
@@ -5561,6 +5562,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai IQ Puzzle | 163570 | [163570-hentai-iq-puzzle.json](./163570-hentai-iq-puzzle.json) |
 | Hentai IQ Puzzle: Puzzle Pack - 5 IQ | 163571 | [163571-hentai-iq-puzzle-puzzle-pack-5-iq.json](./163571-hentai-iq-puzzle-puzzle-pack-5-iq.json) |
 | Hentai Island | 226187 | [226187-hentai-island.json](./226187-hentai-island.json) |
+| Hentai it's my life | 284531 | [284531-hentai-its-my-life.json](./284531-hentai-its-my-life.json) |
+| Hentai Jigsaw | 284529 | [284529-hentai-jigsaw.json](./284529-hentai-jigsaw.json) |
 | Hentai Jigsaw Alison | 162998 | [162998-hentai-jigsaw-alison.json](./162998-hentai-jigsaw-alison.json) |
 | Hentai Jigsaw Emma | 162997 | [162997-hentai-jigsaw-emma.json](./162997-hentai-jigsaw-emma.json) |
 | Hentai Jigsaw Flora | 162994 | [162994-hentai-jigsaw-flora.json](./162994-hentai-jigsaw-flora.json) |
@@ -5653,6 +5656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Mosaique Puzzle | 113283 | [113283-hentai-mosaique-puzzle.json](./113283-hentai-mosaique-puzzle.json) |
 | Hentai Mosaique Vip Room | 212040 | [212040-hentai-mosaique-vip-room.json](./212040-hentai-mosaique-vip-room.json) |
 | Hentai Most Wanted | 366501 | [366501-hentai-most-wanted.json](./366501-hentai-most-wanted.json) |
+| Hentai Muse | 284528 | [284528-hentai-muse.json](./284528-hentai-muse.json) |
 | Hentai Nana | 296947 | [296947-hentai-nana.json](./296947-hentai-nana.json) |
 | Hentai Natsuki | 340441 | [340441-hentai-natsuki.json](./340441-hentai-natsuki.json) |
 | Hentai Nazi | 141506 | [141506-hentai-nazi.json](./141506-hentai-nazi.json) |
@@ -5710,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Pieces | 379657 | [379657-hentai-pieces.json](./379657-hentai-pieces.json) |
 | Hentai Pink | 243552 | [243552-hentai-pink.json](./243552-hentai-pink.json) |
 | Hentai Pix | 367122 | [367122-hentai-pix.json](./367122-hentai-pix.json) |
+| Hentai Pleasure | 284530 | [284530-hentai-pleasure.json](./284530-hentai-pleasure.json) |
 | Hentai Plus Girl | 111487 | [111487-hentai-plus-girl.json](./111487-hentai-plus-girl.json) |
 | Hentai Plus Girl: Puzzle Pack - 5 Girls | 163543 | [163543-hentai-plus-girl-puzzle-pack-5-girls.json](./163543-hentai-plus-girl-puzzle-pack-5-girls.json) |
 | Hentai Police Girl | 411068 | [411068-hentai-police-girl.json](./411068-hentai-police-girl.json) |
@@ -5757,6 +5762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Puzzles: Attack on Tight Panties | 245767 | [245767-hentai-puzzles-attack-on-tight-panties.json](./245767-hentai-puzzles-attack-on-tight-panties.json) |
 | Hentai Puzzles: The Origin | 240591 | [240591-hentai-puzzles-the-origin.json](./240591-hentai-puzzles-the-origin.json) |
 | Hentai Queens | 149431 | [149431-hentai-queens.json](./149431-hentai-queens.json) |
+| Hentai Quilm | 284534 | [284534-hentai-quilm.json](./284534-hentai-quilm.json) |
 | Hentai Reality 2 | 396871 | [396871-hentai-reality-2.json](./396871-hentai-reality-2.json) |
 | Hentai Reality 3 | 400177 | [400177-hentai-reality-3.json](./400177-hentai-reality-3.json) |
 | Hentai Reina | 399965 | [399965-hentai-reina.json](./399965-hentai-reina.json) |
@@ -5929,12 +5935,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Tights | 377283 | [377283-hentai-tights.json](./377283-hentai-tights.json) |
 | Hentai Time | 366523 | [366523-hentai-time.json](./366523-hentai-time.json) |
 | Hentai Travel | 384588 | [384588-hentai-travel.json](./384588-hentai-travel.json) |
+| Hentai Two Girls | 284536 | [284536-hentai-two-girls.json](./284536-hentai-two-girls.json) |
 | Hentai Uni 3 | 340458 | [340458-hentai-uni-3.json](./340458-hentai-uni-3.json) |
 | Hentai Uniform | 296951 | [296951-hentai-uniform.json](./296951-hentai-uniform.json) |
 | Hentai University | 106586 | [106586-hentai-university.json](./106586-hentai-university.json) |
 | Hentai University 2: Biology course | 112455 | [112455-hentai-university-2-biology-course.json](./112455-hentai-university-2-biology-course.json) |
 | Hentai Unlimited | 367510 | [367510-hentai-unlimited.json](./367510-hentai-unlimited.json) |
 | Hentai USSR | 340459 | [340459-hentai-ussr.json](./340459-hentai-ussr.json) |
+| Hentai Vampire | 284533 | [284533-hentai-vampire.json](./284533-hentai-vampire.json) |
 | Hentai Violet | 301671 | [301671-hentai-violet.json](./301671-hentai-violet.json) |
 | Hentai Vision | 378850 | [378850-hentai-vision.json](./378850-hentai-vision.json) |
 | Hentai Vivian | 265767 | [265767-hentai-vivian.json](./265767-hentai-vivian.json) |
