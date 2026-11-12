@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pain-to-win | 83972 | [83972-pain-to-win.json](./83972-pain-to-win.json) |
 | Pain: Amusement Park | 21685 | [21685-pain-amusement-park.json](./21685-pain-amusement-park.json) |
 | Pain: Movie Studio | 21612 | [21612-pain-movie-studio.json](./21612-pain-movie-studio.json) |
+| Pain: Repainted | 255948 | [255948-pain-repainted.json](./255948-pain-repainted.json) |
 | Painajainen | 84220 | [84220-painajainen.json](./84220-painajainen.json) |
 | Painball | 70618 | [70618-painball.json](./70618-painball.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
@@ -754,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Ball | 397656 | [397656-paint-ball.json](./397656-paint-ball.json) |
 | Paint Bowl | 256035 | [256035-paint-bowl.json](./256035-paint-bowl.json) |
 | Paint Boy | 328591 | [328591-paint-boy.json](./328591-paint-boy.json) |
+| Paint by Cubes | 255947 | [255947-paint-by-cubes.json](./255947-paint-by-cubes.json) |
 | Paint by DS | 79868 | [79868-paint-by-ds.json](./79868-paint-by-ds.json) |
 | Paint by DS: Classical Masterpieces | 68405 | [68405-paint-by-ds-classical-masterpieces.json](./68405-paint-by-ds-classical-masterpieces.json) |
 | Paint by DS: Military Vehicles | 68404 | [68404-paint-by-ds-military-vehicles.json](./68404-paint-by-ds-military-vehicles.json) |
@@ -895,6 +897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painty Mob | 193769 | [193769-painty-mob.json](./193769-painty-mob.json) |
 | Painwives | 419852 | [419852-painwives.json](./419852-painwives.json) |
 | Paio Hazard | 134630 | [134630-paio-hazard.json](./134630-paio-hazard.json) |
+| Pair | 254197 | [254197-pair.json](./254197-pair.json) |
 | Pair a Dice | 323474 | [323474-pair-a-dice.json](./323474-pair-a-dice.json) |
 | Pair at Sea | 403880 | [403880-pair-at-sea.json](./403880-pair-at-sea.json) |
 | Pair Horror | 309061 | [309061-pair-horror.json](./309061-pair-horror.json) |
@@ -2647,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parking Masters: Big Rig | 313232 | [313232-parking-masters-big-rig.json](./313232-parking-masters-big-rig.json) |
 | Parking Masters: Bus Driver | 313513 | [313513-parking-masters-bus-driver.json](./313513-parking-masters-bus-driver.json) |
 | Parking Masters: Deluxe Edition | 313216 | [313216-parking-masters-deluxe-edition.json](./313216-parking-masters-deluxe-edition.json) |
+| Parking Pro | 254735 | [254735-parking-pro.json](./254735-parking-pro.json) |
 | Parking Pro: Top-Down Challenge | 334081 | [334081-parking-pro-top-down-challenge.json](./334081-parking-pro-top-down-challenge.json) |
 | Parking Problem | 397068 | [397068-parking-problem.json](./397068-parking-problem.json) |
 | Parking Simulator | 188094 | [188094-parking-simulator.json](./188094-parking-simulator.json) |
@@ -4655,6 +4659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pequod | 126449 | [126449-pequod.json](./126449-pequod.json) |
 | Per Aspera | 119347 | [119347-per-aspera.json](./119347-per-aspera.json) |
 | Per Aspera Test | 289441 | [289441-per-aspera-test.json](./289441-per-aspera-test.json) |
+| Per Aspera VR | 254733 | [254733-per-aspera-vr.json](./254733-per-aspera-vr.json) |
 | Per Aspera: Blue Mars | 199669 | [199669-per-aspera-blue-mars.json](./199669-per-aspera-blue-mars.json) |
 | Per Aspera: Buildings Paint Pack | 227011 | [227011-per-aspera-buildings-paint-pack.json](./227011-per-aspera-buildings-paint-pack.json) |
 | Per Aspera: Deluxe Edition | 154545 | [154545-per-aspera-deluxe-edition.json](./154545-per-aspera-deluxe-edition.json) |
@@ -7447,6 +7452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Arcade: Wipe Out | 349969 | [349969-pinball-arcade-wipe-out.json](./349969-pinball-arcade-wipe-out.json) |
 | Pinball Arcade: World Champion Soccer | 349344 | [349344-pinball-arcade-world-champion-soccer.json](./349344-pinball-arcade-world-champion-soccer.json) |
 | Pinball Arcade: Xenon | 353267 | [353267-pinball-arcade-xenon.json](./353267-pinball-arcade-xenon.json) |
+| Pinball Arena | 255953 | [255953-pinball-arena.json](./255953-pinball-arena.json) |
 | Pinball Big Splash | 147692 | [147692-pinball-big-splash.json](./147692-pinball-big-splash.json) |
 | Pinball Blitz | 289147 | [289147-pinball-blitz.json](./289147-pinball-blitz.json) |
 | Pinball Brain Damage | 69591 | [69591-pinball-brain-damage.json](./69591-pinball-brain-damage.json) |
@@ -10566,6 +10572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playball III | 41675 | [41675-playball-iii.json](./41675-playball-iii.json) |
 | Playbook | 173913 | [173913-playbook.json](./173913-playbook.json) |
 | Playbook VR | 344434 | [344434-playbook-vr.json](./344434-playbook-vr.json) |
+| Playbook: Stories with Choices | 254193 | [254193-playbook-stories-with-choices.json](./254193-playbook-stories-with-choices.json) |
 | PlayBound | 126662 | [126662-playbound.json](./126662-playbound.json) |
 | Playboy Casino | 57922 | [57922-playboy-casino.json](./57922-playboy-casino.json) |
 | Playboy Manager | 68309 | [68309-playboy-manager.json](./68309-playboy-manager.json) |
@@ -12744,6 +12751,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Bowler | 44071 | [44071-polar-bowler.json](./44071-polar-bowler.json) |
 | Polar Bowler 1st Frame | 294452 | [294452-polar-bowler-1st-frame.json](./294452-polar-bowler-1st-frame.json) |
 | Polar Explorer Simulator | 173061 | [173061-polar-explorer-simulator.json](./173061-polar-explorer-simulator.json) |
+| Polar Games | 255915 | [255915-polar-games.json](./255915-polar-games.json) |
+| Polar Games 2 | 255916 | [255916-polar-games-2.json](./255916-polar-games-2.json) |
 | Polar Golfer | 142030 | [142030-polar-golfer.json](./142030-polar-golfer.json) |
 | Polar Golfer: Pineapple Cup | 83298 | [83298-polar-golfer-pineapple-cup.json](./83298-polar-golfer-pineapple-cup.json) |
 | Polar Jump | 120592 | [120592-polar-jump.json](./120592-polar-jump.json) |
@@ -12763,6 +12772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Roller | 326682 | [326682-polar-roller.json](./326682-polar-roller.json) |
 | Polar Rollout | 96256 | [96256-polar-rollout.json](./96256-polar-rollout.json) |
 | Polar Shift | 357825 | [357825-polar-shift.json](./357825-polar-shift.json) |
+| Polar Sports Vol.1 | 255917 | [255917-polar-sports-vol-1.json](./255917-polar-sports-vol-1.json) |
 | Polar Star | 41772 | [41772-polar-star.json](./41772-polar-star.json) |
 | Polar Star II | 57988 | [57988-polar-star-ii.json](./57988-polar-star-ii.json) |
 | Polar Tale | 325804 | [325804-polar-tale.json](./325804-polar-tale.json) |
@@ -13884,6 +13894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopSlinger | 186701 | [186701-popslinger.json](./186701-popslinger.json) |
 | PopSlinger Vol. 1 & 2: Loveless Series Bundle | 328492 | [328492-popslinger-vol-1-and-2-loveless-series-bundle.json](./328492-popslinger-vol-1-and-2-loveless-series-bundle.json) |
 | PopSlinger vol. 2: Loveless | 319397 | [319397-popslinger-vol-2-loveless.json](./319397-popslinger-vol-2-loveless.json) |
+| Popstar | 254191 | [254191-popstar.json](./254191-popstar.json) |
 | PopStar 3 | 87082 | [87082-popstar-3.json](./87082-popstar-3.json) |
 | Popstar Maker | 73671 | [73671-popstar-maker.json](./73671-popstar-maker.json) |
 | Popstars | 268384 | [268384-popstars.json](./268384-popstars.json) |
@@ -19424,6 +19435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putin kills: Christmas | 151375 | [151375-putin-kills-christmas.json](./151375-putin-kills-christmas.json) |
 | Putin Kills: Coronavirus | 393108 | [393108-putin-kills-coronavirus.json](./393108-putin-kills-coronavirus.json) |
 | Putin Life | 130049 | [130049-putin-life.json](./130049-putin-life.json) |
+| Putin Must Die: Defend the White House | 254729 | [254729-putin-must-die-defend-the-white-house.json](./254729-putin-must-die-defend-the-white-house.json) |
 | Putin Orcs Defender | 204421 | [204421-putin-orcs-defender.json](./204421-putin-orcs-defender.json) |
 | Putin Run Away From Trump | 102409 | [102409-putin-run-away-from-trump.json](./102409-putin-run-away-from-trump.json) |
 | Putin takes taxes | 86569 | [86569-putin-takes-taxes.json](./86569-putin-takes-taxes.json) |
