@@ -10693,7 +10693,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sickly Days and Summer Traces | 343869 | [343869-sickly-days-and-summer-traces.json](./343869-sickly-days-and-summer-traces.json) |
 | Sickness | 34145 | [34145-sickness.json](./34145-sickness.json) |
 | Sicko Island | 160200 | [160200-sicko-island.json](./160200-sicko-island.json) |
+| Sicko Sanctum | 272505 | [272505-sicko-sanctum.json](./272505-sicko-sanctum.json) |
 | Sicko Sanctum 2 | 273904 | [273904-sicko-sanctum-2.json](./273904-sicko-sanctum-2.json) |
+| Sicko Sanctum: Megahecks | 272509 | [272509-sicko-sanctum-megahecks.json](./272509-sicko-sanctum-megahecks.json) |
 | SickOw | 266023 | [266023-sickow.json](./266023-sickow.json) |
 | SickWay VR | 311902 | [311902-sickway-vr.json](./311902-sickway-vr.json) |
 | Sico: Special Insurgency Counter Operations | 174813 | [174813-sico-special-insurgency-counter-operations.json](./174813-sico-special-insurgency-counter-operations.json) |
@@ -20597,6 +20599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Jump Game | 127188 | [127188-soviet-jump-game.json](./127188-soviet-jump-game.json) |
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
 | Soviet Monsters: Ekranoplans | 35193 | [35193-soviet-monsters-ekranoplans.json](./35193-soviet-monsters-ekranoplans.json) |
+| Soviet Project | 272423 | [272423-soviet-project.json](./272423-soviet-project.json) |
 | Soviet Simulator | 164194 | [164194-soviet-simulator.json](./164194-soviet-simulator.json) |
 | Soviet Soldier | 291402 | [291402-soviet-soldier.json](./291402-soviet-soldier.json) |
 | Soviet Souls | 118329 | [118329-soviet-souls.json](./118329-soviet-souls.json) |
@@ -25798,6 +25801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Blues | 216795 | [216795-star-blues.json](./216795-star-blues.json) |
 | Star Boss | 208647 | [208647-star-boss.json](./208647-star-boss.json) |
 | Star Boss | 75109 | [75109-star-boss.json](./75109-star-boss.json) |
+| Star Bowls | 272504 | [272504-star-bowls.json](./272504-star-bowls.json) |
 | Star Boy | 96676 | [96676-star-boy.json](./96676-star-boy.json) |
 | Star Breaker | 13082 | [13082-star-breaker.json](./13082-star-breaker.json) |
 | Star Breaker | 332130 | [332130-star-breaker.json](./332130-star-breaker.json) |
@@ -35495,6 +35499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Slime Simulator | 393172 | [393172-super-slime-simulator.json](./393172-super-slime-simulator.json) |
 | Super Slime: Black Hole Game | 294539 | [294539-super-slime-black-hole-game.json](./294539-super-slime-black-hole-game.json) |
 | Super Slinger | 192958 | [192958-super-slinger.json](./192958-super-slinger.json) |
+| Super Slug | 272500 | [272500-super-slug.json](./272500-super-slug.json) |
 | Super Slyder | 132726 | [132726-super-slyder.json](./132726-super-slyder.json) |
 | Super Smash | 125317 | [125317-super-smash.json](./125317-super-smash.json) |
 | Super Smash Asteroids | 239098 | [239098-super-smash-asteroids.json](./239098-super-smash-asteroids.json) |
