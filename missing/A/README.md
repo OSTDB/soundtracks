@@ -4703,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Armageddon Gaiden: Majuu Toushouden Eclipse | 46396 | [46396-after-armageddon-gaiden-majuu-toushouden-eclipse.json](./46396-after-armageddon-gaiden-majuu-toushouden-eclipse.json) |
 | After Burner | 113199 | [113199-after-burner.json](./113199-after-burner.json) |
 | After Burner | 198606 | [198606-after-burner.json](./198606-after-burner.json) |
+| After Burner | 309253 | [309253-after-burner.json](./309253-after-burner.json) |
 | After Burner | 365007 | [365007-after-burner.json](./365007-after-burner.json) |
 | After Burner | 365008 | [365008-after-burner.json](./365008-after-burner.json) |
 | After Burner | 365088 | [365088-after-burner.json](./365088-after-burner.json) |
@@ -16257,6 +16258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of the Singularity: Escalation - Turtle Wars | 124925 | [124925-ashes-of-the-singularity-escalation-turtle-wars.json](./124925-ashes-of-the-singularity-escalation-turtle-wars.json) |
 | Ashes of the Singularity: Escalation - Turtle Wars | 170298 | [170298-ashes-of-the-singularity-escalation-turtle-wars.json](./170298-ashes-of-the-singularity-escalation-turtle-wars.json) |
 | Ashes of the Singularity: Escalation Gold | 52605 | [52605-ashes-of-the-singularity-escalation-gold.json](./52605-ashes-of-the-singularity-escalation-gold.json) |
+| Ashes of the Union | 309710 | [309710-ashes-of-the-union.json](./309710-ashes-of-the-union.json) |
 | Ashes of Vaelmoor | 412591 | [412591-ashes-of-vaelmoor.json](./412591-ashes-of-vaelmoor.json) |
 | Ashes of War | 369665 | [369665-ashes-of-war.json](./369665-ashes-of-war.json) |
 | Ashes of Xun | 377678 | [377678-ashes-of-xun.json](./377678-ashes-of-xun.json) |
