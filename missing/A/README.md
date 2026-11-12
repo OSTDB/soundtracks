@@ -2144,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abmis the Lion | 70305 | [70305-abmis-the-lion.json](./70305-abmis-the-lion.json) |
 | Abnimality | 283872 | [283872-abnimality.json](./283872-abnimality.json) |
 | Abnormal | 116556 | [116556-abnormal.json](./116556-abnormal.json) |
+| Abnormal 1999: Sector 49 | 310225 | [310225-abnormal-1999-sector-49.json](./310225-abnormal-1999-sector-49.json) |
 | Abnormal 1999: The Compass and the Sand | 316441 | [316441-abnormal-1999-the-compass-and-the-sand.json](./316441-abnormal-1999-the-compass-and-the-sand.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
 | Abnormal State: Otome Love | 303099 | [303099-abnormal-state-otome-love.json](./303099-abnormal-state-otome-love.json) |
@@ -5447,6 +5448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 179925 | [179925-agora.json](./179925-agora.json) |
 | Agora | 211419 | [211419-agora.json](./211419-agora.json) |
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
+| Agora Project | 309768 | [309768-agora-project.json](./309768-agora-project.json) |
 | Agora: Soul of the Oracle | 169895 | [169895-agora-soul-of-the-oracle.json](./169895-agora-soul-of-the-oracle.json) |
 | Agoraphobia | 179011 | [179011-agoraphobia.json](./179011-agoraphobia.json) |
 | Agoraphobia | 68152 | [68152-agoraphobia.json](./68152-agoraphobia.json) |
