@@ -5740,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 3rd Millennium | 109262 | [109262-the-3rd-millennium.json](./109262-the-3rd-millennium.json) |
 | The 3rd Night | 281684 | [281684-the-3rd-night.json](./281684-the-3rd-night.json) |
 | The 4 Masters of Melody | 259767 | [259767-the-4-masters-of-melody.json](./259767-the-4-masters-of-melody.json) |
+| The 4 Masters of Melody Ex | 259774 | [259774-the-4-masters-of-melody-ex.json](./259774-the-4-masters-of-melody-ex.json) |
 | The 4 Sins | 286656 | [286656-the-4-sins.json](./286656-the-4-sins.json) |
 | The 46th | 143463 | [143463-the-46th.json](./143463-the-46th.json) |
 | The 4th Coming | 1986 | [1986-the-4th-coming.json](./1986-the-4th-coming.json) |
@@ -10839,6 +10840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The God Heroes | 282656 | [282656-the-god-heroes.json](./282656-the-god-heroes.json) |
 | The God of Crawling Eyes | 124553 | [124553-the-god-of-crawling-eyes.json](./124553-the-god-of-crawling-eyes.json) |
 | The God Paradox | 59793 | [59793-the-god-paradox.json](./59793-the-god-paradox.json) |
+| The God Slayer | 259874 | [259874-the-god-slayer.json](./259874-the-god-slayer.json) |
 | The GoD Unit | 127756 | [127756-the-god-unit.json](./127756-the-god-unit.json) |
 | The God's Chain | 22787 | [22787-the-gods-chain.json](./22787-the-gods-chain.json) |
 | The God's Paradise | 82650 | [82650-the-gods-paradise.json](./82650-the-gods-paradise.json) |
@@ -17635,6 +17637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shroom Project | 320236 | [320236-the-shroom-project.json](./320236-the-shroom-project.json) |
 | The Shrouded Isle | 25661 | [25661-the-shrouded-isle.json](./25661-the-shrouded-isle.json) |
 | The Shrouded Isle: Sunken Sins | 76892 | [76892-the-shrouded-isle-sunken-sins.json](./76892-the-shrouded-isle-sunken-sins.json) |
+| The Shrouded Parchments | 259795 | [259795-the-shrouded-parchments.json](./259795-the-shrouded-parchments.json) |
 | The Shu Legend | 405566 | [405566-the-shu-legend.json](./405566-the-shu-legend.json) |
 | The Shuddering | 311758 | [311758-the-shuddering.json](./311758-the-shuddering.json) |
 | The Sibyl and Sixpence | 113239 | [113239-the-sibyl-and-sixpence.json](./113239-the-sibyl-and-sixpence.json) |
@@ -20419,6 +20422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Window 8: Millennium | 369105 | [369105-the-window-8-millennium.json](./369105-the-window-8-millennium.json) |
 | The Window Box | 113850 | [113850-the-window-box.json](./113850-the-window-box.json) |
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
+| The Winds Rising | 259875 | [259875-the-winds-rising.json](./259875-the-winds-rising.json) |
 | The Wine Hunt: Aim Fidelity | 257975 | [257975-the-wine-hunt-aim-fidelity.json](./257975-the-wine-hunt-aim-fidelity.json) |
 | The Wine Story | 203685 | [203685-the-wine-story.json](./203685-the-wine-story.json) |
 | The Wing of Madoola | 65699 | [65699-the-wing-of-madoola.json](./65699-the-wing-of-madoola.json) |
@@ -35325,6 +35329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle: Voidrunner | 74355 | [74355-turtle-voidrunner.json](./74355-turtle-voidrunner.json) |
 | Turtle's Quest | 106229 | [106229-turtles-quest.json](./106229-turtles-quest.json) |
 | TurtlePop: Journey to Freedom | 89568 | [89568-turtlepop-journey-to-freedom.json](./89568-turtlepop-journey-to-freedom.json) |
+| TurtleQuest | 259796 | [259796-turtlequest.json](./259796-turtlequest.json) |
 | Turtles | 23686 | [23686-turtles.json](./23686-turtles.json) |
 | Turtles | 245604 | [245604-turtles.json](./245604-turtles.json) |
 | Turtles | 281200 | [281200-turtles.json](./281200-turtles.json) |
