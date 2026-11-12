@@ -3092,6 +3092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Boxing 2: Remastered - Maverick DLC | 393069 | [393069-real-boxing-2-remastered-maverick-dlc.json](./393069-real-boxing-2-remastered-maverick-dlc.json) |
 | Real Boxing 2: Remastered - Platinum Edition | 396926 | [396926-real-boxing-2-remastered-platinum-edition.json](./396926-real-boxing-2-remastered-platinum-edition.json) |
 | Real Boxing 2: Remastered - Stone Edition | 330207 | [330207-real-boxing-2-remastered-stone-edition.json](./330207-real-boxing-2-remastered-stone-edition.json) |
+| Real Boxing Manny Pacquiao | 248867 | [248867-real-boxing-manny-pacquiao.json](./248867-real-boxing-manny-pacquiao.json) |
 | Real Boxing: Steel Champions VR | 265543 | [265543-real-boxing-steel-champions-vr.json](./265543-real-boxing-steel-champions-vr.json) |
 | Real Bus Mechanic Simulator | 102611 | [102611-real-bus-mechanic-simulator.json](./102611-real-bus-mechanic-simulator.json) |
 | Real Cake Maker | 316187 | [316187-real-cake-maker.json](./316187-real-cake-maker.json) |
@@ -11687,6 +11688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rooftop Cop | 35696 | [35696-rooftop-cop.json](./35696-rooftop-cop.json) |
 | Rooftop Freerunning: Leap! Leap!! Leap!!! | 101414 | [101414-rooftop-freerunning-leap-leap-leap.json](./101414-rooftop-freerunning-leap-leap-leap.json) |
 | Rooftop Garden Simulator | 208246 | [208246-rooftop-garden-simulator.json](./208246-rooftop-garden-simulator.json) |
+| Rooftop Mischief | 248862 | [248862-rooftop-mischief.json](./248862-rooftop-mischief.json) |
 | Rooftop Postgirl | 216756 | [216756-rooftop-postgirl.json](./216756-rooftop-postgirl.json) |
 | Rooftop Rascal: The Alien Cat | 393933 | [393933-rooftop-rascal-the-alien-cat.json](./393933-rooftop-rascal-the-alien-cat.json) |
 | Rooftop Rascal: The Claus Cat | 328386 | [328386-rooftop-rascal-the-claus-cat.json](./328386-rooftop-rascal-the-claus-cat.json) |
