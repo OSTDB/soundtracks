@@ -2433,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learn Japanese RPG: Hiragana Forbidden Speech | 204153 | [204153-learn-japanese-rpg-hiragana-forbidden-speech.json](./204153-learn-japanese-rpg-hiragana-forbidden-speech.json) |
 | Learn Japanese to Survive! Hiragana Battle | 33622 | [33622-learn-japanese-to-survive-hiragana-battle.json](./33622-learn-japanese-to-survive-hiragana-battle.json) |
 | Learn Japanese to Survive! Katakana War | 27684 | [27684-learn-japanese-to-survive-katakana-war.json](./27684-learn-japanese-to-survive-katakana-war.json) |
+| Learn Japanese: Yuke and the Book of Yokai | 282190 | [282190-learn-japanese-yuke-and-the-book-of-yokai.json](./282190-learn-japanese-yuke-and-the-book-of-yokai.json) |
 | Learn Kana the Fun Way! | 65805 | [65805-learn-kana-the-fun-way.json](./65805-learn-kana-the-fun-way.json) |
 | Learn Katakana!! | 252697 | [252697-learn-katakana.json](./252697-learn-katakana.json) |
 | Learn Math | 92664 | [92664-learn-math.json](./92664-learn-math.json) |
