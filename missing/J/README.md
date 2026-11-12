@@ -3418,6 +3418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Doll Super | 175562 | [175562-jump-doll-super.json](./175562-jump-doll-super.json) |
 | Jump Doper | 114863 | [114863-jump-doper.json](./114863-jump-doper.json) |
 | Jump Duck | 407306 | [407306-jump-duck.json](./407306-jump-duck.json) |
+| Jump Fall | 309698 | [309698-jump-fall.json](./309698-jump-fall.json) |
 | Jump Force: Character Pack 10 - Shoto Todoroki | 167770 | [167770-jump-force-character-pack-10-shoto-todoroki.json](./167770-jump-force-character-pack-10-shoto-todoroki.json) |
 | Jump Force: Character Pack 11 - Meruem | 167771 | [167771-jump-force-character-pack-11-meruem.json](./167771-jump-force-character-pack-11-meruem.json) |
 | Jump Force: Character Pack 12 - Hiei | 167774 | [167774-jump-force-character-pack-12-hiei.json](./167774-jump-force-character-pack-12-hiei.json) |
