@@ -209,6 +209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dab on Darkness! | 157402 | [157402-dab-on-darkness.json](./157402-dab-on-darkness.json) |
 | Dab, Dance & Twerk | 83161 | [83161-dab-dance-and-twerk.json](./83161-dab-dance-and-twerk.json) |
 | Dab's Not Dead | 158857 | [158857-dabs-not-dead.json](./158857-dabs-not-dead.json) |
+| Daba: Land of Water Scar | 259871 | [259871-daba-land-of-water-scar.json](./259871-daba-land-of-water-scar.json) |
 | Dabado | 109431 | [109431-dabado.json](./109431-dabado.json) |
 | Dabado Puzzles | 154093 | [154093-dabado-puzzles.json](./154093-dabado-puzzles.json) |
 | Dabble Worlds | 214829 | [214829-dabble-worlds.json](./214829-dabble-worlds.json) |
@@ -8392,6 +8393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Araka | 334313 | [334313-detective-araka.json](./334313-detective-araka.json) |
 | Detective Barbie 2: The Vacation Mystery | 197864 | [197864-detective-barbie-2-the-vacation-mystery.json](./197864-detective-barbie-2-the-vacation-mystery.json) |
 | Detective Barbie: The Mystery Cruise | 43915 | [43915-detective-barbie-the-mystery-cruise.json](./43915-detective-barbie-the-mystery-cruise.json) |
+| Detective Barnett: The Cursed Artifact | 259800 | [259800-detective-barnett-the-cursed-artifact.json](./259800-detective-barnett-the-cursed-artifact.json) |
 | Detective Bass 2: The Case of the Stolen Pearls | 283356 | [283356-detective-bass-2-the-case-of-the-stolen-pearls.json](./283356-detective-bass-2-the-case-of-the-stolen-pearls.json) |
 | Detective Bass: Fish Out Of Water | 299369 | [299369-detective-bass-fish-out-of-water.json](./299369-detective-bass-fish-out-of-water.json) |
 | Detective Beebo: Night at the Mansion | 324595 | [324595-detective-beebo-night-at-the-mansion.json](./324595-detective-beebo-night-at-the-mansion.json) |
