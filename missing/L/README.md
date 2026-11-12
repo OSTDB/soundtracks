@@ -1214,6 +1214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserbreak 2 | 57727 | [57727-laserbreak-2.json](./57727-laserbreak-2.json) |
 | Laserbreak: Esacpe | 57729 | [57729-laserbreak-esacpe.json](./57729-laserbreak-esacpe.json) |
 | Laserbreak: Renegades | 57730 | [57730-laserbreak-renegades.json](./57730-laserbreak-renegades.json) |
+| Lasercade | 282786 | [282786-lasercade.json](./282786-lasercade.json) |
 | LaserCat | 32271 | [32271-lasercat.json](./32271-lasercat.json) |
 | LaserChain | 334818 | [334818-laserchain.json](./334818-laserchain.json) |
 | Laserface | 183688 | [183688-laserface.json](./183688-laserface.json) |
@@ -8074,6 +8075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoopiaLike | 394203 | [394203-loopialike.json](./394203-loopialike.json) |
 | Loopical | 175602 | [175602-loopical.json](./175602-loopical.json) |
 | Looping | 18511 | [18511-looping.json](./18511-looping.json) |
+| Looping | 282784 | [282784-looping.json](./282784-looping.json) |
 | Looping Art Museum | 302975 | [302975-looping-art-museum.json](./302975-looping-art-museum.json) |
 | Looping Bravery | 197442 | [197442-looping-bravery.json](./197442-looping-bravery.json) |
 | Looping Doors: Diner | 342487 | [342487-looping-doors-diner.json](./342487-looping-doors-diner.json) |
