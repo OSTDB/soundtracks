@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | O-o-o | 232404 | [232404-o-o-o.json](./232404-o-o-o.json) |
 | O-Sim 22 | 222281 | [222281-o-sim-22.json](./222281-o-sim-22.json) |
 | O-Void | 257470 | [257470-o-void.json](./257470-o-void.json) |
+| O-Void: Console Edition | 301190 | [301190-o-void-console-edition.json](./301190-o-void-console-edition.json) |
 | O-Well | 182067 | [182067-o-well.json](./182067-o-well.json) |
 | o: | 175181 | [175181-o.json](./175181-o.json) |
 | O:anquan | 230214 | [230214-o-anquan.json](./230214-o-anquan.json) |
@@ -2573,6 +2574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One more game | 152931 | [152931-one-more-game.json](./152931-one-more-game.json) |
 | One More Game | 311543 | [311543-one-more-game.json](./311543-one-more-game.json) |
 | One More Gate : A Wakfu Legend | 204689 | [204689-one-more-gate-a-wakfu-legend.json](./204689-one-more-gate-a-wakfu-legend.json) |
+| One More Gate: A Wakfu Legend - Complete Edition | 301186 | [301186-one-more-gate-a-wakfu-legend-complete-edition.json](./301186-one-more-gate-a-wakfu-legend-complete-edition.json) |
 | One More Gate: Companion#1 DLC | 289328 | [289328-one-more-gate-companion-1-dlc.json](./289328-one-more-gate-companion-1-dlc.json) |
 | One More Gate: Companion#2 DLC | 289329 | [289329-one-more-gate-companion-2-dlc.json](./289329-one-more-gate-companion-2-dlc.json) |
 | One More Gate: Companion#3 DLC | 289330 | [289330-one-more-gate-companion-3-dlc.json](./289330-one-more-gate-companion-3-dlc.json) |
@@ -2653,6 +2655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night: Burlesque - Legendary Edition | 300887 | [300887-one-night-burlesque-legendary-edition.json](./300887-one-night-burlesque-legendary-edition.json) |
 | One Night: Burlesque - Magnificent Edition | 315857 | [315857-one-night-burlesque-magnificent-edition.json](./315857-one-night-burlesque-magnificent-edition.json) |
 | One Night: Burlesque - People Pack | 324403 | [324403-one-night-burlesque-people-pack.json](./324403-one-night-burlesque-people-pack.json) |
+| One Night: Burlesque - Platinum Edition | 301185 | [301185-one-night-burlesque-platinum-edition.json](./301185-one-night-burlesque-platinum-edition.json) |
 | One Night: Burlesque - Premium Edition | 288283 | [288283-one-night-burlesque-premium-edition.json](./288283-one-night-burlesque-premium-edition.json) |
 | One Night: Burlesque - Sins Pack | 324391 | [324391-one-night-burlesque-sins-pack.json](./324391-one-night-burlesque-sins-pack.json) |
 | One Night: Burlesque - Special Edition | 284933 | [284933-one-night-burlesque-special-edition.json](./284933-one-night-burlesque-special-edition.json) |
