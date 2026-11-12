@@ -3641,6 +3641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Sewer Run | 64715 | [64715-teenage-mutant-ninja-turtles-sewer-run.json](./64715-teenage-mutant-ninja-turtles-sewer-run.json) |
 | Teenage Mutant Ninja Turtles: Shadow Heroes | 60961 | [60961-teenage-mutant-ninja-turtles-shadow-heroes.json](./60961-teenage-mutant-ninja-turtles-shadow-heroes.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Re-Revenge | 233853 | [233853-teenage-mutant-ninja-turtles-shredders-re-revenge.json](./233853-teenage-mutant-ninja-turtles-shredders-re-revenge.json) |
+| Teenage Mutant Ninja Turtles: Shredder's Revenge - Anniversary Edition | 267599 | [267599-teenage-mutant-ninja-turtles-shredders-revenge-anniversary-edition.json](./267599-teenage-mutant-ninja-turtles-shredders-revenge-anniversary-edition.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Limited Edition | 207919 | [207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json](./207919-teenage-mutant-ninja-turtles-shredders-revenge-limited-edition.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Radical Reptiles | 317624 | [317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json](./317624-teenage-mutant-ninja-turtles-shredders-revenge-radical-reptiles.json) |
 | Teenage Mutant Ninja Turtles: Shredder's Revenge - Special Edition | 249964 | [249964-teenage-mutant-ninja-turtles-shredders-revenge-special-edition.json](./249964-teenage-mutant-ninja-turtles-shredders-revenge-special-edition.json) |
@@ -13415,6 +13416,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel III - Early Enrollment Edition | 136071 | [136071-the-legend-of-heroes-trails-of-cold-steel-iii-early-enrollment-edition.json](./136071-the-legend-of-heroes-trails-of-cold-steel-iii-early-enrollment-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Kiseki Box | 136744 | [136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json](./136744-the-legend-of-heroes-trails-of-cold-steel-iii-kiseki-box.json) |
 | The Legend of Heroes: Trails of Cold Steel III - Limited Kiseki Box | 167067 | [167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json](./167067-the-legend-of-heroes-trails-of-cold-steel-iii-limited-kiseki-box.json) |
+| The Legend of Heroes: Trails of Cold Steel III / The Legend of Heroes: Trails of Cold Steel IV | 267628 | [267628-the-legend-of-heroes-trails-of-cold-steel-iii-the-legend-of-heroes-trails-of-cold-steel-iv.json](./267628-the-legend-of-heroes-trails-of-cold-steel-iii-the-legend-of-heroes-trails-of-cold-steel-iv.json) |
+| The Legend of Heroes: Trails of Cold Steel III / The Legend of Heroes: Trails of Cold Steel IV - Deluxe Edition | 267634 | [267634-the-legend-of-heroes-trails-of-cold-steel-iii-the-legend-of-heroes-trails-of-cold-steel-iv-deluxe-edition.json](./267634-the-legend-of-heroes-trails-of-cold-steel-iii-the-legend-of-heroes-trails-of-cold-steel-iv-deluxe-edition.json) |
+| The Legend of Heroes: Trails of Cold Steel III / The Legend of Heroes: Trails of Cold Steel IV - Limited Edition | 267632 | [267632-the-legend-of-heroes-trails-of-cold-steel-iii-the-legend-of-heroes-trails-of-cold-steel-iv-limited-edition.json](./267632-the-legend-of-heroes-trails-of-cold-steel-iii-the-legend-of-heroes-trails-of-cold-steel-iv-limited-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV | 78115 | [78115-the-legend-of-heroes-trails-of-cold-steel-iv.json](./78115-the-legend-of-heroes-trails-of-cold-steel-iv.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Attachment Set | 224426 | [224426-the-legend-of-heroes-trails-of-cold-steel-iv-attachment-set.json](./224426-the-legend-of-heroes-trails-of-cold-steel-iv-attachment-set.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Digital Deluxe Edition | 169218 | [169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json](./169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json) |
@@ -13425,8 +13429,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails through Daybreak - Accessories Set | 300909 | [300909-the-legend-of-heroes-trails-through-daybreak-accessories-set.json](./300909-the-legend-of-heroes-trails-through-daybreak-accessories-set.json) |
 | The Legend of Heroes: Trails through Daybreak - Bonus Set | 310687 | [310687-the-legend-of-heroes-trails-through-daybreak-bonus-set.json](./310687-the-legend-of-heroes-trails-through-daybreak-bonus-set.json) |
 | The Legend of Heroes: Trails through Daybreak - Costume Set | 301217 | [301217-the-legend-of-heroes-trails-through-daybreak-costume-set.json](./301217-the-legend-of-heroes-trails-through-daybreak-costume-set.json) |
+| The Legend of Heroes: Trails through Daybreak - Deluxe Edition | 267631 | [267631-the-legend-of-heroes-trails-through-daybreak-deluxe-edition.json](./267631-the-legend-of-heroes-trails-through-daybreak-deluxe-edition.json) |
 | The Legend of Heroes: Trails through Daybreak - Digital Deluxe Edition | 300886 | [300886-the-legend-of-heroes-trails-through-daybreak-digital-deluxe-edition.json](./300886-the-legend-of-heroes-trails-through-daybreak-digital-deluxe-edition.json) |
 | The Legend of Heroes: Trails through Daybreak - Free Sample Set | 300911 | [300911-the-legend-of-heroes-trails-through-daybreak-free-sample-set.json](./300911-the-legend-of-heroes-trails-through-daybreak-free-sample-set.json) |
+| The Legend of Heroes: Trails through Daybreak - Limited Edition | 267629 | [267629-the-legend-of-heroes-trails-through-daybreak-limited-edition.json](./267629-the-legend-of-heroes-trails-through-daybreak-limited-edition.json) |
 | The Legend of Heroes: Trails through Daybreak - Ultimate Edition | 300883 | [300883-the-legend-of-heroes-trails-through-daybreak-ultimate-edition.json](./300883-the-legend-of-heroes-trails-through-daybreak-ultimate-edition.json) |
 | The Legend of Heroes: Trails through Daybreak - Voice Set | 310686 | [310686-the-legend-of-heroes-trails-through-daybreak-voice-set.json](./310686-the-legend-of-heroes-trails-through-daybreak-voice-set.json) |
 | The Legend of Heroes: Trails through Daybreak II - Deluxe Edition | 313763 | [313763-the-legend-of-heroes-trails-through-daybreak-ii-deluxe-edition.json](./313763-the-legend-of-heroes-trails-through-daybreak-ii-deluxe-edition.json) |
@@ -26085,6 +26091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toca Nature | 345160 | [345160-toca-nature.json](./345160-toca-nature.json) |
 | Toca Pet Doctor | 74729 | [74729-toca-pet-doctor.json](./74729-toca-pet-doctor.json) |
 | Toca Pisadinha | 237621 | [237621-toca-pisadinha.json](./237621-toca-pisadinha.json) |
+| TOCA Race Driver | 267534 | [267534-toca-race-driver.json](./267534-toca-race-driver.json) |
 | TOCA Race Driver 2 | 246667 | [246667-toca-race-driver-2.json](./246667-toca-race-driver-2.json) |
 | TOCA Race Driver 2 | 6201 | [6201-toca-race-driver-2.json](./6201-toca-race-driver-2.json) |
 | TOCA Race Driver 3 | 907 | [907-toca-race-driver-3.json](./907-toca-race-driver-3.json) |
@@ -26750,6 +26757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division 2: Warlords of New York - Ultimate Edition | 146156 | [146156-tom-clancys-the-division-2-warlords-of-new-york-ultimate-edition.json](./146156-tom-clancys-the-division-2-warlords-of-new-york-ultimate-edition.json) |
 | Tom Clancy's The Division 2: Warlords of New York Edition | 164711 | [164711-tom-clancys-the-division-2-warlords-of-new-york-edition.json](./164711-tom-clancys-the-division-2-warlords-of-new-york-edition.json) |
 | Tom Clancy's The Division 2: Year 1 Pass | 152165 | [152165-tom-clancys-the-division-2-year-1-pass.json](./152165-tom-clancys-the-division-2-year-1-pass.json) |
+| Tom Clancy's The Division 3 | 267620 | [267620-tom-clancys-the-division-3.json](./267620-tom-clancys-the-division-3.json) |
 | Tom Clancy's The Division Franchise Bundle | 164857 | [164857-tom-clancys-the-division-franchise-bundle.json](./164857-tom-clancys-the-division-franchise-bundle.json) |
 | Tom Clancy's The Division: Gold Edition | 53822 | [53822-tom-clancys-the-division-gold-edition.json](./53822-tom-clancys-the-division-gold-edition.json) |
 | Tom Clancy's The Division: Heartland | 146881 | [146881-tom-clancys-the-division-heartland.json](./146881-tom-clancys-the-division-heartland.json) |
@@ -29472,6 +29480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Soldiers: War Chest - Masters of the Universe Pack | 410326 | [410326-toy-soldiers-war-chest-masters-of-the-universe-pack.json](./410326-toy-soldiers-war-chest-masters-of-the-universe-pack.json) |
 | Toy Story | 220099 | [220099-toy-story.json](./220099-toy-story.json) |
 | Toy Story | 220268 | [220268-toy-story.json](./220268-toy-story.json) |
+| Toy Story | 267538 | [267538-toy-story.json](./267538-toy-story.json) |
 | Toy Story 2 | 165581 | [165581-toy-story-2.json](./165581-toy-story-2.json) |
 | Toy Story 2: Buzz Lightyear to the Rescue! | 305791 | [305791-toy-story-2-buzz-lightyear-to-the-rescue.json](./305791-toy-story-2-buzz-lightyear-to-the-rescue.json) |
 | Toy Story 2: Buzz Lightyear to the Rescue! | 3619 | [3619-toy-story-2-buzz-lightyear-to-the-rescue.json](./3619-toy-story-2-buzz-lightyear-to-the-rescue.json) |
