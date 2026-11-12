@@ -6625,6 +6625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayonaka no Kanshoku | 233934 | [233934-mayonaka-no-kanshoku.json](./233934-mayonaka-no-kanshoku.json) |
 | Mayonez | 106538 | [106538-mayonez.json](./106538-mayonez.json) |
 | Mayonnaise Hole | 210827 | [210827-mayonnaise-hole.json](./210827-mayonnaise-hole.json) |
+| Mayonnaise Simulator | 290586 | [290586-mayonnaise-simulator.json](./290586-mayonnaise-simulator.json) |
 | Mayor Life Simulator | 391545 | [391545-mayor-life-simulator.json](./391545-mayor-life-simulator.json) |
 | Mayor May Knott | 249857 | [249857-mayor-may-knott.json](./249857-mayor-may-knott.json) |
 | Mayor Moon | 121434 | [121434-mayor-moon.json](./121434-mayor-moon.json) |
@@ -15228,6 +15229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mix AI Animal Ultimate | 320369 | [320369-mix-ai-animal-ultimate.json](./320369-mix-ai-animal-ultimate.json) |
 | Mix Dunk: King of Basketball | 274884 | [274884-mix-dunk-king-of-basketball.json](./274884-mix-dunk-king-of-basketball.json) |
 | Mix Hentai Girls | 165830 | [165830-mix-hentai-girls.json](./165830-mix-hentai-girls.json) |
+| Mix It! | 290601 | [290601-mix-it.json](./290601-mix-it.json) |
 | Mix Ore | 125546 | [125546-mix-ore.json](./125546-mix-ore.json) |
 | Mix Superstar | 262371 | [262371-mix-superstar.json](./262371-mix-superstar.json) |
 | Mix Superstar | 65085 | [65085-mix-superstar.json](./65085-mix-superstar.json) |
@@ -20512,6 +20514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MugenCards | 200698 | [200698-mugencards.json](./200698-mugencards.json) |
 | Mugengikyou: First Disaster | 301352 | [301352-mugengikyou-first-disaster.json](./301352-mugengikyou-first-disaster.json) |
 | Mugengikyou: Second Departure | 301356 | [301356-mugengikyou-second-departure.json](./301356-mugengikyou-second-departure.json) |
+| Mugged | 290570 | [290570-mugged.json](./290570-mugged.json) |
 | Mugger Party | 286026 | [286026-mugger-party.json](./286026-mugger-party.json) |
 | Muggle Studies | 216440 | [216440-muggle-studies.json](./216440-muggle-studies.json) |
 | Muggo Clicker | 311479 | [311479-muggo-clicker.json](./311479-muggo-clicker.json) |
