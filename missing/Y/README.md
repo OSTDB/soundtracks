@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Year 2088 Classic | 276276 | [276276-year-2088-classic.json](./276276-year-2088-classic.json) |
 | Year 500 | 248046 | [248046-year-500.json](./248046-year-500.json) |
 | Year of the Ladybug: Season 1 | 337765 | [337765-year-of-the-ladybug-season-1.json](./337765-year-of-the-ladybug-season-1.json) |
+| Year Unknown | 263719 | [263719-year-unknown.json](./263719-year-unknown.json) |
 | Year Walk | 21893 | [21893-year-walk.json](./21893-year-walk.json) |
 | Year Walk | 6171 | [6171-year-walk.json](./6171-year-walk.json) |
 | Year3055 | 284831 | [284831-year3055.json](./284831-year3055.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Sherlock: The Legacy of Doyle | 70163 | [70163-young-sherlock-the-legacy-of-doyle.json](./70163-young-sherlock-the-legacy-of-doyle.json) |
 | Young Souls | 106857 | [106857-young-souls.json](./106857-young-souls.json) |
 | Young Street | 251240 | [251240-young-street.json](./251240-young-street.json) |
+| Young Team Sounds | 263715 | [263715-young-team-sounds.json](./263715-young-team-sounds.json) |
 | Young Warriors | 174834 | [174834-young-warriors.json](./174834-young-warriors.json) |
 | Young Widow: Yume | 97606 | [97606-young-widow-yume.json](./97606-young-widow-yume.json) |
 | Young Wife Elf's Netorase RPG: Irena | 134643 | [134643-young-wife-elfs-netorase-rpg-irena.json](./134643-young-wife-elfs-netorase-rpg-irena.json) |
