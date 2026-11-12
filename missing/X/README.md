@@ -840,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiào Ào Jiānghú 2: Wǔyuè Jiàn Pài | 93117 | [93117-xiao-ao-jianghu-2-wuyue-jian-pai.json](./93117-xiao-ao-jianghu-2-wuyue-jian-pai.json) |
 | Xiǎo Bāngdí de Qímiào Màoxiǎn | 157887 | [157887-xiao-bangdi-de-qimiao-maoxian.json](./157887-xiao-bangdi-de-qimiao-maoxian.json) |
 | Xiao La: Fantasy Dream | 272365 | [272365-xiao-la-fantasy-dream.json](./272365-xiao-la-fantasy-dream.json) |
+| Xiǎo Mary | 287298 | [287298-xiao-mary.json](./287298-xiao-mary.json) |
 | Xiǎo Qiàn Dàmàoxiǎn | 359475 | [359475-xiao-qian-damaoxian.json](./359475-xiao-qian-damaoxian.json) |
 | Xiǎo Qiān Mófǎ Zhèng | 359474 | [359474-xiao-qian-mofa-zheng.json](./359474-xiao-qian-mofa-zheng.json) |
 | Xiao Xiao No. 2 | 290870 | [290870-xiao-xiao-no-2.json](./290870-xiao-xiao-no-2.json) |
