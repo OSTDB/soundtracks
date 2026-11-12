@@ -19701,6 +19701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of Pain | 192880 | [192880-crown-of-pain.json](./192880-crown-of-pain.json) |
 | Crown of Silence | 385220 | [385220-crown-of-silence.json](./385220-crown-of-silence.json) |
 | Crown of the Empire Around the World | 151297 | [151297-crown-of-the-empire-around-the-world.json](./151297-crown-of-the-empire-around-the-world.json) |
+| Crown of the Empire: Around the World - Collectors Edition | 278187 | [278187-crown-of-the-empire-around-the-world-collectors-edition.json](./278187-crown-of-the-empire-around-the-world-collectors-edition.json) |
 | Crown of the Empire: Collector's Edition | 273342 | [273342-crown-of-the-empire-collectors-edition.json](./273342-crown-of-the-empire-collectors-edition.json) |
 | Crown of the Empire: Temple of Resurrection - Collector's Edition | 417514 | [417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json](./417514-crown-of-the-empire-temple-of-resurrection-collectors-edition.json) |
 | Crown of the Empire: Timeloop | 417714 | [417714-crown-of-the-empire-timeloop.json](./417714-crown-of-the-empire-timeloop.json) |
