@@ -3643,6 +3643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 808cc | 251894 | [251894-808cc.json](./251894-808cc.json) |
 | 808s&Genetics | 264544 | [264544-808s-and-genetics.json](./264544-808s-and-genetics.json) |
 | 80s Mania Wrestling | 232083 | [232083-80s-mania-wrestling.json](./232083-80s-mania-wrestling.json) |
+| 80s Mania Wrestling Returns | 256502 | [256502-80s-mania-wrestling-returns.json](./256502-80s-mania-wrestling-returns.json) |
 | 80s Volleyball | 151616 | [151616-80s-volleyball.json](./151616-80s-volleyball.json) |
 | 81-tris | 289576 | [289576-81-tris.json](./289576-81-tris.json) |
 | 812: The First | 373431 | [373431-812-the-first.json](./373431-812-the-first.json) |
