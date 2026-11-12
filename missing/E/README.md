@@ -5277,6 +5277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erocism | 302445 | [302445-erocism.json](./302445-erocism.json) |
 | Eroge Academy | 277957 | [277957-eroge-academy.json](./277957-eroge-academy.json) |
 | Eroge Music Quiz | 372733 | [372733-eroge-music-quiz.json](./372733-eroge-music-quiz.json) |
+| Erogoddess: Asgard | 313522 | [313522-erogoddess-asgard.json](./313522-erogoddess-asgard.json) |
 | Erogoddess: Mirage | 339762 | [339762-erogoddess-mirage.json](./339762-erogoddess-mirage.json) |
 | Erogoddess: Olympus | 293520 | [293520-erogoddess-olympus.json](./293520-erogoddess-olympus.json) |
 | Erogods: Asgard | 278644 | [278644-erogods-asgard.json](./278644-erogods-asgard.json) |
@@ -5620,6 +5621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from NOM | 65225 | [65225-escape-from-nom.json](./65225-escape-from-nom.json) |
 | Escape from Norwood | 246016 | [246016-escape-from-norwood.json](./246016-escape-from-norwood.json) |
 | Escape from Nowhere | 158499 | [158499-escape-from-nowhere.json](./158499-escape-from-nowhere.json) |
+| Escape from Octlien | 313526 | [313526-escape-from-octlien.json](./313526-escape-from-octlien.json) |
 | Escape from Omicron | 14056 | [14056-escape-from-omicron.json](./14056-escape-from-omicron.json) |
 | Escape from Peruácru Island | 388911 | [388911-escape-from-peruacru-island.json](./388911-escape-from-peruacru-island.json) |
 | Escape From Planet Aelea | 172870 | [172870-escape-from-planet-aelea.json](./172870-escape-from-planet-aelea.json) |
@@ -8545,6 +8547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experimental | 163972 | [163972-experimental.json](./163972-experimental.json) |
 | Experimental Game Pack 01 | 62139 | [62139-experimental-game-pack-01.json](./62139-experimental-game-pack-01.json) |
 | Experimental Game Pack 01 | 80612 | [80612-experimental-game-pack-01.json](./80612-experimental-game-pack-01.json) |
+| Experimental Penguins | 313590 | [313590-experimental-penguins.json](./313590-experimental-penguins.json) |
 | Experimental Shooter | 406406 | [406406-experimental-shooter.json](./406406-experimental-shooter.json) |
 | Experimental Shooter 2 | 406407 | [406407-experimental-shooter-2.json](./406407-experimental-shooter-2.json) |
 | Experimentation | 260274 | [260274-experimentation.json](./260274-experimentation.json) |
