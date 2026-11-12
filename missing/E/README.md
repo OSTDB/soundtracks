@@ -3893,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EndCycle VS | 112819 | [112819-endcycle-vs.json](./112819-endcycle-vs.json) |
 | Endeavor | 228677 | [228677-endeavor.json](./228677-endeavor.json) |
 | Endeavor | 301527 | [301527-endeavor.json](./301527-endeavor.json) |
+| Endeavor | 316508 | [316508-endeavor.json](./316508-endeavor.json) |
 | EndeavorOTC | 330777 | [330777-endeavorotc.json](./330777-endeavorotc.json) |
 | Endeavour Survival | 28036 | [28036-endeavour-survival.json](./28036-endeavour-survival.json) |
 | Ender Chariot | 348670 | [348670-ender-chariot.json](./348670-ender-chariot.json) |
@@ -7319,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everglen | 368993 | [368993-everglen.json](./368993-everglen.json) |
 | Everglory | 163911 | [163911-everglory.json](./163911-everglory.json) |
 | Everglow | 190301 | [190301-everglow.json](./190301-everglow.json) |
+| Everglyph Trials | 317109 | [317109-everglyph-trials.json](./317109-everglyph-trials.json) |
 | Evergreen | 142995 | [142995-evergreen.json](./142995-evergreen.json) |
 | Evergreen | 59933 | [59933-evergreen.json](./59933-evergreen.json) |
 | Evergreen Avenue | 63578 | [63578-evergreen-avenue.json](./63578-evergreen-avenue.json) |
