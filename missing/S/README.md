@@ -18284,6 +18284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere Near Romance | 179108 | [179108-somewhere-near-romance.json](./179108-somewhere-near-romance.json) |
 | Somewhere on Zibylon | 36526 | [36526-somewhere-on-zibylon.json](./36526-somewhere-on-zibylon.json) |
 | Somewhere Strange | 184091 | [184091-somewhere-strange.json](./184091-somewhere-strange.json) |
+| Somewhere Under the Sea | 276366 | [276366-somewhere-under-the-sea.json](./276366-somewhere-under-the-sea.json) |
 | Somewhere, a Cat Sleeps | 373353 | [373353-somewhere-a-cat-sleeps.json](./373353-somewhere-a-cat-sleeps.json) |
 | Somewhere: Sect of Relic | 56440 | [56440-somewhere-sect-of-relic.json](./56440-somewhere-sect-of-relic.json) |
 | Sommad | 51957 | [51957-sommad.json](./51957-sommad.json) |
