@@ -719,6 +719,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painball | 70618 | [70618-painball.json](./70618-painball.json) |
 | Paincult | 177022 | [177022-paincult.json](./177022-paincult.json) |
 | PainFighting | 255984 | [255984-painfighting.json](./255984-painfighting.json) |
+| PainKeep | 300577 | [300577-painkeep.json](./300577-painkeep.json) |
+| PainKeep Arena | 300573 | [300573-painkeep-arena.json](./300573-painkeep-arena.json) |
 | Painkiller | 152077 | [152077-painkiller.json](./152077-painkiller.json) |
 | Painkiller | 828 | [828-painkiller.json](./828-painkiller.json) |
 | Painkiller Collection | 46998 | [46998-painkiller-collection.json](./46998-painkiller-collection.json) |
@@ -3816,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Calcio 7.0 | 298779 | [298779-pc-calcio-7-0.json](./298779-pc-calcio-7-0.json) |
 | PC Classix | 79018 | [79018-pc-classix.json](./79018-pc-classix.json) |
 | PC Collection | 79443 | [79443-pc-collection.json](./79443-pc-collection.json) |
+| PC Creator 2: Computer Tycoon | 300621 | [300621-pc-creator-2-computer-tycoon.json](./300621-pc-creator-2-computer-tycoon.json) |
 | PC Creator: PC Building Simulator | 186329 | [186329-pc-creator-pc-building-simulator.json](./186329-pc-creator-pc-building-simulator.json) |
 | PC Cursed 98 | 372361 | [372361-pc-cursed-98.json](./372361-pc-cursed-98.json) |
 | PC Engine Best Collection: Tengai Makyou Collection | 62136 | [62136-pc-engine-best-collection-tengai-makyou-collection.json](./62136-pc-engine-best-collection-tengai-makyou-collection.json) |
@@ -17787,6 +17790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protector: Special Edition | 40809 | [40809-protector-special-edition.json](./40809-protector-special-edition.json) |
 | Protector/Y*A*S*I | 63809 | [63809-protector-y-a-s-i.json](./63809-protector-y-a-s-i.json) |
 | Protectors | 223988 | [223988-protectors.json](./223988-protectors.json) |
+| Protectron 23 vs. the Alien Armada | 300591 | [300591-protectron-23-vs-the-alien-armada.json](./300591-protectron-23-vs-the-alien-armada.json) |
 | Protein for Muscle | 121962 | [121962-protein-for-muscle.json](./121962-protein-for-muscle.json) |
 | Protektor | 176516 | [176516-protektor.json](./176516-protektor.json) |
 | Protest | 105692 | [105692-protest.json](./105692-protest.json) |
