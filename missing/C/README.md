@@ -4154,6 +4154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Contra Mode | 227656 | [227656-castlevania-contra-mode.json](./227656-castlevania-contra-mode.json) |
 | Castlevania: Curse of Darkness | 1137 | [1137-castlevania-curse-of-darkness.json](./1137-castlevania-curse-of-darkness.json) |
 | Castlevania: Dawn of Dissonance - A Juste Story Mode Hack | 173398 | [173398-castlevania-dawn-of-dissonance-a-juste-story-mode-hack.json](./173398-castlevania-dawn-of-dissonance-a-juste-story-mode-hack.json) |
+| Castlevania: Dawn of Shovel | 270362 | [270362-castlevania-dawn-of-shovel.json](./270362-castlevania-dawn-of-shovel.json) |
 | Castlevania: Dawn of Sorrow | 1136 | [1136-castlevania-dawn-of-sorrow.json](./1136-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 315314 | [315314-castlevania-dawn-of-sorrow.json](./315314-castlevania-dawn-of-sorrow.json) |
 | Castlevania: Dawn of Sorrow | 336029 | [336029-castlevania-dawn-of-sorrow.json](./336029-castlevania-dawn-of-sorrow.json) |
@@ -4206,6 +4207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Seal of the Eclipse | 240147 | [240147-castlevania-seal-of-the-eclipse.json](./240147-castlevania-seal-of-the-eclipse.json) |
 | Castlevania: Serenade Under the Moon | 213859 | [213859-castlevania-serenade-under-the-moon.json](./213859-castlevania-serenade-under-the-moon.json) |
 | Castlevania: Simon's Destiny | 141030 | [141030-castlevania-simons-destiny.json](./141030-castlevania-simons-destiny.json) |
+| Castlevania: Sora, Donald & Neku in Dawn of Sorrow | 270363 | [270363-castlevania-sora-donald-and-neku-in-dawn-of-sorrow.json](./270363-castlevania-sora-donald-and-neku-in-dawn-of-sorrow.json) |
 | Castlevania: Specter of Sorrow | 233598 | [233598-castlevania-specter-of-sorrow.json](./233598-castlevania-specter-of-sorrow.json) |
 | Castlevania: Symphony of Horrors | 376583 | [376583-castlevania-symphony-of-horrors.json](./376583-castlevania-symphony-of-horrors.json) |
 | Castlevania: Symphony of the Night | 198664 | [198664-castlevania-symphony-of-the-night.json](./198664-castlevania-symphony-of-the-night.json) |
@@ -16334,6 +16336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cat | 361677 | [361677-cosmic-cat.json](./361677-cosmic-cat.json) |
 | Cosmic Causeway: Trailblazer II | 40936 | [40936-cosmic-causeway-trailblazer-ii.json](./40936-cosmic-causeway-trailblazer-ii.json) |
 | Cosmic Cavern 3671 | 90460 | [90460-cosmic-cavern-3671.json](./90460-cosmic-cavern-3671.json) |
+| Cosmic Caverns | 270343 | [270343-cosmic-caverns.json](./270343-cosmic-caverns.json) |
 | Cosmic Challenge Racing | 196336 | [196336-cosmic-challenge-racing.json](./196336-cosmic-challenge-racing.json) |
 | Cosmic Chasm | 18846 | [18846-cosmic-chasm.json](./18846-cosmic-chasm.json) |
 | Cosmic Chicken | 103657 | [103657-cosmic-chicken.json](./103657-cosmic-chicken.json) |
@@ -22594,6 +22597,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle of Struggle: Ardengrad | 335197 | [335197-cycle-of-struggle-ardengrad.json](./335197-cycle-of-struggle-ardengrad.json) |
 | Cycle of the Moon | 216757 | [216757-cycle-of-the-moon.json](./216757-cycle-of-the-moon.json) |
 | Cycle Race: Road Man | 48532 | [48532-cycle-race-road-man.json](./48532-cycle-race-road-man.json) |
+| Cycle Scramble | 270352 | [270352-cycle-scramble.json](./270352-cycle-scramble.json) |
+| Cycle Scramble 2 | 270355 | [270355-cycle-scramble-2.json](./270355-cycle-scramble-2.json) |
 | Cycle Warriors | 39828 | [39828-cycle-warriors.json](./39828-cycle-warriors.json) |
 | Cycle Warz | 93204 | [93204-cycle-warz.json](./93204-cycle-warz.json) |
 | Cycle01 | 414912 | [414912-cycle01.json](./414912-cycle01.json) |
