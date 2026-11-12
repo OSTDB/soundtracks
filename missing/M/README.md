@@ -4711,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marlene Betwixt | 31116 | [31116-marlene-betwixt.json](./31116-marlene-betwixt.json) |
 | Marlene Betwixt | 56537 | [56537-marlene-betwixt.json](./56537-marlene-betwixt.json) |
 | Marley & Marley | 250502 | [250502-marley-and-marley.json](./250502-marley-and-marley.json) |
+| Marlo: Merlin's Halls | 252427 | [252427-marlo-merlins-halls.json](./252427-marlo-merlins-halls.json) |
 | Marlon’s Mystery: The Darkside of Crime | 189840 | [189840-marlon-s-mystery-the-darkside-of-crime.json](./189840-marlon-s-mystery-the-darkside-of-crime.json) |
 | Marlow Briggs and the Mask of Death | 8006 | [8006-marlow-briggs-and-the-mask-of-death.json](./8006-marlow-briggs-and-the-mask-of-death.json) |
 | Marlow in Apocalyptic Acid World | 180053 | [180053-marlow-in-apocalyptic-acid-world.json](./180053-marlow-in-apocalyptic-acid-world.json) |
@@ -9788,6 +9789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory's Dogma Code: 01 - Collector's Edition | 53332 | [53332-memorys-dogma-code-01-collectors-edition.json](./53332-memorys-dogma-code-01-collectors-edition.json) |
 | Memory's Reach | 220413 | [220413-memorys-reach.json](./220413-memorys-reach.json) |
 | MemoryBombs | 290490 | [290490-memorybombs.json](./290490-memorybombs.json) |
+| Memoryland Prelude | 252343 | [252343-memoryland-prelude.json](./252343-memoryland-prelude.json) |
 | Memoryleak | 372601 | [372601-memoryleak.json](./372601-memoryleak.json) |
 | MemoryMaze | 319367 | [319367-memorymaze.json](./319367-memorymaze.json) |
 | MemoStomp | 68553 | [68553-memostomp.json](./68553-memostomp.json) |
@@ -18138,6 +18140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Crush | 322327 | [322327-moonlight-crush.json](./322327-moonlight-crush.json) |
 | Moonlight Destiny | 222607 | [222607-moonlight-destiny.json](./222607-moonlight-destiny.json) |
 | Moonlight Dialogue | 369812 | [369812-moonlight-dialogue.json](./369812-moonlight-dialogue.json) |
+| Moonlight Drive | 252422 | [252422-moonlight-drive.json](./252422-moonlight-drive.json) |
 | Moonlight Express: Fortnight | 193726 | [193726-moonlight-express-fortnight.json](./193726-moonlight-express-fortnight.json) |
 | Moonlight Frog Inn | 320346 | [320346-moonlight-frog-inn.json](./320346-moonlight-frog-inn.json) |
 | Moonlight In Garland | 152459 | [152459-moonlight-in-garland.json](./152459-moonlight-in-garland.json) |
