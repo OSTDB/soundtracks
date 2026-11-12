@@ -2373,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness Machine | 289868 | [289868-darkness-machine.json](./289868-darkness-machine.json) |
 | Darkness Maze Cube | 130213 | [130213-darkness-maze-cube.json](./130213-darkness-maze-cube.json) |
 | Darkness Maze Cube | 221255 | [221255-darkness-maze-cube.json](./221255-darkness-maze-cube.json) |
+| Darkness Myth | 299625 | [299625-darkness-myth.json](./299625-darkness-myth.json) |
 | Darkness of the Coast | 195220 | [195220-darkness-of-the-coast.json](./195220-darkness-of-the-coast.json) |
 | Darkness Rainfall | 405953 | [405953-darkness-rainfall.json](./405953-darkness-rainfall.json) |
 | Darkness Reborn | 223427 | [223427-darkness-reborn.json](./223427-darkness-reborn.json) |
@@ -2854,6 +2855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dating Sim! Re:Mastered | 329170 | [329170-dating-sim-re-mastered.json](./329170-dating-sim-re-mastered.json) |
 | Dating Simulator | 162431 | [162431-dating-simulator.json](./162431-dating-simulator.json) |
 | Dating Simulator 2025 | 288921 | [288921-dating-simulator-2025.json](./288921-dating-simulator-2025.json) |
+| Dating Start | 299664 | [299664-dating-start.json](./299664-dating-start.json) |
 | Dating Stories | 332167 | [332167-dating-stories.json](./332167-dating-stories.json) |
 | Dating Stories 2 | 412108 | [412108-dating-stories-2.json](./412108-dating-stories-2.json) |
 | Dating Under the Comet | 345595 | [345595-dating-under-the-comet.json](./345595-dating-under-the-comet.json) |
@@ -8151,6 +8153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny Is Dice | 368043 | [368043-destiny-is-dice.json](./368043-destiny-is-dice.json) |
 | Destiny Island | 158686 | [158686-destiny-island.json](./158686-destiny-island.json) |
 | Destiny Isle | 348203 | [348203-destiny-isle.json](./348203-destiny-isle.json) |
+| Destiny Knight Romance | 299626 | [299626-destiny-knight-romance.json](./299626-destiny-knight-romance.json) |
 | Destiny Links | 71946 | [71946-destiny-links.json](./71946-destiny-links.json) |
 | Destiny Maiden | 270649 | [270649-destiny-maiden.json](./270649-destiny-maiden.json) |
 | Destiny of a Wizard | 43109 | [43109-destiny-of-a-wizard.json](./43109-destiny-of-a-wizard.json) |
