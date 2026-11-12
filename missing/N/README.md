@@ -2815,6 +2815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neopets: Island Builders | 254592 | [254592-neopets-island-builders.json](./254592-neopets-island-builders.json) |
 | Neopets: Mega Mini Games Collection - The Neopian Arcade Odyssey | 386211 | [386211-neopets-mega-mini-games-collection-the-neopian-arcade-odyssey.json](./386211-neopets-mega-mini-games-collection-the-neopian-arcade-odyssey.json) |
 | Neopets: Quizara's Curse | 65163 | [65163-neopets-quizaras-curse.json](./65163-neopets-quizaras-curse.json) |
+| Neopets: Tales of Dacardia | 306166 | [306166-neopets-tales-of-dacardia.json](./306166-neopets-tales-of-dacardia.json) |
 | Neopets: The Altador Plot | 261239 | [261239-neopets-the-altador-plot.json](./261239-neopets-the-altador-plot.json) |
 | Neopets: The Darkest Faerie | 43641 | [43641-neopets-the-darkest-faerie.json](./43641-neopets-the-darkest-faerie.json) |
 | Neopets: The Wheel of Monotony | 97687 | [97687-neopets-the-wheel-of-monotony.json](./97687-neopets-the-wheel-of-monotony.json) |
@@ -7650,6 +7651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Survivors | 372542 | [372542-nova-survivors.json](./372542-nova-survivors.json) |
 | Nova Tales | 220456 | [220456-nova-tales.json](./220456-nova-tales.json) |
 | Nova the Squirrel | 108807 | [108807-nova-the-squirrel.json](./108807-nova-the-squirrel.json) |
+| Nova the Squirrel 2 | 306170 | [306170-nova-the-squirrel-2.json](./306170-nova-the-squirrel-2.json) |
 | Nova Urbana | 222859 | [222859-nova-urbana.json](./222859-nova-urbana.json) |
 | Nova Usagi no Game de Ryuugaku!? DS | 72929 | [72929-nova-usagi-no-game-de-ryuugaku-ds.json](./72929-nova-usagi-no-game-de-ryuugaku-ds.json) |
 | Nova Warp | 423868 | [423868-nova-warp.json](./423868-nova-warp.json) |
