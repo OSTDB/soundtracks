@@ -4213,6 +4213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Application | 256555 | [256555-lethal-application.json](./256555-lethal-application.json) |
 | Lethal Beach | 267109 | [267109-lethal-beach.json](./267109-lethal-beach.json) |
 | Lethal Company | 212089 | [212089-lethal-company.json](./212089-lethal-company.json) |
+| Lethal Corporation | 317651 | [317651-lethal-corporation.json](./317651-lethal-corporation.json) |
 | Lethal Crash Race | 39930 | [39930-lethal-crash-race.json](./39930-lethal-crash-race.json) |
 | Lethal Crisis | 259719 | [259719-lethal-crisis.json](./259719-lethal-crisis.json) |
 | Lethal Dose | 241950 | [241950-lethal-dose.json](./241950-lethal-dose.json) |
@@ -4252,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Weapon | 306182 | [306182-lethal-weapon.json](./306182-lethal-weapon.json) |
 | Lethal Weapon | 306183 | [306183-lethal-weapon.json](./306183-lethal-weapon.json) |
 | Lethal Weapon | 306185 | [306185-lethal-weapon.json](./306185-lethal-weapon.json) |
+| Lethal Weapon | 316903 | [316903-lethal-weapon.json](./316903-lethal-weapon.json) |
 | Lethal Wedding | 123207 | [123207-lethal-wedding.json](./123207-lethal-wedding.json) |
 | Lethal Women: World of Femdom and Espionage | 340913 | [340913-lethal-women-world-of-femdom-and-espionage.json](./340913-lethal-women-world-of-femdom-and-espionage.json) |
 | Lethal Xcess | 15249 | [15249-lethal-xcess.json](./15249-lethal-xcess.json) |
@@ -7901,6 +7903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looking Glass | 186605 | [186605-looking-glass.json](./186605-looking-glass.json) |
 | Looking Glass | 321831 | [321831-looking-glass.json](./321831-looking-glass.json) |
 | Looking Up | 391322 | [391322-looking-up.json](./391322-looking-up.json) |
+| Looking Up I See Only A Ceiling: The Relapse | 316515 | [316515-looking-up-i-see-only-a-ceiling-the-relapse.json](./316515-looking-up-i-see-only-a-ceiling-the-relapse.json) |
 | Lookouts | 177910 | [177910-lookouts.json](./177910-lookouts.json) |
 | Looks Good | 252874 | [252874-looks-good.json](./252874-looks-good.json) |
 | Looksley's Line Up | 66584 | [66584-looksleys-line-up.json](./66584-looksleys-line-up.json) |
