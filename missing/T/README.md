@@ -13126,6 +13126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Town: Excape | 149839 | [149839-the-last-town-excape.json](./149839-the-last-town-excape.json) |
 | The Last Train | 109625 | [109625-the-last-train.json](./109625-the-last-train.json) |
 | The Last Train | 259106 | [259106-the-last-train.json](./259106-the-last-train.json) |
+| The Last Train | 309764 | [309764-the-last-train.json](./309764-the-last-train.json) |
 | The Last Train: Baquedano | 343255 | [343255-the-last-train-baquedano.json](./343255-the-last-train-baquedano.json) |
 | The Last Train: Final Ride | 175364 | [175364-the-last-train-final-ride.json](./175364-the-last-train-final-ride.json) |
 | The Last Transmission | 356685 | [356685-the-last-transmission.json](./356685-the-last-transmission.json) |
@@ -17443,6 +17444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shepherd's Stand | 337369 | [337369-the-shepherds-stand.json](./337369-the-shepherds-stand.json) |
 | The Sheriff | 324174 | [324174-the-sheriff.json](./324174-the-sheriff.json) |
 | The Sheriff's Town | 264206 | [264206-the-sheriffs-town.json](./264206-the-sheriffs-town.json) |
+| The Sherwood Open | 309238 | [309238-the-sherwood-open.json](./309238-the-sherwood-open.json) |
 | The Shield: The Game | 70186 | [70186-the-shield-the-game.json](./70186-the-shield-the-game.json) |
 | The Shifting Cavern | 258424 | [258424-the-shifting-cavern.json](./258424-the-shifting-cavern.json) |
 | The Shimmering Horizon and Cursed Blacksmith | 169150 | [169150-the-shimmering-horizon-and-cursed-blacksmith.json](./169150-the-shimmering-horizon-and-cursed-blacksmith.json) |
@@ -26402,6 +26404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom and Jerry Mobile | 124449 | [124449-tom-and-jerry-mobile.json](./124449-tom-and-jerry-mobile.json) |
 | Tom and Jerry Tales | 8027 | [8027-tom-and-jerry-tales.json](./8027-tom-and-jerry-tales.json) |
 | Tom and Jerry: Chase | 137415 | [137415-tom-and-jerry-chase.json](./137415-tom-and-jerry-chase.json) |
+| Tom and Jerry: Food Fight | 309245 | [309245-tom-and-jerry-food-fight.json](./309245-tom-and-jerry-food-fight.json) |
 | Tom and Jerry: Frantic Antics! | 307061 | [307061-tom-and-jerry-frantic-antics.json](./307061-tom-and-jerry-frantic-antics.json) |
 | Tom and Jerry: Frantic Antics! | 8028 | [8028-tom-and-jerry-frantic-antics.json](./8028-tom-and-jerry-frantic-antics.json) |
 | Tom and Jerry: Mouse Hunt | 8031 | [8031-tom-and-jerry-mouse-hunt.json](./8031-tom-and-jerry-mouse-hunt.json) |
@@ -32572,6 +32575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tremolo | 77739 | [77739-tremolo.json](./77739-tremolo.json) |
 | Tremor | 410866 | [410866-tremor.json](./410866-tremor.json) |
 | Tremor: Part I - Genesis | 313162 | [313162-tremor-part-i-genesis.json](./313162-tremor-part-i-genesis.json) |
+| Tremors: Rebirth | 309235 | [309235-tremors-rebirth.json](./309235-tremors-rebirth.json) |
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
 | Tremulous | 93105 | [93105-tremulous.json](./93105-tremulous.json) |
 | Tren | 344455 | [344455-tren.json](./344455-tren.json) |
