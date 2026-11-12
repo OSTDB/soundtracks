@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Omnibion War | 102092 | [102092-omnibion-war.json](./102092-omnibion-war.json) |
 | Omniblast | 171745 | [171745-omniblast.json](./171745-omniblast.json) |
 | Omnibus | 19871 | [19871-omnibus.json](./19871-omnibus.json) |
+| Omnibus Princess | 299644 | [299644-omnibus-princess.json](./299644-omnibus-princess.json) |
 | OmniBus: Game of the Year Edition | 51862 | [51862-omnibus-game-of-the-year-edition.json](./51862-omnibus-game-of-the-year-edition.json) |
 | Omnichess | 207303 | [207303-omnichess.json](./207303-omnichess.json) |
 | Omnicron Conspiracy | 12708 | [12708-omnicron-conspiracy.json](./12708-omnicron-conspiracy.json) |
@@ -2924,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Wheel Guy | 227771 | [227771-one-wheel-guy.json](./227771-one-wheel-guy.json) |
 | One Wish | 103939 | [103939-one-wish.json](./103939-one-wish.json) |
 | One With the Unicycleverse | 374375 | [374375-one-with-the-unicycleverse.json](./374375-one-with-the-unicycleverse.json) |
+| One Withered Night at Freddy's | 299645 | [299645-one-withered-night-at-freddys.json](./299645-one-withered-night-at-freddys.json) |
 | One Word 2 by Powgi | 104620 | [104620-one-word-2-by-powgi.json](./104620-one-word-2-by-powgi.json) |
 | One Word by Powgi | 104621 | [104621-one-word-by-powgi.json](./104621-one-word-by-powgi.json) |
 | One-Armed Cook | 199648 | [199648-one-armed-cook.json](./199648-one-armed-cook.json) |
