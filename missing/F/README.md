@@ -2797,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer's Life | 121882 | [121882-farmers-life.json](./121882-farmers-life.json) |
 | Farmer's Loop | 335203 | [335203-farmers-loop.json](./335203-farmers-loop.json) |
 | Farmer’s Market Simulator | 348393 | [348393-farmer-s-market-simulator.json](./348393-farmer-s-market-simulator.json) |
+| Farmer's Shop Simulator | 302835 | [302835-farmers-shop-simulator.json](./302835-farmers-shop-simulator.json) |
 | Farmerama | 92459 | [92459-farmerama.json](./92459-farmerama.json) |
 | Farmers 2050 | 249667 | [249667-farmers-2050.json](./249667-farmers-2050.json) |
 | Farmers Co-op: Out of This World | 165609 | [165609-farmers-co-op-out-of-this-world.json](./165609-farmers-co-op-out-of-this-world.json) |
@@ -8704,6 +8705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flockwork | 252926 | [252926-flockwork.json](./252926-flockwork.json) |
 | Flocky the Cat | 335730 | [335730-flocky-the-cat.json](./335730-flocky-the-cat.json) |
 | Floigan Bros. | 22050 | [22050-floigan-bros.json](./22050-floigan-bros.json) |
+| Floink Yoink | 302873 | [302873-floink-yoink.json](./302873-floink-yoink.json) |
 | Flong: Directors Cut | 377746 | [377746-flong-directors-cut.json](./377746-flong-directors-cut.json) |
 | Flood | 12104 | [12104-flood.json](./12104-flood.json) |
 | Flood | 186966 | [186966-flood.json](./186966-flood.json) |
@@ -8835,7 +8837,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Florealia | 214563 | [214563-florealia.json](./214563-florealia.json) |
 | Florence | 87672 | [87672-florence.json](./87672-florence.json) |
 | Florence Mirror | 406516 | [406516-florence-mirror.json](./406516-florence-mirror.json) |
-| Florensia | 34922 | [34922-florensia.json](./34922-florensia.json) |
 | Flores con Historias | 198330 | [198330-flores-con-historias.json](./198330-flores-con-historias.json) |
 | Florescer | 159058 | [159058-florescer.json](./159058-florescer.json) |
 | Floresia I: Intemporel | 80897 | [80897-floresia-i-intemporel.json](./80897-floresia-i-intemporel.json) |
