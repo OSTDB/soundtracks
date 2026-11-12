@@ -5681,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrity Slot Machine | 242550 | [242550-celebrity-slot-machine.json](./242550-celebrity-slot-machine.json) |
 | Celebrity Smackdown | 389039 | [389039-celebrity-smackdown.json](./389039-celebrity-smackdown.json) |
 | Celebrity Sports Showdown | 4753 | [4753-celebrity-sports-showdown.json](./4753-celebrity-sports-showdown.json) |
+| Celente Immortal | 251877 | [251877-celente-immortal.json](./251877-celente-immortal.json) |
 | Celephaïs Dead Cities | 373664 | [373664-celephais-dead-cities.json](./373664-celephais-dead-cities.json) |
 | Celeritas | 207487 | [207487-celeritas.json](./207487-celeritas.json) |
 | Celerity | 183396 | [183396-celerity.json](./183396-celerity.json) |
@@ -12215,6 +12216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Tennis Master | 80476 | [80476-cocoto-tennis-master.json](./80476-cocoto-tennis-master.json) |
 | Cocotte Adventure | 181465 | [181465-cocotte-adventure.json](./181465-cocotte-adventure.json) |
 | Cod Quest! | 323673 | [323673-cod-quest.json](./323673-cod-quest.json) |
+| Coda | 251876 | [251876-coda.json](./251876-coda.json) |
 | Coda | 252211 | [252211-coda.json](./252211-coda.json) |
 | Coda | 338681 | [338681-coda.json](./338681-coda.json) |
 | Coda | 358349 | [358349-coda.json](./358349-coda.json) |
