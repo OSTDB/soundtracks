@@ -8442,6 +8442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biker Street 2D | 213812 | [213812-biker-street-2d.json](./213812-biker-street-2d.json) |
 | Bikers | 280488 | [280488-bikers.json](./280488-bikers.json) |
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
+| Bikes and Girls | 248931 | [248931-bikes-and-girls.json](./248931-bikes-and-girls.json) |
 | biketerra | 316177 | [316177-biketerra.json](./316177-biketerra.json) |
 | Biketrial Experience | 177670 | [177670-biketrial-experience.json](./177670-biketrial-experience.json) |
 | Biki Biki Flip | 246863 | [246863-biki-biki-flip.json](./246863-biki-biki-flip.json) |
@@ -17976,6 +17977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Milf | 297360 | [297360-bubble-milf.json](./297360-bubble-milf.json) |
 | Bubble Mix | 87083 | [87083-bubble-mix.json](./87083-bubble-mix.json) |
 | Bubble Mix 3 in 1 Plus | 90685 | [90685-bubble-mix-3-in-1-plus.json](./90685-bubble-mix-3-in-1-plus.json) |
+| Bubble Monsters | 248858 | [248858-bubble-monsters.json](./248858-bubble-monsters.json) |
 | Bubble Night | 205752 | [205752-bubble-night.json](./205752-bubble-night.json) |
 | Bubble People | 173265 | [173265-bubble-people.json](./173265-bubble-people.json) |
 | Bubble Pig | 175106 | [175106-bubble-pig.json](./175106-bubble-pig.json) |
@@ -19097,6 +19099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Beats | 115268 | [115268-bunny-beats.json](./115268-bunny-beats.json) |
 | Bunny Black | 115727 | [115727-bunny-black.json](./115727-bunny-black.json) |
 | Bunny Blocker | 91040 | [91040-bunny-blocker.json](./91040-bunny-blocker.json) |
+| Bunny Blow | 248874 | [248874-bunny-blow.json](./248874-bunny-blow.json) |
 | Bunny Boiler | 241208 | [241208-bunny-boiler.json](./241208-bunny-boiler.json) |
 | Bunny Bond | 265395 | [265395-bunny-bond.json](./265395-bunny-bond.json) |
 | Bunny Bounce | 33450 | [33450-bunny-bounce.json](./33450-bunny-bounce.json) |
@@ -19873,6 +19876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butanooo! Simulator | 303805 | [303805-butanooo-simulator.json](./303805-butanooo-simulator.json) |
 | Butasan | 39131 | [39131-butasan.json](./39131-butasan.json) |
 | Butch: Hard Guy | 293250 | [293250-butch-hard-guy.json](./293250-butch-hard-guy.json) |
+| Butchanaifu | 248946 | [248946-butchanaifu.json](./248946-butchanaifu.json) |
 | Butcher Hill | 11982 | [11982-butcher-hill.json](./11982-butcher-hill.json) |
 | Butcher Life Simulator | 391582 | [391582-butcher-life-simulator.json](./391582-butcher-life-simulator.json) |
 | Butcher of the North | 379043 | [379043-butcher-of-the-north.json](./379043-butcher-of-the-north.json) |
