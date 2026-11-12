@@ -5918,6 +5918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
 | Rescue Team: Legion of Destruction | 410458 | [410458-rescue-team-legion-of-destruction.json](./410458-rescue-team-legion-of-destruction.json) |
 | Rescue Team: Lights. Camera. Outer Space | 359869 | [359869-rescue-team-lights-camera-outer-space.json](./359869-rescue-team-lights-camera-outer-space.json) |
+| Rescue Team: Magnetic Storm | 247225 | [247225-rescue-team-magnetic-storm.json](./247225-rescue-team-magnetic-storm.json) |
 | Rescue Team: Mineral of Miracles | 264631 | [264631-rescue-team-mineral-of-miracles.json](./264631-rescue-team-mineral-of-miracles.json) |
 | Rescue Team: Phantom Crisis - Collector's Edition | 417512 | [417512-rescue-team-phantom-crisis-collectors-edition.json](./417512-rescue-team-phantom-crisis-collectors-edition.json) |
 | Rescue Team: Power Eaters | 188860 | [188860-rescue-team-power-eaters.json](./188860-rescue-team-power-eaters.json) |
@@ -6272,6 +6273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rest Guardian | 344521 | [344521-rest-guardian.json](./344521-rest-guardian.json) |
 | Rest House | 29696 | [29696-rest-house.json](./29696-rest-house.json) |
 | Rest House 2: The Wizard | 131593 | [131593-rest-house-2-the-wizard.json](./131593-rest-house-2-the-wizard.json) |
+| Rest House III: Chlorophilia | 247146 | [247146-rest-house-iii-chlorophilia.json](./247146-rest-house-iii-chlorophilia.json) |
 | Rest in Paws | 358877 | [358877-rest-in-paws.json](./358877-rest-in-paws.json) |
 | Rest In Peace | 174006 | [174006-rest-in-peace.json](./174006-rest-in-peace.json) |
 | Rest In Peace | 30057 | [30057-rest-in-peace.json](./30057-rest-in-peace.json) |
@@ -8193,6 +8195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RimWorld: Anomaly | 291070 | [291070-rimworld-anomaly.json](./291070-rimworld-anomaly.json) |
 | RimWorld: Biotech | 220558 | [220558-rimworld-biotech.json](./220558-rimworld-biotech.json) |
 | RimWorld: Console Edition | 210525 | [210525-rimworld-console-edition.json](./210525-rimworld-console-edition.json) |
+| RimWorld: Console Edition - Chronicles Bundle | 247138 | [247138-rimworld-console-edition-chronicles-bundle.json](./247138-rimworld-console-edition-chronicles-bundle.json) |
 | RimWorld: Console Edition - Digital Deluxe | 211246 | [211246-rimworld-console-edition-digital-deluxe.json](./211246-rimworld-console-edition-digital-deluxe.json) |
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
 | RimWorld: Ideology | 154706 | [154706-rimworld-ideology.json](./154706-rimworld-ideology.json) |
