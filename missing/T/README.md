@@ -4045,6 +4045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple of Lust | 273552 | [273552-temple-of-lust.json](./273552-temple-of-lust.json) |
 | Temple of Pizza | 113763 | [113763-temple-of-pizza.json](./113763-temple-of-pizza.json) |
 | Temple of Quake | 309197 | [309197-temple-of-quake.json](./309197-temple-of-quake.json) |
+| Temple of Revi | 248941 | [248941-temple-of-revi.json](./248941-temple-of-revi.json) |
 | Temple of ROM | 42132 | [42132-temple-of-rom.json](./42132-temple-of-rom.json) |
 | Temple of Rubbo | 191913 | [191913-temple-of-rubbo.json](./191913-temple-of-rubbo.json) |
 | Temple of Sandur | 376454 | [376454-temple-of-sandur.json](./376454-temple-of-sandur.json) |
@@ -6954,6 +6955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Big Bang Theory Game | 325084 | [325084-the-big-bang-theory-game.json](./325084-the-big-bang-theory-game.json) |
 | The Big Bell Race | 318740 | [318740-the-big-bell-race.json](./318740-the-big-bell-race.json) |
 | The Big Below | 289794 | [289794-the-big-below.json](./289794-the-big-below.json) |
+| The Big Big Castle! | 248854 | [248854-the-big-big-castle.json](./248854-the-big-big-castle.json) |
 | The Big Blow Up | 316972 | [316972-the-big-blow-up.json](./316972-the-big-blow-up.json) |
 | The Big Blue | 282495 | [282495-the-big-blue.json](./282495-the-big-blue.json) |
 | The Big Capitalist 3 | 106758 | [106758-the-big-capitalist-3.json](./106758-the-big-capitalist-3.json) |
@@ -24560,6 +24562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Assassin | 344383 | [344383-time-assassin.json](./344383-time-assassin.json) |
 | Time Attack! RPG | 152382 | [152382-time-attack-rpg.json](./152382-time-attack-rpg.json) |
 | Time Avarice | 295267 | [295267-time-avarice.json](./295267-time-avarice.json) |
+| Time Bandit | 248937 | [248937-time-bandit.json](./248937-time-bandit.json) |
 | Time Bandit | 26460 | [26460-time-bandit.json](./26460-time-bandit.json) |
 | Time Bandit: Part 1 - Appendages of the Machine | 165328 | [165328-time-bandit-part-1-appendages-of-the-machine.json](./165328-time-bandit-part-1-appendages-of-the-machine.json) |
 | Time Barbarian Extreme!! | 108639 | [108639-time-barbarian-extreme.json](./108639-time-barbarian-extreme.json) |
@@ -26570,6 +26573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Onmyouji: Tengenjibashi Rei no Baai - V Edition | 144684 | [144684-tokyo-onmyouji-tengenjibashi-rei-no-baai-v-edition.json](./144684-tokyo-onmyouji-tengenjibashi-rei-no-baai-v-edition.json) |
 | Tokyo Pachi-Slot Adventure | 48877 | [48877-tokyo-pachi-slot-adventure.json](./48877-tokyo-pachi-slot-adventure.json) |
 | Tokyo Pinball | 250264 | [250264-tokyo-pinball.json](./250264-tokyo-pinball.json) |
+| Tokyo Psychodemic | 248944 | [248944-tokyo-psychodemic.json](./248944-tokyo-psychodemic.json) |
 | Tokyo Racer X | 343508 | [343508-tokyo-racer-x.json](./343508-tokyo-racer-x.json) |
 | Tokyo Ramen Drifter | 414096 | [414096-tokyo-ramen-drifter.json](./414096-tokyo-ramen-drifter.json) |
 | Tokyo Re:Connect | 166956 | [166956-tokyo-re-connect.json](./166956-tokyo-re-connect.json) |
