@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -16522,6 +16523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrebeMan | 329237 | [329237-brebeman.json](./329237-brebeman.json) |
 | Breecell | 338446 | [338446-breecell.json](./338446-breecell.json) |
 | Breed | 78822 | [78822-breed.json](./78822-breed.json) |
+| Breed Kim Il-Sung | 297941 | [297941-breed-kim-il-sung.json](./297941-breed-kim-il-sung.json) |
 | Breed Laboratory | 383917 | [383917-breed-laboratory.json](./383917-breed-laboratory.json) |
 | Breed Master | 268484 | [268484-breed-master.json](./268484-breed-master.json) |
 | Breeder | 125874 | [125874-breeder.json](./125874-breeder.json) |
@@ -16888,6 +16890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridget Bishop | 400317 | [400317-bridget-bishop.json](./400317-bridget-bishop.json) |
 | BridgeTeam: Ship Simulator | 190981 | [190981-bridgeteam-ship-simulator.json](./190981-bridgeteam-ship-simulator.json) |
 | Bridgeway to Heaven | 403883 | [403883-bridgeway-to-heaven.json](./403883-bridgeway-to-heaven.json) |
+| Brids Huddled Together | 297936 | [297936-brids-huddled-together.json](./297936-brids-huddled-together.json) |
 | Brie Parmesan Mysteries | 244909 | [244909-brie-parmesan-mysteries.json](./244909-brie-parmesan-mysteries.json) |
 | Brief Battles | 77536 | [77536-brief-battles.json](./77536-brief-battles.json) |
 | Brief Karate Foolish | 30877 | [30877-brief-karate-foolish.json](./30877-brief-karate-foolish.json) |
@@ -17183,6 +17186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Keyboard Hero | 342842 | [342842-broken-keyboard-hero.json](./342842-broken-keyboard-hero.json) |
 | Broken Knuckles | 407851 | [407851-broken-knuckles.json](./407851-broken-knuckles.json) |
 | Broken Lamp Records Secret Santa 2025 | 401530 | [401530-broken-lamp-records-secret-santa-2025.json](./401530-broken-lamp-records-secret-santa-2025.json) |
+| Broken Lands Village | 297937 | [297937-broken-lands-village.json](./297937-broken-lands-village.json) |
 | Broken Lands: Tower Defense | 281971 | [281971-broken-lands-tower-defense.json](./281971-broken-lands-tower-defense.json) |
 | Broken Leash: Night Shift | 376478 | [376478-broken-leash-night-shift.json](./376478-broken-leash-night-shift.json) |
 | Broken Legends | 152644 | [152644-broken-legends.json](./152644-broken-legends.json) |
@@ -17454,6 +17458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brushland | 424034 | [424034-brushland.json](./424034-brushland.json) |
 | Brushlings Pale Moon | 155968 | [155968-brushlings-pale-moon.json](./155968-brushlings-pale-moon.json) |
 | Brushwood Buddies | 33692 | [33692-brushwood-buddies.json](./33692-brushwood-buddies.json) |
+| Brushwood Saga | 297938 | [297938-brushwood-saga.json](./297938-brushwood-saga.json) |
 | Brut@l | 14759 | [14759-brut-l.json](./14759-brut-l.json) |
 | Brutal | 407674 | [407674-brutal.json](./407674-brutal.json) |
 | Brutal 2urvive Bundle | 164786 | [164786-brutal-2urvive-bundle.json](./164786-brutal-2urvive-bundle.json) |
@@ -18156,6 +18161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Bash | 93309 | [93309-bug-bash.json](./93309-bug-bash.json) |
 | Bug Battle | 287025 | [287025-bug-battle.json](./287025-bug-battle.json) |
 | Bug Battle | 76316 | [76316-bug-battle.json](./76316-bug-battle.json) |
+| Bug Bite Tower Defence | 297939 | [297939-bug-bite-tower-defence.json](./297939-bug-bite-tower-defence.json) |
 | Bug Bite! | 256929 | [256929-bug-bite.json](./256929-bug-bite.json) |
 | Bug Bites! | 338860 | [338860-bug-bites.json](./338860-bug-bites.json) |
 | Bug Blaster | 15688 | [15688-bug-blaster.json](./15688-bug-blaster.json) |
@@ -19147,6 +19153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Shot | 362186 | [362186-burger-shot.json](./362186-burger-shot.json) |
 | Burger Station | 338453 | [338453-burger-station.json](./338453-burger-station.json) |
 | Burger Story Beach Edition | 97150 | [97150-burger-story-beach-edition.json](./97150-burger-story-beach-edition.json) |
+| Burger Takeout | 297940 | [297940-burger-takeout.json](./297940-burger-takeout.json) |
 | Burger Time | 210494 | [210494-burger-time.json](./210494-burger-time.json) |
 | Burger Time | 292985 | [292985-burger-time.json](./292985-burger-time.json) |
 | Burger Truck Trump | 334056 | [334056-burger-truck-trump.json](./334056-burger-truck-trump.json) |
