@@ -15115,6 +15115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Presence | 170989 | [170989-presence.json](./170989-presence.json) |
 | Presence | 212226 | [212226-presence.json](./212226-presence.json) |
 | Presence | 253339 | [253339-presence.json](./253339-presence.json) |
+| Presence Lookout | 271873 | [271873-presence-lookout.json](./271873-presence-lookout.json) |
 | Presences: Dark Awakening | 250404 | [250404-presences-dark-awakening.json](./250404-presences-dark-awakening.json) |
 | Presences: Dark Awakening | 250549 | [250549-presences-dark-awakening.json](./250549-presences-dark-awakening.json) |
 | Present | 77268 | [77268-present.json](./77268-present.json) |
