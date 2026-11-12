@@ -8819,7 +8819,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionic Attack | 36527 | [36527-bionic-attack.json](./36527-bionic-attack.json) |
 | Bionic Battle Mutants | 74990 | [74990-bionic-battle-mutants.json](./74990-bionic-battle-mutants.json) |
 | Bionic Battler | 48964 | [48964-bionic-battler.json](./48964-bionic-battler.json) |
-| Bionic Bay | 203909 | [203909-bionic-bay.json](./203909-bionic-bay.json) |
 | Bionic Breakthrough | 268577 | [268577-bionic-breakthrough.json](./268577-bionic-breakthrough.json) |
 | Bionic Chainsaw Pogo Gorilla | 14526 | [14526-bionic-chainsaw-pogo-gorilla.json](./14526-bionic-chainsaw-pogo-gorilla.json) |
 | Bionic Commando | 54535 | [54535-bionic-commando.json](./54535-bionic-commando.json) |
