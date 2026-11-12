@@ -8146,6 +8146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Hero DX | 17289 | [17289-loot-hero-dx.json](./17289-loot-hero-dx.json) |
 | Loot Heroes 2 | 101874 | [101874-loot-heroes-2.json](./101874-loot-heroes-2.json) |
 | Loot Hound | 34187 | [34187-loot-hound.json](./34187-loot-hound.json) |
+| Loot Improvement | 285715 | [285715-loot-improvement.json](./285715-loot-improvement.json) |
 | Loot Keeper | 111994 | [111994-loot-keeper.json](./111994-loot-keeper.json) |
 | Loot Legends: Robots vs Aliens | 174868 | [174868-loot-legends-robots-vs-aliens.json](./174868-loot-legends-robots-vs-aliens.json) |
 | Loot Line: Season 1 | 397017 | [397017-loot-line-season-1.json](./397017-loot-line-season-1.json) |
