@@ -287,6 +287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day in the Life of a Slice of Bread | 178880 | [178880-a-day-in-the-life-of-a-slice-of-bread.json](./178880-a-day-in-the-life-of-a-slice-of-bread.json) |
 | A Day in the Life of a Writer | 201647 | [201647-a-day-in-the-life-of-a-writer.json](./201647-a-day-in-the-life-of-a-writer.json) |
 | A Day in the Life of Death | 311741 | [311741-a-day-in-the-life-of-death.json](./311741-a-day-in-the-life-of-death.json) |
+| A Day in the Palace | 296304 | [296304-a-day-in-the-palace.json](./296304-a-day-in-the-palace.json) |
 | A Day of Maintenance | 154623 | [154623-a-day-of-maintenance.json](./154623-a-day-of-maintenance.json) |
 | A Day of Slacking | 325230 | [325230-a-day-of-slacking.json](./325230-a-day-of-slacking.json) |
 | A Day on the Farm | 326582 | [326582-a-day-on-the-farm.json](./326582-a-day-on-the-farm.json) |
@@ -11632,6 +11633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anomalous Cleaning Detail | 390898 | [390898-anomalous-cleaning-detail.json](./390898-anomalous-cleaning-detail.json) |
 | Anomalous Coffee Machine 2 | 359627 | [359627-anomalous-coffee-machine-2.json](./359627-anomalous-coffee-machine-2.json) |
 | Anomalous Crossing: Shibuya | 306408 | [306408-anomalous-crossing-shibuya.json](./306408-anomalous-crossing-shibuya.json) |
+| Anomalous Deception | 296712 | [296712-anomalous-deception.json](./296712-anomalous-deception.json) |
 | Anomalous Materials | 252095 | [252095-anomalous-materials.json](./252095-anomalous-materials.json) |
 | Anomalous Railroad Crossing | 348127 | [348127-anomalous-railroad-crossing.json](./348127-anomalous-railroad-crossing.json) |
 | Anomalous Veil | 407323 | [407323-anomalous-veil.json](./407323-anomalous-veil.json) |
@@ -14044,6 +14046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Golf | 105176 | [105176-arcane-golf.json](./105176-arcane-golf.json) |
 | Arcane Intern (Unpaid) | 98841 | [98841-arcane-intern-unpaid.json](./98841-arcane-intern-unpaid.json) |
 | Arcane Investigations | 341092 | [341092-arcane-investigations.json](./341092-arcane-investigations.json) |
+| Arcane Lands | 296713 | [296713-arcane-lands.json](./296713-arcane-lands.json) |
 | Arcane Legacy | 109354 | [109354-arcane-legacy.json](./109354-arcane-legacy.json) |
 | Arcane Legends | 60078 | [60078-arcane-legends.json](./60078-arcane-legends.json) |
 | Arcane Maelstrom | 29765 | [29765-arcane-maelstrom.json](./29765-arcane-maelstrom.json) |
