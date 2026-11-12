@@ -2182,6 +2182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Bubble | 295214 | [295214-on-the-bubble.json](./295214-on-the-bubble.json) |
 | On the Earth Shift | 163241 | [163241-on-the-earth-shift.json](./163241-on-the-earth-shift.json) |
 | On the Fly | 100560 | [100560-on-the-fly.json](./100560-on-the-fly.json) |
+| On the Fly! | 249435 | [249435-on-the-fly.json](./249435-on-the-fly.json) |
 | On the Go | 165251 | [165251-on-the-go.json](./165251-on-the-go.json) |
 | On The Hook | 415951 | [415951-on-the-hook.json](./415951-on-the-hook.json) |
 | On the Hunt | 160065 | [160065-on-the-hunt.json](./160065-on-the-hunt.json) |
