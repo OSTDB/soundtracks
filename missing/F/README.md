@@ -14421,6 +14421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Football Tournament | 22073 | [22073-fun-football-tournament.json](./22073-fun-football-tournament.json) |
 | Fun Fox’s Biscuit Bash | 397089 | [397089-fun-fox-s-biscuit-bash.json](./397089-fun-fox-s-biscuit-bash.json) |
 | Fun Fruit Merge | 305388 | [305388-fun-fruit-merge.json](./305388-fun-fruit-merge.json) |
+| Fun Goal 3D | 246595 | [246595-fun-goal-3d.json](./246595-fun-goal-3d.json) |
 | Fun Goat Facts | 420191 | [420191-fun-goat-facts.json](./420191-fun-goat-facts.json) |
 | Fun Gus | 310159 | [310159-fun-gus.json](./310159-fun-gus.json) |
 | Fun Hills! | 297517 | [297517-fun-hills.json](./297517-fun-hills.json) |
