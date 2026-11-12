@@ -11012,6 +11012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click of Cthulhu | 175845 | [175845-click-of-cthulhu.json](./175845-click-of-cthulhu.json) |
 | Click On Bells Together | 303416 | [303416-click-on-bells-together.json](./303416-click-on-bells-together.json) |
 | Click On Candy Together | 303954 | [303954-click-on-candy-together.json](./303954-click-on-candy-together.json) |
+| Click on Clocks Together | 312394 | [312394-click-on-clocks-together.json](./312394-click-on-clocks-together.json) |
 | Click On Cups Together | 309480 | [309480-click-on-cups-together.json](./309480-click-on-cups-together.json) |
 | Click On Lanterns Together | 303951 | [303951-click-on-lanterns-together.json](./303951-click-on-lanterns-together.json) |
 | Click on piña coladas together | 306023 | [306023-click-on-pina-coladas-together.json](./306023-click-on-pina-coladas-together.json) |
@@ -14467,6 +14468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confined VR | 155780 | [155780-confined-vr.json](./155780-confined-vr.json) |
 | Confined with Goddesses | 198020 | [198020-confined-with-goddesses.json](./198020-confined-with-goddesses.json) |
 | Confined: Leaving OKB-134 | 291489 | [291489-confined-leaving-okb-134.json](./291489-confined-leaving-okb-134.json) |
+| Confinement 256 | 311917 | [311917-confinement-256.json](./311917-confinement-256.json) |
 | Confinement Community Project | 312891 | [312891-confinement-community-project.json](./312891-confinement-community-project.json) |
 | Confinio: Reality Prison | 336855 | [336855-confinio-reality-prison.json](./336855-confinio-reality-prison.json) |
 | Confinium | 184336 | [184336-confinium.json](./184336-confinium.json) |
@@ -20024,6 +20026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crypto Raiders | 178391 | [178391-crypto-raiders.json](./178391-crypto-raiders.json) |
 | Crypto Royale | 225730 | [225730-crypto-royale.json](./225730-crypto-royale.json) |
 | Crypto Rush | 338260 | [338260-crypto-rush.json](./338260-crypto-rush.json) |
+| Crypto Skoof Tycoon | 311912 | [311912-crypto-skoof-tycoon.json](./311912-crypto-skoof-tycoon.json) |
 | Crypto Spells | 221466 | [221466-crypto-spells.json](./221466-crypto-spells.json) |
 | Crypto Trading Simulator | 407374 | [407374-crypto-trading-simulator.json](./407374-crypto-trading-simulator.json) |
 | Crypto Tycoon | 189021 | [189021-crypto-tycoon.json](./189021-crypto-tycoon.json) |
@@ -21939,6 +21942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Mice Party | 273692 | [273692-cyber-mice-party.json](./273692-cyber-mice-party.json) |
 | Cyber Miner | 412616 | [412616-cyber-miner.json](./412616-cyber-miner.json) |
 | Cyber Mission | 241294 | [241294-cyber-mission.json](./241294-cyber-mission.json) |
+| Cyber Mokugyo | 311929 | [311929-cyber-mokugyo.json](./311929-cyber-mokugyo.json) |
 | Cyber Nations | 63777 | [63777-cyber-nations.json](./63777-cyber-nations.json) |
 | Cyber Neon Bundle | 246880 | [246880-cyber-neon-bundle.json](./246880-cyber-neon-bundle.json) |
 | Cyber Neon Bundle | 247125 | [247125-cyber-neon-bundle.json](./247125-cyber-neon-bundle.json) |
