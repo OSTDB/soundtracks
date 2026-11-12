@@ -5725,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self-indulgence | 273784 | [273784-self-indulgence.json](./273784-self-indulgence.json) |
 | Self-Isolation | 139644 | [139644-self-isolation.json](./139644-self-isolation.json) |
 | Self-knowledge VR | 114373 | [114373-self-knowledge-vr.json](./114373-self-knowledge-vr.json) |
+| Self-Portrait | 260346 | [260346-self-portrait.json](./260346-self-portrait.json) |
 | Self-Portrait, Vomit on Concrete | 309962 | [309962-self-portrait-vomit-on-concrete.json](./309962-self-portrait-vomit-on-concrete.json) |
 | Self-Reliance | 114920 | [114920-self-reliance.json](./114920-self-reliance.json) |
 | Self: Where's My Father | 164740 | [164740-self-wheres-my-father.json](./164740-self-wheres-my-father.json) |
@@ -20098,6 +20099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Island | 116743 | [116743-soul-island.json](./116743-soul-island.json) |
 | Soul Janitor | 201365 | [201365-soul-janitor.json](./201365-soul-janitor.json) |
 | Soul Journey | 202115 | [202115-soul-journey.json](./202115-soul-journey.json) |
+| Soul Keeper | 260371 | [260371-soul-keeper.json](./260371-soul-keeper.json) |
 | Soul King | 213453 | [213453-soul-king.json](./213453-soul-king.json) |
 | Soul King: Out of the Box | 298109 | [298109-soul-king-out-of-the-box.json](./298109-soul-king-out-of-the-box.json) |
 | Soul Kingdoms | 145767 | [145767-soul-kingdoms.json](./145767-soul-kingdoms.json) |
@@ -23894,6 +23896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of Europe: Origins | 172333 | [172333-spirit-of-europe-origins.json](./172333-spirit-of-europe-origins.json) |
 | Spirit of Excalibur | 70028 | [70028-spirit-of-excalibur.json](./70028-spirit-of-excalibur.json) |
 | Spirit of Maya | 29903 | [29903-spirit-of-maya.json](./29903-spirit-of-maya.json) |
+| Spirit of Meda | 260357 | [260357-spirit-of-meda.json](./260357-spirit-of-meda.json) |
 | Spirit of Midnight | 122013 | [122013-spirit-of-midnight.json](./122013-spirit-of-midnight.json) |
 | Spirit of Revenge: A Test of Fire - Collector's Edition | 426444 | [426444-spirit-of-revenge-a-test-of-fire-collectors-edition.json](./426444-spirit-of-revenge-a-test-of-fire-collectors-edition.json) |
 | Spirit of Revenge: Cursed Castle | 140226 | [140226-spirit-of-revenge-cursed-castle.json](./140226-spirit-of-revenge-cursed-castle.json) |
@@ -27084,6 +27087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall Arena | 227170 | [227170-starfall-arena.json](./227170-starfall-arena.json) |
 | Starfall Defenders | 350433 | [350433-starfall-defenders.json](./350433-starfall-defenders.json) |
 | Starfall Fantasy: Neverland | 249056 | [249056-starfall-fantasy-neverland.json](./249056-starfall-fantasy-neverland.json) |
+| Starfall Invaders | 260362 | [260362-starfall-invaders.json](./260362-starfall-invaders.json) |
 | Starfall Numbers | 74753 | [74753-starfall-numbers.json](./74753-starfall-numbers.json) |
 | Starfall Odyssey | 293054 | [293054-starfall-odyssey.json](./293054-starfall-odyssey.json) |
 | Starfall Online | 131612 | [131612-starfall-online.json](./131612-starfall-online.json) |
@@ -38303,6 +38307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swole | 398664 | [398664-swole.json](./398664-swole.json) |
 | Swole Mole | 278125 | [278125-swole-mole.json](./278125-swole-mole.json) |
 | Swolemochao 1 & 2: Gym of the Year Edition | 265882 | [265882-swolemochao-1-and-2-gym-of-the-year-edition.json](./265882-swolemochao-1-and-2-gym-of-the-year-edition.json) |
+| Swollen to Bursting Until I am Disappearing on Purpose | 260374 | [260374-swollen-to-bursting-until-i-am-disappearing-on-purpose.json](./260374-swollen-to-bursting-until-i-am-disappearing-on-purpose.json) |
 | Swoon! | 153998 | [153998-swoon.json](./153998-swoon.json) |
 | Swoon! Earth Escape | 225894 | [225894-swoon-earth-escape.json](./225894-swoon-earth-escape.json) |
 | Swooning Over Stans | 178753 | [178753-swooning-over-stans.json](./178753-swooning-over-stans.json) |
