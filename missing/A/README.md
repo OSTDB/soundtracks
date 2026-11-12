@@ -6368,6 +6368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirwayEx | 215243 | [215243-airwayex.json](./215243-airwayex.json) |
 | Airwolf | 13296 | [13296-airwolf.json](./13296-airwolf.json) |
 | Airwolf | 218333 | [218333-airwolf.json](./218333-airwolf.json) |
+| Airwolf | 267630 | [267630-airwolf.json](./267630-airwolf.json) |
 | Airwolf | 8848 | [8848-airwolf.json](./8848-airwolf.json) |
 | Airxonix | 15827 | [15827-airxonix.json](./15827-airxonix.json) |
 | Aisai Nikki | 82968 | [82968-aisai-nikki.json](./82968-aisai-nikki.json) |
@@ -11835,6 +11836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Level | 348453 | [348453-another-level.json](./348453-another-level.json) |
 | Another Lost Phone: Laura's Story | 55048 | [55048-another-lost-phone-lauras-story.json](./55048-another-lost-phone-lauras-story.json) |
 | Another Man's Wife | 389629 | [389629-another-mans-wife.json](./389629-another-mans-wife.json) |
+| Another Mario World | 267606 | [267606-another-mario-world.json](./267606-another-mario-world.json) |
 | Another Memories | 45434 | [45434-another-memories.json](./45434-another-memories.json) |
 | Another Mind | 74800 | [74800-another-mind.json](./74800-another-mind.json) |
 | Another Moon Whistle: Kuzureteku Nyuudougumo | 166143 | [166143-another-moon-whistle-kuzureteku-nyuudougumo.json](./166143-another-moon-whistle-kuzureteku-nyuudougumo.json) |
@@ -16587,6 +16589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed II: Bonfire of the Vanities | 22974 | [22974-assassins-creed-ii-bonfire-of-the-vanities.json](./22974-assassins-creed-ii-bonfire-of-the-vanities.json) |
 | Assassin's Creed II: Deluxe Edition | 27857 | [27857-assassins-creed-ii-deluxe-edition.json](./27857-assassins-creed-ii-deluxe-edition.json) |
 | Assassin's Creed II: Discovery | 18865 | [18865-assassins-creed-ii-discovery.json](./18865-assassins-creed-ii-discovery.json) |
+| Assassin's Creed II: Game of the Year Edition | 267621 | [267621-assassins-creed-ii-game-of-the-year-edition.json](./267621-assassins-creed-ii-game-of-the-year-edition.json) |
 | Assassin's Creed II: Multiplayer | 412331 | [412331-assassins-creed-ii-multiplayer.json](./412331-assassins-creed-ii-multiplayer.json) |
 | Assassin's Creed II: The Master Assassin's Edition | 308856 | [308856-assassins-creed-ii-the-master-assassins-edition.json](./308856-assassins-creed-ii-the-master-assassins-edition.json) |
 | Assassin's Creed II: Ultimate Edition | 118455 | [118455-assassins-creed-ii-ultimate-edition.json](./118455-assassins-creed-ii-ultimate-edition.json) |
