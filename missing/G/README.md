@@ -4047,6 +4047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Fake | 246830 | [246830-ghost-fake.json](./246830-ghost-fake.json) |
 | Ghost Feed | 369608 | [369608-ghost-feed.json](./369608-ghost-feed.json) |
 | Ghost Files 2: Memory of a Crime | 125177 | [125177-ghost-files-2-memory-of-a-crime.json](./125177-ghost-files-2-memory-of-a-crime.json) |
+| Ghost Files: Mienai Hannin wo Sagase | 252413 | [252413-ghost-files-mienai-hannin-wo-sagase.json](./252413-ghost-files-mienai-hannin-wo-sagase.json) |
 | Ghost Files: The Face of Guilt | 28781 | [28781-ghost-files-the-face-of-guilt.json](./28781-ghost-files-the-face-of-guilt.json) |
 | Ghost Follows | 191224 | [191224-ghost-follows.json](./191224-ghost-follows.json) |
 | Ghost For Hire | 295310 | [295310-ghost-for-hire.json](./295310-ghost-for-hire.json) |
@@ -4761,6 +4762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginka: After | 307343 | [307343-ginka-after.json](./307343-ginka-after.json) |
 | Ginkgo | 144975 | [144975-ginkgo.json](./144975-ginkgo.json) |
 | Ginnung | 224238 | [224238-ginnung.json](./224238-ginnung.json) |
+| Gino il Pollo - Perso Nella Rete | 252451 | [252451-gino-il-pollo-perso-nella-rete.json](./252451-gino-il-pollo-perso-nella-rete.json) |
 | Ginormo Sword | 225830 | [225830-ginormo-sword.json](./225830-ginormo-sword.json) |
 | Ginormo Sword | 341428 | [341428-ginormo-sword.json](./341428-ginormo-sword.json) |
 | Ginsei Igo 2: Next Generation | 194456 | [194456-ginsei-igo-2-next-generation.json](./194456-ginsei-igo-2-next-generation.json) |
@@ -5583,6 +5585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorious Savior | 38972 | [38972-glorious-savior.json](./38972-glorious-savior.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
 | Glorious Tournius | 139675 | [139675-glorious-tournius.json](./139675-glorious-tournius.json) |
+| Glorkian Warrior | 252428 | [252428-glorkian-warrior.json](./252428-glorkian-warrior.json) |
 | Glorkian Warrior: The Trials of Glork | 18444 | [18444-glorkian-warrior-the-trials-of-glork.json](./18444-glorkian-warrior-the-trials-of-glork.json) |
 | Glorp | 213290 | [213290-glorp.json](./213290-glorp.json) |
 | Glory | 171382 | [171382-glory.json](./171382-glory.json) |
@@ -10035,6 +10038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griffinblade | 420010 | [420010-griffinblade.json](./420010-griffinblade.json) |
 | Griffophone | 411920 | [411920-griffophone.json](./411920-griffophone.json) |
 | Griffophone Rider | 417562 | [417562-griffophone-rider.json](./417562-griffophone-rider.json) |
+| Grifford Academy | 252354 | [252354-grifford-academy.json](./252354-grifford-academy.json) |
 | Griftlands | 37057 | [37057-griftlands.json](./37057-griftlands.json) |
 | Griftlands: Nintendo Switch Edition | 140501 | [140501-griftlands-nintendo-switch-edition.json](./140501-griftlands-nintendo-switch-edition.json) |
 | Grigala Runner | 110140 | [110140-grigala-runner.json](./110140-grigala-runner.json) |
