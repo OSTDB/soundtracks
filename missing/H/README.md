@@ -2860,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Arcade | 292957 | [292957-haunted-arcade.json](./292957-haunted-arcade.json) |
 | Haunted Attractions | 417357 | [417357-haunted-attractions.json](./417357-haunted-attractions.json) |
 | Haunted Bar Simulator | 407489 | [407489-haunted-bar-simulator.json](./407489-haunted-bar-simulator.json) |
+| Haunted Bloodlines | 293883 | [293883-haunted-bloodlines.json](./293883-haunted-bloodlines.json) |
 | Haunted Brothel | 153763 | [153763-haunted-brothel.json](./153763-haunted-brothel.json) |
 | Haunted by Evil | 132663 | [132663-haunted-by-evil.json](./132663-haunted-by-evil.json) |
 | Haunted Casino | 246910 | [246910-haunted-casino.json](./246910-haunted-casino.json) |
@@ -5243,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai BunnyGirl | 226162 | [226162-hentai-bunnygirl.json](./226162-hentai-bunnygirl.json) |
 | Hentai Cafe | 371373 | [371373-hentai-cafe.json](./371373-hentai-cafe.json) |
 | Hentai Case Opening | 106426 | [106426-hentai-case-opening.json](./106426-hentai-case-opening.json) |
+| Hentai Casino | 293822 | [293822-hentai-casino.json](./293822-hentai-casino.json) |
 | Hentai Cast: Podcast Simulator | 212195 | [212195-hentai-cast-podcast-simulator.json](./212195-hentai-cast-podcast-simulator.json) |
 | Hentai Casual Jigsaw: Vampires | 297118 | [297118-hentai-casual-jigsaw-vampires.json](./297118-hentai-casual-jigsaw-vampires.json) |
 | Hentai Casual Jigsaw: Witches | 245768 | [245768-hentai-casual-jigsaw-witches.json](./245768-hentai-casual-jigsaw-witches.json) |
