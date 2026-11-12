@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jantei Monogatari 2: Uchuu Tantei Divan - Kanketsu-hen | 418910 | [418910-jantei-monogatari-2-uchuu-tantei-divan-kanketsu-hen.json](./418910-jantei-monogatari-2-uchuu-tantei-divan-kanketsu-hen.json) |
 | Jantei Monogatari 2: Uchuu Tantei Divan - Shutsudou-hen | 418908 | [418908-jantei-monogatari-2-uchuu-tantei-divan-shutsudou-hen.json](./418908-jantei-monogatari-2-uchuu-tantei-divan-shutsudou-hen.json) |
 | Jantei Monogatari 3: Saver Angels | 321173 | [321173-jantei-monogatari-3-saver-angels.json](./321173-jantei-monogatari-3-saver-angels.json) |
+| Jantei: Battle Cos-Player | 260905 | [260905-jantei-battle-cos-player.json](./260905-jantei-battle-cos-player.json) |
 | January | 124545 | [124545-january.json](./124545-january.json) |
 | January Uprising: Strategy Game | 397293 | [397293-january-uprising-strategy-game.json](./397293-january-uprising-strategy-game.json) |
 | Janusz: The Handyman Simulator | 163404 | [163404-janusz-the-handyman-simulator.json](./163404-janusz-the-handyman-simulator.json) |
@@ -4004,6 +4005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Builder Simulator | 174883 | [174883-junkyard-builder-simulator.json](./174883-junkyard-builder-simulator.json) |
 | Junkyard Builder Simulator | 390537 | [390537-junkyard-builder-simulator.json](./390537-junkyard-builder-simulator.json) |
 | Junkyard Builder: King Of Scrap | 414445 | [414445-junkyard-builder-king-of-scrap.json](./414445-junkyard-builder-king-of-scrap.json) |
+| Junkyard Dive | 260932 | [260932-junkyard-dive.json](./260932-junkyard-dive.json) |
 | Junkyard File | 392683 | [392683-junkyard-file.json](./392683-junkyard-file.json) |
 | Junkyard Frog | 334742 | [334742-junkyard-frog.json](./334742-junkyard-frog.json) |
 | Junkyard Fury | 173024 | [173024-junkyard-fury.json](./173024-junkyard-fury.json) |
