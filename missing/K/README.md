@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaiten Puyoman Kuu Carbuncle | 253764 | [253764-kaiten-puyoman-kuu-carbuncle.json](./253764-kaiten-puyoman-kuu-carbuncle.json) |
 | Kaiten Sushi VR | 245809 | [245809-kaiten-sushi-vr.json](./245809-kaiten-sushi-vr.json) |
 | Kaitlin: The Perfect Date | 313622 | [313622-kaitlin-the-perfect-date.json](./313622-kaitlin-the-perfect-date.json) |
+| Kaitlyn and the Diving Helmet | 311311 | [311311-kaitlyn-and-the-diving-helmet.json](./311311-kaitlyn-and-the-diving-helmet.json) |
 | Kaito Message | 216114 | [216114-kaito-message.json](./216114-kaito-message.json) |
 | Kaitou Apricot | 202589 | [202589-kaitou-apricot.json](./202589-kaitou-apricot.json) |
 | Kaitou Apricot Portable | 56775 | [56775-kaitou-apricot-portable.json](./56775-kaitou-apricot-portable.json) |
@@ -1340,6 +1341,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katie | 99612 | [99612-katie.json](./99612-katie.json) |
 | Katin Svět | 223679 | [223679-katin-svet.json](./223679-katin-svet.json) |
 | Katja's Abyss: Tactics | 145911 | [145911-katjas-abyss-tactics.json](./145911-katjas-abyss-tactics.json) |
+| Katja's Escape II: The Mad Scientist's Lab | 311298 | [311298-katjas-escape-ii-the-mad-scientists-lab.json](./311298-katjas-escape-ii-the-mad-scientists-lab.json) |
+| Katja's Escape: The Pharaoh's Tomb | 311297 | [311297-katjas-escape-the-pharaohs-tomb.json](./311297-katjas-escape-the-pharaohs-tomb.json) |
 | Katjepult | 182536 | [182536-katjepult.json](./182536-katjepult.json) |
 | Kato | 161225 | [161225-kato.json](./161225-kato.json) |
 | Kato Pirato | 340785 | [340785-kato-pirato.json](./340785-kato-pirato.json) |
