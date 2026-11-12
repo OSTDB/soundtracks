@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xmas Shooting: Scramble!! | 26594 | [26594-xmas-shooting-scramble.json](./26594-xmas-shooting-scramble.json) |
 | Xmas Surprise | 393706 | [393706-xmas-surprise.json](./393706-xmas-surprise.json) |
 | Xmas Survivors | 382876 | [382876-xmas-survivors.json](./382876-xmas-survivors.json) |
+| XMas Toy Merge | 279982 | [279982-xmas-toy-merge.json](./279982-xmas-toy-merge.json) |
 | Xmas Tripeaks | 95661 | [95661-xmas-tripeaks.json](./95661-xmas-tripeaks.json) |
 | Xmas Zombie Rampage | 30079 | [30079-xmas-zombie-rampage.json](./30079-xmas-zombie-rampage.json) |
 | Xmas Zombie Rampage 2 | 81802 | [81802-xmas-zombie-rampage-2.json](./81802-xmas-zombie-rampage-2.json) |
