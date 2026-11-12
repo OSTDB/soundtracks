@@ -8906,12 +8906,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Solitaire | 175578 | [175578-christmas-solitaire.json](./175578-christmas-solitaire.json) |
 | Christmas Sort Puzzle | 367372 | [367372-christmas-sort-puzzle.json](./367372-christmas-sort-puzzle.json) |
 | Christmas Soul | 372805 | [372805-christmas-soul.json](./372805-christmas-soul.json) |
+| Christmas Spirits: Two Sisters in Feud | 286164 | [286164-christmas-spirits-two-sisters-in-feud.json](./286164-christmas-spirits-two-sisters-in-feud.json) |
 | Christmas Squirt! | 244025 | [244025-christmas-squirt.json](./244025-christmas-squirt.json) |
 | Christmas Store: Santa's Supermarket Simulator | 326468 | [326468-christmas-store-santas-supermarket-simulator.json](./326468-christmas-store-santas-supermarket-simulator.json) |
 | Christmas Stories: A Christmas Carol | 139768 | [139768-christmas-stories-a-christmas-carol.json](./139768-christmas-stories-a-christmas-carol.json) |
 | Christmas Stories: A Little Prince | 187911 | [187911-christmas-stories-a-little-prince.json](./187911-christmas-stories-a-little-prince.json) |
 | Christmas Stories: A Little Prince - Collector's Edition | 417587 | [417587-christmas-stories-a-little-prince-collectors-edition.json](./417587-christmas-stories-a-little-prince-collectors-edition.json) |
 | Christmas Stories: Alice's Adventures | 187978 | [187978-christmas-stories-alices-adventures.json](./187978-christmas-stories-alices-adventures.json) |
+| Christmas Stories: Alice's Adventures - Collector's Edition | 286152 | [286152-christmas-stories-alices-adventures-collectors-edition.json](./286152-christmas-stories-alices-adventures-collectors-edition.json) |
 | Christmas Stories: By Candlelight | 416498 | [416498-christmas-stories-by-candlelight.json](./416498-christmas-stories-by-candlelight.json) |
 | Christmas Stories: Clara and the Guiding Star - Collector's Edition | 338520 | [338520-christmas-stories-clara-and-the-guiding-star-collectors-edition.json](./338520-christmas-stories-clara-and-the-guiding-star-collectors-edition.json) |
 | Christmas Stories: Enchanted Express | 139769 | [139769-christmas-stories-enchanted-express.json](./139769-christmas-stories-enchanted-express.json) |
@@ -13438,6 +13440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Pixels: Safari Pack | 162594 | [162594-coloring-pixels-safari-pack.json](./162594-coloring-pixels-safari-pack.json) |
 | Coloring Pixels: Sci-Fi Fantasy Vistas 2 Pack | 406440 | [406440-coloring-pixels-sci-fi-fantasy-vistas-2-pack.json](./406440-coloring-pixels-sci-fi-fantasy-vistas-2-pack.json) |
 | Coloring Pixels: Sci-Fi Fantasy Vistas Pack | 280951 | [280951-coloring-pixels-sci-fi-fantasy-vistas-pack.json](./280951-coloring-pixels-sci-fi-fantasy-vistas-pack.json) |
+| Coloring Pixels: Space 2 Pack | 286155 | [286155-coloring-pixels-space-2-pack.json](./286155-coloring-pixels-space-2-pack.json) |
 | Coloring Pixels: Space Pack | 162596 | [162596-coloring-pixels-space-pack.json](./162596-coloring-pixels-space-pack.json) |
 | Coloring Pixels: Spring Pack | 162597 | [162597-coloring-pixels-spring-pack.json](./162597-coloring-pixels-spring-pack.json) |
 | Coloring Pixels: Stained Glass Pack | 248398 | [248398-coloring-pixels-stained-glass-pack.json](./248398-coloring-pixels-stained-glass-pack.json) |
@@ -21684,6 +21687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custom Nights at Freddy's | 319634 | [319634-custom-nights-at-freddys.json](./319634-custom-nights-at-freddys.json) |
 | Custom Order Maid 3D2 | 139227 | [139227-custom-order-maid-3d2.json](./139227-custom-order-maid-3d2.json) |
 | Custom Order Maid 3D2: Character EX Pack - Perverted Extreme Masochist | 286999 | [286999-custom-order-maid-3d2-character-ex-pack-perverted-extreme-masochist.json](./286999-custom-order-maid-3d2-character-ex-pack-perverted-extreme-masochist.json) |
+| Custom Order Maid 3D2: Character EX Pack Cunning | 286147 | [286147-custom-order-maid-3d2-character-ex-pack-cunning.json](./286147-custom-order-maid-3d2-character-ex-pack-cunning.json) |
 | Custom Order Maid 3D2: Character EX Pack Gyaru | 311721 | [311721-custom-order-maid-3d2-character-ex-pack-gyaru.json](./311721-custom-order-maid-3d2-character-ex-pack-gyaru.json) |
 | Custom Order Maid 3D2: It's a Night Magic Beauty Hair Set SP All in One Pack | 291054 | [291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json](./291054-custom-order-maid-3d2-its-a-night-magic-beauty-hair-set-sp-all-in-one-pack.json) |
 | Custom Order Maid 3D2: It's a Night Magic Dancing Night, Merry Night All in Pack | 280319 | [280319-custom-order-maid-3d2-its-a-night-magic-dancing-night-merry-night-all-in-pack.json](./280319-custom-order-maid-3d2-its-a-night-magic-dancing-night-merry-night-all-in-pack.json) |
