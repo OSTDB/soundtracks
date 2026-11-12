@@ -1361,6 +1361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dare Up Adrenaline | 85063 | [85063-dare-up-adrenaline.json](./85063-dare-up-adrenaline.json) |
 | Dare! Truth or Dare Would You? | 106867 | [106867-dare-truth-or-dare-would-you.json](./106867-dare-truth-or-dare-would-you.json) |
 | Daredemo Asobi Taizen | 137069 | [137069-daredemo-asobi-taizen.json](./137069-daredemo-asobi-taizen.json) |
+| Daredemo Kantan! Chou Chikun no Tsumego | 269811 | [269811-daredemo-kantan-chou-chikun-no-tsumego.json](./269811-daredemo-kantan-chou-chikun-no-tsumego.json) |
 | Daredemo Kantan! Watanabe Akira no Tsume Shogi | 269751 | [269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json](./269751-daredemo-kantan-watanabe-akira-no-tsume-shogi.json) |
 | Daredevil | 18254 | [18254-daredevil.json](./18254-daredevil.json) |
 | Daredevil Crank Canyon | 413510 | [413510-daredevil-crank-canyon.json](./413510-daredevil-crank-canyon.json) |
@@ -13161,6 +13162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doly | 273187 | [273187-doly.json](./273187-doly.json) |
 | Døm Rusalok | 132625 | [132625-d-m-rusalok.json](./132625-d-m-rusalok.json) |
 | Dom-2 | 366376 | [366376-dom-2.json](./366376-dom-2.json) |
+| Doma | 269264 | [269264-doma.json](./269264-doma.json) |
 | Domain | 149957 | [149957-domain.json](./149957-domain.json) |
 | Domain Defense | 33197 | [33197-domain-defense.json](./33197-domain-defense.json) |
 | Domain Defense VR | 33183 | [33183-domain-defense-vr.json](./33183-domain-defense-vr.json) |
@@ -13695,6 +13697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Underestimate Me | 223295 | [223295-dont-underestimate-me.json](./223295-dont-underestimate-me.json) |
 | Don't Wake God | 236456 | [236456-dont-wake-god.json](./236456-dont-wake-god.json) |
 | Don't Wake Kate! | 278772 | [278772-dont-wake-kate.json](./278772-dont-wake-kate.json) |
+| Don't Wake Me Up | 269265 | [269265-dont-wake-me-up.json](./269265-dont-wake-me-up.json) |
 | Don't Wake Roko | 378144 | [378144-dont-wake-roko.json](./378144-dont-wake-roko.json) |
 | Don't Wake the Beast | 322690 | [322690-dont-wake-the-beast.json](./322690-dont-wake-the-beast.json) |
 | Don't Wake the Night | 119252 | [119252-dont-wake-the-night.json](./119252-dont-wake-the-night.json) |
@@ -16063,6 +16066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Crystal | 18226 | [18226-dragon-crystal.json](./18226-dragon-crystal.json) |
 | Dragon Crystal | 374339 | [374339-dragon-crystal.json](./374339-dragon-crystal.json) |
 | Dragon Crystal II | 374342 | [374342-dragon-crystal-ii.json](./374342-dragon-crystal-ii.json) |
+| Dragon Dance | 269733 | [269733-dragon-dance.json](./269733-dragon-dance.json) |
 | Dragon Dance | 49940 | [49940-dragon-dance.json](./49940-dragon-dance.json) |
 | Dragon Dash Division | 167535 | [167535-dragon-dash-division.json](./167535-dragon-dash-division.json) |
 | Dragon Daughter | 311420 | [311420-dragon-daughter.json](./311420-dragon-daughter.json) |
@@ -18684,6 +18688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS de Classic Kiite Mimasenka | 269551 | [269551-ds-de-classic-kiite-mimasenka.json](./269551-ds-de-classic-kiite-mimasenka.json) |
 | DS de Yomu Series: Tezuka Osamu Hi no Tori 1 | 269705 | [269705-ds-de-yomu-series-tezuka-osamu-hi-no-tori-1.json](./269705-ds-de-yomu-series-tezuka-osamu-hi-no-tori-1.json) |
 | DS de Yomu Series: Tezuka Osamu Hi no Tori 2 | 269706 | [269706-ds-de-yomu-series-tezuka-osamu-hi-no-tori-2.json](./269706-ds-de-yomu-series-tezuka-osamu-hi-no-tori-2.json) |
+| DS de Yomu Series: Tezuka Osamu Hi no Tori 3 | 269708 | [269708-ds-de-yomu-series-tezuka-osamu-hi-no-tori-3.json](./269708-ds-de-yomu-series-tezuka-osamu-hi-no-tori-3.json) |
 | DS Dengeki Bunko: Allison | 112534 | [112534-ds-dengeki-bunko-allison.json](./112534-ds-dengeki-bunko-allison.json) |
 | DS Dengeki Bunko: Inukami! feat. Animation | 112538 | [112538-ds-dengeki-bunko-inukami-feat-animation.json](./112538-ds-dengeki-bunko-inukami-feat-animation.json) |
 | DS Dengeki Bunko: Iriya no Sora, UFO no Natsu | 112535 | [112535-ds-dengeki-bunko-iriya-no-sora-ufo-no-natsu.json](./112535-ds-dengeki-bunko-iriya-no-sora-ufo-no-natsu.json) |
@@ -18694,9 +18699,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Kageyama Method: Dennou Hanpuku - Tadashii Kanji Kakitori-kun | 269577 | [269577-ds-kageyama-method-dennou-hanpuku-tadashii-kanji-kakitori-kun.json](./269577-ds-kageyama-method-dennou-hanpuku-tadashii-kanji-kakitori-kun.json) |
 | DS Kageyama Method: Tadashii Kanji Kakitori-Kun - Kondo ha Kanken Taisaku Dayo! | 98806 | [98806-ds-kageyama-method-tadashii-kanji-kakitori-kun-kondo-ha-kanken-taisaku-dayo.json](./98806-ds-kageyama-method-tadashii-kanji-kakitori-kun-kondo-ha-kanken-taisaku-dayo.json) |
 | DS Kokoro Nurie | 220849 | [220849-ds-kokoro-nurie.json](./220849-ds-kokoro-nurie.json) |
+| DS Motte Tabi ni Deyo: Kyoto | 269711 | [269711-ds-motte-tabi-ni-deyo-kyoto.json](./269711-ds-motte-tabi-ni-deyo-kyoto.json) |
 | DS Nishimura Kyotaro Suspense Shin Tantei Series: Kyoto Atami Zekkai no Kotou - Satsui no Wana | 71898 | [71898-ds-nishimura-kyotaro-suspense-shin-tantei-series-kyoto-atami-zekkai-no-kotou-satsui-no-wana.json](./71898-ds-nishimura-kyotaro-suspense-shin-tantei-series-kyoto-atami-zekkai-no-kotou-satsui-no-wana.json) |
 | DS Pico Series: Sanrio no Party Heikou! Oryouri - Oshare - Okaimono | 255351 | [255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json](./255351-ds-pico-series-sanrio-no-party-heikou-oryouri-oshare-okaimono.json) |
 | DS Pico Series: Sanrio Puroland - Waku-waku Okaimono - Suteki na Oheya Otsukurimasho | 255352 | [255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json](./255352-ds-pico-series-sanrio-puroland-waku-waku-okaimono-suteki-na-oheya-otsukurimasho.json) |
+| DS Puzzler: Nanpure Fan & Oekaki Logic - Wi-Fi Taiou | 269709 | [269709-ds-puzzler-nanpure-fan-and-oekaki-logic-wi-fi-taiou.json](./269709-ds-puzzler-nanpure-fan-and-oekaki-logic-wi-fi-taiou.json) |
 | DS Yamamura Misa Suspense: Maiko Kogiku / Kisha Katherine / Sougiya Ishihara Akiko / Koto ni Mauhana Sanrin - Kyoto Satujin Jiken File | 269575 | [269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json](./269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json) |
 | DS Yukemuri Suspense Series: Free Writer Tachibana Maki - "Touyako, Nanatsu no Yu, Okuyu no Sato" Shuzai Techou | 124517 | [124517-ds-yukemuri-suspense-series-free-writer-tachibana-maki-touyako-nanatsu-no-yu-okuyu-no-sato-shuzai-techou.json](./124517-ds-yukemuri-suspense-series-free-writer-tachibana-maki-touyako-nanatsu-no-yu-okuyu-no-sato-shuzai-techou.json) |
 | DsDooM3 | 314899 | [314899-dsdoom3.json](./314899-dsdoom3.json) |
