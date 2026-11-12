@@ -5058,6 +5058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whitetail Challenge | 32862 | [32862-whitetail-challenge.json](./32862-whitetail-challenge.json) |
 | Whitetail Extreme | 120516 | [120516-whitetail-extreme.json](./120516-whitetail-extreme.json) |
 | WhiteTrick | 278931 | [278931-whitetrick.json](./278931-whitetrick.json) |
+| WhiteTrick: Western | 289481 | [289481-whitetrick-western.json](./289481-whitetrick-western.json) |
 | Whitevale Defender | 98774 | [98774-whitevale-defender.json](./98774-whitevale-defender.json) |
 | Whiteverse: No Country for Old Men | 121690 | [121690-whiteverse-no-country-for-old-men.json](./121690-whiteverse-no-country-for-old-men.json) |
 | Whitewash | 62005 | [62005-whitewash.json](./62005-whitewash.json) |
