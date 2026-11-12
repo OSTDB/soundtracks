@@ -12085,6 +12085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antidote | 114720 | [114720-antidote.json](./114720-antidote.json) |
 | Antidote | 170819 | [170819-antidote.json](./170819-antidote.json) |
 | Antidote | 422526 | [422526-antidote.json](./422526-antidote.json) |
+| Antidote City Hall | 292189 | [292189-antidote-city-hall.json](./292189-antidote-city-hall.json) |
 | Antidote to Despair | 346339 | [346339-antidote-to-despair.json](./346339-antidote-to-despair.json) |
 | Antiem | 183856 | [183856-antiem.json](./183856-antiem.json) |
 | Antifector | 110709 | [110709-antifector.json](./110709-antifector.json) |
@@ -16093,6 +16094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent of Ashes | 226229 | [226229-ascent-of-ashes.json](./226229-ascent-of-ashes.json) |
 | Ascent of Eternity | 343427 | [343427-ascent-of-eternity.json](./343427-ascent-of-eternity.json) |
 | Ascent of Kings | 85506 | [85506-ascent-of-kings.json](./85506-ascent-of-kings.json) |
+| Ascent of the Dragon | 291729 | [291729-ascent-of-the-dragon.json](./291729-ascent-of-the-dragon.json) |
 | Ascent of the Last Colossus | 393010 | [393010-ascent-of-the-last-colossus.json](./393010-ascent-of-the-last-colossus.json) |
 | Ascent of Titan | 143296 | [143296-ascent-of-titan.json](./143296-ascent-of-titan.json) |
 | Ascent Quest | 264138 | [264138-ascent-quest.json](./264138-ascent-quest.json) |
