@@ -1959,6 +1959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underrail: Heavy Duty | 269985 | [269985-underrail-heavy-duty.json](./269985-underrail-heavy-duty.json) |
 | Underrun | 287615 | [287615-underrun.json](./287615-underrun.json) |
 | Undersea | 287570 | [287570-undersea.json](./287570-undersea.json) |
+| Undersea 8 | 302863 | [302863-undersea-8.json](./302863-undersea-8.json) |
 | Undersea Adventure | 69837 | [69837-undersea-adventure.json](./69837-undersea-adventure.json) |
 | Undersea Escape | 315599 | [315599-undersea-escape.json](./315599-undersea-escape.json) |
 | Undersea: Waves and Adventures | 369328 | [369328-undersea-waves-and-adventures.json](./369328-undersea-waves-and-adventures.json) |
@@ -3527,6 +3528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Flow Chaos Control | 385173 | [385173-urban-flow-chaos-control.json](./385173-urban-flow-chaos-control.json) |
 | Urban Flow Content Bundle | 386805 | [386805-urban-flow-content-bundle.json](./386805-urban-flow-content-bundle.json) |
 | Urban Flow Roads To Perfection | 378967 | [378967-urban-flow-roads-to-perfection.json](./378967-urban-flow-roads-to-perfection.json) |
+| Urban Flow Traffic Tycoon | 301161 | [301161-urban-flow-traffic-tycoon.json](./301161-urban-flow-traffic-tycoon.json) |
 | Urban Flow Vehicle Vault | 309083 | [309083-urban-flow-vehicle-vault.json](./309083-urban-flow-vehicle-vault.json) |
 | Urban Flow: Add-on Edition | 401348 | [401348-urban-flow-add-on-edition.json](./401348-urban-flow-add-on-edition.json) |
 | Urban Flow: Back to School Edition | 270789 | [270789-urban-flow-back-to-school-edition.json](./270789-urban-flow-back-to-school-edition.json) |
