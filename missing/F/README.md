@@ -6073,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingertip Tennis | 175060 | [175060-fingertip-tennis.json](./175060-fingertip-tennis.json) |
 | Fingertrainer | 253279 | [253279-fingertrainer.json](./253279-fingertrainer.json) |
 | Fingerzilla | 343470 | [343470-fingerzilla.json](./343470-fingerzilla.json) |
+| FingFing | 309695 | [309695-fingfing.json](./309695-fingfing.json) |
 | Fingie Bandits | 380765 | [380765-fingie-bandits.json](./380765-fingie-bandits.json) |
 | Fingle | 100682 | [100682-fingle.json](./100682-fingle.json) |
 | Fingore Fighter | 237439 | [237439-fingore-fighter.json](./237439-fingore-fighter.json) |
