@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C14 Dating | 33280 | [33280-c14-dating.json](./33280-c14-dating.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
 | C17 | 253346 | [253346-c17.json](./253346-c17.json) |
+| C21 Steel Battle Chronicles | 288406 | [288406-c21-steel-battle-chronicles.json](./288406-c21-steel-battle-chronicles.json) |
 | C21: Steel Battle Chronicles | 240373 | [240373-c21-steel-battle-chronicles.json](./240373-c21-steel-battle-chronicles.json) |
 | C2H6O | 69384 | [69384-c2h6o.json](./69384-c2h6o.json) |
 | C4 Clicker: First Mint | 363119 | [363119-c4-clicker-first-mint.json](./363119-c4-clicker-first-mint.json) |
@@ -7461,6 +7462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Royale | 330918 | [330918-chess-royale.json](./330918-chess-royale.json) |
 | Chess Rush | 122963 | [122963-chess-rush.json](./122963-chess-rush.json) |
 | Chess Simulator | 15212 | [15212-chess-simulator.json](./15212-chess-simulator.json) |
+| Chess Soul | 288414 | [288414-chess-soul.json](./288414-chess-soul.json) |
 | Chess Sphere | 112795 | [112795-chess-sphere.json](./112795-chess-sphere.json) |
 | Chess Studio | 88723 | [88723-chess-studio.json](./88723-chess-studio.json) |
 | Chess Sudoku | 100649 | [100649-chess-sudoku.json](./100649-chess-sudoku.json) |
@@ -12577,6 +12579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoinLife | 133824 | [133824-coinlife.json](./133824-coinlife.json) |
 | Coinon | 104014 | [104014-coinon.json](./104014-coinon.json) |
 | Coins | 312027 | [312027-coins.json](./312027-coins.json) |
+| Coins & Wishpalm | 288419 | [288419-coins-and-wishpalm.json](./288419-coins-and-wishpalm.json) |
 | Coins Challenge | 75386 | [75386-coins-challenge.json](./75386-coins-challenge.json) |
 | Coins Collector Simulator | 188752 | [188752-coins-collector-simulator.json](./188752-coins-collector-simulator.json) |
 | Coins Collector Sport Car | 213027 | [213027-coins-collector-sport-car.json](./213027-coins-collector-sport-car.json) |
