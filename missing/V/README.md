@@ -3483,6 +3483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voice: Legacy of Hale | 253815 | [253815-voice-legacy-of-hale.json](./253815-voice-legacy-of-hale.json) |
 | VoiceActress | 275158 | [275158-voiceactress.json](./275158-voiceactress.json) |
 | VoiceATC Simulator | 401763 | [401763-voiceatc-simulator.json](./401763-voiceatc-simulator.json) |
+| Voiceless | 288482 | [288482-voiceless.json](./288482-voiceless.json) |
 | Voiceless Elegy | 382175 | [382175-voiceless-elegy.json](./382175-voiceless-elegy.json) |
 | Voicemail: Laura | 383074 | [383074-voicemail-laura.json](./383074-voicemail-laura.json) |
 | VoiceOS | 284741 | [284741-voiceos.json](./284741-voiceos.json) |
