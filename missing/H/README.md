@@ -7964,6 +7964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hide and Seek | 361342 | [361342-hide-and-seek.json](./361342-hide-and-seek.json) |
 | Hide and Seek | 57570 | [57570-hide-and-seek.json](./57570-hide-and-seek.json) |
 | Hide And Seek | 296416 | [296416-hide-and-seek.json](./296416-hide-and-seek.json) |
+| Hide and Seek 2 | 306258 | [306258-hide-and-seek-2.json](./306258-hide-and-seek-2.json) |
 | Hide and Seek 2: Story of Demian | 254293 | [254293-hide-and-seek-2-story-of-demian.json](./254293-hide-and-seek-2-story-of-demian.json) |
 | Hide and Seek Scramble! | 203738 | [203738-hide-and-seek-scramble.json](./203738-hide-and-seek-scramble.json) |
 | Hide and Seek with Noah | 316570 | [316570-hide-and-seek-with-noah.json](./316570-hide-and-seek-with-noah.json) |
@@ -8178,6 +8179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Seas, High Profits! | 290922 | [290922-high-seas-high-profits.json](./290922-high-seas-high-profits.json) |
 | High Seas: The Family Fortune | 70034 | [70034-high-seas-the-family-fortune.json](./70034-high-seas-the-family-fortune.json) |
 | High Seize | 6264 | [6264-high-seize.json](./6264-high-seize.json) |
+| High Sidin' | 306743 | [306743-high-sidin.json](./306743-high-sidin.json) |
 | High Sidin': Hyphy Edition | 325042 | [325042-high-sidin-hyphy-edition.json](./325042-high-sidin-hyphy-edition.json) |
 | High Smileson | 151346 | [151346-high-smileson.json](./151346-high-smileson.json) |
 | High Speed | 48156 | [48156-high-speed.json](./48156-high-speed.json) |
