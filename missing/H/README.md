@@ -8853,6 +8853,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hirameki Puzzle Tetogram | 222178 | [222178-hirameki-puzzle-tetogram.json](./222178-hirameki-puzzle-tetogram.json) |
 | Hirata Shougo Interactive Ehon: Aesop Monogatari Vol. 1 | 245530 | [245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json](./245530-hirata-shougo-interactive-ehon-aesop-monogatari-vol-1.json) |
 | Hirata Shougo Interactive Ehon: Cinderella | 245479 | [245479-hirata-shougo-interactive-ehon-cinderella.json](./245479-hirata-shougo-interactive-ehon-cinderella.json) |
+| Hirata Shougo Interactive Ehon: Ningyo Hime | 245517 | [245517-hirata-shougo-interactive-ehon-ningyo-hime.json](./245517-hirata-shougo-interactive-ehon-ningyo-hime.json) |
+| Hirata Shougo Interactive Ehon: Ookami to Shichi Hiki no Koyagi | 245518 | [245518-hirata-shougo-interactive-ehon-ookami-to-shichi-hiki-no-koyagi.json](./245518-hirata-shougo-interactive-ehon-ookami-to-shichi-hiki-no-koyagi.json) |
+| Hirata Shougo Interactive Ehon: Sanbiki no Kobuta | 245521 | [245521-hirata-shougo-interactive-ehon-sanbiki-no-kobuta.json](./245521-hirata-shougo-interactive-ehon-sanbiki-no-kobuta.json) |
+| Hirata Shougo Interactive Ehon: Shirayukihime | 245526 | [245526-hirata-shougo-interactive-ehon-shirayukihime.json](./245526-hirata-shougo-interactive-ehon-shirayukihime.json) |
 | Hirdrih Technologic | 404974 | [404974-hirdrih-technologic.json](./404974-hirdrih-technologic.json) |
 | Hire Me! | 285521 | [285521-hire-me.json](./285521-hire-me.json) |
 | Hired 2 Die | 211704 | [211704-hired-2-die.json](./211704-hired-2-die.json) |
