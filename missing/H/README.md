@@ -3875,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven Will Be Mine | 69482 | [69482-heaven-will-be-mine.json](./69482-heaven-will-be-mine.json) |
 | Heaven: Dare mo Kimi wo Shiranai | 318932 | [318932-heaven-dare-mo-kimi-wo-shiranai.json](./318932-heaven-dare-mo-kimi-wo-shiranai.json) |
 | Heaven's Bazar: Online | 154997 | [154997-heavens-bazar-online.json](./154997-heavens-bazar-online.json) |
+| Heaven's Cybernetic (De)Athlete: Zeug | 317506 | [317506-heavens-cybernetic-de-athlete-zeug.json](./317506-heavens-cybernetic-de-athlete-zeug.json) |
 | Heaven's Dawn | 50418 | [50418-heavens-dawn.json](./50418-heavens-dawn.json) |
 | Heaven's Door | 231057 | [231057-heavens-door.json](./231057-heavens-door.json) |
 | Heaven's Door | 393565 | [393565-heavens-door.json](./393565-heavens-door.json) |
@@ -4177,7 +4178,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heka | 190098 | [190098-heka.json](./190098-heka.json) |
 | Hekaba | 363011 | [363011-hekaba.json](./363011-hekaba.json) |
 | Hektik | 64052 | [64052-hektik.json](./64052-hektik.json) |
-| Hektor | 22673 | [22673-hektor.json](./22673-hektor.json) |
 | Hela: Of Mice & Magic | 314449 | [314449-hela-of-mice-and-magic.json](./314449-hela-of-mice-and-magic.json) |
 | Helam: A Stripling Warrior Quest | 65468 | [65468-helam-a-stripling-warrior-quest.json](./65468-helam-a-stripling-warrior-quest.json) |
 | Helbreath | 307147 | [307147-helbreath.json](./307147-helbreath.json) |
@@ -8545,6 +8545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hillsea Lido | 70326 | [70326-hillsea-lido.json](./70326-hillsea-lido.json) |
 | Hillshade Farm | 345426 | [345426-hillshade-farm.json](./345426-hillshade-farm.json) |
 | Hillside | 156565 | [156565-hillside.json](./156565-hillside.json) |
+| Hillside Drive | 317037 | [317037-hillside-drive.json](./317037-hillside-drive.json) |
 | Hillslide | 291015 | [291015-hillslide.json](./291015-hillslide.json) |
 | Hillthorn | 343166 | [343166-hillthorn.json](./343166-hillthorn.json) |
 | Hilltop Hotrods | 233231 | [233231-hilltop-hotrods.json](./233231-hilltop-hotrods.json) |
@@ -10594,6 +10595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hopping Mappy | 40056 | [40056-hopping-mappy.json](./40056-hopping-mappy.json) |
 | Hopping Ninja-san | 389112 | [389112-hopping-ninja-san.json](./389112-hopping-ninja-san.json) |
 | Hopping Out | 387963 | [387963-hopping-out.json](./387963-hopping-out.json) |
+| Hopping P | 317653 | [317653-hopping-p.json](./317653-hopping-p.json) |
 | Hopping Penguin | 399559 | [399559-hopping-penguin.json](./399559-hopping-penguin.json) |
 | Hopping Road | 339591 | [339591-hopping-road.json](./339591-hopping-road.json) |
 | Hopping Up for It | 32075 | [32075-hopping-up-for-it.json](./32075-hopping-up-for-it.json) |
@@ -10606,6 +10608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppy Square DX | 253210 | [253210-hoppy-square-dx.json](./253210-hoppy-square-dx.json) |
 | Hoppy Woods | 184424 | [184424-hoppy-woods.json](./184424-hoppy-woods.json) |
 | Hopscotch | 262430 | [262430-hopscotch.json](./262430-hopscotch.json) |
+| Hopscotch | 317040 | [317040-hopscotch.json](./317040-hopscotch.json) |
 | Hopscotch | 68689 | [68689-hopscotch.json](./68689-hopscotch.json) |
 | Hopscotch: Are You Ready for Hardcore? | 112903 | [112903-hopscotch-are-you-ready-for-hardcore.json](./112903-hopscotch-are-you-ready-for-hardcore.json) |
 | HopScout | 415049 | [415049-hopscout.json](./415049-hopscout.json) |
