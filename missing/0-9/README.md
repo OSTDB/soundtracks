@@ -459,6 +459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Minutes Till Dawn | 202828 | [202828-10-minutes-till-dawn.json](./202828-10-minutes-till-dawn.json) |
 | 10 Minutes to Make a Million | 424712 | [424712-10-minutes-to-make-a-million.json](./424712-10-minutes-to-make-a-million.json) |
 | 10 Mississippi | 183239 | [183239-10-mississippi.json](./183239-10-mississippi.json) |
+| 10 More Bullets | 254198 | [254198-10-more-bullets.json](./254198-10-more-bullets.json) |
 | 10 out of 10: Dinosaurs | 14182 | [14182-10-out-of-10-dinosaurs.json](./14182-10-out-of-10-dinosaurs.json) |
 | 10 out of 10: Early Essentials | 14183 | [14183-10-out-of-10-early-essentials.json](./14183-10-out-of-10-early-essentials.json) |
 | 10 out of 10: English | 14184 | [14184-10-out-of-10-english.json](./14184-10-out-of-10-english.json) |
@@ -898,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1001 Jigsaw: Earth Chronicles 3 | 90040 | [90040-1001-jigsaw-earth-chronicles-3.json](./90040-1001-jigsaw-earth-chronicles-3.json) |
 | 1001 Jigsaw: Earth Chronicles 4 | 87252 | [87252-1001-jigsaw-earth-chronicles-4.json](./87252-1001-jigsaw-earth-chronicles-4.json) |
 | 1001 Jigsaw: Earth Chronicles 5 | 162995 | [162995-1001-jigsaw-earth-chronicles-5.json](./162995-1001-jigsaw-earth-chronicles-5.json) |
+| 1001 Jigsaw: Earth Chronicles 6 | 255939 | [255939-1001-jigsaw-earth-chronicles-6.json](./255939-1001-jigsaw-earth-chronicles-6.json) |
 | 1001 Jigsaw: Earth Chronicles 7 | 195443 | [195443-1001-jigsaw-earth-chronicles-7.json](./195443-1001-jigsaw-earth-chronicles-7.json) |
 | 1001 Jigsaw: Earth Chronicles 8 | 199582 | [199582-1001-jigsaw-earth-chronicles-8.json](./199582-1001-jigsaw-earth-chronicles-8.json) |
 | 1001 Jigsaw: Earth Chronicles 9 | 193044 | [193044-1001-jigsaw-earth-chronicles-9.json](./193044-1001-jigsaw-earth-chronicles-9.json) |
@@ -2085,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Brick Breaker Game Remastered | 368060 | [368060-2d-brick-breaker-game-remastered.json](./368060-2d-brick-breaker-game-remastered.json) |
 | 2D Dawg 2 | 235918 | [235918-2d-dawg-2.json](./235918-2d-dawg-2.json) |
 | 2D Dogfight | 256275 | [256275-2d-dogfight.json](./256275-2d-dogfight.json) |
+| 2D Dogfight: Lord of Sky | 255937 | [255937-2d-dogfight-lord-of-sky.json](./255937-2d-dogfight-lord-of-sky.json) |
 | 2D Dogfight: Secret Project | 297055 | [297055-2d-dogfight-secret-project.json](./297055-2d-dogfight-secret-project.json) |
 | 2D Dogfight: Sunset and Sunrise | 308943 | [308943-2d-dogfight-sunset-and-sunrise.json](./308943-2d-dogfight-sunset-and-sunrise.json) |
 | 2D Dogfight: World War II - Eastern Front and Pacific | 276268 | [276268-2d-dogfight-world-war-ii-eastern-front-and-pacific.json](./276268-2d-dogfight-world-war-ii-eastern-front-and-pacific.json) |
@@ -3109,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 Russian SUVs Off-Road | 348958 | [348958-4x4-russian-suvs-off-road.json](./348958-4x4-russian-suvs-off-road.json) |
 | 4x4 Truck Offroad Car Driver | 356525 | [356525-4x4-truck-offroad-car-driver.json](./356525-4x4-truck-offroad-car-driver.json) |
 | 4xM | 269841 | [269841-4xm.json](./269841-4xm.json) |
+| 5 A Side Legends | 254720 | [254720-5-a-side-legends.json](./254720-5-a-side-legends.json) |
 | 5 Arcade Gems | 51054 | [51054-5-arcade-gems.json](./51054-5-arcade-gems.json) |
 | 5 Bucks for the Bus | 291289 | [291289-5-bucks-for-the-bus.json](./291289-5-bucks-for-the-bus.json) |
 | 5 Card Slingo | 321768 | [321768-5-card-slingo.json](./321768-5-card-slingo.json) |
