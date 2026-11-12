@@ -3705,6 +3705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Payday 2: High Octane Tailor Pack | 225167 | [225167-payday-2-high-octane-tailor-pack.json](./225167-payday-2-high-octane-tailor-pack.json) |
 | Payday 2: Hostile Takeover Heist | 240957 | [240957-payday-2-hostile-takeover-heist.json](./240957-payday-2-hostile-takeover-heist.json) |
 | Payday 2: John Wick Heists | 167686 | [167686-payday-2-john-wick-heists.json](./167686-payday-2-john-wick-heists.json) |
+| Payday 2: John Wick Weapon Pack | 278044 | [278044-payday-2-john-wick-weapon-pack.json](./278044-payday-2-john-wick-weapon-pack.json) |
 | Payday 2: Lawless Tailor Pack | 252884 | [252884-payday-2-lawless-tailor-pack.json](./252884-payday-2-lawless-tailor-pack.json) |
 | Payday 2: Legacy Collection | 289004 | [289004-payday-2-legacy-collection.json](./289004-payday-2-legacy-collection.json) |
 | Payday 2: Lost in Transit Heist | 240958 | [240958-payday-2-lost-in-transit-heist.json](./240958-payday-2-lost-in-transit-heist.json) |
@@ -17266,6 +17267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Pulsation | 53482 | [53482-project-pulsation.json](./53482-project-pulsation.json) |
 | Project Pulse | 166946 | [166946-project-pulse.json](./166946-project-pulse.json) |
 | Project QT | 151897 | [151897-project-qt.json](./151897-project-qt.json) |
+| Project Quad | 278117 | [278117-project-quad.json](./278117-project-quad.json) |
 | Project Queen's Meadow | 180898 | [180898-project-queens-meadow.json](./180898-project-queens-meadow.json) |
 | Project R | 220661 | [220661-project-r.json](./220661-project-r.json) |
 | Project R | 313104 | [313104-project-r.json](./313104-project-r.json) |
@@ -17887,6 +17889,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protocol | 35049 | [35049-protocol.json](./35049-protocol.json) |
 | Protocol | 350914 | [350914-protocol.json](./350914-protocol.json) |
 | Protocol | 74225 | [74225-protocol.json](./74225-protocol.json) |
+| Protocol 11: Episode 1 | 278115 | [278115-protocol-11-episode-1.json](./278115-protocol-11-episode-1.json) |
+| Protocol 11: Super Cute Alien Legacy Edition | 278116 | [278116-protocol-11-super-cute-alien-legacy-edition.json](./278116-protocol-11-super-cute-alien-legacy-edition.json) |
 | Protocol 86: Chernobyl | 419177 | [419177-protocol-86-chernobyl.json](./419177-protocol-86-chernobyl.json) |
 | Protocol Aftertime | 210751 | [210751-protocol-aftertime.json](./210751-protocol-aftertime.json) |
 | Protocol Bound | 410964 | [410964-protocol-bound.json](./410964-protocol-bound.json) |
