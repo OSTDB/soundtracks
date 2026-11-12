@@ -6880,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Best Text Adventure | 308410 | [308410-the-best-text-adventure.json](./308410-the-best-text-adventure.json) |
 | The Best Treasure | 302218 | [302218-the-best-treasure.json](./302218-the-best-treasure.json) |
 | The Bestest Alchemist | 371171 | [371171-the-bestest-alchemist.json](./371171-the-bestest-alchemist.json) |
+| The Bet | 281701 | [281701-the-bet.json](./281701-the-bet.json) |
 | The Better Angels | 281370 | [281370-the-better-angels.json](./281370-the-better-angels.json) |
 | The Better Dead Ratification | 156190 | [156190-the-better-dead-ratification.json](./156190-the-better-dead-ratification.json) |
 | The Better Deal | 310223 | [310223-the-better-deal.json](./310223-the-better-deal.json) |
@@ -7346,6 +7347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bucketlist Tourist | 306357 | [306357-the-bucketlist-tourist.json](./306357-the-bucketlist-tourist.json) |
 | The Bug Butcher | 15909 | [15909-the-bug-butcher.json](./15909-the-bug-butcher.json) |
 | The Bugger! | 258222 | [258222-the-bugger.json](./258222-the-bugger.json) |
+| The Bugs | 281630 | [281630-the-bugs.json](./281630-the-bugs.json) |
 | The Bugs Bunny Birthday Blowout | 2719 | [2719-the-bugs-bunny-birthday-blowout.json](./2719-the-bugs-bunny-birthday-blowout.json) |
 | The Bugs Bunny Crazy Castle | 153450 | [153450-the-bugs-bunny-crazy-castle.json](./153450-the-bugs-bunny-crazy-castle.json) |
 | The Bugs Bunny Crazy Castle | 3051 | [3051-the-bugs-bunny-crazy-castle.json](./3051-the-bugs-bunny-crazy-castle.json) |
@@ -15116,6 +15118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystic Dragoons | 66499 | [66499-the-mystic-dragoons.json](./66499-the-mystic-dragoons.json) |
 | The Mystic Fortune | 329063 | [329063-the-mystic-fortune.json](./329063-the-mystic-fortune.json) |
 | The Mystic Land of Tales | 284179 | [284179-the-mystic-land-of-tales.json](./284179-the-mystic-land-of-tales.json) |
+| The Mystic Realm | 281623 | [281623-the-mystic-realm.json](./281623-the-mystic-realm.json) |
 | The Mystic Well | 232518 | [232518-the-mystic-well.json](./232518-the-mystic-well.json) |
 | The Mystical Traveler | 342735 | [342735-the-mystical-traveler.json](./342735-the-mystical-traveler.json) |
 | The Mystifying Trial | 163455 | [163455-the-mystifying-trial.json](./163455-the-mystifying-trial.json) |
