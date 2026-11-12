@@ -11752,6 +11752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House & Hand | 391007 | [391007-house-and-hand.json](./391007-house-and-hand.json) |
 | House 2 | 267094 | [267094-house-2.json](./267094-house-2.json) |
 | House 3D: Move and Unpack | 196680 | [196680-house-3d-move-and-unpack.json](./196680-house-3d-move-and-unpack.json) |
+| House Always Wins! | 288388 | [288388-house-always-wins.json](./288388-house-always-wins.json) |
 | House Build Flipper | 104584 | [104584-house-build-flipper.json](./104584-house-build-flipper.json) |
 | House Builder | 133448 | [133448-house-builder.json](./133448-house-builder.json) |
 | House Builder - Tiny Houses DLC | 393287 | [393287-house-builder-tiny-houses-dlc.json](./393287-house-builder-tiny-houses-dlc.json) |
