@@ -1026,6 +1026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -3528,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bastionfall | 361026 | [361026-bastionfall.json](./361026-bastionfall.json) |
 | Bastionforge | 368651 | [368651-bastionforge.json](./368651-bastionforge.json) |
 | BastionOS | 390744 | [390744-bastionos.json](./390744-bastionos.json) |
+| BastogneBreakout | 266448 | [266448-bastognebreakout.json](./266448-bastognebreakout.json) |
 | Baston | 388344 | [388344-baston.json](./388344-baston.json) |
 | Bastyrion: Endless Tide | 398573 | [398573-bastyrion-endless-tide.json](./398573-bastyrion-endless-tide.json) |
 | Bat | 152136 | [152136-bat.json](./152136-bat.json) |
@@ -3749,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batomon Showdown | 398645 | [398645-batomon-showdown.json](./398645-batomon-showdown.json) |
 | Batoni | 216123 | [216123-batoni.json](./216123-batoni.json) |
 | Batora: Lost Haven | 142900 | [142900-batora-lost-haven.json](./142900-batora-lost-haven.json) |
+| Batora: Lost Haven - Deluxe Edition | 266537 | [266537-batora-lost-haven-deluxe-edition.json](./266537-batora-lost-haven-deluxe-edition.json) |
 | Batrider | 39728 | [39728-batrider.json](./39728-batrider.json) |
 | Bats | 118285 | [118285-bats.json](./118285-bats.json) |
 | Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
@@ -9377,6 +9380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Storm VR: First Loop | 74192 | [74192-bit-storm-vr-first-loop.json](./74192-bit-storm-vr-first-loop.json) |
 | Bit Sword | 190032 | [190032-bit-sword.json](./190032-bit-sword.json) |
 | Bit the Apple, So What? | 249069 | [249069-bit-the-apple-so-what.json](./249069-bit-the-apple-so-what.json) |
+| Bit Tower | 266447 | [266447-bit-tower.json](./266447-bit-tower.json) |
 | Bit Wars | 388465 | [388465-bit-wars.json](./388465-bit-wars.json) |
 | Bit-Boom | 86292 | [86292-bit-boom.json](./86292-bit-boom.json) |
 | Bit-Broken Identity | 424655 | [424655-bit-broken-identity.json](./424655-bit-broken-identity.json) |
@@ -14457,6 +14461,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Borderlands 2: The Horrible Hunger of the Ravenous Wattle Gobbler | 13925 | [13925-borderlands-2-the-horrible-hunger-of-the-ravenous-wattle-gobbler.json](./13925-borderlands-2-the-horrible-hunger-of-the-ravenous-wattle-gobbler.json) |
 | Borderlands 2: Tiny Tina's Assault on Dragon Keep | 13923 | [13923-borderlands-2-tiny-tinas-assault-on-dragon-keep.json](./13923-borderlands-2-tiny-tinas-assault-on-dragon-keep.json) |
 | Borderlands 2: Ultimate Edition | 118740 | [118740-borderlands-2-ultimate-edition.json](./118740-borderlands-2-ultimate-edition.json) |
+| Borderlands 2: Ultimate Upgrade Pack | 266529 | [266529-borderlands-2-ultimate-upgrade-pack.json](./266529-borderlands-2-ultimate-upgrade-pack.json) |
+| Borderlands 2: Ultimate Upgrade Pack 2 | 266530 | [266530-borderlands-2-ultimate-upgrade-pack-2.json](./266530-borderlands-2-ultimate-upgrade-pack-2.json) |
 | Borderlands 3: Bounty of Blood - A Fistful of Redemption | 134100 | [134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json](./134100-borderlands-3-bounty-of-blood-a-fistful-of-redemption.json) |
 | Borderlands 3: Deluxe Edition | 116995 | [116995-borderlands-3-deluxe-edition.json](./116995-borderlands-3-deluxe-edition.json) |
 | Borderlands 3: Designer's Cut | 259759 | [259759-borderlands-3-designers-cut.json](./259759-borderlands-3-designers-cut.json) |
@@ -17089,6 +17095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Me a Head! | 191412 | [191412-bring-me-a-head.json](./191412-bring-me-a-head.json) |
 | Bring me a man, Santa | 159727 | [159727-bring-me-a-man-santa.json](./159727-bring-me-a-man-santa.json) |
 | Bring Me Down | 241350 | [241350-bring-me-down.json](./241350-bring-me-down.json) |
+| Bring Me Home | 266450 | [266450-bring-me-home.json](./266450-bring-me-home.json) |
 | Bring Me Hope | 164221 | [164221-bring-me-hope.json](./164221-bring-me-hope.json) |
 | Bring Me that Shawarma | 275524 | [275524-bring-me-that-shawarma.json](./275524-bring-me-that-shawarma.json) |
 | Bring Me that Shawarma: Supporter Pack | 316385 | [316385-bring-me-that-shawarma-supporter-pack.json](./316385-bring-me-that-shawarma-supporter-pack.json) |
