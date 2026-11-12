@@ -6045,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resident Evil 7 Teaser: Beginning Hour | 90566 | [90566-resident-evil-7-teaser-beginning-hour.json](./90566-resident-evil-7-teaser-beginning-hour.json) |
 | Resident Evil 7: Biohazard - Banned Footage Vol. 2 | 27019 | [27019-resident-evil-7-biohazard-banned-footage-vol-2.json](./27019-resident-evil-7-biohazard-banned-footage-vol-2.json) |
 | Resident Evil 7: Biohazard - Cloud | 102075 | [102075-resident-evil-7-biohazard-cloud.json](./102075-resident-evil-7-biohazard-cloud.json) |
+| Resident Evil 7: Biohazard - Cloud Version: Z Version | 264946 | [264946-resident-evil-7-biohazard-cloud-version-z-version.json](./264946-resident-evil-7-biohazard-cloud-version-z-version.json) |
 | Resident Evil 7: Biohazard - End of Zoe | 75236 | [75236-resident-evil-7-biohazard-end-of-zoe.json](./75236-resident-evil-7-biohazard-end-of-zoe.json) |
 | Resident Evil 7: Biohazard - Gold Edition | 57692 | [57692-resident-evil-7-biohazard-gold-edition.json](./57692-resident-evil-7-biohazard-gold-edition.json) |
 | Resident Evil 7: Biohazard - Gold Edition Grotesque Version | 167065 | [167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json](./167065-resident-evil-7-biohazard-gold-edition-grotesque-version.json) |
