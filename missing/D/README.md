@@ -2008,6 +2008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Rose Valkyrie: Limited Edition Famitsu DX Pack | 167147 | [167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json](./167147-dark-rose-valkyrie-limited-edition-famitsu-dx-pack.json) |
 | Dark Rune | 239755 | [239755-dark-rune.json](./239755-dark-rune.json) |
 | Dark Runner | 153346 | [153346-dark-runner.json](./153346-dark-runner.json) |
+| Dark Samurai | 279273 | [279273-dark-samurai.json](./279273-dark-samurai.json) |
 | Dark Samurai Avengers | 298916 | [298916-dark-samurai-avengers.json](./298916-dark-samurai-avengers.json) |
 | Dark Sanctum | 290909 | [290909-dark-sanctum.json](./290909-dark-sanctum.json) |
 | Dark Sasi | 100583 | [100583-dark-sasi.json](./100583-dark-sasi.json) |
@@ -8414,6 +8415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Driver: Miami Files | 90352 | [90352-detective-driver-miami-files.json](./90352-detective-driver-miami-files.json) |
 | Detective Dunkadoo | 386965 | [386965-detective-dunkadoo.json](./386965-detective-dunkadoo.json) |
 | Detective Eustaquio | 320737 | [320737-detective-eustaquio.json](./320737-detective-eustaquio.json) |
+| Detective Face | 279175 | [279175-detective-face.json](./279175-detective-face.json) |
 | Detective Failure | 103768 | [103768-detective-failure.json](./103768-detective-failure.json) |
 | Detective Fantasia DX | 207572 | [207572-detective-fantasia-dx.json](./207572-detective-fantasia-dx.json) |
 | Detective Fantasia: Excalimurder | 274562 | [274562-detective-fantasia-excalimurder.json](./274562-detective-fantasia-excalimurder.json) |
@@ -20739,6 +20741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
 | Dynacorp | 57200 | [57200-dynacorp.json](./57200-dynacorp.json) |
 | Dynamaite the Las Vegas | 44441 | [44441-dynamaite-the-las-vegas.json](./44441-dynamaite-the-las-vegas.json) |
+| Dynamate: Playdate | 279173 | [279173-dynamate-playdate.json](./279173-dynamate-playdate.json) |
 | Dynami Tracer | 2981 | [2981-dynami-tracer.json](./2981-dynami-tracer.json) |
 | Dynamic | 226170 | [226170-dynamic.json](./226170-dynamic.json) |
 | Dynamic | 30875 | [30875-dynamic.json](./30875-dynamic.json) |
@@ -20889,6 +20892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynasty Wars | 12060 | [12060-dynasty-wars.json](./12060-dynasty-wars.json) |
 | Dynasty: A Football Card Game | 24827 | [24827-dynasty-a-football-card-game.json](./24827-dynasty-a-football-card-game.json) |
 | Dynasty's Defender: The Scroll's Curse | 312745 | [312745-dynastys-defender-the-scrolls-curse.json](./312745-dynastys-defender-the-scrolls-curse.json) |
+| DynastyKick | 279268 | [279268-dynastykick.json](./279268-dynastykick.json) |
 | Dynatech | 93486 | [93486-dynatech.json](./93486-dynatech.json) |
 | DynaTrip | 417957 | [417957-dynatrip.json](./417957-dynatrip.json) |
 | Dynatron Mission | 14046 | [14046-dynatron-mission.json](./14046-dynatron-mission.json) |
