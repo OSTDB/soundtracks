@@ -8938,6 +8938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Historia Battles Napoleon | 134005 | [134005-historia-battles-napoleon.json](./134005-historia-battles-napoleon.json) |
 | Historia Battles Rome | 134006 | [134006-historia-battles-rome.json](./134006-historia-battles-rome.json) |
 | Historia Battles WW2 CFEL | 134007 | [134007-historia-battles-ww2-cfel.json](./134007-historia-battles-ww2-cfel.json) |
+| Historia Realis: Rome | 263714 | [263714-historia-realis-rome.json](./263714-historia-realis-rome.json) |
 | Historic Fighters | 161370 | [161370-historic-fighters.json](./161370-historic-fighters.json) |
 | Historic Helix | 372360 | [372360-historic-helix.json](./372360-historic-helix.json) |
 | Historica Fantasia | 132464 | [132464-historica-fantasia.json](./132464-historica-fantasia.json) |
