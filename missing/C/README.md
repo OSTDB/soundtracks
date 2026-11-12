@@ -1221,6 +1221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campfire Legends: The Hookman | 62834 | [62834-campfire-legends-the-hookman.json](./62834-campfire-legends-the-hookman.json) |
 | Campfire Legends: The Last Act | 62832 | [62832-campfire-legends-the-last-act.json](./62832-campfire-legends-the-last-act.json) |
 | Campfire Legends: The Last Act - Premium Edition | 341083 | [341083-campfire-legends-the-last-act-premium-edition.json](./341083-campfire-legends-the-last-act-premium-edition.json) |
+| Campfire of Oasis | 315953 | [315953-campfire-of-oasis.json](./315953-campfire-of-oasis.json) |
 | Campfire of Oasis 2 | 371507 | [371507-campfire-of-oasis-2.json](./371507-campfire-of-oasis-2.json) |
 | Campfire Of Oasis: The Story | 401377 | [401377-campfire-of-oasis-the-story.json](./401377-campfire-of-oasis-the-story.json) |
 | Campfire Stories : Episode 1 | 265400 | [265400-campfire-stories-episode-1.json](./265400-campfire-stories-episode-1.json) |
@@ -8075,6 +8076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimp Chase | 211594 | [211594-chimp-chase.json](./211594-chimp-chase.json) |
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
 | Chimp Quest: Spirit Isle | 277335 | [277335-chimp-quest-spirit-isle.json](./277335-chimp-quest-spirit-isle.json) |
+| Chimp Test | 315950 | [315950-chimp-test.json](./315950-chimp-test.json) |
 | Chimpact | 63851 | [63851-chimpact.json](./63851-chimpact.json) |
 | Chimpact 1: Chuck's Adventure | 31564 | [31564-chimpact-1-chucks-adventure.json](./31564-chimpact-1-chucks-adventure.json) |
 | Chimpanzini Bananini | 351093 | [351093-chimpanzini-bananini.json](./351093-chimpanzini-bananini.json) |
@@ -8577,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
 | Choro-Q Hyper Customable GB | 65637 | [65637-choro-q-hyper-customable-gb.json](./65637-choro-q-hyper-customable-gb.json) |
 | Choro-Q Jet: Rainbow Wings | 43770 | [43770-choro-q-jet-rainbow-wings.json](./43770-choro-q-jet-rainbow-wings.json) |
+| Chorus of Carcosa | 315958 | [315958-chorus-of-carcosa.json](./315958-chorus-of-carcosa.json) |
 | Chorus of the Night | 235395 | [235395-chorus-of-the-night.json](./235395-chorus-of-the-night.json) |
 | Chorus: Day One Edition | 172575 | [172575-chorus-day-one-edition.json](./172575-chorus-day-one-edition.json) |
 | Chosen | 384064 | [384064-chosen.json](./384064-chosen.json) |
@@ -10165,6 +10168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Survival Project | 130842 | [130842-city-survival-project.json](./130842-city-survival-project.json) |
 | City Sweeper: Clean it Fast! | 104861 | [104861-city-sweeper-clean-it-fast.json](./104861-city-sweeper-clean-it-fast.json) |
 | City Takeover | 309048 | [309048-city-takeover.json](./309048-city-takeover.json) |
+| City Takeover: Complete Edition | 315878 | [315878-city-takeover-complete-edition.json](./315878-city-takeover-complete-edition.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
 | City Takeover: Wild Edition | 364096 | [364096-city-takeover-wild-edition.json](./364096-city-takeover-wild-edition.json) |
@@ -12993,6 +12997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Pixel Heroes: Expansion Pack 2 | 225007 | [225007-color-pixel-heroes-expansion-pack-2.json](./225007-color-pixel-heroes-expansion-pack-2.json) |
 | Color Puyolin | 198610 | [198610-color-puyolin.json](./198610-color-puyolin.json) |
 | Color Puzzle | 230686 | [230686-color-puzzle.json](./230686-color-puzzle.json) |
+| Color Recreator | 315951 | [315951-color-recreator.json](./315951-color-recreator.json) |
 | Color Reflex Challenge | 253018 | [253018-color-reflex-challenge.json](./253018-color-reflex-challenge.json) |
 | Color Retro Racer: Miles Challenge | 81790 | [81790-color-retro-racer-miles-challenge.json](./81790-color-retro-racer-miles-challenge.json) |
 | Color Rings Pro | 118572 | [118572-color-rings-pro.json](./118572-color-rings-pro.json) |
@@ -13792,6 +13797,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Coloring Book Complete Edition: Colors + | 315888 | [315888-comic-coloring-book-complete-edition-colors.json](./315888-comic-coloring-book-complete-edition-colors.json) |
 | Comic Coloring Book Complete Edition: Colors Deluxe | 315886 | [315886-comic-coloring-book-complete-edition-colors-deluxe.json](./315886-comic-coloring-book-complete-edition-colors-deluxe.json) |
 | Comic Coloring Book Complete Edition: Draw + | 315887 | [315887-comic-coloring-book-complete-edition-draw.json](./315887-comic-coloring-book-complete-edition-draw.json) |
+| Comic Coloring Book Complete Edition: Draw Deluxe | 315885 | [315885-comic-coloring-book-complete-edition-draw-deluxe.json](./315885-comic-coloring-book-complete-edition-draw-deluxe.json) |
+| Comic Coloring Book Complete Edition: Paint + | 315884 | [315884-comic-coloring-book-complete-edition-paint.json](./315884-comic-coloring-book-complete-edition-paint.json) |
 | Comic Coloring Book: Complete Edition | 186576 | [186576-comic-coloring-book-complete-edition.json](./186576-comic-coloring-book-complete-edition.json) |
 | Comic Coloring Book: Complete Edition - Colors Special | 275053 | [275053-comic-coloring-book-complete-edition-colors-special.json](./275053-comic-coloring-book-complete-edition-colors-special.json) |
 | Comic Coloring Book: Complete Edition - Draw Extended | 263528 | [263528-comic-coloring-book-complete-edition-draw-extended.json](./263528-comic-coloring-book-complete-edition-draw-extended.json) |
@@ -13799,6 +13806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Coloring Book: Complete Edition - Paint Extended | 257731 | [257731-comic-coloring-book-complete-edition-paint-extended.json](./257731-comic-coloring-book-complete-edition-paint-extended.json) |
 | Comic Coloring Book: Complete Edition - Paint Special | 270799 | [270799-comic-coloring-book-complete-edition-paint-special.json](./270799-comic-coloring-book-complete-edition-paint-special.json) |
 | Comic Coloring Book: Complete Edition - Sketch Special | 280592 | [280592-comic-coloring-book-complete-edition-sketch-special.json](./280592-comic-coloring-book-complete-edition-sketch-special.json) |
+| Comic Coloring Book: Complete Edition Sketch Deluxe | 315883 | [315883-comic-coloring-book-complete-edition-sketch-deluxe.json](./315883-comic-coloring-book-complete-edition-sketch-deluxe.json) |
 | Comic Company Manager | 152697 | [152697-comic-company-manager.json](./152697-comic-company-manager.json) |
 | Comic Days H | 97382 | [97382-comic-days-h.json](./97382-comic-days-h.json) |
 | Comic Jumper: The Adventures of Captain Smiley | 21094 | [21094-comic-jumper-the-adventures-of-captain-smiley.json](./21094-comic-jumper-the-adventures-of-captain-smiley.json) |
@@ -17676,6 +17684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrashMetal: Drift Racing Car Driving Simulator - Premium Edition | 283151 | [283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json](./283151-crashmetal-drift-racing-car-driving-simulator-premium-edition.json) |
 | Crashmo | 19928 | [19928-crashmo.json](./19928-crashmo.json) |
 | Crashnauts | 34131 | [34131-crashnauts.json](./34131-crashnauts.json) |
+| Crasho Cars | 315952 | [315952-crasho-cars.json](./315952-crasho-cars.json) |
 | Crashocalypse | 201656 | [201656-crashocalypse.json](./201656-crashocalypse.json) |
 | Crashout | 379722 | [379722-crashout.json](./379722-crashout.json) |
 | Crashout Crew | 372144 | [372144-crashout-crew.json](./372144-crashout-crew.json) |
@@ -21442,7 +21451,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curses | 165279 | [165279-curses.json](./165279-curses.json) |
 | Curses | 346510 | [346510-curses.json](./346510-curses.json) |
 | Curses | 92940 | [92940-curses.json](./92940-curses.json) |
-| Curses 'N Chaos | 16470 | [16470-curses-n-chaos.json](./16470-curses-n-chaos.json) |
 | Curses of Tarot | 186422 | [186422-curses-of-tarot.json](./186422-curses-of-tarot.json) |
 | Cursewarden | 348233 | [348233-cursewarden.json](./348233-cursewarden.json) |
 | Cursflip | 380630 | [380630-cursflip.json](./380630-cursflip.json) |
