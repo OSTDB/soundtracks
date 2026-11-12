@@ -13634,6 +13634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Step White Tile: It's Me! | 232113 | [232113-dont-step-white-tile-its-me.json](./232113-dont-step-white-tile-its-me.json) |
 | Don't Stop | 106139 | [106139-dont-stop.json](./106139-dont-stop.json) |
 | Don't Stop | 253214 | [253214-dont-stop.json](./253214-dont-stop.json) |
+| Don't Stop | 274706 | [274706-dont-stop.json](./274706-dont-stop.json) |
 | Don't Stop Corocco | 151663 | [151663-dont-stop-corocco.json](./151663-dont-stop-corocco.json) |
 | Don't Stop Corocco 2 | 206447 | [206447-dont-stop-corocco-2.json](./206447-dont-stop-corocco-2.json) |
 | Don't Stop Cutting The Trees! | 421363 | [421363-dont-stop-cutting-the-trees.json](./421363-dont-stop-cutting-the-trees.json) |
@@ -17670,6 +17671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamWorks Super Star Kartz | 47435 | [47435-dreamworks-super-star-kartz.json](./47435-dreamworks-super-star-kartz.json) |
 | DreamWorks Tap-Dragon-Drop | 61381 | [61381-dreamworks-tap-dragon-drop.json](./61381-dreamworks-tap-dragon-drop.json) |
 | DreamWorks Trolls Remix Rescue Deluxe Edition | 274420 | [274420-dreamworks-trolls-remix-rescue-deluxe-edition.json](./274420-dreamworks-trolls-remix-rescue-deluxe-edition.json) |
+| DreamWorks Trolls Remix Rescue: Deluxe Character Pack | 274620 | [274620-dreamworks-trolls-remix-rescue-deluxe-character-pack.json](./274620-dreamworks-trolls-remix-rescue-deluxe-character-pack.json) |
 | Dreamworks Voltron VR Chronicles | 55172 | [55172-dreamworks-voltron-vr-chronicles.json](./55172-dreamworks-voltron-vr-chronicles.json) |
 | Dreamworks' Shark Tale | 243200 | [243200-dreamworks-shark-tale.json](./243200-dreamworks-shark-tale.json) |
 | Dreamworks' Shark Tale | 4148 | [4148-dreamworks-shark-tale.json](./4148-dreamworks-shark-tale.json) |
