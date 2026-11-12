@@ -10064,6 +10064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home World Run | 315322 | [315322-home-world-run.json](./315322-home-world-run.json) |
 | Home_0 | 325661 | [325661-home-0.json](./325661-home-0.json) |
 | Home: A Quarantine Story | 149210 | [149210-home-a-quarantine-story.json](./149210-home-a-quarantine-story.json) |
+| Home: A Story of Light | 253556 | [253556-home-a-story-of-light.json](./253556-home-a-story-of-light.json) |
 | Home: Boov Pop! | 344931 | [344931-home-boov-pop.json](./344931-home-boov-pop.json) |
 | Home: Mother | 305762 | [305762-home-mother.json](./305762-home-mother.json) |
 | Home: Postmortem Edition | 146776 | [146776-home-postmortem-edition.json](./146776-home-postmortem-edition.json) |
