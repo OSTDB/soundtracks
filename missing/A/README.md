@@ -3138,7 +3138,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Galaxy: Infinite War | 216780 | [216780-across-the-galaxy-infinite-war.json](./216780-across-the-galaxy-infinite-war.json) |
 | Across the Galaxy: Stellar Dominator | 171500 | [171500-across-the-galaxy-stellar-dominator.json](./171500-across-the-galaxy-stellar-dominator.json) |
 | Across the Globe | 214243 | [214243-across-the-globe.json](./214243-across-the-globe.json) |
-| Across the Grooves | 121711 | [121711-across-the-grooves.json](./121711-across-the-grooves.json) |
 | Across the Line | 32345 | [32345-across-the-line.json](./32345-across-the-line.json) |
 | Across the Moment | 29077 | [29077-across-the-moment.json](./29077-across-the-moment.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
@@ -4739,7 +4738,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Dark Games | 85943 | [85943-after-dark-games.json](./85943-after-dark-games.json) |
 | After Dark: Under the Moonlight | 302631 | [302631-after-dark-under-the-moonlight.json](./302631-after-dark-under-the-moonlight.json) |
 | After Death | 322236 | [322236-after-death.json](./322236-after-death.json) |
-| After Death | 65786 | [65786-after-death.json](./65786-after-death.json) |
 | After Doom | 300354 | [300354-after-doom.json](./300354-after-doom.json) |
 | After Dreams | 100452 | [100452-after-dreams.json](./100452-after-dreams.json) |
 | After Easter Escape | 315749 | [315749-after-easter-escape.json](./315749-after-easter-escape.json) |
@@ -12401,6 +12399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment Escape | 337956 | [337956-apartment-escape.json](./337956-apartment-escape.json) |
 | Apartment Filled With Cats | 333868 | [333868-apartment-filled-with-cats.json](./333868-apartment-filled-with-cats.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
+| Apartment Love Triangle | 298912 | [298912-apartment-love-triangle.json](./298912-apartment-love-triangle.json) |
 | Apartment No 129 | 294293 | [294293-apartment-no-129.json](./294293-apartment-no-129.json) |
 | Apartment No.9: GxB Version | 179804 | [179804-apartment-no-9-gxb-version.json](./179804-apartment-no-9-gxb-version.json) |
 | Apartment of Death | 291504 | [291504-apartment-of-death.json](./291504-apartment-of-death.json) |
