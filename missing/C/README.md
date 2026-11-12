@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Wild: The Angler - T-Shirt Pack | 274712 | [274712-call-of-the-wild-the-angler-t-shirt-pack.json](./274712-call-of-the-wild-the-angler-t-shirt-pack.json) |
 | Call of the Wild: The Angler - Ultimate Fishing Bundle | 301333 | [301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json](./301333-call-of-the-wild-the-angler-ultimate-fishing-bundle.json) |
 | Call of the Wild: The Angler - Ultra Cruiser Boat Pack | 301733 | [301733-call-of-the-wild-the-angler-ultra-cruiser-boat-pack.json](./301733-call-of-the-wild-the-angler-ultra-cruiser-boat-pack.json) |
+| Call of the Wild: The Angler - Wilderness Cosmetics Pack | 263240 | [263240-call-of-the-wild-the-angler-wilderness-cosmetics-pack.json](./263240-call-of-the-wild-the-angler-wilderness-cosmetics-pack.json) |
 | Call of the Wild: The Angler - Winter Vehicle Cosmetics Pack | 366229 | [366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json](./366229-call-of-the-wild-the-angler-winter-vehicle-cosmetics-pack.json) |
 | Call of the Wild: The Angler – Spain Reserve | 272651 | [272651-call-of-the-wild-the-angler-spain-reserve.json](./272651-call-of-the-wild-the-angler-spain-reserve.json) |
 | Call of the Winter Monarch | 183758 | [183758-call-of-the-winter-monarch.json](./183758-call-of-the-winter-monarch.json) |
@@ -5005,6 +5006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catloaf 2600 | 93154 | [93154-catloaf-2600.json](./93154-catloaf-2600.json) |
 | Catloaf Kart Racing | 382564 | [382564-catloaf-kart-racing.json](./382564-catloaf-kart-racing.json) |
 | Catloons | 240204 | [240204-catloons.json](./240204-catloons.json) |
+| Catlord | 263249 | [263249-catlord.json](./263249-catlord.json) |
 | Catly | 325592 | [325592-catly.json](./325592-catly.json) |
 | CatMafia | 158931 | [158931-catmafia.json](./158931-catmafia.json) |
 | Catmageddon | 152882 | [152882-catmageddon.json](./152882-catmageddon.json) |
@@ -6038,6 +6040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cerulean Days | 258996 | [258996-cerulean-days.json](./258996-cerulean-days.json) |
 | Cerulean Invasion | 370072 | [370072-cerulean-invasion.json](./370072-cerulean-invasion.json) |
 | Cerulean Moon | 120220 | [120220-cerulean-moon.json](./120220-cerulean-moon.json) |
+| Cerulean Singe | 263242 | [263242-cerulean-singe.json](./263242-cerulean-singe.json) |
 | Cerulean Tears | 323929 | [323929-cerulean-tears.json](./323929-cerulean-tears.json) |
 | Cervidae | 182140 | [182140-cervidae.json](./182140-cervidae.json) |
 | Cesar Millan's Dog Whisperer | 70646 | [70646-cesar-millans-dog-whisperer.json](./70646-cesar-millans-dog-whisperer.json) |
@@ -6969,6 +6972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chat Noir | 319438 | [319438-chat-noir.json](./319438-chat-noir.json) |
 | Chat Ragdoll Racing | 332288 | [332288-chat-ragdoll-racing.json](./332288-chat-ragdoll-racing.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
+| Chat Simulator: Blind Dates | 263246 | [263246-chat-simulator-blind-dates.json](./263246-chat-simulator-blind-dates.json) |
 | Chat Wars! | 295144 | [295144-chat-wars.json](./295144-chat-wars.json) |
 | Chat with Yu | 379552 | [379552-chat-with-yu.json](./379552-chat-with-yu.json) |
 | Chat-A-Lot | 84577 | [84577-chat-a-lot.json](./84577-chat-a-lot.json) |
