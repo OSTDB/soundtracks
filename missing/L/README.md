@@ -2877,6 +2877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Succes Joe | 39956 | [39956-legend-of-succes-joe.json](./39956-legend-of-succes-joe.json) |
 | Legend of Success Joe | 47580 | [47580-legend-of-success-joe.json](./47580-legend-of-success-joe.json) |
 | Legend of Sunflower | 180669 | [180669-legend-of-sunflower.json](./180669-legend-of-sunflower.json) |
+| Legend of Sword | 290599 | [290599-legend-of-sword.json](./290599-legend-of-sword.json) |
 | Legend of Taigong | 254647 | [254647-legend-of-taigong.json](./254647-legend-of-taigong.json) |
 | Legend of Talisman | 237601 | [237601-legend-of-talisman.json](./237601-legend-of-talisman.json) |
 | Legend of Tenshi | 140738 | [140738-legend-of-tenshi.json](./140738-legend-of-tenshi.json) |
