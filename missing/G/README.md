@@ -4606,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GigaBash: MechaJuras | 347860 | [347860-gigabash-mechajuras.json](./347860-gigabash-mechajuras.json) |
 | GigaBash: Mighty DLC - R.O.J.A.K & Balzarr | 315986 | [315986-gigabash-mighty-dlc-r-o-j-a-k-and-balzarr.json](./315986-gigabash-mighty-dlc-r-o-j-a-k-and-balzarr.json) |
 | GigaBash: Ultraman - Rising DLC | 404829 | [404829-gigabash-ultraman-rising-dlc.json](./404829-gigabash-ultraman-rising-dlc.json) |
+| GigaBash: Ultraman 4 Characters Pack | 274627 | [274627-gigabash-ultraman-4-characters-pack.json](./274627-gigabash-ultraman-4-characters-pack.json) |
 | GigaBash: Ultraman Zero | 404820 | [404820-gigabash-ultraman-zero.json](./404820-gigabash-ultraman-zero.json) |
 | Gigabit | 194346 | [194346-gigabit.json](./194346-gigabit.json) |
 | Gigablast | 66603 | [66603-gigablast.json](./66603-gigablast.json) |
@@ -5515,6 +5516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloomy Tales: Horrific Show - Collector's Edition | 225010 | [225010-gloomy-tales-horrific-show-collectors-edition.json](./225010-gloomy-tales-horrific-show-collectors-edition.json) |
 | Gloomy Tales: Hotel Frightsylvania - Collector's Edition | 340306 | [340306-gloomy-tales-hotel-frightsylvania-collectors-edition.json](./340306-gloomy-tales-hotel-frightsylvania-collectors-edition.json) |
 | Gloomy Tales: One-Way Ticket - Collector's Edition | 271643 | [271643-gloomy-tales-one-way-ticket-collectors-edition.json](./271643-gloomy-tales-one-way-ticket-collectors-edition.json) |
+| Gloomy Tales: One-Way Ticket DLC | 274711 | [274711-gloomy-tales-one-way-ticket-dlc.json](./274711-gloomy-tales-one-way-ticket-dlc.json) |
 | Gloomy Toons | 140995 | [140995-gloomy-toons.json](./140995-gloomy-toons.json) |
 | Gloomy Village | 265348 | [265348-gloomy-village.json](./265348-gloomy-village.json) |
 | Gloop | 236955 | [236955-gloop.json](./236955-gloop.json) |
