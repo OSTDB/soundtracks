@@ -1727,6 +1727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Sodis | 231380 | [231380-sands-of-sodis.json](./231380-sands-of-sodis.json) |
 | Sands of Solaris | 255490 | [255490-sands-of-solaris.json](./255490-sands-of-solaris.json) |
 | Sands of Space | 77525 | [77525-sands-of-space.json](./77525-sands-of-space.json) |
+| Sands of Supremacy | 302828 | [302828-sands-of-supremacy.json](./302828-sands-of-supremacy.json) |
 | Sands of the Coliseum | 95941 | [95941-sands-of-the-coliseum.json](./95941-sands-of-the-coliseum.json) |
 | SandShifter | 181463 | [181463-sandshifter.json](./181463-sandshifter.json) |
 | Sandship | 130502 | [130502-sandship.json](./130502-sandship.json) |
@@ -15063,6 +15064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slugtrip | 347796 | [347796-slugtrip.json](./347796-slugtrip.json) |
 | Slum Ball | 187680 | [187680-slum-ball.json](./187680-slum-ball.json) |
 | Slum Ball VR Tournament | 100241 | [100241-slum-ball-vr-tournament.json](./100241-slum-ball-vr-tournament.json) |
+| Slum Dweller | 302871 | [302871-slum-dweller.json](./302871-slum-dweller.json) |
 | Slum Guide | 325405 | [325405-slum-guide.json](./325405-slum-guide.json) |
 | Slum Musketeer | 264985 | [264985-slum-musketeer.json](./264985-slum-musketeer.json) |
 | Slum Z | 416218 | [416218-slum-z.json](./416218-slum-z.json) |
@@ -36860,6 +36862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive Into Night | 155504 | [155504-survive-into-night.json](./155504-survive-into-night.json) |
 | Survive Isolation | 150503 | [150503-survive-isolation.json](./150503-survive-isolation.json) |
 | Survive It: Frozen | 285512 | [285512-survive-it-frozen.json](./285512-survive-it-frozen.json) |
+| Survive It: Frozen - Additional Characters Pack | 302850 | [302850-survive-it-frozen-additional-characters-pack.json](./302850-survive-it-frozen-additional-characters-pack.json) |
 | Survive la France | 273859 | [273859-survive-la-france.json](./273859-survive-la-france.json) |
 | Survive Lviv | 189009 | [189009-survive-lviv.json](./189009-survive-lviv.json) |
 | Survive Me Miolhr | 34036 | [34036-survive-me-miolhr.json](./34036-survive-me-miolhr.json) |
