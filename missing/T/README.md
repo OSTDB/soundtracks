@@ -21978,6 +21978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throw Bro | 302350 | [302350-throw-bro.json](./302350-throw-bro.json) |
 | Throw Cubes into Brick Towers to Collapse Them | 134662 | [134662-throw-cubes-into-brick-towers-to-collapse-them.json](./134662-throw-cubes-into-brick-towers-to-collapse-them.json) |
 | Throw It | 149926 | [149926-throw-it.json](./149926-throw-it.json) |
+| Throw it! Dinosaur Panic | 308665 | [308665-throw-it-dinosaur-panic.json](./308665-throw-it-dinosaur-panic.json) |
 | Throw Knives | 151099 | [151099-throw-knives.json](./151099-throw-knives.json) |
 | Throw M | 319962 | [319962-throw-m.json](./319962-throw-m.json) |
 | Throw Me in the River | 149600 | [149600-throw-me-in-the-river.json](./149600-throw-me-in-the-river.json) |
@@ -26104,6 +26105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Zone 2 | 337643 | [337643-toilet-zone-2.json](./337643-toilet-zone-2.json) |
 | Toilet: Confrontation | 327301 | [327301-toilet-confrontation.json](./327301-toilet-confrontation.json) |
 | Toilet: Urinal Game | 409416 | [409416-toilet-urinal-game.json](./409416-toilet-urinal-game.json) |
+| Toiletisia vs. Evil | 309156 | [309156-toiletisia-vs-evil.json](./309156-toiletisia-vs-evil.json) |
 | Toiletrooms | 254828 | [254828-toiletrooms.json](./254828-toiletrooms.json) |
 | Toiletworld | 57472 | [57472-toiletworld.json](./57472-toiletworld.json) |
 | Toing's Pops | 259444 | [259444-toings-pops.json](./259444-toings-pops.json) |
