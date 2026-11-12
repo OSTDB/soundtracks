@@ -4608,6 +4608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Defense | 97092 | [97092-terminal-defense.json](./97092-terminal-defense.json) |
 | Terminal Descent | 371742 | [371742-terminal-descent.json](./371742-terminal-descent.json) |
 | Terminal Earth | 153215 | [153215-terminal-earth.json](./153215-terminal-earth.json) |
+| Terminal ESC | 298462 | [298462-terminal-esc.json](./298462-terminal-esc.json) |
 | Terminal Escape | 383740 | [383740-terminal-escape.json](./383740-terminal-escape.json) |
 | Terminal Hacker | 178955 | [178955-terminal-hacker.json](./178955-terminal-hacker.json) |
 | Terminal Hacker | 30854 | [30854-terminal-hacker.json](./30854-terminal-hacker.json) |
@@ -7856,6 +7857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clown's Forest | 207485 | [207485-the-clowns-forest.json](./207485-the-clowns-forest.json) |
 | The Clown's Forest 2: Waking Shadows | 244362 | [244362-the-clowns-forest-2-waking-shadows.json](./244362-the-clowns-forest-2-waking-shadows.json) |
 | The Clown's Forest 3: Haunting Apparitions | 271906 | [271906-the-clowns-forest-3-haunting-apparitions.json](./271906-the-clowns-forest-3-haunting-apparitions.json) |
+| The Clown's Forest: Fear of a Survivor | 298461 | [298461-the-clowns-forest-fear-of-a-survivor.json](./298461-the-clowns-forest-fear-of-a-survivor.json) |
 | The Clown's Forest: Shadows of Blood | 420060 | [420060-the-clowns-forest-shadows-of-blood.json](./420060-the-clowns-forest-shadows-of-blood.json) |
 | The Club | 352992 | [352992-the-club.json](./352992-the-club.json) |
 | The Club | 6940 | [6940-the-club.json](./6940-the-club.json) |
@@ -7903,6 +7905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collector’s Curio Cabinet: Toy Soldiers | 416776 | [416776-the-collector-s-curio-cabinet-toy-soldiers.json](./416776-the-collector-s-curio-cabinet-toy-soldiers.json) |
 | The Collectors | 380920 | [380920-the-collectors.json](./380920-the-collectors.json) |
 | The College Brickout | 306485 | [306485-the-college-brickout.json](./306485-the-college-brickout.json) |
+| The College Fantasy Before the End of the Empire | 298349 | [298349-the-college-fantasy-before-the-end-of-the-empire.json](./298349-the-college-fantasy-before-the-end-of-the-empire.json) |
 | The Collider | 17769 | [17769-the-collider.json](./17769-the-collider.json) |
 | The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
 | The Colonel's Bequest | 12008 | [12008-the-colonels-bequest.json](./12008-the-colonels-bequest.json) |
@@ -9845,6 +9848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fallen Eagle | 356032 | [356032-the-fallen-eagle.json](./356032-the-fallen-eagle.json) |
 | The Fallen Kingdom | 31990 | [31990-the-fallen-kingdom.json](./31990-the-fallen-kingdom.json) |
 | The Fallen Kingdom | 324298 | [324298-the-fallen-kingdom.json](./324298-the-fallen-kingdom.json) |
+| The Fallen Kingdoms | 297935 | [297935-the-fallen-kingdoms.json](./297935-the-fallen-kingdoms.json) |
 | The Fallen Night | 236198 | [236198-the-fallen-night.json](./236198-the-fallen-night.json) |
 | The Fallen of the Blaze Empire | 117363 | [117363-the-fallen-of-the-blaze-empire.json](./117363-the-fallen-of-the-blaze-empire.json) |
 | The Fallen Ones | 58100 | [58100-the-fallen-ones.json](./58100-the-fallen-ones.json) |
@@ -14555,6 +14559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Match | 301545 | [301545-the-match.json](./301545-the-match.json) |
 | The Match Golf | 402918 | [402918-the-match-golf.json](./402918-the-match-golf.json) |
 | The Matchless KungFu | 164874 | [164874-the-matchless-kungfu.json](./164874-the-matchless-kungfu.json) |
+| The Math Challenge | 298460 | [298460-the-math-challenge.json](./298460-the-math-challenge.json) |
 | The Math Problem Killer | 257997 | [257997-the-math-problem-killer.json](./257997-the-math-problem-killer.json) |
 | The Mating Season | 218141 | [218141-the-mating-season.json](./218141-the-mating-season.json) |
 | The Matriarch | 188686 | [188686-the-matriarch.json](./188686-the-matriarch.json) |
@@ -28526,6 +28531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou: Blossom Blade | 380520 | [380520-touhou-blossom-blade.json](./380520-touhou-blossom-blade.json) |
 | Touhou: Combinations With You | 214819 | [214819-touhou-combinations-with-you.json](./214819-touhou-combinations-with-you.json) |
 | Touhou: Dreamland of Infinity | 219356 | [219356-touhou-dreamland-of-infinity.json](./219356-touhou-dreamland-of-infinity.json) |
+| Touhou: Dreams of a Sunflower | 298463 | [298463-touhou-dreams-of-a-sunflower.json](./298463-touhou-dreams-of-a-sunflower.json) |
 | Touhou: Fading Illusion | 228201 | [228201-touhou-fading-illusion.json](./228201-touhou-fading-illusion.json) |
 | Touhou: Fading Illusion - Destitute Chapter | 293834 | [293834-touhou-fading-illusion-destitute-chapter.json](./293834-touhou-fading-illusion-destitute-chapter.json) |
 | Touhou: Fading Illusion - Underworld Chapter | 356185 | [356185-touhou-fading-illusion-underworld-chapter.json](./356185-touhou-fading-illusion-underworld-chapter.json) |
@@ -29440,6 +29446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trabi Racer | 305348 | [305348-trabi-racer.json](./305348-trabi-racer.json) |
 | Trabi vs. Zombies: Apocalypse VR | 233073 | [233073-trabi-vs-zombies-apocalypse-vr.json](./233073-trabi-vs-zombies-apocalypse-vr.json) |
 | Tracadie Bird Shit | 231117 | [231117-tracadie-bird-shit.json](./231117-tracadie-bird-shit.json) |
+| Trace | 297830 | [297830-trace.json](./297830-trace.json) |
 | Trace | 92662 | [92662-trace.json](./92662-trace.json) |
 | Trace 2 | 103654 | [103654-trace-2.json](./103654-trace-2.json) |
 | Trace Blackout: The Perfect Crime Mystery | 401119 | [401119-trace-blackout-the-perfect-crime-mystery.json](./401119-trace-blackout-the-perfect-crime-mystery.json) |
@@ -32813,6 +32820,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triametric | 112641 | [112641-triametric.json](./112641-triametric.json) |
 | Trianga's Project: Battle Splash 2.0 | 55705 | [55705-triangas-project-battle-splash-2-0.json](./55705-triangas-project-battle-splash-2-0.json) |
 | Trianga's Project: Battle Splash 2.0 - Earth's Legacy M.A.I.A | 289466 | [289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json](./289466-triangas-project-battle-splash-2-0-earths-legacy-m-a-i-a.json) |
+| Trianga's Project: Battle Splash 2.0 - Pentaga Maid Outfit #1 | 298482 | [298482-triangas-project-battle-splash-2-0-pentaga-maid-outfit-1.json](./298482-triangas-project-battle-splash-2-0-pentaga-maid-outfit-1.json) |
+| Trianga's Project: Battle Splash 2.0 - Quadra Maid Outfit #1 | 298483 | [298483-triangas-project-battle-splash-2-0-quadra-maid-outfit-1.json](./298483-triangas-project-battle-splash-2-0-quadra-maid-outfit-1.json) |
+| Trianga's Project: Battle Splash 2.0 - Temiko Maid Outfit #1 | 298484 | [298484-triangas-project-battle-splash-2-0-temiko-maid-outfit-1.json](./298484-triangas-project-battle-splash-2-0-temiko-maid-outfit-1.json) |
+| Trianga's Project: Battle Splash 2.0 - Trianga Maid Outfit #1 | 298485 | [298485-triangas-project-battle-splash-2-0-trianga-maid-outfit-1.json](./298485-triangas-project-battle-splash-2-0-trianga-maid-outfit-1.json) |
 | Triangle 180 | 236978 | [236978-triangle-180.json](./236978-triangle-180.json) |
 | Triangle Again | 63017 | [63017-triangle-again.json](./63017-triangle-again.json) |
 | Triangle Again 2 | 63018 | [63018-triangle-again-2.json](./63018-triangle-again-2.json) |
