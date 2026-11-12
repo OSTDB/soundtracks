@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1-800-Monsters | 179563 | [179563-1-800-monsters.json](./179563-1-800-monsters.json) |
 | 1-900-Cult | 242118 | [242118-1-900-cult.json](./242118-1-900-cult.json) |
 | 1-900-Gary | 325869 | [325869-1-900-gary.json](./325869-1-900-gary.json) |
+| 1-Bit Halloween | 290072 | [290072-1-bit-halloween.json](./290072-1-bit-halloween.json) |
 | 1-Bit Ninja | 65888 | [65888-1-bit-ninja.json](./65888-1-bit-ninja.json) |
 | 1-Bit Return | 248280 | [248280-1-bit-return.json](./248280-1-bit-return.json) |
 | 1-Bit Revival: The Residuals of Null | 115941 | [115941-1-bit-revival-the-residuals-of-null.json](./115941-1-bit-revival-the-residuals-of-null.json) |
@@ -1691,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2-4 '94 | 410087 | [410087-2-4-94.json](./410087-2-4-94.json) |
 | 2-bit Cowboy | 39234 | [39234-2-bit-cowboy.json](./39234-2-bit-cowboy.json) |
 | 2-Bit Cowboy Rides Again | 316061 | [316061-2-bit-cowboy-rides-again.json](./316061-2-bit-cowboy-rides-again.json) |
+| 2-Bit Explorer | 290073 | [290073-2-bit-explorer.json](./290073-2-bit-explorer.json) |
 | 2-Finger Heroes | 66692 | [66692-2-finger-heroes.json](./66692-2-finger-heroes.json) |
 | 2-Headed Boy | 358073 | [358073-2-headed-boy.json](./358073-2-headed-boy.json) |
 | 2-Hour Community Build Project | 308479 | [308479-2-hour-community-build-project.json](./308479-2-hour-community-build-project.json) |
