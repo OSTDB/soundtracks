@@ -1734,6 +1734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
 | Olympia Soirée | 136601 | [136601-olympia-soiree.json](./136601-olympia-soiree.json) |
 | Olympia Soirée Catharsis | 382140 | [382140-olympia-soiree-catharsis.json](./382140-olympia-soiree-catharsis.json) |
+| Olympia Soirée: Limited Edition | 257627 | [257627-olympia-soiree-limited-edition.json](./257627-olympia-soiree-limited-edition.json) |
 | Olympia: Festival of the Gods | 341504 | [341504-olympia-festival-of-the-gods.json](./341504-olympia-festival-of-the-gods.json) |
 | Olympian Knights | 216653 | [216653-olympian-knights.json](./216653-olympian-knights.json) |
 | Olympian Wars | 235610 | [235610-olympian-wars.json](./235610-olympian-wars.json) |
@@ -3779,6 +3780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Noogy | 265314 | [265314-operation-noogy.json](./265314-operation-noogy.json) |
 | Operation Nova | 394793 | [394793-operation-nova.json](./394793-operation-nova.json) |
 | Operation Obliteration 2 | 394113 | [394113-operation-obliteration-2.json](./394113-operation-obliteration-2.json) |
+| Operation Octo | 257695 | [257695-operation-octo.json](./257695-operation-octo.json) |
 | Operation Osam Bin Laden | 107370 | [107370-operation-osam-bin-laden.json](./107370-operation-osam-bin-laden.json) |
 | Operation Outsmart | 165242 | [165242-operation-outsmart.json](./165242-operation-outsmart.json) |
 | Operation Pig | 111911 | [111911-operation-pig.json](./111911-operation-pig.json) |
