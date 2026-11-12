@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dark Place | 274228 | [274228-a-dark-place.json](./274228-a-dark-place.json) |
 | A Dark Place | 301587 | [301587-a-dark-place.json](./301587-a-dark-place.json) |
 | A Dark Place 2 | 307002 | [307002-a-dark-place-2.json](./307002-a-dark-place-2.json) |
+| A Dark Room | 255977 | [255977-a-dark-room.json](./255977-a-dark-room.json) |
 | A Dark Room | 3245 | [3245-a-dark-room.json](./3245-a-dark-room.json) |
 | A Dark Sky Over Paradise | 228994 | [228994-a-dark-sky-over-paradise.json](./228994-a-dark-sky-over-paradise.json) |
 | A Dark Winter Wander | 316534 | [316534-a-dark-winter-wander.json](./316534-a-dark-winter-wander.json) |
@@ -6327,6 +6328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Simulator 2019 | 100545 | [100545-airport-simulator-2019.json](./100545-airport-simulator-2019.json) |
 | Airport Simulator: Day & Night | 187310 | [187310-airport-simulator-day-and-night.json](./187310-airport-simulator-day-and-night.json) |
 | Airport Tower Simulator 2012 | 52385 | [52385-airport-tower-simulator-2012.json](./52385-airport-tower-simulator-2012.json) |
+| Airport Trucks Car Parking Simulator | 254722 | [254722-airport-trucks-car-parking-simulator.json](./254722-airport-trucks-car-parking-simulator.json) |
 | Airport Tycoon | 78900 | [78900-airport-tycoon.json](./78900-airport-tycoon.json) |
 | Airport Tycoon 2 | 78040 | [78040-airport-tycoon-2.json](./78040-airport-tycoon-2.json) |
 | Airport Tycoon 3 | 69843 | [69843-airport-tycoon-3.json](./69843-airport-tycoon-3.json) |
@@ -9274,6 +9276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ame Nochi Hare Onna | 418300 | [418300-ame-nochi-hare-onna.json](./418300-ame-nochi-hare-onna.json) |
 | Ame's Happy Happy Dating Game | 283603 | [283603-ames-happy-happy-dating-game.json](./283603-ames-happy-happy-dating-game.json) |
 | Ameagari no Hanaby | 104847 | [104847-ameagari-no-hanaby.json](./104847-ameagari-no-hanaby.json) |
+| Amedama | 255913 | [255913-amedama.json](./255913-amedama.json) |
 | Ameena: Witchborn Duelist | 303331 | [303331-ameena-witchborn-duelist.json](./303331-ameena-witchborn-duelist.json) |
 | Amegas | 11898 | [11898-amegas.json](./11898-amegas.json) |
 | Ameizu | 311595 | [311595-ameizu.json](./311595-ameizu.json) |
@@ -9877,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An Evil Existence | 140953 | [140953-an-evil-existence.json](./140953-an-evil-existence.json) |
 | An Exorcism | 375556 | [375556-an-exorcism.json](./375556-an-exorcism.json) |
 | An ExScourgeon Through Space and Time! | 180658 | [180658-an-exscourgeon-through-space-and-time.json](./180658-an-exscourgeon-through-space-and-time.json) |
+| An Eye for Optical Theory 1666 | 255926 | [255926-an-eye-for-optical-theory-1666.json](./255926-an-eye-for-optical-theory-1666.json) |
 | An Idle Nightmare | 334839 | [334839-an-idle-nightmare.json](./334839-an-idle-nightmare.json) |
 | An Idle Nightmare 2: Sabbath | 335018 | [335018-an-idle-nightmare-2-sabbath.json](./335018-an-idle-nightmare-2-sabbath.json) |
 | An Imp and an Impostor | 378174 | [378174-an-imp-and-an-impostor.json](./378174-an-imp-and-an-impostor.json) |
@@ -10439,6 +10443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Legion: Secret Gift - Orange | 302570 | [302570-angel-legion-secret-gift-orange.json](./302570-angel-legion-secret-gift-orange.json) |
 | Angel Legion: Secret Gift - Pink | 302574 | [302574-angel-legion-secret-gift-pink.json](./302574-angel-legion-secret-gift-pink.json) |
 | Angel Legion: Secret Gift - Purple | 312052 | [312052-angel-legion-secret-gift-purple.json](./312052-angel-legion-secret-gift-purple.json) |
+| Angel Legion: Seductive Maid - Red | 254806 | [254806-angel-legion-seductive-maid-red.json](./254806-angel-legion-seductive-maid-red.json) |
 | Angel Legion: Seeker of Hearts - Blue | 302573 | [302573-angel-legion-seeker-of-hearts-blue.json](./302573-angel-legion-seeker-of-hearts-blue.json) |
 | Angel Legion: Shadow Woven - Black | 302571 | [302571-angel-legion-shadow-woven-black.json](./302571-angel-legion-shadow-woven-black.json) |
 | Angel Legion: Shadow Woven - Blue | 323253 | [323253-angel-legion-shadow-woven-blue.json](./323253-angel-legion-shadow-woven-blue.json) |
@@ -11120,6 +11125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals | 203527 | [203527-animals.json](./203527-animals.json) |
 | Animals | 314287 | [314287-animals.json](./314287-animals.json) |
 | Animals & Coins | 317177 | [317177-animals-and-coins.json](./317177-animals-and-coins.json) |
+| Animals & Fairy Tales Puzzles | 254196 | [254196-animals-and-fairy-tales-puzzles.json](./254196-animals-and-fairy-tales-puzzles.json) |
 | Animals Collision | 199375 | [199375-animals-collision.json](./199375-animals-collision.json) |
 | Animals Drop | 288168 | [288168-animals-drop.json](./288168-animals-drop.json) |
 | Animals Fight | 192764 | [192764-animals-fight.json](./192764-animals-fight.json) |
