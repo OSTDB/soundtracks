@@ -1802,6 +1802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | YSFlight | 50309 | [50309-ysflight.json](./50309-ysflight.json) |
 | Ytbb | 188456 | [188456-ytbb.json](./188456-ytbb.json) |
 | YTP All-Stars | 370903 | [370903-ytp-all-stars.json](./370903-ytp-all-stars.json) |
+| Yttr | 275766 | [275766-yttr.json](./275766-yttr.json) |
 | Yttrium | 316918 | [316918-yttrium.json](./316918-yttrium.json) |
 | Yu Crossing Animals | 219037 | [219037-yu-crossing-animals.json](./219037-yu-crossing-animals.json) |
 | Yu Escape / Monday | 141467 | [141467-yu-escape-monday.json](./141467-yu-escape-monday.json) |
