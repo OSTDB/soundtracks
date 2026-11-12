@@ -4672,6 +4672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons | 201524 | [201524-seasons.json](./201524-seasons.json) |
 | Seasons | 94938 | [94938-seasons.json](./94938-seasons.json) |
 | Seasons after Fall | 15821 | [15821-seasons-after-fall.json](./15821-seasons-after-fall.json) |
+| Seasons Girls | 284532 | [284532-seasons-girls.json](./284532-seasons-girls.json) |
 | Seasons of Chiba | 351636 | [351636-seasons-of-chiba.json](./351636-seasons-of-chiba.json) |
 | Seasons of Courage | 211786 | [211786-seasons-of-courage.json](./211786-seasons-of-courage.json) |
 | Seasons of Heaven | 26300 | [26300-seasons-of-heaven.json](./26300-seasons-of-heaven.json) |
@@ -6679,6 +6680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex and the Furry Titty 3: Come Inside, Sweety | 237075 | [237075-sex-and-the-furry-titty-3-come-inside-sweety.json](./237075-sex-and-the-furry-titty-3-come-inside-sweety.json) |
 | Sex and Zombies | 228199 | [228199-sex-and-zombies.json](./228199-sex-and-zombies.json) |
 | Sex Any Cost but Free | 369144 | [369144-sex-any-cost-but-free.json](./369144-sex-any-cost-but-free.json) |
+| Sex Apartments | 284538 | [284538-sex-apartments.json](./284538-sex-apartments.json) |
 | Sex Apocalypse 3D | 219605 | [219605-sex-apocalypse-3d.json](./219605-sex-apocalypse-3d.json) |
 | Sex Battle [Interacademy! NTR Gangbang Game] | 82938 | [82938-sex-battle-interacademy-ntr-gangbang-game.json](./82938-sex-battle-interacademy-ntr-gangbang-game.json) |
 | Sex Bushes | 286553 | [286553-sex-bushes.json](./286553-sex-bushes.json) |
@@ -6686,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Campus Story 18+ | 258944 | [258944-sex-campus-story-18.json](./258944-sex-campus-story-18.json) |
 | Sex Care Magical Girl | 82799 | [82799-sex-care-magical-girl.json](./82799-sex-care-magical-girl.json) |
 | Sex Chess | 202535 | [202535-sex-chess.json](./202535-sex-chess.json) |
+| Sex City | 284537 | [284537-sex-city.json](./284537-sex-city.json) |
 | Sex City: 2069 | 259087 | [259087-sex-city-2069.json](./259087-sex-city-2069.json) |
 | Sex Clicker | 367030 | [367030-sex-clicker.json](./367030-sex-clicker.json) |
 | Sex Club Simulator | 326353 | [326353-sex-club-simulator.json](./326353-sex-club-simulator.json) |
@@ -6985,6 +6988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Valentine | 235607 | [235607-sexy-valentine.json](./235607-sexy-valentine.json) |
 | Sexy Waifu | 227518 | [227518-sexy-waifu.json](./227518-sexy-waifu.json) |
 | Sexycraft | 301657 | [301657-sexycraft.json](./301657-sexycraft.json) |
+| SexyHub | 284543 | [284543-sexyhub.json](./284543-sexyhub.json) |
 | Seyahat: A Journey to Mecca | 340603 | [340603-seyahat-a-journey-to-mecca.json](./340603-seyahat-a-journey-to-mecca.json) |
 | Seybul Tech | 264634 | [264634-seybul-tech.json](./264634-seybul-tech.json) |
 | Seyken: Crystal Kingdom | 148722 | [148722-seyken-crystal-kingdom.json](./148722-seyken-crystal-kingdom.json) |
@@ -23179,6 +23183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphereverse | 373138 | [373138-sphereverse.json](./373138-sphereverse.json) |
 | SphereZor | 84890 | [84890-spherezor.json](./84890-spherezor.json) |
 | Spheria | 83875 | [83875-spheria.json](./83875-spheria.json) |
+| Spheria's Familiar | 284524 | [284524-spherias-familiar.json](./284524-spherias-familiar.json) |
 | Spheric Bombs | 294095 | [294095-spheric-bombs.json](./294095-spheric-bombs.json) |
 | Spherical | 12771 | [12771-spherical.json](./12771-spherical.json) |
 | Spherical alliance | 166899 | [166899-spherical-alliance.json](./166899-spherical-alliance.json) |
@@ -26933,6 +26938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Skate | 334846 | [334846-stardust-skate.json](./334846-stardust-skate.json) |
 | Stardust Suplex | 38436 | [38436-stardust-suplex.json](./38436-stardust-suplex.json) |
 | Stardust the Unicorn | 316540 | [316540-stardust-the-unicorn.json](./316540-stardust-the-unicorn.json) |
+| Stardust Theater | 284555 | [284555-stardust-theater.json](./284555-stardust-theater.json) |
 | Stardust Valkyries | 215712 | [215712-stardust-valkyries.json](./215712-stardust-valkyries.json) |
 | Stardust VR | 109429 | [109429-stardust-vr.json](./109429-stardust-vr.json) |
 | StarDust: Endless | 105948 | [105948-stardust-endless.json](./105948-stardust-endless.json) |
@@ -32047,6 +32053,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukebe Orb | 409838 | [409838-sukebe-orb.json](./409838-sukebe-orb.json) |
 | Sukebooo Man | 288154 | [288154-sukebooo-man.json](./288154-sukebooo-man.json) |
 | Suki Desu Suzuki-kun: 4nin no Suzuki-kun | 206033 | [206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json](./206033-suki-desu-suzuki-kun-4nin-no-suzuki-kun.json) |
+| Suki na Mono ha Suki Dakara Shouganai!! First Limit & Target Nights Sukisho! Episode #1+ #2 | 284627 | [284627-suki-na-mono-ha-suki-dakara-shouganai-first-limit-and-target-nights-sukisho-episode-1-2.json](./284627-suki-na-mono-ha-suki-dakara-shouganai-first-limit-and-target-nights-sukisho-episode-1-2.json) |
+| Suki na Mono ha Suki Dakara Shouganai!! Rain Sukisyo Episode #3 | 284628 | [284628-suki-na-mono-ha-suki-dakara-shouganai-rain-sukisyo-episode-3.json](./284628-suki-na-mono-ha-suki-dakara-shouganai-rain-sukisyo-episode-3.json) |
 | Suki Suki Love | 365206 | [365206-suki-suki-love.json](./365206-suki-suki-love.json) |
 | Suki Tokimeki to Kiss | 344006 | [344006-suki-tokimeki-to-kiss.json](./344006-suki-tokimeki-to-kiss.json) |
 | Suki! | 92119 | [92119-suki.json](./92119-suki.json) |
