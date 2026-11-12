@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Eternea | 65281 | [65281-echoes-of-eternea.json](./65281-echoes-of-eternea.json) |
 | Echoes of Etheria | 266788 | [266788-echoes-of-etheria.json](./266788-echoes-of-etheria.json) |
 | Echoes of Exile | 311936 | [311936-echoes-of-exile.json](./311936-echoes-of-exile.json) |
+| Echoes of Extinction | 302834 | [302834-echoes-of-extinction.json](./302834-echoes-of-extinction.json) |
 | Echoes of Fear | 275738 | [275738-echoes-of-fear.json](./275738-echoes-of-fear.json) |
 | Echoes of Fear | 384155 | [384155-echoes-of-fear.json](./384155-echoes-of-fear.json) |
 | Echoes of Forgotten Dreams | 340234 | [340234-echoes-of-forgotten-dreams.json](./340234-echoes-of-forgotten-dreams.json) |
@@ -7844,7 +7845,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evocation: Beyond the Dream | 262408 | [262408-evocation-beyond-the-dream.json](./262408-evocation-beyond-the-dream.json) |
 | Evocation: Oltre il Sogno | 242533 | [242533-evocation-oltre-il-sogno.json](./242533-evocation-oltre-il-sogno.json) |
 | Evochron Alliance | 15116 | [15116-evochron-alliance.json](./15116-evochron-alliance.json) |
-| Evochron Legacy | 34560 | [34560-evochron-legacy.json](./34560-evochron-legacy.json) |
 | Evochron Legends | 15118 | [15118-evochron-legends.json](./15118-evochron-legends.json) |
 | Evochron Mobile | 188288 | [188288-evochron-mobile.json](./188288-evochron-mobile.json) |
 | Evochron Renegades | 15117 | [15117-evochron-renegades.json](./15117-evochron-renegades.json) |
