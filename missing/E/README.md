@@ -3582,6 +3582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Z | 106738 | [106738-empire-z.json](./106738-empire-z.json) |
 | Empire Z: Endless War | 87904 | [87904-empire-z-endless-war.json](./87904-empire-z-endless-war.json) |
 | Empire: Four Kingdoms | 38893 | [38893-empire-four-kingdoms.json](./38893-empire-four-kingdoms.json) |
+| Empire: Galaxy Burning | 274622 | [274622-empire-galaxy-burning.json](./274622-empire-galaxy-burning.json) |
 | Empire: Sound of the North | 311511 | [311511-empire-sound-of-the-north.json](./311511-empire-sound-of-the-north.json) |
 | Empire: Total War - Downloadable Content Collection | 77238 | [77238-empire-total-war-downloadable-content-collection.json](./77238-empire-total-war-downloadable-content-collection.json) |
 | Empire: Total War - Elite Units of America | 82084 | [82084-empire-total-war-elite-units-of-america.json](./82084-empire-total-war-elite-units-of-america.json) |
@@ -7797,6 +7798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Ritual | 171703 | [171703-evil-ritual.json](./171703-evil-ritual.json) |
 | Evil Robot Traffic Jam HD | 34407 | [34407-evil-robot-traffic-jam-hd.json](./34407-evil-robot-traffic-jam-hd.json) |
 | Evil Robots | 121556 | [121556-evil-robots.json](./121556-evil-robots.json) |
+| Evil Robots | 274633 | [274633-evil-robots.json](./274633-evil-robots.json) |
 | Evil Robots From N1M | 31844 | [31844-evil-robots-from-n1m.json](./31844-evil-robots-from-n1m.json) |
 | Evil School | 410052 | [410052-evil-school.json](./410052-evil-school.json) |
 | Evil Seal | 46449 | [46449-evil-seal.json](./46449-evil-seal.json) |
