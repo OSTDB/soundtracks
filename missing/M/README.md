@@ -538,6 +538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madcar F-1 Multiplayer | 252590 | [252590-madcar-f-1-multiplayer.json](./252590-madcar-f-1-multiplayer.json) |
 | Madcoaster | 22324 | [22324-madcoaster.json](./22324-madcoaster.json) |
 | MadCowBalls2 | 367153 | [367153-madcowballs2.json](./367153-madcowballs2.json) |
+| Madcus Show | 260370 | [260370-madcus-show.json](./260370-madcus-show.json) |
 | MaDD Bomber | 91545 | [91545-madd-bomber.json](./91545-madd-bomber.json) |
 | Madden 95 | 198807 | [198807-madden-95.json](./198807-madden-95.json) |
 | Madden Football | 131420 | [131420-madden-football.json](./131420-madden-football.json) |
@@ -2886,6 +2887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Making Lovers: Limited Edition | 166174 | [166174-making-lovers-limited-edition.json](./166174-making-lovers-limited-edition.json) |
 | Making of Conquerors | 184915 | [184915-making-of-conquerors.json](./184915-making-of-conquerors.json) |
 | Making of Nightruth II: Voice Selection | 98290 | [98290-making-of-nightruth-ii-voice-selection.json](./98290-making-of-nightruth-ii-voice-selection.json) |
+| Making people to Fight Qin | 260354 | [260354-making-people-to-fight-qin.json](./260354-making-people-to-fight-qin.json) |
 | Making Room? | 425488 | [425488-making-room.json](./425488-making-room.json) |
 | Making the Game | 256118 | [256118-making-the-game.json](./256118-making-the-game.json) |
 | Making The Leap | 285150 | [285150-making-the-leap.json](./285150-making-the-leap.json) |
@@ -9972,6 +9974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meowgic Mix | 380504 | [380504-meowgic-mix.json](./380504-meowgic-mix.json) |
 | MeowGun: Hell Denizen | 244190 | [244190-meowgun-hell-denizen.json](./244190-meowgun-hell-denizen.json) |
 | Meowhiss the Snake | 292761 | [292761-meowhiss-the-snake.json](./292761-meowhiss-the-snake.json) |
+| Meowing Point | 260358 | [260358-meowing-point.json](./260358-meowing-point.json) |
 | Meowingtons Simulator | 326384 | [326384-meowingtons-simulator.json](./326384-meowingtons-simulator.json) |
 | Meowjiro | 224909 | [224909-meowjiro.json](./224909-meowjiro.json) |
 | Meowk and Frocco | 118799 | [118799-meowk-and-frocco.json](./118799-meowk-and-frocco.json) |
@@ -16444,6 +16447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monarchies.io | 183415 | [183415-monarchies-io.json](./183415-monarchies-io.json) |
 | Monarchs at Play | 381206 | [381206-monarchs-at-play.json](./381206-monarchs-at-play.json) |
 | Monarchs Dawn | 145146 | [145146-monarchs-dawn.json](./145146-monarchs-dawn.json) |
+| Monarchy | 260435 | [260435-monarchy.json](./260435-monarchy.json) |
 | Monari Station | 395567 | [395567-monari-station.json](./395567-monari-station.json) |
 | Monark | 151159 | [151159-monark.json](./151159-monark.json) |
 | Monark: Deluxe Edition | 153017 | [153017-monark-deluxe-edition.json](./153017-monark-deluxe-edition.json) |
@@ -23947,6 +23951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth of Mirka | 209670 | [209670-myth-of-mirka.json](./209670-myth-of-mirka.json) |
 | Myth of Mist: Legacy | 167766 | [167766-myth-of-mist-legacy.json](./167766-myth-of-mist-legacy.json) |
 | Myth of Slayer | 358599 | [358599-myth-of-slayer.json](./358599-myth-of-slayer.json) |
+| Myth of the Moirai | 260428 | [260428-myth-of-the-moirai.json](./260428-myth-of-the-moirai.json) |
 | Myth of Valderit | 386842 | [386842-myth-of-valderit.json](./386842-myth-of-valderit.json) |
 | Myth of Yggdrasil | 383741 | [383741-myth-of-yggdrasil.json](./383741-myth-of-yggdrasil.json) |
 | Myth or Reality: Mystery of the Lake - Collector's Edition | 265794 | [265794-myth-or-reality-mystery-of-the-lake-collectors-edition.json](./265794-myth-or-reality-mystery-of-the-lake-collectors-edition.json) |
