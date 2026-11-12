@@ -743,7 +743,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taimanin RPG Extasy | 274890 | [274890-taimanin-rpg-extasy.json](./274890-taimanin-rpg-extasy.json) |
 | Taimanin Squad | 382371 | [382371-taimanin-squad.json](./382371-taimanin-squad.json) |
 | Taimanin Yukikaze | 292222 | [292222-taimanin-yukikaze.json](./292222-taimanin-yukikaze.json) |
-| Taimumari | 35090 | [35090-taimumari.json](./35090-taimumari.json) |
 | Taimumari: Complete Edition | 121522 | [121522-taimumari-complete-edition.json](./121522-taimumari-complete-edition.json) |
 | Taimumari: Sweet Legend | 174169 | [174169-taimumari-sweet-legend.json](./174169-taimumari-sweet-legend.json) |
 | Tainá | 283614 | [283614-taina.json](./283614-taina.json) |
