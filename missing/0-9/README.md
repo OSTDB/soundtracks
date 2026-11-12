@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1080 Snowboarding 2 | 176039 | [176039-1080-snowboarding-2.json](./176039-1080-snowboarding-2.json) |
 | 1080° Avalanche | 3774 | [3774-1080-avalanche.json](./3774-1080-avalanche.json) |
 | 1080° Snowboarding | 3328 | [3328-1080-snowboarding.json](./3328-1080-snowboarding.json) |
+| 1080p | 288397 | [288397-1080p.json](./288397-1080p.json) |
 | 109 Remastered | 173962 | [173962-109-remastered.json](./173962-109-remastered.json) |
 | 10Battle | 230219 | [230219-10battle.json](./230219-10battle.json) |
 | 10hit | 357179 | [357179-10hit.json](./357179-10hit.json) |
@@ -1379,6 +1380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 17 MPH | 377922 | [377922-17-mph.json](./377922-17-mph.json) |
 | 17 Seconds VR | 374234 | [374234-17-seconds-vr.json](./374234-17-seconds-vr.json) |
 | 17 Ways To Not Die (Or Not, IDK): Interactive Movie | 349200 | [349200-17-ways-to-not-die-or-not-idk-interactive-movie.json](./349200-17-ways-to-not-die-or-not-idk-interactive-movie.json) |
+| 17.waves | 288401 | [288401-17-waves.json](./288401-17-waves.json) |
 | 171 | 136712 | [136712-171.json](./136712-171.json) |
 | 177 | 8562 | [8562-177.json](./8562-177.json) |
 | 1775: Rebellion | 34000 | [34000-1775-rebellion.json](./34000-1775-rebellion.json) |
@@ -2022,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 240p Test Suite | 292078 | [292078-240p-test-suite.json](./292078-240p-test-suite.json) |
 | 2448: Block Puzzle Number Game | 331387 | [331387-2448-block-puzzle-number-game.json](./331387-2448-block-puzzle-number-game.json) |
 | 248 Scribble | 355143 | [355143-248-scribble.json](./355143-248-scribble.json) |
+| 24H Stories: Midnight Channel | 288400 | [288400-24h-stories-midnight-channel.json](./288400-24h-stories-midnight-channel.json) |
 | 24H Stories: The Blackout | 276706 | [276706-24h-stories-the-blackout.json](./276706-24h-stories-the-blackout.json) |
 | 24H Stories: The Cabin In The Forest | 308942 | [308942-24h-stories-the-cabin-in-the-forest.json](./308942-24h-stories-the-cabin-in-the-forest.json) |
 | 24H Stories: The Rule 7 | 283077 | [283077-24h-stories-the-rule-7.json](./283077-24h-stories-the-rule-7.json) |
@@ -2089,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2D Top Racing | 304445 | [304445-2d-top-racing.json](./304445-2d-top-racing.json) |
 | 2D Ver. Mega Man Legends 3: The Prologue! | 394414 | [394414-2d-ver-mega-man-legends-3-the-prologue.json](./394414-2d-ver-mega-man-legends-3-the-prologue.json) |
 | 2D Zombie Survival | 115044 | [115044-2d-zombie-survival.json](./115044-2d-zombie-survival.json) |
+| 2D?! | 288399 | [288399-2d.json](./288399-2d.json) |
 | 2Dark | 26847 | [26847-2dark.json](./26847-2dark.json) |
 | 2Dark: Deluxe Edition | 52545 | [52545-2dark-deluxe-edition.json](./52545-2dark-deluxe-edition.json) |
 | 2Deez | 349772 | [349772-2deez.json](./349772-2deez.json) |
@@ -2317,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Days Another | 216778 | [216778-30-days-another.json](./216778-30-days-another.json) |
 | 30 Days in Red Army | 204425 | [204425-30-days-in-red-army.json](./204425-30-days-in-red-army.json) |
 | 30 Days of Tower | 290955 | [290955-30-days-of-tower.json](./290955-30-days-of-tower.json) |
+| 30 Days on Ship | 288402 | [288402-30-days-on-ship.json](./288402-30-days-on-ship.json) |
 | 30 Days to be the Best | 211389 | [211389-30-days-to-be-the-best.json](./211389-30-days-to-be-the-best.json) |
 | 30 days to Defence | 126267 | [126267-30-days-to-defence.json](./126267-30-days-to-defence.json) |
 | 30 Days to Survive | 89775 | [89775-30-days-to-survive.json](./89775-30-days-to-survive.json) |
