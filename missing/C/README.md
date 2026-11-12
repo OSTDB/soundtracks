@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calypso | 140021 | [140021-calypso.json](./140021-calypso.json) |
 | Calypso's Calamity | 319243 | [319243-calypsos-calamity.json](./319243-calypsos-calamity.json) |
 | Calyx | 331102 | [331102-calyx.json](./331102-calyx.json) |
+| Cam | 310224 | [310224-cam.json](./310224-cam.json) |
 | Cam Master: Private Desires | 417205 | [417205-cam-master-private-desires.json](./417205-cam-master-private-desires.json) |
 | Cam Op Simulator | 326465 | [326465-cam-op-simulator.json](./326465-cam-op-simulator.json) |
 | Cam Quest | 380689 | [380689-cam-quest.json](./380689-cam-quest.json) |
@@ -2997,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caribbean Legend: Age of Pirates | 377894 | [377894-caribbean-legend-age-of-pirates.json](./377894-caribbean-legend-age-of-pirates.json) |
 | Caribbean Legend: Vile Little God | 337043 | [337043-caribbean-legend-vile-little-god.json](./337043-caribbean-legend-vile-little-god.json) |
 | Caribbean Odyssey | 34132 | [34132-caribbean-odyssey.json](./34132-caribbean-odyssey.json) |
+| Caribbean Pirates | 310236 | [310236-caribbean-pirates.json](./310236-caribbean-pirates.json) |
 | Caribbean Rhythms Lite | 232151 | [232151-caribbean-rhythms-lite.json](./232151-caribbean-rhythms-lite.json) |
 | Caribbean Sea Fishes | 25503 | [25503-caribbean-sea-fishes.json](./25503-caribbean-sea-fishes.json) |
 | Caribbean Stud | 246378 | [246378-caribbean-stud.json](./246378-caribbean-stud.json) |
@@ -3195,6 +3197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpet Shark | 214513 | [214513-carpet-shark.json](./214513-carpet-shark.json) |
 | Carpieces | 369127 | [369127-carpieces.json](./369127-carpieces.json) |
 | Carpocalypse | 179123 | [179123-carpocalypse.json](./179123-carpocalypse.json) |
+| Carpocalypse RC Racing | 309774 | [309774-carpocalypse-rc-racing.json](./309774-carpocalypse-rc-racing.json) |
 | Carpool: Attack of the Disco Mob | 361002 | [361002-carpool-attack-of-the-disco-mob.json](./361002-carpool-attack-of-the-disco-mob.json) |
 | Carpoon | 172515 | [172515-carpoon.json](./172515-carpoon.json) |
 | Carprogram | 273379 | [273379-carprogram.json](./273379-carprogram.json) |
@@ -12372,6 +12375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffin Valley | 400210 | [400210-coffin-valley.json](./400210-coffin-valley.json) |
 | Coffinman | 337463 | [337463-coffinman.json](./337463-coffinman.json) |
 | Cog Fire | 291483 | [291483-cog-fire.json](./291483-cog-fire.json) |
+| Cog Foo | 310234 | [310234-cog-foo.json](./310234-cog-foo.json) |
 | Cog Hero | 251733 | [251733-cog-hero.json](./251733-cog-hero.json) |
 | Cog Owl | 211281 | [211281-cog-owl.json](./211281-cog-owl.json) |
 | COG: Back to the 80s | 192928 | [192928-cog-back-to-the-80s.json](./192928-cog-back-to-the-80s.json) |
