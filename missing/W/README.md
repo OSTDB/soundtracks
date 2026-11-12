@@ -5892,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildWaters | 47735 | [47735-wildwaters.json](./47735-wildwaters.json) |
 | Wildwood | 171855 | [171855-wildwood.json](./171855-wildwood.json) |
 | Wildwood | 279754 | [279754-wildwood.json](./279754-wildwood.json) |
+| Wildwood Divas | 259805 | [259805-wildwood-divas.json](./259805-wildwood-divas.json) |
 | Wildwood Down | 264519 | [264519-wildwood-down.json](./264519-wildwood-down.json) |
 | Wildwood: A Town Building Game | 238814 | [238814-wildwood-a-town-building-game.json](./238814-wildwood-a-town-building-game.json) |
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
@@ -6048,6 +6049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Win Over the Flawed Girl | 248102 | [248102-win-over-the-flawed-girl.json](./248102-win-over-the-flawed-girl.json) |
 | Win That War! | 29347 | [29347-win-that-war.json](./29347-win-that-war.json) |
 | Win the Diamond | 220839 | [220839-win-the-diamond.json](./220839-win-the-diamond.json) |
+| Win The Game | 259773 | [259773-win-the-game.json](./259773-win-the-game.json) |
 | Win the Game: Do It! | 96648 | [96648-win-the-game-do-it.json](./96648-win-the-game-do-it.json) |
 | Win the Game! | 96197 | [96197-win-the-game.json](./96197-win-the-game.json) |
 | Win the White House | 207837 | [207837-win-the-white-house.json](./207837-win-the-white-house.json) |
@@ -7222,6 +7224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard Hand | 338652 | [338652-wizard-hand.json](./338652-wizard-hand.json) |
 | Wizard Hangover ExtreamZz!! | 327766 | [327766-wizard-hangover-extreamzz.json](./327766-wizard-hangover-extreamzz.json) |
 | Wizard Harder or Get Laid Off | 420973 | [420973-wizard-harder-or-get-laid-off.json](./420973-wizard-harder-or-get-laid-off.json) |
+| Wizard Heist | 259801 | [259801-wizard-heist.json](./259801-wizard-heist.json) |
 | Wizard Hentai Survivors | 233782 | [233782-wizard-hentai-survivors.json](./233782-wizard-hentai-survivors.json) |
 | Wizard Hult | 409893 | [409893-wizard-hult.json](./409893-wizard-hult.json) |
 | Wizard Hunter 2348 | 55743 | [55743-wizard-hunter-2348.json](./55743-wizard-hunter-2348.json) |
