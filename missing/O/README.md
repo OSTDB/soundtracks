@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Sea | 147063 | [147063-once-upon-a-sea.json](./147063-once-upon-a-sea.json) |
 | Once Upon a Shell | 383151 | [383151-once-upon-a-shell.json](./383151-once-upon-a-shell.json) |
 | Once Upon A Siege | 224765 | [224765-once-upon-a-siege.json](./224765-once-upon-a-siege.json) |
+| Once Upon a Slime | 251873 | [251873-once-upon-a-slime.json](./251873-once-upon-a-slime.json) |
 | Once Upon a Spirit | 354000 | [354000-once-upon-a-spirit.json](./354000-once-upon-a-spirit.json) |
 | Once Upon a Swagman | 423248 | [423248-once-upon-a-swagman.json](./423248-once-upon-a-swagman.json) |
 | Once upon a Thai: Learn Thai | 214755 | [214755-once-upon-a-thai-learn-thai.json](./214755-once-upon-a-thai-learn-thai.json) |
