@@ -1617,6 +1617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oldage | 72353 | [72353-oldage.json](./72353-oldage.json) |
 | Oldage: Tactics Online | 74823 | [74823-oldage-tactics-online.json](./74823-oldage-tactics-online.json) |
 | OldBerserker | 180760 | [180760-oldberserker.json](./180760-oldberserker.json) |
+| OldbI tyt? | 286796 | [286796-oldbi-tyt.json](./286796-oldbi-tyt.json) |
 | OldComputerArchive.zip | 183178 | [183178-oldcomputerarchive-zip.json](./183178-oldcomputerarchive-zip.json) |
 | Olden Peak | 272654 | [272654-olden-peak.json](./272654-olden-peak.json) |
 | Olden War | 261994 | [261994-olden-war.json](./261994-olden-war.json) |
@@ -3833,6 +3834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation: Escape | 367768 | [367768-operation-escape.json](./367768-operation-escape.json) |
 | Operation: Forge the Deep | 216610 | [216610-operation-forge-the-deep.json](./216610-operation-forge-the-deep.json) |
 | Operation: Get Bike Back | 270705 | [270705-operation-get-bike-back.json](./270705-operation-get-bike-back.json) |
+| Operation: Global Shield | 286702 | [286702-operation-global-shield.json](./286702-operation-global-shield.json) |
 | Operation: Harsh Doorstop | 137280 | [137280-operation-harsh-doorstop.json](./137280-operation-harsh-doorstop.json) |
 | Operation: Hostage Rescue | 337987 | [337987-operation-hostage-rescue.json](./337987-operation-hostage-rescue.json) |
 | Operation: Hostage Rescue - Close Quarters Combat | 208989 | [208989-operation-hostage-rescue-close-quarters-combat.json](./208989-operation-hostage-rescue-close-quarters-combat.json) |
