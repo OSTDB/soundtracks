@@ -5990,6 +5990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phineas and Ferb: New Inventions | 17743 | [17743-phineas-and-ferb-new-inventions.json](./17743-phineas-and-ferb-new-inventions.json) |
 | Phineas and Ferb: Quest for Cool Stuff | 5318 | [5318-phineas-and-ferb-quest-for-cool-stuff.json](./5318-phineas-and-ferb-quest-for-cool-stuff.json) |
 | Phineas and Ferb: The Movie Game - The Dimension of Doooom! | 395843 | [395843-phineas-and-ferb-the-movie-game-the-dimension-of-doooom.json](./395843-phineas-and-ferb-the-movie-game-the-dimension-of-doooom.json) |
+| Phive Nights At Pico's | 287365 | [287365-phive-nights-at-picos.json](./287365-phive-nights-at-picos.json) |
 | Phix: The Adventure | 46086 | [46086-phix-the-adventure.json](./46086-phix-the-adventure.json) |
 | Phlegethon | 187520 | [187520-phlegethon.json](./187520-phlegethon.json) |
 | Phlinx II | 354986 | [354986-phlinx-ii.json](./354986-phlinx-ii.json) |
@@ -14412,6 +14413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Blade | 48079 | [48079-power-blade.json](./48079-power-blade.json) |
 | Power Blazer | 48568 | [48568-power-blazer.json](./48568-power-blazer.json) |
 | Power Block | 130286 | [130286-power-block.json](./130286-power-block.json) |
+| Power Block | 287293 | [287293-power-block.json](./287293-power-block.json) |
 | Power Bomberman | 141044 | [141044-power-bomberman.json](./141044-power-bomberman.json) |
 | Power Box | 407884 | [407884-power-box.json](./407884-power-box.json) |
 | Power Brain Trainer | 118760 | [118760-power-brain-trainer.json](./118760-power-brain-trainer.json) |
