@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Salzaar: Land of the Eclipse | 279528 | [279528-sands-of-salzaar-land-of-the-eclipse.json](./279528-sands-of-salzaar-land-of-the-eclipse.json) |
 | Sands of Salzaar: The Ember Saga | 252506 | [252506-sands-of-salzaar-the-ember-saga.json](./252506-sands-of-salzaar-the-ember-saga.json) |
 | Sands of Salzaar: The Tournament | 231292 | [231292-sands-of-salzaar-the-tournament.json](./231292-sands-of-salzaar-the-tournament.json) |
+| Sands of Skullcreek | 266455 | [266455-sands-of-skullcreek.json](./266455-sands-of-skullcreek.json) |
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
 | Sands of Sodis | 231380 | [231380-sands-of-sodis.json](./231380-sands-of-sodis.json) |
 | Sands of Solaris | 255490 | [255490-sands-of-solaris.json](./255490-sands-of-solaris.json) |
@@ -29562,6 +29563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm United | 36153 | [36153-storm-united.json](./36153-storm-united.json) |
 | Storm VR | 33175 | [33175-storm-vr.json](./33175-storm-vr.json) |
 | Storm Warfare | 248832 | [248832-storm-warfare.json](./248832-storm-warfare.json) |
+| Storm Warrior | 266374 | [266374-storm-warrior.json](./266374-storm-warrior.json) |
 | Storm Wars | 56482 | [56482-storm-wars.json](./56482-storm-wars.json) |
 | Storm Wars CCG | 26236 | [26236-storm-wars-ccg.json](./26236-storm-wars-ccg.json) |
 | Storm Wings | 336320 | [336320-storm-wings.json](./336320-storm-wings.json) |
@@ -32509,6 +32511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo Slam | 372422 | [372422-sumo-slam.json](./372422-sumo-slam.json) |
 | Sumo Smashdown | 177246 | [177246-sumo-smashdown.json](./177246-sumo-smashdown.json) |
 | Sumo Stuntmen 7 | 189987 | [189987-sumo-stuntmen-7.json](./189987-sumo-stuntmen-7.json) |
+| Sumo Tanks | 266458 | [266458-sumo-tanks.json](./266458-sumo-tanks.json) |
 | Sumo Tatami | 274893 | [274893-sumo-tatami.json](./274893-sumo-tatami.json) |
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
 | Sumomo Theatre | 254872 | [254872-sumomo-theatre.json](./254872-sumomo-theatre.json) |
@@ -37299,6 +37302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivors Gate | 390865 | [390865-survivors-gate.json](./390865-survivors-gate.json) |
 | Survivors Guild | 389352 | [389352-survivors-guild.json](./389352-survivors-guild.json) |
 | Survivors in Blood | 296532 | [296532-survivors-in-blood.json](./296532-survivors-in-blood.json) |
+| Survivors Last Stand | 266464 | [266464-survivors-last-stand.json](./266464-survivors-last-stand.json) |
 | Survivors Left: X | 124177 | [124177-survivors-left-x.json](./124177-survivors-left-x.json) |
 | Survivors of Journey to the West: Bald Guy vs Wukong | 310058 | [310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json](./310058-survivors-of-journey-to-the-west-bald-guy-vs-wukong.json) |
 | Survivors of Mayhem | 274036 | [274036-survivors-of-mayhem.json](./274036-survivors-of-mayhem.json) |
