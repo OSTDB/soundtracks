@@ -6753,6 +6753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Queen IV: Varcia Senki | 152384 | [152384-first-queen-iv-varcia-senki.json](./152384-first-queen-iv-varcia-senki.json) |
 | First Racer | 158822 | [158822-first-racer.json](./158822-first-racer.json) |
 | First Report: Unreal | 236106 | [236106-first-report-unreal.json](./236106-first-report-unreal.json) |
+| First Responder Simulation Bundle: Police Firefighting | 294885 | [294885-first-responder-simulation-bundle-police-firefighting.json](./294885-first-responder-simulation-bundle-police-firefighting.json) |
 | First Responder VR | 241516 | [241516-first-responder-vr.json](./241516-first-responder-vr.json) |
 | First Response | 150831 | [150831-first-response.json](./150831-first-response.json) |
 | First Samurai | 71214 | [71214-first-samurai.json](./71214-first-samurai.json) |
@@ -9699,6 +9700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Truck Chef: Full Course Edition | 386673 | [386673-food-truck-chef-full-course-edition.json](./386673-food-truck-chef-full-course-edition.json) |
 | Food Truck Empire | 194743 | [194743-food-truck-empire.json](./194743-food-truck-empire.json) |
 | Food Truck Monopoly | 348875 | [348875-food-truck-monopoly.json](./348875-food-truck-monopoly.json) |
+| Food Truck Pup: Cooking Chef | 294630 | [294630-food-truck-pup-cooking-chef.json](./294630-food-truck-pup-cooking-chef.json) |
 | Food Truck Rush | 109237 | [109237-food-truck-rush.json](./109237-food-truck-rush.json) |
 | Food Truck Shop Simulator | 350537 | [350537-food-truck-shop-simulator.json](./350537-food-truck-shop-simulator.json) |
 | Food Truck Simulator | 129109 | [129109-food-truck-simulator.json](./129109-food-truck-simulator.json) |
