@@ -11035,6 +11035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plutonia 3: Going to Surface | 260951 | [260951-plutonia-3-going-to-surface.json](./260951-plutonia-3-going-to-surface.json) |
 | Plutonia 4: Back to Your Hole | 260952 | [260952-plutonia-4-back-to-your-hole.json](./260952-plutonia-4-back-to-your-hole.json) |
 | Plutonia 7: Going to the Hell | 260953 | [260953-plutonia-7-going-to-the-hell.json](./260953-plutonia-7-going-to-the-hell.json) |
+| Plutonia Revisited Community Project 2 | 259223 | [259223-plutonia-revisited-community-project-2.json](./259223-plutonia-revisited-community-project-2.json) |
 | Plutonia: Revisited Community Project | 138167 | [138167-plutonia-revisited-community-project.json](./138167-plutonia-revisited-community-project.json) |
 | Plutonian Sunrise | 257142 | [257142-plutonian-sunrise.json](./257142-plutonian-sunrise.json) |
 | Plutonic Visions | 308072 | [308072-plutonic-visions.json](./308072-plutonic-visions.json) |
@@ -11498,6 +11499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point | 290375 | [290375-point.json](./290375-point.json) |
 | Point | 97929 | [97929-point.json](./97929-point.json) |
 | Point & Sin | 184843 | [184843-point-and-sin.json](./184843-point-and-sin.json) |
+| Point 236 | 259218 | [259218-point-236.json](./259218-point-236.json) |
 | Point Blank | 13899 | [13899-point-blank.json](./13899-point-blank.json) |
 | Point Blank | 74859 | [74859-point-blank.json](./74859-point-blank.json) |
 | Point Blank 2 | 40988 | [40988-point-blank-2.json](./40988-point-blank-2.json) |
@@ -12487,6 +12489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Void | 199996 | [199996-pokemon-void.json](./199996-pokemon-void.json) |
 | Pokémon Volt White | 226415 | [226415-pokemon-volt-white.json](./226415-pokemon-volt-white.json) |
 | Pokémon Volt White 2 | 261895 | [261895-pokemon-volt-white-2.json](./261895-pokemon-volt-white-2.json) |
+| Pokémon Volt White 2 Redux | 259198 | [259198-pokemon-volt-white-2-redux.json](./259198-pokemon-volt-white-2-redux.json) |
 | Pokémon Wack | 146556 | [146556-pokemon-wack.json](./146556-pokemon-wack.json) |
 | Pokémon Water Red | 221411 | [221411-pokemon-water-red.json](./221411-pokemon-water-red.json) |
 | Pokémon Wave Hello | 328965 | [328965-pokemon-wave-hello.json](./328965-pokemon-wave-hello.json) |
