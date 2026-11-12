@@ -6698,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex Education | 322714 | [322714-sex-education.json](./322714-sex-education.json) |
 | Sex Empire: Episode 1 | 368533 | [368533-sex-empire-episode-1.json](./368533-sex-empire-episode-1.json) |
 | Sex Escape: Ecstasies of Two | 83169 | [83169-sex-escape-ecstasies-of-two.json](./83169-sex-escape-ecstasies-of-two.json) |
+| Sex Feets | 289516 | [289516-sex-feets.json](./289516-sex-feets.json) |
 | Sex Game - BDSM - Episode 1 | 382157 | [382157-sex-game-bdsm-episode-1.json](./382157-sex-game-bdsm-episode-1.json) |
 | Sex Game - BDSM - Episode 3 | 382155 | [382155-sex-game-bdsm-episode-3.json](./382155-sex-game-bdsm-episode-3.json) |
 | Sex Game - BDSM - Episode 4 | 382395 | [382395-sex-game-bdsm-episode-4.json](./382395-sex-game-bdsm-episode-4.json) |
@@ -9196,11 +9197,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi | 10219 | [10219-shinobi.json](./10219-shinobi.json) |
 | Shinobi | 198618 | [198618-shinobi.json](./198618-shinobi.json) |
 | Shinobi | 213084 | [213084-shinobi.json](./213084-shinobi.json) |
+| Shinobi | 289488 | [289488-shinobi.json](./289488-shinobi.json) |
 | Shinobi | 307860 | [307860-shinobi.json](./307860-shinobi.json) |
 | Shinobi | 309488 | [309488-shinobi.json](./309488-shinobi.json) |
 | Shinobi | 339235 | [339235-shinobi.json](./339235-shinobi.json) |
 | Shinobi | 364751 | [364751-shinobi.json](./364751-shinobi.json) |
 | Shinobi | 6899 | [6899-shinobi.json](./6899-shinobi.json) |
+| Shinobi 2: Phantom Ninja | 289489 | [289489-shinobi-2-phantom-ninja.json](./289489-shinobi-2-phantom-ninja.json) |
 | Shinobi Blade | 147666 | [147666-shinobi-blade.json](./147666-shinobi-blade.json) |
 | Shinobi Breaker | 169844 | [169844-shinobi-breaker.json](./169844-shinobi-breaker.json) |
 | Shinobi Harisenbo | 242045 | [242045-shinobi-harisenbo.json](./242045-shinobi-harisenbo.json) |
@@ -16823,6 +16826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnowRunner: Premium Edition | 130266 | [130266-snowrunner-premium-edition.json](./130266-snowrunner-premium-edition.json) |
 | SnowRunner: Rezvani Hercules | 221694 | [221694-snowrunner-rezvani-hercules.json](./221694-snowrunner-rezvani-hercules.json) |
 | SnowRunner: Rezvani Tank | 361882 | [361882-snowrunner-rezvani-tank.json](./361882-snowrunner-rezvani-tank.json) |
+| SnowRunner: Salt of the Earth Vinyl Wrap Pack | 289497 | [289497-snowrunner-salt-of-the-earth-vinyl-wrap-pack.json](./289497-snowrunner-salt-of-the-earth-vinyl-wrap-pack.json) |
 | SnowRunner: Save the Day Vinyl Wrap Pack | 230830 | [230830-snowrunner-save-the-day-vinyl-wrap-pack.json](./230830-snowrunner-save-the-day-vinyl-wrap-pack.json) |
 | SnowRunner: Scorched Vinyl Wrap | 148152 | [148152-snowrunner-scorched-vinyl-wrap.json](./148152-snowrunner-scorched-vinyl-wrap.json) |
 | SnowRunner: Season 1 - Search & Recover | 145485 | [145485-snowrunner-season-1-search-and-recover.json](./145485-snowrunner-season-1-search-and-recover.json) |
