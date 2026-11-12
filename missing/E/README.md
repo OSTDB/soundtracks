@@ -2851,6 +2851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Hacker: Retro Hacking Evolution | 316569 | [316569-elite-hacker-retro-hacking-evolution.json](./316569-elite-hacker-retro-hacking-evolution.json) |
 | Elite Heli Squad | 53995 | [53995-elite-heli-squad.json](./53995-elite-heli-squad.json) |
 | Elite Mastermind | 175500 | [175500-elite-mastermind.json](./175500-elite-mastermind.json) |
+| Elite of Conquerors | 278027 | [278027-elite-of-conquerors.json](./278027-elite-of-conquerors.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Elite Rogue | 258044 | [258044-elite-rogue.json](./258044-elite-rogue.json) |
 | Elite Shooter: Sniper Killer | 175696 | [175696-elite-shooter-sniper-killer.json](./175696-elite-shooter-sniper-killer.json) |
