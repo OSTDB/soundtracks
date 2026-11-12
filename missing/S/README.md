@@ -5021,6 +5021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of Soil | 148738 | [148738-secrets-of-soil.json](./148738-secrets-of-soil.json) |
 | Secrets of Tatjana | 45885 | [45885-secrets-of-tatjana.json](./45885-secrets-of-tatjana.json) |
 | Secrets of Temple Isle | 216847 | [216847-secrets-of-temple-isle.json](./216847-secrets-of-temple-isle.json) |
+| Secrets of the Acropolis | 271978 | [271978-secrets-of-the-acropolis.json](./271978-secrets-of-the-acropolis.json) |
 | Secrets of the Ark: A Broken Sword Game | 1152 | [1152-secrets-of-the-ark-a-broken-sword-game.json](./1152-secrets-of-the-ark-a-broken-sword-game.json) |
 | Secrets of the Burrow: Vixoria's Quest | 372135 | [372135-secrets-of-the-burrow-vixorias-quest.json](./372135-secrets-of-the-burrow-vixorias-quest.json) |
 | Secrets of the Dark: Eclipse Mountain | 313380 | [313380-secrets-of-the-dark-eclipse-mountain.json](./313380-secrets-of-the-dark-eclipse-mountain.json) |
@@ -5135,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Security Guard Sex: Episode 2 | 301649 | [301649-security-guard-sex-episode-2.json](./301649-security-guard-sex-episode-2.json) |
 | Security Guard Sex: Episode 3 | 312000 | [312000-security-guard-sex-episode-3.json](./312000-security-guard-sex-episode-3.json) |
 | Security Guard Sex: Episode 6 | 371064 | [371064-security-guard-sex-episode-6.json](./371064-security-guard-sex-episode-6.json) |
+| Security Guy | 271882 | [271882-security-guy.json](./271882-security-guy.json) |
 | Security Guy vs. AI: The Dawn of AI | 157374 | [157374-security-guy-vs-ai-the-dawn-of-ai.json](./157374-security-guy-vs-ai-the-dawn-of-ai.json) |
 | Security Simulator: Nightshift | 312434 | [312434-security-simulator-nightshift.json](./312434-security-simulator-nightshift.json) |
 | Security: The Horrible Nights | 298319 | [298319-security-the-horrible-nights.json](./298319-security-the-horrible-nights.json) |
@@ -6898,6 +6900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex, Love & Girls | 235689 | [235689-sex-love-and-girls.json](./235689-sex-love-and-girls.json) |
 | Sex, Sin & Rock'N'Roll | 404632 | [404632-sex-sin-and-rocknroll.json](./404632-sex-sin-and-rocknroll.json) |
 | Sex, Stocks & Cocks | 301653 | [301653-sex-stocks-and-cocks.json](./301653-sex-stocks-and-cocks.json) |
+| Sex! At Alexanderplatz | 271971 | [271971-sex-at-alexanderplatz.json](./271971-sex-at-alexanderplatz.json) |
 | Sexaginta Quattuordle | 249700 | [249700-sexaginta-quattuordle.json](./249700-sexaginta-quattuordle.json) |
 | Sexamaid Maika | 98065 | [98065-sexamaid-maika.json](./98065-sexamaid-maika.json) |
 | Sexbot | 277364 | [277364-sexbot.json](./277364-sexbot.json) |
@@ -10075,6 +10078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Fuse | 120476 | [120476-short-fuse.json](./120476-short-fuse.json) |
 | Short Fuse | 296804 | [296804-short-fuse.json](./296804-short-fuse.json) |
 | Short Fuse | 412068 | [412068-short-fuse.json](./412068-short-fuse.json) |
+| Short Haired Girls | 271876 | [271876-short-haired-girls.json](./271876-short-haired-girls.json) |
 | Short Hop Laser | 172976 | [172976-short-hop-laser.json](./172976-short-hop-laser.json) |
 | Short Life | 108798 | [108798-short-life.json](./108798-short-life.json) |
 | Short Maps for Short People | 281356 | [281356-short-maps-for-short-people.json](./281356-short-maps-for-short-people.json) |
