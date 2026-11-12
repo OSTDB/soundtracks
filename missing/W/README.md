@@ -6983,6 +6983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witchfiend / Odd Job Eddie | 92845 | [92845-witchfiend-odd-job-eddie.json](./92845-witchfiend-odd-job-eddie.json) |
 | Witchfire | 76880 | [76880-witchfire.json](./76880-witchfire.json) |
 | WitchGhost | 284837 | [284837-witchghost.json](./284837-witchghost.json) |
+| Witchhammer | 276990 | [276990-witchhammer.json](./276990-witchhammer.json) |
 | WitchHand | 258057 | [258057-witchhand.json](./258057-witchhand.json) |
 | Witchhazel Woods | 207582 | [207582-witchhazel-woods.json](./207582-witchhazel-woods.json) |
 | Witchhunter.exe | 394982 | [394982-witchhunter-exe.json](./394982-witchhunter-exe.json) |
