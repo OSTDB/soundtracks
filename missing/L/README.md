@@ -2149,6 +2149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LazyTown: Festival | 271372 | [271372-lazytown-festival.json](./271372-lazytown-festival.json) |
 | LazyTown: Ziggy's Challenge | 74798 | [74798-lazytown-ziggys-challenge.json](./74798-lazytown-ziggys-challenge.json) |
 | LBreakout2 | 275915 | [275915-lbreakout2.json](./275915-lbreakout2.json) |
+| LBreakoutHD | 275785 | [275785-lbreakouthd.json](./275785-lbreakouthd.json) |
 | LBX: Little Battlers eXperience | 11257 | [11257-lbx-little-battlers-experience.json](./11257-lbx-little-battlers-experience.json) |
 | LCD Dem | 139815 | [139815-lcd-dem.json](./139815-lcd-dem.json) |
 | LCD Dream Escalator | 180784 | [180784-lcd-dream-escalator.json](./180784-lcd-dream-escalator.json) |
@@ -5374,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like A Dino! | 212495 | [212495-like-a-dino.json](./212495-like-a-dino.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name | 217624 | [217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json](./217624-like-a-dragon-gaiden-the-man-who-erased-his-name.json) |
 | Like a Dragon Gaiden: The Man Who Erased His Name - Deluxe Edition | 275808 | [275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json](./275808-like-a-dragon-gaiden-the-man-who-erased-his-name-deluxe-edition.json) |
+| Like a Dragon Gaiden: The Man Who Erased His Name - Legendary Fighter Pack | 275762 | [275762-like-a-dragon-gaiden-the-man-who-erased-his-name-legendary-fighter-pack.json](./275762-like-a-dragon-gaiden-the-man-who-erased-his-name-legendary-fighter-pack.json) |
 | Like a Dragon Series Starter Pack | 311046 | [311046-like-a-dragon-series-starter-pack.json](./311046-like-a-dragon-series-starter-pack.json) |
 | Like a Dragon: Infinite Wealth - Assorted Outfit Bundle | 288216 | [288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json](./288216-like-a-dragon-infinite-wealth-assorted-outfit-bundle.json) |
 | Like a Dragon: Infinite Wealth - Deluxe Edition | 284856 | [284856-like-a-dragon-infinite-wealth-deluxe-edition.json](./284856-like-a-dragon-infinite-wealth-deluxe-edition.json) |
