@@ -11284,6 +11284,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Michael Gower's Zombie Hill | 70855 | [70855-michael-gowers-zombie-hill.json](./70855-michael-gowers-zombie-hill.json) |
 | Michael Jackson in Scramble Training | 233982 | [233982-michael-jackson-in-scramble-training.json](./233982-michael-jackson-in-scramble-training.json) |
 | Michael Jackson: Baby Drop | 320979 | [320979-michael-jackson-baby-drop.json](./320979-michael-jackson-baby-drop.json) |
+| Michael Jackson: The Experience | 301726 | [301726-michael-jackson-the-experience.json](./301726-michael-jackson-the-experience.json) |
+| Michael Jackson: The Experience | 301727 | [301727-michael-jackson-the-experience.json](./301727-michael-jackson-the-experience.json) |
 | Michael Jackson: The Experience | 5006 | [5006-michael-jackson-the-experience.json](./5006-michael-jackson-the-experience.json) |
 | Michael Jackson: The Experience 3D | 85288 | [85288-michael-jackson-the-experience-3d.json](./85288-michael-jackson-the-experience-3d.json) |
 | Michael Jackson's Moonwalker | 18139 | [18139-michael-jacksons-moonwalker.json](./18139-michael-jacksons-moonwalker.json) |
@@ -13372,6 +13374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Kung Fu Panda | 299203 | [299203-minecraft-kung-fu-panda.json](./299203-minecraft-kung-fu-panda.json) |
 | MInecraft: Lava Chicken | 327116 | [327116-minecraft-lava-chicken.json](./327116-minecraft-lava-chicken.json) |
 | Minecraft: Legends - Deluxe Edition | 233678 | [233678-minecraft-legends-deluxe-edition.json](./233678-minecraft-legends-deluxe-edition.json) |
+| Minecraft: Legends - Deluxe Skin Pack | 301739 | [301739-minecraft-legends-deluxe-skin-pack.json](./301739-minecraft-legends-deluxe-skin-pack.json) |
 | Minecraft: Lightyear | 254263 | [254263-minecraft-lightyear.json](./254263-minecraft-lightyear.json) |
 | Minecraft: LittleBigPlanet Edition | 234238 | [234238-minecraft-littlebigplanet-edition.json](./234238-minecraft-littlebigplanet-edition.json) |
 | MInecraft: Marvel Avengers Skin Pack | 254877 | [254877-minecraft-marvel-avengers-skin-pack.json](./254877-minecraft-marvel-avengers-skin-pack.json) |
@@ -18231,6 +18234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morbid Inhale | 173000 | [173000-morbid-inhale.json](./173000-morbid-inhale.json) |
 | Morbid Land | 62826 | [62826-morbid-land.json](./62826-morbid-land.json) |
 | Morbid Mailroom | 381541 | [381541-morbid-mailroom.json](./381541-morbid-mailroom.json) |
+| Morbid: The Lords & Acolytes Bundle | 301758 | [301758-morbid-the-lords-and-acolytes-bundle.json](./301758-morbid-the-lords-and-acolytes-bundle.json) |
 | Morbid: The Lords of Ire | 237772 | [237772-morbid-the-lords-of-ire.json](./237772-morbid-the-lords-of-ire.json) |
 | Morbid: The Seven Acolytes - Signature Edition | 139857 | [139857-morbid-the-seven-acolytes-signature-edition.json](./139857-morbid-the-seven-acolytes-signature-edition.json) |
 | Morbidity: 1 | 271757 | [271757-morbidity-1.json](./271757-morbidity-1.json) |
@@ -20798,6 +20802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Diaries | 153948 | [153948-murder-diaries.json](./153948-murder-diaries.json) |
 | Murder Diaries 2 | 166830 | [166830-murder-diaries-2.json](./166830-murder-diaries-2.json) |
 | Murder Diaries 3: Santa's Trail of Blood | 186949 | [186949-murder-diaries-3-santas-trail-of-blood.json](./186949-murder-diaries-3-santas-trail-of-blood.json) |
+| Murder Diaries Series Bundle | 301742 | [301742-murder-diaries-series-bundle.json](./301742-murder-diaries-series-bundle.json) |
 | Murder Diaries: Ankara | 88185 | [88185-murder-diaries-ankara.json](./88185-murder-diaries-ankara.json) |
 | Murder Dog IV | 136575 | [136575-murder-dog-iv.json](./136575-murder-dog-iv.json) |
 | Murder Generation: Cream City Chaos | 255276 | [255276-murder-generation-cream-city-chaos.json](./255276-murder-generation-cream-city-chaos.json) |
@@ -21521,6 +21526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX vs. ATV: Legends - 2025 Monster Energy Supercross Championship | 350639 | [350639-mx-vs-atv-legends-2025-monster-energy-supercross-championship.json](./350639-mx-vs-atv-legends-2025-monster-energy-supercross-championship.json) |
 | MX vs. ATV: Legends - Collector's Edition | 194824 | [194824-mx-vs-atv-legends-collectors-edition.json](./194824-mx-vs-atv-legends-collectors-edition.json) |
 | MX vs. ATV: Legends - Customization Pack | 350651 | [350651-mx-vs-atv-legends-customization-pack.json](./350651-mx-vs-atv-legends-customization-pack.json) |
+| MX vs. ATV: Legends - Deluxe Edition | 301750 | [301750-mx-vs-atv-legends-deluxe-edition.json](./301750-mx-vs-atv-legends-deluxe-edition.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2023 | 274741 | [274741-mx-vs-atv-legends-gasgas-pack-2023.json](./274741-mx-vs-atv-legends-gasgas-pack-2023.json) |
 | MX vs. ATV: Legends - GASGAS Pack 2025 | 356699 | [356699-mx-vs-atv-legends-gasgas-pack-2025.json](./356699-mx-vs-atv-legends-gasgas-pack-2025.json) |
 | MX vs. ATV: Legends - Honda Pack | 233356 | [233356-mx-vs-atv-legends-honda-pack.json](./233356-mx-vs-atv-legends-honda-pack.json) |
