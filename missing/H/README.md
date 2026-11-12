@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hairy Legs | 91880 | [91880-hairy-legs.json](./91880-hairy-legs.json) |
 | Hairy Tales | 22172 | [22172-hairy-tales.json](./22172-hairy-tales.json) |
 | Hairy Trees Massacre | 299833 | [299833-hairy-trees-massacre.json](./299833-hairy-trees-massacre.json) |
+| Haishan | 250573 | [250573-haishan.json](./250573-haishan.json) |
 | Haishin | 376675 | [376675-haishin.json](./376675-haishin.json) |
 | Haisonmeguri | 207523 | [207523-haisonmeguri.json](./207523-haisonmeguri.json) |
 | Haitenai RPG | 211725 | [211725-haitenai-rpg.json](./211725-haitenai-rpg.json) |
@@ -12222,6 +12223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Old is James? | 292990 | [292990-how-old-is-james.json](./292990-how-old-is-james.json) |
 | How Should I Keep a House Squeaky Clean, With a Filthy Little Neighbour Ghost? | 373080 | [373080-how-should-i-keep-a-house-squeaky-clean-with-a-filthy-little-neighbour-ghost.json](./373080-how-should-i-keep-a-house-squeaky-clean-with-a-filthy-little-neighbour-ghost.json) |
 | How Stories Die | 127855 | [127855-how-stories-die.json](./127855-how-stories-die.json) |
+| How the Cossacks searched for Mona Lisa | 250577 | [250577-how-the-cossacks-searched-for-mona-lisa.json](./250577-how-the-cossacks-searched-for-mona-lisa.json) |
 | How The Grinch Stole Christmas!: Dr. Seuss Mobile | 84195 | [84195-how-the-grinch-stole-christmas-dr-seuss-mobile.json](./84195-how-the-grinch-stole-christmas-dr-seuss-mobile.json) |
 | How the Leopard Got His Spots | 363985 | [363985-how-the-leopard-got-his-spots.json](./363985-how-the-leopard-got-his-spots.json) |
 | How the Little Match Girl Got Her Colt Paterson Revolver, and Taught a Virtue to a Goblin | 290403 | [290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json](./290403-how-the-little-match-girl-got-her-colt-paterson-revolver-and-taught-a-virtue-to-a-goblin.json) |
