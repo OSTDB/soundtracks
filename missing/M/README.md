@@ -4387,6 +4387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party Challenge World | 230168 | [230168-mario-party-challenge-world.json](./230168-mario-party-challenge-world.json) |
 | Mario Party Heardle | 203828 | [203828-mario-party-heardle.json](./203828-mario-party-heardle.json) |
 | Mario Party Kuru-kuru! Carnival | 230166 | [230166-mario-party-kuru-kuru-carnival.json](./230166-mario-party-kuru-kuru-carnival.json) |
+| Mario Party Legacy 1 Vol. 1 | 268688 | [268688-mario-party-legacy-1-vol-1.json](./268688-mario-party-legacy-1-vol-1.json) |
 | Mario Party Legacy 1 Vol. 11 | 283511 | [283511-mario-party-legacy-1-vol-11.json](./283511-mario-party-legacy-1-vol-11.json) |
 | Mario Party Legacy 1 Vol. 12 | 283516 | [283516-mario-party-legacy-1-vol-12.json](./283516-mario-party-legacy-1-vol-12.json) |
 | Mario Party Legacy 1 Vol. 14 | 283630 | [283630-mario-party-legacy-1-vol-14.json](./283630-mario-party-legacy-1-vol-14.json) |
@@ -4961,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maru Expedition: We Can Fly | 357427 | [357427-maru-expedition-we-can-fly.json](./357427-maru-expedition-we-can-fly.json) |
 | Maru Goukaku: Shikaku Dasshu! IT Passport Shiken, Kihon Jouhou Gijutsusha Shiken, Ouyou Jouhou Gijutsusha Shiken | 269612 | [269612-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json](./269612-maru-goukaku-shikaku-dasshu-it-passport-shiken-kihon-jouhou-gijutsusha-shiken-ouyou-jouhou-gijutsusha-shiken.json) |
 | Maru Kaite DonDon Oboeru: Kyoui no Tsugawa Shiki Kanji Kioku Jutsu - Kiso Gakushuu-hen | 321308 | [321308-maru-kaite-dondon-oboeru-kyoui-no-tsugawa-shiki-kanji-kioku-jutsu-kiso-gakushuu-hen.json](./321308-maru-kaite-dondon-oboeru-kyoui-no-tsugawa-shiki-kanji-kioku-jutsu-kiso-gakushuu-hen.json) |
+| Maru-Batsu Joshiki-ryoku Kantei | 268618 | [268618-maru-batsu-joshiki-ryoku-kantei.json](./268618-maru-batsu-joshiki-ryoku-kantei.json) |
 | Maru-chan de Guu! | 107597 | [107597-maru-chan-de-guu.json](./107597-maru-chan-de-guu.json) |
 | Maru's Mission | 49039 | [49039-marus-mission.json](./49039-marus-mission.json) |
 | Maruchi Akindo | 396190 | [396190-maruchi-akindo.json](./396190-maruchi-akindo.json) |
@@ -5698,6 +5700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Poker | 71886 | [71886-master-poker.json](./71886-master-poker.json) |
 | Master Pong | 230658 | [230658-master-pong.json](./230658-master-pong.json) |
 | Master Pyrox Wizard Smackdown | 102924 | [102924-master-pyrox-wizard-smackdown.json](./102924-master-pyrox-wizard-smackdown.json) |
+| Master Quest 2 Two: Best Buy Edition | 268690 | [268690-master-quest-2-two-best-buy-edition.json](./268690-master-quest-2-two-best-buy-edition.json) |
 | Master Rallye | 44707 | [44707-master-rallye.json](./44707-master-rallye.json) |
 | Master Reboot | 10541 | [10541-master-reboot.json](./10541-master-reboot.json) |
 | Master RNG | 341216 | [341216-master-rng.json](./341216-master-rng.json) |
@@ -5741,6 +5744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mastermind | 95406 | [95406-mastermind.json](./95406-mastermind.json) |
 | Mastermind - Cows and Bulls Free Word Game | 89711 | [89711-mastermind-cows-and-bulls-free-word-game.json](./89711-mastermind-cows-and-bulls-free-word-game.json) |
 | Mastermind Classic | 135001 | [135001-mastermind-classic.json](./135001-mastermind-classic.json) |
+| Mastermind: World Conqueror | 268681 | [268681-mastermind-world-conqueror.json](./268681-mastermind-world-conqueror.json) |
 | Mastermine | 155924 | [155924-mastermine.json](./155924-mastermine.json) |
 | Masternoid | 254402 | [254402-masternoid.json](./254402-masternoid.json) |
 | Masteroid | 124232 | [124232-masteroid.json](./124232-masteroid.json) |
