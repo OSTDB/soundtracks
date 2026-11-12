@@ -7692,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fix and Foxi: Episode 1 - Lupo | 208380 | [208380-fix-and-foxi-episode-1-lupo.json](./208380-fix-and-foxi-episode-1-lupo.json) |
 | Fix EV3 Rover | 104002 | [104002-fix-ev3-rover.json](./104002-fix-ev3-rover.json) |
 | Fix Fixer | 253504 | [253504-fix-fixer.json](./253504-fix-fixer.json) |
+| Fix It | 278034 | [278034-fix-it.json](./278034-fix-it.json) |
 | Fix It: Home Improvement | 124987 | [124987-fix-it-home-improvement.json](./124987-fix-it-home-improvement.json) |
 | Fix It: Home Improvement Challenge | 50962 | [50962-fix-it-home-improvement-challenge.json](./50962-fix-it-home-improvement-challenge.json) |
 | Fix it: The Handyman Simulator | 193571 | [193571-fix-it-the-handyman-simulator.json](./193571-fix-it-the-handyman-simulator.json) |
@@ -12941,6 +12942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friday Night Pixtor | 343820 | [343820-friday-night-pixtor.json](./343820-friday-night-pixtor.json) |
 | Friday Night Trepidation | 231470 | [231470-friday-night-trepidation.json](./231470-friday-night-trepidation.json) |
 | Friday Night Troubleshootin' | 393267 | [393267-friday-night-troubleshootin.json](./393267-friday-night-troubleshootin.json) |
+| Friday Night Wumpin' vs. Crash | 278032 | [278032-friday-night-wumpin-vs-crash.json](./278032-friday-night-wumpin-vs-crash.json) |
 | Friday the 13th | 8530 | [8530-friday-the-13th.json](./8530-friday-the-13th.json) |
 | Friday the 13th Revisited | 395706 | [395706-friday-the-13th-revisited.json](./395706-friday-the-13th-revisited.json) |
 | Friday the 13th RPG: A Fan Game | 270660 | [270660-friday-the-13th-rpg-a-fan-game.json](./270660-friday-the-13th-rpg-a-fan-game.json) |
@@ -14357,6 +14359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Pack | 319790 | [319790-fun-pack.json](./319790-fun-pack.json) |
 | Fun Pack Series Edition | 331816 | [331816-fun-pack-series-edition.json](./331816-fun-pack-series-edition.json) |
 | Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
+| Fun Park ZX81 | 278039 | [278039-fun-park-zx81.json](./278039-fun-park-zx81.json) |
 | Fun Platformer | 173943 | [173943-fun-platformer.json](./173943-fun-platformer.json) |
 | Fun Puzzles Bundle | 331544 | [331544-fun-puzzles-bundle.json](./331544-fun-puzzles-bundle.json) |
 | Fun Puzzles Premium Bundle | 331545 | [331545-fun-puzzles-premium-bundle.json](./331545-fun-puzzles-premium-bundle.json) |
