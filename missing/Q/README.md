@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest II | 93202 | [93202-quest-ii.json](./93202-quest-ii.json) |
 | Quest Industries | 293573 | [293573-quest-industries.json](./293573-quest-industries.json) |
 | Quest Machina | 285951 | [285951-quest-machina.json](./285951-quest-machina.json) |
+| Quest Master | 252350 | [252350-quest-master.json](./252350-quest-master.json) |
 | Quest Master's Realm | 235966 | [235966-quest-masters-realm.json](./235966-quest-masters-realm.json) |
 | Quest Master's Realm: Land of the Phoenix | 317077 | [317077-quest-masters-realm-land-of-the-phoenix.json](./317077-quest-masters-realm-land-of-the-phoenix.json) |
 | Quest of Dungeloria | 293057 | [293057-quest-of-dungeloria.json](./293057-quest-of-dungeloria.json) |
