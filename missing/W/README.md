@@ -4664,7 +4664,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Tripod? | 180801 | [180801-wheres-my-tripod.json](./180801-wheres-my-tripod.json) |
 | Where's My Valentine? | 400612 | [400612-wheres-my-valentine.json](./400612-wheres-my-valentine.json) |
 | Where's My Water? | 13460 | [13460-wheres-my-water.json](./13460-wheres-my-water.json) |
+| Where’s My Water? Allie’s Story | 252435 | [252435-where-s-my-water-allie-s-story.json](./252435-where-s-my-water-allie-s-story.json) |
+| Where’s My Water? Cranky’s Story | 252434 | [252434-where-s-my-water-cranky-s-story.json](./252434-where-s-my-water-cranky-s-story.json) |
 | Where's My Water? Featuring XYY | 61758 | [61758-wheres-my-water-featuring-xyy.json](./61758-wheres-my-water-featuring-xyy.json) |
+| Where’s My Water? The Mystery Duck’s Story | 252433 | [252433-where-s-my-water-the-mystery-duck-s-story.json](./252433-where-s-my-water-the-mystery-duck-s-story.json) |
 | Where's My What? | 31201 | [31201-wheres-my-what.json](./31201-wheres-my-what.json) |
 | Where's Oswald? | 207124 | [207124-wheres-oswald.json](./207124-wheres-oswald.json) |
 | Where's Our Ouis? | 408927 | [408927-wheres-our-ouis.json](./408927-wheres-our-ouis.json) |
