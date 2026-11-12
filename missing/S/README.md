@@ -35868,6 +35868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Travis Outfit and Wig | 388810 | [388810-super-smash-bros-ultimate-travis-outfit-and-wig.json](./388810-super-smash-bros-ultimate-travis-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Ultron Moveset | 395035 | [395035-super-smash-bros-ultimate-ultron-moveset.json](./395035-super-smash-bros-ultimate-ultron-moveset.json) |
 | Super Smash Bros. Ultimate: Vegeta Moveset | 375984 | [375984-super-smash-bros-ultimate-vegeta-moveset.json](./375984-super-smash-bros-ultimate-vegeta-moveset.json) |
+| Super Smash Bros. Ultimate: Waluigi Moveset | 250575 | [250575-super-smash-bros-ultimate-waluigi-moveset.json](./250575-super-smash-bros-ultimate-waluigi-moveset.json) |
 | Super Smash Bros. Ultimate: Wario Land Wario Moveset | 394294 | [394294-super-smash-bros-ultimate-wario-land-wario-moveset.json](./394294-super-smash-bros-ultimate-wario-land-wario-moveset.json) |
 | Super Smash Bros. Ultimate: Waterfall Basin | 330994 | [330994-super-smash-bros-ultimate-waterfall-basin.json](./330994-super-smash-bros-ultimate-waterfall-basin.json) |
 | Super Smash Bros. Ultimate: Waxing Crescent Meta Knight Moveset | 394597 | [394597-super-smash-bros-ultimate-waxing-crescent-meta-knight-moveset.json](./394597-super-smash-bros-ultimate-waxing-crescent-meta-knight-moveset.json) |
