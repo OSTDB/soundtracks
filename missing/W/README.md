@@ -7709,6 +7709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderful Girls | 156620 | [156620-wonderful-girls.json](./156620-wonderful-girls.json) |
 | Wonderful Handhelds | 405078 | [405078-wonderful-handhelds.json](./405078-wonderful-handhelds.json) |
 | Wonderful Jigsaw | 400078 | [400078-wonderful-jigsaw.json](./400078-wonderful-jigsaw.json) |
+| Wonderful Journey | 301203 | [301203-wonderful-journey.json](./301203-wonderful-journey.json) |
 | Wonderful mini golf | 175301 | [175301-wonderful-mini-golf.json](./175301-wonderful-mini-golf.json) |
 | Wonderful Monsters: The Flower Crossing | 332363 | [332363-wonderful-monsters-the-flower-crossing.json](./332363-wonderful-monsters-the-flower-crossing.json) |
 | Wonderful Neoran Valley | 393100 | [393100-wonderful-neoran-valley.json](./393100-wonderful-neoran-valley.json) |
