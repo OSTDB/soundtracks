@@ -1937,12 +1937,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eigo de Tabi Suru: Little Charo | 136804 | [136804-eigo-de-tabi-suru-little-charo.json](./136804-eigo-de-tabi-suru-little-charo.json) |
 | Eigo Monogatari | 324642 | [324642-eigo-monogatari.json](./324642-eigo-monogatari.json) |
 | Eigo wo Taberu Fushigi na Ikimono | 338715 | [338715-eigo-wo-taberu-fushigi-na-ikimono.json](./338715-eigo-wo-taberu-fushigi-na-ikimono.json) |
+| Eigo wo Taberu Fushigi na Ikimono Marsh | 269812 | [269812-eigo-wo-taberu-fushigi-na-ikimono-marsh.json](./269812-eigo-wo-taberu-fushigi-na-ikimono-marsh.json) |
 | Eijukugo Target 1000 DS | 317397 | [317397-eijukugo-target-1000-ds.json](./317397-eijukugo-target-1000-ds.json) |
 | Eikan ha Kimi ni: Koukou Yakyuu Zenkoku Taikai | 210578 | [210578-eikan-ha-kimi-ni-koukou-yakyuu-zenkoku-taikai.json](./210578-eikan-ha-kimi-ni-koukou-yakyuu-zenkoku-taikai.json) |
 | Eikan wa Kimi Ni 4 | 200451 | [200451-eikan-wa-kimi-ni-4.json](./200451-eikan-wa-kimi-ni-4.json) |
 | Eiken DS | 269752 | [269752-eiken-ds.json](./269752-eiken-ds.json) |
 | Eiken Kakomondai Shuuroku: Eiken DS 2 Deluxe | 269815 | [269815-eiken-kakomondai-shuuroku-eiken-ds-2-deluxe.json](./269815-eiken-kakomondai-shuuroku-eiken-ds-2-deluxe.json) |
 | Eiketsu Taisen | 253139 | [253139-eiketsu-taisen.json](./253139-eiketsu-taisen.json) |
+| Eikoh Seminar Koushiki DS Kyouzai: Chuugaku Eitango - Eitan Zamurai DS | 269813 | [269813-eikoh-seminar-koushiki-ds-kyouzai-chuugaku-eitango-eitan-zamurai-ds.json](./269813-eikoh-seminar-koushiki-ds-kyouzai-chuugaku-eitango-eitan-zamurai-ds.json) |
 | Eikoh Seminar Koushiki DS Kyouzai: Koukou Eitango - Eitan Zamurai DS | 269816 | [269816-eikoh-seminar-koushiki-ds-kyouzai-koukou-eitango-eitan-zamurai-ds.json](./269816-eikoh-seminar-koushiki-ds-kyouzai-koukou-eitango-eitan-zamurai-ds.json) |
 | Eikoh Seminar Koushiki DS Kyouzai: Shougakkou Eigo - Eitan Zamurai DS | 269817 | [269817-eikoh-seminar-koushiki-ds-kyouzai-shougakkou-eigo-eitan-zamurai-ds.json](./269817-eikoh-seminar-koushiki-ds-kyouzai-shougakkou-eigo-eitan-zamurai-ds.json) |
 | Eikoku Tantei Mysteria | 221826 | [221826-eikoku-tantei-mysteria.json](./221826-eikoku-tantei-mysteria.json) |
