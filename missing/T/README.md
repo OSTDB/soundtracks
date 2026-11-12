@@ -8910,6 +8910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devilz Work | 315512 | [315512-the-devilz-work.json](./315512-the-devilz-work.json) |
 | The Devious Four Chronicles 3: The Crater | 276884 | [276884-the-devious-four-chronicles-3-the-crater.json](./276884-the-devious-four-chronicles-3-the-crater.json) |
 | The Devious Four Chronicles 4: Hunter's Revenge ReVised | 276883 | [276883-the-devious-four-chronicles-4-hunters-revenge-revised.json](./276883-the-devious-four-chronicles-4-hunters-revenge-revised.json) |
+| The Devious Four Chronicles 6: The Fourth Sector | 276891 | [276891-the-devious-four-chronicles-6-the-fourth-sector.json](./276891-the-devious-four-chronicles-6-the-fourth-sector.json) |
 | The Devious Four Chronicles 8: Goddess Robes | 321461 | [321461-the-devious-four-chronicles-8-goddess-robes.json](./321461-the-devious-four-chronicles-8-goddess-robes.json) |
 | The Devourer: Hunted Souls | 238626 | [238626-the-devourer-hunted-souls.json](./238626-the-devourer-hunted-souls.json) |
 | The Dew | 55273 | [55273-the-dew.json](./55273-the-dew.json) |
@@ -12374,6 +12375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kepler Experiment | 376527 | [376527-the-kepler-experiment.json](./376527-the-kepler-experiment.json) |
 | The Ketchup Story | 188204 | [188204-the-ketchup-story.json](./188204-the-ketchup-story.json) |
 | The Key | 183213 | [183213-the-key.json](./183213-the-key.json) |
+| The Key | 276988 | [276988-the-key.json](./276988-the-key.json) |
 | The Key | 330293 | [330293-the-key.json](./330293-the-key.json) |
 | The Key 1: Flight From Arcadia | 99112 | [99112-the-key-1-flight-from-arcadia.json](./99112-the-key-1-flight-from-arcadia.json) |
 | The Key of Avalon | 308055 | [308055-the-key-of-avalon.json](./308055-the-key-of-avalon.json) |
