@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haken wo Nigire: 47 Todoufuken Taisen | 110107 | [110107-haken-wo-nigire-47-todoufuken-taisen.json](./110107-haken-wo-nigire-47-todoufuken-taisen.json) |
 | Hakkaku Doku | 323707 | [323707-hakkaku-doku.json](./323707-hakkaku-doku.json) |
 | Hakkemii no Uranai SP | 354390 | [354390-hakkemii-no-uranai-sp.json](./354390-hakkemii-no-uranai-sp.json) |
+| Hakken! Oshigoto Naanda? | 272426 | [272426-hakken-oshigoto-naanda.json](./272426-hakken-oshigoto-naanda.json) |
 | Hakkenden | 327200 | [327200-hakkenden.json](./327200-hakkenden.json) |
 | Hakkenkast | 311673 | [311673-hakkenkast.json](./311673-hakkenkast.json) |
 | Hako | 22468 | [22468-hako.json](./22468-hako.json) |
@@ -3235,6 +3236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayo and the Emporium | 342298 | [342298-hayo-and-the-emporium.json](./342298-hayo-and-the-emporium.json) |
 | Haypi Monster 3 | 129610 | [129610-haypi-monster-3.json](./129610-haypi-monster-3.json) |
 | Haypi Monster: The Lost Tower | 392105 | [392105-haypi-monster-the-lost-tower.json](./392105-haypi-monster-the-lost-tower.json) |
+| Hayven Celestia: Under One Sky | 272515 | [272515-hayven-celestia-under-one-sky.json](./272515-hayven-celestia-under-one-sky.json) |
 | Haywire | 149133 | [149133-haywire.json](./149133-haywire.json) |
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
 | Haywire | 400380 | [400380-haywire.json](./400380-haywire.json) |
