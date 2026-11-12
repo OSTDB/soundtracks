@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type DX: Music Encore | 399802 | [399802-r-type-dx-music-encore.json](./399802-r-type-dx-music-encore.json) |
 | R-Type Final | 24109 | [24109-r-type-final.json](./24109-r-type-final.json) |
 | R-Type Final 2 | 116899 | [116899-r-type-final-2.json](./116899-r-type-final-2.json) |
+| R-Type Final 2: B-99 Apocalypse R-Craft | 301735 | [301735-r-type-final-2-b-99-apocalypse-r-craft.json](./301735-r-type-final-2-b-99-apocalypse-r-craft.json) |
 | R-Type Final 2: Digital Deluxe Edition | 164704 | [164704-r-type-final-2-digital-deluxe-edition.json](./164704-r-type-final-2-digital-deluxe-edition.json) |
 | R-Type Final 2: DLC Set 1 | 155065 | [155065-r-type-final-2-dlc-set-1.json](./155065-r-type-final-2-dlc-set-1.json) |
 | R-Type Final 2: DLC Set 2 | 155064 | [155064-r-type-final-2-dlc-set-2.json](./155064-r-type-final-2-dlc-set-2.json) |
