@@ -5272,6 +5272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debugger 4406 | 187218 | [187218-debugger-4406.json](./187218-debugger-4406.json) |
 | Debugger Recoded | 211564 | [211564-debugger-recoded.json](./211564-debugger-recoded.json) |
 | Debugging Hero | 351164 | [351164-debugging-hero.json](./351164-debugging-hero.json) |
+| Debut Project: Cooking Cafe | 316507 | [316507-debut-project-cooking-cafe.json](./316507-debut-project-cooking-cafe.json) |
 | Debut: Planet Simulation | 12567 | [12567-debut-planet-simulation.json](./12567-debut-planet-simulation.json) |
 | Deca Sports 3 | 20699 | [20699-deca-sports-3.json](./20699-deca-sports-3.json) |
 | Deca Sports Extreme | 6755 | [6755-deca-sports-extreme.json](./6755-deca-sports-extreme.json) |
@@ -12276,6 +12277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Docchi no I ga suki desu ka? | 284121 | [284121-docchi-no-i-ga-suki-desu-ka.json](./284121-docchi-no-i-ga-suki-desu-ka.json) |
 | Doce Fim: Sweetend Placebo | 391576 | [391576-doce-fim-sweetend-placebo.json](./391576-doce-fim-sweetend-placebo.json) |
 | Doces & Calabouços: Caos no Reino do Doce | 335244 | [335244-doces-and-calaboucos-caos-no-reino-do-doce.json](./335244-doces-and-calaboucos-caos-no-reino-do-doce.json) |
+| Doces Santos o Jogo | 317120 | [317120-doces-santos-o-jogo.json](./317120-doces-santos-o-jogo.json) |
 | Docile Fright | 237212 | [237212-docile-fright.json](./237212-docile-fright.json) |
 | Dock King | 204420 | [204420-dock-king.json](./204420-dock-king.json) |
 | Dock'em | 91706 | [91706-dockem.json](./91706-dockem.json) |
@@ -16404,6 +16406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Blade II | 107605 | [107605-dragons-blade-ii.json](./107605-dragons-blade-ii.json) |
 | Dragon's Blade: Heroes of Larkwood | 181656 | [181656-dragons-blade-heroes-of-larkwood.json](./181656-dragons-blade-heroes-of-larkwood.json) |
 | Dragon's Blade: HoL | 197723 | [197723-dragons-blade-hol.json](./197723-dragons-blade-hol.json) |
+| Dragon's Brew | 317112 | [317112-dragons-brew.json](./317112-dragons-brew.json) |
 | Dragon's Chronicles: Ankoku Daimaou to Hokuto no Tsurugi | 362167 | [362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json](./362167-dragons-chronicles-ankoku-daimaou-to-hokuto-no-tsurugi.json) |
 | Dragon's Crown | 3002 | [3002-dragons-crown.json](./3002-dragons-crown.json) |
 | Dragon's Crown Pro | 68283 | [68283-dragons-crown-pro.json](./68283-dragons-crown-pro.json) |
