@@ -10252,6 +10252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flow | 140544 | [140544-the-flow.json](./140544-the-flow.json) |
 | The Flow Experience | 191071 | [191071-the-flow-experience.json](./191071-the-flow-experience.json) |
 | The Flower | 361747 | [361747-the-flower.json](./361747-the-flower.json) |
+| The Flower Competition | 311375 | [311375-the-flower-competition.json](./311375-the-flower-competition.json) |
 | The Flower Inspector | 348889 | [348889-the-flower-inspector.json](./348889-the-flower-inspector.json) |
 | The flower of desire | 237166 | [237166-the-flower-of-desire.json](./237166-the-flower-of-desire.json) |
 | The Flower on Christmas Eve | 122052 | [122052-the-flower-on-christmas-eve.json](./122052-the-flower-on-christmas-eve.json) |
@@ -16744,6 +16745,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ritual | 184031 | [184031-the-ritual.json](./184031-the-ritual.json) |
 | The Ritual | 339010 | [339010-the-ritual.json](./339010-the-ritual.json) |
 | The Ritual on Weylyn Island | 26531 | [26531-the-ritual-on-weylyn-island.json](./26531-the-ritual-on-weylyn-island.json) |
+| The Ritual: Part I | 311376 | [311376-the-ritual-part-i.json](./311376-the-ritual-part-i.json) |
+| The Ritual: Part II | 311381 | [311381-the-ritual-part-ii.json](./311381-the-ritual-part-ii.json) |
 | The River | 114227 | [114227-the-river.json](./114227-the-river.json) |
 | The River | 348932 | [348932-the-river.json](./348932-the-river.json) |
 | The River Of Fire | 268730 | [268730-the-river-of-fire.json](./268730-the-river-of-fire.json) |
@@ -25884,6 +25887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toblo | 93989 | [93989-toblo.json](./93989-toblo.json) |
 | Tobor | 217406 | [217406-tobor.json](./217406-tobor.json) |
 | Tobot: Action Quiz Heroes | 346000 | [346000-tobot-action-quiz-heroes.json](./346000-tobot-action-quiz-heroes.json) |
+| TobPaCharge | 311841 | [311841-tobpacharge.json](./311841-tobpacharge.json) |
 | Tobruk: The Clash of Armour | 36906 | [36906-tobruk-the-clash-of-armour.json](./36906-tobruk-the-clash-of-armour.json) |
 | Tobu Tobu Girl | 57317 | [57317-tobu-tobu-girl.json](./57317-tobu-tobu-girl.json) |
 | Tobu Tobu Girl Deluxe | 123211 | [123211-tobu-tobu-girl-deluxe.json](./123211-tobu-tobu-girl-deluxe.json) |
@@ -29764,6 +29768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Life: A Railway Simulator | 163012 | [163012-train-life-a-railway-simulator.json](./163012-train-life-a-railway-simulator.json) |
 | Train Life: A Railway Simulator - 1920's Orient-Express Train | 219541 | [219541-train-life-a-railway-simulator-1920s-orient-express-train.json](./219541-train-life-a-railway-simulator-1920s-orient-express-train.json) |
 | Train Life: A Railway Simulator - The Orient-Express Edition | 214141 | [214141-train-life-a-railway-simulator-the-orient-express-edition.json](./214141-train-life-a-railway-simulator-the-orient-express-edition.json) |
+| Train Lovers | 311373 | [311373-train-lovers.json](./311373-train-lovers.json) |
 | Train Manager | 114062 | [114062-train-manager.json](./114062-train-manager.json) |
 | Train Maze Master | 365040 | [365040-train-maze-master.json](./365040-train-maze-master.json) |
 | Train Mechanic Simulator 2017 | 27940 | [27940-train-mechanic-simulator-2017.json](./27940-train-mechanic-simulator-2017.json) |
