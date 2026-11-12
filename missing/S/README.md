@@ -8815,6 +8815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shield Shock: Winter Wonderland Pack | 166431 | [166431-shield-shock-winter-wonderland-pack.json](./166431-shield-shock-winter-wonderland-pack.json) |
 | Shield Strike | 301126 | [301126-shield-strike.json](./301126-shield-strike.json) |
 | Shieldbound | 349406 | [349406-shieldbound.json](./349406-shieldbound.json) |
+| Shielded Souls: Legendary Love | 246616 | [246616-shielded-souls-legendary-love.json](./246616-shielded-souls-legendary-love.json) |
 | Shielding Color | 309240 | [309240-shielding-color.json](./309240-shielding-color.json) |
 | Shieldmaiden | 129709 | [129709-shieldmaiden.json](./129709-shieldmaiden.json) |
 | Shieldmaiden: Remix Edition | 231239 | [231239-shieldmaiden-remix-edition.json](./231239-shieldmaiden-remix-edition.json) |
@@ -15326,6 +15327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SM64 GBA | 314743 | [314743-sm64-gba.json](./314743-sm64-gba.json) |
 | SM64 Generations | 195080 | [195080-sm64-generations.json](./195080-sm64-generations.json) |
 | SM64 GeSEGKt | 392354 | [392354-sm64-gesegkt.json](./392354-sm64-gesegkt.json) |
+| SM64 Melee | 246688 | [246688-sm64-melee.json](./246688-sm64-melee.json) |
 | SM64 Power Star Madness | 358286 | [358286-sm64-power-star-madness.json](./358286-sm64-power-star-madness.json) |
 | SM64 Remastered Quest | 250080 | [250080-sm64-remastered-quest.json](./250080-sm64-remastered-quest.json) |
 | SM64 Royal Legacy PC Port | 378269 | [378269-sm64-royal-legacy-pc-port.json](./378269-sm64-royal-legacy-pc-port.json) |
@@ -20093,6 +20095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Chomper | 230867 | [230867-soul-chomper.json](./230867-soul-chomper.json) |
 | Soul Cipher: The Code Within | 181489 | [181489-soul-cipher-the-code-within.json](./181489-soul-cipher-the-code-within.json) |
 | Soul Clicker | 400739 | [400739-soul-clicker.json](./400739-soul-clicker.json) |
+| Soul Cliff | 246617 | [246617-soul-cliff.json](./246617-soul-cliff.json) |
 | Soul Climb | 189007 | [189007-soul-climb.json](./189007-soul-climb.json) |
 | Soul Covenant | 279381 | [279381-soul-covenant.json](./279381-soul-covenant.json) |
 | Soul Crystal | 47194 | [47194-soul-crystal.json](./47194-soul-crystal.json) |
@@ -25271,6 +25274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Square Dungeon | 180019 | [180019-square-dungeon.json](./180019-square-dungeon.json) |
 | Square Dungeon 2 | 260180 | [260180-square-dungeon-2.json](./260180-square-dungeon-2.json) |
 | Square Edges | 268234 | [268234-square-edges.json](./268234-square-edges.json) |
+| Square Enix AI Tech Preview: The Portopia Serial Murder Case | 246605 | [246605-square-enix-ai-tech-preview-the-portopia-serial-murder-case.json](./246605-square-enix-ai-tech-preview-the-portopia-serial-murder-case.json) |
 | Square Enix Masterpieces: Tomb Raider Bundle | 286664 | [286664-square-enix-masterpieces-tomb-raider-bundle.json](./286664-square-enix-masterpieces-tomb-raider-bundle.json) |
 | Square Fall | 401811 | [401811-square-fall.json](./401811-square-fall.json) |
 | Square Farm | 125349 | [125349-square-farm.json](./125349-square-farm.json) |
@@ -29740,6 +29744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story of a Line | 391850 | [391850-story-of-a-line.json](./391850-story-of-a-line.json) |
 | Story of a Pawn | 183262 | [183262-story-of-a-pawn.json](./183262-story-of-a-pawn.json) |
 | Story of a Tiny Earth: The Symbolic Ages | 172170 | [172170-story-of-a-tiny-earth-the-symbolic-ages.json](./172170-story-of-a-tiny-earth-the-symbolic-ages.json) |
+| Story of Abandoned School | 246611 | [246611-story-of-abandoned-school.json](./246611-story-of-abandoned-school.json) |
 | Story of Alicia | 373591 | [373591-story-of-alicia.json](./373591-story-of-alicia.json) |
 | Story of Animal Sprite | 243500 | [243500-story-of-animal-sprite.json](./243500-story-of-animal-sprite.json) |
 | Story of Eve - A Hero's Study | 110743 | [110743-story-of-eve-a-heros-study.json](./110743-story-of-eve-a-heros-study.json) |
@@ -34451,6 +34456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Apocalypse | 210596 | [210596-super-mario-apocalypse.json](./210596-super-mario-apocalypse.json) |
 | Super Mario Apocalypse | 210597 | [210597-super-mario-apocalypse.json](./210597-super-mario-apocalypse.json) |
 | Super Mario Attack | 230172 | [230172-super-mario-attack.json](./230172-super-mario-attack.json) |
+| Super Mario Balloon World | 246615 | [246615-super-mario-balloon-world.json](./246615-super-mario-balloon-world.json) |
 | Super Mario Bomber | 369660 | [369660-super-mario-bomber.json](./369660-super-mario-bomber.json) |
 | Super Mario brasileiro | 267931 | [267931-super-mario-brasileiro.json](./267931-super-mario-brasileiro.json) |
 | Super Mario Bratarsi | 323361 | [323361-super-mario-bratarsi.json](./323361-super-mario-bratarsi.json) |
@@ -34738,6 +34744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Odyssey: Fluffy Bluff Kingdom | 345487 | [345487-super-mario-odyssey-fluffy-bluff-kingdom.json](./345487-super-mario-odyssey-fluffy-bluff-kingdom.json) |
 | Super Mario Odyssey: Google Translated | 327482 | [327482-super-mario-odyssey-google-translated.json](./327482-super-mario-odyssey-google-translated.json) |
 | Super Mario Odyssey: Kaizo Mode | 315741 | [315741-super-mario-odyssey-kaizo-mode.json](./315741-super-mario-odyssey-kaizo-mode.json) |
+| Super Mario Odyssey: Superstar Mode | 246690 | [246690-super-mario-odyssey-superstar-mode.json](./246690-super-mario-odyssey-superstar-mode.json) |
 | Super Mario Odyssey: The Lost Kingdoms | 344010 | [344010-super-mario-odyssey-the-lost-kingdoms.json](./344010-super-mario-odyssey-the-lost-kingdoms.json) |
 | Super Mario Odyssey: Wuhu Kingdom | 314569 | [314569-super-mario-odyssey-wuhu-kingdom.json](./314569-super-mario-odyssey-wuhu-kingdom.json) |
 | Super Mario Odyssey: Yoshi Star Kingdom | 246302 | [246302-super-mario-odyssey-yoshi-star-kingdom.json](./246302-super-mario-odyssey-yoshi-star-kingdom.json) |
