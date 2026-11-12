@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-12T04:35:51.721Z",
-  "total_soundtracks": 3250,
+  "generated_at": "2026-11-12T04:45:54.004Z",
+  "total_soundtracks": 3251,
   "games": [
     {
       "igdb_id": 7522,
@@ -12955,6 +12955,20 @@
         {
           "album_name": "Floppy Knights (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7ItttycyjQ4ZPNgGVcIBnv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 34922,
+      "game_name": "Florensia",
+      "game_url": "https://ostdb.net/games/florensia",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733d43089162cfbaeb1e225c5c",
+      "albums": [
+        {
+          "album_name": "Florensia Original Game Soundtrack \"The Corrupted Abyss\"",
+          "spotify_url": "https://open.spotify.com/album/1icgqkiWcMmSWTck8YNPzD",
           "apple_music_url": "",
           "album_link_url": ""
         }
