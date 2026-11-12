@@ -1892,6 +1892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper-io | 79219 | [79219-paper-io.json](./79219-paper-io.json) |
 | Paper.io | 113940 | [113940-paper-io.json](./113940-paper-io.json) |
 | Paper.io 2 | 108159 | [108159-paper-io-2.json](./108159-paper-io-2.json) |
+| Paper.io 3D | 257127 | [257127-paper-io-3d.json](./257127-paper-io-3d.json) |
 | Paper.io 4 | 257133 | [257133-paper-io-4.json](./257133-paper-io-4.json) |
 | Paper.Void | 375068 | [375068-paper-void.json](./375068-paper-void.json) |
 | Paperama | 83225 | [83225-paperama.json](./83225-paperama.json) |
