@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Survivors | 338553 | [338553-waifu-survivors.json](./338553-waifu-survivors.json) |
 | Waifu Uncovered | 137907 | [137907-waifu-uncovered.json](./137907-waifu-uncovered.json) |
 | Waifu Uncovered | 375431 | [375431-waifu-uncovered.json](./375431-waifu-uncovered.json) |
+| Waifu vs Zombies | 274697 | [274697-waifu-vs-zombies.json](./274697-waifu-vs-zombies.json) |
 | Waifu vs. Evil | 154372 | [154372-waifu-vs-evil.json](./154372-waifu-vs-evil.json) |
 | Waifu Wars | 213573 | [213573-waifu-wars.json](./213573-waifu-wars.json) |
 | Waifu Wars Online | 119642 | [119642-waifu-wars-online.json](./119642-waifu-wars-online.json) |
@@ -2795,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waveling Island | 424834 | [424834-waveling-island.json](./424834-waveling-island.json) |
 | Waven | 109536 | [109536-waven.json](./109536-waven.json) |
 | Waven: Drhell's Bells Pack | 289458 | [289458-waven-drhells-bells-pack.json](./289458-waven-drhells-bells-pack.json) |
+| Waven: Welcome Pack | 274618 | [274618-waven-welcome-pack.json](./274618-waven-welcome-pack.json) |
 | WaveOfTimeLite | 102893 | [102893-waveoftimelite.json](./102893-waveoftimelite.json) |
 | WavePlayer | 190161 | [190161-waveplayer.json](./190161-waveplayer.json) |
 | Waver: A Typing Adventure | 165302 | [165302-waver-a-typing-adventure.json](./165302-waver-a-typing-adventure.json) |
@@ -6798,6 +6800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
 | Witch & Hero III | 68449 | [68449-witch-and-hero-iii.json](./68449-witch-and-hero-iii.json) |
 | Witch & Lilies | 222784 | [222784-witch-and-lilies.json](./222784-witch-and-lilies.json) |
+| Witch Academy | 274694 | [274694-witch-academy.json](./274694-witch-academy.json) |
 | Witch Academy: Match 3 | 63428 | [63428-witch-academy-match-3.json](./63428-witch-academy-match-3.json) |
 | Witch Amelia | 219670 | [219670-witch-amelia.json](./219670-witch-amelia.json) |
 | Witch and Council | 191981 | [191981-witch-and-council.json](./191981-witch-and-council.json) |
