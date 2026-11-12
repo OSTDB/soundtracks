@@ -7646,6 +7646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gooka: The Mystery of Janatris | 71426 | [71426-gooka-the-mystery-of-janatris.json](./71426-gooka-the-mystery-of-janatris.json) |
 | Goolems | 244233 | [244233-goolems.json](./244233-goolems.json) |
 | Goomanuvr | 189164 | [189164-goomanuvr.json](./189164-goomanuvr.json) |
+| Goomba BreakOut | 309237 | [309237-goomba-breakout.json](./309237-goomba-breakout.json) |
 | Goomba Racing | 282819 | [282819-goomba-racing.json](./282819-goomba-racing.json) |
 | Goomba's Easter Egg Hunt | 135221 | [135221-goombas-easter-egg-hunt.json](./135221-goombas-easter-egg-hunt.json) |
 | GoombaGotchi | 318523 | [318523-goombagotchi.json](./318523-goombagotchi.json) |
@@ -11233,6 +11234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Additional Character 11: Elphelt Valentine | 279656 | [279656-guilty-gear-strive-additional-character-11-elphelt-valentine.json](./279656-guilty-gear-strive-additional-character-11-elphelt-valentine.json) |
 | Guilty Gear: Strive - Additional Character 12: A.B.A | 293843 | [293843-guilty-gear-strive-additional-character-12-a-b-a.json](./293843-guilty-gear-strive-additional-character-12-a-b-a.json) |
 | Guilty Gear: Strive - Additional Character 13: Slayer | 299722 | [299722-guilty-gear-strive-additional-character-13-slayer.json](./299722-guilty-gear-strive-additional-character-13-slayer.json) |
+| Guilty Gear: Strive - Additional Character 14: Queen Dizzy | 309259 | [309259-guilty-gear-strive-additional-character-14-queen-dizzy.json](./309259-guilty-gear-strive-additional-character-14-queen-dizzy.json) |
 | Guilty Gear: Strive - Additional Character 15: Venom | 309264 | [309264-guilty-gear-strive-additional-character-15-venom.json](./309264-guilty-gear-strive-additional-character-15-venom.json) |
 | Guilty Gear: Strive - Additional Character 16: Unika | 309265 | [309265-guilty-gear-strive-additional-character-16-unika.json](./309265-guilty-gear-strive-additional-character-16-unika.json) |
 | Guilty Gear: Strive - Additional Character 17: Lucy | 309268 | [309268-guilty-gear-strive-additional-character-17-lucy.json](./309268-guilty-gear-strive-additional-character-17-lucy.json) |
