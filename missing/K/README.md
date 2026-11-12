@@ -6748,6 +6748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kusarihime: Jamais Vu | 331686 | [331686-kusarihime-jamais-vu.json](./331686-kusarihime-jamais-vu.json) |
 | Kush Quest | 336255 | [336255-kush-quest.json](./336255-kush-quest.json) |
 | Kuso | 146743 | [146743-kuso.json](./146743-kuso.json) |
+| Kuso Ecstasy | 277058 | [277058-kuso-ecstasy.json](./277058-kuso-ecstasy.json) |
 | Kuso Game Girl Wateri | 335483 | [335483-kuso-game-girl-wateri.json](./335483-kuso-game-girl-wateri.json) |
 | Kusodeka Bayashi | 321647 | [321647-kusodeka-bayashi.json](./321647-kusodeka-bayashi.json) |
 | Kusoge | 184984 | [184984-kusoge.json](./184984-kusoge.json) |
