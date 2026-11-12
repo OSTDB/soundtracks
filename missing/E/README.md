@@ -6683,6 +6683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Winter | 246538 | [246538-eternal-winter.json](./246538-eternal-winter.json) |
 | Eternal Zone Online | 393761 | [393761-eternal-zone-online.json](./393761-eternal-zone-online.json) |
 | Eternal-Time-Love | 302786 | [302786-eternal-time-love.json](./302786-eternal-time-love.json) |
+| EternAlgoRhythm | 280397 | [280397-eternalgorhythm.json](./280397-eternalgorhythm.json) |
 | Eternally | 389492 | [389492-eternally.json](./389492-eternally.json) |
 | Eternally Us | 123002 | [123002-eternally-us.json](./123002-eternally-us.json) |
 | Eternally Yours | 261545 | [261545-eternally-yours.json](./261545-eternally-yours.json) |
