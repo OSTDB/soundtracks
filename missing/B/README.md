@@ -1022,6 +1022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Raccoon | 402005 | [402005-bad-raccoon.json](./402005-bad-raccoon.json) |
@@ -1104,6 +1105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badminton | 246175 | [246175-badminton.json](./246175-badminton.json) |
 | Badminton Clash: Master League - World Championship Arena | 181654 | [181654-badminton-clash-master-league-world-championship-arena.json](./181654-badminton-clash-master-league-world-championship-arena.json) |
 | Badminton Kings VR | 89258 | [89258-badminton-kings-vr.json](./89258-badminton-kings-vr.json) |
+| Badminton League | 308679 | [308679-badminton-league.json](./308679-badminton-league.json) |
 | Badminton Master | 224101 | [224101-badminton-master.json](./224101-badminton-master.json) |
 | Badminton Stars! | 104276 | [104276-badminton-stars.json](./104276-badminton-stars.json) |
 | Badminton Time | 314604 | [314604-badminton-time.json](./314604-badminton-time.json) |
@@ -1287,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baking Fun | 359405 | [359405-baking-fun.json](./359405-baking-fun.json) |
 | Baking Time | 300771 | [300771-baking-time.json](./300771-baking-time.json) |
 | Baking Time: Fast Edition | 310436 | [310436-baking-time-fast-edition.json](./310436-baking-time-fast-edition.json) |
+| Baking Time: Powerful Edition | 308668 | [308668-baking-time-powerful-edition.json](./308668-baking-time-powerful-edition.json) |
 | Baking Time: Speedy Animals | 300947 | [300947-baking-time-speedy-animals.json](./300947-baking-time-speedy-animals.json) |
 | Baking Time: Strong Pets | 300948 | [300948-baking-time-strong-pets.json](./300948-baking-time-strong-pets.json) |
 | Baking with Lizzie | 240961 | [240961-baking-with-lizzie.json](./240961-baking-with-lizzie.json) |
@@ -10956,6 +10959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bling: Fortune Memories | 351525 | [351525-bling-fortune-memories.json](./351525-bling-fortune-memories.json) |
 | Blink | 100297 | [100297-blink.json](./100297-blink.json) |
 | Blink | 27800 | [27800-blink.json](./27800-blink.json) |
+| Blink | 308680 | [308680-blink.json](./308680-blink.json) |
 | Blink | 413761 | [413761-blink.json](./413761-blink.json) |
 | Blink and Die Replay | 319351 | [319351-blink-and-die-replay.json](./319351-blink-and-die-replay.json) |
 | Blink Blonk | 285878 | [285878-blink-blonk.json](./285878-blink-blonk.json) |
